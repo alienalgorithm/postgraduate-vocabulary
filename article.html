@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>记词</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body data-page="article">
+
+<header class="masthead">
+  <div class="shell">
+    <a class="wordmark" href="index.html">记词 <em>Verbatim</em></a>
+    <nav class="nav">
+      <a href="index.html" aria-current="page">文章</a>
+      <a href="words.html">词库</a>
+      <a href="tools/%E5%8D%95%E8%AF%8D%E6%A3%80%E5%AF%9F%E5%AE%98v2.html">检察官</a>
+    </nav>
+  </div>
+</header>
+
+<main class="shell">
+
+  <div class="arthead" id="arthead"></div>
+
+  <div class="tools">
+    <span class="label">阅读</span>
+    <button id="tSrc" aria-pressed="true">显示词源</button>
+    <button id="tCloze" aria-pressed="false">挖空自测</button>
+  </div>
+
+  <div class="pairs" id="pairs"></div>
+
+  <section class="gloss">
+    <h2>50 词速查</h2>
+    <div class="cap">按段落分组。段号与上方对照区一致。</div>
+    <div id="gloss"></div>
+  </section>
+
+  <section class="facts" id="facts"></section>
+
+  <nav class="pager" id="pager"></nav>
+
+</main>
+
+<footer class="foot shell">
+  <span>考研词汇双语读本</span>
+  <a href="index.html">全部文章</a>
+  <a href="words.html">词库</a>
+  <span class="sp">中英加粗一一对应</span>
+</footer>
+
+<script src="data/articles.js"></script>
+<script src="assets/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>词库 · 记词</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body data-page="words">
+
+<header class="masthead">
+  <div class="shell">
+    <a class="wordmark" href="index.html">记词 <em>Verbatim</em></a>
+    <nav class="nav">
+      <a href="index.html">文章</a>
+      <a href="words.html" aria-current="page">词库</a>
+      <a href="tools/%E5%8D%95%E8%AF%8D%E6%A3%80%E5%AF%9F%E5%AE%98v2.html">检察官</a>
+    </nav>
+  </div>
+</header>
+
+<main class="shell narrow">
+
+  <section class="hero" style="padding-bottom:24px">
+    <div class="kicker"><span class="label">已用词索引</span></div>
+    <h1 style="font-size:clamp(28px,4.6vw,42px)">写过的词都在这里。</h1>
+    <p class="sub" id="wstat" style="font:400 13px/1.7 var(--mono);color:var(--ink-3)"></p>
+    <p class="sub">
+      每写一篇新文章，这里自动增加。要选下一篇的词，先看看哪些已经用掉了——
+      重复用词会让读者觉得几篇文章在原地打转。
+    </p>
+  </section>
+
+  <div class="wordbar">
+    <input id="q" type="search" placeholder="输英文或中文，例如 pump 或 水泵" autocomplete="off" aria-label="搜索单词">
+    <span class="count" id="count"></span>
+  </div>
+
+  <div id="alphabet"></div>
+
+</main>
+
+<footer class="foot shell">
+  <span>考研词汇双语读本</span>
+  <a href="index.html">全部文章</a>
+  <span class="sp">新东方乱序版 · 35 个 List · 2545 词</span>
+</footer>
+
+<script src="data/articles.js"></script>
+<script src="assets/site.js"></script>
+</body>
+</html>
