@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>单词检察官 v2.0 · 关键词作文缺陷取证</title>
+<style>
+:root{
+  --paper:#E9EDE6; --paper-2:#F3F5F0; --ink:#18262B; --ink-soft:#4C5F63;
+  --carbon:#3B4E86; --stamp:#A8241C; --clear:#4A6B44; --warn:#8A6410; --rule:#C3C9BA;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--paper);
+  background-image:repeating-linear-gradient(0deg,transparent 0 27px,rgba(24,38,43,.045) 27px 28px);
+  color:var(--ink);font:15px/1.75 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  padding:28px 20px 80px}
+.wrap{max-width:1140px;margin:0 auto}
+.masthead{border-top:3px solid var(--ink);border-bottom:1px solid var(--ink);padding:14px 0 12px;margin-bottom:24px}
+.masthead .row{display:flex;flex-wrap:wrap;align-items:baseline;gap:14px}
+h1{font:700 30px/1.1 "Times New Roman","Songti SC",serif;letter-spacing:.06em}
+h1 sup{font:600 11px/1 ui-monospace,monospace;color:var(--stamp);vertical-align:super;margin-left:6px;letter-spacing:.1em}
+h1 small{display:block;font:400 10px/1.4 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:.32em;color:var(--ink-soft);margin-top:6px}
+.docket{margin-left:auto;font:11px/1.6 ui-monospace,monospace;color:var(--ink-soft);text-align:right;letter-spacing:.08em}
+.lede{margin-top:12px;max-width:66ch;color:var(--ink-soft);font-size:13.5px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:820px){.grid{grid-template-columns:1fr}}
+.panel{background:var(--paper-2);border:1px solid var(--rule);padding:14px}
+.panel h2{font:600 12px/1 ui-monospace,monospace;letter-spacing:.2em;color:var(--carbon);margin-bottom:4px}
+.panel .hint{font-size:11.5px;color:var(--ink-soft);margin-bottom:10px}
+textarea{width:100%;min-height:200px;resize:vertical;background:transparent;border:0;
+  border-top:1px dashed var(--rule);padding-top:10px;color:var(--ink);
+  font:13px/1.85 ui-monospace,SFMono-Regular,Menlo,"PingFang SC",monospace}
+textarea:focus{outline:2px solid var(--carbon);outline-offset:3px}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:20px 0 26px}
+button{font:600 13px/1 -apple-system,"PingFang SC",sans-serif;letter-spacing:.08em;
+  padding:11px 20px;border:1px solid var(--ink);background:var(--ink);color:var(--paper-2);cursor:pointer}
+button:hover{background:#0d1a1e}
+button.ghost{background:transparent;color:var(--ink)}
+button.ghost:hover{background:rgba(24,38,43,.07)}
+button:focus-visible{outline:2px solid var(--carbon);outline-offset:2px}
+.meters{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule);margin-bottom:20px}
+@media(max-width:700px){.meters{grid-template-columns:repeat(2,1fr)}}
+.meter{background:var(--paper-2);padding:11px 13px}
+.meter .k{font:10px/1 ui-monospace,monospace;letter-spacing:.14em;color:var(--ink-soft)}
+.meter .v{font:600 25px/1.2 "Times New Roman",serif;margin-top:5px}
+.meter .n{font-size:11px;color:var(--ink-soft)}
+.gauge{border:1px solid var(--rule);background:var(--paper-2);padding:16px 16px 12px;margin-bottom:20px}
+.gauge h3{font:600 11px/1 ui-monospace,monospace;letter-spacing:.2em;color:var(--carbon);margin-bottom:14px}
+.track{position:relative;height:26px;display:flex;border:1px solid var(--ink)}
+.zone{flex:1;display:flex;align-items:center;justify-content:center;font:10px/1 ui-monospace,monospace;letter-spacing:.08em;color:#fff}
+.z1{background:var(--clear)}.z2{background:var(--warn)}.z3{background:var(--stamp)}
+.needle{position:absolute;top:-9px;bottom:-9px;width:2px;background:var(--ink);transition:left .5s cubic-bezier(.2,.8,.2,1)}
+.needle::after{content:attr(data-v);position:absolute;top:-19px;left:50%;transform:translateX(-50%);
+  font:600 11px/1 ui-monospace,monospace;background:var(--ink);color:var(--paper-2);padding:3px 6px;white-space:nowrap}
+.gauge p{margin-top:20px;font-size:12.5px;color:var(--ink-soft)}
+.rhythm{display:flex;align-items:flex-end;gap:6px;height:74px;margin-top:6px}
+.rbar{flex:1;background:var(--carbon);position:relative;min-height:4px}
+.rbar span{position:absolute;top:-17px;left:0;right:0;text-align:center;font:10px/1 ui-monospace,monospace;color:var(--ink-soft)}
+.rbar b{position:absolute;bottom:-19px;left:0;right:0;text-align:center;font:10px/1 ui-monospace,monospace;color:var(--ink-soft);font-weight:400}
+h2.sec{font:600 12px/1 ui-monospace,monospace;letter-spacing:.22em;color:var(--carbon);
+  border-bottom:1px solid var(--ink);padding-bottom:8px;margin:30px 0 16px;display:flex;justify-content:space-between;align-items:baseline}
+h2.sec em{font:400 11px/1 ui-monospace,monospace;font-style:normal;color:var(--ink-soft);letter-spacing:.08em}
+.case{border:1px solid var(--rule);border-left:4px solid var(--stamp);background:var(--paper-2);padding:13px 16px;margin-bottom:10px}
+.case.mild{border-left-color:var(--warn)}
+.case.check{border-left-color:var(--carbon)}
+.case .no{font:600 10px/1 ui-monospace,monospace;letter-spacing:.14em;color:var(--stamp)}
+.case.mild .no{color:var(--warn)}.case.check .no{color:var(--carbon)}
+.case .ti{font-weight:600;margin:5px 0 7px;font-size:14.5px}
+.case .ev{font:12.5px/1.7 ui-monospace,Menlo,monospace;background:rgba(168,36,28,.07);
+  border-left:2px solid var(--stamp);padding:6px 10px;margin-bottom:8px;word-break:break-word}
+.case.mild .ev{background:rgba(138,100,16,.09);border-left-color:var(--warn)}
+.case.check .ev{background:rgba(59,78,134,.08);border-left-color:var(--carbon)}
+.case .why{font-size:13px;color:var(--ink-soft)}
+.case .fix{font-size:13px;margin-top:6px}
+.case .fix b{color:var(--clear)}
+.clean{border:1px solid var(--clear);background:rgba(74,107,68,.07);padding:15px;text-align:center;
+  font:600 14px/1.6 -apple-system,"PingFang SC",sans-serif;color:var(--clear)}
+.corr{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.tag{font:11.5px/1 ui-monospace,monospace;padding:5px 8px;border:1px solid var(--rule);background:var(--paper-2)}
+.tag.miss{border-color:var(--stamp);color:var(--stamp);background:rgba(168,36,28,.07)}
+ol.manual{list-style:none;counter-reset:m}
+ol.manual li{counter-increment:m;padding:9px 0 9px 42px;border-bottom:1px dashed var(--rule);position:relative;font-size:13.5px}
+ol.manual li::before{content:counter(m,decimal-leading-zero);position:absolute;left:0;top:9px;
+  font:600 11px/1 ui-monospace,monospace;color:var(--carbon);letter-spacing:.1em}
+details{border:1px solid var(--rule);background:var(--paper-2);padding:12px 16px;margin-top:26px}
+summary{cursor:pointer;font:600 12px/1 ui-monospace,monospace;letter-spacing:.18em;color:var(--carbon)}
+table{width:100%;border-collapse:collapse;margin-top:14px;font-size:12.5px}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font:600 10px/1 ui-monospace,monospace;letter-spacing:.12em;color:var(--ink-soft)}
+td.c{font:12px/1.5 ui-monospace,monospace;color:var(--carbon);white-space:nowrap}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <div class="row">
+    <h1>单词检察官<sup>v2.0</sup><small>WORD PROSECUTOR · 词法 / 译法 / 篇章 三层取证</small></h1>
+    <div class="docket">卷宗 / DOCKET<br><span id="rulecount"></span></div>
+  </div>
+  <p class="lede">v2 新增两层：<b>篇章层</b>查论证次序、段落节奏、可执行动作；<b>事实层</b>查年份自洽、限定词守恒、程度越界。每一条都来自实际写坏过的句子。</p>
+</header>
+
+<div class="grid">
+  <div class="panel">
+    <h2>物证 A · 英文</h2>
+    <p class="hint">关键词用 **双星号** 标出</p>
+    <textarea id="en" spellcheck="false"></textarea>
+  </div>
+  <div class="panel">
+    <h2>物证 B · 中文译文</h2>
+    <p class="hint">对应处加粗，并用 (english) 标注词源</p>
+    <textarea id="zh" spellcheck="false"></textarea>
+  </div>
+</div>
+
+<div class="bar">
+  <button onclick="run()">立案检查</button>
+  <button class="ghost" onclick="load('clean')">载入定稿</button>
+  <button class="ghost" onclick="load('buggy')">载入病历 · 全部历史缺陷</button>
+  <button class="ghost" onclick="clr()">清空</button>
+</div>
+
+<div id="out"></div>
+
+<details><summary>规则库全览</summary><div id="rulebook"></div></details>
+
+</div>
+<script>
+/* ═══════════ 第一层：英文词法 / 句法 ═══════════ */
+const EN=[
+{id:'EN-01',cat:'词义误替',sev:'hard',re:/\b(fell|drop(?:ped)?|declin(?:ed|es)|ros(?:e|es)|climb(?:ed)?)\s+abruptly\b/gi,
+ ti:'abrupt 用来形容下降幅度',why:'abrupt＝突然、出人意料；说下降有多快该用 steep。为凑关键词换词，换出了词义错误。',fix:'fell <b>steeply</b>'},
+{id:'EN-02',cat:'搭配拆断',sev:'hard',re:/\bsuperior\s+\w+(\s+\w+)?\s+to\b/gi,
+ ti:'superior…to 被名词劈开',why:'固定搭配是 superior to，中间插名词后 to 会被误读成"让渡给"。',fix:'改用 <b>produced better X than…</b>'},
+{id:'EN-03',cat:'搭配错配',sev:'hard',re:/\bambitious\s+(instrument|tool|device|machine|apparatus|equipment)\b/gi,
+ ti:'ambitious 修饰器物',why:'ambitious 只能形容人或计划，不能形容仪器。明确的词汇错误。',fix:'<b>a powerful instrument</b>'},
+{id:'EN-04',cat:'搭配错配',sev:'hard',re:/\b(resembles?|resembled)\s+(knowledge|mastery|understanding|learning|fluency)\b/gi,
+ ti:'resemble 用于主观感受',why:'resemble 说客观相似；"熟悉感被误当成掌握"重点在感受，母语者用 feel like。',fix:'<b>Familiarity feels like knowledge</b>'},
+{id:'EN-05',cat:'搭配错配',sev:'mild',re:/\bwaste\s+(is|was)\s+not\s+trivial\b/gi,
+ ti:'waste 配 trivial',why:'waste 作抽象不可数名词时与 trivial 语感不合。',fix:'<b>The cost is not trivial</b>'},
+{id:'EN-06',cat:'搭配错配',sev:'mild',re:/\b(lesson|moral|conclusion)s?\s+(emerged|emerges|emerge)\b/gi,
+ ti:'lesson + emerge',why:'lesson 的固有动词是 draw 或 sink in。',fix:'<b>The lesson took time to sink in</b>'},
+{id:'EN-07',cat:'搭配错配',sev:'mild',re:/\bcompress(ed|ing)?\s+into\s+(a|one)\s+(single\s+)?(night|session|evening|weekend)\b/gi,
+ ti:'compress 用于突击复习',why:'compress 是物理压缩；"临时抱佛脚"的本命词是 cram。',fix:'<b>crammed into a single night</b>'},
+{id:'EN-08',cat:'同义反复',sev:'hard',re:/\bslow(ed|s|ing)?\s+to\s+a\s+(gradual|slow|slower|leisurely)\b/gi,
+ ti:'slow to a gradual…',why:'slowed 与 gradual 同义。slow to X 的 X 必须异类（a crawl / a halt）。',fix:'<b>settled into a gradual decline</b>'},
+{id:'EN-09',cat:'范畴打转',sev:'hard',re:/\b(fell|dropped|declined)\b[^.!?]{0,60}\bthen\b[^.!?]{0,60}\b(decline|fall|drop)\b/gi,
+ ti:'下降之后"减速成下降"',why:'下落本身就是 decline，句子绕回自己。',fix:'给数字：<b>Half was gone within the hour</b>'},
+{id:'EN-10',cat:'悬空成分',sev:'hard',re:/\bthe\s+(cost|price|value|benefit)\s+of\s+(keeping|holding|having|making|doing)\s*(?=[.;,:—–-]|$)/gim,
+ ti:'动名词后缺宾语',why:'keeping 后无宾语，句子悬空。多半是压词数时砍掉了 anything at all。',fix:'<b>the cost of keeping anything at all</b>'},
+{id:'EN-11',cat:'比较不对等',sev:'hard',re:/\bthan\s+when\s+\w+(ed|en)\b/gi,
+ ti:'than when + 过去分词',why:'省略结构的主语需回指前面主语，被插入语隔开后断裂。',fix:'把比较项写全：<b>than the same hours crammed into…</b>'},
+{id:'EN-12',cat:'语序错位',sev:'hard',re:/\b(is|are|was|were)\s+\w+ly\s+the\s+(most|least|best|worst)\b/gi,
+ ti:'副词卡在系动词与最高级之间',why:'英语不这么放，且力道弱于"the 比较级, the 比较级"。',fix:'<b>the harder they revise, the more systematically…</b>'},
+{id:'EN-13',cat:'绝对化夸张',sev:'hard',re:/\b(demands?|requires?|costs?|takes?)\s+nothing\b|\bleaves?\s+nothing\s+behind\b/gi,
+ ti:'为对仗牺牲准确',why:'重读当然要花时间和注意力，说 nothing 是夸张。对仗工整不值得拿事实去换。',fix:'<b>demands far less, and accordingly leaves far less behind</b>'},
+{id:'EN-14',cat:'补丁泄气',sev:'mild',re:/\b(much|most|a large part)\s+of\s+what\s+\w+\s+consists\s+of\b/gi,
+ ti:'为求准确打的补丁',why:'准确了但句子被补软。检查这是不是一句本该有力的格言。',fix:'加限定词而非加"大部分"：<b>what effective learning consists of</b>'},
+{id:'EN-15',cat:'裸时间短语',sev:'mild',re:/\btest(ed)?\s+(himself|herself|themselves|itself|myself)\s+(an?\s|\d|one\s|two\s|three\s)/gi,
+ ti:'test oneself 后直接跟时间',why:'表间隔要 after，表重测要 again，母语者两个都不省。',fix:'<b>tested himself again after an hour…</b>'},
+{id:'EN-16',cat:'定冠词预设',sev:'mild',re:/\bthe\s+trace\b/gi,need:/memory\s+trace/i,
+ ti:'the trace 未先引入',why:'定冠词预设读者已知"记忆痕迹"，全文没引入过。',fix:'<b>fixes it in the memory</b>'},
+{id:'EN-17',cat:'一词多义风险',sev:'mild',re:/\barchitecture\b/gi,
+ ti:'architecture 的非建筑义',why:'最常见义是建筑；作"体系结构"时多数读者反应不过来。',fix:'<b>structure</b> / <b>framework</b>'},
+{id:'EN-18',cat:'一词多义风险',sev:'mild',re:/\bprices?\s+(what|the\s+cost)\b/gi,
+ ti:'price 作动词表"标出代价"',why:'price 常用义是"标价"，此处是造引申义，文学腔而非社论腔。',fix:'<b>shows the cost of…</b>'},
+{id:'EN-19',cat:'冗余对',sev:'mild',re:/\b(return\s+back|repeat\s+again|final\s+outcome|future\s+plans?|past\s+history|basic\s+fundamentals?|advance\s+forward)\b/gi,
+ ti:'英语固有冗余搭配',why:'两个词说同一件事。',fix:'删掉其中一个'},
+{id:'EN-20',cat:'首尾撞词',sev:'mild',re:/set\s+out\s+to\s+\w+[\s\S]*set\s+out\s+to\s+\w+/gi,
+ ti:'首尾用了同一个句式',why:'回环是好的，但同一句式出现两次会像忘了自己写过。换掉后一个的动词短语。',fix:'末段改 <b>meant to…</b>'},
+];
+/* ═══════════ 第二层：中文译法 ═══════════ */
+const ZH=[
+{id:'CN-01',cat:'造词',sev:'hard',re:/(回忆|记忆|遗忘|理解|掌握|专注|认知)量/g,
+ ti:'把英文抽象名词直译成"X量"',why:'中文没有"回忆量"这种词，是把 recall 当名词硬译的产物。',fix:'换人做主语：<b>一小时之内就丢了一半</b>'},
+{id:'CN-02',cat:'翻译腔',sev:'mild',re:/(留存|记忆|学习|遗忘)效果(好于|优于|强于)/g,
+ ti:'"X效果好于"式论文腔',why:'照搬了英文名词词性，中文本能说"记得更牢"。',fix:'<b>记得更牢</b>'},
+{id:'CN-03',cat:'改事实',sev:'hard',re:/(转平|趋于平稳|不再下降|停止下降|归零|完全消失|彻底忘光)/g,
+ ti:'擅自改变原文事实',why:'原文若是 gradual decline，就是"一直在降、只是慢了"。写成"转平"＝改事实。',fix:'<b>慢慢淡去</b>'},
+{id:'CN-04',cat:'虚指做实',sev:'hard',re:/每(一)?个?(十年|世纪|年代)(都)?(有人)?/g,
+ ti:'every decade 被译成"每十年一次"',why:'英文 decade 此处虚指"漫长岁月"，不是定期排班。做实后句子变荒唐。',fix:'<b>一百多年来被反复验证</b>'},
+{id:'CN-05',cat:'翻译腔',sev:'mild',re:/(对[^，。；]{1,10}进行[了]?|被[^，。；]{1,10}所|具有[^，。；]{1,8}性|起到[了]?[^，。；]{0,8}作用|产生[了的]?[^，。；]{0,6}效果|得到[了]?[^，。；]{0,6}的提升)/g,
+ ti:'典型翻译腔结构',why:'把英文的名词化结构原样搬进中文。中文用动词。',fix:'改成动词直说'},
+{id:'CN-06',cat:'抽象主语',sev:'hard',re:/(记得住的内容|遗忘的速度|留存的比例|回忆的数量)[^，。；]{0,6}(急剧|迅速|大幅|明显)?(减少|下降|降低|上升)/g,
+ ti:'抽象名词做主语',why:'英语可以 Recall fell；中文不行，中文的主语是人。这是中英最大的分水岭。',fix:'<b>最初几个小时就丢了一半</b>'},
+{id:'CN-07',cat:'程度越界',sev:'hard',re:/(忘得最快|最快|极陡|极凶|彻底|完全|绝对|无比|毫无保留)/g,
+ ti:'译文引入了英文没有的最高级或程度渲染',why:'英文 steeply 只是"陡"，不含比较；译成"最快"凭空加了最高级。',fix:'去掉程度词，或核对英文确有 most / -est'},
+{id:'CN-08',cat:'语域降级',sev:'mild',re:/(吃透了?|搞定|拿下|死磕|硬啃|溜达|捣鼓)/g,
+ ti:'书面语被译成大白话',why:'社论体里突然冒出口语词会跳。an illusion of mastery＝"已然掌握的错觉"，不是"吃透了"。',fix:'<b>已然掌握的错觉</b>'},
+{id:'CN-09',cat:'添加意象',sev:'check',re:/(空谈|天花乱坠|昙花一现|雪上加霜|立竿见影|一针见血|水到渠成)/g,
+ ti:'译文出现了英文可能没有的成语意象',why:'dismissed as unmeasurable 被译成"斥为空谈"——"空谈"是我加的。成语好听，但常是夹带。',fix:'逐字核对英文有无对应'},
+];
+/* ═══════════ 第三层：篇章 / 事实（函数式） ═══════════ */
+const STRUCT_IDS=['ST-01 论证次序','ST-02 年份自洽','ST-03 段落节奏','ST-04 可执行动作','ST-05 格言拥挤','ST-06 限定词守恒'];
+
+const SAMPLES={
+clean:{en:`In 1885 Hermann Ebbinghaus set out to **measure** what his **contemporaries** had **dismissed** as **unmeasurable**. Alone in Berlin, he learned **nonsense** **syllables** and tested himself again after an hour, a day and a month. Half was gone within the hour; the rest **faded** slowly over weeks. His curve is **arguably** the most **durable** finding in **psychology**.
+
+It took another 120 years to learn what to do about it. In 2008 Jeffrey Karpicke and Henry Roediger **recruited** **undergraduates** to learn Swahili-English pairs. Those who reread the list kept **merely** a third a week later; those **required** to **recall** each word unaided kept 80%. Shut the book and **retrieve**: that one **instruction** does more than any amount of rereading.
+
+The **mechanism** is now clear. Pulling a fact back after a delay is hard work, and the work is what **fixes** it in the **memory**. Rereading **demands** far less, and **accordingly** leaves far less behind. Testing is therefore not **assessment** but instruction.
+
+Why, then, does rereading **prevail**? Because it feels **efficient**. Familiar text slips by without **resistance**, breeding **confidence** — an **illusion** of **mastery** that **tempts** students to stop early. Difficulty is not an **obstacle** to learning; it is what effective learning **consists** of.
+
+Ebbinghaus meant to **quantify** what we lose; the same curve shows the cost of keeping anything at all. His **discipline** has since **abandoned** most of what it believed in 1885. The one finding it never forgot explains forgetting, kept alive because every **generation** has been **compelled** to **recover** it. Nothing is **genuinely** ours until we have once **struggled** to find it again.`,
+zh:`1885年，赫尔曼·艾宾浩斯着手去**测量**(measure)一样被**同代人**(contemporaries)**斥为**(dismissed)**无法测量**(unmeasurable)的东西。他独自在柏林记诵**无意义**(nonsense)**音节**(syllables)，隔一小时、一天、一个月后重测。一小时之内就丢了一半；剩下的，也在随后几周里慢慢**淡去**(faded)。他画的这条曲线，**大概**(arguably)是**心理学**(psychology)里最**经久不衰**(durable)的发现。
+
+又过了120年，人们才弄明白该拿它怎么办。2008年，杰弗里·卡皮克和亨利·罗迪格**招来**(recruited)一批**本科生**(undergraduates)背斯瓦希里语—英语词对。只反复看的那组，一周后**只**(merely)剩三分之一；被**要求**(required)合上材料把每个词想出来的那组，留住了八成。合上书，**回想**(retrieve)——就这一条**指令**(instruction)，胜过任何次数的重读。
+
+其中的**机制**(mechanism)如今已经清楚。隔一阵子再把一个知识点拽回来，是件苦差事，而正是这份力气把它**钉进**(fixes)**记忆**(memory)。反复阅读**费力**(demands)少得多，**相应地**(accordingly)也留不下多少。所以测验不是**检验**(assessment)，而是教学。
+
+那么，反复阅读为什么还是**占上风**(prevail)？因为它让人觉得**有效率**(efficient)。熟悉的文字毫无**阻滞**(resistance)地滑过去，人就生出**自信**(confidence)，一种已然**掌握**(mastery)的**错觉**(illusion)，**引诱**(tempts)学生过早收手。困难不是学习路上的**绊脚石**(obstacle)——有效的学习，本就是**由**(consists of)困难**构成**的。
+
+艾宾浩斯本想**算出**(quantify)我们究竟丢掉了多少；换个方向读，同一条曲线标出的却是"留住任何东西"要付的价钱。他这门**学科**(discipline)此后**抛弃**(abandoned)了它在1885年信过的绝大部分东西，唯一从没被它忘掉的结论，偏偏就是那个解释遗忘的结论——它还活着，是因为**每一代人**(generation)都**不得不**(compelled)重新把它**找回来**(recover)一次。凡是不曾**费力**(struggled)找回过的东西，就从未**真正**(genuinely)属于我们。`},
+
+buggy:{en:`In 1885 Hermann Ebbinghaus **measured** forgetting. He tested himself an hour later. Recall fell **abruptly**, then slowed to a **gradual** decline.
+
+The **mechanism** took a century to **establish**. Rereading **demands** nothing and leaves nothing behind. The effort **strengthens** the trace. Study **distributed** across days yielded **superior** **retention** to the same hours **compressed** into one night. Familiarity **resembles** knowledge, and the **architecture** of the mind is an **ambitious instrument**.
+
+In 2008 researchers ran a study. The lesson **emerged**: difficulty is **much** of what learning **consists** of. Those who revise longest are **systematically** the most **misled**. The waste is not **trivial**.
+
+He set out to measure loss; he set out to **quantify** it. His curve **prices** what we keep. It shows the cost of keeping.`,
+zh:`回忆量掉得很陡，随后曲线转平。此后每一个十年都有人重新验证。他忘得最快。
+
+分散学习产生的留存效果好于集中学习，对记忆进行了强化，具有显著性。这个道理他早就吃透了，被同代人斥为空谈。
+
+记得住的内容急剧减少，起到了警示作用。`}
+};
+
+/* ═══════════ 引擎 ═══════════ */
+const tok=s=>(s.match(/[A-Za-z0-9%'’-]+/g)||[]).length;
+const esc=s=>s.replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]));
+
+function card(id,cat,sev,ti,ev,why,fix){
+  return '<div class="case'+(sev==='mild'?' mild':sev==='check'?' check':'')+'">'
+   +'<div class="no">'+id+' · '+cat+'</div><div class="ti">'+ti+'</div>'
+   +(ev?'<div class="ev">'+esc(ev)+'</div>':'')
+   +'<div class="why">'+why+'</div>'+(fix?'<div class="fix">改判：'+fix+'</div>':'')+'</div>';
+}
+function scan(rules,text){
+  const hits=[];
+  rules.forEach(r=>{
+    if(r.need&&r.need.test(text))return;
+    r.re.lastIndex=0;let m,guard=0;
+    while((m=r.re.exec(text))!==null&&guard++<40){hits.push({r,ev:m[0]});if(!r.re.global)break;if(m.index===r.re.lastIndex)r.re.lastIndex++;}
+  });
+  return hits;
+}
+
+/* ── 篇章层 ── */
+function structCases(en,zh){
+  const c=[];const paras=en.split(/\n\s*\n/).filter(p=>p.trim());
+
+  // ST-01 论证次序：证据应先于解释
+  const iMech=en.search(/\bmechanism\b/i), iExp=en.search(/\bIn\s+(19|20)\d\d\b/);
+  if(iMech>-1&&iExp>-1&&iMech<iExp)
+    c.push(card('ST-01','论证次序','hard','解释出现在证据之前',
+      en.slice(iMech,iMech+70)+'…',
+      '先给机制、后给实验，读者会问"你凭什么先这么说"。而且 evidence 指代的证据被推到了解释之后，指代链断裂。',
+      '把机制段移到实验段之后：<b>现象 → 证据 → 解释</b>'));
+
+  // ST-02 年份自洽
+  const yrs=[...en.matchAll(/\b(18|19|20)\d\d\b/g)].map(m=>+m[0]);
+  if(yrs.length>1){
+    const span=Math.max(...yrs)-Math.min(...yrs);
+    const claim=en.match(/\ba century\b/i)?100:(en.match(/another\s+(\d+)\s+years/i)?+RegExp.$1:null);
+    if(claim&&Math.abs(claim-span)>15)
+      c.push(card('ST-02','事实自洽','hard','文内时间跨度自相矛盾',
+        '文中年份跨度 '+span+' 年，却写作 '+(claim===100?'a century（100年）':claim+' years'),
+        '"一个世纪"暗示 1985 年前后就搞定了，与文中 2008 年的实验冲突。文章自己打了自己一嘴巴。',
+        '改成与实际跨度相符的说法：<b>another '+span+' years</b>'));
+  }
+
+  // ST-03 段落节奏
+  if(paras.length>=3){
+    const L=paras.map(tok),mx=Math.max(...L),mn=Math.min(...L);
+    if(mx/mn<1.45)
+      c.push(card('ST-03','段落节奏','mild','各段长度雷同',
+        '各段词数：'+L.join(' / '),
+        '等长段落读起来平板。故意让一段明显短一截，节奏才出得来。',
+        '把最短的那段再削一刀，或把说明性内容并入相邻段'));
+  }
+
+  // ST-04 可执行动作
+  if(!/(^|[.!?—:]\s)(Shut|Close|Try|Test|Ask|Start|Stop|Put|Cover|Write)\b/m.test(en))
+    c.push(card('ST-04','内容缺口','hard','全文没有一句可执行动作',
+      '',
+      '讲了错在哪、为什么错，却没给读者一个能立刻照做的动作。《经济学人》的科普几乎总会落到一个可执行点上。',
+      '在实验数字正后方补一句祈使句：<b>Shut the book and retrieve.</b>'));
+
+  // ST-05 格言拥挤
+  paras.forEach((p,i)=>{
+    const n=(p.match(/\bis\s+(therefore\s+)?not\s+(an?\s+)?\w+[^.!?]{0,40}\bbut\b|\bis\s+not\s+an?\s+\w+\s+to\s+\w+;/gi)||[]).length;
+    if(n>=2)c.push(card('ST-05','格言拥挤','hard','同一段里连着两句警句',
+      '第 '+(i+1)+' 段',
+      '两个警句背靠背，互相削弱。全文的格言应分散到不同段落，各占一个落点。',
+      '把其中一句移到相邻段落末尾'));
+  });
+
+  // ST-06 限定词守恒
+  const HEDGE={merely:/只|仅/,arguably:/大概|可以说|大约/,effective:/有效/,far:/得多|远/,
+    almost:/几乎/,nearly:/将近/,roughly:/大约|约/,often:/常|往往/,most:/大部分|多数|绝大部分/,
+    accordingly:/相应/,therefore:/所以|因此/};
+  const lost=Object.keys(HEDGE).filter(k=>new RegExp('\\*\\*'+k+'\\*\\*|\\b'+k+'\\b','i').test(en)&&zh&&!HEDGE[k].test(zh));
+  if(lost.length)
+    c.push(card('ST-06','限定词守恒','hard','译文漏掉了英文的限定词',
+      lost.join(' / '),
+      '这些词往往正是让句子从"过头话"变成"真话"的那一个。漏掉 effective，"学习大部分由困难构成"就成了假话。',
+      '在中文里补回对应词：merely→只｜arguably→大概｜effective→有效｜far→得多'));
+  return c;
+}
+
+function run(){
+  const en=document.getElementById('en').value, zh=document.getElementById('zh').value, out=document.getElementById('out');
+  if(!en.trim()&&!zh.trim()){out.innerHTML='<div class="clean">请先贴入物证。</div>';return}
+
+  const bold=[...en.matchAll(/\*\*(.+?)\*\*/g)].map(m=>m[1]);
+  const uniq=[...new Set(bold.map(w=>w.toLowerCase()))];
+  const words=tok(en.replace(/\*\*/g,''));
+  const dens=words?uniq.length/words*100:0;
+  const paras=en.split(/\n\s*\n/).filter(p=>p.trim());
+  let h='';
+
+  h+='<h2 class="sec">计 量<em>METRICS</em></h2><div class="meters">'
+   +met('总词数',words,words>300?'超出 300 阅读线':words<200?'偏短':'适中')
+   +met('加粗次数',bold.length,bold.length!==uniq.length?'含重复':'无重复')
+   +met('关键词',uniq.length,'')
+   +met('段落数',paras.length,paras.length<4?'动作可能不完整':'五步结构')
+   +met('密度',dens.toFixed(1)+'%',dens>22?'危险区':dens>18?'紧张区':'安全区')+'</div>';
+
+  const pos=Math.max(0,Math.min(100,dens/30*100));
+  h+='<div class="gauge"><h3>密 度 尺 · 关键词占比</h3><div class="track">'
+   +'<div class="zone z1" style="flex:18">≤18% 安全</div><div class="zone z2" style="flex:4">紧张</div>'
+   +'<div class="zone z3" style="flex:8">＞22% 危险</div>'
+   +'<div class="needle" style="left:'+pos+'%" data-v="'+dens.toFixed(1)+'%"></div></div><p>'
+   +(dens>22?'危险区。每写一句都要为塞词砍掉动词与连接成分——本卷宗记录的多数英文缺陷都产于此区间。'
+     :dens>18?'紧张区。仍能写好，但偶尔会被迫在"最准的词"与"名单上的词"之间选后者。'
+     :'安全区。句子有呼吸空间，可优先选最地道的表达。')+'</p>';
+
+  if(paras.length>1){
+    const L=paras.map(tok),mx=Math.max(...L);
+    h+='<h3 style="margin-top:26px">段 落 节 奏 · 各段词数</h3><div class="rhythm">'
+     +L.map((n,i)=>'<div class="rbar" style="height:'+(n/mx*100)+'%"><span>'+n+'</span><b>§'+(i+1)+'</b></div>').join('')
+     +'</div><p style="margin-top:26px">最长／最短 = '+(mx/Math.min(...L)).toFixed(2)
+     +'　·　低于 1.45 说明各段等长，读起来平板。</p>';
+  }
+  h+='</div>';
+
+  const se=scan(EN,en), sz=scan(ZH,zh), ss=structCases(en,zh);
+
+  h+='<h2 class="sec">第一层 · 英文词法句法<em>检出 '+se.length+' 处 / 共 '+EN.length+' 条</em></h2>';
+  h+=se.length?se.map(x=>card(x.r.id,x.r.cat,x.r.sev,x.r.ti,x.ev,x.r.why,x.r.fix)).join(''):'<div class="clean">✓ 全部通过</div>';
+
+  h+='<h2 class="sec">第二层 · 中文译法<em>检出 '+sz.length+' 处 / 共 '+ZH.length+' 条</em></h2>';
+  h+=sz.length?sz.map(x=>card(x.r.id,x.r.cat,x.r.sev,x.r.ti,x.ev,x.r.why,x.r.fix)).join(''):'<div class="clean">✓ 全部通过</div>';
+
+  h+='<h2 class="sec">第三层 · 篇章与事实<em>检出 '+ss.length+' 处 / 共 6 条</em></h2>';
+  h+=ss.length?ss.join(''):'<div class="clean">✓ 全部通过</div>';
+
+  const missing=uniq.filter(w=>!new RegExp('\\('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i').test(zh));
+  const rate=uniq.length?((uniq.length-missing.length)/uniq.length*100).toFixed(0):0;
+  h+='<h2 class="sec">中 英 对 应<em>覆盖率 '+rate+'%</em></h2>';
+  h+=missing.length?'<p style="font-size:13px;color:var(--ink-soft)">下列关键词在中文里找不到 (英文) 标注：</p><div class="corr">'
+      +missing.map(w=>'<span class="tag miss">'+w+'</span>').join('')+'</div>'
+    :'<div class="clean">✓ 每个关键词都能对上号</div>';
+
+  h+='<h2 class="sec">人 工 复 核<em>机器查不了的</em></h2><ol class="manual">'
+   +['中文的主语是人还是抽象名词？英语可以 Recall fell，中文必须说"他忘得快"。',
+     '译文有没有增减事实？为中文好听而加的词一律回查英文。',
+     '英文里的虚指有没有被做实？every decade、for years 多为虚指。',
+     '专名与署名顺序对不对？论文按署名序写（Karpicke and Roediger）。',
+     '每个论点都有证据吗？留意"讲了 A 现象、却拿 B 现象的实验当证据"。',
+     '结尾有没有回扣开头？前文埋的伏笔兑现了没有。',
+     '有没有为凑关键词选了次优词？逐个问：不受名单限制我会写哪个词。'].map(x=>'<li>'+x+'</li>').join('')+'</ol>';
+
+  out.innerHTML=h;out.scrollIntoView({behavior:'smooth',block:'start'});
+}
+function met(k,v,n){return '<div class="meter"><div class="k">'+k+'</div><div class="v">'+v+'</div><div class="n">'+n+'</div></div>'}
+function load(k){document.getElementById('en').value=SAMPLES[k].en;document.getElementById('zh').value=SAMPLES[k].zh;run()}
+function clr(){document.getElementById('en').value='';document.getElementById('zh').value='';document.getElementById('out').innerHTML=''}
+
+(function(){
+  document.getElementById('rulecount').textContent='规则 '+(EN.length+ZH.length+6)+' 条 · 英 '+EN.length+' / 中 '+ZH.length+' / 篇章 6';
+  let t='<table><tr><th>编号</th><th>层</th><th>类别</th><th>检的是什么</th></tr>';
+  EN.forEach(r=>t+='<tr><td class="c">'+r.id+'</td><td class="c">词法</td><td class="c">'+r.cat+'</td><td>'+r.ti+'</td></tr>');
+  ZH.forEach(r=>t+='<tr><td class="c">'+r.id+'</td><td class="c">译法</td><td class="c">'+r.cat+'</td><td>'+r.ti+'</td></tr>');
+  STRUCT_IDS.forEach(s=>{const p=s.split(' ');t+='<tr><td class="c">'+p[0]+'</td><td class="c">篇章</td><td class="c">'+p[1]+'</td><td>见检查结果</td></tr>'});
+  t+='</table>';document.getElementById('rulebook').innerHTML=t;
+})();
+load('clean');
+</script>
+</body>
+</html>
