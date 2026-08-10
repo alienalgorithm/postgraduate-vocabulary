@@ -19,6 +19,17 @@
   function el(sel, root) { return (root || document).querySelector(sel); }
   function els(sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); }
 
+  /* 史实区允许安全的 Markdown 外链，其余字符仍统一转义。 */
+  function renderLinks(str) {
+    var out = '', last = 0, re = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, m;
+    while ((m = re.exec(String(str)))) {
+      out += esc(String(str).slice(last, m.index));
+      out += '<a href="' + esc(m[2]) + '" target="_blank" rel="noopener noreferrer">' + esc(m[1]) + '</a>';
+      last = m.index + m[0].length;
+    }
+    return out + esc(String(str).slice(last));
+  }
+
   /* 英文：**word** → <mark data-k="word"> */
   function renderEN(str) {
     var out = '', last = 0, re = /\*\*(.+?)\*\*/g, m;
@@ -264,8 +275,8 @@
 
     var fx = el('#facts');
     if (a.facts && a.facts.length) {
-      fx.innerHTML = '<h2>史实核对</h2><div class="cap">已经检索确认，改写时勿动。</div><ul>' +
-        a.facts.map(function (f) { return '<li>' + esc(f) + '</li>'; }).join('') + '</ul>';
+      fx.innerHTML = '<h2>史实核对</h2><div class="cap">以下关键信息已据所列来源核对。</div><ul>' +
+        a.facts.map(function (f) { return '<li>' + renderLinks(f) + '</li>'; }).join('') + '</ul>';
     } else { fx.remove(); }
 
     // 上下篇
