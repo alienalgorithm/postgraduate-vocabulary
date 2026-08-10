@@ -1,0 +1,17 @@
+{
+  "name": "记词 · 考研词汇双语读本",
+  "short_name": "记词",
+  "description": "八篇双语科普短文与400个考研重点词。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#173d63",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

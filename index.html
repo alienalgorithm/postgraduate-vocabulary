@@ -1,65 +1,122 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>记词 · 考研词汇双语读本</title>
-<meta name="description" content="用考研词汇写《经济学人》风格科普短文，中英一一对应。">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="assets/site.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>记词 · 考研词汇双语读本</title>
+  <meta name="description" content="八篇《经济学人》风格双语科普短文，400个考研重点词，在真实语境中阅读、对应与自测。">
+  <meta name="theme-color" content="#f5f1e8">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="记词 · 考研词汇双语读本">
+  <meta property="og:description" content="把400个考研词放回值得读完的知识故事里。">
+  <meta property="og:image" content="assets/share-card.svg">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="assets/site.css">
+  <script>
+    (function(){try{var t=localStorage.getItem('jici-theme');if(!t)t=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';document.documentElement.dataset.theme=t}catch(e){}})();
+  </script>
 </head>
 <body data-page="index">
-
-<header class="masthead">
-  <div class="shell">
-    <a class="wordmark" href="index.html">记词 <em>Verbatim</em></a>
-    <nav class="nav">
-      <a href="index.html" aria-current="page">文章</a>
-      <a href="words.html">词库</a>
+<a class="skip-link" href="#main">跳到正文</a>
+<header class="site-header" id="siteHeader">
+  <div class="shell header-inner">
+    <a class="brand" href="index.html" aria-label="记词首页">
+      <span class="brand-seal">记</span>
+      <span class="brand-copy"><b>记词</b><small>WORDS IN CONTEXT</small></span>
+    </a>
+    <nav class="main-nav" aria-label="主导航">
+      <a href="index.html" data-nav="index">文章</a>
+      <a href="words.html" data-nav="words">词库</a>
       <a href="tools/%E5%8D%95%E8%AF%8D%E6%A3%80%E5%AF%9F%E5%AE%98v3.html">检察官</a>
     </nav>
+    <button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="切换深浅主题">
+      <span aria-hidden="true">◐</span>
+    </button>
   </div>
 </header>
 
-<main class="shell">
-
-  <section class="hero">
-    <div class="kicker"><span class="label">考研词汇 · 经济学人体</span></div>
-    <div class="hero-grid">
-      <div>
-        <h1>一个词学两遍：<br>读懂它，<br><i>再看它落在哪里</i>。</h1>
-        <p class="sub">
-          每篇文章 250 到 300 词，恰好 50 个考研重点词，密度守在 20% 以下。
-          英文里加粗的每一个词，在中文译文里都能找到对应的那一处——
-          不是逐词硬译，是自然的中文说法，加粗落在那个说法上。
-        </p>
+<main id="main">
+  <section class="hero shell">
+    <div class="hero-copy">
+      <p class="eyebrow">考研词汇 · 双语科普读本 · 第八篇已入库</p>
+      <h1>把词放回<br><em>值得读完的知识里。</em></h1>
+      <p class="hero-lede">
+        每篇文章恰好嵌入50个重点词。英文先作为文章被读懂，中文再告诉你它真正落在哪里；
+        最后，用挖空自测把“见过”变成“认得”。
+      </p>
+      <div class="hero-actions">
+        <a class="button button-primary" id="latestLink" href="article.html?a=a-ruler-without-a-zero">阅读最新一篇</a>
+        <a class="button button-quiet" href="words.html">浏览400词词库</a>
       </div>
-      <div class="demo" id="demo"></div>
+    </div>
+    <div class="hero-visual" aria-hidden="true">
+      <div class="orb orb-a"></div><div class="orb orb-b"></div>
+      <div class="measure-card">
+        <span class="measure-label">PERIOD</span>
+        <div class="measure-line"><i></i><b></b><i></i><b></b><i></i></div>
+        <span class="measure-caption">A RULER WITHOUT A ZERO</span>
+      </div>
+      <div class="star-field"></div>
     </div>
   </section>
 
-  <section>
-    <div class="label" style="margin-bottom:14px">存量</div>
-    <div class="tally" id="tally"></div>
+  <section class="stats-band" aria-label="语料统计">
+    <div class="shell stats-grid" id="siteStats"></div>
   </section>
 
-  <section>
-    <div class="label" style="margin-bottom:14px">文章</div>
-    <div class="list" id="list"></div>
+  <section class="shell section latest-section" aria-labelledby="latestHeading">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">NEW · 08</p>
+        <h2 id="latestHeading">最新定稿</h2>
+      </div>
+      <p>从“同样遥远”这个近似条件里，莱维特找到了一把后来可以丈量宇宙的尺子。</p>
+    </div>
+    <div id="featuredArticle"></div>
   </section>
 
+  <section class="shell section" aria-labelledby="archiveHeading">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">ARCHIVE</p>
+        <h2 id="archiveHeading">八篇知识故事</h2>
+      </div>
+      <p>公共卫生、深海生态、臭氧层、航海、条形码、合成氨、信息论与天文学。</p>
+    </div>
+    <div class="article-grid" id="articleGrid"></div>
+  </section>
+
+  <section class="method-section">
+    <div class="shell method-grid">
+      <div class="method-intro">
+        <p class="eyebrow">HOW TO READ</p>
+        <h2>不是背诵顺序，<br>而是三次相遇。</h2>
+      </div>
+      <ol class="method-list">
+        <li><span>01</span><div><b>先读完整文章</b><p>不急着查每一个词，先让知识主线成立。</p></div></li>
+        <li><span>02</span><div><b>再建立中英对应</b><p>悬停或点击重点词，看自然中文译法落在哪一处。</p></div></li>
+        <li><span>03</span><div><b>最后挖空自测</b><p>遮住英文重点词，用上下文和中文线索逐个找回。</p></div></li>
+      </ol>
+    </div>
+  </section>
 </main>
 
-<footer class="foot shell">
-  <span>考研词汇双语读本</span>
-  <a href="https://github.com/AlienRocketBus/postgraduate-vocabulary/blob/main/notes/%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83.md">写作规范</a>
-  <a href="https://github.com/AlienRocketBus/postgraduate-vocabulary/blob/main/notes/%E7%BC%BA%E9%99%B7%E5%BA%93.md">缺陷库</a>
-  <a href="https://github.com/AlienRocketBus/postgraduate-vocabulary">GitHub</a>
-  <span class="sp">密度红线 20%</span>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div><b>记词</b><p>考研词汇双语科普读本</p></div>
+    <div class="footer-links">
+      <a href="words.html">400词索引</a>
+      <a href="notes/写作规范.md">写作规范</a>
+      <a href="notes/缺陷库.md">缺陷库</a>
+      <a href="https://github.com/AlienRocketBus/postgraduate-vocabulary">GitHub</a>
+    </div>
+    <p class="footer-note">八篇 · 400重点词 · 每篇密度低于20%</p>
+  </div>
 </footer>
 
 <script src="data/articles.js"></script>
+<script src="data/article-08.js"></script>
 <script src="assets/site.js"></script>
 </body>
 </html>
