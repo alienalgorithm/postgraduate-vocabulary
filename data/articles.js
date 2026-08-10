@@ -723,30 +723,30 @@ window.SITE = {
       "date": "2026-08-10",
       "status": "第四篇最终锁定稿",
       "metrics": {
-        "words": 260,
+        "words": 295,
         "keywords": 50,
-        "density": 19.2
+        "density": 16.9
       },
       "paras": [
         {
-          "en": "At sea, the Sun could reveal **latitude**; **longitude** required a known meridian's time. Given Earth's 24-hour **rotation**, a one-hour gap between local and **reference** time represented a 15-degree **difference** in longitude. An **accurate** clock helped **determine** a ship's east-west **position**.",
-          "zh": "在海上，太阳可以帮助航海者推算**纬度**(latitude)；要确定**经度**(longitude)，则必须知道一条已知经线上的时间。地球每24小时完成一次**自转**(rotation)，因此，当地时间与**参照地**(reference)时间相差一小时，就表示两地存在15度的**经度差**(difference)。一台足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。"
+          "en": "At sea, the Sun could reveal **latitude**. Finding **longitude** required the time somewhere else. Earth's 24-hour **rotation** meant that a one-hour gap between local and **reference** time marked a 15-degree **difference** in longitude. An **accurate** clock could help **determine** a ship's east-west **position**.",
+          "zh": "在海上，太阳可以帮助航海者推算**纬度**(latitude)。要确定**经度**(longitude)，还必须知道另一处的时间。地球每24小时完成一次**自转**(rotation)：当地时间与**参照地**(reference)时间每相差一小时，就对应15度的**经度差**(difference)。一只足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。"
         },
         {
-          "en": "In 1714 **Parliament** offered **rewards**—up to £20,000 for a **method** accurate within half a degree. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**: a clock that withstood **motion**, reduced **friction** and preserved **precision**. H1's 1736 Lisbon trial showed promise.",
-          "zh": "1714年，英国**议会**(Parliament)设立了分级**奖金**(rewards)：若能提出一种将误差控制在半度以内的**方法**(method)，最高可获2万英镑。约翰·哈里森原是一名**木匠**(carpenter)，也是一位**自学成才的**(self-taught)制表师。他着手寻找一个**切实可行的**(practical)**解决方案**(solution)：让时钟经受住船体**摇晃**(motion)，减少**摩擦**(friction)，并保持计时**精度**(precision)。H1在1736年的里斯本试航中展现出潜力。"
+          "en": "In 1714 **Parliament** offered tiered **rewards** up to £20,000; the top tier required a **method** accurate within half a degree—30 geographical miles. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**. A clock had to withstand **motion**, minimise **friction** and preserve **precision** as temperatures changed. H1 showed promise on the 1736 return from Lisbon.",
+          "zh": "1714年，英国**议会**(Parliament)设立分级**奖金**(rewards)，最高达2万英镑；最高一档要求某种**方法**(method)把误差控制在半度以内，即30地理英里。约翰·哈里森原是一名**木匠**(carpenter)，又是靠**自学成才的**(self-taught)制表师；他着手寻找一个**实用的**(practical)**解决方案**(solution)。海钟必须承受船体**摇晃**(motion)，尽量减小内部**摩擦**(friction)，并在温度变化时保持计时**精度**(precision)。H1在1736年的里斯本返航中初显成效。"
         },
         {
-          "en": "A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3; it fell short of the required standard. The work **produced** useful **mechanisms**, including a bimetallic strip to **compensate** for temperature **variation**. The **compact** H4, completed in 1759, resembled a pocket watch—a **departure** from H3. Its high-**frequency** balance beat five times a second, helping make H4 a **reliable** timekeeper.",
-          "zh": "H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用19年不断**改进**(refining)H3；它仍未达到所需标准。不过，这项研发也**产生了**(produced)实用的**机械装置**(mechanisms)，其中包括用来**补偿**(compensate)温度**变化**(variation)的双金属片。1759年完成的H4则**小巧紧凑**(compact)，外形像一只怀表——相较H3，这是一次明显的**转向**(departure)。H4摆轮以很高的**频率**(frequency)运行，每秒跳动五次，这有助于H4成为一台**可靠的**(reliable)计时器。"
+          "en": "A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3, whose linked balances never **produced** the intended results. Its **mechanisms** included a bimetallic strip to **compensate** for temperature **variation**. Completed in 1759, the **compact** H4 resembled a large pocket watch—a sharp **departure** from H3. Its high-**frequency** balance beat five times a second and helped make H4 a **reliable** timekeeper.",
+          "zh": "H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用了19年不断**改进**(refining)H3；但H3那两套相互联动的摆轮始终未能**产生**(produced)预期效果。它的**机械结构**(mechanisms)中包括双金属片，用来**补偿**(compensate)温度**变化**(variation)。1759年完成的H4则**小巧紧凑**(compact)，外形像一只大号怀表——与H3相比，这是一次明显的**转向**(departure)。H4的摆轮每秒跳动五次，运转**频率**(frequency)很高，是它能够**可靠地**(reliable)计时的重要原因之一。"
         },
         {
-          "en": "H4's **performance** in the 1761–62 Jamaica **trial** seemed strong, yet Port Royal's uncertain longitude made the evidence **inadequate**. H4 **satisfied** the Act's strictest **criteria** at Barbados in 1764. Payment was split in 1765: one **contingent** on **disclosure** of H4's **principles** and transfer of timekeepers for public use, the other on successful **replication**. Kendall's 1769 copy, K1, showed the design could be **shared**. In 1773 Harrison **petitioned** Parliament, which **granted** £8,750—not the formal prize.",
-          "zh": "H4在1761至1762年牙买加航程中的**表现**(performance)看似出色，但由于皇家港的经度尚不确定，这次**试验**(trial)的证据仍然**不够充分**(inadequate)。1764年的巴巴多斯试验中，H4**达到了**(satisfied)法案最严格的**标准**(criteria)。1765年，款项被分成两部分：一部分能否发放，**取决于**(contingent)哈里森是否**公开**(disclosure)H4的**原理**(principles)，并把这些计时器移交供公众使用；另一部分则须等他人成功完成**复制验证**(replication)后再发放。肯德尔在1769年完成的复制品K1表明，这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这并不是正式大奖。"
+          "en": "H4's **performance** on the 1761–62 Jamaica voyage appeared strong, but the Board of Longitude found the **trial** **inadequate**; Port Royal's longitude remained uncertain. After a 1764 Barbados test, the Board confirmed H4 **satisfied** the Act's strictest **criteria**. Payment was split: one part was **contingent** on **disclosure** of H4's **principles** and transfer of the timekeepers for public use; the rest on successful **replication**. Kendall's K1, completed in 1769, showed the design could be **shared** with another maker. In 1773 Harrison **petitioned** Parliament, which **granted** him £8,750—not the formal prize.",
+          "zh": "H4在1761至1762年牙买加航程中的**表现**(performance)看起来很出色，但经度委员会认为这次**海试**(trial)仍**不够充分**(inadequate)；当时，皇家港的经度本身尚未精确测定。1764年巴巴多斯试验后，委员会确认H4**达到了**(satisfied)法案最严格的**标准**(criteria)。款项分为两部分：第一笔的支付**取决于**(contingent)哈里森是否**公开**(disclosure)H4的技术**原理**(principles)，并把这些计时器移交出来供公众使用；余款则须等其他制表师成功完成**复制**(replication)后再支付。肯德尔于1769年完成K1，说明这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这仍不是正式大奖。"
         },
         {
-          "en": "Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was to show a **portable** clock could carry reference time across an ocean. At local noon, its reading revealed the ship's east-west **location**.",
-          "zh": "早期的**航海用**(marine)计时器价格过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师**最终**(eventually)将这类计时器**简化**(simplified)；随着**成本**(cost)下降，1800年以后，它们才在**更多地方**(broader)变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，在于证明一台**便携式**(portable)时钟能够把参照时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。"
+          "en": "Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was proof that a **portable** clock could carry a known meridian's time across an ocean. At local noon, its reading revealed a ship's east-west **location**.",
+          "zh": "早期**航海用的**(marine)计时器依然过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师经过多年改进，**最终**(eventually)将它们**简化**(simplified)；随着**成本**(cost)下降，1800年后，这类计时器才在**更广的**(broader)市场上变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，是证明一台**便携式**(portable)时钟能够把某条已知经线的时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。"
         }
       ],
       "glossary": [
@@ -857,7 +857,7 @@ window.SITE = {
         },
         {
           "w": "mechanism",
-          "zh": "机械装置、机械结构",
+          "zh": "机械结构",
           "p": 3
         },
         {
@@ -936,8 +936,8 @@ window.SITE = {
           "p": 4
         },
         {
-          "w": "share",
-          "zh": "传给他人的、共享",
+          "w": "shared",
+          "zh": "传给他人的、共享的",
           "p": 4
         },
         {
@@ -1327,6 +1327,318 @@ window.SITE = {
         "来源：[GS1：商品名称与价格通常不在条形码中](https://support.gs1.org/support/solutions/articles/43000734158-are-the-description-and-price-of-the-item-included-in-the-barcode-)",
         "来源：[GS1体系架构：实体承载识别键，相关数据在数字系统中关联](https://www.gs1.org/standards/gs1-system-architecture-document/current-standard)",
         "来源：[GS1历史时间线：1974年任命统一商品代码体系的管理机构](https://support.gs1.org/support/solutions/articles/43000734073-gs1-historical-timeline)"
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "the-reaction-invented-twice",
+      "title": "The Reaction That Had to Be Invented Twice",
+      "titleZh": "被发明两次的反应",
+      "standfirst": "合成氨先成为一个能够循环的反应，随后才成为一套能承受自身条件的工业系统。",
+      "topic": "Haber–Bosch 合成氨与工业放大",
+      "date": "2026-08-10",
+      "status": "第六篇终审稿",
+      "metrics": {
+        "words": 292,
+        "keywords": 50,
+        "density": 17.1
+      },
+      "paras": [
+        {
+          "en": "Air is nearly four-fifths **nitrogen**, yet crops can starve for it. Most cannot use N₂ directly. Roots **absorb** it only as usable **compounds**. N₂ is **abundant** but **inert**, its atoms held by a triple **bond**. As **population** rose, **agriculture**’s reliance on manure and finite nitrate deposits raised fears of **fertiliser** **shortage**.",
+          "zh": "空气中近五分之四都是**氮**(nitrogen)，田里的作物却仍可能缺氮。大多数作物不能直接利用N₂；根部只能**吸收**(absorb)已经转化为可利用**化合物**(compounds)的氮。N₂十分**丰富**(abundant)，却很**不活泼**(inert)，两个氮原子被牢固的**三键**(bond)锁住。随着**人口**(population)增长，**农业**(agriculture)对粪肥和有限硝酸盐矿藏的依赖，引发了人们对**氮肥**(fertiliser)**短缺**(shortage)的担忧。"
+        },
+        {
+          "en": "In 1909 Fritz Haber and Robert Le Rossignol built a **laboratory** loop. Its **apparatus** compressed **hydrogen** and nitrogen to roughly 200 atmospheres, then sent them over an osmium **catalyst** at 500–600°C, where only a fraction **combined**. High **pressure** favoured **ammonia**; heat sped the reaction but lowered **equilibrium** **yield**. Cooling removed liquid ammonia, while a pump returned unused gas **continuously**.",
+          "zh": "1909年，弗里茨·哈伯和罗伯特·勒罗西尼奥尔搭建了一套**实验室**(laboratory)循环系统。这套**装置**(apparatus)先压缩**氢气**(hydrogen)和氮气，使压力达到约200个大气压，再让它们在500–600°C下流过锇**催化剂**(catalyst)；每次只有部分气体能够**结合**(combined)。较高的**压力**(pressure)有利于生成**氨**(ammonia)；加热虽加快反应，却降低**平衡**(equilibrium)**产率**(yield)。冷却会分离液氨，泵则**连续地**(continuously)送回未反应气体。"
+        },
+        {
+          "en": "Chemistry worked; **industrial** scale-up became the **hazardous** **obstacle**. In larger **vessels**, hot hydrogen stripped carbon from **steel**, leaving walls **brittle**; equipment built to **withstand** pressure burst. Carl Bosch’s BASF team built a double tube that vented hydrogen away from the outer shell. Alwin Mittasch’s group replaced scarce osmium with an activated iron catalyst fit for **commercial** ammonia **manufacture**. Plant **capacity** also depended on gas purification and heat recovery.",
+          "zh": "化学反应奏效了；**工业**(industrial)放大却成了一个**危险的**(hazardous)**障碍**(obstacle)。在更大的**容器**(vessels)中，高温氢气会从**钢材**(steel)中夺走碳，使器壁变得**脆弱**(brittle)；本应**承受**(withstand)高压的设备却发生爆裂。卡尔·博施领导的BASF团队设计了双层反应管，使渗入的氢气能够在削弱外层承压壳之前逸出。阿尔温·米塔施团队则用活化铁催化剂取代稀有的锇，使其适合**商业化**(commercial)合成氨**生产**(manufacture)。工厂**产能**(capacity)还取决于气体净化和热量回收。"
+        },
+        {
+          "en": "Industrial production began at Oppau in 1913, making ammonia a strategic raw material. Fertiliser increased **harvests**; in the First World War, a **blockade** cut Germany off from Chilean nitrates, but ammonia could yield nitric acid for **explosives** and **ammunition**. Some **civilian** output was **shifted** to **military** supply, carrying the process into **warfare**.",
+          "zh": "1913年，奥保开始工业化生产合成氨，氨由此成为一种战略原料。氮肥提高了**收成**(harvests)；第一次世界大战期间，海上**封锁**(blockade)切断了德国的智利硝酸盐来源，但氨可以制成硝酸，再用于**炸药**(explosives)和**弹药**(ammunition)。部分**民用**(civilian)产出被**转用于**(shifted)**军事**(military)供应，使这套工艺从农田进入了**战争**(warfare)。"
+        },
+        {
+          "en": "Ammonia remains **indispensable**, but production **consumes** **energy** and depends on hydrogen from **fossil** **fuels**, creating **emissions** before synthesis. Hydrogen made with **renewable** electricity can serve as a **substitute** for fossil-derived hydrogen; higher fertiliser **efficiency** can reduce **excess** nitrogen losses from fields to waterways. The **burden** we **inherit** is to make ammonia without fossil fuels and keep more of its nitrogen in crops.",
+          "zh": "氨至今仍**不可或缺**(indispensable)，但其生产会**消耗**(consumes)**能源**(energy)，并依赖来自**化石**(fossil)**燃料**(fuels)的氢气，在合成开始前就产生**排放**(emissions)。由**可再生的**(renewable)电力制得的氢气，可以成为化石来源氢气的**替代品**(substitute)；提高氮肥使用**效率**(efficiency)，则能减少从农田流入水体的**过量**(excess)氮。接下来，这份**重担**(burden)由我们**承接**(inherit)：不再依赖化石燃料制氨，并让更多氮留在作物中。"
+        }
+      ],
+      "glossary": [
+        {
+          "w": "nitrogen",
+          "zh": "氮",
+          "p": 1
+        },
+        {
+          "w": "absorb",
+          "zh": "吸收",
+          "p": 1
+        },
+        {
+          "w": "compound",
+          "zh": "化合物",
+          "p": 1
+        },
+        {
+          "w": "abundant",
+          "zh": "丰富的",
+          "p": 1
+        },
+        {
+          "w": "inert",
+          "zh": "惰性的、不活泼的",
+          "p": 1
+        },
+        {
+          "w": "bond",
+          "zh": "键、化学键",
+          "p": 1
+        },
+        {
+          "w": "population",
+          "zh": "人口",
+          "p": 1
+        },
+        {
+          "w": "agriculture",
+          "zh": "农业",
+          "p": 1
+        },
+        {
+          "w": "fertiliser",
+          "zh": "肥料、氮肥",
+          "p": 1
+        },
+        {
+          "w": "shortage",
+          "zh": "短缺",
+          "p": 1
+        },
+        {
+          "w": "laboratory",
+          "zh": "实验室",
+          "p": 2
+        },
+        {
+          "w": "apparatus",
+          "zh": "装置",
+          "p": 2
+        },
+        {
+          "w": "hydrogen",
+          "zh": "氢、氢气",
+          "p": 2
+        },
+        {
+          "w": "catalyst",
+          "zh": "催化剂",
+          "p": 2
+        },
+        {
+          "w": "combine",
+          "zh": "结合",
+          "p": 2
+        },
+        {
+          "w": "pressure",
+          "zh": "压力",
+          "p": 2
+        },
+        {
+          "w": "ammonia",
+          "zh": "氨",
+          "p": 2
+        },
+        {
+          "w": "equilibrium",
+          "zh": "平衡",
+          "p": 2
+        },
+        {
+          "w": "yield",
+          "zh": "产率",
+          "p": 2
+        },
+        {
+          "w": "continuous",
+          "zh": "连续的",
+          "p": 2
+        },
+        {
+          "w": "industrial",
+          "zh": "工业的",
+          "p": 3
+        },
+        {
+          "w": "hazardous",
+          "zh": "危险的",
+          "p": 3
+        },
+        {
+          "w": "obstacle",
+          "zh": "障碍",
+          "p": 3
+        },
+        {
+          "w": "vessel",
+          "zh": "容器",
+          "p": 3
+        },
+        {
+          "w": "steel",
+          "zh": "钢、钢材",
+          "p": 3
+        },
+        {
+          "w": "brittle",
+          "zh": "脆的",
+          "p": 3
+        },
+        {
+          "w": "withstand",
+          "zh": "承受、经受",
+          "p": 3
+        },
+        {
+          "w": "commercial",
+          "zh": "商业的",
+          "p": 3
+        },
+        {
+          "w": "manufacture",
+          "zh": "制造、生产",
+          "p": 3
+        },
+        {
+          "w": "capacity",
+          "zh": "产能、能力",
+          "p": 3
+        },
+        {
+          "w": "harvest",
+          "zh": "收成",
+          "p": 4
+        },
+        {
+          "w": "blockade",
+          "zh": "封锁",
+          "p": 4
+        },
+        {
+          "w": "explosive",
+          "zh": "炸药、爆炸物",
+          "p": 4
+        },
+        {
+          "w": "ammunition",
+          "zh": "弹药",
+          "p": 4
+        },
+        {
+          "w": "civilian",
+          "zh": "民用的、平民的",
+          "p": 4
+        },
+        {
+          "w": "shift",
+          "zh": "转移、转向",
+          "p": 4
+        },
+        {
+          "w": "military",
+          "zh": "军事的",
+          "p": 4
+        },
+        {
+          "w": "warfare",
+          "zh": "战争、作战",
+          "p": 4
+        },
+        {
+          "w": "indispensable",
+          "zh": "不可或缺的",
+          "p": 5
+        },
+        {
+          "w": "consume",
+          "zh": "消耗",
+          "p": 5
+        },
+        {
+          "w": "energy",
+          "zh": "能源",
+          "p": 5
+        },
+        {
+          "w": "fossil",
+          "zh": "化石的",
+          "p": 5
+        },
+        {
+          "w": "fuel",
+          "zh": "燃料",
+          "p": 5
+        },
+        {
+          "w": "emission",
+          "zh": "排放",
+          "p": 5
+        },
+        {
+          "w": "renewable",
+          "zh": "可再生的",
+          "p": 5
+        },
+        {
+          "w": "substitute",
+          "zh": "替代",
+          "p": 5
+        },
+        {
+          "w": "efficiency",
+          "zh": "效率",
+          "p": 5
+        },
+        {
+          "w": "excess",
+          "zh": "过量的、过剩的",
+          "p": 5
+        },
+        {
+          "w": "burden",
+          "zh": "负担、重担",
+          "p": 5
+        },
+        {
+          "w": "inherit",
+          "zh": "继承、承接",
+          "p": 5
+        }
+      ],
+      "facts": [
+        "空气约有78%是分子氮。大多数作物不能直接利用N₂，必须依靠微生物固氮或工业、自然过程先把它转化成铵盐、硝酸盐等可利用形态；豆科作物也依赖共生微生物，并非根部直接吸收N₂。",
+        "核心反应是N₂ + 3H₂ ⇌ 2NH₃。加压使平衡偏向气体分子数较少的氨一侧；较低温度有利于平衡产率，较高温度则提供实用反应速率。催化剂提高反应速率，但不改变平衡位置。",
+        "1909年的实验室成果应同时归于Fritz Haber与Robert Le Rossignol。Le Rossignol设计了关键的连续循环装置、泵和冷却捕集方案：氨被冷凝移出，未反应气体返回催化床，因此循环提高的是总转化率，而非一次通过的平衡产率。",
+        "1909年演示装置使用约3:1的氢氮混合气，在约180–200个大气压、500–600°C及锇催化剂条件下运行。正文采用约数，没有把后来工业铁基催化剂倒灌进Haber与Le Rossignol的实验装置。",
+        "工业放大由Carl Bosch领导的BASF跨学科团队完成。高温高压氢进入含碳钢后会引起脱碳与氢侵蚀，使承压结构失强；双层反应管让穿过内衬的氢逸出，从而保护外层承压壳。",
+        "Alwin Mittasch领导实用催化剂的系统筛选，以廉价、稳定的活化铁催化体系替代Haber实验中的稀有锇、铀方案。相关实验次数在不同资料中口径不一，因此正文只陈述结果，没有写死筛选次数。",
+        "世界第一座工业合成氨厂于1913年9月9日在Oppau投产。不同资料所列初始、设计或后期产能口径并不一致，正文没有选取其中任何一个数字。",
+        "合成氨最初扩大了氮肥供应，也可被氧化为硝酸，再制成用于弹药的硝酸盐。正文没有把氨本身写成炸药，也没有把1913年投产与1921年奥保肥料仓爆炸混为一事。",
+        "2008年的一项研究估算，合成氮肥支撑着约48%的全球人口；这是一项模型估算，并不表示粮食产出只由氮肥决定。本文把这一数字放在核对说明而非正文，避免它压过工程主线。",
+        "国际能源署2021年路线图估计，氨生产约占全球终端能源使用的2%、能源系统二氧化碳排放的1.3%，其中约70%的氨用于化肥。主要排放来自化石燃料制氢与工艺能源，并非N₂与H₂合成氨的反应本身直接排出二氧化碳。",
+        "提高氮肥利用效率可减少氮进入水体和空气；以可再生电力电解制氢，则可降低合成氨上游制氢的碳排放。正文使用“can”而非保证性措辞，因为实际效果仍取决于电力来源、设备与农业管理。",
+        "来源：[英国皇家学会：Robert Le Rossignol与连续合成氨装置的技术史](https://royalsocietypublishing.org/doi/10.1098/rsnr.2016.0019)",
+        "来源：[Fritz Haber诺贝尔演讲：合成氨的实验与热力学路径](https://www.nobelprize.org/prizes/chemistry/1918/haber/lecture/)",
+        "来源：[1918年诺贝尔化学奖颁奖词：约500°C、150–200个大气压与循环系统](https://www.nobelprize.org/prizes/chemistry/1918/ceremony-speech/)",
+        "来源：[1931年诺贝尔化学奖颁奖词：工业放大的材料与高压难题](https://www.nobelprize.org/prizes/chemistry/1931/ceremony-speech/)",
+        "来源：[诺贝尔奖：Carl Bosch与工业高压方法](https://www.nobelprize.org/prizes/chemistry/1931/bosch/facts/)",
+        "来源：[BASF企业史：Bosch团队、双层反应管与1913年Oppau投产](https://www.basf.com/global/en/who-we-are/history/Carl-Bosch)",
+        "来源：[Max Planck Society：Mittasch催化剂与Bosch工业化的功劳边界](https://www.mpg.de/19617047/kofo_jb_2022)",
+        "来源：[Nature Geoscience：一个世纪的合成氨与全球粮食系统](https://www.nature.com/articles/ngeo325)",
+        "来源：[国际能源署：《Ammonia Technology Roadmap》](https://www.iea.org/reports/ammonia-technology-roadmap)",
+        "来源：[美国环保署：农业氮损失与水体营养污染](https://www.epa.gov/nutrientpollution/sources-and-solutions-agriculture)"
       ]
     }
   ]
