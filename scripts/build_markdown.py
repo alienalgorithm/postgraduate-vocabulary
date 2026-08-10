@@ -79,7 +79,7 @@ def build(a):
         L.append("")
         L.append("## 史实核对")
         L.append("")
-        L.append("已经检索确认，**勿改**：")
+        L.append("以下关键信息已据所列来源核对：")
         L.append("")
         for f in a["facts"]:
             L.append(f"- {f}")
