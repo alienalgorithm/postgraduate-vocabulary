@@ -2,22 +2,22 @@
 
 > 题材：约翰·哈里森与海上经度
 > 状态：**第四篇最终锁定稿**（2026-08-10）
-> 指标：295 词 / 50 重点词 / 密度 16.9%
+> 指标：260 词 / 50 重点词 / 密度 19.2%
 > 要知道船在东西方向的位置，航海者必须把一条已知经线的时间带上船。
 
 ---
 
 ## 英文正文
 
-At sea, the Sun could reveal **latitude**. Finding **longitude** required the time somewhere else. Earth's 24-hour **rotation** meant that a one-hour gap between local and **reference** time marked a 15-degree **difference** in longitude. An **accurate** clock could help **determine** a ship's east-west **position**.
+At sea, the Sun could reveal **latitude**; **longitude** required a known meridian's time. Given Earth's 24-hour **rotation**, a one-hour gap between local and **reference** time represented a 15-degree **difference** in longitude. An **accurate** clock helped **determine** a ship's east-west **position**.
 
-In 1714 **Parliament** offered tiered **rewards** up to £20,000; the top tier required a **method** accurate within half a degree—30 geographical miles. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**. A clock had to withstand **motion**, minimise **friction** and preserve **precision** as temperatures changed. H1 showed promise on the 1736 return from Lisbon.
+In 1714 **Parliament** offered **rewards**—up to £20,000 for a **method** accurate within half a degree. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**: a clock that withstood **motion**, reduced **friction** and preserved **precision**. H1's 1736 Lisbon trial showed promise.
 
-A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3, whose linked balances never **produced** the intended results. Its **mechanisms** included a bimetallic strip to **compensate** for temperature **variation**. Completed in 1759, the **compact** H4 resembled a large pocket watch—a sharp **departure** from H3. Its high-**frequency** balance beat five times a second and helped make H4 a **reliable** timekeeper.
+A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3; it fell short of the required standard. The work **produced** useful **mechanisms**, including a bimetallic strip to **compensate** for temperature **variation**. The **compact** H4, completed in 1759, resembled a pocket watch—a **departure** from H3. Its high-**frequency** balance beat five times a second, helping make H4 a **reliable** timekeeper.
 
-H4's **performance** on the 1761–62 Jamaica voyage appeared strong, but the Board of Longitude found the **trial** **inadequate**; Port Royal's longitude remained uncertain. After a 1764 Barbados test, the Board confirmed H4 **satisfied** the Act's strictest **criteria**. Payment was split: one part was **contingent** on **disclosure** of H4's **principles** and transfer of the timekeepers for public use; the rest on successful **replication**. Kendall's K1, completed in 1769, showed the design could be **shared** with another maker. In 1773 Harrison **petitioned** Parliament, which **granted** him £8,750—not the formal prize.
+H4's **performance** in the 1761–62 Jamaica **trial** seemed strong, yet Port Royal's uncertain longitude made the evidence **inadequate**. H4 **satisfied** the Act's strictest **criteria** at Barbados in 1764. Payment was split in 1765: one **contingent** on **disclosure** of H4's **principles** and transfer of timekeepers for public use, the other on successful **replication**. Kendall's 1769 copy, K1, showed the design could be **shared**. In 1773 Harrison **petitioned** Parliament, which **granted** £8,750—not the formal prize.
 
-Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was proof that a **portable** clock could carry a known meridian's time across an ocean. At local noon, its reading revealed a ship's east-west **location**.
+Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was to show a **portable** clock could carry reference time across an ocean. At local noon, its reading revealed the ship's east-west **location**.
 
 ---
 
@@ -26,15 +26,15 @@ Early **marine** timekeepers were too **expensive** for wide use. Other makers *
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-在海上，太阳可以帮助航海者推算**纬度**(latitude)。要确定**经度**(longitude)，还必须知道另一处的时间。地球每24小时完成一次**自转**(rotation)：当地时间与**参照地**(reference)时间每相差一小时，就对应15度的**经度差**(difference)。一只足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。
+在海上，太阳可以帮助航海者推算**纬度**(latitude)；要确定**经度**(longitude)，则必须知道一条已知经线上的时间。地球每24小时完成一次**自转**(rotation)，因此，当地时间与**参照地**(reference)时间相差一小时，就表示两地存在15度的**经度差**(difference)。一台足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。
 
-1714年，英国**议会**(Parliament)设立分级**奖金**(rewards)，最高达2万英镑；最高一档要求某种**方法**(method)把误差控制在半度以内，即30地理英里。约翰·哈里森原是一名**木匠**(carpenter)，又是靠**自学成才的**(self-taught)制表师；他着手寻找一个**实用的**(practical)**解决方案**(solution)。海钟必须承受船体**摇晃**(motion)，尽量减小内部**摩擦**(friction)，并在温度变化时保持计时**精度**(precision)。H1在1736年的里斯本返航中初显成效。
+1714年，英国**议会**(Parliament)设立了分级**奖金**(rewards)：若能提出一种将误差控制在半度以内的**方法**(method)，最高可获2万英镑。约翰·哈里森原是一名**木匠**(carpenter)，也是一位**自学成才的**(self-taught)制表师。他着手寻找一个**切实可行的**(practical)**解决方案**(solution)：让时钟经受住船体**摇晃**(motion)，减少**摩擦**(friction)，并保持计时**精度**(precision)。H1在1736年的里斯本试航中展现出潜力。
 
-H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用了19年不断**改进**(refining)H3；但H3那两套相互联动的摆轮始终未能**产生**(produced)预期效果。它的**机械结构**(mechanisms)中包括双金属片，用来**补偿**(compensate)温度**变化**(variation)。1759年完成的H4则**小巧紧凑**(compact)，外形像一只大号怀表——与H3相比，这是一次明显的**转向**(departure)。H4的摆轮每秒跳动五次，运转**频率**(frequency)很高，是它能够**可靠地**(reliable)计时的重要原因之一。
+H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用19年不断**改进**(refining)H3；它仍未达到所需标准。不过，这项研发也**产生了**(produced)实用的**机械装置**(mechanisms)，其中包括用来**补偿**(compensate)温度**变化**(variation)的双金属片。1759年完成的H4则**小巧紧凑**(compact)，外形像一只怀表——相较H3，这是一次明显的**转向**(departure)。H4摆轮以很高的**频率**(frequency)运行，每秒跳动五次，这有助于H4成为一台**可靠的**(reliable)计时器。
 
-H4在1761至1762年牙买加航程中的**表现**(performance)看起来很出色，但经度委员会认为这次**海试**(trial)仍**不够充分**(inadequate)；当时，皇家港的经度本身尚未精确测定。1764年巴巴多斯试验后，委员会确认H4**达到了**(satisfied)法案最严格的**标准**(criteria)。款项分为两部分：第一笔的支付**取决于**(contingent)哈里森是否**公开**(disclosure)H4的技术**原理**(principles)，并把这些计时器移交出来供公众使用；余款则须等其他制表师成功完成**复制**(replication)后再支付。肯德尔于1769年完成K1，说明这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这仍不是正式大奖。
+H4在1761至1762年牙买加航程中的**表现**(performance)看似出色，但由于皇家港的经度尚不确定，这次**试验**(trial)的证据仍然**不够充分**(inadequate)。1764年的巴巴多斯试验中，H4**达到了**(satisfied)法案最严格的**标准**(criteria)。1765年，款项被分成两部分：一部分能否发放，**取决于**(contingent)哈里森是否**公开**(disclosure)H4的**原理**(principles)，并把这些计时器移交供公众使用；另一部分则须等他人成功完成**复制验证**(replication)后再发放。肯德尔在1769年完成的复制品K1表明，这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这并不是正式大奖。
 
-早期**航海用的**(marine)计时器依然过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师经过多年改进，**最终**(eventually)将它们**简化**(simplified)；随着**成本**(cost)下降，1800年后，这类计时器才在**更广的**(broader)市场上变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，是证明一台**便携式**(portable)时钟能够把某条已知经线的时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。
+早期的**航海用**(marine)计时器价格过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师**最终**(eventually)将这类计时器**简化**(simplified)；随着**成本**(cost)下降，1800年以后，它们才在**更多地方**(broader)变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，在于证明一台**便携式**(portable)时钟能够把参照时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。
 
 ---
 
@@ -44,9 +44,9 @@ H4在1761至1762年牙买加航程中的**表现**(performance)看起来很出�
 
 **§2**（10词）Parliament 议会｜reward 奖金｜method 方法｜carpenter 木匠｜self-taught 自学成才的｜practical 实用的｜solution 解决方案｜motion 摇晃、运动｜friction 摩擦｜precision 精度
 
-**§3**（10词）flaw 缺陷｜refine 改进｜produce 产生｜mechanism 机械结构｜compensate 补偿｜variation 变化｜compact 小巧紧凑的｜departure 转向、背离旧方案｜frequency 频率｜reliable 可靠的
+**§3**（10词）flaw 缺陷｜refine 改进｜produce 产生｜mechanism 机械装置、机械结构｜compensate 补偿｜variation 变化｜compact 小巧紧凑的｜departure 转向、背离旧方案｜frequency 频率｜reliable 可靠的
 
-**§4**（12词）performance 表现｜trial 海试、试验｜inadequate 不充分的｜satisfy 达到标准｜criterion 标准（复数criteria）｜contingent 取决于……的｜disclosure 公开｜principle 原理｜replication 复制验证｜shared 传给他人的、共享的｜petition 请愿｜grant 给予、拨款
+**§4**（12词）performance 表现｜trial 海试、试验｜inadequate 不充分的｜satisfy 达到标准｜criterion 标准（复数criteria）｜contingent 取决于……的｜disclosure 公开｜principle 原理｜replication 复制验证｜share 传给他人的、共享｜petition 请愿｜grant 给予、拨款
 
 **§5**（10词）marine 航海的｜expensive 昂贵的｜eventually 最终｜simplify 简化｜cost 成本｜broad 更广的｜availability 可获得性、供应情况｜legacy 长远贡献、遗产｜portable 便携式的、可携带的｜location 所在位置
 

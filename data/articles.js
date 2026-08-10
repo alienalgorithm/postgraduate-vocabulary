@@ -10,97 +10,294 @@
  */
 
 window.SITE = {
-  vocabTotal: 2545,          // 词表不重复单词总数
-  vocabNote: "新东方考研英语词汇 · 乱序版 · 35 个 List",
-
-  ARTICLES: [
+  "vocabTotal": 2545,
+  "vocabNote": "新东方考研英语词汇 · 乱序版 · 35 个 List",
+  "ARTICLES": [
     {
-      id: "01",
-      slug: "snow-cholera",
-      title: "Snow and the Broad Street Pump",
-      titleZh: "斯诺与宽街水泵",
-      standfirst: "一张地图，一个远在几英里外的寡妇，和一个不必等确定性的决定。",
-      topic: "1854 年伦敦霍乱",
-      date: "2026-08-09",
-      status: "定稿",
-      metrics: { words: 252, keywords: 50, density: 19.8 },
-
-      paras: [
+      "id": "01",
+      "slug": "snow-cholera",
+      "title": "Snow and the Broad Street Pump",
+      "titleZh": "斯诺与宽街水泵",
+      "standfirst": "一张地图，一个远在几英里外的寡妇，和一个不必等确定性的决定。",
+      "topic": "1854 年伦敦霍乱",
+      "date": "2026-08-09",
+      "status": "定稿",
+      "metrics": {
+        "words": 252,
+        "keywords": 50,
+        "density": 19.8
+      },
+      "paras": [
         {
-          en: "In September 1854 a few streets of Soho, in central London, lost 616 people to cholera in ten days. **Prevailing** medical **opinion** **blamed** the **foul** air. John Snow, a **physician** who lived **nearby**, conducted a house-to-house **survey**, asking where the dead had **drawn** their water, and marked each death with a **stroke** against the address on a **map** of the **district**. The strokes **gathered** around one **pump** on Broad Street.",
-          zh: "1854年9月，伦敦市中心苏活区的几条街，十天之内因霍乱失去了616条人命。**主流的**(prevailing)医学**观点**(opinion)把病因**归咎于**(blamed)**污浊的**(foul)空气。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺挨家挨户做**调查**(survey)，询问死者生前从何处**汲取**(drawn)饮水，再按门牌把每一例死亡**划**(stroke)作一道短线，落在**辖区**(district)**地图**(map)上。这些短线**聚拢**(gathered)在宽街的一口**水泵**(pump)周围。"
+          "en": "In September 1854 a few streets of Soho, in central London, lost 616 people to cholera in ten days. **Prevailing** medical **opinion** **blamed** the **foul** air. John Snow, a **physician** who lived **nearby**, conducted a house-to-house **survey**, asking where the dead had **drawn** their water, and marked each death with a **stroke** against the address on a **map** of the **district**. The strokes **gathered** around one **pump** on Broad Street.",
+          "zh": "1854年9月，伦敦市中心苏活区的几条街，十天之内因霍乱失去了616条人命。**主流的**(prevailing)医学**观点**(opinion)把病因**归咎于**(blamed)**污浊的**(foul)空气。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺挨家挨户做**调查**(survey)，询问死者生前从何处**汲取**(drawn)饮水，再按门牌把每一例死亡**划**(stroke)作一道短线，落在**辖区**(district)**地图**(map)上。这些短线**聚拢**(gathered)在宽街的一口**水泵**(pump)周围。"
         },
         {
-          en: "The **pattern** showed him where to look; the **exceptions** showed him he was right. A workhouse of 535 **inmates** inside the death **zone** had its own **well** and **recorded** five deaths. A brewery **beside** the pump lost nobody, since the men were **supplied** with beer. And a **widow** in Hampstead, **remote** from any Soho air, died — she had preferred the **taste** of Broad Street water and had it **delivered** weekly.",
-          zh: "**分布形态**(pattern)告诉他该往哪里看；**例外**(exceptions)才告诉他他看对了。死亡**区域**(zone)之内，一所收容535名**院民**(inmates)的济贫院自有一口**水井**(well)，**记录在案**(recorded)的死亡仅五例。**紧邻**(beside)水泵的一家啤酒厂无一人染病，因为厂方向工人**供应**(supplied)啤酒。而汉普斯特德的一位**寡妇**(widow)，**远离**(remote)苏活的任何空气，却死了——她偏爱宽街之水的**味道**(taste)，一直让人每周**送**(delivered)去。"
+          "en": "The **pattern** showed him where to look; the **exceptions** showed him he was right. A workhouse of 535 **inmates** inside the death **zone** had its own **well** and **recorded** five deaths. A brewery **beside** the pump lost nobody, since the men were **supplied** with beer. And a **widow** in Hampstead, **remote** from any Soho air, died — she had preferred the **taste** of Broad Street water and had it **delivered** weekly.",
+          "zh": "**分布形态**(pattern)告诉他该往哪里看；**例外**(exceptions)才告诉他他看对了。死亡**区域**(zone)之内，一所收容535名**院民**(inmates)的济贫院自有一口**水井**(well)，**记录在案**(recorded)的死亡仅五例。**紧邻**(beside)水泵的一家啤酒厂无一人染病，因为厂方向工人**供应**(supplied)啤酒。而汉普斯特德的一位**寡妇**(widow)，**远离**(remote)苏活的任何空气，却死了——她偏爱宽街之水的**味道**(taste)，一直让人每周**送**(delivered)去。"
         },
         {
-          en: "Foul air **explained** the 616. Only the widow could **refute** it. Snow had no **microscope**, no **germ**, no **theory** of **infection** — only a map and an **anomaly**. A theory is **tested** not by the cases it **fits**, but by the one it cannot **survive**.",
-          zh: "污浊的空气**解释**(explained)得了那616人。能**驳倒**(refute)它的，只有那个寡妇。斯诺没有**显微镜**(microscope)，没有**病菌**(germ)，没有**传染**(infection)**理论**(theory)——只有一张地图和一个**异常个案**(anomaly)。**检验**(tested)一个理论的，从来不是那些与它**吻合**(fits)的案例，而是那一个它**经受不住**(survive)的案例。"
+          "en": "Foul air **explained** the 616. Only the widow could **refute** it. Snow had no **microscope**, no **germ**, no **theory** of **infection** — only a map and an **anomaly**. A theory is **tested** not by the cases it **fits**, but by the one it cannot **survive**.",
+          "zh": "污浊的空气**解释**(explained)得了那616人。能**驳倒**(refute)它的，只有那个寡妇。斯诺没有**显微镜**(microscope)，没有**病菌**(germ)，没有**传染**(infection)**理论**(theory)——只有一张地图和一个**异常个案**(anomaly)。**检验**(tested)一个理论的，从来不是那些与它**吻合**(fits)的案例，而是那一个它**经受不住**(survive)的案例。"
         },
         {
-          en: "On 8 September the **parish** **removed** the pump **handle**. The **outbreak** was already **fading** and the **gesture** **altered** little; the board had not **accepted** his **conclusion**, only his **advice**. Snow died in 1858 with the **profession** still **unconvinced**. He had **demonstrated** something more useful than a **proof**: that when being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
-          zh: "9月8日，**教区**(parish)**拆除**(removed)了水泵的**手柄**(handle)。这场**疫情**(outbreak)本已在**消退**(fading)，这一**举措**(gesture)**改变**(altered)甚微；委员会并未**接受**(accepted)他的**结论**(conclusion)，只接受了他的**建议**(advice)。1858年斯诺去世时，整个**医界**(profession)仍**未被说服**(unconvinced)。而他已经**证明**(demonstrated)了一件比**证明**(proof)本身更有用的事：当猜错了不过是搭上一根手柄、而猜对了能救下一整条街，**确定性**(certainty)就不是那个值得等的东西。"
+          "en": "On 8 September the **parish** **removed** the pump **handle**. The **outbreak** was already **fading** and the **gesture** **altered** little; the board had not **accepted** his **conclusion**, only his **advice**. Snow died in 1858 with the **profession** still **unconvinced**. He had **demonstrated** something more useful than a **proof**: that when being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
+          "zh": "9月8日，**教区**(parish)**拆除**(removed)了水泵的**手柄**(handle)。这场**疫情**(outbreak)本已在**消退**(fading)，这一**举措**(gesture)**改变**(altered)甚微；委员会并未**接受**(accepted)他的**结论**(conclusion)，只接受了他的**建议**(advice)。1858年斯诺去世时，整个**医界**(profession)仍**未被说服**(unconvinced)。而他已经**证明**(demonstrated)了一件比**证明**(proof)本身更有用的事：当猜错了不过是搭上一根手柄、而猜对了能救下一整条街，**确定性**(certainty)就不是那个值得等的东西。"
         }
       ],
-
-      glossary: [
-        { w: "prevailing",  zh: "主流的",   p: 1 },
-        { w: "opinion",     zh: "观点",     p: 1 },
-        { w: "blame",       zh: "归咎于",   p: 1 },
-        { w: "foul",        zh: "污浊的",   p: 1 },
-        { w: "physician",   zh: "内科医生", p: 1 },
-        { w: "nearby",      zh: "附近的",   p: 1 },
-        { w: "survey",      zh: "调查",     p: 1 },
-        { w: "draw",        zh: "汲取",     p: 1 },
-        { w: "stroke",      zh: "一划",     p: 1 },
-        { w: "map",         zh: "地图",     p: 1 },
-        { w: "district",    zh: "辖区",     p: 1 },
-        { w: "gather",      zh: "聚拢",     p: 1 },
-        { w: "pump",        zh: "水泵",     p: 1 },
-
-        { w: "pattern",     zh: "分布形态", p: 2 },
-        { w: "exception",   zh: "例外",     p: 2 },
-        { w: "inmate",      zh: "院民",     p: 2 },
-        { w: "zone",        zh: "区域",     p: 2 },
-        { w: "well",        zh: "水井",     p: 2 },
-        { w: "record",      zh: "记录在案", p: 2 },
-        { w: "beside",      zh: "紧邻",     p: 2 },
-        { w: "supply",      zh: "供应",     p: 2 },
-        { w: "widow",       zh: "寡妇",     p: 2 },
-        { w: "remote",      zh: "远离的",   p: 2 },
-        { w: "taste",       zh: "味道",     p: 2 },
-        { w: "deliver",     zh: "递送",     p: 2 },
-
-        { w: "explain",     zh: "解释",     p: 3 },
-        { w: "refute",      zh: "驳倒",     p: 3 },
-        { w: "microscope",  zh: "显微镜",   p: 3 },
-        { w: "germ",        zh: "病菌",     p: 3 },
-        { w: "infection",   zh: "传染",     p: 3 },
-        { w: "theory",      zh: "理论",     p: 3 },
-        { w: "anomaly",     zh: "异常个案", p: 3 },
-        { w: "test",        zh: "检验",     p: 3 },
-        { w: "fit",         zh: "吻合",     p: 3 },
-        { w: "survive",     zh: "经受住",   p: 3 },
-
-        { w: "parish",      zh: "教区",     p: 4 },
-        { w: "remove",      zh: "拆除",     p: 4 },
-        { w: "handle",      zh: "手柄",     p: 4 },
-        { w: "outbreak",    zh: "疫情",     p: 4 },
-        { w: "fade",        zh: "消退",     p: 4 },
-        { w: "gesture",     zh: "举措",     p: 4 },
-        { w: "alter",       zh: "改变",     p: 4 },
-        { w: "accept",      zh: "接受",     p: 4 },
-        { w: "conclusion",  zh: "结论",     p: 4 },
-        { w: "advice",      zh: "建议",     p: 4 },
-        { w: "profession",  zh: "医界",     p: 4 },
-        { w: "unconvinced", zh: "未被说服的", p: 4 },
-        { w: "demonstrate", zh: "证明",     p: 4 },
-        { w: "proof",       zh: "证明",     p: 4 },
-        { w: "certainty",   zh: "确定性",   p: 4 }
+      "glossary": [
+        {
+          "w": "prevailing",
+          "zh": "主流的",
+          "p": 1
+        },
+        {
+          "w": "opinion",
+          "zh": "观点",
+          "p": 1
+        },
+        {
+          "w": "blame",
+          "zh": "归咎于",
+          "p": 1
+        },
+        {
+          "w": "foul",
+          "zh": "污浊的",
+          "p": 1
+        },
+        {
+          "w": "physician",
+          "zh": "内科医生",
+          "p": 1
+        },
+        {
+          "w": "nearby",
+          "zh": "附近的",
+          "p": 1
+        },
+        {
+          "w": "survey",
+          "zh": "调查",
+          "p": 1
+        },
+        {
+          "w": "draw",
+          "zh": "汲取",
+          "p": 1
+        },
+        {
+          "w": "stroke",
+          "zh": "一划",
+          "p": 1
+        },
+        {
+          "w": "map",
+          "zh": "地图",
+          "p": 1
+        },
+        {
+          "w": "district",
+          "zh": "辖区",
+          "p": 1
+        },
+        {
+          "w": "gather",
+          "zh": "聚拢",
+          "p": 1
+        },
+        {
+          "w": "pump",
+          "zh": "水泵",
+          "p": 1
+        },
+        {
+          "w": "pattern",
+          "zh": "分布形态",
+          "p": 2
+        },
+        {
+          "w": "exception",
+          "zh": "例外",
+          "p": 2
+        },
+        {
+          "w": "inmate",
+          "zh": "院民",
+          "p": 2
+        },
+        {
+          "w": "zone",
+          "zh": "区域",
+          "p": 2
+        },
+        {
+          "w": "well",
+          "zh": "水井",
+          "p": 2
+        },
+        {
+          "w": "record",
+          "zh": "记录在案",
+          "p": 2
+        },
+        {
+          "w": "beside",
+          "zh": "紧邻",
+          "p": 2
+        },
+        {
+          "w": "supply",
+          "zh": "供应",
+          "p": 2
+        },
+        {
+          "w": "widow",
+          "zh": "寡妇",
+          "p": 2
+        },
+        {
+          "w": "remote",
+          "zh": "远离的",
+          "p": 2
+        },
+        {
+          "w": "taste",
+          "zh": "味道",
+          "p": 2
+        },
+        {
+          "w": "deliver",
+          "zh": "递送",
+          "p": 2
+        },
+        {
+          "w": "explain",
+          "zh": "解释",
+          "p": 3
+        },
+        {
+          "w": "refute",
+          "zh": "驳倒",
+          "p": 3
+        },
+        {
+          "w": "microscope",
+          "zh": "显微镜",
+          "p": 3
+        },
+        {
+          "w": "germ",
+          "zh": "病菌",
+          "p": 3
+        },
+        {
+          "w": "infection",
+          "zh": "传染",
+          "p": 3
+        },
+        {
+          "w": "theory",
+          "zh": "理论",
+          "p": 3
+        },
+        {
+          "w": "anomaly",
+          "zh": "异常个案",
+          "p": 3
+        },
+        {
+          "w": "test",
+          "zh": "检验",
+          "p": 3
+        },
+        {
+          "w": "fit",
+          "zh": "吻合",
+          "p": 3
+        },
+        {
+          "w": "survive",
+          "zh": "经受住",
+          "p": 3
+        },
+        {
+          "w": "parish",
+          "zh": "教区",
+          "p": 4
+        },
+        {
+          "w": "remove",
+          "zh": "拆除",
+          "p": 4
+        },
+        {
+          "w": "handle",
+          "zh": "手柄",
+          "p": 4
+        },
+        {
+          "w": "outbreak",
+          "zh": "疫情",
+          "p": 4
+        },
+        {
+          "w": "fade",
+          "zh": "消退",
+          "p": 4
+        },
+        {
+          "w": "gesture",
+          "zh": "举措",
+          "p": 4
+        },
+        {
+          "w": "alter",
+          "zh": "改变",
+          "p": 4
+        },
+        {
+          "w": "accept",
+          "zh": "接受",
+          "p": 4
+        },
+        {
+          "w": "conclusion",
+          "zh": "结论",
+          "p": 4
+        },
+        {
+          "w": "advice",
+          "zh": "建议",
+          "p": 4
+        },
+        {
+          "w": "profession",
+          "zh": "医界",
+          "p": 4
+        },
+        {
+          "w": "unconvinced",
+          "zh": "未被说服的",
+          "p": 4
+        },
+        {
+          "w": "demonstrate",
+          "zh": "证明",
+          "p": 4
+        },
+        {
+          "w": "proof",
+          "zh": "证明",
+          "p": 4
+        },
+        {
+          "w": "certainty",
+          "zh": "确定性",
+          "p": 4
+        }
       ],
-
-      facts: [
+      "facts": [
         "616 人死于十日内；9 月 8 日拆除泵柄。",
         "波兰街济贫院 535 名院民，仅 5 例死亡（自有水井）。",
         "狮子啤酒厂员工零感染（喝厂里啤酒 + 自有深井）。",
@@ -120,7 +317,7 @@ window.SITE = {
       "standfirst": "一场寻找海底热水的考察，如何发现了一个不依赖阳光的生命世界。",
       "topic": "1977 年加拉帕戈斯热液喷口",
       "date": "2026-08-09",
-      "status": "第二篇最终锁定稿",
+      "status": "第二篇全新重写稿",
       "metrics": {
         "words": 259,
         "keywords": 50,
@@ -140,8 +337,8 @@ window.SITE = {
           "zh": "没人知道这些动物吃什么。由于甲醛不多，队员只好用伏特加保存一部分**标本**(specimens)。一份**水样**(sample)散发着臭鸡蛋味，其中**含有**(contained)硫化氢。"
         },
         {
-          "en": "Later work showed some **microbes** oxidise hydrogen sulphide, using **chemical** energy to **convert** carbon dioxide into **organic** matter. Many larger **species** **derive** nourishment from these microbes. These **processes** **support** a food **chain** based on chemosynthesis rather than **photosynthesis**.",
-          "zh": "后来的研究表明，一些**微生物**(microbes)会氧化硫化氢，利用释放出的**化学能**(chemical)，把二氧化碳**转化**(convert)成**有机物**(organic)。许多体型较大的**物种**(species)则从这些微生物中**获得**(derive)养分。这些**过程**(processes)**维系着**(support)一条以化能合成而非**光合作用**(photosynthesis)为基础的食物**链**(chain)。"
+          "en": "Later work showed some **microbes** oxidise hydrogen sulphide, using **chemical** energy to **convert** carbon dioxide into **organic** matter. Many larger **species** **derive** nourishment from these microbes. These **reactions** **support** a food **chain** based on chemosynthesis rather than **photosynthesis**.",
+          "zh": "后来的研究表明，一些**微生物**(microbes)会氧化硫化氢，利用释放出的**化学能**(chemical)，把二氧化碳**转化**(convert)成**有机物**(organic)。许多体型较大的**物种**(species)则从这些微生物中**获得**(derive)养分。这些**反应**(reactions)**维系着**(support)一条以化能合成而非**光合作用**(photosynthesis)为基础的食物**链**(chain)。"
         },
         {
           "en": "The **discovery** **extended** the known **boundaries** of life. Most **ecosystems** ultimately depend on sunlight, but Galápagos showed that **primary** production need not. That **insight** broadened what counts as **habitable**: an otherwise suitable environment need not be **defined** by sunlight if chemistry provides a **usable** **flow** of energy. The expedition went down to trace Earth's heat and came back with evidence that a community could **flourish** in permanent darkness.",
@@ -325,8 +522,8 @@ window.SITE = {
           "p": 4
         },
         {
-          "w": "process",
-          "zh": "过程",
+          "w": "reaction",
+          "zh": "反应",
           "p": 4
         },
         {
@@ -416,7 +613,7 @@ window.SITE = {
       "standfirst": "几十年的重复测量，把南极上空看不见的损失变成了全球行动。",
       "topic": "1985 年南极臭氧洞",
       "date": "2026-08-09",
-      "status": "第三篇最终锁定稿",
+      "status": "第三篇精进定稿",
       "metrics": {
         "words": 255,
         "keywords": 50,
@@ -723,30 +920,30 @@ window.SITE = {
       "date": "2026-08-10",
       "status": "第四篇最终锁定稿",
       "metrics": {
-        "words": 295,
+        "words": 260,
         "keywords": 50,
-        "density": 16.9
+        "density": 19.2
       },
       "paras": [
         {
-          "en": "At sea, the Sun could reveal **latitude**. Finding **longitude** required the time somewhere else. Earth's 24-hour **rotation** meant that a one-hour gap between local and **reference** time marked a 15-degree **difference** in longitude. An **accurate** clock could help **determine** a ship's east-west **position**.",
-          "zh": "在海上，太阳可以帮助航海者推算**纬度**(latitude)。要确定**经度**(longitude)，还必须知道另一处的时间。地球每24小时完成一次**自转**(rotation)：当地时间与**参照地**(reference)时间每相差一小时，就对应15度的**经度差**(difference)。一只足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。"
+          "en": "At sea, the Sun could reveal **latitude**; **longitude** required a known meridian's time. Given Earth's 24-hour **rotation**, a one-hour gap between local and **reference** time represented a 15-degree **difference** in longitude. An **accurate** clock helped **determine** a ship's east-west **position**.",
+          "zh": "在海上，太阳可以帮助航海者推算**纬度**(latitude)；要确定**经度**(longitude)，则必须知道一条已知经线上的时间。地球每24小时完成一次**自转**(rotation)，因此，当地时间与**参照地**(reference)时间相差一小时，就表示两地存在15度的**经度差**(difference)。一台足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。"
         },
         {
-          "en": "In 1714 **Parliament** offered tiered **rewards** up to £20,000; the top tier required a **method** accurate within half a degree—30 geographical miles. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**. A clock had to withstand **motion**, minimise **friction** and preserve **precision** as temperatures changed. H1 showed promise on the 1736 return from Lisbon.",
-          "zh": "1714年，英国**议会**(Parliament)设立分级**奖金**(rewards)，最高达2万英镑；最高一档要求某种**方法**(method)把误差控制在半度以内，即30地理英里。约翰·哈里森原是一名**木匠**(carpenter)，又是靠**自学成才的**(self-taught)制表师；他着手寻找一个**实用的**(practical)**解决方案**(solution)。海钟必须承受船体**摇晃**(motion)，尽量减小内部**摩擦**(friction)，并在温度变化时保持计时**精度**(precision)。H1在1736年的里斯本返航中初显成效。"
+          "en": "In 1714 **Parliament** offered **rewards**—up to £20,000 for a **method** accurate within half a degree. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**: a clock that withstood **motion**, reduced **friction** and preserved **precision**. H1's 1736 Lisbon trial showed promise.",
+          "zh": "1714年，英国**议会**(Parliament)设立了分级**奖金**(rewards)：若能提出一种将误差控制在半度以内的**方法**(method)，最高可获2万英镑。约翰·哈里森原是一名**木匠**(carpenter)，也是一位**自学成才的**(self-taught)制表师。他着手寻找一个**切实可行的**(practical)**解决方案**(solution)：让时钟经受住船体**摇晃**(motion)，减少**摩擦**(friction)，并保持计时**精度**(precision)。H1在1736年的里斯本试航中展现出潜力。"
         },
         {
-          "en": "A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3, whose linked balances never **produced** the intended results. Its **mechanisms** included a bimetallic strip to **compensate** for temperature **variation**. Completed in 1759, the **compact** H4 resembled a large pocket watch—a sharp **departure** from H3. Its high-**frequency** balance beat five times a second and helped make H4 a **reliable** timekeeper.",
-          "zh": "H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用了19年不断**改进**(refining)H3；但H3那两套相互联动的摆轮始终未能**产生**(produced)预期效果。它的**机械结构**(mechanisms)中包括双金属片，用来**补偿**(compensate)温度**变化**(variation)。1759年完成的H4则**小巧紧凑**(compact)，外形像一只大号怀表——与H3相比，这是一次明显的**转向**(departure)。H4的摆轮每秒跳动五次，运转**频率**(frequency)很高，是它能够**可靠地**(reliable)计时的重要原因之一。"
+          "en": "A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3; it fell short of the required standard. The work **produced** useful **mechanisms**, including a bimetallic strip to **compensate** for temperature **variation**. The **compact** H4, completed in 1759, resembled a pocket watch—a **departure** from H3. Its high-**frequency** balance beat five times a second, helping make H4 a **reliable** timekeeper.",
+          "zh": "H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用19年不断**改进**(refining)H3；它仍未达到所需标准。不过，这项研发也**产生了**(produced)实用的**机械装置**(mechanisms)，其中包括用来**补偿**(compensate)温度**变化**(variation)的双金属片。1759年完成的H4则**小巧紧凑**(compact)，外形像一只怀表——相较H3，这是一次明显的**转向**(departure)。H4摆轮以很高的**频率**(frequency)运行，每秒跳动五次，这有助于H4成为一台**可靠的**(reliable)计时器。"
         },
         {
-          "en": "H4's **performance** on the 1761–62 Jamaica voyage appeared strong, but the Board of Longitude found the **trial** **inadequate**; Port Royal's longitude remained uncertain. After a 1764 Barbados test, the Board confirmed H4 **satisfied** the Act's strictest **criteria**. Payment was split: one part was **contingent** on **disclosure** of H4's **principles** and transfer of the timekeepers for public use; the rest on successful **replication**. Kendall's K1, completed in 1769, showed the design could be **shared** with another maker. In 1773 Harrison **petitioned** Parliament, which **granted** him £8,750—not the formal prize.",
-          "zh": "H4在1761至1762年牙买加航程中的**表现**(performance)看起来很出色，但经度委员会认为这次**海试**(trial)仍**不够充分**(inadequate)；当时，皇家港的经度本身尚未精确测定。1764年巴巴多斯试验后，委员会确认H4**达到了**(satisfied)法案最严格的**标准**(criteria)。款项分为两部分：第一笔的支付**取决于**(contingent)哈里森是否**公开**(disclosure)H4的技术**原理**(principles)，并把这些计时器移交出来供公众使用；余款则须等其他制表师成功完成**复制**(replication)后再支付。肯德尔于1769年完成K1，说明这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这仍不是正式大奖。"
+          "en": "H4's **performance** in the 1761–62 Jamaica **trial** seemed strong, yet Port Royal's uncertain longitude made the evidence **inadequate**. H4 **satisfied** the Act's strictest **criteria** at Barbados in 1764. Payment was split in 1765: one **contingent** on **disclosure** of H4's **principles** and transfer of timekeepers for public use, the other on successful **replication**. Kendall's 1769 copy, K1, showed the design could be **shared**. In 1773 Harrison **petitioned** Parliament, which **granted** £8,750—not the formal prize.",
+          "zh": "H4在1761至1762年牙买加航程中的**表现**(performance)看似出色，但由于皇家港的经度尚不确定，这次**试验**(trial)的证据仍然**不够充分**(inadequate)。1764年的巴巴多斯试验中，H4**达到了**(satisfied)法案最严格的**标准**(criteria)。1765年，款项被分成两部分：一部分能否发放，**取决于**(contingent)哈里森是否**公开**(disclosure)H4的**原理**(principles)，并把这些计时器移交供公众使用；另一部分则须等他人成功完成**复制验证**(replication)后再发放。肯德尔在1769年完成的复制品K1表明，这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这并不是正式大奖。"
         },
         {
-          "en": "Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was proof that a **portable** clock could carry a known meridian's time across an ocean. At local noon, its reading revealed a ship's east-west **location**.",
-          "zh": "早期**航海用的**(marine)计时器依然过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师经过多年改进，**最终**(eventually)将它们**简化**(simplified)；随着**成本**(cost)下降，1800年后，这类计时器才在**更广的**(broader)市场上变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，是证明一台**便携式**(portable)时钟能够把某条已知经线的时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。"
+          "en": "Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was to show a **portable** clock could carry reference time across an ocean. At local noon, its reading revealed the ship's east-west **location**.",
+          "zh": "早期的**航海用**(marine)计时器价格过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师**最终**(eventually)将这类计时器**简化**(simplified)；随着**成本**(cost)下降，1800年以后，它们才在**更多地方**(broader)变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，在于证明一台**便携式**(portable)时钟能够把参照时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。"
         }
       ],
       "glossary": [
@@ -857,7 +1054,7 @@ window.SITE = {
         },
         {
           "w": "mechanism",
-          "zh": "机械结构",
+          "zh": "机械装置、机械结构",
           "p": 3
         },
         {
@@ -936,8 +1133,8 @@ window.SITE = {
           "p": 4
         },
         {
-          "w": "shared",
-          "zh": "传给他人的、共享的",
+          "w": "share",
+          "zh": "传给他人的、共享",
           "p": 4
         },
         {
@@ -1028,7 +1225,7 @@ window.SITE = {
       "standfirst": "条纹里只有稳定的身份；价格留在数据库，共识把二者连接成基础设施。",
       "topic": "UPC 条形码与零售信息基础设施",
       "date": "2026-08-09",
-      "status": "第五篇最终锁定稿",
+      "status": "第五篇最终精进定稿",
       "metrics": {
         "words": 270,
         "keywords": 50,
@@ -1639,6 +1836,308 @@ window.SITE = {
         "来源：[Nature Geoscience：一个世纪的合成氨与全球粮食系统](https://www.nature.com/articles/ngeo325)",
         "来源：[国际能源署：《Ammonia Technology Roadmap》](https://www.iea.org/reports/ammonia-technology-roadmap)",
         "来源：[美国环保署：农业氮损失与水体营养污染](https://www.epa.gov/nutrientpollution/sources-and-solutions-agriculture)"
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "the-meaning-he-left-out",
+      "title": "The Meaning He Left Out",
+      "titleZh": "他暂时略去的意义",
+      "standfirst": "香农暂时把意义留在工程问题之外，由此看清：压缩要删减冗余，抗噪却要主动加入冗余。",
+      "topic": "1948 年香农与信息论",
+      "date": "2026-08-10",
+      "status": "第七篇最终精校稿",
+      "metrics": {
+        "words": 273,
+        "keywords": 50,
+        "density": 18.3
+      },
+      "paras": [
+        {
+          "en": "In 1948 Claude Shannon published a paper about **messages**—and deliberately set their **meaning** aside. A telephone line might carry a love letter, a market **quotation** or an arbitrary string. Their **value** to a reader differed; the **technical** task did not. Could a **receiver**, given the arriving signal, **retrieve** the exact message the **sender** had chosen?",
+          "zh": "1948年，克劳德·香农发表了一篇关于**消息**(messages)的论文，却有意暂时搁置它们的**意义**(meaning)。一条电话线可能传送情书、市场**报价**(quotation)，也可能传送一串任意字符。对读者而言，它们的**价值**(value)各不相同；**技术层面**(technical)的任务却没有区别：**接收端**(receiver)能否仅凭到达的信号，**还原出**(retrieve)**发送端**(sender)选中的那条消息？"
+        },
+        {
+          "en": "That narrower question made information countable. If eight **outcomes** were **equally** likely, identifying one required three yes-or-no **choices**: three **bits**. A guaranteed event conveyed nothing new; a **rare** one conveyed more. Shannon used **probability** to calculate that **quantity**; he **credited** John Tukey with suggesting the **term** “bit”, short for **binary** digit.",
+          "zh": "问题一经这样收窄，信息便有了可以计算的尺度。若八种**结果**(outcomes)出现的概率**完全相同**(equally)，确定其中一种只需做三次“是或否”的**选择**(choices)，即三**比特**(bits)。必然发生的结果不会带来新信息；越**罕见的**(rare)结果，所含信息越多。香农借助**概率**(probability)计算这种**信息量**(quantity)；他还明确将“bit”一词**归功于**(credited)约翰·图基。这个**术语**(term)是“**二进制**(binary)数位”的简称。"
+        },
+        {
+          "en": "In human **language**, symbols are not uniformly **random**: E occurs more **often** than Q, and TH than XP. This **predictability** creates **redundancy**; **source** coding can therefore compress a message, **assigning** shorter representations to more **likely** **sequences** and longer ones to rare sequences. Compression saves bits by exploiting the language’s statistical regularities.",
+          "zh": "在人类**语言**(language)中，各种符号并非均匀**随机**(random)出现：E比Q**更常出现**(often)，TH也比XP常见。这种**可预测性**(predictability)形成了**冗余**(redundancy)；因此，**信源**(source)编码可以通过**分配**(assigning)长短不同的表示来压缩消息：越**可能出现的**(likely)**序列**(sequences)，表示越短；越罕见，表示越长。压缩正是利用这些统计规律来节省比特。"
+        },
+        {
+          "en": "In a **channel**, **noise** reverses the logic: it may **damage** a **signal**, so a **code** adds **deliberate** redundancy that helps correct errors. Shannon showed that each channel has a **maximum** reliable information **rate**. Below this **limit**, properly designed, **sufficiently** long codes can make the probability of **error** arbitrarily small; above it, no code can make **transmission** reliable.",
+          "zh": "在**信道**(channel)中，**噪声**(noise)使逻辑反转：它可能**损坏**(damage)**信号**(signal)，因此**编码**(code)会加入**有意设计的**(deliberate)冗余，帮助纠错。香农证明，每条信道都有一个能够可靠传输信息的**最高**(maximum)**速率**(rate)。低于这个**上限**(limit)，采用设计得当且**足够**(sufficiently)长的编码，就能把**出错**(error)概率降到任意小；超过它，任何编码都无法实现可靠**传输**(transmission)。"
+        },
+        {
+          "en": "His **result** established that such codes existed; it did not offer a **convenient** way to **construct** them. At the **destination**, meaning could matter again. Shannon’s **model** did not judge a message’s **purpose**; it asked only whether a chosen message could be **preserved**. That **restraint** made the theory **general**: a channel need not **understand** a message to carry it **intact**.",
+          "zh": "这一**结果**(result)证明，此类编码确实存在；但香农并未给出一种**便于实际使用的**(convenient)方法来**构造**(construct)它们。当消息抵达**目的地**(destination)，意义才可能重新变得重要。香农的**模型**(model)不判断消息的**用途**(purpose)，只问发送时选中的那条消息能否**保持原样**(preserved)。这种**克制**(restraint)让理论得以**普遍适用**(general)：信道无需**理解**(understand)消息，也能将它**完整无损地**(intact)送达。"
+        }
+      ],
+      "glossary": [
+        {
+          "w": "message",
+          "zh": "消息、讯息",
+          "p": 1
+        },
+        {
+          "w": "meaning",
+          "zh": "含义、意义",
+          "p": 1
+        },
+        {
+          "w": "quotation",
+          "zh": "报价、引语",
+          "p": 1
+        },
+        {
+          "w": "value",
+          "zh": "价值",
+          "p": 1
+        },
+        {
+          "w": "technical",
+          "zh": "技术的、技术层面的",
+          "p": 1
+        },
+        {
+          "w": "receiver",
+          "zh": "接收器、接收端",
+          "p": 1
+        },
+        {
+          "w": "retrieve",
+          "zh": "取回、检索、还原",
+          "p": 1
+        },
+        {
+          "w": "sender",
+          "zh": "发送者、发送端",
+          "p": 1
+        },
+        {
+          "w": "outcome",
+          "zh": "结果",
+          "p": 2
+        },
+        {
+          "w": "equally",
+          "zh": "相等地、同样地",
+          "p": 2
+        },
+        {
+          "w": "choice",
+          "zh": "选择",
+          "p": 2
+        },
+        {
+          "w": "bit",
+          "zh": "比特、二进制位",
+          "p": 2
+        },
+        {
+          "w": "rare",
+          "zh": "罕见的",
+          "p": 2
+        },
+        {
+          "w": "probability",
+          "zh": "概率、可能性",
+          "p": 2
+        },
+        {
+          "w": "quantity",
+          "zh": "数量、量",
+          "p": 2
+        },
+        {
+          "w": "credit",
+          "zh": "把功劳归于",
+          "p": 2
+        },
+        {
+          "w": "term",
+          "zh": "术语、用语",
+          "p": 2
+        },
+        {
+          "w": "binary",
+          "zh": "二进制的",
+          "p": 2
+        },
+        {
+          "w": "language",
+          "zh": "语言",
+          "p": 3
+        },
+        {
+          "w": "random",
+          "zh": "随机的",
+          "p": 3
+        },
+        {
+          "w": "often",
+          "zh": "常常、经常",
+          "p": 3
+        },
+        {
+          "w": "predictability",
+          "zh": "可预测性",
+          "p": 3
+        },
+        {
+          "w": "redundancy",
+          "zh": "冗余、多余信息",
+          "p": 3
+        },
+        {
+          "w": "source",
+          "zh": "来源、信源",
+          "p": 3
+        },
+        {
+          "w": "assign",
+          "zh": "分配、指派",
+          "p": 3
+        },
+        {
+          "w": "likely",
+          "zh": "可能的、很可能发生的",
+          "p": 3
+        },
+        {
+          "w": "sequence",
+          "zh": "序列、顺序",
+          "p": 3
+        },
+        {
+          "w": "channel",
+          "zh": "信道、渠道",
+          "p": 4
+        },
+        {
+          "w": "noise",
+          "zh": "噪声",
+          "p": 4
+        },
+        {
+          "w": "damage",
+          "zh": "损坏、破坏",
+          "p": 4
+        },
+        {
+          "w": "signal",
+          "zh": "信号",
+          "p": 4
+        },
+        {
+          "w": "code",
+          "zh": "编码、代码",
+          "p": 4
+        },
+        {
+          "w": "deliberate",
+          "zh": "有意的、经过考虑的",
+          "p": 4
+        },
+        {
+          "w": "maximum",
+          "zh": "最高的、最大值",
+          "p": 4
+        },
+        {
+          "w": "rate",
+          "zh": "速率、比率",
+          "p": 4
+        },
+        {
+          "w": "limit",
+          "zh": "上限、限制",
+          "p": 4
+        },
+        {
+          "w": "sufficiently",
+          "zh": "足够地",
+          "p": 4
+        },
+        {
+          "w": "error",
+          "zh": "错误、误差",
+          "p": 4
+        },
+        {
+          "w": "transmission",
+          "zh": "传输、传送",
+          "p": 4
+        },
+        {
+          "w": "result",
+          "zh": "结果、结论",
+          "p": 5
+        },
+        {
+          "w": "convenient",
+          "zh": "方便的、便于使用的",
+          "p": 5
+        },
+        {
+          "w": "construct",
+          "zh": "构造、建造",
+          "p": 5
+        },
+        {
+          "w": "destination",
+          "zh": "目的地、接收终点",
+          "p": 5
+        },
+        {
+          "w": "model",
+          "zh": "模型",
+          "p": 5
+        },
+        {
+          "w": "purpose",
+          "zh": "用途、目的",
+          "p": 5
+        },
+        {
+          "w": "preserve",
+          "zh": "保存、保留",
+          "p": 5
+        },
+        {
+          "w": "restraint",
+          "zh": "克制、约束",
+          "p": 5
+        },
+        {
+          "w": "general",
+          "zh": "普遍的、普适的",
+          "p": 5
+        },
+        {
+          "w": "understand",
+          "zh": "理解",
+          "p": 5
+        },
+        {
+          "w": "intact",
+          "zh": "完整无损的",
+          "p": 5
+        }
+      ],
+      "facts": [
+        "Claude Shannon的《A Mathematical Theory of Communication》发表于1948年《Bell System Technical Journal》第27卷，分载于7月与10月两期，页码分别为379–423和623–656。正文只写年份，以免日期压过论证。",
+        "香农在论文开头把通信的基本问题界定为：在另一点准确或近似地重现从一组可能消息中选中的那一条。他说语义层面与这一工程问题无关，并不是宣称意义对人类交流不重要。",
+        "以2为底取对数时，信息单位是binary digit，简称bit。香农在原文中明确注明“bit”一词由J. W. Tukey建议；因此正文没有把这个词的发明单独归给香农。八个等概率结果对应log₂8 = 3比特。",
+        "香农研究了英语的统计结构与冗余。信源编码可利用不等概率，把较短表示分配给更常见的符号或序列，从而压缩消息；正文没有把压缩写成删除语义。",
+        "在有噪信道中，冗余若以合适方式加入，可帮助发现并纠正错误。本文把压缩时删除的统计冗余与传输时加入的结构化冗余分开处理，没有把二者写成矛盾。",
+        "有噪信道编码定理的限定必须完整：信息率低于信道容量时，足够长且合适的编码能使错误概率任意小；超过容量，则不可能把错误压到任意小。正文没有写成有限长度编码可保证绝对零错误。",
+        "香农的证明建立了此类编码的存在性，却没有给出一种普遍而实用的构造方法。原论文也明确承认这种证明在实际编码方面的不足。",
+        "香农在原论文开头明确承认Harry Nyquist与Ralph Hartley的先行工作；本文将1948年的贡献表述为建立一般理论与极限，而非从零发明二进制或全部数字通信。",
+        "来源：[Nokia Bell Labs：香农1948年论文的原始发表页与引言](https://www.nokia.com/bell-labs/publications-and-media/publications/a-mathematical-theory-of-communication/)",
+        "来源：[香农论文校订重印本：完整定义、bit归功、语言冗余与信道编码定理](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)",
+        "来源：[MIT：Shannon limit、存在性证明与实用构造之间的区别](https://news.mit.edu/2010/explained-shannon-0115)"
       ]
     }
   ]

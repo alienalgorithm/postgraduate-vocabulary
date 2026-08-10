@@ -1,7 +1,7 @@
 # 02 · A Garden Without Sunlight
 
 > 题材：1977 年加拉帕戈斯热液喷口
-> 状态：**第二篇最终锁定稿**（2026-08-09）
+> 状态：**第二篇全新重写稿**（2026-08-09）
 > 指标：259 词 / 50 重点词 / 密度 19.3%
 > 一场寻找海底热水的考察，如何发现了一个不依赖阳光的生命世界。
 
@@ -15,7 +15,7 @@ ANGUS took 3,000 images; most showed **barren** lava. But 13 **successive** **fr
 
 Nobody knew what the animals ate. With little formaldehyde, the team used vodka to preserve **specimens**. A water **sample** smelled of rotten eggs: it **contained** hydrogen sulphide.
 
-Later work showed some **microbes** oxidise hydrogen sulphide, using **chemical** energy to **convert** carbon dioxide into **organic** matter. Many larger **species** **derive** nourishment from these microbes. These **processes** **support** a food **chain** based on chemosynthesis rather than **photosynthesis**.
+Later work showed some **microbes** oxidise hydrogen sulphide, using **chemical** energy to **convert** carbon dioxide into **organic** matter. Many larger **species** **derive** nourishment from these microbes. These **reactions** **support** a food **chain** based on chemosynthesis rather than **photosynthesis**.
 
 The **discovery** **extended** the known **boundaries** of life. Most **ecosystems** ultimately depend on sunlight, but Galápagos showed that **primary** production need not. That **insight** broadened what counts as **habitable**: an otherwise suitable environment need not be **defined** by sunlight if chemistry provides a **usable** **flow** of energy. The expedition went down to trace Earth's heat and came back with evidence that a community could **flourish** in permanent darkness.
 
@@ -32,7 +32,7 @@ ANGUS拍了3000张图像，大多只有**荒芜的**(barren)熔岩。但在那�
 
 没人知道这些动物吃什么。由于甲醛不多，队员只好用伏特加保存一部分**标本**(specimens)。一份**水样**(sample)散发着臭鸡蛋味，其中**含有**(contained)硫化氢。
 
-后来的研究表明，一些**微生物**(microbes)会氧化硫化氢，利用释放出的**化学能**(chemical)，把二氧化碳**转化**(convert)成**有机物**(organic)。许多体型较大的**物种**(species)则从这些微生物中**获得**(derive)养分。这些**过程**(processes)**维系着**(support)一条以化能合成而非**光合作用**(photosynthesis)为基础的食物**链**(chain)。
+后来的研究表明，一些**微生物**(microbes)会氧化硫化氢，利用释放出的**化学能**(chemical)，把二氧化碳**转化**(convert)成**有机物**(organic)。许多体型较大的**物种**(species)则从这些微生物中**获得**(derive)养分。这些**反应**(reactions)**维系着**(support)一条以化能合成而非**光合作用**(photosynthesis)为基础的食物**链**(chain)。
 
 这次**发现**(discovery)**拓展了**(extended)人们已知的生命**边界**(boundaries)。大多数**生态系统**(ecosystems)归根结底依赖阳光，但加拉帕戈斯裂谷表明，**初级**(primary)生产未必需要阳光。这一**认识**(insight)拓宽了“**宜居**(habitable)”的范围：只要其他条件合适，一个环境是否适合生命生存，便不必由阳光来**界定**(defined)；化学过程也可以提供一股**可利用的**(usable)能量**流**(flow)。这支考察队下潜，是为了追踪地球的热量；带回的证据却表明，一个生物群落也能在终年不见光的地方**繁盛**(flourish)。
 
@@ -46,7 +46,7 @@ ANGUS拍了3000张图像，大多只有**荒芜的**(barren)熔岩。但在那�
 
 **§3**（3词）specimen 标本｜sample 样本、水样｜contain 含有
 
-**§4**（10词）microbe 微生物｜chemical 化学的｜convert 转化｜organic 有机的｜species 物种｜derive 获得｜process 过程｜support 维系｜chain 链｜photosynthesis 光合作用
+**§4**（10词）microbe 微生物｜chemical 化学的｜convert 转化｜organic 有机的｜species 物种｜derive 获得｜reaction 反应｜support 维系｜chain 链｜photosynthesis 光合作用
 
 **§5**（11词）discovery 发现｜extend 拓展｜boundary 边界｜ecosystem 生态系统｜primary 初级的｜insight 认识、洞见｜habitable 宜居的｜define 界定｜usable 可利用的｜flow 流｜flourish 繁盛
 
