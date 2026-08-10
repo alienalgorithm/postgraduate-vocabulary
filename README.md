@@ -9,7 +9,7 @@
 
 ## 当前定稿
 
-五篇共使用 250 个重点词；英文加粗词、中文括注与速查表逐项对应，重点词在字面和词元层面均不重复。
+六篇共使用 300 个重点词；英文加粗词、中文括注与速查表逐项对应，重点词在字面、词元和透明现代词族层面均不重复。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | 03 | *The Graph That Changed the Sky* | 1985 年南极臭氧洞 | 255 词 · 50 重点词 · 19.6% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-graph-that-changed-the-sky) · [Markdown](articles/03-the-graph-that-changed-the-sky.md) |
 | 04 | *Fifteen Degrees an Hour* | 约翰·哈里森与海上经度 | 295 词 · 50 重点词 · 16.9% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=fifteen-degrees-an-hour) · [Markdown](articles/04-fifteen-degrees-an-hour.md) |
 | 05 | *The Price Was Elsewhere* | UPC 条形码与零售信息基础设施 | 270 词 · 50 重点词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-price-was-elsewhere) · [Markdown](articles/05-the-price-was-elsewhere.md) |
+| 06 | *The Reaction That Had to Be Invented Twice* | Haber–Bosch 合成氨与工业放大 | 292 词 · 50 重点词 · 17.1% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-reaction-invented-twice) · [Markdown](articles/06-the-reaction-invented-twice.md) |
 
 ---
 
