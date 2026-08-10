@@ -1,0 +1,51 @@
+name: Apply final manuscript sync
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/apply-final-manuscripts.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Restore synchronized final drafts
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .final-sync/chunk-* | base64 --decode > /tmp/final-manuscripts.tar.gz
+          tar -xzf /tmp/final-manuscripts.tar.gz -C .
+
+      - name: Validate and regenerate Markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/build_markdown.py
+
+      - name: Commit synchronized final drafts
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf .final-sync
+          rm -f .github/workflows/apply-final-manuscripts.yml
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "校正最终定稿并新增第七篇"
+          git push
