@@ -15,7 +15,7 @@ The **pattern** showed him where to look; the **exceptions** showed him he was r
 
 Foul air **explained** the 616. Only the widow could **refute** it. Snow had no **microscope**, no **germ**, no **theory** of **infection** — only a map and an **anomaly**. A theory is **tested** not by the cases it **fits**, but by the one it cannot **survive**.
 
-On 8 September the **parish** **removed** the pump **handle**. The **outbreak** was already **fading** and the **gesture** **altered** little; the board had not **accepted** his **explanation**, only his **advice**. Snow died in 1858 with the **profession** still **unconvinced**. He had **demonstrated** something more useful than a **proof**: that when being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.
+On 8 September the **parish** **removed** the pump **handle**. The **outbreak** was already **fading** and the **gesture** **altered** little; the board had not **accepted** his **conclusion**, only his **advice**. Snow died in 1858 with the **profession** still **unconvinced**. He had **demonstrated** something more useful than a **proof**: that when being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.
 
 ---
 
@@ -30,7 +30,7 @@ On 8 September the **parish** **removed** the pump **handle**. The **outbreak** 
 
 污浊的空气**解释**(explained)得了那616人。能**驳倒**(refute)它的，只有那个寡妇。斯诺没有**显微镜**(microscope)，没有**病菌**(germ)，没有**传染**(infection)**理论**(theory)——只有一张地图和一个**异常个案**(anomaly)。**检验**(tested)一个理论的，从来不是那些与它**吻合**(fits)的案例，而是那一个它**经受不住**(survive)的案例。
 
-9月8日，**教区**(parish)**拆除**(removed)了水泵的**手柄**(handle)。这场**疫情**(outbreak)本已在**消退**(fading)，这一**举措**(gesture)**改变**(altered)甚微；委员会并未**接受**(accepted)他的**解释**(explanation)，只接受了他的**建议**(advice)。1858年斯诺去世时，整个**医界**(profession)仍**未被说服**(unconvinced)。而他已经**证明**(demonstrated)了一件比**证明**(proof)本身更有用的事：当猜错了不过是搭上一根手柄、而猜对了能救下一整条街，**确定性**(certainty)就不是那个值得等的东西。
+9月8日，**教区**(parish)**拆除**(removed)了水泵的**手柄**(handle)。这场**疫情**(outbreak)本已在**消退**(fading)，这一**举措**(gesture)**改变**(altered)甚微；委员会并未**接受**(accepted)他的**结论**(conclusion)，只接受了他的**建议**(advice)。1858年斯诺去世时，整个**医界**(profession)仍**未被说服**(unconvinced)。而他已经**证明**(demonstrated)了一件比**证明**(proof)本身更有用的事：当猜错了不过是搭上一根手柄、而猜对了能救下一整条街，**确定性**(certainty)就不是那个值得等的东西。
 
 ---
 
@@ -42,13 +42,13 @@ On 8 September the **parish** **removed** the pump **handle**. The **outbreak** 
 
 **§3**（10词）explain 解释｜refute 驳倒｜microscope 显微镜｜germ 病菌｜infection 传染｜theory 理论｜anomaly 异常个案｜test 检验｜fit 吻合｜survive 经受住
 
-**§4**（15词）parish 教区｜remove 拆除｜handle 手柄｜outbreak 疫情｜fade 消退｜gesture 举措｜alter 改变｜accept 接受｜explanation 解释｜advice 建议｜profession 医界｜unconvinced 未被说服的｜demonstrate 证明｜proof 证明｜certainty 确定性
+**§4**（15词）parish 教区｜remove 拆除｜handle 手柄｜outbreak 疫情｜fade 消退｜gesture 举措｜alter 改变｜accept 接受｜conclusion 结论｜advice 建议｜profession 医界｜unconvinced 未被说服的｜demonstrate 证明｜proof 证明｜certainty 确定性
 
 ---
 
 ## 史实核对
 
-已经检索确认，**勿改**：
+以下关键信息已据所列来源核对：
 
 - 616 人死于十日内；9 月 8 日拆除泵柄。
 - 波兰街济贫院 535 名院民，仅 5 例死亡（自有水井）。
@@ -56,3 +56,6 @@ On 8 September the **parish** **removed** the pump **handle**. The **outbreak** 
 - 汉普斯特德寡妇苏珊娜·伊利（Susannah Eley），因偏爱宽街水口味而定期取水，病死。
 - 拆泵柄时疫情本已在消退 —— 这个不体面的细节必须保留，是文章诚实性的关键。
 - 斯诺 1858 年去世，病菌说数十年后才被接受。
+- 来源：[John Snow 1855年《霍乱的传播方式》原著](https://wellcomecollection.org/works/uqa27qrt)
+- 来源：[1855年圣詹姆斯教区霍乱调查报告](https://wellcomecollection.org/works/z8xczc2r)
+- 来源：[伦敦卫生与热带医学院：宽街水泵与1854年疫情](https://www.lshtm.ac.uk/newsevents/news/2019/john-snow-memorial-pump-marking-historic-cholera-outbreak-reinstalled-its)
