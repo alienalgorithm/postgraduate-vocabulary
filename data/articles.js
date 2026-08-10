@@ -1337,32 +1337,32 @@ window.SITE = {
       "standfirst": "合成氨先成为一个能够循环的反应，随后才成为一套能承受自身条件的工业系统。",
       "topic": "Haber–Bosch 合成氨与工业放大",
       "date": "2026-08-10",
-      "status": "第六篇终审稿",
+      "status": "第六篇压缩终稿",
       "metrics": {
-        "words": 292,
+        "words": 265,
         "keywords": 50,
-        "density": 17.1
+        "density": 18.9
       },
       "paras": [
         {
-          "en": "Air is nearly four-fifths **nitrogen**, yet crops can starve for it. Most cannot use N₂ directly. Roots **absorb** it only as usable **compounds**. N₂ is **abundant** but **inert**, its atoms held by a triple **bond**. As **population** rose, **agriculture**’s reliance on manure and finite nitrate deposits raised fears of **fertiliser** **shortage**.",
-          "zh": "空气中近五分之四都是**氮**(nitrogen)，田里的作物却仍可能缺氮。大多数作物不能直接利用N₂；根部只能**吸收**(absorb)已经转化为可利用**化合物**(compounds)的氮。N₂十分**丰富**(abundant)，却很**不活泼**(inert)，两个氮原子被牢固的**三键**(bond)锁住。随着**人口**(population)增长，**农业**(agriculture)对粪肥和有限硝酸盐矿藏的依赖，引发了人们对**氮肥**(fertiliser)**短缺**(shortage)的担忧。"
+          "en": "Air is nearly four-fifths **nitrogen**, yet most crops cannot use N₂ directly; roots **absorb** it only in usable **compounds**. Though **abundant**, N₂ is **inert**, its atoms locked by a triple **bond**. As **population** rose, dependence on manure and finite nitrate deposits left **agriculture** vulnerable to **fertiliser** **shortage**.",
+          "zh": "空气中近五分之四都是**氮**(nitrogen)，但大多数作物不能直接利用N₂；根部只能**吸收**(absorb)以可利用**化合物**(compounds)形式存在的氮。N₂虽十分**丰富**(abundant)，却很**不活泼**(inert)，两个原子被牢固的**三键**(bond)锁住。随着**人口**(population)增长，**农业**(agriculture)对粪肥和有限硝酸盐矿藏的依赖，使**氮肥**(fertiliser)**短缺**(shortage)的风险更加突出。"
         },
         {
-          "en": "In 1909 Fritz Haber and Robert Le Rossignol built a **laboratory** loop. Its **apparatus** compressed **hydrogen** and nitrogen to roughly 200 atmospheres, then sent them over an osmium **catalyst** at 500–600°C, where only a fraction **combined**. High **pressure** favoured **ammonia**; heat sped the reaction but lowered **equilibrium** **yield**. Cooling removed liquid ammonia, while a pump returned unused gas **continuously**.",
-          "zh": "1909年，弗里茨·哈伯和罗伯特·勒罗西尼奥尔搭建了一套**实验室**(laboratory)循环系统。这套**装置**(apparatus)先压缩**氢气**(hydrogen)和氮气，使压力达到约200个大气压，再让它们在500–600°C下流过锇**催化剂**(catalyst)；每次只有部分气体能够**结合**(combined)。较高的**压力**(pressure)有利于生成**氨**(ammonia)；加热虽加快反应，却降低**平衡**(equilibrium)**产率**(yield)。冷却会分离液氨，泵则**连续地**(continuously)送回未反应气体。"
+          "en": "In 1909 Fritz Haber and Robert Le Rossignol built a **laboratory** loop. Its **apparatus** compressed **hydrogen** and nitrogen to about 200 atmospheres, then passed them over an osmium **catalyst** at 500–600°C; only a fraction **combined**. High **pressure** favoured **ammonia**, while heat sped the reaction but reduced **equilibrium** **yield**. Cooling removed ammonia; a pump **continuously** recycled unused gas.",
+          "zh": "1909年，弗里茨·哈伯和罗伯特·勒罗西尼奥尔搭建了一套**实验室**(laboratory)循环系统。这套**装置**(apparatus)先把**氢气**(hydrogen)和氮气压缩到约200个大气压，再让它们在500–600°C下流过锇**催化剂**(catalyst)；每轮只有少部分气体能够**结合**(combined)。较高的**压力**(pressure)有利于生成**氨**(ammonia)，而加热虽加快反应，却降低**平衡**(equilibrium)**产率**(yield)。冷却会分离出液氨，泵则**不断**(continuously)把未反应气体送回系统。"
         },
         {
-          "en": "Chemistry worked; **industrial** scale-up became the **hazardous** **obstacle**. In larger **vessels**, hot hydrogen stripped carbon from **steel**, leaving walls **brittle**; equipment built to **withstand** pressure burst. Carl Bosch’s BASF team built a double tube that vented hydrogen away from the outer shell. Alwin Mittasch’s group replaced scarce osmium with an activated iron catalyst fit for **commercial** ammonia **manufacture**. Plant **capacity** also depended on gas purification and heat recovery.",
-          "zh": "化学反应奏效了；**工业**(industrial)放大却成了一个**危险的**(hazardous)**障碍**(obstacle)。在更大的**容器**(vessels)中，高温氢气会从**钢材**(steel)中夺走碳，使器壁变得**脆弱**(brittle)；本应**承受**(withstand)高压的设备却发生爆裂。卡尔·博施领导的BASF团队设计了双层反应管，使渗入的氢气能够在削弱外层承压壳之前逸出。阿尔温·米塔施团队则用活化铁催化剂取代稀有的锇，使其适合**商业化**(commercial)合成氨**生产**(manufacture)。工厂**产能**(capacity)还取决于气体净化和热量回收。"
+          "en": "Chemistry worked; **industrial** scale-up became **hazardous**. One **obstacle** was metallurgical: hot hydrogen stripped carbon from **steel** **vessels**, making them **brittle** and unable to **withstand** pressure. Carl Bosch’s BASF team built a double tube that vented hydrogen before it weakened the outer shell. Alwin Mittasch’s group replaced scarce osmium with activated iron for **commercial** ammonia **manufacture**. Gas purification and heat recovery also shaped plant **capacity**.",
+          "zh": "化学原理奏效了，**工业**(industrial)放大却变得**危险**(hazardous)。其中一个**障碍**(obstacle)来自冶金材料：高温氢气会从**钢制的**(steel)**容器**(vessels)中夺走碳，使器壁**变脆**(brittle)，无法**承受**(withstand)高压。卡尔·博施领导的BASF团队设计了双层反应管，让渗过内管的氢气在削弱外壳前逸出。阿尔温·米塔施团队则用活化铁取代稀有的锇，使合成氨适合**商业化**(commercial)**生产**(manufacture)。气体净化和热量回收也影响工厂**产能**(capacity)。"
         },
         {
-          "en": "Industrial production began at Oppau in 1913, making ammonia a strategic raw material. Fertiliser increased **harvests**; in the First World War, a **blockade** cut Germany off from Chilean nitrates, but ammonia could yield nitric acid for **explosives** and **ammunition**. Some **civilian** output was **shifted** to **military** supply, carrying the process into **warfare**.",
-          "zh": "1913年，奥保开始工业化生产合成氨，氨由此成为一种战略原料。氮肥提高了**收成**(harvests)；第一次世界大战期间，海上**封锁**(blockade)切断了德国的智利硝酸盐来源，但氨可以制成硝酸，再用于**炸药**(explosives)和**弹药**(ammunition)。部分**民用**(civilian)产出被**转用于**(shifted)**军事**(military)供应，使这套工艺从农田进入了**战争**(warfare)。"
+          "en": "Production began at Oppau in 1913. Fertiliser increased **harvests**; in the First World War, a **blockade** cut Germany off from Chilean nitrates, but oxidising ammonia yielded nitric acid for **explosives** and **ammunition**. Some **civilian** output **shifted** to **military** use; the process entered **warfare**.",
+          "zh": "1913年，奥保开始生产合成氨。氮肥提高了**收成**(harvests)；第一次世界大战期间，海上**封锁**(blockade)切断了德国的智利硝酸盐来源，但将氨氧化便可制得硝酸，再用于**炸药**(explosives)和**弹药**(ammunition)。部分原供**民用**(civilian)的产出**转而用于**(shifted)**军事**(military)目的；这套工艺由此进入了**战争**(warfare)。"
         },
         {
-          "en": "Ammonia remains **indispensable**, but production **consumes** **energy** and depends on hydrogen from **fossil** **fuels**, creating **emissions** before synthesis. Hydrogen made with **renewable** electricity can serve as a **substitute** for fossil-derived hydrogen; higher fertiliser **efficiency** can reduce **excess** nitrogen losses from fields to waterways. The **burden** we **inherit** is to make ammonia without fossil fuels and keep more of its nitrogen in crops.",
-          "zh": "氨至今仍**不可或缺**(indispensable)，但其生产会**消耗**(consumes)**能源**(energy)，并依赖来自**化石**(fossil)**燃料**(fuels)的氢气，在合成开始前就产生**排放**(emissions)。由**可再生的**(renewable)电力制得的氢气，可以成为化石来源氢气的**替代品**(substitute)；提高氮肥使用**效率**(efficiency)，则能减少从农田流入水体的**过量**(excess)氮。接下来，这份**重担**(burden)由我们**承接**(inherit)：不再依赖化石燃料制氨，并让更多氮留在作物中。"
+          "en": "Ammonia remains **indispensable**, but its production **consumes** **energy** and relies on hydrogen from **fossil** **fuels**, causing upstream **emissions**. Hydrogen made with **renewable** electricity can **substitute** for fossil-derived hydrogen; greater fertiliser **efficiency** can curb **excess** nitrogen escaping fields. The **burden** we **inherit** is to make ammonia without fossil fuels while keeping its nitrogen in crops.",
+          "zh": "氨至今仍**不可或缺**(indispensable)，但其生产会**消耗**(consumes)**能源**(energy)，并依赖来自**化石**(fossil)**燃料**(fuels)的氢气，在上游制氢环节造成**排放**(emissions)。由**可再生的**(renewable)电力制得的氢气可以**替代**(substitute)化石来源的氢；提高氮肥使用**效率**(efficiency)，则能减少**过量**(excess)氮从农田流失。这份**重担**(burden)由我们**承接**(inherit)：让制氨摆脱化石燃料，同时让更多氮留在作物中。"
         }
       ],
       "glossary": [
@@ -1482,13 +1482,13 @@ window.SITE = {
           "p": 3
         },
         {
-          "w": "vessel",
-          "zh": "容器",
+          "w": "steel",
+          "zh": "钢、钢材",
           "p": 3
         },
         {
-          "w": "steel",
-          "zh": "钢、钢材",
+          "w": "vessel",
+          "zh": "容器",
           "p": 3
         },
         {
