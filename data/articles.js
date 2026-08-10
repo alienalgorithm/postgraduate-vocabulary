@@ -1333,11 +1333,11 @@ window.SITE = {
       "id": "06",
       "slug": "the-reaction-invented-twice",
       "title": "The Reaction That Had to Be Invented Twice",
-      "titleZh": "被发明两次的反应",
+      "titleZh": "一种不得不发明两次的反应",
       "standfirst": "合成氨先成为一个能够循环的反应，随后才成为一套能承受自身条件的工业系统。",
       "topic": "Haber–Bosch 合成氨与工业放大",
       "date": "2026-08-10",
-      "status": "第六篇压缩终稿",
+      "status": "第六篇最终锁稿",
       "metrics": {
         "words": 265,
         "keywords": 50,
@@ -1345,24 +1345,24 @@ window.SITE = {
       },
       "paras": [
         {
-          "en": "Air is nearly four-fifths **nitrogen**, yet most crops cannot use N₂ directly; roots **absorb** it only in usable **compounds**. Though **abundant**, N₂ is **inert**, its atoms locked by a triple **bond**. As **population** rose, dependence on manure and finite nitrate deposits left **agriculture** vulnerable to **fertiliser** **shortage**.",
-          "zh": "空气中近五分之四都是**氮**(nitrogen)，但大多数作物不能直接利用N₂；根部只能**吸收**(absorb)以可利用**化合物**(compounds)形式存在的氮。N₂虽十分**丰富**(abundant)，却很**不活泼**(inert)，两个原子被牢固的**三键**(bond)锁住。随着**人口**(population)增长，**农业**(agriculture)对粪肥和有限硝酸盐矿藏的依赖，使**氮肥**(fertiliser)**短缺**(shortage)的风险更加突出。"
+          "en": "Air is nearly four-fifths **nitrogen**. Yet most crops cannot use N₂ directly; roots **absorb** it only as usable **compounds**. Though **abundant**, N₂ is **inert**, its atoms locked by a triple **bond**. As **population** rose, reliance on manure and nitrate deposits made **agriculture** vulnerable to **fertiliser** **shortages**.",
+          "zh": "空气中近五分之四都是**氮**(nitrogen)。但大多数作物不能直接利用N₂；根部只能**吸收**(absorb)已经转化为可利用**化合物**(compounds)的氮。N₂虽十分**丰富**(abundant)，却很**不活泼**(inert)，两个氮原子被牢固的**三键**(bond)锁住。随着**人口**(population)增长，**农业**(agriculture)因依赖粪肥和硝酸盐矿藏，更容易遭遇**氮肥**(fertiliser)**短缺**(shortages)。"
         },
         {
-          "en": "In 1909 Fritz Haber and Robert Le Rossignol built a **laboratory** loop. Its **apparatus** compressed **hydrogen** and nitrogen to about 200 atmospheres, then passed them over an osmium **catalyst** at 500–600°C; only a fraction **combined**. High **pressure** favoured **ammonia**, while heat sped the reaction but reduced **equilibrium** **yield**. Cooling removed ammonia; a pump **continuously** recycled unused gas.",
-          "zh": "1909年，弗里茨·哈伯和罗伯特·勒罗西尼奥尔搭建了一套**实验室**(laboratory)循环系统。这套**装置**(apparatus)先把**氢气**(hydrogen)和氮气压缩到约200个大气压，再让它们在500–600°C下流过锇**催化剂**(catalyst)；每轮只有少部分气体能够**结合**(combined)。较高的**压力**(pressure)有利于生成**氨**(ammonia)，而加热虽加快反应，却降低**平衡**(equilibrium)**产率**(yield)。冷却会分离出液氨，泵则**不断**(continuously)把未反应气体送回系统。"
+          "en": "In 1909 Fritz Haber and Robert Le Rossignol built a **laboratory**-scale loop. Their **apparatus** circulated **hydrogen** and nitrogen over an osmium **catalyst** at about 200 atmospheres and 500–600°C; only a fraction **combined**. High **pressure** favoured **ammonia** formation, while heat sped the reaction but reduced **equilibrium** **yield**. Cooling condensed ammonia; a pump **continuously** recycled unreacted gas.",
+          "zh": "1909年，弗里茨·哈伯和罗伯特·勒罗西尼奥尔搭建了一套**实验室规模的**(laboratory)循环系统。这套**装置**(apparatus)让**氢气**(hydrogen)和氮气在约200个大气压、500–600°C下循环流过锇**催化剂**(catalyst)；每轮只有少部分氢气和氮气能够**结合成氨**(combined)。较高的**压力**(pressure)有利于**氨**(ammonia)的生成，而加热虽加快反应，却降低**平衡**(equilibrium)**产率**(yield)。冷却使氨冷凝并从气流中分离出来，泵则**不断**(continuously)把未反应气体送回系统。"
         },
         {
-          "en": "Chemistry worked; **industrial** scale-up became **hazardous**. One **obstacle** was metallurgical: hot hydrogen stripped carbon from **steel** **vessels**, making them **brittle** and unable to **withstand** pressure. Carl Bosch’s BASF team built a double tube that vented hydrogen before it weakened the outer shell. Alwin Mittasch’s group replaced scarce osmium with activated iron for **commercial** ammonia **manufacture**. Gas purification and heat recovery also shaped plant **capacity**.",
-          "zh": "化学原理奏效了，**工业**(industrial)放大却变得**危险**(hazardous)。其中一个**障碍**(obstacle)来自冶金材料：高温氢气会从**钢制的**(steel)**容器**(vessels)中夺走碳，使器壁**变脆**(brittle)，无法**承受**(withstand)高压。卡尔·博施领导的BASF团队设计了双层反应管，让渗过内管的氢气在削弱外壳前逸出。阿尔温·米塔施团队则用活化铁取代稀有的锇，使合成氨适合**商业化**(commercial)**生产**(manufacture)。气体净化和热量回收也影响工厂**产能**(capacity)。"
+          "en": "At **industrial** scale, one **obstacle** had **hazardous** consequences: hot hydrogen penetrated **steel** **vessels** and reacted with their carbon, forming fissures that left them **brittle** and unable to **withstand** pressure. Bosch’s BASF team built a double-walled tube that vented hydrogen before it could weaken the pressure-bearing outer shell. Alwin Mittasch’s group replaced scarce osmium with activated iron, enabling **commercial** ammonia **manufacture**. Gas purification and heat recovery helped raise plant **capacity**.",
+          "zh": "到了**工业**(industrial)规模，一个**障碍**(obstacle)便带来了**危险的后果**(hazardous)：高温氢气渗入**钢制的**(steel)**容器**(vessels)，与其中的碳反应并形成裂纹，使器壁**变脆**(brittle)，无法**承受**(withstand)高压。博施领导的BASF团队设计了双层反应管，让渗过内管的氢气先行逸出，避免它侵入并削弱外层承压壳。阿尔温·米塔施团队则用活化铁取代稀有的锇，使合成氨得以**商业化**(commercial)**生产**(manufacture)。气体净化和热量回收也帮助提高了工厂**产能**(capacity)。"
         },
         {
-          "en": "Production began at Oppau in 1913. Fertiliser increased **harvests**; in the First World War, a **blockade** cut Germany off from Chilean nitrates, but oxidising ammonia yielded nitric acid for **explosives** and **ammunition**. Some **civilian** output **shifted** to **military** use; the process entered **warfare**.",
-          "zh": "1913年，奥保开始生产合成氨。氮肥提高了**收成**(harvests)；第一次世界大战期间，海上**封锁**(blockade)切断了德国的智利硝酸盐来源，但将氨氧化便可制得硝酸，再用于**炸药**(explosives)和**弹药**(ammunition)。部分原供**民用**(civilian)的产出**转而用于**(shifted)**军事**(military)目的；这套工艺由此进入了**战争**(warfare)。"
+          "en": "Production began at Oppau in 1913. Fertiliser increased **harvests**; in the First World War, a **blockade** severed Germany’s Chilean nitrate supply. Oxidising ammonia yielded nitric acid to make **explosives** and **ammunition**. Some **civilian** output **shifted** to **military** use, drawing synthetic nitrogen into **warfare**.",
+          "zh": "1913年，奥保开始生产合成氨。氮肥提高了**收成**(harvests)；第一次世界大战期间，海上**封锁**(blockade)切断了德国的智利硝酸盐来源。将氨氧化可以制得硝酸，用于制造**炸药**(explosives)和**弹药**(ammunition)。部分原供**民用**(civilian)的合成氨**转而用于**(shifted)**军事生产**(military)，合成氮由此被卷入**战争**(warfare)。"
         },
         {
-          "en": "Ammonia remains **indispensable**, but its production **consumes** **energy** and relies on hydrogen from **fossil** **fuels**, causing upstream **emissions**. Hydrogen made with **renewable** electricity can **substitute** for fossil-derived hydrogen; greater fertiliser **efficiency** can curb **excess** nitrogen escaping fields. The **burden** we **inherit** is to make ammonia without fossil fuels while keeping its nitrogen in crops.",
-          "zh": "氨至今仍**不可或缺**(indispensable)，但其生产会**消耗**(consumes)**能源**(energy)，并依赖来自**化石**(fossil)**燃料**(fuels)的氢气，在上游制氢环节造成**排放**(emissions)。由**可再生的**(renewable)电力制得的氢气可以**替代**(substitute)化石来源的氢；提高氮肥使用**效率**(efficiency)，则能减少**过量**(excess)氮从农田流失。这份**重担**(burden)由我们**承接**(inherit)：让制氨摆脱化石燃料，同时让更多氮留在作物中。"
+          "en": "Ammonia remains **indispensable**, but its production **consumes** **energy** and relies on hydrogen from **fossil** **fuels**, causing upstream **emissions**. Hydrogen made with **renewable** electricity can **substitute** for fossil-derived hydrogen; greater fertiliser-use **efficiency** can curb **excess** nitrogen losses. The **burden** we **inherit** lies beyond the reactor: how hydrogen is made and nitrogen is used.",
+          "zh": "氨至今仍**不可或缺**(indispensable)，但其生产会**消耗**(consumes)**能源**(energy)，并依赖来自**化石**(fossil)**燃料**(fuels)的氢气，在上游制氢环节造成**排放**(emissions)。由**可再生**(renewable)电力制得的氢气可以**替代**(substitute)化石来源的氢；提高氮肥使用**效率**(efficiency)，则能减少**过量**(excess)氮的流失。如今，反应器之外仍有一份**重担**(burden)要由我们**接过**(inherit)：如何制取氢，如何使用氮。"
         }
       ],
       "glossary": [
@@ -1472,13 +1472,13 @@ window.SITE = {
           "p": 3
         },
         {
-          "w": "hazardous",
-          "zh": "危险的",
+          "w": "obstacle",
+          "zh": "障碍",
           "p": 3
         },
         {
-          "w": "obstacle",
-          "zh": "障碍",
+          "w": "hazardous",
+          "zh": "危险的",
           "p": 3
         },
         {
@@ -1622,7 +1622,7 @@ window.SITE = {
         "核心反应是N₂ + 3H₂ ⇌ 2NH₃。加压使平衡偏向气体分子数较少的氨一侧；较低温度有利于平衡产率，较高温度则提供实用反应速率。催化剂提高反应速率，但不改变平衡位置。",
         "1909年的实验室成果应同时归于Fritz Haber与Robert Le Rossignol。Le Rossignol设计了关键的连续循环装置、泵和冷却捕集方案：氨被冷凝移出，未反应气体返回催化床，因此循环提高的是总转化率，而非一次通过的平衡产率。",
         "1909年演示装置使用约3:1的氢氮混合气，在约180–200个大气压、500–600°C及锇催化剂条件下运行。正文采用约数，没有把后来工业铁基催化剂倒灌进Haber与Le Rossignol的实验装置。",
-        "工业放大由Carl Bosch领导的BASF跨学科团队完成。高温高压氢进入含碳钢后会引起脱碳与氢侵蚀，使承压结构失强；双层反应管让穿过内衬的氢逸出，从而保护外层承压壳。",
+        "工业放大由Carl Bosch领导的BASF跨学科团队完成。高温高压氢渗入钢材后会与其中的碳形成甲烷，引发脱碳、孔洞和裂纹，最终使承压结构失强；双层反应管让穿过内衬的氢逸出，从而保护外层承压壳。",
         "Alwin Mittasch领导实用催化剂的系统筛选，以廉价、稳定的活化铁催化体系替代Haber实验中的稀有锇、铀方案。相关实验次数在不同资料中口径不一，因此正文只陈述结果，没有写死筛选次数。",
         "世界第一座工业合成氨厂于1913年9月9日在Oppau投产。不同资料所列初始、设计或后期产能口径并不一致，正文没有选取其中任何一个数字。",
         "合成氨最初扩大了氮肥供应，也可被氧化为硝酸，再制成用于弹药的硝酸盐。正文没有把氨本身写成炸药，也没有把1913年投产与1921年奥保肥料仓爆炸混为一事。",
