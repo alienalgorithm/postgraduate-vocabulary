@@ -7,6 +7,21 @@
 
 ---
 
+## 当前定稿
+
+六篇共使用 300 个重点词；英文加粗词、中文括注与速查表逐项对应，重点词在字面、词元和透明现代词族层面均不重复。
+
+| 编号 | 文章 | 题材 | 指标 | 阅读 |
+|---|---|---|---|---|
+| 01 | *Snow and the Broad Street Pump* | 1854 年伦敦霍乱 | 252 词 · 50 重点词 · 19.8% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=snow-cholera) · [Markdown](articles/01-snow-cholera.md) |
+| 02 | *A Garden Without Sunlight* | 1977 年加拉帕戈斯热液喷口 | 259 词 · 50 重点词 · 19.3% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-garden-without-sunlight) · [Markdown](articles/02-a-garden-without-sunlight.md) |
+| 03 | *The Graph That Changed the Sky* | 1985 年南极臭氧洞 | 255 词 · 50 重点词 · 19.6% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-graph-that-changed-the-sky) · [Markdown](articles/03-the-graph-that-changed-the-sky.md) |
+| 04 | *Fifteen Degrees an Hour* | 约翰·哈里森与海上经度 | 295 词 · 50 重点词 · 16.9% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=fifteen-degrees-an-hour) · [Markdown](articles/04-fifteen-degrees-an-hour.md) |
+| 05 | *The Price Was Elsewhere* | UPC 条形码与零售信息基础设施 | 270 词 · 50 重点词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-price-was-elsewhere) · [Markdown](articles/05-the-price-was-elsewhere.md) |
+| 06 | *The Reaction That Had to Be Invented Twice* | Haber–Bosch 合成氨与工业放大 | 265 词 · 50 重点词 · 18.9% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-reaction-invented-twice) · [Markdown](articles/06-the-reaction-invented-twice.md) |
+
+---
+
 ## 网站有什么
 
 | 页面 | 作用 |
