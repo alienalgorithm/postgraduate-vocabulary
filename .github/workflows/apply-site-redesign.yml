@@ -1,11 +1,11 @@
-name: Apply site redesign payload
+name: Apply verified site redesign
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
     paths:
-      - ".site-redesign-payload/**"
-      - ".github/workflows/apply-site-redesign.yml"
+      - .github/workflows/apply-site-redesign.yml
 
 permissions:
   contents: write
@@ -14,11 +14,18 @@ jobs:
   apply:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Lock canonical article data
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "9fb67838acb9d9f99c95f2de5147e9720f3e1233d05ee90a1863f7b981fb7c08  data/articles.js" | sha256sum -c -
 
       - name: Decode, verify and unpack redesign
         shell: bash
@@ -27,7 +34,18 @@ jobs:
           cat .site-redesign-payload/chunk-* | base64 --decode > /tmp/site-redesign.tar.gz
           echo "d3921654ce6fa4b76d5c3031548a82e563d70cf7f342057d26a1f0c26c0b1cb5  /tmp/site-redesign.tar.gz" | sha256sum -c -
           tar -xzf /tmp/site-redesign.tar.gz -C .
-          rm -rf .site-redesign-payload
+
+      - name: Validate rebuilt website
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "9fb67838acb9d9f99c95f2de5147e9720f3e1233d05ee90a1863f7b981fb7c08  data/articles.js" | sha256sum -c -
+          python3 scripts/build_markdown.py
+          node --check assets/site.js
+          grep -q "词汇留下来" index.html
+          grep -q "data-reader-view" article.html
+          grep -q "wordSearch" words.html
+          grep -q "七篇最终定稿" notes/网站彻底重构记录_2026-08-10.md
 
       - name: Commit rebuilt website
         shell: bash
@@ -35,6 +53,8 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf .site-redesign-payload
+          rm -f .github/workflows/apply-site-redesign.yml
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to commit."
