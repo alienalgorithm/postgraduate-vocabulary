@@ -1,6 +1,6 @@
 # 记词 · 考研词汇双语读本
 
-用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和400词索引。
+用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和550词索引。
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
@@ -8,7 +8,7 @@
 
 ## 当前最终定稿
 
-截至2026-08-10，共有 **8篇文章、400个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-11，共有 **11篇文章、550个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -19,21 +19,24 @@
 | 05 | *The Price Was Elsewhere* | UPC条形码与零售信息基础设施 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-price-was-elsewhere) · [Markdown](articles/05-the-price-was-elsewhere.md) |
 | 06 | *The Reaction That Had to Be Invented Twice* | Haber–Bosch合成氨与工业放大 | 265词 · 50词 · 18.9% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-reaction-invented-twice) · [Markdown](articles/06-the-reaction-invented-twice.md) |
 | 07 | *The Meaning He Left Out* | 1948年香农与信息论 | 273词 · 50词 · 18.3% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-meaning-he-left-out) · [Markdown](articles/07-the-meaning-he-left-out.md) |
-| **08** | ***A Ruler Without a Zero*** | **1908—1912年莱维特与造父变星周光关系** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-ruler-without-a-zero) · [Markdown](articles/08-a-ruler-without-a-zero.md) |
+| 08 | *A Ruler Without a Zero* | 1908—1912年莱维特与造父变星周光关系 | 269词 · 50词 · 18.6% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-ruler-without-a-zero) · [Markdown](articles/08-a-ruler-without-a-zero.md) |
+| **09** | ***Zero Was Not Enough*** | **1967—1980年全球天花根除、监测与环形接种** | **265词 · 50词 · 18.9%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=zero-was-not-enough) · [Markdown](articles/09-zero-was-not-enough.md) |
+| **10** | ***A Name Inside an Oval*** | **1799—1824年罗塞塔石碑与埃及圣书体破译** | **265词 · 50词 · 18.9%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-name-inside-an-oval) · [Markdown](articles/10-a-name-inside-an-oval.md) |
+| **11** | ***The Needle Moved Twice*** | **1831年法拉第与电磁感应** | **255词 · 50词 · 19.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-needle-moved-twice) · [Markdown](articles/11-the-needle-moved-twice.md) |
 
-第8篇以作者提供的《A Ruler Without a Zero》最终精校稿为准：莱维特把小麦哲伦云样本的距离视为近似恒定，从而分离出周期与相对光度之间的关系；文章明确区分“发现相对关系”与后来补上绝对零点的校准工作。
+第9—11篇均以作者在2026-08-10至11日提供的最终精校稿为准：天花篇区分“病例归零”与持续搜寻、认证所形成的根除证据；罗塞塔石碑篇区分两种语言、三种文字及扬—商博良的累积贡献；法拉第篇把“接通—稳态归零—断开反向偏转”作为电磁感应的核心实验结构。
 
 ---
 
-## 网站已完成的重构
+## 网站已完成的同步
 
-2026-08-10，网站界面和交互重新编写，主分支中的实际页面文件已经替换，不再只保留“重构计划”。
+网站当前实际加载第01—11篇，并自动计算11篇、550个重点词和1995个尚未使用词元。
 
 ### 首页
 
 - 自动统计文章数、重点词数、平均篇幅与剩余词量
-- 第8篇作为最新定稿专题展示
-- 八篇文章卡片全部由数据层自动生成
+- 第11篇作为最新定稿专题展示
+- 十一篇文章卡片全部由数据层自动生成
 - 深浅主题、响应式排版和无障碍焦点状态
 
 ### 文章阅读器
@@ -47,7 +50,7 @@
 - 史实核对与来源分层展示
 - 上一篇／下一篇导航
 
-### 400词词库
+### 550词词库
 
 - 中英文实时搜索
 - 按文章筛选
@@ -58,14 +61,17 @@
 
 ## 数据层与生成方式
 
-当前权威数据层由两部分组成：
+当前权威数据层按以下顺序加载：
 
 ```text
 data/articles.js      # 第01—07篇
 data/article-08.js    # 第08篇
+data/article-09.js    # 第09篇
+data/article-10.js    # 第10篇
+data/article-11.js    # 第11篇
 ```
 
-两者按顺序加载后共同构成 `window.SITE.ARTICLES`。网站三个页面与Markdown生成脚本都加载同一数据层，因此不会出现“网页一版、Markdown另一版”。
+它们共同构成 `window.SITE.ARTICLES`。网站三个页面与Markdown生成脚本都加载同一数据层，因此不会出现“网页一版、Markdown另一版”。
 
 生成与校验：
 
@@ -87,7 +93,7 @@ python3 scripts/build_markdown.py
 ```text
 ├── index.html                 首页
 ├── article.html               双语阅读器
-├── words.html                 400词索引
+├── words.html                 550词索引
 ├── 404.html
 ├── manifest.webmanifest
 ├── robots.txt
@@ -99,9 +105,12 @@ python3 scripts/build_markdown.py
 │   └── share-card.svg
 ├── data/
 │   ├── articles.js            第01—07篇
-│   └── article-08.js          第08篇
+│   ├── article-08.js          第08篇
+│   ├── article-09.js          第09篇
+│   ├── article-10.js          第10篇
+│   └── article-11.js          第11篇
 ├── articles/
-│   └── 01—08 Markdown定稿
+│   └── 01—11 Markdown定稿
 ├── scripts/
 │   └── build_markdown.py
 ├── tools/
@@ -113,7 +122,8 @@ python3 scripts/build_markdown.py
     ├── 写作规范.md
     ├── 缺陷库.md
     ├── 最终定稿校正记录_2026-08-10.md
-    └── 第八篇入库与网站重构记录_2026-08-10.md
+    ├── 第八篇入库与网站重构记录_2026-08-10.md
+    └── 第九至第十一篇入库记录_2026-08-11.md
 ```
 
 ---

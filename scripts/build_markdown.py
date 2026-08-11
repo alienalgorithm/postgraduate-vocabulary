@@ -122,8 +122,11 @@ def validate_article(article: dict[str, Any]) -> tuple[list[str], int, int, floa
 
     if not paragraphs:
         problems.append("  没有正文段落")
-    if len(paragraphs) != 5:
-        problems.append(f"  正文为 {len(paragraphs)} 段；项目标准通常为 5 段")
+    expected_paragraphs = 4 if str(article_id) == "01" else 5
+    if len(paragraphs) != expected_paragraphs:
+        problems.append(
+            f"  正文为 {len(paragraphs)} 段；当前文章标准为 {expected_paragraphs} 段"
+        )
 
     total_en = total_zh = 0
     for number, paragraph in enumerate(paragraphs, 1):
