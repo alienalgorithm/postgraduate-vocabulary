@@ -1,0 +1,49 @@
+name: Fix article 08 canonical data typo
+
+on:
+  push:
+    branches:
+      - articles-09-11-full-ingest
+    paths:
+      - .github/workflows/fix-article-08-data.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Restore canonical wording and validate archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('data/article-08.js')
+          text = path.read_text(encoding='utf-8')
+          if '穵竟' not in text:
+              raise SystemExit('未找到第8篇待修正字符')
+          path.write_text(text.replace('穵竟', '究竟', 1), encoding='utf-8')
+          PY
+          python3 scripts/build_markdown.py | tee /tmp/report.txt
+          grep -q "11 篇已生成 · 550 个重点词 · 全部通过" /tmp/report.txt
+          grep -q "它究竟本就发光微弱" data/article-08.js
+          grep -q "它究竟本就发光微弱" articles/08-a-ruler-without-a-zero.md
+
+      - name: Commit canonical data correction
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/fix-article-08-data.yml
+          git add -A
+          git commit -m "修正第八篇数据源错字并保持11篇同步"
+          git push origin HEAD:articles-09-11-full-ingest
