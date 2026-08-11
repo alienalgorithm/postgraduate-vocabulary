@@ -20,7 +20,7 @@
   "paras": [
     {
       "en": "In **astronomy**, a dim star is ambiguous: does it emit little light, or merely lie far away? At Harvard College Observatory, Henrietta Leavitt joined a **staff** of **female** “computers” **employed** to **inspect** photographic **plates**. Their **tedious** **task** was to compare **images** of the same field over time and **catalogue** variable stars.",
-      "zh": "在**天文学**(astronomy)中，一颗看似暗淡的恒星会带来一个难题：它穵竟本就发光微弱，还是只因距离遥远？在哈佛大学天文台，亨丽埃塔·莱维特加入了一个由**女性**(female)“计算员”组成的**工作团队**(staff)。她们**受雇**(employed)逐张**检视**(inspect)摄影**底片**(plates)。她们承担的是一项**单调费力的**(tedious)**任务**(task)：比较同一天区在不同日期的**图像**(images)，再把亮度发生变化的恒星**编入目录**(catalogue)。"
+      "zh": "在**天文学**(astronomy)中，一颗看似暗淡的恒星会带来一个难题：它究竟本就发光微弱，还是只因距离遥远？在哈佛大学天文台，亨丽埃塔·莱维特加入了一个由**女性**(female)“计算员”组成的**工作团队**(staff)。她们**受雇**(employed)逐张**检视**(inspect)摄影**底片**(plates)。她们承担的是一项**单调费力的**(tedious)**任务**(task)：比较同一天区在不同日期的**图像**(images)，再把亮度发生变化的恒星**编入目录**(catalogue)。"
     },
     {
       "en": "A 1908 table listed 16 variables, each brightening and dimming with a **regular** **rhythm**. Leavitt **noticed** that brighter ones had longer cycles. The Small Magellanic Cloud, her **region** of study, offered an **advantage**: its **faint** variables could be treated as sharing a common **distance**. Under that **assumption**, their **relative** brightness reflected differences in **intrinsic** luminosity.",
