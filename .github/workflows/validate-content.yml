@@ -17,14 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Validate all article data and generated Markdown
         shell: bash
         run: |
           set -euo pipefail
           python3 scripts/build_markdown.py | tee /tmp/build-report.txt
-          grep -q "15 篇已生成 · 750 个重点词 · 全部通过" /tmp/build-report.txt
+          grep -q "16 篇已生成 · 800 个重点词 · 全部通过" /tmp/build-report.txt
 
       - name: Check JavaScript syntax
         shell: bash
@@ -39,14 +39,37 @@ jobs:
         run: |
           set -euo pipefail
           for page in index.html article.html words.html; do
-            grep -q 'data/article-12.js' "$page"
-            grep -q 'data/article-13.js' "$page"
-            grep -q 'data/article-14.js' "$page"
-            grep -q 'data/article-15.js' "$page"
+            grep -q 'data/article-16.js' "$page"
           done
-          grep -q '十五篇《经济学人》风格双语科普短文' index.html
-          grep -q '750词词库' words.html
-          grep -q 'when-a-broken-pipe-applied-the-brakes' index.html
-          grep -q 'when-a-broken-pipe-applied-the-brakes' sitemap.xml
-          grep -q '共有 \*\*15篇文章、750个重点词\*\*' README.md
-          grep -q '当前权威状态：\*\*十五篇最终定稿，750个重点词' notes/对话交接文档.md
+          grep -q '十六篇《经济学人》风格双语科普短文' index.html
+          grep -q '800词词库' words.html
+          grep -q 'the-wave-that-should-not-have-arrived' index.html
+          grep -q 'the-wave-that-should-not-have-arrived' sitemap.xml
+          grep -q '共有 \*\*16篇文章、800个重点词\*\*' README.md
+          grep -q '当前权威状态：\*\*十六篇最终定稿，800个重点词' notes/对话交接文档.md
+
+      - name: Check article 16 final metrics and preferred length
+        shell: bash
+        run: |
+          set -euo pipefail
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          globalThis.window = globalThis;
+          require(path.resolve('data/articles.js'));
+          for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) {
+            require(path.resolve('data', file));
+          }
+          const article = globalThis.SITE.ARTICLES.find(item => item.id === '16');
+          if (!article) throw new Error('article 16 missing');
+          if (article.metrics.words !== 264 || article.metrics.keywords !== 50 || article.metrics.density !== 18.9) {
+            throw new Error('article 16 final metrics mismatch');
+          }
+          if (article.metrics.words < 240 || article.metrics.words > 270) {
+            throw new Error('article 16 word count outside preferred 240-270 range');
+          }
+          if (article.paras.length !== 5 || article.glossary.length !== 50) {
+            throw new Error('article 16 structure mismatch');
+          }
+          console.log('article 16 final metrics, preferred range and structure verified');
+          NODE
