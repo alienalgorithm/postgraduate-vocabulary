@@ -37,6 +37,6 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/article-17.js articles/17-the-few-that-came-back.md README.md notes/对话交接文档.md notes/第十七篇入库记录_2026-08-12.md .github/workflows/validate-content.yml
+          git add data/article-17.js articles/17-the-few-that-came-back.md README.md notes/对话交接文档.md notes/第十七篇入库记录_2026-08-12.md
           git commit -m "refine: promote article 17 to the 268-word cloud final"
           git push origin HEAD:article-17-268-cloud
