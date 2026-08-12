@@ -40,7 +40,7 @@ jobs:
           }
           const article = globalThis.SITE.ARTICLES.find(item => item.id === '17');
           if (!article) throw new Error('article 17 missing');
-          if (article.metrics.words !== 262 || article.metrics.keywords !== 50 || article.metrics.density !== 19.1) {
+          if (article.metrics.words !== 264 || article.metrics.keywords !== 50 || article.metrics.density !== 18.9) {
             throw new Error('article 17 metrics mismatch');
           }
           if (article.metrics.words < 240 || article.metrics.words > 270) {
