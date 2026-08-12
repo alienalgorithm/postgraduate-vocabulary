@@ -29,6 +29,7 @@ jobs:
           path = Path('tmp/integrate-article-18.py')
           text = path.read_text(encoding='utf-8')
           text = text.replace('本次复核保持不变.\',', '本次复核保持不变。\',')
+          text = text.replace("readme = readme.replace('850词索引', '900词索引')", "readme = replace_once(readme, '打印和850词索引。', '打印和900词索引。', 'README intro index')")
           path.write_text(text, encoding='utf-8')
           PY
           python3 -m py_compile tmp/integrate-article-18.py
