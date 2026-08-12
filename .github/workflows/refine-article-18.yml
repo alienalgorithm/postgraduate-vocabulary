@@ -1,0 +1,71 @@
+name: Refine article 18 to final draft
+
+on:
+  push:
+    branches:
+      - article-18-development
+    paths:
+      - .github/workflows/refine-article-18.yml
+
+permissions:
+  contents: write
+
+jobs:
+  refine:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out article 18 branch
+        uses: actions/checkout@v6
+        with:
+          ref: article-18-development
+          fetch-depth: 0
+
+      - name: Apply the final line edit
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path('data/article-18.js')
+          text = path.read_text(encoding='utf-8')
+          replacements = [
+              ('"titleZh": "天空始终无法安静"', '"titleZh": "天空始终不肯安静"'),
+              ('"standfirst": "一座为卫星通信而建的号角天线排除了设备、地面、季节甚至鸽子；当本地嫌疑逐一消失，天空仍在嘶响。"', '"standfirst": "借助一座为卫星通信而建的号角天线，两名研究者逐一排除仪器、地面、季节甚至鸽子；本地嫌疑全都消失后，天空仍在嘶响。"'),
+              ('"words": 264', '"words": 269'),
+              ('"density": 18.9', '"density": 18.6'),
+              ('其强度**相当于**(equivalent)比预期高出3.5开尔文。', '对应的天线温度**相当于**(equivalent)比预期高出3.5开尔文。'),
+              ('Nearby, Princeton **cosmologists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a hot, **primordial** universe. Contact turned **coincidence** into **collaboration**. In July 1965, **companion** papers separated the roles: Bell Labs supplied the experimental **account**; Princeton the **interpretation**. Penzias and Wilson called it a **provisional** explanation.', 'Nearby, Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a hot, **primordial** universe. Contact turned **coincidence** into **collaboration**. In July 1965, **companion** papers separated the roles: Bell Labs supplied the experimental **account**; Princeton the **interpretation**. Their paper presented it only as a **provisional** explanation.'),
+              ('不远处，普林斯顿的**宇宙学家**(cosmologists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台**辐射计**(radiometer)，寻找炽热**原初的**(primordial)宇宙留下的**遗存**(relic)热辐射。双方取得联系，使地理上的**巧合**(coincidence)变成科学**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记录**(account)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊只把它称为一种**暂定的**(provisional)解释。', '不远处，普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台**辐射计**(radiometer)，寻找来自炽热**原初宇宙的**(primordial)**遗存热辐射**(relic)。双方取得联系，使地理上的**巧合**(coincidence)变成科学**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记录**(account)，普林斯顿给出**解释**(interpretation)。他们的论文只把它写成一种**暂定的**(provisional)解释。'),
+              ('One **wavelength** could not establish a black-body spectrum. Shorter-wave measurements soon **corroborated** the **cosmic** **background** **radiation**. Decades later, COBE measured its near-perfect **thermal** **profile** at 2.725 K and mapped **fluctuations**, or **anisotropies**, of roughly one part in 100,000. The uniform glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.', 'One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the signal as **cosmic** **background** **radiation**. Decades later, COBE found a near-perfect 2.725 K black-body **profile** and mapped **fluctuations**, or **anisotropies**, of roughly one part in 100,000. The uniform **thermal** glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.'),
+              ('一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)同一片**宇宙**(cosmic)**背景**(background)**辐射**(radiation)。几十年后，COBE测得它近乎完美的**热辐射**(thermal)**谱形**(profile)，温度约为2.725 K；又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。均匀余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。', '一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)这股信号确是**宇宙**(cosmic)**背景**(background)**辐射**(radiation)。几十年后，COBE发现它在2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。'),
+              ('工程上的精湛**工艺**(craftsmanship)', '精湛的工程**技艺**(craftsmanship)'),
+              ('"w": "cosmologist"', '"w": "physicist"'),
+              ('"zh": "宇宙学家"', '"zh": "物理学家"'),
+          ]
+          for old, new in replacements:
+              count = text.count(old)
+              if count != 1:
+                  raise SystemExit(f'expected one match, found {count}: {old[:90]}')
+              text = text.replace(old, new, 1)
+          path.write_text(text, encoding='utf-8')
+          PY
+          node --check data/article-18.js
+
+      - name: Regenerate and validate the archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/build_markdown.py | tee /tmp/article-18-final.txt
+          grep -q "articles/18-the-sky-would-not-go-quiet.md  269 词 · 50 重点词 · 18.6%" /tmp/article-18-final.txt
+          grep -q "18 篇已生成 · 900 个重点词 · 全部通过" /tmp/article-18-final.txt
+
+      - name: Commit the final draft
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/article-18.js articles/18-the-sky-would-not-go-quiet.md
+          git commit -m "refine: lock article 18 at 269 words"
+          git push origin HEAD:article-18-development
