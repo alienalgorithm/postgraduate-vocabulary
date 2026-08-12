@@ -1,23 +1,23 @@
 # 16 · The Wave That Should Not Have Arrived
 
 > 题材：1929—1952 年英格·莱曼、P波阴影区与地球内核
-> 状态：**第十六篇最终精校稿**（2026-08-12）
-> 指标：264 词 / 50 重点词 / 密度 18.9%
+> 状态：**第十六篇最终精进锁定稿**（2026-08-12）
+> 指标：263 词 / 50 重点词 / 密度 19.0%
 > 几束微弱P波出现在旧模型规定的空白处；莱曼没有把它们当作噪声，而是借此推断地球深处还藏着一个内核。
 
 ---
 
 ## 英文正文
 
-On 17 June 1929, an **earthquake** near Murchison, New Zealand, sent **seismic** waves through the planet. In Copenhagen, Danish **mathematician** and seismologist Inge Lehmann read traces from **seismographs**. Each **vibration** was an indirect **probe** of Earth's **interior**. Yet **worldwide** records carried a faint **mark** whose origin was **obscure**.
+A 17 June 1929 **earthquake** near Murchison, New Zealand, sent **seismic** waves through Earth. In Copenhagen, Danish **mathematician** and seismologist Inge Lehmann read traces drawn by **seismographs**. Each **vibration** was an indirect **probe** of Earth's **interior**. Yet **worldwide** records carried a faint **mark** whose origin was **obscure**.
 
-The accepted model placed a rocky mantle around one fluid core. P waves **compress** **matter** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. At the boundary, P waves **refract**; the new **angle** leaves a **shadow** 104°–140° from the source, where direct P waves should not arrive.
+The accepted model placed a rocky mantle around a fluid core. P waves **compress** **matter** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P waves **refract** at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where direct P waves should not arrive.
 
-Yet faint P′ **arrivals** did. Some researchers **attributed** them to **diffraction** around the core. Lehmann **examined** Murchison and other records. Though **scattered**, their travel times matched a **path** refracted by a faster **central** **sphere**. In 1936 she proposed an inner core in which greater **velocity** would **redirect** energy into the shadow.
+Yet faint P′ **arrivals** appeared there. Some **attributed** them to **diffraction** around the core. Lehmann **examined** Murchison and other earthquake records. Though **scattered**, their travel times matched a **path** through a faster **central** **sphere**. In 1936 she proposed an inner core where higher **velocity** could **redirect** energy into the shadow.
 
-Her paper, titled “P′”, was **cautious**: an inner core was a **possibility**, its state **uncertain**. Later **scrutiny** and **numerical** work made diffraction untenable. Models then treated the inner core as **rigid**; in 1952 Francis Birch called **crystalline** iron the simplest explanation. Its **radius** is about 1,220 kilometres, its **diameter** smaller than the Moon's; liquid metal **encloses** it.
+In “P′”, Lehmann was **cautious**: an inner core was a **possibility**, its state **uncertain**. Later **scrutiny** and **numerical** work ruled out the diffraction explanation. Models treated the inner core as **rigid**; in 1952 Francis Birch called **crystalline** iron the simplest explanation. Its 1,220-kilometre **radius** gives it a **diameter** smaller than the Moon's; liquid metal **encloses** it.
 
-Lehmann made a **discrepancy** obey a new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** became **persuasive** because it predicted where such signals should appear. In science, **absence** belongs to a model. Change the model, and apparent noise can become the **schedule** of an **invisible** **structure**.
+Lehmann made a **discrepancy** obey a new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** became **persuasive** because it predicted where the signals should appear. An expected **absence** is itself a prediction. A wave arriving off **schedule** need not be noise: it can reveal an **invisible** **structure**.
 
 ---
 
@@ -26,15 +26,15 @@ Lehmann made a **discrepancy** obey a new **geometry**. Her model gave each arri
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1929年6月17日，新西兰默奇森附近发生一场**地震**(earthquake)，产生的**地震波**(seismic)穿过地球，传向全球。在哥本哈根，丹麦**数学家**(mathematician)兼地震学家英格·莱曼研读各台**地震仪**(seismographs)留下的曲线。每一次地面**振动**(vibration)，都像一枚间接**探针**(probe)，让人们得以探查地球**内部**(interior)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**痕迹**(mark)，来源仍然**晦暗不明**(obscure)。
+1929年6月17日，新西兰默奇森附近的一场**地震**(earthquake)让**地震波**(seismic)穿过地球。在哥本哈根，丹麦**数学家**(mathematician)兼地震学家英格·莱曼研读各台**地震仪**(seismographs)绘出的曲线。每一次地面**振动**(vibration)，都是探查地球**内部**(interior)的一枚间接**探针**(probe)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**痕迹**(mark)，来由仍**晦暗不明**(obscure)。
 
-当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)**物质**(matter)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P波在地核边界发生**折射**(refract)；新的传播**角度**(angle)会在距震源104至140度处留下一片**阴影区**(shadow)，直达P波本不应抵达那里。
+当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)**物质**(matter)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P波会在地核边界发生**折射**(refract)；传播**角度**(angle)的改变，会在距震源104至140度处形成一片**阴影区**(shadow)，直达P波本不应抵达那里。
 
-但微弱P′波的**到达记录**(arrivals)偏偏出现了。有些研究者把它们**归因于**(attributed)地核周围的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震及其他地震的记录。资料虽很**零散**(scattered)，传播时间却符合一条**路径**(path)：它会在一个波速更快的**中央**(central)**球体**(sphere)处发生折射。1936年，她提出地球存在一个内核；P波在那里具有更高的**速度**(velocity)，因而会被**重新导向**(redirect)阴影区。
+但微弱P′波的**到达记录**(arrivals)偏偏出现在那里。有人把它们**归因于**(attributed)地核周围的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震以及其他地震的记录。资料虽然**零散**(scattered)，传播时间却符合一条**路径**(path)：它会穿过一个波速更快的**中央**(central)**球体**(sphere)。1936年，她提出地球存在一个内核；P波在那里具有更高的**速度**(velocity)，因而可能被**重新导向**(redirect)阴影区。
 
-她那篇题目仅为“P′”的论文十分**谨慎**(cautious)：内核只是一种**可能性**(possibility)，其状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)与**数值**(numerical)分析表明，衍射解释已经无法成立。此后的模型把内核视为具有**刚性**(rigid)；1952年，弗朗西斯·伯奇认为，最简洁的解释是它由**晶体状的**(crystalline)铁构成。它的**半径**(radius)约1220公里，**直径**(diameter)比月球还小；液态金属从外部**包围着**(encloses)它。
+在《P′》中，莱曼十分**谨慎**(cautious)：内核只是一种**可能性**(possibility)，其状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)与**数值**(numerical)分析排除了衍射解释。此后的模型把内核视为具有**刚性**(rigid)；1952年，弗朗西斯·伯奇认为，最简洁的解释是它由**晶体状的**(crystalline)铁构成。它约1220公里的**半径**(radius)，意味着其**直径**(diameter)小于月球；外层的液态金属将它**包围**(encloses)。
 
-莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每束波规定了一个**到达时刻**(timing)，也为每条路径设下一个**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为它能够预言同类信号会出现在哪里。在科学中，**缺失**(absence)并不空洞：它只相对于某个模型成立。换一个模型，看似噪声的东西，便可能成为一张**时间表**(schedule)，标出一处**不可见的**(invisible)**结构**(structure)。
+莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为它预言了这些信号会出现在哪里。模型预期的**缺失**(absence)本身就是一项预测。一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)**结构**(structure)。
 
 ---
 

@@ -75,7 +75,7 @@ def build_markdown(article: dict[str, Any]) -> str:
         "",
         f'> 题材：{article["topic"]}',
         f'> 状态：**{article["status"]}**（{article["date"]}）',
-        f'> 指标：{metrics["words"]} 词 / {metrics["keywords"]} 重点词 / 密度 {metrics["density"]}%',
+        f'> 指标：{metrics["words"]} 词 / {metrics["keywords"]} 重点词 / 密度 {float(metrics["density"]):.1f}%',
     ]
     if article.get("standfirst"):
         lines.append(f'> {article["standfirst"]}')
