@@ -65,7 +65,7 @@ jobs:
           }
           const expected = {
             '16': { words: 264, keywords: 50, density: 18.9 },
-            '17': { words: 263, keywords: 50, density: 19.0 }
+            '17': { words: 268, keywords: 50, density: 18.7 }
           };
           for (const [id, metrics] of Object.entries(expected)) {
             const article = globalThis.SITE.ARTICLES.find(item => item.id === id);
