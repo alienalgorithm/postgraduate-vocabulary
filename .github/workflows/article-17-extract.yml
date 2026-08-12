@@ -1,4 +1,4 @@
-name: Prepare article 17 vocabulary audit
+name: Validate article 17 draft
 
 on:
   push:
@@ -6,24 +6,30 @@ on:
       - article-17-development
     paths:
       - .github/workflows/article-17-extract.yml
+      - data/article-17.js
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  extract:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Check out development branch
         uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
 
-      - name: Extract all used glossary lemmas
+      - name: Run the full seventeen-article archive audit
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p tmp
+          python3 scripts/build_markdown.py | tee /tmp/build-report.txt
+          grep -q "17 篇已生成 · 850 个重点词 · 全部通过" /tmp/build-report.txt
+
+      - name: Check article data and exact project metrics
+        shell: bash
+        run: |
+          set -euo pipefail
+          node --check data/article-17.js
           node <<'NODE'
           const fs = require('fs');
           const path = require('path');
@@ -32,23 +38,16 @@ jobs:
           for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) {
             require(path.resolve('data', file));
           }
-          const rows = [];
-          for (const article of globalThis.SITE.ARTICLES) {
-            for (const item of article.glossary || []) rows.push(`${String(article.id).padStart(2, '0')}\t${item.w}\t${item.zh}`);
+          const article = globalThis.SITE.ARTICLES.find(item => item.id === '17');
+          if (!article) throw new Error('article 17 missing');
+          if (article.metrics.words !== 262 || article.metrics.keywords !== 50 || article.metrics.density !== 19.1) {
+            throw new Error('article 17 metrics mismatch');
           }
-          fs.writeFileSync('tmp/used-words-16.tsv', rows.join('\n') + '\n', 'utf8');
-          console.log(`extracted ${rows.length} glossary entries`);
+          if (article.metrics.words < 240 || article.metrics.words > 270) {
+            throw new Error('article 17 word count outside preferred 240-270 range');
+          }
+          if (article.paras.length !== 5 || article.glossary.length !== 50) {
+            throw new Error('article 17 structure mismatch');
+          }
+          console.log('article 17 exact metrics, preferred range and structure verified');
           NODE
-          test "$(wc -l < tmp/used-words-16.tsv)" -eq 800
-
-      - name: Commit audit file
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp/used-words-16.tsv
-          git commit -m "chore: extract 800 used glossary words for article 17"
-          git push origin HEAD:article-17-development
-
-# trigger after workflow registration
