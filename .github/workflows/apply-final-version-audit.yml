@@ -1,0 +1,60 @@
+name: Apply full final-version audit
+
+on:
+  push:
+    branches:
+      - final-version-audit-2026-08-12
+    paths:
+      - .github/workflows/apply-final-version-audit.yml
+      - tmp/apply-final-version-audit.js
+      - scripts/final-version-guard.js
+
+permissions:
+  contents: write
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out audit branch
+        uses: actions/checkout@v6
+        with:
+          ref: final-version-audit-2026-08-12
+          fetch-depth: 0
+
+      - name: Apply the latest-final-only policy and repair article 16
+        shell: bash
+        run: |
+          set -euo pipefail
+          node tmp/apply-final-version-audit.js
+          python3 scripts/build_markdown.py | tee /tmp/build-report.txt
+          grep -q "17 篇已生成 · 850 个重点词 · 全部通过" /tmp/build-report.txt
+          grep -q "articles/16-the-wave-that-should-not-have-arrived.md  263 词 · 50 重点词 · 19.0%" /tmp/build-report.txt
+          grep -q "articles/17-the-few-that-came-back.md  268 词 · 50 重点词 · 18.7%" /tmp/build-report.txt
+          node scripts/final-version-guard.js --write-manifest
+          node scripts/final-version-guard.js
+          node --check data/article-16.js
+          node --check data/article-17.js
+          node --check scripts/final-version-guard.js
+          git diff --check
+
+      - name: Commit reconciled final versions and permanent guard
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/article-16.js \
+            data/final-version-manifest.json \
+            articles/16-the-wave-that-should-not-have-arrived.md \
+            README.md \
+            notes/写作规范.md \
+            notes/对话交接文档.md \
+            notes/第十六篇入库记录_2026-08-12.md \
+            notes/最终版本铁律.md \
+            notes/全库最终版本审计_2026-08-12.md \
+            scripts/build_markdown.py \
+            scripts/final-version-guard.js
+          git commit -m "audit: lock every article to its latest final version"
+          git push origin HEAD:final-version-audit-2026-08-12
