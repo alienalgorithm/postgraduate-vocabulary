@@ -27,10 +27,21 @@
 | 13 | *The Colour Returned in Patches* | 1944—1983年麦克林托克、玉米斑驳与转座元件 | 262词 · 50词 · 19.1% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-colour-returned-in-patches) · [Markdown](articles/13-the-colour-returned-in-patches.md) |
 | 14 | *The Ship Built to Be Trapped* | 1881—1896年“前进号”、跨北冰洋漂流与深海盆地 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-ship-built-to-be-trapped) · [Markdown](articles/14-the-ship-built-to-be-trapped.md) |
 | 15 | *When a Broken Pipe Applied the Brakes* | 1869—1893年威斯汀豪斯、自动空气制动与失效安全逻辑 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=when-a-broken-pipe-applied-the-brakes) · [Markdown](articles/15-when-a-broken-pipe-applied-the-brakes.md) |
-| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 264词 · 50词 · 18.9% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
+| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263词 · 50词 · 19.0% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
 | **17** | ***The Few That Came Back*** | **1909—1913年盖革—马斯登散射实验与卢瑟福核式原子** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
 
 第17篇以268词最终精进锁定稿为准。它不把历史压缩成“卢瑟福做了一次金箔实验”：马斯登逐一计数折返闪光，盖革维持实验严谨性，卢瑟福提出中心集中模型；1909年的异常观察又在1911年的定量理论和1912—1913年的系统测量中经受检验。正文还明确指出“约每8000个中有一个折返”来自铂实验，避免把具体数字误套到流行的金箔叙事。
+
+---
+
+## 最终版本铁律
+
+- 一旦某篇文章形成新的最终稿、最终精校稿或最终锁定稿，必须在同一次变更中同步权威数据、Markdown、网站、README、交接文档、入库记录和最终版本清单。
+- 新最终稿一经进入主分支，旧稿立即失去权威性；旧内容只能留在Git历史中，不得继续留在活动数据文件、正式Markdown、网站入口或未合并分支中制造歧义。
+- 只有从 `main` 回读确认新正文，并且全量校验成功后，才可以声称“已经存到云端”。
+- `data/final-version-manifest.json` 保存每篇文章的完整内容指纹；`node scripts/final-version-guard.js` 会阻止旧稿、错误指标或未同步文件重新进入主分支。
+
+完整规则见 [notes/最终版本铁律.md](notes/最终版本铁律.md)。
 
 ---
 
