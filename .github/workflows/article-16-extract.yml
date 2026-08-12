@@ -1,4 +1,4 @@
-name: Validate article 16 draft
+name: Validate article 16 final manuscript
 
 on:
   push:
@@ -25,7 +25,7 @@ jobs:
           python3 scripts/build_markdown.py | tee /tmp/build-report.txt
           grep -q "16 篇已生成 · 800 个重点词 · 全部通过" /tmp/build-report.txt
 
-      - name: Check article data and project constraints
+      - name: Check final article metrics and structure
         shell: bash
         run: |
           set -euo pipefail
@@ -40,14 +40,14 @@ jobs:
           }
           const article = globalThis.SITE.ARTICLES.find(item => item.id === '16');
           if (!article) throw new Error('article 16 missing');
-          if (article.metrics.words < 250 || article.metrics.words > 300) {
-            throw new Error('article 16 word count outside 250-300');
+          if (article.metrics.words !== 264 || article.metrics.keywords !== 50 || article.metrics.density !== 18.9) {
+            throw new Error('article 16 final metrics mismatch');
           }
-          if (article.metrics.keywords !== 50 || article.metrics.density > 20) {
-            throw new Error('article 16 keyword metrics outside project limits');
+          if (article.metrics.words < 240 || article.metrics.words > 270) {
+            throw new Error('article 16 word count outside preferred 240-270 range');
           }
           if (article.paras.length !== 5 || article.glossary.length !== 50) {
             throw new Error('article 16 structure mismatch');
           }
-          console.log('article 16 project constraints verified');
+          console.log('article 16 final metrics, preferred range and structure verified');
           NODE
