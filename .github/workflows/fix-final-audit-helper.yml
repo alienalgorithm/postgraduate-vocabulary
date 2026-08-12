@@ -1,0 +1,47 @@
+name: Fix final-version audit helper matcher
+
+on:
+  push:
+    branches:
+      - final-version-audit-2026-08-12
+    paths:
+      - .github/workflows/fix-final-audit-helper.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out audit branch
+        uses: actions/checkout@v6
+        with:
+          ref: final-version-audit-2026-08-12
+          fetch-depth: 0
+
+      - name: Make the old-version sentence match independent of list formatting
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('tmp/apply-final-version-audit.js')
+          text = path.read_text(encoding='utf-8')
+          old = "  '- 旧的296词版本已经废弃。',"
+          new = "  '旧的296词版本已经废弃。',"
+          if old not in text:
+              raise SystemExit('expected helper matcher not found')
+          path.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
+          node --check tmp/apply-final-version-audit.js
+
+      - name: Commit matcher correction
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/apply-final-version-audit.js
+          git commit -m "fix: match article 16 supersession sentence"
+          git push origin HEAD:final-version-audit-2026-08-12
