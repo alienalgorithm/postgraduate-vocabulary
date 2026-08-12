@@ -1,0 +1,52 @@
+name: Prepare article 16 vocabulary audit
+
+on:
+  push:
+    branches:
+      - article-16-development
+    paths:
+      - .github/workflows/article-16-extract.yml
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out development branch
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Extract all used glossary lemmas
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p tmp
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          globalThis.window = globalThis;
+          require(path.resolve('data/articles.js'));
+          for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) {
+            require(path.resolve('data', file));
+          }
+          const rows = [];
+          for (const article of globalThis.SITE.ARTICLES) {
+            for (const item of article.glossary || []) rows.push(`${String(article.id).padStart(2, '0')}\t${item.w}\t${item.zh}`);
+          }
+          fs.writeFileSync('tmp/used-words-15.tsv', rows.join('\n') + '\n', 'utf8');
+          console.log(`extracted ${rows.length} glossary entries`);
+          NODE
+          test "$(wc -l < tmp/used-words-15.tsv)" -eq 750
+
+      - name: Commit audit file
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/used-words-15.tsv
+          git commit -m "chore: extract 750 used glossary words for article 16"
+          git push origin HEAD:article-16-development
