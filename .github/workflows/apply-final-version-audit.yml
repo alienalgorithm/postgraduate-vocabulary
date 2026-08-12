@@ -58,3 +58,5 @@ jobs:
             scripts/final-version-guard.js
           git commit -m "audit: lock every article to its latest final version"
           git push origin HEAD:final-version-audit-2026-08-12
+
+# Triggered after correcting the article-16 supersession matcher.
