@@ -28,9 +28,9 @@
 | 14 | *The Ship Built to Be Trapped* | 1881—1896年“前进号”、跨北冰洋漂流与深海盆地 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-ship-built-to-be-trapped) · [Markdown](articles/14-the-ship-built-to-be-trapped.md) |
 | 15 | *When a Broken Pipe Applied the Brakes* | 1869—1893年威斯汀豪斯、自动空气制动与失效安全逻辑 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=when-a-broken-pipe-applied-the-brakes) · [Markdown](articles/15-when-a-broken-pipe-applied-the-brakes.md) |
 | 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 264词 · 50词 · 18.9% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
-| **17** | ***The Few That Came Back*** | **1909—1913年盖革—马斯登散射实验与卢瑟福核式原子** | **264词 · 50词 · 18.9%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
+| **17** | ***The Few That Came Back*** | **1909—1913年盖革—马斯登散射实验与卢瑟福核式原子** | **263词 · 50词 · 19.0%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
 
-第17篇以264词最终精校稿为准。它不把历史压缩成“卢瑟福做了一次金箔实验”：马斯登逐一计数折返闪光，盖革维持实验严谨性，卢瑟福提出中心集中模型；1909年的异常观察又在1911年的定量理论和1912—1913年的系统测量中经受检验。正文还明确指出“约每8000个中有一个折返”来自铂实验，避免把具体数字误套到流行的金箔叙事。
+第17篇以263词最终精校稿为准。它不把历史压缩成“卢瑟福做了一次金箔实验”：马斯登逐一计数折返闪光，盖革维持实验严谨性，卢瑟福提出中心集中模型；1909年的异常观察又在1911年的定量理论和1912—1913年的系统测量中经受检验。正文还明确指出“约每8000个中有一个折返”来自铂实验，避免把具体数字误套到流行的金箔叙事。
 
 ---
 
