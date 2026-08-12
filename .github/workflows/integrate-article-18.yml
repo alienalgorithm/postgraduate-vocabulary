@@ -34,6 +34,7 @@ jobs:
           PY
           python3 -m py_compile tmp/integrate-article-18.py
           python3 tmp/integrate-article-18.py
+          git checkout -- .github/workflows/validate-content.yml
 
       - name: Regenerate the archive and lock final-version fingerprints
         shell: bash
@@ -83,7 +84,6 @@ jobs:
             notes/全库最终版本审计_2026-08-12.md \
             notes/对话交接文档.md \
             notes/第十八篇入库记录_2026-08-12.md \
-            scripts/final-version-guard.js \
-            .github/workflows/validate-content.yml
+            scripts/final-version-guard.js
           git commit -m "integrate: publish article 18 across the 900-word site"
           git push origin HEAD:article-18-development
