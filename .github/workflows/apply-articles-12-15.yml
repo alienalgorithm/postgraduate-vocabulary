@@ -59,6 +59,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           rm -rf .ingest-12-15
           rm -f .github/workflows/apply-articles-12-15.yml
+          rm -f .github/workflows/validate-content.yml
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to commit."
