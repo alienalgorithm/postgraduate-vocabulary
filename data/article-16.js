@@ -13,9 +13,9 @@
   "date": "2026-08-12",
   "status": "第十六篇精校稿",
   "metrics": {
-    "words": 291,
+    "words": 296,
     "keywords": 50,
-    "density": 17.2
+    "density": 16.9
   },
   "paras": [
     {
@@ -23,20 +23,20 @@
       "zh": "1929年6月17日，新西兰默奇森附近发生一场**地震**(earthquake)，产生的**地震波**(seismic)传遍全球。在哥本哈根，丹麦**数学家**(mathematician)兼地震学家英格·莱曼研究各台**地震仪**(seismographs)描出的线条。每一次地面**振动**(vibration)，都像一枚间接**探针**(probe)，让人们得以探查地球**内部**(interior)。然而，来自**世界各地的**(worldwide)记录中出现了一个细小**痕迹**(mark)，来源仍然**晦暗不明**(obscure)。"
     },
     {
-      "en": "The accepted picture held a rocky mantle around one fluid core. P waves **compress** **matter** and pass through **solid** or **liquid** material; S waves **shear** it and cannot **penetrate** a liquid **outer** core. At the core boundary, P waves **refract** sharply. The change in **angle** leaves a **shadow** 104°–140° from the source, where direct P waves should not arrive.",
-      "zh": "当时主流图景是岩石地幔包围一个流体地核。P波会**压缩**(compress)**物质**(matter)，并能在**固态**(solid)或**液态**(liquid)介质中传播；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。在地核边界，P波会急剧**折射**(refract)。传播**角度**(angle)因此改变，使震源104至140度之外出现一片**阴影区**(shadow)，那里本不应有直达P波抵达。"
+      "en": "The accepted model placed a rocky mantle around one fluid core. P waves **compress** **matter** and pass through **solid** or **liquid** material; S waves **shear** it and cannot **penetrate** a liquid **outer** core. At the core boundary, P waves **refract** sharply. That change in **angle** leaves a **shadow** 104°–140° from the source, where direct P waves should not arrive.",
+      "zh": "当时主流模型把一层岩石地幔放在一个流体地核之外。P波会**压缩**(compress)**物质**(matter)，并能在**固态**(solid)或**液态**(liquid)介质中传播；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。在地核边界，P波会急剧**折射**(refract)。传播**角度**(angle)因此改变，使震源104至140度之外出现一片**阴影区**(shadow)，那里本不应有直达P波抵达。"
     },
     {
-      "en": "But faint P′ **arrivals** appeared there. Some researchers **attributed** them to **diffraction** around the core. Lehmann **examined** records from Murchison and other earthquakes. The reports were **scattered**, but their travel times fitted a **path** refracted by a faster **central** **sphere**. In 1936 she proposed an inner core with higher **velocity**, able to **redirect** energy into the forbidden zone.",
-      "zh": "但微弱的P′波**到达记录**(arrivals)偏偏出现在阴影区内。有些研究者把它们**归因于**(attributed)波沿地核边缘发生的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震及其他地震的记录。这些报告分布得很**零散**(scattered)，但传播时间却符合一条**路径**(path)：它会在一个更快的**中央**(central)**球体**(sphere)边界发生折射。1936年，她提出地球还有一个更快的内核：波在那里以更高的**速度**(velocity)传播，能量因而会被**重新导向**(redirect)原本的禁区。"
+      "en": "But faint P′ **arrivals** appeared there. Some researchers **attributed** them to **diffraction** around the core. Lehmann **examined** records from Murchison and other earthquakes. The reports were **scattered**, but their travel times matched a **path** bent at the boundary of a faster **central** **sphere**. In 1936 she proposed an inner core with higher **velocity**, able to **redirect** energy into the forbidden zone.",
+      "zh": "但微弱的P′波**到达记录**(arrivals)偏偏出现在阴影区内。有些研究者把它们**归因于**(attributed)波沿地核边缘发生的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震及其他地震的记录。这些报告分布得很**零散**(scattered)，但传播时间却与一条**路径**(path)相吻合：这条路径会在一个更快的**中央**(central)**球体**(sphere)边界发生弯折。1936年，她提出地球还有一个更快的内核：波在那里以更高的**速度**(velocity)传播，能量因而会被**重新导向**(redirect)原本的禁区。"
     },
     {
       "en": "Her paper, simply titled “P′”, was **cautious**: the new core was a **possibility**, and its physical state remained **uncertain**. Later **scrutiny** and **numerical** work showed diffraction could not explain the arrivals. Subsequent models treated the inner core as **rigid**; in 1952 Francis Birch interpreted it as probably **crystalline** iron. Its **radius** is now about 1,220 kilometres; its **diameter** is smaller than the Moon's, and liquid metal **encloses** it.",
       "zh": "她那篇题目仅为“P′”的论文十分**谨慎**(cautious)：新地核只是一种**可能性**(possibility)，其物理状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)和**数值**(numerical)分析表明，衍射无法解释这些到达记录。此后的模型把内核视为具有**刚性**(rigid)；1952年，弗朗西斯·伯奇把它解释为很可能由**晶体状的**(crystalline)铁构成。如今测得其**半径**(radius)约1220公里，**直径**(diameter)比月球还小，外面被液态金属**包围**(encloses)。"
     },
     {
-      "en": "Lehmann made the **discrepancy** obey a new **geometry**. Her model imposed a **timing** and a **constraint** on every arrival. The **revision** became **persuasive** because it predicted where the signal should appear. In science, **absence** is not empty: it belongs to a model. Change the model, and apparent noise can become the **schedule** of an **invisible** **structure**.",
-      "zh": "莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。在她的模型中，每次波的到达都必须满足特定的**时刻**(timing)与**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为它预先给出了信号应当出现在哪里。在科学中，**缺失**(absence)并不空洞：它只相对于某个模型成立。换一个模型，看似噪声的东西，便可能成为一张时间**表**(schedule)，标出一处**不可见的**(invisible)**结构**(structure)。"
+      "en": "Lehmann made the **discrepancy** obey a new **geometry**. Her model supplied a **timing** for each arrival and a **constraint** on where it could appear. The **revision** became **persuasive** because both matched the records. In science, **absence** is not empty: it belongs to a model. Change the model, and apparent noise can become the **schedule** of an **invisible** **structure**.",
+      "zh": "莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次波的到达给出了一个**时刻**(timing)，并规定了它可能出现位置的**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为两者都与记录吻合。在科学中，**缺失**(absence)并不空洞：它只相对于某个模型成立。换一个模型，看似噪声的东西，便可能成为一张时间**表**(schedule)，标出一处**不可见的**(invisible)**结构**(structure)。"
     }
   ],
   "glossary": [
