@@ -50,3 +50,5 @@ jobs:
           git add tmp/used-words-16.tsv
           git commit -m "chore: extract 800 used glossary words for article 17"
           git push origin HEAD:article-17-development
+
+# trigger after workflow registration
