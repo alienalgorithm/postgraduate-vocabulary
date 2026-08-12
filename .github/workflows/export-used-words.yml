@@ -1,0 +1,55 @@
+name: Export used vocabulary for article 18
+
+on:
+  push:
+    branches:
+      - article-18-development
+    paths:
+      - .github/workflows/export-used-words.yml
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out article 18 branch
+        uses: actions/checkout@v6
+        with:
+          ref: article-18-development
+
+      - name: Export glossary lemmas and bold surface forms
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p tmp
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          globalThis.window = globalThis;
+          require(path.resolve('data/articles.js'));
+          for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) {
+            require(path.resolve('data', file));
+          }
+          const articles = [...globalThis.SITE.ARTICLES].sort((a,b) => a.id.localeCompare(b.id));
+          const lemmas = [];
+          const surfaces = [];
+          for (const article of articles) {
+            for (const item of article.glossary) lemmas.push({ id: article.id, word: item.w.toLowerCase() });
+            for (const para of article.paras) {
+              for (const match of para.en.matchAll(/\*\*(.+?)\*\*/g)) surfaces.push({ id: article.id, word: match[1].toLowerCase() });
+            }
+          }
+          fs.writeFileSync('tmp/used-words.json', JSON.stringify({ articleCount: articles.length, lemmaCount: lemmas.length, surfaceCount: surfaces.length, lemmas, surfaces }, null, 2) + '\n');
+          NODE
+
+      - name: Commit export
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/used-words.json
+          git commit -m "chore: export used vocabulary for article 18"
+          git push origin HEAD:article-18-development
