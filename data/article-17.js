@@ -13,29 +13,29 @@
   "date": "2026-08-12",
   "status": "第十七篇最终精校稿",
   "metrics": {
-    "words": 262,
+    "words": 264,
     "keywords": 50,
-    "density": 19.1
+    "density": 18.9
   },
   "paras": [
     {
-      "en": "In a dark Manchester laboratory in 1909, **undergraduate** Ernest Marsden joined Hans Geiger in testing an **unusual** suggestion from Ernest Rutherford. A **radioactive** **emitter** sent **alpha** particles towards metal **foil**. A lead **shield** blocked the direct beam; a **fluorescent** zinc-sulphide **screen** gave a **flash** when a particle returned.",
+      "en": "In a dark Manchester laboratory in 1909, **undergraduate** Ernest Marsden joined Hans Geiger in testing an **unusual** suggestion from Ernest Rutherford. A **radioactive** **emitter** sent **alpha** particles towards metal **foil**. A lead **shield** blocked the direct beam; a **fluorescent** zinc-sulphide **screen** produced a **flash** when a particle returned.",
       "zh": "1909年，在曼彻斯特一间昏暗的实验室里，**本科生**(undergraduate)欧内斯特·马斯登与汉斯·盖革一起检验欧内斯特·卢瑟福提出的一个**不同寻常的**(unusual)设想。一个**放射性**(radioactive)**发射源**(emitter)把**阿尔法**(alpha)粒子射向金属**薄箔**(foil)。铅制**屏障**(shield)挡住直达粒子束；若有粒子折返回来，撞上**荧光的**(fluorescent)硫化锌**屏幕**(screen)，便会发出一次**闪光**(flash)。"
     },
     {
-      "en": "Most crossed the sheet or bent only **slightly**. Yet a few emerged **backward** from the side of **incidence**. In one **platinum** test, roughly one in 8,000 returned. The **majority** followed the expected route; this tiny **fraction** underwent a large **deflection**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** should not produce it.",
-      "zh": "大多数粒子穿过薄箔，或只是**轻微**(slightly)偏折。但仍有少数从**入射**(incidence)一侧**向后**(backward)折返。在一次使用**铂**(platinum)的试验中，大约每8000个粒子就有一个返回。**绝大多数**(majority)沿预期路线前进；这个极小的**比例**(fraction)却发生了大角度**偏转**(deflection)。考虑到粒子的**动量**(momentum)，这种掉头极其**令人震惊**(astonishing)：连续的微弱**碰撞**(collisions)不应产生这种结果。"
+      "en": "Most crossed the sheet or changed direction only **slightly**. Yet a few emerged **backward** from the side of **incidence**. In one **platinum** test, roughly one in 8,000 returned. The **majority** followed the expected route; this tiny **fraction** underwent a large **deflection**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** should not produce it.",
+      "zh": "大多数粒子穿过薄箔，或只是**轻微**(slightly)改变方向。但仍有少数从**入射**(incidence)一侧**向后**(backward)折返。在一次使用**铂**(platinum)的试验中，大约每8000个粒子就有一个返回。**绝大多数**(majority)沿预期路线前进；这个极小的**比例**(fraction)却发生了大角度**偏转**(deflection)。考虑到粒子的**动量**(momentum)，这种掉头极其**令人震惊**(astonishing)：连续的微弱**碰撞**(collisions)不应产生这种结果。"
     },
     {
-      "en": "Thomson's atom distributed **diffuse** positive charge around **electrons** **embedded** within it. Each **encounter** gave only a weak push. Rutherford's 1911 analysis required an **intense** **impulse** from a compact centre. Most **atomic** **volume** was empty; mass and charge were **concentrated** in the tiny body later called the **nucleus**.",
-      "zh": "汤姆孙的原子模型认为，正电荷是**弥散的**(diffuse)，**电子**(electrons)则**嵌在**(embedded)其中。每次**相遇**(encounter)只能给阿尔法粒子一个微弱推力。卢瑟福1911年的分析则要求粒子从一个紧凑中心获得一次**强烈的**(intense)**冲量**(impulse)。**原子的**(atomic)大部分**体积**(volume)其实是空的；质量和电荷则**集中在**(concentrated)一个后来被称为**原子核**(nucleus)的微小实体中。"
+      "en": "Thomson's atom contained **electrons** **embedded** in **diffuse** positive charge. Each **encounter** gave only a weak push. Rutherford's 1911 analysis required an **intense** **impulse** from a compact centre. Most **atomic** **volume** was empty; mass and charge were **concentrated** in the tiny body later called the **nucleus**.",
+      "zh": "汤姆孙的原子模型认为，**电子**(electrons)**嵌在**(embedded)**弥散的**(diffuse)正电荷中。每次**相遇**(encounter)只能给阿尔法粒子一个微弱推力。卢瑟福1911年的分析则要求粒子从一个紧凑中心获得一次**强烈的**(intense)**冲量**(impulse)。**原子的**(atomic)大部分**体积**(volume)其实是空的；质量和电荷则**集中在**(concentrated)一个后来被称为**原子核**(nucleus)的微小实体中。"
     },
     {
-      "en": "Rutherford's theory did more than explain the event: it risked being wrong. Its **formula** said the number scattered through a large angle should be **proportional** to foil **thickness** and the **square** of central charge, but should vary **inversely** with the **fourth** power of alpha velocity. Geiger and Marsden's **systematic** 1912–13 measurements tested those **quantitative** predictions; the angular **distribution** supplied **confirmation**.",
-      "zh": "卢瑟福的理论不只解释了现象，还把自己交给数字检验。它的**公式**(formula)指出，大角度散射的数量应与薄箔**厚度**(thickness)以及中心电荷的**平方**(square)成**正比**(proportional)，却应与阿尔法粒子速度的**四次方**(fourth)成**反比**(inversely)。盖革和马斯登在1912至1913年进行的**系统性的**(systematic)测量，检验了这些**定量的**(quantitative)预测；不同角度上的**分布**(distribution)为理论提供了**佐证**(confirmation)。"
+      "en": "Rutherford's theory did more than explain the event: it risked being wrong. Its **formula** said the number scattered through a large angle should be **proportional** to foil **thickness** and the **square** of central charge, but should vary **inversely** with the **fourth** power of alpha velocity. Geiger and Marsden's **systematic** 1912–13 measurements tested those **quantitative** predictions; the **distribution** of counts across angles supplied **confirmation**.",
+      "zh": "卢瑟福的理论不只解释了现象，还把自己交给数字检验。它的**公式**(formula)指出，大角度散射的数量应与薄箔**厚度**(thickness)以及中心电荷的**平方**(square)成**正比**(proportional)，却应与阿尔法粒子速度的**四次方**(fourth)成**反比**(inversely)。盖革和马斯登在1912至1913年进行的**系统性的**(systematic)测量，检验了这些**定量的**(quantitative)预测；不同角度上计数的**分布**(distribution)为理论提供了**佐证**(confirmation)。"
     },
     {
-      "en": "The discovery was **collective**: Marsden counted flashes, Geiger imposed experimental **discipline**, Rutherford drew the **deduction**. Its **empirical** **framework** endured because measurements agreed. **Textbook** **narrative** compresses this into one man's **revelation**. The **outliers** mattered because a team counted them—and let the few that came back **overturn** the model the many seemed to confirm.",
+      "en": "The discovery was **collective**: Marsden counted flashes, Geiger imposed experimental **discipline**, Rutherford made the **deduction**. The **empirical** **framework** endured because measurements agreed. **Textbook** **narrative** compresses this into one man's **revelation**. The **outliers** mattered because a team counted them—and let the few that came back **overturn** the model the many seemed to confirm.",
       "zh": "这项发现是**集体完成的**(collective)：马斯登逐一计数闪光，盖革保证实验**严谨有序**(discipline)，卢瑟福则得出关键**推论**(deduction)。这套**经验性的**(empirical)**框架**(framework)之所以站得住，是因为后续测量与它一致。**教科书式的**(Textbook)**叙事**(narrative)常把这一过程压缩成某一个人的灵光一现式**顿悟**(revelation)。但真正重要的，是那些**离群结果**(outliers)被一支团队认真计数；正是少数折返的粒子，最终**推翻了**(overturn)多数粒子似乎正在证实的模型。"
     }
   ],
@@ -60,9 +60,9 @@
     {"w": "momentum", "zh": "动量；势头", "p": 2},
     {"w": "astonishing", "zh": "令人震惊的", "p": 2},
     {"w": "collision", "zh": "碰撞；冲突", "p": 2},
-    {"w": "diffuse", "zh": "弥散的；扩散", "p": 3},
     {"w": "electron", "zh": "电子", "p": 3},
     {"w": "embed", "zh": "嵌入；使深植", "p": 3},
+    {"w": "diffuse", "zh": "弥散的；扩散", "p": 3},
     {"w": "encounter", "zh": "相遇；遭遇", "p": 3},
     {"w": "intense", "zh": "强烈的；高度集中的", "p": 3},
     {"w": "impulse", "zh": "冲量；冲动", "p": 3},
