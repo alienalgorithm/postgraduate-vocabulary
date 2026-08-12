@@ -2,8 +2,8 @@
 
 > 题材：1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景
 > 状态：**第十八篇最终精校稿**（2026-08-12）
-> 指标：264 词 / 50 重点词 / 密度 18.9%
-> 一座为卫星通信而建的号角天线排除了设备、地面、季节甚至鸽子；当本地嫌疑逐一消失，天空仍在嘶响。
+> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 借助一座为卫星通信而建的号角天线，两名研究者逐一排除仪器、地面、季节甚至鸽子；本地嫌疑全都消失后，天空仍在嘶响。
 
 ---
 
@@ -13,9 +13,9 @@ In 1964, Bell Laboratories **radio** **astronomers** Arno Penzias and Robert Wil
 
 They taped every **seam**, tested each **joint** for loss and ruled out ground **interference**. **Pigeons** had made a **roost** inside; Penzias and Wilson trapped them and **scrubbed** away their **droppings**. Nothing changed. The excess was **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.
 
-Nearby, Princeton **cosmologists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a hot, **primordial** universe. Contact turned **coincidence** into **collaboration**. In July 1965, **companion** papers separated the roles: Bell Labs supplied the experimental **account**; Princeton the **interpretation**. Penzias and Wilson called it a **provisional** explanation.
+Nearby, Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a hot, **primordial** universe. Contact turned **coincidence** into **collaboration**. In July 1965, **companion** papers separated the roles: Bell Labs supplied the experimental **account**; Princeton the **interpretation**. Their paper presented it only as a **provisional** explanation.
 
-One **wavelength** could not establish a black-body spectrum. Shorter-wave measurements soon **corroborated** the **cosmic** **background** **radiation**. Decades later, COBE measured its near-perfect **thermal** **profile** at 2.725 K and mapped **fluctuations**, or **anisotropies**, of roughly one part in 100,000. The uniform glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.
+One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the signal as **cosmic** **background** **radiation**. Decades later, COBE found a near-perfect 2.725 K black-body **profile** and mapped **fluctuations**, or **anisotropies**, of roughly one part in 100,000. The uniform **thermal** glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.
 
 The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**. Its force came from a stricter fact: every **local** **culprit** had been tested, and the sky still hissed.
 
@@ -26,15 +26,15 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1964年，贝尔实验室的**射电**(radio)**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以液氦参考源对系统进行了**校准**(calibrated)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)比预期高出3.5开尔文。
+1964年，贝尔实验室的**射电**(radio)**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以液氦参考源对系统进行了**校准**(calibrated)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，对应的天线温度**相当于**(equivalent)比预期高出3.5开尔文。
 
 他们给每一道**接缝**(seam)贴上胶带，检查每个**连接处**(joint)是否造成损耗，也排除了地面**干扰**(interference)。一些**鸽子**(Pigeons)曾在天线内**栖息筑巢**(roost)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。这股额外辐射呈**各向同性**(isotropic)，**没有偏振**(unpolarised)，从1964年7月至1965年4月也不随**季节**(seasonal)改变。
 
-不远处，普林斯顿的**宇宙学家**(cosmologists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台**辐射计**(radiometer)，寻找炽热**原初的**(primordial)宇宙留下的**遗存**(relic)热辐射。双方取得联系，使地理上的**巧合**(coincidence)变成科学**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记录**(account)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊只把它称为一种**暂定的**(provisional)解释。
+不远处，普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台**辐射计**(radiometer)，寻找来自炽热**原初宇宙的**(primordial)**遗存热辐射**(relic)。双方取得联系，使地理上的**巧合**(coincidence)变成科学**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记录**(account)，普林斯顿给出**解释**(interpretation)。他们的论文只把它写成一种**暂定的**(provisional)解释。
 
-一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)同一片**宇宙**(cosmic)**背景**(background)**辐射**(radiation)。几十年后，COBE测得它近乎完美的**热辐射**(thermal)**谱形**(profile)，温度约为2.725 K；又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。均匀余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。
+一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)这股信号确是**宇宙**(cosmic)**背景**(background)**辐射**(radiation)。几十年后，COBE发现它在2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。
 
-这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。工程上的精湛**工艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让剩下的**余量**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)。它之所以有力量，是因为每一个**本地的**(local)**嫌疑来源**(culprit)都已受过检验，而天空仍在嘶响。
+这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让剩下的**余量**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)。它之所以有力量，是因为每一个**本地的**(local)**嫌疑来源**(culprit)都已受过检验，而天空仍在嘶响。
 
 ---
 
@@ -44,7 +44,7 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 **§2**（10词）seam 接缝｜joint 连接处；关节｜interference 干扰｜pigeon 鸽子｜roost 栖息；栖息处｜scrub 刷洗；擦洗｜dropping 粪便；滴下物｜isotropic 各向同性的｜unpolarised 未偏振的｜seasonal 季节性的
 
-**§3**（10词）cosmologist 宇宙学家｜radiometer 辐射计｜relic 遗存；遗物｜primordial 原初的；远古的｜coincidence 巧合；同时发生｜collaboration 合作｜companion 配套的；同伴｜account 记录；说明｜interpretation 解释；阐释｜provisional 暂定的；临时的
+**§3**（10词）physicist 物理学家｜radiometer 辐射计｜relic 遗存；遗物｜primordial 原初的；远古的｜coincidence 巧合；同时发生｜collaboration 合作｜companion 配套的；同伴｜account 记录；说明｜interpretation 解释；阐释｜provisional 暂定的；临时的
 
 **§4**（10词）wavelength 波长｜corroborate 佐证；证实｜cosmic 宇宙的｜background 背景｜radiation 辐射｜thermal 热的；热力的｜profile 轮廓；谱形｜fluctuation 起伏；波动｜anisotropy 各向异性｜signature 特征；签名
 
