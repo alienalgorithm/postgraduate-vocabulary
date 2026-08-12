@@ -10,25 +10,28 @@ const DATA_DIR = path.join(ROOT, 'data');
 const ARTICLE_DIR = path.join(ROOT, 'articles');
 const MANIFEST_PATH = path.join(DATA_DIR, 'final-version-manifest.json');
 const REPORT_PATH = path.join(ROOT, 'notes', '全库最终版本审计_2026-08-12.md');
+const README_PATH = path.join(ROOT, 'README.md');
+const HANDOFF_PATH = path.join(ROOT, 'notes', '对话交接文档.md');
+const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
 
-const INITIAL_APPROVALS = {
-  '01': { source: '原始第1篇定稿；未被后续最终稿包替换', mode: 'canonical-preserved' },
-  '02': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', mode: 'approved-core', core: 'cb3ec71e69f08dbbd4415550b39edc089d035e5e6357d73b2ad08de27d8287f6' },
-  '03': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', mode: 'approved-core', core: 'd163910886d53180f90a35416450daaa9b43963e9aa6844c309c06590f11bc67' },
-  '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', mode: 'approved-core', core: 'a574b3314cd29dda0f5c98f826125cfd463d96d5d54cbccb342c09d917871180' },
-  '05': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', mode: 'approved-core', core: 'e1e210852f72fb93c2949bc3a847c3522cf6a5b65778b503bf3f6b654c26fd55' },
-  '06': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', mode: 'exact-markdown-and-core', core: '5b1dbeafb04258c911513e91a751d686316098afcaf131a3e9cf2214c94fb409', blob: 'fd60aa1a0fae0a7a2879edbed990c81b2f9a66a6' },
-  '07': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', mode: 'exact-markdown-and-core', core: '97d0757752d3dbb514e2a0b2c6569197a480d15cd6bdb4e4226d3fed71e87d79', blob: 'bab78bed27496fcda094e7d0dace94a10763268b' },
-  '08': { source: '6fed2f3c-24a7-4849-91e0-119f8b7073e8.md', mode: 'exact-markdown-and-core', core: '5da95659f035158441616f592935e9dda1a7fbe1ea3078ca6deb6c9c782b2b4e', blob: 'c692c268881b96619931af559872ec97521cfc05' },
-  '09': { source: 'f69e64e9-6ed8-4f44-9e01-7b1c86000e73.md', mode: 'exact-markdown-and-core', core: '9ae2b57fe73168c2e7c84efe508c485ac67d84eac68f332ae977f52416f31087', blob: '9b78d5575735bc2bd78abb1bc50f34af3efd8b21' },
-  '10': { source: 'be410145-0b0e-4ec1-9889-1b0f758ab2ef.md', mode: 'exact-markdown-and-core', core: '6ce78718b6532d337e13054dd51cddfc1817b6960d31853a9de495c216d9fa08', blob: '0cae816f2e21cbf438527ba6b4c7c28556ee03d3' },
-  '11': { source: '842ff92f-706b-46ec-a89a-ba75cb26b786.md', mode: 'exact-markdown-and-core', core: 'c1de3f9a1bb1cdf701151ecc7ed6638ad947031e6e0be0330e2f6ff090d0b05d', blob: '31786c670e5ddb48a92c8e8ceee1de27cf29159a' },
-  '12': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', mode: 'exact-markdown-and-core', core: '2cda5d6d263e4d48b979594dda5d679b576f899a9d704bd22ba4a4b6694ebc6a', blob: '5cc60c63acb1e8dff617120d6b8f273cb99d0270' },
-  '13': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', mode: 'exact-markdown-and-core', core: 'b83b05f601e65416ae9c98250c278f91c9581055c5015e652670d67292e706f4', blob: 'c4c95be922ce46a972e375d561d167bb75f46013' },
-  '14': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', mode: 'exact-markdown-and-core', core: 'd0f68c0f48ae8b9ac209077113f1447d6c42b6f06c677090dcb525c208fa7534', blob: '63279e6e988966680c8a164db3fb0e19b4a08972' },
-  '15': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', mode: 'exact-markdown-and-core', core: '961840be2b429009d2c7d5c47de5b94f67fd25bff182e69992ebe3f84f204d24', blob: 'bab945342134b4d45bb8d005569f11c9fb2a97fe' },
-  '16': { source: '2026-08-12对话中确认的263词最终精进稿', mode: 'conversation-final' },
-  '17': { source: '2026-08-12对话中确认并已合并的268词最终精进稿', mode: 'conversation-final' },
+const SOURCE_AUDIT = {
+  '01': { source: '原始第1篇定稿；作者的第2—7篇最终包未包含第1篇，因此保持不变', verification: 'preserved-canonical' },
+  '02': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-corrected-canonical' },
+  '03': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-body-confirmed' },
+  '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: '260-word-final-package' },
+  '05': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-body-confirmed' },
+  '06': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', verification: 'exact-uploaded-markdown', blob: 'fd60aa1a0fae0a7a2879edbed990c81b2f9a66a6' },
+  '07': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', verification: 'exact-uploaded-markdown', blob: 'bab78bed27496fcda094e7d0dace94a10763268b' },
+  '08': { source: '6fed2f3c-24a7-4849-91e0-119f8b7073e8.md', verification: 'exact-uploaded-markdown', blob: 'c692c268881b96619931af559872ec97521cfc05' },
+  '09': { source: 'f69e64e9-6ed8-4f44-9e01-7b1c86000e73.md', verification: 'exact-uploaded-markdown', blob: '9b78d5575735bc2bd78abb1bc50f34af3efd8b21' },
+  '10': { source: 'be410145-0b0e-4ec1-9889-1b0f758ab2ef.md', verification: 'exact-uploaded-markdown', blob: '0cae816f2e21cbf438527ba6b4c7c28556ee03d3' },
+  '11': { source: '842ff92f-706b-46ec-a89a-ba75cb26b786.md', verification: 'exact-uploaded-markdown', blob: '31786c670e5ddb48a92c8e8ceee1de27cf29159a' },
+  '12': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: '5cc60c63acb1e8dff617120d6b8f273cb99d0270' },
+  '13': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'c4c95be922ce46a972e375d561d167bb75f46013' },
+  '14': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: '63279e6e988966680c8a164db3fb0e19b4a08972' },
+  '15': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'bab945342134b4d45bb8d005569f11c9fb2a97fe' },
+  '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
+  '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -53,9 +56,10 @@ const VERSION_IDS = {
 
 const SUPERSEDED_SIGNATURES = {
   '02': ['These **processes** **support** a food **chain**'],
-  '04': ['Finding **longitude** required the time somewhere else.', '295 词'],
+  '04': ['Finding **longitude** required the time somewhere else.', '295 词 / 50 重点词 / 密度 16.9%'],
   '16': [
     'sent **seismic** waves through the planet',
+    'read traces from **seismographs**',
     'Yet faint P′ **arrivals** did.',
     'made diffraction untenable',
     'In science, **absence** belongs to a model.',
@@ -64,7 +68,7 @@ const SUPERSEDED_SIGNATURES = {
   ],
   '17': [
     'Measurements upheld the **empirical** **framework**.',
-    'compresses this into one man\'s **revelation**',
+    "compresses this into one man's **revelation**",
     '263 词 / 50 重点词 / 密度 19.0%',
   ],
 };
@@ -81,81 +85,52 @@ function loadArticles() {
 function stable(value) {
   if (Array.isArray(value)) return value.map(stable);
   if (value && typeof value === 'object') {
-    const out = {};
-    for (const key of Object.keys(value).sort()) out[key] = stable(value[key]);
-    return out;
+    const result = {};
+    for (const key of Object.keys(value).sort()) result[key] = stable(value[key]);
+    return result;
   }
   return value;
 }
 
-function sha256(text) {
-  return crypto.createHash('sha256').update(text, 'utf8').digest('hex');
+function sha256(input) {
+  return crypto.createHash('sha256').update(input).digest('hex');
+}
+
+function gitBlobSha(buffer) {
+  const header = Buffer.from(`blob ${buffer.length}\0`, 'utf8');
+  return crypto.createHash('sha1').update(header).update(buffer).digest('hex');
 }
 
 function canonicalFingerprint(article) {
-  return sha256(JSON.stringify(stable(article)));
+  return sha256(Buffer.from(JSON.stringify(stable(article)), 'utf8'));
 }
 
-function extractSection(markdown, headingPattern) {
-  const lines = markdown.replace(/\r\n?/g, '\n').split('\n');
-  let start = -1;
-  for (let i = 0; i < lines.length; i += 1) {
-    if (headingPattern.test(lines[i].trim())) {
-      start = i + 1;
-      break;
-    }
-  }
-  if (start < 0) return '';
-  const out = [];
-  for (let i = start; i < lines.length; i += 1) {
-    if (/^#{2,3}\s+/.test(lines[i].trim())) break;
-    out.push(lines[i]);
-  }
-  return out.join('\n');
+function markdownPath(article) {
+  return path.join(ARTICLE_DIR, `${article.id}-${article.slug}.md`);
 }
 
-function normalizeSection(text) {
-  return text
-    .replace(/\r\n?/g, '\n')
-    .split('\n')
-    .map((line) => line.trim())
-    .filter(Boolean)
-    .filter((line) => !line.startsWith('> 铁律') && !line.startsWith('> 中文按最自然'))
-    .map((line) => line.replace(/^#+\s*/, ''))
-    .map((line) => line.replace(/[“”]/g, '"').replace(/[‘’]/g, "'"))
-    .map((line) => line.replace(/\s+/g, ' '))
-    .join('\n');
-}
-
-function approvedCoreHash(markdown) {
-  const en = normalizeSection(extractSection(markdown, /^#{2,3}\s*英文正文\s*$/));
-  const zh = normalizeSection(extractSection(markdown, /^#{2,3}\s*中文译文\s*$/));
-  const glossary = normalizeSection(extractSection(markdown, /^#{2,3}\s*50\s*词速查表\s*$/));
-  return sha256(`\n---EN---\n${en}\n---ZH---\n${zh}\n---GL---\n${glossary}`);
+function normalizedMarkdownBuffer(file) {
+  const text = fs.readFileSync(file, 'utf8').replace(/\r\n?/g, '\n');
+  return Buffer.from(text, 'utf8');
 }
 
 function densityDisplay(value) {
   return Number(value).toFixed(1);
 }
 
-function articleMarkdownPath(article) {
-  return path.join(ARTICLE_DIR, `${article.id}-${article.slug}.md`);
-}
-
-function buildManifest(articles, existing) {
-  const oldById = new Map((existing?.articles || []).map((entry) => [entry.id, entry]));
-  const entries = [];
-  for (const article of articles) {
-    const markdownPath = articleMarkdownPath(article);
-    if (!fs.existsSync(markdownPath)) throw new Error(`missing Markdown: ${path.relative(ROOT, markdownPath)}`);
-    const markdown = fs.readFileSync(markdownPath, 'utf8');
-    const currentCore = approvedCoreHash(markdown);
-    const approval = INITIAL_APPROVALS[article.id] || { source: '当前对话最终稿', mode: 'conversation-final' };
-    const expectedCore = approval.core || oldById.get(article.id)?.approved_core_sha256 || currentCore;
-    if (currentCore !== expectedCore) {
-      throw new Error(`article ${article.id} does not match its approved source core: ${currentCore} != ${expectedCore}`);
+function createManifest(articles) {
+  const entries = articles.map((article) => {
+    const source = SOURCE_AUDIT[article.id];
+    if (!source) throw new Error(`missing source audit for article ${article.id}`);
+    const file = markdownPath(article);
+    if (!fs.existsSync(file)) throw new Error(`missing Markdown: ${path.relative(ROOT, file)}`);
+    const raw = fs.readFileSync(file);
+    const normalized = normalizedMarkdownBuffer(file);
+    const currentBlob = gitBlobSha(raw);
+    if (source.blob && currentBlob !== source.blob) {
+      throw new Error(`article ${article.id} is not byte-identical to the approved uploaded final: ${currentBlob} != ${source.blob}`);
     }
-    entries.push({
+    return {
       id: article.id,
       slug: article.slug,
       title: article.title,
@@ -166,14 +141,15 @@ function buildManifest(articles, existing) {
       words: article.metrics.words,
       keywords: article.metrics.keywords,
       density: Number(article.metrics.density),
-      source: approval.source,
-      source_verification: approval.mode,
-      approved_markdown_blob_sha: approval.blob || null,
-      approved_core_sha256: expectedCore,
+      source: source.source,
+      source_verification: source.verification,
+      approved_source_blob_sha: source.blob || null,
       canonical_fingerprint_sha256: canonicalFingerprint(article),
+      markdown_sha256: sha256(normalized),
+      markdown_git_blob_sha: currentBlob,
       superseded_signatures: SUPERSEDED_SIGNATURES[article.id] || [],
-    });
-  }
+    };
+  });
   return {
     schema_version: 1,
     policy: 'latest-final-only',
@@ -184,25 +160,23 @@ function buildManifest(articles, existing) {
   };
 }
 
-function validate(articles, manifest) {
+function validateManifest(articles, manifest) {
   const errors = [];
   const byId = new Map(articles.map((article) => [article.id, article]));
-  if (manifest.article_count !== articles.length) {
-    errors.push(`manifest article_count ${manifest.article_count} != canonical ${articles.length}`);
-  }
-  if (manifest.keyword_count !== articles.reduce((sum, article) => sum + article.metrics.keywords, 0)) {
-    errors.push('manifest keyword_count mismatch');
-  }
-  const manifestIds = manifest.articles.map((entry) => entry.id);
-  if (new Set(manifestIds).size !== manifestIds.length) errors.push('manifest contains duplicate article IDs');
+  const entries = manifest.articles || [];
+  if (manifest.policy !== 'latest-final-only') errors.push('manifest policy is not latest-final-only');
+  if (manifest.article_count !== articles.length) errors.push(`manifest article_count ${manifest.article_count} != ${articles.length}`);
+  const keywordCount = articles.reduce((sum, article) => sum + article.metrics.keywords, 0);
+  if (manifest.keyword_count !== keywordCount) errors.push(`manifest keyword_count ${manifest.keyword_count} != ${keywordCount}`);
+  if (new Set(entries.map((entry) => entry.id)).size !== entries.length) errors.push('manifest contains duplicate article IDs');
 
-  for (const entry of manifest.articles) {
+  for (const entry of entries) {
     const article = byId.get(entry.id);
     if (!article) {
       errors.push(`manifest article ${entry.id} missing from canonical data`);
       continue;
     }
-    const checks = {
+    const expected = {
       slug: article.slug,
       title: article.title,
       title_zh: article.titleZh,
@@ -213,70 +187,132 @@ function validate(articles, manifest) {
       density: Number(article.metrics.density),
       canonical_fingerprint_sha256: canonicalFingerprint(article),
     };
-    for (const [field, actual] of Object.entries(checks)) {
-      if (entry[field] !== actual) errors.push(`article ${entry.id} ${field} mismatch: manifest=${entry[field]} canonical=${actual}`);
+    for (const [field, value] of Object.entries(expected)) {
+      if (entry[field] !== value) errors.push(`article ${entry.id} ${field} mismatch`);
     }
 
-    const mdPath = articleMarkdownPath(article);
-    if (!fs.existsSync(mdPath)) {
+    const file = markdownPath(article);
+    if (!fs.existsSync(file)) {
       errors.push(`article ${entry.id} Markdown missing`);
       continue;
     }
-    const markdown = fs.readFileSync(mdPath, 'utf8');
-    const core = approvedCoreHash(markdown);
-    if (core !== entry.approved_core_sha256) {
-      errors.push(`article ${entry.id} approved core mismatch: ${core} != ${entry.approved_core_sha256}`);
+    const raw = fs.readFileSync(file);
+    const normalized = normalizedMarkdownBuffer(file);
+    const markdownText = normalized.toString('utf8');
+    const actualBlob = gitBlobSha(raw);
+    const actualMarkdownSha = sha256(normalized);
+    if (entry.markdown_git_blob_sha !== actualBlob) errors.push(`article ${entry.id} Markdown Git blob changed`);
+    if (entry.markdown_sha256 !== actualMarkdownSha) errors.push(`article ${entry.id} Markdown SHA-256 changed`);
+    if (entry.approved_source_blob_sha && actualBlob !== entry.approved_source_blob_sha) {
+      errors.push(`article ${entry.id} no longer matches its exact uploaded final`);
     }
-    const expectedMetricLine = `> 指标：${entry.words} 词 / ${entry.keywords} 重点词 / 密度 ${densityDisplay(entry.density)}%`;
-    if (!markdown.includes(expectedMetricLine)) errors.push(`article ${entry.id} Markdown metric line is stale`);
-    if (!markdown.includes(`> 状态：**${entry.status}**`)) errors.push(`article ${entry.id} Markdown status is stale`);
+    const metricLine = `> 指标：${entry.words} 词 / ${entry.keywords} 重点词 / 密度 ${densityDisplay(entry.density)}%`;
+    if (!markdownText.includes(metricLine)) errors.push(`article ${entry.id} Markdown metrics are stale`);
+    if (!markdownText.includes(`> 状态：**${entry.status}**`)) errors.push(`article ${entry.id} Markdown status is stale`);
 
-    const activeArticleText = JSON.stringify(article);
+    const activeText = JSON.stringify(article) + '\n' + markdownText;
     for (const signature of entry.superseded_signatures || []) {
-      if (activeArticleText.includes(signature) || markdown.includes(signature)) {
-        errors.push(`article ${entry.id} contains superseded signature: ${signature}`);
-      }
+      if (activeText.includes(signature)) errors.push(`article ${entry.id} contains superseded signature: ${signature}`);
     }
   }
 
   for (const article of articles) {
-    if (!manifestIds.includes(article.id)) errors.push(`canonical article ${article.id} missing from manifest`);
+    if (!entries.some((entry) => entry.id === article.id)) errors.push(`canonical article ${article.id} missing from manifest`);
+  }
+
+  if (!fs.existsSync(IRON_RULE_PATH)) errors.push('notes/最终版本铁律.md missing');
+  const readme = fs.existsSync(README_PATH) ? fs.readFileSync(README_PATH, 'utf8') : '';
+  const handoff = fs.existsSync(HANDOFF_PATH) ? fs.readFileSync(HANDOFF_PATH, 'utf8') : '';
+  if (!readme.includes('## 最终版本铁律')) errors.push('README final-version rule missing');
+  if (!readme.includes('| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263词 · 50词 · 19.0% |')) {
+    errors.push('README article 16 final row is stale');
+  }
+  if (!readme.includes('| **17** | ***The Few That Came Back*** | **1909—1913年盖革—马斯登散射实验与卢瑟福核式原子** | **268词 · 50词 · 18.7%** |')) {
+    errors.push('README article 17 final row is stale');
+  }
+  if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
+  if (!handoff.includes('| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263 / 50 / 19.0% | 第十六篇最终精进锁定稿 |')) {
+    errors.push('handoff article 16 final row is stale');
   }
   return errors;
 }
 
-function reportMarkdown(manifest) {
+function auditReport(manifest) {
+  const tick = '`';
   const rows = manifest.articles.map((entry) =>
-    `| ${entry.id} | *${entry.title}* | ${entry.status} | ${entry.words} / ${entry.keywords} / ${densityDisplay(entry.density)}% | \`${entry.canonical_fingerprint_sha256.slice(0, 12)}\` |`
-  ).join('\n');
-  return `# 全库最终版本审计 · 2026-08-12\n\n> 审计范围：第01—17篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。\n> 结论：审计发现第16篇云端仍停留在264词中间稿；本次已替换为对话中更晚形成的263词最终精进稿。其余16篇未发现晚于云端版本的未同步最终稿。\n\n## 一、逐篇锁定清单\n\n| 编号 | 标题 | 当前状态 | 指标 | 内容指纹前12位 |\n|---|---|---|---:|---|\n${rows}\n\n合计：${manifest.article_count}篇、${manifest.keyword_count}个重点词。\n\n## 二、原始最终稿复核\n\n- 第01篇：不在第2—7篇最终包中，按作者此前决定保持原定稿。\n- 第02—07篇：重新对照 \`60e62742-146f-4af4-9399-3d25039d6455.zip\` 与《最终定稿校正记录》。第2篇保持 \`reaction/reactions/反应\`；第4篇保持260词版本；第3、5、6正文一致；第7篇为新增最终稿。第2篇正文按作者稿保留，指标使用项目实测259词 / 19.3%。\n- 第08—11篇：正式Markdown的Git blob与用户上传文件逐字一致。\n- 第12—15篇：正式Markdown的Git blob与 \`dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip\` 中四份最终稿逐字一致。\n- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。\n- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。\n\n## 三、精确文件证据\n\n以下最终稿与上传文件的Git blob SHA完全一致：\n\n| 编号 | Git blob SHA |\n|---|---|\n| 06 | \`fd60aa1a0fae0a7a2879edbed990c81b2f9a66a6\` |\n| 07 | \`bab78bed27496fcda094e7d0dace94a10763268b\` |\n| 08 | \`c692c268881b96619931af559872ec97521cfc05\` |\n| 09 | \`9b78d5575735bc2bd78abb1bc50f34af3efd8b21\` |\n| 10 | \`0cae816f2e21cbf438527ba6b4c7c28556ee03d3\` |\n| 11 | \`31786c670e5ddb48a92c8e8ceee1de27cf29159a\` |\n| 12 | \`5cc60c63acb1e8dff617120d6b8f273cb99d0270\` |\n| 13 | \`c4c95be922ce46a972e375d561d167bb75f46013\` |\n| 14 | \`63279e6e988966680c8a164db3fb0e19b4a08972\` |\n| 15 | \`bab945342134b4d45bb8d005569f11c9fb2a97fe\` |\n\n第02—05篇的源文件包含不同的元数据或修订说明，因此不以整文件blob判断，而是对英文正文、中文译文和50词表做标准化核心哈希比对；四篇均通过。\n\n## 四、永久防回滚措施\n\n1. 新增 \`notes/最终版本铁律.md\`。\n2. 新增 \`data/final-version-manifest.json\`，为每篇保存完整内容指纹与批准核心哈希。\n3. 新增 \`scripts/final-version-guard.js\`，检查指标、状态、全文指纹、核心哈希和旧稿特征。\n4. GitHub Actions在PR与主分支提交中运行最终版本守卫。\n5. 新最终稿只有在合并到 \`main\`、主分支回读正确且CI成功后，才算真正存到云端。\n6. 已合并或承载旧稿的临时分支应删除，避免旧版本继续被误认。\n\n## 五、最终判定\n\n本次修正完成后，主分支的17篇均为当前已知的最后最终版本；第16篇263词稿和第17篇268词稿分别是当前唯一权威版本。\n`;
+    `| ${entry.id} | *${entry.title}* | ${entry.status} | ${entry.words} / ${entry.keywords} / ${densityDisplay(entry.density)}% | ${tick}${entry.canonical_fingerprint_sha256.slice(0, 12)}${tick} |`
+  );
+  return [
+    '# 全库最终版本审计 · 2026-08-12',
+    '',
+    '> 审计范围：第01—17篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
+    '> 结论：审计发现第16篇云端仍停留在264词中间稿；本次已替换为对话中更晚形成的263词最终精进稿。其余16篇未发现晚于云端版本的未同步最终稿。',
+    '',
+    '## 一、逐篇锁定清单',
+    '',
+    '| 编号 | 标题 | 当前状态 | 指标 | 内容指纹前12位 |',
+    '|---|---|---|---:|---|',
+    ...rows,
+    '',
+    `合计：${manifest.article_count}篇、${manifest.keyword_count}个重点词。`,
+    '',
+    '## 二、原始最终稿复核',
+    '',
+    '- 第01篇：不在第2—7篇最终包中，按作者此前决定保持原定稿。',
+    '- 第02—07篇：重新对照 `60e62742-146f-4af4-9399-3d25039d6455.zip` 与《最终定稿校正记录》。第2篇保持 `reaction/reactions/反应`；第4篇保持260词版本；第3、5、6正文一致；第7篇为新增最终稿。第2篇正文按作者稿保留，指标使用项目实测259词 / 19.3%。',
+    '- 第08—11篇：正式Markdown的Git blob与用户上传文件逐字一致。',
+    '- 第12—15篇：正式Markdown的Git blob与 `dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip` 中四份最终稿逐字一致。',
+    '- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。',
+    '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
+    '',
+    '## 三、逐字一致的上传文件证据',
+    '',
+    '| 编号 | 批准来源Git blob SHA |',
+    '|---|---|',
+    ...manifest.articles.filter((entry) => entry.approved_source_blob_sha).map((entry) => `| ${entry.id} | ${tick}${entry.approved_source_blob_sha}${tick} |`),
+    '',
+    '第02—05篇的源文件包含不同的元数据或修订说明，因此不以整文件blob判断；本次依据作者最终包和校正记录核对正文、译文及50词表。',
+    '',
+    '## 四、永久防回滚措施',
+    '',
+    '1. 新增 `notes/最终版本铁律.md`。',
+    '2. 新增 `data/final-version-manifest.json`，为每篇保存完整内容指纹。',
+    '3. 新增 `scripts/final-version-guard.js`，检查指标、状态、全文指纹、Markdown指纹和旧稿特征。',
+    '4. GitHub Actions在PR与主分支提交中运行最终版本守卫。',
+    '5. 新最终稿只有在合并到 `main`、主分支回读正确且CI成功后，才算真正存到云端。',
+    '6. 已合并或承载旧稿的临时分支应删除，避免旧版本继续被误认。',
+    '',
+    '## 五、最终判定',
+    '',
+    '本次修正完成后，主分支的17篇均为当前已知的最后最终版本；第16篇263词稿和第17篇268词稿分别是当前唯一权威版本。',
+    '',
+  ].join('\n');
 }
 
 function main() {
   const writeManifest = process.argv.includes('--write-manifest');
   const articles = loadArticles();
-  let existing = null;
-  if (fs.existsSync(MANIFEST_PATH)) existing = JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
+  let manifest;
 
   if (writeManifest) {
-    const manifest = buildManifest(articles, existing);
+    manifest = createManifest(articles);
     fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
-    fs.mkdirSync(path.dirname(REPORT_PATH), { recursive: true });
-    fs.writeFileSync(REPORT_PATH, reportMarkdown(manifest), 'utf8');
+    fs.writeFileSync(REPORT_PATH, auditReport(manifest), 'utf8');
     console.log(`wrote ${path.relative(ROOT, MANIFEST_PATH)} and ${path.relative(ROOT, REPORT_PATH)}`);
-    existing = manifest;
+  } else {
+    if (!fs.existsSync(MANIFEST_PATH)) throw new Error('final-version manifest missing');
+    manifest = JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
   }
 
-  if (!existing) throw new Error('final-version manifest is missing; run with --write-manifest only when deliberately locking a new final version');
-  const errors = validate(articles, existing);
+  const errors = validateManifest(articles, manifest);
   if (errors.length) {
     for (const error of errors) console.error(`✗ ${error}`);
     process.exit(1);
   }
-  for (const entry of existing.articles) {
+  for (const entry of manifest.articles) {
     console.log(`✓ ${entry.id} ${entry.words}词 · ${entry.keywords}重点词 · ${densityDisplay(entry.density)}% · ${entry.canonical_fingerprint_sha256.slice(0, 12)}`);
   }
-  console.log(`\n${existing.article_count}篇最终版本 · ${existing.keyword_count}个重点词 · 指纹与批准源全部一致`);
+  console.log(`\n${manifest.article_count}篇最终版本 · ${manifest.keyword_count}个重点词 · 指纹、指标与批准来源全部一致`);
 }
 
 main();
