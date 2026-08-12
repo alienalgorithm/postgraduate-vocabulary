@@ -19,7 +19,7 @@ jobs:
         with:
           ref: article-18-development
 
-      - name: Export glossary lemmas and bold surface forms
+      - name: Export compact glossary list
         shell: bash
         run: |
           set -euo pipefail
@@ -33,23 +33,18 @@ jobs:
             require(path.resolve('data', file));
           }
           const articles = [...globalThis.SITE.ARTICLES].sort((a,b) => a.id.localeCompare(b.id));
-          const lemmas = [];
-          const surfaces = [];
-          for (const article of articles) {
-            for (const item of article.glossary) lemmas.push({ id: article.id, word: item.w.toLowerCase() });
-            for (const para of article.paras) {
-              for (const match of para.en.matchAll(/\*\*(.+?)\*\*/g)) surfaces.push({ id: article.id, word: match[1].toLowerCase() });
-            }
-          }
-          fs.writeFileSync('tmp/used-words.json', JSON.stringify({ articleCount: articles.length, lemmaCount: lemmas.length, surfaceCount: surfaces.length, lemmas, surfaces }, null, 2) + '\n');
+          const lemmas = articles.flatMap(a => a.glossary.map(item => item.w.toLowerCase()));
+          const surfaces = articles.flatMap(a => a.paras.flatMap(p => [...p.en.matchAll(/\*\*(.+?)\*\*/g)].map(m => m[1].toLowerCase())));
+          fs.writeFileSync('tmp/used-lemmas.txt', lemmas.sort().join(' ') + '\n');
+          fs.writeFileSync('tmp/used-surfaces.txt', surfaces.sort().join(' ') + '\n');
           NODE
 
-      - name: Commit export
+      - name: Commit compact export
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp/used-words.json
-          git commit -m "chore: export used vocabulary for article 18"
+          git add tmp/used-lemmas.txt tmp/used-surfaces.txt
+          git commit -m "chore: export compact used vocabulary for article 18"
           git push origin HEAD:article-18-development
