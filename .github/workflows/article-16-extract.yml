@@ -1,4 +1,4 @@
-name: Prepare article 16 vocabulary audit
+name: Validate article 16 draft
 
 on:
   push:
@@ -6,24 +6,30 @@ on:
       - article-16-development
     paths:
       - .github/workflows/article-16-extract.yml
+      - data/article-16.js
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  extract:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Check out development branch
         uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
 
-      - name: Extract all used glossary lemmas
+      - name: Run the full sixteen-article archive audit
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p tmp
+          python3 scripts/build_markdown.py | tee /tmp/build-report.txt
+          grep -q "16 篇已生成 · 800 个重点词 · 全部通过" /tmp/build-report.txt
+
+      - name: Check article data and exact project metrics
+        shell: bash
+        run: |
+          set -euo pipefail
+          node --check data/article-16.js
           node <<'NODE'
           const fs = require('fs');
           const path = require('path');
@@ -32,21 +38,13 @@ jobs:
           for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) {
             require(path.resolve('data', file));
           }
-          const rows = [];
-          for (const article of globalThis.SITE.ARTICLES) {
-            for (const item of article.glossary || []) rows.push(`${String(article.id).padStart(2, '0')}\t${item.w}\t${item.zh}`);
+          const article = globalThis.SITE.ARTICLES.find(item => item.id === '16');
+          if (!article) throw new Error('article 16 missing');
+          if (article.metrics.words !== 291 || article.metrics.keywords !== 50 || article.metrics.density !== 17.2) {
+            throw new Error('article 16 metrics mismatch');
           }
-          fs.writeFileSync('tmp/used-words-15.tsv', rows.join('\n') + '\n', 'utf8');
-          console.log(`extracted ${rows.length} glossary entries`);
+          if (article.paras.length !== 5 || article.glossary.length !== 50) {
+            throw new Error('article 16 structure mismatch');
+          }
+          console.log('article 16 exact metrics and structure verified');
           NODE
-          test "$(wc -l < tmp/used-words-15.tsv)" -eq 750
-
-      - name: Commit audit file
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp/used-words-15.tsv
-          git commit -m "chore: extract 750 used glossary words for article 16"
-          git push origin HEAD:article-16-development
