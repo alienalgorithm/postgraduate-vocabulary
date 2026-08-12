@@ -160,7 +160,7 @@ handoff = replaceOnce(
 );
 handoff = replaceOnce(
   handoff,
-  '- 旧的296词版本已经废弃。',
+  '旧的296词版本已经废弃。',
   lines([
     '- 296词初稿与264词中间稿均已废弃。',
     '- 263词最终稿必须包含 `traces drawn by seismographs`、`arrivals appeared there`、`ruled out the diffraction explanation`，并以 `An expected absence is itself a prediction` 收束。',
