@@ -27,11 +27,20 @@ jobs:
           grep -q "17 篇已生成 · 850 个重点词 · 全部通过" /tmp/build-report.txt
           git diff --exit-code -- articles
 
+      - name: Enforce the latest final version of every article
+        shell: bash
+        run: |
+          set -euo pipefail
+          node scripts/final-version-guard.js
+          test -f data/final-version-manifest.json
+          test -f notes/最终版本铁律.md
+          test -f notes/全库最终版本审计_2026-08-12.md
+
       - name: Check JavaScript syntax
         shell: bash
         run: |
           set -euo pipefail
-          for file in data/article-*.js assets/site.js assets/js/*.js; do
+          for file in data/article-*.js assets/site.js assets/js/*.js scripts/final-version-guard.js; do
             node --check "$file"
           done
 
@@ -48,7 +57,9 @@ jobs:
           grep -q 'the-few-that-came-back' index.html
           grep -q 'the-few-that-came-back' sitemap.xml
           grep -q '共有 \*\*17篇文章、850个重点词\*\*' README.md
+          grep -q '## 最终版本铁律' README.md
           grep -q '当前权威状态：\*\*十七篇最终定稿，850个重点词' notes/对话交接文档.md
+          grep -q '## 2. 最终版本铁律（最高优先级）' notes/对话交接文档.md
           grep -q '下一篇编号为 \*\*18\*\*' notes/对话交接文档.md
 
       - name: Check articles 16 and 17 final metrics
@@ -64,14 +75,14 @@ jobs:
             require(path.resolve('data', file));
           }
           const expected = {
-            '16': { words: 264, keywords: 50, density: 18.9 },
-            '17': { words: 268, keywords: 50, density: 18.7 }
+            '16': { words: 263, keywords: 50, density: 19.0, status: '第十六篇最终精进锁定稿' },
+            '17': { words: 268, keywords: 50, density: 18.7, status: '第十七篇最终精进锁定稿' }
           };
           for (const [id, metrics] of Object.entries(expected)) {
             const article = globalThis.SITE.ARTICLES.find(item => item.id === id);
             if (!article) throw new Error(`article ${id} missing`);
-            if (article.metrics.words !== metrics.words || article.metrics.keywords !== metrics.keywords || article.metrics.density !== metrics.density) {
-              throw new Error(`article ${id} final metrics mismatch`);
+            if (article.metrics.words !== metrics.words || article.metrics.keywords !== metrics.keywords || article.metrics.density !== metrics.density || article.status !== metrics.status) {
+              throw new Error(`article ${id} final identity mismatch`);
             }
             if (article.metrics.words < 240 || article.metrics.words > 270) {
               throw new Error(`article ${id} word count outside preferred 240-270 range`);
@@ -80,5 +91,5 @@ jobs:
               throw new Error(`article ${id} structure mismatch`);
             }
           }
-          console.log('articles 16 and 17 final metrics, preferred range and structure verified');
+          console.log('articles 16 and 17 latest final identities verified');
           NODE
