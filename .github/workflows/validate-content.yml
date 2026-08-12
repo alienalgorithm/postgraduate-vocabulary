@@ -24,7 +24,8 @@ jobs:
         run: |
           set -euo pipefail
           python3 scripts/build_markdown.py | tee /tmp/build-report.txt
-          grep -q "16 篇已生成 · 800 个重点词 · 全部通过" /tmp/build-report.txt
+          grep -q "17 篇已生成 · 850 个重点词 · 全部通过" /tmp/build-report.txt
+          git diff --exit-code -- articles
 
       - name: Check JavaScript syntax
         shell: bash
@@ -40,15 +41,17 @@ jobs:
           set -euo pipefail
           for page in index.html article.html words.html; do
             grep -q 'data/article-16.js' "$page"
+            grep -q 'data/article-17.js' "$page"
           done
-          grep -q '十六篇《经济学人》风格双语科普短文' index.html
-          grep -q '800词词库' words.html
-          grep -q 'the-wave-that-should-not-have-arrived' index.html
-          grep -q 'the-wave-that-should-not-have-arrived' sitemap.xml
-          grep -q '共有 \*\*16篇文章、800个重点词\*\*' README.md
-          grep -q '当前权威状态：\*\*十六篇最终定稿，800个重点词' notes/对话交接文档.md
+          grep -q '十七篇《经济学人》风格双语科普短文' index.html
+          grep -q '850词词库' words.html
+          grep -q 'the-few-that-came-back' index.html
+          grep -q 'the-few-that-came-back' sitemap.xml
+          grep -q '共有 \*\*17篇文章、850个重点词\*\*' README.md
+          grep -q '当前权威状态：\*\*十七篇最终定稿，850个重点词' notes/对话交接文档.md
+          grep -q '下一篇编号为 \*\*18\*\*' notes/对话交接文档.md
 
-      - name: Check article 16 final metrics and preferred length
+      - name: Check articles 16 and 17 final metrics
         shell: bash
         run: |
           set -euo pipefail
@@ -60,16 +63,22 @@ jobs:
           for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) {
             require(path.resolve('data', file));
           }
-          const article = globalThis.SITE.ARTICLES.find(item => item.id === '16');
-          if (!article) throw new Error('article 16 missing');
-          if (article.metrics.words !== 264 || article.metrics.keywords !== 50 || article.metrics.density !== 18.9) {
-            throw new Error('article 16 final metrics mismatch');
+          const expected = {
+            '16': { words: 264, keywords: 50, density: 18.9 },
+            '17': { words: 264, keywords: 50, density: 18.9 }
+          };
+          for (const [id, metrics] of Object.entries(expected)) {
+            const article = globalThis.SITE.ARTICLES.find(item => item.id === id);
+            if (!article) throw new Error(`article ${id} missing`);
+            if (article.metrics.words !== metrics.words || article.metrics.keywords !== metrics.keywords || article.metrics.density !== metrics.density) {
+              throw new Error(`article ${id} final metrics mismatch`);
+            }
+            if (article.metrics.words < 240 || article.metrics.words > 270) {
+              throw new Error(`article ${id} word count outside preferred 240-270 range`);
+            }
+            if (article.paras.length !== 5 || article.glossary.length !== 50) {
+              throw new Error(`article ${id} structure mismatch`);
+            }
           }
-          if (article.metrics.words < 240 || article.metrics.words > 270) {
-            throw new Error('article 16 word count outside preferred 240-270 range');
-          }
-          if (article.paras.length !== 5 || article.glossary.length !== 50) {
-            throw new Error('article 16 structure mismatch');
-          }
-          console.log('article 16 final metrics, preferred range and structure verified');
+          console.log('articles 16 and 17 final metrics, preferred range and structure verified');
           NODE
