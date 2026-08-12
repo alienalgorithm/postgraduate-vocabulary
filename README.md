@@ -1,6 +1,6 @@
 # 记词 · 考研词汇双语读本
 
-用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和800词索引。
+用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和850词索引。
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
@@ -8,7 +8,7 @@
 
 ## 当前最终定稿
 
-截至2026-08-12，共有 **16篇文章、800个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-12，共有 **17篇文章、850个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -27,21 +27,22 @@
 | 13 | *The Colour Returned in Patches* | 1944—1983年麦克林托克、玉米斑驳与转座元件 | 262词 · 50词 · 19.1% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-colour-returned-in-patches) · [Markdown](articles/13-the-colour-returned-in-patches.md) |
 | 14 | *The Ship Built to Be Trapped* | 1881—1896年“前进号”、跨北冰洋漂流与深海盆地 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-ship-built-to-be-trapped) · [Markdown](articles/14-the-ship-built-to-be-trapped.md) |
 | 15 | *When a Broken Pipe Applied the Brakes* | 1869—1893年威斯汀豪斯、自动空气制动与失效安全逻辑 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=when-a-broken-pipe-applied-the-brakes) · [Markdown](articles/15-when-a-broken-pipe-applied-the-brakes.md) |
-| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **264词 · 50词 · 18.9%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
+| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 264词 · 50词 · 18.9% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
+| **17** | ***The Few That Came Back*** | **1909—1913年盖革—马斯登散射实验与卢瑟福核式原子** | **264词 · 50词 · 18.9%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
 
-第16篇以264词最终精校稿为准：它先建立“直达P波不应进入104°—140°阴影区”的旧模型，再让微弱P′到达记录逼出一个更快的中央内核；结尾把异常、预测与模型边界收束为一句方法论判断——缺失并非空白，它只相对于某个模型成立。
+第17篇以264词最终精校稿为准。它不把历史压缩成“卢瑟福做了一次金箔实验”：马斯登逐一计数折返闪光，盖革维持实验严谨性，卢瑟福提出中心集中模型；1909年的异常观察又在1911年的定量理论和1912—1913年的系统测量中经受检验。正文还明确指出“约每8000个中有一个折返”来自铂实验，避免把具体数字误套到流行的金箔叙事。
 
 ---
 
 ## 网站已完成的同步
 
-网站当前实际加载第01—16篇，并自动计算16篇、800个重点词和1745个尚未使用词元。
+网站当前实际加载第01—17篇，并自动计算17篇、850个重点词和1695个尚未使用词元。
 
 ### 首页
 
 - 自动统计文章数、重点词数、平均篇幅与剩余词量
-- 第16篇作为最新定稿专题展示
-- 十六篇文章卡片全部由数据层自动生成
+- 第17篇作为最新定稿专题展示
+- 十七篇文章卡片全部由数据层自动生成
 - 深浅主题、响应式排版和无障碍焦点状态
 
 ### 文章阅读器
@@ -55,7 +56,7 @@
 - 史实核对与来源分层展示
 - 上一篇／下一篇导航
 
-### 800词词库
+### 850词词库
 
 - 中英文实时搜索
 - 按文章筛选
@@ -79,6 +80,7 @@ data/article-13.js    # 第13篇
 data/article-14.js    # 第14篇
 data/article-15.js    # 第15篇
 data/article-16.js    # 第16篇
+data/article-17.js    # 第17篇
 ```
 
 它们共同构成 `window.SITE.ARTICLES`。网站三个页面与Markdown生成脚本都加载同一数据层，因此不会出现“网页一版、Markdown另一版”。
@@ -96,7 +98,7 @@ python3 scripts/build_markdown.py
 - 校验词数、密度和20%红线
 - 检查文章编号、slug及跨篇精确重复
 
-仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套16篇全量校验，并检查数据脚本与网站入口。
+仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套17篇全量校验，并检查数据脚本与网站入口。
 
 ---
 
@@ -105,7 +107,7 @@ python3 scripts/build_markdown.py
 ```text
 ├── index.html                 首页
 ├── article.html               双语阅读器
-├── words.html                 800词索引
+├── words.html                 850词索引
 ├── 404.html
 ├── manifest.webmanifest
 ├── robots.txt
@@ -117,9 +119,9 @@ python3 scripts/build_markdown.py
 │   └── share-card.svg
 ├── data/
 │   ├── articles.js            第01—07篇
-│   └── article-08.js—article-16.js
+│   └── article-08.js—article-17.js
 ├── articles/
-│   └── 01—16 Markdown定稿
+│   └── 01—17 Markdown定稿
 ├── scripts/
 │   └── build_markdown.py
 ├── tools/
@@ -134,7 +136,8 @@ python3 scripts/build_markdown.py
     ├── 第八篇入库与网站重构记录_2026-08-10.md
     ├── 第九至第十一篇入库记录_2026-08-11.md
     ├── 第十二至第十五篇入库记录_2026-08-11.md
-    └── 第十六篇入库记录_2026-08-12.md
+    ├── 第十六篇入库记录_2026-08-12.md
+    └── 第十七篇入库记录_2026-08-12.md
 ```
 
 ---
