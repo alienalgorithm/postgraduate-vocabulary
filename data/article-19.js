@@ -27,8 +27,8 @@
       "zh": "为在中止下降时仍能返回轨道，**交会**(rendezvous)**雷达**(radar)保持开启，作为一项**应急安排**(contingency)。一种模式**配置**(configuration)叠加电气**失配**(mismatch)，不断产生计数器**请求**(requests)。登月程序本已带来沉重**工作负载**(workload)；一个周期性显示任务耗尽了狭窄的性能**余量**(headroom)。任务开始**排队**(queue)，涌入速度超过处理器的完成速度，最终触发执行程序**溢出**(overflow)。"
     },
     {
-      "en": "Yet the alarm showed a defence working. The computer’s **executive** assigned every job a **priority**. When the **allocator** ran out of room, a **restart** cleared unfinished jobs and returned selected programs to protected **checkpoints**. It could **retain** **critical** state, **discard** lower-ranked display work, then **resume** guidance without losing the landing **trajectory**.",
-      "zh": "但警报也说明，一道防线正在发挥作用。计算机的**执行程序**(executive)为每项任务分配**优先级**(priority)。当任务**分配程序**(allocator)无处再放新作业时，一次**重新启动**(restart)会清除未完成任务，并让选定程序回到受保护的**检查点**(checkpoints)。系统能够**保留**(retain)**关键的**(critical)状态，**丢弃**(discard)优先级较低的显示任务，再**恢复**(resume)制导，使飞船不至偏离着陆**轨迹**(trajectory)。"
+      "en": "Yet the alarm showed a defence working. The computer’s **executive** assigned every job a **priority**. When the **allocator** ran out of room, a **restart** cleared unfinished jobs and returned selected programs to protected **checkpoints**. It could **retain** **critical** state, **discard** lower-ranked monitor work, then **resume** guidance without losing the landing **trajectory**.",
+      "zh": "但警报也说明，一道防线正在发挥作用。计算机的**执行程序**(executive)为每项任务分配**优先级**(priority)。当任务**分配程序**(allocator)无处再放新作业时，一次**重新启动**(restart)会清除未完成任务，并让选定程序回到受保护的**检查点**(checkpoints)。系统能够**保留**(retain)**关键的**(critical)状态，**丢弃**(discard)优先级较低的监测显示任务，再**恢复**(resume)制导，使飞船不至偏离着陆**轨迹**(trajectory)。"
     },
     {
       "en": "Software alone did not make the call. At Mission Control, guidance **officer** Steve Bales watched his **console** while back-room **specialist** Jack Garman identified the numbers from a list he had **compiled**. They checked **telemetry**: the readings remained **coherent**, with **speed**, **attitude** and the landing path under control. Bales’s **judgement** was “go”; Eagle could **proceed**.",

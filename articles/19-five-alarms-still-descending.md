@@ -13,7 +13,7 @@ On 20 July 1969, Apollo 11’s **lunar** **lander** Eagle began its powered **de
 
 The **rendezvous** **radar** stayed active as a **contingency** if an abort required return to orbit. A mode **configuration** and electrical **mismatch** generated rapid counter **requests**. The landing program already imposed a heavy **workload**; a periodic display job erased the narrow **headroom**. Tasks began to **queue** faster than the processor could finish them, triggering **overflow**.
 
-Yet the alarm showed a defence working. The computer’s **executive** assigned every job a **priority**. When the **allocator** ran out of room, a **restart** cleared unfinished jobs and returned selected programs to protected **checkpoints**. It could **retain** **critical** state, **discard** lower-ranked display work, then **resume** guidance without losing the landing **trajectory**.
+Yet the alarm showed a defence working. The computer’s **executive** assigned every job a **priority**. When the **allocator** ran out of room, a **restart** cleared unfinished jobs and returned selected programs to protected **checkpoints**. It could **retain** **critical** state, **discard** lower-ranked monitor work, then **resume** guidance without losing the landing **trajectory**.
 
 Software alone did not make the call. At Mission Control, guidance **officer** Steve Bales watched his **console** while back-room **specialist** Jack Garman identified the numbers from a list he had **compiled**. They checked **telemetry**: the readings remained **coherent**, with **speed**, **attitude** and the landing path under control. Bales’s **judgement** was “go”; Eagle could **proceed**.
 
@@ -30,7 +30,7 @@ The deeper lesson lay in **architecture**. A **resilient** system did not promis
 
 为在中止下降时仍能返回轨道，**交会**(rendezvous)**雷达**(radar)保持开启，作为一项**应急安排**(contingency)。一种模式**配置**(configuration)叠加电气**失配**(mismatch)，不断产生计数器**请求**(requests)。登月程序本已带来沉重**工作负载**(workload)；一个周期性显示任务耗尽了狭窄的性能**余量**(headroom)。任务开始**排队**(queue)，涌入速度超过处理器的完成速度，最终触发执行程序**溢出**(overflow)。
 
-但警报也说明，一道防线正在发挥作用。计算机的**执行程序**(executive)为每项任务分配**优先级**(priority)。当任务**分配程序**(allocator)无处再放新作业时，一次**重新启动**(restart)会清除未完成任务，并让选定程序回到受保护的**检查点**(checkpoints)。系统能够**保留**(retain)**关键的**(critical)状态，**丢弃**(discard)优先级较低的显示任务，再**恢复**(resume)制导，使飞船不至偏离着陆**轨迹**(trajectory)。
+但警报也说明，一道防线正在发挥作用。计算机的**执行程序**(executive)为每项任务分配**优先级**(priority)。当任务**分配程序**(allocator)无处再放新作业时，一次**重新启动**(restart)会清除未完成任务，并让选定程序回到受保护的**检查点**(checkpoints)。系统能够**保留**(retain)**关键的**(critical)状态，**丢弃**(discard)优先级较低的监测显示任务，再**恢复**(resume)制导，使飞船不至偏离着陆**轨迹**(trajectory)。
 
 但决定并非由软件独自作出。在任务控制中心，制导**控制员**(officer)史蒂夫·贝尔斯盯着自己的**控制台**(console)，后室**专家**(specialist)杰克·加尔曼则根据自己事先**编制的**(compiled)清单辨认警报编号。他们核对**遥测数据**(telemetry)：各项读数仍然**相互吻合**(coherent)，**速度**(speed)、**姿态**(attitude)和着陆路径都受控制。贝尔斯的**判断**(judgement)是“继续”；“鹰号”可以**继续下降**(proceed)。
 
