@@ -79,3 +79,5 @@ jobs:
             .github/workflows/validate-content.yml
           git commit -m "feat: lock article 19 and synchronize the 950-word site"
           git push origin HEAD:article-19-development
+
+# Rerun after correcting the README data-range matcher.
