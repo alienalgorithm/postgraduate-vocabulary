@@ -1,6 +1,6 @@
 # 记词 · 考研词汇双语读本
 
-用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和950词索引。
+用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1000词索引。
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
@@ -8,7 +8,7 @@
 
 ## 当前最终定稿
 
-截至2026-08-13，共有 **19篇文章、950个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-13，共有 **20篇文章、1000个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -31,6 +31,9 @@
 | 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
 | 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
 | **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |
+| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |
+
+第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
 
 第19篇以270词最终精进锁定稿为准。最终上限审查进一步修复了警报显示语序与五次警报计数，明确雷达开关配置和交流相位失配共同产生虚假计数请求，并把执行程序写成按优先级调度、在无空闲工作区时重启并从记录检查点恢复。遥测判断和警报边界也被收紧：警报提供可供行动的信息，却不会自动命令中止。结尾以“系统可以过载而不崩溃”重新定义稳健性。
 
@@ -51,13 +54,13 @@
 
 ## 网站已完成的同步
 
-网站当前实际加载第01—19篇，并自动计算19篇、950个重点词和1595个尚未使用词元。
+网站当前实际加载第01—20篇，并自动计算20篇、1000个重点词和1545个尚未使用词元。
 
 ### 首页
 
 - 自动统计文章数、重点词数、平均篇幅与剩余词量
-- 第19篇作为最新定稿专题展示
-- 十九篇文章卡片全部由数据层自动生成
+- 第20篇作为最新定稿专题展示
+- 二十篇文章卡片全部由数据层自动生成
 - 深浅主题、响应式排版和无障碍焦点状态
 
 ### 文章阅读器
@@ -71,7 +74,7 @@
 - 史实核对与来源分层展示
 - 上一篇／下一篇导航
 
-### 950词词库
+### 1000词词库
 
 - 中英文实时搜索
 - 按文章筛选
@@ -98,6 +101,7 @@ data/article-16.js    # 第16篇
 data/article-17.js    # 第17篇
 data/article-18.js    # 第18篇
 data/article-19.js    # 第19篇
+data/article-20.js    # 第20篇
 ```
 
 它们共同构成 `window.SITE.ARTICLES`。网站三个页面与Markdown生成脚本都加载同一数据层，因此不会出现“网页一版、Markdown另一版”。
@@ -138,7 +142,7 @@ python3 scripts/build_markdown.py
 │   ├── articles.js            第01—07篇
 │   └── article-08.js—article-19.js
 ├── articles/
-│   └── 01—19 Markdown定稿
+│   └── 01—20 Markdown定稿
 ├── scripts/
 │   └── build_markdown.py
 ├── tools/
