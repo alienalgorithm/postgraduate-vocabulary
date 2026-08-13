@@ -58,7 +58,7 @@ jobs:
           test -f notes/第十九篇入库记录_2026-08-13.md
           git diff --check
 
-      - name: Commit synchronized final article 19
+      - name: Commit synchronized article and website files
         shell: bash
         run: |
           set -euo pipefail
@@ -75,9 +75,8 @@ jobs:
             notes/对话交接文档.md \
             notes/第十九篇入库记录_2026-08-13.md \
             notes/全库最终版本审计_2026-08-13.md \
-            scripts/final-version-guard.js \
-            .github/workflows/validate-content.yml
+            scripts/final-version-guard.js
           git commit -m "feat: lock article 19 and synchronize the 950-word site"
           git push origin HEAD:article-19-development
 
-# Rerun after correcting the README data-range matcher.
+# Permanent validation workflow is committed separately through the repository API.
