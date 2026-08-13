@@ -2,10 +2,10 @@
   "title": "Five Alarms, No Abort",
   "topic": "Apollo 11 guidance-computer overload, priority scheduling and the human go call",
   "paragraphs": {
-    "1": ["lunar", "lander", "powered", "descent", "cockpit", "alarm", "code", "overload", "processor", "abort"],
-    "2": ["rendezvous", "radar", "standby", "setting", "mismatch", "interrupt", "workload", "queue", "capacity", "overflow"],
-    "3": ["executive", "priority", "scheduler", "restart", "checkpoint", "preserve", "critical", "discard", "resume", "trajectory"],
-    "4": ["controller", "console", "specialist", "compile", "telemetry", "coherent", "velocity", "attitude", "judgement", "proceed"],
-    "5": ["architecture", "resilient", "hierarchy", "sacrifice", "selective", "safeguard", "visible", "operational", "reliability", "essential"]
+    "1": ["lunar", "lander", "powered", "descent", "cockpit", "alarm", "readout", "overload", "processor", "abort"],
+    "2": ["rendezvous", "radar", "standby", "setting", "mismatch", "request", "workload", "queue", "headroom", "overflow"],
+    "3": ["executive", "priority", "scheduler", "restart", "checkpoint", "retain", "critical", "discard", "resume", "trajectory"],
+    "4": ["controller", "console", "specialist", "compile", "telemetry", "coherent", "speed", "attitude", "judgement", "proceed"],
+    "5": ["architecture", "resilient", "hierarchy", "sacrifice", "selective", "safeguard", "diagnostic", "operational", "reliability", "essential"]
   }
 }
