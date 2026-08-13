@@ -1,0 +1,59 @@
+name: Apply definitive article 19 language polish
+
+on:
+  push:
+    branches:
+      - article-19-final-polish
+    paths:
+      - tmp/final-polish19.py
+      - .github/workflows/polish-article19-final.yml
+
+permissions:
+  contents: write
+
+jobs:
+  polish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out final polish branch
+        uses: actions/checkout@v6
+        with:
+          ref: article-19-final-polish
+          fetch-depth: 0
+
+      - name: Apply definitive language polish
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tmp/final-polish19.py
+
+      - name: Regenerate and validate all final surfaces
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/build_markdown.py | tee /tmp/build-report.txt
+          grep -q "articles/19-five-alarms-still-descending.md  270 词 · 50 重点词 · 18.5%" /tmp/build-report.txt
+          grep -q "19 篇已生成 · 950 个重点词 · 全部通过" /tmp/build-report.txt
+          node scripts/final-version-guard.js --write-manifest
+          node scripts/final-version-guard.js
+          node --check data/article-19.js
+          node --check scripts/final-version-guard.js
+          git diff --check
+
+      - name: Commit synchronized final polish
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/article-19.js \
+            data/final-version-manifest.json \
+            articles/19-five-alarms-still-descending.md \
+            README.md \
+            notes/对话交接文档.md \
+            notes/第十九篇入库记录_2026-08-13.md \
+            notes/全库最终版本审计_2026-08-13.md \
+            scripts/final-version-guard.js
+          git commit -m "polish: finish article 19 at the 270-word limit"
+          git push origin HEAD:article-19-final-polish
