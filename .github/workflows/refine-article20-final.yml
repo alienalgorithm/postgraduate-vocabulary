@@ -1,0 +1,38 @@
+name: Refine article 20 definitive final
+
+on:
+  push:
+    branches: [article-20-final-release]
+    paths: [.github/workflows/refine-article20-final.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  refine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: article-20-final-release
+          fetch-depth: 0
+      - name: Apply records and validate
+        run: |
+          set -euo pipefail
+          python3 tmp/refine20_patch.py
+          python3 scripts/build_markdown.py | tee /tmp/build.txt
+          grep -q "articles/20-the-market-came-after-the-limit.md  269 词 · 50 重点词 · 18.6%" /tmp/build.txt
+          grep -q "20 篇已生成 · 1000 个重点词 · 全部通过" /tmp/build.txt
+          node scripts/final-version-guard.js --write-manifest
+          node scripts/final-version-guard.js
+          node --check data/article-20.js
+          node --check scripts/final-version-guard.js
+          git diff --check
+      - name: Commit generated final records
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md articles/20-the-market-came-after-the-limit.md data/final-version-manifest.json notes/全库最终版本审计_2026-08-13.md notes/对话交接文档.md notes/第二十篇入库记录_2026-08-13.md scripts/final-version-guard.js
+          git commit -m "refine: lock article 20 definitive final version"
+          git push origin HEAD:article-20-final-release
