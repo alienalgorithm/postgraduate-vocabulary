@@ -1,0 +1,36 @@
+name: Refresh article 19 definitive final
+
+on:
+  push:
+    branches: [article-19-definitive-final]
+    paths: [.github/workflows/refresh-article19-definitive.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: article-19-definitive-final
+          fetch-depth: 0
+      - name: Regenerate and validate
+        run: |
+          set -euo pipefail
+          python3 scripts/build_markdown.py | tee /tmp/report.txt
+          grep -q "articles/19-five-alarms-still-descending.md  270 词 · 50 重点词 · 18.5%" /tmp/report.txt
+          grep -q "19 篇已生成 · 950 个重点词 · 全部通过" /tmp/report.txt
+          node scripts/final-version-guard.js --write-manifest
+          node scripts/final-version-guard.js
+          node --check data/article-19.js
+          git diff --check
+      - name: Commit refreshed final identity
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles/19-five-alarms-still-descending.md data/final-version-manifest.json notes/全库最终版本审计_2026-08-13.md
+          git commit -m "audit: refresh article 19 definitive final fingerprint"
+          git push origin HEAD:article-19-definitive-final
