@@ -32,7 +32,7 @@ const SOURCE_AUDIT = {
   '15': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'bab945342134b4d45bb8d005569f11c9fb2a97fe' },
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
-  '18': { source: '2026-08-13对话中形成并完成最终微调与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -87,6 +87,8 @@ const SUPERSEDED_SIGNATURES = {
     'the sky alone would not go quiet',
     'taped every **seam**',
     'black-body **profile** and mapped',
+    '**Pigeons** had made a **roost** inside;',
+    'Penzias and Wilson treated it as **provisional**.',
     '264 词 / 50 重点词 / 密度 18.9%',
     '269 词 / 50 重点词 / 密度 18.6%',
     '天空始终无法安静',
@@ -272,7 +274,7 @@ function auditReport(manifest) {
     '# 全库最终版本审计 · 2026-08-13',
     '',
     '> 审计范围：第01—18篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：第01—17篇继续保持此前锁定指纹；第18篇270词最终精进锁定稿已完成最后一轮无增词微调，并通过900词全库复验。',
+    '> 结论：第01—17篇继续保持此前锁定指纹；第18篇270词最终精进锁定稿已完成最后一轮语言收口，并通过900词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -290,7 +292,7 @@ function auditReport(manifest) {
     '- 第12—15篇：正式Markdown的Git blob与 `dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip` 中四份最终稿逐字一致。',
     '- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。',
     '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
-    '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最后一轮无增词微调，并淘汰264词工作稿和269词中间定稿。',
+    '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最终语言收口，并淘汰264词工作稿和269词中间定稿。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',

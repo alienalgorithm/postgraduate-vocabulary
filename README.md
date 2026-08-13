@@ -31,7 +31,7 @@
 | 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
 | **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
 
-第18篇以270词最终精进锁定稿为准。新版把3.5 K明确写成额外天线温度，用 accounted for 代替过度绝对的 ruled out，消除第三段代词归属歧义，修正 corroborate 的搭配，并以“the sky would not go quiet”直接回扣标题。最终微调还把 `every seam` 收紧为 `the seams`，把 `black-body profile` 完整为 `black-body spectral profile`，并以 `every plausible local culprit` 避免过度绝对化。文章仍严格区分1965年单波段结果、普林斯顿解释与COBE后续证据。
+第18篇以270词最终精进锁定稿为准。新版把3.5 K明确写成额外天线温度，用 accounted for 代替过度绝对的 ruled out，消除第三段代词归属歧义，修正 corroborate 的搭配，并以“the sky would not go quiet”直接回扣标题。最终微调还把 `every seam` 收紧为 `the seams`，把 `black-body profile` 完整为 `black-body spectral profile`，并以 `every plausible local culprit` 避免过度绝对化。最终语言收口又把生硬的 `made a roost` 改为 `roosted`，恢复 `Nearby` 的空间衔接，并用 `that interpretation` 消除代词歧义；中文同步删去英文已不存在的“炽热”。文章仍严格区分1965年单波段结果、普林斯顿解释与COBE后续证据。
 
 ---
 
