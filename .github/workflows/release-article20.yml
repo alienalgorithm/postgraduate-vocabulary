@@ -49,4 +49,4 @@ jobs:
           git commit -m "release: lock article 20 and synchronize 1000-word site"
           git push origin HEAD:article-20-development
 
-# Word-count alignment: binding + itself restore the final 269-word cadence.
+# Retry after preserving the article 19 archive-row identity expected by the guard.
