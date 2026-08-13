@@ -1,0 +1,81 @@
+name: Apply article 19 across archive and website
+
+on:
+  push:
+    branches:
+      - article-19-development
+    paths:
+      - tmp/apply-article19.py
+      - .github/workflows/apply-article19.yml
+
+permissions:
+  contents: write
+
+jobs:
+  synchronize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out article 19 branch
+        uses: actions/checkout@v6
+        with:
+          ref: article-19-development
+          fetch-depth: 0
+
+      - name: Apply the atomic article 19 synchronization
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tmp/apply-article19.py
+
+      - name: Generate Markdown and lock the latest-final manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/build_markdown.py | tee /tmp/build-report.txt
+          grep -q "articles/19-five-alarms-still-descending.md  270 词 · 50 重点词 · 18.5%" /tmp/build-report.txt
+          grep -q "19 篇已生成 · 950 个重点词 · 全部通过" /tmp/build-report.txt
+          node scripts/final-version-guard.js --write-manifest
+          node scripts/final-version-guard.js
+
+      - name: Verify every public and permanent surface
+        shell: bash
+        run: |
+          set -euo pipefail
+          node --check data/article-19.js
+          node --check scripts/final-version-guard.js
+          for page in index.html article.html words.html; do
+            grep -q 'data/article-19.js' "$page"
+          done
+          grep -q 'five-alarms-still-descending' index.html
+          grep -q 'five-alarms-still-descending' sitemap.xml
+          grep -q '十九篇《经济学人》风格双语科普短文' index.html
+          grep -q '950词词库' words.html
+          grep -q '共有 \*\*19篇文章、950个重点词\*\*' README.md
+          grep -q '第十九篇最终精进锁定稿' articles/19-five-alarms-still-descending.md
+          grep -q '下一篇编号为 \*\*20\*\*' notes/对话交接文档.md
+          grep -q '"article_count": 19' data/final-version-manifest.json
+          grep -q '"keyword_count": 950' data/final-version-manifest.json
+          test -f notes/第十九篇入库记录_2026-08-13.md
+          git diff --check
+
+      - name: Commit synchronized final article 19
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/article-19.js \
+            data/final-version-manifest.json \
+            articles/19-five-alarms-still-descending.md \
+            index.html article.html words.html 404.html \
+            manifest.webmanifest sitemap.xml \
+            assets/share-card.svg \
+            README.md \
+            notes/对话交接文档.md \
+            notes/第十九篇入库记录_2026-08-13.md \
+            notes/全库最终版本审计_2026-08-13.md \
+            scripts/final-version-guard.js \
+            .github/workflows/validate-content.yml
+          git commit -m "feat: lock article 19 and synchronize the 950-word site"
+          git push origin HEAD:article-19-development
