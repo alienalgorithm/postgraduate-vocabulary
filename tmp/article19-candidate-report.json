@@ -1,65 +1,8 @@
 {
   "candidateCount": 50,
   "duplicateCandidates": [],
-  "clashes": [
-    {
-      "paragraph": 1,
-      "word": "code",
-      "usedIn": "07"
-    },
-    {
-      "paragraph": 2,
-      "word": "interrupt",
-      "usedIn": "13"
-    },
-    {
-      "paragraph": 2,
-      "word": "capacity",
-      "usedIn": "06"
-    },
-    {
-      "paragraph": 3,
-      "word": "preserve",
-      "usedIn": "07"
-    },
-    {
-      "paragraph": 4,
-      "word": "velocity",
-      "usedIn": "16"
-    },
-    {
-      "paragraph": 5,
-      "word": "visible",
-      "usedIn": "13"
-    }
-  ],
-  "surfaceClashes": [
-    {
-      "paragraph": 1,
-      "word": "code",
-      "usedIn": "07"
-    },
-    {
-      "paragraph": 2,
-      "word": "interrupt",
-      "usedIn": "13"
-    },
-    {
-      "paragraph": 2,
-      "word": "capacity",
-      "usedIn": "06"
-    },
-    {
-      "paragraph": 4,
-      "word": "velocity",
-      "usedIn": "16"
-    },
-    {
-      "paragraph": 5,
-      "word": "visible",
-      "usedIn": "13"
-    }
-  ],
+  "clashes": [],
+  "surfaceClashes": [],
   "available": [
     {
       "paragraph": 1,
@@ -84,6 +27,10 @@
     {
       "paragraph": 1,
       "word": "alarm"
+    },
+    {
+      "paragraph": 1,
+      "word": "readout"
     },
     {
       "paragraph": 1,
@@ -119,11 +66,19 @@
     },
     {
       "paragraph": 2,
+      "word": "request"
+    },
+    {
+      "paragraph": 2,
       "word": "workload"
     },
     {
       "paragraph": 2,
       "word": "queue"
+    },
+    {
+      "paragraph": 2,
+      "word": "headroom"
     },
     {
       "paragraph": 2,
@@ -148,6 +103,10 @@
     {
       "paragraph": 3,
       "word": "checkpoint"
+    },
+    {
+      "paragraph": 3,
+      "word": "retain"
     },
     {
       "paragraph": 3,
@@ -191,6 +150,10 @@
     },
     {
       "paragraph": 4,
+      "word": "speed"
+    },
+    {
+      "paragraph": 4,
       "word": "attitude"
     },
     {
@@ -224,6 +187,10 @@
     {
       "paragraph": 5,
       "word": "safeguard"
+    },
+    {
+      "paragraph": 5,
+      "word": "diagnostic"
     },
     {
       "paragraph": 5,
