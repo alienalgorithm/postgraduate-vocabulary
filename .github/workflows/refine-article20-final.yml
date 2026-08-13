@@ -19,7 +19,8 @@ jobs:
       - name: Apply records and validate
         run: |
           set -euo pipefail
-          python3 tmp/refine20_patch.py
+          python3 tmp/refine20_guard.py
+          python3 tmp/refine20_docs.py
           python3 scripts/build_markdown.py | tee /tmp/build.txt
           grep -q "articles/20-the-market-came-after-the-limit.md  269 词 · 50 重点词 · 18.6%" /tmp/build.txt
           grep -q "20 篇已生成 · 1000 个重点词 · 全部通过" /tmp/build.txt
