@@ -8,7 +8,7 @@
 
 ## 当前最终定稿
 
-截至2026-08-12，共有 **18篇文章、900个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-13，共有 **18篇文章、900个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@
 | 15 | *When a Broken Pipe Applied the Brakes* | 1869—1893年威斯汀豪斯、自动空气制动与失效安全逻辑 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=when-a-broken-pipe-applied-the-brakes) · [Markdown](articles/15-when-a-broken-pipe-applied-the-brakes.md) |
 | 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263词 · 50词 · 19.0% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
 | 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
-| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
+| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
 
-第18篇以269词最终精校稿为准。文章不把宇宙微波背景写成“清理鸽子后突然想到大爆炸”的偶然传奇：贝尔实验室逐项排除接缝、连接处、地面响应、季节变化和鸟粪；普林斯顿团队提供热早期宇宙的解释；后续短波测量与COBE再分别补全黑体谱和十万分之一量级的各向异性。
+第18篇以270词最终精进锁定稿为准。新版把3.5 K明确写成额外天线温度，用 accounted for 代替过度绝对的 ruled out，消除第三段代词归属歧义，修正 corroborate 的搭配，并以“the sky alone would not go quiet”回扣标题。文章仍严格区分1965年单波段结果、普林斯顿解释与COBE后续证据。
 
 ---
 
@@ -151,7 +151,7 @@ python3 scripts/build_markdown.py
     ├── 第十二至第十五篇入库记录_2026-08-11.md
     ├── 第十六篇入库记录_2026-08-12.md
     ├── 第十七篇入库记录_2026-08-12.md
-    └── 第十八篇入库记录_2026-08-12.md
+    └── 第十八篇入库记录_2026-08-13.md
 ```
 
 ---
