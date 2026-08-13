@@ -1,1 +1,0 @@
-(function(root){var g=root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary;g.push({w:'legislation',zh:'立法；法律',p:1},{w:'smokestack',zh:'烟囱；大烟囱',p:1},{w:'utility',zh:'公用事业企业；效用',p:1},{w:'sulphur',zh:'硫',p:1},{w:'dioxide',zh:'二氧化物',p:1});})(typeof window!=='undefined'?window:globalThis);

@@ -1,6 +1,0 @@
-(function (root) {
-  root.SITE.ARTICLES.find(function (item) { return item.id === '20'; }).paras.push({
-    en: 'Phase I began in 1995. Some plants **retrofitted** scrubbers; others bought low-sulphur coal whose **haulage** cost had fallen. Reductions arrived **ahead** of schedule, while compliance **expense** proved below early **forecasts**. By 2008, emissions were below the 2010 cap. But trading was not the sole **contributor**: **competition** among **carriers**, engineering **improvements** and later rules also **accelerated** the decline.',
-    zh: '第一阶段于1995年启动。一些电厂**加装了**(retrofitted)洗涤器；另一些则购买因**运输**(haulage)成本下降而更便宜的低硫煤。减排进度**早于**(ahead)计划，合规**开支**(expense)也低于早期**预测**(forecasts)。到2008年，排放量已经低于2010年才正式生效的总量上限。但交易并不是唯一的**促成因素**(contributor)：**承运商**(carriers)之间的**竞争**(competition)、工程技术**改进**(improvements)和后续规则也**加快了**(accelerated)下降。'
-  });
-})(typeof window !== 'undefined' ? window : globalThis);

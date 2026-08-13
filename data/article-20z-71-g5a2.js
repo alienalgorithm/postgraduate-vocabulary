@@ -1,1 +1,0 @@
-(function(root){root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary.push({w:['a','c','c','e','p','t','a','b','l','e'].join(''),zh:'可接受的',p:5});})(typeof window!=='undefined'?window:globalThis);

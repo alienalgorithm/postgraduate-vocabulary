@@ -1,1 +1,0 @@
-(function(root){root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary.push({w:['d','i','s','c','l','o','s','e'].join(''),zh:'揭示；披露',p:5});})(typeof window!=='undefined'?window:globalThis);

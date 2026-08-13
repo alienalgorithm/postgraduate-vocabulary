@@ -1,1 +1,0 @@
-(function(root){var g=root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary;g.push({w:'retrofit',zh:'加装；改造',p:4},{w:'freight',zh:'货运；货物',p:4},{w:'ahead',zh:'提前；在前面',p:4},{w:'expense',zh:'开支；代价',p:4},{w:'forecast',zh:'预测；预报',p:4});})(typeof window!=='undefined'?window:globalThis);

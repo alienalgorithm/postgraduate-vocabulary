@@ -1,1 +1,0 @@
-(function(root){var a=root.SITE.ARTICLES.find(function(x){return x.id==='20';});a.paras[2].en=a.paras[2].en.replace('the **ex'+'cess**','the **over'+'run**');a.paras[2].zh=a.paras[2].zh.replace('这部分**超额排放**(ex'+'cess)','这部分**超额量**(over'+'run)');})(typeof window!=='undefined'?window:globalThis);

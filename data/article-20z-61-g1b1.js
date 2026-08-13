@@ -1,1 +1,0 @@
-(function(root){var g=root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary;g.push({w:'precursor',zh:'前体物；先驱',p:1},{w:'deposition',zh:'沉降；沉积',p:1});})(typeof window!=='undefined'?window:globalThis);
