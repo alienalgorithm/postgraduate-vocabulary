@@ -51,7 +51,7 @@ p='README.md';s=r(p)
 s=s.replace('打印和950词索引','打印和1000词索引')
 s=one(s,'截至2026-08-13，共有 **19篇文章、950个重点词**。','截至2026-08-13，共有 **20篇文章、1000个重点词**。','README count')
 old="| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |"
-new="| 19 | *Five Alarms, Still Descending* | 1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |\n| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |"
+new=old+"\n| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |"
 s=one(s,old,new,'README row20')
 summary='第20篇以269词最终精进锁定稿为准。文章把酸雨计划拆成四个不可调换的环节：法律先设895万吨总量上限；一吨一份的额度让企业选择洗涤器、低硫煤或交易；连续监测、年度交回、自动处罚与次年弥补保证总量可核验；价格只揭示减排在哪里更便宜，不能替大气决定预算。\n\n'
 s=one(s,'第19篇以270词最终精进锁定稿为准。',summary+'第19篇以270词最终精进锁定稿为准。','README summary20')
