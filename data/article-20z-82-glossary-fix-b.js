@@ -1,0 +1,1 @@
+(function(root){var g=root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary;g[27].zh='超额部分；超支';g[31].zh='货运；运输费';g[36].zh='竞争；比赛';g[37].zh='承运商；运输公司';})(typeof window!=='undefined'?window:globalThis);
