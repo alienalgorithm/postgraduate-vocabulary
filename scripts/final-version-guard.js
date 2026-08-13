@@ -34,7 +34,7 @@ const SOURCE_AUDIT = {
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
   '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '19': { source: '2026-08-13对话中形成并完成最终上限审查、因果链精修与950词全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '20': { source: '2026-08-13对话中完成术语、监测、成本归因与制度边界终审的269词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '20': { source: '2026-08-13对话中完成边际减排成本术语与中英对应终审的269词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -57,7 +57,7 @@ const VERSION_IDS = {
   '17': '17-268-word-final-polish',
   '18': '18-270-word-final-max',
   '19': '19-270-word-definitive-final',
-  '20': '20-269-word-definitive-final',
+  '20': '20-269-word-maximum-final',
 };
 
 const SUPERSEDED_SIGNATURES = {
@@ -156,6 +156,9 @@ const SUPERSEDED_SIGNATURES = {
     'most **cheaply**',
     'a **bounded** quantity',
     '**ration** **permission**',
+    'the sequence itself',
+    'had lower **marginal** costs',
+    '重新**分配**(reallocate)',
   ],
 };
 
@@ -350,7 +353,7 @@ function auditReport(manifest) {
     '# 全库最终版本审计 · 2026-08-13',
     '',
     '> 审计范围：第01—20篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：第01—19篇继续保持此前锁定指纹；第20篇269词最终精进锁定稿已完成术语、监测、成本归因、制度边界与1000词全库复验。',
+    '> 结论：第01—19篇继续保持此前锁定指纹；第20篇269词最终精进锁定稿已完成边际减排成本术语、中英对应、制度边界与1000词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -370,7 +373,7 @@ function auditReport(manifest) {
     '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
     '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最终语言收口，并淘汰264词工作稿和269词中间定稿。',
     '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面“继续”判断；最终上限审查进一步明确四次1202与一次1201、开关配置与交流相位失配、按优先级调度、记录检查点恢复，以及警报并非自动中止命令。',
-    '- 第20篇：269词最终精进锁定稿严格区分法定总量、额度再配置、连续监测、未来额度弥补、铁路运输成本、边际减排成本和后续法规的不同作用。',
+    '- 第20篇：269词最终精进锁定稿明确使用 marginal abatement costs，并把 reallocate 的中文完整对应为“重新分配”；其余制度边界保持不变。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',
