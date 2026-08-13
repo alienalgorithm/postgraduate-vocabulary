@@ -1,0 +1,56 @@
+name: Apply final no-growth polish to article 18
+
+on:
+  push:
+    branches:
+      - article-18-final-max-v2
+    paths:
+      - .github/workflows/final-micro-polish-18.yml
+      - tmp/final-micro-polish-18.py
+
+permissions:
+  contents: write
+
+jobs:
+  polish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out final polish branch
+        uses: actions/checkout@v6
+        with:
+          ref: article-18-final-max-v2
+          fetch-depth: 0
+
+      - name: Apply final prose refinements
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tmp/final-micro-polish-18.py
+          rm tmp/final-micro-polish-18.py
+
+      - name: Regenerate and validate every surface
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/build_markdown.py | tee /tmp/build-report.txt
+          grep -q "articles/18-the-sky-would-not-go-quiet.md  270 词 · 50 重点词 · 18.5%" /tmp/build-report.txt
+          grep -q "18 篇已生成 · 900 个重点词 · 全部通过" /tmp/build-report.txt
+          node scripts/final-version-guard.js --write-manifest
+          node scripts/final-version-guard.js | tee /tmp/guard.txt
+          grep -q "18篇最终版本 · 900个重点词" /tmp/guard.txt
+          grep -q "every plausible \*\*local\*\* \*\*culprit\*\*" articles/18-the-sky-would-not-go-quiet.md
+          grep -q "black-body spectral \*\*profile\*\*" articles/18-the-sky-would-not-go-quiet.md
+          grep -q "taped the \*\*seams\*\*" articles/18-the-sky-would-not-go-quiet.md
+          node --check data/article-18.js
+          node --check scripts/final-version-guard.js
+          git diff --check
+
+      - name: Commit synchronized final polish
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "refine: complete article 18 final micro-polish"
+          git push origin HEAD:article-18-final-max-v2
