@@ -1,0 +1,63 @@
+name: Check article 19 vocabulary candidates
+
+on:
+  push:
+    branches:
+      - article-19-development
+    paths:
+      - tmp/article19-candidates.json
+      - .github/workflows/check-article19-candidates.yml
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out article 19 branch
+        uses: actions/checkout@v6
+        with:
+          ref: article-19-development
+          fetch-depth: 0
+
+      - name: Compare candidates with existing glossary
+        shell: bash
+        run: |
+          set -euo pipefail
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          globalThis.window = globalThis;
+          require(path.resolve('data/articles.js'));
+          for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) require(path.resolve('data', file));
+          const used = new Map();
+          const surfaces = new Map();
+          for (const article of globalThis.SITE.ARTICLES) {
+            for (const item of article.glossary) used.set(item.w.toLowerCase(), article.id);
+            for (const para of article.paras) for (const match of para.en.matchAll(/\*\*([^*]+)\*\*/g)) surfaces.set(match[1].toLowerCase(), article.id);
+          }
+          const candidates = JSON.parse(fs.readFileSync('tmp/article19-candidates.json','utf8'));
+          const words = Object.entries(candidates.paragraphs).flatMap(([p,list]) => list.map(word => ({ paragraph: Number(p), word })));
+          const duplicateCandidates = words.filter((item,index) => words.findIndex(other => other.word.toLowerCase() === item.word.toLowerCase()) !== index);
+          const report = {
+            candidateCount: words.length,
+            duplicateCandidates,
+            clashes: words.filter(item => used.has(item.word.toLowerCase())).map(item => ({...item, usedIn: used.get(item.word.toLowerCase())})),
+            surfaceClashes: words.filter(item => surfaces.has(item.word.toLowerCase())).map(item => ({...item, usedIn: surfaces.get(item.word.toLowerCase())})),
+            available: words.filter(item => !used.has(item.word.toLowerCase()) && !surfaces.has(item.word.toLowerCase()))
+          };
+          fs.writeFileSync('tmp/article19-candidate-report.json', JSON.stringify(report,null,2)+'\n');
+          console.log(JSON.stringify(report,null,2));
+          if (report.candidateCount !== 50) process.exit(1);
+          NODE
+
+      - name: Commit candidate report
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/article19-candidate-report.json
+          git commit -m "audit: report article 19 candidate clashes"
+          git push origin HEAD:article-19-development
