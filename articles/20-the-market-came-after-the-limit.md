@@ -40,9 +40,9 @@ The **institutional** lesson lies in the sequence. **Lawmakers** fixed the **acc
 
 ## 50 词速查表
 
-**§1**（10词）legislation 立法；法律｜smokestack 烟囱；大烟囱｜utility 公用事业企业；效用｜sulphur 硫｜dioxide 二氧化物｜precursor 前体物；先驱｜deposition 沉降；沉积｜prescribe 规定；开处方｜standardis 标准化的；规范化的｜ceiling 上限；天花板
+**§1**（10词）legislation 立法；法律｜smokestack 烟囱；大烟囱｜utility 公用事业企业；效用｜sulphur 硫｜dioxide 二氧化物｜precursor 前体物；先驱｜deposition 沉降；沉积｜prescribe 规定；开处方｜standardise 标准化的；规范化的｜ceiling 上限；天花板
 
-**§2**（10词）budget 预算｜allowance 排放额度；津贴｜authorise 授权；允许｜scrubber 洗涤器；刷洗工具｜procure 采购；取得｜surplu 剩余；盈余｜bank 存留；银行｜flexibility 灵活性｜alternative 替代方案；可供选择的｜quota 配额；限额
+**§2**（10词）budget 预算｜allowance 排放额度；津贴｜authorise 授权；允许｜scrubber 洗涤器；刷洗工具｜procure 采购；取得｜surplus 剩余；盈余｜bank 存留；银行｜flexibility 灵活性｜alternative 替代方案；可供选择的｜quota 配额；限额
 
 **§3**（10词）accounting 核算；会计｜sensor 传感器；感测器｜serial 序列的；连续剧｜registry 登记系统；注册处｜surrender 交回；放弃｜shortfall 不足；缺口｜penalty 处罚；罚金｜overrun 超额部分；超支｜offset 抵消；补偿｜override 凌驾于；推翻
 
