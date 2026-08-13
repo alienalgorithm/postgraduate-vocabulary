@@ -97,7 +97,6 @@ for old, new, label in [
     ("第18篇作为最新定稿专题展示", "第19篇作为最新定稿专题展示", "README latest feature"),
     ("十八篇文章卡片", "十九篇文章卡片", "README cards"),
     ("### 900词词库", "### 950词词库", "README word bank heading"),
-    ("data/article-08.js—article-18.js", "data/article-08.js—article-19.js", "README data range"),
     ("01—18 Markdown定稿", "01—19 Markdown定稿", "README Markdown range"),
     ("同一套18篇全量校验", "同一套19篇全量校验", "README CI count"),
     ("words.html                 900词索引", "words.html                 950词索引", "README tree word bank"),
