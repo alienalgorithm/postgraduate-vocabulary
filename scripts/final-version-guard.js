@@ -33,7 +33,7 @@ const SOURCE_AUDIT = {
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
   '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '19': { source: '2026-08-13对话中形成并完成最终语言精修与950词全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '19': { source: '2026-08-13对话中形成并完成最终上限审查、因果链精修与950词全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -55,7 +55,7 @@ const VERSION_IDS = {
   '16': '16-263-word-final-polish',
   '17': '17-268-word-final-polish',
   '18': '18-270-word-final-max',
-  '19': '19-270-word-final-max',
+  '19': '19-270-word-definitive-final',
 };
 
 const SUPERSEDED_SIGNATURES = {
@@ -112,6 +112,25 @@ const SUPERSEDED_SIGNATURES = {
     'with **speed**, **attitude** and the landing path under control',
     'The deeper lesson lay in **architecture**.',
     'expendable jobs vanished to **safeguard** navigation',
+    'Over five minutes after ignition, the **readout** 1202 flashed',
+    '1201 followed later',
+    'Each reported an executive **overload**',
+    'remained on as a **contingency**',
+    'Its mode **configuration** exposed an electrical **mismatch**',
+    'rapid counter **requests**',
+    'Tasks began to **queue**',
+    'assigned every job a **priority**',
+    'ran out of room',
+    'protected **checkpoints**',
+    'It could **retain**',
+    'identified the numbers',
+    'the readings remained **coherent**',
+    'The lesson lay in **architecture**',
+    'did not promise never to overload',
+    'The sacrifice was **selective**',
+    'not decorative',
+    'meant protecting the **essential** work',
+    '计算机没有假装一切正常',
   ],
 };
 
@@ -300,7 +319,7 @@ function auditReport(manifest) {
     '# 全库最终版本审计 · 2026-08-13',
     '',
     '> 审计范围：第01—19篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：第01—18篇继续保持此前锁定指纹；第19篇270词最终精进锁定稿已完成题材、词库、史实、网站和950词全库复验。',
+    '> 结论：第01—18篇继续保持此前锁定指纹；第19篇270词最终精进锁定稿已完成最终上限审查，警报计数、雷达负载因果、优先级调度、检查点恢复、地面判断与结尾定义均已收紧，并通过950词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -319,7 +338,7 @@ function auditReport(manifest) {
     '- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。',
     '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
     '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最终语言收口，并淘汰264词工作稿和269词中间定稿。',
-    '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面‘继续’判断；最终语言精修又消除了负载因果、检查点恢复和遥测句法中的剩余硬点。',
+    '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面“继续”判断；最终上限审查进一步明确四次1202与一次1201、开关配置与交流相位失配、按优先级调度、记录检查点恢复，以及警报并非自动中止命令。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',
