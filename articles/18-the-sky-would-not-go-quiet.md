@@ -11,13 +11,13 @@
 
 In 1964, Bell Laboratories **radio** **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel, New Jersey, to measure faint **microwave** emission from the Milky Way. They **calibrated** it against a liquid-helium reference. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess antenna temperature of 3.5 kelvin.
 
-They taped every **seam**, tested each **joint** for loss and accounted for ground **interference**. **Pigeons** had made a **roost** inside; Penzias and Wilson trapped them and **scrubbed** away their **droppings**. Nothing changed. The excess appeared **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.
+They taped the **seams**, tested each **joint** for loss and accounted for ground **interference**. **Pigeons** had made a **roost** inside; Penzias and Wilson trapped them and **scrubbed** away their **droppings**. Nothing changed. The excess appeared **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.
 
-Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a hot, **primordial** universe. Contact turned **coincidence** into **collaboration**. In July 1965, **companion** papers separated the roles: Bell Labs supplied the experimental **account**; Princeton offered the **interpretation**. Penzias and Wilson treated it as **provisional**.
+Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a **primordial** universe. Contact turned **coincidence** into **collaboration**. In July 1965, **companion** papers separated the roles: Bell Labs supplied the experimental **account**; Princeton offered the **interpretation**. Penzias and Wilson treated it as **provisional**.
 
-One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the **cosmic** **background** **radiation** interpretation. Decades later, COBE measured a near-perfect 2.725 K black-body **profile** and mapped **fluctuations**, or **anisotropies**, of roughly one part in 100,000. The nearly uniform **thermal** glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.
+One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the **cosmic** **background** **radiation** interpretation. Decades later, COBE measured a near-perfect 2.725 K black-body spectral **profile** and mapped **fluctuations**, or **anisotropies**, of roughly one part in 100,000. The nearly uniform **thermal** glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.
 
-The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**. It became evidence only after every **local** **culprit** was ruled out—and the sky alone would not go quiet.
+The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**. It became evidence only after every plausible **local** **culprit** was ruled out—and the sky would not go quiet.
 
 ---
 
@@ -28,13 +28,13 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 1964年，贝尔实验室的**射电**(radio)**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以液氦参考源对系统进行了**校准**(calibrated)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。
 
-他们给每一道**接缝**(seam)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息筑巢**(roost)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射呈**各向同性**(isotropic)、**没有偏振**(unpolarised)，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。
+他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息筑巢**(roost)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射呈**各向同性**(isotropic)、**没有偏振**(unpolarised)，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。
 
 普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台**辐射计**(radiometer)，寻找来自炽热**原初宇宙的**(primordial)**遗存热辐射**(relic)。双方取得联系，使地理上的**巧合**(coincidence)变成科学**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记录**(account)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊仍把这一解释视为**暂定的**(provisional)。
 
 一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE测得它在2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。
 
-这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让**剩余信号**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)。只有在每一个**本地的**(local)**嫌疑来源**(culprit)都被排除之后，它才成为证据——因为最后仍不肯安静的，只剩天空。
+这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让**剩余信号**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)。只有在每一个看似合理的**本地**(local)**嫌疑来源**(culprit)都被排除之后，它才成为证据——因为天空仍不肯安静。
 
 ---
 
