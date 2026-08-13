@@ -1,0 +1,46 @@
+name: Fix article 19 synchronization matcher
+
+on:
+  push:
+    branches:
+      - article-19-development
+    paths:
+      - .github/workflows/fix-apply19.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out article 19 branch
+        uses: actions/checkout@v6
+        with:
+          ref: article-19-development
+          fetch-depth: 0
+
+      - name: Remove obsolete compact data-range matcher
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('tmp/apply-article19.py')
+          text = path.read_text(encoding='utf-8')
+          line = '    ("data/article-08.js—article-18.js", "data/article-08.js—article-19.js", "README data range"),\n'
+          if line not in text:
+              raise SystemExit('obsolete README data-range matcher not found')
+          path.write_text(text.replace(line, '', 1), encoding='utf-8')
+          PY
+          python3 -m py_compile tmp/apply-article19.py
+
+      - name: Commit matcher correction
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp/apply-article19.py
+          git commit -m "fix: match README explicit article data list"
+          git push origin HEAD:article-19-development
