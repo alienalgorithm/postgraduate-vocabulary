@@ -1,0 +1,1 @@
+(function(root){root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary.push({w:['b','o','u','n','d','e','d'].join(''),zh:'有边界的；受限制的',p:5});})(typeof window!=='undefined'?window:globalThis);

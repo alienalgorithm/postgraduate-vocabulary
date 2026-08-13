@@ -1,0 +1,1 @@
+(function(root){root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary.push({w:['i','n','s','t','i','t','u','t','i','o','n','a','l'].join(''),zh:'制度层面的；机构的',p:5});})(typeof window!=='undefined'?window:globalThis);

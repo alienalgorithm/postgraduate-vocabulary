@@ -1,0 +1,1 @@
+(function(root){root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary.push({w:['c','h','e','a','p','l','y'].join(''),zh:'低成本地；便宜地',p:5});})(typeof window!=='undefined'?window:globalThis);

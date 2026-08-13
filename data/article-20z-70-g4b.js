@@ -1,0 +1,1 @@
+(function(root){var g=root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary;g.push({w:'contributor',zh:'促成因素；贡献者',p:4},{w:'railway',zh:'铁路',p:4},{w:'competition',zh:'竞争；比赛',p:4},{w:'improvement',zh:'改进；改善',p:4},{w:'accelerate',zh:'加快；加速',p:4});})(typeof window!=='undefined'?window:globalThis);

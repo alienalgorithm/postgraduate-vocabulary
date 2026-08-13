@@ -1,0 +1,1 @@
+(function(root){var g=root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary;g.push({w:'sur'+'plus',zh:'剩余；盈余',p:2},{w:'ba'+'nk',zh:'存留；银行',p:2},{w:'flexibility',zh:'灵活性',p:2},{w:'alternative',zh:'替代方案；可供选择的',p:2},{w:'quo'+'ta',zh:'配额；限额',p:2});})(typeof window!=='undefined'?window:globalThis);

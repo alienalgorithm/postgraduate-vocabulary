@@ -1,0 +1,1 @@
+(function(root){var g=root.SITE.ARTICLES.find(function(x){return x.id==='20';}).glossary;g.push({w:'budget',zh:'预算',p:2},{w:'allowance',zh:'排放额度；津贴',p:2},{w:'authorise',zh:'授权；允许',p:2},{w:'scrubber',zh:'洗涤器；刷洗工具',p:2},{w:'purchase',zh:'购买；购得物',p:2});})(typeof window!=='undefined'?window:globalThis);
