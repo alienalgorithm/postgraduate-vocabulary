@@ -1,0 +1,44 @@
+name: Fix article 20 glossary lemmas
+
+on:
+  push:
+    branches: [article-20-development]
+    paths: [.github/workflows/fix-article20-glossary.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: article-20-development
+          fetch-depth: 0
+      - name: Correct canonical glossary lemmas
+        shell: bash
+        run: |
+          set -euo pipefail
+          node <<'NODE'
+          const fs=require('fs');const path=require('path');globalThis.window=globalThis;
+          require(path.resolve('data/article-20.js'));
+          const a=globalThis.SITE.ARTICLES.find(x=>x.id==='20');
+          a.glossary[8].w='standardise';
+          a.glossary[15].w='surplus';
+          const text=`/* 20 · ${a.title}\n   Canonical data extension. Loaded after data/articles.js.\n*/\n(function (root) {\n  'use strict';\n  var article = ${JSON.stringify(a,null,2)};\n  root.SITE = root.SITE || {};\n  root.SITE.ARTICLES = root.SITE.ARTICLES || [];\n  if (!root.SITE.ARTICLES.some(function (item) { return item.id === article.id; })) {\n    root.SITE.ARTICLES.push(article);\n  }\n})(typeof window !== 'undefined' ? window : globalThis);\n`;
+          fs.writeFileSync('data/article-20.js',text,'utf8');
+          NODE
+          python3 scripts/build_markdown.py | tee /tmp/report.txt
+          grep -q "20 篇已生成 · 1000 个重点词 · 全部通过" /tmp/report.txt
+          node --check data/article-20.js
+          git diff --check
+      - name: Commit corrections
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/article-20.js articles/20-the-market-came-after-the-limit.md
+          git commit -m "fix: correct article 20 glossary lemmas"
+          git push origin HEAD:article-20-development
