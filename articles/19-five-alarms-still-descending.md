@@ -3,21 +3,21 @@
 > 题材：1969年阿波罗11号1201/1202程序警报、优先级软件与地面“继续”判断
 > 状态：**第十九篇最终精进锁定稿**（2026-08-13）
 > 指标：270 词 / 50 重点词 / 密度 18.5%
-> “鹰号”在最后下降阶段连续报出1201和1202；计算机没有假装一切正常，而是在过载中丢弃可等待的任务，地面团队则必须判断它是否仍能安全继续。
+> “鹰号”在下降途中五次报出1201/1202；制导计算机确实过载，却通过重启与优先级保护核心任务，地面团队仍须根据遥测判断是否继续。
 
 ---
 
 ## 英文正文
 
-On 20 July 1969, Apollo 11’s **lunar** **lander** Eagle began its powered **descent**. Over five minutes after ignition, the **readout** 1202 flashed in the **cockpit**. Neil Armstrong called “program **alarm**”; 1201 followed later. Five alarms appeared before **touchdown**. Each reported an executive **overload** in the guidance **processor**. The question was immediate: continue, or **abort**?
+On 20 July 1969, Apollo 11’s **lunar** **lander** Eagle began its powered **descent**. Just over five minutes after ignition, 1202 flashed on the **cockpit** **readout**. Neil Armstrong called “program **alarm**”. Before **touchdown**, four 1202s and one 1201 appeared. Each signalled a computational **overload** of the guidance **processor**. The question was immediate: continue, or **abort**?
 
-The **rendezvous** **radar** remained on as a **contingency** if an abort required a return to orbit. Its mode **configuration** exposed an electrical **mismatch**, generating rapid counter **requests**. Landing already imposed a heavy **workload**; a periodic display job consumed the remaining **headroom**. Tasks began to **queue** faster than the processor could finish them, triggering **overflow**.
+The **rendezvous** **radar** remained on for one **contingency**: an abort requiring a return to orbit. Its switch **configuration**, coupled with an AC phase **mismatch**, generated spurious angle-counter **requests**. Landing already imposed a heavy **workload**; a periodic display job consumed remaining **headroom**. Jobs entered the **queue** faster than the processor could finish them, triggering **overflow**.
 
-Yet each alarm showed a defence working. The computer’s **executive** assigned every job a **priority**. When the **allocator** ran out of room, a **restart** cleared unfinished jobs and restored selected programs from protected **checkpoints**. It could **retain** **critical** state, **discard** less urgent work, then **resume** guidance without losing the landing **trajectory**.
+Yet each alarm showed a defence working. The computer’s **executive** scheduled jobs by **priority**. When the **allocator** found no free workspace, a **restart** cleared unfinished jobs and restored selected programs from recorded **checkpoints**. The computer could **retain** **critical** state, **discard** less urgent work, then **resume** guidance along the landing **trajectory**.
 
-Software alone did not make the call. At Mission Control, guidance **officer** Steve Bales watched his **console** while back-room **specialist** Jack Garman identified the numbers from a list he had **compiled**. They checked **telemetry**: the readings remained **coherent**; **speed**, **attitude** and the landing path were under control. Bales’s **judgement** was “go”; Eagle could **proceed**.
+Software alone did not make the call. At Mission Control, guidance **officer** Steve Bales watched his **console** while back-room **specialist** Jack Garman recognised the codes from a list he had **compiled**. They checked **telemetry**: readings remained **coherent**; **speed**, **attitude** and the landing path were under control. Bales’s **judgement** was “go”; Eagle could **proceed**.
 
-The lesson lay in **architecture**. A **resilient** system did not promise never to overload; its **hierarchy** decided which work to **sacrifice**. The sacrifice was **selective**: expendable jobs were dropped to **safeguard** navigation. The alarms were **actionable**, not decorative. **Software** **robustness** meant protecting the **essential** work by deciding, before launch, what could wait while the lander kept descending.
+The deeper answer lay in system **architecture**. A **resilient** system can overload without collapsing; its **hierarchy** decides what to **sacrifice**. That sacrifice is **selective**: expendable jobs are dropped to **safeguard** navigation. The alarms were **actionable** warnings, not an automatic command to abort. **Software** **robustness** means protecting **essential** work by deciding pre-launch what can wait while the lander keeps descending.
 
 ---
 
@@ -26,15 +26,15 @@ The lesson lay in **architecture**. A **resilient** system did not promise never
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1969年7月20日，阿波罗11号的**月球**(lunar)**着陆器**(lander)“鹰号”开始进行有动力的**下降**(descent)。点火五分多钟后，**显示屏读数**(readout)1202在**驾驶舱**(cockpit)内亮起。尼尔·阿姆斯特朗报告“程序**警报**(alarm)”；稍后又出现1201。**着陆**(touchdown)前一共响起五次警报。每一次都表示制导**处理器**(processor)发生执行程序**过载**(overload)。问题必须立刻回答：继续，还是**中止**(abort)？
+1969年7月20日，阿波罗11号的**月球**(lunar)**着陆器**(lander)“鹰号”开始进入动力**下降**(descent)阶段。点火刚过五分钟，1202在**驾驶舱**(cockpit)**显示屏**(readout)上闪现。尼尔·阿姆斯特朗报告“程序**警报**(alarm)”。在**着陆**(touchdown)前，1202共出现四次，1201出现一次。每一次都表明制导**处理器**(processor)发生了计算**过载**(overload)。问题必须立即回答：继续，还是**中止**(abort)？
 
-如果中止下降后需要返回轨道，**交会**(rendezvous)**雷达**(radar)便是一项**应急安排**(contingency)，因此始终保持开启。它的模式**配置**(configuration)暴露出一处电气**失配**(mismatch)，不断产生计数器**请求**(requests)。登月程序本已带来沉重**工作负载**(workload)；一个周期性显示任务又耗尽了剩余的性能**余量**(headroom)。任务开始**排队**(queue)，涌入速度超过处理器的完成速度，最终触发执行程序**溢出**(overflow)。
+为了应对中止下降后必须返回轨道这一**应急情况**(contingency)，**交会**(rendezvous)**雷达**(radar)始终保持开启。当时的开关**配置**(configuration)与交流电相位**失配**(mismatch)共同作用，不断产生虚假的角度计数器**请求**(requests)。着陆程序本已带来沉重**工作负载**(workload)；一个周期性显示任务又耗尽了剩余的性能**余量**(headroom)。新任务涌入**队列**(queue)的速度超过处理器完成已有任务的速度，最终触发执行程序**溢出**(overflow)。
 
-但每一次警报也说明，一道防线正在发挥作用。计算机的**执行程序**(executive)为每项任务分配**优先级**(priority)。当任务**分配程序**(allocator)无处再放新作业时，一次**重新启动**(restart)会清除未完成任务，并从受保护的**检查点**(checkpoints)恢复选定程序。系统能够**保留**(retain)**关键的**(critical)状态，**丢弃**(discard)不那么紧迫的工作，再**恢复**(resume)制导，使飞船不至偏离着陆**轨迹**(trajectory)。
+但每一次警报也说明，一道防线正在发挥作用。计算机的**执行程序**(executive)按**优先级**(priority)调度任务。当任务**分配程序**(allocator)找不到空闲工作区时，一次**重新启动**(restart)会清除未完成任务，并从已记录的**检查点**(checkpoints)恢复选定程序。计算机能够**保留**(retain)**关键的**(critical)状态，**丢弃**(discard)不那么紧迫的工作，再**恢复**(resume)制导，使飞船继续沿着着陆**轨迹**(trajectory)前进。
 
-但决定并非由软件独自作出。在任务控制中心，制导**控制员**(officer)史蒂夫·贝尔斯盯着自己的**控制台**(console)，后室**专家**(specialist)杰克·加尔曼则根据自己事先**编制的**(compiled)清单辨认警报编号。他们核对**遥测数据**(telemetry)：各项读数仍然**相互吻合**(coherent)；**速度**(speed)、**姿态**(attitude)和着陆路径都在控制之中。贝尔斯的**判断**(judgement)是“继续”；“鹰号”可以**继续下降**(proceed)。
+但最终决定并非由软件独自作出。在任务控制中心，制导**控制员**(officer)史蒂夫·贝尔斯盯着自己的**控制台**(console)，后室**专家**(specialist)杰克·加尔曼则根据自己事先**编制的**(compiled)清单辨认出这些警报代码。他们核对**遥测数据**(telemetry)：各项读数依然**相互吻合**(coherent)；**速度**(speed)、**姿态**(attitude)和着陆路径都在控制之中。贝尔斯的**判断**(judgement)是“继续”；“鹰号”可以**继续下降**(proceed)。
 
-关键在于系统**架构**(architecture)。一套**有韧性的**(resilient)系统并不承诺永不过载；它的任务**层级**(hierarchy)决定应当**舍弃**(sacrifice)哪些工作。这种舍弃是**有选择的**(selective)：可放弃的任务会被剔除，以**保障**(safeguard)导航。警报提供的是**可供行动的**(actionable)信息，而不是装饰。**软件**(Software)的**稳健性**(robustness)，在于发射前就决定哪些任务可以等待，从而保护最**不可或缺的**(essential)工作，让着陆器继续下降。
+更深一层的答案在于系统**架构**(architecture)。一套**有韧性的**(resilient)系统即使过载，也不必崩溃；它的任务**层级**(hierarchy)会决定什么可以**舍弃**(sacrifice)。这种舍弃是**有选择的**(selective)：可放弃的任务会被剔除，以**保障**(safeguard)导航。这些警报给出的是**可供行动的**(actionable)警示，并不会自动判定任务必须中止。**软件**(Software)的**稳健性**(robustness)，在于发射前就决定哪些任务可以等待，从而保护**不可或缺的**(essential)工作，让着陆器继续下降。
 
 ---
 

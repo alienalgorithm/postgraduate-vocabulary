@@ -32,7 +32,7 @@
 | 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
 | **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |
 
-第19篇以270词最终精进锁定稿为准。文章把五次1201/1202警报拆成三层：雷达接口与周期显示共同压缩计算余量；优先级执行程序通过重启、保留关键状态和丢弃可等待任务维持制导；Steve Bales与Jack Garman再依据遥测作出‘继续’判断。最终语言精修把负载因果、检查点恢复和遥测句法进一步写清；结尾不把可靠性写成‘永不失败’，而是写成系统在过载前已经决定什么可以等待。
+第19篇以270词最终精进锁定稿为准。最终上限审查进一步修复了警报显示语序与五次警报计数，明确雷达开关配置和交流相位失配共同产生虚假计数请求，并把执行程序写成按优先级调度、在无空闲工作区时重启并从记录检查点恢复。遥测判断和警报边界也被收紧：警报提供可供行动的信息，却不会自动命令中止。结尾以“系统可以过载而不崩溃”重新定义稳健性。
 
 第18篇以270词最终精进锁定稿为准。新版把3.5 K明确写成额外天线温度，用 accounted for 代替过度绝对的 ruled out，消除第三段代词归属歧义，修正 corroborate 的搭配，并以“the sky would not go quiet”直接回扣标题。最终微调还把 `every seam` 收紧为 `the seams`，把 `black-body profile` 完整为 `black-body spectral profile`，并以 `every plausible local culprit` 避免过度绝对化。最终语言收口又把生硬的 `made a roost` 改为 `roosted`，恢复 `Nearby` 的空间衔接，并用 `that interpretation` 消除代词歧义；中文同步删去英文已不存在的“炽热”。文章仍严格区分1965年单波段结果、普林斯顿解释与COBE后续证据。
 
@@ -136,7 +136,7 @@ python3 scripts/build_markdown.py
 │   └── share-card.svg
 ├── data/
 │   ├── articles.js            第01—07篇
-│   └── article-08.js—article-18.js
+│   └── article-08.js—article-19.js
 ├── articles/
 │   └── 01—19 Markdown定稿
 ├── scripts/
