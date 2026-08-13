@@ -33,6 +33,7 @@ const SOURCE_AUDIT = {
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
   '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '19': { source: '2026-08-13对话中形成并完成950词全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -54,6 +55,7 @@ const VERSION_IDS = {
   '16': '16-263-word-final-polish',
   '17': '17-268-word-final-polish',
   '18': '18-270-word-final-max',
+  '19': '19-270-word-final-max',
 };
 
 const SUPERSEDED_SIGNATURES = {
@@ -92,6 +94,15 @@ const SUPERSEDED_SIGNATURES = {
     '264 词 / 50 重点词 / 密度 18.9%',
     '269 词 / 50 重点词 / 密度 18.6%',
     '天空始终无法安静',
+  ],
+  '19': [
+    'Five Alarms, No Abort',
+    '**powered** **descent**',
+    'on **standby**',
+    '**scheduler**',
+    '**diagnostic**',
+    '**reliability**',
+    'lower-ranked display work',
   ],
 };
 
@@ -252,15 +263,21 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% |')) {
     errors.push('README article 17 final row is stale');
   }
-  if (!readme.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270词 · 50词 · 18.5%** |')) {
+  if (!readme.includes('| 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270词 · 50词 · 18.5% |')) {
     errors.push('README article 18 final row is stale');
+  }
+  if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **270词 · 50词 · 18.5%** |')) {
+    errors.push('README article 19 final row is stale');
   }
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
   if (!handoff.includes('| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263 / 50 / 19.0% | 第十六篇最终精进锁定稿 |')) {
     errors.push('handoff article 16 final row is stale');
   }
-  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270 / 50 / 18.5%** | **第十八篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270 / 50 / 18.5% | 第十八篇最终精进锁定稿 |')) {
     errors.push('handoff article 18 final row is stale');
+  }
+  if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **270 / 50 / 18.5%** | **第十九篇最终精进锁定稿** |')) {
+    errors.push('handoff article 19 final row is stale');
   }
   return errors;
 }
@@ -273,8 +290,8 @@ function auditReport(manifest) {
   return [
     '# 全库最终版本审计 · 2026-08-13',
     '',
-    '> 审计范围：第01—18篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：第01—17篇继续保持此前锁定指纹；第18篇270词最终精进锁定稿已完成最后一轮语言收口，并通过900词全库复验。',
+    '> 审计范围：第01—19篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
+    '> 结论：第01—18篇继续保持此前锁定指纹；第19篇270词最终精进锁定稿已完成题材、词库、史实、网站和950词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -293,6 +310,7 @@ function auditReport(manifest) {
     '- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。',
     '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
     '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最终语言收口，并淘汰264词工作稿和269词中间定稿。',
+    '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面‘继续’判断，并新增50个无重复词元。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',
@@ -313,7 +331,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的18篇均为当前已知的最后最终版本；第18篇270词最终精进稿是当前唯一权威版本。',
+    '本次同步完成后，主分支的19篇均为当前已知的最后最终版本；第19篇270词最终精进稿是当前唯一权威版本。',
     '',
   ].join('\n');
 }

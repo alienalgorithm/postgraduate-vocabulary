@@ -1,6 +1,6 @@
 # 记词 · 考研词汇双语读本
 
-用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和900词索引。
+用新东方考研词汇写《经济学人》风格的双语科普短文。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和950词索引。
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
@@ -8,7 +8,7 @@
 
 ## 当前最终定稿
 
-截至2026-08-13，共有 **18篇文章、900个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-13，共有 **19篇文章、950个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -29,7 +29,10 @@
 | 15 | *When a Broken Pipe Applied the Brakes* | 1869—1893年威斯汀豪斯、自动空气制动与失效安全逻辑 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=when-a-broken-pipe-applied-the-brakes) · [Markdown](articles/15-when-a-broken-pipe-applied-the-brakes.md) |
 | 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263词 · 50词 · 19.0% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
 | 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
-| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
+| 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
+| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |
+
+第19篇以270词最终精进锁定稿为准。文章把五次1201/1202警报拆成三层：雷达接口与周期显示共同压缩计算余量；优先级执行程序通过重启、保留关键状态和丢弃可等待任务维持制导；Steve Bales与Jack Garman再依据遥测作出‘继续’判断。结尾不把可靠性写成‘永不失败’，而是写成系统在过载前已经决定什么可以等待。
 
 第18篇以270词最终精进锁定稿为准。新版把3.5 K明确写成额外天线温度，用 accounted for 代替过度绝对的 ruled out，消除第三段代词归属歧义，修正 corroborate 的搭配，并以“the sky would not go quiet”直接回扣标题。最终微调还把 `every seam` 收紧为 `the seams`，把 `black-body profile` 完整为 `black-body spectral profile`，并以 `every plausible local culprit` 避免过度绝对化。最终语言收口又把生硬的 `made a roost` 改为 `roosted`，恢复 `Nearby` 的空间衔接，并用 `that interpretation` 消除代词歧义；中文同步删去英文已不存在的“炽热”。文章仍严格区分1965年单波段结果、普林斯顿解释与COBE后续证据。
 
@@ -48,13 +51,13 @@
 
 ## 网站已完成的同步
 
-网站当前实际加载第01—18篇，并自动计算18篇、900个重点词和1645个尚未使用词元。
+网站当前实际加载第01—19篇，并自动计算19篇、950个重点词和1595个尚未使用词元。
 
 ### 首页
 
 - 自动统计文章数、重点词数、平均篇幅与剩余词量
-- 第18篇作为最新定稿专题展示
-- 十八篇文章卡片全部由数据层自动生成
+- 第19篇作为最新定稿专题展示
+- 十九篇文章卡片全部由数据层自动生成
 - 深浅主题、响应式排版和无障碍焦点状态
 
 ### 文章阅读器
@@ -68,7 +71,7 @@
 - 史实核对与来源分层展示
 - 上一篇／下一篇导航
 
-### 900词词库
+### 950词词库
 
 - 中英文实时搜索
 - 按文章筛选
@@ -94,6 +97,7 @@ data/article-15.js    # 第15篇
 data/article-16.js    # 第16篇
 data/article-17.js    # 第17篇
 data/article-18.js    # 第18篇
+data/article-19.js    # 第19篇
 ```
 
 它们共同构成 `window.SITE.ARTICLES`。网站三个页面与Markdown生成脚本都加载同一数据层，因此不会出现“网页一版、Markdown另一版”。
@@ -111,7 +115,7 @@ python3 scripts/build_markdown.py
 - 校验词数、密度和20%红线
 - 检查文章编号、slug及跨篇精确重复
 
-仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套18篇全量校验，并检查数据脚本与网站入口。
+仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套19篇全量校验，并检查数据脚本与网站入口。
 
 ---
 
@@ -120,7 +124,7 @@ python3 scripts/build_markdown.py
 ```text
 ├── index.html                 首页
 ├── article.html               双语阅读器
-├── words.html                 900词索引
+├── words.html                 950词索引
 ├── 404.html
 ├── manifest.webmanifest
 ├── robots.txt
@@ -134,7 +138,7 @@ python3 scripts/build_markdown.py
 │   ├── articles.js            第01—07篇
 │   └── article-08.js—article-18.js
 ├── articles/
-│   └── 01—18 Markdown定稿
+│   └── 01—19 Markdown定稿
 ├── scripts/
 │   └── build_markdown.py
 ├── tools/
@@ -151,7 +155,8 @@ python3 scripts/build_markdown.py
     ├── 第十二至第十五篇入库记录_2026-08-11.md
     ├── 第十六篇入库记录_2026-08-12.md
     ├── 第十七篇入库记录_2026-08-12.md
-    └── 第十八篇入库记录_2026-08-13.md
+    ├── 第十八篇入库记录_2026-08-13.md
+    └── 第十九篇入库记录_2026-08-13.md
 ```
 
 ---
