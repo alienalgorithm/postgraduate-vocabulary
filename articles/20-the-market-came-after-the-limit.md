@@ -17,7 +17,7 @@ This market worked only because the **accounting** was hard-edged. Stack **senso
 
 Phase I began in 1995. Some plants were **retrofitted** with scrubbers; others switched to low-sulphur coal. Cuts arrived **ahead** of schedule; compliance **expense** was below early **forecasts**. By 2008, emissions were below the 2010 cap. But trading was not the sole **contributor**: **competition** among rail **carriers** lowered **haulage** costs, while engineering **improvements** and later regulations also **accelerated** reductions.
 
-The **institutional** lesson lies in the sequence itself. **Lawmakers** fixed the **statutory** emissions cap before trading began. Trading **disclosed** which sources had lower **marginal** costs. Success rested on a **bounded** allowance supply, **credible** measurement, flexible exchange and unavoidable **reconciliation**. A market can **reallocate** **permission**—but it cannot set the atmosphere’s budget.
+The **institutional** lesson lies in the sequence. **Lawmakers** fixed the **statutory** emissions cap before trading began. Trading **disclosed** which sources faced lower **marginal** abatement costs. Success rested on a **bounded** allowance supply, **credible** measurement, flexible exchange and unavoidable **reconciliation**. A market can **reallocate** **permission**—but it cannot set the atmosphere’s budget.
 
 ---
 
@@ -34,7 +34,7 @@ The **institutional** lesson lies in the sequence itself. **Lawmakers** fixed th
 
 第一阶段于1995年启动。一些电厂**加装了**(retrofitted)洗涤器；另一些则改用低硫煤。减排进度**早于**(ahead)计划，合规**成本**(expense)也低于早期**预测**(forecasts)。到2008年，排放量已经低于2010年上限。但交易并不是唯一的**促成因素**(contributor)：铁路**承运商**(carriers)之间的**竞争**(competition)降低了**运输成本**(haulage)，工程技术**改进**(improvements)和后续法规也进一步**加快了**(accelerated)减排。
 
-更深的**制度层面**(institutional)启示在于这一顺序本身：**立法者**(Lawmakers)在交易开始前先确定**法定的**(statutory)排放上限。交易**揭示了**(disclosed)哪些排放源的**边际**(marginal)减排成本更低。成功依赖**总量受限的**(bounded)额度供给、**可信的**(credible)测量、灵活交易和不可回避的年度**对账**(reconciliation)。市场可以重新**分配**(reallocate)排放**许可**(permission)，却不能替大气设定污染预算。
+更深的**制度层面**(institutional)启示在于这一顺序：**立法者**(Lawmakers)在交易开始前先确定**法定的**(statutory)排放上限。交易**揭示了**(disclosed)哪些排放源面临更低的**边际**(marginal)减排成本。成功依赖**总量受限的**(bounded)额度供给、**可信的**(credible)测量、灵活交易和不可回避的年度**对账**(reconciliation)。市场可以**重新分配**(reallocate)排放**许可**(permission)，却不能替大气设定污染预算。
 
 ---
 
