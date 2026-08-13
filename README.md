@@ -33,7 +33,7 @@
 | **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |
 | **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |
 
-第20篇以269词最终精进锁定稿为准。文章把酸雨计划拆成四个不可调换的环节：法律先设895万吨总量上限；一吨一份的额度让企业选择洗涤器、低硫煤或交易；连续监测、年度交回、自动处罚与次年弥补保证总量可核验；价格只揭示减排在哪里更便宜，不能替大气决定预算。
+第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
 
 第19篇以270词最终精进锁定稿为准。最终上限审查进一步修复了警报显示语序与五次警报计数，明确雷达开关配置和交流相位失配共同产生虚假计数请求，并把执行程序写成按优先级调度、在无空闲工作区时重启并从记录检查点恢复。遥测判断和警报边界也被收紧：警报提供可供行动的信息，却不会自动命令中止。结尾以“系统可以过载而不崩溃”重新定义稳健性。
 
