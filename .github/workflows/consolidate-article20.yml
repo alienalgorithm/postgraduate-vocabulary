@@ -1,0 +1,49 @@
+name: Consolidate article 20
+
+on:
+  push:
+    branches: [article-20-development]
+    paths: [.github/workflows/consolidate-article20.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  consolidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: article-20-development
+          fetch-depth: 0
+      - name: Consolidate canonical data
+        shell: bash
+        run: |
+          set -euo pipefail
+          node <<'NODE'
+          const fs=require('fs');
+          const path=require('path');
+          globalThis.window=globalThis;
+          require(path.resolve('data/articles.js'));
+          for(const file of fs.readdirSync('data').filter(f=>/^article-\d+.*\.js$/.test(f)).sort()) require(path.resolve('data',file));
+          const article=globalThis.SITE.ARTICLES.find(x=>x.id==='20');
+          if(!article||article.paras.length!==5||article.glossary.length!==50||article.facts.length<5) throw new Error('article 20 assembly incomplete');
+          const text=`/* 20 · ${article.title}\n   Canonical data extension. Loaded after data/articles.js.\n*/\n(function (root) {\n  'use strict';\n  var article = ${JSON.stringify(article,null,2)};\n  root.SITE = root.SITE || {};\n  root.SITE.ARTICLES = root.SITE.ARTICLES || [];\n  if (!root.SITE.ARTICLES.some(function (item) { return item.id === article.id; })) {\n    root.SITE.ARTICLES.push(article);\n  }\n})(typeof window !== 'undefined' ? window : globalThis);\n`;
+          fs.writeFileSync('data/article-20.js',text,'utf8');
+          for(const file of fs.readdirSync('data').filter(f=>/^article-20z-.*\.js$/.test(f))) fs.unlinkSync(path.join('data',file));
+          NODE
+          rm -rf tmp
+          python3 scripts/build_markdown.py | tee /tmp/report.txt
+          grep -q "articles/20-the-market-came-after-the-limit.md  263 词 · 50 重点词 · 19.0%" /tmp/report.txt
+          grep -q "20 篇已生成 · 1000 个重点词 · 全部通过" /tmp/report.txt
+          node --check data/article-20.js
+          git diff --check
+      - name: Commit consolidated article
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data articles tmp
+          git commit -m "content: consolidate article 20 final data"
+          git push origin HEAD:article-20-development
