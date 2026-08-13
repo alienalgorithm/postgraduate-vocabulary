@@ -33,7 +33,7 @@ const SOURCE_AUDIT = {
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
   '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '19': { source: '2026-08-13对话中形成并完成950词全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '19': { source: '2026-08-13对话中形成并完成最终语言精修与950词全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -103,6 +103,15 @@ const SUPERSEDED_SIGNATURES = {
     '**diagnostic**',
     '**reliability**',
     'lower-ranked display work',
+    'stayed active as a **contingency**',
+    'A mode **configuration** and electrical **mismatch** generated',
+    'periodic display job erased the narrow **headroom**',
+    'Yet the alarm showed a defence working.',
+    'returned selected programs to protected **checkpoints**',
+    'lower-ranked monitor work',
+    'with **speed**, **attitude** and the landing path under control',
+    'The deeper lesson lay in **architecture**.',
+    'expendable jobs vanished to **safeguard** navigation',
   ],
 };
 
@@ -310,7 +319,7 @@ function auditReport(manifest) {
     '- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。',
     '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
     '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最终语言收口，并淘汰264词工作稿和269词中间定稿。',
-    '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面‘继续’判断，并新增50个无重复词元。',
+    '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面‘继续’判断；最终语言精修又消除了负载因果、检查点恢复和遥测句法中的剩余硬点。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',
