@@ -19,7 +19,7 @@ const SOURCE_AUDIT = {
   '02': { source: '2026-08-15对话中完成段落均衡、重点词价值置换、前提前移、共生逻辑桥补入与人物锚点的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '03': { source: '2026-08-15对话中经写作智能体全流程（词池→草稿→复检五轮）产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: '260-word-final-package' },
-  '05': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-body-confirmed' },
+  '05': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '06': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', verification: 'exact-uploaded-markdown', blob: 'fd60aa1a0fae0a7a2879edbed990c81b2f9a66a6' },
   '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '08': { source: '6fed2f3c-24a7-4849-91e0-119f8b7073e8.md', verification: 'exact-uploaded-markdown', blob: 'c692c268881b96619931af559872ec97521cfc05' },
@@ -42,7 +42,7 @@ const VERSION_IDS = {
   '02': '02-270-word-final-locked',
   '03': '03-270-word-final-locked',
   '04': '04-260-word-final',
-  '05': '05-final-refined',
+  '05': '05-270-word-final-locked',
   '06': '06-final-locked',
   '07': '07-269-word-final-locked',
   '08': '08-final-proofed',
@@ -212,6 +212,15 @@ const SUPERSEDED_SIGNATURES = {
     'He had **demonstrated** something more useful than a **proof**',
     '252 词 / 50 重点词 / 密度 19.8%',
     '第一篇最终精校稿',
+  ],
+  '05': [
+    'a **cashier** at a Marsh supermarket in Troy, Ohio, passed a **humble** 67-cent pack',
+    'The **invention** came earlier; **negotiation** and **coordination** made scanning **ordinary**.',
+    'because a bull\u2019s-eye was **vulnerable** to ink spread',
+    'A photodiode **detector** measured the **reflected** light',
+    'the system\u2019s **elegance** was **apparent** and the **consensus** behind it invisible',
+    '270 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.5%\u0000',
+    '\u7b2c\u4e94\u7bc7\u7cbe\u8fdb\u5b9a\u7a3f',
   ],
 };
 

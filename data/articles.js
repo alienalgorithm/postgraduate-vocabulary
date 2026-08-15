@@ -1215,314 +1215,302 @@ window.SITE = {
       ]
     },
     {
-      "id": "05",
-      "slug": "the-price-was-elsewhere",
-      "title": "The Price Was Elsewhere",
-      "titleZh": "价格在别处",
-      "standfirst": "条纹里只有稳定的身份；价格留在数据库，共识把二者连接成基础设施。",
-      "topic": "UPC 条形码与零售信息基础设施",
-      "date": "2026-08-09",
-      "status": "第五篇最终精进定稿",
-      "metrics": {
-        "words": 270,
-        "keywords": 50,
-        "density": 18.5
-      },
-      "paras": [
-        {
-          "en": "On 26 June 1974, a **cashier** at a Marsh supermarket in Troy, Ohio, passed a **humble** 67-cent pack of Wrigley’s Juicy Fruit over a Universal Product Code (UPC) **scanner**. The scanner read neither name nor price. Yet the **purchase** was **historic**: the first **retail** transaction recorded by scanning a UPC. The **invention** came earlier; **negotiation** and **coordination** made scanning **ordinary**.",
-          "zh": "1974年6月26日，在俄亥俄州特洛伊市的一家Marsh超市，一名**收银员**(cashier)把一包售价67美分、**不起眼的**(humble)箭牌“黄箭”口香糖从一台通用商品代码（Universal Product Code，UPC）**扫描器**(scanner)上方划过。扫描器既没有读出商品名称，也没有读出价格；但这笔**购买**(purchase)依然**具有历史意义**(historic)：它是第一笔通过UPC扫描记录的**零售**(retail)交易。那项**发明**(invention)出现得更早；真正让扫描结账变得**平常**(ordinary)的，是行业内的**协商**(negotiation)与**协调**(coordination)。"
-        },
-        {
-          "en": "In 1949 Norman Woodland and Bernard Silver applied for a **patent** on an **optical** system to **classify** **goods** using printed marks. The 1952 document **depicted** linear and **circular** patterns. The **concept** was **feasible** in principle but **premature**: lasers did not exist, **computing** was costly and no common code spanned the industry.",
-          "zh": "1949年，诺曼·伍德兰和伯纳德·西尔弗为一套**光学**(optical)系统申请了**专利**(patent)；这套系统利用印刷标记来**分类**(classify)**商品**(goods)。1952年的专利文件**描绘了**(depicted)直线和**圆形**(circular)图案。这一**构想**(concept)在原理上**可行**(feasible)，却**为时过早**(premature)：当时激光尚未问世，**计算技术**(computing)成本高昂，行业也没有通用代码。"
-        },
-        {
-          "en": "By 1970 grocers had agreed on a product code but not a machine-readable **symbol**. IBM **engineer** George Laurer’s team proposed **vertical** bars because a bull’s-eye was **vulnerable** to ink spread. A **committee** **selected** IBM’s **proposal** in 1973. The UPC-A **format** turned a 12-**digit** **identifier** into geometry; the final figure helped catch misreads.",
-          "zh": "到1970年，食品零售商已经就商品代码达成一致，却还没有共同认可的机器可读**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔带领的团队提出使用**纵向的**(vertical)条纹，因为靶心图案**容易受油墨扩散影响**(vulnerable)。1973年，一个行业**委员会**(committee)**选中了**(selected)IBM的**方案**(proposal)。UPC-A的**格式**(format)把一个12**位**(digit)**识别码**(identifier)转化为几何图形；末位数字则帮助发现误读。"
-        },
-        {
-          "en": "In Troy, a **mirror** swept a **laser** **beam** over the label. A photodiode **detector** measured the **reflected** light; the system **translated** bar-and-space **widths** into a number.",
-          "zh": "在特洛伊的那套设备中，一面**反射镜**(mirror)使**激光器**(laser)发出的**光束**(beam)扫过标签。一只光电二极管**探测器**(detector)测量标签**反射的**(reflected)光；系统再把条纹与间隙的**宽度**(widths)**转换成**(translated)编号。"
-        },
-        {
-          "en": "The gum’s code carried neither **description** nor price. A database **provided** both, allowing price changes without reprinting packages. Each sale could update **inventory**. Machinery alone was no system. Stores **maintained** records, **vendors** built **compatible** readers and manufacturers printed codes. A **proprietary** system might serve one chain; **infrastructure** required **competitors** to follow one **specification** within an industry-wide numbering system. At checkout, the system’s **elegance** was **apparent** and the **consensus** behind it invisible: the bars held the number, while the price was elsewhere.",
-          "zh": "这包口香糖的代码既不含商品**描述**(description)，也不含价格；两者由数据库**提供**(provided)，因此改价无需重印包装。系统还可根据每笔交易更新**库存**(inventory)。但机器本身还称不上一个系统。商店**维护**(maintained)商品记录，设备**供应商**(vendors)制造与统一编码**兼容的**(compatible)读取器，制造商则印上代码。一套**专有的**(proprietary)系统或许能服务一家连锁企业；要让它成为**基础设施**(infrastructure)，彼此**竞争的企业**(competitors)就必须遵循同一套**规范**(specification)，并使用行业统一的编号体系。到了收银台前，系统的**精巧之处**(elegance)**显而易见**(apparent)，支撑它的行业**共识**(consensus)却藏在幕后：线条里存着编号，价格则在别处。"
-        }
-      ],
-      "glossary": [
-        {
-          "w": "cashier",
-          "zh": "收银员",
-          "p": 1
-        },
-        {
-          "w": "humble",
-          "zh": "不起眼的",
-          "p": 1
-        },
-        {
-          "w": "scanner",
-          "zh": "扫描器",
-          "p": 1
-        },
-        {
-          "w": "purchase",
-          "zh": "购买",
-          "p": 1
-        },
-        {
-          "w": "historic",
-          "zh": "具有历史意义的",
-          "p": 1
-        },
-        {
-          "w": "retail",
-          "zh": "零售的、零售业",
-          "p": 1
-        },
-        {
-          "w": "invention",
-          "zh": "发明",
-          "p": 1
-        },
-        {
-          "w": "negotiation",
-          "zh": "协商",
-          "p": 1
-        },
-        {
-          "w": "coordination",
-          "zh": "协调",
-          "p": 1
-        },
-        {
-          "w": "ordinary",
-          "zh": "平常的",
-          "p": 1
-        },
-        {
-          "w": "patent",
-          "zh": "专利",
-          "p": 2
-        },
-        {
-          "w": "optical",
-          "zh": "光学的",
-          "p": 2
-        },
-        {
-          "w": "classify",
-          "zh": "分类",
-          "p": 2
-        },
-        {
-          "w": "goods",
-          "zh": "商品",
-          "p": 2
-        },
-        {
-          "w": "depict",
-          "zh": "描绘",
-          "p": 2
-        },
-        {
-          "w": "circular",
-          "zh": "圆形的",
-          "p": 2
-        },
-        {
-          "w": "concept",
-          "zh": "构想",
-          "p": 2
-        },
-        {
-          "w": "feasible",
-          "zh": "可行的",
-          "p": 2
-        },
-        {
-          "w": "premature",
-          "zh": "为时过早的",
-          "p": 2
-        },
-        {
-          "w": "computing",
-          "zh": "计算技术、算力",
-          "p": 2
-        },
-        {
-          "w": "symbol",
-          "zh": "符号",
-          "p": 3
-        },
-        {
-          "w": "engineer",
-          "zh": "工程师",
-          "p": 3
-        },
-        {
-          "w": "vertical",
-          "zh": "纵向的",
-          "p": 3
-        },
-        {
-          "w": "vulnerable",
-          "zh": "容易受……影响的",
-          "p": 3
-        },
-        {
-          "w": "committee",
-          "zh": "委员会",
-          "p": 3
-        },
-        {
-          "w": "select",
-          "zh": "选中",
-          "p": 3
-        },
-        {
-          "w": "proposal",
-          "zh": "方案",
-          "p": 3
-        },
-        {
-          "w": "format",
-          "zh": "格式",
-          "p": 3
-        },
-        {
-          "w": "digit",
-          "zh": "位、数字位",
-          "p": 3
-        },
-        {
-          "w": "identifier",
-          "zh": "识别码",
-          "p": 3
-        },
-        {
-          "w": "mirror",
-          "zh": "反射镜",
-          "p": 4
-        },
-        {
-          "w": "laser",
-          "zh": "激光器",
-          "p": 4
-        },
-        {
-          "w": "beam",
-          "zh": "光束",
-          "p": 4
-        },
-        {
-          "w": "detector",
-          "zh": "探测器",
-          "p": 4
-        },
-        {
-          "w": "reflect",
-          "zh": "反射",
-          "p": 4
-        },
-        {
-          "w": "translate",
-          "zh": "转换",
-          "p": 4
-        },
-        {
-          "w": "width",
-          "zh": "宽度",
-          "p": 4
-        },
-        {
-          "w": "description",
-          "zh": "描述",
-          "p": 5
-        },
-        {
-          "w": "provide",
-          "zh": "提供",
-          "p": 5
-        },
-        {
-          "w": "inventory",
-          "zh": "库存",
-          "p": 5
-        },
-        {
-          "w": "maintain",
-          "zh": "维护",
-          "p": 5
-        },
-        {
-          "w": "vendor",
-          "zh": "供应商",
-          "p": 5
-        },
-        {
-          "w": "compatible",
-          "zh": "兼容的",
-          "p": 5
-        },
-        {
-          "w": "proprietary",
-          "zh": "专有的",
-          "p": 5
-        },
-        {
-          "w": "infrastructure",
-          "zh": "基础设施",
-          "p": 5
-        },
-        {
-          "w": "competitor",
-          "zh": "竞争对手、彼此竞争的企业",
-          "p": 5
-        },
-        {
-          "w": "specification",
-          "zh": "规范",
-          "p": 5
-        },
-        {
-          "w": "elegance",
-          "zh": "精巧之处",
-          "p": 5
-        },
-        {
-          "w": "apparent",
-          "zh": "显而易见的",
-          "p": 5
-        },
-        {
-          "w": "consensus",
-          "zh": "共识",
-          "p": 5
-        }
-      ],
-      "facts": [
-        "1974年6月26日，俄亥俄州特洛伊市的Marsh超市启用了首批UPC扫描器；一包售价67美分的Wrigley’s Juicy Fruit口香糖成为第一笔由UPC读取的零售购买。本文没有把它写成“人类第一次扫描条形码”，因为其他自动识别系统此前已经投入试验。",
-        "Norman Joseph Woodland与Bernard Silver于1949年申请、1952年10月7日获授美国专利2,612,994。专利同时描述了直线与同心圆图样；它是条形码的早期基础概念，并非1973年最终采用的UPC本身。",
-        "到1970年，美国食品零售业已经先行确定一套十位商品编号，随后才征求把编号交给机器读取的统一符号。1973年的精确采用日期在IBM与GS1资料间略有差异，因此正文只写年份。入选的矩形符号由George Laurer领导的IBM团队开发，选择与标准化则由行业委员会完成。",
-        "UPC-A承载12位GTIN-12商品识别码，末位是按前11位计算得出的校验位。它能帮助发现误读，但不能保证识别所有错误，也不是单件商品的序列号。",
-        "特洛伊市首批设备由Spectra Physics提供激光扫描器、NCR提供计算机收银机。激光经旋转镜面扫过标签，反射光由光电二极管检测，收银系统再到存储的商品数据库中检索信息；本文没有把整套结账硬件归功于IBM。",
-        "UPC通常只编码稳定的商品标识，不直接存放商品名称或价格；这些可变信息由零售商的数据库返回，因此改价不必重印商品代码。销售记录可以支持库存管理，但这一收益依赖制造商、零售商与设备商逐步采用同一规范，并非1974年一次扫描就立即实现。",
-        "跨企业通用还需要统一的编号管理。Uniform Product Code Council于1974年被指定管理这一体系，后来才更名为Uniform Code Council；正文将这一点概括为“行业统一的编号体系”，没有把商品编号全部归于单一机构，也没有把基础设施归结为某一种条纹图案或某一家公司的单独发明。",
-        "来源：[美国国家历史博物馆：1974年首批超市扫描器、光路、数据库与设备归属](https://americanhistory.si.edu/collections/object/nmah_892778)",
-        "来源：[IBM：UPC发展史、George Laurer团队与67美分口香糖](https://www.ibm.com/history/upc)",
-        "来源：[IBM：先统一商品编号、再征求机器可读符号的零售结账系统史](https://www.ibm.com/history/point-of-sale)",
-        "来源：[IBM：George Laurer与入选的矩形UPC方案](https://www.ibm.com/history/george-laurer)",
-        "来源：[美国专利2,612,994原件：1949年申请、1952年授权及两类图样](https://patents.google.com/patent/US2612994A/en)",
-        "来源：[美国国家历史博物馆：Woodland档案与1970—1973年行业标准化过程](https://www.americanhistory.si.edu/pt/collections/archival-item/sova-nmah-ac-1433-ref17)",
-        "来源：[GS1 US：GTIN-12的前11位与校验位](https://www.help.gs1us.org/check-digit-calculator)",
-        "来源：[GS1：UPC是12位商品识别码](https://support.gs1.org/support/solutions/articles/43000734124-what-is-the-difference-between-a-gs1-gtin-a-barcode-an-ean-and-a-upc-)",
-        "来源：[GS1：商品名称与价格通常不在条形码中](https://support.gs1.org/support/solutions/articles/43000734158-are-the-description-and-price-of-the-item-included-in-the-barcode-)",
-        "来源：[GS1体系架构：实体承载识别键，相关数据在数字系统中关联](https://www.gs1.org/standards/gs1-system-architecture-document/current-standard)",
-        "来源：[GS1历史时间线：1974年任命统一商品代码体系的管理机构](https://support.gs1.org/support/solutions/articles/43000734073-gs1-historical-timeline)"
-      ]
+    "id": "05",
+    "slug": "the-price-was-elsewhere",
+    "title": "The Price Was Elsewhere",
+    "titleZh": "价格在别处",
+    "standfirst": "史上第一次扫码就当场证明了这件事：口香糖标价69美分，收银机打出67，因为包装上的条码不可能知道店里在做促销。",
+    "topic": "UPC 条形码与零售信息基础设施",
+    "date": "2026-08-15",
+    "status": "第五篇最终精进锁定稿",
+    "metrics": {
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5
     },
+    "paras": [
+      {
+        "en": "At 8:01 on 26 June 1974, in a Marsh **supermarket** in Troy, Ohio, Clyde Dawson handed **cashier** Sharon Buchanan a pack of **gum**. She passed it over a laser **scanner** **sunk** in the **checkout**, which read neither name nor price. The till showed 67 **cents**, two under the **shelf** price: a **promotion** no **wrapper** could know about.",
+        "zh": "1974年6月26日8点01分，在俄亥俄州特洛伊镇的马什**超市**(supermarket)，克莱德·道森把一条十包装的箭牌**口香糖**(gum)递给**收银员**(cashier)莎伦·布坎南。她把它从嵌在**收银台**(checkout)里的激光**扫描器**(scanner)上划过——那台**沉**(sunk)在台面下的机器，既没读到名称，也没读到价格。收款机显示67**美分**(cents)，比**货架**(shelf)价低两分：店里在做**促销**(promotion)，而**包装纸**(wrapper)不可能知道这回事。"
+      },
+      {
+        "en": "The **invention** was old. Woodland and Silver filed in 1949 for a patent on **optical** ways of **classifying** goods; the 1952 document **depicted** **linear** and **circular** patterns alike. The idea was **feasible** but **premature**: lasers did not exist, **computing** was costly, and no common **numbering** ran across the trade.",
+        "zh": "这项**发明**(invention)其实很老。1949年，诺曼·伍德兰与伯纳德·西尔弗为一种用印刷标记给货品**分类**(classifying)的**光学**(optical)方法提交了专利申请；1952年授权的文件里，**直线**(linear)与**圆环**(circular)两种图形都**画**(depicted)了出来。想法**可行**(feasible)，但**为时过早**(premature)：激光尚不存在，**计算**(computing)昂贵，全行业也没有一套通用的**编号**(numbering)。"
+      },
+      {
+        "en": "By 1970 the **grocers** had a number for every product but no **symbol** a machine could read. George Laurer, an IBM **engineer**, refused his manager's plea to keep the **bullseye**: it **smeared** when **printed** on **packaging**. He pushed for **vertical** bars; an industry **panel** chose IBM's **proposal** in 1973.",
+        "zh": "到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)。"
+      },
+      {
+        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a check **digit** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and the **widths** of bars became a number. On that gum it read 036000291452: a maker and an item, nothing more.",
+        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验位**(digit)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那条口香糖上的数是036000291452：一个厂商，一件商品，此外什么也没有。"
+      },
+      {
+        "en": "A **database** held the **description** and price, so prices changed without reprinting a wrapper, and each sale updated **inventory**. Machinery alone was no system: stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps that wrapper. The bars held the number; the price was elsewhere.",
+        "zh": "**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。商店要建账，互为对手的**供应商**(vendors)要造出**兼容的**(compatible)读头，厂商要把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。那条口香糖如今陈列在史密森学会。条纹里装的是那串数，价格在别处。"
+      }
+    ],
+    "glossary": [
+      {
+        "w": "supermarket",
+        "zh": "超市",
+        "p": 1
+      },
+      {
+        "w": "cashier",
+        "zh": "收银员",
+        "p": 1
+      },
+      {
+        "w": "gum",
+        "zh": "口香糖",
+        "p": 1
+      },
+      {
+        "w": "scanner",
+        "zh": "扫描器",
+        "p": 1
+      },
+      {
+        "w": "sink",
+        "zh": "沉入；下陷",
+        "p": 1
+      },
+      {
+        "w": "checkout",
+        "zh": "收银台；结账",
+        "p": 1
+      },
+      {
+        "w": "cent",
+        "zh": "美分",
+        "p": 1
+      },
+      {
+        "w": "shelf",
+        "zh": "货架",
+        "p": 1
+      },
+      {
+        "w": "promotion",
+        "zh": "促销；晋升",
+        "p": 1
+      },
+      {
+        "w": "wrapper",
+        "zh": "包装纸",
+        "p": 1
+      },
+      {
+        "w": "invention",
+        "zh": "发明",
+        "p": 2
+      },
+      {
+        "w": "classify",
+        "zh": "分类",
+        "p": 2
+      },
+      {
+        "w": "optical",
+        "zh": "光学的",
+        "p": 2
+      },
+      {
+        "w": "depict",
+        "zh": "描绘",
+        "p": 2
+      },
+      {
+        "w": "linear",
+        "zh": "直线的",
+        "p": 2
+      },
+      {
+        "w": "circular",
+        "zh": "圆环的",
+        "p": 2
+      },
+      {
+        "w": "feasible",
+        "zh": "可行的",
+        "p": 2
+      },
+      {
+        "w": "premature",
+        "zh": "为时过早的",
+        "p": 2
+      },
+      {
+        "w": "computing",
+        "zh": "计算",
+        "p": 2
+      },
+      {
+        "w": "numbering",
+        "zh": "编号",
+        "p": 2
+      },
+      {
+        "w": "grocer",
+        "zh": "杂货商",
+        "p": 3
+      },
+      {
+        "w": "symbol",
+        "zh": "符号",
+        "p": 3
+      },
+      {
+        "w": "engineer",
+        "zh": "工程师",
+        "p": 3
+      },
+      {
+        "w": "bullseye",
+        "zh": "牛眼环；靶心",
+        "p": 3
+      },
+      {
+        "w": "print",
+        "zh": "印刷",
+        "p": 3
+      },
+      {
+        "w": "packaging",
+        "zh": "包装",
+        "p": 3
+      },
+      {
+        "w": "smear",
+        "zh": "洇开；涂抹",
+        "p": 3
+      },
+      {
+        "w": "vertical",
+        "zh": "竖直的",
+        "p": 3
+      },
+      {
+        "w": "panel",
+        "zh": "评审组；面板",
+        "p": 3
+      },
+      {
+        "w": "proposal",
+        "zh": "方案；提议",
+        "p": 3
+      },
+      {
+        "w": "format",
+        "zh": "格式",
+        "p": 4
+      },
+      {
+        "w": "digit",
+        "zh": "数字；位",
+        "p": 4
+      },
+      {
+        "w": "digits",
+        "zh": "数位（复）",
+        "p": 4
+      },
+      {
+        "w": "catch",
+        "zh": "逮住；捕捉",
+        "p": 4
+      },
+      {
+        "w": "misread",
+        "zh": "误读",
+        "p": 4
+      },
+      {
+        "w": "mirror",
+        "zh": "反射镜",
+        "p": 4
+      },
+      {
+        "w": "sweep",
+        "zh": "扫过",
+        "p": 4
+      },
+      {
+        "w": "photodiode",
+        "zh": "光电二极管",
+        "p": 4
+      },
+      {
+        "w": "reflect",
+        "zh": "反射",
+        "p": 4
+      },
+      {
+        "w": "width",
+        "zh": "宽度",
+        "p": 4
+      },
+      {
+        "w": "database",
+        "zh": "数据库",
+        "p": 5
+      },
+      {
+        "w": "description",
+        "zh": "描述",
+        "p": 5
+      },
+      {
+        "w": "inventory",
+        "zh": "库存",
+        "p": 5
+      },
+      {
+        "w": "vendor",
+        "zh": "供应商",
+        "p": 5
+      },
+      {
+        "w": "compatible",
+        "zh": "兼容的",
+        "p": 5
+      },
+      {
+        "w": "proprietary",
+        "zh": "专有的",
+        "p": 5
+      },
+      {
+        "w": "infrastructure",
+        "zh": "基础设施",
+        "p": 5
+      },
+      {
+        "w": "competitor",
+        "zh": "竞争者",
+        "p": 5
+      },
+      {
+        "w": "obey",
+        "zh": "遵守",
+        "p": 5
+      },
+      {
+        "w": "specification",
+        "zh": "规范",
+        "p": 5
+      }
+    ],
+    "facts": [
+      "1974年6月26日8时01分，俄亥俄州特洛伊镇马什超市，马什研发主管克莱德·道森从购物车中取出一条十包装箭牌Juicy Fruit口香糖，由收银员莎伦·布坎南完成史上第一次UPC零售扫描，NCR收款机打出67美分。该包装现藏于史密森学会美国历史博物馆。[Grokipedia：UPC](https://grokipedia.com/page/Universal_Product_Code)｜[IBM：The UPC](https://www.ibm.com/history/upc)",
+      "**当日货架标价为69美分，店内正做两分钱促销，系统读码后在后台数据库中完成比对并即时应用折扣。**这是本文论点的现场证据：条码本身不含价格，促销是包装无从知晓的信息。[First UPC Barcode Product Scanned](https://posts.terabox.com/hub/what-product-had-the-first-upc-barcode-stamped-on-it)",
+      "1949年诺曼·伍德兰与伯纳德·西尔弗提出用印刷标记作光学分类的专利申请，1952年获授权，文件同时描绘直线与同心圆两类图形。受限于当时无激光、计算昂贵、缺乏全行业通用编号，构想可行却过早。[HISTORY：How the Barcode Was Invented](https://www.history.com/articles/upc-barcode-invention-ibm-laurer)",
+      "1970年前后杂货业已就每件商品的编号达成一致，尚缺机器可读的符号。IBM工程师乔治·劳雷尔认为同心圆在包装印刷时容易洇开，拒绝了上司要求沿用牛眼图形的意见，转而主张线性竖条；1973年委员会选定IBM方案。[IBM：The UPC](https://www.ibm.com/history/upc)｜[HISTORY](https://www.history.com/articles/upc-barcode-invention-ibm-laurer)",
+      "UPC-A为十二位数字，末位为校验位，用于识别误读。该条口香糖的UPC为036000291452。扫描端由反射镜扫掠激光束、光电二极管测量反射光强，条与空的宽度被译为数字。[Grokipedia：UPC](https://grokipedia.com/page/Universal_Product_Code)",
+      "编码本身只指向厂商与商品，描述与价格存于零售商数据库，因此调价无需重印包装，且每笔销售可即时更新库存。系统的成立依赖商店建账、互相竞争的设备商制造兼容读头、制造商在包装上印码——专有方案可服务单一连锁，基础设施则要求竞争者共同遵守同一份规范。[IBM：The UPC](https://www.ibm.com/history/upc)"
+    ]
+  },
     {
       "id": "06",
       "slug": "the-reaction-invented-twice",
