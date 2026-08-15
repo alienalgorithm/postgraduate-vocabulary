@@ -27,7 +27,7 @@ const SOURCE_AUDIT = {
   '10': { source: 'be410145-0b0e-4ec1-9889-1b0f758ab2ef.md', verification: 'exact-uploaded-markdown', blob: '0cae816f2e21cbf438527ba6b4c7c28556ee03d3' },
   '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '12': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: '5cc60c63acb1e8dff617120d6b8f273cb99d0270' },
-  '13': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'c4c95be922ce46a972e375d561d167bb75f46013' },
+  '13': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的266词最终精进锁定稿', verification: 'conversation-latest-final' },
   '14': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: '63279e6e988966680c8a164db3fb0e19b4a08972' },
   '15': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'bab945342134b4d45bb8d005569f11c9fb2a97fe' },
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
@@ -50,7 +50,7 @@ const VERSION_IDS = {
   '10': '10-final-proofed',
   '11': '11-270-word-final-locked',
   '12': '12-final-proofed',
-  '13': '13-final-proofed',
+  '13': '13-266-word-final-locked',
   '14': '14-final-proofed',
   '15': '15-final-proofed',
   '16': '16-263-word-final-polish',
@@ -245,6 +245,14 @@ const SUPERSEDED_SIGNATURES = {
     'the first **machine** to **create** continuous electrical **output**',
     'the generator feeds **power** into a **network** serving a **city**',
     '255 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 19.6%',
+  ],
+  '13': [
+    'The **claim** **challenged** the **idea** of fixed genetic addresses.',
+    'at the 1951 Cold Spring Harbor **conference**, many in the **audience** did not **appreciate**',
+    'Her data won more respect than her interpretation; she **explored** further.',
+    'The discovery was **recognised** with the 1983 Nobel **Prize**.',
+    'when Ds left the gene **early**, subsequent **daughter** cells inherited',
+    '262 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 19.1%',
   ],
 };
 

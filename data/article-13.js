@@ -4,312 +4,302 @@
 (function (root) {
   'use strict';
   var article = {
-  "id": "13",
-  "slug": "the-colour-returned-in-patches",
-  "title": "The Colour Returned in Patches",
-  "titleZh": "颜色以斑块重现",
-  "standfirst": "玉米籽粒上大小不一的斑点并非随机装饰；麦克林托克把颜色图样、细胞谱系与染色体对应起来，读出了遗传元件移动的早晚。",
-  "topic": "1944—1983 年麦克林托克、玉米斑驳与转座元件",
-  "date": "2026-08-11",
-  "status": "第十三篇最终精校稿",
-  "metrics": {
-    "words": 262,
-    "keywords": 50,
-    "density": 19.1
-  },
-  "paras": [
-    {
-      "en": "A maize kernel could record when a genetic element moved. In 1944 Barbara McClintock **bred** **corn** and used genetic **crosses** to investigate chromosome-9 breakage. Some **seeds** bore a **purple** **patch**; others were densely spotted. Microscopy made chromosome changes **visible**; she **tracked** their inheritance and linked them to patterns formed as **cells** **divided**.",
-      "zh": "一粒玉米籽可以记录遗传元件何时移动。1944年，芭芭拉·麦克林托克**培育**(bred)**玉米**(corn)，通过遗传**杂交**(crosses)研究第9号染色体的断裂。有些**籽粒**(seeds)带着一块**紫色**(purple)**斑块**(patch)，另一些则布满斑点。显微观察使染色体变化清晰**可见**(visible)；她**追踪**(tracked)这些变化如何遗传，再把它们与**细胞**(cells)**分裂**(divided)形成的颜色图样联系起来。"
+    "id": "13",
+    "slug": "the-colour-returned-in-patches",
+    "title": "The Colour Returned in Patches",
+    "titleZh": "颜色以斑块重现",
+    "standfirst": "每一块色斑都是一只钟：切离发生得早就长成宽阔的扇区，晚了只剩一点碎斑。而她1953年停止了发表。",
+    "topic": "1944—1983 年麦克林托克、玉米斑驳与转座元件",
+    "date": "2026-08-15",
+    "status": "第十三篇最终精进锁定稿",
+    "metrics": {
+      "words": 266,
+      "keywords": 50,
+      "density": 18.8
     },
-    {
-      "en": "McClintock named a chromosome-9 breakage locus Dissociation, or Ds. She later inferred that Ds was a **segment** that, when **inserted** into a pigment **gene**, could **interrupt** it. Ds moved only in Ac's **presence**; Ac was independently **mobile** and **triggered** Ds movement. Ds could then **leave**, sometimes **restoring** function; the purple **trait** returned.",
-      "zh": "麦克林托克把第9号染色体上的一个断裂位点命名为“解离”，即Ds。后来她推断，Ds是一个可以移动的**片段**(segment)；它**插入**(inserted)色素**基因**(gene)后，可能使其**失去作用**(interrupt)。Ds只有在Ac**存在**(presence)时才会移动；Ac本身可以自主**移动**(mobile)，也会**触发**(triggered)Ds转座。Ds随后可以**离开**(leave)原位，有时会**恢复**(restoring)基因功能，使紫色**性状**(trait)重新出现。"
-    },
-    {
-      "en": "McClintock called Ac and Ds **controlling** elements. Their **influence** depended on location: an insertion could **silence** a **neighbouring** gene, while departure could **permit** its **expression** again. Genetic **behaviour** could reflect a **temporary** chromosomal **state**, not necessarily a **permanent** change to the gene itself. The pigment gene stayed put; its interrupter moved.",
-      "zh": "麦克林托克把Ac和Ds称为“**控制性**(controlling)元件”。它们的**影响**(influence)取决于所在位置：插入可能使一个**邻近的**(neighbouring)基因**陷入沉默**(silence)，离开后则可能**允许**(permit)它重新**表达**(expression)。遗传**表现**(behaviour)可能反映一种**暂时的**(temporary)染色体**状态**(state)，而不一定意味着基因本身发生**永久的**(permanent)改变。色素基因留在原处；移动的是中断其表达的元件。"
-    },
-    {
-      "en": "Her **careful** **experiments** **documented** these rules across many crosses. The **claim** **challenged** the **idea** of fixed genetic addresses. She published in 1950; at the 1951 Cold Spring Harbor **conference**, many in the **audience** did not **appreciate** her broader interpretation. Her data won more respect than her interpretation; she **explored** further.",
-      "zh": "她用**严谨的**(careful)**实验**(experiments)，在许多次杂交中**记录并证明**(documented)了这些规律。这个**主张**(claim)**挑战了**(challenged)“遗传元件各有固定位置”这一传统**观念**(idea)。她在1950年发表研究成果；在1951年的冷泉港**会议**(conference)上，许多**听众**(audience)并未充分**认识到**(appreciate)她这番解释的广泛意义。她的数据比她的解释更受认可；她则继续深入**探索**(explored)。"
-    },
-    {
-      "en": "The discovery was **recognised** with the 1983 Nobel **Prize**. Its mechanism remained visible in one kernel: when Ds left the gene **early**, subsequent **daughter** cells inherited the restored state and **multiplied**, generally forming a **large** **spot**; a **late** departure usually left a **small** one. Each patch marked a cell lineage; its **size** helped indicate when excision occurred.",
-      "zh": "这项发现于1983年**得到认可**(recognised)：麦克林托克获得诺贝尔**奖**(Prize)。这一机制仍清楚地呈现在一颗玉米籽上：若Ds在发育**早期**(early)离开基因，随后产生的**子细胞**(daughter)便会继承恢复后的状态并不断**增殖**(multiplied)，通常形成一块**较大的**(large)**色斑**(spot)；到了发育**晚期**(late)才离开，通常只留下**较小的**(small)色斑。每块色斑都对应一条细胞谱系；其**大小**(size)有助于判断切出发生的早晚。"
-    }
-  ],
-  "glossary": [
-    {
-      "w": "breed",
-      "zh": "培育；繁殖",
-      "p": 1
-    },
-    {
-      "w": "corn",
-      "zh": "玉米",
-      "p": 1
-    },
-    {
-      "w": "cross",
-      "zh": "杂交；交叉",
-      "p": 1
-    },
-    {
-      "w": "seed",
-      "zh": "种子；籽粒",
-      "p": 1
-    },
-    {
-      "w": "purple",
-      "zh": "紫色的；紫色",
-      "p": 1
-    },
-    {
-      "w": "patch",
-      "zh": "斑块；小块",
-      "p": 1
-    },
-    {
-      "w": "visible",
-      "zh": "可见的；明显的",
-      "p": 1
-    },
-    {
-      "w": "track",
-      "zh": "追踪；轨迹",
-      "p": 1
-    },
-    {
-      "w": "cell",
-      "zh": "细胞",
-      "p": 1
-    },
-    {
-      "w": "divide",
-      "zh": "分裂；划分",
-      "p": 1
-    },
-    {
-      "w": "segment",
-      "zh": "片段；部分",
-      "p": 2
-    },
-    {
-      "w": "insert",
-      "zh": "插入；嵌入",
-      "p": 2
-    },
-    {
-      "w": "gene",
-      "zh": "基因",
-      "p": 2
-    },
-    {
-      "w": "interrupt",
-      "zh": "打断；使中断",
-      "p": 2
-    },
-    {
-      "w": "presence",
-      "zh": "存在；在场",
-      "p": 2
-    },
-    {
-      "w": "mobile",
-      "zh": "可移动的；流动的",
-      "p": 2
-    },
-    {
-      "w": "trigger",
-      "zh": "触发；引发",
-      "p": 2
-    },
-    {
-      "w": "leave",
-      "zh": "离开；留下",
-      "p": 2
-    },
-    {
-      "w": "restore",
-      "zh": "恢复；修复",
-      "p": 2
-    },
-    {
-      "w": "trait",
-      "zh": "性状；特征",
-      "p": 2
-    },
-    {
-      "w": "control",
-      "zh": "控制；调控",
-      "p": 3
-    },
-    {
-      "w": "influence",
-      "zh": "影响",
-      "p": 3
-    },
-    {
-      "w": "silence",
-      "zh": "使沉默；寂静",
-      "p": 3
-    },
-    {
-      "w": "neighbor",
-      "zh": "邻近者；邻近基因",
-      "p": 3
-    },
-    {
-      "w": "permit",
-      "zh": "允许；许可证",
-      "p": 3
-    },
-    {
-      "w": "expression",
-      "zh": "表达；表情",
-      "p": 3
-    },
-    {
-      "w": "behavior",
-      "zh": "行为；表现",
-      "p": 3
-    },
-    {
-      "w": "temporary",
-      "zh": "暂时的；临时的",
-      "p": 3
-    },
-    {
-      "w": "state",
-      "zh": "状态；陈述",
-      "p": 3
-    },
-    {
-      "w": "permanent",
-      "zh": "永久的；长期的",
-      "p": 3
-    },
-    {
-      "w": "careful",
-      "zh": "严谨的；仔细的",
-      "p": 4
-    },
-    {
-      "w": "experiment",
-      "zh": "实验",
-      "p": 4
-    },
-    {
-      "w": "document",
-      "zh": "记录；以资料证明",
-      "p": 4
-    },
-    {
-      "w": "claim",
-      "zh": "主张；声称",
-      "p": 4
-    },
-    {
-      "w": "challenge",
-      "zh": "挑战；质疑",
-      "p": 4
-    },
-    {
-      "w": "idea",
-      "zh": "观念；想法",
-      "p": 4
-    },
-    {
-      "w": "conference",
-      "zh": "会议",
-      "p": 4
-    },
-    {
-      "w": "audience",
-      "zh": "听众；观众",
-      "p": 4
-    },
-    {
-      "w": "appreciate",
-      "zh": "充分认识；欣赏",
-      "p": 4
-    },
-    {
-      "w": "explore",
-      "zh": "探索；探究",
-      "p": 4
-    },
-    {
-      "w": "recognise",
-      "zh": "认可；识别",
-      "p": 5
-    },
-    {
-      "w": "prize",
-      "zh": "奖项；奖",
-      "p": 5
-    },
-    {
-      "w": "early",
-      "zh": "早期地；早的",
-      "p": 5
-    },
-    {
-      "w": "daughter",
-      "zh": "子代的；子细胞",
-      "p": 5
-    },
-    {
-      "w": "multiply",
-      "zh": "增殖；乘",
-      "p": 5
-    },
-    {
-      "w": "large",
-      "zh": "大的；大规模的",
-      "p": 5
-    },
-    {
-      "w": "spot",
-      "zh": "色斑；斑点",
-      "p": 5
-    },
-    {
-      "w": "late",
-      "zh": "晚期地；迟的",
-      "p": 5
-    },
-    {
-      "w": "small",
-      "zh": "小的；少量的",
-      "p": 5
-    },
-    {
-      "w": "size",
-      "zh": "大小；尺寸",
-      "p": 5
-    }
-  ],
-  "facts": [
-    "一穗玉米上的籽粒分别来自独立受精。发育中某个细胞发生可遗传变化后，其子细胞会形成一个克隆斑块；在经典Ac/Ds色素系统中，较大的斑块通常对应较早的切出事件，较小的斑块通常对应较晚事件。正文保留了generally与usually，没有把斑块大小写成精确时钟。",
-    "1944年，麦克林托克把既有的断裂—融合—桥研究用于系统制造第9号染色体缺失，并由异常斑驳走向Ac/Ds研究；这既不是她开始研究染色体断裂的年份，也不是完整Ac/Ds模型形成的年份。",
-    "Ds得名Dissociation，是因为它最初与染色体断裂相关。在经典Ac/Ds系统中，Ds属于非自主转座元件，只有Ac存在时才能移动；Ac自身可以自主转座，并为Ds的移动提供所需功能，因此不是简单把色素基因打开的静止开关。",
-    "Ds插入色素基因可打断表达；若它从发育中籽粒某个细胞的该位点切出，基因功能有时可以恢复，随后由该细胞产生的子细胞形成有色斑块。切出并非每次都能无痕恢复，所以正文采用could与sometimes。",
-    "麦克林托克在1950年PNAS论文《The Origin and Behavior of Mutable Loci in Maize》中发表成熟证据，并在1951年冷泉港研讨会上阐述controlling elements。正文没有把1944年的早期工作误写成已经具有后来全部分子解释。",
-    "当时不少遗传学家难以接受或理解这套解释的广泛意义，但她的玉米细胞遗传学证据并非无人尊重，她也没有因反应冷淡而完全停止研究或发表。正文用‘数据比解释更容易赢得尊重’避免了‘孤独天才遭全体嘲笑’的神话。",
-    "20世纪60年代中期细菌移动元件的发现及后来的分子研究证明，基因组中的移动元件并非玉米特例。正文没有把后来才明确的转座酶分子机制倒灌成麦克林托克1950年已经直接观察到的事实。",
-    "1983年，麦克林托克独享诺贝尔生理学或医学奖，授奖理由是‘发现移动遗传元件’。正文把奖项作为认可节点，而没有声称科学界直到获奖才开始相信她。",
-    "来源：[Nobel Prize：1983年授奖新闻稿、Ac/Ds机制与斑驳籽粒](https://www.nobelprize.org/prizes/medicine/1983/press-release/)",
-    "来源：[Nobel Prize：1983年奖项概要与独享授奖事实](https://www.nobelprize.org/prizes/medicine/1983/summary/)",
-    "来源：[Cold Spring Harbor Laboratory：1950年原论文书目与全文入口](https://repository.cshl.edu/id/eprint/34603/)",
-    "来源：[Cold Spring Harbor Laboratory：1951年《Chromosome Organization and Genic Expression》论文记录](https://repository.cshl.edu/id/eprint/34604/)",
-    "来源：[Cold Spring Harbor Laboratory：麦克林托克档案与学术接受史](https://www.cshl.edu/personal-collections/barbara-mcclintock/)",
-    "来源：[DNA Learning Center：Ac/Ds切出与玉米色斑机制动画](https://dnalc.cshl.edu/view/16668-Animation-32-Some-DNA-can-jump-.html)",
-    "来源：[Cold Spring Harbor Laboratory：1944年第9号染色体缺失研究原始记录](https://repository.cshl.edu/id/eprint/34593/)",
-    "来源：[NHGRI：1944年工作作为移动遗传元件研究起点的边界](https://www.genome.gov/25520251/online-education-kit-1944-jumping-genes)"
-  ]
-};
+    "paras": [
+      {
+        "en": "A **kernel** of maize records when a chromosome fragment moved. From 1944 Barbara McClintock **bred** **corn** and used genetic **crosses** to trace where chromosome 9 kept snapping. Some **seeds** carried one **purple** **patch**; others were finely **speckled**. Under the **microscope** she watched the chromosomes and traced what the plants **inherited**.",
+        "zh": "一粒玉米**籽粒**(kernel)能记下染色体片段是什么时候动的。从1944年起，芭芭拉·麦克林托克**培育**(bred)**玉米**(corn)，用遗传**杂交**(crosses)追查9号染色体老是断在哪里。有些**种子**(seeds)上只有一块**紫色**(purple)**斑**(patch)，另一些则布满细密的**麻点**(speckled)。她在**显微镜**(microscope)下盯着染色体，追踪植株**遗传**(inherited)到了什么。"
+      },
+      {
+        "en": "In 1948 she named the **breakage** **locus** Dissociation, or Ds. Ds was a **segment** that, dropped into a **pigment** **gene**, could **interrupt** it — and it **shifted** only when Activator stood **alongside** it. When Ds **departed**, the gene worked again and the colour came back. The gene never moved; its **interrupter** did.",
+        "zh": "1948年，她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds。Ds是一小**段**(segment)序列，落进**色素**(pigment)**基因**(gene)里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。基因从没动过；动的是打断它的那个**插入者**(interrupter)。"
+      },
+      {
+        "en": "Each **blotch** is therefore a clock. Ds leaves one cell; every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **jump**.",
+        "zh": "所以每一块**色斑**(blotch)都是一只钟。Ds离开某个细胞，那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**跳跃**(jump)。"
+      },
+      {
+        "en": "McClintock called Ac and Ds **controlling** elements: an **insertion** could **silence** a **neighbouring** gene, a **departure** **permit** it again. That made a genome something other than a fixed **ledger** of addresses. She **announced** it in 1950 and spoke at Cold Spring Harbor in 1951, meeting bafflement, even **contempt**. In 1953 she **ceased** publishing on it.",
+        "zh": "麦克林托克把Ac与Ds称作**控制**(controlling)元件：一次**插入**(insertion)能**沉默**(silence)**邻近**(neighbouring)的基因，一次**离去**(departure)又**准许**(permit)它重新表达。这让基因组不再是一份固定的地址**账本**(ledger)。她1950年**公布**(announced)了结果，1951年在冷泉港作报告，迎来的是她自己所说的困惑，甚至**轻蔑**(contempt)。1953年，她**停止**(ceased)就此发表。"
+      },
+      {
+        "en": "**Sceptics** were answered elsewhere, and **belatedly**. **Mobile** elements surfaced in **microbial** cells after François Jacob and Jacques Monod. In 1983, thirty-two years after that **symposium**, she took a Nobel held **solely** — the first woman, **unshared**. Such elements are now known to make up the **bulk** of nearly half the human **genome**. She had been reading them off a **spotted** kernel.",
+        "zh": "**怀疑者**(Sceptics)是在别处、而且**迟迟**(belatedly)才被回答的。继弗朗索瓦·雅各布与雅克·莫诺之后，**可移动**(Mobile)元件在**微生物**(microbial)细胞里现身，随后到处都是。1983年，距那场**研讨会**(symposium)三十二年，她独得诺贝尔奖——第一位**独自**(solely)**享有**(unshared)该奖的女性。如今已知这类元件构成了人类**基因组**(genome)近一半的**主体**(bulk)。她一直是从一粒**带斑的**(spotted)籽粒上把它们读出来的。"
+      }
+    ],
+    "glossary": [
+      {
+        "w": "kernel",
+        "zh": "籽粒",
+        "p": 1
+      },
+      {
+        "w": "breed",
+        "zh": "培育",
+        "p": 1
+      },
+      {
+        "w": "corn",
+        "zh": "玉米",
+        "p": 1
+      },
+      {
+        "w": "cross",
+        "zh": "杂交",
+        "p": 1
+      },
+      {
+        "w": "seed",
+        "zh": "种子",
+        "p": 1
+      },
+      {
+        "w": "purple",
+        "zh": "紫色的",
+        "p": 1
+      },
+      {
+        "w": "patch",
+        "zh": "斑块",
+        "p": 1
+      },
+      {
+        "w": "speckle",
+        "zh": "布满麻点",
+        "p": 1
+      },
+      {
+        "w": "microscope",
+        "zh": "显微镜",
+        "p": 1
+      },
+      {
+        "w": "inherit",
+        "zh": "遗传",
+        "p": 1
+      },
+      {
+        "w": "breakage",
+        "zh": "断裂",
+        "p": 2
+      },
+      {
+        "w": "locus",
+        "zh": "位点",
+        "p": 2
+      },
+      {
+        "w": "segment",
+        "zh": "段；片段",
+        "p": 2
+      },
+      {
+        "w": "pigment",
+        "zh": "色素",
+        "p": 2
+      },
+      {
+        "w": "gene",
+        "zh": "基因",
+        "p": 2
+      },
+      {
+        "w": "interrupt",
+        "zh": "打断",
+        "p": 2
+      },
+      {
+        "w": "shift",
+        "zh": "移位",
+        "p": 2
+      },
+      {
+        "w": "alongside",
+        "zh": "在旁；沿着",
+        "p": 2
+      },
+      {
+        "w": "depart",
+        "zh": "离开",
+        "p": 2
+      },
+      {
+        "w": "interrupter",
+        "zh": "打断者",
+        "p": 2
+      },
+      {
+        "w": "blotch",
+        "zh": "色斑",
+        "p": 3
+      },
+      {
+        "w": "descendant",
+        "zh": "后代",
+        "p": 3
+      },
+      {
+        "w": "restore",
+        "zh": "恢复",
+        "p": 3
+      },
+      {
+        "w": "excision",
+        "zh": "切离；切除",
+        "p": 3
+      },
+      {
+        "w": "broad",
+        "zh": "宽阔的",
+        "p": 3
+      },
+      {
+        "w": "sector",
+        "zh": "扇区",
+        "p": 3
+      },
+      {
+        "w": "fleck",
+        "zh": "碎斑",
+        "p": 3
+      },
+      {
+        "w": "lineage",
+        "zh": "谱系",
+        "p": 3
+      },
+      {
+        "w": "span",
+        "zh": "跨度",
+        "p": 3
+      },
+      {
+        "w": "jump",
+        "zh": "跳跃",
+        "p": 3
+      },
+      {
+        "w": "control",
+        "zh": "控制",
+        "p": 4
+      },
+      {
+        "w": "insertion",
+        "zh": "插入",
+        "p": 4
+      },
+      {
+        "w": "silence",
+        "zh": "使沉默",
+        "p": 4
+      },
+      {
+        "w": "neighbouring",
+        "zh": "邻近的",
+        "p": 4
+      },
+      {
+        "w": "departure",
+        "zh": "离去",
+        "p": 4
+      },
+      {
+        "w": "permit",
+        "zh": "准许",
+        "p": 4
+      },
+      {
+        "w": "ledger",
+        "zh": "账本",
+        "p": 4
+      },
+      {
+        "w": "announce",
+        "zh": "公布；宣布",
+        "p": 4
+      },
+      {
+        "w": "contempt",
+        "zh": "轻蔑",
+        "p": 4
+      },
+      {
+        "w": "cease",
+        "zh": "停止",
+        "p": 4
+      },
+      {
+        "w": "sceptic",
+        "zh": "怀疑者",
+        "p": 5
+      },
+      {
+        "w": "belatedly",
+        "zh": "迟迟地",
+        "p": 5
+      },
+      {
+        "w": "mobile",
+        "zh": "可移动的",
+        "p": 5
+      },
+      {
+        "w": "microbial",
+        "zh": "微生物的",
+        "p": 5
+      },
+      {
+        "w": "symposium",
+        "zh": "研讨会",
+        "p": 5
+      },
+      {
+        "w": "unshared",
+        "zh": "不与人分享的",
+        "p": 5
+      },
+      {
+        "w": "solely",
+        "zh": "独自地",
+        "p": 5
+      },
+      {
+        "w": "genome",
+        "zh": "基因组",
+        "p": 5
+      },
+      {
+        "w": "build",
+        "zh": "构成；建造",
+        "p": 5
+      },
+      {
+        "w": "spotted",
+        "zh": "带斑的",
+        "p": 5
+      }
+    ],
+    "facts": [
+      "麦克林托克自1940年代起以玉米为材料研究9号染色体的断裂—融合—桥循环，并借遗传杂交与显微观察追踪其遗传。籽粒上的紫色斑块与麻点即色素基因表达状态的可见记录。",
+      "她将断裂位点命名为Dissociation（Ds）；Ds插入色素基因可使其失活，且仅在第二种元件Activator（Ac）存在时发生移位。Ds离去后基因功能恢复，色素重现。基因本身位置不变，移动的是插入其中的元件。",
+      "斑块大小编码切离时刻：Ds越早离开，其后代细胞越多，色斑越大；越晚离开则越小。每一色斑对应一个细胞谱系。",
+      "1950年，她在《美国科学院院刊》发表《玉米可变位点的起源与行为》；1951年夏在冷泉港年度研讨会报告《染色体组织与基因表达》。她本人将当时的反应描述为「困惑，甚至敌意」。[Citizendium：Barbara McClintock](https://citizendium.org/wiki/Barbara_McClintock/Citable_Version)",
+      "**1953年她停止就此发表**——按其自述，是因为「敏锐地意识到人们对这些结论的漠然与不信任」。[AAAS：McClintock was years away from her colleagues](https://www.aaas.org/taxonomy/term/10/barbara-mcclintock-was-years-away-her-colleagues)",
+      "1960年代分子生物学家在细菌等体系中独立发现可移动元件，其结论方获广泛接受。1983年她获诺贝尔生理学或医学奖，为首位独得该奖（不与人分享）的女性。目前已知人类基因组中超过45%由转座元件构成。[PNAS：McClintock and the discovery of jumping genes](https://www.pnas.org/doi/10.1073/pnas.1219372109)｜[ASU Embryo Project](https://embryo.asu.edu/taxonomy/term/145351)｜[ScienceInsights：45%](https://scienceinsights.org/what-did-barbara-mcclintock-discover-jumping-genes/)"
+    ]
+  };
   root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
