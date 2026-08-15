@@ -1,0 +1,293 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+单词检察官 · 写作智能体（agent）
+================================
+检察官 v5 已经证明：文章好不好，表层特征判不了（见 notes/检察官说明.md §2）。
+所以本智能体不做"事后打分"，只做三件机器真正擅长、而人做起来极慢的事：
+
+  1. brief   把研究材料变成「本题材可用、且词价合格」的重点词池 —— 让冲突不可能发生
+  2. review  把草稿变成「按优先级排序的修改指令」 —— 而不是一堆平铺的报错
+  3. skeleton 给出从范文反推的五段功能骨架 —— 每段该干什么活
+
+判断力仍然在人（或 LLM）那一侧：反转够不够狠、结尾能不能迁移，本工具只负责
+把所有可机械保证的事情机械地保证掉，并把需要判断的地方精确地标出来。
+
+用法
+----
+    python3 scripts/agent.py brief  notes.txt [--exclude 03] [--top 120]
+    python3 scripts/agent.py review draft.md  [--exclude 03]
+    python3 scripts/agent.py skeleton
+"""
+import json, re, os, sys, glob, subprocess
+from collections import Counter, defaultdict
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "scripts"))
+BOLD = re.compile(r"\*\*(.+?)\*\*")
+BAR = "─" * 68
+
+try:
+    from wordfreq import zipf_frequency
+except Exception:
+    sys.exit("需要 wordfreq：pip install wordfreq --break-system-packages")
+
+WORDS_MIN, WORDS_MAX, KW = 240, 270, 50
+ZIPF_OK_LO, ZIPF_OK_HI = 2.5, 4.6      # 合格带
+ZIPF_CHEAP = 5.0                        # ≥ 白送
+KW_SPREAD_MAX = 2
+
+# ── 数据层 ──────────────────────────────────────────────────────────────
+def load():
+    files = ["data/articles.js"] + sorted(glob.glob(os.path.join(ROOT, "data", "article-*.js")))
+    files = [f if os.path.isabs(f) else os.path.join(ROOT, f) for f in files]
+    js = "globalThis.window=globalThis;" + "".join("require(%s);" % json.dumps(f) for f in files) \
+         + "process.stdout.write(JSON.stringify(globalThis.SITE.ARTICLES))"
+    r = subprocess.run(["node", "-e", js], capture_output=True, text=True)
+    if r.returncode:
+        sys.exit(r.stderr)
+    return sorted(json.loads(r.stdout), key=lambda a: str(a["id"]))
+
+def norm(s):
+    return re.sub(r"[^a-z]", "", str(s).lower())
+
+SUFFIX = ("ations", "ation", "ities", "ility", "ingly", "ising", "izing", "iness",
+          "ments", "ment", "ness", "ially", "ally", "ible", "able", "ings",
+          "ing", "ions", "ion", "ives", "ive", "ies", "ied", "ous", "ers",
+          "est", "ed", "es", "ly", "er", "al", "s")
+
+def stem(w):
+    w = norm(w)
+    for suf in SUFFIX:
+        if len(w) - len(suf) >= 4 and w.endswith(suf):
+            return w[: -len(suf)]
+    return w
+
+def used_index(arts, exclude=None):
+    """词元 / 加粗表面形式 / 词干 三条通道，防止 return→returns 这类同根撞车。"""
+    exact, stems, owner = set(), set(), defaultdict(set)
+    for a in arts:
+        if exclude and a["id"] == exclude:
+            continue
+        ws = [g["w"] for g in a.get("glossary", [])]
+        for p in a.get("paras", []):
+            ws += BOLD.findall(p["en"])
+        for w in ws:
+            exact.add(norm(w)); stems.add(stem(w)); owner[norm(w)].add(a["id"]); owner[stem(w)].add(a["id"])
+    return exact, stems, owner
+
+def count_words(t):
+    return sum(1 for x in t.replace("**", "").split() if re.search(r"[A-Za-z0-9]", x))
+
+# ── 1. brief：题材可用词池 ──────────────────────────────────────────────
+STOP = set("""the a an and or of to in on at for from by as that this these those it its their his her they
+he she we you i not but was were is are be been being had have has do does did will would could should may
+might must can if then than when where which who whom what while with without within into onto over under
+about after before during through between among across against out up down off again more most much many
+some any all each every both few other another such same own very just also only even still yet there here
+one two three four five six seven eight nine ten first second third new old like get got make made take took
+said say says use used using per via etc""".split())
+
+def brief(arts, notes_path, exclude=None, top=120):
+    text = open(notes_path, encoding="utf-8").read()
+    exact, stems, owner = used_index(arts, exclude)
+    toks = re.findall(r"[A-Za-z][A-Za-z\-']{2,}", text)
+    freq = Counter(t.lower().strip("-'") for t in toks)
+    # 专名判定：材料中从未以小写形式出现过 → 是专名，不构成可学词，一律排除
+    lower_seen = Counter(t for t in toks if t[:1].islower())
+    proper = {t.lower() for t in toks if t[:1].isupper() and not lower_seen.get(t.lower())}
+
+    rows = []
+    for w, c in freq.items():
+        if w in STOP or len(w) < 3:
+            continue
+        z = round(zipf_frequency(w, "en"), 2)
+        n, s = norm(w), stem(w)
+        if n in exact or s in stems:
+            rows.append(("冲突", w, z, c, "、".join(sorted(owner.get(n) or owner.get(s) or []))))
+        elif w in proper:
+            continue
+        elif z >= ZIPF_CHEAP:
+            rows.append(("白送", w, z, c, ""))
+        elif z > ZIPF_OK_HI:
+            rows.append(("边缘", w, z, c, ""))
+        elif z < ZIPF_OK_LO:
+            rows.append(("生僻", w, z, c, ""))
+        else:
+            rows.append(("可用", w, z, c, ""))
+
+    order = {"可用": 0, "生僻": 1, "边缘": 2, "白送": 3, "冲突": 4}
+    rows.sort(key=lambda r: (order[r[0]], -r[3], r[2]))
+    buckets = defaultdict(list)
+    for r in rows:
+        buckets[r[0]].append(r)
+
+    print(BAR); print(f"写作简报 · 材料 {os.path.basename(notes_path)}"
+          + (f" · 改写第 {exclude} 篇" if exclude else " · 新篇"))
+    print(BAR)
+    print(f"目标：{WORDS_MIN}—{WORDS_MAX} 词 / 恰好 {KW} 个重点词 / 密度 ≤20% / 5 段 / "
+          f"各段重点词极差 ≤{KW_SPREAD_MAX}（理想 0，即 10·10·10·10·10）")
+    print()
+    print(f"【可用高价值词】{len(buckets['可用'])} 个 —— 从这里挑满 50 个")
+    for r in buckets["可用"][:top]:
+        print(f"   {r[1]:<18}{r[2]:>5.2f}  材料出现 {r[3]}次")
+    if len(buckets["可用"]) > top:
+        print(f"   …还有 {len(buckets['可用']) - top} 个")
+    print()
+    if buckets["生僻"]:
+        print(f"【题材必需的生僻词】{len(buckets['生僻'])} 个 —— 非考研词，只在绕不开时用")
+        print("   " + "  ".join(f"{r[1]}({r[2]})" for r in buckets["生僻"][:24]))
+        print()
+    if buckets["冲突"]:
+        print(f"【必须避开 · 已被占用】{len(buckets['冲突'])} 个")
+        for r in buckets["冲突"][:30]:
+            print(f"   {r[1]:<18}被第 {r[4]} 篇占用")
+        if len(buckets["冲突"]) > 30:
+            print(f"   …还有 {len(buckets['冲突']) - 30} 个")
+        print()
+    print(f"【不要浪费名额】白送 {len(buckets['白送'])} · 边缘 {len(buckets['边缘'])}")
+    print("   白送：" + "  ".join(r[1] for r in buckets["白送"][:20]))
+    print()
+    skeleton()
+
+# ── 2. skeleton：从范文反推的五段功能骨架 ───────────────────────────────
+SKELETON = [
+    ("§1 布景与装置", "谁、何时、何地、用什么。给出这一篇赖以成立的物理条件。"
+     "末句抛出触发点（异常读数 / 一封信 / 一次失败）。", "第17篇：1909年曼彻斯特暗室、放射源、铅屏、荧光屏，末句是闪光。"),
+    ("§2 异常本身", "把反常事实连同「为什么这反常」一起给出——不要把前提留到末段。"
+     "读者必须在此刻就知道它违反了什么。", "第17篇：多数穿过，少数折返；『考虑到动量，这种掉头令人震惊』就在同段。"),
+    ("§3 当时的解释为何不够", "摆出主流模型，指出它能解释什么、不能解释什么。这是论证的支点。",
+     "第17篇：汤姆孙原子每次只给微弱一推；卢瑟福1911年的分析要求一次强冲量。"),
+    ("§4 判别性证据", "给出能在两种解释之间做出判决的那一组数字或那一次实验。"
+     "本段通常是全篇最长、也是引擎。", "第17篇：盖革-马斯登1912—13年的定量测量检验了角分布预言。"),
+    ("§5 意义与升华", "先给可迁移的一般命题，再用一句具体的话收束。"
+     "评论只准出现在这一段；两句格言不要相邻。", "第17篇：『让少数折返者推翻多数看似证实的模型。』"),
+]
+
+def skeleton():
+    print(BAR); print("五段功能骨架（自第17/12/19篇反推）"); print(BAR)
+    for name, job, ex in SKELETON:
+        print(f"{name}")
+        print(f"   任务：{job}")
+        print(f"   范例：{ex}")
+    print()
+    print("每段 10 个重点词、约 50—58 词。正文只让事实推进，判断留到 §5。")
+
+# ── 3. review：按优先级排序的修改指令 ───────────────────────────────────
+def review(arts, path, exclude=None):
+    text = open(path, encoding="utf-8").read()
+    ps = [b.strip() for b in re.split(r"\n\s*\n", text) if b.strip()]
+    pw = [count_words(b) for b in ps]
+    pk = [BOLD.findall(b) for b in ps]
+    pkn = [len(x) for x in pk]
+    tw, tk = sum(pw), sum(pkn)
+    dens = tk / tw * 100 if tw else 0
+    exact, stems, owner = used_index(arts, exclude)
+
+    blocking, structural, vocab, judge = [], [], [], []
+
+    if not (WORDS_MIN <= tw <= WORDS_MAX):
+        d = tw - WORDS_MAX if tw > WORDS_MAX else WORDS_MIN - tw
+        blocking.append(f"词数 {tw}，{'超' if tw > WORDS_MAX else '不足'} {d} 词。"
+                        f"删同义复述与迟到的背景，保留前提/异常/推论/证据边界/末段新框架。")
+    if tk != KW:
+        blocking.append(f"重点词 {tk} 个，须 {KW}。")
+    if dens > 20:
+        blocking.append(f"密度 {dens:.1f}% 超 20%。")
+    if len(ps) != 5:
+        blocking.append(f"段落 {len(ps)} 段，须 5 段。")
+
+    if pkn:
+        sp = max(pkn) - min(pkn)
+        if sp > KW_SPREAD_MAX:
+            worst_hi = pkn.index(max(pkn)) + 1
+            worst_lo = pkn.index(min(pkn)) + 1
+            structural.append(f"关键词分布 {'·'.join(map(str,pkn))}，极差 {sp}。"
+                              f"从 §{worst_hi} 移出 {(max(pkn)-min(pkn))//2} 个到 §{worst_lo}，目标 10·10·10·10·10。")
+    for i, (w, k) in enumerate(zip(pw, pkn), 1):
+        if w < 40:
+            structural.append(f"§{i} 只有 {w} 词，是残段。它承担的论证不足以配得上一段——"
+                              f"要么并入相邻段，要么补足它该做的活（见骨架）。")
+        elif w > 72:
+            structural.append(f"§{i} 有 {w} 词，一段做了不止一件事，考虑拆分。")
+
+    allk = [w for g in pk for w in g]
+    ns = [norm(x) for x in allk]
+    dup = [x for x, c in Counter(ns).items() if c > 1]
+    if dup:
+        blocking.append("篇内重点词重复：" + "、".join(dup))
+    clash = []
+    for w in allk:
+        n, s = norm(w), stem(w)
+        if n in exact or s in stems:
+            clash.append((w, "、".join(sorted(owner.get(n) or owner.get(s) or []))))
+    if clash:
+        blocking.append("与其他篇冲突（含同根）：" + "；".join(f"{w}→第{o}篇" for w, o in clash))
+    cheap = [(w, round(zipf_frequency(norm(w), "en"), 2)) for w in allk
+             if zipf_frequency(norm(w), "en") >= ZIPF_CHEAP]
+    if len(cheap) > 6:
+        vocab.append(f"白送词 {len(cheap)} 个占用名额："
+                     + "、".join(f"{w}({z})" for w, z in cheap)
+                     + "。换成承重实词——考研生早已掌握这些。")
+    for i, p in enumerate(ps, 1):
+        for m in re.finditer(r"\*\*([^*]+)\*\*\s+\*\*([^*]+)\*\*", p):
+            judge.append(f"§{i} 相邻加粗 **{m.group(1)}** **{m.group(2)}**：确认不是一个词条占两个名额。")
+        for m in BOLD.finditer(p):
+            w = m.group(1)
+            if w[:1].isupper():
+                before = p[:m.start()].replace("**", "").rstrip()
+                if before and not before.endswith((".", "!", "?", ":", ";")):
+                    last = before.split()[-1]
+                    if last[:1].isupper():
+                        blocking.append(f"§{i} 专名内部加粗：{last} **{w}**。专名的一部分不是可学的词。")
+    body = " ".join(p.replace("**", "") for p in ps)
+    if not re.findall(r"(?<![.!?]\s)\b[A-Z][a-z]+\s+(?:van\s+|de\s+|von\s+)?[A-Z][a-z]+\b", body):
+        structural.append("全篇没有人名。写作规范 §3.3：主语用人或具体物——把动作还给具体的人。")
+    if not re.search(r"\b(instead|yet|but|however|rather than|nobody|no one)\b",
+                     " ".join(ps[1:-1]) if len(ps) > 2 else body, re.I):
+        judge.append("中段没有任何转折词。确认这是在论证而不是在编年——无反转的叙述读完不会有豁然开朗感。")
+    for i, p in enumerate(ps[:-1], 1):
+        if not re.search(r"\d", p):
+            judge.append(f"§{i} 没有任何数字。写作规范 §3.2：给数字，不给形容词。")
+
+    print(BAR); print(f"修改指令 · {os.path.basename(path)}"); print(BAR)
+    print(f"{tw}词 / {tk}重点词 / {dens:.1f}%    分布 {'·'.join(map(str,pkn))}    段落词数 {'·'.join(map(str,pw))}")
+    print()
+    n = 0
+    for title, items in [("一、阻塞项（不修则不能入库）", blocking),
+                         ("二、结构（决定这篇能到什么水平）", structural),
+                         ("三、词价（决定教学价值）", vocab),
+                         ("四、需人工判断（机器只能提示）", judge)]:
+        if not items:
+            continue
+        print(title)
+        for it in items:
+            n += 1
+            print(f"  {n}. {it}")
+        print()
+    if n == 0:
+        print("机械层面全部通过。剩下的只有判断：反转够不够狠？结尾能不能迁移？")
+    else:
+        print("按顺序修：一 → 二 → 三 → 四。每修一处回查是否碰坏别处（约1/3的新缺陷是修改引入的）。")
+
+def main():
+    if len(sys.argv) < 2:
+        print(__doc__); return
+    cmd = sys.argv[1]
+    argv = sys.argv[2:]
+    ex = argv[argv.index("--exclude") + 1].zfill(2) if "--exclude" in argv else None
+    top = int(argv[argv.index("--top") + 1]) if "--top" in argv else 120
+    pos = [a for a in argv if not a.startswith("--")
+           and a not in ({ex, ex.lstrip("0")} if ex else set()) and a != str(top)]
+    arts = load()
+    if cmd == "brief":
+        brief(arts, pos[0], ex, top)
+    elif cmd == "review":
+        review(arts, pos[0], ex)
+    elif cmd == "skeleton":
+        skeleton()
+    else:
+        print(__doc__)
+
+if __name__ == "__main__":
+    main()
