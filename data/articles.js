@@ -908,312 +908,302 @@ window.SITE = {
     ]
   },
     {
-      "id": "04",
-      "slug": "fifteen-degrees-an-hour",
-      "title": "Fifteen Degrees an Hour",
-      "titleZh": "一小时，十五度",
-      "standfirst": "要知道船在东西方向的位置，航海者必须把一条已知经线的时间带上船。",
-      "topic": "约翰·哈里森与海上经度",
-      "date": "2026-08-10",
-      "status": "第四篇最终锁定稿",
-      "metrics": {
-        "words": 260,
-        "keywords": 50,
-        "density": 19.2
+    "id": "04",
+    "slug": "fifteen-degrees-an-hour",
+    "title": "Fifteen Degrees an Hour",
+    "titleZh": "一小时，十五度",
+    "standfirst": "每小时十五度的算术从来没人怀疑；难的是在颠簸的甲板上把那一小时守住——而替哈里森测量的人，正是竞争方案的主人。",
+    "topic": "约翰·哈里森与海上经度",
+    "date": "2026-08-15",
+    "status": "第四篇最终精进锁定稿",
+    "metrics": {
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7
+    },
+    "paras": [
+      {
+        "en": "At sea the Sun gives **latitude** **readily**. **Longitude** needs the hour at a known **meridian**. Earth turns once in twenty-four hours, so an hour between local **noon** and **reference** time is **fifteen** degrees of **arc**. The **arithmetic** was never in doubt; keeping the hour on a rolling **deck** was.",
+        "zh": "在海上，太阳**轻易**(readily)就能给出**纬度**(latitude)；**经度**(longitude)要的却是某条已知**子午线**(meridian)上的时刻。地球二十四小时自转一周，所以当地**正午**(noon)与**参照**(reference)时刻之间每差一小时，就是**十五**(fifteen)度**弧**(arc)。这套**算术**(arithmetic)从来没人怀疑；难的是在颠簸的**甲板**(deck)上把那一小时守住。"
       },
-      "paras": [
-        {
-          "en": "At sea, the Sun could reveal **latitude**; **longitude** required a known meridian's time. Given Earth's 24-hour **rotation**, a one-hour gap between local and **reference** time represented a 15-degree **difference** in longitude. An **accurate** clock helped **determine** a ship's east-west **position**.",
-          "zh": "在海上，太阳可以帮助航海者推算**纬度**(latitude)；要确定**经度**(longitude)，则必须知道一条已知经线上的时间。地球每24小时完成一次**自转**(rotation)，因此，当地时间与**参照地**(reference)时间相差一小时，就表示两地存在15度的**经度差**(difference)。一台足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。"
-        },
-        {
-          "en": "In 1714 **Parliament** offered **rewards**—up to £20,000 for a **method** accurate within half a degree. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**: a clock that withstood **motion**, reduced **friction** and preserved **precision**. H1's 1736 Lisbon trial showed promise.",
-          "zh": "1714年，英国**议会**(Parliament)设立了分级**奖金**(rewards)：若能提出一种将误差控制在半度以内的**方法**(method)，最高可获2万英镑。约翰·哈里森原是一名**木匠**(carpenter)，也是一位**自学成才的**(self-taught)制表师。他着手寻找一个**切实可行的**(practical)**解决方案**(solution)：让时钟经受住船体**摇晃**(motion)，减少**摩擦**(friction)，并保持计时**精度**(precision)。H1在1736年的里斯本试航中展现出潜力。"
-        },
-        {
-          "en": "A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3; it fell short of the required standard. The work **produced** useful **mechanisms**, including a bimetallic strip to **compensate** for temperature **variation**. The **compact** H4, completed in 1759, resembled a pocket watch—a **departure** from H3. Its high-**frequency** balance beat five times a second, helping make H4 a **reliable** timekeeper.",
-          "zh": "H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用19年不断**改进**(refining)H3；它仍未达到所需标准。不过，这项研发也**产生了**(produced)实用的**机械装置**(mechanisms)，其中包括用来**补偿**(compensate)温度**变化**(variation)的双金属片。1759年完成的H4则**小巧紧凑**(compact)，外形像一只怀表——相较H3，这是一次明显的**转向**(departure)。H4摆轮以很高的**频率**(frequency)运行，每秒跳动五次，这有助于H4成为一台**可靠的**(reliable)计时器。"
-        },
-        {
-          "en": "H4's **performance** in the 1761–62 Jamaica **trial** seemed strong, yet Port Royal's uncertain longitude made the evidence **inadequate**. H4 **satisfied** the Act's strictest **criteria** at Barbados in 1764. Payment was split in 1765: one **contingent** on **disclosure** of H4's **principles** and transfer of timekeepers for public use, the other on successful **replication**. Kendall's 1769 copy, K1, showed the design could be **shared**. In 1773 Harrison **petitioned** Parliament, which **granted** £8,750—not the formal prize.",
-          "zh": "H4在1761至1762年牙买加航程中的**表现**(performance)看似出色，但由于皇家港的经度尚不确定，这次**试验**(trial)的证据仍然**不够充分**(inadequate)。1764年的巴巴多斯试验中，H4**达到了**(satisfied)法案最严格的**标准**(criteria)。1765年，款项被分成两部分：一部分能否发放，**取决于**(contingent)哈里森是否**公开**(disclosure)H4的**原理**(principles)，并把这些计时器移交供公众使用；另一部分则须等他人成功完成**复制验证**(replication)后再发放。肯德尔在1769年完成的复制品K1表明，这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这并不是正式大奖。"
-        },
-        {
-          "en": "Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was to show a **portable** clock could carry reference time across an ocean. At local noon, its reading revealed the ship's east-west **location**.",
-          "zh": "早期的**航海用**(marine)计时器价格过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师**最终**(eventually)将这类计时器**简化**(simplified)；随着**成本**(cost)下降，1800年以后，它们才在**更多地方**(broader)变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，在于证明一台**便携式**(portable)时钟能够把参照时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。"
-        }
-      ],
-      "glossary": [
-        {
-          "w": "latitude",
-          "zh": "纬度",
-          "p": 1
-        },
-        {
-          "w": "longitude",
-          "zh": "经度",
-          "p": 1
-        },
-        {
-          "w": "rotation",
-          "zh": "自转",
-          "p": 1
-        },
-        {
-          "w": "reference",
-          "zh": "参照地、参照的",
-          "p": 1
-        },
-        {
-          "w": "difference",
-          "zh": "差值、差异",
-          "p": 1
-        },
-        {
-          "w": "accurate",
-          "zh": "准确的",
-          "p": 1
-        },
-        {
-          "w": "determine",
-          "zh": "确定",
-          "p": 1
-        },
-        {
-          "w": "position",
-          "zh": "船位、位置",
-          "p": 1
-        },
-        {
-          "w": "Parliament",
-          "zh": "议会",
-          "p": 2
-        },
-        {
-          "w": "reward",
-          "zh": "奖金",
-          "p": 2
-        },
-        {
-          "w": "method",
-          "zh": "方法",
-          "p": 2
-        },
-        {
-          "w": "carpenter",
-          "zh": "木匠",
-          "p": 2
-        },
-        {
-          "w": "self-taught",
-          "zh": "自学成才的",
-          "p": 2
-        },
-        {
-          "w": "practical",
-          "zh": "实用的",
-          "p": 2
-        },
-        {
-          "w": "solution",
-          "zh": "解决方案",
-          "p": 2
-        },
-        {
-          "w": "motion",
-          "zh": "摇晃、运动",
-          "p": 2
-        },
-        {
-          "w": "friction",
-          "zh": "摩擦",
-          "p": 2
-        },
-        {
-          "w": "precision",
-          "zh": "精度",
-          "p": 2
-        },
-        {
-          "w": "flaw",
-          "zh": "缺陷",
-          "p": 3
-        },
-        {
-          "w": "refine",
-          "zh": "改进",
-          "p": 3
-        },
-        {
-          "w": "produce",
-          "zh": "产生",
-          "p": 3
-        },
-        {
-          "w": "mechanism",
-          "zh": "机械装置、机械结构",
-          "p": 3
-        },
-        {
-          "w": "compensate",
-          "zh": "补偿",
-          "p": 3
-        },
-        {
-          "w": "variation",
-          "zh": "变化",
-          "p": 3
-        },
-        {
-          "w": "compact",
-          "zh": "小巧紧凑的",
-          "p": 3
-        },
-        {
-          "w": "departure",
-          "zh": "转向、背离旧方案",
-          "p": 3
-        },
-        {
-        "w": "frequency",
-        "zh": "频率",
+      {
+        "en": "In 1714 Parliament offered £20,000 for half a degree: **thirty** **nautical** miles at the **equator**. John Harrison, a Lincolnshire **carpenter**, answered with machinery that **resisted** motion, **friction** and heat. H1 went to Lisbon in 1736; a **flaw** kept H2 **ashore**; **nineteen** years of **refining** H3 still fell short.",
+        "zh": "1714年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是**三十**(thirty)**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森的答案是一套能**抵抗**(resisted)晃动、**摩擦**(friction)与温度的机械。H1在1736年去了里斯本；一处**缺陷**(flaw)让H2留在了**岸上**(ashore)；**十九**(nineteen)年**打磨**(refining)H3，仍然不够。"
+      },
+      {
+        "en": "H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a **bimetallic** **strip** offsetting temperature, **jewelled** **pivots** cutting friction. His son William carried it to Jamaica; over **eighty**-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.",
+        "zh": "1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条**双金属**(bimetallic)**片**(strip)抵消温度，**嵌宝石**(jewelled)的**枢轴**(pivots)减小摩擦。他的儿子威廉带着它去牙买加；**八十**(eighty)一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。"
+      },
+      {
+        "en": "The **commissioners** **balked**. Nevil Maskelyne, who **championed** the lunar method and became Astronomer Royal in 1765, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in **forty**-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.",
+        "zh": "**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)月距法、并于1765年就任皇家天文学家的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在**四十**(forty)七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。"
+      },
+      {
+        "en": "Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** him £8,750, never the prize. He died in 1776. **Chronometers** stayed **costly**, so **navigators** kept **shooting** the Moon with **sextant** and **almanac** for **decades** more. The clock did not beat the sky; it joined it.",
+        "zh": "拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是又用**六分仪**(sextant)与**天文年历**(almanac)又**打**(shooting)了几十**年**(decades)的月亮。钟没有打败天空；它加入了天空。"
+      }
+    ],
+    "glossary": [
+      {
+        "w": "latitude",
+        "zh": "纬度",
+        "p": 1
+      },
+      {
+        "w": "readily",
+        "zh": "轻易地",
+        "p": 1
+      },
+      {
+        "w": "longitude",
+        "zh": "经度",
+        "p": 1
+      },
+      {
+        "w": "meridian",
+        "zh": "子午线",
+        "p": 1
+      },
+      {
+        "w": "noon",
+        "zh": "正午",
+        "p": 1
+      },
+      {
+        "w": "reference",
+        "zh": "参照",
+        "p": 1
+      },
+      {
+        "w": "fifteen",
+        "zh": "十五",
+        "p": 1
+      },
+      {
+        "w": "arc",
+        "zh": "弧",
+        "p": 1
+      },
+      {
+        "w": "arithmetic",
+        "zh": "算术",
+        "p": 1
+      },
+      {
+        "w": "deck",
+        "zh": "甲板",
+        "p": 1
+      },
+      {
+        "w": "thirty",
+        "zh": "三十",
+        "p": 2
+      },
+      {
+        "w": "nautical",
+        "zh": "海上的；航海的",
+        "p": 2
+      },
+      {
+        "w": "equator",
+        "zh": "赤道",
+        "p": 2
+      },
+      {
+        "w": "carpenter",
+        "zh": "木匠",
+        "p": 2
+      },
+      {
+        "w": "resist",
+        "zh": "抵抗",
+        "p": 2
+      },
+      {
+        "w": "friction",
+        "zh": "摩擦",
+        "p": 2
+      },
+      {
+        "w": "flaw",
+        "zh": "缺陷",
+        "p": 2
+      },
+      {
+        "w": "ashore",
+        "zh": "在岸上",
+        "p": 2
+      },
+      {
+        "w": "nineteen",
+        "zh": "十九",
+        "p": 2
+      },
+      {
+        "w": "refine",
+        "zh": "打磨；精炼",
+        "p": 2
+      },
+      {
+        "w": "portable",
+        "zh": "便携的",
         "p": 3
       },
-        {
-          "w": "reliable",
-          "zh": "可靠的",
-          "p": 3
-        },
-        {
-          "w": "performance",
-          "zh": "表现",
-          "p": 4
-        },
-        {
-          "w": "trial",
-          "zh": "海试、试验",
-          "p": 4
-        },
-        {
-          "w": "inadequate",
-          "zh": "不充分的",
-          "p": 4
-        },
-        {
-          "w": "satisfy",
-          "zh": "达到标准",
-          "p": 4
-        },
-        {
-          "w": "criterion",
-          "zh": "标准（复数criteria）",
-          "p": 4
-        },
-        {
-          "w": "contingent",
-          "zh": "取决于……的",
-          "p": 4
-        },
-        {
-          "w": "disclosure",
-          "zh": "公开",
-          "p": 4
-        },
-        {
-          "w": "principle",
-          "zh": "原理",
-          "p": 4
-        },
-        {
-          "w": "replication",
-          "zh": "复制验证",
-          "p": 4
-        },
-        {
-          "w": "share",
-          "zh": "传给他人的、共享",
-          "p": 4
-        },
-        {
-          "w": "petition",
-          "zh": "请愿",
-          "p": 4
-        },
-        {
-          "w": "grant",
-          "zh": "给予、拨款",
-          "p": 4
-        },
-        {
-          "w": "marine",
-          "zh": "航海的",
-          "p": 5
-        },
-        {
-          "w": "expensive",
-          "zh": "昂贵的",
-          "p": 5
-        },
-        {
-          "w": "eventually",
-          "zh": "最终",
-          "p": 5
-        },
-        {
-          "w": "simplify",
-          "zh": "简化",
-          "p": 5
-        },
-        {
-          "w": "cost",
-          "zh": "成本",
-          "p": 5
-        },
-        {
-          "w": "broad",
-          "zh": "更广的",
-          "p": 5
-        },
-        {
-          "w": "availability",
-          "zh": "可获得性、供应情况",
-          "p": 5
-        },
-        {
-          "w": "legacy",
-          "zh": "长远贡献、遗产",
-          "p": 5
-        },
-        {
-          "w": "portable",
-          "zh": "便携式的、可携带的",
-          "p": 5
-        },
-        {
-          "w": "location",
-          "zh": "所在位置",
-          "p": 5
-        }
-      ],
-      "facts": [
-        "经度钟法比较当地太阳时与一个已知参照经线的时间；地球24小时自转360度，因此1小时对应15度、4分钟对应1度。18世纪的参照经线并非只能是后来国际统一的格林尼治本初子午线。",
-        "1714年《经度法》设置分级奖金，最高2万英镑；最高档要求误差不超过半度，即法案所称30 geographical miles。本文没有把所有奖金档次写成同一门槛。",
-        "H1在1736年里斯本试航的去程表现不佳，返程结果明显改善；H2因根本设计缺陷没有参加海试；哈里森随后用19年建造、试验并调整H3，双金属片是其创新之一。",
-        "H4于1759年完成，外形近似大号怀表，高频摆轮每秒跳动五次。1761—1762年牙买加试验结果看似出色，但皇家港的经度本身仍未可靠确定，委员会因此不能据此完成决定性比较；1764年巴巴多斯试验后，委员会确认H4达到法案最严格标准。",
-        "1765年的付款安排分成两步：一部分要求公开H4原理并移交计时器供公众使用，余款则要求其他制表师依照这些原理制造的计时器经试验达到标准。肯德尔于1769年完成K1，并在次年接受委员会检查，补上了从精巧孤品到可复制技术的关键证据。",
-        "1773年，议会另行拨给哈里森8750英镑，但并非正式颁发原经度大奖。本文没有把经度委员会简化成阻挠天才的反派，也没有写成哈里森在1761年直接领取2万英镑。",
-        "早期航海计时器依然昂贵；后继制表师简化设计、降低成本后，使用范围才从19世纪初逐渐扩大。因此，正文把哈里森的贡献限定为证明精确参照时间可以跨洋携带，而没有把后来的普及也完全归于他一人。",
-        "来源：[英国皇家格林尼治博物馆：经度与时间差的换算原理](https://www.rmg.co.uk/stories/time/what-longitude)",
-        "来源：[英国皇家格林尼治博物馆：哈里森经度计的完整历程](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem)",
-        "来源：[英国皇家格林尼治博物馆馆藏：H3](https://www.rmg.co.uk/collections/objects/rmgc-object-79141)",
-        "来源：[英国皇家格林尼治博物馆馆藏：H4](https://www.rmg.co.uk/collections/objects/rmgc-object-79142)",
-        "来源：[英国皇家格林尼治博物馆馆藏：牙买加试验与皇家港经度基准](https://www.rmg.co.uk/collections/objects/rmgc-object-540348)",
-        "来源：[英国皇家格林尼治博物馆馆藏：1765年付款与复制条件原始提案](https://www.rmg.co.uk/collections/objects/rmgc-object-478820)",
-        "来源：[英国皇家格林尼治博物馆馆藏：肯德尔复制的K1](https://www.rmg.co.uk/collections/objects/rmgc-object-79143)",
-        "来源：[英国国家统计局：1773年8750英镑的议会追加拨款](https://blog.ons.gov.uk/2020/01/17/valuing-john-harrisons-work-how-much-is-that-20000-longitude-reward-worth-today/)",
-        "来源：[剑桥大学：经度委员会档案与“孤独天才”叙事的局限](https://www.cam.ac.uk/research/news/the-longitude-problem-300-year-old-archive-opened-to-the-world)"
-      ]
-    },
+      {
+        "w": "inch",
+        "zh": "英寸",
+        "p": 3
+      },
+      {
+        "w": "balance",
+        "zh": "摆轮；平衡",
+        "p": 3
+      },
+      {
+        "w": "bimetallic",
+        "zh": "双金属的",
+        "p": 3
+      },
+      {
+        "w": "strip",
+        "zh": "片；条",
+        "p": 3
+      },
+      {
+        "w": "jewelled",
+        "zh": "嵌宝石的",
+        "p": 3
+      },
+      {
+        "w": "pivot",
+        "zh": "枢轴",
+        "p": 3
+      },
+      {
+        "w": "eighty",
+        "zh": "八十",
+        "p": 3
+      },
+      {
+        "w": "gap",
+        "zh": "差；缺口",
+        "p": 3
+      },
+      {
+        "w": "tolerate",
+        "zh": "容许；忍受",
+        "p": 3
+      },
+      {
+        "w": "commissioner",
+        "zh": "评审委员；专员",
+        "p": 4
+      },
+      {
+        "w": "balk",
+        "zh": "迟疑；退缩",
+        "p": 4
+      },
+      {
+        "w": "champion",
+        "zh": "力主；拥护",
+        "p": 4
+      },
+      {
+        "w": "astronomical",
+        "zh": "天文的",
+        "p": 4
+      },
+      {
+        "w": "observation",
+        "zh": "观测",
+        "p": 4
+      },
+      {
+        "w": "err",
+        "zh": "出误差；犯错",
+        "p": 4
+      },
+      {
+        "w": "forty",
+        "zh": "四十",
+        "p": 4
+      },
+      {
+        "w": "principle",
+        "zh": "原理",
+        "p": 4
+      },
+      {
+        "w": "maker",
+        "zh": "制作者",
+        "p": 4
+      },
+      {
+        "w": "replicate",
+        "zh": "复制",
+        "p": 4
+      },
+      {
+        "w": "gain",
+        "zh": "走差；增益",
+        "p": 5
+      },
+      {
+        "w": "exceed",
+        "zh": "超过",
+        "p": 5
+      },
+      {
+        "w": "grant",
+        "zh": "拨给；授予",
+        "p": 5
+      },
+      {
+        "w": "chronometer",
+        "zh": "航海钟",
+        "p": 5
+      },
+      {
+        "w": "costly",
+        "zh": "昂贵的",
+        "p": 5
+      },
+      {
+        "w": "navigator",
+        "zh": "航海者",
+        "p": 5
+      },
+      {
+        "w": "shoot",
+        "zh": "（用仪器）测；射",
+        "p": 5
+      },
+      {
+        "w": "sextant",
+        "zh": "六分仪",
+        "p": 5
+      },
+      {
+        "w": "almanac",
+        "zh": "天文年历",
+        "p": 5
+      },
+      {
+        "w": "decade",
+        "zh": "十年",
+        "p": 5
+      }
+    ],
+    "facts": [
+      "地球24小时自转360度，故每小时对应15度经度；半度精度在赤道约合30海里。1714年《经度法案》最高悬赏两万英镑。[Royal Museums Greenwich：Harrison's timekeepers](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem)",
+      "哈里森为林肯郡木匠出身、自学成才的钟表匠。H1于1736年赴里斯本试航；H2因缺陷未出海；H3历十九年改进仍未达标。H4于1759年完成，形制为直径约五英寸的怀表，摆轮每秒振动五次，采用双金属片作温度补偿、嵌宝石轴承减摩。[Grokipedia：Longitude by chronometer](https://grokipedia.com/page/Longitude_by_chronometer)",
+      "**1761—62年牙买加海试**：其子威廉携H4乘HMS Deptford，81天航程中仅慢5.1秒，折合经度误差不足1海里，而法案容许30海里。[Kronecker Wallis：The Longitude Problem Solved](https://www.kroneckerwallis.com/the-longitude-problem-how-a-carpenters-clock-beat-the-astronomers/)｜[Seiko Museum：John Harrison](https://museum.seiko.co.jp/en/knowledge/inventors_02/)",
+      "**关键的利益冲突**：内维尔·马斯基林力主与钟表法竞争的月距法，1765年就任皇家天文学家并为经度委员会成员；1764年巴巴多斯海试期间，正是由他执行天文观测，并将两种方法的结果一并发表。哈里森一方认为该发表方式有失公允。[Spacedaily：Harrison 与经度委员会](https://spacedaily.com/k-a-self-taught-yorkshire-carpenters-son-spent-forty-years-building-four-increasingly-precise-sea-clocks-to-solve-a-navigation-problem-that-was-killing-sailors-by-the-thousands-and-won-a-20000-prize/)｜[American Scientist：The Harrison-Maskelyne Affair](https://www.americanscientist.org/article/the-harrison-maskelyne-affair)",
+      "巴巴多斯海试中H4在47天内误差39.2秒，为法案要求的三倍精度。委员会认为不能排除偶然，遂将奖金分为两部分：一半在公开H4原理后支付，另一半须待其他制表匠能造出同类计时器。1765年2月，委员会确认H4已满足1714年法案最严格的限度。[Royal Museums Greenwich](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem)｜[NMM：Harrison and the Longitude problem](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)",
+      "拉尔卡姆·肯德尔的复制品K1于1769年完成，随库克第二次远航三年，日差始终未超过8秒（赤道上约合2海里）。1773年议会另行拨给哈里森8750英镑，并非正式奖金；哈里森1776年去世。因航海钟长期昂贵，月距法连同马斯基林创办的《航海天文年历》又沿用了一个多世纪。[NMM](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[American Scientist](https://www.americanscientist.org/article/the-harrison-maskelyne-affair)"
+    ]
+  },
     {
     "id": "05",
     "slug": "the-price-was-elsewhere",

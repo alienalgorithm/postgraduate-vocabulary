@@ -1,23 +1,23 @@
 # 04 · Fifteen Degrees an Hour
 
 > 题材：约翰·哈里森与海上经度
-> 状态：**第四篇最终锁定稿**（2026-08-10）
-> 指标：260 词 / 50 重点词 / 密度 19.2%
-> 要知道船在东西方向的位置，航海者必须把一条已知经线的时间带上船。
+> 状态：**第四篇最终精进锁定稿**（2026-08-15）
+> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 每小时十五度的算术从来没人怀疑；难的是在颠簸的甲板上把那一小时守住——而替哈里森测量的人，正是竞争方案的主人。
 
 ---
 
 ## 英文正文
 
-At sea, the Sun could reveal **latitude**; **longitude** required a known meridian's time. Given Earth's 24-hour **rotation**, a one-hour gap between local and **reference** time represented a 15-degree **difference** in longitude. An **accurate** clock helped **determine** a ship's east-west **position**.
+At sea the Sun gives **latitude** **readily**. **Longitude** needs the hour at a known **meridian**. Earth turns once in twenty-four hours, so an hour between local **noon** and **reference** time is **fifteen** degrees of **arc**. The **arithmetic** was never in doubt; keeping the hour on a rolling **deck** was.
 
-In 1714 **Parliament** offered **rewards**—up to £20,000 for a **method** accurate within half a degree. John Harrison, a **carpenter** and **self-taught** clockmaker, pursued a **practical** **solution**: a clock that withstood **motion**, reduced **friction** and preserved **precision**. H1's 1736 Lisbon trial showed promise.
+In 1714 Parliament offered £20,000 for half a degree: **thirty** **nautical** miles at the **equator**. John Harrison, a Lincolnshire **carpenter**, answered with machinery that **resisted** motion, **friction** and heat. H1 went to Lisbon in 1736; a **flaw** kept H2 **ashore**; **nineteen** years of **refining** H3 still fell short.
 
-A **flaw** kept H2 ashore. Harrison spent 19 years **refining** H3; it fell short of the required standard. The work **produced** useful **mechanisms**, including a bimetallic strip to **compensate** for temperature **variation**. The **compact** H4, completed in 1759, resembled a pocket watch—a **departure** from H3. Its high-**frequency** balance beat five times a second, helping make H4 a **reliable** timekeeper.
+H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a **bimetallic** **strip** offsetting temperature, **jewelled** **pivots** cutting friction. His son William carried it to Jamaica; over **eighty**-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.
 
-H4's **performance** in the 1761–62 Jamaica **trial** seemed strong, yet Port Royal's uncertain longitude made the evidence **inadequate**. H4 **satisfied** the Act's strictest **criteria** at Barbados in 1764. Payment was split in 1765: one **contingent** on **disclosure** of H4's **principles** and transfer of timekeepers for public use, the other on successful **replication**. Kendall's 1769 copy, K1, showed the design could be **shared**. In 1773 Harrison **petitioned** Parliament, which **granted** £8,750—not the formal prize.
+The **commissioners** **balked**. Nevil Maskelyne, who **championed** the lunar method and became Astronomer Royal in 1765, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in **forty**-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.
 
-Early **marine** timekeepers were too **expensive** for wide use. Other makers **eventually** **simplified** them; lower **cost** brought **broader** **availability** after 1800. Harrison's **legacy** was to show a **portable** clock could carry reference time across an ocean. At local noon, its reading revealed the ship's east-west **location**.
+Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** him £8,750, never the prize. He died in 1776. **Chronometers** stayed **costly**, so **navigators** kept **shooting** the Moon with **sextant** and **almanac** for **decades** more. The clock did not beat the sky; it joined it.
 
 ---
 
@@ -26,29 +26,29 @@ Early **marine** timekeepers were too **expensive** for wide use. Other makers *
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-在海上，太阳可以帮助航海者推算**纬度**(latitude)；要确定**经度**(longitude)，则必须知道一条已知经线上的时间。地球每24小时完成一次**自转**(rotation)，因此，当地时间与**参照地**(reference)时间相差一小时，就表示两地存在15度的**经度差**(difference)。一台足够**准确的**(accurate)时钟，便能帮助航海者**确定**(determine)船只东西向的**位置**(position)。
+在海上，太阳**轻易**(readily)就能给出**纬度**(latitude)；**经度**(longitude)要的却是某条已知**子午线**(meridian)上的时刻。地球二十四小时自转一周，所以当地**正午**(noon)与**参照**(reference)时刻之间每差一小时，就是**十五**(fifteen)度**弧**(arc)。这套**算术**(arithmetic)从来没人怀疑；难的是在颠簸的**甲板**(deck)上把那一小时守住。
 
-1714年，英国**议会**(Parliament)设立了分级**奖金**(rewards)：若能提出一种将误差控制在半度以内的**方法**(method)，最高可获2万英镑。约翰·哈里森原是一名**木匠**(carpenter)，也是一位**自学成才的**(self-taught)制表师。他着手寻找一个**切实可行的**(practical)**解决方案**(solution)：让时钟经受住船体**摇晃**(motion)，减少**摩擦**(friction)，并保持计时**精度**(precision)。H1在1736年的里斯本试航中展现出潜力。
+1714年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是**三十**(thirty)**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森的答案是一套能**抵抗**(resisted)晃动、**摩擦**(friction)与温度的机械。H1在1736年去了里斯本；一处**缺陷**(flaw)让H2留在了**岸上**(ashore)；**十九**(nineteen)年**打磨**(refining)H3，仍然不够。
 
-H2因一处**缺陷**(flaw)而始终未能出海试验。此后，哈里森用19年不断**改进**(refining)H3；它仍未达到所需标准。不过，这项研发也**产生了**(produced)实用的**机械装置**(mechanisms)，其中包括用来**补偿**(compensate)温度**变化**(variation)的双金属片。1759年完成的H4则**小巧紧凑**(compact)，外形像一只怀表——相较H3，这是一次明显的**转向**(departure)。H4摆轮以很高的**频率**(frequency)运行，每秒跳动五次，这有助于H4成为一台**可靠的**(reliable)计时器。
+1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条**双金属**(bimetallic)**片**(strip)抵消温度，**嵌宝石**(jewelled)的**枢轴**(pivots)减小摩擦。他的儿子威廉带着它去牙买加；**八十**(eighty)一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。
 
-H4在1761至1762年牙买加航程中的**表现**(performance)看似出色，但由于皇家港的经度尚不确定，这次**试验**(trial)的证据仍然**不够充分**(inadequate)。1764年的巴巴多斯试验中，H4**达到了**(satisfied)法案最严格的**标准**(criteria)。1765年，款项被分成两部分：一部分能否发放，**取决于**(contingent)哈里森是否**公开**(disclosure)H4的**原理**(principles)，并把这些计时器移交供公众使用；另一部分则须等他人成功完成**复制验证**(replication)后再发放。肯德尔在1769年完成的复制品K1表明，这套设计可以**传给另一位制表师**(shared)。1773年，哈里森向议会**请愿**(petitioned)，议会随后向他**拨款**(granted)8750英镑；但这并不是正式大奖。
+**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)月距法、并于1765年就任皇家天文学家的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在**四十**(forty)七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。
 
-早期的**航海用**(marine)计时器价格过于**昂贵**(expensive)，难以广泛使用。后来，其他制表师**最终**(eventually)将这类计时器**简化**(simplified)；随着**成本**(cost)下降，1800年以后，它们才在**更多地方**(broader)变得**容易获得**(availability)。哈里森的**长远贡献**(legacy)，在于证明一台**便携式**(portable)时钟能够把参照时间带过大洋。到了当地正午，航海者便可根据它的读数推算船只东西向的**位置**(location)。
+拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是又用**六分仪**(sextant)与**天文年历**(almanac)又**打**(shooting)了几十**年**(decades)的月亮。钟没有打败天空；它加入了天空。
 
 ---
 
 ## 50 词速查表
 
-**§1**（8词）latitude 纬度｜longitude 经度｜rotation 自转｜reference 参照地、参照的｜difference 差值、差异｜accurate 准确的｜determine 确定｜position 船位、位置
+**§1**（10词）latitude 纬度｜readily 轻易地｜longitude 经度｜meridian 子午线｜noon 正午｜reference 参照｜fifteen 十五｜arc 弧｜arithmetic 算术｜deck 甲板
 
-**§2**（10词）Parliament 议会｜reward 奖金｜method 方法｜carpenter 木匠｜self-taught 自学成才的｜practical 实用的｜solution 解决方案｜motion 摇晃、运动｜friction 摩擦｜precision 精度
+**§2**（10词）thirty 三十｜nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜resist 抵抗｜friction 摩擦｜flaw 缺陷｜ashore 在岸上｜nineteen 十九｜refine 打磨；精炼
 
-**§3**（10词）flaw 缺陷｜refine 改进｜produce 产生｜mechanism 机械装置、机械结构｜compensate 补偿｜variation 变化｜compact 小巧紧凑的｜departure 转向、背离旧方案｜frequency 频率｜reliable 可靠的
+**§3**（10词）portable 便携的｜inch 英寸｜balance 摆轮；平衡｜bimetallic 双金属的｜strip 片；条｜jewelled 嵌宝石的｜pivot 枢轴｜eighty 八十｜gap 差；缺口｜tolerate 容许；忍受
 
-**§4**（12词）performance 表现｜trial 海试、试验｜inadequate 不充分的｜satisfy 达到标准｜criterion 标准（复数criteria）｜contingent 取决于……的｜disclosure 公开｜principle 原理｜replication 复制验证｜share 传给他人的、共享｜petition 请愿｜grant 给予、拨款
+**§4**（10词）commissioner 评审委员；专员｜balk 迟疑；退缩｜champion 力主；拥护｜astronomical 天文的｜observation 观测｜err 出误差；犯错｜forty 四十｜principle 原理｜maker 制作者｜replicate 复制
 
-**§5**（10词）marine 航海的｜expensive 昂贵的｜eventually 最终｜simplify 简化｜cost 成本｜broad 更广的｜availability 可获得性、供应情况｜legacy 长远贡献、遗产｜portable 便携式的、可携带的｜location 所在位置
+**§5**（10词）gain 走差；增益｜exceed 超过｜grant 拨给；授予｜chronometer 航海钟｜costly 昂贵的｜navigator 航海者｜shoot （用仪器）测；射｜sextant 六分仪｜almanac 天文年历｜decade 十年
 
 ---
 
@@ -56,19 +56,9 @@ H4在1761至1762年牙买加航程中的**表现**(performance)看似出色，�
 
 以下关键信息已据所列来源核对：
 
-- 经度钟法比较当地太阳时与一个已知参照经线的时间；地球24小时自转360度，因此1小时对应15度、4分钟对应1度。18世纪的参照经线并非只能是后来国际统一的格林尼治本初子午线。
-- 1714年《经度法》设置分级奖金，最高2万英镑；最高档要求误差不超过半度，即法案所称30 geographical miles。本文没有把所有奖金档次写成同一门槛。
-- H1在1736年里斯本试航的去程表现不佳，返程结果明显改善；H2因根本设计缺陷没有参加海试；哈里森随后用19年建造、试验并调整H3，双金属片是其创新之一。
-- H4于1759年完成，外形近似大号怀表，高频摆轮每秒跳动五次。1761—1762年牙买加试验结果看似出色，但皇家港的经度本身仍未可靠确定，委员会因此不能据此完成决定性比较；1764年巴巴多斯试验后，委员会确认H4达到法案最严格标准。
-- 1765年的付款安排分成两步：一部分要求公开H4原理并移交计时器供公众使用，余款则要求其他制表师依照这些原理制造的计时器经试验达到标准。肯德尔于1769年完成K1，并在次年接受委员会检查，补上了从精巧孤品到可复制技术的关键证据。
-- 1773年，议会另行拨给哈里森8750英镑，但并非正式颁发原经度大奖。本文没有把经度委员会简化成阻挠天才的反派，也没有写成哈里森在1761年直接领取2万英镑。
-- 早期航海计时器依然昂贵；后继制表师简化设计、降低成本后，使用范围才从19世纪初逐渐扩大。因此，正文把哈里森的贡献限定为证明精确参照时间可以跨洋携带，而没有把后来的普及也完全归于他一人。
-- 来源：[英国皇家格林尼治博物馆：经度与时间差的换算原理](https://www.rmg.co.uk/stories/time/what-longitude)
-- 来源：[英国皇家格林尼治博物馆：哈里森经度计的完整历程](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem)
-- 来源：[英国皇家格林尼治博物馆馆藏：H3](https://www.rmg.co.uk/collections/objects/rmgc-object-79141)
-- 来源：[英国皇家格林尼治博物馆馆藏：H4](https://www.rmg.co.uk/collections/objects/rmgc-object-79142)
-- 来源：[英国皇家格林尼治博物馆馆藏：牙买加试验与皇家港经度基准](https://www.rmg.co.uk/collections/objects/rmgc-object-540348)
-- 来源：[英国皇家格林尼治博物馆馆藏：1765年付款与复制条件原始提案](https://www.rmg.co.uk/collections/objects/rmgc-object-478820)
-- 来源：[英国皇家格林尼治博物馆馆藏：肯德尔复制的K1](https://www.rmg.co.uk/collections/objects/rmgc-object-79143)
-- 来源：[英国国家统计局：1773年8750英镑的议会追加拨款](https://blog.ons.gov.uk/2020/01/17/valuing-john-harrisons-work-how-much-is-that-20000-longitude-reward-worth-today/)
-- 来源：[剑桥大学：经度委员会档案与“孤独天才”叙事的局限](https://www.cam.ac.uk/research/news/the-longitude-problem-300-year-old-archive-opened-to-the-world)
+- 地球24小时自转360度，故每小时对应15度经度；半度精度在赤道约合30海里。1714年《经度法案》最高悬赏两万英镑。[Royal Museums Greenwich：Harrison's timekeepers](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem)
+- 哈里森为林肯郡木匠出身、自学成才的钟表匠。H1于1736年赴里斯本试航；H2因缺陷未出海；H3历十九年改进仍未达标。H4于1759年完成，形制为直径约五英寸的怀表，摆轮每秒振动五次，采用双金属片作温度补偿、嵌宝石轴承减摩。[Grokipedia：Longitude by chronometer](https://grokipedia.com/page/Longitude_by_chronometer)
+- **1761—62年牙买加海试**：其子威廉携H4乘HMS Deptford，81天航程中仅慢5.1秒，折合经度误差不足1海里，而法案容许30海里。[Kronecker Wallis：The Longitude Problem Solved](https://www.kroneckerwallis.com/the-longitude-problem-how-a-carpenters-clock-beat-the-astronomers/)｜[Seiko Museum：John Harrison](https://museum.seiko.co.jp/en/knowledge/inventors_02/)
+- **关键的利益冲突**：内维尔·马斯基林力主与钟表法竞争的月距法，1765年就任皇家天文学家并为经度委员会成员；1764年巴巴多斯海试期间，正是由他执行天文观测，并将两种方法的结果一并发表。哈里森一方认为该发表方式有失公允。[Spacedaily：Harrison 与经度委员会](https://spacedaily.com/k-a-self-taught-yorkshire-carpenters-son-spent-forty-years-building-four-increasingly-precise-sea-clocks-to-solve-a-navigation-problem-that-was-killing-sailors-by-the-thousands-and-won-a-20000-prize/)｜[American Scientist：The Harrison-Maskelyne Affair](https://www.americanscientist.org/article/the-harrison-maskelyne-affair)
+- 巴巴多斯海试中H4在47天内误差39.2秒，为法案要求的三倍精度。委员会认为不能排除偶然，遂将奖金分为两部分：一半在公开H4原理后支付，另一半须待其他制表匠能造出同类计时器。1765年2月，委员会确认H4已满足1714年法案最严格的限度。[Royal Museums Greenwich](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem)｜[NMM：Harrison and the Longitude problem](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)
+- 拉尔卡姆·肯德尔的复制品K1于1769年完成，随库克第二次远航三年，日差始终未超过8秒（赤道上约合2海里）。1773年议会另行拨给哈里森8750英镑，并非正式奖金；哈里森1776年去世。因航海钟长期昂贵，月距法连同马斯基林创办的《航海天文年历》又沿用了一个多世纪。[NMM](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[American Scientist](https://www.americanscientist.org/article/the-harrison-maskelyne-affair)

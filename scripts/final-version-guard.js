@@ -18,7 +18,7 @@ const SOURCE_AUDIT = {
   '01': { source: '2026-08-15对话中经写作智能体全流程产出、由四段改为五段、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '02': { source: '2026-08-15对话中完成段落均衡、重点词价值置换、前提前移、共生逻辑桥补入与人物锚点的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '03': { source: '2026-08-15对话中经写作智能体全流程（词池→草稿→复检五轮）产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: '260-word-final-package' },
+  '04': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的268词最终精进锁定稿', verification: 'conversation-latest-final' },
   '05': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '06': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
@@ -41,7 +41,7 @@ const VERSION_IDS = {
   '01': '01-269-word-five-para-final',
   '02': '02-270-word-final-locked',
   '03': '03-270-word-final-locked',
-  '04': '04-260-word-final',
+  '04': '04-268-word-final-locked',
   '05': '05-270-word-final-locked',
   '06': '06-270-word-final-locked',
   '07': '07-269-word-final-locked',
@@ -229,6 +229,14 @@ const SUPERSEDED_SIGNATURES = {
     'Some **civilian** output **shifted** to **military** use',
     'The **burden** we **inherit** lies beyond the reactor',
     '265 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
+  ],
+  '04': [
+    'a one-hour gap between local and **reference** time represented a 15-degree **difference**',
+    'John Harrison, a **carpenter** and **self-taught** clockmaker',
+    'H4\u2019s **performance** in the 1761\u201362 Jamaica **trial** seemed strong',
+    'Payment was split in 1765: one **contingent** on **disclosure**',
+    'Harrison\u2019s **legacy** was to show a **portable** clock could carry reference time',
+    '260 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 19.2%',
   ],
 };
 
