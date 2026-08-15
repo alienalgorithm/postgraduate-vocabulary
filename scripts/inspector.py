@@ -152,7 +152,7 @@ def inspect(a, archive):
     for i, (w, k) in enumerate(zip(pw, pkn), 1):
         d = k / w * 100 if w else 0
         if d > PARA_DENSITY_HARD:
-            F.append(Finding("BAL-02", "均衡", "hard", f"§{i} 局部密度超限",
+            F.append(Finding("BAL-02", "均衡", "check", f"§{i} 局部密度偏高",
                 f"{w}词塞 {k} 个重点词 = {d:.1f}%（硬上限 {PARA_DENSITY_HARD}%）",
                 "该段读不动了：外移重点词或加实句"))
         elif d > PARA_DENSITY_WARN:
@@ -271,13 +271,35 @@ def inspect(a, archive):
             s = s.strip()
             m = re.match(r"^(It|That|This|They)\s+\w+", s)
             if m and not re.search(r"\b(is|was|were|are)\b\s+(a|an|the)\b", s[:40]):
-                F.append(Finding("STR-05", "骨架", "check", f"§{i} 代词开头需核指代",
+                F.append(Finding("STR-05", "骨架", "info", f"§{i} 代词开头需核指代",
                     s[:70] + ("…" if len(s) > 70 else ""),
                     "确认 it/that/this 有唯一且具体的先行词"))
+
+    # ── 判断提示（机器判不了，只提示人工复核；权重 0，不计分）────────
+    body_ps = [p["en"].replace("**", "") for p in paras]
+    PIVOT = re.compile(r"\b(instead|yet|but|however|rather than|nobody|no one|never)\b", re.I)
+    if not PIVOT.search(" ".join(body_ps[1:-1] or body_ps)):
+        F.append(Finding("JDG-01", "提示", "info", "中段没有任何转折词",
+            "instead / yet / but / however / rather than 一个都没有",
+            "确认这篇是在论证，而不是在编年；无反转的叙述读完不会有豁然开朗感"))
+    ABS = re.compile(r"(?:^|\.\s+)(The\s+(?:discovery|insight|analysis|approach|method|result|finding|"
+                     r"idea|concept|process|development|conclusion|explanation))\b", re.I)
+    for m in ABS.finditer(" ".join(body_ps)):
+        F.append(Finding("JDG-02", "提示", "info", "抽象名词作主语",
+            m.group(1), "写作规范 §3.3：主语用人或具体物；中文会跟着别扭"))
+    EVAL = re.compile(r"\b(remarkably|astonishingly|importantly|crucially|famously|notably|"
+                      r"of course|clearly|obviously|undoubtedly)\b", re.I)
+    for i, t in enumerate(body_ps[:-1], 1):
+        for m in EVAL.finditer(t):
+            F.append(Finding("JDG-03", "提示", "info", f"§{i} 正文出现评论性副词",
+                m.group(0), "点评留给末段；正文只让事实推进"))
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 
 def score(findings):
+    """合规分：衡量硬约束的达标程度，**不是**文章质量分。
+    文章好不好（论证力、反转、结尾升华）经全库相关性检验证明无法由表层特征可靠判定，
+    故不纳入计分，只在『提示』层给人工判断线索。"""
     s = 100 - sum(WEIGHT[f.sev] for f in findings)
     return max(0, s)
 
@@ -289,7 +311,7 @@ def report_one(a, F, st, verbose=True):
     hard = sum(1 for f in F if f.sev == "hard")
     chk  = sum(1 for f in F if f.sev == "check")
     print(BAR)
-    print(f"{a['id']} · {a['title']}    得分 {sc}/100   硬伤 {hard} · 待核 {chk}")
+    print(f"{a['id']} · {a['title']}    合规分 {sc}/100   硬伤 {hard} · 待核 {chk}")
     print(f"   {st['total_w']}词 / {st['total_k']}重点词 / {st['dens']}%")
     print(f"   段落词数  {'·'.join(map(str, st['pw']))}")
     print(f"   关键词分布 {'·'.join(map(str, st['pkn']))}   极差 {max(st['pkn'])-min(st['pkn'])}")
@@ -406,6 +428,87 @@ li em{{display:block;color:var(--navy);font-style:normal;font-size:12.5px;margin
 </div></body></html>""")
     return path
 
+
+# ── 词池：写之前就把冲突排除掉 ─────────────────────────────────────────
+def build_index(arts, exclude=None):
+    """返回 {规范化词: [占用它的篇号]}，涵盖速查表词元与英文加粗表面形式两条通道。"""
+    idx = defaultdict(set)
+    for a in arts:
+        if exclude and a["id"] == exclude:
+            continue
+        for g in a.get("glossary", []):
+            idx[norm(g["w"])].add(a["id"])
+        for p in a.get("paras", []):
+            for m in BOLD.findall(p["en"]):
+                idx[norm(m)].add(a["id"])
+    return idx
+
+def grade(word):
+    lv, z = cheapness(word)
+    if lv == "cheap": return "白送", z
+    if lv == "soft":  return "边缘", z
+    if z is None:     return "未知", z
+    if z < 2.5:       return "生僻", z
+    return "合格", z
+
+def cmd_pool(arts, words, exclude=None):
+    """逐词判定：是否与全库冲突 + 词价等级。写新文章前先跑这个。"""
+    idx = build_index(arts, exclude)
+    free, taken, cheapw = [], [], []
+    print(BAR)
+    print(f"词池检查 · 候选 {len(words)} 个" + (f"（不计第 {exclude} 篇自身）" if exclude else ""))
+    print(BAR)
+    print(f"{'词':<18}{'Zipf':>6}  {'词价':<6}{'状态'}")
+    for w in words:
+        n = norm(w)
+        g, z = grade(w)
+        owner = sorted(idx.get(n, []))
+        if owner:
+            st = "✗ 已被第 " + "、".join(owner) + " 篇占用"
+            taken.append(w)
+        elif g in ("白送", "边缘"):
+            st = "△ 可用，但价值低（考研生多半已掌握）"
+            cheapw.append(w); free.append(w)
+        elif g == "生僻":
+            st = "△ 可用，但过于生僻（非考研词，仅在题材必需时用）"
+            free.append(w)
+        else:
+            st = "✓ 可用"
+            free.append(w)
+        print(f"{w:<18}{(z if z is not None else 0):>6.2f}  {g:<6}{st}")
+    print(BAR)
+    print(f"可用 {len(free)} · 冲突 {len(taken)} · 其中低价值 {len(cheapw)}")
+    if taken:
+        print("冲突：" + " ".join(taken))
+    return free
+
+def cmd_draft(arts, path, exclude=None):
+    """起草台：对一份英文草稿做入库前体检——计量、冲突、分布，一次给全。"""
+    text = open(path, encoding="utf-8").read()
+    blocks = [b.strip() for b in re.split(r"\n\s*\n", text) if b.strip()]
+    print(BAR); print(f"起草台 · {path}"); print(BAR)
+    pw = [count_words(b) for b in blocks]
+    pk = [BOLD.findall(b) for b in blocks]
+    pkn = [len(x) for x in pk]
+    tw, tk = sum(pw), sum(pkn)
+    d = tk / tw * 100 if tw else 0
+    ok = lambda c: "✓" if c else "✗"
+    print(f"{ok(WORDS_MIN <= tw <= WORDS_MAX)} 词数 {tw}（{WORDS_MIN}—{WORDS_MAX}）")
+    print(f"{ok(tk == KEYWORDS_EXACT)} 重点词 {tk}（须 {KEYWORDS_EXACT}）")
+    print(f"{ok(d <= DENSITY_MAX)} 密度 {d:.1f}%（≤{DENSITY_MAX}%）")
+    print(f"{ok(len(blocks) == PARA_EXACT)} 段落 {len(blocks)}（须 {PARA_EXACT}）")
+    if pkn:
+        sp = max(pkn) - min(pkn)
+        print(f"{ok(sp <= KW_SPREAD_MAX)} 关键词分布 {'·'.join(map(str,pkn))}  极差 {sp}（上限 {KW_SPREAD_MAX}）")
+        print(f"  段落词数 {'·'.join(map(str,pw))}")
+        print(f"  局部密度 {'·'.join(f'{k/w*100:.1f}%' for w,k in zip(pw,pkn) if w)}")
+    allk = [w for g in pk for w in g]
+    ns = [norm(x) for x in allk]
+    dup = [x for x, c in Counter(ns).items() if c > 1]
+    print(f"{ok(not dup)} 篇内重复 " + ("：" + "、".join(dup) if dup else "无"))
+    print()
+    cmd_pool(arts, allk, exclude)
+
 def main():
     args = [x for x in sys.argv[1:] if not x.startswith("--")]
     arts = load_articles()
@@ -413,6 +516,25 @@ def main():
     for a in arts:
         F, st = inspect(a, arts)
         results.append((a, F, st))
+
+    argv = sys.argv[1:]
+    if "--pool" in argv:
+        i = argv.index("--pool")
+        ex = None
+        if "--exclude" in argv:
+            ex = argv[argv.index("--exclude") + 1].zfill(2)
+        ws = [w for w in argv[i+1:] if not w.startswith("-")]
+        if len(ws) == 1 and os.path.exists(ws[0]):
+            ws = open(ws[0], encoding="utf-8").read().split()
+        if "--exclude" in argv:
+            ws = [w for w in ws if w != ex and w != ex.lstrip("0")]
+        cmd_pool(arts, ws, ex)
+        return
+    if "--draft" in argv:
+        i = argv.index("--draft")
+        ex = argv[argv.index("--exclude") + 1].zfill(2) if "--exclude" in argv else None
+        cmd_draft(arts, argv[i+1], ex)
+        return
 
     if "--html" in sys.argv:
         i = sys.argv.index("--html")
@@ -433,7 +555,7 @@ def main():
         report_one(a, F, st, verbose=False)
 
     print(BAR)
-    print("全库排名（低分优先修）")
+    print("全库合规排名（低分优先修）· 此分衡量硬约束达标，不衡量文章质量")
     print(BAR)
     ranked = sorted(results, key=lambda r: score(r[1]))
     for a, F, st in ranked:
