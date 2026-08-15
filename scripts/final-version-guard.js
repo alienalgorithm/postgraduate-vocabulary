@@ -28,7 +28,7 @@ const SOURCE_AUDIT = {
   '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '12': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '13': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的266词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '14': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: '63279e6e988966680c8a164db3fb0e19b4a08972' },
+  '14': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '15': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'bab945342134b4d45bb8d005569f11c9fb2a97fe' },
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
@@ -51,7 +51,7 @@ const VERSION_IDS = {
   '11': '11-270-word-final-locked',
   '12': '12-270-word-final-locked',
   '13': '13-266-word-final-locked',
-  '14': '14-final-proofed',
+  '14': '14-270-word-final-locked',
   '15': '15-final-proofed',
   '16': '16-263-word-final-polish',
   '17': '17-268-word-final-polish',
@@ -269,6 +269,14 @@ const SUPERSEDED_SIGNATURES = {
     'No single **feat** secured the **triumph**',
     'searching turned absence into evidence people could **trust**',
     '265 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
+  ],
+  '14': [
+    'Their **drift** implied a **route** across the polar **sea**.',
+    'Fram\u2019s **crew** **sailed** from Norway in 1893 with years of **food**',
+    'The drift **missed** Nansen\u2019s hoped-for **goal** of passing near the Pole',
+    'they wintered in a stone **shelter** on an **island** in Franz Josef Land',
+    'The expedition **achieved** its **chief** scientific aim.',
+    '268 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.7%',
   ],
 };
 

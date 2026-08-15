@@ -269,7 +269,10 @@ def inspect(a, archive):
                     f"…{a2} / {a1}", "两条箴言互相削弱；中间垫一句具体事实，或只留一条"))
 
     premise_re = re.compile(r"\b(expect(?:ed|ing)?|assum(?:ed|ing)|thought|believed|had been|used to|before \d{4})\b", re.I)
-    anomaly_re = re.compile(r"\b(instead|yet|but|however|nobody|no one|impossible|astonish\w*|no visible)\b", re.I)
+    # instead/but 也常用于纯粹的对照描述（"squeezed her upward instead of inward"），
+    # 不构成需要前提的『异常』。只认真正标示反常的措辞。
+    anomaly_re = re.compile(r"\b(nobody|no one|impossible|astonish\w*|no visible|"
+                            r"could not explain|should not have|puzzl\w*|unexpected)\b", re.I)
     p_idx = [i for i, p in enumerate(paras, 1) if premise_re.search(p["en"])]
     a_idx = [i for i, p in enumerate(paras, 1) if anomaly_re.search(p["en"])]
     if p_idx and a_idx and min(p_idx) > min(a_idx) + 1:
