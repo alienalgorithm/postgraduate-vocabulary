@@ -1,23 +1,23 @@
 # 03 · The Graph That Changed the Sky
 
 > 题材：1985 年南极臭氧洞
-> 状态：**第三篇精进定稿**（2026-08-09）
-> 指标：255 词 / 50 重点词 / 密度 19.6%
-> 几十年的重复测量，把南极上空看不见的损失变成了全球行动。
+> 状态：**第三篇最终精进锁定稿**（2026-08-15）
+> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 一台1956年的地面仪器，为什么比头顶的卫星先看见臭氧洞——以及一道为逮住坏仪器而设的过滤器，如何分不清坏掉的是仪器还是天。
 
 ---
 
 ## 英文正文
 
-At Halley, a **station** in Antarctica, scientists had **monitored** **atmospheric** **ozone** since 1956. For nearly three **decades**, a Dobson **instrument** compared ultraviolet intensities at selected wavelengths. Its **routine** **observations** formed a **baseline**: measure, record, repeat.
+At Halley Bay the British Antarctic Survey had measured total-column **ozone** since 1956 with a Dobson **spectrophotometer**, a prism instrument **weighing** **ultraviolet** **intensities** at two **bands**. Every **springtime**, the same reading, on the same days, from the same **hut**. A **baseline** earns its keep by being **dull**.
 
-In 1982, Jonathan Shanklin **checked** old and new instruments; their **data** matched, confirming the **unexpected** result. In the Antarctic **spring** of 1984, October **measurements** of total-column ozone showed a **decline** of **approximately** 40% from the 1960s **average**. The loss mattered because stratospheric ozone absorbs harmful ultraviolet radiation. In its 16 May 1985 issue, the **journal** *Nature* **published** the **findings** of Joe Farman, Brian Gardiner and Shanklin. Calculations for 30°N predicted little change; Antarctica exposed the failed extrapolation.
+From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** optics were slipping and ordered a **replacement**; the two **agreed**. A second **outpost** a thousand miles away showed the same **recurring** **decline**. By October 1984 the total stood 40% below its 1960s value, yet the team **hesitated**: nothing had come from **orbit**.
 
-Later work explained why **extreme** Antarctic **conditions** amplified damage from chlorine derived from chlorofluorocarbons (CFCs). When temperatures fell below about −78°C, **polar** stratospheric **clouds** formed. Reactions on their **particles** converted **stable** chlorine reservoirs into light-sensitive forms. Returning **sunlight** **released** **active** **chlorine** atoms, each able to **destroy** ozone **molecules** repeatedly.
+Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set to catch a **faulty** **lens**, not a real change. To **settle** which it was, they checked those values against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**.
 
-In 1986, Nimbus-7 **satellite** data **confirmed** the **continental** **scale** of the loss. On 16 September 1987, **governments** **adopted** the Montreal Protocol, an **international** **agreement** to **restrict** production and consumption of ozone-depleting **substances**. It entered into **force** on 1 January 1989; later amendments tightened its controls.
+*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, stratospheric **clouds** **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.
 
-The hole still returns each spring. With continued compliance, Antarctic ozone is **projected** to **recover** to 1980 **levels** around 2066. One graph exposed a **planetary** risk; global **cooperation** helped accelerate controls in just over two years, while **repair** of the ozone layer may remain **gradual** for about eight decades.
+Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly**. Reprocessed satellite **scans** showed a **continent-wide** loss in 1986; governments **adopted** the Montreal Protocol on 16 September 1987, and later **amendments** **tightened** it. Antarctic ozone is **projected** to **regain** its 1980 **concentration** near 2066. A filter built to catch a broken instrument cannot tell a broken instrument from a broken sky.
 
 ---
 
@@ -26,29 +26,29 @@ The hole still returns each spring. With continued compliance, Antarctic ozone i
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-在南极的哈雷**科研站**(station)，科学家自1956年起便持续**监测**(monitored)**大气中的**(atmospheric)**臭氧**(ozone)。近**三十年**(decades)间，一台多布森**仪器**(instrument)不断比较特定波长处的紫外光强。那些**常规的**(routine)**观测记录**(observations)构成了一条**基线**(baseline)：测量、记录、重复。
+在南极哈雷湾，英国南极调查局自1956年起就用一台多布森**分光光度计**(spectrophotometer)测量**臭氧**(ozone)总柱量。那是一台棱镜仪器，靠**称量**(weighing)两个**波段**(bands)上的**紫外**(ultraviolet)光**强度**(intensities)。每年**春季**(springtime)，同样的读数，同样的日子，同一间**小屋**(hut)。一条**基线**(baseline)的价值，正在于它**枯燥**(dull)。
 
-1982年，乔纳森·尚克林**核查了**(checked)新旧两台仪器的读数；两组**数据**(data)相互吻合，证实了那个**出乎意料的**(unexpected)结果。到1984年南极**春季**(spring)，10月的臭氧总柱量**测量结果**(measurements)显示，其数值较20世纪60年代的**平均水平**(average)**下降**(decline)了**约**(approximately)40%。这一损失之所以重要，是因为平流层臭氧能够吸收有害的紫外辐射。1985年5月16日，**期刊**(journal)《自然》**发表了**(published)乔·法曼、布赖恩·加德纳和尚克林的**研究发现**(findings)。针对北纬30度的计算只预测到轻微变化；南极的结果暴露了这种外推的错误。
+从1981年起，10月的**读数**(readings)开始下滑。乔·法曼**判断**(reckoned)是自己那台**老化**(ageing)的光学件走偏了，便订了一台**替换机**(replacement)；两台读数**吻合**(agreed)。一千英里外的另一处**观测点**(outpost)，也出现了同样**年复一年**(recurring)的**下降**(decline)。到1984年10月，总量已比1960年代低了40%。可队里仍在**犹豫**(hesitated)：**轨道**(orbit)上一直没有消息。
 
-后续研究解释了，为什么南极的**极端**(extreme)**条件**(conditions)会让源自氯氟烃（chlorofluorocarbons，CFCs）的氯造成更严重的破坏。当温度低于约零下78摄氏度，**极地**(polar)平流层**云**(clouds)便会形成。云**粒子**(particles)表面的反应，会把原本很**稳定**(stable)、暂时封存着氯的化合物转变为对光敏感的形态。随后，重返南极的**阳光**(sunlight)会**释放出**(released)**活性**(active)**氯**(chlorine)原子；每个氯原子都能反复**破坏**(destroy)臭氧**分子**(molecules)。
+“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，他们拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。低值就这样一直**未获证实**(unconfirmed)。
 
-1986年，“Nimbus-7”**卫星**(satellite)的数据**证实**(confirmed)，臭氧损失已经达到**大陆级**(continental)**规模**(scale)。1987年9月16日，各国**政府**(governments)**通过了**(adopted)《蒙特利尔议定书》；这项**国际**(international)**协定**(agreement)旨在**限制**(restrict)消耗臭氧层**物质**(substances)的生产和消费。议定书于1989年1月1日正式**生效**(force)；后续修正案又收紧了管制。
+1985年5月16日，《自然》刊出了法曼、加德纳与尚克林的论文。没有哪个模型**预见到**(anticipated)这么大的损失：在北纬30度附近**调校**(tuned)出来的计算只给出百分之几，而没有一个人**模拟**(simulated)过极地的冬天。零下78摄氏度以下，平流层**云**(clouds)会在臭氧层的**高度**(altitude)上**凝结**(condense)；在云**粒子**(particles)表面，原本**蛰伏**(dormant)的含**氯**(chlorine)化合物变成了会被光**劈开**(cleaves)的形态。
 
-南极臭氧洞每逢春季仍会出现。只要各国继续履约，**预计**(projected)到2066年左右，南极上空的臭氧将**恢复**(recover)到1980年的**水平**(levels)。一张图揭示了**关乎整个地球的**(planetary)风险；全球**合作**(cooperation)使管制措施在短短两年多内加速推进，而臭氧层的**修复**(repair)却可能仍要**缓慢推进**(gradual)约八十年。
+春天回来的阳光**释放**(liberates)出这些原子，每一个都能**反复**(repeatedly)摧毁臭氧。1986年重新处理的卫星**扫描**(scans)显示，损失已是**覆盖整个大陆**(continent-wide)的规模；1987年9月16日，各国政府**通过**(adopted)了《蒙特利尔议定书》，其后的**修正案**(amendments)又**收紧**(tightened)了管制。南极臭氧**预计**(projected)将在2066年前后**重回**(regain)1980年的**浓度**(concentration)。一道为逮住坏仪器而设的过滤器，分不清坏掉的是仪器，还是天。
 
 ---
 
 ## 50 词速查表
 
-**§1**（9词）station 科研站｜monitor 监测｜atmospheric 大气中的｜ozone 臭氧｜decade 十年｜instrument 仪器｜routine 常规的｜observation 观测记录｜baseline 基线
+**§1**（10词）ozone 臭氧｜spectrophotometer 分光光度计｜weigh 称量；权衡｜ultraviolet 紫外的｜intensity 强度｜band 波段；带｜springtime 春季｜hut 小屋｜baseline 基线｜dull 枯燥的；钝的
 
-**§2**（11词）check 核查｜data 数据｜unexpected 出乎意料的｜spring 春季｜measurement 测量结果｜decline 下降｜approximately 约、大约｜average 平均水平｜journal 期刊｜publish 发表｜finding 研究发现
+**§2**（10词）reading 读数｜reckon 判断；认为｜ageing 老化的｜replacement 替换机；替换｜agree 吻合；同意｜outpost 观测点；前哨｜recurring 反复出现的｜decline 下降｜hesitate 犹豫｜orbit 轨道
 
-**§3**（12词）extreme 极端的｜condition 条件｜polar 极地的｜cloud 云｜particle 粒子｜stable 稳定的｜sunlight 阳光｜release 释放｜active 有活性的｜chlorine 氯｜destroy 破坏｜molecule 分子
+**§3**（10词）mapper 测绘仪｜processing 数据处理｜flag 标记出来｜threshold 阈值；门槛｜faulty 故障的｜lens 镜头；透镜｜settle 判定；解决｜erroneous 错误的｜calibration 标定；校准｜unconfirmed 未获证实的
 
-**§4**（11词）satellite 卫星｜confirm 证实｜continental 大陆级的｜scale 规模｜government 政府｜adopt 通过、采纳｜international 国际的｜agreement 协定｜restrict 限制｜substance 物质｜force 生效（enter into force）
+**§4**（10词）anticipate 预见到｜tune 调校｜simulate 模拟｜cloud 云｜condense 凝结｜altitude 高度｜particle 粒子｜dormant 蛰伏的；休眠的｜chlorine 氯｜cleave 劈开
 
-**§5**（7词）project 预计｜recover 恢复｜level 水平｜planetary 关乎整个地球的｜cooperation 合作｜repair 修复｜gradual 缓慢的、渐进的
+**§5**（10词）liberate 释放；解放｜repeatedly 反复地｜scan 扫描｜continent-wide 覆盖整个大陆的｜adopt 通过；采纳｜amendment 修正案｜tighten 收紧｜project 预计｜regain 重回；重获｜concentration 浓度；集中
 
 ---
 
@@ -56,17 +56,9 @@ The hole still returns each spring. With continued compliance, Antarctic ozone i
 
 以下关键信息已据所列来源核对：
 
-- 哈雷站自1956年起持续进行臭氧观测；1982年，新旧两台多布森分光光度计的同期读数吻合，帮助排除旧仪器故障，而长期趋势来自此前累积的观测记录。
-- 1984年南极春季的臭氧总柱量较20世纪60年代水平下降约40%；Joe Farman、Brian Gardiner和Jonathan Shanklin的论文刊于1985年5月16日的《Nature》。原论文还指出，以北纬30度为基础的一维模型常被默认成全球估计，而南极观测暴露了这种外推的不足。
-- 完整的极地化学机制由后续研究逐步厘清：约−78°C以下形成极地平流层云，云粒子表面的过程使稳定的含氯储库物种转为对光敏感的形态，冬末阳光返回后开始快速破坏臭氧。
-- 1986年，Nimbus-7卫星资料确认臭氧损失具有南极大陆尺度；本文没有采用“NASA算法删除异常数据”这一被过度简化的流行说法。
-- 《蒙特利尔议定书》于1987年9月16日通过、1989年1月1日生效，并通过后续调整和修正逐步加强对消耗臭氧层物质的管制；1985年的发现加快了行动，但并不是国际政策进程的唯一开端。
-- 世界气象组织的评估带有明确条件：若现行政策继续实施，南极臭氧预计约在2066年恢复至1980年水平；单个年份的臭氧洞大小仍会受到气象条件影响。
-- 来源：[British Antarctic Survey：哈雷站长期观测与两台仪器的核验](https://www.bas.ac.uk/blogpost/seventy-years-on-the-ice-the-extraordinary-story-of-halley-research-station/)
-- 来源：[Nature：1985年臭氧洞原始论文](https://www.nature.com/articles/315207a0)
-- 来源：[NASA：臭氧研究史与1984年约40%的下降](https://acd-ext.gsfc.nasa.gov/People/Stolarski/history.html)
-- 来源：[NASA NTRS：1986年Nimbus-7卫星确认](https://ntrs.nasa.gov/citations/19870029585)
-- 来源：[British Antarctic Survey：极地平流层云、温度与阳光机制](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/dobson-spectrophotometer/)
-- 来源：[UNEP：蒙特利尔议定书的分阶段管制](https://www.unep.org/ozonaction/index.php/who-we-are/about-montreal-protocol)
-- 来源：[联合国法律资料：通过日期与生效日期](https://legal.un.org/avl/ha/vcpol/vcpol.html)
-- 来源：[世界气象组织：南极臭氧约2066年恢复至1980年水平](https://wmo.int/media/news/ozone-layer-recovery-track-helping-avoid-global-warming-05degc)
+- 哈雷湾自1956年起以多布森分光光度计连续观测臭氧总柱量；仪器通过比较选定波段的紫外光强度反演臭氧。1981年起10月读数持续偏低，法曼一度怀疑仪器老化，遂启用新机，新旧读数一致；一千英里外的阿根廷群岛站也记录到同样的春季下降。[British Antarctic Survey：多布森分光光度计](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/dobson-spectrophotometer/)｜[EBSCO：臭氧洞发现始末](https://www.ebsco.com/research-starters/environmental-sciences/researchers-discover-hole-ozone-layer)
+- 1984年10月总柱量较1960年代低约40%。团队迟迟未发表的原因之一，正是自1978年起在轨的Nimbus-7从未报告过异常——若卫星看不到，地面读数就可能是错的。[Nature：1985年原始论文](https://www.nature.com/articles/315207a0)｜[EBSCO](https://www.ebsco.com/research-starters/environmental-sciences/researchers-discover-hole-ozone-layer)
+- **本文不采用“NASA把异常数据删除”这一流行说法。**实情是：TOMS的处理流程把低于约180多布森单位的读数标记出来待查，该阈值基于逐日数据、目的是识别仪器故障，而非发现真实的系统性变化；团队拿南极点的地面多布森记录去核对，可那段记录“错误且无法修正”，因此无法判断异常源自仪器还是真实现象，低值遂长期未获证实。[Debunking the myth about ozone holes and outlier removal](https://aakinshin.net/posts/outliers-ozon-holes/)｜[Hyndman：How NASA didn't discover the hole](https://robjhyndman.com/hyndsight/ozone-hole-anomaly.html)
+- 1983年10月10日，尚克林曾致信NASA沃洛普斯岛中心，报告哈雷湾约200多布森单位的低值，并询问能否由卫星数据证实。[ScienceDirect：南极臭氧洞的发现](https://www.sciencedirect.com/science/article/pii/S1631071318301196)
+- 论文刊于1985年5月16日《Nature》，作者为Joe Farman、Brian Gardiner、Jonathan Shanklin。当时的模型多以北纬30度为基础调校，预测仅有百分之几的变化，无人对极地冬季建模，南极观测因此暴露了外推的失效。[Nature](https://www.nature.com/articles/315207a0)｜[NASA：臭氧研究史](https://acd-ext.gsfc.nasa.gov/People/Stolarski/history.html)
+- 机制由后续研究厘清：约−78°C以下，极地平流层云在臭氧层高度凝结；只有在云粒子表面、且有阳光作催化条件时，稳定的含氯储库物种才转为对光敏感的形态，冬末阳光返回后释放氯原子，单个氯原子可反复破坏臭氧分子。1986年重新处理的卫星资料确认损失具南极大陆尺度；《蒙特利尔议定书》1987年9月16日通过、1989年1月1日生效，后续修正案持续收紧；世界气象组织评估在现行政策延续的条件下，南极臭氧约2066年恢复至1980年水平。[British Antarctic Survey](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/dobson-spectrophotometer/)｜[NASA NTRS：1986年确认](https://ntrs.nasa.gov/citations/19870029585)｜[WMO：约2066年恢复](https://wmo.int/media/news/ozone-layer-recovery-track-helping-avoid-global-warming-05degc)

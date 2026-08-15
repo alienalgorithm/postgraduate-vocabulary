@@ -17,7 +17,7 @@ const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
 const SOURCE_AUDIT = {
   '01': { source: '原始第1篇定稿；作者的第2—7篇最终包未包含第1篇，因此保持不变', verification: 'preserved-canonical' },
   '02': { source: '2026-08-15对话中完成段落均衡、重点词价值置换、前提前移、共生逻辑桥补入与人物锚点的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '03': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-body-confirmed' },
+  '03': { source: '2026-08-15对话中经写作智能体全流程（词池→草稿→复检五轮）产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: '260-word-final-package' },
   '05': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-body-confirmed' },
   '06': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', verification: 'exact-uploaded-markdown', blob: 'fd60aa1a0fae0a7a2879edbed990c81b2f9a66a6' },
@@ -40,7 +40,7 @@ const SOURCE_AUDIT = {
 const VERSION_IDS = {
   '01': '01-original-final',
   '02': '02-270-word-final-locked',
-  '03': '03-refined-final',
+  '03': '03-270-word-final-locked',
   '04': '04-260-word-final',
   '05': '05-final-refined',
   '06': '06-final-locked',
@@ -178,6 +178,19 @@ const SUPERSEDED_SIGNATURES = {
     'a **usable** **flow** of energy',
     'came back with evidence that a community could **flourish** in permanent darkness',
     '第二篇全新重写稿',
+  ],
+  '03': [
+    'At Halley, a **station** in Antarctica',
+    'Its **routine** **observations** formed a **baseline**: measure, record, repeat.',
+    'their **data** matched, confirming the **unexpected** result',
+    'a **decline** of **approximately** 40% from the 1960s **average**',
+    'In its 16 May 1985 issue, the **journal** *Nature* **published**',
+    'Returning **sunlight** **released** **active** **chlorine** atoms',
+    'an **international** **agreement** to **restrict**',
+    'It entered into **force** on 1 January 1989',
+    'One graph exposed a **planetary** risk',
+    '255 词 / 50 重点词 / 密度 19.6%',
+    '第三篇精进定稿',
   ],
 };
 
