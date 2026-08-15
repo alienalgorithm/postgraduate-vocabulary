@@ -122,7 +122,7 @@ def validate_article(article: dict[str, Any]) -> tuple[list[str], int, int, floa
 
     if not paragraphs:
         problems.append("  没有正文段落")
-    expected_paragraphs = 4 if str(article_id) == "01" else 5
+    expected_paragraphs = 5  # 全库统一五段；第01篇的4段例外已于2026-08-15随其重写撤销
     if len(paragraphs) != expected_paragraphs:
         problems.append(
             f"  正文为 {len(paragraphs)} 段；当前文章标准为 {expected_paragraphs} 段"

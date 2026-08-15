@@ -15,7 +15,7 @@ const HANDOFF_PATH = path.join(ROOT, 'notes', '对话交接文档.md');
 const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
 
 const SOURCE_AUDIT = {
-  '01': { source: '原始第1篇定稿；作者的第2—7篇最终包未包含第1篇，因此保持不变', verification: 'preserved-canonical' },
+  '01': { source: '2026-08-15对话中经写作智能体全流程产出、由四段改为五段、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '02': { source: '2026-08-15对话中完成段落均衡、重点词价值置换、前提前移、共生逻辑桥补入与人物锚点的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '03': { source: '2026-08-15对话中经写作智能体全流程（词池→草稿→复检五轮）产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: '260-word-final-package' },
@@ -38,7 +38,7 @@ const SOURCE_AUDIT = {
 };
 
 const VERSION_IDS = {
-  '01': '01-original-final',
+  '01': '01-269-word-five-para-final',
   '02': '02-270-word-final-locked',
   '03': '03-270-word-final-locked',
   '04': '04-260-word-final',
@@ -203,6 +203,15 @@ const SUPERSEDED_SIGNATURES = {
     'Shannon\u2019s **model** did not judge a message\u2019s **purpose**',
     'That **restraint** made the theory **general**',
     '273 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.3%',
+  ],
+  '01': [
+    'marked each death with a **stroke** against the address on a **map** of the **district**',
+    'had its own **well** and **recorded** five deaths',
+    'A theory is **tested** not by the cases it **fits**, but by the one it cannot **survive**.',
+    'the **gesture** **altered** little',
+    'He had **demonstrated** something more useful than a **proof**',
+    '252 词 / 50 重点词 / 密度 19.8%',
+    '第一篇最终精校稿',
   ],
 };
 
