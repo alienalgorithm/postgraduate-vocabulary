@@ -1071,10 +1071,10 @@ window.SITE = {
           "p": 3
         },
         {
-          "w": "frequency",
-          "zh": "频率",
-          "p": 3
-        },
+        "w": "frequency",
+        "zh": "频率",
+        "p": 3
+      },
         {
           "w": "reliable",
           "zh": "可靠的",
@@ -1832,306 +1832,301 @@ window.SITE = {
       ]
     },
     {
-      "id": "07",
-      "slug": "the-meaning-he-left-out",
-      "title": "The Meaning He Left Out",
-      "titleZh": "他暂时略去的意义",
-      "standfirst": "香农暂时把意义留在工程问题之外，由此看清：压缩要删减冗余，抗噪却要主动加入冗余。",
-      "topic": "1948 年香农与信息论",
-      "date": "2026-08-10",
-      "status": "第七篇最终精校稿",
-      "metrics": {
-        "words": 273,
-        "keywords": 50,
-        "density": 18.3
+    "id": "07",
+    "slug": "the-meaning-he-left-out",
+    "title": "The Meaning He Left Out",
+    "titleZh": "他暂时略去的意义",
+    "standfirst": "香农在第一页就把含义搁到一边——正是这份克制，让一条信道不必读懂消息也能把它完好送到。",
+    "topic": "1948 年香农与信息论",
+    "date": "2026-08-15",
+    "status": "第七篇最终精进锁定稿",
+    "metrics": {
+      "words": 269,
+      "keywords": 50,
+      "density": 18.6
+    },
+    "paras": [
+      {
+        "en": "In 1948 Claude Shannon published a theory of **messages** and set their meaning aside. A line might carry a love letter, a market **quotation** or an **arbitrary** string of **glyphs**; to the engineer the **contents** were **irrelevant**. His question was narrower: could a **receiver**, given the signal, **retrieve** exactly what the **sender** had **picked**?",
+        "zh": "1948年，克劳德·香农发表了一套关于**消息**(messages)的理论，并把消息的含义搁在一边。一条线路上传的可能是情书，可能是行情**报价**(quotation)，也可能是一串**任意的**(arbitrary)**符号**(glyphs)；在工程师看来，这些**内容**(contents)都**无关紧要**(irrelevant)。他问的是更窄的问题：**接收端**(receiver)拿到抵达的信号后，能不能原样**取回**(retrieve)**发送端**(sender)当初**挑中**(picked)的那一条？"
       },
-      "paras": [
-        {
-          "en": "In 1948 Claude Shannon published a paper about **messages**—and deliberately set their **meaning** aside. A telephone line might carry a love letter, a market **quotation** or an arbitrary string. Their **value** to a reader differed; the **technical** task did not. Could a **receiver**, given the arriving signal, **retrieve** the exact message the **sender** had chosen?",
-          "zh": "1948年，克劳德·香农发表了一篇关于**消息**(messages)的论文，却有意暂时搁置它们的**意义**(meaning)。一条电话线可能传送情书、市场**报价**(quotation)，也可能传送一串任意字符。对读者而言，它们的**价值**(value)各不相同；**技术层面**(technical)的任务却没有区别：**接收端**(receiver)能否仅凭到达的信号，**还原出**(retrieve)**发送端**(sender)选中的那条消息？"
-        },
-        {
-          "en": "That narrower question made information countable. If eight **outcomes** were **equally** likely, identifying one required three yes-or-no **choices**: three **bits**. A guaranteed event conveyed nothing new; a **rare** one conveyed more. Shannon used **probability** to calculate that **quantity**; he **credited** John Tukey with suggesting the **term** “bit”, short for **binary** digit.",
-          "zh": "问题一经这样收窄，信息便有了可以计算的尺度。若八种**结果**(outcomes)出现的概率**完全相同**(equally)，确定其中一种只需做三次“是或否”的**选择**(choices)，即三**比特**(bits)。必然发生的结果不会带来新信息；越**罕见的**(rare)结果，所含信息越多。香农借助**概率**(probability)计算这种**信息量**(quantity)；他还明确将“bit”一词**归功于**(credited)约翰·图基。这个**术语**(term)是“**二进制**(binary)数位”的简称。"
-        },
-        {
-          "en": "In human **language**, symbols are not uniformly **random**: E occurs more **often** than Q, and TH than XP. This **predictability** creates **redundancy**; **source** coding can therefore compress a message, **assigning** shorter representations to more **likely** **sequences** and longer ones to rare sequences. Compression saves bits by exploiting the language’s statistical regularities.",
-          "zh": "在人类**语言**(language)中，各种符号并非均匀**随机**(random)出现：E比Q**更常出现**(often)，TH也比XP常见。这种**可预测性**(predictability)形成了**冗余**(redundancy)；因此，**信源**(source)编码可以通过**分配**(assigning)长短不同的表示来压缩消息：越**可能出现的**(likely)**序列**(sequences)，表示越短；越罕见，表示越长。压缩正是利用这些统计规律来节省比特。"
-        },
-        {
-          "en": "In a **channel**, **noise** reverses the logic: it may **damage** a **signal**, so a **code** adds **deliberate** redundancy that helps correct errors. Shannon showed that each channel has a **maximum** reliable information **rate**. Below this **limit**, properly designed, **sufficiently** long codes can make the probability of **error** arbitrarily small; above it, no code can make **transmission** reliable.",
-          "zh": "在**信道**(channel)中，**噪声**(noise)使逻辑反转：它可能**损坏**(damage)**信号**(signal)，因此**编码**(code)会加入**有意设计的**(deliberate)冗余，帮助纠错。香农证明，每条信道都有一个能够可靠传输信息的**最高**(maximum)**速率**(rate)。低于这个**上限**(limit)，采用设计得当且**足够**(sufficiently)长的编码，就能把**出错**(error)概率降到任意小；超过它，任何编码都无法实现可靠**传输**(transmission)。"
-        },
-        {
-          "en": "His **result** established that such codes existed; it did not offer a **convenient** way to **construct** them. At the **destination**, meaning could matter again. Shannon’s **model** did not judge a message’s **purpose**; it asked only whether a chosen message could be **preserved**. That **restraint** made the theory **general**: a channel need not **understand** a message to carry it **intact**.",
-          "zh": "这一**结果**(result)证明，此类编码确实存在；但香农并未给出一种**便于实际使用的**(convenient)方法来**构造**(construct)它们。当消息抵达**目的地**(destination)，意义才可能重新变得重要。香农的**模型**(model)不判断消息的**用途**(purpose)，只问发送时选中的那条消息能否**保持原样**(preserved)。这种**克制**(restraint)让理论得以**普遍适用**(general)：信道无需**理解**(understand)消息，也能将它**完整无损地**(intact)送达。"
-        }
-      ],
-      "glossary": [
-        {
-          "w": "message",
-          "zh": "消息、讯息",
-          "p": 1
-        },
-        {
-          "w": "meaning",
-          "zh": "含义、意义",
-          "p": 1
-        },
-        {
-          "w": "quotation",
-          "zh": "报价、引语",
-          "p": 1
-        },
-        {
-          "w": "value",
-          "zh": "价值",
-          "p": 1
-        },
-        {
-          "w": "technical",
-          "zh": "技术的、技术层面的",
-          "p": 1
-        },
-        {
-          "w": "receiver",
-          "zh": "接收器、接收端",
-          "p": 1
-        },
-        {
-          "w": "retrieve",
-          "zh": "取回、检索、还原",
-          "p": 1
-        },
-        {
-          "w": "sender",
-          "zh": "发送者、发送端",
-          "p": 1
-        },
-        {
-          "w": "outcome",
-          "zh": "结果",
-          "p": 2
-        },
-        {
-          "w": "equally",
-          "zh": "相等地、同样地",
-          "p": 2
-        },
-        {
-          "w": "choice",
-          "zh": "选择",
-          "p": 2
-        },
-        {
-          "w": "bit",
-          "zh": "比特、二进制位",
-          "p": 2
-        },
-        {
-          "w": "rare",
-          "zh": "罕见的",
-          "p": 2
-        },
-        {
-          "w": "probability",
-          "zh": "概率、可能性",
-          "p": 2
-        },
-        {
-          "w": "quantity",
-          "zh": "数量、量",
-          "p": 2
-        },
-        {
-          "w": "credit",
-          "zh": "把功劳归于",
-          "p": 2
-        },
-        {
-          "w": "term",
-          "zh": "术语、用语",
-          "p": 2
-        },
-        {
-          "w": "binary",
-          "zh": "二进制的",
-          "p": 2
-        },
-        {
-          "w": "language",
-          "zh": "语言",
-          "p": 3
-        },
-        {
-          "w": "random",
-          "zh": "随机的",
-          "p": 3
-        },
-        {
-          "w": "often",
-          "zh": "常常、经常",
-          "p": 3
-        },
-        {
-          "w": "predictability",
-          "zh": "可预测性",
-          "p": 3
-        },
-        {
-          "w": "redundancy",
-          "zh": "冗余、多余信息",
-          "p": 3
-        },
-        {
-          "w": "source",
-          "zh": "来源、信源",
-          "p": 3
-        },
-        {
-          "w": "assign",
-          "zh": "分配、指派",
-          "p": 3
-        },
-        {
-          "w": "likely",
-          "zh": "可能的、很可能发生的",
-          "p": 3
-        },
-        {
-          "w": "sequence",
-          "zh": "序列、顺序",
-          "p": 3
-        },
-        {
-          "w": "channel",
-          "zh": "信道、渠道",
-          "p": 4
-        },
-        {
-          "w": "noise",
-          "zh": "噪声",
-          "p": 4
-        },
-        {
-          "w": "damage",
-          "zh": "损坏、破坏",
-          "p": 4
-        },
-        {
-          "w": "signal",
-          "zh": "信号",
-          "p": 4
-        },
-        {
-          "w": "code",
-          "zh": "编码、代码",
-          "p": 4
-        },
-        {
-          "w": "deliberate",
-          "zh": "有意的、经过考虑的",
-          "p": 4
-        },
-        {
-          "w": "maximum",
-          "zh": "最高的、最大值",
-          "p": 4
-        },
-        {
-          "w": "rate",
-          "zh": "速率、比率",
-          "p": 4
-        },
-        {
-          "w": "limit",
-          "zh": "上限、限制",
-          "p": 4
-        },
-        {
-          "w": "sufficiently",
-          "zh": "足够地",
-          "p": 4
-        },
-        {
-          "w": "error",
-          "zh": "错误、误差",
-          "p": 4
-        },
-        {
-          "w": "transmission",
-          "zh": "传输、传送",
-          "p": 4
-        },
-        {
-          "w": "result",
-          "zh": "结果、结论",
-          "p": 5
-        },
-        {
-          "w": "convenient",
-          "zh": "方便的、便于使用的",
-          "p": 5
-        },
-        {
-          "w": "construct",
-          "zh": "构造、建造",
-          "p": 5
-        },
-        {
-          "w": "destination",
-          "zh": "目的地、接收终点",
-          "p": 5
-        },
-        {
-          "w": "model",
-          "zh": "模型",
-          "p": 5
-        },
-        {
-          "w": "purpose",
-          "zh": "用途、目的",
-          "p": 5
-        },
-        {
-          "w": "preserve",
-          "zh": "保存、保留",
-          "p": 5
-        },
-        {
-          "w": "restraint",
-          "zh": "克制、约束",
-          "p": 5
-        },
-        {
-          "w": "general",
-          "zh": "普遍的、普适的",
-          "p": 5
-        },
-        {
-          "w": "understand",
-          "zh": "理解",
-          "p": 5
-        },
-        {
-          "w": "intact",
-          "zh": "完整无损的",
-          "p": 5
-        }
-      ],
-      "facts": [
-        "Claude Shannon的《A Mathematical Theory of Communication》发表于1948年《Bell System Technical Journal》第27卷，分载于7月与10月两期，页码分别为379–423和623–656。正文只写年份，以免日期压过论证。",
-        "香农在论文开头把通信的基本问题界定为：在另一点准确或近似地重现从一组可能消息中选中的那一条。他说语义层面与这一工程问题无关，并不是宣称意义对人类交流不重要。",
-        "以2为底取对数时，信息单位是binary digit，简称bit。香农在原文中明确注明“bit”一词由J. W. Tukey建议；因此正文没有把这个词的发明单独归给香农。八个等概率结果对应log₂8 = 3比特。",
-        "香农研究了英语的统计结构与冗余。信源编码可利用不等概率，把较短表示分配给更常见的符号或序列，从而压缩消息；正文没有把压缩写成删除语义。",
-        "在有噪信道中，冗余若以合适方式加入，可帮助发现并纠正错误。本文把压缩时删除的统计冗余与传输时加入的结构化冗余分开处理，没有把二者写成矛盾。",
-        "有噪信道编码定理的限定必须完整：信息率低于信道容量时，足够长且合适的编码能使错误概率任意小；超过容量，则不可能把错误压到任意小。正文没有写成有限长度编码可保证绝对零错误。",
-        "香农的证明建立了此类编码的存在性，却没有给出一种普遍而实用的构造方法。原论文也明确承认这种证明在实际编码方面的不足。",
-        "香农在原论文开头明确承认Harry Nyquist与Ralph Hartley的先行工作；本文将1948年的贡献表述为建立一般理论与极限，而非从零发明二进制或全部数字通信。",
-        "来源：[Nokia Bell Labs：香农1948年论文的原始发表页与引言](https://www.nokia.com/bell-labs/publications-and-media/publications/a-mathematical-theory-of-communication/)",
-        "来源：[香农论文校订重印本：完整定义、bit归功、语言冗余与信道编码定理](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)",
-        "来源：[MIT：Shannon limit、存在性证明与实用构造之间的区别](https://news.mit.edu/2010/explained-shannon-0115)"
-      ]
-    }
+      {
+        "en": "The question made information **countable**. If eight **outcomes** are **equally** **probable**, identifying one takes three yes-or-no decisions: three **bits**. A certain event says nothing; a **surprising** one says more. He measured surprise with **probability** and named it **entropy**; base two gave the unit, a **contraction** of **binary** digit, named by John Tukey.",
+        "zh": "这个窄问题让信息变得**可数**(countable)。若八种**结果**(outcomes)**等**(equally)**概率**(probable)，认出其中一种需要三次是非判断，也就是三个**比特**(bits)。必然发生的事什么也没说；**出人意料的**(surprising)那件说得更多。他用**概率**(probability)去度量这份意外，管它叫**熵**(entropy)；以2为底给出了单位，即**二进制**(binary)数字的**缩写**(contraction)，由约翰·图基起名。"
+      },
+      {
+        "en": "Written English is **lopsided**. Letters counted **singly** give 4.14 bits each, but letters are **predictable** from neighbours, and **guessing** experiments he published in 1951 put the true figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means selling it back: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.",
+        "zh": "书面英语是**偏斜的**(lopsided)。把字母**逐个**(singly)来数，每个字母是4.14比特；可字母能从相邻字母**推得出来**(predictable)，香农1951年发表的**猜字**(guessing)实验把真实值压到0.6至1.3之间。这中间的落差就是**冗余**(redundancy)；**压缩**(shrinking)一个文件，就是把这份冗余卖回去：给**高频**(frequent)**字符**(characters)配**更短的**(shorter)**码字**(codewords)，其余的配长的。"
+      },
+      {
+        "en": "**Noise** inverts the argument. A channel **corrupts** symbols, so an **encoder** puts redundancy back **deliberately**, spacing codewords so a damaged one still **decodes** correctly. Every channel has a ceiling on **throughput**: below it, long codes drive the **error** rate **arbitrarily** near zero; above it, no **scheme** keeps **transmission** reliable.",
+        "zh": "**噪声**(Noise)把这套逻辑反了过来。信道会**弄坏**(corrupts)符号，于是**编码器**(encoder)**刻意**(deliberately)把冗余加回去，让码字彼此隔得够开，坏掉一个仍能正确**译回**(decodes)。每条信道都有一个**吞吐量**(throughput)上限：在上限之下，足够长的码能把**错误**(error)率压到**任意**(arbitrarily)接近零；在上限之上，没有任何**方案**(scheme)能让**传输**(transmission)可靠。"
+      },
+      {
+        "en": "The proof was not **constructive**. He showed good codes exist without **exhibiting** one. Richard Hamming, down the **corridor** on **unreliable** **vacuum**-tube machines, built one in 1950 from **parity** checks that **correct** as well as detect. At the **destination**, meaning may matter again. That **restraint** is what made the theory general: a channel need not understand a message to carry it **intact**.",
+        "zh": "这个证明不是**构造性的**(constructive)。他证明了好码存在，却没**拿出**(exhibiting)一个。理查德·汉明就在同一条**走廊**(corridor)上，对着**不可靠的**(unreliable)**真空**(vacuum)管机器，1950年用**奇偶**(parity)校验造出了一个——不只查错，还能**纠**(correct)错。到了**终点**(destination)，含义可以重新变得要紧。正是那份**克制**(restraint)让这套理论具有普遍性：一条信道不必读懂一条消息，也能把它**完好**(intact)送到。"
+      }
+    ],
+    "glossary": [
+      {
+        "w": "message",
+        "zh": "消息；信息",
+        "p": 1
+      },
+      {
+        "w": "quotation",
+        "zh": "报价；引文",
+        "p": 1
+      },
+      {
+        "w": "arbitrary",
+        "zh": "任意的",
+        "p": 1
+      },
+      {
+        "w": "glyph",
+        "zh": "符号；字形",
+        "p": 1
+      },
+      {
+        "w": "contents",
+        "zh": "内容",
+        "p": 1
+      },
+      {
+        "w": "irrelevant",
+        "zh": "无关紧要的",
+        "p": 1
+      },
+      {
+        "w": "receiver",
+        "zh": "接收端；接收器",
+        "p": 1
+      },
+      {
+        "w": "retrieve",
+        "zh": "取回；检索",
+        "p": 1
+      },
+      {
+        "w": "sender",
+        "zh": "发送端",
+        "p": 1
+      },
+      {
+        "w": "pick",
+        "zh": "挑中；选择",
+        "p": 1
+      },
+      {
+        "w": "countable",
+        "zh": "可数的",
+        "p": 2
+      },
+      {
+        "w": "outcome",
+        "zh": "结果",
+        "p": 2
+      },
+      {
+        "w": "equally",
+        "zh": "同等地",
+        "p": 2
+      },
+      {
+        "w": "probable",
+        "zh": "可能的；或然的",
+        "p": 2
+      },
+      {
+        "w": "bit",
+        "zh": "比特；位",
+        "p": 2
+      },
+      {
+        "w": "surprising",
+        "zh": "出人意料的",
+        "p": 2
+      },
+      {
+        "w": "probability",
+        "zh": "概率",
+        "p": 2
+      },
+      {
+        "w": "entropy",
+        "zh": "熵",
+        "p": 2
+      },
+      {
+        "w": "contraction",
+        "zh": "缩写；收缩",
+        "p": 2
+      },
+      {
+        "w": "binary",
+        "zh": "二进制的",
+        "p": 2
+      },
+      {
+        "w": "lopsided",
+        "zh": "偏斜的；不均衡的",
+        "p": 3
+      },
+      {
+        "w": "singly",
+        "zh": "逐个地；单独地",
+        "p": 3
+      },
+      {
+        "w": "predictable",
+        "zh": "可推知的",
+        "p": 3
+      },
+      {
+        "w": "guessing",
+        "zh": "猜测",
+        "p": 3
+      },
+      {
+        "w": "redundancy",
+        "zh": "冗余",
+        "p": 3
+      },
+      {
+        "w": "shrink",
+        "zh": "压缩；缩小",
+        "p": 3
+      },
+      {
+        "w": "shorter",
+        "zh": "更短的",
+        "p": 3
+      },
+      {
+        "w": "codeword",
+        "zh": "码字",
+        "p": 3
+      },
+      {
+        "w": "frequent",
+        "zh": "高频的",
+        "p": 3
+      },
+      {
+        "w": "character",
+        "zh": "字符；性格",
+        "p": 3
+      },
+      {
+        "w": "noise",
+        "zh": "噪声",
+        "p": 4
+      },
+      {
+        "w": "corrupt",
+        "zh": "弄坏；使腐化",
+        "p": 4
+      },
+      {
+        "w": "encoder",
+        "zh": "编码器",
+        "p": 4
+      },
+      {
+        "w": "deliberately",
+        "zh": "刻意地",
+        "p": 4
+      },
+      {
+        "w": "decode",
+        "zh": "译回；解码",
+        "p": 4
+      },
+      {
+        "w": "throughput",
+        "zh": "吞吐量",
+        "p": 4
+      },
+      {
+        "w": "error",
+        "zh": "错误",
+        "p": 4
+      },
+      {
+        "w": "arbitrarily",
+        "zh": "任意地",
+        "p": 4
+      },
+      {
+        "w": "scheme",
+        "zh": "方案",
+        "p": 4
+      },
+      {
+        "w": "transmission",
+        "zh": "传输",
+        "p": 4
+      },
+      {
+        "w": "constructive",
+        "zh": "构造性的；建设性的",
+        "p": 5
+      },
+      {
+        "w": "exhibit",
+        "zh": "拿出；展示",
+        "p": 5
+      },
+      {
+        "w": "corridor",
+        "zh": "走廊",
+        "p": 5
+      },
+      {
+        "w": "unreliable",
+        "zh": "不可靠的",
+        "p": 5
+      },
+      {
+        "w": "vacuum",
+        "zh": "真空",
+        "p": 5
+      },
+      {
+        "w": "parity",
+        "zh": "奇偶校验；同等",
+        "p": 5
+      },
+      {
+        "w": "correct",
+        "zh": "纠正",
+        "p": 5
+      },
+      {
+        "w": "destination",
+        "zh": "终点；目的地",
+        "p": 5
+      },
+      {
+        "w": "restraint",
+        "zh": "克制",
+        "p": 5
+      },
+      {
+        "w": "intact",
+        "zh": "完好的",
+        "p": 5
+      }
+    ],
+    "facts": [
+      "香农《A Mathematical Theory of Communication》分两期刊于《Bell System Technical Journal》第27卷，1948年7月（pp.379–423）与10月（pp.623–656）。论文开篇即写明：消息常常带有含义，但这与工程问题无关；工程问题是在一点精确或近似地再现在另一点选定的消息。[Shannon 1948 原文](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)",
+      "以2为底时单位称为二进制数字（binary digits），简称 bit，该词由 J. W. Tukey 建议。八个等概率结果需3个比特，因 log₂8 = 3。[Shannon 1948 原文](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)",
+      "香农1951年《Prediction and Entropy of Printed English》（BSTJ 30:1, pp.50–64）中，仅按单字母频率计算得 F₁ = 4.14 比特/字母；而通过让受试者逐字母猜测的实验，他把英文的真实熵估计在 0.6—1.3 比特/字母之间。二者之差即冗余。[Shannon 1951 原文](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)｜[熵估计区间](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/5960385)",
+      "信源编码利用统计不均匀性压缩；信道编码则反向操作，刻意加入冗余以纠错。香农证明每条信道存在容量：低于容量时，足够长的码可使错误概率任意小；高于容量时，任何方案都无法保证可靠传输。",
+      "**香农的证明是非构造性的**：他证明了好码存在，却未给出构造方法，这被视为留给编码理论界的挑战。理查德·汉明当时在同一实验室研究以真空管搭建的、极不可靠的计算机，于1950年在《BSTJ》29卷2期 pp.147–160 发表纠错码，用奇偶校验实现检错与纠错，成为编码理论的奠基石。[CIO：60 years of Hamming codes](https://www.cio.com/article/205691/cio-blast-from-the-past-60-years-of-hamming-codes.html)｜[Hamming 1950 著录](https://arxiv.org/pdf/1211.2853)",
+      "正文写“到了终点，含义可以重新变得要紧”，对应香农原文将通信系统划分为信源、发射机、信道、接收机与终点（destination）；理论只保证消息在信道上被完好复现，不评判消息的用途。[Shannon 1948 原文](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)"
+    ]
+  }
   ]
 };

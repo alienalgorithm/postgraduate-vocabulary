@@ -22,6 +22,9 @@ from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOLD = re.compile(r"\*\*(.+?)\*\*")
+# 拼写出来的数词同样是数字（eight outcomes / three bits），否则 STR-02 误报
+SPELLED = r"\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|half|twice|dozen)\b"
+HAS_NUM = re.compile(r"\d|" + SPELLED, re.I)
 ZH_PAIR = re.compile(r"\*\*(.+?)\*\*\(([A-Za-z][A-Za-z'’\-]*)\)")
 SENT = re.compile(r"(?<=[.!?])\s+")
 
@@ -242,7 +245,7 @@ def inspect(a, archive):
     for i, p in enumerate(paras, 1):
         if i == len(paras):
             continue                      # 末段是升华段，不强求数字
-        if not re.search(r"\d", p["en"]):
+        if not HAS_NUM.search(p["en"]):
             F.append(Finding("STR-02", "骨架", "check", f"§{i} 无任何数字",
                 "写作规范 §3.2：给数字，不给形容词"))
 

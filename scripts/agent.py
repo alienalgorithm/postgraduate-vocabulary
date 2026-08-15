@@ -25,6 +25,9 @@ from collections import Counter, defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 BOLD = re.compile(r"\*\*(.+?)\*\*")
+# 拼写出来的数词同样是数字（eight outcomes / three bits），否则 STR-02 误报
+SPELLED = r"\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|half|twice|dozen)\b"
+HAS_NUM = re.compile(r"\d|" + SPELLED, re.I)
 BAR = "─" * 68
 
 try:
@@ -63,8 +66,17 @@ def stem(w):
             return w[: -len(suf)]
     return w
 
+def kin(a, b):
+    """同族判定：词干相同，或共享 ≥5 字符前缀且长度差 ≤3。
+    补救词干器的盲区（occurrence vs occurrences → occurrenc，两者不等）。"""
+    a, b = norm(a), norm(b)
+    if a == b or stem(a) == stem(b):
+        return True
+    n = min(len(a), len(b))
+    return n >= 5 and a[:n] == b[:n] and abs(len(a) - len(b)) <= 3
+
 def used_index(arts, exclude=None):
-    """词元 / 加粗表面形式 / 词干 三条通道，防止 return→returns 这类同根撞车。"""
+    """词元 / 加粗表面形式 / 词干 / 同族前缀 四条通道，防止同根撞车。"""
     exact, stems, owner = set(), set(), defaultdict(set)
     for a in arts:
         if exclude and a["id"] == exclude:
@@ -103,8 +115,10 @@ def brief(arts, notes_path, exclude=None, top=120):
             continue
         z = round(zipf_frequency(w, "en"), 2)
         n, s = norm(w), stem(w)
-        if n in exact or s in stems:
-            rows.append(("冲突", w, z, c, "、".join(sorted(owner.get(n) or owner.get(s) or []))))
+        akin = [k for k in exact if kin(w, k)]
+        if n in exact or s in stems or akin:
+            src = owner.get(n) or owner.get(s) or (owner.get(akin[0]) if akin else set())
+            rows.append(("冲突", w, z, c, "、".join(sorted(src))))
         elif w in proper:
             continue
         elif z >= ZIPF_CHEAP:
@@ -219,8 +233,10 @@ def review(arts, path, exclude=None):
     clash = []
     for w in allk:
         n, s = norm(w), stem(w)
-        if n in exact or s in stems:
-            clash.append((w, "、".join(sorted(owner.get(n) or owner.get(s) or []))))
+        akin = [k for k in exact if kin(w, k)]
+        if n in exact or s in stems or akin:
+            src = owner.get(n) or owner.get(s) or (owner.get(akin[0]) if akin else set())
+            clash.append((w, "、".join(sorted(src))))
     if clash:
         blocking.append("与其他篇冲突（含同根）：" + "；".join(f"{w}→第{o}篇" for w, o in clash))
     cheap = [(w, round(zipf_frequency(norm(w), "en"), 2)) for w in allk
@@ -247,7 +263,7 @@ def review(arts, path, exclude=None):
                      " ".join(ps[1:-1]) if len(ps) > 2 else body, re.I):
         judge.append("中段没有任何转折词。确认这是在论证而不是在编年——无反转的叙述读完不会有豁然开朗感。")
     for i, p in enumerate(ps[:-1], 1):
-        if not re.search(r"\d", p):
+        if not HAS_NUM.search(p):
             judge.append(f"§{i} 没有任何数字。写作规范 §3.2：给数字，不给形容词。")
 
     print(BAR); print(f"修改指令 · {os.path.basename(path)}"); print(BAR)
