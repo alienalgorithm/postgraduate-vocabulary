@@ -2,14 +2,14 @@
 
 > 题材：1977 年加拉帕戈斯热液喷口
 > 状态：**第二篇最终精进锁定稿**（2026-08-15）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 一支没有生物学家的地质考察队，去两千五百米深处找热水，却撞见一个不靠阳光活着的世界——以及一种放弃了进食、把自己变成宿主的动物。
 
 ---
 
 ## 英文正文
 
-In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water **seeping** from young **basalt**. No **biologist** went along; nobody thought one was needed. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.
+In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water **seeping** from young **basalt**. No **biologist** went along; nobody thought one necessary. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.
 
 ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of white clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** from sunlit water. Instead 8°C water **shimmered** from **fissures**, and clams 30 centimetres long **crowded** 50 metres of lava.
 

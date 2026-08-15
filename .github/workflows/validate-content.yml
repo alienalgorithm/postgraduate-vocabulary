@@ -27,6 +27,11 @@ jobs:
           grep -q "20 篇已生成 · 1000 个重点词 · 全部通过" /tmp/build-report.txt
           git diff --exit-code -- articles
 
+      - name: Word Inspector v4 quality report
+        run: |
+          pip install wordfreq --quiet || true
+          python3 scripts/inspector.py | tail -30
+
       - name: Enforce the latest final version of every article
         shell: bash
         run: |

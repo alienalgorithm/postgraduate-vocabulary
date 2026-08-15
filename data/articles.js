@@ -319,13 +319,13 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第二篇最终精进锁定稿",
     "metrics": {
-      "words": 271,
+      "words": 270,
       "keywords": 50,
       "density": 18.5
     },
     "paras": [
       {
-        "en": "In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water **seeping** from young **basalt**. No **biologist** went along; nobody thought one was needed. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.",
+        "en": "In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water **seeping** from young **basalt**. No **biologist** went along; nobody thought one necessary. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.",
         "zh": "1977年2月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫ANGUS的相机**拖橇**(sled)贴着海底走，要找的是从年轻**玄武岩**(basalt)里**渗出**(seeping)的热水。船上没有**生物学家**(biologist)同行；没人觉得需要。15日深夜，在两千五百米深处，ANGUS**记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到2摄氏度。"
       },
       {

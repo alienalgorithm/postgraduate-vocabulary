@@ -16,7 +16,7 @@ const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
 
 const SOURCE_AUDIT = {
   '01': { source: '原始第1篇定稿；作者的第2—7篇最终包未包含第1篇，因此保持不变', verification: 'preserved-canonical' },
-  '02': { source: '2026-08-15对话中完成段落均衡、重点词价值置换、前提前移、共生逻辑桥补入与人物锚点的271词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '02': { source: '2026-08-15对话中完成段落均衡、重点词价值置换、前提前移、共生逻辑桥补入与人物锚点的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '03': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-body-confirmed' },
   '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: '260-word-final-package' },
   '05': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: 'final-package-body-confirmed' },
@@ -39,7 +39,7 @@ const SOURCE_AUDIT = {
 
 const VERSION_IDS = {
   '01': '01-original-final',
-  '02': '02-271-word-final-locked',
+  '02': '02-270-word-final-locked',
   '03': '03-refined-final',
   '04': '04-260-word-final',
   '05': '05-final-refined',
@@ -168,7 +168,8 @@ const SUPERSEDED_SIGNATURES = {
     'had been **assumed** a **desert** fed by **debris** from above',
     'a second **base**, a food **web** driven by the planet',
     'to anywhere chemistry holds a **gradient** open',
-    '270 词 / 50 重点词 / 密度 18.5%',
+    '259 词 / 50 重点词 / 密度 19.3%',
+    '271 词 / 50 重点词 / 密度 18.5%',
     'a **camera** system called ANGUS **registered** a **rise** in **temperature**',
     'The **photographs** told a different story.',
     'Many larger **species** **derive** nourishment from these microbes.',
@@ -176,7 +177,6 @@ const SUPERSEDED_SIGNATURES = {
     'an otherwise suitable environment need not be **defined** by sunlight',
     'a **usable** **flow** of energy',
     'came back with evidence that a community could **flourish** in permanent darkness',
-    '259 词 / 50 重点词 / 密度 19.3%',
     '第二篇全新重写稿',
   ],
 };
