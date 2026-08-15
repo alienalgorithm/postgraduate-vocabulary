@@ -1,23 +1,23 @@
 # 02 · A Garden Without Sunlight
 
 > 题材：1977 年加拉帕戈斯热液喷口
-> 状态：**第二篇全新重写稿**（2026-08-09）
-> 指标：259 词 / 50 重点词 / 密度 19.3%
-> 一场寻找海底热水的考察，如何发现了一个不依赖阳光的生命世界。
+> 状态：**第二篇最终精进锁定稿**（2026-08-15）
+> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 一支没有生物学家的地质考察队，去两千五百米深处找热水，却撞见一个不靠阳光活着的世界——以及一种放弃了进食、把自己变成宿主的动物。
 
 ---
 
 ## 英文正文
 
-Late on 15 February 1977, a **geological** **expedition** **aboard** the ship Knorr **sought** hot water **leaking** from the ocean **floor** at the Galápagos Rift, off Ecuador. No biologist was on the team. Some 2,500 metres **deep**, a **camera** system called ANGUS **registered** a **rise** in **temperature**. After three minutes, the reading **returned** to 2°C. The **photographs** told a different story.
+In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water **seeping** from young **basalt**. No **biologist** went along; nobody thought one was needed. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.
 
-ANGUS took 3,000 images; most showed **barren** lava. But 13 **successive** **frames** from that **interval** **revealed** hundreds of white clams and mussel **shells**. On 17 February, the submersible Alvin **descended** on dive 713. From lava **cracks** came **shimmering** 8°C water, about six degrees warmer than the **surrounding** bottom water. Clams up to 30 centimetres long **clustered** within a **roughly** 50-metre-wide area. The team found a **community**.
+ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of white clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** from sunlit water. Instead 8°C water **shimmered** from **fissures**, and clams 30 centimetres long **crowded** 50 metres of lava.
 
-Nobody knew what the animals ate. With little formaldehyde, the team used vodka to preserve **specimens**. A water **sample** smelled of rotten eggs: it **contained** hydrogen sulphide.
+Nobody aboard could say what the animals ate. Their **formaldehyde** ran out, so **specimens** went into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide**, **toxic** to nearly everything alive, **dissolved** in the very water **bathing** the **colony**. The **abundance** had no visible source.
 
-Later work showed some **microbes** oxidise hydrogen sulphide, using **chemical** energy to **convert** carbon dioxide into **organic** matter. Many larger **species** **derive** nourishment from these microbes. These **reactions** **support** a food **chain** based on chemosynthesis rather than **photosynthesis**.
+Later work found the source in **bacteria** that **oxidise** the sulphide and build **organic** matter from carbon dioxide: chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.
 
-The **discovery** **extended** the known **boundaries** of life. Most **ecosystems** ultimately depend on sunlight, but Galápagos showed that **primary** production need not. That **insight** broadened what counts as **habitable**: an otherwise suitable environment need not be **defined** by sunlight if chemistry provides a **usable** **flow** of energy. The expedition went down to trace Earth's heat and came back with evidence that a community could **flourish** in permanent darkness.
+Galápagos **revealed** a second **base** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **boundary** of the **habitable**: a place needs light, or **chemistry** that holds a **gradient** open. They went down for Earth's heat and came back with a garden that never needed the sun.
 
 ---
 
@@ -26,29 +26,29 @@ The **discovery** **extended** the known **boundaries** of life. Most **ecosyste
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1977年2月15日深夜，一支**地质**(geological)**考察队**(expedition)**乘坐**(aboard)“诺尔”号，在厄瓜多尔以西的加拉帕戈斯裂谷**寻找**(sought)从**海床**(floor)**渗出**(leaking)的热水。队伍里没有生物学家。在海下约2500米**深处**(deep)，一套名为ANGUS的**摄影设备**(camera)**记录到**(registered)一次**温度**(temperature)**上升**(rise)。三分钟后，读数**回落**(returned)到2摄氏度。但**照片**(photographs)讲述了另一个故事。
+1977年2月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫ANGUS的相机**拖橇**(sled)贴着海底走，要找的是从年轻**玄武岩**(basalt)里**渗出**(seeping)的热水。船上没有**生物学家**(biologist)同行；没人觉得需要。15日深夜，在两千五百米深处，ANGUS**记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到2摄氏度。
 
-ANGUS拍了3000张图像，大多只有**荒芜的**(barren)熔岩。但在那段升温**时段**(interval)拍下的13幅**连续**(successive)**画面**(frames)，却**呈现出**(revealed)数百只白色蛤蜊和贻贝**贝壳**(shells)。2月17日，深潜器“阿尔文”号在第713次潜航中**下潜**(descended)。熔岩**裂缝**(cracks)里涌出8摄氏度、**微微闪烁的**(shimmering)水流，比**周围**(surrounding)的底层海水高约6摄氏度。最长可达30厘米的蛤蜊**聚集**(clustered)在一片**大约**(roughly)50米宽的区域。考察队找到的是一个**生物群落**(community)。
+ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有十三**连**(successive)幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**微微晃动**(shimmered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。
 
-没人知道这些动物吃什么。由于甲醛不多，队员只好用伏特加保存一部分**标本**(specimens)。一份**水样**(sample)散发着臭鸡蛋味，其中**含有**(contained)硫化氢。
+船上没人说得出这些动物吃什么。**甲醛**(formaldehyde)用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶**(dissolved)在**浸润**(bathing)着这个**群落**(colony)的水里。这份**繁盛**(abundance)找不到来源。
 
-后来的研究表明，一些**微生物**(microbes)会氧化硫化氢，利用释放出的**化学能**(chemical)，把二氧化碳**转化**(convert)成**有机物**(organic)。许多体型较大的**物种**(species)则从这些微生物中**获得**(derive)养分。这些**反应**(reactions)**维系着**(support)一条以化能合成而非**光合作用**(photosynthesis)为基础的食物**链**(chain)。
+后来的研究把来源找到了：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。
 
-这次**发现**(discovery)**拓展了**(extended)人们已知的生命**边界**(boundaries)。大多数**生态系统**(ecosystems)归根结底依赖阳光，但加拉帕戈斯裂谷表明，**初级**(primary)生产未必需要阳光。这一**认识**(insight)拓宽了“**宜居**(habitable)”的范围：只要其他条件合适，一个环境是否适合生命生存，便不必由阳光来**界定**(defined)；化学过程也可以提供一股**可利用的**(usable)能量**流**(flow)。这支考察队下潜，是为了追踪地球的热量；带回的证据却表明，一个生物群落也能在终年不见光的地方**繁盛**(flourish)。
+加拉帕戈斯**揭示**(revealed)了生命的第二个**基座**(base)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了“**宜居**(habitable)”的**边界**(boundary)：一个地方要么有光，要么有能撑开一道**梯度**(gradient)的**化学过程**(chemistry)。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。
 
 ---
 
 ## 50 词速查表
 
-**§1**（13词）geological 地质的｜expedition 考察、考察队｜aboard 在船上｜seek 寻找｜leak 渗出｜floor 海床、底部｜deep 深处、深的｜camera 摄影设备｜register 记录到｜rise 上升｜temperature 温度｜return 回落、返回｜photograph 照片
+**§1**（10词）geological 地质的｜expedition 考察队；远征｜aboard 乘（船/机）；在船上｜tow 拖曳｜sled 拖橇；雪橇｜seep 渗出｜basalt 玄武岩｜biologist 生物学家｜register 记录到；登记｜spike 骤升；尖峰
 
-**§2**（13词）barren 荒芜的｜successive 连续的｜frame 画面、帧｜interval 时段、间隔｜reveal 呈现出｜shell 贝壳｜descend 下潜｜crack 裂缝｜shimmer 闪烁｜surrounding 周围的｜cluster 聚集｜roughly 大约｜community 生物群落
+**§2**（10词）frame 帧；画面｜barren 荒芜的；贫瘠的｜successive 连续的｜submersible 深潜器；可潜的｜expect 预期｜sparse 稀疏的｜debris 碎屑；残骸｜shimmer 微微晃动；闪烁｜fissure 裂隙｜crowd 挤满；人群
 
-**§3**（3词）specimen 标本｜sample 样本、水样｜contain 含有
+**§3**（10词）formaldehyde 甲醛｜specimen 标本｜vial 小瓶｜vent 喷口；出口｜sulphide 硫化物｜toxic 有毒的｜dissolve 溶解｜bathe 浸润；沐浴｜colony 群落；殖民地｜abundance 繁盛；丰富
 
-**§4**（10词）microbe 微生物｜chemical 化学的｜convert 转化｜organic 有机的｜species 物种｜derive 获得｜reaction 反应｜support 维系｜chain 链｜photosynthesis 光合作用
+**§4**（10词）bacteria 细菌｜oxidise 氧化｜organic 有机的｜photosynthesis 光合作用｜graze 啃食；放牧｜worm 虫｜gut 肠道｜house 容纳；安置｜microbe 微生物｜host 宿主；主人
 
-**§5**（11词）discovery 发现｜extend 拓展｜boundary 边界｜ecosystem 生态系统｜primary 初级的｜insight 认识、洞见｜habitable 宜居的｜define 界定｜usable 可利用的｜flow 流｜flourish 繁盛
+**§5**（10词）reveal 揭示｜base 基座；基础｜web 网｜sustain 支撑；维持｜planet 行星｜widen 拓宽｜boundary 边界｜habitable 宜居的｜chemistry 化学过程；化学｜gradient 梯度；坡度
 
 ---
 
@@ -56,8 +56,9 @@ ANGUS拍了3000张图像，大多只有**荒芜的**(barren)熔岩。但在那�
 
 以下关键信息已据所列来源核对：
 
-- 1977年2月15日深夜，深拖摄影系统ANGUS在约2500米深处记录到持续约三分钟的温度异常；水温随后回到约2摄氏度。
-- ANGUS共拍摄3000张照片；升温时段附近的13幅连续画面中，原本荒芜的熔岩海床突然出现大量白色蛤蜊和贻贝壳。
-- 2月17日，“阿尔文”号第713次下潜发现8摄氏度的温暖水流；最长约30厘米的蛤蜊聚集在约50米宽的区域。
-- 船上没有生物学家，额外标本曾用烈性伏特加保存；喷口水样中的硫化氢成为后来解释化能合成食物链的重要线索。
-- 依据：[WHOI：1977年热液喷口发现记录](https://www.whoi.edu/feature/history-hydrothermal-vents/discovery/1977.html)｜[WHOI：热液喷口如何改变人类对生命的认识](https://www.whoi.edu/feature/history-hydrothermal-vents/impacts/view.html)｜[NOAA：光合作用与化能合成](https://oceanexplorer.noaa.gov/ocean-fact/photochemo/)｜[USGS：1979年原始研究记录](https://www.usgs.gov/publications/submarine-thermal-springs-galapagos-rift)
+- 1977年2月，“诺尔”号在厄瓜多尔以西约640公里的加拉帕戈斯裂谷拖曳深拖摄影系统ANGUS，任务是地质与地球化学，船上没有深海生物学家。2月15日深夜，ANGUS在约2500米深处记录到持续约三分钟的温度异常，随后读数回到约2摄氏度。[WHOI：热液喷口的发现](https://www.whoi.edu/oceanus/feature/the-discovery-of-hydrothermal-vents/)｜[Earth Magazine：1977年2月17日](https://www.earthmagazine.org/article/benchmarks-february-17-1977-hydrothermal-vents-are-discovered)
+- ANGUS共拍摄约3000张照片。巴拉德记载：温度异常前一瞬的照片只有荒芜的新鲜熔岩，而对应异常时段的十三幅连续画面上，熔岩被数百只白色蛤蜊和褐色贻贝壳覆盖。正文的“十三连幅”与“那三分钟”即据此。[Earth Magazine：1977年2月17日](https://www.earthmagazine.org/article/benchmarks-february-17-1977-hydrothermal-vents-are-discovered)
+- 2月17日“阿尔文”号第713潜：驾驶员杰克·唐纳利，观察者为俄勒冈州立大学的杰克·科利斯与斯坦福大学的特尔德·范安德尔，二人通过无线电向水面船实时描述所见。喷口处涌出约8摄氏度的微晃水流，与约2摄氏度的底层水形成对比；白蛤长达约30厘米，聚集范围约50米宽。[Grokipedia：Riftia](https://grokipedia.com/page/Riftia)｜[WHOI：发现之路](https://divediscover.whoi.edu/archives/ventcd/vent_discovery/thediscovery/trail_77_page5.html)
+- 甲醛耗尽后，队员改用烈性伏特加保存部分标本；船上打开喷口水样时的臭鸡蛋气味，指向硫化氢——它对绝大多数动物有毒，却是化能合成微生物的能量来源。这是解开“它们吃什么”的决定性线索。[ScienceBlog：无阳光生态系统](https://scienceblog.com/t-deep-sea-dive-hydrothermal-vents-ecosystem-without-sunlight/)
+- 化能合成微生物氧化硫化氢获取能量，并像光合生物一样把二氧化碳固定为有机物。巨型管虫Riftia pachyptila于1977年加拉帕戈斯考察中被发现，成年个体没有嘴、没有消化道与可用的肠，体内以专门器官（营养体）供养共生的化能自养细菌，完全依靠其产物生活——共生机制系1981年前后由后续研究确立，故正文写“后来的研究”。[Grokipedia：Riftia](https://grokipedia.com/page/Riftia)｜[NOAA：光合作用与化能合成](https://oceanexplorer.noaa.gov/ocean-fact/photochemo/)
+- 在1977年之前，深海海床被视为食物匮乏的“荒漠”，稀疏的动物依靠自上层透光带缓慢沉降的有机碎屑为生；加拉帕戈斯的发现确立了不依赖阳光的第二类食物网基础，并改变了“宜居”的判据。此次考察的一处喷口场即被命名为“伊甸园”(Garden of Eden)。[Springer：热液喷口生物学导论](https://link.springer.com/chapter/10.1007/978-1-4899-0402-7_27)｜[Grokipedia：Riftia](https://grokipedia.com/page/Riftia)

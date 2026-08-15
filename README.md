@@ -13,7 +13,7 @@
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
 | 01 | *Snow and the Broad Street Pump* | 1854年伦敦霍乱 | 252词 · 50词 · 19.8% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=snow-cholera) · [Markdown](articles/01-snow-cholera.md) |
-| 02 | *A Garden Without Sunlight* | 1977年加拉帕戈斯热液喷口 | 259词 · 50词 · 19.3% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-garden-without-sunlight) · [Markdown](articles/02-a-garden-without-sunlight.md) |
+| 02 | *A Garden Without Sunlight* | 1977年加拉帕戈斯热液喷口 | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-garden-without-sunlight) · [Markdown](articles/02-a-garden-without-sunlight.md) |
 | 03 | *The Graph That Changed the Sky* | 1985年南极臭氧洞 | 255词 · 50词 · 19.6% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-graph-that-changed-the-sky) · [Markdown](articles/03-the-graph-that-changed-the-sky.md) |
 | 04 | *Fifteen Degrees an Hour* | 约翰·哈里森与海上经度 | 260词 · 50词 · 19.2% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=fifteen-degrees-an-hour) · [Markdown](articles/04-fifteen-degrees-an-hour.md) |
 | 05 | *The Price Was Elsewhere* | UPC条形码与零售信息基础设施 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-price-was-elsewhere) · [Markdown](articles/05-the-price-was-elsewhere.md) |
