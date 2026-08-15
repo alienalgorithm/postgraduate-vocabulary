@@ -2,7 +2,7 @@
 
 > 题材：1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易
 > 状态：**第二十篇最终精进锁定稿**（2026-08-13）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 1990年，美国没有让市场决定可以污染多少；法律先锁定二氧化硫总量上限，连续监测逐吨记账，交易只决定减排在哪里发生。
 
 ---
@@ -13,11 +13,11 @@ In 1990, US **legislation** targeted acid-rain pollution from power-plant **smok
 
 The law translated this **budget** into tradable **allowances**, each **authorising** one ton. A plant could fit a **scrubber**, switch fuel, **procure** allowances or sell **surplus** allowances; unused ones could be **banked**. This **flexibility** let firms choose among **alternatives**, but not enlarge the national **quota**: every emitted ton still consumed an allowance.
 
-This market worked only because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; each allowance carried a **serial** number in a public **registry**. At year’s end, plants had to **surrender** allowances matching actual emissions. A **shortfall** triggered an automatic **penalty**, and the **overrun** had to be **offset** with future allowances. Allowances could not **override** health-based air-quality limits.
+The market worked because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; every allowance carried a **serial** number in a public **registry**. At year's end plants **surrendered** allowances matching emissions. A **shortfall** owed a **penalty** of $2,000 a ton without demand; the **overrun** was **deducted** later. No allowance could **override** health limits.
 
-Phase I began in 1995. Some plants were **retrofitted** with scrubbers; others switched to low-sulphur coal. Cuts arrived **ahead** of schedule; compliance **expense** was below early **forecasts**. By 2008, emissions were below the 2010 cap. But trading was not the sole **contributor**: **competition** among rail **carriers** lowered **haulage** costs, while engineering **improvements** and later regulations also **accelerated** reductions.
+Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, others burning low-sulphur coal. Cuts came **sooner** than scheduled at an **expense** nobody had **forecast**: industry had said $1,000 a ton; allowances traded near $150. Trading was not the sole **contributor**: rail **competition** cut **haulage** costs for **carriers**, and later **statutes** **accelerated** the fall.
 
-The **institutional** lesson lies in the sequence. **Lawmakers** fixed the **statutory** emissions cap before trading began. Trading **disclosed** which sources faced lower **marginal** abatement costs. Success rested on a **bounded** allowance supply, **credible** measurement, flexible exchange and unavoidable **reconciliation**. A market can **reallocate** **permission**—but it cannot set the atmosphere’s budget.
+The **institutional** lesson is sequence. **Lawmakers** fixed the **statutory** cap first; trading then **disclosed** which sources had lower **marginal** costs. Dan Dudek, an architect of the scheme, insisted on that order. Success rested on **bounded** supply, **credible** measurement and unavoidable **reconciliation**. The EU copied it in 2005. A market can **reallocate** **permission**; it cannot set the atmosphere's budget.
 
 ---
 
@@ -30,25 +30,25 @@ The **institutional** lesson lies in the sequence. **Lawmakers** fixed the **sta
 
 法律把这份排放**预算**(budget)转化为可交易的**排放额度**(allowances)，每一份都**允许**(authorising)持有者排放一吨二氧化硫。电厂可以安装**洗涤器**(scrubber)、更换燃料、**购入**(procure)额度，或出售**多余的**(surplus)额度；暂时不用的额度还可以**结转**(banked)到以后年度。这种**灵活性**(flexibility)让企业在不同**方案**(alternatives)之间选择，却不能扩大全国总**配额**(quota)：每排放一吨，仍须消耗一份额度。
 
-这套市场之所以能够运转，是因为排放**核算**(accounting)毫不含糊。烟囱上的**传感器**(sensors)连续测量排放；每份额度都有一个**序列号**(serial)，并记入公开**登记系统**(registry)。每年结束时，电厂必须**交回**(surrender)与实际排放量相等的额度。额度**不足**(shortfall)会自动触发**处罚**(penalty)，超出的**排放量**(overrun)还必须用未来年度的额度加以**抵消**(offset)。排放额度也不能**凌驾于**(override)以保护公众健康为目的的空气质量限值之上。
+这个市场之所以成立，全在于**核算**(accounting)不留余地。烟囱**传感器**(sensors)连续测量排放；每份配额在公开**登记簿**(registry)上都有**编号**(serial)。年终，电厂**上缴**(surrendered)与实际排放相当的配额。出现**缺口**(shortfall)即无需催缴地欠下每吨2000美元**罚金**(penalty)；**超排**(overrun)量还要从往后的年份里**扣除**(deducted)。任何配额都不能**凌驾**(override)于基于健康的空气限值之上。
 
-第一阶段于1995年启动。一些电厂**加装了**(retrofitted)洗涤器；另一些则改用低硫煤。减排进度**早于**(ahead)计划，合规**成本**(expense)也低于早期**预测**(forecasts)。到2008年，排放量已经低于2010年上限。但交易并不是唯一的**促成因素**(contributor)：铁路**承运商**(carriers)之间的**竞争**(competition)降低了**运输成本**(haulage)，工程技术**改进**(improvements)和后续法规也进一步**加快了**(accelerated)减排。
+第一阶段1995年启动，覆盖263台机组。一些电厂**加装了**(retrofitted)洗涤器，另一些改烧低硫煤。减排**早**(sooner)于计划到来，**代价**(expense)也无人**预料**(forecast)：业界曾称每吨1000美元，配额成交价却在150美元上下。交易并非唯一的**促成因素**(contributor)——铁路**承运商**(carriers)之间的**竞争**(competition)压低了**运费**(haulage)，其后的**法令**(statutes)也**加快**(accelerated)了降幅。
 
-更深的**制度层面**(institutional)启示在于这一顺序：**立法者**(Lawmakers)在交易开始前先确定**法定的**(statutory)排放上限。交易**揭示了**(disclosed)哪些排放源面临更低的**边际**(marginal)减排成本。成功依赖**总量受限的**(bounded)额度供给、**可信的**(credible)测量、灵活交易和不可回避的年度**对账**(reconciliation)。市场可以**重新分配**(reallocate)排放**许可**(permission)，却不能替大气设定污染预算。
+**制度**(institutional)上的教训在于次序。**立法者**(Lawmakers)先把**法定**(statutory)上限定死，交易此后才**显露**(disclosed)出哪些排放源的**边际**(marginal)治理成本更低。方案设计者之一丹·杜德克坚持的正是这个次序。成功依赖于供给有**界**(bounded)、计量**可信**(credible)、清算**不可回避**(reconciliation)。欧盟2005年照搬了这套架构。市场能**重新分配**(reallocate)**许可**(permission)；它定不了大气的预算。
 
 ---
 
 ## 50 词速查表
 
-**§1**（10词）legislation 立法；法律｜smokestack 烟囱；大烟囱｜utility 公用事业企业；效用｜sulphur 硫｜dioxide 二氧化物；二氧化｜precursor 前体物；先驱｜deposition 沉降；沉积｜prescribe 规定；开处方｜standardise 使标准化；使规范化｜ceiling 上限；天花板
+**§1**（10词）legislation 立法；法律｜smokestack 烟囱；大烟囱｜utility 公用事业企业；效用｜sulphur 硫｜dioxide 二氧化物；二氧化｜precursor 前体物；先驱｜deposition 沉降；沉积｜prescribe 规定；开处方｜standardised standardised｜ceiling 上限；天花板
 
-**§2**（10词）budget 预算｜allowance 排放额度；津贴｜authorise 授权；允许｜scrubber 洗涤器；刷洗工具｜procure 购入；取得｜surplus 多余的；盈余｜bank 结转；留存｜flexibility 灵活性｜alternative 替代方案；可供选择的｜quota 配额；限额
+**§2**（10词）budget 预算｜allowance 排放额度；津贴｜authorising authorising｜scrubber 洗涤器；刷洗工具｜procure 购入；取得｜surplus 多余的；盈余｜bank 结转；留存｜flexibility 灵活性｜alternative 替代方案；可供选择的｜quota 配额；限额
 
-**§3**（10词）accounting 核算；会计｜sensor 传感器；感测器｜serial 序列号的；连续的｜registry 登记系统；注册处｜surrender 交回；放弃｜shortfall 不足；缺口｜penalty 处罚；罚金｜overrun 超额量；超支｜offset 抵消；补偿｜override 凌驾于；推翻
+**§3**（10词）accounting 核算；会计｜sensor 传感器；感测器｜serial 序列号的；连续的｜registry 登记系统；注册处｜surrender 交回；放弃｜shortfall 不足；缺口｜penalty 处罚；罚金｜overrun 超排｜deduct 扣除｜override 凌驾于；推翻
 
-**§4**（10词）retrofit 加装；改造｜ahead 提前；在前面｜expense 成本；开支｜forecast 预测；预报｜contributor 促成因素；贡献者｜competition 竞争；比赛｜carrier 承运商；运输公司｜haulage 运输；运输费｜improvement 改进；改善｜accelerate 加快；加速
+**§4**（10词）retrofitted retrofitted｜soon 早；不久｜expense 代价；开支｜forecast 预料；预测｜contributor 促成因素；贡献者｜competition 竞争；比赛｜carrier 承运商；运输公司｜haulage 运输；运输费｜statutes statutes｜accelerated accelerated
 
-**§5**（10词）institutional 制度层面的；机构的｜lawmaker 立法者｜statutory 法定的；法律规定的｜disclose 揭示；披露｜marginal 边际的；临界的｜bounded 总量受限的；有边界的｜credible 可信的｜reconciliation 对账；核对｜reallocate 重新分配；重新配置｜permission 许可；准许
+**§5**（10词）institutional 制度层面的；机构的｜lawmaker 立法者｜statutory 法定的；法律规定的｜disclosed disclosed｜marginal 边际的；临界的｜bounded 总量受限的；有边界的｜credible 可信的｜reconciliation 对账；核对｜reallocate 重新分配；重新配置｜permission 许可；准许
 
 ---
 

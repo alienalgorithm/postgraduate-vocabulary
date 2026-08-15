@@ -31,7 +31,7 @@
 | 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
 | 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270词 · 50词 · 18.5% | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
 | **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |
-| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |
+| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |
 
 第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
 

@@ -34,7 +34,7 @@ const SOURCE_AUDIT = {
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
   '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '19': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '20': { source: '2026-08-13对话中完成边际减排成本术语与中英对应终审的269词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '20': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -57,7 +57,7 @@ const VERSION_IDS = {
   '17': '17-268-word-final-polish',
   '18': '18-270-word-final-max',
   '19': '19-269-word-final-locked',
-  '20': '20-269-word-maximum-final',
+  '20': '20-270-word-final-locked',
 };
 
 const SUPERSEDED_SIGNATURES = {
@@ -293,6 +293,12 @@ const SUPERSEDED_SIGNATURES = {
     '**Software** **robustness** means protecting **essential** work by deciding pre-launch',
     '270 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.5% (old-19)',
   ],
+  '20': [
+    'Cuts arrived **ahead** of schedule; compliance **expense** was below early **forecasts**.',
+    'A **shortfall** triggered an automatic **penalty**',
+    'Success rested on a **bounded** allowance supply, **credible** measurement, flexible exchange',
+    '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-20)',
+  ],
 };
 
 function loadArticles() {
@@ -458,7 +464,7 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269词 · 50词 · 18.6%** |')) {
     errors.push('README article 19 final row is stale');
   }
-  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **269词 · 50词 · 18.6%** |')) {
+  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 20 final row is stale');
   }
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
@@ -471,7 +477,7 @@ function validateManifest(articles, manifest) {
   if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269 / 50 / 18.6%** | **第十九篇最终精进锁定稿** |')) {
     errors.push('handoff article 19 final row is stale');
   }
-  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **269 / 50 / 18.6%** | **第二十篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **270 / 50 / 18.5%** | **第二十篇最终精进锁定稿** |')) {
     errors.push('handoff article 20 final row is stale');
   }
   return errors;
