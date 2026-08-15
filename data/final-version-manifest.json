@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "policy": "latest-final-only",
-  "audited_at": "2026-08-13",
-  "article_count": 20,
-  "keyword_count": 1000,
+  "audited_at": "2026-08-15",
+  "article_count": 21,
+  "keyword_count": 1050,
   "articles": [
     {
       "id": "01",
@@ -480,6 +480,42 @@
         "the sequence itself",
         "had lower **marginal** costs",
         "重新**分配**(reallocate)"
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "strong-enough-every-time",
+      "title": "Strong Enough Every Time",
+      "title_zh": "每一次都撑得住",
+      "version_id": "21-269-word-final-locked",
+      "status": "第二十一篇最终精进锁定稿",
+      "date": "2026-08-15",
+      "words": 269,
+      "keywords": 50,
+      "density": 18.6,
+      "source": "2026-08-15对话中形成并完成史实边界、冷作硬化机制与1050词全库复验的269词最终精进锁定稿",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "55976c8456267e628aaa7f55c948646f6ce913edd775c1d44169da3bb03ceb77",
+      "markdown_sha256": "a0574d9eed21aea937e468165c6ae08f24e5720d3fe88690ff237c43086b0455",
+      "markdown_git_blob_sha": "c786da2872119cd095dd8de2c2cf519ba8cce203",
+      "superseded_signatures": [
+        "Strong Enough for Every Flight",
+        "the first **jet** **aircraft** to carry paying passengers",
+        "above the weather that shook **propeller** machines",
+        "a **tougher** object than the fleet",
+        "Square windows were only a detail.",
+        "so a failure releases little force and leaves the **wreckage** readable",
+        "The Elba pieces showed **fatigue**",
+        "far past the 10,000 the design assumed",
+        "It then passed 16,000 **pressurisations**",
+        "**Production** aircraft never received it.",
+        "and that **treatment** **hardened** the **aluminium** corners",
+        "Britain **revoked** the **certificate** of **airworthiness**",
+        "317 词 / 50 重点词 / 密度 16.1%",
+        "274 词 / 50 重点词 / 密度 18.2%",
+        "270 词 / 50 重点词 / 密度 18.5%",
+        "267 词 / 50 重点词 / 密度 18.7%"
       ]
     }
   ]
