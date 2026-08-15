@@ -29,7 +29,7 @@ const SOURCE_AUDIT = {
   '12': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '13': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的266词最终精进锁定稿', verification: 'conversation-latest-final' },
   '14': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '15': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'bab945342134b4d45bb8d005569f11c9fb2a97fe' },
+  '15': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
   '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
@@ -52,7 +52,7 @@ const VERSION_IDS = {
   '12': '12-270-word-final-locked',
   '13': '13-266-word-final-locked',
   '14': '14-270-word-final-locked',
-  '15': '15-final-proofed',
+  '15': '15-270-word-final-locked',
   '16': '16-263-word-final-polish',
   '17': '17-268-word-final-polish',
   '18': '18-270-word-final-max',
@@ -277,6 +277,13 @@ const SUPERSEDED_SIGNATURES = {
     'they wintered in a stone **shelter** on an **island** in Franz Josef Land',
     'The expedition **achieved** its **chief** scientific aim.',
     '268 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.7%',
+  ],
+  '15': [
+    'a **worker** crossed the **roofs** of a moving freight train',
+    'Westinghouse made air braking practical without originating it',
+    'The 1869 straight-air trials **persuaded** **reluctant** **managers**',
+    'The capability, not Westinghouse\u2019s brand, became **compulsory**.',
+    'A train-pipe break actuated the valves; stored air applied the brakes.',
   ],
 };
 

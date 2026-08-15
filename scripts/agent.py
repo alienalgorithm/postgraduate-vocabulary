@@ -257,7 +257,12 @@ def review(arts, path, exclude=None):
                     if last[:1].isupper():
                         blocking.append(f"§{i} 专名内部加粗：{last} **{w}**。专名的一部分不是可学的词。")
     body = " ".join(p.replace("**", "") for p in ps)
-    if not re.findall(r"(?<![.!?]\s)\b[A-Z][a-z]+\s+(?:van\s+|de\s+|von\s+)?[A-Z][a-z]+\b", body):
+    LEAD = (r"(?:In|On|At|By|The|A|An|After|Before|During|When|While|From|For|To|With|It|He|She|They|"
+            r"This|That|Both|Each|Every|Later|Today|Now|Then|Its|His|Her|Their|Only|No|Not|Yet|But|And|Of)")
+    _names = [m for m in re.findall(
+        r"\b([A-Z][a-z]+\s+(?:van\s+|de\s+|von\s+|der\s+)?[A-Z][a-z]+)\b", body)
+        if not re.match(LEAD + r"\s", m)]
+    if not _names:
         structural.append("全篇没有人名。写作规范 §3.3：主语用人或具体物——把动作还给具体的人。")
     if not re.search(r"\b(instead|yet|but|however|rather than|nobody|no one)\b",
                      " ".join(ps[1:-1]) if len(ps) > 2 else body, re.I):
