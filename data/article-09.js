@@ -4,315 +4,302 @@
 (function (root) {
   'use strict';
   var article = {
-  "id": "09",
-  "slug": "zero-was-not-enough",
-  "title": "Zero Was Not Enough",
-  "titleZh": "归零还不够",
-  "standfirst": "天花的根除不只是让病例数归零；它要求人们找到每一条仍在延伸的传播链，并在病毒抵达下一位宿主前将它截断。",
-  "topic": "1967—1980 年全球天花根除、监测与环形接种",
-  "date": "2026-08-10",
-  "status": "第九篇最终精校稿",
-  "metrics": {
-    "words": 265,
-    "keywords": 50,
-    "density": 18.9
-  },
-  "paras": [
-    {
-      "en": "On 26 October 1977, Ali Maow Maalin, a Somali **hospital** **cook**, developed a **rash** two weeks after **accompanying** two children with smallpox. He was **diagnosed** with malaria, then chickenpox, but a **nurse** reported his illness. He was the **final** known **patient** to **acquire** smallpox through **natural** transmission.",
-      "zh": "1977年10月26日，索马里一家**医院**(hospital)的**厨师**(cook)阿里·毛·马林出现**皮疹**(rash)。两周前，他曾**陪同**(accompanying)两名天花患儿。他先后被**诊断为**(diagnosed)疟疾和水痘；但一名**护士**(nurse)上报了他的病情。后来事实证明，他是经**自然**(natural)传播**感染**(acquire)天花的**最后一名**(final)已知**患者**(patient)。"
+    "id": "09",
+    "slug": "zero-was-not-enough",
+    "title": "Zero Was Not Enough",
+    "titleZh": "归零还不够",
+    "standfirst": "环形接种不是设计出来的，是1966年疫苗不够时逼出来的。而零从来不能证明天花已消失——是搜寻把「没有」变成了证据。",
+    "topic": "1967—1980 年全球天花根除、监测与环形接种",
+    "date": "2026-08-15",
+    "status": "第九篇最终精进锁定稿",
+    "metrics": {
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5
     },
-    {
-      "en": "Smallpox was a **deadly** **disease**: its major form killed roughly three in ten of those infected; many surviving **victims** were left **blind** or permanently **scarred**. In 1967 WHO intensified an **ambitious** **global** **campaign** to **free** humanity from this ancient **threat**. National coverage figures could conceal missed villages and unreported cases.",
-      "zh": "天花是一种**致命的**(deadly)**疾病**(disease)：重型天花会夺去约三成患者的生命；许多**感染者**(victims)虽幸存下来，仍会**失明**(blind)或**留下永久疤痕**(scarred)。1967年，世界卫生组织加强了一场**雄心勃勃的**(ambitious)**全球**(global)**根除行动**(campaign)，要让全人类**摆脱**(free)这种古老的**威胁**(threat)。国家层面的接种覆盖率仍可能掩盖被遗漏的村庄和未上报的病例。"
-    },
-    {
-      "en": "The programme paired **mass** vaccination with another **strategy**: active **search**. A **report** of a **suspected** **case** triggered an **investigation**. Workers isolated patients, **traced** their **contacts**, then vaccinated those contacts and their close contacts, forming a **ring** around each case. Success meant finding every remaining chain, not merely raising coverage.",
-      "zh": "这项计划把**大规模**(mass)接种与另一种**策略**(strategy)结合起来：主动**搜寻**(search)病例。每一份关于**疑似**(suspected)**病例**(case)的**报告**(report)都会触发一次**调查**(investigation)。工作人员先隔离患者并**追踪**(traced)其**接触者**(contacts)，再为这些接触者及其密切接触者接种，在每个病例周围形成一个免疫**环**(ring)。成功不再只意味着提高覆盖率，还意味着找出每一条残存的传播链。"
-    },
-    {
-      "en": "Freeze-dried vaccine remained stable in **tropical** heat, easing **storage**. A bifurcated **needle**, a simple **tool**, held a **dose** between its prongs. Brief **instruction** let workers **pierce** the **skin** quickly, stretch **scarce** supplies and help recipients become **immune**. Smallpox lacked an animal reservoir and did not spread during incubation, making containment practical.",
-      "zh": "冻干疫苗在**热带**(tropical)高温中仍能保持稳定，降低了**储存**(storage)难度。双叉**针**(needle)是一件简单的**工具**(tool)，两叉之间可留住一**剂**(dose)疫苗。经过简短**指导**(instruction)，工作人员便能快速**刺破**(pierce)**皮肤**(skin)，节省本就**稀缺的**(scarce)疫苗，并帮助接种者**获得免疫力**(immune)。天花没有动物宿主，患者在潜伏期也不会传播病毒，这使围堵成为可行策略。"
-    },
-    {
-      "en": "The search **persisted**. A 1978 laboratory-associated outbreak caused two cases, one fatal. A commission certified eradication in 1979; the World Health Assembly **declared** it in 1980. No single **feat** secured the **triumph**; **vast** **effort** went into reporting cases and tracing those at **risk**. After two years without natural transmission, the goal was **attained**. Zero did not prove smallpox had **vanished**; searching turned absence into evidence people could **trust**.",
-      "zh": "搜寻工作仍**持续进行**(persisted)。1978年，一起与实验室有关的暴发造成两例病例，其中一人死亡。1979年，全球认证委员会确认天花已被根除；1980年，世界卫生大会正式**宣布**(declared)天花已经根除。任何一项孤立的**壮举**(feat)都无法换来这场**胜利**(triumph)；人们付出了**规模浩大的**(vast)**集体努力**(effort)，上报病例并追踪**有感染风险的人**(risk)。连续两年未再发现自然传播病例后，目标才算真正**实现**(attained)。病例归零并不能证明天花已经**消失**(vanished)；持续搜寻才让“没有病例”成为人们能够**信任**(trust)的证据。"
-    }
-  ],
-  "glossary": [
-    {
-      "w": "hospital",
-      "zh": "医院",
-      "p": 1
-    },
-    {
-      "w": "cook",
-      "zh": "厨师；烹饪",
-      "p": 1
-    },
-    {
-      "w": "rash",
-      "zh": "皮疹；轻率的",
-      "p": 1
-    },
-    {
-      "w": "accompany",
-      "zh": "陪同；伴随",
-      "p": 1
-    },
-    {
-      "w": "diagnose",
-      "zh": "诊断",
-      "p": 1
-    },
-    {
-      "w": "nurse",
-      "zh": "护士；护理",
-      "p": 1
-    },
-    {
-      "w": "final",
-      "zh": "最后的；最终的",
-      "p": 1
-    },
-    {
-      "w": "patient",
-      "zh": "患者；有耐心的",
-      "p": 1
-    },
-    {
-      "w": "acquire",
-      "zh": "获得；感染",
-      "p": 1
-    },
-    {
-      "w": "natural",
-      "zh": "自然的",
-      "p": 1
-    },
-    {
-      "w": "deadly",
-      "zh": "致命的",
-      "p": 2
-    },
-    {
-      "w": "disease",
-      "zh": "疾病",
-      "p": 2
-    },
-    {
-      "w": "victim",
-      "zh": "受害者；患病者",
-      "p": 2
-    },
-    {
-      "w": "blind",
-      "zh": "失明的；盲目的",
-      "p": 2
-    },
-    {
-      "w": "scar",
-      "zh": "疤痕；留下疤痕",
-      "p": 2
-    },
-    {
-      "w": "ambitious",
-      "zh": "雄心勃勃的",
-      "p": 2
-    },
-    {
-      "w": "global",
-      "zh": "全球的",
-      "p": 2
-    },
-    {
-      "w": "campaign",
-      "zh": "行动；运动",
-      "p": 2
-    },
-    {
-      "w": "free",
-      "zh": "使摆脱；自由的",
-      "p": 2
-    },
-    {
-      "w": "threat",
-      "zh": "威胁",
-      "p": 2
-    },
-    {
-      "w": "mass",
-      "zh": "大规模的；大量",
-      "p": 3
-    },
-    {
-      "w": "strategy",
-      "zh": "策略",
-      "p": 3
-    },
-    {
-      "w": "search",
-      "zh": "搜寻；搜索",
-      "p": 3
-    },
-    {
-      "w": "report",
-      "zh": "报告；上报",
-      "p": 3
-    },
-    {
-      "w": "suspect",
-      "zh": "疑似的；怀疑",
-      "p": 3
-    },
-    {
-      "w": "case",
-      "zh": "病例；情况",
-      "p": 3
-    },
-    {
-      "w": "investigate",
-      "zh": "调查",
-      "p": 3
-    },
-    {
-      "w": "trace",
-      "zh": "追踪；痕迹",
-      "p": 3
-    },
-    {
-      "w": "contact",
-      "zh": "接触者；接触",
-      "p": 3
-    },
-    {
-      "w": "ring",
-      "zh": "环；环形区域",
-      "p": 3
-    },
-    {
-      "w": "tropical",
-      "zh": "热带的",
-      "p": 4
-    },
-    {
-      "w": "storage",
-      "zh": "储存；存放",
-      "p": 4
-    },
-    {
-      "w": "needle",
-      "zh": "针",
-      "p": 4
-    },
-    {
-      "w": "tool",
-      "zh": "工具",
-      "p": 4
-    },
-    {
-      "w": "dose",
-      "zh": "剂量",
-      "p": 4
-    },
-    {
-      "w": "instruction",
-      "zh": "指导；说明",
-      "p": 4
-    },
-    {
-      "w": "pierce",
-      "zh": "刺破；穿透",
-      "p": 4
-    },
-    {
-      "w": "skin",
-      "zh": "皮肤",
-      "p": 4
-    },
-    {
-      "w": "scarce",
-      "zh": "稀缺的",
-      "p": 4
-    },
-    {
-      "w": "immune",
-      "zh": "免疫的",
-      "p": 4
-    },
-    {
-      "w": "persist",
-      "zh": "持续；坚持",
-      "p": 5
-    },
-    {
-      "w": "declare",
-      "zh": "宣布；声明",
-      "p": 5
-    },
-    {
-      "w": "feat",
-      "zh": "壮举；功绩",
-      "p": 5
-    },
-    {
-      "w": "triumph",
-      "zh": "胜利；成功",
-      "p": 5
-    },
-    {
-      "w": "vast",
-      "zh": "巨大的；广阔的",
-      "p": 5
-    },
-    {
-      "w": "effort",
-      "zh": "努力",
-      "p": 5
-    },
-    {
-      "w": "risk",
-      "zh": "风险；使面临风险",
-      "p": 5
-    },
-    {
-      "w": "attain",
-      "zh": "实现；达到",
-      "p": 5
-    },
-    {
-      "w": "vanish",
-      "zh": "消失",
-      "p": 5
-    },
-    {
-      "w": "trust",
-      "zh": "信任；相信",
-      "p": 5
-    }
-  ],
-  "facts": [
-    "阿里·毛·马林是索马里梅尔卡一家医院的厨师。1977年10月12日，他陪同两名天花患儿并与其接触约15分钟；10月22日发热，随后一度被诊断为疟疾和水痘，10月30日才确诊天花。一名医院护士上报其病情。正文以10月26日出现皮疹、后来成为最后一例自然传播病例为叙事锚点。",
-    "马林感染的是致死率较低的variola minor。正文已把约30%的病死率明确限定为重型天花（variola major），没有套到马林个人；WHO资料给出的variola minor病死率约1%。",
-    "全球根除计划最早于1959年启动；1966年世界卫生大会批准新战略并拨付专项资金，强化阶段于1967年1月开始。因此正文使用intensified，而没有误写成1967年才首次启动。强化战略同时包括受监测的大规模接种和监测—围堵，要求卫生机构每周报告，并由专门队伍迅速调查病例和暴发。",
-    "环形接种不是只给患者身边几个人打针：其核心是尽快发现并隔离病例、追踪接触者，为接触者及其密切接触者接种并监测，从而在传播链周围形成免疫环。正文也没有把环形接种写成根除成功的唯一原因。",
-    "20世纪50年代的生产改进使耐热冻干天花疫苗可在无冷藏条件下保存。20世纪60年代设计的双叉针能在两叉之间留住一小滴疫苗；其多刺接种法操作迅速，且只需当时其他方法约四分之一的疫苗，因而在根除行动中得到广泛使用。",
-    "天花在潜伏期没有传染性；患者从口腔或咽喉出现最初病灶时开始具有传染性。天花只能在人之间传播，科学家没有发现昆虫或动物传播天花的证据。这些生物学特征使病例发现与接触者追踪成为可行策略，但并不意味着所有病例都会立刻被识别。",
-    "马林是最后一例已知自然传播天花病例，并非历史上最后一名天花患者。1978年英国伯明翰发生一起与实验室有关的暴发，造成两例病例，其中珍妮特·帕克死亡；正文用这一事件守住“自然传播”与“全部病例”的边界。",
-    "最后一例自然传播病例出现后，防疫人员又主动搜寻了两年。来自19个国家的全球认证委员会于1979年12月确认天花已被根除。1980年5月8日，第33届世界卫生大会通过WHA33.3，正式宣布全世界人民已摆脱天花。结尾的“相信这个零”是基于持续监测与认证程序作出的概括，不是说首次零报告本身已经等于根除。",
-    "来源：[WHO：1967年强化计划、大规模接种与监测—围堵战略](https://www.who.int/news/item/17-05-2010-statue-commemorates-smallpox-eradication)",
-    "来源：[CDC：马林的接触、误诊、确诊与最后一例自然传播病例](https://www.cdc.gov/smallpox/about/history.html)",
-    "来源：[WHO：马林的15分钟接触、护士上报与周边接种](https://www.who.int/news-room/speeches/item/who-director-general-s-high-level-welcome-at-the-seventy-sixth-world-health-assembly---21-may-2023)",
-    "来源：[CDC：环形接种、接触者与接触者的密切接触者](https://www.cdc.gov/smallpox/php/bioterrorism-response-planning/public-health-response-activities.html)",
-    "来源：[WHO：冻干疫苗、根除史与疾病负担](https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination)",
-    "来源：[WHO：重型与轻型天花的病死率区别](https://www.who.int/publications/m/item/smallpox-clinical-diagnosis)",
-    "来源：[CDC：双叉针两叉之间留住疫苗与多刺接种法](https://www.cdc.gov/smallpox/hcp/vaccines/administration.html)",
-    "来源：[CDC：潜伏期与传染期](https://www.cdc.gov/smallpox/signs-symptoms/index.html)",
-    "来源：[CDC：天花只在人之间传播，没有动物宿主](https://www.cdc.gov/smallpox/causes/index.html)",
-    "来源：[WHO：1978年实验室病例、1979年认证与1980年正式宣布](https://www.who.int/news-room/events/detail/2020/05/08/default-calendar/commemorating-the-40th-anniversary-of-smallpox-eradication)",
-    "来源：[WHO：WHA33.3《全球天花根除宣言》](https://www.who.int/publications/i/item/WHA33-3)"
-  ]
-};
+    "paras": [
+      {
+        "en": "In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** a fortnight after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.",
+        "zh": "1977年10月，索马里梅尔卡一家**医务所**(infirmary)的**厨工**(cook)阿里·马奥·马阿林，在与两名天花**病人**(patients)同车两周后**发**(erupted)出**皮疹**(rash)。他先被**诊断**(diagnosed)为疟疾，又被当成水痘；最后是一名**护士**(nurse)**通报**(notified)了根除办公室。他是全世界最后一个以**寻常**(ordinary)方式**染上**(acquire)天花的人。"
+      },
+      {
+        "en": "The **disease** killed roughly three in ten it **struck**, and left many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.",
+        "zh": "这种**病**(disease)每**击中**(struck)十人约杀死三人，许多**幸存者**(survivors)落下失明或严重的**疤痕**(scarred)。1967年，世卫组织把一场**全球**(global)攻势**加强**(intensified)了。可**接种率**(coverage)是很差的**标尺**(gauge)：一个**省**(province)可以报出九成，同时**藏着**(conceal)一个没打过疫苗的村子。"
+      },
+      {
+        "en": "The method came from a **shortage**. In December 1966 William Foege took a radio call about a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**.",
+        "zh": "方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为在那个村子外围**围**(ringed)了一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)。"
+      },
+      {
+        "en": "A report triggered an inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.",
+        "zh": "此后一份报告即触发一次调查：隔离病人，追踪接触者，给接触者及其接触者接种。冻干疫苗在45摄氏度下仍稳定，**热带**(tropical)储运因此可行；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)**皮肤**(skin)，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。"
+      },
+      {
+        "en": "In 1974 India held two-thirds of the world's **caseload**; by May 1975 its **chains** were **broken**. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979; the World Health Assembly **declared** it in May 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.",
+        "zh": "1974年，印度占了全世界**病例总量**(caseload)的三分之二；到1975年5月，它的传播**链**(chains)被**切断**(broken)。1978年伯明翰一次**实验室**(laboratory)**泄漏**(leak)夺走了珍妮特·帕克的命。1979年一个委员会**认证**(certified)根除，1980年5月世界卫生大会正式**宣布**(declared)。马阿林2013年死于疟疾，当时他正在为消灭**脊灰**(polio)奔走。零从来不能证明天花已经**消失**(vanished)；是搜寻把「没有」变成了人们可以**依靠**(rely)的证据。"
+      }
+    ],
+    "glossary": [
+      {
+        "w": "cook",
+        "zh": "厨工",
+        "p": 1
+      },
+      {
+        "w": "infirmary",
+        "zh": "医务所",
+        "p": 1
+      },
+      {
+        "w": "erupt",
+        "zh": "发出；爆发",
+        "p": 1
+      },
+      {
+        "w": "rash",
+        "zh": "皮疹",
+        "p": 1
+      },
+      {
+        "w": "patient",
+        "zh": "病人",
+        "p": 1
+      },
+      {
+        "w": "diagnose",
+        "zh": "诊断",
+        "p": 1
+      },
+      {
+        "w": "nurse",
+        "zh": "护士",
+        "p": 1
+      },
+      {
+        "w": "notify",
+        "zh": "通报；通知",
+        "p": 1
+      },
+      {
+        "w": "acquire",
+        "zh": "染上；获得",
+        "p": 1
+      },
+      {
+        "w": "ordinary",
+        "zh": "寻常的",
+        "p": 1
+      },
+      {
+        "w": "disease",
+        "zh": "疾病",
+        "p": 2
+      },
+      {
+        "w": "strike",
+        "zh": "击中",
+        "p": 2
+      },
+      {
+        "w": "survivor",
+        "zh": "幸存者",
+        "p": 2
+      },
+      {
+        "w": "scar",
+        "zh": "留疤",
+        "p": 2
+      },
+      {
+        "w": "intensify",
+        "zh": "加强",
+        "p": 2
+      },
+      {
+        "w": "global",
+        "zh": "全球的",
+        "p": 2
+      },
+      {
+        "w": "coverage",
+        "zh": "接种率；覆盖",
+        "p": 2
+      },
+      {
+        "w": "gauge",
+        "zh": "标尺；量规",
+        "p": 2
+      },
+      {
+        "w": "province",
+        "zh": "省",
+        "p": 2
+      },
+      {
+        "w": "conceal",
+        "zh": "藏匿",
+        "p": 2
+      },
+      {
+        "w": "shortage",
+        "zh": "短缺",
+        "p": 3
+      },
+      {
+        "w": "suspected",
+        "zh": "疑似的",
+        "p": 3
+      },
+      {
+        "w": "serum",
+        "zh": "疫苗；血清",
+        "p": 3
+      },
+      {
+        "w": "ring",
+        "zh": "围成一圈",
+        "p": 3
+      },
+      {
+        "w": "kinship",
+        "zh": "亲缘",
+        "p": 3
+      },
+      {
+        "w": "bazaar",
+        "zh": "集市",
+        "p": 3
+      },
+      {
+        "w": "surveillance",
+        "zh": "监测",
+        "p": 3
+      },
+      {
+        "w": "containment",
+        "zh": "围堵",
+        "p": 3
+      },
+      {
+        "w": "standing",
+        "zh": "常设的",
+        "p": 3
+      },
+      {
+        "w": "strategy",
+        "zh": "方略",
+        "p": 3
+      },
+      {
+        "w": "tropical",
+        "zh": "热带的",
+        "p": 4
+      },
+      {
+        "w": "bifurcated",
+        "zh": "双叉的",
+        "p": 4
+      },
+      {
+        "w": "needle",
+        "zh": "针",
+        "p": 4
+      },
+      {
+        "w": "dose",
+        "zh": "剂量",
+        "p": 4
+      },
+      {
+        "w": "instruction",
+        "zh": "培训；指示",
+        "p": 4
+      },
+      {
+        "w": "pierce",
+        "zh": "刺入",
+        "p": 4
+      },
+      {
+        "w": "skin",
+        "zh": "皮肤",
+        "p": 4
+      },
+      {
+        "w": "scarce",
+        "zh": "紧缺的",
+        "p": 4
+      },
+      {
+        "w": "silent",
+        "zh": "不声不响的",
+        "p": 4
+      },
+      {
+        "w": "incubation",
+        "zh": "潜伏期",
+        "p": 4
+      },
+      {
+        "w": "caseload",
+        "zh": "病例总量",
+        "p": 5
+      },
+      {
+        "w": "chain",
+        "zh": "链",
+        "p": 5
+      },
+      {
+        "w": "break",
+        "zh": "切断",
+        "p": 5
+      },
+      {
+        "w": "laboratory",
+        "zh": "实验室",
+        "p": 5
+      },
+      {
+        "w": "leak",
+        "zh": "泄漏",
+        "p": 5
+      },
+      {
+        "w": "certify",
+        "zh": "认证",
+        "p": 5
+      },
+      {
+        "w": "declare",
+        "zh": "宣布",
+        "p": 5
+      },
+      {
+        "w": "polio",
+        "zh": "脊髓灰质炎",
+        "p": 5
+      },
+      {
+        "w": "vanish",
+        "zh": "消失",
+        "p": 5
+      },
+      {
+        "w": "rely",
+        "zh": "依靠",
+        "p": 5
+      }
+    ],
+    "facts": [
+      "1977年10月，索马里梅尔卡医院厨工阿里·马奥·马阿林在与两名天花病人同车后发病，先后被误诊为疟疾与水痘，10月30日确诊为小天花，成为全球最后一例自然感染。他隔离后康复，2013年7月22日在参与脊髓灰质炎根除工作期间死于疟疾。[CDC：History of Smallpox](https://www.cdc.gov/smallpox/about/history.html)",
+      "重型天花病死率约30%，幸存者常留下失明或永久瘢痕。1967年世卫组织启动强化根除计划。全国接种率数字可能掩盖漏种村庄与漏报病例。",
+      "**方法源于短缺**：1966年12月4日，在尼日利亚东部工作的威廉·福奇接到无线电报告称奥维尔普阿村有疑似天花。疫苗不足以按当时通行的全民接种目标覆盖人群，福奇遂在疫源周围以及三个因亲缘往来与区域集市而可能扩散的村庄实施环形接种。该地区最终仅出现35例，疫情随即熄灭——此即「监测—围堵」策略的起点。[Science Heroes：Foege](https://www.scienceheroes.com/foege)｜[STAT：William Foege obituary](https://www.statnews.com/2026/01/25/william-foege-obituary-smallpox-cdc-vaccination/)",
+      "冻干疫苗在热带高温下保持稳定；双叉针两齿间夹持一剂疫苗，经短时培训即可使用，显著节省用量。天花无动物宿主，潜伏期不具传染性，这两点使围堵在技术上可行。[CDC](https://www.cdc.gov/smallpox/about/history.html)",
+      "1974年印度约占全球病例的三分之二，报告病例逾36000例；经大规模监测—围堵，至1975年5月印度境内传播中断。[CIDRAP：William Foege](https://www.cidrap.umn.edu/public-health/world-mourns-death-public-health-icon-william-foege)",
+      "1978年，伯明翰大学医学院医学摄影师珍妮特·帕克因楼下实验室泄漏感染，8月20日确诊重型天花，9月11日去世，为已知最后一名天花死者。1979年全球根除认证委员会认证根除，1980年5月8日世界卫生大会正式宣布。[Origins：The WHO and the Eradication of Smallpox](https://origins.osu.edu/read/who-and-eradication-smallpox)"
+    ]
+  };
   root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });

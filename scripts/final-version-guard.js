@@ -23,7 +23,7 @@ const SOURCE_AUDIT = {
   '06': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '08': { source: '6fed2f3c-24a7-4849-91e0-119f8b7073e8.md', verification: 'exact-uploaded-markdown', blob: 'c692c268881b96619931af559872ec97521cfc05' },
-  '09': { source: 'f69e64e9-6ed8-4f44-9e01-7b1c86000e73.md', verification: 'exact-uploaded-markdown', blob: '9b78d5575735bc2bd78abb1bc50f34af3efd8b21' },
+  '09': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '10': { source: 'be410145-0b0e-4ec1-9889-1b0f758ab2ef.md', verification: 'exact-uploaded-markdown', blob: '0cae816f2e21cbf438527ba6b4c7c28556ee03d3' },
   '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '12': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
@@ -46,7 +46,7 @@ const VERSION_IDS = {
   '06': '06-270-word-final-locked',
   '07': '07-269-word-final-locked',
   '08': '08-final-proofed',
-  '09': '09-final-proofed',
+  '09': '09-270-word-final-locked',
   '10': '10-final-proofed',
   '11': '11-270-word-final-locked',
   '12': '12-270-word-final-locked',
@@ -261,6 +261,14 @@ const SUPERSEDED_SIGNATURES = {
     'In 1973, the EPA, a **federal** **agency**, issued **rules** to **phase** down lead',
     'As petrol lead fell, **blood**-lead levels fell too; the **health** benefit became measurable.',
     '264 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
+  ],
+  '09': [
+    'a Somali **hospital** **cook**, developed a **rash**',
+    'In 1967 WHO intensified an **ambitious** **global** **campaign** to **free** humanity',
+    'A **report** of a **suspected** **case** triggered an **investigation**.',
+    'No single **feat** secured the **triumph**',
+    'searching turned absence into evidence people could **trust**',
+    '265 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
   ],
 };
 
