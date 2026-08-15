@@ -33,7 +33,7 @@ const SOURCE_AUDIT = {
   '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
   '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '19': { source: '2026-08-13对话中形成并完成最终上限审查、因果链精修与950词全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '19': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '20': { source: '2026-08-13对话中完成边际减排成本术语与中英对应终审的269词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
@@ -56,7 +56,7 @@ const VERSION_IDS = {
   '16': '16-263-word-final-polish',
   '17': '17-268-word-final-polish',
   '18': '18-270-word-final-max',
-  '19': '19-270-word-definitive-final',
+  '19': '19-269-word-final-locked',
   '20': '20-269-word-maximum-final',
 };
 
@@ -284,6 +284,14 @@ const SUPERSEDED_SIGNATURES = {
     'The 1869 straight-air trials **persuaded** **reluctant** **managers**',
     'The capability, not Westinghouse\u2019s brand, became **compulsory**.',
     'A train-pipe break actuated the valves; stored air applied the brakes.',
+  ],
+  '19': [
+    'Landing already imposed a heavy **workload**',
+    'guidance **officer** Steve Bales watched his **console** while back-room **specialist** Jack Garman',
+    'Bales\u2019s **judgement** was \u201cgo\u201d; Eagle could **proceed**.',
+    'That sacrifice is **selective**: expendable jobs are dropped to **safeguard** navigation.',
+    '**Software** **robustness** means protecting **essential** work by deciding pre-launch',
+    '270 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.5% (old-19)',
   ],
 };
 
