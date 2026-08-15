@@ -22,7 +22,7 @@ const SOURCE_AUDIT = {
   '05': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '06': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '08': { source: '6fed2f3c-24a7-4849-91e0-119f8b7073e8.md', verification: 'exact-uploaded-markdown', blob: 'c692c268881b96619931af559872ec97521cfc05' },
+  '08': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '09': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '10': { source: 'be410145-0b0e-4ec1-9889-1b0f758ab2ef.md', verification: 'exact-uploaded-markdown', blob: '0cae816f2e21cbf438527ba6b4c7c28556ee03d3' },
   '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
@@ -45,7 +45,7 @@ const VERSION_IDS = {
   '05': '05-270-word-final-locked',
   '06': '06-270-word-final-locked',
   '07': '07-269-word-final-locked',
-  '08': '08-final-proofed',
+  '08': '08-270-word-final-locked',
   '09': '09-270-word-final-locked',
   '10': '10-final-proofed',
   '11': '11-270-word-final-locked',
@@ -298,6 +298,13 @@ const SUPERSEDED_SIGNATURES = {
     'A **shortfall** triggered an automatic **penalty**',
     'Success rested on a **bounded** allowance supply, **credible** measurement, flexible exchange',
     '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-20)',
+  ],
+  '08': [
+    'Henrietta Leavitt joined a **staff** of **female** \u201ccomputers\u201d',
+    'The Small Magellanic Cloud, her **region** of study, offered an **advantage**',
+    'each series lay close to a **straight** line',
+    'A Cepheid could then serve as a **standard** **candle**',
+    '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-08)',
   ],
 };
 
