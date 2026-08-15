@@ -26,7 +26,7 @@ const SOURCE_AUDIT = {
   '09': { source: 'f69e64e9-6ed8-4f44-9e01-7b1c86000e73.md', verification: 'exact-uploaded-markdown', blob: '9b78d5575735bc2bd78abb1bc50f34af3efd8b21' },
   '10': { source: 'be410145-0b0e-4ec1-9889-1b0f758ab2ef.md', verification: 'exact-uploaded-markdown', blob: '0cae816f2e21cbf438527ba6b4c7c28556ee03d3' },
   '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '12': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: '5cc60c63acb1e8dff617120d6b8f273cb99d0270' },
+  '12': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '13': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的266词最终精进锁定稿', verification: 'conversation-latest-final' },
   '14': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: '63279e6e988966680c8a164db3fb0e19b4a08972' },
   '15': { source: 'dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip', verification: 'exact-uploaded-markdown', blob: 'bab945342134b4d45bb8d005569f11c9fb2a97fe' },
@@ -49,7 +49,7 @@ const VERSION_IDS = {
   '09': '09-final-proofed',
   '10': '10-final-proofed',
   '11': '11-270-word-final-locked',
-  '12': '12-final-proofed',
+  '12': '12-270-word-final-locked',
   '13': '13-266-word-final-locked',
   '14': '14-final-proofed',
   '15': '15-final-proofed',
@@ -253,6 +253,14 @@ const SUPERSEDED_SIGNATURES = {
     'The discovery was **recognised** with the 1983 Nobel **Prize**.',
     'when Ds left the gene **early**, subsequent **daughter** cells inherited',
     '262 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 19.1%',
+  ],
+  '12': [
+    'To determine **Earth**\u2019s **age**, Harrison Brown\u2019s group used **nuclear** **decay**',
+    'His 1956 **paper** put the **figure** at 4.55',
+    'Later **scientists** refined but barely changed the **answer**.',
+    'In 1973, the EPA, a **federal** **agency**, issued **rules** to **phase** down lead',
+    'As petrol lead fell, **blood**-lead levels fell too; the **health** benefit became measurable.',
+    '264 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
   ],
 };
 
