@@ -236,7 +236,12 @@ def inspect(a, archive):
 
     # ── 第四层 STR · 论证骨架 ────────────────────────────────────────
     body = " ".join(p["en"].replace("**", "") for p in paras)
-    names = re.findall(r"(?<![.!?]\s)\b[A-Z][a-z]+\s+(?:van\s+|de\s+|von\s+|der\s+)?[A-Z][a-z]+\b", body)
+    # 句首的人名不该被漏掉（Joseph Henry's discovery…），但要排除 In September / The Board 这类
+    LEAD = r"(?:In|On|At|By|The|A|An|After|Before|During|When|While|From|For|To|With|It|He|She|They|" \
+           r"This|That|Both|Each|Every|Later|Today|Now|Then|Its|His|Her|Their|Only|No|Not|Yet|But|And|Of)"
+    names = [m for m in re.findall(
+        r"\b([A-Z][a-z]+\s+(?:van\s+|de\s+|von\s+|der\s+)?[A-Z][a-z]+)\b", body)
+        if not re.match(LEAD + r"\s", m)]
     if not names:
         F.append(Finding("STR-01", "骨架", "check", "全篇无人名",
             "写作规范 §3.3：主语用人或具体物",

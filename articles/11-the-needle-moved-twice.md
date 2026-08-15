@@ -1,23 +1,23 @@
 # 11 · The Needle Moved Twice
 
 > 题材：1831 年法拉第与电磁感应
-> 状态：**第十一篇最终精校稿**（2026-08-11）
-> 指标：255 词 / 50 重点词 / 密度 19.6%
-> 接通电池时，指针偏转；持续通电时，它归零；断开时，它又反向跳动。发现藏在静止中：产生感应电流的不是磁场的存在，而是它的变化。
+> 状态：**第十一篇最终精进锁定稿**（2026-08-15）
+> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 法拉第试了七年都失败，因为他指望稳定的磁铁生出稳定的电。真正生电的不是磁铁，是变化。
 
 ---
 
 ## 英文正文
 
-In 1820, Ørsted showed that a **current** produced a magnetic **effect**, deflecting a **compass** near the wire. Faraday asked the **reverse** question: could a **magnet** produce electricity? On 29 August 1831, after repeated **attempts**, he tested two **coils** wound around a six-inch ring of soft **iron**, forming separate **circuits**: one included a **battery**, the other a galvanometer.
+In 1820 Hans Christian Ørsted showed that a **wire** carrying **electricity** **swung** a **compass** **lying** nearby. Michael Faraday **reversed** the question: could a **magnet** make electricity? He had been trying since 1824 and failing, because he expected a **steady** magnet to yield a steady **trickle** — an **unchanging** cause with a lasting effect.
 
-Faraday **connected** the battery. A **pulse** made the galvanometer needle **swing** for a **brief** **moment**; it then returned to **zero**, although the battery current remained **steady**. When he **broke** the connection, the needle swung in the **opposite** direction. Each **switch** produced current in the second circuit; the interval did not.
+On 29 August 1831 he **wound** two **windings** on opposite **halves** of a soft iron ring six inches across. One held a **battery**, the other a **galvanometer**. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the **interval** made none.
 
-Today, a **change** in magnetic flux through a circuit induces an electric **field**, driving **charges** through its **conductor**. Later that October, Faraday tested this relation: a bar magnet **approached** a coil or was **withdrawn** from it; each **rapid** movement **induced** a galvanometer **response**. At **rest**, the magnet and coil produced no current.
+A changing magnetic **flux** through a **loop** **induces** an **electromotive** force, driving charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.
 
-On 28 October, he made a **copper** **disc** **revolve** between magnetic poles, drawing current between its **centre** and **edge**. It was the first **machine** to **create** continuous electrical **output** through rotation in a magnetic field. Joseph Henry’s discovery of induction was **independent**; Faraday published first. Hippolyte Pixii soon built a rotating generator **prototype**.
+On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** at its middle and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found **induction** independently in 1830 but published later; Hippolyte Pixii built a **magneto** in 1832.
 
-Many **modern** generators **repeat** this cycle. The source—**steam**, falling **water** or **wind**—turns a **turbine** whose shaft can **drive** magnets past conductors; the generator feeds **power** into a **network** serving a **city**. Faraday’s needle moved once as flux rose, and again as it fell.
+Almost every **generator** feeding the grid **repeats** that same cycle. Steam, falling water or wind **drives** a **turbine** whose **shaft** sweeps **magnets** past **coils**; the **output** is **stepped** up and **carried** away. What Faraday saw was not a magnet making electricity, but a change making it.
 
 ---
 
@@ -26,29 +26,29 @@ Many **modern** generators **repeat** this cycle. The source—**steam**, fallin
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1820年，奥斯特证明，**电流**(current)会产生磁**效应**(effect)，使导线附近的**罗盘**(compass)偏转。法拉第继而把问题**反过来**(reverse)问：**磁铁**(magnet)能否产生电？经过反复**尝试**(attempts)，他于1831年8月29日测试了两组**线圈**(coils)。线圈绕在一个直径六英寸的软**铁**(iron)环上，形成彼此分开的**电路**(circuits)：一组接**电池**(battery)，另一组接检流计。
+1820年，汉斯·克里斯蒂安·奥斯特发现：一根通**电**(electricity)的**导线**(wire)，会让**躺**(lying)在旁边的**罗盘**(compass)针**摆**(swung)动。迈克尔·法拉第把问题**倒**(reversed)了过来：**磁铁**(magnet)能不能生电？他从1824年起一试再试，屡屡落空——因为他指望一块**稳定的**(steady)磁铁产生稳定的**细流**(trickle)，指望一个**不变的**(unchanging)原因带来持续的结果。
 
-法拉第**接通了**(connected)电池。一个**脉冲**(pulse)使检流计指针**摆动**(swing)了一下，但只持续了**短短的**(brief)**一瞬**(moment)；随后指针回到**零位**(zero)，尽管电池电流依然**稳定**(steady)。当他**断开**(broke)连接时，指针又朝**相反的**(opposite)方向摆动。每一次**切换**(switch)都会在第二组电路中产生电流；两次切换之间则没有电流。
+1831年8月29日，他在一只六英寸宽的软铁环上、两个相对的**半**(halves)边分别**绕**(wound)了两组**线圈**(windings)。一组接**电池**(battery)，一组接**检流计**(galvanometer)。合上电池，指针**蹬**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。
 
-今天，穿过电路的磁通量发生**变化**(change)，会感应出电**场**(field)，推动**电荷**(charges)在**导体**(conductor)中运动。同年10月稍晚，法拉第检验了这种关系：一根条形磁铁**接近**(approached)线圈，或从中被**抽出**(withdrawn)；每一次**迅速的**(rapid)运动都会**引发**(induced)检流计的**响应**(response)。磁铁和线圈都处于**静止状态**(rest)时，则不会产生电流。
+穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出**电动**(electromotive)势，驱使电荷绕**导体**(conductor)流动。10月17日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。
 
-10月28日，他让一块**铜制的**(copper)**圆盘**(disc)在磁极之间**旋转**(revolve)，并从圆盘的**中心**(centre)与**边缘**(edge)之间引出电流。它由此成为历史上第一台这样的**机器**(machine)：让圆盘在磁场中旋转，便能**产生**(create)持续的电力**输出**(output)。约瑟夫·亨利对电磁感应的发现也是**独立完成的**(independent)；法拉第则率先发表。伊波利特·皮克西随后制造出旋转式发电机**原型**(prototype)。
+10月28日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利1830年已独立发现**感应**(induction)，但发表在后；伊波利特·皮克西1832年造出了**磁电机**(magneto)。
 
-许多**现代**(modern)发电机都在不停**重复**(repeat)这一循环。动力来源——**蒸汽**(steam)、**水力**(water)或**风力**(wind)——带动**涡轮机**(turbine)，涡轮轴继而**驱动**(drive)磁铁掠过导体；发电机再把**电力**(power)送入**电网**(network)，为**城市**(city)供电。磁通量上升时，法拉第的指针跳了一次；下降时，它又跳了一次。
+今天向电网供电的几乎每一台**发电机**(generator)，都在**重复**(repeats)同一个循环。蒸汽、落水或风**带动**(drives)**汽轮机**(turbine)，其**轴**(shaft)让**磁铁**(magnets)扫过一组组**线圈**(coils)；**输出**(output)经**升**(stepped)压后被**输送**(carried)出去。法拉第看见的，从来不是磁铁在生电，而是变化在生电。
 
 ---
 
 ## 50 词速查表
 
-**§1**（10词）current 电流；当前的｜effect 效应；影响｜compass 罗盘；指南针｜reverse 反过来的；逆转｜magnet 磁铁｜attempt 尝试；企图｜coil 线圈；盘绕｜iron 铁；铁制的｜circuit 电路；回路｜battery 电池；一组
+**§1**（10词）electricity 电｜wire 导线｜lie 躺；位于｜compass 罗盘；指南针｜swing 摆动｜reverse 倒转；反转｜magnet 磁铁｜steady 稳定的｜trickle 细流；涓流｜unchanging 不变的
 
-**§2**（10词）connect 连接；接通｜pulse 脉冲；脉搏｜swing 摆动；转变｜brief 短暂的；简短的｜moment 瞬间；时刻｜zero 零；零位｜steady 稳定的；持续的｜break 断开；打破｜opposite 相反的；对面的｜switch 切换；开关
+**§2**（10词）half 半边｜wind 绕；缠｜winding 线圈；绕组｜battery 电池｜galvanometer 检流计｜kick 蹬；踢｜nought 零｜jerk 猛跳；猛拉｜switching 通断；切换｜interval 持续的间隔
 
-**§3**（10词）change 变化；改变｜field 场；领域｜charge 电荷；收费｜conductor 导体；指挥｜approach 接近；方法｜withdraw 抽离；撤回｜rapid 迅速的｜induce 感应产生；引起｜response 响应；回应｜rest 静止状态；休息
+**§3**（10词）loop 回路｜flux 通量｜induce 感生；引起｜electromotive 电动的｜conductor 导体｜bar 条形的；棒｜thrust 插入；猛推｜helix 螺线管；螺旋｜withdrawal 抽出；撤回｜motionless 静止的
 
-**§4**（10词）copper 铜；铜制的｜disc 圆盘；盘状物｜revolve 旋转；围绕｜centre 中心｜edge 边缘；优势｜machine 机器；机械｜create 产生；创造｜output 输出；产出｜independent 独立的｜prototype 原型；原型机
+**§4**（10词）pole 极｜spin 旋转｜spindle 转轴｜rim 盘缘；边缘｜continuously 连续地｜rotation 转动｜dynamo 发电机｜ancestor 祖先｜induction 感应｜magneto 磁电机
 
-**§5**（10词）modern 现代的｜repeat 重复；重现｜steam 蒸汽｜water 水；水流｜wind 风；缠绕｜turbine 涡轮机｜drive 驱动；驾驶｜power 电力；力量｜network 电网；网络｜city 城市
+**§5**（10词）generator 发电机｜repeat 重复｜turbine 汽轮机｜shaft 轴｜magnets 磁铁（复）｜coil 线圈｜output 输出｜step 升（压）；步｜carry 输送；携带｜drive 带动；驱动
 
 ---
 
@@ -56,16 +56,9 @@ Many **modern** generators **repeat** this cycle. The source—**steam**, fallin
 
 以下关键信息已据所列来源核对：
 
-- 1820年，汉斯·克里斯蒂安·奥斯特证明，通电导线能使附近的罗盘偏转，从而确立电流具有磁效应。法拉第随后追问能否反过来由磁作用获得电流；正文将这条反向问题作为实验动机，而没有写成奥斯特已经发现电磁感应。
-- 1831年8月29日，法拉第用直径约六英寸的软铁环进行实验，在环的不同部分绕上彼此绝缘的铜线。一组绕组接电池，另一组接检流计；能量来自电池，因此该装置更接近变压器原型，并不是一台独立发电机。
-- 法拉第原始论文记录：接通电池时检流计立即偏转；持续通电时指针回到原位；断开连接时又出现方向相反的强烈偏转。稳态时并非磁场消失，而是穿过第二绕组的磁通不再变化，所以没有持续的感应电压。
-- 同年10月，法拉第把条形磁铁插入线圈并抽出，分别得到方向相反的偏转；磁铁静止时没有响应。馆藏说明与日记编年对具体日期存在10月14日和17日两种口径，因此正文只写Later that October。
-- 10月28日，法拉第让直径约十二英寸的铜盘在磁极之间旋转，并从轴心与盘缘之间取电，获得持续偏转。这一法拉第圆盘通常被视为第一台连续电磁发电机；其能量来自使圆盘旋转的机械功，而不是由磁铁凭空提供。
-- 约瑟夫·亨利在美国独立观察到感应现象，但法拉第率先发表系统结果。伊波利特·皮克西随后制造旋转式磁电机，后世工程师才把这一机制发展成实用发电机；正文因此没有把现代发电系统全部归功于法拉第一人。
-- 现代电磁发电机通过让磁场与导体持续发生相对变化，把涡轮机输入的机械功转化为电能。蒸汽、水力和风力都可驱动涡轮机，但光伏等发电方式不依赖这一机制，所以正文只写Many modern generators。
-- 来源：[Faraday原始论文《Experimental Researches in Electricity》：接通、稳态归零与断开反向偏转](https://www.gutenberg.org/cache/epub/14986/pg14986-images.html)
-- 来源：[Royal Institution：1831年感应环原装置、日期与实验布置](https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus)
-- 来源：[Royal Institution：磁铁—线圈实验与现代发电机原理](https://www.rigb.org/explore-science/explore/collection/michael-faradays-generator)
-- 来源：[Science Museum：1831年磁铁与线圈实验复制品](https://collection.sciencemuseumgroup.org.uk/objects/co6663/faradays-coil-and-magnet-apparatus-1831-replica)
-- 来源：[IET：法拉第圆盘、发表时间及Pixii对旋转发电机的推进](https://www.theiet.org/membership/library-and-archives/the-iet-archives/biographies/michael-faraday)
-- 来源：[Smithsonian：Joseph Henry与Faraday在1831年独立观察电磁感应及发表先后](https://siarchives.si.edu/collections/siris_sic_329)
+- 1820年奥斯特发现通电导线使邻近罗盘针偏转，确立电流的磁效应。法拉第自1820年代起反向求解「磁生电」，长期未果，原因之一是他预期恒定磁场对应恒定电流。
+- 1831年8月29日环形实验：软铁环外径约六英寸，两组线圈分绕环的两侧，一组接电池、一组接检流计。合闸时指针瞬时偏转随即归零，尽管电池持续供电；断开时指针反向偏转。生电的是通断瞬间，而非稳定持续状态。
+- 1831年10月17日：条形磁铁插入螺线管再抽出，每次插拔均使指针偏转；磁铁静置管内则无电流。确立「变化」而非「存在」是感应的条件。
+- 1831年10月28日：铜盘在磁极间旋转，自盘心转轴与盘缘取出连续电流——史称法拉第圆盘，第一台可持续输出的发电机。
+- 约瑟夫·亨利1830年已独立观察到感应现象，发表晚于法拉第；伊波利特·皮克西1832年制成旋转式磁电机。
+- 现代发电沿用同一循环：蒸汽、水力或风力驱动汽轮机，转轴带动磁场扫过定子线圈，输出经变压后并入电网。定量表述为：穿过回路的磁通量变化率决定感生电动势。
