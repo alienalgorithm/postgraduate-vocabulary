@@ -253,9 +253,12 @@ def inspect(a, archive):
         last = [s for s in SENT.split(paras[-1]["en"].replace("**", "")) if s.strip()]
         if len(last) >= 2:
             a2, a1 = last[-2], last[-1]
+            # 具名实体（Nobel / Oppau / Smithsonian…）或数词都说明这是事实句，不是格言
+            PROPER = re.compile(r"(?<![.!?]\s)(?<!^)\b[A-Z][a-z]{2,}")
             def aphoristic(s):
-                return (count_words(s) <= 18 and not re.search(r"\d", s)
-                        and not re.search(r"(?<![.!?]\s)\b[A-Z][a-z]+\s+[A-Z][a-z]+", s))
+                if HAS_NUM.search(s) or PROPER.search(s.strip()):
+                    return False
+                return count_words(s) <= 18
             if aphoristic(a2) and aphoristic(a1):
                 F.append(Finding("STR-03", "骨架", "check", "结尾两句格言相邻",
                     f"…{a2} / {a1}", "两条箴言互相削弱；中间垫一句具体事实，或只留一条"))

@@ -1512,317 +1512,302 @@ window.SITE = {
     ]
   },
     {
-      "id": "06",
-      "slug": "the-reaction-invented-twice",
-      "title": "The Reaction That Had to Be Invented Twice",
-      "titleZh": "一种不得不发明两次的反应",
-      "standfirst": "合成氨先成为一个能够循环的反应，随后才成为一套能承受自身条件的工业系统。",
-      "topic": "Haber–Bosch 合成氨与工业放大",
-      "date": "2026-08-10",
-      "status": "第六篇最终锁稿",
-      "metrics": {
-        "words": 265,
-        "keywords": 50,
-        "density": 18.9
-      },
-      "paras": [
-        {
-          "en": "Air is nearly four-fifths **nitrogen**. Yet most crops cannot use N₂ directly; roots **absorb** it only as usable **compounds**. Though **abundant**, N₂ is **inert**, its atoms locked by a triple **bond**. As **population** rose, reliance on manure and nitrate deposits made **agriculture** vulnerable to **fertiliser** **shortages**.",
-          "zh": "空气中近五分之四都是**氮**(nitrogen)。但大多数作物不能直接利用N₂；根部只能**吸收**(absorb)已经转化为可利用**化合物**(compounds)的氮。N₂虽十分**丰富**(abundant)，却很**不活泼**(inert)，两个氮原子被牢固的**三键**(bond)锁住。随着**人口**(population)增长，**农业**(agriculture)因依赖粪肥和硝酸盐矿藏，更容易遭遇**氮肥**(fertiliser)**短缺**(shortages)。"
-        },
-        {
-          "en": "In 1909 Fritz Haber and Robert Le Rossignol built a **laboratory**-scale loop. Their **apparatus** circulated **hydrogen** and nitrogen over an osmium **catalyst** at about 200 atmospheres and 500–600°C; only a fraction **combined**. High **pressure** favoured **ammonia** formation, while heat sped the reaction but reduced **equilibrium** **yield**. Cooling condensed ammonia; a pump **continuously** recycled unreacted gas.",
-          "zh": "1909年，弗里茨·哈伯和罗伯特·勒罗西尼奥尔搭建了一套**实验室规模的**(laboratory)循环系统。这套**装置**(apparatus)让**氢气**(hydrogen)和氮气在约200个大气压、500–600°C下循环流过锇**催化剂**(catalyst)；每轮只有少部分氢气和氮气能够**结合成氨**(combined)。较高的**压力**(pressure)有利于**氨**(ammonia)的生成，而加热虽加快反应，却降低**平衡**(equilibrium)**产率**(yield)。冷却使氨冷凝并从气流中分离出来，泵则**不断**(continuously)把未反应气体送回系统。"
-        },
-        {
-          "en": "At **industrial** scale, one **obstacle** had **hazardous** consequences: hot hydrogen penetrated **steel** **vessels** and reacted with their carbon, forming fissures that left them **brittle** and unable to **withstand** pressure. Bosch’s BASF team built a double-walled tube that vented hydrogen before it could weaken the pressure-bearing outer shell. Alwin Mittasch’s group replaced scarce osmium with activated iron, enabling **commercial** ammonia **manufacture**. Gas purification and heat recovery helped raise plant **capacity**.",
-          "zh": "到了**工业**(industrial)规模，一个**障碍**(obstacle)便带来了**危险的后果**(hazardous)：高温氢气渗入**钢制的**(steel)**容器**(vessels)，与其中的碳反应并形成裂纹，使器壁**变脆**(brittle)，无法**承受**(withstand)高压。博施领导的BASF团队设计了双层反应管，让渗过内管的氢气先行逸出，避免它侵入并削弱外层承压壳。阿尔温·米塔施团队则用活化铁取代稀有的锇，使合成氨得以**商业化**(commercial)**生产**(manufacture)。气体净化和热量回收也帮助提高了工厂**产能**(capacity)。"
-        },
-        {
-          "en": "Production began at Oppau in 1913. Fertiliser increased **harvests**; in the First World War, a **blockade** severed Germany’s Chilean nitrate supply. Oxidising ammonia yielded nitric acid to make **explosives** and **ammunition**. Some **civilian** output **shifted** to **military** use, drawing synthetic nitrogen into **warfare**.",
-          "zh": "1913年，奥保开始生产合成氨。氮肥提高了**收成**(harvests)；第一次世界大战期间，海上**封锁**(blockade)切断了德国的智利硝酸盐来源。将氨氧化可以制得硝酸，用于制造**炸药**(explosives)和**弹药**(ammunition)。部分原供**民用**(civilian)的合成氨**转而用于**(shifted)**军事生产**(military)，合成氮由此被卷入**战争**(warfare)。"
-        },
-        {
-          "en": "Ammonia remains **indispensable**, but its production **consumes** **energy** and relies on hydrogen from **fossil** **fuels**, causing upstream **emissions**. Hydrogen made with **renewable** electricity can **substitute** for fossil-derived hydrogen; greater fertiliser-use **efficiency** can curb **excess** nitrogen losses. The **burden** we **inherit** lies beyond the reactor: how hydrogen is made and nitrogen is used.",
-          "zh": "氨至今仍**不可或缺**(indispensable)，但其生产会**消耗**(consumes)**能源**(energy)，并依赖来自**化石**(fossil)**燃料**(fuels)的氢气，在上游制氢环节造成**排放**(emissions)。由**可再生**(renewable)电力制得的氢气可以**替代**(substitute)化石来源的氢；提高氮肥使用**效率**(efficiency)，则能减少**过量**(excess)氮的流失。如今，反应器之外仍有一份**重担**(burden)要由我们**接过**(inherit)：如何制取氢，如何使用氮。"
-        }
-      ],
-      "glossary": [
-        {
-          "w": "nitrogen",
-          "zh": "氮",
-          "p": 1
-        },
-        {
-          "w": "absorb",
-          "zh": "吸收",
-          "p": 1
-        },
-        {
-          "w": "compound",
-          "zh": "化合物",
-          "p": 1
-        },
-        {
-          "w": "abundant",
-          "zh": "丰富的",
-          "p": 1
-        },
-        {
-          "w": "inert",
-          "zh": "惰性的、不活泼的",
-          "p": 1
-        },
-        {
-          "w": "bond",
-          "zh": "键、化学键",
-          "p": 1
-        },
-        {
-          "w": "population",
-          "zh": "人口",
-          "p": 1
-        },
-        {
-          "w": "agriculture",
-          "zh": "农业",
-          "p": 1
-        },
-        {
-          "w": "fertiliser",
-          "zh": "肥料、氮肥",
-          "p": 1
-        },
-        {
-          "w": "shortage",
-          "zh": "短缺",
-          "p": 1
-        },
-        {
-          "w": "laboratory",
-          "zh": "实验室",
-          "p": 2
-        },
-        {
-          "w": "apparatus",
-          "zh": "装置",
-          "p": 2
-        },
-        {
-          "w": "hydrogen",
-          "zh": "氢、氢气",
-          "p": 2
-        },
-        {
-          "w": "catalyst",
-          "zh": "催化剂",
-          "p": 2
-        },
-        {
-          "w": "combine",
-          "zh": "结合",
-          "p": 2
-        },
-        {
-          "w": "pressure",
-          "zh": "压力",
-          "p": 2
-        },
-        {
-          "w": "ammonia",
-          "zh": "氨",
-          "p": 2
-        },
-        {
-          "w": "equilibrium",
-          "zh": "平衡",
-          "p": 2
-        },
-        {
-          "w": "yield",
-          "zh": "产率",
-          "p": 2
-        },
-        {
-          "w": "continuous",
-          "zh": "连续的",
-          "p": 2
-        },
-        {
-          "w": "industrial",
-          "zh": "工业的",
-          "p": 3
-        },
-        {
-          "w": "obstacle",
-          "zh": "障碍",
-          "p": 3
-        },
-        {
-          "w": "hazardous",
-          "zh": "危险的",
-          "p": 3
-        },
-        {
-          "w": "steel",
-          "zh": "钢、钢材",
-          "p": 3
-        },
-        {
-          "w": "vessel",
-          "zh": "容器",
-          "p": 3
-        },
-        {
-          "w": "brittle",
-          "zh": "脆的",
-          "p": 3
-        },
-        {
-          "w": "withstand",
-          "zh": "承受、经受",
-          "p": 3
-        },
-        {
-          "w": "commercial",
-          "zh": "商业的",
-          "p": 3
-        },
-        {
-          "w": "manufacture",
-          "zh": "制造、生产",
-          "p": 3
-        },
-        {
-          "w": "capacity",
-          "zh": "产能、能力",
-          "p": 3
-        },
-        {
-          "w": "harvest",
-          "zh": "收成",
-          "p": 4
-        },
-        {
-          "w": "blockade",
-          "zh": "封锁",
-          "p": 4
-        },
-        {
-          "w": "explosive",
-          "zh": "炸药、爆炸物",
-          "p": 4
-        },
-        {
-          "w": "ammunition",
-          "zh": "弹药",
-          "p": 4
-        },
-        {
-          "w": "civilian",
-          "zh": "民用的、平民的",
-          "p": 4
-        },
-        {
-          "w": "shift",
-          "zh": "转移、转向",
-          "p": 4
-        },
-        {
-          "w": "military",
-          "zh": "军事的",
-          "p": 4
-        },
-        {
-          "w": "warfare",
-          "zh": "战争、作战",
-          "p": 4
-        },
-        {
-          "w": "indispensable",
-          "zh": "不可或缺的",
-          "p": 5
-        },
-        {
-          "w": "consume",
-          "zh": "消耗",
-          "p": 5
-        },
-        {
-          "w": "energy",
-          "zh": "能源",
-          "p": 5
-        },
-        {
-          "w": "fossil",
-          "zh": "化石的",
-          "p": 5
-        },
-        {
-          "w": "fuel",
-          "zh": "燃料",
-          "p": 5
-        },
-        {
-          "w": "emission",
-          "zh": "排放",
-          "p": 5
-        },
-        {
-          "w": "renewable",
-          "zh": "可再生的",
-          "p": 5
-        },
-        {
-          "w": "substitute",
-          "zh": "替代",
-          "p": 5
-        },
-        {
-          "w": "efficiency",
-          "zh": "效率",
-          "p": 5
-        },
-        {
-          "w": "excess",
-          "zh": "过量的、过剩的",
-          "p": 5
-        },
-        {
-          "w": "burden",
-          "zh": "负担、重担",
-          "p": 5
-        },
-        {
-          "w": "inherit",
-          "zh": "继承、承接",
-          "p": 5
-        }
-      ],
-      "facts": [
-        "空气约有78%是分子氮。大多数作物不能直接利用N₂，必须依靠微生物固氮或工业、自然过程先把它转化成铵盐、硝酸盐等可利用形态；豆科作物也依赖共生微生物，并非根部直接吸收N₂。",
-        "核心反应是N₂ + 3H₂ ⇌ 2NH₃。加压使平衡偏向气体分子数较少的氨一侧；较低温度有利于平衡产率，较高温度则提供实用反应速率。催化剂提高反应速率，但不改变平衡位置。",
-        "1909年的实验室成果应同时归于Fritz Haber与Robert Le Rossignol。Le Rossignol设计了关键的连续循环装置、泵和冷却捕集方案：氨被冷凝移出，未反应气体返回催化床，因此循环提高的是总转化率，而非一次通过的平衡产率。",
-        "1909年演示装置使用约3:1的氢氮混合气，在约180–200个大气压、500–600°C及锇催化剂条件下运行。正文采用约数，没有把后来工业铁基催化剂倒灌进Haber与Le Rossignol的实验装置。",
-        "工业放大由Carl Bosch领导的BASF跨学科团队完成。高温高压氢渗入钢材后会与其中的碳形成甲烷，引发脱碳、孔洞和裂纹，最终使承压结构失强；双层反应管让穿过内衬的氢逸出，从而保护外层承压壳。",
-        "Alwin Mittasch领导实用催化剂的系统筛选，以廉价、稳定的活化铁催化体系替代Haber实验中的稀有锇、铀方案。相关实验次数在不同资料中口径不一，因此正文只陈述结果，没有写死筛选次数。",
-        "世界第一座工业合成氨厂于1913年9月9日在Oppau投产。不同资料所列初始、设计或后期产能口径并不一致，正文没有选取其中任何一个数字。",
-        "合成氨最初扩大了氮肥供应，也可被氧化为硝酸，再制成用于弹药的硝酸盐。正文没有把氨本身写成炸药，也没有把1913年投产与1921年奥保肥料仓爆炸混为一事。",
-        "2008年的一项研究估算，合成氮肥支撑着约48%的全球人口；这是一项模型估算，并不表示粮食产出只由氮肥决定。本文把这一数字放在核对说明而非正文，避免它压过工程主线。",
-        "国际能源署2021年路线图估计，氨生产约占全球终端能源使用的2%、能源系统二氧化碳排放的1.3%，其中约70%的氨用于化肥。主要排放来自化石燃料制氢与工艺能源，并非N₂与H₂合成氨的反应本身直接排出二氧化碳。",
-        "提高氮肥利用效率可减少氮进入水体和空气；以可再生电力电解制氢，则可降低合成氨上游制氢的碳排放。正文使用“can”而非保证性措辞，因为实际效果仍取决于电力来源、设备与农业管理。",
-        "来源：[英国皇家学会：Robert Le Rossignol与连续合成氨装置的技术史](https://royalsocietypublishing.org/doi/10.1098/rsnr.2016.0019)",
-        "来源：[Fritz Haber诺贝尔演讲：合成氨的实验与热力学路径](https://www.nobelprize.org/prizes/chemistry/1918/haber/lecture/)",
-        "来源：[1918年诺贝尔化学奖颁奖词：约500°C、150–200个大气压与循环系统](https://www.nobelprize.org/prizes/chemistry/1918/ceremony-speech/)",
-        "来源：[1931年诺贝尔化学奖颁奖词：工业放大的材料与高压难题](https://www.nobelprize.org/prizes/chemistry/1931/ceremony-speech/)",
-        "来源：[诺贝尔奖：Carl Bosch与工业高压方法](https://www.nobelprize.org/prizes/chemistry/1931/bosch/facts/)",
-        "来源：[BASF企业史：Bosch团队、双层反应管与1913年Oppau投产](https://www.basf.com/global/en/who-we-are/history/Carl-Bosch)",
-        "来源：[Max Planck Society：Mittasch催化剂与Bosch工业化的功劳边界](https://www.mpg.de/19617047/kofo_jb_2022)",
-        "来源：[Nature Geoscience：一个世纪的合成氨与全球粮食系统](https://www.nature.com/articles/ngeo325)",
-        "来源：[国际能源署：《Ammonia Technology Roadmap》](https://www.iea.org/reports/ammonia-technology-roadmap)",
-        "来源：[美国环保署：农业氮损失与水体营养污染](https://www.epa.gov/nutrientpollution/sources-and-solutions-agriculture)"
-      ]
+    "id": "06",
+    "slug": "the-reaction-invented-twice",
+    "title": "The Reaction That Had to Be Invented Twice",
+    "titleZh": "一种不得不发明两次的反应",
+    "standfirst": "哈伯的台式装置每小时产氨125毫升；四年后奥保工厂每天四十吨。同一个反应，中间隔着一次完全独立的发明。",
+    "topic": "Haber–Bosch 合成氨与工业放大",
+    "date": "2026-08-15",
+    "status": "第六篇最终精进锁定稿",
+    "metrics": {
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5
     },
+    "paras": [
+      {
+        "en": "Air is four **fifths** **nitrogen**, yet no crop can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.",
+        "zh": "空气里五**分之**(fifths)四是**氮**(nitrogen)，可庄稼用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。"
+      },
+      {
+        "en": "In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over osmium, the **catalyst**, at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** the reaction but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.",
+        "zh": "1909年7月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约两百个**大气压**(atmospheres)、五百度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨125毫升。"
+      },
+      {
+        "en": "The factory was another matter. Hot hydrogen entered **steel** and stripped its **carbon**, leaving **vessels** brittle. Bosch answered with a double-**walled** tube whose **liner** vented hydrogen before it **weakened** the shell. Osmium was too rare for commerce; Alwin Mittasch **sifted** 2,500 **catalysts** through 6,500 runs and settled on Swedish magnetite, whose **potassium** and **alumina** made cheap iron work.",
+        "zh": "工厂是另一回事。热氢钻进**钢**(steel)里，把其中的**碳**(carbon)夺走，**容器**(vessels)因此变脆。博施的答案是一根双层**壁**(walled)管：内**衬**(liner)在氢**削弱**(weakened)承压外壳之前就把它放掉。锇对商业化来说太稀有；阿尔文·米塔施把2500种**催化剂**(catalysts)**筛**(sifted)过6500轮，最后选中瑞典磁铁矿——其中微量的**钾**(potassium)与**铝土**(alumina)让便宜的铁也管用。"
+      },
+      {
+        "en": "Oppau opened in September 1913, four years after the bench. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests**. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.",
+        "zh": "1913年9月，奥保工厂开工，距那台台式装置四年。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)32万倍。**化肥**(fertiliser)抬高了**收成**(harvests)。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。"
+      },
+      {
+        "en": "Ammonia is **indispensable** now, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it; better **efficiency** can curb **excess** nitrogen reaching water and air. Both men took Nobel prizes. The chemistry has hardly changed; the plant must be invented a third time.",
+        "zh": "如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那部分氢；更高的施肥**效率**(efficiency)可以收住**过量**(excess)氮向水和空气的流失。两人都为它拿了诺贝尔奖。这套化学几乎没变；要重新发明的，是第三次的工厂。"
+      }
+    ],
+    "glossary": [
+      {
+        "w": "fifth",
+        "zh": "五分之一",
+        "p": 1
+      },
+      {
+        "w": "nitrogen",
+        "zh": "氮",
+        "p": 1
+      },
+      {
+        "w": "compound",
+        "zh": "化合物",
+        "p": 1
+      },
+      {
+        "w": "molecule",
+        "zh": "分子",
+        "p": 1
+      },
+      {
+        "w": "inert",
+        "zh": "惰性的",
+        "p": 1
+      },
+      {
+        "w": "bond",
+        "zh": "键；纽带",
+        "p": 1
+      },
+      {
+        "w": "lean",
+        "zh": "倚靠",
+        "p": 1
+      },
+      {
+        "w": "manure",
+        "zh": "厩肥",
+        "p": 1
+      },
+      {
+        "w": "mine",
+        "zh": "开采",
+        "p": 1
+      },
+      {
+        "w": "nitrate",
+        "zh": "硝石；硝酸盐",
+        "p": 1
+      },
+      {
+        "w": "apparatus",
+        "zh": "装置",
+        "p": 2
+      },
+      {
+        "w": "circulate",
+        "zh": "循环",
+        "p": 2
+      },
+      {
+        "w": "catalyst",
+        "zh": "催化剂",
+        "p": 2
+      },
+      {
+        "w": "atmosphere",
+        "zh": "大气压；气氛",
+        "p": 2
+      },
+      {
+        "w": "favour",
+        "zh": "有利于",
+        "p": 2
+      },
+      {
+        "w": "ammonia",
+        "zh": "氨",
+        "p": 2
+      },
+      {
+        "w": "hasten",
+        "zh": "加快；促进",
+        "p": 2
+      },
+      {
+        "w": "equilibrium",
+        "zh": "平衡",
+        "p": 2
+      },
+      {
+        "w": "yield",
+        "zh": "产率；产出",
+        "p": 2
+      },
+      {
+        "w": "recycle",
+        "zh": "回收",
+        "p": 2
+      },
+      {
+        "w": "steel",
+        "zh": "钢",
+        "p": 3
+      },
+      {
+        "w": "carbon",
+        "zh": "碳",
+        "p": 3
+      },
+      {
+        "w": "vessel",
+        "zh": "容器",
+        "p": 3
+      },
+      {
+        "w": "walled",
+        "zh": "有壁的",
+        "p": 3
+      },
+      {
+        "w": "liner",
+        "zh": "内衬",
+        "p": 3
+      },
+      {
+        "w": "weaken",
+        "zh": "削弱",
+        "p": 3
+      },
+      {
+        "w": "sift",
+        "zh": "筛选",
+        "p": 3
+      },
+      {
+        "w": "catalysts",
+        "zh": "催化剂（复）",
+        "p": 3
+      },
+      {
+        "w": "potassium",
+        "zh": "钾",
+        "p": 3
+      },
+      {
+        "w": "alumina",
+        "zh": "铝土；氧化铝",
+        "p": 3
+      },
+      {
+        "w": "tonne",
+        "zh": "吨",
+        "p": 4
+      },
+      {
+        "w": "magnify",
+        "zh": "放大",
+        "p": 4
+      },
+      {
+        "w": "fertiliser",
+        "zh": "化肥",
+        "p": 4
+      },
+      {
+        "w": "harvest",
+        "zh": "收成",
+        "p": 4
+      },
+      {
+        "w": "blockade",
+        "zh": "封锁",
+        "p": 4
+      },
+      {
+        "w": "sever",
+        "zh": "切断",
+        "p": 4
+      },
+      {
+        "w": "nitric",
+        "zh": "硝的",
+        "p": 4
+      },
+      {
+        "w": "reactor",
+        "zh": "反应器",
+        "p": 4
+      },
+      {
+        "w": "explosive",
+        "zh": "炸药",
+        "p": 4
+      },
+      {
+        "w": "munition",
+        "zh": "弹药",
+        "p": 4
+      },
+      {
+        "w": "indispensable",
+        "zh": "不可或缺的",
+        "p": 5
+      },
+      {
+        "w": "consume",
+        "zh": "消耗",
+        "p": 5
+      },
+      {
+        "w": "hydrogen",
+        "zh": "氢",
+        "p": 5
+      },
+      {
+        "w": "fossil",
+        "zh": "化石的",
+        "p": 5
+      },
+      {
+        "w": "emission",
+        "zh": "排放",
+        "p": 5
+      },
+      {
+        "w": "upstream",
+        "zh": "上游的",
+        "p": 5
+      },
+      {
+        "w": "renewable",
+        "zh": "可再生的",
+        "p": 5
+      },
+      {
+        "w": "substitute",
+        "zh": "替代",
+        "p": 5
+      },
+      {
+        "w": "efficiency",
+        "zh": "效率",
+        "p": 5
+      },
+      {
+        "w": "excess",
+        "zh": "过量的",
+        "p": 5
+      }
+    ],
+    "facts": [
+      "空气约五分之四为氮气，但N₂三重键极稳定，作物无法直接利用，须以化合物形式经根系吸收。哈伯法出现前，农业依赖厩肥与智利硝石，收成受制于单一远方矿藏。[Grokipedia：History of the Haber process](https://grokipedia.com/page/History_of_the_Haber_process)",
+      "1909年7月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄的台式装置以锇为催化剂，在约200个大气压、500℃量级条件下运行，**产氨速率约每小时125毫升**。高压有利于氨的生成，升温加快反应但降低平衡产率；冷凝取氨、循环回收未反应气体构成闭环。[Grokipedia：Haber process](https://grokipedia.com/page/Haber_process)",
+      "工业化是另一类问题。热氢渗入钢材并夺取其中的碳，导致容器脆化、无法承压；博施团队以双层结构（内衬泄氢、外壳承载）解决。此为氢脆/脱碳问题的经典工程对策。[Grokipedia：Haber process](https://grokipedia.com/page/Haber_process)",
+      "锇稀缺不足以支撑商业化。**阿尔文·米塔施系统筛选约2500种催化剂、进行约6500次试验**，最终选定含钾与氧化铝助剂的瑞典磁铁矿基铁催化剂——1913年奥保投产时，这成为工业多相催化的首个实例。[ScienceDirect：Haber-Bosch Process](https://www.sciencedirect.com/topics/chemistry/haber-bosch-process)｜[Chemistry World：A fixation with nitrogen](https://www.chemistryworld.com/features/a-fixation-with-nitrogen/6076.article)",
+      "奥保工厂1913年9月投产，距1909年7月的台式演示四年零两个月；**1914年日产氨约40吨，约为实验室每小时125毫升的32万倍**。一战期间英国海上封锁切断智利硝石供应，氨经氧化制硝酸，转而供给炸药与弹药。哈伯、博施分获1918与1931年诺贝尔化学奖。[Execution Atlas：Haber-Bosch 数据与时间线](https://execution-atlas.com/en/articles/haber-bosch-process/)｜[Chemistry World](https://www.chemistryworld.com/features/a-fixation-with-nitrogen/6076.article)",
+      "当代合成氨仍沿用可辨识的哈伯法，只是改用铁基催化剂并强化热回收；其能耗约占全球能源的1%—2%，所需氢多来自化石燃料，排放集中在上游。可再生电力制氢可替代该部分氢源，提高施肥效率则可抑制过量氮向水体与大气的流失。[Cambridge Core：HB 工艺综述](https://resolve.cambridge.org/core/product/F1159C9DB99D2B99D3B78518CCB4E90D/core-reader)"
+    ]
+  },
     {
     "id": "07",
     "slug": "the-meaning-he-left-out",

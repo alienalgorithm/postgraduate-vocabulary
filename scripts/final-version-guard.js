@@ -20,7 +20,7 @@ const SOURCE_AUDIT = {
   '03': { source: '2026-08-15对话中经写作智能体全流程（词池→草稿→复检五轮）产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '04': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip + 最终定稿校正记录_2026-08-10.md', verification: '260-word-final-package' },
   '05': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '06': { source: '60e62742-146f-4af4-9399-3d25039d6455.zip', verification: 'exact-uploaded-markdown', blob: 'fd60aa1a0fae0a7a2879edbed990c81b2f9a66a6' },
+  '06': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '08': { source: '6fed2f3c-24a7-4849-91e0-119f8b7073e8.md', verification: 'exact-uploaded-markdown', blob: 'c692c268881b96619931af559872ec97521cfc05' },
   '09': { source: 'f69e64e9-6ed8-4f44-9e01-7b1c86000e73.md', verification: 'exact-uploaded-markdown', blob: '9b78d5575735bc2bd78abb1bc50f34af3efd8b21' },
@@ -43,7 +43,7 @@ const VERSION_IDS = {
   '03': '03-270-word-final-locked',
   '04': '04-260-word-final',
   '05': '05-270-word-final-locked',
-  '06': '06-final-locked',
+  '06': '06-270-word-final-locked',
   '07': '07-269-word-final-locked',
   '08': '08-final-proofed',
   '09': '09-final-proofed',
@@ -221,6 +221,14 @@ const SUPERSEDED_SIGNATURES = {
     'the system\u2019s **elegance** was **apparent** and the **consensus** behind it invisible',
     '270 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.5%\u0000',
     '\u7b2c\u4e94\u7bc7\u7cbe\u8fdb\u5b9a\u7a3f',
+  ],
+  '06': [
+    'As **population** rose, reliance on manure and nitrate deposits',
+    'Alwin Mittasch\u2019s group replaced scarce osmium with activated iron',
+    'Gas purification and heat recovery helped raise plant **capacity**.',
+    'Some **civilian** output **shifted** to **military** use',
+    'The **burden** we **inherit** lies beyond the reactor',
+    '265 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
   ],
 };
 
