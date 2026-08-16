@@ -44,7 +44,7 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 
 **§2**（10词）compress 压缩｜medium 介质｜solid 固体；固态的｜liquid 液体；液态的｜shear 剪切；剪断｜penetrate 穿透；洞察｜outer 外部的；外层的｜refract 折射｜angle 角度；角｜shadow 阴影；阴影区
 
-**§3**（10词）arrival 到达；到达记录｜attributed attributed｜diffraction 衍射｜examined examined｜scatter 零散分布；散开｜transit 走时；通过｜path 路径｜sphere 球体；范围｜velocity 速度；速率｜redirect 重新导向；使改道
+**§3**（10词）arrival 到达；到达记录｜attribute 归因于｜diffraction 衍射｜examine 查验了｜scatter 零散分布；散开｜transit 走时；通过｜path 路径｜sphere 球体；范围｜velocity 速度；速率｜redirect 重新导向；使改道
 
 **§4**（10词）cautious 谨慎的｜possibility 可能性｜uncertain 无法确定的；不确定的｜scrutiny 严格审视｜numerical 数值的；数字的｜rigid 刚性的；僵硬的｜crystalline 晶体状的；结晶的｜radius 半径｜diameter 直径｜enclose 包围；封闭
 

@@ -42,11 +42,11 @@ Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly
 
 **§1**（10词）ozone 臭氧｜spectrophotometer 分光光度计｜weigh 称量；权衡｜ultraviolet 紫外的｜intensity 强度｜band 波段；带｜springtime 春季｜hut 小屋｜baseline 基线｜dull 枯燥的；钝的
 
-**§2**（10词）reading 读数｜reckon 判断；认为｜ageing 老化的｜replacement 替换机；替换｜agreed agreed｜outpost 观测点；前哨｜recurring 反复出现的｜decline 下降｜hesitated hesitated｜orbit 轨道
+**§2**（10词）reading 读数｜reckon 判断；认为｜ageing 老化的｜replacement 替换机；替换｜agree 吻合｜outpost 观测点；前哨｜recurring 反复出现的｜decline 下降｜hesitate 犹豫｜orbit 轨道
 
-**§3**（10词）mapper 测绘仪｜processing 数据处理｜flagged flagged｜threshold 阈值；门槛｜faulty 故障的｜lens 镜头；透镜｜settle 判定；解决｜erroneous 错误的｜calibration 标定；校准｜unconfirmed 未获证实的
+**§3**（10词）mapper 测绘仪｜processing 数据处理｜flag 标记｜threshold 阈值；门槛｜faulty 故障的｜lens 镜头；透镜｜settle 判定；解决｜erroneous 错误的｜calibration 标定；校准｜unconfirmed 未获证实的
 
-**§4**（10词）anticipated anticipated｜tuned tuned｜simulated simulated｜cloud 云｜condense 凝结｜altitude 高度｜particle 粒子｜dormant 蛰伏的；休眠的｜chlorine 氯｜cleave 劈开
+**§4**（10词）anticipate 预见到｜tune 调校｜simulate 模拟｜cloud 云｜condense 凝结｜altitude 高度｜particle 粒子｜dormant 蛰伏的；休眠的｜chlorine 氯｜cleave 劈开
 
 **§5**（10词）liberate 释放；解放｜repeatedly 反复地｜scan 扫描｜continent-wide 覆盖整个大陆的｜adopt 通过；采纳｜amendment 修正案｜tighten 收紧｜project 预计｜regain 重回；重获｜concentration 浓度；集中
 

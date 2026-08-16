@@ -40,15 +40,15 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 
 ## 50 词速查表
 
-**§1**（10词）wire 导线｜electricity 电｜swung swung｜compass 罗盘；指南针｜lying lying｜reversed reversed｜magnet 磁铁｜steady 稳定的｜trickle 细流；涓流｜unchanging 不变的
+**§1**（10词）wire 导线｜electricity 电｜swung 摆｜compass 罗盘；指南针｜lying 躺｜reversed 倒｜magnet 磁铁｜steady 稳定的｜trickle 细流；涓流｜unchanging 不变的
 
-**§2**（10词）wound wound｜winding 线圈；绕组｜halves halves｜battery 电池｜galvanometer 检流计｜kick 蹬；踢｜nought 零｜jerk 猛跳；猛拉｜switching 通断；切换｜interval 持续的间隔
+**§2**（10词）wound 绕｜winding 线圈；绕组｜halves 半｜battery 电池｜galvanometer 检流计｜kick 蹬；踢｜nought 零｜jerk 猛跳；猛拉｜switching 通断；切换｜interval 持续的间隔
 
 **§3**（10词）flux 通量｜loop 回路｜induce 感生；引起｜electromotive 电动的｜conductor 导体｜thrust 插入；猛推｜bar 条形的；棒｜helix 螺线管；螺旋｜withdrawal 抽出；撤回｜motionless 静止的
 
-**§4**（10词）spinning spinning｜pole 极｜continuously 连续地｜spindle 转轴｜rim 盘缘；边缘｜rotation 转动｜ancestor 祖先｜dynamo 发电机｜induction 感应｜magneto 磁电机
+**§4**（10词）spinning 旋转｜pole 极｜continuously 连续地｜spindle 转轴｜rim 盘缘；边缘｜rotation 转动｜ancestor 祖先｜dynamo 发电机｜induction 感应｜magneto 磁电机
 
-**§5**（10词）generator 发电机｜repeat 重复｜drive 带动；驱动｜turbine 汽轮机｜shaft 轴｜magnets 磁铁｜coil 线圈｜output 输出｜stepped stepped｜carried carried
+**§5**（10词）generator 发电机｜repeat 重复｜drive 带动；驱动｜turbine 汽轮机｜shaft 轴｜magnets 磁铁｜coil 线圈｜output 输出｜stepped 升｜carried 输送
 
 ---
 

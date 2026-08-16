@@ -81,8 +81,8 @@
         "p": 1
       },
       {
-        "w": "standardised",
-        "zh": "standardised",
+        "w": "standardise",
+        "zh": "标准化的",
         "p": 1
       },
       {
@@ -101,8 +101,8 @@
         "p": 2
       },
       {
-        "w": "authorising",
-        "zh": "authorising",
+        "w": "authorise",
+        "zh": "允许",
         "p": 2
       },
       {
@@ -191,13 +191,13 @@
         "p": 3
       },
       {
-        "w": "retrofitted",
-        "zh": "retrofitted",
+        "w": "retrofit",
+        "zh": "加装了",
         "p": 4
       },
       {
         "w": "sooner",
-        "zh": "sooner",
+        "zh": "早",
         "p": 4
       },
       {
@@ -232,12 +232,12 @@
       },
       {
         "w": "statutes",
-        "zh": "statutes",
+        "zh": "法令（复）",
         "p": 4
       },
       {
-        "w": "accelerated",
-        "zh": "accelerated",
+        "w": "accelerate",
+        "zh": "加快",
         "p": 4
       },
       {
@@ -252,7 +252,7 @@
       },
       {
         "w": "disclosed",
-        "zh": "disclosed",
+        "zh": "显露",
         "p": 5
       },
       {

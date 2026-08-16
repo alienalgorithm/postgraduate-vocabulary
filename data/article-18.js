@@ -62,7 +62,7 @@
       },
       {
         "w": "referenced",
-        "zh": "referenced",
+        "zh": "定标；参照",
         "p": 1
       },
       {
@@ -116,8 +116,8 @@
         "p": 2
       },
       {
-        "w": "scrubbed",
-        "zh": "scrubbed",
+        "w": "scrub",
+        "zh": "刷洗掉",
         "p": 2
       },
       {
@@ -196,8 +196,8 @@
         "p": 4
       },
       {
-        "w": "corroborated",
-        "zh": "corroborated",
+        "w": "corroborate",
+        "zh": "佐证了",
         "p": 4
       },
       {

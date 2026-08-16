@@ -42,11 +42,11 @@ The discovery was **collective**: Marsden counted flashes, Geiger brought experi
 
 **§1**（10词）undergraduate 本科生；大学本科的｜unusual 不同寻常的｜radioactive 放射性的｜emitter 发射源；发射体｜alpha 阿尔法；希腊字母α｜foil 薄箔；箔片｜shield 屏障；防护物｜fluorescent 发荧光的；荧光的｜screen 屏幕；屏障｜flash 闪光；闪现
 
-**§2**（10词）slightly slightly｜backward 向后的；向后｜incidence 入射；发生率｜platinum 铂；白金｜count 计数｜pupils pupils｜dilate 放大；扩张｜momentum 动量；势头｜astonishing 令人震惊的｜collision 碰撞；冲突
+**§2**（10词）slight 轻微｜backward 向后的；向后｜incidence 入射；发生率｜platinum 铂；白金｜count 计数｜pupil 瞳孔｜dilate 放大；扩张｜momentum 动量；势头｜astonishing 令人震惊的｜collision 碰撞；冲突
 
-**§3**（10词）electron 电子｜embedded embedded｜diffuse 弥散的；扩散｜encounter 相遇；遭遇｜intense 强烈的；高度集中的｜impulse 冲量；冲动｜atomic 原子的；原子能的｜volume 体积；数量；卷｜concentrated concentrated｜nucleus 原子核；核心
+**§3**（10词）electron 电子｜embed 嵌在｜diffuse 弥散的；扩散｜encounter 相遇；遭遇｜intense 强烈的；高度集中的｜impulse 冲量；冲动｜atomic 原子的；原子能的｜volume 体积；数量；卷｜concentrate 集中在｜nucleus 原子核；核心
 
-**§4**（10词）formula 公式；配方｜proportional 成比例的；相称的｜thickness 厚度｜square 平方；正方形｜inversely inversely｜fourth 第四；四分之一｜systematic 系统的；有条理的｜quantitative 定量的；数量的｜distribution 分布；分配｜confirmation 证实；确认；佐证
+**§4**（10词）formula 公式；配方｜proportional 成比例的；相称的｜thickness 厚度｜square 平方；正方形｜inversely 反比｜fourth 第四；四分之一｜systematic 系统的；有条理的｜quantitative 定量的；数量的｜distribution 分布；分配｜confirmation 证实；确认；佐证
 
 **§5**（10词）collective 集体的；共同的｜discipline 纪律；严谨规范｜deduction 推论；演绎；扣除｜empirical 经验性的；以观察为依据的｜framework 框架；体系｜textbook 教科书；教科书式的｜narrative 叙事；叙述｜revelation 揭示；顿悟；启示｜outlier 离群值；离群结果｜overturn 推翻；倾覆
 

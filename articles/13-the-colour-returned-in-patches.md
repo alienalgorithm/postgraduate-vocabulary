@@ -40,15 +40,15 @@ Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都
 
 ## 50 词速查表
 
-**§1**（10词）kernel 籽粒｜bred bred｜corn 玉米｜crosses crosses｜seed 种子｜purple 紫色的｜patch 斑块｜speckled speckled｜microscope 显微镜｜inherit 遗传
+**§1**（10词）kernel 籽粒｜breed 培育｜corn 玉米｜cross 杂交｜seed 种子｜purple 紫色的｜patch 斑块｜speckle 麻点｜microscope 显微镜｜inherit 遗传
 
 **§2**（10词）breakage 断裂｜locus 位点｜segment 段；片段｜pigment 色素｜gene 基因｜interrupt 打断｜shift 移位｜alongside 在旁；沿着｜depart 离开｜interrupter 打断者
 
-**§3**（10词）blotch 色斑｜descendant 后代｜restored restored｜excision 切离；切除｜broad 宽阔的｜sector 扇区｜fleck 碎斑｜lineage 谱系｜span 跨度｜jump 跳跃
+**§3**（10词）blotch 色斑｜descendant 后代｜restore 恢复｜excision 切离；切除｜broad 宽阔的｜sector 扇区｜fleck 碎斑｜lineage 谱系｜span 跨度｜jump 跳跃
 
-**§4**（10词）controlling controlling｜insertion 插入｜silence 使沉默｜neighbouring 邻近的｜departure 离去｜permit 准许｜ledger 账本｜announced announced｜contempt 轻蔑｜ceased ceased
+**§4**（10词）control 控制｜insertion 插入｜silence 使沉默｜neighbouring 邻近的｜departure 离去｜permit 准许｜ledger 账本｜announce 公布｜contempt 轻蔑｜cease 停止
 
-**§5**（10词）sceptic 怀疑者｜belatedly 迟迟地｜mobile 可移动的｜microbial 微生物的｜symposium 研讨会｜solely 独自地｜unshared 不与人分享的｜bulk bulk｜genome 基因组｜spotted 带斑的
+**§5**（10词）sceptic 怀疑者｜belatedly 迟迟地｜mobile 可移动的｜microbial 微生物的｜symposium 研讨会｜solely 独自地｜unshared 不与人分享的｜bulk 主体｜genome 基因组｜spotted 带斑的
 
 ---
 

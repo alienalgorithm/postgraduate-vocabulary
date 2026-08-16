@@ -71,8 +71,8 @@
         "p": 1
       },
       {
-        "w": "travelled",
-        "zh": "travelled",
+        "w": "travel",
+        "zh": "漂",
         "p": 1
       },
       {
@@ -96,8 +96,8 @@
         "p": 2
       },
       {
-        "w": "gripped",
-        "zh": "gripped",
+        "w": "grip",
+        "zh": "夹住",
         "p": 2
       },
       {
@@ -131,8 +131,8 @@
         "p": 2
       },
       {
-        "w": "squeezed",
-        "zh": "squeezed",
+        "w": "squeeze",
+        "zh": "挤",
         "p": 2
       },
       {
@@ -196,13 +196,13 @@
         "p": 4
       },
       {
-        "w": "dogs",
-        "zh": "dogs",
+        "w": "dog",
+        "zh": "狗",
         "p": 4
       },
       {
-        "w": "skis",
-        "zh": "skis",
+        "w": "ski",
+        "zh": "滑雪板",
         "p": 4
       },
       {
@@ -221,8 +221,8 @@
         "p": 4
       },
       {
-        "w": "overwintered",
-        "zh": "overwintered",
+        "w": "overwinter",
+        "zh": "熬过冬天",
         "p": 4
       },
       {
@@ -241,8 +241,8 @@
         "p": 4
       },
       {
-        "w": "emerged",
-        "zh": "emerged",
+        "w": "emerge",
+        "zh": "露",
         "p": 5
       },
       {
@@ -276,8 +276,8 @@
         "p": 5
       },
       {
-        "w": "exposing",
-        "zh": "exposing",
+        "w": "expose",
+        "zh": "揭出",
         "p": 5
       },
       {

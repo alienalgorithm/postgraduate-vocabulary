@@ -40,15 +40,15 @@ Fram **emerged** near Svalbard that August; every man went home **alive**. The *
 
 ## 50 词速查表
 
-**§1**（10词）crush 碾碎｜ship 船｜remnant 残件｜timber 木料｜victualling 给养的｜shore 岸｜travelled travelled｜floe 浮冰｜flow 水流｜basin 海盆
+**§1**（10词）crush 碾碎｜ship 船｜remnant 残件｜timber 木料｜victualling 给养的｜shore 岸｜travel 漂｜floe 浮冰｜flow 水流｜basin 海盆
 
-**§2**（10词）hull 船身｜gripped gripped｜oak 橡木｜seventy 七十｜rounded 浑圆的｜sloping 外斜的｜wedge 楔面｜pack 冰群；浮冰群｜squeezed squeezed｜inward 向内地
+**§2**（10词）hull 船身｜grip 夹住｜oak 橡木｜seventy 七十｜rounded 浑圆的｜sloping 外斜的｜wedge 楔面｜pack 冰群；浮冰群｜squeeze 挤｜inward 向内地
 
 **§3**（10词）stores 给养｜seize 扣住；抓住｜steering 操舵｜retreat 退路；撤退｜plumb 测深｜weather 天气｜wait 等待｜diary 日记｜thirteen 十三｜winter 冬天
 
-**§4**（10词）bearing 方位｜dogs dogs｜skis skis｜farthest 最远的｜poleward 近极的｜degree 度｜overwintered overwintered｜shelter 窝棚；庇护所｜hide 兽皮｜fluke 凑巧
+**§4**（10词）bearing 方位｜dog 狗｜ski 滑雪板｜farthest 最远的｜poleward 近极的｜degree 度｜overwinter 熬过冬天｜shelter 窝棚；庇护所｜hide 兽皮｜fluke 凑巧
 
-**§5**（10词）emerged emerged｜alive 活着的｜dash 猛进；冲刺｜fail 失败｜sounding 测深｜metre 米｜shallow 浅的｜exposing exposing｜chart 绘出｜onward 向前
+**§5**（10词）emerge 露｜alive 活着的｜dash 猛进；冲刺｜fail 失败｜sounding 测深｜metre 米｜shallow 浅的｜expose 揭出｜chart 绘出｜onward 向前
 
 ---
 

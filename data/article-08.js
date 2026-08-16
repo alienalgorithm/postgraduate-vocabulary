@@ -66,8 +66,8 @@
         "p": 1
       },
       {
-        "w": "telescopes",
-        "zh": "telescopes",
+        "w": "telescope",
+        "zh": "望远镜",
         "p": 1
       },
       {
@@ -86,8 +86,8 @@
         "p": 1
       },
       {
-        "w": "variables",
-        "zh": "variables",
+        "w": "variable",
+        "zh": "变星",
         "p": 1
       },
       {
@@ -101,8 +101,8 @@
         "p": 2
       },
       {
-        "w": "noticed",
-        "zh": "noticed",
+        "w": "notice",
+        "zh": "注意到",
         "p": 2
       },
       {
@@ -151,8 +151,8 @@
         "p": 3
       },
       {
-        "w": "analysed",
-        "zh": "analysed",
+        "w": "analyse",
+        "zh": "分析",
         "p": 3
       },
       {
@@ -176,23 +176,23 @@
         "p": 3
       },
       {
-        "w": "signed",
-        "zh": "signed",
+        "w": "sign",
+        "zh": "署",
         "p": 3
       },
       {
-        "w": "prepared",
-        "zh": "prepared",
+        "w": "prepare",
+        "zh": "拟就",
         "p": 3
       },
       {
-        "w": "derived",
-        "zh": "derived",
+        "w": "derive",
+        "zh": "推",
         "p": 3
       },
       {
-        "w": "pegged",
-        "zh": "pegged",
+        "w": "peg",
+        "zh": "钉",
         "p": 4
       },
       {
@@ -201,8 +201,8 @@
         "p": 4
       },
       {
-        "w": "predicted",
-        "zh": "predicted",
+        "w": "predict",
+        "zh": "预测的",
         "p": 4
       },
       {
@@ -271,8 +271,8 @@
         "p": 5
       },
       {
-        "w": "isolated",
-        "zh": "isolated",
+        "w": "isolate",
+        "zh": "分离",
         "p": 5
       },
       {

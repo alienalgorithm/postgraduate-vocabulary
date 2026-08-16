@@ -40,15 +40,15 @@ Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, oth
 
 ## 50 词速查表
 
-**§1**（10词）legislation 立法；法律｜smokestack 烟囱；大烟囱｜utility 公用事业企业；效用｜sulphur 硫｜dioxide 二氧化物；二氧化｜precursor 前体物；先驱｜deposition 沉降；沉积｜prescribe 规定；开处方｜standardised standardised｜ceiling 上限；天花板
+**§1**（10词）legislation 立法；法律｜smokestack 烟囱；大烟囱｜utility 公用事业企业；效用｜sulphur 硫｜dioxide 二氧化物；二氧化｜precursor 前体物；先驱｜deposition 沉降；沉积｜prescribe 规定；开处方｜standardise 标准化的｜ceiling 上限；天花板
 
-**§2**（10词）budget 预算｜allowance 排放额度；津贴｜authorising authorising｜scrubber 洗涤器；刷洗工具｜procure 购入；取得｜surplus 多余的；盈余｜bank 结转；留存｜flexibility 灵活性｜alternative 替代方案；可供选择的｜quota 配额；限额
+**§2**（10词）budget 预算｜allowance 排放额度；津贴｜authorise 允许｜scrubber 洗涤器；刷洗工具｜procure 购入；取得｜surplus 多余的；盈余｜bank 结转；留存｜flexibility 灵活性｜alternative 替代方案；可供选择的｜quota 配额；限额
 
 **§3**（10词）accounting 核算；会计｜sensor 传感器；感测器｜serial 序列号的；连续的｜registry 登记系统；注册处｜surrender 交回；放弃｜shortfall 不足；缺口｜penalty 处罚；罚金｜overrun 超排｜deduct 扣除｜override 凌驾于；推翻
 
-**§4**（10词）retrofitted retrofitted｜sooner sooner｜expense 代价；开支｜forecast 预料；预测｜contributor 促成因素；贡献者｜competition 竞争；比赛｜haulage 运输；运输费｜carrier 承运商；运输公司｜statutes statutes｜accelerated accelerated
+**§4**（10词）retrofit 加装了｜sooner 早｜expense 代价；开支｜forecast 预料；预测｜contributor 促成因素；贡献者｜competition 竞争；比赛｜haulage 运输；运输费｜carrier 承运商；运输公司｜statutes 法令（复）｜accelerate 加快
 
-**§5**（10词）lawmaker 立法者｜statutory 法定的；法律规定的｜disclosed disclosed｜marginal 边际的；临界的｜institutional 制度层面的；机构的｜bounded 总量受限的；有边界的｜credible 可信的｜reconciliation 对账；核对｜reallocate 重新分配；重新配置｜permission 许可；准许
+**§5**（10词）lawmaker 立法者｜statutory 法定的；法律规定的｜disclosed 显露｜marginal 边际的；临界的｜institutional 制度层面的；机构的｜bounded 总量受限的；有边界的｜credible 可信的｜reconciliation 对账；核对｜reallocate 重新分配；重新配置｜permission 许可；准许
 
 ---
 

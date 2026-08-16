@@ -81,8 +81,8 @@
         "p": 1
       },
       {
-        "w": "carved",
-        "zh": "carved",
+        "w": "carve",
+        "zh": "刻写",
         "p": 1
       },
       {
@@ -121,13 +121,13 @@
         "p": 2
       },
       {
-        "w": "realised",
-        "zh": "realised",
+        "w": "realise",
+        "zh": "意识到",
         "p": 2
       },
       {
-        "w": "sound",
-        "zh": "声音；听起来",
+        "w": "sounds",
+        "zh": "语音；声音",
         "p": 2
       },
       {
@@ -151,8 +151,8 @@
         "p": 3
       },
       {
-        "w": "pronounced",
-        "zh": "pronounced",
+        "w": "pronounce",
+        "zh": "发音",
         "p": 3
       },
       {
@@ -176,8 +176,8 @@
         "p": 3
       },
       {
-        "w": "guided",
-        "zh": "guided",
+        "w": "guide",
+        "zh": "引导",
         "p": 3
       },
       {
@@ -236,8 +236,8 @@
         "p": 4
       },
       {
-        "w": "studied",
-        "zh": "studied",
+        "w": "study",
+        "zh": "研究",
         "p": 4
       },
       {

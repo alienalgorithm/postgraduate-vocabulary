@@ -15,7 +15,7 @@ He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every 
 
 A mass **spectrometer** then **separated** the **ions** and recorded a **spectrum**. The meteorite readings were **consistent** with a single age. His 1956 report **fixed** it at 4.55 ± 0.07 billion years. Combining meteoritic and **terrestrial** lead, he **dated** early **solar**-system matter and, by inference, Earth. Later work **narrowed** the number but barely moved it.
 
-Then he asked where that stray lead came from. With Tatsumoto and Chow he sampled **ocean** water, Mount Lassen **snow** and ancient marine **sediment**. Lead was heavy at the **surface** and thinned rapidly with **depth**; Greenland **glaciers** showed it rising two-hundredfold since 800 BC, most **steeply** after 1940. The isotope **fingerprint** matched **tetraethyl** **exhaust**.
+Then he asked where that stray lead came from. With Tatsumoto and Chow he sampled **ocean** water, Mount Lassen **snow** and ancient marine **sediment**. Lead was heavy in the **shallows** and thinned rapidly with **depth**; Greenland **glaciers** showed it rising two-hundredfold since 800 BC, most **steeply** after 1940. The isotope **fingerprint** matched **tetraethyl** **exhaust**.
 
 Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Funding was **withdrawn**, and in 1971 trade **lobbying** kept him off the National Research Council **advisory** panel on **airborne** lead. The EPA began **phasing** it down in 1973; a 1986 **ban** finished it, and blood levels fell. The **contamination** he had to **banish** in order to date the planet was itself the finding.
 
@@ -32,7 +32,7 @@ Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Fundin
 
 随后质谱**仪**(spectrometer)把**离子**(ions)**分离**(separated)开，记下一道**谱**(spectrum)。陨石读数**一致**(consistent)指向同一个年龄。1956年他把这个数**定**(fixed)在45.5±0.7亿年。把陨石铅与**地表**(terrestrial)铅合起来，他为太阳系早期物质**定了年**(dated)——**太阳**(solar)系的年龄，也就推得了地球的。后来的工作**收窄**(narrowed)了这个数，却几乎没有移动它。
 
-接着他去问：那些游离的铅是从哪来的。他与辰本、周一起取**海**(ocean)水、拉森峰的**雪**(snow)和远古海洋**沉积物**(sediment)。铅在**表层**(surface)浓，随**深度**(depth)迅速稀薄；格陵兰**冰川**(glaciers)则显示，自公元前800年以来它涨了两百倍，1940年后**最陡**(steeply)。同位素**指纹**(fingerprint)与**四乙基铅**(tetraethyl)的**尾气**(exhaust)吻合。
+接着他去问：那些游离的铅是从哪来的。他与辰本、周一起取**海**(ocean)水、拉森峰的**雪**(snow)和远古海洋**沉积物**(sediment)。铅在**浅层**(shallows)浓，随**深度**(depth)迅速稀薄；格陵兰**冰川**(glaciers)则显示，自公元前800年以来它涨了两百倍，1940年后**最陡**(steeply)。同位素**指纹**(fingerprint)与**四乙基铅**(tetraethyl)的**尾气**(exhaust)吻合。
 
 乙基公司的**毒理学家**(toxicologist)罗伯特·凯霍称之为**狂热**(zealotry)。经费被**撤**(withdrawn)，1971年行业**游说**(lobbying)又把他挡在美国国家研究委员会**大气**(airborne)铅**咨询**(advisory)组之外。环保署自1973年起**分阶段**(phasing)削减，1986年的**禁令**(ban)收尾，血铅随之下降。他为了给地球定年而必须**驱除**(banish)的**污染**(contamination)，本身才是那个发现。
 
@@ -40,15 +40,15 @@ Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Fundin
 
 ## 50 词速查表
 
-**§1**（10词）nuclear 核的｜decay 衰变｜uranium 铀｜isotope 同位素｜convert 转变；转换｜clock 时钟｜crustal 地壳的｜meteorite 陨石｜origin 起源｜rate 速率
+**§1**（10词）nuclear 核的｜decay 衰变｜uranium 铀｜isotope 同位素｜convert 转变；转换｜rate 速率｜clock 时钟｜crustal 地壳的｜meteorite 陨石｜origin 起源
 
 **§2**（10词）blank 空白样｜dust 灰尘｜reagent 试剂｜surface 器壁；表面｜glassware 玻璃器皿｜contaminate 污染｜clean 洁净的｜filter 过滤｜seal 密封｜acid 酸
 
-**§3**（10词）spectrometer 质谱仪｜ion 离子｜separate 分离｜spectrum 谱｜consistent 一致的｜terrestrial 地表的；陆地的｜date 定年｜solar 太阳的｜narrow 收窄｜fix 确定；固定
+**§3**（10词）spectrometer 质谱仪｜separate 分离｜ion 离子｜spectrum 谱｜consistent 一致的｜fix 确定；固定｜terrestrial 地表的；陆地的｜date 定年｜solar 太阳的｜narrow 收窄
 
-**§4**（10词）ocean 海洋｜snow 雪｜sediment 沉积物｜depth 深度｜glacier 冰川｜steeply 陡峭地｜fingerprint 指纹｜tetraethyl 四乙基的｜exhaust 尾气｜stray 游离的
+**§4**（10词）ocean 海洋｜snow 雪｜sediment 沉积物｜shallows 浅层｜depth 深度｜glacier 冰川｜steeply 陡峭地｜fingerprint 指纹｜tetraethyl 四乙基的｜exhaust 尾气
 
-**§5**（10词）toxicologist 毒理学家｜zealotry 狂热｜withdraw 撤回｜lobby 游说｜advisory 咨询的｜phase 分阶段进行｜ban 禁令｜banish 驱除｜contamination 污染｜airborne 大气中的；空气传播的
+**§5**（10词）toxicologist 毒理学家｜zealotry 狂热｜withdrawn 撤｜lobby 游说｜advisory 咨询的｜airborne 大气中的；空气传播的｜phase 分阶段进行｜ban 禁令｜contamination 污染｜banish 驱除
 
 ---
 

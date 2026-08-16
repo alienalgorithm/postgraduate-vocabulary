@@ -42,13 +42,13 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go insid
 
 **§1**（10词）descent 下降｜cockpit 座舱｜readout 显示屏；读数｜alarm 警报｜touchdown 着陆｜spasm 痉挛；阵发｜lander 着陆器｜outrun 超出；跑过头｜elapsed 已过去的｜cycle 周期
 
-**§2**（10词）rendezvous 交会｜radar 雷达｜contingency 预案；意外情况｜abort 中止｜mismatch 错配｜processor 处理器｜capacity 算力；容量｜claim 占去；索取｜keyed keyed｜slack 余量
+**§2**（10词）rendezvous 交会｜radar 雷达｜contingency 预案；意外情况｜abort 中止｜mismatch 错配｜processor 处理器｜capacity 算力；容量｜claim 占去；索取｜key 敲｜slack 余量
 
 **§3**（10词）defence 防线｜executive 执行程序｜priority 优先级｜workspace 工作区｜restart 重启｜dump 丢弃｜ranking 位次的｜essential 要害的｜checkpoint 检查点｜guidance 制导
 
-**§4**（10词）simulation 模拟｜evacuation 撤离｜order 下令｜variant 情形；变体｜handwrote handwrote｜plexiglass 有机玻璃｜console 控制台｜rule 规则｜unless 除非｜incessant 接连不断的
+**§4**（10词）simulation 模拟｜evacuation 撤离｜order 下令｜variant 情形；变体｜handwrite 手写｜plexiglass 有机玻璃｜console 控制台｜rule 规则｜unless 除非｜incessant 接连不断的
 
-**§5**（10词）telemetry 遥测｜tick 滴答｜fuel 燃料｜resilient 有韧性的｜overload 过载｜collapsing collapsing｜hierarchy 层级｜sacrifice 舍弃｜preserve 保住；保存｜crisis 危机
+**§5**（10词）telemetry 遥测｜tick 滴答｜fuel 燃料｜resilient 有韧性的｜overload 过载｜collapsing 垮塌；崩溃｜hierarchy 层级｜sacrifice 舍弃｜preserve 保住；保存｜crisis 危机
 
 ---
 

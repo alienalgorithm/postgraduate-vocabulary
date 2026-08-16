@@ -171,8 +171,8 @@
         "p": 3
       },
       {
-        "w": "tripped",
-        "zh": "tripped",
+        "w": "trip",
+        "zh": "触发",
         "p": 3
       },
       {
@@ -211,8 +211,8 @@
         "p": 4
       },
       {
-        "w": "pared",
-        "zh": "pared",
+        "w": "pare",
+        "zh": "削",
         "p": 4
       },
       {
@@ -266,8 +266,8 @@
         "p": 5
       },
       {
-        "w": "mandated",
-        "zh": "mandated",
+        "w": "mandate",
+        "zh": "规定",
         "p": 5
       },
       {
@@ -286,8 +286,8 @@
         "p": 5
       },
       {
-        "w": "stopped",
-        "zh": "stopped",
+        "w": "stop",
+        "zh": "停下",
         "p": 5
       }
     ],

@@ -52,7 +52,7 @@
       },
       {
         "w": "swung",
-        "zh": "swung",
+        "zh": "摆",
         "p": 1
       },
       {
@@ -62,12 +62,12 @@
       },
       {
         "w": "lying",
-        "zh": "lying",
+        "zh": "躺",
         "p": 1
       },
       {
         "w": "reversed",
-        "zh": "reversed",
+        "zh": "倒",
         "p": 1
       },
       {
@@ -92,7 +92,7 @@
       },
       {
         "w": "wound",
-        "zh": "wound",
+        "zh": "绕",
         "p": 2
       },
       {
@@ -102,7 +102,7 @@
       },
       {
         "w": "halves",
-        "zh": "halves",
+        "zh": "半",
         "p": 2
       },
       {
@@ -192,7 +192,7 @@
       },
       {
         "w": "spinning",
-        "zh": "spinning",
+        "zh": "旋转",
         "p": 4
       },
       {
@@ -282,12 +282,12 @@
       },
       {
         "w": "stepped",
-        "zh": "stepped",
+        "zh": "升",
         "p": 5
       },
       {
         "w": "carried",
-        "zh": "carried",
+        "zh": "输送",
         "p": 5
       }
     ],

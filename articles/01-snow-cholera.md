@@ -40,15 +40,15 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** found
 
 ## 50 词速查表
 
-**§1**（10词）cholera 霍乱｜prevailing 主流的；盛行的｜opinion 意见｜blamed blamed｜foul 污浊的｜physician 内科医生｜nearby 附近的｜doubt 怀疑；不信｜drew drew｜supply 水源；供给
+**§1**（10词）cholera 霍乱｜prevailing 主流的；盛行的｜opinion 意见｜blame 算在｜foul 污浊的｜physician 内科医生｜nearby 附近的｜doubt 怀疑；不信｜draw 打｜supply 水源；供给
 
-**§2**（10词）stroke 短线；一划｜address 门牌；地址｜map 地图｜neighbourhood 街区｜strokes 短线；一划｜gather 聚拢｜pump 水泵｜thinned thinned｜pattern 分布；模式｜exception 例外
+**§2**（10词）stroke 短线；一划｜address 门牌；地址｜map 地图｜neighbourhood 街区｜strokes 短线；一划｜gather 聚拢｜pump 水泵｜thin 稀疏｜pattern 分布；模式｜exception 例外
 
-**§3**（10词）workhouse 济贫院｜inmate 院民；被收容者｜zone 区域｜borehole 钻井｜record 记录在案｜brewery 酿酒厂｜beside 紧挨着｜supplied 配给的｜stench 恶臭｜emptied emptied
+**§3**（10词）workhouse 济贫院｜inmate 院民；被收容者｜zone 区域｜borehole 钻井｜record 记录在案｜brewery 酿酒厂｜beside 紧挨着｜supplied 水源；供给｜stench 恶臭｜empty 清空
 
-**§4**（10词）widow 寡妇｜remote 远离的；偏远的｜taste 口感；味道｜deliver 送递｜niece 外甥女；侄女｜drank drank｜refute 驳倒｜miasma 瘴气｜infection 传染｜anomaly 异常
+**§4**（10词）widow 寡妇｜remote 远离的；偏远的｜taste 口感；味道｜deliver 送递｜niece 外甥女；侄女｜drink 喝｜refute 驳倒｜miasma 瘴气｜infection 传染｜anomaly 异常
 
-**§5**（10词）parish 教区｜removed removed｜handle 把手｜digger 挖掘工｜cesspit 粪坑｜fading fading｜accept 接受｜profession 行当；职业｜unconvinced 不相信的｜certainty 确定性
+**§5**（10词）parish 教区｜remove 卸下｜handle 把手｜digger 挖掘工｜cesspit 粪坑｜fade 消退｜accept 接受｜profession 行当；职业｜unconvinced 不相信的｜certainty 确定性
 
 ---
 

@@ -91,8 +91,8 @@
         "p": 1
       },
       {
-        "w": "slightly",
-        "zh": "slightly",
+        "w": "slight",
+        "zh": "轻微",
         "p": 2
       },
       {
@@ -116,8 +116,8 @@
         "p": 2
       },
       {
-        "w": "pupils",
-        "zh": "pupils",
+        "w": "pupil",
+        "zh": "瞳孔",
         "p": 2
       },
       {
@@ -146,8 +146,8 @@
         "p": 3
       },
       {
-        "w": "embedded",
-        "zh": "embedded",
+        "w": "embed",
+        "zh": "嵌在",
         "p": 3
       },
       {
@@ -181,8 +181,8 @@
         "p": 3
       },
       {
-        "w": "concentrated",
-        "zh": "concentrated",
+        "w": "concentrate",
+        "zh": "集中在",
         "p": 3
       },
       {
@@ -212,7 +212,7 @@
       },
       {
         "w": "inversely",
-        "zh": "inversely",
+        "zh": "反比",
         "p": 4
       },
       {

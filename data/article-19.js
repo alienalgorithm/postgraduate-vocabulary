@@ -131,8 +131,8 @@
         "p": 2
       },
       {
-        "w": "keyed",
-        "zh": "keyed",
+        "w": "key",
+        "zh": "敲",
         "p": 2
       },
       {
@@ -211,8 +211,8 @@
         "p": 4
       },
       {
-        "w": "handwrote",
-        "zh": "handwrote",
+        "w": "handwrite",
+        "zh": "手写",
         "p": 4
       },
       {
@@ -267,7 +267,7 @@
       },
       {
         "w": "collapsing",
-        "zh": "collapsing",
+        "zh": "垮塌；崩溃",
         "p": 5
       },
       {

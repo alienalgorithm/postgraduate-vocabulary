@@ -40,15 +40,15 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 ## 50 词速查表
 
-**§1**（10词）astronomy 天文学｜employ 雇用｜inspect 检查；检视｜plate 摄影底片；板｜merit 本事；功绩｜telescopes telescopes｜tedious 单调费力的｜task 任务｜catalogue 编目；编入目录｜variables variables
+**§1**（10词）astronomy 天文学｜employ 雇用｜inspect 检查；检视｜plate 摄影底片；板｜merit 本事；功绩｜telescope 望远镜｜tedious 单调费力的｜task 任务｜catalogue 编目；编入目录｜variable 变星
 
-**§2**（10词）regular 有规律的；定期的｜rhythm 节律；节奏｜noticed noticed｜smudge 一片；污迹｜advantage 优势｜faint 暗淡的；微弱的｜distance 距离｜assumption 假设｜relative 相对的｜intrinsic 本征的；固有的
+**§2**（10词）regular 有规律的；定期的｜rhythm 节律；节奏｜notice 注意到｜smudge 一片；污迹｜advantage 优势｜faint 暗淡的；微弱的｜distance 距离｜assumption 假设｜relative 相对的｜intrinsic 本征的；固有的
 
-**§3**（10词）tendency 趋势；倾向｜period 周期｜analysed analysed｜magnitude 星等；大小｜logarithm 对数｜cadence 规律；节律｜correspond 对应；相符｜signed signed｜prepared prepared｜derived derived
+**§3**（10词）tendency 趋势；倾向｜period 周期｜analyse 分析｜magnitude 星等；大小｜logarithm 对数｜cadence 规律；节律｜correspond 对应；相符｜sign 署｜prepare 拟就｜derive 推
 
-**§4**（10词）pegged pegged｜yardstick 尺；准绳｜predicted predicted｜reach 距程；触及范围｜establish 确立；证实｜galaxy 星系｜beyond 在……之外｜foundation 基础｜universe 宇宙｜expansion 膨胀；扩张
+**§4**（10词）peg 钉｜yardstick 尺；准绳｜predict 预测的｜reach 距程；触及范围｜establish 确立；证实｜galaxy 星系｜beyond 在……之外｜foundation 基础｜universe 宇宙｜expansion 膨胀；扩张
 
-**§5**（10词）contribution 贡献｜crucial 至关重要的｜modest 克制的；有限的｜eliminate 排除；消除｜factor 因素｜constant 不变的；常量｜isolated isolated｜infer 推断｜honour 荣誉｜posthumous 追授的；身后的
+**§5**（10词）contribution 贡献｜crucial 至关重要的｜modest 克制的；有限的｜eliminate 排除；消除｜factor 因素｜constant 不变的；常量｜isolate 分离｜infer 推断｜honour 荣誉｜posthumous 追授的；身后的
 
 ---
 

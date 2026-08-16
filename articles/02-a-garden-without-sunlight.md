@@ -40,13 +40,13 @@ ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面�
 
 ## 50 词速查表
 
-**§1**（10词）geological 地质的｜expedition 考察队；远征｜aboard 乘（船/机）；在船上｜towed towed｜sled 拖橇；雪橇｜tectonic 板块构造的｜seep 渗出｜basalt 玄武岩｜register 记录到；登记｜spike 骤升；尖峰
+**§1**（10词）geological 地质的｜expedition 考察队；远征｜aboard 乘（船/机）；在船上｜tow 拖｜sled 拖橇；雪橇｜tectonic 板块构造的｜seep 渗出｜basalt 玄武岩｜register 记录到；登记｜spike 骤升；尖峰
 
 **§2**（10词）frame 帧；画面｜barren 荒芜的；贫瘠的｜successive 连续的｜submersible 深潜器；可潜的｜expect 预期｜sparse 稀疏的｜debris 碎屑；残骸｜shimmer 微微晃动；闪烁｜fissure 裂隙｜crowd 挤满；人群
 
-**§3**（10词）biologist 生物学家｜formaldehyde 甲醛｜specimen 标本｜vial 小瓶｜vent 喷口；出口｜sulphide 硫化物｜toxic 有毒的｜dissolved dissolved｜colony 群落；殖民地｜abundance 繁盛；丰富
+**§3**（10词）biologist 生物学家｜formaldehyde 甲醛｜specimen 标本｜vial 小瓶｜vent 喷口；出口｜sulphide 硫化物｜toxic 有毒的｜dissolve 溶解｜colony 群落；殖民地｜abundance 繁盛；丰富
 
-**§4**（10词）bacteria 细菌｜oxidise 氧化｜organic 有机的｜photosynthesis 光合作用｜graze 啃食；放牧｜worm 虫｜gut 肠道｜housing housing｜microbe 微生物｜host 宿主；主人
+**§4**（10词）bacteria 细菌｜oxidise 氧化｜organic 有机的｜photosynthesis 光合作用｜graze 啃食；放牧｜worm 虫｜gut 肠道｜house 养着｜microbe 微生物｜host 宿主；主人
 
 **§5**（10词）reveal 揭示｜footing 立足处；基础｜web 网｜sustain 支撑；维持｜planet 行星｜widen 拓宽｜habitable 宜居的｜boundary 边界｜chemistry 化学过程；化学｜gradient 梯度；坡度
 

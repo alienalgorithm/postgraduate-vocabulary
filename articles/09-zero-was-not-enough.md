@@ -40,15 +40,15 @@ India was the hardest test: in 1974 it held two-thirds of the **caseload**; by 1
 
 ## 50 词速查表
 
-**§1**（10词）cook 厨工｜infirmary 医务所｜erupt 发出；爆发｜rash 皮疹｜patient 病人｜diagnosed diagnosed｜nurse 护士｜notified notified｜acquire 染上；获得｜ordinary 寻常的
+**§1**（10词）cook 厨工｜infirmary 医务所｜erupt 发出；爆发｜rash 皮疹｜patient 病人｜diagnose 诊断｜nurse 护士｜notify 通报｜acquire 染上；获得｜ordinary 寻常的
 
-**§2**（10词）disease 疾病｜struck struck｜survivor 幸存者｜scarred scarred｜intensified intensified｜global 全球的｜coverage 接种率；覆盖｜gauge 标尺；量规｜province 省｜conceal 藏匿
+**§2**（10词）disease 疾病｜strike 击中｜survivor 幸存者｜scar 疤痕｜intensify 加强｜global 全球的｜coverage 接种率；覆盖｜gauge 标尺；量规｜province 省｜conceal 藏匿
 
 **§3**（10词）shortage 短缺｜suspected 疑似的｜serum 疫苗；血清｜ring 围成一圈｜kinship 亲缘｜bazaar 集市｜surveillance 监测｜containment 围堵｜standing 常设的｜strategy 方略
 
 **§4**（10词）tropical 热带的｜bifurcated 双叉的｜needle 针｜dose 剂量｜instruction 培训；指示｜pierce 刺入｜skin 皮肤｜scarce 紧缺的｜silent 不声不响的｜incubation 潜伏期
 
-**§5**（10词）caseload 病例总量｜chain 链｜broken broken｜laboratory 实验室｜leak 泄漏｜certified certified｜declared declared｜polio 脊髓灰质炎｜vanish 消失｜rely 依靠
+**§5**（10词）caseload 病例总量｜chain 链｜break 切断｜laboratory 实验室｜leak 泄漏｜certify 认证｜declare 宣布｜polio 脊髓灰质炎｜vanish 消失｜rely 依靠
 
 ---
 

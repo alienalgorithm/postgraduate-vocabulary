@@ -66,8 +66,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "blamed",
-        "zh": "blamed",
+        "w": "blame",
+        "zh": "算在",
         "p": 1
       },
       {
@@ -91,8 +91,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "drew",
-        "zh": "drew",
+        "w": "draw",
+        "zh": "打",
         "p": 1
       },
       {
@@ -136,8 +136,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "thinned",
-        "zh": "thinned",
+        "w": "thin",
+        "zh": "稀疏",
         "p": 2
       },
       {
@@ -187,7 +187,7 @@ window.SITE = {
       },
       {
         "w": "supplied",
-        "zh": "配给的",
+        "zh": "水源；供给",
         "p": 3
       },
       {
@@ -196,8 +196,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "emptied",
-        "zh": "emptied",
+        "w": "empty",
+        "zh": "清空",
         "p": 3
       },
       {
@@ -226,8 +226,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "drank",
-        "zh": "drank",
+        "w": "drink",
+        "zh": "喝",
         "p": 4
       },
       {
@@ -256,8 +256,8 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "removed",
-        "zh": "removed",
+        "w": "remove",
+        "zh": "卸下",
         "p": 5
       },
       {
@@ -276,8 +276,8 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "fading",
-        "zh": "fading",
+        "w": "fade",
+        "zh": "消退",
         "p": 5
       },
       {
@@ -366,8 +366,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "towed",
-        "zh": "towed",
+        "w": "tow",
+        "zh": "拖",
         "p": 1
       },
       {
@@ -486,8 +486,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "dissolved",
-        "zh": "dissolved",
+        "w": "dissolve",
+        "zh": "溶解",
         "p": 3
       },
       {
@@ -536,8 +536,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "housing",
-        "zh": "housing",
+        "w": "house",
+        "zh": "养着",
         "p": 4
       },
       {
@@ -718,8 +718,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "agreed",
-        "zh": "agreed",
+        "w": "agree",
+        "zh": "吻合",
         "p": 2
       },
       {
@@ -738,8 +738,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "hesitated",
-        "zh": "hesitated",
+        "w": "hesitate",
+        "zh": "犹豫",
         "p": 2
       },
       {
@@ -758,8 +758,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "flagged",
-        "zh": "flagged",
+        "w": "flag",
+        "zh": "标记",
         "p": 3
       },
       {
@@ -798,18 +798,18 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "anticipated",
-        "zh": "anticipated",
+        "w": "anticipate",
+        "zh": "预见到",
         "p": 4
       },
       {
-        "w": "tuned",
-        "zh": "tuned",
+        "w": "tune",
+        "zh": "调校",
         "p": 4
       },
       {
-        "w": "simulated",
-        "zh": "simulated",
+        "w": "simulate",
+        "zh": "模拟",
         "p": 4
       },
       {
@@ -1040,8 +1040,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "refining",
-        "zh": "refining",
+        "w": "refine",
+        "zh": "打磨",
         "p": 2
       },
       {
@@ -1050,8 +1050,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "inches",
-        "zh": "inches",
+        "w": "inch",
+        "zh": "英寸",
         "p": 3
       },
       {
@@ -1090,8 +1090,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "tolerated",
-        "zh": "tolerated",
+        "w": "tolerate",
+        "zh": "容许",
         "p": 3
       },
       {
@@ -1120,8 +1120,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "erred",
-        "zh": "erred",
+        "w": "err",
+        "zh": "误差",
         "p": 4
       },
       {
@@ -1175,8 +1175,8 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "sighting",
-        "zh": "sighting",
+        "w": "sight",
+        "zh": "观测",
         "p": 5
       },
       {
@@ -1214,9 +1214,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第五篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 269,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.6
     },
     "paras": [
       {
@@ -1232,8 +1232,8 @@ window.SITE = {
         "zh": "到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)。"
       },
       {
-        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a check **digit** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and the **widths** of bars became a number. On that gum it read 036000291452: a maker and an item, nothing more.",
-        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验位**(digit)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那条口香糖上的数是036000291452：一个厂商，一件商品，此外什么也没有。"
+        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and the **widths** of bars became a number. On that gum it read 036000291452: a maker and an item, nothing more.",
+        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那条口香糖上的数是036000291452：一个厂商，一件商品，此外什么也没有。"
       },
       {
         "en": "A **database** held the **description** and price, so prices changed without reprinting a wrapper, and each sale updated **inventory**. Machinery alone was no system: stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps that wrapper: the bars held a number, the price was elsewhere.",
@@ -1262,8 +1262,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "sunk",
-        "zh": "sunk",
+        "w": "sink",
+        "zh": "沉",
         "p": 1
       },
       {
@@ -1397,13 +1397,13 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "digits",
-        "zh": "数位（复）",
+        "w": "digit",
+        "zh": "数字；位",
         "p": 4
       },
       {
-        "w": "digit",
-        "zh": "数字；位",
+        "w": "checksum",
+        "zh": "校验和",
         "p": 4
       },
       {
@@ -1422,8 +1422,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "swept",
-        "zh": "swept",
+        "w": "sweep",
+        "zh": "扫",
         "p": 4
       },
       {
@@ -1584,8 +1584,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "mined",
-        "zh": "mined",
+        "w": "mine",
+        "zh": "开采",
         "p": 1
       },
       {
@@ -1594,8 +1594,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "circulated",
-        "zh": "circulated",
+        "w": "circulate",
+        "zh": "循环",
         "p": 2
       },
       {
@@ -1634,8 +1634,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "recycled",
-        "zh": "recycled",
+        "w": "recycle",
+        "zh": "回收",
         "p": 2
       },
       {
@@ -1694,8 +1694,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "magnified",
-        "zh": "magnified",
+        "w": "magnify",
+        "zh": "放大",
         "p": 4
       },
       {

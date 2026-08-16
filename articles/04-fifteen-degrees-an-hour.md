@@ -42,13 +42,13 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 **§1**（10词）latitude 纬度｜readily 轻易地｜longitude 经度｜meridian 子午线｜noon 正午｜reference 参照｜fifteen 十五｜arc 弧｜arithmetic 算术｜deck 甲板
 
-**§2**（10词）thirty 三十｜nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜resist 抵抗｜friction 摩擦｜flaw 缺陷｜ashore 在岸上｜nineteen 十九｜refining refining
+**§2**（10词）thirty 三十｜nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜resist 抵抗｜friction 摩擦｜flaw 缺陷｜ashore 在岸上｜nineteen 十九｜refine 打磨
 
-**§3**（10词）portable 便携的｜inches inches｜balance 摆轮；平衡｜bimetallic 双金属的｜strip 片；条｜jewelled 嵌宝石的｜pivot 枢轴｜eighty 八十｜gap 差；缺口｜tolerated tolerated
+**§3**（10词）portable 便携的｜inch 英寸｜balance 摆轮；平衡｜bimetallic 双金属的｜strip 片；条｜jewelled 嵌宝石的｜pivot 枢轴｜eighty 八十｜gap 差；缺口｜tolerate 容许
 
-**§4**（10词）commissioner 评审委员；专员｜balk 迟疑；退缩｜champion 力主；拥护｜astronomical 天文的｜observation 观测｜erred erred｜forty 四十｜principle 原理｜maker 制作者｜replicate 复制
+**§4**（10词）commissioner 评审委员；专员｜balk 迟疑；退缩｜champion 力主；拥护｜astronomical 天文的｜observation 观测｜err 误差｜forty 四十｜principle 原理｜maker 制作者｜replicate 复制
 
-**§5**（10词）gain 走差；增益｜exceed 超过｜grant 拨给；授予｜chronometer 航海钟｜costly 昂贵的｜navigator 航海者｜sighting sighting｜sextant 六分仪｜almanac 天文年历｜decade 十年
+**§5**（10词）gain 走差；增益｜exceed 超过｜grant 拨给；授予｜chronometer 航海钟｜costly 昂贵的｜navigator 航海者｜sight 观测｜sextant 六分仪｜almanac 天文年历｜decade 十年
 
 ---
 

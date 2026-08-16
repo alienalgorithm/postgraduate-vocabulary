@@ -46,8 +46,8 @@
         "p": 1
       },
       {
-        "w": "bred",
-        "zh": "bred",
+        "w": "breed",
+        "zh": "培育",
         "p": 1
       },
       {
@@ -56,8 +56,8 @@
         "p": 1
       },
       {
-        "w": "crosses",
-        "zh": "crosses",
+        "w": "cross",
+        "zh": "杂交",
         "p": 1
       },
       {
@@ -76,8 +76,8 @@
         "p": 1
       },
       {
-        "w": "speckled",
-        "zh": "speckled",
+        "w": "speckle",
+        "zh": "麻点",
         "p": 1
       },
       {
@@ -151,8 +151,8 @@
         "p": 3
       },
       {
-        "w": "restored",
-        "zh": "restored",
+        "w": "restore",
+        "zh": "恢复",
         "p": 3
       },
       {
@@ -191,8 +191,8 @@
         "p": 3
       },
       {
-        "w": "controlling",
-        "zh": "controlling",
+        "w": "control",
+        "zh": "控制",
         "p": 4
       },
       {
@@ -226,8 +226,8 @@
         "p": 4
       },
       {
-        "w": "announced",
-        "zh": "announced",
+        "w": "announce",
+        "zh": "公布",
         "p": 4
       },
       {
@@ -236,8 +236,8 @@
         "p": 4
       },
       {
-        "w": "ceased",
-        "zh": "ceased",
+        "w": "cease",
+        "zh": "停止",
         "p": 4
       },
       {
@@ -277,7 +277,7 @@
       },
       {
         "w": "bulk",
-        "zh": "bulk",
+        "zh": "主体",
         "p": 5
       },
       {

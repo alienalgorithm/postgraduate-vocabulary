@@ -40,13 +40,13 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 
 ## 50 词速查表
 
-**§1**（10词）fifth 五分之一｜nitrogen 氮｜compound 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜lean 倚靠｜manure 厩肥｜nitrate 硝石；硝酸盐｜mined mined
+**§1**（10词）fifth 五分之一｜nitrogen 氮｜compound 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜lean 倚靠｜manure 厩肥｜nitrate 硝石；硝酸盐｜mine 开采
 
-**§2**（10词）apparatus 装置｜circulated circulated｜catalyst 催化剂｜atmosphere 大气压；气氛｜favour 有利于｜ammonia 氨｜hasten 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycled recycled
+**§2**（10词）apparatus 装置｜circulate 循环｜catalyst 催化剂｜atmosphere 大气压；气氛｜favour 有利于｜ammonia 氨｜hasten 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycle 回收
 
 **§3**（10词）steel 钢｜carbon 碳｜vessel 容器｜walled 有壁的｜liner 内衬｜weaken 削弱｜sift 筛选｜catalysts 催化剂｜potassium 钾｜alumina 铝土；氧化铝
 
-**§4**（10词）tonne 吨｜magnified magnified｜fertiliser 化肥｜harvest 收成｜blockade 封锁｜sever 切断｜nitric 硝的｜reactor 反应器｜explosive 炸药｜munition 弹药
+**§4**（10词）tonne 吨｜magnify 放大｜fertiliser 化肥｜harvest 收成｜blockade 封锁｜sever 切断｜nitric 硝的｜reactor 反应器｜explosive 炸药｜munition 弹药
 
 **§5**（10词）indispensable 不可或缺的｜consume 消耗｜hydrogen 氢｜fossil 化石的｜emission 排放｜upstream 上游的｜renewable 可再生的｜substitute 替代｜efficiency 效率｜excess 过量的
 

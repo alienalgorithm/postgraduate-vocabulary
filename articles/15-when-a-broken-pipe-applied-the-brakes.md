@@ -44,11 +44,11 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 
 **§2**（10词）remedy 对策；补救｜bellows 气泵；风箱｜pipe 管｜piston 活塞｜lever 杠杆｜shoe 闸瓦｜column 气柱；柱｜hose 软管｜burst 爆裂｜coupling 挂钩；联轴
 
-**§3**（10词）invert 倒转｜carriage 车厢｜reservoir 风缸；蓄水池｜charged 充满的｜sudden 骤然的｜collapse 垮掉；崩溃｜tripped tripped｜triple 三通的；三重的｜valve 阀｜cylinder 缸
+**§3**（10词）invert 倒转｜carriage 车厢｜reservoir 风缸；蓄水池｜charged 充满的｜sudden 骤然的｜collapse 垮掉；崩溃｜trip 触发｜triple 三通的；三重的｜valve 阀｜cylinder 缸
 
-**§4**（10词）fifty 五十｜rake 编组；一列车｜twenty 二十｜second 秒｜pared pared｜quick 快速的｜redesign 改型｜trigger 触发｜trial 试验｜frail 脆弱的
+**§4**（10词）fifty 五十｜rake 编组；一列车｜twenty 二十｜second 秒｜pare 削｜quick 快速的｜redesign 改型｜trigger 触发｜trial 试验｜frail 脆弱的
 
-**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜press 推动；施压｜ordinance 法令｜statute 法条｜mandated mandated｜capability 能力｜brand 品牌｜part 断开；分离｜stopped stopped
+**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜press 推动；施压｜ordinance 法令｜statute 法条｜mandate 规定｜capability 能力｜brand 品牌｜part 断开；分离｜stop 停下
 
 ---
 

@@ -40,13 +40,13 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 
 ## 50 词速查表
 
-**§1**（10词）ancient 古代的｜stone 石料；石头｜fragment 残片；碎片｜decree 法令；政令｜era 时代；年代｜priest 祭司；神职人员｜pharaoh 法老｜render 以某种形式呈现；表达｜carved carved｜intelligible 可以理解的；明白易懂的
+**§1**（10词）ancient 古代的｜stone 石料；石头｜fragment 残片；碎片｜decree 法令；政令｜era 时代；年代｜priest 祭司；神职人员｜pharaoh 法老｜render 以某种形式呈现；表达｜carve 刻写｜intelligible 可以理解的；明白易懂的
 
-**§2**（10词）passage 文本段落；通道｜parallel 平行对应的；平行的｜exact 精确相符的；准确的｜familiar 熟悉的｜clue 线索｜oval 椭圆形的；椭圆｜realised realised｜sound 声音；听起来｜tentative 初步的；试探性的｜anchor 可靠起点；锚
+**§2**（10词）passage 文本段落；通道｜parallel 平行对应的；平行的｜exact 精确相符的；准确的｜familiar 熟悉的｜clue 线索｜oval 椭圆形的；椭圆｜realise 意识到｜sounds 语音；声音｜tentative 初步的；试探性的｜anchor 可靠起点；锚
 
-**§3**（10词）scholar 学者｜idiom 语体；习语｜pronounced pronounced｜additional 更多的；额外的｜royal 王室的；皇家的｜argument 论述；论点｜hybrid 混合的；混合物｜guided guided｜function 功能；作用｜context 语境；上下文
+**§3**（10词）scholar 学者｜idiom 语体；习语｜pronounce 发音｜additional 更多的；额外的｜royal 王室的；皇家的｜argument 论述；论点｜hybrid 混合的；混合物｜guide 引导｜function 功能；作用｜context 语境；上下文
 
-**§4**（10词）alphabet 字母表｜lone 孤零零的｜represent 表示；代表｜sequence 一串；序列｜category 类别｜complex 复杂的｜confusion 混淆；困惑｜interpret 解读；解释｜archive 档案；档案库｜studied studied
+**§4**（10词）alphabet 字母表｜lone 孤零零的｜represent 表示；代表｜sequence 一串；序列｜category 类别｜complex 复杂的｜confusion 混淆；困惑｜interpret 解读；解释｜archive 档案；档案库｜study 研究
 
 **§5**（10词）romantic 浪漫化的；浪漫的｜myth 迷思；神话｜solitary 孤身一人的；独自的｜genius 天才｜rival 竞争对手；竞争的｜dispute 争议；对……有争议｜cumulative 逐步累积的｜testimony 佐证；证词｜verify 核验；证实｜puzzle 谜题；难题
 

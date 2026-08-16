@@ -40,13 +40,13 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 ## 50 词速查表
 
-**§1**（10词）astronomer 天文学家｜horn 号角；喇叭口｜antenna 天线｜microwave 微波｜referenced referenced｜load 负载｜zenith 天顶｜residual 残余的；剩余量｜hiss 嘶声；嘶嘶作响｜equivalent 相当的；等价物
+**§1**（10词）astronomer 天文学家｜horn 号角；喇叭口｜antenna 天线｜microwave 微波｜referenced 定标；参照｜load 负载｜zenith 天顶｜residual 残余的；剩余量｜hiss 嘶声；嘶嘶作响｜equivalent 相当的；等价物
 
-**§2**（10词）seam 接缝｜joint 连接处；关节｜interference 干扰｜pigeon 鸽子｜roost 栖息；栖息处｜scrubbed scrubbed｜dropping 粪便；滴下物｜isotropic 各向同性的｜unpolarised 未偏振的｜seasonal 季节性的
+**§2**（10词）seam 接缝｜joint 连接处；关节｜interference 干扰｜pigeon 鸽子｜roost 栖息；栖息处｜scrub 刷洗掉｜dropping 粪便；滴下物｜isotropic 各向同性的｜unpolarised 未偏振的｜seasonal 季节性的
 
 **§3**（10词）physicist 物理学家｜radiometer 辐射计｜relic 遗存；遗物｜primordial 原初的；远古的｜coincidence 巧合；同时发生｜collaboration 合作｜companion 配套的；同伴｜write-up 记述｜interpretation 解释；阐释｜provisional 暂定的；临时的
 
-**§4**（10词）wavelength 波长｜corroborated corroborated｜cosmic 宇宙的｜background 背景｜radiation 辐射｜profile 轮廓；谱形｜fluctuation 起伏；波动｜anisotropy 各向异性｜thermal 热的；热力的｜signature 特征；签名
+**§4**（10词）wavelength 波长｜corroborate 佐证了｜cosmic 宇宙的｜background 背景｜radiation 辐射｜profile 轮廓；谱形｜fluctuation 起伏；波动｜anisotropy 各向异性｜thermal 热的；热力的｜signature 特征；签名
 
 **§5**（10词）serendipity 偶然发现；意外所得｜craftsmanship 工艺；技艺｜subtraction 扣除；减法｜remainder 剩余量；余数｜trustworthy 可信的｜cosmological 宇宙学的｜afterglow 余辉｜whisper 低语；轻声说｜homegrown 自家的；本土的｜culprit 罪魁；可疑来源
 

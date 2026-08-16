@@ -146,8 +146,8 @@
         "p": 3
       },
       {
-        "w": "attributed",
-        "zh": "attributed",
+        "w": "attribute",
+        "zh": "归因于",
         "p": 3
       },
       {
@@ -156,8 +156,8 @@
         "p": 3
       },
       {
-        "w": "examined",
-        "zh": "examined",
+        "w": "examine",
+        "zh": "查验了",
         "p": 3
       },
       {

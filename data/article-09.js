@@ -66,8 +66,8 @@
         "p": 1
       },
       {
-        "w": "diagnosed",
-        "zh": "diagnosed",
+        "w": "diagnose",
+        "zh": "诊断",
         "p": 1
       },
       {
@@ -76,8 +76,8 @@
         "p": 1
       },
       {
-        "w": "notified",
-        "zh": "notified",
+        "w": "notify",
+        "zh": "通报",
         "p": 1
       },
       {
@@ -96,8 +96,8 @@
         "p": 2
       },
       {
-        "w": "struck",
-        "zh": "struck",
+        "w": "strike",
+        "zh": "击中",
         "p": 2
       },
       {
@@ -106,13 +106,13 @@
         "p": 2
       },
       {
-        "w": "scarred",
-        "zh": "scarred",
+        "w": "scar",
+        "zh": "疤痕",
         "p": 2
       },
       {
-        "w": "intensified",
-        "zh": "intensified",
+        "w": "intensify",
+        "zh": "加强",
         "p": 2
       },
       {
@@ -251,8 +251,8 @@
         "p": 5
       },
       {
-        "w": "broken",
-        "zh": "broken",
+        "w": "break",
+        "zh": "切断",
         "p": 5
       },
       {
@@ -266,13 +266,13 @@
         "p": 5
       },
       {
-        "w": "certified",
-        "zh": "certified",
+        "w": "certify",
+        "zh": "认证",
         "p": 5
       },
       {
-        "w": "declared",
-        "zh": "declared",
+        "w": "declare",
+        "zh": "宣布",
         "p": 5
       },
       {
