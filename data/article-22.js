@@ -31,7 +31,7 @@
         },
         {
           "en": "In 1949 chemistry supplied one: Kenneth Oakley **applied** a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. The jaw and teeth carried 0.03 to 0.04 per cent fluoride, the **braincase** 0.1. The pieces had not **rested** in one ground for one span.",
-          "zh": "1949年，化学给出了一个：肯尼思·奥克利**施用**(applied)了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%；**脑颅**(braincase)含氟0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的时间。"
+          "zh": "1949年，化学送来了一个裁决者：肯尼思·奥克利**施用**(applied)了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%；**脑颅**(braincase)含氟0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的时间。"
         },
         {
           "en": "In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the dark colour skin-deep: iron and chromic acid matching the Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain** — only that had a number.",

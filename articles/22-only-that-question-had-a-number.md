@@ -32,7 +32,7 @@ In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** t
 
 **解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的X光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。
 
-1949年，化学给出了一个：肯尼思·奥克利**施用**(applied)了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%；**脑颅**(braincase)含氟0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的时间。
+1949年，化学送来了一个裁决者：肯尼思·奥克利**施用**(applied)了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%；**脑颅**(braincase)含氟0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的时间。
 
 1953年，奥克利、韦纳与勒格罗·克拉克更进一步。**放大**(magnification)之下，**臼齿**(molars)上现出了**锉出的**(file)**沟槽**(grooves)：一道道笔直的**划痕**(scratches)，而咀嚼留下的本该是**不匀**(uneven)的磨损。**钻**(Drilling)开来看，那层暗色只到表皮：铁溶液和铬酸，为的是配上皮尔当当地石头的颜色。四十一年里，**追问**(inquiry)的一直是这些骨头**像**(resembled)什么；那次测试问的却是每一块各自**躺**(lain)了多久——只有后者有一个数字作答。
 
