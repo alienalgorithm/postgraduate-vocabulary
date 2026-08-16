@@ -35,6 +35,7 @@ const SOURCE_AUDIT = {
   '18': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
   '19': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '20': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '21': { source: '2026-08-16按《第21篇写作提示词》全流程新写：重读范文→选题四条→词池→草稿复检→审读任务书→合规分100的270词定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -58,6 +59,7 @@ const VERSION_IDS = {
   '18': '18-270-word-final-locked',
   '19': '19-269-word-final-locked',
   '20': '20-270-word-final-locked',
+  '21': '21-270-word-final-locked',
 };
 
 const SUPERSEDED_SIGNATURES = {
