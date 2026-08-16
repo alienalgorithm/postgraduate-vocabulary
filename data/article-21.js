@@ -18,24 +18,24 @@
       },
       "paras": [
         {
-          "en": "On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **sails** set, 64 **bronze** **cannon** aboard. A **gust** laid her over to port; she righted, and a second squall finished it. Water **poured** through her open gunports and she **foundered** after 1,300 metres. Thirty **drowned**.",
+          "en": "On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **sails** set, 64 **bronze** **cannon** aboard. A **gust** laid her over to port; she righted, and a second squall finished it. Water **poured** through her open gunports; she **foundered** after 1,300 metres. Thirty **drowned**.",
           "zh": "1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(sails)只张了三面，船上载着64门**青铜**(bronze)**炮**(cannon)。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。"
         },
         {
-          "en": "The failure had been shown. Weeks earlier the **admiral** Klas Fleming watched a **stability** **rehearsal** at the **quay**: thirty men ran back and **forth** across her upper **planking** to set her **rolling**. After three runs the motion turned so **violent** that the test was **halted**. Nobody **cancelled** the voyage, and nobody told the king.",
-          "zh": "这场失败早已演示过。几周前，**海军上将**(admiral)克拉斯·弗莱明在**码头**(quay)看过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层**甲板**(planking)上来回**奔**(forth)跑，让船**摇**(rolling)起来。跑到第三趟，晃动**剧烈**(violent)到试验被**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。"
+          "en": "The harbour had shown the fault. Weeks earlier the **admiral** Klas Fleming watched a **stability** **rehearsal** at the **quay**: thirty men ran back and **forth** across her upper **planking** to set her **rolling**. After three runs the motion turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage, and nobody told the king.",
+          "zh": "码头早把这个毛病演过一遍。几周前，**海军上将**(admiral)克拉斯·弗莱明在**码头**(quay)看过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层**甲板**(planking)上来回**奔**(forth)跑，让船**摇**(rolling)起来。跑到第三趟，晃动**剧烈**(violent)到弗莱明**叫停**(halted)了试验。没人**取消**(cancelled)航行，也没人去告诉国王。"
         },
         {
-          "en": "The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high and **heavy**, not why she went to port rather than **starboard** — a question no **symmetric** **craft** can raise.",
-          "zh": "1628年的**调查**(inquest)认定它**不稳**(unstable)，却没指出祸首；后来的说法则指向古斯塔夫二世·阿道夫——是他**要求**(demanded)加一层炮甲板，又**催**(hurried)紧了**船厂**(yard)的工期。这**解释**(explains)了它为何重心偏高、上身偏**沉**(heavy)，却解释不了它为何倒向左舷而非**右舷**(starboard)——这个问题，**对称的**(symmetric)**船**(craft)根本提不出来。"
+          "en": "The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high and **overbuilt**, not why she went to port rather than **starboard** — a question no **symmetric** **craft** can raise.",
+          "zh": "1628年的**调查**(inquest)认定它**不稳**(unstable)，却没指出祸首；后来的说法则指向古斯塔夫二世·阿道夫——是他**要求**(demanded)加一层炮甲板，又**催**(hurried)紧了**船厂**(yard)的工期。这**解释**(explains)了它为何重心偏高、上部**造得过重**(overbuilt)，却解释不了它为何倒向左舷而非**右舷**(starboard)——这个问题，**对称的**(symmetric)**船**(craft)根本提不出来。"
         },
         {
-          "en": "The answer waited on the ship. She lay 333 years on the **seabed**; Anders Franzén found her in 1956 and raised her **unbroken** in 1961 with 45,000 **objects**. From 2010 Fred Hocker, an **archaeologist** there, spent three years **measuring** every **plank** and **rib**. More **structure** stood to port than starboard: **unballasted**, she would **heel** that way unaided.",
-          "zh": "答案得等这艘船出水。它在**海底**(seabed)躺了333年；1956年安德斯·弗兰岑找到它，1961年它被**完好无损**(unbroken)地打捞上来，同出水的还有45000件**器物**(objects)。2010年起，馆内**考古学家**(archaeologist)弗雷德·霍克花了三年**量**(measuring)遍船上每一块**板**(plank)、每一根**肋**(rib)。左舷的**结构**(structure)比右舷多：不压**压舱物**(unballasted)的话，它自己就会往那边**倾**(heel)。"
+          "en": "Only the ship could answer it. She lay 333 years on the **seabed**; Anders Franzén found her in 1956 and raised her **unbroken** in 1961 with 45,000 **objects**. From 2010 Fred Hocker, an **archaeologist** there, spent three years **measuring** every **plank** and **rib**. More **structure** stood to port than starboard: **unballasted**, she would **heel** that way unaided.",
+          "zh": "能回答的只有这艘船本身。它在**海底**(seabed)躺了333年；1956年安德斯·弗兰岑找到它，1961年它被**完好无损**(unbroken)地打捞上来，同出水的还有45000件**器物**(objects)。2010年起，馆内**考古学家**(archaeologist)弗雷德·霍克花三年**丈量**(measuring)了船上每一块**板**(plank)、每一根**肋**(rib)。左舷的**结构**(structure)比右舷多：不压**压舱物**(unballasted)的话，它自己就会往那边**倾**(heel)。"
         },
         {
-          "en": "Four carpenters' **rulers** came up too: two **graduated** in Swedish feet of **twelve** inches, two in Amsterdam feet of eleven, **sixteen** **millimetres** shorter. The master **shipwright** was a Dutchman; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand, and not one of them was **mistaken**. They simply never held the same foot.",
-          "zh": "一同上来的还有四把木工**尺**(rulers)：两把按瑞典尺**刻度**(graduated)，一尺**十二**(twelve)寸；两把按阿姆斯特丹尺，一尺十一寸，短了约**十六**(sixteen)**毫米**(millimetres)。总**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)。他们只是从来没有握过同一把尺。"
+          "en": "Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish feet of **twelve** inches, two in Amsterdam feet of eleven, **sixteen** **millimetres** shorter. The master **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.",
+          "zh": "为什么会多？同船还上来了四把木工**尺**(rulers)：两把按瑞典尺**刻度**(graduated)，一尺**十二**(twelve)寸；两把按阿姆斯特丹尺，一尺十一寸，短了约**十六**(sixteen)**毫米**(millimetres)。总**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。"
         }
       ],
       "glossary": [
@@ -170,10 +170,10 @@
           "p": 3
         },
         {
-          "w": "heavy",
-          "zh": "沉的",
-          "p": 3
-        },
+        "w": "overbuilt",
+        "zh": "（上层）造得过重的",
+        "p": 3
+      },
         {
           "w": "starboard",
           "zh": "右舷",
