@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-13",
-  "article_count": 21,
-  "keyword_count": 1050,
+  "article_count": 22,
+  "keyword_count": 1100,
   "articles": [
     {
       "id": "01",
@@ -561,6 +561,25 @@
       "canonical_fingerprint_sha256": "030ba084a59f1955b3b8b6611435ddaaa07e87bc4bc1a049f8591aaa1ba32511",
       "markdown_sha256": "b07290978df7d8e795a73ef7afbfb2283c27a1d61af57e1303253f5153b55ffa",
       "markdown_git_blob_sha": "c4014e446a7d24d6534ee21211b0b74cfc424062",
+      "superseded_signatures": []
+    },
+    {
+      "id": "22",
+      "slug": "only-that-question-had-a-number",
+      "title": "Only That Question Had a Number",
+      "title_zh": "只有那个问题有数字作答",
+      "version_id": "22-270-word-final-locked",
+      "status": "第二十二篇定稿",
+      "date": "2026-08-16",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-08-16按《第22篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿七轮→十一轮精修→合规分100的270词定稿",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "4769082a4fce669e17839982eefbbcc343d88841bdaa21374b0c25f7d36c35ef",
+      "markdown_sha256": "87d4269047cb1e4b1951d4618927a52ab99fd03fcb9d86fcc198aed93364ad52",
+      "markdown_git_blob_sha": "296f172b111059acaad51eceb8863593cb69d2f9",
       "superseded_signatures": []
     }
   ]

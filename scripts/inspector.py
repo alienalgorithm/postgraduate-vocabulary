@@ -358,7 +358,16 @@ def inspect(a, archive):
             IRREG = {("draw","drew"),("sink","sunk"),("strike","struck"),("breed","bred"),
                      ("break","broken"),("sweep","swept"),("write","wrote"),("handwrite","handwrote"),
                      ("drink","drank"),("hide","hid"),("lie","lying"),("go","gone"),
-                     ("seize","seized"),("bear","bore"),("hold","held"),("run","ran")}
+                     ("seize","seized"),("bear","bore"),("hold","held"),("run","ran"),
+                     # 2026-08-16 第22篇补：lay/laid、lie/lain 是英语最易混的一对不规则动词
+                     ("lay","laid"),("lie","lain"),("lie","lay"),("find","found"),
+                     # -y → -ied 的常规变化，词干器会切成 buri/bury 两形
+                     ("bury","buried"),("carry","carried"),("study","studied"),
+                     ("apply","applied"),("try","tried"),("rely","relied"),
+                     ("feed","fed"),("hear","heard"),("keep","kept"),("leave","left"),
+                     ("lose","lost"),("mean","meant"),("meet","met"),("pay","paid"),
+                     ("sell","sold"),("send","sent"),("teach","taught"),("tell","told"),
+                     ("think","thought"),("catch","caught"),("buy","bought"),("bring","brought")}
             def stem3(x):
                 for suf in ("ations","ation","ings","ing","ied","ies","ed","es","s","e"):
                     if x.endswith(suf) and len(x) - len(suf) >= 3: return x[:-len(suf)]
