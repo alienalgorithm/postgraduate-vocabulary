@@ -26,7 +26,7 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** found
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1854年9月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了616人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者的饮水是从哪里**取**(drew)的**水源**(supply)。
+1854年9月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了616人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者平日从哪里**打**(drew)水、用的是哪一处**水源**(supply)。
 
 他在**街区**(neighbourhood)**地图**(map)上，按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，出去两个街区就**稀疏**(thinned)得几乎没有了。**分布**(pattern)告诉他该往哪儿看；**例外**(exceptions)告诉他他没看错。
 

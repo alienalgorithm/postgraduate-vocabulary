@@ -30,7 +30,7 @@ window.SITE = {
     "paras": [
       {
         "en": "In September 1854 a few streets of Soho, in central London, lost 616 people to **cholera** in ten days. **Prevailing** medical **opinion** **blamed** the **foul** air. John Snow, a **physician** who lived **nearby**, **doubted** it, and went house to house asking where the dead **drew** their **supply**.",
-        "zh": "1854年9月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了616人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者的饮水是从哪里**取**(drew)的**水源**(supply)。"
+        "zh": "1854年9月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了616人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者平日从哪里**打**(drew)水、用的是哪一处**水源**(supply)。"
       },
       {
         "en": "He set a **stroke** against each **address** on a **map** of the **neighbourhood**, one for every death. The **strokes** **gathered** around a single **pump** on Broad Street, and **thinned** to nothing two blocks off. The **pattern** showed him where to look; the **exceptions** showed him he was right.",
@@ -338,7 +338,7 @@ window.SITE = {
       },
       {
         "en": "No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to almost all life, **dissolved** around the **colony**. The **abundance** had no visible source.",
-        "zh": "船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶**(dissolved)在这个**群落**(colony)周围。这份**繁盛**(abundance)找不到来源。"
+        "zh": "船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。"
       },
       {
         "en": "Later work found the source in **bacteria** that **oxidise** sulphide and build **organic** matter from carbon dioxide — chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult two metres long has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.",
@@ -581,13 +581,13 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "boundary",
-        "zh": "边界",
+        "w": "habitable",
+        "zh": "宜居的",
         "p": 5
       },
       {
-        "w": "habitable",
-        "zh": "宜居的",
+        "w": "boundary",
+        "zh": "边界",
         "p": 5
       },
       {
@@ -939,8 +939,8 @@ window.SITE = {
         "zh": "**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)月距法、并于1765年就任皇家天文学家的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在**四十**(forty)七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。"
       },
       {
-        "en": "Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** him £8,750, never the prize. He died in 1776. **Chronometers** stayed **costly**, so **navigators** kept **shooting** the Moon with **sextant** and **almanac** for **decades** more. The clock did not beat the sky; it joined it.",
-        "zh": "拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是又用**六分仪**(sextant)与**天文年历**(almanac)又**打**(shooting)了几十**年**(decades)的月亮。钟没有打败天空；它加入了天空。"
+        "en": "Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** him £8,750, never the prize. He died in 1776. **Chronometers** stayed **costly**, so **navigators** went on **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.",
+        "zh": "拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是又靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)了几十**年**(decades)月亮。钟没有打败天空；它加入了天空。"
       }
     ],
     "glossary": [
@@ -1040,8 +1040,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "refine",
-        "zh": "打磨；精炼",
+        "w": "refining",
+        "zh": "refining",
         "p": 2
       },
       {
@@ -1050,8 +1050,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "inch",
-        "zh": "英寸",
+        "w": "inches",
+        "zh": "inches",
         "p": 3
       },
       {
@@ -1090,8 +1090,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "tolerate",
-        "zh": "容许；忍受",
+        "w": "tolerated",
+        "zh": "tolerated",
         "p": 3
       },
       {
@@ -1120,8 +1120,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "err",
-        "zh": "出误差；犯错",
+        "w": "erred",
+        "zh": "erred",
         "p": 4
       },
       {
@@ -1175,8 +1175,8 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "shoot",
-        "zh": "（用仪器）测；射",
+        "w": "sighting",
+        "zh": "sighting",
         "p": 5
       },
       {

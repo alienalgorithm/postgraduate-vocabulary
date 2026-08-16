@@ -13,11 +13,11 @@ Before compressed air, stopping a **freight** train meant men on the **roofs**. 
 
 George Westinghouse patented a **remedy** in 1869. An engine-driven **bellows** charged one **pipe** running the length of the train; admitting air drove a **piston** and **lever** that pressed a **shoe** against each tyre. One man now applied every brake. But the arrangement leaned on a live **column**: if a **hose** **burst** or **couplings** parted, the cars beyond ran free.
 
-His 1872 and 1873 patents **inverted** it. Each **wagon** carried its own **reservoir**, kept **charged** by the pipe. A **sudden** **slump** in pipe pressure **tripped** a **triple** **valve**, releasing the stored air into that car's own **cylinder**. Restoring pressure released the brake and refilled the tank.
+His 1872 and 1873 patents **inverted** it. Each **carriage** carried its own **reservoir**, kept **charged** by the pipe. A **sudden** **collapse** of pipe pressure **tripped** a **triple** **valve**, releasing the stored air into that car's own **cylinder**. Restoring pressure released the brake and refilled the tank.
 
 Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a **fifty**-car **rake** took **twenty** **seconds** to set its rearmost brakes; Westinghouse **pared** that to six, then late that year to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals won the **trials**, but he judged their wiring too **frail** for freight.
 
-Lorenzo Coffin, an Iowa **reformer** whom many called a **crank**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** the **capability**, not the **brand**. By 1900 it was standard on US freight. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.
+Lorenzo Coffin, an Iowa **reformer** whom many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** the **capability**, not the **brand**. By 1900 it was standard on US freight. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.
 
 ---
 
@@ -28,13 +28,13 @@ Lorenzo Coffin, an Iowa **reformer** whom many called a **crank**, spent the 188
 
 在压缩空气之前，让一列**货**(freight)车停下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇**(cranking)手**轮**(wheel)。雨雪会让这活更慢；一列车挂不过约**十一**(eleven)节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。
 
-1869年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上的**气泵**(bellows)给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。
+1869年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上的**气泵**(bellows)给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那一**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。
 
-他1872与1873年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(wagon)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤**(sudden)**跌**(slump)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。
+他1872与1873年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(carriage)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤然**(sudden)**垮掉**(collapse)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。
 
 能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列**五十**(fifty)节的**编组**(rake)要**二十**(twenty)**秒**(seconds)才让最后一节上闸；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。试验的优胜者是电**触发**(triggered)的对手，但他判断那种接线对货运来说太**脆弱**(frail)，没有采用——这是他在那场**试验**(trials)后的取舍。
 
-爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(crank)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。到1900年，这套闸已是美国货运的标准配置。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。
+爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。到1900年，这套闸已是美国货运的标准配置。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。
 
 ---
 
@@ -42,13 +42,13 @@ Lorenzo Coffin, an Iowa **reformer** whom many called a **crank**, spent the 188
 
 **§1**（10词）freight 货运｜roof 车顶｜whistle 汽笛｜brakeman 制动员｜catwalk 走板；狭窄通道｜crank 摇动（曲柄）｜wheel 轮｜eleven 十一｜wagon 车厢｜maim 致残
 
-**§2**（11词）remedy 对策；补救｜bellows 气泵；风箱｜pipe 管｜piston 活塞｜lever 杠杆｜shoe 闸瓦｜column 气柱；柱｜hose 软管｜burst 爆裂｜coupling 挂钩；联轴｜tyre 轮箍；轮胎
+**§2**（10词）remedy 对策；补救｜bellows 气泵；风箱｜pipe 管｜piston 活塞｜lever 杠杆｜shoe 闸瓦｜column 气柱；柱｜hose 软管｜burst 爆裂｜coupling 挂钩；联轴
 
-**§3**（9词）invert 倒转｜reservoir 风缸；蓄水池｜charged 充满的｜sudden 骤然的｜slump 骤跌｜trip 触发｜triple 三通的；三重的｜valve 阀｜cylinder 缸
+**§3**（10词）invert 倒转｜carriage 车厢｜reservoir 风缸；蓄水池｜charged 充满的｜sudden 骤然的｜collapse 垮掉；崩溃｜tripped tripped｜triple 三通的；三重的｜valve 阀｜cylinder 缸
 
-**§4**（10词）fifty 五十｜rake 编组；一列车｜twenty 二十｜second 秒｜pare 削减｜quick 快速的｜redesign 改型｜trigger 触发｜trial 试验｜frail 脆弱的
+**§4**（10词）fifty 五十｜rake 编组；一列车｜twenty 二十｜second 秒｜pared pared｜quick 快速的｜redesign 改型｜trigger 触发｜trial 试验｜frail 脆弱的
 
-**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜press 推动；施压｜ordinance 法令｜statute 法条｜mandate 规定；强制｜capability 能力｜brand 品牌｜part 断开；分离｜stop 停下
+**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜press 推动；施压｜ordinance 法令｜statute 法条｜mandated mandated｜capability 能力｜brand 品牌｜part 断开；分离｜stopped stopped
 
 ---
 

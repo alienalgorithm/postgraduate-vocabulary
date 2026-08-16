@@ -24,7 +24,7 @@
       },
       {
         "en": "On 29 August 1831 he **wound** two **windings** on opposite **halves** of a soft iron ring six inches across. One held a **battery**, the other a **galvanometer**. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the **interval** made none.",
-        "zh": "1831年8月29日，他在一只六英寸宽的软铁环上、两个相对的**半**(halves)边分别**绕**(wound)了两组**线圈**(windings)。一组接**电池**(battery)，一组接**检流计**(galvanometer)。合上电池，指针**蹬**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。"
+        "zh": "1831年8月29日，他在一只六英寸宽的软铁环上、两个相对的**半**(halves)边分别**绕**(wound)了两组**线圈**(windings)。一组接**电池**(battery)，一组接**检流计**(galvanometer)。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。"
       },
       {
         "en": "A changing magnetic **flux** through a **loop** **induces** an **electromotive** force, driving charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.",
@@ -41,18 +41,18 @@
     ],
     "glossary": [
       {
-        "w": "electricity",
-        "zh": "电",
-        "p": 1
-      },
-      {
         "w": "wire",
         "zh": "导线",
         "p": 1
       },
       {
-        "w": "lie",
-        "zh": "躺；位于",
+        "w": "electricity",
+        "zh": "电",
+        "p": 1
+      },
+      {
+        "w": "swung",
+        "zh": "swung",
         "p": 1
       },
       {
@@ -61,13 +61,13 @@
         "p": 1
       },
       {
-        "w": "swing",
-        "zh": "摆动",
+        "w": "lying",
+        "zh": "lying",
         "p": 1
       },
       {
-        "w": "reverse",
-        "zh": "倒转；反转",
+        "w": "reversed",
+        "zh": "reversed",
         "p": 1
       },
       {
@@ -91,18 +91,18 @@
         "p": 1
       },
       {
-        "w": "half",
-        "zh": "半边",
-        "p": 2
-      },
-      {
-        "w": "wind",
-        "zh": "绕；缠",
+        "w": "wound",
+        "zh": "wound",
         "p": 2
       },
       {
         "w": "winding",
         "zh": "线圈；绕组",
+        "p": 2
+      },
+      {
+        "w": "halves",
+        "zh": "halves",
         "p": 2
       },
       {
@@ -141,13 +141,13 @@
         "p": 2
       },
       {
-        "w": "loop",
-        "zh": "回路",
+        "w": "flux",
+        "zh": "通量",
         "p": 3
       },
       {
-        "w": "flux",
-        "zh": "通量",
+        "w": "loop",
+        "zh": "回路",
         "p": 3
       },
       {
@@ -166,13 +166,13 @@
         "p": 3
       },
       {
-        "w": "bar",
-        "zh": "条形的；棒",
+        "w": "thrust",
+        "zh": "插入；猛推",
         "p": 3
       },
       {
-        "w": "thrust",
-        "zh": "插入；猛推",
+        "w": "bar",
+        "zh": "条形的；棒",
         "p": 3
       },
       {
@@ -191,13 +191,18 @@
         "p": 3
       },
       {
+        "w": "spinning",
+        "zh": "spinning",
+        "p": 4
+      },
+      {
         "w": "pole",
         "zh": "极",
         "p": 4
       },
       {
-        "w": "spin",
-        "zh": "旋转",
+        "w": "continuously",
+        "zh": "连续地",
         "p": 4
       },
       {
@@ -211,23 +216,18 @@
         "p": 4
       },
       {
-        "w": "continuously",
-        "zh": "连续地",
-        "p": 4
-      },
-      {
         "w": "rotation",
         "zh": "转动",
         "p": 4
       },
       {
-        "w": "dynamo",
-        "zh": "发电机",
+        "w": "ancestor",
+        "zh": "祖先",
         "p": 4
       },
       {
-        "w": "ancestor",
-        "zh": "祖先",
+        "w": "dynamo",
+        "zh": "发电机",
         "p": 4
       },
       {
@@ -251,6 +251,11 @@
         "p": 5
       },
       {
+        "w": "drive",
+        "zh": "带动；驱动",
+        "p": 5
+      },
+      {
         "w": "turbine",
         "zh": "汽轮机",
         "p": 5
@@ -262,7 +267,7 @@
       },
       {
         "w": "magnets",
-        "zh": "磁铁（复）",
+        "zh": "磁铁",
         "p": 5
       },
       {
@@ -276,18 +281,13 @@
         "p": 5
       },
       {
-        "w": "step",
-        "zh": "升（压）；步",
+        "w": "stepped",
+        "zh": "stepped",
         "p": 5
       },
       {
-        "w": "carry",
-        "zh": "输送；携带",
-        "p": 5
-      },
-      {
-        "w": "drive",
-        "zh": "带动；驱动",
+        "w": "carried",
+        "zh": "carried",
         "p": 5
       }
     ],

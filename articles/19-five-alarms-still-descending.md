@@ -30,7 +30,7 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go insid
 
 **交会**(rendezvous)**雷达**(radar)开着，是为一种**预案**(contingency)：**中止**(abort)返回轨道。可它的供电接线**错配**(mismatch)，让它不断索要并不需要的角度计数。**处理器**(processor)在这一段本已用掉83%的**算力**(capacity)；雷达又**占去**(claimed)13%。当奥尔德林**敲**(keyed)入一条显示指令，**余量**(slack)就没了。
 
-这五次全是**防线**(defences)在报到。**执行程序**(executive)按**优先级**(priority)排活；一旦没有空闲的**工作区**(workspace)，它就**重启**(restarted)，把未完成的低**位**(ranking)工作**丢掉**(dumped)，从存好的**检查点**(checkpoints)重载**要害**(essential)程序，再从断处把**制导**(guidance)接回去。卸载荷是设计，不是故障。
+这五次全是**防线**(defences)在报到。**执行程序**(executive)按**优先级**(priority)排活；一旦没有空闲的**工作区**(workspace)，它就**重启**(restarted)，把未完成的低**优先级**(ranking)工作**丢掉**(dumped)，从存好的**检查点**(checkpoints)重载**要害**(essential)程序，再从断处把**制导**(guidance)接回去。卸载荷是设计，不是故障。
 
 可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**撤离**(evacuation)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(handwrote)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。
 

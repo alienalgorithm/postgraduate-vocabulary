@@ -20,7 +20,7 @@
     "paras": [
       {
         "en": "In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess antenna temperature of 3.5 kelvin.",
-        "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们把系统**对**(referenced)到一个液氦**负载**(load)上。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。"
+        "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。"
       },
       {
         "en": "They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess appeared **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.",

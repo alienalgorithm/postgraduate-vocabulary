@@ -17,7 +17,7 @@ H4, finished in 1759, was no clock but a **portable** watch five **inches** wide
 
 The **commissioners** **balked**. Nevil Maskelyne, who **championed** the lunar method and became Astronomer Royal in 1765, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in **forty**-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.
 
-Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** him £8,750, never the prize. He died in 1776. **Chronometers** stayed **costly**, so **navigators** kept **shooting** the Moon with **sextant** and **almanac** for **decades** more. The clock did not beat the sky; it joined it.
+Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** him £8,750, never the prize. He died in 1776. **Chronometers** stayed **costly**, so **navigators** went on **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.
 
 ---
 
@@ -34,7 +34,7 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 **评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)月距法、并于1765年就任皇家天文学家的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在**四十**(forty)七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。
 
-拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是又用**六分仪**(sextant)与**天文年历**(almanac)又**打**(shooting)了几十**年**(decades)的月亮。钟没有打败天空；它加入了天空。
+拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是又靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)了几十**年**(decades)月亮。钟没有打败天空；它加入了天空。
 
 ---
 
@@ -42,13 +42,13 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 **§1**（10词）latitude 纬度｜readily 轻易地｜longitude 经度｜meridian 子午线｜noon 正午｜reference 参照｜fifteen 十五｜arc 弧｜arithmetic 算术｜deck 甲板
 
-**§2**（10词）thirty 三十｜nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜resist 抵抗｜friction 摩擦｜flaw 缺陷｜ashore 在岸上｜nineteen 十九｜refine 打磨；精炼
+**§2**（10词）thirty 三十｜nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜resist 抵抗｜friction 摩擦｜flaw 缺陷｜ashore 在岸上｜nineteen 十九｜refining refining
 
-**§3**（10词）portable 便携的｜inch 英寸｜balance 摆轮；平衡｜bimetallic 双金属的｜strip 片；条｜jewelled 嵌宝石的｜pivot 枢轴｜eighty 八十｜gap 差；缺口｜tolerate 容许；忍受
+**§3**（10词）portable 便携的｜inches inches｜balance 摆轮；平衡｜bimetallic 双金属的｜strip 片；条｜jewelled 嵌宝石的｜pivot 枢轴｜eighty 八十｜gap 差；缺口｜tolerated tolerated
 
-**§4**（10词）commissioner 评审委员；专员｜balk 迟疑；退缩｜champion 力主；拥护｜astronomical 天文的｜observation 观测｜err 出误差；犯错｜forty 四十｜principle 原理｜maker 制作者｜replicate 复制
+**§4**（10词）commissioner 评审委员；专员｜balk 迟疑；退缩｜champion 力主；拥护｜astronomical 天文的｜observation 观测｜erred erred｜forty 四十｜principle 原理｜maker 制作者｜replicate 复制
 
-**§5**（10词）gain 走差；增益｜exceed 超过｜grant 拨给；授予｜chronometer 航海钟｜costly 昂贵的｜navigator 航海者｜shoot （用仪器）测；射｜sextant 六分仪｜almanac 天文年历｜decade 十年
+**§5**（10词）gain 走差；增益｜exceed 超过｜grant 拨给；授予｜chronometer 航海钟｜costly 昂贵的｜navigator 航海者｜sighting sighting｜sextant 六分仪｜almanac 天文年历｜decade 十年
 
 ---
 

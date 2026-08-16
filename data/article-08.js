@@ -13,14 +13,14 @@
     "date": "2026-08-15",
     "status": "第八篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 269,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.6
     },
     "paras": [
       {
         "en": "In **astronomy** a dim star is ambiguous: little light, or great distance? At Harvard, Henrietta Leavitt joined eighty women **employed** to **inspect** photographic **plates** at 25 cents an hour — she got 30, on **merit**. None was allowed at the **telescopes**. Her **tedious** **task** was to **catalogue** **variables**; she found 1,777.",
-        "zh": "在**天文学**(astronomy)里，一颗暗星是含混的：是发光少，还是离得远？在哈佛，亨丽埃塔·莱维特加入了八十名受**雇**(employed)**检视**(inspect)照相**底片**(plates)的女性，时薪二毛五——她拿三毛，凭的是**本事**(merit)。她们谁也不被允许靠近**望远镜**(telescopes)。她**枯燥的**(tedious)**活计**(task)是**编目**(catalogue)**变星**(variables)；她找出了1777颗。"
+        "zh": "在**天文学**(astronomy)里，一颗暗星是含混的：是发光少，还是离得远？在哈佛，亨丽埃塔·莱维特加入了八十名**受雇**(employed)**检视**(inspect)照相**底片**(plates)的女性，时薪二毛五——她拿三毛，凭的是**本事**(merit)。她们谁也不被允许靠近**望远镜**(telescopes)。她**枯燥的**(tedious)**活计**(task)是**编目**(catalogue)**变星**(variables)；她找出了1777颗。"
       },
       {
         "en": "A 1908 table listed 16 variables, each brightening and dimming to a **regular** **rhythm**. Leavitt **noticed** that the brighter ones had longer cycles. The Small Magellanic Cloud, a **smudge** of sky, gave her an **advantage**: its **faint** variables could be treated as sharing one **distance**. Under that **assumption**, **relative** brightness reflected **intrinsic** luminosity.",
@@ -35,8 +35,8 @@
         "zh": "后来的天文学家把它**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用它**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；这把标尺也成了测量**宇宙**(universe)**膨胀**(expansion)的**基础**(foundation)。"
       },
       {
-        "en": "Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation letting others **infer** distances they could not measure. In 1925 Mittag-Leffler wrote to nominate her for a Nobel, unaware she had died in 1921. The prize is not **awarded** **posthumously**.",
-        "zh": "她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。1925年，米塔-列夫勒写信来要提名她诺贝尔奖，却不知她已在四年前去世。这个奖不**追**(posthumously)**授**(awarded)。"
+        "en": "Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation letting others **infer** distances they could not measure. In 1925 Mittag-Leffler wrote to nominate her for a Nobel, unaware she had died in 1921. The **honour** is never **posthumous**.",
+        "zh": "她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。1925年，米塔-列夫勒写信来要提名她诺贝尔奖，却不知她已在1921年去世。这项**荣誉**(honour)从不**追授**(posthumous)。"
       }
     ],
     "glossary": [
@@ -191,8 +191,8 @@
         "p": 3
       },
       {
-        "w": "calibrated",
-        "zh": "calibrated",
+        "w": "pegged",
+        "zh": "pegged",
         "p": 4
       },
       {
@@ -231,13 +231,13 @@
         "p": 4
       },
       {
-        "w": "expansion",
-        "zh": "膨胀；扩张",
+        "w": "universe",
+        "zh": "宇宙",
         "p": 4
       },
       {
-        "w": "universe",
-        "zh": "宇宙",
+        "w": "expansion",
+        "zh": "膨胀；扩张",
         "p": 4
       },
       {
@@ -281,13 +281,13 @@
         "p": 5
       },
       {
-        "w": "awarded",
-        "zh": "awarded",
+        "w": "honour",
+        "zh": "荣誉",
         "p": 5
       },
       {
-        "w": "posthumously",
-        "zh": "追授地",
+        "w": "posthumous",
+        "zh": "追授的；身后的",
         "p": 5
       }
     ],

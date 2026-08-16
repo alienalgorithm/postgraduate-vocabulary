@@ -20,7 +20,7 @@
     "paras": [
       {
         "en": "In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** a fortnight after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.",
-        "zh": "1977年10月，索马里梅尔卡一家**医务所**(infirmary)的**厨工**(cook)阿里·马奥·马阿林，在与两名天花**病人**(patients)同车两周后**发**(erupted)出**皮疹**(rash)。他先被**诊断**(diagnosed)为疟疾，又被当成水痘；最后是一名**护士**(nurse)**通报**(notified)了根除办公室。他是全世界最后一个以**寻常**(ordinary)方式**染上**(acquire)天花的人。"
+        "zh": "1977年10月，索马里梅尔卡一家**医务所**(infirmary)的**厨工**(cook)阿里·马奥·马阿林，在与两名天花**病人**(patients)同车两周后**发**(erupted)起**皮疹**(rash)。他先被**诊断**(diagnosed)为疟疾，又被当成水痘；最后是一名**护士**(nurse)**通报**(notified)了根除办公室。他是全世界最后一个以**寻常**(ordinary)方式**染上**(acquire)天花的人。"
       },
       {
         "en": "The **disease** killed roughly three in ten it **struck**, and left many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.",
@@ -28,7 +28,7 @@
       },
       {
         "en": "The method came from a **shortage**. In December 1966 William Foege took a radio call about a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**.",
-        "zh": "方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为在那个村子外围**围**(ringed)了一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)。"
+        "zh": "方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)。"
       },
       {
         "en": "A report triggered an inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.",
@@ -66,8 +66,8 @@
         "p": 1
       },
       {
-        "w": "diagnose",
-        "zh": "诊断",
+        "w": "diagnosed",
+        "zh": "diagnosed",
         "p": 1
       },
       {
@@ -76,8 +76,8 @@
         "p": 1
       },
       {
-        "w": "notify",
-        "zh": "通报；通知",
+        "w": "notified",
+        "zh": "notified",
         "p": 1
       },
       {
@@ -96,8 +96,8 @@
         "p": 2
       },
       {
-        "w": "strike",
-        "zh": "击中",
+        "w": "struck",
+        "zh": "struck",
         "p": 2
       },
       {
@@ -106,13 +106,13 @@
         "p": 2
       },
       {
-        "w": "scar",
-        "zh": "留疤",
+        "w": "scarred",
+        "zh": "scarred",
         "p": 2
       },
       {
-        "w": "intensify",
-        "zh": "加强",
+        "w": "intensified",
+        "zh": "intensified",
         "p": 2
       },
       {
@@ -251,8 +251,8 @@
         "p": 5
       },
       {
-        "w": "break",
-        "zh": "切断",
+        "w": "broken",
+        "zh": "broken",
         "p": 5
       },
       {
@@ -266,13 +266,13 @@
         "p": 5
       },
       {
-        "w": "certify",
-        "zh": "认证",
+        "w": "certified",
+        "zh": "certified",
         "p": 5
       },
       {
-        "w": "declare",
-        "zh": "宣布",
+        "w": "declared",
+        "zh": "declared",
         "p": 5
       },
       {

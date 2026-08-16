@@ -2,7 +2,7 @@
 
 > 题材：1908—1912 年莱维特与造父变星周光关系
 > 状态：**第八篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 她时薪三毛，不被允许靠近望远镜；而那篇让宇宙第一次可以量的通报，署的是她上司的名字。
 
 ---
@@ -17,7 +17,7 @@ By 1912 she had periods for 25 stars. The **tendency** held: longer **periods**,
 
 Later astronomers **pegged** it to Cepheid distances known independently. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used it to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; the scale became a **foundation** for measuring the **universe**'s **expansion**.
 
-Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation letting others **infer** distances they could not measure. In 1925 Mittag-Leffler wrote to nominate her for a Nobel, unaware she had died in 1921. The prize is not **awarded** **posthumously**.
+Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation letting others **infer** distances they could not measure. In 1925 Mittag-Leffler wrote to nominate her for a Nobel, unaware she had died in 1921. The **honour** is never **posthumous**.
 
 ---
 
@@ -26,7 +26,7 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-在**天文学**(astronomy)里，一颗暗星是含混的：是发光少，还是离得远？在哈佛，亨丽埃塔·莱维特加入了八十名受**雇**(employed)**检视**(inspect)照相**底片**(plates)的女性，时薪二毛五——她拿三毛，凭的是**本事**(merit)。她们谁也不被允许靠近**望远镜**(telescopes)。她**枯燥的**(tedious)**活计**(task)是**编目**(catalogue)**变星**(variables)；她找出了1777颗。
+在**天文学**(astronomy)里，一颗暗星是含混的：是发光少，还是离得远？在哈佛，亨丽埃塔·莱维特加入了八十名**受雇**(employed)**检视**(inspect)照相**底片**(plates)的女性，时薪二毛五——她拿三毛，凭的是**本事**(merit)。她们谁也不被允许靠近**望远镜**(telescopes)。她**枯燥的**(tedious)**活计**(task)是**编目**(catalogue)**变星**(variables)；她找出了1777颗。
 
 1908年的一份表列出16颗变星，每颗都以**规律的**(regular)**节奏**(rhythm)明暗交替。莱维特**注意到**(noticed)：越亮的，周期越长。小麦哲伦云那**一片**(smudge)天区给了她一个**便利**(advantage)：其中**暗弱的**(faint)变星可以当作处在同一**距离**(distance)上。有了这个**假定**(assumption)，**相对**(relative)亮度反映的就是**内禀**(intrinsic)光度。
 
@@ -34,7 +34,7 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 后来的天文学家把它**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用它**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；这把标尺也成了测量**宇宙**(universe)**膨胀**(expansion)的**基础**(foundation)。
 
-她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。1925年，米塔-列夫勒写信来要提名她诺贝尔奖，却不知她已在四年前去世。这个奖不**追**(posthumously)**授**(awarded)。
+她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。1925年，米塔-列夫勒写信来要提名她诺贝尔奖，却不知她已在1921年去世。这项**荣誉**(honour)从不**追授**(posthumous)。
 
 ---
 
@@ -46,9 +46,9 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 **§3**（10词）tendency 趋势；倾向｜period 周期｜analysed analysed｜magnitude 星等；大小｜logarithm 对数｜cadence 规律；节律｜correspond 对应；相符｜signed signed｜prepared prepared｜derived derived
 
-**§4**（10词）calibrated calibrated｜yardstick 尺；准绳｜predicted predicted｜reach 距程；触及范围｜establish 确立；证实｜galaxy 星系｜beyond 在……之外｜foundation 基础｜expansion 膨胀；扩张｜universe 宇宙
+**§4**（10词）pegged pegged｜yardstick 尺；准绳｜predicted predicted｜reach 距程；触及范围｜establish 确立；证实｜galaxy 星系｜beyond 在……之外｜foundation 基础｜universe 宇宙｜expansion 膨胀；扩张
 
-**§5**（10词）contribution 贡献｜crucial 至关重要的｜modest 克制的；有限的｜eliminate 排除；消除｜factor 因素｜constant 不变的；常量｜isolated isolated｜infer 推断｜awarded awarded｜posthumously 追授地
+**§5**（10词）contribution 贡献｜crucial 至关重要的｜modest 克制的；有限的｜eliminate 排除；消除｜factor 因素｜constant 不变的；常量｜isolated isolated｜infer 推断｜honour 荣誉｜posthumous 追授的；身后的
 
 ---
 

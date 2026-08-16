@@ -30,7 +30,7 @@ Galápagos **revealed** a second **footing** for life, a food **web** **sustaine
 
 ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**微微晃动**(shimmered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。
 
-船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶**(dissolved)在这个**群落**(colony)周围。这份**繁盛**(abundance)找不到来源。
+船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。
 
 后来的研究把来源找到了：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。
 
@@ -48,7 +48,7 @@ ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面�
 
 **§4**（10词）bacteria 细菌｜oxidise 氧化｜organic 有机的｜photosynthesis 光合作用｜graze 啃食；放牧｜worm 虫｜gut 肠道｜housing housing｜microbe 微生物｜host 宿主；主人
 
-**§5**（10词）reveal 揭示｜footing 立足处；基础｜web 网｜sustain 支撑；维持｜planet 行星｜widen 拓宽｜boundary 边界｜habitable 宜居的｜chemistry 化学过程；化学｜gradient 梯度；坡度
+**§5**（10词）reveal 揭示｜footing 立足处；基础｜web 网｜sustain 支撑；维持｜planet 行星｜widen 拓宽｜habitable 宜居的｜boundary 边界｜chemistry 化学过程；化学｜gradient 梯度；坡度
 
 ---
 

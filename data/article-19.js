@@ -28,7 +28,7 @@
       },
       {
         "en": "All five were **defences** reporting for duty. The **executive** ran jobs by **priority**; with no free **workspace** it **restarted**, **dumped** the unfinished low-**ranking** work, reloaded **essential** programs from stored **checkpoints**, and picked **guidance** back up where it had stopped. Shedding load was the design working, not failing.",
-        "zh": "这五次全是**防线**(defences)在报到。**执行程序**(executive)按**优先级**(priority)排活；一旦没有空闲的**工作区**(workspace)，它就**重启**(restarted)，把未完成的低**位**(ranking)工作**丢掉**(dumped)，从存好的**检查点**(checkpoints)重载**要害**(essential)程序，再从断处把**制导**(guidance)接回去。卸载荷是设计，不是故障。"
+        "zh": "这五次全是**防线**(defences)在报到。**执行程序**(executive)按**优先级**(priority)排活；一旦没有空闲的**工作区**(workspace)，它就**重启**(restarted)，把未完成的低**优先级**(ranking)工作**丢掉**(dumped)，从存好的**检查点**(checkpoints)重载**要害**(essential)程序，再从断处把**制导**(guidance)接回去。卸载荷是设计，不是故障。"
       },
       {
         "en": "None of it helped unless the ground knew it. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **handwrote** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.",

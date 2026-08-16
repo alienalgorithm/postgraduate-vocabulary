@@ -26,7 +26,7 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们把系统**对**(referenced)到一个液氦**负载**(load)上。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。
+1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。
 
 他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息**(roosted)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射呈**各向同性**(isotropic)、**没有偏振**(unpolarised)，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。
 
