@@ -144,6 +144,24 @@ for w in ("basalt", "fissure", "shield", "alpha", "encounter"):
 for w in ("return", "support", "deep"):
     check(f"{w} 判白送", I.cheapness(w)[0] == "cheap")
 
+# ── SYN 句法层（spaCy）────────────────────────────────────────────
+print("\n[SYN] 句法层（spaCy 真解析）")
+if I.NLP is None:
+    print("  ⚠ spaCy 未安装，跳过（pip install spacy + en_core_web_sm）")
+else:
+    F, _ = I.inspect(art(["The **discovery** changed things.", "**b**.", "**c**.", "**d**.", "**e**."]), arts)
+    check("抽象名词作主语 → SYN-04", "SYN-04" in ids(F))
+    F, _ = I.inspect(art(["Marsden **counted** flashes.", "**b**.", "**c**.", "**d**.", "**e**."]), arts)
+    check("具体人物作主语不报", "SYN-04" not in ids(F))
+    # 带 by 施事的被动是有意为之，不计入过量
+    F, _ = I.inspect(art(["The circular was **signed** by Pickering.",
+                          "It was **read** by many.", "It was **kept** by few.",
+                          "It was **held** by one.", "It was **seen** by all."]), arts)
+    check("带 by 施事的被动不计过量", "SYN-01" not in ids(F))
+    F, _ = I.inspect(art(["It was **done**.", "It was **made**.", "It was **kept**.",
+                          "It was **sent**.", "It was **lost**."]), arts)
+    check("无施事被动过量 → SYN-01", "SYN-01" in ids(F))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

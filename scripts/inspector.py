@@ -63,6 +63,24 @@ try:
 except Exception:
     HAVE_WF = False
 
+# spaCy 句法解析：把「抽象主语」「被动语态」「句长节奏」从正则猜测升级为真读句子
+try:
+    import spacy
+    NLP = spacy.load("en_core_web_sm")
+except Exception:
+    NLP = None
+
+# 写作规范 §3.3 所指的抽象主语
+ABSTRACT_SUBJ = {
+    "discovery", "insight", "analysis", "approach", "method", "result", "finding",
+    "idea", "concept", "process", "development", "conclusion", "explanation",
+    "work", "theory", "system", "relation", "scale", "framework", "narrative",
+}
+PASSIVE_MAX = 15.0      # 被动句占比上限（范文多在 0—11%）
+STDEV_MIN = 4.5         # 句长标准差下限：低于此值节奏单调
+REPEAT_MAX = 0.35       # 邻句实词重复均值上限
+LONG_SENT = 34          # 单句词数上限
+
 def cheapness(word):
     """返回 (等级, zipf)。等级: 'cheap' 确定白送 / 'soft' 边缘 / None 合格"""
     w = re.sub(r"[^a-zA-Z]", "", word).lower()
@@ -406,6 +424,58 @@ def inspect(a, archive):
                 continue
             F.append(Finding("FACT-01", "史实", "check", "正文数字在核对中查无出处", v,
                              "补进 facts 并附来源；数字是这套文章最容易在改写中飘走的东西"))
+
+    # ── 第八层 SYN · 句法（spaCy 真解析，2026-08-16 加）─────────────────
+    if NLP is not None:
+        import statistics as _st
+        STOPL = set("the a an and or of to in on at for from by as that this it its their "
+                    "they he she we you not but was were is are be been had have has do "
+                    "does did will would could should may might must can".split())
+        lens, npass, nsent, absubj, rep, pairs, longs = [], 0, 0, [], 0, 0, []
+        for i, p in enumerate(paras, 1):
+            doc = NLP(p["en"].replace("**", ""))
+            prev = None
+            for sent in doc.sents:
+                n = sum(1 for t in sent if not t.is_punct)
+                if n < 3:
+                    continue
+                lens.append(n); nsent += 1
+                if n > LONG_SENT:
+                    longs.append((i, n, sent.text.strip()[:70]))
+                # 带 by 施事的被动是有意为之（The circular was **signed** by Pickering
+                # ——要突出署名者不是她），不计入过量
+                if any(t.dep_ in ("nsubjpass", "auxpass") for t in sent) and not any(
+                        t.dep_ == "agent" for t in sent):
+                    npass += 1
+                for t in sent:
+                    if t.dep_ == "nsubj" and t.lemma_.lower() in ABSTRACT_SUBJ:
+                        absubj.append((i, t.text, sent.text.strip()[:70]))
+                cur = {t.lemma_.lower() for t in sent
+                       if t.pos_ in ("NOUN", "VERB") and t.lemma_.lower() not in STOPL}
+                if prev is not None:
+                    pairs += 1; rep += len(prev & cur)
+                prev = cur
+        if nsent:
+            pr = npass / nsent * 100
+            if pr > PASSIVE_MAX:
+                F.append(Finding("SYN-01", "句法", "check", "被动语态偏多",
+                    f"{npass}/{nsent} 句 = {pr:.0f}%（上限 {PASSIVE_MAX}%，范文多在 0—11%）",
+                    "写作规范 §3.3：主语用人或具体物；被动句把施事藏起来了"))
+            sd = _st.pstdev(lens) if len(lens) > 1 else 0
+            if sd < STDEV_MIN:
+                F.append(Finding("SYN-02", "句法", "check", "句长节奏单调",
+                    f"均长 {_st.mean(lens):.1f}，标准差 {sd:.1f}（下限 {STDEV_MIN}）",
+                    "长短句交替才有呼吸；全篇句长接近会读得发闷"))
+        for i, n, t in longs:
+            F.append(Finding("SYN-03", "句法", "check", f"§{i} 单句过长",
+                f"{n} 词：{t}…", "一句只装一个意思"))
+        for i, w, t in absubj:
+            F.append(Finding("SYN-04", "句法", "check", f"§{i} 抽象名词作主语",
+                f"{w} —— {t}…", "写作规范 §3.3：把动作还给具体的人或物"))
+        if pairs and rep / pairs > REPEAT_MAX:
+            F.append(Finding("SYN-05", "句法", "info", "邻句实词重复偏多",
+                f"每对相邻句平均重复 {rep/pairs:.2f} 个实词（上限 {REPEAT_MAX}）",
+                "接力靠的是推进，不是复述同一个名词"))
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 

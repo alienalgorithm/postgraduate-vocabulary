@@ -13,14 +13,14 @@
     "date": "2026-08-11",
     "status": "第十篇最终精校稿",
     "metrics": {
-      "words": 270,
+      "words": 269,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.6
     },
     "paras": [
       {
-        "en": "In July 1799 soldiers strengthening a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its words were **rendered** in two languages but **carved** in three scripts; only the Greek was **intelligible**.",
-        "zh": "1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**碑石**(stone)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。法令以两种语言**表达**(rendered)，并用三种文字体系**刻写**(carved)；其中只有希腊文能让学者**读懂**(intelligible)。"
+        "en": "In July 1799 soldiers strengthening a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **set** the same words in two languages, three scripts; only the Greek was **intelligible**.",
+        "zh": "1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**碑石**(stone)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字刻了**出来**(set)；其中只有希腊文能让学者**读懂**(intelligible)。"
       },
       {
         "en": "The Greek **passage** was **parallel** to the Egyptian ones, not an **exact** match. A **familiar** name offered a **clue**: its Egyptian and Greek spellings could be matched. Inside an **oval** cartouche, signs seemed to spell Ptolemy. By 1814 Thomas Young **realised** several signs carried **sounds**. His **tentative** reading gave decipherment an **anchor**.",
@@ -66,8 +66,8 @@
         "p": 1
       },
       {
-        "w": "priest",
-        "zh": "祭司；神职人员",
+        "w": "priests",
+        "zh": "祭司",
         "p": 1
       },
       {
@@ -76,13 +76,13 @@
         "p": 1
       },
       {
-        "w": "render",
-        "zh": "以某种形式呈现；表达",
+        "w": "carvers",
+        "zh": "刻工",
         "p": 1
       },
       {
-        "w": "carve",
-        "zh": "刻写",
+        "w": "set",
+        "zh": "置于；安放",
         "p": 1
       },
       {
@@ -121,7 +121,7 @@
         "p": 2
       },
       {
-        "w": "realise",
+        "w": "realised",
         "zh": "意识到",
         "p": 2
       },
@@ -151,7 +151,7 @@
         "p": 3
       },
       {
-        "w": "pronounce",
+        "w": "pronounced",
         "zh": "发音",
         "p": 3
       },
@@ -176,7 +176,7 @@
         "p": 3
       },
       {
-        "w": "guide",
+        "w": "guided",
         "zh": "引导",
         "p": 3
       },
@@ -231,12 +231,12 @@
         "p": 4
       },
       {
-        "w": "archive",
-        "zh": "档案；档案库",
+        "w": "archives",
+        "zh": "档案",
         "p": 4
       },
       {
-        "w": "study",
+        "w": "studied",
         "zh": "研究",
         "p": 4
       },
@@ -261,8 +261,8 @@
         "p": 5
       },
       {
-        "w": "rival",
-        "zh": "竞争对手；竞争的",
+        "w": "rivals",
+        "zh": "竞争对手",
         "p": 5
       },
       {

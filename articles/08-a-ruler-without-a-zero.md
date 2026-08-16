@@ -9,13 +9,13 @@
 
 ## 英文正文
 
-In **astronomy** a dim star is ambiguous: little light, or great distance? At Harvard, Henrietta Leavitt joined eighty women **employed** to **inspect** photographic **plates** at 25 cents an hour — she got 30, on **merit**. None was allowed at the **telescopes**. Her **tedious** **task** was to **catalogue** **variables**; she found 1,777.
+In **astronomy** a dim star is ambiguous: little light, or great distance? At Harvard, Henrietta Leavitt joined eighty women **employed** to **inspect** photographic **plates** at 25 cents an hour — she got 30, on **merit**. Harvard kept them from the **telescopes**. Her **tedious** **task** was to **catalogue** **variables**; she found 1,777.
 
 A 1908 table listed 16 variables, each brightening and dimming to a **regular** **rhythm**. Leavitt **noticed** that the brighter ones had longer cycles. The Small Magellanic Cloud, a **smudge** of sky, gave her an **advantage**: its **faint** variables could be treated as sharing one **distance**. Under that **assumption**, **relative** brightness reflected **intrinsic** luminosity.
 
 By 1912 she had periods for 25 stars. The **tendency** held: longer **periods**, brighter stars. She **analysed** **magnitudes** against the **logarithm** of period. Each set fell into a **cadence**: period **corresponded** to relative luminosity. The circular was **signed** by Edward Pickering; its opening says it was **prepared** by Miss Leavitt. Without a zero point, no absolute distance could be **derived**.
 
-Later astronomers **pegged** it to Cepheid distances known independently. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used it to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; the scale became a **foundation** for measuring the **universe**'s **expansion**.
+Later astronomers **pegged** it to Cepheid distances known independently. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used it to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; astronomers built on it a **foundation** for the **universe**'s **expansion**.
 
 Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation letting others **infer** distances they could not measure. In 1925 Mittag-Leffler wrote to nominate her for a Nobel, unaware she had died in 1921. The **honour** is never **posthumous**.
 
@@ -26,13 +26,13 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-在**天文学**(astronomy)里，一颗暗星是含混的：是发光少，还是离得远？在哈佛，亨丽埃塔·莱维特加入了八十名**受雇**(employed)**检视**(inspect)照相**底片**(plates)的女性，时薪二毛五——她拿三毛，凭的是**本事**(merit)。她们谁也不被允许靠近**望远镜**(telescopes)。她**枯燥的**(tedious)**活计**(task)是**编目**(catalogue)**变星**(variables)；她找出了1777颗。
+在**天文学**(astronomy)里，一颗暗星是含混的：是发光少，还是离得远？在哈佛，亨丽埃塔·莱维特加入了八十名**受雇**(employed)**检视**(inspect)照相**底片**(plates)的女性，时薪二毛五——她拿三毛，凭的是**本事**(merit)。哈佛不让她们中的任何一个靠近**望远镜**(telescopes)。她**枯燥的**(tedious)**活计**(task)是**编目**(catalogue)**变星**(variables)；她找出了1777颗。
 
 1908年的一份表列出16颗变星，每颗都以**规律的**(regular)**节奏**(rhythm)明暗交替。莱维特**注意到**(noticed)：越亮的，周期越长。小麦哲伦云那**一片**(smudge)天区给了她一个**便利**(advantage)：其中**暗弱的**(faint)变星可以当作处在同一**距离**(distance)上。有了这个**假定**(assumption)，**相对**(relative)亮度反映的就是**内禀**(intrinsic)光度。
 
 到1912年她有了25颗星的周期，那个**趋势**(tendency)站住了：**周期**(periods)越长，星越亮。她把**星等**(magnitudes)对周期的**对数**(logarithm)作了**分析**(analysed)。两组点各自落成一条**规律**(cadence)：周期**对应**(corresponded)着相对光度。那份通报**署**(signed)着爱德华·皮克林的名字，开头一句却写：本文由莱维特小姐**拟就**(prepared)。没有零点，绝对距离**推**(derived)不出来。
 
-后来的天文学家把它**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用它**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；这把标尺也成了测量**宇宙**(universe)**膨胀**(expansion)的**基础**(foundation)。
+后来的天文学家把它**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用它**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家由此为测量**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。
 
 她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。1925年，米塔-列夫勒写信来要提名她诺贝尔奖，却不知她已在1921年去世。这项**荣誉**(honour)从不**追授**(posthumous)。
 
