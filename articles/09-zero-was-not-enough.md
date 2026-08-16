@@ -62,3 +62,4 @@ India was the hardest test: in 1974 it held two-thirds of the **caseload**; by 1
 - 冻干疫苗在热带高温下保持稳定；双叉针两齿间夹持一剂疫苗，经短时培训即可使用，显著节省用量。天花无动物宿主，潜伏期不具传染性，这两点使围堵在技术上可行。[CDC](https://www.cdc.gov/smallpox/about/history.html)
 - 1974年印度约占全球病例的三分之二，报告病例逾36000例；经大规模监测—围堵，至1975年5月印度境内传播中断。[CIDRAP：William Foege](https://www.cidrap.umn.edu/public-health/world-mourns-death-public-health-icon-william-foege)
 - 1978年，伯明翰大学医学院医学摄影师珍妮特·帕克因楼下实验室泄漏感染，8月20日确诊重型天花，9月11日去世，为已知最后一名天花死者。1979年全球根除认证委员会认证根除，1980年5月8日世界卫生大会正式宣布。[Origins：The WHO and the Eradication of Smallpox](https://origins.osu.edu/read/who-and-eradication-smallpox)
+- 冻干（freeze-dried）痘苗的关键指标是耐热：在45℃下可保持效价约一个月，远优于液体苗，因而适用于无冷链的热带地区。[WHO：Smallpox vaccine](https://www.who.int/news-room/questions-and-answers/item/smallpox)

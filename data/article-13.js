@@ -297,7 +297,8 @@
       "斑块大小编码切离时刻：Ds越早离开，其后代细胞越多，色斑越大；越晚离开则越小。每一色斑对应一个细胞谱系。",
       "1950年，她在《美国科学院院刊》发表《玉米可变位点的起源与行为》；1951年夏在冷泉港年度研讨会报告《染色体组织与基因表达》。她本人将当时的反应描述为「困惑，甚至敌意」。[Citizendium：Barbara McClintock](https://citizendium.org/wiki/Barbara_McClintock/Citable_Version)",
       "**1953年她停止就此发表**——按其自述，是因为「敏锐地意识到人们对这些结论的漠然与不信任」。[AAAS：McClintock was years away from her colleagues](https://www.aaas.org/taxonomy/term/10/barbara-mcclintock-was-years-away-her-colleagues)",
-      "1960年代分子生物学家在细菌等体系中独立发现可移动元件，其结论方获广泛接受。1983年她获诺贝尔生理学或医学奖，为首位独得该奖（不与人分享）的女性。目前已知人类基因组中超过45%由转座元件构成。[PNAS：McClintock and the discovery of jumping genes](https://www.pnas.org/doi/10.1073/pnas.1219372109)｜[ASU Embryo Project](https://embryo.asu.edu/taxonomy/term/145351)｜[ScienceInsights：45%](https://scienceinsights.org/what-did-barbara-mcclintock-discover-jumping-genes/)"
+      "1960年代分子生物学家在细菌等体系中独立发现可移动元件，其结论方获广泛接受。1983年她获诺贝尔生理学或医学奖，为首位独得该奖（不与人分享）的女性。目前已知人类基因组中超过45%由转座元件构成。[PNAS：McClintock and the discovery of jumping genes](https://www.pnas.org/doi/10.1073/pnas.1219372109)｜[ASU Embryo Project](https://embryo.asu.edu/taxonomy/term/145351)｜[ScienceInsights：45%](https://scienceinsights.org/what-did-barbara-mcclintock-discover-jumping-genes/)",
+      "麦克林托克自1944年起在冷泉港以玉米为材料系统研究染色体断裂—融合—桥循环；1948年将该断裂位点命名为 Dissociation（Ds）。"
     ]
   };
   root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };

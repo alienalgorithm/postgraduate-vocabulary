@@ -74,3 +74,4 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 - 来源：[NASA GISS：3.2厘米3.0±0.5 K及2.63毫米后续测量](https://www.giss.nasa.gov/pubs/abs/th05200z.html)
 - 来源：[NASA LAMBDA：COBE的FIRAS黑体谱与DMR十万分之一各向异性](https://lambda.gsfc.nasa.gov/product/cobe/)
 - 来源：[1978年诺贝尔物理学奖新闻稿](https://www.nobelprize.org/prizes/physics/1978/press-release/)
+- COBE 测得的宇宙微波背景各向异性幅度约为10⁻⁵量级，即约十万分之一。[NASA COBE 结果]

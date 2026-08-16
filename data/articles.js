@@ -1795,7 +1795,8 @@ window.SITE = {
       "工业化是另一类问题。热氢渗入钢材并夺取其中的碳，导致容器脆化、无法承压；博施团队以双层结构（内衬泄氢、外壳承载）解决。此为氢脆/脱碳问题的经典工程对策。[Grokipedia：Haber process](https://grokipedia.com/page/Haber_process)",
       "锇稀缺不足以支撑商业化。**阿尔文·米塔施系统筛选约2500种催化剂、进行约6500次试验**，最终选定含钾与氧化铝助剂的瑞典磁铁矿基铁催化剂——1913年奥保投产时，这成为工业多相催化的首个实例。[ScienceDirect：Haber-Bosch Process](https://www.sciencedirect.com/topics/chemistry/haber-bosch-process)｜[Chemistry World：A fixation with nitrogen](https://www.chemistryworld.com/features/a-fixation-with-nitrogen/6076.article)",
       "奥保工厂1913年9月投产，距1909年7月的台式演示四年零两个月；**1914年日产氨约40吨，约为实验室每小时125毫升的32万倍**。一战期间英国海上封锁切断智利硝石供应，氨经氧化制硝酸，转而供给炸药与弹药。哈伯、博施分获1918与1931年诺贝尔化学奖。[Execution Atlas：Haber-Bosch 数据与时间线](https://execution-atlas.com/en/articles/haber-bosch-process/)｜[Chemistry World](https://www.chemistryworld.com/features/a-fixation-with-nitrogen/6076.article)",
-      "当代合成氨仍沿用可辨识的哈伯法，只是改用铁基催化剂并强化热回收；其能耗约占全球能源的1%—2%，所需氢多来自化石燃料，排放集中在上游。可再生电力制氢可替代该部分氢源，提高施肥效率则可抑制过量氮向水体与大气的流失。[Cambridge Core：HB 工艺综述](https://resolve.cambridge.org/core/product/F1159C9DB99D2B99D3B78518CCB4E90D/core-reader)"
+      "当代合成氨仍沿用可辨识的哈伯法，只是改用铁基催化剂并强化热回收；其能耗约占全球能源的1%—2%，所需氢多来自化石燃料，排放集中在上游。可再生电力制氢可替代该部分氢源，提高施肥效率则可抑制过量氮向水体与大气的流失。[Cambridge Core：HB 工艺综述](https://resolve.cambridge.org/core/product/F1159C9DB99D2B99D3B78518CCB4E90D/core-reader)",
+      "**放大倍数的算法**：实验室每小时125毫升氨（密度约0.73 g/L，约0.09克/小时，合约2.2克/日）；1914年奥保日产40吨。两者相差约3.2×10⁵倍，正文取「放大32万倍」。"
     ]
   },
     {

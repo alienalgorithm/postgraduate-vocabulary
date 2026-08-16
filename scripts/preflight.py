@@ -30,6 +30,8 @@ def run(name, cmd, ok_if=None):
 
 print(BAR); print("起飞前检查"); print(BAR)
 
+run("工具回归测试（33条，锁住每个已修缺陷）", "python3 scripts/test_tools.py",
+    lambda o: "失败 0" in o)
 run("markdown 构建与全部结构校验", "python3 scripts/build_markdown.py",
     lambda o: "全部通过" in o)
 run("markdown 与数据层同步", "git diff --exit-code -- articles")

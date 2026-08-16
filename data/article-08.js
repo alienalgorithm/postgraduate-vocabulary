@@ -297,7 +297,8 @@
       "小麦哲伦云中的变星可近似视为处于同一距离，因而其相对亮度反映内禀光度之差——这是整条关系得以成立的前提假定。",
       "**1912年的《小麦哲伦云中25颗变星的周期》由爱德华·皮克林署名并「代为通报」，但文章第一句写明系「由莱维特小姐拟就」（prepared by Miss Leavitt）。**她把星等对周期的对数作图，两组点各自落成直线。[HandWiki：Henrietta Swan Leavitt](https://handwiki.org/wiki/Biography:Henrietta_Swan_Leavitt)｜[Astrobites：Leavitt's Standard Candles](https://astrobites.org/2019/03/08/leavitt-variable-stars/)",
       "该关系缺少零点，故本身不能给出绝对距离；须以独立测得的造父变星距离标定后，方可作标准烛光使用。1923—24年哈勃据此确认仙女座位于银河系之外，造父变星标尺随后成为测量宇宙膨胀的基础。",
-      "**1925年，瑞典数学家约斯塔·米塔-列夫勒去信拟提名莱维特角逐诺贝尔物理学奖，不知她已于1921年病逝；该奖不追授。**[Spacedaily：the scale of the universe](https://spacedaily.com/t-much-of-what-we-know-about-the-scale-of-the-universe-rests-on-a-method-worked-out-by-a-woman-employed-as-a-human-computer-at-harvard-for-a-few-cents-an-hour/)"
+      "**1925年，瑞典数学家约斯塔·米塔-列夫勒去信拟提名莱维特角逐诺贝尔物理学奖，不知她已于1921年病逝；该奖不追授。**[Spacedaily：the scale of the universe](https://spacedaily.com/t-much-of-what-we-know-about-the-scale-of-the-universe-rests-on-a-method-worked-out-by-a-woman-employed-as-a-human-computer-at-harvard-for-a-few-cents-an-hour/)",
+      "莱维特1908年《麦哲伦云中的1777颗变星》一文中，列出周期已定的变星共16颗，并指出较亮者周期较长；1912年的通报把样本扩至25颗。"
     ]
   };
   root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };

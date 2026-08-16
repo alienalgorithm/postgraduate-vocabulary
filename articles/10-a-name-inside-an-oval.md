@@ -69,3 +69,4 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 - 来源：[British Museum：罗塞塔石碑与1822年破译时间线](https://www.britishmuseum.org/exhibitions/hieroglyphs-unlocking-ancient-egypt/egyptian-hieroglyphs-decipherment-timeline)
 - 来源：[National Trust：菲莱方尖碑、托勒密与克利奥帕特拉王名](https://www.nationaltrust.org.uk/visit/dorset/kingston-lacy/the-treasures-at-kingston-lacy)
 - 来源：[Collège de France：石碑并非唯一钥匙，破译依赖大量其他文献](https://www.college-de-france.fr/en/agenda/seminar/champollion-1822-exhibition-public-lectures-and-readings/deciphering-hieroglyphics-is-the-rosetta-stone-really-the-key-to-the-enigma)
+- 托马斯·扬对王名框的读解发表于1814—1819年间；正文取1814年，即他确认「托勒密」音值、为破译提供锚点的一年。

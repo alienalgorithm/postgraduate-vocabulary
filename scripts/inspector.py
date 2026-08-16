@@ -364,13 +364,48 @@ def inspect(a, archive):
                 F.append(Finding("ZH-01", "中文", "info", f"§{i} 单字加粗需确认",
                     f"**{z}**({m.group(2)})　…{p['zh'][max(0,m.start()-10):m.end()+8]}…",
                     "为对上英文词而挤出的单字，在中文里未必立得住"))
-        for a, b in zip(zs, zs[1:]):
-            if b.start() - a.end() <= 1 and len(a.group(1)) == 1 and len(b.group(1)) == 1:
+        for m1, m2 in zip(zs, zs[1:]):
+            if m2.start() - m1.end() <= 1 and len(m1.group(1)) == 1 and len(m2.group(1)) == 1:
                 F.append(Finding("ZH-02", "中文", "check", f"§{i} 一个中文词疑被拆成两个名额",
-                    f"**{a.group(1)}**({a.group(2)})**{b.group(1)}**({b.group(2)})"
-                    f" → 「{a.group(1)}{b.group(1)}」",
+                    f"**{m1.group(1)}**({m1.group(2)})**{m2.group(1)}**({m2.group(2)})"
+                    f" → 「{m1.group(1)}{m2.group(1)}」",
                     "如「追授」被拆成 posthumously+awarded、「骤跌」被拆成 sudden+slump；"
                     "改英文用词，让一个中文词只对一个英文词"))
+
+    # ── 第七层 FACT · 数字必须有出处（2026-08-16 加）───────────────────
+    # 正文改过几百次，数字最易随改动飘走而无人察觉。
+    NUMRE = re.compile(r"\d[\d,.]*")
+    def numset(t):
+        out = set()
+        for m in NUMRE.finditer(t.replace("**", "")):
+            v = m.group(0).rstrip(".").replace(",", "")
+            if not v:
+                continue
+            out.add(v)
+            if "." in v:                      # 39.2 → 也认 39
+                out.add(v.split(".")[0])
+        return out
+    facts_txt = " ".join(a.get("facts") or [])
+    if not facts_txt:
+        F.append(Finding("FACT-00", "史实", "hard", "无史实核对", "facts 为空",
+                         "每条可核查的事实都须给出处，否则无法复核"))
+    else:
+        fn = numset(facts_txt)
+        body_txt = " ".join(p["en"] for p in paras)
+        for v in sorted(numset(body_txt)):
+            if v in ("1", "2", "3", "4", "5") or len(v) < 2:
+                continue
+            if v in fn:
+                continue
+            # 容许千分位与区间写法：320000↔320,000、1886–87 的 87
+            if any(v == f or v in f for f in fn):
+                continue
+            # 中文核对里常写作 10⁻⁵ / 3.2×10⁵ / 32万 等科学或中式计数
+            SCI = {"320000": ("3.2×10⁵", "32万"), "100000": ("10⁻⁵", "十万分之一")}
+            if v in SCI and any(x in facts_txt for x in SCI[v]):
+                continue
+            F.append(Finding("FACT-01", "史实", "check", "正文数字在核对中查无出处", v,
+                             "补进 facts 并附来源；数字是这套文章最容易在改写中飘走的东西"))
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 

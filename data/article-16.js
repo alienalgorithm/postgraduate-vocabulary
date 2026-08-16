@@ -307,7 +307,8 @@
       "来源：[Bullen 1953：杰弗里斯计算与内核接受史](https://www.annalsofgeophysics.eu/index.php/annals/article/view/5761)",
       "来源：[Birch 1952：晶体铁内核与液态铁外核](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JZ057i002p00227)",
       "来源：[NASA：现代地球内核的半径、成分与外核状态](https://science.nasa.gov/earth/facts/)",
-      "来源：[NASA：月球半径约1740公里](https://science.nasa.gov/moon/facts/)"
+      "来源：[NASA：月球半径约1740公里](https://science.nasa.gov/moon/facts/)",
+      "地球内核半径约1220公里（直径约2440公里），小于月球直径3474公里；其外为液态金属外核。[USGS / PREM 模型标准值]"
     ]
   };
   root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
