@@ -13,9 +13,9 @@
     "date": "2026-08-13",
     "status": "第二十篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 267,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.7
     },
     "paras": [
       {
@@ -35,8 +35,8 @@
         "zh": "第一阶段1995年启动，覆盖263台机组。一些电厂**加装了**(retrofitted)洗涤器，另一些改烧低硫煤。减排**早**(sooner)于计划到来，**代价**(expense)也无人**预料**(forecast)：业界曾称每吨1000美元，配额成交价却在150美元上下。交易并非唯一的**促成因素**(contributor)——铁路**承运商**(carriers)之间的**竞争**(competition)压低了**运费**(haulage)，其后的**法令**(statutes)也**加快**(accelerated)了降幅。"
       },
       {
-        "en": "The **institutional** lesson is sequence. **Lawmakers** fixed the **statutory** cap first; trading then **disclosed** which sources had lower **marginal** costs. Dan Dudek, an architect of the scheme, insisted on that order. Success rested on **bounded** supply, **credible** measurement and unavoidable **reconciliation**. The EU copied it in 2005. A market can **reallocate** **permission**; it cannot set the atmosphere's budget.",
-        "zh": "**制度**(institutional)上的教训在于次序。**立法者**(Lawmakers)先把**法定**(statutory)上限定死，交易此后才**显露**(disclosed)出哪些排放源的**边际**(marginal)治理成本更低。方案设计者之一丹·杜德克坚持的正是这个次序。成功依赖于供给有**界**(bounded)、计量**可信**(credible)、清算**不可回避**(reconciliation)。欧盟2005年照搬了这套架构。市场能**重新分配**(reallocate)**许可**(permission)；它定不了大气的预算。"
+        "en": "**Lawmakers** fixed the **statutory** cap first; trading then **disclosed** which sources had lower **marginal** costs. Dan Dudek, an architect of the scheme, insisted on that order. The **institutional** lesson is sequence: **bounded** supply, **credible** measurement, unavoidable **reconciliation**. The EU copied that architecture in 2005. A market can **reallocate** **permission**; it cannot set the atmosphere's budget.",
+        "zh": "**立法者**(Lawmakers)先把**法定**(statutory)上限定死，交易此后才**显露**(disclosed)出哪些排放源的**边际**(marginal)治理成本更低。方案设计者之一丹·杜德克坚持的正是这个次序。**制度**(institutional)上的教训就在于此：供给有**界**(bounded)、计量**可信**(credible)、清算**不可回避**(reconciliation)。欧盟2005年照搬了这套架构。市场能**重新分配**(reallocate)**许可**(permission)；它定不了大气的预算。"
       }
     ],
     "glossary": [
@@ -196,8 +196,8 @@
         "p": 4
       },
       {
-        "w": "soon",
-        "zh": "早；不久",
+        "w": "sooner",
+        "zh": "sooner",
         "p": 4
       },
       {
@@ -221,13 +221,13 @@
         "p": 4
       },
       {
-        "w": "carrier",
-        "zh": "承运商；运输公司",
+        "w": "haulage",
+        "zh": "运输；运输费",
         "p": 4
       },
       {
-        "w": "haulage",
-        "zh": "运输；运输费",
+        "w": "carrier",
+        "zh": "承运商；运输公司",
         "p": 4
       },
       {
@@ -239,11 +239,6 @@
         "w": "accelerated",
         "zh": "accelerated",
         "p": 4
-      },
-      {
-        "w": "institutional",
-        "zh": "制度层面的；机构的",
-        "p": 5
       },
       {
         "w": "lawmaker",
@@ -263,6 +258,11 @@
       {
         "w": "marginal",
         "zh": "边际的；临界的",
+        "p": 5
+      },
+      {
+        "w": "institutional",
+        "zh": "制度层面的；机构的",
         "p": 5
       },
       {

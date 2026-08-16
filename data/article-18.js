@@ -13,14 +13,14 @@
     "date": "2026-08-13",
     "status": "第十八篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 264,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.9
     },
     "paras": [
       {
-        "en": "In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium load. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess antenna temperature of 3.5 kelvin.",
-        "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们把系统**对**(referenced)到一个液氦负载上。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。"
+        "en": "In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess antenna temperature of 3.5 kelvin.",
+        "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们把系统**对**(referenced)到一个液氦**负载**(load)上。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。"
       },
       {
         "en": "They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess appeared **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.",
@@ -35,8 +35,8 @@
         "zh": "一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE测得它在2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。"
       },
       {
-        "en": "The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**. It became evidence only after every **homegrown** **culprit** was ruled out. COBE later **pinned** the temperature at 2.725 kelvin. The sky would not go quiet.",
-        "zh": "这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让**剩余信号**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)。只有在每一个**自家**(homegrown)**嫌疑来源**(culprit)都被排除之后，它才成为证据。COBE后来把温度**钉**(pinned)在2.725开尔文。天空仍不肯安静。"
+        "en": "The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**; it became evidence only after every **homegrown** **culprit** had been ruled out, and the sky would not go quiet.",
+        "zh": "这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让**剩余信号**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)；只有在每一个**自家**(homegrown)**嫌疑来源**(culprit)都被排除之后，它才成为证据——而天空仍不肯安静。"
       }
     ],
     "glossary": [
@@ -63,6 +63,11 @@
       {
         "w": "referenced",
         "zh": "referenced",
+        "p": 1
+      },
+      {
+        "w": "load",
+        "zh": "负载",
         "p": 1
       },
       {
@@ -283,11 +288,6 @@
       {
         "w": "culprit",
         "zh": "罪魁；可疑来源",
-        "p": 5
-      },
-      {
-        "w": "pinned",
-        "zh": "pinned",
         "p": 5
       }
     ],

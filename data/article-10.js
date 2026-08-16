@@ -36,7 +36,7 @@
       },
       {
         "en": "The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**; credit remains in **dispute**. The work was **cumulative**, drawing on Coptic, copies and **testimony** from monuments. Across the decree’s three scripts, Ptolemy’s name supplied an anchor; other monuments let scholars **verify** readings, making the **puzzle** solvable.",
-        "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。扬与商博良互为**竞争对手**(rivals)；两人应得多少功劳，至今仍有**争议**(dispute)。但这项工作是**逐步累积的**(cumulative)，依靠科普特语、摹本和碑铭提供的**佐证**(testimony)。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。"
+        "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)；两人应得多少功劳，至今仍有**争议**(dispute)。这项工作是**逐步累积的**(cumulative)——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。"
       }
     ],
     "glossary": [

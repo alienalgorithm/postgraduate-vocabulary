@@ -2,14 +2,14 @@
 
 > 题材：1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景
 > 状态：**第十八篇最终精进锁定稿**（2026-08-13）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：264 词 / 50 重点词 / 密度 18.9%
 > 借助一座为卫星通信而建的号角天线，两名研究者逐一排查设备、地面、季节甚至鸽子；所有合理的本地嫌疑源都被排除后，天空仍不肯安静。
 
 ---
 
 ## 英文正文
 
-In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium load. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess antenna temperature of 3.5 kelvin.
+In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess antenna temperature of 3.5 kelvin.
 
 They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess appeared **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.
 
@@ -17,7 +17,7 @@ Nearby, Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and Dav
 
 One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the **cosmic** **background** **radiation** interpretation. Decades later COBE measured a near-perfect black-body **profile** and mapped **fluctuations**, or **anisotropies**, near one part in 100,000. The nearly uniform **thermal** glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.
 
-The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**. It became evidence only after every **homegrown** **culprit** was ruled out. COBE later **pinned** the temperature at 2.725 kelvin. The sky would not go quiet.
+The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**; it became evidence only after every **homegrown** **culprit** had been ruled out, and the sky would not go quiet.
 
 ---
 
@@ -26,7 +26,7 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们把系统**对**(referenced)到一个液氦负载上。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。
+1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们把系统**对**(referenced)到一个液氦**负载**(load)上。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。
 
 他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息**(roosted)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射呈**各向同性**(isotropic)、**没有偏振**(unpolarised)，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。
 
@@ -34,13 +34,13 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE测得它在2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。
 
-这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让**剩余信号**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)。只有在每一个**自家**(homegrown)**嫌疑来源**(culprit)都被排除之后，它才成为证据。COBE后来把温度**钉**(pinned)在2.725开尔文。天空仍不肯安静。
+这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让**剩余信号**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)；只有在每一个**自家**(homegrown)**嫌疑来源**(culprit)都被排除之后，它才成为证据——而天空仍不肯安静。
 
 ---
 
 ## 50 词速查表
 
-**§1**（9词）astronomer 天文学家｜horn 号角；喇叭口｜antenna 天线｜microwave 微波｜referenced referenced｜zenith 天顶｜residual 残余的；剩余量｜hiss 嘶声；嘶嘶作响｜equivalent 相当的；等价物
+**§1**（10词）astronomer 天文学家｜horn 号角；喇叭口｜antenna 天线｜microwave 微波｜referenced referenced｜load 负载｜zenith 天顶｜residual 残余的；剩余量｜hiss 嘶声；嘶嘶作响｜equivalent 相当的；等价物
 
 **§2**（10词）seam 接缝｜joint 连接处；关节｜interference 干扰｜pigeon 鸽子｜roost 栖息；栖息处｜scrubbed scrubbed｜dropping 粪便；滴下物｜isotropic 各向同性的｜unpolarised 未偏振的｜seasonal 季节性的
 
@@ -48,7 +48,7 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 **§4**（10词）wavelength 波长｜corroborated corroborated｜cosmic 宇宙的｜background 背景｜radiation 辐射｜profile 轮廓；谱形｜fluctuation 起伏；波动｜anisotropy 各向异性｜thermal 热的；热力的｜signature 特征；签名
 
-**§5**（11词）serendipity 偶然发现；意外所得｜craftsmanship 工艺；技艺｜subtraction 扣除；减法｜remainder 剩余量；余数｜trustworthy 可信的｜cosmological 宇宙学的｜afterglow 余辉｜whisper 低语；轻声说｜homegrown 自家的；本土的｜culprit 罪魁；可疑来源｜pinned pinned
+**§5**（10词）serendipity 偶然发现；意外所得｜craftsmanship 工艺；技艺｜subtraction 扣除；减法｜remainder 剩余量；余数｜trustworthy 可信的｜cosmological 宇宙学的｜afterglow 余辉｜whisper 低语；轻声说｜homegrown 自家的；本土的｜culprit 罪魁；可疑来源
 
 ---
 

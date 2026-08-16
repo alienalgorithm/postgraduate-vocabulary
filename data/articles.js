@@ -23,9 +23,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第一篇最终精进锁定稿",
     "metrics": {
-      "words": 269,
+      "words": 268,
       "keywords": 50,
-      "density": 18.6
+      "density": 18.7
     },
     "paras": [
       {
@@ -41,12 +41,12 @@ window.SITE = {
         "zh": "死亡**区域**(zone)之内，一所收容535名**院民**(inmates)的**济贫院**(workhouse)有自己的**钻井**(borehole)，**记录在案**(recorded)的死亡只有五例。紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，因为工人的**配给**(supplied)是啤酒。两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；空气一模一样，水不是。"
       },
       {
-        "en": "Susannah Eley, a **widow** in Hampstead **remote** from any Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **drank** the same bottle and died next day. Only those two deaths could **refute** the air. **Diggers** found the leaking **cesspit** two feet eight inches from the pump that **autumn**.",
-        "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。能**驳倒**(refute)空气说的，只有这两个人。那年**秋天**(autumn)，**挖掘工**(Diggers)才找到那口渗漏的**粪坑**(cesspit)——离水泵只有两英尺八英寸。"
+        "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **drank** the same bottle and died next day. Only those two deaths could **refute** the **miasma**. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.",
+        "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。能**驳倒**(refute)**瘴气说**(miasma)的，只有这两个人。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。"
       },
       {
-        "en": "On 8 September the **parish** **removed** the pump **handle**. Snow had no microscope, no germ, no **infection** theory — a map and two **anomalies**. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, the **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
-        "zh": "9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，这个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。"
+        "en": "On 8 September the **parish** **removed** the pump **handle**. **Diggers** found the leaking **cesspit** two feet eight inches away that autumn, long after. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, the **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
+        "zh": "9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。那年秋天，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)——早已是事后。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，这个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。"
       }
     ],
     "glossary": [
@@ -66,8 +66,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "blame",
-        "zh": "归咎于",
+        "w": "blamed",
+        "zh": "blamed",
         "p": 1
       },
       {
@@ -91,8 +91,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "draw",
-        "zh": "取（水）；抽取",
+        "w": "drew",
+        "zh": "drew",
         "p": 1
       },
       {
@@ -122,7 +122,7 @@ window.SITE = {
       },
       {
         "w": "strokes",
-        "zh": "短线（复）",
+        "zh": "短线；一划",
         "p": 2
       },
       {
@@ -136,8 +136,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "thin",
-        "zh": "变稀疏",
+        "w": "thinned",
+        "zh": "thinned",
         "p": 2
       },
       {
@@ -196,8 +196,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "empty",
-        "zh": "清空",
+        "w": "emptied",
+        "zh": "emptied",
         "p": 3
       },
       {
@@ -226,8 +226,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "drink",
-        "zh": "喝",
+        "w": "drank",
+        "zh": "drank",
         "p": 4
       },
       {
@@ -236,18 +236,18 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "digger",
-        "zh": "挖掘工",
+        "w": "miasma",
+        "zh": "瘴气",
         "p": 4
       },
       {
-        "w": "cesspit",
-        "zh": "粪坑",
+        "w": "infection",
+        "zh": "传染",
         "p": 4
       },
       {
-        "w": "autumn",
-        "zh": "秋天",
+        "w": "anomaly",
+        "zh": "异常",
         "p": 4
       },
       {
@@ -256,8 +256,8 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "remove",
-        "zh": "卸下；移走",
+        "w": "removed",
+        "zh": "removed",
         "p": 5
       },
       {
@@ -266,18 +266,18 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "infection",
-        "zh": "传染",
+        "w": "digger",
+        "zh": "挖掘工",
         "p": 5
       },
       {
-        "w": "anomaly",
-        "zh": "异常",
+        "w": "cesspit",
+        "zh": "粪坑",
         "p": 5
       },
       {
-        "w": "fade",
-        "zh": "消退",
+        "w": "fading",
+        "zh": "fading",
         "p": 5
       },
       {
@@ -1236,8 +1236,8 @@ window.SITE = {
         "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验位**(digit)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那条口香糖上的数是036000291452：一个厂商，一件商品，此外什么也没有。"
       },
       {
-        "en": "A **database** held the **description** and price, so prices changed without reprinting a wrapper, and each sale updated **inventory**. Machinery alone was no system: stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps that wrapper. The bars held the number; the price was elsewhere.",
-        "zh": "**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。商店要建账，互为对手的**供应商**(vendors)要造出**兼容的**(compatible)读头，厂商要把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。那条口香糖如今陈列在史密森学会。条纹里装的是那串数，价格在别处。"
+        "en": "A **database** held the **description** and price, so prices changed without reprinting a wrapper, and each sale updated **inventory**. Machinery alone was no system: stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps that wrapper: the bars held a number, the price was elsewhere.",
+        "zh": "**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。商店要建账，互为对手的**供应商**(vendors)要造出**兼容的**(compatible)读头，厂商要把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着那张包装纸：条纹里装的是一串数，价格在别处。"
       }
     ],
     "glossary": [
@@ -1262,8 +1262,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "sink",
-        "zh": "沉入；下陷",
+        "w": "sunk",
+        "zh": "sunk",
         "p": 1
       },
       {
@@ -1297,13 +1297,13 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "classify",
-        "zh": "分类",
+        "w": "optical",
+        "zh": "光学的",
         "p": 2
       },
       {
-        "w": "optical",
-        "zh": "光学的",
+        "w": "classify",
+        "zh": "分类",
         "p": 2
       },
       {
@@ -1362,6 +1362,11 @@ window.SITE = {
         "p": 3
       },
       {
+        "w": "smear",
+        "zh": "洇开；涂抹",
+        "p": 3
+      },
+      {
         "w": "print",
         "zh": "印刷",
         "p": 3
@@ -1369,11 +1374,6 @@ window.SITE = {
       {
         "w": "packaging",
         "zh": "包装",
-        "p": 3
-      },
-      {
-        "w": "smear",
-        "zh": "洇开；涂抹",
         "p": 3
       },
       {
@@ -1397,13 +1397,13 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "digit",
-        "zh": "数字；位",
+        "w": "digits",
+        "zh": "数位（复）",
         "p": 4
       },
       {
-        "w": "digits",
-        "zh": "数位（复）",
+        "w": "digit",
+        "zh": "数字；位",
         "p": 4
       },
       {
@@ -1422,8 +1422,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "sweep",
-        "zh": "扫过",
+        "w": "swept",
+        "zh": "swept",
         "p": 4
       },
       {
@@ -1533,8 +1533,8 @@ window.SITE = {
         "zh": "1913年9月，奥保工厂开工，距那台台式装置四年。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)32万倍。**化肥**(fertiliser)抬高了**收成**(harvests)。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。"
       },
       {
-        "en": "Ammonia is **indispensable** now, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it; better **efficiency** can curb **excess** nitrogen reaching water and air. Both men took Nobel prizes. The chemistry has hardly changed; the plant must be invented a third time.",
-        "zh": "如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那部分氢；更高的施肥**效率**(efficiency)可以收住**过量**(excess)氮向水和空气的流失。两人都为它拿了诺贝尔奖。这套化学几乎没变；要重新发明的，是第三次的工厂。"
+        "en": "Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.",
+        "zh": "如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那部分氢，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。"
       }
     ],
     "glossary": [
@@ -1579,13 +1579,13 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "mine",
-        "zh": "开采",
+        "w": "nitrate",
+        "zh": "硝石；硝酸盐",
         "p": 1
       },
       {
-        "w": "nitrate",
-        "zh": "硝石；硝酸盐",
+        "w": "mined",
+        "zh": "mined",
         "p": 1
       },
       {
@@ -1594,8 +1594,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "circulate",
-        "zh": "循环",
+        "w": "circulated",
+        "zh": "circulated",
         "p": 2
       },
       {
@@ -1634,8 +1634,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "recycle",
-        "zh": "回收",
+        "w": "recycled",
+        "zh": "recycled",
         "p": 2
       },
       {
@@ -1675,7 +1675,7 @@ window.SITE = {
       },
       {
         "w": "catalysts",
-        "zh": "催化剂（复）",
+        "zh": "催化剂",
         "p": 3
       },
       {
@@ -1694,8 +1694,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "magnify",
-        "zh": "放大",
+        "w": "magnified",
+        "zh": "magnified",
         "p": 4
       },
       {

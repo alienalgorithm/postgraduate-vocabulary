@@ -2,7 +2,7 @@
 
 > 题材：1909—1913 年盖革—马斯登散射实验与卢瑟福核式原子
 > 状态：**第十七篇最终精进锁定稿**（2026-08-12）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 绝大多数阿尔法粒子似乎支持旧原子模型；真正改写模型的，却是少数从薄箔中折返回来的粒子。
 
 ---
@@ -11,7 +11,7 @@
 
 In 1909, **undergraduate** Ernest Marsden joined Hans Geiger in a dark Manchester laboratory to test an **unusual** suggestion from Ernest Rutherford. A **radioactive** **emitter** sent **alpha** particles towards metal **foil**. A lead **shield** blocked the direct beam; a **fluorescent** zinc-sulphide **screen** produced a **flash** when struck by a returning particle.
 
-Most passed through the foil or changed direction only **slightly**. Yet a few underwent **backward** scattering, returning to the side of **incidence**. In one **platinum** test, roughly one in 8,000 was reflected. The **majority** followed the expected route; a tiny **fraction** underwent a large **deflection**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** could scarcely explain it.
+Most passed through the foil or changed direction only **slightly**. Yet a few underwent **backward** scattering, returning to the side of **incidence**. In one **platinum** test, roughly one in 8,000 was reflected — a **count** made by eye, in the dark, after thirty minutes letting the **pupils** **dilate**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** could scarcely explain it.
 
 Thomson's atom contained **electrons** **embedded** in **diffuse** positive charge. Each **encounter** delivered only a weak push. Rutherford's 1911 analysis required an **intense** **impulse** from a compact centre. Most of the **atomic** **volume** was empty; mass and charge were **concentrated** in the tiny body later called the **nucleus**.
 
@@ -28,7 +28,7 @@ The discovery was **collective**: Marsden counted flashes, Geiger brought experi
 
 1909年，在曼彻斯特一间昏暗的实验室里，**本科生**(undergraduate)欧内斯特·马斯登与汉斯·盖革一起检验欧内斯特·卢瑟福提出的一个**不同寻常的**(unusual)设想。一个**放射性**(radioactive)**发射源**(emitter)把**阿尔法**(alpha)粒子射向金属**薄箔**(foil)。铅制**屏障**(shield)挡住直达粒子束；若有折返粒子撞上**荧光的**(fluorescent)硫化锌**屏幕**(screen)，屏上便会出现一次**闪光**(flash)。
 
-大多数粒子穿过薄箔，或只发生**轻微**(slightly)偏转。但仍有少数发生**反向的**(backward)散射，回到**入射**(incidence)一侧。在一次使用**铂**(platinum)箔的试验中，大约每8000个粒子就有一个被反射。**绝大多数**(majority)沿预期路线前进；只有极小一**部分**(fraction)粒子发生了大角度**偏转**(deflection)。考虑到粒子的**动量**(momentum)，这种掉头极其**令人震惊**(astonishing)：连续的微弱**碰撞**(collisions)几乎无法解释这种结果。
+大多数粒子穿过薄箔，或只发生**轻微**(slightly)偏转。但仍有少数发生**反向的**(backward)散射，回到**入射**(incidence)一侧。在一次使用**铂**(platinum)箔的试验中，大约每8000个粒子就有一个被反射。这个**计数**(count)是在暗室里用肉眼数出来的，事先要等三十分钟，让**瞳孔**(pupils)充分**放大**(dilate)。考虑到粒子的**动量**(momentum)，这种掉头极其**令人震惊**(astonishing)：连续的微弱**碰撞**(collisions)几乎无法解释这种结果。
 
 汤姆孙的原子模型认为，**电子**(electrons)**嵌在**(embedded)**弥散的**(diffuse)正电荷中。每次**相遇**(encounter)只能给阿尔法粒子一个微弱推力。卢瑟福1911年的分析则要求粒子从一个紧凑中心获得一次**强烈的**(intense)**冲量**(impulse)。**原子的**(atomic)大部分**体积**(volume)其实是空的；质量和电荷则**集中在**(concentrated)一个后来被称为**原子核**(nucleus)的微小实体中。
 
@@ -42,11 +42,11 @@ The discovery was **collective**: Marsden counted flashes, Geiger brought experi
 
 **§1**（10词）undergraduate 本科生；大学本科的｜unusual 不同寻常的｜radioactive 放射性的｜emitter 发射源；发射体｜alpha 阿尔法；希腊字母α｜foil 薄箔；箔片｜shield 屏障；防护物｜fluorescent 发荧光的；荧光的｜screen 屏幕；屏障｜flash 闪光；闪现
 
-**§2**（10词）slight 轻微的；略微｜backward 向后的；向后｜incidence 入射；发生率｜platinum 铂；白金｜majority 绝大多数；多数｜fraction 小部分；比例；分数｜deflection 偏转；偏斜｜momentum 动量；势头｜astonishing 令人震惊的｜collision 碰撞；冲突
+**§2**（10词）slightly slightly｜backward 向后的；向后｜incidence 入射；发生率｜platinum 铂；白金｜count 计数｜pupils pupils｜dilate 放大；扩张｜momentum 动量；势头｜astonishing 令人震惊的｜collision 碰撞；冲突
 
-**§3**（10词）electron 电子｜embed 嵌入；使深植｜diffuse 弥散的；扩散｜encounter 相遇；遭遇｜intense 强烈的；高度集中的｜impulse 冲量；冲动｜atomic 原子的；原子能的｜volume 体积；数量；卷｜concentrate 集中；浓缩｜nucleus 原子核；核心
+**§3**（10词）electron 电子｜embedded embedded｜diffuse 弥散的；扩散｜encounter 相遇；遭遇｜intense 强烈的；高度集中的｜impulse 冲量；冲动｜atomic 原子的；原子能的｜volume 体积；数量；卷｜concentrated concentrated｜nucleus 原子核；核心
 
-**§4**（10词）formula 公式；配方｜proportional 成比例的；相称的｜thickness 厚度｜square 平方；正方形｜inverse 成反比的；相反的｜fourth 第四；四分之一｜systematic 系统的；有条理的｜quantitative 定量的；数量的｜distribution 分布；分配｜confirmation 证实；确认；佐证
+**§4**（10词）formula 公式；配方｜proportional 成比例的；相称的｜thickness 厚度｜square 平方；正方形｜inversely inversely｜fourth 第四；四分之一｜systematic 系统的；有条理的｜quantitative 定量的；数量的｜distribution 分布；分配｜confirmation 证实；确认；佐证
 
 **§5**（10词）collective 集体的；共同的｜discipline 纪律；严谨规范｜deduction 推论；演绎；扣除｜empirical 经验性的；以观察为依据的｜framework 框架；体系｜textbook 教科书；教科书式的｜narrative 叙事；叙述｜revelation 揭示；顿悟；启示｜outlier 离群值；离群结果｜overturn 推翻；倾覆
 

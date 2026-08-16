@@ -17,7 +17,7 @@ The factory was another matter. Hot hydrogen entered **steel** and stripped its 
 
 Oppau opened in September 1913, four years after the bench. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests**. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
 
-Ammonia is **indispensable** now, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it; better **efficiency** can curb **excess** nitrogen reaching water and air. Both men took Nobel prizes. The chemistry has hardly changed; the plant must be invented a third time.
+Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.
 
 ---
 
@@ -34,19 +34,19 @@ Ammonia is **indispensable** now, and making it **consumes** one or two per cent
 
 1913年9月，奥保工厂开工，距那台台式装置四年。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)32万倍。**化肥**(fertiliser)抬高了**收成**(harvests)。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
 
-如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那部分氢；更高的施肥**效率**(efficiency)可以收住**过量**(excess)氮向水和空气的流失。两人都为它拿了诺贝尔奖。这套化学几乎没变；要重新发明的，是第三次的工厂。
+如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那部分氢，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。
 
 ---
 
 ## 50 词速查表
 
-**§1**（10词）fifth 五分之一｜nitrogen 氮｜compound 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜lean 倚靠｜manure 厩肥｜mine 开采｜nitrate 硝石；硝酸盐
+**§1**（10词）fifth 五分之一｜nitrogen 氮｜compound 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜lean 倚靠｜manure 厩肥｜nitrate 硝石；硝酸盐｜mined mined
 
-**§2**（10词）apparatus 装置｜circulate 循环｜catalyst 催化剂｜atmosphere 大气压；气氛｜favour 有利于｜ammonia 氨｜hasten 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycle 回收
+**§2**（10词）apparatus 装置｜circulated circulated｜catalyst 催化剂｜atmosphere 大气压；气氛｜favour 有利于｜ammonia 氨｜hasten 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycled recycled
 
-**§3**（10词）steel 钢｜carbon 碳｜vessel 容器｜walled 有壁的｜liner 内衬｜weaken 削弱｜sift 筛选｜catalysts 催化剂（复）｜potassium 钾｜alumina 铝土；氧化铝
+**§3**（10词）steel 钢｜carbon 碳｜vessel 容器｜walled 有壁的｜liner 内衬｜weaken 削弱｜sift 筛选｜catalysts 催化剂｜potassium 钾｜alumina 铝土；氧化铝
 
-**§4**（10词）tonne 吨｜magnify 放大｜fertiliser 化肥｜harvest 收成｜blockade 封锁｜sever 切断｜nitric 硝的｜reactor 反应器｜explosive 炸药｜munition 弹药
+**§4**（10词）tonne 吨｜magnified magnified｜fertiliser 化肥｜harvest 收成｜blockade 封锁｜sever 切断｜nitric 硝的｜reactor 反应器｜explosive 炸药｜munition 弹药
 
 **§5**（10词）indispensable 不可或缺的｜consume 消耗｜hydrogen 氢｜fossil 化石的｜emission 排放｜upstream 上游的｜renewable 可再生的｜substitute 替代｜efficiency 效率｜excess 过量的
 

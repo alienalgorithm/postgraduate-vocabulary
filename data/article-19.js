@@ -13,9 +13,9 @@
     "date": "2026-08-15",
     "status": "第十九篇最终精进锁定稿",
     "metrics": {
-      "words": 269,
+      "words": 268,
       "keywords": 50,
-      "density": 18.6
+      "density": 18.7
     },
     "paras": [
       {
@@ -35,8 +35,8 @@
         "zh": "可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**撤离**(evacuation)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(handwrote)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。"
       },
       {
-        "en": "Bales was twenty-six. He read his **telemetry**, heard Garman, and said go inside fifteen **ticks**. A **resilient** system can **overload** without **collapsing**, because its **hierarchy** knows what to **sacrifice** and what to **preserve**. Eagle landed with some twenty-five seconds of **fuel** left. Bales later took a Presidential Medal. The alarms were never the **crisis**; not having read them beforehand would have been.",
-        "zh": "贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)，因为它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么。「鹰」号着陆时**燃料**(fuel)只剩约二十五秒。贝尔斯后来因此获总统自由勋章。警报从来不是那场**危机**(crisis)；事先没读过它们，才会是。"
+        "en": "Bales was twenty-six. He read his **telemetry**, heard Garman, and said go inside fifteen **ticks**. Eagle landed with twenty-five seconds of **fuel** left; Bales later took a Presidential Medal. A **resilient** system can **overload** without **collapsing**, because its **hierarchy** knows what to **sacrifice** and what to **preserve**; the alarms were never the **crisis** — not having read them beforehand would have been.",
+        "zh": "贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时**燃料**(fuel)只剩约二十五秒；贝尔斯后来因这次判断获总统自由勋章。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)，因为它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么；警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。"
       }
     ],
     "glossary": [
@@ -121,18 +121,18 @@
         "p": 2
       },
       {
-        "w": "claim",
-        "zh": "占去；索取",
-        "p": 2
-      },
-      {
         "w": "capacity",
         "zh": "算力；容量",
         "p": 2
       },
       {
-        "w": "key",
-        "zh": "敲入；键入",
+        "w": "claim",
+        "zh": "占去；索取",
+        "p": 2
+      },
+      {
+        "w": "keyed",
+        "zh": "keyed",
         "p": 2
       },
       {
@@ -211,18 +211,18 @@
         "p": 4
       },
       {
-        "w": "handwrite",
-        "zh": "手写",
-        "p": 4
-      },
-      {
-        "w": "console",
-        "zh": "控制台",
+        "w": "handwrote",
+        "zh": "handwrote",
         "p": 4
       },
       {
         "w": "plexiglass",
         "zh": "有机玻璃",
+        "p": 4
+      },
+      {
+        "w": "console",
+        "zh": "控制台",
         "p": 4
       },
       {
@@ -251,6 +251,11 @@
         "p": 5
       },
       {
+        "w": "fuel",
+        "zh": "燃料",
+        "p": 5
+      },
+      {
         "w": "resilient",
         "zh": "有韧性的",
         "p": 5
@@ -261,8 +266,8 @@
         "p": 5
       },
       {
-        "w": "collapse",
-        "zh": "垮塌",
+        "w": "collapsing",
+        "zh": "collapsing",
         "p": 5
       },
       {
@@ -278,11 +283,6 @@
       {
         "w": "preserve",
         "zh": "保住；保存",
-        "p": 5
-      },
-      {
-        "w": "fuel",
-        "zh": "燃料",
         "p": 5
       },
       {

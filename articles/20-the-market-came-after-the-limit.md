@@ -2,7 +2,7 @@
 
 > 题材：1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易
 > 状态：**第二十篇最终精进锁定稿**（2026-08-13）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：267 词 / 50 重点词 / 密度 18.7%
 > 1990年，美国没有让市场决定可以污染多少；法律先锁定二氧化硫总量上限，连续监测逐吨记账，交易只决定减排在哪里发生。
 
 ---
@@ -17,7 +17,7 @@ The market worked because the **accounting** was hard-edged. Stack **sensors** m
 
 Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, others burning low-sulphur coal. Cuts came **sooner** than scheduled at an **expense** nobody had **forecast**: industry had said $1,000 a ton; allowances traded near $150. Trading was not the sole **contributor**: rail **competition** cut **haulage** costs for **carriers**, and later **statutes** **accelerated** the fall.
 
-The **institutional** lesson is sequence. **Lawmakers** fixed the **statutory** cap first; trading then **disclosed** which sources had lower **marginal** costs. Dan Dudek, an architect of the scheme, insisted on that order. Success rested on **bounded** supply, **credible** measurement and unavoidable **reconciliation**. The EU copied it in 2005. A market can **reallocate** **permission**; it cannot set the atmosphere's budget.
+**Lawmakers** fixed the **statutory** cap first; trading then **disclosed** which sources had lower **marginal** costs. Dan Dudek, an architect of the scheme, insisted on that order. The **institutional** lesson is sequence: **bounded** supply, **credible** measurement, unavoidable **reconciliation**. The EU copied that architecture in 2005. A market can **reallocate** **permission**; it cannot set the atmosphere's budget.
 
 ---
 
@@ -34,7 +34,7 @@ The **institutional** lesson is sequence. **Lawmakers** fixed the **statutory** 
 
 第一阶段1995年启动，覆盖263台机组。一些电厂**加装了**(retrofitted)洗涤器，另一些改烧低硫煤。减排**早**(sooner)于计划到来，**代价**(expense)也无人**预料**(forecast)：业界曾称每吨1000美元，配额成交价却在150美元上下。交易并非唯一的**促成因素**(contributor)——铁路**承运商**(carriers)之间的**竞争**(competition)压低了**运费**(haulage)，其后的**法令**(statutes)也**加快**(accelerated)了降幅。
 
-**制度**(institutional)上的教训在于次序。**立法者**(Lawmakers)先把**法定**(statutory)上限定死，交易此后才**显露**(disclosed)出哪些排放源的**边际**(marginal)治理成本更低。方案设计者之一丹·杜德克坚持的正是这个次序。成功依赖于供给有**界**(bounded)、计量**可信**(credible)、清算**不可回避**(reconciliation)。欧盟2005年照搬了这套架构。市场能**重新分配**(reallocate)**许可**(permission)；它定不了大气的预算。
+**立法者**(Lawmakers)先把**法定**(statutory)上限定死，交易此后才**显露**(disclosed)出哪些排放源的**边际**(marginal)治理成本更低。方案设计者之一丹·杜德克坚持的正是这个次序。**制度**(institutional)上的教训就在于此：供给有**界**(bounded)、计量**可信**(credible)、清算**不可回避**(reconciliation)。欧盟2005年照搬了这套架构。市场能**重新分配**(reallocate)**许可**(permission)；它定不了大气的预算。
 
 ---
 
@@ -46,9 +46,9 @@ The **institutional** lesson is sequence. **Lawmakers** fixed the **statutory** 
 
 **§3**（10词）accounting 核算；会计｜sensor 传感器；感测器｜serial 序列号的；连续的｜registry 登记系统；注册处｜surrender 交回；放弃｜shortfall 不足；缺口｜penalty 处罚；罚金｜overrun 超排｜deduct 扣除｜override 凌驾于；推翻
 
-**§4**（10词）retrofitted retrofitted｜soon 早；不久｜expense 代价；开支｜forecast 预料；预测｜contributor 促成因素；贡献者｜competition 竞争；比赛｜carrier 承运商；运输公司｜haulage 运输；运输费｜statutes statutes｜accelerated accelerated
+**§4**（10词）retrofitted retrofitted｜sooner sooner｜expense 代价；开支｜forecast 预料；预测｜contributor 促成因素；贡献者｜competition 竞争；比赛｜haulage 运输；运输费｜carrier 承运商；运输公司｜statutes statutes｜accelerated accelerated
 
-**§5**（10词）institutional 制度层面的；机构的｜lawmaker 立法者｜statutory 法定的；法律规定的｜disclosed disclosed｜marginal 边际的；临界的｜bounded 总量受限的；有边界的｜credible 可信的｜reconciliation 对账；核对｜reallocate 重新分配；重新配置｜permission 许可；准许
+**§5**（10词）lawmaker 立法者｜statutory 法定的；法律规定的｜disclosed disclosed｜marginal 边际的；临界的｜institutional 制度层面的；机构的｜bounded 总量受限的；有边界的｜credible 可信的｜reconciliation 对账；核对｜reallocate 重新分配；重新配置｜permission 许可；准许
 
 ---
 

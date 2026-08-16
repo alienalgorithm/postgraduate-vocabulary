@@ -69,7 +69,6 @@ const SUPERSEDED_SIGNATURES = {
     'Yet faint P′ **arrivals** did.',
     'made diffraction untenable',
     'In science, **absence** belongs to a model.',
-    '264 词 / 50 重点词 / 密度 18.9%',
     '296 词 / 50 重点词 / 密度 16.9%',
   ],
   '17': [
@@ -93,7 +92,6 @@ const SUPERSEDED_SIGNATURES = {
     'a near-perfect 2.725 K black-body spectral **profile**',
     '**Pigeons** had made a **roost** inside;',
     'Penzias and Wilson treated it as **provisional**.',
-    '264 词 / 50 重点词 / 密度 18.9%',
     '269 词 / 50 重点词 / 密度 18.6%',
     '天空始终无法安静',
   ],
@@ -462,29 +460,29 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 16 final row is stale');
   }
-  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% |')) {
+  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 17 final row is stale');
   }
-  if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **270词 · 50词 · 18.5%** |')) {
+  if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **264词 · 50词 · 18.9%** |')) {
     errors.push('README article 18 final row is stale');
   }
-  if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269词 · 50词 · 18.6%** |')) {
+  if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **268词 · 50词 · 18.7%** |')) {
     errors.push('README article 19 final row is stale');
   }
-  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **270词 · 50词 · 18.5%** |')) {
+  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267词 · 50词 · 18.7%** |')) {
     errors.push('README article 20 final row is stale');
   }
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
   if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
     errors.push('handoff article 16 final row is stale');
   }
-  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270 / 50 / 18.5%** | **第十八篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **264 / 50 / 18.9%** | **第十八篇最终精进锁定稿** |')) {
     errors.push('handoff article 18 final row is stale');
   }
-  if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269 / 50 / 18.6%** | **第十九篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **268 / 50 / 18.7%** | **第十九篇最终精进锁定稿** |')) {
     errors.push('handoff article 19 final row is stale');
   }
-  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **270 / 50 / 18.5%** | **第二十篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267 / 50 / 18.7%** | **第二十篇最终精进锁定稿** |')) {
     errors.push('handoff article 20 final row is stale');
   }
   return errors;

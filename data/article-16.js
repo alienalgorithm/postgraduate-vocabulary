@@ -27,16 +27,16 @@
         "zh": "当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)所经**介质**(medium)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P波会在地核边界发生**折射**(refract)；传播**角度**(angle)的改变，会在距震源104至140度处形成一片**阴影区**(shadow)，直达P波本不应抵达那里。"
       },
       {
-        "en": "Yet faint P′ **arrivals** appeared there. Some **attributed** them to **diffraction** around the core. Lehmann **examined** Murchison and other records. Though **scattered**, their travel times matched a **path** through a faster **sphere**. In 1936 she proposed an inner core whose higher **velocity** could **redirect** energy into the shadow.",
-        "zh": "但微弱P′波的**到达记录**(arrivals)偏偏出现在那里。有人把它们**归因于**(attributed)地核周围的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震以及其他地震的记录。资料虽然**零散**(scattered)，传播时间却符合一条**路径**(path)：它会穿过一个波速更快的中央**球体**(sphere)。1936年，她提出地球存在一个内核；P波在那里具有更高的**速度**(velocity)，因而可能被**重新导向**(redirect)阴影区。"
+        "en": "Yet faint P′ **arrivals** appeared there. Some **attributed** them to **diffraction** around the core. Lehmann **examined** Murchison and other records. Though **scattered**, their **transit** times matched a **path** through a faster **sphere**. In 1936 she proposed an inner core whose higher **velocity** could **redirect** energy into the shadow.",
+        "zh": "但微弱P′波的**到达记录**(arrivals)偏偏出现在那里。有人把它们**归因于**(attributed)地核周围的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震以及其他地震的记录。资料虽然**零散**(scattered)，传播时间却符合一条**路径**(path)：**走时**(transit)显示它穿过一个波速更快的中央**球体**(sphere)。1936年，她提出地球存在一个内核；P波在那里具有更高的**速度**(velocity)，因而可能被**重新导向**(redirect)阴影区。"
       },
       {
         "en": "In “P′”, Lehmann was **cautious**: an inner core was a **possibility**, its state **uncertain**. Later **scrutiny** and **numerical** work ruled out the diffraction explanation. Models treated the inner core as **rigid**; in 1952 Francis Birch called **crystalline** iron the simplest explanation. Its 1,220-kilometre **radius** gives it a **diameter** smaller than the Moon's; liquid metal **encloses** it.",
         "zh": "在《P′》中，莱曼十分**谨慎**(cautious)：内核只是一种**可能性**(possibility)，其状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)与**数值**(numerical)分析排除了衍射解释。此后的模型把内核视为具有**刚性**(rigid)；1952年，弗朗西斯·伯奇认为，最简洁的解释是它由**晶体状的**(crystalline)铁构成。它约1220公里的**半径**(radius)，意味着其**直径**(diameter)小于月球；外层的液态金属将它**包围**(encloses)。"
       },
       {
-        "en": "Lehmann made a **discrepancy** obey a new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** became **persuasive** because it predicted where the signals should appear. Seismologists now time that inner **core** to the second. An expected **absence** is itself a prediction; a wave arriving off **schedule** need not be noise: it can reveal an **invisible** **structure**.",
-        "zh": "莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为它预言了这些信号会出现在哪里。如今地震学家对那个内**核**(core)的走时可计到秒。模型预期的**缺失**(absence)本身就是一项预测；一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)**结构**(structure)。"
+        "en": "Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** became **persuasive** because it predicted where the signals should appear, and seismologists now time that inner **core** to the second. An expected **absence** is itself a prediction; a wave arriving off **schedule** need not be noise: it can reveal an **invisible** structure.",
+        "zh": "莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为它预言了这些信号会出现在哪里——如今地震学家对那个内**核**(core)的走时已可计到秒。模型预期的**缺失**(absence)本身就是一项预测；一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)结构。"
       }
     ],
     "glossary": [
@@ -166,6 +166,11 @@
         "p": 3
       },
       {
+        "w": "transit",
+        "zh": "走时；通过",
+        "p": 3
+      },
+      {
         "w": "path",
         "zh": "路径",
         "p": 3
@@ -283,11 +288,6 @@
       {
         "w": "invisible",
         "zh": "不可见的",
-        "p": 5
-      },
-      {
-        "w": "structure",
-        "zh": "结构",
         "p": 5
       }
     ],
