@@ -26,7 +26,7 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-在压缩空气之前，让一列**货**(freight)车停下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇**(cranking)手**轮**(wheel)。雨雪会让这活更慢；一列车挂不过约**十一**(eleven)节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。
+在压缩空气之前，让一列**货**(freight)车停下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇动**(cranking)一个个手**闸轮**(wheel)。雨雪会让这活更慢；一列车挂不过约**十一**(eleven)节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。
 
 1869年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上的**气泵**(bellows)给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那一**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。
 

@@ -20,7 +20,7 @@
     "paras": [
       {
         "en": "Before compressed air, stopping a **freight** train meant men on the **roofs**. At the **whistle** a **brakeman** ran the **catwalks**, **cranking** one hand **wheel** after another. Rain and ice slowed it; a train could not exceed about **eleven** **wagons**; the work **maimed** or killed thousands a year.",
-        "zh": "在压缩空气之前，让一列**货**(freight)车停下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇**(cranking)手**轮**(wheel)。雨雪会让这活更慢；一列车挂不过约**十一**(eleven)节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。"
+        "zh": "在压缩空气之前，让一列**货**(freight)车停下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇动**(cranking)一个个手**闸轮**(wheel)。雨雪会让这活更慢；一列车挂不过约**十一**(eleven)节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。"
       },
       {
         "en": "George Westinghouse patented a **remedy** in 1869. An engine-driven **bellows** charged one **pipe** running the length of the train; admitting air drove a **piston** and **lever** that pressed a **shoe** against each tyre. One man now applied every brake. But the arrangement leaned on a live **column**: if a **hose** **burst** or **couplings** parted, the cars beyond ran free.",

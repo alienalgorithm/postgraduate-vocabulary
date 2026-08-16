@@ -307,6 +307,70 @@ def inspect(a, archive):
         for m in EVAL.finditer(t):
             F.append(Finding("JDG-03", "提示", "info", f"§{i} 正文出现评论性副词",
                 m.group(0), "点评留给末段；正文只让事实推进"))
+
+    # ── 第五层 GLO · 速查表完整性（2026-08-16 加：本会话发现的两处静默损坏）──
+    CJK = re.compile(r"[\u4e00-\u9fff]")
+    surf = [(w, k) for k, pa in enumerate(paras, 1) for w in BOLD.findall(pa["en"])]
+    for g in gloss:
+        if not CJK.search(str(g.get("zh", ""))):
+            F.append(Finding("GLO-01", "速查表", "hard", "释义不是中文",
+                f"{g['w']} → {g.get('zh')}",
+                "重建速查表时 fallback 写入了英文原词；fallback 绝不能写源语言内容，"
+                "那会把『缺失』伪装成『已完成』并静默通过全部校验"))
+    if len(gloss) == len(surf):
+        for g, (w, pi) in zip(gloss, surf):
+            if g.get("p") != pi:
+                F.append(Finding("GLO-02", "速查表", "hard", "条目与正文段落错位",
+                    f"{g['w']} 标为 §{g.get('p')}，实际出现在 §{pi}"))
+                break
+            gw, lw = norm(g["w"]), norm(w)
+            # 不规则动词：词元与表面形式可以完全不同（draw/drew、sink/sunk、strike/struck）
+            IRREG = {("draw","drew"),("sink","sunk"),("strike","struck"),("breed","bred"),
+                     ("break","broken"),("sweep","swept"),("write","wrote"),("handwrite","handwrote"),
+                     ("drink","drank"),("hide","hid"),("lie","lying"),("go","gone"),
+                     ("seize","seized"),("bear","bore"),("hold","held"),("run","ran")}
+            def stem3(x):
+                for suf in ("ations","ation","ings","ing","ied","ies","ed","es","s","e"):
+                    if x.endswith(suf) and len(x) - len(suf) >= 3: return x[:-len(suf)]
+                return x
+            same = (lw.startswith(gw[:4]) or gw.startswith(lw[:4])
+                    or stem3(gw) == stem3(lw)
+                    or (gw, lw) in IRREG or (lw, gw) in IRREG)
+            if not same:
+                F.append(Finding("GLO-02", "速查表", "hard", "条目与正文加粗对不上",
+                    f"第{surf.index((w,pi))+1}条 速查表『{g['w']}』 ≠ 正文『{w}』",
+                    "中英语序天然不同（a **physician** who lived **nearby** ↔ 住在**附近**的**内科医生**），"
+                    "配对必须用括注里的英文词作显式键，不能按位置"))
+                break
+    INFLECT = ("ing", "ed", "es", "s")
+    for g in gloss:
+        w = g["w"]
+        base = w[:-3] if w.endswith("ing") else (w[:-2] if w.endswith("ed") else w[:-1])
+        if (any(w.endswith(x) for x in INFLECT) and len(w) > 5
+                and any(g2["w"] == base or g2["w"] == base + "e" for a2 in archive
+                        for g2 in a2.get("glossary", []))):
+            F.append(Finding("GLO-03", "速查表", "info", "词元疑似非原形", w,
+                "速查表应给词典原形，便于背记"))
+
+    # ── 第六层 ZH · 中文可读性 ────────────────────────────────────────
+    ZH_OK = set("氢氯氮碳钢铂酸熵氨键阀缸轴极钾硫铀核云氧铅冰雪海岸船网帧年米度秒吨剂针管壁衬"
+                "柱片弧尺缘半段斑病省链轮货毒界位谱仪电零钟脑肺肝肾")
+    PAIR = re.compile(r"\*\*([^*]+)\*\*\(([A-Za-z][A-Za-z'’\-]*)\)")
+    for i, p in enumerate(paras, 1):
+        zs = list(PAIR.finditer(p["zh"]))
+        for m in zs:
+            z = m.group(1)
+            if len(z) == 1 and z not in ZH_OK:
+                F.append(Finding("ZH-01", "中文", "info", f"§{i} 单字加粗需确认",
+                    f"**{z}**({m.group(2)})　…{p['zh'][max(0,m.start()-10):m.end()+8]}…",
+                    "为对上英文词而挤出的单字，在中文里未必立得住"))
+        for a, b in zip(zs, zs[1:]):
+            if b.start() - a.end() <= 1 and len(a.group(1)) == 1 and len(b.group(1)) == 1:
+                F.append(Finding("ZH-02", "中文", "check", f"§{i} 一个中文词疑被拆成两个名额",
+                    f"**{a.group(1)}**({a.group(2)})**{b.group(1)}**({b.group(2)})"
+                    f" → 「{a.group(1)}{b.group(1)}」",
+                    "如「追授」被拆成 posthumously+awarded、「骤跌」被拆成 sudden+slump；"
+                    "改英文用词，让一个中文词只对一个英文词"))
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 

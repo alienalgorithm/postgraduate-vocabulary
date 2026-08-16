@@ -291,6 +291,70 @@ def review(arts, path, exclude=None):
     else:
         print("按顺序修：一 → 二 → 三 → 四。每修一处回查是否碰坏别处（约1/3的新缺陷是修改引入的）。")
 
+
+# ── 4. audit：机器出题，人来判断 ────────────────────────────────────────
+# 本会话证明：句序、因果、接缝这些决定「丝滑」的东西，表层特征判不了。
+# 但机器能把「该在哪里做判断」精确地指出来，并把上下文摆好。
+# 这就是主动质检：机器不下结论，机器出题。
+
+SEAM_Q = "读这两句：后一句是否承接前一句交给它的东西？若前一句的名词/动作在后一句里接不上，就是断档。"
+EARLY_Q = "这句的回报（它解释的、它铺垫的）出现在哪里？若在两段之后，它多半来得太早。"
+CAUSAL = re.compile(r"\b(therefore|so|thus|hence|because|since|that is why|as a result)\b", re.I)
+ABSTRACT = re.compile(r"\b(lesson|principle|system|means|matters|is itself|can|cannot|need not|"
+                      r"what made|the point)\b", re.I)
+
+def audit(arts, ids=None):
+    SENT = re.compile(r"(?<=[.!?])\s+")
+    for a in arts:
+        if ids and a["id"] not in ids:
+            continue
+        ps = [p["en"].replace("**", "") for p in a["paras"]]
+        print(BAR); print(f"审读任务书 · {a['id']} {a['title']}"); print(BAR)
+        n = 0
+        # ① 段落接缝
+        print("\n【一】段落接缝 —— " + SEAM_Q)
+        for i in range(len(ps) - 1):
+            prev = [x.strip() for x in SENT.split(ps[i]) if x.strip()][-1]
+            nxt = [x.strip() for x in SENT.split(ps[i+1]) if x.strip()][0]
+            n += 1
+            print(f"  Q{n}. §{i+1}末 → §{i+2}首")
+            print(f"      ←…{prev[-84:]}")
+            print(f"      →{nxt[:84]}…")
+        # ② 因果连接词是否成立
+        hits = [(i+1, m.group(0), s2.strip())
+                for i, t in enumerate(ps)
+                for s2 in SENT.split(t) if (m := CAUSAL.search(s2))]
+        if hits:
+            print("\n【二】因果连接词 —— 前一句真的推得出这一句吗？（第13篇的『所以』就推不出）")
+            for pi, kw, s2 in hits:
+                n += 1
+                print(f"  Q{n}. §{pi} 「{kw}」：{s2[:92]}")
+        # ③ 抽象句的位置
+        print("\n【三】抽象与具体的次序 —— 一般性结论是否等事实说尽才出现？")
+        for i, t in enumerate(ps, 1):
+            ss = [x.strip() for x in SENT.split(t) if x.strip()]
+            for j, s2 in enumerate(ss):
+                if ABSTRACT.search(s2) and not re.search(r"\d", s2) and j < len(ss) - 1:
+                    n += 1
+                    print(f"  Q{n}. §{i} 第{j+1}/{len(ss)}句是结论式表述，其后还有 {len(ss)-j-1} 句具体内容：")
+                    print(f"      {s2[:92]}")
+        # ④ 每句的回报位置（找「来得太早」）
+        print("\n【四】逐句回报 —— " + EARLY_Q)
+        for i, t in enumerate(ps, 1):
+            ss = [x.strip() for x in SENT.split(t) if x.strip()]
+            for j, s2 in enumerate(ss):
+                key = {w.lower().rstrip("s") for w in re.findall(r"[A-Za-z]{5,}", s2)} - STOP
+                later = [k2 for k2 in range(i, len(ps)) if key & {
+                    w.lower().rstrip("s") for w in re.findall(r"[A-Za-z]{5,}", ps[k2])}]
+                near = [w for w in (ss[j-1] if j else "", ss[j+1] if j < len(ss)-1 else "")]
+                nearkey = {w.lower().rstrip("s") for x in near for w in re.findall(r"[A-Za-z]{5,}", x)}
+                if not (key & nearkey) and later and later[0] >= i + 1:
+                    n += 1
+                    print(f"  Q{n}. §{i} 第{j+1}句与前后句无实词交集，其内容在 §{later[0]+1} 才有回应：")
+                    print(f"      {s2[:92]}")
+        print(f"\n共 {n} 题。逐题作答后，把结论写进 notes/审读记录.md。")
+        print("判据：改一处若要牺牲另一处（论证、中文、词价、指标），即为临界点，停手。")
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__); return
@@ -301,6 +365,9 @@ def main():
     pos = [a for a in argv if not a.startswith("--")
            and a not in ({ex, ex.lstrip("0")} if ex else set()) and a != str(top)]
     arts = load()
+    if cmd == "audit":
+        audit(arts, {x.zfill(2) for x in pos} if pos else None)
+        return
     if cmd == "brief":
         brief(arts, pos[0], ex, top)
     elif cmd == "review":
