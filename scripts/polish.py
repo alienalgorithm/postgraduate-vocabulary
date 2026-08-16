@@ -41,6 +41,7 @@ ROUNDS = {
     8: ("回退审计", "台账每一行都填了「保留/回退/再改」，并回跑过全库"),
     9: ("整体冷读", "放下清单通读，三问都有答案"),
     10: ("临界点判定", "每个「没改」项都答出「改它要牺牲什么」"),
+    11: ("地道性专读", "冠词/介词/搭配/代词一致逐句读过——第21篇十轮后仍在此轮查出四处"),
 }
 
 def load(aid):
@@ -307,7 +308,28 @@ def r10(a, arts, aid):
     print("  4 preflight 全绿输出")
     print("  5 两句结论：这篇已到临界点，挡住它的是 ______；第八轮回退了 __ 处")
 
-GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10}
+def r11(a, arts, aid):
+    print("放下结构与逻辑，只读英文，问一句：**母语者会这么写吗？**\n")
+    print("第21篇十轮之后仍在本轮查出四处，其中三处是前几轮自己制造的——")
+    print("因为第九轮冷读读的是「顺不顺」，跟「地不地道」是两件事。\n")
+    print("─" * 66)
+    for i, p in enumerate(a["paras"], 1):
+        print(f"§{i}  {p['en'].replace('**','')}\n")
+    print("─" * 66)
+    print("\n逐条查这五项（每项都附第21篇的实际发现）：\n")
+    print("  ① 冠词　　a/an/the 有没有漏、有没有多")
+    print("     第22篇：with orangutan mandible → with an orangutan mandible\n")
+    print("  ② 代词一致　同一实体全篇用同一套代词")
+    print("     第21篇：船全篇 she/her，唯独一处宾语写成 finished it\n")
+    print("  ③ 先行词　　每个 it/this/that/there 都能指回一个已出现的东西")
+    print("     第21篇：an archaeologist there —— 博物馆全篇从未出现，there 无落点\n")
+    print("  ④ 搭配　　　这个动词/形容词真的配这个名词吗")
+    print("     第21篇：ran across her upper planking —— 人在甲板上跑，不在「铺板」上跑\n")
+    print("  ⑤ 比喻落地　被动的施事、拟人的主语，必须是真能做这件事的东西")
+    print("     第21篇：The harbour had shown the fault —— 码头不会「演示」毛病\n")
+    print("**机器判不了这一层**（446万词语料建搭配库的路径已作废），只能逐句读。")
+
+GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11}
 
 def main():
     ap = argparse.ArgumentParser()
@@ -322,11 +344,11 @@ def main():
     a, arts = load(aid)
     init_ledger(aid, a)
     done, changes = read_ledger(aid)
-    nxt = next((k for k in range(1, 11) if k not in done), None)
+    nxt = next((k for k in range(1, 12) if k not in done), None)
 
     if args.cmd == "status":
         print(BAR); print(f"精修进度 · 第{aid}篇 {a['title']}"); print(BAR)
-        for k in range(1, 11):
+        for k in range(1, 12):
             name, req = ROUNDS[k]
             mark = "✓" if k in done else ("▶" if k == nxt else "·")
             print(f"  {mark} 第{k:>2}轮 {name:<8}{req}")
@@ -349,7 +371,7 @@ def main():
         if len(args.note.strip()) < 30:
             sys.exit("note 太短。必须写明：改了什么 / 什么没改 / 为什么没改")
         mark_done(aid, n, args.note)
-        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 10 else "✓ 十轮跑完")
+        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 11 else "✓ 十一轮跑完")
         return
 
     n = args.n if args.cmd == "round" else nxt
