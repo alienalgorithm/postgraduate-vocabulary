@@ -16,7 +16,7 @@ const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
 
 const SOURCE_AUDIT = {
   '01': { source: '2026-08-15对话中经写作智能体全流程产出、由四段改为五段、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '02': { source: '2026-08-15对话中完成段落均衡、重点词价值置换、前提前移、共生逻辑桥补入与人物锚点的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '02': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
   '03': { source: '2026-08-15对话中经写作智能体全流程（词池→草稿→复检五轮）产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '04': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的268词最终精进锁定稿', verification: 'conversation-latest-final' },
   '05': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
@@ -24,22 +24,22 @@ const SOURCE_AUDIT = {
   '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '08': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '09': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '10': { source: 'be410145-0b0e-4ec1-9889-1b0f758ab2ef.md', verification: 'exact-uploaded-markdown', blob: '0cae816f2e21cbf438527ba6b4c7c28556ee03d3' },
+  '10': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
   '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '12': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '13': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的266词最终精进锁定稿', verification: 'conversation-latest-final' },
   '14': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '15': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '16': { source: '2026-08-12对话中形成的263词最终精进稿', verification: 'conversation-latest-final' },
+  '16': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
   '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
-  '18': { source: '2026-08-13对话中形成并完成最终语言收口与全库复验的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '18': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
   '19': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '20': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
   '01': '01-269-word-five-para-final',
-  '02': '02-270-word-final-locked',
+  '02': '02-269-word-final-locked',
   '03': '03-270-word-final-locked',
   '04': '04-268-word-final-locked',
   '05': '05-270-word-final-locked',
@@ -47,15 +47,15 @@ const VERSION_IDS = {
   '07': '07-269-word-final-locked',
   '08': '08-270-word-final-locked',
   '09': '09-270-word-final-locked',
-  '10': '10-final-proofed',
+  '10': '10-269-word-final-locked',
   '11': '11-270-word-final-locked',
   '12': '12-270-word-final-locked',
   '13': '13-266-word-final-locked',
   '14': '14-270-word-final-locked',
   '15': '15-270-word-final-locked',
-  '16': '16-263-word-final-polish',
+  '16': '16-270-word-final-locked',
   '17': '17-268-word-final-polish',
-  '18': '18-270-word-final-max',
+  '18': '18-270-word-final-locked',
   '19': '19-269-word-final-locked',
   '20': '20-270-word-final-locked',
 };
@@ -90,7 +90,7 @@ const SUPERSEDED_SIGNATURES = {
     'Its force came from a stricter fact',
     'the sky alone would not go quiet',
     'taped every **seam**',
-    'black-body **profile** and mapped',
+    'a near-perfect 2.725 K black-body spectral **profile**',
     '**Pigeons** had made a **roost** inside;',
     'Penzias and Wilson treated it as **provisional**.',
     '264 词 / 50 重点词 / 密度 18.9%',
@@ -459,13 +459,13 @@ function validateManifest(articles, manifest) {
   const readme = fs.existsSync(README_PATH) ? fs.readFileSync(README_PATH, 'utf8') : '';
   const handoff = fs.existsSync(HANDOFF_PATH) ? fs.readFileSync(HANDOFF_PATH, 'utf8') : '';
   if (!readme.includes('## 最终版本铁律')) errors.push('README final-version rule missing');
-  if (!readme.includes('| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263词 · 50词 · 19.0% |')) {
+  if (!readme.includes('| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 16 final row is stale');
   }
   if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | 268词 · 50词 · 18.7% |')) {
     errors.push('README article 17 final row is stale');
   }
-  if (!readme.includes('| 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270词 · 50词 · 18.5% |')) {
+  if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 18 final row is stale');
   }
   if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269词 · 50词 · 18.6%** |')) {
@@ -475,10 +475,10 @@ function validateManifest(articles, manifest) {
     errors.push('README article 20 final row is stale');
   }
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
-  if (!handoff.includes('| 16 | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | 263 / 50 / 19.0% | 第十六篇最终精进锁定稿 |')) {
+  if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
     errors.push('handoff article 16 final row is stale');
   }
-  if (!handoff.includes('| 18 | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | 270 / 50 / 18.5% | 第十八篇最终精进锁定稿 |')) {
+  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270 / 50 / 18.5%** | **第十八篇最终精进锁定稿** |')) {
     errors.push('handoff article 18 final row is stale');
   }
   if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269 / 50 / 18.6%** | **第十九篇最终精进锁定稿** |')) {
