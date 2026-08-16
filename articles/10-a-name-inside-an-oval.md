@@ -2,7 +2,7 @@
 
 > 题材：1799—1824 年罗塞塔石碑与埃及圣书体破译
 > 状态：**第十篇最终精校稿**（2026-08-11）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 一道普通法令，两种语言、三种文字，以及一个可以反复核对的王名。
 
 ---
@@ -15,7 +15,7 @@ The Greek **passage** was **parallel** to the Egyptian ones, not an **exact** ma
 
 Champollion, a French **scholar**, used Coptic, a late **idiom** of Egyptian, to infer how ancient words were **pronounced**. He tested **additional** **royal** names, including Cleopatra on Philae’s obelisk. His 1822 **argument** identified phonetic signs in foreign names; by 1824 his **hybrid** model distinguished phonetic signs, whole-word signs and markers that **guided** interpretation. A sign’s **function** depended on **context**.
 
-Hieroglyphic writing was neither a picture code nor a simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a determinative marked a semantic **category**. The system was **complex**, but such markers reduced **confusion**; grammar helped scholars **interpret** combinations. Temple walls, papyri and Egyptian **archives** could be **studied** as texts.
+So the writing is neither a picture code nor a simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a determinative marked a semantic **category**. The system was **complex**, but such markers reduced **confusion**; grammar helped scholars **interpret** combinations. Temple walls, papyri and Egyptian **archives** could be **studied** as texts.
 
 The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**; credit remains in **dispute**. The work was **cumulative**, drawing on Coptic, copies and **testimony** from monuments. Across the decree’s three scripts, Ptolemy’s name supplied an anchor; other monuments let scholars **verify** readings, making the **puzzle** solvable.
 
@@ -32,7 +32,7 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 
 法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在1822年的**论证**(argument)从外来姓名中辨认出表音符号；到1824年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。
 
-埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；限定符则标明词语的语义**类别**(category)。这一体系很**复杂**(complex)，但这类标记减少了**混淆**(confusion)，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和埃及的行政**档案**(archives)，都可以作为文本加以**研究**(studied)。
+正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；限定符则标明词语的语义**类别**(category)。这一体系很**复杂**(complex)，但这类标记减少了**混淆**(confusion)，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和埃及的行政**档案**(archives)，都可以作为文本加以**研究**(studied)。
 
 那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)；两人应得多少功劳，至今仍有**争议**(dispute)。这项工作是**逐步累积的**(cumulative)——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。
 

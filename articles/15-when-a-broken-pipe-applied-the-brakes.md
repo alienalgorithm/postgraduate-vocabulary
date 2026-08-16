@@ -17,7 +17,7 @@ His 1872 and 1873 patents **inverted** it. Each **carriage** carried its own **r
 
 Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a **fifty**-car **rake** took **twenty** **seconds** to set its rearmost brakes; Westinghouse **pared** that to six, then late that year to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals won the **trials**, but he judged their wiring too **frail** for freight.
 
-Lorenzo Coffin, an Iowa **reformer** whom many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** the **capability**, not the **brand**. By 1900 it was standard on US freight. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.
+Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** whom many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.
 
 ---
 
@@ -34,7 +34,7 @@ Lorenzo Coffin, an Iowa **reformer** whom many called a **zealot**, spent the 18
 
 能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列**五十**(fifty)节的**编组**(rake)要**二十**(twenty)**秒**(seconds)才让最后一节上闸；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。试验的优胜者是电**触发**(triggered)的对手，但他判断那种接线对货运来说太**脆弱**(frail)，没有采用——这是他在那场**试验**(trials)后的取舍。
 
-爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。到1900年，这套闸已是美国货运的标准配置。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。
+造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。
 
 ---
 

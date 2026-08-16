@@ -634,8 +634,8 @@ window.SITE = {
         "zh": "从1981年起，10月的**读数**(readings)开始下滑。乔·法曼**判断**(reckoned)是自己那台**老化**(ageing)的光学件走偏了，便订了一台**替换机**(replacement)；两台读数**吻合**(agreed)。一千英里外的另一处**观测点**(outpost)，也出现了同样**年复一年**(recurring)的**下降**(decline)。到1984年10月，总量已比1960年代低了40%。可队里仍在**犹豫**(hesitated)：**轨道**(orbit)上一直没有消息。"
       },
       {
-        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set to catch a **faulty** **lens**, not a real change. To **settle** which it was, they checked those values against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**.",
-        "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，他们拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。低值就这样一直**未获证实**(unconfirmed)。"
+        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, they checked those values against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**. Farman published anyway.",
+        "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，他们拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
       },
       {
         "en": "*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, stratospheric **clouds** **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.",
@@ -718,8 +718,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "agree",
-        "zh": "吻合；同意",
+        "w": "agreed",
+        "zh": "agreed",
         "p": 2
       },
       {
@@ -738,8 +738,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "hesitate",
-        "zh": "犹豫",
+        "w": "hesitated",
+        "zh": "hesitated",
         "p": 2
       },
       {
@@ -758,8 +758,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "flag",
-        "zh": "标记出来",
+        "w": "flagged",
+        "zh": "flagged",
         "p": 3
       },
       {
@@ -798,18 +798,18 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "anticipate",
-        "zh": "预见到",
+        "w": "anticipated",
+        "zh": "anticipated",
         "p": 4
       },
       {
-        "w": "tune",
-        "zh": "调校",
+        "w": "tuned",
+        "zh": "tuned",
         "p": 4
       },
       {
-        "w": "simulate",
-        "zh": "模拟",
+        "w": "simulated",
+        "zh": "simulated",
         "p": 4
       },
       {

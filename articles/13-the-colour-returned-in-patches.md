@@ -2,7 +2,7 @@
 
 > 题材：1944—1983 年麦克林托克、玉米斑驳与转座元件
 > 状态：**第十三篇最终精进锁定稿**（2026-08-15）
-> 指标：266 词 / 50 重点词 / 密度 18.8%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 每一块色斑都是一只钟：切离发生得早就长成宽阔的扇区，晚了只剩一点碎斑。而她1953年停止了发表。
 
 ---
@@ -13,7 +13,7 @@ A **kernel** of maize records when a chromosome fragment moved. From 1944 Barbar
 
 In 1948 she named the **breakage** **locus** Dissociation, or Ds. Ds was a **segment** that, dropped into a **pigment** **gene**, could **interrupt** it — and it **shifted** only when Activator stood **alongside** it. When Ds **departed**, the gene worked again and the colour came back. The gene never moved; its **interrupter** did.
 
-Each **blotch** is therefore a clock. Ds leaves one cell; every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **jump**.
+Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **jump**.
 
 McClintock called Ac and Ds **controlling** elements: an **insertion** could **silence** a **neighbouring** gene, a **departure** **permit** it again. That made a genome something other than a fixed **ledger** of addresses. She **announced** it in 1950 and spoke at Cold Spring Harbor in 1951, meeting bafflement, even **contempt**. In 1953 she **ceased** publishing on it.
 
@@ -30,7 +30,7 @@ McClintock called Ac and Ds **controlling** elements: an **insertion** could **s
 
 1948年，她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds。Ds是一小**段**(segment)序列，落进**色素**(pigment)**基因**(gene)里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。基因从没动过；动的是打断它的那个**插入者**(interrupter)。
 
-所以每一块**色斑**(blotch)都是一只钟。Ds离开某个细胞，那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**跳跃**(jump)。
+Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**跳跃**(jump)。
 
 麦克林托克把Ac与Ds称作**控制**(controlling)元件：一次**插入**(insertion)能**沉默**(silence)**邻近**(neighbouring)的基因，一次**离去**(departure)又**准许**(permit)它重新表达。这让基因组不再是一份固定的地址**账本**(ledger)。她1950年**公布**(announced)了结果，1951年在冷泉港作报告，迎来的是她自己所说的困惑，甚至**轻蔑**(contempt)。1953年，她**停止**(ceased)就此发表。
 
@@ -40,15 +40,15 @@ McClintock called Ac and Ds **controlling** elements: an **insertion** could **s
 
 ## 50 词速查表
 
-**§1**（10词）kernel 籽粒｜breed 培育｜corn 玉米｜cross 杂交｜seed 种子｜purple 紫色的｜patch 斑块｜speckle 布满麻点｜microscope 显微镜｜inherit 遗传
+**§1**（10词）kernel 籽粒｜bred bred｜corn 玉米｜crosses crosses｜seed 种子｜purple 紫色的｜patch 斑块｜speckled speckled｜microscope 显微镜｜inherit 遗传
 
 **§2**（10词）breakage 断裂｜locus 位点｜segment 段；片段｜pigment 色素｜gene 基因｜interrupt 打断｜shift 移位｜alongside 在旁；沿着｜depart 离开｜interrupter 打断者
 
-**§3**（10词）blotch 色斑｜descendant 后代｜restore 恢复｜excision 切离；切除｜broad 宽阔的｜sector 扇区｜fleck 碎斑｜lineage 谱系｜span 跨度｜jump 跳跃
+**§3**（10词）blotch 色斑｜descendant 后代｜restored restored｜excision 切离；切除｜broad 宽阔的｜sector 扇区｜fleck 碎斑｜lineage 谱系｜span 跨度｜jump 跳跃
 
-**§4**（10词）control 控制｜insertion 插入｜silence 使沉默｜neighbouring 邻近的｜departure 离去｜permit 准许｜ledger 账本｜announce 公布；宣布｜contempt 轻蔑｜cease 停止
+**§4**（10词）controlling controlling｜insertion 插入｜silence 使沉默｜neighbouring 邻近的｜departure 离去｜permit 准许｜ledger 账本｜announced announced｜contempt 轻蔑｜ceased ceased
 
-**§5**（10词）sceptic 怀疑者｜belatedly 迟迟地｜mobile 可移动的｜microbial 微生物的｜symposium 研讨会｜unshared 不与人分享的｜solely 独自地｜genome 基因组｜build 构成；建造｜spotted 带斑的
+**§5**（10词）sceptic 怀疑者｜belatedly 迟迟地｜mobile 可移动的｜microbial 微生物的｜symposium 研讨会｜solely 独自地｜unshared 不与人分享的｜bulk bulk｜genome 基因组｜spotted 带斑的
 
 ---
 

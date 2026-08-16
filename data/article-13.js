@@ -13,9 +13,9 @@
     "date": "2026-08-15",
     "status": "第十三篇最终精进锁定稿",
     "metrics": {
-      "words": 266,
+      "words": 269,
       "keywords": 50,
-      "density": 18.8
+      "density": 18.6
     },
     "paras": [
       {
@@ -27,8 +27,8 @@
         "zh": "1948年，她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds。Ds是一小**段**(segment)序列，落进**色素**(pigment)**基因**(gene)里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。基因从没动过；动的是打断它的那个**插入者**(interrupter)。"
       },
       {
-        "en": "Each **blotch** is therefore a clock. Ds leaves one cell; every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **jump**.",
-        "zh": "所以每一块**色斑**(blotch)都是一只钟。Ds离开某个细胞，那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**跳跃**(jump)。"
+        "en": "Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **jump**.",
+        "zh": "Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**跳跃**(jump)。"
       },
       {
         "en": "McClintock called Ac and Ds **controlling** elements: an **insertion** could **silence** a **neighbouring** gene, a **departure** **permit** it again. That made a genome something other than a fixed **ledger** of addresses. She **announced** it in 1950 and spoke at Cold Spring Harbor in 1951, meeting bafflement, even **contempt**. In 1953 she **ceased** publishing on it.",
@@ -46,8 +46,8 @@
         "p": 1
       },
       {
-        "w": "breed",
-        "zh": "培育",
+        "w": "bred",
+        "zh": "bred",
         "p": 1
       },
       {
@@ -56,8 +56,8 @@
         "p": 1
       },
       {
-        "w": "cross",
-        "zh": "杂交",
+        "w": "crosses",
+        "zh": "crosses",
         "p": 1
       },
       {
@@ -76,8 +76,8 @@
         "p": 1
       },
       {
-        "w": "speckle",
-        "zh": "布满麻点",
+        "w": "speckled",
+        "zh": "speckled",
         "p": 1
       },
       {
@@ -151,8 +151,8 @@
         "p": 3
       },
       {
-        "w": "restore",
-        "zh": "恢复",
+        "w": "restored",
+        "zh": "restored",
         "p": 3
       },
       {
@@ -191,8 +191,8 @@
         "p": 3
       },
       {
-        "w": "control",
-        "zh": "控制",
+        "w": "controlling",
+        "zh": "controlling",
         "p": 4
       },
       {
@@ -226,8 +226,8 @@
         "p": 4
       },
       {
-        "w": "announce",
-        "zh": "公布；宣布",
+        "w": "announced",
+        "zh": "announced",
         "p": 4
       },
       {
@@ -236,8 +236,8 @@
         "p": 4
       },
       {
-        "w": "cease",
-        "zh": "停止",
+        "w": "ceased",
+        "zh": "ceased",
         "p": 4
       },
       {
@@ -266,23 +266,23 @@
         "p": 5
       },
       {
-        "w": "unshared",
-        "zh": "不与人分享的",
-        "p": 5
-      },
-      {
         "w": "solely",
         "zh": "独自地",
         "p": 5
       },
       {
-        "w": "genome",
-        "zh": "基因组",
+        "w": "unshared",
+        "zh": "不与人分享的",
         "p": 5
       },
       {
-        "w": "build",
-        "zh": "构成；建造",
+        "w": "bulk",
+        "zh": "bulk",
+        "p": 5
+      },
+      {
+        "w": "genome",
+        "zh": "基因组",
         "p": 5
       },
       {

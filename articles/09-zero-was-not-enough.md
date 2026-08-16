@@ -17,7 +17,7 @@ The method came from a **shortage**. In December 1966 William Foege took a radio
 
 A report triggered an inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
 
-In 1974 India held two-thirds of the world's **caseload**; by May 1975 its **chains** were **broken**. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979; the World Health Assembly **declared** it in May 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
+India was the hardest test: in 1974 it held two-thirds of the **caseload**; by 1975 its **chains** were **broken**. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979; the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
 
 ---
 
@@ -34,7 +34,7 @@ In 1974 India held two-thirds of the world's **caseload**; by May 1975 its **cha
 
 此后一份报告即触发一次调查：隔离病人，追踪接触者，给接触者及其接触者接种。冻干疫苗在45摄氏度下仍稳定，**热带**(tropical)储运因此可行；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)**皮肤**(skin)，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
 
-1974年，印度占了全世界**病例总量**(caseload)的三分之二；到1975年5月，它的传播**链**(chains)被**切断**(broken)。1978年伯明翰一次**实验室**(laboratory)**泄漏**(leak)夺走了珍妮特·帕克的命。1979年一个委员会**认证**(certified)根除，1980年5月世界卫生大会正式**宣布**(declared)。马阿林2013年死于疟疾，当时他正在为消灭**脊灰**(polio)奔走。零从来不能证明天花已经**消失**(vanished)；是搜寻把「没有」变成了人们可以**依靠**(rely)的证据。
+最难的一关是印度：1974年它占了全世界**病例总量**(caseload)的三分之二；到1975年5月，它的传播**链**(chains)被**切断**(broken)。1978年伯明翰一次**实验室**(laboratory)**泄漏**(leak)夺走了珍妮特·帕克的命。1979年一个委员会**认证**(certified)根除，1980年5月世界卫生大会正式**宣布**(declared)。马阿林2013年死于疟疾，当时他正在为消灭**脊灰**(polio)奔走。零从来不能证明天花已经**消失**(vanished)；是搜寻把「没有」变成了人们可以**依靠**(rely)的证据。
 
 ---
 
