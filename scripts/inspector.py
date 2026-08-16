@@ -76,10 +76,22 @@ ABSTRACT_SUBJ = {
     "idea", "concept", "process", "development", "conclusion", "explanation",
     "work", "theory", "system", "relation", "scale", "framework", "narrative",
 }
-PASSIVE_MAX = 15.0      # 被动句占比上限（范文多在 0—11%）
-STDEV_MIN = 4.5         # 句长标准差下限：低于此值节奏单调
+# ── 阈值来自真实语料，不是拍脑袋 ────────────────────────────────────
+# data/reference/prose-profile.json：NLTK Brown 语料 learned + belles_lettres
+# + editorial 三类（说理散文 41.7 万词）的实测档案。
+# 关键修正：该语料的被动率是 22.4%，而我先前把上限定在 15%——比母语标准还严。
+try:
+    PROSE = json.load(open(os.path.join(ROOT, "data/reference/prose-profile.json"),
+                           encoding="utf-8"))
+except Exception:
+    PROSE = {"passive_pct": 22.4, "sent_len_mean": 21.2, "sent_len_stdev": 12.0,
+             "long_sent_pct": 12.9}
+
+PASSIVE_MAX = PROSE["passive_pct"] + 5      # 27.4%：高于母语说理散文才算过量
+STDEV_MIN = 4.5         # 句长标准差下限（270词上限下无法达到语料的 12.0）
 REPEAT_MAX = 0.35       # 邻句实词重复均值上限
-LONG_SENT = 34          # 单句词数上限
+LONG_SENT = 40          # 单句词数上限（语料 12.9% 的句子超过 34 词，34 定得过严）
+RHYTHM_MIN = 5.5        # 本体裁可达到的节奏下限
 
 def cheapness(word):
     """返回 (等级, zipf)。等级: 'cheap' 确定白送 / 'soft' 边缘 / None 合格"""
@@ -462,10 +474,13 @@ def inspect(a, archive):
                     f"{npass}/{nsent} 句 = {pr:.0f}%（上限 {PASSIVE_MAX}%，范文多在 0—11%）",
                     "写作规范 §3.3：主语用人或具体物；被动句把施事藏起来了"))
             sd = _st.pstdev(lens) if len(lens) > 1 else 0
-            if sd < STDEV_MIN:
-                F.append(Finding("SYN-02", "句法", "check", "句长节奏单调",
-                    f"均长 {_st.mean(lens):.1f}，标准差 {sd:.1f}（下限 {STDEV_MIN}）",
-                    "长短句交替才有呼吸；全篇句长接近会读得发闷"))
+            mn = _st.mean(lens)
+            if sd < RHYTHM_MIN:
+                F.append(Finding("SYN-02", "句法", "check", "句长节奏偏平",
+                    f"均长 {mn:.1f} 差 {sd:.1f}　参照：优秀说理散文 均长 "
+                    f"{PROSE['sent_len_mean']} 差 {PROSE['sent_len_stdev']}",
+                    "长短句交替才有呼吸。本体裁受 270 词与 50 重点词双重约束，"
+                    "达不到语料的 12.0，但差值低于 5.5 会读成一句一句往外蹦"))
         for i, n, t in longs:
             F.append(Finding("SYN-03", "句法", "check", f"§{i} 单句过长",
                 f"{n} 词：{t}…", "一句只装一个意思"))

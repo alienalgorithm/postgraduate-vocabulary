@@ -13,30 +13,30 @@
     "date": "2026-08-11",
     "status": "第十篇最终精校稿",
     "metrics": {
-      "words": 269,
+      "words": 270,
       "keywords": 50,
-      "density": 18.6
+      "density": 18.5
     },
     "paras": [
       {
-        "en": "In July 1799 soldiers strengthening a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **set** the same words in two languages, three scripts; only the Greek was **intelligible**.",
+        "en": "In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **set** the same words in two languages, three scripts; only the Greek was **intelligible**.",
         "zh": "1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**碑石**(stone)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字刻了**出来**(set)；其中只有希腊文能让学者**读懂**(intelligible)。"
       },
       {
-        "en": "The Greek **passage** was **parallel** to the Egyptian ones, not an **exact** match. A **familiar** name offered a **clue**: its Egyptian and Greek spellings could be matched. Inside an **oval** cartouche, signs seemed to spell Ptolemy. By 1814 Thomas Young **realised** several signs carried **sounds**. His **tentative** reading gave decipherment an **anchor**.",
-        "zh": "希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号似乎拼出了托勒密。到1814年，托马斯·扬**意识到**(realised)，其中若干符号记录的是**语音**(sounds)。他的解读仍是**初步的**(tentative)，却给破译提供了一个可靠的**起点**(anchor)。"
+        "en": "The Greek **passage** ran **parallel** to the Egyptian, not an **exact** match. A **familiar** name offered a **clue**: its Egyptian and Greek spellings could be matched. Inside an **oval** cartouche signs spelled Ptolemy, and by 1814 Thomas Young had **realised** that several recorded **sounds**, not ideas — a **tentative** reading, but an **anchor**.",
+        "zh": "希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号拼出了托勒密；到1814年托马斯·扬已**意识到**(realised)其中若干记录的是**语音**(sounds)而非意义——解读仍属**初步**(tentative)，却是**起点**(anchor)。"
       },
       {
-        "en": "Champollion, a French **scholar**, used Coptic, a late **idiom** of Egyptian, to infer how ancient words were **pronounced**. He tested **additional** **royal** names, including Cleopatra on Philae’s obelisk. His 1822 **argument** identified phonetic signs in foreign names; by 1824 his **hybrid** model distinguished phonetic signs, whole-word signs and markers that **guided** interpretation. A sign’s **function** depended on **context**.",
+        "en": "Champollion, a French **scholar**, used Coptic, a late **idiom** of Egyptian, to infer how ancient words were **pronounced**. He tested **additional** **royal** names, including Cleopatra on Philae’s obelisk. His 1822 **argument** found phonetic signs in foreign names; by 1824 his **hybrid** model distinguished phonetic signs, whole-word signs and markers that **guided** interpretation. A sign’s **function** depended on **context**.",
         "zh": "法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在1822年的**论证**(argument)从外来姓名中辨认出表音符号；到1824年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。"
       },
       {
-        "en": "So the writing is neither a picture code nor a simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a determinative marked a semantic **category**. The system was **complex**, but such markers reduced **confusion**; grammar helped scholars **interpret** combinations. Temple walls, papyri and Egyptian **archives** could be **studied** as texts.",
+        "en": "So the writing is neither a picture code nor a simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a determinative marked a semantic **category**. The system was **complex**, but such markers reduced **confusion**; grammar helped scholars **interpret** combinations. Temple walls, papyri and **archives** could be **studied** as texts.",
         "zh": "正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；限定符则标明词语的语义**类别**(category)。这一体系很**复杂**(complex)，但这类标记减少了**混淆**(confusion)，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和埃及的行政**档案**(archives)，都可以作为文本加以**研究**(studied)。"
       },
       {
-        "en": "The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**; credit remains in **dispute**. The work was **cumulative**, drawing on Coptic, copies and **testimony** from monuments. Across the decree’s three scripts, Ptolemy’s name supplied an anchor; other monuments let scholars **verify** readings, making the **puzzle** solvable.",
-        "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)；两人应得多少功劳，至今仍有**争议**(dispute)。这项工作是**逐步累积的**(cumulative)——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。"
+        "en": "The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**, and credit remains in **dispute**; the work was **cumulative**, drawing on Coptic, copies and **testimony** from stone. Across the decree’s three scripts Ptolemy’s name supplied an anchor, and other monuments let scholars **verify** readings, making the **puzzle** solvable.",
+        "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；这项工作是**逐步累积的**(cumulative)——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。"
       }
     ],
     "glossary": [

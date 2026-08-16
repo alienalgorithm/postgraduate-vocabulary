@@ -162,6 +162,15 @@ else:
                           "It was **sent**.", "It was **lost**."]), arts)
     check("无施事被动过量 → SYN-01", "SYN-01" in ids(F))
 
+# ── 阈值必须来自真实语料，不得拍脑袋 ────────────────────────────────
+print("\n[基准] 阈值来自 data/reference/prose-profile.json")
+import json as _j, os as _o
+prof = _j.load(open(_o.path.join(ROOT, "data/reference/prose-profile.json"), encoding="utf-8"))
+check("参照档案存在且注明来源", "Brown" in prof["source"])
+check("被动上限高于语料实测（曾定 15%，语料是 22.4%）",
+      I.PASSIVE_MAX > prof["passive_pct"], f"{I.PASSIVE_MAX} vs {prof['passive_pct']}")
+check("长句上限不严于语料（语料 12.9% 的句子超 34 词）", I.LONG_SENT >= 40, I.LONG_SENT)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
