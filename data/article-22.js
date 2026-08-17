@@ -7,7 +7,7 @@
       "slug": "only-that-question-had-a-number",
       "title": "Only That Question Had a Number",
       "titleZh": "只有那个问题有数字作答",
-      "standfirst": "怀疑者从1913年起就是对的，手里拿着同一副骨头。改变结局的不是更好的论证，是换了一个有数字作答的问题。",
+      "standfirst": "1913年、1915年、1923年，三个人先后说对了同一件事，手里拿的是同一副骨头。改变结局的不是更好的论证，是换了一个有数字作答的问题。",
       "topic": "1912—1953年皮尔当人骗局与氟测年",
       "date": "2026-08-16",
       "status": "第二十二篇定稿",
@@ -34,7 +34,7 @@
           "zh": "1949年，化学送来了一个裁决者：肯尼思·奥克利**施用**(applied)了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%；**脑颅**(braincase)含氟0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的时间。"
         },
         {
-          "en": "In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the dark colour skin-deep: iron and chromic acid matching the Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain** — only that had a number.",
+          "en": "In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid, matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.",
           "zh": "1953年，奥克利、韦纳与勒格罗·克拉克更进一步。**放大**(magnification)之下，**臼齿**(molars)上现出了**锉出的**(file)**沟槽**(grooves)：一道道笔直的**划痕**(scratches)，而咀嚼留下的本该是**不匀**(uneven)的磨损。**钻**(Drilling)开来看，那层暗色只到表皮：铁溶液和铬酸，为的是配上皮尔当当地石头的颜色。四十一年里，**追问**(inquiry)的一直是这些骨头**像**(resembled)什么；那次测试问的却是每一块各自**躺**(lain)了多久——只有后者有一个数字作答。"
         }
       ],

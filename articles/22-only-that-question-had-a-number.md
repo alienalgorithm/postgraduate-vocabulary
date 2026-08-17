@@ -3,7 +3,7 @@
 > 题材：1912—1953年皮尔当人骗局与氟测年
 > 状态：**第二十二篇定稿**（2026-08-16）
 > 指标：270 词 / 50 重点词 / 密度 18.5%
-> 怀疑者从1913年起就是对的，手里拿着同一副骨头。改变结局的不是更好的论证，是换了一个有数字作答的问题。
+> 1913年、1915年、1923年，三个人先后说对了同一件事，手里拿的是同一副骨头。改变结局的不是更好的论证，是换了一个有数字作答的问题。
 
 ---
 
@@ -17,7 +17,7 @@ Doubt came at once. In 1913 David Waterston wrote in *Nature* that this was an a
 
 In 1949 chemistry supplied one: Kenneth Oakley **applied** a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. The jaw and teeth carried 0.03 to 0.04 per cent fluoride, the **braincase** 0.1. The pieces had not **rested** in one ground for one span.
 
-In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the dark colour skin-deep: iron and chromic acid matching the Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain** — only that had a number.
+In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid, matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.
 
 ---
 
