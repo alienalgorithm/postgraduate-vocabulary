@@ -198,6 +198,11 @@ if _has:
              "paras": [{"en": "A **cat** sat.", "zh": "占"} for _ in range(5)]}
     _p = _rg.profile(_fake)
     check("标题实词不在正文 → 被记录", "missing" in _p["title_lost"] and "anchor" in _p["title_lost"])
+    # REG 层必须在检察官内部，不能只存在于独立脚本
+    _src = open(_o.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read()
+    check("REG 层已并入检察官（非独立程序）",
+          "import regress" in _src and "REG-" not in _src.split("def inspect")[0],
+          "用户明确要求并入检察官；若退回独立脚本，跑 inspector 时会漏查回归")
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")

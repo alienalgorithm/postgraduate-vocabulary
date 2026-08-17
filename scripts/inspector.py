@@ -500,6 +500,24 @@ def inspect(a, archive):
             F.append(Finding("SYN-05", "句法", "info", "邻句实词重复偏多",
                 f"每对相邻句平均重复 {rep/pairs:.2f} 个实词（上限 {REPEAT_MAX}）",
                 "接力靠的是推进，不是复述同一个名词"))
+    # ── 第十层 REG · 质量回归（2026-08-16 加）───────────────────────────
+    # 前九层查「当前状态合不合规」，本层查「这次改动有没有把东西弄坏」。
+    # 二者不是同一件事：本项目六起真实事故全部通过了前九层——
+    #   为省词删掉 question → 标题 Only That Question Had a Number 失去落点
+    #   消无施事被动 → 造出 The harbour had shown the fault（码头不会「演示」毛病）
+    #   避词冲突改用 planking → 人在甲板上跑，不在「铺板」上跑
+    #   压词数把 at the Vasa Museum 缩成 there → 先行词全篇消失
+    #   为消「结尾格言相邻」在五篇末段硬插无关事实 → 五处全成新毛病
+    # 只在该篇存在快照时启用：scripts/regress.py <篇号> snapshot
+    try:
+        import regress as _R
+        _snap = os.path.join(ROOT, "notes/.regress", f"{a['id']}.json")
+        if os.path.exists(_snap):
+            _old = json.load(open(_snap, encoding="utf-8"))
+            for _rid, _t, _d, _why in _R.check(a["id"], _old, _R.profile(a)):
+                F.append(Finding(_rid, "回归", "check", _t, _d, _why))
+    except Exception:
+        pass
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 
