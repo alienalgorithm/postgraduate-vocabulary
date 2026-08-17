@@ -171,6 +171,34 @@ check("被动上限高于语料实测（曾定 15%，语料是 22.4%）",
       I.PASSIVE_MAX > prof["passive_pct"], f"{I.PASSIVE_MAX} vs {prof['passive_pct']}")
 check("长句上限不严于语料（语料 12.9% 的句子超 34 词）", I.LONG_SENT >= 40, I.LONG_SENT)
 
+# ── 质量回归守卫：抓的是「合规但变差」，绝对规则查不出的那一类 ──────
+print("\n[REG] 质量回归守卫（差分检查）")
+import importlib.util as _il
+_sp = _il.spec_from_file_location("regress", _o.path.join(ROOT, "scripts/regress.py"))
+_rg = _il.module_from_spec(_sp)
+try:
+    _sp.loader.exec_module(_rg)
+    _has = True
+except SystemExit:
+    _has = True
+except Exception as _e:
+    _has = False
+    print(f"  ⚠ 无法载入 regress.py：{_e}")
+if _has:
+    _C = _rg.load_colloc()
+    check("搭配库已入库", _C is not None and len(_C["bi"]) > 10000)
+    if _C:
+        check("一元表覆盖改动可能引入的新词（wore 有频次）", _C["uni"].get("wore", 0) > 0,
+              "一元表若只含本篇词汇，新引入的词查不到频次，REG-09 会静默漏报")
+        check("语料确实收录常见搭配（human skull）",
+              _C["bi"].get("human skull", 0) > 0 or _C["uni"].get("skull", 0) > 0)
+    # 标题锚检查：删掉标题里的词必须报警
+    _fake = {"id": "99", "title": "The Missing Anchor", "standfirst": "",
+             "metrics": {"words": 10},
+             "paras": [{"en": "A **cat** sat.", "zh": "占"} for _ in range(5)]}
+    _p = _rg.profile(_fake)
+    check("标题实词不在正文 → 被记录", "missing" in _p["title_lost"] and "anchor" in _p["title_lost"])
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

@@ -30,6 +30,15 @@ def run(name, cmd, ok_if=None):
 
 print(BAR); print("起飞前检查"); print(BAR)
 
+# 若存在快照，检查本次改动有没有把东西弄坏（绝对规则查不出的那一类）
+import glob as _g
+_snaps = _g.glob(os.path.join(ROOT, "notes/.regress/*.json"))
+if _snaps:
+    for _s in sorted(_snaps):
+        _aid = os.path.basename(_s)[:2]
+        run(f"质量回归守卫 · 第{_aid}篇", f"python3 scripts/regress.py {_aid} check",
+            lambda o: "未发现质量回退" in o)
+
 run("工具回归测试（33条，锁住每个已修缺陷）", "python3 scripts/test_tools.py",
     lambda o: "失败 0" in o)
 run("markdown 构建与全部结构校验", "python3 scripts/build_markdown.py",
