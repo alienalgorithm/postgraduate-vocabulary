@@ -43,6 +43,25 @@ m = re.search(r"平均分 ([\d.]+)", insp)
 if m:
     print(f"    平均合规分 {m.group(1)}")
 
+# ── 快照覆盖：没有快照 = REG 层静默失效 ────────────────────────────
+import glob as _g
+_snapdir = os.path.join(ROOT, "notes/.regress")
+_have = {os.path.basename(x)[:2] for x in _g.glob(os.path.join(_snapdir, "*.json"))}
+_all = {a["id"] for a in arts_all} if "arts_all" in dir() else set()
+if not _all:
+    _js = ("globalThis.window=globalThis;const p=require('path'),f=require('fs');"
+           "require(p.resolve('data/articles.js'));"
+           "for(const x of f.readdirSync('data').filter(y=>/^article-\\d+\\.js$/.test(y)).sort())"
+           "require(p.resolve('data',x));process.stdout.write(JSON.stringify(SITE.ARTICLES))")
+    _all = {a["id"] for a in json.loads(subprocess.run(["node", "-e", _js],
+            capture_output=True, text=True).stdout)}
+_miss = sorted(_all - _have)
+if _miss:
+    print(f"⚠ {len(_miss)} 篇无快照，这些篇的 REG 回归层未启用：{'、'.join(_miss)}")
+    print("   要改哪篇，先跑：python3 scripts/regress.py <篇号> snapshot")
+else:
+    print(f"✓ 快照覆盖 {len(_have)}/{len(_all)} 篇，REG 回归层全部启用")
+
 # ── CI 独有的一步：工作流里对 16—20 篇写死的期望值 ──────────────────
 print(BAR); print("CI 独有检查（本地跑不到、最容易漏的一步）"); print(BAR)
 wf = open(".github/workflows/validate-content.yml", encoding="utf-8").read()

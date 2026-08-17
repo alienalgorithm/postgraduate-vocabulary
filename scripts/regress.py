@@ -220,11 +220,25 @@ def check(aid, old, new):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("aid")
+    ap.add_argument("aid", help="篇号，或 all 表示全库")
     ap.add_argument("cmd", choices=["snapshot", "check", "accept", "show"])
     args = ap.parse_args()
-    aid = args.aid.zfill(2)
     os.makedirs(SNAP, exist_ok=True)
+    if args.aid.lower() == "all":
+        if args.cmd not in ("snapshot", "accept"):
+            sys.exit("all 只支持 snapshot / accept")
+        files = ["data/articles.js"] + sorted("data/" + x for x in os.listdir("data")
+                                              if x.startswith("article-"))
+        js = ("globalThis.window=globalThis;" +
+              "".join("require(%s);" % json.dumps(os.path.abspath(f)) for f in files) +
+              "process.stdout.write(JSON.stringify(globalThis.SITE.ARTICLES))")
+        for art in json.loads(subprocess.run(["node", "-e", js],
+                              capture_output=True, text=True).stdout):
+            json.dump(profile(art), open(os.path.join(SNAP, f"{art['id']}.json"), "w"),
+                      ensure_ascii=False)
+        print(f"✓ 全库快照已存。以后任何一篇被改动，检察官的 REG 层立即生效。")
+        return
+    aid = args.aid.zfill(2)
     path = os.path.join(SNAP, f"{aid}.json")
     a = load(aid)
 
