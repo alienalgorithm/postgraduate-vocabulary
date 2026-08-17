@@ -204,6 +204,28 @@ if _has:
           "import regress" in _src and "REG-" not in _src.split("def inspect")[0],
           "用户明确要求并入检察官；若退回独立脚本，跑 inspector 时会漏查回归")
 
+# ── 共享核心：文本基本解释只能有一份实现 ────────────────────────────
+print("\n[CORE] 共享核心（防止同一算法被抄成多份而各自漂移）")
+import core as _core
+check("core.py 存在且可导入", hasattr(_core, "count_words"))
+# 三个工具都必须 import，不得自带实现
+for _f in ("inspector", "agent", "regress"):
+    _src = open(_o.path.join(ROOT, f"scripts/{_f}.py"), encoding="utf-8").read()
+    _own = re.search(r"^def count_words\(", _src, re.M)
+    _imp = "from core import" in _src or "import core" in _src
+    check(f"{_f}.py 引用 core 而非自带实现", _imp and not _own,
+          "count_words 曾被抄进三个文件；一处改了另两处不改，会出现"
+          "「草稿说270词、入库说272词」这种极难查的不一致")
+# 语义正确性
+check("count_words 剥离加粗", _core.count_words("**a** b c") == 3)
+check("count_words 忽略纯标点单元", _core.count_words("a b — c") == 3)
+check("metrics 与 count_words 一致",
+      _core.metrics([{"en": "**one** two three"}])["words"] == 3)
+check("annotations 按括注取键而非按位置",
+      _core.annotations("住在**附近**(nearby)的**内科医生**(physician)")
+      == [("附近", "nearby"), ("内科医生", "physician")],
+      "中英语序天然不同，按位置配对会整体串位——曾造成 270 处错位")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

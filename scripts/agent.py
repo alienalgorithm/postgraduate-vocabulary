@@ -88,8 +88,7 @@ def used_index(arts, exclude=None):
             exact.add(norm(w)); stems.add(stem(w)); owner[norm(w)].add(a["id"]); owner[stem(w)].add(a["id"])
     return exact, stems, owner
 
-def count_words(t):
-    return sum(1 for x in t.replace("**", "").split() if re.search(r"[A-Za-z0-9]", x))
+from core import count_words                                    # 唯一权威实现，见 core.py
 
 # ── 1. brief：题材可用词池 ──────────────────────────────────────────────
 STOP = set("""the a an and or of to in on at for from by as that this these those it its their his her they

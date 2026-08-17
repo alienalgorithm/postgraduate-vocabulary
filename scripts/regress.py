@@ -31,6 +31,7 @@
 英文质量是重点：本工具的九项检查里有七项只针对英文。
 """
 import json, os, re, sys, subprocess, argparse, statistics as st
+import core as _core   # 数词、切句、实词的唯一权威实现
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
@@ -80,8 +81,7 @@ def bigrams(t):
 def profile(a):
     body = " ".join(p["en"] for p in a["paras"])
     ss = [s for p in a["paras"] for s in sents(p["en"])]
-    lens = [sum(1 for w in s.split() if re.search(r"[A-Za-z0-9]", w)) for s in ss]
-    lens = [x for x in lens if x >= 3]
+    lens = _core.sentence_lengths(" ".join(p["en"] for p in a["paras"]))
 
     # ① 标题锚：标题里的实词，正文还有没有
     tw = {w.lower() for w in re.findall(r"[A-Za-z]{4,}", a["title"])} - STOP

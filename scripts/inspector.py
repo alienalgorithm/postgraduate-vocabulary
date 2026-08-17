@@ -121,8 +121,7 @@ def load_articles():
 def norm(s):
     return re.sub(r"[^a-z]", "", str(s).lower())
 
-def count_words(t):
-    return sum(1 for tok in t.replace("**", "").split() if re.search(r"[A-Za-z0-9]", tok))
+from core import count_words, plain, sentences, content_words   # 唯一权威实现，见 core.py
 
 # ── 单条发现 ────────────────────────────────────────────────────────────
 class Finding:
