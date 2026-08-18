@@ -24,7 +24,7 @@ const SOURCE_AUDIT = {
   '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '08': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '09': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '10': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
+  '10': { source: '2026-08-16全库跑轮时检出并修复：中英配对错位、scribes worked a system 不地道、system 白送兼抽象主语；合规分100的269词稿', verification: 'conversation-latest-final' },
   '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '12': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
   '13': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的266词最终精进锁定稿', verification: 'conversation-latest-final' },

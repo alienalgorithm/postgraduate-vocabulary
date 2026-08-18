@@ -2,22 +2,22 @@
 
 > 题材：1799—1824 年罗塞塔石碑与埃及圣书体破译
 > 状态：**第十篇最终精校稿**（2026-08-11）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 一道普通法令，两种语言、三种文字，以及一个可以反复核对的王名。
 
 ---
 
 ## 英文正文
 
-In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **set** the same words in two languages, three scripts; only the Greek was **intelligible**.
+In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **inscribed** the same words in two languages, three scripts; only the Greek was **intelligible**.
 
 The Greek **passage** ran **parallel** to the Egyptian, not an **exact** match. A **familiar** name offered a **clue**: its Egyptian and Greek spellings could be matched. Inside an **oval** cartouche signs spelled Ptolemy, and by 1814 Thomas Young had **realised** that several recorded **sounds**, not ideas — a **tentative** reading, but an **anchor**.
 
 Champollion, a French **scholar**, used Coptic, a late **idiom** of Egyptian, to infer how ancient words were **pronounced**. He tested **additional** **royal** names, including Cleopatra on Philae’s obelisk. His 1822 **argument** found phonetic signs in foreign names; by 1824 his **hybrid** model distinguished phonetic signs, whole-word signs and markers that **guided** interpretation. A sign’s **function** depended on **context**.
 
-So the writing is neither a picture code nor a simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a determinative marked a semantic **category**. The system was **complex**, but such markers reduced **confusion**; grammar helped scholars **interpret** combinations. Temple walls, papyri and **archives** could be **studied** as texts.
+So the writing is neither picture code nor simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a **determinative** marked a semantic **category**. A **scribe** held all this in mind, yet such markers reduced confusion; grammar helped scholars **interpret** combinations. Temple walls, papyri and **archives** became readable **text**.
 
-The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**, and credit remains in **dispute**; the work was **cumulative**, drawing on Coptic, copies and **testimony** from stone. Across the decree’s three scripts Ptolemy’s name supplied an anchor, and other monuments let scholars **verify** readings, making the **puzzle** solvable.
+The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**, and credit remains in **dispute**; they built **cumulatively** on Coptic, on copies and on **testimony** from stone. Across the decree’s three scripts Ptolemy’s name supplied an anchor, and other monuments let scholars **verify** readings, making the **puzzle** solvable.
 
 ---
 
@@ -26,29 +26,29 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**碑石**(stone)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字刻了**出来**(set)；其中只有希腊文能让学者**读懂**(intelligible)。
+1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**碑石**(stone)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。
 
 希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号拼出了托勒密；到1814年托马斯·扬已**意识到**(realised)其中若干记录的是**语音**(sounds)而非意义——解读仍属**初步**(tentative)，却是**起点**(anchor)。
 
 法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在1822年的**论证**(argument)从外来姓名中辨认出表音符号；到1824年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。
 
-正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；限定符则标明词语的语义**类别**(category)。这一体系很**复杂**(complex)，但这类标记减少了**混淆**(confusion)，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和埃及的行政**档案**(archives)，都可以作为文本加以**研究**(studied)。
+正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；**限定符**(determinative)则标明词语的语义**类别**(category)。**抄书人**(scribe)把这一切都记在心里，但这类标记减少了混淆，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和行政**档案**(archives)都成了可读的**文本**(text)。
 
-那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；这项工作是**逐步累积的**(cumulative)——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。
+那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。
 
 ---
 
 ## 50 词速查表
 
-**§1**（10词）ancient 古代的｜stone 石料；石头｜fragment 残片；碎片｜decree 法令；政令｜era 时代；年代｜priests 祭司｜pharaoh 法老｜carvers 刻工｜set 置于；安放｜intelligible 可以理解的；明白易懂的
+**§1**（10词）ancient 古代的｜stone 石料；石头｜fragment 残片；碎片｜decree 法令；政令｜era 时代；年代｜priests 祭司｜pharaoh 法老｜carvers 刻工｜inscribe 刻写；铭刻｜intelligible 可以理解的；明白易懂的
 
 **§2**（10词）passage 文本段落；通道｜parallel 平行对应的；平行的｜exact 精确相符的；准确的｜familiar 熟悉的｜clue 线索｜oval 椭圆形的；椭圆｜realised 意识到｜sounds 语音；声音｜tentative 初步的；试探性的｜anchor 可靠起点；锚
 
 **§3**（10词）scholar 学者｜idiom 语体；习语｜pronounced 发音｜additional 更多的；额外的｜royal 王室的；皇家的｜argument 论述；论点｜hybrid 混合的；混合物｜guided 引导｜function 功能；作用｜context 语境；上下文
 
-**§4**（10词）alphabet 字母表｜lone 孤零零的｜represent 表示；代表｜sequence 一串；序列｜category 类别｜complex 复杂的｜confusion 混淆；困惑｜interpret 解读；解释｜archives 档案｜studied 研究
+**§4**（10词）alphabet 字母表｜lone 孤零零的｜represent 表示；代表｜sequence 一串；序列｜determinative 限定符｜category 类别｜scribe 抄书人｜interpret 解读；解释｜archives 档案｜text 文本
 
-**§5**（10词）romantic 浪漫化的；浪漫的｜myth 迷思；神话｜solitary 孤身一人的；独自的｜genius 天才｜rivals 竞争对手｜dispute 争议；对……有争议｜cumulative 逐步累积的｜testimony 佐证；证词｜verify 核验；证实｜puzzle 谜题；难题
+**§5**（10词）romantic 浪漫化的；浪漫的｜myth 迷思；神话｜solitary 孤身一人的；独自的｜genius 天才｜rivals 竞争对手｜dispute 争议；对……有争议｜cumulatively 层层累积地｜testimony 佐证；证词｜verify 核验；证实｜puzzle 谜题；难题
 
 ---
 
