@@ -24,7 +24,7 @@ jobs:
         run: |
           set -euo pipefail
           python3 scripts/build_markdown.py | tee /tmp/build-report.txt
-          grep -q "22 篇已生成 · 1100 个重点词 · 全部通过" /tmp/build-report.txt
+          grep -q "23 篇已生成 · 1150 个重点词 · 全部通过" /tmp/build-report.txt
           git diff --exit-code -- articles
 
       - name: Word Inspector v4 quality report
@@ -63,9 +63,9 @@ jobs:
           grep -q '1000词词库' words.html
           grep -q 'the-market-came-after-the-limit' index.html
           grep -q 'the-market-came-after-the-limit' sitemap.xml
-          grep -q '共有 \*\*22篇文章、1100个重点词\*\*' README.md
+          grep -q '共有 \*\*23篇文章、1150个重点词\*\*' README.md
           grep -q '## 最终版本铁律' README.md
-          grep -q '当前权威状态：\*\*二十二篇最终定稿，1100个重点词' notes/对话交接文档.md
+          grep -q '当前权威状态：\*\*二十三篇最终定稿，1150个重点词' notes/对话交接文档.md
           grep -q '## 2. 最终版本铁律（最高优先级）' notes/对话交接文档.md
           grep -q '下一篇编号为 \*\*21\*\*' notes/对话交接文档.md
 

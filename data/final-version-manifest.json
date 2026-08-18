@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-13",
-  "article_count": 22,
-  "keyword_count": 1100,
+  "article_count": 23,
+  "keyword_count": 1150,
   "articles": [
     {
       "id": "01",
@@ -580,6 +580,25 @@
       "canonical_fingerprint_sha256": "42b4023756fbd55871affc442218dbd38715461b318698628cfbd9dbb45b6c65",
       "markdown_sha256": "f73137ead2d7ce72c7508476d4ca86d3f9227b8e65caf3aee838a7d347ae00c6",
       "markdown_git_blob_sha": "87c8ebbb3da1c7ebbf94ad7308edb36caff157e2",
+      "superseded_signatures": []
+    },
+    {
+      "id": "23",
+      "slug": "its-first-two-verdicts-were-denials",
+      "title": "Its First Two Verdicts Were Denials",
+      "title_zh": "它头两次判词都是否定",
+      "version_id": "23-268-word-final-locked",
+      "status": "第二十三篇定稿",
+      "date": "2026-08-16",
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-08-16按《第23篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿五轮→十一轮精修→对抗式审计六条全否决→合规分100的268词定稿",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "51c8f05a3da4f5af88d863a4c081bfea323bd98f09999d9e7ce4b6770b800d14",
+      "markdown_sha256": "7a62e27923b38805dbd0067efbd9fa375ec0e4cebdb81c12675af8bdb338c1d0",
+      "markdown_git_blob_sha": "231aed0667a96e08d0a2462fe642c69da8e8f931",
       "superseded_signatures": []
     }
   ]

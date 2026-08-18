@@ -35,6 +35,7 @@ const SOURCE_AUDIT = {
   '18': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
   '19': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
   '20': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
+  '23': { source: '2026-08-16按《第23篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿五轮→十一轮精修→对抗式审计六条全否决→合规分100的268词定稿', verification: 'conversation-latest-final' },
   '22': { source: '2026-08-16按《第22篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿七轮→十一轮精修→合规分100的270词定稿', verification: 'conversation-latest-final' },
   '21': { source: '2026-08-16按《第21篇写作提示词》全流程新写：重读范文→选题四条→词池→草稿复检→审读任务书→合规分100的270词定稿', verification: 'conversation-latest-final' },
 };
@@ -62,6 +63,7 @@ const VERSION_IDS = {
   '20': '20-270-word-final-locked',
   '21': '21-270-word-final-locked',
   '22': '22-270-word-final-locked',
+  '23': '23-268-word-final-locked',
 };
 
 const SUPERSEDED_SIGNATURES = {
