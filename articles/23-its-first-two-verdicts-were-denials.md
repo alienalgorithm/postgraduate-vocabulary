@@ -2,7 +2,7 @@
 
 > 题材：1984—1987年杰弗里斯、DNA指纹与司法证据
 > 状态：**第二十三篇定稿**（2026-08-16）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > DNA指纹被记住的样子是抓凶手的东西。可它第一次证明的是一位母亲没撒谎，第二次推翻的是一份供认。
 
 ---
@@ -15,9 +15,9 @@ The **technique** is **remembered** as the thing that catches **murderers**; its
 
 Identity in a **courtroom** rested on papers, blood **antigens**, and **confession**. Blood antigens could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any laboratory result: a man would not **condemn** himself **idly**. Two killings would test that.
 
-In 1986 Leicestershire police asked for **assistance**. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart near Narborough; a seventeen-year-old **scullery** worker, Richard Buckland, had **confessed** to the second. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.
+In 1986 the police at Narborough asked for **assistance**. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old **scullery** worker, had **confessed** to the second. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.
 
-Police then took blood or **saliva** from five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 only because he had **persuaded** a **workmate** to give a **sample** in his name, and the man talked; his own bands fitted both **crimes**. The negative named a **killer** at last; its first two **verdicts** were **denials**.
+Police then took blood or **saliva** from five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 for one reason only: he had **persuaded** a **workmate** to give a **sample** in his name, the man talked, and his own bands fitted both **crimes**. The negative named a **killer** at last; its first two **verdicts** were **denials**.
 
 ---
 
@@ -32,9 +32,9 @@ Police then took blood or **saliva** from five thousand men; not one **matched**
 
 **法庭**(courtroom)上的身份认定，在此之前靠的是文件、血液**抗原**(antigens)和**供认**(confession)。抗原能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会**无端地**(idly)**自陷**(condemn)。两起凶杀将检验这一点。
 
-1986年，莱斯特郡警方来求**援**(assistance)。两名**少女**(teenagers)琳达·曼与唐·阿什沃思，相隔三年在纳伯勒附近被**奸**(raped)杀；一个十七岁的**后厨**(scullery)帮工理查德·巴克兰已经**认**(confessed)下了第二起。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。
+1986年，纳伯勒的警方来求**援**(assistance)。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的**后厨**(scullery)帮工理查德·巴克兰已经**认**(confessed)下了第二起。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。
 
-警方随后从五千多名男子身上取了血或**唾液**(saliva)；没有一份**吻合**(matched)。科林·皮奇福克1987年被**捕**(arrested)，只因他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，而那人说了出去；他自己的条带与两起**案子**(crimes)都对得上。这张负片最终指出了**凶手**(killer)，可它头两次**判词**(verdicts)都是**否定**(denials)。
+警方随后从五千多名男子身上取了血或**唾液**(saliva)；没有一份**吻合**(matched)。科林·皮奇福克1987年被**捕**(arrested)，原因只有一个：他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，那人说了出去，而他自己的条带与两起**案子**(crimes)对得上。这张负片最终指出了**凶手**(killer)，可它头两次**判词**(verdicts)都是**否定**(denials)。
 
 ---
 
