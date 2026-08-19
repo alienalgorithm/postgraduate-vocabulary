@@ -2,7 +2,7 @@
 
 > 题材：1869—1893 年威斯汀豪斯、自动空气制动与失效安全逻辑
 > 状态：**第十五篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：267 词 / 50 重点词 / 密度 18.7%
 > 让列车安全的，从来不是那根管子永不断。而是把它弄断，正是你让车**停下**(stopped)的方式。
 
 ---
@@ -15,7 +15,7 @@ George Westinghouse patented a **remedy** in 1869. An engine-driven **bellows** 
 
 His 1872 and 1873 patents **inverted** it. Each **carriage** carried its own **reservoir**, kept **charged** by the pipe. A **sudden** **collapse** of pipe pressure **tripped** a **triple** **valve**, releasing the stored air into that car's own **cylinder**. Restoring pressure released the brake and refilled the tank.
 
-Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a **fifty**-car **rake** took **twenty** **seconds** to set its rearmost brakes; Westinghouse **pared** that to six, then late that year to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals won the **trials**, but he judged their wiring too **frail** for freight.
+Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a **fifty**-car **rake** took **twenty** **seconds** to set its rearmost brakes; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals won the **trials**, but he judged their wiring too **frail** for freight.
 
 Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** whom many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.
 

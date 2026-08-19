@@ -2,14 +2,14 @@
 
 > 题材：1956—1996 年克莱尔·帕特森、地球年龄与工业铅污染
 > 状态：**第十二篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：266 词 / 50 重点词 / 密度 18.8%
 > 他为了给地球定年，必须先把实验室里的铅赶尽。而那些赶不尽的铅，本身才是那个发现。
 
 ---
 
 ## 英文正文
 
-To date the planet, Harrison Brown's group used **nuclear** **decay**: two **uranium** **isotopes** **convert** into different lead isotopes at known **rates**, so their ratios are **clocks**. But **crustal** stone is remade again and again. Brown proposed that iron **meteorites** still held the untouched lead of the solar system's **origin**.
+Harrison Brown's group used **nuclear** **decay**: two **uranium** **isotopes** **convert** into different lead isotopes at known **rates**, so the ratios are **clocks**. But **crustal** stone is remade again and again. Brown proposed that iron **meteorites** still held the untouched lead of the solar system's **origin**.
 
 He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every sample-free laboratory **blank** held lead of its own. **Dust** carried it; **reagents**, **surfaces** and **glassware** **contaminated** all of it. At Caltech from 1952 he built a **clean** room, **filtered** the air, **sealed** his containers and washed them in **acid**.
 

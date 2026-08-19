@@ -2,7 +2,7 @@
 
 > 题材：1831 年法拉第与电磁感应
 > 状态：**第十一篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：267 词 / 50 重点词 / 密度 18.7%
 > 法拉第试了七年都失败，因为他指望稳定的磁铁生出稳定的电。真正生电的不是磁铁，是变化。
 
 ---
@@ -15,7 +15,7 @@ On 29 August 1831 he **wound** two **windings** on opposite **halves** of a soft
 
 A changing magnetic **flux** through a **loop** **induces** an **electromotive** force, driving charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.
 
-On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** at its middle and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found **induction** independently in 1830 but published later; Hippolyte Pixii built a **magneto** in 1832.
+On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found **induction** independently in 1830 but published later; Hippolyte Pixii built a **magneto** in 1832.
 
 Almost every **generator** feeding the grid **repeats** that same cycle. Steam, falling water or wind **drives** a **turbine** whose **shaft** sweeps **magnets** past **coils**; the **output** is **stepped** up and **carried** away. What Faraday saw was not a magnet making electricity, but a change making it.
 

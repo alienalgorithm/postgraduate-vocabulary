@@ -2,7 +2,7 @@
 
 > 题材：1909—1913 年盖革—马斯登散射实验与卢瑟福核式原子
 > 状态：**第十七篇最终精进锁定稿**（2026-08-12）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 绝大多数阿尔法粒子似乎支持旧原子模型；真正改写模型的，却是少数从薄箔中折返回来的粒子。
 
 ---
@@ -11,7 +11,7 @@
 
 In 1909, **undergraduate** Ernest Marsden joined Hans Geiger in a dark Manchester laboratory to test an **unusual** suggestion from Ernest Rutherford. A **radioactive** **emitter** sent **alpha** particles towards metal **foil**. A lead **shield** blocked the direct beam; a **fluorescent** zinc-sulphide **screen** produced a **flash** when struck by a returning particle.
 
-Most passed through the foil or changed direction only **slightly**. Yet a few underwent **backward** scattering, returning to the side of **incidence**. In one **platinum** test, roughly one in 8,000 was reflected — a **count** made by eye, in the dark, after thirty minutes letting the **pupils** **dilate**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** could scarcely explain it.
+Most passed through the foil or changed direction only **slightly**. Yet a few underwent **backward** scattering, returning to the side of **incidence**. In one **platinum** test, roughly one in 8,000 was reflected — a **count** made by eye, in the dark, after thirty minutes letting **pupils** **dilate**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** could scarcely explain it.
 
 Thomson's atom contained **electrons** **embedded** in **diffuse** positive charge. Each **encounter** delivered only a weak push. In 1911 Rutherford required an **intense** **impulse** from a compact centre. Most of the **atomic** **volume** was empty; mass and charge were **concentrated** in the tiny body later called the **nucleus**.
 

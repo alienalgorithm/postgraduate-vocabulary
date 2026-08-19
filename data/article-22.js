@@ -12,13 +12,13 @@
       "date": "2026-08-16",
       "status": "第二十二篇定稿",
       "metrics": {
-        "words": 270,
+        "words": 268,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.7
       },
       "paras": [
         {
-          "en": "In December 1912 Charles Dawson and Arthur Smith Woodward **laid** before the Geological Society a **jaw** and pieces of a **cranium** from a **gravel** **pit** at Piltdown. The **skull** was human, the jaw **ape**-like, the **pairing** **unheard** of. Together they made the missing link, and made it English. Britain had its **forebear**.",
+          "en": "In December 1912 Charles Dawson and Arthur Smith Woodward **laid** before the Geological Society a **jaw** and **cranium** pieces from a **gravel** **pit** at Piltdown. The **skull** was human, the jaw **ape**-like, the **pairing** **unheard** of. Together they made the missing link, and made it English. Britain had its **forebear**.",
           "zh": "1912年12月，查尔斯·道森与阿瑟·史密斯·伍德沃德把一块**颌骨**(jaw)和几片**头盖骨**(cranium)**摆**(laid)到了伦敦地质学会面前——它们出自苏塞克斯皮尔当一处**砾石**(gravel)**坑**(pit)。**颅骨**(skull)是人的，颌骨像**猿**(ape)，这样的**配对**(pairing)**前所未闻**(unheard)。两者合起来就是那个缺失的环节，而且是英国的。英国有了自己的**先祖**(forebear)。"
         },
         {

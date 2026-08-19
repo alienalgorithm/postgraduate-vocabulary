@@ -2,7 +2,7 @@
 
 > 题材：Haber–Bosch 合成氨与工业放大
 > 状态：**第六篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 哈伯的台式装置每小时产氨125毫升；四年后奥保工厂每天四十吨。同一个反应，中间隔着一次完全独立的发明。
 
 ---
@@ -15,7 +15,7 @@ In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Ka
 
 The factory was another matter. Hot hydrogen entered **steel** and stripped its **carbon**, leaving **vessels** brittle. Bosch answered with a double-**walled** tube whose **liner** vented hydrogen before it **weakened** the shell. Osmium was too rare for commerce; Alwin Mittasch **sifted** 2,500 **catalysts** through 6,500 runs and settled on Swedish magnetite, whose **potassium** and **alumina** made cheap iron work.
 
-Oppau opened in September 1913, four years after the bench. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests**. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
+Oppau opened in September 1913, four years on. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests**. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
 
 Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.
 

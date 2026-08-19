@@ -2,7 +2,7 @@
 
 > 题材：1977 年加拉帕戈斯热液喷口
 > 状态：**第二篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 一支没有生物学家的地质考察队，去两千五百米深处找热水，却撞见一个不靠阳光活着的世界——以及一种放弃了进食、把自己变成宿主的动物。
 
 ---
@@ -11,9 +11,9 @@
 
 In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water that **tectonic** theory said should **seep** from young **basalt**. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.
 
-ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** from above. Instead 8°C water **shimmered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.
+ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** above. Instead 8°C water **shimmered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.
 
-No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to almost all life, **dissolved** around the **colony**. The **abundance** had no visible source.
+No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to nearly all life, **dissolved** around the **colony**. The **abundance** had no visible source.
 
 Biologists later found the source in **bacteria** that **oxidise** sulphide and build **organic** matter from carbon dioxide — chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult two metres long has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.
 

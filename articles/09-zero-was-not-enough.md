@@ -2,20 +2,20 @@
 
 > 题材：1967—1980 年全球天花根除、监测与环形接种
 > 状态：**第九篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 环形接种不是设计出来的，是1966年疫苗不够时逼出来的。而零从来不能证明天花已消失——是搜寻把「没有」变成了证据。
 
 ---
 
 ## 英文正文
 
-In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** a fortnight after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.
+In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.
 
 The **disease** killed roughly three in ten it **struck**, and left many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.
 
 The method came from a **shortage**. In December 1966 William Foege took a radio call about a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**.
 
-A report triggered an inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
+A report triggered inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
 
 India was the hardest test: in 1974 it held two-thirds of the **caseload**; by 1975 its **chains** were **broken**. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979; the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
 

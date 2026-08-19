@@ -13,9 +13,9 @@
     "date": "2026-08-15",
     "status": "第十一篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 267,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.7
     },
     "paras": [
       {
@@ -31,7 +31,7 @@
         "zh": "穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出**电动**(electromotive)势，驱使电荷绕**导体**(conductor)流动。10月17日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。"
       },
       {
-        "en": "On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** at its middle and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found **induction** independently in 1830 but published later; Hippolyte Pixii built a **magneto** in 1832.",
+        "en": "On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found **induction** independently in 1830 but published later; Hippolyte Pixii built a **magneto** in 1832.",
         "zh": "10月28日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利1830年已独立发现**感应**(induction)，但发表在后；伊波利特·皮克西1832年造出了**磁电机**(magneto)。"
       },
       {

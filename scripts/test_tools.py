@@ -251,6 +251,17 @@ _f_link = art(["**a**."]*5,
 _F2, _ = I.inspect(_f_link, arts)
 check("有链接则不报", "SRC-01" not in ids(_F2))
 
+# ── 词数不许整十、分布不许过窄 ────────────────────────────────────
+print("\n[WORDS] 词数指纹")
+_w = [x["metrics"]["words"] for x in arts]
+_round = [x["id"] for x in arts if x["metrics"]["words"] % 10 == 0]
+check("无一篇词数为整十", not _round,
+      "整十是机器凑数最明显的指纹；曾有 13/23 篇卡在 270。命中：" + "、".join(_round))
+check("词数落在 249—271", all(249 <= x <= 271 for x in _w))
+import statistics as _st
+check(f"词数分布跨度 ≥5（当前 {max(_w)-min(_w)}）", max(_w) - min(_w) >= 5,
+      "全都挤在两三个数上，同样是指纹——散开要靠逐篇跑减法轮，不是随机凑数")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

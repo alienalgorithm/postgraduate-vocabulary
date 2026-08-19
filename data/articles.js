@@ -321,9 +321,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第二篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 269,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.6
     },
     "paras": [
       {
@@ -331,11 +331,11 @@ window.SITE = {
         "zh": "1977年2月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫ANGUS的相机**拖橇**(sled)贴着海底走，要找的是**板块**(tectonic)理论预言应当从年轻**玄武岩**(basalt)里**渗出**(seep)的热水。15日深夜，在两千五百米深处，ANGUS**记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到2摄氏度。"
       },
       {
-        "en": "ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** from above. Instead 8°C water **shimmered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.",
+        "en": "ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** above. Instead 8°C water **shimmered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.",
         "zh": "ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**微微晃动**(shimmered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。"
       },
       {
-        "en": "No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to almost all life, **dissolved** around the **colony**. The **abundance** had no visible source.",
+        "en": "No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to nearly all life, **dissolved** around the **colony**. The **abundance** had no visible source.",
         "zh": "船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。"
       },
       {
@@ -618,9 +618,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第三篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 268,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.7
     },
     "paras": [
       {
@@ -632,7 +632,7 @@ window.SITE = {
         "zh": "从1981年起，10月的**读数**(readings)开始下滑。乔·法曼**判断**(reckoned)是自己那台**老化**(ageing)的光学件走偏了，便订了一台**替换机**(replacement)；两台读数**吻合**(agreed)。一千英里外的另一处**观测点**(outpost)，也出现了同样**年复一年**(recurring)的**下降**(decline)。到1984年10月，总量已比1960年代低了40%。可队里仍在**犹豫**(hesitated)：**轨道**(orbit)上一直没有消息。"
       },
       {
-        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, they checked those values against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**. Farman published anyway.",
+        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, they checked against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**. Farman published anyway.",
         "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，他们拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
       },
       {
@@ -1212,9 +1212,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第五篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 268,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.7
     },
     "paras": [
       {
@@ -1230,7 +1230,7 @@ window.SITE = {
         "zh": "到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。"
       },
       {
-        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum they gave a maker and an item, nothing more.",
+        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum they gave a maker and an item, nothing more.",
         "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，它们给出的是：一个厂商，一件商品，此外什么也没有。"
       },
       {
@@ -1510,9 +1510,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第六篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 268,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.7
     },
     "paras": [
       {
@@ -1528,7 +1528,7 @@ window.SITE = {
         "zh": "工厂是另一回事。热氢钻进**钢**(steel)里，把其中的**碳**(carbon)夺走，**容器**(vessels)因此变脆。博施的答案是一根双层**壁**(walled)管：内**衬**(liner)在氢**削弱**(weakened)承压外壳之前就把它放掉。锇对商业化来说太稀有；阿尔文·米塔施把2500种**催化剂**(catalysts)**筛**(sifted)过6500轮，最后选中瑞典磁铁矿——其中微量的**钾**(potassium)与**铝土**(alumina)让便宜的铁也管用。"
       },
       {
-        "en": "Oppau opened in September 1913, four years after the bench. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests**. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.",
+        "en": "Oppau opened in September 1913, four years on. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests**. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.",
         "zh": "1913年9月，奥保工厂开工，距那台台式装置四年。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)32万倍。**化肥**(fertiliser)抬高了**收成**(harvests)。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。"
       },
       {

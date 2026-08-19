@@ -2,7 +2,7 @@
 
 > 题材：1628年瓦萨号沉没与测量标准
 > 状态：**第二十一篇定稿**（2026-08-16）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 几百年来人们问的是「该怪谁」。船板给出的答案是：每个人量得都对——他们只是从来没有握过同一把尺。
 
 ---
@@ -13,7 +13,7 @@ On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage
 
 The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming watched a **stability** **rehearsal** at the **quay**: thirty men ran back and **forth** across her upper deck to set her **rolling**. After three runs the motion turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage, and nobody told the king.
 
-The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port rather than **starboard** — a question no **symmetric** **craft** can raise.
+The 1628 **inquest** found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port rather than **starboard** — a question no **symmetric** **craft** can raise.
 
 Only the ship could answer it. She lay 333 years on the **seabed**; Anders Franzén found her in 1956 and **salvaged** her in 1961 with 45,000 **objects**. From 2010 the **archaeologist** Fred Hocker spent three years **measuring** every **plank** and **rib**. More **structure** stood to port than starboard: **unballasted**, she would **heel** that way unaided.
 

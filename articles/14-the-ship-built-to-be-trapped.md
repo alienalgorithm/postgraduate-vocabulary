@@ -2,14 +2,14 @@
 
 > 题材：1881—1896 年“前进号”、跨北冰洋漂流与深海盆地
 > 状态：**第十四篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 86°13.6′N是当时人类最北的立足点，比前纪录推进近三度。可这次冲刺仍算失败——真正的收获来自那条测深线。
 
 ---
 
 ## 英文正文
 
-Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found **remnants** of her — **timber**, papers, a **victualling** list — on Greenland's southwest **shore**. They had **travelled** there frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.
+Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found **remnants** of her — **timber**, papers, a **victualling** list — on Greenland's southwest **shore**. They had **travelled** frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.
 
 The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to **seventy** centimetres deep, with a **rounded** hull and **sloping** flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave it a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.
 

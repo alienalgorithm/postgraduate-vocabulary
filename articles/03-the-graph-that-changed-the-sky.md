@@ -2,7 +2,7 @@
 
 > 题材：1985 年南极臭氧洞
 > 状态：**第三篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 一台1956年的地面仪器，为什么比头顶的卫星先看见臭氧洞——以及一道为逮住坏仪器而设的过滤器，如何分不清坏掉的是仪器还是天。
 
 ---
@@ -13,7 +13,7 @@ At Halley Bay the British Antarctic Survey had measured total-column **ozone** s
 
 From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** optics were slipping and ordered a **replacement**; the two **agreed**. A second **outpost** a thousand miles away showed the same **recurring** **decline**. By October 1984 the total stood 40% below its 1960s value, yet the team **hesitated**: nothing had come from **orbit**.
 
-Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, they checked those values against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**. Farman published anyway.
+Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, they checked against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**. Farman published anyway.
 
 *Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, stratospheric **clouds** **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.
 

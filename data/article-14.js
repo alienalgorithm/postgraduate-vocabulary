@@ -12,13 +12,13 @@
       "date": "2026-08-15",
       "status": "第十四篇最终精进锁定稿",
       "metrics": {
-        "words": 270,
+        "words": 269,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.6
       },
       "paras": [
         {
-          "en": "Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found **remnants** of her — **timber**, papers, a **victualling** list — on Greenland's southwest **shore**. They had **travelled** there frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
+          "en": "Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found **remnants** of her — **timber**, papers, a **victualling** list — on Greenland's southwest **shore**. They had **travelled** frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
           "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(ship)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份**给养**(victualling)清单。它们是冻在**浮冰**(floes)里**漂**(travelled)过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
         },
         {

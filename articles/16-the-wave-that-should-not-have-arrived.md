@@ -2,7 +2,7 @@
 
 > 题材：1929—1952 年英格·莱曼、P波阴影区与地球内核
 > 状态：**第十六篇最终精进锁定稿**（2026-08-12）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 几束微弱P波出现在旧模型规定的空白处；莱曼没有把它们当作噪声，而是借此推断地球深处还藏着一个内核。
 
 ---
@@ -11,7 +11,7 @@
 
 A 17 June 1929 **earthquake** near Murchison, New Zealand, sent **seismic** waves through Earth. In Copenhagen the Danish **mathematician** Inge Lehmann read traces drawn by **seismographs**. Each **vibration** was an indirect **probe** of Earth's **interior**. Yet **worldwide** records carried a faint **blip** whose origin was **obscure**.
 
-The accepted model placed a rocky mantle around a fluid core. P waves **compress** the **medium** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P waves **refract** at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where direct P waves should not arrive.
+The accepted model placed a rocky mantle around a fluid core. P waves **compress** the **medium** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P waves **refract** at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where P waves should not arrive.
 
 Yet faint P′ **arrivals** appeared there. Some **attributed** them to **diffraction** around the core. Lehmann **examined** Murchison and other records. Though **scattered**, their **transit** times matched a **path** through a faster **sphere**. In 1936 she proposed an inner core whose higher **velocity** could **redirect** energy into the shadow.
 

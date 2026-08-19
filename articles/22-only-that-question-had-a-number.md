@@ -2,14 +2,14 @@
 
 > 题材：1912—1953年皮尔当人骗局与氟测年
 > 状态：**第二十二篇定稿**（2026-08-16）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 1913年、1915年、1923年，三个人先后说对了同一件事，手里拿的是同一副骨头。改变结局的不是更好的论证，是换了一个有数字作答的问题。
 
 ---
 
 ## 英文正文
 
-In December 1912 Charles Dawson and Arthur Smith Woodward **laid** before the Geological Society a **jaw** and pieces of a **cranium** from a **gravel** **pit** at Piltdown. The **skull** was human, the jaw **ape**-like, the **pairing** **unheard** of. Together they made the missing link, and made it English. Britain had its **forebear**.
+In December 1912 Charles Dawson and Arthur Smith Woodward **laid** before the Geological Society a **jaw** and **cranium** pieces from a **gravel** **pit** at Piltdown. The **skull** was human, the jaw **ape**-like, the **pairing** **unheard** of. Together they made the missing link, and made it English. Britain had its **forebear**.
 
 Doubt came at once. In 1913 David Waterston wrote in *Nature* that this was an ape **jawbone** **paired** with a human skull; Boule **echoed** him in 1915, Miller in Washington. In 1923 the **anatomist** Franz Weidenreich reported a modern skull with an **orangutan** **mandible**, its **teeth** **abraded**. He was right, and **ignored** for a **generation**.
 

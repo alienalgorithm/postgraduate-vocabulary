@@ -13,13 +13,13 @@
     "date": "2026-08-15",
     "status": "第九篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 269,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.6
     },
     "paras": [
       {
-        "en": "In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** a fortnight after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.",
+        "en": "In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.",
         "zh": "1977年10月，索马里梅尔卡一家**医务所**(infirmary)的**厨工**(cook)阿里·马奥·马阿林，在与两名天花**病人**(patients)同车两周后**发**(erupted)起**皮疹**(rash)。他先被**诊断**(diagnosed)为疟疾，又被当成水痘；最后是一名**护士**(nurse)**通报**(notified)了根除办公室。他是全世界最后一个以**寻常**(ordinary)方式**染上**(acquire)天花的人。"
       },
       {
@@ -31,7 +31,7 @@
         "zh": "方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)。"
       },
       {
-        "en": "A report triggered an inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.",
+        "en": "A report triggered inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.",
         "zh": "此后一份报告即触发一次调查：隔离病人，追踪接触者，给接触者及其接触者接种。冻干疫苗在45摄氏度下仍稳定，**热带**(tropical)储运因此可行；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)**皮肤**(skin)，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。"
       },
       {
