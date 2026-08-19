@@ -2,22 +2,22 @@
 
 > 题材：1956—1996 年克莱尔·帕特森、地球年龄与工业铅污染
 > 状态：**第十二篇最终精进锁定稿**（2026-08-15）
-> 指标：266 词 / 50 重点词 / 密度 18.8%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 他为了给地球定年，必须先把实验室里的铅赶尽。而那些赶不尽的铅，本身才是那个发现。
 
 ---
 
 ## 英文正文
 
-Harrison Brown's group used **nuclear** **decay**: two **uranium** **isotopes** **convert** into different lead isotopes at known **rates**, so the ratios are **clocks**. But **crustal** stone is remade again and again. Brown proposed that iron **meteorites** still held the untouched lead of the solar system's **origin**.
+Harrison Brown's group used **nuclear** **decay**: two **uranium** **isotopes** **convert** into different lead isotopes at known **rates**, so the ratios are **clocks**. But **crustal** stone is remade again and again, its clocks reset each time. Brown proposed that iron **meteorites** still held the untouched lead of the solar system's **origin**.
 
 He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every sample-free laboratory **blank** held lead of its own. **Dust** carried it; **reagents**, **surfaces** and **glassware** **contaminated** all of it. At Caltech from 1952 he built a **clean** room, **filtered** the air, **sealed** his containers and washed them in **acid**.
 
-A mass **spectrometer** then **separated** the **ions** and recorded a **spectrum**. The meteorite readings were **consistent** with a single age. His 1956 report **fixed** it at 4.55 ± 0.07 billion years. Combining meteoritic and **terrestrial** lead, he **dated** early **solar**-system matter and, by inference, Earth. Later work **narrowed** the number but barely moved it.
+A mass **spectrometer** then **separated** the **ions** and recorded a **spectrum**. The meteorite readings were **consistent** with a single age. His 1956 report **fixed** it at 4.55 ± 0.07 billion years. Combining meteoritic and **terrestrial** lead, he **dated** early **solar**-system matter and, by inference, Earth. Others later **narrowed** the number but barely moved it.
 
 Then he asked where that stray lead came from. With Tatsumoto and Chow he sampled **ocean** water, Mount Lassen **snow** and ancient marine **sediment**. Lead was heavy in the **shallows** and thinned rapidly with **depth**; Greenland **glaciers** showed it rising two-hundredfold since 800 BC, most **steeply** after 1940. The isotope **fingerprint** matched **tetraethyl** **exhaust**.
 
-Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Funding was **withdrawn**, and in 1971 trade **lobbying** kept him off the National Research Council **advisory** panel on **airborne** lead. The EPA began **phasing** it down in 1973; a 1986 **ban** finished it, and blood levels fell. The **contamination** he had to **banish** in order to date the planet was itself the finding.
+Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Funding was **withdrawn**, and in 1971 trade **lobbying** kept him off the National Research Council **advisory** panel on **airborne** lead. The EPA began **phasing** it down in 1973; a 1986 **ban** finished it, and blood levels fell. The **contamination** he had to **banish** to date the planet was itself the finding.
 
 ---
 
@@ -56,9 +56,9 @@ Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Fundin
 
 以下关键信息已据所列来源核对：
 
-- 哈里森·布朗提出以铁陨石中的原始铅作参照：两种铀同位素以已知速率衰变为不同铅同位素，其比值可作年代钟；而地壳岩石反复重造，无法保存原始比值。
-- 帕特森自1952年起在加州理工建立超净实验条件——过滤空气、密封容器、酸洗器皿——因为不含样品的实验室空白中始终测出铅，来源为灰尘、试剂、器壁与玻璃器皿。
-- 1956年他将地球年龄定为45.5±0.7亿年（4.55 ± 0.07 Ga）。后续工作收窄了误差，数值本身几乎未变。
+- 哈里森·布朗提出以铁陨石中的原始铅作参照：两种铀同位素以已知速率衰变为不同铅同位素，其比值可作年代钟；而地壳岩石反复重造，无法保存原始比值。　[Wikipedia：Clair Patterson](https://en.wikipedia.org/wiki/Clair_Patterson)
+- 帕特森自1952年起在加州理工建立超净实验条件——过滤空气、密封容器、酸洗器皿——因为不含样品的实验室空白中始终测出铅，来源为灰尘、试剂、器壁与玻璃器皿。　[NAS 传记备忘录：Clair Cameron Patterson](https://www.nationalacademies.org/read/6201/chapter/16)
+- 1956年他将地球年龄定为45.5±0.7亿年（4.55 ± 0.07 Ga）。后续工作收窄了误差，数值本身几乎未变。　**已核**：原文摘要写明 Pb207/Pb206 给出 4.55 ± 0.07 × 10⁹ yr。[Patterson 1956, Geochim. Cosmochim. Acta 10:230](https://ui.adsabs.harvard.edu/abs/1956GeCoA..10..230P/abstract)｜[USGS：Canyon Diablo 陨石](https://www.usgs.gov/index.php/media/images/a-200-kilogram-440-pound-fragment-canyon-diablo-meteorite-was-found-meteor-crater)
 - **污染源的追查**：他与辰本光男、周等人分析海水、拉森峰积雪与远古海洋沉积物，发现铅在表层浓、随深度迅速下降。1969年发表的格陵兰冰芯研究显示，公元前800年至1969年间铅浓度至少上升200倍，1940年后升势最陡；同位素特征指向汽油中的四乙基铅。[RSC Education：Lead in the environment](https://edu.rsc.org/feature/lead-in-the-environment/2020181.article)
 - **产业界的反制**：乙基公司聘用的工业毒理学家罗伯特·凯霍将帕特森的结论斥为不科学的狂热与「煽动闹事」；此后多家研究机构（含美国公共卫生署）中止与他的合同；1971年，在业界游说影响下，他被排除在美国国家研究委员会评估大气铅污染的专家组之外。[Grokipedia：Clair Patterson](https://grokipedia.com/page/clare_patterson)
 - 环保署自1973年起分阶段削减汽油含铅量；1976年美国每月约有逾10万吨铅进入汽油，1980年降至不足5万吨，同期美国人平均血铅下降近50%；1986年环保署禁用四乙基铅。[Caltech：Getting the Lead Out](https://www.caltech.edu/about/news/getting-lead-out-47935)
