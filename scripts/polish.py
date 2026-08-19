@@ -43,6 +43,7 @@ ROUNDS = {
     10: ("临界点判定", "每个「没改」项都答出「改它要牺牲什么」"),
     11: ("地道性专读", "冠词/介词/搭配/代词一致逐句读过——第21篇十轮后仍在此轮查出四处"),
     12: ("减法轮", "逐词问「删掉它，读者会不会觉得少了东西」——落在哪个词数就是哪个，不许贴上限"),
+    13: ("极限轮", "把前十二轮判过「保留」的每一处，遮住当初的理由重判一次；报翻案几处"),
 }
 
 def load(aid):
@@ -357,7 +358,30 @@ def r12(a, arts, aid):
     print("下限只有一条：50 个重点词的密度不得超过 20%，即不得低于 250 词。")
     print("（规则里写的 240 是错的——240 词配 50 词密度 20.8%，已破密度上限。）")
 
-GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11, 12: r12}
+def r13(a, arts, aid):
+    print("**前十二轮里，我判过多少次「保留」？每一次都写了理由。**\n")
+    print("而那些理由现在会锚住我——**再看一遍，我会先想起自己当初怎么说的，")
+    print("而不是先看那句话本身。**\n")
+    print("本轮唯一的做法：**遮住当初的裁语，只看正文那一处，重判一次。**\n")
+    print("─" * 66)
+    log = _read_log(aid)
+    keeps = [l for l in log if "否决" in l or "保留" in l]
+    print(f"\n台账里含「保留／否决」字样的记录 {len(keeps)} 条。")
+    print("**不要去读它们的理由。** 打开正文，逐处重看：\n")
+    for i, p in enumerate(a["paras"], 1):
+        print(f"\n§{i}  {p['en'].replace('**','')}")
+    print("\n" + "─" * 66)
+    print("\n重判时只问一句：**这一处，现在的我会怎么写？**")
+    print("与当初的判断不同 → 那就是一处翻案。\n")
+    print("**本轮须报出翻案几处（零处亦须明写，并说明何以十二轮无一处可翻）。**")
+
+
+def _read_log(aid):
+    import glob
+    f = os.path.join(ROOT, f"notes/精修台账-{aid}.md")
+    return open(f, encoding="utf-8").read().split("\n") if os.path.exists(f) else []
+
+GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11, 12: r12, 13: r13}
 
 def main():
     ap = argparse.ArgumentParser()
@@ -372,11 +396,11 @@ def main():
     a, arts = load(aid)
     init_ledger(aid, a)
     done, changes = read_ledger(aid)
-    nxt = next((k for k in range(1, 13) if k not in done), None)
+    nxt = next((k for k in range(1, 14) if k not in done), None)
 
     if args.cmd == "status":
         print(BAR); print(f"精修进度 · 第{aid}篇 {a['title']}"); print(BAR)
-        for k in range(1, 13):
+        for k in range(1, 14):
             name, req = ROUNDS[k]
             mark = "✓" if k in done else ("▶" if k == nxt else "·")
             print(f"  {mark} 第{k:>2}轮 {name:<8}{req}")
@@ -399,7 +423,7 @@ def main():
         if len(args.note.strip()) < 30:
             sys.exit("note 太短。必须写明：改了什么 / 什么没改 / 为什么没改")
         mark_done(aid, n, args.note)
-        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 12 else "✓ 十二轮跑完")
+        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 13 else "✓ 十三轮跑完")
         return
 
     n = args.n if args.cmd == "round" else nxt
