@@ -2,7 +2,7 @@
 
 > 题材：1908—1912 年莱维特与造父变星周光关系
 > 状态：**第八篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 她时薪三毛，不被允许靠近望远镜；而那篇让宇宙第一次可以量的通报，署的是她上司的名字。
 
 ---
@@ -17,7 +17,7 @@ By 1912 she had periods for 25 stars. The **tendency** held: longer **periods**,
 
 Later astronomers **pegged** it to Cepheid distances known independently. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used it to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; astronomers built on it a **foundation** for the **universe**'s **expansion**.
 
-Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation letting others **infer** distances they could not measure. In 1925 Mittag-Leffler wrote to nominate her for a Nobel, unaware she had died in 1921. The **honour** is never **posthumous**.
+Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation, letting others **infer** distances they could not measure. Mittag-Leffler moved to nominate her for the 1926 Nobel, unaware she had died in 1921. The **honour** is never **posthumous**.
 
 ---
 
@@ -34,7 +34,7 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 后来的天文学家把它**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用它**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家由此为测量**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。
 
-她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。1925年，米塔-列夫勒写信来要提名她诺贝尔奖，却不知她已在1921年去世。这项**荣誉**(honour)从不**追授**(posthumous)。
+她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。米塔-列夫勒着手提名她角逐1926年的诺贝尔奖，却不知她已在1921年去世。这项**荣誉**(honour)从不**追授**(posthumous)。
 
 ---
 
@@ -58,8 +58,9 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 - 皮克林在哈佛天文台雇用约八十名女性担任「计算员」，处理天文数据与照相底片，一般时薪约25美分；1902年他邀莱维特担任常职时，因其工作质量给出30美分。这些女性不获准操作望远镜——夜间观测由男性完成，底片交由她们判读。[National Women's History Museum：Henrietta Swan Leavitt](https://www.womenshistory.org/education-resources/biographies/henrietta-swan-leavitt)｜[AAS：This Month in Astronomical History](https://aas.org/posts/news/2018/07/month-astronomical-history)
 - 1908年她在《哈佛天文台年刊》发表《麦哲伦云中的1777颗变星》，其中指出较亮的变星周期较长。莱维特本人失聪，同事安妮·江普·坎农亦然。[ETHW：Henrietta Swan Leavitt](https://ethw.org/Henrietta_Swan_Leavitt)
-- 小麦哲伦云中的变星可近似视为处于同一距离，因而其相对亮度反映内禀光度之差——这是整条关系得以成立的前提假定。
+- 小麦哲伦云中的变星可近似视为处于同一距离，因而其相对亮度反映内禀光度之差——这是整条关系得以成立的前提假定。　[National Women's History Museum：Henrietta Swan Leavitt](https://www.womenshistory.org/education-resources/biographies/henrietta-swan-leavitt)
 - **1912年的《小麦哲伦云中25颗变星的周期》由爱德华·皮克林署名并「代为通报」，但文章第一句写明系「由莱维特小姐拟就」（prepared by Miss Leavitt）。**她把星等对周期的对数作图，两组点各自落成直线。[HandWiki：Henrietta Swan Leavitt](https://handwiki.org/wiki/Biography:Henrietta_Swan_Leavitt)｜[Astrobites：Leavitt's Standard Candles](https://astrobites.org/2019/03/08/leavitt-variable-stars/)
-- 该关系缺少零点，故本身不能给出绝对距离；须以独立测得的造父变星距离标定后，方可作标准烛光使用。1923—24年哈勃据此确认仙女座位于银河系之外，造父变星标尺随后成为测量宇宙膨胀的基础。
+- 该关系缺少零点，故本身不能给出绝对距离；须以独立测得的造父变星距离标定后，方可作标准烛光使用。1923—24年哈勃据此确认仙女座位于银河系之外，造父变星标尺随后成为测量宇宙膨胀的基础。　**已核**：该关系原本缺绝对零点，因当时小麦哲伦云的距离未知；赫茨普龙1913年以视差标定后方可用作标准烛光。[arXiv 2509.08894](https://arxiv.org/pdf/2509.08894)
 - **1925年，瑞典数学家约斯塔·米塔-列夫勒去信拟提名莱维特角逐诺贝尔物理学奖，不知她已于1921年病逝；该奖不追授。**[Spacedaily：the scale of the universe](https://spacedaily.com/t-much-of-what-we-know-about-the-scale-of-the-universe-rests-on-a-method-worked-out-by-a-woman-employed-as-a-human-computer-at-harvard-for-a-few-cents-an-hour/)
-- 莱维特1908年《麦哲伦云中的1777颗变星》一文中，列出周期已定的变星共16颗，并指出较亮者周期较长；1912年的通报把样本扩至25颗。
+- 莱维特1908年《麦哲伦云中的1777颗变星》一文中，列出周期已定的变星共16颗，并指出较亮者周期较长；1912年的通报把样本扩至25颗。　**已核**：1908年《麦哲伦云中的1777颗变星》（小云969颗、大云808颗）；其中周期已定者16颗，指出较亮者周期较长；1912年通报把样本扩至25颗，由皮克林署名而首句注明「由莱维特小姐编制」。[Wikipedia：Henrietta Swan Leavitt](https://en.m.wikipedia.org/wiki/Henrietta_Swan_Leavitt)｜[AAS：This Month in Astronomical History](https://aas.org/posts/news/2018/07/month-astronomical-history)
+- **诺贝尔提名（2026-08-16 订正）**：原记为「1925年米塔格-莱夫勒写信提名」，查证后改为**冲着1926年的物理学奖**——多方来源一致：他着手提名时才得知莱维特已于1921年12月12日病逝，而诺贝尔奖不追授。[Famous Scientists：Henrietta Swan Leavitt](https://www.famousscientists.org/henrietta-swan-leavitt/)｜[Wikipedia：Henrietta Swan Leavitt](https://en.m.wikipedia.org/wiki/Henrietta_Swan_Leavitt)
