@@ -42,6 +42,7 @@ ROUNDS = {
     9: ("整体冷读", "放下清单通读，三问都有答案"),
     10: ("临界点判定", "每个「没改」项都答出「改它要牺牲什么」"),
     11: ("地道性专读", "冠词/介词/搭配/代词一致逐句读过——第21篇十轮后仍在此轮查出四处"),
+    12: ("减法轮", "逐词问「删掉它，读者会不会觉得少了东西」——落在哪个词数就是哪个，不许贴上限"),
 }
 
 def load(aid):
@@ -329,7 +330,34 @@ def r11(a, arts, aid):
     print("     第21篇：The harbour had shown the fault —— 码头不会「演示」毛病\n")
     print("**机器判不了这一层**（446万词语料建搭配库的路径已作废），只能逐句读。")
 
-GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11}
+def r12(a, arts, aid):
+    import core as _c
+    w = a["metrics"]["words"]
+    print("**前十一轮全在查「对不对」，没有一轮在查「多不多」。**\n")
+    print(f"本篇 {w} 词。全库 23 篇里 21 篇落在 267—270 这四个词的区间内——")
+    print("没有哪个人类作者会这样写。**那是机器痕迹。**\n")
+    print("成因：规则写的是 240—270，我把上限读成了目标——写超了削到 270 就停，")
+    print("从不问「还能不能再削」。**「合规」变成了「完成」的信号。**\n")
+    print("─" * 66)
+    print("\n本轮唯一的问题：**哪些词删掉之后，读者不会觉得少了东西？**\n")
+    print("判据：删完通读一遍。若没人察觉少了什么，那些词本来就是多的。\n")
+    print("常见的多余处（逐句扫）：")
+    print("  · 修饰语：almost / simply / actually / rather / quite / very")
+    print("  · 冗余介词短语：in order to → to；for the purpose of → to")
+    print("  · 重复限定：the same exact；a total of；both of them")
+    print("  · 可省的关系词：the man who was standing → the man standing")
+    print("  · 已由上下文交代的信息：第二次出现的年份、已知的地点\n")
+    print("─" * 66)
+    for i, p in enumerate(a["paras"], 1):
+        print(f"\n§{i}（{_c.count_words(p['en'])}词）")
+        for s in _c.sentences(p["en"]):
+            print(f"  {_c.count_words(s):>2}  {s}")
+    print("\n" + "─" * 66)
+    print("\n**削到哪个词数就是哪个数，不许为了贴近上限而停手。**")
+    print("下限只有一条：50 个重点词的密度不得超过 20%，即不得低于 250 词。")
+    print("（规则里写的 240 是错的——240 词配 50 词密度 20.8%，已破密度上限。）")
+
+GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11, 12: r12}
 
 def main():
     ap = argparse.ArgumentParser()
@@ -344,11 +372,11 @@ def main():
     a, arts = load(aid)
     init_ledger(aid, a)
     done, changes = read_ledger(aid)
-    nxt = next((k for k in range(1, 12) if k not in done), None)
+    nxt = next((k for k in range(1, 13) if k not in done), None)
 
     if args.cmd == "status":
         print(BAR); print(f"精修进度 · 第{aid}篇 {a['title']}"); print(BAR)
-        for k in range(1, 12):
+        for k in range(1, 13):
             name, req = ROUNDS[k]
             mark = "✓" if k in done else ("▶" if k == nxt else "·")
             print(f"  {mark} 第{k:>2}轮 {name:<8}{req}")
@@ -371,7 +399,7 @@ def main():
         if len(args.note.strip()) < 30:
             sys.exit("note 太短。必须写明：改了什么 / 什么没改 / 为什么没改")
         mark_done(aid, n, args.note)
-        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 11 else "✓ 十一轮跑完")
+        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 12 else "✓ 十二轮跑完")
         return
 
     n = args.n if args.cmd == "round" else nxt

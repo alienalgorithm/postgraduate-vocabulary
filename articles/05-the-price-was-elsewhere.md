@@ -2,7 +2,7 @@
 
 > 题材：UPC 条形码与零售信息基础设施
 > 状态：**第五篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 史上第一次扫码就当场证明了这件事：收银机打出的价，比货架上标的低两分——因为包装上的条码不可能知道店里在做促销。
 
 ---
@@ -15,7 +15,7 @@ The **invention** was old. Woodland and Silver filed in 1949 for a patent on **o
 
 By 1970 the **grocers** had a number for every product but no **symbol** a machine could read. George Laurer, an IBM **engineer**, refused his manager's plea to keep the **bullseye**: it **smeared** when **printed** on **packaging**. He pushed for **vertical** bars; an industry **panel** chose IBM's **proposal** in 1973 and named it UPC-A.
 
-The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and the **widths** of bars became a number. On that gum it read 036000291452: a maker and an item, nothing more.
+The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum it read 036000291452: a maker and an item, nothing more.
 
 A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps the wrapper: the bars held a number, the price was elsewhere.
 
