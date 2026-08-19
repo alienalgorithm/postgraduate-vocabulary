@@ -2,7 +2,7 @@
 
 > 题材：UPC 条形码与零售信息基础设施
 > 状态：**第五篇最终精进锁定稿**（2026-08-15）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 史上第一次扫码就当场证明了这件事：收银机打出的价，比货架上标的低两分——因为包装上的条码不可能知道店里在做促销。
 
 ---
@@ -15,9 +15,9 @@ The **invention** was old. Woodland and Silver filed in 1949 for a patent on **o
 
 By 1970 the **grocers** had a number for every product but no **symbol** a machine could read. George Laurer, an IBM **engineer**, refused his manager's plea to keep the **bullseye**: it **smeared** when **printed** on **packaging**. He pushed for **vertical** bars; an industry **panel** chose IBM's **proposal** in 1973 and named it UPC-A.
 
-The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum it read 036000291452: a maker and an item, nothing more.
+The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum they gave a maker and an item, nothing more.
 
-A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps the wrapper: the bars held a number, the price was elsewhere.
+A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.
 
 ---
 
@@ -32,9 +32,9 @@ A **database** held the **description** and price: prices changed without reprin
 
 到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。
 
-UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那条口香糖上的数是036000291452：一个厂商，一件商品，此外什么也没有。
+UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，它们给出的是：一个厂商，一件商品，此外什么也没有。
 
-**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。商店要建账，互为对手的**供应商**(vendors)要造出**兼容的**(compatible)读头，厂商要把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着那张包装纸：条纹里装的是一串数，价格在别处。
+**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。商店要建账，互为对手的**供应商**(vendors)要造出**兼容的**(compatible)读头，厂商要把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着最初那批扫描器中的一台：条纹里装的是一串数，价格在别处。
 
 ---
 
@@ -62,3 +62,4 @@ UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后
 - 1970年前后杂货业已就每件商品的编号达成一致，尚缺机器可读的符号。IBM工程师乔治·劳雷尔认为同心圆在包装印刷时容易洇开，拒绝了上司要求沿用牛眼图形的意见，转而主张线性竖条；1973年委员会选定IBM方案。[IBM：The UPC](https://www.ibm.com/history/upc)｜[HISTORY](https://www.history.com/articles/upc-barcode-invention-ibm-laurer)
 - UPC-A为十二位数字，末位为校验位，用于识别误读。该条口香糖的UPC为036000291452。扫描端由反射镜扫掠激光束、光电二极管测量反射光强，条与空的宽度被译为数字。[Grokipedia：UPC](https://grokipedia.com/page/Universal_Product_Code)
 - 编码本身只指向厂商与商品，描述与价格存于零售商数据库，因此调价无需重印包装，且每笔销售可即时更新库存。系统的成立依赖商店建账、互相竞争的设备商制造兼容读头、制造商在包装上印码——专有方案可服务单一连锁，基础设施则要求竞争者共同遵守同一份规范。[IBM：The UPC](https://www.ibm.com/history/upc)
+- **史实更正（2026-08-16）**：本文原末句写「史密森学会留着那张包装纸」，并在 §4 给出 UPC 号码 036000291452，两处均无据。《史密森尼杂志》2017年6月26日的编者按明确更正：该刊原文曾推测史密森国家美国历史博物馆收藏并展出了那包箭牌口香糖，实则**史密森并未收藏那包口香糖**，曾展出的是一件复制品。博物馆实际收藏的是最初十台扫描仪之一——Spectra Physics A 型价格扫描器，其工作原理为氦氖激光经旋转反射镜投射，光电二极管接收标签反射光。而首次扫描那包口香糖的实际 UPC 号码，检索未见可靠来源，故正文改为不给具体数字。[Smithsonian Magazine：The History of the Bar Code（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)｜[Smithsonian 藏品：Supermarket Scanner](https://si.edu/object/supermarket-scanner%3Anmah_892778)
