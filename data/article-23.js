@@ -13,24 +13,24 @@
       "status": "第二十三篇定稿",
       "paras": [
         {
-          "en": "On 10 September 1984, in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray **negative** of DNA from his **technician**, her husband and child. It showed **ladders** of dark bands, some **rungs** shared between **parent** and child, some not. Within half an hour he **understood** what the pattern was for, and **lodged** **patents** that year.",
-          "zh": "1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光**负片**(negative)，上面是他**技术员**(technician)、她丈夫和他们孩子的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲**(parent)子之间共有，有些没有。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。"
+          "en": "On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **parent** and child — a **hereditary** signature. Within half an hour he **understood** what the pattern was for, and **lodged** **patents** that year.",
+          "zh": "1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲**(parent)子之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。"
         },
         {
           "en": "The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian family met a Home Office that **disbelieved** a boy **refused** **entry** was the woman's son. **Lawyers** asked Jeffreys, and the bands showed the boy was **hers**. He spoke afterwards of the **relief** on her face.",
           "zh": "这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一个加纳家庭面对的是内政部的**不信**(disbelieved)：一个被**拒**(refused)**入境**(entry)的男孩，究竟是不是那位女子的儿子。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子是**她的**(hers)。他后来提起她脸上的那种**松弛**(relief)。"
         },
         {
-          "en": "Identity in a **courtroom** rested on papers, blood **antigens**, and **confession**. Blood antigens could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any laboratory result: a man would not **condemn** himself **idly**. Two killings would test that.",
-          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是文件、血液**抗原**(antigens)和**供认**(confession)。抗原能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会**无端地**(idly)**自陷**(condemn)。两起凶杀将检验这一点。"
+          "en": "Identity in a **courtroom** rested on **papers**, on **serology**, and on **confession**. Blood groups could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: a man would not **condemn** himself for nothing. Two killings would test that.",
+          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是**文件**(papers)、**血清学**(serology)和**供认**(confession)。血型能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemn)。两起凶杀将检验这一点。"
         },
         {
-          "en": "In 1986 the police at Narborough asked for **assistance**. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old **scullery** worker, had **confessed** to the second. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.",
-          "zh": "1986年，纳伯勒的警方来求**援**(assistance)。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的**后厨**(scullery)帮工理查德·巴克兰已经**认**(confessed)下了第二起。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。"
+          "en": "In 1986 the police at Narborough asked for help. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old kitchen hand, had **confessed** — a **juvenile** questioned without a **solicitor**. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.",
+          "zh": "1986年，纳伯勒的警方来求助。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的厨房帮工理查德·巴克兰已经**认**(confessed)了罪——一个在无**事务律师**(solicitor)在场时受讯的**未成年人**(juvenile)。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。"
         },
         {
-          "en": "Police then took blood or **saliva** from five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 for one reason only: he had **persuaded** a **workmate** to give a **sample** in his name, the man talked, and his own bands fitted both **crimes**. The negative named a **killer** at last; its first two **verdicts** were **denials**.",
-          "zh": "警方随后从五千多名男子身上取了血或**唾液**(saliva)；没有一份**吻合**(matched)。科林·皮奇福克1987年被**捕**(arrested)，原因只有一个：他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，那人说了出去，而他自己的条带与两起**案子**(crimes)对得上。这张负片最终指出了**凶手**(killer)，可它头两次**判词**(verdicts)都是**否定**(denials)。"
+          "en": "Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 for one reason only: he had **persuaded** a **workmate** to give a **sample** in his name, the man talked, and his own bands fitted both **crimes**. The negative named a **killer** at last; its first two **verdicts** were **denials**.",
+          "zh": "警方随后**逐户走访**(canvassed)了五千名男子；没有一份**吻合**(matched)。科林·皮奇福克1987年被**捕**(arrested)，原因只有一个：他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，那人说了出去，而他自己的条带与两起**案子**(crimes)对得上。这张负片最终指出了**凶手**(killer)，可它头两次**判词**(verdicts)都是**否定**(denials)。"
         }
       ],
       "facts": [
@@ -42,9 +42,9 @@
         "本文收束于此：这项技术被记住的形象是「指认」，而它最初的两次结论都是「否定」——先否定内政部对一位母亲的怀疑，再否定一份供认。"
       ],
       "metrics": {
-        "words": 270,
+        "words": 269,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.6
       },
       "glossary": [
         {
@@ -55,11 +55,6 @@
         {
           "w": "develop",
           "zh": "冲洗（胶片）；显影",
-          "p": 1
-        },
-        {
-          "w": "negative",
-          "zh": "负片",
           "p": 1
         },
         {
@@ -80,6 +75,11 @@
         {
           "w": "parent",
           "zh": "亲代",
+          "p": 1
+        },
+        {
+          "w": "hereditary",
+          "zh": "可遗传的",
           "p": 1
         },
         {
@@ -153,8 +153,13 @@
           "p": 3
         },
         {
-          "w": "antigen",
-          "zh": "抗原",
+          "w": "paper",
+          "zh": "文件；文书",
+          "p": 3
+        },
+        {
+          "w": "serology",
+          "zh": "血清学",
           "p": 3
         },
         {
@@ -193,16 +198,6 @@
           "p": 3
         },
         {
-          "w": "idly",
-          "zh": "无端地；轻率地",
-          "p": 3
-        },
-        {
-          "w": "assistance",
-          "zh": "援助",
-          "p": 4
-        },
-        {
           "w": "teenager",
           "zh": "少年",
           "p": 4
@@ -213,13 +208,18 @@
           "p": 4
         },
         {
-          "w": "scullery",
-          "zh": "后厨",
+          "w": "confess",
+          "zh": "认罪",
           "p": 4
         },
         {
-          "w": "confess",
-          "zh": "认罪",
+          "w": "juvenile",
+          "zh": "未成年人",
+          "p": 4
+        },
+        {
+          "w": "solicitor",
+          "zh": "事务律师",
           "p": 4
         },
         {
@@ -248,8 +248,8 @@
           "p": 4
         },
         {
-          "w": "saliva",
-          "zh": "唾液",
+          "w": "canvass",
+          "zh": "逐户走访",
           "p": 5
         },
         {

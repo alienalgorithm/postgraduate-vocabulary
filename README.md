@@ -34,7 +34,7 @@
 | **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |
 | **21** | ***They Never Held the Same Foot*** | **1628年瓦萨号沉没与测量标准** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=they-never-held-the-same-foot) · [Markdown](articles/21-they-never-held-the-same-foot.md) |
 | **22** | ***Only That Question Had a Number*** | **1912—1953年皮尔当人骗局与氟测年** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=only-that-question-had-a-number) · [Markdown](articles/22-only-that-question-had-a-number.md) |
-| **23** | ***Its First Two Verdicts Were Denials*** | **1984—1987年杰弗里斯、DNA指纹与司法证据** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=its-first-two-verdicts-were-denials) · [Markdown](articles/23-its-first-two-verdicts-were-denials.md) |
+| **23** | ***Its First Two Verdicts Were Denials*** | **1984—1987年杰弗里斯、DNA指纹与司法证据** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=its-first-two-verdicts-were-denials) · [Markdown](articles/23-its-first-two-verdicts-were-denials.md) |
 
 第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
 

@@ -214,7 +214,11 @@ def inspect(a, archive):
             f"{len(cheap)}/{total_k} 个 Zipf≥{ZIPF_CHEAP} 的超高频基础词：{fmt(cheap)}",
             "考研生早已掌握这些词，占名额＝浪费教学预算；换成承重实词"))
     elif cheap:
-        F.append(Finding("VAL-02", "词价", "check", "含白送词", fmt(cheap)))
+        F.append(Finding("VAL-02", "词价", "check", "含白送词", fmt(cheap),
+        "**处置：取消它的加粗，把名额让给同段另一个词——不要为避开它而改动英文。**\n"
+        "        自然的说法留在正文，只是不占名额。本项目曾为避开 Zipf 把\n"
+        "        blood groups 改成 blood antigens、kitchen hand 改成 scullery worker、\n"
+        "        for nothing 改成 idly，三处都损伤了英文，两处还伤了史实准确度。"))
     if len(cheap) + len(soft) > SOFT_MAX:
         F.append(Finding("VAL-02b", "词价", "check", "低价值词偏多",
             f"确定白送 {len(cheap)} + 边缘 {len(soft)} = {len(cheap)+len(soft)}/{total_k}",

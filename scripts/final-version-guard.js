@@ -63,7 +63,7 @@ const VERSION_IDS = {
   '20': '20-270-word-final-locked',
   '21': '21-270-word-final-locked',
   '22': '22-270-word-final-locked',
-  '23': '23-270-word-final-locked',
+  '23': '23-269-word-final-locked',
 };
 
 const SUPERSEDED_SIGNATURES = {
