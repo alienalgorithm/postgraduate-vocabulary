@@ -571,6 +571,32 @@ def inspect(a, archive):
             if len(v) >= 2 and v not in body_nums:
                 F.append(Finding("ANC-02", "锚点", "check", "导语的数字正文没有", v,
                     "导语不能承诺正文没有的东西"))
+    # ── 第十二层 SRC · 事实的来源（2026-08-16 加）─────────────────────
+    # FACT-01 只查「正文的数字在 facts 里有没有出处」——而 facts 是我自己写的，
+    # 我写错了它就跟着错。第05篇末句「史密森学会留着那张包装纸」是错的
+    # （史密森未收藏那包口香糖，展出过的是复制品，馆藏的是最初十台扫描仪之一），
+    # 十一层规则、十二轮精修、六条审计全没抓到——**因为没有一层在查「这是不是真的」**。
+    # 本层不判断真假（机器判不了），只查「这条到底核过没有」：
+    # 带得出可点开的来源链接，才算核过。
+    facts_list = a.get("facts") or []
+    if facts_list:
+        nolink = [i for i, c in enumerate(facts_list, 1) if "http" not in c]
+        if nolink:
+            F.append(Finding("SRC-01", "来源", "info",
+                f"{len(nolink)}/{len(facts_list)} 条史实无来源链接",
+                "第 " + "、".join(str(i) for i in nolink) + " 条",
+                "**本层不判真假，只逼出「这条核过没有」。** 带得出可点开的链接才算核过。\n"
+                "        第05篇实证：末句 The Smithsonian keeps the wrapper 是错的——"
+                "史密森未收藏那包口香糖，展出过的是复制品，馆藏的是最初十台扫描仪之一。\n"
+                "        那条 facts 当时没有链接。**没链接的那条，就是没核过的那条。**"))
+        # 关键事实（含数字或专名的那几条）尤其不能缺链接
+        keyless = [i for i, c in enumerate(facts_list, 1)
+                   if "http" not in c and (re.search(r"\d{3,}", c) or re.search(r"[A-Z][a-z]{3,}", c))]
+        if keyless:
+            F.append(Finding("SRC-02", "来源", "check",
+                f"{len(keyless)} 条含数字或专名的史实无来源",
+                "第 " + "、".join(str(i) for i in keyless) + " 条",
+                "含具体数字或人名地名的断言最容易记错，也最该给出处"))
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 

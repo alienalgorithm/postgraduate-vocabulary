@@ -239,6 +239,18 @@ _bad = [l for l in _hit.splitlines()
 check("全库无外部词汇表痕迹", not _bad,
       "文章质量优先于选词：绝不从词表取词。首个命中：" + (_bad[0][:80] if _bad else ""))
 
+# ── SRC 层：事实必须带得出来源 ──────────────────────────────────
+print("\n[SRC] 事实来源层")
+_f_nolink = art(["**a**."]*5, facts=["1974年首次扫描发生在俄亥俄州特洛伊。"])
+_F, _ = I.inspect(_f_nolink, arts)
+check("无链接的史实 → SRC-01", "SRC-01" in ids(_F),
+      "本层不判真假，只逼出「这条核过没有」——第05篇末句错在史密森藏品，"
+      "而那条 facts 当时正好没有链接")
+_f_link = art(["**a**."]*5,
+              facts=["1974年首次扫描发生在俄亥俄州特洛伊。[来源](https://example.org/x)"])
+_F2, _ = I.inspect(_f_link, arts)
+check("有链接则不报", "SRC-01" not in ids(_F2))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
