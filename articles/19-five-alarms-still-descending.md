@@ -2,7 +2,7 @@
 
 > 题材：1969年阿波罗11号1201/1202程序警报、优先级软件与地面“继续”判断
 > 状态：**第十九篇最终精进锁定稿**（2026-08-15）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：267 词 / 50 重点词 / 密度 18.7%
 > 几周前的模拟里，同一类警报让贝尔斯叫了中止——错的。于是克兰兹下令把每个代码都写下来。警报从来不是那场危机；事先没读过它们，才会是。
 
 ---
@@ -17,7 +17,7 @@ All five were **defences** reporting for duty. The **executive** ran jobs by **p
 
 None of it helped unless the ground knew it. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **handwrote** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.
 
-Bales was twenty-six. He read his **telemetry**, heard Garman, and said go inside fifteen **ticks**. Eagle landed with twenty-five seconds of **fuel** left; Bales later took a Presidential Medal. A **resilient** system can **overload** without **collapsing**, because its **hierarchy** knows what to **sacrifice** and what to **preserve**; the alarms were never the **crisis** — not having read them beforehand would have been.
+Bales was twenty-six. He read his **telemetry**, heard Garman, and said go inside fifteen **ticks**. Eagle landed with the low-**fuel** light already on; Bales later took a Presidential Medal. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.
 
 ---
 
@@ -34,7 +34,7 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go insid
 
 可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**撤离**(evacuation)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(handwrote)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。
 
-贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时**燃料**(fuel)只剩约二十五秒；贝尔斯后来因这次判断获总统自由勋章。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)，因为它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么；警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。
+贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时低**燃料**(fuel)灯已经亮起；贝尔斯后来因这次判断获总统自由勋章。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)：它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么。警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。
 
 ---
 
@@ -56,9 +56,9 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go insid
 
 以下关键信息已据所列来源核对：
 
-- 1969年7月20日，「鹰」号动力下降约五分钟后出现首个1202程序警报。麻省理工仪器实验室1969年8月4日的分析记录了全部五次：四次1202、一次1201；前两次发生于制动段，后三次在接近段约四十秒内密集出现，其时飞行器正下降经过3000英尺与1000英尺。
+- 1969年7月20日，「鹰」号动力下降约五分钟后出现首个1202程序警报。麻省理工仪器实验室1969年8月4日的分析记录了全部五次：四次1202、一次1201；前两次发生于制动段，后三次在接近段约四十秒内密集出现，其时飞行器正下降经过3000英尺与1000英尺。　**已核**：交会雷达接口未修正的问题占去约 13% 的计算机占空比，导致五次程序警报与软件重启，系统逐次处置。[Don Eyles：Tales from the Lunar Module Guidance Computer](http://klabs.org/history/apollo_11_alarms/eyles_2004/eyles_2004.htm)
 - **成因量化**：该阶段制导计算机约占用83%的算力；交会雷达因供电相位不匹配产生虚假角度计数请求，又占去13—14%；奥尔德林键入显示请求后余量耗尽，作业入队快于完成，触发执行溢出。[WCBI：Inside story of Apollo 11's descent](https://www.wcbi.com/inside-story-of-apollo-11039s-nail-biting-descent-to-the-moon/)
-- 警报本身是防护机制在起作用：执行程序按优先级调度，工作区耗尽时重启，丢弃未完成的低优先级作业，自检查点恢复关键程序，继续制导。软件卸载荷属设计预期，而非失效。
+- 警报本身是防护机制在起作用：执行程序按优先级调度，工作区耗尽时重启，丢弃未完成的低优先级作业，自检查点恢复关键程序，继续制导。软件卸载荷属设计预期，而非失效。　**已核**：交会雷达接口未修正的问题占去约 13% 的计算机占空比，导致五次程序警报与软件重启，系统逐次处置。[Don Eyles：Tales from the Lunar Module Guidance Computer](http://klabs.org/history/apollo_11_alarms/eyles_2004/eyles_2004.htm)
 - **关键前情**：Apollo 11 发射前的模拟中，模拟主管迪克·库斯设置了同类程序警报，制导官史蒂夫·贝尔斯误判并叫停了模拟着陆；库斯当场指出这是错误处置，翌日又对该团队加练四小时程序警报专项训练。[Smithsonian：Troubleshooting 101](https://www.smithsonianmag.com/air-space-magazine/troubleshooting-101-1201-actually-and-1202-too-111339271/)
 - 飞行指挥吉恩·克兰兹随即要求写下每一个可能出现的程序警报及正确处置。时年二十四岁的杰克·加曼手写该清单并压在控制台有机玻璃下。其判据为：只要警报不连续出现，计算机即在正常恢复，可继续。[Wikipedia：Jack Garman](https://en.wikipedia.org/wiki/Jack_Garman)｜[collectSPACE/Yahoo：Jack Garman](https://news.yahoo.com/jack-garman-nasa-engineer-saved-apollo-11-alarms-173734937.html)
 - 时年二十六岁的贝尔斯据遥测与加曼建议在数秒内作出「继续」判断，经CAPCOM查理·杜克传达给乘员。「鹰」号最终着陆，余留燃料约合二十五秒。[Space.com：Apollo 11's Momentous Landing](https://www.space.com/apollo-11-guidance-officer-remembers-moon-landing-drama.html)
