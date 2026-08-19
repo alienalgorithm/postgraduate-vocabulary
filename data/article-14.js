@@ -300,7 +300,7 @@
       "船名 Fram 在挪威语中意为「前进」。全篇收束于此：她以让步的方式前进——这既是船体设计的原理，也是这次考察的方法。"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

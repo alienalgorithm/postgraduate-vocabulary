@@ -301,7 +301,7 @@
       "麦克林托克自1944年起在冷泉港以玉米为材料系统研究染色体断裂—融合—桥循环；1948年将该断裂位点命名为 Dissociation（Ds）。"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

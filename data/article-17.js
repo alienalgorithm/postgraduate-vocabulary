@@ -308,7 +308,7 @@
       "来源：[Zenodo：1913年论文存档与PDF](https://zenodo.org/records/1430706)"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

@@ -226,6 +226,19 @@ check("annotations 按括注取键而非按位置",
       == [("附近", "nearby"), ("内科医生", "physician")],
       "中英语序天然不同，按位置配对会整体串位——曾造成 270 处错位")
 
+# ── 不得存在外部词汇表的任何痕迹 ────────────────────────────────
+print("\n[VOCAB] 不得存在外部词汇表")
+import subprocess as _sp
+# 只查活代码与配置；notes/ 下的历史记录与铁律说明允许提及（那是留痕，不是使用）
+_hit = _sp.run(["grep", "-rn", "-e", "vocabTotal", "-e", "新东方", "-e", "乱序版",
+                "--include=*.js", "--include=*.html", "--include=*.yml",
+                "data", "assets", "scripts", ".github", "."],
+               capture_output=True, text=True).stdout
+_bad = [l for l in _hit.splitlines()
+        if "node_modules" not in l and "test_tools" not in l and "/notes/" not in l]
+check("全库无外部词汇表痕迹", not _bad,
+      "文章质量优先于选词：绝不从词表取词。首个命中：" + (_bad[0][:80] if _bad else ""))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

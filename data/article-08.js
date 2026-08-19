@@ -301,7 +301,7 @@
       "莱维特1908年《麦哲伦云中的1777颗变星》一文中，列出周期已定的变星共16颗，并指出较亮者周期较长；1912年的通报把样本扩至25颗。"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

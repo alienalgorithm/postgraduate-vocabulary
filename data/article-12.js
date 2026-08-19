@@ -300,7 +300,7 @@
       "环保署自1973年起分阶段削减汽油含铅量；1976年美国每月约有逾10万吨铅进入汽油，1980年降至不足5万吨，同期美国人平均血铅下降近50%；1986年环保署禁用四乙基铅。[Caltech：Getting the Lead Out](https://www.caltech.edu/about/news/getting-lead-out-47935)"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

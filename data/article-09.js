@@ -301,7 +301,7 @@
       "冻干（freeze-dried）痘苗的关键指标是耐热：在45℃下可保持效价约一个月，远优于液体苗，因而适用于无冷链的热带地区。[WHO：Smallpox vaccine](https://www.who.int/news-room/questions-and-answers/item/smallpox)"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

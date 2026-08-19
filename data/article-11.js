@@ -301,7 +301,7 @@
       "法拉第自1820年代初起多次尝试「磁生电」而未果，其失败笔记可上溯至1824年前后；正文取1824年作为长期尝试的起点。"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

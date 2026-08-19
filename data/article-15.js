@@ -300,7 +300,7 @@
       "该法要求的是「动力制动」这一能力，而非指定某一厂商产品；本文据此收束于失效安全原理：安全不来自管路永不破损，而来自破损本身即为制动指令。"
     ]
   };
-  root.SITE = root.SITE || { vocabTotal: 2545, ARTICLES: [] };
+  root.SITE = root.SITE || { ARTICLES: [] };
   root.SITE.ARTICLES = root.SITE.ARTICLES || [];
   var index = root.SITE.ARTICLES.findIndex(function (item) { return item.id === article.id || item.slug === article.slug; });
   if (index >= 0) root.SITE.ARTICLES[index] = article;

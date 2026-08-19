@@ -10,8 +10,6 @@
  */
 
 window.SITE = {
-  "vocabTotal": 2545,
-  "vocabNote": "新东方考研英语词汇 · 乱序版 · 35 个 List",
   "ARTICLES": [
     {
     "id": "01",

@@ -1,7 +1,7 @@
 /* 记词 · shared application bootstrap */
 (function(){
   'use strict';
-  var S=window.SITE||{ARTICLES:[],vocabTotal:0};
+  var S=window.SITE||{ARTICLES:[]};
   var A=(S.ARTICLES||[]).slice().sort(function(a,b){return String(a.id).localeCompare(String(b.id),undefined,{numeric:true});});
   function $(s,r){return (r||document).querySelector(s)}
   function $$(s,r){return Array.prototype.slice.call((r||document).querySelectorAll(s))}
