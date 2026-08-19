@@ -2,22 +2,22 @@
 
 > 题材：UPC 条形码与零售信息基础设施
 > 状态：**第五篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
-> 史上第一次扫码就当场证明了这件事：口香糖标价69美分，收银机打出67，因为包装上的条码不可能知道店里在做促销。
+> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 史上第一次扫码就当场证明了这件事：收银机打出的价，比货架上标的低两分——因为包装上的条码不可能知道店里在做促销。
 
 ---
 
 ## 英文正文
 
-At 8:01 on 26 June 1974, in a Marsh **supermarket** in Troy, Ohio, Clyde Dawson handed **cashier** Sharon Buchanan a pack of **gum**. She passed it over a laser **scanner** **sunk** in the **checkout**, which read neither name nor price. The till showed 67 **cents**, two under the **shelf** price: a **promotion** no **wrapper** could know about.
+At 8:01 on 26 June 1974, in a Marsh **supermarket** in Troy, Ohio, Clyde Dawson handed **cashier** Sharon Buchanan a pack of **gum**. She passed it over a laser **scanner** **sunk** in the **checkout**. It read neither name nor price. The till showed 67 **cents**, two under the **shelf** price: a **promotion** no **wrapper** could know about.
 
-The **invention** was old. Woodland and Silver filed in 1949 for a patent on **optical** ways of **classifying** goods; the 1952 document **depicted** **linear** and **circular** patterns alike. The idea was **feasible** but **premature**: lasers did not exist, **computing** was costly, and no common **numbering** ran across the trade.
+The **invention** was old. Woodland and Silver filed in 1949 for a patent on **optical** ways of **classifying** goods; the 1952 document **depicted** **linear** and **circular** patterns alike. Both were **feasible** but **premature**: lasers did not exist, **computing** was costly, and no common **numbering** ran across the trade.
 
-By 1970 the **grocers** had a number for every product but no **symbol** a machine could read. George Laurer, an IBM **engineer**, refused his manager's plea to keep the **bullseye**: it **smeared** when **printed** on **packaging**. He pushed for **vertical** bars; an industry **panel** chose IBM's **proposal** in 1973.
+By 1970 the **grocers** had a number for every product but no **symbol** a machine could read. George Laurer, an IBM **engineer**, refused his manager's plea to keep the **bullseye**: it **smeared** when **printed** on **packaging**. He pushed for **vertical** bars; an industry **panel** chose IBM's **proposal** in 1973 and named it UPC-A.
 
 The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. In Troy a **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and the **widths** of bars became a number. On that gum it read 036000291452: a maker and an item, nothing more.
 
-A **database** held the **description** and price, so prices changed without reprinting a wrapper, and each sale updated **inventory**. Machinery alone was no system: stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps that wrapper: the bars held a number, the price was elsewhere.
+A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps the wrapper: the bars held a number, the price was elsewhere.
 
 ---
 
@@ -28,9 +28,9 @@ A **database** held the **description** and price, so prices changed without rep
 
 1974年6月26日8点01分，在俄亥俄州特洛伊镇的马什**超市**(supermarket)，克莱德·道森把一条十包装的箭牌**口香糖**(gum)递给**收银员**(cashier)莎伦·布坎南。她把它从嵌在**收银台**(checkout)里的激光**扫描器**(scanner)上划过——那台**沉**(sunk)在台面下的机器，既没读到名称，也没读到价格。收款机显示67**美分**(cents)，比**货架**(shelf)价低两分：店里在做**促销**(promotion)，而**包装纸**(wrapper)不可能知道这回事。
 
-这项**发明**(invention)其实很老。1949年，诺曼·伍德兰与伯纳德·西尔弗为一种用印刷标记给货品**分类**(classifying)的**光学**(optical)方法提交了专利申请；1952年授权的文件里，**直线**(linear)与**圆环**(circular)两种图形都**画**(depicted)了出来。想法**可行**(feasible)，但**为时过早**(premature)：激光尚不存在，**计算**(computing)昂贵，全行业也没有一套通用的**编号**(numbering)。
+这项**发明**(invention)其实很老。1949年，诺曼·伍德兰与伯纳德·西尔弗为一种用印刷标记给货品**分类**(classifying)的**光学**(optical)方法提交了专利申请；1952年授权的文件里，**直线**(linear)与**圆环**(circular)两种图形都**画**(depicted)了出来。它们都**可行**(feasible)，只是**为时过早**(premature)：激光尚不存在，**计算**(computing)昂贵，全行业也没有一套通用的**编号**(numbering)。
 
-到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)。
+到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。
 
 UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那条口香糖上的数是036000291452：一个厂商，一件商品，此外什么也没有。
 
