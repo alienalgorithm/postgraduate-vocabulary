@@ -133,6 +133,15 @@ class Finding:
 WEIGHT = {"hard": 8, "check": 3, "info": 0}
 
 # ── 规则 ────────────────────────────────────────────────────────────────
+STOP_EN = set('''the a an and or of to in on at for from by as that this these those it its
+their they was were is are be been had have has do does did will would could should may
+might must can not but with without into onto over under about after before during through
+between among across against out up down off again more most much many some any all each
+every both few other another such same own very just also only even still yet there here
+one two three four five six seven eight nine ten first second third what when where which
+who while than then how why never ever always'''.split())
+
+
 def inspect(a, archive):
     F = []
     paras   = a.get("paras", [])
@@ -521,6 +530,42 @@ def inspect(a, archive):
                 F.append(Finding(_rid, "回归", "check", _t, _d, _why))
     except Exception:
         pass
+    # ── 第十一层 ANCHOR · 标题与导语的落点（2026-08-16 加）─────────────
+    # REG-01/02 只在「改动前后对比」时才报；但一篇从没改过的文章，
+    # 标题里的词也可能从来就没在正文出现过。这里做绝对检查。
+    body_l = " ".join(p["en"] for p in paras).replace("**", "").lower()
+    title_words = {w.lower() for w in re.findall(r"[A-Za-z]{4,}", a.get("title", ""))} - STOP_EN
+    def stem_t(x):
+        for suf in ("ations", "ation", "ings", "ing", "ies", "ied", "ed", "es", "s", "e"):
+            if x.endswith(suf) and len(x) - len(suf) >= 4:
+                return x[: -len(suf)]
+        return x
+    body_stems = {stem_t(w) for w in re.findall(r"[a-z]{3,}", body_l)}
+    # 屈折形式不算缺（changed↔change、patches↔patch、arrived↔arrive、descending↔descent）
+    # 前四字母相同也算落地（descending↔descent、broken↔break 由 IRREG 另表兜）
+    TITLE_IRREG = {"broken": "break", "left": "leave", "trapped": "trap",
+                   "returned": "return", "twice": "two", "ruler": "rule"}
+    body_pre4 = {w[:4] for w in re.findall(r"[a-z]{4,}", body_l)}
+    def landed(w):
+        if stem_t(w) in body_stems or w[:4] in body_pre4:
+            return True
+        alt = TITLE_IRREG.get(w)
+        return bool(alt and (stem_t(alt) in body_stems or alt[:4] in body_pre4))
+    lost = sorted(w for w in title_words if not landed(w))
+    for w in lost:
+        F.append(Finding("ANC-01", "锚点", "info", "标题里的词正文没有原形", w,
+            "**须人工判定，不是硬伤。** 标题用同义或隐喻是正常的——"
+            "第02篇 sunlight 落在末句的 never needed sun，第14篇 trapped 落在 gripped。\n"
+            "        真正要防的是「改动把落点删掉了」：第22篇为省词删掉末句的 question，"
+            "而标题正是 Only That Question Had a Number。那一类由 REG-01 差分捕捉。"))
+    sf = a.get("standfirst", "")
+    if sf:
+        body_nums = numset(" ".join(p["en"] for p in paras))
+        for m in re.finditer(r"\d[\d,.]*", sf):
+            v = m.group(0).rstrip(".").replace(",", "")
+            if len(v) >= 2 and v not in body_nums:
+                F.append(Finding("ANC-02", "锚点", "check", "导语的数字正文没有", v,
+                    "导语不能承诺正文没有的东西"))
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 
