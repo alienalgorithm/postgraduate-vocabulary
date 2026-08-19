@@ -72,6 +72,20 @@ try:
 except Exception:
     HAVE_WF = False
 
+# 铁律映射：规则 ID → 《最终版本铁律》条款。检察官报告时引用它执行的是哪一条。
+try:
+    _CM = json.load(open(os.path.join(ROOT, "data/reference/charter-map.json"),
+                         encoding="utf-8"))["clauses"]
+    CHARTER = {r: (k, v["title"]) for k, v in _CM.items() for r in v.get("rules", [])}
+except Exception:
+    _CM, CHARTER = {}, {}
+
+
+def charter_of(rid):
+    """返回该规则执行的铁律条款，形如 ('第零条之三·二', '不许为凑满50个而硬塞重点词')。"""
+    return CHARTER.get(rid)
+
+
 # spaCy 句法解析：把「抽象主语」「被动语态」「句长节奏」从正则猜测升级为真读句子
 try:
     import spacy
@@ -674,7 +688,9 @@ def report_one(a, F, st, verbose=True):
     order = {"hard": 0, "check": 1, "info": 2}
     for f in sorted(F, key=lambda x: (order[x.sev], x.rid)):
         tag = {"hard": "✗硬伤", "check": "·待核", "info": "  提示"}[f.sev]
-        print(f"   {tag} [{f.rid}] {f.title}")
+        _c = charter_of(f.rid)
+        _cs = f"　　铁律{_c[0]}" if _c else ""
+        print(f"   {tag} [{f.rid}] {f.title}{_cs}")
         print(f"        {f.detail}")
         if f.fix:
             print(f"        → {f.fix}")
@@ -858,7 +874,42 @@ def cmd_draft(arts, path, exclude=None):
     print()
     cmd_pool(arts, allk, exclude)
 
+def cmd_charter():
+    """反查覆盖：铁律里哪些条款没有任何规则在执行。"""
+    print(BAR); print("铁律 ↔ 检察官规则　对照"); print(BAR)
+    if not _CM:
+        print("未找到 data/reference/charter-map.json"); return
+    # REG-* 定义在 regress.py（由第十层调用），须一并扫
+    src = ""
+    for f in ("scripts/inspector.py", "scripts/regress.py"):
+        try:
+            src += open(os.path.join(ROOT, f), encoding="utf-8").read()
+        except Exception:
+            pass
+    for k, v in _CM.items():
+        rs = v.get("rules", [])
+        live = [r for r in rs if f'"{r}"' in src]
+        dead = [r for r in rs if r not in live]
+        mark = "✓" if live else ("·" if not rs else "✗")
+        print(f"\n{mark} {k} · {v['title']}")
+        print(f"    {v['gist']}")
+        if live:
+            print(f"    由 {len(live)} 条规则执行：{'、'.join(live)}")
+        if dead:
+            print(f"    ✗ 映射到不存在的规则：{'、'.join(dead)}")
+        if not rs:
+            print("    **无规则执行——只能靠人的自觉。**")
+        if v.get("note"):
+            print(f"    → {v['note']}")
+    print("\n" + BAR)
+    nocov = [k for k, v in _CM.items() if not v.get("rules")]
+    print(f"共 {len(_CM)} 条款，其中 {len(nocov)} 条无规则执行：{'、'.join(nocov) or '无'}")
+    print("**无规则执行的条款，是这套机制真正的薄弱处。**")
+
+
 def main():
+    if "--charter" in sys.argv:
+        cmd_charter(); return
     args = [x for x in sys.argv[1:] if not x.startswith("--")]
     arts = load_articles()
     results = []

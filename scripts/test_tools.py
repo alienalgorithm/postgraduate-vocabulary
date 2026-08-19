@@ -281,6 +281,24 @@ _F3, _ = I.inspect(_adv, arts)
 check("副词＋形容词连着加粗 → FIT-03", "FIT-03" in ids(_F3),
       "副词最容易被塞进来凑名额")
 
+# ── 铁律映射：规则与铁律条款必须对得上 ──────────────────────────
+print("\n[CHARTER] 铁律 ↔ 规则映射")
+_cm = _j.load(open(_o.path.join(ROOT, "data/reference/charter-map.json"),
+                   encoding="utf-8"))["clauses"]
+_src = ""
+for _f in ("scripts/inspector.py", "scripts/regress.py"):
+    _src += open(_o.path.join(ROOT, _f), encoding="utf-8").read()
+_dead = [(k, r) for k, v in _cm.items() for r in v.get("rules", [])
+         if f'"{r}"' not in _src]
+check("映射里的规则都真实存在", not _dead,
+      "映射到不存在的规则 = 铁律以为有人在管，其实没有。命中：" +
+      "、".join(f"{k}:{r}" for k, r in _dead[:3]))
+_ids = set(re.findall(r'Finding\("([A-Z]+-\d+[a-z]?)"', _src))
+_mapped = {r for v in _cm.values() for r in v.get("rules", [])}
+_orphan = sorted(_ids - _mapped)
+check("每条规则都挂在某条铁律下", not _orphan,
+      "没挂铁律的规则 = 不知道它在执行什么。命中：" + "、".join(_orphan[:5]))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
