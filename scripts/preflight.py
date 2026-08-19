@@ -35,6 +35,9 @@ run("工具回归测试（33条，锁住每个已修缺陷）", "python3 scripts
 run("markdown 构建与全部结构校验", "python3 scripts/build_markdown.py",
     lambda o: "全部通过" in o)
 run("markdown 与数据层同步", "git diff --exit-code -- articles")
+# **写 manifest 前必须先跑 build_markdown。** 顺序颠倒会导致指纹对不上：
+# manifest 记的是写入时刻的 markdown 指纹，若之后 markdown 又被重建，
+# 本地 guard 可能因缓存通过，而 CI 从零构建必红。2026-08-16 第10篇实际踩到。
 run("最终版本守卫（指纹 / 指标 / 批准来源）", "node scripts/final-version-guard.js",
     lambda o: "全部一致" in o)
 insp = run("检察官（合规分）", "python3 scripts/inspector.py",
