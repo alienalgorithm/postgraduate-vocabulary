@@ -49,20 +49,20 @@ const VERSION_IDS = {
   '06': '06-268-word-final-locked',
   '07': '07-269-word-final-locked',
   '08': '08-269-word-final-locked',
-  '09': '09-269-word-final-locked',
+  '09': '09-270-word-final-locked',
   '10': '10-269-word-final-locked',
   '11': '11-267-word-final-locked',
   '12': '12-266-word-final-locked',
   '13': '13-269-word-final-locked',
   '14': '14-269-word-final-locked',
   '15': '15-267-word-final-locked',
-  '16': '16-269-word-final-locked',
-  '17': '17-269-word-final-locked',
+  '16': '16-270-word-final-locked',
+  '17': '17-270-word-final-locked',
   '18': '18-264-word-final-locked',
   '19': '19-268-word-final-locked',
   '20': '20-267-word-final-locked',
-  '21': '21-269-word-final-locked',
-  '22': '22-268-word-final-locked',
+  '21': '21-270-word-final-locked',
+  '22': '22-270-word-final-locked',
   '23': '23-269-word-final-locked',
 };
 
@@ -463,10 +463,10 @@ function validateManifest(articles, manifest) {
   const readme = fs.existsSync(README_PATH) ? fs.readFileSync(README_PATH, 'utf8') : '';
   const handoff = fs.existsSync(HANDOFF_PATH) ? fs.readFileSync(HANDOFF_PATH, 'utf8') : '';
   if (!readme.includes('## 最终版本铁律')) errors.push('README final-version rule missing');
-  if (!readme.includes('| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **269词 · 50词 · 18.6%** |')) {
+  if (!readme.includes('| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 16 final row is stale');
   }
-  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **269词 · 50词 · 18.6%** |')) {
+  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 17 final row is stale');
   }
   if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **264词 · 50词 · 18.9%** |')) {
@@ -479,7 +479,7 @@ function validateManifest(articles, manifest) {
     errors.push('README article 20 final row is stale');
   }
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
-  if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **269 / 50 / 18.6%** | **第十六篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
     errors.push('handoff article 16 final row is stale');
   }
   if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **264 / 50 / 18.9%** | **第十八篇最终精进锁定稿** |')) {

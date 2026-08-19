@@ -12,16 +12,18 @@
 |---|---|
 | 段落 | 恰好 5 段：布景与触发 · 异常本身 · 当时的解释为何不够 · 判别性证据 · 意义与升华 |
 | 重点词 | 恰好 50 个，每段 10 个 |
-| 篇幅 | 249—271 词，**不得为整十**（250/260/270 一律禁止） |
+| 篇幅 | 249—271 词 |
 | 跨篇 | 重点词不重复，含同根 |
 
-**为什么明写篇幅不许整十**：十四行诗永远十四行，那是体式；
-而「13 篇都恰好 270 词」不是体式，是贴着上限停手的痕迹——
-270 不是一个有意义的数，它只是当时规则允许的最大值。
+**篇幅不硬凑。** 在 249—271 之间，论证说完、赘词削净，落在哪个数就是哪个数——
+不看它是否整齐，也不为了「不整齐」而多删一个词。
 
-**每篇的实际词数由减法轮决定**：写完之后逐词问「删掉它，读者会不会觉得少了东西」，
-削到自己该落的地方为止。差异是削出来的，不是分配的——
-所以不设「分布必须多分散」这类指标，那样只会制造凑数的压力。
+曾把「不许整十」定成规则，随即为脱离整十而逐篇削一个词
+（如 The inquest of 1628 → The 1628 inquest，不是因为原句冗余，而是要减掉一个词）。
+**那仍是凑数，只不过从「凑到 270」换成了「凑到不是 270」。** 该规则已撤。
+
+真正要防的是**贴着上限停手**，那由减法轮解决：
+写完之后逐词问「删掉它，读者会不会觉得少了东西」，削到自己该落的地方为止。
 
 ---
 ## 当前最终定稿
@@ -38,20 +40,20 @@
 | **06** | ***The Reaction That Had to Be Invented Twice*** | **Haber–Bosch合成氨与工业放大**  | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-reaction-invented-twice) · [Markdown](articles/06-the-reaction-invented-twice.md) |
 | **07** | ***The Meaning He Left Out*** | **1948年香农与信息论** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-meaning-he-left-out) · [Markdown](articles/07-the-meaning-he-left-out.md) |
 | **08** | ***A Ruler Without a Zero*** | **1908—1912年莱维特与造父变星周光关系** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-ruler-without-a-zero) · [Markdown](articles/08-a-ruler-without-a-zero.md) |
-| **09** | ***Zero Was Not Enough*** | **1967—1980年全球天花根除、监测与环形接种**  | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=zero-was-not-enough) · [Markdown](articles/09-zero-was-not-enough.md) |
+| **09** | ***Zero Was Not Enough*** | **1967—1980年全球天花根除、监测与环形接种**  | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=zero-was-not-enough) · [Markdown](articles/09-zero-was-not-enough.md) |
 | **10** | *A Name Inside an Oval* | 1799—1824年罗塞塔石碑与埃及圣书体破译 | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-name-inside-an-oval) · [Markdown](articles/10-a-name-inside-an-oval.md) |
 | **11** | ***The Needle Moved Twice*** | **1831年法拉第与电磁感应** | **267词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-needle-moved-twice) · [Markdown](articles/11-the-needle-moved-twice.md) |
 | **12** | ***The Blank Was Not Blank*** | **1956—1996年克莱尔·帕特森、地球年龄与工业铅污染**  | **266词 · 50词 · 18.8%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-blank-was-not-blank) · [Markdown](articles/12-the-blank-was-not-blank.md) |
 | **13** | ***The Colour Returned in Patches*** | **1944—1983年麦克林托克、玉米斑驳与转座元件**  | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-colour-returned-in-patches) · [Markdown](articles/13-the-colour-returned-in-patches.md) |
 | **14** | ***The Ship Built to Be Trapped*** | **1881—1896年“前进号”、跨北冰洋漂流与深海盆地**  | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-ship-built-to-be-trapped) · [Markdown](articles/14-the-ship-built-to-be-trapped.md) |
 | **15** | ***When a Broken Pipe Applied the Brakes*** | **1869—1893年威斯汀豪斯、自动空气制动与失效安全逻辑**  | **267词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=when-a-broken-pipe-applied-the-brakes) · [Markdown](articles/15-when-a-broken-pipe-applied-the-brakes.md) |
-| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
-| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
+| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-wave-that-should-not-have-arrived) · [Markdown](articles/16-the-wave-that-should-not-have-arrived.md) |
+| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-few-that-came-back) · [Markdown](articles/17-the-few-that-came-back.md) |
 | **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **264词 · 50词 · 18.9%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-sky-would-not-go-quiet) · [Markdown](articles/18-the-sky-would-not-go-quiet.md) |
 | **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=five-alarms-still-descending) · [Markdown](articles/19-five-alarms-still-descending.md) |
 | **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-market-came-after-the-limit) · [Markdown](articles/20-the-market-came-after-the-limit.md) |
-| **21** | ***They Never Held the Same Foot*** | **1628年瓦萨号沉没与测量标准** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=they-never-held-the-same-foot) · [Markdown](articles/21-they-never-held-the-same-foot.md) |
-| **22** | ***Only That Question Had a Number*** | **1912—1953年皮尔当人骗局与氟测年** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=only-that-question-had-a-number) · [Markdown](articles/22-only-that-question-had-a-number.md) |
+| **21** | ***They Never Held the Same Foot*** | **1628年瓦萨号沉没与测量标准** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=they-never-held-the-same-foot) · [Markdown](articles/21-they-never-held-the-same-foot.md) |
+| **22** | ***Only That Question Had a Number*** | **1912—1953年皮尔当人骗局与氟测年** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=only-that-question-had-a-number) · [Markdown](articles/22-only-that-question-had-a-number.md) |
 | **23** | ***Its First Two Verdicts Were Denials*** | **1984—1987年杰弗里斯、DNA指纹与司法证据** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=its-first-two-verdicts-were-denials) · [Markdown](articles/23-its-first-two-verdicts-were-denials.md) |
 
 第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。

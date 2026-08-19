@@ -12,9 +12,9 @@
       "date": "2026-08-12",
       "status": "第十七篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
@@ -22,7 +22,7 @@
           "zh": "1909年，在曼彻斯特一间昏暗的实验室里，**本科生**(undergraduate)欧内斯特·马斯登与汉斯·盖革一起检验欧内斯特·卢瑟福提出的一个**不同寻常的**(unusual)设想。一个**放射性**(radioactive)**发射源**(emitter)把**阿尔法**(alpha)粒子射向金属**薄箔**(foil)。铅制**屏障**(shield)挡住直达粒子束；若有折返粒子撞上**荧光的**(fluorescent)硫化锌**屏幕**(screen)，屏上便会出现一次**闪光**(flash)。"
         },
         {
-          "en": "Most passed through the foil or changed direction only **slightly**. Yet a few underwent **backward** scattering, returning to the side of **incidence**. In one **platinum** test, roughly one in 8,000 was reflected — a **count** made by eye, in the dark, after thirty minutes letting **pupils** **dilate**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** could scarcely explain it.",
+          "en": "Most passed through the foil or changed direction only **slightly**. Yet a few underwent **backward** scattering, returning to the side of **incidence**. In one **platinum** test, roughly one in 8,000 was reflected — a **count** made by eye, in the dark, after thirty minutes letting the **pupils** **dilate**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak **collisions** could scarcely explain it.",
           "zh": "大多数粒子穿过薄箔，或只发生**轻微**(slightly)偏转。但仍有少数发生**反向的**(backward)散射，回到**入射**(incidence)一侧。在一次使用**铂**(platinum)箔的试验中，大约每8000个粒子就有一个被反射。这个**计数**(count)是在暗室里用肉眼数出来的，事先要等三十分钟，让**瞳孔**(pupils)充分**放大**(dilate)。考虑到粒子的**动量**(momentum)，这种掉头极其**令人震惊**(astonishing)：连续的微弱**碰撞**(collisions)几乎无法解释这种结果。"
         },
         {

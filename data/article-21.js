@@ -12,9 +12,9 @@
       "date": "2026-08-16",
       "status": "第二十一篇定稿",
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
@@ -26,7 +26,7 @@
           "zh": "这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在**码头**(quay)看过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。跑到第三趟，晃动**剧烈**(violent)到弗莱明**叫停**(halted)了试验。没人**取消**(cancelled)航行，也没人去告诉国王。"
         },
         {
-          "en": "The 1628 **inquest** found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port rather than **starboard** — a question no **symmetric** **craft** can raise.",
+          "en": "The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port rather than **starboard** — a question no **symmetric** **craft** can raise.",
           "zh": "1628年的**调查**(inquest)认定它**不稳**(unstable)，却没指出祸首；后来的说法则指向古斯塔夫二世·阿道夫——是他**要求**(demanded)加一层炮甲板，又**催**(hurried)紧了**船厂**(yard)的工期。这**解释**(explains)了它为何重心偏高、**压舱**(ballast)不足，却解释不了它为何倒向左舷而非**右舷**(starboard)——这个问题，**对称的**(symmetric)**船**(craft)根本提不出来。"
         },
         {

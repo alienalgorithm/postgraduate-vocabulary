@@ -12,9 +12,9 @@
       "date": "2026-08-12",
       "status": "第十六篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
@@ -22,7 +22,7 @@
           "zh": "1929年6月17日，新西兰默奇森附近的一场**地震**(earthquake)让**地震波**(seismic)穿过地球。在哥本哈根，丹麦**数学家**(mathematician)英格·莱曼研读各台**地震仪**(seismographs)绘出的曲线。每一次地面**振动**(vibration)，都是探查地球**内部**(interior)的一枚间接**探针**(probe)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**脉冲**(blip)，来由仍**晦暗不明**(obscure)。"
         },
         {
-          "en": "The accepted model placed a rocky mantle around a fluid core. P waves **compress** the **medium** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P waves **refract** at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where P waves should not arrive.",
+          "en": "The accepted model placed a rocky mantle around a fluid core. P waves **compress** the **medium** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P waves **refract** at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where direct P waves should not arrive.",
           "zh": "当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)所经**介质**(medium)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P波会在地核边界发生**折射**(refract)；传播**角度**(angle)的改变，会在距震源104至140度处形成一片**阴影区**(shadow)，直达P波本不应抵达那里。"
         },
         {

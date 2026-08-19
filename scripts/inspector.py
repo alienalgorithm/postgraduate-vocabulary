@@ -170,12 +170,12 @@ def inspect(a, archive):
             f"实测 {total_w} 词，规定 {WORDS_MIN}—{WORDS_MAX}", "压缩同义复述，勿删论证骨架"))
     if total_k != KEYWORDS_EXACT:
         F.append(Finding("MET-02", "指标", "hard", "重点词数不等于50", f"实测 {total_k} 个"))
-    if total_w % 10 == 0:
-        F.append(Finding("MET-09", "指标", "hard", "词数是整十",
-            f"{total_w} 词",
-            "**整十是机器凑数最明显的指纹。** 23 篇里曾有 13 篇卡在 270，占 57%——\n"
-            "        读者一眼就看得出来。区间 249—271，落在哪个非整十数就是哪个，\n"
-            "        由减法轮决定，不许为凑数而增删。"))
+    # 词数落在哪里由减法轮决定，**不设「不许整十」这类规则**。
+    # 曾把「整十=硬伤」定为规则，随即为脱离整十而逐篇削一个词——
+    # 例如 The inquest of 1628 → The 1628 inquest，不是因为原句冗余，
+    # 而是因为要减掉一个词。那仍是凑数，只不过从「凑到270」换成了「凑到不是270」。
+    # 真正要防的是「贴着上限停手」，那由减法轮解决：
+    # 逐词问「删掉它读者会不会觉得少了东西」，削到自己该落的地方为止。
     if dens > DENSITY_MAX:
         F.append(Finding("MET-03", "指标", "hard", "整体密度超限", f"{dens}% > {DENSITY_MAX}%"))
     if metrics.get("words") != total_w or metrics.get("keywords") != total_k \

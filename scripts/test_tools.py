@@ -254,9 +254,8 @@ check("有链接则不报", "SRC-01" not in ids(_F2))
 # ── 词数不许整十、分布不许过窄 ────────────────────────────────────
 print("\n[WORDS] 词数指纹")
 _w = [x["metrics"]["words"] for x in arts]
-_round = [x["id"] for x in arts if x["metrics"]["words"] % 10 == 0]
-check("无一篇词数为整十", not _round,
-      "整十是机器凑数最明显的指纹；曾有 13/23 篇卡在 270。命中：" + "、".join(_round))
+# **不检查「整十」。** 词数落在哪里由减法轮决定；
+# 为脱离整十而削一个词，与为贴上限而停手，同样是凑数。
 check("词数落在 249—271", all(249 <= x <= 271 for x in _w))
 import statistics as _st
 # **不设「分布跨度」下限。** 那样会制造凑数压力——为让跨度变大就得把某篇撑长或削狠，
