@@ -339,8 +339,8 @@ window.SITE = {
         "zh": "船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。"
       },
       {
-        "en": "Later work found the source in **bacteria** that **oxidise** sulphide and build **organic** matter from carbon dioxide — chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult two metres long has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.",
-        "zh": "后来的研究把来源找到了：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。"
+        "en": "Biologists later found the source in **bacteria** that **oxidise** sulphide and build **organic** matter from carbon dioxide — chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult two metres long has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.",
+        "zh": "后来生物学家找到了来源：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。"
       },
       {
         "en": "Galápagos **revealed** a second **footing** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **habitable** **boundary**: a place needs light, or **chemistry** holding a **gradient** open. They went down for Earth's heat and came back with a garden that never needed sun.",

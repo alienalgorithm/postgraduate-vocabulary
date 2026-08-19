@@ -15,7 +15,7 @@ ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successi
 
 No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to almost all life, **dissolved** around the **colony**. The **abundance** had no visible source.
 
-Later work found the source in **bacteria** that **oxidise** sulphide and build **organic** matter from carbon dioxide — chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult two metres long has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.
+Biologists later found the source in **bacteria** that **oxidise** sulphide and build **organic** matter from carbon dioxide — chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult two metres long has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.
 
 Galápagos **revealed** a second **footing** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **habitable** **boundary**: a place needs light, or **chemistry** holding a **gradient** open. They went down for Earth's heat and came back with a garden that never needed sun.
 
@@ -32,7 +32,7 @@ ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面�
 
 船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。
 
-后来的研究把来源找到了：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。
+后来生物学家找到了来源：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。
 
 加拉帕戈斯**揭示**(revealed)了生命的第二个**立足点**(footing)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了“**宜居**(habitable)”的**边界**(boundary)：一个地方要么有光，要么有能撑开一道**梯度**(gradient)的**化学过程**(chemistry)。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。
 
