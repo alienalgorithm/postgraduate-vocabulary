@@ -83,7 +83,7 @@ jobs:
           }
           const expected = {
             '16': { words: 270, keywords: 50, density: 18.5, status: '第十六篇最终精进锁定稿' },
-            '17': { words: 270, keywords: 50, density: 18.5, status: '第十七篇最终精进锁定稿' },
+            '17': { words: 268, keywords: 50, density: 18.7, status: '第十七篇最终精进锁定稿' },
             '18': { words: 264, keywords: 50, density: 18.9, status: '第十八篇最终精进锁定稿' },
             '19': { words: 268, keywords: 50, density: 18.7, status: '第十九篇最终精进锁定稿' },
             '20': { words: 267, keywords: 50, density: 18.7, status: '第二十篇最终精进锁定稿' }
