@@ -11,13 +11,13 @@
 
 In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.
 
-The **disease** killed roughly three in ten it **struck**, and left many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.
+The **disease** killed roughly three in ten it **struck**, leaving many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.
 
-The method came from a **shortage**. In December 1966 William Foege took a radio call about a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**.
+The method came from a **shortage**. During the Biafran war William Foege took a radio call about a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**.
 
 A report triggered an inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
 
-India was the hardest test: in 1974 it held two-thirds of the **caseload**; by 1975 its **chains** were **broken**. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979; the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
+India was the hardest test: in 1974 it held two-thirds of the **caseload**, by 1975 its **chains** were **broken**. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979, the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
 
 ---
 
@@ -30,7 +30,7 @@ India was the hardest test: in 1974 it held two-thirds of the **caseload**; by 1
 
 这种**病**(disease)每**击中**(struck)十人约杀死三人，许多**幸存者**(survivors)落下失明或严重的**疤痕**(scarred)。1967年，世卫组织把一场**全球**(global)攻势**加强**(intensified)了。可**接种率**(coverage)是很差的**标尺**(gauge)：一个**省**(province)可以报出九成，同时**藏着**(conceal)一个没打过疫苗的村子。
 
-方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)。
+方法是从**短缺**(shortage)里逼出来的。比夫拉战争期间，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)。
 
 此后一份报告即触发一次调查：隔离病人，追踪接触者，给接触者及其接触者接种。冻干疫苗在45摄氏度下仍稳定，**热带**(tropical)储运因此可行；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)**皮肤**(skin)，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
 
@@ -57,7 +57,7 @@ India was the hardest test: in 1974 it held two-thirds of the **caseload**; by 1
 以下关键信息已据所列来源核对：
 
 - 1977年10月，索马里梅尔卡医院厨工阿里·马奥·马阿林在与两名天花病人同车后发病，先后被误诊为疟疾与水痘，10月30日确诊为小天花，成为全球最后一例自然感染。他隔离后康复，2013年7月22日在参与脊髓灰质炎根除工作期间死于疟疾。[CDC：History of Smallpox](https://www.cdc.gov/smallpox/about/history.html)
-- 重型天花病死率约30%，幸存者常留下失明或永久瘢痕。1967年世卫组织启动强化根除计划。全国接种率数字可能掩盖漏种村庄与漏报病例。
+- 重型天花病死率约30%，幸存者常留下失明或永久瘢痕。1967年世卫组织启动强化根除计划。全国接种率数字可能掩盖漏种村庄与漏报病例。　**已核**：重型天花病死率约30%（轻型约1%）；强化根除计划1967年启动。[PubMed：Smallpox: gone but not forgotten](https://pubmed.ncbi.nlm.nih.gov/9795781/)｜[IOM/NAP：Smallpox and Smallpox Control in the Historical Context](https://www.nationalacademies.org/read/11240/chapter/3)
 - **方法源于短缺**：1966年12月4日，在尼日利亚东部工作的威廉·福奇接到无线电报告称奥维尔普阿村有疑似天花。疫苗不足以按当时通行的全民接种目标覆盖人群，福奇遂在疫源周围以及三个因亲缘往来与区域集市而可能扩散的村庄实施环形接种。该地区最终仅出现35例，疫情随即熄灭——此即「监测—围堵」策略的起点。[Science Heroes：Foege](https://www.scienceheroes.com/foege)｜[STAT：William Foege obituary](https://www.statnews.com/2026/01/25/william-foege-obituary-smallpox-cdc-vaccination/)
 - 冻干疫苗在热带高温下保持稳定；双叉针两齿间夹持一剂疫苗，经短时培训即可使用，显著节省用量。天花无动物宿主，潜伏期不具传染性，这两点使围堵在技术上可行。[CDC](https://www.cdc.gov/smallpox/about/history.html)
 - 1974年印度约占全球病例的三分之二，报告病例逾36000例；经大规模监测—围堵，至1975年5月印度境内传播中断。[CIDRAP：William Foege](https://www.cidrap.umn.edu/public-health/world-mourns-death-public-health-icon-william-foege)
