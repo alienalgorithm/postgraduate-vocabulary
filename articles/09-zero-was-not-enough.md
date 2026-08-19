@@ -2,22 +2,22 @@
 
 > 题材：1967—1980 年全球天花根除、监测与环形接种
 > 状态：**第九篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
-> 环形接种不是设计出来的，是1966年疫苗不够时逼出来的。而零从来不能证明天花已消失——是搜寻把「没有」变成了证据。
+> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 环形接种不是设计出来的，是疫苗不够时逼出来的。而零从来不能证明天花已消失——是搜寻把「没有」变成了证据。
 
 ---
 
 ## 英文正文
 
-In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person to **acquire** smallpox in the **ordinary** way.
+In October 1977 Ali Maow Maalin, a **cook** at the **infirmary** in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two smallpox **patients**. He was **diagnosed** with malaria, then chickenpox; a **nurse** finally **notified** the office. He was the last person anywhere to **acquire** smallpox by **ordinary** contagion.
 
 The **disease** killed roughly three in ten it **struck**, leaving many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.
 
-The method came from a **shortage**. During the Biafran war William Foege took a radio call about a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**.
+The method came from a **shortage**. During the Biafran war William Foege took a radio call on a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**: chase cases, not coverage.
 
-A report triggered an inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C, easing **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, so brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
+A report triggered inquiry: isolate the sick, trace contacts, vaccinate those and theirs. Freeze-dried vaccine held at 45°C for **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, brief **instruction** let a worker **pierce** the **skin** and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
 
-India was the hardest test: in 1974 it held two-thirds of the **caseload**, by 1975 its **chains** were **broken**. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979, the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
+India was the hardest test: two-thirds of the **caseload** in 1974, its **chains** **broken** by 1975. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979, the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
 
 ---
 
@@ -26,11 +26,11 @@ India was the hardest test: in 1974 it held two-thirds of the **caseload**, by 1
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1977年10月，索马里梅尔卡一家**医务所**(infirmary)的**厨工**(cook)阿里·马奥·马阿林，在与两名天花**病人**(patients)同车两周后**发**(erupted)起**皮疹**(rash)。他先被**诊断**(diagnosed)为疟疾，又被当成水痘；最后是一名**护士**(nurse)**通报**(notified)了根除办公室。他是全世界最后一个以**寻常**(ordinary)方式**染上**(acquire)天花的人。
+1977年10月，索马里梅尔卡一家**医务所**(infirmary)的**厨工**(cook)阿里·马奥·马阿林，在与两名天花**病人**(patients)同车两周后**发**(erupted)起**皮疹**(rash)。他先被**诊断**(diagnosed)为疟疾，又被当成水痘；最后是一名**护士**(nurse)**通报**(notified)了根除办公室。他是全世界最后一个经**寻常**(ordinary)传染而**染上**(acquire)天花的人。
 
 这种**病**(disease)每**击中**(struck)十人约杀死三人，许多**幸存者**(survivors)落下失明或严重的**疤痕**(scarred)。1967年，世卫组织把一场**全球**(global)攻势**加强**(intensified)了。可**接种率**(coverage)是很差的**标尺**(gauge)：一个**省**(province)可以报出九成，同时**藏着**(conceal)一个没打过疫苗的村子。
 
-方法是从**短缺**(shortage)里逼出来的。比夫拉战争期间，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)。
+方法是从**短缺**(shortage)里逼出来的。比夫拉战争期间，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。
 
 此后一份报告即触发一次调查：隔离病人，追踪接触者，给接触者及其接触者接种。冻干疫苗在45摄氏度下仍稳定，**热带**(tropical)储运因此可行；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)**皮肤**(skin)，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
 
