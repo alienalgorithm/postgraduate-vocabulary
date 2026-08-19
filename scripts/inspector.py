@@ -607,6 +607,41 @@ def inspect(a, archive):
                 f"{len(keyless)} 条含数字或专名的史实无来源",
                 "第 " + "、".join(str(i) for i in keyless) + " 条",
                 "含具体数字或人名地名的断言最容易记错，也最该给出处"))
+    # ── 第十三层 FIT · 重点词是不是硬塞的（2026-08-16 加）─────────────
+    # 铁律第零条之三：重点词是从写好的文章里挑出来的，不是往文章里塞进去的。
+    # 本层查三种「硬塞」的形迹——它们都不是绝对错误，须逐条人工判定。
+    for i, p in enumerate(paras, 1):
+        plain_en = p["en"].replace("**", "")
+        bolds = BOLD.findall(p["en"])
+        # ① 同位语／插入语里连着两个加粗：多半是为凑名额而加的补充成分
+        for m in re.finditer(r"[,—-]\s*(?:a|an|the)?\s*\*\*[^*]+\*\*\s+\*\*[^*]+\*\*", p["en"]):
+            F.append(Finding("FIT-01", "选词", "info", f"§{i} 插入成分里连着两个加粗",
+                m.group(0).strip()[:56],
+                "同位语与插入语最容易被用来塞词。确认这个成分是论证需要的，"
+                "而非为凑满 10 个而加"))
+        # ② 一句话里加粗超过 4 个：句子可能被词撑变形
+        # 按密度判，不按个数判：长句里有五六个加粗是本体裁常态
+        # （50 词分在 16—19 句里，均值本就约 3 个）。
+        # 真正的形迹是**短句里塞了太多**——那种句子多半已被词撑得变形。
+        for sent in re.split(r"(?<=[.!?])\s+", p["en"]):
+            nb = len(BOLD.findall(sent))
+            nw = count_words(sent)
+            if nw >= 5 and nb / nw > 0.42:
+                F.append(Finding("FIT-02", "选词", "check",
+                    f"§{i} 单句加粗密度 {nb}/{nw} = {nb/nw*100:.0f}%",
+                    re.sub(r"\*\*", "", sent).strip()[:62],
+                    "全篇均值约 18%。**密度高不等于硬塞，须逐句读。**\n"
+                    "        判据是：把其中一个加粗词删掉（连同它所在的成分），"
+                    "句子会不会因此松掉？\n"
+                    "        会松 → 那些词是承重的，保留；\n"
+                    "        不会松 → 那个词是塞进来凑名额的，取消加粗、把名额让给别处。\n"
+                    "        实例：Prevailing medical opinion blamed the foul air.（4/7=57%）"
+                    "四个词各自精准，删任一个句子都松，保留。"))
+        # ③ 形容词副词连用作加粗：最常见的凑数手法
+        for m in re.finditer(r"\*\*(\w+ly)\*\*\s+\*\*(\w+)\*\*", p["en"]):
+            F.append(Finding("FIT-03", "选词", "info", f"§{i} 副词＋形容词连着加粗",
+                f"{m.group(1)} {m.group(2)}",
+                "副词最容易被塞进来凑名额。删掉它，句子若毫无损失，它就是凑数的"))
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 

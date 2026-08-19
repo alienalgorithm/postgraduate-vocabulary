@@ -263,6 +263,24 @@ import statistics as _st
 # 差异只能是削出来的，不是分配的：每篇跑减法轮，落在自己该落的地方。
 print(f"     词数分布：{sorted(set(_w))}（仅供观察，不设阈值）")
 
+# ── FIT 层：重点词是不是硬塞的 ────────────────────────────────────
+print("\n[FIT] 重点词硬塞检测（铁律第零条之三）")
+# 长句里五六个加粗是本体裁常态，不得误报
+_ok = art(["The **survey** had **measured** total-column **ozone** since 1956 with a "
+           "**Dobson** **spectrophotometer**, a prism **instrument** weighing rays."] + ["**b%d**." % i for i in range(4)])
+_F, _ = I.inspect(_ok, arts)
+check("长句多加粗不误报（本体裁常态）", "FIT-02" not in ids(_F),
+      "50 词分在 16—19 句，均值本就约 3 个；按个数判会淹没真问题，须按密度判")
+# 短句塞满才报
+_bad = art(["**Alpha** **beta** **gamma** **delta** **epsilon** ran."] + ["**b%d**." % i for i in range(4)])
+_F2, _ = I.inspect(_bad, arts)
+check("短句塞满 → FIT-02", "FIT-02" in ids(_F2))
+# 副词＋形容词连用
+_adv = art(["They were **equally** **probable** here."] + ["**b%d**." % i for i in range(4)])
+_F3, _ = I.inspect(_adv, arts)
+check("副词＋形容词连着加粗 → FIT-03", "FIT-03" in ids(_F3),
+      "副词最容易被塞进来凑名额")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
