@@ -58,7 +58,7 @@ const VERSION_IDS = {
   '15': '15-267-word-final-locked',
   '16': '16-270-word-final-locked',
   '17': '17-268-word-final-locked',
-  '18': '18-264-word-final-locked',
+  '18': '18-270-word-final-locked',
   '19': '19-267-word-final-locked',
   '20': '20-267-word-final-locked',
   '21': '21-270-word-final-locked',
@@ -469,7 +469,7 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 17 final row is stale');
   }
-  if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **264词 · 50词 · 18.9%** |')) {
+  if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 18 final row is stale');
   }
   if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **267词 · 50词 · 18.7%** |')) {
@@ -482,7 +482,7 @@ function validateManifest(articles, manifest) {
   if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
     errors.push('handoff article 16 final row is stale');
   }
-  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **264 / 50 / 18.9%** | **第十八篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270 / 50 / 18.5%** | **第十八篇最终精进锁定稿** |')) {
     errors.push('handoff article 18 final row is stale');
   }
   if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **267 / 50 / 18.7%** | **第十九篇最终精进锁定稿** |')) {
