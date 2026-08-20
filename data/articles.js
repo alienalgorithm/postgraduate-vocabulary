@@ -933,12 +933,12 @@ window.SITE = {
         "zh": "1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条**双金属**(bimetallic)**片**(strip)抵消温度，**嵌宝石**(jewelled)的**枢轴**(pivots)减小摩擦。他的儿子威廉带着它去牙买加；**八十**(eighty)一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。"
       },
       {
-        "en": "The **commissioners** **balked**. Nevil Maskelyne, who **championed** the lunar method and became Astronomer Royal in 1765, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in **forty**-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.",
+        "en": "The **commissioners** **balked**. Nevil Maskelyne, who **championed** the lunar method, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in **forty**-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.",
         "zh": "**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)月距法、并于1765年就任皇家天文学家的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在**四十**(forty)七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。"
       },
       {
-        "en": "Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** him £8,750, never the prize. He died in 1776. **Chronometers** stayed **costly**, so **navigators** went on **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.",
-        "zh": "拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是又靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)了几十**年**(decades)月亮。钟没有打败天空；它加入了天空。"
+        "en": "Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** Harrison £8,750, never the prize. He died in 1776, months after Cook sailed home praising it. **Chronometers** stayed **costly**, so **navigators** kept **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.",
+        "zh": "拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世，距库克盛赞着那块表归航仅数月。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是继续靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)月亮达数十**年**(decades)。钟没有打败天空；它加入了天空。"
       }
     ],
     "glossary": [
