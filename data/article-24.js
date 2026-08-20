@@ -21,7 +21,7 @@
           "zh": "杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(floor)。"
         },
         {
-          "en": "**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down it. The **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.",
+          "en": "**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. The **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.",
           "zh": "**哈文斯**(Havens)钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车出**螺纹**(threaded)，上面那个**螺母**(nut)才能一路旋下去。**加工商**(fabricator)于是提议改用两根短杆——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。"
         },
         {
@@ -29,8 +29,8 @@
           "zh": "把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改几乎没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。**没有人**(Nobody)为那个接头算过一笔**数**(numbers)。"
         },
         {
-          "en": "Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. At 7:05 fewer than ten stood on the upper walkway and fewer than **sixty** on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.",
-          "zh": "哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。7点05分那一刻，上层天桥上站着不到十人，下层不到**六十**(sixty)人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。"
+          "en": "Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the upper walkway and fewer than **sixty** on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.",
+          "zh": "哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，上层天桥上站着不到十人，下层不到**六十**(sixty)人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。"
         }
       ],
       "facts": [
@@ -42,9 +42,9 @@
         "**已核**：设计工程师被免于刑事指控但被吊销执业执照；酒店业主向遇难者家属支付约1.4亿美元赔偿。本篇收束于此：那处改动看上去只是省事，实则是一道没人重算的算术。[Britannica](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[All That's Interesting](https://allthatsinteresting.com/hyatt-regency-disaster)"
       ],
       "metrics": {
-        "words": 268,
+        "words": 265,
         "keywords": 50,
-        "density": 18.7
+        "density": 18.9
       },
       "glossary": [
         {

@@ -2,7 +2,7 @@
 
 > 题材：1981年堪萨斯城凯悦酒店天桥垮塌与一处未经复核的设计变更
 > 状态：**第二十四篇定稿**（2026-08-16）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：265 词 / 50 重点词 / 密度 18.9%
 > 加工商把一根通长吊杆改成两根短杆，图纸几乎没变，看着还更省事。可那一改把四层接头上的荷载整整翻了一倍——而没有人重新算过。
 
 ---
@@ -13,11 +13,11 @@ At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **
 
 Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **floor**'s worth.
 
-**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down it. The **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.
+**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. The **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.
 
 Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** hardly at all and **doubled** the load on that **connection**. **Nobody** ran the **numbers** for that joint.
 
-Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. At 7:05 fewer than ten stood on the upper walkway and fewer than **sixty** on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.
+Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the upper walkway and fewer than **sixty** on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.
 
 ---
 
@@ -34,7 +34,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改几乎没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。**没有人**(Nobody)为那个接头算过一笔**数**(numbers)。
 
-哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。7点05分那一刻，上层天桥上站着不到十人，下层不到**六十**(sixty)人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。
+哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，上层天桥上站着不到十人，下层不到**六十**(sixty)人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。
 
 ---
 
