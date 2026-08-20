@@ -43,8 +43,8 @@ window.SITE = {
         "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。能**驳倒**(refute)**瘴气说**(miasma)的，只有这两个人。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。"
       },
       {
-        "en": "On 8 September the **parish** **removed** the pump **handle**. **Diggers** found the leaking **cesspit** two feet eight inches away that autumn. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, the **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
-        "zh": "9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。那年秋天，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，这个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。"
+        "en": "On 8 September the **parish** **removed** the pump **handle**. **Diggers** found the leaking **cesspit** two feet eight inches away that autumn. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, his **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
+        "zh": "9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。那年秋天，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，他那个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。"
       }
     ],
     "glossary": [
