@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-13",
-  "article_count": 23,
-  "keyword_count": 1150,
+  "article_count": 24,
+  "keyword_count": 1200,
   "articles": [
     {
       "id": "01",
@@ -599,6 +599,25 @@
       "canonical_fingerprint_sha256": "aa7dab48d809ea5da8f6ec74eef8ca50b8c90bd16d5132b0cd9432d41df62c8b",
       "markdown_sha256": "ad96ce305de46eead349840e5bcec8cd692599992f7616c92e6879119b55687b",
       "markdown_git_blob_sha": "8dd20d68abda3e5f021b09804cf5bd3ab0057a9d",
+      "superseded_signatures": []
+    },
+    {
+      "id": "24",
+      "slug": "the-change-that-doubled-the-load",
+      "title": "The Change That Doubled the Load",
+      "title_zh": "那处让荷载翻倍的改动",
+      "version_id": "24-268-word-final-locked",
+      "status": "第二十四篇定稿",
+      "date": "2026-08-16",
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-08-16按《第24篇写作提示词》全流程新写：选题后先上网核实每个数字→词池→草稿十轮→入库→十五层→第9轮五问→台账；六个白送词全部按第零条之三处置（取消加粗、让出名额，未改英文）",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "949db37d8a88a0d73a60be07ea6412b5aaa6c528b6eabf18a34e1aa333f1f61d",
+      "markdown_sha256": "364ecb4cfa142581d5527cfaa525f0fe9abb64abc90afc37caac5b9154488e95",
+      "markdown_git_blob_sha": "05abe62e4ec4f6beadaa0e23bf644c736a335d42",
       "superseded_signatures": []
     }
   ]
