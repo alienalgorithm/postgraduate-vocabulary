@@ -618,13 +618,13 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第三篇最终精进锁定稿",
     "metrics": {
-      "words": 268,
+      "words": 271,
       "keywords": 50,
-      "density": 18.7
+      "density": 18.5
     },
     "paras": [
       {
-        "en": "At Halley Bay the British Antarctic Survey had measured total-column **ozone** since 1956 with a Dobson **spectrophotometer**, a prism instrument **weighing** **ultraviolet** **intensities** at two **bands**. Every **springtime**, the same reading, on the same days, from the same **hut**. A **baseline** earns its keep by being **dull**.",
+        "en": "At Halley Bay the British Antarctic Survey had measured total-column **ozone** since 1956 with a Dobson **spectrophotometer**, a prism **weighing** **ultraviolet** **intensities** at two **bands**. Every **springtime**, the same reading, on the same days, from the same **hut**. A **baseline** earns its keep by being **dull**.",
         "zh": "在南极哈雷湾，英国南极调查局自1956年起就用一台多布森**分光光度计**(spectrophotometer)测量**臭氧**(ozone)总柱量。那是一台棱镜仪器，靠**称量**(weighing)两个**波段**(bands)上的**紫外**(ultraviolet)光**强度**(intensities)。每年**春季**(springtime)，同样的读数，同样的日子，同一间**小屋**(hut)。一条**基线**(baseline)的价值，正在于它**枯燥**(dull)。"
       },
       {
@@ -632,15 +632,15 @@ window.SITE = {
         "zh": "从1981年起，10月的**读数**(readings)开始下滑。乔·法曼**判断**(reckoned)是自己那台**老化**(ageing)的光学件走偏了，便订了一台**替换机**(replacement)；两台读数**吻合**(agreed)。一千英里外的另一处**观测点**(outpost)，也出现了同样**年复一年**(recurring)的**下降**(decline)。到1984年10月，总量已比1960年代低了40%。可队里仍在**犹豫**(hesitated)：**轨道**(orbit)上一直没有消息。"
       },
       {
-        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, they checked against the South Pole record and found it **erroneous**, its **calibration** long lost. The low numbers stayed **unconfirmed**. Farman published anyway.",
-        "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，他们拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
+        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, NASA staff checked against the South Pole record and found it **erroneous**, its **calibration** long lost. Nobody went back, and the low numbers stayed **unconfirmed**. Farman published anyway.",
+        "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
       },
       {
         "en": "*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, stratospheric **clouds** **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.",
         "zh": "1985年5月16日，《自然》刊出了法曼、加德纳与尚克林的论文。没有哪个模型**预见到**(anticipated)这么大的损失：在北纬30度附近**调校**(tuned)出来的计算只给出百分之几，而没有一个人**模拟**(simulated)过极地的冬天。零下78摄氏度以下，平流层**云**(clouds)会在臭氧层的**高度**(altitude)上**凝结**(condense)；在云**粒子**(particles)表面，原本**蛰伏**(dormant)的含**氯**(chlorine)化合物变成了会被光**劈开**(cleaves)的形态。"
       },
       {
-        "en": "Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly**. Reprocessed satellite **scans** showed a **continent-wide** loss in 1986; governments **adopted** the Montreal Protocol on 16 September 1987, and later **amendments** **tightened** it. Antarctic ozone is **projected** to **regain** its 1980 **concentration** near 2066. A filter built to catch a broken instrument cannot tell a broken instrument from a broken sky.",
+        "en": "Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly**. Reprocessed satellite **scans** showed a **continent-wide** loss in 1986; governments **adopted** the Montreal Protocol on 16 September 1987, and **amendments** **tightened** it. Antarctic ozone is **projected** to **regain** its 1980 **concentration** near 2066. A filter built to catch a broken instrument cannot tell a broken instrument from a broken sky.",
         "zh": "春天回来的阳光**释放**(liberates)出这些原子，每一个都能**反复**(repeatedly)摧毁臭氧。1986年重新处理的卫星**扫描**(scans)显示，损失已是**覆盖整个大陆**(continent-wide)的规模；1987年9月16日，各国政府**通过**(adopted)了《蒙特利尔议定书》，其后的**修正案**(amendments)又**收紧**(tightened)了管制。南极臭氧**预计**(projected)将在2066年前后**重回**(regain)1980年的**浓度**(concentration)。一道为逮住坏仪器而设的过滤器，分不清坏掉的是仪器，还是天。"
       }
     ],

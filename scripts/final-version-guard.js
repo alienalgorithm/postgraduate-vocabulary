@@ -43,7 +43,7 @@ const SOURCE_AUDIT = {
 const VERSION_IDS = {
   '01': '01-270-word-final-locked',
   '02': '02-269-word-final-locked',
-  '03': '03-268-word-final-locked',
+  '03': '03-271-word-final-locked',
   '04': '04-268-word-final-locked',
   '05': '05-268-word-final-locked',
   '06': '06-270-word-final-locked',
