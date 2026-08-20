@@ -673,6 +673,31 @@ def inspect(a, archive):
     # **这一类只能靠第九轮的刁钻一问。** 已在 polish.py 第9轮④写明两个实例：
     #   第03篇 they checked —— 前文只有 Nimbus-7 与 its processing
     #   第04篇 granted him £8,750 —— him 紧跟 Kendall，获奖的却是 Harrison
+    # ── 第十五层 AUD · 审读进度（2026-08-16 加）─────────────────────
+    # 依据 18 篇实测：抓到问题的来源分布为
+    #   史实核查（上网核）11 · 刁钻一问（人读）7 · 机器规则 6
+    #   句序/接缝/因果/中文/词价 合计约 2
+    # **最致命的三处全部来自人读，机器永远抓不到**：
+    #   第04篇 granted him £8,750（him 紧跟 Kendall，获奖的是 Harrison）
+    #   第07篇 named it entropy（「熵」这个名字是冯·诺依曼建议的）
+    #   第13篇 the first woman（居里夫人 1911 年就独得过化学奖）
+    # 故本层不查文本，只查「那两件最高产的事做了没有」。
+    _fl = a.get("facts") or []
+    if _fl and not any(("已核" in c) or ("已确认" in c) for c in _fl):
+        F.append(Finding("AUD-01", "审读", "check", "史实未逐条上网核",
+            f"{len(_fl)} 条史实无一标注「已核」",
+            "**这是抓到问题最多的一条（11/26）**。核过的条目应在 facts 写明「已核」并附链接"))
+    if not os.path.exists(os.path.join(ROOT, "notes/.regress", f"{a['id']}.json")):
+        F.append(Finding("AUD-02", "审读", "check", "未存快照",
+            "REG 差分层对本篇不生效",
+            "改动弄坏了什么无从发现。跑 python3 scripts/regress.py %s snapshot" % a["id"]))
+    if not os.path.exists(os.path.join(ROOT, f"notes/精修台账-{a['id']}.md")):
+        F.append(Finding("AUD-03", "审读", "check", "未跑刁钻一问与最弱一句",
+            "polish 第9轮 ④⑤ 未执行",
+            "**抓到问题第二多（7/26），且那三处最致命的错误全出自这里**"
+            "（him 指错人／entropy 归属错／首位女性漏限定）。"
+            "跑 python3 scripts/polish.py %s round 9" % a["id"]))
+
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 

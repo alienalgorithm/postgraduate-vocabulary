@@ -299,6 +299,16 @@ _orphan = sorted(_ids - _mapped)
 check("每条规则都挂在某条铁律下", not _orphan,
       "没挂铁律的规则 = 不知道它在执行什么。命中：" + "、".join(_orphan[:5]))
 
+# ── AUD 层：高产审读项做了没有 ────────────────────────────────
+print("\n[AUD] 审读进度层")
+_no = art(["**a**."]*5, facts=["1969年首次扫码。"])
+_F, _ = I.inspect(_no, arts)
+check("史实无「已核」标注 → AUD-01", "AUD-01" in ids(_F),
+      "史实核查是抓到问题最多的一条（11/26）")
+_yes = art(["**a**."]*5, facts=["1969年首次扫码。**已核**：[来源](https://example.org/x)"])
+_F2, _ = I.inspect(_yes, arts)
+check("标注「已核」后不报", "AUD-01" not in ids(_F2))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
