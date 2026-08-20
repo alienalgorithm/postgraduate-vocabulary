@@ -43,6 +43,7 @@ ROUNDS = {
     10: ("临界点判定", "每个「没改」项都答出「改它要牺牲什么」"),
     11: ("地道性专读", "冠词/介词/搭配/代词一致逐句读过——第21篇十轮后仍在此轮查出四处"),
     12: ("减法轮", "逐词问「删掉它，读者会不会觉得少了东西」——落在哪个词数就是哪个，不许贴上限"),
+    13: ("极限轮", "**须隔一次会话再跑**：遮住当初的裁语，重判每一处判过「保留」的地方"),
 }
 
 def load(aid):
@@ -370,19 +371,33 @@ def r12(a, arts, aid):
     print("下限只有一条：50 个重点词的密度不得超过 20%，即不得低于 250 词。")
     print("（规则里写的 240 是错的——240 词配 50 词密度 20.8%，已破密度上限。）")
 
-# ── 第十三轮「极限轮」已撤（2026-08-16）─────────────────────────────
-# 它来自作者误发的另一个项目（小说）的跑轮令，不属于本项目。
-# 本项目自有的是 1—10 轮，第11轮（地道性专读）与第12轮（减法轮）是我们自己加的：
-#   第11轮源于第21篇十轮跑完后仍查出四处；第12轮源于「23篇里13篇卡在270词」。
-# 极限轮在本项目实跑两次（第14、09篇），**零翻案**——
-# 它要做的「遮住理由重判保留项」已由第八轮回退审计覆盖，故撤。
-#
-# **但第九轮的④刁钻一问与⑤最弱一句予以保留**，理由是数据：
-# 它们抓到 7 处问题，其中三处是全项目最致命的——
-#   第04篇 granted him £8,750（him 紧跟 Kendall，获奖的是 Harrison）
-#   第07篇 named it entropy（「熵」这个名字是冯·诺依曼建议的）
-#   第13篇 the first woman（居里夫人 1911 年就独得过化学奖）
-# 来路不正不等于无用；用数据说话，而不是用出处说话。
+def r13(a, arts, aid):
+    """极限轮 —— **须隔一次会话再跑**。
+
+    它审的是「我判过保留的地方」，与第八轮回退审计不同：
+    第八轮读台账，也就是**改过**的地方；极限轮读**没改**的地方。
+    两批完全不同——一篇否决了五条提案的文章，第八轮一条都不会碰它们。
+
+    2026-08-16 一度撤销此轮，理由是「实跑两次零翻案」。**那个理由是错的**：
+    那两次都是在做出判断的同一次会话里跑的，理由还在脑子里，
+    遮住的只是纸面、不是记忆。**零翻案不能证明它没用，只能证明测错了。**
+    故恢复，并写死生效条件：隔一次会话再跑。
+    """
+    log = _read_log(aid)
+    keeps = [l for l in log if ("否决" in l or "保留" in l)]
+    print("**本轮须隔一次会话再跑。**\n")
+    print("在做出判断的同一次会话里「遮住理由重判」是自欺——理由还在脑子里，")
+    print("遮住的只是纸面，不是记忆。若本篇的判断就是刚才做出的，**现在跳过本轮**，")
+    print("留到下次开新对话时再跑。\n")
+    print("─" * 66)
+    print(f"\n台账里含「保留／否决」字样的记录 {len(keeps)} 条。")
+    print("**不要去读它们的理由。** 打开正文，逐处重看：\n")
+    for i, p in enumerate(a["paras"], 1):
+        print(f"\n§{i}  {p['en'].replace('**','')}")
+    print("\n" + "─" * 66)
+    print("\n重判时只问一句：**这一处，现在的我会怎么写？**")
+    print("与当初的判断不同 → 那就是一处翻案。\n")
+    print("**须报出翻案几处**（零处亦须明写，并说明距上次判断隔了多久）。")
 
 
 def _read_log(aid):
@@ -390,7 +405,7 @@ def _read_log(aid):
     f = os.path.join(ROOT, f"notes/精修台账-{aid}.md")
     return open(f, encoding="utf-8").read().split("\n") if os.path.exists(f) else []
 
-GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11, 12: r12}
+GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11, 12: r12, 13: r13}
 
 def main():
     ap = argparse.ArgumentParser()
@@ -405,11 +420,11 @@ def main():
     a, arts = load(aid)
     init_ledger(aid, a)
     done, changes = read_ledger(aid)
-    nxt = next((k for k in range(1, 13) if k not in done), None)
+    nxt = next((k for k in range(1, 14) if k not in done), None)
 
     if args.cmd == "status":
         print(BAR); print(f"精修进度 · 第{aid}篇 {a['title']}"); print(BAR)
-        for k in range(1, 13):
+        for k in range(1, 14):
             name, req = ROUNDS[k]
             mark = "✓" if k in done else ("▶" if k == nxt else "·")
             print(f"  {mark} 第{k:>2}轮 {name:<8}{req}")
@@ -432,7 +447,7 @@ def main():
         if len(args.note.strip()) < 30:
             sys.exit("note 太短。必须写明：改了什么 / 什么没改 / 为什么没改")
         mark_done(aid, n, args.note)
-        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 12 else "✓ 十二轮跑完")
+        print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 13 else "✓ 十三轮跑完")
         return
 
     n = args.n if args.cmd == "round" else nxt
