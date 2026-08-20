@@ -58,7 +58,7 @@ Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish 
 
 - 1628年8月10日，瑞典战舰瓦萨号从斯德哥尔摩启航，十面帆仅张三面，载64门青铜炮。一阵狂风使其向左舷倾侧，扶正后第二阵风将其掀翻，水自敞开的炮门涌入，航行约1300米后沉没，约30人罹难，事发时仍在王宫视野之内。[Wikipedia：Vasa (ship)](https://en.wikipedia.org/wiki/Vasa_(ship))
 - **失败在启航前已被演示**：海军上将克拉斯·弗莱明在码头观看稳定性试验，三十名船员在上层甲板来回奔跑以使船摇摆；跑至第三趟摇晃过于剧烈，试验被迫中止。航行未被取消，亦无人上报国王。[Psych Safety：The Vasa](https://psychsafety.com/the-vasa-disaster/)
-- 1628年的调查认定船体不稳但未指明责任人。后世多归咎于国王古斯塔夫二世·阿道夫要求增设第二层炮甲板并催促工期——这解释了重心过高，却解释不了船为何偏向左舷倾覆。
+- 1628年的调查认定船体不稳但未指明责任人。后世多归咎于国王古斯塔夫二世·阿道夫要求增设第二层炮甲板并催促工期——这解释了重心过高，却解释不了船为何偏向左舷倾覆。　**已核**：1628年海事调查未认定任何人有责；船长索夫林·汉森作证说船员并无醉态、压舱物也已按令装载。后世常将责任归于国王古斯塔夫二世·阿道夫催促工期并要求增设炮位——**但那只解释重心过高，解释不了为何独独向左舷倾覆**，而不对称才是霍克丈量船体后给出的答案。[Vasa Museum：Why did Vasa sink?](https://www.vasamuseet.se/en/vasa-history/why-did-vasa-sink)｜[Wikipedia：Vasa (ship)](https://en.wikipedia.org/wiki/Vasa_(ship))
 - 沉船在海底停留333年。安德斯·弗兰岑于1956年定位，1961年整体打捞出水，船体基本完好，另出水器物约45000件。[Wikipedia：Vasa (ship)](https://en.wikipedia.org/wiki/Vasa_(ship))
 - **判别性证据**：瓦萨博物馆考古学家弗雷德·霍克自2010年起用三年时间测量船上每一块木料，发现左舷结构多于右舷——「不装压舱物时，船会自行向左舷倾侧」。[The World/PRX：Swedish preservationists document likely cause](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)
 - **成因**：出水器物中有四把木工尺，两把按瑞典尺刻度（一尺十二寸），两把按阿姆斯特丹尺刻度（一尺十一寸，约短16毫米）。总造船师亨里克·许贝特松为荷兰人，两舷由不同工班分别施工，各用自己的尺。每名木工按手中量具下料均属准确，缺的是一把共同的尺。[Britannia Naval Research Association：The Vasa story](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)｜[Lucas Laursen：Vasa's Curious Imbalance](https://lucaslaursen.com/vasas-curious-imbalance/)

@@ -297,7 +297,8 @@
         "1831年10月28日：铜盘在磁极间旋转，自盘心转轴与盘缘取出连续电流——史称法拉第圆盘，第一台可持续输出的发电机。　**已核**：1831年8月29日，六英寸外径软铁环，两侧各绕铜线，一侧接电池、一侧接检流计；通断电池时检流计指针各偏一次，通电期间归零。此装置即世界上第一台变压器，现存皇家研究院。[Royal Institution：Faraday's ring-coil apparatus](https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus)｜[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)",
         "约瑟夫·亨利1830年已独立观察到感应现象，发表晚于法拉第；伊波利特·皮克西1832年制成旋转式磁电机。　**年份存疑，正文已改为不给年份**：亨利独立发现感应的时间有 1830、1831（早法拉第数月）、1832 三说；各来源不一，唯「发表在后」无争议。[Royal Society：The birth of the electric machines](https://pmc.ncbi.nlm.nih.gov/articles/PMC4360079/)",
         "现代发电沿用同一循环：蒸汽、水力或风力驱动汽轮机，转轴带动磁场扫过定子线圈，输出经变压后并入电网。定量表述为：穿过回路的磁通量变化率决定感生电动势。　[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)",
-        "法拉第自1820年代初起多次尝试「磁生电」而未果，其失败笔记可上溯至1824年前后；正文取1824年作为长期尝试的起点。　[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)"
+        "法拉第自1820年代初起多次尝试「磁生电」而未果，其失败笔记可上溯至1824年前后；正文取1824年作为长期尝试的起点。　[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)",
+        "**年份订正（2026-08-16）**：正文原写 He had been trying since **1824**，查证后改为 **1825**——APS 记为「Ever since 1825」，皇家研究院记为「During the 1820s」，无来源支持 1824。[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)"
       ]
     }
   ]);

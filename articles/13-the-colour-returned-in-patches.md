@@ -17,7 +17,7 @@ Ds could leave at any point in growth, and each **blotch** shows which. Every **
 
 McClintock called Ac and Ds **controlling** elements: an **insertion** could **silence** a **neighbouring** gene, a **departure** **permit** it again. That made a genome something other than a fixed **ledger** of addresses. She **announced** it in 1950 and spoke at Cold Spring Harbor in 1951, meeting bafflement, even **contempt**. In 1953 she **ceased** publishing on it.
 
-**Sceptics** were answered elsewhere, and **belatedly**. **Mobile** elements surfaced in **microbial** cells after François Jacob and Jacques Monod. In 1983, thirty-two years after that **symposium**, she took the medicine Nobel **alone** — the only woman to hold it **unshared**. Such elements make up the **bulk** of nearly half the human **genome**. She had been reading them off a **spotted** kernel.
+**Sceptics** were answered elsewhere, and **belatedly**. **Mobile** elements surfaced in **microbial** cells after François Jacob and Jacques Monod. In 1983, thirty-two years after that **symposium**, she took the **medicine** Nobel alone — the only woman to hold it **unshared**. Such elements make up the **bulk** of nearly half the human **genome**. She had been reading them off a **spotted** kernel.
 
 ---
 
@@ -34,7 +34,7 @@ Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都
 
 麦克林托克把Ac与Ds称作**控制**(controlling)元件：一次**插入**(insertion)能**沉默**(silence)**邻近**(neighbouring)的基因，一次**离去**(departure)又**准许**(permit)它重新表达。这让基因组不再是一份固定的地址**账本**(ledger)。她1950年**公布**(announced)了结果，1951年在冷泉港作报告，迎来的是她自己所说的困惑，甚至**轻蔑**(contempt)。1953年，她**停止**(ceased)就此发表。
 
-**怀疑者**(Sceptics)是在别处、而且**迟迟**(belatedly)才被回答的。继弗朗索瓦·雅各布与雅克·莫诺之后，**可移动**(Mobile)元件在**微生物**(microbial)细胞里现身，随后到处都是。1983年，距那场**研讨会**(symposium)三十二年，她**独自**(alone)拿下医学奖——迄今唯一**独享**(unshared)该奖的女性。如今已知这类元件构成了人类**基因组**(genome)近一半的**主体**(bulk)。她一直是从一粒**带斑的**(spotted)籽粒上把它们读出来的。
+**怀疑者**(Sceptics)是在别处、而且**迟迟**(belatedly)才被回答的。继弗朗索瓦·雅各布与雅克·莫诺之后，**可移动**(Mobile)元件在**微生物**(microbial)细胞里现身，随后到处都是。1983年，距那场**研讨会**(symposium)三十二年，她独自拿下**医学**(medicine)奖——迄今唯一**独享**(unshared)该奖的女性。如今已知这类元件构成了人类**基因组**(genome)近一半的**主体**(bulk)。她一直是从一粒**带斑的**(spotted)籽粒上把它们读出来的。
 
 ---
 
@@ -48,7 +48,7 @@ Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都
 
 **§4**（10词）control 控制｜insertion 插入｜silence 使沉默｜neighbouring 邻近的｜departure 离去｜permit 准许｜ledger 账本｜announce 公布｜contempt 轻蔑｜cease 停止
 
-**§5**（10词）sceptic 怀疑者｜belatedly 迟迟地｜mobile 可移动的｜microbial 微生物的｜symposium 研讨会｜alone 独自地｜unshared 不与人分享的｜bulk 主体｜genome 基因组｜spotted 带斑的
+**§5**（10词）sceptic 怀疑者｜belatedly 迟迟地｜mobile 可移动的｜microbial 微生物的｜symposium 研讨会｜medicine 医学｜unshared 不与人分享的｜bulk 主体｜genome 基因组｜spotted 带斑的
 
 ---
 

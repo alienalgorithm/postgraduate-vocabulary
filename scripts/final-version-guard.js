@@ -468,7 +468,7 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 16 final row is stale');
   }
-  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **270词 · 50词 · 18.5%** |')) {
+  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **268词 · 50词 · 18.7%** |')) {
     errors.push('README article 17 final row is stale');
   }
   if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **270词 · 50词 · 18.5%** |')) {
