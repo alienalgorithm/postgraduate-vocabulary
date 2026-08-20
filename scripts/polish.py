@@ -32,7 +32,7 @@ PAIR = re.compile(r"\*\*([^*]+)\*\*\(([A-Za-z][A-Za-z'’\-]*)\)")
 
 ROUNDS = {
     1: ("机器层", "九层规则 + 审读任务书 + preflight 全部跑过，每条待核都有处置"),
-    2: ("句序层", "每一句的回报位置都列出，回报隔两段者逐个判过"),
+    2: ("句序层", "逐句问：这一句交出去的东西，下一句接住了吗——看句与句，不看隔几段"),
     3: ("接缝层", "四处段落接缝逐一对读，每处给出承接与否的判断"),
     4: ("因果层", "全篇连接词逐个验证；抽象前置与格言相邻一并查过"),
     5: ("中文层", "遮住英文单读中文；单字加粗与疑似拆词逐条判过"),
@@ -127,22 +127,31 @@ def r1(a, arts, aid):
     print("      不要为消掉告警而牺牲文章——本项目曾为此硬插五句无关事实。")
 
 def r2(a, arts, aid):
-    ps = [p["en"] for p in a["paras"]]
-    print("每一句的回报位置。**回报隔两段者逐个判断是否来早了。**\n")
-    for i, t in enumerate(ps, 1):
-        ss = sents(t)
-        for j, s in enumerate(ss):
-            key = cw(s)
-            later = [k + 1 for k in range(i, len(ps)) if key & cw(ps[k])]
-            prev = cw(ss[j - 1]) if j else set()
-            nxt = cw(ss[j + 1]) if j < len(ss) - 1 else set()
-            near = "接得上" if (key & prev or key & nxt) else "★前后皆不接"
-            far = f"回报最早在 §{later[0]}" if later else "无后续回应"
-            flag = "  ⚠" if (near.startswith("★") and later and later[0] >= i + 2) else ""
-            print(f"  §{i}句{j+1}  {near:<10}{far:<16}{flag}")
-            print(f"          {s[:88]}")
-    print("\n判据：删掉它，如果前后两句反而接得更紧，它就是横插进来的。")
-    print("修法：不是删，是移到它的回报旁边——从伏笔变成原因。")
+    print("**判据已于 2026-08-16 改写。** 旧判据「某句的回报隔了两段就算来早了」")
+    print("在 24 篇里**零产出**——报出的十几处逐个读过全是布景句")
+    print("（第22篇 §1 摆出骨头、§4 才检验，那是设计不是缺陷）。")
+    print("")
+    print("**新判据：逐句问「这一句交出去的东西，下一句接住了吗」。**")
+    print("与第3轮的分工：接缝层看**段与段**之间，本轮看**句与句**之间。")
+    print("")
+    print("第10篇实际发生过：several recorded sounds —— several 后缺名词，")
+    print("**句子读不通，从入库起就在**，十五层规则全没抓到。那正是句内断裂。")
+    import core as _c
+    print("-" * 66)
+    for i, p in enumerate(a["paras"], 1):
+        ss = _c.sentences(p["en"])
+        print("")
+        print("§%d" % i)
+        for k, x in enumerate(ss):
+            print("  %2d  %s" % (_c.count_words(x), x))
+            if k + 1 < len(ss):
+                sh = _c.content_words(x) & _c.content_words(ss[k + 1])
+                tag = "、".join(sorted(sh)) if sh else "★无（须说出前句交了什么、后句用什么接）"
+                print("      -> 与下句共享实词：%s" % tag)
+    print("-" * 66)
+    print("**共享实词为空不等于断裂**——好的接续常靠概念而非词面。")
+    print("但每一处「★无」都要能说出：前句交出了什么，后句用什么接的。")
+
 
 def r3(a, arts, aid):
     ps = [p["en"] for p in a["paras"]]
@@ -259,7 +268,16 @@ def r7(a, arts, aid):
     for i, ag, s in passive:
         print(f"  §{i} {'有施事 ✓' if ag else '★无施事'}  {s[:76]}")
     if not passive: print("  （无）")
-    print("\n③ 抽象名词作主语（写作规范 §3.3，应为 0）\n")
+    print("\n③ 抽象名词作主语 —— **先问：这句话说的是一个类，还是一件事？**")
+    print("   是「类」→ 抽象主语就是对的，不要改。24 篇里五处正当例外：")
+    print("     Machinery alone was no system（05）／The method came from a shortage（09）")
+    print("     A resilient system can overload（19）／the relation gave no absolute distance（08）")
+    print("     the work maimed or killed thousands a year（15）")
+    print("   是「一件事」→ 主语该还给做事的人。24 篇里四处真问题：")
+    print("     Later work found the source（02）→ Biologists later found")
+    print("     Later work narrowed the number（12）→ Others later narrowed")
+    print("     Their empirical framework linked（17）→ Between them they built")
+    print("     they checked against the record（03）→ NASA staff checked")
     for i, w, s in absubj:
         print(f"  ★§{i} {w} —— {s[:76]}")
     if not absubj: print("  ✓ 无")
@@ -342,6 +360,10 @@ def r11(a, arts, aid):
     print("     第21篇：ran across her upper planking —— 人在甲板上跑，不在「铺板」上跑\n")
     print("  ⑤ 比喻落地　被动的施事、拟人的主语，必须是真能做这件事的东西")
     print("     第21篇：The harbour had shown the fault —— 码头不会「演示」毛病\n")
+    print("  ⑥ **语法完整性**　主谓宾齐不齐？限定词后面有没有名词？")
+    print("     第10篇：that several recorded sounds —— **several 后缺名词，句子读不通**，")
+    print("     从入库起就在，**十五层规则全没抓到，因为没有任何一层查这个**。")
+    print("")
     print("**机器判不了这一层**（446万词语料建搭配库的路径已作废），只能逐句读。")
 
 def r12(a, arts, aid):

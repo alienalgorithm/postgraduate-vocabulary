@@ -309,6 +309,35 @@ _yes = art(["**a**."]*5, facts=["1969年首次扫码。**已核**：[来源](htt
 _F2, _ = I.inspect(_yes, arts)
 check("标注「已核」后不报", "AUD-01" not in ids(_F2))
 
+# ── polish 十三轮：结构完整且每轮可跑 ────────────────────────────
+print("\n[POLISH] polish 十三轮")
+import ast as _ast, subprocess as _sp2
+_ps = open(_o.path.join(ROOT, "scripts/polish.py"), encoding="utf-8").read()
+try:
+    _ast.parse(_ps); _synok = True
+except SyntaxError as _e:
+    _synok = False
+check("polish.py 语法正确", _synok,
+      "曾因把多行文本插进 print() 而语法崩溃，立即 git checkout 回滚")
+check("十三轮全在 ROUNDS 表里", all(f"{i}: (" in _ps for i in range(1, 14)))
+check("GEN 映射覆盖十三轮", all(f"{i}: r{i}" in _ps for i in range(1, 14)))
+# 每一轮的材料都能跑出来，不报错
+_bad = []
+for _i in range(1, 14):
+    _r = _sp2.run(["python3", "scripts/polish.py", "01", "round", str(_i)],
+                  capture_output=True, text=True, cwd=ROOT, timeout=60)
+    if _r.returncode != 0 or "Traceback" in _r.stderr:
+        _bad.append(str(_i))
+check("十三轮材料逐轮可跑无异常", not _bad, "报错轮次：" + "、".join(_bad))
+check("第2轮判据已改（看句与句，不看隔几段）", "下一句接住了吗" in _ps,
+      "旧判据「回报隔两段」在 24 篇里零产出")
+check("第7轮抽象主语判据带例外表", "这句话说的是一个类，还是一件事" in _ps,
+      "24 篇里有五处正当例外，句意讲类概念时抽象主语是对的")
+check("第11轮含语法完整性一项", "语法完整性" in _ps,
+      "第10篇 several 后缺名词，十五层规则全没抓到")
+check("第13轮写死了时间间隔条件", "须隔一次会话再跑" in _ps,
+      "同场连跑等于自欺——理由还在脑子里")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
