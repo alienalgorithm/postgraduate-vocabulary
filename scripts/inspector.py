@@ -656,6 +656,23 @@ def inspect(a, archive):
             F.append(Finding("FIT-03", "选词", "info", f"§{i} 副词＋形容词连着加粗",
                 f"{m.group(1)} {m.group(2)}",
                 "副词最容易被塞进来凑名额。删掉它，句子若毫无损失，它就是凑数的"))
+    # ── 第十四层 REF · 已撤销（2026-08-16）──────────────────────────
+    # 曾试图用规则查「句中代词无先行词」，三次校准全部失败，记录于此以免重走：
+    #
+    #   一 只看同段 → 一次点名 8 篇，逐条核实**全是跨段正常承接**
+    #     （段首代词接上一段末句是本体裁常态）。
+    #   二 改为跨段看前两句 → 零误报，但第03、04篇那两处真错误**也抓不住了**，
+    #     规则等于没有。
+    #   三 收窄为只查 they/them/their、且要求「名+姓」两个大写词
+    #     （防 Nimbus-7、Halley Bay 被误当人名）→ 两个方向的单测都过了，
+    #     但全库跑出 12 处，逐条核实**十一处的 they 指的是物**
+    #     （细菌、条带、符号、地震波、鸽子）——**they 指物是英文常态**。
+    #
+    # 结论：代词是否有落点，取决于「最近的那个名词是不是它」，
+    # 而机器分不清人名与产品名、也分不清 they 指人还是指物。
+    # **这一类只能靠第九轮的刁钻一问。** 已在 polish.py 第9轮④写明两个实例：
+    #   第03篇 they checked —— 前文只有 Nimbus-7 与 its processing
+    #   第04篇 granted him £8,750 —— him 紧跟 Kendall，获奖的却是 Harrison
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 
