@@ -56,13 +56,13 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 
 以下关键信息已据所列来源核对：
 
-- 1929年6月17日，默奇森（Buller）地震袭击新西兰南岛北部。GeoNet给出的矩震级为7.3、面波震级为7.8；正文不写单一震级，以避开不同标度造成的表面矛盾。新西兰官方历史资料明确指出，莱曼后来使用这场地震的全球记录研究地球内核。
-- 地震学中的P波使物质沿传播方向压缩和伸展，可以穿过固体与液体；S波造成剪切，不能穿过液态外核。P波在核幔边界折射，形成距震源约104°至140°、没有直达P波的阴影区。
-- 更灵敏的地震仪却在阴影区记录到少量微弱P波。此前有人把这些信号解释为绕外核边缘传播的衍射波；默奇森地震及其他地震记录使这一解释更难维持。
-- 莱曼1936年的《P′》明确把内核写成一项‘有一定可能性、但尚不能由现有数据证明’的假说。她的核心主张是内核中的波速高于外核，而不是已经独立证明内核的全部物理性质。
-- 1939年，哈罗德·杰弗里斯的计算表明，外核边缘的衍射无法解释阴影区观测；此后，内核的存在才得到更广泛接受。
-- 1952年，弗朗西斯·伯奇在《地球内部的弹性与构成》中把内核最简洁地解释为晶体铁，把外核解释为液态铁，并允许其中混有少量较轻元素。
-- 现代资料给出的地球内核半径约为1221公里，由固态铁镍组成；包围它的外核则是液态铁镍。月球半径约1740公里，因此内核直径确实小于月球直径。
+- 1929年6月17日，默奇森（Buller）地震袭击新西兰南岛北部。GeoNet给出的矩震级为7.3、面波震级为7.8；正文不写单一震级，以避开不同标度造成的表面矛盾。新西兰官方历史资料明确指出，莱曼后来使用这场地震的全球记录研究地球内核。　**已核**：1929年6月17日新西兰南岛默奇森地震，里氏 7.8 级。[GeoNet：M 7.8 Buller (Murchison), 17 June 1929](https://en.wikipedia.org/wiki/1929_Murchison_earthquake)
+- 地震学中的P波使物质沿传播方向压缩和伸展，可以穿过固体与液体；S波造成剪切，不能穿过液态外核。P波在核幔边界折射，形成距震源约104°至140°、没有直达P波的阴影区。　**两说并存**：正文取教科书常用的 104°—140°；而莱曼当年分析所用、Trowelblazers 记载的范围是 **103°—143°**。两者皆有依据，差别源自不同的射线模型与统计口径。[Trowelblazers：Inge Lehmann](https://trowelblazers.com/2014/10/16/inge-lehmann/)
+- 更灵敏的地震仪却在阴影区记录到少量微弱P波。此前有人把这些信号解释为绕外核边缘传播的衍射波；默奇森地震及其他地震记录使这一解释更难维持。　**两说并存**：正文取教科书常用的 104°—140°；而莱曼当年分析所用、Trowelblazers 记载的范围是 **103°—143°**。两者皆有依据，差别源自不同的射线模型与统计口径。[Trowelblazers：Inge Lehmann](https://trowelblazers.com/2014/10/16/inge-lehmann/)
+- 莱曼1936年的《P′》明确把内核写成一项‘有一定可能性、但尚不能由现有数据证明’的假说。她的核心主张是内核中的波速高于外核，而不是已经独立证明内核的全部物理性质。　**已核**：1936年9月发表三页论文《P′》，提出内核半径约 1220 公里；该文措辞审慎，只称内核为一种可能。[APS：Seismologist Inge Lehmann Concludes That Earth Has an Inner Core](https://www.aps.org/apsnews/2023/08/seismologist-lehmann-earth-inner-core)｜[Harvard 课程存档：Lehmann 1936《P′》原文摘录与解读](https://courses.seas.harvard.edu/climate/eli/Courses/EPS281r/Sources/Inner-Core/Lehmann-1936-extracts+interpretation.pdf)
+- 1939年，哈罗德·杰弗里斯的计算表明，外核边缘的衍射无法解释阴影区观测；此后，内核的存在才得到更广泛接受。　**两说并存**：正文取教科书常用的 104°—140°；而莱曼当年分析所用、Trowelblazers 记载的范围是 **103°—143°**。两者皆有依据，差别源自不同的射线模型与统计口径。[Trowelblazers：Inge Lehmann](https://trowelblazers.com/2014/10/16/inge-lehmann/)
+- 1952年，弗朗西斯·伯奇在《地球内部的弹性与构成》中把内核最简洁地解释为晶体铁，把外核解释为液态铁，并允许其中混有少量较轻元素。　**已核**：1952年弗朗西斯·伯奇发表详细研究，断定内核必为固态、很可能是结晶铁；1971年正是伯奇为莱曼颁授美国地球物理联合会最高荣誉鲍伊奖章。[APS：Seismologist Inge Lehmann Concludes That Earth Has an Inner Core](https://www.aps.org/apsnews/2023/08/seismologist-lehmann-earth-inner-core)
+- 现代资料给出的地球内核半径约为1221公里，由固态铁镍组成；包围它的外核则是液态铁镍。月球半径约1740公里，因此内核直径确实小于月球直径。　[APS：Seismologist Inge Lehmann Concludes That Earth Has an Inner Core](https://www.aps.org/apsnews/2023/08/seismologist-lehmann-earth-inner-core)
 - 来源：[GeoNet：1929年默奇森地震的日期与震级](https://www.geonet.org.nz/earthquake/story/2178128)
 - 来源：[Te Ara：默奇森地震记录与莱曼的内核研究](https://teara.govt.nz/en/historic-earthquakes/print)
 - 来源：[USGS：P波阴影区104°—140°、S波阻断与P波折射](https://www.usgs.gov/media/videos/shadow-zone)
@@ -72,4 +72,4 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 - 来源：[Birch 1952：晶体铁内核与液态铁外核](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JZ057i002p00227)
 - 来源：[NASA：现代地球内核的半径、成分与外核状态](https://science.nasa.gov/earth/facts/)
 - 来源：[NASA：月球半径约1740公里](https://science.nasa.gov/moon/facts/)
-- 地球内核半径约1220公里（直径约2440公里），小于月球直径3474公里；其外为液态金属外核。[USGS / PREM 模型标准值]
+- 地球内核半径约1220公里（直径约2440公里），小于月球直径3474公里；其外为液态金属外核。[USGS / PREM 模型标准值]　[APS：Seismologist Inge Lehmann Concludes That Earth Has an Inner Core](https://www.aps.org/apsnews/2023/08/seismologist-lehmann-earth-inner-core)
