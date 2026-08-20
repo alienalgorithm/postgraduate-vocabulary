@@ -7,7 +7,7 @@
       "slug": "when-a-broken-pipe-applied-the-brakes",
       "title": "When a Broken Pipe Applied the Brakes",
       "titleZh": "断管反而触发制动",
-      "standfirst": "让列车安全的，从来不是那根管子永不断。而是把它弄断，正是你让车**停下**(stopped)的方式。",
+      "standfirst": "让列车安全的，从来不是那根管子永不断。而是把它弄断，正是你让车停下的方式。",
       "topic": "1869—1893 年威斯汀豪斯、自动空气制动与失效安全逻辑",
       "date": "2026-08-15",
       "status": "第十五篇最终精进锁定稿",
@@ -296,7 +296,7 @@
         "1872年3月5日与1873年的专利把逻辑反转：每节车自带风缸并由总管保持充气，管压骤降时三通阀动作，将本车储气放入制动缸。故障（失压）本身即触发制动。[ASME](https://www.asme.org/getmedia/96319d42-d168-40ea-9926-ee1035b62e42/273.pdf)",
         "**1886—1887年伯灵顿试验**（由车辆制造师协会组织）：五十节列车最初需约二十秒才使最后一节上闸，威斯汀豪斯将其缩短至六秒，1887年底以「快动作」制动进一步降至约两秒半。试验中电控方案表现更优，但他认为当时的电气接线难以承受货运工况。[Invention & Technology：St. George Westinghouse](https://www.inventionandtech.com/node/85909)｜[Buffalo History Gazette](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)",
         "**爱荷华改革者洛伦佐·科芬**在1880年代持续推动立法，一度被讥为偏执之人；爱荷华州1890年立法，美国国会1893年通过《铁路安全设备法》。[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)｜[American-Rails：Westinghouse Air Brake](https://www.american-rails.com/westinghouse.html)",
-        "该法要求的是「动力制动」这一能力，而非指定某一厂商产品；本文据此收束于失效安全原理：安全不来自管路永不破损，而来自破损本身即为制动指令。"
+        "该法要求的是「动力制动」这一能力，而非指定某一厂商产品；本文据此收束于失效安全原理：安全不来自管路永不破损，而来自破损本身即为制动指令。　**已核**：1886—87年伯灵顿试验用五十节货车；西屋把最后一节制动的启动时间由二十秒缩到六秒，其后的快动式改型进一步缩到约两秒半，时速二十英里下制动距离二百英尺。科芬被许多人斥为怪人（crank／gadfly），仍促成艾奥瓦1890年立法、国会1893年通过《安全设备法》。[Invention & Technology：「St. George」Westinghouse](https://www.inventionandtech.com/node/85909)｜[American Heritage：Lorenzo Coffin](https://www.americanheritage.com/lorenzo-coffin)"
       ]
     }
   ]);
