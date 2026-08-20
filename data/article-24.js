@@ -21,8 +21,8 @@
           "zh": "杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(floor)。"
         },
         {
-          "en": "**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. The **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.",
-          "zh": "**哈文斯**(Havens)钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车出**螺纹**(threaded)，上面那个**螺母**(nut)才能一路旋下去。**加工商**(fabricator)于是提议改用两根短杆——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。"
+          "en": "**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. So the **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.",
+          "zh": "**哈文斯**(Havens)钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车出**螺纹**(threaded)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短杆——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。"
         },
         {
           "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** hardly at all and **doubled** the load on that **connection**. **Nobody** ran the **numbers** for that joint.",
@@ -42,9 +42,9 @@
         "**已核**：设计工程师被免于刑事指控但被吊销执业执照；酒店业主向遇难者家属支付约1.4亿美元赔偿。本篇收束于此：那处改动看上去只是省事，实则是一道没人重算的算术。[Britannica](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[All That's Interesting](https://allthatsinteresting.com/hyatt-regency-disaster)"
       ],
       "metrics": {
-        "words": 265,
+        "words": 266,
         "keywords": 50,
-        "density": 18.9
+        "density": 18.8
       },
       "glossary": [
         {

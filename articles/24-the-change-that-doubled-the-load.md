@@ -2,7 +2,7 @@
 
 > 题材：1981年堪萨斯城凯悦酒店天桥垮塌与一处未经复核的设计变更
 > 状态：**第二十四篇定稿**（2026-08-16）
-> 指标：265 词 / 50 重点词 / 密度 18.9%
+> 指标：266 词 / 50 重点词 / 密度 18.8%
 > 加工商把一根通长吊杆改成两根短杆，图纸几乎没变，看着还更省事。可那一改把四层接头上的荷载整整翻了一倍——而没有人重新算过。
 
 ---
@@ -13,7 +13,7 @@ At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **
 
 Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **floor**'s worth.
 
-**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. The **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.
+**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. So the **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.
 
 Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** hardly at all and **doubled** the load on that **connection**. **Nobody** ran the **numbers** for that joint.
 
@@ -30,7 +30,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(floor)。
 
-**哈文斯**(Havens)钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车出**螺纹**(threaded)，上面那个**螺母**(nut)才能一路旋下去。**加工商**(fabricator)于是提议改用两根短杆——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。
+**哈文斯**(Havens)钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车出**螺纹**(threaded)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短杆——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。
 
 把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改几乎没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。**没有人**(Nobody)为那个接头算过一笔**数**(numbers)。
 
