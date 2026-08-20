@@ -12,30 +12,30 @@
       "date": "2026-08-15",
       "status": "第十四篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
-          "en": "Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found **remnants** of her — **timber**, papers, a **victualling** list — on Greenland's southwest **shore**. They had **travelled** frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
+          "en": "Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a **victualling** list — on Greenland's southwest **shore**. They had **travelled** frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
           "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(ship)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份**给养**(victualling)清单。它们是冻在**浮冰**(floes)里**漂**(travelled)过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
         },
         {
-          "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to **seventy** centimetres deep, with a **rounded** hull and **sloping** flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave it a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.",
+          "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to **seventy** centimetres deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.",
           "zh": "**船身**(hull)必须扛得住被**夹住**(gripped)。科林·阿彻用最厚达**七十**(seventy)厘米的**橡木**(oak)造出「前进」号，船底**浑圆**(rounded)，舷侧**外斜**(sloping)。寻常船身给了冰一堵可以咬住的直墙；「前进」号给它的是一道**楔面**(wedge)。**冰群**(pack)一合拢，就把她**挤**(squeezed)着往上抬，而不是往**里**(inward)压，随后把她搁在冰面上。"
         },
         {
-          "en": "She left Norway in 1893 with **stores** for five years and let the ice **seize** her that September. There was no **steering** afterwards, and no **retreat**. The crew **plumbed** the water, logged the **weather**, and **waited**. Nansen kept a **diary** through the polar night; all **thirteen** came through that first **winter**.",
+          "en": "She left Norway in 1893 with **stores** for five years and let the ice **seize** her that September. There was no **steering** now, and no **retreat**. The crew **plumbed** the water, logged the **weather**, and **waited**. Nansen kept a **diary** through the polar night; all **thirteen** came through that first **winter**.",
           "zh": "1893年她带着五年的**给养**(stores)离开挪威，九月任由冰把她**扣**(seize)住。此后再无**操舵**(steering)，也无**退路**(retreat)。船员**测**(plumbed)水深，记**天气**(weather)，然后**等着**(waited)。南森在极夜里写**日记**(diary)；**十三**(thirteen)个人全都熬过了第一个**冬天**(winter)。"
         },
         {
-          "en": "The **bearing** ran wide of the Pole. In March 1895 Nansen and Hjalmar Johansen left with **dogs** and **skis**, reached 86°13.6′N — the **farthest** **poleward** anyone had stood, by almost three **degrees** — and turned back. They **overwintered** in a **shelter** of stone and walrus **hide**, then in June 1896 walked by sheer **fluke** into Frederick Jackson's camp.",
-          "zh": "漂流的**方位**(bearing)偏离了北极点。1895年3月，南森与雅尔马·约翰森带着**狗**(dogs)和**滑雪板**(skis)离船，抵达北纬86°13.6′——人类当时**最**(farthest)**靠北**(poleward)的立足点，比前纪录推进近三**度**(degrees)——随后折返。他们在一座石头与海象**皮**(hide)搭的**窝棚**(shelter)里**熬过冬天**(overwintered)，1896年6月**凑巧**(fluke)走进了弗雷德里克·杰克逊的营地。"
+          "en": "The **bearing** ran wide: the drift would miss the Pole. In March 1895 Nansen and Hjalmar Johansen left with **dogs** and **skis**, reached 86°13.6′N — the **farthest** **poleward** anyone had stood, by almost three **degrees** — and turned back. They **overwintered** in a **shelter** of stone and walrus **hide**, then in June 1896 walked by sheer **fluke** into Frederick Jackson's camp.",
+          "zh": "漂流的**方位**(bearing)偏了：这条路线到不了北极点。1895年3月，南森与雅尔马·约翰森带着**狗**(dogs)和**滑雪板**(skis)离船，抵达北纬86°13.6′——人类当时**最**(farthest)**靠北**(poleward)的立足点，比前纪录推进近三**度**(degrees)——随后折返。他们在一座石头与海象**皮**(hide)搭的**窝棚**(shelter)里**熬过冬天**(overwintered)，1896年6月**凑巧**(fluke)走进了弗雷德里克·杰克逊的营地。"
         },
         {
-          "en": "Fram **emerged** near Svalbard that August; every man went home **alive**. The **dash** for the Pole had **failed**. But her **sounding** lines ran 3,300 to 3,900 **metres** where a **shallow** floor was expected, **exposing** deep water, and three years of records **charted** how Arctic ice moves. Fram means \"Forward\". She went **onward** by giving way.",
-          "zh": "当年8月，「前进」号在斯瓦尔巴附近**露**(emerged)出冰面；所有人都**活着**(alive)回了家。冲击北极点的那次**猛进**(dash)确实**失败**(failed)了。但她的**测深**(sounding)线在本该是**浅**(shallow)海底的地方量到3300至3900**米**(metres)，**揭出**(exposing)一片深水；三年的记录也**绘出**(charted)了北极海冰如何移动。Fram意为「前进」。她是靠让步而**向前**(onward)的。"
+          "en": "Fram **emerged** near Svalbard that August; every man went home **alive**. The **dash** for the Pole had **failed**. But her **sounding** lines ran 3,300 to 3,900 **metres** where a **shallow** floor was expected, **exposing** a basin, and three years of records **charted** how Arctic ice moves. Fram means \"Forward\". She went **onward** by giving way.",
+          "zh": "当年8月，「前进」号在斯瓦尔巴附近**露**(emerged)出冰面；所有人都**活着**(alive)回了家。冲击北极点的那次**猛进**(dash)确实**失败**(failed)了。但她的**测深**(sounding)线在本该是**浅**(shallow)海底的地方量到3300至3900**米**(metres)，**揭出**(exposing)一个海盆；三年的记录也**绘出**(charted)了北极海冰如何移动。Fram意为「前进」。她是靠让步而**向前**(onward)的。"
         }
       ],
       "glossary": [
