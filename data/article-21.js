@@ -296,7 +296,8 @@
         "1628年的调查认定船体不稳但未指明责任人。后世多归咎于国王古斯塔夫二世·阿道夫要求增设第二层炮甲板并催促工期——这解释了重心过高，却解释不了船为何偏向左舷倾覆。",
         "沉船在海底停留333年。安德斯·弗兰岑于1956年定位，1961年整体打捞出水，船体基本完好，另出水器物约45000件。[Wikipedia：Vasa (ship)](https://en.wikipedia.org/wiki/Vasa_(ship))",
         "**判别性证据**：瓦萨博物馆考古学家弗雷德·霍克自2010年起用三年时间测量船上每一块木料，发现左舷结构多于右舷——「不装压舱物时，船会自行向左舷倾侧」。[The World/PRX：Swedish preservationists document likely cause](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)",
-        "**成因**：出水器物中有四把木工尺，两把按瑞典尺刻度（一尺十二寸），两把按阿姆斯特丹尺刻度（一尺十一寸，约短16毫米）。总造船师亨里克·许贝特松为荷兰人，两舷由不同工班分别施工，各用自己的尺。每名木工按手中量具下料均属准确，缺的是一把共同的尺。[Britannia Naval Research Association：The Vasa story](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)｜[Lucas Laursen：Vasa's Curious Imbalance](https://lucaslaursen.com/vasas-curious-imbalance/)"
+        "**成因**：出水器物中有四把木工尺，两把按瑞典尺刻度（一尺十二寸），两把按阿姆斯特丹尺刻度（一尺十一寸，约短16毫米）。总造船师亨里克·许贝特松为荷兰人，两舷由不同工班分别施工，各用自己的尺。每名木工按手中量具下料均属准确，缺的是一把共同的尺。[Britannia Naval Research Association：The Vasa story](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)｜[Lucas Laursen：Vasa's Curious Imbalance](https://lucaslaursen.com/vasas-curious-imbalance/)",
+        "**已核（2026-08-16 逐条上网）**：核心事实全部无误——1628年8月10日首航、64门铜炮、航行约1400码后沉没、约30人罹难；瑞典尺一尺12寸而阿姆斯特丹尺一尺11寸（分别为 297mm 与 283mm）；霍克三年间丈量船上每一块木料，得出「左舷结构多于右舷，不压舱时船会向左倾」。**一处两说并存**：本文取「四把尺」——PRX／GBH／Tim Harford／Psych Safety 均记为 four rulers，且系霍克本人说法；而英国海军研究会记为 **six rulers, all of different lengths**。两说的要害一致（多套并行的度量标准造成不对称），本文取多数来源与当事人说法。[PRX/The World：New Clues Emerge in Centuries-Old Swedish Shipwreck](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)｜[Tim Harford：Lessons from a shipwreck](https://timharford.com/2026/08/lessons-from-a-shipwreck/)｜[Britannia Naval Research Association（六把尺之说）](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)"
       ]
     }
   ]);

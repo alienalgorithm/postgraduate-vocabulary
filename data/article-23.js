@@ -39,7 +39,8 @@
         "在此之前，法庭身份认定依赖文件、血型与供认。血型（ABO 等）具排除力而少有个体识别力；供认在当时被视为最强证据。",
         "**第一次刑事应用的第一个结果是排除**：1983年琳达·曼、1986年唐·阿什沃思在莱斯特郡纳伯勒附近遭强奸杀害。十七岁厨工理查德·巴克兰已供认第二起。杰弗里斯比对精液样本与巴克兰的DNA，结论为完全不符——用杰弗里斯本人的话是「complete and utter mismatch」。巴克兰因此获释。[NLM Visible Proofs](https://www.nlm.nih.gov/exhibition/visibleproofs/galleries/cases/jeffreys.html)",
         "警方随后在当地采集五千余份血样与唾液样本，无一吻合。科林·皮奇福克1987年落网，原因是他说服一名同事冒名提交样本，该同事谈及此事而被举报；其DNA与两起案件的样本均吻合，皮奇福克成为世界上第一个由DNA证据定罪的凶手。[HISTORY AND SCIENCE OF FORENSIC DNA TESTING](https://www.sdap.org/wp-content/uploads/downloads/research/criminal/pc15.pdf)",
-        "本文收束于此：这项技术被记住的形象是「指认」，而它最初的两次结论都是「否定」——先否定内政部对一位母亲的怀疑，再否定一份供认。"
+        "本文收束于此：这项技术被记住的形象是「指认」，而它最初的两次结论都是「否定」——先否定内政部对一位母亲的怀疑，再否定一份供认。",
+        "**已核（2026-08-16 逐条上网）**：核心事实无误——1984年9月10日杰弗里斯在莱斯特冲洗出那张X光片；**第一次实际应用不是刑事案件而是移民争议**（1985年 Sarbah 诉内政部，证明加纳男孩确为该家庭成员）；**第一次刑事应用的第一个结果是排除**——巴克兰已供认第二起，而精液样本与其DNA「complete and utter mismatch」，因此获释；警方随后采集五千余份样本无一吻合，皮奇福克1987年因让同事冒名提交而落网，成为世界上第一个由DNA证据定罪的凶手。**另有两处已在前次跑轮中订正**：① 末句原写「史密森学会留着那张包装纸」——《史密森尼杂志》编者按明确更正：史密森并未收藏那包口香糖，展出过的是复制品；馆藏的是最初十台扫描仪之一。已改。② §4 原给出 UPC 号码 036000291452，检索未见可靠来源，已改为不给具体数字。[Smithsonian Magazine（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)｜[CSHL DNA Learning Center](https://dnalc.cshl.edu/view/15111-The-first-murder-case-using-DNA-profiling-Alec-Jeffreys.html)｜[NLM Visible Proofs](https://www.nlm.nih.gov/exhibition/visibleproofs/galleries/cases/jeffreys.html)"
       ],
       "metrics": {
         "words": 269,

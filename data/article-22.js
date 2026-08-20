@@ -296,7 +296,8 @@
         "解剖学之所以判不了：颌骨与颅骨相接处（髁突及关节部位）恰好缺失，两块无法拼合验证，双方依据同一批石膏模型与X光片各作解读。",
         "**判别性证据之一 · 氟测年**：1949年大英自然史博物馆地质学家肯尼思·奥克利施行氟吸收测年——埋藏骨骼自地下水吸收氟化物，埋藏愈久含量愈高。实测下颌与牙齿含氟0.03%—0.04%，脑颅含氟0.1%，两者埋藏时长不同，故不可能属同一个体。[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)",
         "**判别性证据之二 · 锉痕**：1953年奥克利与约瑟夫·韦纳、威尔弗里德·勒格罗·克拉克进一步检验。显微镜下臼齿咀嚼面呈现笔直锉痕，而自然咀嚼磨损应为不规则。钻孔显示深色仅及表层——骨骼曾以铁溶液与铬酸染色，以匹配当地砾石颜色。下颌属猩猩（可能来自砂拉越），头骨为中世纪人类。[Natural History Museum：Piltdown Man](https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html)",
-        "结果于1953年11月21日在《自然》发表，距1912年公布已四十一年。1959年放射性碳测年进一步测得头骨约600年。[History Skills：Piltdown Man](https://www.historyskills.com/classroom/ancient-history/piltdown-man/)"
+        "结果于1953年11月21日在《自然》发表，距1912年公布已四十一年。1959年放射性碳测年进一步测得头骨约600年。[History Skills：Piltdown Man](https://www.historyskills.com/classroom/ancient-history/piltdown-man/)",
+        "**已核（2026-08-16 逐条上网）**：判别性证据的两个数字**一字不差**——科学史研究所载「The jaws and teeth contained 0.03% to 0.04% fluoride, whereas the braincase showed a fluoride composition of 0.1%」，与正文完全一致。其余亦无误：1949年奥克利施用氟吸收测年（为避免过早声张而秘密进行）；钻孔发现颌骨暗色仅及表层，系铁溶液与重铬酸盐人为染色；显微镜下臼齿见锉出的痕迹；1953年韦纳、奥克利与勒格罗·克拉克联名公布。另附一笔佐证：氮含量测定显示颌骨与牙齿含氮 3.9%—5.1%（接近鲜骨的约5%），而颅骨仅 0.6%—1.4%——两者埋藏时长确实不同。[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)｜[Nature：Chemical Examination of the Piltdown Implements](https://www.nature.com/articles/1721110a0)｜[Natural History Museum：Piltdown Man](https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html)"
       ]
     }
   ]);
