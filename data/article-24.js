@@ -13,8 +13,8 @@
       "status": "第二十四篇定稿",
       "paras": [
         {
-          "en": "At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **atrium** of the Hyatt Regency in Kansas City gave way and **fell** onto a tea **dance** below. A hundred and **fourteen** died; 216 were **injured**. It remains the **deadliest** **structural** collapse in American history outside **wartime** or attack.",
-          "zh": "1981年7月17日晚7点05分，堪萨斯城凯悦酒店**中庭**(atrium)里两条**悬空**(suspended)**天桥**(walkways)垮了下来，**砸**(fell)在下方正在进行的茶**舞会**(dance)上。一百一十**四**(fourteen)人死亡，216人**受伤**(injured)。这是美国历史上除**战时**(wartime)与袭击之外**最惨重的**(deadliest)**结构**(structural)垮塌。"
+          "en": "At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **atrium** of the Hyatt Regency in Kansas City gave way and **fell** onto a tea **dance** below. 114 died; 216 were **injured**. It **remains** the **deadliest** **structural** collapse in American history outside **wartime** or attack.",
+          "zh": "1981年7月17日晚7点05分，堪萨斯城凯悦酒店**中庭**(atrium)里两条**悬空**(suspended)**天桥**(walkways)垮了下来，**砸**(fell)在下方正在进行的茶**舞会**(dance)上。114人死亡，216人**受伤**(injured)。这**至今仍是**(remains)美国历史上除**战时**(wartime)与袭击之外**最惨重的**(deadliest)**结构**(structural)垮塌。"
         },
         {
           "en": "Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **floor**'s worth.",
@@ -42,9 +42,9 @@
         "**已核**：设计工程师被免于刑事指控但被吊销执业执照；酒店业主向遇难者家属支付约1.4亿美元赔偿。本篇收束于此：那处改动看上去只是省事，实则是一道没人重算的算术。[Britannica](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[All That's Interesting](https://allthatsinteresting.com/hyatt-regency-disaster)"
       ],
       "metrics": {
-        "words": 266,
+        "words": 263,
         "keywords": 50,
-        "density": 18.8
+        "density": 19.0
       },
       "glossary": [
         {
@@ -73,13 +73,13 @@
           "p": 1
         },
         {
-          "w": "fourteen",
-          "zh": "十四",
+          "w": "injured",
+          "zh": "受伤的",
           "p": 1
         },
         {
-          "w": "injured",
-          "zh": "受伤的",
+          "w": "remains",
+          "zh": "至今仍是",
           "p": 1
         },
         {

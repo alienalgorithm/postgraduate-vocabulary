@@ -55,7 +55,7 @@
 | **21** | ***They Never Held the Same Foot*** | **1628年瓦萨号沉没与测量标准** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=they-never-held-the-same-foot) · [Markdown](articles/21-they-never-held-the-same-foot.md) |
 | **22** | ***Only That Question Had a Number*** | **1912—1953年皮尔当人骗局与氟测年** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=only-that-question-had-a-number) · [Markdown](articles/22-only-that-question-had-a-number.md) |
 | **23** | ***Its First Two Verdicts Were Denials*** | **1984—1987年杰弗里斯、DNA指纹与司法证据** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=its-first-two-verdicts-were-denials) · [Markdown](articles/23-its-first-two-verdicts-were-denials.md) |
-| **24** | ***The Change That Doubled the Load*** | **1981年堪萨斯城凯悦酒店天桥垮塌与一处未经复核的设计变更** | **266词 · 50词 · 18.8%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-change-that-doubled-the-load) · [Markdown](articles/24-the-change-that-doubled-the-load.md) |
+| **24** | ***The Change That Doubled the Load*** | **1981年堪萨斯城凯悦酒店天桥垮塌与一处未经复核的设计变更** | **263词 · 50词 · 19.0%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-change-that-doubled-the-load) · [Markdown](articles/24-the-change-that-doubled-the-load.md) |
 
 第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
 
