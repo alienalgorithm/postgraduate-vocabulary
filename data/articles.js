@@ -1215,9 +1215,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第五篇最终精进锁定稿",
     "metrics": {
-      "words": 268,
+      "words": 269,
       "keywords": 50,
-      "density": 18.7
+      "density": 18.6
     },
     "paras": [
       {
@@ -1233,8 +1233,8 @@ window.SITE = {
         "zh": "到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。"
       },
       {
-        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum they gave a maker and an item, nothing more.",
-        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，它们给出的是：一个厂商，一件商品，此外什么也没有。"
+        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.",
+        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。"
       },
       {
         "en": "A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.",

@@ -2,7 +2,7 @@
 
 > 题材：UPC 条形码与零售信息基础设施
 > 状态：**第五篇最终精进锁定稿**（2026-08-15）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 史上第一次扫码就当场证明了这件事：收银机打出的价，比货架上标的低两分——因为包装上的条码不可能知道店里在做促销。
 
 ---
@@ -15,7 +15,7 @@ The **invention** was old. Woodland and Silver filed in 1949 for a patent on **o
 
 By 1970 the **grocers** had a number for every product but no **symbol** a machine could read. George Laurer, an IBM **engineer**, refused his manager's plea to keep the **bullseye**: it **smeared** when **printed** on **packaging**. He pushed for **vertical** bars; an industry **panel** chose IBM's **proposal** in 1973 and named it UPC-A.
 
-The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum they gave a maker and an item, nothing more.
+The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.
 
 A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.
 
@@ -32,7 +32,7 @@ A **database** held the **description** and price: prices changed without reprin
 
 到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。
 
-UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，它们给出的是：一个厂商，一件商品，此外什么也没有。
+UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。
 
 **描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。商店要建账，互为对手的**供应商**(vendors)要造出**兼容的**(compatible)读头，厂商要把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着最初那批扫描器中的一台：条纹里装的是一串数，价格在别处。
 
