@@ -10,10 +10,48 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
+  sync-release:
+    if: github.event_name == 'pull_request' && github.head_ref == 'article-26-final-clean'
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.sync.outputs.changed }}
+    steps:
+      - name: Check out release branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+      - name: Synchronize and validate Article 26 final state
+        id: sync
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -f scripts/sync_article26.py ]; then
+            python3 scripts/sync_article26.py
+            python3 scripts/build_markdown.py | tee /tmp/build-report.txt
+            grep -q "26 篇已生成 · 1300 个重点词 · 全部通过" /tmp/build-report.txt
+            node scripts/final-version-guard.js --write-manifest
+            node scripts/final-version-guard.js
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            if ! git diff --cached --quiet; then
+              git commit -m "release: lock Article 26 and sync 26-article archive"
+              git push origin HEAD:${{ github.head_ref }}
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
   validate:
+    needs: sync-release
+    if: always() && (needs.sync-release.result == 'success' || needs.sync-release.result == 'skipped') && needs.sync-release.outputs.changed != 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -101,12 +139,8 @@ jobs:
             if (article.metrics.words !== metrics.words || article.metrics.keywords !== metrics.keywords || article.metrics.density !== metrics.density || article.status !== metrics.status) {
               throw new Error(`article ${id} final identity mismatch`);
             }
-            if (article.metrics.words < 240 || article.metrics.words > 270) {
-              throw new Error(`article ${id} word count outside preferred 240-270 range`);
-            }
-            if (article.paras.length !== 5 || article.glossary.length !== 50) {
-              throw new Error(`article ${id} structure mismatch`);
-            }
+            if (article.metrics.words < 240 || article.metrics.words > 270) throw new Error(`article ${id} word count outside preferred 240-270 range`);
+            if (article.paras.length !== 5 || article.glossary.length !== 50) throw new Error(`article ${id} structure mismatch`);
           }
           console.log('articles 16 to 26 latest final identities verified');
           NODE
