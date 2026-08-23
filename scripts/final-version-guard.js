@@ -9,7 +9,7 @@ const ROOT = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'data');
 const ARTICLE_DIR = path.join(ROOT, 'articles');
 const MANIFEST_PATH = path.join(DATA_DIR, 'final-version-manifest.json');
-const REPORT_PATH = path.join(ROOT, 'notes', '全库最终版本审计_2026-08-13.md');
+const REPORT_PATH = path.join(ROOT, 'notes', '全库最终版本审计_2026-08-23.md');
 const README_PATH = path.join(ROOT, 'README.md');
 const HANDOFF_PATH = path.join(ROOT, 'notes', '对话交接文档.md');
 const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
@@ -399,7 +399,7 @@ function createManifest(articles) {
   return {
     schema_version: 1,
     policy: 'latest-final-only',
-    audited_at: '2026-08-13',
+    audited_at: '2026-08-23',
     article_count: entries.length,
     keyword_count: entries.reduce((sum, entry) => sum + entry.keywords, 0),
     articles: entries,
@@ -507,7 +507,7 @@ function auditReport(manifest) {
     `| ${entry.id} | *${entry.title}* | ${entry.status} | ${entry.words} / ${entry.keywords} / ${densityDisplay(entry.density)}% | ${tick}${entry.canonical_fingerprint_sha256.slice(0, 12)}${tick} |`
   );
   return [
-    '# 全库最终版本审计 · 2026-08-13',
+    '# 全库最终版本审计 · 2026-08-23',
     '',
     '> 审计范围：第01—26篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
     '> 结论：第01—19篇继续保持此前锁定指纹；第20篇269词最终精进锁定稿已完成边际减排成本术语、中英对应、制度边界与1000词全库复验。',
