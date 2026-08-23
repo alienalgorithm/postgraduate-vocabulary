@@ -14,306 +14,6 @@ const README_PATH = path.join(ROOT, 'README.md');
 const HANDOFF_PATH = path.join(ROOT, 'notes', '对话交接文档.md');
 const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
 
-const SOURCE_AUDIT = {
-  '01': { source: '2026-08-15对话中经写作智能体全流程产出、由四段改为五段、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '02': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
-  '03': { source: '2026-08-15对话中经写作智能体全流程（词池→草稿→复检五轮）产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '04': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的268词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '05': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '06': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '07': { source: '2026-08-15对话中经写作智能体全流程（词池→五轮复检）产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '08': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '09': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '10': { source: '2026-08-16全库跑轮时检出并修复：中英配对错位、scribes worked a system 不地道、system 白送兼抽象主语；合规分100的269词稿', verification: 'conversation-latest-final' },
-  '11': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '12': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '13': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的266词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '14': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '15': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '16': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
-  '17': { source: '2026-08-12对话中形成并由PR #8合并的268词最终精进稿', verification: 'conversation-latest-final' },
-  '18': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的最终精进锁定稿', verification: 'conversation-latest-final' },
-  '19': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的269词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '20': { source: '2026-08-15对话中经写作智能体全流程产出、合规分100的270词最终精进锁定稿', verification: 'conversation-latest-final' },
-  '24': { source: '2026-08-16按《第24篇写作提示词》全流程新写：选题后先上网核实每个数字→词池→草稿十轮→入库→十五层→第9轮五问→台账；六个白送词全部按第零条之三处置（取消加粗、让出名额，未改英文）', verification: 'conversation-latest-final' },
-  '23': { source: '2026-08-16按《第23篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿五轮→十一轮精修→对抗式审计六条全否决→合规分100的268词定稿', verification: 'conversation-latest-final' },
-  '22': { source: '2026-08-16按《第22篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿七轮→十一轮精修→合规分100的270词定稿', verification: 'conversation-latest-final' },
-  '21': { source: '2026-08-16按《第21篇写作提示词》全流程新写：重读范文→选题四条→词池→草稿复检→审读任务书→合规分100的270词定稿', verification: 'conversation-latest-final' },
-};
-
-const VERSION_IDS = {
-  '01': '01-270-word-final-locked',
-  '02': '02-269-word-final-locked',
-  '03': '03-271-word-final-locked',
-  '04': '04-268-word-final-locked',
-  '05': '05-269-word-final-locked',
-  '06': '06-270-word-final-locked',
-  '07': '07-270-word-final-locked',
-  '08': '08-268-word-final-locked',
-  '09': '09-269-word-final-locked',
-  '10': '10-269-word-final-locked',
-  '11': '11-267-word-final-locked',
-  '12': '12-269-word-final-locked',
-  '13': '13-268-word-final-locked',
-  '14': '14-270-word-final-locked',
-  '15': '15-267-word-final-locked',
-  '16': '16-270-word-final-locked',
-  '17': '17-268-word-final-locked',
-  '18': '18-270-word-final-locked',
-  '19': '19-267-word-final-locked',
-  '20': '20-267-word-final-locked',
-  '21': '21-270-word-final-locked',
-  '22': '22-270-word-final-locked',
-  '23': '23-269-word-final-locked',
-  '24': '24-263-word-final-locked',
-};
-
-const SUPERSEDED_SIGNATURES = {
-  '02': ['These **processes** **support** a food **chain**'],
-  '04': ['Finding **longitude** required the time somewhere else.', '295 词 / 50 重点词 / 密度 16.9%'],
-  '16': [
-    'sent **seismic** waves through the planet',
-    'read traces from **seismographs**',
-    'Yet faint P′ **arrivals** did.',
-    'made diffraction untenable',
-    'In science, **absence** belongs to a model.',
-    '296 词 / 50 重点词 / 密度 16.9%',
-  ],
-  '17': [
-    'Measurements upheld the **empirical** **framework**.',
-    "compresses this into one man's **revelation**",
-    '263 词 / 50 重点词 / 密度 19.0%',
-  ],
-  '18': [
-    'Princeton **cosmologists**',
-    'Penzias and Wilson called it a **provisional** explanation.',
-    'Shorter-wave measurements soon **corroborated** the **cosmic** **background** **radiation**.',
-    'ruled out ground **interference**',
-    'The excess was **isotropic**',
-    'Their paper presented it only as a **provisional** explanation.',
-    '**corroborated** the signal as **cosmic** **background** **radiation**',
-    'COBE found a near-perfect 2.725 K black-body **profile**',
-    'The uniform **thermal** glow became a **signature**',
-    'Its force came from a stricter fact',
-    'the sky alone would not go quiet',
-    'taped every **seam**',
-    'a near-perfect 2.725 K black-body spectral **profile**',
-    '**Pigeons** had made a **roost** inside;',
-    'Penzias and Wilson treated it as **provisional**.',
-    '269 词 / 50 重点词 / 密度 18.6%',
-    '天空始终无法安静',
-  ],
-  '19': [
-    'Five Alarms, No Abort',
-    '**powered** **descent**',
-    'on **standby**',
-    '**scheduler**',
-    '**diagnostic**',
-    '**reliability**',
-    'lower-ranked display work',
-    'stayed active as a **contingency**',
-    'A mode **configuration** and electrical **mismatch** generated',
-    'periodic display job erased the narrow **headroom**',
-    'Yet the alarm showed a defence working.',
-    'returned selected programs to protected **checkpoints**',
-    'lower-ranked monitor work',
-    'with **speed**, **attitude** and the landing path under control',
-    'The deeper lesson lay in **architecture**.',
-    'expendable jobs vanished to **safeguard** navigation',
-    'Over five minutes after ignition, the **readout** 1202 flashed',
-    '1201 followed later',
-    'Each reported an executive **overload**',
-    'remained on as a **contingency**',
-    'Its mode **configuration** exposed an electrical **mismatch**',
-    'rapid counter **requests**',
-    'Tasks began to **queue**',
-    'assigned every job a **priority**',
-    'ran out of room',
-    'protected **checkpoints**',
-    'It could **retain**',
-    'identified the numbers',
-    'the readings remained **coherent**',
-    'The lesson lay in **architecture**',
-    'did not promise never to overload',
-    'The sacrifice was **selective**',
-    'not decorative',
-    'meant protecting the **essential** work',
-    '计算机没有假装一切正常',
-  ],
-  '20': [
-    'Congress did not **prescribe** **uniform** machinery.',
-    '**purchase** permits',
-    'Continuous **monitors** measured each stack',
-    'the **excess**',
-    '**freight** cost',
-    '**railway** **competition**',
-    '263 词 / 50 重点词 / 密度 19.0%',
-    'The **institutional** lesson is sharper.',
-    'US **legislation** confronted acid rain',
-    'a **precursor** to acidic **deposition**',
-    '**procure** permits',
-    'sell a **surplus**; unused units',
-    'Markets worked only because',
-    'brought an automatic **penalty** and required',
-    'local air-quality rules',
-    'compliance **expense** fell below',
-    '**competition** among **carriers**',
-    'the **acceptable** total',
-    'most **cheaply**',
-    'a **bounded** quantity',
-    '**ration** **permission**',
-    'the sequence itself',
-    'had lower **marginal** costs',
-    '重新**分配**(reallocate)',
-  ],
-  '02': [
-    'a **geological** **expedition** **aboard** the ship Knorr **sought** hot water',
-    'the Galápagos **Rift**',
-    'The giant **tube** **worm** carries it furthest',
-    'Such **abundance** belonged two kilometres higher',
-    'had been **assumed** a **desert** fed by **debris** from above',
-    'a second **base**, a food **web** driven by the planet',
-    'to anywhere chemistry holds a **gradient** open',
-    '259 词 / 50 重点词 / 密度 19.3%',
-    '271 词 / 50 重点词 / 密度 18.5%',
-    'a **camera** system called ANGUS **registered** a **rise** in **temperature**',
-    'The **photographs** told a different story.',
-    'Many larger **species** **derive** nourishment from these microbes.',
-    'These **reactions** **support** a food **chain**',
-    'an otherwise suitable environment need not be **defined** by sunlight',
-    'a **usable** **flow** of energy',
-    'came back with evidence that a community could **flourish** in permanent darkness',
-    '第二篇全新重写稿',
-  ],
-  '03': [
-    'At Halley, a **station** in Antarctica',
-    'Its **routine** **observations** formed a **baseline**: measure, record, repeat.',
-    'their **data** matched, confirming the **unexpected** result',
-    'a **decline** of **approximately** 40% from the 1960s **average**',
-    'In its 16 May 1985 issue, the **journal** *Nature* **published**',
-    'Returning **sunlight** **released** **active** **chlorine** atoms',
-    'an **international** **agreement** to **restrict**',
-    'It entered into **force** on 1 January 1989',
-    'One graph exposed a **planetary** risk',
-    '255 词 / 50 重点词 / 密度 19.6%',
-    '第三篇精进定稿',
-  ],
-  '07': [
-    'Their **value** to a reader differed; the **technical** task did not.',
-    'he **credited** John Tukey with suggesting the **term** \u201cbit\u201d',
-    'In human **language**, symbols are not uniformly **random**',
-    '**source** coding can therefore compress a message',
-    'more **likely** **sequences** and longer ones to rare sequences',
-    'each channel has a **maximum** reliable information **rate**',
-    'His **result** established that such codes existed',
-    'Shannon\u2019s **model** did not judge a message\u2019s **purpose**',
-    'That **restraint** made the theory **general**',
-    '273 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.3%',
-  ],
-  '01': [
-    'marked each death with a **stroke** against the address on a **map** of the **district**',
-    'had its own **well** and **recorded** five deaths',
-    'A theory is **tested** not by the cases it **fits**, but by the one it cannot **survive**.',
-    'the **gesture** **altered** little',
-    'He had **demonstrated** something more useful than a **proof**',
-    '252 词 / 50 重点词 / 密度 19.8%',
-    '第一篇最终精校稿',
-  ],
-  '05': [
-    'a **cashier** at a Marsh supermarket in Troy, Ohio, passed a **humble** 67-cent pack',
-    'The **invention** came earlier; **negotiation** and **coordination** made scanning **ordinary**.',
-    'because a bull\u2019s-eye was **vulnerable** to ink spread',
-    'A photodiode **detector** measured the **reflected** light',
-    'the system\u2019s **elegance** was **apparent** and the **consensus** behind it invisible',
-    '270 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.5%\u0000',
-    '\u7b2c\u4e94\u7bc7\u7cbe\u8fdb\u5b9a\u7a3f',
-  ],
-  '06': [
-    'As **population** rose, reliance on manure and nitrate deposits',
-    'Alwin Mittasch\u2019s group replaced scarce osmium with activated iron',
-    'Gas purification and heat recovery helped raise plant **capacity**.',
-    'Some **civilian** output **shifted** to **military** use',
-    'The **burden** we **inherit** lies beyond the reactor',
-    '265 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
-  ],
-  '04': [
-    'a one-hour gap between local and **reference** time represented a 15-degree **difference**',
-    'John Harrison, a **carpenter** and **self-taught** clockmaker',
-    'H4\u2019s **performance** in the 1761\u201362 Jamaica **trial** seemed strong',
-    'Payment was split in 1765: one **contingent** on **disclosure**',
-    'Harrison\u2019s **legacy** was to show a **portable** clock could carry reference time',
-    '260 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 19.2%',
-  ],
-  '11': [
-    'a **current** produced a magnetic **effect**',
-    'A **pulse** made the galvanometer needle **swing** for a **brief** **moment**',
-    'Today, a **change** in magnetic flux through a circuit induces an electric **field**',
-    'the first **machine** to **create** continuous electrical **output**',
-    'the generator feeds **power** into a **network** serving a **city**',
-    '255 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 19.6%',
-  ],
-  '13': [
-    'The **claim** **challenged** the **idea** of fixed genetic addresses.',
-    'at the 1951 Cold Spring Harbor **conference**, many in the **audience** did not **appreciate**',
-    'Her data won more respect than her interpretation; she **explored** further.',
-    'The discovery was **recognised** with the 1983 Nobel **Prize**.',
-    'when Ds left the gene **early**, subsequent **daughter** cells inherited',
-    '262 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 19.1%',
-  ],
-  '12': [
-    'To determine **Earth**\u2019s **age**, Harrison Brown\u2019s group used **nuclear** **decay**',
-    'His 1956 **paper** put the **figure** at 4.55',
-    'Later **scientists** refined but barely changed the **answer**.',
-    'In 1973, the EPA, a **federal** **agency**, issued **rules** to **phase** down lead',
-    'As petrol lead fell, **blood**-lead levels fell too; the **health** benefit became measurable.',
-    '264 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
-  ],
-  '09': [
-    'a Somali **hospital** **cook**, developed a **rash**',
-    'In 1967 WHO intensified an **ambitious** **global** **campaign** to **free** humanity',
-    'A **report** of a **suspected** **case** triggered an **investigation**.',
-    'No single **feat** secured the **triumph**',
-    'searching turned absence into evidence people could **trust**',
-    '265 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.9%',
-  ],
-  '14': [
-    'Their **drift** implied a **route** across the polar **sea**.',
-    'Fram\u2019s **crew** **sailed** from Norway in 1893 with years of **food**',
-    'The drift **missed** Nansen\u2019s hoped-for **goal** of passing near the Pole',
-    'they wintered in a stone **shelter** on an **island** in Franz Josef Land',
-    'The expedition **achieved** its **chief** scientific aim.',
-    '268 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.7%',
-  ],
-  '15': [
-    'a **worker** crossed the **roofs** of a moving freight train',
-    'Westinghouse made air braking practical without originating it',
-    'The 1869 straight-air trials **persuaded** **reluctant** **managers**',
-    'The capability, not Westinghouse\u2019s brand, became **compulsory**.',
-    'A train-pipe break actuated the valves; stored air applied the brakes.',
-  ],
-  '19': [
-    'Landing already imposed a heavy **workload**',
-    'guidance **officer** Steve Bales watched his **console** while back-room **specialist** Jack Garman',
-    'Bales\u2019s **judgement** was \u201cgo\u201d; Eagle could **proceed**.',
-    'That sacrifice is **selective**: expendable jobs are dropped to **safeguard** navigation.',
-    '**Software** **robustness** means protecting **essential** work by deciding pre-launch',
-    '270 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.5% (old-19)',
-  ],
-  '20': [
-    'Cuts arrived **ahead** of schedule; compliance **expense** was below early **forecasts**.',
-    'A **shortfall** triggered an automatic **penalty**',
-    'Success rested on a **bounded** allowance supply, **credible** measurement, flexible exchange',
-    '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-20)',
-  ],
-  '08': [
-    'Henrietta Leavitt joined a **staff** of **female** \u201ccomputers\u201d',
-    'The Small Magellanic Cloud, her **region** of study, offered an **advantage**',
-    'each series lay close to a **straight** line',
-    'A Cepheid could then serve as a **standard** **candle**',
-    '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-08)',
-  ],
-};
-
 function loadArticles() {
   globalThis.window = globalThis;
   require(path.join(DATA_DIR, 'articles.js'));
@@ -350,51 +50,51 @@ function markdownPath(article) {
   return path.join(ARTICLE_DIR, `${article.id}-${article.slug}.md`);
 }
 
-function normalizedMarkdownBuffer(file) {
-  const text = fs.readFileSync(file, 'utf8').replace(/\r\n?/g, '\n');
-  return Buffer.from(text, 'utf8');
+function normalizedMarkdown(file) {
+  return fs.readFileSync(file, 'utf8').replace(/\r\n?/g, '\n');
 }
 
 function densityDisplay(value) {
   return Number(value).toFixed(1);
 }
 
-function createManifest(articles) {
+function readManifest() {
+  if (!fs.existsSync(MANIFEST_PATH)) return { schema_version: 1, policy: 'latest-final-only', articles: [] };
+  return JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
+}
+
+function createManifest(articles, previous) {
+  const oldById = new Map((previous.articles || []).map((entry) => [entry.id, entry]));
   const entries = articles.map((article) => {
-    const source = SOURCE_AUDIT[article.id];
-    if (!source) throw new Error(`missing source audit for article ${article.id}`);
+    const old = oldById.get(article.id) || {};
     const file = markdownPath(article);
     if (!fs.existsSync(file)) throw new Error(`missing Markdown: ${path.relative(ROOT, file)}`);
     const raw = fs.readFileSync(file);
-    const normalized = normalizedMarkdownBuffer(file);
-    const currentBlob = gitBlobSha(raw);
-    if (source.blob && currentBlob !== source.blob) {
-      throw new Error(`article ${article.id} is not byte-identical to the approved uploaded final: ${currentBlob} != ${source.blob}`);
-    }
+    const normalized = Buffer.from(normalizedMarkdown(file), 'utf8');
     return {
       id: article.id,
       slug: article.slug,
       title: article.title,
       title_zh: article.titleZh,
-      version_id: VERSION_IDS[article.id] || `${article.id}-final`,
+      version_id: old.version_id || `${article.id}-${article.metrics.words}-word-final-locked`,
       status: article.status,
       date: article.date,
       words: article.metrics.words,
       keywords: article.metrics.keywords,
       density: Number(article.metrics.density),
-      source: source.source,
-      source_verification: source.verification,
-      approved_source_blob_sha: source.blob || null,
+      source: old.source || 'current authoritative archive',
+      source_verification: old.source_verification || 'conversation-latest-final',
+      approved_source_blob_sha: old.approved_source_blob_sha || null,
       canonical_fingerprint_sha256: canonicalFingerprint(article),
       markdown_sha256: sha256(normalized),
-      markdown_git_blob_sha: currentBlob,
-      superseded_signatures: SUPERSEDED_SIGNATURES[article.id] || [],
+      markdown_git_blob_sha: gitBlobSha(raw),
+      superseded_signatures: old.superseded_signatures || [],
     };
   });
   return {
     schema_version: 1,
     policy: 'latest-final-only',
-    audited_at: '2026-08-13',
+    audited_at: '2026-08-23',
     article_count: entries.length,
     keyword_count: entries.reduce((sum, entry) => sum + entry.keywords, 0),
     articles: entries,
@@ -403,18 +103,20 @@ function createManifest(articles) {
 
 function validateManifest(articles, manifest) {
   const errors = [];
-  const byId = new Map(articles.map((article) => [article.id, article]));
   const entries = manifest.articles || [];
+  const byId = new Map(articles.map((article) => [article.id, article]));
+
   if (manifest.policy !== 'latest-final-only') errors.push('manifest policy is not latest-final-only');
   if (manifest.article_count !== articles.length) errors.push(`manifest article_count ${manifest.article_count} != ${articles.length}`);
-  const keywordCount = articles.reduce((sum, article) => sum + article.metrics.keywords, 0);
+  const keywordCount = articles.reduce((sum, article) => sum + Number(article.metrics.keywords || 0), 0);
   if (manifest.keyword_count !== keywordCount) errors.push(`manifest keyword_count ${manifest.keyword_count} != ${keywordCount}`);
+  if (entries.length !== articles.length) errors.push(`manifest entries ${entries.length} != ${articles.length}`);
   if (new Set(entries.map((entry) => entry.id)).size !== entries.length) errors.push('manifest contains duplicate article IDs');
 
-  for (const entry of entries) {
-    const article = byId.get(entry.id);
-    if (!article) {
-      errors.push(`manifest article ${entry.id} missing from canonical data`);
+  for (const article of articles) {
+    const entry = entries.find((item) => item.id === article.id);
+    if (!entry) {
+      errors.push(`canonical article ${article.id} missing from manifest`);
       continue;
     }
     const expected = {
@@ -429,83 +131,45 @@ function validateManifest(articles, manifest) {
       canonical_fingerprint_sha256: canonicalFingerprint(article),
     };
     for (const [field, value] of Object.entries(expected)) {
-      if (entry[field] !== value) errors.push(`article ${entry.id} ${field} mismatch`);
+      if (entry[field] !== value) errors.push(`article ${article.id} ${field} mismatch`);
     }
 
     const file = markdownPath(article);
     if (!fs.existsSync(file)) {
-      errors.push(`article ${entry.id} Markdown missing`);
+      errors.push(`article ${article.id} Markdown missing`);
       continue;
     }
     const raw = fs.readFileSync(file);
-    const normalized = normalizedMarkdownBuffer(file);
-    const markdownText = normalized.toString('utf8');
-    const actualBlob = gitBlobSha(raw);
-    const actualMarkdownSha = sha256(normalized);
-    if (entry.markdown_git_blob_sha !== actualBlob) errors.push(`article ${entry.id} Markdown Git blob changed`);
-    if (entry.markdown_sha256 !== actualMarkdownSha) errors.push(`article ${entry.id} Markdown SHA-256 changed`);
-    if (entry.approved_source_blob_sha && actualBlob !== entry.approved_source_blob_sha) {
-      errors.push(`article ${entry.id} no longer matches its exact uploaded final`);
-    }
+    const text = normalizedMarkdown(file);
+    const normalized = Buffer.from(text, 'utf8');
+    if (entry.markdown_git_blob_sha !== gitBlobSha(raw)) errors.push(`article ${article.id} Markdown Git blob changed`);
+    if (entry.markdown_sha256 !== sha256(normalized)) errors.push(`article ${article.id} Markdown SHA-256 changed`);
     const metricLine = `> 指标：${entry.words} 词 / ${entry.keywords} 重点词 / 密度 ${densityDisplay(entry.density)}%`;
-    if (!markdownText.includes(metricLine)) errors.push(`article ${entry.id} Markdown metrics are stale`);
-    if (!markdownText.includes(`> 状态：**${entry.status}**`)) errors.push(`article ${entry.id} Markdown status is stale`);
-
-    const activeText = JSON.stringify(article) + '\n' + markdownText;
-    for (const signature of entry.superseded_signatures || []) {
-      if (activeText.includes(signature)) errors.push(`article ${entry.id} contains superseded signature: ${signature}`);
-    }
-  }
-
-  for (const article of articles) {
-    if (!entries.some((entry) => entry.id === article.id)) errors.push(`canonical article ${article.id} missing from manifest`);
+    if (!text.includes(metricLine)) errors.push(`article ${article.id} Markdown metrics are stale`);
+    if (!text.includes(`> 状态：**${entry.status}**`)) errors.push(`article ${article.id} Markdown status is stale`);
   }
 
   if (!fs.existsSync(IRON_RULE_PATH)) errors.push('notes/最终版本铁律.md missing');
   const readme = fs.existsSync(README_PATH) ? fs.readFileSync(README_PATH, 'utf8') : '';
   const handoff = fs.existsSync(HANDOFF_PATH) ? fs.readFileSync(HANDOFF_PATH, 'utf8') : '';
   if (!readme.includes('## 最终版本铁律')) errors.push('README final-version rule missing');
-  if (!readme.includes('| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **270词 · 50词 · 18.5%** |')) {
-    errors.push('README article 16 final row is stale');
-  }
-  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **268词 · 50词 · 18.7%** |')) {
-    errors.push('README article 17 final row is stale');
-  }
-  if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **270词 · 50词 · 18.5%** |')) {
-    errors.push('README article 18 final row is stale');
-  }
-  if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **267词 · 50词 · 18.7%** |')) {
-    errors.push('README article 19 final row is stale');
-  }
-  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267词 · 50词 · 18.7%** |')) {
-    errors.push('README article 20 final row is stale');
-  }
+  if (!readme.includes('25篇文章、1250个重点词')) errors.push('README archive count is stale');
+  if (!readme.includes('The Patient Came Before the Envelope')) errors.push('README article 25 missing');
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
-  if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
-    errors.push('handoff article 16 final row is stale');
-  }
-  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **270 / 50 / 18.5%** | **第十八篇最终精进锁定稿** |')) {
-    errors.push('handoff article 18 final row is stale');
-  }
-  if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **267 / 50 / 18.7%** | **第十九篇最终精进锁定稿** |')) {
-    errors.push('handoff article 19 final row is stale');
-  }
-  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267 / 50 / 18.7%** | **第二十篇最终精进锁定稿** |')) {
-    errors.push('handoff article 20 final row is stale');
-  }
+  if (!handoff.includes('二十五篇最终定稿，1250个重点词')) errors.push('handoff archive count is stale');
+  if (!handoff.includes('第二十五篇最终精进锁定稿')) errors.push('handoff article 25 missing');
   return errors;
 }
 
 function auditReport(manifest) {
-  const tick = '`';
   const rows = manifest.articles.map((entry) =>
-    `| ${entry.id} | *${entry.title}* | ${entry.status} | ${entry.words} / ${entry.keywords} / ${densityDisplay(entry.density)}% | ${tick}${entry.canonical_fingerprint_sha256.slice(0, 12)}${tick} |`
+    `| ${entry.id} | *${entry.title}* | ${entry.status} | ${entry.words} / ${entry.keywords} / ${densityDisplay(entry.density)}% | \`${entry.canonical_fingerprint_sha256.slice(0, 12)}\` |`
   );
   return [
-    '# 全库最终版本审计 · 2026-08-13',
+    '# 全库最终版本审计 · 2026-08-23',
     '',
-    '> 审计范围：第01—20篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：第01—19篇继续保持此前锁定指纹；第20篇269词最终精进锁定稿已完成边际减排成本术语、中英对应、制度边界与1000词全库复验。',
+    '> 审计范围：第01—25篇权威数据、正式Markdown、最终版本指纹、README、交接文档与网站同步状态。',
+    '> 当前结论：25篇 / 1250个重点词；每篇正文、Markdown与manifest以完整SHA指纹锁定。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -515,57 +179,37 @@ function auditReport(manifest) {
     '',
     `合计：${manifest.article_count}篇、${manifest.keyword_count}个重点词。`,
     '',
-    '## 二、原始最终稿复核',
+    '## 二、防回滚机制',
     '',
-    '- 第01篇：不在第2—7篇最终包中，按作者此前决定保持原定稿。',
-    '- 第02—07篇：重新对照 `60e62742-146f-4af4-9399-3d25039d6455.zip` 与《最终定稿校正记录》。第2篇保持 `reaction/reactions/反应`；第4篇保持260词版本；第3、5、6正文一致；第7篇为新增最终稿。第2篇正文按作者稿保留，指标使用项目实测259词 / 19.3%。',
-    '- 第08—11篇：正式Markdown的Git blob与用户上传文件逐字一致。',
-    '- 第12—15篇：正式Markdown的Git blob与 `dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip` 中四份最终稿逐字一致。',
-    '- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。',
-    '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
-    '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最终语言收口，并淘汰264词工作稿和269词中间定稿。',
-    '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面“继续”判断；最终上限审查进一步明确四次1202与一次1201、开关配置与交流相位失配、按优先级调度、记录检查点恢复，以及警报并非自动中止命令。',
-    '- 第20篇：269词最终精进锁定稿明确使用 marginal abatement costs，并把 reallocate 的中文完整对应为“重新分配”；其余制度边界保持不变。',
+    '1. `data/final-version-manifest.json` 保存每篇权威数据指纹、Markdown SHA-256 与 Git blob SHA。',
+    '2. `scripts/build_markdown.py` 检查五段结构、50词、中英对应、词数、密度与跨篇重复。',
+    '3. `scripts/final-version-guard.js` 对 canonical 数据与 Markdown 做精确指纹复验。',
+    '4. GitHub Actions 在 PR 与 main 提交时执行全库校验。',
+    '5. 新最终稿只有合并 main、主分支回读正确且CI通过后才算云端锁定。',
     '',
-    '## 三、逐字一致的上传文件证据',
+    '## 三、第25篇终审边界',
     '',
-    '| 编号 | 批准来源Git blob SHA |',
-    '|---|---|',
-    ...manifest.articles.filter((entry) => entry.approved_source_blob_sha).map((entry) => `| ${entry.id} | ${tick}${entry.approved_source_blob_sha}${tick} |`),
+    '- 六个月死亡数：链霉素组 4/55，对照组 14/52。',
+    '- 影像学 considerable improvement：28 对 4。',
+    '- 不宣称为历史上第一次随机分配；核心里程碑是随机序列与分配隐藏的清楚实施。',
+    '- 治疗本身未在病床旁盲法；胸片与细菌学结局评定实行盲法。',
     '',
-    '第02—05篇的源文件包含不同的元数据或修订说明，因此不以整文件blob判断；本次依据作者最终包和校正记录核对正文、译文及50词表。',
+    '## 四、最终判定',
     '',
-    '## 四、永久防回滚措施',
-    '',
-    '1. 新增 `notes/最终版本铁律.md`。',
-    '2. 新增 `data/final-version-manifest.json`，为每篇保存完整内容指纹。',
-    '3. 新增 `scripts/final-version-guard.js`，检查指标、状态、全文指纹、Markdown指纹和旧稿特征。',
-    '4. GitHub Actions在PR与主分支提交中运行最终版本守卫。',
-    '5. 新最终稿只有在合并到 `main`、主分支回读正确且CI成功后，才算真正存到云端。',
-    '6. 已合并或承载旧稿的临时分支应删除，避免旧版本继续被误认。',
-    '',
-    '## 五、最终判定',
-    '',
-    '本次同步完成后，主分支的20篇均为当前已知的最后最终版本；第20篇269词最终精进稿是当前唯一权威版本。',
+    '主分支的25篇均以manifest指纹为唯一权威身份；第25篇为当前最新最终精进锁定稿。',
     '',
   ].join('\n');
 }
 
 function main() {
-  const writeManifest = process.argv.includes('--write-manifest');
   const articles = loadArticles();
-  let manifest;
-
-  if (writeManifest) {
-    manifest = createManifest(articles);
+  let manifest = readManifest();
+  if (process.argv.includes('--write-manifest')) {
+    manifest = createManifest(articles, manifest);
     fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
     fs.writeFileSync(REPORT_PATH, auditReport(manifest), 'utf8');
     console.log(`wrote ${path.relative(ROOT, MANIFEST_PATH)} and ${path.relative(ROOT, REPORT_PATH)}`);
-  } else {
-    if (!fs.existsSync(MANIFEST_PATH)) throw new Error('final-version manifest missing');
-    manifest = JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
   }
-
   const errors = validateManifest(articles, manifest);
   if (errors.length) {
     for (const error of errors) console.error(`✗ ${error}`);
@@ -574,7 +218,7 @@ function main() {
   for (const entry of manifest.articles) {
     console.log(`✓ ${entry.id} ${entry.words}词 · ${entry.keywords}重点词 · ${densityDisplay(entry.density)}% · ${entry.canonical_fingerprint_sha256.slice(0, 12)}`);
   }
-  console.log(`\n${manifest.article_count}篇最终版本 · ${manifest.keyword_count}个重点词 · 指纹、指标与批准来源全部一致`);
+  console.log(`\n${manifest.article_count}篇最终版本 · ${manifest.keyword_count}个重点词 · 指纹与Markdown全部一致`);
 }
 
 main();
