@@ -42,9 +42,21 @@ if u not in text: text=text.replace('</urlset>',u+'\n</urlset>')
 s.write_text(text,encoding='utf-8')
 
 g=ROOT/'scripts'/'final-version-guard.js'; text=g.read_text(encoding='utf-8')
+if "'26': { source:" not in text:
+    marker="\n};\n\nconst VERSION_IDS = {"
+    insert="\n  '26': { source: '2026-08-23第26篇CT主题最终终审锁定稿；经史实、技术术语、功劳边界与前1250词双层去重，并由仓库构建器验证26篇/1300词全部通过', verification: 'conversation-latest-final' },"
+    text=text.replace(marker,insert+marker,1)
+if "'26': '26-270-word-final-locked'" not in text:
+    text=text.replace("  '25': '25-270-word-final-locked',\n", "  '25': '25-270-word-final-locked',\n  '26': '26-270-word-final-locked',\n",1)
 text=text.replace("25篇文章、1250个重点词","26篇文章、1300个重点词")
 text=text.replace("二十五篇最终定稿，1250个重点词","二十六篇最终定稿，1300个重点词")
 text=text.replace("if (!readme.includes('The Patient Came Before the Envelope')) errors.push('README article 25 missing');","if (!readme.includes('The Patient Came Before the Envelope')) errors.push('README article 25 missing');\n  if (!readme.includes('The Image Arrived Two Days Later')) errors.push('README article 26 missing');")
 text=text.replace("if (!handoff.includes('第二十五篇最终精进锁定稿')) errors.push('handoff article 25 missing');","if (!handoff.includes('第二十五篇最终精进锁定稿')) errors.push('handoff article 25 missing');\n  if (!handoff.includes('第二十六篇最终精进锁定稿')) errors.push('handoff article 26 missing');")
 text=text.replace('第01—25篇','第01—26篇').replace('25篇 / 1250个重点词','26篇 / 1300个重点词').replace('主分支的25篇均以manifest指纹为唯一权威身份；第25篇为当前最新最终精进锁定稿。','主分支的26篇均以manifest指纹为唯一权威身份；第26篇为当前最新最终精进锁定稿。')
 g.write_text(text,encoding='utf-8')
+
+record=ROOT/'notes'/'第二十六篇入库记录_2026-08-23.md'
+record.write_text('''# 第二十六篇入库记录 · 2026-08-23\n\n- 标题：*The Image Arrived Two Days Later* / 《图像两天后才出现》\n- 状态：第二十六篇最终精进锁定稿\n- 指标：270词 / 50重点词 / 18.5%\n- 全库：26篇 / 1300重点词\n- 终审：修复全部跨篇词元与加粗表面形式冲突；最终仓库构建器输出“26 篇已生成 · 1300 个重点词 · 全部通过”。\n- 版本规则：正文、中文、50词表、Markdown、manifest、网站入口、README、交接文档和sitemap同步后方可合并main。\n''',encoding='utf-8')
+
+# One-shot synchronizer removes itself after producing the final state.
+Path(__file__).unlink()
