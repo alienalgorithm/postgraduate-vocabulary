@@ -1,6 +1,6 @@
 # 记词 · 考研词汇双语读本
 
-《经济学人》风格的双语科普短文，面向考研词汇学习。每篇自题材中挑出 50 个重点词，跨篇不重复（含同根）。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1000词索引。
+《经济学人》风格的双语科普短文，面向考研词汇学习。每篇自题材中挑出 50 个重点词，跨篇不重复（含同根）。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1300词索引。
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-23，共有 **25篇文章、1250个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-23，共有 **26篇文章、1300个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@
 | **23** | ***Its First Two Verdicts Were Denials*** | **1984—1987年杰弗里斯、DNA指纹与司法证据** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=its-first-two-verdicts-were-denials) · [Markdown](articles/23-its-first-two-verdicts-were-denials.md) |
 | **24** | ***The Change That Doubled the Load*** | **1981年堪萨斯城凯悦酒店天桥垮塌与一处未经复核的设计变更** | **263词 · 50词 · 19.0%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-change-that-doubled-the-load) · [Markdown](articles/24-the-change-that-doubled-the-load.md) |
 | **25** | ***The Patient Came Before the Envelope*** | **1947—1948年英国MRC链霉素肺结核试验、随机序列与分配隐藏** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-patient-came-before-the-envelope) · [Markdown](articles/25-the-patient-came-before-the-envelope.md) |
+| **26** | ***The Image Arrived Two Days Later*** | **1957—1979年Cormack、Hounsfield与计算机断层成像** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-image-arrived-two-days-later) · [Markdown](articles/26-the-image-arrived-two-days-later.md) |
 
 第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
 
