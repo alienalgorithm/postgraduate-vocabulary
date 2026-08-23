@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-13",
-  "article_count": 24,
-  "keyword_count": 1200,
+  "article_count": 25,
+  "keyword_count": 1250,
   "articles": [
     {
       "id": "01",
@@ -618,6 +618,25 @@
       "canonical_fingerprint_sha256": "6d7c59625609a497edb1f8545d01468f9205b61b13836f0aef2b923b2e76db62",
       "markdown_sha256": "161e02b3e74ba3fff8bed376b8251680eff9e15cd15f6e3cc3067d5889f764c8",
       "markdown_git_blob_sha": "231d074fa4f58f27a7f4413f00594a3aed5562a4",
+      "superseded_signatures": []
+    },
+    {
+      "id": "25",
+      "slug": "the-patient-came-before-the-envelope",
+      "title": "The Patient Came Before the Envelope",
+      "title_zh": "先定病人，再开信封",
+      "version_id": "25-270-word-final-locked",
+      "status": "第二十五篇最终精进锁定稿",
+      "date": "2026-08-23",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-08-23对话中经多轮史实核对与整体精修形成的270词最终精进锁定稿；修正六个月死亡数为4/55对14/52，并严格区分随机序列、分配隐藏与结局盲法",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "c334c9fb0293b19f42d269319565cfe7bce3096b15b0d6d7158ba0025212a35b",
+      "markdown_sha256": "f67a5b70431bbe731c6168e4dbd7ea59717966880da917e1eddc94efa83e5875",
+      "markdown_git_blob_sha": "b60df281068640b5c95f4a16ceb33fec1cfe54a8",
       "superseded_signatures": []
     }
   ]

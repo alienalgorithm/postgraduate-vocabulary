@@ -39,6 +39,7 @@ const SOURCE_AUDIT = {
   '23': { source: '2026-08-16按《第23篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿五轮→十一轮精修→对抗式审计六条全否决→合规分100的268词定稿', verification: 'conversation-latest-final' },
   '22': { source: '2026-08-16按《第22篇写作提示词》全流程新写：重读三篇正文→选题四条→词池→自然度复核→草稿七轮→十一轮精修→合规分100的270词定稿', verification: 'conversation-latest-final' },
   '21': { source: '2026-08-16按《第21篇写作提示词》全流程新写：重读范文→选题四条→词池→草稿复检→审读任务书→合规分100的270词定稿', verification: 'conversation-latest-final' },
+  '25': { source: '2026-08-23对话中经多轮史实核对与整体精修形成的270词最终精进锁定稿；修正六个月死亡数为4/55对14/52，并严格区分随机序列、分配隐藏与结局盲法', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -66,6 +67,8 @@ const VERSION_IDS = {
   '22': '22-270-word-final-locked',
   '23': '23-269-word-final-locked',
   '24': '24-263-word-final-locked',
+  '25': '25-270-word-final-locked',
+
 };
 
 const SUPERSEDED_SIGNATURES = {
@@ -504,7 +507,7 @@ function auditReport(manifest) {
   return [
     '# 全库最终版本审计 · 2026-08-13',
     '',
-    '> 审计范围：第01—20篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
+    '> 审计范围：第01—25篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
     '> 结论：第01—19篇继续保持此前锁定指纹；第20篇269词最终精进锁定稿已完成边际减排成本术语、中英对应、制度边界与1000词全库复验。',
     '',
     '## 一、逐篇锁定清单',
@@ -546,7 +549,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的20篇均为当前已知的最后最终版本；第20篇269词最终精进稿是当前唯一权威版本。',
+    '本次同步完成后，主分支的25篇均为当前已知的最后最终版本；第25篇270词最终精进锁定稿是当前最新权威版本。',
     '',
   ].join('\n');
 }
