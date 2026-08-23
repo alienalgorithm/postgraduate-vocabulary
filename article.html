@@ -1,112 +1,15 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <title>文章 · 记词</title>
-  <meta name="description" content="二十篇考研词汇双语科普文章的对照阅读、连线与挖空自测。">
-  <meta name="theme-color" content="#f5f1e8">
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="stylesheet" href="assets/site.css">
-  <script>
-    (function(){try{var t=localStorage.getItem('jici-theme');if(!t)t=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';document.documentElement.dataset.theme=t}catch(e){}})();
-  </script>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>文章 · 记词</title><meta name="description" content="二十五篇考研词汇双语科普文章的对照阅读、连线与挖空自测。"><meta name="theme-color" content="#f5f1e8">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="assets/site.css">
+  <script>(function(){try{var t=localStorage.getItem('jici-theme');if(!t)t=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';document.documentElement.dataset.theme=t}catch(e){}})();</script>
 </head>
 <body data-page="article">
-<a class="skip-link" href="#main">跳到正文</a>
-<div class="reading-progress" aria-hidden="true"><i id="readingProgress"></i></div>
-<header class="site-header" id="siteHeader">
-  <div class="shell header-inner">
-    <a class="brand" href="index.html" aria-label="记词首页">
-      <span class="brand-seal">记</span>
-      <span class="brand-copy"><b>记词</b><small>WORDS IN CONTEXT</small></span>
-    </a>
-    <nav class="main-nav" aria-label="主导航">
-      <a href="index.html" data-nav="index">文章</a>
-      <a href="words.html" data-nav="words">词库</a>
-      <a href="tools/%E5%8D%95%E8%AF%8D%E6%A3%80%E5%AF%9F%E5%AE%98v3.html">检察官</a>
-    </nav>
-    <button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="切换深浅主题"><span aria-hidden="true">◐</span></button>
-  </div>
-</header>
-
-<main id="main" class="article-main">
-  <header class="article-hero shell" id="articleHeader"></header>
-
-  <div class="reader-toolbar-wrap">
-    <div class="shell reader-toolbar" id="readerToolbar">
-      <div class="segmented" role="group" aria-label="阅读视图">
-        <button type="button" data-view="both" aria-pressed="true">双语</button>
-        <button type="button" data-view="en" aria-pressed="false">英文</button>
-        <button type="button" data-view="zh" aria-pressed="false">中文</button>
-      </div>
-      <button class="tool-button" type="button" data-toggle-source aria-pressed="true">词源</button>
-      <button class="tool-button" type="button" data-toggle-cloze aria-pressed="false">挖空</button>
-      <button class="tool-button" type="button" data-reset-cloze hidden>重置</button>
-      <label class="font-control">字号
-        <select data-font-size aria-label="正文字号">
-          <option value="small">小</option>
-          <option value="normal" selected>中</option>
-          <option value="large">大</option>
-        </select>
-      </label>
-      <button class="tool-button print-button" type="button" data-print>打印</button>
-    </div>
-  </div>
-
-  <div class="shell reader-layout">
-    <aside class="paragraph-rail" aria-label="段落导航">
-      <p class="eyebrow">PARAGRAPHS</p>
-      <nav id="paragraphNav"></nav>
-    </aside>
-    <div class="article-content">
-      <section class="bilingual-reader" id="pairs" aria-label="中英对照正文"></section>
-
-      <section class="content-section glossary-section" id="glossarySection">
-        <div class="content-heading">
-          <div><p class="eyebrow">VOCABULARY</p><h2>50词速查</h2></div>
-          <p>按正文段落分组。点击任一词，回到它第一次出现的位置。</p>
-        </div>
-        <div id="glossary"></div>
-      </section>
-
-      <section class="content-section facts-section" id="factsSection">
-        <div class="content-heading">
-          <div><p class="eyebrow">FACT CHECK</p><h2>史实核对</h2></div>
-          <p>正文中的关键事实、边界与可追溯来源。</p>
-        </div>
-        <div id="facts"></div>
-      </section>
-
-      <nav class="article-pager" id="articlePager" aria-label="上一篇与下一篇"></nav>
-    </div>
-  </div>
-</main>
-
-<footer class="site-footer">
-  <div class="shell footer-grid">
-    <div><b>记词</b><p>考研词汇双语科普读本</p></div>
-    <div class="footer-links"><a href="index.html">全部文章</a><a href="words.html">1000词索引</a></div>
-    <p class="footer-note">英文重点词与中文自然译法一一对应</p>
-  </div>
-</footer>
-
-<button class="back-top" type="button" data-back-top aria-label="返回顶部">↑</button>
-<script src="data/articles.js"></script>
-<script src="data/article-08.js"></script>
-<script src="data/article-09.js"></script>
-<script src="data/article-10.js"></script>
-<script src="data/article-11.js"></script>
-<script src="data/article-12.js"></script>
-<script src="data/article-13.js"></script>
-<script src="data/article-14.js"></script>
-<script src="data/article-15.js"></script>
-<script src="data/article-16.js"></script>
-<script src="data/article-17.js"></script>
-<script src="data/article-18.js"></script>
-<script src="data/article-19.js"></script>
-<script src="data/article-20.js"></script>
-<script src="assets/site.js"></script>
-</body>
-</html>
+<a class="skip-link" href="#main">跳到正文</a><div class="reading-progress" aria-hidden="true"><i id="readingProgress"></i></div>
+<header class="site-header" id="siteHeader"><div class="shell header-inner"><a class="brand" href="index.html" aria-label="记词首页"><span class="brand-seal">记</span><span class="brand-copy"><b>记词</b><small>WORDS IN CONTEXT</small></span></a><nav class="main-nav" aria-label="主导航"><a href="index.html" data-nav="index">文章</a><a href="words.html" data-nav="words">词库</a><a href="tools/%E5%8D%95%E8%AF%8D%E6%A3%80%E5%AF%9F%E5%AE%98v3.html">检察官</a></nav><button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="切换深浅主题"><span aria-hidden="true">◐</span></button></div></header>
+<main id="main" class="article-main"><header class="article-hero shell" id="articleHeader"></header><div class="reader-toolbar-wrap"><div class="shell reader-toolbar" id="readerToolbar"><div class="segmented" role="group" aria-label="阅读视图"><button type="button" data-view="both" aria-pressed="true">双语</button><button type="button" data-view="en" aria-pressed="false">英文</button><button type="button" data-view="zh" aria-pressed="false">中文</button></div><button class="tool-button" type="button" data-toggle-source aria-pressed="true">词源</button><button class="tool-button" type="button" data-toggle-cloze aria-pressed="false">挖空</button><button class="tool-button" type="button" data-reset-cloze hidden>重置</button><label class="font-control">字号<select data-font-size aria-label="正文字号"><option value="small">小</option><option value="normal" selected>中</option><option value="large">大</option></select></label><button class="tool-button print-button" type="button" data-print>打印</button></div></div><div class="shell reader-layout"><aside class="paragraph-rail" aria-label="段落导航"><p class="eyebrow">PARAGRAPHS</p><nav id="paragraphNav"></nav></aside><div class="article-content"><section class="bilingual-reader" id="pairs" aria-label="中英对照正文"></section><section class="content-section glossary-section" id="glossarySection"><div class="content-heading"><div><p class="eyebrow">VOCABULARY</p><h2>50词速查</h2></div><p>按正文段落分组。点击任一词，回到它第一次出现的位置。</p></div><div id="glossary"></div></section><section class="content-section facts-section" id="factsSection"><div class="content-heading"><div><p class="eyebrow">FACT CHECK</p><h2>史实核对</h2></div><p>正文中的关键事实、边界与可追溯来源。</p></div><div id="facts"></div></section><nav class="article-pager" id="articlePager" aria-label="上一篇与下一篇"></nav></div></div></main>
+<footer class="site-footer"><div class="shell footer-grid"><div><b>记词</b><p>考研词汇双语科普读本</p></div><div class="footer-links"><a href="index.html">全部文章</a><a href="words.html">1250词索引</a></div><p class="footer-note">英文重点词与中文自然译法一一对应</p></div></footer><button class="back-top" type="button" data-back-top aria-label="返回顶部">↑</button>
+<script src="data/articles.js"></script><script src="data/article-08.js"></script><script src="data/article-09.js"></script><script src="data/article-10.js"></script><script src="data/article-11.js"></script><script src="data/article-12.js"></script><script src="data/article-13.js"></script><script src="data/article-14.js"></script><script src="data/article-15.js"></script><script src="data/article-16.js"></script><script src="data/article-17.js"></script><script src="data/article-18.js"></script><script src="data/article-19.js"></script><script src="data/article-20.js"></script><script src="data/article-21.js"></script><script src="data/article-22.js"></script><script src="data/article-23.js"></script><script src="data/article-24.js"></script><script src="data/article-25.js"></script><script src="assets/site.js"></script>
+</body></html>
