@@ -77,7 +77,7 @@ jobs:
           node scripts/final-version-guard.js
           test -f data/final-version-manifest.json
           test -f notes/最终版本铁律.md
-          test -f notes/全库最终版本审计_2026-08-13.md
+          test -f notes/全库最终版本审计_2026-08-23.md
           test -f notes/第二十五篇入库记录_2026-08-23.md
           test -f notes/第二十六篇入库记录_2026-08-23.md
 
