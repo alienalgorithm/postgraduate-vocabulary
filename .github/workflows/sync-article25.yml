@@ -3,18 +3,19 @@ name: Sync article 25 final
 on:
   push:
     branches:
-      - article-25-final-release
+      - main
 
 permissions:
   contents: write
 
 jobs:
   sync:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
         with:
-          ref: article-25-final-release
+          ref: main
           fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
@@ -27,4 +28,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "release: lock article 25 and sync 25-article archive"
-          git push origin HEAD:article-25-final-release
+          git push origin HEAD:main
