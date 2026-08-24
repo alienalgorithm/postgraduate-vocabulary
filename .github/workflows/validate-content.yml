@@ -90,6 +90,9 @@ jobs:
           if [ -f data/article-29.js ]; then
             test -f notes/第二十九篇入库记录_2026-08-24.md
           fi
+          if [ -f data/article-30.js ]; then
+            test -f notes/第三十篇入库记录_2026-08-24.md
+          fi
 
       - name: Check JavaScript syntax
         shell: bash
@@ -164,14 +167,16 @@ jobs:
           if (article28) expected['28'] = { words: 270, keywords: 50, density: 18.5, status: '第二十八篇最终精进锁定稿' };
           const article29 = globalThis.SITE.ARTICLES.find(a => a.id === '29');
           if (article29) expected['29'] = { words: 270, keywords: 50, density: 18.5, status: '第二十九篇最终精进锁定稿' };
+          const article30 = globalThis.SITE.ARTICLES.find(a => a.id === '30');
+          if (article30) expected['30'] = { words: 271, keywords: 50, density: 18.5, status: '第三十篇最终精进锁定稿' };
           for (const [id, metrics] of Object.entries(expected)) {
             const article = globalThis.SITE.ARTICLES.find(item => item.id === id);
             if (!article) throw new Error(`article ${id} missing`);
             if (article.metrics.words !== metrics.words || article.metrics.keywords !== metrics.keywords || article.metrics.density !== metrics.density || article.status !== metrics.status) {
               throw new Error(`article ${id} final identity mismatch`);
             }
-            if (article.metrics.words < 240 || article.metrics.words > 271) throw new Error(`article ${id} word count outside allowed range`);
+            if (article.metrics.words < 249 || article.metrics.words > 271) throw new Error(`article ${id} word count outside allowed range`);
             if (article.paras.length !== 5 || article.glossary.length !== 50) throw new Error(`article ${id} structure mismatch`);
           }
-          console.log(`articles 16 to ${article29 ? '29' : article28 ? '28' : article27 ? '27' : '26'} latest final identities verified`);
+          console.log(`articles 16 to ${article30 ? '30' : article29 ? '29' : article28 ? '28' : article27 ? '27' : '26'} latest final identities verified`);
           NODE
