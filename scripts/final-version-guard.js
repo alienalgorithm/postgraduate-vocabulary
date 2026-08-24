@@ -42,7 +42,7 @@ const SOURCE_AUDIT = {
   '25': { source: '2026-08-23对话中经多轮史实核对与整体精修形成的270词最终精进锁定稿；修正六个月死亡数为4/55对14/52，并严格区分随机序列、分配隐藏与结局盲法', verification: 'conversation-latest-final' },
   '26': { source: '2026-08-23第26篇CT主题最终终审锁定稿；经史实、技术术语、功劳边界与前1250词双层去重，并由仓库构建器验证26篇/1300词全部通过', verification: 'conversation-latest-final' },
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
-  '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题最终精进锁定稿；经NASA与JPL权威来源复核、参考系机制与功劳边界审查、前1350词双层及同根去重，并由仓库构建器验证28篇/1400词全部通过', verification: 'conversation-latest-final' },
+  '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -73,7 +73,7 @@ const VERSION_IDS = {
   '25': '25-270-word-final-locked',
   '26': '26-270-word-final-locked',
   '27': '27-270-word-final-locked',
-  '28': '28-269-word-final-locked',
+  '28': '28-270-word-round-13-final-locked',
 
 };
 
@@ -321,6 +321,13 @@ const SUPERSEDED_SIGNATURES = {
     'A Cepheid could then serve as a **standard** **candle**',
     '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-08)',
   ],
+  '28': [
+    'Neptune posed a **propellant** problem',
+    'The manoeuvre had an older **pedigree**',
+    'Momentum changes hands',
+    "Voyager's **limitation** became an **asset** because its route itself supplied **propulsion**",
+    '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-28)',
+  ],
 };
 
 function loadArticles() {
@@ -489,6 +496,9 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267词 · 50词 · 18.7%** |')) {
     errors.push('README article 20 final row is stale');
   }
+  if (!readme.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **270词 · 50词 · 18.5%** |')) {
+    errors.push('README article 28 final row is stale');
+  }
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
   if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
     errors.push('handoff article 16 final row is stale');
@@ -502,6 +512,9 @@ function validateManifest(articles, manifest) {
   if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267 / 50 / 18.7%** | **第二十篇最终精进锁定稿** |')) {
     errors.push('handoff article 20 final row is stale');
   }
+  if (!handoff.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **270 / 50 / 18.5%** | **第二十八篇最终精进锁定稿** |')) {
+    errors.push('handoff article 28 final row is stale');
+  }
   return errors;
 }
 
@@ -514,7 +527,7 @@ function auditReport(manifest) {
     '# 全库最终版本审计 · 2026-08-24',
     '',
     '> 审计范围：第01—28篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：前27篇保持既有锁定身份；第28篇269词最终精进锁定稿已完成NASA/JPL史实核验、参考系机制审查、功劳边界处理与1400词全库复验。',
+    '> 结论：前27篇保持既有锁定身份；第28篇270词最终精进锁定稿已完成第13轮独立盲审、NASA/JPL史实复核、参考系机制收紧与1400词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -527,7 +540,7 @@ function auditReport(manifest) {
     '## 二、原始最终稿复核',
     '',
     '- 第01—27篇：继续以此前manifest中的完整内容指纹与Markdown指纹为权威身份；本次未重写既有文章。',
-    '- 第28篇：269词、50重点词、18.6%，五段各10词；6条史实核对均指向NASA、JPL或NTRS权威来源。',
+    '- 第28篇：270词、50重点词、18.5%，五段各10词；6条史实核对均指向NASA、JPL或NTRS权威来源。',
     '- 第28篇功劳边界：不把引力助推的发明强归于一人，只界定Michael Minovitch与Gary Flandro各自有来源支持的贡献。',
     '',
     '## 三、逐字一致的上传文件证据',
@@ -549,7 +562,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的28篇均为当前已知的最后最终版本；第28篇269词最终精进锁定稿是当前最新权威版本。',
+    '本次同步完成后，主分支的28篇均为当前已知的最后最终版本；第28篇270词第13轮独立盲审最终精进锁定稿是当前最新权威版本。',
     '',
   ].join('\n');
 }
