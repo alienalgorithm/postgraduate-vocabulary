@@ -1,6 +1,6 @@
 # 记词 · 考研词汇双语读本
 
-《经济学人》风格的双语科普短文，面向考研词汇学习。每篇自题材中挑出 50 个重点词，跨篇不重复（含同根）。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1350词索引。
+《经济学人》风格的双语科普短文，面向考研词汇学习。每篇自题材中挑出 50 个重点词，跨篇不重复（含同根）。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1400词索引。
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-23，共有 **27篇文章、1350个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-24，共有 **28篇文章、1400个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -59,10 +59,13 @@
 | **25** | ***The Patient Came Before the Envelope*** | **1947—1948年英国MRC链霉素肺结核试验、随机序列与分配隐藏** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-patient-came-before-the-envelope) · [Markdown](articles/25-the-patient-came-before-the-envelope.md) |
 | **26** | ***The Image Arrived Two Days Later*** | **1957—1979年Cormack、Hounsfield与计算机断层成像** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-image-arrived-two-days-later) · [Markdown](articles/26-the-image-arrived-two-days-later.md) |
 | **27** | ***The Cable Stretched Every Pulse*** | **1858年第一条跨大西洋电报电缆、Thomson、Whitehouse与长距离信号迟滞** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-cable-stretched-every-pulse) · [Markdown](articles/27-the-cable-stretched-every-pulse.md) |
+| **28** | ***The Route Became the Engine*** | **1961—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-route-became-the-engine) · [Markdown](articles/28-the-route-became-the-engine.md) |
 
-第20篇以269词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
+第28篇以269词最终精进锁定稿为准。正文把引力助推拆成两个参考系：在行星参考系中，远处的入射与出射速率相同，速度方向发生转动；在日心参考系中，叠加行星公转速度会改变探测器的动能。功劳边界不把“发明引力助推”强归于一人，而是分别界定Michael Minovitch的多行星弹道计算与Gary Flandro对外行星机会窗口的工作。结尾以Voyager 2的四次连续飞掠说明，路线本身可以成为推进系统的一部分。
 
-第19篇以270词最终精进锁定稿为准。最终上限审查进一步修复了警报显示语序与五次警报计数，明确雷达开关配置和交流相位失配共同产生虚假计数请求，并把执行程序写成按优先级调度、在无空闲工作区时重启并从记录检查点恢复。遥测判断和警报边界也被收紧：警报提供可供行动的信息，却不会自动命令中止。结尾以“系统可以过载而不崩溃”重新定义稳健性。
+第20篇以267词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
+
+第19篇以267词最终精进锁定稿为准。最终上限审查进一步修复了警报显示语序与五次警报计数，明确雷达开关配置和交流相位失配共同产生虚假计数请求，并把执行程序写成按优先级调度、在无空闲工作区时重启并从记录检查点恢复。遥测判断和警报边界也被收紧：警报提供可供行动的信息，却不会自动命令中止。结尾以“系统可以过载而不崩溃”重新定义稳健性。
 
 第18篇以270词最终精进锁定稿为准。新版把3.5 K明确写成额外天线温度，用 accounted for 代替过度绝对的 ruled out，消除第三段代词归属歧义，修正 corroborate 的搭配，并以“the sky would not go quiet”直接回扣标题。最终微调还把 `every seam` 收紧为 `the seams`，把 `black-body profile` 完整为 `black-body spectral profile`，并以 `every plausible local culprit` 避免过度绝对化。最终语言收口又把生硬的 `made a roost` 改为 `roosted`，恢复 `Nearby` 的空间衔接，并用 `that interpretation` 消除代词歧义；中文同步删去英文已不存在的“炽热”。文章仍严格区分1965年单波段结果、普林斯顿解释与COBE后续证据。
 
@@ -81,13 +84,13 @@
 
 ## 网站已完成的同步
 
-网站当前实际加载第01—20篇，并自动计算20篇、1000个重点词和1545个尚未使用词元。
+网站当前实际加载第01—28篇，并自动计算28篇、1400个重点词和平均篇幅。
 
 ### 首页
 
-- 自动统计文章数、重点词数、平均篇幅与剩余词量
-- 第20篇作为最新定稿专题展示
-- 二十篇文章卡片全部由数据层自动生成
+- 自动统计文章数、重点词数与平均篇幅
+- 第28篇作为最新定稿专题展示
+- 二十八篇文章卡片全部由数据层自动生成
 - 深浅主题、响应式排版和无障碍焦点状态
 
 ### 文章阅读器
@@ -101,7 +104,7 @@
 - 史实核对与来源分层展示
 - 上一篇／下一篇导航
 
-### 1000词词库
+### 1400词词库
 
 - 中英文实时搜索
 - 按文章筛选
@@ -116,19 +119,7 @@
 
 ```text
 data/articles.js      # 第01—07篇
-data/article-08.js    # 第08篇
-data/article-09.js    # 第09篇
-data/article-10.js    # 第10篇
-data/article-11.js    # 第11篇
-data/article-12.js    # 第12篇
-data/article-13.js    # 第13篇
-data/article-14.js    # 第14篇
-data/article-15.js    # 第15篇
-data/article-16.js    # 第16篇
-data/article-17.js    # 第17篇
-data/article-18.js    # 第18篇
-data/article-19.js    # 第19篇
-data/article-20.js    # 第20篇
+data/article-08.js—data/article-28.js    # 第08—28篇
 ```
 
 它们共同构成 `window.SITE.ARTICLES`。网站三个页面与Markdown生成脚本都加载同一数据层，因此不会出现“网页一版、Markdown另一版”。
@@ -146,7 +137,7 @@ python3 scripts/build_markdown.py
 - 校验词数、密度和20%红线
 - 检查文章编号、slug及跨篇精确重复
 
-仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套19篇全量校验，并检查数据脚本与网站入口。
+仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套28篇全量校验，并检查数据脚本、最终版本身份与网站入口。
 
 ---
 
@@ -155,7 +146,7 @@ python3 scripts/build_markdown.py
 ```text
 ├── index.html                 首页
 ├── article.html               双语阅读器
-├── words.html                 950词索引
+├── words.html                 1400词索引
 ├── 404.html
 ├── manifest.webmanifest
 ├── robots.txt
@@ -167,9 +158,9 @@ python3 scripts/build_markdown.py
 │   └── share-card.svg
 ├── data/
 │   ├── articles.js            第01—07篇
-│   └── article-08.js—article-19.js
+│   └── article-08.js—article-28.js
 ├── articles/
-│   └── 01—20 Markdown定稿
+│   └── 01—28 Markdown定稿
 ├── scripts/
 │   └── build_markdown.py
 ├── tools/
@@ -187,7 +178,8 @@ python3 scripts/build_markdown.py
     ├── 第十六篇入库记录_2026-08-12.md
     ├── 第十七篇入库记录_2026-08-12.md
     ├── 第十八篇入库记录_2026-08-13.md
-    └── 第十九篇入库记录_2026-08-13.md
+    ├── 第十九篇入库记录_2026-08-13.md
+    └── 第二十八篇入库记录_2026-08-24.md
 ```
 
 ---

@@ -9,7 +9,7 @@ const ROOT = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'data');
 const ARTICLE_DIR = path.join(ROOT, 'articles');
 const MANIFEST_PATH = path.join(DATA_DIR, 'final-version-manifest.json');
-const REPORT_PATH = path.join(ROOT, 'notes', '全库最终版本审计_2026-08-23.md');
+const REPORT_PATH = path.join(ROOT, 'notes', '全库最终版本审计_2026-08-24.md');
 const README_PATH = path.join(ROOT, 'README.md');
 const HANDOFF_PATH = path.join(ROOT, 'notes', '对话交接文档.md');
 const IRON_RULE_PATH = path.join(ROOT, 'notes', '最终版本铁律.md');
@@ -42,6 +42,7 @@ const SOURCE_AUDIT = {
   '25': { source: '2026-08-23对话中经多轮史实核对与整体精修形成的270词最终精进锁定稿；修正六个月死亡数为4/55对14/52，并严格区分随机序列、分配隐藏与结局盲法', verification: 'conversation-latest-final' },
   '26': { source: '2026-08-23第26篇CT主题最终终审锁定稿；经史实、技术术语、功劳边界与前1250词双层去重，并由仓库构建器验证26篇/1300词全部通过', verification: 'conversation-latest-final' },
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
+  '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题最终精进锁定稿；经NASA与JPL权威来源复核、参考系机制与功劳边界审查、前1350词双层及同根去重，并由仓库构建器验证28篇/1400词全部通过', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -72,6 +73,7 @@ const VERSION_IDS = {
   '25': '25-270-word-final-locked',
   '26': '26-270-word-final-locked',
   '27': '27-270-word-final-locked',
+  '28': '28-269-word-final-locked',
 
 };
 
@@ -401,7 +403,7 @@ function createManifest(articles) {
   return {
     schema_version: 1,
     policy: 'latest-final-only',
-    audited_at: '2026-08-23',
+    audited_at: '2026-08-24',
     article_count: entries.length,
     keyword_count: entries.reduce((sum, entry) => sum + entry.keywords, 0),
     articles: entries,
@@ -509,10 +511,10 @@ function auditReport(manifest) {
     `| ${entry.id} | *${entry.title}* | ${entry.status} | ${entry.words} / ${entry.keywords} / ${densityDisplay(entry.density)}% | ${tick}${entry.canonical_fingerprint_sha256.slice(0, 12)}${tick} |`
   );
   return [
-    '# 全库最终版本审计 · 2026-08-23',
+    '# 全库最终版本审计 · 2026-08-24',
     '',
-    '> 审计范围：第01—27篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：第01—19篇继续保持此前锁定指纹；第20篇269词最终精进锁定稿已完成边际减排成本术语、中英对应、制度边界与1000词全库复验。',
+    '> 审计范围：第01—28篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
+    '> 结论：前27篇保持既有锁定身份；第28篇269词最终精进锁定稿已完成NASA/JPL史实核验、参考系机制审查、功劳边界处理与1400词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -524,15 +526,9 @@ function auditReport(manifest) {
     '',
     '## 二、原始最终稿复核',
     '',
-    '- 第01篇：不在第2—7篇最终包中，按作者此前决定保持原定稿。',
-    '- 第02—07篇：重新对照 `60e62742-146f-4af4-9399-3d25039d6455.zip` 与《最终定稿校正记录》。第2篇保持 `reaction/reactions/反应`；第4篇保持260词版本；第3、5、6正文一致；第7篇为新增最终稿。第2篇正文按作者稿保留，指标使用项目实测259词 / 19.3%。',
-    '- 第08—11篇：正式Markdown的Git blob与用户上传文件逐字一致。',
-    '- 第12—15篇：正式Markdown的Git blob与 `dd6d1d8e-7405-4dab-a7fd-ffc0a177c3d2.zip` 中四份最终稿逐字一致。',
-    '- 第16篇：发现真实遗漏。对话中已经形成更强的263词版本，但主分支仍是264词版本；本次已完成替换并登记旧稿特征。',
-    '- 第17篇：268词最终精进稿已在PR #8进入主分支，本次复核保持不变。',
-    '- 第18篇：270词最终精进锁定稿完成语言、科学口径、结尾闭环与最终语言收口，并淘汰264词工作稿和269词中间定稿。',
-    '- 第19篇：270词最终精进锁定稿以阿波罗11号五次程序警报为叙事锚点，区分过载原因、优先级重启机制与地面“继续”判断；最终上限审查进一步明确四次1202与一次1201、开关配置与交流相位失配、按优先级调度、记录检查点恢复，以及警报并非自动中止命令。',
-    '- 第20篇：269词最终精进锁定稿明确使用 marginal abatement costs，并把 reallocate 的中文完整对应为“重新分配”；其余制度边界保持不变。',
+    '- 第01—27篇：继续以此前manifest中的完整内容指纹与Markdown指纹为权威身份；本次未重写既有文章。',
+    '- 第28篇：269词、50重点词、18.6%，五段各10词；6条史实核对均指向NASA、JPL或NTRS权威来源。',
+    '- 第28篇功劳边界：不把引力助推的发明强归于一人，只界定Michael Minovitch与Gary Flandro各自有来源支持的贡献。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',
@@ -540,7 +536,7 @@ function auditReport(manifest) {
     '|---|---|',
     ...manifest.articles.filter((entry) => entry.approved_source_blob_sha).map((entry) => `| ${entry.id} | ${tick}${entry.approved_source_blob_sha}${tick} |`),
     '',
-    '第02—05篇的源文件包含不同的元数据或修订说明，因此不以整文件blob判断；本次依据作者最终包和校正记录核对正文、译文及50词表。',
+    '没有批准来源blob的文章以完整规范化内容指纹、Markdown指纹、来源说明和最终版本守卫共同锁定。',
     '',
     '## 四、永久防回滚措施',
     '',
@@ -553,7 +549,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的27篇均为当前已知的最后最终版本；第27篇270词最终精进锁定稿是当前最新权威版本。',
+    '本次同步完成后，主分支的28篇均为当前已知的最后最终版本；第28篇269词最终精进锁定稿是当前最新权威版本。',
     '',
   ].join('\n');
 }
