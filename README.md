@@ -59,9 +59,9 @@
 | **25** | ***The Patient Came Before the Envelope*** | **1947—1948年英国MRC链霉素肺结核试验、随机序列与分配隐藏** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-patient-came-before-the-envelope) · [Markdown](articles/25-the-patient-came-before-the-envelope.md) |
 | **26** | ***The Image Arrived Two Days Later*** | **1957—1979年Cormack、Hounsfield与计算机断层成像** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-image-arrived-two-days-later) · [Markdown](articles/26-the-image-arrived-two-days-later.md) |
 | **27** | ***The Cable Stretched Every Pulse*** | **1858年第一条跨大西洋电报电缆、Thomson、Whitehouse与长距离信号迟滞** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-cable-stretched-every-pulse) · [Markdown](articles/27-the-cable-stretched-every-pulse.md) |
-| **28** | ***The Route Became the Engine*** | **1961—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-route-became-the-engine) · [Markdown](articles/28-the-route-became-the-engine.md) |
+| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-route-became-the-engine) · [Markdown](articles/28-the-route-became-the-engine.md) |
 
-第28篇以269词最终精进锁定稿为准。正文把引力助推拆成两个参考系：在行星参考系中，远处的入射与出射速率相同，速度方向发生转动；在日心参考系中，叠加行星公转速度会改变探测器的动能。功劳边界不把“发明引力助推”强归于一人，而是分别界定Michael Minovitch的多行星弹道计算与Gary Flandro对外行星机会窗口的工作。结尾以Voyager 2的四次连续飞掠说明，路线本身可以成为推进系统的一部分。
+第28篇以270词最终精进锁定稿为准。第13轮独立盲审把推进剂与飞行时间拆成并列约束，将行星参考系的速度矢量偏转与日心参考系的动能变化写成更严格的机制链，并把“限制变成资产”收紧为“限制仍在，路线补充火箭推进”。功劳边界仍不把“发明引力助推”强归于一人，而只界定Michael Minovitch的多行星弹道计算与Gary Flandro对外行星机会窗口的工作。
 
 第20篇以267词最终精进锁定稿为准。终审彻底区分了 `allowance` 与一般意义上的 `permit`，把额度缺口明确写成自动处罚并用未来额度弥补，将铁路承运商竞争限定为运输成本来源，并以 `statutory / marginal / reallocate` 三个更准确的词收紧制度结论：法律先设法定总量，交易只重新配置许可并暴露相对边际成本。
 
