@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-23",
-  "article_count": 26,
-  "keyword_count": 1300,
+  "article_count": 27,
+  "keyword_count": 1350,
   "articles": [
     {
       "id": "01",
@@ -656,6 +656,25 @@
       "canonical_fingerprint_sha256": "8e0bf6adcbe1583ff263991816baabd26141f6ef3f3f800562363061ea9e1ee8",
       "markdown_sha256": "771d69578d314493ba0f5d34659f1d36a6db3ea2e445023d45f417c6692d143d",
       "markdown_git_blob_sha": "a79add6af33f51817243bb7366d8c3989457ac18",
+      "superseded_signatures": []
+    },
+    {
+      "id": "27",
+      "slug": "the-cable-stretched-every-pulse",
+      "title": "The Cable Stretched Every Pulse",
+      "title_zh": "电缆把每个脉冲都拉长了",
+      "version_id": "27-270-word-final-locked",
+      "status": "第二十七篇最终精进锁定稿",
+      "date": "2026-08-23",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "1a6d77492146d85d055b8b52d9fe10992116e4a3bf660f308049b82466b11b1d",
+      "markdown_sha256": "f7fcc228425aedecb11f63816b4a3d45c4820f6f1193138e6f4943c393af9f8c",
+      "markdown_git_blob_sha": "ac78fc074319c2b06e83c3af47f5ac3dc1320439",
       "superseded_signatures": []
     }
   ]
