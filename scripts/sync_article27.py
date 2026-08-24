@@ -2,6 +2,7 @@
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+# One-shot release synchronizer for the locked Article 27 publication.
 
 
 def rw(path, pairs):
