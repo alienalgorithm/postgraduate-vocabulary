@@ -41,6 +41,7 @@ const SOURCE_AUDIT = {
   '21': { source: '2026-08-16按《第21篇写作提示词》全流程新写：重读范文→选题四条→词池→草稿复检→审读任务书→合规分100的270词定稿', verification: 'conversation-latest-final' },
   '25': { source: '2026-08-23对话中经多轮史实核对与整体精修形成的270词最终精进锁定稿；修正六个月死亡数为4/55对14/52，并严格区分随机序列、分配隐藏与结局盲法', verification: 'conversation-latest-final' },
   '26': { source: '2026-08-23第26篇CT主题最终终审锁定稿；经史实、技术术语、功劳边界与前1250词双层去重，并由仓库构建器验证26篇/1300词全部通过', verification: 'conversation-latest-final' },
+  '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -70,6 +71,7 @@ const VERSION_IDS = {
   '24': '24-263-word-final-locked',
   '25': '25-270-word-final-locked',
   '26': '26-270-word-final-locked',
+  '27': '27-270-word-final-locked',
 
 };
 
@@ -509,7 +511,7 @@ function auditReport(manifest) {
   return [
     '# 全库最终版本审计 · 2026-08-23',
     '',
-    '> 审计范围：第01—26篇的权威数据、正式Markdown、用户上传最终稿、最终校正记录、README、交接文档和主分支校验。',
+    '> 审计范围：第01—27篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
     '> 结论：第01—19篇继续保持此前锁定指纹；第20篇269词最终精进锁定稿已完成边际减排成本术语、中英对应、制度边界与1000词全库复验。',
     '',
     '## 一、逐篇锁定清单',
@@ -551,7 +553,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的25篇均为当前已知的最后最终版本；第25篇270词最终精进锁定稿是当前最新权威版本。',
+    '本次同步完成后，主分支的27篇均为当前已知的最后最终版本；第27篇270词最终精进锁定稿是当前最新权威版本。',
     '',
   ].join('\n');
 }
