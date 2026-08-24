@@ -67,7 +67,8 @@ jobs:
 
       - name: Word Inspector v4 quality report
         run: |
-          pip install wordfreq --quiet || true
+          pip install wordfreq --quiet
+          python3 scripts/test_tools.py
           python3 scripts/inspector.py | tail -35
 
       - name: Enforce the latest final version of every article
@@ -77,11 +78,14 @@ jobs:
           node scripts/final-version-guard.js
           test -f data/final-version-manifest.json
           test -f notes/最终版本铁律.md
-          test -f notes/全库最终版本审计_2026-08-23.md
+          test -f notes/全库最终版本审计_2026-08-24.md
           test -f notes/第二十五篇入库记录_2026-08-23.md
           test -f notes/第二十六篇入库记录_2026-08-23.md
           if [ -f data/article-27.js ]; then
             test -f notes/第二十七篇入库记录_2026-08-23.md
+          fi
+          if [ -f data/article-28.js ]; then
+            test -f notes/第二十八篇入库记录_2026-08-24.md
           fi
 
       - name: Check JavaScript syntax
@@ -153,6 +157,8 @@ jobs:
           };
           const article27 = globalThis.SITE.ARTICLES.find(a => a.id === '27');
           if (article27) expected['27'] = { words: 270, keywords: 50, density: 18.5, status: '第二十七篇最终精进锁定稿' };
+          const article28 = globalThis.SITE.ARTICLES.find(a => a.id === '28');
+          if (article28) expected['28'] = { words: 269, keywords: 50, density: 18.6, status: '第二十八篇最终精进锁定稿' };
           for (const [id, metrics] of Object.entries(expected)) {
             const article = globalThis.SITE.ARTICLES.find(item => item.id === id);
             if (!article) throw new Error(`article ${id} missing`);
@@ -162,5 +168,5 @@ jobs:
             if (article.metrics.words < 240 || article.metrics.words > 271) throw new Error(`article ${id} word count outside allowed range`);
             if (article.paras.length !== 5 || article.glossary.length !== 50) throw new Error(`article ${id} structure mismatch`);
           }
-          console.log(`articles 16 to ${article27 ? '27' : '26'} latest final identities verified`);
+          console.log(`articles 16 to ${article28 ? '28' : article27 ? '27' : '26'} latest final identities verified`);
           NODE
