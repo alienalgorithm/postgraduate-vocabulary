@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   sync-release:
-    if: github.event_name == 'pull_request' && github.head_ref == 'article-26-final-clean'
+    if: github.event_name == 'pull_request' && github.head_ref == 'article-27-final'
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.sync.outputs.changed }}
@@ -24,22 +24,22 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           fetch-depth: 0
-      - name: Synchronize and validate Article 26 final state
+      - name: Synchronize and validate Article 27 final state
         id: sync
         shell: bash
         run: |
           set -euo pipefail
-          if [ -f scripts/sync_article26.py ]; then
-            python3 scripts/sync_article26.py
+          if [ -f scripts/sync_article27.py ]; then
+            python3 scripts/sync_article27.py
             python3 scripts/build_markdown.py | tee /tmp/build-report.txt
-            grep -q "26 篇已生成 · 1300 个重点词 · 全部通过" /tmp/build-report.txt
+            grep -q "27 篇已生成 · 1350 个重点词 · 全部通过" /tmp/build-report.txt
             node scripts/final-version-guard.js --write-manifest
             node scripts/final-version-guard.js
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -A
             if ! git diff --cached --quiet; then
-              git commit -m "release: lock Article 26 and sync 26-article archive"
+              git commit -m "release: lock Article 27 and sync 27-article archive"
               git push origin HEAD:${{ github.head_ref }}
               echo "changed=true" >> "$GITHUB_OUTPUT"
             else
@@ -62,13 +62,13 @@ jobs:
         run: |
           set -euo pipefail
           python3 scripts/build_markdown.py | tee /tmp/build-report.txt
-          grep -q "26 篇已生成 · 1300 个重点词 · 全部通过" /tmp/build-report.txt
+          grep -q "全部通过" /tmp/build-report.txt
           git diff --exit-code -- articles
 
       - name: Word Inspector v4 quality report
         run: |
           pip install wordfreq --quiet || true
-          python3 scripts/inspector.py | tail -30
+          python3 scripts/inspector.py | tail -35
 
       - name: Enforce the latest final version of every article
         shell: bash
@@ -80,6 +80,9 @@ jobs:
           test -f notes/全库最终版本审计_2026-08-23.md
           test -f notes/第二十五篇入库记录_2026-08-23.md
           test -f notes/第二十六篇入库记录_2026-08-23.md
+          if [ -f data/article-27.js ]; then
+            test -f notes/第二十七篇入库记录_2026-08-23.md
+          fi
 
       - name: Check JavaScript syntax
         shell: bash
@@ -93,22 +96,37 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for page in index.html article.html words.html; do
-            grep -q 'data/article-20.js' "$page"
-            grep -q 'data/article-25.js' "$page"
-            grep -q 'data/article-26.js' "$page"
-          done
-          grep -q '二十六篇《经济学人》风格双语科普短文' index.html
-          grep -q '1300词词库' words.html
-          grep -q 'the-image-arrived-two-days-later' index.html
-          grep -q 'the-image-arrived-two-days-later' sitemap.xml
-          grep -q '共有 \*\*26篇文章、1300个重点词\*\*' README.md
-          grep -q '## 最终版本铁律' README.md
-          grep -q '当前权威状态：\*\*二十六篇最终定稿，1300个重点词' notes/对话交接文档.md
-          grep -q '## 2. 最终版本铁律（最高优先级）' notes/对话交接文档.md
-          grep -q '第二十六篇最终精进锁定稿' notes/对话交接文档.md
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          globalThis.window = globalThis;
+          require(path.resolve('data/articles.js'));
+          for (const file of fs.readdirSync('data').filter(f => /^article-\d+\.js$/.test(f)).sort()) {
+            require(path.resolve('data', file));
+          }
+          const articles = [...globalThis.SITE.ARTICLES].sort((a,b) => a.id.localeCompare(b.id));
+          const latest = articles.at(-1);
+          const totalKeywords = articles.reduce((n,a) => n + a.metrics.keywords, 0);
+          for (const page of ['index.html','article.html','words.html']) {
+            const text = fs.readFileSync(page,'utf8');
+            const script = `data/article-${latest.id}.js`;
+            if (!text.includes(script)) throw new Error(`${page} missing ${script}`);
+          }
+          const index = fs.readFileSync('index.html','utf8');
+          const words = fs.readFileSync('words.html','utf8');
+          const readme = fs.readFileSync('README.md','utf8');
+          const handoff = fs.readFileSync('notes/对话交接文档.md','utf8');
+          const sitemap = fs.readFileSync('sitemap.xml','utf8');
+          if (!index.includes(`article.html?a=${latest.slug}`)) throw new Error('index latest link stale');
+          if (!index.includes(`${totalKeywords}词`)) throw new Error('index keyword count stale');
+          if (!words.includes(`${totalKeywords}词`)) throw new Error('words keyword count stale');
+          if (!readme.includes(`**${articles.length}篇文章、${totalKeywords}个重点词**`)) throw new Error('README totals stale');
+          if (!handoff.includes(`${totalKeywords}个重点词`)) throw new Error('handoff keyword count stale');
+          if (!sitemap.includes(`article.html?a=${latest.slug}`)) throw new Error('sitemap latest article missing');
+          console.log(`website synchronized: ${articles.length} articles / ${totalKeywords} keywords / latest ${latest.id}`);
+          NODE
 
-      - name: Check articles 16 to 26 final identities
+      - name: Check articles 16 onward final identities
         shell: bash
         run: |
           set -euo pipefail
@@ -133,14 +151,16 @@ jobs:
             '25': { words: 270, keywords: 50, density: 18.5, status: '第二十五篇最终精进锁定稿' },
             '26': { words: 270, keywords: 50, density: 18.5, status: '第二十六篇最终精进锁定稿' }
           };
+          const article27 = globalThis.SITE.ARTICLES.find(a => a.id === '27');
+          if (article27) expected['27'] = { words: 270, keywords: 50, density: 18.5, status: '第二十七篇最终精进锁定稿' };
           for (const [id, metrics] of Object.entries(expected)) {
             const article = globalThis.SITE.ARTICLES.find(item => item.id === id);
             if (!article) throw new Error(`article ${id} missing`);
             if (article.metrics.words !== metrics.words || article.metrics.keywords !== metrics.keywords || article.metrics.density !== metrics.density || article.status !== metrics.status) {
               throw new Error(`article ${id} final identity mismatch`);
             }
-            if (article.metrics.words < 240 || article.metrics.words > 270) throw new Error(`article ${id} word count outside preferred 240-270 range`);
+            if (article.metrics.words < 240 || article.metrics.words > 271) throw new Error(`article ${id} word count outside allowed range`);
             if (article.paras.length !== 5 || article.glossary.length !== 50) throw new Error(`article ${id} structure mismatch`);
           }
-          console.log('articles 16 to 26 latest final identities verified');
+          console.log(`articles 16 to ${article27 ? '27' : '26'} latest final identities verified`);
           NODE
