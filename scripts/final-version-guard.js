@@ -43,7 +43,7 @@ const SOURCE_AUDIT = {
   '26': { source: '2026-08-23第26篇CT主题最终终审锁定稿；经史实、技术术语、功劳边界与前1250词双层去重，并由仓库构建器验证26篇/1300词全部通过', verification: 'conversation-latest-final' },
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
-  '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、机制和功劳边界终审、13轮精修、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -75,7 +75,7 @@ const VERSION_IDS = {
   '26': '26-270-word-final-locked',
   '27': '27-270-word-final-locked',
   '28': '28-270-word-round-13-final-locked',
-  '29': '29-270-word-round-13-final-locked',
+  '29': '29-270-word-round-14-final-locked',
 
 };
 
@@ -330,6 +330,17 @@ const SUPERSEDED_SIGNATURES = {
     "Voyager's **limitation** became an **asset** because its route itself supplied **propulsion**",
     '269 \u8bcd / 50 \u91cd\u70b9\u8bcd / \u5bc6\u5ea6 18.6% (old-28)',
   ],
+  '29': [
+    'Godin de Lépinay instead proposed **dams** and **locks**',
+    '18-foot **culverts**',
+    'When the chamber reached the next water level, the gate opened.',
+    'Scale made that cycle **formidable**.',
+    '**staircase** carried a price',
+    'lake **freshwater**',
+    '当闸室达到下一级水位时',
+    '抬高的航道',
+    '工作水体',
+  ],
 };
 
 function loadArticles() {
@@ -535,7 +546,7 @@ function auditReport(manifest) {
     '# 全库最终版本审计 · 2026-08-24',
     '',
     '> 审计范围：第01—29篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：前28篇保持既有锁定身份；第29篇270词最终精进锁定稿已完成13轮精修、巴拿马运河管理局与美国国务院史实复核、重力船闸机制收紧与1450词全库复验。',
+    '> 结论：前28篇保持既有锁定身份；第29篇270词最终精进锁定稿已完成14轮精修、巴拿马运河管理局与美国国务院史实复核、涵洞口径与开闸方向收紧及1450词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -570,7 +581,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的29篇均为当前已知的最后最终版本；第29篇270词第13轮最终精进锁定稿是当前最新权威版本。',
+    '本次同步完成后，主分支的29篇均为当前已知的最后最终版本；第29篇270词第14轮最终精进锁定稿是当前最新权威版本。',
     '',
   ].join('\n');
 }

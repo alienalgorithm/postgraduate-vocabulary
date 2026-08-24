@@ -62,7 +62,7 @@
 | **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-route-became-the-engine) · [Markdown](articles/28-the-route-became-the-engine.md) |
 | **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-ships-climbed-on-rainwater) · [Markdown](articles/29-the-ships-climbed-on-rainwater.md) |
 
-第29篇以270词最终精进锁定稿为准。正文没有把巴拿马运河写成一条单纯“挖穿”的水沟，而是依次说明海平面方案为何失败、加通湖怎样把26米高差变成资源、重力如何经18英尺涵洞和100个底孔抬船，以及传统通航约消耗5200万加仑淡水的水文代价。功劳边界分别保留Godin de Lépinay、John Stevens与Hodges、Schildhauer、Goldmark的有据贡献，不把发明或设计强归于一人。
+第29篇以270词第14轮最终精进锁定稿为准。正文没有把巴拿马运河写成一条单纯“挖穿”的水沟，而是依次说明海平面方案为何失败、加通湖怎样把26米高差变成资源、重力如何经直径18英尺的涵洞和100个底孔抬船、水位齐平后为何才可开闸，以及传统通航约消耗5200万加仑淡水的水文代价。功劳边界分别保留Godin de Lépinay、John Stevens与Hodges、Schildhauer、Goldmark的有据贡献，不把发明或设计强归于一人。
 
 第28篇以270词最终精进锁定稿为准。第13轮独立盲审把推进剂与飞行时间拆成并列约束，将行星参考系的速度矢量偏转与日心参考系的动能变化写成更严格的机制链，并把“限制变成资产”收紧为“限制仍在，路线补充火箭推进”。功劳边界仍不把“发明引力助推”强归于一人，而只界定Michael Minovitch的多行星弹道计算与Gary Flandro对外行星机会窗口的工作。
 
