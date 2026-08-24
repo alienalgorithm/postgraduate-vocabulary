@@ -87,6 +87,9 @@ jobs:
           if [ -f data/article-28.js ]; then
             test -f notes/第二十八篇入库记录_2026-08-24.md
           fi
+          if [ -f data/article-29.js ]; then
+            test -f notes/第二十九篇入库记录_2026-08-24.md
+          fi
 
       - name: Check JavaScript syntax
         shell: bash
@@ -159,6 +162,8 @@ jobs:
           if (article27) expected['27'] = { words: 270, keywords: 50, density: 18.5, status: '第二十七篇最终精进锁定稿' };
           const article28 = globalThis.SITE.ARTICLES.find(a => a.id === '28');
           if (article28) expected['28'] = { words: 270, keywords: 50, density: 18.5, status: '第二十八篇最终精进锁定稿' };
+          const article29 = globalThis.SITE.ARTICLES.find(a => a.id === '29');
+          if (article29) expected['29'] = { words: 270, keywords: 50, density: 18.5, status: '第二十九篇最终精进锁定稿' };
           for (const [id, metrics] of Object.entries(expected)) {
             const article = globalThis.SITE.ARTICLES.find(item => item.id === id);
             if (!article) throw new Error(`article ${id} missing`);
@@ -168,5 +173,5 @@ jobs:
             if (article.metrics.words < 240 || article.metrics.words > 271) throw new Error(`article ${id} word count outside allowed range`);
             if (article.paras.length !== 5 || article.glossary.length !== 50) throw new Error(`article ${id} structure mismatch`);
           }
-          console.log(`articles 16 to ${article28 ? '28' : article27 ? '27' : '26'} latest final identities verified`);
+          console.log(`articles 16 to ${article29 ? '29' : article28 ? '28' : article27 ? '27' : '26'} latest final identities verified`);
           NODE
