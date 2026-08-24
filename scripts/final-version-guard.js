@@ -43,6 +43,7 @@ const SOURCE_AUDIT = {
   '26': { source: '2026-08-23第26篇CT主题最终终审锁定稿；经史实、技术术语、功劳边界与前1250词双层去重，并由仓库构建器验证26篇/1300词全部通过', verification: 'conversation-latest-final' },
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
+  '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、机制和功劳边界终审、13轮精修、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -74,6 +75,7 @@ const VERSION_IDS = {
   '26': '26-270-word-final-locked',
   '27': '27-270-word-final-locked',
   '28': '28-270-word-round-13-final-locked',
+  '29': '29-270-word-round-13-final-locked',
 
 };
 
@@ -499,6 +501,9 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **270词 · 50词 · 18.5%** |')) {
     errors.push('README article 28 final row is stale');
   }
+  if (!readme.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **270词 · 50词 · 18.5%** |')) {
+    errors.push('README article 29 final row is stale');
+  }
   if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
   if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
     errors.push('handoff article 16 final row is stale');
@@ -515,6 +520,9 @@ function validateManifest(articles, manifest) {
   if (!handoff.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **270 / 50 / 18.5%** | **第二十八篇最终精进锁定稿** |')) {
     errors.push('handoff article 28 final row is stale');
   }
+  if (!handoff.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **270 / 50 / 18.5%** | **第二十九篇最终精进锁定稿** |')) {
+    errors.push('handoff article 29 final row is stale');
+  }
   return errors;
 }
 
@@ -526,8 +534,8 @@ function auditReport(manifest) {
   return [
     '# 全库最终版本审计 · 2026-08-24',
     '',
-    '> 审计范围：第01—28篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：前27篇保持既有锁定身份；第28篇270词最终精进锁定稿已完成第13轮独立盲审、NASA/JPL史实复核、参考系机制收紧与1400词全库复验。',
+    '> 审计范围：第01—29篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
+    '> 结论：前28篇保持既有锁定身份；第29篇270词最终精进锁定稿已完成13轮精修、巴拿马运河管理局与美国国务院史实复核、重力船闸机制收紧与1450词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -539,9 +547,9 @@ function auditReport(manifest) {
     '',
     '## 二、原始最终稿复核',
     '',
-    '- 第01—27篇：继续以此前manifest中的完整内容指纹与Markdown指纹为权威身份；本次未重写既有文章。',
-    '- 第28篇：270词、50重点词、18.5%，五段各10词；6条史实核对均指向NASA、JPL或NTRS权威来源。',
-    '- 第28篇功劳边界：不把引力助推的发明强归于一人，只界定Michael Minovitch与Gary Flandro各自有来源支持的贡献。',
+    '- 第01—28篇：继续以此前manifest中的完整内容指纹与Markdown指纹为权威身份；本次未重写既有文章。',
+    '- 第29篇：270词、50重点词、18.5%，五段各10词；6条史实核对均指向巴拿马运河管理局或美国国务院权威来源。',
+    '- 第29篇功劳边界：区分Godin de Lépinay的早期船闸方案、John Stevens推动参议院选择船闸方案，以及Hodges、Schildhauer、Goldmark的船闸设计责任。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',
@@ -562,7 +570,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的28篇均为当前已知的最后最终版本；第28篇270词第13轮独立盲审最终精进锁定稿是当前最新权威版本。',
+    '本次同步完成后，主分支的29篇均为当前已知的最后最终版本；第29篇270词第13轮最终精进锁定稿是当前最新权威版本。',
     '',
   ].join('\n');
 }
