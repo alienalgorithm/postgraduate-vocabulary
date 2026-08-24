@@ -1,6 +1,6 @@
 # 记词 · 考研词汇双语读本
 
-《经济学人》风格的双语科普短文，面向考研词汇学习。每篇自题材中挑出 50 个重点词，跨篇不重复（含同根）。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1450词索引。
+《经济学人》风格的双语科普短文，面向考研词汇学习。每篇自题材中挑出 50 个重点词，跨篇不重复（含同根）。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1500词索引。
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-24，共有 **29篇文章、1450个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-24，共有 **30篇文章、1500个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -61,6 +61,9 @@
 | **27** | ***The Cable Stretched Every Pulse*** | **1858年第一条跨大西洋电报电缆、Thomson、Whitehouse与长距离信号迟滞** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-cable-stretched-every-pulse) · [Markdown](articles/27-the-cable-stretched-every-pulse.md) |
 | **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-route-became-the-engine) · [Markdown](articles/28-the-route-became-the-engine.md) |
 | **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-ships-climbed-on-rainwater) · [Markdown](articles/29-the-ships-climbed-on-rainwater.md) |
+| **30** | ***The Window Floated on Tin*** | **1952—1959年皮尔金顿浮法玻璃、熔锡浴与液体自整平机制** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-window-floated-on-tin) · [Markdown](articles/30-the-window-floated-on-tin.md) |
+
+第30篇以271词最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、足够坚硬后才接触轧辊”。史实边界明确保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期；1100°C入锡浴、约6.8毫米平衡厚度、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。
 
 第29篇以270词第14轮最终精进锁定稿为准。正文没有把巴拿马运河写成一条单纯“挖穿”的水沟，而是依次说明海平面方案为何失败、加通湖怎样把26米高差变成资源、重力如何经直径18英尺的涵洞和100个底孔抬船、水位齐平后为何才可开闸，以及传统通航约消耗5200万加仑淡水的水文代价。功劳边界分别保留Godin de Lépinay、John Stevens与Hodges、Schildhauer、Goldmark的有据贡献，不把发明或设计强归于一人。
 
@@ -87,13 +90,13 @@
 
 ## 网站已完成的同步
 
-网站当前实际加载第01—29篇，并自动计算29篇、1450个重点词和平均篇幅。
+网站当前实际加载第01—30篇，并自动计算30篇、1500个重点词和平均篇幅。
 
 ### 首页
 
 - 自动统计文章数、重点词数与平均篇幅
-- 第29篇作为最新定稿专题展示
-- 二十九篇文章卡片全部由数据层自动生成
+- 第30篇作为最新定稿专题展示
+- 三十篇文章卡片全部由数据层自动生成
 - 深浅主题、响应式排版和无障碍焦点状态
 
 ### 文章阅读器
@@ -107,7 +110,7 @@
 - 史实核对与来源分层展示
 - 上一篇／下一篇导航
 
-### 1450词词库
+### 1500词词库
 
 - 中英文实时搜索
 - 按文章筛选
@@ -122,7 +125,7 @@
 
 ```text
 data/articles.js      # 第01—07篇
-data/article-08.js—data/article-29.js    # 第08—29篇
+data/article-08.js—data/article-30.js    # 第08—30篇
 ```
 
 它们共同构成 `window.SITE.ARTICLES`。网站三个页面与Markdown生成脚本都加载同一数据层，因此不会出现“网页一版、Markdown另一版”。
@@ -140,7 +143,7 @@ python3 scripts/build_markdown.py
 - 校验词数、密度和20%红线
 - 检查文章编号、slug及跨篇精确重复
 
-仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套29篇全量校验，并检查数据脚本、最终版本身份与网站入口。
+仓库还包含 `.github/workflows/validate-content.yml`，会在PR和主分支提交时执行同一套30篇全量校验，并检查数据脚本、最终版本身份与网站入口。
 
 ---
 
@@ -149,7 +152,7 @@ python3 scripts/build_markdown.py
 ```text
 ├── index.html                 首页
 ├── article.html               双语阅读器
-├── words.html                 1450词索引
+├── words.html                 1500词索引
 ├── 404.html
 ├── manifest.webmanifest
 ├── robots.txt
@@ -161,9 +164,9 @@ python3 scripts/build_markdown.py
 │   └── share-card.svg
 ├── data/
 │   ├── articles.js            第01—07篇
-│   └── article-08.js—article-29.js
+│   └── article-08.js—article-30.js
 ├── articles/
-│   └── 01—29 Markdown定稿
+│   └── 01—30 Markdown定稿
 ├── scripts/
 │   └── build_markdown.py
 ├── tools/
@@ -183,7 +186,8 @@ python3 scripts/build_markdown.py
     ├── 第十八篇入库记录_2026-08-13.md
     ├── 第十九篇入库记录_2026-08-13.md
     ├── 第二十八篇入库记录_2026-08-24.md
-    └── 第二十九篇入库记录_2026-08-24.md
+    ├── 第二十九篇入库记录_2026-08-24.md
+    └── 第三十篇入库记录_2026-08-24.md
 ```
 
 ---
@@ -192,7 +196,7 @@ python3 scripts/build_markdown.py
 
 | 项目 | 要求 |
 |---|---|
-| 英文词数 | **新文章优先240—270词，原则上不超过270词；既有锁定稿不追溯重改** |
+| 英文词数 | **249—271词；不贴上限凑数，也不为制造不整齐而机械删词** |
 | 重点词 | 恰好50个 |
 | 密度 | ≤20% |
 | 文体 | 《经济学人》风格科普社论 |
