@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Pulse dispersion in a long submarine telegraph cable</title>
+  <desc id="desc">A conceptual diagram showing short telegraph pulses entering a submarine cable and emerging broadened and partially overlapping after long-distance transmission.</desc>
+  <defs>
+    <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#132238"/>
+      <stop offset="1" stop-color="#07101d"/>
+    </linearGradient>
+    <linearGradient id="cable" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c59b62"/>
+      <stop offset="0.5" stop-color="#f0d3a4"/>
+      <stop offset="1" stop-color="#8c6642"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#ocean)"/>
+  <path d="M0 230 C240 200 410 250 610 220 C860 180 1010 260 1260 215 C1410 190 1510 205 1600 220 L1600 0 L0 0 Z" fill="#20374f" opacity=".55"/>
+  <path d="M0 660 C260 630 500 695 760 650 C1020 610 1320 700 1600 648 L1600 900 L0 900 Z" fill="#030912" opacity=".9"/>
+  <line x1="165" y1="470" x2="1435" y2="470" stroke="#3b2b20" stroke-width="30" stroke-linecap="round"/>
+  <line x1="165" y1="470" x2="1435" y2="470" stroke="url(#cable)" stroke-width="16" stroke-linecap="round"/>
+  <g fill="none" stroke="#d9ecff" stroke-width="7" filter="url(#glow)">
+    <path d="M110 390 L145 390 L145 310 L185 310 L185 390 L220 390"/>
+    <path d="M235 390 L270 390 L270 310 L310 310 L310 390 L345 390"/>
+    <path d="M360 390 L395 390 L395 310 L435 310 L435 390 L470 390"/>
+  </g>
+  <g fill="none" stroke="#ffcf70" stroke-width="7" filter="url(#glow)">
+    <path d="M1070 390 C1110 390 1120 320 1160 320 C1200 320 1210 390 1250 390"/>
+    <path d="M1200 390 C1240 390 1250 325 1290 325 C1330 325 1340 390 1380 390"/>
+    <path d="M1330 390 C1370 390 1380 330 1420 330 C1460 330 1470 390 1510 390"/>
+  </g>
+  <g stroke="#708ba6" stroke-width="2" stroke-dasharray="8 10" opacity=".8">
+    <line x1="185" y1="270" x2="185" y2="585"/>
+    <line x1="310" y1="270" x2="310" y2="585"/>
+    <line x1="435" y1="270" x2="435" y2="585"/>
+    <line x1="1160" y1="275" x2="1160" y2="585"/>
+    <line x1="1290" y1="275" x2="1290" y2="585"/>
+    <line x1="1420" y1="275" x2="1420" y2="585"/>
+  </g>
+  <g fill="#e8eef7" font-family="Georgia, 'Times New Roman', serif">
+    <text x="110" y="170" font-size="38">Short electrical pulses</text>
+    <text x="1070" y="170" font-size="38">Broadened, overlapping pulses</text>
+    <text x="540" y="535" font-size="34" fill="#d9c19a">LONG SUBMARINE CABLE</text>
+  </g>
+  <g fill="#9eb4c9" font-family="Arial, sans-serif" font-size="24">
+    <text x="110" y="625">distinct timing</text>
+    <text x="1070" y="625">reduced separation</text>
+    <text x="610" y="780">Conceptual mechanism diagram · not to scale</text>
+  </g>
+</svg>
