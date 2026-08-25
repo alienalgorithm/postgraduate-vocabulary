@@ -931,8 +931,8 @@ window.SITE = {
         "zh": "1714年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是**三十**(thirty)**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森的答案是一套能**抵抗**(resisted)晃动、**摩擦**(friction)与温度的机械。H1在1736年去了里斯本；一处**缺陷**(flaw)让H2留在了**岸上**(ashore)；**十九**(nineteen)年**打磨**(refining)H3，仍然不够。"
       },
       {
-        "en": "H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a **bimetallic** **strip** offsetting temperature, **jewelled** **pivots** cutting friction. His son William carried it to Jamaica; over **eighty**-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.",
-        "zh": "1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条**双金属**(bimetallic)**片**(strip)抵消温度，**嵌宝石**(jewelled)的**枢轴**(pivots)减小摩擦。他的儿子威廉带着它去牙买加；**八十**(eighty)一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。"
+        "en": "H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a bimetallic **strip** offsetting **temperature**, **jewelled** **pivots** cutting friction. His son William carried it to Jamaica; over **eighty**-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.",
+        "zh": "1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条双金属**片**(strip)抵消**温度**(temperature)，**嵌宝石**(jewelled)的**枢轴**(pivots)减小摩擦。他的儿子威廉带着它去牙买加；**八十**(eighty)一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。"
       },
       {
         "en": "The **commissioners** **balked**. Nevil Maskelyne, who **championed** the lunar method, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in **forty**-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.",
@@ -1060,13 +1060,13 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "bimetallic",
-        "zh": "双金属的",
+        "w": "strip",
+        "zh": "片；条",
         "p": 3
       },
       {
-        "w": "strip",
-        "zh": "片；条",
+        "w": "temperature",
+        "zh": "温度",
         "p": 3
       },
       {

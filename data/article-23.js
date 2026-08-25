@@ -21,8 +21,8 @@
           "zh": "这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一个加纳家庭面对的是内政部的**不信**(disbelieved)：一个被**拒**(refused)**入境**(entry)的男孩，究竟是不是那位女子的儿子。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子是**她的**(hers)。他后来提起她脸上的那种**松弛**(relief)。"
         },
         {
-          "en": "Identity in a **courtroom** rested on **papers**, on **serology**, and on **confession**. Blood groups could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: a man would not **condemn** himself for nothing. Two killings would test that.",
-          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是**文件**(papers)、**血清学**(serology)和**供认**(confession)。血型能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemn)。两起凶杀将检验这一点。"
+          "en": "Identity in a **courtroom** rested on **papers**, on serology, and on **confession**. Blood **groups** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: a man would not **condemn** himself for nothing. Two killings would test that.",
+          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是**文件**(papers)、血清学和**供认**(confession)。**血型**(groups)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemn)。两起凶杀将检验这一点。"
         },
         {
           "en": "In 1986 the police at Narborough asked for help. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old kitchen hand, had **confessed** — a **juvenile** questioned without a **solicitor**. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.",
@@ -159,13 +159,13 @@
           "p": 3
         },
         {
-          "w": "serology",
-          "zh": "血清学",
+          "w": "confession",
+          "zh": "供认",
           "p": 3
         },
         {
-          "w": "confession",
-          "zh": "供认",
+          "w": "groups",
+          "zh": "血型；组",
           "p": 3
         },
         {

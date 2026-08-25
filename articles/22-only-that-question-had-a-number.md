@@ -15,7 +15,7 @@ Doubt came at once. In 1913 David Waterston wrote in *Nature* that this was an a
 
 **Anatomy** could not settle it: the **hinge** where jaw met skull was broken away, so the two could never be **fitted** and **tested**. Each side read the same plaster **casts** and X-ray **images**, seeing what it expected. **Dissent** and **acclaim** drew on one set of **bones**; the argument had no **arbiter**.
 
-In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. The jaw and teeth carried 0.03 to 0.04 per cent, the **braincase** 0.1. The pieces had not **rested** in one ground for the same **duration**.
+In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. The jaw and teeth carried 0.03 to 0.04 per cent, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.
 
 In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.
 
@@ -32,7 +32,7 @@ In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** t
 
 **解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的X光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。
 
-1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%，**脑颅**(braincase)含0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。
+1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%，**颅顶**(vault)含0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。
 
 1953年，奥克利、韦纳与勒格罗·克拉克更进一步。**放大**(magnification)之下，**臼齿**(molars)上现出了**锉出的**(file)**沟槽**(grooves)：一道道笔直的**划痕**(scratches)，而咀嚼留下的本该是**不匀**(uneven)的磨损。**钻**(Drilling)开来看，那层暗色只到表皮：铁溶液和铬酸，为的是配上皮尔当当地石头的颜色。四十一年里，**追问**(inquiry)的一直是这些骨头**像**(resembled)什么；那次测试问的却是每一块各自**躺**(lain)了多久——只有后者有一个数字作答。
 
@@ -40,13 +40,13 @@ In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** t
 
 ## 50 词速查表
 
-**§1**（10词）lay 摆放；放置｜jaw 颌骨｜cranium 头盖骨｜gravel 砾石｜pit 坑｜skull 颅骨｜ape 猿｜pairing 配对｜unheard 前所未闻的｜forebear 先祖
+**§1**（10词）lay 摆放；放置｜cranium 头盖骨｜gravel 砾石｜pit 坑｜skull 颅骨｜ape 猿｜pairing 配对｜unheard 前所未闻的｜forebear 先祖｜jawbone 下颌骨
 
-**§2**（10词）jawbone 下颌骨｜pair 配对｜echo 附和｜anatomist 解剖学家｜orangutan 猩猩｜mandible 下颌｜teeth 牙齿｜abrade 磨蚀｜ignore 无视｜generation 一代人
+**§2**（10词）pair 配对｜echo 附和｜anatomist 解剖学家｜orangutan 猩猩｜mandible 下颌｜teeth 牙齿｜abrade 磨蚀｜ignore 无视｜generation 一代人｜anatomy 解剖学
 
-**§3**（10词）anatomy 解剖学｜hinge 关节；铰链｜fit 拼合｜test 检验｜cast 石膏模型｜image 影像｜dissent 异见｜acclaim 追捧；喝彩｜bone 骨头｜arbiter 裁决者
+**§3**（10词）hinge 关节；铰链｜fit 拼合｜test 检验｜cast 石膏模型｜image 影像｜dissent 异见｜acclaim 追捧；喝彩｜bone 骨头｜arbiter 裁决者｜fluorine 氟
 
-**§4**（10词）fluorine 氟｜bury 埋｜absorb 吸收｜fluoride 氟化物｜groundwater 地下水｜lie 躺；位于｜hold 存留｜braincase 脑颅｜rest 停留｜duration 时段
+**§4**（10词）bury 埋｜absorb 吸收｜fluoride 氟化物｜groundwater 地下水｜lie 躺；位于｜hold 存留｜jaw 颌骨｜vault 颅顶；穹顶｜rest 停留｜duration 时段
 
 **§5**（10词）magnification 放大｜molar 臼齿｜file 锉｜groove 沟槽｜scratch 划痕｜uneven 不匀的｜drill 钻｜inquiry 追问；探究｜resemble 像；相似｜lain 躺过
 

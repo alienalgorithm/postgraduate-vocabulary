@@ -15,7 +15,7 @@ The Greek **passage** ran **parallel** to the Egyptian, not an **exact** match. 
 
 Champollion, a French **scholar**, used Coptic, a late **idiom** of Egyptian, to infer how ancient words were **pronounced**. He tested **additional** **royal** names, including Cleopatra on Philae’s obelisk. His 1822 **argument** found phonetic signs in foreign names; by 1824 his **hybrid** model distinguished phonetic signs, whole-word signs and markers that **guided** interpretation. A sign’s **function** depended on **context**.
 
-So the writing is neither picture code nor simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a **determinative** marked a semantic **category**. A **scribe** held all this in mind, yet such markers reduced confusion; grammar helped scholars **interpret** combinations. Temple walls, papyri and **archives** became **legible**.
+So the writing is neither picture code nor simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a determinative marked a **semantic** **category**. A **scribe** held all this in mind, yet such markers reduced confusion; grammar helped scholars **interpret** combinations. Temple walls, papyri and **archives** became **legible**.
 
 The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**, and credit remains in **dispute**; they built **cumulatively** on Coptic, on copies and on **testimony** from stone. Across the decree’s three scripts Ptolemy’s name supplied an anchor, and other monuments let scholars **verify** readings, making the **puzzle** solvable.
 
@@ -32,7 +32,7 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 
 法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在1822年的**论证**(argument)从外来姓名中辨认出表音符号；到1824年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。
 
-正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；**限定符**(determinative)则标明词语的语义**类别**(category)。**抄书人**(scribe)把这一切都记在心里，但这类标记减少了混淆，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和行政**档案**(archives)都变得**可读**(legible)了。
+正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；限定符则标明词语的**语义**(semantic)**类别**(category)。**抄书人**(scribe)把这一切都记在心里，但这类标记减少了混淆，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和行政**档案**(archives)都变得**可读**(legible)了。
 
 那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。
 
@@ -46,7 +46,7 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 
 **§3**（10词）scholar 学者｜idiom 语体；习语｜pronounced 发音｜additional 更多的；额外的｜royal 王室的；皇家的｜argument 论述；论点｜hybrid 混合的；混合物｜guided 引导｜function 功能；作用｜context 语境；上下文
 
-**§4**（10词）alphabet 字母表｜lone 孤零零的｜represent 表示；代表｜sequence 一串；序列｜determinative 限定符｜category 类别｜scribe 抄书人｜interpret 解读；解释｜archives 档案｜legible 可读的
+**§4**（10词）alphabet 字母表｜lone 孤零零的｜represent 表示；代表｜sequence 一串；序列｜semantic 语义的｜category 类别｜scribe 抄书人｜interpret 解读；解释｜archives 档案｜legible 可读的
 
 **§5**（10词）romantic 浪漫化的；浪漫的｜myth 迷思；神话｜solitary 孤身一人的；独自的｜genius 天才｜rivals 竞争对手｜dispute 争议；对……有争议｜cumulatively 层层累积地｜testimony 佐证；证词｜verify 核验；证实｜puzzle 谜题；难题
 

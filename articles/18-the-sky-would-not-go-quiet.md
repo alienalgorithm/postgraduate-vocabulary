@@ -11,7 +11,7 @@
 
 In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess temperature of 3.5 kelvin.
 
-They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess appeared **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.
+They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess **appeared** **isotropic**, unpolarised and free of **seasonal** variation from July 1964 to April 1965.
 
 Nearby, Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a **primordial** universe. A mutual friend, holding their preprint, phoned Penzias. **Coincidence** turned into **collaboration**. In July 1965 **companion** papers split the roles: Bell Labs supplied the experimental **write-up**, Princeton the **interpretation**. Penzias and Wilson still called the reading **provisional**.
 
@@ -28,7 +28,7 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。
 
-他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息**(roosted)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射呈**各向同性**(isotropic)、**没有偏振**(unpolarised)，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。
+他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息**(roosted)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射**显得**(appeared)**各向同性**(isotropic)、没有偏振，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。
 
 不远处，普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台**辐射计**(radiometer)，寻找**原初宇宙留下的**(primordial)**遗存热辐射**(relic)。一位共同的朋友手里正拿着他们的预印本，给彭齐亚斯打了电话。**巧合**(coincidence)就此变成**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记述**(writeup)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊仍把这一解释视为**暂定的**(provisional)。
 
@@ -42,7 +42,7 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 **§1**（10词）astronomer 天文学家｜horn 号角；喇叭口｜antenna 天线｜microwave 微波｜referenced 定标；参照｜load 负载｜zenith 天顶｜residual 残余的；剩余量｜hiss 嘶声；嘶嘶作响｜equivalent 相当的；等价物
 
-**§2**（10词）seam 接缝｜joint 连接处；关节｜interference 干扰｜pigeon 鸽子｜roost 栖息；栖息处｜scrub 刷洗掉｜dropping 粪便；滴下物｜isotropic 各向同性的｜unpolarised 未偏振的｜seasonal 季节性的
+**§2**（10词）seam 接缝｜joint 连接处；关节｜interference 干扰｜pigeon 鸽子｜roost 栖息；栖息处｜scrub 刷洗掉｜dropping 粪便；滴下物｜appeared 显得；看来｜isotropic 各向同性的｜seasonal 季节性的
 
 **§3**（10词）physicist 物理学家｜radiometer 辐射计｜relic 遗存；遗物｜primordial 原初的；远古的｜coincidence 巧合；同时发生｜collaboration 合作｜companion 配套的；同伴｜write-up 记述｜interpretation 解释；阐释｜provisional 暂定的；临时的
 

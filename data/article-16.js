@@ -18,8 +18,8 @@
       },
       "paras": [
         {
-          "en": "A 17 June 1929 **earthquake** near Murchison, New Zealand, sent **seismic** waves through Earth. In Copenhagen the Danish **mathematician** Inge Lehmann read traces drawn by **seismographs**. Each **vibration** was an indirect **probe** of Earth's **interior**. Yet **worldwide** records carried a faint **blip** whose origin was **obscure**.",
-          "zh": "1929年6月17日，新西兰默奇森附近的一场**地震**(earthquake)让**地震波**(seismic)穿过地球。在哥本哈根，丹麦**数学家**(mathematician)英格·莱曼研读各台**地震仪**(seismographs)绘出的曲线。每一次地面**振动**(vibration)，都是探查地球**内部**(interior)的一枚间接**探针**(probe)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**脉冲**(blip)，来由仍**晦暗不明**(obscure)。"
+          "en": "A 17 June 1929 **earthquake** near Murchison, New Zealand, sent **seismic** waves through Earth. In Copenhagen the Danish **mathematician** Inge Lehmann read **traces** drawn by seismographs. Each **vibration** was an indirect **probe** of Earth's **interior**. Yet **worldwide** records carried a faint **blip** whose origin was **obscure**.",
+          "zh": "1929年6月17日，新西兰默奇森附近的一场**地震**(earthquake)让**地震波**(seismic)穿过地球。在哥本哈根，丹麦**数学家**(mathematician)英格·莱曼研读各台地震仪绘出的**痕迹**(traces)。每一次地面**振动**(vibration)，都是探查地球**内部**(interior)的一枚间接**探针**(probe)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**脉冲**(blip)，来由仍**晦暗不明**(obscure)。"
         },
         {
           "en": "The accepted model placed a rocky mantle around a fluid core. P waves **compress** the **medium** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P waves **refract** at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where direct P waves should not arrive.",
@@ -55,8 +55,8 @@
           "p": 1
         },
         {
-          "w": "seismograph",
-          "zh": "地震仪",
+          "w": "traces",
+          "zh": "痕迹；轨迹",
           "p": 1
         },
         {

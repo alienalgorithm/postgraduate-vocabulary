@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a **victualling** list — on Greenland's southwest **shore**. They had **travelled** frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.
+Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a victualling **list** — on Greenland's southwest **shore**. They had **travelled** frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.
 
 The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to **seventy** centimetres deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.
 
@@ -26,7 +26,7 @@ Fram **emerged** near Svalbard that August; every man went home **alive**. The *
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(ship)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份**给养**(victualling)清单。它们是冻在**浮冰**(floes)里**漂**(travelled)过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。
+1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(ship)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**清单**(list)。它们是冻在**浮冰**(floes)里**漂**(travelled)过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。
 
 **船身**(hull)必须扛得住被**夹住**(gripped)。科林·阿彻用最厚达**七十**(seventy)厘米的**橡木**(oak)造出「前进」号，船底**浑圆**(rounded)，舷侧**外斜**(sloping)。寻常船身给了冰一堵可以咬住的直墙；「前进」号给它的是一道**楔面**(wedge)。**冰群**(pack)一合拢，就把她**挤**(squeezed)着往上抬，而不是往**里**(inward)压，随后把她搁在冰面上。
 
@@ -40,7 +40,7 @@ Fram **emerged** near Svalbard that August; every man went home **alive**. The *
 
 ## 50 词速查表
 
-**§1**（10词）crush 碾碎｜ship 船｜remnant 残件｜timber 木料｜victualling 给养的｜shore 岸｜travel 漂｜floe 浮冰｜flow 水流｜basin 海盆
+**§1**（10词）crush 碾碎｜ship 船｜remnant 残件｜timber 木料｜list 清单｜shore 岸｜travel 漂｜floe 浮冰｜flow 水流｜basin 海盆
 
 **§2**（10词）hull 船身｜grip 夹住｜oak 橡木｜seventy 七十｜rounded 浑圆的｜sloping 外斜的｜wedge 楔面｜pack 冰群；浮冰群｜squeeze 挤｜inward 向内地
 

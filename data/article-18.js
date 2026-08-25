@@ -22,8 +22,8 @@
           "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。"
         },
         {
-          "en": "They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess appeared **isotropic**, **unpolarised** and free of **seasonal** variation from July 1964 to April 1965.",
-          "zh": "他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息**(roosted)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射呈**各向同性**(isotropic)、**没有偏振**(unpolarised)，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。"
+          "en": "They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess **appeared** **isotropic**, unpolarised and free of **seasonal** variation from July 1964 to April 1965.",
+          "zh": "他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息**(roosted)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射**显得**(appeared)**各向同性**(isotropic)、没有偏振，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。"
         },
         {
           "en": "Nearby, Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a **primordial** universe. A mutual friend, holding their preprint, phoned Penzias. **Coincidence** turned into **collaboration**. In July 1965 **companion** papers split the roles: Bell Labs supplied the experimental **write-up**, Princeton the **interpretation**. Penzias and Wilson still called the reading **provisional**.",
@@ -125,13 +125,13 @@
           "p": 2
         },
         {
-          "w": "isotropic",
-          "zh": "各向同性的",
+          "w": "appeared",
+          "zh": "显得；看来",
           "p": 2
         },
         {
-          "w": "unpolarised",
-          "zh": "未偏振的",
+          "w": "isotropic",
+          "zh": "各向同性的",
           "p": 2
         },
         {

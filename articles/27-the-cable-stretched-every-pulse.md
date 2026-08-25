@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while **ohmic** resistance slowed redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, become hard to **decipher**, and arrive as **distortion** rather than clean marks.
+In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, become hard to **decipher**, and arrive as **distortion** rather than clean marks.
 
 Whitehouse did not deny retardation. He measured it on shorter wires and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity** and **dielectric** behaviour. Their deeper dispute concerned **extrapolation**—whether short-line experiments captured Atlantic **scaling**, and whether **sensitivity** answered the same **premise**.
 
@@ -26,7 +26,7 @@ The lesson was not that low power was harmless. Different failures demand differ
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1858年8月，第一条**跨大西洋的**(transatlantic)电报电缆让人相信，横跨大洋的通信可以近乎即时完成。但一条**海底的**(submarine)线路绝不是普通导线。分布式**电容**(capacitance)会储存电荷，而**欧姆性的**(ohmic)电阻又会拖慢电荷重新分布，于是每一个**脉冲**(pulse)都会逐渐**弥散**(dispersed)。Thomson分析了这种**迟滞**(retardation)：相邻信号可能逐渐**汇合**(coalesce)，越来越难以**辨读**(decipher)，最终抵达的不是清晰符号，而是**失真**(distortion)。
+1858年8月，第一条**跨大西洋的**(transatlantic)电报电缆让人相信，横跨大洋的通信可以近乎即时完成。但一条**海底的**(submarine)线路绝不是普通导线。分布式**电容**(capacitance)会储存电荷，而欧姆性的电阻又会**拖慢**(slowed)电荷重新分布，于是每一个**脉冲**(pulse)都会逐渐**弥散**(dispersed)。Thomson分析了这种**迟滞**(retardation)：相邻信号可能逐渐**汇合**(coalesce)，越来越难以**辨读**(decipher)，最终抵达的不是清晰符号，而是**失真**(distortion)。
 
 Whitehouse并没有否认迟滞现象。他曾在较短线路上测量这种效应，并给出了另一种**诊断**(diagnosis)：更高的**电压**(voltage)、感应线圈和**继电器**(relays)仍可以让通信具有实用性。Thomson更关注信号**传播**(propagation)、导体**电阻率**(resistivity)以及**介电的**(dielectric)行为。两人更深层的争论其实是**外推**(extrapolation)问题——短线路实验能否代表大西洋尺度的**尺度效应**(scaling)，以及接收端的**灵敏度**(sensitivity)是否真正回答了同一个**前提**(premise)。
 
@@ -40,7 +40,7 @@ Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness
 
 ## 50 词速查表
 
-**§1**（10词）transatlantic 跨大西洋的｜submarine 海底的；潜艇｜capacitance 电容｜ohmic 欧姆性的｜pulse 脉冲｜disperse 弥散；扩散｜retardation 迟滞；延滞｜coalesce 汇合；合并｜decipher 辨读；破译｜distortion 失真；畸变
+**§1**（10词）transatlantic 跨大西洋的｜submarine 海底的；潜艇｜capacitance 电容｜slowed 减慢｜pulse 脉冲｜disperse 弥散；扩散｜retardation 迟滞；延滞｜coalesce 汇合；合并｜decipher 辨读；破译｜distortion 失真；畸变
 
 **§2**（10词）diagnosis 诊断；判断｜voltage 电压｜relay 继电器｜propagation 传播｜resistivity 电阻率｜dielectric 介电的；电介质｜extrapolation 外推｜scaling 尺度效应；缩放｜sensitivity 灵敏度｜premise 前提
 

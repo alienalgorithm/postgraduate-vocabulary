@@ -13,7 +13,7 @@ On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **dev
 
 The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian family met a Home Office that **disbelieved** a boy **refused** **entry** was the woman's son. **Lawyers** asked Jeffreys, and the bands showed the boy was **hers**. He spoke afterwards of the **relief** on her face.
 
-Identity in a **courtroom** rested on **papers**, on **serology**, and on **confession**. Blood groups could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: a man would not **condemn** himself for nothing. Two killings would test that.
+Identity in a **courtroom** rested on **papers**, on serology, and on **confession**. Blood **groups** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: a man would not **condemn** himself for nothing. Two killings would test that.
 
 In 1986 the police at Narborough asked for help. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old kitchen hand, had **confessed** — a **juvenile** questioned without a **solicitor**. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.
 
@@ -30,7 +30,7 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 
 这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一个加纳家庭面对的是内政部的**不信**(disbelieved)：一个被**拒**(refused)**入境**(entry)的男孩，究竟是不是那位女子的儿子。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子是**她的**(hers)。他后来提起她脸上的那种**松弛**(relief)。
 
-**法庭**(courtroom)上的身份认定，在此之前靠的是**文件**(papers)、**血清学**(serology)和**供认**(confession)。血型能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemn)。两起凶杀将检验这一点。
+**法庭**(courtroom)上的身份认定，在此之前靠的是**文件**(papers)、血清学和**供认**(confession)。**血型**(groups)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemn)。两起凶杀将检验这一点。
 
 1986年，纳伯勒的警方来求助。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的厨房帮工理查德·巴克兰已经**认**(confessed)了罪——一个在无**事务律师**(solicitor)在场时受讯的**未成年人**(juvenile)。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。
 
@@ -44,7 +44,7 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 
 **§2**（10词）technique 技术｜remember 记住｜murderer 杀人者｜outing 出场；首次露面｜disbelieve 不相信｜refuse 拒绝｜entry 入境｜lawyer 律师｜hers 她的｜relief 宽慰；松弛
 
-**§3**（10词）courtroom 法庭｜paper 文件；文书｜serology 血清学｜confession 供认｜exclude 排除｜seldom 很少｜admission 自认｜strongest 最强的｜stronger 更强的｜condemn 定罪；自陷
+**§3**（10词）courtroom 法庭｜paper 文件；文书｜confession 供认｜groups 血型；组｜exclude 排除｜seldom 很少｜admission 自认｜strongest 最强的｜stronger 更强的｜condemn 定罪；自陷
 
 **§4**（10词）teenager 少年｜rape 强奸｜confess 认罪｜juvenile 未成年人｜solicitor 事务律师｜compare 比对｜semen 精液｜youth 少年｜notch 刻痕｜overlap 重合
 

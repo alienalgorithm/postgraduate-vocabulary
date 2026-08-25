@@ -13,7 +13,7 @@ At sea the Sun gives **latitude** **readily**. **Longitude** needs the hour at a
 
 In 1714 Parliament offered £20,000 for half a degree: **thirty** **nautical** miles at the **equator**. John Harrison, a Lincolnshire **carpenter**, answered with machinery that **resisted** motion, **friction** and heat. H1 went to Lisbon in 1736; a **flaw** kept H2 **ashore**; **nineteen** years of **refining** H3 still fell short.
 
-H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a **bimetallic** **strip** offsetting temperature, **jewelled** **pivots** cutting friction. His son William carried it to Jamaica; over **eighty**-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.
+H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a bimetallic **strip** offsetting **temperature**, **jewelled** **pivots** cutting friction. His son William carried it to Jamaica; over **eighty**-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.
 
 The **commissioners** **balked**. Nevil Maskelyne, who **championed** the lunar method, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in **forty**-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.
 
@@ -30,7 +30,7 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 1714年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是**三十**(thirty)**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森的答案是一套能**抵抗**(resisted)晃动、**摩擦**(friction)与温度的机械。H1在1736年去了里斯本；一处**缺陷**(flaw)让H2留在了**岸上**(ashore)；**十九**(nineteen)年**打磨**(refining)H3，仍然不够。
 
-1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条**双金属**(bimetallic)**片**(strip)抵消温度，**嵌宝石**(jewelled)的**枢轴**(pivots)减小摩擦。他的儿子威廉带着它去牙买加；**八十**(eighty)一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。
+1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条双金属**片**(strip)抵消**温度**(temperature)，**嵌宝石**(jewelled)的**枢轴**(pivots)减小摩擦。他的儿子威廉带着它去牙买加；**八十**(eighty)一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。
 
 **评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)月距法的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在**四十**(forty)七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。
 
@@ -44,7 +44,7 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 **§2**（10词）thirty 三十｜nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜resist 抵抗｜friction 摩擦｜flaw 缺陷｜ashore 在岸上｜nineteen 十九｜refine 打磨
 
-**§3**（10词）portable 便携的｜inch 英寸｜balance 摆轮；平衡｜bimetallic 双金属的｜strip 片；条｜jewelled 嵌宝石的｜pivot 枢轴｜eighty 八十｜gap 差；缺口｜tolerate 容许
+**§3**（10词）portable 便携的｜inch 英寸｜balance 摆轮；平衡｜strip 片；条｜temperature 温度｜jewelled 嵌宝石的｜pivot 枢轴｜eighty 八十｜gap 差；缺口｜tolerate 容许
 
 **§4**（10词）commissioner 评审委员；专员｜balk 迟疑；退缩｜champion 力主；拥护｜astronomical 天文的｜observation 观测｜err 误差｜forty 四十｜principle 原理｜maker 制作者｜replicate 复制
 

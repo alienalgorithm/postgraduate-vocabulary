@@ -30,8 +30,8 @@
           "zh": "**解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的X光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。"
         },
         {
-          "en": "In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. The jaw and teeth carried 0.03 to 0.04 per cent, the **braincase** 0.1. The pieces had not **rested** in one ground for the same **duration**.",
-          "zh": "1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%，**脑颅**(braincase)含0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。"
+          "en": "In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. The jaw and teeth carried 0.03 to 0.04 per cent, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.",
+          "zh": "1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%，**颅顶**(vault)含0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。"
         },
         {
           "en": "In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.",
@@ -42,11 +42,6 @@
         {
           "w": "lay",
           "zh": "摆放；放置",
-          "p": 1
-        },
-        {
-          "w": "jaw",
-          "zh": "颌骨",
           "p": 1
         },
         {
@@ -92,7 +87,7 @@
         {
           "w": "jawbone",
           "zh": "下颌骨",
-          "p": 2
+          "p": 1
         },
         {
           "w": "pair",
@@ -142,7 +137,7 @@
         {
           "w": "anatomy",
           "zh": "解剖学",
-          "p": 3
+          "p": 2
         },
         {
           "w": "hinge",
@@ -192,7 +187,7 @@
         {
           "w": "fluorine",
           "zh": "氟",
-          "p": 4
+          "p": 3
         },
         {
           "w": "bury",
@@ -225,8 +220,13 @@
           "p": 4
         },
         {
-          "w": "braincase",
-          "zh": "脑颅",
+          "w": "jaw",
+          "zh": "颌骨",
+          "p": 4
+        },
+        {
+          "w": "vault",
+          "zh": "颅顶；穹顶",
           "p": 4
         },
         {

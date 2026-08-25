@@ -11,11 +11,15 @@
       "topic": "1858年第一条跨大西洋电报电缆、William Thomson、Edward Whitehouse与长距离信号迟滞",
       "date": "2026-08-23",
       "status": "第二十七篇最终精进锁定稿",
-      "metrics": {"words":270,"keywords":50,"density":18.5},
+      "metrics": {
+        "words": 270,
+        "keywords": 50,
+        "density": 18.5
+      },
       "paras": [
         {
-          "en": "In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while **ohmic** resistance slowed redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, become hard to **decipher**, and arrive as **distortion** rather than clean marks.",
-          "zh": "1858年8月，第一条**跨大西洋的**(transatlantic)电报电缆让人相信，横跨大洋的通信可以近乎即时完成。但一条**海底的**(submarine)线路绝不是普通导线。分布式**电容**(capacitance)会储存电荷，而**欧姆性的**(ohmic)电阻又会拖慢电荷重新分布，于是每一个**脉冲**(pulse)都会逐渐**弥散**(dispersed)。Thomson分析了这种**迟滞**(retardation)：相邻信号可能逐渐**汇合**(coalesce)，越来越难以**辨读**(decipher)，最终抵达的不是清晰符号，而是**失真**(distortion)。"
+          "en": "In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, become hard to **decipher**, and arrive as **distortion** rather than clean marks.",
+          "zh": "1858年8月，第一条**跨大西洋的**(transatlantic)电报电缆让人相信，横跨大洋的通信可以近乎即时完成。但一条**海底的**(submarine)线路绝不是普通导线。分布式**电容**(capacitance)会储存电荷，而欧姆性的电阻又会**拖慢**(slowed)电荷重新分布，于是每一个**脉冲**(pulse)都会逐渐**弥散**(dispersed)。Thomson分析了这种**迟滞**(retardation)：相邻信号可能逐渐**汇合**(coalesce)，越来越难以**辨读**(decipher)，最终抵达的不是清晰符号，而是**失真**(distortion)。"
         },
         {
           "en": "Whitehouse did not deny retardation. He measured it on shorter wires and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity** and **dielectric** behaviour. Their deeper dispute concerned **extrapolation**—whether short-line experiments captured Atlantic **scaling**, and whether **sensitivity** answered the same **premise**.",
@@ -35,11 +39,256 @@
         }
       ],
       "glossary": [
-        {"w":"transatlantic","zh":"跨大西洋的","p":1},{"w":"submarine","zh":"海底的；潜艇","p":1},{"w":"capacitance","zh":"电容","p":1},{"w":"ohmic","zh":"欧姆性的","p":1},{"w":"pulse","zh":"脉冲","p":1},{"w":"disperse","zh":"弥散；扩散","p":1},{"w":"retardation","zh":"迟滞；延滞","p":1},{"w":"coalesce","zh":"汇合；合并","p":1},{"w":"decipher","zh":"辨读；破译","p":1},{"w":"distortion","zh":"失真；畸变","p":1},
-        {"w":"diagnosis","zh":"诊断；判断","p":2},{"w":"voltage","zh":"电压","p":2},{"w":"relay","zh":"继电器","p":2},{"w":"propagation","zh":"传播","p":2},{"w":"resistivity","zh":"电阻率","p":2},{"w":"dielectric","zh":"介电的；电介质","p":2},{"w":"extrapolation","zh":"外推","p":2},{"w":"scaling","zh":"尺度效应；缩放","p":2},{"w":"sensitivity","zh":"灵敏度","p":2},{"w":"premise","zh":"前提","p":2},
-        {"w":"responsiveness","zh":"响应能力","p":3},{"w":"deflection","zh":"偏转","p":3},{"w":"silk","zh":"丝；丝线","p":3},{"w":"reflection","zh":"反射","p":3},{"w":"luminous","zh":"发亮的；明亮的","p":3},{"w":"spot","zh":"光点；斑点","p":3},{"w":"enlarge","zh":"放大；扩大","p":3},{"w":"discernible","zh":"可辨识的","p":3},{"w":"disparity","zh":"差距；差异","p":3},{"w":"readability","zh":"可读性","p":3},
-        {"w":"defective","zh":"有缺陷的","p":4},{"w":"insulation","zh":"绝缘；绝缘层","p":4},{"w":"handling","zh":"搬运；处理","p":4},{"w":"exacerbate","zh":"加剧","p":4},{"w":"vulnerability","zh":"脆弱性","p":4},{"w":"leakage","zh":"漏电；泄漏","p":4},{"w":"intermittent","zh":"时断时续的","p":4},{"w":"culpability","zh":"过错责任","p":4},{"w":"attribution","zh":"归因；归属","p":4},{"w":"hasty","zh":"草率的；匆忙的","p":4},
-        {"w":"amplification","zh":"放大","p":5},{"w":"broaden","zh":"拉宽；扩大","p":5},{"w":"waveform","zh":"波形","p":5},{"w":"separation","zh":"分离度；分离","p":5},{"w":"failure-mode","zh":"失效模式","p":5},{"w":"breakdown","zh":"击穿；故障","p":5},{"w":"faintness","zh":"微弱性","p":5},{"w":"dispersion","zh":"弥散；色散","p":5},{"w":"legibility","zh":"可辨读性","p":5},{"w":"fallacy","zh":"谬误；错误推理","p":5}
+        {
+          "w": "transatlantic",
+          "zh": "跨大西洋的",
+          "p": 1
+        },
+        {
+          "w": "submarine",
+          "zh": "海底的；潜艇",
+          "p": 1
+        },
+        {
+          "w": "capacitance",
+          "zh": "电容",
+          "p": 1
+        },
+        {
+          "w": "slowed",
+          "zh": "减慢",
+          "p": 1
+        },
+        {
+          "w": "pulse",
+          "zh": "脉冲",
+          "p": 1
+        },
+        {
+          "w": "disperse",
+          "zh": "弥散；扩散",
+          "p": 1
+        },
+        {
+          "w": "retardation",
+          "zh": "迟滞；延滞",
+          "p": 1
+        },
+        {
+          "w": "coalesce",
+          "zh": "汇合；合并",
+          "p": 1
+        },
+        {
+          "w": "decipher",
+          "zh": "辨读；破译",
+          "p": 1
+        },
+        {
+          "w": "distortion",
+          "zh": "失真；畸变",
+          "p": 1
+        },
+        {
+          "w": "diagnosis",
+          "zh": "诊断；判断",
+          "p": 2
+        },
+        {
+          "w": "voltage",
+          "zh": "电压",
+          "p": 2
+        },
+        {
+          "w": "relay",
+          "zh": "继电器",
+          "p": 2
+        },
+        {
+          "w": "propagation",
+          "zh": "传播",
+          "p": 2
+        },
+        {
+          "w": "resistivity",
+          "zh": "电阻率",
+          "p": 2
+        },
+        {
+          "w": "dielectric",
+          "zh": "介电的；电介质",
+          "p": 2
+        },
+        {
+          "w": "extrapolation",
+          "zh": "外推",
+          "p": 2
+        },
+        {
+          "w": "scaling",
+          "zh": "尺度效应；缩放",
+          "p": 2
+        },
+        {
+          "w": "sensitivity",
+          "zh": "灵敏度",
+          "p": 2
+        },
+        {
+          "w": "premise",
+          "zh": "前提",
+          "p": 2
+        },
+        {
+          "w": "responsiveness",
+          "zh": "响应能力",
+          "p": 3
+        },
+        {
+          "w": "deflection",
+          "zh": "偏转",
+          "p": 3
+        },
+        {
+          "w": "silk",
+          "zh": "丝；丝线",
+          "p": 3
+        },
+        {
+          "w": "reflection",
+          "zh": "反射",
+          "p": 3
+        },
+        {
+          "w": "luminous",
+          "zh": "发亮的；明亮的",
+          "p": 3
+        },
+        {
+          "w": "spot",
+          "zh": "光点；斑点",
+          "p": 3
+        },
+        {
+          "w": "enlarge",
+          "zh": "放大；扩大",
+          "p": 3
+        },
+        {
+          "w": "discernible",
+          "zh": "可辨识的",
+          "p": 3
+        },
+        {
+          "w": "disparity",
+          "zh": "差距；差异",
+          "p": 3
+        },
+        {
+          "w": "readability",
+          "zh": "可读性",
+          "p": 3
+        },
+        {
+          "w": "defective",
+          "zh": "有缺陷的",
+          "p": 4
+        },
+        {
+          "w": "insulation",
+          "zh": "绝缘；绝缘层",
+          "p": 4
+        },
+        {
+          "w": "handling",
+          "zh": "搬运；处理",
+          "p": 4
+        },
+        {
+          "w": "exacerbate",
+          "zh": "加剧",
+          "p": 4
+        },
+        {
+          "w": "vulnerability",
+          "zh": "脆弱性",
+          "p": 4
+        },
+        {
+          "w": "leakage",
+          "zh": "漏电；泄漏",
+          "p": 4
+        },
+        {
+          "w": "intermittent",
+          "zh": "时断时续的",
+          "p": 4
+        },
+        {
+          "w": "culpability",
+          "zh": "过错责任",
+          "p": 4
+        },
+        {
+          "w": "attribution",
+          "zh": "归因；归属",
+          "p": 4
+        },
+        {
+          "w": "hasty",
+          "zh": "草率的；匆忙的",
+          "p": 4
+        },
+        {
+          "w": "amplification",
+          "zh": "放大",
+          "p": 5
+        },
+        {
+          "w": "broaden",
+          "zh": "拉宽；扩大",
+          "p": 5
+        },
+        {
+          "w": "waveform",
+          "zh": "波形",
+          "p": 5
+        },
+        {
+          "w": "separation",
+          "zh": "分离度；分离",
+          "p": 5
+        },
+        {
+          "w": "failure-mode",
+          "zh": "失效模式",
+          "p": 5
+        },
+        {
+          "w": "breakdown",
+          "zh": "击穿；故障",
+          "p": 5
+        },
+        {
+          "w": "faintness",
+          "zh": "微弱性",
+          "p": 5
+        },
+        {
+          "w": "dispersion",
+          "zh": "弥散；色散",
+          "p": 5
+        },
+        {
+          "w": "legibility",
+          "zh": "可辨读性",
+          "p": 5
+        },
+        {
+          "w": "fallacy",
+          "zh": "谬误；错误推理",
+          "p": 5
+        }
       ],
       "facts": [
         "长海底电缆的关键难题是信号迟滞与展宽。Latimer Clark在1852年注意到这一现象，Faraday在1854年公开讨论；Thomson随后给出理论理由，认为在给定结构下，迟滞会随电缆长度显著增长。Whitehouse并非否认迟滞，而是通过不同长度导线与不同脉冲强度的实验研究其延迟和展宽，并对Thomson关于大西洋尺度的推断持不同判断。[Cambridge University Press：Wildman Whitehouse, William Thomson, and the First Atlantic Cable](https://www.cambridge.org/core/books/imperial-science/wildman-whitehouse-william-thomson-and-the-first-atlantic-cable/28CC0EE56CCC49F8170F92A364BBBEF9)",
