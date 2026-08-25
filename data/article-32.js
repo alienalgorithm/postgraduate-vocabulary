@@ -21,11 +21,11 @@
           "zh": "1792年6月，让-巴蒂斯特·德朗布尔**骑马**(rode)北上，去**测绘**(survey)通往**敦刻尔克**(Dunkirk)的子午线。皮埃尔·梅尚南下，翻过**未经勘测的**(uncharted)**山地**(mountains)去**巴塞罗那**(Barcelona)。此后是七年的**三角测量**(triangles)，其间那场革命在1794年把拉瓦锡送上了断头台。**共和国**(republic)等不及：1795年就**立法**(legislated)定下了临时米，而测量尚未**结束**(closed)。"
         },
         {
-          "en": "At Barcelona Méchain took the latitude **twice**, from two **stations**. The two **values** **differed** by 3.24 seconds of arc. He could not explain it, having borrowed every formula from his northern **colleague**. Under a **regime** that shot men on **suspicion**, an admission meant **disgrace**, so he **hid** the figure and lived in **dread** of the reckoning.",
-          "zh": "在巴塞罗那，梅尚把纬度测了**两次**(twice)，用的是两个**测站**(stations)。这两个**值**(values)**相差**(differed)3.24角秒。他解释不了，而他计算所用的公式全是从北边那位**同事**(colleague)那里借来的。在一个凭**怀疑**(suspicion)就枪毙人的**政权**(regime)之下，承认等于**身败名裂**(disgrace)，于是他**藏**(hid)起了这个数字，在对清算的**恐惧**(dread)中度过了余生。"
+          "en": "At Barcelona Méchain took the latitude **twice**, from two **stations**. The two **values** **differed** by 3.24 seconds of arc. He could not explain it. He had borrowed every formula from his northern **colleague**, and under a **regime** that shot men on **suspicion**, an admission meant **disgrace**; he **hid** the figure and lived in **dread** of the reckoning.",
+          "zh": "在巴塞罗那，梅尚把纬度测了**两次**(twice)，用的是两个**测站**(stations)。这两个**值**(values)**相差**(differed)3.24角秒。他解释不了。他计算所用的公式全是从北边那位**同事**(colleague)那里借来的；在一个凭**怀疑**(suspicion)就枪毙人的**政权**(regime)之下，承认等于**身败名裂**(disgrace)。他**藏**(hid)起了这个数字，在对清算的**恐惧**(dread)中度过了余生。"
         },
         {
-          "en": "In March 1799 a commission **reduced** the survey to 443.296 lignes, and a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** his **stretch**; **yellow** **fever** took him in 1804.",
+          "en": "In March 1799 a commission **reduced** the survey to 443.296 lignes; a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** his **stretch**; **yellow** **fever** took him in 1804.",
           "zh": "1799年3月，一个委员会把测量结果**归算**(reduced)为443.296里涅，一根铂杆随之**锻**(forged)出。6月22日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己那**段**(stretch)；1804年，**黄**(yellow)**热病**(fever)带走了他。"
         },
         {
