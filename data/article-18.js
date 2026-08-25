@@ -26,8 +26,8 @@
           "zh": "他们给各处**接缝**(seams)贴上胶带，检查每个**连接处**(joint)的损耗，并把地面**干扰**(interference)计入误差预算。一些**鸽子**(Pigeons)曾在天线内**栖息**(roosted)；彭齐亚斯和威尔逊捕走它们，又把**粪便**(droppings)彻底**刷洗掉**(scrubbed)。结果毫无变化。在当时的测量精度内，这股额外辐射**显得**(appeared)**各向同性**(isotropic)、没有偏振，从1964年7月至1965年4月也没有出现**季节性的**(seasonal)变化。"
         },
         {
-          "en": "Nearby, Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a **radiometer** to seek **relic** heat from a **primordial** universe. A mutual friend, holding their preprint, phoned Penzias. **Coincidence** turned into **collaboration**. In July 1965 **companion** papers split the roles: Bell Labs supplied the experimental **write-up**, Princeton the **interpretation**. Penzias and Wilson still called the reading **provisional**.",
-          "zh": "不远处，普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台**辐射计**(radiometer)，寻找**原初宇宙留下的**(primordial)**遗存热辐射**(relic)。一位共同的朋友手里正拿着他们的预印本，给彭齐亚斯打了电话。**巧合**(coincidence)就此变成**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记述**(writeup)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊仍把这一解释视为**暂定的**(provisional)。"
+          "en": "Nearby, Princeton **physicists** Robert Dicke, James Peebles, Peter Roll and David Wilkinson were building a radiometer to **seek** **relic** heat from a **primordial** universe. A mutual friend, holding their preprint, phoned Penzias. **Coincidence** turned into **collaboration**. In July 1965 **companion** papers split the roles: Bell Labs supplied the experimental **write-up**, Princeton the **interpretation**. Penzias and Wilson still called the reading **provisional**.",
+          "zh": "不远处，普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台辐射计，**寻找**(seek)**原初宇宙留下的**(primordial)**遗存热辐射**(relic)。一位共同的朋友手里正拿着他们的预印本，给彭齐亚斯打了电话。**巧合**(coincidence)就此变成**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记述**(writeup)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊仍把这一解释视为**暂定的**(provisional)。"
         },
         {
           "en": "One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the **cosmic** **background** **radiation**. Decades later COBE measured a near-perfect black-body **profile** at 2.725 K and mapped **fluctuations** — **anisotropies** — near one part in 100,000. The nearly uniform **thermal** glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.",
@@ -145,8 +145,8 @@
           "p": 3
         },
         {
-          "w": "radiometer",
-          "zh": "辐射计",
+          "w": "seek",
+          "zh": "寻找",
           "p": 3
         },
         {

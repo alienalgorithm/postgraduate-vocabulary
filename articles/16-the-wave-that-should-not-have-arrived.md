@@ -11,7 +11,7 @@
 
 A 17 June 1929 **earthquake** near Murchison, New Zealand, sent **seismic** waves through Earth. In Copenhagen the Danish **mathematician** Inge Lehmann read **traces** drawn by seismographs. Each **vibration** was an indirect **probe** of Earth's **interior**. Yet **worldwide** records carried a faint **blip** whose origin was **obscure**.
 
-The accepted model placed a rocky mantle around a fluid core. P waves **compress** the **medium** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P waves **refract** at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where direct P waves should not arrive.
+The accepted model placed a rocky mantle around a fluid core. P waves **compress** the **medium** and cross **solid** or **liquid** material; S waves **shear** it but cannot **penetrate** a liquid **outer** core. P **waves** refract at the boundary; the change in **angle** creates a **shadow** 104°–140° from the source, where direct P waves should not arrive.
 
 Yet faint P′ **arrivals** appeared there. Some **attributed** them to **diffraction** around the core. Lehmann **examined** Murchison and other records. Though **scattered**, their **transit** times matched a **path** through a faster **sphere**. In 1936 she proposed an inner core whose higher **velocity** could **redirect** energy into the shadow.
 
@@ -28,7 +28,7 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 
 1929年6月17日，新西兰默奇森附近的一场**地震**(earthquake)让**地震波**(seismic)穿过地球。在哥本哈根，丹麦**数学家**(mathematician)英格·莱曼研读各台地震仪绘出的**痕迹**(traces)。每一次地面**振动**(vibration)，都是探查地球**内部**(interior)的一枚间接**探针**(probe)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**脉冲**(blip)，来由仍**晦暗不明**(obscure)。
 
-当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)所经**介质**(medium)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P波会在地核边界发生**折射**(refract)；传播**角度**(angle)的改变，会在距震源104至140度处形成一片**阴影区**(shadow)，直达P波本不应抵达那里。
+当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)所经**介质**(medium)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P**波**(waves)会在地核边界发生折射；传播**角度**(angle)的改变，会在距震源104至140度处形成一片**阴影区**(shadow)，直达P波本不应抵达那里。
 
 但微弱P′波的**到达记录**(arrivals)偏偏出现在那里。有人把它们**归因于**(attributed)地核周围的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震以及其他地震的记录。资料虽然**零散**(scattered)，传播时间却符合一条**路径**(path)：**走时**(transit)显示它穿过一个波速更快的中央**球体**(sphere)。1936年，她提出地球存在一个内核；P波在那里具有更高的**速度**(velocity)，因而可能被**重新导向**(redirect)阴影区。
 
@@ -42,7 +42,7 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 
 **§1**（10词）earthquake 地震｜seismic 地震的；地震波的｜mathematician 数学家｜traces 痕迹；轨迹｜vibration 振动｜probe 探针；探查｜interior 内部；内陆｜worldwide 遍及全球的；在全世界｜blip 脉冲；光点｜obscure 晦暗不明的；使难以理解
 
-**§2**（10词）compress 压缩｜medium 介质｜solid 固体；固态的｜liquid 液体；液态的｜shear 剪切；剪断｜penetrate 穿透；洞察｜outer 外部的；外层的｜refract 折射｜angle 角度；角｜shadow 阴影；阴影区
+**§2**（10词）compress 压缩｜medium 介质｜solid 固体；固态的｜liquid 液体；液态的｜shear 剪切；剪断｜penetrate 穿透；洞察｜outer 外部的；外层的｜waves 波｜angle 角度；角｜shadow 阴影；阴影区
 
 **§3**（10词）arrival 到达；到达记录｜attribute 归因于｜diffraction 衍射｜examine 查验了｜scatter 零散分布；散开｜transit 走时；通过｜path 路径｜sphere 球体；范围｜velocity 速度；速率｜redirect 重新导向；使改道
 

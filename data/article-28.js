@@ -11,7 +11,11 @@
       "topic": "20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠",
       "date": "2026-08-24",
       "status": "第二十八篇最终精进锁定稿",
-      "metrics": {"words":270,"keywords":50,"density":18.5},
+      "metrics": {
+        "words": 270,
+        "keywords": 50,
+        "density": 18.5
+      },
       "paras": [
         {
           "en": "In the 1960s, reaching Neptune strained **propellant** budgets; a direct flight could take thirty years. Yet Jupiter, Saturn, Uranus and Neptune were approaching a **configuration**, an **alignment** recurring every 175 years. Its launch windows let designers **stitch** encounters into a **unified** **itinerary**. Grand Tour **reconnaissance** through those **flybys** promised reduced flight time, **launcher** requirements and **expenditure**.",
@@ -22,8 +26,8 @@
           "zh": "计算让这套几何关系真正**可用**(usable)。在JPL，Michael Minovitch构建了**弹道式的**(ballistic)**多行星**(multi-planet)轨道；1965年，Gary Flandro分析了外行星飞行的**机会窗口**(opportunity)。这种机动方式有着悠久的思想**谱系**(pedigree)，其起源却仍**没有定论**(unsettled)；任何把**发明归属**(authorship)锁定于一人的说法都会误导。这些贡献把**转瞬即逝的**(fleeting)**天体**(celestial)几何关系转化为任务架构；每一次相遇都让下一个世界变得**可以抵达**(attainable)。"
         },
         {
-          "en": "Near a planet, a craft follows a **hyperbola**. Speed gained **inbound** is lost **outbound**, a **reciprocal** pattern in the planet's **co-moving** frame. Yet gravity **swivels** its velocity **vector**. In the **heliocentric** frame, adding planetary orbital velocity turns that deflection into a change in **kinetic** energy. Angular momentum changes hands; the planet's response is **imperceptible**.",
-          "zh": "在行星附近，探测器沿一条**双曲线**(hyperbola)运动。**接近时**(inbound)获得的增速会在**远离时**(outbound)失去；这种**互反**(reciprocal)关系成立于行星的**共动**(co-moving)参考系中。然而，引力仍会使它的速度**矢量**(vector)发生**转向**(swivels)。在**日心的**(heliocentric)参考系中，行星的轨道速度一经叠加到前述矢量上，这种偏转便表现为探测器**动能**(kinetic)的变化。角动量在两者之间转移；行星的响应**微小到不可察觉**(imperceptible)。"
+          "en": "Near a planet, a craft follows a **curve**. Speed gained **inbound** is lost **outbound**, a **reciprocal** pattern in the planet's **co-moving** frame. Yet gravity **swivels** its velocity **vector**. In the **Sun**'s frame, adding planetary orbital velocity turns that deflection into a change in **kinetic** energy. Angular momentum changes hands; the planet's response is **imperceptible**.",
+          "zh": "在行星附近，探测器沿一条**曲线**(curve)运动。**接近时**(inbound)获得的增速会在**远离时**(outbound)失去；这种**互反**(reciprocal)关系成立于行星的**共动**(co-moving)参考系中。然而，引力仍会使它的速度**矢量**(vector)发生**转向**(swivels)。在**太阳**(Sun)的参考系中，行星的轨道速度一经叠加到前述矢量上，这种偏转便表现为探测器**动能**(kinetic)的变化。角动量在两者之间转移；行星的响应**微小到不可察觉**(imperceptible)。"
         },
         {
           "en": "Voyager 2 launched in 1977. Jupiter in 1979 **reoriented** it towards Saturn; Saturn in 1981 bent it towards Uranus; Uranus in 1986 sent it towards Neptune in 1989. Each **approach** required precise **targeting** at a prescribed **epoch**. A course **adjustment** could shift **downstream** geometry years later. The four **waypoints** formed one **interdependent** **cascade**, not a **piecemeal** itinerary.",
@@ -35,11 +39,256 @@
         }
       ],
       "glossary": [
-        {"w":"propellant","zh":"推进剂","p":1},{"w":"configuration","zh":"构型；配置","p":1},{"w":"alignment","zh":"排列；对齐","p":1},{"w":"stitch","zh":"串联；缝合","p":1},{"w":"unified","zh":"统一的；一体化的","p":1},{"w":"itinerary","zh":"行程；路线","p":1},{"w":"reconnaissance","zh":"勘测；侦察","p":1},{"w":"flyby","zh":"飞掠","p":1},{"w":"launcher","zh":"运载火箭；发射装置","p":1},{"w":"expenditure","zh":"开支；消耗","p":1},
-        {"w":"usable","zh":"可用的","p":2},{"w":"ballistic","zh":"弹道的","p":2},{"w":"multi-planet","zh":"多行星的","p":2},{"w":"opportunity","zh":"机会；时机","p":2},{"w":"pedigree","zh":"谱系；来历","p":2},{"w":"unsettled","zh":"未定论的；未解决的","p":2},{"w":"authorship","zh":"作者身份；创制归属","p":2},{"w":"fleeting","zh":"短暂的；转瞬即逝的","p":2},{"w":"celestial","zh":"天体的","p":2},{"w":"attainable","zh":"可达到的","p":2},
-        {"w":"hyperbola","zh":"双曲线","p":3},{"w":"inbound","zh":"向内飞行的；接近时","p":3},{"w":"outbound","zh":"向外飞行的；远离时","p":3},{"w":"reciprocal","zh":"互反的；相互的","p":3},{"w":"co-moving","zh":"共动的","p":3},{"w":"swivel","zh":"转动；转向","p":3},{"w":"vector","zh":"矢量","p":3},{"w":"heliocentric","zh":"日心的","p":3},{"w":"kinetic","zh":"动能的；运动的","p":3},{"w":"imperceptible","zh":"难以察觉的","p":3},
-        {"w":"reorient","zh":"重新定向","p":4},{"w":"approach","zh":"接近；进场","p":4},{"w":"targeting","zh":"瞄准；目标定位","p":4},{"w":"epoch","zh":"历元；规定时刻","p":4},{"w":"adjustment","zh":"调整；微调","p":4},{"w":"downstream","zh":"后续的；下游的","p":4},{"w":"waypoint","zh":"航路点","p":4},{"w":"interdependent","zh":"相互依存的","p":4},{"w":"cascade","zh":"级联；连锁","p":4},{"w":"piecemeal","zh":"零碎拼凑的；逐步的","p":4},
-        {"w":"perpetual-motion","zh":"永动的","p":5},{"w":"augment","zh":"增加；增强","p":5},{"w":"decelerate","zh":"减速","p":5},{"w":"conservation","zh":"守恒；保护","p":5},{"w":"cede","zh":"让出；割让","p":5},{"w":"minuscule","zh":"微小的","p":5},{"w":"trim","zh":"微调；配平","p":5},{"w":"limitation","zh":"限制","p":5},{"w":"asset","zh":"资产；有利条件","p":5},{"w":"propulsion","zh":"推进","p":5}
+        {
+          "w": "propellant",
+          "zh": "推进剂",
+          "p": 1
+        },
+        {
+          "w": "configuration",
+          "zh": "构型；配置",
+          "p": 1
+        },
+        {
+          "w": "alignment",
+          "zh": "排列；对齐",
+          "p": 1
+        },
+        {
+          "w": "stitch",
+          "zh": "串联；缝合",
+          "p": 1
+        },
+        {
+          "w": "unified",
+          "zh": "统一的；一体化的",
+          "p": 1
+        },
+        {
+          "w": "itinerary",
+          "zh": "行程；路线",
+          "p": 1
+        },
+        {
+          "w": "reconnaissance",
+          "zh": "勘测；侦察",
+          "p": 1
+        },
+        {
+          "w": "flyby",
+          "zh": "飞掠",
+          "p": 1
+        },
+        {
+          "w": "launcher",
+          "zh": "运载火箭；发射装置",
+          "p": 1
+        },
+        {
+          "w": "expenditure",
+          "zh": "开支；消耗",
+          "p": 1
+        },
+        {
+          "w": "usable",
+          "zh": "可用的",
+          "p": 2
+        },
+        {
+          "w": "ballistic",
+          "zh": "弹道的",
+          "p": 2
+        },
+        {
+          "w": "multi-planet",
+          "zh": "多行星的",
+          "p": 2
+        },
+        {
+          "w": "opportunity",
+          "zh": "机会；时机",
+          "p": 2
+        },
+        {
+          "w": "pedigree",
+          "zh": "谱系；来历",
+          "p": 2
+        },
+        {
+          "w": "unsettled",
+          "zh": "未定论的；未解决的",
+          "p": 2
+        },
+        {
+          "w": "authorship",
+          "zh": "作者身份；创制归属",
+          "p": 2
+        },
+        {
+          "w": "fleeting",
+          "zh": "短暂的；转瞬即逝的",
+          "p": 2
+        },
+        {
+          "w": "celestial",
+          "zh": "天体的",
+          "p": 2
+        },
+        {
+          "w": "attainable",
+          "zh": "可达到的",
+          "p": 2
+        },
+        {
+          "w": "curve",
+          "zh": "曲线",
+          "p": 3
+        },
+        {
+          "w": "inbound",
+          "zh": "向内飞行的；接近时",
+          "p": 3
+        },
+        {
+          "w": "outbound",
+          "zh": "向外飞行的；远离时",
+          "p": 3
+        },
+        {
+          "w": "reciprocal",
+          "zh": "互反的；相互的",
+          "p": 3
+        },
+        {
+          "w": "co-moving",
+          "zh": "共动的",
+          "p": 3
+        },
+        {
+          "w": "swivel",
+          "zh": "转动；转向",
+          "p": 3
+        },
+        {
+          "w": "vector",
+          "zh": "矢量",
+          "p": 3
+        },
+        {
+          "w": "Sun",
+          "zh": "太阳",
+          "p": 3
+        },
+        {
+          "w": "kinetic",
+          "zh": "动能的；运动的",
+          "p": 3
+        },
+        {
+          "w": "imperceptible",
+          "zh": "难以察觉的",
+          "p": 3
+        },
+        {
+          "w": "reorient",
+          "zh": "重新定向",
+          "p": 4
+        },
+        {
+          "w": "approach",
+          "zh": "接近；进场",
+          "p": 4
+        },
+        {
+          "w": "targeting",
+          "zh": "瞄准；目标定位",
+          "p": 4
+        },
+        {
+          "w": "epoch",
+          "zh": "历元；规定时刻",
+          "p": 4
+        },
+        {
+          "w": "adjustment",
+          "zh": "调整；微调",
+          "p": 4
+        },
+        {
+          "w": "downstream",
+          "zh": "后续的；下游的",
+          "p": 4
+        },
+        {
+          "w": "waypoint",
+          "zh": "航路点",
+          "p": 4
+        },
+        {
+          "w": "interdependent",
+          "zh": "相互依存的",
+          "p": 4
+        },
+        {
+          "w": "cascade",
+          "zh": "级联；连锁",
+          "p": 4
+        },
+        {
+          "w": "piecemeal",
+          "zh": "零碎拼凑的；逐步的",
+          "p": 4
+        },
+        {
+          "w": "perpetual-motion",
+          "zh": "永动的",
+          "p": 5
+        },
+        {
+          "w": "augment",
+          "zh": "增加；增强",
+          "p": 5
+        },
+        {
+          "w": "decelerate",
+          "zh": "减速",
+          "p": 5
+        },
+        {
+          "w": "conservation",
+          "zh": "守恒；保护",
+          "p": 5
+        },
+        {
+          "w": "cede",
+          "zh": "让出；割让",
+          "p": 5
+        },
+        {
+          "w": "minuscule",
+          "zh": "微小的",
+          "p": 5
+        },
+        {
+          "w": "trim",
+          "zh": "微调；配平",
+          "p": 5
+        },
+        {
+          "w": "limitation",
+          "zh": "限制",
+          "p": 5
+        },
+        {
+          "w": "asset",
+          "zh": "资产；有利条件",
+          "p": 5
+        },
+        {
+          "w": "propulsion",
+          "zh": "推进",
+          "p": 5
+        }
       ],
       "facts": [
         "【已核】NASA/JPL说明，20世纪60年代（1960s）的任务设计者识别出约175年出现一次的外行星有利排列；Grand Tour可把前往外行星的航程压缩到约8—13年，而单独直飞海王星约需30年，并降低发射功率需求与成本。[NASA History：Voyager, the Grand Tour of Big Science](https://www.nasa.gov/history/SP-4219/Chapter11.html)",
