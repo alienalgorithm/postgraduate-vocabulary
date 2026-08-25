@@ -11,9 +11,9 @@
 
 In 1820 Hans Christian Ørsted showed that a **wire** carrying **electricity** **swung** a **compass** **lying** nearby. Michael Faraday **reversed** the question: could a **magnet** make electricity? He had been trying since 1825 and failing, because he expected a **steady** magnet to yield a steady **trickle** — an **unchanging** cause with a lasting effect.
 
-On 29 August 1831 he **wound** two **windings** on opposite **halves** of a soft iron ring six inches across. One held a **battery**, the other a **galvanometer**. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.
+On 29 August 1831 he **wound** two **windings** on opposite **halves** of a soft **iron** ring six inches across. One held a **battery**, the other a galvanometer. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.
 
-A changing magnetic **flux** through a **loop** **induces** an **electromotive** force, driving charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.
+A changing magnetic **flux** through a **loop** **induces** an electromotive force, **driving** charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.
 
 On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found **induction** independently but published later; Hippolyte Pixii built a **magneto** in 1832.
 
@@ -28,9 +28,9 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 
 1820年，汉斯·克里斯蒂安·奥斯特发现：一根通**电**(electricity)的**导线**(wire)，会让**躺**(lying)在旁边的**罗盘**(compass)针**摆**(swung)动。迈克尔·法拉第把问题**倒**(reversed)了过来：**磁铁**(magnet)能不能生电？他从1825年起一试再试，屡屡落空——因为他指望一块**稳定的**(steady)磁铁产生稳定的**细流**(trickle)，指望一个**不变的**(unchanging)原因带来持续的结果。
 
-1831年8月29日，他在一只六英寸宽的软铁环上、两个相对的**半**(halves)边分别**绕**(wound)了两组**线圈**(windings)。一组接**电池**(battery)，一组接**检流计**(galvanometer)。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。
+1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**绕**(wound)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。
 
-穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出**电动**(electromotive)势，驱使电荷绕**导体**(conductor)流动。10月17日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。
+穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出电动势，**驱使**(driving)电荷绕**导体**(conductor)流动。10月17日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。
 
 10月28日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利已独立发现**感应**(induction)，但发表在后；伊波利特·皮克西1832年造出了**磁电机**(magneto)。
 
@@ -42,9 +42,9 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 
 **§1**（10词）wire 导线｜electricity 电｜swung 摆｜compass 罗盘；指南针｜lying 躺｜reversed 倒｜magnet 磁铁｜steady 稳定的｜trickle 细流；涓流｜unchanging 不变的
 
-**§2**（10词）wound 绕｜winding 线圈；绕组｜halves 半｜battery 电池｜galvanometer 检流计｜kick 蹬；踢｜nought 零｜jerk 猛跳；猛拉｜switching 通断；切换｜interval 持续的间隔
+**§2**（10词）wound 绕｜winding 线圈；绕组｜halves 半｜iron 铁｜battery 电池｜kick 蹬；踢｜nought 零｜jerk 猛跳；猛拉｜switching 通断；切换｜interval 持续的间隔
 
-**§3**（10词）flux 通量｜loop 回路｜induce 感生；引起｜electromotive 电动的｜conductor 导体｜thrust 插入；猛推｜bar 条形的；棒｜helix 螺线管；螺旋｜withdrawal 抽出；撤回｜motionless 静止的
+**§3**（10词）flux 通量｜loop 回路｜induce 感生；引起｜driving 驱使；驱动｜conductor 导体｜thrust 插入；猛推｜bar 条形的；棒｜helix 螺线管；螺旋｜withdrawal 抽出；撤回｜motionless 静止的
 
 **§4**（10词）spinning 旋转｜pole 极｜continuously 连续地｜spindle 转轴｜rim 盘缘；边缘｜rotation 转动｜ancestor 祖先｜dynamo 发电机｜induction 感应｜magneto 磁电机
 

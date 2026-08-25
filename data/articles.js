@@ -625,8 +625,8 @@ window.SITE = {
     },
     "paras": [
       {
-        "en": "At Halley Bay the British Antarctic Survey had measured total-column **ozone** since 1956 with a Dobson **spectrophotometer**, a prism **weighing** **ultraviolet** **intensities** at two **bands**. Every **springtime**, the same reading, on the same days, from the same **hut**. A **baseline** earns its keep by being **dull**.",
-        "zh": "在南极哈雷湾，英国南极调查局自1956年起就用一台多布森**分光光度计**(spectrophotometer)测量**臭氧**(ozone)总柱量。那是一台棱镜仪器，靠**称量**(weighing)两个**波段**(bands)上的**紫外**(ultraviolet)光**强度**(intensities)。每年**春季**(springtime)，同样的读数，同样的日子，同一间**小屋**(hut)。一条**基线**(baseline)的价值，正在于它**枯燥**(dull)。"
+        "en": "At Halley Bay the British Antarctic Survey had measured total-column **ozone** since 1956 with a Dobson spectrophotometer, a **prism** **weighing** **ultraviolet** **intensities** at two **bands**. Every **springtime**, the same reading, on the same days, from the same **hut**. A **baseline** earns its keep by being **dull**.",
+        "zh": "在南极哈雷湾，英国南极调查局自1956年起就用一台多布森分光光度计——一具**棱镜**(prism)仪器——测量**臭氧**(ozone)总柱量。那是一台棱镜仪器，靠**称量**(weighing)两个**波段**(bands)上的**紫外**(ultraviolet)光**强度**(intensities)。每年**春季**(springtime)，同样的读数，同样的日子，同一间**小屋**(hut)。一条**基线**(baseline)的价值，正在于它**枯燥**(dull)。"
       },
       {
         "en": "From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** optics were slipping and ordered a **replacement**; the two **agreed**. A second **outpost** a thousand miles away showed the same **recurring** **decline**. By October 1984 the total stood 40% below its 1960s value, yet the team **hesitated**: nothing had come from **orbit**.",
@@ -652,8 +652,8 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "spectrophotometer",
-        "zh": "分光光度计",
+        "w": "prism",
+        "zh": "棱镜",
         "p": 1
       },
       {
@@ -1233,8 +1233,8 @@ window.SITE = {
         "zh": "到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。"
       },
       {
-        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a **photodiode** read the **reflected** light, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.",
-        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；**光电二极管**(photodiode)读取**反射**(reflected)光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。"
+        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a photodiode read the **reflected** **light**, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.",
+        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；光电二极管读取**反射**(reflected)回的**光**(light)，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。"
       },
       {
         "en": "A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.",
@@ -1428,13 +1428,13 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "photodiode",
-        "zh": "光电二极管",
+        "w": "reflect",
+        "zh": "反射",
         "p": 4
       },
       {
-        "w": "reflect",
-        "zh": "反射",
+        "w": "light",
+        "zh": "光线",
         "p": 4
       },
       {
