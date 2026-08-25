@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 30,
-  "keyword_count": 1500,
+  "article_count": 31,
+  "keyword_count": 1550,
   "articles": [
     {
       "id": "01",
@@ -760,6 +760,25 @@
         "它的沸点较高，是**高沸点**",
         "会给玻璃**留下瑕疵**(blemishing)"
       ]
+    },
+    {
+      "id": "31",
+      "slug": "what-bayer-patented-was-the-wrapper",
+      "title": "What Bayer Patented Was the Wrapper",
+      "title_zh": "拜耳申请专利的是那层包装",
+      "version_id": "31-270-word-final-locked",
+      "status": "第三十一篇定稿",
+      "date": "2026-08-20",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-08-20按《第24篇写作提示词》全流程新写：**选题后先上网核实每个数字再动笔**→词池→草稿十一轮→入库→十五层→第9轮五问→台账；四个白送词全部按第零条之三处置（取消加粗、让出名额，未改英文）",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "2545a2babe27a3999f5d74f00b4f3c72db354ab83aba4a23d52ac90050443834",
+      "markdown_sha256": "fd189f6c771b00da60668eb9b6487fe89c13eb9538b1b1b9e6705ac9a428b1cd",
+      "markdown_git_blob_sha": "8a12b88a10c9e3bd66e70dc0c6dfb2e2f3a7e6f2",
+      "superseded_signatures": []
     }
   ]
 }
