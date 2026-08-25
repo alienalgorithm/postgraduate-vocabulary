@@ -2,7 +2,7 @@
 
 > 题材：1837年罗兰·希尔的邮政改革与「成本不在运送而在记账」这一发现
 > 状态：**第三十三篇定稿**（2026-08-20）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 人人都以为邮资该按距离算，因为马车就是按英里收钱的。可希尔把账翻开一看：伦敦到爱丁堡的信收十三便士，而真正的运费只有一便士的三十六分之一——贵的从来不是路，是记账。
 
 ---
@@ -11,13 +11,13 @@
 
 In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of **Parliament** sent their own letters **exempt**, and the rest of the country **covered** the **deficit**.
 
-So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **letter**. The office had **hauled** it four **hundred** miles for nothing.
+So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **letter**. The office had **hauled** it four **hundred** miles for nothing.
 
 Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.
 
-In 1837 Rowland Hill, a **schoolmaster** holding no postal office, did the arithmetic. Of the **annual** outlay, only a hundred and **forty-four** **thousand** pounds moved with distance; two hundred and eighty-two did not. Spread over the **traffic**, the **hauling** came to a **fraction** of a **penny**. For the **Edinburgh** mail he put it at one **thirty-sixth**.
+In 1837 Rowland Hill, a **schoolmaster** holding no postal office, did the arithmetic. Of the **annual** outlay, only a hundred and **forty-four** **thousand** pounds moved with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, the **hauling** came to a **fraction** of a **penny**. For the **Edinburgh** mail he put it at one **thirty-sixth**.
 
-The office charged thirteen pence to move what cost a thirty-sixth of one. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. **Prepayment** **erased** the ledger. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in on the **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.
+The office charged thirteen pence to move what cost a thirty-sixth. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. **Prepayment** **erased** the ledger. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.
 
 ---
 
@@ -62,3 +62,4 @@ The office charged thirteen pence to move what cost a thirty-sixth of one. The e
 - **已核 · 判别性证据**：希尔1837年《Post Office Reform: its Importance and Practicability》所算——随距离变动的支出为 **£144,000**，与距离无关的为 **£282,000**；按当年通过邮局的 1.26 亿件计，每件平均成本约 84/100 便士，其中运送 28/100、收寄与投递 56/100；计入报纸与免邮件较重后，运送实际仅约 9/100 便士。**就爱丁堡邮路专门估算，运送成本降至一便士的三十六分之一。**[1911 Encyclopædia Britannica：Post, and Postal Service](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Post,_and_Postal_Service)｜[British Post Office 全文](https://archive.org/stream/britishpostoffi00mars/britishpostoffi00mars_djvu.txt)
 - **已核 · 施行与结果**：统一四便士资费自1839年12月5日起，统一一便士资费自1840年1月10日起；**开办首日寄出112,000封信，为平日三倍以上**。1839年全英寄信7,600万封，1840年增至1.68—1.69亿封，十年后达3.47亿封。黑便士于1840年5月1日发行、5月6日起可用。**一处两说已标注**：《邮政条例法案》御准日期，Victorian Review 记为1839年8月17日，The Postal Museum 记为8月15日；本文不依赖该日期。[Victorian Web：The Penny Post](https://www.victorianweb.org/history/pennypos.html)｜[Victorian Review：Rowland Hill (1795-1879)](https://muse.jhu.edu/article/478580/summary)
 - **已核 · 本篇的机制边界**：希尔的论证不是「降价能增收」，而是「**支出的构成与距离无关**」——运送近乎免费，昂贵的是为每封信计费、登记、上门收款这一整套账务。预付（先以邮资已付信封、后以邮票）取消的正是这套账务。收入确实在此后多年低于改革前水平。[Uniform Penny Post](https://en.wikipedia.org/wiki/Uniform_Penny_Post)
+- **已核 · 正文两处数字的阿拉伯写法**：① 正文 §1「In the **1830s**」——1812年定下的伦敦至爱丁堡资费一直行用至1839年改革，故整个 1830 年代皆为十三便士；② 正文 §5「168 million」——1840年全英寄信 **168** 百万封（另有来源作 169 百万，差异源于统计口径，本文取 168）。1839年为 76 百万封。[Victorian Web：The Penny Post](https://www.victorianweb.org/history/pennypos.html)｜[The Postal Museum：Uniform penny postage](https://www.postalmuseum.org/collections/highlights/philatelic-collection/british-postal-markings/uniform-penny-postage/)
