@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 31,
-  "keyword_count": 1550,
+  "article_count": 32,
+  "keyword_count": 1600,
   "articles": [
     {
       "id": "01",
@@ -778,6 +778,25 @@
       "canonical_fingerprint_sha256": "17f2c3348ca9e596a2cf20218b48b39beeb45f3eddaf7864c730fc3238868dcf",
       "markdown_sha256": "047d8872e9fda53c4c0c6c2b0959c7d1e1d0dc9f924e84c160a393fc17f736e8",
       "markdown_git_blob_sha": "85384d825c33728ccd3b67d3dfa2e77ce999e756",
+      "superseded_signatures": []
+    },
+    {
+      "id": "32",
+      "slug": "the-metre-kept-its-mistake",
+      "title": "The Metre Kept Its Mistake",
+      "title_zh": "米留下了那个错误",
+      "version_id": "32-271-word-final-locked",
+      "status": "第三十二篇定稿",
+      "date": "2026-08-20",
+      "words": 271,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-08-20按《第32篇写作提示词》全流程新写：动笔前先核实每个数字→词池→草稿二十余轮→入库→十五层→第9轮五问→台账；15个白送词与2个行话词全部按第零条之三处置（取消加粗、让出名额）",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "fe252223524cb8649b2db8a21d11cbf8da7b91722bb16d9a65a2c4388108edca",
+      "markdown_sha256": "19249605289429cce25b7b6aea5a97874a7f84c08850200080ad6741e0f69227",
+      "markdown_git_blob_sha": "839fd670234fbfc3e5c25c2d438481a0000b3444",
       "superseded_signatures": []
     }
   ]

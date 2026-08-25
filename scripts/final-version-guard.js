@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '32': { source: '2026-08-20按《第32篇写作提示词》全流程新写：动笔前先核实每个数字→词池→草稿二十余轮→入库→十五层→第9轮五问→台账；15个白送词与2个行话词全部按第零条之三处置（取消加粗、让出名额）', verification: 'conversation-latest-final' },
   '31': { source: '2026-08-20按《第24篇写作提示词》全流程新写：**选题后先上网核实每个数字再动笔**→词池→草稿十一轮→入库→十五层→第9轮五问→台账；四个白送词全部按第零条之三处置（取消加粗、让出名额，未改英文）', verification: 'conversation-latest-final' },
   '30': { source: '2026-08-24第30篇浮法玻璃主题第13轮独立盲审最终精进锁定稿；经原始专利与Pilkington官方工艺资料复核，明确对玻璃的低反应性、6.8毫米平衡厚度、浮渣风险与轧辊接触边界，并完成前1450词同根去重及全库验证', verification: 'conversation-latest-final' },
 };
@@ -80,6 +81,7 @@ const VERSION_IDS = {
   '29': '29-270-word-final-locked',
   '30': '30-271-word-final-locked',
   '31': '31-267-word-final-locked',
+  '32': '32-271-word-final-locked',
 
 };
 
