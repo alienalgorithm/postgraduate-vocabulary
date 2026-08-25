@@ -48,12 +48,96 @@ li em{display:block;color:var(--navy);font-style:normal;font-size:12.5px;margin-
 正则一条都报不出来。词价判据为 wordfreq 的 Zipf 词频：≥5.0 判为白送词（考研生早已掌握，
 占用名额即浪费教学预算），4.6—5.0 记为边缘。</p>
 <div class="sum">
-<div><b>24</b><span>篇</span></div>
-<div><b>98</b><span>平均分</span></div>
+<div><b>30</b><span>篇</span></div>
+<div><b>95</b><span>平均分</span></div>
 <div><b>0</b><span>硬伤合计</span></div>
-<div><b>24</b><span>零硬伤</span></div>
+<div><b>30</b><span>零硬伤</span></div>
 </div>
 <details class="card"><summary>
+<span class="sc s-mid">76</span>
+<span class="no">25</span>
+<span class="ti">The Patient Came Before the Envelope</span>
+<span class="bars"><i class="ok" style="height:71%" title="§1 48词/10词 20.8%"></i><i class="ok" style="height:67%" title="§2 51词/10词 19.6%"></i><i class="warn" style="height:79%" title="§3 43词/10词 23.3%"></i><i class="ok" style="height:58%" title="§4 59词/10词 16.9%"></i><i class="ok" style="height:49%" title="§5 70词/10词 14.3%"></i></span>
+<span class="tags"><b class="c">待核8</b></span>
+</summary>
+<div class="body">
+<table><tr><th>词数</th><td>271</td><th>重点词</th><td>50</td><th>密度</th><td>18.5%</td></tr>
+<tr><th>段落词数</th><td colspan="5">48 · 51 · 43 · 59 · 70</td></tr>
+<tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
+<tr><th>局部密度</th><td colspan="5">20.8% · 19.6% · 23.3% · 16.9% · 14.3%</td></tr>
+<tr><th>白送词</th><td colspan="3">0 确定 + 0 边缘</td><th>人名</th><td>2</td></tr>
+</table>
+<ul><li class="check"><b>[AUD-03] 未跑刁钻一问与最弱一句</b><span>polish 第9轮 ④⑤ 未执行</span><em>→ **抓到问题第二多（7/26），且那三处最致命的错误全出自这里**（him 指错人／entropy 归属错／首位女性漏限定）。跑 python3 scripts/polish.py 25 round 9</em></li><li class="check"><b>[BAL-02b] §3 局部密度偏高</b><span>23.3%</span></li><li class="check"><b>[BAL-06] 段落长短悬殊</b><span>48/51/43/59/70，极差 27</span></li><li class="check"><b>[FACT-01] 正文数字在核对中查无出处</b><span>30</span><em>→ 补进 facts 并附来源；数字是这套文章最容易在改写中飘走的东西</em></li><li class="check"><b>[FIT-02] §3 单句加粗密度 4/9 = 44%</b><span>Bacteriologists reading sputum smears and cultures were likewi</span><em>→ 全篇均值约 18%。**密度高不等于硬塞，须逐句读。**
+        判据是：把其中一个加粗词删掉（连同它所在的成分），句子会不会因此松掉？
+        会松 → 那些词是承重的，保留；
+        不会松 → 那个词是塞进来凑名额的，取消加粗、把名额让给别处。
+        实例：Prevailing medical opinion blamed the foul air.（4/7=57%）四个词各自精准，删任一个句子都松，保留。</em></li><li class="check"><b>[FIT-02] §5 单句加粗密度 3/5 = 60%</b><span>Its methodological landmark was concealment.</span><em>→ 全篇均值约 18%。**密度高不等于硬塞，须逐句读。**
+        判据是：把其中一个加粗词删掉（连同它所在的成分），句子会不会因此松掉？
+        会松 → 那些词是承重的，保留；
+        不会松 → 那个词是塞进来凑名额的，取消加粗、把名额让给别处。
+        实例：Prevailing medical opinion blamed the foul air.（4/7=57%）四个词各自精准，删任一个句子都松，保留。</em></li><li class="check"><b>[STR-02] §2 无任何数字</b><span>写作规范 §3.2：给数字，不给形容词</span></li><li class="check"><b>[SYN-02] 句长节奏偏平</b><span>均长 13.0 差 5.2　参照：优秀说理散文 均长 21.2 差 12.0</span><em>→ 长短句交替才有呼吸。本体裁受 270 词与 50 重点词双重约束，达不到语料的 12.0，但差值低于 5.5 会读成一句一句往外蹦</em></li><li class="info"><b>[FIT-01] §1 插入成分里连着两个加粗</b><span>, **bilateral** **pulmonary**</span><em>→ 同位语与插入语最容易被用来塞词。确认这个成分是论证需要的，而非为凑满 10 个而加</em></li><li class="info"><b>[SRC-01] 1/7 条史实无来源链接</b><span>第 6 条</span><em>→ **本层不判真假，只逼出「这条核过没有」。** 带得出可点开的链接才算核过。
+        第05篇实证：末句 The Smithsonian keeps the wrapper 是错的——史密森未收藏那包口香糖，展出过的是复制品，馆藏的是最初十台扫描仪之一。
+        那条 facts 当时没有链接。**没链接的那条，就是没核过的那条。**</em></li><li class="info"><b>[STR-05] §5 代词开头需核指代</b><span>That fairness made a counterfactual comparison credible: the patient h…</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[SYN-05] 邻句实词重复偏多</b><span>每对相邻句平均重复 0.38 个实词（上限 0.35）</span><em>→ 接力靠的是推进，不是复述同一个名词</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**bilateral** **pulmonary**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**numbered** **envelope**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**methodological** **landmark**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li></ul></div></details><details class="card"><summary>
+<span class="sc s-mid">79</span>
+<span class="no">26</span>
+<span class="ti">The Image Arrived Two Days Later</span>
+<span class="bars"><i class="ok" style="height:67%" title="§1 51词/10词 19.6%"></i><i class="ok" style="height:67%" title="§2 51词/10词 19.6%"></i><i class="ok" style="height:62%" title="§3 55词/10词 18.2%"></i><i class="ok" style="height:62%" title="§4 55词/10词 18.2%"></i><i class="ok" style="height:59%" title="§5 58词/10词 17.2%"></i></span>
+<span class="tags"><b class="c">待核7</b></span>
+</summary>
+<div class="body">
+<table><tr><th>词数</th><td>270</td><th>重点词</th><td>50</td><th>密度</th><td>18.5%</td></tr>
+<tr><th>段落词数</th><td colspan="5">51 · 51 · 55 · 55 · 58</td></tr>
+<tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
+<tr><th>局部密度</th><td colspan="5">19.6% · 19.6% · 18.2% · 18.2% · 17.2%</td></tr>
+<tr><th>白送词</th><td colspan="3">0 确定 + 0 边缘</td><th>人名</th><td>1</td></tr>
+</table>
+<ul><li class="check"><b>[AUD-01] 史实未逐条上网核</b><span>5 条史实无一标注「已核」</span><em>→ **这是抓到问题最多的一条（11/26）**。核过的条目应在 facts 写明「已核」并附链接</em></li><li class="check"><b>[AUD-02] 未存快照</b><span>REG 差分层对本篇不生效</span><em>→ 改动弄坏了什么无从发现。跑 python3 scripts/regress.py 26 snapshot</em></li><li class="check"><b>[AUD-03] 未跑刁钻一问与最弱一句</b><span>polish 第9轮 ④⑤ 未执行</span><em>→ **抓到问题第二多（7/26），且那三处最致命的错误全出自这里**（him 指错人／entropy 归属错／首位女性漏限定）。跑 python3 scripts/polish.py 26 round 9</em></li><li class="check"><b>[STR-03] 结尾两句格言相邻</b><span>…CT solved an inverse problem: external measurements revealed internal structure. / That synthesis mattered—no single ray showed the tumour; together, rays made location calculable.</span><em>→ 两条箴言互相削弱；中间垫一句具体事实，或只留一条</em></li><li class="check"><b>[SYN-02] 句长节奏偏平</b><span>均长 10.8 差 3.3　参照：优秀说理散文 均长 21.2 差 12.0</span><em>→ 长短句交替才有呼吸。本体裁受 270 词与 50 重点词双重约束，达不到语料的 12.0，但差值低于 5.5 会读成一句一句往外蹦</em></li><li class="check"><b>[SYN-04] §3 抽象名词作主语</b><span>system —— His bench system needed nine days for 28,000 readings.…</span><em>→ 写作规范 §3.3：把动作还给具体的人或物</em></li><li class="check"><b>[SYN-04] §5 抽象名词作主语</b><span>systems —— Commercial systems replaced iteration with faster convolution back-pro…</span><em>→ 写作规范 §3.3：把动作还给具体的人或物</em></li><li class="info"><b>[ANC-01] 标题里的词正文没有原形</b><span>arrived</span><em>→ **须人工判定，不是硬伤。** 标题用同义或隐喻是正常的——第02篇 sunlight 落在末句的 never needed sun，第14篇 trapped 落在 gripped。
+        真正要防的是「改动把落点删掉了」：第22篇为省词删掉末句的 question，而标题正是 Only That Question Had a Number。那一类由 REG-01 差分捕捉。</em></li><li class="info"><b>[GLO-03] 词元疑似非原形</b><span>sampling</span><em>→ 速查表应给词典原形，便于背记</em></li><li class="info"><b>[JDG-01] 中段没有任何转折词</b><span>instead / yet / but / however / rather than 一个都没有</span><em>→ 确认这篇是在论证，而不是在编年；无反转的叙述读完不会有豁然开朗感</em></li><li class="info"><b>[STR-05] §5 代词开头需核指代</b><span>That synthesis mattered—no single ray showed the tumour; together, ray…</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[VAL-03] §3 相邻加粗</b><span>**iterative** **computation**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**non-invasive** **diagnostic**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**convolution** **back-projection**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li></ul></div></details><details class="card"><summary>
+<span class="sc s-mid">79</span>
+<span class="no">27</span>
+<span class="ti">The Cable Stretched Every Pulse</span>
+<span class="bars"><i class="ok" style="height:69%" title="§1 49词/10词 20.4%"></i><i class="ok" style="height:65%" title="§2 52词/10词 19.2%"></i><i class="ok" style="height:62%" title="§3 55词/10词 18.2%"></i><i class="ok" style="height:65%" title="§4 52词/10词 19.2%"></i><i class="ok" style="height:55%" title="§5 62词/10词 16.1%"></i></span>
+<span class="tags"><b class="c">待核7</b></span>
+</summary>
+<div class="body">
+<table><tr><th>词数</th><td>270</td><th>重点词</th><td>50</td><th>密度</th><td>18.5%</td></tr>
+<tr><th>段落词数</th><td colspan="5">49 · 52 · 55 · 52 · 62</td></tr>
+<tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
+<tr><th>局部密度</th><td colspan="5">20.4% · 19.2% · 18.2% · 19.2% · 16.1%</td></tr>
+<tr><th>白送词</th><td colspan="3">0 确定 + 1 边缘</td><th>人名</th><td>0</td></tr>
+</table>
+<ul><li class="check"><b>[AUD-01] 史实未逐条上网核</b><span>6 条史实无一标注「已核」</span><em>→ **这是抓到问题最多的一条（11/26）**。核过的条目应在 facts 写明「已核」并附链接</em></li><li class="check"><b>[AUD-02] 未存快照</b><span>REG 差分层对本篇不生效</span><em>→ 改动弄坏了什么无从发现。跑 python3 scripts/regress.py 27 snapshot</em></li><li class="check"><b>[AUD-03] 未跑刁钻一问与最弱一句</b><span>polish 第9轮 ④⑤ 未执行</span><em>→ **抓到问题第二多（7/26），且那三处最致命的错误全出自这里**（him 指错人／entropy 归属错／首位女性漏限定）。跑 python3 scripts/polish.py 27 round 9</em></li><li class="check"><b>[SRC-02] 1 条含数字或专名的史实无来源</b><span>第 6 条</span><em>→ 含具体数字或人名地名的断言最容易记错，也最该给出处</em></li><li class="check"><b>[STR-01] 全篇无人名</b><span>写作规范 §3.3：主语用人或具体物</span><em>→ 把动作还给具体的人：谁做了什么、预期什么、被什么推翻</em></li><li class="check"><b>[STR-02] §2 无任何数字</b><span>写作规范 §3.2：给数字，不给形容词</span></li><li class="check"><b>[STR-03] 结尾两句格言相邻</b><span>…More drive does not guarantee legibility. / The fallacy was asking electrical force to repair a damaged shape.</span><em>→ 两条箴言互相削弱；中间垫一句具体事实，或只留一条</em></li><li class="info"><b>[GLO-03] 词元疑似非原形</b><span>scaling</span><em>→ 速查表应给词典原形，便于背记</em></li><li class="info"><b>[GLO-03] 词元疑似非原形</b><span>handling</span><em>→ 速查表应给词典原形，便于背记</em></li><li class="info"><b>[JDG-01] 中段没有任何转折词</b><span>instead / yet / but / however / rather than 一个都没有</span><em>→ 确认这篇是在论证，而不是在编年；无反转的叙述读完不会有豁然开朗感</em></li><li class="info"><b>[SRC-01] 1/6 条史实无来源链接</b><span>第 6 条</span><em>→ **本层不判真假，只逼出「这条核过没有」。** 带得出可点开的链接才算核过。
+        第05篇实证：末句 The Smithsonian keeps the wrapper 是错的——史密森未收藏那包口香糖，展出过的是复制品，馆藏的是最初十台扫描仪之一。
+        那条 facts 当时没有链接。**没链接的那条，就是没核过的那条。**</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**pulse** **dispersed**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §3 相邻加粗</b><span>**luminous** **spot**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**defective** **insulation**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**exacerbated** **vulnerability**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**broadened** **waveform**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li></ul></div></details><details class="card"><summary>
+<span class="sc s-mid">85</span>
+<span class="no">28</span>
+<span class="ti">The Route Became the Engine</span>
+<span class="bars"><i class="ok" style="height:61%" title="§1 56词/10词 17.9%"></i><i class="ok" style="height:67%" title="§2 51词/10词 19.6%"></i><i class="ok" style="height:63%" title="§3 54词/10词 18.5%"></i><i class="ok" style="height:60%" title="§4 57词/10词 17.5%"></i><i class="ok" style="height:65%" title="§5 52词/10词 19.2%"></i></span>
+<span class="tags"><b class="c">待核5</b></span>
+</summary>
+<div class="body">
+<table><tr><th>词数</th><td>270</td><th>重点词</th><td>50</td><th>密度</th><td>18.5%</td></tr>
+<tr><th>段落词数</th><td colspan="5">56 · 51 · 54 · 57 · 52</td></tr>
+<tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
+<tr><th>局部密度</th><td colspan="5">17.9% · 19.6% · 18.5% · 17.5% · 19.2%</td></tr>
+<tr><th>白送词</th><td colspan="3">0 确定 + 2 边缘</td><th>人名</th><td>3</td></tr>
+</table>
+<ul><li class="check"><b>[REG-05] 白送词增加</b><span>-1 → 0</span><em>→ 改动引入了 Zipf≥5.0 的词</em></li><li class="check"><b>[REG-05] 边缘词增加</b><span>-1 → 2</span></li><li class="check"><b>[STR-02] §3 无任何数字</b><span>写作规范 §3.2：给数字，不给形容词</span></li><li class="check"><b>[SYN-02] 句长节奏偏平</b><span>均长 12.6 差 4.8　参照：优秀说理散文 均长 21.2 差 12.0</span><em>→ 长短句交替才有呼吸。本体裁受 270 词与 50 重点词双重约束，达不到语料的 12.0，但差值低于 5.5 会读成一句一句往外蹦</em></li><li class="check"><b>[SYN-04] §4 抽象名词作主语</b><span>approach —— Each approach required precise targeting at a prescribed epoch.…</span><em>→ 写作规范 §3.3：把动作还给具体的人或物</em></li><li class="info"><b>[ANC-01] 标题里的词正文没有原形</b><span>engine</span><em>→ **须人工判定，不是硬伤。** 标题用同义或隐喻是正常的——第02篇 sunlight 落在末句的 never needed sun，第14篇 trapped 落在 gripped。
+        真正要防的是「改动把落点删掉了」：第22篇为省词删掉末句的 question，而标题正是 Only That Question Had a Number。那一类由 REG-01 差分捕捉。</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**unified** **itinerary**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**ballistic** **multi-planet**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**fleeting** **celestial**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**interdependent** **cascade**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li></ul></div></details><details class="card"><summary>
+<span class="sc s-mid">88</span>
+<span class="no">30</span>
+<span class="ti">The Window Floated on Tin</span>
+<span class="bars"><i class="ok" style="height:72%" title="§1 47词/10词 21.3%"></i><i class="ok" style="height:60%" title="§2 57词/10词 17.5%"></i><i class="ok" style="height:58%" title="§3 59词/10词 16.9%"></i><i class="ok" style="height:71%" title="§4 48词/10词 20.8%"></i><i class="ok" style="height:57%" title="§5 60词/10词 16.7%"></i></span>
+<span class="tags"><b class="c">待核4</b></span>
+</summary>
+<div class="body">
+<table><tr><th>词数</th><td>271</td><th>重点词</th><td>50</td><th>密度</th><td>18.5%</td></tr>
+<tr><th>段落词数</th><td colspan="5">47 · 57 · 59 · 48 · 60</td></tr>
+<tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
+<tr><th>局部密度</th><td colspan="5">21.3% · 17.5% · 16.9% · 20.8% · 16.7%</td></tr>
+<tr><th>白送词</th><td colspan="3">0 确定 + 1 边缘</td><th>人名</th><td>4</td></tr>
+</table>
+<ul><li class="check"><b>[REG-05] 白送词增加</b><span>-1 → 0</span><em>→ 改动引入了 Zipf≥5.0 的词</em></li><li class="check"><b>[REG-05] 边缘词增加</b><span>-1 → 1</span></li><li class="check"><b>[SYN-02] 句长节奏偏平</b><span>均长 14.1 差 4.9　参照：优秀说理散文 均长 21.2 差 12.0</span><em>→ 长短句交替才有呼吸。本体裁受 270 词与 50 重点词双重约束，达不到语料的 12.0，但差值低于 5.5 会读成一句一句往外蹦</em></li><li class="check"><b>[SYN-04] §5 抽象名词作主语</b><span>process —— The float process reversed that logic.…</span><em>→ 写作规范 §3.3：把动作还给具体的人或物</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**waviness** **warped**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**panes** **affordable**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li></ul></div></details><details class="card"><summary>
 <span class="sc s-hi">91</span>
 <span class="no">12</span>
 <span class="ti">The Blank Was Not Blank</span>
@@ -76,6 +160,20 @@ li em{display:block;color:var(--navy);font-style:normal;font-size:12.5px;margin-
         会松 → 那些词是承重的，保留；
         不会松 → 那个词是塞进来凑名额的，取消加粗、把名额让给别处。
         实例：Prevailing medical opinion blamed the foul air.（4/7=57%）四个词各自精准，删任一个句子都松，保留。</em></li><li class="check"><b>[SYN-02] 句长节奏偏平</b><span>均长 13.8 差 5.0　参照：优秀说理散文 均长 21.2 差 12.0</span><em>→ 长短句交替才有呼吸。本体裁受 270 词与 50 重点词双重约束，达不到语料的 12.0，但差值低于 5.5 会读成一句一句往外蹦</em></li><li class="info"><b>[GLO-03] 词元疑似非原形</b><span>shallows</span><em>→ 速查表应给词典原形，便于背记</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**nuclear** **decay**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**uranium** **isotopes**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**glassware** **contaminated**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**tetraethyl** **exhaust**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[ZH-01] §3 单字加粗需确认</b><span>**定**(fixed)　…1956年他把这个数**定**(fixed)在45.5±0.…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §5 单字加粗需确认</b><span>**撤**(withdrawn)　…lotry)。经费被**撤**(withdrawn)，1971年行业…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li></ul></div></details><details class="card"><summary>
+<span class="sc s-hi">91</span>
+<span class="no">29</span>
+<span class="ti">The Ships Climbed on Rainwater</span>
+<span class="bars"><i class="ok" style="height:68%" title="§1 50词/10词 20.0%"></i><i class="ok" style="height:64%" title="§2 53词/10词 18.9%"></i><i class="ok" style="height:68%" title="§3 50词/10词 20.0%"></i><i class="ok" style="height:55%" title="§4 62词/10词 16.1%"></i><i class="ok" style="height:62%" title="§5 55词/10词 18.2%"></i></span>
+<span class="tags"><b class="c">待核3</b></span>
+</summary>
+<div class="body">
+<table><tr><th>词数</th><td>270</td><th>重点词</th><td>50</td><th>密度</th><td>18.5%</td></tr>
+<tr><th>段落词数</th><td colspan="5">50 · 53 · 50 · 62 · 55</td></tr>
+<tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
+<tr><th>局部密度</th><td colspan="5">20.0% · 18.9% · 20.0% · 16.1% · 18.2%</td></tr>
+<tr><th>白送词</th><td colspan="3">0 确定 + 0 边缘</td><th>人名</th><td>6</td></tr>
+</table>
+<ul><li class="check"><b>[REG-05] 白送词增加</b><span>-1 → 0</span><em>→ 改动引入了 Zipf≥5.0 的词</em></li><li class="check"><b>[REG-05] 边缘词增加</b><span>-1 → 0</span></li><li class="check"><b>[SYN-02] 句长节奏偏平</b><span>均长 13.1 差 5.2　参照：优秀说理散文 均长 21.2 差 12.0</span><em>→ 长短句交替才有呼吸。本体裁受 270 词与 50 重点词双重约束，达不到语料的 12.0，但差值低于 5.5 会读成一句一句往外蹦</em></li><li class="info"><b>[STR-05] §1 代词开头需核指代</b><span>That decision conferred legitimacy, not invention.</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**sea-level** **canal**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**conferred** **legitimacy**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**submerged** **valleys**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**flood** **hazard**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §3 相邻加粗</b><span>**mitre** **gates**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**adjacent** **lanes**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**multinational** **workforce**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**hydraulic** **staircase**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**rainfall** **replenished**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li></ul></div></details><details class="card"><summary>
 <span class="sc s-hi">94</span>
 <span class="no">01</span>
 <span class="ti">Snow and the Broad Street Pump</span>
@@ -294,17 +392,17 @@ li em{display:block;color:var(--navy);font-style:normal;font-size:12.5px;margin-
 <span class="sc s-hi">97</span>
 <span class="no">24</span>
 <span class="ti">The Change That Doubled the Load</span>
-<span class="bars"><i class="ok" style="height:65%" title="§1 52词/10词 19.2%"></i><i class="ok" style="height:72%" title="§2 47词/10词 21.3%"></i><i class="ok" style="height:64%" title="§3 53词/10词 18.9%"></i><i class="ok" style="height:65%" title="§4 52词/10词 19.2%"></i><i class="ok" style="height:55%" title="§5 62词/10词 16.1%"></i></span>
+<span class="bars"><i class="ok" style="height:69%" title="§1 49词/10词 20.4%"></i><i class="ok" style="height:72%" title="§2 47词/10词 21.3%"></i><i class="ok" style="height:64%" title="§3 53词/10词 18.9%"></i><i class="ok" style="height:65%" title="§4 52词/10词 19.2%"></i><i class="ok" style="height:55%" title="§5 62词/10词 16.1%"></i></span>
 <span class="tags"><b class="c">待核1</b></span>
 </summary>
 <div class="body">
-<table><tr><th>词数</th><td>266</td><th>重点词</th><td>50</td><th>密度</th><td>18.8%</td></tr>
-<tr><th>段落词数</th><td colspan="5">52 · 47 · 53 · 52 · 62</td></tr>
+<table><tr><th>词数</th><td>263</td><th>重点词</th><td>50</td><th>密度</th><td>19.0%</td></tr>
+<tr><th>段落词数</th><td colspan="5">49 · 47 · 53 · 52 · 62</td></tr>
 <tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
-<tr><th>局部密度</th><td colspan="5">19.2% · 21.3% · 18.9% · 19.2% · 16.1%</td></tr>
-<tr><th>白送词</th><td colspan="3">0 确定 + 12 边缘</td><th>人名</th><td>4</td></tr>
+<tr><th>局部密度</th><td colspan="5">20.4% · 21.3% · 18.9% · 19.2% · 16.1%</td></tr>
+<tr><th>白送词</th><td colspan="3">0 确定 + 13 边缘</td><th>人名</th><td>4</td></tr>
 </table>
-<ul><li class="check"><b>[STR-03] 结尾两句格言相邻</b><span>…A nut pulled through its beam; its load passed to the remaining rods, which went the same way. / The new detail could carry about a third of what city regulation required.</span><em>→ 两条箴言互相削弱；中间垫一句具体事实，或只留一条</em></li><li class="info"><b>[STR-05] §1 代词开头需核指代</b><span>It remains the deadliest structural collapse in American history outsi…</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[STR-05] §2 代词开头需核指代</b><span>It ran from the ceiling, through a box beam under the fourth-floor wal…</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**suspended** **walkways**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**deadliest** **structural**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**storey** **hung**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**hanging** **beneath**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**verbal** **approval**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[ZH-01] §1 单字加粗需确认</b><span>**砸**(fell)　…ways)垮了下来，**砸**(fell)在下方正在进行的…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §1 单字加粗需确认</b><span>**四**(fourteen)　…nce)上。一百一十**四**(fourteen)人死亡，216人…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**杆**(rod)　…fied)一根通长钢**杆**(rod)。它从顶棚垂下，…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**梁**(beam)　…or)天桥下方的箱形**梁**(beam)，再**往下**…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**挂**(hung)　…**(burden)**挂**(hung)在这根杆上，每个…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**层**(floor)　…杆上，每个螺母只承一**层**(floor)。…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §3 单字加粗需确认</b><span>**车**(cutting)　…四层，四层再到二层。**车**(cutting)得少了，图纸没变…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**承**(bore)　…并排看。改之前，它只**承**(bore)四层。改之后，它…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**挂**(hanging)　…*(beneath)**挂**(hanging)着的一切。这一改…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**动**(altered)　…的一切。这一改几乎没**动**(altered)**图样**(s…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**数**(numbers)　…)为那个接头算过一笔**数**(numbers)。…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §5 单字加粗需确认</b><span>**转**(passed)　…里被拽穿；它那份荷载**转**(passed)给**剩下**(…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li></ul></div></details><details class="card"><summary>
+<ul><li class="check"><b>[STR-03] 结尾两句格言相邻</b><span>…A nut pulled through its beam; its load passed to the remaining rods, which went the same way. / The new detail could carry about a third of what city regulation required.</span><em>→ 两条箴言互相削弱；中间垫一句具体事实，或只留一条</em></li><li class="info"><b>[STR-05] §1 代词开头需核指代</b><span>It remains the deadliest structural collapse in American history outsi…</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[STR-05] §2 代词开头需核指代</b><span>It ran from the ceiling, through a box beam under the fourth-floor wal…</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**suspended** **walkways**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**deadliest** **structural**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**storey** **hung**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**hanging** **beneath**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §5 相邻加粗</b><span>**verbal** **approval**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[ZH-01] §1 单字加粗需确认</b><span>**砸**(fell)　…ways)垮了下来，**砸**(fell)在下方正在进行的…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**杆**(rod)　…fied)一根通长钢**杆**(rod)。它从顶棚垂下，…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**梁**(beam)　…or)天桥下方的箱形**梁**(beam)，再**往下**…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**挂**(hung)　…**(burden)**挂**(hung)在这根杆上，每个…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**层**(floor)　…杆上，每个螺母只承一**层**(floor)。…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §3 单字加粗需确认</b><span>**车**(cutting)　…四层，四层再到二层。**车**(cutting)得少了，图纸没变…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**承**(bore)　…并排看。改之前，它只**承**(bore)四层。改之后，它…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**挂**(hanging)　…*(beneath)**挂**(hanging)着的一切。这一改…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**动**(altered)　…的一切。这一改几乎没**动**(altered)**图样**(s…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**数**(numbers)　…)为那个接头算过一笔**数**(numbers)。…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §5 单字加粗需确认</b><span>**转**(passed)　…里被拽穿；它那份荷载**转**(passed)给**剩下**(…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li></ul></div></details><details class="card"><summary>
 <span class="sc s-hi">100</span>
 <span class="no">03</span>
 <span class="ti">The Graph That Changed the Sky</span>
@@ -323,14 +421,14 @@ li em{display:block;color:var(--navy);font-style:normal;font-size:12.5px;margin-
 <span class="sc s-hi">100</span>
 <span class="no">05</span>
 <span class="ti">The Price Was Elsewhere</span>
-<span class="bars"><i class="ok" style="height:60%" title="§1 57词/10词 17.5%"></i><i class="ok" style="height:71%" title="§2 48词/10词 20.8%"></i><i class="ok" style="height:64%" title="§3 53词/10词 18.9%"></i><i class="ok" style="height:72%" title="§4 47词/10词 21.3%"></i><i class="ok" style="height:54%" title="§5 63词/10词 15.9%"></i></span>
+<span class="bars"><i class="ok" style="height:60%" title="§1 57词/10词 17.5%"></i><i class="ok" style="height:71%" title="§2 48词/10词 20.8%"></i><i class="ok" style="height:64%" title="§3 53词/10词 18.9%"></i><i class="ok" style="height:71%" title="§4 48词/10词 20.8%"></i><i class="ok" style="height:54%" title="§5 63词/10词 15.9%"></i></span>
 <span class="tags"></span>
 </summary>
 <div class="body">
-<table><tr><th>词数</th><td>268</td><th>重点词</th><td>50</td><th>密度</th><td>18.7%</td></tr>
-<tr><th>段落词数</th><td colspan="5">57 · 48 · 53 · 47 · 63</td></tr>
+<table><tr><th>词数</th><td>269</td><th>重点词</th><td>50</td><th>密度</th><td>18.6%</td></tr>
+<tr><th>段落词数</th><td colspan="5">57 · 48 · 53 · 48 · 63</td></tr>
 <tr><th>关键词分布</th><td colspan="5">10 · 10 · 10 · 10 · 10 <b>（极差 0）</b></td></tr>
-<tr><th>局部密度</th><td colspan="5">17.5% · 20.8% · 18.9% · 21.3% · 15.9%</td></tr>
+<tr><th>局部密度</th><td colspan="5">17.5% · 20.8% · 18.9% · 20.8% · 15.9%</td></tr>
 <tr><th>白送词</th><td colspan="3">0 确定 + 1 边缘</td><th>人名</th><td>3</td></tr>
 </table>
 <ul><li class="info"><b>[STR-05] §1 代词开头需核指代</b><span>It read neither name nor price.</span><em>→ 确认 it/that/this 有唯一且具体的先行词</em></li><li class="info"><b>[VAL-03] §1 相邻加粗</b><span>**scanner** **sunk**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §2 相邻加粗</b><span>**depicted** **linear**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**checksum** **catching**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[VAL-03] §4 相邻加粗</b><span>**mirror** **swept**</span><em>→ 确认不是一个词条被拆成两个名额（如 tube worm / food chain）</em></li><li class="info"><b>[ZH-01] §1 单字加粗需确认</b><span>**沉**(sunk)　…er)上划过——那台**沉**(sunk)在台面下的机器，…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §2 单字加粗需确认</b><span>**画**(depicted)　…ular)两种图形都**画**(depicted)了出来。它们都*…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §3 单字加粗需确认</b><span>**印**(printed)　…e)的要求：那种图形**印**(printed)在**包装**(…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §3 单字加粗需确认</b><span>**竖**(vertical)　…ared)。他坚持用**竖**(vertical)条；1973年，…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li><li class="info"><b>[ZH-01] §4 单字加粗需确认</b><span>**扫**(swept)　…mirror)把光束**扫**(swept)过标签；**光电…</span><em>→ 为对上英文词而挤出的单字，在中文里未必立得住</em></li></ul></div></details><details class="card"><summary>
