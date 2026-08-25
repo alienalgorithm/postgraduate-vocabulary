@@ -36,7 +36,7 @@ ROUNDS = {
     3: ("接缝层", "四处段落接缝逐一对读，每处给出承接与否的判断"),
     4: ("因果层", "全篇连接词逐个验证；抽象前置与格言相邻一并查过"),
     5: ("中文层", "遮住英文单读中文；单字加粗与疑似拆词逐条判过"),
-    6: ("词价层", "**三查**：白送词／**行话词(VAL-09)**／**动词短语的小品词(VAL-10)**——名额只给能带走的词"),
+    6: ("单词筛选轮", "**六查**：太常见／太生僻／小品词／专名／数词／**太简单**——50个名额只给考研或雅思真会考的词"),
     7: ("母语者层", "对标散文档案；抽象主语、无施事被动、句长节奏三项查过"),
     8: ("回退审计", "台账每一行都填了「保留/回退/再改」，并回跑过全库"),
     9: ("整体冷读", "放下清单通读，三问都有答案"),
@@ -218,16 +218,27 @@ def r5(a, arts, aid):
     print("\n判据：这是一段中国人会写的中文吗？为对上英文而挤出的单字，多半不是。")
 
 def r6(a, arts, aid):
-    print("**本轮三查（2026-08-20 起）**：")
+    print("**这一轮专管一件事：那 50 个名额，配不配。**")
     print("")
-    print("  一 · 白送词（Zipf ≥ 5.0）——太常见，占名额浪费")
-    print("  二 · **行话词（VAL-09，Zipf < 2.2）——考研词汇表里根本没有，背了也用不上**")
-    print("       streptococci／azo／sulphonamide／tomogram／radiodensity 皆属此类")
-    print("  三 · **动词短语的小品词（VAL-10）——take apart 拆开学没意义**")
-    print("       apart／out／up／down／off／over／through／back／away 等单独加粗即错")
+    print("**判据只有一条——这个词，考研或雅思真的会考吗？**")
+    print("两个范围里占一个就行；两个都不占，就不配占名额。")
     print("")
-    print("**三者处置相同：取消加粗，把名额让给同段一个能带走的词。**")
-    print("**正文照旧可以用那个词——只是它不占名额。绝不为避开它而改动英文。**")
+    print("  一 · **太常见**（VAL-02，Zipf ≥ 5.0）　return／support／deep 这类")
+    print("  二 · **太生僻**（VAL-09，Zipf < 2.2）　sulphonamide(0.0)／tomogram(1.1)")
+    print("  三 · **小品词**（VAL-10）　took the parts **apart** —— take apart 拆开学没意义")
+    print("  四 · **专名**（VAL-11）　Halley／Leibniz／Dublin —— 人名地名背不走")
+    print("  五 · **数词**（VAL-11）　sixty-five／thirty-sixth —— 拼写数词不会考")
+    print("  六 · **太简单**（VAL-12）　eleven／clean／drink／winter —— 初中就学过")
+    print("")
+    print("**第六条最容易漏，因为词频判不出来。**")
+    print("  eleven(4.1) 与 nuance(4.1) 词频完全相同，学习价值天差地别。")
+    print("  所以用词表判，不用 Zipf：data/reference/basic-wordlist.txt。")
+    print("")
+    print("**六者处置完全相同：取消加粗，把名额让给一个真正要背的词。**")
+    print("**原词照旧留在正文——只是它不占那 50 个。绝不为避开它而改动英文。**")
+    print("")
+    print("**换词时新词必须当场查 Zipf（雷13）**——曾把 said 换成 evidence(5.14)，")
+    print("换进来的还是白送词，白跑一轮。**一次查完再改。**")
     print("")
     from wordfreq import zipf_frequency as z
     print("50 个名额逐个问：一个考研考生学到这个词，值不值？\n")

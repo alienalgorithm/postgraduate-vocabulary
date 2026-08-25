@@ -22,16 +22,16 @@
           "zh": "为给地球定年，哈里森·布朗的团队用的是**核**(nuclear)**衰变**(decay)：两种**铀**(uranium)**同位素**(isotopes)以已知**速率**(rates)**转变**(convert)成不同的铅同位素，它们的比值因此就是**时钟**(clocks)。可**地壳**(crustal)岩石一再重造。布朗提出，铁**陨石**(meteorites)里仍封存着太阳系**起源**(origin)时那批未经扰动的铅。"
         },
         {
-          "en": "He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every sample-free laboratory **blank** held lead of its own. **Dust** carried it; **reagents**, **surfaces** and **glassware** **contaminated** all of it. At Caltech from 1952 he built a **clean** room, **filtered** the air, **sealed** his containers and washed them in **acid**.",
-          "zh": "他把活分开：乔治·蒂尔顿测铀，克莱尔·帕特森测铅，马克·英格拉姆协助。可是每一份不含样品的实验室**空白**(blank)里，都有铅。**灰尘**(dust)带来它；**试剂**(reagents)、**器壁**(surfaces)、**玻璃器皿**(glassware)把一切都**污染**(contaminated)了。1952年起在加州理工，他建起**洁净**(clean)室，把空气**过滤**(filtered)，容器**密封**(sealed)，器皿用**酸**(acid)洗。"
+          "en": "He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every sample-free laboratory **blank** held lead of its own. **Dust** carried it; **reagents**, **surfaces** and **glassware** **contaminated** all of it. At Caltech from 1952 he built a **sterile** room, **filtered** the air, **sealed** his containers and washed them in **acid**.",
+          "zh": "他把活分开：乔治·蒂尔顿测铀，克莱尔·帕特森测铅，马克·英格拉姆协助。可是每一份不含样品的实验室**空白**(blank)里，都有铅。**灰尘**(dust)带来它；**试剂**(reagents)、**器壁**(surfaces)、**玻璃器皿**(glassware)把一切都**污染**(contaminated)了。1952年起在加州理工，他建起**无菌**(sterile)室，把空气**过滤**(filtered)，容器**密封**(sealed)，器皿用**酸**(acid)洗。"
         },
         {
           "en": "A mass **spectrometer** then **separated** the **ions** and recorded a **spectrum**. The meteorite readings were **consistent** with a single age. His 1956 report **fixed** it at 4.55 ± 0.07 billion years. Combining meteoritic and **terrestrial** lead, he **dated** early **solar**-system matter and, by inference, Earth. Others later **narrowed** the number but barely moved it.",
           "zh": "随后质谱**仪**(spectrometer)把**离子**(ions)**分离**(separated)开，记下一道**谱**(spectrum)。陨石读数**一致**(consistent)指向同一个年龄。1956年他把这个数**定**(fixed)在45.5±0.7亿年。把陨石铅与**地表**(terrestrial)铅合起来，他为太阳系早期物质**定了年**(dated)——**太阳**(solar)系的年龄，也就推得了地球的。后来的工作**收窄**(narrowed)了这个数，却几乎没有移动它。"
         },
         {
-          "en": "Then he asked where that stray lead came from. With Tatsumoto and Chow he sampled **ocean** water, Mount Lassen **snow** and ancient marine **sediment**. Lead was heavy in the **shallows** and thinned rapidly with **depth**; Greenland **glaciers** showed it rising two-hundredfold since 800 BC, most **steeply** after 1940. The isotope **fingerprint** matched leaded **petrol** **exhaust**.",
-          "zh": "接着他去问：那些游离的铅是从哪来的。他与辰本、周一起取**海**(ocean)水、拉森峰的**雪**(snow)和远古海洋**沉积物**(sediment)。铅在**浅层**(shallows)浓，随**深度**(depth)迅速稀薄；格陵兰**冰川**(glaciers)则显示，自公元前800年以来它涨了两百倍，1940年后**最陡**(steeply)。同位素**指纹**(fingerprint)与含铅**汽油**(petrol)的**尾气**(exhaust)吻合。"
+          "en": "Then he asked where that stray lead came from. With Tatsumoto and Chow he sampled **ocean** water, Mount Lassen **snowfall** and ancient marine **sediment**. Lead was heavy in the **shallows** and thinned rapidly with **depth**; Greenland **glaciers** showed it rising two-hundredfold since 800 BC, most **steeply** after 1940. The isotope **fingerprint** matched leaded **petrol** **exhaust**.",
+          "zh": "接着他去问：那些游离的铅是从哪来的。他与辰本、周一起取**海**(ocean)水、拉森峰的**降雪**(snowfall)和远古海洋**沉积物**(sediment)。铅在**浅层**(shallows)浓，随**深度**(depth)迅速稀薄；格陵兰**冰川**(glaciers)则显示，自公元前800年以来它涨了两百倍，1940年后**最陡**(steeply)。同位素**指纹**(fingerprint)与含铅**汽油**(petrol)的**尾气**(exhaust)吻合。"
         },
         {
           "en": "Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Funding was **withdrawn**, and in 1971 trade **lobbying** kept him off the National Research Council **advisory** panel on **airborne** lead. The EPA began **phasing** it down in 1973; a 1986 **ban** finished it, and blood levels fell. The **contamination** he had to **banish** to date the planet was itself the finding.",
@@ -120,8 +120,8 @@
           "p": 2
         },
         {
-          "w": "clean",
-          "zh": "洁净的",
+          "w": "sterile",
+          "zh": "无菌的；洁净的",
           "p": 2
         },
         {
@@ -195,8 +195,8 @@
           "p": 4
         },
         {
-          "w": "snow",
-          "zh": "雪",
+          "w": "snowfall",
+          "zh": "降雪",
           "p": 4
         },
         {

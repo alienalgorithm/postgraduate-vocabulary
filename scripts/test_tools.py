@@ -372,6 +372,17 @@ check("数词占名额 → VAL-11", "VAL-11" in ids(I.inspect(_nm, arts)[0]),
 _ok3 = art(["**a**."]*5); _ok3["glossary"] = [{"w": "loophole", "zh": "空子", "p": 1}]
 check("通用词不误判", "VAL-11" not in ids(I.inspect(_ok3, arts)[0]))
 
+# ── VAL-12：过于简单的词 ────────────────────────────────────────
+print("\n[VAL-12] 过于简单的词")
+_sp = art(["**a**."]*5); _sp["glossary"] = [{"w": "eleven", "zh": "十一", "p": 1}]
+check("初中词占名额 → VAL-12", "VAL-12" in ids(I.inspect(_sp, arts)[0]),
+      "eleven／clean／drink 考研与雅思都不会考")
+_sp2 = art(["**a**."]*5); _sp2["glossary"] = [{"w": "winter", "zh": "冬天", "p": 1}]
+check("winter 亦判过简", "VAL-12" in ids(I.inspect(_sp2, arts)[0]))
+_ok4 = art(["**a**."]*5); _ok4["glossary"] = [{"w": "nuance", "zh": "细微差别", "p": 1}]
+check("同频的 nuance 不误判", "VAL-12" not in ids(I.inspect(_ok4, arts)[0]),
+      "**词频判不出这一层**：eleven(4.1) 与 nuance(4.1) 频率相同，价值不同")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

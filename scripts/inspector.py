@@ -776,6 +776,35 @@ def inspect(a, archive):
             "        thirteen／sixty-five／thirty-sixth 这类取消加粗，"
             "数字本身留在正文，只是不占那 50 个。"))
 
+    # ── VAL-12 · 过于简单的词（2026-08-20 加）──────────────────────
+    # 用户指出：eleven／clean／drink／winter 这类初中词不该占名额——
+    # **考研与雅思考纲都不会考这一层。**
+    #
+    # **判据不能用 Zipf。** eleven(4.1) 与 nuance(4.1) 词频完全相同，
+    # 学习价值却天差地别。频率只能判「太常见」，判不了「太简单」。
+    # 所以改用词表：data/reference/basic-wordlist.txt 收中考核心里最基础的那一批
+    # （功能词、数词、颜色、身体部位、日常起居、基本动作）。
+    # 全库实测：37 个名额被这类词占着。
+    _blp = os.path.join(ROOT, "data/reference/basic-wordlist.txt")
+    BASIC = set()
+    if os.path.exists(_blp):
+        for _ln in open(_blp, encoding="utf-8"):
+            if not _ln.strip() or _ln.startswith("#"):
+                continue
+            BASIC.update(_ln.split())
+    _simple = []
+    for g in (a.get("glossary") or []):
+        w = g["w"].lower()
+        if w in BASIC or w.rstrip("s") in BASIC:
+            _simple.append(g["w"])
+    if _simple:
+        F.append(Finding("VAL-12", "选词", "hard", "过于简单的词占名额",
+            "、".join(_simple),
+            "**初中就学过的词，考研与雅思都不会考。**\n"
+            "        取消它的加粗，把名额让给一个真正要背的词——**原词照旧留在正文**。\n"
+            "        判据用的是词表而非词频：eleven(4.1) 与 nuance(4.1) 频率相同，"
+            "价值不同。"))
+
     # ── 第十五层 AUD · 审读进度（2026-08-16 加）─────────────────────
     # 依据 18 篇实测：抓到问题的来源分布为
     #   史实核查（上网核）11 · 刁钻一问（人读）7 · 机器规则 6
