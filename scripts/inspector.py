@@ -673,6 +673,44 @@ def inspect(a, archive):
     # **这一类只能靠第九轮的刁钻一问。** 已在 polish.py 第9轮④写明两个实例：
     #   第03篇 they checked —— 前文只有 Nimbus-7 与 its processing
     #   第04篇 granted him £8,750 —— him 紧跟 Kendall，获奖的却是 Harrison
+    # ── VAL-09 · 过专业词（2026-08-20 加）─────────────────────────
+    # 用户指出：streptococci、azo、sulphonamide 这类词考研词汇表里根本没有，
+    # 背了也用不上。**重点词必须是能带走的词，不是本篇题材的行话。**
+    # 判据：Zipf < 2.2 即判过专（sulphonamide 0.0、radiodensity 0.0、
+    # tomogram 1.1、waviness 1.4、sanatoria 1.5）。
+    # 2.2—2.8 之间的仍算可学（sceptic 2.5、zealot 2.5、cesspit 2.0 属常见文史词），
+    # 只提示不计硬伤——**阈值定在 2.2 是为了只逮真正的行话，不误伤生僻但通用的词**。
+    JARGON_OK = {"cesspit", "miasma", "sextant", "chronometer", "yardstick",
+                 "logarithm", "sceptic", "zealot", "zealotry", "glyph", "floe",
+                 "nought", "maim", "pare", "invert", "abrade", "dross", "mitre",
+                 # 以下虽 Zipf 低，但属考研会考的通用构词，非本篇题材的行话：
+                 "toxicologist", "handwrite", "poleward", "overwinter", "forebear",
+                 "workmate", "shipwright", "brakeman", "standardise", "oxidise",
+                 "digitise", "reorient", "unreactive", "colourless", "inscribe",
+                 "unshared", "faintness", "irregularity", "imperceptible"}
+    # **连字符复合词不判**：wordfreq 查不到 test-tube / fourth-floor / sea-level，
+    # 一律返回 0.0，那是查询失败不是行话。按其组成部分中较低的一个判。
+    _jar = []
+    for g in (a.get("glossary") or []):
+        w = g["w"]
+        if w.lower() in JARGON_OK:
+            continue
+        if "-" in w:
+            zs = [cheapness(part)[1] for part in w.split("-") if part]
+            zs = [x for x in zs if x is not None]
+            _z = max(zs) if zs else None          # 组成部分都通用则不算行话
+        else:
+            _, _z = cheapness(w)
+        if _z is not None and _z < 2.2:
+            _jar.append((w, _z))
+    if _jar:
+        F.append(Finding("VAL-09", "选词", "hard", "含过专业的行话词",
+            "、".join(f"{w}({f:.1f})" for w, f in _jar),
+            "**重点词必须是能带走的词，不是本篇题材的行话。**\n"
+            "        考研词汇表里没有 sulphonamide(0.0)、radiodensity(0.0)、tomogram(1.1) 这类词。\n"
+            "        处置与白送词相同：**取消它的加粗，把名额让给同段一个通用词**——"
+            "正文照旧可以用它，只是不占名额。"))
+
     # ── 第十五层 AUD · 审读进度（2026-08-16 加）─────────────────────
     # 依据 18 篇实测：抓到问题的来源分布为
     #   史实核查（上网核）11 · 刁钻一问（人读）7 · 机器规则 6

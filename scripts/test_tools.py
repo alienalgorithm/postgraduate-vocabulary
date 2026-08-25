@@ -338,6 +338,19 @@ check("第11轮含语法完整性一项", "语法完整性" in _ps,
 check("第13轮写死了时间间隔条件", "须隔一次会话再跑" in _ps,
       "同场连跑等于自欺——理由还在脑子里")
 
+# ── VAL-09：过专业的行话词 ──────────────────────────────────────
+print("\n[VAL-09] 行话词")
+_jg = art(["**a**."]*5)
+_jg["glossary"] = [{"w": "sulphonamide", "zh": "磺胺基", "p": 1}]
+_F, _ = I.inspect(_jg, arts)
+check("行话词 → VAL-09", "VAL-09" in ids(_F),
+      "考研词汇表里没有 sulphonamide(0.0)、tomogram(1.1) 这类词")
+_hy = art(["**a**."]*5)
+_hy["glossary"] = [{"w": "test-tube", "zh": "试管", "p": 1}]
+_F2, _ = I.inspect(_hy, arts)
+check("连字符复合词不误判", "VAL-09" not in ids(_F2),
+      "wordfreq 查不到 test-tube/fourth-floor，返回 0.0 是查询失败不是行话")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

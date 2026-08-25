@@ -13,12 +13,12 @@
       "status": "第三十一篇定稿",
       "paras": [
         {
-          "en": "On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist** and **snapped**. Surgeons dug it out, but **streptococci** **climbed** her arm and her **surgeon** proposed **amputation**. Her father worked at Bayer, where chemists had built a red **azo** **dye** **carrying** a **sulphonamide** side chain.",
-          "zh": "1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可**链球菌**(streptococci)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家造出了一种红色**偶氮**(azo)**染料**(dye)，侧链上**挂**(carrying)着一个**磺胺基**(sulphonamide)。"
+          "en": "On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist** and **snapped**. Surgeons dug it out, but the **poison** **climbed** her arm, and her **surgeon** proposed **amputation**. Her father worked at Bayer, where chemists had **built** a **scarlet** **dye** **carrying** a sulphonamide side chain.",
+          "zh": "1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可那股**毒**(poison)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**造**(built)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。"
         },
         {
-          "en": "Her father had **shown** in 1932 that it **cured** infected **mice**, then sat on the result for three years. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.",
-          "zh": "她父亲1932年就**证明**(shown)过这东西能**治好**(cured)受感染的**小鼠**(mice)，却把结果压了三年。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
+          "en": "Gerhard Domagk had **shown** in 1932 that it **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.",
+          "zh": "格哈德·多马克1932年就**证明**(shown)过这东西能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
         },
         {
           "en": "In November 1935 a team at the Pasteur Institute took the parts **apart**. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **animals** **alike**. The body was **splitting** the molecule; the **colour** itself was inert. What Bayer had patented was the wrapper, not the **goods**.",
@@ -29,8 +29,8 @@
           "zh": "那一半是个老东西：保罗·格尔莫1909年做**博士**(doctoral)**习题**(exercise)时就合成过它，专利早已**过期**(expired)，工业界把它当**中间体**(intermediate)按**吨**(ton)生产。谁都能做。两年之内各国**实验室**(laboratories)纷纷**做**(turning)出**衍生物**(derivatives)，那份**垄断**(monopoly)变成了一整类**药**(drugs)。"
         },
         {
-          "en": "Domagk was awarded the 1939 **Nobel** Prize. Because Carl von Ossietzky, a **pacifist** in a camp, had taken the 1935 Peace Prize, Hitler had **forbidden** Germans to accept Nobel awards. Told on 26 October, he sent a **guarded** **acceptance**; on 17 November **armed** Gestapo **surrounded** his house. After a week in **jail** he signed a letter **declining** it. The **medal** reached him in 1947, the money redistributed long before.",
-          "zh": "多马克获得1939年**诺贝尔**(Nobel)奖。因为关在集中营里的**和平主义者**(pacifist)卡尔·冯·奥西茨基拿了1935年和平奖，希特勒**禁止**(forbidden)德国人接受诺贝尔奖。10月26日接到通知，他发去一封措辞**谨慎**(guarded)的**接受函**(acceptance)；11月17日**持枪的**(armed)盖世太保**包围**(surrounded)了他的住宅。在**牢**(jail)里待了一周多之后，他签下了**拒绝**(declining)信。**奖章**(medal)1947年才到他手上，奖金早已重新分配。"
+          "en": "The 1939 **Nobel** Prize cost Domagk his freedom. Carl von Ossietzky, a **pacifist** in a camp, had taken the 1935 Peace Prize, and Hitler had **forbidden** Germans to accept Nobel awards. Told on 26 October, he sent a **guarded** **acceptance**; on 17 November **armed** Gestapo **surrounded** his house. After a week in **jail** he signed a letter **declining** it. The **medal** reached him in 1947, the money redistributed long before.",
+          "zh": "1939年的**诺贝尔**(Nobel)奖，让多马克付出了自由。因为关在集中营里的**和平主义者**(pacifist)卡尔·冯·奥西茨基拿了1935年和平奖，希特勒**禁止**(forbidden)德国人接受诺贝尔奖。10月26日接到通知，他发去一封措辞**谨慎**(guarded)的**接受函**(acceptance)；11月17日**持枪的**(armed)盖世太保**包围**(surrounded)了他的住宅。在**牢**(jail)里待了一周多之后，他签下了**拒绝**(declining)信。**奖章**(medal)1947年才到他手上，奖金早已重新分配。"
         }
       ],
       "facts": [
@@ -39,12 +39,13 @@
         "**已核 · 专利失效**：磺胺由保罗·格尔莫于1909年首次合成（博士研究），**专利早已过期**，且作为工业中间体按吨生产，故拜耳无法垄断。磺胺类为抑菌药，与链球菌争夺二氢蝶酸合成酶，阻断其自制叶酸。[BCMJ](https://bcmj.org/newsnotes/special-feature-never-say-dye)",
         "**已核 · 诺贝尔奖始末**：1935年和平奖授予关押于集中营的德国和平主义者卡尔·冯·奥西茨基后，希特勒禁止德国人受奖。多马克**10月26日**接到1939年生理学或医学奖通知，**11月3日**发出措辞谨慎的接受函（他不确定禁令是否只针对和平奖）；**11月17日**武装盖世太保包围其住宅，将其拘押一周有余，迫其签署拒绝信。**1947年**领到奖章，奖金早已重新分配。[Bristol MOTM（PDF）](https://www.chm.bris.ac.uk/motm/sulfanilamide2/Sulfanilamide%20-%20MOTM%20July%202011.pdf)｜[Science History Institute](https://www.sciencehistory.org/education/scientific-biographies/gerhard-domagk/)",
         "**已核并纠正一处流传误说**：多处通俗读物称希尔德加德是「第一个受益于百浪多息的人」。Bristol MOTM 依据多马克实验记录本与未刊回忆录明确更正此说——**她是早期患者之一，并非首例**（此前已有 A. Förster 报告一名葡萄球菌感染婴儿康复）。**本文因此只写「他给女儿注射」，未称首例。**[Bristol MOTM](https://www.chm.bris.ac.uk/motm/sulfanilamide2/sulfanilamidejs.htm)｜[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)",
-        "本篇的机制边界：染料与药效之间隔着一次体内代谢。专利保护的是分子的完整形态，而疗效来自它裂解后的片段——**保护范围与作用范围不重合，垄断因此落空**。"
+        "本篇的机制边界：染料与药效之间隔着一次体内代谢。专利保护的是分子的完整形态，而疗效来自它裂解后的片段——**保护范围与作用范围不重合，垄断因此落空**。",
+        "**已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)"
       ],
       "metrics": {
-        "words": 270,
+        "words": 268,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.7
       },
       "glossary": [
         {
@@ -58,8 +59,8 @@
           "p": 1
         },
         {
-          "w": "streptococci",
-          "zh": "链球菌（复）",
+          "w": "poison",
+          "zh": "毒；毒素",
           "p": 1
         },
         {
@@ -78,8 +79,13 @@
           "p": 1
         },
         {
-          "w": "azo",
-          "zh": "偶氮的",
+          "w": "built",
+          "zh": "造；建造",
+          "p": 1
+        },
+        {
+          "w": "scarlet",
+          "zh": "猩红的",
           "p": 1
         },
         {
@@ -90,11 +96,6 @@
         {
           "w": "carrying",
           "zh": "带有；挂着",
-          "p": 1
-        },
-        {
-          "w": "sulphonamide",
-          "zh": "磺胺基",
           "p": 1
         },
         {

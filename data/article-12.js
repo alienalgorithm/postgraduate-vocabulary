@@ -12,9 +12,9 @@
       "date": "2026-08-15",
       "status": "第十二篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
@@ -30,8 +30,8 @@
           "zh": "随后质谱**仪**(spectrometer)把**离子**(ions)**分离**(separated)开，记下一道**谱**(spectrum)。陨石读数**一致**(consistent)指向同一个年龄。1956年他把这个数**定**(fixed)在45.5±0.7亿年。把陨石铅与**地表**(terrestrial)铅合起来，他为太阳系早期物质**定了年**(dated)——**太阳**(solar)系的年龄，也就推得了地球的。后来的工作**收窄**(narrowed)了这个数，却几乎没有移动它。"
         },
         {
-          "en": "Then he asked where that stray lead came from. With Tatsumoto and Chow he sampled **ocean** water, Mount Lassen **snow** and ancient marine **sediment**. Lead was heavy in the **shallows** and thinned rapidly with **depth**; Greenland **glaciers** showed it rising two-hundredfold since 800 BC, most **steeply** after 1940. The isotope **fingerprint** matched **tetraethyl** **exhaust**.",
-          "zh": "接着他去问：那些游离的铅是从哪来的。他与辰本、周一起取**海**(ocean)水、拉森峰的**雪**(snow)和远古海洋**沉积物**(sediment)。铅在**浅层**(shallows)浓，随**深度**(depth)迅速稀薄；格陵兰**冰川**(glaciers)则显示，自公元前800年以来它涨了两百倍，1940年后**最陡**(steeply)。同位素**指纹**(fingerprint)与**四乙基铅**(tetraethyl)的**尾气**(exhaust)吻合。"
+          "en": "Then he asked where that stray lead came from. With Tatsumoto and Chow he sampled **ocean** water, Mount Lassen **snow** and ancient marine **sediment**. Lead was heavy in the **shallows** and thinned rapidly with **depth**; Greenland **glaciers** showed it rising two-hundredfold since 800 BC, most **steeply** after 1940. The isotope **fingerprint** matched leaded **petrol** **exhaust**.",
+          "zh": "接着他去问：那些游离的铅是从哪来的。他与辰本、周一起取**海**(ocean)水、拉森峰的**雪**(snow)和远古海洋**沉积物**(sediment)。铅在**浅层**(shallows)浓，随**深度**(depth)迅速稀薄；格陵兰**冰川**(glaciers)则显示，自公元前800年以来它涨了两百倍，1940年后**最陡**(steeply)。同位素**指纹**(fingerprint)与含铅**汽油**(petrol)的**尾气**(exhaust)吻合。"
         },
         {
           "en": "Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Funding was **withdrawn**, and in 1971 trade **lobbying** kept him off the National Research Council **advisory** panel on **airborne** lead. The EPA began **phasing** it down in 1973; a 1986 **ban** finished it, and blood levels fell. The **contamination** he had to **banish** to date the planet was itself the finding.",
@@ -230,8 +230,8 @@
           "p": 4
         },
         {
-          "w": "tetraethyl",
-          "zh": "四乙基的",
+          "w": "petrol",
+          "zh": "汽油",
           "p": 4
         },
         {
