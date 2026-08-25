@@ -26,8 +26,8 @@
           "zh": "1948年，她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。**基因**(gene)从没动过；动的是打断它的那个插入者。"
         },
         {
-          "en": "Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **jump**.",
-          "zh": "Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**跳跃**(jump)。"
+          "en": "Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **relocation**.",
+          "zh": "Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**易位**(relocation)。"
         },
         {
           "en": "McClintock called Ac and Ds **controlling** elements: an **insertion** could **silence** a **neighbouring** gene, a **departure** **permit** it again. That made a genome something other than a fixed **ledger** of addresses. She **announced** it in 1950 and spoke at Cold Spring Harbor in 1951, meeting bafflement, even **contempt**. In 1953 she **ceased** publishing on it.",
@@ -45,7 +45,7 @@
           "p": 1
         },
         {
-          "w": "breed",
+          "w": "bred",
           "zh": "培育",
           "p": 1
         },
@@ -55,12 +55,12 @@
           "p": 1
         },
         {
-          "w": "cross",
+          "w": "crosses",
           "zh": "杂交",
           "p": 1
         },
         {
-          "w": "seed",
+          "w": "seeds",
           "zh": "种子",
           "p": 1
         },
@@ -75,7 +75,7 @@
           "p": 1
         },
         {
-          "w": "speckle",
+          "w": "speckled",
           "zh": "麻点",
           "p": 1
         },
@@ -85,7 +85,7 @@
           "p": 1
         },
         {
-          "w": "inherit",
+          "w": "inherited",
           "zh": "遗传",
           "p": 1
         },
@@ -120,7 +120,7 @@
           "p": 2
         },
         {
-          "w": "shift",
+          "w": "shifted",
           "zh": "移位",
           "p": 2
         },
@@ -130,7 +130,7 @@
           "p": 2
         },
         {
-          "w": "depart",
+          "w": "departed",
           "zh": "离开",
           "p": 2
         },
@@ -150,7 +150,7 @@
           "p": 3
         },
         {
-          "w": "restore",
+          "w": "restored",
           "zh": "恢复",
           "p": 3
         },
@@ -185,12 +185,12 @@
           "p": 3
         },
         {
-          "w": "jump",
-          "zh": "跳跃",
+          "w": "relocation",
+          "zh": "易位；迁移",
           "p": 3
         },
         {
-          "w": "control",
+          "w": "controlling",
           "zh": "控制",
           "p": 4
         },
@@ -225,7 +225,7 @@
           "p": 4
         },
         {
-          "w": "announce",
+          "w": "announced",
           "zh": "公布",
           "p": 4
         },
@@ -235,12 +235,12 @@
           "p": 4
         },
         {
-          "w": "cease",
+          "w": "ceased",
           "zh": "停止",
           "p": 4
         },
         {
-          "w": "sceptic",
+          "w": "sceptics",
           "zh": "怀疑者",
           "p": 5
         },

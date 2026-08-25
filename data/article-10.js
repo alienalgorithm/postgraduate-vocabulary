@@ -18,8 +18,8 @@
       },
       "paras": [
         {
-          "en": "In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **inscribed** the same words in two languages, three scripts; only the Greek was **intelligible**.",
-          "zh": "1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**碑石**(stone)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。"
+          "en": "In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **slab** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **inscribed** the same words in two languages, three scripts; only the Greek was **intelligible**.",
+          "zh": "1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**石板**(slab)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。"
         },
         {
           "en": "The Greek **passage** ran **parallel** to the Egyptian, not an **exact** match. A **familiar** name offered a **clue**: its Egyptian and Greek spellings could be matched. Inside an **oval** cartouche signs spelled Ptolemy, and by 1814 Thomas Young had **realised** that several signs recorded **sounds**, not ideas — a **tentative** reading, but an **anchor**.",
@@ -45,8 +45,8 @@
           "p": 1
         },
         {
-          "w": "stone",
-          "zh": "石料；石头",
+          "w": "slab",
+          "zh": "石板",
           "p": 1
         },
         {
@@ -80,7 +80,7 @@
           "p": 1
         },
         {
-          "w": "inscribe",
+          "w": "inscribed",
           "zh": "刻写；铭刻",
           "p": 1
         },

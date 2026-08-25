@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-Air is four **fifths** **nitrogen**, yet no crop can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.
+Air is four fifths **nitrogen**, yet no **crop** can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.
 
 In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** it but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.
 
@@ -26,7 +26,7 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-空气里五**分之**(fifths)四是**氮**(nitrogen)，可庄稼用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。
+空气里五**分之**四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。
 
 1909年7月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约两百个**大气压**(atmospheres)、五百度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨125毫升。
 
@@ -40,15 +40,15 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 
 ## 50 词速查表
 
-**§1**（10词）fifths 五分之（复）｜nitrogen 氮｜compound 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜lean 倚靠｜manure 厩肥｜nitrate 硝石；硝酸盐｜mine 开采
+**§1**（10词）nitrogen 氮｜crop 作物｜compounds 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜leaned 倚靠｜manure 厩肥｜nitrate 硝石；硝酸盐｜mined 开采
 
-**§2**（10词）apparatus 装置｜circulate 循环｜catalyst 催化剂｜atmosphere 大气压；气氛｜favour 有利于｜ammonia 氨｜hasten 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycle 回收
+**§2**（10词）apparatus 装置｜circulated 循环｜catalyst 催化剂｜atmospheres 大气压；气氛｜favoured 有利于｜ammonia 氨｜hastened 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycled 回收
 
-**§3**（10词）steel 钢｜carbon 碳｜vessel 容器｜walled 有壁的｜liner 内衬｜weaken 削弱｜sift 筛选｜catalysts 催化剂｜potassium 钾｜alumina 铝土；氧化铝
+**§3**（10词）steel 钢｜carbon 碳｜vessels 容器｜walled 有壁的｜liner 内衬｜weakened 削弱｜sifted 筛选｜catalysts 催化剂｜potassium 钾｜alumina 铝土；氧化铝
 
-**§4**（10词）tonne 吨｜magnify 放大｜fertiliser 化肥｜harvest 收成｜blockade 封锁｜sever 切断｜nitric 硝的｜reactor 反应器｜explosive 炸药｜munition 弹药
+**§4**（10词）tonnes 吨｜magnified 放大｜fertiliser 化肥｜harvests 收成｜blockade 封锁｜severed 切断｜nitric 硝的｜reactors 反应器｜explosives 炸药｜munitions 弹药
 
-**§5**（10词）indispensable 不可或缺的｜consume 消耗｜hydrogen 氢｜fossil 化石的｜emission 排放｜upstream 上游的｜renewable 可再生的｜substitute 替代｜efficiency 效率｜excess 过量的
+**§5**（10词）indispensable 不可或缺的｜consumes 消耗｜hydrogen 氢｜fossil 化石的｜emissions 排放｜upstream 上游的｜renewable 可再生的｜substitute 替代｜efficiency 效率｜excess 过量的
 
 ---
 

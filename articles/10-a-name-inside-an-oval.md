@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **stone** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **inscribed** the same words in two languages, three scripts; only the Greek was **intelligible**.
+In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **slab** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **inscribed** the same words in two languages, three scripts; only the Greek was **intelligible**.
 
 The Greek **passage** ran **parallel** to the Egyptian, not an **exact** match. A **familiar** name offered a **clue**: its Egyptian and Greek spellings could be matched. Inside an **oval** cartouche signs spelled Ptolemy, and by 1814 Thomas Young had **realised** that several signs recorded **sounds**, not ideas — a **tentative** reading, but an **anchor**.
 
@@ -26,7 +26,7 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**碑石**(stone)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。
+1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**石板**(slab)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。
 
 希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号拼出了托勒密；到1814年托马斯·扬已**意识到**(realised)其中若干符号记录的是**语音**(sounds)而非意义——解读仍属**初步**(tentative)，却是**起点**(anchor)。
 
@@ -40,7 +40,7 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 
 ## 50 词速查表
 
-**§1**（10词）ancient 古代的｜stone 石料；石头｜fragment 残片；碎片｜decree 法令；政令｜era 时代；年代｜priests 祭司｜pharaoh 法老｜carvers 刻工｜inscribe 刻写；铭刻｜intelligible 可以理解的；明白易懂的
+**§1**（10词）ancient 古代的｜slab 石板｜fragment 残片；碎片｜decree 法令；政令｜era 时代；年代｜priests 祭司｜pharaoh 法老｜carvers 刻工｜inscribed 刻写；铭刻｜intelligible 可以理解的；明白易懂的
 
 **§2**（10词）passage 文本段落；通道｜parallel 平行对应的；平行的｜exact 精确相符的；准确的｜familiar 熟悉的｜clue 线索｜oval 椭圆形的；椭圆｜realised 意识到｜sounds 语音；声音｜tentative 初步的；试探性的｜anchor 可靠起点；锚
 

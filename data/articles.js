@@ -31,8 +31,8 @@ window.SITE = {
         "zh": "1854年9月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了616人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者平日从哪里**打**(drew)水、用的是哪一处**水源**(supply)。"
       },
       {
-        "en": "He set a **stroke** against each **address** on a **map** of the **neighbourhood**, one for every death. The **strokes** **gathered** around a single **pump** on Broad Street, and **thinned** to nothing two blocks off. The **pattern** showed him where to look; the **exceptions**, where the water differed, showed him he was right.",
-        "zh": "他在**街区**(neighbourhood)**地图**(map)上，按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，出去两个街区就**稀疏**(thinned)得几乎没有了。**分布**(pattern)告诉他该往哪儿看；那些水源不同的**例外**(exceptions)告诉他他没看错。"
+        "en": "He set a **stroke** against each **address** on a chart of the **neighbourhood**, one for every death. The **strokes** **gathered** around a single **pump** on Broad Street, and **thinned** to nothing two **blocks** off. The **pattern** showed him where to look; the **exceptions**, where the water differed, showed him he was right.",
+        "zh": "他在**街区**(neighbourhood)图上按**片区**(blocks)，按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，出去两个街区就**稀疏**(thinned)得几乎没有了。**分布**(pattern)告诉他该往哪儿看；那些水源不同的**例外**(exceptions)告诉他他没看错。"
       },
       {
         "en": "A **workhouse** of 535 **inmates** inside the death **zone** had its own **borehole** and **recorded** five deaths. A **brewery** **beside** the pump lost nobody, since the men were **supplied** with beer. Both stood in the same **stench** as the tenements being **emptied** around them: same air, different water.",
@@ -64,7 +64,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "blame",
+        "w": "blamed",
         "zh": "算在",
         "p": 1
       },
@@ -84,12 +84,12 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "doubt",
+        "w": "doubted",
         "zh": "怀疑；不信",
         "p": 1
       },
       {
-        "w": "draw",
+        "w": "drew",
         "zh": "打",
         "p": 1
       },
@@ -109,11 +109,6 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "map",
-        "zh": "地图",
-        "p": 2
-      },
-      {
         "w": "neighbourhood",
         "zh": "街区",
         "p": 2
@@ -124,8 +119,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "gather",
-        "zh": "聚拢",
+        "w": "gathered",
+        "zh": "地图",
         "p": 2
       },
       {
@@ -134,8 +129,13 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "thin",
-        "zh": "稀疏",
+        "w": "thinned",
+        "zh": "聚拢",
+        "p": 2
+      },
+      {
+        "w": "blocks",
+        "zh": "片区；街区（复）",
         "p": 2
       },
       {
@@ -144,7 +144,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "exception",
+        "w": "exceptions",
         "zh": "例外",
         "p": 2
       },
@@ -154,7 +154,7 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "inmate",
+        "w": "inmates",
         "zh": "院民；被收容者",
         "p": 3
       },
@@ -169,7 +169,7 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "record",
+        "w": "recorded",
         "zh": "记录在案",
         "p": 3
       },
@@ -194,7 +194,7 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "empty",
+        "w": "emptied",
         "zh": "清空",
         "p": 3
       },
@@ -214,7 +214,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "deliver",
+        "w": "delivered",
         "zh": "送递",
         "p": 4
       },
@@ -224,7 +224,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "drink",
+        "w": "drank",
         "zh": "喝",
         "p": 4
       },
@@ -244,7 +244,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "anomaly",
+        "w": "anomalies",
         "zh": "异常",
         "p": 4
       },
@@ -254,7 +254,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "remove",
+        "w": "removed",
         "zh": "卸下",
         "p": 5
       },
@@ -264,7 +264,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "digger",
+        "w": "diggers",
         "zh": "挖掘工",
         "p": 5
       },
@@ -274,12 +274,12 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "fade",
+        "w": "fading",
         "zh": "消退",
         "p": 5
       },
       {
-        "w": "accept",
+        "w": "accepted",
         "zh": "接受",
         "p": 5
       },
@@ -1233,8 +1233,8 @@ window.SITE = {
         "zh": "到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。"
       },
       {
-        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the label; a photodiode read the **reflected** **light**, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.",
-        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过标签；光电二极管读取**反射**(reflected)回的**光**(light)，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。"
+        "en": "The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the **label**; a photodiode read the **reflected** beam, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.",
+        "zh": "UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过**标签**(label)；光电二极管读取**反射**(reflected)回的光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。"
       },
       {
         "en": "A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.",
@@ -1263,7 +1263,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "sink",
+        "w": "sunk",
         "zh": "沉",
         "p": 1
       },
@@ -1273,7 +1273,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "cent",
+        "w": "cents",
         "zh": "美分",
         "p": 1
       },
@@ -1303,12 +1303,12 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "classify",
+        "w": "classifying",
         "zh": "分类",
         "p": 2
       },
       {
-        "w": "depict",
+        "w": "depicted",
         "zh": "描绘",
         "p": 2
       },
@@ -1343,7 +1343,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "grocer",
+        "w": "grocers",
         "zh": "杂货商",
         "p": 3
       },
@@ -1363,12 +1363,12 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "smear",
+        "w": "smeared",
         "zh": "洇开；涂抹",
         "p": 3
       },
       {
-        "w": "print",
+        "w": "printed",
         "zh": "印刷",
         "p": 3
       },
@@ -1398,7 +1398,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "digit",
+        "w": "digits",
         "zh": "数字；位",
         "p": 4
       },
@@ -1408,7 +1408,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "catch",
+        "w": "catching",
         "zh": "逮住；捕捉",
         "p": 4
       },
@@ -1423,22 +1423,22 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "sweep",
+        "w": "swept",
         "zh": "扫",
         "p": 4
       },
       {
-        "w": "reflect",
-        "zh": "反射",
+        "w": "label",
+        "zh": "标签",
         "p": 4
       },
       {
-        "w": "light",
+        "w": "reflected",
         "zh": "光线",
         "p": 4
       },
       {
-        "w": "width",
+        "w": "widths",
         "zh": "宽度",
         "p": 4
       },
@@ -1458,7 +1458,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "vendor",
+        "w": "vendors",
         "zh": "供应商",
         "p": 5
       },
@@ -1478,7 +1478,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "competitor",
+        "w": "competitors",
         "zh": "竞争者",
         "p": 5
       },
@@ -1520,8 +1520,8 @@ window.SITE = {
     },
     "paras": [
       {
-        "en": "Air is four **fifths** **nitrogen**, yet no crop can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.",
-        "zh": "空气里五**分之**(fifths)四是**氮**(nitrogen)，可庄稼用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。"
+        "en": "Air is four fifths **nitrogen**, yet no **crop** can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.",
+        "zh": "空气里五**分之**四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。"
       },
       {
         "en": "In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** it but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.",
@@ -1542,17 +1542,17 @@ window.SITE = {
     ],
     "glossary": [
       {
-        "w": "fifths",
-        "zh": "五分之（复）",
-        "p": 1
-      },
-      {
         "w": "nitrogen",
         "zh": "氮",
         "p": 1
       },
       {
-        "w": "compound",
+        "w": "crop",
+        "zh": "作物",
+        "p": 1
+      },
+      {
+        "w": "compounds",
         "zh": "化合物",
         "p": 1
       },
@@ -1572,7 +1572,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "lean",
+        "w": "leaned",
         "zh": "倚靠",
         "p": 1
       },
@@ -1587,7 +1587,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "mine",
+        "w": "mined",
         "zh": "开采",
         "p": 1
       },
@@ -1597,7 +1597,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "circulate",
+        "w": "circulated",
         "zh": "循环",
         "p": 2
       },
@@ -1607,12 +1607,12 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "atmosphere",
+        "w": "atmospheres",
         "zh": "大气压；气氛",
         "p": 2
       },
       {
-        "w": "favour",
+        "w": "favoured",
         "zh": "有利于",
         "p": 2
       },
@@ -1622,7 +1622,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "hasten",
+        "w": "hastened",
         "zh": "加快；促进",
         "p": 2
       },
@@ -1637,7 +1637,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "recycle",
+        "w": "recycled",
         "zh": "回收",
         "p": 2
       },
@@ -1652,7 +1652,7 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "vessel",
+        "w": "vessels",
         "zh": "容器",
         "p": 3
       },
@@ -1667,12 +1667,12 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "weaken",
+        "w": "weakened",
         "zh": "削弱",
         "p": 3
       },
       {
-        "w": "sift",
+        "w": "sifted",
         "zh": "筛选",
         "p": 3
       },
@@ -1692,12 +1692,12 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "tonne",
+        "w": "tonnes",
         "zh": "吨",
         "p": 4
       },
       {
-        "w": "magnify",
+        "w": "magnified",
         "zh": "放大",
         "p": 4
       },
@@ -1707,7 +1707,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "harvest",
+        "w": "harvests",
         "zh": "收成",
         "p": 4
       },
@@ -1717,7 +1717,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "sever",
+        "w": "severed",
         "zh": "切断",
         "p": 4
       },
@@ -1727,17 +1727,17 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "reactor",
+        "w": "reactors",
         "zh": "反应器",
         "p": 4
       },
       {
-        "w": "explosive",
+        "w": "explosives",
         "zh": "炸药",
         "p": 4
       },
       {
-        "w": "munition",
+        "w": "munitions",
         "zh": "弹药",
         "p": 4
       },
@@ -1747,7 +1747,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "consume",
+        "w": "consumes",
         "zh": "消耗",
         "p": 5
       },
@@ -1762,7 +1762,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "emission",
+        "w": "emissions",
         "zh": "排放",
         "p": 5
       },
