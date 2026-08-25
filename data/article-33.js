@@ -13,7 +13,7 @@
       "status": "第三十三篇定稿",
       "paras": [
         {
-          "en": "In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of **Parliament** sent their own letters **exempt**, and the rest of the country **covered** the **deficit**.",
+          "en": "In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of **Parliament** sent their letters **exempt**, and the rest of the country **covered** the **deficit**.",
           "zh": "1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。**议会**(Parliament)议员寄自己的信一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。"
         },
         {
@@ -25,12 +25,12 @@
           "zh": "每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。"
         },
         {
-          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no postal office, did the arithmetic. Of the **annual** outlay, only a hundred and **forty-four** **thousand** pounds moved with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, the **hauling** came to a **fraction** of a **penny**. For the **Edinburgh** mail he put it at one **thirty-sixth**.",
+          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no postal office, did the arithmetic. Of the **annual** outlay, only a hundred and **forty-four** **thousand** pounds moved with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the **Edinburgh** mail he put it at one **thirty-sixth**.",
           "zh": "1837年，罗兰·希尔——一个不在邮政系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百**四十四**(forty-four)**千**(thousand)镑是随距离变动的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就**爱丁堡**(Edinburgh)这条线，他算出是**三十六分之一**(thirty-sixth)。"
         },
         {
-          "en": "The office charged thirteen pence to move what cost a thirty-sixth. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. **Prepayment** **erased** the ledger. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.",
-          "zh": "邮局收十三便士，去送一件运费只值三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。**预付**(Prepayment)一下子**抹掉**(erased)了整本账。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。"
+          "en": "The office charged thirteen pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. **Prepayment** **erased** the ledger. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.",
+          "zh": "邮局收十三便士，去送一件运费只值一便士三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。**预付**(Prepayment)一下子**抹掉**(erased)了整本账。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。"
         }
       ],
       "facts": [
@@ -43,7 +43,7 @@
         "**已核 · 正文两处数字的阿拉伯写法**：① 正文 §1「In the **1830s**」——1812年定下的伦敦至爱丁堡资费一直行用至1839年改革，故整个 1830 年代皆为十三便士；② 正文 §5「168 million」——1840年全英寄信 **168** 百万封（另有来源作 169 百万，差异源于统计口径，本文取 168）。1839年为 76 百万封。[Victorian Web：The Penny Post](https://www.victorianweb.org/history/pennypos.html)｜[The Postal Museum：Uniform penny postage](https://www.postalmuseum.org/collections/highlights/philatelic-collection/british-postal-markings/uniform-penny-postage/)"
       ],
       "metrics": {
-        "words": 270,
+        "words": 271,
         "keywords": 50,
         "density": 18.5
       },

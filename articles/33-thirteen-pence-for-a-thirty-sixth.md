@@ -2,22 +2,22 @@
 
 > 题材：1837年罗兰·希尔的邮政改革与「成本不在运送而在记账」这一发现
 > 状态：**第三十三篇定稿**（2026-08-20）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 人人都以为邮资该按距离算，因为马车就是按英里收钱的。可希尔把账翻开一看：伦敦到爱丁堡的信收十三便士，而真正的运费只有一便士的三十六分之一——贵的从来不是路，是记账。
 
 ---
 
 ## 英文正文
 
-In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of **Parliament** sent their own letters **exempt**, and the rest of the country **covered** the **deficit**.
+In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of **Parliament** sent their letters **exempt**, and the rest of the country **covered** the **deficit**.
 
 So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **letter**. The office had **hauled** it four **hundred** miles for nothing.
 
 Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.
 
-In 1837 Rowland Hill, a **schoolmaster** holding no postal office, did the arithmetic. Of the **annual** outlay, only a hundred and **forty-four** **thousand** pounds moved with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, the **hauling** came to a **fraction** of a **penny**. For the **Edinburgh** mail he put it at one **thirty-sixth**.
+In 1837 Rowland Hill, a **schoolmaster** holding no postal office, did the arithmetic. Of the **annual** outlay, only a hundred and **forty-four** **thousand** pounds moved with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the **Edinburgh** mail he put it at one **thirty-sixth**.
 
-The office charged thirteen pence to move what cost a thirty-sixth. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. **Prepayment** **erased** the ledger. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.
+The office charged thirteen pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. **Prepayment** **erased** the ledger. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.
 
 ---
 
@@ -34,7 +34,7 @@ The office charged thirteen pence to move what cost a thirty-sixth. The expense 
 
 1837年，罗兰·希尔——一个不在邮政系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百**四十四**(forty-four)**千**(thousand)镑是随距离变动的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就**爱丁堡**(Edinburgh)这条线，他算出是**三十六分之一**(thirty-sixth)。
 
-邮局收十三便士，去送一件运费只值三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。**预付**(Prepayment)一下子**抹掉**(erased)了整本账。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。
+邮局收十三便士，去送一件运费只值一便士三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。**预付**(Prepayment)一下子**抹掉**(erased)了整本账。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。
 
 ---
 
