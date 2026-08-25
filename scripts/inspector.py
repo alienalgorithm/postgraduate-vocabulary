@@ -711,6 +711,27 @@ def inspect(a, archive):
             "        处置与白送词相同：**取消它的加粗，把名额让给同段一个通用词**——"
             "正文照旧可以用它，只是不占名额。"))
 
+    # ── VAL-10 · 动词短语的小品词不得单独占名额（2026-08-20 加）──────
+    # 用户指出：took the parts **apart** 把 apart 单拎出来是错的——
+    # **take apart 本来就是一个短语，拆开学没意义**。
+    # 这类词的用法几乎总是伴随特定动词，单独背一个 apart／out／up 学不到东西。
+    # 处置：要么整体作为短语加粗，要么换一个完整的动词
+    # （第31篇 took the parts apart → **dismantled** the compound）。
+    PARTICLE = {"apart", "out", "up", "down", "off", "over", "through",
+                "back", "away", "into", "onto", "across", "along", "aside"}
+    for i, p in enumerate(paras, 1):
+        for w in BOLD.findall(p["en"]):
+            if w.lower() not in PARTICLE:
+                continue
+            m = re.search(r"(\w+)(?:\s+[\w'’-]+){0,3}\s+\*\*" + re.escape(w) + r"\*\*", p["en"])
+            verb = m.group(1) if m else "?"
+            F.append(Finding("VAL-10", "选词", "hard", f"§{i} 小品词单独占名额",
+                f"{verb} … {w}",
+                "**动词短语要整体学，拆开没意义。**\n"
+                "        第31篇实际发生过：took the parts **apart** —— take apart 本是一个短语。\n"
+                "        两种处置：整体作为短语加粗，或换一个完整的动词"
+                "（该处已改为 **dismantled** the compound）。"))
+
     # ── 第十五层 AUD · 审读进度（2026-08-16 加）─────────────────────
     # 依据 18 篇实测：抓到问题的来源分布为
     #   史实核查（上网核）11 · 刁钻一问（人读）7 · 机器规则 6

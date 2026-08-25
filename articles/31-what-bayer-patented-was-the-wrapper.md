@@ -2,7 +2,7 @@
 
 > 题材：1935年百浪多息、磺胺的发现与一项没能守住的专利
 > 状态：**第三十一篇定稿**（2026-08-20）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：267 词 / 50 重点词 / 密度 18.7%
 > 多马克为救女儿注射了那种红色染料，她活了下来。可几个月后巴黎的实验证明：起效的根本不是染料，而是它在体内裂出的那一半——而那一半1909年就有人合成过，专利早已过期。
 
 ---
@@ -13,7 +13,7 @@ On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist
 
 Gerhard Domagk had **shown** in 1932 that it **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.
 
-In November 1935 a team at the Pasteur Institute took the parts **apart**. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **animals** **alike**. The body was **splitting** the molecule; the **colour** itself was inert. What Bayer had patented was the wrapper, not the **goods**.
+In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **animals** **alike**. The body was **splitting** the molecule; the **colour** itself was inert. What Bayer had patented was the wrapper, not the **goods**.
 
 That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry made it by the **ton** as an **intermediate**. Anyone could make it. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.
 
@@ -30,7 +30,7 @@ The 1939 **Nobel** Prize cost Domagk his freedom. Carl von Ossietzky, a **pacifi
 
 格哈德·多马克1932年就**证明**(shown)过这东西能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。
 
-1935年11月，巴斯德研究所的一个小组把这分子拆**开**(apart)来试。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**动物**(animals)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**颜色**(colour)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**货**(goods)。
+1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**动物**(animals)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**颜色**(colour)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**货**(goods)。
 
 那一半是个老东西：保罗·格尔莫1909年做**博士**(doctoral)**习题**(exercise)时就合成过它，专利早已**过期**(expired)，工业界把它当**中间体**(intermediate)按**吨**(ton)生产。谁都能做。两年之内各国**实验室**(laboratories)纷纷**做**(turning)出**衍生物**(derivatives)，那份**垄断**(monopoly)变成了一整类**药**(drugs)。
 
@@ -44,7 +44,7 @@ The 1939 **Nobel** Prize cost Domagk his freedom. Carl von Ossietzky, a **pacifi
 
 **§2**（10词）shown 证明（过去分词）｜cured 治好｜mice 小鼠（复）｜injected 注射｜recovered 康复｜permanent 永久的｜reddish 发红的｜tinge 淡色；色泽｜antibacterial 抗菌的｜proof 证据
 
-**§3**（10词）apart 分开｜test-tube 试管｜colourless 无色的｜acted 起作用｜glass 玻璃｜animals 动物（复）｜alike 同样地｜splitting 劈开；裂解｜colour 颜色｜goods 货物
+**§3**（10词）dismantled 拆解｜test-tube 试管｜colourless 无色的｜acted 起作用｜glass 玻璃｜animals 动物（复）｜alike 同样地｜splitting 劈开；裂解｜colour 颜色｜goods 货物
 
 **§4**（10词）doctoral 博士的｜exercise 习题；练习｜expired 过期｜ton 吨｜intermediate 中间体｜laboratories 实验室（复）｜turning 做出；转变｜derivatives 衍生物（复）｜monopoly 垄断｜drugs 药物（复）
 

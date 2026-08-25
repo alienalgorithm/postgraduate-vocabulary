@@ -351,6 +351,16 @@ _F2, _ = I.inspect(_hy, arts)
 check("连字符复合词不误判", "VAL-09" not in ids(_F2),
       "wordfreq 查不到 test-tube/fourth-floor，返回 0.0 是查询失败不是行话")
 
+# ── VAL-10：动词短语的小品词不得单独占名额 ──────────────────────
+print("\n[VAL-10] 动词短语")
+_pv = art(["They took the parts **apart** here."] + ["**b%d**." % i for i in range(4)])
+_F, _ = I.inspect(_pv, arts)
+check("小品词单独加粗 → VAL-10", "VAL-10" in ids(_F),
+      "take apart 本是一个短语，拆开学没意义")
+_ok2 = art(["They **dismantled** the compound here."] + ["**b%d**." % i for i in range(4)])
+_F2, _ = I.inspect(_ok2, arts)
+check("换成完整动词后不报", "VAL-10" not in ids(_F2))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

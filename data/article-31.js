@@ -21,8 +21,8 @@
           "zh": "格哈德·多马克1932年就**证明**(shown)过这东西能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
         },
         {
-          "en": "In November 1935 a team at the Pasteur Institute took the parts **apart**. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **animals** **alike**. The body was **splitting** the molecule; the **colour** itself was inert. What Bayer had patented was the wrapper, not the **goods**.",
-          "zh": "1935年11月，巴斯德研究所的一个小组把这分子拆**开**(apart)来试。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**动物**(animals)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**颜色**(colour)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**货**(goods)。"
+          "en": "In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **animals** **alike**. The body was **splitting** the molecule; the **colour** itself was inert. What Bayer had patented was the wrapper, not the **goods**.",
+          "zh": "1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**动物**(animals)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**颜色**(colour)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**货**(goods)。"
         },
         {
           "en": "That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry made it by the **ton** as an **intermediate**. Anyone could make it. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.",
@@ -43,7 +43,7 @@
         "**已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)"
       ],
       "metrics": {
-        "words": 268,
+        "words": 267,
         "keywords": 50,
         "density": 18.7
       },
@@ -149,8 +149,8 @@
           "p": 2
         },
         {
-          "w": "apart",
-          "zh": "分开",
+          "w": "dismantled",
+          "zh": "拆解",
           "p": 3
         },
         {
