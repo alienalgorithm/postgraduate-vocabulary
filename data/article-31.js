@@ -29,8 +29,8 @@
           "zh": "那一半是个老东西：保罗·格尔莫1909年做**博士**(doctoral)**习题**(exercise)时就合成过它，专利早已**过期**(expired)，工业界把它当**中间体**(intermediate)按**吨**(ton)生产。谁都能做。两年之内各国**实验室**(laboratories)纷纷**做**(turning)出**衍生物**(derivatives)，那份**垄断**(monopoly)变成了一整类**药**(drugs)。"
         },
         {
-          "en": "The 1939 **Nobel** Prize cost Domagk his freedom. Carl von Ossietzky, a **pacifist** in a camp, had taken the 1935 Peace Prize, and Hitler had **forbidden** Germans to accept Nobel awards. Told on 26 October, he sent a **guarded** **acceptance**; on 17 November **armed** Gestapo **surrounded** his house. After a week in **jail** he signed a letter **declining** it. The **medal** reached him in 1947, the money redistributed long before.",
-          "zh": "1939年的**诺贝尔**(Nobel)奖，让多马克付出了自由。因为关在集中营里的**和平主义者**(pacifist)卡尔·冯·奥西茨基拿了1935年和平奖，希特勒**禁止**(forbidden)德国人接受诺贝尔奖。10月26日接到通知，他发去一封措辞**谨慎**(guarded)的**接受函**(acceptance)；11月17日**持枪的**(armed)盖世太保**包围**(surrounded)了他的住宅。在**牢**(jail)里待了一周多之后，他签下了**拒绝**(declining)信。**奖章**(medal)1947年才到他手上，奖金早已重新分配。"
+          "en": "The 1939 Nobel **Prize** cost Domagk his freedom. Carl von Ossietzky, a **pacifist** in a camp, had taken the 1935 Peace Prize, and Hitler had **forbidden** Germans to accept Nobel awards. Told on 26 October, he sent a **guarded** **acceptance**; on 17 November **armed** Gestapo **surrounded** his house. After a week in **jail** he signed a letter **declining** it. The **medal** reached him in 1947, the money redistributed long before.",
+          "zh": "1939年的诺贝尔**奖**(Prize)，让多马克付出了自由。因为关在集中营里的**和平主义者**(pacifist)卡尔·冯·奥西茨基拿了1935年和平奖，希特勒**禁止**(forbidden)德国人接受诺贝尔奖。10月26日接到通知，他发去一封措辞**谨慎**(guarded)的**接受函**(acceptance)；11月17日**持枪的**(armed)盖世太保**包围**(surrounded)了他的住宅。在**牢**(jail)里待了一周多之后，他签下了**拒绝**(declining)信。**奖章**(medal)1947年才到他手上，奖金早已重新分配。"
         }
       ],
       "facts": [

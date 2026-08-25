@@ -17,7 +17,7 @@ The **inquest** of 1628 found her **unstable** and named no culprit; later accou
 
 Only the ship could answer it. She lay 333 years on the **seabed**; Anders Franzén found her in 1956 and **salvaged** her in 1961 with 45,000 **objects**. From 2010 the **archaeologist** Fred Hocker spent three years **measuring** every **plank** and **rib**. More **structure** stood to port than starboard: unballasted, she would **heel** that way **unaided**.
 
-Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish feet of **twelve** inches, two in Amsterdam feet of eleven, **sixteen** **millimetres** shorter. The master **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.
+Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish **feet** of twelve inches, two in Amsterdam feet of eleven, sixteen **millimetres** shorter. The **master** **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.
 
 ---
 
@@ -34,7 +34,7 @@ Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish 
 
 能回答的只有这艘船本身。它在**海底**(seabed)躺了333年；1956年安德斯·弗兰岑找到它，1961年它被**打捞**(salvaged)出水，同出水的还有45000件**器物**(objects)。2010年起，**考古学家**(archaeologist)弗雷德·霍克花三年**丈量**(measuring)了船上每一块**板**(plank)、每一根**肋**(rib)。左舷的**结构**(structure)比右舷多：不压压舱物的话，它**无需外力**(unaided)就会往那边**倾**(heel)。
 
-为什么会多？同船还上来了四把木工**尺**(rulers)：两把按瑞典尺**刻度**(graduated)，一尺**十二**(twelve)寸；两把按阿姆斯特丹尺，一尺十一寸，短了约**十六**(sixteen)**毫米**(millimetres)。总**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。
+为什么会多？同船还上来了四把木工**尺**(rulers)：两把按瑞典**尺**(feet)**刻度**(graduated)，一尺十二寸；两把按阿姆斯特丹尺，一尺十一寸，短了约十六**毫米**(millimetres)。**总**(master)**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。
 
 ---
 
@@ -48,7 +48,7 @@ Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish 
 
 **§4**（10词）seabed 海底｜salvage 打捞｜object 器物；物件｜archaeologist 考古学家｜measure 测量｜plank 板｜rib 肋材｜structure 结构｜heel 倾侧｜unaided 无需外力；独自
 
-**§5**（10词）ruler 尺｜graduate 刻度；分度｜twelve 十二｜sixteen 十六｜millimetre 毫米｜shipwright 造船师｜gang 工班｜accurately 准确地｜scale 尺度；刻度｜mistaken 弄错的
+**§5**（10词）ruler 尺｜graduate 刻度；分度｜feet 尺（复）｜millimetre 毫米｜master 总的；师傅｜shipwright 造船师｜gang 工班｜accurately 准确地｜scale 尺度；刻度｜mistaken 弄错的
 
 ---
 

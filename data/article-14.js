@@ -22,12 +22,12 @@
           "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(ship)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**清单**(list)。它们是冻在**浮冰**(floes)里**漂**(travelled)过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
         },
         {
-          "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to **seventy** centimetres deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.",
-          "zh": "**船身**(hull)必须扛得住被**夹住**(gripped)。科林·阿彻用最厚达**七十**(seventy)厘米的**橡木**(oak)造出「前进」号，船底**浑圆**(rounded)，舷侧**外斜**(sloping)。寻常船身给了冰一堵可以咬住的直墙；「前进」号给它的是一道**楔面**(wedge)。**冰群**(pack)一合拢，就把她**挤**(squeezed)着往上抬，而不是往**里**(inward)压，随后把她搁在冰面上。"
+          "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to seventy **centimetres** deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.",
+          "zh": "**船身**(hull)必须扛得住被**夹住**(gripped)。科林·阿彻用最厚达七十**厘米**(centimetres)的**橡木**(oak)造出「前进」号，船底**浑圆**(rounded)，舷侧**外斜**(sloping)。寻常船身给了冰一堵可以咬住的直墙；「前进」号给它的是一道**楔面**(wedge)。**冰群**(pack)一合拢，就把她**挤**(squeezed)着往上抬，而不是往**里**(inward)压，随后把她搁在冰面上。"
         },
         {
-          "en": "She left Norway in 1893 with **stores** for five years and let the ice **seize** her that September. There was no **steering** now, and no **retreat**. The crew **plumbed** the water, logged the **weather**, and **waited**. Nansen kept a **diary** through the polar night; all **thirteen** came through that first **winter**.",
-          "zh": "1893年她带着五年的**给养**(stores)离开挪威，九月任由冰把她**扣**(seize)住。此后再无**操舵**(steering)，也无**退路**(retreat)。船员**测**(plumbed)水深，记**天气**(weather)，然后**等着**(waited)。南森在极夜里写**日记**(diary)；**十三**(thirteen)个人全都熬过了第一个**冬天**(winter)。"
+          "en": "She left Norway in 1893 with **stores** for five years and let the ice **seize** her that September. There was no **steering** now, and no **retreat**. The crew **plumbed** the water, logged the **weather**, and **waited**. Nansen kept a **diary** through the **polar** night; all thirteen came through that first **winter**.",
+          "zh": "1893年她带着五年的**给养**(stores)离开挪威，九月任由冰把她**扣**(seize)住。此后再无**操舵**(steering)，也无**退路**(retreat)。船员**测**(plumbed)水深，记**天气**(weather)，然后**等着**(waited)。南森在**极地**(polar)长夜里写**日记**(diary)；十三个人全都熬过了第一个**冬天**(winter)。"
         },
         {
           "en": "The **bearing** ran wide: the drift would miss the Pole. In March 1895 Nansen and Hjalmar Johansen left with **dogs** and **skis**, reached 86°13.6′N — the **farthest** **poleward** anyone had stood, by almost three **degrees** — and turned back. They **overwintered** in a **shelter** of stone and walrus **hide**, then in June 1896 walked by sheer **fluke** into Frederick Jackson's camp.",
@@ -105,8 +105,8 @@
           "p": 2
         },
         {
-          "w": "seventy",
-          "zh": "七十",
+          "w": "centimetres",
+          "zh": "厘米（复）",
           "p": 2
         },
         {
@@ -180,8 +180,8 @@
           "p": 3
         },
         {
-          "w": "thirteen",
-          "zh": "十三",
+          "w": "polar",
+          "zh": "极地的",
           "p": 3
         },
         {

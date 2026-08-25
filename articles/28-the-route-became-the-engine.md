@@ -13,7 +13,7 @@ In the 1960s, reaching Neptune strained **propellant** budgets; a direct flight 
 
 Computation made the geometry **usable**. At JPL, Michael Minovitch developed **ballistic** **multi-planet** trajectories; in 1965 Gary Flandro analysed the outer-planet **opportunity**. The manoeuvre has a long **pedigree** and **unsettled** origins; claims of sole **authorship** mislead. Those contributions transformed **fleeting** **celestial** geometry into mission architecture; each encounter made the next world **attainable**.
 
-Near a planet, a craft follows a **curve**. Speed gained **inbound** is lost **outbound**, a **reciprocal** pattern in the planet's **co-moving** frame. Yet gravity **swivels** its velocity **vector**. In the **Sun**'s frame, adding planetary orbital velocity turns that deflection into a change in **kinetic** energy. Angular momentum changes hands; the planet's response is **imperceptible**.
+Near a planet, a craft follows a **curve**. Speed gained **inbound** is lost **outbound**, a **reciprocal** pattern in the planet's **co-moving** frame. Yet gravity **swivels** its velocity **vector**. In the Sun's **frame**, adding planetary orbital velocity turns that deflection into a change in **kinetic** energy. Angular momentum changes hands; the planet's response is **imperceptible**.
 
 Voyager 2 launched in 1977. Jupiter in 1979 **reoriented** it towards Saturn; Saturn in 1981 bent it towards Uranus; Uranus in 1986 sent it towards Neptune in 1989. Each **approach** required precise **targeting** at a prescribed **epoch**. A course **adjustment** could shift **downstream** geometry years later. The four **waypoints** formed one **interdependent** **cascade**, not a **piecemeal** itinerary.
 
@@ -30,7 +30,7 @@ Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet 
 
 计算让这套几何关系真正**可用**(usable)。在JPL，Michael Minovitch构建了**弹道式的**(ballistic)**多行星**(multi-planet)轨道；1965年，Gary Flandro分析了外行星飞行的**机会窗口**(opportunity)。这种机动方式有着悠久的思想**谱系**(pedigree)，其起源却仍**没有定论**(unsettled)；任何把**发明归属**(authorship)锁定于一人的说法都会误导。这些贡献把**转瞬即逝的**(fleeting)**天体**(celestial)几何关系转化为任务架构；每一次相遇都让下一个世界变得**可以抵达**(attainable)。
 
-在行星附近，探测器沿一条**曲线**(curve)运动。**接近时**(inbound)获得的增速会在**远离时**(outbound)失去；这种**互反**(reciprocal)关系成立于行星的**共动**(co-moving)参考系中。然而，引力仍会使它的速度**矢量**(vector)发生**转向**(swivels)。在**太阳**(Sun)的参考系中，行星的轨道速度一经叠加到前述矢量上，这种偏转便表现为探测器**动能**(kinetic)的变化。角动量在两者之间转移；行星的响应**微小到不可察觉**(imperceptible)。
+在行星附近，探测器沿一条**曲线**(curve)运动。**接近时**(inbound)获得的增速会在**远离时**(outbound)失去；这种**互反**(reciprocal)关系成立于行星的**共动**(co-moving)参考系中。然而，引力仍会使它的速度**矢量**(vector)发生**转向**(swivels)。在太阳的**参考系**(frame)中，行星的轨道速度一经叠加到前述矢量上，这种偏转便表现为探测器**动能**(kinetic)的变化。角动量在两者之间转移；行星的响应**微小到不可察觉**(imperceptible)。
 
 旅行者2号于1977年发射。1979年，木星让它**重新定向**(reoriented)，飞向土星；1981年，土星把它的轨道弯向天王星；1986年，天王星又把它送往海王星，并于1989年完成飞掠。每一次**接近**(approach)，都必须在规定的**时刻**(epoch)完成精准**瞄准**(targeting)。一次航向**微调**(adjustment)，可能在数年后改变**后续的**(downstream)轨道几何。四个**航路点**(waypoints)构成一条**相互依存的**(interdependent)**级联链**(cascade)，而不是一份**零碎拼凑的**(piecemeal)行程。
 

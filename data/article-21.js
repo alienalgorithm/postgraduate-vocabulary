@@ -34,8 +34,8 @@
           "zh": "能回答的只有这艘船本身。它在**海底**(seabed)躺了333年；1956年安德斯·弗兰岑找到它，1961年它被**打捞**(salvaged)出水，同出水的还有45000件**器物**(objects)。2010年起，**考古学家**(archaeologist)弗雷德·霍克花三年**丈量**(measuring)了船上每一块**板**(plank)、每一根**肋**(rib)。左舷的**结构**(structure)比右舷多：不压压舱物的话，它**无需外力**(unaided)就会往那边**倾**(heel)。"
         },
         {
-          "en": "Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish feet of **twelve** inches, two in Amsterdam feet of eleven, **sixteen** **millimetres** shorter. The master **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.",
-          "zh": "为什么会多？同船还上来了四把木工**尺**(rulers)：两把按瑞典尺**刻度**(graduated)，一尺**十二**(twelve)寸；两把按阿姆斯特丹尺，一尺十一寸，短了约**十六**(sixteen)**毫米**(millimetres)。总**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。"
+          "en": "Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish **feet** of twelve inches, two in Amsterdam feet of eleven, sixteen **millimetres** shorter. The **master** **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.",
+          "zh": "为什么会多？同船还上来了四把木工**尺**(rulers)：两把按瑞典**尺**(feet)**刻度**(graduated)，一尺十二寸；两把按阿姆斯特丹尺，一尺十一寸，短了约十六**毫米**(millimetres)。**总**(master)**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。"
         }
       ],
       "glossary": [
@@ -250,18 +250,18 @@
           "p": 5
         },
         {
-          "w": "twelve",
-          "zh": "十二",
-          "p": 5
-        },
-        {
-          "w": "sixteen",
-          "zh": "十六",
+          "w": "feet",
+          "zh": "尺（复）",
           "p": 5
         },
         {
           "w": "millimetre",
           "zh": "毫米",
+          "p": 5
+        },
+        {
+          "w": "master",
+          "zh": "总的；师傅",
           "p": 5
         },
         {
