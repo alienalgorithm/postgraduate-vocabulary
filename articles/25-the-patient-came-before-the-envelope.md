@@ -9,13 +9,13 @@
 
 ## 英文正文
 
-In postwar Britain, **streptomycin**, a new **antibiotic**, was tightly **rationed** nationwide; the government bought only 50 **kilograms** from the United States. **Tuberculosis** patients queued for **sanatoria**. The trial analysed 107 patients aged 15–30 with bacteriologically proved acute **progressive**, **bilateral** **pulmonary** tuberculosis. All received **bed-rest**; 55 also received streptomycin.
+In **postwar** Britain, streptomycin, a new **antibiotic**, was tightly **rationed** nationwide; the government bought only 50 **kilograms** from the United States. **Tuberculosis** patients **queued** for sanatoria. The trial analysed 107 patients aged 15–30 with bacteriologically proved acute **progressive**, **bilateral** **pulmonary** tuberculosis. All received **bed-rest**; 55 also received streptomycin.
 
 The **safeguard** came before treatment. An **eligibility** panel first accepted each patient; only then did the trial **headquarters** open the next **numbered** **envelope**. Austin Bradford Hill had prepared an **allotment** series from random numbers. Investigators and the **coordinator** could not see its order, so **foreknowledge** of **allocation** could not steer **enrolment**.
 
-Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. **Bacteriologists** reading **sputum** smears and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.
+Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. Bacteriologists reading **sputum** **smears** and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.
 
-At six months, **mortality** was four of 55 in the streptomycin group versus 14 of 52 controls. The **radiological** readers scored considerable **improvement** in 28 treated patients against four controls. Yet **resistance** emerged as **bacilli** stopped responding; some gains proved **transient** and ended in **deterioration**. The drug had **efficacy**, but **follow-up** showed improved **survival** did not make monotherapy durable.
+At six months, **mortality** was four of 55 in the streptomycin group versus 14 of 52 controls. The **radiological** readers scored considerable **improvement** in 28 treated patients against four controls. Yet **resistance** emerged as bacilli stopped **responding**; some gains proved **transient** and ended in **deterioration**. The drug had **efficacy**, but **follow-up** showed improved **survival** did not make monotherapy durable.
 
 The trial was not the first to randomise. Its **methodological** **landmark** was **concealment**. A **recruiter** who knew the next group could **tamper** with it — accepting the ones whose **prognosis** suited his **bias**. Random numbers made the sequence impossible to **foresee**; sealed envelopes kept the assignment unreadable. That **fairness** made a **counterfactual** comparison credible: the patient had to be accepted before the envelope could reveal the treatment.
 
@@ -26,13 +26,13 @@ The trial was not the first to randomise. Its **methodological** **landmark** wa
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-战后的英国，**链霉素**(streptomycin)这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到50**千克**(kilograms)。**结核病**(Tuberculosis)患者排队等待**疗养院**(sanatoria)床位。试验分析了107名15至30岁、经细菌学证实的急性**进展性的**(progressive)、**双侧的**(bilateral)**肺部**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中55人另外使用链霉素。
+**战后**(postwar)的英国，链霉素这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到50**千克**(kilograms)。**结核病**(Tuberculosis)患者**排队**(queued)等待疗养院床位。试验分析了107名15至30岁、经细菌学证实的急性**进展性的**(progressive)、**双侧的**(bilateral)**肺部**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中55人另外使用链霉素。
 
 真正的**防线**(safeguard)发生在治疗之前。负责**入选资格**(eligibility)审核的专家组必须先接纳患者；只有完成这一步，试验**总部**(headquarters)才会打开下一只**编号的**(numbered)**信封**(envelope)。奥斯汀·布拉德福德·希尔已经利用随机数编好了**分配序列**(allotment)。研究人员和**协调员**(coordinator)都看不到它的顺序，因此无法凭借对下一次**分配结果**(allocation)的**预先知情**(foreknowledge)来影响患者**入组**(enrolment)。
 
-病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)涂片和**培养结果**(cultures)的**细菌学家**(Bacteriologists)同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。
+病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂片**(smears)和**培养结果**(cultures)的细菌学家同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。
 
-六个月后，链霉素组55人中死亡4人，对照组52人中死亡14人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组28人，对照组只有4人。然而，**耐药性**(resistance)随后出现，一些**杆菌**(bacilli)开始不再响应药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。
+六个月后，链霉素组55人中死亡4人，对照组52人中死亡14人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组28人，对照组只有4人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。
 
 这并不是历史上第一次采用随机分配的试验。它真正具有**方法学上的**(methodological)**里程碑意义**(landmark)的是**分配隐藏**(concealment)。**招募的人**(recruiter)若知道下一位会进哪一组，就可能**动手脚**(tamper)——专挑**预后**(prognosis)合乎自己**偏倚**(bias)的人收进来。随机数让序列无法被**预见**(foresee)；密封信封则让已经生成的分配结果无法提前读取。这种**公平性**(fairness)使**反事实的**(counterfactual)比较真正可信：必须先确定这个患者进入试验，信封之后才能揭示他接受哪一种治疗。
 
@@ -40,13 +40,13 @@ The trial was not the first to randomise. Its **methodological** **landmark** wa
 
 ## 50 词速查表
 
-**§1**（10词）streptomycin 链霉素｜antibiotic 抗生素｜rationed 配给的；受配给控制的｜kilograms 千克（复）｜tuberculosis 结核病｜sanatoria 疗养院（复）｜progressive 进展性的｜bilateral 双侧的｜pulmonary 肺部的｜bed-rest 卧床休息
+**§1**（10词）postwar 战后的｜antibiotic 抗生素｜rationed 配给的；受配给控制的｜kilograms 千克（复）｜tuberculosis 结核病｜queued 排队｜progressive 进展性的｜bilateral 双侧的｜pulmonary 肺部的｜bed-rest 卧床休息
 
 **§2**（10词）safeguard 防线；保护措施｜eligibility 入选资格｜headquarters 总部｜numbered 编号的｜envelope 信封｜allotment 分配序列；分配｜coordinator 协调员｜foreknowledge 预先知情｜allocation 分配｜enrolment 入组；登记
 
-**§3**（10词）radiographs X光片（复）｜monthly 每月的；每月｜specialists 专家（复）｜independently 独立地｜assignments 分组；分配｜bacteriologists 细菌学家（复）｜sputum 痰液｜cultures 培养物｜blinded 盲法处理的｜observers 评定者（复）
+**§3**（10词）radiographs X光片（复）｜monthly 每月的；每月｜specialists 专家（复）｜independently 独立地｜assignments 分组；分配｜sputum 痰液｜smears 涂片｜cultures 培养物｜blinded 盲法处理的｜observers 评定者（复）
 
-**§4**（10词）mortality 死亡率｜radiological 影像学的｜improvement 改善；好转｜resistance 耐药性；抵抗｜bacilli 杆菌（复）｜transient 短暂的｜deterioration 恶化｜efficacy 疗效｜follow-up 随访｜survival 生存；生存情况
+**§4**（10词）mortality 死亡率｜radiological 影像学的｜improvement 改善；好转｜resistance 耐药性；抵抗｜responding 响应｜transient 短暂的｜deterioration 恶化｜efficacy 疗效｜follow-up 随访｜survival 生存；生存情况
 
 **§5**（10词）methodological 方法学的｜landmark 里程碑｜concealment 隐藏；分配隐藏｜recruiter 招募者｜tamper 动手脚；篡改｜prognosis 预后｜bias 偏倚；偏见｜foresee 预见｜fairness 公平性｜counterfactual 反事实；反事实的
 

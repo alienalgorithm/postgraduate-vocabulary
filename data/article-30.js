@@ -18,8 +18,8 @@
       },
       "paras": [
         {
-          "en": "In the early 1950s, flat-glass **manufacturers** faced a **compromise**. Drawing a vertical **ribbon** from a **furnace** produced cheap sheets, but **waviness** **warped** the view. Polished plate was flatter: rollers formed it, then **grinders** erased scars and **polishers** restored **transparency**. Optical quality required **laborious** finishing and material loss.",
-          "zh": "20世纪50年代初，平板玻璃**制造商**(manufacturers)面对一种**取舍**(compromise)。从**熔炉**(furnace)中牵引出一条竖直的**玻璃带**(ribbon)，可以低成本制成薄片，但**波纹起伏**(waviness)会让视野**扭曲**(warped)。磨光板玻璃更平整：轧辊先将它成形，随后**磨削机**(grinders)磨去划痕，**抛光机**(polishers)再恢复**透明度**(transparency)。这种光学品质必须靠**费工的**(laborious)后处理和材料损耗换来。"
+          "en": "In the early 1950s, flat-glass **manufacturers** faced a **compromise**. Drawing a vertical **ribbon** from a **furnace** produced cheap **sheets**, but ripples **warped** the view. Polished plate was **flatter**: rollers formed it, then **grinders** erased scars and polishers restored **transparency**. Optical quality required **laborious** finishing and material loss.",
+          "zh": "20世纪50年代初，平板玻璃**制造商**(manufacturers)面对一种**取舍**(compromise)。从**熔炉**(furnace)中牵引出一条竖直的**玻璃带**(ribbon)，可以低成本制成薄**片**(sheets)，但波纹起伏会让视野**扭曲**(warped)。磨光板玻璃**更平**(flatter)：轧辊先将它成形，随后**磨削机**(grinders)磨去划痕，抛光机再恢复**透明度**(transparency)。这种光学品质必须靠**费工的**(laborious)后处理和材料损耗换来。"
         },
         {
           "en": "In 1952, at Pilkington Brothers in St Helens, Alastair Pilkington **pursued** quality and **continuity** by **floating** glass on **molten** metal. Earlier patents meant the principle was not **unprecedented**; the **breakthrough** lay instead in **industrial** control. A 1953 patent application named Pilkington and Kenneth Bickerstaff as **co-inventors**. Their team **endured** seven years of **experimentation** before the 1959 announcement.",
@@ -30,8 +30,8 @@
           "zh": "玻璃以约1100°C的温度流到熔融锡液上。锡的**密度**(density)比玻璃大，足以托住玻璃带；锡又兼具**高沸点**(high-boiling)、对玻璃熔体**不易反应**(unreactive)和**导热**(conductive)三项性质，使锡浴在工艺上**可行**(workable)。重力使玻璃铺展开来；当厚度降至约6.8毫米，表面**张力**(tension)便阻止它继续变薄。保持高温时，表面的**不规则起伏**(irregularities)会随着玻璃熔体逐渐**松弛**(relaxed)而消退：上表面自行变平，锡液则为玻璃**提供了**(furnished)水平的**底面**(underside)。"
         },
         {
-          "en": "Apparent **simplicity** concealed tight chemical and thermal control. In air, tin formed **dross** that could **blemish** glass; a **protective** nitrogen-hydrogen atmosphere **suppressed** oxidation. **Cooling** raised **viscosity** until, near 600°C, rollers could lift the ribbon without leaving **marks**. A lehr **annealed** the sheet, relieving stresses that could cause **fracture**.",
-          "zh": "看似**简单**(simplicity)，其实化学条件和温度都必须受到严密控制。暴露在空气中，锡会氧化并产生**浮渣**(dross)，可能给玻璃**留下瑕疵**(blemish)；氮气—氢气构成的**保护性**(protective)气氛则**抑制了**(suppressed)这种氧化。随着**冷却**(Cooling)，玻璃的**黏度**(viscosity)上升；接近600°C时，轧辊才能托起已经变硬的玻璃带而不留下**印痕**(marks)。随后，玻璃片在退火炉中完成**退火**(annealed)，释放可能导致**断裂**(fracture)的应力。"
+          "en": "Apparent **simplicity** concealed tight chemical and thermal control. In air, tin formed **dross** that could **blemish** glass; a **protective** nitrogen-hydrogen atmosphere **suppressed** oxidation. **Cooling** raised **viscosity** until, near 600°C, rollers could lift the ribbon without leaving **marks**. A lehr eased the **sheet**, relieving stresses that could cause **fracture**.",
+          "zh": "看似**简单**(simplicity)，其实化学条件和温度都必须受到严密控制。暴露在空气中，锡会氧化并产生**浮渣**(dross)，可能给玻璃**留下瑕疵**(blemish)；氮气—氢气构成的**保护性**(protective)气氛则**抑制了**(suppressed)这种氧化。随着**冷却**(Cooling)，玻璃的**黏度**(viscosity)上升；接近600°C时，轧辊才能托起已经变硬的玻璃带而不留下**印痕**(marks)。随后，玻璃片在退火炉中缓缓松弛，释放这张**片**(sheet)里可能导致**断裂**(fracture)的应力。"
         },
         {
           "en": "Grinding and polishing compensated for damage: solid **machinery** marked glass, then more machinery **repaired** it. The float process reversed that **logic**. Liquids created nearly **pristine** faces; handling was **deferred** until the ribbon could survive it, **reconciling** plate quality with sheet-glass economy and making large **panes** **affordable**. Its **precision** came from **postponing** solid contact: the window became flat while still afloat.",
@@ -39,56 +39,256 @@
         }
       ],
       "glossary": [
-        { "w": "manufacturer", "zh": "制造商", "p": 1 },
-        { "w": "compromise", "zh": "折中；取舍", "p": 1 },
-        { "w": "ribbon", "zh": "带状物；连续带", "p": 1 },
-        { "w": "furnace", "zh": "熔炉；炉", "p": 1 },
-        { "w": "waviness", "zh": "波纹度；起伏", "p": 1 },
-        { "w": "warp", "zh": "使弯曲；使变形", "p": 1 },
-        { "w": "grinder", "zh": "磨削机；研磨机", "p": 1 },
-        { "w": "polisher", "zh": "抛光机；抛光者", "p": 1 },
-        { "w": "transparency", "zh": "透明度；透明性", "p": 1 },
-        { "w": "laborious", "zh": "费力的；费工的", "p": 1 },
-        { "w": "pursue", "zh": "追求；力图", "p": 2 },
-        { "w": "continuity", "zh": "连续性", "p": 2 },
-        { "w": "float", "zh": "使漂浮；漂浮", "p": 2 },
-        { "w": "molten", "zh": "熔融的", "p": 2 },
-        { "w": "unprecedented", "zh": "前所未有的", "p": 2 },
-        { "w": "breakthrough", "zh": "突破", "p": 2 },
-        { "w": "industrial", "zh": "工业的；工业化的", "p": 2 },
-        { "w": "co-inventor", "zh": "共同发明人", "p": 2 },
-        { "w": "endure", "zh": "忍受；经受", "p": 2 },
-        { "w": "experimentation", "zh": "试验；实验", "p": 2 },
-        { "w": "density", "zh": "密度", "p": 3 },
-        { "w": "high-boiling", "zh": "高沸点的", "p": 3 },
-        { "w": "unreactive", "zh": "不易反应的；化学性质不活泼的", "p": 3 },
-        { "w": "conductive", "zh": "导热的；导电的", "p": 3 },
-        { "w": "workable", "zh": "可行的；可操作的", "p": 3 },
-        { "w": "tension", "zh": "张力；紧张", "p": 3 },
-        { "w": "irregularity", "zh": "不规则；不规则起伏", "p": 3 },
-        { "w": "relax", "zh": "松弛；放松", "p": 3 },
-        { "w": "furnish", "zh": "提供；配备", "p": 3 },
-        { "w": "underside", "zh": "底面；下侧", "p": 3 },
-        { "w": "simplicity", "zh": "简单；简洁", "p": 4 },
-        { "w": "dross", "zh": "浮渣；熔渣", "p": 4 },
-        { "w": "blemish", "zh": "使有瑕疵；瑕疵", "p": 4 },
-        { "w": "protective", "zh": "保护性的", "p": 4 },
-        { "w": "suppress", "zh": "抑制；压制", "p": 4 },
-        { "w": "cooling", "zh": "冷却；降温", "p": 4 },
-        { "w": "viscosity", "zh": "黏度", "p": 4 },
-        { "w": "mark", "zh": "痕迹；标记", "p": 4 },
-        { "w": "anneal", "zh": "退火；使退火", "p": 4 },
-        { "w": "fracture", "zh": "断裂；破裂", "p": 4 },
-        { "w": "machinery", "zh": "机器；机械设备", "p": 5 },
-        { "w": "repair", "zh": "修复", "p": 5 },
-        { "w": "logic", "zh": "逻辑", "p": 5 },
-        { "w": "pristine", "zh": "完好无瑕的；崭新的", "p": 5 },
-        { "w": "defer", "zh": "推迟；延后", "p": 5 },
-        { "w": "reconcile", "zh": "调和；使兼容", "p": 5 },
-        { "w": "pane", "zh": "窗玻璃片；玻璃板", "p": 5 },
-        { "w": "affordable", "zh": "负担得起的", "p": 5 },
-        { "w": "precision", "zh": "精度；精确性", "p": 5 },
-        { "w": "postpone", "zh": "推迟；延缓", "p": 5 }
+        {
+          "w": "manufacturer",
+          "zh": "制造商",
+          "p": 1
+        },
+        {
+          "w": "compromise",
+          "zh": "折中；取舍",
+          "p": 1
+        },
+        {
+          "w": "ribbon",
+          "zh": "带状物；连续带",
+          "p": 1
+        },
+        {
+          "w": "furnace",
+          "zh": "熔炉；炉",
+          "p": 1
+        },
+        {
+          "w": "sheets",
+          "zh": "薄片",
+          "p": 1
+        },
+        {
+          "w": "warp",
+          "zh": "使弯曲；使变形",
+          "p": 1
+        },
+        {
+          "w": "flatter",
+          "zh": "更平的",
+          "p": 1
+        },
+        {
+          "w": "grinder",
+          "zh": "磨削机；研磨机",
+          "p": 1
+        },
+        {
+          "w": "transparency",
+          "zh": "透明度；透明性",
+          "p": 1
+        },
+        {
+          "w": "laborious",
+          "zh": "费力的；费工的",
+          "p": 1
+        },
+        {
+          "w": "pursue",
+          "zh": "追求；力图",
+          "p": 2
+        },
+        {
+          "w": "continuity",
+          "zh": "连续性",
+          "p": 2
+        },
+        {
+          "w": "float",
+          "zh": "使漂浮；漂浮",
+          "p": 2
+        },
+        {
+          "w": "molten",
+          "zh": "熔融的",
+          "p": 2
+        },
+        {
+          "w": "unprecedented",
+          "zh": "前所未有的",
+          "p": 2
+        },
+        {
+          "w": "breakthrough",
+          "zh": "突破",
+          "p": 2
+        },
+        {
+          "w": "industrial",
+          "zh": "工业的；工业化的",
+          "p": 2
+        },
+        {
+          "w": "co-inventor",
+          "zh": "共同发明人",
+          "p": 2
+        },
+        {
+          "w": "endure",
+          "zh": "忍受；经受",
+          "p": 2
+        },
+        {
+          "w": "experimentation",
+          "zh": "试验；实验",
+          "p": 2
+        },
+        {
+          "w": "density",
+          "zh": "密度",
+          "p": 3
+        },
+        {
+          "w": "high-boiling",
+          "zh": "高沸点的",
+          "p": 3
+        },
+        {
+          "w": "unreactive",
+          "zh": "不易反应的；化学性质不活泼的",
+          "p": 3
+        },
+        {
+          "w": "conductive",
+          "zh": "导热的；导电的",
+          "p": 3
+        },
+        {
+          "w": "workable",
+          "zh": "可行的；可操作的",
+          "p": 3
+        },
+        {
+          "w": "tension",
+          "zh": "张力；紧张",
+          "p": 3
+        },
+        {
+          "w": "irregularity",
+          "zh": "不规则；不规则起伏",
+          "p": 3
+        },
+        {
+          "w": "relax",
+          "zh": "松弛；放松",
+          "p": 3
+        },
+        {
+          "w": "furnish",
+          "zh": "提供；配备",
+          "p": 3
+        },
+        {
+          "w": "underside",
+          "zh": "底面；下侧",
+          "p": 3
+        },
+        {
+          "w": "simplicity",
+          "zh": "简单；简洁",
+          "p": 4
+        },
+        {
+          "w": "dross",
+          "zh": "浮渣；熔渣",
+          "p": 4
+        },
+        {
+          "w": "blemish",
+          "zh": "使有瑕疵；瑕疵",
+          "p": 4
+        },
+        {
+          "w": "protective",
+          "zh": "保护性的",
+          "p": 4
+        },
+        {
+          "w": "suppress",
+          "zh": "抑制；压制",
+          "p": 4
+        },
+        {
+          "w": "cooling",
+          "zh": "冷却；降温",
+          "p": 4
+        },
+        {
+          "w": "viscosity",
+          "zh": "黏度",
+          "p": 4
+        },
+        {
+          "w": "mark",
+          "zh": "痕迹；标记",
+          "p": 4
+        },
+        {
+          "w": "sheet",
+          "zh": "片；板",
+          "p": 4
+        },
+        {
+          "w": "fracture",
+          "zh": "断裂；破裂",
+          "p": 4
+        },
+        {
+          "w": "machinery",
+          "zh": "机器；机械设备",
+          "p": 5
+        },
+        {
+          "w": "repair",
+          "zh": "修复",
+          "p": 5
+        },
+        {
+          "w": "logic",
+          "zh": "逻辑",
+          "p": 5
+        },
+        {
+          "w": "pristine",
+          "zh": "完好无瑕的；崭新的",
+          "p": 5
+        },
+        {
+          "w": "defer",
+          "zh": "推迟；延后",
+          "p": 5
+        },
+        {
+          "w": "reconcile",
+          "zh": "调和；使兼容",
+          "p": 5
+        },
+        {
+          "w": "pane",
+          "zh": "窗玻璃片；玻璃板",
+          "p": 5
+        },
+        {
+          "w": "affordable",
+          "zh": "负担得起的",
+          "p": 5
+        },
+        {
+          "w": "precision",
+          "zh": "精度；精确性",
+          "p": 5
+        },
+        {
+          "w": "postpone",
+          "zh": "推迟；延缓",
+          "p": 5
+        }
       ],
       "facts": [
         "【已核】1950年代初，高质量磨光板玻璃要经轧制、双面研磨和抛光才能获得平行表面；垂直牵引的薄片玻璃更便宜，却带有光学畸变。正文把问题写成品质与连续低成本生产之间的取舍。[Pilkington：Alastair Pilkington与浮法工艺](https://www.pilkington.com/en/gbl/knowledge-hub-selection/architectural-and-technical-glass-knowledge-hub/learn-about-glass-technology/sir-alastair-pilkington)｜[原始美国专利US2911759A](https://patents.google.com/patent/US2911759A/en)",

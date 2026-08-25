@@ -9,13 +9,13 @@
 
 ## 英文正文
 
-In the early 1950s, flat-glass **manufacturers** faced a **compromise**. Drawing a vertical **ribbon** from a **furnace** produced cheap sheets, but **waviness** **warped** the view. Polished plate was flatter: rollers formed it, then **grinders** erased scars and **polishers** restored **transparency**. Optical quality required **laborious** finishing and material loss.
+In the early 1950s, flat-glass **manufacturers** faced a **compromise**. Drawing a vertical **ribbon** from a **furnace** produced cheap **sheets**, but ripples **warped** the view. Polished plate was **flatter**: rollers formed it, then **grinders** erased scars and polishers restored **transparency**. Optical quality required **laborious** finishing and material loss.
 
 In 1952, at Pilkington Brothers in St Helens, Alastair Pilkington **pursued** quality and **continuity** by **floating** glass on **molten** metal. Earlier patents meant the principle was not **unprecedented**; the **breakthrough** lay instead in **industrial** control. A 1953 patent application named Pilkington and Kenneth Bickerstaff as **co-inventors**. Their team **endured** seven years of **experimentation** before the 1959 announcement.
 
 At 1,100°C, glass flowed onto molten tin. Tin's greater **density** supported it; the metal was **high-boiling**, **unreactive** towards the melt and thermally **conductive**, making the bath **workable**. Gravity spread the glass; surface **tension** checked further thinning at roughly 6.8 millimetres. Held hot, **irregularities** faded as the melt **relaxed**: its upper face became smooth while tin **furnished** a level **underside**.
 
-Apparent **simplicity** concealed tight chemical and thermal control. In air, tin formed **dross** that could **blemish** glass; a **protective** nitrogen-hydrogen atmosphere **suppressed** oxidation. **Cooling** raised **viscosity** until, near 600°C, rollers could lift the ribbon without leaving **marks**. A lehr **annealed** the sheet, relieving stresses that could cause **fracture**.
+Apparent **simplicity** concealed tight chemical and thermal control. In air, tin formed **dross** that could **blemish** glass; a **protective** nitrogen-hydrogen atmosphere **suppressed** oxidation. **Cooling** raised **viscosity** until, near 600°C, rollers could lift the ribbon without leaving **marks**. A lehr eased the **sheet**, relieving stresses that could cause **fracture**.
 
 Grinding and polishing compensated for damage: solid **machinery** marked glass, then more machinery **repaired** it. The float process reversed that **logic**. Liquids created nearly **pristine** faces; handling was **deferred** until the ribbon could survive it, **reconciling** plate quality with sheet-glass economy and making large **panes** **affordable**. Its **precision** came from **postponing** solid contact: the window became flat while still afloat.
 
@@ -26,13 +26,13 @@ Grinding and polishing compensated for damage: solid **machinery** marked glass,
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-20世纪50年代初，平板玻璃**制造商**(manufacturers)面对一种**取舍**(compromise)。从**熔炉**(furnace)中牵引出一条竖直的**玻璃带**(ribbon)，可以低成本制成薄片，但**波纹起伏**(waviness)会让视野**扭曲**(warped)。磨光板玻璃更平整：轧辊先将它成形，随后**磨削机**(grinders)磨去划痕，**抛光机**(polishers)再恢复**透明度**(transparency)。这种光学品质必须靠**费工的**(laborious)后处理和材料损耗换来。
+20世纪50年代初，平板玻璃**制造商**(manufacturers)面对一种**取舍**(compromise)。从**熔炉**(furnace)中牵引出一条竖直的**玻璃带**(ribbon)，可以低成本制成薄**片**(sheets)，但波纹起伏会让视野**扭曲**(warped)。磨光板玻璃**更平**(flatter)：轧辊先将它成形，随后**磨削机**(grinders)磨去划痕，抛光机再恢复**透明度**(transparency)。这种光学品质必须靠**费工的**(laborious)后处理和材料损耗换来。
 
 1952年，在圣海伦斯的皮尔金顿兄弟公司，Alastair Pilkington开始**追求**(pursued)一种兼得品质与生产**连续性**(continuity)的办法：让玻璃**漂浮**(floating)在**熔融的**(molten)金属上。早期专利说明这一原理并非**前所未有**(unprecedented)；真正的**突破**(breakthrough)在于实现**工业化的**(industrial)控制。1953年的一项专利申请把Pilkington与Kenneth Bickerstaff列为**共同发明人**(co-inventors)。他们的团队**熬过了**(endured)七年**反复试验**(experimentation)，直到1959年才公开这一工艺。
 
 玻璃以约1100°C的温度流到熔融锡液上。锡的**密度**(density)比玻璃大，足以托住玻璃带；锡又兼具**高沸点**(high-boiling)、对玻璃熔体**不易反应**(unreactive)和**导热**(conductive)三项性质，使锡浴在工艺上**可行**(workable)。重力使玻璃铺展开来；当厚度降至约6.8毫米，表面**张力**(tension)便阻止它继续变薄。保持高温时，表面的**不规则起伏**(irregularities)会随着玻璃熔体逐渐**松弛**(relaxed)而消退：上表面自行变平，锡液则为玻璃**提供了**(furnished)水平的**底面**(underside)。
 
-看似**简单**(simplicity)，其实化学条件和温度都必须受到严密控制。暴露在空气中，锡会氧化并产生**浮渣**(dross)，可能给玻璃**留下瑕疵**(blemish)；氮气—氢气构成的**保护性**(protective)气氛则**抑制了**(suppressed)这种氧化。随着**冷却**(Cooling)，玻璃的**黏度**(viscosity)上升；接近600°C时，轧辊才能托起已经变硬的玻璃带而不留下**印痕**(marks)。随后，玻璃片在退火炉中完成**退火**(annealed)，释放可能导致**断裂**(fracture)的应力。
+看似**简单**(simplicity)，其实化学条件和温度都必须受到严密控制。暴露在空气中，锡会氧化并产生**浮渣**(dross)，可能给玻璃**留下瑕疵**(blemish)；氮气—氢气构成的**保护性**(protective)气氛则**抑制了**(suppressed)这种氧化。随着**冷却**(Cooling)，玻璃的**黏度**(viscosity)上升；接近600°C时，轧辊才能托起已经变硬的玻璃带而不留下**印痕**(marks)。随后，玻璃片在退火炉中缓缓松弛，释放这张**片**(sheet)里可能导致**断裂**(fracture)的应力。
 
 研磨和抛光本质上是在补救损伤：固体**机械设备**(machinery)先在玻璃上留下痕迹，再由更多机械把它**修复**(repaired)。让玻璃漂浮，颠倒了这套**逻辑**(logic)。两种液体共同塑造出近乎**完好无瑕的**(pristine)两面；机械搬运则被**推迟到**(deferred)玻璃带能够承受之后，由此**调和了**(reconciling)磨光板玻璃的品质与薄片玻璃的经济性，使大块**窗玻璃**(panes)变得**负担得起**(affordable)。它的表面**精度**(precision)来自**推迟**(postponing)与固体的接触：窗玻璃还漂在锡液上时，就已经变得平整。
 
@@ -40,13 +40,13 @@ Grinding and polishing compensated for damage: solid **machinery** marked glass,
 
 ## 50 词速查表
 
-**§1**（10词）manufacturer 制造商｜compromise 折中；取舍｜ribbon 带状物；连续带｜furnace 熔炉；炉｜waviness 波纹度；起伏｜warp 使弯曲；使变形｜grinder 磨削机；研磨机｜polisher 抛光机；抛光者｜transparency 透明度；透明性｜laborious 费力的；费工的
+**§1**（10词）manufacturer 制造商｜compromise 折中；取舍｜ribbon 带状物；连续带｜furnace 熔炉；炉｜sheets 薄片｜warp 使弯曲；使变形｜flatter 更平的｜grinder 磨削机；研磨机｜transparency 透明度；透明性｜laborious 费力的；费工的
 
 **§2**（10词）pursue 追求；力图｜continuity 连续性｜float 使漂浮；漂浮｜molten 熔融的｜unprecedented 前所未有的｜breakthrough 突破｜industrial 工业的；工业化的｜co-inventor 共同发明人｜endure 忍受；经受｜experimentation 试验；实验
 
 **§3**（10词）density 密度｜high-boiling 高沸点的｜unreactive 不易反应的；化学性质不活泼的｜conductive 导热的；导电的｜workable 可行的；可操作的｜tension 张力；紧张｜irregularity 不规则；不规则起伏｜relax 松弛；放松｜furnish 提供；配备｜underside 底面；下侧
 
-**§4**（10词）simplicity 简单；简洁｜dross 浮渣；熔渣｜blemish 使有瑕疵；瑕疵｜protective 保护性的｜suppress 抑制；压制｜cooling 冷却；降温｜viscosity 黏度｜mark 痕迹；标记｜anneal 退火；使退火｜fracture 断裂；破裂
+**§4**（10词）simplicity 简单；简洁｜dross 浮渣；熔渣｜blemish 使有瑕疵；瑕疵｜protective 保护性的｜suppress 抑制；压制｜cooling 冷却；降温｜viscosity 黏度｜mark 痕迹；标记｜sheet 片；板｜fracture 断裂；破裂
 
 **§5**（10词）machinery 机器；机械设备｜repair 修复｜logic 逻辑｜pristine 完好无瑕的；崭新的｜defer 推迟；延后｜reconcile 调和；使兼容｜pane 窗玻璃片；玻璃板｜affordable 负担得起的｜precision 精度；精确性｜postpone 推迟；延缓
 

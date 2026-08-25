@@ -40,13 +40,13 @@ In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** t
 
 ## 50 词速查表
 
-**§1**（10词）lay 摆放；放置｜cranium 头盖骨｜gravel 砾石｜pit 坑｜skull 颅骨｜ape 猿｜pairing 配对｜unheard 前所未闻的｜forebear 先祖｜jawbone 下颌骨
+**§1**（10词）lay 摆放；放置｜jaw 颌骨｜cranium 头盖骨｜gravel 砾石｜pit 坑｜skull 颅骨｜ape 猿｜pairing 配对｜unheard 前所未闻的｜forebear 先祖
 
-**§2**（10词）pair 配对｜echo 附和｜anatomist 解剖学家｜orangutan 猩猩｜mandible 下颌｜teeth 牙齿｜abrade 磨蚀｜ignore 无视｜generation 一代人｜anatomy 解剖学
+**§2**（10词）jawbone 下颌骨｜pair 配对｜echo 附和｜anatomist 解剖学家｜orangutan 猩猩｜mandible 下颌｜teeth 牙齿｜abrade 磨蚀｜ignore 无视｜generation 一代人
 
-**§3**（10词）hinge 关节；铰链｜fit 拼合｜test 检验｜cast 石膏模型｜image 影像｜dissent 异见｜acclaim 追捧；喝彩｜bone 骨头｜arbiter 裁决者｜fluorine 氟
+**§3**（10词）anatomy 解剖学｜hinge 关节；铰链｜fit 拼合｜test 检验｜cast 石膏模型｜image 影像｜dissent 异见｜acclaim 追捧；喝彩｜bone 骨头｜arbiter 裁决者
 
-**§4**（10词）bury 埋｜absorb 吸收｜fluoride 氟化物｜groundwater 地下水｜lie 躺；位于｜hold 存留｜jaw 颌骨｜vault 颅顶；穹顶｜rest 停留｜duration 时段
+**§4**（10词）fluorine 氟｜bury 埋｜absorb 吸收｜fluoride 氟化物｜groundwater 地下水｜lie 躺；位于｜hold 存留｜vault 颅顶；穹顶｜rest 停留｜duration 时段
 
 **§5**（10词）magnification 放大｜molar 臼齿｜file 锉｜groove 沟槽｜scratch 划痕｜uneven 不匀的｜drill 钻｜inquiry 追问；探究｜resemble 像；相似｜lain 躺过
 

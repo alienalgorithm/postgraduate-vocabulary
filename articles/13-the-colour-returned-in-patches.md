@@ -42,7 +42,7 @@ Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都
 
 **§1**（10词）kernel 籽粒｜breed 培育｜corn 玉米｜cross 杂交｜seed 种子｜purple 紫色的｜patch 斑块｜speckle 麻点｜microscope 显微镜｜inherit 遗传
 
-**§2**（10词）breakage 断裂｜locus 位点｜segment 段；片段｜dropped 落入；掉进｜pigment 色素｜gene 基因｜interrupt 打断｜shift 移位｜alongside 在旁；沿着｜depart 离开
+**§2**（10词）breakage 断裂｜locus 位点｜segment 段；片段｜dropped 落入；掉进｜pigment 色素｜interrupt 打断｜shift 移位｜alongside 在旁；沿着｜depart 离开｜gene 基因
 
 **§3**（10词）blotch 色斑｜descendant 后代｜restore 恢复｜excision 切离；切除｜broad 宽阔的｜sector 扇区｜fleck 碎斑｜lineage 谱系｜span 跨度｜jump 跳跃
 

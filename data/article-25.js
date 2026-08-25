@@ -18,20 +18,20 @@
       },
       "paras": [
         {
-          "en": "In postwar Britain, **streptomycin**, a new **antibiotic**, was tightly **rationed** nationwide; the government bought only 50 **kilograms** from the United States. **Tuberculosis** patients queued for **sanatoria**. The trial analysed 107 patients aged 15–30 with bacteriologically proved acute **progressive**, **bilateral** **pulmonary** tuberculosis. All received **bed-rest**; 55 also received streptomycin.",
-          "zh": "战后的英国，**链霉素**(streptomycin)这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到50**千克**(kilograms)。**结核病**(Tuberculosis)患者排队等待**疗养院**(sanatoria)床位。试验分析了107名15至30岁、经细菌学证实的急性**进展性的**(progressive)、**双侧的**(bilateral)**肺部**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中55人另外使用链霉素。"
+          "en": "In **postwar** Britain, streptomycin, a new **antibiotic**, was tightly **rationed** nationwide; the government bought only 50 **kilograms** from the United States. **Tuberculosis** patients **queued** for sanatoria. The trial analysed 107 patients aged 15–30 with bacteriologically proved acute **progressive**, **bilateral** **pulmonary** tuberculosis. All received **bed-rest**; 55 also received streptomycin.",
+          "zh": "**战后**(postwar)的英国，链霉素这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到50**千克**(kilograms)。**结核病**(Tuberculosis)患者**排队**(queued)等待疗养院床位。试验分析了107名15至30岁、经细菌学证实的急性**进展性的**(progressive)、**双侧的**(bilateral)**肺部**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中55人另外使用链霉素。"
         },
         {
           "en": "The **safeguard** came before treatment. An **eligibility** panel first accepted each patient; only then did the trial **headquarters** open the next **numbered** **envelope**. Austin Bradford Hill had prepared an **allotment** series from random numbers. Investigators and the **coordinator** could not see its order, so **foreknowledge** of **allocation** could not steer **enrolment**.",
           "zh": "真正的**防线**(safeguard)发生在治疗之前。负责**入选资格**(eligibility)审核的专家组必须先接纳患者；只有完成这一步，试验**总部**(headquarters)才会打开下一只**编号的**(numbered)**信封**(envelope)。奥斯汀·布拉德福德·希尔已经利用随机数编好了**分配序列**(allotment)。研究人员和**协调员**(coordinator)都看不到它的顺序，因此无法凭借对下一次**分配结果**(allocation)的**预先知情**(foreknowledge)来影响患者**入组**(enrolment)。"
         },
         {
-          "en": "Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. **Bacteriologists** reading **sputum** smears and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.",
-          "zh": "病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)涂片和**培养结果**(cultures)的**细菌学家**(Bacteriologists)同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。"
+          "en": "Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. Bacteriologists reading **sputum** **smears** and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.",
+          "zh": "病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂片**(smears)和**培养结果**(cultures)的细菌学家同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。"
         },
         {
-          "en": "At six months, **mortality** was four of 55 in the streptomycin group versus 14 of 52 controls. The **radiological** readers scored considerable **improvement** in 28 treated patients against four controls. Yet **resistance** emerged as **bacilli** stopped responding; some gains proved **transient** and ended in **deterioration**. The drug had **efficacy**, but **follow-up** showed improved **survival** did not make monotherapy durable.",
-          "zh": "六个月后，链霉素组55人中死亡4人，对照组52人中死亡14人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组28人，对照组只有4人。然而，**耐药性**(resistance)随后出现，一些**杆菌**(bacilli)开始不再响应药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。"
+          "en": "At six months, **mortality** was four of 55 in the streptomycin group versus 14 of 52 controls. The **radiological** readers scored considerable **improvement** in 28 treated patients against four controls. Yet **resistance** emerged as bacilli stopped **responding**; some gains proved **transient** and ended in **deterioration**. The drug had **efficacy**, but **follow-up** showed improved **survival** did not make monotherapy durable.",
+          "zh": "六个月后，链霉素组55人中死亡4人，对照组52人中死亡14人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组28人，对照组只有4人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。"
         },
         {
           "en": "The trial was not the first to randomise. Its **methodological** **landmark** was **concealment**. A **recruiter** who knew the next group could **tamper** with it — accepting the ones whose **prognosis** suited his **bias**. Random numbers made the sequence impossible to **foresee**; sealed envelopes kept the assignment unreadable. That **fairness** made a **counterfactual** comparison credible: the patient had to be accepted before the envelope could reveal the treatment.",
@@ -40,8 +40,8 @@
       ],
       "glossary": [
         {
-          "w": "streptomycin",
-          "zh": "链霉素",
+          "w": "postwar",
+          "zh": "战后的",
           "p": 1
         },
         {
@@ -65,8 +65,8 @@
           "p": 1
         },
         {
-          "w": "sanatoria",
-          "zh": "疗养院（复）",
+          "w": "queued",
+          "zh": "排队",
           "p": 1
         },
         {
@@ -165,13 +165,13 @@
           "p": 3
         },
         {
-          "w": "bacteriologists",
-          "zh": "细菌学家（复）",
+          "w": "sputum",
+          "zh": "痰液",
           "p": 3
         },
         {
-          "w": "sputum",
-          "zh": "痰液",
+          "w": "smears",
+          "zh": "涂片",
           "p": 3
         },
         {
@@ -210,8 +210,8 @@
           "p": 4
         },
         {
-          "w": "bacilli",
-          "zh": "杆菌（复）",
+          "w": "responding",
+          "zh": "响应",
           "p": 4
         },
         {

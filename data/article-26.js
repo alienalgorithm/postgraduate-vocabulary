@@ -12,14 +12,14 @@
       "date": "2026-08-23",
       "status": "第二十六篇最终精进锁定稿",
       "metrics": {
-        "words": 266,
+        "words": 267,
         "keywords": 50,
-        "density": 18.8
+        "density": 18.7
       },
       "paras": [
         {
-          "en": "Before CT, an X-ray image compressed depth onto film. Bone and soft tissue were stacked by **superimposition**; one structure could **mask** another. Film recorded **attenuation** as losses **accumulated** along each beam, but left their depth **ambiguous**. Computed **tomography** changed the question: gather **projections** from different directions, then **deduce** a **cross-section**—a **tomogram**.",
-          "zh": "CT出现之前，一张X光片会把深度压到同一平面。骨骼与软组织因**影像叠加**(superimposition)重合，一个结构可能**遮住**(mask)另一个。胶片记录的是沿每一束射线不断**累积**(accumulated)的**衰减**(attenuation)，却无法判断这些损失来自哪一深度，位置仍然**含混**(ambiguous)。计算机**断层成像**(tomography)改变了问题：从不同方向收集**投影**(projections)，再**推导出**(deduce)一个**横断面**(cross-section)——一幅**断层图**(tomogram)。"
+          "en": "Before CT, an X-ray image compressed depth onto film. Bone and soft tissue were **stacked** by superimposition; one structure could **mask** another. Film recorded **attenuation** as losses **accumulated** along each beam, but left their depth **ambiguous**. Computed **tomography** changed the question: gather **projections** from different directions, then **deduce** a **cross-section**—a **slice**.",
+          "zh": "CT出现之前，一张X光片会把深度压到同一平面。骨骼与软组织**堆叠**(stacked)在一起、因影像叠加而重合，一个结构可能**遮住**(mask)另一个。胶片记录的是沿每一束射线不断**累积**(accumulated)的**衰减**(attenuation)，却无法判断这些损失来自哪一深度，位置仍然**含混**(ambiguous)。计算机**断层成像**(tomography)改变了问题：从不同方向收集**投影**(projections)，再**推导出**(deduce)一个**横断面**(cross-section)——一**片**(slice)断层图。"
         },
         {
           "en": "Around 1957, Cormack recast imaging as mathematics. Line **integrals** could recover spatial **variation** in the attenuation **coefficient**. He **devised** a **formulation** published in 1963–64 without knowing Radon’s **theorem**. The physicist encountered Radon’s work later. At EMI, Hounsfield **separately** developed an **instrument**. Their contributions were **complementary**, without settling every claim to **precedence**.",
@@ -30,18 +30,18 @@
           "zh": "Hounsfield的**原型机**(prototype)把数学变成测量。射线源和**探测器**(detector)完成一次直线**横移**(traverse)，再**旋转**(rotated)一度，随后重复。每一轮读数都被**数字化**(digitised)；**采样**(sampling)数据被填入一个**矩阵**(matrix)。他的实验台装置为了28,000次读数需要9天。后来的临床扫描仪采集两个切片约需5分钟；**迭代式**(iterative)**计算**(computation)则在院外的**大型主机**(mainframe)上运行。"
         },
         {
-          "en": "On 1 October 1971, radiologist James Ambrose scanned a patient with suspected **intracranial** tumour. Two days later, reconstruction revealed a cystic frontal-lobe mass. Its **localisation** was clear; subsequent scans distinguished soft tissue, **haemorrhage** and **lesions** within the skull. Density **discrimination** offset modest spatial **resolution**. For a **radiologist**, CT turned **neuroanatomy** into a **non-invasive** **diagnostic** map.",
-          "zh": "1971年10月1日，放射科医生James Ambrose为一名疑似**颅内**(intracranial)肿瘤患者做扫描。两天后，重建图像显示额叶一个囊性肿块，**定位**(localisation)十分清楚。随后的扫描能够在颅骨内区分软组织、**出血**(haemorrhage)和其他**病灶**(lesions)。密度**鉴别能力**(discrimination)弥补了空间**分辨率**(resolution)并不高的不足。对**放射科医生**(radiologist)而言，CT把**神经解剖结构**(neuroanatomy)变成一张**无创的**(non-invasive)**诊断**(diagnostic)地图。"
+          "en": "On 1 October 1971, radiologist James Ambrose scanned a patient with suspected **intracranial** tumour. Two days later, reconstruction revealed a cystic frontal-lobe mass. Its **localisation** was clear; subsequent scans distinguished soft tissue, **haemorrhage** and **lesions** within the skull. Density **discrimination** offset modest spatial **resolution**. For a **radiologist**, CT turned the **brain** into a **non-invasive** **diagnostic** map.",
+          "zh": "1971年10月1日，放射科医生James Ambrose为一名疑似**颅内**(intracranial)肿瘤患者做扫描。两天后，重建图像显示额叶一个囊性肿块，**定位**(localisation)十分清楚。随后的扫描能够在颅骨内区分软组织、**出血**(haemorrhage)和其他**病灶**(lesions)。密度**鉴别能力**(discrimination)弥补了空间**分辨率**(resolution)并不高的不足。对**放射科医生**(radiologist)而言，CT把**大脑**(brain)变成一张**无创的**(non-invasive)**诊断**(diagnostic)地图。"
         },
         {
-          "en": "The image was a **reconstruction**: an **algorithm** combined measurements according to **acquisition** geometry. Commercial systems replaced iteration with faster **convolution** **back-projection**. Each **pixel** encoded **radiodensity** as a numerical **index**. Those two days solved an **inverse** problem: external measurements revealed internal structure. That **synthesis** mattered—no single ray showed the tumour; together, rays made location calculable.",
-          "zh": "图像是一种**重建**(reconstruction)：一个**算法**(algorithm)按照**采集**(acquisition)几何关系组合测量值。商业系统后来用更快的**卷积**(convolution)**反投影**(back-projection)取代迭代法。每个**像素**(pixel)都把**放射密度**(radiodensity)编码成一个数值**指标**(index)。那两天里解开的是一个**逆问题**(inverse)：从体外测量反推出内部结构。真正关键的是这种**综合**(synthesis)——没有任何一束射线能够单独显示肿瘤；把所有射线合在一起，它的位置才变得可计算。"
+          "en": "The image was a **reconstruction**: an **algorithm** combined measurements according to **acquisition** geometry. Commercial systems replaced **iteration** with faster **convolution** **back-projection**. Each **pixel** encoded density as a numerical **index**. Those two days solved an **inverse** problem: external measurements revealed internal structure. That **synthesis** mattered—no single ray showed the tumour; together, rays made location calculable.",
+          "zh": "图像是一种**重建**(reconstruction)：一个**算法**(algorithm)按照**采集**(acquisition)几何关系组合测量值。商业系统后来用更快的**卷积**(convolution)**反投影**(back-projection)取代了**迭代法**(iteration)。每个**像素**(pixel)都把密度编码成一个数值**指标**(index)。那两天里解开的是一个**逆问题**(inverse)：从体外测量反推出内部结构。真正关键的是这种**综合**(synthesis)——没有任何一束射线能够单独显示肿瘤；把所有射线合在一起，它的位置才变得可计算。"
         }
       ],
       "glossary": [
         {
-          "w": "superimposition",
-          "zh": "影像叠加；叠置",
+          "w": "stacked",
+          "zh": "堆叠",
           "p": 1
         },
         {
@@ -85,8 +85,8 @@
           "p": 1
         },
         {
-          "w": "tomogram",
-          "zh": "断层图；断层影像",
+          "w": "slice",
+          "zh": "片；切片",
           "p": 1
         },
         {
@@ -225,8 +225,8 @@
           "p": 4
         },
         {
-          "w": "neuroanatomy",
-          "zh": "神经解剖结构；神经解剖学",
+          "w": "brain",
+          "zh": "大脑",
           "p": 4
         },
         {
@@ -255,6 +255,11 @@
           "p": 5
         },
         {
+          "w": "iteration",
+          "zh": "迭代法",
+          "p": 5
+        },
+        {
           "w": "convolution",
           "zh": "卷积；盘绕",
           "p": 5
@@ -267,11 +272,6 @@
         {
           "w": "pixel",
           "zh": "像素",
-          "p": 5
-        },
-        {
-          "w": "radiodensity",
-          "zh": "放射密度；X射线密度",
           "p": 5
         },
         {
