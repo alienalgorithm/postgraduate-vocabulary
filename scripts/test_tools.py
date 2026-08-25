@@ -361,6 +361,17 @@ _ok2 = art(["They **dismantled** the compound here."] + ["**b%d**." % i for i in
 _F2, _ = I.inspect(_ok2, arts)
 check("换成完整动词后不报", "VAL-10" not in ids(_F2))
 
+# ── VAL-11：专名与数词不得占名额 ──────────────────────────────
+print("\n[VAL-11] 专名与数词")
+_pn = art(["**a**."]*5); _pn["glossary"] = [{"w": "Halley", "zh": "哈雷", "p": 1}]
+check("专名占名额 → VAL-11", "VAL-11" in ids(I.inspect(_pn, arts)[0]),
+      "人名地名背不走，占名额纯属浪费")
+_nm = art(["**a**."]*5); _nm["glossary"] = [{"w": "sixty-five", "zh": "六十五", "p": 1}]
+check("数词占名额 → VAL-11", "VAL-11" in ids(I.inspect(_nm, arts)[0]),
+      "拼写出来的数词考研不会考")
+_ok3 = art(["**a**."]*5); _ok3["glossary"] = [{"w": "loophole", "zh": "空子", "p": 1}]
+check("通用词不误判", "VAL-11" not in ids(I.inspect(_ok3, arts)[0]))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

@@ -732,6 +732,50 @@ def inspect(a, archive):
                 "        两种处置：整体作为短语加粗，或换一个完整的动词"
                 "（该处已改为 **dismantled** the compound）。"))
 
+    # ── VAL-11 · 专名与数词不得占名额（2026-08-20 加）─────────────
+    # 用户指出：Halley／Leibniz／Dublin／sixty-five 这类词占了 50 个名额，
+    # **可它们根本不是能背走的词**——人名地名背不了，数词考研不会考。
+    # 全库实测：专名 16 个、数词 22 个，合计 38 个名额被浪费；
+    # **第34篇一篇就占了 8 个**（Halley/Leibniz/Dublin/Breslau/Silesia/Neumann/
+    # Subscribers/sixty-five），是全库最差的。
+    #
+    # 判据一 · 专名：首字母大写且不在句首。**句首大写词不算**（Nobody/Subscribers
+    # 这类只是句子开头，不是专名——但它们同样不该占名额，另由白送词层管）。
+    # 判据二 · 数词：拼写出来的基数词与序数词，含连字符复合（sixty-five/thirty-sixth）。
+    # **例外**：ten-millionth 这类在正文里承担判别性证据的，仍判为不该占名额——
+    # 数字本身留在正文，只是不占那 50 个。
+    NUMWORD = {"one","two","three","four","five","six","seven","eight","nine","ten",
+               "eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen",
+               "eighteen","nineteen","twenty","thirty","forty","fifty","sixty","seventy",
+               "eighty","ninety","hundred","thousand","million","billion","dozen",
+               "first","second","third","fourth","fifth","sixth","seventh","eighth",
+               "ninth","tenth","twentieth","thirtieth","fortieth","fiftieth","sixtieth"}
+    def _is_num(w):
+        parts = w.lower().replace("-", " ").split()
+        return bool(parts) and all(
+            x in NUMWORD or re.fullmatch(r"\w+(th|ieth)", x) and x[:-2] in
+            {"six","four","fif","seven","eigh","nin","ten","hundred","thousand","million",
+             "twent","thirt","fort","fift","sixt","sevent","eight","ninet"}
+            for x in parts) and parts[0] in NUMWORD
+    _prop, _num = [], []
+    for g in (a.get("glossary") or []):
+        w = g["w"]
+        if w[:1].isupper():
+            _prop.append(w)
+        elif _is_num(w):
+            _num.append(w)
+    if _prop:
+        F.append(Finding("VAL-11", "选词", "hard", "专名占名额",
+            "、".join(_prop),
+            "**人名、地名、机构名背不走，占名额纯属浪费。**\n"
+            "        取消它的加粗，把名额让给同段一个通用词——**专名照旧留在正文**。"))
+    if _num:
+        F.append(Finding("VAL-11", "选词", "hard", "数词占名额",
+            "、".join(_num),
+            "**拼写出来的数词考研不会考。**\n"
+            "        thirteen／sixty-five／thirty-sixth 这类取消加粗，"
+            "数字本身留在正文，只是不占那 50 个。"))
+
     # ── 第十五层 AUD · 审读进度（2026-08-16 加）─────────────────────
     # 依据 18 篇实测：抓到问题的来源分布为
     #   史实核查（上网核）11 · 刁钻一问（人读）7 · 机器规则 6
