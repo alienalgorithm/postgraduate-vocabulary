@@ -75,7 +75,7 @@ const VERSION_IDS = {
   '21': '21-270-word-final-locked',
   '22': '22-270-word-final-locked',
   '23': '23-269-word-final-locked',
-  '24': '24-263-word-final-locked',
+  '24': '24-262-word-final-locked',
   '25': '25-267-word-final-locked',
   '26': '26-267-word-final-locked',
   '27': '27-270-word-final-locked',

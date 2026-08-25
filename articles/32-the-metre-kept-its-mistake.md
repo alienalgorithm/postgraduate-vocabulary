@@ -9,13 +9,13 @@
 
 ## 英文正文
 
-Before 1790 every French **village** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **sought** a **unit** taken from **nature** instead: one **ten-millionth** of the span from pole to equator.
+Before 1790 every French **village** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **sought** a **unit** taken from **nature** instead: one ten-millionth of the **stretch** from pole to equator.
 
-In June 1792 Jean-Baptiste Delambre **rode** north to **survey** the meridian to **Dunkirk**. Pierre Méchain went south over **uncharted** **mountains** to **Barcelona**. Seven years of **triangles** followed, through a revolution that guillotined Lavoisier in 1794. The **republic** could not wait: a provisional metre was **legislated** in 1795, before the survey **closed**.
+In June 1792 Jean-Baptiste Delambre **rode** north to **survey** the meridian to Dunkirk. Pierre Méchain went south over **uncharted** **mountains** to Barcelona. Seven years of **triangles** followed, through a **revolution** that guillotined Lavoisier in 1794. The **republic** could not wait: a provisional metre was **legislated** in 1795, before the **measurement** **closed**.
 
 At Barcelona Méchain took the latitude **twice**, from two **stations**. The two **values** **differed** by 3.24 seconds of arc. He could not explain it. He had borrowed every formula from his northern **colleague**, and under a **regime** that shot men on **suspicion**, an admission meant **disgrace**; he **hid** the figure and lived in **dread** of the reckoning.
 
-In March 1799 a commission **reduced** the survey to 443.296 lignes; a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** his **stretch**; **yellow** **fever** took him in 1804.
+In March 1799 a commission **reduced** the survey to 443.296 lignes; a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** his **leg**; **yellow** **fever** took him in 1804.
 
 Delambre **obtained** the **notebooks**, **scribbled** in the margin that he would say nothing, and left the **manuscripts** in the **observatory**. Does it matter if it is wrong, he asked; can the metre be wrong? Yet pole to equator is 10,002,000 metres: the bar came out 0.2 millimetres under, and the mistake stayed. Every **successor** **definition**, by **krypton** then by light, was **calibrated** to **reproduce** it.
 
@@ -26,13 +26,13 @@ Delambre **obtained** the **notebooks**, **scribbled** in the margin that he wou
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1790年以前，法国每个**村子**(village)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**寻求**(sought)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那段距离的**一千万分之一**(ten-millionth)。
+1790年以前，法国每个**村子**(village)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**寻求**(sought)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那**一段**(stretch)距离的一千万分之一。
 
-1792年6月，让-巴蒂斯特·德朗布尔**骑马**(rode)北上，去**测绘**(survey)通往**敦刻尔克**(Dunkirk)的子午线。皮埃尔·梅尚南下，翻过**未经勘测的**(uncharted)**山地**(mountains)去**巴塞罗那**(Barcelona)。此后是七年的**三角测量**(triangles)，其间那场革命在1794年把拉瓦锡送上了断头台。**共和国**(republic)等不及：1795年就**立法**(legislated)定下了临时米，而测量尚未**结束**(closed)。
+1792年6月，让-巴蒂斯特·德朗布尔**骑马**(rode)北上，去**测绘**(survey)通往敦刻尔克的子午线。皮埃尔·梅尚南下，翻过**未经勘测的**(uncharted)**山地**(mountains)去巴塞罗那。此后是七年的**三角测量**(triangles)，其间那场**革命**(revolution)在1794年把拉瓦锡送上了断头台。**共和国**(republic)等不及：1795年就**立法**(legislated)定下了临时米，而**测算**(measurement)尚未**结束**(closed)。
 
 在巴塞罗那，梅尚把纬度测了**两次**(twice)，用的是两个**测站**(stations)。这两个**值**(values)**相差**(differed)3.24角秒。他解释不了。他计算所用的公式全是从北边那位**同事**(colleague)那里借来的；在一个凭**怀疑**(suspicion)就枪毙人的**政权**(regime)之下，承认等于**身败名裂**(disgrace)。他**藏**(hid)起了这个数字，在对清算的**恐惧**(dread)中度过了余生。
 
-1799年3月，一个委员会把测量结果**归算**(reduced)为443.296里涅，一根铂杆随之**锻**(forged)出。6月22日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己那**段**(stretch)；1804年，**黄**(yellow)**热病**(fever)带走了他。
+1799年3月，一个委员会把测量结果**归算**(reduced)为443.296里涅，一根铂杆随之**锻**(forged)出。6月22日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己那一**程**(leg)；1804年，**黄**(yellow)**热病**(fever)带走了他。
 
 德朗布尔**拿到**(obtained)了那些**笔记本**(notebooks)，在页边**草草写下**(scribbled)：他不会说出去，随后把**手稿**(manuscripts)留在了**天文台**(observatory)。这错了要紧吗，他问；米又怎么会错？可从极点到赤道如今约为10,002,000米：那根杆做出来0.2毫米不足，而这个错误留了下来。此后每一个**接替的**(successor)**定义**(definition)，先以**氪**(krypton)、后以光为准，都被**校准**(calibrated)成**复现**(reproduce)它。
 
@@ -40,13 +40,13 @@ Delambre **obtained** the **notebooks**, **scribbled** in the margin that he wou
 
 ## 50 词速查表
 
-**§1**（10词）village 村庄｜pound 磅｜cloth 布｜customary 习惯的；沿袭的｜descended 传承下来｜forearm 前臂｜sought 寻求｜unit 单位｜nature 自然｜ten-millionth 千万分之一
+**§1**（10词）village 村庄｜pound 磅｜cloth 布｜customary 习惯的；沿袭的｜descended 传承下来｜forearm 前臂｜sought 寻求｜unit 单位｜nature 自然｜stretch 一段
 
-**§2**（10词）rode 骑行（过去式）｜survey 测绘；勘测｜Dunkirk 敦刻尔克｜uncharted 未经勘测的｜mountains 山地｜Barcelona 巴塞罗那｜triangles 三角测量｜republic 共和国｜legislated 立法确立｜closed 结束
+**§2**（10词）rode 骑行（过去式）｜survey 立法确立｜uncharted 敦刻尔克｜mountains 未经勘测的｜triangles 山地｜revolution 革命｜republic 三角测量｜legislated 共和国｜measurement 测算｜closed 结束
 
 **§3**（10词）twice 两次｜stations 测站｜values 数值｜differed 相差｜colleague 同事｜regime 政权；政体｜suspicion 怀疑｜disgrace 身败名裂｜hid 藏起｜dread 恐惧
 
-**§4**（10词）reduced 归算；化简｜forged 锻造｜councils 两院；议会｜impartial 不偏不倚的｜nations 国家（复）｜binding 有约束力的｜retrace 重走；回溯｜stretch 一段｜yellow 黄色的｜fever 热病
+**§4**（10词）reduced 归算；化简｜forged 锻造｜councils 两院；议会｜impartial 不偏不倚的｜nations 国家（复）｜binding 有约束力的｜retrace 重走；回溯｜leg 一程；一段｜yellow 黄色的｜fever 热病
 
 **§5**（10词）obtained 取得｜notebooks 笔记本｜scribbled 草草写下｜manuscripts 手稿｜observatory 天文台｜successor 接替的；后继的｜definition 定义｜krypton 氪｜calibrated 校准｜reproduce 复现；重现
 

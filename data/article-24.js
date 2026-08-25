@@ -21,16 +21,16 @@
           "zh": "杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(floor)。"
         },
         {
-          "en": "**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. So the **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.",
-          "zh": "**哈文斯**(Havens)钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车出**螺纹**(threaded)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短杆——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。"
+          "en": "Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.",
+          "zh": "哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**杆**(rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。"
         },
         {
-          "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** hardly at all and **doubled** the load on that **connection**. **Nobody** ran the **numbers** for that joint.",
-          "zh": "把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改几乎没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。**没有人**(Nobody)为那个接头算过一笔**数**(numbers)。"
+          "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **numbers** for that joint.",
+          "zh": "把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为那处接头算过一笔**数**(numbers)。"
         },
         {
-          "en": "Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the upper walkway and fewer than **sixty** on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.",
-          "zh": "哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，上层天桥上站着不到十人，下层不到**六十**(sixty)人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。"
+          "en": "Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the **upper** walkway and fewer than sixty on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.",
+          "zh": "哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，**上层**(upper)天桥上站着不到十人，下层不到六十人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。"
         }
       ],
       "facts": [
@@ -42,9 +42,9 @@
         "**已核**：设计工程师被免于刑事指控但被吊销执业执照；酒店业主向遇难者家属支付约1.4亿美元赔偿。本篇收束于此：那处改动看上去只是省事，实则是一道没人重算的算术。[Britannica](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[All That's Interesting](https://allthatsinteresting.com/hyatt-regency-disaster)"
       ],
       "metrics": {
-        "words": 263,
+        "words": 262,
         "keywords": 50,
-        "density": 19.0
+        "density": 19.1
       },
       "glossary": [
         {
@@ -148,33 +148,28 @@
           "p": 2
         },
         {
-          "w": "Havens",
-          "zh": "哈文斯（公司名）",
-          "p": 3
-        },
-        {
           "w": "impractical",
-          "zh": "不现实的",
+          "zh": "杆；拉杆",
           "p": 3
         },
         {
           "w": "fabricate",
-          "zh": "加工制作",
+          "zh": "不现实的",
           "p": 3
         },
         {
           "w": "length",
-          "zh": "长度",
+          "zh": "加工制作",
           "p": 3
         },
         {
           "w": "lathe",
-          "zh": "车床",
+          "zh": "长度",
           "p": 3
         },
         {
-          "w": "threaded",
-          "zh": "车了螺纹的",
+          "w": "thread",
+          "zh": "螺纹",
           "p": 3
         },
         {
@@ -185,6 +180,11 @@
         {
           "w": "fabricator",
           "zh": "加工商",
+          "p": 3
+        },
+        {
+          "w": "rods",
+          "zh": "杆（复）",
           "p": 3
         },
         {
@@ -228,23 +228,23 @@
           "p": 4
         },
         {
+          "w": "hardly",
+          "zh": "几乎不",
+          "p": 4
+        },
+        {
           "w": "doubled",
           "zh": "使加倍",
           "p": 4
         },
         {
           "w": "connection",
-          "zh": "接头；连接",
-          "p": 4
-        },
-        {
-          "w": "Nobody",
-          "zh": "没有人",
+          "zh": "接合；接头",
           "p": 4
         },
         {
           "w": "numbers",
-          "zh": "数字（复）",
+          "zh": "没有人",
           "p": 4
         },
         {
@@ -268,8 +268,8 @@
           "p": 5
         },
         {
-          "w": "sixty",
-          "zh": "六十",
+          "w": "upper",
+          "zh": "上层的",
           "p": 5
         },
         {

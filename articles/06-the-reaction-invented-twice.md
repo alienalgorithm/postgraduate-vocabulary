@@ -40,7 +40,7 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 
 ## 50 词速查表
 
-**§1**（10词）fifth 五分之一｜nitrogen 氮｜compound 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜lean 倚靠｜manure 厩肥｜nitrate 硝石；硝酸盐｜mine 开采
+**§1**（10词）fifths 五分之（复）｜nitrogen 氮｜compound 化合物｜molecule 分子｜inert 惰性的｜bond 键；纽带｜lean 倚靠｜manure 厩肥｜nitrate 硝石；硝酸盐｜mine 开采
 
 **§2**（10词）apparatus 装置｜circulate 循环｜catalyst 催化剂｜atmosphere 大气压；气氛｜favour 有利于｜ammonia 氨｜hasten 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycle 回收
 

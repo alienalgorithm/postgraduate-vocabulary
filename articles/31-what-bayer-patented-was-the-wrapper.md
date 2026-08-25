@@ -17,7 +17,7 @@ In November 1935 a team at the Pasteur Institute **dismantled** the compound. Th
 
 That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry made it by the **ton** as an **intermediate**. Anyone could make it. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.
 
-The 1939 Nobel **Prize** cost Domagk his freedom. Carl von Ossietzky, a **pacifist** in a camp, had taken the 1935 Peace Prize, and Hitler had **forbidden** Germans to accept Nobel awards. Told on 26 October, he sent a **guarded** **acceptance**; on 17 November **armed** Gestapo **surrounded** his house. After a week in **jail** he signed a letter **declining** it. The **medal** reached him in 1947, the money redistributed long before.
+The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifist** in a camp, had taken the 1935 Peace Prize, and Hitler had **forbidden** Germans to accept Nobel awards. Told on 26 October, he sent a **guarded** **acceptance**; on 17 November **armed** Gestapo **surrounded** his house. After a week in **jail** he signed a letter **declining** it. The **medal** reached him in 1947, the money redistributed long before.
 
 ---
 
@@ -34,7 +34,7 @@ The 1939 Nobel **Prize** cost Domagk his freedom. Carl von Ossietzky, a **pacifi
 
 那一半是个老东西：保罗·格尔莫1909年做**博士**(doctoral)**习题**(exercise)时就合成过它，专利早已**过期**(expired)，工业界把它当**中间体**(intermediate)按**吨**(ton)生产。谁都能做。两年之内各国**实验室**(laboratories)纷纷**做**(turning)出**衍生物**(derivatives)，那份**垄断**(monopoly)变成了一整类**药**(drugs)。
 
-1939年的诺贝尔**奖**(Prize)，让多马克付出了自由。因为关在集中营里的**和平主义者**(pacifist)卡尔·冯·奥西茨基拿了1935年和平奖，希特勒**禁止**(forbidden)德国人接受诺贝尔奖。10月26日接到通知，他发去一封措辞**谨慎**(guarded)的**接受函**(acceptance)；11月17日**持枪的**(armed)盖世太保**包围**(surrounded)了他的住宅。在**牢**(jail)里待了一周多之后，他签下了**拒绝**(declining)信。**奖章**(medal)1947年才到他手上，奖金早已重新分配。
+1939年的诺贝尔奖，让多马克付出了**自由**(freedom)。因为关在集中营里的**和平主义者**(pacifist)卡尔·冯·奥西茨基拿了1935年和平奖，希特勒**禁止**(forbidden)德国人接受诺贝尔奖。10月26日接到通知，他发去一封措辞**谨慎**(guarded)的**接受函**(acceptance)；11月17日**持枪的**(armed)盖世太保**包围**(surrounded)了他的住宅。在**牢**(jail)里待了一周多之后，他签下了**拒绝**(declining)信。**奖章**(medal)1947年才到他手上，奖金早已重新分配。
 
 ---
 
@@ -48,7 +48,7 @@ The 1939 Nobel **Prize** cost Domagk his freedom. Carl von Ossietzky, a **pacifi
 
 **§4**（10词）doctoral 博士的｜exercise 习题；练习｜expired 过期｜ton 吨｜intermediate 中间体｜laboratories 实验室（复）｜turning 做出；转变｜derivatives 衍生物（复）｜monopoly 垄断｜drugs 药物（复）
 
-**§5**（10词）Nobel 诺贝尔｜pacifist 和平主义者｜forbidden 禁止｜guarded 谨慎的｜acceptance 接受；接受函｜armed 持枪的；武装的｜surrounded 包围｜jail 牢房｜declining 拒绝｜medal 奖章
+**§5**（10词）freedom 自由｜pacifist 和平主义者｜forbidden 禁止｜guarded 谨慎的｜acceptance 接受；接受函｜armed 持枪的；武装的｜surrounded 包围｜jail 牢房｜declining 拒绝｜medal 奖章
 
 ---
 

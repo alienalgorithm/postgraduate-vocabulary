@@ -2,7 +2,7 @@
 
 > 题材：1981年堪萨斯城凯悦酒店天桥垮塌与一处未经复核的设计变更
 > 状态：**第二十四篇定稿**（2026-08-16）
-> 指标：263 词 / 50 重点词 / 密度 19.0%
+> 指标：262 词 / 50 重点词 / 密度 19.1%
 > 加工商把一根通长吊杆改成两根短杆，图纸几乎没变，看着还更省事。可那一改把四层接头上的荷载整整翻了一倍——而没有人重新算过。
 
 ---
@@ -13,11 +13,11 @@ At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **
 
 Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **floor**'s worth.
 
-**Havens** Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** to be **threaded**, so that the upper **nut** could run down. So the **fabricator** proposed two shorter rods instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.
+Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.
 
-Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** hardly at all and **doubled** the load on that **connection**. **Nobody** ran the **numbers** for that joint.
+Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **numbers** for that joint.
 
-Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the upper walkway and fewer than **sixty** on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.
+Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the **upper** walkway and fewer than sixty on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.
 
 ---
 
@@ -30,11 +30,11 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(floor)。
 
-**哈文斯**(Havens)钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车出**螺纹**(threaded)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短杆——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。
+哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**杆**(rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。
 
-把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改几乎没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。**没有人**(Nobody)为那个接头算过一笔**数**(numbers)。
+把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为那处接头算过一笔**数**(numbers)。
 
-哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，上层天桥上站着不到十人，下层不到**六十**(sixty)人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。
+哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，**上层**(upper)天桥上站着不到十人，下层不到六十人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。
 
 ---
 
@@ -44,11 +44,11 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 **§2**（10词）specified 指定；写明｜rod 杆；拉杆｜hangers 吊杆（复）｜beam 梁｜fourth-floor 四层的｜downward 向下｜storey 层楼｜hung 悬挂（过去式）｜burden 担子；荷载｜floor 层；楼面
 
-**§3**（10词）Havens 哈文斯（公司名）｜impractical 不现实的｜fabricate 加工制作｜length 长度｜lathe 车床｜threaded 车了螺纹的｜nut 螺母｜fabricator 加工商｜cutting 切削；车削｜shop 车间
+**§3**（10词）impractical 杆；拉杆｜fabricate 不现实的｜length 加工制作｜lathe 长度｜thread 螺纹｜nut 螺母｜fabricator 加工商｜rods 杆（复）｜cutting 切削；车削｜shop 车间
 
-**§4**（10词）layouts 排布（复）｜bore 承受（过去式）｜hanging 悬挂着的｜beneath 在下方｜altered 改动｜sketch 图样｜doubled 使加倍｜connection 接头；连接｜Nobody 没有人｜numbers 数字（复）
+**§4**（10词）layouts 排布（复）｜bore 承受（过去式）｜hanging 悬挂着的｜beneath 在下方｜altered 改动｜sketch 图样｜hardly 几乎不｜doubled 使加倍｜connection 接合；接头｜numbers 没有人
 
-**§5**（10词）telephoned 打了电话｜verbal 口头的｜approval 批准｜request 申请｜sixty 六十｜throng 满员；人群｜passed 转移｜remaining 剩下的｜detail 做法；细部｜regulation 法规
+**§5**（10词）telephoned 打了电话｜verbal 口头的｜approval 批准｜request 申请｜upper 上层的｜throng 满员；人群｜passed 转移｜remaining 剩下的｜detail 做法；细部｜regulation 法规
 
 ---
 

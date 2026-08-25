@@ -1542,8 +1542,8 @@ window.SITE = {
     ],
     "glossary": [
       {
-        "w": "fifth",
-        "zh": "五分之一",
+        "w": "fifths",
+        "zh": "五分之（复）",
         "p": 1
       },
       {

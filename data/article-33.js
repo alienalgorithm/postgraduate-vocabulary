@@ -13,24 +13,24 @@
       "status": "第三十三篇定稿",
       "paras": [
         {
-          "en": "In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of **Parliament** sent their letters **exempt**, and the rest of the country **covered** the **deficit**.",
-          "zh": "1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。**议会**(Parliament)议员寄自己的信一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。"
+          "en": "In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of Parliament sent their **letters** **exempt**, and the rest of the country **covered** the **deficit**.",
+          "zh": "1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信**(letters)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。"
         },
         {
-          "en": "So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **letter**. The office had **hauled** it four **hundred** miles for nothing.",
-          "zh": "于是人们绕过它。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个**圈**(circle)是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这封**信**(letter)。邮局把它**拖**(hauled)了四**百**(hundred)英里，一文没收到。"
+          "en": "So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **letter**. The office had **hauled** it four hundred **miles** for nothing.",
+          "zh": "于是人们绕过它。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个**圈**(circle)是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这封**信**(letter)。邮局把它**拖**(hauled)了四百**英里**(miles)，一文没收到。"
         },
         {
           "en": "Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.",
           "zh": "每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。"
         },
         {
-          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no postal office, did the arithmetic. Of the **annual** outlay, only a hundred and **forty-four** **thousand** pounds moved with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the **Edinburgh** mail he put it at one **thirty-sixth**.",
-          "zh": "1837年，罗兰·希尔——一个不在邮政系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百**四十四**(forty-four)**千**(thousand)镑是随距离变动的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就**爱丁堡**(Edinburgh)这条线，他算出是**三十六分之一**(thirty-sixth)。"
+          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only a hundred and forty-four thousand **pounds** **moved** with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.",
+          "zh": "1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百四十四千**镑**(pounds)是随距离**变动**(moved)的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。"
         },
         {
-          "en": "The office charged thirteen pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. **Prepayment** **erased** the ledger. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.",
-          "zh": "邮局收十三便士，去送一件运费只值一便士三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。**预付**(Prepayment)一下子**抹掉**(erased)了整本账。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。"
+          "en": "The office charged thirteen pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. Prepayment **erased** the **bookkeeping**. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.",
+          "zh": "邮局收十三便士，去送一件运费只值一便士三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。预付一下子**抹掉**(erased)了整套**账务**(bookkeeping)。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。"
         }
       ],
       "facts": [
@@ -79,8 +79,8 @@
           "p": 1
         },
         {
-          "w": "Parliament",
-          "zh": "议会",
+          "w": "letters",
+          "zh": "信件（复）",
           "p": 1
         },
         {
@@ -144,8 +144,8 @@
           "p": 2
         },
         {
-          "w": "hundred",
-          "zh": "百",
+          "w": "miles",
+          "zh": "英里（复）",
           "p": 2
         },
         {
@@ -204,18 +204,23 @@
           "p": 4
         },
         {
+          "w": "postal",
+          "zh": "邮政的",
+          "p": 4
+        },
+        {
           "w": "annual",
           "zh": "全年的",
           "p": 4
         },
         {
-          "w": "forty-four",
-          "zh": "四十四",
+          "w": "pounds",
+          "zh": "镑（复）",
           "p": 4
         },
         {
-          "w": "thousand",
-          "zh": "千",
+          "w": "moved",
+          "zh": "变动",
           "p": 4
         },
         {
@@ -239,13 +244,8 @@
           "p": 4
         },
         {
-          "w": "Edinburgh",
-          "zh": "爱丁堡",
-          "p": 4
-        },
-        {
-          "w": "thirty-sixth",
-          "zh": "三十六分之一",
+          "w": "mail",
+          "zh": "邮路；邮件",
           "p": 4
         },
         {
@@ -269,13 +269,13 @@
           "p": 5
         },
         {
-          "w": "Prepayment",
-          "zh": "预付",
+          "w": "erased",
+          "zh": "抹掉",
           "p": 5
         },
         {
-          "w": "erased",
-          "zh": "抹掉",
+          "w": "bookkeeping",
+          "zh": "账务",
           "p": 5
         },
         {

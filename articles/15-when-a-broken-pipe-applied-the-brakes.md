@@ -40,15 +40,15 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 
 ## 50 词速查表
 
-**§1**（10词）stopping 使停下｜freight 货运｜roof 车顶｜whistle 汽笛｜brakeman 制动员｜catwalk 走板；狭窄通道｜crank 摇动（曲柄）｜wheel 轮｜wagon 车厢｜maim 致残
+**§1**（10词）stopping 使停下｜freight 货运｜roofs 车顶｜whistle 汽笛｜brakeman 制动员｜catwalks 走板；狭窄通道｜cranking 摇动（曲柄）｜wheel 轮｜wagons 车厢｜maimed 致残
 
-**§2**（10词）remedy 对策；补救｜bellows 气泵；风箱｜pipe 管｜piston 活塞｜lever 杠杆｜shoe 闸瓦｜column 气柱；柱｜hose 软管｜burst 爆裂｜coupling 挂钩；联轴
+**§2**（10词）remedy 对策；补救｜bellows 气泵；风箱｜pipe 管｜piston 活塞｜lever 杠杆｜shoe 闸瓦｜column 气柱；柱｜hose 软管｜burst 爆裂｜couplings 挂钩；联轴
 
-**§3**（10词）invert 倒转｜carriage 车厢｜reservoir 风缸；蓄水池｜charged 充满的｜sudden 骤然的｜collapse 垮掉；崩溃｜trip 触发｜triple 三通的；三重的｜valve 阀｜cylinder 缸
+**§3**（10词）inverted 倒转｜carriage 车厢｜reservoir 风缸；蓄水池｜charged 充满的｜sudden 骤然的｜collapse 垮掉；崩溃｜tripped 触发｜triple 三通的；三重的｜valve 阀｜cylinder 缸
 
-**§4**（10词）rake 编组；一列车｜seconds 秒（复）｜brakes 闸；制动器｜pare 削｜quick 快速的｜redesign 改型｜trigger 触发｜trial 试验｜frail 脆弱的｜judged 判定
+**§4**（10词）rake 编组；一列车｜seconds 秒（复）｜brakes 闸；制动器｜pared 削｜quick 快速的｜redesign 改型｜triggered 触发｜trials 试验｜judged 判定｜frail 脆弱的
 
-**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜press 推动；施压｜ordinance 法令｜statute 法条｜mandate 规定｜capability 能力｜brand 品牌｜part 断开；分离｜stop 停下
+**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜pressing 推动；施压｜ordinance 法令｜statute 法条｜mandated 规定｜capability 能力｜brand 品牌｜parted 断开；分离｜stopped 停下
 
 ---
 
