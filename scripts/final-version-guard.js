@@ -44,7 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
-  '30': { source: '2026-08-24第30篇浮法玻璃主题最终精进锁定稿；经四候选比较、原始专利、Royal Society与Pilkington权威资料复核、先行专利与共同发明人边界审计、前1450词同根去重及全库验证', verification: 'conversation-latest-final' },
+  '30': { source: '2026-08-24第30篇浮法玻璃主题第13轮独立盲审最终精进锁定稿；经原始专利与Pilkington官方工艺资料复核，明确对玻璃的低反应性、6.8毫米平衡厚度、浮渣风险与轧辊接触边界，并完成前1450词同根去重及全库验证', verification: 'conversation-latest-final' },
 };
 
 const VERSION_IDS = {
@@ -77,7 +77,7 @@ const VERSION_IDS = {
   '27': '27-270-word-final-locked',
   '28': '28-270-word-round-13-final-locked',
   '29': '29-270-word-round-14-final-locked',
-  '30': '30-271-word-final-locked',
+  '30': '30-271-word-round-13-final-locked',
 
 };
 
@@ -343,6 +343,18 @@ const SUPERSEDED_SIGNATURES = {
     '抬高的航道',
     '工作水体',
   ],
+  '30': [
+    'flowed on to molten tin',
+    'largely **unreactive** and thermally **conductive**',
+    'surface **tension** checked it',
+    '**irregularities** **relaxed**',
+    'a narrow balance of chemistry and temperature',
+    'Tin oxidised into **dross** in air, **blemishing** the glass',
+    'Liquids created **pristine** faces',
+    '等表面硬化后才交给轧辊',
+    '它的沸点较高，是**高沸点**',
+    '会给玻璃**留下瑕疵**(blemishing)',
+  ],
 };
 
 function loadArticles() {
@@ -554,7 +566,7 @@ function auditReport(manifest) {
     '# 全库最终版本审计 · 2026-08-24',
     '',
     '> 审计范围：第01—30篇的权威数据、正式Markdown、最终校正记录、README、交接文档和主分支校验。',
-    '> 结论：前29篇保持既有锁定身份；第30篇271词最终精进锁定稿已完成原始专利、Royal Society与Pilkington权威资料复核、机制与功劳边界收紧及1500词全库复验。',
+    '> 结论：前29篇保持既有锁定身份；第30篇271词第13轮独立盲审稿已完成原始专利与Pilkington官方工艺资料复核、技术限定与中英表达精修及1500词全库复验。',
     '',
     '## 一、逐篇锁定清单',
     '',
@@ -567,8 +579,9 @@ function auditReport(manifest) {
     '## 二、原始最终稿复核',
     '',
     '- 第01—29篇：继续以此前manifest中的完整内容指纹与Markdown指纹为权威身份；本次未重写既有文章。',
-    '- 第30篇：271词、50重点词、18.5%，五段各10词；6条史实核对均指向原始专利、Royal Society或Pilkington官方技术资料。',
+    '- 第30篇：271词、50重点词、18.5%，五段各10词；第13轮只纳入可证明净提升，未更换50词词池，也未改变标题与核心结构。',
     '- 第30篇功劳边界：不把熔融金属浴原理写成前所未有，并同时保留Alastair Pilkington、Kenneth Bickerstaff与七年开发团队的有据贡献。',
+    '- 第30篇技术边界：把低反应性明确限定为相对于玻璃，把6.8毫米写成进一步变薄受限的平衡点，把浮渣写成可能留下瑕疵，并把机械接触限定到玻璃带变硬以后。',
     '',
     '## 三、逐字一致的上传文件证据',
     '',
@@ -589,7 +602,7 @@ function auditReport(manifest) {
     '',
     '## 五、最终判定',
     '',
-    '本次同步完成后，主分支的30篇均为当前已知的最后最终版本；第30篇271词最终精进锁定稿是当前最新权威版本。',
+    '本次同步完成后，主分支的30篇均为当前已知的最后最终版本；第30篇271词第13轮独立盲审最终精进锁定稿是当前最新权威版本。',
     '',
   ].join('\n');
 }

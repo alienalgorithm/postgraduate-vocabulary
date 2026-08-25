@@ -63,7 +63,7 @@
 | **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-ships-climbed-on-rainwater) · [Markdown](articles/29-the-ships-climbed-on-rainwater.md) |
 | **30** | ***The Window Floated on Tin*** | **1952—1959年皮尔金顿浮法玻璃、熔锡浴与液体自整平机制** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-window-floated-on-tin) · [Markdown](articles/30-the-window-floated-on-tin.md) |
 
-第30篇以271词最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、足够坚硬后才接触轧辊”。史实边界明确保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期；1100°C入锡浴、约6.8毫米平衡厚度、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。
+第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。
 
 第29篇以270词第14轮最终精进锁定稿为准。正文没有把巴拿马运河写成一条单纯“挖穿”的水沟，而是依次说明海平面方案为何失败、加通湖怎样把26米高差变成资源、重力如何经直径18英尺的涵洞和100个底孔抬船、水位齐平后为何才可开闸，以及传统通航约消耗5200万加仑淡水的水文代价。功劳边界分别保留Godin de Lépinay、John Stevens与Hodges、Schildhauer、Goldmark的有据贡献，不把发明或设计强归于一人。
 
