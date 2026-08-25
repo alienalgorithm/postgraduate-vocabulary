@@ -2,7 +2,7 @@
 
 > 题材：1957—1979年Cormack、Hounsfield与计算机断层成像：从线积分到临床CT重建
 > 状态：**第二十六篇最终精进锁定稿**（2026-08-23）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：266 词 / 50 重点词 / 密度 18.8%
 > CT真正改变的不是X射线本身，而是如何把许多方向上的不完整测量重建成一张切片。1971年首位患者扫描结束后，图像还不存在；数据送去计算，两天后，病灶的位置才真正显现。
 
 ---
@@ -17,7 +17,7 @@ Hounsfield’s **prototype** turned mathematics into measurement. A source and *
 
 On 1 October 1971, radiologist James Ambrose scanned a patient with suspected **intracranial** tumour. Two days later, reconstruction revealed a cystic frontal-lobe mass. Its **localisation** was clear; subsequent scans distinguished soft tissue, **haemorrhage** and **lesions** within the skull. Density **discrimination** offset modest spatial **resolution**. For a **radiologist**, CT turned **neuroanatomy** into a **non-invasive** **diagnostic** map.
 
-The two-day delay exposed the principle. The image was a **reconstruction**: an **algorithm** combined measurements according to **acquisition** geometry. Commercial systems replaced iteration with faster **convolution** **back-projection**. Each **pixel** encoded **radiodensity** as a numerical **index**. CT solved an **inverse** problem: external measurements revealed internal structure. That **synthesis** mattered—no single ray showed the tumour; together, rays made location calculable.
+The image was a **reconstruction**: an **algorithm** combined measurements according to **acquisition** geometry. Commercial systems replaced iteration with faster **convolution** **back-projection**. Each **pixel** encoded **radiodensity** as a numerical **index**. Those two days solved an **inverse** problem: external measurements revealed internal structure. That **synthesis** mattered—no single ray showed the tumour; together, rays made location calculable.
 
 ---
 
@@ -34,7 +34,7 @@ Hounsfield的**原型机**(prototype)把数学变成测量。射线源和**探�
 
 1971年10月1日，放射科医生James Ambrose为一名疑似**颅内**(intracranial)肿瘤患者做扫描。两天后，重建图像显示额叶一个囊性肿块，**定位**(localisation)十分清楚。随后的扫描能够在颅骨内区分软组织、**出血**(haemorrhage)和其他**病灶**(lesions)。密度**鉴别能力**(discrimination)弥补了空间**分辨率**(resolution)并不高的不足。对**放射科医生**(radiologist)而言，CT把**神经解剖结构**(neuroanatomy)变成一张**无创的**(non-invasive)**诊断**(diagnostic)地图。
 
-那两天的等待恰好暴露了原理。图像是一种**重建**(reconstruction)：一个**算法**(algorithm)按照**采集**(acquisition)几何关系组合测量值。商业系统后来用更快的**卷积**(convolution)**反投影**(back-projection)取代迭代法。每个**像素**(pixel)都把**放射密度**(radiodensity)编码成一个数值**指标**(index)。CT解决的是一个**逆问题**(inverse)：从体外测量反推出内部结构。真正关键的是这种**综合**(synthesis)——没有任何一束射线能够单独显示肿瘤；把所有射线合在一起，它的位置才变得可计算。
+图像是一种**重建**(reconstruction)：一个**算法**(algorithm)按照**采集**(acquisition)几何关系组合测量值。商业系统后来用更快的**卷积**(convolution)**反投影**(back-projection)取代迭代法。每个**像素**(pixel)都把**放射密度**(radiodensity)编码成一个数值**指标**(index)。那两天里解开的是一个**逆问题**(inverse)：从体外测量反推出内部结构。真正关键的是这种**综合**(synthesis)——没有任何一束射线能够单独显示肿瘤；把所有射线合在一起，它的位置才变得可计算。
 
 ---
 
@@ -61,3 +61,5 @@ Hounsfield的**原型机**(prototype)把数学变成测量。射线源和**探�
 - Hounsfield早期实验装置为了约28,000次测量需要约9天；后来的临床原型机完成两个切片的采集约需5分钟。早期临床数据还需要送往院外大型主机进行重建。[Nobel Prize：The Nobel Prize in Physiology or Medicine 1979 – Perspectives](https://www.nobelprize.org/prizes/medicine/1979/perspectives/)
 - 1971年10月1日，James Ambrose为首位患者完成头部CT扫描。由于重建计算不在扫描现场完成，他两天后才看到图像；图像显示额叶囊性病变，随后获得手术证实。[Nobel Prize 1979 Perspectives](https://www.nobelprize.org/prizes/medicine/1979/perspectives/)
 - 早期CT使用迭代方法重建图像，商业系统随后采用速度更快的convolution/back-projection一类方法。CT的核心不是某一束X射线直接形成切片，而是由多方向测量求解一个逆问题。[PMC：Computed tomography—old ideas and new technology](https://pmc.ncbi.nlm.nih.gov/articles/PMC8555965/)
+- **已核（2026-08-20 逐条上网）**：核心事实全部无误——1971年10月1日在伦敦 Atkinson Morley 医院，放射科医师詹姆斯·安布罗斯用 EMI 原型头颅扫描仪为一名疑似额叶肿瘤的女患者完成首次临床 CT；**「两天后」有确切来源**：拉斯克基金会记载，两人把数据送往伦敦另一头 EMI 的主机计算，10月3日结果送回医院时，二人「像刚踢进制胜球的球员一样跳了起来」，亨斯菲尔德写道「额叶正中有一个漂亮的圆形囊肿」，手术证实为囊性肿瘤。科马克 1950 年代把成像重述为数学问题、1963—64 年发表其解法且当时不知拉东定理，亦经核实。
+**一处分歧已核**：BMJ 讣告记为「1971年9月」，而 impactscan、EBSCO、AuntMinnie、Radiology、JMI 五处一致为 **10月1日**。本文取多数。[Lasker Foundation：Looking Deep into the Body](https://laskerfoundation.org/looking-deep-into-the-body/)｜[impactscan：A brief history of CT](http://www.impactscan.org/CThistory.htm)｜[Radiology：Milestones in CT](https://pubs.rsna.org/doi/full/10.1148/radiol.230803)
