@@ -11,7 +11,7 @@
 
 In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water that **tectonic** theory said should **seep** from young **basalt**. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.
 
-ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** above. Instead 8°C water **shimmered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.
+ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** above. Instead 8°C water **wavered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.
 
 No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to nearly all life, **dissolved** around the **colony**. The **abundance** had no visible source.
 
@@ -28,7 +28,7 @@ Galápagos **revealed** a second **footing** for life, a food **web** **sustaine
 
 1977年2月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫ANGUS的相机**拖橇**(sled)贴着海底走，要找的是**板块**(tectonic)理论预言应当从年轻**玄武岩**(basalt)里**渗出**(seep)的热水。15日深夜，在两千五百米深处，ANGUS**记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到2摄氏度。
 
-ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**微微晃动**(shimmered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。
+ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**晃**(wavered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。
 
 船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。
 
@@ -40,15 +40,15 @@ ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面�
 
 ## 50 词速查表
 
-**§1**（10词）geological 地质的｜expedition 考察队；远征｜aboard 乘（船/机）；在船上｜tow 拖｜sled 拖橇；雪橇｜tectonic 板块构造的｜seep 渗出｜basalt 玄武岩｜register 记录到；登记｜spike 骤升；尖峰
+**§1**（10词）geological 地质的｜expedition 考察队；远征｜aboard 乘（船/机）；在船上｜towed 拖｜sled 拖橇；雪橇｜tectonic 板块构造的｜seep 渗出｜basalt 玄武岩｜registered 记录到；登记｜spike 骤升；尖峰
 
-**§2**（10词）frame 帧；画面｜barren 荒芜的；贫瘠的｜successive 连续的｜submersible 深潜器；可潜的｜expect 预期｜sparse 稀疏的｜debris 碎屑；残骸｜shimmer 微微晃动；闪烁｜fissure 裂隙｜crowd 挤满；人群
+**§2**（10词）frames 帧；画面｜barren 荒芜的；贫瘠的｜successive 连续的｜submersible 深潜器；可潜的｜expecting 预期｜sparse 稀疏的｜debris 碎屑；残骸｜wavered 摇晃｜fissures 裂隙｜crowded 挤满；人群
 
-**§3**（10词）biologist 生物学家｜formaldehyde 甲醛｜specimen 标本｜vial 小瓶｜vent 喷口；出口｜sulphide 硫化物｜toxic 有毒的｜dissolve 溶解｜colony 群落；殖民地｜abundance 繁盛；丰富
+**§3**（10词）biologist 生物学家｜formaldehyde 甲醛｜specimens 标本｜vial 小瓶｜vent 喷口；出口｜sulphide 硫化物｜toxic 有毒的｜dissolved 溶解｜colony 群落；殖民地｜abundance 繁盛；丰富
 
-**§4**（10词）bacteria 细菌｜oxidise 氧化｜organic 有机的｜photosynthesis 光合作用｜graze 啃食；放牧｜worm 虫｜gut 肠道｜house 养着｜microbe 微生物｜host 宿主；主人
+**§4**（10词）bacteria 细菌｜oxidise 氧化｜organic 有机的｜photosynthesis 光合作用｜graze 啃食；放牧｜worm 虫｜gut 肠道｜housing 养着｜microbes 微生物｜host 宿主；主人
 
-**§5**（10词）reveal 揭示｜footing 立足处；基础｜web 网｜sustain 支撑；维持｜planet 行星｜widen 拓宽｜habitable 宜居的｜boundary 边界｜chemistry 化学过程；化学｜gradient 梯度；坡度
+**§5**（10词）revealed 揭示｜footing 立足处；基础｜web 网｜sustained 支撑；维持｜planet 行星｜widened 拓宽｜habitable 宜居的｜boundary 边界｜chemistry 化学过程；化学｜gradient 梯度；坡度
 
 ---
 

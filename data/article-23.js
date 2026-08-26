@@ -13,16 +13,16 @@
       "status": "第二十三篇定稿",
       "paras": [
         {
-          "en": "On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **parent** and child — a **hereditary** signature. Within half an hour he **understood** what the pattern was for, and **lodged** **patents** that year.",
-          "zh": "1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲**(parent)子之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。"
+          "en": "On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **kin** and child — a **hereditary** signature. Within half an hour he **understood** what the pattern was for, and **lodged** **patents** that year.",
+          "zh": "1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。"
         },
         {
-          "en": "The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian family met a Home Office that **disbelieved** a boy **refused** **entry** was the woman's son. **Lawyers** asked Jeffreys, and the bands showed the boy was **hers**. He spoke afterwards of the **relief** on her face.",
-          "zh": "这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一个加纳家庭面对的是内政部的**不信**(disbelieved)：一个被**拒**(refused)**入境**(entry)的男孩，究竟是不是那位女子的儿子。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子是**她的**(hers)。他后来提起她脸上的那种**松弛**(relief)。"
+          "en": "The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian family met a Home Office that **rejected** a boy **refused** **entry** was the woman's son. **Lawyers** asked Jeffreys, and the bands showed the boy was her own. He spoke **afterwards** of the **relief** on her face.",
+          "zh": "这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一个加纳家庭面对的是内政部的**驳回**(rejected)：一个被**拒**(refused)**入境**(entry)的男孩，究竟是不是那位女子的儿子。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子是她亲生的。他**后来**(afterwards)提起她脸上的那种**松弛**(relief)。"
         },
         {
-          "en": "Identity in a **courtroom** rested on **papers**, on serology, and on **confession**. Blood **groups** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: a man would not **condemn** himself for nothing. Two killings would test that.",
-          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是**文件**(papers)、血清学和**供认**(confession)。**血型**(groups)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemn)。两起凶杀将检验这一点。"
+          "en": "Identity in a **courtroom** rested on **documents**, on serology, and on **confession**. Blood **groups** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: a man would not **condemn** himself for nothing. Two killings would test that.",
+          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是**文书**(documents)、血清学和**供认**(confession)。**血型**(groups)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemn)。两起凶杀将检验这一点。"
         },
         {
           "en": "In 1986 the police at Narborough asked for help. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old kitchen hand, had **confessed** — a **juvenile** questioned without a **solicitor**. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.",
@@ -43,9 +43,9 @@
         "**已核（2026-08-16 逐条上网）**：核心事实无误——1984年9月10日杰弗里斯在莱斯特冲洗出那张X光片；**第一次实际应用不是刑事案件而是移民争议**（1985年 Sarbah 诉内政部，证明加纳男孩确为该家庭成员）；**第一次刑事应用的第一个结果是排除**——巴克兰已供认第二起，而精液样本与其DNA「complete and utter mismatch」，因此获释；警方随后采集五千余份样本无一吻合，皮奇福克1987年因让同事冒名提交而落网，成为世界上第一个由DNA证据定罪的凶手。**另有两处已在前次跑轮中订正**：① 末句原写「史密森学会留着那张包装纸」——《史密森尼杂志》编者按明确更正：史密森并未收藏那包口香糖，展出过的是复制品；馆藏的是最初十台扫描仪之一。已改。② §4 原给出 UPC 号码 036000291452，检索未见可靠来源，已改为不给具体数字。[Smithsonian Magazine（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)｜[CSHL DNA Learning Center](https://dnalc.cshl.edu/view/15111-The-first-murder-case-using-DNA-profiling-Alec-Jeffreys.html)｜[NLM Visible Proofs](https://www.nlm.nih.gov/exhibition/visibleproofs/galleries/cases/jeffreys.html)"
       ],
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "glossary": [
         {
@@ -54,7 +54,7 @@
           "p": 1
         },
         {
-          "w": "develop",
+          "w": "developed",
           "zh": "冲洗（胶片）；显影",
           "p": 1
         },
@@ -64,18 +64,18 @@
           "p": 1
         },
         {
-          "w": "ladder",
+          "w": "ladders",
           "zh": "梯状排列",
           "p": 1
         },
         {
-          "w": "rung",
+          "w": "rungs",
           "zh": "横杠；梯级",
           "p": 1
         },
         {
-          "w": "parent",
-          "zh": "亲代",
+          "w": "kin",
+          "zh": "亲属",
           "p": 1
         },
         {
@@ -89,12 +89,12 @@
           "p": 1
         },
         {
-          "w": "lodge",
+          "w": "lodged",
           "zh": "提交（申请）",
           "p": 1
         },
         {
-          "w": "patent",
+          "w": "patents",
           "zh": "专利",
           "p": 1
         },
@@ -104,12 +104,12 @@
           "p": 2
         },
         {
-          "w": "remember",
+          "w": "remembered",
           "zh": "记住",
           "p": 2
         },
         {
-          "w": "murderer",
+          "w": "murderers",
           "zh": "杀人者",
           "p": 2
         },
@@ -119,12 +119,12 @@
           "p": 2
         },
         {
-          "w": "disbelieve",
-          "zh": "不相信",
+          "w": "rejected",
+          "zh": "驳回",
           "p": 2
         },
         {
-          "w": "refuse",
+          "w": "refused",
           "zh": "拒绝",
           "p": 2
         },
@@ -134,13 +134,13 @@
           "p": 2
         },
         {
-          "w": "lawyer",
+          "w": "lawyers",
           "zh": "律师",
           "p": 2
         },
         {
-          "w": "hers",
-          "zh": "她的",
+          "w": "afterwards",
+          "zh": "后来",
           "p": 2
         },
         {
@@ -154,8 +154,8 @@
           "p": 3
         },
         {
-          "w": "paper",
-          "zh": "文件；文书",
+          "w": "documents",
+          "zh": "文书（复）",
           "p": 3
         },
         {
@@ -199,17 +199,17 @@
           "p": 3
         },
         {
-          "w": "teenager",
+          "w": "teenagers",
           "zh": "少年",
           "p": 4
         },
         {
-          "w": "rape",
+          "w": "raped",
           "zh": "强奸",
           "p": 4
         },
         {
-          "w": "confess",
+          "w": "confessed",
           "zh": "认罪",
           "p": 4
         },
@@ -224,7 +224,7 @@
           "p": 4
         },
         {
-          "w": "compare",
+          "w": "compared",
           "zh": "比对",
           "p": 4
         },
@@ -234,7 +234,7 @@
           "p": 4
         },
         {
-          "w": "youth",
+          "w": "youth's",
           "zh": "少年",
           "p": 4
         },
@@ -249,22 +249,22 @@
           "p": 4
         },
         {
-          "w": "canvass",
+          "w": "canvassed",
           "zh": "逐户走访",
           "p": 5
         },
         {
-          "w": "match",
+          "w": "matched",
           "zh": "吻合",
           "p": 5
         },
         {
-          "w": "arrest",
+          "w": "arrested",
           "zh": "逮捕",
           "p": 5
         },
         {
-          "w": "persuade",
+          "w": "persuaded",
           "zh": "说动",
           "p": 5
         },
@@ -279,7 +279,7 @@
           "p": 5
         },
         {
-          "w": "crime",
+          "w": "crimes",
           "zh": "案件",
           "p": 5
         },
@@ -289,12 +289,12 @@
           "p": 5
         },
         {
-          "w": "verdict",
+          "w": "verdicts",
           "zh": "判词",
           "p": 5
         },
         {
-          "w": "denial",
+          "w": "denials",
           "zh": "否定",
           "p": 5
         }

@@ -12,14 +12,14 @@
       "date": "2026-08-15",
       "status": "第九篇最终精进锁定稿",
       "metrics": {
-        "words": 268,
+        "words": 269,
         "keywords": 50,
-        "density": 18.7
+        "density": 18.6
       },
       "paras": [
         {
-          "en": "In October 1977 Ali Maow Maalin, a hospital **cook** in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two **smallpox** **patients**. He was **diagnosed** with **malaria**, then chickenpox; a hospital worker finally **notified** the office. He was the last person anywhere to **acquire** smallpox by **ordinary** contagion.",
-          "zh": "1977年10月，索马里梅尔卡一家医院的**厨工**(cook)阿里·马奥·马阿林，在与两名**天花**(smallpox)**病人**(patients)同车两周后**发**(erupted)起**皮疹**(rash)。他先被**诊断**(diagnosed)为**疟疾**(malaria)，又被当成水痘；最后是一名医院工作人员**通报**(notified)了根除办公室。他是全世界最后一个经**寻常**(ordinary)传染而**染上**(acquire)天花的人。"
+          "en": "In October 1977 Ali Maow Maalin, a hospital **canteen** hand in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two **smallpox** **patients**. He was **diagnosed** with **malaria**, then chickenpox; a hospital worker finally **notified** the office. He was the last person anywhere to **acquire** smallpox by **ordinary** contagion.",
+          "zh": "1977年10月，索马里梅尔卡一家医院**食堂**(canteen)帮工阿里·马奥·马阿林，在与两名**天花**(smallpox)**病人**(patients)同车两周后**发**(erupted)起**皮疹**(rash)。他先被**诊断**(diagnosed)为**疟疾**(malaria)，又被当成水痘；最后是一名医院工作人员**通报**(notified)了根除办公室。他是全世界最后一个经**寻常**(ordinary)传染而**染上**(acquire)天花的人。"
         },
         {
           "en": "The **disease** killed roughly three in ten it **struck**, leaving many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.",
@@ -40,8 +40,8 @@
       ],
       "glossary": [
         {
-          "w": "cook",
-          "zh": "厨工",
+          "w": "canteen",
+          "zh": "食堂",
           "p": 1
         },
         {

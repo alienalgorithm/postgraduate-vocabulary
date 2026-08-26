@@ -17,16 +17,16 @@
           "zh": "1981年7月17日晚7点05分，堪萨斯城凯悦酒店**中庭**(atrium)里两条**悬空**(suspended)**天桥**(walkways)垮了下来，**砸**(fell)在下方正在进行的茶**舞会**(dance)上。114人死亡，216人**受伤**(injured)。这**至今仍是**(remains)美国历史上除**战时**(wartime)与袭击之外**最惨重的**(deadliest)**结构**(structural)垮塌。"
         },
         {
-          "en": "Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **floor**'s worth.",
-          "zh": "杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(floor)。"
+          "en": "Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **tier**'s worth.",
+          "zh": "杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(tier)。"
         },
         {
-          "en": "Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **shop** work.",
-          "zh": "哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**杆**(rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(shop)也好做。"
+          "en": "Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.",
+          "zh": "哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**杆**(rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。"
         },
         {
-          "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **numbers** for that joint.",
-          "zh": "把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为那处接头算过一笔**数**(numbers)。"
+          "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for that joint.",
+          "zh": "把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为那处接头算过一笔**账**(sums)。"
         },
         {
           "en": "Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the **upper** walkway and fewer than sixty on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.",
@@ -143,8 +143,8 @@
           "p": 2
         },
         {
-          "w": "floor",
-          "zh": "层；楼面",
+          "w": "tier",
+          "zh": "层",
           "p": 2
         },
         {
@@ -193,7 +193,7 @@
           "p": 3
         },
         {
-          "w": "shop",
+          "w": "workshop",
           "zh": "车间",
           "p": 3
         },
@@ -243,8 +243,8 @@
           "p": 4
         },
         {
-          "w": "numbers",
-          "zh": "没有人",
+          "w": "sums",
+          "zh": "账；算式（复）",
           "p": 4
         },
         {

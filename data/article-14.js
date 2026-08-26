@@ -18,20 +18,20 @@
       },
       "paras": [
         {
-          "en": "Ice **crushed** the **ship** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a victualling **list** — on Greenland's southwest **shore**. They had **travelled** frozen into the **floes**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
-          "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(ship)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**清单**(list)。它们是冻在**浮冰**(floes)里**漂**(travelled)过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
+          "en": "Ice **crushed** the **vessel** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a victualling **list** — on Greenland's southwest **shore**. They had **travelled** frozen into the **drift**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
+          "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(vessel)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**清单**(list)。它们是冻在**流冰**(drift)里**漂**(travelled)过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
         },
         {
           "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to seventy **centimetres** deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.",
           "zh": "**船身**(hull)必须扛得住被**夹住**(gripped)。科林·阿彻用最厚达七十**厘米**(centimetres)的**橡木**(oak)造出「前进」号，船底**浑圆**(rounded)，舷侧**外斜**(sloping)。寻常船身给了冰一堵可以咬住的直墙；「前进」号给它的是一道**楔面**(wedge)。**冰群**(pack)一合拢，就把她**挤**(squeezed)着往上抬，而不是往**里**(inward)压，随后把她搁在冰面上。"
         },
         {
-          "en": "She left Norway in 1893 with **stores** for five years and let the ice **seize** her that September. There was no **steering** now, and no **retreat**. The crew **plumbed** the water, logged the **weather**, and **waited**. Nansen kept a **diary** through the **polar** night; all thirteen came through that first **winter**.",
-          "zh": "1893年她带着五年的**给养**(stores)离开挪威，九月任由冰把她**扣**(seize)住。此后再无**操舵**(steering)，也无**退路**(retreat)。船员**测**(plumbed)水深，记**天气**(weather)，然后**等着**(waited)。南森在**极地**(polar)长夜里写**日记**(diary)；十三个人全都熬过了第一个**冬天**(winter)。"
+          "en": "She left Norway in 1893 with **provisions** for five years and let the ice **seize** her that September. There was no **steering** now, and no **retreat**. The crew **plumbed** the water, logged the **frost**, and **waited**. Nansen kept a **diary** through the **polar** night; all thirteen came through that first **freeze**.",
+          "zh": "1893年她带着五年的**给养**(provisions)离开挪威，九月任由冰把她**扣**(seize)住。此后再无**操舵**(steering)，也无**退路**(retreat)。船员**测**(plumbed)水深，记**霜情**(frost)，然后**等着**(waited)。南森在**极地**(polar)长夜里写**日记**(diary)；十三个人全都熬过了第一场**封冻**(freeze)。"
         },
         {
-          "en": "The **bearing** ran wide: the drift would miss the Pole. In March 1895 Nansen and Hjalmar Johansen left with **dogs** and **skis**, reached 86°13.6′N — the **farthest** **poleward** anyone had stood, by almost three **degrees** — and turned back. They **overwintered** in a **shelter** of stone and walrus **hide**, then in June 1896 walked by sheer **fluke** into Frederick Jackson's camp.",
-          "zh": "漂流的**方位**(bearing)偏了：这条路线到不了北极点。1895年3月，南森与雅尔马·约翰森带着**狗**(dogs)和**滑雪板**(skis)离船，抵达北纬86°13.6′——人类当时**最**(farthest)**靠北**(poleward)的立足点，比前纪录推进近三**度**(degrees)——随后折返。他们在一座石头与海象**皮**(hide)搭的**窝棚**(shelter)里**熬过冬天**(overwintered)，1896年6月**凑巧**(fluke)走进了弗雷德里克·杰克逊的营地。"
+          "en": "The **bearing** ran wide: the drift would miss the Pole. In March 1895 Nansen and Hjalmar Johansen left with **huskies** and **skis**, reached 86°13.6′N — the **farthest** **poleward** anyone had stood, by almost three **degrees** — and turned back. They **survived** in a **shelter** of stone and walrus **hide**, then in June 1896 walked by sheer **fluke** into Frederick Jackson's camp.",
+          "zh": "漂流的**方位**(bearing)偏了：这条路线到不了北极点。1895年3月，南森与雅尔马·约翰森带着**哈士奇**(huskies)和**滑雪板**(skis)离船，抵达北纬86°13.6′——人类当时**最**(farthest)**靠北**(poleward)的立足点，比前纪录推进近三**度**(degrees)——随后折返。他们在一座石头与海象**皮**(hide)搭的**窝棚**(shelter)里**熬**(survived)了过来，1896年6月**凑巧**(fluke)走进了弗雷德里克·杰克逊的营地。"
         },
         {
           "en": "Fram **emerged** near Svalbard that August; every man went home **alive**. The **dash** for the Pole had **failed**. But her **sounding** lines ran 3,300 to 3,900 **metres** where a **shallow** floor was expected, **exposing** a basin, and three years of records **charted** how Arctic ice moves. Fram means \"Forward\". She went **onward** by giving way.",
@@ -40,17 +40,17 @@
       ],
       "glossary": [
         {
-          "w": "crush",
+          "w": "crushed",
           "zh": "碾碎",
           "p": 1
         },
         {
-          "w": "ship",
-          "zh": "船",
+          "w": "vessel",
+          "zh": "船只",
           "p": 1
         },
         {
-          "w": "remnant",
+          "w": "remnants",
           "zh": "残件",
           "p": 1
         },
@@ -70,13 +70,13 @@
           "p": 1
         },
         {
-          "w": "travel",
+          "w": "travelled",
           "zh": "漂",
           "p": 1
         },
         {
-          "w": "floe",
-          "zh": "浮冰",
+          "w": "drift",
+          "zh": "流冰；漂流",
           "p": 1
         },
         {
@@ -95,7 +95,7 @@
           "p": 2
         },
         {
-          "w": "grip",
+          "w": "gripped",
           "zh": "夹住",
           "p": 2
         },
@@ -130,7 +130,7 @@
           "p": 2
         },
         {
-          "w": "squeeze",
+          "w": "squeezed",
           "zh": "挤",
           "p": 2
         },
@@ -140,8 +140,8 @@
           "p": 2
         },
         {
-          "w": "stores",
-          "zh": "给养",
+          "w": "provisions",
+          "zh": "给养（复）",
           "p": 3
         },
         {
@@ -160,17 +160,17 @@
           "p": 3
         },
         {
-          "w": "plumb",
+          "w": "plumbed",
           "zh": "测深",
           "p": 3
         },
         {
-          "w": "weather",
-          "zh": "天气",
+          "w": "frost",
+          "zh": "霜；封冻",
           "p": 3
         },
         {
-          "w": "wait",
+          "w": "waited",
           "zh": "等待",
           "p": 3
         },
@@ -185,8 +185,8 @@
           "p": 3
         },
         {
-          "w": "winter",
-          "zh": "冬天",
+          "w": "freeze",
+          "zh": "封冻",
           "p": 3
         },
         {
@@ -195,12 +195,12 @@
           "p": 4
         },
         {
-          "w": "dog",
-          "zh": "狗",
+          "w": "huskies",
+          "zh": "哈士奇（复）",
           "p": 4
         },
         {
-          "w": "ski",
+          "w": "skis",
           "zh": "滑雪板",
           "p": 4
         },
@@ -215,13 +215,13 @@
           "p": 4
         },
         {
-          "w": "degree",
+          "w": "degrees",
           "zh": "度",
           "p": 4
         },
         {
-          "w": "overwinter",
-          "zh": "熬过冬天",
+          "w": "survived",
+          "zh": "幸存；熬过",
           "p": 4
         },
         {
@@ -240,7 +240,7 @@
           "p": 4
         },
         {
-          "w": "emerge",
+          "w": "emerged",
           "zh": "露",
           "p": 5
         },
@@ -255,7 +255,7 @@
           "p": 5
         },
         {
-          "w": "fail",
+          "w": "failed",
           "zh": "失败",
           "p": 5
         },
@@ -265,7 +265,7 @@
           "p": 5
         },
         {
-          "w": "metre",
+          "w": "metres",
           "zh": "米",
           "p": 5
         },
@@ -275,12 +275,12 @@
           "p": 5
         },
         {
-          "w": "expose",
+          "w": "exposing",
           "zh": "揭出",
           "p": 5
         },
         {
-          "w": "chart",
+          "w": "charted",
           "zh": "绘出",
           "p": 5
         },

@@ -29,8 +29,8 @@
           "zh": "布雷斯劳可以，它在西里西亚，**当得起**(serve)。一位**教士**(cleric)卡斯帕尔·诺伊曼一直记着当地教区的**年录**(annals)，那上面写着死时的年龄。这座城小而**安定**(stable)，约莫三万四千**口人**(souls)，**流动**(migration)很少。诺伊曼托**信使**(courier)把**数字**(figures)送到皇家学会。就凭这五年的数，哈雷**拼**(assembled)出一张**名册**(roster)：一千人活到一岁，855人活到两岁，107人活过八十五。"
         },
         {
-          "en": "On 8 March 1693 he **submitted** the table to the Society; a week later, the **annuity** **prices** **drawn** from it. Seven times was too little for every **purchaser** under **pension** age. The table was displayed, went **unread**, and was **shelved**. Parliament went on charging seven, **losing** on every life it **insured** young.",
-          "zh": "1693年3月8日，他把这张表**提交**(submitted)给学会；一周后，从表里**推**(drawn)出的**年金**(annuity)**定价**(prices)也呈了上去。对每一个不到**养老**(pension)之年的**买主**(purchaser)来说，七倍都太少。这张表被摆出来，**没人读**(unread)，然后被**搁置**(shelved)。议会照旧收七倍，在每一条**保**(insured)得太年轻的人命上**亏**(losing)钱。"
+          "en": "On 8 March 1693 he **submitted** the table to the Society; a week later, the **annuity** **tariff** **drawn** from it. Seven times was too little for every **purchaser** under **pension** age. The table was displayed, went **unread**, and was **shelved**. Parliament went on charging seven, **losing** on every life it **insured** young.",
+          "zh": "1693年3月8日，他把这张表**提交**(submitted)给学会；一周后，从表里**推**(drawn)出的**年金**(annuity)**费率表**(tariff)也呈了上去。对每一个不到**养老**(pension)之年的**买主**(purchaser)来说，七倍都太少。这张表被摆出来，**没人读**(unread)，然后被**搁置**(shelved)。议会照旧收七倍，在每一条**保**(insured)得太年轻的人命上**亏**(losing)钱。"
         }
       ],
       "facts": [
@@ -259,8 +259,8 @@
           "p": 5
         },
         {
-          "w": "prices",
-          "zh": "价格（复）",
+          "w": "tariff",
+          "zh": "费率表",
           "p": 5
         },
         {

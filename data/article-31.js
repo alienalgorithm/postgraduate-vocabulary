@@ -21,8 +21,8 @@
           "zh": "格哈德·多马克1932年就**证明**(shown)过这东西能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
         },
         {
-          "en": "In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **animals** **alike**. The body was **splitting** the molecule; the **colour** itself was inert. What Bayer had patented was the wrapper, not the **goods**.",
-          "zh": "1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**动物**(animals)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**颜色**(colour)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**货**(goods)。"
+          "en": "In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.",
+          "zh": "1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。"
         },
         {
           "en": "That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry made it by the **ton** as an **intermediate**. Anyone could make it. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.",
@@ -174,8 +174,8 @@
           "p": 3
         },
         {
-          "w": "animals",
-          "zh": "动物（复）",
+          "w": "creatures",
+          "zh": "活物（复）",
           "p": 3
         },
         {
@@ -189,13 +189,13 @@
           "p": 3
         },
         {
-          "w": "colour",
-          "zh": "颜色",
+          "w": "tint",
+          "zh": "色调",
           "p": 3
         },
         {
-          "w": "goods",
-          "zh": "货物",
+          "w": "substance",
+          "zh": "实质",
           "p": 3
         },
         {

@@ -12,7 +12,7 @@
       "date": "2026-08-15",
       "status": "第十五篇最终精进锁定稿",
       "metrics": {
-        "words": 267,
+        "words": 268,
         "keywords": 50,
         "density": 18.7
       },
@@ -30,8 +30,8 @@
           "zh": "他1872与1873年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(carriage)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤然**(sudden)**垮掉**(collapse)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。"
         },
         {
-          "en": "Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a fifty-car **rake** took twenty **seconds** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals won the **trials**, but he **judged** their wiring too **frail** for freight.",
-          "zh": "能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列五十节的**编组**(rake)要二十**秒**(seconds)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。试验的优胜者是电**触发**(triggered)的对手，但他**判**(judged)定那种接线对货运来说太**脆弱**(frail)，没有采用——这是他在那场**试验**(trials)后的取舍。"
+          "en": "Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a fifty-car **rake** took a twenty-second **lag** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals won the **trials**, but he **judged** their wiring too **frail** for freight.",
+          "zh": "能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列五十节的**编组**(rake)要二十秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。试验的优胜者是电**触发**(triggered)的对手，但他**判**(judged)定那种接线对货运来说太**脆弱**(frail)，没有采用——这是他在那场**试验**(trials)后的取舍。"
         },
         {
           "en": "Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** whom many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.",
@@ -195,8 +195,8 @@
           "p": 4
         },
         {
-          "w": "seconds",
-          "zh": "秒（复）",
+          "w": "lag",
+          "zh": "滞后",
           "p": 4
         },
         {

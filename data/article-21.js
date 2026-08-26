@@ -12,7 +12,7 @@
       "date": "2026-08-16",
       "status": "第二十一篇定稿",
       "metrics": {
-        "words": 270,
+        "words": 271,
         "keywords": 50,
         "density": 18.5
       },
@@ -34,8 +34,8 @@
           "zh": "能回答的只有这艘船本身。它在**海底**(seabed)躺了333年；1956年安德斯·弗兰岑找到它，1961年它被**打捞**(salvaged)出水，同出水的还有45000件**器物**(objects)。2010年起，**考古学家**(archaeologist)弗雷德·霍克花三年**丈量**(measuring)了船上每一块**板**(plank)、每一根**肋**(rib)。左舷的**结构**(structure)比右舷多：不压压舱物的话，它**无需外力**(unaided)就会往那边**倾**(heel)。"
         },
         {
-          "en": "Why more? Four carpenters' **rulers** came up too: two **graduated** in Swedish **feet** of twelve inches, two in Amsterdam feet of eleven, sixteen **millimetres** shorter. The **master** **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.",
-          "zh": "为什么会多？同船还上来了四把木工**尺**(rulers)：两把按瑞典**尺**(feet)**刻度**(graduated)，一尺十二寸；两把按阿姆斯特丹尺，一尺十一寸，短了约十六**毫米**(millimetres)。**总**(master)**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。"
+          "en": "Why more? Four carpenters' **sticks** came up too: two **rulers** **graduated** in Swedish feet of twelve inches, two in Amsterdam feet of eleven, sixteen **millimetres** shorter. The **master** **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.",
+          "zh": "为什么会多？同船还上来了四把木工**棍尺**(sticks)：两把**尺子**(rulers)按瑞典尺**刻度**(graduated)，一尺十二寸；两把按阿姆斯特丹尺，一尺十一寸，短了约十六**毫米**(millimetres)。**总**(master)**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。"
         }
       ],
       "glossary": [
@@ -55,7 +55,7 @@
           "p": 1
         },
         {
-          "w": "sail",
+          "w": "sails",
           "zh": "帆",
           "p": 1
         },
@@ -75,17 +75,17 @@
           "p": 1
         },
         {
-          "w": "pour",
+          "w": "poured",
           "zh": "灌；倾泻",
           "p": 1
         },
         {
-          "w": "founder",
+          "w": "foundered",
           "zh": "沉没；失败",
           "p": 1
         },
         {
-          "w": "drown",
+          "w": "drowned",
           "zh": "溺亡",
           "p": 1
         },
@@ -120,7 +120,7 @@
           "p": 2
         },
         {
-          "w": "roll",
+          "w": "rolling",
           "zh": "摇晃",
           "p": 2
         },
@@ -130,12 +130,12 @@
           "p": 2
         },
         {
-          "w": "halt",
+          "w": "halted",
           "zh": "叫停",
           "p": 2
         },
         {
-          "w": "cancel",
+          "w": "cancelled",
           "zh": "取消",
           "p": 2
         },
@@ -150,12 +150,12 @@
           "p": 3
         },
         {
-          "w": "demand",
+          "w": "demanded",
           "zh": "要求",
           "p": 3
         },
         {
-          "w": "hurry",
+          "w": "hurried",
           "zh": "催紧",
           "p": 3
         },
@@ -165,7 +165,7 @@
           "p": 3
         },
         {
-          "w": "explain",
+          "w": "explains",
           "zh": "解释",
           "p": 3
         },
@@ -195,12 +195,12 @@
           "p": 4
         },
         {
-          "w": "salvage",
+          "w": "salvaged",
           "zh": "打捞",
           "p": 4
         },
         {
-          "w": "object",
+          "w": "objects",
           "zh": "器物；物件",
           "p": 4
         },
@@ -210,7 +210,7 @@
           "p": 4
         },
         {
-          "w": "measure",
+          "w": "measuring",
           "zh": "测量",
           "p": 4
         },
@@ -240,22 +240,22 @@
           "p": 4
         },
         {
-          "w": "ruler",
-          "zh": "尺",
+          "w": "sticks",
+          "zh": "棍尺（复）",
           "p": 5
         },
         {
-          "w": "graduate",
-          "zh": "刻度；分度",
+          "w": "rulers",
+          "zh": "尺子（复）",
           "p": 5
         },
         {
-          "w": "feet",
+          "w": "graduated",
           "zh": "尺（复）",
           "p": 5
         },
         {
-          "w": "millimetre",
+          "w": "millimetres",
           "zh": "毫米",
           "p": 5
         },
@@ -270,7 +270,7 @@
           "p": 5
         },
         {
-          "w": "gang",
+          "w": "gangs",
           "zh": "工班",
           "p": 5
         },

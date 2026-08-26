@@ -331,8 +331,8 @@ window.SITE = {
         "zh": "1977年2月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫ANGUS的相机**拖橇**(sled)贴着海底走，要找的是**板块**(tectonic)理论预言应当从年轻**玄武岩**(basalt)里**渗出**(seep)的热水。15日深夜，在两千五百米深处，ANGUS**记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到2摄氏度。"
       },
       {
-        "en": "ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** above. Instead 8°C water **shimmered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.",
-        "zh": "ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**微微晃动**(shimmered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。"
+        "en": "ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** above. Instead 8°C water **wavered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.",
+        "zh": "ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**晃**(wavered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。"
       },
       {
         "en": "No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to nearly all life, **dissolved** around the **colony**. The **abundance** had no visible source.",
@@ -364,7 +364,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "tow",
+        "w": "towed",
         "zh": "拖",
         "p": 1
       },
@@ -389,7 +389,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "register",
+        "w": "registered",
         "zh": "记录到；登记",
         "p": 1
       },
@@ -399,7 +399,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "frame",
+        "w": "frames",
         "zh": "帧；画面",
         "p": 2
       },
@@ -419,7 +419,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "expect",
+        "w": "expecting",
         "zh": "预期",
         "p": 2
       },
@@ -434,17 +434,17 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "shimmer",
-        "zh": "微微晃动；闪烁",
+        "w": "wavered",
+        "zh": "摇晃",
         "p": 2
       },
       {
-        "w": "fissure",
+        "w": "fissures",
         "zh": "裂隙",
         "p": 2
       },
       {
-        "w": "crowd",
+        "w": "crowded",
         "zh": "挤满；人群",
         "p": 2
       },
@@ -459,7 +459,7 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "specimen",
+        "w": "specimens",
         "zh": "标本",
         "p": 3
       },
@@ -484,7 +484,7 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "dissolve",
+        "w": "dissolved",
         "zh": "溶解",
         "p": 3
       },
@@ -534,12 +534,12 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "house",
+        "w": "housing",
         "zh": "养着",
         "p": 4
       },
       {
-        "w": "microbe",
+        "w": "microbes",
         "zh": "微生物",
         "p": 4
       },
@@ -549,7 +549,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "reveal",
+        "w": "revealed",
         "zh": "揭示",
         "p": 5
       },
@@ -564,7 +564,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "sustain",
+        "w": "sustained",
         "zh": "支撑；维持",
         "p": 5
       },
@@ -574,7 +574,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "widen",
+        "w": "widened",
         "zh": "拓宽",
         "p": 5
       },
@@ -637,8 +637,8 @@ window.SITE = {
         "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
       },
       {
-        "en": "*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, stratospheric **clouds** **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.",
-        "zh": "1985年5月16日，《自然》刊出了法曼、加德纳与尚克林的论文。没有哪个模型**预见到**(anticipated)这么大的损失：在北纬30度附近**调校**(tuned)出来的计算只给出百分之几，而没有一个人**模拟**(simulated)过极地的冬天。零下78摄氏度以下，平流层**云**(clouds)会在臭氧层的**高度**(altitude)上**凝结**(condense)；在云**粒子**(particles)表面，原本**蛰伏**(dormant)的含**氯**(chlorine)化合物变成了会被光**劈开**(cleaves)的形态。"
+        "en": "*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, **stratospheric** clouds **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.",
+        "zh": "1985年5月16日，《自然》刊出了法曼、加德纳与尚克林的论文。没有哪个模型**预见到**(anticipated)这么大的损失：在北纬30度附近**调校**(tuned)出来的计算只给出百分之几，而没有一个人**模拟**(simulated)过极地的冬天。零下78摄氏度以下，**平流层的**(stratospheric)云会在臭氧层的**高度**(altitude)上**凝结**(condense)；在云**粒子**(particles)表面，原本**蛰伏**(dormant)的含**氯**(chlorine)化合物变成了会被光**劈开**(cleaves)的形态。"
       },
       {
         "en": "Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly**. Reprocessed satellite **scans** showed a **continent-wide** loss in 1986; governments **adopted** the Montreal Protocol on 16 September 1987, and **amendments** **tightened** it. Antarctic ozone is **projected** to **regain** its 1980 **concentration** near 2066. A filter built to catch a broken instrument cannot tell a broken instrument from a broken sky.",
@@ -657,7 +657,7 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "weigh",
+        "w": "weighing",
         "zh": "称量；权衡",
         "p": 1
       },
@@ -667,12 +667,12 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "intensity",
+        "w": "intensities",
         "zh": "强度",
         "p": 1
       },
       {
-        "w": "band",
+        "w": "bands",
         "zh": "波段；带",
         "p": 1
       },
@@ -697,12 +697,12 @@ window.SITE = {
         "p": 1
       },
       {
-        "w": "reading",
+        "w": "readings",
         "zh": "读数",
         "p": 2
       },
       {
-        "w": "reckon",
+        "w": "reckoned",
         "zh": "判断；认为",
         "p": 2
       },
@@ -717,7 +717,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "agree",
+        "w": "agreed",
         "zh": "吻合",
         "p": 2
       },
@@ -737,7 +737,7 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "hesitate",
+        "w": "hesitated",
         "zh": "犹豫",
         "p": 2
       },
@@ -757,7 +757,7 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "flag",
+        "w": "flagged",
         "zh": "标记",
         "p": 3
       },
@@ -797,23 +797,23 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "anticipate",
+        "w": "anticipated",
         "zh": "预见到",
         "p": 4
       },
       {
-        "w": "tune",
+        "w": "tuned",
         "zh": "调校",
         "p": 4
       },
       {
-        "w": "simulate",
+        "w": "simulated",
         "zh": "模拟",
         "p": 4
       },
       {
-        "w": "cloud",
-        "zh": "云",
+        "w": "stratospheric",
+        "zh": "平流层的",
         "p": 4
       },
       {
@@ -827,7 +827,7 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "particle",
+        "w": "particles",
         "zh": "粒子",
         "p": 4
       },
@@ -842,12 +842,12 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "cleave",
+        "w": "cleaves",
         "zh": "劈开",
         "p": 4
       },
       {
-        "w": "liberate",
+        "w": "liberates",
         "zh": "释放；解放",
         "p": 5
       },
@@ -857,7 +857,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "scan",
+        "w": "scans",
         "zh": "扫描",
         "p": 5
       },
@@ -867,22 +867,22 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "adopt",
+        "w": "adopted",
         "zh": "通过；采纳",
         "p": 5
       },
       {
-        "w": "amendment",
+        "w": "amendments",
         "zh": "修正案",
         "p": 5
       },
       {
-        "w": "tighten",
+        "w": "tightened",
         "zh": "收紧",
         "p": 5
       },
       {
-        "w": "project",
+        "w": "projected",
         "zh": "预计",
         "p": 5
       },

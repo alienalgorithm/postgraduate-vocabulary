@@ -13,20 +13,20 @@
       "status": "第三十二篇定稿",
       "paras": [
         {
-          "en": "Before 1790 every French **village** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **sought** a **unit** taken from **nature** instead: one ten-millionth of the **stretch** from pole to equator.",
-          "zh": "1790年以前，法国每个**村子**(village)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**寻求**(sought)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那**一段**(stretch)距离的一千万分之一。"
+          "en": "Before 1790 every French **hamlet** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **sought** a **unit** taken from **nature** instead: one ten-millionth of the **stretch** from pole to equator.",
+          "zh": "1790年以前，法国每个**村落**(hamlet)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**寻求**(sought)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那**一段**(stretch)距离的一千万分之一。"
         },
         {
           "en": "In June 1792 Jean-Baptiste Delambre **rode** north to **survey** the meridian to Dunkirk. Pierre Méchain went south over **uncharted** **mountains** to Barcelona. Seven years of **triangles** followed, through a **revolution** that guillotined Lavoisier in 1794. The **republic** could not wait: a provisional metre was **legislated** in 1795, before the **measurement** **closed**.",
           "zh": "1792年6月，让-巴蒂斯特·德朗布尔**骑马**(rode)北上，去**测绘**(survey)通往敦刻尔克的子午线。皮埃尔·梅尚南下，翻过**未经勘测的**(uncharted)**山地**(mountains)去巴塞罗那。此后是七年的**三角测量**(triangles)，其间那场**革命**(revolution)在1794年把拉瓦锡送上了断头台。**共和国**(republic)等不及：1795年就**立法**(legislated)定下了临时米，而**测算**(measurement)尚未**结束**(closed)。"
         },
         {
-          "en": "At Barcelona Méchain took the latitude **twice**, from two **stations**. The two **values** **differed** by 3.24 seconds of arc. He could not explain it. He had borrowed every formula from his northern **colleague**, and under a **regime** that shot men on **suspicion**, an admission meant **disgrace**; he **hid** the figure and lived in **dread** of the reckoning.",
-          "zh": "在巴塞罗那，梅尚把纬度测了**两次**(twice)，用的是两个**测站**(stations)。这两个**值**(values)**相差**(differed)3.24角秒。他解释不了。他计算所用的公式全是从北边那位**同事**(colleague)那里借来的；在一个凭**怀疑**(suspicion)就枪毙人的**政权**(regime)之下，承认等于**身败名裂**(disgrace)。他**藏**(hid)起了这个数字，在对清算的**恐惧**(dread)中度过了余生。"
+          "en": "At Barcelona Méchain took the latitude **twice**, from two **stations**. The two **values** **differed** by 3.24 seconds of arc. He could not explain it. He had **borrowed** every formula from his northern **colleague**, and under a **regime** that shot men on **suspicion**, an admission meant **disgrace**; he **hid** the figure and lived in **dread** of the reckoning.",
+          "zh": "在巴塞罗那，梅尚把纬度测了**两次**(twice)，用的是两个**测站**(stations)。这两个**值**(values)**相差**(differed)3.24角秒。他解释不了。他计算所用的公式全是从北边那位**同事**(colleague)那里**借**(borrowed)来的；在一个凭**怀疑**(suspicion)就枪毙人的**政权**(regime)之下，承认等于**身败名裂**(disgrace)。他**藏**(hid)起了这个数字，在对清算的**恐惧**(dread)中度过了余生。"
         },
         {
-          "en": "In March 1799 a commission **reduced** the survey to 443.296 lignes; a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** his **leg**; **yellow** **fever** took him in 1804.",
-          "zh": "1799年3月，一个委员会把测量结果**归算**(reduced)为443.296里涅，一根铂杆随之**锻**(forged)出。6月22日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己那一**程**(leg)；1804年，**黄**(yellow)**热病**(fever)带走了他。"
+          "en": "In March 1799 a commission **reduced** the survey to 443.296 lignes; a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** his **commune**; yellow **fever** took him in 1804.",
+          "zh": "1799年3月，一个委员会把测量结果**归算**(reduced)为443.296里涅，一根铂杆随之**锻**(forged)出。6月22日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己那个**辖区**(commune)；1804年，黄**热病**(fever)带走了他。"
         },
         {
           "en": "Delambre **obtained** the **notebooks**, **scribbled** in the margin that he would say nothing, and left the **manuscripts** in the **observatory**. Does it matter if it is wrong, he asked; can the metre be wrong? Yet pole to equator is 10,002,000 metres: the bar came out 0.2 millimetres under, and the mistake stayed. Every **successor** **definition**, by **krypton** then by light, was **calibrated** to **reproduce** it.",
@@ -49,8 +49,8 @@
       },
       "glossary": [
         {
-          "w": "village",
-          "zh": "村庄",
+          "w": "hamlet",
+          "zh": "村落",
           "p": 1
         },
         {
@@ -169,6 +169,11 @@
           "p": 3
         },
         {
+          "w": "borrowed",
+          "zh": "借用",
+          "p": 3
+        },
+        {
           "w": "colleague",
           "zh": "同事",
           "p": 3
@@ -234,13 +239,8 @@
           "p": 4
         },
         {
-          "w": "leg",
-          "zh": "一程；一段",
-          "p": 4
-        },
-        {
-          "w": "yellow",
-          "zh": "黄色的",
+          "w": "commune",
+          "zh": "辖区；公社",
           "p": 4
         },
         {

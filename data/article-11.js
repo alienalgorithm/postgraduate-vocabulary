@@ -34,8 +34,8 @@
           "zh": "10月28日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利已独立发现**感应**(induction)，但发表在后；伊波利特·皮克西1832年造出了**磁电机**(magneto)。"
         },
         {
-          "en": "Almost every **generator** feeding the grid **repeats** that same cycle. Steam, falling water or wind **drives** a **turbine** whose **shaft** sweeps **magnets** past **coils**; the **output** is **stepped** up and **carried** away. What Faraday saw was not a magnet making electricity, but a change making it.",
-          "zh": "今天向电网供电的几乎每一台**发电机**(generator)，都在**重复**(repeats)同一个循环。蒸汽、落水或风**带动**(drives)**汽轮机**(turbine)，其**轴**(shaft)让**磁铁**(magnets)扫过一组组**线圈**(coils)；**输出**(output)经**升**(stepped)压后被**输送**(carried)出去。法拉第看见的，从来不是磁铁在生电，而是变化在生电。"
+          "en": "Almost every **generator** feeding the grid **repeats** that same cycle. Steam, falling water or wind **powers** a **turbine** whose **shaft** sweeps **magnets** past **coils**; the **output** is **stepped** up and **carried** away. What Faraday saw was not a magnet making electricity, but a change making it.",
+          "zh": "今天向电网供电的几乎每一台**发电机**(generator)，都在**重复**(repeats)同一个循环。蒸汽、落水或风**带动**(powers)**汽轮机**(turbine)，其**轴**(shaft)让**磁铁**(magnets)扫过一组组**线圈**(coils)；**输出**(output)经**升**(stepped)压后被**输送**(carried)出去。法拉第看见的，从来不是磁铁在生电，而是变化在生电。"
         }
       ],
       "glossary": [
@@ -95,7 +95,7 @@
           "p": 2
         },
         {
-          "w": "winding",
+          "w": "windings",
           "zh": "线圈；绕组",
           "p": 2
         },
@@ -125,7 +125,7 @@
           "p": 2
         },
         {
-          "w": "jerk",
+          "w": "jerked",
           "zh": "猛跳；猛拉",
           "p": 2
         },
@@ -150,7 +150,7 @@
           "p": 3
         },
         {
-          "w": "induce",
+          "w": "induces",
           "zh": "感生；引起",
           "p": 3
         },
@@ -195,7 +195,7 @@
           "p": 4
         },
         {
-          "w": "pole",
+          "w": "poles",
           "zh": "极",
           "p": 4
         },
@@ -245,12 +245,12 @@
           "p": 5
         },
         {
-          "w": "repeat",
+          "w": "repeats",
           "zh": "重复",
           "p": 5
         },
         {
-          "w": "drive",
+          "w": "powers",
           "zh": "带动；驱动",
           "p": 5
         },
@@ -270,7 +270,7 @@
           "p": 5
         },
         {
-          "w": "coil",
+          "w": "coils",
           "zh": "线圈",
           "p": 5
         },

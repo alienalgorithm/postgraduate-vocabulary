@@ -13,12 +13,12 @@
       "status": "第三十三篇定稿",
       "paras": [
         {
-          "en": "In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of Parliament sent their **letters** **exempt**, and the rest of the country **covered** the **deficit**.",
-          "zh": "1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信**(letters)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。"
+          "en": "In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of Parliament sent their **correspondence** **exempt**, and the rest of the country **covered** the **deficit**.",
+          "zh": "1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信件**(correspondence)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。"
         },
         {
-          "en": "So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **letter**. The office had **hauled** it four hundred **miles** for nothing.",
-          "zh": "于是人们绕过它。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个**圈**(circle)是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这封**信**(letter)。邮局把它**拖**(hauled)了四百**英里**(miles)，一文没收到。"
+          "en": "So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **miles** for nothing.",
+          "zh": "于是人们绕过它。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个**圈**(circle)是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百**英里**(miles)，一文没收到。"
         },
         {
           "en": "Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.",
@@ -79,8 +79,8 @@
           "p": 1
         },
         {
-          "w": "letters",
-          "zh": "信件（复）",
+          "w": "correspondence",
+          "zh": "信件",
           "p": 1
         },
         {
@@ -134,8 +134,8 @@
           "p": 2
         },
         {
-          "w": "letter",
-          "zh": "信",
+          "w": "packet",
+          "zh": "邮件包",
           "p": 2
         },
         {

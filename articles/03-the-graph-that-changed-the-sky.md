@@ -15,7 +15,7 @@ From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** 
 
 Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, NASA staff checked against the South Pole record and found it **erroneous**, its **calibration** long lost. Nobody went back, and the low numbers stayed **unconfirmed**. Farman published anyway.
 
-*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, stratospheric **clouds** **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.
+*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, **stratospheric** clouds **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.
 
 Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly**. Reprocessed satellite **scans** showed a **continent-wide** loss in 1986; governments **adopted** the Montreal Protocol on 16 September 1987, and **amendments** **tightened** it. Antarctic ozone is **projected** to **regain** its 1980 **concentration** near 2066. A filter built to catch a broken instrument cannot tell a broken instrument from a broken sky.
 
@@ -32,7 +32,7 @@ Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly
 
 “云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。
 
-1985年5月16日，《自然》刊出了法曼、加德纳与尚克林的论文。没有哪个模型**预见到**(anticipated)这么大的损失：在北纬30度附近**调校**(tuned)出来的计算只给出百分之几，而没有一个人**模拟**(simulated)过极地的冬天。零下78摄氏度以下，平流层**云**(clouds)会在臭氧层的**高度**(altitude)上**凝结**(condense)；在云**粒子**(particles)表面，原本**蛰伏**(dormant)的含**氯**(chlorine)化合物变成了会被光**劈开**(cleaves)的形态。
+1985年5月16日，《自然》刊出了法曼、加德纳与尚克林的论文。没有哪个模型**预见到**(anticipated)这么大的损失：在北纬30度附近**调校**(tuned)出来的计算只给出百分之几，而没有一个人**模拟**(simulated)过极地的冬天。零下78摄氏度以下，**平流层的**(stratospheric)云会在臭氧层的**高度**(altitude)上**凝结**(condense)；在云**粒子**(particles)表面，原本**蛰伏**(dormant)的含**氯**(chlorine)化合物变成了会被光**劈开**(cleaves)的形态。
 
 春天回来的阳光**释放**(liberates)出这些原子，每一个都能**反复**(repeatedly)摧毁臭氧。1986年重新处理的卫星**扫描**(scans)显示，损失已是**覆盖整个大陆**(continent-wide)的规模；1987年9月16日，各国政府**通过**(adopted)了《蒙特利尔议定书》，其后的**修正案**(amendments)又**收紧**(tightened)了管制。南极臭氧**预计**(projected)将在2066年前后**重回**(regain)1980年的**浓度**(concentration)。一道为逮住坏仪器而设的过滤器，分不清坏掉的是仪器，还是天。
 
@@ -40,15 +40,15 @@ Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly
 
 ## 50 词速查表
 
-**§1**（10词）ozone 臭氧｜prism 棱镜｜weigh 称量；权衡｜ultraviolet 紫外的｜intensity 强度｜band 波段；带｜springtime 春季｜hut 小屋｜baseline 基线｜dull 枯燥的；钝的
+**§1**（10词）ozone 臭氧｜prism 棱镜｜weighing 称量；权衡｜ultraviolet 紫外的｜intensities 强度｜bands 波段；带｜springtime 春季｜hut 小屋｜baseline 基线｜dull 枯燥的；钝的
 
-**§2**（10词）reading 读数｜reckon 判断；认为｜ageing 老化的｜replacement 替换机；替换｜agree 吻合｜outpost 观测点；前哨｜recurring 反复出现的｜decline 下降｜hesitate 犹豫｜orbit 轨道
+**§2**（10词）readings 读数｜reckoned 判断；认为｜ageing 老化的｜replacement 替换机；替换｜agreed 吻合｜outpost 观测点；前哨｜recurring 反复出现的｜decline 下降｜hesitated 犹豫｜orbit 轨道
 
-**§3**（10词）mapper 测绘仪｜processing 数据处理｜flag 标记｜threshold 阈值；门槛｜faulty 故障的｜lens 镜头；透镜｜settle 判定；解决｜erroneous 错误的｜calibration 标定；校准｜unconfirmed 未获证实的
+**§3**（10词）mapper 测绘仪｜processing 数据处理｜flagged 标记｜threshold 阈值；门槛｜faulty 故障的｜lens 镜头；透镜｜settle 判定；解决｜erroneous 错误的｜calibration 标定；校准｜unconfirmed 未获证实的
 
-**§4**（10词）anticipate 预见到｜tune 调校｜simulate 模拟｜cloud 云｜condense 凝结｜altitude 高度｜particle 粒子｜dormant 蛰伏的；休眠的｜chlorine 氯｜cleave 劈开
+**§4**（10词）anticipated 预见到｜tuned 调校｜simulated 模拟｜stratospheric 平流层的｜condense 凝结｜altitude 高度｜particles 粒子｜dormant 蛰伏的；休眠的｜chlorine 氯｜cleaves 劈开
 
-**§5**（10词）liberate 释放；解放｜repeatedly 反复地｜scan 扫描｜continent-wide 覆盖整个大陆的｜adopt 通过；采纳｜amendment 修正案｜tighten 收紧｜project 预计｜regain 重回；重获｜concentration 浓度；集中
+**§5**（10词）liberates 释放；解放｜repeatedly 反复地｜scans 扫描｜continent-wide 覆盖整个大陆的｜adopted 通过；采纳｜amendments 修正案｜tightened 收紧｜projected 预计｜regain 重回；重获｜concentration 浓度；集中
 
 ---
 
