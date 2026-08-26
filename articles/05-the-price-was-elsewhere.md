@@ -2,7 +2,7 @@
 
 > 题材：UPC 条形码与零售信息基础设施
 > 状态：**第五篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 史上第一次扫码就当场证明了这件事：收银机打出的价，比货架上标的低两分——因为包装上的条码不可能知道店里在做促销。
 
 ---
@@ -17,7 +17,7 @@ By 1970 the **grocers** had a number for every product but no **symbol** a machi
 
 The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the **label**; a photodiode read the **reflected** beam, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.
 
-A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Stores kept records, rival **vendors** built **compatible** readers, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.
+A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Spectra-Physics built the **laser**, NCR the till; rival **vendors** followed, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.
 
 ---
 
@@ -34,7 +34,7 @@ A **database** held the **description** and price: prices changed without reprin
 
 UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过**标签**(label)；光电二极管读取**反射**(reflected)回的光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。
 
-**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。商店要建账，互为对手的**供应商**(vendors)要造出**兼容的**(compatible)读头，厂商要把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着最初那批扫描器中的一台：条纹里装的是一串数，价格在别处。
+**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。斯佩克特拉物理造**激光**(laser)器，NCR造收银机；互为对手的**供应商**(vendors)跟上，厂商把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着最初那批扫描器中的一台：条纹里装的是一串数，价格在别处。
 
 ---
 
@@ -48,7 +48,7 @@ UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后
 
 **§4**（10词）format 格式｜digits 数字；位｜checksum 校验和｜catching 逮住；捕捉｜misread 误读｜mirror 反射镜｜swept 扫｜label 标签｜reflected 光线｜widths 宽度
 
-**§5**（10词）database 数据库｜description 描述｜inventory 库存｜vendors 供应商｜compatible 兼容的｜proprietary 专有的｜infrastructure 基础设施｜competitors 竞争者｜obey 遵守｜specification 规范
+**§5**（10词）database 数据库｜description 描述｜inventory 库存｜laser 激光｜vendors 供应商｜proprietary 专有的｜infrastructure 基础设施｜competitors 竞争者｜obey 遵守｜specification 规范
 
 ---
 
@@ -64,3 +64,5 @@ UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后
 - 编码本身只指向厂商与商品，描述与价格存于零售商数据库，因此调价无需重印包装，且每笔销售可即时更新库存。系统的成立依赖商店建账、互相竞争的设备商制造兼容读头、制造商在包装上印码——专有方案可服务单一连锁，基础设施则要求竞争者共同遵守同一份规范。[IBM：The UPC](https://www.ibm.com/history/upc)
 - **史实更正（2026-08-16）**：本文原末句写「史密森学会留着那张包装纸」，并在 §4 给出 UPC 号码 036000291452，两处均无据。《史密森尼杂志》2017年6月26日的编者按明确更正：该刊原文曾推测史密森国家美国历史博物馆收藏并展出了那包箭牌口香糖，实则**史密森并未收藏那包口香糖**，曾展出的是一件复制品。博物馆实际收藏的是最初十台扫描仪之一——Spectra Physics A 型价格扫描器，其工作原理为氦氖激光经旋转反射镜投射，光电二极管接收标签反射光。而首次扫描那包口香糖的实际 UPC 号码，检索未见可靠来源，故正文改为不给具体数字。[Smithsonian Magazine：The History of the Bar Code（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)｜[Smithsonian 藏品：Supermarket Scanner](https://si.edu/object/supermarket-scanner%3Anmah_892778)
 - **已核（2026-08-16 逐条上网）**：1974年6月26日上午在俄亥俄州特洛伊市Marsh 超市完成史上第一次商用条码扫描；伍德兰与西尔弗1949年提交光学分类法专利、1952年获授权（含直线与同心圆两种图形）；乔治·劳雷尔在IBM主张竖条方案，1973年行业委员会选定并定名 UPC-A；十二位数字末位为校验码。**另有两处已在前次跑轮中订正**：史密森学会收藏的是最初十台扫描仪之一而非那张包装纸（《史密森尼杂志》编者按明确更正）；原文给出的 UPC 号码检索无据，已改为不给数字。[Smithsonian Magazine（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)
+- **已核（2026-08-20 逐条上网）· §5 那句史密森是对的，且正好验证了第23篇的教训**：史密森美国历史博物馆藏品页明载 This Spectra Physics model A price scanner is **one of those first ten scanners**——**本文「收藏其中一台最早的扫描仪」无误**。**而同一页还写着：那包被扫的口香糖留在了 Clyde Dawson 手里，从未进过史密森**（The scanned package of chewing gum remained with Clyde Dawson of Marsh Supermarkets and never came to the Smithsonian）——**第23篇当年正是在这一点上出的错，来源就是这一页**。注意：多处二手资料仍误称那包口香糖藏于史密森。
+另核实无误：1974年6月26日8:01、Marsh 超市、Troy 俄亥俄、Clyde Dawson（Marsh 研发负责人）、收银员 Sharon Buchanan、**67美分（Wrigley 标价69美分，减2美分促销）**、伍德兰与西尔弗1949年申请/1952年获专利、牛眼码印在包装上会晕开、1973年委员会选中IBM方案并命名 UPC-A、氦氖激光经旋转镜照到玻璃面再由光电二极管接收、该店共装十台、每台四千美元。**§5 末尾三句泛论已改实**：原为「商店建账、对手造兼容读头、厂商印码」，现改为 **Spectra-Physics 造激光器、NCR 造收银机**——同一藏品页载「两家共同开发，分别提供激光扫描器与计算机化收银机」。[Smithsonian NMAH：Supermarket Scanner](https://americanhistory.si.edu/collections/object/nmah_892778)｜[Smithsonian Magazine：The History of the Bar Code](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)
