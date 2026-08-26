@@ -13,8 +13,8 @@
       "status": "第三十一篇定稿",
       "paras": [
         {
-          "en": "On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist** and **snapped**. Surgeons dug it out, but the **poison** **climbed** her arm, and her **surgeon** proposed **amputation**. Her father worked at Bayer, where chemists had **built** a **scarlet** **dye** **carrying** a sulphonamide side chain.",
-          "zh": "1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可那股**毒**(poison)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**造**(built)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。"
+          "en": "On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist** and **snapped**. Surgeons dug it out, but **sepsis** **climbed** her arm, and her **surgeon** proposed **amputation**. Her father worked at Bayer, where chemists had **built** a **scarlet** **dye** **carrying** a sulphonamide side chain.",
+          "zh": "1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可**脓毒症**(sepsis)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**造**(built)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。"
         },
         {
           "en": "Gerhard Domagk had **shown** in 1932 that it **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.",
@@ -43,9 +43,9 @@
         "**已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)"
       ],
       "metrics": {
-        "words": 267,
+        "words": 266,
         "keywords": 50,
-        "density": 18.7
+        "density": 18.8
       },
       "glossary": [
         {
@@ -59,8 +59,8 @@
           "p": 1
         },
         {
-          "w": "poison",
-          "zh": "毒；毒素",
+          "w": "sepsis",
+          "zh": "脓毒症",
           "p": 1
         },
         {
