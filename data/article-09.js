@@ -12,9 +12,9 @@
       "date": "2026-08-15",
       "status": "第九篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 271,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
@@ -26,8 +26,8 @@
           "zh": "这种**病**(disease)每**击中**(struck)十人约杀死三人，许多**幸存者**(survivors)落下失明或严重的**疤痕**(scarred)。1967年，世卫组织把一场**全球**(global)攻势**加强**(intensified)了。可**接种率**(coverage)是很差的**标尺**(gauge)：一个**省**(province)可以报出九成，同时**藏着**(conceal)一个没打过疫苗的村子。"
         },
         {
-          "en": "The method came from a **shortage**. During the Biafran war William Foege took a radio call on a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**: chase cases, not coverage.",
-          "zh": "方法是从**短缺**(shortage)里逼出来的。比夫拉战争期间，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。"
+          "en": "The method came from a **shortage**. In December 1966 William Foege took a radio call on a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum** to go round. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**: chase cases, not coverage.",
+          "zh": "方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够分。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。"
         },
         {
           "en": "A report triggered inquiry: isolate the sick, trace **contacts**, vaccinate those and theirs. Freeze-dried vaccine **withstood** 45°C, so tropical storage held; a **bifurcated** **needle** held a **dose** between its prongs, brief **instruction** let a worker **pierce** the arm and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.",
@@ -297,7 +297,8 @@
         "冻干疫苗在热带高温下保持稳定；双叉针两齿间夹持一剂疫苗，经短时培训即可使用，显著节省用量。天花无动物宿主，潜伏期不具传染性，这两点使围堵在技术上可行。[CDC](https://www.cdc.gov/smallpox/about/history.html)",
         "1974年印度约占全球病例的三分之二，报告病例逾36000例；经大规模监测—围堵，至1975年5月印度境内传播中断。[CIDRAP：William Foege](https://www.cidrap.umn.edu/public-health/world-mourns-death-public-health-icon-william-foege)",
         "1978年，伯明翰大学医学院医学摄影师珍妮特·帕克因楼下实验室泄漏感染，8月20日确诊重型天花，9月11日去世，为已知最后一名天花死者。1979年全球根除认证委员会认证根除，1980年5月8日世界卫生大会正式宣布。[Origins：The WHO and the Eradication of Smallpox](https://origins.osu.edu/read/who-and-eradication-smallpox)",
-        "冻干（freeze-dried）痘苗的关键指标是耐热：在45℃下可保持效价约一个月，远优于液体苗，因而适用于无冷链的热带地区。[WHO：Smallpox vaccine](https://www.who.int/news-room/questions-and-answers/item/smallpox)"
+        "冻干（freeze-dried）痘苗的关键指标是耐热：在45℃下可保持效价约一个月，远优于液体苗，因而适用于无冷链的热带地区。[WHO：Smallpox vaccine](https://www.who.int/news-room/questions-and-answers/item/smallpox)",
+        "**已核（2026-08-20 逐条上网）· 抓出一处时间冲突**：\n**原文作「During the Biafran war」——对不上。**\n福奇那次环形接种的顿悟发生在 **1966 年 12 月尼日利亚东部**（华盛顿大学 Columns：a **1966** incident in eastern Nigeria；福奇本人《House on Fire》亦记此时），而**比夫拉战争 1967 年 7 月 6 日才爆发**——**顿悟在战前，不在战中。**（另有来源作「1967 年尼日利亚疫情」，指的是其后的阿巴卡利基疫情，即 Thompson & Foege 1968 年 WHO 报告所载那一次。）已改为 **In December 1966**，不再依赖战争这个时间锚。\n**无误七项**：**1967 年**世卫启动强化根除计划（Our World in Data 作 1966，两说，本文取多数的 1967）；天花病死率约 **三成**（重型天花约 30%）；**监测与遏制（环形接种）**为福奇所创、后成为标准策略；印度 **1974 年**疫情最烈（全年 188,000 例、31,000 死；5 月单周报告 11,000 新例），**1975 年 5 月 24 日最后一例、7 月 5 日宣告无证据**；**1978 年伯明翰实验室泄漏致 Janet Parker 死亡**（英国最后一例致死）；**1979 年委员会认证、1980 年世界卫生大会宣布根除**；马阿林 **2013 年死于疟疾**，当时正在为脊灰疫苗奔走。[UW Columns：Calling the Shots: Dr. William Foege](https://www.washington.edu/alumni/columns/top10/calling_the_shots.html)｜[WHO：History of smallpox vaccination](https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination)｜[密歇根大学展览：Smallpox Eradication in India, 1972-1977](https://apps.lib.umich.edu/online-exhibits/exhibits/show/smallpox-eradication-india/indian-engages-pandemic)"
       ]
     }
   ]);
