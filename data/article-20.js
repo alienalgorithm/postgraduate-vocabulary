@@ -12,7 +12,7 @@
       "date": "2026-08-13",
       "status": "第二十篇最终精进锁定稿",
       "metrics": {
-        "words": 267,
+        "words": 268,
         "keywords": 50,
         "density": 18.7
       },
@@ -26,8 +26,8 @@
           "zh": "法律把这份排放**预算**(budget)转化为可交易的**排放额度**(allowances)，每一份都**允许**(authorising)持有者排放一吨二氧化硫。电厂可以安装**洗涤器**(scrubber)、更换燃料、**购入**(procure)额度，或出售**多余的**(surplus)额度；暂时不用的额度还可以**结转**(banked)到以后年度。这种**灵活性**(flexibility)让企业在不同**方案**(alternatives)之间选择，却不能扩大全国总**配额**(quota)：每排放一吨，仍须消耗一份额度。"
         },
         {
-          "en": "The market worked because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; every allowance carried a **serial** number in a public **registry**. At year's end plants **surrendered** allowances matching emissions. A **shortfall** owed a **penalty** of $2,000 a ton without demand; the **overrun** was **deducted** later. No allowance could **override** health limits.",
-          "zh": "这个市场之所以成立，全在于**核算**(accounting)不留余地。烟囱**传感器**(sensors)连续测量排放；每份配额在公开**登记簿**(registry)上都有**编号**(serial)。年终，电厂**上缴**(surrendered)与实际排放相当的配额。出现**缺口**(shortfall)即无需催缴地欠下每吨2000美元**罚金**(penalty)；**超排**(overrun)量还要从往后的年份里**扣除**(deducted)。任何配额都不能**凌驾**(override)于基于健康的空气限值之上。"
+          "en": "The market worked because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; every allowance carried a **serial** number in a public **registry**. At year's end plants **surrendered** allowances matching emissions. A **shortfall** owed $2,000 a ton, no **penalty** notice required; the **overrun** was **deducted** from later years. No allowance could **override** health limits.",
+          "zh": "这个市场之所以成立，全在于**核算**(accounting)不留余地。烟囱**传感器**(sensors)连续测量排放；每份配额在公开**登记簿**(registry)上都有**编号**(serial)。年终，电厂**上缴**(surrendered)与实际排放相当的配额。出现**缺口**(shortfall)即欠下每吨2000美元，无需下达**罚**(penalty)单；**超排**(overrun)量还要从往后年份的配额里**扣除**(deducted)。任何配额都不能**凌驾**(override)于基于健康的空气限值之上。"
         },
         {
           "en": "Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, others burning low-sulphur coal. Cuts came **sooner** than scheduled at an **expense** nobody had **forecast**: industry had said $1,000 a ton; allowances traded near $150. Trading was not the sole **contributor**: rail **competition** cut **haulage** costs for **carriers**, and later **statutes** **accelerated** the fall.",

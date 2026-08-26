@@ -25,8 +25,8 @@
           "zh": "哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**杆**(rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。"
         },
         {
-          "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for that joint.",
-          "zh": "把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为那处接头算过一笔**账**(sums)。"
+          "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for it.",
+          "zh": "把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为它算过一笔**账**(sums)。"
         },
         {
           "en": "Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the **upper** walkway and fewer than sixty on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.",
@@ -42,9 +42,9 @@
         "**已核**：设计工程师被免于刑事指控但被吊销执业执照；酒店业主向遇难者家属支付约1.4亿美元赔偿。本篇收束于此：那处改动看上去只是省事，实则是一道没人重算的算术。[Britannica](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[All That's Interesting](https://allthatsinteresting.com/hyatt-regency-disaster)"
       ],
       "metrics": {
-        "words": 262,
+        "words": 261,
         "keywords": 50,
-        "density": 19.1
+        "density": 19.2
       },
       "glossary": [
         {

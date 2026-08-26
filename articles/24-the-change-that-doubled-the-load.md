@@ -2,7 +2,7 @@
 
 > 题材：1981年堪萨斯城凯悦酒店天桥垮塌与一处未经复核的设计变更
 > 状态：**第二十四篇定稿**（2026-08-16）
-> 指标：262 词 / 50 重点词 / 密度 19.1%
+> 指标：261 词 / 50 重点词 / 密度 19.2%
 > 加工商把一根通长吊杆改成两根短杆，图纸几乎没变，看着还更省事。可那一改把四层接头上的荷载整整翻了一倍——而没有人重新算过。
 
 ---
@@ -15,7 +15,7 @@ Jack Gillum's firm **specified** one continuous steel **rod** for each pair of *
 
 Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.
 
-Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for that joint.
+Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore the fourth floor and everything **hanging** **beneath** it. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for it.
 
 Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the **upper** walkway and fewer than sixty on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.
 
@@ -32,7 +32,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**杆**(rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。
 
-把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为那处接头算过一笔**账**(sums)。
+把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为它算过一笔**账**(sums)。
 
 哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，**上层**(upper)天桥上站着不到十人，下层不到六十人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。
 

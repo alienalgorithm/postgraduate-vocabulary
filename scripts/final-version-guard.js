@@ -71,11 +71,11 @@ const VERSION_IDS = {
   '17': '17-268-word-final-locked',
   '18': '18-271-word-final-locked',
   '19': '19-271-word-final-locked',
-  '20': '20-267-word-final-locked',
+  '20': '20-268-word-final-locked',
   '21': '21-271-word-final-locked',
   '22': '22-271-word-final-locked',
   '23': '23-271-word-final-locked',
-  '24': '24-262-word-final-locked',
+  '24': '24-261-word-final-locked',
   '25': '25-267-word-final-locked',
   '26': '26-267-word-final-locked',
   '27': '27-271-word-final-locked',
@@ -527,7 +527,7 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **271词 · 50词 · 18.5%** |')) {
     errors.push('README article 19 final row is stale');
   }
-  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267词 · 50词 · 18.7%** |')) {
+  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **268词 · 50词 · 18.7%** |')) {
     errors.push('README article 20 final row is stale');
   }
   if (!readme.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **271词 · 50词 · 18.5%** |')) {
@@ -549,7 +549,7 @@ function validateManifest(articles, manifest) {
   if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **271 / 50 / 18.5%** | **第十九篇最终精进锁定稿** |')) {
     errors.push('handoff article 19 final row is stale');
   }
-  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **267 / 50 / 18.7%** | **第二十篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **268 / 50 / 18.7%** | **第二十篇最终精进锁定稿** |')) {
     errors.push('handoff article 20 final row is stale');
   }
   if (!handoff.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **271 / 50 / 18.5%** | **第二十八篇最终精进锁定稿** |')) {
