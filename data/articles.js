@@ -39,8 +39,8 @@ window.SITE = {
         "zh": "死亡**区域**(zone)之内，一所收容535名**院民**(inmates)的**济贫院**(workhouse)有自己的**钻井**(borehole)，**记录在案**(recorded)的死亡只有五例。紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，因为工人的**配给**(supplied)是啤酒。两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；空气一模一样，水不是。"
       },
       {
-        "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **drank** the same bottle and died next day. Only those two deaths could **refute** the **miasma**. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.",
-        "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。能**驳倒**(refute)**瘴气说**(miasma)的，只有这两个人。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。"
+        "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **drank** the same bottle and died next day. Those two deaths **refute** the **miasma** by themselves. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.",
+        "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。"
       },
       {
         "en": "On 8 September the **parish** **removed** the pump **handle**. **Diggers** found the leaking **cesspit** two feet eight inches away that autumn. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, his **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
@@ -321,9 +321,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第二篇最终精进锁定稿",
     "metrics": {
-      "words": 269,
+      "words": 271,
       "keywords": 50,
-      "density": 18.6
+      "density": 18.5
     },
     "paras": [
       {
@@ -343,8 +343,8 @@ window.SITE = {
         "zh": "后来生物学家找到了来源：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。"
       },
       {
-        "en": "Galápagos **revealed** a second **footing** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **habitable** **boundary**: a place needs light, or **chemistry** holding a **gradient** open. They went down for Earth's heat and came back with a garden that never needed sun.",
-        "zh": "加拉帕戈斯**揭示**(revealed)了生命的第二个**立足点**(footing)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了“**宜居**(habitable)”的**边界**(boundary)：一个地方要么有光，要么有能撑开一道**梯度**(gradient)的**化学过程**(chemistry)。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。"
+        "en": "Galápagos **revealed** a second **footing** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **habitable** **boundary**: a place needs a **gradient** held open, by light or by **chemistry**. They went down for Earth's heat and came back with a garden that never needed sun.",
+        "zh": "加拉帕戈斯**揭示**(revealed)了生命的第二个**立足点**(footing)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了“**宜居**(habitable)”的**边界**(boundary)：一个地方需要的是一道被撑开的**梯度**(gradient)——由光撑开，或由**化学过程**(chemistry)撑开。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。"
       }
     ],
     "glossary": [
@@ -589,13 +589,13 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "chemistry",
-        "zh": "化学过程；化学",
+        "w": "gradient",
+        "zh": "梯度；坡度",
         "p": 5
       },
       {
-        "w": "gradient",
-        "zh": "梯度；坡度",
+        "w": "chemistry",
+        "zh": "化学过程；化学",
         "p": 5
       }
     ],

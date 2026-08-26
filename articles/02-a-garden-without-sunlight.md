@@ -2,7 +2,7 @@
 
 > 题材：1977 年加拉帕戈斯热液喷口
 > 状态：**第二篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 一支没有生物学家的地质考察队，去两千五百米深处找热水，却撞见一个不靠阳光活着的世界——以及一种放弃了进食、把自己变成宿主的动物。
 
 ---
@@ -17,7 +17,7 @@ No **biologist** had gone along; nobody thought one necessary. So nobody could s
 
 Biologists later found the source in **bacteria** that **oxidise** sulphide and build **organic** matter from carbon dioxide — chemosynthesis, not **photosynthesis**. Clams **graze** them; the giant tube **worm** goes further. An adult two metres long has no mouth and no **gut**, only an organ **housing** the **microbes**: an animal that gave up feeding to become a **host**.
 
-Galápagos **revealed** a second **footing** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **habitable** **boundary**: a place needs light, or **chemistry** holding a **gradient** open. They went down for Earth's heat and came back with a garden that never needed sun.
+Galápagos **revealed** a second **footing** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **habitable** **boundary**: a place needs a **gradient** held open, by light or by **chemistry**. They went down for Earth's heat and came back with a garden that never needed sun.
 
 ---
 
@@ -34,7 +34,7 @@ ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面�
 
 后来生物学家找到了来源：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。
 
-加拉帕戈斯**揭示**(revealed)了生命的第二个**立足点**(footing)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了“**宜居**(habitable)”的**边界**(boundary)：一个地方要么有光，要么有能撑开一道**梯度**(gradient)的**化学过程**(chemistry)。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。
+加拉帕戈斯**揭示**(revealed)了生命的第二个**立足点**(footing)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了“**宜居**(habitable)”的**边界**(boundary)：一个地方需要的是一道被撑开的**梯度**(gradient)——由光撑开，或由**化学过程**(chemistry)撑开。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。
 
 ---
 
@@ -48,7 +48,7 @@ ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面�
 
 **§4**（10词）bacteria 细菌｜oxidise 氧化｜organic 有机的｜photosynthesis 光合作用｜graze 啃食；放牧｜worm 虫｜gut 肠道｜housing 养着｜microbes 微生物｜host 宿主；主人
 
-**§5**（10词）revealed 揭示｜footing 立足处；基础｜web 网｜sustained 支撑；维持｜planet 行星｜widened 拓宽｜habitable 宜居的｜boundary 边界｜chemistry 化学过程；化学｜gradient 梯度；坡度
+**§5**（10词）revealed 揭示｜footing 立足处；基础｜web 网｜sustained 支撑；维持｜planet 行星｜widened 拓宽｜habitable 宜居的｜boundary 边界｜gradient 梯度；坡度｜chemistry 化学过程；化学
 
 ---
 
