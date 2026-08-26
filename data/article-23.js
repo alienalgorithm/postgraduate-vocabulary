@@ -29,8 +29,8 @@
           "zh": "1986年，纳伯勒的警方来求助。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的厨房帮工理查德·巴克兰**认**(confessed)了一桩、不认另一桩——一个在无**事务律师**(solicitor)在场时受讯的**未成年人**(juvenile)。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。"
         },
         {
-          "en": "Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 for one reason: he had **persuaded** a **workmate** to give a **sample** in his name; the man talked, and his bands fitted both **crimes**. The negative named a **killer** at last; its first two **verdicts** were **denials**.",
-          "zh": "警方随后**逐户走访**(canvassed)了五千名男子；没有一份**吻合**(matched)。科林·皮奇福克1987年被**捕**(arrested)，原因只有一个：他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，那人说了出去，而他自己的条带与两起**案子**(crimes)对得上。这张负片最终指出了**凶手**(killer)，可它头两次**判词**(verdicts)都是**否定**(denials)。"
+          "en": "Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 for one reason: he **persuaded** a **workmate** to give a **sample** in his name; the man talked, and his bands fitted both **crimes**. The negative named a **killer** at last; the method's first two **verdicts** were **denials**.",
+          "zh": "警方随后**逐户走访**(canvassed)了五千名男子；没有一份**吻合**(matched)。科林·皮奇福克1987年被**捕**(arrested)，原因只有一个：他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，那人说了出去，而他自己的条带与两起**案子**(crimes)对得上。这张负片最终指出了**凶手**(killer)，可这项技术头两次**判词**(verdicts)都是**否定**(denials)。"
         }
       ],
       "facts": [
