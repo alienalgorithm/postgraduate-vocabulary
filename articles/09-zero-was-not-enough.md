@@ -15,7 +15,7 @@ The **disease** killed roughly three in ten it **struck**, leaving many **surviv
 
 The method came from a **shortage**. During the Biafran war William Foege took a radio call on a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum**. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**: chase cases, not coverage.
 
-A report triggered inquiry: isolate the sick, trace **contacts**, vaccinate those and theirs. Freeze-dried vaccine held at 45°C for **tropical** storage; a **bifurcated** **needle** held a **dose** between its prongs, brief **instruction** let a worker **pierce** the arm and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
+A report triggered inquiry: isolate the sick, trace **contacts**, vaccinate those and theirs. Freeze-dried vaccine **withstood** 45°C, so tropical storage held; a **bifurcated** **needle** held a **dose** between its prongs, brief **instruction** let a worker **pierce** the arm and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
 
 India was the hardest test: two-thirds of the **caseload** in 1974, its **chains** **broken** by 1975. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979, the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
 
@@ -32,7 +32,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 方法是从**短缺**(shortage)里逼出来的。比夫拉战争期间，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。
 
-此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗在45摄氏度下仍稳定，**热带**(tropical)储运因此可行；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
+此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗**耐得住**(withstood)45摄氏度，热带储运因此撑得起来；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
 
 最难的一关是印度：1974年它占了全世界**病例总量**(caseload)的三分之二；到1975年5月，它的传播**链**(chains)被**切断**(broken)。1978年伯明翰一次**实验室**(laboratory)**泄漏**(leak)夺走了珍妮特·帕克的命。1979年一个委员会**认证**(certified)根除，1980年5月世界卫生大会正式**宣布**(declared)。马阿林2013年死于疟疾，当时他正在为消灭**脊灰**(polio)奔走。零从来不能证明天花已经**消失**(vanished)；是搜寻把「没有」变成了人们可以**依靠**(rely)的证据。
 
@@ -46,7 +46,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 **§3**（10词）shortage 短缺｜suspected 疑似的｜serum 疫苗；血清｜ringed 围成一圈｜kinship 亲缘｜bazaar 集市｜surveillance 监测｜containment 围堵｜standing 常设的｜strategy 方略
 
-**§4**（10词）contacts 接触者（复）｜tropical 热带的｜bifurcated 双叉的｜needle 针｜dose 剂量｜instruction 培训；指示｜pierce 刺入｜scarce 紧缺的｜silent 不声不响的｜incubation 潜伏期
+**§4**（10词）contacts 接触者（复）｜withstood 耐住；顶住｜bifurcated 双叉的｜needle 针｜dose 剂量｜instruction 培训；指示｜pierce 刺入｜scarce 紧缺的｜silent 不声不响的｜incubation 潜伏期
 
 **§5**（10词）caseload 病例总量｜chains 链｜broken 切断｜laboratory 实验室｜leak 泄漏｜certified 认证｜declared 宣布｜polio 脊髓灰质炎｜vanished 消失｜rely 依靠
 
