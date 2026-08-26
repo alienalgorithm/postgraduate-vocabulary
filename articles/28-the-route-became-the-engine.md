@@ -2,7 +2,7 @@
 
 > 题材：20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠
 > 状态：**第二十八篇最终精进锁定稿**（2026-08-24）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 旅行者2号不是只靠火箭逐段飞向四颗外行星。任务设计把行星自身的轨道运动写进路线：每次飞掠既是一次抵达，也改变速度与方向，为下一段旅程提供条件。
 
 ---
@@ -15,7 +15,7 @@ Computation made the geometry **usable**. At JPL, Michael Minovitch developed **
 
 Near a planet, a craft follows a **curve**. Speed gained **inbound** is lost **outbound**, a **reciprocal** pattern in the planet's **co-moving** frame. Yet gravity **bends** its velocity **vector**. In the Sun's frame, **adding** planetary orbital velocity turns that deflection into a change in **kinetic** energy. Angular momentum changes hands; the planet's response is **imperceptible**.
 
-Voyager 2 launched in 1977. Jupiter in 1979 **pushed** it towards Saturn; Saturn in 1981 bent it towards Uranus; Uranus in 1986 sent it towards Neptune in 1989. Each **approach** required precise **targeting** at a prescribed **epoch**. A course **adjustment** could shift **downstream** geometry years later. The four **waypoints** formed one **interdependent** **cascade**, not a **piecemeal** itinerary.
+Voyager 2 launched in 1977. Jupiter in 1979 **pushed** it towards Saturn; Saturn in 1981 bent it towards Uranus; Uranus in 1986 sent it towards Neptune in 1989. Each **approach** required precise **targeting** at a prescribed **epoch**. A course **adjustment** could shift **downstream** geometry years later. **Designers** weighed ten thousand **candidate** **trajectories**; the four waypoints were one **cascade**.
 
 Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet can **augment** Sun-relative speed; passing ahead can **decelerate** it. **Conservation** holds: the planet **loses** or receives a **minuscule** share of orbital energy. Rockets handled launch and **trim** burns; the propellant **limitation** remained, but the route became an **asset**, supplementing rocket **propulsion**.
 
@@ -32,7 +32,7 @@ Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet 
 
 在行星附近，探测器沿一条**曲线**(curve)运动。**接近时**(inbound)获得的增速会在**远离时**(outbound)失去；这种**互反**(reciprocal)关系成立于行星的**共动**(co-moving)参考系中。然而，引力仍会使它的速度**矢量**(vector)发生**偏折**(bends)。在太阳的参考系中，**叠加**(adding)，行星的轨道速度一经叠加到前述矢量上，这种偏转便表现为探测器**动能**(kinetic)的变化。角动量在两者之间转移；行星的响应**微小到不可察觉**(imperceptible)。
 
-旅行者2号于1977年发射。1979年，木星把它**推**(pushed)向土星；1981年，土星把它的轨道弯向天王星；1986年，天王星又把它送往海王星，并于1989年完成飞掠。每一次**接近**(approach)，都必须在规定的**时刻**(epoch)完成精准**瞄准**(targeting)。一次航向**微调**(adjustment)，可能在数年后改变**后续的**(downstream)轨道几何。四个**航路点**(waypoints)构成一条**相互依存的**(interdependent)**级联链**(cascade)，而不是一份**零碎拼凑的**(piecemeal)行程。
+旅行者2号于1977年发射。1979年，木星把它**推**(pushed)向土星；1981年，土星把它的轨道弯向天王星；1986年，天王星又把它送往海王星，并于1989年完成飞掠。每一次**接近**(approach)，都必须在规定的**时刻**(epoch)完成精准**瞄准**(targeting)。一次航向**微调**(adjustment)，可能在数年后改变**后续的**(downstream)轨道几何。**设计者**(designers)比过一万条**备选**(candidate)**轨道**(trajectories)；那四个航路点是一条**级联链**(cascade)。
 
 引力助推绝不是**永动机式的**(perpetual-motion)把戏。从一颗沿轨道运动的行星后方掠过，可以**增加**(augment)相对于太阳的速度；从前方掠过，则可以让探测器**减速**(decelerate)。**守恒定律**(Conservation)仍然成立：行星**失去**(loses)或接收的，只是其轨道能量中**微乎其微的**(minuscule)一份。火箭负责发射和**轨道微调**(trim)点火；推进剂**限制**(limitation)依然存在，但路线变成了一项**有利条件**(asset)，为火箭**推进**(propulsion)提供了补充。
 
@@ -46,7 +46,7 @@ Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet 
 
 **§3**（10词）curve 曲线｜inbound 向内飞行的；接近时｜outbound 向外飞行的；远离时｜reciprocal 互反的；相互的｜co-moving 共动的｜bends 使弯折｜vector 矢量｜adding 叠加｜kinetic 动能的；运动的｜imperceptible 难以察觉的
 
-**§4**（10词）pushed 推｜approach 接近；进场｜targeting 瞄准；目标定位｜epoch 历元；规定时刻｜adjustment 调整；微调｜downstream 后续的；下游的｜waypoints 航路点｜interdependent 相互依存的｜cascade 级联；连锁｜piecemeal 零碎拼凑的；逐步的
+**§4**（10词）pushed 推｜approach 接近；进场｜targeting 瞄准；目标定位｜epoch 历元；规定时刻｜adjustment 调整；微调｜downstream 后续的；下游的｜designers 设计者（复）｜candidate 备选的｜trajectories 轨道（复）｜cascade 级联；连锁
 
 **§5**（10词）perpetual-motion 永动的｜augment 增加；增强｜decelerate 减速｜conservation 守恒；保护｜loses 失去｜minuscule 微小的｜trim 微调；配平｜limitation 限制｜asset 资产；有利条件｜propulsion 推进
 
