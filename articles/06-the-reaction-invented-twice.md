@@ -2,7 +2,7 @@
 
 > 题材：Haber–Bosch 合成氨与工业放大
 > 状态：**第六篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 哈伯的台式装置每小时产氨125毫升；四年后奥保工厂每天四十吨。同一个反应，中间隔着一次完全独立的发明。
 
 ---
@@ -17,7 +17,7 @@ The factory was another matter. Hot hydrogen entered **steel** and stripped its 
 
 Oppau opened in September 1913. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests** across Europe, and famine forecasts went quiet. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
 
-Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.
+Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for those fuels, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.
 
 ---
 
@@ -34,7 +34,7 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 
 1913年9月，奥保工厂开工。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)32万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
 
-如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那部分氢，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。
+如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那些化石燃料，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。
 
 ---
 

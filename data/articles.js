@@ -619,9 +619,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第三篇最终精进锁定稿",
     "metrics": {
-      "words": 271,
+      "words": 267,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.7
     },
     "paras": [
       {
@@ -633,8 +633,8 @@ window.SITE = {
         "zh": "从1981年起，10月的**读数**(readings)开始下滑。乔·法曼**判断**(reckoned)是自己那台**老化**(ageing)的光学件走偏了，便订了一台**替换机**(replacement)；两台读数**吻合**(agreed)。一千英里外的另一处**观测点**(outpost)，也出现了同样**年复一年**(recurring)的**下降**(decline)。到1984年10月，总量已比1960年代低了40%。可队里仍在**犹豫**(hesitated)：**轨道**(orbit)上一直没有消息。"
       },
       {
-        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, NASA staff checked against the South Pole record and found it **erroneous**, its **calibration** long lost. Nobody went back, and the low numbers stayed **unconfirmed**. Farman published anyway.",
-        "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，却发现那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
+        "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, NASA staff read the South Pole record — itself **erroneous**, its **calibration** long lost. Nobody went back; the low numbers stayed **unconfirmed**. Farman published anyway.",
+        "zh": "“云雨七号”自1978年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于180多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，而那份记录**本身**就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
       },
       {
         "en": "*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, **stratospheric** clouds **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.",
@@ -1516,7 +1516,7 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第六篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 271,
       "keywords": 50,
       "density": 18.5
     },
@@ -1538,8 +1538,8 @@ window.SITE = {
         "zh": "1913年9月，奥保工厂开工。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)32万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。"
       },
       {
-        "en": "Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for it, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.",
-        "zh": "如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那部分氢，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。"
+        "en": "Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for those fuels, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.",
+        "zh": "如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那些化石燃料，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。"
       }
     ],
     "glossary": [
