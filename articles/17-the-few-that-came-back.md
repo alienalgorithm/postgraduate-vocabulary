@@ -15,7 +15,7 @@ Most passed through the foil or changed direction only **slightly**. Yet a few u
 
 Thomson's atom contained **electrons** **embedded** in **diffuse** positive charge. Each **encounter** delivered only a weak push. In 1911 Rutherford required an **intense** **impulse** from a compact centre. Most of the **atomic** **volume** was empty; mass and charge were **concentrated** in the tiny body later called the **nucleus**.
 
-Rutherford did more than explain the anomaly: he risked being wrong. At a fixed large angle, its **formula** predicted counts **proportional** to foil **thickness** and the **square** of the central charge, but **inversely** proportional to the fourth power of alpha velocity. Geiger and Marsden's **systematic** 1912–13 measurements tested those **quantitative** predictions; the **angular** **distribution** provided **confirmation**.
+Rutherford did more than explain the anomaly: he risked being wrong. At a fixed large angle, his **formula** predicted counts **proportional** to foil **thickness** and the **square** of the central charge, but **inversely** proportional to the fourth power of alpha velocity. Geiger and Marsden's **systematic** 1912–13 measurements tested those **quantitative** predictions; the **angular** **distribution** provided **confirmation**.
 
 Three men made it **collective**: Marsden counted flashes, Geiger brought experimental **discipline**, Rutherford made the **deduction**. Between them they built an **empirical** **framework** linking observation to prediction. **Textbooks** **retell** it as a single **revelation**. The **outliers** mattered because a team counted them—and let the few that came back **overturn** the model the many seemed to confirm.
 
@@ -32,7 +32,7 @@ Three men made it **collective**: Marsden counted flashes, Geiger brought experi
 
 汤姆孙的原子模型认为，**电子**(electrons)**嵌在**(embedded)**弥散的**(diffuse)正电荷中。每次**相遇**(encounter)只能给阿尔法粒子一个微弱推力。1911年卢瑟福提出，粒子必须从一个紧凑中心获得一次**强烈的**(intense)**冲量**(impulse)。**原子的**(atomic)大部分**体积**(volume)其实是空的；质量和电荷则**集中在**(concentrated)一个后来被称为**原子核**(nucleus)的微小实体中。
 
-卢瑟福做的不只是解释这处异常：他让自己冒了被推翻的险。在一个给定的大角度上，它的**公式**(formula)预测，粒子计数应与薄箔**厚度**(thickness)和中心电荷的**平方**(square)成**正比**(proportional)，却应与阿尔法粒子速度的四次方成**反比**(inversely)。盖革和马斯登在1912至1913年**系统开展的**(systematic)测量检验了这些**定量的**(quantitative)预测；散射粒子的**角度**(angular)**分布**(distribution)为理论提供了**佐证**(confirmation)。
+卢瑟福做的不只是解释这处异常：他让自己冒了被推翻的险。在一个给定的大角度上，他的**公式**(formula)预测，粒子计数应与薄箔**厚度**(thickness)和中心电荷的**平方**(square)成**正比**(proportional)，却应与阿尔法粒子速度的四次方成**反比**(inversely)。盖革和马斯登在1912至1913年**系统开展的**(systematic)测量检验了这些**定量的**(quantitative)预测；散射粒子的**角度**(angular)**分布**(distribution)为理论提供了**佐证**(confirmation)。
 
 是三个人**共同**(collective)做成的：马斯登逐一计数闪光，盖革保证实验**严谨有序**(discipline)，卢瑟福则得出关键**推论**(deduction)。三人合力搭起一套**以观察为依据的**(empirical)**框架**(framework)，把观测与预测连了起来。**教科书**(textbooks)把它**复述**(retell)成一次**顿悟**(revelation)。但真正重要的，是那些**离群结果**(outliers)被一支团队认真计数；正是少数折返的粒子，最终**推翻了**(overturn)多数粒子似乎正在证实的模型。
 
