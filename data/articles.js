@@ -21,9 +21,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第一篇最终精进锁定稿",
     "metrics": {
-      "words": 270,
+      "words": 269,
       "keywords": 50,
-      "density": 18.5
+      "density": 18.6
     },
     "paras": [
       {
@@ -43,8 +43,8 @@ window.SITE = {
         "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。"
       },
       {
-        "en": "On 8 September the **parish** **removed** the pump **handle**. **Diggers** found the leaking **cesspit** two feet eight inches away that autumn. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, his **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
-        "zh": "9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。那年秋天，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，他那个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。"
+        "en": "On 8 September the **parish** **removed** the pump **handle**. **Diggers** later found the leaking **cesspit** two feet eight inches away. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, his **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
+        "zh": "9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。后来，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，他那个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。"
       }
     ],
     "glossary": [
@@ -308,7 +308,8 @@ window.SITE = {
       "斯诺 1858 年去世，病菌说数十年后才被接受。　[Wikipedia：John Snow](https://en.wikipedia.org/wiki/John_Snow)",
       "来源：[John Snow 1855年《霍乱的传播方式》原著](https://wellcomecollection.org/works/uqa27qrt)",
       "来源：[1855年圣詹姆斯教区霍乱调查报告](https://wellcomecollection.org/works/z8xczc2r)",
-      "来源：[伦敦卫生与热带医学院：宽街水泵与1854年疫情](https://www.lshtm.ac.uk/newsevents/news/2019/john-snow-memorial-pump-marking-historic-cholera-outbreak-reinstalled-its)"
+      "来源：[伦敦卫生与热带医学院：宽街水泵与1854年疫情](https://www.lshtm.ac.uk/newsevents/news/2019/john-snow-memorial-pump-marking-historic-cholera-outbreak-reinstalled-its)",
+      "**已核（2026-08-20 逐条上网）· 五项无误，一处时间点已改为不依赖**：\n**无误五项**：十天内 **616 人**死亡（维基「1854 Broad Street cholera outbreak」明载）；波兰街济贫院 **535 人中仅 5 人**病故，因其自有水井；狮牌啤酒厂工人无一人死，因喝自酿啤酒并用自家深井；**1854年9月8日拆下泵柄**（斯诺 7 日晚向教区委员会陈情，8 日晨工人拆柄）；斯诺 **1858年6月16日卒**（10 日中风，六日后去世，年 45），未及见巴斯德与科赫证实其说。\n**粪坑距井 两英尺八英寸**（0.81 米）与他处所记「不到一米」「约三英尺」相符，砖砌已朽。\n**一处时间点已改为不依赖**：原文作「that autumn」（1854年秋）。实况是——怀特黑德 1854 年 11 月才加入教区霍乱调查委员会，**查出索引病例（40号 Broad Street 的婴儿 Frances Lewis）与开挖粪坑均在 1855 年**，委员会报告 1855 年 7 月才刊出。已改为 **later**，不再指认季节。[Wikipedia：1854 Broad Street cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)｜[Sick City Project：John Snow and cholera](https://sickcityproject.wordpress.com/2013/03/11/john-snow-and-cholera/)｜[Look Up London：The Deadly History of This Soho Water Pump](https://lookup.london/john-snow-water-pump/)"
     ]
   },
     {
