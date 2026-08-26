@@ -2,7 +2,7 @@
 
 > 题材：1948 年香农与信息论
 > 状态：**第七篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 香农在第一页就把含义搁到一边——正是这份克制，让一条信道不必读懂消息也能把它完好送到。
 
 ---
@@ -13,7 +13,7 @@ In 1948 Claude Shannon published a theory of **messages** and set meaning aside.
 
 The question made information **countable**. If eight **outcomes** are **equally** **probable**, identifying one takes three yes-or-no decisions: three **bits**. A certain event says nothing; a **surprising** one says more. He measured surprise with **probability**; von Neumann urged the name **entropy**, base two gave the unit, a **contraction** of **binary** digit, named by John Tukey.
 
-Written English is **lopsided**. Letters counted **singly** give 4.14 bits each, but they are **predictable** from neighbours, and **guessing** experiments he published in 1951 put the true figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means selling it back: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.
+Written English is **lopsided**. Letters counted **singly** give 4.14 bits each, but they are **predictable** from neighbours, and **guessing** experiments he published in 1951 put the true figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means spending it: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.
 
 **Noise** inverts the argument. A channel **corrupts** symbols, so an **encoder** puts redundancy back **deliberately**, spacing codewords so a damaged one still **decodes** correctly. Every channel has a ceiling on **throughput**: below it, long codes drive the **error** rate **arbitrarily** near zero; above it, no **scheme** keeps **transmission** reliable.
 
@@ -30,7 +30,7 @@ The proof was not **constructive**. He showed good codes exist without **exhibit
 
 这个窄问题让信息变得**可数**(countable)。若八种**结果**(outcomes)**等**(equally)**概率**(probable)，认出其中一种需要三次是非判断，也就是三个**比特**(bits)。必然发生的事什么也没说；**出人意料的**(surprising)那件说得更多。他用**概率**(probability)去度量这份意外；冯·诺依曼劝他叫它**熵**(entropy)，以2为底给出了单位，即**二进制**(binary)数字的**缩写**(contraction)，由约翰·图基起名。
 
-书面英语是**偏斜的**(lopsided)。把字母**逐个**(singly)来数，每个字母是4.14比特；可字母能从相邻字母**推得出来**(predictable)，香农1951年发表的**猜字**(guessing)实验把真实值压到0.6至1.3之间。这中间的落差就是**冗余**(redundancy)；**压缩**(shrinking)一个文件，就是把这份冗余卖回去：给**高频**(frequent)**字符**(characters)配**更短的**(shorter)**码字**(codewords)，其余的配长的。
+书面英语是**偏斜的**(lopsided)。把字母**逐个**(singly)来数，每个字母是4.14比特；可字母能从相邻字母**推得出来**(predictable)，香农1951年发表的**猜字**(guessing)实验把真实值压到0.6至1.3之间。这中间的落差就是**冗余**(redundancy)；**压缩**(shrinking)一个文件，就是把这份冗余花掉：给**高频**(frequent)**字符**(characters)配**更短的**(shorter)**码字**(codewords)，其余的配长的。
 
 **噪声**(Noise)把这套逻辑反了过来。信道会**弄坏**(corrupts)符号，于是**编码器**(encoder)**刻意**(deliberately)把冗余加回去，让码字彼此隔得够开，坏掉一个仍能正确**译回**(decodes)。每条信道都有一个**吞吐量**(throughput)上限：在上限之下，足够长的码能把**错误**(error)率压到**任意**(arbitrarily)接近零；在上限之上，没有任何**方案**(scheme)能让**传输**(transmission)可靠。
 

@@ -2,7 +2,7 @@
 
 > 题材：1908—1912 年莱维特与造父变星周光关系
 > 状态：**第八篇最终精进锁定稿**（2026-08-15）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 她时薪三毛，不被允许靠近望远镜；而那篇让宇宙第一次可以量的通报，署的是她上司的名字。
 
 ---
@@ -17,7 +17,7 @@ By 1912 she had periods for 25 stars. The **tendency** held: longer **periods**,
 
 Later astronomers **pegged** it to Cepheid distances known independently. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used it to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; astronomers built on it a **foundation** for the **universe**'s **expansion**.
 
-Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation, letting others **infer** distances they could not measure. Mittag-Leffler moved to nominate her for the 1926 Nobel, unaware she had died in 1921. The **honour** is never **posthumous**.
+Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation, letting others **infer** distances they could not measure. Mittag-Leffler moved to nominate her for the 1926 Nobel, unaware she had died in 1921. A **posthumous** **honour** cannot reach four years back.
 
 ---
 
@@ -34,7 +34,7 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 后来的天文学家把它**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用它**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家由此为测量**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。
 
-她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。米塔-列夫勒着手提名她角逐1926年的诺贝尔奖，却不知她已在1921年去世。这项**荣誉**(honour)从不**追授**(posthumous)。
+她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。米塔-列夫勒着手提名她角逐1926年的诺贝尔奖，却不知她已在1921年去世。**追授**(posthumous)的**荣誉**(honour)伸不到四年之前。
 
 ---
 
@@ -48,7 +48,7 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 **§4**（10词）peg 钉｜yardstick 尺；准绳｜predict 预测的｜reach 距程；触及范围｜establish 确立；证实｜galaxy 星系｜beyond 在……之外｜foundation 基础｜universe 宇宙｜expansion 膨胀；扩张
 
-**§5**（10词）contribution 贡献｜crucial 至关重要的｜modest 克制的；有限的｜eliminate 排除；消除｜factor 因素｜constant 不变的；常量｜isolate 分离｜infer 推断｜honour 荣誉｜posthumous 追授的；身后的
+**§5**（10词）contribution 贡献｜crucial 至关重要的｜modest 克制的；有限的｜eliminate 排除；消除｜factor 因素｜constant 不变的；常量｜isolate 分离｜infer 推断｜posthumous 追授的；身后的｜honour 荣誉
 
 ---
 
@@ -64,3 +64,6 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 - **1925年，瑞典数学家约斯塔·米塔-列夫勒去信拟提名莱维特角逐诺贝尔物理学奖，不知她已于1921年病逝；该奖不追授。**[Spacedaily：the scale of the universe](https://spacedaily.com/t-much-of-what-we-know-about-the-scale-of-the-universe-rests-on-a-method-worked-out-by-a-woman-employed-as-a-human-computer-at-harvard-for-a-few-cents-an-hour/)
 - 莱维特1908年《麦哲伦云中的1777颗变星》一文中，列出周期已定的变星共16颗，并指出较亮者周期较长；1912年的通报把样本扩至25颗。　**已核**：1908年《麦哲伦云中的1777颗变星》（小云969颗、大云808颗）；其中周期已定者16颗，指出较亮者周期较长；1912年通报把样本扩至25颗，由皮克林署名而首句注明「由莱维特小姐编制」。[Wikipedia：Henrietta Swan Leavitt](https://en.m.wikipedia.org/wiki/Henrietta_Swan_Leavitt)｜[AAS：This Month in Astronomical History](https://aas.org/posts/news/2018/07/month-astronomical-history)
 - **诺贝尔提名（2026-08-16 订正）**：原记为「1925年米塔格-莱夫勒写信提名」，查证后改为**冲着1926年的物理学奖**——多方来源一致：他着手提名时才得知莱维特已于1921年12月12日病逝，而诺贝尔奖不追授。[Famous Scientists：Henrietta Swan Leavitt](https://www.famousscientists.org/henrietta-swan-leavitt/)｜[Wikipedia：Henrietta Swan Leavitt](https://en.m.wikipedia.org/wiki/Henrietta_Swan_Leavitt)
+- **已核（2026-08-20）· §5 收束句一处硬错已订正**：原句「The honour is **never** posthumous.」——**这是错的。**
+**1974 年之前，诺贝尔奖是可以追授的**：只要在当年 2 月 1 日前已获提名即可。史上确曾追授两次——**卡尔费尔特（1931 年文学奖）与哈马舍尔德（1961 年和平奖）**。「不得追授」这条规则**是 1974 年才写进基金会章程的，比莱维特去世晚 53 年**。（另：2011 年斯坦曼在公布前三天去世，基金会依「善意作出」之解释仍予保留。）
+**真正的障碍不是「从不追授」，而是时间跨度**：追授只适用于在当届提名后去世者，而莱维特 1921 年去世、米塔-列夫勒 1925 年才着手提名，中间隔了四年，**提名伸不到那么远**。已改为 **A posthumous honour could not reach four years back.**[NobelPrize.org FAQ](https://www.nobelprize.org/frequently-asked-questions/)｜[NobelPrize.org：Nobel Prize facts](https://www.nobelprize.org/prizes/facts/nobel-prize-facts/)
