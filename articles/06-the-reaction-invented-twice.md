@@ -2,7 +2,7 @@
 
 > 题材：Haber–Bosch 合成氨与工业放大
 > 状态：**第六篇最终精进锁定稿**（2026-08-15）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 哈伯的台式装置每小时产氨125毫升；四年后奥保工厂每天四十吨。同一个反应，中间隔着一次完全独立的发明。
 
 ---
@@ -15,7 +15,7 @@ In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Ka
 
 The factory was another matter. Hot hydrogen entered **steel** and stripped its **carbon**, leaving **vessels** brittle. Bosch answered with a double-**walled** tube whose **liner** vented hydrogen before it **weakened** the shell. Osmium was too rare for commerce; Alwin Mittasch **sifted** 2,500 **catalysts** through 6,500 runs and settled on magnetite, whose **potassium** and **alumina** made cheap iron work.
 
-Oppau opened in September 1913. By 1914 it was making forty **tonnes** a day — the same reaction **magnified** 320,000 times. **Fertiliser** lifted **harvests** across Europe, and famine forecasts went quiet. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
+Oppau opened in September 1913. By 1914 it made forty **tonnes** a day — one reaction **magnified** twenty thousandfold. **Fertiliser** lifted **harvests** across Europe, and famine forecasts went quiet. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
 
 Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for those fuels, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.
 
@@ -32,7 +32,7 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 
 工厂是另一回事。热氢钻进**钢**(steel)里，把其中的**碳**(carbon)夺走，**容器**(vessels)因此变脆。博施的答案是一根双层**壁**(walled)管：内**衬**(liner)在氢**削弱**(weakened)承压外壳之前就把它放掉。锇对商业化来说太稀有；阿尔文·米塔施把2500种**催化剂**(catalysts)**筛**(sifted)过6500轮，最后选中瑞典磁铁矿——其中微量的**钾**(potassium)与**铝土**(alumina)让便宜的铁也管用。
 
-1913年9月，奥保工厂开工。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)32万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
+1913年9月，奥保工厂开工。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)了两万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
 
 如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那些化石燃料，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。
 
@@ -63,3 +63,9 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 - 奥保工厂1913年9月投产，距1909年7月的台式演示四年零两个月；**1914年日产氨约40吨，约为实验室每小时125毫升的32万倍**。一战期间英国海上封锁切断智利硝石供应，氨经氧化制硝酸，转而供给炸药与弹药。哈伯、博施分获1918与1931年诺贝尔化学奖。[Execution Atlas：Haber-Bosch 数据与时间线](https://execution-atlas.com/en/articles/haber-bosch-process/)｜[Chemistry World](https://www.chemistryworld.com/features/a-fixation-with-nitrogen/6076.article)
 - 当代合成氨仍沿用可辨识的哈伯法，只是改用铁基催化剂并强化热回收；其能耗约占全球能源的1%—2%，所需氢多来自化石燃料，排放集中在上游。可再生电力制氢可替代该部分氢源，提高施肥效率则可抑制过量氮向水体与大气的流失。[Cambridge Core：HB 工艺综述](https://resolve.cambridge.org/core/product/F1159C9DB99D2B99D3B78518CCB4E90D/core-reader)
 - **放大倍数的算法**：实验室每小时125毫升氨（密度约0.73 g/L，约0.09克/小时，合约2.2克/日）；1914年奥保日产40吨。两者相差约3.2×10⁵倍，正文取「放大32万倍」。　**已核且标注存疑**：125 毫升/小时、奥保 1913 年 9 月启用、米塔施筛选逾 2500 种配方，三项均获来源印证。但「1914 年日产 40 吨」**两说并存**：Wikipedia／HandWiki 记为 20 吨/日，另有来源记为 40 吨/日并据此给出「约 32 万倍」。正文取 40 吨与 320,000 倍，采自后者；若采前者则约为 16 万倍。**此数字存争议，读者宜知。**[Wikipedia：Haber process](https://handwiki.org/wiki/Chemistry:Haber_process)
+- **已核（2026-08-20 逐条上网）· 抓出一处倍数算错**：
+**原文作「the same reaction magnified 320,000 times」——这个倍数经不起算。**
+125 毫升/时的液氨（密度约 0.682 g/mL）约合 85 克/时、即 **约 2 公斤/日**；日产 40 吨 ÷ 2 公斤/日 ≈ **两万倍**。按小时算亦同：40 吨/日 = 1,667 公斤/时，÷ 0.085 公斤/时 ≈ **19,600 倍**。
+**三十二万这个数是怎么来的**：把 40 吨当作 40,000,000 毫升（即按 1 g/mL 计）再除以 125 毫升 = 320,000——**这是拿「一天的产量」去除「一小时的产量」，单位对不上**。已改为 **twenty thousandfold**／「放大了两万倍」。
+**无误三项**：1909 年夏哈伯与勒罗西尼奥尔的台式装置产氨 **约 125 毫升/时**（多处一致，1909年7月2日以锇作催化剂作最终演示）；**米塔施至 1910 年在 6,500 次试验中筛过 2,500 种以上配方**（Fertilizer.org 原文：Until 1910 more that 2500 different formulas were tested in 6500 runs）；**奥堡 1913 年 9 月 9 日投产**。
+**一处两说并存**：1914 年日产量——维基／HandWiki／Infogalactic 作 **20 吨/日**；Grokipedia 作「初期 30 吨/日，首年末达 **40 吨/日**」；execution-atlas 亦作 40 吨/日。本文取 40（首年末），两说此存照。[Fertilizer.org：The Haber-Bosch Heritage](https://www.fertilizer.org/wp-content/uploads/2023/01/HABER.pdf)｜[Royal Society：Robert Le Rossignol, 1884–1976](https://royalsocietypublishing.org/rsnr/article/71/3/263/48636/Robert-Le-Rossignol-1884-1976-Engineer-of-the)
