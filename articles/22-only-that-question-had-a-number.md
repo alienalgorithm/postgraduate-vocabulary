@@ -13,9 +13,9 @@ In December 1912 Charles Dawson and Arthur Smith Woodward **laid** before the Ge
 
 Doubt came at once. In 1913 David Waterston wrote in *Nature* that this was an ape **jawbone** **paired** with a human skull; Boule **echoed** him in 1915, Miller in Washington. In 1923 the **anatomist** Franz Weidenreich reported a modern skull with an **orangutan** **mandible**, its **teeth** **abraded**. He was right, and **ignored** for a **generation**.
 
-**Anatomy** could not settle it: the **hinge** where jaw met skull was broken away, so the two could never be **fitted** and **tested**. Each side read the same plaster **casts** and X-ray **images**, seeing what it expected. **Dissent** and **acclaim** drew on one set of **bones**; the argument had no **arbiter**.
+**Anatomy** could not settle it: the **hinge** where jaw met skull was broken away, so the two could never be **fitted** and **tested**. Each side read the same plaster **casts** and X-ray **images**, seeing what it expected. **Dissent** and **acclaim** drew on one set of **bones**; there was no **arbiter**.
 
-In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. Refined by 1953, it read 0.03 to 0.04 per cent in the jaw, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.
+In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. Refined by 1953, the test read 0.03 to 0.04 per cent in the jaw, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.
 
 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.
 
@@ -32,7 +32,7 @@ Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **mol
 
 **解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的X光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。
 
-1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到1953年改良之后，读数是颌骨与牙齿0.03%至0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。
+1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到1953年改良之后，这一测法读出的是：颌骨与牙齿0.03%至0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。
 
 奥克利、韦纳与勒格罗·克拉克更进一步。**放大**(magnification)之下，**臼齿**(molars)上现出了**锉出的**(file)**沟槽**(grooves)：一道道笔直的**划痕**(scratches)，而咀嚼留下的本该是**不匀**(uneven)的磨损。**钻**(Drilling)开来看，那层暗色只到表皮：铁溶液和铬酸，为的是配上皮尔当当地石头的颜色。四十一年里，**追问**(inquiry)的一直是这些骨头**像**(resembled)什么；那次测试问的却是每一块各自**躺**(lain)了多久——只有后者有一个数字作答。
 

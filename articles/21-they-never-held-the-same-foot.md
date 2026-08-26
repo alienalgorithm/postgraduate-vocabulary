@@ -11,9 +11,9 @@
 
 On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **sails** set, 64 **bronze** **cannon**. A **gust** laid her over to port; she righted; a second squall finished her. Water **poured** through her open gunports; she **foundered** after 1,300 metres. Thirty **drowned**.
 
-The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming watched a **stability** **rehearsal** at the **quay**: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; three turned it so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage, and nobody told the king.
+The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming watched a **stability** **rehearsal** at the **quay**: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; by three her roll turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.
 
-The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port rather than **starboard** — a question no **symmetric** **craft** can raise.
+The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port, not **starboard** — a question no **symmetric** **craft** can raise.
 
 Only the ship could answer it. She lay 333 years on the **seabed**; Anders Franzén found her in 1956 and **salvaged** her in 1961 with 45,000 **objects**. From 2010 the **archaeologist** Fred Hocker spent three years **measuring** every **plank** and **rib**. More **structure** stood to port than starboard: unballasted, she would **heel** that way **unaided**.
 
@@ -28,7 +28,7 @@ Why more? Four carpenters' **sticks** came up too: two **rulers** **graduated** 
 
 1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(sails)只张了三面，船上载着64门**青铜**(bronze)**炮**(cannon)。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。
 
-这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在**码头**(quay)看过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。这试验照例要跑十几趟；跑到第三趟，晃动已**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。
+这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在**码头**(quay)看过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。这试验照例要跑十几趟；跑到第三趟，船身已**摇**得**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。
 
 1628年的**调查**(inquest)认定它**不稳**(unstable)，却没指出祸首；后来的说法则指向古斯塔夫二世·阿道夫——是他**要求**(demanded)加一层炮甲板，又**催**(hurried)紧了**船厂**(yard)的工期。这**解释**(explains)了它为何重心偏高、**压舱**(ballast)不足，却解释不了它为何倒向左舷而非**右舷**(starboard)——这个问题，**对称的**(symmetric)**船**(craft)根本提不出来。
 

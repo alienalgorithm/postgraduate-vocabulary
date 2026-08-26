@@ -26,12 +26,12 @@
           "zh": "疑问当即就来了。1913年，戴维·沃特斯顿在《自然》上写道：这是一块猿的**下颌骨**(jawbone)**配**(paired)上一颗人的头骨；1915年布勒**附和**(echoed)了他，华盛顿的米勒也是。1923年，**解剖学家**(anatomist)弗朗茨·魏登赖希报告说：一具现代人的颅骨，配一具**猩猩**(orangutan)**下颌**(mandible)，而那些**牙**(teeth)是被**磨**(abraded)过的。他是对的，也被**无视**(ignored)了整整一**代人**(generation)。"
         },
         {
-          "en": "**Anatomy** could not settle it: the **hinge** where jaw met skull was broken away, so the two could never be **fitted** and **tested**. Each side read the same plaster **casts** and X-ray **images**, seeing what it expected. **Dissent** and **acclaim** drew on one set of **bones**; the argument had no **arbiter**.",
+          "en": "**Anatomy** could not settle it: the **hinge** where jaw met skull was broken away, so the two could never be **fitted** and **tested**. Each side read the same plaster **casts** and X-ray **images**, seeing what it expected. **Dissent** and **acclaim** drew on one set of **bones**; there was no **arbiter**.",
           "zh": "**解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的X光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。"
         },
         {
-          "en": "In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. Refined by 1953, it read 0.03 to 0.04 per cent in the jaw, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.",
-          "zh": "1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到1953年改良之后，读数是颌骨与牙齿0.03%至0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。"
+          "en": "In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. Refined by 1953, the test read 0.03 to 0.04 per cent in the jaw, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.",
+          "zh": "1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到1953年改良之后，这一测法读出的是：颌骨与牙齿0.03%至0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。"
         },
         {
           "en": "Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.",
