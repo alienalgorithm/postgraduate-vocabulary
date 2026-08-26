@@ -12,9 +12,9 @@
       "date": "2026-08-15",
       "status": "第十九篇最终精进锁定稿",
       "metrics": {
-        "words": 267,
+        "words": 271,
         "keywords": 50,
-        "density": 18.7
+        "density": 18.5
       },
       "paras": [
         {
@@ -30,12 +30,12 @@
           "zh": "这五次全是**防线**(defences)在报到。**执行程序**(executive)按**优先级**(priority)排活；一旦没有空闲的**工作区**(workspace)，它就**重启**(restarted)，把未完成的低**优先级**(ranking)工作**丢掉**(dumped)，从存好的**检查点**(checkpoints)重载**要害**(essential)程序，再从断处把**制导**(guidance)接回去。卸载荷是设计，不是故障。"
         },
         {
-          "en": "None of it helped unless the ground knew it. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **handwrote** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.",
-          "zh": "可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**撤离**(evacuation)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(handwrote)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。"
+          "en": "None of it helped unless the ground knew it. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **penned** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.",
+          "zh": "可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**撤离**(evacuation)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(penned)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。"
         },
         {
-          "en": "Bales was twenty-six. He read his **telemetry**, heard Garman, and said go inside fifteen **ticks**. Eagle landed with the low-**fuel** light already on; Bales later took a Presidential Medal. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.",
-          "zh": "贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时低**燃料**(fuel)灯已经亮起；贝尔斯后来因这次判断获总统自由勋章。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)：它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么。警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。"
+          "en": "Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fifteen **ticks**. Eagle landed with the low-fuel light already on; Bales later took a group **award** for four hundred thousand. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.",
+          "zh": "贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时低燃料灯已经亮起；贝尔斯后来领的是一个集体**奖**(award)，替那四十万人领的。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)：它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么。警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。"
         }
       ],
       "glossary": [
@@ -125,12 +125,12 @@
           "p": 2
         },
         {
-          "w": "claim",
+          "w": "claimed",
           "zh": "占去；索取",
           "p": 2
         },
         {
-          "w": "key",
+          "w": "keyed",
           "zh": "敲",
           "p": 2
         },
@@ -140,7 +140,7 @@
           "p": 2
         },
         {
-          "w": "defence",
+          "w": "defences",
           "zh": "防线",
           "p": 3
         },
@@ -160,12 +160,12 @@
           "p": 3
         },
         {
-          "w": "restart",
+          "w": "restarted",
           "zh": "重启",
           "p": 3
         },
         {
-          "w": "dump",
+          "w": "dumped",
           "zh": "丢弃",
           "p": 3
         },
@@ -180,7 +180,7 @@
           "p": 3
         },
         {
-          "w": "checkpoint",
+          "w": "checkpoints",
           "zh": "检查点",
           "p": 3
         },
@@ -200,7 +200,7 @@
           "p": 4
         },
         {
-          "w": "order",
+          "w": "ordered",
           "zh": "下令",
           "p": 4
         },
@@ -210,7 +210,7 @@
           "p": 4
         },
         {
-          "w": "handwrite",
+          "w": "penned",
           "zh": "手写",
           "p": 4
         },
@@ -245,13 +245,13 @@
           "p": 5
         },
         {
-          "w": "tick",
+          "w": "ticks",
           "zh": "滴答",
           "p": 5
         },
         {
-          "w": "fuel",
-          "zh": "燃料",
+          "w": "award",
+          "zh": "奖项",
           "p": 5
         },
         {
