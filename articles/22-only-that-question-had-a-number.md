@@ -2,7 +2,7 @@
 
 > 题材：1912—1953年皮尔当人骗局与氟测年
 > 状态：**第二十二篇定稿**（2026-08-16）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 1913年、1915年、1923年，三个人先后说对了同一件事，手里拿的是同一副骨头。改变结局的不是更好的论证，是换了一个有数字作答的问题。
 
 ---
@@ -15,9 +15,9 @@ Doubt came at once. In 1913 David Waterston wrote in *Nature* that this was an a
 
 **Anatomy** could not settle it: the **hinge** where jaw met skull was broken away, so the two could never be **fitted** and **tested**. Each side read the same plaster **casts** and X-ray **images**, seeing what it expected. **Dissent** and **acclaim** drew on one set of **bones**; the argument had no **arbiter**.
 
-In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. The jaw and teeth carried 0.03 to 0.04 per cent, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.
+In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. Refined by 1953, it read 0.03 to 0.04 per cent in the jaw, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.
 
-In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.
+Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.
 
 ---
 
@@ -32,9 +32,9 @@ In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** t
 
 **解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的X光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。
 
-1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。颌骨与牙齿含氟0.03%至0.04%，**颅顶**(vault)含0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。
+1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到1953年改良之后，读数是颌骨与牙齿0.03%至0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。
 
-1953年，奥克利、韦纳与勒格罗·克拉克更进一步。**放大**(magnification)之下，**臼齿**(molars)上现出了**锉出的**(file)**沟槽**(grooves)：一道道笔直的**划痕**(scratches)，而咀嚼留下的本该是**不匀**(uneven)的磨损。**钻**(Drilling)开来看，那层暗色只到表皮：铁溶液和铬酸，为的是配上皮尔当当地石头的颜色。四十一年里，**追问**(inquiry)的一直是这些骨头**像**(resembled)什么；那次测试问的却是每一块各自**躺**(lain)了多久——只有后者有一个数字作答。
+奥克利、韦纳与勒格罗·克拉克更进一步。**放大**(magnification)之下，**臼齿**(molars)上现出了**锉出的**(file)**沟槽**(grooves)：一道道笔直的**划痕**(scratches)，而咀嚼留下的本该是**不匀**(uneven)的磨损。**钻**(Drilling)开来看，那层暗色只到表皮：铁溶液和铬酸，为的是配上皮尔当当地石头的颜色。四十一年里，**追问**(inquiry)的一直是这些骨头**像**(resembled)什么；那次测试问的却是每一块各自**躺**(lain)了多久——只有后者有一个数字作答。
 
 ---
 
@@ -63,3 +63,5 @@ In 1953 Oakley, Weiner and Le Gros Clark went further. Under **magnification** t
 - **判别性证据之二 · 锉痕**：1953年奥克利与约瑟夫·韦纳、威尔弗里德·勒格罗·克拉克进一步检验。显微镜下臼齿咀嚼面呈现笔直锉痕，而自然咀嚼磨损应为不规则。钻孔显示深色仅及表层——骨骼曾以铁溶液与铬酸染色，以匹配当地砾石颜色。下颌属猩猩（可能来自砂拉越），头骨为中世纪人类。[Natural History Museum：Piltdown Man](https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html)
 - 结果于1953年11月21日在《自然》发表，距1912年公布已四十一年。1959年放射性碳测年进一步测得头骨约600年。[History Skills：Piltdown Man](https://www.historyskills.com/classroom/ancient-history/piltdown-man/)
 - **已核（2026-08-16 逐条上网）**：判别性证据的两个数字**一字不差**——科学史研究所载「The jaws and teeth contained 0.03% to 0.04% fluoride, whereas the braincase showed a fluoride composition of 0.1%」，与正文完全一致。其余亦无误：1949年奥克利施用氟吸收测年（为避免过早声张而秘密进行）；钻孔发现颌骨暗色仅及表层，系铁溶液与重铬酸盐人为染色；显微镜下臼齿见锉出的痕迹；1953年韦纳、奥克利与勒格罗·克拉克联名公布。另附一笔佐证：氮含量测定显示颌骨与牙齿含氮 3.9%—5.1%（接近鲜骨的约5%），而颅骨仅 0.6%—1.4%——两者埋藏时长确实不同。[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)｜[Nature：Chemical Examination of the Piltdown Implements](https://www.nature.com/articles/1721110a0)｜[Natural History Museum：Piltdown Man](https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html)
+- **已核（2026-08-20 逐条上网）· §4 一处归属错误已订正**：**1949 年那次氟测并没有把颌与颅分开**——它只证明两者都不古老（皮尔当标本约 0.2%，而同坑的乳齿象、古菱齿象化石为 2—3%），**奥克利读完反而更确信两者同源**：他 1950 年在《自然》写道「The results of the fluorine test have considerably increased the probability that the [Piltdown] mandible and cranium represent the same creature.」
+**0.03—0.04% 对 0.1% 这一差值，来自 1953 年那次改良测试（并配合氮、铀含量测定）**，而非 1949 年那次。正文此前把数值记在 1949 年头上，已改为「到 1953 年改良之后，读数是……」，并把 §5 首句的年份去掉以免重复。**这一处至关重要：全篇论点「只有那个问题有数」正建立在这组数值上，归属错了论点就悬空。**[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)｜[TalkOrigins：Piltdown Man](https://www.talkorigins.org/faqs/piltdown.html)｜[The Piltdown Inquest, ch.5](https://www2.clarku.edu/faculty/djoyce/piltdown/The_Piltdown_Inquest/chapters/chapter5.html)
