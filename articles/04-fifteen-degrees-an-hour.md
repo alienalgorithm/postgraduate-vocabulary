@@ -2,7 +2,7 @@
 
 > 题材：约翰·哈里森与海上经度
 > 状态：**第四篇最终精进锁定稿**（2026-08-15）
-> 指标：268 词 / 50 重点词 / 密度 18.7%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 每小时十五度的算术从来没人怀疑；难的是在颠簸的甲板上把那一小时守住——而替哈里森测量的人，正是竞争方案的主人。
 
 ---
@@ -17,7 +17,7 @@ H4, finished in 1759, was no clock but a **portable** watch five **inches** wide
 
 The **commissioners** **balked**. Nevil Maskelyne, who **championed** the **lunar** method, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in forty-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.
 
-Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** Harrison £8,750, never the prize. He died in 1776, months after Cook sailed home **praising** it. **Chronometers** stayed **costly**, so **navigators** kept **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.
+Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** Harrison £8,750, never the prize. He died in 1776, months after Cook sailed home **praising** the copy. **Chronometers** stayed **costly**, so **navigators** kept **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.
 
 ---
 
@@ -34,7 +34,7 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 **评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)**月**(lunar)距法的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在四十七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。
 
-拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世，距库克**盛赞**(praising)着那块表归航仅数月。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是继续靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)月亮达数十**年**(decades)。钟没有打败天空；它加入了天空。
+拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世，距库克**盛赞**(praising)着那块仿表归航仅数月。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是继续靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)月亮达数十**年**(decades)。钟没有打败天空；它加入了天空。
 
 ---
 
@@ -63,3 +63,4 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 - 巴巴多斯海试中H4在47天内误差39.2秒，为法案要求的三倍精度。委员会认为不能排除偶然，遂将奖金分为两部分：一半在公开H4原理后支付，另一半须待其他制表匠能造出同类计时器。1765年2月，委员会确认H4已满足1714年法案最严格的限度。[Royal Museums Greenwich](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem)｜[NMM：Harrison and the Longitude problem](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)
 - 拉尔卡姆·肯德尔的复制品K1于1769年完成，随库克第二次远航三年，日差始终未超过8秒（赤道上约合2海里）。1773年议会另行拨给哈里森8750英镑，并非正式奖金；哈里森1776年去世。因航海钟长期昂贵，月距法连同马斯基林创办的《航海天文年历》又沿用了一个多世纪。[NMM](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[American Scientist](https://www.americanscientist.org/article/the-harrison-maskelyne-affair)
 - **指代订正（2026-08-16）**：§5 原写 In 1773 Parliament granted **him** £8,750，而 him 紧跟在 Larcum Kendall 之后——**实际获奖者是哈里森**，非肯德尔。已改为具名。**已核**：1773年6月议会通过法案授予哈里森 £8,750；他从未获得那笔 £20,000 奖金，而该奖金实际上从未授予任何人。库克带 K1 出海三年、1775年7月归航，盛赞其为「我们穿越各种气候的忠实向导」，K1 日走差全程未超八秒；哈里森1776年3月24日、他83岁生日当天在伦敦红狮广场寓所去世——**已知不确定他是否得知库克此行的成功**。[Royal Museums Greenwich／NMM：John Harrison and the Longitude problem](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[Royal Naval Museum：John Harrison biography](https://www.royalnavalmuseum.org/info_sheets_john_harrison.html)
+- **已核（2026-08-20 逐条上网）· §5 一处指代已订正**：库克第二次远航（1772年7月13日—1775年7月30日，HMS Resolution）带的是**肯德尔的 K1**，而非哈里森的 H4；1775 年他向海军部报告「肯德尔的表已超出其最热忱拥护者的期望」，航海日志称它「我们可信赖的朋友——那块表」「我们从不失灵的向导——那块表」。**正是 K1 向仍在怀疑的学界证明了 H4 的成功不是侥幸**（同航另有阿诺德所制三只天文钟全部停摆）。原文写 Cook sailed home **praising it**——**it 悬空，读者会以为夸的是哈里森那块表**；已改为 praising **the copy**。哈里森 1776 年去世，距库克 1775 年 7 月归航约八个月，「months after」无误。[Wikiwand：Larcum Kendall](https://www.wikiwand.com/en/Larcum_Kendall)｜[Wikipedia：Second voyage of James Cook](https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook)

@@ -12,14 +12,14 @@
       "date": "2026-08-13",
       "status": "第十八篇最终精进锁定稿",
       "metrics": {
-        "words": 270,
+        "words": 271,
         "keywords": 50,
         "density": 18.5
       },
       "paras": [
         {
-          "en": "In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess temperature of 3.5 kelvin.",
-          "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)3.5开尔文的额外天线温度。"
+          "en": "In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess temperature of about 3.5 kelvin.",
+          "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)约3.5开尔文的额外天线温度。"
         },
         {
           "en": "They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess **appeared** **isotropic**, unpolarised and free of **seasonal** variation from July 1964 to April 1965.",
@@ -309,7 +309,8 @@
         "来源：[NASA GISS：3.2厘米3.0±0.5 K及2.63毫米后续测量](https://www.giss.nasa.gov/pubs/abs/th05200z.html)",
         "来源：[NASA LAMBDA：COBE的FIRAS黑体谱与DMR十万分之一各向异性](https://lambda.gsfc.nasa.gov/product/cobe/)",
         "来源：[1978年诺贝尔物理学奖新闻稿](https://www.nobelprize.org/prizes/physics/1978/press-release/)",
-        "COBE 测得的宇宙微波背景各向异性幅度约为10⁻⁵量级，即约十万分之一。[NASA COBE 结果]　[Penzias & Wilson 1965, ApJ 142:419（原文摘要）](https://scixplorer.org/abs/1965ApJ...142..419P/abstract)"
+        "COBE 测得的宇宙微波背景各向异性幅度约为10⁻⁵量级，即约十万分之一。[NASA COBE 结果]　[Penzias & Wilson 1965, ApJ 142:419（原文摘要）](https://scixplorer.org/abs/1965ApJ...142..419P/abstract)",
+        "**已核（2026-08-20 逐条上网）· §1 一处约数已补回**：彭齐亚斯与威尔逊 1965 年论文（ApJ 142, 419–421）摘要原文为 「have yielded a value **about** 3.5 K higher than expected」——**原文写的是约数**，而正文此前写作 an excess temperature of 3.5 kelvin，把约数写成了确数，已补回 about。**这与第14篇差点删掉 almost three degrees 的 almost 是同一类错。**\n**§2 那句是原文摘要的逐字复述，无误**：「This excess temperature is, within the limits of our observations, isotropic, unpolarized, and free from seasonal variations (July, 1964–April, 1965)」。原文另载：天顶总天线温度 6.7 K，其中大气吸收 2.3 K，天线欧姆损耗与后瓣响应 0.9 K；频率 4080 Mc/s（7.35 厘米）。两篇姊妹论文同刊于 1965 年 7 月 1 日《天体物理学报》第 142 卷：普林斯顿组（Dicke、Peebles、Roll、Wilkinson）414—419 页，贝尔实验室组 419—421 页。[Science Explorer：1965ApJ...142..419P](https://scixplorer.org/abs/1965ApJ...142..419P/abstract)｜[Cambridge：3K — The Cosmic Microwave Background Radiation, Appendix A](https://www.cambridge.org/core/books/abs/3k-the-cosmic-microwave-background-radiation/measurement-of-excess-antenna-temperature-at-4080-mcs/28210077E85241B884BB87D24E9BDC26)"
       ]
     }
   ]);

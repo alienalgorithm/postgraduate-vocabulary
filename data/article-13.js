@@ -12,9 +12,9 @@
       "date": "2026-08-15",
       "status": "第十三篇最终精进锁定稿",
       "metrics": {
-        "words": 268,
+        "words": 265,
         "keywords": 50,
-        "density": 18.7
+        "density": 18.9
       },
       "paras": [
         {
@@ -34,8 +34,8 @@
           "zh": "麦克林托克把Ac与Ds称作**控制**(controlling)元件：一次**插入**(insertion)能**沉默**(silence)**邻近**(neighbouring)的基因，一次**离去**(departure)又**准许**(permit)它重新表达。这让基因组不再是一份固定的地址**账本**(ledger)。她1950年**公布**(announced)了结果，1951年在冷泉港作报告，迎来的是她自己所说的困惑，甚至**轻蔑**(contempt)。1953年，她**停止**(ceased)就此发表。"
         },
         {
-          "en": "**Sceptics** were answered elsewhere, and **belatedly**. **Mobile** elements surfaced in **microbial** cells after François Jacob and Jacques Monod. In 1983, thirty-two years after that **symposium**, she took the **medicine** Nobel alone — the only woman to hold it **unshared**. Such elements make up the **bulk** of nearly half the human **genome**. She had been reading them off a **spotted** kernel.",
-          "zh": "**怀疑者**(Sceptics)是在别处、而且**迟迟**(belatedly)才被回答的。继弗朗索瓦·雅各布与雅克·莫诺之后，**可移动**(Mobile)元件在**微生物**(microbial)细胞里现身，随后到处都是。1983年，距那场**研讨会**(symposium)三十二年，她独自拿下**医学**(medicine)奖——迄今唯一**独享**(unshared)该奖的女性。如今已知这类元件构成了人类**基因组**(genome)近一半的**主体**(bulk)。她一直是从一粒**带斑的**(spotted)籽粒上把它们读出来的。"
+          "en": "**Sceptics** were answered elsewhere, and **belatedly**. **Mobile** elements surfaced in **microbial** cells after François Jacob and Jacques Monod. In 1983, thirty-two years after that **symposium**, she took the **medicine** Nobel alone — the only woman to hold it **unshared**. Such elements make up **roughly** half the human **genome**. She had been reading them off a **spotted** kernel.",
+          "zh": "**怀疑者**(Sceptics)是在别处、而且**迟迟**(belatedly)才被回答的。继弗朗索瓦·雅各布与雅克·莫诺之后，**可移动**(Mobile)元件在**微生物**(microbial)细胞里现身，随后到处都是。1983年，距那场**研讨会**(symposium)三十二年，她独自拿下**医学**(medicine)奖——迄今唯一**独享**(unshared)该奖的女性。如今已知这类元件占了人类**基因组**(genome)**大约**(roughly)一半。她一直是从一粒**带斑的**(spotted)籽粒上把它们读出来的。"
         }
       ],
       "glossary": [
@@ -275,8 +275,8 @@
           "p": 5
         },
         {
-          "w": "bulk",
-          "zh": "主体",
+          "w": "roughly",
+          "zh": "大约",
           "p": 5
         },
         {
@@ -297,7 +297,8 @@
         "1950年，她在《美国科学院院刊》发表《玉米可变位点的起源与行为》；1951年夏在冷泉港年度研讨会报告《染色体组织与基因表达》。她本人将当时的反应描述为「困惑，甚至敌意」。[Citizendium：Barbara McClintock](https://citizendium.org/wiki/Barbara_McClintock/Citable_Version)",
         "**1953年她停止就此发表**——按其自述，是因为「敏锐地意识到人们对这些结论的漠然与不信任」。[AAAS：McClintock was years away from her colleagues](https://www.aaas.org/taxonomy/term/10/barbara-mcclintock-was-years-away-her-colleagues)",
         "1960年代分子生物学家在细菌等体系中独立发现可移动元件，其结论方获广泛接受。1983年她获诺贝尔生理学或医学奖，为首位独得该奖（不与人分享）的女性。目前已知人类基因组中超过45%由转座元件构成。[PNAS：McClintock and the discovery of jumping genes](https://www.pnas.org/doi/10.1073/pnas.1219372109)｜[ASU Embryo Project](https://embryo.asu.edu/taxonomy/term/145351)｜[ScienceInsights：45%](https://scienceinsights.org/what-did-barbara-mcclintock-discover-jumping-genes/)",
-        "麦克林托克自1944年起在冷泉港以玉米为材料系统研究染色体断裂—融合—桥循环；1948年将该断裂位点命名为 Dissociation（Ds）。　**已核**：Ds 位点的移位见于 1947—48 年度卡内基年报；该位点处的染色体断裂需第二个显性位点参与，她命名为 Activator（Ac），Ac 可位于不同位点甚至不同染色体上。1950 年 PNAS 论文汇总多年数据。[PMC：Barbara McClintock and the discovery of jumping genes](https://pmc.ncbi.nlm.nih.gov/articles/PMC3528533/)"
+        "麦克林托克自1944年起在冷泉港以玉米为材料系统研究染色体断裂—融合—桥循环；1948年将该断裂位点命名为 Dissociation（Ds）。　**已核**：Ds 位点的移位见于 1947—48 年度卡内基年报；该位点处的染色体断裂需第二个显性位点参与，她命名为 Activator（Ac），Ac 可位于不同位点甚至不同染色体上。1950 年 PNAS 论文汇总多年数据。[PMC：Barbara McClintock and the discovery of jumping genes](https://pmc.ncbi.nlm.nih.gov/articles/PMC3528533/)",
+        "**已核（2026-08-20 逐条上网）· §5「唯一」限定核对无误**：麦克林托克 1983 年独得生理学或医学奖，**「唯一独得该奖的女性」这一限定正确**——多处来源一致（Carnegie Science、NLM Profiles in Science、Britannica、CT Women's Hall of Fame）。另据 Nature Index：迄今仅三位女性独得科学类诺奖——麦克林托克（1983 医学）、霍奇金（1964 化学）、居里夫人（1911 化学）。**故限定必须写明「医学奖类别内」，本文正是如此。**另核：1951 年冷泉港报告、1953 年停止发表、1983 年获奖（相距 32 年）皆无误。[NLM Profiles in Science：Barbara McClintock](https://profiles.nlm.nih.gov/spotlight/ll/feature/biographical-overview)｜[Nature Index：The Nobel gender gap](https://www.nature.com/nature-index/news/the-nobel-gender-gap-is-worse-than-you-think)｜[NobelPrize.org 1983](https://www.nobelprize.org/prizes/medicine/1983/summary/)"
       ]
     }
   ]);
