@@ -80,7 +80,7 @@ const VERSION_IDS = {
   '26': '26-267-word-final-locked',
   '27': '27-271-word-final-locked',
   '28': '28-271-word-final-locked',
-  '29': '29-270-word-final-locked',
+  '29': '29-271-word-final-locked',
   '30': '30-271-word-final-locked',
   '31': '31-267-word-final-locked',
   '32': '32-271-word-final-locked',
@@ -534,7 +534,7 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **271词 · 50词 · 18.5%** |')) {
     errors.push('README article 28 final row is stale');
   }
-  if (!readme.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **270词 · 50词 · 18.5%** |')) {
+  if (!readme.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **271词 · 50词 · 18.5%** |')) {
     errors.push('README article 29 final row is stale');
   }
   if (!readme.includes('| **30** | ***The Window Floated on Tin*** | **1952—1959年皮尔金顿浮法玻璃、熔锡浴与液体自整平机制** | **271词 · 50词 · 18.5%** |')) {
@@ -556,7 +556,7 @@ function validateManifest(articles, manifest) {
   if (!handoff.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **271 / 50 / 18.5%** | **第二十八篇最终精进锁定稿** |')) {
     errors.push('handoff article 28 final row is stale');
   }
-  if (!handoff.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **270 / 50 / 18.5%** | **第二十九篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **271 / 50 / 18.5%** | **第二十九篇最终精进锁定稿** |')) {
     errors.push('handoff article 29 final row is stale');
   }
   if (!handoff.includes('| **30** | ***The Window Floated on Tin*** | **1952—1959年皮尔金顿浮法玻璃、熔锡浴与液体自整平机制** | **271 / 50 / 18.5%** | **第三十篇最终精进锁定稿** |')) {

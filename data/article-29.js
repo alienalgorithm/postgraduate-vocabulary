@@ -12,7 +12,7 @@
       "date": "2026-08-24",
       "status": "第二十九篇最终精进锁定稿",
       "metrics": {
-        "words": 270,
+        "words": 271,
         "keywords": 50,
         "density": 18.5
       },
@@ -30,8 +30,8 @@
           "zh": "在每一级船闸，**斜接式的**(mitre)**闸门**(gates)把船封在闸室内。**操作人员**(Operators)开启上游阀门；湖水流过直径18英尺的**涵洞**(culverts)，再从闸底100个**开口**(openings)涌起，以减小**湍流**(turbulence)。只有当闸室水位与上一级水位齐平时，上游闸门才能打开。没有水泵把船抬起：**重力**(gravity)让水向**低处**(downhill)流动，**浮力**(buoyancy)则使船体始终**浮在水面**(afloat)。"
         },
         {
-          "en": "Repeating the cycle was a **formidable** challenge. Three Gatun steps, one at Pedro Miguel and two at Miraflores **comprised** six **chamber** pairs in **adjacent** **lanes**; each chamber was 110 by 1,000 feet. Lock design fell **chiefly** to Hodges, Schildhauer and Goldmark, while 56,307 people, most from the West Indies, joined the canal's **multinational** **workforce**. Ancon **inaugurated** the **waterway** on 15 August 1914.",
-          "zh": "要在整条运河上反复复制这个循环，是一项极其**艰巨的**(formidable)挑战。加通三阶、佩德罗·米格尔一阶、米拉弗洛雷斯两阶，**构成了**(comprised)六对**闸室**(chamber)，沿两条**相邻的**(adjacent)**闸道**(lanes)排列；每座闸室长1000英尺、宽110英尺。船闸设计**主要**(chiefly)由Hodges、Schildhauer和Goldmark负责；与此同时，整个建设期内累计有56,307人加入运河这支**来自多国的**(multinational)**建设队伍**(workforce)，其中大多数来自西印度群岛。1914年8月15日，Ancon号**正式启用了**(inaugurated)这条**水道**(waterway)。"
+          "en": "Repeating the cycle was a **formidable** challenge. Three Gatun steps, one at Pedro Miguel and two at Miraflores **comprised** six **chamber** pairs in **adjacent** **lanes**; each chamber was 110 by 1,000 feet. Lock design fell **chiefly** to Hodges, Schildhauer and Goldmark; **Barbados** alone sent 19,448 men, near a **quarter** of its people, into that workforce. Ancon **inaugurated** the **waterway** on 15 August 1914.",
+          "zh": "要在整条运河上反复复制这个循环，是一项极其**艰巨的**(formidable)挑战。加通三阶、佩德罗·米格尔一阶、米拉弗洛雷斯两阶，**构成了**(comprised)六对**闸室**(chamber)，沿两条**相邻的**(adjacent)**闸道**(lanes)排列；每座闸室长1000英尺、宽110英尺。船闸设计**主要**(chiefly)由Hodges、Schildhauer和Goldmark负责；与此同时，单是**巴巴多斯**(Barbados)一岛就送来19,448人，近乎全岛人口的四**分之一**(quarter)，加入这支队伍。1914年8月15日，Ancon号**正式启用了**(inaugurated)这条**水道**(waterway)。"
         },
         {
           "en": "The **hydraulic** **staircase** came at a price. A traditional transit released about 52 million **gallons** of **freshwater** to the ocean. **Concrete** fixed the geometry, but **rainfall** **replenished** the working fluid that every lockage sent through culverts towards the ocean. The **shortcut** was therefore **hydrological**, dependent on Panama's **watershed**: ships climbed the divide on stored rainwater.",
@@ -40,7 +40,7 @@
       ],
       "glossary": [
         {
-          "w": "endorse",
+          "w": "endorsed",
           "zh": "支持；认可",
           "p": 1
         },
@@ -55,17 +55,17 @@
           "p": 1
         },
         {
-          "w": "dam",
+          "w": "dams",
           "zh": "水坝；堤坝",
           "p": 1
         },
         {
-          "w": "lock",
+          "w": "locks",
           "zh": "船闸；锁",
           "p": 1
         },
         {
-          "w": "sideline",
+          "w": "sidelined",
           "zh": "搁置；使退出核心",
           "p": 1
         },
@@ -80,7 +80,7 @@
           "p": 1
         },
         {
-          "w": "confer",
+          "w": "conferred",
           "zh": "授予；赋予",
           "p": 1
         },
@@ -105,17 +105,17 @@
           "p": 2
         },
         {
-          "w": "impound",
+          "w": "impounded",
           "zh": "拦蓄；扣押",
           "p": 2
         },
         {
-          "w": "submerge",
+          "w": "submerged",
           "zh": "淹没；使沉入",
           "p": 2
         },
         {
-          "w": "valley",
+          "w": "valleys",
           "zh": "谷地；山谷",
           "p": 2
         },
@@ -145,22 +145,22 @@
           "p": 3
         },
         {
-          "w": "gate",
+          "w": "gates",
           "zh": "闸门；大门",
           "p": 3
         },
         {
-          "w": "operator",
+          "w": "operators",
           "zh": "操作人员；运营方",
           "p": 3
         },
         {
-          "w": "culvert",
+          "w": "culverts",
           "zh": "涵洞；排水管",
           "p": 3
         },
         {
-          "w": "opening",
+          "w": "openings",
           "zh": "开口；孔口",
           "p": 3
         },
@@ -195,7 +195,7 @@
           "p": 4
         },
         {
-          "w": "comprise",
+          "w": "comprised",
           "zh": "包括；由……组成",
           "p": 4
         },
@@ -210,7 +210,7 @@
           "p": 4
         },
         {
-          "w": "lane",
+          "w": "lanes",
           "zh": "通道；车道",
           "p": 4
         },
@@ -220,17 +220,17 @@
           "p": 4
         },
         {
-          "w": "multinational",
-          "zh": "跨国的",
+          "w": "barbados",
+          "zh": "巴巴多斯",
           "p": 4
         },
         {
-          "w": "workforce",
-          "zh": "劳动力；工作队伍",
+          "w": "quarter",
+          "zh": "四分之一",
           "p": 4
         },
         {
-          "w": "inaugurate",
+          "w": "inaugurated",
           "zh": "正式启用；开创",
           "p": 4
         },
@@ -250,7 +250,7 @@
           "p": 5
         },
         {
-          "w": "gallon",
+          "w": "gallons",
           "zh": "加仑",
           "p": 5
         },
@@ -270,7 +270,7 @@
           "p": 5
         },
         {
-          "w": "replenish",
+          "w": "replenished",
           "zh": "补充；重新装满",
           "p": 5
         },
