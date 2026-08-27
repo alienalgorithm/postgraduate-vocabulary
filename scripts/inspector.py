@@ -1121,15 +1121,41 @@ def report_one(a, F, st, verbose=True):
     if not F:
         print("   ✓ 全部通过")
         return
+    # ── 待核分级输出（2026-08-20 立）─────────────────────────────
+    # 立此之由：**39 条提示级规则里，11 条在全库 503 轮次的台账中从未被援引过**
+    #   （AUD-01/02/03、BAL-03/04/05、SRC-02、STR-04、SYN-01/03、VAL-02b）。
+    #   它们每篇都在报，却从没影响过任何判断——**纯噪声，把真信号淹掉了。**
+    # 处置：**不删规则**（可能某天真的逮到东西），改为**按实际采纳率分档**：
+    #   台账援引 ≥3 次的排前面全文展开；从未被援引的折叠成一行。
+    # 采纳次数取自 503 轮次台账实测，写死在此，随台账增长可重量。
+    LOUD = {"VAL-02": 16, "STR-03": 7, "SYN-02": 7, "FIT-02": 6, "VAL-13": 4,
+            "FACT-01": 3, "SYN-04": 3}
+    MUTE = {"AUD-01", "AUD-02", "AUD-03", "BAL-03", "BAL-04", "BAL-05",
+            "SRC-02", "STR-04", "SYN-01", "SYN-03", "VAL-02b"}
     order = {"hard": 0, "check": 1, "info": 2}
-    for f in sorted(F, key=lambda x: (order[x.sev], x.rid)):
+
+    def _rank(x):
+        # 硬伤永远在最前；待核里按台账采纳率降序，从未被援引的沉底
+        if x.sev == "hard":
+            return (0, 0, x.rid)
+        return (order[x.sev], -LOUD.get(x.rid, 1 if x.rid not in MUTE else 0), x.rid)
+
+    muted = []
+    for f in sorted(F, key=_rank):
+        if f.sev == "check" and f.rid in MUTE:
+            muted.append(f)
+            continue
         tag = {"hard": "✗硬伤", "check": "·待核", "info": "  提示"}[f.sev]
         _c = charter_of(f.rid)
         _cs = f"　　铁律{_c[0]}" if _c else ""
-        print(f"   {tag} [{f.rid}] {f.title}{_cs}")
+        _hot = "　★常被采纳" if f.rid in LOUD else ""
+        print(f"   {tag} [{f.rid}] {f.title}{_cs}{_hot}")
         print(f"        {f.detail}")
         if f.fix:
             print(f"        → {f.fix}")
+    if muted:
+        print(f"   ·待核（低采纳，全库台账中从未被援引，折叠）"
+              f"　{'、'.join(sorted({m.rid for m in muted}))}")
 
 # ── HTML 报告 ──────────────────────────────────────────────────────────
 def write_html(results, path):
