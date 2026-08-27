@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 35,
-  "keyword_count": 1750,
+  "article_count": 36,
+  "keyword_count": 1800,
   "articles": [
     {
       "id": "01",
@@ -847,6 +847,25 @@
       "canonical_fingerprint_sha256": "79b51f1611be2494c573fac485c5e2b405a111f83fbfdb30f46910624bbe0d6d",
       "markdown_sha256": "c4633417b4614065ca08516307f785eaf92e0a54440bac18940cebe6b4832335",
       "markdown_git_blob_sha": "b3b68d0c162963e37910f40982f5578796254dda",
+      "superseded_signatures": []
+    },
+    {
+      "id": "36",
+      "slug": "two-plants-two-patterns",
+      "title": "Two Plants, Two Patterns",
+      "title_zh": "两种植物，两副样子",
+      "version_id": "36-final",
+      "status": "第三十六篇定稿",
+      "date": "2026-08-20",
+      "words": 266,
+      "keywords": 50,
+      "density": 18.8,
+      "source": "2026-08-20按《总令》全流程新写：动笔前逐条上网核（十三项）＋两说存照＋一处未取得出处改为不依赖→词池→七查→入库→十五层＋六个新层→第9轮五问→十三轮跑满；VAL-11/12 当场逮出 eighth 一词踩两条规则",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "9c986c12208260a3ba1cfae4bc41406e56ca16ae46ca45d6829ddac744e0a559",
+      "markdown_sha256": "f5a1eb7ea7ad98d22712e2b7002c9897d4983583d1e11891e340b8ac48e99f86",
+      "markdown_git_blob_sha": "69eaa23d9381ef045b28f2456d6a6b738d932dc2",
       "superseded_signatures": []
     }
   ]
