@@ -15,7 +15,7 @@ The **rendezvous** **radar** was on for one **contingency**: **abort** to orbit.
 
 All five were **defences** reporting for duty. The **executive** ran jobs by **priority**; with no free **workspace** it **restarted**, **dumped** the unfinished low-**ranking** work, reloaded **essential** programs from stored **checkpoints**, and picked **guidance** back up where it had stopped. Shedding load was the design working, not failing.
 
-None of it helped unless the ground knew it. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **penned** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.
+None of those defences helped unless the ground knew. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **penned** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.
 
 Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fifteen **ticks**. Eagle landed with the low-fuel light already on; Bales later took a group **award** for four hundred thousand. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.
 
