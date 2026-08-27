@@ -2,7 +2,7 @@
 
 > 题材：1944—1983 年麦克林托克、玉米斑驳与转座元件
 > 状态：**第十三篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 每一块色斑都是一只钟：切离发生得早就长成宽阔的扇区，晚了只剩一点碎斑。而她1953年停止了发表。
 
 ---
@@ -11,7 +11,7 @@
 
 A **kernel** of maize records when a chromosome fragment moved. From 1944 Barbara McClintock **bred** **corn** and used genetic **crosses** to trace where chromosome 9 kept snapping. Some **seeds** carried one **purple** **patch**; others were finely **speckled**. Under the **microscope** she watched the chromosomes and traced what the plants **inherited**.
 
-She named the **breakage** **locus** Dissociation, or Ds; by 1948 she saw it move. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and it **shifted** only when Activator stood **alongside** it. When Ds **departed**, the gene worked again and the colour came back. The **gene** never moved; its interrupter did.
+She named the **breakage** **locus** Dissociation, or Ds; by 1948 she saw it move. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and Ds **shifted** only when Activator stood alongside it in the gene. When Ds **departed**, the gene worked again and the colour **returned**. The **gene** never moved; its interrupter did.
 
 Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **relocation**.
 
@@ -28,7 +28,7 @@ McClintock called Ac and Ds **controlling** elements: an **insertion** could **s
 
 一粒玉米**籽粒**(kernel)能记下染色体片段是什么时候动的。从1944年起，芭芭拉·麦克林托克**培育**(bred)**玉米**(corn)，用遗传**杂交**(crosses)追查9号染色体老是断在哪里。有些**种子**(seeds)上只有一块**紫色**(purple)**斑**(patch)，另一些则布满细密的**麻点**(speckled)。她在**显微镜**(microscope)下盯着染色体，追踪植株**遗传**(inherited)到了什么。
 
-她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds；到1948年，她看出它会自己挪窝。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。**基因**(gene)从没动过；动的是打断它的那个插入者。
+她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds；到1948年，她看出它会自己挪窝。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在旁，Ds 才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色也**回**(returned)来了。**基因**(gene)从没动过；动的是打断它的那个插入者。
 
 Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**易位**(relocation)。
 
@@ -42,7 +42,7 @@ Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都
 
 **§1**（10词）kernel 籽粒｜bred 培育｜corn 玉米｜crosses 杂交｜seeds 种子｜purple 紫色的｜patch 斑块｜speckled 麻点｜microscope 显微镜｜inherited 遗传
 
-**§2**（10词）breakage 断裂｜locus 位点｜segment 段；片段｜dropped 落入；掉进｜pigment 色素｜interrupt 打断｜shifted 移位｜alongside 在旁；沿着｜departed 离开｜gene 基因
+**§2**（10词）breakage 断裂｜locus 位点｜segment 段；片段｜dropped 落入；掉进｜pigment 色素｜interrupt 打断｜shifted 移位｜departed 离开｜returned 回来；恢复｜gene 基因
 
 **§3**（10词）blotch 色斑｜descendant 后代｜restored 恢复｜excision 切离；切除｜broad 宽阔的｜sector 扇区｜fleck 碎斑｜lineage 谱系｜span 跨度｜relocation 易位；迁移
 

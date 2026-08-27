@@ -12,9 +12,9 @@
       "date": "2026-08-15",
       "status": "第十三篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 271,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
@@ -22,8 +22,8 @@
           "zh": "一粒玉米**籽粒**(kernel)能记下染色体片段是什么时候动的。从1944年起，芭芭拉·麦克林托克**培育**(bred)**玉米**(corn)，用遗传**杂交**(crosses)追查9号染色体老是断在哪里。有些**种子**(seeds)上只有一块**紫色**(purple)**斑**(patch)，另一些则布满细密的**麻点**(speckled)。她在**显微镜**(microscope)下盯着染色体，追踪植株**遗传**(inherited)到了什么。"
         },
         {
-          "en": "She named the **breakage** **locus** Dissociation, or Ds; by 1948 she saw it move. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and it **shifted** only when Activator stood **alongside** it. When Ds **departed**, the gene worked again and the colour came back. The **gene** never moved; its interrupter did.",
-          "zh": "她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds；到1948年，她看出它会自己挪窝。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。**基因**(gene)从没动过；动的是打断它的那个插入者。"
+          "en": "She named the **breakage** **locus** Dissociation, or Ds; by 1948 she saw it move. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and Ds **shifted** only when Activator stood alongside it in the gene. When Ds **departed**, the gene worked again and the colour **returned**. The **gene** never moved; its interrupter did.",
+          "zh": "她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds；到1948年，她看出它会自己挪窝。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在旁，Ds 才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色也**回**(returned)来了。**基因**(gene)从没动过；动的是打断它的那个插入者。"
         },
         {
           "en": "Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **relocation**.",
@@ -125,13 +125,13 @@
           "p": 2
         },
         {
-          "w": "alongside",
-          "zh": "在旁；沿着",
+          "w": "departed",
+          "zh": "离开",
           "p": 2
         },
         {
-          "w": "departed",
-          "zh": "离开",
+          "w": "returned",
+          "zh": "回来；恢复",
           "p": 2
         },
         {
