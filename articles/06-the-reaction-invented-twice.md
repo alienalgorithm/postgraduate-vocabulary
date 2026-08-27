@@ -2,7 +2,7 @@
 
 > 题材：Haber–Bosch 合成氨与工业放大
 > 状态：**第六篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 哈伯的台式装置每小时产氨125毫升；四年后奥保工厂每天四十吨。同一个反应，中间隔着一次完全独立的发明。
 
 ---
@@ -11,7 +11,7 @@
 
 Air is four fifths **nitrogen**, yet no **crop** can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.
 
-In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** it but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.
+In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** the reaction but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.
 
 The factory was another matter. Hot hydrogen entered **steel** and stripped its **carbon**, leaving **vessels** brittle. Bosch answered with a double-**walled** tube whose **liner** vented hydrogen before it **weakened** the shell. Osmium was too rare for commerce; Alwin Mittasch **sifted** 2,500 **catalysts** through 6,500 runs and settled on magnetite, whose **potassium** and **alumina** made cheap iron work.
 

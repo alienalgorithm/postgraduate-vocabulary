@@ -1519,9 +1519,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第六篇最终精进锁定稿",
     "metrics": {
-      "words": 269,
+      "words": 270,
       "keywords": 50,
-      "density": 18.6
+      "density": 18.5
     },
     "paras": [
       {
@@ -1529,7 +1529,7 @@ window.SITE = {
         "zh": "空气里五**分之**四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。"
       },
       {
-        "en": "In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** it but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.",
+        "en": "In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** the reaction but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.",
         "zh": "1909年7月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约两百个**大气压**(atmospheres)、五百度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨125毫升。"
       },
       {
