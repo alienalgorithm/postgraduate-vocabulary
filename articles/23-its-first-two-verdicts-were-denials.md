@@ -2,7 +2,7 @@
 
 > 题材：1984—1987年杰弗里斯、DNA指纹与司法证据
 > 状态：**第二十三篇定稿**（2026-08-16）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > DNA指纹被记住的样子是抓凶手的东西。可它第一次证明的是一位母亲没撒谎，第二次推翻的是一份供认。
 
 ---
@@ -11,9 +11,9 @@
 
 On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **kin** and child — a **hereditary** signature. Within half an hour he **understood** what the pattern was for, and **lodged** **patents** that year.
 
-The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian family met a Home Office that **denied** a boy **refused** **entry** was the woman's son. **Lawyers** asked Jeffreys, and the bands showed the boy was her own. He spoke **afterwards** of the **relief** on her face.
+The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian mother met a Home Office that **denied** the boy **refused** **entry** was hers. **Lawyers** asked Jeffreys, and the bands showed the boy was hers. He spoke **afterwards** of the **relief** on her face.
 
-Identity in a **courtroom** rested on **documents**, on serology, and on **confession**. Blood **groups** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: no man **condemns** himself for nothing. Two killings would test that.
+Identity in a **courtroom** rested on **documents**, on serology, and on **confession**. Blood **typing** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: no man **condemns** himself for nothing. Two killings would test that.
 
 In 1986 the police at Narborough asked for help. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old kitchen hand, had **confessed** to one, not the other — a **juvenile** questioned without a **solicitor**. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.
 
@@ -28,9 +28,9 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 
 1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。
 
-这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一个加纳家庭面对的是内政部的**否认**(denied)：一个被**拒**(refused)**入境**(entry)的男孩，究竟是不是那位女子的儿子。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子是她亲生的。他**后来**(afterwards)提起她脸上的那种**松弛**(relief)。
+这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一位加纳母亲面对的是内政部的**否认**(denied)：那个被**拒**(refused)**入境**(entry)的男孩不是她的。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子确是她亲生的。他**后来**(afterwards)提起她脸上的那种**松弛**(relief)。
 
-**法庭**(courtroom)上的身份认定，在此之前靠的是**文书**(documents)、血清学和**供认**(confession)。**血型**(groups)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemns)。两起凶杀将检验这一点。
+**法庭**(courtroom)上的身份认定，在此之前靠的是**文书**(documents)、血清学和**供认**(confession)。血型**鉴定**(typing)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemns)。两起凶杀将检验这一点。
 
 1986年，纳伯勒的警方来求助。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的厨房帮工理查德·巴克兰**认**(confessed)了一桩、不认另一桩——一个在无**事务律师**(solicitor)在场时受讯的**未成年人**(juvenile)。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。
 
@@ -44,7 +44,7 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 
 **§2**（10词）technique 技术｜remembered 记住｜murderers 杀人者｜outing 出场；首次露面｜denied 否认｜refused 拒绝｜entry 入境｜lawyers 律师｜afterwards 后来｜relief 宽慰；松弛
 
-**§3**（10词）courtroom 法庭｜documents 文书（复）｜confession 供认｜groups 血型；组｜exclude 排除｜seldom 很少｜admission 自认｜strongest 最强的｜stronger 更强的｜condemns 定罪；谴责
+**§3**（10词）courtroom 法庭｜documents 文书（复）｜confession 供认｜typing 鉴定；分型｜exclude 排除｜seldom 很少｜admission 自认｜strongest 最强的｜stronger 更强的｜condemns 定罪；谴责
 
 **§4**（10词）teenagers 少年｜raped 强奸｜confessed 认罪｜juvenile 未成年人｜solicitor 事务律师｜compared 比对｜semen 精液｜youth's 少年｜notch 刻痕｜overlap 重合
 

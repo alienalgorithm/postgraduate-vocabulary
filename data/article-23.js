@@ -17,12 +17,12 @@
           "zh": "1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。"
         },
         {
-          "en": "The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian family met a Home Office that **denied** a boy **refused** **entry** was the woman's son. **Lawyers** asked Jeffreys, and the bands showed the boy was her own. He spoke **afterwards** of the **relief** on her face.",
-          "zh": "这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一个加纳家庭面对的是内政部的**否认**(denied)：一个被**拒**(refused)**入境**(entry)的男孩，究竟是不是那位女子的儿子。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子是她亲生的。他**后来**(afterwards)提起她脸上的那种**松弛**(relief)。"
+          "en": "The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian mother met a Home Office that **denied** the boy **refused** **entry** was hers. **Lawyers** asked Jeffreys, and the bands showed the boy was hers. He spoke **afterwards** of the **relief** on her face.",
+          "zh": "这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一位加纳母亲面对的是内政部的**否认**(denied)：那个被**拒**(refused)**入境**(entry)的男孩不是她的。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子确是她亲生的。他**后来**(afterwards)提起她脸上的那种**松弛**(relief)。"
         },
         {
-          "en": "Identity in a **courtroom** rested on **documents**, on serology, and on **confession**. Blood **groups** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: no man **condemns** himself for nothing. Two killings would test that.",
-          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是**文书**(documents)、血清学和**供认**(confession)。**血型**(groups)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemns)。两起凶杀将检验这一点。"
+          "en": "Identity in a **courtroom** rested on **documents**, on serology, and on **confession**. Blood **typing** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: no man **condemns** himself for nothing. Two killings would test that.",
+          "zh": "**法庭**(courtroom)上的身份认定，在此之前靠的是**文书**(documents)、血清学和**供认**(confession)。血型**鉴定**(typing)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemns)。两起凶杀将检验这一点。"
         },
         {
           "en": "In 1986 the police at Narborough asked for help. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old kitchen hand, had **confessed** to one, not the other — a **juvenile** questioned without a **solicitor**. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.",
@@ -44,9 +44,9 @@
         "**已核（2026-08-20 逐条上网）· 两处订正**：\n**一 · §2 语法缺陷**：原文 met a Home Office that **rejected** a boy refused entry was the woman's son——**rejected X was Y 不成句**，英文须 denied that…／rejected the claim that…。已改为 **denied**，一词解决，且与标题 denials 形成呼应。**这类缺陷十五层规则从未抓到过**（与第10篇 several 后缺名词同类）。\n**二 · §4 认罪范围**：巴克兰**只对第二桩（Dawn Ashworth）认罪，坚决否认第一桩（Lynda Mann）**。原文只写 had confessed，已补为 confessed to one and denied the other——**这一层反而加强论点：那份口供连自身都不自洽。**\n另核实无误：1984年9月10日莱斯特实验室、1985年加纳家庭移民案（DNA 首次实用）、巴克兰1986年11月21日获释、**世界首次大规模筛查五千人**（三村17—34岁男性）、皮奇福克1987年9月19日被捕、1988年1月判无期。**一处细节可补而未补**：五千人先做血型，仅对与凶手同型的约一成再做 DNA——因词数已满，此处从略。[BBC：Colin Pitchfork released](https://feeds.bbci.co.uk/news/uk-england-leicestershire-58408210)｜[Forensic Science Service 案例存档](https://webarchive.nationalarchives.gov.uk/ukgwa/20081202180354mp_/http://www.forensic.gov.uk/html/media/case-studies/f-18.html)｜[Dying Words：Colin Pitchfork Murders](https://dyingwords.net/colin-pitchfork-murders-the-birth-of-dna-forensic-evidence/)"
       ],
       "metrics": {
-        "words": 271,
+        "words": 268,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.7
       },
       "glossary": [
         {
@@ -165,8 +165,8 @@
           "p": 3
         },
         {
-          "w": "groups",
-          "zh": "血型；组",
+          "w": "typing",
+          "zh": "鉴定；分型",
           "p": 3
         },
         {
