@@ -363,6 +363,49 @@ def inspect(a, archive):
 
 
 
+
+    # ── GRA-01 冠词与数不一致（2026-08-20 立）─────────────────────
+    # 立此层之由：语法完整性已犯到第三次——
+    #   第10篇 several 后缺名词／第23篇 rejected X was Y 不成句／
+    #   第34篇 a second grounds 冠词配复数。
+    # 按总令第七节第①问：同一族犯到第三次，就该问这条规则为什么拦不住它。
+    # 答案是：第11轮只写「查语法完整性」，没有任何一条机器规则在查。
+    # 立层之前量过三个判据，两个被数据否掉：
+    #   · 分句无限定动词 —— 全库逮出 68 处，**前十条全是好句**。否。
+    #   · 分号前半有谓语后半没有 —— 逮出 2 处，**两处都是检测器漏判**。否。
+    #   · **不定冠词 + 复数名词** —— 全库 0 误报（改掉第34篇那处之后）。准。
+    # 冠词与名词之间可隔序数词或形容词（a **second** grounds 正是这么漏掉的）
+    ART_PL = re.compile(
+        r"\b(a|an|another)\s+((?:second|third|fourth|fifth|further|other|new|old|"
+        r"single|separate|different|[a-z]+(?:er|est))\s+)?([a-z]+(?:s|es))\b", re.I)
+    # -s 结尾未必是复数名词：动词第三人称（an encoder **puts**）与
+    # 学科名（a Leicester **genetics**）都会误报——两者都是实测撞出来的。
+    _SAFE = {"series", "species", "means", "news", "analysis", "basis", "crisis",
+             "process", "business", "address", "access", "success", "class", "glass",
+             "press", "mass", "pass", "cross", "loss", "gas", "bus", "census",
+             "status", "focus", "surplus", "apparatus", "consensus", "canvas",
+             # 学科与领域名（形复实单）
+             "genetics", "physics", "mathematics", "statistics", "economics",
+             "politics", "ethics", "optics", "mechanics", "acoustics", "linguistics",
+             "logistics", "diagnostics", "ceramics", "dynamics"}
+    # 只逮**已知为复数形态的名词**，不靠 -s 猜——避开动词第三人称。
+    _PLURAL_ONLY = {"grounds", "odds", "premises", "means", "quarters", "wages",
+                    "arrears", "auspices", "belongings", "dregs", "earnings",
+                    "outskirts", "proceeds", "remains", "riches", "savings",
+                    "spectacles", "surroundings", "thanks", "tidings", "whereabouts"}
+    for i, p in enumerate(paras, 1):
+        for sent in sentences(p["en"].replace("**", "")):
+            for m in ART_PL.finditer(sent):
+                n = m.group(3).lower()
+                if n not in _PLURAL_ONLY:
+                    continue          # 不靠 -s 猜，只逮已知复数形态名词
+                if n in _SAFE:
+                    continue
+                F.append(Finding("GRA-01", "语法", "hard",
+                    f"§{i} 不定冠词配复数名词", m.group(0),
+                    "a/an 只配单数。若该词本就是复数形态的名词（grounds／odds／"
+                    "premises），去掉冠词或改用单数"))
+
     # ── DEN-01 信息密度 · 形容词代替了数字（2026-08-20 立）──────────
     # 立此层之由：跑轮此前只有「指代」一族眼睛——十三处翻案全出自那一族。
     # 加这一族之前先量过三个判据，两个被数据否掉：

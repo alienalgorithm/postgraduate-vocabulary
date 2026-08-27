@@ -516,6 +516,30 @@ check("逐处点名否决 → 满功率", _pl2.power_of(_rej)[0] >= 11,
 check("笼统说「都没问题」→ 不及格", _pl2.power_of(_lazy)[0] < _pl2.POWER_FLOOR,
       "否则四个字就能骗到分")
 
+
+# ── GRA-01：冠词与数不一致（2026-08-20 立）────────────────────
+# 立此测之由：**语法完整性已犯到第三次**——
+#   第10篇 several 后缺名词／第23篇 rejected X was Y／第34篇 a second grounds。
+# 而第11轮只写「查语法完整性」，**没有任何一条机器规则在查**。
+# 立层之前量过三个判据，两个被否：分句无限定动词（68处，前十条全是好句）／
+# 分号前半有谓语后半没有（2处，都是检测器漏判）。只有第三个零误报。
+print("\n[GRA-01] 冠词与数不一致")
+_ga = art(["Halley added a second grounds for the choice and set the London bills aside. "
+           "The town was small and stable, with little migration in either direction. "
+           "A cleric had kept the annals, and they gave the age at death for each entry."])
+check("a + 复数名词 → GRA-01", "GRA-01" in ids(I.inspect(_ga, arts)[0]),
+      "a/an 只配单数；grounds 本就是复数形态")
+_ga2 = art(["Halley had second grounds for the choice and set the London bills aside. "
+            "The town was small and stable, with little migration in either direction. "
+            "A cleric had kept the annals, and they gave the age at death for each entry."])
+check("去掉冠词后不再报", "GRA-01" not in ids(I.inspect(_ga2, arts)[0]))
+_ga3 = art(["The analysis rested on a series of parish annals kept by one cleric alone. "
+            "The town was small and stable, with little migration in either direction. "
+            "A census gave the age at death for every entry that the register recorded."])
+check("a series／a census 不误报", "GRA-01" not in ids(I.inspect(_ga3, arts)[0]),
+      "series／census 本就是单数形态，须在白名单内")
+check("GRA-01 已挂铁律", bool(I.charter_of("GRA-01")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

@@ -21,16 +21,16 @@
           "zh": "认购人看出了这个**空子**(loophole)。他们**指定**(nominated)**最年轻的**(youngest)人命——常常是自己的**婴孩**(infants)、自己的**子女**(offspring)——**国库**(Exchequer)就这样**卖**(sold)着，亏在哪里却算不出来。年龄**要紧**(mattered)，这**无人争辩**(uncontested)。可没人能给出一个**量**(quantity)，说清它到底要紧多少——因为没人手里有一张人能活多久的表。"
         },
         {
-          "en": "John Graunt had **combed** the London bills of mortality in 1662, but London did not note the age of the dead, and would not for a hundred years. Halley added a second **grounds**, in his own **wording**: London and Dublin were **swollen** by **strangers** who died there, **funerals** exceeding **births**, which **rendered** them **incapable** of being **standards**.",
-          "zh": "1662年，约翰·格朗特**梳**(combed)过伦敦的死亡表；可伦敦不记死者的年龄，此后一百年也不记。哈雷又添了第二条**依据**(grounds)，用的是他自己的**措辞**(wording)：伦敦与都柏林被死在那里的**外来者**(strangers)**撑**(swollen)得虚胖，**葬礼**(funerals)多过**出生**(births)，这就**使**(rendered)它们**不配**(incapable)充当**标准**(standards)。"
+          "en": "John Graunt had **combed** the London bills of mortality in 1662, but London did not note the age of the dead, and would not for a hundred years. Halley had second **grounds**, in his own **wording**: London and Dublin were **swollen** by **strangers** who died there, **funerals** exceeding **births**, which **rendered** them **incapable** of being **standards**.",
+          "zh": "1662年，约翰·格朗特**梳**(combed)过伦敦的死亡表；可伦敦不记死者的年龄，此后一百年也不记。哈雷另有一层**理由**(grounds)，用的是他自己的**措辞**(wording)：伦敦与都柏林被死在那里的**外来者**(strangers)**撑**(swollen)得虚胖，**葬礼**(funerals)多过**出生**(births)，这就**使**(rendered)它们**不配**(incapable)充当**标准**(standards)。"
         },
         {
           "en": "Breslau, in Silesia, could **serve**. A **cleric**, Caspar Neumann, had kept its parish **annals**, and they gave the age at death. The town was small and **stable**, some thirty-four thousand **souls**, with little **migration**. Neumann sent the **figures** by **courier** to the Royal Society. From five years of them Halley **assembled** a **roster**: of those born, a thousand reached one, 855 reached two, 107 lived past 85.",
           "zh": "布雷斯劳可以，它在西里西亚，**当得起**(serve)。一位**教士**(cleric)卡斯帕尔·诺伊曼一直记着当地教区的**年录**(annals)，那上面写着死时的年龄。这座城小而**安定**(stable)，约莫三万四千**口人**(souls)，**流动**(migration)很少。诺伊曼托**信使**(courier)把**数字**(figures)送到皇家学会。就凭这五年的数，哈雷**拼**(assembled)出一张**名册**(roster)：一千人活到一岁，855人活到两岁，107人活过八十五。"
         },
         {
-          "en": "On 8 March 1693 he **submitted** the table to the Society; a week later, the **annuity** **tariff** **drawn** from it. Seven times was too little for every **purchaser** under **pension** age. The table was displayed, went **unread**, and was **shelved**. Parliament went on charging seven, **losing** on every life it **insured** young.",
-          "zh": "1693年3月8日，他把这张表**提交**(submitted)给学会；一周后，从表里**推**(drawn)出的**年金**(annuity)**费率表**(tariff)也呈了上去。对每一个不到**养老**(pension)之年的**买主**(purchaser)来说，七倍都太少。这张表被摆出来，**没人读**(unread)，然后被**搁置**(shelved)。议会照旧收七倍，在每一条**保**(insured)得太年轻的人命上**亏**(losing)钱。"
+          "en": "On 8 March 1693 he **submitted** the table to the Society; a week later, the **annuity** **tariff** drawn from it **followed**. Seven times was too little for every **purchaser** under **pension** age. The table was displayed, went **unread**, and was **shelved**. Parliament went on charging seven, **losing** on every life it **insured** young.",
+          "zh": "1693年3月8日，他把这张表**提交**(submitted)给学会；一周后，从表里推出的**年金**(annuity)**费率表**(tariff)也**跟着**(followed)呈了上去。对每一个不到**养老**(pension)之年的**买主**(purchaser)来说，七倍都太少。这张表被摆出来，**没人读**(unread)，然后被**搁置**(shelved)。议会照旧收七倍，在每一条**保**(insured)得太年轻的人命上**亏**(losing)钱。"
         }
       ],
       "facts": [
@@ -264,8 +264,8 @@
           "p": 5
         },
         {
-          "w": "drawn",
-          "zh": "推出；得出",
+          "w": "followed",
+          "zh": "随之；跟着",
           "p": 5
         },
         {
