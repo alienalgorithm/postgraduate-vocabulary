@@ -34,8 +34,8 @@
           "zh": "六个月后，链霉素组55人中死亡4人，对照组52人中死亡14人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组28人，对照组只有4人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。"
         },
         {
-          "en": "The trial was not the first to randomise. Its **methodological** **landmark** was **concealment**. A **recruiter** who knew the next group could **tamper** with it — accepting the ones whose **prognosis** suited his **bias**. Random numbers made the sequence impossible to **foresee**; sealed envelopes kept the assignment unreadable. That **fairness** made a **counterfactual** comparison credible: the patient had to be accepted before the envelope could reveal the treatment.",
-          "zh": "这并不是历史上第一次采用随机分配的试验。它真正具有**方法学上的**(methodological)**里程碑意义**(landmark)的是**分配隐藏**(concealment)。**招募的人**(recruiter)若知道下一位会进哪一组，就可能**动手脚**(tamper)——专挑**预后**(prognosis)合乎自己**偏倚**(bias)的人收进来。随机数让序列无法被**预见**(foresee)；密封信封则让已经生成的分配结果无法提前读取。这种**公平性**(fairness)使**反事实的**(counterfactual)比较真正可信：必须先确定这个患者进入试验，信封之后才能揭示他接受哪一种治疗。"
+          "en": "The trial was not the first to randomise. Its **methodological** **landmark** was **concealment**. A **recruiter** who knew the next group could **tamper** with enrolment — accepting the ones whose **prognosis** suited his **bias**. Random numbers made the sequence impossible to **foresee**; sealed envelopes kept the assignment unreadable. That **fairness** made a **counterfactual** comparison credible: the patient had to be accepted before the envelope could reveal the treatment.",
+          "zh": "这并不是历史上第一次采用随机分配的试验。它真正具有**方法学上的**(methodological)**里程碑意义**(landmark)的是**分配隐藏**(concealment)。**招募的人**(recruiter)若知道下一位会进哪一组，就可能在入组上**动手脚**(tamper)——专挑**预后**(prognosis)合乎自己**偏倚**(bias)的人收进来。随机数让序列无法被**预见**(foresee)；密封信封则让已经生成的分配结果无法提前读取。这种**公平性**(fairness)使**反事实的**(counterfactual)比较真正可信：必须先确定这个患者进入试验，信封之后才能揭示他接受哪一种治疗。"
         }
       ],
       "glossary": [
