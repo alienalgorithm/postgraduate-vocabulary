@@ -30,8 +30,13 @@ def run(name, cmd, ok_if=None):
 
 print(BAR); print("起飞前检查"); print(BAR)
 
-run("工具回归测试（33条，锁住每个已修缺陷）", "python3 scripts/test_tools.py",
+run("工具回归测试（锁住每个已修缺陷）", "python3 scripts/test_tools.py",
     lambda o: "失败 0" in o)
+# ★《总令》里的数是脚本从库里注进去的，不是手写的。
+# 库变了而没刷新，下次会话就会从过期的地图出发——**实测手工更新的数，
+# 两遍都在一小时内就旧了**，故挂进 preflight，过期即红。
+run("《总令》与库同步", "python3 scripts/render_charter.py --check",
+    lambda o: "与库同步" in o)
 run("markdown 构建与全部结构校验", "python3 scripts/build_markdown.py",
     lambda o: "全部通过" in o)
 run("markdown 与数据层同步", "git diff --exit-code -- articles")

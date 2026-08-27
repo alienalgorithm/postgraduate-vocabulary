@@ -707,6 +707,27 @@ check("销账与判定共用同一判据", 'if stt != "real":' in _src,
 check("时间锚点取自 git 提交", "git" in _src and "%cI" in _src,
       "不另建时间戳文件——git 的提交时间是既有的、不会被改错的事实")
 
+
+# ── 《总令》自动刷新 render_charter.py（2026-08-20 立）──────────
+# 立此之由：《总令》里混着两类东西——
+#   **机器做不了的判断**（判据／选题四条／十三轮的活／红线／进化五问）必须人写；
+#   **从库里就能算的数**（篇数／词元／均分／测试数／层族／题材表／欠账）手写就一定过期。
+# 实测：**同一会话里手工更新过两遍，两遍都在一小时内就旧了**
+#   ——不是不勤快，是设计错了。
+print("\n[总令] 易变部分自动刷新")
+_ch = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("六段易变部分都有占位标记",
+      all(("auto:%s" % k) in _ch for k in
+          ("header", "models", "topics", "families", "tests", "owed")),
+      "缺标记的段落刷新时会被跳过")
+check("标记成对", _ch.count("<!--auto:") == _ch.count("<!--/auto:") == 6)
+check("人写的部分不在标记内",
+      "auto:" not in _ch[_ch.index("## 一、判据"):_ch.index("## 二、动手之前")],
+      "★ 判据这一节必须由人维护，绝不能被脚本覆写")
+_rc = open(os.path.join(ROOT, "scripts/render_charter.py"), encoding="utf-8").read()
+check("提供 --check 供 CI 调用", "--check" in _rc and 'sys.exit(1)' in _rc,
+      "过期时须能让 CI 红，否则等于没有")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
