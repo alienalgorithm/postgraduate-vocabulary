@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 39,
-  "keyword_count": 1950,
+  "article_count": 40,
+  "keyword_count": 2000,
   "articles": [
     {
       "id": "01",
@@ -923,6 +923,25 @@
       "canonical_fingerprint_sha256": "82f74a25fd16718194c96cc4fe0009f085e036d34c8c230341a91bd2ee4a58a2",
       "markdown_sha256": "363aed07c434772c409db4b030d5f7038657383e7e408a4df9b72b06ef7d6664",
       "markdown_git_blob_sha": "4ea52a4dfeb42e1a1a33055e22aeb2a60b3237da",
+      "superseded_signatures": []
+    },
+    {
+      "id": "40",
+      "slug": "the-book-of-winchester-left-out-winchester",
+      "title": "The Book of Winchester Left Out Winchester",
+      "title_zh": "《温切斯特之书》里没有温切斯特",
+      "version_id": "40-final",
+      "status": "第四十篇定稿",
+      "date": "2026-08-27",
+      "words": 269,
+      "keywords": 50,
+      "density": 18.6,
+      "source": "2026-08-27按《总令》全流程新写：动笔前逐条上网核七项；MET-09 与 VAL-13 双双零报出，是这两层立起来后第一篇一次过的；补名额时 rode 撞第32篇，改动自伤第17次",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "6a63337f1a2af2f918c936a17e7b85809d33c9b65863c156b9fc2a6f79a19cd6",
+      "markdown_sha256": "81d3db9a893b08d08329e3ba6deeb58d5021d0163a0c6b55de3b59eb1c00b758",
+      "markdown_git_blob_sha": "f3dc94a2654ed1d5a9be0e5bbda3ddde9ab96c8c",
       "superseded_signatures": []
     }
   ]
