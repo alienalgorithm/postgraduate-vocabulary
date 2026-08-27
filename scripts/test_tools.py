@@ -477,6 +477,29 @@ check("rescan.py 存在且扫五样", all(k in _rs for k in
 check("回扫用 git 取上一版", "git" in _rs and "HEAD:" in _rs,
       "快照存的是画像不是原文")
 
+
+# ── DEN-01：信息密度（2026-08-20 立）──────────────────────────
+# 立此测之由：跑轮此前只有「指代」一族眼睛——十三处翻案全出自那一族。
+# 加这一族之前量过四个判据，三个被数据否掉：
+#   数硬事实（零事实的句子里全是好句）／数新实词（中位数100%）／空评价句（全库0句）。
+# 只有「句内无数字却用量级形容词」量出了真东西。
+print("\n[DEN-01] 信息密度 · 形容词代替数字")
+_dn = art(["The plague struck the port in autumn and left many survivors marked for life. "
+           "Officials counted the dead each morning and buried them beyond the wall. "
+           "The register they kept became the only record anyone could later consult."])
+check("量级形容词而句内无数 → DEN-01", "DEN-01" in ids(I.inspect(_dn, arts)[0]),
+      "写作规范 §3.2 给数字，不给形容词")
+_dn2 = art(["The plague struck the port in autumn and marked two-thirds of the survivors. "
+            "Officials counted the dead each morning and buried them beyond the wall. "
+            "The register they kept became the only record anyone could later consult."])
+check("换成数字后不再报", "DEN-01" not in ids(I.inspect(_dn2, arts)[0]))
+_dn3 = art(["High pressure favoured the reaction and heat hastened it beyond all reckoning. "
+            "Officials counted the dead each morning and buried them beyond the wall. "
+            "The register they kept became the only record anyone could later consult."])
+check("术语搭配 high pressure 不误报", "DEN-01" not in ids(I.inspect(_dn3, arts)[0]),
+      "全库18处里十七处是术语搭配或专名，故本层只提示不计硬伤")
+check("DEN-01 已挂铁律", bool(I.charter_of("DEN-01")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

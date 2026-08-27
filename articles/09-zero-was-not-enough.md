@@ -2,7 +2,7 @@
 
 > 题材：1967—1980 年全球天花根除、监测与环形接种
 > 状态：**第九篇最终精进锁定稿**（2026-08-15）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 环形接种不是设计出来的，是疫苗不够时逼出来的。而零从来不能证明天花已消失——是搜寻把「没有」变成了证据。
 
 ---
@@ -11,7 +11,7 @@
 
 In October 1977 Ali Maow Maalin, a hospital **canteen** hand in Merca, Somalia, **erupted** in a **rash** two weeks after riding with two **smallpox** **patients**. He was **diagnosed** with **malaria**, then chickenpox; a hospital worker finally **notified** the office. He was the last person anywhere to **acquire** smallpox by **ordinary** contagion.
 
-The **disease** killed roughly three in ten it **struck**, leaving many **survivors** blind or badly **scarred**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.
+The **disease** killed roughly three in ten it **struck**, and **scarred** two-thirds of the **survivors**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.
 
 The method came from a **shortage**. In December 1966 William Foege took a radio call on a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum** to go round. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**: chase cases, not coverage.
 
@@ -28,7 +28,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 1977年10月，索马里梅尔卡一家医院**食堂**(canteen)帮工阿里·马奥·马阿林，在与两名**天花**(smallpox)**病人**(patients)同车两周后**发**(erupted)起**皮疹**(rash)。他先被**诊断**(diagnosed)为**疟疾**(malaria)，又被当成水痘；最后是一名医院工作人员**通报**(notified)了根除办公室。他是全世界最后一个经**寻常**(ordinary)传染而**染上**(acquire)天花的人。
 
-这种**病**(disease)每**击中**(struck)十人约杀死三人，许多**幸存者**(survivors)落下失明或严重的**疤痕**(scarred)。1967年，世卫组织把一场**全球**(global)攻势**加强**(intensified)了。可**接种率**(coverage)是很差的**标尺**(gauge)：一个**省**(province)可以报出九成，同时**藏着**(conceal)一个没打过疫苗的村子。
+这种**病**(disease)每**击中**(struck)十人约杀死三人，又在三分之二的**幸存者**(survivors)身上**留下**(scarred)麻坑。1967年，世卫组织把一场**全球**(global)攻势**加强**(intensified)了。可**接种率**(coverage)是很差的**标尺**(gauge)：一个**省**(province)可以报出九成，同时**藏着**(conceal)一个没打过疫苗的村子。
 
 方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够分。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。
 
@@ -42,7 +42,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 **§1**（10词）canteen 食堂｜erupted 医务所｜rash 皮疹｜smallpox 天花｜patients 病人｜diagnosed 诊断｜malaria 疟疾｜notified 通报｜acquire 染上；获得｜ordinary 寻常的
 
-**§2**（10词）disease 疾病｜struck 击中｜survivors 幸存者｜scarred 疤痕｜intensified 加强｜global 全球的｜coverage 接种率；覆盖｜gauge 标尺；量规｜province 省｜conceal 藏匿
+**§2**（10词）disease 疾病｜struck 击中｜scarred 疤痕｜survivors 幸存者｜intensified 加强｜global 全球的｜coverage 接种率；覆盖｜gauge 标尺；量规｜province 省｜conceal 藏匿
 
 **§3**（10词）shortage 短缺｜suspected 疑似的｜serum 疫苗；血清｜ringed 围成一圈｜kinship 亲缘｜bazaar 集市｜surveillance 监测｜containment 围堵｜standing 常设的｜strategy 方略
 
@@ -67,3 +67,5 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 **原文作「During the Biafran war」——对不上。**
 福奇那次环形接种的顿悟发生在 **1966 年 12 月尼日利亚东部**（华盛顿大学 Columns：a **1966** incident in eastern Nigeria；福奇本人《House on Fire》亦记此时），而**比夫拉战争 1967 年 7 月 6 日才爆发**——**顿悟在战前，不在战中。**（另有来源作「1967 年尼日利亚疫情」，指的是其后的阿巴卡利基疫情，即 Thompson & Foege 1968 年 WHO 报告所载那一次。）已改为 **In December 1966**，不再依赖战争这个时间锚。
 **无误七项**：**1967 年**世卫启动强化根除计划（Our World in Data 作 1966，两说，本文取多数的 1967）；天花病死率约 **三成**（重型天花约 30%）；**监测与遏制（环形接种）**为福奇所创、后成为标准策略；印度 **1974 年**疫情最烈（全年 188,000 例、31,000 死；5 月单周报告 11,000 新例），**1975 年 5 月 24 日最后一例、7 月 5 日宣告无证据**；**1978 年伯明翰实验室泄漏致 Janet Parker 死亡**（英国最后一例致死）；**1979 年委员会认证、1980 年世界卫生大会宣布根除**；马阿林 **2013 年死于疟疾**，当时正在为脊灰疫苗奔走。[UW Columns：Calling the Shots: Dr. William Foege](https://www.washington.edu/alumni/columns/top10/calling_the_shots.html)｜[WHO：History of smallpox vaccination](https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination)｜[密歇根大学展览：Smallpox Eradication in India, 1972-1977](https://apps.lib.umich.edu/online-exhibits/exhibits/show/smallpox-eradication-india/indian-engages-pandemic)
+- **已核（2026-08-20 · DEN-01 信息密度层首次产出）**：原文作「leaving **many** survivors blind or badly scarred」——**many 是形容词代替了数字**，而本篇别处每个数都给足了（三成、九成、三十五例、45°C、三分之二）。
+**世卫估计：65—80% 的天花幸存者留下深麻坑；5—9% 出现眼部并发症（含失明）。**正文已改为 **scarred two-thirds of the survivors**——取 65—80% 区间的下沿作保守表述。（失明一项因比例小得多、与麻坑不宜并列，已从该句移除；§1 马阿林与 §5 仍完整。）[NFID：The Triumph of Science](https://www.nfid.org/the-triumph-of-science-the-incredible-story-of-smallpox-eradication/)｜[PubMed：The ocular complications of smallpox](https://pubmed.ncbi.nlm.nih.gov/12742852/)

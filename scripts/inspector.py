@@ -362,6 +362,34 @@ def inspect(a, archive):
 
 
 
+
+    # ── DEN-01 信息密度 · 形容词代替了数字（2026-08-20 立）──────────
+    # 立此层之由：跑轮此前只有「指代」一族眼睛——十三处翻案全出自那一族。
+    # 加这一族之前先量过三个判据，两个被数据否掉：
+    #   · 数硬事实 —— 零硬事实的句子里全是好句（第16篇机制句、第07篇名句）
+    #   · 数新实词 —— 中位数 100%、最低十分位 86%，全库本无空转余地
+    #   · 空评价句 —— 全库 0 句
+    # 只有这一条量出了真东西：**句内一个数字也没有，却用了量级形容词**
+    # （写作规范 §3.2「给数字，不给形容词」）。
+    # 全库实测 18 处，其中十七处是术语搭配或专名（High pressure／long codes／
+    # tiny current／Small Magellanic），**只有一处是真空转**——
+    # 第09篇 leaving **many** survivors blind，而该篇别处每个数都给足了。
+    # 故本层只提示不计硬伤：**机器分不出术语搭配与真含糊，须人来判。**
+    VAGUE_QTY = re.compile(
+        r"\b(many|several|numerous|various|countless|widespread|extensive|"
+        r"frequent|rare|huge|vast|enormous|massive)\s+([a-z]{4,})", re.I)
+    _has_num = re.compile(r"\d")
+    for i, p in enumerate(paras, 1):
+        body = p["en"].replace("**", "")
+        for sent in sentences(body):
+            if _has_num.search(sent):
+                continue                      # 句内已有数字，不算以形容词代数
+            for m in VAGUE_QTY.finditer(sent):
+                F.append(Finding("DEN-01", "密度", "info",
+                    f"§{i} 量级形容词而句内无数", m.group(0),
+                    "写作规范 §3.2 给数字不给形容词。问：这里能不能换成一个查得到的数？"
+                    "若是术语搭配（high pressure／long codes）则判为保留并写明"))
+
     # ── PHR-01/02/03 短语名额（2026-08-20 立）──────────────────────
     # 立此三条之由：单词名额只装得下单词，可考研真正考的东西里，
     # 有一大块是**动词短语、固定搭配与介词习语**——逐词都认得，
