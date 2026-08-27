@@ -18,12 +18,12 @@
       },
       "paras": [
         {
-          "en": "On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **sails** set, 64 **bronze** **cannon**. A **gust** laid her over to port; she righted; a second squall finished her. Water **poured** through her open gunports; she **foundered** after 1,300 metres. Thirty **drowned**.",
-          "zh": "1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(sails)只张了三面，船上载着64门**青铜**(bronze)**炮**(cannon)。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。"
+          "en": "On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **sails** set, 64 **bronze** cannon **mounted**. A **gust** laid her over to port; she righted; a second squall finished her. Water **poured** through her open gunports; she **foundered** after 1,300 metres. Thirty **drowned**.",
+          "zh": "1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(sails)只张了三面，64门**青铜**(bronze)炮**架**(mounted)在舷上。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。"
         },
         {
-          "en": "The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming watched a **stability** **rehearsal** at the **quay**: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; by three her roll turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.",
-          "zh": "这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在**码头**(quay)看过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。这试验照例要跑十几趟；跑到第三趟，船身已**摇**得**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。"
+          "en": "The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming **witnessed** a **stability** **rehearsal** on board: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; by three her roll turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.",
+          "zh": "这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在船上**目睹**(witnessed)过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。这试验照例要跑十几趟；跑到第三趟，船身已**摇**得**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。"
         },
         {
           "en": "The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port, not **starboard** — a question no **symmetric** **craft** can raise.",
@@ -65,8 +65,8 @@
           "p": 1
         },
         {
-          "w": "cannon",
-          "zh": "炮",
+          "w": "mounted",
+          "zh": "架设；安装",
           "p": 1
         },
         {
@@ -100,6 +100,11 @@
           "p": 2
         },
         {
+          "w": "witnessed",
+          "zh": "目睹",
+          "p": 2
+        },
+        {
           "w": "stability",
           "zh": "稳定性",
           "p": 2
@@ -107,11 +112,6 @@
         {
           "w": "rehearsal",
           "zh": "演练",
-          "p": 2
-        },
-        {
-          "w": "quay",
-          "zh": "码头",
           "p": 2
         },
         {
