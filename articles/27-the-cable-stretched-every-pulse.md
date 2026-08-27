@@ -9,11 +9,11 @@
 
 ## 英文正文
 
-In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, become hard to **decipher**, and arrive as **distortion** rather than clean marks.
+In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, grow hard to **decipher**, and arrive as **distortion** not clean marks.
 
-Whitehouse did not deny retardation. He measured it on shorter wires and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity** and **dielectric** behaviour. Their deeper dispute concerned **extrapolation**—whether short-line experiments captured Atlantic **scaling**, and whether **sensitivity** answered the same **premise**.
+Whitehouse did not deny retardation. He measured it on shorter wires and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity** and **dielectric** behaviour. Their deeper dispute was **extrapolation**: did short-line tests capture Atlantic **scaling**, and did **sensitivity** meet that **premise**?
 
-Thomson's mirror galvanometer increased **responsiveness**. A tiny current caused **deflection** in a mirror suspended on **silk** threads; **reflection** sent a **luminous** **spot** across a scale, **enlarging** movement. Faint currents became **discernible** without harsher drive. One **disparity** captured fragility: Victoria's message took sixteen and a half hours; repeated, it was read in sixty-seven minutes, restoring **readability**.
+Thomson's mirror galvanometer increased **responsiveness**. A tiny current caused **deflection** in a mirror suspended on **silk** threads; **reflection** sent a **luminous** **spot** across a scale, **enlarging** movement. Faint currents became **discernible** without harsher drive. One **disparity** told all: Victoria's message took sixteen and a half hours on Whitehouse's **gear**; the mirror read it in sixty-seven minutes.
 
 Failure was not a one-man morality tale. The cable's **defective** **insulation** had suffered during manufacture and **handling**. Whitehouse's high-voltage practice—about 500 volts directly and perhaps 2,000 from induction coils—likely **exacerbated** **vulnerability**. As **leakage** made communication **intermittent**, effective service ceased on 1 September. Recovered **strands** showed cores never **centred** and **impurities** in the gum.
 
@@ -30,7 +30,7 @@ The lesson was not that low power was harmless. Different failures demand differ
 
 Whitehouse并没有否认迟滞现象。他曾在较短线路上测量这种效应，并给出了另一种**诊断**(diagnosis)：更高的**电压**(voltage)、感应线圈和**继电器**(relays)仍可以让通信具有实用性。Thomson更关注信号**传播**(propagation)、导体**电阻率**(resistivity)以及**介电的**(dielectric)行为。两人更深层的争论其实是**外推**(extrapolation)问题——短线路实验能否代表大西洋尺度的**尺度效应**(scaling)，以及接收端的**灵敏度**(sensitivity)是否真正回答了同一个**前提**(premise)。
 
-Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness)。极微弱的电流会让一面悬挂在**丝线**(silk)上的小镜发生**偏转**(deflection)；经过**反射**(reflection)，一个**发亮的**(luminous)**光点**(spot)会沿着刻度移动，从而把细微运动**放大**(enlarging)。这样，微弱电流无需更猛烈的驱动也能变得**可辨识**(discernible)。一个巨大的**差距**(disparity)浓缩了一切：用怀特豪斯的机器，维多利亚女王的电报耗了十六小时；换上汤姆森的镜子，六十七分钟便走完，恢复了真正的**可读性**(readability)。
+Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness)。极微弱的电流会让一面悬挂在**丝线**(silk)上的小镜发生**偏转**(deflection)；经过**反射**(reflection)，一个**发亮的**(luminous)**光点**(spot)会沿着刻度移动，从而把细微运动**放大**(enlarging)。这样，微弱电流无需更猛烈的驱动也能变得**可辨识**(discernible)。一个**差距**(disparity)说明了一切：在怀特豪斯的**机器**(gear)上，维多利亚女王的电报耗了十六个半小时；换上汤姆森的镜子，六十七分钟便走完。
 
 这次失败不是一个人的道德寓言。电缆的**有缺陷的**(defective)**绝缘层**(insulation)在制造与**搬运过程**(handling)中已经受损。Whitehouse的高压操作——直流约500伏，感应线圈估计可达约2,000伏——很可能进一步**加剧了**(exacerbated)这种**脆弱性**(vulnerability)。随着**漏电**(leakage)增加，通信变得**时断时续**(intermittent)，有效服务在9月1日停止。从捞起的**缆股**(strands)上能看到：铜芯从来没**居中**(centred)，胶里还有**杂质**(impurities)。
 
@@ -44,7 +44,7 @@ Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness
 
 **§2**（10词）diagnosis 诊断；判断｜voltage 电压｜relays 继电器｜propagation 传播｜resistivity 电阻率｜dielectric 介电的；电介质｜extrapolation 外推｜scaling 尺度效应；缩放｜sensitivity 灵敏度｜premise 前提
 
-**§3**（10词）responsiveness 响应能力｜deflection 偏转｜silk 丝；丝线｜reflection 反射｜luminous 发亮的；明亮的｜spot 光点；斑点｜enlarging 放大；扩大｜discernible 可辨识的｜disparity 差距；差异｜readability 可读性
+**§3**（10词）responsiveness 响应能力｜deflection 偏转｜silk 丝；丝线｜reflection 反射｜luminous 发亮的；明亮的｜spot 光点；斑点｜enlarging 放大；扩大｜discernible 可辨识的｜disparity 差距；差异｜gear 器械；装置
 
 **§4**（10词）defective 有缺陷的｜insulation 绝缘；绝缘层｜handling 搬运；处理｜exacerbated 加剧｜vulnerability 脆弱性｜leakage 漏电；泄漏｜intermittent 时断时续的｜strands 缆股（复）｜centred 居中｜impurities 杂质（复）
 

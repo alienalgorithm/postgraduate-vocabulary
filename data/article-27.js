@@ -18,16 +18,16 @@
       },
       "paras": [
         {
-          "en": "In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, become hard to **decipher**, and arrive as **distortion** rather than clean marks.",
+          "en": "In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, grow hard to **decipher**, and arrive as **distortion** not clean marks.",
           "zh": "1858年8月，第一条**跨大西洋的**(transatlantic)电报电缆让人相信，横跨大洋的通信可以近乎即时完成。但一条**海底的**(submarine)线路绝不是普通导线。分布式**电容**(capacitance)会储存电荷，而欧姆性的电阻又会**拖慢**(slowed)电荷重新分布，于是每一个**脉冲**(pulse)都会逐渐**弥散**(dispersed)。Thomson分析了这种**迟滞**(retardation)：相邻信号可能逐渐**汇合**(coalesce)，越来越难以**辨读**(decipher)，最终抵达的不是清晰符号，而是**失真**(distortion)。"
         },
         {
-          "en": "Whitehouse did not deny retardation. He measured it on shorter wires and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity** and **dielectric** behaviour. Their deeper dispute concerned **extrapolation**—whether short-line experiments captured Atlantic **scaling**, and whether **sensitivity** answered the same **premise**.",
+          "en": "Whitehouse did not deny retardation. He measured it on shorter wires and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity** and **dielectric** behaviour. Their deeper dispute was **extrapolation**: did short-line tests capture Atlantic **scaling**, and did **sensitivity** meet that **premise**?",
           "zh": "Whitehouse并没有否认迟滞现象。他曾在较短线路上测量这种效应，并给出了另一种**诊断**(diagnosis)：更高的**电压**(voltage)、感应线圈和**继电器**(relays)仍可以让通信具有实用性。Thomson更关注信号**传播**(propagation)、导体**电阻率**(resistivity)以及**介电的**(dielectric)行为。两人更深层的争论其实是**外推**(extrapolation)问题——短线路实验能否代表大西洋尺度的**尺度效应**(scaling)，以及接收端的**灵敏度**(sensitivity)是否真正回答了同一个**前提**(premise)。"
         },
         {
-          "en": "Thomson's mirror galvanometer increased **responsiveness**. A tiny current caused **deflection** in a mirror suspended on **silk** threads; **reflection** sent a **luminous** **spot** across a scale, **enlarging** movement. Faint currents became **discernible** without harsher drive. One **disparity** captured fragility: Victoria's message took sixteen and a half hours; repeated, it was read in sixty-seven minutes, restoring **readability**.",
-          "zh": "Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness)。极微弱的电流会让一面悬挂在**丝线**(silk)上的小镜发生**偏转**(deflection)；经过**反射**(reflection)，一个**发亮的**(luminous)**光点**(spot)会沿着刻度移动，从而把细微运动**放大**(enlarging)。这样，微弱电流无需更猛烈的驱动也能变得**可辨识**(discernible)。一个巨大的**差距**(disparity)浓缩了一切：用怀特豪斯的机器，维多利亚女王的电报耗了十六小时；换上汤姆森的镜子，六十七分钟便走完，恢复了真正的**可读性**(readability)。"
+          "en": "Thomson's mirror galvanometer increased **responsiveness**. A tiny current caused **deflection** in a mirror suspended on **silk** threads; **reflection** sent a **luminous** **spot** across a scale, **enlarging** movement. Faint currents became **discernible** without harsher drive. One **disparity** told all: Victoria's message took sixteen and a half hours on Whitehouse's **gear**; the mirror read it in sixty-seven minutes.",
+          "zh": "Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness)。极微弱的电流会让一面悬挂在**丝线**(silk)上的小镜发生**偏转**(deflection)；经过**反射**(reflection)，一个**发亮的**(luminous)**光点**(spot)会沿着刻度移动，从而把细微运动**放大**(enlarging)。这样，微弱电流无需更猛烈的驱动也能变得**可辨识**(discernible)。一个**差距**(disparity)说明了一切：在怀特豪斯的**机器**(gear)上，维多利亚女王的电报耗了十六个半小时；换上汤姆森的镜子，六十七分钟便走完。"
         },
         {
           "en": "Failure was not a one-man morality tale. The cable's **defective** **insulation** had suffered during manufacture and **handling**. Whitehouse's high-voltage practice—about 500 volts directly and perhaps 2,000 from induction coils—likely **exacerbated** **vulnerability**. As **leakage** made communication **intermittent**, effective service ceased on 1 September. Recovered **strands** showed cores never **centred** and **impurities** in the gum.",
@@ -185,8 +185,8 @@
           "p": 3
         },
         {
-          "w": "readability",
-          "zh": "可读性",
+          "w": "gear",
+          "zh": "器械；装置",
           "p": 3
         },
         {
