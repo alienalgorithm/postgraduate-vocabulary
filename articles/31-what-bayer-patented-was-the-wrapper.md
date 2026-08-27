@@ -2,7 +2,7 @@
 
 > 题材：1935年百浪多息、磺胺的发现与一项没能守住的专利
 > 状态：**第三十一篇定稿**（2026-08-20）
-> 指标：266 词 / 50 重点词 / 密度 18.8%
+> 指标：267 词 / 50 重点词 / 密度 18.7%
 > 多马克为救女儿注射了那种红色染料，她活了下来。可几个月后巴黎的实验证明：起效的根本不是染料，而是它在体内裂出的那一半——而那一半1909年就有人合成过，专利早已过期。
 
 ---
@@ -11,7 +11,7 @@
 
 On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist** and **snapped**. Surgeons dug it out, but **sepsis** **climbed** her arm, and her **surgeon** proposed **amputation**. Her father worked at Bayer, where chemists had **concocted** a **scarlet** **dye** **carrying** a sulphonamide side chain.
 
-Gerhard Domagk had **shown** in 1932 that it **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.
+Gerhard Domagk had **shown** in 1932 that the dye **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.
 
 In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.
 
@@ -28,7 +28,7 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 
 1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可**脓毒症**(sepsis)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**配**(concocted)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。
 
-格哈德·多马克1932年就**证明**(shown)过这东西能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。
+格哈德·多马克1932年就**证明**(shown)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。
 
 1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。
 
