@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 36,
-  "keyword_count": 1800,
+  "article_count": 37,
+  "keyword_count": 1850,
   "articles": [
     {
       "id": "01",
@@ -866,6 +866,25 @@
       "canonical_fingerprint_sha256": "9c986c12208260a3ba1cfae4bc41406e56ca16ae46ca45d6829ddac744e0a559",
       "markdown_sha256": "f5a1eb7ea7ad98d22712e2b7002c9897d4983583d1e11891e340b8ac48e99f86",
       "markdown_git_blob_sha": "69eaa23d9381ef045b28f2456d6a6b738d932dc2",
+      "superseded_signatures": []
+    },
+    {
+      "id": "37",
+      "slug": "the-blotter-recorded-who-paid",
+      "title": "The Blotter Recorded Who Paid",
+      "title_zh": "登记簿记下的是谁先交了钱",
+      "version_id": "37-final",
+      "status": "第三十七篇定稿",
+      "date": "2026-08-20",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-08-20按《总令》全流程新写：动笔前逐条上网核十三项＋两说存照；VAL-11 一次逮出四个数词、VAL-12 五个初中词，处置一律为取消加粗、正文数字一个未动",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "380a05a6a1996614a873a68bc49930b693349e1378a4079a6e753c2ab471a2c5",
+      "markdown_sha256": "3fff853447735819f544a9c9fd7404a9a0710d19155323558071822729f797c8",
+      "markdown_git_blob_sha": "f83aa6bfad9d81c4e282a03ad3fe1a37ad1133f4",
       "superseded_signatures": []
     }
   ]
