@@ -12,14 +12,14 @@
       "date": "2026-08-13",
       "status": "第十八篇最终精进锁定稿",
       "metrics": {
-        "words": 271,
+        "words": 269,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.6
       },
       "paras": [
         {
-          "en": "In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** at Holmdel to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess temperature of about 3.5 kelvin.",
-          "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊在新泽西州霍姆德尔使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)约3.5开尔文的额外天线温度。"
+          "en": "In 1964, Bell Laboratories **astronomers** Arno Penzias and Robert Wilson used a 20-foot **horn** **antenna** to measure faint **microwave** emission from the Milky Way. They **referenced** it to a liquid-helium **load**. At the **zenith**, a **residual** **hiss** remained, **equivalent** to an excess temperature of about 3.5 kelvin.",
+          "zh": "1964年，贝尔实验室的**天文学家**(astronomers)阿诺·彭齐亚斯和罗伯特·威尔逊使用一座20英尺口径的**号角**(horn)**天线**(antenna)，测量银河系微弱的**微波**(microwave)辐射。他们以一个液氦**负载**(load)作基准，为系统定**标**(referenced)。当天线指向**天顶**(zenith)时，仍有一道**残余的**(residual)**嘶声**(hiss)，其强度**相当于**(equivalent)约3.5开尔文的额外天线温度。"
         },
         {
           "en": "They taped the **seams**, tested each **joint** for loss and allowed for ground **interference**. **Pigeons** had **roosted** inside; Penzias and Wilson trapped them and **scrubbed** away the **droppings**. Nothing changed. The excess **appeared** **isotropic**, unpolarised and free of **seasonal** variation from July 1964 to April 1965.",
@@ -30,8 +30,8 @@
           "zh": "不远处，普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台辐射计，**寻找**(seek)**原初宇宙留下的**(primordial)**遗存热辐射**(relic)。一位共同的朋友手里正拿着他们的预印本，给彭齐亚斯打了电话。**巧合**(coincidence)就此变成**合作**(collaboration)。1965年7月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记述**(writeup)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊仍把这一解释视为**暂定的**(provisional)。"
         },
         {
-          "en": "One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the **cosmic** **background** **radiation**. Decades later COBE measured a near-perfect black-body **profile** at 2.725 K and mapped **fluctuations** — **anisotropies** — near one part in 100,000. The nearly uniform **thermal** glow became a **signature** of a hot early cosmos; its slight unevenness marked the beginnings of later structure.",
-          "zh": "一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE测得它在2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；细微的不均匀则标出了后来结构的开端。"
+          "en": "One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the **cosmic** **background** **radiation**. Decades later COBE measured a near-perfect black-body **profile** at 2.725 K and mapped **fluctuations** — **anisotropies** — near one part in 100,000. The nearly uniform **thermal** glow became a **signature** of a hot early cosmos; that faint patchiness marked the beginnings of later structure.",
+          "zh": "一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE测得它在2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；而那点细微的斑驳则标出了后来结构的开端。"
         },
         {
           "en": "The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**; it became evidence only after every **homegrown** **culprit** had been ruled out, and the sky would not go quiet.",
