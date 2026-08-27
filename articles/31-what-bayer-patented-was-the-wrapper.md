@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist** and **snapped**. Surgeons dug it out, but **sepsis** **climbed** her arm, and her **surgeon** proposed **amputation**. Her father worked at Bayer, where chemists had **built** a **scarlet** **dye** **carrying** a sulphonamide side chain.
+On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist** and **snapped**. Surgeons dug it out, but **sepsis** **climbed** her arm, and her **surgeon** proposed **amputation**. Her father worked at Bayer, where chemists had **concocted** a **scarlet** **dye** **carrying** a sulphonamide side chain.
 
 Gerhard Domagk had **shown** in 1932 that it **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.
 
@@ -26,7 +26,7 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可**脓毒症**(sepsis)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**造**(built)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。
+1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可**脓毒症**(sepsis)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**配**(concocted)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。
 
 格哈德·多马克1932年就**证明**(shown)过这东西能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。
 
@@ -40,7 +40,7 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 
 ## 50 词速查表
 
-**§1**（10词）wrist 腕｜snapped 折断｜sepsis 脓毒症｜climbed 爬上；攀升｜surgeon 外科医生｜amputation 截肢｜built 造；建造｜scarlet 猩红的｜dye 染料｜carrying 带有；挂着
+**§1**（10词）wrist 腕｜snapped 折断｜sepsis 脓毒症｜climbed 爬上；攀升｜surgeon 外科医生｜amputation 截肢｜concocted 调配；配制｜scarlet 猩红的｜dye 染料｜carrying 带有；挂着
 
 **§2**（10词）shown 证明（过去分词）｜cured 治好｜mice 小鼠（复）｜injected 注射｜recovered 康复｜permanent 永久的｜reddish 发红的｜tinge 淡色；色泽｜antibacterial 抗菌的｜proof 证据
 

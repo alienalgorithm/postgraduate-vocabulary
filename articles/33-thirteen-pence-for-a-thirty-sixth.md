@@ -11,11 +11,11 @@
 
 In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of Parliament sent their **correspondence** **exempt**, and the rest of the country **covered** the **deficit**.
 
-So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **miles** for nothing.
+So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **stages** for nothing.
 
 Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.
 
-In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only a hundred and forty-four thousand **pounds** **moved** with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.
+In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only a hundred and forty-four thousand **pounds** **tracked** distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.
 
 The office charged thirteen pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. Prepayment **erased** the **bookkeeping**. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.
 
@@ -28,11 +28,11 @@ The office charged thirteen pence to move what cost a thirty-sixth of a penny. T
 
 1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信件**(correspondence)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。
 
-于是人们绕过它。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个**圈**(circle)是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百**英里**(miles)，一文没收到。
+于是人们绕开这笔**邮资**(postage)。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个圈是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百个**驿程**(stages)，一文没收到。
 
 每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。
 
-1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百四十四千**镑**(pounds)是随距离**变动**(moved)的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。
+1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百四十四千**镑**(pounds)是**随**(tracked)距离走的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。
 
 邮局收十三便士，去送一件运费只值一便士三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。预付一下子**抹掉**(erased)了整套**账务**(bookkeeping)。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。
 
@@ -42,11 +42,11 @@ The office charged thirteen pence to move what cost a thirty-sixth of a penny. T
 
 **§1**（10词）pence 便士（复）｜recipient 收信人；接受者｜servant 仆人｜shillings 先令（复）｜swallowed 吞掉｜wage 工钱｜correspondence 信件｜exempt 免征的；豁免的｜covered 补上；抵偿｜deficit 亏空
 
-**§2**（10词）writer 写信人｜arranged 约定；安排｜token 记号；信物｜meant 意味着｜circle 圆圈｜peered 细看｜doorstep 门阶｜packet 邮件包｜hauled 拖运｜miles 英里（复）
+**§2**（10词）postage 邮资｜writer 写信人｜arranged 约定；安排｜token 记号；信物｜meant 意味着｜peered 细看｜doorstep 门阶｜packet 邮件包｜hauled 拖运｜stages 驿程（复）
 
 **§3**（10词）assumed 想当然地认为｜coach 马车｜mile 英里｜enquiry 调查｜evasion 逃费；规避｜produced produce 的过去式，造成｜hired 雇用｜lads 半大孩子（复）｜errands 差事（复）｜queried 追问
 
-**§4**（10词）schoolmaster 校长；男教师｜postal 邮政的｜annual 全年的｜pounds 镑（复）｜moved 变动｜traffic 信流；流量｜hauling 运送｜fraction 零头；分数｜penny 便士｜mail 邮路；邮件
+**§4**（10词）schoolmaster 校长；男教师｜postal 邮政的｜annual 全年的｜pounds 镑（复）｜tracked 随…而变｜traffic 信流；流量｜hauling 运送｜fraction 零头；分数｜penny 便士｜mail 邮路；邮件
 
 **§5**（10词）clerks 文书（复）｜billing 开账；计费｜entering 登记｜knocking 敲门｜erased 抹掉｜bookkeeping 账务｜uniform 统一的｜inaugural 开办的；首次的｜tally 总数；计数｜rose 上升（过去式）
 

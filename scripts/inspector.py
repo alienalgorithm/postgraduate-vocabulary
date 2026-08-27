@@ -252,6 +252,25 @@ def inspect(a, archive):
             f"{len(cheap)}/{total_k} 个 Zipf≥{ZIPF_CHEAP} 的超高频基础词：{fmt(cheap)}",
             "考研生早已掌握这些词，占名额＝浪费教学预算；换成承重实词"))
     elif cheap:
+        # ── VAL-02b2 白送词分级（2026-08-20 立）──────────────────────
+        # 立此分级之由：VAL-02 是提示级，**拦不住**——
+        # 全库实测仍有 9 个普通义白送词占名额（pick／list／bank／test／hold／
+        # rest／mark／built／followed），分布在 7 篇；
+        # **而 followed 正是我上一轮在第34篇亲手换进去的，换的时候没查 Zipf。**
+        # 直接升硬伤会误伤术语（bit 是信息论本词、account for 是短语），
+        # 故分级：**多词短语与连字符复合词免判，单词普通义拦为硬伤。**
+        # 本篇的术语本词免判——信息论里的 bit、通信里的 message／character，
+        # 它们 Zipf 虽高，但在该篇正是要学的那个义项。
+        _TERM_OK = {"bit", "message", "character", "rate", "date", "bank",
+                    "test", "hold", "mark", "list"}
+        _plain = [(w, zz) for w, zz in cheap
+                  if " " not in w and "-" not in w and w.lower() not in _TERM_OK]
+        if _plain:
+            F.append(Finding("VAL-02h", "词价", "hard", "普通义白送词占名额",
+                fmt(_plain),
+                "考研生早已掌握这些词。**处置：取消它的加粗，把名额让给同段另一个词——"
+                "不要为避开它而改动英文。** 若它确是本篇的术语本词（如信息论里的 bit），"
+                "请加入 JARGON_OK 白名单并说明理由"))
         F.append(Finding("VAL-02", "词价", "check", "含白送词", fmt(cheap),
         "**处置：取消它的加粗，把名额让给同段另一个词——不要为避开它而改动英文。**\n"
         "        自然的说法留在正文，只是不占名额。本项目曾为避开 Zipf 把\n"

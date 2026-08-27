@@ -540,6 +540,25 @@ check("a series／a census 不误报", "GRA-01" not in ids(I.inspect(_ga3, arts)
       "series／census 本就是单数形态，须在白名单内")
 check("GRA-01 已挂铁律", bool(I.charter_of("GRA-01")))
 
+
+# ── VAL-02h：普通义白送词升为硬伤（2026-08-20 立）──────────────
+# 立此分级之由：VAL-02 是提示级，**拦不住**——全库实测仍有 9 个普通义白送词
+# 占名额（pick／list／bank／test／hold／rest／mark／built／followed），分布 7 篇；
+# **而 followed 正是上一轮在第34篇亲手换进去的，换的时候没查 Zipf。**
+# 直接升硬伤会误伤术语（bit 是信息论本词），故分级：
+# **多词短语与连字符复合词免判，术语白名单免判，其余单词普通义拦为硬伤。**
+print("\n[VAL-02h] 普通义白送词")
+_vh = art(["The chemists **built** a **scarlet** dye that clung to wool and would not wash out. "
+           "Her father worked at the works and brought a sample home for the family. "
+           "The colour outlasted every rival on the market for a decade or more."])
+check("普通义白送词 built → VAL-02h", "VAL-02h" in ids(I.inspect(_vh, arts)[0]),
+      "built(5.07) 是普通义，考研生早已掌握")
+_vh2 = art(["The chemists **concocted** a **scarlet** dye that clung to wool and would not wash out. "
+            "Her father worked at the works and brought a sample home for the family. "
+            "The colour outlasted every rival on the market for a decade or more."])
+check("换掉后不再报", "VAL-02h" not in ids(I.inspect(_vh2, arts)[0]))
+check("VAL-02h 已挂铁律", bool(I.charter_of("VAL-02h")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

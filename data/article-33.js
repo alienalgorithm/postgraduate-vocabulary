@@ -17,16 +17,16 @@
           "zh": "1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信件**(correspondence)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。"
         },
         {
-          "en": "So people got round it. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a **circle** work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **miles** for nothing.",
-          "zh": "于是人们绕过它。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个**圈**(circle)是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百**英里**(miles)，一文没收到。"
+          "en": "So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **stages** for nothing.",
+          "zh": "于是人们绕开这笔**邮资**(postage)。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个圈是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百个**驿程**(stages)，一文没收到。"
         },
         {
           "en": "Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.",
           "zh": "每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。"
         },
         {
-          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only a hundred and forty-four thousand **pounds** **moved** with distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.",
-          "zh": "1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百四十四千**镑**(pounds)是随距离**变动**(moved)的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。"
+          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only a hundred and forty-four thousand **pounds** **tracked** distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.",
+          "zh": "1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百四十四千**镑**(pounds)是**随**(tracked)距离走的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。"
         },
         {
           "en": "The office charged thirteen pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. Prepayment **erased** the **bookkeeping**. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.",
@@ -99,6 +99,11 @@
           "p": 1
         },
         {
+          "w": "postage",
+          "zh": "邮资",
+          "p": 2
+        },
+        {
           "w": "writer",
           "zh": "写信人",
           "p": 2
@@ -116,11 +121,6 @@
         {
           "w": "meant",
           "zh": "意味着",
-          "p": 2
-        },
-        {
-          "w": "circle",
-          "zh": "圆圈",
           "p": 2
         },
         {
@@ -144,8 +144,8 @@
           "p": 2
         },
         {
-          "w": "miles",
-          "zh": "英里（复）",
+          "w": "stages",
+          "zh": "驿程（复）",
           "p": 2
         },
         {
@@ -219,8 +219,8 @@
           "p": 4
         },
         {
-          "w": "moved",
-          "zh": "变动",
+          "w": "tracked",
+          "zh": "随…而变",
           "p": 4
         },
         {

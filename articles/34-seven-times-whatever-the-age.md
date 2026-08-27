@@ -17,7 +17,7 @@ John Graunt had **combed** the London bills of mortality in 1662, but London did
 
 Breslau, in Silesia, could **serve**. A **cleric**, Caspar Neumann, had kept its parish **annals**, and they gave the age at death. The town was small and **stable**, some thirty-four thousand **souls**, with little **migration**. Neumann sent the **figures** by **courier** to the Royal Society. From five years of them Halley **assembled** a **roster**: of those born, a thousand reached one, 855 reached two, 107 lived past 85.
 
-On 8 March 1693 he **submitted** the table to the Society; a week later, the **annuity** **tariff** drawn from it **followed**. Seven times was too little for every **purchaser** under **pension** age. The table was displayed, went **unread**, and was **shelved**. Parliament went on charging seven, **losing** on every life it **insured** young.
+On 8 March 1693 he **submitted** the table to the Society; a week later, the **annuity** **tariff** drawn from it **trailed**. Seven times was too little for every **purchaser** under **pension** age. The table was displayed, went **unread**, and was **shelved**. Parliament went on charging seven, **losing** on every life it **insured** young.
 
 ---
 
@@ -34,7 +34,7 @@ On 8 March 1693 he **submitted** the table to the Society; a week later, the **a
 
 布雷斯劳可以，它在西里西亚，**当得起**(serve)。一位**教士**(cleric)卡斯帕尔·诺伊曼一直记着当地教区的**年录**(annals)，那上面写着死时的年龄。这座城小而**安定**(stable)，约莫三万四千**口人**(souls)，**流动**(migration)很少。诺伊曼托**信使**(courier)把**数字**(figures)送到皇家学会。就凭这五年的数，哈雷**拼**(assembled)出一张**名册**(roster)：一千人活到一岁，855人活到两岁，107人活过八十五。
 
-1693年3月8日，他把这张表**提交**(submitted)给学会；一周后，从表里推出的**年金**(annuity)**费率表**(tariff)也**跟着**(followed)呈了上去。对每一个不到**养老**(pension)之年的**买主**(purchaser)来说，七倍都太少。这张表被摆出来，**没人读**(unread)，然后被**搁置**(shelved)。议会照旧收七倍，在每一条**保**(insured)得太年轻的人命上**亏**(losing)钱。
+1693年3月8日，他把这张表**提交**(submitted)给学会；一周后，从表里推出的**年金**(annuity)**费率表**(tariff)也**随后**(trailed)呈了上去。对每一个不到**养老**(pension)之年的**买主**(purchaser)来说，七倍都太少。这张表被摆出来，**没人读**(unread)，然后被**搁置**(shelved)。议会照旧收七倍，在每一条**保**(insured)得太年轻的人命上**亏**(losing)钱。
 
 ---
 
@@ -48,7 +48,7 @@ On 8 March 1693 he **submitted** the table to the Society; a week later, the **a
 
 **§4**（10词）serve 当得起；充当｜cleric 教士｜annals 年录；编年记录｜stable 安定的｜souls 人口；灵魂（复）｜migration 迁徙｜figures 数字（复）｜courier 信使｜assembled 拼合；汇集｜roster 名册
 
-**§5**（10词）submitted 提交｜annuity 年金｜tariff 费率表｜followed 随之；跟着｜purchaser 买主｜pension 养老金｜unread 没人读的｜shelved 搁置｜losing 亏损｜insured 承保
+**§5**（10词）submitted 提交｜annuity 年金｜tariff 费率表｜trailed 随后跟上｜purchaser 买主｜pension 养老金｜unread 没人读的｜shelved 搁置｜losing 亏损｜insured 承保
 
 ---
 
