@@ -634,6 +634,18 @@ _v9 = art(["He **lingered** months **awaiting** word."],
 check("措辞变体不误报", "MET-09" not in ids(I.inspect(_v9, arts)[0]),
       "正文用更短的语境译法，本条其实是对的")
 check("MET-09 已挂铁律", bool(I.charter_of("MET-09")))
+# ★ 窗口由 ±1 放宽到 ±3（2026-08-20）：138 条人判后 7 条真错，
+#   全是「挂上附近某个名词的意思」，而 ±1 只逮到一部分。
+_w9 = art(["The strokes **gathered** at the pump, then **thinned** to nothing, "
+           "and the **blocks** beyond stayed clear of it entirely. "
+           "Every household there drew water from a different source."],
+          ["笔画在水泵旁**聚拢**(gathered)，随后**稀疏**(thinned)下去，"
+           "再往外的**片区**(blocks)一处也没有。那里每家取水的来处都不同。"],
+          gloss=[{"w": "gathered", "zh": "片区；街区（复）", "p": 1},
+                 {"w": "thinned", "zh": "聚拢", "p": 1},
+                 {"w": "blocks", "zh": "片区；街区（复）", "p": 1}])
+check("隔位挂错也报出（窗口 ±3）", "MET-09" in ids(I.inspect(_w9, arts)[0]),
+      "gathered 挂着两位之后 blocks 的意思，±1 的窗口逮不到")
 
 
 # ── 功率计按实测重配（2026-08-20）────────────────────────────

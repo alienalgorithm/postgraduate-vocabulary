@@ -48,7 +48,7 @@ Why more? Four carpenters' **sticks** came up too: two **rulers** **graduated** 
 
 **§4**（10词）seabed 海底｜salvaged 打捞｜objects 器物；物件｜archaeologist 考古学家｜measuring 测量｜plank 板｜rib 肋材｜structure 结构｜heel 倾侧｜unaided 无需外力；独自
 
-**§5**（10词）sticks 棍尺（复）｜rulers 尺子（复）｜graduated 尺（复）｜millimetres 毫米｜master 总的；师傅｜shipwright 造船师｜gangs 工班｜accurately 准确地｜scale 尺度；刻度｜mistaken 弄错的
+**§5**（10词）sticks 棍尺（复）｜rulers 尺子（复）｜graduated 刻有刻度的｜millimetres 毫米｜master 总的；师傅｜shipwright 造船师｜gangs 工班｜accurately 准确地｜scale 尺度；刻度｜mistaken 弄错的
 
 ---
 

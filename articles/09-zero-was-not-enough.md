@@ -40,7 +40,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 ## 50 词速查表
 
-**§1**（10词）canteen 食堂｜erupted 医务所｜rash 皮疹｜smallpox 天花｜patients 病人｜diagnosed 诊断｜malaria 疟疾｜notified 通报｜acquire 染上；获得｜ordinary 寻常的
+**§1**（10词）canteen 食堂｜erupted 发出；爆发｜rash 皮疹｜smallpox 天花｜patients 病人｜diagnosed 诊断｜malaria 疟疾｜notified 通报｜acquire 染上；获得｜ordinary 寻常的
 
 **§2**（10词）disease 疾病｜struck 击中｜scarred 疤痕｜survivors 幸存者｜intensified 加强｜global 全球的｜coverage 接种率；覆盖｜gauge 标尺；量规｜province 省｜conceal 藏匿
 

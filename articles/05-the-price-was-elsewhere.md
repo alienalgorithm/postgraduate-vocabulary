@@ -46,7 +46,7 @@ UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后
 
 **§3**（10词）grocers 杂货商｜symbol 符号｜engineer 工程师｜bullseye 牛眼环；靶心｜smeared 洇开；涂抹｜printed 印刷｜packaging 包装｜vertical 竖直的｜panel 评审组；面板｜proposal 方案；提议
 
-**§4**（10词）format 格式｜digits 数字；位｜checksum 校验和｜catching 逮住；捕捉｜misread 误读｜mirror 反射镜｜swept 扫｜label 标签｜reflected 光线｜widths 宽度
+**§4**（10词）format 格式｜digits 数字；位｜checksum 校验和｜catching 逮住；捕捉｜misread 误读｜mirror 反射镜｜swept 扫｜label 标签｜reflected 反射｜widths 宽度
 
 **§5**（10词）database 数据库｜description 描述｜inventory 库存｜laser 激光｜vendors 供应商｜proprietary 专有的｜infrastructure 基础设施｜competitors 竞争者｜obey 遵守｜specification 规范
 

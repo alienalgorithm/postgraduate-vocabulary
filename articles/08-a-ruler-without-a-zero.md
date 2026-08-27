@@ -40,7 +40,7 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 ## 50 词速查表
 
-**§1**（10词）astronomy 天文学｜employed 雇用｜inspect 检查；检视｜plates 摄影底片；板｜merit 本事；功绩｜telescopes 望远镜｜tedious 单调费力的｜task 任务｜catalogue 编目；编入目录｜variables 变星
+**§1**（10词）astronomy 天文学｜employed 雇用；受雇于｜inspect 检查；检视｜plates 摄影底片；板｜merit 本事；功绩｜telescopes 望远镜｜tedious 单调费力的｜task 任务｜catalogue 编目；编入目录｜variables 变星
 
 **§2**（10词）regular 有规律的；定期的｜rhythm 节律；节奏｜noticed 注意到｜smudge 一片；污迹｜advantage 优势｜faint 暗淡的；微弱的｜distance 距离｜assumption 假设｜relative 相对的｜intrinsic 本征的；固有的
 

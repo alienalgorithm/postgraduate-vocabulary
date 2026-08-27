@@ -42,9 +42,9 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** later
 
 **§1**（10词）cholera 霍乱｜prevailing 主流的；盛行的｜opinion 意见｜blamed 算在｜foul 污浊的｜physician 内科医生｜nearby 附近的｜doubted 怀疑；不信｜drew 打｜supply 水源；供给
 
-**§2**（10词）stroke 短线；一划｜address 门牌；地址｜neighbourhood 街区｜strokes 短线；一划｜gathered 地图｜pump 水泵｜thinned 聚拢｜blocks 片区；街区（复）｜exceptions 例外｜vindicated 证实；为…正名
+**§2**（10词）stroke 短线；一划｜address 门牌；地址｜neighbourhood 街区｜strokes 短线；一划｜gathered 聚拢；聚集｜pump 水泵｜thinned 变稀疏｜blocks 片区；街区（复）｜exceptions 例外｜vindicated 证实；为…正名
 
-**§3**（10词）workhouse 济贫院｜inmates 院民；被收容者｜zone 区域｜borehole 钻井｜recorded 记录在案｜brewery 酿酒厂｜beside 紧挨着｜supplied 水源；供给｜stench 恶臭｜emptied 清空
+**§3**（10词）workhouse 济贫院｜inmates 院民；被收容者｜zone 区域｜borehole 钻井｜recorded 记录在案｜brewery 酿酒厂｜beside 紧挨着｜supplied 供给；配给｜stench 恶臭｜emptied 清空
 
 **§4**（10词）widow 寡妇｜remote 远离的；偏远的｜taste 口感；味道｜delivered 送递｜niece 外甥女；侄女｜drank 喝｜refute 驳倒｜miasma 瘴气｜infection 传染｜anomalies 异常
 
