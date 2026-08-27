@@ -2,7 +2,7 @@
 
 > 题材：1944—1983 年麦克林托克、玉米斑驳与转座元件
 > 状态：**第十三篇最终精进锁定稿**（2026-08-15）
-> 指标：265 词 / 50 重点词 / 密度 18.9%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 每一块色斑都是一只钟：切离发生得早就长成宽阔的扇区，晚了只剩一点碎斑。而她1953年停止了发表。
 
 ---
@@ -11,7 +11,7 @@
 
 A **kernel** of maize records when a chromosome fragment moved. From 1944 Barbara McClintock **bred** **corn** and used genetic **crosses** to trace where chromosome 9 kept snapping. Some **seeds** carried one **purple** **patch**; others were finely **speckled**. Under the **microscope** she watched the chromosomes and traced what the plants **inherited**.
 
-In 1948 she named the **breakage** **locus** Dissociation, or Ds. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and it **shifted** only when Activator stood **alongside** it. When Ds **departed**, the gene worked again and the colour came back. The **gene** never moved; its interrupter did.
+She named the **breakage** **locus** Dissociation, or Ds; by 1948 she saw it move. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and it **shifted** only when Activator stood **alongside** it. When Ds **departed**, the gene worked again and the colour came back. The **gene** never moved; its interrupter did.
 
 Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **relocation**.
 
@@ -28,7 +28,7 @@ McClintock called Ac and Ds **controlling** elements: an **insertion** could **s
 
 一粒玉米**籽粒**(kernel)能记下染色体片段是什么时候动的。从1944年起，芭芭拉·麦克林托克**培育**(bred)**玉米**(corn)，用遗传**杂交**(crosses)追查9号染色体老是断在哪里。有些**种子**(seeds)上只有一块**紫色**(purple)**斑**(patch)，另一些则布满细密的**麻点**(speckled)。她在**显微镜**(microscope)下盯着染色体，追踪植株**遗传**(inherited)到了什么。
 
-1948年，她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。**基因**(gene)从没动过；动的是打断它的那个插入者。
+她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds；到1948年，她看出它会自己挪窝。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在**旁**(alongside)时，它才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色就回来了。**基因**(gene)从没动过；动的是打断它的那个插入者。
 
 Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**易位**(relocation)。
 
@@ -64,3 +64,8 @@ Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都
 - 1960年代分子生物学家在细菌等体系中独立发现可移动元件，其结论方获广泛接受。1983年她获诺贝尔生理学或医学奖，为首位独得该奖（不与人分享）的女性。目前已知人类基因组中超过45%由转座元件构成。[PNAS：McClintock and the discovery of jumping genes](https://www.pnas.org/doi/10.1073/pnas.1219372109)｜[ASU Embryo Project](https://embryo.asu.edu/taxonomy/term/145351)｜[ScienceInsights：45%](https://scienceinsights.org/what-did-barbara-mcclintock-discover-jumping-genes/)
 - 麦克林托克自1944年起在冷泉港以玉米为材料系统研究染色体断裂—融合—桥循环；1948年将该断裂位点命名为 Dissociation（Ds）。　**已核**：Ds 位点的移位见于 1947—48 年度卡内基年报；该位点处的染色体断裂需第二个显性位点参与，她命名为 Activator（Ac），Ac 可位于不同位点甚至不同染色体上。1950 年 PNAS 论文汇总多年数据。[PMC：Barbara McClintock and the discovery of jumping genes](https://pmc.ncbi.nlm.nih.gov/articles/PMC3528533/)
 - **已核（2026-08-20 逐条上网）· §5「唯一」限定核对无误**：麦克林托克 1983 年独得生理学或医学奖，**「唯一独得该奖的女性」这一限定正确**——多处来源一致（Carnegie Science、NLM Profiles in Science、Britannica、CT Women's Hall of Fame）。另据 Nature Index：迄今仅三位女性独得科学类诺奖——麦克林托克（1983 医学）、霍奇金（1964 化学）、居里夫人（1911 化学）。**故限定必须写明「医学奖类别内」，本文正是如此。**另核：1951 年冷泉港报告、1953 年停止发表、1983 年获奖（相距 32 年）皆无误。[NLM Profiles in Science：Barbara McClintock](https://profiles.nlm.nih.gov/spotlight/ll/feature/biographical-overview)｜[Nature Index：The Nobel gender gap](https://www.nature.com/nature-index/news/the-nobel-gender-gap-is-worse-than-you-think)｜[NobelPrize.org 1983](https://www.nobelprize.org/prizes/medicine/1983/summary/)
+- **已核（2026-08-20 逐条上网）· 抓出一处年份挂错了地方**：
+**原文作「In 1948 she named the breakage locus Dissociation, or Ds」——命名不在 1948。**
+据 **NLM Profiles in Science（NIH 官方）**：她 **1944 年夏**在当年所种玉米中发现两个新位点，**当即命名为 Dissociator（Ds）与 Activator（Ac）**；而 **1948 年初**她做出的是另一个发现——**「Ds 与 Ac 两者都会易位、都会在染色体上换位置」**（原文：In early 1948, she made the surprising discovery that both Dissociator and Activator could transpose）。1948 年是**易位**之年，不是**命名**之年。
+已改为「She named the breakage locus Dissociation, or Ds; **by 1948 she saw it move**」——**把 1948 挂回它真正属于的那件事**。
+**另核无误六项**：1950 年 PNAS《The origin and behavior of mutable loci in maize》；1951 年冷泉港研讨会报告（反响是「大体上的沉默与困惑」）；**1953 年停止就转座子发表**（AAAS 原文：She ceased publishing on transposons in 1953, when she realized 'acutely, the extent of disinterest and lack of confidence in the conclusions'）；**1983 年独得生理学或医学奖**（Genetics 原文：the sole winner），距 1951 年正 **32 年**；Ac 编码转座酶而 Ds 是 Ac 的缺陷版（Fedoroff 等 1983 年测序证实）；转座元件约占人类基因组一半（另：**玉米基因组约 85% 为转座元件**）。[NLM Profiles in Science：Controlling Elements, Cold Spring Harbor 1942-1967](https://profiles.nlm.nih.gov/spotlight/ll/feature/harbor)｜[PNAS：Barbara McClintock and the discovery of jumping genes](https://www.pnas.org/doi/10.1073/pnas.1219372109)｜[AAAS：Barbara McClintock was years away from her colleagues](https://www.aaas.org/membership/scientia/barbara-mcclintock-was-years-away-her-colleagues)
