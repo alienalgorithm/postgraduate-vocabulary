@@ -15,7 +15,7 @@ On 29 August 1831 he **wound** two **windings** on opposite **halves** of a soft
 
 A changing magnetic **flux** through a **loop** **induces** an electromotive force, **driving** charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.
 
-On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found **induction** independently but published later; the first machine built on it was Pixii's **magneto** of 1832.
+On 28 October he clamped a copper disc **spinning** between a magnet's **poles**, drawing electricity **continuously** from the **spindle** and a terminal at the **rim**. It was the first machine to yield a steady flow by **rotation** — the **ancestor** of every **dynamo**. Joseph Henry had found induction independently but published later; the first machine on that **phenomenon** was Pixii's **magneto** of 1832.
 
 Almost every **generator** feeding the grid **repeats** that same cycle. Steam, falling water or wind **powers** a **turbine** whose **shaft** sweeps **magnets** past **coils**; the **output** is **stepped** up and **carried** away. What Faraday saw was not a magnet making electricity, but a change making it.
 
@@ -32,7 +32,7 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 
 穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出电动势，**驱使**(driving)电荷绕**导体**(conductor)流动。10月17日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。
 
-10月28日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利已独立发现**感应**(induction)，但发表在后；照着这一原理造出的第一台机器，是皮克西1832年的**磁电机**(magneto)。
+10月28日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利已独立发现感应，但发表在后；照着这一**现象**(phenomenon)造出的第一台机器，是皮克西1832年的**磁电机**(magneto)。
 
 今天向电网供电的几乎每一台**发电机**(generator)，都在**重复**(repeats)同一个循环。蒸汽、落水或风**带动**(powers)**汽轮机**(turbine)，其**轴**(shaft)让**磁铁**(magnets)扫过一组组**线圈**(coils)；**输出**(output)经**升**(stepped)压后被**输送**(carried)出去。法拉第看见的，从来不是磁铁在生电，而是变化在生电。
 
@@ -46,7 +46,7 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 
 **§3**（10词）flux 通量｜loop 回路｜induces 感生；引起｜driving 驱使；驱动｜conductor 导体｜thrust 插入；猛推｜bar 条形的；棒｜helix 螺线管；螺旋｜withdrawal 抽出；撤回｜motionless 静止的
 
-**§4**（10词）spinning 旋转｜poles 极｜continuously 连续地｜spindle 转轴｜rim 盘缘；边缘｜rotation 转动｜ancestor 祖先｜dynamo 发电机｜induction 感应｜magneto 磁电机
+**§4**（10词）spinning 旋转｜poles 极｜continuously 连续地｜spindle 转轴｜rim 盘缘；边缘｜rotation 转动｜ancestor 祖先｜dynamo 发电机｜phenomenon 现象｜magneto 磁电机
 
 **§5**（10词）generator 发电机｜repeats 重复｜powers 带动；驱动｜turbine 汽轮机｜shaft 轴｜magnets 磁铁｜coils 线圈｜output 输出｜stepped 升｜carried 输送
 
