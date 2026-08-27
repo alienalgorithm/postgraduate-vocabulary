@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '38': { source: '2026-08-20按《总令》全流程新写：动笔前逐条上网核十一项＋两说存照＋★按雷24自算揭出一处来源本身错十倍（国家地理称托瓦兹加长20英寸，实为约2英寸）；本篇是全库踩规则最多的一篇，十六处词踩VAL-02h/09/11/12', verification: 'conversation-latest-final' },
   '37': { source: '2026-08-20按《总令》全流程新写：动笔前逐条上网核十三项＋两说存照；VAL-11 一次逮出四个数词、VAL-12 五个初中词，处置一律为取消加粗、正文数字一个未动', verification: 'conversation-latest-final' },
   '36': { source: '2026-08-20按《总令》全流程新写：动笔前逐条上网核（十三项）＋两说存照＋一处未取得出处改为不依赖→词池→七查→入库→十五层＋六个新层→第9轮五问→十三轮跑满；VAL-11/12 当场逮出 eighth 一词踩两条规则', verification: 'conversation-latest-final' },
   '35': { source: '2026-08-20按《第35篇写作提示词》二十六雷全流程新写：动笔前逐条上网核＋自算倍数＋一年一事→词池→六查→入库→十五层→第9轮五问→台账；断言当场拦下 thirteen 数词与 One report 双词加粗', verification: 'conversation-latest-final' },
