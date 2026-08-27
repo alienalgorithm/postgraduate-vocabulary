@@ -920,9 +920,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第四篇最终精进锁定稿",
     "metrics": {
-      "words": 269,
+      "words": 270,
       "keywords": 50,
-      "density": 18.6
+      "density": 18.5
     },
     "paras": [
       {
@@ -930,20 +930,20 @@ window.SITE = {
         "zh": "在海上，太阳**轻易**(readily)就能给出**纬度**(latitude)；**经度**(longitude)要的却是某条已知**子午线**(meridian)上的时刻。地球二十四小时自转一周，所以当地**正午**(noon)与**参照**(reference)时刻之间每差一小时，就是十五度**弧**(arc)。这套**算术**(arithmetic)从来没人怀疑；难的是在颠簸的**甲板**(deck)上把那一小时**守**(keeping)住。"
       },
       {
-        "en": "In 1714 Parliament offered £20,000 for half a degree: thirty **nautical** miles at the **equator**. John Harrison, a Lincolnshire **carpenter**, answered with machinery that **resisted** **motion**, friction and **heat**. H1 went to Lisbon in 1736; a **flaw** kept H2 **ashore**; nineteen years of **refining** H3 still fell short.",
-        "zh": "1714年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是三十**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森的答案是一套能**抵抗**(resisted)**晃动**(motion)、摩擦与**温度**(heat)的机械。H1在1736年去了里斯本；一处**缺陷**(flaw)让H2留在了**岸上**(ashore)；十九年**打磨**(refining)H3，仍然不够。"
+        "en": "In 1714 Parliament offered £20,000 for half a degree: thirty **nautical** miles at the **equator**. John Harrison, a Lincolnshire **carpenter**, **answered** with machinery that **resisted** **motion**, friction and **heat**. H1 went to Lisbon in 1736; a **flaw** kept H2 **ashore**; nineteen years of **refining** H3 still fell short.",
+        "zh": "1714年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是三十**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森**答**(answered)以一套能**抵抗**(resisted)**晃动**(motion)、摩擦与**温度**(heat)的机械。H1在1736年去了里斯本；一处**缺陷**(flaw)让H2留在了**岸上**(ashore)；十九年**打磨**(refining)H3，仍然不够。"
       },
       {
         "en": "H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a bimetallic **strip** offsetting **temperature**, **jewelled** **pivots** cutting **friction**. His son William carried it to Jamaica; over eighty-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.",
         "zh": "1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条双金属**片**(strip)抵消**温度**(temperature)，**嵌宝石**(jewelled)的**枢轴**(pivots)减小**摩擦**(friction)。他的儿子威廉带着它去牙买加；八十一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。"
       },
       {
-        "en": "The **commissioners** **balked**. Nevil Maskelyne, who **championed** the **lunar** method, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in forty-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** it.",
-        "zh": "**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)**月**(lunar)距法的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在四十七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出来。"
+        "en": "The **commissioners** **balked**. Nevil Maskelyne, who **championed** the **lunar** method, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in forty-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** the watch.",
+        "zh": "**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)**月**(lunar)距法的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在四十七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出那块表。"
       },
       {
-        "en": "Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily **gain** never **exceeding** eight seconds. In 1773 Parliament **granted** Harrison £8,750, never the prize. He died in 1776, months after Cook sailed home **praising** the copy. **Chronometers** stayed **costly**, so **navigators** kept **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.",
-        "zh": "拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日**走差**(gain)从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世，距库克**盛赞**(praising)着那块仿表归航仅数月。**航海钟**(Chronometers)一直**昂贵**(costly)，**航海者**(navigators)于是继续靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)月亮达数十**年**(decades)。钟没有打败天空；它加入了天空。"
+        "en": "Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its daily gain never **exceeding** eight seconds. In 1773 Parliament **granted** Harrison £8,750, never the prize. He died in 1776, months after Cook **sailed** home **praising** the copy. Chronometers stayed **costly**, so **navigators** kept **sighting** the Moon with **sextant** and **almanac** for **decades**. The clock did not beat the sky; it joined it.",
+        "zh": "拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日走差从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世，距库克**驶**(sailed)回、**盛赞**(praising)那块仿表仅数月。航海钟一直**昂贵**(costly)，**航海者**(navigators)于是继续靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)月亮达数十**年**(decades)。钟没有打败天空；它加入了天空。"
       }
     ],
     "glossary": [
@@ -1013,8 +1013,13 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "resist",
-        "zh": "抵抗",
+        "w": "answered",
+        "zh": "答以；回应",
+        "p": 2
+      },
+      {
+        "w": "resisted",
+        "zh": "打磨",
         "p": 2
       },
       {
@@ -1038,8 +1043,8 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "refine",
-        "zh": "打磨",
+        "w": "refining",
+        "zh": "英寸",
         "p": 2
       },
       {
@@ -1048,8 +1053,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "inch",
-        "zh": "英寸",
+        "w": "inches",
+        "zh": "枢轴",
         "p": 3
       },
       {
@@ -1073,8 +1078,8 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "pivot",
-        "zh": "枢轴",
+        "w": "pivots",
+        "zh": "容许",
         "p": 3
       },
       {
@@ -1088,23 +1093,23 @@ window.SITE = {
         "p": 3
       },
       {
-        "w": "tolerate",
-        "zh": "容许",
+        "w": "tolerated",
+        "zh": "评审委员；专员",
         "p": 3
       },
       {
-        "w": "commissioner",
-        "zh": "评审委员；专员",
-        "p": 4
-      },
-      {
-        "w": "balk",
+        "w": "commissioners",
         "zh": "迟疑；退缩",
         "p": 4
       },
       {
-        "w": "champion",
+        "w": "balked",
         "zh": "力主；拥护",
+        "p": 4
+      },
+      {
+        "w": "championed",
+        "zh": "观测",
         "p": 4
       },
       {
@@ -1118,23 +1123,23 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "observation",
-        "zh": "观测",
-        "p": 4
-      },
-      {
-        "w": "err",
+        "w": "observations",
         "zh": "误差",
         "p": 4
       },
       {
-        "w": "principle",
+        "w": "erred",
         "zh": "原理",
         "p": 4
       },
       {
-        "w": "maker",
+        "w": "principles",
         "zh": "制作者",
+        "p": 4
+      },
+      {
+        "w": "makers",
+        "zh": "走差；增益",
         "p": 4
       },
       {
@@ -1143,18 +1148,18 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "gain",
-        "zh": "走差；增益",
-        "p": 5
-      },
-      {
-        "w": "exceed",
+        "w": "exceeding",
         "zh": "超过",
         "p": 5
       },
       {
-        "w": "grant",
+        "w": "granted",
         "zh": "拨给；授予",
+        "p": 5
+      },
+      {
+        "w": "sailed",
+        "zh": "启航；航行",
         "p": 5
       },
       {
@@ -1163,22 +1168,17 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "chronometer",
-        "zh": "航海钟",
-        "p": 5
-      },
-      {
         "w": "costly",
         "zh": "昂贵的",
         "p": 5
       },
       {
-        "w": "navigator",
+        "w": "navigators",
         "zh": "航海者",
         "p": 5
       },
       {
-        "w": "sight",
+        "w": "sighting",
         "zh": "观测",
         "p": 5
       },
@@ -1193,7 +1193,7 @@ window.SITE = {
         "p": 5
       },
       {
-        "w": "decade",
+        "w": "decades",
         "zh": "十年",
         "p": 5
       }
