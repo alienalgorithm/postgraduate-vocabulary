@@ -34,8 +34,8 @@
           "zh": "正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；限定符则标明词语的**语义**(semantic)**类别**(category)。**抄书人**(scribe)把这一切都记在心里；这类标记免去了读者的这份负担，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和行政**档案**(archives)都变得**可读**(legible)了。"
         },
         {
-          "en": "The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**, and credit remains in **dispute**; they built **cumulatively** on Coptic, on copies and on **testimony** from stone. Across the decree’s three scripts Ptolemy’s name supplied an anchor, and other monuments let scholars **verify** readings, making the **puzzle** solvable.",
-          "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字提供了锚点；其他碑铭则让学者能**核验**(verify)读法，使这道**谜题**(puzzle)有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。"
+          "en": "The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**, and credit remains in **dispute**; they built **cumulatively** on Coptic, on copies and on **testimony** from stone. Across the decree’s three scripts Ptolemy’s name supplied a **foothold**, and other monuments let scholars **verify** readings, making the puzzle solvable.",
+          "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字给了一个**立足点**(foothold)；其他碑铭则让学者能**核验**(verify)读法，使这道谜题有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。"
         }
       ],
       "glossary": [
@@ -280,13 +280,13 @@
           "p": 5
         },
         {
-          "w": "verify",
-          "zh": "核验；证实",
+          "w": "foothold",
+          "zh": "立足点",
           "p": 5
         },
         {
-          "w": "puzzle",
-          "zh": "谜题；难题",
+          "w": "verify",
+          "zh": "核验；证实",
           "p": 5
         }
       ],
