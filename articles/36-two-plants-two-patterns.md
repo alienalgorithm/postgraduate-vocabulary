@@ -2,7 +2,7 @@
 
 > 题材：1850年代《柳叶刀》分析卫生委员会与英国食品掺假的查验
 > 状态：**第三十六篇定稿**（2026-08-20）
-> 指标：266 词 / 50 重点词 / 密度 18.8%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 财政大臣说，化学分不出咖啡与菊苣。他说得没错——化学确实分不出。可哈索尔问的不是「这粉末由什么做成」，而是「它原先长成什么样」。而真正让这件事咬得动的，也不是显微镜。
 
 ---
@@ -17,7 +17,7 @@ Thomas Wakley, who **edited** The Lancet, put him at the **helm** of an Analytic
 
 The **reports** ran from 1851 to 1854. What made them **bite** was not the **scope** at all. Wakley **stamped** the names and **whereabouts** of the **traders** and **tradesmen** whose batches had **flunked**. Hundreds of them, **borough** by borough. Trade **slang** for it — daff, duck, multum — stopped being private.
 
-The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted **roots** **offered** the same **reply**. The eyepiece asked what it had **formerly** been.
+The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted **roots** **offered** the same **reply**. The eyepiece **proved** the fraud; the printed names ended it.
 
 ---
 
@@ -34,7 +34,7 @@ The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels
 
 这些**报告**(reports)从1851年一直登到1854年。真正让它们**咬**(bite)得动的，根本不是那台**镜子**(scope)。瓦克利把样品不**合格**(flunked)的那些**商人**(traders)与**店主**(tradesmen)的姓名与**住址**(whereabouts)一并**印**(stamped)了出来。数以百计，一个**区**(borough)接一个区。行内管这事叫的那些**黑话**(slang)——daff、duck、multum——从此不再是私房话。
 
-财政部1853年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855与1856年，一个特别委员会**开**(sat)了会；1860年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的**根**(roots)**给**(offered)出的是同一个**答案**(reply)。目镜问的是：它**原先**(formerly)是什么。
+财政部1853年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855与1856年，一个特别委员会**开**(sat)了会；1860年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的**根**(roots)**给**(offered)出的是同一个**答案**(reply)。目镜**证实**(proved)了这桩欺诈；而印出来的那些名字才终结了它。
 
 ---
 
@@ -48,7 +48,7 @@ The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels
 
 **§4**（10词）reports 报告（复）｜bite 咬；起作用｜scope 镜；观测仪｜stamped 印上｜whereabouts 下落；住址｜traders 商人（复）｜tradesmen 店主（复）｜flunked 不合格｜borough 自治区｜slang 黑话
 
-**§5**（10词）replied 回应｜requiring 要求｜conspicuous 醒目的｜lettering 字样；字体｜sat 开会；开庭｜arrived 到来｜roots 根（复）｜offered 给出｜reply 答案｜formerly 从前；原先
+**§5**（10词）replied 回应｜requiring 要求｜conspicuous 醒目的｜lettering 字样；字体｜sat 开会；开庭｜arrived 到来｜roots 根（复）｜offered 给出｜reply 答案｜proved 证实
 
 ---
 

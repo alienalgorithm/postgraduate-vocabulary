@@ -29,8 +29,8 @@
           "zh": "这些**报告**(reports)从1851年一直登到1854年。真正让它们**咬**(bite)得动的，根本不是那台**镜子**(scope)。瓦克利把样品不**合格**(flunked)的那些**商人**(traders)与**店主**(tradesmen)的姓名与**住址**(whereabouts)一并**印**(stamped)了出来。数以百计，一个**区**(borough)接一个区。行内管这事叫的那些**黑话**(slang)——daff、duck、multum——从此不再是私房话。"
         },
         {
-          "en": "The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted **roots** **offered** the same **reply**. The eyepiece asked what it had **formerly** been.",
-          "zh": "财政部1853年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855与1856年，一个特别委员会**开**(sat)了会；1860年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的**根**(roots)**给**(offered)出的是同一个**答案**(reply)。目镜问的是：它**原先**(formerly)是什么。"
+          "en": "The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted **roots** **offered** the same **reply**. The eyepiece **proved** the fraud; the printed names ended it.",
+          "zh": "财政部1853年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855与1856年，一个特别委员会**开**(sat)了会；1860年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的**根**(roots)**给**(offered)出的是同一个**答案**(reply)。目镜**证实**(proved)了这桩欺诈；而印出来的那些名字才终结了它。"
         }
       ],
       "facts": [
@@ -42,9 +42,9 @@
         "**本篇的机制边界**：化学问的是「由什么构成」，而咖啡与菊苣同为烘焙过的植物组织，在当时的手段下这个问题**确实没有答案**——财政大臣并未说谎。**哈索尔换的是问题不是仪器**：他问「它原先长成什么样」，而细胞结构把这件事留在了粉末里。**第二重边界**：科学解决了「能不能查出来」，**却没有解决「查出来之后会怎样」**——后者靠的是把姓名住址印出来，以及此后二十余年的立法。"
       ],
       "metrics": {
-        "words": 266,
+        "words": 268,
         "keywords": 50,
-        "density": 18.8
+        "density": 18.7
       },
       "glossary": [
         {
@@ -293,8 +293,8 @@
           "p": 5
         },
         {
-          "w": "formerly",
-          "zh": "从前；原先",
+          "w": "proved",
+          "zh": "证实",
           "p": 5
         }
       ]
