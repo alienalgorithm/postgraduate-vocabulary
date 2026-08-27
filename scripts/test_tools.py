@@ -443,6 +443,40 @@ check("polish.py 第6轮已升为七查",
       "未升格" in open(os.path.join(ROOT, "scripts/polish.py"), encoding="utf-8").read(),
       "检察官与跑轮必须同时认这条新规")
 
+
+# ── 功率计（2026-08-20 立）─────────────────────────────────────
+# 立此测之由（全库 341 轮次实测）：第13轮产出率 94%、第9轮 63%，
+# **其余十一轮全在 4%—39%**——第3轮 4%、第12轮 5%、第10轮 6%。
+# 机器此前只查「有没有记账」，查不出「这一轮使了几成力」。
+print("\n[功率计] 一轮使了几成力")
+import importlib
+_pl2 = importlib.import_module("polish")
+_lo = "第3轮：四处接缝成立；中文无单字硬凑；抽象主语零。"
+_hi = ("**开工四问**：\u2460要查接缝；\u2461应说得出靠什么接；\u2462没对读；\u2463对读确认。"
+       "**抓出一处**：\u00a72 末句 showed him 两次，改前\u2192改后 vindicated，因为句内复读。"
+       "另 \u00a74 逐个走五问后判为保留。")
+check("走过场的备注 → 功率不及格", _pl2.power_of(_lo)[0] < _pl2.POWER_FLOOR,
+      "一轮跑到三四成就交差，等于这一轮没跑")
+check("真跑的备注 → 功率满分", _pl2.power_of(_hi)[0] >= 11)
+check("polish.py 装了功率计", "check_power" in open(
+      os.path.join(ROOT, "scripts/polish.py"), encoding="utf-8").read())
+
+# ── 弱轮换判据 ────────────────────────────────────────────────
+print("\n[弱轮] 第3/10/12轮已换判据")
+for _n, _kw2 in ((3, "更好的写法作对照"), (10, "读者会误解成什么"), (12, "候选刀单")):
+    check(f"第{_n}轮判据已从「查对不对」改为「逼出比较」", _kw2 in _pl2.ROUNDS[_n][1],
+          "产出率 4—6% 是因为它只问有没有问题，不问最好能到什么样子")
+
+# ── 改动回扫 ──────────────────────────────────────────────────
+# 立此测之由：十三处翻案里**七处是我自己改动引入的**。
+print("\n[回扫] 改动本身是新的风险源")
+_rs = open(os.path.join(ROOT, "scripts/rescan.py"), encoding="utf-8").read()
+check("rescan.py 存在且扫五样", all(k in _rs for k in
+      ("代词", "主语没被新信息挤掉", "同物两名", "句内重复", "新称呼")),
+      "五样都是实测栽过的：第21/22/35/09/11 篇")
+check("回扫用 git 取上一版", "git" in _rs and "HEAD:" in _rs,
+      "快照存的是画像不是原文")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
