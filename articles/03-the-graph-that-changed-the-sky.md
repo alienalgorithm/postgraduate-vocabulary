@@ -11,7 +11,7 @@
 
 At Halley Bay the British Antarctic Survey had measured total-column **ozone** since 1956 with a Dobson spectrophotometer, a **prism** **weighing** **ultraviolet** **intensities** at two **bands**. Every **springtime**, the same reading, on the same days, from the same **hut**. A **baseline** earns its keep by being **dull**.
 
-From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** optics were slipping and ordered a **replacement**; the two **agreed**. A second **outpost** a thousand miles away showed the same **recurring** **decline**. By October 1984 the total stood 40% below its 1960s value, yet the team **hesitated**: nothing had come from **orbit**.
+From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** optics were slipping and ordered a **replacement**; both instruments **agreed**. A second **outpost** a thousand miles away showed the same **recurring** **decline**. By October 1984 the total stood 40% below its 1960s value, yet the team **hesitated**: nothing had come from **orbit**.
 
 Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, NASA staff read the South Pole record — itself **erroneous**, its **calibration** long lost. Nobody went back; the low numbers stayed **unconfirmed**. Farman published anyway.
 

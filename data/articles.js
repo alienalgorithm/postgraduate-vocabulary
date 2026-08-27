@@ -631,7 +631,7 @@ window.SITE = {
         "zh": "在南极哈雷湾，英国南极调查局自1956年起就用一台多布森分光光度计——一具**棱镜**(prism)仪器——测量**臭氧**(ozone)总柱量。那是一台棱镜仪器，靠**称量**(weighing)两个**波段**(bands)上的**紫外**(ultraviolet)光**强度**(intensities)。每年**春季**(springtime)，同样的读数，同样的日子，同一间**小屋**(hut)。一条**基线**(baseline)的价值，正在于它**枯燥**(dull)。"
       },
       {
-        "en": "From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** optics were slipping and ordered a **replacement**; the two **agreed**. A second **outpost** a thousand miles away showed the same **recurring** **decline**. By October 1984 the total stood 40% below its 1960s value, yet the team **hesitated**: nothing had come from **orbit**.",
+        "en": "From 1981 the October **readings** fell. Joe Farman **reckoned** his **ageing** optics were slipping and ordered a **replacement**; both instruments **agreed**. A second **outpost** a thousand miles away showed the same **recurring** **decline**. By October 1984 the total stood 40% below its 1960s value, yet the team **hesitated**: nothing had come from **orbit**.",
         "zh": "从1981年起，10月的**读数**(readings)开始下滑。乔·法曼**判断**(reckoned)是自己那台**老化**(ageing)的光学件走偏了，便订了一台**替换机**(replacement)；两台读数**吻合**(agreed)。一千英里外的另一处**观测点**(outpost)，也出现了同样**年复一年**(recurring)的**下降**(decline)。到1984年10月，总量已比1960年代低了40%。可队里仍在**犹豫**(hesitated)：**轨道**(orbit)上一直没有消息。"
       },
       {
