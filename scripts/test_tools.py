@@ -559,6 +559,20 @@ _vh2 = art(["The chemists **concocted** a **scarlet** dye that clung to wool and
 check("换掉后不再报", "VAL-02h" not in ids(I.inspect(_vh2, arts)[0]))
 check("VAL-02h 已挂铁律", bool(I.charter_of("VAL-02h")))
 
+
+# ── rescan 改法规矩（2026-08-20 立）───────────────────────────
+# 立此规矩之由：「把无铺垫代词换成无铺垫名词」**已犯到第三次**——
+#   第23篇 the claimant／第25篇 the intake／第24篇 the girder。
+# **三次全靠 rescan 事后拦下，而三次的正解完全一致**：
+#   不要另造名词，用前文已经立住的那个词；前文没有就回到前一句把它具名。
+# **这不是判据缺（rescan 已能报出），是改法缺规矩**，故写进 rescan 的提示里。
+print("\n[rescan] 改法规矩")
+_rs2 = open(os.path.join(ROOT, "scripts/rescan.py"), encoding="utf-8").read()
+check("报出新称呼时同时给出改法", "用前文已经立住的那个词" in _rs2,
+      "只报问题不给改法，同一个错法会犯第四次")
+check("改法附三次实测出处", all(k in _rs2 for k in ("claimant", "intake", "girder")),
+      "规矩须带实例，否则读的人不知道它从哪来")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

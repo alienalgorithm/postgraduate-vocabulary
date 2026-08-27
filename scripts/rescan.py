@@ -103,6 +103,12 @@ def main():
                     "same", "other", "first", "last", "whole", "very", "only", "rest",
                     "time", "case", "work", "line", "year", "next", "most", "more"}:
                 print(f"    · 新称呼「the {noun}」前文未出现过——读者要停下来想这是谁/什么")
+                print("      **改法（三次实测得出，三次正解完全一致）**："
+                      "不要另造一个名词，**用前文已经立住的那个词**；")
+                print("      若前文根本没有，就**回到前一句把它具名**——"
+                      "第23篇 the claimant→前句改 a Ghanaian mother；")
+                print("      第25篇 the intake→改用 §2 已有的 enrolment；"
+                      "第24篇 the girder→改用 §4 首句已有的 box beam。")
                 flags += 1
         # 四 · 句内同词两义
         ws = [w.lower() for w in re.findall(r"\b([a-z]{4,})\b", s)]
