@@ -12,7 +12,7 @@
       "date": "2026-08-23",
       "status": "第二十六篇最终精进锁定稿",
       "metrics": {
-        "words": 267,
+        "words": 268,
         "keywords": 50,
         "density": 18.7
       },
@@ -26,8 +26,8 @@
           "zh": "约在1957年，Cormack把成像重新表述为一个数学问题。若知道一组直线**积分**(integrals)，就能恢复衰减**系数**(coefficient)在空间中的**变化**(variation)。他**设计出**(devised)一套**数学表述**(formulation)，1963—64年发表时并不知道Radon**定理**(theorem)。他是后来才读到Radon那条定理的。在EMI，Hounsfield则**另行**(separately)开发一套**仪器**(instrument)。两人的贡献彼此**互补**(complementary)，却没有因此裁定历史上所有关于**优先权**(precedence)的主张。"
         },
         {
-          "en": "Hounsfield’s **prototype** turned mathematics into measurement. A source and **detector** completed a **traverse**, **rotated** one degree, then repeated it. Each pass was **digitised**; **sampling** populated a data **matrix**. His bench system needed nine days for 28,000 readings. The clinical scanner later acquired two slices in five minutes; **iterative** **computation** then ran on an off-site **mainframe**.",
-          "zh": "Hounsfield的**原型机**(prototype)把数学变成测量。射线源和**探测器**(detector)完成一次直线**横移**(traverse)，再**旋转**(rotated)一度，随后重复。每一轮读数都被**数字化**(digitised)；**采样**(sampling)数据被填入一个**矩阵**(matrix)。他的实验台装置为了28,000次读数需要9天。后来的临床扫描仪采集两个切片约需5分钟；**迭代式**(iterative)**计算**(computation)则在院外的**大型主机**(mainframe)上运行。"
+          "en": "Hounsfield’s **prototype** turned mathematics into measurement. A source and **detector** completed a **traverse**, **rotated** one degree, then repeated both moves. Each pass was **digitised**; **sampling** populated a data **matrix**. His bench system needed nine days for 28,000 readings. The clinical scanner later acquired two slices in five minutes; **iterative** **computation** then ran on an off-site **mainframe**.",
+          "zh": "Hounsfield的**原型机**(prototype)把数学变成测量。射线源和**探测器**(detector)完成一次直线**横移**(traverse)，再**旋转**(rotated)一度，随后把这两个动作重复下去。每一轮读数都被**数字化**(digitised)；**采样**(sampling)数据被填入一个**矩阵**(matrix)。他的实验台装置为了28,000次读数需要9天。后来的临床扫描仪采集两个切片约需5分钟；**迭代式**(iterative)**计算**(computation)则在院外的**大型主机**(mainframe)上运行。"
         },
         {
           "en": "On 1 October 1971, radiologist James Ambrose scanned a patient with suspected **intracranial** tumour. Two days later, reconstruction revealed a cystic frontal-lobe mass. Its **localisation** was clear; subsequent scans distinguished soft tissue, **haemorrhage** and **lesions** within the skull. Density **discrimination** offset modest spatial **resolution**. For a **radiologist**, CT turned the **brain** into a **non-invasive** **diagnostic** map.",
