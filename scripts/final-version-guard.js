@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '35': { source: '2026-08-20按《第35篇写作提示词》二十六雷全流程新写：动笔前逐条上网核＋自算倍数＋一年一事→词池→六查→入库→十五层→第9轮五问→台账；断言当场拦下 thirteen 数词与 One report 双词加粗', verification: 'conversation-latest-final' },
   '34': { source: '2026-08-20按《第34篇写作提示词》全流程新写：动笔前先核实每个数字→词池→草稿十五轮→入库→十五层→第9轮五问→台账；10个白送词全部按第零条之三处置；减法轮判定不落刀', verification: 'conversation-latest-final' },
   '33': { source: '2026-08-20按《第33篇写作提示词》全流程新写：动笔前先核实每个数字→词池→草稿十三轮→入库→十五层→第9轮五问→台账；3个白送词与2个行话词全部按第零条之三处置', verification: 'conversation-latest-final' },
   '32': { source: '2026-08-20按《第32篇写作提示词》全流程新写：动笔前先核实每个数字→词池→草稿二十余轮→入库→十五层→第9轮五问→台账；15个白送词与2个行话词全部按第零条之三处置（取消加粗、让出名额）', verification: 'conversation-latest-final' },
@@ -86,6 +87,7 @@ const VERSION_IDS = {
   '32': '32-271-word-final-locked',
   '33': '33-271-word-final-locked',
   '34': '34-271-word-final-locked',
+  '35': '35-271-word-final-locked',
 
 };
 

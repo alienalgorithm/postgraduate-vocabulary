@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 34,
-  "keyword_count": 1700,
+  "article_count": 35,
+  "keyword_count": 1750,
   "articles": [
     {
       "id": "01",
@@ -834,6 +834,25 @@
       "canonical_fingerprint_sha256": "2bdd1e23dd4c76f123017a111509d557700b012dca8a4dbf0026634e06769030",
       "markdown_sha256": "9d036872c7ebd49fd71b89111bc1877f5f3c8a7116a385695c9b56a722cebc89",
       "markdown_git_blob_sha": "ee513f847bdb8a24c18e98c0414fc6f5806a53dd",
+      "superseded_signatures": []
+    },
+    {
+      "id": "35",
+      "slug": "thirteen-months-and-thirteen-years",
+      "title": "Thirteen Months and Thirteen Years",
+      "title_zh": "十三个月与十三年",
+      "version_id": "35-271-word-final-locked",
+      "status": "第三十五篇定稿",
+      "date": "2026-08-20",
+      "words": 271,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-08-20按《第35篇写作提示词》二十六雷全流程新写：动笔前逐条上网核＋自算倍数＋一年一事→词池→六查→入库→十五层→第9轮五问→台账；断言当场拦下 thirteen 数词与 One report 双词加粗",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "0404441158c6242022db8cca83dddcf51a792fc2dd770cef352060468b22de66",
+      "markdown_sha256": "da521e29b98b7532248cda31d146dfd298e41c237a083c55b30da747b4ac300b",
+      "markdown_git_blob_sha": "7f80ccac2989ee3b5b1a67f96d4f6edc43d9448b",
       "superseded_signatures": []
     }
   ]
