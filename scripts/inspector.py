@@ -360,6 +360,33 @@ def inspect(a, archive):
                     s[:70] + ("…" if len(s) > 70 else ""),
                     "确认 it/that/this 有唯一且具体的先行词"))
 
+
+    # ── PRO-01 指代逐个报位（雷 19）────────────────────────────────
+    # 立此层之由：全库极限轮翻案 21 处里，**指代占 10 处**，
+    # 而此前只有 STR-05 查句首代词，句中的一概漏掉。
+    # 机器不下结论，只把「最近的名词」与「上一句的主语」摆出来，让人判。
+    PRON = re.compile(r"\b(it|its|they|them|their|he|his|him|she|her)\b", re.I)
+    NOUNISH = re.compile(r"\b([a-z]{3,}(?:s|tion|ment|ness|ing)?)\b")
+    for i, p in enumerate(paras, 1):
+        sents = [x.strip() for x in SENT.split(p["en"].replace("**", "")) if x.strip()]
+        for k, sent in enumerate(sents):
+            prev_subj = ""
+            if k:
+                m0 = re.match(r"^([A-Z][\w'-]*(?:\s+[A-Z][\w'-]*)*|[Tt]he\s+[\w'-]+|\w+)", sents[k - 1])
+                if m0:
+                    prev_subj = m0.group(1)
+            for m in PRON.finditer(sent):
+                if m.start() == 0:
+                    continue          # 句首者已由 STR-05 覆盖
+                before = sent[:m.start()]
+                cands = NOUNISH.findall(before)
+                nearest = cands[-1] if cands else "（本句之前无名词）"
+                F.append(Finding("PRO-01", "指代", "info",
+                    f"§{i} 「{m.group(0)}」最近名词 {nearest}"
+                    + (f"｜上句主语 {prev_subj}" if prev_subj else ""),
+                    sent[max(0, m.start() - 40):m.end() + 26],
+                    "五问：最近名词是不是它／会不会粘上句主语／有无两名词相争／主客有无颠倒／能否跨段"))
+
     # ── 判断提示（机器判不了，只提示人工复核；权重 0，不计分）────────
     body_ps = [p["en"].replace("**", "") for p in paras]
     PIVOT = re.compile(r"\b(instead|yet|but|however|rather than|nobody|no one|never)\b", re.I)

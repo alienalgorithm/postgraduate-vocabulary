@@ -383,6 +383,36 @@ _ok4 = art(["**a**."]*5); _ok4["glossary"] = [{"w": "nuance", "zh": "细微差�
 check("同频的 nuance 不误判", "VAL-12" not in ids(I.inspect(_ok4, arts)[0]),
       "**词频判不出这一层**：eleven(4.1) 与 nuance(4.1) 频率相同，价值不同")
 
+
+# ── PRO-01：指代逐个报位（雷 19）──────────────────────────────────
+# 立此测之由：全库极限轮翻案 21 处里指代占 10 处，
+# 而此前只有 STR-05 查句首代词，句中的一概漏掉。
+print("\n[PRO-01] 指代逐个报位")
+_pr = art(["Inuit hunters found her remnants on the shore. They had travelled frozen into the drift. "
+           "The wreckage lay there for years and nobody moved it at all in that time."])
+check("句中代词被报出 → PRO-01", "PRO-01" in ids(I.inspect(_pr, arts)[0]),
+      "极限轮 10 处指代翻案全在句中，STR-05 只查句首")
+_pr2 = art(["A slow gale crossed the sea and wrecked the fleet. Eight hundred people died that night. "
+            "The harbour lay empty for a week and the boats never came back to the town."])
+check("无代词不误报", "PRO-01" not in ids(I.inspect(_pr2, arts)[0]))
+check("PRO-01 已挂铁律", I.charter_of("PRO-01")[0] if I.charter_of("PRO-01") else False,
+      "没挂铁律的规则 = 不知道它在执行什么")
+
+# ── 台账套话闸门（雷 9，已犯三次）────────────────────────────────
+print("\n[雷9] 台账套话闸门")
+import importlib
+_pl = importlib.import_module("polish")
+check("同一段模板换轮号 → 判为套话",
+      _pl._overlap("第1轮：十五层逐条判，硬伤0。六查全清：太常见0／太生僻0／小品词0。",
+                   "第5轮：十五层逐条判，硬伤0。六查全清：太常见0／太生僻0／小品词0。") >= 0.60,
+      "已犯三次：清掉 141 笔、8 笔、57 笔")
+check("真结论各异 → 不误判",
+      _pl._overlap("§3 那句 convened on 是生造搭配，已改 sat to scrutinise。",
+                   "§5 apiece 是分配义用错了，已改 outright。") < 0.60)
+check("polish.py 装了闸门", "check_boilerplate" in open(
+      os.path.join(ROOT, "scripts/polish.py"), encoding="utf-8").read(),
+      "提示词写了三次仍三次犯，故必须是闸门而非规则")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

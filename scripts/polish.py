@@ -457,6 +457,49 @@ def _read_log(aid):
 
 GEN = {1: r1, 2: r2, 3: r3, 4: r4, 5: r5, 6: r6, 7: r7, 8: r8, 9: r9, 10: r10, 11: r11, 12: r12, 13: r13}
 
+
+# ── 套话闸门（雷 9）─────────────────────────────────────────────
+# 立此闸之由：「台账写套话」已犯三次（清掉 141 笔、8 笔、10 笔），
+# 且第三次是在把这条规则写进提示词之后当场犯的。
+# **一条规则写进提示词三次仍三次犯，说明提示词层面拦不住它，必须变成闸门。**
+def _shingles(t, k=6):
+    t = re.sub(r"第\d+轮", "", t)
+    t = re.sub(r"\s+", "", t)
+    return {t[i:i+k] for i in range(max(0, len(t) - k + 1))}
+
+def _overlap(a, b):
+    A, B = _shingles(a), _shingles(b)
+    if not A or not B:
+        return 0.0
+    return len(A & B) / min(len(A), len(B))
+
+def check_boilerplate(aid, note):
+    """与本篇已记各轮备注比对；重合度过高即拒收。"""
+    f = ledger_path(aid)
+    if not os.path.exists(f):
+        return
+    t = open(f, encoding="utf-8").read()
+    prev = []
+    for blk in re.split(r"(?=### 第\d+轮)", t):
+        m = re.match(r"### 第(\d+)轮", blk)
+        if m:
+            body = blk.split("\n", 1)[1] if "\n" in blk else ""
+            if body.strip():
+                prev.append((m.group(1), body))
+    hits = [(n, round(_overlap(note, b) * 100)) for n, b in prev if _overlap(note, b) >= 0.60]
+    if hits:
+        worst = max(hits, key=lambda x: x[1])
+        sys.exit(
+            "\n✗ 套话闸门拒收（雷 9 · 已犯三次）\n"
+            f"  本轮备注与第{worst[0]}轮重合 {worst[1]}%"
+            + (f"，另有 {len(hits)-1} 轮同样雷同" if len(hits) > 1 else "")
+            + "\n"
+            "  同一段模板换个轮号，等于这一轮没跑。\n"
+            "  每一轮必须写出**只属于这一轮**的具体结论：\n"
+            "    改了哪一处（改前→改后→为什么）／哪一处判为保留（代价是什么）\n"
+        )
+# ────────────────────────────────────────────────────────────────
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("aid")
@@ -496,6 +539,7 @@ def main():
             sys.exit(f"不许跳轮：当前应完成第 {nxt} 轮，收到第 {n} 轮")
         if len(args.note.strip()) < 30:
             sys.exit("note 太短。必须写明：改了什么 / 什么没改 / 为什么没改")
+        check_boilerplate(aid, args.note)
         mark_done(aid, n, args.note)
         print(f"✓ 第{n}轮已记入台账。下一轮：第 {n+1} 轮" if n < 13 else "✓ 十三轮跑完")
         return
