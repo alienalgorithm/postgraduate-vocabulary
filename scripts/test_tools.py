@@ -584,6 +584,25 @@ _bad = re.findall(r"'\d+ 词 / \d+ 重点词[^']*'", _fv)
 check("废版表里无指标串", not _bad,
       f"指标会重复，只有正文句子能识别版本；命中：{_bad[:3]}")
 
+
+# ── VAL-13 篇内词元重复（2026-08-20 立）─────────────────────────
+# 立此层之由：**VAL-07 只查跨篇词元重复，篇内只比表面形式**——
+#   assay ≠ assayed、root ≠ roots，就这么放过去了。
+# **先量**：全库 13 个名额被同词元占掉，分布 9 篇。
+#   纯屈折（单复数／时态）第二个零教学价值；派生（transmitter/transmitting）尚可辩护，
+#   故本层为**提示级**，由人逐对判。
+print("\n[VAL-13] 篇内同一词元占两个名额")
+_v13 = art(["The **magnet** turned in the coil and the current rose at once. "
+            "Two **magnets** were mounted facing one another on the frame. "
+            "The reading held steady through the whole of that afternoon."])
+check("同词元两次 → VAL-13", "VAL-13" in ids(I.inspect(_v13, arts)[0]),
+      "magnet/magnets 占了两个名额，第二个零教学价值")
+_v13b = art(["The **magnet** turned in the coil and the current rose at once. "
+             "Two **armatures** were mounted facing one another on the frame. "
+             "The reading held steady through the whole of that afternoon."])
+check("换掉后不再报", "VAL-13" not in ids(I.inspect(_v13b, arts)[0]))
+check("VAL-13 已挂铁律", bool(I.charter_of("VAL-13")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

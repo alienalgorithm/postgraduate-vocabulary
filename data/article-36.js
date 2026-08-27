@@ -21,16 +21,16 @@
           "zh": "阿瑟·希尔·哈索尔买了**磨好的**(milled)咖啡，却不去问那**粉末**(powder)是什么做的。他问的是：它原先**长**(grown)成什么样。**目镜**(eyepiece)底下，菊苣**根**(root)的**细胞**(cells)大小与形状特别，一碰就散开，还带着**点状**(dotted)的螺旋导管——两种植物，两副样子。烘过的咖啡**豆**(bean)一点也不像。成分藏得住这桩**欺诈**(fraud)，**纹理**(texture)藏不住。"
         },
         {
-          "en": "Thomas Wakley, who **edited** The Lancet, put him at the **helm** of an Analytical Sanitary board. Of thirty-four coffee **batches**, three were **pure**. Brown sugar held living **mites**, **plain** at once and never **hunted** for. From 1850 to 1856 he **assayed** and **tallied** three thousand batches, sixty-five in every hundred **adulterated**.",
-          "zh": "《柳叶刀》主编托马斯·瓦克利**请**(edited)他**执掌**(helm)一个分析卫生委员会。三十四份咖啡**样品**(batches)里，只有三份是**纯**(pure)的。红糖里有活**螨**(mites)，**明明白白**(plain)就在那儿，从没有人**找**(hunted)过。1850到1856年间，他**化验**(assayed)并**清点**(tallied)了三千份样品，每一百份里有六十五份**掺了假**(adulterated)。"
+          "en": "Thomas Wakley, who **edited** The Lancet, put him at the **helm** of an Analytical Sanitary board. Of thirty-four coffee **batches**, three were **pure**. Brown sugar held living **mites**, **plain** at once and never **hunted** for. From 1850 to 1856 he **vetted** and **tallied** three thousand batches, sixty-five in every hundred **adulterated**.",
+          "zh": "《柳叶刀》主编托马斯·瓦克利**请**(edited)他**执掌**(helm)一个分析卫生委员会。三十四份咖啡**样品**(batches)里，只有三份是**纯**(pure)的。红糖里有活**螨**(mites)，**明明白白**(plain)就在那儿，从没有人**找**(hunted)过。1850到1856年间，他**查验**(vetted)并**清点**(tallied)了三千份样品，每一百份里有六十五份**掺了假**(adulterated)。"
         },
         {
           "en": "The **reports** ran from 1851 to 1854. What made them **bite** was not the **scope** at all. Wakley **stamped** the names and **whereabouts** of the **traders** and **tradesmen** whose batches had **flunked**. Hundreds of them, **borough** by borough. Trade **slang** for it — daff, duck, multum — stopped being private.",
           "zh": "这些**报告**(reports)从1851年一直登到1854年。真正让它们**咬**(bite)得动的，根本不是那台**镜子**(scope)。瓦克利把样品不**合格**(flunked)的那些**商人**(traders)与**店主**(tradesmen)的姓名与**住址**(whereabouts)一并**印**(stamped)了出来。数以百计，一个**区**(borough)接一个区。行内管这事叫的那些**黑话**(slang)——daff、duck、multum——从此不再是私房话。"
         },
         {
-          "en": "The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted **roots** **offered** the same **reply**. The eyepiece **proved** the fraud; the printed names ended it.",
-          "zh": "财政部1853年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855与1856年，一个特别委员会**开**(sat)了会；1860年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的**根**(roots)**给**(offered)出的是同一个**答案**(reply)。目镜**证实**(proved)了这桩欺诈；而印出来的那些名字才终结了它。"
+          "en": "The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted roots **offered** the same **reply**. The eyepiece **proved** the fraud; the printed names **ended** it.",
+          "zh": "财政部1853年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855与1856年，一个特别委员会**开**(sat)了会；1860年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的根**给**(offered)出的是同一个**答案**(reply)。目镜**证实**(proved)了这桩欺诈；而印出来的那些名字才**终结**(ended)了它。"
         }
       ],
       "facts": [
@@ -183,8 +183,8 @@
           "p": 3
         },
         {
-          "w": "assayed",
-          "zh": "化验",
+          "w": "vetted",
+          "zh": "查验；审核",
           "p": 3
         },
         {
@@ -278,11 +278,6 @@
           "p": 5
         },
         {
-          "w": "roots",
-          "zh": "根（复）",
-          "p": 5
-        },
-        {
           "w": "offered",
           "zh": "给出",
           "p": 5
@@ -295,6 +290,11 @@
         {
           "w": "proved",
           "zh": "证实",
+          "p": 5
+        },
+        {
+          "w": "ended",
+          "zh": "终结",
           "p": 5
         }
       ]

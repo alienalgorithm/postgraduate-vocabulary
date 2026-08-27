@@ -7,7 +7,7 @@
       "slug": "the-blotter-recorded-who-paid",
       "title": "The Blotter Recorded Who Paid",
       "titleZh": "登记簿记下的是谁先交了钱",
-      "standfirst": "人人记得贝尔比格雷早了两小时。可那个先后来自现金登记簿——记的是缴费入账的顺序，不是谁先走进门。而那天贝尔在波士顿，三百英里之外。",
+      "standfirst": "人人记得贝尔比格雷早了两小时。可那个先后来自现金登记簿——记的是缴费入账的顺序，不是谁先**走进**(walked)门。而那天贝尔在波士顿，三百英里之外。",
       "topic": "1876年贝尔与格雷的电话优先权之争，以及一份从未为此设计的记录",
       "date": "2026-08-20",
       "status": "第三十七篇定稿",
@@ -17,8 +17,8 @@
           "zh": "1876年2月14日，两份文件同一天到了专利局，**说的**(describing)是同一件事：靠**改变**(varying)**送话器**(transmitter)的**阻抗**(impedance)来传送语音。一份是亚历山大·格雷厄姆·贝尔的**申请**(submission)——他的律师**等**(lingered)了几个月，就**等**(awaiting)英国那边**放行**(clearance)。另一份是伊莱沙·格雷的**预告书**(caveat)。贝尔的是当天第五**件**(item)；格雷的是第三十九件。"
         },
         {
-          "en": "Those numbers came off the cash **blotter**, which **noted** the order **fees** were **booked**, not who walked in. Gray's **fee** went down late that **dusk**, and the caveat itself did not reach the **assessor** **till** next day. Bell was in Boston that **weekday**, three hundred miles **distant**. He learned nothing of any of it until the twenty-sixth.",
-          "zh": "可这两个号码来自现金**登记簿**(blotter)——它**记**(noted)的是**费**(fees)**入账**(booked)的先后，不是谁先走进门。格雷的**费**(fee)是那天**黄昏**(dusk)时分才记上的，而预告书本身**要到**(till)第二天才送到**审查员**(assessor)手里。那个**工作日**(weekday)贝尔人在波士顿，三百英里**之外**(distant)。他直到二十六日才听说这一切。"
+          "en": "Those numbers came off the cash **blotter**, which **noted** the order fees were **booked**, not who **walked** in. Gray's **fee** went down late that **dusk**, and the caveat itself did not reach the **assessor** **till** next day. Bell was in Boston that **weekday**, three hundred miles **distant**. He learned nothing of any of it until the twenty-sixth.",
+          "zh": "可这两个号码来自现金**登记簿**(blotter)——它**记**(noted)的是费用**入账**(booked)的先后，不是谁先**走进**(walked)门。格雷的**费**(fee)是那天**黄昏**(dusk)时分才记上的，而预告书本身**要到**(till)第二天才送到**审查员**(assessor)手里。那个**工作日**(weekday)贝尔人在波士顿，三百英里**之外**(distant)。他直到二十六日才听说这一切。"
         },
         {
           "en": "On 19 February the assessor Zenas Wilber held both papers. Both **asserted** **fluctuating** impedance; both **spoke** of **transmitting** speech. Yet he **froze** Bell's application for ninety days. Bell came **southward**; Wilber **pointed** at the words, his lawyer **recast** them, and the **privilege** came on 7 March. Wilber **owed** money to Marcellus Bailey, Bell's attorney.",
@@ -108,13 +108,13 @@
           "p": 2
         },
         {
-          "w": "fees",
-          "zh": "费用（复）",
+          "w": "booked",
+          "zh": "入账",
           "p": 2
         },
         {
-          "w": "booked",
-          "zh": "入账",
+          "w": "walked",
+          "zh": "走进；步行",
           "p": 2
         },
         {

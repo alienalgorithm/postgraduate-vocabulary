@@ -3,7 +3,7 @@
 > 题材：1876年贝尔与格雷的电话优先权之争，以及一份从未为此设计的记录
 > 状态：**第三十七篇定稿**（2026-08-20）
 > 指标：270 词 / 50 重点词 / 密度 18.5%
-> 人人记得贝尔比格雷早了两小时。可那个先后来自现金登记簿——记的是缴费入账的顺序，不是谁先走进门。而那天贝尔在波士顿，三百英里之外。
+> 人人记得贝尔比格雷早了两小时。可那个先后来自现金登记簿——记的是缴费入账的顺序，不是谁先**走进**(walked)门。而那天贝尔在波士顿，三百英里之外。
 
 ---
 
@@ -11,7 +11,7 @@
 
 On 14 February 1876 two papers reached the Patent Office **describing** the same thing: speech carried by **varying** the **impedance** of a **transmitter**. One was a **submission** from Alexander Graham Bell, whose lawyers had **lingered** months **awaiting** **clearance** from Britain. The other was a **caveat** from Elisha Gray. Bell's was the fifth **item** that day; Gray's the thirty-ninth.
 
-Those numbers came off the cash **blotter**, which **noted** the order **fees** were **booked**, not who walked in. Gray's **fee** went down late that **dusk**, and the caveat itself did not reach the **assessor** **till** next day. Bell was in Boston that **weekday**, three hundred miles **distant**. He learned nothing of any of it until the twenty-sixth.
+Those numbers came off the cash **blotter**, which **noted** the order fees were **booked**, not who **walked** in. Gray's **fee** went down late that **dusk**, and the caveat itself did not reach the **assessor** **till** next day. Bell was in Boston that **weekday**, three hundred miles **distant**. He learned nothing of any of it until the twenty-sixth.
 
 On 19 February the assessor Zenas Wilber held both papers. Both **asserted** **fluctuating** impedance; both **spoke** of **transmitting** speech. Yet he **froze** Bell's application for ninety days. Bell came **southward**; Wilber **pointed** at the words, his lawyer **recast** them, and the **privilege** came on 7 March. Wilber **owed** money to Marcellus Bailey, Bell's attorney.
 
@@ -28,7 +28,7 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 
 1876年2月14日，两份文件同一天到了专利局，**说的**(describing)是同一件事：靠**改变**(varying)**送话器**(transmitter)的**阻抗**(impedance)来传送语音。一份是亚历山大·格雷厄姆·贝尔的**申请**(submission)——他的律师**等**(lingered)了几个月，就**等**(awaiting)英国那边**放行**(clearance)。另一份是伊莱沙·格雷的**预告书**(caveat)。贝尔的是当天第五**件**(item)；格雷的是第三十九件。
 
-可这两个号码来自现金**登记簿**(blotter)——它**记**(noted)的是**费**(fees)**入账**(booked)的先后，不是谁先走进门。格雷的**费**(fee)是那天**黄昏**(dusk)时分才记上的，而预告书本身**要到**(till)第二天才送到**审查员**(assessor)手里。那个**工作日**(weekday)贝尔人在波士顿，三百英里**之外**(distant)。他直到二十六日才听说这一切。
+可这两个号码来自现金**登记簿**(blotter)——它**记**(noted)的是费用**入账**(booked)的先后，不是谁先**走进**(walked)门。格雷的**费**(fee)是那天**黄昏**(dusk)时分才记上的，而预告书本身**要到**(till)第二天才送到**审查员**(assessor)手里。那个**工作日**(weekday)贝尔人在波士顿，三百英里**之外**(distant)。他直到二十六日才听说这一切。
 
 2月19日，审查员泽纳斯·威尔伯手里同时压着这两份文件。两份都**主张**(asserted)**起伏的**(fluctuating)阻抗，都**讲**(spoke)到**传送**(transmitting)语音。可他偏偏**冻结**(froze)了贝尔的申请九十天。贝尔**南下**(southward)而来；威尔伯**指**(pointed)了指那几个字，他的律师**重写**(recast)了措辞，**专利权**(privilege)3月7日就下来了。威尔伯**欠**(owed)着贝尔代理人马塞勒斯·贝利的钱。
 
@@ -42,7 +42,7 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 
 **§1**（10词）describing 描述｜varying 改变｜impedance 阻抗｜transmitter 送话器｜submission 提交；申请｜lingered 逗留；耽搁｜awaiting 等待｜clearance 放行；许可｜caveat 预告书；警告｜item 件；项
 
-**§2**（10词）blotter 登记簿｜noted 记下｜fees 费用（复）｜booked 入账｜fee 费用｜dusk 黄昏｜assessor 审查员｜till 直到｜weekday 工作日｜distant 远的
+**§2**（10词）blotter 登记簿｜noted 记下｜booked 入账｜walked 走进；步行｜fee 费用｜dusk 黄昏｜assessor 审查员｜till 直到｜weekday 工作日｜distant 远的
 
 **§3**（10词）asserted 主张｜fluctuating 起伏的｜spoke 讲；说｜transmitting 传送｜froze 冻结；中止｜southward 向南｜pointed 指｜recast 重写｜privilege 专有权｜owed 欠
 

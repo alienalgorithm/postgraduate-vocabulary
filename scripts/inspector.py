@@ -324,6 +324,39 @@ def inspect(a, archive):
     if hit_s:
         F.append(Finding("VAL-08", "词价", "hard", "加粗表面形式与其他篇重复", "、".join(hit_s)))
 
+    # ── VAL-13 篇内词元重复（2026-08-20 立）──────────────────────────
+    # 立此层之由：VAL-07 只查**跨篇**词元重复，**篇内只比表面形式**——
+    # assay ≠ assayed、root ≠ roots，就这么放过去了。
+    # **先量**：全库实测 15 个名额被同词元占掉，分布在 11 篇；
+    #   其中 7 个是纯屈折（单复数／时态），**第二个词零教学价值**；
+    #   8 个是派生（词性转换，如 transmitter/transmitting），**尚可辩护**。
+    # 故本层为**提示级**：报出位置，由人判该处是纯废还是两个词性各有其值。
+    # 与 VAL-02 → VAL-02h 同例：先立提示，待数据证明拦不住再升硬伤。
+    def _lem(x):
+        # 本层自带词干化，不依赖 agent.stem（不在本模块作用域内）
+        x = norm(x)
+        for _suf in ("ies", "ing", "ed", "es", "s"):
+            if x.endswith(_suf) and len(x) - len(_suf) >= 3:
+                y = x[: -len(_suf)]
+                # stopped→stop、hauling→haul：去掉重复的尾辅音
+                if len(y) > 2 and y[-1] == y[-2] and y[-1] not in "aeiou":
+                    y = y[:-1]
+                return y
+        return x
+    _seen, _dup = {}, []
+    for g in gloss:
+        _k = _lem(g["w"])
+        if _k in _seen:
+            _dup.append(f'{_seen[_k]}/{g["w"]}')
+        else:
+            _seen[_k] = g["w"]
+    if _dup:
+        F.append(Finding("VAL-13", "词价", "check", "篇内同一词元占两个名额",
+            "、".join(_dup),
+            "五十个名额里，同一个词元占两个就废掉一个。**逐对判**："
+            "纯屈折（单复数／时态）第二个零教学价值，须换；"
+            "派生（词性转换、释义确不同）可留，但须在台账写明理由"))
+
     # ── 第四层 STR · 论证骨架 ────────────────────────────────────────
     body = " ".join(p["en"].replace("**", "") for p in paras)
     # 句首的人名不该被漏掉（Joseph Henry's discovery…），但要排除 In September / The Board 这类
