@@ -62,3 +62,10 @@ Fram **emerged** near Svalbard that August; every man went home **alive**. The *
 - **1895年3月南森与雅尔马·约翰森离船北进，抵达北纬86°13.6′，为当时人类到达的最北点，较此前纪录推进近三度；**其后折返，于法兰士约瑟夫地以石块与海象皮搭棚越冬，1896年6月偶遇弗雷德里克·杰克逊探险队而获救。　**已核**：86°13.6′N 打破格里利此前的 83°24′ 纪录，推进近三度。[Wikipedia：Nansen's Fram expedition](https://en.wikipedia.org/wiki/Nansen%27s_Fram_expedition)
 - 1896年8月「前进」号自斯瓦尔巴附近脱出浮冰，全体十三人生还。冲击北极点未成，但沿途测得3300—3900米水深，推翻了极区为浅海陆架的旧认知，证实存在深海盆地；三年漂流记录亦系统刻画了北冰洋海冰运动。　**已核**：漂流途中测深依次得 1800、2700、3700 米，该递增序列表明附近不存在未发现的陆块，推翻极区浅海陆架的旧认知。[Wikipedia：Nansen's Fram expedition](https://en.wikipedia.org/wiki/Nansen%27s_Fram_expedition)
 - 船名 Fram 在挪威语中意为「前进」。全篇收束于此：她以让步的方式前进——这既是船体设计的原理，也是这次考察的方法。　[Wikipedia：Fram](https://en.wikipedia.org/wiki/Fram)
+- **已核（2026-08-20 逐条上网）· 八项无误，一处两说，零翻案**：
+**「珍妮特」号 1881 年 6 月 13 日在新西伯利亚群岛外被冰挤沉；1884 年因纽特猎人在格陵兰西南岸（尤利安内霍布附近）拾得其残骸**——WHOI 原文：「found by Inuit on the southwest coast of Greenland in 1884, **three years and 2,900 nautical miles** from where it sank」，**「三年后」与「格陵兰西南岸」与正文逐字相符**；残骸含署有船员姓名的衣物与德朗签名的文件。
+**亨里克·莫恩 1884 年**向挪威科学院演讲，据此提出跨极漂流说；
+**1893 年出发、备五年给养**；**1896 年 8 月「前进」号于斯瓦尔巴外脱出**，冰封与漂流恰满三年（1893 年 9 月—1896 年 8 月）；
+**最北 86°13.6′N**（维基精确至此），**较格里利 1882 年所创 83°24′N 高出 2°49.6′**——**正文「by almost three degrees」中的 almost 不可删，删了就成了「整三度」**（雷 7 所记即此处）；
+**1896 年 6 月在法兰士约瑟夫地弗洛拉角凑巧走进杰克逊营地**。
+**一处两说并存**：船员人数——**国家地理作「a crew of 13」**（本文所取）；**维基作「provisions for twelve men」、Oceanwide 与 Goodreads 作「a party of 12」**。通常的解释是南森本人加十二名队员共十三人，而计划书按十二人备粮。两说此存照。[Wikipedia：Nansen's Fram expedition](https://en.wikipedia.org/wiki/Nansen's_Fram_expedition)｜[WHOI：Nansen and the Drift of the Fram](https://www2.whoi.edu/site/beaufortgyre/history/nansen-and-the-drift-of-the-fram-1893-1896)｜[National Geographic：1,000 Days in the Ice](https://www.nationalgeographic.com/magazine/article/nansen)
