@@ -2,22 +2,22 @@
 
 > 题材：1859年皇家宪章号风灾、菲茨罗伊的风暴预警制度，以及它被停掉之后的那次天然实验
 > 状态：**第三十五篇定稿**（2026-08-20）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 同一份报告同时停掉了风暴预警与公众天气预报。十三个月后，海上要回了预警；而报纸上的预报，等了十三年。这个差值量出的不是两者的科学水准，是当初到底有谁在依赖它。
 
 ---
 
 ## 英文正文
 
-On the night of 25 October 1859 a slow **gale** crossed the Irish Sea. It killed 800 people, **destroyed** 133 ships and **damaged** ninety. Off Anglesey the **emigrant** **clipper** Royal Charter **rammed** a **reef** and broke apart; about 450 drowned and forty **beached** alive — the **heaviest** **toll** of any sinking on that coast.
+On the night of 25 October 1859 a slow **gale** crossed the Irish Sea. It killed 800 people, **destroyed** 133 ships and **damaged** ninety. Off Anglesey the **emigrant** **clipper** Royal Charter **rammed** a **reef** and broke apart; about 450 drowned and forty **beached** alive — the **heaviest** **toll** on that coast.
 
-Robert FitzRoy had gathered **coastal** readings by **telegraph** since 1854. He **showed** that this particular storm could have been seen coming. Warnings began in February 1861: a wire to the **dockside**, then **cones** and **drums** **hoisted** on a **jetty** mast. On the Tyne the first was **disregarded** and men drowned. Every one after it was **heeded**.
+Robert FitzRoy had gathered **coastal** readings by **telegraph** since 1854. He **showed** that this storm could have been seen coming. Warnings began in February 1861: a wire to the **dockside**, then **cones** and **drums** **hoisted** on a **jetty** mast. On the Tyne the first was **disregarded** and men drowned. Every one after it was **heeded**.
 
-The Royal Society **distrusted** any claim that weather could be **foretold**. FitzRoy held **sanction** for storm warnings and none for anything **inland**, yet on 1 August 1861 he **issued** an **outlook** in The Times, and **coined** the word forecast for it. Francis Galton **contended** that he claimed more than his **totals** could **warrant**.
+The Royal Society **distrusted** any claim that weather could be **foretold**. FitzRoy held **sanction** for storm warnings and none for anything **inland**, yet on 1 August 1861 he **issued** an **outlook** in The Times, and **coined** the word forecast for it. Francis Galton **contended** that FitzRoy claimed more than those **totals** could **warrant**.
 
-FitzRoy died in 1865. A **bench** sat to **scrutinise** the office. It **seated** men who **questioned** his **methods**, and no **ally** of his. It **advised** that all forecasting be **shut**, the office keep to **logging** numbers. The last public forecast ran on 28 May 1866; the warnings **lapsed** on 7 December.
+FitzRoy died in 1865. A **bench** sat to **scrutinise** the office. It **seated** men who **questioned** his **methods**, and no **ally** of his. It **advised** that forecasting be **shut** and the office keep to **logging** numbers. The last public forecast ran on 28 May 1866; the warnings **lapsed** on 7 December.
 
-Ports **petitioned**; **deputies** **pressed** it in Parliament. A new **warning** **flew** out on 10 January 1868 — thirteen months after the last. The forecast waited until 1879. One **ruling** stopped them **outright**, and the **lull** it left ran thirteen months on the water, thirteen years in the paper. One had been **relied** on; the other had only been **skimmed**.
+Ports **petitioned**; **deputies** **urged** the case in Parliament. A new **warning** **flew** out on 10 January 1868 — thirteen months after the last. The forecast waited until 1879. That one **finding** stopped them **outright**, and the **lull** it left ran thirteen months on the water, thirteen years in the paper. One had been **relied** on; the other had only been **skimmed**.
 
 ---
 
@@ -26,15 +26,15 @@ Ports **petitioned**; **deputies** **pressed** it in Parliament. A new **warning
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1859年10月25日夜里，一场移动缓慢的**大风**(gale)扫过爱尔兰海。它夺去800条人命，**毁**(destroyed)掉133艘船，另有90艘**受损**(damaged)。在安格尔西外海，载着**移民**(emigrant)的**快帆船**(clipper)「皇家宪章」号**撞**(rammed)上**礁**(reef)石、当即解体；约450人溺亡，40人活着**冲**(beached)上岸——这是那一带海岸**最重**(heaviest)的一次**伤亡**(toll)。
+1859年10月25日夜里，一场移动缓慢的**大风**(gale)扫过爱尔兰海。它夺去800条人命，**毁**(destroyed)掉133艘船，另有90艘**受损**(damaged)。在安格尔西外海，载着**移民**(emigrant)的那艘**快帆船**(clipper)「皇家宪章」号**撞**(rammed)上了**礁**(reef)石、当即解体；约450人溺亡，40人活着**冲**(beached)上岸——这是那一带海岸历来**最重**(heaviest)的**伤亡**(toll)。
 
-自1854年起，罗伯特·菲茨罗伊就用**电报**(telegraph)收集**沿海**(coastal)读数。他**指出**(showed)这一场风暴本来是看得出来的。预警从1861年2月开始：先一封电报打到**码头**(dockside)，再把**锥**(cones)和**鼓**(drums)**升**(hoisted)上**栈桥**(jetty)桅杆。在泰恩河口，头一次预警被**置之不理**(disregarded)，人淹死了。此后每一次都有人**听**(heeded)了。
+自1854年起，罗伯特·菲茨罗伊就用**电报**(telegraph)收集**沿海**(coastal)读数。他**指出**(showed)这一场风暴本来是看得出来的。预警从1861年2月开始：先一封电报打到**码头**(dockside)，再把**锥**(cones)与**鼓**(drums)一并**升**(hoisted)上**栈桥**(jetty)桅杆。在泰恩河口，头一次预警被**置之不理**(disregarded)，人淹死了。此后每一次都有人**听**(heeded)了。
 
-皇家学会**不信**(distrusted)天气能被**预知**(foretold)这回事。菲茨罗伊手里有发布风暴预警的**许可**(sanction)，却没有任何**陆上**(inland)预报的许可；可1861年8月1日，他还是在《泰晤士报》上**发**(issued)了一份**展望**(outlook)，并为它**造**(coined)了 forecast 这个词。弗朗西斯·高尔顿**主张**(contended)他所断言的，超出了他那些**总数**(totals)所能**担保**(warrant)的范围。
+皇家学会**不信**(distrusted)天气能被**预知**(foretold)这回事。菲茨罗伊手里有发布风暴预警的**许可**(sanction)，却没有任何**陆上**(inland)预报的许可；可1861年8月1日，他还是在《泰晤士报》上**发**(issued)了一份**展望**(outlook)，并为它**造**(coined)了 forecast 这个词。弗朗西斯·高尔顿**主张**(contended)：菲茨罗伊所断言的，超出了那些**总数**(totals)所能**担保**(warrant)的范围。
 
-菲茨罗伊1865年去世。一个**评审席**(bench)坐下来**细查**(scrutinise)这个机构。**坐**(seated)在上面的是那些**质疑**(questioned)他那套**方法**(methods)的人，没有一个是他的**同道**(ally)。评审席**建议**(advised)：一切预报业务**关停**(shut)，机构只**记**(logging)数字。最后一份公众预报刊于1866年5月28日；风暴预警在12月7日**停摆**(lapsed)。
+菲茨罗伊1865年去世。一个**评审席**(bench)坐下来**细查**(scrutinise)这个机构。**坐**(seated)在上面的是那些**质疑**(questioned)他那套**方法**(methods)的人，没有一个是他的**同道**(ally)。评审席**建议**(advised)：预报业务一律**关停**(shut)，机构只**记**(logging)数字。最后一份公众预报刊于1866年5月28日；风暴预警在12月7日**停摆**(lapsed)。
 
-各港口**上书**(petitioned)，**议员**(deputies)在议会上**追**(pressed)问。1868年1月10日，一份新的**预警**(warning)**飞**(flew)了出去——距上一份十三个月。而那份公众预报，直到1879年才回来。同一道**裁断**(ruling)把两样**一并**(outright)停掉，而它留下的**空档**(lull)：在海上是十三个月，在报纸上是十三年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。
+各港口**上书**(petitioned)，**议员**(deputies)在议会上**力陈**(urged)此事。1868年1月10日，一份新的**预警**(warning)**飞**(flew)了出去——距上一份十三个月。而那份公众预报，直到1879年才回来。评审席那**一纸**(finding)把两样**一并**(outright)停掉，而它留下的**空档**(lull)：在海上是十三个月，在报纸上是十三年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。
 
 ---
 
@@ -48,7 +48,7 @@ Ports **petitioned**; **deputies** **pressed** it in Parliament. A new **warning
 
 **§4**（10词）bench 评审席｜scrutinise 细查｜seated 安坐；就座｜questioned 质疑｜methods 方法（复）｜ally 同道；盟友｜advised 建议｜shut 关停｜logging 记录｜lapsed 停摆；失效
 
-**§5**（10词）petitioned 上书请愿｜deputies 议员（复）｜pressed 追问｜warning 预警｜flew 飞出｜ruling 裁断｜outright 一并；彻底｜lull 间歇；空档｜relied 倚仗｜skimmed 略读
+**§5**（10词）petitioned 上书请愿｜deputies 议员（复）｜urged 力陈；敦促｜warning 预警｜flew 飞出｜finding 裁断；结论｜outright 一并；彻底｜lull 间歇；空档｜relied 倚仗｜skimmed 略读
 
 ---
 
