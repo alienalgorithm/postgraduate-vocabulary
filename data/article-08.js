@@ -12,9 +12,9 @@
       "date": "2026-08-15",
       "status": "第八篇最终精进锁定稿",
       "metrics": {
-        "words": 271,
+        "words": 268,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.7
       },
       "paras": [
         {
@@ -26,12 +26,12 @@
           "zh": "1908年的一份表列出16颗变星，每颗都以**规律的**(regular)**节奏**(rhythm)明暗交替。莱维特**注意到**(noticed)：越亮的，周期越长。小麦哲伦云那**一片**(smudge)天区给了她一个**便利**(advantage)：其中**暗弱的**(faint)变星可以当作处在同一**距离**(distance)上。有了这个**假定**(assumption)，**相对**(relative)亮度反映的就是**内禀**(intrinsic)光度。"
         },
         {
-          "en": "By 1912 she had periods for 25 stars. The **tendency** held: longer **periods**, brighter stars. She **analysed** **magnitudes** against the **logarithm** of period. Each set fell into a **cadence**: period **corresponded** to relative luminosity. The circular was **signed** by Edward Pickering; its opening says it was **prepared** by Miss Leavitt. Without a zero point, no absolute distance could be **derived**.",
-          "zh": "到1912年她有了25颗星的周期，那个**趋势**(tendency)站住了：**周期**(periods)越长，星越亮。她把**星等**(magnitudes)对周期的**对数**(logarithm)作了**分析**(analysed)。两组点各自落成一条**规律**(cadence)：周期**对应**(corresponded)着相对光度。那份通报**署**(signed)着爱德华·皮克林的名字，开头一句却写：本文由莱维特小姐**拟就**(prepared)。没有零点，绝对距离**推**(derived)不出来。"
+          "en": "By 1912 she had periods for 25 stars. The **tendency** held: longer **periods**, brighter stars. She **analysed** **magnitudes** against the **logarithm** of period. Each set fell into a **cadence**: period **corresponded** to relative luminosity. The circular was **signed** by Edward Pickering; its opening **credits** Miss Leavitt. Without a zero point, no absolute distance **ensued**.",
+          "zh": "到1912年她有了25颗星的周期，那个**趋势**(tendency)站住了：**周期**(periods)越长，星越亮。她把**星等**(magnitudes)对周期的**对数**(logarithm)作了**分析**(analysed)。两组点各自落成一条**规律**(cadence)：周期**对应**(corresponded)着相对光度。那份通报**署**(signed)着爱德华·皮克林的名字，开头一句却把功劳**记**(credits)在莱维特小姐名下。没有零点，绝对距离**随之**(ensued)得不出来。"
         },
         {
-          "en": "Later astronomers **pegged** it to Cepheid distances known independently. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used it to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; astronomers built on it a **foundation** for the **universe**'s **expansion**.",
-          "zh": "后来的天文学家把它**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用它**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家由此为测量**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。"
+          "en": "Later astronomers **pegged** the relation to Cepheid distances known already. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used that ruler to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; astronomers built on his result a **foundation** for the **universe**'s **expansion**.",
+          "zh": "后来的天文学家把这条关系**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24年，哈勃用这把尺**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家便在他这个结果上，为**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。"
         },
         {
           "en": "Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation, letting others **infer** distances they could not measure. Mittag-Leffler moved to nominate her for the 1926 Nobel, unaware she had died in 1921. A **posthumous** **honour** cannot reach four years back.",
@@ -45,7 +45,7 @@
           "p": 1
         },
         {
-          "w": "employ",
+          "w": "employed",
           "zh": "雇用",
           "p": 1
         },
@@ -55,7 +55,7 @@
           "p": 1
         },
         {
-          "w": "plate",
+          "w": "plates",
           "zh": "摄影底片；板",
           "p": 1
         },
@@ -65,7 +65,7 @@
           "p": 1
         },
         {
-          "w": "telescope",
+          "w": "telescopes",
           "zh": "望远镜",
           "p": 1
         },
@@ -85,7 +85,7 @@
           "p": 1
         },
         {
-          "w": "variable",
+          "w": "variables",
           "zh": "变星",
           "p": 1
         },
@@ -100,7 +100,7 @@
           "p": 2
         },
         {
-          "w": "notice",
+          "w": "noticed",
           "zh": "注意到",
           "p": 2
         },
@@ -145,17 +145,17 @@
           "p": 3
         },
         {
-          "w": "period",
+          "w": "periods",
           "zh": "周期",
           "p": 3
         },
         {
-          "w": "analyse",
+          "w": "analysed",
           "zh": "分析",
           "p": 3
         },
         {
-          "w": "magnitude",
+          "w": "magnitudes",
           "zh": "星等；大小",
           "p": 3
         },
@@ -170,27 +170,27 @@
           "p": 3
         },
         {
-          "w": "correspond",
+          "w": "corresponded",
           "zh": "对应；相符",
           "p": 3
         },
         {
-          "w": "sign",
+          "w": "signed",
           "zh": "署",
           "p": 3
         },
         {
-          "w": "prepare",
-          "zh": "拟就",
+          "w": "credits",
+          "zh": "把功劳归于",
           "p": 3
         },
         {
-          "w": "derive",
-          "zh": "推",
+          "w": "ensued",
+          "zh": "随之而来",
           "p": 3
         },
         {
-          "w": "peg",
+          "w": "pegged",
           "zh": "钉",
           "p": 4
         },
@@ -200,7 +200,7 @@
           "p": 4
         },
         {
-          "w": "predict",
+          "w": "predicted",
           "zh": "预测的",
           "p": 4
         },
@@ -270,7 +270,7 @@
           "p": 5
         },
         {
-          "w": "isolate",
+          "w": "isolated",
           "zh": "分离",
           "p": 5
         },
