@@ -66,7 +66,7 @@
 | **32** | ***The Metre Kept Its Mistake*** | **1792—1799年子午线测量、被隐瞒的3.24角秒与米原器的误差** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-metre-kept-its-mistake) · [Markdown](articles/32-the-metre-kept-its-mistake.md) |
 | **33** | ***Thirteen Pence for a Thirty-Sixth*** | **1837年罗兰·希尔的邮政改革与「成本不在运送而在记账」这一发现** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=thirteen-pence-for-a-thirty-sixth) · [Markdown](articles/33-thirteen-pence-for-a-thirty-sixth.md) |
 | **34** | ***Seven Times, Whatever the Age*** | **1693年哈雷的布雷斯劳生命表、为何用一座西里西亚小城的数，以及一张没人用的表** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=seven-times-whatever-the-age) · [Markdown](articles/34-seven-times-whatever-the-age.md) |
-| **35** | ***Thirteen Months and Thirteen Years*** | **1859年皇家宪章号风灾、菲茨罗伊的风暴预警制度，以及它被停掉之后的那次天然实验** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=thirteen-months-and-thirteen-years) · [Markdown](articles/35-thirteen-months-and-thirteen-years.md) |
+| **35** | ***Thirteen Months and Thirteen Years*** | **1859年皇家宪章号风灾、菲茨罗伊的风暴预警制度，以及它被停掉之后的那次天然实验** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=thirteen-months-and-thirteen-years) · [Markdown](articles/35-thirteen-months-and-thirteen-years.md) |
 
 第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。
 
