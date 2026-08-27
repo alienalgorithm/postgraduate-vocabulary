@@ -30,8 +30,8 @@
           "zh": "方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够分。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。"
         },
         {
-          "en": "A report triggered inquiry: isolate the sick, trace **contacts**, vaccinate those and theirs. Freeze-dried vaccine **withstood** 45°C, so tropical storage held; a **bifurcated** **needle** held a **dose** between its prongs, brief **instruction** let a worker **pierce** the arm and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.",
-          "zh": "此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗**耐得住**(withstood)45摄氏度，热带储运因此撑得起来；**双叉**(bifurcated)**针**(needle)的两齿之间正好夹住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。"
+          "en": "A report triggered inquiry: isolate the sick, trace **contacts**, vaccinate those and theirs. Freeze-dried vaccine **withstood** 45°C, so tropical storage worked; a **bifurcated** needle **cradled** a **dose** between its prongs, brief **instruction** let a worker **pierce** the arm and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.",
+          "zh": "此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗**耐得住**(withstood)45摄氏度，热带储运因此行得通；**双叉**(bifurcated)针的两齿之间正好**托**(cradled)住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。"
         },
         {
           "en": "India was the hardest test: two-thirds of the **caseload** in 1974, its **chains** **broken** by 1975. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979, the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.",
@@ -205,8 +205,8 @@
           "p": 4
         },
         {
-          "w": "needle",
-          "zh": "针",
+          "w": "cradled",
+          "zh": "托住；轻捧",
           "p": 4
         },
         {
