@@ -93,19 +93,17 @@ const VERSION_IDS = {
 
 const SUPERSEDED_SIGNATURES = {
   '02': ['These **processes** **support** a food **chain**'],
-  '04': ['Finding **longitude** required the time somewhere else.', '295 词 / 50 重点词 / 密度 16.9%'],
+  '04': ['Finding **longitude** required the time somewhere else.'],
   '16': [
     'sent **seismic** waves through the planet',
     'read traces from **seismographs**',
     'Yet faint P′ **arrivals** did.',
     'made diffraction untenable',
     'In science, **absence** belongs to a model.',
-    '296 词 / 50 重点词 / 密度 16.9%',
   ],
   '17': [
     'Measurements upheld the **empirical** **framework**.',
     "compresses this into one man's **revelation**",
-    '263 词 / 50 重点词 / 密度 19.0%',
   ],
   '18': [
     'Princeton **cosmologists**',
@@ -123,7 +121,6 @@ const SUPERSEDED_SIGNATURES = {
     'a near-perfect 2.725 K black-body spectral **profile**',
     '**Pigeons** had made a **roost** inside;',
     'Penzias and Wilson treated it as **provisional**.',
-    '269 词 / 50 重点词 / 密度 18.6%',
     '天空始终无法安静',
   ],
   '19': [
@@ -170,7 +167,6 @@ const SUPERSEDED_SIGNATURES = {
     'the **excess**',
     '**freight** cost',
     '**railway** **competition**',
-    '263 词 / 50 重点词 / 密度 19.0%',
     'The **institutional** lesson is sharper.',
     'US **legislation** confronted acid rain',
     'a **precursor** to acidic **deposition**',
@@ -197,7 +193,6 @@ const SUPERSEDED_SIGNATURES = {
     'had been **assumed** a **desert** fed by **debris** from above',
     'a second **base**, a food **web** driven by the planet',
     'to anywhere chemistry holds a **gradient** open',
-    '259 词 / 50 重点词 / 密度 19.3%',
     'a **camera** system called ANGUS **registered** a **rise** in **temperature**',
     'The **photographs** told a different story.',
     'Many larger **species** **derive** nourishment from these microbes.',
@@ -217,7 +212,6 @@ const SUPERSEDED_SIGNATURES = {
     'an **international** **agreement** to **restrict**',
     'It entered into **force** on 1 January 1989',
     'One graph exposed a **planetary** risk',
-    '255 词 / 50 重点词 / 密度 19.6%',
     '第三篇精进定稿',
   ],
   '07': [
@@ -238,7 +232,6 @@ const SUPERSEDED_SIGNATURES = {
     'A theory is **tested** not by the cases it **fits**, but by the one it cannot **survive**.',
     'the **gesture** **altered** little',
     'He had **demonstrated** something more useful than a **proof**',
-    '252 词 / 50 重点词 / 密度 19.8%',
     '第一篇最终精校稿',
   ],
   '05': [
