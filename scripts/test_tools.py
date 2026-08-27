@@ -603,6 +603,38 @@ _v13b = art(["The **magnet** turned in the coil and the current rose at once. "
 check("换掉后不再报", "VAL-13" not in ids(I.inspect(_v13b, arts)[0]))
 check("VAL-13 已挂铁律", bool(I.charter_of("VAL-13")))
 
+
+# ── MET-09 速查表释义与正文括注错位（2026-08-20 立）──────────────
+# 立此层之由：**MET-07/08 只查「加粗英文词在中文里有没有一条对应括注」，
+#   括注在不在它查，落得对不对它不查。**
+# 逐条验义项时发现第04篇速查表连着十二条挂着**下一个词**的意思——
+#   学习者查 commissioners，查到的是 balked 的「迟疑；退缩」。
+# **先量**：全库 22 条真错位（04篇12／24篇4／32篇6），正文括注全对、错的只是表。
+# **判据废掉两个才定住**：①「本条括注落在邻条释义上」→ 误收措辞变体；
+#   ②「括注不足三字就跳过」→ **中文括注多是两字词，真错位全被滤掉**。
+#   定住的形状：**本条的释义，其实是邻条那个词的括注。**
+print("\n[MET-09] 速查表释义与正文括注错位")
+_P9 = [{"en": "The **commissioners** met, the board **balked**, and Nevil **championed** it.",
+        "zh": "**评审委员**(commissioners)开了会，委员会**迟疑**(balked)，而内维尔**力主**(championed)。"}]
+_b9 = art([_P9[0]["en"]], [_P9[0]["zh"]],
+          gloss=[{"w": "commissioners", "zh": "迟疑；退缩", "p": 1},
+                 {"w": "balked", "zh": "力主；拥护", "p": 1},
+                 {"w": "championed", "zh": "观测", "p": 1}])
+check("整条错位 → MET-09", "MET-09" in ids(I.inspect(_b9, arts)[0]),
+      "表内挂的是下一个词的意思，学习者查表会查到别的词")
+_g9 = art([_P9[0]["en"]], [_P9[0]["zh"]],
+          gloss=[{"w": "commissioners", "zh": "专员（复）；委员", "p": 1},
+                 {"w": "balked", "zh": "迟疑；退缩", "p": 1},
+                 {"w": "championed", "zh": "力主；拥护", "p": 1}])
+check("改对后不再报", "MET-09" not in ids(I.inspect(_g9, arts)[0]))
+_v9 = art(["He **lingered** months **awaiting** word."],
+          ["他**等**(lingered)了几个月，**等**(awaiting)消息。"],
+          gloss=[{"w": "lingered", "zh": "逗留；耽搁", "p": 1},
+                 {"w": "awaiting", "zh": "等待", "p": 1}])
+check("措辞变体不误报", "MET-09" not in ids(I.inspect(_v9, arts)[0]),
+      "正文用更短的语境译法，本条其实是对的")
+check("MET-09 已挂铁律", bool(I.charter_of("MET-09")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

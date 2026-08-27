@@ -44,7 +44,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 **§2**（10词）specified 指定；写明｜rod 杆；拉杆｜hangers 吊杆（复）｜beam 梁｜fourth-floor 四层的｜downward 向下｜storey 层楼｜hung 悬挂（过去式）｜burden 担子；荷载｜tier 层
 
-**§3**（10词）impractical 杆；拉杆｜fabricate 不现实的｜length 加工制作｜lathe 长度｜thread 螺纹｜nut 螺母｜fabricator 加工商｜rods 杆（复）｜cutting 切削；车削｜workshop 车间
+**§3**（10词）impractical 不现实的；行不通的｜fabricate 加工制作｜length 长度｜lathe 车床｜thread 螺纹｜nut 螺母｜fabricator 加工商｜rods 杆（复）｜cutting 切削；车削｜workshop 车间
 
 **§4**（10词）layouts 排布（复）｜bore 承受（过去式）｜hanging 悬挂着的｜beneath 在下方｜altered 改动｜sketch 图样｜hardly 几乎不｜doubled 使加倍｜connection 接合；接头｜sums 账；算式（复）
 

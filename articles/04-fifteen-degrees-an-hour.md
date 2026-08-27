@@ -42,11 +42,11 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 **§1**（10词）latitude 纬度｜readily 轻易地｜longitude 经度｜meridian 子午线｜noon 正午｜reference 参照｜arc 弧｜arithmetic 算术｜keeping 守住；保持｜deck 甲板
 
-**§2**（10词）nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜answered 答以；回应｜resisted 打磨｜motion 晃动；运动｜heat 温度；热｜flaw 缺陷｜ashore 在岸上｜refining 英寸
+**§2**（10词）nautical 海上的；航海的｜equator 赤道｜carpenter 木匠｜answered 答以；回应｜resisted 抵抗；抵御｜motion 晃动；运动｜heat 温度；热｜flaw 缺陷｜ashore 在岸上｜refining 打磨；改进
 
-**§3**（10词）portable 便携的｜inches 枢轴｜balance 摆轮；平衡｜strip 片；条｜temperature 温度｜jewelled 嵌宝石的｜pivots 容许｜friction 摩擦｜gap 差；缺口｜tolerated 评审委员；专员
+**§3**（10词）portable 便携的｜inches 英寸（复）｜balance 摆轮；平衡｜strip 片；条｜temperature 温度｜jewelled 嵌宝石的｜pivots 枢轴（复）｜friction 摩擦｜gap 差；缺口｜tolerated 容许；容忍
 
-**§4**（10词）commissioners 迟疑；退缩｜balked 力主；拥护｜championed 观测｜lunar 月球的；太阴的｜astronomical 天文的｜observations 误差｜erred 原理｜principles 制作者｜makers 走差；增益｜replicate 复制
+**§4**（10词）commissioners 专员（复）；委员｜balked 迟疑；退缩｜championed 力主；拥护｜lunar 月球的；太阴的｜astronomical 天文的｜observations 观测（复）｜erred 出错；有偏差｜principles 原理（复）｜makers 制作者（复）；工匠｜replicate 复制
 
 **§5**（10词）exceeding 超过｜granted 拨给；授予｜sailed 启航；航行｜praising 称赞｜costly 昂贵的｜navigators 航海者｜sighting 观测｜sextant 六分仪｜almanac 天文年历｜decades 十年
 

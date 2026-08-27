@@ -42,7 +42,7 @@ Delambre **obtained** the **notebooks**, **scribbled** in the margin that he wou
 
 **§1**（10词）hamlet 村落｜pound 磅｜cloth 布｜customary 习惯的；沿袭的｜descended 传承下来｜forearm 前臂｜sought 寻求｜unit 单位｜nature 自然｜stretch 一段
 
-**§2**（10词）rode 骑行（过去式）｜survey 立法确立｜uncharted 敦刻尔克｜mountains 未经勘测的｜triangles 山地｜revolution 革命｜republic 三角测量｜legislated 共和国｜measurement 测算｜closed 结束
+**§2**（10词）rode 骑行（过去式）｜survey 测绘；勘测｜uncharted 未经勘测的｜mountains 山地（复）｜triangles 三角形（复）｜revolution 革命｜republic 共和国｜legislated 立法确立｜measurement 测算｜closed 结束
 
 **§3**（11词）twice 两次｜stations 测站｜values 数值｜differed 相差｜borrowed 借用｜colleague 同事｜regime 政权；政体｜suspicion 怀疑｜disgrace 身败名裂｜hid 藏起｜dread 恐惧
 
