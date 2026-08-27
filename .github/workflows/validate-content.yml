@@ -167,6 +167,8 @@ jobs:
           if (article28) expected['28'] = { words: 271, keywords: 50, density: 18.5, status: '第二十八篇最终精进锁定稿' };
           const article29 = globalThis.SITE.ARTICLES.find(a => a.id === '29');
           if (article29) expected['29'] = { words: 271, keywords: 50, density: 18.5, status: '第二十九篇最终精进锁定稿' };
+          const article39 = globalThis.SITE.ARTICLES.find(a => a.id === '39');
+          if (article39) expected['39'] = { words: 269, keywords: 50, density: 18.6, status: '第三十九篇定稿' };
           const article38 = globalThis.SITE.ARTICLES.find(a => a.id === '38');
           if (article38) expected['38'] = { words: 269, keywords: 50, density: 18.6, status: '第三十八篇定稿' };
           const article37 = globalThis.SITE.ARTICLES.find(a => a.id === '37');
