@@ -34,8 +34,8 @@
           "zh": "在《P′》中，莱曼十分**谨慎**(cautious)：内核只是一种**可能性**(possibility)，其状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)与**数值**(numerical)分析排除了衍射解释。此后的模型把内核视为具有**刚性**(rigid)；1952年，弗朗西斯·伯奇认为，最简洁的解释是它由**晶体状的**(crystalline)铁构成。它约1220公里的**半径**(radius)，意味着其**直径**(diameter)小于月球；外层的液态金属将它**包围**(encloses)。"
         },
         {
-          "en": "Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** became **persuasive** because it predicted where the signals should appear, and seismologists now time that inner **core** to the second. An expected **absence** is itself a prediction; a wave arriving off **schedule** need not be noise: it can reveal an **invisible** structure.",
-          "zh": "莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为它预言了这些信号会出现在哪里——如今地震学家对那个内**核**(core)的走时已可计到秒。模型预期的**缺失**(absence)本身就是一项预测；一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)结构。"
+          "en": "Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** **carried weight** because it predicted where the signals should appear, and seismologists now time that inner **core** to the second. An expected **absence** is itself a prediction; a wave arriving off **schedule** need not be noise: it can reveal an **invisible** structure.",
+          "zh": "莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**有分量**(carried weight)，是因为它预言了这些信号会出现在哪里——如今地震学家对那个内**核**(core)的走时已可计到秒。模型预期的**缺失**(absence)本身就是一项预测；一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)结构。"
         }
       ],
       "glossary": [
@@ -140,12 +140,12 @@
           "p": 2
         },
         {
-          "w": "arrival",
+          "w": "arrivals",
           "zh": "到达；到达记录",
           "p": 3
         },
         {
-          "w": "attribute",
+          "w": "attributed",
           "zh": "归因于",
           "p": 3
         },
@@ -155,12 +155,12 @@
           "p": 3
         },
         {
-          "w": "examine",
+          "w": "examined",
           "zh": "查验了",
           "p": 3
         },
         {
-          "w": "scatter",
+          "w": "scattered",
           "zh": "零散分布；散开",
           "p": 3
         },
@@ -235,7 +235,7 @@
           "p": 4
         },
         {
-          "w": "enclose",
+          "w": "encloses",
           "zh": "包围；封闭",
           "p": 4
         },
@@ -265,8 +265,8 @@
           "p": 5
         },
         {
-          "w": "persuasive",
-          "zh": "令人信服的",
+          "w": "carried weight",
+          "zh": "有分量；有说服力",
           "p": 5
         },
         {

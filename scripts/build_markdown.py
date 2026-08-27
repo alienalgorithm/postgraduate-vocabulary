@@ -26,7 +26,7 @@ EXTRA_DATA = sorted(DATA_DIR.glob("article-*.js"))
 OUT = ROOT / "articles"
 
 BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
-ZH_PAIR_RE = re.compile(r"\*\*(.+?)\*\*\(([A-Za-z][A-Za-z'’\-]*)\)")
+ZH_PAIR_RE = re.compile(r"\*\*(.+?)\*\*\(([A-Za-z][A-Za-z'’\- ]*)\)")
 
 
 def load_site() -> dict[str, Any]:

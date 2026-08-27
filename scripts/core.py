@@ -20,7 +20,7 @@ import re
 
 # ── 正则：全项目共用同一套，不得各自另写 ────────────────────────────
 BOLD = re.compile(r"\*\*(.+?)\*\*")
-PAIR = re.compile(r"\*\*([^*]+)\*\*\(([A-Za-z][A-Za-z'’\-]*)\)")
+PAIR = re.compile(r"\*\*([^*]+)\*\*\(([A-Za-z][A-Za-z'’\- ]*)\)")
 SENT = re.compile(r"(?<=[.!?])\s+")
 NUM = re.compile(r"\d[\d,.]*")
 CJK = re.compile(r"[\u4e00-\u9fff]")

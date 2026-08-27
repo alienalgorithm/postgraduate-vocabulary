@@ -28,7 +28,7 @@ os.chdir(ROOT)
 BAR = "─" * 70
 SENT = re.compile(r"(?<=[.!?])\s+")
 BOLD = re.compile(r"\*\*(.+?)\*\*")
-PAIR = re.compile(r"\*\*([^*]+)\*\*\(([A-Za-z][A-Za-z'’\-]*)\)")
+PAIR = re.compile(r"\*\*([^*]+)\*\*\(([A-Za-z][A-Za-z'’\- ]*)\)")
 
 ROUNDS = {
     1: ("机器层", "九层规则 + 审读任务书 + preflight 全部跑过，每条待核都有处置"),
@@ -36,7 +36,7 @@ ROUNDS = {
     3: ("接缝层", "四处段落接缝逐一对读，每处给出承接与否的判断"),
     4: ("因果层", "全篇连接词逐个验证；抽象前置与格言相邻一并查过"),
     5: ("中文层", "遮住英文单读中文；单字加粗与疑似拆词逐条判过"),
-    6: ("单词筛选轮", "**六查**：太常见／太生僻／小品词／专名／数词／**太简单**——50个名额只给考研或雅思真会考的词"),
+    6: ("词条筛选轮", "**七查**：太常见／太生僻／小品词／专名／数词／太简单／**未升格**——50个名额只给考研或雅思真会考的词条，短语亦可占"),
     7: ("母语者层", "对标散文档案；抽象主语、无施事被动、句长节奏三项查过"),
     8: ("回退审计", "台账每一行都填了「保留/回退/再改」，并回跑过全库"),
     9: ("整体冷读", "放下清单通读，三问都有答案"),
@@ -234,7 +234,37 @@ def r6(a, arts, aid):
     print("  eleven(4.1) 与 nuance(4.1) 词频完全相同，学习价值天差地别。")
     print("  所以用词表判，不用 Zipf：data/reference/basic-wordlist.txt。")
     print("")
-    print("**六者处置完全相同：取消加粗，把名额让给一个真正要背的词。**")
+    print("  七 · **未升格**（PHR，2026-08-20 新立）　这里有没有一个更好的**考研短语**？")
+    print("")
+    print("**★ 第七查是本轮的新职，也是把文章推到最上乘的那一步。**")
+    print("  前六查只管「这个词配不配占名额」；**第七查问的是「有没有更值的东西能占它」。**")
+    print("")
+    print("  **为什么要许短语占名额**：考研真正考的东西里有一大块是")
+    print("  **动词短语、固定搭配与介词习语**——逐词都认得，合起来却不认得，正是失分处。")
+    print("  give way to／at odds with／call into question／in the wake of／bear scrutiny……")
+    print("  这些比任何一个孤立的单词都更值那个名额。")
+    print("")
+    print("  **升格的两条硬前提（缺一不可）**：")
+    print("    ① **文章必须因此更好**——不是把一个好句子改成短语堆砌。")
+    print("       若换上去读着别扭、或让判别性证据模糊，**宁可不换**。")
+    print("    ② **必须是真短语**——整体义偏离逐词义，或搭配固定到不可换词。")
+    print("       随手把两个词粘一起加粗，PHR-01 会当场拦下（硬伤）。")
+    print("")
+    print("  **怎么找**：逐句问「这一处的动作／关系，母语者会用哪个固定说法？」")
+    print("    a doubt about it            → **cast doubt on** it")
+    print("    the change caused a rise    → the change **gave rise to** a rise")
+    print("    they disagreed with him     → they were **at odds with** him")
+    print("    after the storm             → **in the wake of** the storm")
+    print("    the claim did not hold      → the claim did not **bear scrutiny**")
+    print("")
+    print("  **一个短语占一个名额**，速查表释义须给**整体意思**，不许逐词直译（PHR-03）。")
+    print("  短语不得超过四词（PHR-02）——再长就不是一个语言单位了。")
+    print("  库：data/reference/phrase-wordlist.txt（88 条）；库外的须补进去并说明理由。")
+    print("")
+    print("**★ 但第七查有下限**：查过之后判「本篇无处可升格」是正当结论，")
+    print("  须写明查了哪几处、为什么都不合适。**不为凑数而硬塞短语。**")
+    print("")
+    print("**前六者处置完全相同：取消加粗，把名额让给一个真正要背的词条。**")
     print("**原词照旧留在正文——只是它不占那 50 个。绝不为避开它而改动英文。**")
     print("")
     print("**换词时新词必须当场查 Zipf（雷13）**——曾把 said 换成 evidence(5.14)，")

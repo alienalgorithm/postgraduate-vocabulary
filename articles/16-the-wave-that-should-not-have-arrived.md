@@ -17,7 +17,7 @@ Yet faint P′ **arrivals** appeared there. Some **attributed** them to **diffra
 
 In “P′”, Lehmann was **cautious**: an inner core was a **possibility**, its state **uncertain**. Later **scrutiny** and **numerical** work ruled out the diffraction explanation. Models treated the inner core as **rigid**; in 1952 Francis Birch called **crystalline** iron the simplest explanation. Its 1,220-kilometre **radius** gives it a **diameter** smaller than the Moon's; liquid metal **encloses** it.
 
-Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** became **persuasive** because it predicted where the signals should appear, and seismologists now time that inner **core** to the second. An expected **absence** is itself a prediction; a wave arriving off **schedule** need not be noise: it can reveal an **invisible** structure.
+Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arrival a **timing** and each path a **constraint**. The **revision** **carried weight** because it predicted where the signals should appear, and seismologists now time that inner **core** to the second. An expected **absence** is itself a prediction; a wave arriving off **schedule** need not be noise: it can reveal an **invisible** structure.
 
 ---
 
@@ -34,7 +34,7 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 
 在《P′》中，莱曼十分**谨慎**(cautious)：内核只是一种**可能性**(possibility)，其状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)与**数值**(numerical)分析排除了衍射解释。此后的模型把内核视为具有**刚性**(rigid)；1952年，弗朗西斯·伯奇认为，最简洁的解释是它由**晶体状的**(crystalline)铁构成。它约1220公里的**半径**(radius)，意味着其**直径**(diameter)小于月球；外层的液态金属将它**包围**(encloses)。
 
-莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**令人信服**(persuasive)，是因为它预言了这些信号会出现在哪里——如今地震学家对那个内**核**(core)的走时已可计到秒。模型预期的**缺失**(absence)本身就是一项预测；一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)结构。
+莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**有分量**(carried weight)，是因为它预言了这些信号会出现在哪里——如今地震学家对那个内**核**(core)的走时已可计到秒。模型预期的**缺失**(absence)本身就是一项预测；一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)结构。
 
 ---
 
@@ -44,11 +44,11 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 
 **§2**（10词）compress 压缩｜medium 介质｜solid 固体；固态的｜liquid 液体；液态的｜shear 剪切；剪断｜penetrate 穿透；洞察｜outer 外部的；外层的｜waves 波｜angle 角度；角｜shadow 阴影；阴影区
 
-**§3**（10词）arrival 到达；到达记录｜attribute 归因于｜diffraction 衍射｜examine 查验了｜scatter 零散分布；散开｜transit 走时；通过｜path 路径｜sphere 球体；范围｜velocity 速度；速率｜redirect 重新导向；使改道
+**§3**（10词）arrivals 到达；到达记录｜attributed 归因于｜diffraction 衍射｜examined 查验了｜scattered 零散分布；散开｜transit 走时；通过｜path 路径｜sphere 球体；范围｜velocity 速度；速率｜redirect 重新导向；使改道
 
-**§4**（10词）cautious 谨慎的｜possibility 可能性｜uncertain 无法确定的；不确定的｜scrutiny 严格审视｜numerical 数值的；数字的｜rigid 刚性的；僵硬的｜crystalline 晶体状的；结晶的｜radius 半径｜diameter 直径｜enclose 包围；封闭
+**§4**（10词）cautious 谨慎的｜possibility 可能性｜uncertain 无法确定的；不确定的｜scrutiny 严格审视｜numerical 数值的；数字的｜rigid 刚性的；僵硬的｜crystalline 晶体状的；结晶的｜radius 半径｜diameter 直径｜encloses 包围；封闭
 
-**§5**（10词）discrepancy 不一致；差异｜geometry 几何关系；几何学｜timing 时机；时间安排｜constraint 约束条件；限制｜revision 修正；修订｜persuasive 令人信服的｜core 内核｜absence 缺失；不在场｜schedule 时间表；安排｜invisible 不可见的
+**§5**（10词）discrepancy 不一致；差异｜geometry 几何关系；几何学｜timing 时机；时间安排｜constraint 约束条件；限制｜revision 修正；修订｜carried weight 有分量；有说服力｜core 内核｜absence 缺失；不在场｜schedule 时间表；安排｜invisible 不可见的
 
 ---
 

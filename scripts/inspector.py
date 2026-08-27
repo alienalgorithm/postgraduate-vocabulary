@@ -25,7 +25,7 @@ BOLD = re.compile(r"\*\*(.+?)\*\*")
 # 拼写出来的数词同样是数字（eight outcomes / three bits），否则 STR-02 误报
 SPELLED = r"\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|half|twice|dozen)\b"
 HAS_NUM = re.compile(r"\d|" + SPELLED, re.I)
-ZH_PAIR = re.compile(r"\*\*(.+?)\*\*\(([A-Za-z][A-Za-z'’\-]*)\)")
+ZH_PAIR = re.compile(r"\*\*(.+?)\*\*\(([A-Za-z][A-Za-z'’\- ]*)\)")
 SENT = re.compile(r"(?<=[.!?])\s+")
 
 # ── 参数 ────────────────────────────────────────────────────────────────
@@ -144,7 +144,7 @@ def load_articles():
 def norm(s):
     return re.sub(r"[^a-z]", "", str(s).lower())
 
-from core import count_words, plain, sentences, content_words   # 唯一权威实现，见 core.py
+from core import count_words, plain, sentences, content_words, keywords as _kw   # 唯一权威实现，见 core.py
 
 # ── 单条发现 ────────────────────────────────────────────────────────────
 class Finding:
@@ -360,6 +360,69 @@ def inspect(a, archive):
                     s[:70] + ("…" if len(s) > 70 else ""),
                     "确认 it/that/this 有唯一且具体的先行词"))
 
+
+
+    # ── PHR-01/02/03 短语名额（2026-08-20 立）──────────────────────
+    # 立此三条之由：单词名额只装得下单词，可考研真正考的东西里，
+    # 有一大块是**动词短语、固定搭配与介词习语**——逐词都认得，
+    # 合起来却不认得，正是失分处。故许短语占名额，但须过三关。
+    try:
+        _PHR = {l.strip().lower() for l in open(
+            os.path.join(ROOT, "data/reference/phrase-wordlist.txt"), encoding="utf-8")
+            if l.strip() and not l.startswith("#")}
+    except Exception:
+        _PHR = set()
+    for i, p in enumerate(paras, 1):
+        for w in _kw(p["en"]):
+            if " " not in w:
+                continue                      # 单词与连字符复合词不归本条管
+            key = re.sub(r"[^a-z ]", "", w.lower()).strip()
+            # PHR-01：必须是库内认可的语言单位，不许随手把两个词粘一起。
+            # 库存原形而正文用屈折形式（gave way to ↔ give way to），故须归并首词词形——
+            # 这与速查表「表存词根、正文用屈折」是同一个坑的短语版。
+            def _heads(k):
+                ws = k.split()
+                if not ws:
+                    return []
+                h, rest = ws[0], " ".join(ws[1:])
+                cands = {h}
+                for suf, base in (("ied", "y"), ("ies", "y"), ("ing", ""), ("ed", ""),
+                                  ("es", ""), ("s", ""), ("en", ""), ("n", "")):
+                    if h.endswith(suf) and len(h) > len(suf) + 1:
+                        cands.add(h[:-len(suf)] + base)
+                        cands.add(h[:-len(suf)] + base + "e")
+                # 不规则动词绕不开后缀剥离，须列表
+                IRR = {"gave": "give", "given": "give", "took": "take", "taken": "take",
+                       "bore": "bear", "borne": "bear", "held": "hold", "came": "come",
+                       "went": "go", "gone": "go", "made": "make", "drew": "draw",
+                       "drawn": "draw", "fell": "fall", "fallen": "fall",
+                       "stood": "stand", "ran": "run", "set": "set", "put": "put",
+                       "cast": "cast", "laid": "lay", "threw": "throw",
+                       "thrown": "throw", "kept": "keep", "saw": "see", "seen": "see",
+                       "told": "tell", "cut": "cut", "dealt": "deal", "paid": "pay",
+                       "brought": "bring", "left": "leave", "lent": "lend"}
+                if h in IRR:
+                    cands.add(IRR[h])
+                return [(c + " " + rest).strip() for c in cands]
+            if key not in _PHR and not any(v in _PHR for v in _heads(key)):
+                if True:
+                    F.append(Finding("PHR-01", "短语", "hard",
+                        f"§{i} 加粗短语不在考研短语库内", w,
+                        "整体义须偏离逐词义或搭配固定；否则拆开只加粗其中一个承重词，"
+                        "或把该短语补进 data/reference/phrase-wordlist.txt 并说明理由"))
+                    continue
+            # PHR-02：短语不得过长——超过四词就不是一个语言单位了
+            if len(key.split()) > 4:
+                F.append(Finding("PHR-02", "短语", "hard",
+                    f"§{i} 加粗短语过长（{len(key.split())} 词）", w,
+                    "一个名额只能装一个语言单位；四词以上请只加粗其中的核心搭配"))
+            # PHR-03：短语的中文释义须给整体义，不许逐词直译
+            zh = p["zh"]
+            m = re.search(r"\*\*([^*]+)\*\*\(" + re.escape(w) + r"\)", zh)
+            if m and len(m.group(1)) <= 1:
+                F.append(Finding("PHR-03", "短语", "hard",
+                    f"§{i} 短语释义过短，疑为逐词直译", f"{w} → {m.group(1)}",
+                    "短语的价值就在整体义，释义须给整体意思"))
 
     # ── PRO-01 指代逐个报位（雷 19）────────────────────────────────
     # 立此层之由：全库极限轮翻案 21 处里，**指代占 10 处**，
@@ -721,6 +784,10 @@ def inspect(a, archive):
     for g in (a.get("glossary") or []):
         w = g["w"]
         if w.lower() in JARGON_OK:
+            continue
+        # **多词短语不判行话**：wordfreq 查 "carried weight" 一律返回 0.0，
+        # 那是查询失败不是行话。短语的价值由 PHR-01（是否在考研短语库内）把关。
+        if " " in w:
             continue
         if "-" in w:
             zs = [cheapness(part)[1] for part in w.split("-") if part]

@@ -413,6 +413,36 @@ check("polish.py 装了闸门", "check_boilerplate" in open(
       os.path.join(ROOT, "scripts/polish.py"), encoding="utf-8").read(),
       "提示词写了三次仍三次犯，故必须是闸门而非规则")
 
+
+# ── PHR-01/02/03：短语名额（2026-08-20 立）──────────────────────
+# 立此测之由：许短语占名额，是把 50 个名额从「挑单词」升到「挑最好的语言单位」。
+# 但闸门必须同时立起来，否则随手两个词粘一起也能占名额。
+print("\n[PHR] 短语名额")
+_ph = art(["The board **gave way to** pressure from the ports and restored the service. "
+           "Members pressed the case for a week in every session that winter. "
+           "The record shows that nobody argued the other way at all."],
+          ["理事会**让位于**(gave way to)各港口的压力，恢复了这项业务。"
+           "议员整整一周在每一场会上力陈此事。记录显示当时无人持相反意见。"])
+check("库内短语不报错", "PHR-01" not in ids(I.inspect(_ph, arts)[0]),
+      "gave way to 在 phrase-wordlist.txt 内")
+_ph2 = art(["The board **heard the** pressure from the ports and restored the service. "
+            "Members pressed the case for a week in every session that winter. "
+            "The record shows that nobody argued the other way at all."],
+           ["理事会**听到了**(heard the)各港口的压力，恢复了这项业务。"
+            "议员整整一周在每一场会上力陈此事。记录显示当时无人持相反意见。"])
+check("随手粘两个词 → PHR-01", "PHR-01" in ids(I.inspect(_ph2, arts)[0]),
+      "整体义须偏离逐词义；否则不配占一个名额")
+check("PHR 三条已挂铁律",
+      all(I.charter_of(r) for r in ("PHR-01", "PHR-02", "PHR-03")),
+      "没挂铁律的规则 = 不知道它在执行什么")
+_phl = {l.strip() for l in open(os.path.join(ROOT, "data/reference/phrase-wordlist.txt"),
+                                encoding="utf-8") if l.strip() and not l.startswith("#")}
+check("短语库非空且全为多词", _phl and all(" " in p for p in _phl),
+      "单词不该进短语库——它走的是另一条路")
+check("polish.py 第6轮已升为七查",
+      "未升格" in open(os.path.join(ROOT, "scripts/polish.py"), encoding="utf-8").read(),
+      "检察官与跑轮必须同时认这条新规")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
