@@ -73,3 +73,12 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 - 来源：[NASA：现代地球内核的半径、成分与外核状态](https://science.nasa.gov/earth/facts/)
 - 来源：[NASA：月球半径约1740公里](https://science.nasa.gov/moon/facts/)
 - 地球内核半径约1220公里（直径约2440公里），小于月球直径3474公里；其外为液态金属外核。[USGS / PREM 模型标准值]　[APS：Seismologist Inge Lehmann Concludes That Earth Has an Inner Core](https://www.aps.org/apsnews/2023/08/seismologist-lehmann-earth-inner-core)
+- **已核（2026-08-20 逐条上网）· 七项无误，一处两说，零翻案**：
+**1929 年 6 月 17 日新西兰南岛默奇森地震**（Ms 7.8／Mw 7.3，震源深 12 公里，17 人罹难）；莱曼注意到斯维尔德洛夫斯克与伊尔库茨克两处**本不该收到**的记录；
+**1936 年论文题名即「P′」**（两字母），为史上最短论文题名之一；
+**§4「Lehmann was cautious: an inner core was a possibility, its state uncertain」有原文直接支持**——她自己在文末写道：**「It cannot be maintained that the interpretation here given is correct since the data are quite insufficient.」**（Encyclopedia.com 引原文）；
+**「后来的审视与数值计算排除了绕射解释」**——古登堡、里克特、杰弗里斯在两三年内接受其解释，而**直至 1971 年才由计算机计算证实**（scientificwomen 原文）；
+**1952 年弗朗西斯·伯奇**发表详研，断定内核必为固体、**很可能是结晶铁**（APS 原文）；（另：伯奇 1940、布伦 1946 已据 P 波速度反差论证内核为固体，与正文「Models treated the inner core as rigid」的先后次序相合。）
+**内核半径约 1,220 公里**，直径 2,440 公里，小于月球（直径 3,474 公里）。
+**一处两说并存**：P 波影区的角距范围——本文作 **104°—140°**；Trowelblazers 作 **103°—143°**；教科书两种数值皆在流传。两说此存照。
+另可补而未补的一处：**1936 年 3 月 29 日她致信杰弗里斯说明此想法，而杰弗里斯并不信服**。[Encyclopedia.com：Inge Lehmann（含其原文结论）](https://www.encyclopedia.com/people/science-and-technology/geology-and-oceanography-biographies/inge-lehmann)｜[APS News：Seismologist Lehmann Concludes That Earth Has an Inner Core](https://www.aps.org/apsnews/2023/08/seismologist-lehmann-earth-inner-core)｜[Harvard 课程存档：Lehmann 1936 原文摘录](https://courses.seas.harvard.edu/climate/eli/Courses/EPS281r/Sources/Inner-Core/Lehmann-1936-extracts+interpretation.pdf)
