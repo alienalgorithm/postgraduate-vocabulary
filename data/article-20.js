@@ -22,8 +22,8 @@
           "zh": "1990年，美国通过**立法**(legislation)治理发电厂**烟囱**(smokestacks)排放造成的酸雨污染。燃煤**电力企业**(utilities)排放**二氧化**(dioxide)**硫**(sulphur)；它是形成**酸沉降**(deposition)的**前体物**(precursor)，会损害湖泊和森林。国会没有**规定**(prescribe)一套**标准化的**(standardised)控制技术，而是设定一项具有约束力的全国排放**上限**(ceiling)：从2010年起为895万吨，约为1980年电力行业排放水平的一半。"
         },
         {
-          "en": "The law translated this **budget** into tradable **allowances**, each **authorising** one ton. A plant could fit a **scrubber**, switch fuel, **procure** allowances or sell **surplus** allowances; unused ones could be **banked**. This **flexibility** let firms choose among **alternatives**, but not enlarge the national **quota**: every emitted ton still consumed an allowance.",
-          "zh": "法律把这份排放**预算**(budget)转化为可交易的**排放额度**(allowances)，每一份都**允许**(authorising)持有者排放一吨二氧化硫。电厂可以安装**洗涤器**(scrubber)、更换燃料、**购入**(procure)额度，或出售**多余的**(surplus)额度；暂时不用的额度还可以**结转**(banked)到以后年度。这种**灵活性**(flexibility)让企业在不同**方案**(alternatives)之间选择，却不能扩大全国总**配额**(quota)：每排放一吨，仍须消耗一份额度。"
+          "en": "The law translated this **budget** into tradable **allowances**, each **authorising** one ton. A plant could fit a **scrubber**, switch fuel, **procure** allowances or sell a **surplus**; unused ones could be **banked**. This **flexibility** let firms choose among **alternatives**, but not enlarge the national **quota**: every emitted ton still consumed an allowance.",
+          "zh": "法律把这份排放**预算**(budget)转化为可交易的**排放额度**(allowances)，每一份都**允许**(authorising)持有者排放一吨二氧化硫。电厂可以安装**洗涤器**(scrubber)、更换燃料、**购入**(procure)额度，或卖掉**多余**(surplus)部分；暂时不用的额度还可以**结转**(banked)到以后年度。这种**灵活性**(flexibility)让企业在不同**方案**(alternatives)之间选择，却不能扩大全国总**配额**(quota)：每排放一吨，仍须消耗一份额度。"
         },
         {
           "en": "The market worked because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; every allowance carried a **serial** number in a public **registry**. At year's end plants **surrendered** allowances matching emissions. A **shortfall** owed $2,000 a ton, no **penalty** notice required; the **overrun** was **deducted** from later years. No allowance could **override** health limits.",

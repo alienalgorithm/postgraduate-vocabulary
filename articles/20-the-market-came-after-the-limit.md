@@ -11,7 +11,7 @@
 
 In 1990, US **legislation** targeted acid-rain pollution from power-plant **smokestacks**. Coal-fired **utilities** released **sulphur** **dioxide**, a **precursor** to acid **deposition** that damaged lakes and forests. Congress did not **prescribe** a **standardised** control technology. Instead, it imposed a binding national **ceiling**: 8.95 million tons annually from 2010, about half the 1980 power-sector level.
 
-The law translated this **budget** into tradable **allowances**, each **authorising** one ton. A plant could fit a **scrubber**, switch fuel, **procure** allowances or sell **surplus** allowances; unused ones could be **banked**. This **flexibility** let firms choose among **alternatives**, but not enlarge the national **quota**: every emitted ton still consumed an allowance.
+The law translated this **budget** into tradable **allowances**, each **authorising** one ton. A plant could fit a **scrubber**, switch fuel, **procure** allowances or sell a **surplus**; unused ones could be **banked**. This **flexibility** let firms choose among **alternatives**, but not enlarge the national **quota**: every emitted ton still consumed an allowance.
 
 The market worked because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; every allowance carried a **serial** number in a public **registry**. At year's end plants **surrendered** allowances matching emissions. A **shortfall** owed $2,000 a ton, no **penalty** notice required; the **overrun** was **deducted** from later years. No allowance could **override** health limits.
 
@@ -28,7 +28,7 @@ Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, oth
 
 1990年，美国通过**立法**(legislation)治理发电厂**烟囱**(smokestacks)排放造成的酸雨污染。燃煤**电力企业**(utilities)排放**二氧化**(dioxide)**硫**(sulphur)；它是形成**酸沉降**(deposition)的**前体物**(precursor)，会损害湖泊和森林。国会没有**规定**(prescribe)一套**标准化的**(standardised)控制技术，而是设定一项具有约束力的全国排放**上限**(ceiling)：从2010年起为895万吨，约为1980年电力行业排放水平的一半。
 
-法律把这份排放**预算**(budget)转化为可交易的**排放额度**(allowances)，每一份都**允许**(authorising)持有者排放一吨二氧化硫。电厂可以安装**洗涤器**(scrubber)、更换燃料、**购入**(procure)额度，或出售**多余的**(surplus)额度；暂时不用的额度还可以**结转**(banked)到以后年度。这种**灵活性**(flexibility)让企业在不同**方案**(alternatives)之间选择，却不能扩大全国总**配额**(quota)：每排放一吨，仍须消耗一份额度。
+法律把这份排放**预算**(budget)转化为可交易的**排放额度**(allowances)，每一份都**允许**(authorising)持有者排放一吨二氧化硫。电厂可以安装**洗涤器**(scrubber)、更换燃料、**购入**(procure)额度，或卖掉**多余**(surplus)部分；暂时不用的额度还可以**结转**(banked)到以后年度。这种**灵活性**(flexibility)让企业在不同**方案**(alternatives)之间选择，却不能扩大全国总**配额**(quota)：每排放一吨，仍须消耗一份额度。
 
 这个市场之所以成立，全在于**核算**(accounting)不留余地。烟囱**传感器**(sensors)连续测量排放；每份配额在公开**登记簿**(registry)上都有**编号**(serial)。年终，电厂**上缴**(surrendered)与实际排放相当的配额。出现**缺口**(shortfall)即欠下每吨2000美元，无需下达**罚**(penalty)单；**超排**(overrun)量还要从往后年份的配额里**扣除**(deducted)。任何配额都不能**凌驾**(override)于基于健康的空气限值之上。
 
