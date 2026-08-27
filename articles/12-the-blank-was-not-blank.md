@@ -11,7 +11,7 @@
 
 Harrison Brown's group used **nuclear** **decay**: two **uranium** **isotopes** **convert** into different lead isotopes at known **rates**, so the ratios are **clocks**. But **crustal** stone is remade again and again, its clocks reset each time. Brown proposed that iron **meteorites** still held the untouched lead of the solar system's **origin**.
 
-He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every sample-free laboratory **blank** held lead of its own. **Dust** carried it; **reagents**, **surfaces** and **glassware** **contaminated** every sample. At Caltech from 1952 he built a **sterile** room, **filtered** the air, **sealed** his containers and washed them in **acid**.
+He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every sample-free laboratory **blank** held lead of its own. **Dust** carried it; **reagents**, **surfaces** and **glassware** **contaminated** every sample. At Caltech from 1952 Patterson built a **sterile** room, **filtered** the air, **sealed** his containers and washed them in **acid**.
 
 A mass **spectrometer** then **separated** the **ions** and recorded a **spectrum**. The meteorite readings were **consistent** with a single age. His 1956 report **fixed** it at 4.55 ± 0.07 billion years. Combining meteoritic and **terrestrial** lead, he **dated** early **solar**-system matter and, by inference, Earth. Others later **narrowed** the number but barely moved it.
 
@@ -28,7 +28,7 @@ Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Fundin
 
 为给地球定年，哈里森·布朗的团队用的是**核**(nuclear)**衰变**(decay)：两种**铀**(uranium)**同位素**(isotopes)以已知**速率**(rates)**转变**(convert)成不同的铅同位素，它们的比值因此就是**时钟**(clocks)。可**地壳**(crustal)岩石一再重造。布朗提出，铁**陨石**(meteorites)里仍封存着太阳系**起源**(origin)时那批未经扰动的铅。
 
-他把活分开：乔治·蒂尔顿测铀，克莱尔·帕特森测铅，马克·英格拉姆协助。可是每一份不含样品的实验室**空白**(blank)里，都有铅。**灰尘**(dust)带来它；**试剂**(reagents)、**器壁**(surfaces)、**玻璃器皿**(glassware)**污染**(contaminated)了每一份样品。1952年起在加州理工，他建起**无菌**(sterile)室，把空气**过滤**(filtered)，容器**密封**(sealed)，器皿用**酸**(acid)洗。
+他把活分开：乔治·蒂尔顿测铀，克莱尔·帕特森测铅，马克·英格拉姆协助。可是每一份不含样品的实验室**空白**(blank)里，都有铅。**灰尘**(dust)带来它；**试剂**(reagents)、**器壁**(surfaces)、**玻璃器皿**(glassware)**污染**(contaminated)了每一份样品。1952年起在加州理工，帕特森建起**无菌**(sterile)室，把空气**过滤**(filtered)，容器**密封**(sealed)，器皿用**酸**(acid)洗。
 
 随后质谱**仪**(spectrometer)把**离子**(ions)**分离**(separated)开，记下一道**谱**(spectrum)。陨石读数**一致**(consistent)指向同一个年龄。1956年他把这个数**定**(fixed)在45.5±0.7亿年。把陨石铅与**地表**(terrestrial)铅合起来，他为太阳系早期物质**定了年**(dated)——**太阳**(solar)系的年龄，也就推得了地球的。后来的工作**收窄**(narrowed)了这个数，却几乎没有移动它。
 
