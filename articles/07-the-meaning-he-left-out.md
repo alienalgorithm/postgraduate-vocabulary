@@ -2,7 +2,7 @@
 
 > 题材：1948 年香农与信息论
 > 状态：**第七篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 香农在第一页就把含义搁到一边——正是这份克制，让一条信道不必读懂消息也能把它完好送到。
 
 ---
@@ -13,7 +13,7 @@ In 1948 Claude Shannon published a theory of **messages** and set meaning aside.
 
 The question made information **countable**. If eight **outcomes** are **equally** **probable**, identifying one takes three yes-or-no decisions: three **bits**. A certain event says nothing; a **surprising** one says more. He measured surprise with **probability**; von Neumann urged the name **entropy**, base two gave the unit, a **contraction** of **binary** digit, named by John Tukey.
 
-Written English is **lopsided**. Letters counted **singly** give 4.14 bits each, but they are **predictable** from neighbours, and **guessing** experiments he published in 1951 put the true figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means spending it: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.
+Written English is **lopsided**. Letters counted **singly** give 4.14 bits each, but they are **predictable** from neighbours, and **guessing** experiments Shannon published in 1951 put the figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means spending it: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.
 
 **Noise** inverts the argument. A channel **corrupts** symbols, so an **encoder** puts redundancy back **deliberately**, spacing codewords so a damaged one still **decodes** correctly. Every channel has a ceiling on **throughput**: below it, long codes drive the **error** rate **arbitrarily** near zero; above it, no **scheme** keeps **transmission** reliable.
 
