@@ -304,7 +304,8 @@
         "来源：[Rutherford 1911年原始论文《The Scattering of α and β Particles by Matter and the Structure of the Atom》](https://doi.org/10.1080/14786440508637080)",
         "来源：[Geiger与Marsden 1913年原始论文《The Laws of Deflexion of α Particles through Large Angles》](https://doi.org/10.1080/14786440408634197)",
         "来源：[CiNii：1909年论文书目信息与原始摘要](https://cir.nii.ac.jp/crid/1361699993987400192)",
-        "来源：[Zenodo：1913年论文存档与PDF](https://zenodo.org/records/1430706)"
+        "来源：[Zenodo：1913年论文存档与PDF](https://zenodo.org/records/1430706)",
+        "**已核（2026-08-20 逐条上网）· 六项无误，零翻案，且有一处归属写得比多数科普都准**：\n**⭐ 「一在八千」的归属正确**：正文写作 **In one platinum test, roughly one in 8,000**——**这个数正是厚铂箔的，不是金箔的**。ChemTeam 与 Grokipedia 皆明载「1 in 8000 for **platinum** foil」「about 1 in 8,000 for backscattering greater than 90 degrees from thick **platinum**」；**而卢瑟福 1911 年论文对金箔给的是 1 in 20,000**。**许多科普把这两个数混为一谈、径称「金箔一在八千」，本文没有。**\n**§4 那四条关系与 1913 年原文逐条对应**——盖革与马斯登《The Laws of Deflexion of α Particles through Large Angles》（Phil. Mag. 25, 604, 1913）验证：(1) 与 cosec⁴(φ/2) 成正比；(2) **薄箔时与厚度 t 成正比**；(3) **与中心电荷的平方成正比**；(4) **约与入射 α 粒子速度的四次方成反比**（原文：the scattering was found to vary at a rate more nearly proportional to the inverse fourth power of the velocity than to any other integral power）。**正文三条（厚度／电荷平方／速度四次方）与原文一字不差。**\n**1913 年的系统测量**：角度自 **5° 至 150°**，计数自 1 变到 **250,000**，与理论吻合良好；\n**1909 年马斯登时为本科生**、盖革为博士后，在曼彻斯特暗室中计闪；金箔厚约 0.00004 厘米；\n**卢瑟福 1911 年论文**《The Scattering of α and β Particles by Matter and the Structure of the Atom》；他自述「就像你朝一张纸巾打了一发十五英寸炮弹、它却弹回来打中你」。\n另：盖革与马斯登 1913 年由此算得**原子中心的基本电荷数约为原子量之半**。[ChemTeam：Geiger-Marsden 1913 原文](https://www.chemteam.info/Chem-History/GeigerMarsden-1913/GeigerMarsden-1913.html)｜[ChemTeam：Rutherford Experiment](https://www.chemteam.info/AtomicStructure/Rutherford-Model.html)｜[Geiger & Marsden 1913 PDF](http://fisica.ufpr.br/mossanek/etc/geiger_marsden.pdf)"
       ]
     }
   ]);
