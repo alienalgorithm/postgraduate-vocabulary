@@ -682,6 +682,31 @@ check("规则本身未被删除",
       all(r in _src for r in ("AUD-01", "BAL-03", "SYN-01", "VAL-02b")),
       "折叠不等于删除——它们可能某天真的逮到东西")
 
+
+# ── 冷读队列 coldread.py（2026-08-20 立）──────────────────────
+# 立此之由：**第13轮极限轮是全项目唯一受时间约束的活**——
+#   隔会话跑才算数（第32篇翻案1处、第33篇2处；同场跑一律零翻案，而那个零是假的）。
+#   一次会话里做不成，跨会话又没人记得欠了哪几篇，于是积了 30 多篇假的第13轮。
+print("\n[冷读队列] coldread.py")
+import importlib.util as _ilu
+_spec = _ilu.spec_from_file_location("coldread", os.path.join(ROOT, "scripts/coldread.py"))
+_cr = _ilu.module_from_spec(_spec); _spec.loader.exec_module(_cr)
+
+check("明写「非隔会话」判为 fake", _cr.status("32")[0] == "fake",
+      "第32篇台账自己写着「同一次会话（条件不满足）」")
+check("翻出东西即判为 real", _cr.status("33")[0] == "real",
+      "★ 翻案 ≥1 处本身就是「读得够冷」的证据，比标注更硬")
+check("未标注者保守当作未跑", _cr.status("28")[0] in ("unmarked", "real"),
+      "宁可多读一遍，不可漏")
+_src = open(os.path.join(ROOT, "scripts/coldread.py"), encoding="utf-8").read()
+check("闸门拦的是会话不是篇", "last_issue" in _src and "last_batch" in _src,
+      "★ 第一版只跳过刚领过的那几篇、接着发下一批——"
+      "等于同一会话能把全库领完，队列形同虚设")
+check("销账与判定共用同一判据", 'if stt != "real":' in _src,
+      "★ 另立标准会出现「status 判 real、销账却拒收」的自相矛盾（第33篇实测踩到）")
+check("时间锚点取自 git 提交", "git" in _src and "%cI" in _src,
+      "不另建时间戳文件——git 的提交时间是既有的、不会被改错的事实")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
