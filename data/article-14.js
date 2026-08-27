@@ -18,11 +18,11 @@
       },
       "paras": [
         {
-          "en": "Ice **crushed** the **vessel** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a victualling **list** — on Greenland's southwest **shore**. That **wreckage** had travelled frozen into the **drift**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
-          "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(vessel)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**清单**(list)。那些**残骸**(wreckage)是冻在**流冰**(drift)里漂过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
+          "en": "Ice **crushed** the **vessel** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a victualling **manifest** — on Greenland's southwest **shore**. That **wreckage** had travelled frozen into the **drift**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
+          "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(vessel)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**舱单**(manifest)。那些**残骸**(wreckage)是冻在**流冰**(drift)里漂过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
         },
         {
-          "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to seventy **centimetres** deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed it **squeezed** her upward instead of **inward**, setting her down on top.",
+          "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to seventy **centimetres** deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed, it **squeezed** her upward instead of **inward**, setting her down on top.",
           "zh": "**船身**(hull)必须扛得住被**夹住**(gripped)。科林·阿彻用最厚达七十**厘米**(centimetres)的**橡木**(oak)造出「前进」号，船底**浑圆**(rounded)，舷侧**外斜**(sloping)。寻常船身给了冰一堵可以咬住的直墙；「前进」号给它的是一道**楔面**(wedge)。**冰群**(pack)一合拢，就把她**挤**(squeezed)着往上抬，而不是往**里**(inward)压，随后把她搁在冰面上。"
         },
         {
@@ -60,8 +60,8 @@
           "p": 1
         },
         {
-          "w": "list",
-          "zh": "清单",
+          "w": "manifest",
+          "zh": "舱单；载货清单",
           "p": 1
         },
         {
