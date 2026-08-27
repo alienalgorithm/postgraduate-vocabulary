@@ -21,9 +21,9 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第一篇最终精进锁定稿",
     "metrics": {
-      "words": 269,
+      "words": 266,
       "keywords": 50,
-      "density": 18.6
+      "density": 18.8
     },
     "paras": [
       {
@@ -31,8 +31,8 @@ window.SITE = {
         "zh": "1854年9月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了616人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者平日从哪里**打**(drew)水、用的是哪一处**水源**(supply)。"
       },
       {
-        "en": "He set a **stroke** against each **address** on a chart of the **neighbourhood**, one for every death. The **strokes** **gathered** around a single **pump** on Broad Street, and **thinned** to nothing two **blocks** off. The **pattern** showed him where to look; the **exceptions**, where the water differed, showed him he was right.",
-        "zh": "他在**街区**(neighbourhood)图上按**片区**(blocks)，按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，出去两个街区就**稀疏**(thinned)得几乎没有了。**分布**(pattern)告诉他该往哪儿看；那些水源不同的**例外**(exceptions)告诉他他没看错。"
+        "en": "He set a **stroke** against each **address** on a chart of the **neighbourhood**, one for every death. The **strokes** **gathered** around a single **pump** on Broad Street, and **thinned** to nothing two **blocks** off. The pattern showed him where to look; the **exceptions**, where the water differed, **vindicated** him.",
+        "zh": "他在**街区**(neighbourhood)图上按**片区**(blocks)，按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，出去两个街区就**稀疏**(thinned)得几乎没有了。分布告诉他该往哪儿看；那些水源不同的**例外**(exceptions)**证实**(vindicated)了他。"
       },
       {
         "en": "A **workhouse** of 535 **inmates** inside the death **zone** had its own **borehole** and **recorded** five deaths. A **brewery** **beside** the pump lost nobody, since the men were **supplied** with beer. Both stood in the same **stench** as the tenements being **emptied** around them: same air, different water.",
@@ -139,13 +139,13 @@ window.SITE = {
         "p": 2
       },
       {
-        "w": "pattern",
-        "zh": "分布；模式",
+        "w": "exceptions",
+        "zh": "例外",
         "p": 2
       },
       {
-        "w": "exceptions",
-        "zh": "例外",
+        "w": "vindicated",
+        "zh": "证实；为…正名",
         "p": 2
       },
       {
