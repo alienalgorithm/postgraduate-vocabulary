@@ -2,22 +2,22 @@
 
 > 题材：末日审判书：一份记录的权威来自终局性而非完备性
 > 状态：**第四十篇定稿**（2026-08-27）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 编年史说，1086年那次普查连一头猪都没漏。可伦敦不在书里，温切斯特也不在——而这本书的原名，正是《温切斯特之书》。它从来不是户口册，是一份不许上诉的税册。
 
 ---
 
 ## 英文正文
 
-The Anglo-Saxon Chronicle says the survey of 1086 missed nothing. Not one hide of land whose **occupant** the king did not know, not one ox, not one **heifer**, not one **swine** that **escaped** the **audit** or its **listing**. **Notaries** **fanned** into every **shire** and set down who held what and what it **rated**.
+The Anglo-Saxon Chronicle says the survey of 1086 missed nothing. Not one hide whose **occupant** the king did not know, not one ox, not one **heifer**, not one **swine** that **escaped** the **audit** or its **listing**. **Notaries** **fanned** into every **shire**, and 13,418 settlements went down with their holders and **rated** values.
 
-Yet London is **omitted** **altogether**, and so is Winchester. Those were the two largest **cities** in England, and by far the **richest** — **indeed** the very places a **fiscal** survey would want most. The book's own Latin name was Liber de Wintonia, the Book of Winchester, because it lay in the royal **treasury**'s **custody**. The Book of Winchester does not **embrace** Winchester, and never **pretended** to.
+Yet London is **omitted** **altogether**, and so is Winchester. Those were the two largest **cities** in England, and by far the **richest** — **indeed** a **fiscal** survey's first targets. Its Latin name was Liber de Wintonia, the Book of Winchester, for it lay in the royal **treasury**'s **custody**. The Book of Winchester does not **embrace** Winchester, and never **pretended** otherwise.
 
-It was never **intended** as a **census**. Nobody **enumerated** households. The notaries **transcribed** holdings and their **assessed** value, because the point was to know what could be **taxed** and from whom. Four northern shires are **absent** too, **ravaged** and not worth the **trek**, along with a **handful** of other boroughs.
+It was never **intended** as a **census**. It **enumerated** 270,000 heads of household and nobody beneath them. The notaries **transcribed** holdings and their **assessed** value, because the point was to know what could be **taxed** and from whom. Four northern shires are **absent** too, **ravaged** and not worth the **trek**, with a **handful** of boroughs.
 
-What made it **terrible** was not its **breadth** but its **finality**. Whatever the book **affirmed** about who held a **manor** became law, and there was no **appeal**. Richard FitzNigel **glossed** the **nickname** a century later: the **judgement** of the last account cannot be **evaded**, and neither can this one.
+Christmas 1085 to August 1086: eight months. What made it **terrible** was not that **breadth** but its **finality**. Whatever the book **affirmed** about who held a **manor** became law, and there was no **appeal**. A century later Richard FitzNigel **glossed** the **nickname**: the **judgement** of the last account cannot be **evaded**, nor this one.
 
-So the name means **conclusive**, not **thorough**. A record that is **merely** accurate can be **reworked** by better evidence. A record that is final stops being a **portrait** of the world and becomes a **precept** about it. English **courts** were still **settling** land **feuds** from it in the **nineteen-sixties**, eight centuries on.
+So the name means **conclusive**, not **thorough**. A record that is **merely** accurate can be **reworked** by better evidence. A record that is final stops being a **portrait** of the world and becomes a **precept**. English **courts** were still **settling** land **feuds** from it in the **nineteen-sixties**, eight centuries on.
 
 ---
 
@@ -26,15 +26,15 @@ So the name means **conclusive**, not **thorough**. A record that is **merely** 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-《盎格鲁-撒克逊编年史》说，1086年那次普查什么也没漏掉：没有一海德土地的**占有者**(occupant)是国王不知道的，没有一头牛、一头**小母牛**(heifer)、一头**猪**(swine)**逃过**(escaped)**清查**(audit)与**造册**(listing)。**书记员**(Notaries)**散**(fanned)进每一个**郡**(shire)，记下谁占着什么、**估**(rated)作多少。
+《盎格鲁-撒克逊编年史》说，1086年那次普查什么也没漏掉：没有一海德地的**占有者**(occupant)国王不知道，没有一头牛、一头**小母牛**(heifer)、一头**猪**(swine)**逃过**(escaped)**清查**(audit)与**造册**(listing)。**书记员**(Notaries)**散**(fanned)进每一个**郡**(shire)，13,418处聚落连同占有者与**估**(rated)值一并登册。
 
-可伦敦**整个**(altogether)被**略去**(omitted)，温切斯特也不在。那是当时英格兰最大的两座**城**(cities)，也**最富**(richest)——**恰恰**(indeed)是一次**财政**(fiscal)普查最想要的地方。这本书的拉丁原名是 Liber de Wintonia，即《温切斯特之书》，因为它就存放在王室**金库**(treasury)的**保管**(custody)之下。《温切斯特之书》并不**收录**(embrace)温切斯特，也从未**佯称**(pretended)收录过。
+可伦敦**整个**(altogether)被**略去**(omitted)，温切斯特也不在。那是当时英格兰最大的两座**城**(cities)，也**最富**(richest)——**恰恰**(indeed)是**财政**(fiscal)普查的首选。它的拉丁原名是 Liber de Wintonia，即《温切斯特之书》，因它就存于王室**金库**(treasury)的**保管**(custody)之下。《温切斯特之书》并不**收录**(embrace)温切斯特，也从未**佯称**(pretended)收录过。
 
-它从来就不**打算**(intended)做一次**人口普查**(census)。没有人**清点**(enumerated)人头。书记员**誊录**(transcribed)的是地产与它的**估**(assessed)值，因为要点在于弄清什么可以**征税**(taxed)、向谁征。北方四个郡也**缺**(absent)着——**残破**(ravaged)得不值得跑那一**程**(trek)——另有**若干**(handful)市镇同样缺席。
+它从来就不**打算**(intended)做一次**人口普查**(census)。它**点**(enumerated)了二十七万名户主，户主以下一个不数。书记员**誊录**(transcribed)的是地产与它的**估**(assessed)值，因为要点在于弄清什么可以**征税**(taxed)、向谁征。北方四郡也**缺**(absent)着——**残破**(ravaged)得不值得跑那一**程**(trek)——另有**若干**(handful)市镇。
 
-让它**可怕**(terrible)的不是它的**广度**(breadth)，而是它的**终局性**(finality)。这本书**认定**(affirmed)谁占着某处**庄园**(manor)，那就是法律，没有**上诉**(appeal)。一个世纪后理查德·菲茨奈杰尔这样**解**(glossed)那个**绰号**(nickname)：末日清算的**判决**(judgement)无从**规避**(evaded)，这一本也一样。
+1085年圣诞到1086年八月，八个月。让它**可怕**(terrible)的不是这份**广度**(breadth)，而是它的**终局性**(finality)。这本书**认定**(affirmed)谁占着某处**庄园**(manor)，那就是法律，没有**上诉**(appeal)。一个世纪后理查德·菲茨奈杰尔**解**(glossed)那个**绰号**(nickname)：末日清算的**判决**(judgement)无从**规避**(evaded)，这一本亦然。
 
-所以这名字的意思是**终局**(conclusive)，不是**周全**(thorough)。一份**仅仅**(merely)准确的记录，可以被更好的证据**改写**(reworked)。而一份终局的记录，就不再是世界的**写照**(portrait)，而变成了关于世界的**律条**(precept)。直到**上世纪六十年代**(nineteen-sixties)，英格兰的**法院**(courts)仍在据它**了结**(settling)土地**争端**(feuds)——八百年过去了。
+所以这名字的意思是**终局**(conclusive)，不是**周全**(thorough)。一份**仅仅**(merely)准确的记录，可以被更好的证据**改写**(reworked)。而一份终局的记录，就不再是世界的**写照**(portrait)，而成了**律条**(precept)。直到**上世纪六十年代**(nineteen-sixties)，英格兰的**法院**(courts)仍在据它**了结**(settling)土地**争端**(feuds)——八百年过去了。
 
 ---
 
