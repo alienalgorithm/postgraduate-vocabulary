@@ -2,18 +2,18 @@
 
 > 题材：全球经常账户统计差额：一个必须为零却从不为零的数
 > 状态：**第四十一篇定稿**（2026-08-27）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 一国的出口就是另一国的进口，全球加总必须为零——这是恒等式，不是估计。可它从来不是零。1980到2004年地球对自己是逆差，此后翻成顺差。而地球没有贸易伙伴。
 
 ---
 
 ## 英文正文
 
-Every **export** is a **counterpart**'s **import**. **Tot** everything the world sells, then everything it **receives**; the two totals must **offset** to nothing. Their **residue** must be **nil** — not near zero, **flat** zero — by the same **identity** that makes any book balance.
+Goods worth 24 trillion **crossed** borders in 2024; every **export** is a **counterpart**'s **import**. Tot everything the world sells, then everything it **receives**; the two totals must **offset** to nothing. Their **residue** must be **nil** — not near zero, **flat** zero — by the same **identity** that makes any book balance.
 
-That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 percent of world **product** — a **chunk** of a trillion dollars in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 percent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.
+That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 percent of world **product** — a **chunk** of a trillion in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 percent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.
 
-The IMF **convened** an **expert** party to find the **basis**. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, the party found something far worse than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the **monetary** account. Both **sides** of one book were wrong, each in its own **direction**.
+The IMF **convened** an **expert** party. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, it found something **graver** than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the **monetary** account. Both **sides** of one book were wrong, each in its own **direction**.
 
 The causes turned out to be **mundane**. A **cargo** **embarks** in December and **berths** in January, tabulated as an export in one year and an import in the next. Customs income goes **understated** to **dodge** tax. Financial **havens** make a **creditor**'s **residence** hard to **pin** down.
 
@@ -26,11 +26,11 @@ A later study **ascribed** the whole reversal to a single **offender**: the **om
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-每一笔**出口**(export)都是**对手方**(counterpart)的**进口**(import)。把全世界卖出去的**加总**(Tot)一遍，再把它**收**(receives)进来的加总一遍，两个总数必须彼此**抵消**(offset)到零。剩下的**余数**(residue)必须是**零**(nil)——不是接近零，是**平**(flat)零——这与任何一本账要平的**恒等式**(identity)是同一条。
+2024年有24万亿的货物**跨**(crossed)过国界；每一笔**出口**(export)都是**对手方**(counterpart)的**进口**(import)。把全世界卖出去的加总一遍，再把它**收**(receives)进来的加总一遍，两个总数必须彼此**抵消**(offset)到零。剩下的**余数**(residue)必须是**零**(nil)——不是接近零，是**平**(flat)零——这与任何一本账要平的**恒等式**(identity)是同一条。
 
-可这一**行**(row)从来没有等于过零。1980到2004年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿美元里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。
+可这一**行**(row)从来没有等于过零。1980到2004年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。
 
-国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组去查**根据**(basis)。那份报告**编号**(tagged)SM/87/13，1987年1月12日送抵执董会：182**页**(pages)、109份**附表**(appendices)。工作组读过1977到1983年的数据，发现的东西远比一处**背离**(divergence)更糟：全世界的经常账户累计为负，而**同时**，**货币**(monetary)账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。
+国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组。那份报告**编号**(tagged)SM/87/13，1987年1月12日送抵执董会：182**页**(pages)、109份**附表**(appendices)。读过1977到1983年的数据，它发现的东西比一处**背离**(divergence)**更重**(graver)：全世界的经常账户累计为负，而**同时**，**货币**(monetary)账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。
 
 查出来的原因**平淡**(mundane)得很。一船**货**(cargo)十二月**启航**(embarks)、一月**靠岸**(berths)，于是这一年记成出口、下一年记成进口。关税收入被**少报**(understated)以**躲**(dodge)税。金融**避风港**(havens)让一个**债权人**(creditor)的**居所**(residence)根本无从**认定**(pin)。
 
@@ -40,11 +40,11 @@ A later study **ascribed** the whole reversal to a single **offender**: the **om
 
 ## 50 词速查表
 
-**§1**（10词）export 出口｜counterpart 对手方；对应方｜import 进口｜tot 加总｜receives 接收｜offset 抵消｜residue 余数；残余｜nil 零｜flat 不折不扣的｜identity 恒等式
+**§1**（10词）crossed 越过；跨过｜export 出口｜counterpart 对手方；对应方｜import 进口｜receives 接收｜offset 抵消｜residue 余数；残余｜nil 零｜flat 不折不扣的｜identity 恒等式
 
 **§2**（10词）row 行｜filed 呈报；备案｜minus 负数；亏空｜product 产值；产品｜chunk 一大块｜flipped 翻转｜glut 过剩；盈余｜thereafter 此后｜exporter 出口方｜nobody 无人
 
-**§3**（10词）convened 召集｜expert 专家的｜basis 根据｜tagged 编号；标注｜pages 页（复）｜appendices 附表（复）｜divergence 背离｜monetary 货币的｜sides 边（复）｜direction 方向
+**§3**（10词）convened 召集｜expert 专家的｜tagged 编号；标注｜pages 页（复）｜appendices 附表（复）｜graver 更严重的｜divergence 背离｜monetary 货币的｜sides 边（复）｜direction 方向
 
 **§4**（10词）mundane 平淡的｜cargo 货物｜embarks 启航｜berths 靠泊｜understated 少报的｜dodge 躲避｜havens 避风港（复）｜creditor 债权人｜residence 居所｜pin 确定；钉住
 

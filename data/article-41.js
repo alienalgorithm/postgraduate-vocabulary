@@ -13,16 +13,16 @@
       "status": "第四十一篇定稿",
       "paras": [
         {
-          "en": "Every **export** is a **counterpart**'s **import**. **Tot** everything the world sells, then everything it **receives**; the two totals must **offset** to nothing. Their **residue** must be **nil** — not near zero, **flat** zero — by the same **identity** that makes any book balance.",
-          "zh": "每一笔**出口**(export)都是**对手方**(counterpart)的**进口**(import)。把全世界卖出去的**加总**(Tot)一遍，再把它**收**(receives)进来的加总一遍，两个总数必须彼此**抵消**(offset)到零。剩下的**余数**(residue)必须是**零**(nil)——不是接近零，是**平**(flat)零——这与任何一本账要平的**恒等式**(identity)是同一条。"
+          "en": "Goods worth 24 trillion **crossed** borders in 2024; every **export** is a **counterpart**'s **import**. Tot everything the world sells, then everything it **receives**; the two totals must **offset** to nothing. Their **residue** must be **nil** — not near zero, **flat** zero — by the same **identity** that makes any book balance.",
+          "zh": "2024年有24万亿的货物**跨**(crossed)过国界；每一笔**出口**(export)都是**对手方**(counterpart)的**进口**(import)。把全世界卖出去的加总一遍，再把它**收**(receives)进来的加总一遍，两个总数必须彼此**抵消**(offset)到零。剩下的**余数**(residue)必须是**零**(nil)——不是接近零，是**平**(flat)零——这与任何一本账要平的**恒等式**(identity)是同一条。"
         },
         {
-          "en": "That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 percent of world **product** — a **chunk** of a trillion dollars in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 percent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.",
-          "zh": "可这一**行**(row)从来没有等于过零。1980到2004年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿美元里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。"
+          "en": "That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 percent of world **product** — a **chunk** of a trillion in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 percent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.",
+          "zh": "可这一**行**(row)从来没有等于过零。1980到2004年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。"
         },
         {
-          "en": "The IMF **convened** an **expert** party to find the **basis**. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, the party found something far worse than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the **monetary** account. Both **sides** of one book were wrong, each in its own **direction**.",
-          "zh": "国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组去查**根据**(basis)。那份报告**编号**(tagged)SM/87/13，1987年1月12日送抵执董会：182**页**(pages)、109份**附表**(appendices)。工作组读过1977到1983年的数据，发现的东西远比一处**背离**(divergence)更糟：全世界的经常账户累计为负，而**同时**，**货币**(monetary)账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。"
+          "en": "The IMF **convened** an **expert** party. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, it found something **graver** than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the **monetary** account. Both **sides** of one book were wrong, each in its own **direction**.",
+          "zh": "国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组。那份报告**编号**(tagged)SM/87/13，1987年1月12日送抵执董会：182**页**(pages)、109份**附表**(appendices)。读过1977到1983年的数据，它发现的东西比一处**背离**(divergence)**更重**(graver)：全世界的经常账户累计为负，而**同时**，**货币**(monetary)账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。"
         },
         {
           "en": "The causes turned out to be **mundane**. A **cargo** **embarks** in December and **berths** in January, tabulated as an export in one year and an import in the next. Customs income goes **understated** to **dodge** tax. Financial **havens** make a **creditor**'s **residence** hard to **pin** down.",
@@ -42,11 +42,16 @@
         "**本篇的机制边界**：这不是「统计做得不好」的故事。**差额之所以刺眼，正因为它在数学上不可能存在**——经常账户之和为零是会计恒等式，不是经验规律。**因此非零的差额不是关于贸易的事实，而是关于记账的事实**：两百多个统计机构各自记账，口径、时点与定义从未统一，**于是一个必须为零的数，反而成了衡量「全世界有多不会一起数数」的尺子。**本文不判某国造假，**因为运输时滞与债权人居所这两项，谁也没做错，账仍然平不了。**"
       ],
       "metrics": {
-        "words": 270,
+        "words": 271,
         "keywords": 50,
         "density": 18.5
       },
       "glossary": [
+        {
+          "w": "crossed",
+          "zh": "越过；跨过",
+          "p": 1
+        },
         {
           "w": "export",
           "zh": "出口",
@@ -60,11 +65,6 @@
         {
           "w": "import",
           "zh": "进口",
-          "p": 1
-        },
-        {
-          "w": "tot",
-          "zh": "加总",
           "p": 1
         },
         {
@@ -158,11 +158,6 @@
           "p": 3
         },
         {
-          "w": "basis",
-          "zh": "根据",
-          "p": 3
-        },
-        {
           "w": "tagged",
           "zh": "编号；标注",
           "p": 3
@@ -175,6 +170,11 @@
         {
           "w": "appendices",
           "zh": "附表（复）",
+          "p": 3
+        },
+        {
+          "w": "graver",
+          "zh": "更严重的",
           "p": 3
         },
         {
