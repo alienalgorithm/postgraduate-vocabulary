@@ -2,7 +2,7 @@
 
 > 题材：1935年百浪多息、磺胺的发现与一项没能守住的专利
 > 状态：**第三十一篇定稿**（2026-08-20）
-> 指标：267 词 / 50 重点词 / 密度 18.7%
+> 指标：266 词 / 50 重点词 / 密度 18.8%
 > 多马克为救女儿注射了那种红色染料，她活了下来。可几个月后巴黎的实验证明：起效的根本不是染料，而是它在体内裂出的那一半——而那一半1909年就有人合成过，专利早已过期。
 
 ---
@@ -15,7 +15,7 @@ Gerhard Domagk had **shown** in 1932 that the dye **cured** infected **mice**, a
 
 In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.
 
-That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry made it by the **ton** as an **intermediate**. Anyone could make it. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.
+That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry turned it out by the **ton** as an **intermediate**. Anyone could. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.
 
 The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifist** in a camp, had taken the 1935 Peace Prize, and Hitler had **forbidden** Germans to accept Nobel awards. Told on 26 October, he sent a **guarded** **acceptance**; on 17 November **armed** Gestapo **surrounded** his house. After a week in **jail** he signed a letter **declining** it. The **medal** reached him in 1947, the money redistributed long before.
 

@@ -1818,7 +1818,7 @@ window.SITE = {
     "date": "2026-08-15",
     "status": "第七篇最终精进锁定稿",
     "metrics": {
-      "words": 268,
+      "words": 267,
       "keywords": 50,
       "density": 18.7
     },
@@ -1832,8 +1832,8 @@ window.SITE = {
         "zh": "这个窄问题让信息变得**可数**(countable)。若八种**结果**(outcomes)**等**(equally)**概率**(probable)，认出其中一种需要三次是非判断，也就是三个**比特**(bits)。必然发生的事什么也没说；**出人意料的**(surprising)那件说得更多。他用**概率**(probability)去度量这份意外；冯·诺依曼劝他叫它**熵**(entropy)，以2为底给出了单位，即**二进制**(binary)数字的**缩写**(contraction)，由约翰·图基起名。"
       },
       {
-        "en": "Written English is **lopsided**. Letters counted **singly** give 4.14 bits each, but they are **predictable** from neighbours, and **guessing** experiments Shannon published in 1951 put the figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means spending it: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.",
-        "zh": "书面英语是**偏斜的**(lopsided)。把字母**逐个**(singly)来数，每个字母是4.14比特；可字母能从相邻字母**推得出来**(predictable)，香农1951年发表的**猜字**(guessing)实验把真实值压到0.6至1.3之间。这中间的落差就是**冗余**(redundancy)；**压缩**(shrinking)一个文件，就是把这份冗余花掉：给**高频**(frequent)**字符**(characters)配**更短的**(shorter)**码字**(codewords)，其余的配长的。"
+        "en": "Written English is **lopsided**. Letters counted **singly** give 4.14 bits each. But they are **predictable** from neighbours: **guessing** experiments Shannon published in 1951 put the figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means spending it: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.",
+        "zh": "书面英语是**偏斜的**(lopsided)。把字母**逐个**(singly)来数，每个字母是4.14比特。可字母能从相邻字母**推得出来**(predictable)：香农1951年发表的**猜字**(guessing)实验把真实值压到0.6至1.3之间。这中间的落差就是**冗余**(redundancy)；**压缩**(shrinking)一个文件，就是把这份冗余花掉：给**高频**(frequent)**字符**(characters)配**更短的**(shorter)**码字**(codewords)，其余的配长的。"
       },
       {
         "en": "**Noise** inverts the argument. A channel **corrupts** symbols, so an **encoder** puts redundancy back **deliberately**, spacing codewords so a damaged one still **decodes** correctly. Every channel has a ceiling on **throughput**: below it, long codes drive the **error** rate **arbitrarily** near zero; above it, no **scheme** keeps **transmission** reliable.",

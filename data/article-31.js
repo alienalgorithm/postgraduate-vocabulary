@@ -25,7 +25,7 @@
           "zh": "1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。"
         },
         {
-          "en": "That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry made it by the **ton** as an **intermediate**. Anyone could make it. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.",
+          "en": "That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry turned it out by the **ton** as an **intermediate**. Anyone could. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.",
           "zh": "那一半是个老东西：保罗·格尔莫1909年做**博士**(doctoral)**习题**(exercise)时就合成过它，专利早已**过期**(expired)，工业界把它当**中间体**(intermediate)按**吨**(ton)生产。谁都能做。两年之内各国**实验室**(laboratories)纷纷**做**(turning)出**衍生物**(derivatives)，那份**垄断**(monopoly)变成了一整类**药**(drugs)。"
         },
         {
@@ -43,9 +43,9 @@
         "**已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)"
       ],
       "metrics": {
-        "words": 267,
+        "words": 266,
         "keywords": 50,
-        "density": 18.7
+        "density": 18.8
       },
       "glossary": [
         {
