@@ -955,6 +955,35 @@ check("派生不误报", "VAL-14" not in ids(I.inspect(_dv14, arts)[0]),
       "★ processing／readings 是名词化，词性变了，是独立词条")
 check("VAL-14 已挂铁律", bool(I.charter_of("VAL-14")))
 
+
+# ── swap.py 换词四步合一（2026-08-20 立）──────────────────────
+# **立此工具之由：本会话「换一个词」引发的自伤共 25 次，全是同一个形状。**
+#   换词本要走四步：① vet 候选　② 改英文　③ 改中文　④ 重建速查表
+#   而**每次都会漏掉其中一步**：
+#     漏 ① → 撞车 5 次、白送词或生僻词 7 次（vended 1.2、severed 撞第20篇…）
+#     漏 ③ → **中英失配 13 次**（改了英文，中文那边还是旧词）
+#     漏 ④ → 速查表与正文对不上
+# **我不是不知道规矩，是规矩太长。工具的职责是让漏不掉。**
+# 四件事任何一件不过就**整体不落盘**——半途而废正是那 13 次的来源。
+print("\n[swap] 换词四步合一")
+_sw = open(os.path.join(ROOT, "scripts/swap.py"), encoding="utf-8").read()
+check("vet 含全部四类否决", all(k in _sw for k in
+      ("VAL-08", "VAL-07", "VAL-02h", "VAL-09", "VAL-12", "VAL-14")),
+      "★ 含 VAL-14：不规则屈折的原形是不是白送词")
+check("英文侧要求恰好命中一处", 'n_en != 1' in _sw,
+      "多处或零处都说明上下文没看清，须先看原文")
+check("中文侧要求恰好命中一处", 'n_zh != 1' in _sw,
+      "★ 中英失配那 13 次，正是因为这一步被跳过")
+check("中文侧自动认出原词并同步替换",
+      '"**%s**(%s)" % (zh_old, a.old)' in _sw,
+      "不要求人再输一遍旧中文词 —— 少一个可填错的地方")
+check("释义须为中文（红线六）", "红线六" in _sw and "\u4e00" in _sw)
+check("任一步不过则整体不落盘", "整体未落盘" in _sw)
+check("速查表整表按正文顺序重排", "for w in core.keywords(pa[\"en\"])" in _sw)
+check("落盘后自动跑检察官复查", "inspector.py" in _sw)
+check("明写后续仍须跑什么", "build_markdown → rescan → regress accept" in _sw,
+      "★ 工具须说清自己的边界，否则人会以为跑过就万事大吉")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
