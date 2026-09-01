@@ -1249,6 +1249,23 @@ _g15 = art(["The **frayed** coat lasted the whole winter and never **split**."],
            ["那件**磨破的**(frayed)外衣撑过了整个冬天，一直没**裂**(split)。"])
 check("不撞时不误报", "VAL-15" not in ids(I.inspect(_g15, arts)[0]))
 
+
+# ── review 的停手信号（2026-09-01 第50篇实测立）──────────────────
+# **第50篇第二稿在第11轮即已达标**：270 词 / 50 名额 / 阻塞项全清。
+# **我却没停** —— 去改「§1 只有 36 词是残段」这条【二、结构】提示，
+# **此后六轮再没回到达标**（279/49、267/47、270/47、276/49、267/47、279/49），
+# **最终只能取回第11轮那一版 —— 不是继续改，是回头。**
+# **病根：review 分了四节，却没说清只有第一节必须清零。**
+print("\n[review] 阻塞项清零即明说可以停手")
+_ag5 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("阻塞项清零时印出停手信号", "阻塞项已清零" in _ag5)
+check("说明后几节不必清零", "不是必须清零的东西" in _ag5)
+check("给出一个可执行的自问", "这一处不改，这篇会差在哪里" in _ag5)
+check("附上第50篇的实测教训", "白改六轮" in _ag5)
+_ch6 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("《总令》也写了这条", "阻塞项清零就该停手" in _ch6,
+      "★ 下一次会话开局读的是《总令》")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
