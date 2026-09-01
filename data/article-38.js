@@ -21,8 +21,8 @@
           "zh": "没能**立住**(thrive)。买卖**照行**(proceeded)于老单位，市集**摊子**(stalls)**抗**(defied)了这法令十七年。同年掌权的拿破仑，把这场**改制**(overhaul)称作拿**琐碎**(trivia)**折腾**(tormenting)百姓；1812年2月，他**颁**(proclaimed)下一道**敕令**(edict)，把老**名头**(titles)还了回去。"
         },
         {
-          "en": "Yet read as a **concession**, it was not. He handed back the labels and kept the **quantities**. A toise had **spanned** 1.949 metres; under the edict it was **precisely** two. The **pied** and the pouce ran about two and a half per cent **larger** than the Parisian ones they **replaced**, and every **gauging** made in the old **vocabulary** now came out in **decimals**.",
-          "zh": "可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五——而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)的。"
+          "en": "Yet read as a **concession**, it was not. He handed back the labels and kept the **quantities**. A toise had **spanned** 1.949 metres; under the edict it was **precisely** two. The **pied** and the pouce ran about two and a half per cent **larger** than the Parisian ones they **replaced**. Every **gauging** made in the old **vocabulary** now came out in **decimals**.",
+          "zh": "可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五。而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)的。"
         },
         {
           "en": "The old **scaffold** **persisted** untouched: six pieds to a toise, twelve pouces to a pied, twelve lignes to a pouce. Only its top **grade** was **pinned**. And the edict **governed** small **retail** alone. Every government office, every court, every **wholesale** **bargain** and every classroom stayed metric throughout, and the **patterns** in Paris never **stirred**.",
@@ -42,9 +42,9 @@
         "**本篇的机制边界**：1812 年常被读作拿破仑向民众让步、米制推行的一次挫败。**本文不这样读**——**因为让步的是名头，不是分量**：旧名之下装的已是公制的量，而公制在政府、法庭、批发与课堂里一天也没有退出。\n**但也不能把它写成一场彻底的胜利**：Wikimonde 载「此种用法虽一度由官方规定，却未被民众接受」，**且 1837 年仍须专门立法废止，说明旧名确有其生命力**；**本文因此把判词落在「换算已无必要」这一件可查的事实上，而不落在「谁赢了」。**"
       ],
       "metrics": {
-        "words": 269,
+        "words": 268,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.7
       },
       "glossary": [
         {

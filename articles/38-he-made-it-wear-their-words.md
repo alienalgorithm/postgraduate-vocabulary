@@ -2,7 +2,7 @@
 
 > 题材：法国米制推行中的1812年敕令：还名不还量
 > 状态：**第三十八篇定稿**（2026-08-20）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 1812年拿破仑把旧单位的名字还了回去，人人读作让步。托瓦兹这个词确实留了下来——只是它从此正好等于两米。二十八年后名字被收回时，没有什么需要换算：量早就换过了。
 
 ---
@@ -13,7 +13,7 @@ Before the Revolution France **maintained** perhaps a quarter of a million **dis
 
 It did not **thrive**. Trade **proceeded** in the old units, and the market **stalls** **defied** the law for seventeen years. Napoleon, in power that same year, called the **overhaul** **tormenting** the people with **trivia**, and in February 1812 he **proclaimed** an **edict** handing the old **titles** back.
 
-Yet read as a **concession**, it was not. He handed back the labels and kept the **quantities**. A toise had **spanned** 1.949 metres; under the edict it was **precisely** two. The **pied** and the pouce ran about two and a half per cent **larger** than the Parisian ones they **replaced**, and every **gauging** made in the old **vocabulary** now came out in **decimals**.
+Yet read as a **concession**, it was not. He handed back the labels and kept the **quantities**. A toise had **spanned** 1.949 metres; under the edict it was **precisely** two. The **pied** and the pouce ran about two and a half per cent **larger** than the Parisian ones they **replaced**. Every **gauging** made in the old **vocabulary** now came out in **decimals**.
 
 The old **scaffold** **persisted** untouched: six pieds to a toise, twelve pouces to a pied, twelve lignes to a pouce. Only its top **grade** was **pinned**. And the edict **governed** small **retail** alone. Every government office, every court, every **wholesale** **bargain** and every classroom stayed metric throughout, and the **patterns** in Paris never **stirred**.
 
@@ -30,7 +30,7 @@ The law of 4 July 1837 **withdrew** the names, **effective** 1840. Nothing had t
 
 没能**立住**(thrive)。买卖**照行**(proceeded)于老单位，市集**摊子**(stalls)**抗**(defied)了这法令十七年。同年掌权的拿破仑，把这场**改制**(overhaul)称作拿**琐碎**(trivia)**折腾**(tormenting)百姓；1812年2月，他**颁**(proclaimed)下一道**敕令**(edict)，把老**名头**(titles)还了回去。
 
-可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五——而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)的。
+可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五。而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)的。
 
 那副老**架子**(scaffold)**原样存留**(persisted)、未曾触动：一托瓦兹六巴黎尺，一巴黎尺十二普斯，一普斯十二里涅。只有它最上面那一**格**(grade)被**钉**(pinned)住了。而这道敕令**管**(governed)的只有小**零售**(retail)。政府衙门、法庭、每一笔**批发**(wholesale)**交易**(bargain)、每一间教室，自始至终都用公制；巴黎的那些**基准器**(patterns)也从未**动**(stirred)过。
 
