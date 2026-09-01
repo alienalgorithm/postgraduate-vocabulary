@@ -259,6 +259,56 @@ def review(arts, path, exclude=None):
                             f"（检察官 BAL-01 判为硬伤）。"
                             f"从 §{worst_hi} 移出 {(max(pkn)-min(pkn))//2} 个到 §{worst_lo}，"
                             f"目标 10·10·10·10·10。")
+    # ★★ 补齐纯英文侧的六条硬伤（2026-09-01 第51篇之后立）
+    # **病根**：检察官有 29 条硬伤，而 review 的阻塞项原先只覆盖 9 条形状。
+    # 其中大半（MET-07/08/09、GLO-01/02、MET-06）**是中英对应与速查表，
+    #   写英文稿时中文还不存在，review 查不了也不该查**。
+    # **但另外六条是纯英文侧的，review 本可以查而没查**——
+    #   于是本会话每一篇都在入库后返工同样几条：
+    #   **第45篇 VAL-09 bascule + VAL-14 sold/stood；第46篇 VAL-14 stood/ran + VAL-12 starts；
+    #   第48篇 VAL-14 worn/sworn；第49篇 VAL-02h beat + VAL-14 ran/fought；第51篇 VAL-11 专名。**
+    # **每一次都是「英文定稿→入库→检察官报硬伤→回头改英文→中文跟着改」，
+    #   而这几条在写英文时就能查出来。**
+    _basic = set()
+    _bp = os.path.join(ROOT, "data/reference/basic-wordlist.txt")
+    if os.path.exists(_bp):
+        for _ln in open(_bp, encoding="utf-8"):
+            if _ln.strip() and not _ln.startswith("#"):
+                _basic.update(_ln.split())
+    _PART = {"a", "an", "the", "of", "to", "in", "on", "at", "by", "for", "with",
+             "and", "or", "but", "as", "if", "so", "up", "out", "off", "over",
+             "apart", "away", "back", "down", "into", "than", "then", "that"}
+    _v09, _v10, _v12, _v14, _v15 = [], [], [], [], []
+    for _w in [x for _g in pk for x in _g]:
+        _wl = _w.lower()
+        _z = zipf_frequency(_wl, "en")
+        if 0 < _z <= 2.2:
+            _v09.append(f"{_w}({_z:.1f})")
+        if _wl in _PART:
+            _v10.append(_w)
+        if _wl in _basic or _wl.rstrip("s") in _basic:
+            _v12.append(_w)
+        _g14 = _IRR_GRP.get(_wl, ())
+        _b14 = _g14[0] if _g14 and _g14[0] != _wl else None
+        if _b14 and (zipf_frequency(_b14, "en") >= 5.0 or _b14 in _basic):
+            _v14.append(f"{_w}（原形 {_b14}）")
+        for _f in _IRR_GRP.get(_wl, ()):
+            if _f != _wl and _f in {x.lower() for _g in pk for x in _g}:
+                _v15.append(f"{_w} ←→ {_f}")
+                break
+    for _lbl, _lst in (("VAL-09 过于生僻（≤2.2）", _v09),
+                       ("VAL-10 小品词单独占名额", _v10),
+                       ("VAL-12 初中词表内", _v12),
+                       ("VAL-14 屈折形绕过白送词/初中词检查", _v14),
+                       ("VAL-15 篇内同一动词的两个形", _v15)):
+        if _lst:
+            blocking.append(f"{_lbl}：{'、'.join(dict.fromkeys(_lst))}"
+                            f"（检察官判为硬伤）")
+    _m05 = [f"§{i}({w}词)" for i, w in enumerate(pw, 1) if not 45 <= w <= 75]
+    if _m05:
+        blocking.append(f"MET-05 段落词数越界（须 45—75）：{'、'.join(_m05)}"
+                        f"（检察官判为硬伤）")
+
     for i, (w, k) in enumerate(zip(pw, pkn), 1):
         if w < 40:
             structural.append(f"§{i} 只有 {w} 词，是残段。它承担的论证不足以配得上一段——"

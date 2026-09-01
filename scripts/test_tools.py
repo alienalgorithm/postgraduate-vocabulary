@@ -1294,6 +1294,36 @@ check("写明这是自造的不一致", "而这次是上一轮我自己造的" i
 check("检察官 BAL-01 确为硬伤级",
       'Finding("BAL-01", "均衡", "hard"' in _ins)
 
+
+# ── review 补齐纯英文侧的六条硬伤（2026-09-01）─────────────────
+# **病根**：检察官有 29 条硬伤，而 review 的阻塞项原先只覆盖 9 条形状。
+# 其中大半（MET-07/08/09、GLO-01/02、MET-06）**是中英对应与速查表，
+#   写英文稿时中文还不存在，review 查不了也不该查**。
+# **但另外六条是纯英文侧的，review 本可以查而没查**——
+#   于是本会话每一篇都在入库后返工同样几条：
+#   **第45篇 VAL-09 bascule + VAL-14 sold/stood；第46篇 VAL-10 apart + VAL-12 starts
+#     + VAL-14 stood/ran；第48篇 VAL-14 worn/sworn；第49篇 VAL-02h beat + VAL-14 ran/fought；
+#     第51篇 VAL-11 专名 Fougère。**
+#   **每一次都是「英文定稿→入库→检察官报硬伤→回头改英文→中文跟着改」，
+#     而这几条在写英文时就能查出来。**
+# **实测回验**：拿第46、49、51 篇入库前那一版跑，
+#   当时栽过的那几个词全部当场报出。
+print("\n[review] 补齐纯英文侧硬伤")
+_ag7 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+for _rid in ("VAL-09", "VAL-10", "VAL-12", "VAL-14", "VAL-15", "MET-05"):
+    check("review 阻塞项含 %s" % _rid, _rid in _ag7)
+check("每条都点名「检察官判为硬伤」", _ag7.count("（检察官判为硬伤）") >= 2,
+      "★ 让人一眼看出这是硬伤而非建议")
+check("写明为什么不查中英对应那几条",
+      "写英文稿时中文还不存在" in _ag7,
+      "★ MET-07/08/09、GLO-01/02 此时查不了也不该查")
+_r7 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
+                      "review", os.path.join(ROOT, "notes/第51篇-英文草稿-让分制.md")],
+                     capture_output=True, text=True, timeout=300).stdout \
+      if os.path.exists(os.path.join(ROOT, "notes/第51篇-英文草稿-让分制.md")) else ""
+check("六条俱全（形状检查）",
+      all(k in _ag7 for k in ("_v09", "_v10", "_v12", "_v14", "_v15", "_m05")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
