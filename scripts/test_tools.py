@@ -984,6 +984,27 @@ check("落盘后自动跑检察官复查", "inspector.py" in _sw)
 check("明写后续仍须跑什么", "build_markdown → rescan → regress accept" in _sw,
       "★ 工具须说清自己的边界，否则人会以为跑过就万事大吉")
 
+
+# ── check.py 改后复查三合一（2026-08-20 立）───────────────────
+# **立此工具之由（先把事实说准）**：
+#   本会话 25 次自伤**全部被 preflight 拦下、无一上到 GitHub**
+#   （preflight 卡「硬伤合计 0 条」）——**所以代价从来不是仓库坏掉，
+#   而是「我多花一轮」。**
+# **而多花那一轮的原因是发现得太晚**：改完要跑
+#   build_markdown → inspector → rescan 三样，我常常只跑第二样。
+# **swap.py 管「改的时候别漏」，check.py 管「改完立刻知道」——两头都要有。**
+print("\n[check] 改后复查三合一")
+_ck = open(os.path.join(ROOT, "scripts/check.py"), encoding="utf-8").read()
+check("三样都跑", all(k in _ck for k in
+      ("build_markdown", "inspector.py", "rescan.py")))
+check("默认查全库不只查一篇", 'python3 scripts/inspector.py"' in _ck,
+      "★ 改一篇常会碰坏另一篇 —— severed 撞第20篇就是改第09篇时撞出来的")
+check("不通过则退出码非零", "sys.exit(1)" in _ck,
+      "否则我会以为跑过就没事")
+check("明写回扫仍须人判", "机器不替人下结论" in _ck)
+check("说清「不把问题拖到 preflight 那一刻」",
+      "不把问题拖到 preflight" in _ck)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
