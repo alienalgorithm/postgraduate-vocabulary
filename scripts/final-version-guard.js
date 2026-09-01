@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '43': { source: '2026-08-27按《总令》全流程新写：动笔前逐条上网核六项；全程用新装的 agent vet 核验候选词（六批七十余词，一次撞车都没有）；唯一一次自伤 built 恰是没跑 vet 直接填的；NUM-01/NUM-02/VAL-13/MET-09 四层零报出', verification: 'conversation-latest-final' },
   '42': { source: '2026-08-27按《总令》全流程新写：动笔前逐条上网核五项；VAL-13/MET-09 双双零报出；检察官报「中段无转折词」当场补上转轴处的 Yet；补名额时 word 是白送词被 VAL-02h 逮出，改动自伤第19次', verification: 'conversation-latest-final' },
   '41': { source: '2026-08-27按《总令》全流程新写：动笔前否掉一个选题（瓦维洛夫种子库，核心数字有三说）再定题；逐条上网核五项；VAL-13 在入库前拦下 flip/flipped 同词元；新功率计拒收两轮，补足否决项后升至满功率；STR-01「全篇无人名」判为可接受并写明理由，改由文号 SM/87/13 承担具体性', verification: 'conversation-latest-final' },
   '40': { source: '2026-08-27按《总令》全流程新写：动笔前逐条上网核七项；MET-09 与 VAL-13 双双零报出，是这两层立起来后第一篇一次过的；补名额时 rode 撞第32篇，改动自伤第17次', verification: 'conversation-latest-final' },

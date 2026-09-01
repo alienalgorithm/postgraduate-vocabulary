@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 42,
-  "keyword_count": 2100,
+  "article_count": 43,
+  "keyword_count": 2150,
   "articles": [
     {
       "id": "01",
@@ -980,6 +980,25 @@
       "canonical_fingerprint_sha256": "a86a42d6d7d8309f1623085431aad469707fd63134a9266209b39026a23007f6",
       "markdown_sha256": "7e8aa1d1c01ca6fb9829e670d711762597078179e3d7e30778309c8878c14a67",
       "markdown_git_blob_sha": "cd72d13a063230977653b017046f4a7e1feccd35",
+      "superseded_signatures": []
+    },
+    {
+      "id": "43",
+      "slug": "the-obstacle-was-what-went-in",
+      "title": "The Obstacle Was What Went In",
+      "title_zh": "卡住的是种下去的那一头",
+      "version_id": "43-final",
+      "status": "第四十三篇定稿",
+      "date": "2026-08-27",
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-08-27按《总令》全流程新写：动笔前逐条上网核六项；全程用新装的 agent vet 核验候选词（六批七十余词，一次撞车都没有）；唯一一次自伤 built 恰是没跑 vet 直接填的；NUM-01/NUM-02/VAL-13/MET-09 四层零报出",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "21acdb3253645874122895ea39f88cd0b333bdc57bf0be540c3dca438080c515",
+      "markdown_sha256": "672b7d09ddf0e2d249c0d341c195279a0cbbe741bf5d090e099efa9e92dd516e",
+      "markdown_git_blob_sha": "1829982ca78ae130da0db02a9a68317ff29dd455",
       "superseded_signatures": []
     }
   ]
