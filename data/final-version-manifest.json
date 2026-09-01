@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 49,
-  "keyword_count": 2450,
+  "article_count": 50,
+  "keyword_count": 2500,
   "articles": [
     {
       "id": "01",
@@ -1113,6 +1113,25 @@
       "canonical_fingerprint_sha256": "22cfbf4b8b9970cad064729d83abf53cb98e54e9cca7749cea747a887a62c64a",
       "markdown_sha256": "0c15beab0629fa559b7705d83cd5dd5fc3c1bc6db806f7b8e3a09efbe6863768",
       "markdown_git_blob_sha": "3f78d94fd6a525ca0ff78fb5f103a28e0c1881cf",
+      "superseded_signatures": []
+    },
+    {
+      "id": "50",
+      "slug": "the-unattainable-ideal",
+      "title": "The Unattainable Ideal",
+      "title_zh": "那个够不着的理想",
+      "version_id": "50-final",
+      "status": "第五十篇定稿",
+      "date": "2026-09-01",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-01按《总令》全流程新写，写了三次：第一稿（肉豆蔻垄断）因论点线用词被49篇占光而弃；第二稿（赛马让分制）第11轮即已达标270词/50名额，我却为消一条结构提示继续改、六轮回不到达标；最终取回第11轮那一版。动笔前逐条上网核四项",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "aae7206cd2d5eb6b70a5224f895683415a2b5b42da04c3d9e842e6c4b2d2532a",
+      "markdown_sha256": "dc07b615f3dc6d3a8772ca750c55ccf26e3150ef7bab505936c2fc70aba05082",
+      "markdown_git_blob_sha": "abcc7cc30b6d370104c7ccbd5dd092074e2d52f9",
       "superseded_signatures": []
     }
   ]
