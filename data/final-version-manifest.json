@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 48,
-  "keyword_count": 2400,
+  "article_count": 49,
+  "keyword_count": 2450,
   "articles": [
     {
       "id": "01",
@@ -1094,6 +1094,25 @@
       "canonical_fingerprint_sha256": "8d4bc23d02af7b8bd5e2b7e4de5dcf24f242588e09c0640712db06dd1a305e59",
       "markdown_sha256": "6d50fdb0da6496c230882fd12f6d90730f015ccbf1ea3e84cd5d701decea63b8",
       "markdown_git_blob_sha": "67082b75927ff5b842b932b8dd7afcd706df56df",
+      "superseded_signatures": []
+    },
+    {
+      "id": "49",
+      "slug": "two-percentages-side-by-side",
+      "title": "Two Percentages Side by Side",
+      "title_zh": "并排的两个百分数",
+      "version_id": "49-final",
+      "status": "第四十九篇定稿",
+      "date": "2026-09-01",
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-09-01按《总令》全流程新写：疫苗与免疫域；brief 首判「可用词13个太少」，换角度重写材料后升至22；动笔前逐条上网核六项；三处换词全走 swap.py；VAL-14 第四次逮到 ran/fought；swap 之后自己对读逮出中文不通顺一处",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "22cfbf4b8b9970cad064729d83abf53cb98e54e9cca7749cea747a887a62c64a",
+      "markdown_sha256": "0c15beab0629fa559b7705d83cd5dd5fc3c1bc6db806f7b8e3a09efbe6863768",
+      "markdown_git_blob_sha": "3f78d94fd6a525ca0ff78fb5f103a28e0c1881cf",
       "superseded_signatures": []
     }
   ]

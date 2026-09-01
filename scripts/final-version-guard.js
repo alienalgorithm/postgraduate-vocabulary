@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '49': { source: '2026-09-01按《总令》全流程新写：疫苗与免疫域；brief 首判「可用词13个太少」，换角度重写材料后升至22；动笔前逐条上网核六项；三处换词全走 swap.py；VAL-14 第四次逮到 ran/fought；swap 之后自己对读逮出中文不通顺一处', verification: 'conversation-latest-final' },
   '48': { source: '2026-09-01按《总令》全流程新写：警务与消防域，核心词批 vet 通过率77%为全会话最高；动笔前逐条上网核六项；新装的不规则变化检查拦下 worn(撞38篇wear)与 hidden(撞14篇hide)；检察官报§2一段做两件事，拆段前先跑 movecheck 确认拆与挪之别', verification: 'conversation-latest-final' },
   '47': { source: '2026-09-01按《总令》全流程新写：教育与考试域（vet通过率60%）；动笔前逐条上网核五项；初稿285词仅32名额、密度11.2%，诊断为句子太长太散，整篇改用短句密排后270词/50名额/18.5%；每个词都先跑 agent vet，入库即零硬伤', verification: 'conversation-latest-final' },
   '46': { source: '2026-09-01按《总令》全流程新写：先问工具「哪些语义域还有词」再据此选题材（教育/体育域仍余五成，常写域已被吃掉七成）；VAL-14 第二次逮到 stood/ran；MET-09 逮到表内释义错位；三处换词全走 swap.py；段落调整一次失手已撤回', verification: 'conversation-latest-final' },
