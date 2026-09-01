@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 47,
-  "keyword_count": 2350,
+  "article_count": 48,
+  "keyword_count": 2400,
   "articles": [
     {
       "id": "01",
@@ -1075,6 +1075,25 @@
       "canonical_fingerprint_sha256": "47996a08da33a29dbc797cec7edab029ebbc4dcfcd7943dfa9947a8b8275cfe8",
       "markdown_sha256": "c35d843beae17ce3785ef770c59bb6d26211b07b18f726cf8c95f483b9e7773e",
       "markdown_git_blob_sha": "1f5cad51adcb29075776b83a4433efa516bf8c24",
+      "superseded_signatures": []
+    },
+    {
+      "id": "48",
+      "slug": "the-maxim-made-visible",
+      "title": "The Maxim Made Visible",
+      "title_zh": "被做成看得见的那条准则",
+      "version_id": "48-final",
+      "status": "第四十八篇定稿",
+      "date": "2026-09-01",
+      "words": 265,
+      "keywords": 50,
+      "density": 18.9,
+      "source": "2026-09-01按《总令》全流程新写：警务与消防域，核心词批 vet 通过率77%为全会话最高；动笔前逐条上网核六项；新装的不规则变化检查拦下 worn(撞38篇wear)与 hidden(撞14篇hide)；检察官报§2一段做两件事，拆段前先跑 movecheck 确认拆与挪之别",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "8d4bc23d02af7b8bd5e2b7e4de5dcf24f242588e09c0640712db06dd1a305e59",
+      "markdown_sha256": "6d50fdb0da6496c230882fd12f6d90730f015ccbf1ea3e84cd5d701decea63b8",
+      "markdown_git_blob_sha": "67082b75927ff5b842b932b8dd7afcd706df56df",
       "superseded_signatures": []
     }
   ]
