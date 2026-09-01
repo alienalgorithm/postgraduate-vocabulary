@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 46,
-  "keyword_count": 2300,
+  "article_count": 47,
+  "keyword_count": 2350,
   "articles": [
     {
       "id": "01",
@@ -1056,6 +1056,25 @@
       "canonical_fingerprint_sha256": "f4cfc5dac1680def22ad1ec00403be2eeb991304faec86eed6e01e243020a1e0",
       "markdown_sha256": "0e7b6f01fdbba637a98e509e29842cd4a819856e8a338abb71eaad8c3eca8545",
       "markdown_git_blob_sha": "2c4730e8f5e900fce6a40d91025a0a03616d4a46",
+      "superseded_signatures": []
+    },
+    {
+      "id": "47",
+      "slug": "it-becomes-the-subject",
+      "title": "It Becomes the Subject",
+      "title_zh": "它变成了那门学科",
+      "version_id": "47-final",
+      "status": "第四十七篇定稿",
+      "date": "2026-09-01",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-01按《总令》全流程新写：教育与考试域（vet通过率60%）；动笔前逐条上网核五项；初稿285词仅32名额、密度11.2%，诊断为句子太长太散，整篇改用短句密排后270词/50名额/18.5%；每个词都先跑 agent vet，入库即零硬伤",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "2bf32309e0be2acc3d616f7a626e39784d72f493c921ea997c3fa234d5ee17d1",
+      "markdown_sha256": "e319987761e7c487affafa0b26720acf534751e619f32f8f6189080bf5f3ffed",
+      "markdown_git_blob_sha": "e9c7c690543351cd7fb47544b6201a37d4b2a3b4",
       "superseded_signatures": []
     }
   ]
