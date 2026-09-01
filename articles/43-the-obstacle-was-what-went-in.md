@@ -13,7 +13,7 @@ At Cold Spring Harbor in 1908 George Shull crossed two **inbred** **lines** of *
 
 Twenty-five years later the seed was still **overlooked**. In 1933 hybrids took 0.7 percent of Iowa's corn ground — 7 acres in every thousand, in the **foremost** corn-**growing** state on the **globe**. The science was **acknowledged**, the **fields** unchanged, the seed **spurned**. A **twofold** gain lay **idle**, **squandered** season upon season since 1908.
 
-Yet the **obstacle** was never what came out. It was what went into it. A single-cross hybrid **grew** on an inbred parent, and inbred plants are **feeble** — **thin** **tassel**, little **pollen**, few grains. The **sack** cost more than any **grower** would pay. Donald Jones **tabled** the double cross in 1918: sire the seed itself on a hybrid plant, and the **bulk** climbs with it.
+Yet the **obstacle** was never what came out. It was what went into it. A single-cross hybrid **matured** on an inbred parent, and inbred plants are **feeble** — **thin** **tassel**, little **pollen**, few grains. The **sack** cost more than any **grower** would pay. Donald Jones **tabled** the double cross in 1918: sire the seed itself on a hybrid plant, and the **bulk** climbs with it.
 
 Cheap seed still had to reach the **farm**, and no **pamphlet** would carry it. The Hi-Bred company **enlisted** **respected** farmers as **salesmen**, peddled free 8-pound bags, and **pitched** a **wager**. **Sow** half the **plot** with the hybrid, half with your own seed. Pay only if ours **wins**.
 
@@ -30,7 +30,7 @@ By 1943 the Iowa figure was 99.5 percent. What carried it was not the **vigour**
 
 二十五年过去，这种子仍被**忽略**(overlooked)。1933年，杂交种只占爱荷华玉米地的0.7%——一千英亩里7英亩，而这是全球玉米**头一**(foremost)大州、**产**(growing)得最多的那片**土地**(globe)。科学是**公认**(acknowledged)的，**田**(fields)没有变，种子被**弃**(spurned)。翻**一倍**(twofold)的收成就摆在那里**闲**(idle)着，1908年以来年复一年地**白扔**(squandered)。
 
-可**卡**(obstacle)住的从来不是收上来的，是种下去的那一头。单交种得**长**(grew)在自交系母本上，而自交系植株**孱弱**(feeble)——**细**(thin)**穗**(tassel)、**花粉**(pollen)少、结的粒也少。一**袋**(sack)种子的价钱超过任何**种植者**(grower)肯出的数。1918年唐纳德·琼斯**提出**(tabled)双交：让种子本身长在杂交植株上，**量**(bulk)也就跟着上去了。
+可**卡**(obstacle)住的从来不是收上来的，是种下去的那一头。单交种得**长成**(matured)在自交系母本上，而自交系植株**孱弱**(feeble)——**细**(thin)**穗**(tassel)、**花粉**(pollen)少、结的粒也少。一**袋**(sack)种子的价钱超过任何**种植者**(grower)肯出的数。1918年唐纳德·琼斯**提出**(tabled)双交：让种子本身长在杂交植株上，**量**(bulk)也就跟着上去了。
 
 便宜的种子还得送到**农场**(farm)去，而**小册子**(pamphlet)送不动它。海布雷德公司**招**(enlisted)当地**有威望的**(respected)农户当**推销员**(salesmen)，派送8磅重的免费袋装，再**抛**(pitched)出一个**赌**(wager)：**播**(Sow)半块**地**(plot)用杂交种，半块用你自家的种。我们的**赢**(wins)了，你才付钱。
 
@@ -44,7 +44,7 @@ By 1943 the Iowa figure was 99.5 percent. What carried it was not the **vigour**
 
 **§2**（10词）overlooked 被忽略｜foremost 首要的｜growing 种植的｜globe 地球｜acknowledged 公认的｜fields 田地（复）｜spurned 弃绝｜twofold 两倍的｜idle 闲置的｜squandered 白白浪费
 
-**§3**（10词）obstacle 障碍｜grew 生长｜feeble 孱弱的｜thin 细的｜tassel （玉米）雄穗｜pollen 花粉｜sack 袋｜grower 种植者｜tabled 提出；提交｜bulk 量；大批
+**§3**（10词）obstacle 障碍｜matured 成熟；长成｜feeble 孱弱的｜thin 细的｜tassel （玉米）雄穗｜pollen 花粉｜sack 袋｜grower 种植者｜tabled 提出；提交｜bulk 量；大批
 
 **§4**（10词）farm 农场｜pamphlet 小册子｜enlisted 招募｜respected 受敬重的｜salesmen 推销员（复）｜pitched 抛出；推销｜wager 打赌｜sow 播种｜plot 一块地｜wins 胜出
 

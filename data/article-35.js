@@ -17,8 +17,8 @@
           "zh": "1859年10月25日夜里，一场移动缓慢的**大风**(gale)扫过爱尔兰海。它夺去800条人命，**毁**(destroyed)掉133艘船，另有90艘**受损**(damaged)。在安格尔西外海，载着**移民**(emigrant)的那艘**快帆船**(clipper)「皇家宪章」号**撞**(rammed)上了**礁**(reef)石、当即解体；约450人溺亡，40人活着**冲**(beached)上岸——这是那一带海岸历来**最重**(heaviest)的**伤亡**(toll)。"
         },
         {
-          "en": "Robert FitzRoy had gathered **coastal** readings by **telegraph** since 1854. He **showed** that this storm could have been seen coming. Warnings began in February 1861: a wire to the **dockside**, then **cones** and **drums** **hoisted** on a **jetty** mast. On the Tyne the first was **disregarded** and men drowned. Those after it were **heeded**.",
-          "zh": "自1854年起，罗伯特·菲茨罗伊就用**电报**(telegraph)收集**沿海**(coastal)读数。他**指出**(showed)这一场风暴本来是看得出来的。预警从1861年2月开始：先一封电报打到**码头**(dockside)，再把**锥**(cones)与**鼓**(drums)一并**升**(hoisted)上**栈桥**(jetty)桅杆。在泰恩河口，头一次预警被**置之不理**(disregarded)，人淹死了。其后的每一次都有人**听**(heeded)。"
+          "en": "Robert FitzRoy had gathered **coastal** readings by **telegraph** since 1854. He **demonstrated** that this storm could have been seen coming. Warnings began in February 1861: a wire to the **dockside**, then **cones** and **drums** **hoisted** on a **jetty** mast. On the Tyne the first was **disregarded** and men drowned. Those after it were **heeded**.",
+          "zh": "自1854年起，罗伯特·菲茨罗伊就用**电报**(telegraph)收集**沿海**(coastal)读数。他**证明**(demonstrated)这一场风暴本来是看得出来的。预警从1861年2月开始：先一封电报打到**码头**(dockside)，再把**锥**(cones)与**鼓**(drums)一并**升**(hoisted)上**栈桥**(jetty)桅杆。在泰恩河口，头一次预警被**置之不理**(disregarded)，人淹死了。其后的每一次都有人**听**(heeded)。"
         },
         {
           "en": "The Royal Society **distrusted** any claim that weather could be **foretold**. FitzRoy held **sanction** for storm warnings and none for anything **inland**, yet on 1 August 1861 he **issued** an **outlook** in The Times, and **coined** the word forecast for it. Francis Galton **contended** that FitzRoy claimed more than those **totals** could **warrant**.",
@@ -109,8 +109,8 @@
           "p": 2
         },
         {
-          "w": "showed",
-          "zh": "指出；表明",
+          "w": "demonstrated",
+          "zh": "证明；演示",
           "p": 2
         },
         {

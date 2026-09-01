@@ -21,8 +21,8 @@
           "zh": "二十五年过去，这种子仍被**忽略**(overlooked)。1933年，杂交种只占爱荷华玉米地的0.7%——一千英亩里7英亩，而这是全球玉米**头一**(foremost)大州、**产**(growing)得最多的那片**土地**(globe)。科学是**公认**(acknowledged)的，**田**(fields)没有变，种子被**弃**(spurned)。翻**一倍**(twofold)的收成就摆在那里**闲**(idle)着，1908年以来年复一年地**白扔**(squandered)。"
         },
         {
-          "en": "Yet the **obstacle** was never what came out. It was what went into it. A single-cross hybrid **grew** on an inbred parent, and inbred plants are **feeble** — **thin** **tassel**, little **pollen**, few grains. The **sack** cost more than any **grower** would pay. Donald Jones **tabled** the double cross in 1918: sire the seed itself on a hybrid plant, and the **bulk** climbs with it.",
-          "zh": "可**卡**(obstacle)住的从来不是收上来的，是种下去的那一头。单交种得**长**(grew)在自交系母本上，而自交系植株**孱弱**(feeble)——**细**(thin)**穗**(tassel)、**花粉**(pollen)少、结的粒也少。一**袋**(sack)种子的价钱超过任何**种植者**(grower)肯出的数。1918年唐纳德·琼斯**提出**(tabled)双交：让种子本身长在杂交植株上，**量**(bulk)也就跟着上去了。"
+          "en": "Yet the **obstacle** was never what came out. It was what went into it. A single-cross hybrid **matured** on an inbred parent, and inbred plants are **feeble** — **thin** **tassel**, little **pollen**, few grains. The **sack** cost more than any **grower** would pay. Donald Jones **tabled** the double cross in 1918: sire the seed itself on a hybrid plant, and the **bulk** climbs with it.",
+          "zh": "可**卡**(obstacle)住的从来不是收上来的，是种下去的那一头。单交种得**长成**(matured)在自交系母本上，而自交系植株**孱弱**(feeble)——**细**(thin)**穗**(tassel)、**花粉**(pollen)少、结的粒也少。一**袋**(sack)种子的价钱超过任何**种植者**(grower)肯出的数。1918年唐纳德·琼斯**提出**(tabled)双交：让种子本身长在杂交植株上，**量**(bulk)也就跟着上去了。"
         },
         {
           "en": "Cheap seed still had to reach the **farm**, and no **pamphlet** would carry it. The Hi-Bred company **enlisted** **respected** farmers as **salesmen**, peddled free 8-pound bags, and **pitched** a **wager**. **Sow** half the **plot** with the hybrid, half with your own seed. Pay only if ours **wins**.",
@@ -154,8 +154,8 @@
           "p": 3
         },
         {
-          "w": "grew",
-          "zh": "生长",
+          "w": "matured",
+          "zh": "成熟；长成",
           "p": 3
         },
         {

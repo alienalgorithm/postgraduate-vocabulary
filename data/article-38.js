@@ -29,8 +29,8 @@
           "zh": "那副老**架子**(scaffold)**原样存留**(persisted)、未曾触动：一托瓦兹六巴黎尺，一巴黎尺十二普斯，一普斯十二里涅。只有它最上面那一**格**(grade)被**钉**(pinned)住了。而这道敕令**管**(governed)的只有小**零售**(retail)。政府衙门、法庭、每一笔**批发**(wholesale)**交易**(bargain)、每一间教室，自始至终都用公制；巴黎的那些**基准器**(patterns)也从未**动**(stirred)过。"
         },
         {
-          "en": "The law of 4 July 1837 **withdrew** the names, **effective** 1840. Nothing had to be **translated**. The **amounts** had been metric for twenty-eight years, and nobody in the market had **remarked** the **swap**. He had not made anyone **grasp** the new **ratios**. He had made it **wear** their words **thereby**.",
-          "zh": "1837年7月4日的法律**收回**(withdrew)了那些名字，1840年**生效**(effective)。没有什么需要**换算**(translated)。那些**数量**(amounts)已经当了二十八年的公制，而市集上没有一个人**说起**(remarked)过这次**掉包**(swap)。他没有让任何人去**弄懂**(grasp)那套新**比率**(ratios)。他让它**穿**(wear)上了他们的词，**由此**(thereby)成事。"
+          "en": "The law of 4 July 1837 **revoked** the names, **effective** 1840. Nothing had to be **translated**. The **amounts** had been metric for twenty-eight years, and nobody in the market had **remarked** the **swap**. He had not made anyone **grasp** the new **ratios**. He had made it **wear** their words **thereby**.",
+          "zh": "1837年7月4日的法律**撤销**(revoked)了那些名字，1840年**生效**(effective)。没有什么需要**换算**(translated)。那些**数量**(amounts)已经当了二十八年的公制，而市集上没有一个人**说起**(remarked)过这次**掉包**(swap)。他没有让任何人去**弄懂**(grasp)那套新**比率**(ratios)。他让它**穿**(wear)上了他们的词，**由此**(thereby)成事。"
         }
       ],
       "facts": [
@@ -248,8 +248,8 @@
           "p": 4
         },
         {
-          "w": "withdrew",
-          "zh": "收回",
+          "w": "revoked",
+          "zh": "撤销；收回",
           "p": 5
         },
         {

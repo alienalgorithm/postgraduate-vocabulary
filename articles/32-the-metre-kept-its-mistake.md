@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-Before 1790 every French **hamlet** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **sought** a **unit** taken from **nature** instead: one ten-millionth of the **stretch** from pole to equator.
+Before 1790 every French **hamlet** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **craved** a **unit** taken from **nature** instead: one ten-millionth of the **stretch** from pole to equator.
 
 In June 1792 Jean-Baptiste Delambre **rode** north to **survey** the meridian to Dunkirk. Pierre Méchain went south over **uncharted** **mountains** to Barcelona. Seven years of **triangles** followed, through a **revolution** that guillotined Lavoisier in 1794. The **republic** could not wait: a provisional metre was **legislated** in 1795, before the **measurement** **closed**.
 
@@ -26,7 +26,7 @@ Delambre **obtained** the **notebooks**, **scribbled** in the margin that he wou
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1790年以前，法国每个**村落**(hamlet)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**寻求**(sought)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那**一段**(stretch)距离的一千万分之一。
+1790年以前，法国每个**村落**(hamlet)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**渴求**(craved)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那**一段**(stretch)距离的一千万分之一。
 
 1792年6月，让-巴蒂斯特·德朗布尔**骑马**(rode)北上，去**测绘**(survey)通往敦刻尔克的子午线。皮埃尔·梅尚南下，翻过**未经勘测的**(uncharted)**山地**(mountains)去巴塞罗那。此后是七年的**三角测量**(triangles)，其间那场**革命**(revolution)在1794年把拉瓦锡送上了断头台。**共和国**(republic)等不及：1795年就**立法**(legislated)定下了临时米，而**测算**(measurement)尚未**结束**(closed)。
 
@@ -40,7 +40,7 @@ Delambre **obtained** the **notebooks**, **scribbled** in the margin that he wou
 
 ## 50 词速查表
 
-**§1**（10词）hamlet 村落｜pound 磅｜cloth 布｜customary 习惯的；沿袭的｜descended 传承下来｜forearm 前臂｜sought 寻求｜unit 单位｜nature 自然｜stretch 一段
+**§1**（10词）hamlet 村落｜pound 磅｜cloth 布｜customary 习惯的；沿袭的｜descended 传承下来｜forearm 前臂｜craved 渴求｜unit 单位｜nature 自然｜stretch 一段
 
 **§2**（10词）rode 骑行（过去式）｜survey 测绘；勘测｜uncharted 未经勘测的｜mountains 山地（复）｜triangles 三角形（复）｜revolution 革命｜republic 共和国｜legislated 立法确立｜measurement 测算｜closed 结束
 

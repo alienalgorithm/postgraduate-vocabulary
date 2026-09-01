@@ -13,8 +13,8 @@
       "status": "第三十二篇定稿",
       "paras": [
         {
-          "en": "Before 1790 every French **hamlet** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **sought** a **unit** taken from **nature** instead: one ten-millionth of the **stretch** from pole to equator.",
-          "zh": "1790年以前，法国每个**村落**(hamlet)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**寻求**(sought)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那**一段**(stretch)距离的一千万分之一。"
+          "en": "Before 1790 every French **hamlet** kept its own measures. A **pound** of **cloth** need not weigh a pound of iron, and **customary** length **descended** from a king's **forearm**. The Academy **craved** a **unit** taken from **nature** instead: one ten-millionth of the **stretch** from pole to equator.",
+          "zh": "1790年以前，法国每个**村落**(hamlet)都有自己的度量。一**磅**(pound)**布**(cloth)不必等于一磅铁，而**沿袭下来的**(customary)长度是从国王的**前臂**(forearm)**传**(descended)下来的。科学院**渴求**(craved)一个从**自然**(nature)里取来的**单位**(unit)来取而代之：从极点到赤道那**一段**(stretch)距离的一千万分之一。"
         },
         {
           "en": "In June 1792 Jean-Baptiste Delambre **rode** north to **survey** the meridian to Dunkirk. Pierre Méchain went south over **uncharted** **mountains** to Barcelona. Seven years of **triangles** followed, through a **revolution** that guillotined Lavoisier in 1794. The **republic** could not wait: a provisional metre was **legislated** in 1795, before the **measurement** **closed**.",
@@ -79,8 +79,8 @@
           "p": 1
         },
         {
-          "w": "sought",
-          "zh": "寻求",
+          "w": "craved",
+          "zh": "渴求",
           "p": 1
         },
         {
