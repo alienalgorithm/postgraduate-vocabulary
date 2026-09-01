@@ -416,8 +416,22 @@ def vet(arts, aid, words):
     for w in words:
         wl = w.lower()
         why = []
+        # ★★ 篇内查四层（2026-09-01 补）—— **原先只比对表面形，是个真漏洞。**
+        # 实测：第48篇已有 tucked／stiff／reassure，
+        # **vet 却放行了 tuck／stiffen／reassuring —— 三个都是篇内同词。**
+        # **而 test_tools 的第五层「篇内不规则变化零重复」早就查这个**，
+        # 于是又是「vet 放行、封版才拦」（与 sworn 那次同形）。
+        # **两道网的判据必须一致，否则前一道等于摆设。**
         if wl in cur:
             why.append("本篇已用")
+        elif stem(wl) in {stem(x) for x in cur}:
+            why.append("本篇已用同词元（%s）"
+                       % next(x for x in cur if stem(x) == stem(wl)))
+        elif any(wl in _IRR_GRP.get(x, ()) for x in cur):
+            why.append("本篇已用同一动词的另一形（%s）"
+                       % next(x for x in cur if wl in _IRR_GRP.get(x, ())))
+        elif [x for x in cur if kin(wl, x)]:
+            why.append("与本篇的 %s 同根" % [x for x in cur if kin(wl, x)][0])
         if wl in basic or wl.rstrip("s") in basic:
             why.append("初中词表内（VAL-12）")
         f = z(wl, "en")

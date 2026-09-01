@@ -1190,6 +1190,30 @@ check("实测：wore 被拦下（撞第38篇 wear）",
       "wore" in _r3 and "同一动词" in _r3)
 check("实测：不撞的词仍放行", "可用：flew" in _r3)
 
+
+# ── vet 篇内查四层（2026-09-01）───────────────────────────────
+# **第三次同形的漏洞：vet 放行、封版才拦。**
+#   第47篇 wore（撞第38篇 wear）→ 补上「不规则变化跨篇」；
+#   第48篇 sworn（撞第39篇 swear）→ 那是在补丁之前 vet 的，漏了过去；
+#   **本轮实测：第48篇已有 tucked／stiff，而 vet 放行了 tuck／stiffen**——
+#   **篇内那一路原先只比对表面形。**
+# **而 test_tools 第五层「篇内不规则变化零重复」早就查这个。**
+# **两道网的判据必须一致，否则前一道等于摆设。**
+# 现在 vet 的篇内查四层：表面形／同词元／同一动词的另一形／同根。
+print("\n[vet] 篇内查四层")
+_ag4 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("篇内查同词元", "本篇已用同词元" in _ag4)
+check("篇内查不规则另一形", "本篇已用同一动词的另一形" in _ag4)
+check("篇内查同根", "与本篇的 %s 同根" in _ag4)
+check("写明这是第三次同形的漏洞",
+      "两道网的判据必须一致" in _ag4)
+_r4 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
+                      "vet", "48", "tuck", "pledged"],
+                     capture_output=True, text=True, timeout=180).stdout
+check("实测：tuck 被拦下（本篇已有 tucked）",
+      "tuck" in _r4 and "本篇已用同词元" in _r4)
+check("实测：不撞的词仍放行", "pledged" in _r4 and "可用：" in _r4)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
