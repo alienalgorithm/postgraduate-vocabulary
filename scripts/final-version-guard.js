@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '46': { source: '2026-09-01按《总令》全流程新写：先问工具「哪些语义域还有词」再据此选题材（教育/体育域仍余五成，常写域已被吃掉七成）；VAL-14 第二次逮到 stood/ran；MET-09 逮到表内释义错位；三处换词全走 swap.py；段落调整一次失手已撤回', verification: 'conversation-latest-final' },
   '45': { source: '2026-09-01按《总令》全流程新写：brief 筛三个候选题材后选定并加厚角度（17→37词）；动笔前逐条上网核六项；VAL-14 头一次在新篇上逮到 sold/stood 两处；三处换词全部走 swap.py 四步合一；MET-07/08 零报出', verification: 'conversation-latest-final' },
   '44': { source: '2026-09-01按《总令》全流程新写：先用 brief 判出原题材可用词仅13个、换角度后升至33个；动笔前逐条上网核五项；本轮补名额全部先跑 agent vet，零撞车；MET-07/08 零报出，是本会话中英失配一族头一次一篇之内没犯', verification: 'conversation-latest-final' },
   '43': { source: '2026-08-27按《总令》全流程新写：动笔前逐条上网核六项；全程用新装的 agent vet 核验候选词（六批七十余词，一次撞车都没有）；唯一一次自伤 built 恰是没跑 vet 直接填的；NUM-01/NUM-02/VAL-13/MET-09 四层零报出', verification: 'conversation-latest-final' },

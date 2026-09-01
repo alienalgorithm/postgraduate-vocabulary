@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 45,
-  "keyword_count": 2250,
+  "article_count": 46,
+  "keyword_count": 2300,
   "articles": [
     {
       "id": "01",
@@ -1037,6 +1037,25 @@
       "canonical_fingerprint_sha256": "d209780d55ae49e2a42292ee97ad8bf91f9da95844e5abf2f8c2b242586bf00d",
       "markdown_sha256": "c23a4597462a7fffae47723bc5c999907cc60041099a6958dcd5ea2140f30d36",
       "markdown_git_blob_sha": "3e5149c45bc77d86ce2e6348d144518f0f06f8e5",
+      "superseded_signatures": []
+    },
+    {
+      "id": "46",
+      "slug": "three-who-err-alike",
+      "title": "Three Who Err Alike",
+      "title_zh": "错得一模一样的那三个人",
+      "version_id": "46-final",
+      "status": "第四十六篇定稿",
+      "date": "2026-09-01",
+      "words": 266,
+      "keywords": 50,
+      "density": 18.8,
+      "source": "2026-09-01按《总令》全流程新写：先问工具「哪些语义域还有词」再据此选题材（教育/体育域仍余五成，常写域已被吃掉七成）；VAL-14 第二次逮到 stood/ran；MET-09 逮到表内释义错位；三处换词全走 swap.py；段落调整一次失手已撤回",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "f4cfc5dac1680def22ad1ec00403be2eeb991304faec86eed6e01e243020a1e0",
+      "markdown_sha256": "0e7b6f01fdbba637a98e509e29842cd4a819856e8a338abb71eaad8c3eca8545",
+      "markdown_git_blob_sha": "2c4730e8f5e900fce6a40d91025a0a03616d4a46",
       "superseded_signatures": []
     }
   ]
