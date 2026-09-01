@@ -2,7 +2,7 @@
 
 > 题材：希伯来语复兴：一个人的决心、一门市集语言与六十所学校
 > 状态：**第四十二篇定稿**（2026-08-27）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 通说是1881年一个人下船，把死语言救活。可希伯来语没死——它在耶路撒冷的市集上已经说了五十年，因为讲拉迪诺的和讲意第绪语的要做买卖。而真正定局的不是那户人家，是学校。
 
 ---
@@ -11,13 +11,13 @@
 
 The story is that one man **strode** off a boat in 1881 and revived a dead **speech**. Eliezer Ben-Yehuda **gained** Jaffa in October 1881, **resolved** to **utter** nothing but Hebrew, and **upheld** that **vow** until his death in 1922. He **reared** a son, Itamar, who knew no other **tongue** from **infancy**.
 
-Hebrew was not dead, and had not been. It had been heard in the Jerusalem markets for fifty years before he **docked**. A Sephardi **merchant** spoke Ladino, an Ashkenazi one Yiddish, and neither **comprehended** the other. The only one both had **studied** was the **scriptural** tongue, learned by **rote** in **childhood**. It **lasted** at the **marketplace**, not in the **synagogue**.
+Hebrew was not dead, and had not been. It had been heard in the Jerusalem markets for 50 years before he **docked**. A Sephardi **merchant** spoke Ladino, an Ashkenazi one Yiddish, and neither **comprehended** the other. The only one both had **studied** was the **scriptural** tongue, learned by **rote** in **childhood**. It **lasted** at the **marketplace**, not in the **synagogue**.
 
-Yet what one **household** could do was **slender**. His son was the first native **speaker** in some eighteen **centuries** — a fact about one child, not a country. Most Zionist **leaders** **presumed** the **eventual** national language would be German. German was the tongue of their **congresses**, **espoused** without **protest**.
+Yet what one **household** could do was **slender**. His son was the first native **speaker** in some 18 **centuries** — a fact about one child, not a country. Most Zionist **leaders** **presumed** the **eventual** national language would be German. German was the tongue of their **congresses**, **espoused** without **protest**.
 
-The schools **clinched** it. Hebrew was the language of **schooling** in six of twenty-nine **organised** schools in 1904. By 1914 some sixty **institutions** used it as their only **vehicle**. Between those dates came the war of the **languages**. The **backers** of the Haifa **technical** school **voted** for German, on the **pretext** that Hebrew had no **lexicon** for engineering.
+The schools **clinched** it. Hebrew was the language of **schooling** in 6 of 29 **organised** schools in 1904. By 1914 some 60 **institutions** used it as their only **vehicle**. Between them came the war of the **languages**, settled 12 December 1913. The **backers** of the Haifa technical school **voted** for German, on the **pretext** that Hebrew had no **lexicon** for engineering.
 
-The objection was correct. Hebrew had no word for a **boiler**, and Ben-Yehuda spent his life **minting** them — some eight thousand **entries** across seventeen volumes. But the answer was not his **resolve**, nor his **dictionary** **solely**. A language **revives** when children are **taught** in it and have nothing else to **recede** to.
+The objection was correct. Hebrew had no **noun** for a **boiler**, and Ben-Yehuda spent his life **minting** them — some 8,000 **entries** across 17 volumes. But the answer was not his **resolve**, nor his **dictionary** **solely**. A language **revives** when children are **taught** in it and have nothing else to **recede** to.
 
 ---
 
@@ -28,13 +28,13 @@ The objection was correct. Hebrew had no word for a **boiler**, and Ben-Yehuda s
 
 通行的说法是：1881年一个人**大步**(strode)走下船，把一门死掉的**话**(speech)救活了。埃利泽·本-耶胡达1881年10月**抵**(gained)雅法，**立志**(resolved)只**说**(utter)希伯来语，这个**誓**(vow)一直**恪守**(upheld)到1922年他去世。他**养**(reared)大一个儿子伊塔马尔，此人自**幼**(infancy)不识第二种**语言**(tongue)。
 
-希伯来语并没有死，从来也没有。早在他**靠岸**(docked)前五十年，耶路撒冷的市集上就听得见它。一个塞法迪**商人**(merchant)讲拉迪诺，一个阿什肯纳兹商人讲意第绪语，谁也**弄不懂**(comprehended)谁。两边都**学**(studied)过的只有那门**经书上的**(scriptural)语言——**童年**(childhood)时**死记**(rote)下来的。它是在**集市**(marketplace)上**存续**(lasted)下来的，不是在**会堂**(synagogue)里。
+希伯来语并没有死，从来也没有。早在他**靠岸**(docked)前50年，耶路撒冷的市集上就听得见它。一个塞法迪**商人**(merchant)讲拉迪诺，一个阿什肯纳兹商人讲意第绪语，谁也**弄不懂**(comprehended)谁。两边都**学**(studied)过的只有那门**经书上的**(scriptural)语言——**童年**(childhood)时**死记**(rote)下来的。它是在**集市**(marketplace)上**存续**(lasted)下来的，不是在**会堂**(synagogue)里。
 
-可一**户人家**(household)能做的**有限**(slender)。他儿子是十八个**世纪**(centuries)以来第一个母语**使用者**(speaker)——那是关于一个孩子的事实，不是关于一个国家的。多数犹太复国主义**领袖**(leaders)**推定**(presumed)**将来**(eventual)的国语会是德语。德语正是他们**代表大会**(congresses)上的用语，**采**(espoused)得毫无**抗议**(protest)。
+可一**户人家**(household)能做的**有限**(slender)。他儿子是18个**世纪**(centuries)以来第一个母语**使用者**(speaker)——那是关于一个孩子的事实，不是关于一个国家的。多数犹太复国主义**领袖**(leaders)**推定**(presumed)**将来**(eventual)的国语会是德语。德语正是他们**代表大会**(congresses)上的用语，**采**(espoused)得毫无**抗议**(protest)。
 
-**定局**(clinched)的是学校。1904年，二十九所**有组织的**(organised)学校里，只有六所以希伯来语**授课**(schooling)。到1914年，约六十所**机构**(institutions)把它当作唯一**媒介**(vehicle)。两个年份之间隔着一场**语言**(languages)之战：海法那所**工科**(technical)学校的**出资方**(backers)**投票**(voted)选了德语，**借口**(pretext)是希伯来语没有工程学的**词库**(lexicon)。
+**定局**(clinched)的是学校。1904年，29所**有组织的**(organised)学校里只有6所以希伯来语**授课**(schooling)。到1914年，约60所**机构**(institutions)把它当作唯一**媒介**(vehicle)。两个年份之间隔着一场**语言**(languages)之战，1913年12月12日方才了结：海法那所工科学校的**出资方**(backers)**投票**(voted)选了德语，**借口**(pretext)是希伯来语没有工程学的**词库**(lexicon)。
 
-这个反对意见是对的。希伯来语确实没有「**锅炉**(boiler)」这个词，而本-耶胡达一辈子都在**铸造**(minting)它们——十七卷里约八千个**词条**(entries)。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是他那部**词典**(dictionary)。一门语言**活转**(revives)过来，是在孩子们被用它**教**(taught)大、且再无别处可**退**(recede)之时。
+这个反对意见是对的。希伯来语确实没有「**锅炉**(boiler)」这个**名**(noun)，而本-耶胡达一辈子都在**铸造**(minting)它们——17卷里约8,000个**词条**(entries)。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是他那部**词典**(dictionary)。一门语言**活转**(revives)过来，是在孩子们被用它**教**(taught)大、且再无别处可**退**(recede)之时。
 
 ---
 
@@ -46,9 +46,9 @@ The objection was correct. Hebrew had no word for a **boiler**, and Ben-Yehuda s
 
 **§3**（10词）household 家庭｜slender 有限的｜speaker 使用者｜centuries 世纪（复）｜leaders 领袖（复）｜presumed 推定｜eventual 最终的｜congresses 代表大会（复）｜espoused 采纳｜protest 抗议
 
-**§4**（11词）clinched 一锤定音｜schooling 授课；学校教育｜organised 有组织的｜institutions 机构（复）｜vehicle 媒介｜languages 语言（复）｜backers 出资方（复）｜technical 工科的；技术的｜voted 投票｜pretext 借口｜lexicon 词库
+**§4**（10词）clinched 一锤定音｜schooling 授课；学校教育｜organised 有组织的｜institutions 机构（复）｜vehicle 媒介｜languages 语言（复）｜backers 出资方（复）｜voted 投票｜pretext 借口｜lexicon 词库
 
-**§5**（9词）boiler 锅炉｜minting 铸造；创制｜entries 词条（复）｜resolve 决心｜dictionary 词典｜solely 仅仅｜revives 复活｜taught 教｜recede 后退；退到
+**§5**（10词）noun 名词｜boiler 锅炉｜minting 铸造；创制｜entries 词条（复）｜resolve 决心｜dictionary 词典｜solely 仅仅｜revives 复活｜taught 教｜recede 后退；退到
 
 ---
 

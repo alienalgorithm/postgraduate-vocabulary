@@ -17,20 +17,20 @@
           "zh": "通行的说法是：1881年一个人**大步**(strode)走下船，把一门死掉的**话**(speech)救活了。埃利泽·本-耶胡达1881年10月**抵**(gained)雅法，**立志**(resolved)只**说**(utter)希伯来语，这个**誓**(vow)一直**恪守**(upheld)到1922年他去世。他**养**(reared)大一个儿子伊塔马尔，此人自**幼**(infancy)不识第二种**语言**(tongue)。"
         },
         {
-          "en": "Hebrew was not dead, and had not been. It had been heard in the Jerusalem markets for fifty years before he **docked**. A Sephardi **merchant** spoke Ladino, an Ashkenazi one Yiddish, and neither **comprehended** the other. The only one both had **studied** was the **scriptural** tongue, learned by **rote** in **childhood**. It **lasted** at the **marketplace**, not in the **synagogue**.",
-          "zh": "希伯来语并没有死，从来也没有。早在他**靠岸**(docked)前五十年，耶路撒冷的市集上就听得见它。一个塞法迪**商人**(merchant)讲拉迪诺，一个阿什肯纳兹商人讲意第绪语，谁也**弄不懂**(comprehended)谁。两边都**学**(studied)过的只有那门**经书上的**(scriptural)语言——**童年**(childhood)时**死记**(rote)下来的。它是在**集市**(marketplace)上**存续**(lasted)下来的，不是在**会堂**(synagogue)里。"
+          "en": "Hebrew was not dead, and had not been. It had been heard in the Jerusalem markets for 50 years before he **docked**. A Sephardi **merchant** spoke Ladino, an Ashkenazi one Yiddish, and neither **comprehended** the other. The only one both had **studied** was the **scriptural** tongue, learned by **rote** in **childhood**. It **lasted** at the **marketplace**, not in the **synagogue**.",
+          "zh": "希伯来语并没有死，从来也没有。早在他**靠岸**(docked)前50年，耶路撒冷的市集上就听得见它。一个塞法迪**商人**(merchant)讲拉迪诺，一个阿什肯纳兹商人讲意第绪语，谁也**弄不懂**(comprehended)谁。两边都**学**(studied)过的只有那门**经书上的**(scriptural)语言——**童年**(childhood)时**死记**(rote)下来的。它是在**集市**(marketplace)上**存续**(lasted)下来的，不是在**会堂**(synagogue)里。"
         },
         {
-          "en": "Yet what one **household** could do was **slender**. His son was the first native **speaker** in some eighteen **centuries** — a fact about one child, not a country. Most Zionist **leaders** **presumed** the **eventual** national language would be German. German was the tongue of their **congresses**, **espoused** without **protest**.",
-          "zh": "可一**户人家**(household)能做的**有限**(slender)。他儿子是十八个**世纪**(centuries)以来第一个母语**使用者**(speaker)——那是关于一个孩子的事实，不是关于一个国家的。多数犹太复国主义**领袖**(leaders)**推定**(presumed)**将来**(eventual)的国语会是德语。德语正是他们**代表大会**(congresses)上的用语，**采**(espoused)得毫无**抗议**(protest)。"
+          "en": "Yet what one **household** could do was **slender**. His son was the first native **speaker** in some 18 **centuries** — a fact about one child, not a country. Most Zionist **leaders** **presumed** the **eventual** national language would be German. German was the tongue of their **congresses**, **espoused** without **protest**.",
+          "zh": "可一**户人家**(household)能做的**有限**(slender)。他儿子是18个**世纪**(centuries)以来第一个母语**使用者**(speaker)——那是关于一个孩子的事实，不是关于一个国家的。多数犹太复国主义**领袖**(leaders)**推定**(presumed)**将来**(eventual)的国语会是德语。德语正是他们**代表大会**(congresses)上的用语，**采**(espoused)得毫无**抗议**(protest)。"
         },
         {
-          "en": "The schools **clinched** it. Hebrew was the language of **schooling** in six of twenty-nine **organised** schools in 1904. By 1914 some sixty **institutions** used it as their only **vehicle**. Between those dates came the war of the **languages**. The **backers** of the Haifa **technical** school **voted** for German, on the **pretext** that Hebrew had no **lexicon** for engineering.",
-          "zh": "**定局**(clinched)的是学校。1904年，二十九所**有组织的**(organised)学校里，只有六所以希伯来语**授课**(schooling)。到1914年，约六十所**机构**(institutions)把它当作唯一**媒介**(vehicle)。两个年份之间隔着一场**语言**(languages)之战：海法那所**工科**(technical)学校的**出资方**(backers)**投票**(voted)选了德语，**借口**(pretext)是希伯来语没有工程学的**词库**(lexicon)。"
+          "en": "The schools **clinched** it. Hebrew was the language of **schooling** in 6 of 29 **organised** schools in 1904. By 1914 some 60 **institutions** used it as their only **vehicle**. Between them came the war of the **languages**, settled 12 December 1913. The **backers** of the Haifa technical school **voted** for German, on the **pretext** that Hebrew had no **lexicon** for engineering.",
+          "zh": "**定局**(clinched)的是学校。1904年，29所**有组织的**(organised)学校里只有6所以希伯来语**授课**(schooling)。到1914年，约60所**机构**(institutions)把它当作唯一**媒介**(vehicle)。两个年份之间隔着一场**语言**(languages)之战，1913年12月12日方才了结：海法那所工科学校的**出资方**(backers)**投票**(voted)选了德语，**借口**(pretext)是希伯来语没有工程学的**词库**(lexicon)。"
         },
         {
-          "en": "The objection was correct. Hebrew had no word for a **boiler**, and Ben-Yehuda spent his life **minting** them — some eight thousand **entries** across seventeen volumes. But the answer was not his **resolve**, nor his **dictionary** **solely**. A language **revives** when children are **taught** in it and have nothing else to **recede** to.",
-          "zh": "这个反对意见是对的。希伯来语确实没有「**锅炉**(boiler)」这个词，而本-耶胡达一辈子都在**铸造**(minting)它们——十七卷里约八千个**词条**(entries)。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是他那部**词典**(dictionary)。一门语言**活转**(revives)过来，是在孩子们被用它**教**(taught)大、且再无别处可**退**(recede)之时。"
+          "en": "The objection was correct. Hebrew had no **noun** for a **boiler**, and Ben-Yehuda spent his life **minting** them — some 8,000 **entries** across 17 volumes. But the answer was not his **resolve**, nor his **dictionary** **solely**. A language **revives** when children are **taught** in it and have nothing else to **recede** to.",
+          "zh": "这个反对意见是对的。希伯来语确实没有「**锅炉**(boiler)」这个**名**(noun)，而本-耶胡达一辈子都在**铸造**(minting)它们——17卷里约8,000个**词条**(entries)。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是他那部**词典**(dictionary)。一门语言**活转**(revives)过来，是在孩子们被用它**教**(taught)大、且再无别处可**退**(recede)之时。"
         }
       ],
       "facts": [
@@ -42,9 +42,9 @@
         "**本篇的机制边界**：这不是「本-耶胡达被高估了」的故事。**他那句反对意见是对的**——1913年希伯来语确实没有工程学的词，而造词正是他毕生的工作。**本文的论点在别处**：一门语言的复活，不取决于有人**决定**去说它，**而取决于有一代孩子被用它教大、且再无别的语言可退。****决心与词典是必要的，学校才是充分的**——六比二十九与约六十这两个数，量的正是后者。"
       ],
       "metrics": {
-        "words": 269,
+        "words": 271,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "glossary": [
         {
@@ -233,11 +233,6 @@
           "p": 4
         },
         {
-          "w": "technical",
-          "zh": "工科的；技术的",
-          "p": 4
-        },
-        {
           "w": "voted",
           "zh": "投票",
           "p": 4
@@ -251,6 +246,11 @@
           "w": "lexicon",
           "zh": "词库",
           "p": 4
+        },
+        {
+          "w": "noun",
+          "zh": "名词",
+          "p": 5
         },
         {
           "w": "boiler",
