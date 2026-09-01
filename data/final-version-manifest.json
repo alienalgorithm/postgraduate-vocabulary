@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 43,
-  "keyword_count": 2150,
+  "article_count": 44,
+  "keyword_count": 2200,
   "articles": [
     {
       "id": "01",
@@ -999,6 +999,25 @@
       "canonical_fingerprint_sha256": "eeb0acbe330d18adedd023cda4c80e495d93b4c4a64c873a351c73084845f2b1",
       "markdown_sha256": "8263ee87bb3b9416596b38e0987d0ca9b02a8290b4a857ba8a091d4fe4d91f2c",
       "markdown_git_blob_sha": "a29f41fdfee4d95b55e396e35c22f03236833b46",
+      "superseded_signatures": []
+    },
+    {
+      "id": "44",
+      "slug": "the-day-the-remedy-was-blunted",
+      "title": "The Day the Remedy Was Blunted",
+      "title_zh": "解药被削弱的那一天",
+      "version_id": "44-final",
+      "status": "第四十四篇定稿",
+      "date": "2026-09-01",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-01按《总令》全流程新写：先用 brief 判出原题材可用词仅13个、换角度后升至33个；动笔前逐条上网核五项；本轮补名额全部先跑 agent vet，零撞车；MET-07/08 零报出，是本会话中英失配一族头一次一篇之内没犯",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "46c9eca3a57984f35279d549ca60200a4e26d60b435c521627b1e6a8251e5016",
+      "markdown_sha256": "4a7b4f3b01f092b7efac9bff97c67f2ad6718a1560fa2cb2a333b4a91b7ae89c",
+      "markdown_git_blob_sha": "865e4bc46d3fd30152578d0dc7f7e19b7532bd97",
       "superseded_signatures": []
     }
   ]
