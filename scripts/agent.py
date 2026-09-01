@@ -9,6 +9,7 @@
   1. brief   把研究材料变成「本题材可用、且词价合格」的重点词池 —— 让冲突不可能发生
   2. review  把草稿变成「按优先级排序的修改指令」 —— 而不是一堆平铺的报错
   3. skeleton 给出从范文反推的五段功能骨架 —— 每段该干什么活
+  4. vet     补名额前核验候选词，一次给出全部否决理由 —— 让「凭感觉补词」不可能发生
 
 判断力仍然在人（或 LLM）那一侧：反转够不够狠、结尾能不能迁移，本工具只负责
 把所有可机械保证的事情机械地保证掉，并把需要判断的地方精确地标出来。
@@ -354,6 +355,68 @@ def audit(arts, ids=None):
         print(f"\n共 {n} 题。逐题作答后，把结论写进 notes/审读记录.md。")
         print("判据：改一处若要牺牲另一处（论证、中文、词价、指标），即为临界点，停手。")
 
+def vet(arts, aid, words):
+    """补名额前核验候选词 —— 一次给出全部否决理由。
+
+    **立此命令之由**：`brief` 是动笔前建词池用的，而我犯错的场景恰恰不是动笔时——
+    **是入库之后临时补一个名额**：那时词池早已不在手边，于是凭感觉抓一个词填进去。
+    **本次会话里这一步栽了六次**：
+      第39篇 covered 撞第33篇、square 撞第17篇、remote 撞第01篇（连撞三次才想起先查）；
+      第40篇 rode 撞第32篇；
+      第42篇 word(5.26) 与 term(5.23) 两个都是白送词（同一处连栽两回）。
+    **六次的共同点：我知道该查，但补词时手边没有一个「一条命令查完」的东西。**
+    """
+    from wordfreq import zipf_frequency as z
+    exact, stems, owner = used_index(arts, aid)
+    basic = set(open(os.path.join(ROOT, "data/reference/basic-wordlist.txt"),
+                     encoding="utf-8").read().split())
+    cur = {m.group(1).lower()
+           for a in arts if a["id"] == aid
+           for p in a["paras"]
+           for m in re.finditer(r"\*\*([^*]+?)\*\*", p["en"])}
+    print("=" * 64)
+    print("补名额核验 · 第%s篇 · %d 个候选" % (aid, len(words)))
+    print("=" * 64)
+    ok_list = []
+    for w in words:
+        wl = w.lower()
+        why = []
+        if wl in cur:
+            why.append("本篇已用")
+        if wl in basic or wl.rstrip("s") in basic:
+            why.append("初中词表内（VAL-12）")
+        f = z(wl, "en")
+        if f >= 5.0:
+            why.append("白送词 %.2f（VAL-02h）" % f)
+        elif f <= 2.2:
+            why.append("过于生僻 %.2f（VAL-09）" % f)
+        def _who(key):
+            v = owner.get(key)
+            if isinstance(v, (set, frozenset, list, tuple)):
+                return "、".join(sorted(str(x) for x in v))
+            return str(v) if v else "?"
+        if norm(wl) in exact:
+            why.append("与第%s篇同形（VAL-08）" % _who(norm(wl)))
+        elif stem(wl) in stems:
+            why.append("与第%s篇同词元（VAL-07）" % _who(stem(wl)))
+        else:
+            k = [x for x in exact if kin(wl, x)]
+            if k:
+                why.append("与第%s篇同根（%s）" % (_who(k[0]), k[0]))
+        if why:
+            print("  ✗ %-16s %s" % (w, "／".join(why)))
+        else:
+            print("  ✓ %-16s 词频 %.2f　可用" % (w, f))
+            ok_list.append(w)
+    print()
+    if ok_list:
+        print("  可用：%s" % "、".join(ok_list))
+    else:
+        print("  **一个都不能用。换一批再来 —— 不要凭感觉直接填。**")
+    print("\n  ★ 补完之后仍须跑 build_markdown 与 inspector：\n"
+          "    本命令只查词价与跨篇冲突，查不出中英失配与篇内重复。")
+
+
 def main():
     if len(sys.argv) < 2:
         print(__doc__); return
@@ -371,6 +434,11 @@ def main():
         brief(arts, pos[0], ex, top)
     elif cmd == "review":
         review(arts, pos[0], ex)
+    elif cmd == "vet":
+        if len(pos) < 2:
+            print("用法：python3 scripts/agent.py vet NN word1 word2 …")
+            return
+        vet(arts, pos[0].zfill(2), pos[1:])
     elif cmd == "skeleton":
         skeleton()
     else:

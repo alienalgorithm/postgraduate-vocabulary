@@ -755,6 +755,31 @@ check("数字加单位不误报", "NUM-01" not in ids(I.inspect(_u1, arts)[0]),
       "★ billion 紧跟阿拉伯数字时是单位不是数")
 check("NUM-01 已挂铁律", bool(I.charter_of("NUM-01")))
 
+
+# ── agent.py vet · 补名额前核验（2026-08-20 立）─────────────────
+# 立此命令之由：**brief 是动笔前建词池用的，而我犯错的场景恰恰不是动笔时——
+#   是入库之后临时补一个名额**：那时词池早已不在手边，于是凭感觉抓一个词填进去。
+# **本次会话里这一步栽了六次**（比任何一条规则的犯错频次都高）：
+#   第39篇 covered 撞第33篇、square 撞第17篇、remote 撞第01篇（**连撞三次才想起先查**）；
+#   第40篇 rode 撞第32篇；第42篇 word(5.26) 与 term(5.23) 两个都是白送词（**同一处连栽两回**）。
+# **六次的共同点：我知道该查，但补词时手边没有一个「一条命令查完」的东西。**
+print("\n[agent vet] 补名额前核验候选词")
+_src = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("vet 命令已挂进 CLI", 'cmd == "vet"' in _src)
+check("查跨篇同形（VAL-08）", "VAL-08" in _src and "同形" in _src)
+check("查跨篇同词元与同根（VAL-07）", "VAL-07" in _src and "同根" in _src)
+check("查白送词与生僻词（VAL-02h / VAL-09）",
+      "VAL-02h" in _src and "VAL-09" in _src)
+check("查初中词表（VAL-12）", "VAL-12" in _src)
+check("明写本命令查不出什么",
+      "查不出中英失配与篇内重复" in _src,
+      "★ 工具须说清自己的边界，否则人会以为跑过就万事大吉")
+_r = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
+                     "vet", "42", "word", "technical"],
+                    capture_output=True, text=True, timeout=180).stdout
+check("实测：白送词被逮出", "word" in _r and "VAL-02h" in _r)
+check("实测：可用词放行", "可用：technical" in _r)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
