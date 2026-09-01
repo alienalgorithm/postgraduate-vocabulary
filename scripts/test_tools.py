@@ -1030,6 +1030,26 @@ check("check.py 写明「默认查全库」",
 check("agent vet 写明「跑了的零失手，没跑的当场栽」",
       "跑了 vet 的零失手" in _ch2)
 
+
+# ── start.py 开局自检（2026-09-01 立）─────────────────────────
+# **立此工具之由**：用户问「《总令》每次是不是要我发给你」。**答案是不必**——
+#   它就在 notes/总令.md，**随 git clone 一起回来**。
+#   本会话中途容器被重置，我用 token 重新 clone，**用的是仓库里那份**。
+# **而我此前做错两件事**：
+#   一、往 outputs 拷了约十五次《总令》——**那是给用户制造活儿**；
+#   二、**没把「开局怎么自己拿到它」写成机制**，于是用户会以为要靠他发。
+print("\n[start] 开局自检")
+_stp = open(os.path.join(ROOT, "scripts/start.py"), encoding="utf-8").read()
+check("查容器重置后必丢的两样", "wordfreq" in _stp and "user.email" in _stp,
+      "★ 不补会导致词价层误报硬伤、commit 失败 —— 本会话两样都栽过")
+check("报冷读欠账", "coldread" in _stp, "唯一受时间约束的活")
+check("报下一篇可动笔的题材", "已核，有真反转" in _stp)
+check("明写「用户什么都不必发」", "用户什么都不必发" in _stp)
+_ch3 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("《总令》开篇即写明开局一条命令",
+      "开局第一条命令" in _ch3 and "start.py" in _ch3[:2000])
+check("《总令》写明不必用户发", "随 `git clone` 一起回来" in _ch3)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
