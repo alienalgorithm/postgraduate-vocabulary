@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-24，共有 **50篇文章、2500个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-24，共有 **51篇文章、2550个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@
 | **48** | ***The Maxim Made Visible*** | **1829年伦敦警察的制服：一支队伍的每一处设计都在回答政治恐惧** | **265词 · 50词 · 18.9%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-maxim-made-visible) · [Markdown](articles/48-the-maxim-made-visible.md) |
 | **49** | ***Two Percentages Side by Side*** | **1721年波士顿人痘接种之争：在没有机理可援引时，计数如何独自赢下一场辩论** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=two-percentages-side-by-side) · [Markdown](articles/49-two-percentages-side-by-side.md) |
 | **50** | ***The Unattainable Ideal*** | **赛马让分制：一个若真达成便会摧毁自身目的的目标** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-unattainable-ideal) · [Markdown](articles/50-the-unattainable-ideal.md) |
+| **51** | ***Named for a Plant That Does Not Smell*** | **1882年 Fougère Royale：合成香料抬掉的不是成本，是「香味须来自植物」这道限制** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=named-for-a-plant-that-does-not-smell) · [Markdown](articles/51-named-for-a-plant-that-does-not-smell.md) |
 | **46** | ***Three Who Err Alike*** | **手动计时的系统性偏差：中位数管得住离群值，管不住三人同向的错** | **266词 · 50词 · 18.8%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=three-who-err-alike) · [Markdown](articles/46-three-who-err-alike.md) |
 
 第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 50,
-  "keyword_count": 2500,
+  "article_count": 51,
+  "keyword_count": 2550,
   "articles": [
     {
       "id": "01",
@@ -1132,6 +1132,25 @@
       "canonical_fingerprint_sha256": "aae7206cd2d5eb6b70a5224f895683415a2b5b42da04c3d9e842e6c4b2d2532a",
       "markdown_sha256": "dc07b615f3dc6d3a8772ca750c55ccf26e3150ef7bab505936c2fc70aba05082",
       "markdown_git_blob_sha": "abcc7cc30b6d370104c7ccbd5dd092074e2d52f9",
+      "superseded_signatures": []
+    },
+    {
+      "id": "51",
+      "slug": "named-for-a-plant-that-does-not-smell",
+      "title": "Named for a Plant That Does Not Smell",
+      "title_zh": "以一种不散发气味的植物命名",
+      "version_id": "51-final",
+      "status": "第五十一篇定稿",
+      "date": "2026-09-01",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-01按《总令》新立的三步法首次一次成稿：扫域（香水与化妆62%）→brief报30个→上网核；入库时暴露上一轮自造的工具缺陷：review把分布极差列为结构提示而检察官判为BAL-01硬伤，已改归阻塞项",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "051656f5317a38f0494b7cdf10822ae7d7ea8bdc3572ec4f152452c1dd7671e9",
+      "markdown_sha256": "a4317d2be09fae6d401424287a95b4b0a886dd3c931912efff8fa87e4f21d953",
+      "markdown_git_blob_sha": "b856e285ae0d34721f9448b17b17c0bac2776239",
       "superseded_signatures": []
     }
   ]

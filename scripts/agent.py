@@ -248,8 +248,17 @@ def review(arts, path, exclude=None):
         if sp > KW_SPREAD_MAX:
             worst_hi = pkn.index(max(pkn)) + 1
             worst_lo = pkn.index(min(pkn)) + 1
-            structural.append(f"关键词分布 {'·'.join(map(str,pkn))}，极差 {sp}。"
-                              f"从 §{worst_hi} 移出 {(max(pkn)-min(pkn))//2} 个到 §{worst_lo}，目标 10·10·10·10·10。")
+            # ★★ 归入【一、阻塞项】而非【二、结构】（2026-09-01 第51篇实测改）
+            # **检察官把它判为 BAL-01 硬伤，而 review 原先只列为结构提示。**
+            # 于是第51篇出现这一幕：**review 印出「阻塞项已清零，可以入库」，
+            # 而入库后检察官立刻报 BAL-01 硬伤。**
+            # **这正是我已修过三次的「两道网判据不一致」，而这次是上一轮我自己造的**——
+            # 上一轮刚给 review 装了停手信号，**信号本身却建在一条错的分类上。**
+            # **以检察官为准：分布极差超限是阻塞项。**
+            blocking.append(f"关键词分布 {'·'.join(map(str,pkn))}，极差 {sp}"
+                            f"（检察官 BAL-01 判为硬伤）。"
+                            f"从 §{worst_hi} 移出 {(max(pkn)-min(pkn))//2} 个到 §{worst_lo}，"
+                            f"目标 10·10·10·10·10。")
     for i, (w, k) in enumerate(zip(pw, pkn), 1):
         if w < 40:
             structural.append(f"§{i} 只有 {w} 词，是残段。它承担的论证不足以配得上一段——"

@@ -1273,6 +1273,27 @@ _ch6 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
 check("《总令》也写了这条", "阻塞项清零就该停手" in _ch6,
       "★ 下一次会话开局读的是《总令》")
 
+
+# ── review 与检察官的分级必须一致（2026-09-01 第51篇实测立）──────
+# **上一轮刚给 review 装了「阻塞项清零即可停手」的信号，
+#   而这一轮就发现：信号本身建在一条错的分类上。**
+# **检察官把「关键词分布极差超限」判为 BAL-01 硬伤，
+#   而 review 原先只把它列进【二、结构】。**
+# 于是第51篇出现这一幕：**review 印出「阻塞项已清零，可以入库」，
+#   入库后检察官立刻报 BAL-01 硬伤。**
+# **这是我已修过三次的「两道网判据不一致」——而这次是我自己上一轮造的。**
+# **以检察官为准：分布极差超限归【一、阻塞项】。**
+print("\n[review] 分级与检察官一致")
+_ag6 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("分布极差归入阻塞项", "blocking.append(f\"关键词分布" in _ag6)
+check("提示里点名 BAL-01", "BAL-01 判为硬伤" in _ag6,
+      "★ 让人一眼看出这条是硬伤而非建议")
+check("写明这是自造的不一致", "而这次是上一轮我自己造的" in _ag6
+      or "这次是上一轮我自己造的" in _ag6)
+# 检察官侧：确认 BAL-01 确为 hard
+check("检察官 BAL-01 确为硬伤级",
+      'Finding("BAL-01", "均衡", "hard"' in _ins)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
