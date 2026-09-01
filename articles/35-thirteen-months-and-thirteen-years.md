@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-On the night of 25 October 1859 a slow **gale** crossed the Irish Sea. It killed 800 people, **destroyed** 133 ships and **damaged** ninety. Off Anglesey the **emigrant** **clipper** Royal Charter **rammed** a **reef** and broke apart; about 450 drowned and forty **beached** alive — the **heaviest** **toll** on that coast.
+On the night of 25 October 1859 a slow **gale** crossed the Irish Sea. It killed 800 people, **destroyed** 133 ships and **damaged** 90. Off Anglesey the **emigrant** **clipper** Royal Charter **rammed** a **reef** and broke apart; about 450 drowned and forty **beached** alive — the **heaviest** **toll** on that coast.
 
 Robert FitzRoy had gathered **coastal** readings by **telegraph** since 1854. He **showed** that this storm could have been seen coming. Warnings began in February 1861: a wire to the **dockside**, then **cones** and **drums** **hoisted** on a **jetty** mast. On the Tyne the first was **disregarded** and men drowned. Those after it were **heeded**.
 

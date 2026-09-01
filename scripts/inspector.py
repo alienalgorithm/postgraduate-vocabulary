@@ -324,6 +324,45 @@ def inspect(a, archive):
     if hit_s:
         F.append(Finding("VAL-08", "词价", "hard", "加粗表面形式与其他篇重复", "、".join(hit_s)))
 
+    # ── NUM-01 并列数一拼写一阿拉伯（2026-08-20 立）──────────────────
+    # 立此层之由：**第39篇把 601 写成 six hundred and one、第42篇把 6 of 29 写成
+    # six of twenty-nine——两次都是判别性证据被拼写式稀释，而两次都是人眼发现的。**
+    # **先量**：全库拼写式写数 84 处 / 30 篇，**数量太大，不可能全是病**。
+    # **判据废掉两个才定住**：
+    #   ①「凡拼写式即报」→ 84 处，误收 Thirty drowned.（第21篇的重锤，正因短促才有力）
+    #     与 the twenty-sixth（日期序数）。
+    #   ②「同句内阿拉伯与拼写混用」→ 21 处，**仍误收 4.55 ± 0.07 billion years**
+    #     ——**billion 紧跟阿拉伯数字时是单位不是数**。
+    # **定住的形状：同一句的一组并列数里，一部分写阿拉伯、一部分写拼写。**
+    #   （第35篇「killed 800 people, destroyed 133 ships and damaged ninety」——
+    #    三项并列却一拼写两阿拉伯，读者会以为 ninety 是另一类东西。）
+    # **年份用阿拉伯、时长用拼写是正常英文惯例，不报**（"in 1983, thirty-two years after"）。
+    _SPELL = (r"\b(?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|"
+              r"eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|"
+              r"eighteen|nineteen)(?:[- ](?:one|two|three|four|five|six|seven|"
+              r"eight|nine))?\b")
+    _numx = []
+    for _pi, _p in enumerate(paras, 1):
+        for _s in sentences(_p["en"].replace("**", "")):
+            # 去掉「阿拉伯数字＋单位」：那里的 million 是单位不是数
+            _t = re.sub(r"\b\d[\d,\.]*\s+(?:million|billion|thousand|hundred)\b",
+                        "#", _s)
+            # 只报「并列」：动词并列或 and/、 连接的一串数
+            if not re.search(r",[^,]+\band\b", _t):
+                continue
+            _ar = re.findall(r"\b\d[\d,\.]*\b", _t)
+            _sp = re.findall(_SPELL, _t, re.I)
+            # 年份不算（四位数且以 1/2 开头），它与时长混排是惯例
+            _ar = [x for x in _ar if not re.fullmatch(r"[12]\d{3}", x)]
+            if _ar and _sp:
+                _numx.append(f"§{_pi}「{_s.strip()[:58]}」")
+    if _numx:
+        F.append(Finding("NUM-01", "写作规范", "check", "并列数一拼写一阿拉伯",
+            "、".join(_numx),
+            "**同一组并列的数，形式要一致**——一部分写阿拉伯、一部分写拼写，"
+            "读者会以为它们是两类东西。**判别性证据尤其要用阿拉伯数字**"
+            "（第39篇 601、第42篇 6 of 29 皆因此改过）"))
+
     # ── MET-09 速查表释义与正文括注错位（2026-08-20 立）───────────────
     # 立此层之由：**MET-07/08 只查「每个加粗英文词在中文里有没有一条对应括注」，
     # 括注在不在它查，落得对不对它不查。**

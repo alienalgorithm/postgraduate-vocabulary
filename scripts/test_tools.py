@@ -728,6 +728,33 @@ _rc = open(os.path.join(ROOT, "scripts/render_charter.py"), encoding="utf-8").re
 check("提供 --check 供 CI 调用", "--check" in _rc and 'sys.exit(1)' in _rc,
       "过期时须能让 CI 红，否则等于没有")
 
+
+# ── NUM-01 并列数一拼写一阿拉伯（2026-08-20 立）────────────────
+# 立此层之由：**第39篇把 601 写成 six hundred and one、第42篇把 6 of 29 写成
+#   six of twenty-nine——两次都是判别性证据被拼写式稀释，而两次都是人眼发现的。**
+# **先量**：全库拼写式写数 84 处 / 30 篇，**数量太大，不可能全是病**。
+# **判据废掉两个才定住**：
+#   ①「凡拼写式即报」→ 84 处，**误收 Thirty drowned.**（第21篇的重锤，正因短促才有力）；
+#   ②「同句内混用」→ 21 处，**仍误收 4.55 ± 0.07 billion years**（billion 是单位不是数）。
+#   定住的形状：**同一句的一组并列数里，一部分阿拉伯、一部分拼写。**
+print("\n[NUM-01] 并列数一拼写一阿拉伯")
+_b1 = art(["It killed 800 people, destroyed 133 ships and damaged ninety."],
+          ["它夺去800条人命，毁掉133艘船，另有90艘受损。"])
+check("三项并列一拼写两阿拉伯 → NUM-01", "NUM-01" in ids(I.inspect(_b1, arts)[0]),
+      "读者会以为 ninety 是另一类东西")
+_g1 = art(["It killed 800 people, destroyed 133 ships and damaged 90."],
+          ["它夺去800条人命，毁掉133艘船，另有90艘受损。"])
+check("改齐后不再报", "NUM-01" not in ids(I.inspect(_g1, arts)[0]))
+_k1 = art(["Thirty drowned. The hull heeled, and the water came in."],
+          ["三十人溺毙。船身倾侧，水灌了进来。"])
+check("纯拼写的重锤不误报", "NUM-01" not in ids(I.inspect(_k1, arts)[0]),
+      "★ Thirty drowned. 正因短促才有力，不该逼它改成 30")
+_u1 = art(["His 1956 report fixed it at 4.55 billion years, and the figure held."],
+          ["他1956年的报告把它定在45.5亿年，这个数字站住了。"])
+check("数字加单位不误报", "NUM-01" not in ids(I.inspect(_u1, arts)[0]),
+      "★ billion 紧跟阿拉伯数字时是单位不是数")
+check("NUM-01 已挂铁律", bool(I.charter_of("NUM-01")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

@@ -13,7 +13,7 @@
       "status": "第三十五篇定稿",
       "paras": [
         {
-          "en": "On the night of 25 October 1859 a slow **gale** crossed the Irish Sea. It killed 800 people, **destroyed** 133 ships and **damaged** ninety. Off Anglesey the **emigrant** **clipper** Royal Charter **rammed** a **reef** and broke apart; about 450 drowned and forty **beached** alive — the **heaviest** **toll** on that coast.",
+          "en": "On the night of 25 October 1859 a slow **gale** crossed the Irish Sea. It killed 800 people, **destroyed** 133 ships and **damaged** 90. Off Anglesey the **emigrant** **clipper** Royal Charter **rammed** a **reef** and broke apart; about 450 drowned and forty **beached** alive — the **heaviest** **toll** on that coast.",
           "zh": "1859年10月25日夜里，一场移动缓慢的**大风**(gale)扫过爱尔兰海。它夺去800条人命，**毁**(destroyed)掉133艘船，另有90艘**受损**(damaged)。在安格尔西外海，载着**移民**(emigrant)的那艘**快帆船**(clipper)「皇家宪章」号**撞**(rammed)上了**礁**(reef)石、当即解体；约450人溺亡，40人活着**冲**(beached)上岸——这是那一带海岸历来**最重**(heaviest)的**伤亡**(toll)。"
         },
         {
