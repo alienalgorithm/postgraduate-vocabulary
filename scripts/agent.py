@@ -428,6 +428,12 @@ def vet(arts, aid, words):
         print("  可用：%s" % "、".join(ok_list))
     else:
         print("  **一个都不能用。换一批再来 —— 不要凭感觉直接填。**")
+    print()
+    print("  ★★ 本命令的价值有实测对照（2026-09-01 第44篇一篇之内）：")
+    print("     **跑了 vet 的 19 个词，零撞车；没跑就直接填的 7 个，全撞**")
+    print("     （seek 撞18／mattered 撞34／remedy 与 parts 撞15／test 撞22／")
+    print("      judgement 撞40／moment 撞17）。")
+    print("     **19:7 —— 装了工具还漏跑，说明「知道该跑」不够。补名额就跑，别判断要不要跑。**")
     print("\n  ★ 补完之后仍须跑 build_markdown 与 inspector：\n"
           "    本命令只查词价与跨篇冲突，查不出中英失配与篇内重复。")
 

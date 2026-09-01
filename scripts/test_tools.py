@@ -1075,6 +1075,24 @@ check("写明百分比与难易不相关", "百分比与难易不相关" in _ag,
 check("太少时给出出路", "换个角度或换个题材" in _ag,
       "同一件事换个切入点，要用的词就变了")
 
+
+# ── vet 的 19:7 实测对照（2026-09-01 第44篇）─────────────────
+# **装了 vet 之后我仍在一篇之内漏跑七次**，对照极干净：
+#   **跑了 vet 的 19 个词零撞车**（sailors／ounce／colonies／imperial／copper／casks／
+#     gums／bruises／heal／potency／divides／cure／recipe／ascorbic／mocked／dubbed／
+#     stuck／outlived／celebrates）；
+#   **没跑就直接填的 7 个全撞**（seek 撞18／mattered 撞34／remedy 与 parts 撞15／
+#     test 撞22／judgement 撞40／moment 撞17）。
+# **结论：「知道该跑」不够 —— 补名额就跑，不要先判断这次要不要跑。**
+print("\n[vet] 19:7 实测对照已写进工具与《总令》")
+_ag2 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("vet 输出里写明 19:7", "19:7" in _ag2)
+check("写明「补名额就跑，别判断要不要跑」",
+      "别判断要不要跑" in _ag2)
+_ch4 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("《总令》里也写了这条对照", "19:7" in _ch4,
+      "★ 下一次会话开局读的是《总令》")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
