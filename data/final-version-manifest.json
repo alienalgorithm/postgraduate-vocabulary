@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 41,
-  "keyword_count": 2050,
+  "article_count": 42,
+  "keyword_count": 2100,
   "articles": [
     {
       "id": "01",
@@ -961,6 +961,25 @@
       "canonical_fingerprint_sha256": "1c704bb6cf1df193b7a610d9145e8a4dfef42dad12c1f62ae2ccf023f1b713ec",
       "markdown_sha256": "82a544bdb3dc45f73c512e37b44136081ed00da053eecfee10bccccb47295d8d",
       "markdown_git_blob_sha": "da3132623de3c2cbd921307072a57f9083c36516",
+      "superseded_signatures": []
+    },
+    {
+      "id": "42",
+      "slug": "it-lasted-at-the-marketplace",
+      "title": "It Lasted at the Marketplace",
+      "title_zh": "它是在集市上活下来的",
+      "version_id": "42-final",
+      "status": "第四十二篇定稿",
+      "date": "2026-08-27",
+      "words": 269,
+      "keywords": 50,
+      "density": 18.6,
+      "source": "2026-08-27按《总令》全流程新写：动笔前逐条上网核五项；VAL-13/MET-09 双双零报出；检察官报「中段无转折词」当场补上转轴处的 Yet；补名额时 word 是白送词被 VAL-02h 逮出，改动自伤第19次",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "427a02e3acf36534658b4762143c35556431337f5a21a9b55d6b349927cd26ef",
+      "markdown_sha256": "2e3c0775f342ce38a4eabb2dee6a72680858fb8192eef0945da3a528bed6c303",
+      "markdown_git_blob_sha": "a5891a0e533a225ecfc19e9523254b4f76a6d7f8",
       "superseded_signatures": []
     }
   ]
