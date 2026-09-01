@@ -95,7 +95,7 @@ const VERSION_IDS = {
   '30': '30-271-word-final-locked',
   '31': '31-266-word-final-locked',
   '32': '32-271-word-final-locked',
-  '33': '33-271-word-final-locked',
+  '33': '33-264-word-final-locked',
   '34': '34-271-word-final-locked',
   '35': '35-268-word-final-locked',
 

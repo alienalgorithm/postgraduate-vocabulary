@@ -363,6 +363,38 @@ def inspect(a, archive):
             "读者会以为它们是两类东西。**判别性证据尤其要用阿拉伯数字**"
             "（第39篇 601、第42篇 6 of 29 皆因此改过）"))
 
+    # ── NUM-03 同句两个及以上拼写式数字（2026-09-01 立）────────────────
+    # 立此层之由：**同一个错我犯了三次**——
+    #   第39篇 six hundred and one / six hundred and eleven；
+    #   第42篇 six of twenty-nine / some sixty；
+    #   第45篇 Twenty-seven of the thirty。
+    # **三次都是判别性证据被拼写式稀释，三次都是人眼发现的。**
+    # **而 NUM-01 逮不到**：它只查「同句里阿拉伯与拼写混用」，
+    #   而这三处是**整组都写成拼写式**，没有混用可查。
+    # **先量 · 判据废掉两个才定住**：
+    #   ①「≥20 的拼写式数字即报」→ 65 处 / 28 篇，**太粗**（ten weeks、six pairs 都是好的）；
+    #   ②「拼写式的 X of Y 对照」→ **0 处**，正则收得太死，一个也逮不着。
+    # **定住的形状：同一句里出现两个及以上拼写式数字。**
+    #   —— 机器认不出「哪句是判别性证据」，**但判别性证据几乎总是一组对照，
+    #   而一组对照就是同句里的两个数**。实测 15 处，逐条人判后确有真错
+    #   （第33篇「144,000 对 282,000」是全篇的对照，被文字彻底稀释）。
+    _SP3 = (r"\b(?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|"
+            r"hundred|thousand|million|billion|eleven|twelve|thirteen|"
+            r"fourteen|fifteen|sixteen|seventeen|eighteen|nineteen)"
+            r"(?:[- ](?:one|two|three|four|five|six|seven|eight|nine))?\b")
+    _n3 = []
+    for _pi, _p in enumerate(paras, 1):
+        for _s in sentences(_p["en"].replace("**", "")):
+            _h = re.findall(_SP3, _s, re.I)
+            if len(_h) >= 2:
+                _n3.append(f'§{_pi}「{_s.strip()[:52]}」（{"、".join(_h[:4])}）')
+    if _n3:
+        F.append(Finding("NUM-03", "写作规范", "check", "同句两个及以上拼写式数字",
+            "、".join(_n3),
+            "**判别性证据几乎总是一组对照，而对照写成拼写式就被文字稀释了**——"
+            "读者要在脑子里换算才看得出落差。**改用阿拉伯数字**"
+            "（第39篇 601/611、第42篇 6 of 29、第45篇 27/30 皆因此改过）"))
+
     # ── NUM-02 同一个数中英两种写法（2026-08-20 立）──────────────────
     # 立此层之由：**本次会话「中英失配」共 12 次、分布 8 篇，是自伤里最多的一族**
     #   （补名额撞车 5 次、补名额是白送词 5 次）。

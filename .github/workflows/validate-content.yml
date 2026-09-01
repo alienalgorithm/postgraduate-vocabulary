@@ -192,7 +192,7 @@ jobs:
           const article34 = globalThis.SITE.ARTICLES.find(a => a.id === '34');
           if (article34) expected['34'] = { words: 271, keywords: 50, density: 18.5, status: '第三十四篇定稿' };
           const article33 = globalThis.SITE.ARTICLES.find(a => a.id === '33');
-          if (article33) expected['33'] = { words: 271, keywords: 50, density: 18.5, status: '第三十三篇定稿' };
+          if (article33) expected['33'] = { words: 264, keywords: 50, density: 18.9, status: '第三十三篇定稿' };
           const article32 = globalThis.SITE.ARTICLES.find(a => a.id === '32');
           if (article32) expected['32'] = { words: 271, keywords: 50, density: 18.5, status: '第三十二篇定稿' };
           const article30 = globalThis.SITE.ARTICLES.find(a => a.id === '30');

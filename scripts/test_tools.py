@@ -1093,6 +1093,37 @@ _ch4 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
 check("《总令》里也写了这条对照", "19:7" in _ch4,
       "★ 下一次会话开局读的是《总令》")
 
+
+# ── NUM-03 同句两个及以上拼写式数字（2026-09-01 立）──────────────
+# **立此层之由：同一个错我犯了三次**——
+#   第39篇 six hundred and one／six hundred and eleven；
+#   第42篇 six of twenty-nine／some sixty；第45篇 Twenty-seven of the thirty。
+# **三次都是判别性证据被拼写式稀释，三次都是人眼发现的。**
+# **而 NUM-01 逮不到**：它只查「同句里阿拉伯与拼写混用」，
+#   这三处是**整组都写成拼写式**，没有混用可查。
+# **判据废掉两个才定住**：
+#   ①「≥20 的拼写式数字即报」→ 65 处 / 28 篇，**太粗**（ten weeks、six pairs 都是好的）；
+#   ②「拼写式的 X of Y 对照」→ **0 处**，正则收得太死。
+#   定住的形状：**同一句里两个及以上拼写式数字**——
+#   机器认不出「哪句是判别性证据」，**但判别性证据几乎总是一组对照，
+#   而一组对照就是同句里的两个数。**
+# 实测 15 处，逐条人判后修掉第33篇（144,000 对 282,000 是全篇的对照，
+#   **且中文原写「一百四十四千英镑」——这本身还是个译法错误**）。
+print("\n[NUM-03] 同句两个及以上拼写式数字")
+_b3 = art(["Of the annual outlay, only a hundred and forty-four thousand tracked distance; "
+           "two hundred and eighty-two thousand did not."],
+          ["在全年开支里，只有一百四十四千是随距离走的；另外二十八万二千则不是。"])
+check("整组拼写式 → NUM-03", "NUM-03" in ids(I.inspect(_b3, arts)[0]),
+      "判别性证据被文字稀释，读者要在脑子里换算")
+_g3 = art(["Of the annual outlay, only 144,000 tracked distance; 282,000 did not."],
+          ["在全年开支里，只有144,000是随距离走的；另外282,000则不是。"])
+check("改用阿拉伯后不再报", "NUM-03" not in ids(I.inspect(_g3, arts)[0]))
+_k3 = art(["Scurvy took eighty of the men in ten weeks, and six pairs were chosen."],
+          ["坏血病十周里带走八十人，选出六对。"])
+check("单个拼写式不误报", "NUM-03" not in ids(I.inspect(_k3, arts)[0]),
+      "★ ten weeks／six pairs 都是好的 —— 判据只查同句两个及以上")
+check("NUM-03 已挂铁律", bool(I.charter_of("NUM-03")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
