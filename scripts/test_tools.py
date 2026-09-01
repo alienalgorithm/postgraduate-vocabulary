@@ -813,12 +813,12 @@ check("英文年份/中文时长不误报", "NUM-02" not in ids(I.inspect(_k2, a
 check("NUM-02 已挂铁律", bool(I.charter_of("NUM-02")))
 
 
-# ── 铁律第零条 · 全库六层零重复（2026-08-20 加）─────────────────
+# ── 铁律第零条 · 全库七层零重复（2026-08-20 加）─────────────────
 # **用户两次追问「所有重点词前前后后有没有重复交叉」，这是铁律。**
 # VAL-05/07/08 逐篇查，但**没有一条测试从全库整体验过这件事**——本条补上。
 # **实测发现 5 组纯屈折跨篇**（pound/pounds、sailed/sails、shallows/shallow、
 #   smeared/smears、vessels/vessel）——**同一个词让学习者在两篇里背两次**，已全部改掉。
-print("\n[铁律第零条] 全库六层零重复")
+print("\n[铁律第零条] 全库七层零重复")
 import agent as _AG
 _all = _AG.load()
 _g = [(x["w"].lower(), a["id"]) for a in _all for x in a["glossary"]]
@@ -857,14 +857,39 @@ for _k, _v in _st.items():
 #   showed/shown、withdrew/withdrawn），已全部改掉；
 # **另 3 组判为不是重复**：bit 是「比特」不是 bite 的过去式；
 #   hide 作「兽皮」是名词、与动词 hid 是两个词；freeze「封冻」与 froze「冻结申请」义项分开。
-_IRR = ("grow grew grown;seek sought;show showed shown;"
-        "withdraw withdrew withdrawn;hold held;run ran;write wrote written;"
-        "take took taken;speak spoke spoken;lay laid;sink sank sunk;"
-        "rise rose risen;bear bore borne;strike struck;bring brought;"
-        "buy bought;catch caught;teach taught;think thought;fight fought")
+_IRR = (
+        "bear bore borne;begin began begun;bind bound;bite bit bitten;"
+        "blow blew blown;break broke broken;bring brought;build built;"
+        "buy bought;catch caught;choose chose chosen;cling clung;"
+        "come came;creep crept;deal dealt;dig dug;draw drew drawn;"
+        "drink drank drunk;drive drove driven;eat ate eaten;fall fell fallen;"
+        "feed fed;feel felt;fight fought;find found;flee fled;fling flung;"
+        "fly flew flown;forget forgot forgotten;freeze froze frozen;"
+        "give gave given;grind ground;grow grew grown;hang hung;hear heard;"
+        "hide hid hidden;hold held;keep kept;know knew known;lay laid;"
+        "lead led;leave left;lend lent;lie lain;lose lost;mean meant;"
+        "meet met;pay paid;ride rode ridden;ring rang rung;rise rose risen;"
+        "run ran;say said;see saw seen;seek sought;sell sold;send sent;"
+        "shake shook shaken;shine shone;shoot shot;show showed shown;"
+        "shrink shrank shrunk;sing sang sung;sink sank sunk;sit sat;"
+        "sleep slept;slide slid;speak spoke spoken;spend spent;spin spun;"
+        "spring sprang sprung;stand stood;steal stole stolen;stick stuck;"
+        "sting stung;strike struck;swear swore sworn;sweep swept;"
+        "swim swam swum;swing swung;take took taken;teach taught;"
+        "tear tore torn;tell told;think thought;throw threw thrown;"
+        "tread trod trodden;understand understood;wear wore worn;"
+        "weave wove woven;win won;wind wound;withdraw withdrew withdrawn;"
+        "write wrote written"
+    )
 _W = {}
 for _w, _a in _g + _b:
     _W.setdefault(_w, set()).add(_a)
+# ★★ 三组逐词读过后判为「不是重复」，写明理由豁免 —— 不是一笔带过：
+#   bite(36「咬」) / bit(07「**比特**」)   —— **bit 是信息论的单位，与 bite 无关**
+#   hide(14「**兽皮**」) / hid(32「藏起」) —— **名词 hide 与动词 hide 是两个词**
+#   freeze(14「封冻」) / froze(37「**冻结申请**」) —— 冰情 vs 行政中止，义项分开
+# **豁免只针对这三对具体的形，不放宽判据本身**；换了别的词照样报。
+_EXEMPT = {("bite", "bit"), ("hide", "hid"), ("freeze", "froze")}
 _irrbad = []
 for _grp in _IRR.split(";"):
     _pres = [(f, _W[f]) for f in _grp.split() if f in _W]
@@ -872,7 +897,29 @@ for _grp in _IRR.split(";"):
     for _, _v in _pres:
         _ids |= _v
     if len(_pres) > 1 and len(_ids) > 1:
+        if frozenset(f for f, _ in _pres) in {frozenset(x) for x in _EXEMPT}:
+            continue
         _irrbad.append(_grp.split()[0])
+# ★★★ 第七层：篇内不规则变化（2026-08-20 加）
+# **VAL-05 查篇内重复，但它同样用词干化 —— 对不规则变化无效。**
+# 实测：**全库只有第22篇命中，而逐词读过后判为「不是重复」**：
+#   该篇正文实际加粗的是 **laid**（§1，lay-laid-laid，及物「提交」）
+#   与 **lain**（§5，lie-lay-lain，不及物「躺」）——**分属两个不同的动词**。
+#   速查表存的 lay / lie 是词根形，未占正文名额。
+# **★ 之所以会命中，是因为 lay 既是 lay 的原形、又是 lie 的过去式**——
+#   两组变位表在这个形上交叉。**判据必须能分开它们，否则以后每次都误报。**
+# 故本层只查**正文实际加粗的形**，不查速查表词根形。
+_IRR2 = _IRR   # ★ 两层共用同一张表 —— 否则一严一松，等于没查
+_inbad = []
+for _a in _all:
+    _bw = {w.lower() for p in _a["paras"] for w in _core.keywords(p["en"])}
+    for _grp in _IRR2.split(";"):
+        _f = [x for x in _grp.split() if x in _bw]
+        if len(set(_f)) > 1:
+            _inbad.append((_a["id"], _f))
+check("篇内不规则变化零重复", not _inbad,
+      "★ VAL-05 用词干化查篇内重复，对 grow/grew 这类无效 —— 须另立词表",
+      )
 check("不规则变化跨篇零重复", not _irrbad,
       "★ 词干化只削后缀，grow/grew/grown 一个都逮不住 —— 须另立词表查",
       )
