@@ -1214,6 +1214,41 @@ check("实测：tuck 被拦下（本篇已有 tucked）",
       "tuck" in _r4 and "本篇已用同词元" in _r4)
 check("实测：不撞的词仍放行", "pledged" in _r4 and "可用：" in _r4)
 
+
+# ── VAL-15 不规则变化重复（2026-09-01 立）───────────────────────
+# **同一形状的漏洞，第48篇是第三次暴露，这次补的是最后一道：**
+#   第47篇 wore → 补了 vet 的「不规则跨篇」；
+#   本轮 tuck → 补了 vet 的「篇内四层」；
+#   **而检察官（逐篇）仍在用词干化比，对 wear/wore 无效**——
+#   **第48篇实证：检察官报硬伤 0，而七层测试报 sworn 撞 swear。**
+#   **一篇能过逐篇检查、却过不了全库测试，逐篇那道就等于摆设。**
+# 现在三道网判据一致：**vet（写之前）／检察官 VAL-15（逐篇）／七层测试（封版）**。
+print("\n[VAL-15] 不规则变化重复")
+_ins = open(os.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read()
+check("VAL-15 已装进检察官", "VAL-15" in _ins and "_IRRG" in _ins)
+check("查跨篇也查篇内",
+      "第%s篇的 %s（同一动词）" in _ins and "本篇的 %s（同一动词）" in _ins)
+check("豁免表与七层测试逐字一致",
+      all(k in _ins for k in ("bite", "bit", "hide", "hid", "freeze", "froze"))
+      and "_EX15" in _ins,
+      "★ 两道网若豁免不同，等于又不一致")
+check("写明三道网的分工",
+      "一篇能过逐篇检查" in _ins or "逐篇那道等于摆设" in _ins
+      or "两道网的判据必须一致" in _ins)
+check("VAL-15 已挂铁律", bool(I.charter_of("VAL-15")))
+# 造一处真错：本篇内部同时出现同一动词的两个形（不依赖全库）
+_b15 = art(["He **wore** the coat all winter and had **worn** it the year before."],
+           ["他整个冬天都**穿**(wore)那件外衣，前一年也**穿过**(worn)。"])
+check("造错能逮住（篇内同一动词两形）",
+      "VAL-15" in ids(I.inspect(_b15, arts)[0]),
+      "wore 与 worn 是同一动词")
+# ★ 反例整句都不能含不规则动词的任一形 ——
+#   先试 kept（撞别篇 keep），再试保留 wore（它本身就撞第38篇 wear），两次都误判。
+#   **这说明反例难挑，恰恰证明这层网眼很密。**
+_g15 = art(["The **frayed** coat lasted the whole winter and never **split**."],
+           ["那件**磨破的**(frayed)外衣撑过了整个冬天，一直没**裂**(split)。"])
+check("不撞时不误报", "VAL-15" not in ids(I.inspect(_g15, arts)[0]))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

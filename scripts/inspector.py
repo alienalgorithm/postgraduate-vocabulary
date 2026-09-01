@@ -530,6 +530,73 @@ def inspect(a, archive):
             "**不规则变化的词频远低于原形**（show 5.68 → showed 4.86），"
             "于是原形明明是白送词、屈折形却能过线。**学习者背它等于没学到新词，换掉。**"))
 
+    # ── VAL-15 不规则变化跨篇/篇内重复（2026-09-01 立）─────────────────
+    # 立此层之由：**同一个形状的漏洞，第48篇是第三次暴露。**
+    #   检察官报第48篇「硬伤 0」，而 test_tools 的七层零重复测试报
+    #   **sworn(48篇) 撞 swear(39篇)**——**一篇能过逐篇检查，却过不了全库测试。**
+    # **病根：VAL-07/08 用词干化比，而词干化对 wear/wore、bear/bore 完全无效。**
+    # **两道网的判据必须一致，否则逐篇那道等于摆设**——
+    #   等到封版才被拦下，中间的写作与十三轮台账全要重来。
+    # 本层复用 VAL-14 已建的不规则动词表，查两件事：
+    #   **跨篇**：本篇某个加粗词，与别篇某个加粗词是同一动词的不同形；
+    #   **篇内**：本篇内部出现同一动词的两个形。
+    _IRRG = {}
+    for _grp in ("bear bore borne;begin began begun;bite bit bitten;"
+                 "blow blew blown;break broke broken;bring brought;build built;"
+                 "buy bought;catch caught;choose chose chosen;come came;dig dug;"
+                 "draw drew drawn;drink drank drunk;drive drove driven;"
+                 "eat ate eaten;fall fell fallen;feel felt;fight fought;"
+                 "find found;fly flew flown;forget forgot forgotten;"
+                 "freeze froze frozen;give gave given;grow grew grown;hang hung;"
+                 "hear heard;hide hid hidden;hold held;keep kept;know knew known;"
+                 "lay laid;lead led;leave left;lie lain;lose lost;mean meant;"
+                 "meet met;pay paid;ride rode ridden;rise rose risen;run ran;"
+                 "say said;see saw seen;seek sought;sell sold;send sent;"
+                 "shake shook shaken;shine shone;shoot shot;show showed shown;"
+                 "sing sang sung;sink sank sunk;sit sat;sleep slept;"
+                 "speak spoke spoken;spend spent;stand stood;steal stole stolen;"
+                 "stick stuck;strike struck;swear swore sworn;take took taken;"
+                 "teach taught;tear tore torn;tell told;think thought;"
+                 "throw threw thrown;wear wore worn;win won;wind wound;"
+                 "withdraw withdrew withdrawn;write wrote written").split(";"):
+        for _x in _grp.split():
+            _IRRG[_x] = _grp.split()
+    _mine = [w.lower() for p_ in paras for w in _kw(p_["en"])]
+    _others = {}
+    for _oa in (archive or []):
+        if _oa.get("id") == a.get("id"):
+            continue
+        for _p in _oa["paras"]:
+            for _w in _kw(_p["en"]):
+                _others.setdefault(_w.lower(), _oa["id"])
+    # ★★ 三对逐词读过后判为「不是重复」，写明理由豁免 —— 不是一笔带过：
+    #   bite(36「咬」) / bit(07「**比特**」)   —— bit 是信息论的单位，与 bite 无关
+    #   hide(14「**兽皮**」) / hid(32「藏起」) —— 名词 hide 与动词 hide 是两个词
+    #   freeze(14「封冻」) / froze(37「**冻结申请**」) —— 冰情 vs 行政中止，义项分开
+    # **与 test_tools 第六层的豁免表逐字一致**——两道网若豁免不同，等于又不一致。
+    _EX15 = {frozenset(("bite", "bit")), frozenset(("hide", "hid")),
+             frozenset(("freeze", "froze"))}
+    _v15 = []
+    for _w in _mine:
+        for _f in _IRRG.get(_w, ()):
+            if _f == _w:
+                continue
+            if frozenset((_w, _f)) in _EX15:
+                continue
+            if _f in _others:
+                _v15.append("%s ←→ 第%s篇的 %s（同一动词）"
+                            % (_w, _others[_f], _f))
+                break
+            if _f in _mine:
+                _v15.append("%s ←→ 本篇的 %s（同一动词）" % (_w, _f))
+                break
+    if _v15:
+        F.append(Finding("VAL-15", "词价", "hard", "不规则变化重复",
+            "、".join(dict.fromkeys(_v15)),
+            "**同一个动词的两个形，等于让学习者背两次**。"
+            "**词干化对 wear/wore、bear/bore 无效**，故另立词表——"
+            "第47篇 wore、第48篇 sworn 皆因此在封版时才被拦下"))
+
     # ── VAL-13 篇内词元重复（2026-08-20 立）──────────────────────────
     # 立此层之由：VAL-07 只查**跨篇**词元重复，**篇内只比表面形式**——
     # assay ≠ assayed、root ≠ roots，就这么放过去了。
