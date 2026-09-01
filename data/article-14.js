@@ -18,8 +18,8 @@
       },
       "paras": [
         {
-          "en": "Ice **crushed** the **vessel** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a victualling **manifest** — on Greenland's southwest **shore**. That **wreckage** had travelled frozen into the **drift**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
-          "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**船**(vessel)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**舱单**(manifest)。那些**残骸**(wreckage)是冻在**流冰**(drift)里漂过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
+          "en": "Ice **crushed** the **schooner** Jeannette off the New Siberian Islands in 1881. Three years later Inuit hunters found her **remnants** — **timber**, papers, a victualling **manifest** — on Greenland's southwest **shore**. That **wreckage** had travelled frozen into the **drift**. Henrik Mohn read a **flow** across the polar **basin**; Fridtjof Nansen would ride it.",
+          "zh": "1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**纵帆船**(schooner)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**舱单**(manifest)。那些**残骸**(wreckage)是冻在**流冰**(drift)里漂过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。"
         },
         {
           "en": "The **hull** had to survive being **gripped**. Colin Archer built Fram of **oak** up to seventy **centimetres** deep, **rounded** below and **sloping** at the flanks. Ordinary hulls gave the ice a flat wall to bite; Fram gave a **wedge**. As the **pack** closed, it **squeezed** her upward instead of **inward**, setting her down on top.",
@@ -34,8 +34,8 @@
           "zh": "漂流的**方位**(bearing)偏了：这条路线到不了北极点。1895年3月，南森与雅尔马·约翰森带着**哈士奇**(huskies)和**滑雪板**(skis)离船，抵达北纬86°13.6′——人类当时**最**(farthest)**靠北**(poleward)的立足点，比前纪录推进近三**度**(degrees)——随后折返。他们在一座石头与海象**皮**(hide)搭的**窝棚**(shelter)里**熬**(survived)了过来，1896年6月**凑巧**(fluke)走进了弗雷德里克·杰克逊的营地。"
         },
         {
-          "en": "Fram **emerged** near Svalbard that August; every man went home **alive**. The **dash** for the Pole had **failed**. But her **sounding** lines ran 3,300 to 3,900 **metres** where a **shallow** floor was expected, **exposing** a basin, and three years of records **charted** how Arctic ice moves. Fram means \"Forward\". She went **onward** by giving way.",
-          "zh": "当年8月，「前进」号在斯瓦尔巴附近**露**(emerged)出冰面；所有人都**活着**(alive)回了家。冲击北极点的那次**猛进**(dash)确实**失败**(failed)了。但她的**测深**(sounding)线在本该是**浅**(shallow)海底的地方量到3300至3900**米**(metres)，**揭出**(exposing)一个海盆；三年的记录也**绘出**(charted)了北极海冰如何移动。Fram意为「前进」。她是靠让步而**向前**(onward)的。"
+          "en": "Fram **emerged** near Svalbard that August; every man went home **alive**. The **dash** for the Pole had **failed**. But her **sounding** lines ran 3,300 to 3,900 **metres** where a **shoal** floor was expected, **exposing** a basin, and three years of records **charted** how Arctic ice moves. Fram means \"Forward\". She went **onward** by giving way.",
+          "zh": "当年8月，「前进」号在斯瓦尔巴附近**露**(emerged)出冰面；所有人都**活着**(alive)回了家。冲击北极点的那次**猛进**(dash)确实**失败**(failed)了。但她的**测深**(sounding)线在本该是**浅滩般的**(shoal)海底的地方量到3300至3900**米**(metres)，**揭出**(exposing)一个海盆；三年的记录也**绘出**(charted)了北极海冰如何移动。Fram意为「前进」。她是靠让步而**向前**(onward)的。"
         }
       ],
       "glossary": [
@@ -45,8 +45,8 @@
           "p": 1
         },
         {
-          "w": "vessel",
-          "zh": "船只",
+          "w": "schooner",
+          "zh": "纵帆船",
           "p": 1
         },
         {
@@ -270,8 +270,8 @@
           "p": 5
         },
         {
-          "w": "shallow",
-          "zh": "浅的",
+          "w": "shoal",
+          "zh": "浅滩",
           "p": 5
         },
         {

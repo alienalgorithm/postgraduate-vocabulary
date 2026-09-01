@@ -18,8 +18,8 @@
       },
       "paras": [
         {
-          "en": "On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **sails** set, 64 **bronze** cannon **mounted**. A **gust** laid her over to port; she righted; a second squall finished her. Water **poured** through her open gunports; she **foundered** after 1,300 metres. Thirty **drowned**.",
-          "zh": "1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(sails)只张了三面，64门**青铜**(bronze)炮**架**(mounted)在舷上。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。"
+          "en": "On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **canvases** set, 64 **bronze** cannon **mounted**. A **gust** laid her over to port; she righted; a second squall finished her. Water **poured** through her open gunports; she **foundered** after 1,300 metres. Thirty **drowned**.",
+          "zh": "1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(canvases)只张了三面，64门**青铜**(bronze)炮**架**(mounted)在舷上。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。"
         },
         {
           "en": "The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming **witnessed** a **stability** **rehearsal** on board: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; by three her roll turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.",
@@ -55,8 +55,8 @@
           "p": 1
         },
         {
-          "w": "sails",
-          "zh": "帆",
+          "w": "canvases",
+          "zh": "帆（复）；画布（复）",
           "p": 1
         },
         {

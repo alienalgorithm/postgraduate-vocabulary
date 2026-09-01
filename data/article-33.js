@@ -25,8 +25,8 @@
           "zh": "每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。"
         },
         {
-          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only a hundred and forty-four thousand **pounds** **tracked** distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.",
-          "zh": "1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百四十四千**镑**(pounds)是**随**(tracked)距离走的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。"
+          "en": "In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only a hundred and forty-four thousand **sterling** **tracked** distance; two hundred and eighty-two thousand did not. Spread over the **traffic**, **hauling** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.",
+          "zh": "1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有一百四十四千**英镑**(sterling)是**随**(tracked)距离走的；另外二十八万二千镑则与距离无关。摊到全部**信流**(traffic)上，**运送**(hauling)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。"
         },
         {
           "en": "The office charged thirteen pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. Prepayment **erased** the **bookkeeping**. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.",
@@ -214,8 +214,8 @@
           "p": 4
         },
         {
-          "w": "pounds",
-          "zh": "镑（复）",
+          "w": "sterling",
+          "zh": "英镑；纯银",
           "p": 4
         },
         {

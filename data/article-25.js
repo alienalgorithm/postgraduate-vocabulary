@@ -26,8 +26,8 @@
           "zh": "真正的**防线**(safeguard)发生在治疗之前。负责**入选资格**(eligibility)审核的专家组必须先接纳患者；只有完成这一步，试验**总部**(headquarters)才会打开下一只**编号的**(numbered)**信封**(envelope)。奥斯汀·布拉德福德·希尔已经利用随机数编好了**分配序列**(allotment)。研究人员和**协调员**(coordinator)都看不到它的顺序，因此无法凭借对下一次**分配结果**(allocation)的**预先知情**(foreknowledge)来影响患者**入组**(enrolment)。"
         },
         {
-          "en": "Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. Bacteriologists reading **sputum** **smears** and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.",
-          "zh": "病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂片**(smears)和**培养结果**(cultures)的细菌学家同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。"
+          "en": "Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. Bacteriologists reading **sputum** **films** and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.",
+          "zh": "病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂膜**(films)和**培养结果**(cultures)的细菌学家同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。"
         },
         {
           "en": "At six months, **mortality** was four of 55 in the streptomycin group versus 14 of 52 controls. The **radiological** readers scored considerable **improvement** in 28 treated patients against four controls. Yet **resistance** emerged as bacilli stopped **responding**; some gains proved **transient** and ended in **deterioration**. The drug had **efficacy**, but **follow-up** showed improved **survival** did not make monotherapy durable.",
@@ -170,8 +170,8 @@
           "p": 3
         },
         {
-          "w": "smears",
-          "zh": "涂片",
+          "w": "films",
+          "zh": "薄膜；涂膜",
           "p": 3
         },
         {

@@ -812,6 +812,46 @@ check("英文年份/中文时长不误报", "NUM-02" not in ids(I.inspect(_k2, a
       "★ 这是两边各自的惯例，不是失配")
 check("NUM-02 已挂铁律", bool(I.charter_of("NUM-02")))
 
+
+# ── 铁律第零条 · 全库五层零重复（2026-08-20 加）─────────────────
+# **用户两次追问「所有重点词前前后后有没有重复交叉」，这是铁律。**
+# VAL-05/07/08 逐篇查，但**没有一条测试从全库整体验过这件事**——本条补上。
+# **实测发现 5 组纯屈折跨篇**（pound/pounds、sailed/sails、shallows/shallow、
+#   smeared/smears、vessels/vessel）——**同一个词让学习者在两篇里背两次**，已全部改掉。
+print("\n[铁律第零条] 全库五层零重复")
+import agent as _AG
+_all = _AG.load()
+_g = [(x["w"].lower(), a["id"]) for a in _all for x in a["glossary"]]
+_b = [(w.lower(), a["id"]) for a in _all
+      for p in a["paras"] for w in _core.keywords(p["en"])]
+check("速查表词条原样零重复", len(_g) == len({w for w, _ in _g}),
+      "2150 条词条，去重后须仍是 2150")
+check("正文加粗表面形式零重复", len(_b) == len({w for w, _ in _b}),
+      "★ 这是学习者眼睛真正看到的那一层")
+check("篇内零重复",
+      all(len([w for p in a["paras"] for w in _core.keywords(p["en"])])
+          == len({w.lower() for p in a["paras"] for w in _core.keywords(p["en"])})
+          for a in _all))
+_n = {}
+for _w, _a in _g + _b:
+    _n.setdefault(_AG.norm(_w), set()).add(_a)
+check("归一化后跨篇零重复", not any(len(v) > 1 for v in _n.values()),
+      "去掉复数/时态的表层差异后再查一遍")
+_INFL = ("s", "es", "ed", "ing", "d")
+_st = {}
+for _w, _a in _g + _b:
+    _st.setdefault(_AG.stem(_w), set()).add((_w, _a))
+_pure = 0
+for _k, _v in _st.items():
+    if len({a for _, a in _v}) < 2:
+        continue
+    _f = sorted({w for w, _ in _v}, key=len)
+    if all(x == _f[0] or x[len(_f[0]):] in _INFL or x.rstrip("s") == _f[0].rstrip("s")
+           for x in _f):
+        _pure += 1
+check("纯屈折跨篇零重复", _pure == 0,
+      "★ vessel 与 vessels 是同一个词 —— 派生（survive/survival）不算，屈折算")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

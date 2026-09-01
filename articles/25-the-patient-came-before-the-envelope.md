@@ -13,7 +13,7 @@ In **postwar** Britain, streptomycin, a new **antibiotic**, was tightly **ration
 
 The **safeguard** came before treatment. An **eligibility** panel first accepted each patient; only then did the trial **headquarters** open the next **numbered** **envelope**. Austin Bradford Hill had prepared an **allotment** series from random numbers. Investigators and the **coordinator** could not see its order, so **foreknowledge** of **allocation** could not steer **enrolment**.
 
-Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. Bacteriologists reading **sputum** **smears** and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.
+Treatment was not blinded at the bedside: streptomycin required injections. Chest **radiographs** were taken **monthly**; three **specialists** later graded them **independently**, blind to treatment **assignments**. Bacteriologists reading **sputum** **films** and **cultures** were likewise **blinded**. Clinicians knew treatment; the **observers** judging outcomes did not.
 
 At six months, **mortality** was four of 55 in the streptomycin group versus 14 of 52 controls. The **radiological** readers scored considerable **improvement** in 28 treated patients against four controls. Yet **resistance** emerged as bacilli stopped **responding**; some gains proved **transient** and ended in **deterioration**. The drug had **efficacy**, but **follow-up** showed improved **survival** did not make monotherapy durable.
 
@@ -30,7 +30,7 @@ The trial was not the first to randomise. Its **methodological** **landmark** wa
 
 真正的**防线**(safeguard)发生在治疗之前。负责**入选资格**(eligibility)审核的专家组必须先接纳患者；只有完成这一步，试验**总部**(headquarters)才会打开下一只**编号的**(numbered)**信封**(envelope)。奥斯汀·布拉德福德·希尔已经利用随机数编好了**分配序列**(allotment)。研究人员和**协调员**(coordinator)都看不到它的顺序，因此无法凭借对下一次**分配结果**(allocation)的**预先知情**(foreknowledge)来影响患者**入组**(enrolment)。
 
-病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂片**(smears)和**培养结果**(cultures)的细菌学家同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。
+病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂膜**(films)和**培养结果**(cultures)的细菌学家同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。
 
 六个月后，链霉素组55人中死亡4人，对照组52人中死亡14人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组28人，对照组只有4人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。
 
@@ -44,7 +44,7 @@ The trial was not the first to randomise. Its **methodological** **landmark** wa
 
 **§2**（10词）safeguard 防线；保护措施｜eligibility 入选资格｜headquarters 总部｜numbered 编号的｜envelope 信封｜allotment 分配序列；分配｜coordinator 协调员｜foreknowledge 预先知情｜allocation 分配｜enrolment 入组；登记
 
-**§3**（10词）radiographs X光片（复）｜monthly 每月的；每月｜specialists 专家（复）｜independently 独立地｜assignments 分组；分配｜sputum 痰液｜smears 涂片｜cultures 培养物｜blinded 盲法处理的｜observers 评定者（复）
+**§3**（10词）radiographs X光片（复）｜monthly 每月的；每月｜specialists 专家（复）｜independently 独立地｜assignments 分组；分配｜sputum 痰液｜films 薄膜；涂膜｜cultures 培养物｜blinded 盲法处理的｜observers 评定者（复）
 
 **§4**（10词）mortality 死亡率｜radiological 影像学的｜improvement 改善；好转｜resistance 耐药性；抵抗｜responding 响应｜transient 短暂的｜deterioration 恶化｜efficacy 疗效｜follow-up 随访｜survival 生存；生存情况
 
