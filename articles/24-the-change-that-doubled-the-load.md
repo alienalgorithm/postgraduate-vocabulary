@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **atrium** of the Hyatt Regency in Kansas City gave way and **fell** onto a tea **dance** below. 114 died; 216 were **injured**. It **remains** the **deadliest** **structural** collapse in American history outside **wartime** or attack.
+At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **atrium** of the Hyatt Regency in Kansas City gave way and **plunged** onto a tea **dance** below. 114 died; 216 were **injured**. It **remains** the **deadliest** **structural** collapse in American history outside **wartime** or attack.
 
 Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **tier**'s worth.
 
@@ -26,7 +26,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1981年7月17日晚7点05分，堪萨斯城凯悦酒店**中庭**(atrium)里两条**悬空**(suspended)**天桥**(walkways)垮了下来，**砸**(fell)在下方正在进行的茶**舞会**(dance)上。114人死亡，216人**受伤**(injured)。这**至今仍是**(remains)美国历史上除**战时**(wartime)与袭击之外**最惨重的**(deadliest)**结构**(structural)垮塌。
+1981年7月17日晚7点05分，堪萨斯城凯悦酒店**中庭**(atrium)里两条**悬空**(suspended)**天桥**(walkways)垮了下来，**坠**(plunged)在下方正在进行的茶**舞会**(dance)上。114人死亡，216人**受伤**(injured)。这**至今仍是**(remains)美国历史上除**战时**(wartime)与袭击之外**最惨重的**(deadliest)**结构**(structural)垮塌。
 
 杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(tier)。
 
@@ -40,7 +40,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 ## 50 词速查表
 
-**§1**（10词）suspended 悬空的｜walkways 天桥（复）｜atrium 中庭｜fell 坠落；砸下｜dance 舞会｜injured 受伤的｜remains 至今仍是｜deadliest 最惨重的｜structural 结构的｜wartime 战时
+**§1**（10词）suspended 悬空的｜walkways 天桥（复）｜atrium 中庭｜plunged 坠落｜dance 舞会｜injured 受伤的｜remains 至今仍是｜deadliest 最惨重的｜structural 结构的｜wartime 战时
 
 **§2**（10词）specified 指定；写明｜rod 杆；拉杆｜hangers 吊杆（复）｜beam 梁｜fourth-floor 四层的｜downward 向下｜storey 层楼｜hung 悬挂（过去式）｜burden 担子；荷载｜tier 层
 

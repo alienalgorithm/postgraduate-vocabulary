@@ -17,7 +17,7 @@ The Royal Society **distrusted** any claim that weather could be **foretold**. F
 
 FitzRoy died in 1865. A **bench** sat to **scrutinise** the office. It **seated** men who **questioned** his **methods**, and no **ally** of his. It **advised** that forecasting be **shut** and the office keep to **logging** numbers. The last public forecast ran on 28 May 1866; the warnings **lapsed** on 7 December.
 
-Ports **petitioned**; the **Commons** heard the case **urged**. A new **warning** **flew** out on 10 January 1868 — thirteen months after the last. The forecast waited until 1879. That one **finding** stopped them **outright**, and the **lull** it left ran thirteen months on the water, thirteen years in the paper. One had been **relied** on; the other had only been **skimmed**.
+Ports **petitioned**; the **Commons** heard the case **urged**. A new **warning** **sped** out on 10 January 1868 — thirteen months after the last. The forecast waited until 1879. That one **finding** stopped them **outright**, and the **lull** it left ran thirteen months on the water, thirteen years in the paper. One had been **relied** on; the other had only been **skimmed**.
 
 ---
 
@@ -34,7 +34,7 @@ Ports **petitioned**; the **Commons** heard the case **urged**. A new **warning*
 
 菲茨罗伊1865年去世。一个**评审席**(bench)坐下来**细查**(scrutinise)这个机构。**坐**(seated)在上面的是那些**质疑**(questioned)他那套**方法**(methods)的人，没有一个是他的**同道**(ally)。评审席**建议**(advised)：预报业务一律**关停**(shut)，机构只**记**(logging)数字。最后一份公众预报刊于1866年5月28日；风暴预警在12月7日**停摆**(lapsed)。
 
-各港口**上书**(petitioned)，**下议院**(Commons)上有人**力陈**(urged)此事。1868年1月10日，一份新的**预警**(warning)**飞**(flew)了出去——距上一份十三个月。而那份公众预报，直到1879年才回来。评审席那**一纸**(finding)把两样**一并**(outright)停掉，而它留下的**空档**(lull)：在海上是十三个月，在报纸上是十三年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。
+各港口**上书**(petitioned)，**下议院**(Commons)上有人**力陈**(urged)此事。1868年1月10日，一份新的**预警**(warning)**疾驰**(sped)了出去——距上一份十三个月。而那份公众预报，直到1879年才回来。评审席那**一纸**(finding)把两样**一并**(outright)停掉，而它留下的**空档**(lull)：在海上是十三个月，在报纸上是十三年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。
 
 ---
 
@@ -48,7 +48,7 @@ Ports **petitioned**; the **Commons** heard the case **urged**. A new **warning*
 
 **§4**（10词）bench 评审席｜scrutinise 细查｜seated 安坐；就座｜questioned 质疑｜methods 方法（复）｜ally 同道；盟友｜advised 建议｜shut 关停｜logging 记录｜lapsed 停摆；失效
 
-**§5**（10词）petitioned 上书请愿｜commons 下议院｜urged 力陈；敦促｜warning 预警｜flew 飞出｜finding 裁断；结论｜outright 一并；彻底｜lull 间歇；空档｜relied 倚仗｜skimmed 略读
+**§5**（10词）petitioned 上书请愿｜commons 下议院｜urged 力陈；敦促｜warning 预警｜sped 疾驰｜finding 裁断；结论｜outright 一并；彻底｜lull 间歇；空档｜relied 倚仗｜skimmed 略读
 
 ---
 

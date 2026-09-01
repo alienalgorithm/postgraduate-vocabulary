@@ -39,8 +39,8 @@ window.SITE = {
         "zh": "死亡**区域**(zone)之内，一所收容535名**院民**(inmates)的**济贫院**(workhouse)有自己的**钻井**(borehole)，**记录在案**(recorded)的死亡只有五例。紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，因为工人的**配给**(supplied)是啤酒。两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；空气一模一样，水不是。"
       },
       {
-        "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **drank** the same bottle and died next day. Those two deaths **refute** the **miasma** by themselves. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.",
-        "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。"
+        "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **sipped** the same bottle and died next day. Those two deaths **refute** the **miasma** by themselves. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.",
+        "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。"
       },
       {
         "en": "On 8 September the **parish** **removed** the pump **handle**. **Diggers** later found the leaking **cesspit** two feet eight inches away. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, his **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.",
@@ -224,8 +224,8 @@ window.SITE = {
         "p": 4
       },
       {
-        "w": "drank",
-        "zh": "喝",
+        "w": "sipped",
+        "zh": "啜饮",
         "p": 4
       },
       {

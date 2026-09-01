@@ -11,7 +11,7 @@
 
 The English Crown **raised** money by **selling** life annuities. The price was seven times the **yearly** **payment**, whatever the **buyer's** age. A **lad** of ten and an **elderly** man **handed** over the same **sum**; the Crown counted the **inequity** as no concern of its own.
 
-Subscribers saw the **loophole**. They **nominated** the **youngest** lives — **infants**, often their own **offspring** — and the **Exchequer** **sold** at a loss it could not measure. That age **mattered** was **uncontested**. Nobody could put a **quantity** on how much it mattered, because nobody had a table of how long people lived.
+Subscribers saw the **loophole**. They **nominated** the **youngest** lives — **infants**, often their own **offspring** — and the **Exchequer** **dispensed** at a loss it could not measure. That age **mattered** was **uncontested**. Nobody could put a **quantity** on how much it mattered, because nobody had a table of how long people lived.
 
 John Graunt had **combed** the London bills of mortality in 1662. But London did not note the age of the dead, and would not for a hundred years. Halley had second **grounds**, in his own **wording**: London and Dublin were **swollen** by **strangers** who died there, **funerals** exceeding **births**, which **rendered** them **incapable** of being **standards**.
 
@@ -28,7 +28,7 @@ On 8 March 1693 he **submitted** the table to the Society; a week later, the **a
 
 英国王室靠**卖**(selling)终身年金**筹**(raised)钱。价钱是**年**(yearly)**付额**(payment)的七倍，不问**买家的**(buyer's)岁数。一个十岁的**少年**(lad)和一位**上了年纪的**(elderly)人**交**(handed)出同一笔**钱**(sum)，而王室把这中间的**不公**(inequity)当作与己无关。
 
-认购人看出了这个**空子**(loophole)。他们**指定**(nominated)**最年轻的**(youngest)人命——常常是自己的**婴孩**(infants)、自己的**子女**(offspring)——**国库**(Exchequer)就这样**卖**(sold)着，亏在哪里却算不出来。年龄**要紧**(mattered)，这**无人争辩**(uncontested)。可没人能给出一个**量**(quantity)，说清它到底要紧多少——因为没人手里有一张人能活多久的表。
+认购人看出了这个**空子**(loophole)。他们**指定**(nominated)**最年轻的**(youngest)人命——常常是自己的**婴孩**(infants)、自己的**子女**(offspring)——**国库**(Exchequer)就这样**发**(dispensed)着，亏在哪里却算不出来。年龄**要紧**(mattered)，这**无人争辩**(uncontested)。可没人能给出一个**量**(quantity)，说清它到底要紧多少——因为没人手里有一张人能活多久的表。
 
 1662年，约翰·格朗特**梳**(combed)过伦敦的死亡表。可伦敦不记死者的年龄，此后一百年也不记。哈雷另有一层**理由**(grounds)，用的是他自己的**措辞**(wording)：伦敦与都柏林被死在那里的**外来者**(strangers)**撑**(swollen)得虚胖，**葬礼**(funerals)多过**出生**(births)，这就**使**(rendered)它们**不配**(incapable)充当**标准**(standards)。
 
@@ -42,7 +42,7 @@ On 8 March 1693 he **submitted** the table to the Society; a week later, the **a
 
 **§1**（10词）raised 筹集｜selling 售卖｜yearly 每年的｜payment 付款额｜buyer's 买家的｜lad 少年｜elderly 上了年纪的｜handed 交出｜sum 一笔钱｜inequity 不公
 
-**§2**（10词）loophole 空子；漏洞｜nominated 指定｜youngest 最年轻的｜infants 婴孩（复）｜offspring 子女｜exchequer 国库｜sold 卖出｜mattered 要紧｜uncontested 无人争辩的｜quantity 量；数量
+**§2**（10词）loophole 空子；漏洞｜nominated 指定｜youngest 最年轻的｜infants 婴孩（复）｜offspring 子女｜exchequer 国库｜dispensed 发放；分发｜mattered 要紧｜uncontested 无人争辩的｜quantity 量；数量
 
 **§3**（10词）combed 梳理｜grounds 依据；理由｜wording 措辞｜swollen 胀大的｜strangers 外来者（复）｜funerals 葬礼（复）｜births 出生（复）｜rendered 使得｜incapable 不能胜任的｜standards 标准（复）
 

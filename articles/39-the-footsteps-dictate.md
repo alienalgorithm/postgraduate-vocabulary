@@ -15,7 +15,7 @@ When Keith Reid **sued** Dunn in 1962, the ground **recounted** another story: *
 
 The **doctrine** that **decides** such cases predates the case. What **controls** a **perimeter** is not the **numeral** on the diagram. It is the spot where the original surveyor **planted** his mark — even if he planted it **badly**, even if **dishonestly**. The plat is only **testament** to where he said he had **trodden**.
 
-So a peg is **deemed** lost only as a last **resort**, after every **vestige**, every blazed tree, every tenant's **affidavit** has been **drained**. A peg whose stone has **crumbled** is not lost if anyone alive can still **swear** where it **stood**. Only when nothing **survives** does the surveyor fall back on **calculus**.
+So a peg is **deemed** lost only as a last **resort**, after every **vestige**, every blazed tree, every tenant's **affidavit** has been **drained**. A peg whose stone has **crumbled** is not lost if anyone alive can still **swear** where it **perched**. Only when nothing **survives** does the surveyor fall back on **calculus**.
 
 That order is **purposeful**. **Calculation** is what the system **trusts** least, because arithmetic would move every **fence** and **hedge** in the district to where the numbers say it **belongs**. The **footsteps** **dictate**. The figures are a **chronicle** of the footsteps, and a chronicle can be wrong about the ground it **portrays**.
 
@@ -32,7 +32,7 @@ That order is **purposeful**. **Calculation** is what the system **trusts** leas
 
 **判**(decides)这类案子的那条**法理**(doctrine)，比这桩案子还老。**定**(controls)住一条**地界**(perimeter)的，不是图上那个**数**(numeral)。是当初测量员把标记**栽**(planted)下去的那个位置——哪怕他打得很**糟**(badly)，哪怕他打得**不老实**(dishonestly)。图只是他自称**踏足**(trodden)何处的**凭证**(testament)。
 
-所以一根桩要被**判**(deemed)为遗失，是最后一**着**(resort)：得先把每一处**痕迹**(vestige)、每一棵刻记号的树、每一位佃户的**证词**(affidavit)都**问**(drained)干净。石头**碎**(crumbled)了的桩不算遗失——只要还有活人能**发誓**(swear)说出它**立**(stood)在哪儿。只有当什么都不**剩**(survives)时，测量员才退回到**算术**(calculus)上。
+所以一根桩要被**判**(deemed)为遗失，是最后一**着**(resort)：得先把每一处**痕迹**(vestige)、每一棵刻记号的树、每一位佃户的**证词**(affidavit)都**问**(drained)干净。石头**碎**(crumbled)了的桩不算遗失——只要还有活人能**发誓**(swear)说出它**座落**(perched)在哪儿。只有当什么都不**剩**(survives)时，测量员才退回到**算术**(calculus)上。
 
 这个次序是**有意**(purposeful)排的。**算**(Calculation)恰恰是这套制度最不**信**(trusts)的东西，因为一算下去，全区的**围栏**(fence)与**篱笆**(hedge)都得挪到数字说它该**在**(belongs)的地方。**脚印**(footsteps)才**说了算**(dictate)。那些数目字不过是脚印的一份**记载**(chronicle)，而记载是可能记错它所**描述**(portrays)的那片地的。
 
@@ -46,7 +46,7 @@ That order is **purposeful**. **Calculation** is what the system **trusts** leas
 
 **§3**（10词）doctrine 法理；原则｜decides 判定；断定｜controls 决定；控制｜perimeter 周界；地界｜numeral 数字｜planted 栽下；安放｜badly 糟糕地｜dishonestly 不诚实地｜testament 凭证；证明｜trodden 踏足（过去分词）
 
-**§4**（10词）deemed 判定为｜resort 手段；下策｜vestige 痕迹｜affidavit 证词；宣誓书｜drained 抽干；问尽｜crumbled 碎裂｜swear 发誓｜stood 立于｜survives 留存｜calculus 算术；演算
+**§4**（10词）deemed 判定为｜resort 手段；下策｜vestige 痕迹｜affidavit 证词；宣誓书｜drained 抽干；问尽｜crumbled 碎裂｜swear 发誓｜perched 座落；栖｜survives 留存｜calculus 算术；演算
 
 **§5**（10词）purposeful 有意的｜calculation 计算｜trusts 信任｜fence 围栏｜hedge 篱笆｜belongs 属于｜footsteps 脚印（复）｜dictate 说了算；支配｜chronicle 记载；编年记｜portrays 描绘
 

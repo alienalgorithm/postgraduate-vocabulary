@@ -15,7 +15,7 @@ He set a **stroke** against each **address** on a chart of the **neighbourhood**
 
 A **workhouse** of 535 **inmates** inside the death **zone** had its own **borehole** and **recorded** five deaths. A **brewery** **beside** the pump lost nobody, since the men were **supplied** with beer. Both stood in the same **stench** as the tenements being **emptied** around them: same air, different water.
 
-Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **drank** the same bottle and died next day. Those two deaths **refute** the **miasma** by themselves. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.
+Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **sipped** the same bottle and died next day. Those two deaths **refute** the **miasma** by themselves. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.
 
 On 8 September the **parish** **removed** the pump **handle**. **Diggers** later found the leaking **cesspit** two feet eight inches away. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, his **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.
 
@@ -32,7 +32,7 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** later
 
 死亡**区域**(zone)之内，一所收容535名**院民**(inmates)的**济贫院**(workhouse)有自己的**钻井**(borehole)，**记录在案**(recorded)的死亡只有五例。紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，因为工人的**配给**(supplied)是啤酒。两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；空气一模一样，水不是。
 
-苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**喝**(drank)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。
+苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。
 
 9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。后来，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，他那个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。
 
@@ -46,7 +46,7 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** later
 
 **§3**（10词）workhouse 济贫院｜inmates 院民；被收容者｜zone 区域｜borehole 钻井｜recorded 记录在案｜brewery 酿酒厂｜beside 紧挨着｜supplied 供给；配给｜stench 恶臭｜emptied 清空
 
-**§4**（10词）widow 寡妇｜remote 远离的；偏远的｜taste 口感；味道｜delivered 送递｜niece 外甥女；侄女｜drank 喝｜refute 驳倒｜miasma 瘴气｜infection 传染｜anomalies 异常
+**§4**（10词）widow 寡妇｜remote 远离的；偏远的｜taste 口感；味道｜delivered 送递｜niece 外甥女；侄女｜sipped 啜饮｜refute 驳倒｜miasma 瘴气｜infection 传染｜anomalies 异常
 
 **§5**（10词）parish 教区｜removed 卸下｜handle 把手｜diggers 挖掘工｜cesspit 粪坑｜fading 消退｜accepted 接受｜profession 行当；职业｜unconvinced 不相信的｜certainty 确定性
 

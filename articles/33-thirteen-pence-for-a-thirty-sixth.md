@@ -11,7 +11,7 @@
 
 In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of Parliament sent their **correspondence** **exempt**, and the rest of the country **covered** the **deficit**.
 
-So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **meant** well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **stages** for nothing.
+So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **signified** well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **stages** for nothing.
 
 Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.
 
@@ -28,7 +28,7 @@ The office charged thirteen pence to move what cost a thirty-sixth of a penny. T
 
 1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信件**(correspondence)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。
 
-于是人们绕开这笔**邮资**(postage)。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**意味着**(meant)平安，画个圈是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百个**驿程**(stages)，一文没收到。
+于是人们绕开这笔**邮资**(postage)。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**表示**(signified)平安，画个圈是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百个**驿程**(stages)，一文没收到。
 
 每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。
 
@@ -42,7 +42,7 @@ The office charged thirteen pence to move what cost a thirty-sixth of a penny. T
 
 **§1**（10词）pence 便士（复）｜recipient 收信人；接受者｜servant 仆人｜shillings 先令（复）｜swallowed 吞掉｜wage 工钱｜correspondence 信件｜exempt 免征的；豁免的｜covered 补上；抵偿｜deficit 亏空
 
-**§2**（10词）postage 邮资｜writer 写信人｜arranged 约定；安排｜token 记号；信物｜meant 意味着｜peered 细看｜doorstep 门阶｜packet 邮件包｜hauled 拖运｜stages 驿程（复）
+**§2**（10词）postage 邮资｜writer 写信人｜arranged 约定；安排｜token 记号；信物｜signified 表示｜peered 细看｜doorstep 门阶｜packet 邮件包｜hauled 拖运｜stages 驿程（复）
 
 **§3**（10词）assumed 想当然地认为｜coach 马车｜mile 英里｜enquiry 调查｜evasion 逃费；规避｜produced produce 的过去式，造成｜hired 雇用｜lads 半大孩子（复）｜errands 差事（复）｜queried 追问
 

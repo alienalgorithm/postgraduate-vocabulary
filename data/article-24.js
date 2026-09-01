@@ -13,8 +13,8 @@
       "status": "第二十四篇定稿",
       "paras": [
         {
-          "en": "At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **atrium** of the Hyatt Regency in Kansas City gave way and **fell** onto a tea **dance** below. 114 died; 216 were **injured**. It **remains** the **deadliest** **structural** collapse in American history outside **wartime** or attack.",
-          "zh": "1981年7月17日晚7点05分，堪萨斯城凯悦酒店**中庭**(atrium)里两条**悬空**(suspended)**天桥**(walkways)垮了下来，**砸**(fell)在下方正在进行的茶**舞会**(dance)上。114人死亡，216人**受伤**(injured)。这**至今仍是**(remains)美国历史上除**战时**(wartime)与袭击之外**最惨重的**(deadliest)**结构**(structural)垮塌。"
+          "en": "At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **atrium** of the Hyatt Regency in Kansas City gave way and **plunged** onto a tea **dance** below. 114 died; 216 were **injured**. It **remains** the **deadliest** **structural** collapse in American history outside **wartime** or attack.",
+          "zh": "1981年7月17日晚7点05分，堪萨斯城凯悦酒店**中庭**(atrium)里两条**悬空**(suspended)**天桥**(walkways)垮了下来，**坠**(plunged)在下方正在进行的茶**舞会**(dance)上。114人死亡，216人**受伤**(injured)。这**至今仍是**(remains)美国历史上除**战时**(wartime)与袭击之外**最惨重的**(deadliest)**结构**(structural)垮塌。"
         },
         {
           "en": "Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **tier**'s worth.",
@@ -64,8 +64,8 @@
           "p": 1
         },
         {
-          "w": "fell",
-          "zh": "坠落；砸下",
+          "w": "plunged",
+          "zh": "坠落",
           "p": 1
         },
         {

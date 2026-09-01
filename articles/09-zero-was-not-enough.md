@@ -17,7 +17,7 @@ The method came from a **shortage**. In December 1966 William Foege took a radio
 
 A report triggered inquiry: isolate the sick, trace **contacts**, vaccinate those and theirs. Freeze-dried vaccine **withstood** 45°C, so tropical storage worked; a **bifurcated** needle **cradled** a **dose** between its prongs, brief **instruction** let a worker **pierce** the arm and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
 
-India was the hardest test: two-thirds of the **caseload** in 1974, its **chains** **broken** by 1975. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979, the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
+India was the hardest test: two-thirds of the **caseload** in 1974, its **chains** **ruptured** by 1975. A 1978 **laboratory** **leak** in Birmingham killed Janet Parker. A commission **certified** eradication in 1979, the Assembly **declared** it in 1980. Maalin died of malaria in 2013, campaigning against **polio**. Zero never proved smallpox had **vanished**; searching turned absence into evidence people could **rely** on.
 
 ---
 
@@ -34,7 +34,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗**耐得住**(withstood)45摄氏度，热带储运因此行得通；**双叉**(bifurcated)针的两齿之间正好**托**(cradled)住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
 
-最难的一关是印度：1974年它占了全世界**病例总量**(caseload)的三分之二；到1975年5月，它的传播**链**(chains)被**切断**(broken)。1978年伯明翰一次**实验室**(laboratory)**泄漏**(leak)夺走了珍妮特·帕克的命。1979年一个委员会**认证**(certified)根除，1980年5月世界卫生大会正式**宣布**(declared)。马阿林2013年死于疟疾，当时他正在为消灭**脊灰**(polio)奔走。零从来不能证明天花已经**消失**(vanished)；是搜寻把「没有」变成了人们可以**依靠**(rely)的证据。
+最难的一关是印度：1974年它占了全世界**病例总量**(caseload)的三分之二；到1975年5月，它的传播**链**(chains)被**切断**(ruptured)。1978年伯明翰一次**实验室**(laboratory)**泄漏**(leak)夺走了珍妮特·帕克的命。1979年一个委员会**认证**(certified)根除，1980年5月世界卫生大会正式**宣布**(declared)。马阿林2013年死于疟疾，当时他正在为消灭**脊灰**(polio)奔走。零从来不能证明天花已经**消失**(vanished)；是搜寻把「没有」变成了人们可以**依靠**(rely)的证据。
 
 ---
 
@@ -48,7 +48,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 **§4**（10词）contacts 接触者（复）｜withstood 耐住；顶住｜bifurcated 双叉的｜cradled 托住；轻捧｜dose 剂量｜instruction 培训；指示｜pierce 刺入｜scarce 紧缺的｜silent 不声不响的｜incubation 潜伏期
 
-**§5**（10词）caseload 病例总量｜chains 链｜broken 切断｜laboratory 实验室｜leak 泄漏｜certified 认证｜declared 宣布｜polio 脊髓灰质炎｜vanished 消失｜rely 依靠
+**§5**（10词）caseload 病例总量｜chains 链｜ruptured 断裂；切断｜laboratory 实验室｜leak 泄漏｜certified 认证｜declared 宣布｜polio 脊髓灰质炎｜vanished 消失｜rely 依靠
 
 ---
 

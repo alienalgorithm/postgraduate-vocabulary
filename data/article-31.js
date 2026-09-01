@@ -17,8 +17,8 @@
           "zh": "1935年12月4日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可**脓毒症**(sepsis)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**配**(concocted)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。"
         },
         {
-          "en": "Gerhard Domagk had **shown** in 1932 that the dye **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.",
-          "zh": "格哈德·多马克1932年就**证明**(shown)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
+          "en": "Gerhard Domagk had **proven** in 1932 that the dye **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.",
+          "zh": "格哈德·多马克1932年就**证明**(proven)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
         },
         {
           "en": "In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.",
@@ -99,7 +99,7 @@
           "p": 1
         },
         {
-          "w": "shown",
+          "w": "proven",
           "zh": "证明（过去分词）",
           "p": 2
         },

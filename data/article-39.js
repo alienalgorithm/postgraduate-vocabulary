@@ -25,8 +25,8 @@
           "zh": "**判**(decides)这类案子的那条**法理**(doctrine)，比这桩案子还老。**定**(controls)住一条**地界**(perimeter)的，不是图上那个**数**(numeral)。是当初测量员把标记**栽**(planted)下去的那个位置——哪怕他打得很**糟**(badly)，哪怕他打得**不老实**(dishonestly)。图只是他自称**踏足**(trodden)何处的**凭证**(testament)。"
         },
         {
-          "en": "So a peg is **deemed** lost only as a last **resort**, after every **vestige**, every blazed tree, every tenant's **affidavit** has been **drained**. A peg whose stone has **crumbled** is not lost if anyone alive can still **swear** where it **stood**. Only when nothing **survives** does the surveyor fall back on **calculus**.",
-          "zh": "所以一根桩要被**判**(deemed)为遗失，是最后一**着**(resort)：得先把每一处**痕迹**(vestige)、每一棵刻记号的树、每一位佃户的**证词**(affidavit)都**问**(drained)干净。石头**碎**(crumbled)了的桩不算遗失——只要还有活人能**发誓**(swear)说出它**立**(stood)在哪儿。只有当什么都不**剩**(survives)时，测量员才退回到**算术**(calculus)上。"
+          "en": "So a peg is **deemed** lost only as a last **resort**, after every **vestige**, every blazed tree, every tenant's **affidavit** has been **drained**. A peg whose stone has **crumbled** is not lost if anyone alive can still **swear** where it **perched**. Only when nothing **survives** does the surveyor fall back on **calculus**.",
+          "zh": "所以一根桩要被**判**(deemed)为遗失，是最后一**着**(resort)：得先把每一处**痕迹**(vestige)、每一棵刻记号的树、每一位佃户的**证词**(affidavit)都**问**(drained)干净。石头**碎**(crumbled)了的桩不算遗失——只要还有活人能**发誓**(swear)说出它**座落**(perched)在哪儿。只有当什么都不**剩**(survives)时，测量员才退回到**算术**(calculus)上。"
         },
         {
           "en": "That order is **purposeful**. **Calculation** is what the system **trusts** least, because arithmetic would move every **fence** and **hedge** in the district to where the numbers say it **belongs**. The **footsteps** **dictate**. The figures are a **chronicle** of the footsteps, and a chronicle can be wrong about the ground it **portrays**.",
@@ -232,8 +232,8 @@
           "p": 4
         },
         {
-          "w": "stood",
-          "zh": "立于",
+          "w": "perched",
+          "zh": "座落；栖",
           "p": 4
         },
         {

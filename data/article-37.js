@@ -21,8 +21,8 @@
           "zh": "可这两个号码来自现金**登记簿**(blotter)——它**记**(noted)的是费用**入账**(booked)的先后，不是谁先**走进**(walked)门。格雷的**费**(fee)是那天**黄昏**(dusk)时分才记上的，而预告书本身**要到**(till)第二天才送到**审查员**(assessor)手里。那个**工作日**(weekday)贝尔人在波士顿，三百英里**之外**(distant)。他直到二十六日才听说这一切。"
         },
         {
-          "en": "On 19 February the assessor Zenas Wilber held both papers. Both **asserted** **fluctuating** impedance; both **spoke** of **transmitting** speech. Yet he **froze** Bell's application for ninety days. Bell came **southward**; Wilber **pointed** at the words, his lawyer **recast** them, and the **privilege** came on 7 March. Wilber **owed** money to Marcellus Bailey, Bell's attorney.",
-          "zh": "2月19日，审查员泽纳斯·威尔伯手里同时压着这两份文件。两份都**主张**(asserted)**起伏的**(fluctuating)阻抗，都**讲**(spoke)到**传送**(transmitting)语音。可他偏偏**冻结**(froze)了贝尔的申请九十天。贝尔**南下**(southward)而来；威尔伯**指**(pointed)了指那几个字，他的律师**重写**(recast)了措辞，**专利权**(privilege)3月7日就下来了。威尔伯**欠**(owed)着贝尔代理人马塞勒斯·贝利的钱。"
+          "en": "On 19 February the assessor Zenas Wilber held both papers. Both **asserted** **fluctuating** impedance; both **voiced** the **transmitting** speech. Yet he **froze** Bell's application for ninety days. Bell came **southward**; Wilber **pointed** at the words, his lawyer **recast** them, and the **privilege** came on 7 March. Wilber **owed** money to Marcellus Bailey, Bell's attorney.",
+          "zh": "2月19日，审查员泽纳斯·威尔伯手里同时压着这两份文件。两份都**主张**(asserted)**起伏的**(fluctuating)阻抗，都**言及**(voiced)**传送**(transmitting)语音。可他偏偏**冻结**(froze)了贝尔的申请九十天。贝尔**南下**(southward)而来；威尔伯**指**(pointed)了指那几个字，他的律师**重写**(recast)了措辞，**专利权**(privilege)3月7日就下来了。威尔伯**欠**(owed)着贝尔代理人马塞勒斯·贝利的钱。"
         },
         {
           "en": "Gray **drafted** his liquid transmitter on 11 February, a **membrane** and a wire in **brine**. Bell drafted his on 9 March, twenty-four days after **filing** the paper that was to **convey** it. Seven **sentences** and a fourth **plea** sit **cramped** on the **verge** of Bell's **draft**, not in its body.",
@@ -158,8 +158,8 @@
           "p": 3
         },
         {
-          "w": "spoke",
-          "zh": "讲；说",
+          "w": "voiced",
+          "zh": "言及；说出",
           "p": 3
         },
         {

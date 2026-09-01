@@ -444,6 +444,60 @@ def inspect(a, archive):
             "**这一条的释义是相邻那条的意思——学习者查表会查到别的词。**"
             "正文括注是对的，**只改速查表的 zh，绝不整表重建**（铁律红线四）"))
 
+    # ── VAL-14 屈折形绕过白送词/初中词检查（2026-08-20 立）─────────────
+    # 立此层之由：**VAL-02h 查白送词、VAL-12 查初中词，查的都是「加粗的那个表面形」。**
+    # 而**不规则变化的词频远低于原形**：run 5.49→ran 4.87、show 5.68→showed 4.86、
+    # keep 5.66→kept 5.00。**原形是白送词，屈折形却能过 5.0 这条线——这是个漏洞。**
+    # **先量 · 判据废掉一个才定住**：
+    #   ①「凡屈折形的原形是白送词就报」→ 126 处，**误收 processing／readings／numbering**
+    #     ——**它们是动名词或名词化，词性变了，是独立词条。**
+    #   定住的形状：**只查不规则变化**（drank/broken/fell/shown…）——**词性必然不变，
+    #     学的还是同一个基本词。** 规则的 -ed/-ing/-s 一律不报。
+    _IRRB = {}
+    for _grp in ("bear bore borne;begin began begun;bite bit bitten;"
+                 "blow blew blown;break broke broken;bring brought;build built;"
+                 "buy bought;catch caught;choose chose chosen;come came;dig dug;"
+                 "draw drew drawn;drink drank drunk;drive drove driven;"
+                 "eat ate eaten;fall fell fallen;feel felt;fight fought;"
+                 "find found;fly flew flown;forget forgot forgotten;"
+                 "freeze froze frozen;give gave given;grow grew grown;hang hung;"
+                 "hear heard;hide hid hidden;hold held;keep kept;know knew known;"
+                 "lay laid;lead led;leave left;lie lain;lose lost;mean meant;"
+                 "meet met;pay paid;ride rode ridden;ring rang rung;"
+                 "rise rose risen;run ran;say said;see saw seen;seek sought;"
+                 "sell sold;send sent;shake shook shaken;shine shone;shoot shot;"
+                 "show showed shown;sing sang sung;sink sank sunk;sit sat;"
+                 "sleep slept;speak spoke spoken;spend spent;stand stood;"
+                 "steal stole stolen;stick stuck;strike struck;swear swore sworn;"
+                 "take took taken;teach taught;tear tore torn;tell told;"
+                 "think thought;throw threw thrown;wear wore worn;win won;"
+                 "withdraw withdrew withdrawn;write wrote written").split(";"):
+        _f = _grp.split()
+        for _x in _f[1:]:
+            _IRRB[_x] = _f[0]
+    _b14 = set()
+    _bp14 = os.path.join(ROOT, "data/reference/basic-wordlist.txt")
+    if os.path.exists(_bp14):
+        for _ln in open(_bp14, encoding="utf-8"):
+            if _ln.strip() and not _ln.startswith("#"):
+                _b14.update(_ln.split())
+    _v14 = []
+    for _w in [x for p_ in paras for x in _kw(p_["en"])]:
+        _wl = _w.lower()
+        _base = _IRRB.get(_wl)
+        if not _base or not HAVE_WF:
+            continue
+        _zb, _zw = zipf_frequency(_base, "en"), zipf_frequency(_wl, "en")
+        if _zb >= 5.0 and _zw < 5.0:
+            _v14.append(f"{_w}（原形 {_base} 是白送词 {_zb:.2f}）")
+        elif _base in _b14 and _wl not in _b14:
+            _v14.append(f"{_w}（原形 {_base} 在初中词表）")
+    if _v14:
+        F.append(Finding("VAL-14", "词价", "hard", "屈折形绕过白送词/初中词检查",
+            "、".join(_v14),
+            "**不规则变化的词频远低于原形**（show 5.68 → showed 4.86），"
+            "于是原形明明是白送词、屈折形却能过线。**学习者背它等于没学到新词，换掉。**"))
+
     # ── VAL-13 篇内词元重复（2026-08-20 立）──────────────────────────
     # 立此层之由：VAL-07 只查**跨篇**词元重复，**篇内只比表面形式**——
     # assay ≠ assayed、root ≠ roots，就这么放过去了。

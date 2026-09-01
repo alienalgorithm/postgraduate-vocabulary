@@ -926,6 +926,35 @@ check("不规则变化跨篇零重复", not _irrbad,
 check("纯屈折跨篇零重复", _pure == 0,
       "★ vessel 与 vessels 是同一个词 —— 派生（survive/survival）不算，屈折算")
 
+
+# ── VAL-14 屈折形绕过白送词/初中词检查（2026-08-20 立）──────────
+# 立此层之由：**VAL-02h 查白送词、VAL-12 查初中词，查的都是「加粗的那个表面形」。**
+# 而**不规则变化的词频远低于原形**：run 5.49→ran 4.87、show 5.68→showed 4.86、
+#   keep 5.66→kept 5.00。**原形是白送词，屈折形却能过 5.0 这条线。**
+# **判据废掉一个才定住**：
+#   ①「凡屈折形的原形是白送词就报」→ 126 处，**误收 processing／readings／numbering**
+#     ——它们是动名词或名词化，**词性变了，是独立词条**。
+#   定住的形状：**只查不规则变化**——词性必然不变，学的还是同一个基本词。
+# **实测查出 11 处并全部改掉**：drank／broken／fell／shown／rode／meant／sold／
+#   flew／spoke／stood／taught。
+print("\n[VAL-14] 屈折形绕过白送词/初中词检查")
+_bad14 = art(["The niece **drank** the same bottle and died the next day."],
+             ["外甥女**喝**(drank)了同一瓶水，第二天也死了。"],
+             gloss=[{"w": "drank", "zh": "喝", "p": 1}])
+check("屈折形绕过 → VAL-14", "VAL-14" in ids(I.inspect(_bad14, arts)[0]),
+      "drank 3.95 过了线，而原形 drink 在初中词表")
+_ok14 = art(["The niece **sipped** the same bottle and died the next day."],
+            ["外甥女**啜**(sipped)了同一瓶水，第二天也死了。"],
+            gloss=[{"w": "sipped", "zh": "啜饮", "p": 1}])
+check("换掉后不再报", "VAL-14" not in ids(I.inspect(_ok14, arts)[0]))
+_dv14 = art(["Its **processing** flagged **readings** under 180 Dobson units."],
+            ["它的**数据处理**(processing)会把低于180单位的**读数**(readings)标出来。"],
+            gloss=[{"w": "processing", "zh": "数据处理", "p": 1},
+                   {"w": "readings", "zh": "读数", "p": 1}])
+check("派生不误报", "VAL-14" not in ids(I.inspect(_dv14, arts)[0]),
+      "★ processing／readings 是名词化，词性变了，是独立词条")
+check("VAL-14 已挂铁律", bool(I.charter_of("VAL-14")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

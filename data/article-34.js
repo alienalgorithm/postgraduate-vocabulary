@@ -17,8 +17,8 @@
           "zh": "英国王室靠**卖**(selling)终身年金**筹**(raised)钱。价钱是**年**(yearly)**付额**(payment)的七倍，不问**买家的**(buyer's)岁数。一个十岁的**少年**(lad)和一位**上了年纪的**(elderly)人**交**(handed)出同一笔**钱**(sum)，而王室把这中间的**不公**(inequity)当作与己无关。"
         },
         {
-          "en": "Subscribers saw the **loophole**. They **nominated** the **youngest** lives — **infants**, often their own **offspring** — and the **Exchequer** **sold** at a loss it could not measure. That age **mattered** was **uncontested**. Nobody could put a **quantity** on how much it mattered, because nobody had a table of how long people lived.",
-          "zh": "认购人看出了这个**空子**(loophole)。他们**指定**(nominated)**最年轻的**(youngest)人命——常常是自己的**婴孩**(infants)、自己的**子女**(offspring)——**国库**(Exchequer)就这样**卖**(sold)着，亏在哪里却算不出来。年龄**要紧**(mattered)，这**无人争辩**(uncontested)。可没人能给出一个**量**(quantity)，说清它到底要紧多少——因为没人手里有一张人能活多久的表。"
+          "en": "Subscribers saw the **loophole**. They **nominated** the **youngest** lives — **infants**, often their own **offspring** — and the **Exchequer** **dispensed** at a loss it could not measure. That age **mattered** was **uncontested**. Nobody could put a **quantity** on how much it mattered, because nobody had a table of how long people lived.",
+          "zh": "认购人看出了这个**空子**(loophole)。他们**指定**(nominated)**最年轻的**(youngest)人命——常常是自己的**婴孩**(infants)、自己的**子女**(offspring)——**国库**(Exchequer)就这样**发**(dispensed)着，亏在哪里却算不出来。年龄**要紧**(mattered)，这**无人争辩**(uncontested)。可没人能给出一个**量**(quantity)，说清它到底要紧多少——因为没人手里有一张人能活多久的表。"
         },
         {
           "en": "John Graunt had **combed** the London bills of mortality in 1662. But London did not note the age of the dead, and would not for a hundred years. Halley had second **grounds**, in his own **wording**: London and Dublin were **swollen** by **strangers** who died there, **funerals** exceeding **births**, which **rendered** them **incapable** of being **standards**.",
@@ -129,8 +129,8 @@
           "p": 2
         },
         {
-          "w": "sold",
-          "zh": "卖出",
+          "w": "dispensed",
+          "zh": "发放；分发",
           "p": 2
         },
         {

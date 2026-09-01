@@ -29,8 +29,8 @@
           "zh": "**定局**(clinched)的是学校。1904年，29所**有组织的**(organised)学校里只有6所以希伯来语**授课**(schooling)。到1914年，约60所**机构**(institutions)把它当作唯一**媒介**(vehicle)。两个年份之间隔着一场**语言**(languages)之战，1913年12月12日方才了结：海法那所工科学校的**出资方**(backers)**投票**(voted)选了德语，**借口**(pretext)是希伯来语没有工程学的**词库**(lexicon)。"
         },
         {
-          "en": "The objection was correct. Hebrew had no **noun** for a **boiler**, and Ben-Yehuda spent his life **minting** them — some 8,000 **entries** across 17 volumes. But the answer was not his **resolve**, nor his **dictionary** **solely**. A language **revives** when children are **taught** in it and have nothing else to **recede** to.",
-          "zh": "这个反对意见是对的。希伯来语确实没有「**锅炉**(boiler)」这个**名**(noun)，而本-耶胡达一辈子都在**铸造**(minting)它们——17卷里约8,000个**词条**(entries)。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是他那部**词典**(dictionary)。一门语言**活转**(revives)过来，是在孩子们被用它**教**(taught)大、且再无别处可**退**(recede)之时。"
+          "en": "The objection was correct. Hebrew had no **noun** for a **boiler**, and Ben-Yehuda spent his life **minting** them — some 8,000 **entries** across 17 volumes. But the answer was not his **resolve**, nor his **dictionary** **solely**. A language **revives** when children are **schooled** in it and have nothing else to **recede** to.",
+          "zh": "这个反对意见是对的。希伯来语确实没有「**锅炉**(boiler)」这个**名**(noun)，而本-耶胡达一辈子都在**铸造**(minting)它们——17卷里约8,000个**词条**(entries)。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是他那部**词典**(dictionary)。一门语言**活转**(revives)过来，是在孩子们被用它**教养**(schooled)大、且再无别处可**退**(recede)之时。"
         }
       ],
       "facts": [
@@ -288,8 +288,8 @@
           "p": 5
         },
         {
-          "w": "taught",
-          "zh": "教",
+          "w": "schooled",
+          "zh": "教养；训练",
           "p": 5
         },
         {
