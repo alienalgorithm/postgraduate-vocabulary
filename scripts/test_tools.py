@@ -1005,6 +1005,31 @@ check("明写回扫仍须人判", "机器不替人下结论" in _ck)
 check("说清「不把问题拖到 preflight 那一刻」",
       "不把问题拖到 preflight" in _ck)
 
+
+# ── 《总令》须提到每一件工具（2026-09-01 立）───────────────────
+# **立此测试之由**：本会话新建了 swap.py／check.py／coldread.py／render_charter.py
+#   与 agent.py vet 五件工具，而**《总令》里 swap.py、check.py、vet 一次都没提**。
+# **下一次会话开局读的是《总令》——它没写，这一整场的东西对下一个人就不存在，
+#   那 25 次自伤会原样再来一遍。**
+# 规则（NUM-01/VAL-14…）不必写进总令：**它们装在检察官里，自己会报**；
+# **但工具不会自己跳出来说「我在这儿」，必须写。**
+print("\n[总令] 须提到每一件工具")
+_ch2 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+_scripts = sorted(f for f in os.listdir(os.path.join(ROOT, "scripts"))
+                  if f.endswith((".py", ".js")) and not f.startswith("_")
+                  and f not in ("core.py", "export_one.py", "test_tools.py",
+                                "audit_ledger.py"))
+_missing = [f for f in _scripts if f not in _ch2]
+check("每一件工具都在《总令》里出现过", not _missing,
+      "缺：%s —— **工具不会自己跳出来说「我在这儿」**" % "、".join(_missing))
+check("swap.py 写明「任一步不过则整体不落盘」",
+      "整体不落盘" in _ch2)
+check("check.py 写明「默认查全库」",
+      "默认查全库" in _ch2,
+      "★ 改一篇常会碰坏另一篇")
+check("agent vet 写明「跑了的零失手，没跑的当场栽」",
+      "跑了 vet 的零失手" in _ch2)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
