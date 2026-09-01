@@ -13,8 +13,8 @@
       "status": "第四十七篇定稿",
       "paras": [
         {
-          "en": "For 157 years Cambridge ranked its mathematical results by **desert**. The man who **topped** it was called Senior Wrangler. Until 1850 the paper was **obligatory** even for men reading **classics**. Maxwell, Kelvin and Cayley all sat it. That **placing** counted as the highest **intellect**ual **prize** in the country; a man **placed** **twelfth** **wore** it for life.",
-          "zh": "一百五十七年间，剑桥的数学成绩按**优劣**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**排**(placed)在**第十二**(twelfth)的人，一辈子都**戴**(wore)着它。"
+          "en": "For 157 years Cambridge ranked its mathematical results by **desert**. The man who **topped** it was called Senior Wrangler. Until 1850 the paper was **obligatory** even for men reading **classics**. Maxwell, Kelvin and Cayley all sat it. That **placing** counted as the highest **intellect**ual **prize** in the country; a man **placed** **twelfth** **retained** it for life.",
+          "zh": "一百五十七年间，剑桥的数学成绩按**优劣**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**排**(placed)在**第十二**(twelfth)的人，一辈子都**保住**(retained)着它。"
         },
         {
           "en": "Hardy sat the paper in 1898. He wrote afterwards that when the examination stood at the **apex** of its difficulty and **renown**, English mathematical **prowess** sat in its **deepest** **trough**. The **heyday** of the paper and the **flowering** of the **subject** moved in **opposite** directions across the **nineteenth** century.",
@@ -94,8 +94,8 @@
           "p": 1
         },
         {
-          "w": "wore",
-          "zh": "穿戴；佩着",
+          "w": "retained",
+          "zh": "保有；留住",
           "p": 1
         },
         {

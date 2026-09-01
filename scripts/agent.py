@@ -370,6 +370,26 @@ def audit(arts, ids=None):
         print(f"\n共 {n} 题。逐题作答后，把结论写进 notes/审读记录.md。")
         print("判据：改一处若要牺牲另一处（论证、中文、词价、指标），即为临界点，停手。")
 
+_IRR_GRP = {}
+for _g in ("bear bore borne;begin began begun;bite bit bitten;blow blew blown;"
+        "break broke broken;bring brought;build built;buy bought;"
+        "catch caught;choose chose chosen;come came;dig dug;draw drew drawn;"
+        "drink drank drunk;drive drove driven;eat ate eaten;fall fell fallen;"
+        "feel felt;fight fought;find found;fly flew flown;forget forgot forgotten;"
+        "freeze froze frozen;give gave given;grow grew grown;hang hung;"
+        "hear heard;hide hid hidden;hold held;keep kept;know knew known;"
+        "lay laid;lead led;leave left;lie lain;lose lost;mean meant;meet met;"
+        "pay paid;ride rode ridden;rise rose risen;run ran;say said;see saw seen;"
+        "seek sought;sell sold;send sent;shake shook shaken;shine shone;"
+        "shoot shot;show showed shown;sing sang sung;sink sank sunk;sit sat;"
+        "sleep slept;speak spoke spoken;spend spent;stand stood;steal stole stolen;"
+        "stick stuck;strike struck;take took taken;teach taught;tear tore torn;"
+        "tell told;think thought;throw threw thrown;wear wore worn;win won;"
+        "withdraw withdrew withdrawn;write wrote written").split(";"):
+    for _x in _g.split():
+        _IRR_GRP[_x] = _g.split()
+
+
 def vet(arts, aid, words):
     """补名额前核验候选词 —— 一次给出全部否决理由。
 
@@ -418,6 +438,16 @@ def vet(arts, aid, words):
             k = [x for x in exact if kin(wl, x)]
             if k:
                 why.append("与第%s篇同根（%s）" % (_who(k[0]), k[0]))
+        # ★★ 不规则变化跨篇（2026-09-01 补）—— **这是 vet 的一个真漏洞。**
+        # 第47篇换 borne→wore 时，**vet 放行了 wore，而它与第38篇的 wear 是同一动词**，
+        # 靠封版时的「七层零重复」测试才逮住。
+        # **vet 原先只查同形／同词元／同根，而词干化对 wear/wore、bear/bore 完全无效。**
+        # **一个词在这里放行、到封版才被拦下，等于白跑一趟 vet。**
+        for _f in _IRR_GRP.get(wl, ()):
+            if _f != wl and norm(_f) in exact:
+                why.append("与第%s篇的 %s 是同一动词（不规则变化）"
+                           % (_who(norm(_f)), _f))
+                break
         if why:
             print("  ✗ %-16s %s" % (w, "／".join(why)))
         else:

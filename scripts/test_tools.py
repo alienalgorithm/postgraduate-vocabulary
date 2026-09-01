@@ -1169,6 +1169,27 @@ check("写明只算长度、不管论证",
 _ch5 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
 check("《总令》写明要挪句先跑它", "movecheck.py" in _ch5)
 
+
+# ── vet 补上不规则变化跨篇（2026-09-01）─────────────────────────
+# **这是 vet 的一个真漏洞，写第47篇时暴露出来。**
+#   换 borne→wore 时 **vet 放行了 wore，而它与第38篇的 wear 是同一动词**——
+#   **靠封版时的「七层零重复」测试才逮住，等于白跑一趟 vet。**
+#   病根：**vet 原先只查同形／同词元／同根，而词干化对 wear/wore、bear/bore 完全无效。**
+# **★ 而我给这个补丁打了三次才装上**：前两次 str_replace 断言失败、
+#   我却没核实就往下走 —— **改完不核实，等于没改。**
+print("\n[vet] 不规则变化跨篇")
+_ag3 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("vet 里有不规则动词组表", "_IRR_GRP" in _ag3)
+check("接进了 why 的判断链", "是同一动词（不规则变化）" in _ag3)
+check("写明这是真漏洞及其来历",
+      "靠封版时的" in _ag3 and "白跑一趟 vet" in _ag3)
+_r3 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
+                      "vet", "47", "wore", "flew"],
+                     capture_output=True, text=True, timeout=180).stdout
+check("实测：wore 被拦下（撞第38篇 wear）",
+      "wore" in _r3 and "同一动词" in _r3)
+check("实测：不撞的词仍放行", "可用：flew" in _r3)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

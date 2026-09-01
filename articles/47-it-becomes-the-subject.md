@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-For 157 years Cambridge ranked its mathematical results by **desert**. The man who **topped** it was called Senior Wrangler. Until 1850 the paper was **obligatory** even for men reading **classics**. Maxwell, Kelvin and Cayley all sat it. That **placing** counted as the highest **intellect**ual **prize** in the country; a man **placed** **twelfth** **wore** it for life.
+For 157 years Cambridge ranked its mathematical results by **desert**. The man who **topped** it was called Senior Wrangler. Until 1850 the paper was **obligatory** even for men reading **classics**. Maxwell, Kelvin and Cayley all sat it. That **placing** counted as the highest **intellect**ual **prize** in the country; a man **placed** **twelfth** **retained** it for life.
 
 Hardy sat the paper in 1898. He wrote afterwards that when the examination stood at the **apex** of its difficulty and **renown**, English mathematical **prowess** sat in its **deepest** **trough**. The **heyday** of the paper and the **flowering** of the **subject** moved in **opposite** directions across the **nineteenth** century.
 
@@ -26,7 +26,7 @@ The ordering was **abolished** in 1909, after 157 of them. The private **tutors*
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-一百五十七年间，剑桥的数学成绩按**优劣**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**排**(placed)在**第十二**(twelfth)的人，一辈子都**戴**(wore)着它。
+一百五十七年间，剑桥的数学成绩按**优劣**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**排**(placed)在**第十二**(twelfth)的人，一辈子都**保住**(retained)着它。
 
 哈代1898年考过这张卷子。他后来写道：当这场考试在难度与**声名**(renown)上立于**顶点**(apex)时，英国数学的**实力**(prowess)正陷在**最深的**(deepest)**低谷**(trough)里。这张卷子的**鼎盛**(heyday)与这门**学科**(subject)的**繁荣**(flowering)，在整个**十九**(nineteenth)世纪朝**相反**(opposite)方向走。
 
@@ -40,7 +40,7 @@ The ordering was **abolished** in 1909, after 157 of them. The private **tutors*
 
 ## 50 词速查表
 
-**§1**（10词）desert 应得；优劣｜topped 居首｜obligatory 必须的｜classics 古典学｜placing 名次｜intellect 智识｜prize 荣誉；奖赏｜placed 排在｜twelfth 第十二｜wore 穿戴；佩着
+**§1**（10词）desert 应得；优劣｜topped 居首｜obligatory 必须的｜classics 古典学｜placing 名次｜intellect 智识｜prize 荣誉；奖赏｜placed 排在｜twelfth 第十二｜retained 保有；留住
 
 **§2**（10词）apex 顶点｜renown 声名｜prowess 实力；本领｜deepest 最深的｜trough 低谷｜heyday 鼎盛期｜flowering 繁荣；开花｜subject 学科｜opposite 相反的｜nineteenth 第十九
 
