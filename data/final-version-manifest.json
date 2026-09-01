@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 44,
-  "keyword_count": 2200,
+  "article_count": 45,
+  "keyword_count": 2250,
   "articles": [
     {
       "id": "01",
@@ -1018,6 +1018,25 @@
       "canonical_fingerprint_sha256": "46c9eca3a57984f35279d549ca60200a4e26d60b435c521627b1e6a8251e5016",
       "markdown_sha256": "4a7b4f3b01f092b7efac9bff97c67f2ad6718a1560fa2cb2a333b4a91b7ae89c",
       "markdown_git_blob_sha": "865e4bc46d3fd30152578d0dc7f7e19b7532bd97",
+      "superseded_signatures": []
+    },
+    {
+      "id": "45",
+      "slug": "defined-against-the-structure",
+      "title": "Defined Against the Structure",
+      "title_zh": "这个词是对着结构定义的",
+      "version_id": "45-final",
+      "status": "第四十五篇定稿",
+      "date": "2026-09-01",
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-09-01按《总令》全流程新写：brief 筛三个候选题材后选定并加厚角度（17→37词）；动笔前逐条上网核六项；VAL-14 头一次在新篇上逮到 sold/stood 两处；三处换词全部走 swap.py 四步合一；MET-07/08 零报出",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "d209780d55ae49e2a42292ee97ad8bf91f9da95844e5abf2f8c2b242586bf00d",
+      "markdown_sha256": "c23a4597462a7fffae47723bc5c999907cc60041099a6958dcd5ea2140f30d36",
+      "markdown_git_blob_sha": "3e5149c45bc77d86ce2e6348d144518f0f06f8e5",
       "superseded_signatures": []
     }
   ]

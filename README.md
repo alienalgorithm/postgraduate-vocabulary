@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-24，共有 **44篇文章、2200个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-24，共有 **45篇文章、2250个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@
 | **42** | ***It Lasted at the Marketplace*** | **希伯来语复兴：一个人的决心、一门市集语言与六十所学校** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=it-lasted-at-the-marketplace) · [Markdown](articles/42-it-lasted-at-the-marketplace.md) |
 | **43** | ***The Obstacle Was What Went In*** | **杂交玉米：一项无人反驳的发现，为何等了二十五年才落地** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-obstacle-was-what-went-in) · [Markdown](articles/43-the-obstacle-was-what-went-in.md) |
 | **44** | ***The Day the Remedy Was Blunted*** | **坏血病与柑橘配给：一味没有机理的解药，能被照抄却守不住** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-day-the-remedy-was-blunted) · [Markdown](articles/44-the-day-the-remedy-was-blunted.md) |
+| **45** | ***Defined Against the Structure*** | **1903年易洛魁剧院火灾：一个标准被定义在可查验之物上，而非致命之物** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=defined-against-the-structure) · [Markdown](articles/45-defined-against-the-structure.md) |
 
 第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。
 
