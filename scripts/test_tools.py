@@ -780,6 +780,31 @@ _r = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
 check("实测：白送词被逮出", "word" in _r and "VAL-02h" in _r)
 check("实测：可用词放行", "可用：technical" in _r)
 
+
+# ── NUM-02 同一个数中英两种写法（2026-08-20 立）─────────────────
+# 立此层之由：**本次会话「中英失配」共 12 次、分布 8 篇，是自伤里最多的一族**
+#   （补名额撞车 5 次、补名额是白送词 5 次）。
+# **而 MET-07/08 只查「加粗词有没有对应括注」，查不出数字本身的写法不一致。**
+# **判据废掉两个才定住**：
+#   ①「中英数字集合不相等」→ 67 处 / 38 篇，**几乎全是误报**
+#     （September 对「9月」、Nimbus-7 对「云雨七号」——中英数字表示法本就不同）；
+#   ②「英文有阿拉伯、中文有大写」→ 15 处，**仍误收 14 处**
+#     （「1983 / 三十二年后」是英文写年份、中文写时长的惯例）。
+#   定住的形状：**同一个数，英文写阿拉伯、中文写大写。**
+print("\n[NUM-02] 同一个数中英两种写法")
+_b2 = art(["Late on the 15th, 2,500 metres down, the sled surfaced."],
+          ["15日深夜，在两千五百米深处，雪橇浮出水面。"])
+check("同数两写 → NUM-02", "NUM-02" in ids(I.inspect(_b2, arts)[0]),
+      "英文 2,500 而中文「两千五百」，两边对不齐")
+_g2 = art(["Late on the 15th, 2,500 metres down, the sled surfaced."],
+          ["15日深夜，在2500米深处，雪橇浮出水面。"])
+check("中文改用阿拉伯后不再报", "NUM-02" not in ids(I.inspect(_g2, arts)[0]))
+_k2 = art(["In 1983, thirty-two years after that symposium, she took the prize."],
+          ["1983年，那次研讨会之后三十二年，她拿到了奖。"])
+check("英文年份/中文时长不误报", "NUM-02" not in ids(I.inspect(_k2, arts)[0]),
+      "★ 这是两边各自的惯例，不是失配")
+check("NUM-02 已挂铁律", bool(I.charter_of("NUM-02")))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
