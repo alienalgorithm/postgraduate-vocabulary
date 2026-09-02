@@ -12,14 +12,14 @@
       "date": "2026-08-15",
       "status": "第十五篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 271,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
           "en": "Before compressed air, **stopping** a **freight** train meant men on the **roofs**. At the **whistle** a **brakeman** ran the **catwalks**, **cranking** one hand **wheel** after another. Rain and ice slowed it; a train could not exceed about eleven **wagons**; the work **maimed** or killed thousands a year.",
-          "zh": "在压缩空气之前，让一列**货**(freight)车**停**(stopping)下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇动**(cranking)一个个手**闸轮**(wheel)。雨雪会让这活更慢；一列车挂不过约十一节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。"
+          "zh": "在压缩空气之前，要让一列**货**(freight)运列车**停**(stopping)下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇动**(cranking)一个个手**闸轮**(wheel)。雨雪会让这活更慢；一列车挂不过约十一节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。"
         },
         {
           "en": "George Westinghouse patented a **remedy** in 1869. An engine-driven **bellows** charged one **pipe** running the length of the train; admitting air drove a **piston** and **lever** that pressed a **shoe** against each tyre. One man now applied every brake. But the arrangement leaned on a live **column**: if a **hose** **burst** or **couplings** parted, the cars beyond ran free.",
@@ -30,12 +30,12 @@
           "zh": "他1872与1873年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(carriage)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤然**(sudden)**垮掉**(collapse)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。"
         },
         {
-          "en": "Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a fifty-car **rake** took a twenty-second **lag** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals led the early **trials**; Westinghouse **judged** their wiring too **frail**, and won the last.",
-          "zh": "能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列五十节的**编组**(rake)要二十秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。"
+          "en": "Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a 50-car **rake** took a 20-second **lag** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals led the early **trials**; Westinghouse **judged** their wiring too **frail**, and won the last.",
+          "zh": "能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列 50 节的**编组**(rake)要 20 秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。"
         },
         {
-          "en": "Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.",
-          "zh": "造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。"
+          "en": "Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you did the **checking**.",
+          "zh": "造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是**制动**(checking)得以发生的方式。"
         }
       ],
       "glossary": [
@@ -285,8 +285,8 @@
           "p": 5
         },
         {
-          "w": "stopped",
-          "zh": "停下",
+          "w": "checking",
+          "zh": "制动；核对",
           "p": 5
         }
       ],

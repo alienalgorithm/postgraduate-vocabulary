@@ -2,7 +2,7 @@
 
 > 题材：1869—1893 年威斯汀豪斯、自动空气制动与失效安全逻辑
 > 状态：**第十五篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 让列车安全的，从来不是那根管子永不断。而是把它弄断，正是你让车停下的方式。
 
 ---
@@ -15,9 +15,9 @@ George Westinghouse patented a **remedy** in 1869. An engine-driven **bellows** 
 
 His 1872 and 1873 patents **inverted** it. Each **carriage** carried its own **reservoir**, kept **charged** by the pipe. A **sudden** **collapse** of pipe pressure **tripped** a **triple** **valve**, releasing the stored air into that car's own **cylinder**. Restoring pressure released the brake and refilled the tank.
 
-Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a fifty-car **rake** took a twenty-second **lag** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals led the early **trials**; Westinghouse **judged** their wiring too **frail**, and won the last.
+Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a 50-car **rake** took a 20-second **lag** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals led the early **trials**; Westinghouse **judged** their wiring too **frail**, and won the last.
 
-Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.
+Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you did the **checking**.
 
 ---
 
@@ -26,15 +26,15 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-在压缩空气之前，让一列**货**(freight)车**停**(stopping)下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇动**(cranking)一个个手**闸轮**(wheel)。雨雪会让这活更慢；一列车挂不过约十一节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。
+在压缩空气之前，要让一列**货**(freight)运列车**停**(stopping)下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇动**(cranking)一个个手**闸轮**(wheel)。雨雪会让这活更慢；一列车挂不过约十一节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。
 
 1869年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上的**气泵**(bellows)给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那一**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。
 
 他1872与1873年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(carriage)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤然**(sudden)**垮掉**(collapse)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。
 
-能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列五十节的**编组**(rake)要二十秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。
+能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列 50 节的**编组**(rake)要 20 秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。
 
-造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。
+造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是**制动**(checking)得以发生的方式。
 
 ---
 
@@ -48,7 +48,7 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 
 **§4**（10词）rake 编组；一列车｜lag 滞后｜brakes 闸；制动器｜pared 削｜quick 快速的｜redesign 改型｜triggered 触发｜trials 试验｜judged 判定｜frail 脆弱的
 
-**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜pressing 推动；施压｜ordinance 法令｜statute 法条｜mandated 规定｜capability 能力｜brand 品牌｜parted 断开；分离｜stopped 停下
+**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜pressing 推动；施压｜ordinance 法令｜statute 法条｜mandated 规定｜capability 能力｜brand 品牌｜parted 断开；分离｜checking 制动；核对
 
 ---
 
