@@ -47,14 +47,27 @@ def _read(aid):
     return core.metrics(a["paras"])["words"]
 
 
+def _path(aid):
+    p = os.path.join(ROOT, "data", "article-%s.js" % aid)
+    return p if os.path.exists(p) else os.path.join(ROOT, "data", "articles.js")
+
+
 @contextlib.contextmanager
 def guard(aid, allow_growth=0):
-    """改动前后比对词数。**长了就抛错**，除非显式给出 allow_growth。"""
+    """改动前后比对词数。**长了就抛错并把文件回滚**，除非显式给出 allow_growth。
+
+    ★ 第一版只抛错不回滚，而 save() 在 guard 退出前就已落盘 ——
+      **拦下了却没拦住**（第51篇实测：报错了，文件已经改了）。
+      现在进入时留一份副本，出错即写回。
+    """
     before = _read(aid)
+    _p = _path(aid)
+    _backup = open(_p, encoding="utf-8").read()
     yield
     after = _read(aid)
     d = after - before
     if d > allow_growth:
+        open(_p, "w", encoding="utf-8").write(_backup)   # ★ 真回滚
         raise AssertionError(
             "第%s篇词数从 %d 涨到 %d（+%d）。\n"
             "  **插句必须同段等量削词** —— 这是同一次会话里犯的第六次。\n"
@@ -62,7 +75,8 @@ def guard(aid, allow_growth=0):
             "  （如确要加长，显式写 guard('%s', allow_growth=%d)）"
             % (aid, before, after, d, d, aid, d))
     if after > WORD_MAX:
-        raise AssertionError("第%s篇 %d 词，超上限 %d。" % (aid, after, WORD_MAX))
+        open(_p, "w", encoding="utf-8").write(_backup)
+        raise AssertionError("第%s篇 %d 词，超上限 %d。已回滚。" % (aid, after, WORD_MAX))
     print("  ✓ 等长（%d → %d）" % (before, after))
 
 
