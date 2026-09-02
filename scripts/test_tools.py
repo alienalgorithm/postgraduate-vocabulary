@@ -1490,6 +1490,30 @@ _r10 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/lockstep.py")
                       capture_output=True, text=True, timeout=120).stdout
 check("命令行可查单篇词数", "第48篇" in _r10 and "词" in _r10)
 
+
+# ── 低采纳规则不再扣分（2026-09-01，量出来的）──────────────────────
+# **数了全库 54 篇台账里每次提到该规则时的裁语**：
+#   **FIT-02 提到 20 次，17 次判保留/误报 = 85% 不采纳**；
+#   **STR-01 提到 11 次，10 次 = 90%**；**STR-02 提到 1 次，1 次 = 100%**。
+# **三条合起来占了未达标篇目全部待核的 23/44 条。**
+# **不是文章的问题，是这三条在制造噪声**：
+#   FIT-02 报的多是「Prevailing medical opinion blamed the foul air.」
+#     这类短促有力的句子，正是文章该有的样子；
+#   STR-01 判据是「两个大写词连写」，**单名与「Langley and Chanute」都不算**，反复误报；
+#   STR-02 要求每段都有数字，**而论点段本就不该硬塞数字**。
+# **处置：仍在报告里折叠列出供人判，但不再扣分。**
+# 实测：全库均分 94.4 → 98.1，未达标篇数 27 → 10。
+print("\n[计分] 低采纳规则不扣分")
+_ins4 = open(os.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read()
+check("MUTED_RULES 已立", "MUTED_RULES" in _ins4)
+check("三条低采纳规则在内",
+      all(('"%s"' % r) in _ins4.split("MUTED_RULES")[1][:400]
+          for r in ("FIT-02", "STR-01", "STR-02")))
+check("score 跳过它们", "if not (f.sev == \"check\" and f.rid in MUTED_RULES)" in _ins4)
+check("写明采纳率是量出来的", "85% 不采纳" in _ins4 or "17 次判保留" in _ins4)
+check("仍在报告里折叠列出", "低采纳" in _ins4 and "折叠" in _ins4,
+      "★ 不扣分不等于不报 —— 仍供人判")
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

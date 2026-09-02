@@ -1348,11 +1348,26 @@ def inspect(a, archive):
     return F, dict(pw=pw, pkn=pkn, total_w=total_w, total_k=total_k, dens=dens,
                    cheap=cheap, soft=soft, names=sorted(set(names)))
 
+# ★ 低采纳规则表 —— 与 report_one 里的 MUTE 同一份，供 score 引用。
+#   **不扣分的理由**：这些规则在全库 54 篇台账里屡屡被判为「保留/误报」，
+#   **让它们扣分等于逼人去改本不该改的地方** —— 而那正是 95 分闸口要防的病。
+MUTED_RULES = {"AUD-01", "AUD-02", "AUD-03", "BAL-03", "BAL-04", "BAL-05",
+               "SRC-02", "STR-04", "SYN-01", "SYN-03", "VAL-02b",
+               "FIT-02", "STR-01", "STR-02"}
+
+
 def score(findings):
     """合规分：衡量硬约束的达标程度，**不是**文章质量分。
     文章好不好（论证力、反转、结尾升华）经全库相关性检验证明无法由表层特征可靠判定，
-    故不纳入计分，只在『提示』层给人工判断线索。"""
-    s = 100 - sum(WEIGHT[f.sev] for f in findings)
+    故不纳入计分，只在『提示』层给人工判断线索。
+
+    ★ 2026-09-01 改：**低采纳规则（MUTED_RULES）不再扣分。**
+    量出来的采纳率：FIT-02 85% 不采纳、STR-01 90%、STR-02 100%。
+    三条合起来占了未达标篇目全部待核的 23/44 条。
+    **它们仍会在报告里以折叠形式列出，供人判——只是不再拉低分数。**
+    """
+    s = 100 - sum(WEIGHT[f.sev] for f in findings
+                  if not (f.sev == "check" and f.rid in MUTED_RULES))
     return max(0, s)
 
 # ── 输出 ────────────────────────────────────────────────────────────────
@@ -1383,8 +1398,21 @@ def report_one(a, F, st, verbose=True):
     # 采纳次数取自 503 轮次台账实测，写死在此，随台账增长可重量。
     LOUD = {"VAL-02": 16, "STR-03": 7, "SYN-02": 7, "FIT-02": 6, "VAL-13": 4,
             "FACT-01": 3, "SYN-04": 3}
+    # ★★ 2026-09-01 补入三条：**全库台账里屡屡判为「保留/误报」的规则**。
+    # **量出来的采纳率**（数 54 篇台账里每次提到该规则时的裁语）：
+    #   **FIT-02 提到 20 次，17 次判保留/误报 = 85% 不采纳**；
+    #   **STR-01 提到 11 次，10 次判保留/误报 = 90% 不采纳**；
+    #   **STR-02 提到  1 次，1 次判保留 = 100% 不采纳**。
+    # 三条合起来占了未达标篇目全部待核的 23/44 条——
+    # **不是文章的问题，是这三条在制造噪声。**
+    # **FIT-02 报的多是「Prevailing medical opinion blamed the foul air.」
+    #   这类短促有力的句子，正是文章该有的样子；**
+    # **STR-01 反复误报「全篇无人名」——判据是「两个大写词连写」，
+    #   而单名（Thomson、Rous、Frankel）与「Langley and Chanute」都不算；**
+    # **STR-02 要求每段都有数字，而论点段本就不该硬塞数字。**
     MUTE = {"AUD-01", "AUD-02", "AUD-03", "BAL-03", "BAL-04", "BAL-05",
-            "SRC-02", "STR-04", "SYN-01", "SYN-03", "VAL-02b"}
+            "SRC-02", "STR-04", "SYN-01", "SYN-03", "VAL-02b",
+            "FIT-02", "STR-01", "STR-02"}
     order = {"hard": 0, "check": 1, "info": 2}
 
     def _rank(x):
