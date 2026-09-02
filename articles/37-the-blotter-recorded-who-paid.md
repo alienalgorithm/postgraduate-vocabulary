@@ -15,9 +15,9 @@ Those numbers came off the cash **blotter**, which **noted** the order fees were
 
 On 19 February the assessor Zenas Wilber held both papers. Both **asserted** **fluctuating** impedance; both **voiced** the **transmitting** speech. Yet he **froze** Bell's application for ninety days. Bell came **southward**; Wilber **pointed** at the words, his lawyer **recast** them, and the **privilege** came on 7 March. Wilber **owed** money to Marcellus Bailey, Bell's attorney.
 
-Gray **drafted** his liquid transmitter on 11 February, a **membrane** and a wire in **brine**. Bell drafted his on 9 March, twenty-four days after **filing** the paper that was to **convey** it. Seven **sentences** and a fourth **plea** sit **cramped** on the **verge** of Bell's **draft**, not in its body.
+Gray **drafted** his liquid transmitter on 11 February, a **membrane** and a wire in **brine**. Bell drafted his on 9 March, twenty-four days after **filing** the paper that was to **convey** it. Seven **sentences** and a fourth **plea** sit **cramped** on the **verge** of Bell's **outline**, not in its body.
 
-Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liquid transmitter. The Supreme Court **ruled** for Bell in 1888, and that **ruling** stands **nonetheless**. The blotter recorded who **tendered** first, to the **instant**. Nobody was **summoned** to record who **conceived** it, and no **docket** ever **stored** that.
+Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liquid transmitter. The Supreme Court **sided** with Bell in 1888, and that **ruling** stands **nonetheless**. The blotter recorded who **tendered** first, to the **instant**. Nobody was **summoned** to record who **conceived** it, and no **docket** ever **stored** that.
 
 ---
 
@@ -32,9 +32,9 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 
 2月19日，审查员泽纳斯·威尔伯手里同时压着这两份文件。两份都**主张**(asserted)**起伏的**(fluctuating)阻抗，都**言及**(voiced)**传送**(transmitting)语音。可他偏偏**冻结**(froze)了贝尔的申请九十天。贝尔**南下**(southward)而来；威尔伯**指**(pointed)了指那几个字，他的律师**重写**(recast)了措辞，**专利权**(privilege)3月7日就下来了。威尔伯**欠**(owed)着贝尔代理人马塞勒斯·贝利的钱。
 
-格雷2月11日**画**(drafted)出了他的液体送话器：一张**膜**(membrane)，一根浸在**盐水**(brine)里的线。贝尔画出他那张是3月9日——**递交**(filing)那份本该**载有**(convey)它的文件之后二十四天。七句**话**(sentences)和第四条**权利要求**(plea)，**挤**(cramped)在贝尔**草稿**(draft)的**页边**(verge)上，不在正文里。
+格雷2月11日**画**(drafted)出了他的液体送话器：一张**膜**(membrane)，一根浸在**盐水**(brine)里的线。贝尔画出他那张是3月9日——**递交**(filing)那份本该**载有**(convey)它的文件之后二十四天。七句**话**(sentences)和第四条**权利要求**(plea)，**挤**(cramped)在贝尔**纲要**(outline)的**页边**(verge)上，不在正文里。
 
-可梅布尔·哈伯德1月17日的信里，已经**提到过**(mentioned)那台液体送话器。1888年最高法院**判**(ruled)贝尔胜诉，那份**判决**(ruling)**依然**(nonetheless)有效。登记簿记下了谁先**交**(tendered)的钱，精确到那一**刻**(instant)。从没有人被**要求**(summoned)去记谁先**想**(conceived)出来，也没有哪本**簿子**(docket)**存**(stored)过那个。
+可梅布尔·哈伯德1月17日的信里，已经**提到过**(mentioned)那台液体送话器。1888年最高法院**站**(sided)在贝尔一边，那份**判决**(ruling)**依然**(nonetheless)有效。登记簿记下了谁先**交**(tendered)的钱，精确到那一**刻**(instant)。从没有人被**要求**(summoned)去记谁先**想**(conceived)出来，也没有哪本**簿子**(docket)**存**(stored)过那个。
 
 ---
 
@@ -46,9 +46,9 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 
 **§3**（10词）asserted 主张｜fluctuating 起伏的｜voiced 言及；说出｜transmitting 传送｜froze 冻结；中止｜southward 向南｜pointed 指｜recast 重写｜privilege 专有权｜owed 欠
 
-**§4**（10词）drafted 起草；画出｜membrane 膜｜brine 盐水｜filing 递交｜convey 载有；传达｜sentences 句子（复）｜plea 请求；主张｜cramped 挤；局促｜verge 边缘｜draft 草稿
+**§4**（10词）drafted 起草；画出｜membrane 膜｜brine 盐水｜filing 递交｜convey 载有；传达｜sentences 句子（复）｜plea 请求；主张｜cramped 挤；局促｜verge 边缘｜outline 纲要；草图
 
-**§5**（10词）mentioned 提到｜ruled 裁定｜ruling 判决｜nonetheless 依然｜tendered 交付；提交｜instant 瞬间｜summoned 传唤；召来｜conceived 构想出｜docket 案卷簿｜stored 存放
+**§5**（10词）mentioned 提到｜sided 站在…一边｜ruling 判决｜nonetheless 依然｜tendered 交付；提交｜instant 瞬间｜summoned 传唤；召来｜conceived 构想出｜docket 案卷簿｜stored 存放
 
 ---
 

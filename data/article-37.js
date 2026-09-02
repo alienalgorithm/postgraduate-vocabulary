@@ -25,12 +25,12 @@
           "zh": "2月19日，审查员泽纳斯·威尔伯手里同时压着这两份文件。两份都**主张**(asserted)**起伏的**(fluctuating)阻抗，都**言及**(voiced)**传送**(transmitting)语音。可他偏偏**冻结**(froze)了贝尔的申请九十天。贝尔**南下**(southward)而来；威尔伯**指**(pointed)了指那几个字，他的律师**重写**(recast)了措辞，**专利权**(privilege)3月7日就下来了。威尔伯**欠**(owed)着贝尔代理人马塞勒斯·贝利的钱。"
         },
         {
-          "en": "Gray **drafted** his liquid transmitter on 11 February, a **membrane** and a wire in **brine**. Bell drafted his on 9 March, twenty-four days after **filing** the paper that was to **convey** it. Seven **sentences** and a fourth **plea** sit **cramped** on the **verge** of Bell's **draft**, not in its body.",
-          "zh": "格雷2月11日**画**(drafted)出了他的液体送话器：一张**膜**(membrane)，一根浸在**盐水**(brine)里的线。贝尔画出他那张是3月9日——**递交**(filing)那份本该**载有**(convey)它的文件之后二十四天。七句**话**(sentences)和第四条**权利要求**(plea)，**挤**(cramped)在贝尔**草稿**(draft)的**页边**(verge)上，不在正文里。"
+          "en": "Gray **drafted** his liquid transmitter on 11 February, a **membrane** and a wire in **brine**. Bell drafted his on 9 March, twenty-four days after **filing** the paper that was to **convey** it. Seven **sentences** and a fourth **plea** sit **cramped** on the **verge** of Bell's **outline**, not in its body.",
+          "zh": "格雷2月11日**画**(drafted)出了他的液体送话器：一张**膜**(membrane)，一根浸在**盐水**(brine)里的线。贝尔画出他那张是3月9日——**递交**(filing)那份本该**载有**(convey)它的文件之后二十四天。七句**话**(sentences)和第四条**权利要求**(plea)，**挤**(cramped)在贝尔**纲要**(outline)的**页边**(verge)上，不在正文里。"
         },
         {
-          "en": "Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liquid transmitter. The Supreme Court **ruled** for Bell in 1888, and that **ruling** stands **nonetheless**. The blotter recorded who **tendered** first, to the **instant**. Nobody was **summoned** to record who **conceived** it, and no **docket** ever **stored** that.",
-          "zh": "可梅布尔·哈伯德1月17日的信里，已经**提到过**(mentioned)那台液体送话器。1888年最高法院**判**(ruled)贝尔胜诉，那份**判决**(ruling)**依然**(nonetheless)有效。登记簿记下了谁先**交**(tendered)的钱，精确到那一**刻**(instant)。从没有人被**要求**(summoned)去记谁先**想**(conceived)出来，也没有哪本**簿子**(docket)**存**(stored)过那个。"
+          "en": "Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liquid transmitter. The Supreme Court **sided** with Bell in 1888, and that **ruling** stands **nonetheless**. The blotter recorded who **tendered** first, to the **instant**. Nobody was **summoned** to record who **conceived** it, and no **docket** ever **stored** that.",
+          "zh": "可梅布尔·哈伯德1月17日的信里，已经**提到过**(mentioned)那台液体送话器。1888年最高法院**站**(sided)在贝尔一边，那份**判决**(ruling)**依然**(nonetheless)有效。登记簿记下了谁先**交**(tendered)的钱，精确到那一**刻**(instant)。从没有人被**要求**(summoned)去记谁先**想**(conceived)出来，也没有哪本**簿子**(docket)**存**(stored)过那个。"
         }
       ],
       "facts": [
@@ -243,8 +243,8 @@
           "p": 4
         },
         {
-          "w": "draft",
-          "zh": "草稿",
+          "w": "outline",
+          "zh": "纲要；草图",
           "p": 4
         },
         {
@@ -253,8 +253,8 @@
           "p": 5
         },
         {
-          "w": "ruled",
-          "zh": "裁定",
+          "w": "sided",
+          "zh": "站在…一边",
           "p": 5
         },
         {

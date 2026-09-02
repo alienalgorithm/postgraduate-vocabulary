@@ -17,16 +17,16 @@
           "zh": "易洛魁剧院1903年11月在芝加哥开张，**号称**(advertised)绝对**防火**(fireproof)。五周之后，一盏弧光灯**点着**(ignited)了一幅**平纹细布**(muslin)**幕布**(drape)；那场**日场**(matinee)的1,700名观众里，602人死在**挤**(brimming)得满溢的厅内。火顺着**布景**(scenery)爬进**吊景区**(flies)，一团**火球**(fireball)几分钟就横穿了整个观众厅。"
         },
         {
-          "en": "The building had not failed. Its steel frame and brick walls **upright**; the **deputy** commissioner had called it steel, brick and cement, and was **truthful**. Almost nobody died of **burns**. They died of **smoke** and **trampling**, in the **aisles** and behind the **auditorium** doors: the **ushers** fled without drawing the **bolts**.",
-          "zh": "那栋楼并没有失败。钢架与砖墙**直立**(upright)着；**副**(deputy)局长说它是钢、砖、水泥造的，这话是**属实的**(truthful)。几乎没有人死于**烧伤**(burns)。他们死于**烟**(smoke)与**踩踏**(trampling)，死在**过道**(aisles)里和**观众厅**(auditorium)的门背后：**引座员**(ushers)跑了，没人去拔那些**插销**(bolts)。"
+          "en": "The building had not failed. Its steel frame and brick walls **upright**; the **deputy** commissioner had called it steel, brick and cement, and was **truthful**. Almost nobody died of **burns**. They died of **smoke** and **trampling**, in the **aisles** and behind the **auditorium** doors: the **ushers** fled without drawing the **staple**.",
+          "zh": "那栋楼并没有失败。钢架与砖墙**直立**(upright)着；**副**(deputy)局长说它是钢、砖、水泥造的，这话是**属实的**(truthful)。几乎没有人死于**烧伤**(burns)。他们死于**烟**(smoke)与**踩踏**(trampling)，死在**过道**(aisles)里和**观众厅**(auditorium)的门背后：**引座员**(ushers)跑了，没人去拔那道**搭扣**(staple)。"
         },
         {
           "en": "The **hardware** did the killing. The **asbestos** safety **curtain** **jammed** on a **galvanised** lighting bar and stopped 10 feet up; a chemist later found it mostly wood **pulp**. The **skylights** over the stage had been boarded shut against **draughts**, so the **flame** rolled **outward** into the seats rather than up.",
-          "zh": "杀人的是那些**五金件**(hardware)。**石棉**(asbestos)防火**幕**(curtain)**卡**(jammed)在一根**镀锌**(galvanised)灯杆上，停在离台面10英尺处；后来化验，它大半是木**浆**(pulp)。舞台上方的**天窗**(skylights)为挡**穿堂风**(draughts)被钉死了，于是**火焰**(flame)不往上走，**向外**(outward)卷进了座位区。"
+          "zh": "杀人的是那些**五金件**(hardware)。**石棉**(asbestos)防火**幕**(curtain)布**卡**(jammed)住在一根**镀锌**(galvanised)灯杆上，停在离台面10英尺处；后来化验，它大半是木**浆**(pulp)。舞台上方的**天窗**(skylights)为挡**穿堂风**(draughts)被钉死了，于是**火焰**(flame)不往上走，**向外**(outward)卷进了座位区。"
         },
         {
-          "en": "27 of the 30 **exits** were **bolted** or hidden behind **draperies**, and iron gates **barred** the **stairways** from the **balcony**. Many carried **fastening** **latches** — a European lever no Chicago **audience** had met, groping for a **knob** in the dark. One staircase served all 3 tiers, against an ordinance requiring each its own.",
-          "zh": "30个**出口**(exits)里有27个**闩**(bolted)着或藏在**帷幔**(draperies)后面，铁栅把通往**楼座**(balcony)的**楼梯**(stairways)**拦**(barred)住。许多门装的是**门扣**(fastening)**门闩**(latches)——一种芝加哥**观众**(audience)从没见过的欧式扳手，黑暗里他们伸手去摸**球形把手**(knob)。一道楼梯服务3层看台，而法令要求每层各有其一。"
+          "en": "27 of the 30 **exits** were **bolted** or hidden behind **draperies**, and iron gates **barred** the **stairways** from the **balcony**. Many carried **fastening** **clasps** — a European lever no Chicago **audience** had met, groping for a **knob** in the dark. One staircase served all 3 tiers, against an ordinance requiring each its own.",
+          "zh": "30个**出口**(exits)里有27个**闩**(bolted)着或藏在**帷幔**(draperies)后面，铁栅把通往**楼座**(balcony)的**楼梯**(stairways)**拦**(barred)住。许多门装的是**紧固**(fastening)用的**扣件**(clasps)——一种芝加哥**观众**(audience)从没见过的欧式扳手，黑暗里他们伸手去摸**球形把手**(knob)。一道楼梯服务3层看台，而法令要求每层各有其一。"
         },
         {
           "en": "The word was defined against the structure — what a **warden** can **attest** to. A screen that **snags**, a **chimney** **nailed** shut, a **latch** nobody **recognises** — none of it shows in a **drawing**. There was no **sprinkler**. Carl Prinzler, who meant to attend that day, built the **crash** bar — a door that opens when a body falls against it, requiring no one to recognise anything.",
@@ -144,8 +144,8 @@
           "p": 2
         },
         {
-          "w": "bolts",
-          "zh": "插销（复）",
+          "w": "staple",
+          "zh": "搭扣；订书钉",
           "p": 2
         },
         {
@@ -230,12 +230,12 @@
         },
         {
           "w": "fastening",
-          "zh": "扣件；紧固件",
+          "zh": "紧固；扣紧",
           "p": 4
         },
         {
-          "w": "latches",
-          "zh": "门闩（复）",
+          "w": "clasps",
+          "zh": "扣件（复）",
           "p": 4
         },
         {
