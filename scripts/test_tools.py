@@ -1470,6 +1470,26 @@ check("实测：bars 被拦（撞本篇 barred）",
       "bars" in _r9 and "本篇已用同词元" in _r9)
 check("实测：无冲突的词仍放行", "shackle" in _r9 and "可用：" in _r9)
 
+
+# ── lockstep.py 等长改（2026-09-01 立，同一次会话犯了五次）──────────
+# **修既有篇目时反复「插一句却不同步削词」，每次都要 git checkout 回滚**：
+#   **第27篇** 271→282 词，随后十轮削词越削越碎，中途掉到 68 分；
+#   **第19篇** 插一句 19 词，88→77；改口说「等长替换」却又写更长，掉到 68；
+#   **第48篇** 加 6 词、**第51篇** 加 3 词，两篇同时变差。
+# **★ 而《总令》里「只做三类等长动作」那条是我自己写的，写完两小时内又犯了两次。**
+# **——写进文档挡不住，必须让机器拦。**
+# 用法：`with guard('48'): ...改动...`，退出时比对词数，长了就抛错、改动不落盘。
+print("\n[lockstep] 等长改，长了不落盘")
+_ls = open(os.path.join(ROOT, "scripts/lockstep.py"), encoding="utf-8").read()
+check("guard 比对改动前后词数", "def guard(" in _ls and "before = _read" in _ls)
+check("长了即抛错", "raise AssertionError" in _ls and "插句必须同段等量削词" in _ls)
+check("写明这是第几次犯", "犯了五次" in _ls or "第六次" in _ls)
+check("留了显式加长的出口", "allow_growth" in _ls,
+      "★ 确要加长时须显式写出，不能默认放过")
+_r10 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/lockstep.py"), "48"],
+                      capture_output=True, text=True, timeout=120).stdout
+check("命令行可查单篇词数", "第48篇" in _r10 and "词" in _r10)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
