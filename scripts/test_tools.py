@@ -1342,6 +1342,13 @@ check("举出两次弃稿的实例", "第50篇第一稿" in _ch7 and "第52篇" 
 check("写明第47篇是反例", "第47篇讲「排名制」" in _ch7,
       "★ 12% 却成了稿 —— 因为它绕开了")
 check("写明为什么不立规则", "判不开，故不立规则" in _ch7)
+# ★ 第52篇第二稿又栽一次：那一问要分名词与动词两半问。
+# **名词全有**（entail／resettlement／freehold／covenant／perpetuity），
+# **动词全无**（bargain／traded／swapped／surrendered／bound／binding／
+#   settled／renewed／exchanged／struck 全被占），而那篇的论点是「一场交易」。
+# **我只问了名词，写到一半才发现动词没了。**
+check("那一问要分名词与动词两半", "名词与动词各问一遍" in _ch7)
+check("给出可执行的做法", "一起丢给" in _ch7 and "两边都要有一半以上可用" in _ch7)
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
