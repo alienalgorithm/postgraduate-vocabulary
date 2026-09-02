@@ -951,6 +951,21 @@ def inspect(a, archive):
             if "." in v:                      # 39.2 → 也认 39
                 out.add(v.split(".")[0])
         return out
+    # ── FACT-02 facts 须带出处（2026-09-01 立）─────────────────────
+    # 立此层之由：**「动笔前上网核」此前只写在《总令》里，全靠我记得。**
+    # 而 FACT-00 只查 facts 非空、以及正文的数字在 facts 里有据——
+    # **不查那些「据」本身有没有出处。**
+    # **实测：51 篇里 48 篇的 facts 带链接，3 篇（40、42、51）没有**，
+    #   而那三篇都写了「已核」、引了原文，**只是没贴链接——是真漏。**
+    # **判据：facts 整体须至少含一个 http 链接。**
+    #   不逐条要求，因为「本篇的机制边界」「⚠ 取舍说明」那几条本就无出处可给。
+    _ft = " ".join(a.get("facts") or [])
+    if _ft and "http" not in _ft:
+        F.append(Finding("FACT-02", "史实", "hard", "facts 无任何出处链接",
+            "%d 条 facts，无一条给出可复核的链接" % len(a.get("facts") or []),
+            "**「已核」二字不是出处**——下一个人无从复核。"
+            "全库 51 篇中 48 篇带链接，本篇是例外"))
+
     facts_txt = " ".join(a.get("facts") or [])
     if not facts_txt:
         F.append(Finding("FACT-00", "史实", "hard", "无史实核对", "facts 为空",

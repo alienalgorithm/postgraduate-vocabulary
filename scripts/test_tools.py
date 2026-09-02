@@ -1367,6 +1367,34 @@ check("写明必须抽样去看", "抽样去看那些词长什么样" in _ch7)
 check("举出成稿的反例", "每一段换一批词" in _ch7,
       "★ 第47、51 篇每段换一批词，故成稿")
 
+
+# ── 把「靠记」的两条变成「自己会跑」（2026-09-01）──────────────
+# **用户问：踩过的坑，写新文章时会自己从头查一遍吗？**
+# **诚实的答案是：一半会，一半不会。** 逐条量过之后：
+#   **十三条装在检察官里、每篇必跑**（中英失配／表义错位／白送词／生僻词／
+#     初中词／小品词／专名／屈折绕过／不规则重复／段落词数／分布极差／数字写法）；
+#   **四条有工具但要我主动去按**（vet／swap／movecheck／check）；
+#   **六条连工具都没有，全靠读到并记住。**
+# 本轮把第三类里能机械化的两条拿了出来：
+#   **FACT-02**：facts 须带出处链接（硬伤级）——
+#     实测全库 51 篇有 3 篇（40、42、51）只写「已核」而无链接，已补；
+#   **topic.py**：选题三闸门一条命令跑完——
+#     **回验第52篇乙稿当场被拦（名词 100%、动词 0%）。**
+print("\n[机制] 把靠记的两条变成自己会跑")
+_ins2 = open(os.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read()
+check("FACT-02 已装且为硬伤级",
+      'Finding("FACT-02", "史实", "hard"' in _ins2)
+check("FACT-02 写明「已核二字不是出处」", "「已核」二字不是出处" in _ins2)
+check("FACT-02 已挂铁律", bool(I.charter_of("FACT-02")))
+_tp = open(os.path.join(ROOT, "scripts/topic.py"), encoding="utf-8").read()
+check("topic.py 三门俱全",
+      "闸门一" not in _tp or all(k in _tp for k in ("可用词", "名词", "动词")))
+check("闸门二缺一即否决", 'bad.append("闸门二·"' in _tp)
+check("闸门三只提示不否决", "此门只警告不否决" in _tp,
+      "★ 判据实测调过一次：≥4 放过了丙稿，改为 ≥3 且只提示")
+check("《总令》写明这三步有命令可跑",
+      "topic.py" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
