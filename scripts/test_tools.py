@@ -1655,6 +1655,25 @@ _r13 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
                       capture_output=True, text=True, timeout=180).stdout
 check("实测：sweep 当场被拦", "同一动词" in _r13)
 
+
+# ── 第四条也不该立成规则（2026-09-02）────────────────────────────────
+# 第55、56 篇各犯过一次「凑名额堆砌并列」（crypt, vestry, tomb and font），
+# **看着像有形状可筛。全库筛了一遍**：严判 0 处；宽判 0 处；
+# 放宽到「每篇最密的一句」，**前十二处全是好句子**——
+#   第47篇 Continental analysis went neglected（1.3 词/名额）、
+#   第15篇 the statute mandated capability, not brand（1.5）、
+#   第01篇 Prevailing medical opinion blamed the foul air（1.8）。
+# **这正是 FIT-02 报出、而台账 95% 判为保留的那一类。筛法筛出的是好句子。**
+# **★ 真正的病只在新写的两篇里出现过，两次都是「六条人读」抓到的，不是机器。**
+# ★ 另记一个技术坑：**core.sentences 会剥掉加粗标记**，
+#   在切句之后再找 ** 永远是零 —— 须在切句之前算。
+print("\n[筛法] 第四条也不该立")
+_ch13 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("《总令》写了这次筛查", "又试了第四条" in _ch13)
+check("附上筛出来的好句子", "Continental analysis went neglected" in _ch13)
+check("写明筛出的是好句子", "筛法筛出的是好句子" in _ch13)
+check("写明真正的病靠人读抓到", "不是机器" in _ch13)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
