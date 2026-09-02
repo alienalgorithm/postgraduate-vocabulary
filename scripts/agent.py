@@ -463,6 +463,18 @@ def audit(arts, ids=None):
         print(f"\n共 {n} 题。逐题作答后，把结论写进 notes/审读记录.md。")
         print("判据：改一处若要牺牲另一处（论证、中文、词价、指标），即为临界点，停手。")
 
+def _lem13(x):
+    """与检察官 VAL-13 完全相同的词干化 —— 两道网必须用同一套判据。"""
+    x = norm(x)
+    for _suf in ("ies", "ing", "ed", "es", "s"):
+        if x.endswith(_suf) and len(x) - len(_suf) >= 3:
+            y = x[: -len(_suf)]
+            if len(y) > 2 and y[-1] == y[-2] and y[-1] not in "aeiou":
+                y = y[:-1]
+            return y
+    return x
+
+
 _IRR_GRP = {}
 for _g in ("bear bore borne;begin began begun;bite bit bitten;blow blew blown;"
         "break broke broken;bring brought;build built;buy bought;"
@@ -517,6 +529,15 @@ def vet(arts, aid, words):
         # **两道网的判据必须一致，否则前一道等于摆设。**
         if wl in cur:
             why.append("本篇已用")
+        elif _lem13(wl) in {_lem13(x) for x in cur}:
+            # ★★ 改用检察官 VAL-13 的同一套词干化（2026-09-01 补）
+            # **第四次「两道网判据不一致」**：修第45篇时把 bolts 换成 bars，
+            # **vet 放行，而检察官 VAL-13 当场报出「bars/barred 同词元」**。
+            # 病根：**agent.stem 把 bars 削成 bars、barred 削成 barr —— 判为不同词**；
+            # 而 VAL-13 自带的 _lem 会去掉重复尾辅音（barred→bar），两者对得上。
+            # **两套判据必须是同一套，否则前一道又是摆设。**
+            why.append("本篇已用同词元（%s）"
+                       % next(x for x in cur if _lem13(x) == _lem13(wl)))
         elif stem(wl) in {stem(x) for x in cur}:
             why.append("本篇已用同词元（%s）"
                        % next(x for x in cur if stem(x) == stem(wl)))
@@ -545,6 +566,22 @@ def vet(arts, aid, words):
             k = [x for x in exact if kin(wl, x)]
             if k:
                 why.append("与第%s篇同根（%s）" % (_who(k[0]), k[0]))
+        # ★★ VAL-14 屈折形绕过白送词检查（2026-09-01 补）
+        # **实测**：修第47篇时把 placed 换成 stood，**vet 放行，
+        #   而检察官 VAL-14 当场报出「stood（原形 stand 是白送词 5.14）」**。
+        # 病根：**vet 里有 _IRR_GRP，却只用来查重复，没查「原形是不是白送词」。**
+        _g14 = _IRR_GRP.get(wl, ())
+        if _g14 and _g14[0] != wl:
+            _b14 = _g14[0]
+            # ★ 判据须与检察官 VAL-14 逐字相同：**原形是白送词而屈折形不是**。
+            # 我第一版只写了前半个条件，**把 flew（原形 fly 4.75，本不是白送词）
+            #   也拦了**，回归测试当场报红。**照抄检察官的判据，不要自己另写。**
+            _zb, _zw = z(_b14, "en"), z(wl, "en")
+            if _zb >= 5.0 and _zw < 5.0:
+                why.append("屈折形绕过白送词检查（原形 %s 是白送词 %.2f）"
+                           % (_b14, _zb))
+            elif _b14 in basic and wl not in basic:
+                why.append("屈折形绕过初中词检查（原形 %s 在初中词表）" % _b14)
         # ★★ 不规则变化跨篇（2026-09-01 补）—— **这是 vet 的一个真漏洞。**
         # 第47篇换 borne→wore 时，**vet 放行了 wore，而它与第38篇的 wear 是同一动词**，
         # 靠封版时的「七层零重复」测试才逮住。

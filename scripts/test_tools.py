@@ -1191,11 +1191,14 @@ check("接进了 why 的判断链", "是同一动词（不规则变化）" in _a
 check("写明这是真漏洞及其来历",
       "靠封版时的" in _ag3 and "白跑一趟 vet" in _ag3)
 _r3 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                      "vet", "47", "wore", "flew"],
+                      "vet", "47", "wore", "shackle"],
                      capture_output=True, text=True, timeout=180).stdout
 check("实测：wore 被拦下（撞第38篇 wear）",
       "wore" in _r3 and "同一动词" in _r3)
-check("实测：不撞的词仍放行", "可用：flew" in _r3)
+# ★ 反例原用 flew，而新装的 VAL-14 正确地把它拦下了
+#   （原形 fly 在初中词表，flew 不在 —— 屈折形绕过初中词检查）。
+#   **判据没错，是反例挑错了词**：换成 shackle（无任何冲突）。
+check("实测：不撞的词仍放行", "可用：shackle" in _r3)
 
 
 # ── vet 篇内查四层（2026-09-01）───────────────────────────────
@@ -1438,6 +1441,34 @@ check("三类动作写明", "换一个词" in _ch8 and "改一个数字的写法
 check("附上三次实测", "88→77" in _ch8 and "掉到 68" in _ch8)
 check("写明判为保留是正当结论", "判为保留是正当结论" in _ch8,
       "★ 第19篇 STR-03、第41篇 STR-01 均判保留，理由写进 facts")
+
+
+# ── vet 补齐 VAL-13 与 VAL-14（2026-09-01，第四次判据不一致）────────
+# **两处都在修第37/45/47篇时暴露，vet 放行而检察官当场逮住**：
+#   **bars** —— vet 放行，检察官 VAL-13 报「bars/barred 同词元」。
+#     病根：**agent.stem 把 bars 削成 bars、barred 削成 barr，判为不同词**；
+#     而 VAL-13 自带的 _lem 会去掉重复尾辅音（barred→bar）。
+#     **处置：vet 改用与检察官逐字相同的 _lem13。**
+#   **stood** —— vet 放行，检察官 VAL-14 报「原形 stand 是白送词 5.14」。
+#     病根：**vet 里有 _IRR_GRP，却只用来查重复，没查原形是不是白送词。**
+# **★ 而我第一版把 VAL-14 的条件写漏了一半**（只写「原形是白送词」，
+#   漏了「而屈折形不是」），**把 flew 也拦了，回归测试当场报红**——
+#   **照抄检察官的判据，不要自己另写。**
+print("\n[vet] 补齐 VAL-13 与 VAL-14")
+_ag9 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("vet 用与检察官相同的 _lem13", "_lem13" in _ag9
+      and "两道网必须用同一套判据" in _ag9)
+check("vet 查屈折形绕过白送词", "屈折形绕过白送词检查" in _ag9)
+check("条件与检察官逐字相同（两半都在）",
+      "_zb >= 5.0 and _zw < 5.0" in _ag9
+      and "_b14 in basic and wl not in basic" in _ag9,
+      "★ 第一版漏了后半个条件，把 flew 也拦了")
+_r9 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
+                      "vet", "45", "bars", "shackle"],
+                     capture_output=True, text=True, timeout=180).stdout
+check("实测：bars 被拦（撞本篇 barred）",
+      "bars" in _r9 and "本篇已用同词元" in _r9)
+check("实测：无冲突的词仍放行", "shackle" in _r9 and "可用：" in _r9)
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
