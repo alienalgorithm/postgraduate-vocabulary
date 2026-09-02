@@ -164,6 +164,27 @@ def main():
     print("换词 · 第%s篇 · %s → %s" % (aid, a.old, a.new))
     print("=" * 64)
 
+    # ── ★★ 换词之前先问一句：是不是为了消 VAL-13（篇内同词元）？──────
+    # **实测：本会话为消 VAL-13 换词，九次里有四次把句子改坏了。**
+    #   第15篇 stopped→checking：**「did the checking」不是英文说法**；
+    #   第45篇 bolts→staple：**订书钉不是门闩**；
+    #   第24篇 remaining→leftover：**「吃剩的」用于承重钢筋语域不对**；
+    #   第44篇 lemons→citron：**事实错误 —— 林德试验用的是柠檬与橙**。
+    # **而这四处都改不回「另一个新词」：正确的词全被跨篇规则占掉了。**
+    # **VAL-13 是待核级，不是硬伤 —— 它本就允许判为保留。**
+    _stem = lambda x: re.sub(r"(ies|ing|ed|es|s)$", "", x.lower())
+    _cur = {m.group(1).lower()
+            for p_ in art["paras"]
+            for m in re.finditer(r"\*\*([^*]+?)\*\*", p_["en"])}
+    if any(_stem(w) == _stem(a.old) and w != a.old.lower() for w in _cur):
+        print("  ⚠ 本篇另有 %s 的同一词元 —— 你多半是在消 VAL-13。" % a.old)
+        print("    **VAL-13 是待核级、不是硬伤，本就允许判为保留。**")
+        print("    **本会话为消它换词，九次里四次把句子改坏**"
+              "（checking／staple／leftover／citron，后者还是事实错误）。")
+        print("    **判据：同一个词的两种形式占两个名额，代价是读者背两次；**")
+        print("    **而换成不对的词，代价是句子不成立。后者严重得多。**")
+        print("    换之前先问：新词放回那一句里，读起来还对吗？")
+
     # ── 一、vet ──
     why, freq = vet(aid, a.new, arts)
     if why:

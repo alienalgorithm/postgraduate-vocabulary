@@ -1558,6 +1558,29 @@ check("六条俱全", all(k in _ch9 for k in
 check("写明为什么不立规则", "三条判据都太松" in _ch9 and "16/55 误报" in _ch9)
 check("写明根子在哪", "合规分量的是待核条数，不是文章好坏" in _ch9)
 
+
+# ── swap.py 在换词那一刻警告 VAL-13（2026-09-02，九次里四次改坏）────
+# **VAL-13 是待核级、不是硬伤，本就允许判为保留。**
+# 而本会话为消它换词，**四次换出了错的词**：
+#   第15篇 stopped→checking（**「did the checking」不是英文说法**）；
+#   第45篇 bolts→staple（**订书钉不是门闩**）；
+#   第24篇 remaining→leftover（**「吃剩的」用于承重钢筋语域不对**）；
+#   第44篇 lemons→citron（**★ 事实错误：林德试验用的是柠檬与橙**）。
+# **而这四处都改不回「另一个新词」——正确的词全被跨篇规则占掉了。**
+# **判据：两个形式占两个名额，代价是读者背两次；换成不对的词，代价是句子不成立。**
+print("\n[swap] 换词前警告 VAL-13")
+_sw = open(os.path.join(ROOT, "scripts/swap.py"), encoding="utf-8").read()
+check("swap 会检测本篇同词元", "你多半是在消 VAL-13" in _sw)
+check("写明 VAL-13 是待核级可保留", "本就允许判为保留" in _sw)
+check("附上四次改坏的实例",
+      all(k in _sw for k in ("checking", "staple", "leftover", "citron")))
+check("问一句「读起来还对吗」", "读起来还对吗" in _sw)
+_r11 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/swap.py"),
+                       "44", "lemons", "citron", "--zh", "枸橼",
+                       "--gloss", "枸橼", "--dry"],
+                      capture_output=True, text=True, timeout=180).stdout
+check("实测：第44篇换 lemons 时警告触发", "你多半是在消 VAL-13" in _r11)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
