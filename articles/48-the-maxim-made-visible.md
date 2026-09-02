@@ -2,7 +2,7 @@
 
 > 题材：1829年伦敦警察的制服：一支队伍的每一处设计都在回答政治恐惧
 > 状态：**第四十八篇定稿**（2026-09-01）
-> 指标：265 词 / 50 重点词 / 密度 18.9%
+> 指标：266 词 / 50 重点词 / 密度 18.8%
 > 通说是皮尔1829年建了警察，犯罪从此下降。可几乎没有一处是为抓贼设计的——蓝外衣、高礼帽、藏起来的警棍、只有摇铃没有火器。每一处都在回答一个恐惧，而不是一项任务。
 
 ---
@@ -17,7 +17,7 @@ Every choice answered a fear, not a task: the English had seen Napoleon raise a 
 
 The terms kept the men ordinary. Twenty-one shillings **weekly**, under what a skilled **tradesman** drew, and the uniform came out of it — a **humble** sum, meant to be. Seven days on. Ten miles of **pavement** a day on a fixed **circuit** through the **ward**. No **taverns**, no **liquor**, no talking to **prostitutes**, no company with known thieves.
 
-Peel's second **tenet** holds that the ability of the **constabulary** to do their work rests on public **consent**. So the **policing** began with **attire** built to **reassure** the **bystander** before it ever stopped a thief. The **outfit** was not equipment. It was the **maxim** itself, made **visible**.
+Robert Peel's second **tenet** holds that the ability of the **constabulary** to do their work rests on public **consent**. So the **policing** began with **attire** built to **reassure** the **bystander** before it ever stopped a thief. The **outfit** was not equipment. It was the **maxim** itself, made **visible**.
 
 ---
 
@@ -34,7 +34,7 @@ Peel's second **tenet** holds that the ability of the **constabulary** to do the
 
 待遇也刻意让这些人保持普通。**每周**(weekly)二十一先令，比一个熟练**手艺人**(tradesman)挣得少，而且制服钱要从里头出——一笔**微薄**(humble)的数目，本就是要它微薄。一周七天。每天十英里**人行道**(pavement)，走固定的**一圈**(circuit)、穿过自己的**片区**(ward)。不准进**酒馆**(taverns)，不准沾**酒**(liquor)，不准跟**妓女**(prostitutes)搭话，不准与已知的贼来往。
 
-皮尔的第二条**信条**(tenet)说：**警队**(constabulary)能否履职，取决于公众对其行为的**认可**(consent)。所以这套**治安**(policing)是从一身**衣着**(attire)开始的——它先要**安抚**(reassure)那个**旁观者**(bystander)，然后才谈得上拦下一个贼。这身**装束**(outfit)不是装备。它就是那条**准则**(maxim)本身，被做成**看得见的**(visible)。
+罗伯特·皮尔的第二条**信条**(tenet)说：**警队**(constabulary)能否履职，取决于公众对其行为的**认可**(consent)。所以这套**治安**(policing)是从一身**衣着**(attire)开始的——它先要**安抚**(reassure)那个**旁观者**(bystander)，然后才谈得上拦下一个贼。这身**装束**(outfit)不是装备。它就是那条**准则**(maxim)本身，被做成**看得见的**(visible)。
 
 ---
 

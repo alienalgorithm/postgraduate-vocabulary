@@ -11,9 +11,9 @@
 
 The usual account has English **potters** unable to buy china **clay** and reaching for burnt bone as a **makeshift**. Thomas Frye **burnt** **cattle** **carcass** at **Bow** in 1748, ground the **ash** fine, worked it into the clay, and drew something white and **translucent** from the **kiln**.
 
-The obstacle then went away. William Cookworthy found **kaolin** and **feldspar** in a **Cornish** **quarry** and patented the hard **paste** in 1768. It passed to Champion, then to a Staffordshire consortium, and lapsed in 1796. From that year any **potter** could work the true **mineral** and sell the **wares** — **dish** or **bowl** — unhindered.
+The obstacle then went away. William Cookworthy found **kaolin** and **feldspar** in a **Cornish** **quarry** and patented the hard **paste** in 1768. It passed to Champion, then to a Staffordshire consortium, and lapsed in 1796. From that year any **craftsman** could work the true **mineral** and sell the **wares** — **dish** or **bowl** — unhindered.
 
-Almost none did. Josiah Spode had fixed his mixture around 1790 and it became the English rule, **moulded** and **thrown** in every Staffordshire kiln: six of ash, four of stone, three and a half of clay, **fired** twice. A **teapot** so made **chimed** when tapped; **spout** and **lid** rang one note, and the **crockery** took **enamel** without a **hairline**.
+Almost none did. Josiah Spode had fixed his mixture around 1790 and it became the English rule, **moulded** and **thrown** in every Staffordshire kiln: six of ash, four of stone, three and a half of clay, **baked** twice. A **teapot** so made **chimed** when tapped; **spout** and **lid** rang one note, and the **crockery** took **enamel** without a **hairline**.
 
 Read the proportions. The **silica** is in it. The **pottery** stone is in it. The bone was never a **surrogate** for a missing **oxide**: nothing is missing. It is a third **ingredient** added to both. The **firing** takes the **biscuit** through a second **bake**, then a **slip** and a **glaze**.
 
@@ -26,11 +26,11 @@ What the bone bought was not supply. It was a **ware** that fired **whiter**, **
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-通行的说法是：英国**陶工**(potters)买不到瓷**土**(clay)，只好抓一把烧过的骨头当**权宜之计**(makeshift)。1748年，托马斯·弗莱在**弓区**(Bow)**烧**(burnt)**牛**(cattle)**骨架**(carcass)，把**灰**(ash)磨细，掺进泥里，从**窑**(kiln)中取出了一件白而**透光**(translucent)的东西。
+通行的说法是：英国**陶工**(potters)买不到瓷**土**(clay)，只好抓一把烧过的骨头当**权宜之计**(makeshift)。1748年，托马斯·弗莱在**弓区**(Bow)**烧**(burnt)了**牛**(cattle)**骨架**(carcass)，把**灰**(ash)磨细，掺进泥里，从**窑**(kiln)中取出了一件白而**透光**(translucent)的东西。
 
-然后那道障碍消失了。威廉·库克沃西在一处**康沃尔**(Cornish)**采石场**(quarry)找到了**高岭土**(kaolin)与**长石**(feldspar)，1768年为硬**瓷胎**(paste)申了专利。专利转给钱皮恩，再转给斯塔福德郡的一伙人，1796年到期。从那一年起，任何**陶工**(potter)都能用上真正的**矿料**(mineral)，把**器皿**(wares)——**盘**(dish)或**碗**(bowl)——卖个痛快。
+然后那道障碍消失了。威廉·库克沃西在一处**康沃尔**(Cornish)**采石场**(quarry)找到了**高岭土**(kaolin)与**长石**(feldspar)，1768年为硬**瓷胎**(paste)申了专利。专利转给钱皮恩，再转给斯塔福德郡的一伙人，1796年到期。从那一年起，任何**匠人**(craftsman)都能用上真正的**矿料**(mineral)，把**器皿**(wares)——**盘**(dish)也好**碗**(bowl)也好——卖个痛快。
 
-却几乎没人回头去用。约西亚·斯波德约1790年定下了他的配比，那成了英国的规矩，在斯塔福德郡每一座窑里被**模压**(moulded)、被**拉坯**(thrown)：六份灰、四份石、三份半土，**烧**(fired)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上**釉彩**(enamel)而不起一道**发丝纹**(hairline)。
+却几乎没人回头去用。约西亚·斯波德约1790年定下了他的配比，那成了英国的规矩，在斯塔福德郡每一座窑里被**模压**(moulded)、被**拉坯**(thrown)：六份灰、四份石、三份半土，**焙**(baked)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上**釉彩**(enamel)而不起一道**发丝纹**(hairline)。
 
 把那个配比再读一遍。**硅**(silica)在里头。**瓷**(pottery)石在里头。骨从来不是某种缺失**氧化物**(oxide)的**替身**(surrogate)：什么也没缺。它是加进这两样之外的第三种**配料**(ingredient)。此后的**烧制**(firing)把**素坯**(biscuit)送过第二道**焙**(bake)，再上**泥浆**(slip)与**釉**(glaze)。
 
@@ -42,9 +42,9 @@ What the bone bought was not supply. It was a **ware** that fired **whiter**, **
 
 **§1**（10词）potters 陶工（复）｜clay 黏土；瓷土｜makeshift 权宜之计｜burnt 烧｜cattle 牛（集合）｜carcass 骨架；尸骸｜bow 弓；弓区｜ash 灰｜translucent 透光的｜kiln 窑
 
-**§2**（10词）kaolin 高岭土｜feldspar 长石｜cornish 康沃尔的｜quarry 采石场｜paste 瓷胎；糊｜potter 陶工｜mineral 矿料｜wares 器皿（复）｜dish 盘｜bowl 碗
+**§2**（10词）kaolin 高岭土｜feldspar 长石｜cornish 康沃尔的｜quarry 采石场｜paste 瓷胎；糊｜craftsman 匠人｜mineral 矿料｜wares 器皿（复）｜dish 盘｜bowl 碗
 
-**§3**（10词）moulded 模压｜thrown 拉坯；投掷｜fired 烧制｜teapot 茶壶｜chimed 鸣响｜spout 壶嘴｜lid 盖｜crockery 陶瓷器皿｜enamel 釉彩；珐琅｜hairline 发丝纹
+**§3**（10词）moulded 模压｜thrown 拉坯；投掷｜baked 焙烧｜teapot 茶壶｜chimed 鸣响｜spout 壶嘴｜lid 盖｜crockery 陶瓷器皿｜enamel 釉彩；珐琅｜hairline 发丝纹
 
 **§4**（10词）silica 二氧化硅｜pottery 陶瓷｜surrogate 替身｜oxide 氧化物｜ingredient 配料｜firing 烧制｜biscuit 素坯；饼干｜bake 焙烧｜slip 泥浆；滑｜glaze 釉
 

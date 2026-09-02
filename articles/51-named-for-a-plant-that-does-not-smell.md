@@ -9,9 +9,9 @@
 
 ## 英文正文
 
-Fougère is French for **fern**. **Ferns** have almost no **scent**; nobody ever sniffed one and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay, and the **fragrance** family it founded is still the largest in men's **perfumery**.
+Fougère is French for **fern**. **Bracken** has almost no **scent**; nobody ever sniffed one and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay, and the **fragrance** family it founded is still the largest in men's **perfumery**.
 
-The **blend** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, thirteen years before anyone put it in a bottle. Parquet's coumarin was identical to the **essence** in that **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.
+The **composition** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, thirteen years before anyone put it in a bottle. Parquet's coumarin was identical to the **essence** in that **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.
 
 That is the point usually missed. The **synthetic** was not a cheap stand-in for a natural material. It lifted a limit. Until then a **bouquet** could be **composed** only from what grew: you **distilled** a **petal**, crushed a **rind**, tapped a **resin** or a **bark**. **Botany** set the **palette**, not **imagination**.
 
@@ -26,9 +26,9 @@ And the first **accord** built this way was named for a plant that does not smel
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-Fougère在法语里是**蕨**(fern)。**蕨类**(Ferns)几乎没有**气味**(scent)；没人嗅过一株蕨还记住它。1882年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气；而它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。
+Fougère在法语里是**蕨**(fern)。**羊齿**(Bracken)几乎没有**气味**(scent)；没人嗅过一株蕨还记住它。1882年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气；而它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。
 
-这瓶**调和**(blend)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金1868年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十三年。帕凯用的香豆素，与那颗**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。
+这瓶**配方**(composition)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金1868年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十三年。帕凯用的香豆素，与那颗**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。
 
 而这一点常被忽略：**合成物**(synthetic)并不是天然原料的廉价替身。它抬掉了一道限制。在此之前，一束**香**(bouquet)只能由长出来的东西**调成**(composed)：你**蒸馏**(distilled)一片**花瓣**(petal)，压碎一层**果皮**(rind)，割取一块**树脂**(resin)或一片**树皮**(bark)。定下**调色盘**(palette)的是**植物学**(botany)，不是**想象力**(imagination)。
 
@@ -40,9 +40,9 @@ Fougère在法语里是**蕨**(fern)。**蕨类**(Ferns)几乎没有**气味**(s
 
 ## 50 词速查表
 
-**§1**（10词）fern 蕨｜ferns 蕨类（复）｜scent 气味；香味｜perfume 香水｜lavender 薰衣草｜geranium 天竺葵｜moss 苔藓｜whiff 一缕气味｜fragrance 香型；芬芳｜perfumery 香水业
+**§1**（10词）fern 蕨｜bracken 羊齿；欧洲蕨｜scent 气味；香味｜perfume 香水｜lavender 薰衣草｜geranium 天竺葵｜moss 苔藓｜whiff 一缕气味｜fragrance 香型；芬芳｜perfumery 香水业
 
-**§2**（10词）blend 调和物｜tonka 零陵香豆｜flask 烧瓶｜essence 精质；本质｜pod 豆荚｜imitation 仿制｜supplier 供货方｜purity 纯度｜vat 大桶｜tincture 酊剂；浸剂
+**§2**（10词）composition 配方；组成｜tonka 零陵香豆｜flask 烧瓶｜essence 精质；本质｜pod 豆荚｜imitation 仿制｜supplier 供货方｜purity 纯度｜vat 大桶｜tincture 酊剂；浸剂
 
 **§3**（11词）synthetic 合成物｜bouquet 香束；花束｜composed 调成；构成｜distilled 蒸馏｜petal 花瓣｜rind 果皮｜resin 树脂｜bark 树皮｜botany 植物学｜palette 调色盘｜imagination 想象力
 

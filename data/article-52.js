@@ -14,15 +14,15 @@
       "paras": [
         {
           "en": "The usual account has English **potters** unable to buy china **clay** and reaching for burnt bone as a **makeshift**. Thomas Frye **burnt** **cattle** **carcass** at **Bow** in 1748, ground the **ash** fine, worked it into the clay, and drew something white and **translucent** from the **kiln**.",
-          "zh": "通行的说法是：英国**陶工**(potters)买不到瓷**土**(clay)，只好抓一把烧过的骨头当**权宜之计**(makeshift)。1748年，托马斯·弗莱在**弓区**(Bow)**烧**(burnt)**牛**(cattle)**骨架**(carcass)，把**灰**(ash)磨细，掺进泥里，从**窑**(kiln)中取出了一件白而**透光**(translucent)的东西。"
+          "zh": "通行的说法是：英国**陶工**(potters)买不到瓷**土**(clay)，只好抓一把烧过的骨头当**权宜之计**(makeshift)。1748年，托马斯·弗莱在**弓区**(Bow)**烧**(burnt)了**牛**(cattle)**骨架**(carcass)，把**灰**(ash)磨细，掺进泥里，从**窑**(kiln)中取出了一件白而**透光**(translucent)的东西。"
         },
         {
-          "en": "The obstacle then went away. William Cookworthy found **kaolin** and **feldspar** in a **Cornish** **quarry** and patented the hard **paste** in 1768. It passed to Champion, then to a Staffordshire consortium, and lapsed in 1796. From that year any **potter** could work the true **mineral** and sell the **wares** — **dish** or **bowl** — unhindered.",
-          "zh": "然后那道障碍消失了。威廉·库克沃西在一处**康沃尔**(Cornish)**采石场**(quarry)找到了**高岭土**(kaolin)与**长石**(feldspar)，1768年为硬**瓷胎**(paste)申了专利。专利转给钱皮恩，再转给斯塔福德郡的一伙人，1796年到期。从那一年起，任何**陶工**(potter)都能用上真正的**矿料**(mineral)，把**器皿**(wares)——**盘**(dish)或**碗**(bowl)——卖个痛快。"
+          "en": "The obstacle then went away. William Cookworthy found **kaolin** and **feldspar** in a **Cornish** **quarry** and patented the hard **paste** in 1768. It passed to Champion, then to a Staffordshire consortium, and lapsed in 1796. From that year any **craftsman** could work the true **mineral** and sell the **wares** — **dish** or **bowl** — unhindered.",
+          "zh": "然后那道障碍消失了。威廉·库克沃西在一处**康沃尔**(Cornish)**采石场**(quarry)找到了**高岭土**(kaolin)与**长石**(feldspar)，1768年为硬**瓷胎**(paste)申了专利。专利转给钱皮恩，再转给斯塔福德郡的一伙人，1796年到期。从那一年起，任何**匠人**(craftsman)都能用上真正的**矿料**(mineral)，把**器皿**(wares)——**盘**(dish)也好**碗**(bowl)也好——卖个痛快。"
         },
         {
-          "en": "Almost none did. Josiah Spode had fixed his mixture around 1790 and it became the English rule, **moulded** and **thrown** in every Staffordshire kiln: six of ash, four of stone, three and a half of clay, **fired** twice. A **teapot** so made **chimed** when tapped; **spout** and **lid** rang one note, and the **crockery** took **enamel** without a **hairline**.",
-          "zh": "却几乎没人回头去用。约西亚·斯波德约1790年定下了他的配比，那成了英国的规矩，在斯塔福德郡每一座窑里被**模压**(moulded)、被**拉坯**(thrown)：六份灰、四份石、三份半土，**烧**(fired)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上**釉彩**(enamel)而不起一道**发丝纹**(hairline)。"
+          "en": "Almost none did. Josiah Spode had fixed his mixture around 1790 and it became the English rule, **moulded** and **thrown** in every Staffordshire kiln: six of ash, four of stone, three and a half of clay, **baked** twice. A **teapot** so made **chimed** when tapped; **spout** and **lid** rang one note, and the **crockery** took **enamel** without a **hairline**.",
+          "zh": "却几乎没人回头去用。约西亚·斯波德约1790年定下了他的配比，那成了英国的规矩，在斯塔福德郡每一座窑里被**模压**(moulded)、被**拉坯**(thrown)：六份灰、四份石、三份半土，**焙**(baked)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上**釉彩**(enamel)而不起一道**发丝纹**(hairline)。"
         },
         {
           "en": "Read the proportions. The **silica** is in it. The **pottery** stone is in it. The bone was never a **surrogate** for a missing **oxide**: nothing is missing. It is a third **ingredient** added to both. The **firing** takes the **biscuit** through a second **bake**, then a **slip** and a **glaze**.",
@@ -124,8 +124,8 @@
           "p": 2
         },
         {
-          "w": "potter",
-          "zh": "陶工",
+          "w": "craftsman",
+          "zh": "匠人",
           "p": 2
         },
         {
@@ -159,8 +159,8 @@
           "p": 3
         },
         {
-          "w": "fired",
-          "zh": "烧制",
+          "w": "baked",
+          "zh": "焙烧",
           "p": 3
         },
         {

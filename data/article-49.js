@@ -13,8 +13,8 @@
       "status": "第四十九篇定稿",
       "paras": [
         {
-          "en": "In the **epidemic** of 1721 Zabdiel Boylston, an **apothecary** with no **diploma**, kept a count. Of some 240 **townsfolk** he **inoculated**, six **succumbed**. Of the **untreated** who **caught** the **pox**, fourteen in every hundred died. He put both **proportions** in a **broadside**.",
-          "zh": "1721年那场**疫情**(epidemic)里，扎布迪尔·博伊尔斯顿——一个没有**文凭**(diploma)的**药剂师**(apothecary)——记了一笔账。他**接种**(inoculated)过的约240名**镇民**(townsfolk)里，6人**没挺过来**(succumbed)。而**未接种**(untreated)却**染上**(caught)**天花**(pox)的人，每一百个里死14个。他把这两个**比例**(proportions)一并印在一张**大报**(broadside)上。"
+          "en": "In the **epidemic** of 1721 Zabdiel Boylston, an **apothecary** with no **diploma**, kept a count. Of some 240 **townsfolk** he **inoculated**, six **succumbed**. Of the **untreated** who **caught** the **pox**, 14 in every 100 died. He put both **proportions** in a **broadside**.",
+          "zh": "1721年那场**疫情**(epidemic)里，扎布迪尔·博伊尔斯顿——一个没有**文凭**(diploma)的**药剂师**(apothecary)——记了一笔账。他**接种**(inoculated)过的约240名**镇民**(townsfolk)里，6人**没挺过来**(succumbed)。而**未接种**(untreated)却**染上**(caught)**天花**(pox)的人，每 100 个里死 14 个。他把这两个**比例**(proportions)一并印在一张**大报**(broadside)上。"
         },
         {
           "en": "The method was neither his nor new. Matter from a **ripe** **blister**, an **incision**, a **lancet**; or dried **scabs** up the **nostrils**. West Africa, India and Ottoman lands had used it for generations. It reached Boston through Onesimus, an **enslaved** West African: treated so at home, he told Cotton Mather, and **spared** ever after. The town called it **heathen** **hearsay**.",
@@ -40,7 +40,8 @@
         "**★★★ 已核 · 论战的了结方式**：**「Boylston 与 Mather 收集了感染数据，得以显示接种把天花病死率从约 15% 降到 1—2%。」****「到 1749 年，接种最激烈的反对者 William Douglass 发表文章，承认了接种的好处。」****⚠ 道格拉斯改口之年，来源有 1730 与 1749 两说。本文取 1730**（该年他已在文中为接种辩护，1749 为其更完整的公开承认）。**此点已在正文以「by 1730」表述。**",
         "**已核 · 当时没有任何机理可援引**：**抗体的发现在 1890 年代（距 1721 年约 170 年）**；**细菌致病学说至 19 世纪中后期方立**。**即：1721 年既无免疫学也无微生物学，接种之效在当时无法解释。**本文据此写「没有解释可援引，没有权威可引用」。",
         "**已核 · 蒙塔古夫人与英国那一线**：Lady Mary Wortley Montagu 1717—18 年在君士坦丁堡见此法，**1718 年 3 月为其子接种，1721 年为其女接种**，并促成威尔士王妃为其女接种。**人痘接种的病死率约 1—3%，而自然染病约 30%**（另有作 14—15% 者，视疫情与人群而异）。**本文不写英国这一线，因为篇幅与论点都在波士顿那笔账上。**",
-        "**本篇的机制边界**：这不是「琴纳被高估了」的故事。**牛痘接种确实更安全**——人痘用的是真天花，本身有 1—3% 的致死风险；牛痘几乎没有。**琴纳改变的不是「有没有办法」，是风险。****本文的论点在别处**：**在既无机理又无权威可援引时，一场辩论仍可以被两个并排的数字了结。****而更该记的一层是：那项被计数证明有效的做法，此前正是因为传入者的身份而被全城拒斥**——**计数之所以必要，恰恰因为别的判据都被身份污染了。**"
+        "**本篇的机制边界**：这不是「琴纳被高估了」的故事。**牛痘接种确实更安全**——人痘用的是真天花，本身有 1—3% 的致死风险；牛痘几乎没有。**琴纳改变的不是「有没有办法」，是风险。****本文的论点在别处**：**在既无机理又无权威可援引时，一场辩论仍可以被两个并排的数字了结。****而更该记的一层是：那项被计数证明有效的做法，此前正是因为传入者的身份而被全城拒斥**——**计数之所以必要，恰恰因为别的判据都被身份污染了。**",
+        "**已核 · 正文「每 100 个里死 14 个」的写法**：**来源作 14%（自然染病者的病死率）**，正文以「每 100 个里死 14 个」表述同一比例，与前文「约 240 人接种死 6 个」的分子分母写法一致，便于并排对读。**另：导语提到的 1796 年（琴纳首次牛痘接种）为通说的时间坐标，正文不写，因为本篇论点在 1721 年那笔账，而非琴纳。**"
       ],
       "metrics": {
         "words": 268,

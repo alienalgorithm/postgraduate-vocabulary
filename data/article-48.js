@@ -29,8 +29,8 @@
           "zh": "待遇也刻意让这些人保持普通。**每周**(weekly)二十一先令，比一个熟练**手艺人**(tradesman)挣得少，而且制服钱要从里头出——一笔**微薄**(humble)的数目，本就是要它微薄。一周七天。每天十英里**人行道**(pavement)，走固定的**一圈**(circuit)、穿过自己的**片区**(ward)。不准进**酒馆**(taverns)，不准沾**酒**(liquor)，不准跟**妓女**(prostitutes)搭话，不准与已知的贼来往。"
         },
         {
-          "en": "Peel's second **tenet** holds that the ability of the **constabulary** to do their work rests on public **consent**. So the **policing** began with **attire** built to **reassure** the **bystander** before it ever stopped a thief. The **outfit** was not equipment. It was the **maxim** itself, made **visible**.",
-          "zh": "皮尔的第二条**信条**(tenet)说：**警队**(constabulary)能否履职，取决于公众对其行为的**认可**(consent)。所以这套**治安**(policing)是从一身**衣着**(attire)开始的——它先要**安抚**(reassure)那个**旁观者**(bystander)，然后才谈得上拦下一个贼。这身**装束**(outfit)不是装备。它就是那条**准则**(maxim)本身，被做成**看得见的**(visible)。"
+          "en": "Robert Peel's second **tenet** holds that the ability of the **constabulary** to do their work rests on public **consent**. So the **policing** began with **attire** built to **reassure** the **bystander** before it ever stopped a thief. The **outfit** was not equipment. It was the **maxim** itself, made **visible**.",
+          "zh": "罗伯特·皮尔的第二条**信条**(tenet)说：**警队**(constabulary)能否履职，取决于公众对其行为的**认可**(consent)。所以这套**治安**(policing)是从一身**衣着**(attire)开始的——它先要**安抚**(reassure)那个**旁观者**(bystander)，然后才谈得上拦下一个贼。这身**装束**(outfit)不是装备。它就是那条**准则**(maxim)本身，被做成**看得见的**(visible)。"
         }
       ],
       "facts": [
@@ -43,9 +43,9 @@
         "**本篇的机制边界**：这不是「制服比破案重要」的故事。**皮尔改革之后伦敦记录在案的犯罪确实下降**，且这是在人口持续增长的前提下发生的。**本文的论点在于：一支需要公众同意才能运作的队伍，其首要设计约束不是效能而是外观**——**蓝而非红、礼帽而非头盔、警棍藏于衣下、摇铃而非火器，四处皆非业务需要，皆为政治回答。****而那个绰号证明公众恰恰读懂了这套设计**：他们知道自己在看什么，并说了出来。**制服因此不是装备，是那条原则被做成了看得见的东西。**"
       ],
       "metrics": {
-        "words": 265,
+        "words": 266,
         "keywords": 50,
-        "density": 18.9
+        "density": 18.8
       },
       "glossary": [
         {

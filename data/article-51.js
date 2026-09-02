@@ -13,12 +13,12 @@
       "status": "第五十一篇定稿",
       "paras": [
         {
-          "en": "Fougère is French for **fern**. **Ferns** have almost no **scent**; nobody ever sniffed one and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay, and the **fragrance** family it founded is still the largest in men's **perfumery**.",
-          "zh": "Fougère在法语里是**蕨**(fern)。**蕨类**(Ferns)几乎没有**气味**(scent)；没人嗅过一株蕨还记住它。1882年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气；而它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。"
+          "en": "Fougère is French for **fern**. **Bracken** has almost no **scent**; nobody ever sniffed one and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay, and the **fragrance** family it founded is still the largest in men's **perfumery**.",
+          "zh": "Fougère在法语里是**蕨**(fern)。**羊齿**(Bracken)几乎没有**气味**(scent)；没人嗅过一株蕨还记住它。1882年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气；而它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。"
         },
         {
-          "en": "The **blend** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, thirteen years before anyone put it in a bottle. Parquet's coumarin was identical to the **essence** in that **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.",
-          "zh": "这瓶**调和**(blend)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金1868年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十三年。帕凯用的香豆素，与那颗**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。"
+          "en": "The **composition** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, thirteen years before anyone put it in a bottle. Parquet's coumarin was identical to the **essence** in that **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.",
+          "zh": "这瓶**配方**(composition)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金1868年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十三年。帕凯用的香豆素，与那颗**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。"
         },
         {
           "en": "That is the point usually missed. The **synthetic** was not a cheap stand-in for a natural material. It lifted a limit. Until then a **bouquet** could be **composed** only from what grew: you **distilled** a **petal**, crushed a **rind**, tapped a **resin** or a **bark**. **Botany** set the **palette**, not **imagination**.",
@@ -52,8 +52,8 @@
           "p": 1
         },
         {
-          "w": "ferns",
-          "zh": "蕨类（复）",
+          "w": "bracken",
+          "zh": "羊齿；欧洲蕨",
           "p": 1
         },
         {
@@ -97,8 +97,8 @@
           "p": 1
         },
         {
-          "w": "blend",
-          "zh": "调和物",
+          "w": "composition",
+          "zh": "配方；组成",
           "p": 2
         },
         {
