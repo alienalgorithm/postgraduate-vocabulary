@@ -17,7 +17,7 @@ Havens Steel found the long rod **impractical** to **fabricate**. The whole **le
 
 Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore that floor and everything **hanging** **beneath** the beam. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for it.
 
-Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the **upper** walkway and fewer than sixty on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **remaining** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.
+Havens **telephoned**; **verbal** **approval** came back, and the written **request** never followed. Fewer than ten stood on the **upper** walkway and fewer than sixty on the lower — nowhere near a **throng**. A nut pulled through its beam; its load **passed** to the **leftover** rods, which went the same way. The new **detail** could carry about a third of what city **regulation** required.
 
 ---
 
@@ -34,7 +34,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上那根梁**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为它算过一笔**账**(sums)。
 
-哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，**上层**(upper)天桥上站着不到十人，下层不到六十人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**剩下**(remaining)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。
+哈文斯打了**电话**(telephoned)，**口头**(verbal)**批准**(approval)回过来了，书面**申请**(request)始终没补。那一刻，**上层**(upper)天桥上站着不到十人，下层不到六十人——离**满员**(throng)差得远。一个螺母从梁里被拽穿；它那份荷载**转**(passed)给**余下的**(leftover)的几根杆，它们也一根接一根被拽穿。改后的这个**做法**(detail)，只能承受当地**法规**(regulation)要求的约三分之一。
 
 ---
 
@@ -48,7 +48,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 **§4**（10词）layouts 排布（复）｜bore 承受（过去式）｜hanging 悬挂着的｜beneath 在下方｜altered 改动｜sketch 图样｜hardly 几乎不｜doubled 使加倍｜connection 接合；接头｜sums 账；算式（复）
 
-**§5**（10词）telephoned 打了电话｜verbal 口头的｜approval 批准｜request 申请｜upper 上层的｜throng 满员；人群｜passed 转移｜remaining 剩下的｜detail 做法；细部｜regulation 法规
+**§5**（10词）telephoned 打了电话｜verbal 口头的｜approval 批准｜request 申请｜upper 上层的｜throng 满员；人群｜passed 转移｜leftover 剩下的；余留的｜detail 做法；细部｜regulation 法规
 
 ---
 

@@ -39,7 +39,8 @@
         "**已核 · 它不是人口普查**：「**unlike the modern census, it did not provide an accurate count of the people**」；「**Domesday's purpose was to establish the ownership of assets, so that owners could be taxed**」。调查主旨为**记录每一处地产对其领主的年值，以及价值所由来的土地、劳力与牲畜**。以拉丁文写成，高度缩写，并夹入若干无拉丁对应词的本地词汇。",
         "**★ 已核 · 名字的来历（本篇的第二重反转）**：**「the judgment of the Domesday assessors was final—whatever the book said about who held the material wealth or what it was worth, was the law, and there was no appeal.」****Richard FitzNigel 约 1179 年释此名**：「**as the sentence of that strict and terrible last account cannot be evaded by any skilful subterfuge, so when this book is appealed to ... its sentence cannot be quashed or set aside with impunity. That is why we have called the book 'the Book of Judgement'**」。**即：Domesday 之名取自「不可上诉」，而非「无所不包」。**「Domesday」这一称呼于 12 世纪始用。",
         "**已核 · 至今仍有法律效力**：「**Through many centuries, the Domesday Book has provided evidence in disputes over ancient land and property rights. Such a case was made as recently as the 1960s.**」1086 至 1960 年代约**八百八十年**，本文取整为「八百年过去了」。2006 年 8 月，英国国家档案馆首次提供全文在线版。全书实为两部：Little Domesday（诺福克、萨福克、埃塞克斯，更详）与 Great Domesday（其余各郡）。",
-        "**本篇的机制边界**：这不是一个「档案有疏漏」的故事。**遗漏伦敦与温切斯特很可能只因两城规模与结构过于复杂**，并非隐瞒。**本文的论点在别处**：一份记录的权威可以有两个来源——**准确**，或**终局**。**准确的记录可被更好的证据推翻；终局的记录不能，于是它不再描述世界，而开始规定世界。**「末日审判书」这个名字所指的正是后者，**而八百年后它仍在法庭上生效，就是这一点的证明**。"
+        "**本篇的机制边界**：这不是一个「档案有疏漏」的故事。**遗漏伦敦与温切斯特很可能只因两城规模与结构过于复杂**，并非隐瞒。**本文的论点在别处**：一份记录的权威可以有两个来源——**准确**，或**终局**。**准确的记录可被更好的证据推翻；终局的记录不能，于是它不再描述世界，而开始规定世界。**「末日审判书」这个名字所指的正是后者，**而八百年后它仍在法庭上生效，就是这一点的证明**。",
+        "**已核 · 正文两个数**：**《末日审判书》记录了 13,418 处聚落**；**列出约 270,000 名户主**，其下之人不予记名。**⚠ 13,418 与 270,000 均为学界常引的整理值，不同版本统计口径略有出入。**[Domesday Book · Wikipedia](https://en.wikipedia.org/wiki/Domesday_Book)"
       ],
       "metrics": {
         "words": 270,

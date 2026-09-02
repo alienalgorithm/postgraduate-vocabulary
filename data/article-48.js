@@ -13,7 +13,7 @@
       "status": "第四十八篇定稿",
       "paras": [
         {
-          "en": "A parliamentary **tribunal** had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables**.",
+          "en": "A parliamentary **tribunal** had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** taken in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables** on the books.",
           "zh": "1819年，一个议会**委员会**(tribunal)把这个主意斥为**可憎**(odious)而**令人厌恶**(repulsive)。十年后，皮尔的法案6月19日获**批准**(assent)，**巡逻**(patrol)队上了街。1829年9月**点名**(muster)的人数是：20名**上级**(superiors)、88名**警长**(sergeants)、895名**领薪的**(salaried)**警员**(constables)。"
         },
         {
@@ -43,9 +43,9 @@
         "**本篇的机制边界**：这不是「制服比破案重要」的故事。**皮尔改革之后伦敦记录在案的犯罪确实下降**，且这是在人口持续增长的前提下发生的。**本文的论点在于：一支需要公众同意才能运作的队伍，其首要设计约束不是效能而是外观**——**蓝而非红、礼帽而非头盔、警棍藏于衣下、摇铃而非火器，四处皆非业务需要，皆为政治回答。****而那个绰号证明公众恰恰读懂了这套设计**：他们知道自己在看什么，并说了出来。**制服因此不是装备，是那条原则被做成了看得见的东西。**"
       ],
       "metrics": {
-        "words": 266,
+        "words": 270,
         "keywords": 50,
-        "density": 18.8
+        "density": 18.5
       },
       "glossary": [
         {

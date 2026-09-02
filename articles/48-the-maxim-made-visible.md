@@ -2,14 +2,14 @@
 
 > 题材：1829年伦敦警察的制服：一支队伍的每一处设计都在回答政治恐惧
 > 状态：**第四十八篇定稿**（2026-09-01）
-> 指标：266 词 / 50 重点词 / 密度 18.8%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 通说是皮尔1829年建了警察，犯罪从此下降。可几乎没有一处是为抓贼设计的——蓝外衣、高礼帽、藏起来的警棍、只有摇铃没有火器。每一处都在回答一个恐惧，而不是一项任务。
 
 ---
 
 ## 英文正文
 
-A parliamentary **tribunal** had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables**.
+A parliamentary **tribunal** had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** taken in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables** on the books.
 
 Almost nothing about them was built to catch **thieves**. The coat was blue because the army wore red, and the collar sat low. The **headgear** was a **reinforced** top hat with a **stiff** brim, not a **helmet**. The baton rode **tucked** under the swallow **tails**. A **rattle**, never a firearm. The men walked **unarmed**, and **overtly** so.
 
