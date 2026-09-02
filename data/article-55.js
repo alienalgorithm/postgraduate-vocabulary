@@ -17,16 +17,16 @@
           "zh": "都说荷兰人从海里夺回了土地。他们是把地**降**(lowered)进了海里，此后一直托着它。一千年前，莱茵河口那片**三角洲**(delta)是高位**沼泽**(bog)：**浸透水的**(waterlogged)**泥炭**(peat)高出**潮位**(tide)三四米，**湿软**(soggy)得犁不动，**松泡**(spongy)得承不住一辆车，**淤泥**(silt)与**泥淖**(quagmire)而已。"
         },
         {
-          "en": "Then the heavy **plough** arrived, its iron **coulter** turning that **sod**. Working it meant drying it, so farmers cut **channels** across the **marsh**. At the **trench** wall the cut face meets air. It **rots** away as gas and water, and the grains **compact** under their own weight. The surface **sagged**, then **subsided**.",
-          "zh": "后来重**犁**(plough)来了，铁**犁刀**(coulter)能翻开那层**生草土**(sod)。要种它就得把它弄干，于是农户在**沼泽**(marsh)上开出一道道**沟渠**(channels)。在**沟**(trench)壁上，切开的断面遇到空气。它化作气与水**烂**(rots)掉，颗粒在自身重量下**压实**(compact)。地表先是**塌**(sagged)，继而**下陷**(subsided)。"
+          "en": "Then the heavy **plough** arrived, its iron **coulter** turning that **sod**. Working it meant drying it, so farmers cut **channels** across the **marsh**. Where a **trench** cut the peat, the face met air: it **rots** away as gas and water, the grains **compact** under their own weight. So the surface **sagged**, then **subsided**.",
+          "zh": "后来重**犁**(plough)来了，铁**犁刀**(coulter)能翻开那层**生草土**(sod)。要种它就得把它弄干，于是农户在**沼泽**(marsh)上开出一道道**沟渠**(channels)。**沟**(trench)切开泥炭之处，断面便遇上空气：它化作气与水**烂**(rots)掉，颗粒在自身重量下**压实**(compact)。于是地表先**塌**(sagged)，继而**下陷**(subsided)。"
         },
         {
-          "en": "A sunk field needs **deepened** **drainage**; deeper **conduits** sink it further. Every **dry** season is paid in **compaction**. **Windmills** came, then steam, then diesel, each round of **sump** and wheel buying a season of **pasture** and taking a slice. What the maps call **reclaimed** land had been **slumped** land all along.",
-          "zh": "一块沉下去的田需要更深的**排水**(drainage)，而**加深**(deepened)的**管道**(conduits)让它沉得更深。每一个**干**(dry)季，都以**压密**(compaction)偿付。**风车**(Windmills)来了，然后是蒸汽，然后是柴油，每一轮**集水井**(sump)与叶轮换来一季**牧场**(pasture)，同时从地里再削去一层。地图上写作**填出来的**(reclaimed)地，其实一直是**塌下去的**(slumped)地。"
+          "en": "A sunk field needs **deepened** **drainage**; deeper **conduits** sink it further. **Windmills** came, then steam, then diesel; each round of **sump** and wheel bought one **dry** season of **pasture**, and every such season was paid for in **compaction**. What the maps call **reclaimed** land had been **slumped** land all along.",
+          "zh": "一块沉下去的田需要更深的**排水**(drainage)，而**加深**(deepened)的**管道**(conduits)让它沉得更深。**风车**(Windmills)来了，然后是蒸汽，然后是柴油，每一轮**集水井**(sump)与叶轮换来一个**干**(dry)爽的**牧场**(pasture)季，而每一个这样的季节，都要以又一层**压密**(compaction)去偿付。地图上写作**填出来的**(reclaimed)地，其实一直是**塌下去的**(slumped)地。"
         },
         {
-          "en": "At Bodegraven-Reeuwijk the ground has fallen 3 metres in 900 years, **monitored** against a fixed **datum**. The Zuidplaspolder lies 7 metres below the sea, a **hollow**; a bungalow **gable** would stand underwater but for the **embankment**. A **storm** in the **estuary** runs above the **eaves** of the **fen** villages. Peat districts still **subside** 1 to 2 centimetres a year.",
-          "zh": "在博德赫拉芬-雷韦克，地面在900年里降了3米，这是以固定**基准面**(datum)**监测**(monitored)出来的。祖伊德普拉斯圩低于海平面7米，是一处**洼**(hollow)；那里一栋平房的**山墙**(gable)本该没在水下，全靠**堤**(embankment)拦着。**河口**(estuary)上的一场**风暴**(storm)，如今高过**沼地**(fen)村舍的**屋檐**(eaves)。泥炭区至今每年仍**下沉**(subside)一到二厘米。"
+          "en": "At Bodegraven-Reeuwijk the ground has fallen 3 metres in 900 years, **monitored** against a fixed **datum**, and peat districts still **subside** 1 to 2 centimetres a year. The Zuidplaspolder lies 7 metres below the sea, a **hollow**; a bungalow **gable** would stand underwater but for the **embankment**. A **storm** in the **estuary** runs above the **eaves** of the **fen** villages.",
+          "zh": "在博德赫拉芬-雷韦克，地面在900年里降了3米，这是以固定**基准面**(datum)**监测**(monitored)出来的；而泥炭区至今每年仍**下沉**(subside)一到二厘米。祖伊德普拉斯圩低于海平面7米，是一处**洼**(hollow)；那里一栋平房的**山墙**(gable)本该没在水下，全靠**堤**(embankment)拦着。**河口**(estuary)上的一场**风暴**(storm)，如今高过**沼地**(fen)村舍的**屋檐**(eaves)。"
         },
         {
           "en": "**Dykes**, cheese and mills are called Dutch handiwork. They are what **subsidence** left. The **seawall** holds a sea once lower than these fields; the **meadows** suit **dairy** herds because the **turf** is too wet and too low for tillage; and the **sluice** undoes what the **windmill** made necessary. The **mire** was won by **sinking** it.",
@@ -41,12 +41,13 @@
         "**已核 · 那把犁与故事的起点**：**「故事始于约一千年前重型犁（铧式犁）的引入」**——它能翻动荷兰那种富含有机质的泥炭土；为改善排水，荷兰人开始开渠，**「然而排水使泥炭暴露于空气而氧化，把大部分土壤变成了二氧化碳和水」**；地面下沉又逼出更深更大的沟渠，继而是风车抽水。**★ 而该文的结论正是本篇的末段**：**「荷兰的堤坝、奶酪与风车，都是地面沉降的产物。」**[Land Subsidence in the Netherlands · Columbia Climate School](https://news.climate.columbia.edu/?p=106004)",
         "**⚠ 三处表述取舍**：①正文「3 或 4 米」对应来源的 3—4 metres，未取整；②**「祖伊德普拉斯圩」与「博德赫拉芬-雷韦克」均为地名，故不加粗、不占名额**；③正文末句「这片泥沼是靠沉下去才赢来的」是本文的推论表述，**其事实基础是上述三条，而非某一来源的原话。**",
         "**本篇的机制边界**：这不是「荷兰人做错了」的故事。**排水在当时是唯一能让泥炭地产粮的办法**，而下沉是几十年到几百年尺度上才显形的后果。**本文的论点在一个更窄的地方：那套防线所防的东西，正是那套防线造出来的。****地一千年前在海之上，如今在海之下，恰恰因为人们一直让它保持干燥。****⚠ 需注意：现代荷兰的水利体系同时应对海平面上升与河流洪水，本文只讲下沉这一支。**",
-        "**★★ 已核 · 一处硬错，封版后复读时发现并改正（2026-09-02）**：**原文 §3 作「each round of dike and wheel」——而 dike 是拦水的堤，不是排水的沟，配不上叶轮。****这个错是我为消掉 VAL-13「conduits/conduit 同词元」而把 conduit 换成 dike 时造出来的**——**正是「为消掉一条报出而改坏句子」这个病。****已改为 sump（集水井），它才是与叶轮配套的那一样。****★ 另修三处**：①§4「eaves of the fen」——沼地没有屋檐，为削词数丢了 villages，已补回；②§3「costs a compaction」不是英文说法，改为 is paid in compaction；③§1「lowered … and hold it」时态跳，改为 have held it。**⚠ 这四处检察官一条都报不出来 —— 100 分量的是合规，不是文章。**"
+        "**★★ 已核 · 一处硬错，封版后复读时发现并改正（2026-09-02）**：**原文 §3 作「each round of dike and wheel」——而 dike 是拦水的堤，不是排水的沟，配不上叶轮。****这个错是我为消掉 VAL-13「conduits/conduit 同词元」而把 conduit 换成 dike 时造出来的**——**正是「为消掉一条报出而改坏句子」这个病。****已改为 sump（集水井），它才是与叶轮配套的那一样。****★ 另修三处**：①§4「eaves of the fen」——沼地没有屋檐，为削词数丢了 villages，已补回；②§3「costs a compaction」不是英文说法，改为 is paid in compaction；③§1「lowered … and hold it」时态跳，改为 have held it。**⚠ 这四处检察官一条都报不出来 —— 100 分量的是合规，不是文章。**",
+        "**★★ 已核 · 句序与逻辑复查（2026-09-02，用户要求）**：**逐句编号读过一遍，找出并改正三处：****一 · §2 时态断裂**——第4、5句过去时（arrived／cut）后接两句现在时（meets／rots／compact），第8句又回过去时。**已用 Where 从句把通则句框进过去叙事**：「Where a trench cut the peat, the face met air: it rots away…」，**并以 So 承接下句。****二 · §3 抽象句与具体句重复**——原第10句「Every dry season is paid in compaction」与第11句「each round … buying a season of pasture and taking a slice」说的是同一件事，**而抽象版排在具体版之前，等于先剧透再演。已删抽象句，把它的意思并进具体句。****三 · §4 顺序错位且收在干数字上**——原序为「速率→深度→画面→速率」，**两个速率被隔开，且画面刚立起来就被一句统计压平。****已改为：两个速率并排（900年3米 + 至今1—2厘米）→ 深度（7米）→ 画面（风暴过屋檐）收尾。****⚠ 这三处检察官同样一条都报不出来。**"
       ],
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "glossary": [
         {
@@ -165,16 +166,6 @@
           "p": 3
         },
         {
-          "w": "dry",
-          "zh": "干的",
-          "p": 3
-        },
-        {
-          "w": "compaction",
-          "zh": "压密",
-          "p": 3
-        },
-        {
           "w": "windmills",
           "zh": "风车（复）",
           "p": 3
@@ -185,8 +176,18 @@
           "p": 3
         },
         {
+          "w": "dry",
+          "zh": "干的",
+          "p": 3
+        },
+        {
           "w": "pasture",
           "zh": "牧场",
+          "p": 3
+        },
+        {
+          "w": "compaction",
+          "zh": "压密",
           "p": 3
         },
         {
@@ -207,6 +208,11 @@
         {
           "w": "datum",
           "zh": "基准面",
+          "p": 4
+        },
+        {
+          "w": "subside",
+          "zh": "下沉",
           "p": 4
         },
         {
@@ -242,11 +248,6 @@
         {
           "w": "fen",
           "zh": "沼地",
-          "p": 4
-        },
-        {
-          "w": "subside",
-          "zh": "下沉",
           "p": 4
         },
         {
