@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '54': { source: '2026-09-01按三步法写成：topic.py 首跑动词仅16%当场拦下（第52篇乙稿同形，但这次在动笔前发现），换一套动词升到100%后成稿；入库一处 VAL-02h（right 5.96，vet 早拦过而我仍用了），已改 straighten', verification: 'conversation-latest-final' },
   '53': { source: '2026-09-01按新立的三步法一稿成：topic.py 三闸门一次过（可用词25／名词6-6／动词6-6），闸门三只警告 pheasant×3；写作阶段 vet 拦下六处（patrol/cartload/poaches/third/watch/harvest）；入库仅一处 MET-07，归因机制当场点名换词没走 swap', verification: 'conversation-latest-final' },
   '52': { source: '2026-09-01写了四稿：大富翁（论点名词被占光）／限嗣继承（动词被占光）／劳合社（核心词贯穿全篇）／骨瓷（成）。第四稿全程用新装的 topic.py 三闸门与 vet 归因，入库即零硬伤；闸门三提前警告 china/makeshift/stone 会重复，撤重复后用同义词把名额从33换回50', verification: 'conversation-latest-final' },
   '51': { source: '2026-09-01按《总令》新立的三步法首次一次成稿：扫域（香水与化妆62%）→brief报30个→上网核；入库时暴露上一轮自造的工具缺陷：review把分布极差列为结构提示而检察官判为BAL-01硬伤，已改归阻塞项', verification: 'conversation-latest-final' },

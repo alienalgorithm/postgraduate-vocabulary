@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 53,
-  "keyword_count": 2650,
+  "article_count": 54,
+  "keyword_count": 2700,
   "articles": [
     {
       "id": "01",
@@ -1189,6 +1189,25 @@
       "canonical_fingerprint_sha256": "c8b8f3e5fe2279327f20eb3be999d734460969f085afc0fc12f2c2102e454c3a",
       "markdown_sha256": "b0c80a75ab41e9a6848e5ee1268643403739276a6676bfb272e5018486d40e1f",
       "markdown_git_blob_sha": "e4c8698eb5752c8f65b9d0fc0951037787c792f1",
+      "superseded_signatures": []
+    },
+    {
+      "id": "54",
+      "slug": "steadiness-and-command-are-contrary",
+      "title": "Steadiness and Command Are Contrary",
+      "title_zh": "稳定与操纵是相反的",
+      "version_id": "54-final",
+      "status": "第五十四篇定稿",
+      "date": "2026-09-01",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-01按三步法写成：topic.py 首跑动词仅16%当场拦下（第52篇乙稿同形，但这次在动笔前发现），换一套动词升到100%后成稿；入库一处 VAL-02h（right 5.96，vet 早拦过而我仍用了），已改 straighten",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "129bf6fc736097a9bd521e258c19d7a8fe0040352cb6a4e1843276150c09016a",
+      "markdown_sha256": "4cc9b8677e6d8128d3e1aa67bf597453d34cb9a6642f29c52002b2330167f002",
+      "markdown_git_blob_sha": "94fdab9c8ef4ca84b3f5d19eebacb655cdc9e982",
       "superseded_signatures": []
     }
   ]
