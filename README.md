@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-24，共有 **55篇文章、2750个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-24，共有 **56篇文章、2800个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -87,6 +87,7 @@
 | **53** | ***Wild Was Not a Description*** | **英国猎场法：一部保护「野生」的法律，保护的是一种离开看守就活不下去的养殖鸟** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=wild-was-not-a-description) · [Markdown](articles/53-wild-was-not-a-description.md) |
 | **54** | ***Steadiness and Command Are Contrary*** | **莱特兄弟的三轴操纵：稳定与操纵不是可以折中的两样好处，而是相反的两件事** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=steadiness-and-command-are-contrary) · [Markdown](articles/54-steadiness-and-command-are-contrary.md) |
 | **55** | ***Upkeep Without End*** | **荷兰围垦：治理消耗了被治理之物，于是维护再无尽头** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=upkeep-without-end) · [Markdown](articles/55-upkeep-without-end.md) |
+| **56** | ***The Shape of the Metalwork*** | **英国换鸣：看着像民族性情的东西，往往只是器械的形状** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-shape-of-the-metalwork) · [Markdown](articles/56-the-shape-of-the-metalwork.md) |
 | **46** | ***Three Who Err Alike*** | **手动计时的系统性偏差：中位数管得住离群值，管不住三人同向的错** | **266词 · 50词 · 18.8%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=three-who-err-alike) · [Markdown](articles/46-three-who-err-alike.md) |
 
 第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。

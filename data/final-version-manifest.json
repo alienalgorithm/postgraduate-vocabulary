@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 55,
-  "keyword_count": 2750,
+  "article_count": 56,
+  "keyword_count": 2800,
   "articles": [
     {
       "id": "01",
@@ -1227,6 +1227,25 @@
       "canonical_fingerprint_sha256": "f02caef6ec0300d585948d65ed29e335b62ae769596da18283711f812fd47812",
       "markdown_sha256": "502d5cfd317be94c3b9aa60e158c9f4bcd29b764fc00baf334919474c7f43dcf",
       "markdown_git_blob_sha": "ab7d0655fc0223d15ca9fc22c4f054dc5999dabc",
+      "superseded_signatures": []
+    },
+    {
+      "id": "56",
+      "slug": "the-shape-of-the-metalwork",
+      "title": "The Shape of the Metalwork",
+      "title_zh": "金属件的形状",
+      "version_id": "56-final",
+      "status": "第五十六篇定稿",
+      "date": "2026-09-02",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-02按三步法写成。先诊断出「初稿名额密度 16.7 远差于成稿的 8.5—10.6」，据此重写一次到位。两条判为保留（VAL-13 pew/pews、BAL-02b §4密度），理由在 facts",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "af892648f76fad3615f09a3d6a0c19b6d16ba6aaac2e39f31ee402240f7aa508",
+      "markdown_sha256": "148fe544b19d2967f0b7aab0a1a44f4af70cfb5d6fc4ee703491b8b95a0ee46b",
+      "markdown_git_blob_sha": "51bf59ce389dfc834770635e0f0605d4edf5a1ea",
       "superseded_signatures": []
     }
   ]
