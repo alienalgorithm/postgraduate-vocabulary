@@ -21,8 +21,8 @@
           "zh": "钟吊在一副整轮的**钟轭**(headstock)上。口**朝上**(upward)起，转过一整**圈**(circle)，停在另一侧仍口朝上，**钟舌**(clapper)每一程都撞一下**钟唇**(lip)。一套**钟组**(peal)里最轻的**高音钟**(treble)约六百磅，**低音钟**(tenor)则重达一吨，它的**定音**(tuning)在**铸钟厂**(foundry)就定死了。"
         },
         {
-          "en": "A ringer holds the **sallie**. He can **hurry** the **swing**, or check it on the **slider**; he cannot stop it, play it fast, or **muffle** it with a **pad** mid-stroke. So no bell shifts more than one place at a change, the clapper falling at **backstroke** as at hand: not taste, but the limit of what a **rope** and **pulley** do to a turning ton of **metal**.",
-          "zh": "拉钟人握着**绒把**(sallie)。他能把这一**荡**(swing)略微**赶快**(hurry)，或者靠**滑木**(slider)略微拖住；他停不住它，弹不快它，也无法在半程用**垫**(pad)把它**捂哑**(muffle)。所以每次换序，任何一口钟只能前后挪一位，钟舌在**返程**(backstroke)与去程各落一次：这不是趣味，是一根**绳**(rope)与一副**滑轮**(pulley)能对一吨正在转动的**金属**(metal)做到的极限。"
+          "en": "A ringer holds the **sallie**. He can **hurry** its **flight**, or check it on the **slider**; he cannot stop it, play it fast, or **muffle** it with a **pad** mid-stroke. So no bell shifts more than one place at a change, the clapper falling at **backstroke** as at hand: not taste, but the limit of what a **rope** and **pulley** do to a turning ton of **metal**.",
+          "zh": "拉钟人握着**绒把**(sallie)。他能把这一**程**(flight)略微**赶快**(hurry)，或者靠**滑木**(slider)略微拖住；他停不住它，弹不快它，也无法在半程用**垫**(pad)把它**捂哑**(muffle)。所以每次换序，任何一口钟只能前后挪一位，钟舌在**返程**(backstroke)与去程各落一次：这不是趣味，是一根**绳**(rope)与一副**滑轮**(pulley)能对一吨正在转动的**金属**(metal)做到的极限。"
         },
         {
           "en": "The Low Countries hung theirs dead in the **belfry**, bolted at the **crown** above the **transept**, struck by **hammers** a player works from a keyboard of **batons**. A **carillon** takes any tune written for it; its player sits above the **crypt**, **vestry**, **tomb** and **font**.",
@@ -160,8 +160,8 @@
           "p": 3
         },
         {
-          "w": "swing",
-          "zh": "摆荡",
+          "w": "flight",
+          "zh": "一程；飞行",
           "p": 3
         },
         {

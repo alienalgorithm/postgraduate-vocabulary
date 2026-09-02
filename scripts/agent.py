@@ -475,24 +475,26 @@ def _lem13(x):
     return x
 
 
+# ★★★ 不规则动词表 —— **从 test_tools.py 读那一份，两处共用**（2026-09-02 改）
+# **第五次「两道网判据不一致」**：第56篇把 swing 换成 sweep，
+#   **vet 放行，而七层测试报出 sweep(56)/swept(05) 撞车**。
+#   病根：**vet 与 test_tools 各写了一份不规则表，sweep/swept 只在后者里。**
+# **处置：不再各写一份，由本模块解析 test_tools.py 里的那一份。**
+#   （前四次：VAL-13 词干化不一致、VAL-14 条件写漏一半、
+#     bars/barred 判据不同、以及本次。）
 _IRR_GRP = {}
-for _g in ("bear bore borne;begin began begun;bite bit bitten;blow blew blown;"
-        "break broke broken;bring brought;build built;buy bought;"
-        "catch caught;choose chose chosen;come came;dig dug;draw drew drawn;"
-        "drink drank drunk;drive drove driven;eat ate eaten;fall fell fallen;"
-        "feel felt;fight fought;find found;fly flew flown;forget forgot forgotten;"
-        "freeze froze frozen;give gave given;grow grew grown;hang hung;"
-        "hear heard;hide hid hidden;hold held;keep kept;know knew known;"
-        "lay laid;lead led;leave left;lie lain;lose lost;mean meant;meet met;"
-        "pay paid;ride rode ridden;rise rose risen;run ran;say said;see saw seen;"
-        "seek sought;sell sold;send sent;shake shook shaken;shine shone;"
-        "shoot shot;show showed shown;sing sang sung;sink sank sunk;sit sat;"
-        "sleep slept;speak spoke spoken;spend spent;stand stood;steal stole stolen;"
-        "stick stuck;strike struck;take took taken;teach taught;tear tore torn;"
-        "tell told;think thought;throw threw thrown;wear wore worn;win won;"
-        "withdraw withdrew withdrawn;write wrote written").split(";"):
-    for _x in _g.split():
-        _IRR_GRP[_x] = _g.split()
+try:
+    import re as _re
+    _tt = open(os.path.join(ROOT, "scripts/test_tools.py"), encoding="utf-8").read()
+    _m = _re.search(r"_IRR = \(([^)]*)\)", _tt, _re.S)
+    _IRR_SRC = eval("(" + _m.group(1) + ")")
+except Exception:
+    _IRR_SRC = ("bear bore borne;begin began begun;bite bit bitten;"
+                "sweep swept;swing swung;stand stood;")
+for _grp in _IRR_SRC.split(";"):
+    _forms = _grp.split()
+    for _x in _forms:
+        _IRR_GRP[_x] = _forms
 
 
 def vet(arts, aid, words):

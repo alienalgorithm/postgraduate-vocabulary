@@ -1633,6 +1633,28 @@ check("写明该问什么", "哪些域还成堆" in _ch12)
 check("记下打分失败", "学到的是后缀" in _ch12,
       "★ 第三次「只看一个数就下结论」")
 
+
+# ── vet 与七层共用同一张不规则表（2026-09-02，第五次判据不一致）──────
+# **第56篇把 swing 换成 sweep，vet 放行，而七层测试报出 sweep(56)/swept(05) 撞车。**
+# 病根：**vet 与 test_tools 各写了一份不规则表，sweep/swept 只在后者里。**
+# **处置：agent.py 不再自写一份，改为解析 test_tools.py 里的 _IRR。**
+# **前四次**：VAL-13 词干化不一致／VAL-14 条件写漏一半／bars-barred 判据不同／本次。
+print("\n[vet] 与七层共用不规则表")
+_ag12 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("agent 从 test_tools 读表", "_IRR_SRC" in _ag12 and "test_tools.py" in _ag12)
+check("写明这是第五次", "第五次" in _ag12)
+sys.path.insert(0, os.path.join(ROOT, "scripts"))
+import importlib, agent as _agmod
+importlib.reload(_agmod)
+check("表已同源（sweep/swept 在内）",
+      _agmod._IRR_GRP.get("sweep") == ["sweep", "swept"])
+check("表规模与七层一致", len(_agmod._IRR_GRP) > 200,
+      "★ 自写那份只有一百余条")
+_r13 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
+                       "vet", "56", "sweep"],
+                      capture_output=True, text=True, timeout=180).stdout
+check("实测：sweep 当场被拦", "同一动词" in _r13)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
