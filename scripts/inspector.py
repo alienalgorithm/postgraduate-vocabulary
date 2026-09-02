@@ -208,9 +208,16 @@ def inspect(a, archive):
         extra = zh_c - en_c
         if miss:
             F.append(Finding("MET-07", "指标", "hard", f"§{i} 中文缺对应",
-                "、".join(sorted(miss)), "中文加粗后须紧跟 (english) 括注"))
+                "、".join(sorted(miss)),
+                         "中文加粗后须紧跟 (english) 括注。"
+                         "**★ 这条报出来，多半说明这次换词没走 `swap.py`**——"
+                         "它把「改英文／改中文」并成一步，任一步不过则整体不落盘。"
+                         "**本会话中英失配 13 次，全是英文先定、中文另起一轮。**"))
         if extra:
-            F.append(Finding("MET-08", "指标", "hard", f"§{i} 中文多出对应", "、".join(sorted(extra))))
+            F.append(Finding("MET-08", "指标", "hard", f"§{i} 中文多出对应",
+                             "、".join(sorted(extra)),
+                             "**★ 与 MET-07 同源：撤加粗时中文那边漏撤了。**"
+                             "撤加粗不走 `swap.py`，那一步仍要自己两边都改"))
 
     # ── 第二层 BAL · 分布与均衡（v3 完全没有的一层）───────────────────
     if pkn:
@@ -218,7 +225,10 @@ def inspect(a, archive):
         if spread > KW_SPREAD_MAX:
             F.append(Finding("BAL-01", "均衡", "hard", "各段重点词数极差过大",
                 f"分布 {'·'.join(map(str, pkn))}，极差 {spread}（上限 {KW_SPREAD_MAX}，理想 0）",
-                "把重点词摊平到每段10个；密集段外移，稀疏段补实词"))
+                "把重点词摊平到每段10个；密集段外移，稀疏段补实词。"
+                "**★ 要挪句子摊平之前，先跑 `python3 scripts/movecheck.py NN`**——"
+                "它把每一种挪法都算一遍，变差的标 ✗。"
+                "**第34、46 两篇都是没算就挪，结果极差从 22→38、20→34。**"))
     for i, (w, k) in enumerate(zip(pw, pkn), 1):
         d = k / w * 100 if w else 0
         if d > PARA_DENSITY_HARD:

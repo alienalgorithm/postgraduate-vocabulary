@@ -329,7 +329,13 @@ def review(arts, path, exclude=None):
             src = owner.get(n) or owner.get(s) or (owner.get(akin[0]) if akin else set())
             clash.append((w, "、".join(sorted(src))))
     if clash:
-        blocking.append("与其他篇冲突（含同根）：" + "；".join(f"{w}→第{o}篇" for w, o in clash))
+        # ★ 点名被跳过的那一步（2026-09-01 立）：
+        # **这一条报出来，就等于说这几个词没跑过 `agent.py vet`。**
+        # **本会话实测对照：跑了 vet 的 19 个词零撞车，没跑就直接填的 7 个全撞。**
+        blocking.append("与其他篇冲突（含同根）："
+                        + "；".join(f"{w}→第{o}篇" for w, o in clash)
+                        + "　**★ 这几个词没跑过 `agent.py vet`**"
+                          "（实测 19:7——跑了的零撞车，没跑的全撞）")
     cheap = [(w, round(zipf_frequency(norm(w), "en"), 2)) for w in allk
              if zipf_frequency(norm(w), "en") >= ZIPF_CHEAP]
     if len(cheap) > 6:

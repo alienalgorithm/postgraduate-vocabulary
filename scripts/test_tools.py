@@ -1395,6 +1395,29 @@ check("闸门三只提示不否决", "此门只警告不否决" in _tp,
 check("《总令》写明这三步有命令可跑",
       "topic.py" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
 
+
+# ── 让事后的检查点名被跳过的那一步（2026-09-01）──────────────────
+# **四条「有工具但要我主动去按」的坑，其失败其实都被逮住了，只是逮得晚**：
+#   补名额没跑 vet      → review「与其他篇冲突」／检察官 VAL-07/08（栽 6 次）
+#   换词没走 swap       → 检察官 MET-07/08「中英失配」（栽 13 次）
+#   挪句没跑 movecheck  → 检察官 BAL-01（栽 2 次）
+#   改完没跑 check      → preflight 兜底（25 次自伤）
+# **而报出来的时候，它只说「有冲突」，不说「这说明你没跑 vet」。**
+# **本轮让这四处各自点名被跳过的那一步**——
+#   不能阻止跳过，但能让跳过这件事当场可见、可归因。
+print("\n[归因] 事后的检查点名被跳过的那一步")
+_ins3 = open(os.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read()
+_ag8 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("MET-07 点名 swap.py", "没走 `swap.py`" in _ins3,
+      "★ 中英失配 13 次，全是英文先定、中文另起一轮")
+check("MET-08 点名撤加粗也要两边改", "撤加粗不走 `swap.py`" in _ins3)
+check("BAL-01 点名 movecheck", "movecheck.py NN" in _ins3,
+      "★ 第34、46 篇没算就挪，极差 22→38、20→34")
+check("review 冲突处点名 vet", "没跑过 `agent.py vet`" in _ag8,
+      "★ 实测 19:7 —— 跑了的零撞车，没跑的全撞")
+check("四处都附了实测次数",
+      "13 次" in _ins3 and "19:7" in _ag8)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
