@@ -2,22 +2,22 @@
 
 > 题材：赛马让分制：一个若真达成便会摧毁自身目的的目标
 > 状态：**第五十篇定稿**（2026-09-01）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 赛马会说得很白：让分赛存在，是要让每匹马并排冲线。而它自己的说明接着写道——没有哪个赛马场见过这种事。可它若真发生了，这场比赛就什么也没告诉你。
 
 ---
 
 ## 英文正文
 
-The Jockey Club states the **aim** plainly. A **handicap** exists to bring every **thoroughbred** across the line **abreast** — **alongside**, **simultaneously**, a **deadlock** of the whole **lineup**. Its own explanation adds that no **racecourse** has seen it.
+The Jockey Club states the aim plainly: a **handicap** brings every **thoroughbred** across the line **abreast** — not by a **neck** or a **whisker**, not settled by a **photograph**. Its own explanation adds that no **racecourse** has. Six in ten British races run this way: the **backbone** of the sport, not a **curiosity**.
 
-Weight does the work. A **jockey** carries lead in the cloth to make the number, **colt** or **filly** alike. A horse's **rating** comes from its recent form; better animals are **allotted** heavier **weights** so the **contest** comes out **equalised**. Rous was **appointed** the first public handicapper in the 1850s, replacing rules that were local, **inconsistent** and never transparent. Today about six in ten British races are **handicaps**.
+Weight does the work. A horse's **rating** comes from recent form, and better animals are **allotted** more lead, **conceding** weight until the **contest** is **equalised**. Admiral Rous was **appointed** the first public handicapper in the 1850s, replacing arrangements local, **inconsistent** and **secret**: a **steward** set the weights, and no one could say if **favouritism** entered.
 
-But consider the target. The **entrants** crossing together tell a **punter** nothing about which horse can **gallop** faster, and that is what a **spectator** at the **rail** came to learn. A perfect **weighting** does not **inform**; it goes **mute**. Success would destroy the information the **spectacle** exists to produce.
+Consider the target. **Entrants** crossing together tell a **punter** nothing about which horse **gallops** faster, which is what a **spectator** at the **rail** came for after 3 hours. A perfect **weighting** does not **inform**; it goes **smooth** and **mute**, destroying what the **spectacle** exists to produce.
 
-The **ratings** move the wrong way for measurement. A winner is raised; a beaten **gelding** is eased. The **apportionment** answers the last race, never the **beast**. The number follows the last result, not the truth; and a **bunched** finish yields more **turnover** for the **bookmaker** than **runners** **strung** over a **furlong**.
+The **ratings** move the wrong way for a measure. A winner is raised, a beaten **gelding** eased: the **apportionment** answers the last race, never the **beast**. Nor is anyone hurrying to fix it. A **bunched** finish returns more **turnover** to the **bookmaker** than **runners** **strung** out over the last 2 **furlongs**.
 
-Frankel reached an official mark of 140, the highest in the record. That figure survives because no weight ever brought that **sire** back to the others; the **odds** on him stayed short from **paddock** to post, on every **turf** and **steeple** course he ran. A measure **chased** until it stops **discriminating** has stopped measuring. The **unattainable** **ideal** is the point: a **stalemate** would be **impossible** to read.
+Frankel carried a mark of 140, the highest ever set, retiring **undefeated** after 14 **victories**. No weight brought him back: he went off **favourite** every time, his **odds** **shortening** as the lead grew. A measure **chased** until it stops **discriminating** has stopped measuring. Every Tuesday the ratings are reissued, the winners a few pounds heavier. The **unattainable** **ideal** is the point: a **stalemate** **betrays** nothing.
 
 ---
 
@@ -26,29 +26,29 @@ Frankel reached an official mark of 140, the highest in the record. That figure 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-赛马会把**目标**(aim)说得很白：一场**让分赛**(handicap)的存在，是要让每一匹**纯血马**(thoroughbred)**并排**(abreast)冲过终点线——**齐头**(alongside)、**同时**(simultaneously)，全体**参赛名单**(lineup)形成一个**僵局**(deadlock)。它自己的说明接着写道：没有哪个**赛马场**(racecourse)见过这种事。
+赛马会把目标说得很白：一场**让分赛**(handicap)要让每一匹**纯血马**(thoroughbred)**并排**(abreast)冲过终点线——不是差一个**脖颈**(neck)，不是差一根**须**(whisker)，也不是靠一张**照片**(photograph)判出来。它自己的说明接着写道：没有哪个**赛马场**(racecourse)见过。英国六成的比赛都这么跑：这是这项运动的**骨干**(backbone)，不是一样**稀奇玩意**(curiosity)。
 
-起作用的是配重。**骑师**(jockey)在鞍布里加铅块把数目凑齐，不论**公马驹**(colt)还是**母马驹**(filly)。一匹马的**评分**(rating)出自它近期的表现；能力强的被**配给**(allotted)更重的**分量**(weights)，好让这场**较量**(contest)**拉平**(equalised)。劳斯1850年代被**任命**(appointed)为第一位公共让分员，取代了此前各地各行、**前后不一**(inconsistent)且从不透明的做法。今天英国约有六成比赛是**让分赛**(handicaps)。
+起作用的是配重。一匹马的**评分**(rating)出自它近期的表现，能力强的被**配给**(allotted)更多铅块，一路**让**(conceding)出重量，直到这场**较量**(contest)被**拉平**(equalised)。劳斯上将1850年代被**任命**(appointed)为第一位公共让分员，取代了此前那套各地各行、**前后不一**(inconsistent)且**不公开**(secret)的做法：**司事**(steward)定下重量，而没人说得清里头有没有**偏私**(favouritism)。
 
-可想一想这个瞄准的靶子。**参赛者**(entrants)一齐冲线，告诉不了一个**下注者**(punter)哪匹马**跑**(gallop)得更快，而那正是**栏杆**(rail)边的**观众**(spectator)来看的东西。一次完美的**配重**(weighting)并不**告知**(inform)什么；它是**哑**(mute)的。成功恰恰会毁掉这场**表演**(spectacle)本要产出的信息。
+看那个靶子。**参赛者**(Entrants)一齐冲线，告诉不了一个**下注者**(punter)哪匹马**跑**(gallops)得更快————而那正是站了三小时的**观众**(spectator)在**栏杆**(rail)边唯一想弄明白的事。一次完美的**配重**(weighting)并不**告知**(inform)什么；它变得**平滑**(smooth)而**沉默**(mute)，把这场**表演**(spectacle)本要产出的东西毁掉。
 
-而这套**评分**(ratings)的走向，对测量而言是反的。赢的被抬高；输的**去势马**(gelding)被放低。这种**分配**(apportionment)回答的是上一场比赛，从来不是这头**牲口**(beast)。数字跟着上一个结果走，不跟着真相走；何况一个**挤成一团**(bunched)的终点，比**参赛马**(runners)**拉开**(strung)一个**弗隆**(furlong)更能给**博彩商**(bookmaker)带来**流水**(turnover)。
+这套**评分**(ratings)的走向，对一把尺子而言是反的。赢的被抬高，输的**去势马**(gelding)被放低：这种**分配**(apportionment)回答的是上一场比赛，从来不是那头**牲口**(beast)。也没人急着去改它。一个**挤成一团**(bunched)的终点，比**参赛马**(runners)在最后 2 个**弗隆**(furlongs)里**拉开**(strung)更能给**博彩商**(bookmaker)带来**流水**(turnover)。
 
-弗兰克尔的官方评分达到140，是有记录以来最高的一个。这个数字之所以留了下来，是因为没有任何配重把这匹**种马**(sire)拉回到其余马匹中间；从**围场**(paddock)到发令处，押他的**赔率**(odds)始终很短，在他跑过的每一片**草地**(turf)和每一条**障碍**(steeple)赛道上都如此。一把被**追**(chased)到不再能**区分**(discriminating)的尺子，已经不再是尺子。那个**够不着的**(unattainable)**理想**(ideal)才是要害：一个**僵局**(stalemate)将**无法**(impossible)读解。
+弗兰克尔的评分是140，是有史以来最高的一个，他**不败**(undefeated)地退役，留下 14 场**胜绩**(victories)。这个数字之所以存在，是因为没有任何配重把他拉回到其余马匹中间：他每一场都是**大热门**(favourite)，随着铅块加上去，押他的**赔率**(odds)反而在**变短**(shortening)。一把被**追**(chased)到不再能**区分**(discriminating)的尺子，已经不再是尺子。每周二评分重新发布一次，赢家们各自重了几磅。而这个**理想**(ideal)之**够不着**(unattainable)并非制度的缺陷，正是它的要害所在：一个**僵局**(stalemate)什么也**透露**(betrays)不出来。
 
 ---
 
 ## 50 词速查表
 
-**§1**（9词）aim 目标｜handicap 让分赛｜thoroughbred 纯血马｜abreast 并排｜alongside 齐头；并行｜simultaneously 同时｜deadlock 僵局｜lineup 参赛名单｜racecourse 赛马场
+**§1**（9词）handicap 让分赛｜thoroughbred 纯血马｜abreast 并排｜neck 脖颈｜whisker 须｜photograph 照片｜racecourse 赛马场｜backbone 骨干｜curiosity 稀奇之物
 
-**§2**（11词）jockey 骑师｜colt 公马驹｜filly 母马驹｜rating 评分｜allotted 配给｜weights 分量（复）｜contest 较量｜equalised 拉平｜appointed 任命｜inconsistent 前后不一的｜handicaps 让分赛（复）
+**§2**（10词）rating 评分｜allotted 配给｜conceding 让与；承认｜contest 较量｜equalised 拉平｜appointed 任命｜inconsistent 前后不一的｜secret 秘密的｜steward 司事；管事｜favouritism 偏私
 
-**§3**（9词）entrants 参赛者（复）｜punter 下注者｜gallop 疾驰｜spectator 观众｜rail 栏杆｜weighting 配重｜inform 告知｜mute 哑的｜spectacle 表演；场面
+**§3**（10词）entrants 参赛者（复）｜punter 下注者｜gallops 疾驰｜spectator 观众｜rail 栏杆｜weighting 配重｜inform 告知｜smooth 平滑的｜mute 哑的｜spectacle 表演；场面
 
-**§4**（10词）ratings 评分（复）｜gelding 去势马｜apportionment 分配｜beast 牲口｜bunched 挤成一团的｜turnover 流水；周转｜bookmaker 博彩商｜runners 参赛马（复）｜strung 拉开；串起｜furlong 弗隆（约201米）
+**§4**（10词）ratings 评分（复）｜gelding 去势马｜apportionment 分配｜beast 牲口｜bunched 挤成一团的｜turnover 流水；周转｜bookmaker 博彩商｜runners 参赛马（复）｜strung 拉开；串起｜furlongs 弗隆（约201米）
 
-**§5**（11词）sire 种马｜odds 赔率｜paddock 围场｜turf 草地赛道｜steeple 障碍赛｜chased 追逐｜discriminating 能区分的｜unattainable 够不着的｜ideal 理想｜stalemate 僵局｜impossible 不可能的
+**§5**（11词）undefeated 不败的｜victories 胜绩（复）｜favourite 大热门｜odds 赔率｜shortening 变短｜chased 追逐｜discriminating 能区分的｜unattainable 够不着的｜ideal 理想｜stalemate 僵局｜betrays 透露；背弃
 
 ---
 

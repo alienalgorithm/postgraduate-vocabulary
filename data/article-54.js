@@ -13,27 +13,28 @@
       "status": "第五十四篇定稿",
       "paras": [
         {
-          "en": "By 1899 the **wing** was solved, the **motor** nearly so. Lilienthal had flown **gliders** carrying a man **aloft**; engines were light enough to **lift** one. What nobody had was a way to **tilt** it on purpose, or hold it against an **eddy**. Every **flier** so far had gone up a passenger of the **breeze** and its **puffs**.",
-          "zh": "到1899年，**机翼**(wing)这一关已经过了，**发动机**(motor)也差不多。李林塔尔驾着**滑翔机**(gliders)载人**升空**(aloft)过；发动机已轻到足以把人**举**(lift)起来。没人有的，是一个能故意让它**侧倾**(tilt)、能顶住一股**涡流**(eddy)的办法。此前每一个**飞行者**(flier)上天，都只是**微风**(breeze)与它一**阵阵**(puffs)气流的乘客。"
+          "en": "By 1899 two of the three problems were done: Otto Lilienthal had flown **gliders** carrying a man **aloft**, engines could **lift** one. Nobody could steer. He held his level by **throwing** his **hips**, the only method anyone had; in 1896 a **fatal** stall **felled** him at it. A **flier** was a passenger of the **breeze** and its **swells**.",
+          "zh": "到1899年，三个问题里有两个已经解决：奥托·李林塔尔驾**滑翔机**(gliders)载人**升空**(aloft)过，发动机也已能把人**举**(lift)起来。没人能操纵。他保持机身平正的办法，是把整个**胯**(hips)向一侧**甩**(throwing)出去——当时只有这一个法子——1896年一次**致命**(fatal)的失速就是这样把他**放倒**(felled)的。一个**飞行者**(flier)不过是**微风**(breeze)与它一起一伏的**涌浪**(swells)的乘客。"
         },
         {
-          "en": "Everyone attacked it from one side. **Langley**, Chanute and the rest wanted **inherent** steadiness: build it to **straighten** itself after a **squall**, since no **pilot** could answer a **headwind** in time. The case against it was put then: a machine at the **airman**'s order every second would drive him **demented**, nobody keeping up with a thing on a **pinhead**.",
-          "zh": "所有人都从同一侧下手。**兰利**(Langley)、沙尼特那一批人要的是**固有的**(inherent)稳定：把机器造得能在一阵**狂风**(squall)之后自己**摆正**(straighten)，因为没有**飞行员**(pilot)来得及应付一记**顶头风**(headwind)。当时反对另一条路的说法是：一台每一秒都听**驾机人**(airman)号令的机器会把他逼**疯**(demented)，没人跟得上一件立在**针尖**(pinhead)上的东西。"
+          "en": "**Langley** and Chanute came at it from one side: make the machine **inherent**ly steady, so a **buffet** that **tips** it is answered by the frame. Give a man **command** of every **axis** and you **upset** his reason: nobody attends a thing **poised** on a **pinhead** and stays **sane**.",
+          "zh": "**兰利**(Langley)与沙尼特从一侧下手：把机器造得**固有地**(inherent)稳，让一记掀得它**倾侧**(tips)的**阵风**(buffet)由机体自己回应。他们说，把每一条**轴**(axis)的**操纵权**(command)一次都交给人，只会**搅乱**(upset)他的神志：没有人能照看一件**悬**(poised)在**针尖**(pinhead)上的东西还保持**清醒**(sane)。"
         },
         {
-          "en": "The Wrights ran a **bicycle** shop in **Dayton**. They knew a thing that falls over unless ridden: **saddle**, **pedal**, **hub**, **tyre**, **sprocket** — none stands alone. Sit **astride** and you answer a **lurch** every second of the ride, **veering** and **twisting** to catch it, unaware you do.",
-          "zh": "莱特兄弟在**代顿**(Dayton)开一家**自行车**(bicycle)铺。他们熟悉一种不骑就会倒的东西：**车座**(saddle)、**脚蹬**(pedal)、**轮毂**(hub)、**轮胎**(tyre)、**链轮**(sprocket)——没有哪一样自己立得住。**跨**(astride)上去，你每一秒都在回应一次**歪斜**(lurch)，靠**转向**(veering)与**扭身**(twisting)把它接住，而自己毫无察觉。"
+          "en": "The objection was serious and unanswered. The Wrights had it in the shop. A **bicycle** rests on two inches of **rubber** and **falls** when let go: not the **saddle**, not the **sprocket**, not the frame holds it up. Yet a rider **sways** into every **lurch** by **instinct**, **practised** until the answer goes **unconscious**. Nobody calls it hard.",
+          "zh": "这个反对意见是认真的，而且无人能答。莱特兄弟的答案就在铺子里。一辆**自行车**(bicycle)只靠两英寸**橡胶**(rubber)着地，一撒手就**倒**(falls)：**车座**(saddle)撑不住它，**链轮**(sprocket)撑不住它，车架也撑不住它。可骑车的人凭**本能**(instinct)迎着每一次**歪斜**(lurch)**侧过身**(sways)去，**练**(practised)到那个回应已经变成**无意识的**(unconscious)。没人管这叫吃力。"
         },
         {
-          "en": "So they built the opposite: a **biplane** of **spruce** **struts** and wire braces on a skid. A **twist** across the **wings** made it **cant** on its long **axis**, a forward **elevator** raised or dropped the nose, a rear **rudder** swung the tail. Three **axes**, none holding itself.",
-          "zh": "于是他们造了反过来的那一件：一架**双翼机**(biplane)，**云杉**(spruce)**支柱**(struts)加钢丝拉索，落在一副滑橇上。**机翼**(wings)上的一道**扭转**(twist)让它绕纵**轴**(axis)**倾**(cant)过去，前面的**升降舵**(elevator)抬起或压下机头，后面的**方向舵**(rudder)把尾巴甩开。三条**轴**(axes)，没有一条自己稳得住。"
+          "en": "They sold **bicycles**, and built a machine that would **capsize**. A **torsion** across the **wings** made it **cant**; a forward **elevator** raised the nose; a rear **rudder** swung it in **yaw**. None would **straighten** itself: that was the design. Tail and wing ran on one **cable**, a turn being one movement.",
+          "zh": "他们卖**自行车**(bicycles)，也造了一台会**倾覆**(capsize)的机器。**机翼**(wings)上的一道**扭转**(torsion)让它**侧倾**(cant)过去；前面的**升降舵**(elevator)抬起机头；后面的**方向舵**(rudder)让它**偏航**(yaw)。没有一样会自己**摆正**(straighten)：这正是设计。尾与翼共用一根**钢索**(cable)，于是一个转弯是一个动作，不是三个。"
         },
         {
-          "en": "The 1902 **glider** flew seven hundred times off the **dunes**, the first a man could **teeter** and **swerve** at will. Steadiness and **command** are not two goods to be traded off. They are **contrary**. Whatever holds an **airframe** level with no hand on it **fights** the hand when it comes. No machine is both **obedient** and self-**righting**; a man must choose.",
-          "zh": "1902年那架**滑翔机**(glider)在**沙丘**(dunes)上飞了七百次，是头一架人能随意让它**摇**(teeter)、让它**急转**(swerve)的机器。稳定与**操纵**(command)不是两样可以彼此折中的好处。它们是**相反**(contrary)的。凡是能在无人扶持时让**机身**(airframe)保持平正的那样东西，等到手伸过来时就会**抵抗**(fights)那只手。没有一台机器既**听话**(obedient)又能自**正**(righting)；人必须选一个。"
+          "en": "The 1902 machine flew seven hundred times off the **dunes**. Steadiness and **grip** are not two goods to weigh; they are **contrary**. Every **fin** and **camber** that steadies a machine also **thwarts** the hand that would move it; the steadier the **airframe**, the harder it **fights**. A **jet** built for **agility** is made unsteady on purpose.",
+          "zh": "1902年那台机器在**沙丘**(dunes)上飞了七百次。稳定与**掌控**(grip)不是两样可以彼此权衡的好处；它们是**相反**(contrary)的。凡是能让机器稳住的**尾翼**(fin)与**翼弧**(camber)，同时也在**阻挠**(thwarts)那只想要动它的手；**机身**(airframe)越稳，它**抵抗**(fights)得越狠。一架为**敏捷**(agility)而造的**喷气机**(jet)是被故意做成不稳的。"
         }
       ],
       "facts": [
+        "**已核 · 两个年份**：**1896 年 8 月 9 日李林塔尔于滑翔中失速坠落，翌日伤重去世**；**1899 年莱特兄弟以一只双翼风筝首次试验机翼扭转**，此即本文「到 1899 年」的时点。[Otto Lilienthal · Wikipedia](https://en.wikipedia.org/wiki/Otto_Lilienthal)",
         "**★★ 已核 · 本篇的反转（问题只剩操纵）**：莱特兄弟认定飞行有三部分——**机翼、动力、操纵**——**「他们相信机翼与推进的问题较易解决，因此先集中于操纵。」**「在实验之初，他们即视操纵为『飞行问题』中尚未解决的第三部分；**他们相信关于另外两项（机翼与发动机）的知识已足够**。」[Wright brothers · New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Wright_brothers)｜[Britannica · Early glider experiments](https://www.britannica.com/biography/Wright-brothers/Early-glider-experiments)",
         "**★ 已核 · 所有人都在往反方向解**：**「包括兰利与沙尼特在内的一些研究者追求『固有稳定』这一理想，认为飞行器驾驶者无法对风的扰动反应得足够快，因而无法有效使用机械操纵。」****「莱特兄弟则相反，要让驾驶者拥有绝对的操纵权。」**「此前多数航空实验者所求的是一种内在稳定的飞行器，**使它在驾驶者不介入时自行保持平直航向**。」",
         "**★★★ 已核 · 当时对「绝对操纵」的反对意见（本篇的判别性证据）**：**「其他实验者说，如果你试图做出一套时时把飞机置于驾驶者号令之下的操纵系统，那会把他逼疯。没有人能跟得上一件本质上平衡在针尖上的东西的动作。」**[The Unlikely Inventors · NOVA/PBS](https://www.pbs.org/wgbh/nova/article/unlikely-inventors/)",
@@ -48,16 +49,6 @@
         "density": 18.5
       },
       "glossary": [
-        {
-          "w": "wing",
-          "zh": "机翼",
-          "p": 1
-        },
-        {
-          "w": "motor",
-          "zh": "发动机",
-          "p": 1
-        },
         {
           "w": "gliders",
           "zh": "滑翔机（复）",
@@ -74,13 +65,23 @@
           "p": 1
         },
         {
-          "w": "tilt",
-          "zh": "倾斜",
+          "w": "throwing",
+          "zh": "甩；投掷",
           "p": 1
         },
         {
-          "w": "eddy",
-          "zh": "涡流",
+          "w": "hips",
+          "zh": "胯",
+          "p": 1
+        },
+        {
+          "w": "fatal",
+          "zh": "致命的",
+          "p": 1
+        },
+        {
+          "w": "felled",
+          "zh": "放倒",
           "p": 1
         },
         {
@@ -94,8 +95,8 @@
           "p": 1
         },
         {
-          "w": "puffs",
-          "zh": "一阵阵（复）",
+          "w": "swells",
+          "zh": "涌浪",
           "p": 1
         },
         {
@@ -109,33 +110,33 @@
           "p": 2
         },
         {
-          "w": "straighten",
-          "zh": "摆正；弄直",
+          "w": "buffet",
+          "zh": "阵风",
           "p": 2
         },
         {
-          "w": "squall",
-          "zh": "狂风",
+          "w": "tips",
+          "zh": "倾侧",
           "p": 2
         },
         {
-          "w": "pilot",
-          "zh": "飞行员",
+          "w": "command",
+          "zh": "操纵；号令",
           "p": 2
         },
         {
-          "w": "headwind",
-          "zh": "顶头风",
+          "w": "axis",
+          "zh": "轴",
           "p": 2
         },
         {
-          "w": "airman",
-          "zh": "驾机人",
+          "w": "upset",
+          "zh": "搅乱",
           "p": 2
         },
         {
-          "w": "demented",
-          "zh": "疯狂的",
+          "w": "poised",
+          "zh": "悬置的",
           "p": 2
         },
         {
@@ -144,13 +145,23 @@
           "p": 2
         },
         {
+          "w": "sane",
+          "zh": "清醒的",
+          "p": 2
+        },
+        {
           "w": "bicycle",
           "zh": "自行车",
           "p": 3
         },
         {
-          "w": "dayton",
-          "zh": "代顿",
+          "w": "rubber",
+          "zh": "橡胶",
+          "p": 3
+        },
+        {
+          "w": "falls",
+          "zh": "倒下",
           "p": 3
         },
         {
@@ -159,28 +170,13 @@
           "p": 3
         },
         {
-          "w": "pedal",
-          "zh": "脚蹬",
-          "p": 3
-        },
-        {
-          "w": "hub",
-          "zh": "轮毂",
-          "p": 3
-        },
-        {
-          "w": "tyre",
-          "zh": "轮胎",
-          "p": 3
-        },
-        {
           "w": "sprocket",
           "zh": "链轮",
           "p": 3
         },
         {
-          "w": "astride",
-          "zh": "跨骑",
+          "w": "sways",
+          "zh": "侧身",
           "p": 3
         },
         {
@@ -189,32 +185,32 @@
           "p": 3
         },
         {
-          "w": "veering",
-          "zh": "转向",
+          "w": "instinct",
+          "zh": "本能",
           "p": 3
         },
         {
-          "w": "twisting",
-          "zh": "扭转",
+          "w": "practised",
+          "zh": "练习过的",
           "p": 3
         },
         {
-          "w": "biplane",
-          "zh": "双翼机",
+          "w": "unconscious",
+          "zh": "无意识的",
+          "p": 3
+        },
+        {
+          "w": "bicycles",
+          "zh": "自行车（复）",
           "p": 4
         },
         {
-          "w": "spruce",
-          "zh": "云杉",
+          "w": "capsize",
+          "zh": "倾覆",
           "p": 4
         },
         {
-          "w": "struts",
-          "zh": "支柱（复）",
-          "p": 4
-        },
-        {
-          "w": "twist",
+          "w": "torsion",
           "zh": "扭转",
           "p": 4
         },
@@ -225,12 +221,7 @@
         },
         {
           "w": "cant",
-          "zh": "倾斜",
-          "p": 4
-        },
-        {
-          "w": "axis",
-          "zh": "轴",
+          "zh": "侧倾",
           "p": 4
         },
         {
@@ -244,14 +235,19 @@
           "p": 4
         },
         {
-          "w": "axes",
-          "zh": "轴（复）",
+          "w": "yaw",
+          "zh": "偏航",
           "p": 4
         },
         {
-          "w": "glider",
-          "zh": "滑翔机",
-          "p": 5
+          "w": "straighten",
+          "zh": "摆正；弄直",
+          "p": 4
+        },
+        {
+          "w": "cable",
+          "zh": "钢索",
+          "p": 4
         },
         {
           "w": "dunes",
@@ -259,23 +255,28 @@
           "p": 5
         },
         {
-          "w": "teeter",
-          "zh": "摇晃",
-          "p": 5
-        },
-        {
-          "w": "swerve",
-          "zh": "急转",
-          "p": 5
-        },
-        {
-          "w": "command",
-          "zh": "操纵；号令",
+          "w": "grip",
+          "zh": "掌控",
           "p": 5
         },
         {
           "w": "contrary",
           "zh": "相反的",
+          "p": 5
+        },
+        {
+          "w": "fin",
+          "zh": "尾翼",
+          "p": 5
+        },
+        {
+          "w": "camber",
+          "zh": "翼弧",
+          "p": 5
+        },
+        {
+          "w": "thwarts",
+          "zh": "阻挠",
           "p": 5
         },
         {
@@ -289,13 +290,13 @@
           "p": 5
         },
         {
-          "w": "obedient",
-          "zh": "听话的",
+          "w": "jet",
+          "zh": "喷气机",
           "p": 5
         },
         {
-          "w": "righting",
-          "zh": "自正",
+          "w": "agility",
+          "zh": "敏捷",
           "p": 5
         }
       ]
