@@ -29,8 +29,8 @@
           "zh": "在博德赫拉芬-雷韦克，地面在900年里降了3米，这是以固定**基准面**(datum)**监测**(monitored)出来的；而泥炭区至今每年仍**下沉**(subside)一到二厘米。祖伊德普拉斯圩低于海平面7米，是一处**洼**(hollow)；那里一栋平房的**山墙**(gable)本该没在水下，全靠**堤**(embankment)拦着。**河口**(estuary)上的一场**风暴**(storm)，如今高过**沼地**(fen)村舍的**屋檐**(eaves)。"
         },
         {
-          "en": "**Dykes**, cheese and mills are called Dutch handiwork. They are what **subsidence** left. The **seawall** holds a sea once lower than these fields; the **meadows** suit **dairy** herds because the **turf** is too wet and too low for tillage; and the **sluice** undoes what the **windmill** made necessary. The **mire** was won by **sinking** it.",
-          "zh": "**堤坝**(Dykes)、奶酪与风车，被称作荷兰人的手笔。它们其实是**地陷**(subsidence)留下的东西。**海堤**(seawall)拦住的那片海，曾经比田地还低；**草场**(meadows)之所以宜于**乳**(dairy)牛，是因为那层**草皮**(turf)太湿太低，种不了别的；而**水闸**(sluice)在运转，是为了消解**风车**(windmill)当初造成的必要。这片**泥沼**(mire)是靠**沉下去**(sinking)才赢来的。"
+          "en": "**Dykes**, cheese and mills are what **subsidence** left in a **sinking** **mire**. The seawall holds a sea once lower; the **meadows** suit **dairy** herds because the **turf** is too wet and too low for tillage; and the sluice undoes what the **windmill** made necessary. Whatever **feeds** on the ground it defends becomes **upkeep** without end.",
+          "zh": "**堤坝**(Dykes)、奶酪与风车，是**地陷**(subsidence)在一片不断**下沉**(sinking)的**泥沼**(mire)里留下的东西。海堤拦住的那片海，曾经比田地还低；**草场**(meadows)之所以宜于**乳**(dairy)牛，是因为那层**草皮**(turf)太湿太低，种不了别的；而水闸在运转，是为了消解**风车**(windmill)当初造成的必要。凡是**吃**(feeds)着自己所护之地的东西，都会变成没有尽头的**维护**(upkeep)。"
         }
       ],
       "facts": [
@@ -42,7 +42,8 @@
         "**⚠ 三处表述取舍**：①正文「3 或 4 米」对应来源的 3—4 metres，未取整；②**「祖伊德普拉斯圩」与「博德赫拉芬-雷韦克」均为地名，故不加粗、不占名额**；③正文末句「这片泥沼是靠沉下去才赢来的」是本文的推论表述，**其事实基础是上述三条，而非某一来源的原话。**",
         "**本篇的机制边界**：这不是「荷兰人做错了」的故事。**排水在当时是唯一能让泥炭地产粮的办法**，而下沉是几十年到几百年尺度上才显形的后果。**本文的论点在一个更窄的地方：那套防线所防的东西，正是那套防线造出来的。****地一千年前在海之上，如今在海之下，恰恰因为人们一直让它保持干燥。****⚠ 需注意：现代荷兰的水利体系同时应对海平面上升与河流洪水，本文只讲下沉这一支。**",
         "**★★ 已核 · 一处硬错，封版后复读时发现并改正（2026-09-02）**：**原文 §3 作「each round of dike and wheel」——而 dike 是拦水的堤，不是排水的沟，配不上叶轮。****这个错是我为消掉 VAL-13「conduits/conduit 同词元」而把 conduit 换成 dike 时造出来的**——**正是「为消掉一条报出而改坏句子」这个病。****已改为 sump（集水井），它才是与叶轮配套的那一样。****★ 另修三处**：①§4「eaves of the fen」——沼地没有屋檐，为削词数丢了 villages，已补回；②§3「costs a compaction」不是英文说法，改为 is paid in compaction；③§1「lowered … and hold it」时态跳，改为 have held it。**⚠ 这四处检察官一条都报不出来 —— 100 分量的是合规，不是文章。**",
-        "**★★ 已核 · 句序与逻辑复查（2026-09-02，用户要求）**：**逐句编号读过一遍，找出并改正三处：****一 · §2 时态断裂**——第4、5句过去时（arrived／cut）后接两句现在时（meets／rots／compact），第8句又回过去时。**已用 Where 从句把通则句框进过去叙事**：「Where a trench cut the peat, the face met air: it rots away…」，**并以 So 承接下句。****二 · §3 抽象句与具体句重复**——原第10句「Every dry season is paid in compaction」与第11句「each round … buying a season of pasture and taking a slice」说的是同一件事，**而抽象版排在具体版之前，等于先剧透再演。已删抽象句，把它的意思并进具体句。****三 · §4 顺序错位且收在干数字上**——原序为「速率→深度→画面→速率」，**两个速率被隔开，且画面刚立起来就被一句统计压平。****已改为：两个速率并排（900年3米 + 至今1—2厘米）→ 深度（7米）→ 画面（风暴过屋檐）收尾。****⚠ 这三处检察官同样一条都报不出来。**"
+        "**★★ 已核 · 句序与逻辑复查（2026-09-02，用户要求）**：**逐句编号读过一遍，找出并改正三处：****一 · §2 时态断裂**——第4、5句过去时（arrived／cut）后接两句现在时（meets／rots／compact），第8句又回过去时。**已用 Where 从句把通则句框进过去叙事**：「Where a trench cut the peat, the face met air: it rots away…」，**并以 So 承接下句。****二 · §3 抽象句与具体句重复**——原第10句「Every dry season is paid in compaction」与第11句「each round … buying a season of pasture and taking a slice」说的是同一件事，**而抽象版排在具体版之前，等于先剧透再演。已删抽象句，把它的意思并进具体句。****三 · §4 顺序错位且收在干数字上**——原序为「速率→深度→画面→速率」，**两个速率被隔开，且画面刚立起来就被一句统计压平。****已改为：两个速率并排（900年3米 + 至今1—2厘米）→ 深度（7米）→ 画面（风暴过屋檐）收尾。****⚠ 这三处检察官同样一条都报不出来。**",
+        "**★★★ 已核 · 第三轮复查：末句原先不成立（2026-09-02，用户追问「有没有达到最顶尖」）**：**原末句「The mire was won by sinking it」与 §1 第2句「They lowered it into the sea」是同一个意思**——**首尾各说一遍，中间三段的推进等于白走。****★ 而全库最好的几篇，末句都在把案例抬成一条能离开原案例站住的道理**：第47篇「凡是记分牌不计的，最先从课程里掉出去」；第53篇「只有法律先说某物不属于任何人，偷猎这桩罪才成立」；第54篇「为敏捷而造的喷气机，是被故意做成不稳的」。**「这片泥沼是靠沉下去才赢来的」离不开荷兰——它是总结，不是道理。****已改为：「Whatever feeds on the ground it defends becomes upkeep without end.」**——**凡是吃着自己所护之地的东西，都会变成没有尽头的维护。这一句可迁移到债务、抗生素、灌溉盐碱化等一切「治理消耗了被治理之物」的情形。****★ 另修两处词表逼出来的不自然**：「deepened drainage」改回自然的 deeper drainage；「what subsidence left」补回 in a sinking mire，使句子完整。**⚠ 这三轮复查（四处实错 → 三处句序 → 一处末句）检察官一条都报不出来。**"
       ],
       "metrics": {
         "words": 270,
@@ -261,8 +262,13 @@
           "p": 5
         },
         {
-          "w": "seawall",
-          "zh": "海堤",
+          "w": "sinking",
+          "zh": "下沉",
+          "p": 5
+        },
+        {
+          "w": "mire",
+          "zh": "泥沼",
           "p": 5
         },
         {
@@ -281,23 +287,18 @@
           "p": 5
         },
         {
-          "w": "sluice",
-          "zh": "水闸",
-          "p": 5
-        },
-        {
           "w": "windmill",
           "zh": "风车",
           "p": 5
         },
         {
-          "w": "mire",
-          "zh": "泥沼",
+          "w": "feeds",
+          "zh": "吃；供养",
           "p": 5
         },
         {
-          "w": "sinking",
-          "zh": "下沉",
+          "w": "upkeep",
+          "zh": "维护；保养",
           "p": 5
         }
       ]
