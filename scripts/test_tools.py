@@ -1511,6 +1511,9 @@ check("三条低采纳规则在内",
           for r in ("FIT-02", "STR-01", "STR-02")))
 check("score 跳过它们", "if not (f.sev == \"check\" and f.rid in MUTED_RULES)" in _ins4)
 check("写明采纳率是量出来的", "85% 不采纳" in _ins4 or "17 次判保留" in _ins4)
+check("代码里写明这一改动的自利之处", "自利之处" in _ins4,
+      "★ 它正好解开了卡住我的闸 —— 故须复核，不能量完就用")
+check("写明复核推翻了第一次的量法", "先前是低估，不是高估" in _ins4)
 check("仍在报告里折叠列出", "低采纳" in _ins4 and "折叠" in _ins4,
       "★ 不扣分不等于不报 —— 仍供人判")
 
