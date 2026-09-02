@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 54,
-  "keyword_count": 2700,
+  "article_count": 55,
+  "keyword_count": 2750,
   "articles": [
     {
       "id": "01",
@@ -1208,6 +1208,25 @@
       "canonical_fingerprint_sha256": "970af9bd425c1a77eddd45591217bfccc2a137fa8e05475796af5562e23b07d6",
       "markdown_sha256": "f52a135c19656525fccf68f2c384f27137b9083be29bceb64ef32194698f875e",
       "markdown_git_blob_sha": "1320744887e50a3fbf12abf8962ed8a511f19d11",
+      "superseded_signatures": []
+    },
+    {
+      "id": "55",
+      "slug": "won-by-lowering-it",
+      "title": "The Mire Was Won by Lowering It",
+      "title_zh": "这片泥沼是靠沉下去才赢来的",
+      "version_id": "55-final",
+      "status": "第五十五篇定稿",
+      "date": "2026-09-02",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-02按三步法写成，首次入库即 100/100 硬伤 0（全库第三篇满分，唯一一篇首入即满分）。topic.py 三闸门一次过（24/100%/100%）；vet 拦下 14 次；swap.py 换 conduit→dike 四步一次做完；lockstep 全程比对词数",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "86278abd224f2e65df3d563a5fafd434b53b64cce117ab17e5b93430063008d6",
+      "markdown_sha256": "ef0b2bc0d2bf12ea5bb240c1d04ff7d9060a6ccc5228d693353ff476d43d4f4b",
+      "markdown_git_blob_sha": "15f706889f85a7a0a526b0d5ce7dd483935f37bf",
       "superseded_signatures": []
     }
   ]
