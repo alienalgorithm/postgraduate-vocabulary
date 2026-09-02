@@ -2,7 +2,7 @@
 
 > 题材：1969年阿波罗11号1201/1202程序警报、优先级软件与地面“继续”判断
 > 状态：**第十九篇最终精进锁定稿**（2026-08-15）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 几周前的模拟里，同一类警报让贝尔斯叫了中止——错的。于是克兰兹下令把每个代码都写下来。警报从来不是那场危机；事先没读过它们，才会是。
 
 ---
@@ -17,7 +17,7 @@ All five were **defences** reporting for duty. The **executive** ran jobs by **p
 
 None of those defences helped unless the ground knew. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **penned** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.
 
-Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fifteen **ticks**. Eagle landed with the low-fuel light already on; Bales later took a group **award** for four hundred thousand. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.
+Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fifteen **ticks**. Eagle landed with the low-fuel light already on; Bales later took a group **award** for 400,000. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.
 
 ---
 
@@ -26,7 +26,7 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fi
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1969年7月20日，「鹰」号动力**下降**(descent)开始五分钟后，1202跳上了**座舱**(cockpit)**显示屏**(readout)。「给我们读一下1202程序**警报**(alarm)。」阿姆斯特朗说。**着陆**(touchdown)前还有四次，其中三次挤在四十秒的一阵**痉挛**(spasm)里——当时**着陆器**(lander)正掠过三千英尺。每一次都意味着制导**跑赢**(outrun)了当前**周期**(cycle)的**已用**(elapsed)时长。
+1969年7月20日，「鹰」号动力**下降**(descent)开始五分钟后，1202跳上了**座舱**(cockpit)**显示屏**(readout)。「给我们读一下1202程序**警报**(alarm)。」阿姆斯特朗说。**着陆**(touchdown)前还有四次，其中三次挤在四十秒的一阵**痉挛**(spasm)里——当时**着陆器**(lander)正掠过 3,000 英尺。每一次都意味着制导**跑赢**(outrun)了当前**周期**(cycle)的**已用**(elapsed)时长。
 
 **交会**(rendezvous)**雷达**(radar)开着，是为一种**预案**(contingency)：**中止**(abort)返回轨道。可它的供电接线**错配**(mismatch)，让它不断索要并不需要的角度计数。**处理器**(processor)在这一段本已用掉83%的**算力**(capacity)；雷达又**占去**(claimed)13%。当奥尔德林**敲**(keyed)入一条显示指令，**余量**(slack)就没了。
 
@@ -34,7 +34,7 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fi
 
 可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**撤离**(evacuation)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(penned)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。
 
-贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时低燃料灯已经亮起；贝尔斯后来领的是一个集体**奖**(award)，替那四十万人领的。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)：它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么。警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。
+贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时低燃料灯已经亮起；贝尔斯后来领的是一个集体**奖**(award)，替那 400,000 人领的。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)：它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么。警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。
 
 ---
 
@@ -71,3 +71,5 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fi
 **几周前的模拟中贝尔斯确曾误叫中止**——1969 年 7 月 5 日下午，模拟主管 Richard Koos 故意抛出 1201，贝尔斯判断不出而中止，事后与克兰兹一同被 Koos 训了一顿，次日又加练四小时专攻程序告警；
 **加曼把清单手写后压在控制台有机玻璃下**、判据为「若不反复出现就继续」。
 **一处两说**：贝尔斯作出判断所用的时间——常述为 **约十五秒**（本文所取）；而《阿波罗11月面日志》记的是**自阿姆斯特朗首次呼叫到休斯敦放行共 27 秒**（含转述与通话）。两说此存照。[Spacedaily：Apollo 11 1201/1202 guidance computer restarts](https://spacedaily.com/t-apollo-11-1201-1202-guidance-computer-restarts/)｜[Smithsonian Magazine：Troubleshooting 101](https://www.smithsonianmag.com/air-space-magazine/troubleshooting-101-1201-actually-and-1202-too-111339271/)｜[Apollo Replica：Error 1202](https://www.apolloreplica.com/en/blog/apollo-11-error-1202)
+- **已核 · 那个「40 万」**：**阿波罗计划高峰期直接参与人数约 400,000（40 万）**；**贝尔斯 1969 年获总统自由勋章，是代表整个任务控制团队领受的。****⚠ 40 万为常见约数，随统计口径而变，本文取整表述。**
+- **⚠ STR-03「结尾两句格言相邻」判为保留（2026-09-01 复核）**：**末段两句分属两层——前一句说系统为何能过载不垮，后一句说警报本身不是危机。****试过三种改法（插入具体事实、改写为陈述、缩短并联），每一种都要么超词数、要么把句子弄僵。****判为保留：为消掉这条报出而改坏结尾，正是本项目要防的那个病。**
