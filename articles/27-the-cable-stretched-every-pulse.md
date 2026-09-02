@@ -9,15 +9,15 @@
 
 ## 英文正文
 
-In August 1858, the first **transatlantic** telegraph cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. Thomson analysed **retardation**: signals could **coalesce**, grow hard to **decipher**, and arrive as **distortion** not clean marks.
+In August 1858 the first **transatlantic** cable promised near-instant communication. A **submarine** line was no ordinary wire. Distributed **capacitance** stored charge while ohmic resistance **slowed** redistribution, so each **pulse** **dispersed**. William Thomson analysed **retardation**: signals could **coalesce**, grow hard to **decipher**, and arrive as **distortion** not clean marks.
 
-Whitehouse did not deny retardation. He measured it on shorter wires and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity** and **dielectric** behaviour. Their deeper dispute was **extrapolation**: did short-line tests capture Atlantic **scaling**, and did **sensitivity** meet that **premise**?
+Whitehouse did not deny retardation. He measured it on wires a few hundred miles long and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity**, **dielectric** behaviour. Their deeper dispute was **extrapolation**: did short-line tests capture Atlantic **scaling**, and did **sensitivity** meet the **premise**?
 
-Thomson's mirror galvanometer increased **responsiveness**. A tiny current caused **deflection** in a mirror suspended on **silk** threads; **reflection** sent a **luminous** **spot** across a scale, **enlarging** movement. Faint currents became **discernible** without harsher drive. One **disparity** told all: Victoria's message took sixteen and a half hours on Whitehouse's **gear**; the mirror read it in sixty-seven minutes.
+Thomson's mirror galvanometer increased **responsiveness**. A tiny current caused **deflection** in a mirror hung on **silk** threads; **reflection** sent a **luminous** **spot** across a scale, **enlarging** movement. Faint currents became **discernible** without harsher drive. One **disparity** told all. Victoria's message took 16 and a half hours on Whitehouse's **gear**; the mirror read it in 67 minutes.
 
-Failure was not a one-man morality tale. The cable's **defective** **insulation** had suffered during manufacture and **handling**. Whitehouse's high-voltage practice—about 500 volts directly and perhaps 2,000 from induction coils—likely **exacerbated** **vulnerability**. As **leakage** made communication **intermittent**, effective service ceased on 1 September. Recovered **strands** showed cores never **centred** and **impurities** in the gum.
+Failure was not a one-man morality tale. The cable's **defective** **insulation** had suffered in manufacture and **handling**. Whitehouse's high-voltage practice—about 500 volts directly and perhaps 2,000 from induction coils—likely **exacerbated** **vulnerability**. As **leakage** made communication **intermittent**, effective service ceased on 1 September. Recovered **strands** showed cores never **centred** and **impurities** in the gum.
 
-The lesson was not that low power was harmless. Different failures demand different remedies. A weak signal permits **amplification**; a **broadened** **waveform** may lose **separation** between symbols. Engineering starts by identifying the **failure-mode**: strengthen insulation against **breakdown**, improve detection for **faintness**, alter signalling for **dispersion**. More drive does not guarantee **legibility**. The **fallacy** was asking electrical force to repair a damaged shape.
+The lesson is not that low power was safe. A weak signal permits **amplification**; a **broadened** **waveform** loses **separation**. Engineering starts by naming the **failure-mode**: insulation for **breakdown**, detection for **faintness**, signalling for **dispersion**. More drive does not guarantee **legibility**. The 1866 cable had a heavier core, thicker gum. The **fallacy** was asking electrical force to mend a shape.
 
 ---
 
@@ -30,7 +30,7 @@ The lesson was not that low power was harmless. Different failures demand differ
 
 Whitehouse并没有否认迟滞现象。他曾在较短线路上测量这种效应，并给出了另一种**诊断**(diagnosis)：更高的**电压**(voltage)、感应线圈和**继电器**(relays)仍可以让通信具有实用性。Thomson更关注信号**传播**(propagation)、导体**电阻率**(resistivity)以及**介电的**(dielectric)行为。两人更深层的争论其实是**外推**(extrapolation)问题——短线路实验能否代表大西洋尺度的**尺度效应**(scaling)，以及接收端的**灵敏度**(sensitivity)是否真正回答了同一个**前提**(premise)。
 
-Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness)。极微弱的电流会让一面悬挂在**丝线**(silk)上的小镜发生**偏转**(deflection)；经过**反射**(reflection)，一个**发亮的**(luminous)**光点**(spot)会沿着刻度移动，从而把细微运动**放大**(enlarging)。这样，微弱电流无需更猛烈的驱动也能变得**可辨识**(discernible)。一个**差距**(disparity)说明了一切：在怀特豪斯的**机器**(gear)上，维多利亚女王的电报耗了十六个半小时；换上汤姆森的镜子，六十七分钟便走完。
+Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness)。极微弱的电流会让一面悬挂在**丝线**(silk)上的小镜发生**偏转**(deflection)；经过**反射**(reflection)，一个**发亮的**(luminous)**光点**(spot)会沿着刻度移动，从而把细微运动**放大**(enlarging)。这样，微弱电流无需更猛烈的驱动也能变得**可辨识**(discernible)。一个**差距**(disparity)说明了一切。在怀特豪斯的**机器**(gear)上，维多利亚女王的电报耗了16 个半小时；换上汤姆森的镜子，67 分钟便走完。
 
 这次失败不是一个人的道德寓言。电缆的**有缺陷的**(defective)**绝缘层**(insulation)在制造与**搬运过程**(handling)中已经受损。Whitehouse的高压操作——直流约500伏，感应线圈估计可达约2,000伏——很可能进一步**加剧了**(exacerbated)这种**脆弱性**(vulnerability)。随着**漏电**(leakage)增加，通信变得**时断时续**(intermittent)，有效服务在9月1日停止。从捞起的**缆股**(strands)上能看到：铜芯从来没**居中**(centred)，胶里还有**杂质**(impurities)。
 
@@ -66,3 +66,4 @@ Thomson的镜式检流计提高了接收系统的**响应能力**(responsiveness
 - **已核 · 电压**：怀特豪斯使用五英尺长的感应线圈，估计可加于电缆约 **2,000 伏**；1861 年调查委员会据此归咎于他。[Linda Hall Library](https://www.lindahall.org/about/news/scientist-of-the-day/e-o-wildman-whitehouse/)｜[ETHW：Transatlantic Cable](https://ethw.org/Transatlantic_Cable)
 - **已核 · 失效时间两说并存，本文已兼顾**：Linda Hall 记 9 月 2 日突然失效；IET 档案记 10 月 20 日停止工作。本文写「9 月 1 日有效通信已停止，此后零星间歇，10 月 20 日留下最后记录」，**同时容纳两说**。另：该线在失效前共传送 **732 封电报**。[IET Archives](https://www.theiet.org/membership/library-and-archives/the-iet-archives/archives-highlights/the-first-transatlantic-telegraph-cable-1858)｜[Indian Defence Review](https://indiandefencereview.com/transatlantic-telegraph-cable-1858-failure/)
 - **已核 · 不可归罪一人，有实证支持**：IEEE Spectrum 载历史学家兼工程师 Donard de Cogan 1985 年对原始电缆残段的分析——**制造粗劣**，有些段落铜芯未居中、危险地贴近金属外皮，杜仲胶绝缘亦已劣化；杂质与 1857—58 年冬季的不当贮存，可能在电缆下水之前就埋下了隐患。[Indian Defence Review 转述 IEEE Spectrum](https://indiandefencereview.com/transatlantic-telegraph-cable-1858-failure/)
+- **已核 · 1866 年那条成功的电缆**：**1858 年那条失败之后，1865—66 年重铺的大西洋电缆采用了明显加粗的导体与更厚的绝缘层，并以汤姆森的镜式检流计在低电压下收报**——**即：真正解决问题的是绝缘与检测，不是更大的推力。****正文以此作末段的具体落点，而非停在格言上。**[Transatlantic telegraph cable · Wikipedia](https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable)
