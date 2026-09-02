@@ -1581,6 +1581,21 @@ _r11 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/swap.py"),
                       capture_output=True, text=True, timeout=180).stdout
 check("实测：第44篇换 lemons 时警告触发", "你多半是在消 VAL-13" in _r11)
 
+
+# ── 名额在 48—50 之间反复三轮就停（2026-09-02 第56篇实测）──────────
+# **第56篇名额轨迹：24→29→36→40→45→46→49→50→48→49→50→48**
+#   ——**在 48 与 50 之间反复六轮，每补一个就掉一个。**
+# 病因：**brewing／ale／cask／mash／hops 论点每段都绕不开，而名额只认第一次。**
+# **已探过八个词域**，九批 vet 通过率 35／73／53／36／37／50／40／0／0%。
+# **★ 能凑到 50，但要靠再堆同义词 —— 而堆到那一步，句子已被词表牵着走。**
+# **第55篇的五轮复查证明：这样堆出来的 100 分，读起来是不对的。**
+print("\n[止损] 名额反复三轮就停")
+_ch10 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("《总令》写了这个止损点", "名额在 48—50 之间反复三轮" in _ch10)
+check("附上第56篇的名额轨迹", "24→29→36→40→45" in _ch10)
+check("写明为什么不硬凑", "句子已被词表牵着走" in _ch10)
+check("引第55篇作证", "五轮复查证明" in _ch10)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
