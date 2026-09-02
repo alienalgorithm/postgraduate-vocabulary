@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 51,
-  "keyword_count": 2550,
+  "article_count": 52,
+  "keyword_count": 2600,
   "articles": [
     {
       "id": "01",
@@ -1151,6 +1151,25 @@
       "canonical_fingerprint_sha256": "0cf068e28ec70b2adb40eb60dce0539ffe769f3a620e151196c2bb489b5afbd7",
       "markdown_sha256": "ce28f287c0c18e25a3a43a7e96de7984a383093adba3ebd924c45d046e8c544a",
       "markdown_git_blob_sha": "e3ac691de5373d554ade949778719a16df9b40db",
+      "superseded_signatures": []
+    },
+    {
+      "id": "52",
+      "slug": "a-third-ingredient-added-to-both",
+      "title": "A Third Ingredient Added to Both",
+      "title_zh": "加进这两样之外的第三种配料",
+      "version_id": "52-final",
+      "status": "第五十二篇定稿",
+      "date": "2026-09-01",
+      "words": 267,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-09-01写了四稿：大富翁（论点名词被占光）／限嗣继承（动词被占光）／劳合社（核心词贯穿全篇）／骨瓷（成）。第四稿全程用新装的 topic.py 三闸门与 vet 归因，入库即零硬伤；闸门三提前警告 china/makeshift/stone 会重复，撤重复后用同义词把名额从33换回50",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "26e24ca52f500ce59fae15e32d7c3ddf20c350f2ebbb30a8e6f76526926b5cd9",
+      "markdown_sha256": "647c9e32dcff292ed64c9392070abc5ac1f17a04e045524018328cb2491d88c1",
+      "markdown_git_blob_sha": "27c6ae521c17ec157d5937c8684a422d4a31b124",
       "superseded_signatures": []
     }
   ]

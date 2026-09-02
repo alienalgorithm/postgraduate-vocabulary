@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '52': { source: '2026-09-01写了四稿：大富翁（论点名词被占光）／限嗣继承（动词被占光）／劳合社（核心词贯穿全篇）／骨瓷（成）。第四稿全程用新装的 topic.py 三闸门与 vet 归因，入库即零硬伤；闸门三提前警告 china/makeshift/stone 会重复，撤重复后用同义词把名额从33换回50', verification: 'conversation-latest-final' },
   '51': { source: '2026-09-01按《总令》新立的三步法首次一次成稿：扫域（香水与化妆62%）→brief报30个→上网核；入库时暴露上一轮自造的工具缺陷：review把分布极差列为结构提示而检察官判为BAL-01硬伤，已改归阻塞项', verification: 'conversation-latest-final' },
   '50': { source: '2026-09-01按《总令》全流程新写，写了三次：第一稿（肉豆蔻垄断）因论点线用词被49篇占光而弃；第二稿（赛马让分制）第11轮即已达标270词/50名额，我却为消一条结构提示继续改、六轮回不到达标；最终取回第11轮那一版。动笔前逐条上网核四项', verification: 'conversation-latest-final' },
   '49': { source: '2026-09-01按《总令》全流程新写：疫苗与免疫域；brief 首判「可用词13个太少」，换角度重写材料后升至22；动笔前逐条上网核六项；三处换词全走 swap.py；VAL-14 第四次逮到 ran/fought；swap 之后自己对读逮出中文不通顺一处', verification: 'conversation-latest-final' },
