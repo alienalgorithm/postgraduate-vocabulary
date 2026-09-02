@@ -13,8 +13,8 @@
       "status": "第五十一篇定稿",
       "paras": [
         {
-          "en": "Fougère is French for **fern**. **Bracken** has almost no **scent**; nobody ever sniffed one and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay, and the **fragrance** family it founded is still the largest in men's **perfumery**.",
-          "zh": "Fougère在法语里是**蕨**(fern)。**羊齿**(Bracken)几乎没有**气味**(scent)；没人嗅过一株蕨还记住它。1882年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气；而它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。"
+          "en": "Fougère is French for **fern**. **Bracken** has almost no **scent**; nobody ever sniffed a frond and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay, and the **fragrance** family it founded is the largest in men's **perfumery**.",
+          "zh": "Fougère在法语里是**蕨**(fern)。**羊齿**(Bracken)几乎没有**气味**(scent)；没人嗅过一片蕨叶还记住它。1882年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气；而它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。"
         },
         {
           "en": "The **composition** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, thirteen years before anyone put it in a bottle. Parquet's coumarin was identical to the **essence** in that **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.",
@@ -39,7 +39,8 @@
         "**★ 已核 · 香豆素其人其事**：**香豆素 1820 年由 Vogel 从零陵香豆中首次分离**；**1868 年 William Henry Perkin 完成首次人工合成**（1882 年 Fougère Royale 面世，相距 14 年——**⚠ 正文写「十三年」，系 1868→1881 制备年计；两种算法皆见于来源，已在此标明**）。**关键在于：合成香豆素与天然香豆素为同一分子，故不构成「仿制」。**",
         "**★★★ 已核 · 本篇的论点（限制被抬掉）**：合成香料的意义**不在于更便宜**，而在于**它把调香师从「只能用天然可得之物」中解放出来**，**得以创造自然界中并不存在的气味**。**⚠ 「两百种→三千种」这一组数字仅见于单一来源（一篇行业博客），属量级示意而非严格统计，已在此标明；若再版宜另寻权威出处或改为定性表述。**",
         "**本篇的机制边界**：这不是「天然香料不如合成」的故事。**天然萃取物是数十上百种分子的复合体，其层次至今无法被单一合成物取代**。**本文的论点在别处**：**在 1882 年之前，调香的调色盘是由植物学而非想象力划定的**——**能用的只有能长出来、且能被蒸馏或压榨出来的那些**。**合成香料改变的不是每一格颜料的价钱，是这块调色盘上一共有几格。****而 Fougère Royale 恰恰用它做了最能说明问题的一件事：****调出一种自然界从未有过的气味，再以一种不散发气味的植物为它命名。**",
-        "**⚠ FIT-02 与 BAL-02b 判为保留（2026-09-01 复核）**：§3「**Botany** set the **palette**, not **imagination**」单句密度 3/6，**而这六个词正是全篇的论点句**——植物学、调色盘、想象力，缺一句子就不成立。**试过加词降密度，每次都触发词数上限；试过削词，又顶高段落密度。****二者相互拉扯：降密度要加词，加词又超 270。判为保留。****为消掉这两条而改写全篇论点句，正是 95 分闸口要防的事。**"
+        "**⚠ FIT-02 与 BAL-02b 判为保留（2026-09-01 复核）**：§3「**Botany** set the **palette**, not **imagination**」单句密度 3/6，**而这六个词正是全篇的论点句**——植物学、调色盘、想象力，缺一句子就不成立。**试过加词降密度，每次都触发词数上限；试过削词，又顶高段落密度。****二者相互拉扯：降密度要加词，加词又超 270。判为保留。****为消掉这两条而改写全篇论点句，正是 95 分闸口要防的事。**",
+        "**★ 已核 · 一处悬空代词，第55篇的「六条人读」筛查时发现（2026-09-02）**：**原文 §1 作「Bracken has almost no scent; nobody ever sniffed one」——one 没有先行词。****原稿本是 Ferns…sniffed one（one＝一株蕨，成立）；而我为消 VAL-13「fern/ferns 同词元」把 Ferns 换成了 Bracken，bracken 是不可数的集合名词，one 从此悬空。已改为 sniffed a frond。****⚠ 这是本会话「为消掉一条报出而改坏句子」的又一例。**"
       ],
       "metrics": {
         "words": 270,
