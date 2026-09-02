@@ -13,7 +13,7 @@ At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **
 
 Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **tier**'s worth.
 
-Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.
+Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **struts** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.
 
 Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore that floor and everything **hanging** **beneath** the beam. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for it.
 
@@ -30,7 +30,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(tier)。
 
-哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**杆**(rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。
+哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**支杆**(struts)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。
 
 把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上那根梁**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为它算过一笔**账**(sums)。
 
@@ -44,7 +44,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 **§2**（10词）specified 指定；写明｜rod 杆；拉杆｜hangers 吊杆（复）｜beam 梁｜fourth-floor 四层的｜downward 向下｜storey 层楼｜hung 悬挂（过去式）｜burden 担子；荷载｜tier 层
 
-**§3**（10词）impractical 不现实的；行不通的｜fabricate 加工制作｜length 长度｜lathe 车床｜thread 螺纹｜nut 螺母｜fabricator 加工商｜rods 杆（复）｜cutting 切削；车削｜workshop 车间
+**§3**（10词）impractical 不现实的；行不通的｜fabricate 加工制作｜length 长度｜lathe 车床｜thread 螺纹｜nut 螺母｜fabricator 加工商｜struts 支杆（复）｜cutting 切削；车削｜workshop 车间
 
 **§4**（10词）layouts 排布（复）｜bore 承受（过去式）｜hanging 悬挂着的｜beneath 在下方｜altered 改动｜sketch 图样｜hardly 几乎不｜doubled 使加倍｜connection 接合；接头｜sums 账；算式（复）
 

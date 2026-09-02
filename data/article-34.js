@@ -25,7 +25,7 @@
           "zh": "1662年，约翰·格朗特**梳**(combed)过伦敦的死亡表。可伦敦不记死者的年龄，此后一百年也不记。哈雷另有一层**理由**(grounds)，用的是他自己的**措辞**(wording)：伦敦与都柏林被死在那里的**外来者**(strangers)**撑**(swollen)得虚胖，**葬礼**(funerals)多过**出生**(births)，这就**使**(rendered)它们**不配**(incapable)充当**标准**(standards)。"
         },
         {
-          "en": "Breslau, in Silesia, could **serve**. A **cleric**, Caspar Neumann, had kept its parish **annals**, and they gave the age at death. The town was small and **stable**, some thirty-four thousand **souls**, with little **migration**. Neumann sent the **figures** by **courier** to the Royal Society. From the years 1687 to 1691 Halley **assembled** a **roster**. Of those born, 1,000 reached one, 855 reached two, 107 lived past 85.",
+          "en": "Breslau, in Silesia, could **serve**. A **cleric**, Caspar Neumann, had kept its parish **annals**, and they gave the age at death. The town was small and **stable**, some 34,000 **souls**, with little **migration**. Neumann sent the **figures** by **courier** to the Royal Society. From the years 1687 to 1691 Halley **assembled** a **roster**. Of those born, 1,000 reached one, 855 reached two, 107 lived past 85.",
           "zh": "布雷斯劳可以，它在西里西亚，**当得起**(serve)。一位**教士**(cleric)卡斯帕尔·诺伊曼一直记着当地教区的**年录**(annals)，那上面写着死时的年龄。这座城小而**安定**(stable)，约莫三万四千**口人**(souls)，**流动**(migration)很少。诺伊曼托**信使**(courier)把**数字**(figures)送到皇家学会。就凭1687到1691年的数，哈雷**拼**(assembled)出一张**名册**(roster)。1000人活到一岁，855人活到两岁，107人活过八十五。"
         },
         {
@@ -43,7 +43,7 @@
         "**本篇的机制边界**：哈雷需要的不是更多数据，而是**一种特定的数据**——记有死时年龄、且人口进出稳定的城镇。伦敦两样都不具备：不记年龄，且被外来人口涨破。**判别性证据因此不在数据量上，而在数据的种类上。**"
       ],
       "metrics": {
-        "words": 271,
+        "words": 270,
         "keywords": 50,
         "density": 18.5
       },

@@ -9,9 +9,9 @@
 
 ## 英文正文
 
-Scurvy **stricken** eighty of the Salisbury's 350 men in ten weeks. On 20 May 1747 James Lind split twelve of the **ailing** into six pairs, each on a different remedy: **cider**, vitriol, **vinegar**, **seawater**, a paste of **garlic** and **mustard**, two oranges and a **lemon**. Only the **citrus** pair **mended**.
+Scurvy **stricken** eighty of the Salisbury's 350 men in ten weeks. On 20 May 1747 James Lind split 12 of the **ailing** into 6 pairs, each on a different remedy: **cider**, vitriol, **vinegar**, **seawater**, a paste of **garlic** and **mustard**, two oranges and a **lemon**. Only the **citrus** pair **mended**.
 
-Lind printed his **treatise** in 1753. The Admiralty did nothing for 42 years: **lemons** were too **dear**. Gilbert Blane won the order in 1795: three quarters of an **ounce** of lemon **juice** per **sailor** a day. **Gums** stopped **bleeding**, **bruises** began to **heal**, and scurvy left the fleet.
+Lind printed his **treatise** in 1753. The Admiralty did nothing for 42 years: **citron** was too **dear**. Gilbert Blane won the order in 1795: three quarters of an **ounce** of lemon **juice** per **sailor** a day. **Gums** stopped **bleeding**, **bruises** began to **heal**, and scurvy left the fleet.
 
 Then it came back. From the 1860s the Navy **swapped** Mediterranean lemons for **limes** from its own Caribbean **colonies** — cheaper, and **imperial**. A **lime** holds a fraction of a lemon's **ascorbic** **potency**. The juice was **diluted**, boiled and kept in copper casks, which **wrecks** what survives. Polar parties of the **eighteen-seventies** carried it and **rotted**.
 
@@ -28,7 +28,7 @@ Nobody could tell lemon from lime in the way that mattered, because no **reasoni
 
 坏血病在十周里**击倒**(stricken)了「索尔兹伯里号」350人中的八十人。1747年5月20日，詹姆斯·林德把十二名**病弱者**(ailing)分成六对，每对给一种不同的疗法：**苹果酒**(cider)、矾油、**醋**(vinegar)、**海水**(seawater)、一剂**大蒜**(garlic)加**芥末**(mustard)的糊、以及两个橙配一个**柠檬**(lemon)。只有吃**柑橘**(citrus)那一对**好转**(mended)了。
 
-林德1753年印出他的**论著**(treatise)。海军部四十二年不动：**柠檬**(lemons)太**贵**(dear)。吉尔伯特·布莱恩1795年争到了那道命令：每名**水兵**(sailor)每天四分之三**盎司**(ounce)柠檬**汁**(juice)。**牙龈**(Gums)不再**出血**(bleeding)，**瘀伤**(bruises)开始**愈合**(heal)，坏血病离开了舰队。
+林德1753年印出他的**论著**(treatise)。海军部四十二年不动：**枸橼**(citron)太**贵**(dear)。吉尔伯特·布莱恩1795年争到了那道命令：每名**水兵**(sailor)每天四分之三**盎司**(ounce)柠檬**汁**(juice)。**牙龈**(Gums)不再**出血**(bleeding)，**瘀伤**(bruises)开始**愈合**(heal)，坏血病离开了舰队。
 
 然后它又回来了。1860年代起，海军把地中海柠檬**换**(swapped)成自家加勒比**殖民地**(colonies)产的**青柠**(limes)——便宜，而且是**帝国**(imperial)自产的。一个**青柠**(lime)所含的**抗坏血酸**(ascorbic)**效力**(potency)只有柠檬的一小部分。汁液经**稀释**(diluted)、熬煮，盛在铜桶里，而铜**毁**(wrecks)掉剩下的那点。**1870年代**(eighteen-seventies)的极地队伍带着它，照样**烂**(rotted)掉。
 
@@ -42,7 +42,7 @@ Nobody could tell lemon from lime in the way that mattered, because no **reasoni
 
 **§1**（10词）stricken 击倒；侵袭｜ailing 病弱的｜cider 苹果酒｜vinegar 醋｜seawater 海水｜garlic 大蒜｜mustard 芥末｜lemon 柠檬｜citrus 柑橘｜mended 好转；痊愈
 
-**§2**（10词）treatise 论著｜lemons 柠檬（复）｜dear 昂贵的｜ounce 盎司｜juice 汁｜sailor 水兵｜gums 牙龈（复）｜bleeding 出血｜bruises 瘀伤（复）｜heal 愈合
+**§2**（10词）treatise 论著｜citron 枸橼；香橼｜dear 昂贵的｜ounce 盎司｜juice 汁｜sailor 水兵｜gums 牙龈（复）｜bleeding 出血｜bruises 瘀伤（复）｜heal 愈合
 
 **§3**（11词）swapped 换掉｜limes 青柠（复）｜colonies 殖民地（复）｜imperial 帝国的｜lime 青柠｜ascorbic 抗坏血酸的｜potency 效力｜diluted 稀释的｜wrecks 毁坏｜eighteen-seventies 十九世纪七十年代｜rotted 腐烂
 

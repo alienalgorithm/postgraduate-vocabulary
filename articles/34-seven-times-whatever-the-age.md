@@ -2,7 +2,7 @@
 
 > 题材：1693年哈雷的布雷斯劳生命表、为何用一座西里西亚小城的数，以及一张没人用的表
 > 状态：**第三十四篇定稿**（2026-08-20）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 英国王室卖终身年金，价钱一律是年付额的七倍，不问买家几岁。哈雷1693年把定价方法摆了出来——七倍对每一个不满六十五岁的人都太少。那张表被摆出来、没人读，然后搁置；议会照旧收七倍。
 
 ---
@@ -15,7 +15,7 @@ Subscribers saw the **loophole**. They **nominated** the **youngest** lives — 
 
 John Graunt had **combed** the London bills of mortality in 1662. But London did not note the age of the dead, and would not for a hundred years. Halley had second **grounds**, in his own **wording**: London and Dublin were **swollen** by **strangers** who died there, **funerals** exceeding **births**, which **rendered** them **incapable** of being **standards**.
 
-Breslau, in Silesia, could **serve**. A **cleric**, Caspar Neumann, had kept its parish **annals**, and they gave the age at death. The town was small and **stable**, some thirty-four thousand **souls**, with little **migration**. Neumann sent the **figures** by **courier** to the Royal Society. From the years 1687 to 1691 Halley **assembled** a **roster**. Of those born, 1,000 reached one, 855 reached two, 107 lived past 85.
+Breslau, in Silesia, could **serve**. A **cleric**, Caspar Neumann, had kept its parish **annals**, and they gave the age at death. The town was small and **stable**, some 34,000 **souls**, with little **migration**. Neumann sent the **figures** by **courier** to the Royal Society. From the years 1687 to 1691 Halley **assembled** a **roster**. Of those born, 1,000 reached one, 855 reached two, 107 lived past 85.
 
 On 8 March 1693 he **submitted** the table to the Society; a week later, the **annuity** **tariff** drawn from it **trailed**. Seven times was too little for every **purchaser** under **pension** age. The table was displayed, went **unread**, and was **shelved**. Parliament went on charging seven, **losing** on every life it **insured** young.
 

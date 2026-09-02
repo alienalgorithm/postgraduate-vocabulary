@@ -13,12 +13,12 @@
       "status": "第四十四篇定稿",
       "paras": [
         {
-          "en": "Scurvy **stricken** eighty of the Salisbury's 350 men in ten weeks. On 20 May 1747 James Lind split twelve of the **ailing** into six pairs, each on a different remedy: **cider**, vitriol, **vinegar**, **seawater**, a paste of **garlic** and **mustard**, two oranges and a **lemon**. Only the **citrus** pair **mended**.",
+          "en": "Scurvy **stricken** eighty of the Salisbury's 350 men in ten weeks. On 20 May 1747 James Lind split 12 of the **ailing** into 6 pairs, each on a different remedy: **cider**, vitriol, **vinegar**, **seawater**, a paste of **garlic** and **mustard**, two oranges and a **lemon**. Only the **citrus** pair **mended**.",
           "zh": "坏血病在十周里**击倒**(stricken)了「索尔兹伯里号」350人中的八十人。1747年5月20日，詹姆斯·林德把十二名**病弱者**(ailing)分成六对，每对给一种不同的疗法：**苹果酒**(cider)、矾油、**醋**(vinegar)、**海水**(seawater)、一剂**大蒜**(garlic)加**芥末**(mustard)的糊、以及两个橙配一个**柠檬**(lemon)。只有吃**柑橘**(citrus)那一对**好转**(mended)了。"
         },
         {
-          "en": "Lind printed his **treatise** in 1753. The Admiralty did nothing for 42 years: **lemons** were too **dear**. Gilbert Blane won the order in 1795: three quarters of an **ounce** of lemon **juice** per **sailor** a day. **Gums** stopped **bleeding**, **bruises** began to **heal**, and scurvy left the fleet.",
-          "zh": "林德1753年印出他的**论著**(treatise)。海军部四十二年不动：**柠檬**(lemons)太**贵**(dear)。吉尔伯特·布莱恩1795年争到了那道命令：每名**水兵**(sailor)每天四分之三**盎司**(ounce)柠檬**汁**(juice)。**牙龈**(Gums)不再**出血**(bleeding)，**瘀伤**(bruises)开始**愈合**(heal)，坏血病离开了舰队。"
+          "en": "Lind printed his **treatise** in 1753. The Admiralty did nothing for 42 years: **citron** was too **dear**. Gilbert Blane won the order in 1795: three quarters of an **ounce** of lemon **juice** per **sailor** a day. **Gums** stopped **bleeding**, **bruises** began to **heal**, and scurvy left the fleet.",
+          "zh": "林德1753年印出他的**论著**(treatise)。海军部四十二年不动：**枸橼**(citron)太**贵**(dear)。吉尔伯特·布莱恩1795年争到了那道命令：每名**水兵**(sailor)每天四分之三**盎司**(ounce)柠檬**汁**(juice)。**牙龈**(Gums)不再**出血**(bleeding)，**瘀伤**(bruises)开始**愈合**(heal)，坏血病离开了舰队。"
         },
         {
           "en": "Then it came back. From the 1860s the Navy **swapped** Mediterranean lemons for **limes** from its own Caribbean **colonies** — cheaper, and **imperial**. A **lime** holds a fraction of a lemon's **ascorbic** **potency**. The juice was **diluted**, boiled and kept in copper casks, which **wrecks** what survives. Polar parties of the **eighteen-seventies** carried it and **rotted**.",
@@ -103,8 +103,8 @@
           "p": 2
         },
         {
-          "w": "lemons",
-          "zh": "柠檬（复）",
+          "w": "citron",
+          "zh": "枸橼；香橼",
           "p": 2
         },
         {

@@ -2,7 +2,7 @@
 
 > 题材：Haber–Bosch 合成氨与工业放大
 > 状态：**第六篇最终精进锁定稿**（2026-08-15）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：268 词 / 50 重点词 / 密度 18.7%
 > 哈伯的台式装置每小时产氨125毫升；四年后奥保工厂每天四十吨。同一个反应，中间隔着一次完全独立的发明。
 
 ---
@@ -11,11 +11,11 @@
 
 Air is four fifths **nitrogen**, yet no **crop** can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.
 
-In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at two hundred **atmospheres** and five hundred degrees. High pressure **favoured** **ammonia**; heat **hastened** the reaction but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.
+In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at 200 **atmospheres** and 500 degrees. High pressure **favoured** **ammonia**; heat **hastened** the reaction but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.
 
-The factory was another matter. Hot hydrogen entered **steel** and stripped its **carbon**, leaving **vessels** brittle. Bosch answered with a double-**walled** tube whose **liner** vented hydrogen before it **weakened** the shell. Osmium was too rare for commerce; Alwin Mittasch **sifted** 2,500 **catalysts** through 6,500 runs and settled on magnetite, whose **potassium** and **alumina** made cheap iron work.
+The factory was another matter. Hot hydrogen entered **steel** and stripped its **carbon**, leaving **vessels** brittle. Bosch answered with a double-**walled** tube whose **liner** vented hydrogen before it **weakened** the shell. Osmium was too rare for commerce; Alwin Mittasch **sifted** 2,500 **agents** through 6,500 runs and settled on magnetite, whose **potassium** and **alumina** made cheap iron work.
 
-Oppau opened in September 1913. By 1914 it made forty **tonnes** a day — one reaction **magnified** twenty thousandfold. **Fertiliser** lifted **harvests** across Europe, and famine forecasts went quiet. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
+Oppau opened in September 1913. By 1914 it made 40 **tonnes** a day — one reaction **magnified** twenty thousandfold. **Fertiliser** lifted **harvests** across Europe, and famine forecasts went quiet. Then a naval **blockade** **severed** Chilean supply; ammonia became **nitric** acid and the same **reactors** fed **explosives** and **munitions**.
 
 Ammonia is **indispensable**, and making it **consumes** one or two per cent of world energy, drawing **hydrogen** from **fossil** fuels and pushing **emissions** **upstream**. **Renewable** electricity can **substitute** for those fuels, and better **efficiency** can curb the **excess**: half of all applied nitrogen never reaches a crop. The chemistry has hardly changed; the plant must be invented a third time.
 
@@ -28,11 +28,11 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 
 空气里五**分之**四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。
 
-1909年7月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约两百个**大气压**(atmospheres)、五百度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨125毫升。
+1909年7月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约200 个**大气压**(atmospheres)、500 度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨125毫升。
 
-工厂是另一回事。热氢钻进**钢**(steel)里，把其中的**碳**(carbon)夺走，**容器**(vessels)因此变脆。博施的答案是一根双层**壁**(walled)管：内**衬**(liner)在氢**削弱**(weakened)承压外壳之前就把它放掉。锇对商业化来说太稀有；阿尔文·米塔施把2500种**催化剂**(catalysts)**筛**(sifted)过6500轮，最后选中瑞典磁铁矿——其中微量的**钾**(potassium)与**铝土**(alumina)让便宜的铁也管用。
+工厂是另一回事。热氢钻进**钢**(steel)里，把其中的**碳**(carbon)夺走，**容器**(vessels)因此变脆。博施的答案是一根双层**壁**(walled)管：内**衬**(liner)在氢**削弱**(weakened)承压外壳之前就把它放掉。锇对商业化来说太稀有；阿尔文·米塔施把2500种**试剂**(agents)**筛**(sifted)过6500轮，最后选中瑞典磁铁矿——其中微量的**钾**(potassium)与**铝土**(alumina)让便宜的铁也管用。
 
-1913年9月，奥保工厂开工。到1914年，它每天产氨四十**吨**(tonnes)：同一个反应，**放大**(magnified)了两万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
+1913年9月，奥保工厂开工。到1914年，它每天产氨 40 **吨**(tonnes)：同一个反应，**放大**(magnified)了两万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
 
 如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那些化石燃料，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。
 
@@ -44,7 +44,7 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 
 **§2**（10词）apparatus 装置｜circulated 循环｜catalyst 催化剂｜atmospheres 大气压；气氛｜favoured 有利于｜ammonia 氨｜hastened 加快；促进｜equilibrium 平衡｜yield 产率；产出｜recycled 回收
 
-**§3**（10词）steel 钢｜carbon 碳｜vessels 容器｜walled 有壁的｜liner 内衬｜weakened 削弱｜sifted 筛选｜catalysts 催化剂｜potassium 钾｜alumina 铝土；氧化铝
+**§3**（10词）steel 钢｜carbon 碳｜vessels 容器｜walled 有壁的｜liner 内衬｜weakened 削弱｜sifted 筛选｜agents 试剂｜potassium 钾｜alumina 铝土；氧化铝
 
 **§4**（10词）tonnes 吨｜magnified 放大｜fertiliser 化肥｜harvests 收成｜blockade 封锁｜severed 切断｜nitric 硝的｜reactors 反应器｜explosives 炸药｜munitions 弹药
 
