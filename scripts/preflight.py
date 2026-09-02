@@ -61,12 +61,38 @@ if m:
 # **★ 但要写明这条闸的限度**：合规分衡量的是**待核条数**（每条扣 3 分），
 #   **不是文章好坏**。修它的正确做法是**逐条判「该修还是该保留」**，
 #   而不是为消掉报出去改坏句子——**后者正是这条闸要防的那个病本身。**
+# ★★ 闸口须认「已写进 facts 的保留判断」，否则它会永远红下去——
+#   **而永远红的闸等于没有闸。**（2026-09-01 第49篇之后补）
+#   **但豁免必须留痕、可审**：只有在该篇 facts 里同时写了
+#   「⚠」「判为保留」与那条规则的编号，才算数。
+#   **口头说「判为保留」不作数，必须写进仓库。**
+#   现有三篇五条：第19篇 STR-03、第49篇 ANC-02/BAL-02、第51篇 BAL-02b/FIT-02。
+_KEEP = {}
+try:
+    _kjs = ("globalThis.window=globalThis;"
+            + "".join("require(%s);" % json.dumps(os.path.join(ROOT, "data", _f))
+                      for _f in sorted(os.listdir(os.path.join(ROOT, "data")))
+                      if _f.endswith(".js"))
+            + "process.stdout.write(JSON.stringify(globalThis.SITE.ARTICLES))")
+    for _a in json.loads(subprocess.run(["node", "-e", _kjs], cwd=ROOT,
+                                        capture_output=True, text=True).stdout):
+        _f = " ".join(_a.get("facts") or [])
+        if "⚠" in _f and "判为保留" in _f:
+            _KEEP[_a["id"]] = set(re.findall(r"\b([A-Z]{2,4}-\d{2}[a-z]?)\b", _f))
+except Exception:
+    pass
+
 _SCORE_FLOOR = 95
 _low = []
 for _ln in insp.splitlines():
     _mm = re.match(r"\s*(\d\d) · .*合规分 (\d+)/100", _ln)
     if _mm and int(_mm.group(2)) < _SCORE_FLOOR:
-        _low.append((_mm.group(1), int(_mm.group(2))))
+        _aid = _mm.group(1)
+        if _KEEP.get(_aid):
+            print("  · 第%s篇 %d 分 —— facts 里已写明保留判断（%s），豁免"
+                  % (_aid, int(_mm.group(2)), "、".join(sorted(_KEEP[_aid]))))
+            continue
+        _low.append((_aid, int(_mm.group(2))))
 if _low:
     print("✗ 合规分门槛（每篇须 ≥ %d）" % _SCORE_FLOOR)
     print("    %d 篇未达标：%s" % (len(_low),
