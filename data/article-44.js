@@ -17,8 +17,8 @@
           "zh": "坏血病在十周里**击倒**(stricken)了「索尔兹伯里号」350人中的八十人。1747年5月20日，詹姆斯·林德把十二名**病弱者**(ailing)分成六对，每对给一种不同的疗法：**苹果酒**(cider)、矾油、**醋**(vinegar)、**海水**(seawater)、一剂**大蒜**(garlic)加**芥末**(mustard)的糊、以及两个橙配一个**柠檬**(lemon)。只有吃**柑橘**(citrus)那一对**好转**(mended)了。"
         },
         {
-          "en": "Lind printed his **treatise** in 1753. The Admiralty did nothing for 42 years: **citron** was too **dear**. Gilbert Blane won the order in 1795: three quarters of an **ounce** of lemon **juice** per **sailor** a day. **Gums** stopped **bleeding**, **bruises** began to **heal**, and scurvy left the fleet.",
-          "zh": "林德1753年印出他的**论著**(treatise)。海军部四十二年不动：**枸橼**(citron)太**贵**(dear)。吉尔伯特·布莱恩1795年争到了那道命令：每名**水兵**(sailor)每天四分之三**盎司**(ounce)柠檬**汁**(juice)。**牙龈**(Gums)不再**出血**(bleeding)，**瘀伤**(bruises)开始**愈合**(heal)，坏血病离开了舰队。"
+          "en": "Lind printed his **treatise** in 1753. The Admiralty did nothing for 42 years: **lemons** were too **dear**. Gilbert Blane won the order in 1795: three quarters of an **ounce** of lemon **juice** per **sailor** a day. **Gums** stopped **bleeding**, **bruises** began to **heal**, and scurvy left the fleet.",
+          "zh": "林德1753年印出他的**论著**(treatise)。海军部四十二年不动：**柠檬**(lemons)太**贵**(dear)。吉尔伯特·布莱恩1795年争到了那道命令：每名**水兵**(sailor)每天四分之三**盎司**(ounce)柠檬**汁**(juice)。**牙龈**(Gums)不再**出血**(bleeding)，**瘀伤**(bruises)开始**愈合**(heal)，坏血病离开了舰队。"
         },
         {
           "en": "Then it came back. From the 1860s the Navy **swapped** Mediterranean lemons for **limes** from its own Caribbean **colonies** — cheaper, and **imperial**. A **lime** holds a fraction of a lemon's **ascorbic** **potency**. The juice was **diluted**, boiled and kept in copper casks, which **wrecks** what survives. Polar parties of the **eighteen-seventies** carried it and **rotted**.",
@@ -39,7 +39,8 @@
         "**★ 已核 · 本篇的反转（解药被削弱）**：**海军后以自家加勒比殖民地所产青柠取代地中海柠檬**（「Limes replaced lemons because limes were more readily available from Britain's own Caribbean colonies」）；**青柠的维生素C含量远低于柠檬**，**加之保存方式不当（熬煮、铜制管道与容器）进一步破坏维生素C**，**导致 19 世纪坏血病复发**（「The British Royal Navy's shift from lemons to West Indian limes, combined with poor preservation methods that destroyed vitamin C, led to a resurgence of scurvy in the 19th century」）。**「limey」一词即源自这一配给。**",
         "**已核 · 维生素C的命名**：**该活性物质直到 1932 年才被分离并定名为维生素C／抗坏血酸**。在此之前，**无人能据成分判断青柠与柠檬之别**——这正是本篇论点的机制所在。",
         "**⚠ 两处已标注的取舍**：①正文写「1860年代起换青柠」——来源多作「19世纪」「后来」，**1860年代为常见系年，本文以「From the 1860s」表述，不写具体年份**；②正文写「1850年代美国水兵以此称呼英国人」——**limey 一词的确切起源年代有异说**，常见系年为 19 世纪中叶，**本文取 1850s 并以「in the 1850s」表述**。③「1870年代极地队伍带着它照样烂掉」——指 1875—76 英国北极远征队仍暴发坏血病，**本文以「Polar parties of the eighteen-seventies」概称，不指名某次远征。**",
-        "**本篇的机制边界**：这不是「海军愚蠢」的故事。**换青柠在当时是合理的**——更便宜、更易得、同属柑橘、同样是酸的，**而「酸」正是当时公认的有效成分**。**本文的论点在于：一味解药若只被当作配方而无机理，任何替换看上去都等价。****分不开的两样东西，就是可互换的**——直到有人能说出该称量什么为止。**这也解释了为什么 42 年的耽搁不是故事的重点**：真正致命的不是没用它，是用了却守不住。"
+        "**本篇的机制边界**：这不是「海军愚蠢」的故事。**换青柠在当时是合理的**——更便宜、更易得、同属柑橘、同样是酸的，**而「酸」正是当时公认的有效成分**。**本文的论点在于：一味解药若只被当作配方而无机理，任何替换看上去都等价。****分不开的两样东西，就是可互换的**——直到有人能说出该称量什么为止。**这也解释了为什么 42 年的耽搁不是故事的重点**：真正致命的不是没用它，是用了却守不住。",
+        "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——★ 这一处是事实错误：林德试验用的是柠檬与橙，citron（枸橼）是另一种果（原为 lemons，与 §1 的 lemon 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**"
       ],
       "metrics": {
         "words": 270,
@@ -103,8 +104,8 @@
           "p": 2
         },
         {
-          "w": "citron",
-          "zh": "枸橼；香橼",
+          "w": "lemons",
+          "zh": "柠檬（复）",
           "p": 2
         },
         {

@@ -2,7 +2,7 @@
 
 > 题材：1869—1893 年威斯汀豪斯、自动空气制动与失效安全逻辑
 > 状态：**第十五篇最终精进锁定稿**（2026-08-15）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 让列车安全的，从来不是那根管子永不断。而是把它弄断，正是你让车停下的方式。
 
 ---
@@ -17,7 +17,7 @@ His 1872 and 1873 patents **inverted** it. Each **carriage** carried its own **r
 
 Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a 50-car **rake** took a 20-second **lag** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals led the early **trials**; Westinghouse **judged** their wiring too **frail**, and won the last.
 
-Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you did the **checking**.
+Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.
 
 ---
 
@@ -34,7 +34,7 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 
 能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列 50 节的**编组**(rake)要 20 秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。
 
-造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是**制动**(checking)得以发生的方式。
+造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。
 
 ---
 
@@ -48,7 +48,7 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 
 **§4**（10词）rake 编组；一列车｜lag 滞后｜brakes 闸；制动器｜pared 削｜quick 快速的｜redesign 改型｜triggered 触发｜trials 试验｜judged 判定｜frail 脆弱的
 
-**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜pressing 推动；施压｜ordinance 法令｜statute 法条｜mandated 规定｜capability 能力｜brand 品牌｜parted 断开；分离｜checking 制动；核对
+**§5**（10词）reformer 改革者｜zealot 偏执狂；狂热者｜pressing 推动；施压｜ordinance 法令｜statute 法条｜mandated 规定｜capability 能力｜brand 品牌｜parted 断开；分离｜stopped 停下
 
 ---
 
@@ -65,3 +65,4 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 - **已核（2026-08-20 极限轮）· §4 结局与因果均已订正**：原文作「Electrically triggered rivals **won the trials**, but he judged their wiring too frail for freight」——**把结局说反了**。
 **实况**：伯灵顿试验分数轮。电动（电气触发）方案在 **1886 年头几轮领先**；威斯汀豪斯因此造出**速动三通阀**（1887 年），**在 1887—1888 年的竞标试验中，其方案优越到被定为通用标准**（Buffalo History Gazette：During competitive trials in 1887-1888, the Westinghouse design proved so superior that it was made the universal standard）。
 **原文的因果次序也是反的**：写成「他先把 20 秒削到 2.5 秒、然后对手赢了」；**真实次序是对手先领先，逼他做出速动阀，他才赢下最后一轮**。已改为 led the early trials … and won the last。另核实无误：1869 年首项专利、1872／1873 年三通阀、1887年11月4日伊利铁路 50 节货车试验、洛伦佐·科芬与爱荷华 1890 年立法、1893 年《铁路安全设备法》。[Buffalo History Gazette：Westinghouse Air Brake](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)｜[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)
+- **⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——「how you did the checking」不是英文说法（原为 how you stopped，与 §1 的 stopping 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**

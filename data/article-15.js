@@ -12,9 +12,9 @@
       "date": "2026-08-15",
       "status": "第十五篇最终精进锁定稿",
       "metrics": {
-        "words": 271,
+        "words": 269,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.6
       },
       "paras": [
         {
@@ -34,8 +34,8 @@
           "zh": "能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列 50 节的**编组**(rake)要 20 秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。"
         },
         {
-          "en": "Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you did the **checking**.",
-          "zh": "造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是**制动**(checking)得以发生的方式。"
+          "en": "Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.",
+          "zh": "造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。"
         }
       ],
       "glossary": [
@@ -285,8 +285,8 @@
           "p": 5
         },
         {
-          "w": "checking",
-          "zh": "制动；核对",
+          "w": "stopped",
+          "zh": "停下",
           "p": 5
         }
       ],
@@ -297,7 +297,8 @@
         "**1886—1887年伯灵顿试验**（由车辆制造师协会组织）：五十节列车最初需约二十秒才使最后一节上闸，威斯汀豪斯将其缩短至六秒，1887年底以「快动作」制动进一步降至约两秒半。试验中电控方案表现更优，但他认为当时的电气接线难以承受货运工况。[Invention & Technology：St. George Westinghouse](https://www.inventionandtech.com/node/85909)｜[Buffalo History Gazette](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)",
         "**爱荷华改革者洛伦佐·科芬**在1880年代持续推动立法，一度被讥为偏执之人；爱荷华州1890年立法，美国国会1893年通过《铁路安全设备法》。[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)｜[American-Rails：Westinghouse Air Brake](https://www.american-rails.com/westinghouse.html)",
         "该法要求的是「动力制动」这一能力，而非指定某一厂商产品；本文据此收束于失效安全原理：安全不来自管路永不破损，而来自破损本身即为制动指令。　**已核**：1886—87年伯灵顿试验用五十节货车；西屋把最后一节制动的启动时间由二十秒缩到六秒，其后的快动式改型进一步缩到约两秒半，时速二十英里下制动距离二百英尺。科芬被许多人斥为怪人（crank／gadfly），仍促成艾奥瓦1890年立法、国会1893年通过《安全设备法》。[Invention & Technology：「St. George」Westinghouse](https://www.inventionandtech.com/node/85909)｜[American Heritage：Lorenzo Coffin](https://www.americanheritage.com/lorenzo-coffin)",
-        "**已核（2026-08-20 极限轮）· §4 结局与因果均已订正**：原文作「Electrically triggered rivals **won the trials**, but he judged their wiring too frail for freight」——**把结局说反了**。\n**实况**：伯灵顿试验分数轮。电动（电气触发）方案在 **1886 年头几轮领先**；威斯汀豪斯因此造出**速动三通阀**（1887 年），**在 1887—1888 年的竞标试验中，其方案优越到被定为通用标准**（Buffalo History Gazette：During competitive trials in 1887-1888, the Westinghouse design proved so superior that it was made the universal standard）。\n**原文的因果次序也是反的**：写成「他先把 20 秒削到 2.5 秒、然后对手赢了」；**真实次序是对手先领先，逼他做出速动阀，他才赢下最后一轮**。已改为 led the early trials … and won the last。另核实无误：1869 年首项专利、1872／1873 年三通阀、1887年11月4日伊利铁路 50 节货车试验、洛伦佐·科芬与爱荷华 1890 年立法、1893 年《铁路安全设备法》。[Buffalo History Gazette：Westinghouse Air Brake](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)｜[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)"
+        "**已核（2026-08-20 极限轮）· §4 结局与因果均已订正**：原文作「Electrically triggered rivals **won the trials**, but he judged their wiring too frail for freight」——**把结局说反了**。\n**实况**：伯灵顿试验分数轮。电动（电气触发）方案在 **1886 年头几轮领先**；威斯汀豪斯因此造出**速动三通阀**（1887 年），**在 1887—1888 年的竞标试验中，其方案优越到被定为通用标准**（Buffalo History Gazette：During competitive trials in 1887-1888, the Westinghouse design proved so superior that it was made the universal standard）。\n**原文的因果次序也是反的**：写成「他先把 20 秒削到 2.5 秒、然后对手赢了」；**真实次序是对手先领先，逼他做出速动阀，他才赢下最后一轮**。已改为 led the early trials … and won the last。另核实无误：1869 年首项专利、1872／1873 年三通阀、1887年11月4日伊利铁路 50 节货车试验、洛伦佐·科芬与爱荷华 1890 年立法、1893 年《铁路安全设备法》。[Buffalo History Gazette：Westinghouse Air Brake](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)｜[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)",
+        "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——「how you did the checking」不是英文说法（原为 how you stopped，与 §1 的 stopping 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**"
       ]
     }
   ]);
