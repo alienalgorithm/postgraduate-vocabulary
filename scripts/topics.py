@@ -95,6 +95,7 @@ TOPICS = [
     ("符木", "1834 年国会烧掉了，因为财政部在炉子里烧六百年的符木", "tally notch stock foil hazel exchequer furnace stove clerk cartload", False),
     ("燧石打火", "火柴之前，生火是一门要练的手艺", "tinderbox flint steel char-cloth spark tinder striker touchwood spill bellows", False),
     ("醋", "醋不是坏了的酒，是故意做的", "vinegar mother cask acetic cider malt pickling barrel sourness brewer", False),
+    ("蜜蜂", "蜜蜂 1622 年坐船到美洲，「白人的苍蝇」；今天住在卡车上——可用 43，四批到 46 为止，存档", "hive swarm honeycomb nectar pollination almond colonist flatbed pallet bee-line", True),
 ]
 
 
