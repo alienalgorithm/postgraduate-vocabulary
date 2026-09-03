@@ -2,7 +2,7 @@
 
 > 题材：1869—1893 年威斯汀豪斯、自动空气制动与失效安全逻辑
 > 状态：**第十五篇最终精进锁定稿**（2026-08-15）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 让列车安全的，从来不是那根管子永不断。而是把它弄断，正是你让车停下的方式。
 
 ---
@@ -11,7 +11,7 @@
 
 Before compressed air, **stopping** a **freight** train meant men on the **roofs**. At the **whistle** a **brakeman** ran the **catwalks**, **cranking** one hand **wheel** after another. Rain and ice slowed it; a train could not exceed about eleven **wagons**; the work **maimed** or killed thousands a year.
 
-George Westinghouse patented a **remedy** in 1869. An engine-driven **bellows** charged one **pipe** running the length of the train; admitting air drove a **piston** and **lever** that pressed a **shoe** against each tyre. One man now applied every brake. But the arrangement leaned on a live **column**: if a **hose** **burst** or **couplings** parted, the cars beyond ran free.
+George Westinghouse patented a **remedy** in 1869. A **steam-driven** air pump charged one **pipe** running the length of the train; admitting air drove a **piston** and **lever** that pressed a **shoe** against each tyre. One man now applied every brake. But the arrangement leaned on a live **column**: if a **hose** **burst** or **couplings** parted, the cars beyond ran free.
 
 His 1872 and 1873 patents **inverted** it. Each **carriage** carried its own **reservoir**, kept **charged** by the pipe. A **sudden** **collapse** of pipe pressure **tripped** a **triple** **valve**, releasing the stored air into that car's own **cylinder**. Restoring pressure released the brake and refilled the tank.
 
@@ -28,7 +28,7 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 
 在压缩空气之前，要让一列**货**(freight)运列车**停**(stopping)下来，靠的是人爬上**车顶**(roofs)。**汽笛**(whistle)一响，**制动员**(brakeman)就沿着**走板**(catwalks)跑，一个接一个地**摇动**(cranking)一个个手**闸轮**(wheel)。雨雪会让这活更慢；一列车挂不过约十一节**车厢**(wagons)；而这份工每年**致残**(maimed)或夺走数以千计的性命。
 
-1869年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上的**气泵**(bellows)给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那一**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。
+1869年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上**蒸汽驱动的**(steam-driven)气泵给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那一**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。
 
 他1872与1873年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(carriage)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤然**(sudden)**垮掉**(collapse)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。
 
@@ -42,7 +42,7 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 
 **§1**（10词）stopping 使停下｜freight 货运｜roofs 车顶｜whistle 汽笛｜brakeman 制动员｜catwalks 走板；狭窄通道｜cranking 摇动（曲柄）｜wheel 轮｜wagons 车厢｜maimed 致残
 
-**§2**（10词）remedy 对策；补救｜bellows 气泵；风箱｜pipe 管｜piston 活塞｜lever 杠杆｜shoe 闸瓦｜column 气柱；柱｜hose 软管｜burst 爆裂｜couplings 挂钩；联轴
+**§2**（10词）remedy 对策；补救｜steam-driven 蒸汽驱动的｜pipe 管｜piston 活塞｜lever 杠杆｜shoe 闸瓦｜column 气柱；柱｜hose 软管｜burst 爆裂｜couplings 挂钩；联轴
 
 **§3**（10词）inverted 倒转｜carriage 车厢｜reservoir 风缸；蓄水池｜charged 充满的｜sudden 骤然的｜collapse 垮掉；崩溃｜tripped 触发｜triple 三通的；三重的｜valve 阀｜cylinder 缸
 
@@ -66,3 +66,4 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 **实况**：伯灵顿试验分数轮。电动（电气触发）方案在 **1886 年头几轮领先**；威斯汀豪斯因此造出**速动三通阀**（1887 年），**在 1887—1888 年的竞标试验中，其方案优越到被定为通用标准**（Buffalo History Gazette：During competitive trials in 1887-1888, the Westinghouse design proved so superior that it was made the universal standard）。
 **原文的因果次序也是反的**：写成「他先把 20 秒削到 2.5 秒、然后对手赢了」；**真实次序是对手先领先，逼他做出速动阀，他才赢下最后一轮**。已改为 led the early trials … and won the last。另核实无误：1869 年首项专利、1872／1873 年三通阀、1887年11月4日伊利铁路 50 节货车试验、洛伦佐·科芬与爱荷华 1890 年立法、1893 年《铁路安全设备法》。[Buffalo History Gazette：Westinghouse Air Brake](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)｜[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)
 - **⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——「how you did the checking」不是英文说法（原为 how you stopped，与 §1 的 stopping 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**
+- **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「An engine-driven bellows」——空气制动的气源是蒸汽驱动的空气泵，bellows 是风箱，压不出制动用的气压。中文侧本已译作「气泵」，是英文用错了词。pump 撞第01篇、compressor 撞第16篇，已改为 steam-driven air pump（pump 不占名额，steam-driven 占）。**
