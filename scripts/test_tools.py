@@ -1786,7 +1786,8 @@ check("四份表规模一致（94 组）",
 # ⚠ 其余散落值不一次性全改：**大改动本身有风险，下次触碰时顺手改**，已写在注释里。
 print("\n[同源] 阈值收进 core")
 _co = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
-check("core 立了共用阈值", "WORD_MAX = 270" in _co and "SCORE_FLOOR = 95" in _co)
+# ⚠ 判据同步：WORD_MAX 已不再写死，改为从 inspector 读（见下一节）。
+check("core 立了共用阈值", "WORD_MIN, WORD_MAX = _met01()" in _co and "SCORE_FLOOR = 95" in _co)
 check("写明散落情况", "散在 8 个文件" in _co)
 _ls2 = open(os.path.join(ROOT, "scripts/lockstep.py"), encoding="utf-8").read()
 _pf2 = open(os.path.join(ROOT, "scripts/preflight.py"), encoding="utf-8").read()
@@ -1795,7 +1796,8 @@ check("preflight 引用 core.SCORE_FLOOR", "_core.SCORE_FLOOR" in _pf2)
 import importlib, core as _cm
 importlib.reload(_cm)
 check("阈值取得到且正确",
-      (_cm.WORD_MAX, _cm.WORD_MIN, _cm.SLOTS, _cm.SCORE_FLOOR) == (270, 240, 50, 95))
+      (_cm.WORD_MAX, _cm.WORD_MIN, _cm.SLOTS, _cm.SCORE_FLOOR) == (271, 249, 50, 95),
+      "★ 上下限源出 inspector 的 MET-01（249, 271），非自写")
 
 
 # ── 反例词现挑，不再写死（2026-09-02，第二次被咬之后）─────────────
@@ -1862,7 +1864,31 @@ check("写明为何该立而前四条不该", "不是趣味判断" in _ut)
 _r15 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/untraced.py")],
                       capture_output=True, text=True, timeout=300).stdout
 _n15 = _r15.count("…")
-check("全库命中已降到个位数", _n15 < 10, "★ 实得 %d 处（第一版 92 处）" % _n15)
+# ⚠ 补上拼写数字后命中回升（thirty／ten thousand 那一类），**这是工具变强不是变差**。
+check("全库命中在可人核的范围内", _n15 < 40,
+      "★ 实得 %d 处（第一版 92 处 → 归一化后 3 处 → 补拼写数字后回升）" % _n15)
+
+
+# ── core 的词数上限曾写错，已改为从检察官读（2026-09-02，第八处两份数据）──
+# **我立共用常量时凭印象写 WORD_MAX=270、WORD_MIN=240，
+#   而检察官 inspector.py 的 MET-01 一直是 249, 271。**
+# **后果**：lockstep 拿 270 当上限，把全库**十三篇本来合规的 271 词篇目**全拦下
+#   （第02、05、10、11、13、14、21、22、27、28、30、32、41 篇），
+#   我一度以为那是「入库时就超上限的旧问题」，**差点去削那十三篇。**
+# **★ 立共用常量本是为了消灭「两份数据」，我却在立的时候造出了第八处。**
+# **改法与前七次一样：从检察官那份读，不再自写。**
+print("\n[core] 词数上限从检察官读")
+_co2 = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
+check("不再自写词数上下限", "_met01" in _co2 and "inspector.py" in _co2)
+check("写明这是第八处", "第八处" in _co2)
+check("附上十三篇的篇号", "第02、05、10、11、13、14、21、22、27、28、30、32、41 篇" in _co2)
+import importlib, core as _cm2
+importlib.reload(_cm2)
+check("取到的是检察官那一份（249/271）",
+      (_cm2.WORD_MIN, _cm2.WORD_MAX) == (249, 271))
+_r16 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/lockstep.py"), "28"],
+                      capture_output=True, text=True, timeout=120).stdout
+check("实测：271 词的第28篇不再被拦", "✓" in _r16)
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")

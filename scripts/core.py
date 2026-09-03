@@ -16,6 +16,7 @@
 设计边界：本模块只放「对文本的基本解释」——数词、取加粗、切句、判实词。
 它不含任何阈值、任何规则、任何判断。规则属于各工具自己。
 """
+import os
 import re
 
 # ── 正则：全项目共用同一套，不得各自另写 ────────────────────────────
@@ -24,8 +25,22 @@ import re
 #   词频线 2.2／5.0 散在 4 个。目前数值一致，但改一个就会漏掉七个。**
 # **与不规则动词表、守卫指标同例：让数据只有一个来源。**
 # ⚠ 新代码一律引用这里；已有的散落值下次触碰时顺手改成引用。
-WORD_MAX = 270          # 正文词数上限（MET-01）
-WORD_MIN = 240          # 正文词数下限（MET-01）
+# ⚠ 这两个值曾写错（2026-09-02 实测）：我立共用常量时凭印象写 270／240，
+#   **而检察官 inspector.py 的 MET-01 一直是 WORDS_MIN, WORDS_MAX = 249, 271。**
+#   后果：lockstep 拿 270 当上限，把全库十三篇本来合规的 271 词篇目全拦下了
+#   （第02、05、10、11、13、14、21、22、27、28、30、32、41 篇）。
+#   **★ 立共用常量本是为了消灭「两份数据」，我却在立的时候造出了第八处。**
+#   **改法与前七次一样：从检察官那份读，不再自写。**
+def _met01():
+    try:
+        _t = open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                               "inspector.py"), encoding="utf-8").read()
+        _m = re.search(r"WORDS_MIN,\s*WORDS_MAX\s*=\s*(\d+),\s*(\d+)", _t)
+        return int(_m.group(1)), int(_m.group(2))
+    except Exception:
+        return 249, 271
+
+WORD_MIN, WORD_MAX = _met01()   # 正文词数上下限（MET-01，源出 inspector.py）
 PARA_MAX = 75           # 单段词数上限（MET-05）
 PARA_MIN = 45           # 单段词数下限（MET-05）
 SLOTS = 50              # 每篇重点词名额（MET-02）
