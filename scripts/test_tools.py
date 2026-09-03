@@ -2082,6 +2082,19 @@ _r21 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/samesource.py
                       capture_output=True, text=True, timeout=180)
 check("★ 哨兵全库零违例", _r21.returncode == 0)
 
+
+# ── domains.py：选题前先扫域（2026-09-03 立）─────────────────────────
+# 第62篇之前三个题材连着薄，每次都是先选题再探词再发现不行。
+# 改为一次扫四十五个域，按还剩多少词排。**判据与闸门一同源；域空题材一定不成。**
+print("\n[domains] 选题前先扫域")
+_dm = open(os.path.join(ROOT, "scripts/domains.py"), encoding="utf-8").read()
+check("工具存在且有域表", "DOMAINS = {" in _dm and _dm.count('": "') >= 40)
+check("写明域满不等于题材成", "域满不等于题材成" in _dm)
+check("《总令》立了扫域这一步", "选题前先扫域" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
+_r22 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/domains.py"), "3"],
+                      capture_output=True, text=True, timeout=900).stdout
+check("实测：能跑并按可用率排", "%" in _r22 and "█" in _r22)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
