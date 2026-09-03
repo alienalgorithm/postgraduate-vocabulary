@@ -542,7 +542,7 @@ function validateManifest(articles, manifest) {
   if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **269词 · 50词 · 18.6%** |')) {
     errors.push('README article 18 final row is stale');
   }
-  if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **271词 · 50词 · 18.5%** |')) {
+  if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269词 · 50词 · 18.6%** |')) {
     errors.push('README article 19 final row is stale');
   }
   if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **268词 · 50词 · 18.7%** |')) {
@@ -564,7 +564,7 @@ function validateManifest(articles, manifest) {
   if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **269 / 50 / 18.6%** | **第十八篇最终精进锁定稿** |')) {
     errors.push('handoff article 18 final row is stale');
   }
-  if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **271 / 50 / 18.5%** | **第十九篇最终精进锁定稿** |')) {
+  if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269 / 50 / 18.6%** | **第十九篇最终精进锁定稿** |')) {
     errors.push('handoff article 19 final row is stale');
   }
   if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **268 / 50 / 18.7%** | **第二十篇最终精进锁定稿** |')) {
