@@ -51,7 +51,7 @@ TOPICS = [
     ("灯塔", "灯塔的灯是用油和透镜省出来的", "lighthouse lens wick lantern keeper beacon fog reef prism clockwork", False),
     ("信鸽", "鸽子送的是股价不是军情", "pigeon loft roost coop message capsule leg ring homing basket release", False),
     ("驿站马车", "驿站的快是换马不是快马", "coach postilion stage relay ostler inn yard horn whip harness", False),
-    ("石板路", "鹅卵石路是为马蹄不是为车轮", "cobble cobblestone kerb gutter hoof cartwheel rut paving setts flagstone", False),
+    ("石板路", "狄更斯的鹅卵石街是维多利亚花岗岩块，为马蹄抓地；安静路面马会摔", "cobble cobblestone kerb gutter hoof cartwheel rut paving setts flagstone", True),
     ("烟囱清扫", "1875 年法案加的只是执照与警察，禁令已三十五年", "chimney flue soot sweep brush climbing-boy scraper hearth cowl damper", True),
     ("煤气灯", "煤气灯照亮的是商店橱窗不是街道", "gaslight lamplighter mantle burner main meter retort coke tar jet", False),
     ("冰窖", "冰是从湖里锯出来运到印度的", "ice icehouse sawdust block pond saw tongs sledge insulation cargo", False),
