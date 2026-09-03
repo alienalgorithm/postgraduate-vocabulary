@@ -1,0 +1,305 @@
+(function () {
+  const SITE = (window.SITE = window.SITE || {});
+  const ARTICLES = (SITE.ARTICLES = SITE.ARTICLES || []);
+  ARTICLES.push(...[
+    {
+      "id": "60",
+      "slug": "keeps-what-a-child-can-hold",
+      "title": "It Keeps What a Child Can Hold",
+      "titleZh": "它只留下孩子拿得住的那部分",
+      "standfirst": "通说：苹果籽约翰赤脚走遍俄亥俄，撒下种子好让人有苹果吃。可苹果籽种不出同样的苹果——他种的全是酸涩的实生苗，是用来酿酒的；而在边疆法里，五十棵苹果树就是一纸地契。他去世时拥有一千二百英亩地。",
+      "topic": "苹果籽约翰：传说只留下孩子拿得住的那部分，丢掉一个申领人所需要的",
+      "date": "2026-09-03",
+      "status": "第六十篇定稿",
+      "paras": [
+        {
+          "en": "The **cartoon** of 1948 gave John Chapman a **halo**, a **songbird** and an **angel**: a **barefoot** **vagabond** crossing Ohio with a **pouch** of seed so families might eat. A **tale** for children; like every **fable** it keeps what a child can hold: the **saint**, not the trade.",
+          "zh": "1948年那部**卡通片**(cartoon)给了约翰·查普曼一圈**光环**(halo)、一只**鸣鸟**(songbird)和一位**天使**(angel)：一个**赤脚**(barefoot)的**流浪汉**(vagabond)，挎一**袋**(pouch)种子横穿俄亥俄，好让人家有苹果吃。这是讲给孩子听的**故事**(tale)；和一切**寓言**(fable)一样，它只留下孩子拿得住的那部分：**圣徒**(saint)，不是生意。"
+        },
+        {
+          "en": "The apples could not be eaten. A **bee** crosses one **blossom** with another, so a **pip** does not come true; the **seedling** is unlike its parent. A **pippin** or **russet** is a **graft**, a **scion** bound to another **stalk**. He cut none, his church holding the knife made the tree suffer; every **orchard** he set was seedling.",
+          "zh": "那些苹果是不能吃的。**蜜蜂**(bee)把这一朵**花**(blossom)与另一朵交了粉，于是一粒**籽**(pip)长不出与母树相同的东西；**实生苗**(seedling)不像它的亲本。一个**皮平**(pippin)或**赤褐**(russet)品种是**嫁接**(graft)出来的，是从一棵树上切下的**接穗**(scion)绑到另一根**茎**(stalk)上。他一刀也不切——他的教会认为刀会让树受苦——所以他种下的每一片**果园**(orchard)都是实生苗。"
+        },
+        {
+          "en": "They were for drink. **Sour** and **crab**-**tart**, the fruit went to **mash** and **barrel**: until Prohibition an American apple was likelier to end under a **bung** than in a mouth. **Fermented** to ten per cent and drawn at the **cellar** tap, it met the **thirst** where water was unsafe; frozen, **applejack**.",
+          "zh": "它们是用来酿酒的。又**酸**(sour)、又**涩**(tart)、像**山楂**(crab)，这些果子进了**醪**(mash)、进了**桶**(barrel)：禁酒令以前，美国的一只苹果更可能落在**桶塞**(bung)底下，而不是嘴里。**发酵**(fermented)到十度，从**地窖**(cellar)的龙头里放出来，它在水不能喝的地方解**渴**(thirst)；冻一冻，就成了**苹果杰克**(applejack)。"
+        },
+        {
+          "en": "The trees were a **deed**. **Frontier** law let a **claimant** prove a **homestead** by planting 50 apple trees and 20 **peach** in three years. He went ahead of settlement through **wilderness** and **prairie**, made a **clearing**, set a **nursery**, sold **saplings** to the cabin that followed. He died in 1845 owning 1,200 acres.",
+          "zh": "那些树是一纸**地契**(deed)。**边疆**(frontier)法律允许一个**申领人**(claimant)三年内种下50棵苹果树和20棵**桃**(peach)树，即可证明其**宅地**(homestead)。他走在移民前面，穿过**荒野**(wilderness)和**草原**(prairie)，开出一片**林间空地**(clearing)，设一个**苗圃**(nursery)，把**树苗**(saplings)卖给随后到来的木屋人家。1845年他去世时拥有1,200英亩地。"
+        },
+        {
+          "en": "**Temperance** won, Prohibition shut the **saloon**, agents took **axe** and **hatchet** to the orchards: a tree that would **brew** was **bootleg** **hooch**. The legend kept the **preacher** and the **hermit**, lost the nurseryman; kept the fruit, lost the drink; kept the gift, lost the deed. It keeps what a child can hold, drops what a **tramp** with a deed needs.",
+          "zh": "**禁酒运动**(Temperance)赢了，禁酒令关了**酒馆**(saloon)，执法者拎着**斧头**(axe)和**短柄斧**(hatchet)进了果园：一棵会**酿**(brew)的树就是长在枝头的**私酿**(bootleg)**烈酒**(hooch)。传说留下了**传道者**(preacher)和**隐士**(hermit)，丢掉了苗圃主；留下了果子，丢掉了酒；留下了馈赠，丢掉了地契。它留下孩子拿得住的，丢掉一个揣着地契的**流浪者**(tramp)所需要的。"
+        }
+      ],
+      "facts": [
+        "**★★ 已核 · 苹果籽种不出同样的苹果（本篇的机制）**：Pollan《植物的欲望》——**「从种子长出的苹果树会是一株野生变种，与其亲本几无相似之处。想要可食苹果的人，种的都是嫁接树。」****★ 异花授粉是根由**：苹果靠蜜蜂在不同树的花间传粉，故种子的基因组合不同于母树。**他种的果子是 spitters——小而酸涩，因「咬一口就吐」得名。**[Mel Magazine · Johnny Appleseed Wasn't Planting Apples to Eat](https://melmagazine.com/en-us/story/apple-cider-history-johnny-appleseed)｜[Mental Floss · 9 Facts](https://www.mentalfloss.com/article/62113/9-facts-tell-true-story-johnny-appleseed)",
+        "**★★★ 已核 · 它们是用来酿酒的**：Pollan 原话——**「直到禁酒令为止，美国种的一只苹果，被吃掉的可能远小于最终进入一桶苹果酒的可能。」****「在乡下，苹果酒不仅取代了葡萄酒与啤酒，也取代了咖啡、茶、果汁，甚至水。」****酒精约 10%**；当时的水常含致病菌，苹果酒是安全的饮品。**苹果杰克是把硬苹果酒冻蒸馏得到的烈酒（约 60 proof）。**[Smithsonian · The Real Johnny Appleseed Brought Apples—and Booze](https://www.smithsonianmag.com/arts-culture/real-johnny-appleseed-brought-applesand-booze-american-frontier-180953263/)",
+        "**★ 已核 · 他拒绝嫁接的原因**：**「作为瑞典堡教会的成员——该教派明令禁止嫁接（他们认为嫁接使植物受苦）——查普曼所有果园都从种子种起，这意味着他的苹果大多不宜食用。」**[Smithsonian 同上]",
+        "**★★★★ 已核 · 那些树是一纸地契（本篇的反转）**：**「为证明其宅地为永久性的，移民须在三年内种下 50 棵苹果树和 20 棵桃树」**——因为一棵苹果树平均要十年才结果。**「边疆法允许人们通过建立永久宅地来申领土地，而这可以通过种 50 棵苹果树来做到。于是查普曼在宾夕法尼亚、俄亥俄、伊利诺伊一路播种建园，待林地成形后卖给移民。」****他走在移民前面**：清地、播种、围栏，然后找当地人照看、收树苗钱、分成。**1845 年 3 月 11 日去世时，他拥有 1,200 多英亩土地**；一生走过约 10 万平方英里的荒野与草原。[Smithsonian 同上]｜[Mental Floss 同上]｜[America Comes Alive](https://americacomesalive.com/johnny-appleseed-debunked/)",
+        "**已核 · 禁酒令砍树**：**「到 1920 年代禁酒令来临时，苹果籽约翰已是传奇；但这并未阻止政府砍倒他的苹果树，以防人们私酿苹果酒。」** 另一来源作「联邦探员的斧头无情地砍倒果园」。**⚠ 正文写「禁酒运动赢了，禁酒令关了酒馆，执法者进了果园」**——**temperance（运动）与 Prohibition（法令）分开写**：砍树的是禁酒令时期的执法者，不是运动本身。[Plant Me Green](https://plantmegreen.com/blogs/news/fact-from-fiction-johnny-appleseed-and-his-apple-trees)",
+        "**已核 · 1948 年那部卡通片**：**「我们之所以把苹果籍约翰想成一个赤脚流浪者、果子是整齐的红球，很大程度上要归功于 1948 年迪士尼《旋律时光》里的那一段——把他画成灰姑娘式的人物，身边围着蓝色鸣鸟和一位快活的守护天使。」****他确是瑞典堡派的传道者**，随身带着圣经，「对所有人都传道」。[Smithsonian 同上]",
+        "**⚠ 三处表述取舍**：①「皮平或赤褐品种是嫁接出来的」——pippin／russet 为传统命名品种，**凡命名品种皆须嫁接才能保持**，此为通例而非某一来源的原话；②「十度」取自来源的「约 10% 酒精」；③**末段那三组「留下／丢掉」是本文的推论表述**，其事实基础是上述各条，而非某一来源的原话。",
+        "**本篇的机制边界**：这不是「苹果籍约翰是骗子」的故事。**他确实把树苗送给付不起钱的人，也确实给过现金**；他不喜欢讨价还价，很多果园的收入被当地人独占。**本文的论点在一个更窄的地方：传说保留了馈赠这一层，抹去了它同时是地契、是酒这两层——而后两层正是他之所以受欢迎的原因。**"
+      ],
+      "metrics": {
+        "words": 268,
+        "keywords": 50,
+        "density": 18.7
+      },
+      "glossary": [
+        {
+          "w": "cartoon",
+          "zh": "卡通片",
+          "p": 1
+        },
+        {
+          "w": "halo",
+          "zh": "光环",
+          "p": 1
+        },
+        {
+          "w": "songbird",
+          "zh": "鸣鸟",
+          "p": 1
+        },
+        {
+          "w": "angel",
+          "zh": "天使",
+          "p": 1
+        },
+        {
+          "w": "barefoot",
+          "zh": "赤脚的",
+          "p": 1
+        },
+        {
+          "w": "vagabond",
+          "zh": "流浪汉",
+          "p": 1
+        },
+        {
+          "w": "pouch",
+          "zh": "袋",
+          "p": 1
+        },
+        {
+          "w": "tale",
+          "zh": "故事",
+          "p": 1
+        },
+        {
+          "w": "fable",
+          "zh": "寓言",
+          "p": 1
+        },
+        {
+          "w": "saint",
+          "zh": "圣徒",
+          "p": 1
+        },
+        {
+          "w": "bee",
+          "zh": "蜜蜂",
+          "p": 2
+        },
+        {
+          "w": "blossom",
+          "zh": "花",
+          "p": 2
+        },
+        {
+          "w": "pip",
+          "zh": "籽",
+          "p": 2
+        },
+        {
+          "w": "seedling",
+          "zh": "实生苗",
+          "p": 2
+        },
+        {
+          "w": "pippin",
+          "zh": "皮平苹果",
+          "p": 2
+        },
+        {
+          "w": "russet",
+          "zh": "赤褐苹果",
+          "p": 2
+        },
+        {
+          "w": "graft",
+          "zh": "嫁接",
+          "p": 2
+        },
+        {
+          "w": "scion",
+          "zh": "接穗",
+          "p": 2
+        },
+        {
+          "w": "stalk",
+          "zh": "茎",
+          "p": 2
+        },
+        {
+          "w": "orchard",
+          "zh": "果园",
+          "p": 2
+        },
+        {
+          "w": "sour",
+          "zh": "酸的",
+          "p": 3
+        },
+        {
+          "w": "crab",
+          "zh": "山楂；野苹果",
+          "p": 3
+        },
+        {
+          "w": "tart",
+          "zh": "涩的",
+          "p": 3
+        },
+        {
+          "w": "mash",
+          "zh": "醪",
+          "p": 3
+        },
+        {
+          "w": "barrel",
+          "zh": "桶",
+          "p": 3
+        },
+        {
+          "w": "bung",
+          "zh": "桶塞",
+          "p": 3
+        },
+        {
+          "w": "fermented",
+          "zh": "发酵的",
+          "p": 3
+        },
+        {
+          "w": "cellar",
+          "zh": "地窖",
+          "p": 3
+        },
+        {
+          "w": "thirst",
+          "zh": "渴",
+          "p": 3
+        },
+        {
+          "w": "applejack",
+          "zh": "苹果杰克",
+          "p": 3
+        },
+        {
+          "w": "deed",
+          "zh": "地契",
+          "p": 4
+        },
+        {
+          "w": "frontier",
+          "zh": "边疆",
+          "p": 4
+        },
+        {
+          "w": "claimant",
+          "zh": "申领人",
+          "p": 4
+        },
+        {
+          "w": "homestead",
+          "zh": "宅地",
+          "p": 4
+        },
+        {
+          "w": "peach",
+          "zh": "桃",
+          "p": 4
+        },
+        {
+          "w": "wilderness",
+          "zh": "荒野",
+          "p": 4
+        },
+        {
+          "w": "prairie",
+          "zh": "草原",
+          "p": 4
+        },
+        {
+          "w": "clearing",
+          "zh": "林间空地",
+          "p": 4
+        },
+        {
+          "w": "nursery",
+          "zh": "苗圃",
+          "p": 4
+        },
+        {
+          "w": "saplings",
+          "zh": "树苗（复）",
+          "p": 4
+        },
+        {
+          "w": "temperance",
+          "zh": "禁酒运动",
+          "p": 5
+        },
+        {
+          "w": "saloon",
+          "zh": "酒馆",
+          "p": 5
+        },
+        {
+          "w": "axe",
+          "zh": "斧头",
+          "p": 5
+        },
+        {
+          "w": "hatchet",
+          "zh": "短柄斧",
+          "p": 5
+        },
+        {
+          "w": "brew",
+          "zh": "酿造",
+          "p": 5
+        },
+        {
+          "w": "bootleg",
+          "zh": "私酿的",
+          "p": 5
+        },
+        {
+          "w": "hooch",
+          "zh": "烈酒",
+          "p": 5
+        },
+        {
+          "w": "preacher",
+          "zh": "传道者",
+          "p": 5
+        },
+        {
+          "w": "hermit",
+          "zh": "隐士",
+          "p": 5
+        },
+        {
+          "w": "tramp",
+          "zh": "流浪者",
+          "p": 5
+        }
+      ]
+    }
+  ]);
+})();

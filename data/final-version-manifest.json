@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 59,
-  "keyword_count": 2950,
+  "article_count": 60,
+  "keyword_count": 3000,
   "articles": [
     {
       "id": "01",
@@ -1303,6 +1303,25 @@
       "canonical_fingerprint_sha256": "19748468e82a7e71687a97da0f2775c9409f3e88ff1b37b1078779be28f3ba01",
       "markdown_sha256": "d496621f4f1658958acb7b0a0360d386c99b8be9e4bc253634bfefcbf4d1ff13",
       "markdown_git_blob_sha": "2ad24e0b393b59e0edb9ca179a676e0d3a056726",
+      "superseded_signatures": []
+    },
+    {
+      "id": "60",
+      "slug": "keeps-what-a-child-can-hold",
+      "title": "It Keeps What a Child Can Hold",
+      "title_zh": "它只留下孩子拿得住的那部分",
+      "version_id": "60-final",
+      "status": "第六十篇定稿",
+      "date": "2026-09-03",
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-09-03。第三个题材才成——前两个（南丁格尔、泰晤士鲑鱼）闸门一都报可用词太少，我绕过一次、漏跑一次，各废十稿六稿；本篇闸门一报 27，三门俱过。写作途中六条人读第一条删掉两处编造（a keg of perry／saloon cellar 对比）；封版前人读零翻案。首次入库即 100/100",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "f52ebfdf6c97cd6a7113f0b180b5040f6d210c4cb696aecad9d3b4bd36beb255",
+      "markdown_sha256": "e2c838ff2923d8263209966abba269c51dba0169d60058dd61df0a3c1a549dff",
+      "markdown_git_blob_sha": "1661b3ea1ae72081cd8f23fec433e71aa087302e",
       "superseded_signatures": []
     }
   ]
