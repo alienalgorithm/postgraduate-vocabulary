@@ -2131,6 +2131,34 @@ _r23 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/topic.py"),
        if os.path.exists("/tmp/n76.txt") else "一·按段  §1:"
 check("实测：能按段报出", "一·按段  §1:" in _r23)
 
+
+# ── 第66篇的两条工具缺口（2026-09-03）──────────────────────────────
+# 一、vet 了 jetties（2.22）没 vet jettied（0.0），入库时 VAL-09 硬伤 → vet 顺带报屈折形词频。
+# 二、速查表「市政官（复）」与正文括注「市政官们」错位 MET-09 → core.glossary_from_paras 从中文正文抽，只有一份。
+print("\n[第66篇] 屈折形与速查表")
+_ag18 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("vet 报屈折形词频", "屈折形词频不足" in _ag18)
+_co3 = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
+check("core 有 glossary_from_paras", "def glossary_from_paras" in _co3)
+import importlib as _il
+_core = _il.import_module("core")
+_arts_g = _load_arts() if "_load_arts" in dir() else None
+if _arts_g is None:
+    import json as _j, subprocess as _sp
+    _js = "globalThis.window=globalThis;" + "".join("require(%s);" % _j.dumps(os.path.abspath(os.path.join(ROOT, "data", f)))
+        for f in sorted(os.listdir(os.path.join(ROOT, "data"))) if f.endswith(".js")) + "process.stdout.write(JSON.stringify(globalThis.SITE.ARTICLES))"
+    _arts_g = _j.loads(_sp.run(["node", "-e", _js], capture_output=True, text=True).stdout)
+_mism = []
+for _a in _arts_g:
+    if int(_a["id"]) >= 60:
+        try:
+            _g = _core.glossary_from_paras(_a["paras"])
+            if [x["zh"] for x in _g] != [x["zh"] for x in _a["glossary"]]:
+                _mism.append(_a["id"])
+        except AssertionError:
+            _mism.append(_a["id"])
+check("实测：第60篇起速查表与正文括注一致", not _mism, "不一致：%s" % _mism)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

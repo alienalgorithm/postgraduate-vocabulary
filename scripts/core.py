@@ -140,6 +140,32 @@ def numbers(t, keep_int_of_float=True):
     return out
 
 
+def glossary_from_paras(paras, extra=None):
+    """从中文正文的「**释义**(word)」括注直接生成速查表。
+
+    ★ 由来（2026-09-03）：第66篇入库时 MET-09 报硬伤——速查表写「市政官（复）」，正文括注是「市政官们」。
+    **两处是分别手写的，就会错位。** 从正文抽，就只有一份。
+    extra：正文括注抽不到时的补充（如同一英文词在两段各占一个名额时的第二个键）。
+    """
+    import re as _re
+    gl, used = [], set()
+    for pi, p in enumerate(paras, 1):
+        en_words = keywords(p["en"])
+        zh_pairs = _re.findall(r"\*\*([^*]+?)\*\*\(([^)]+)\)", p["zh"])
+        zmap = {}
+        for zh_, en_ in zh_pairs:
+            zmap.setdefault(en_.lower(), zh_)
+        for w in en_words:
+            k = w.lower()
+            zh_ = zmap.get(k) or (extra or {}).get(k)
+            assert zh_, ("中文正文没有 (%s) 的括注，速查表无从生成" % w)
+            key = k if k not in used else w
+            used.add(key)
+            gl.append({"w": key, "zh": zh_, "p": pi})
+    assert len(gl) == 50 and len({g["w"] for g in gl}) == 50, ("速查表", len(gl))
+    return gl
+
+
 def metrics(paras):
     """一篇文章的三项指标。metrics 字段必须与本函数一致。"""
     w = sum(count_words(p["en"]) for p in paras)

@@ -631,6 +631,20 @@ def vet(arts, aid, words):
         else:
             print("  ✓ %-16s 词频 %.2f　可用" % (w, f))
             ok_list.append(w)
+            # ★ 屈折形顺带报词频（2026-09-03 补）：第66篇 vet 了 jetties（2.22）没 vet jettied（0.0），
+            #   入库时检察官 VAL-09 报硬伤。**vet 放行的是一个形，正文用的是另一个形，等于没 vet。**
+            #   只报词频这一层（撞库那几层按词元算，屈折形与原形同判）。
+            _infl = []
+            _base = wl[:-1] if wl.endswith("e") else wl
+            for _suf, _form in (("-ed", _base + "ed"), ("-ing", _base + "ing"),
+                                ("-s", wl + "s" if not wl.endswith("s") else wl + "es")):
+                if _form == wl:
+                    continue
+                _zf = z(_form, "en")
+                if _zf and _zf < 2.2:
+                    _infl.append("%s(%s %.1f 生僻)" % (_form, _suf, _zf))
+            if _infl:
+                print("      ⚠ 屈折形词频不足，正文别用：%s" % "、".join(_infl))
     print()
     if ok_list:
         print("  可用：%s" % "、".join(ok_list))
