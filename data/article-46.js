@@ -25,8 +25,8 @@
           "zh": "**计时员**(timekeeper)在枪口**冒烟**(muzzle)时**摁**(trips)表，那是他必须作出反应的；而停表时他盯着一具迎面而来的**躯干**(torso)，已经**注视**(eyed)了 10 秒。他的**反应**(reflex)在一头偏晚、在另一头偏早，两者并不**抵消**(negate)，而是**堆叠**(pile)起来。每一个手计时都短了约四分之一秒——**每个短跑者都白得了一点**(unearned)**便宜**(edge)——于是当局把**换算值**(conversion)定为0.24。"
         },
         {
-          "en": "Fully automatic timing became **compulsory** on 1 January 1977. The old **feats** were not **deleted** but **relegated** to a list of their own. The 10-second **barrier**, **hailed** as broken that June, **reigned** **unbeaten** until Jim Hines **raced** 9.95 in Mexico City that October — and that mark held 14 years.",
-          "zh": "1977年1月1日起，全自动计时成为**强制**(compulsory)。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳居**(reigned)着**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出9.95。而那个成绩此后保持了 14 年。"
+          "en": "Fully automatic timing became **compulsory** on 1 January 1977. The old **feats** were not **deleted** but **relegated** to a list of their own. The 10-second **barrier**, **hailed** as broken that June, **reigned** **unbeaten** until Jim Hines **raced** 9.95 in Mexico City that October — and that mark held 15 years.",
+          "zh": "1977年1月1日起，全自动计时成为**强制**(compulsory)。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳居**(reigned)着**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出9.95。而那个成绩此后保持了 15 年。"
         },
         {
           "en": "The instrument had been **averaging** away the difference it existed to **capture**, **shaving** the same **sliver** off every man. A middle value covers one **scorer** who is wrong. It does nothing when all three **err** alike — that is not chance but a **skew**, and no amount of **repetition** will **undo** it.",
@@ -39,7 +39,8 @@
         "**★★ 已核 · 偏差的机制与 0.24**：**「自动计时随枪声即刻开始，而手计时包含人对起表的反应时间。」**手计时精度约 ±0.1—0.2 秒，**通常比现代系统快 0.1—0.2 秒**；**换算时须在手计时上加 0.24 秒后方可与电子成绩比较。****本文所述机制（起表须反应、停表可预判，两端误差同向叠加）为该换算的通行解释。**[speedendurance · Why 0.24 Seconds is Added to Hand Times](https://speedendurance.com/2014/08/20/why-0-24-seconds-is-added-to-hand-times/)｜[Grokipedia · 100m WR progression](https://grokipedia.com/page/Men's_100_metres_world_record_progression)",
         "**已核 · 制度转折**：IAAF **自 1975 年起**接受 400 米及以下项目的独立电子计时纪录；**自 1977 年 1 月 1 日起，该类项目的世界纪录必须采用精确到百分之一秒的全自动计时**。**海因斯 1968 年 10 月 14 日在墨西哥城奥运会跑出的 9.95 秒，是当时最快的全自动计时成绩，被单独认定为世界纪录。** 该纪录保持至 1983 年（十四年余）。[Wikipedia · Men's 100 m WR progression](https://en.wikipedia.org/wiki/Men's_100_metres_world_record_progression)",
         "**⚠ 两处已标注的取舍**：①正文写「保持了十四年」——**海因斯 9.95 立于 1968 年 10 月，至 1983 年被破，取整为十四年**；②墨西哥城为高原场地，**对短跑成绩有助益**，本文不据此展开，因为**本篇论点在计时方法而非成绩本身**。",
-        "**本篇的机制边界**：这不是「旧时代不严谨」的故事。**取三人中位数正是一种防错设计**——它专门用来舍掉离群的那个读数，而且确实有效。**本文的论点在于：中位数防的是「三人里有一个错」，防不了「三人朝同一个方向错」。****前者是噪声，后者是偏斜；重复取样能压掉噪声，压不掉偏斜。****而更要紧的一层是：这个偏差不只让成绩偏快，还抹平了成绩之间的差别**——三个相差 0.11 秒的人被记成同一个数，**一件用来分辨的仪器，把它本该分辨的东西平均掉了。**"
+        "**本篇的机制边界**：这不是「旧时代不严谨」的故事。**取三人中位数正是一种防错设计**——它专门用来舍掉离群的那个读数，而且确实有效。**本文的论点在于：中位数防的是「三人里有一个错」，防不了「三人朝同一个方向错」。****前者是噪声，后者是偏斜；重复取样能压掉噪声，压不掉偏斜。****而更要紧的一层是：这个偏差不只让成绩偏快，还抹平了成绩之间的差别**——三个相差 0.11 秒的人被记成同一个数，**一件用来分辨的仪器，把它本该分辨的东西平均掉了。**",
+        "**★★ 已核 · 一处事实错误已改（2026-09-02 复查，六条人读第一条）**：**原文作「那个成绩此后保持了 14 年」——实为 15 年。****世界田联讣告：「海因斯的世界纪录保持了 15 年——是全自动计时时代男子 100 米世界纪录中最长的一次——直到 1983 年被卡尔文·史密斯以 9.93 打破。」**另有《体育画报》、NBC、ESPN、阿肯色百科等**八家来源一致作 15 年**。**⚠ 这个数字此前不在 facts 里**——正是「每一个具体细节，是核过的还是现造的」这条查出来的。[World Athletics · Hines obituary](https://worldathletics.org/news/news/jim-hines-obituary)"
       ],
       "metrics": {
         "words": 270,
