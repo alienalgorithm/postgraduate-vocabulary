@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 63,
-  "keyword_count": 3150,
+  "article_count": 64,
+  "keyword_count": 3200,
   "articles": [
     {
       "id": "01",
@@ -1379,6 +1379,25 @@
       "canonical_fingerprint_sha256": "d94dab3b22a2f824e71fd9f538e9ed18120a43b3ee399b8fec179cc2e2264599",
       "markdown_sha256": "021575c62f79848dd2660c259723edc5b4208c63e8393806ce937a828dc980a2",
       "markdown_git_blob_sha": "9b9ffb3b64a9cbe46615621ed3eab57b99a16229",
+      "superseded_signatures": []
+    },
+    {
+      "id": "64",
+      "slug": "the-secret-was-the-box",
+      "title": "The Secret Was the Box",
+      "title_zh": "秘密就是那只箱子",
+      "version_id": "64-final",
+      "status": "第六十四篇定稿",
+      "date": "2026-09-03",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-03。用「先 vet 反转段十个物件」这条新顺序选的第一篇：巨象、卢德两稿在此步停下，产钳一步过（82%）。闸门一按段报 §5:0 —— 末段用后续事实填满。四稿到 270/50。封版前逐细节核（十四处有据，一处推论注明）、逐词问行家。首次入库即 100/100",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "4f65a55bc8015c3ea979aef43a7aef428fdfb671dd14638bcf7f566e74d5f07d",
+      "markdown_sha256": "6398720b75edcca843811360676c749de484beeb03bda1f996759b175d690915",
+      "markdown_git_blob_sha": "e77cb86fb10821c042ac10f2677b5fc3fe1e2143",
       "superseded_signatures": []
     }
   ]
