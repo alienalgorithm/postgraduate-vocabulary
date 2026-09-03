@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 57,
-  "keyword_count": 2850,
+  "article_count": 58,
+  "keyword_count": 2900,
   "articles": [
     {
       "id": "01",
@@ -1265,6 +1265,25 @@
       "canonical_fingerprint_sha256": "023a6af1b107f56e8a826d73ac10abd734a5d6cae2a7f22e2565c8388e4edf46",
       "markdown_sha256": "7d03ef5a3fa417a341afd0a12b39afb380f5e3cc1a5d9765c9d910df1f42d4e2",
       "markdown_git_blob_sha": "535bcd8278a94c8ba97e888b88a153fe8f1a03ee",
+      "superseded_signatures": []
+    },
+    {
+      "id": "58",
+      "slug": "each-works-by-never-being-used",
+      "title": "Willingness Was the Evidence",
+      "title_zh": "肯不肯上，本身就是证据",
+      "version_id": "58-final",
+      "status": "第五十八篇定稿",
+      "date": "2026-09-02",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-02。触止损点第二型后照《总令》重写一版更紧的（240词/44名额，一口气余出30词），补足即成。首次入库即 100/100。六条人读随后抓出三处编造（douse/smith/poker-anvil），已改",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "18b48244296808839d993ca0c435fb5ebab337b8cc9635572706db5a0f1c0566",
+      "markdown_sha256": "422b2b6f71fda38f7d89e78cbc08bcfdfc3455d9133ef2d994501182b03434c5",
+      "markdown_git_blob_sha": "e003f00455901a625df9cbd5a356fd96bafca30d",
       "superseded_signatures": []
     }
   ]
