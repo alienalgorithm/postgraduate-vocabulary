@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 66,
-  "keyword_count": 3300,
+  "article_count": 67,
+  "keyword_count": 3350,
   "articles": [
     {
       "id": "01",
@@ -1436,6 +1436,25 @@
       "canonical_fingerprint_sha256": "b180a95f2035f2922d90dcd2a13cfebb1778bb0a42558868ad90e24a8368f672",
       "markdown_sha256": "cd8650d307f99b132ebf1b055f9eb7409e045c9498ad405cedbb01e9cee5174d",
       "markdown_git_blob_sha": "93301df128b09aa6f738a7421f8ac083309d26e2",
+      "superseded_signatures": []
+    },
+    {
+      "id": "67",
+      "slug": "the-tool-with-its-lesson-cut-out",
+      "title": "The Tool With Its Lesson Cut Out",
+      "title_zh": "把课挖掉之后的教具",
+      "version_id": "67-final",
+      "status": "第六十七篇定稿",
+      "date": "2026-09-03",
+      "words": 271,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-03。玩具域 90%，十个物件 vet 53%+80%（map 在初中表、dissected/pieces 撞库，改用 borders/atlas 表达）。闸门一 28，按段 8·7·7·2·9。十四稿到 271/50。封版前两问：删一处编造（nursery-maid laid them out——来源说的是女家庭教师）。BAL-02b 两处判为保留",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "abd140c71be04ffef9813f9fda7b8448dc5eaac9fc6ca33d797b3202eda6a089",
+      "markdown_sha256": "54cd2bab61bc3d9c7c627a49aa289fd0f24940f55eb898640603264481ef4b47",
+      "markdown_git_blob_sha": "4cbde401fb4ea5e2fc542bb56843f5526d329a04",
       "superseded_signatures": []
     }
   ]
