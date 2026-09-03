@@ -25,8 +25,8 @@
           "zh": "在巴塞罗那，梅尚把纬度测了**两次**(twice)，用的是两个**测站**(stations)。这两个**值**(values)**相差**(differed)3.24角秒。他解释不了。他计算所用的公式全是从北边那位**同事**(colleague)那里**借**(borrowed)来的；在一个凭**怀疑**(suspicion)就枪毙人的**政权**(regime)之下，承认等于**身败名裂**(disgrace)。他**藏**(hid)起了这个数字，在对清算的**恐惧**(dread)中度过了余生。"
         },
         {
-          "en": "In March 1799 a commission **reduced** the survey to 443.296 lignes; a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** his **commune**; yellow **fever** took him in 1804.",
-          "zh": "1799年3月，一个委员会把测量结果**归算**(reduced)为443.296里涅，一根铂杆随之**锻**(forged)出。6月22日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己那个**辖区**(commune)；1804年，黄**热病**(fever)带走了他。"
+          "en": "In March 1799 a commission **reduced** the survey to 443.296 lignes; a platinum bar was **forged**. On 22 June the bar went to the **councils**, said to rest on nothing arbitrary, on grounds **impartial** between **nations** and **binding** on all. Méchain asked to **retrace** the **Pyrenees**; yellow **fever** took him in 1804.",
+          "zh": "1799年3月，一个委员会把测量结果**归算**(reduced)为443.296里涅，一根铂杆随之**锻**(forged)出。6月22日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己走过的**比利牛斯**(Pyrenees)；1804年，黄**热病**(fever)带走了他。"
         },
         {
           "en": "Delambre **obtained** the **notebooks**, **scribbled** in the margin that he would say nothing, and left the **manuscripts** in the **observatory**. Does it matter if it is wrong, he asked; can the metre be wrong? Yet pole to equator is 10,002,000 metres: the bar came out 0.2 millimetres under, and the mistake stayed. Every **successor** **definition**, by **krypton** then by light, was **calibrated** to **reproduce** it.",
@@ -40,7 +40,8 @@
         "**已核**：1799年3月，国际委员会将数据归算为**443.296 lignes**（并计入地球扁率），与1793年临时值相差0.114 lignes（0.32毫米）；铂原器1799年6月完成，**6月22日呈交元老院与五百人院**，宣称该单位「已排除一切武断成分，只依赖各国同等可得的资料」。[roma1.infn.it](https://www.roma1.infn.it/~dagos/history/sm/node8.html)",
         "**已核 · 结局**：梅尚请求拿破仑准其重测自己那一段，1803年离开巴黎，**1804年9月死于黄热病**。德朗布尔在其身后取得笔记本，发现那处误差，**在本子上写明不向公众披露**——「毕竟，它错了要紧吗？米又怎么会错？」他将原始手稿存入天文台档案。[Jim O'Donnell](https://www.aroundtheworldineightyyears.com/parc-montjuic-barcelona/)｜[The Measure of All Things 第12章](https://erenow.org/modern/the-measure-of-all-things-the-seven-year-odyssey/12.php)",
         "**已核 · 误差存续至今**：NIST 明载「后来发现科学家在计算地球曲率时出了错，原器因而比极点到赤道的实际距离所对应的长度**短0.2毫米**」；今测极点至赤道约10,002,000米。此后以氪-86谱线（1960）及光速（1983）重新定义米时，均以保持既有长度为前提——**误差被继承下来，因为改掉它的代价大于带着它**。[NIST：Meter](https://www.nist.gov/si-redefinition/meter)｜[Invention & Technology](https://www.inventionandtech.com/node/86245)",
-        "**已核补充**：正文 §2「1794年把拉瓦锡送上断头台」——安托万·拉瓦锡于 **1794年5月8日**被处决，而他正是法国科学院度量衡委员会成员，参与过米制筹划。此句用以说明测量在何种年代进行，非泛泛之词。[Britannica：Antoine Lavoisier](https://www.britannica.com/biography/Antoine-Lavoisier)"
+        "**已核补充**：正文 §2「1794年把拉瓦锡送上断头台」——安托万·拉瓦锡于 **1794年5月8日**被处决，而他正是法国科学院度量衡委员会成员，参与过米制筹划。此句用以说明测量在何种年代进行，非泛泛之词。[Britannica：Antoine Lavoisier](https://www.britannica.com/biography/Antoine-Lavoisier)",
+        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条）**：**原文「retrace his commune」——commune 是法国的市镇单位；梅尚要求重测的是他负责的南段弧线，即翻越比利牛斯至巴塞罗那的那一段。arc／segment／section 均撞库，已改为 retrace the Pyrenees。**"
       ],
       "metrics": {
         "words": 271,
@@ -239,8 +240,8 @@
           "p": 4
         },
         {
-          "w": "commune",
-          "zh": "辖区；公社",
+          "w": "pyrenees",
+          "zh": "比利牛斯山",
           "p": 4
         },
         {

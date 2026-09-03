@@ -17,8 +17,8 @@
           "zh": "1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信件**(correspondence)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。"
         },
         {
-          "en": "So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **signified** well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it four hundred **stages** for nothing.",
-          "zh": "于是人们绕开这笔**邮资**(postage)。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**表示**(signified)平安，画个圈是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四百个**驿程**(stages)，一文没收到。"
+          "en": "So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **signified** well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it forty **stages** for nothing.",
+          "zh": "于是人们绕开这笔**邮资**(postage)。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**表示**(signified)平安，画个圈是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四十个**驿程**(stages)，一文没收到。"
         },
         {
           "en": "Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.",
@@ -41,12 +41,13 @@
         "**已核 · 施行与结果**：统一四便士资费自1839年12月5日起，统一一便士资费自1840年1月10日起；**开办首日寄出112,000封信，为平日三倍以上**。1839年全英寄信7,600万封，1840年增至1.68—1.69亿封，十年后达3.47亿封。黑便士于1840年5月1日发行、5月6日起可用。**一处两说已标注**：《邮政条例法案》御准日期，Victorian Review 记为1839年8月17日，The Postal Museum 记为8月15日；本文不依赖该日期。[Victorian Web：The Penny Post](https://www.victorianweb.org/history/pennypos.html)｜[Victorian Review：Rowland Hill (1795-1879)](https://muse.jhu.edu/article/478580/summary)",
         "**已核 · 本篇的机制边界**：希尔的论证不是「降价能增收」，而是「**支出的构成与距离无关**」——运送近乎免费，昂贵的是为每封信计费、登记、上门收款这一整套账务。预付（先以邮资已付信封、后以邮票）取消的正是这套账务。收入确实在此后多年低于改革前水平。[Uniform Penny Post](https://en.wikipedia.org/wiki/Uniform_Penny_Post)",
         "**已核 · 正文两处数字的阿拉伯写法**：① 正文 §1「In the **1830s**」——1812年定下的伦敦至爱丁堡资费一直行用至1839年改革，故整个 1830 年代皆为十三便士；② 正文 §5「168 million」——1840年全英寄信 **168** 百万封（另有来源作 169 百万，差异源于统计口径，本文取 168）。1839年为 76 百万封。[Victorian Web：The Penny Post](https://www.victorianweb.org/history/pennypos.html)｜[The Postal Museum：Uniform penny postage](https://www.postalmuseum.org/collections/highlights/philatelic-collection/british-postal-markings/uniform-penny-postage/)",
-        "**已核 · 正文的「13 便士」**：**1839 年改革前，伦敦至爱丁堡单张信函邮资为 13 便士半**（按距离与页数计）；正文取整为 13 便士，与同段「运费只值一便士的三十六分之一」并排对读。**⚠ 具体数额随距离与年份浮动，此处为最常被引用的那一档。**"
+        "**已核 · 正文的「13 便士」**：**1839 年改革前，伦敦至爱丁堡单张信函邮资为 13 便士半**（按距离与页数计）；正文取整为 13 便士，与同段「运费只值一便士的三十六分之一」并排对读。**⚠ 具体数额随距离与年份浮动，此处为最常被引用的那一档。**",
+        "**★ 已核 · 一处数目改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「hauled it four hundred stages」——伦敦到爱丁堡约四百英里，而 stage 是驿站间的一程（约十英里），四百个驿程是四千英里。词对了，数错了单位。已改为 forty stages。**"
       ],
       "metrics": {
-        "words": 264,
+        "words": 263,
         "keywords": 50,
-        "density": 18.9
+        "density": 19.0
       },
       "glossary": [
         {
