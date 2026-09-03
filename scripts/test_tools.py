@@ -2162,6 +2162,19 @@ for _a in _arts_g:
             _mism.append(_a["id"])
 check("实测：第60篇起正文括注抽得出、键与速查表一致", not _mism, "不一致：%s" % _mism)
 
+
+# ── topics.py：题材库一次扫（2026-09-03 立）───────────────────────────
+# 选题成功率 1:1→1:3 之后立。每个候选题材一句反转＋反转段十个物件，一次跑完按通过率排。
+print("\n[topics] 题材库一次扫")
+_tb = open(os.path.join(ROOT, "scripts/topics.py"), encoding="utf-8").read()
+check("题材库存在且 ≥25 条", "TOPICS = [" in _tb and _tb.count('", False)') + _tb.count('", True)') >= 25)
+check("已做的题材标了 done", _tb.count('", True)') >= 8)
+check("写明 ≥60% 才写、<50% 跳过", "≥60% 才去核事实" in _tb and "<50% 直接跳过" in _tb)
+check("《总令》立了题材库这一步", "题材库：`topics.py`" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
+_r24 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/topics.py"), "3"],
+                      capture_output=True, text=True, timeout=900).stdout
+check("实测：能跑并按通过率排", "%" in _r24 and "可用" in _r24)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
