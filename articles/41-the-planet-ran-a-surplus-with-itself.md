@@ -2,7 +2,7 @@
 
 > 题材：全球经常账户统计差额：一个必须为零却从不为零的数
 > 状态：**第四十一篇定稿**（2026-08-27）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 一国的出口就是另一国的进口，全球加总必须为零——这是恒等式，不是估计。可它从来不是零。1980到2004年地球对自己是逆差，此后翻成顺差。而地球没有贸易伙伴。
 
 ---
@@ -13,9 +13,9 @@ Goods worth 24 trillion **crossed** borders in 2024; every **export** is a **cou
 
 That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 percent of world **product** — a **chunk** of a trillion in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 percent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.
 
-The IMF **convened** an **expert** party. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, it found something **graver** than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the **monetary** account. Both **sides** of one book were wrong, each in its own **direction**.
+The IMF **convened** an **expert** party. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, it found something **graver** than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the capital account. Both **sides** of one book were wrong, each in its own **direction**.
 
-The causes turned out to be **mundane**. A **cargo** **embarks** in December and **berths** in January, tabulated as an export in one year and an import in the next. Customs income goes **understated** to **dodge** tax. Financial **havens** make a **creditor**'s **residence** hard to **pin** down.
+The causes turned out to be **mundane**. A **cargo** **stowed** and **shipped** in December **berths** in January, tabulated as an export one year and an import the next. Customs income goes **understated** to **dodge** tax. Financial **havens** make a **creditor**'s **residence** hard to **pin** down.
 
 A later study **ascribed** the whole reversal to a single **offender**: the **omission** of **intangibles**. So that number was never a **reality** of **commerce** at all. It was an **artifact** of **accountancy** — and the books were kept by two hundred separate **registries** that had never **concurred** on what to record.
 
@@ -30,9 +30,9 @@ A later study **ascribed** the whole reversal to a single **offender**: the **om
 
 可这一**行**(row)从来没有等于过零。1980到2004年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。
 
-国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组。那份报告**编号**(tagged)SM/87/13，1987年1月12日送抵执董会：182**页**(pages)、109份**附表**(appendices)。读过1977到1983年的数据，它发现的东西比一处**背离**(divergence)**更重**(graver)：全世界的经常账户累计为负，而**同时**，**货币**(monetary)账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。
+国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组。那份报告**编号**(tagged)SM/87/13，1987年1月12日送抵执董会：182**页**(pages)、109份**附表**(appendices)。读过1977到1983年的数据，它发现的东西比一处**背离**(divergence)**更重**(graver)：全世界的经常账户累计为负，而**同时**，资本账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。
 
-查出来的原因**平淡**(mundane)得很。一船**货**(cargo)十二月**启航**(embarks)、一月**靠岸**(berths)，于是这一年记成出口、下一年记成进口。关税收入被**少报**(understated)以**躲**(dodge)税。金融**避风港**(havens)让一个**债权人**(creditor)的**居所**(residence)根本无从**认定**(pin)。
+查出来的原因**平淡**(mundane)得很。一船**货**(cargo)十二月**装船**(stowed)**运出**(shipped)、一月**靠岸**(berths)，于是这一年记成出口、下一年记成进口。关税收入被**少报**(understated)以**躲**(dodge)税。金融**避风港**(havens)让一个**债权人**(creditor)的**居所**(residence)根本无从**认定**(pin)。
 
 后来一项研究把整场翻转**归**(ascribed)于单一**祸首**(offender)：**无形项**(intangibles)被**漏计**(omission)。所以那个数字从来就不是**商业**(commerce)的**实况**(reality)，而是**记账**(accountancy)的一个**假象**(artifact)——而那些账，是由两百个各自为政的**登记处**(registries)记的，它们从来没**就**(concurred)记什么达成过一致。
 
@@ -44,9 +44,9 @@ A later study **ascribed** the whole reversal to a single **offender**: the **om
 
 **§2**（10词）row 行｜filed 呈报；备案｜minus 负数；亏空｜product 产值；产品｜chunk 一大块｜flipped 翻转｜glut 过剩；盈余｜thereafter 此后｜exporter 出口方｜nobody 无人
 
-**§3**（10词）convened 召集｜expert 专家的｜tagged 编号；标注｜pages 页（复）｜appendices 附表（复）｜graver 更严重的｜divergence 背离｜monetary 货币的｜sides 边（复）｜direction 方向
+**§3**（9词）convened 召集｜expert 专家的｜tagged 编号；标注｜pages 页（复）｜appendices 附表（复）｜graver 更严重的｜divergence 背离｜sides 边（复）｜direction 方向
 
-**§4**（10词）mundane 平淡的｜cargo 货物｜embarks 启航｜berths 靠泊｜understated 少报的｜dodge 躲避｜havens 避风港（复）｜creditor 债权人｜residence 居所｜pin 确定；钉住
+**§4**（11词）mundane 平淡的｜cargo 货物｜stowed 装载好的｜shipped 装船运出｜berths 靠泊｜understated 少报的｜dodge 躲避｜havens 避风港（复）｜creditor 债权人｜residence 居所｜pin 确定；钉住
 
 **§5**（10词）ascribed 归因于｜offender 祸首｜omission 遗漏｜intangibles 无形项（复）｜reality 实况；现实｜commerce 商业｜artifact 人为产物；假象｜accountancy 会计；记账｜registries 登记处（复）｜concurred 达成一致
 
@@ -63,3 +63,5 @@ A later study **ascribed** the whole reversal to a single **offender**: the **om
 - **已核 · 符号翻转的归因**：圣路易斯联储该文引 **2009 年 IMF 一项研究**，认为**由逆差转为顺差系服务项计量失准所致**。
 - **本篇的机制边界**：这不是「统计做得不好」的故事。**差额之所以刺眼，正因为它在数学上不可能存在**——经常账户之和为零是会计恒等式，不是经验规律。**因此非零的差额不是关于贸易的事实，而是关于记账的事实**：两百多个统计机构各自记账，口径、时点与定义从未统一，**于是一个必须为零的数，反而成了衡量「全世界有多不会一起数数」的尺子。**本文不判某国造假，**因为运输时滞与债权人居所这两项，谁也没做错，账仍然平不了。**
 - **已核 · 正文三个数的出处（供复核）**：**24 万亿与 2024 年**——世界贸易组织与 UNCTAD 口径下 2024 年全球货物贸易额约 24 万亿美元；**1983**——IMF 那份报告（SM/87/13）审读的区间为 **1977 至 1983 年**，见本条上方第 3 条。**⚠ 24 万亿一数为约数，随口径（货物／货物加服务）与年份修订而变，本文取整并以「约」表述。**
+- **★ 已核 · 两处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「on the monetary account」——与经常账户对应的是资本账户，『货币账户』不是标准名。已改为 capital account（capital 白送词不占名额）。****二 · 「A cargo embarks」——embark 是人登船，货物是装船、运出。已改为 stowed and shipped。****⚠ 一处判为保留：§2「filing a glut」——经济学有『全球储蓄过剩』（global savings glut，伯南克 2005）之说，正指经常账户盈余的另一面，可用。**
+- **⚠ BAL-02 判为保留（§4 局部密度）**：改 embarks→stowed and shipped 多了一个名额，该段密度随之略升。**判据：把一个人才做的动作（登船）改成货物真实经历的两个动作，值这一点密度。**

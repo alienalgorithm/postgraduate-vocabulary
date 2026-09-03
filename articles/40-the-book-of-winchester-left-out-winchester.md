@@ -9,11 +9,11 @@
 
 ## 英文正文
 
-The Anglo-Saxon Chronicle says the survey of 1086 missed nothing. Not one hide whose **occupant** the king did not know, not one ox, not one **heifer**, not one **swine** that **escaped** the **audit** or its **listing**. **Notaries** **fanned** into every **shire**, and 13,418 settlements went down with their holders and **rated** values.
+The Anglo-Saxon Chronicle says the survey of 1086 missed nothing. Not one hide whose **occupant** the king did not know, not one ox, not one **heifer**, not one **swine** that **escaped** the **audit** or its **listing**. **Inquisitors** **fanned** into every **shire**, and 13,418 settlements went down with their holders and **rated** values.
 
 Yet London is **omitted** **altogether**, and so is Winchester. Those were the two largest **cities** in England, and by far the **richest** — **indeed** a **fiscal** survey's first targets. Its Latin name was Liber de Wintonia, the Book of Winchester, for it lay in the royal **treasury**'s **custody**. The Book of Winchester does not **embrace** Winchester, and never **pretended** otherwise.
 
-It was never **intended** as a **census**. It **enumerated** 270,000 heads of household and nobody beneath them. The notaries **transcribed** holdings and their **assessed** value, because the point was to know what could be **taxed** and from whom. Four northern shires are **absent** too, **ravaged** and not worth the **trek**, with a **handful** of boroughs.
+It was never **intended** as a **census**. It **enumerated** 270,000 heads of household and nobody beneath them. The inquisitors **transcribed** holdings and their **assessed** value, because the point was to know what could be **taxed** and from whom. Four northern shires are **absent** too, **ravaged** and not worth the **trek**, with a **handful** of boroughs.
 
 Christmas 1085 to August 1086: eight months. What made it **terrible** was not that **breadth** but its **finality**. Whatever the book **affirmed** about who held a **manor** became law, and there was no **appeal**. A century later Richard FitzNigel **glossed** the **nickname**: the **judgement** of the last account cannot be **evaded**, nor this one.
 
@@ -26,7 +26,7 @@ So the name means **conclusive**, not **thorough**. A record that is **merely** 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-《盎格鲁-撒克逊编年史》说，1086年那次普查什么也没漏掉：没有一海德地的**占有者**(occupant)国王不知道，没有一头牛、一头**小母牛**(heifer)、一头**猪**(swine)**逃过**(escaped)**清查**(audit)与**造册**(listing)。**书记员**(Notaries)**散**(fanned)进每一个**郡**(shire)，13,418处聚落连同占有者与**估**(rated)值一并登册。
+《盎格鲁-撒克逊编年史》说，1086年那次普查什么也没漏掉：没有一海德地的**占有者**(occupant)国王不知道，没有一头牛、一头**小母牛**(heifer)、一头**猪**(swine)**逃过**(escaped)**清查**(audit)与**造册**(listing)。**查勘官**(Inquisitors)**散**(fanned)进每一个**郡**(shire)，13,418处聚落连同占有者与**估**(rated)值一并登册。
 
 可伦敦**整个**(altogether)被**略去**(omitted)，温切斯特也不在。那是当时英格兰最大的两座**城**(cities)，也**最富**(richest)——**恰恰**(indeed)是**财政**(fiscal)普查的首选。它的拉丁原名是 Liber de Wintonia，即《温切斯特之书》，因它就存于王室**金库**(treasury)的**保管**(custody)之下。《温切斯特之书》并不**收录**(embrace)温切斯特，也从未**佯称**(pretended)收录过。
 
@@ -40,7 +40,7 @@ So the name means **conclusive**, not **thorough**. A record that is **merely** 
 
 ## 50 词速查表
 
-**§1**（10词）occupant 占有者｜heifer 小母牛｜swine 猪｜escaped 逃过｜audit 清查；审计｜listing 造册；列表｜notaries 书记员（复）｜fanned 散开；铺开｜shire 郡｜rated 估作；评定
+**§1**（10词）occupant 占有者｜heifer 小母牛｜swine 猪｜escaped 逃过｜audit 清查；审计｜listing 造册；列表｜inquisitors 查勘官；讯问者｜fanned 散开；铺开｜shire 郡｜rated 估作；评定
 
 **§2**（10词）omitted 略去；省略｜altogether 完全地｜cities 城市（复）｜richest 最富的｜indeed 确实；正是｜fiscal 财政的｜treasury 金库；国库｜custody 保管；监管｜embrace 收录；包含｜pretended 佯称
 
@@ -63,3 +63,4 @@ So the name means **conclusive**, not **thorough**. A record that is **merely** 
 - **已核 · 至今仍有法律效力**：「**Through many centuries, the Domesday Book has provided evidence in disputes over ancient land and property rights. Such a case was made as recently as the 1960s.**」1086 至 1960 年代约**八百八十年**，本文取整为「八百年过去了」。2006 年 8 月，英国国家档案馆首次提供全文在线版。全书实为两部：Little Domesday（诺福克、萨福克、埃塞克斯，更详）与 Great Domesday（其余各郡）。
 - **本篇的机制边界**：这不是一个「档案有疏漏」的故事。**遗漏伦敦与温切斯特很可能只因两城规模与结构过于复杂**，并非隐瞒。**本文的论点在别处**：一份记录的权威可以有两个来源——**准确**，或**终局**。**准确的记录可被更好的证据推翻；终局的记录不能，于是它不再描述世界，而开始规定世界。**「末日审判书」这个名字所指的正是后者，**而八百年后它仍在法庭上生效，就是这一点的证明**。
 - **已核 · 正文两个数**：**《末日审判书》记录了 13,418 处聚落**；**列出约 270,000 名户主**，其下之人不予记名。**⚠ 13,418 与 270,000 均为学界常引的整理值，不同版本统计口径略有出入。**[Domesday Book · Wikipedia](https://en.wikipedia.org/wiki/Domesday_Book)
+- **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文两处「notaries」——末日审判书的调查者是王室专员（commissioners），拉丁记作 legati regis，学界亦称 inquisitors（因其做的是 inquisitio，讯问式清查）；notary 是公证人，不是这个。commissioners 撞第04篇，已改为 inquisitors。**
