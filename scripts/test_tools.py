@@ -2025,6 +2025,18 @@ _r19 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/topic.py"),
        if os.path.exists("/tmp/n62.txt") else "域是域，论点是论点"
 check("实测：鲑鱼材料被闸门一拦下并印出规矩", "域是域，论点是论点" in _r19)
 
+
+# ── 人读第一条的另一半：词 vet 过但词义不对（2026-09-03 补）─────────────
+# 三篇各一次：55 dike配叶轮／58 doused浸坩埚／60 stalk·mash·brew。
+# **与「编细节」是两回事**：这些词没编，是选错了；**vet 与检察官都查不到。**
+# **成因同一个：这个词能用，所以我把它塞进了最近的句子，没问「行家会这么说吗」。**
+print("\n[人读] 第一条的另一半")
+_ch17 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("第一条已加上「行家会用的词」", "在这一句里是不是行家会用的词" in _ch17)
+check("列出三篇五处", all(k in _ch17 for k in ("dike", "doused", "stalk", "mash", "would brew")))
+check("写明成因", "没问「行家在这里会说这个词吗」" in _ch17)
+check("给出判法", "屠夫／酿酒人／园丁／神父会这么说吗" in _ch17)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
