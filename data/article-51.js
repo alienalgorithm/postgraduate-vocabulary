@@ -21,8 +21,8 @@
           "zh": "这瓶**配方**(composition)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金1868年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十三年。帕凯用的香豆素，与那颗**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。"
         },
         {
-          "en": "That is the point usually missed. The **synthetic** was not a cheap stand-in for a natural material. It lifted a limit. Until then a **bouquet** could be **composed** only from what grew: you **distilled** a **petal**, crushed a **rind**, tapped a **resin** or a **bark**. **Botany** set the **palette**, not **imagination**.",
-          "zh": "而这一点常被忽略：**合成物**(synthetic)并不是天然原料的廉价替身。它抬掉了一道限制。在此之前，一束**香**(bouquet)只能由长出来的东西**调成**(composed)：你**蒸馏**(distilled)一片**花瓣**(petal)，压碎一层**果皮**(rind)，割取一块**树脂**(resin)或一片**树皮**(bark)。定下**调色盘**(palette)的是**植物学**(botany)，不是**想象力**(imagination)。"
+          "en": "That is the point usually missed. The **synthetic** was not a cheap stand-in for a natural material. It lifted a limit. Until then a **bouquet** could be **composed** only from what grew: you **distilled** a **petal**, crushed a **rind**, tapped a **resin**, ground a **bark**. **Botany** set the **palette**, not **imagination**.",
+          "zh": "而这一点常被忽略：**合成物**(synthetic)并不是天然原料的廉价替身。它抬掉了一道限制。在此之前，一束**香**(bouquet)只能由长出来的东西**调成**(composed)：你**蒸馏**(distilled)一片**花瓣**(petal)，压碎一层**果皮**(rind)，割取一块**树脂**(resin)，磨碎一片**树皮**(bark)。定下**调色盘**(palette)的是**植物学**(botany)，不是**想象力**(imagination)。"
         },
         {
           "en": "Before 1882 the trade's **repertoire** held roughly two hundred materials, nearly all of them **extracts**, **absolutes** and **oils**. By the middle of the next century that **array** passed three thousand. The **aroma** chemicals had come to **outnumber** the plants, and no **thicket** or **woodland** in the whole **gamut** grew one of them.",
@@ -40,7 +40,8 @@
         "**★★★ 已核 · 本篇的论点（限制被抬掉）**：合成香料的意义**不在于更便宜**，而在于**它把调香师从「只能用天然可得之物」中解放出来**，**得以创造自然界中并不存在的气味**。**⚠ 「两百种→三千种」这一组数字仅见于单一来源（一篇行业博客），属量级示意而非严格统计，已在此标明；若再版宜另寻权威出处或改为定性表述。**",
         "**本篇的机制边界**：这不是「天然香料不如合成」的故事。**天然萃取物是数十上百种分子的复合体，其层次至今无法被单一合成物取代**。**本文的论点在别处**：**在 1882 年之前，调香的调色盘是由植物学而非想象力划定的**——**能用的只有能长出来、且能被蒸馏或压榨出来的那些**。**合成香料改变的不是每一格颜料的价钱，是这块调色盘上一共有几格。****而 Fougère Royale 恰恰用它做了最能说明问题的一件事：****调出一种自然界从未有过的气味，再以一种不散发气味的植物为它命名。**",
         "**⚠ FIT-02 与 BAL-02b 判为保留（2026-09-01 复核）**：§3「**Botany** set the **palette**, not **imagination**」单句密度 3/6，**而这六个词正是全篇的论点句**——植物学、调色盘、想象力，缺一句子就不成立。**试过加词降密度，每次都触发词数上限；试过削词，又顶高段落密度。****二者相互拉扯：降密度要加词，加词又超 270。判为保留。****为消掉这两条而改写全篇论点句，正是 95 分闸口要防的事。**",
-        "**★ 已核 · 一处悬空代词，第55篇的「六条人读」筛查时发现（2026-09-02）**：**原文 §1 作「Bracken has almost no scent; nobody ever sniffed one」——one 没有先行词。****原稿本是 Ferns…sniffed one（one＝一株蕨，成立）；而我为消 VAL-13「fern/ferns 同词元」把 Ferns 换成了 Bracken，bracken 是不可数的集合名词，one 从此悬空。已改为 sniffed a frond。****⚠ 这是本会话「为消掉一条报出而改坏句子」的又一例。**"
+        "**★ 已核 · 一处悬空代词，第55篇的「六条人读」筛查时发现（2026-09-02）**：**原文 §1 作「Bracken has almost no scent; nobody ever sniffed one」——one 没有先行词。****原稿本是 Ferns…sniffed one（one＝一株蕨，成立）；而我为消 VAL-13「fern/ferns 同词元」把 Ferns 换成了 Bracken，bracken 是不可数的集合名词，one 从此悬空。已改为 sniffed a frond。****⚠ 这是本会话「为消掉一条报出而改坏句子」的又一例。**",
+        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「tapped a resin or a bark」——tap 是割取树胶树脂的动作，树皮不能『割取』，它是磨碎后浸提或蒸馏。****已改为 tapped a resin, ground a bark，四个动作各配各的原料。**"
       ],
       "metrics": {
         "words": 270,
