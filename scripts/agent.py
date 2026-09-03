@@ -402,6 +402,13 @@ def review(arts, path, exclude=None):
 
     print(BAR); print(f"修改指令 · {os.path.basename(path)}"); print(BAR)
     print(f"{tw}词 / {tk}重点词 / {dens:.1f}%    分布 {'·'.join(map(str,pkn))}    段落词数 {'·'.join(map(str,pw))}")
+    # ★ 止损哨兵（2026-09-03）：初稿密度 >11 词一个名额 → 三型（骨头太多），《总令》判法是直接存档。
+    #   纯净法、扫烟囱、石板路三稿都在 12.9—13.7 时多写了三四稿——同一个错第三次，装哨兵。
+    if tk and tk < 40:
+        _wps = tw / tk
+        if _wps > 11:
+            print(f"  ★★★ 止损：{_wps:.1f} 词一个名额（>11）——三型信号。《总令》：闸门一过了、初稿密度 >11、"
+                  f"论证段是年份／法案／报纸——直接存档，不试救。**纯净法、扫烟囱、石板路各多写了三四稿，都停在 42—47。**")
     print()
     n = 0
     for title, items in [("一、阻塞项（不修则不能入库）", blocking),

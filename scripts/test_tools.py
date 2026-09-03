@@ -2175,6 +2175,18 @@ _r24 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/topics.py"), 
                       capture_output=True, text=True, timeout=900).stdout
 check("实测：能跑并按通过率排", "%" in _r24 and "可用" in _r24)
 
+
+# ── review 止损哨兵：初稿密度 >11 直接印「三型，存档」（2026-09-03）──────
+# 纯净法、扫烟囱、石板路三稿都在初稿密度 12.9—13.7 时多写了三四稿，停在 42—47。判法早就写了，装哨兵。
+print("\n[止损] review 密度哨兵")
+_ag18 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("review 有密度止损", "止损：" in _ag18 and "_wps > 11" in _ag18)
+_tmp_d = os.path.join(ROOT, "notes/第68篇丙-英文草稿-未成稿-石板路.md")
+if os.path.exists(_tmp_d):
+    _r25 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"), "review", _tmp_d],
+                          capture_output=True, text=True, timeout=300).stdout
+    check("实测：石板路草稿被拦（42 名额，7.3 词/名额，不报）或密度报出", "词一个名额" in _r25 or "重点词 42" in _r25)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
