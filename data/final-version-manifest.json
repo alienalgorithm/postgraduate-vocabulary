@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 64,
-  "keyword_count": 3200,
+  "article_count": 65,
+  "keyword_count": 3250,
   "articles": [
     {
       "id": "01",
@@ -1398,6 +1398,25 @@
       "canonical_fingerprint_sha256": "4f65a55bc8015c3ea979aef43a7aef428fdfb671dd14638bcf7f566e74d5f07d",
       "markdown_sha256": "6398720b75edcca843811360676c749de484beeb03bda1f996759b175d690915",
       "markdown_git_blob_sha": "e77cb86fb10821c042ac10f2677b5fc3fe1e2143",
+      "superseded_signatures": []
+    },
+    {
+      "id": "65",
+      "slug": "the-rank-was-in-the-dye",
+      "title": "The Rank Was in the Dye",
+      "title_zh": "军衔在染料里",
+      "version_id": "65-final",
+      "status": "第六十五篇定稿",
+      "date": "2026-09-03",
+      "words": 269,
+      "keywords": 50,
+      "density": 18.6,
+      "source": "2026-09-03。反转段十个物件先 vet（58%，核心对比词 scarlet/cochineal 撞库，改用 madder vs carmine/insect/Mexico 表达）；闸门一 33 为历次最高，按段 4·8·11·9·4。八稿到 269/50。封版前人读第二问逮出 vermilion（朱砂红，矿物）→ carmine。首次入库 97（BAL-02b 判为保留）",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "f9e578a3f3567522ab8fde60369c48af2fdc90533e575a3474df9637e453aabf",
+      "markdown_sha256": "ef58ffe92101700f0151331b5b034d9e72efb331a19662cb7e1662498e5c01bb",
+      "markdown_git_blob_sha": "64f8a10d3dce937b0c5a85fafa3c1017a01b33d5",
       "superseded_signatures": []
     }
   ]

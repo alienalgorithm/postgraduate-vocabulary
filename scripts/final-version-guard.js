@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '65': { source: '2026-09-03。反转段十个物件先 vet（58%，核心对比词 scarlet/cochineal 撞库，改用 madder vs carmine/insect/Mexico 表达）；闸门一 33 为历次最高，按段 4·8·11·9·4。八稿到 269/50。封版前人读第二问逮出 vermilion（朱砂红，矿物）→ carmine。首次入库 97（BAL-02b 判为保留）', verification: 'conversation-latest-final' },
   '64': { source: '2026-09-03。用「先 vet 反转段十个物件」这条新顺序选的第一篇：巨象、卢德两稿在此步停下，产钳一步过（82%）。闸门一按段报 §5:0 —— 末段用后续事实填满。四稿到 270/50。封版前逐细节核（十四处有据，一处推论注明）、逐词问行家。首次入库即 100/100', verification: 'conversation-latest-final' },
   '63': { source: '2026-09-03。用「事实是不是东西」选的第一篇：玩具域 90%，vet 通过率 73—80%，初稿密度 11，五稿到 271/50。封版前逐细节核（二十处有据，一处纽扣商标年份改正）、逐词问行家。首次入库即 100/100', verification: 'conversation-latest-final' },
   '62': { source: '2026-09-03。第四个题材才成（乔利伍德词薄、靛蓝核心词撞、大富翁核心词撞）；殡葬域 70%，闸门三门俱过；写作途中删一处编造（mourned in the mortuary）、改一处行话（weaver spun→spun and woven）。封版前逐细节核、逐词问行家。首次入库即 100/100', verification: 'conversation-latest-final' },
