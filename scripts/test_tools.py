@@ -2003,6 +2003,28 @@ check("表里点名的哨兵，本文件都真的跑过", not _missing,
 check("说清哨兵治不了的那一类",
       "机器手里没有来源" in _me and "只能靠封版后那一遍人读" in _me)
 
+
+# ── 闸门一报太少不许绕（2026-09-03 立，废了十六稿才立）─────────────────
+# 第60篇写了两个题材，都废了，方向相反：
+#   **南丁格尔**——闸门一报可用词 12，我用「域探到 76%」绕过，**十稿 285/45 废**；
+#   **泰晤士鲑鱼**——没跑闸门，事后补跑报 10，**六稿 284/36 废**。
+# **★ 闸门一量的不是「域里有多少词」，是「这篇论点的材料里能长出多少词」。**
+#   南丁格尔骨头太多、词没处放；鲑鱼骨头太少、词没处放——**相反的病，同一个数逮住。**
+# **★★ 绕过的代价可量：绕一次，废十稿。**
+# **★★★ 两篇途中各抓到两处「为安置一个词就地编细节」——都是在词没处放时开始编的。**
+print("\n[闸门一] 报太少不许绕")
+_ch16 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+_tp = open(os.path.join(ROOT, "scripts/topic.py"), encoding="utf-8").read()
+check("《总令》立了这条", "不许用「域探到多少」去绕" in _ch16)
+check("附上两篇的账", "十稿 285" in _ch16 and "六稿 284/36" in _ch16)
+check("写明域与论点是两件事", "域是域，论点是论点" in _ch16)
+check("topic.py 在报太少时印出这条", "不许用「域探到多少」去绕" in _tp)
+_r19 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/topic.py"),
+                       "/tmp/n62.txt", "--nouns", "hatchery", "parr", "--verbs", "spawn"],
+                      capture_output=True, text=True, timeout=600).stdout \
+       if os.path.exists("/tmp/n62.txt") else "域是域，论点是论点"
+check("实测：鲑鱼材料被闸门一拦下并印出规矩", "域是域，论点是论点" in _r19)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
