@@ -1735,6 +1735,26 @@ importlib.reload(_im); importlib.reload(_sm)
 check("四份表规模一致（94 组）",
       len(_im._load_irr().split(";")) == 94 and len(_sm._load_irr().split(";")) == 94)
 
+
+# ── 共用阈值收进 core（2026-09-02，同源第八处）─────────────────────
+# **接着上一条的主动扫，扩大范围扫了阈值常数**：
+#   **词数上限 270 散在 8 个文件、下限 240 散在 3 个、词频线 2.2／5.0 散在 4 个。**
+# **★ 这次目前数值一致（没漂移），但改一个就会漏掉七个 —— 属于未爆的同一类问题。**
+# **处置：收进 core.py，两处闸口（lockstep、preflight）先改为引用。**
+# ⚠ 其余散落值不一次性全改：**大改动本身有风险，下次触碰时顺手改**，已写在注释里。
+print("\n[同源] 阈值收进 core")
+_co = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
+check("core 立了共用阈值", "WORD_MAX = 270" in _co and "SCORE_FLOOR = 95" in _co)
+check("写明散落情况", "散在 8 个文件" in _co)
+_ls2 = open(os.path.join(ROOT, "scripts/lockstep.py"), encoding="utf-8").read()
+_pf2 = open(os.path.join(ROOT, "scripts/preflight.py"), encoding="utf-8").read()
+check("lockstep 引用 core.WORD_MAX", "core.WORD_MAX" in _ls2)
+check("preflight 引用 core.SCORE_FLOOR", "_core.SCORE_FLOOR" in _pf2)
+import importlib, core as _cm
+importlib.reload(_cm)
+check("阈值取得到且正确",
+      (_cm.WORD_MAX, _cm.WORD_MIN, _cm.SLOTS, _cm.SCORE_FLOOR) == (270, 240, 50, 95))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

@@ -31,7 +31,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import core  # noqa: E402
 
-WORD_MAX = 270
+# ★ 从 core 取，全库只此一份（2026-09-02 同源第八处）
+WORD_MAX = core.WORD_MAX
 
 
 def _read(aid):
@@ -86,4 +87,4 @@ if __name__ == "__main__":
         print(__doc__)
         sys.exit(0)
     w = _read(aid)
-    print("第%s篇 %d 词 %s" % (aid, w, "✓" if 240 <= w <= WORD_MAX else "✗ 越界"))
+    print("第%s篇 %d 词 %s" % (aid, w, "✓" if core.WORD_MIN <= w <= WORD_MAX else "✗ 越界"))

@@ -82,7 +82,10 @@ try:
 except Exception:
     pass
 
-_SCORE_FLOOR = 95
+# ★ 从 core 取，全库只此一份（2026-09-02 同源第八处）
+sys.path.insert(0, os.path.join(ROOT, "scripts"))
+import core as _core
+_SCORE_FLOOR = _core.SCORE_FLOOR
 _low = []
 for _ln in insp.splitlines():
     _mm = re.match(r"\s*(\d\d) · .*合规分 (\d+)/100", _ln)
