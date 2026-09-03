@@ -2095,6 +2095,18 @@ _r22 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/domains.py"),
                       capture_output=True, text=True, timeout=900).stdout
 check("实测：能跑并按可用率排", "%" in _r22 and "█" in _r22)
 
+
+# ── 止损点第三型没有救法（2026-09-03，刺刀稿两种砍法实测）───────────────
+# 砍 §5 具体线 → 300/41（砍掉的线本身带 5 个名额）；砍 §2/§3 骨头 → 281/41（诚实能补到 46）。
+# **病根：每条骨头要二十个词的连接语，而连接语不是名额词。**
+# **判法：闸门一过、初稿密度 >11、五段各三条以上独立事实 → 三型，直接存档，不试救。**
+print("\n[止损] 第三型没有救法")
+_ch19 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("《总令》记了三型无救法", "第三型（骨头太多）没有救法" in _ch19)
+check("附上两种砍法的实测", "300 词/41 名额" in _ch19 and "281 词/41 名额" in _ch19)
+check("写明病根", "连接语不是名额词" in _ch19)
+check("给出判法", "直接存档，不试救" in _ch19)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
