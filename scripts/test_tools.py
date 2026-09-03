@@ -1191,14 +1191,14 @@ check("接进了 why 的判断链", "是同一动词（不规则变化）" in _a
 check("写明这是真漏洞及其来历",
       "靠封版时的" in _ag3 and "白跑一趟 vet" in _ag3)
 _r3 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                      "vet", "47", "wore", "shackle"],
+                      "vet", "47", "wore", "gantry"],
                      capture_output=True, text=True, timeout=180).stdout
 check("实测：wore 被拦下（撞第38篇 wear）",
       "wore" in _r3 and "同一动词" in _r3)
 # ★ 反例原用 flew，而新装的 VAL-14 正确地把它拦下了
 #   （原形 fly 在初中词表，flew 不在 —— 屈折形绕过初中词检查）。
 #   **判据没错，是反例挑错了词**：换成 shackle（无任何冲突）。
-check("实测：不撞的词仍放行", "可用：shackle" in _r3)
+check("实测：不撞的词仍放行", "可用：gantry" in _r3)
 
 
 # ── vet 篇内查四层（2026-09-01）───────────────────────────────
@@ -1218,11 +1218,11 @@ check("篇内查同根", "与本篇的 %s 同根" in _ag4)
 check("写明这是第三次同形的漏洞",
       "两道网的判据必须一致" in _ag4)
 _r4 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                      "vet", "48", "tuck", "pledged"],
+                      "vet", "48", "tuck", "trestle"],
                      capture_output=True, text=True, timeout=180).stdout
 check("实测：tuck 被拦下（本篇已有 tucked）",
       "tuck" in _r4 and "本篇已用同词元" in _r4)
-check("实测：不撞的词仍放行", "pledged" in _r4 and "可用：" in _r4)
+check("实测：不撞的词仍放行", "trestle" in _r4 and "可用：" in _r4)
 
 
 # ── VAL-15 不规则变化重复（2026-09-01 立）───────────────────────
@@ -1454,6 +1454,10 @@ check("写明判为保留是正当结论", "判为保留是正当结论" in _ch8
 # **★ 而我第一版把 VAL-14 的条件写漏了一半**（只写「原形是白送词」，
 #   漏了「而屈折形不是」），**把 flew 也拦了，回归测试当场报红**——
 #   **照抄检察官的判据，不要自己另写。**
+# ⚠ **反例词会被后续篇目占用**（2026-09-02 实测）：
+#   原用 shackle 与 pledged 作「不撞的词」，**第58篇把 shackle 与 pledge 写进了正文**，
+#   三条测试同时报红。**已换为 gantry／trestle。**
+#   **★ 这是反例词的固有脆弱性：它必须是「还没人用的词」，而库每写一篇就少一批。**
 print("\n[vet] 补齐 VAL-13 与 VAL-14")
 _ag9 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
 check("vet 用与检察官相同的 _lem13", "_lem13" in _ag9
@@ -1464,11 +1468,11 @@ check("条件与检察官逐字相同（两半都在）",
       and "_b14 in basic and wl not in basic" in _ag9,
       "★ 第一版漏了后半个条件，把 flew 也拦了")
 _r9 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                      "vet", "45", "bars", "shackle"],
+                      "vet", "45", "bars", "gantry"],
                      capture_output=True, text=True, timeout=180).stdout
 check("实测：bars 被拦（撞本篇 barred）",
       "bars" in _r9 and "本篇已用同词元" in _r9)
-check("实测：无冲突的词仍放行", "shackle" in _r9 and "可用：" in _r9)
+check("实测：无冲突的词仍放行", "gantry" in _r9 and "可用：" in _r9)
 
 
 # ── lockstep.py 等长改（2026-09-01 立，同一次会话犯了五次）──────────
