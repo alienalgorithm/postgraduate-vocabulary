@@ -69,7 +69,7 @@ TOPICS = [
     ("铅笔", "铅笔里从来没有铅", "pencil graphite cedar clay kiln shaft eraser sharpener mine Borrowdale", False),
     ("怀表", "怀表的链子是为了偷不是为了挂", "watch chain fob pocket pickpocket waistcoat winder crystal escapement", False),
     ("领带", "领带是克罗地亚雇佣兵的围巾", "cravat scarf knot collar mercenary regiment neckcloth silk starch stock", False),
-    ("螺旋楼梯", "顺时针为守方右手持剑是后来编的，三成城堡是逆时针", "staircase newel tread riser spiral clockwise anticlockwise landing banister stairwell", False),
+    ("螺旋楼梯", "顺时针说是 1902 年一个击剑手编的，三成逆时针——§2 是书目段，零稿", "staircase newel tread riser spiral clockwise anticlockwise landing banister stairwell", True),
     ("沙漏", "沙漏里从来不是沙；最早的确证是 1345 年一张船上收据——bells/grains/trickle/receipt 全撞，零稿", "hourglass bulb neck eggshell marble powder glassblower cork sieve watch-glass", True),
     ("牛眼玻璃", "牛眼玻璃是吹圆盘时最贱的中心废料，如今当古董卖", "bullseye pane pontil crown glazier disc glasshouse cottage-window casement leading", False),
     ("壁炉税", "1662 年壁炉税让穷人堵上烟囱，一屋子烟", "hearth-tax fireplace chimney-money assessor exemption cottage smoke-hole soot collector rebellion", False),
