@@ -1869,8 +1869,9 @@ _r15 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/untraced.py")
 _n15 = sum(1 for _l in _r15.splitlines() if "…" in _l)
 # ⚠ 补上拼写数字后命中回升（thirty／ten thousand 那一类），**这是工具变强不是变差**。
 # ⚠ 2026-09-03 补上「N 万」「1.6 million」「fifteen／十五」的换算后，全库 30 → 12。
-check("全库命中在可人核的范围内", _n15 < 20,
-      "★ 实得 %d 处（92 → 3 → 补拼写数字 30 → 补换算 12）" % _n15)
+# 2026-09-03 再补中文数词（九成／十万／二十五万）与复合拼写（five thousand／quarter of a million）后：12 → 0。
+check("全库命中已归零", _n15 == 0,
+      "★ 实得 %d 处（92 → 3 → 30 → 12 → 0）" % _n15)
 
 
 # ── core 的词数上限曾写错，已改为从检察官读（2026-09-02，第八处两份数据）──

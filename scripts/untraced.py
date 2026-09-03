@@ -77,6 +77,35 @@ def _expand(text):
     for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(million|billion|thousand)", text, re.I):
         mult = {"million": 1e6, "billion": 1e9, "thousand": 1e3}[m.group(2).lower()]
         extra.append(str(int(round(float(m.group(1)) * mult))))
+    # ★ 中文数词 → 阿拉伯（2026-09-03 补：全库 12 处命中里 11 处是 facts 用了「九成／十万／五千／二十五万／两百」）
+    _cnd = {"零": 0, "一": 1, "二": 2, "两": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
+    def _cn2n(t):
+        t = t.replace("零", "")
+        total, num = 0, 0
+        for ch in t:
+            if ch in _cnd:
+                num = _cnd[ch]
+            elif ch == "十":
+                total += (num or 1) * 10; num = 0
+            elif ch == "百":
+                total += (num or 1) * 100; num = 0
+            elif ch == "千":
+                total += (num or 1) * 1000; num = 0
+            elif ch == "万":
+                total = (total + num) * 10000; num = 0
+            elif ch == "亿":
+                total = (total + num) * 100000000; num = 0
+        return total + num
+    for m in re.finditer(r"[零一二两三四五六七八九十百千万亿]{2,}", text):
+        try:
+            _v = _cn2n(m.group(0))
+            if _v > 0:
+                extra.append(str(_v))
+        except Exception:
+            pass
+    # 「九成」= 90%
+    for m in re.finditer(r"([一二两三四五六七八九])成", text):
+        extra.append(str(_cnd[m.group(1)] * 10))
     _small = {"eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15,
               "sixteen": 16, "seventeen": 17, "eighteen": 18, "nineteen": 19,
               "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50, "sixty": 60,
@@ -130,6 +159,18 @@ def scan(art):
         if not num or w in seen:
             continue
         seen.add(w)
+        # ★ 「five thousand」「two hundred」「quarter of a million」：前半个词是乘数（2026-09-03 补）
+        _ones = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
+                 "seven": 7, "eight": 8, "nine": 9, "ten": 10}
+        _head = w.split()[0] if " " in w else None
+        if _head in _ones and key in ("hundred", "thousand", "million"):
+            num = str(_ones[_head] * int(num))
+        elif key in ("hundred", "thousand", "million"):
+            _pre8 = body[max(0, m.start() - 14):m.start()].lower()
+            if "quarter of a" in _pre8:
+                num = str(int(num) // 4)
+            elif "half a" in _pre8:
+                num = str(int(num) // 2)
         blob = (facts + stand).replace(",", "").lower()
         # 「1.6 million」这类：前面有数字，按乘积去比
         _pre = body[max(0, m.start() - 8):m.start()]

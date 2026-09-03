@@ -22,7 +22,7 @@
           "zh": "1858年8月，第一条**跨大西洋的**(transatlantic)电报电缆让人相信，横跨大洋的通信可以近乎即时完成。但一条**海底的**(submarine)线路绝不是普通导线。分布式**电容**(capacitance)会储存电荷，而欧姆性的电阻又会**拖慢**(slowed)电荷重新分布，于是每一个**脉冲**(pulse)都会逐渐**弥散**(dispersed)。Thomson分析了这种**迟滞**(retardation)：相邻信号可能逐渐**汇合**(coalesce)，越来越难以**辨读**(decipher)，最终抵达的不是清晰符号，而是**失真**(distortion)。"
         },
         {
-          "en": "Whitehouse did not deny retardation. He measured it on wires a few hundred miles long and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity**, **dielectric** behaviour. Their deeper dispute was **extrapolation**: did short-line tests capture Atlantic **scaling**, and did **sensitivity** meet the **premise**?",
+          "en": "Whitehouse did not deny retardation. He measured it on wires up to 1,020 miles long and offered a different **diagnosis**: stronger **voltage**, induction coils and **relays** could keep signalling practical. Thomson focused on **propagation**, conductor **resistivity**, **dielectric** behaviour. Their deeper dispute was **extrapolation**: did short-line tests capture Atlantic **scaling**, and did **sensitivity** meet the **premise**?",
           "zh": "Whitehouse并没有否认迟滞现象。他曾在较短线路上测量这种效应，并给出了另一种**诊断**(diagnosis)：更高的**电压**(voltage)、感应线圈和**继电器**(relays)仍可以让通信具有实用性。Thomson更关注信号**传播**(propagation)、导体**电阻率**(resistivity)以及**介电的**(dielectric)行为。两人更深层的争论其实是**外推**(extrapolation)问题——短线路实验能否代表大西洋尺度的**尺度效应**(scaling)，以及接收端的**灵敏度**(sensitivity)是否真正回答了同一个**前提**(premise)。"
         },
         {
@@ -301,7 +301,8 @@
         "**已核 · 电压**：怀特豪斯使用五英尺长的感应线圈，估计可加于电缆约 **2,000 伏**；1861 年调查委员会据此归咎于他。[Linda Hall Library](https://www.lindahall.org/about/news/scientist-of-the-day/e-o-wildman-whitehouse/)｜[ETHW：Transatlantic Cable](https://ethw.org/Transatlantic_Cable)",
         "**已核 · 失效时间两说并存，本文已兼顾**：Linda Hall 记 9 月 2 日突然失效；IET 档案记 10 月 20 日停止工作。本文写「9 月 1 日有效通信已停止，此后零星间歇，10 月 20 日留下最后记录」，**同时容纳两说**。另：该线在失效前共传送 **732 封电报**。[IET Archives](https://www.theiet.org/membership/library-and-archives/the-iet-archives/archives-highlights/the-first-transatlantic-telegraph-cable-1858)｜[Indian Defence Review](https://indiandefencereview.com/transatlantic-telegraph-cable-1858-failure/)",
         "**已核 · 不可归罪一人，有实证支持**：IEEE Spectrum 载历史学家兼工程师 Donard de Cogan 1985 年对原始电缆残段的分析——**制造粗劣**，有些段落铜芯未居中、危险地贴近金属外皮，杜仲胶绝缘亦已劣化；杂质与 1857—58 年冬季的不当贮存，可能在电缆下水之前就埋下了隐患。[Indian Defence Review 转述 IEEE Spectrum](https://indiandefencereview.com/transatlantic-telegraph-cable-1858-failure/)",
-        "**已核 · 1866 年那条成功的电缆**：**1858 年那条失败之后，1865—66 年重铺的大西洋电缆采用了明显加粗的导体与更厚的绝缘层，并以汤姆森的镜式检流计在低电压下收报**——**即：真正解决问题的是绝缘与检测，不是更大的推力。****正文以此作末段的具体落点，而非停在格言上。**[Transatlantic telegraph cable · Wikipedia](https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable)"
+        "**已核 · 1866 年那条成功的电缆**：**1858 年那条失败之后，1865—66 年重铺的大西洋电缆采用了明显加粗的导体与更厚的绝缘层，并以汤姆森的镜式检流计在低电压下收报**——**即：真正解决问题的是绝缘与检测，不是更大的推力。****正文以此作末段的具体落点，而非停在格言上。**[Transatlantic telegraph cable · Wikipedia](https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable)",
+        "**★ 已核 · 一处数目改正（2026-09-03，untraced.py 分诊后核出）**：**原文「wires a few hundred miles long」——怀特豪斯 1856—57 年的实测是三段：83 英里、498 英里、1,020 英里，报告题为『合计 1,125 英里导线上的实验观察』。「几百英里」偏低，已改为「up to 1,020 miles」。****实测延迟**：83 英里 0.08 秒，498 英里 0.79 秒，1,020 英里 1.42 秒。[Hunt · Imperial Science, ch.2](https://www.cambridge.org/core/books/imperial-science/wildman-whitehouse-william-thomson-and-the-first-atlantic-cable/28CC0EE56CCC49F8170F92A364BBBEF9)"
       ]
     }
   ]);
