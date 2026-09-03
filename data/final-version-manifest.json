@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 60,
-  "keyword_count": 3000,
+  "article_count": 61,
+  "keyword_count": 3050,
   "articles": [
     {
       "id": "01",
@@ -1322,6 +1322,25 @@
       "canonical_fingerprint_sha256": "8d891fcc501d2958eb942d8663f518d5cccf04fd279945d1f01570aa15f8e776",
       "markdown_sha256": "a539fe6a67a948fa88d971104aa36d0add7932e6311215ca58a674920bdc9e03",
       "markdown_git_blob_sha": "0bf83160a0120648d22a02b7b5f65ca775ed7dad",
+      "superseded_signatures": []
+    },
+    {
+      "id": "61",
+      "slug": "filed-as-anecdote",
+      "title": "The Men Who Felt It Were Filed as Anecdote",
+      "title_zh": "感觉得到的人，被归档为轶事",
+      "version_id": "61-final",
+      "status": "第六十一篇定稿",
+      "date": "2026-09-03",
+      "words": 269,
+      "keywords": 50,
+      "density": 18.6,
+      "source": "2026-09-03。全库「行家会这么说吗」走完后写的第一篇：闸门一报 30 三门俱过；初稿密度 9.4；每段名额从各自词域取；封版前逐细节核来源、逐词问行家——零翻案。首次入库即 100/100。途中一次为削词把「高估 100%」改成「一半」，当场发现改回",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "e7ca25af4ebcf5094e27c90297abc0733283a182596f0ff7181ca1c4798f68f6",
+      "markdown_sha256": "af17d16fc7c4d4cb976ee58b3845504e81b3c62f63c024861b2ab41bda143f87",
+      "markdown_git_blob_sha": "30f49b5cd4d657d69ed96e2ff6284a354badf316",
       "superseded_signatures": []
     }
   ]
