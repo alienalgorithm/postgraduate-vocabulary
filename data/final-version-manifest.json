@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 67,
-  "keyword_count": 3350,
+  "article_count": 68,
+  "keyword_count": 3400,
   "articles": [
     {
       "id": "01",
@@ -1455,6 +1455,25 @@
       "canonical_fingerprint_sha256": "abd140c71be04ffef9813f9fda7b8448dc5eaac9fc6ca33d797b3202eda6a089",
       "markdown_sha256": "54cd2bab61bc3d9c7c627a49aa289fd0f24940f55eb898640603264481ef4b47",
       "markdown_git_blob_sha": "4cbde401fb4ea5e2fc542bb56843f5526d329a04",
+      "superseded_signatures": []
+    },
+    {
+      "id": "68",
+      "slug": "grandeur-that-looks-like-defence",
+      "title": "Grandeur That Looks Like Defence",
+      "title_zh": "看起来像防御的气派",
+      "version_id": "68-final",
+      "status": "第六十八篇定稿",
+      "date": "2026-09-03",
+      "words": 271,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-03。题材库 60%（护城河），核心论证词 drainage/silt/clay 被第55篇占，用 loam/lowland/sludge 侧写；闸门一 27，按段 6·5·16·5·2；初稿密度 9.7 未触止损哨兵。十二稿到 271/50。§4/§5 用身份域与今貌域填满。封版前两问零翻案。BAL-02b 判为保留",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "dc6bb24007b19305278f6de9a2c89407dcdfec3beb8fbd4d3d15798c0e863f3f",
+      "markdown_sha256": "3b70bbe4a529a6957176e8f092148ed097ef88f08b9eff3ea69965c6d162242e",
+      "markdown_git_blob_sha": "8257ecc1fca9ce81b2fa83bc8dbc30c70fb1f407",
       "superseded_signatures": []
     }
   ]

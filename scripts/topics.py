@@ -47,7 +47,7 @@ TOPICS = [
     ("弩", "弩不是被禁的，是被买的", "crossbow bolt windlass stirrup quarrel trigger prod string rampart siege", False),
     ("弓箭手", "长弓不是英格兰的，是威尔士的", "longbow yew arrow quiver fletching bracer nock string draw butts", False),
     ("盔甲重量", "全身板甲比现代步兵负重轻", "plate visor gauntlet greave cuirass helm mail rivet hinge squire", False),
-    ("护城河", "护城河多数没有水", "moat ditch drawbridge rampart palisade keep bailey portcullis causeway silt", False),
+    ("护城河", "六千道护城河几乎没有一道属于城堡，是乡绅用土方说出的身份", "moat ditch drawbridge rampart palisade keep bailey portcullis causeway silt", True),
     ("灯塔", "灯塔的灯是用油和透镜省出来的", "lighthouse lens wick lantern keeper beacon fog reef prism clockwork", False),
     ("信鸽", "鸽子送的是股价不是军情", "pigeon loft roost coop message capsule leg ring homing basket release", False),
     ("驿站马车", "驿站的快是换马不是快马", "coach postilion stage relay ostler inn yard horn whip harness", False),
