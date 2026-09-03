@@ -61,6 +61,35 @@ def main():
         bad.append("闸门一")
         print("  ✗ 一、可用词 %d 个 —— **太少（<14）。换角度或换题材。**" % n)
 
+    # ── 闸门一·按段（2026-09-03 补：第64篇甲巨象稿）────────────────────
+    # 整篇报 25、三门俱过，可 §2（事故本身，反转所在）的铁路域词全被第15/33/50篇占了，
+    # 初稿那一段 91 词只装 4 个名额。**整篇够不等于每段够；反转所在的那一段空了，闸门看不见。**
+    # 做法：把材料按空行分段，每段单跑 brief，低于 4 的点名。
+    try:
+        _txt = open(a.notes, encoding="utf-8").read()
+        _paras = [p for p in re.split(r"\n\s*\n", _txt) if p.strip()]
+        if len(_paras) >= 3:
+            _per = []
+            for _i, _p in enumerate(_paras, 1):
+                _tmp = a.notes + ".seg%d.txt" % _i
+                open(_tmp, "w", encoding="utf-8").write(_p)
+                _o = run(["brief", _tmp])
+                _m = re.search(r"【可用高价值词】(\d+) 个", _o)
+                _per.append(int(_m.group(1)) if _m else 0)
+                try:
+                    os.remove(_tmp)
+                except OSError:
+                    pass
+            _low = [(_i, _c) for _i, _c in enumerate(_per, 1) if _c < 4]
+            print("  · 一·按段  " + " ".join("§%d:%d" % (_i, _c) for _i, _c in enumerate(_per, 1)))
+            if _low:
+                print("    ★ 有段落可用词 <4：%s —— **整篇够不等于每段够。**"
+                      % "、".join("§%d(%d)" % x for x in _low))
+                print("      **若空的那一段正是反转所在，这篇写不成（第64篇甲巨象：§2 铁路域被占空）。**")
+                print("      **若空的是通说段或末段，可以换域填（第61篇 §5 用后续事实填满）。**")
+    except Exception as _e:
+        print("  · 一·按段  （未能按段计：%s）" % _e)
+
     # ── 闸门二 ────────────────────────────────────────────────────
     # **这一门是第52篇乙稿的教训：名词全有、动词全无，写到一半才发现。**
     if a.nouns or a.verbs:

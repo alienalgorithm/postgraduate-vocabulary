@@ -2117,6 +2117,20 @@ check("《总令》立了这条判据", "这篇的事实，本身是不是东西
 check("九篇对照表在", "南丁格尔 | 死亡率" in _ch20 and "61 鳕鱼 | 渔法的工具" in _ch20)
 check("写明机制", "东西就是名额" in _ch20)
 
+
+# ── topic.py 闸门一按段报（2026-09-03，第64篇甲巨象稿）─────────────────
+# 整篇报 25、三门俱过，可 §2（事故本身，反转所在）的铁路域词全被第15/33/50篇占了。
+# **整篇够不等于每段够；反转所在的那一段空了，闸门看不见。** 现按段各跑一次 brief，<4 点名。
+print("\n[闸门一] 按段报")
+_tp2 = open(os.path.join(ROOT, "scripts/topic.py"), encoding="utf-8").read()
+check("闸门一有按段计", "一·按段" in _tp2 and "整篇够不等于每段够" in _tp2)
+check("区分反转段与可填段", "若空的那一段正是反转所在" in _tp2 and "若空的是通说段或末段" in _tp2)
+_r23 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/topic.py"),
+                       "/tmp/n76.txt", "--nouns", "tusk", "--verbs", "scoop"],
+                      capture_output=True, text=True, timeout=900).stdout \
+       if os.path.exists("/tmp/n76.txt") else "一·按段  §1:"
+check("实测：能按段报出", "一·按段  §1:" in _r23)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
