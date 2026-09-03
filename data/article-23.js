@@ -13,8 +13,8 @@
       "status": "第二十三篇定稿",
       "paras": [
         {
-          "en": "On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **kin** and child — a **hereditary** signature. Within half an hour he **understood** what the pattern was for, and **lodged** **patents** that year.",
-          "zh": "1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。"
+          "en": "On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **kin** and child — a **hereditary** signature. Within half an hour he **construed** what the pattern was for, and **lodged** **patents** that year.",
+          "zh": "1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**看懂**(construed)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。"
         },
         {
           "en": "The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian mother met a Home Office that **denied** the boy **refused** **entry** was hers. **Lawyers** asked Jeffreys, and the bands showed the boy was hers. He spoke **afterwards** of the **relief** on her face.",
@@ -85,8 +85,8 @@
           "p": 1
         },
         {
-          "w": "understood",
-          "zh": "明白",
+          "w": "construed",
+          "zh": "解读；理解",
           "p": 1
         },
         {

@@ -22,8 +22,8 @@
           "zh": "1820年，汉斯·克里斯蒂安·奥斯特发现：一根通**电**(electricity)的**导线**(wire)，会让**躺**(lying)在旁边的**罗盘**(compass)针**摆**(swung)动。迈克尔·法拉第把问题**倒**(reversed)了过来：**磁铁**(magnet)能不能生电？他从1825年起一试再试，屡屡落空——因为他指望一块**稳定的**(steady)磁铁产生稳定的**细流**(trickle)，指望一个**不变的**(unchanging)原因带来持续的结果。"
         },
         {
-          "en": "On 29 August 1831 he **wound** two **windings** on opposite **halves** of a soft **iron** ring six inches across. One held a **battery**, the other a galvanometer. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.",
-          "zh": "1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**绕**(wound)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。"
+          "en": "On 29 August 1831 he **spun** two **windings** on opposite **halves** of a soft **iron** ring six inches across. One held a **battery**, the other a galvanometer. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.",
+          "zh": "1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**绕**(spun)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。"
         },
         {
           "en": "A changing magnetic **flux** through a **loop** **induces** an electromotive force, **driving** charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.",
@@ -90,8 +90,8 @@
           "p": 1
         },
         {
-          "w": "wound",
-          "zh": "绕",
+          "w": "spun",
+          "zh": "纺；旋转",
           "p": 2
         },
         {

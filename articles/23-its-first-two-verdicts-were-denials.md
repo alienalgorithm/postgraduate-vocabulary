@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **kin** and child — a **hereditary** signature. Within half an hour he **understood** what the pattern was for, and **lodged** **patents** that year.
+On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **kin** and child — a **hereditary** signature. Within half an hour he **construed** what the pattern was for, and **lodged** **patents** that year.
 
 The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian mother met a Home Office that **denied** the boy **refused** **entry** was hers. **Lawyers** asked Jeffreys, and the bands showed the boy was hers. He spoke **afterwards** of the **relief** on her face.
 
@@ -26,7 +26,7 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**明白**(understood)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。
+1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**看懂**(construed)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。
 
 这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一位加纳母亲面对的是内政部的**否认**(denied)：那个被**拒**(refused)**入境**(entry)的男孩不是她的。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子确是她亲生的。他**后来**(afterwards)提起她脸上的那种**松弛**(relief)。
 
@@ -40,7 +40,7 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 
 ## 50 词速查表
 
-**§1**（10词）genetics 遗传学｜developed 冲洗（胶片）；显影｜technician 技术员｜ladders 梯状排列｜rungs 横杠；梯级｜kin 亲属｜hereditary 可遗传的｜understood 明白｜lodged 提交（申请）｜patents 专利
+**§1**（10词）genetics 遗传学｜developed 冲洗（胶片）；显影｜technician 技术员｜ladders 梯状排列｜rungs 横杠；梯级｜kin 亲属｜hereditary 可遗传的｜construed 解读；理解｜lodged 提交（申请）｜patents 专利
 
 **§2**（10词）technique 技术｜remembered 记住｜murderers 杀人者｜outing 出场；首次露面｜denied 否认｜refused 拒绝｜entry 入境｜lawyers 律师｜afterwards 后来｜relief 宽慰；松弛
 

@@ -37,6 +37,23 @@ sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import core  # noqa: E402
 
 
+
+# ★★★ 不规则动词表 —— 从 test_tools.py 读那一份（2026-09-02 改，同源第七处）
+# **实测：本文件与 swap.py 各存一份，均只有 73 组，
+#   而 test_tools.py 那份有 94 组 —— 三份已经差了 21 组**
+#   （bind/bound、cling/clung、creep/crept、deal/dealt、feed/fed…）。
+# **这些词在检察官与 swap 里查不到，只有七层测试能逮住。**
+# **处置：与守卫指标、agent 的不规则表同例 —— 让数据只有一个来源。**
+def _load_irr():
+    import os as _os, re as _re
+    try:
+        _p = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "test_tools.py")
+        _m = _re.search(r"_IRR = \(([^)]*)\)", open(_p, encoding="utf-8").read(), _re.S)
+        return eval("(" + _m.group(1) + ")")
+    except Exception:
+        return "sweep swept;swing swung;stand stood;bind bound;feed fed"
+
+
 def die(msg):
     print("\n✗ " + msg + "\n")
     print("  **整体未落盘。** 换词的四步只要有一步不过，就不该动文件——")
@@ -72,24 +89,7 @@ def load_one(aid):
 
 # ── 一、vet ───────────────────────────────────────────────────────────
 IRR_BASE = {}
-for _grp in ("bear bore borne;begin began begun;bite bit bitten;"
-             "blow blew blown;break broke broken;bring brought;build built;"
-             "buy bought;catch caught;choose chose chosen;come came;dig dug;"
-             "draw drew drawn;drink drank drunk;drive drove driven;"
-             "eat ate eaten;fall fell fallen;feel felt;fight fought;"
-             "find found;fly flew flown;forget forgot forgotten;"
-             "freeze froze frozen;give gave given;grow grew grown;hang hung;"
-             "hear heard;hide hid hidden;hold held;keep kept;know knew known;"
-             "lay laid;lead led;leave left;lie lain;lose lost;mean meant;"
-             "meet met;pay paid;ride rode ridden;ring rang rung;"
-             "rise rose risen;run ran;say said;see saw seen;seek sought;"
-             "sell sold;send sent;shake shook shaken;shine shone;shoot shot;"
-             "show showed shown;sing sang sung;sink sank sunk;sit sat;"
-             "sleep slept;speak spoke spoken;spend spent;stand stood;"
-             "steal stole stolen;stick stuck;strike struck;swear swore sworn;"
-             "take took taken;teach taught;tear tore torn;tell told;"
-             "think thought;throw threw thrown;wear wore worn;win won;"
-             "withdraw withdrew withdrawn;write wrote written").split(";"):
+for _grp in (_load_irr()).split(";"):
     _f = _grp.split()
     for _x in _f[1:]:
         IRR_BASE[_x] = _f[0]

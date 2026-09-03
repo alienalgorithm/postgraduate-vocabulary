@@ -81,6 +81,23 @@ except Exception:
     _CM, CHARTER = {}, {}
 
 
+
+# ★★★ 不规则动词表 —— 从 test_tools.py 读那一份（2026-09-02 改，同源第七处）
+# **实测：本文件与 swap.py 各存一份，均只有 73 组，
+#   而 test_tools.py 那份有 94 组 —— 三份已经差了 21 组**
+#   （bind/bound、cling/clung、creep/crept、deal/dealt、feed/fed…）。
+# **这些词在检察官与 swap 里查不到，只有七层测试能逮住。**
+# **处置：与守卫指标、agent 的不规则表同例 —— 让数据只有一个来源。**
+def _load_irr():
+    import os as _os, re as _re
+    try:
+        _p = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "test_tools.py")
+        _m = _re.search(r"_IRR = \(([^)]*)\)", open(_p, encoding="utf-8").read(), _re.S)
+        return eval("(" + _m.group(1) + ")")
+    except Exception:
+        return "sweep swept;swing swung;stand stood;bind bound;feed fed"
+
+
 def charter_of(rid):
     """返回该规则执行的铁律条款，形如 ('第零条之三·二', '不许为凑满50个而硬塞重点词')。"""
     return CHARTER.get(rid)
@@ -496,24 +513,7 @@ def inspect(a, archive):
     #   定住的形状：**只查不规则变化**（drank/broken/fell/shown…）——**词性必然不变，
     #     学的还是同一个基本词。** 规则的 -ed/-ing/-s 一律不报。
     _IRRB = {}
-    for _grp in ("bear bore borne;begin began begun;bite bit bitten;"
-                 "blow blew blown;break broke broken;bring brought;build built;"
-                 "buy bought;catch caught;choose chose chosen;come came;dig dug;"
-                 "draw drew drawn;drink drank drunk;drive drove driven;"
-                 "eat ate eaten;fall fell fallen;feel felt;fight fought;"
-                 "find found;fly flew flown;forget forgot forgotten;"
-                 "freeze froze frozen;give gave given;grow grew grown;hang hung;"
-                 "hear heard;hide hid hidden;hold held;keep kept;know knew known;"
-                 "lay laid;lead led;leave left;lie lain;lose lost;mean meant;"
-                 "meet met;pay paid;ride rode ridden;ring rang rung;"
-                 "rise rose risen;run ran;say said;see saw seen;seek sought;"
-                 "sell sold;send sent;shake shook shaken;shine shone;shoot shot;"
-                 "show showed shown;sing sang sung;sink sank sunk;sit sat;"
-                 "sleep slept;speak spoke spoken;spend spent;stand stood;"
-                 "steal stole stolen;stick stuck;strike struck;swear swore sworn;"
-                 "take took taken;teach taught;tear tore torn;tell told;"
-                 "think thought;throw threw thrown;wear wore worn;win won;"
-                 "withdraw withdrew withdrawn;write wrote written").split(";"):
+    for _grp in (_load_irr()).split(";"):
         _f = _grp.split()
         for _x in _f[1:]:
             _IRRB[_x] = _f[0]
@@ -551,24 +551,7 @@ def inspect(a, archive):
     #   **跨篇**：本篇某个加粗词，与别篇某个加粗词是同一动词的不同形；
     #   **篇内**：本篇内部出现同一动词的两个形。
     _IRRG = {}
-    for _grp in ("bear bore borne;begin began begun;bite bit bitten;"
-                 "blow blew blown;break broke broken;bring brought;build built;"
-                 "buy bought;catch caught;choose chose chosen;come came;dig dug;"
-                 "draw drew drawn;drink drank drunk;drive drove driven;"
-                 "eat ate eaten;fall fell fallen;feel felt;fight fought;"
-                 "find found;fly flew flown;forget forgot forgotten;"
-                 "freeze froze frozen;give gave given;grow grew grown;hang hung;"
-                 "hear heard;hide hid hidden;hold held;keep kept;know knew known;"
-                 "lay laid;lead led;leave left;lie lain;lose lost;mean meant;"
-                 "meet met;pay paid;ride rode ridden;rise rose risen;run ran;"
-                 "say said;see saw seen;seek sought;sell sold;send sent;"
-                 "shake shook shaken;shine shone;shoot shot;show showed shown;"
-                 "sing sang sung;sink sank sunk;sit sat;sleep slept;"
-                 "speak spoke spoken;spend spent;stand stood;steal stole stolen;"
-                 "stick stuck;strike struck;swear swore sworn;take took taken;"
-                 "teach taught;tear tore torn;tell told;think thought;"
-                 "throw threw thrown;wear wore worn;win won;wind wound;"
-                 "withdraw withdrew withdrawn;write wrote written").split(";"):
+    for _grp in (_load_irr()).split(";"):
         for _x in _grp.split():
             _IRRG[_x] = _grp.split()
     _mine = [w.lower() for p_ in paras for w in _kw(p_["en"])]

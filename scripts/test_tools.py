@@ -1710,6 +1710,31 @@ check("写明原缺陷", "两者彼此自洽，守卫不报错" in _fg)
 check("附上第19篇的实测", "271/18.5 改成 269/18.6" in _fg)
 check("报错时给出正确值", "want ${cell1}" in _fg)
 
+
+# ── 不规则动词表全部同源（2026-09-02，同一类问题第七次）─────────────
+# **主动扫了一遍「同一份数据在两处各存一份」，扫出不规则动词表还有三份**：
+#   inspector.py 两处、swap.py 一处，**均只有 73 组，
+#   而 test_tools.py 那份有 94 组 —— 已经差了 21 组**
+#   （bind/bound、cling/clung、creep/crept、deal/dealt、feed/fed…）。
+# **这些词在检察官与 swap 里查不到，只有七层测试能逮住。**
+# **★★ 改为同源后，那 21 组当场逮出两条藏着的硬伤**：
+#   **第11篇 wound（原形 wind 在初中词表）、第23篇 understood（原形 understand 白送 5.37）**。
+#   已用 swap.py 换为 spun 与 construed；**第23篇因此拿到 100 分。**
+# **★ 这是主动扫出来的，不是撞出来的 —— 与前六次不同。**
+print("\n[同源] 不规则表四份合一")
+_ins5 = open(os.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read()
+_sw5 = open(os.path.join(ROOT, "scripts/swap.py"), encoding="utf-8").read()
+check("inspector 从 test_tools 读表", "_load_irr" in _ins5 and "test_tools.py" in _ins5)
+check("swap 从 test_tools 读表", "_load_irr" in _sw5 and "test_tools.py" in _sw5)
+check("两处都不再内联整表",
+      "bear bore borne" not in _ins5 and "bear bore borne" not in _sw5)
+check("写明差了 21 组", "差了 21 组" in _ins5)
+sys.path.insert(0, os.path.join(ROOT, "scripts"))
+import importlib, inspector as _im, swap as _sm
+importlib.reload(_im); importlib.reload(_sm)
+check("四份表规模一致（94 组）",
+      len(_im._load_irr().split(";")) == 94 and len(_sm._load_irr().split(";")) == 94)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
