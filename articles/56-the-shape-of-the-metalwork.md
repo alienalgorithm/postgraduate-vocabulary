@@ -2,7 +2,7 @@
 
 > 题材：英国换鸣：看着像民族性情的东西，往往只是器械的形状
 > 状态：**第五十六篇定稿**（2026-09-02）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 塞耶斯把英国换鸣归给民族性情。可它不是选择，是设备的形状——塔钟装在整轮上，拉绳的人只能略赶或略拖，停不住也弹不快。所以每次换序只能挪一位。低地国家的钟死装、键盘敲锤，排钟便能奏任何曲子。
 
 ---
@@ -13,11 +13,11 @@ Dorothy Sayers put it to national **temper**: the Belgian plays a **tune**, the 
 
 The bell hangs from a **headstock** on a full wheel. Mouth **upward**, through a whole **circle**, resting mouth up on the far side, its **clapper** striking the **lip** each way. The **treble** of a **peal** may weigh 600 pounds, the **tenor** a ton, its **tuning** set at the **foundry**.
 
-A ringer holds the **sallie**. He can **hurry** its **flight** or check it on the **slider**; he cannot stop it or play it fast. To **muffle** it, a leather **pad** goes on the clapper. So no bell shifts more than one place at a change, the clapper falling at **backstroke** as at hand: the limit of what a **rope** and **pulley** do to a turning ton of **metal**.
+A ringer holds the **sallie**. He can **hurry** the bell or check it to its **setting** on the **slider**; he cannot stop or play it fast. To **muffle** it, a leather **pad** goes on the clapper. So no bell shifts more than one place at a change, the clapper falling at **backstroke** as at hand: what a **rope** and **pulley** can do to a turning ton of **metal**.
 
 The Low Countries hung theirs dead in the **belfry**, bolted at the **crown** above the **transept**, struck by **hammers** from a keyboard above the **tomb** and **font**. A **carillon** takes any tune written for it, its player striking the **batons** above **crypt** and **vestry**.
 
-Given a **rig** that shuffles its notes one place at a time, the English wrote the only music such **tackle** makes. Four months by a **rota** of **sexton** and **bellman** sounds the full set on ten bells; a **muffled** ring spares the **churchyard** **pews**. What looks like a national **disposition** is often the shape of the metalwork under the **yew**.
+Given a **rig** that shuffles its notes one place at a time, the English wrote the only music such a **contraption** makes. Four months by a **rota** of **sexton** and **bellman** sounds the full set on ten bells; a **muffled** ring spares the **churchyard** **pews**. What looks like a national **disposition** is often the shape of the metalwork under the **yew**.
 
 ---
 
@@ -30,11 +30,11 @@ Given a **rig** that shuffles its notes one place at a time, the English wrote t
 
 钟吊在一副整轮的**钟轭**(headstock)上。口**朝上**(upward)起，转过一整**圈**(circle)，停在另一侧仍口朝上，**钟舌**(clapper)每一程都撞一下**钟唇**(lip)。一套**钟组**(peal)里最轻的**高音钟**(treble)约六百磅，**低音钟**(tenor)则重达一吨，它的**定音**(tuning)在**铸钟厂**(foundry)就定死了。
 
-拉钟人握着**绒把**(sallie)。他能把这一**程**(flight)略微**赶快**(hurry)，或靠**滑木**(slider)拖住；停不住，也弹不快。要**捂哑**(muffle)，得事先把皮**垫**(pad)绑上钟舌。所以每次换序，任何一口钟只能前后挪一位，钟舌在**返程**(backstroke)与去程各落一次：这是一根**绳**(rope)与一副**滑轮**(pulley)对一吨转动**金属**(metal)所能做的极限。
+拉钟人握着**绒把**(sallie)。他能把钟略微**赶快**(hurry)，或把它收到**滑木**(slider)上的**定位**(setting)；停不住，也弹不快。要**捂哑**(muffle)，得事先把皮**垫**(pad)绑上钟舌。所以每次换序，任何一口钟只能前后挪一位，钟舌在**返程**(backstroke)与去程各落一次：这是一根**绳**(rope)与一副**滑轮**(pulley)对一吨转动**金属**(metal)所能做的极限。
 
 低地国家把钟死装在**钟楼**(belfry)里，在**耳堂**(transept)之上用**冠部**(crown)螺栓固定，由**墓**(tomb)与**洗礼盆**(font)上方的键盘带动**铁锤**(hammers)敲击。一台**排钟**(carillon)能奏任何为它写的曲子；奏钟人在**地宫**(crypt)与**祭衣间**(vestry)之上击打那些**木杆**(batons)。
 
-既然这副**索具**(rig)每次只能把音挪一位，英国人就写了这套**索具**(tackle)唯一写得出的音乐。十口钟的全排列，要**司事**(sexton)与**摇钟人**(bellman)轮**班**(rota)不停地敲四个月；只有一次**捂哑**(muffled)的鸣响能放过**墓园**(churchyard)那几排**长凳**(pews)。看着像民族**禀性**(disposition)的东西，往往只是**紫杉**(yew)底下那副金属件的形状。
+既然这副**索具**(rig)每次只能把音挪一位，英国人就写了这副**装置**(contraption)唯一写得出的音乐。十口钟的全排列，要**司事**(sexton)与**摇钟人**(bellman)轮**班**(rota)不停地敲四个月；只有一次**捂哑**(muffled)的鸣响能放过**墓园**(churchyard)那几排**长凳**(pews)。看着像民族**禀性**(disposition)的东西，往往只是**紫杉**(yew)底下那副金属件的形状。
 
 ---
 
@@ -44,11 +44,11 @@ Given a **rig** that shuffles its notes one place at a time, the English wrote t
 
 **§2**（10词）headstock 钟轭｜upward 向上｜circle 圈｜clapper 钟舌｜lip 唇缘｜treble 高音钟｜peal 钟组；鸣响｜tenor 低音钟｜tuning 定音｜foundry 铸造厂
 
-**§3**（10词）sallie 绒把｜hurry 赶快｜flight 一程；飞行｜slider 滑木｜muffle 捂哑｜pad 垫｜backstroke 返程｜rope 绳｜pulley 滑轮｜metal 金属
+**§3**（10词）sallie 绒把｜hurry 赶快｜setting 定位；就位｜slider 滑木｜muffle 捂哑｜pad 垫｜backstroke 返程｜rope 绳｜pulley 滑轮｜metal 金属
 
 **§4**（10词）belfry 钟楼｜crown 冠部｜transept 耳堂｜hammers 铁锤（复）｜tomb 墓｜font 洗礼盆｜carillon 排钟｜batons 木杆（复）｜crypt 地宫｜vestry 祭衣间
 
-**§5**（10词）rig 索具｜tackle 索具；用具｜rota 轮值班表｜sexton 司事｜bellman 摇钟人｜muffled 捂哑的｜churchyard 墓园｜pews 长凳（复）｜disposition 禀性｜yew 紫杉
+**§5**（10词）rig 索具｜contraption 装置｜rota 轮值班表｜sexton 司事｜bellman 摇钟人｜muffled 捂哑的｜churchyard 墓园｜pews 长凳（复）｜disposition 禀性｜yew 紫杉
 
 ---
 
@@ -64,3 +64,4 @@ Given a **rig** that shuffles its notes one place at a time, the English wrote t
 - **本篇的机制边界**：这不是「英国人没有音乐感」的故事。**整轮吊挂并非缺陷，它换来的是别的东西**——钟能被精确地控制在半秒之内，**这才使几十人协同鸣出上千次不重复的序列成为可能。****本文的论点在一个更窄的地方：一种看似出于趣味的选择，其实由器械的形状决定。****⚠ 需注意：英国也有排钟（如利物浦），本文说的是塔钟换鸣这一支。**
 - **⚠ VAL-13 判为保留（pew／pews）**：§1 的 **pew** 是英国人推演排列时坐的那一张，§5 的 **pews** 是墓园里被钟声吵到的那几排——**同一个词的单复数，指两处不同的长凳，各有其值。****试过 bench（撞35篇）、seat（撞35篇）、stall（撞38篇），无一可用。****判据：两个形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。**
 - **⚠ BAL-02b 判为保留（§4 局部密度 22.2%）**：§4 是对照段，**十个名额全是排钟机构的部件**——钟楼／耳堂／冠部／木杆／铁锤／排钟／地宫／祭衣间／墓／洗礼盆，**缺一则对照不成立**。**试过加词降密度，触发 270 词上限当场回滚（+7）。****判据：降密度要加词，加词又超上限，二者相互拉扯——与第51篇 FIT-02 同型，判为保留。**
+- **★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「hurry its flight」——换鸣里钟的一程叫 stroke，不叫 flight。已删 flight。****二 · 「check it on the slider」——slider 是限位木条，拉钟人不是『靠它拖住』，而是把钟『收』到它上面的定位（set the bell）。已改为 check it to its setting on the slider。****三 · 「such tackle」——tackle 是滑轮索具，钟楼里不这么叫。已改为 contraption，取其通称义。****⚠ 三处的词都 vet 过、合规，错在放的位置。与第55篇 dike、第60篇 stalk／mash 同型。**
