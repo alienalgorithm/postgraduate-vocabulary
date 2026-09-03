@@ -533,51 +533,27 @@ function validateManifest(articles, manifest) {
   const readme = fs.existsSync(README_PATH) ? fs.readFileSync(README_PATH, 'utf8') : '';
   const handoff = fs.existsSync(HANDOFF_PATH) ? fs.readFileSync(HANDOFF_PATH, 'utf8') : '';
   if (!readme.includes('## 最终版本铁律')) errors.push('README final-version rule missing');
-  if (!readme.includes('| **16** | *The Wave That Should Not Have Arrived* | 1929—1952年英格·莱曼、P波阴影区与地球内核 | **270词 · 50词 · 18.5%** |')) {
-    errors.push('README article 16 final row is stale');
-  }
-  if (!readme.includes('| 17 | *The Few That Came Back* | 1909—1913年盖革—马斯登散射实验与卢瑟福核式原子 | **269词 · 50词 · 18.6%** |')) {
-    errors.push('README article 17 final row is stale');
-  }
-  if (!readme.includes('| **18** | *The Sky Would Not Go Quiet* | 1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景 | **269词 · 50词 · 18.6%** |')) {
-    errors.push('README article 18 final row is stale');
-  }
-  if (!readme.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269词 · 50词 · 18.6%** |')) {
-    errors.push('README article 19 final row is stale');
-  }
-  if (!readme.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **268词 · 50词 · 18.7%** |')) {
-    errors.push('README article 20 final row is stale');
-  }
-  if (!readme.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **271词 · 50词 · 18.5%** |')) {
-    errors.push('README article 28 final row is stale');
-  }
-  if (!readme.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **271词 · 50词 · 18.5%** |')) {
-    errors.push('README article 29 final row is stale');
-  }
-  if (!readme.includes('| **30** | ***The Window Floated on Tin*** | **1952—1959年皮尔金顿浮法玻璃、熔锡浴与液体自整平机制** | **271词 · 50词 · 18.5%** |')) {
-    errors.push('README article 30 final row is stale');
-  }
-  if (!handoff.includes('## 2. 最终版本铁律（最高优先级）')) errors.push('handoff final-version rule missing');
-  if (!handoff.includes('| **16** | ***The Wave That Should Not Have Arrived*** | **1929—1952年英格·莱曼、P波阴影区与地球内核** | **270 / 50 / 18.5%** | **第十六篇最终精进锁定稿** |')) {
-    errors.push('handoff article 16 final row is stale');
-  }
-  if (!handoff.includes('| **18** | ***The Sky Would Not Go Quiet*** | **1964—1992年彭齐亚斯、威尔逊、普林斯顿团队与宇宙微波背景** | **269 / 50 / 18.6%** | **第十八篇最终精进锁定稿** |')) {
-    errors.push('handoff article 18 final row is stale');
-  }
-  if (!handoff.includes('| **19** | ***Five Alarms, Still Descending*** | **1969年阿波罗11号1201/1202程序警报、优先级软件与地面‘继续’判断** | **269 / 50 / 18.6%** | **第十九篇最终精进锁定稿** |')) {
-    errors.push('handoff article 19 final row is stale');
-  }
-  if (!handoff.includes('| **20** | ***The Market Came After the Limit*** | **1990—2010年美国酸雨计划、二氧化硫总量控制与排放权交易** | **268 / 50 / 18.7%** | **第二十篇最终精进锁定稿** |')) {
-    errors.push('handoff article 20 final row is stale');
-  }
-  if (!handoff.includes('| **28** | ***The Route Became the Engine*** | **20世纪60年代—1989年多行星引力助推、Grand Tour轨道设计与Voyager 2外行星飞掠** | **271 / 50 / 18.5%** | **第二十八篇最终精进锁定稿** |')) {
-    errors.push('handoff article 28 final row is stale');
-  }
-  if (!handoff.includes('| **29** | ***The Ships Climbed on Rainwater*** | **1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制** | **271 / 50 / 18.5%** | **第二十九篇最终精进锁定稿** |')) {
-    errors.push('handoff article 29 final row is stale');
-  }
-  if (!handoff.includes('| **30** | ***The Window Floated on Tin*** | **1952—1959年皮尔金顿浮法玻璃、熔锡浴与液体自整平机制** | **271 / 50 / 18.5%** | **第三十篇最终精进锁定稿** |')) {
-    errors.push('handoff article 30 final row is stale');
+  // ★★★ 指标不再写死 —— 从数据层算（2026-09-02 改）
+  // **原先这里把 16—20 篇的整行期望硬编码。缺陷：
+  //   若 README 与本文件同时旧掉，两者彼此自洽，守卫不报错。**
+  // **实测**：第19篇早先从 271/18.5 改成 269/18.6，
+  //   **README 与本文件都还是旧值，preflight 一路全绿**；
+  //   直到一次全局 sed 误伤了 README，守卫才叫起来。
+  // **处置：与不规则动词表同例 —— 让指标只有一个来源（data/*.js）。**
+  for (const article of articles) {
+    const m = article.metrics;
+    if (!m) continue;
+    const cell1 = `**${m.words}词 · ${m.keywords}词 · ${m.density.toFixed(1)}%**`;
+    const cell2 = `**${m.words} / ${m.keywords} / ${m.density.toFixed(1)}%**`;
+    const rowRe = new RegExp(`^\\| \\*\\*${article.id}\\*\\* \\|.*$`, 'm');
+    const rRow = readme.match(rowRe);
+    if (rRow && !rRow[0].includes(cell1)) {
+      errors.push(`README article ${article.id} metrics stale (want ${cell1})`);
+    }
+    const hRow = handoff.match(rowRe);
+    if (hRow && !hRow[0].includes(cell2)) {
+      errors.push(`handoff article ${article.id} metrics stale (want ${cell2})`);
+    }
   }
   return errors;
 }

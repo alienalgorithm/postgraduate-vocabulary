@@ -1690,6 +1690,26 @@ check("复现 >10 时给出诊断", "论点词复现" in _ag14 and "_lost > 10" 
 check("写明两种病要分开", "甲·词不够" in _ag14 and "乙·论点词复现" in _ag14)
 check("附上实测对照", "第58篇复现 16" in _ag14 and "复现都是 0" in _ag14)
 
+
+# ── 守卫的指标不再写死，从数据层算（2026-09-02）─────────────────────
+# **原先 final-version-guard.js 把 16—20 篇的整行期望硬编码（15 处）。**
+# **缺陷：若 README 与守卫同时旧掉，两者彼此自洽，守卫不报错。**
+# **实测**：第19篇早先从 271/18.5 改成 269/18.6，
+#   **README 与守卫都还是旧值，preflight 一路全绿**；
+#   直到一次不带篇号锚点的全局 sed 误伤了 README，守卫才叫起来。
+# **处置：与不规则动词表同例 —— 让指标只有一个来源（data/*.js）。**
+# **实测回验**：把 README 第19篇改回 271/18.5 →
+#   **「README article 19 metrics stale (want **269词 · 50词 · 18.6%**)」**，
+#   并直接给出正确值。
+print("\n[守卫] 指标从数据层算")
+_fg = open(os.path.join(ROOT, "scripts/final-version-guard.js"), encoding="utf-8").read()
+check("不再有写死的整行期望", "final row is stale" not in _fg)
+check("改为遍历 articles 算", "for (const article of articles)" in _fg
+      and "metrics stale" in _fg)
+check("写明原缺陷", "两者彼此自洽，守卫不报错" in _fg)
+check("附上第19篇的实测", "271/18.5 改成 269/18.6" in _fg)
+check("报错时给出正确值", "want ${cell1}" in _fg)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
