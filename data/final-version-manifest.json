@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 58,
-  "keyword_count": 2900,
+  "article_count": 59,
+  "keyword_count": 2950,
   "articles": [
     {
       "id": "01",
@@ -1284,6 +1284,25 @@
       "canonical_fingerprint_sha256": "18b48244296808839d993ca0c435fb5ebab337b8cc9635572706db5a0f1c0566",
       "markdown_sha256": "422b2b6f71fda38f7d89e78cbc08bcfdfc3455d9133ef2d994501182b03434c5",
       "markdown_git_blob_sha": "e003f00455901a625df9cbd5a356fd96bafca30d",
+      "superseded_signatures": []
+    },
+    {
+      "id": "59",
+      "slug": "a-story-that-gives-a-luxury-some-use",
+      "title": "A Story That Gives a Luxury Some Use",
+      "title_zh": "一个给奢侈品安上用处的故事",
+      "version_id": "59-final",
+      "status": "第五十九篇定稿",
+      "date": "2026-09-02",
+      "words": 268,
+      "keywords": 50,
+      "density": 18.7,
+      "source": "2026-09-02。两次触止损点第二型，两次照《总令》重写更紧的一版（第二次 260词/43名额，腾出10词）。复现报告两次逮到「去重后只剩 42」。六条人读抓出两处编造（in the yard／errata he never issued）",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "19748468e82a7e71687a97da0f2775c9409f3e88ff1b37b1078779be28f3ba01",
+      "markdown_sha256": "d496621f4f1658958acb7b0a0360d386c99b8be9e4bc253634bfefcbf4d1ff13",
+      "markdown_git_blob_sha": "2ad24e0b393b59e0edb9ca179a676e0d3a056726",
       "superseded_signatures": []
     }
   ]

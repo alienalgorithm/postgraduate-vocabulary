@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '59': { source: '2026-09-02。两次触止损点第二型，两次照《总令》重写更紧的一版（第二次 260词/43名额，腾出10词）。复现报告两次逮到「去重后只剩 42」。六条人读抓出两处编造（in the yard／errata he never issued）', verification: 'conversation-latest-final' },
   '58': { source: '2026-09-02。触止损点第二型后照《总令》重写一版更紧的（240词/44名额，一口气余出30词），补足即成。首次入库即 100/100。六条人读随后抓出三处编造（douse/smith/poker-anvil），已改', verification: 'conversation-latest-final' },
   '57': { source: '2026-09-02。第一稿真名额仅34（复现16），按新装的 review 诊断「论点词复现→换角度」重写：让每段名额从各自词域取（经济史/那个人/图像/复原实验/流传），真名额 34→50、复现归零。STR-03 判为保留，理由在 facts', verification: 'conversation-latest-final' },
   '56': { source: '2026-09-02按三步法写成。先诊断出「初稿名额密度 16.7 远差于成稿的 8.5—10.6」，据此重写一次到位。两条判为保留（VAL-13 pew/pews、BAL-02b §4密度），理由在 facts', verification: 'conversation-latest-final' },
