@@ -52,7 +52,7 @@ TOPICS = [
     ("信鸽", "鸽子送的是股价不是军情", "pigeon loft roost coop message capsule leg ring homing basket release", False),
     ("驿站马车", "驿站的快是换马不是快马", "coach postilion stage relay ostler inn yard horn whip harness", False),
     ("石板路", "鹅卵石路是为马蹄不是为车轮", "cobble cobblestone kerb gutter hoof cartwheel rut paving setts flagstone", False),
-    ("烟囱清扫", "清扫童被禁的原因是保险不是人道", "chimney flue soot sweep brush climbing-boy scraper hearth cowl damper", False),
+    ("烟囱清扫", "1875 年法案加的只是执照与警察，禁令已三十五年", "chimney flue soot sweep brush climbing-boy scraper hearth cowl damper", True),
     ("煤气灯", "煤气灯照亮的是商店橱窗不是街道", "gaslight lamplighter mantle burner main meter retort coke tar jet", False),
     ("冰窖", "冰是从湖里锯出来运到印度的", "ice icehouse sawdust block pond saw tongs sledge insulation cargo", False),
     ("蜡烛", "鲸油蜡烛不是最亮的，是最贵的", "candle tallow wick wax spermaceti mould dip snuff taper chandler", False),
