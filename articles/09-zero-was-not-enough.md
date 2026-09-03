@@ -13,7 +13,7 @@ In October 1977 Ali Maow Maalin, a hospital **canteen** hand in Merca, Somalia, 
 
 The **disease** killed roughly three in ten it **struck**, and **scarred** two-thirds of the **survivors**. In 1967 the WHO **intensified** a **global** drive against it. But **coverage** figures were a poor **gauge**: a **province** could report ninety per cent and still **conceal** an unvaccinated village.
 
-The method came from a **shortage**. In December 1966 William Foege took a radio call on a **suspected** outbreak in eastern Nigeria, with nowhere near enough **serum** to go round. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**: chase cases, not coverage.
+The method came from a **shortage**. In December 1966 William Foege took a radio call on a **suspected** outbreak in eastern Nigeria, with nowhere near enough **lymph** to go round. He **ringed** that village instead, and three others linked by **kinship** and a **bazaar**. Thirty-five cases, then nothing at all. **Surveillance** and **containment** became the **standing** **strategy**: chase cases, not coverage.
 
 A report triggered inquiry: isolate the sick, trace **contacts**, vaccinate those and theirs. Freeze-dried vaccine **withstood** 45°C, so tropical storage worked; a **bifurcated** needle **cradled** a **dose** between its prongs, brief **instruction** let a worker **pierce** the arm and stretch **scarce** stock. Smallpox lived in no animal and stayed **silent** through **incubation**.
 
@@ -30,7 +30,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 这种**病**(disease)每**击中**(struck)十人约杀死三人，又在三分之二的**幸存者**(survivors)身上**留下**(scarred)麻坑。1967年，世卫组织把一场**全球**(global)攻势**加强**(intensified)了。可**接种率**(coverage)是很差的**标尺**(gauge)：一个**省**(province)可以报出九成，同时**藏着**(conceal)一个没打过疫苗的村子。
 
-方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**疫苗**(serum)远远不够分。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。
+方法是从**短缺**(shortage)里逼出来的。1966年12月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**痘苗**(lymph)远远不够分。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。
 
 此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗**耐得住**(withstood)45摄氏度，热带储运因此行得通；**双叉**(bifurcated)针的两齿之间正好**托**(cradled)住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
 
@@ -44,7 +44,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 **§2**（10词）disease 疾病｜struck 击中｜scarred 疤痕｜survivors 幸存者｜intensified 加强｜global 全球的｜coverage 接种率；覆盖｜gauge 标尺；量规｜province 省｜conceal 藏匿
 
-**§3**（10词）shortage 短缺｜suspected 疑似的｜serum 疫苗；血清｜ringed 围成一圈｜kinship 亲缘｜bazaar 集市｜surveillance 监测｜containment 围堵｜standing 常设的｜strategy 方略
+**§3**（10词）shortage 短缺｜suspected 疑似的｜lymph 痘苗（牛痘疫苗的旧称）｜ringed 围成一圈｜kinship 亲缘｜bazaar 集市｜surveillance 监测｜containment 围堵｜standing 常设的｜strategy 方略
 
 **§4**（10词）contacts 接触者（复）｜withstood 耐住；顶住｜bifurcated 双叉的｜cradled 托住；轻捧｜dose 剂量｜instruction 培训；指示｜pierce 刺入｜scarce 紧缺的｜silent 不声不响的｜incubation 潜伏期
 
@@ -69,3 +69,4 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 **无误七项**：**1967 年**世卫启动强化根除计划（Our World in Data 作 1966，两说，本文取多数的 1967）；天花病死率约 **三成**（重型天花约 30%）；**监测与遏制（环形接种）**为福奇所创、后成为标准策略；印度 **1974 年**疫情最烈（全年 188,000 例、31,000 死；5 月单周报告 11,000 新例），**1975 年 5 月 24 日最后一例、7 月 5 日宣告无证据**；**1978 年伯明翰实验室泄漏致 Janet Parker 死亡**（英国最后一例致死）；**1979 年委员会认证、1980 年世界卫生大会宣布根除**；马阿林 **2013 年死于疟疾**，当时正在为脊灰疫苗奔走。[UW Columns：Calling the Shots: Dr. William Foege](https://www.washington.edu/alumni/columns/top10/calling_the_shots.html)｜[WHO：History of smallpox vaccination](https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination)｜[密歇根大学展览：Smallpox Eradication in India, 1972-1977](https://apps.lib.umich.edu/online-exhibits/exhibits/show/smallpox-eradication-india/indian-engages-pandemic)
 - **已核（2026-08-20 · DEN-01 信息密度层首次产出）**：原文作「leaving **many** survivors blind or badly scarred」——**many 是形容词代替了数字**，而本篇别处每个数都给足了（三成、九成、三十五例、45°C、三分之二）。
 **世卫估计：65—80% 的天花幸存者留下深麻坑；5—9% 出现眼部并发症（含失明）。**正文已改为 **scarred two-thirds of the survivors**——取 65—80% 区间的下沿作保守表述。（失明一项因比例小得多、与麻坑不宜并列，已从该句移除；§1 马阿林与 §5 仍完整。）[NFID：The Triumph of Science](https://www.nfid.org/the-triumph-of-science-the-incredible-story-of-smallpox-eradication/)｜[PubMed：The ocular complications of smallpox](https://pubmed.ncbi.nlm.nih.gov/12742852/)
+- **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**「nowhere near enough serum」——天花疫苗不是血清；这个词是为避 vaccine 重复取的。中文侧本已译作「疫苗」。已改为 lymph——牛痘疫苗的历史称法是 vaccine lymph，1960 年代 WHO 文件仍沿用，福格那一代接种员就是这么叫的。**

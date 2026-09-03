@@ -11,7 +11,7 @@
 
 In 1820 Hans Christian Ørsted showed that a **wire** carrying **electricity** **swung** a **compass** **lying** nearby. Michael Faraday **reversed** the question: could a **magnet** make electricity? He had been trying since 1825 and failing, because he expected a **steady** magnet to yield a steady **trickle** — an **unchanging** cause with a lasting effect.
 
-On 29 August 1831 he **spun** two **windings** on opposite **halves** of a soft **iron** ring six inches across. One held a **battery**, the other a galvanometer. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.
+On 29 August 1831 he **lapped** two **windings** on opposite **halves** of a soft **iron** ring six inches across. One held a **battery**, the other a galvanometer. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.
 
 A changing magnetic **flux** through a **loop** **induces** an electromotive force, **driving** charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.
 
@@ -28,7 +28,7 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 
 1820年，汉斯·克里斯蒂安·奥斯特发现：一根通**电**(electricity)的**导线**(wire)，会让**躺**(lying)在旁边的**罗盘**(compass)针**摆**(swung)动。迈克尔·法拉第把问题**倒**(reversed)了过来：**磁铁**(magnet)能不能生电？他从1825年起一试再试，屡屡落空——因为他指望一块**稳定的**(steady)磁铁产生稳定的**细流**(trickle)，指望一个**不变的**(unchanging)原因带来持续的结果。
 
-1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**绕**(spun)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。
+1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**缠绕**(lapped)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。
 
 穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出电动势，**驱使**(driving)电荷绕**导体**(conductor)流动。10月17日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。
 
@@ -42,7 +42,7 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 
 **§1**（10词）wire 导线｜electricity 电｜swung 摆｜compass 罗盘；指南针｜lying 躺｜reversed 倒｜magnet 磁铁｜steady 稳定的｜trickle 细流；涓流｜unchanging 不变的
 
-**§2**（10词）spun 纺；旋转｜windings 线圈；绕组｜halves 半｜iron 铁｜battery 电池｜kick 蹬；踢｜nought 零｜jerked 猛跳；猛拉｜switching 通断；切换｜interval 持续的间隔
+**§2**（10词）lapped 缠绕；一圈圈裹上｜windings 线圈；绕组｜halves 半｜iron 铁｜battery 电池｜kick 蹬；踢｜nought 零｜jerked 猛跳；猛拉｜switching 通断；切换｜interval 持续的间隔
 
 **§3**（10词）flux 通量｜loop 回路｜induces 感生；引起｜driving 驱使；驱动｜conductor 导体｜thrust 插入；猛推｜bar 条形的；棒｜helix 螺线管；螺旋｜withdrawal 抽出；撤回｜motionless 静止的
 
@@ -71,3 +71,4 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 **1831年10月28日**铜盘在磁极间旋转、由轴心与边缘取出连续电流——即圆盘发电机；
 **皮克西 1832 年**造出磁电机。
 **⚠ 一处两说并存，而正文正好避开了**：约瑟夫·亨利独立发现感应的年份——**Britannica 与 EDN 作 1830 年**（「Henry had discovered electric induction quite independently in 1830」）；**Wikipedia、计算机历史博物馆、EPFL 作 1832 年**。**正文只写 had found induction independently but published later，未给年份**——在两说之间，不给年份反而是最稳的写法。[Royal Institution：Faraday's ring-coil apparatus](https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus)｜[Britannica：Faraday's discovery of electric induction](https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction)｜[Ri Science：法拉第日记原文](https://ri-science.tumblr.com/post/96087497062/on-the-29th-august-1831-michael-faraday-achieved)
+- **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**「spun two windings on…a soft iron ring」——绕线圈是 wound，spun 是『纺』。而 spun 正是早先为消 VAL-14（wound 的原形 wind 在初中词表）换上的——为消一条待核换出了一个不对的词。**coiled 撞本篇 coils，wrapped 撞第05篇，已改为 lapped（绕线工艺用语：一圈圈裹上）。

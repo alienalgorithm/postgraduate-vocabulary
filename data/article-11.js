@@ -22,8 +22,8 @@
           "zh": "1820年，汉斯·克里斯蒂安·奥斯特发现：一根通**电**(electricity)的**导线**(wire)，会让**躺**(lying)在旁边的**罗盘**(compass)针**摆**(swung)动。迈克尔·法拉第把问题**倒**(reversed)了过来：**磁铁**(magnet)能不能生电？他从1825年起一试再试，屡屡落空——因为他指望一块**稳定的**(steady)磁铁产生稳定的**细流**(trickle)，指望一个**不变的**(unchanging)原因带来持续的结果。"
         },
         {
-          "en": "On 29 August 1831 he **spun** two **windings** on opposite **halves** of a soft **iron** ring six inches across. One held a **battery**, the other a galvanometer. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.",
-          "zh": "1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**绕**(spun)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。"
+          "en": "On 29 August 1831 he **lapped** two **windings** on opposite **halves** of a soft **iron** ring six inches across. One held a **battery**, the other a galvanometer. Closing the battery gave the needle one **kick**; it fell back to **nought** while the battery ran on. Parting the connection **jerked** it the other way. The **switching** made electricity; the steady **interval** between made none.",
+          "zh": "1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**缠绕**(lapped)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。"
         },
         {
           "en": "A changing magnetic **flux** through a **loop** **induces** an electromotive force, **driving** charge round the **conductor**. On 17 October Faraday **thrust** a **bar** magnet into a **helix** and drew it out. Each thrust and each **withdrawal** moved the needle. Held **motionless** inside the helix, the magnet did nothing.",
@@ -90,8 +90,8 @@
           "p": 1
         },
         {
-          "w": "spun",
-          "zh": "纺；旋转",
+          "w": "lapped",
+          "zh": "缠绕；一圈圈裹上",
           "p": 2
         },
         {
@@ -299,7 +299,8 @@
         "现代发电沿用同一循环：蒸汽、水力或风力驱动汽轮机，转轴带动磁场扫过定子线圈，输出经变压后并入电网。定量表述为：穿过回路的磁通量变化率决定感生电动势。　[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)",
         "法拉第自1820年代初起多次尝试「磁生电」而未果，其失败笔记可上溯至1824年前后；正文取1824年作为长期尝试的起点。　[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)",
         "**年份订正（2026-08-16）**：正文原写 He had been trying since **1824**，查证后改为 **1825**——APS 记为「Ever since 1825」，皇家研究院记为「During the 1820s」，无来源支持 1824。[APS News：Faraday and electromagnetism](https://www.aps.org/apsnews/2001/08/faraday-electromagnetism)",
-        "**已核（2026-08-20 逐条上网）· 六项无误，零翻案，并有一处正好避开了两说**：\n**1831年8月29日**软铁环双线圈实验——法拉第日记原文：「Have had an iron ring made (soft iron), iron round and **7/8 inches thick** and ring **6 inches in external diameter**」；\n**指针的两次动作亦为日记原话**：「immediately a sensible effect on needle. It **oscillated and settled at last in original position**. On breaking connection of A side with Battery **again a disturbance of the needle**」——正文「摆一下、回原位；断开时再动一下」与原始记录逐字对应；\n**两个月内**法拉第又找到感应的多种其他表现（Wikipedia：Within two months…）；\n**1831年10月28日**铜盘在磁极间旋转、由轴心与边缘取出连续电流——即圆盘发电机；\n**皮克西 1832 年**造出磁电机。\n**⚠ 一处两说并存，而正文正好避开了**：约瑟夫·亨利独立发现感应的年份——**Britannica 与 EDN 作 1830 年**（「Henry had discovered electric induction quite independently in 1830」）；**Wikipedia、计算机历史博物馆、EPFL 作 1832 年**。**正文只写 had found induction independently but published later，未给年份**——在两说之间，不给年份反而是最稳的写法。[Royal Institution：Faraday's ring-coil apparatus](https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus)｜[Britannica：Faraday's discovery of electric induction](https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction)｜[Ri Science：法拉第日记原文](https://ri-science.tumblr.com/post/96087497062/on-the-29th-august-1831-michael-faraday-achieved)"
+        "**已核（2026-08-20 逐条上网）· 六项无误，零翻案，并有一处正好避开了两说**：\n**1831年8月29日**软铁环双线圈实验——法拉第日记原文：「Have had an iron ring made (soft iron), iron round and **7/8 inches thick** and ring **6 inches in external diameter**」；\n**指针的两次动作亦为日记原话**：「immediately a sensible effect on needle. It **oscillated and settled at last in original position**. On breaking connection of A side with Battery **again a disturbance of the needle**」——正文「摆一下、回原位；断开时再动一下」与原始记录逐字对应；\n**两个月内**法拉第又找到感应的多种其他表现（Wikipedia：Within two months…）；\n**1831年10月28日**铜盘在磁极间旋转、由轴心与边缘取出连续电流——即圆盘发电机；\n**皮克西 1832 年**造出磁电机。\n**⚠ 一处两说并存，而正文正好避开了**：约瑟夫·亨利独立发现感应的年份——**Britannica 与 EDN 作 1830 年**（「Henry had discovered electric induction quite independently in 1830」）；**Wikipedia、计算机历史博物馆、EPFL 作 1832 年**。**正文只写 had found induction independently but published later，未给年份**——在两说之间，不给年份反而是最稳的写法。[Royal Institution：Faraday's ring-coil apparatus](https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus)｜[Britannica：Faraday's discovery of electric induction](https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction)｜[Ri Science：法拉第日记原文](https://ri-science.tumblr.com/post/96087497062/on-the-29th-august-1831-michael-faraday-achieved)",
+        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**「spun two windings on…a soft iron ring」——绕线圈是 wound，spun 是『纺』。而 spun 正是早先为消 VAL-14（wound 的原形 wind 在初中词表）换上的——为消一条待核换出了一个不对的词。**coiled 撞本篇 coils，wrapped 撞第05篇，已改为 lapped（绕线工艺用语：一圈圈裹上）。"
       ]
     }
   ]);
