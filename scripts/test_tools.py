@@ -14,6 +14,41 @@
 import os, re, sys, json, subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# ★★★ 反例词改为运行时现挑（2026-09-02，第二次被咬之后）
+# **原先把 shackle／pledged 写死作「不撞的词」，而第58篇正文用掉了这两个词，
+#   三条测试同时报红。** 换成 gantry／trestle 只是把问题推后一篇。
+# **★ 根子：反例必须是「还没人用的词」，而库每写一篇就少一批 ——
+#   这份数据归库所有，不该在测试里写死。**（与守卫指标、不规则表同例。）
+# **处置：跑测试时从词频表里现挑一个未占用的词。**
+def _fresh_word(aid):
+    """现挑一个该篇可用的词作反例 —— 不写死，跟着库走。"""
+    try:
+        from wordfreq import top_n_list, zipf_frequency as _z
+        sys.path.insert(0, os.path.join(ROOT, "scripts"))
+        from agent import load as _ld, used_index, norm as _nm, stem as _st, kin as _kn
+        _arts = _ld()
+        _ex, _sm, _ = used_index(_arts, None)
+        _basic = set(open(os.path.join(ROOT, "data/reference/basic-wordlist.txt"),
+                          encoding="utf-8").read().split())
+        for _w in top_n_list("en", 30000):
+            if not _w.isalpha() or not 4 < len(_w) < 12:
+                continue
+            if not 2.4 < _z(_w, "en") < 4.4:
+                continue
+            if _w in _basic or _w.rstrip("s") in _basic:
+                continue
+            if _nm(_w) in _ex or _st(_w) in _sm:
+                continue
+            if any(_kn(_w, _x) for _x in _ex):
+                continue
+            return _w
+    except Exception:
+        pass
+    return "gantry"
+
+_FRESH = _fresh_word("47")
+
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 os.chdir(ROOT)
 import inspector as I
@@ -1191,14 +1226,14 @@ check("接进了 why 的判断链", "是同一动词（不规则变化）" in _a
 check("写明这是真漏洞及其来历",
       "靠封版时的" in _ag3 and "白跑一趟 vet" in _ag3)
 _r3 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                      "vet", "47", "wore", "gantry"],
+                      "vet", "47", "wore", _FRESH],
                      capture_output=True, text=True, timeout=180).stdout
 check("实测：wore 被拦下（撞第38篇 wear）",
       "wore" in _r3 and "同一动词" in _r3)
 # ★ 反例原用 flew，而新装的 VAL-14 正确地把它拦下了
 #   （原形 fly 在初中词表，flew 不在 —— 屈折形绕过初中词检查）。
 #   **判据没错，是反例挑错了词**：换成 shackle（无任何冲突）。
-check("实测：不撞的词仍放行", "可用：gantry" in _r3)
+check("实测：不撞的词仍放行（现挑 %s）" % _FRESH, "可用：%s" % _FRESH in _r3)
 
 
 # ── vet 篇内查四层（2026-09-01）───────────────────────────────
@@ -1218,11 +1253,11 @@ check("篇内查同根", "与本篇的 %s 同根" in _ag4)
 check("写明这是第三次同形的漏洞",
       "两道网的判据必须一致" in _ag4)
 _r4 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                      "vet", "48", "tuck", "trestle"],
+                      "vet", "48", "tuck", _FRESH],
                      capture_output=True, text=True, timeout=180).stdout
 check("实测：tuck 被拦下（本篇已有 tucked）",
       "tuck" in _r4 and "本篇已用同词元" in _r4)
-check("实测：不撞的词仍放行", "trestle" in _r4 and "可用：" in _r4)
+check("实测：不撞的词仍放行（现挑 %s）" % _FRESH, _FRESH in _r4 and "可用：" in _r4)
 
 
 # ── VAL-15 不规则变化重复（2026-09-01 立）───────────────────────
@@ -1454,6 +1489,7 @@ check("写明判为保留是正当结论", "判为保留是正当结论" in _ch8
 # **★ 而我第一版把 VAL-14 的条件写漏了一半**（只写「原形是白送词」，
 #   漏了「而屈折形不是」），**把 flew 也拦了，回归测试当场报红**——
 #   **照抄检察官的判据，不要自己另写。**
+
 # ⚠ **反例词会被后续篇目占用**（2026-09-02 实测）：
 #   原用 shackle 与 pledged 作「不撞的词」，**第58篇把 shackle 与 pledge 写进了正文**，
 #   三条测试同时报红。**已换为 gantry／trestle。**
@@ -1468,11 +1504,11 @@ check("条件与检察官逐字相同（两半都在）",
       and "_b14 in basic and wl not in basic" in _ag9,
       "★ 第一版漏了后半个条件，把 flew 也拦了")
 _r9 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                      "vet", "45", "bars", "gantry"],
+                      "vet", "45", "bars", _FRESH],
                      capture_output=True, text=True, timeout=180).stdout
 check("实测：bars 被拦（撞本篇 barred）",
       "bars" in _r9 and "本篇已用同词元" in _r9)
-check("实测：无冲突的词仍放行", "gantry" in _r9 and "可用：" in _r9)
+check("实测：无冲突的词仍放行（现挑 %s）" % _FRESH, _FRESH in _r9 and "可用：" in _r9)
 
 
 # ── lockstep.py 等长改（2026-09-01 立，同一次会话犯了五次）──────────
@@ -1758,6 +1794,30 @@ import importlib, core as _cm
 importlib.reload(_cm)
 check("阈值取得到且正确",
       (_cm.WORD_MAX, _cm.WORD_MIN, _cm.SLOTS, _cm.SCORE_FLOOR) == (270, 240, 50, 95))
+
+
+# ── 反例词现挑，不再写死（2026-09-02，第二次被咬之后）─────────────
+# **原先写死 shackle／pledged 作「不撞的词」，第58篇正文用掉了这两个词，
+#   三条测试同时报红。** 换成 gantry／trestle 只是把问题推后一篇。
+# **★ 根子：反例必须是「还没人用的词」，而库每写一篇就少一批 ——
+#   这份数据归库所有，不该在测试里写死。**（与守卫指标、不规则表同例。）
+# **处置：_fresh_word() 在跑测试时从词频表里现挑一个未占用的词。**
+# **实测**：本次挑到 abroad，且 `vet 47 abroad` 确认「词频 4.39 可用」。
+print("\n[测试] 反例词现挑")
+_tt2 = open(os.path.join(ROOT, "scripts/test_tools.py"), encoding="utf-8").read()
+check("有 _fresh_word 且现挑", "_fresh_word" in _tt2 and "_FRESH = _fresh_word" in _tt2)
+check("三处反例都用 _FRESH", _tt2.count("_FRESH]") >= 3)
+# ⚠ 只查 subprocess 调用行里有没有写死的词 —— 注释与判据自身不算。
+#   （第一版判据把自己那一行也扫进去了，永远报红。）
+# ★ 只查「不撞的词仍放行」那三条 —— 用作正例（该被拦下）的词本就该写死。
+# ⚠ 数的是 check( 调用行，不是全文出现次数 ——
+#   **前一版直接 count 全文，把判据自己那一行也数进去了（第二次犯同一个错）。**
+_pos = len([l for l in _tt2.splitlines()
+            if l.strip().startswith("check(") and "的词仍放行（现挑" in l])
+check("三条反例都改为现挑", _pos == 3,
+      "★ 实得 %d 条；用作正例（该被拦下）的词不在此列" % _pos)
+check("写明这份数据归库所有", "这份数据归库所有" in _tt2)
+check("现挑的词确实可用", bool(_FRESH) and len(_FRESH) > 3)
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
