@@ -2148,16 +2148,19 @@ if _arts_g is None:
     _js = "globalThis.window=globalThis;" + "".join("require(%s);" % _j.dumps(os.path.abspath(os.path.join(ROOT, "data", f)))
         for f in sorted(os.listdir(os.path.join(ROOT, "data"))) if f.endswith(".js")) + "process.stdout.write(JSON.stringify(globalThis.SITE.ARTICLES))"
     _arts_g = _j.loads(_sp.run(["node", "-e", _js], capture_output=True, text=True).stdout)
+# ⚠ 第一版判据写成「速查表释义 == 正文括注」，全库 60 篇起全报不一致——**前提错了**：
+#   速查表是词典义（「褪色的」），正文括注是语境译（「褪」），本来就该不同；MET-09 只查语义错位（如「（复）」对「们」）。
+#   改为：正文括注抽得出、键与速查表一致。
 _mism = []
 for _a in _arts_g:
     if int(_a["id"]) >= 60:
         try:
             _g = _core.glossary_from_paras(_a["paras"])
-            if [x["zh"] for x in _g] != [x["zh"] for x in _a["glossary"]]:
+            if [x["w"] for x in _g] != [x["w"] for x in _a["glossary"]]:
                 _mism.append(_a["id"])
         except AssertionError:
             _mism.append(_a["id"])
-check("实测：第60篇起速查表与正文括注一致", not _mism, "不一致：%s" % _mism)
+check("实测：第60篇起正文括注抽得出、键与速查表一致", not _mism, "不一致：%s" % _mism)
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")

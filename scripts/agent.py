@@ -641,7 +641,7 @@ def vet(arts, aid, words):
                 if _form == wl:
                     continue
                 _zf = z(_form, "en")
-                if _zf and _zf < 2.2:
+                if _zf and _zf < core.RARE_MAX:   # ★ 从 core 读（samesource 当场逮出裸写的 2.2）
                     _infl.append("%s(%s %.1f 生僻)" % (_form, _suf, _zf))
             if _infl:
                 print("      ⚠ 屈折形词频不足，正文别用：%s" % "、".join(_infl))
