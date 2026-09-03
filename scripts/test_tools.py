@@ -1865,7 +1865,8 @@ check("写明只做分诊不下判断", "核实与判断仍由人做" in _ut)
 check("写明为何该立而前四条不该", "不是趣味判断" in _ut)
 _r15 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/untraced.py")],
                       capture_output=True, text=True, timeout=300).stdout
-_n15 = _r15.count("…")
+# ⚠ 每处命中一行、两个「…」——数行不数字符（2026-09-03 改，此前判据把 12 处数成 24）
+_n15 = sum(1 for _l in _r15.splitlines() if "…" in _l)
 # ⚠ 补上拼写数字后命中回升（thirty／ten thousand 那一类），**这是工具变强不是变差**。
 # ⚠ 2026-09-03 补上「N 万」「1.6 million」「fifteen／十五」的换算后，全库 30 → 12。
 check("全库命中在可人核的范围内", _n15 < 20,
