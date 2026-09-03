@@ -2,7 +2,7 @@
 
 > 题材：1879—1914年巴拿马运河船闸方案、加通湖与重力供水机制
 > 状态：**第二十九篇最终精进锁定稿**（2026-08-24）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 巴拿马运河没有把整条水道一直挖到海平面。它拦住查格雷斯河，把雨水蓄成高于海面的加通湖，再让重力在一级级船闸中把船抬起、放下。
 
 ---
@@ -15,7 +15,7 @@ The **decisive** move instead turned **elevation** from an obstacle into a **res
 
 Each lock's **mitre** **gates** enclosed a vessel. **Operators** opened upper valves; lake water flowed through 18-foot-diameter **culverts**, then rose through 100 floor **openings**, limiting **turbulence**. Only when water levels matched could the upper gate open. No pump lifted the ship: **gravity** moved water **downhill** while **buoyancy** kept the hull **afloat**.
 
-Repeating the cycle was a **formidable** challenge. Three Gatun steps, one at Pedro Miguel and two at Miraflores **comprised** six **chamber** pairs in **adjacent** **lanes**; each chamber was 110 by 1,000 feet. Lock design fell **chiefly** to Hodges, Schildhauer and Goldmark; **Barbados** alone sent 45,000, near a **quarter** of its people, into that workforce. Ancon **inaugurated** the **waterway** on 15 August 1914.
+Repeating the cycle was a **formidable** challenge. Three Gatun steps, one at Pedro Miguel and two at Miraflores **comprised** six **chamber** pairs in **adjacent** **lanes**; each chamber was 110 by 1,000 feet. Lock design fell **chiefly** to Hodges, Schildhauer and Goldmark; **Barbados** alone sent 45,000 men, near a **quarter** of its people, into that workforce. Ancon **inaugurated** the **waterway** on 15 August 1914.
 
 The **hydraulic** **staircase** came at a price. A traditional transit released about 52 million **gallons** of **freshwater** to the ocean. **Concrete** fixed the geometry, but **rainfall** **replenished** the working fluid that every lockage sent through culverts towards the ocean. The **shortcut** was therefore **hydrological**, dependent on Panama's **watershed**: ships climbed the divide on stored rainwater.
 
@@ -68,3 +68,4 @@ The **hydraulic** **staircase** came at a price. A traditional transit released 
 **§1 的结构亦有闸务局自家表述支持**：「Stevens 游说国会，正如 1879 年法国人 Godin de Lépinay 在巴黎国际大会上游说过一样。**区别在于斯蒂文斯成功了。**」
 **⚠ 一项本轮未能核实**：正文 §4 的 **56,307 名工人**。此数广见于坊间引述，但本轮检索未取得运河管理局或权威史著的直接出处，**如实标为待复核**，下轮补。[Autoridad del Canal de Panamá：Design of the Locks](https://pancanal.com/en/design-of-the-locks/)｜[Autoridad del Canal de Panamá：American canal construction](https://pancanal.com/en/american-canal-construction/)｜[Linda Hall Library：Locks](https://www.lindahall.org/experience/digital-exhibitions/the-land-divided-the-world-united/08-locks/)｜[American Heritage：A Man, A Plan, A Canal, Panama!](https://www.americanheritage.com/man-plan-canal-panama)
 - **★★ 已核 · 一处数字拼接已改（2026-09-02，untraced.py 分诊后核出）**：**原文作「巴巴多斯一岛就送来 19,448 人，近乎全岛人口的四分之一」——两个数被拼在了一起。****「近四分之一」对应的是总迁出数**：**「1904 至 1916 年间，四万五千余名巴巴多斯人迁往巴拿马，约相当于该岛人口的四分之一。」** **而 19,448 是运河委员会正式招募的合同工那一档，远小于总迁出，配不上「四分之一」。已改为 45,000。****⚠ 这个数此前 facts 里一条也没有** —— `untraced.py` 逮出的第一处真错。**★ 顺带修掉一个旧问题：本篇入库时就是 271 词（超上限 1 词），此次一并削回 270。**[Picturing Black History](https://picturingblackhistory.org/black-laborers-on-the-panama-canal/)
+- **⚠ 一处被误削的词已补回（2026-09-02）**：**改「19,448」为「45,000」时，我为把词数压到 270 而删掉了 men，写成「sent 45,000, near a quarter」——读来突兀。****而 271 本来就是合规的**（MET-01 的上限是 271，是我在 core.py 里把它记成了 270）。**men 已补回。****★ 这一刀是在错误的判据下削的 —— 「多篇同时报错时，先怀疑判据」。**

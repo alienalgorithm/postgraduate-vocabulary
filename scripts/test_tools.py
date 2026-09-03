@@ -1890,6 +1890,23 @@ _r16 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/lockstep.py")
                       capture_output=True, text=True, timeout=120).stdout
 check("实测：271 词的第28篇不再被拦", "✓" in _r16)
 
+
+# ── 多篇同时报错时，先怀疑判据（2026-09-02 立，差点造成实害）──────────
+# 补注第28篇时被 lockstep 拦「271 词超上限 270」，
+# **我一度以为是旧问题，还顺手把第29篇削回 270（削掉 men，句子读来突兀）。**
+# **再查才发现全库十三篇都是 271 词** —— 十三篇同时「出错」，多半不是它们错。
+# 病根：core.py 凭印象写死 WORD_MAX=270，而检察官 MET-01 一直是 249, 271。
+# **★ 若不查那十三篇，我会照着「超上限」去削十三篇本来合规的文章。**
+# **这是本会话离造成实害最近的一次：判据错了，而它指挥的是删改正文。**
+# **判法**：报出集中在两三篇 → 多半是文章的问题；
+#         **散在十来篇 → 先读判据，再动正文。**
+print("\n[判断] 多篇同时报错先怀疑判据")
+_ch15 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+check("《总令》立了这一条", "多篇同时报错时，先怀疑判据" in _ch15)
+check("附上十三篇与病根", "十三篇同时" in _ch15 and "249, 271" in _ch15)
+check("写明差点造成实害", "离造成实害最近的一次" in _ch15)
+check("给出判法", "散在十来篇" in _ch15)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
