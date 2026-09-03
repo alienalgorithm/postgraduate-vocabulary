@@ -68,12 +68,38 @@ def load(aid=None):
     return json.loads(out) if out.strip() else []
 
 
+def _expand(text):
+    """把「7.2 万」「1.6 million」「fifteen」这类写法换算成阿拉伯数，追加到文本末尾，
+    好让比对能对上。（2026-09-03 补：第61篇四处假阳性全出在这里。）"""
+    extra = []
+    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*万", text):
+        extra.append(str(int(round(float(m.group(1)) * 10000))))
+    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*(million|billion|thousand)", text, re.I):
+        mult = {"million": 1e6, "billion": 1e9, "thousand": 1e3}[m.group(2).lower()]
+        extra.append(str(int(round(float(m.group(1)) * mult))))
+    _small = {"eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15,
+              "sixteen": 16, "seventeen": 17, "eighteen": 18, "nineteen": 19,
+              "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50, "sixty": 60,
+              "seventy": 70, "eighty": 80, "ninety": 90}
+    for w, n in _small.items():
+        if re.search(r"\b%s\b" % w, text, re.I):
+            extra.append(str(n))
+    return text + " " + " ".join(extra)
+
+
 def scan(art):
     body = " ".join(p["en"] + " " + p["zh"] for p in art["paras"])
-    facts = " ".join(art.get("facts", []))
-    stand = art.get("standfirst", "")
+    facts = _expand(" ".join(art.get("facts", [])))
+    stand = _expand(art.get("standfirst", ""))
     hits = []
     seen = set()
+    # ★ 正文里「N 万」这种写法：直接按换算后的数去 facts 里找，找到即不报
+    for m in re.finditer(r"(\d+(?:\.\d+)?)\s*万", body):
+        _v = str(int(round(float(m.group(1)) * 10000)))
+        seen.add(m.group(1))
+        if _v not in facts.replace(",", "") and _v not in stand.replace(",", ""):
+            i = m.start()
+            hits.append((m.group(0), "", body[max(0, i - 46):i + 34].replace("\n", " ")))
     for m in NUM.finditer(body):
         num, tail = m.group(1), m.group(2).strip()
         if num in SKIP or num in seen:
@@ -94,6 +120,9 @@ def scan(art):
         i = m.start()
         hits.append((num, tail, body[max(0, i - 46):i + 34].replace("\n", " ")))
     # ★ 拼写形式：换算成数字后同样比一遍
+    _cn = {"11": "十一", "12": "十二", "13": "十三", "14": "十四", "15": "十五", "16": "十六",
+           "17": "十七", "18": "十八", "19": "十九", "20": "二十", "30": "三十", "40": "四十",
+           "50": "五十", "60": "六十", "70": "七十", "80": "八十", "90": "九十"}
     for m in SPELLED.finditer(body):
         w = m.group(1).lower()
         key = w.split("-")[-1] if "-" in w else w.split()[-1]
@@ -102,7 +131,13 @@ def scan(art):
             continue
         seen.add(w)
         blob = (facts + stand).replace(",", "").lower()
-        if num in blob or w in blob:
+        # 「1.6 million」这类：前面有数字，按乘积去比
+        _pre = body[max(0, m.start() - 8):m.start()]
+        _pm = re.search(r"(\d+(?:\.\d+)?)\s*$", _pre)
+        if _pm and key in ("million", "billion", "thousand"):
+            _mult = {"million": 1e6, "billion": 1e9, "thousand": 1e3}[key]
+            num = str(int(round(float(_pm.group(1)) * _mult)))
+        if num in blob or w in blob or _cn.get(num, "\x00") in blob:
             continue
         i = m.start()
         hits.append((w, "（拼写）", body[max(0, i - 46):i + 34].replace("\n", " ")))

@@ -1867,8 +1867,9 @@ _r15 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/untraced.py")
                       capture_output=True, text=True, timeout=300).stdout
 _n15 = _r15.count("…")
 # ⚠ 补上拼写数字后命中回升（thirty／ten thousand 那一类），**这是工具变强不是变差**。
-check("全库命中在可人核的范围内", _n15 < 40,
-      "★ 实得 %d 处（第一版 92 处 → 归一化后 3 处 → 补拼写数字后回升）" % _n15)
+# ⚠ 2026-09-03 补上「N 万」「1.6 million」「fifteen／十五」的换算后，全库 30 → 12。
+check("全库命中在可人核的范围内", _n15 < 20,
+      "★ 实得 %d 处（92 → 3 → 补拼写数字 30 → 补换算 12）" % _n15)
 
 
 # ── core 的词数上限曾写错，已改为从检察官读（2026-09-02，第八处两份数据）──
@@ -2046,6 +2047,21 @@ _ch18 = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
 check("《总令》记了总账", "全库六十篇已用「行家会这么说吗」走完一遍" in _ch18)
 check("附上四段曲线", "44—60 | 17 | 30" in _ch18 and "01—14 | 14 | 2" in _ch18)
 check("点出两类七处与十一处", "为消一条待核换出不对的词」七处" in _ch18 and "中文侧本已译对而英文错」十一处" in _ch18)
+
+
+# ── untraced.py 补数字写法换算（2026-09-03）───────────────────────
+# 第61篇入库时报 4 处：中文「7.2 万」「1.9 万」、英文「1.6 million」「fifteen」——
+# **facts 里都有对应值（72,000／19,000／160 万／十五年），是工具比不上不同写法。**
+# 补上 _expand：「N 万」→N×10000；「X million」→X×1e6；拼写小数→阿拉伯与中文两形。
+# **第61篇 4 → 0，全库 30 → 12。**
+print("\n[untraced] 数字写法换算")
+_ut2 = open(os.path.join(ROOT, "scripts/untraced.py"), encoding="utf-8").read()
+check("有 _expand 换算", "_expand" in _ut2 and "万" in _ut2)
+check("处理 million 复合数", 'key in ("million", "billion", "thousand")' in _ut2)
+check("处理中文拼写数", '"15": "十五"' in _ut2)
+_r20 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/untraced.py"), "61"],
+                      capture_output=True, text=True, timeout=300).stdout
+check("实测：第61篇零命中", _r20.count("…") == 0)
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
