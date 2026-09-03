@@ -77,7 +77,7 @@ TOPICS = [
     ("门环与门铃", "门环的响法是一套暗号：几下、谁在敲", "knocker doorbell footman rapping caller card-tray butler porter visiting-card", False),
     ("窗税", "窗税让英国人砌掉窗户，daylight robbery 由此而来", "window-tax bricked-up sash glazing assessor daylight dormer attic collector loophole", False),
     ("木鞋", "木鞋不是穷人的鞋，是湿地作业鞋", "clog sabot alder sole strap cobbler upper hobnail mill-floor puddle", False),
-    ("稻草人", "稻草人从来吓不走乌鸦，吓的是雀", "scarecrow straw sack turnip broomstick crow sparrow rook clapper bird-boy", False),
+    ("稻草人", "稻草人顶替的是一个十一岁的赶鸟童", "scarecrow straw sack turnip broomstick crow sparrow rook clapper bird-boy", True),
     ("风向鸡", "教堂顶上的公鸡是教皇 9 世纪下的令", "weathercock steeple rooster vane gilt spire pivot compass-points gust sacristan", False),
     ("羽毛床", "羽毛床是嫁妆里最贵的一件", "featherbed mattress ticking down goose-down bolster dowry bedstead flea straw-pallet", False),
     ("熨斗", "熨的不是皱，是虱子", "flatiron sad-iron trivet goffering starch pleat crease louse laundress hearth-iron", False),

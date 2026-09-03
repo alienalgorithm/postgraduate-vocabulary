@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 68,
-  "keyword_count": 3400,
+  "article_count": 69,
+  "keyword_count": 3450,
   "articles": [
     {
       "id": "01",
@@ -1474,6 +1474,25 @@
       "canonical_fingerprint_sha256": "dc6bb24007b19305278f6de9a2c89407dcdfec3beb8fbd4d3d15798c0e863f3f",
       "markdown_sha256": "3b70bbe4a529a6957176e8f092148ed097ef88f08b9eff3ea69965c6d162242e",
       "markdown_git_blob_sha": "8257ecc1fca9ce81b2fa83bc8dbc30c70fb1f407",
+      "superseded_signatures": []
+    },
+    {
+      "id": "69",
+      "slug": "cheaper-better-and-eleven",
+      "title": "Cheaper, Better, and Eleven",
+      "title_zh": "更便宜、更好用、十一岁",
+      "version_id": "69-final",
+      "status": "第六十九篇定稿",
+      "date": "2026-09-03",
+      "words": 270,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-03。题材库 70%（稻草人），三批 vet 70/50/75%。闸门一 24，按段 6·12·7·2·4。初稿密度 12.5 触了止损哨兵——但判法第三条（论证段是年份／法案／报纸）不成立，论证段是响板、弹弓、瘟疫、白嘴鸦；一次密写到 9.4。十二稿到 270/50。封版前两问零翻案。BAL-02b 判为保留",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "1b502c732c3b06c9ed7eec369b0224200df562863f7c1a57ebcffba2867e6252",
+      "markdown_sha256": "01cf289b90b248ba6f220b83db83dbe78ba79cf8d2d182381f7f6bc18abebd8c",
+      "markdown_git_blob_sha": "edfed80e8cf7ed6484e5b3a12aa485aa028aa9bc",
       "superseded_signatures": []
     }
   ]
