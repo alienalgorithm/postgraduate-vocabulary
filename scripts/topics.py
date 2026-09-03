@@ -84,7 +84,7 @@ TOPICS = [
     ("门牌号", "门牌号是为征兵不是为送信", "house-number numbering doorpost conscription billeting census postman street-name enumerator chalk", False),
     ("牛铃", "牛铃是给牧人听的，不是给牛戴的", "cowbell clapper collar herd pasture alpine transhumance forge strap tinkle", False),
     ("烛芯剪", "烛芯剪是最常用的家用工具，因为烛芯不会自己烧掉", "snuffers wick candle tallow soot guttering trimming chandelier taper sconce", False),
-    ("台球桌", "台球是草地游戏搬进屋里，桌面绿是草的绿", "billiard cue cushion baize chalk pocket ivory ball mace lawn", False),
+    ("台球桌", "台球是草地游戏搬进屋里——port/king/pin/tail/queue 全撞，零稿", "billiard cue cushion baize chalk pocket ivory ball mace lawn", True),
     ("扑克牌", "扑克牌的四种花色是社会的四个等级", "playing-card suit spade club heart diamond woodblock stencil knave ace", False),
     ("骰子", "骰子从来是最公平的，因为作弊太容易被发现", "dice pip loaded shaved knucklebone cup tumble gamester ivory bone", False),
     ("傻瓜帽", "dunce 来自中世纪最锋利的哲学家邓斯·司各脱", "dunce cone cap stool corner slate cane inkwell desk schoolmaster", False),
