@@ -13,7 +13,7 @@ At 7:05 on the evening of 17 July 1981, two **suspended** **walkways** in the **
 
 Jack Gillum's firm **specified** one continuous steel **rod** for each pair of **hangers**. It ran from the ceiling, through a box **beam** under the **fourth-floor** walkway, then **downward** to the second-floor walkway. Each **storey** **hung** its own **burden** on it, and each nut carried one **tier**'s worth.
 
-Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **struts** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.
+Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **tie-rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.
 
 Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore that floor and everything **hanging** **beneath** the beam. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for it.
 
@@ -30,7 +30,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(tier)。
 
-哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**支杆**(struts)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。
+哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**拉杆**(tie-rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。
 
 把四层的箱形梁在两种**排布**(layouts)下并排看。改之前，它只**承**(bore)四层。改之后，它承四层，加上那根梁**底下**(beneath)**挂**(hanging)着的一切。这一改**几乎**(hardly)没**动**(altered)**图样**(sketch)，却把那个**接头**(connection)上的荷载**翻了一倍**(doubled)。没有人为它算过一笔**账**(sums)。
 
@@ -44,7 +44,7 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 
 **§2**（10词）specified 指定；写明｜rod 杆；拉杆｜hangers 吊杆（复）｜beam 梁｜fourth-floor 四层的｜downward 向下｜storey 层楼｜hung 悬挂（过去式）｜burden 担子；荷载｜tier 层
 
-**§3**（10词）impractical 不现实的；行不通的｜fabricate 加工制作｜length 长度｜lathe 车床｜thread 螺纹｜nut 螺母｜fabricator 加工商｜struts 支杆（复）｜cutting 切削；车削｜workshop 车间
+**§3**（10词）impractical 不现实的；行不通的｜fabricate 加工制作｜length 长度｜lathe 车床｜thread 螺纹｜nut 螺母｜fabricator 加工商｜tie-rods 拉杆（复）｜cutting 切削；车削｜workshop 车间
 
 **§4**（10词）layouts 排布（复）｜bore 承受（过去式）｜hanging 悬挂着的｜beneath 在下方｜altered 改动｜sketch 图样｜hardly 几乎不｜doubled 使加倍｜connection 接合；接头｜sums 账；算式（复）
 
@@ -70,3 +70,4 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 **邓肯（Daniel M. Duncan）、吉勒姆（Jack D. Gillum）与 G.C.E. International 于 1984 年 11 月被认定重大过失、不当行为与非专业行为**，两人在密苏里（后及得克萨斯）被吊销工程师执照，公司执业证书被撤销；**1985 年联邦大陪审团决定不予刑事起诉**。
 **⚠ 一项本轮未取得直接出处**：§5「Fewer than ten stood on the upper walkway and fewer than sixty on the lower」——**这是全篇的判别性证据**（人并不多，垮的不是人压的）。该细节应出自 1982 年 NBS 调查报告的荷载估算，**本轮检索未取得可直接引用的出处，如实标为待复核**。（可佐证的量化事实：Grokipedia 载原设计活荷载为 100 psf、跨度 39 英尺、每端接头约承 20.3 kips；1981 年 9 月 3 日曾以荷重传感器实测跨重加以印证。）[Britannica：Hyatt Regency walkway collapse](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[Clyde&Co：Case Studies in Engineering and Ethical Failures](https://www.clydeco.com/getmedia/d6141d0c-b162-4074-b044-409a3a3074b9/CAW-Case-Studies-in-Engineering-and-Ethical-Failures.pdf)｜[Online Ethics：Hyatt Regency Walkway Collapse 事件年表](https://onlineethics.virginia.edu/cases/hyatt-regency-walkway-collapse)
 - **⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——leftover 是「吃剩的」，用于承重钢筋语域不对（原为 remaining，与 §1 的 remains 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**
+- **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「two shorter struts」——strut 是受压杆；凯悦的吊杆受拉，结构工程师叫 rod／hanger／tie-rod。这个词是为避 rod 重复取的。已改为 tie-rods。**

@@ -21,8 +21,8 @@
           "zh": "杰克·吉勒姆的事务所为每对**吊杆**(hangers)**指定**(specified)一根通长钢**杆**(rod)。它从顶棚垂下，穿过**四层**(fourth-floor)天桥下方的箱形**梁**(beam)，再**往下**(downward)接到二层天桥。每一**层楼**(storey)把自己那份**担子**(burden)**挂**(hung)在这根杆上，每个螺母只承一**层**(tier)。"
         },
         {
-          "en": "Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **struts** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.",
-          "zh": "哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**支杆**(struts)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。"
+          "en": "Havens Steel found the long rod **impractical** to **fabricate**. The whole **length** would have to go on a **lathe** for **thread**-cutting, so that the upper **nut** could run down. So the **fabricator** proposed two shorter **tie-rods** instead — ceiling to fourth floor, fourth floor to second. Less **cutting**, same drawing, easier **workshop** work.",
+          "zh": "哈文斯钢铁公司发现这根长杆**加工**(fabricate)起来**很不现实**(impractical)：整根**长度**(length)都得上**车床**(lathe)车**螺纹**(thread)，上面那个**螺母**(nut)才能一路旋下去。于是**加工商**(fabricator)提议改用两根短**拉杆**(tie-rods)——顶棚到四层，四层再到二层。**车**(cutting)得少了，图纸没变，**车间**(workshop)也好做。"
         },
         {
           "en": "Set the fourth-floor box beam side by side under the two **layouts**. Before, it **bore** the fourth floor only. After, it bore that floor and everything **hanging** **beneath** the beam. The change **altered** the **sketch** **hardly** at all and **doubled** the load on that **connection**. Nobody ran the **sums** for it.",
@@ -41,7 +41,8 @@
         "**已核**：调查表明原设计本已勉强满足预期荷载，**改后仅能承受堪萨斯城规范最低要求的约30%**。失效自一个螺母被拽穿箱形梁开始，其荷载转移至相邻吊杆，相邻吊杆随之被拽穿。[Linda Hall Library](https://www.lindahall.org/about/news/scientist-of-the-day/hyatt-regency-walkways-collapse/)｜[All That's Interesting](https://allthatsinteresting.com/hyatt-regency-disaster)",
         "**已核**：设计工程师被免于刑事指控但被吊销执业执照；酒店业主向遇难者家属支付约1.4亿美元赔偿。本篇收束于此：那处改动看上去只是省事，实则是一道没人重算的算术。[Britannica](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[All That's Interesting](https://allthatsinteresting.com/hyatt-regency-disaster)",
         "**已核（2026-08-20 逐条上网）· 七项无误，一项本轮未取得直接出处**：\n**1981 年 7 月 17 日晚 7:05**，二楼与四楼两条悬空连廊坠落于茶舞会人群之上，**114 人死、216 人伤**（Britannica 与 Grokipedia 一致；另有来源记「当场 111 死，三人送医后不治，共 114」）；**为美国史上非蓄意攻击所致最严重的结构坍塌**；\n**原设计为一根 1.5 英寸通长吊杆**自屋架穿过四楼与二楼两道箱梁，**荷载依次传递**；制造商 Havens 的加工图改成**上下两根短杆**，**使四楼那处接头承受的荷载翻倍**（Britannica：doubling the 63,934-pound load it had to carry）；\n**四楼连廊砸落二楼连廊、二者同坠大堂；而错开布置的三楼连廊完好无损**；\n**⭐ 「没有人为它算过一笔账」有原始出处**——Clyde&Co 案例研究载：**「the fabricator had not performed calculations on the connections. The design engineer assigned review of the shop drawings to a technician on his staff; the technician performed no calculations on the connections.」**——**制造商没算，受托审图的技术员也没算。**另载：那份改动**只在一叠 42 张加工图里以一张图的形式出现，此外别无任何书面记录**；制造商称曾致电设计工程师取得口头认可，**而设计工程师否认接到过这通电话**——与正文 §5「Havens telephoned; verbal approval came back, and the written request never followed」逐条相符；\n**邓肯（Daniel M. Duncan）、吉勒姆（Jack D. Gillum）与 G.C.E. International 于 1984 年 11 月被认定重大过失、不当行为与非专业行为**，两人在密苏里（后及得克萨斯）被吊销工程师执照，公司执业证书被撤销；**1985 年联邦大陪审团决定不予刑事起诉**。\n**⚠ 一项本轮未取得直接出处**：§5「Fewer than ten stood on the upper walkway and fewer than sixty on the lower」——**这是全篇的判别性证据**（人并不多，垮的不是人压的）。该细节应出自 1982 年 NBS 调查报告的荷载估算，**本轮检索未取得可直接引用的出处，如实标为待复核**。（可佐证的量化事实：Grokipedia 载原设计活荷载为 100 psf、跨度 39 英尺、每端接头约承 20.3 kips；1981 年 9 月 3 日曾以荷重传感器实测跨重加以印证。）[Britannica：Hyatt Regency walkway collapse](https://www.britannica.com/event/Hyatt-Regency-walkway-collapse)｜[Clyde&Co：Case Studies in Engineering and Ethical Failures](https://www.clydeco.com/getmedia/d6141d0c-b162-4074-b044-409a3a3074b9/CAW-Case-Studies-in-Engineering-and-Ethical-Failures.pdf)｜[Online Ethics：Hyatt Regency Walkway Collapse 事件年表](https://onlineethics.virginia.edu/cases/hyatt-regency-walkway-collapse)",
-        "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——leftover 是「吃剩的」，用于承重钢筋语域不对（原为 remaining，与 §1 的 remains 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**"
+        "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——leftover 是「吃剩的」，用于承重钢筋语域不对（原为 remaining，与 §1 的 remains 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**",
+        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「two shorter struts」——strut 是受压杆；凯悦的吊杆受拉，结构工程师叫 rod／hanger／tie-rod。这个词是为避 rod 重复取的。已改为 tie-rods。**"
       ],
       "metrics": {
         "words": 261,
@@ -185,8 +186,8 @@
           "p": 3
         },
         {
-          "w": "struts",
-          "zh": "支杆（复）",
+          "w": "tie-rods",
+          "zh": "拉杆（复）",
           "p": 3
         },
         {
