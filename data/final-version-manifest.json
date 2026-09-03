@@ -2,8 +2,8 @@
   "schema_version": 1,
   "policy": "latest-final-only",
   "audited_at": "2026-08-24",
-  "article_count": 65,
-  "keyword_count": 3250,
+  "article_count": 66,
+  "keyword_count": 3300,
   "articles": [
     {
       "id": "01",
@@ -1417,6 +1417,25 @@
       "canonical_fingerprint_sha256": "f9e578a3f3567522ab8fde60369c48af2fdc90533e575a3474df9637e453aabf",
       "markdown_sha256": "ef58ffe92101700f0151331b5b034d9e72efb331a19662cb7e1662498e5c01bb",
       "markdown_git_blob_sha": "64f8a10d3dce937b0c5a85fafa3c1017a01b33d5",
+      "superseded_signatures": []
+    },
+    {
+      "id": "66",
+      "slug": "a-roof-that-was-not-there",
+      "title": "A Roof That Was Not There",
+      "title_zh": "一个并不在那里的屋顶",
+      "version_id": "66-final",
+      "status": "第六十六篇定稿",
+      "date": "2026-09-03",
+      "words": 271,
+      "keywords": 50,
+      "density": 18.5,
+      "source": "2026-09-03。同日第四个题材：切片面包（slice 撞库）、蜂路（frame/gap 撞库）、南丁格尔病房（window/beds 初中词）三个在 vet 阶段停下；茅草 70% 过。闸门一 30，按段 5·16·11·4·0。十二稿到 271/50。封版前两问逮出 slate（1666 年伦敦是陶瓦）、squirt（17 世纪工具放进 1212 年）两处时代错位。入库时两条硬伤（jettied 0.0／速查表错位）当场改",
+      "source_verification": "conversation-latest-final",
+      "approved_source_blob_sha": null,
+      "canonical_fingerprint_sha256": "b180a95f2035f2922d90dcd2a13cfebb1778bb0a42558868ad90e24a8368f672",
+      "markdown_sha256": "cd8650d307f99b132ebf1b055f9eb7409e045c9498ad405cedbb01e9cee5174d",
+      "markdown_git_blob_sha": "93301df128b09aa6f738a7421f8ac083309d26e2",
       "superseded_signatures": []
     }
   ]

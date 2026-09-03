@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-24，共有 **65篇文章、3250个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-24，共有 **66篇文章、3300个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -97,6 +97,7 @@
 | **63** | ***The Bear That Lived Was the One on Paper*** | **泰迪熊：玩具纪念的是漫画家画出来的那个下午，不是真发生的那个** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-bear-that-lived-was-on-paper) · [Markdown](articles/63-the-bear-that-lived-was-on-paper.md) |
 | **64** | ***The Secret Was the Box*** | **钱伯伦产钳：守了一百五十年的不是器械，是让两片铁看起来像一台机器的那场戏** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-secret-was-the-box) · [Markdown](articles/64-the-secret-was-the-box.md) |
 | **65** | ***The Rank Was in the Dye*** | **红衣军：红色不是为伤口或敌人选的，是军需官按染料价格选的，染工按军衔分的等** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-rank-was-in-the-dye) · [Markdown](articles/65-the-rank-was-in-the-dye.md) |
+| **66** | ***A Roof That Was Not There*** | **伦敦大火与茅草：一条管用了四百五十年的规矩，从它本来要防的那场火的故事里消失了** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-roof-that-was-not-there) · [Markdown](articles/66-a-roof-that-was-not-there.md) |
 | **46** | ***Three Who Err Alike*** | **手动计时的系统性偏差：中位数管得住离群值，管不住三人同向的错** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=three-who-err-alike) · [Markdown](articles/46-three-who-err-alike.md) |
 
 第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。
