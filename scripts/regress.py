@@ -122,7 +122,7 @@ def profile(a):
         from wordfreq import zipf_frequency as z
         zs = [z(re.sub(r"[^a-zA-Z]", "", w).lower(), "en")
               for p in a["paras"] for w in BOLD.findall(p["en"])]
-        cheap = sum(1 for x in zs if x >= 5.0)
+        cheap = sum(1 for x in zs if x >= core.CHEAP_MIN)
         edge = sum(1 for x in zs if 4.6 <= x < 5.0)
     except Exception:
         cheap = edge = -1

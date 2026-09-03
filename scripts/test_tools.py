@@ -1499,8 +1499,10 @@ _ag9 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
 check("vet 用与检察官相同的 _lem13", "_lem13" in _ag9
       and "两道网必须用同一套判据" in _ag9)
 check("vet 查屈折形绕过白送词", "屈折形绕过白送词检查" in _ag9)
+# ⚠ 判据同步（2026-09-02）：那两处 5.0 已改为 core.CHEAP_MIN（samesource 哨兵要求），
+#   **判据随之改成查语义而不是查字面量** —— 否则一改同源就报红。
 check("条件与检察官逐字相同（两半都在）",
-      "_zb >= 5.0 and _zw < 5.0" in _ag9
+      "_zb >= core.CHEAP_MIN and _zw < core.CHEAP_MIN" in _ag9
       and "_b14 in basic and wl not in basic" in _ag9,
       "★ 第一版漏了后半个条件，把 flew 也拦了")
 _r9 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
@@ -1951,6 +1953,55 @@ _r17 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
                        "review", "/tmp/g60b.md"],
                       capture_output=True, text=True, timeout=300).stdout
 check("实测：review 仍能正常跑", "修改指令" in _r17)
+
+
+# ── samesource.py：让「同一份数据两处各一份」撞不上（2026-09-02 立机制）──
+# **这个错本会话犯了九次，九次全是撞出来的**（测试报红、多篇同时越界、换的词撞车），
+#   **第八次差点造成实害——判据错了，而它指挥的是删改十三篇正文。**
+# **★ 机制：维护一张登记表（哪些阈值共用、唯一出处在哪），扫全部脚本，
+#   凡有别处裸写同一个值去做比较就报出来，并挂进本测试 —— 以后它自己会拦。**
+# **★★ 判据收窄过两轮，实测**：
+#   只按值查 → **18 处，8 处假阳性**（`40` 一个值有三种含义：段落词数／vet 通过率／长句上限；
+#     `2.2` 曾命中 polish.py 里印给人看的说明文字）；
+#   **加「同一行须出现语义关键词」＋排除字符串字面量 → 4 处，全部是真的。**
+#   四处已改为从 core 取（agent.py 三处、regress.py 一处）。
+# **★★★ 判据窄，才用得久 —— 前四条筛法就是判据太宽而作废的。**
+print("\n[机制] samesource 哨兵")
+_ss = open(os.path.join(ROOT, "scripts/samesource.py"), encoding="utf-8").read()
+check("哨兵存在且有登记表", "REGISTRY" in _ss and "唯一出处" in _ss)
+check("记下九次的病史", "本会话犯了**九次**" in _ss or "犯了" in _ss and "九次" in _ss)
+check("写明为何加语义关键词", "三种含义" in _ss)
+check("写明判据窄才用得久", "判据窄，才用得久" in _ss)
+_r18 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/samesource.py")],
+                      capture_output=True, text=True, timeout=180)
+check("★ 全库零违例（哨兵自己跑一遍）", _r18.returncode == 0,
+      _r18.stdout.strip().split("\n")[-1] if _r18.stdout else "")
+
+
+# ── 机制：反复犯的错都配了哨兵，且哨兵都挂进了本文件（2026-09-02 立）──
+# **规矩三条**：
+#   一 · **同一个错犯到第二次，不再靠记性，装哨兵。**
+#   二 · **哨兵必须挂进 test_tools.py** —— 不挂进去等于没有，因为没人会主动去跑它。
+#   三 · **装哨兵时先量假阳性**：判据太宽就作废（前四条筛法即如此）。
+# **本条自查的作用**：《总令》里那张「犯错—哨兵」对照表，
+#   **表里点名的每一件哨兵，本文件都必须真的调用过它** ——
+#   否则表是空话。
+print("\n[机制] 反复犯的错都配了哨兵")
+_me = open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read()
+_self = open(os.path.join(ROOT, "scripts/test_tools.py"), encoding="utf-8").read()
+check("《总令》立了这条机制", "同一个错犯到第二次，就装哨兵" in _me)
+check("对照表列出了各自的哨兵",
+      all(k in _me for k in ("lockstep.guard", "swap.py", "agent.py vet",
+                             "samesource.py", "六条人读第一条")))
+check("规矩三条都在",
+      "不再靠记性，装哨兵" in _me and "不挂进去的哨兵等于没有" in _me
+      and "先量假阳性" in _me)
+_guards = ("lockstep", "swap.py", "vet", "samesource", "untraced")
+_missing = [g for g in _guards if g not in _self]
+check("表里点名的哨兵，本文件都真的跑过", not _missing,
+      "★ 缺：%s —— 表里写了却没挂进测试，就是空话" % _missing)
+check("说清哨兵治不了的那一类",
+      "机器手里没有来源" in _me and "只能靠封版后那一遍人读" in _me)
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")

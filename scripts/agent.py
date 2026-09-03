@@ -283,7 +283,7 @@ def review(arts, path, exclude=None):
     for _w in [x for _g in pk for x in _g]:
         _wl = _w.lower()
         _z = zipf_frequency(_wl, "en")
-        if 0 < _z <= 2.2:
+        if 0 < _z <= core.RARE_MAX:
             _v09.append(f"{_w}({_z:.1f})")
         if _wl in _PART:
             _v10.append(_w)
@@ -291,7 +291,7 @@ def review(arts, path, exclude=None):
             _v12.append(_w)
         _g14 = _IRR_GRP.get(_wl, ())
         _b14 = _g14[0] if _g14 and _g14[0] != _wl else None
-        if _b14 and (zipf_frequency(_b14, "en") >= 5.0 or _b14 in _basic):
+        if _b14 and (zipf_frequency(_b14, "en") >= core.CHEAP_MIN or _b14 in _basic):
             _v14.append(f"{_w}（原形 {_b14}）")
         for _f in _IRR_GRP.get(_wl, ()):
             if _f != _wl and _f in {x.lower() for _g in pk for x in _g}:
@@ -607,7 +607,7 @@ def vet(arts, aid, words):
             # 我第一版只写了前半个条件，**把 flew（原形 fly 4.75，本不是白送词）
             #   也拦了**，回归测试当场报红。**照抄检察官的判据，不要自己另写。**
             _zb, _zw = z(_b14, "en"), z(wl, "en")
-            if _zb >= 5.0 and _zw < 5.0:
+            if _zb >= core.CHEAP_MIN and _zw < core.CHEAP_MIN:
                 why.append("屈折形绕过白送词检查（原形 %s 是白送词 %.2f）"
                            % (_b14, _zb))
             elif _b14 in basic and wl not in basic:
