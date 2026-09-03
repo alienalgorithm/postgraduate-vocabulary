@@ -13,7 +13,7 @@ On 4 December 1935 Hildegarde Domagk fell with a needle; it drove to the **wrist
 
 Gerhard Domagk had **proven** in 1932 that the dye **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.
 
-In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.
+In November 1935 a team at the Pasteur Institute **dissected** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.
 
 That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry turned it out by the **ton** as an **intermediate**. Anyone could. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.
 
@@ -30,7 +30,7 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 
 格哈德·多马克1932年就**证明**(proven)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。
 
-1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。
+1935年11月，巴斯德研究所的一个小组把这化合物**剖析**(dissected)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。
 
 那一半是个老东西：保罗·格尔莫1909年做**博士**(doctoral)**习题**(exercise)时就合成过它，专利早已**过期**(expired)，工业界把它当**中间体**(intermediate)按**吨**(ton)生产。谁都能做。两年之内各国**实验室**(laboratories)纷纷**做**(turning)出**衍生物**(derivatives)，那份**垄断**(monopoly)变成了一整类**药**(drugs)。
 
@@ -44,7 +44,7 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 
 **§2**（10词）proven 证明（过去分词）｜cured 治好｜mice 小鼠（复）｜injected 注射｜recovered 康复｜permanent 永久的｜reddish 发红的｜tinge 淡色；色泽｜antibacterial 抗菌的｜proof 证据
 
-**§3**（10词）dismantled 拆解｜test-tube 试管｜colourless 无色的｜acted 起作用｜glass 玻璃｜creatures 活物（复）｜alike 同样地｜splitting 劈开；裂解｜tint 色调｜substance 实质
+**§3**（10词）dissected 解剖；剖析｜test-tube 试管｜colourless 无色的｜acted 起作用｜glass 玻璃｜creatures 活物（复）｜alike 同样地｜splitting 劈开；裂解｜tint 色调｜substance 实质
 
 **§4**（10词）doctoral 博士的｜exercise 习题；练习｜expired 过期｜ton 吨｜intermediate 中间体｜laboratories 实验室（复）｜turning 做出；转变｜derivatives 衍生物（复）｜monopoly 垄断｜drugs 药物（复）
 
@@ -63,3 +63,4 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 - **已核并纠正一处流传误说**：多处通俗读物称希尔德加德是「第一个受益于百浪多息的人」。Bristol MOTM 依据多马克实验记录本与未刊回忆录明确更正此说——**她是早期患者之一，并非首例**（此前已有 A. Förster 报告一名葡萄球菌感染婴儿康复）。**本文因此只写「他给女儿注射」，未称首例。**[Bristol MOTM](https://www.chm.bris.ac.uk/motm/sulfanilamide2/sulfanilamidejs.htm)｜[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)
 - 本篇的机制边界：染料与药效之间隔着一次体内代谢。专利保护的是分子的完整形态，而疗效来自它裂解后的片段——**保护范围与作用范围不重合，垄断因此落空**。
 - **已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)
+- **★ 已核 · 一处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「dismantled the compound」——dismantle 是拆机器；化学家说 broke down／split（split 本篇已用）。已改为 dissected——巴斯德研究所那组人做的正是把分子的活性拆开来看。****⚠ 判为保留：「chemists had concocted a scarlet dye」——concoct 带一点『调配』的随意感，药化学家会说 synthesised（撞第26篇）；但 concoct 不是事实错误，只是语域略轻，可读。**

@@ -21,8 +21,8 @@
           "zh": "格哈德·多马克1932年就**证明**(proven)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至1935年才发表。他给女儿**注射**(injected)。她**活**(recovered)了下来，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
         },
         {
-          "en": "In November 1935 a team at the Pasteur Institute **dismantled** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.",
-          "zh": "1935年11月，巴斯德研究所的一个小组把这化合物**拆解**(dismantled)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。"
+          "en": "In November 1935 a team at the Pasteur Institute **dissected** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.",
+          "zh": "1935年11月，巴斯德研究所的一个小组把这化合物**剖析**(dissected)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。"
         },
         {
           "en": "That half was old: Paul Gelmo had made it in 1909 as a **doctoral** **exercise**, the patent had long **expired**, and industry turned it out by the **ton** as an **intermediate**. Anyone could. Within two years **laboratories** were **turning** out **derivatives**, and the **monopoly** became a whole class of **drugs**.",
@@ -40,7 +40,8 @@
         "**已核 · 诺贝尔奖始末**：1935年和平奖授予关押于集中营的德国和平主义者卡尔·冯·奥西茨基后，希特勒禁止德国人受奖。多马克**10月26日**接到1939年生理学或医学奖通知，**11月3日**发出措辞谨慎的接受函（他不确定禁令是否只针对和平奖）；**11月17日**武装盖世太保包围其住宅，将其拘押一周有余，迫其签署拒绝信。**1947年**领到奖章，奖金早已重新分配。[Bristol MOTM（PDF）](https://www.chm.bris.ac.uk/motm/sulfanilamide2/Sulfanilamide%20-%20MOTM%20July%202011.pdf)｜[Science History Institute](https://www.sciencehistory.org/education/scientific-biographies/gerhard-domagk/)",
         "**已核并纠正一处流传误说**：多处通俗读物称希尔德加德是「第一个受益于百浪多息的人」。Bristol MOTM 依据多马克实验记录本与未刊回忆录明确更正此说——**她是早期患者之一，并非首例**（此前已有 A. Förster 报告一名葡萄球菌感染婴儿康复）。**本文因此只写「他给女儿注射」，未称首例。**[Bristol MOTM](https://www.chm.bris.ac.uk/motm/sulfanilamide2/sulfanilamidejs.htm)｜[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)",
         "本篇的机制边界：染料与药效之间隔着一次体内代谢。专利保护的是分子的完整形态，而疗效来自它裂解后的片段——**保护范围与作用范围不重合，垄断因此落空**。",
-        "**已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)"
+        "**已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)",
+        "**★ 已核 · 一处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「dismantled the compound」——dismantle 是拆机器；化学家说 broke down／split（split 本篇已用）。已改为 dissected——巴斯德研究所那组人做的正是把分子的活性拆开来看。****⚠ 判为保留：「chemists had concocted a scarlet dye」——concoct 带一点『调配』的随意感，药化学家会说 synthesised（撞第26篇）；但 concoct 不是事实错误，只是语域略轻，可读。**"
       ],
       "metrics": {
         "words": 266,
@@ -149,8 +150,8 @@
           "p": 2
         },
         {
-          "w": "dismantled",
-          "zh": "拆解",
+          "w": "dissected",
+          "zh": "解剖；剖析",
           "p": 3
         },
         {
