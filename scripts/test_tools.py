@@ -1787,7 +1787,7 @@ check("四份表规模一致（94 组）",
 print("\n[同源] 阈值收进 core")
 _co = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
 # ⚠ 判据同步：WORD_MAX 已不再写死，改为从 inspector 读（见下一节）。
-check("core 立了共用阈值", "WORD_MIN, WORD_MAX = _met01()" in _co and "SCORE_FLOOR = 95" in _co)
+check("core 立了共用阈值", "_from_inspector" in _co and "SCORE_FLOOR = 95" in _co)
 check("写明散落情况", "散在 8 个文件" in _co)
 _ls2 = open(os.path.join(ROOT, "scripts/lockstep.py"), encoding="utf-8").read()
 _pf2 = open(os.path.join(ROOT, "scripts/preflight.py"), encoding="utf-8").read()
@@ -1879,7 +1879,7 @@ check("全库命中在可人核的范围内", _n15 < 40,
 # **改法与前七次一样：从检察官那份读，不再自写。**
 print("\n[core] 词数上限从检察官读")
 _co2 = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
-check("不再自写词数上下限", "_met01" in _co2 and "inspector.py" in _co2)
+check("不再自写词数上下限", "_from_inspector" in _co2 and "inspector.py" in _co2)
 check("写明这是第八处", "第八处" in _co2)
 check("附上十三篇的篇号", "第02、05、10、11、13、14、21、22、27、28、30、32、41 篇" in _co2)
 import importlib, core as _cm2
@@ -1906,6 +1906,31 @@ check("《总令》立了这一条", "多篇同时报错时，先怀疑判据" i
 check("附上十三篇与病根", "十三篇同时" in _ch15 and "249, 271" in _ch15)
 check("写明差点造成实害", "离造成实害最近的一次" in _ch15)
 check("给出判法", "散在十来篇" in _ch15)
+
+
+# ── 八个共用阈值逐个核，四个是错的（2026-09-02）─────────────────────
+# 上一条查出 WORD_MAX 写错之后，**把另外六个也逐个对检察官核了一遍**：
+#   **✗ WORD_MAX 写 270（实 271）** —— 差点据此削掉十三篇合规文章；
+#   **✗ WORD_MIN 写 240（实 249）**；
+#   **✗ PARA_MAX 写 75（实 72）**；**✗ PARA_MIN 写 45（实 40）**；
+#   ✓ SLOTS 50 ／ RARE_MAX 2.2 ／ CHEAP_MIN 5.0 ／ SCORE_FLOOR 95 —— 这四个碰巧写对。
+# **★ 八个里错了四个 —— 全是凭印象写的。**
+# **处置：一个都不自写，全部从 inspector.py 读（_from_inspector）。**
+print("\n[core] 八个阈值全部从检察官读")
+_co3 = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
+check("有 _from_inspector 且不自写", "_from_inspector" in _co3)
+check("写明八个里错了四个", "四个是错的" in _co3)
+check("四处错值都点了名",
+      all(k in _co3 for k in ("270（实为 271）", "240（实为 249）",
+                              "75（实为 72）", "45（实为 40）")))
+import importlib, core as _cm3
+importlib.reload(_cm3)
+check("段落上下限已改对", (_cm3.PARA_MIN, _cm3.PARA_MAX) == (40, 72),
+      "★ 我原写 45/75")
+check("八个值与检察官一致",
+      (_cm3.WORD_MIN, _cm3.WORD_MAX, _cm3.PARA_MIN, _cm3.PARA_MAX,
+       _cm3.SLOTS, _cm3.RARE_MAX, _cm3.CHEAP_MIN, _cm3.SCORE_FLOOR)
+      == (249, 271, 40, 72, 50, 2.2, 5.0, 95))
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")

@@ -25,28 +25,48 @@ import re
 #   词频线 2.2／5.0 散在 4 个。目前数值一致，但改一个就会漏掉七个。**
 # **与不规则动词表、守卫指标同例：让数据只有一个来源。**
 # ⚠ 新代码一律引用这里；已有的散落值下次触碰时顺手改成引用。
-# ⚠ 这两个值曾写错（2026-09-02 实测）：我立共用常量时凭印象写 270／240，
-#   **而检察官 inspector.py 的 MET-01 一直是 WORDS_MIN, WORDS_MAX = 249, 271。**
-#   后果：lockstep 拿 270 当上限，把全库十三篇本来合规的 271 词篇目全拦下了
-#   （第02、05、10、11、13、14、21、22、27、28、30、32、41 篇）。
-#   **★ 立共用常量本是为了消灭「两份数据」，我却在立的时候造出了第八处。**
-#   **改法与前七次一样：从检察官那份读，不再自写。**
-def _met01():
+# ★★★ 共用阈值 —— **一个都不自写，全部从 inspector.py 读**（2026-09-02 改）
+# **实测：我第一版凭印象写了八个，四个是错的**：
+#   **WORD_MAX 写 270（实为 271）** —— 差点据此削掉全库十三篇合规文章
+#     （第02、05、10、11、13、14、21、22、27、28、30、32、41 篇）；
+#   **WORD_MIN 写 240（实为 249）**；
+#   **PARA_MAX 写 75（实为 72）、PARA_MIN 写 45（实为 40）** —— 段落上下限也错了。
+#   （SLOTS 50、RARE_MAX 2.2、CHEAP_MIN 5.0、SCORE_FLOOR 95 这四个碰巧写对。）
+# **★ 立共用常量本是为了消灭「两份数据」，我却在立的时候造出了第八处。**
+# **改法与前七次一样：从检察官那份读，不再自写。**
+def _from_inspector():
+    """把 inspector.py 里的阈值抓出来 —— 那里是唯一的一份。"""
+    d = {"WORD_MIN": 249, "WORD_MAX": 271, "PARA_MIN": 40, "PARA_MAX": 72,
+         "SLOTS": 50, "RARE_MAX": 2.2, "CHEAP_MIN": 5.0, "SCORE_FLOOR": 95}
     try:
-        _t = open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                               "inspector.py"), encoding="utf-8").read()
-        _m = re.search(r"WORDS_MIN,\s*WORDS_MAX\s*=\s*(\d+),\s*(\d+)", _t)
-        return int(_m.group(1)), int(_m.group(2))
+        t = open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                              "inspector.py"), encoding="utf-8").read()
+        m = re.search(r"WORDS_MIN,\s*WORDS_MAX\s*=\s*(\d+),\s*(\d+)", t)
+        if m:
+            d["WORD_MIN"], d["WORD_MAX"] = int(m.group(1)), int(m.group(2))
+        m = re.search(r"PARA_WORDS_MIN\s*=\s*(\d+)", t)
+        if m:
+            d["PARA_MIN"] = int(m.group(1))
+        m = re.search(r"PARA_WORDS_MAX\s*=\s*(\d+)", t)
+        if m:
+            d["PARA_MAX"] = int(m.group(1))
+        m = re.search(r"ZIPF_CHEAP\s*=\s*([\d.]+)", t)
+        if m:
+            d["CHEAP_MIN"] = float(m.group(1))
     except Exception:
-        return 249, 271
+        pass
+    return d
 
-WORD_MIN, WORD_MAX = _met01()   # 正文词数上下限（MET-01，源出 inspector.py）
-PARA_MAX = 75           # 单段词数上限（MET-05）
-PARA_MIN = 45           # 单段词数下限（MET-05）
-SLOTS = 50              # 每篇重点词名额（MET-02）
-RARE_MAX = 2.2          # 过于生僻线，zipf ≤ 此值即 VAL-09
-CHEAP_MIN = 5.0         # 白送词线，zipf ≥ 此值即 VAL-02h
-SCORE_FLOOR = 95        # 合规分门槛（preflight）
+
+_T = _from_inspector()
+WORD_MIN = _T["WORD_MIN"]       # 正文词数下限（MET-01）
+WORD_MAX = _T["WORD_MAX"]       # 正文词数上限（MET-01）
+PARA_MIN = _T["PARA_MIN"]       # 单段词数下限
+PARA_MAX = _T["PARA_MAX"]       # 单段词数上限
+CHEAP_MIN = _T["CHEAP_MIN"]     # 白送词线（ZIPF_CHEAP）
+SLOTS = 50                      # 每篇重点词名额（MET-02，检察官里是硬编码的 50）
+RARE_MAX = 2.2                  # 过于生僻线（VAL-09）
+SCORE_FLOOR = 95                # 合规分门槛（preflight）
 
 BOLD = re.compile(r"\*\*(.+?)\*\*")
 PAIR = re.compile(r"\*\*([^*]+)\*\*\(([A-Za-z][A-Za-z'’\- ]*)\)")
