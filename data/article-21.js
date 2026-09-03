@@ -22,8 +22,8 @@
           "zh": "1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(canvases)只张了三面，64门**青铜**(bronze)炮**架**(mounted)在舷上。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。"
         },
         {
-          "en": "The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming **witnessed** a **stability** **rehearsal** on board: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; by three her roll turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.",
-          "zh": "这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在船上**目睹**(witnessed)过一次**稳定性**(stability)**演练**(rehearsal)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。这试验照例要跑十几趟；跑到第三趟，船身已**摇**得**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。"
+          "en": "The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming **witnessed** a **stability** **demonstration** on board: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; by three her roll turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.",
+          "zh": "这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在船上**目睹**(witnessed)过一次**稳定性**(stability)**演示**(demonstration)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。这试验照例要跑十几趟；跑到第三趟，船身已**摇**得**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。"
         },
         {
           "en": "The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port, not **starboard** — a question no **symmetric** **craft** can raise.",
@@ -110,8 +110,8 @@
           "p": 2
         },
         {
-          "w": "rehearsal",
-          "zh": "演练",
+          "w": "demonstration",
+          "zh": "演示；示范",
           "p": 2
         },
         {
@@ -298,7 +298,8 @@
         "**判别性证据**：瓦萨博物馆考古学家弗雷德·霍克自2010年起用三年时间测量船上每一块木料，发现左舷结构多于右舷——「不装压舱物时，船会自行向左舷倾侧」。[The World/PRX：Swedish preservationists document likely cause](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)",
         "**成因**：出水器物中有四把木工尺，两把按瑞典尺刻度（一尺十二寸），两把按阿姆斯特丹尺刻度（一尺十一寸，约短16毫米）。总造船师亨里克·许贝特松为荷兰人，两舷由不同工班分别施工，各用自己的尺。每名木工按手中量具下料均属准确，缺的是一把共同的尺。[Britannia Naval Research Association：The Vasa story](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)｜[Lucas Laursen：Vasa's Curious Imbalance](https://lucaslaursen.com/vasas-curious-imbalance/)",
         "**已核（2026-08-16 逐条上网）**：核心事实全部无误——1628年8月10日首航、64门铜炮、航行约1400码后沉没、约30人罹难；瑞典尺一尺12寸而阿姆斯特丹尺一尺11寸（分别为 297mm 与 283mm）；霍克三年间丈量船上每一块木料，得出「左舷结构多于右舷，不压舱时船会向左倾」。**一处两说并存**：本文取「四把尺」——PRX／GBH／Tim Harford／Psych Safety 均记为 four rulers，且系霍克本人说法；而英国海军研究会记为 **six rulers, all of different lengths**。两说的要害一致（多套并行的度量标准造成不对称），本文取多数来源与当事人说法。[PRX/The World：New Clues Emerge in Centuries-Old Swedish Shipwreck](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)｜[Tim Harford：Lessons from a shipwreck](https://timharford.com/2026/08/lessons-from-a-shipwreck/)｜[Britannia Naval Research Association（六把尺之说）](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)",
-        "**已核（2026-08-20 逐条上网）· §2 判别性证据补齐了缺失的一半**：原文只写「跑到第三趟弗莱明就叫停」——**读者无从判断三次算多还是算少**。哈福德据瓦萨博物馆研究主任 Fred Hocker 记载：**这种稳定性试验照例要来回跑十几趟**，而弗莱明三趟就叫停，边叫停边说「但愿国王在家」（he wished the king were at home）。该试验由船长 Söfring Hansson 安排、副海军上将 Klas Fleming 观看。已补入正文。\n**另一处两说并存已在案（第6、7条）**：尺子四把还是六把——Hocker 本人与转述其说的多处（The World／GBH／Tim Harford）均作**四把**；Britannia Naval Research Association 作**六把**。\n**再核出一处数值分歧**：瑞典尺与阿姆斯特丹尺相差多少毫米。Britannia 明写「短 16 毫米」；而哈福德给出的两个尺长为 **297 毫米与 283 毫米**，相减仅约 14 毫米。本文取有明确表述的 16——但两说并此存照。[Tim Harford：Lessons from a shipwreck](https://timharford.com/2026/08/lessons-from-a-shipwreck/)｜[Britannia Naval Research Association：The Vasa story](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)｜[The World：New Clues Emerge in Centuries-Old Swedish Shipwreck](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)"
+        "**已核（2026-08-20 逐条上网）· §2 判别性证据补齐了缺失的一半**：原文只写「跑到第三趟弗莱明就叫停」——**读者无从判断三次算多还是算少**。哈福德据瓦萨博物馆研究主任 Fred Hocker 记载：**这种稳定性试验照例要来回跑十几趟**，而弗莱明三趟就叫停，边叫停边说「但愿国王在家」（he wished the king were at home）。该试验由船长 Söfring Hansson 安排、副海军上将 Klas Fleming 观看。已补入正文。\n**另一处两说并存已在案（第6、7条）**：尺子四把还是六把——Hocker 本人与转述其说的多处（The World／GBH／Tim Harford）均作**四把**；Britannia Naval Research Association 作**六把**。\n**再核出一处数值分歧**：瑞典尺与阿姆斯特丹尺相差多少毫米。Britannia 明写「短 16 毫米」；而哈福德给出的两个尺长为 **297 毫米与 283 毫米**，相减仅约 14 毫米。本文取有明确表述的 16——但两说并此存照。[Tim Harford：Lessons from a shipwreck](https://timharford.com/2026/08/lessons-from-a-shipwreck/)｜[Britannia Naval Research Association：The Vasa story](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)｜[The World：New Clues Emerge in Centuries-Old Swedish Shipwreck](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)",
+        "**★ 已核 · 一处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「a stability rehearsal」——船匠做的是倾斜试验（heeling test），rehearsal 是排练；trial 撞第15篇，heeling 过于生僻，已改为 demonstration——弗莱明看的正是一次稳性演示。****⚠ 判为保留：「three of ten canvases set」——帆叫 sails（撞第04篇）；canvas 作帆是航海转喻（under canvas、spread more canvas），作可数名词指单面帆在旧文献里可见，可读。**"
       ]
     }
   ]);
