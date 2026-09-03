@@ -23,6 +23,7 @@
     python3 scripts/agent.py skeleton
 """
 import json, re, os, sys, glob, subprocess
+import core
 from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -38,9 +39,12 @@ try:
 except Exception:
     sys.exit("需要 wordfreq：pip install wordfreq --break-system-packages")
 
-WORDS_MIN, WORDS_MAX, KW = 240, 270, 50
+# ★ 从 core 读，不自写（2026-09-03 改，第十处「两份数据」）：
+#   此前写死 240, 270——而检察官是 249, 271。**samesource 哨兵没逮到，
+#   因为它只查比较运算里的裸值，这一行是赋值。** 哨兵判据已随此扩到赋值。
+WORDS_MIN, WORDS_MAX, KW = core.WORD_MIN, core.WORD_MAX, core.SLOTS
 ZIPF_OK_LO, ZIPF_OK_HI = 2.5, 4.6      # 合格带
-ZIPF_CHEAP = 5.0                        # ≥ 白送
+ZIPF_CHEAP = core.CHEAP_MIN   # ★ 从 core 读（samesource 扩到赋值行后逮出，2026-09-03）
 KW_SPREAD_MAX = 2
 
 # ── 数据层 ──────────────────────────────────────────────────────────────

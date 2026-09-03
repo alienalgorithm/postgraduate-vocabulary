@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '62': { source: '2026-09-03。第四个题材才成（乔利伍德词薄、靛蓝核心词撞、大富翁核心词撞）；殡葬域 70%，闸门三门俱过；写作途中删一处编造（mourned in the mortuary）、改一处行话（weaver spun→spun and woven）。封版前逐细节核、逐词问行家。首次入库即 100/100', verification: 'conversation-latest-final' },
   '61': { source: '2026-09-03。全库「行家会这么说吗」走完后写的第一篇：闸门一报 30 三门俱过；初稿密度 9.4；每段名额从各自词域取；封版前逐细节核来源、逐词问行家——零翻案。首次入库即 100/100。途中一次为削词把「高估 100%」改成「一半」，当场发现改回', verification: 'conversation-latest-final' },
   '60': { source: '2026-09-03。第三个题材才成——前两个（南丁格尔、泰晤士鲑鱼）闸门一都报可用词太少，我绕过一次、漏跑一次，各废十稿六稿；本篇闸门一报 27，三门俱过。写作途中六条人读第一条删掉两处编造（a keg of perry／saloon cellar 对比）；封版前人读零翻案。首次入库即 100/100', verification: 'conversation-latest-final' },
   '59': { source: '2026-09-02。两次触止损点第二型，两次照《总令》重写更紧的一版（第二次 260词/43名额，腾出10词）。复现报告两次逮到「去重后只剩 42」。六条人读抓出两处编造（in the yard／errata he never issued）', verification: 'conversation-latest-final' },

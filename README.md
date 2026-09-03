@@ -28,7 +28,7 @@
 ---
 ## 当前最终定稿
 
-截至2026-08-24，共有 **61篇文章、3050个重点词**。每篇恰好50个重点词，密度均低于20%。
+截至2026-08-24，共有 **62篇文章、3100个重点词**。每篇恰好50个重点词，密度均低于20%。
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
@@ -93,6 +93,7 @@
 | **59** | ***A Story That Gives a Luxury Some Use*** | **香料与腐肉：一个给奢侈品安上实用理由的故事，总能胜过真相** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-story-that-gives-a-luxury-some-use) · [Markdown](articles/59-a-story-that-gives-a-luxury-some-use.md) |
 | **60** | ***It Keeps What a Child Can Hold*** | **苹果籽约翰：传说只留下孩子拿得住的那部分，丢掉一个申领人所需要的** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=keeps-what-a-child-can-hold) · [Markdown](articles/60-keeps-what-a-child-can-hold.md) |
 | **61** | ***The Men Who Felt It Were Filed as Anecdote*** | **纽芬兰鳕鱼崩溃：测量存量的仪器感觉不到鱼在变少，感觉得到的人不被当作仪器** | **269词 · 50词 · 18.6%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=filed-as-anecdote) · [Markdown](articles/61-filed-as-anecdote.md) |
+| **62** | ***A Mill's Terms of Sale*** | **维多利亚服丧礼俗：看起来是虔敬的规矩，其实是一家丝厂的销售条款** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-mills-terms-of-sale) · [Markdown](articles/62-a-mills-terms-of-sale.md) |
 | **46** | ***Three Who Err Alike*** | **手动计时的系统性偏差：中位数管得住离群值，管不住三人同向的错** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=three-who-err-alike) · [Markdown](articles/46-three-who-err-alike.md) |
 
 第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。

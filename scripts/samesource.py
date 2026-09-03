@@ -58,6 +58,11 @@ REGISTRY = {
            ("para", "pw", "段", "seg")),
     "95": ("preflight.py", "core.SCORE_FLOOR", "合规分门槛",
            ("score", "合规分", "门槛", "floor")),
+    # ★ 旧的错值也登记：谁再把 270／240 抄回来，当场拦（2026-09-03）
+    "270": ("inspector.py", "core.WORD_MAX", "★旧错值：词数上限实为 271",
+            ("word", "words", "词数", "count_words", "WORDS_MAX")),
+    "240": ("inspector.py", "core.WORD_MIN", "★旧错值：词数下限实为 249",
+            ("word", "words", "词数", "count_words", "WORDS_MIN")),
 }
 
 # 只看「拿这个数做比较」的地方；格式符与注释不算
@@ -98,7 +103,11 @@ def offenders(value, home, keys=()):
                 if (m.start() and bare[m.start() - 1].isdigit()) or \
                    (m.end() < len(bare) and bare[m.end()] in "0123456789."):
                     continue
-                if re.search(r"[<>]=?\s*$", before) or re.match(r"\s*[<>]=?", after):
+                # ★ 比较运算，或**赋值给全大写常量**（2026-09-03 扩：agent.py 里
+                #   `WORDS_MIN, WORDS_MAX, KW = 240, 270, 50` 写死了值，第一版没逮到）
+                _is_cmp = re.search(r"[<>]=?\s*$", before) or re.match(r"\s*[<>]=?", after)
+                _is_assign = re.match(r"\s*[A-Z][A-Z0-9_, ]*=\s*", bare) and "core." not in bare
+                if _is_cmp or _is_assign:
                     hits.append((fn, no, line.strip()[:76]))
                     break
     return hits

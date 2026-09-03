@@ -2065,6 +2065,23 @@ _r20 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/untraced.py")
                       capture_output=True, text=True, timeout=300).stdout
 check("实测：第61篇零命中", _r20.count("…") == 0)
 
+
+# ── samesource 扩到赋值行（2026-09-03，第十处两份数据）─────────────────
+# 写第62篇时 review 报「271 词超 1」——而上限是 271。查出 agent.py 写死 `WORDS_MIN, WORDS_MAX, KW = 240, 270, 50`。
+# **samesource 哨兵没逮到：它只查比较运算里的裸值，这一行是赋值。**
+# 扩到「赋值给全大写常量」后，随即又逮出 agent.py 的 `ZIPF_CHEAP = 5.0`。两处均改为从 core 读。
+# **并把旧错值 270／240 登记进哨兵：谁再抄回来，当场拦。**
+print("\n[哨兵] 扩到赋值行")
+_ss2 = open(os.path.join(ROOT, "scripts/samesource.py"), encoding="utf-8").read()
+_ag17 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("哨兵查赋值行", "_is_assign" in _ss2)
+check("旧错值 270／240 已登记", '"270":' in _ss2 and '"240":' in _ss2)
+check("agent.py 不再写死上下限", "WORDS_MIN, WORDS_MAX, KW = core.WORD_MIN" in _ag17)
+check("agent.py ZIPF_CHEAP 从 core 读", "ZIPF_CHEAP = core.CHEAP_MIN" in _ag17)
+_r21 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/samesource.py")],
+                      capture_output=True, text=True, timeout=180)
+check("★ 哨兵全库零违例", _r21.returncode == 0)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
