@@ -1932,6 +1932,26 @@ check("八个值与检察官一致",
        _cm3.SLOTS, _cm3.RARE_MAX, _cm3.CHEAP_MIN, _cm3.SCORE_FLOOR)
       == (249, 271, 40, 72, 50, 2.2, 5.0, 95))
 
+
+# ── review 的段落上下限从 core 取（2026-09-02，第九处两份数据）────────
+# **agent.py 里原有两套段落判据，就在同一个文件里隔着五行**：
+#   阻塞项写死 `45 <= w <= 75`；而下面的结构提示写的是 `w < 40` / `w > 72`。
+# **而检察官 inspector.py 的 PARA_WORDS_MIN/MAX 是 40／72，那才是真的。**
+# 后果：**阻塞项在低端比检察官严（45 vs 40）、高端比它松（75 vs 72）**——
+#   高端那 3 词的缝隙里若落进段落，**检察官判硬伤而 review 放行。**
+# **★ 实测全库零越界**（45—75 恰好把一切挡在 72 以内）**——但这是运气不是判据。**
+print("\n[review] 段落上下限从 core 取")
+_ag16 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("阻塞项不再写死 45—75", "45 <= w <= 75" not in _ag16)
+check("三处都改为 core.PARA_*",
+      _ag16.count("core.PARA_MIN") >= 2 and _ag16.count("core.PARA_MAX") >= 2)
+check("写明这是第九处", "第九处" in _ag16)
+check("写明高端那 3 词的缝隙", "review 放行" in _ag16)
+_r17 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
+                       "review", "/tmp/g60b.md"],
+                      capture_output=True, text=True, timeout=300).stdout
+check("实测：review 仍能正常跑", "修改指令" in _r17)
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

@@ -91,6 +91,7 @@ def used_index(arts, exclude=None):
             exact.add(norm(w)); stems.add(stem(w)); owner[norm(w)].add(a["id"]); owner[stem(w)].add(a["id"])
     return exact, stems, owner
 
+import core                                                     # ★ 阈值也从这里取（2026-09-02）
 from core import count_words                                    # 唯一权威实现，见 core.py
 
 # ── 1. brief：题材可用词池 ──────────────────────────────────────────────
@@ -304,16 +305,24 @@ def review(arts, path, exclude=None):
         if _lst:
             blocking.append(f"{_lbl}：{'、'.join(dict.fromkeys(_lst))}"
                             f"（检察官判为硬伤）")
-    _m05 = [f"§{i}({w}词)" for i, w in enumerate(pw, 1) if not 45 <= w <= 75]
+    # ★★ 段落上下限从 core 取（2026-09-02 改，第九处「两份数据」）：
+    # **本文件里原有两套判据**：这一处阻塞项写死 45—75，
+    #   而下面几行的结构提示写的是 40／72 —— **同一个文件里两套。**
+    # **而检察官 inspector.py 的 PARA_WORDS_MIN/MAX 是 40／72，那才是真的。**
+    # 后果：**阻塞项在低端比检察官严（45 vs 40）、在高端比它松（75 vs 72）**；
+    #   高端那 3 词的缝隙里若落进段落，检察官会判硬伤而 review 放行。
+    # **实测全库零越界**（阻塞项 45—75 恰好把一切挡在 72 以内），**但这是运气不是判据。**
+    _m05 = [f"§{i}({w}词)" for i, w in enumerate(pw, 1)
+            if not core.PARA_MIN <= w <= core.PARA_MAX]
     if _m05:
-        blocking.append(f"MET-05 段落词数越界（须 45—75）：{'、'.join(_m05)}"
-                        f"（检察官判为硬伤）")
+        blocking.append(f"MET-05 段落词数越界（须 {core.PARA_MIN}—{core.PARA_MAX}）："
+                        f"{'、'.join(_m05)}（检察官判为硬伤）")
 
     for i, (w, k) in enumerate(zip(pw, pkn), 1):
-        if w < 40:
+        if w < core.PARA_MIN:
             structural.append(f"§{i} 只有 {w} 词，是残段。它承担的论证不足以配得上一段——"
                               f"要么并入相邻段，要么补足它该做的活（见骨架）。")
-        elif w > 72:
+        elif w > core.PARA_MAX:
             structural.append(f"§{i} 有 {w} 词，一段做了不止一件事，考虑拆分。")
 
     allk = [w for g in pk for w in g]
