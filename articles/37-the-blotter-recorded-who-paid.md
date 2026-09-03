@@ -3,7 +3,7 @@
 > 题材：1876年贝尔与格雷的电话优先权之争，以及一份从未为此设计的记录
 > 状态：**第三十七篇定稿**（2026-08-20）
 > 指标：270 词 / 50 重点词 / 密度 18.5%
-> 人人记得贝尔比格雷早了两小时。可那个先后来自现金登记簿——记的是缴费入账的顺序，不是谁先**走进**(walked)门。而那天贝尔在波士顿，三百英里之外。
+> 人人记得贝尔比格雷早了两小时。可那个先后来自现金登记簿——记的是缴费入账的顺序，不是谁先**走进**(walked)门。而那天贝尔在波士顿，四百英里之外。
 
 ---
 
@@ -11,7 +11,7 @@
 
 On 14 February 1876 two papers reached the Patent Office **describing** the same thing: speech carried by **varying** the **impedance** of a **transmitter**. One was a **submission** from Alexander Graham Bell, whose lawyers had **lingered** months **awaiting** **clearance** from Britain. The other was a **caveat** from Elisha Gray. Bell's was the fifth **item** that day; Gray's the thirty-ninth.
 
-Those numbers came off the cash **blotter**, which **noted** the order fees were **booked**, not who **walked** in. Gray's **fee** went down late that **dusk**, and the caveat itself did not reach the **assessor** **till** next day. Bell was in Boston that **weekday**, three hundred miles **distant**. He learned nothing of any of it until the twenty-sixth.
+Those numbers came off the cash **blotter**, which **noted** the order fees were **booked**, not who **walked** in. Gray's **fee** went down late that **dusk**, and the caveat itself did not reach the **assessor** **till** next day. Bell was in Boston that **weekday**, four hundred miles **distant**. He learned nothing of any of it until the twenty-sixth.
 
 On 19 February the assessor Zenas Wilber held both papers. Both **asserted** **fluctuating** impedance; both **voiced** the **transmitting** speech. Yet he **froze** Bell's application for ninety days. Bell came **southward**; Wilber **pointed** at the words, his lawyer **recast** them, and the **privilege** came on 7 March. Wilber **owed** money to Marcellus Bailey, Bell's attorney.
 
@@ -28,7 +28,7 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 
 1876年2月14日，两份文件同一天到了专利局，**说的**(describing)是同一件事：靠**改变**(varying)**送话器**(transmitter)的**阻抗**(impedance)来传送语音。一份是亚历山大·格雷厄姆·贝尔的**申请**(submission)——他的律师**等**(lingered)了几个月，就**等**(awaiting)英国那边**放行**(clearance)。另一份是伊莱沙·格雷的**预告书**(caveat)。贝尔的是当天第五**件**(item)；格雷的是第三十九件。
 
-可这两个号码来自现金**登记簿**(blotter)——它**记**(noted)的是费用**入账**(booked)的先后，不是谁先**走进**(walked)门。格雷的**费**(fee)是那天**黄昏**(dusk)时分才记上的，而预告书本身**要到**(till)第二天才送到**审查员**(assessor)手里。那个**工作日**(weekday)贝尔人在波士顿，三百英里**之外**(distant)。他直到二十六日才听说这一切。
+可这两个号码来自现金**登记簿**(blotter)——它**记**(noted)的是费用**入账**(booked)的先后，不是谁先**走进**(walked)门。格雷的**费**(fee)是那天**黄昏**(dusk)时分才记上的，而预告书本身**要到**(till)第二天才送到**审查员**(assessor)手里。那个**工作日**(weekday)贝尔人在波士顿，四百英里**之外**(distant)。他直到二十六日才听说这一切。
 
 2月19日，审查员泽纳斯·威尔伯手里同时压着这两份文件。两份都**主张**(asserted)**起伏的**(fluctuating)阻抗，都**言及**(voiced)**传送**(transmitting)语音。可他偏偏**冻结**(froze)了贝尔的申请九十天。贝尔**南下**(southward)而来；威尔伯**指**(pointed)了指那几个字，他的律师**重写**(recast)了措辞，**专利权**(privilege)3月7日就下来了。威尔伯**欠**(owed)着贝尔代理人马塞勒斯·贝利的钱。
 
@@ -62,3 +62,4 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 - **已核 · 判别性证据**：《科学美国人》1981年1月号 Hounshell 一文载：**「格雷于 1876 年 2 月 11 日画出其装置的草图，此时距他构想出该想法已约两个月。贝尔画出他那张草图是 3 月 9 日，在其递交专利申请之后二十四天。」****这是本篇唯一一句合上书能复述给别人听的话。**另：Evenson 主张**七句话与第四项权利要求是在 2 月 13 日或 14 日、贝尔申请被送交专利局之前才插入的**，并认为泄露者可能不是 Wilber，而是格雷方律师事务所中人。[Scientific American 1981-01, Hounshell: Two Paths to the Telephone](https://commons.princeton.edu/wp-content/uploads/sites/70/2019/08/scientificamerican0181-156-hounshell.pdf)
 - **已核 · 反面证据与终局（本篇不写成善恶故事的理由）**：马凯特大学荣休物理学教授 Benjamin Brown 的研究指向贝尔在先——**贝尔未婚妻梅布尔 1876 年 1 月 17 日的信中已提到贝尔把液体送话器加进了申请**；且格雷方律师所称 1 月 26 日向贝尔的联系人 George Brown 转达信息一事，**Brown 逐日记事的笔记中并无该日收到格雷电话相关信息的记载**。**1888 年最高法院于 Telephone Cases（126 U.S. 1）判贝尔胜诉。**1876 年 3 月 10 日，贝尔以液体送话器传出「华生先生，过来，我要见你」。[TheCollector：Did Alexander Graham Bell Steal the Telephone?](https://www.thecollector.com/did-alexander-graham-bell-steal-the-telephone/)
 - **本篇的机制边界**：现金登记簿是一份**为收款而设的记录**，它精确、可查、无可争议地回答了「谁先交钱」；**而一百五十年来被反复拿来争论的，却是它从未被设计去回答的那个问题——谁先想出来。**本文因此不判谁窃取了谁：**证据链两端都有实物（格雷 2 月 11 日的草图；梅布尔 1 月 17 日的信），而两者不在同一个坐标上——一个记的是画出来的日子，一个记的是说出来的日子。**
+- **★ 已核 · 一处距离改正（2026-09-03 复查，六条人读第一条）**：**原文作「贝尔在波士顿，三百英里之外」——波士顿至华盛顿特区直线约 394 英里、公路约 440 英里，「三百」少算了四分之一以上。已改为「四百英里」。****⚠ 这个数此前只在正文与导语里有，facts 里一条也没有——正是「每一个具体细节，是核过的还是我为凑名额现造的」那条查出来的：****它不是来源里的数，是我凭印象写的。**
