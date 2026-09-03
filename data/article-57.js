@@ -17,16 +17,16 @@
           "zh": "历史偏爱干净利落的因果。故事是这么讲的：在项圈之前，古人把马**套**(harnessed)在**喉咙**(throat)上，几乎把它勒死；有了项圈，**休耕地**(fallow)缩小，**谷仓**(granary)堆满了**禾捆**(sheaves)，**农奴**(serf)卸下了**什一税**(tithe)，**农民**(peasantry)手里有了余粮。一副**皮**(leather)子做的**扣**(buckle)，终结一个时代。"
         },
         {
-          "en": "The claim rests on one trial. Lefebvre des Noëttes was a **cavalry** **colonel**, an **amateur** **antiquarian** writing his **memoir** in a **garrison**. In the 1920s he built the ancient harness from his reading of the pictures, cut the **thong** with **awl** and **needle**, **hitched** a horse, and watched the strap climb till it could not breathe.",
-          "zh": "这个说法建立在一次试验上。勒费弗尔·德努埃特是个**骑兵**(cavalry)**上校**(colonel)，一个在**驻地**(garrison)里写**回忆录**(memoir)的**业余**(amateur)**古物学者**(antiquarian)。1920年代，他照自己对图像的理解亲手做了那副古代挽具，用**锥**(awl)子与**针**(needle)裁开**皮条**(thong)，把马**套上**(hitched)，然后看着带子一路上滑，直到马喘不上气。"
+          "en": "The claim rests on one trial. Lefebvre des Noëttes was a **retired** **cavalry** **colonel**, an **amateur** **antiquarian** who wrote a **riding** **manual**. In the 1920s he built the ancient harness from an **engraving**, put the **thong** on a horse, **hitched** it to a load, and watched the strap climb till it could not breathe.",
+          "zh": "这个说法建立在一次试验上。勒费弗尔·德努埃特是个**退役的**(retired)**骑兵**(cavalry)**上校**(colonel)，一个写过**马术**(riding)**手册**(manual)的**业余**(amateur)**古物学者**(antiquarian)。1920年代，他照一幅**版画**(engraving)做出那副古代挽具，把**皮条**(thong)套上马，**挂**(hitched)上负载，看着带子一路上滑，直到马喘不上气。"
         },
         {
           "en": "Look at what the pictures show. On **fresco** and **frieze**, on a painted **vase** or carved **stele**, the band sits low across the **shoulder**. An **excavated** **yoke** rode behind the **withers** and held it there. The horse pushed with its **breastplate**; nothing touched the **windpipe** at all.",
           "zh": "再看那些图像本身。**壁画**(fresco)上、**饰带**(frieze)上、彩绘的**瓶**(vase)上、刻好的**石碑**(stele)上，带子低低横在**肩**(shoulder)上。一具**出土**(excavated)的**轭**(yoke)压在**鬐甲**(withers)之后，把它按在那里。马是用**胸甲**(breastplate)顶着走的；什么也没有碰到**气管**(windpipe)。"
         },
         {
-          "en": "Spruytte and Littauer rebuilt it in 1977 from **artefacts** a **museum** **curator** could hand them, not drawings. Their **teams** pulled nearly as hard as animals in a modern **padded** collar — about 9.5 kilos of **pull** each with two riders aboard. Raepsaet's **replication** followed the same **protocol** and agreed; the **rebuttal** has held, and no **consensus** now credits the strap.",
-          "zh": "斯普吕特与利托厄1977年重做了这套东西，用的是**博物馆**(museum)**馆员**(curator)能递到手里的**实物**(artefacts)，不是图纸。他们的**畜队**(teams)拉出的力，接近戴现代**衬垫**(padded)项圈的牲口——车上载两人时，每匹约9.5公斤的**挽力**(pull)。雷普塞的**重复实验**(replication)用了同一套**规程**(protocol)，结论一致；这条**反驳**(rebuttal)站住了，如今没有哪种**共识**(consensus)还把功劳记在那根带子上。"
+          "en": "Spruytte and Littauer rebuilt it in 1977 from **artefacts** a **museum** **curator** could hand them, not drawings. Their **teams** pulled nearly as hard as animals in a modern **padded** collar. Chariot trials put the **pull** near 9.5 kilos a head. Raepsaet's **replication** followed the same **protocol** and agreed; the **rebuttal** has held, and no **consensus** now credits the strap.",
+          "zh": "斯普吕特与利托厄1977年重做了这套东西，用的是**博物馆**(museum)**馆员**(curator)能递到手里的**实物**(artefacts)，不是图纸。他们的**畜队**(teams)拉出的力，接近戴现代**衬垫**(padded)项圈的牲口。战车复原实验测得每匹的**挽力**(pull)近9.5公斤。雷普塞的**重复实验**(replication)用了同一套**规程**(protocol)，结论一致；这条**反驳**(rebuttal)站住了，如今没有哪种**共识**(consensus)还把功劳记在那根带子上。"
         },
         {
           "en": "The medieval **collar** was better, not first; **oxen** kept the heavy **tillage**. The **legacy** ran on by **citation**: a **footnote** copied book to book until the **folklore** outlived its evidence and reached the **primer**. The colonel cut that harness himself, then published on antiquity. An experiment that builds its own **opponent** settles the **upshot** before it starts.",
@@ -41,12 +41,13 @@
         "**⚠ 三处表述取舍**：①正文说「他照自己对图像的理解亲手做了那副挽具」——**这是本篇的关键**，来源作 his own designs did not accurately reflect those actually used；②**「牛又干了几百年的重耕」为常识性补充**，非某一来源原话，**其作用是防止读者把本文读成「项圈毫无用处」**；③**正文不写「封建制的终结」**：那是怀特一派的引申，本文正在质疑的就是这条因果链。",
         "**本篇的机制边界**：这不是「勒费弗尔造假」的故事。**他做的是当时能做的事——照图像复原，然后拉一次试试**；错在于**他把自己复原品的失败当成了古代实物的失败**。**本文的论点在一个更窄的地方：当一个实验必须自己动手造出对照组，造得好不好就已经决定了结论。****⚠ 需注意：马项圈本身确是更优的挽具，本文只否定「它解放了此前被勒住的马」这条因果。**",
         "**已核 · 那个「1920年代」**：**勒费弗尔·德努埃特的挽具实验发表于 1931 年**，**实验本身在 1920 年代进行**。**⚠ 正文写作「1920年代」而非具体年份**：来源只作 in the 1920s。",
-        "**⚠ STR-03 判为保留（末两句格言相邻）**：末段两句分属两层——**前一句是这一个案例的事实**（上校自己裁的挽具，写出来的却是古代的结论），**后一句才是可迁移的道理**（自己造对手的实验，开始前就定了结局）。**试过三种改法**：①中间插「他那本书 1931 年出版」——超词数，lockstep 回滚；②改为「在自家工棚里裁出来的」——超词数，回滚；③改为「自己裁的」——落盘但仍报。**判据认的是「末两句都带判断」，而前一句必须带判断，否则读者不知道那副挽具错在哪。****判为保留：为消这条而把前一句改成纯描写，会让末句失去落点。**"
+        "**⚠ STR-03 判为保留（末两句格言相邻）**：末段两句分属两层——**前一句是这一个案例的事实**（上校自己裁的挽具，写出来的却是古代的结论），**后一句才是可迁移的道理**（自己造对手的实验，开始前就定了结局）。**试过三种改法**：①中间插「他那本书 1931 年出版」——超词数，lockstep 回滚；②改为「在自家工棚里裁出来的」——超词数，回滚；③改为「自己裁的」——落盘但仍报。**判据认的是「末两句都带判断」，而前一句必须带判断，否则读者不知道那副挽具错在哪。****判为保留：为消这条而把前一句改成纯描写，会让末句失去落点。**",
+        "**★★★ 已核 · 六条人读抓出三处编造的细节（2026-09-02，入库后复查）**：**一 · 「在驻地里写回忆录」——没有任何来源这么说，是我为凑名额编的。****已改为「退役的骑兵上校，写过马术手册」**——这与他的身份相符且不越出来源。**二 · 「用锥子与针裁开皮条」——针是缝皮子的，裁皮条不用针；****且来源只说他做了复原品，没说他亲手裁。已改为「照一幅版画做出那副挽具」。****三 · 「车上载两人时每匹约 9.5 公斤」被并进了 1977 年那次复原**——**而 9.5 公斤出自另一组战车挽具实验，是两件事。已拆开写。****⚠ 这三处检察官一条都报不出来。100 分量的是合规，不是文章。**"
       ],
       "metrics": {
-        "words": 269,
+        "words": 267,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.7
       },
       "glossary": [
         {
@@ -100,6 +101,11 @@
           "p": 1
         },
         {
+          "w": "retired",
+          "zh": "退役的",
+          "p": 2
+        },
+        {
           "w": "cavalry",
           "zh": "骑兵",
           "p": 2
@@ -120,28 +126,23 @@
           "p": 2
         },
         {
-          "w": "memoir",
-          "zh": "回忆录",
+          "w": "riding",
+          "zh": "骑术",
           "p": 2
         },
         {
-          "w": "garrison",
-          "zh": "驻地",
+          "w": "manual",
+          "zh": "手册",
+          "p": 2
+        },
+        {
+          "w": "engraving",
+          "zh": "版画",
           "p": 2
         },
         {
           "w": "thong",
           "zh": "皮条",
-          "p": 2
-        },
-        {
-          "w": "awl",
-          "zh": "锥",
-          "p": 2
-        },
-        {
-          "w": "needle",
-          "zh": "针",
           "p": 2
         },
         {
