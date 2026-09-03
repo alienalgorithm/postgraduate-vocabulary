@@ -59,7 +59,7 @@ TOPICS = [
     ("肥皂", "肥皂税让英国人一百年不洗澡", "soap lye tallow ash kettle bar suds lather scum excise", False),
     ("假发", "假发是为了跳蚤不是为了体面", "wig periwig powder pomade curl queue barber lice scalp shaving", False),
     ("扣子", "纽扣的发明比扣眼晚了三千年", "button buttonhole toggle brooch pin clasp loop shank mould thread", False),
-    ("手帕", "手帕是为了鼻烟不是为了眼泪", "handkerchief snuff lace hem monogram pocket sleeve embroidery linen wave", False),
+    ("手帕", "手帕是为了鼻烟不是为了眼泪——鼻烟一侧 nostril/sniff/snuffbox 全撞，零稿", "handkerchief snuff lace hem monogram pocket sleeve embroidery linen wave", True),
     ("雨伞", "伞在伦敦被嘲笑了三十年", "umbrella parasol rib canopy ferrule whalebone oiled-silk handle spoke drizzle", False),
     ("风车", "荷兰风车多数是排水不是磨面", "windmill sail cap millstone polder sluice scoop pump drainage vane", False),
     ("运河", "运河船是马拉的，速度靠马不靠水", "canal barge towpath lock horse tow-rope wharf aqueduct tunnel leg", False),
@@ -87,6 +87,14 @@ TOPICS = [
     ("台球桌", "台球是草地游戏搬进屋里，桌面绿是草的绿", "billiard cue cushion baize chalk pocket ivory ball mace lawn", False),
     ("扑克牌", "扑克牌的四种花色是社会的四个等级", "playing-card suit spade club heart diamond woodblock stencil knave ace", False),
     ("骰子", "骰子从来是最公平的，因为作弊太容易被发现", "dice pip loaded shaved knucklebone cup tumble gamester ivory bone", False),
+    ("傻瓜帽", "dunce 来自中世纪最锋利的哲学家邓斯·司各脱", "dunce cone cap stool corner slate cane inkwell desk schoolmaster", False),
+    ("教堂长凳", "长凳是私产：带门带锁、买卖继承、穷人站着", "pew box-pew door lock cushion hassock gallery nave aisle deed", False),
+    ("板球拍", "板球拍原本像曲棍球棒，因为球是沿地滚的", "bat willow blade handle crease wicket stumps bails bowler underarm", False),
+    ("滑铁卢假牙", "「滑铁卢牙」是个牌子，货来自坟墓与绞架——可用 24，§3 论证段空，一稿即停", "denture ivory hippopotamus walrus plate spring rivet gum molar grave-robber", True),
+    ("烤肉狗", "转烤肉叉的是一种狗，跑在轮子里", "turnspit spit roast jack wheel treadmill kitchen-dog hearth cook drippings", False),
+    ("符木", "1834 年国会烧掉了，因为财政部在炉子里烧六百年的符木", "tally notch stock foil hazel exchequer furnace stove clerk cartload", False),
+    ("燧石打火", "火柴之前，生火是一门要练的手艺", "tinderbox flint steel char-cloth spark tinder striker touchwood spill bellows", False),
+    ("醋", "醋不是坏了的酒，是故意做的", "vinegar mother cask acetic cider malt pickling barrel sourness brewer", False),
 ]
 
 
