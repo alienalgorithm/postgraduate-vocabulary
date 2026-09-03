@@ -13,8 +13,8 @@
       "status": "第四十八篇定稿",
       "paras": [
         {
-          "en": "A parliamentary **tribunal** had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** taken in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables** on the books.",
-          "zh": "1819年，一个议会**委员会**(tribunal)把这个主意斥为**可憎**(odious)而**令人厌恶**(repulsive)。十年后，皮尔的法案6月19日获**批准**(assent)，**巡逻**(patrol)队上了街。1829年9月**点名**(muster)的人数是：20名**上级**(superiors)、88名**警长**(sergeants)、895名**领薪的**(salaried)**警员**(constables)。"
+          "en": "A **select** committee had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** taken in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables** on the books.",
+          "zh": "1819年，议会的一个**特别**(select)委员会把这个主意斥为**可憎**(odious)而**令人厌恶**(repulsive)。十年后，皮尔的法案6月19日获**批准**(assent)，**巡逻**(patrol)队上了街。1829年9月**点名**(muster)的人数是：20名**上级**(superiors)、88名**警长**(sergeants)、895名**领薪的**(salaried)**警员**(constables)。"
         },
         {
           "en": "Almost nothing about them was built to catch **thieves**. The coat was blue because the army wore red, and the collar sat low. The **headgear** was a **reinforced** top hat with a **stiff** brim, not a **helmet**. The baton rode **tucked** under the swallow **tails**. A **rattle**, never a firearm. The men walked **unarmed**, and **overtly** so.",
@@ -40,7 +40,8 @@
         "**★ 已核 · 制服的设计意图**：制服含**燕尾式外衣、高立领、长裤与一顶加固的高礼帽**，**「使他们区别于军队，同时对头部击打提供一定保护」**；此式沿用至 1865 年。警员**佩警棍与摇铃以呼援**（摇铃后由哨子取代）。**1860 年代「勒颈恐慌」期间，因惧被勒，领内加厚皮革。**",
         "**已核 · 待遇与纪律**：招募条件为**男性、35 岁以下、健康、身高至少 5 英尺 7 英寸**；**周薪 21 先令（£1.05），高于一名劳工、低于一名熟练工，且蓝制服须自费**；**每周工作七天**，**主要方式为徒步巡逻自己的「beat」，每日行走可达十英里**；**不得与性工作者交谈、不得与已知罪犯来往、不得进入酒馆。**[National Archives · Crime and Punishment: Robert Peel](https://www.nationalarchives.gov.uk/education/resources/crime-and-punishment-robert-peel/)",
         "**已核 · 第二条原则**：皮尔在法案辩论中提出九条警务原则，核心是**「经同意的警务」**。**第二条：「警察履行职责的能力，取决于公众对警察行为的认可。」**（THE ABILITY OF THE POLICE TO PERFORM THEIR DUTIES IS DEPENDENT UPON PUBLIC SUPPORT OF POLICE ACTIONS.）另一条常被并举：**「警察即公众，公众即警察」**。",
-        "**本篇的机制边界**：这不是「制服比破案重要」的故事。**皮尔改革之后伦敦记录在案的犯罪确实下降**，且这是在人口持续增长的前提下发生的。**本文的论点在于：一支需要公众同意才能运作的队伍，其首要设计约束不是效能而是外观**——**蓝而非红、礼帽而非头盔、警棍藏于衣下、摇铃而非火器，四处皆非业务需要，皆为政治回答。****而那个绰号证明公众恰恰读懂了这套设计**：他们知道自己在看什么，并说了出来。**制服因此不是装备，是那条原则被做成了看得见的东西。**"
+        "**本篇的机制边界**：这不是「制服比破案重要」的故事。**皮尔改革之后伦敦记录在案的犯罪确实下降**，且这是在人口持续增长的前提下发生的。**本文的论点在于：一支需要公众同意才能运作的队伍，其首要设计约束不是效能而是外观**——**蓝而非红、礼帽而非头盔、警棍藏于衣下、摇铃而非火器，四处皆非业务需要，皆为政治回答。****而那个绰号证明公众恰恰读懂了这套设计**：他们知道自己在看什么，并说了出来。**制服因此不是装备，是那条原则被做成了看得见的东西。**",
+        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「A parliamentary tribunal」——1819 年审议警务的是议会特别委员会（select committee），tribunal 是审判机构，不是这个。中文侧本已译作「委员会」，是英文用错了词。****已改为 a select committee；select 占名额，committee 为白送词不占。****⚠ 另一处留意**：§4「a fixed circuit through the ward」——巡区在警务里叫 beat（白送词），**但 ward 是伦敦真实的行政区划单位，「在该区内的固定巡回」说得通，判为可保留。**"
       ],
       "metrics": {
         "words": 270,
@@ -49,8 +50,8 @@
       },
       "glossary": [
         {
-          "w": "tribunal",
-          "zh": "审议机构；法庭",
+          "w": "select",
+          "zh": "特别的；精选的",
           "p": 1
         },
         {

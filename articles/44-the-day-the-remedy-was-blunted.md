@@ -9,11 +9,11 @@
 
 ## 英文正文
 
-Scurvy **stricken** eighty of the Salisbury's 350 men in ten weeks. On 20 May 1747 James Lind split 12 of the **ailing** into 6 pairs, each on a different remedy: **cider**, vitriol, **vinegar**, **seawater**, a paste of **garlic** and **mustard**, two oranges and a **lemon**. Only the **citrus** pair **mended**.
+Scurvy had **stricken** eighty of the Salisbury's 350 men in ten weeks. On 20 May 1747 James Lind split 12 of the **ailing** into 6 pairs, each on a different remedy: **cider**, vitriol, **vinegar**, **seawater**, a paste of **garlic** and **mustard**, two oranges and a **lemon**. Only the **citrus** pair **mended**.
 
 Lind printed his **treatise** in 1753. The Admiralty did nothing for 42 years: **lemons** were too **dear**. Gilbert Blane won the order in 1795: three quarters of an **ounce** of lemon **juice** per **sailor** a day. **Gums** stopped **bleeding**, **bruises** began to **heal**, and scurvy left the fleet.
 
-Then it came back. From the 1860s the Navy **swapped** Mediterranean lemons for **limes** from its own Caribbean **colonies** — cheaper, and **imperial**. A **lime** holds a fraction of a lemon's **ascorbic** **potency**. The juice was **diluted**, boiled and kept in copper casks, which **wrecks** what survives. Polar parties of the **eighteen-seventies** carried it and **rotted**.
+Then it came back. From the 1860s the Navy **swapped** Mediterranean lemons for **limes** from its own Caribbean **colonies** — cheaper, and **imperial**. A **lime** holds a fraction of a lemon's **ascorbic** **potency**. The juice was **diluted**, boiled and kept in copper, which **wrecks** what survives. Polar parties of the **eighteen-seventies** carried it and **rotted**.
 
 The nickname limey dates from that **exchange**. American sailors **dubbed** the British by that ration in the 1850s, and it **stuck** long after the **crews** that earned it. But it **commemorates** the day the remedy was **blunted**, not the day it worked. The word the **Navy** is known by **celebrates** its **worst** call about that illness.
 
@@ -30,7 +30,7 @@ Nobody could tell lemon from lime in the way that mattered, because no **reasoni
 
 林德1753年印出他的**论著**(treatise)。海军部四十二年不动：**柠檬**(lemons)太**贵**(dear)。吉尔伯特·布莱恩1795年争到了那道命令：每名**水兵**(sailor)每天四分之三**盎司**(ounce)柠檬**汁**(juice)。**牙龈**(Gums)不再**出血**(bleeding)，**瘀伤**(bruises)开始**愈合**(heal)，坏血病离开了舰队。
 
-然后它又回来了。1860年代起，海军把地中海柠檬**换**(swapped)成自家加勒比**殖民地**(colonies)产的**青柠**(limes)——便宜，而且是**帝国**(imperial)自产的。一个**青柠**(lime)所含的**抗坏血酸**(ascorbic)**效力**(potency)只有柠檬的一小部分。汁液经**稀释**(diluted)、熬煮，盛在铜桶里，而铜**毁**(wrecks)掉剩下的那点。**1870年代**(eighteen-seventies)的极地队伍带着它，照样**烂**(rotted)掉。
+然后它又回来了。1860年代起，海军把地中海柠檬**换**(swapped)成自家加勒比**殖民地**(colonies)产的**青柠**(limes)——便宜，而且是**帝国**(imperial)自产的。一个**青柠**(lime)所含的**抗坏血酸**(ascorbic)**效力**(potency)只有柠檬的一小部分。汁液经**稀释**(diluted)、熬煮，盛在铜器里，而铜**毁**(wrecks)掉剩下的那点。**1870年代**(eighteen-seventies)的极地队伍带着它，照样**烂**(rotted)掉。
 
 「莱姆佬」这个绰号就出自那次**对调**(exchange)。1850年代美国水兵拿这份配给**称呼**(dubbed)英国人，这称呼**留**(stuck)了下来，比挣得它的那些**水手班子**(crews)存续得久得多。可它**纪念**(commemorates)的是解药被**削弱**(blunted)的那一天，不是它奏效的那一天。**海军**(Navy)为人所知的这个词，**颂扬**(celebrates)的正是它在这病上**最糟**(worst)的一次决断。
 
@@ -63,3 +63,4 @@ Nobody could tell lemon from lime in the way that mattered, because no **reasoni
 - **⚠ 两处已标注的取舍**：①正文写「1860年代起换青柠」——来源多作「19世纪」「后来」，**1860年代为常见系年，本文以「From the 1860s」表述，不写具体年份**；②正文写「1850年代美国水兵以此称呼英国人」——**limey 一词的确切起源年代有异说**，常见系年为 19 世纪中叶，**本文取 1850s 并以「in the 1850s」表述**。③「1870年代极地队伍带着它照样烂掉」——指 1875—76 英国北极远征队仍暴发坏血病，**本文以「Polar parties of the eighteen-seventies」概称，不指名某次远征。**
 - **本篇的机制边界**：这不是「海军愚蠢」的故事。**换青柠在当时是合理的**——更便宜、更易得、同属柑橘、同样是酸的，**而「酸」正是当时公认的有效成分**。**本文的论点在于：一味解药若只被当作配方而无机理，任何替换看上去都等价。****分不开的两样东西，就是可互换的**——直到有人能说出该称量什么为止。**这也解释了为什么 42 年的耽搁不是故事的重点**：真正致命的不是没用它，是用了却守不住。
 - **⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——★ 这一处是事实错误：林德试验用的是柠檬与橙，citron（枸橼）是另一种果（原为 lemons，与 §1 的 lemon 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**
+- **★ 已核 · 两处改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「Scurvy stricken eighty」——stricken 是过去分词，作谓语缺助动词。已改为 had stricken。****二 · 「kept in copper casks」——cask 是木桶，铜制容器不叫 cask。已改为 kept in copper。**

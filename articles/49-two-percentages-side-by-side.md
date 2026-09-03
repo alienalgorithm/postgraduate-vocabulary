@@ -13,7 +13,7 @@ In the **epidemic** of 1721 Zabdiel Boylston, an **apothecary** with no **diplom
 
 The method was neither his nor new. Matter from a **ripe** **blister**, an **incision**, a **lancet**; or dried **scabs** up the **nostrils**. West Africa, India and Ottoman lands had used it for generations. It reached Boston through Onesimus, an **enslaved** West African: treated so at home, he told Cotton Mather, and **spared** ever after. The town called it **heathen** **hearsay**.
 
-The town's doctors refused to hear it. Giving a healthy man the disease looked like **assault**; if he died, **homicide**. William Douglass, the only physician in Boston with a medical **licence**, **campaigned** against it in print. A **mob** **thrashed** Boylston in the street. A **bomb** came through Mather's **casement**. Six **clergy** stood by them; the **trained** men did not.
+The town's doctors refused to hear it. Giving a healthy man the disease looked like **assault**; if he died, **homicide**. William Douglass, the only physician in Boston with a medical **doctorate**, **campaigned** against it in print. A **mob** **thrashed** Boylston in the street. A **bomb** came through Mather's **casement**. Six **clergy** stood by them; the **trained** men did not.
 
 Nobody could say why it worked. **Antibodies** lay 170 years ahead. **Germ** theory was a century off. Even the word **immune** meant something else. There was no **explanation** to appeal to, no **authority** to cite. A **parson** and an untrained **practitioner** held one fact: the **deaths** **stayed** **fewer** among the treated.
 
@@ -30,7 +30,7 @@ So the **critics** were **convinced** by two **percentages** side by side — fr
 
 这法子既不是他的，也不新。取**熟透**(ripe)**脓疱**(blister)里的东西，一道**切口**(incision)，一把**柳叶刀**(lancet)；或者把干**痂**(scabs)吹进**鼻孔**(nostrils)。西非、印度与奥斯曼各地已经这么做了好几代。它经奥内西姆斯传进波士顿——一个**被奴役的**(enslaved)西非人：他告诉科顿·马瑟，自己在家乡就这么被治过，此后一直**得免**(spared)。全城管这叫**异教的**(heathen)**道听途说**(hearsay)。
 
-镇上的医生们不肯听。故意让一个健康人染病，看着像**伤害**(assault)；他若死了，就是**杀人**(homicide)。威廉·道格拉斯——波士顿唯一持医学**执照**(licence)的医生——在报上**开火**(campaigned)反对。一群**暴民**(mob)在街上**痛打**(thrashed)了博伊尔斯顿。一颗**炸弹**(bomb)从马瑟家的**窗扇**(casement)扔了进来。六名**教士**(clergy)站在他们那边；**受过训练的**(trained)那些人没有。
+镇上的医生们不肯听。故意让一个健康人染病，看着像**伤害**(assault)；他若死了，就是**杀人**(homicide)。威廉·道格拉斯——波士顿唯一持医学**博士学位**(doctorate)的医生——在报上**开火**(campaigned)反对。一群**暴民**(mob)在街上**痛打**(thrashed)了博伊尔斯顿。一颗**炸弹**(bomb)从马瑟家的**窗扇**(casement)扔了进来。六名**教士**(clergy)站在他们那边；**受过训练的**(trained)那些人没有。
 
 没人说得出它为什么管用。**抗体**(Antibodies)还在170年之后。**细菌**(Germ)学说要等一个世纪。连**免疫**(immune)这个词当时也是别的意思。没有**解释**(explanation)可援引，没有**权威**(authority)可引用。一个**牧师**(parson)和一个没受过训练的**行医者**(practitioner)手里只有一个事实：接种过的人，**死亡**(deaths)数**始终**(stayed)**更少**(fewer)。
 
@@ -44,7 +44,7 @@ So the **critics** were **convinced** by two **percentages** side by side — fr
 
 **§2**（10词）ripe 熟透的｜blister 水疱；脓疱｜incision 切口｜lancet 柳叶刀｜scabs 痂（复）｜nostrils 鼻孔（复）｜enslaved 被奴役的｜spared 幸免｜heathen 异教的｜hearsay 道听途说
 
-**§3**（10词）assault 伤害；袭击｜homicide 杀人｜licence 执照｜campaigned 发起攻势｜mob 暴民｜thrashed 痛打；鞭打｜bomb 炸弹｜casement 窗扇｜clergy 教士（集合）｜trained 受过训练的
+**§3**（10词）assault 伤害；袭击｜homicide 杀人｜doctorate 博士学位｜campaigned 发起攻势｜mob 暴民｜thrashed 痛打；鞭打｜bomb 炸弹｜casement 窗扇｜clergy 教士（集合）｜trained 受过训练的
 
 **§4**（10词）antibodies 抗体（复）｜germ 细菌｜immune 免疫的｜explanation 解释｜authority 权威｜parson 牧师｜practitioner 行医者｜deaths 死亡（复）｜stayed 保持；停留｜fewer 更少
 

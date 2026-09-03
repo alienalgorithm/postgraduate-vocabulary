@@ -9,7 +9,7 @@
 
 ## 英文正文
 
-A parliamentary **tribunal** had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** taken in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables** on the books.
+A **select** committee had called the idea **odious** and **repulsive** in 1819. Ten years later Peel's bill took **assent** on 19 June, and the **patrol** went out. The **muster** taken in September 1829 came to 20 **superiors**, 88 **sergeants** and 895 **salaried** **constables** on the books.
 
 Almost nothing about them was built to catch **thieves**. The coat was blue because the army wore red, and the collar sat low. The **headgear** was a **reinforced** top hat with a **stiff** brim, not a **helmet**. The baton rode **tucked** under the swallow **tails**. A **rattle**, never a firearm. The men walked **unarmed**, and **overtly** so.
 
@@ -26,7 +26,7 @@ Robert Peel's second **tenet** holds that the ability of the **constabulary** to
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1819年，一个议会**委员会**(tribunal)把这个主意斥为**可憎**(odious)而**令人厌恶**(repulsive)。十年后，皮尔的法案6月19日获**批准**(assent)，**巡逻**(patrol)队上了街。1829年9月**点名**(muster)的人数是：20名**上级**(superiors)、88名**警长**(sergeants)、895名**领薪的**(salaried)**警员**(constables)。
+1819年，议会的一个**特别**(select)委员会把这个主意斥为**可憎**(odious)而**令人厌恶**(repulsive)。十年后，皮尔的法案6月19日获**批准**(assent)，**巡逻**(patrol)队上了街。1829年9月**点名**(muster)的人数是：20名**上级**(superiors)、88名**警长**(sergeants)、895名**领薪的**(salaried)**警员**(constables)。
 
 他们身上几乎没有一处是为抓**贼**(thieves)造的。外衣是蓝的，因为军队穿红；领子压得低。**头上戴的**(headgear)是**加固过的**(reinforced)高礼帽，帽檐**硬挺**(stiff)，不是**头盔**(helmet)。警棍**塞**(tucked)在燕**尾**(tails)底下。只有**摇铃**(rattle)，没有火器。这些人**不带武器**(unarmed)上街，而且**明摆着**(overtly)不带。
 
@@ -40,7 +40,7 @@ Robert Peel's second **tenet** holds that the ability of the **constabulary** to
 
 ## 50 词速查表
 
-**§1**（10词）tribunal 审议机构；法庭｜odious 可憎的｜repulsive 令人厌恶的｜assent 批准；同意｜patrol 巡逻｜muster 点名；集合｜superiors 上级（复）｜sergeants 警长（复）｜salaried 领薪的；受雇的｜constables 警员（复）
+**§1**（10词）select 特别的；精选的｜odious 可憎的｜repulsive 令人厌恶的｜assent 批准；同意｜patrol 巡逻｜muster 点名；集合｜superiors 上级（复）｜sergeants 警长（复）｜salaried 领薪的；受雇的｜constables 警员（复）
 
 **§2**（10词）thieves 贼（复）｜headgear 头戴之物｜reinforced 加固的｜stiff 硬挺的｜helmet 头盔｜tucked 塞入｜tails 燕尾（复）｜rattle 摇铃｜unarmed 不带武器的｜overtly 公开地
 
@@ -63,3 +63,4 @@ Robert Peel's second **tenet** holds that the ability of the **constabulary** to
 - **已核 · 待遇与纪律**：招募条件为**男性、35 岁以下、健康、身高至少 5 英尺 7 英寸**；**周薪 21 先令（£1.05），高于一名劳工、低于一名熟练工，且蓝制服须自费**；**每周工作七天**，**主要方式为徒步巡逻自己的「beat」，每日行走可达十英里**；**不得与性工作者交谈、不得与已知罪犯来往、不得进入酒馆。**[National Archives · Crime and Punishment: Robert Peel](https://www.nationalarchives.gov.uk/education/resources/crime-and-punishment-robert-peel/)
 - **已核 · 第二条原则**：皮尔在法案辩论中提出九条警务原则，核心是**「经同意的警务」**。**第二条：「警察履行职责的能力，取决于公众对警察行为的认可。」**（THE ABILITY OF THE POLICE TO PERFORM THEIR DUTIES IS DEPENDENT UPON PUBLIC SUPPORT OF POLICE ACTIONS.）另一条常被并举：**「警察即公众，公众即警察」**。
 - **本篇的机制边界**：这不是「制服比破案重要」的故事。**皮尔改革之后伦敦记录在案的犯罪确实下降**，且这是在人口持续增长的前提下发生的。**本文的论点在于：一支需要公众同意才能运作的队伍，其首要设计约束不是效能而是外观**——**蓝而非红、礼帽而非头盔、警棍藏于衣下、摇铃而非火器，四处皆非业务需要，皆为政治回答。****而那个绰号证明公众恰恰读懂了这套设计**：他们知道自己在看什么，并说了出来。**制服因此不是装备，是那条原则被做成了看得见的东西。**
+- **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「A parliamentary tribunal」——1819 年审议警务的是议会特别委员会（select committee），tribunal 是审判机构，不是这个。中文侧本已译作「委员会」，是英文用错了词。****已改为 a select committee；select 占名额，committee 为白送词不占。****⚠ 另一处留意**：§4「a fixed circuit through the ward」——巡区在警务里叫 beat（白送词），**但 ward 是伦敦真实的行政区划单位，「在该区内的固定巡回」说得通，判为可保留。**

@@ -21,8 +21,8 @@
           "zh": "这法子既不是他的，也不新。取**熟透**(ripe)**脓疱**(blister)里的东西，一道**切口**(incision)，一把**柳叶刀**(lancet)；或者把干**痂**(scabs)吹进**鼻孔**(nostrils)。西非、印度与奥斯曼各地已经这么做了好几代。它经奥内西姆斯传进波士顿——一个**被奴役的**(enslaved)西非人：他告诉科顿·马瑟，自己在家乡就这么被治过，此后一直**得免**(spared)。全城管这叫**异教的**(heathen)**道听途说**(hearsay)。"
         },
         {
-          "en": "The town's doctors refused to hear it. Giving a healthy man the disease looked like **assault**; if he died, **homicide**. William Douglass, the only physician in Boston with a medical **licence**, **campaigned** against it in print. A **mob** **thrashed** Boylston in the street. A **bomb** came through Mather's **casement**. Six **clergy** stood by them; the **trained** men did not.",
-          "zh": "镇上的医生们不肯听。故意让一个健康人染病，看着像**伤害**(assault)；他若死了，就是**杀人**(homicide)。威廉·道格拉斯——波士顿唯一持医学**执照**(licence)的医生——在报上**开火**(campaigned)反对。一群**暴民**(mob)在街上**痛打**(thrashed)了博伊尔斯顿。一颗**炸弹**(bomb)从马瑟家的**窗扇**(casement)扔了进来。六名**教士**(clergy)站在他们那边；**受过训练的**(trained)那些人没有。"
+          "en": "The town's doctors refused to hear it. Giving a healthy man the disease looked like **assault**; if he died, **homicide**. William Douglass, the only physician in Boston with a medical **doctorate**, **campaigned** against it in print. A **mob** **thrashed** Boylston in the street. A **bomb** came through Mather's **casement**. Six **clergy** stood by them; the **trained** men did not.",
+          "zh": "镇上的医生们不肯听。故意让一个健康人染病，看着像**伤害**(assault)；他若死了，就是**杀人**(homicide)。威廉·道格拉斯——波士顿唯一持医学**博士学位**(doctorate)的医生——在报上**开火**(campaigned)反对。一群**暴民**(mob)在街上**痛打**(thrashed)了博伊尔斯顿。一颗**炸弹**(bomb)从马瑟家的**窗扇**(casement)扔了进来。六名**教士**(clergy)站在他们那边；**受过训练的**(trained)那些人没有。"
         },
         {
           "en": "Nobody could say why it worked. **Antibodies** lay 170 years ahead. **Germ** theory was a century off. Even the word **immune** meant something else. There was no **explanation** to appeal to, no **authority** to cite. A **parson** and an untrained **practitioner** held one fact: the **deaths** **stayed** **fewer** among the treated.",
@@ -166,8 +166,8 @@
           "p": 3
         },
         {
-          "w": "licence",
-          "zh": "执照",
+          "w": "doctorate",
+          "zh": "博士学位",
           "p": 3
         },
         {
