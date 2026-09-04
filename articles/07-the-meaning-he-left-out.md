@@ -70,3 +70,4 @@ The proof was not **constructive**. He showed good codes exist without **exhibit
 **bit 一词由 John Tukey 所造** —— 香农 1948 年论文中即明确归功于图基。
 另核无误：1948 年发表《通信的数学理论》；八个等概结果需三次是非判断（log₂8=3）；汉明 **1950 年**以奇偶校验造出既能检错又能纠错的码。[Shannon 1951 原文 PDF（普林斯顿存档）](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)｜[arXiv：Entropy? Honest!（冯·诺依曼原话出处）](https://arxiv.org/pdf/1705.02223)｜[PMC：Entropy Rate Estimation for English](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7514546/)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-07.md）**：一处 A——§2「entropy, base two gave the unit, a contraction of binary digit, named by John Tukey」三件事逗号连串，断成两句并点明 the bit。数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-07.md）**：零 A，零 B——两遍无停顿。

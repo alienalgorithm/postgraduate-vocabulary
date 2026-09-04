@@ -301,7 +301,8 @@
         "来源：[1855年圣詹姆斯教区霍乱调查报告](https://wellcomecollection.org/works/z8xczc2r)",
         "来源：[伦敦卫生与热带医学院：宽街水泵与1854年疫情](https://www.lshtm.ac.uk/newsevents/news/2019/john-snow-memorial-pump-marking-historic-cholera-outbreak-reinstalled-its)",
         "**已核（2026-08-20 逐条上网）· 五项无误，一处时间点已改为不依赖**：\n**无误五项**：十天内 **616 人**死亡（维基「1854 Broad Street cholera outbreak」明载）；波兰街济贫院 **535 人中仅 5 人**病故，因其自有水井；狮牌啤酒厂工人无一人死，因喝自酿啤酒并用自家深井；**1854年9月8日拆下泵柄**（斯诺 7 日晚向教区委员会陈情，8 日晨工人拆柄）；斯诺 **1858年6月16日卒**（10 日中风，六日后去世，年 45），未及见巴斯德与科赫证实其说。\n**粪坑距井 两英尺八英寸**（0.81 米）与他处所记「不到一米」「约三英尺」相符，砖砌已朽。\n**一处时间点已改为不依赖**：原文作「that autumn」（1854年秋）。实况是——怀特黑德 1854 年 11 月才加入教区霍乱调查委员会，**查出索引病例（40号 Broad Street 的婴儿 Frances Lewis）与开挖粪坑均在 1855 年**，委员会报告 1855 年 7 月才刊出。已改为 **later**，不再指认季节。[Wikipedia：1854 Broad Street cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)｜[Sick City Project：John Snow and cholera](https://sickcityproject.wordpress.com/2013/03/11/john-snow-and-cholera/)｜[Look Up London：The Deadly History of This Soho Water Pump](https://lookup.london/john-snow-water-pump/)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-01.md）**：零 A。B：died the next day 补 the；中文 blocks 括注从「按片区」挪到「两个街区」；数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-01.md）**：零 A。B：died the next day 补 the；中文 blocks 括注从「按片区」挪到「两个街区」；数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-01.md）**：零 A，零 B——两遍无停顿。"
       ]
     },
     {
@@ -321,11 +322,11 @@
       "paras": [
         {
           "en": "In February 1977 a **geological** **expedition** **aboard** the Knorr **towed** a camera **sled**, ANGUS, over the Galápagos Rift, hunting warm water that **tectonic** theory said should **seep** from young **basalt**. Late on the 15th, 2,500 metres down, ANGUS **registered** a three-minute **spike** in temperature, then read 2°C again.",
-          "zh": "1977 年 2 月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫 ANGUS 的相机**拖橇**(sled)贴着海底走，要找的是**板块**(tectonic)理论预言应当从年轻**玄武岩**(basalt)里**渗出**(seep)的热水。15 日深夜，在 2,500 米深处，ANGUS **记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到 2 摄氏度。"
+          "zh": "1977 年 2 月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)「诺尔」号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫 ANGUS 的相机**拖橇**(sled)贴着海底走，要找的是**板块**(tectonic)理论预言应当从年轻**玄武岩**(basalt)里**渗出**(seep)的热水。15 日深夜，在 2,500 米深处，ANGUS **记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到 2 摄氏度。"
         },
         {
           "en": "ANGUS surfaced with 3,000 **frames**, almost all **barren**; thirteen **successive** ones held hundreds of clams. Two days later Jack Corliss and Tjeerd van Andel took the **submersible** Alvin down on dive 713, **expecting** the usual seabed: a **sparse** scatter fed by **debris** above. Instead 8°C water **wavered** from **fissures**, and 30-centimetre clams **crowded** 50 metres of lava.",
-          "zh": "ANGUS 带回 3,000 **帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第 713 次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是 8 摄氏度的水从**裂隙**(fissures)里**晃**(wavered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。"
+          "zh": "ANGUS 带回 3,000 **帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)「阿尔文」号下潜第 713 次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是 8 摄氏度的水从**裂隙**(fissures)里**晃**(wavered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。"
         },
         {
           "en": "No **biologist** had gone along; nobody thought one necessary. So nobody could say what they ate, and the **formaldehyde** ran out, sending **specimens** into vodka. A **vial** of **vent** water opened on deck stank of rotten eggs: hydrogen **sulphide** near 300 micromoles a litre, **toxic** to nearly all life, **dissolved** around the **colony**. The **abundance** had no visible source.",
@@ -337,7 +338,7 @@
         },
         {
           "en": "Galápagos **revealed** a second **footing** for life, a food **web** **sustained** by the **planet** rather than the sun. That **widened** the **habitable** **boundary**: a place needs a **gradient** held open, by light or by **chemistry**. They went down for Earth's heat and came back with a garden that never needed sun.",
-          "zh": "加拉帕戈斯**揭示**(revealed)了生命的第二个**立足点**(footing)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了“**宜居**(habitable)”的**边界**(boundary)：一个地方需要的是一道被撑开的**梯度**(gradient)——由光撑开，或由**化学过程**(chemistry)撑开。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。"
+          "zh": "加拉帕戈斯**揭示**(revealed)了生命的第二个**立足点**(footing)：一条由**行星**(planet)本身而非太阳**支撑**(sustained)的食物**网**(web)。这**拓宽**(widened)了「**宜居**(habitable)」的**边界**(boundary)：一个地方需要的是一道被撑开的**梯度**(gradient)——由光撑开，或由**化学过程**(chemistry)撑开。他们下去是为了追踪地球的热量，带回来的却是一座从不需要阳光的花园。"
         }
       ],
       "glossary": [
@@ -601,7 +602,8 @@
         "在1977年之前，深海海床被视为食物匮乏的“荒漠”，稀疏的动物依靠自上层透光带缓慢沉降的有机碎屑为生；加拉帕戈斯的发现确立了不依赖阳光的第二类食物网基础，并改变了“宜居”的判据。此次考察的一处喷口场即被命名为“伊甸园”(Garden of Eden)。[Springer：热液喷口生物学导论](https://link.springer.com/chapter/10.1007/978-1-4899-0402-7_27)｜[Grokipedia：Riftia](https://grokipedia.com/page/Riftia)",
         "**已核（2026-08-16 逐条上网）**：全部无误——1977年2月17日 Alvin **第713次下潜**，驾驶员唐纳利，科学观察员杰克·科利斯与特杰尔德·范安德尔，下潜约2500米；**艇上传感器实测水温 8°C**（WHOI 原文 measured water temperatures of 8°C）；热液自玄武岩裂缝涌出、因锰等矿物析出而泛蓝；ANGUS 拖曳相机先期拍摄约3000张照片，其中十三张连续画面显示大量白蛤与褐贻贝，而其前后的熔岩一片荒芜；**船上没有生物学家、也没备生物样本容器**，福尔马林用尽后以伏特加保存标本。[WHOI Dive & Discover：The Trail of Discovery](https://divediscover.whoi.edu/archives/ventcd/vent_discovery/thediscovery/trail_77_page5.html)｜[EARTH Magazine：Benchmarks — 17 Feb 1977](https://www.earthmagazine.org/article/benchmarks-february-17-1977-hydrothermal-vents-are-discovered)",
         "**已核（2026-08-20 逐条上网）· 十三项无误，一项未取得直接出处**：\n**无误十三项**：1977年2月**15日**深夜 ANGUS 拖曳记录到约**三分钟**温度尖峰、随后回落至 **2°C** 本底；作业水深 **2,500 米**；胶卷冲出后共约 **3,000 帧**，其中**十三帧**连续出现成百的白蛤与褐贻贝，前后各帧皆为裸露熔岩；**2月17日 Alvin 第 713 潜次**，驾驶员 Jack Donnelly，观察者 Jack Corliss（俄勒冈州立）与 Tjeerd van Andel（斯坦福）；喷口水温 **8°C**（WHOI 原文：Alvin's temperature sensors measured water temperatures of 8°C）；白蛤长达 **30 厘米**、聚集范围约 **50 米**；**船上没有生物学家**（此行为地质地化任务）；**福尔马林用尽，标本改浸伏特加**；甲板上开启喷口水样时**一股臭鸡蛋味**（硫化氢）。\n**一项本轮未取得直接出处**：硫化氢浓度「near 300 micromoles a litre」。该量级与已发表的加拉帕戈斯喷口流体化学相符，且正文已用 **near** 留了余地；**如实标注待复核**。\n另：巨型管虫成体长约两米、无口无肠、体内含菌器官——Riftia pachyptila 成体可达 2—3 米，1977 年首见时所记为约 45 厘米（发现当时的个体），两者不冲突。[WHOI Dive & Discover：The Trail of Discovery](https://divediscover.whoi.edu/archives/ventcd/vent_discovery/thediscovery/trail_77_page5.html)｜[Earth Magazine：February 17, 1977](https://www.earthmagazine.org/article/benchmarks-february-17-1977-hydrothermal-vents-are-discovered)｜[Schmidt Ocean Institute：The 13-Frame Discovery](https://schmidtocean.org/cruise/hydrothermal-vents-of-the-galapagos/)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-02.md）**：零 A。中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-02.md）**：零 A。中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-02.md）**：零 A，零 B；引号统一「」。"
       ]
     },
     {
@@ -629,7 +631,7 @@
         },
         {
           "en": "Nimbus-7 had carried an ozone **mapper** since 1978. Its **processing** **flagged** readings under 180 Dobson units — a **threshold** set for a **faulty** **lens**, not a real change. To **settle** which, NASA staff read the South Pole record — itself **erroneous**, its **calibration** long lost. Nobody went back; the low numbers stayed **unconfirmed**. Farman published anyway.",
-          "zh": "“云雨七号”自 1978 年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于 180 多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，而那份记录**本身**就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
+          "zh": "「云雨七号」自 1978 年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于 180 多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，而那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。"
         },
         {
           "en": "*Nature* ran Farman, Gardiner and Shanklin on 16 May 1985. No model had **anticipated** losses that large: calculations **tuned** near 30°N gave a few per cent, and nobody had **simulated** a polar winter. Below −78°C, **stratospheric** clouds **condense** at the **altitude** of the layer; on their **particles**, **dormant** **chlorine** compounds become forms that light **cleaves**.",
@@ -901,7 +903,8 @@
         "机制由后续研究厘清：约−78°C以下，极地平流层云在臭氧层高度凝结；只有在云粒子表面、且有阳光作催化条件时，稳定的含氯储库物种才转为对光敏感的形态，冬末阳光返回后释放氯原子，单个氯原子可反复破坏臭氧分子。1986年重新处理的卫星资料确认损失具南极大陆尺度；《蒙特利尔议定书》1987年9月16日通过、1989年1月1日生效，后续修正案持续收紧；世界气象组织评估在现行政策延续的条件下，南极臭氧约2066年恢复至1980年水平。[British Antarctic Survey](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/dobson-spectrophotometer/)｜[NASA NTRS：1986年确认](https://ntrs.nasa.gov/citations/19870029585)｜[WMO：约2066年恢复](https://wmo.int/media/news/ozone-layer-recovery-track-helping-avoid-global-warming-05degc)",
         "**已核（2026-08-16 逐条上网）**：法曼团队自1956年起在哈雷湾以多布森分光光度计测量臭氧总量；Nimbus-7 的数据处理把低于180多布森单位的读数标记为疑似仪器故障；1985年5月《自然》刊出法曼、加德纳、尚克林三人论文；1987年9月16日各国签署《蒙特利尔议定书》，其后的修正案不断收紧；南极臭氧预计在2066年前后恢复到1980年水平。[Wikipedia：Ozone depletion](https://en.wikipedia.org/wiki/Ozone_depletion)",
         "**已核（2026-08-20 逐条上网）· 八项无误，一处机制存两说**：\n**无误八项**：哈雷湾自 **1956 年**起用多布森分光光度计测柱臭氧；**NASA 把低于 180 多布森单位的读数标为异常**（Hyndman：flagging observations as anomalous when they were below 180 DU），该阈值本为识别仪器故障而设；Nimbus-7 自 **1978 年**起载有臭氧测绘仪；1981 年起十月读数下降；**千里之外的第二站（阿根廷群岛／法拉第）出现同样的逐年下降**；**1984 年十月总量约较 1960 年代低四成**（另有来源作「约剩三分之二」与「近五成」，量级一致）；**1985 年 5 月 16 日《自然》刊出 Farman、Gardiner、Shanklin 三人文章**；**低于 −78°C 平流层云在臭氧层高度凝结**；**1987 年 9 月 16 日通过《蒙特利尔议定书》**；南极臭氧预计 **2066 年**前后回到 1980 年水平（WMO 评估）。\n**一处机制存两说**：正文 §3 作「NASA staff read the South Pole record — itself erroneous, its calibration long lost」。Hyndman 的记述则是：**当时可比对的其他地面数据显示约 300 DU（正常值），故认定是卫星传感器故障**。两说指向同一结果（低值被弃），但机制不同——一说是比对基准本身坏了，一说是比对基准显示正常。**本轮未取得「标定丢失」的直接出处，如实标为待复核。**\n**另一处两说**：卫星数据重处理后确认全洲范围亏损的年份——Bhartia 等 **1985 年 8 月**在布拉格会议首次展示 TOMS 臭氧洞图；而 Stolarski 等的正式论文刊于 **1986 年**。正文取 1986（正式发表），两说并此存照。[Rob J Hyndman：How NASA didn't discover the hole in the ozone layer](https://robjhyndman.com/hyndsight/ozone-hole-anomaly.html)｜[Nature：The discovery of the Antarctic ozone hole](https://www.nature.com/articles/d41586-019-02837-5)｜[KMI：The ozone hole](https://ozone.meteo.be/research-themes/ozone/the-ozone-hole)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-03.md）**：英文零 A。中文 §1「一具棱镜仪器…那是一台棱镜仪器」重复，合并；数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-03.md）**：英文零 A。中文 §1「一具棱镜仪器…那是一台棱镜仪器」重复，合并；数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-03.md）**：一处 A——「**本身**」误加粗（无英文名额）；引号统一「」。"
       ]
     },
     {
@@ -925,11 +928,11 @@
         },
         {
           "en": "In 1714 Parliament offered £20,000 for half a degree: thirty **nautical** miles at the **equator**. John Harrison, a Lincolnshire **carpenter**, **answered** with machinery that **resisted** **motion**, friction and **heat**. H1 went to Lisbon in 1736; a **flaw** kept H2 **ashore**; nineteen years of **refining** H3 still fell short.",
-          "zh": "1714 年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是三十**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森**答**(answered)以一套能**抵抗**(resisted)**晃动**(motion)、摩擦与**温度**(heat)的机械。H1 在 1736 年去了里斯本；一处**缺陷**(flaw)让 H2 留在了**岸上**(ashore)；十九年**打磨**(refining)H3，仍然不够。"
+          "zh": "1714 年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是三十**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森**答**(answered)以一套能**抵抗**(resisted)**晃动**(motion)、摩擦与**温度**(heat)的机械。H1 在 1736 年去了里斯本；一处**缺陷**(flaw)让 H2 留在了**岸上**(ashore)；十九年**打磨**(refining) H3，仍然不够。"
         },
         {
           "en": "H4, finished in 1759, was no clock but a **portable** watch five **inches** wide: a **balance** beating five times a second, a bimetallic **strip** offsetting **temperature**, **jewelled** **pivots** cutting **friction**. His son William carried it to Jamaica; over eighty-one days it lost 5.1 seconds, a **gap** under one nautical mile where thirty were **tolerated**.",
-          "zh": "1759 年完成的 H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条双金属**片**(strip)抵消**温度**(temperature)，**嵌宝石**(jewelled)的**枢轴**(pivots)减小**摩擦**(friction)。他的儿子威廉带着它去牙买加；八十一天航程里它只慢了 5.1 秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。"
+          "zh": "1759 年完成的 H4 不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条双金属**片**(strip)抵消**温度**(temperature)，**嵌宝石**(jewelled)的**枢轴**(pivots)减小**摩擦**(friction)。他的儿子威廉带着它去牙买加；八十一天航程里它只慢了 5.1 秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。"
         },
         {
           "en": "The **commissioners** **balked**. Nevil Maskelyne, who **championed** the **lunar** method, took the **astronomical** **observations** at H4's Barbados trial and published both. The watch **erred** 39 seconds in forty-seven days, three times better than the Act required. The Board split the payment: half for the **principles**, half once other **makers** could **replicate** the watch.",
@@ -1201,7 +1204,8 @@
         "拉尔卡姆·肯德尔的复制品K1于1769年完成，随库克第二次远航三年，日差始终未超过8秒（赤道上约合2海里）。1773年议会另行拨给哈里森8750英镑，并非正式奖金；哈里森1776年去世。因航海钟长期昂贵，月距法连同马斯基林创办的《航海天文年历》又沿用了一个多世纪。[NMM](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[American Scientist](https://www.americanscientist.org/article/the-harrison-maskelyne-affair)",
         "**指代订正（2026-08-16）**：§5 原写 In 1773 Parliament granted **him** £8,750，而 him 紧跟在 Larcum Kendall 之后——**实际获奖者是哈里森**，非肯德尔。已改为具名。**已核**：1773年6月议会通过法案授予哈里森 £8,750；他从未获得那笔 £20,000 奖金，而该奖金实际上从未授予任何人。库克带 K1 出海三年、1775年7月归航，盛赞其为「我们穿越各种气候的忠实向导」，K1 日走差全程未超八秒；哈里森1776年3月24日、他83岁生日当天在伦敦红狮广场寓所去世——**已知不确定他是否得知库克此行的成功**。[Royal Museums Greenwich／NMM：John Harrison and the Longitude problem](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[Royal Naval Museum：John Harrison biography](https://www.royalnavalmuseum.org/info_sheets_john_harrison.html)",
         "**已核（2026-08-20 逐条上网）· §5 一处指代已订正**：库克第二次远航（1772年7月13日—1775年7月30日，HMS Resolution）带的是**肯德尔的 K1**，而非哈里森的 H4；1775 年他向海军部报告「肯德尔的表已超出其最热忱拥护者的期望」，航海日志称它「我们可信赖的朋友——那块表」「我们从不失灵的向导——那块表」。**正是 K1 向仍在怀疑的学界证明了 H4 的成功不是侥幸**（同航另有阿诺德所制三只天文钟全部停摆）。原文写 Cook sailed home **praising it**——**it 悬空，读者会以为夸的是哈里森那块表**；已改为 praising **the copy**。哈里森 1776 年去世，距库克 1775 年 7 月归航约八个月，「months after」无误。[Wikiwand：Larcum Kendall](https://www.wikiwand.com/en/Larcum_Kendall)｜[Wikipedia：Second voyage of James Cook](https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-04.md）**：零 A。中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-04.md）**：零 A。中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-04.md）**：零 A，零 B；补两处空格。"
       ]
     },
     {
@@ -1502,7 +1506,8 @@
         "**史实更正（2026-08-16）**：本文原末句写「史密森学会留着那张包装纸」，并在 §4 给出 UPC 号码 036000291452，两处均无据。《史密森尼杂志》2017年6月26日的编者按明确更正：该刊原文曾推测史密森国家美国历史博物馆收藏并展出了那包箭牌口香糖，实则**史密森并未收藏那包口香糖**，曾展出的是一件复制品。博物馆实际收藏的是最初十台扫描仪之一——Spectra Physics A 型价格扫描器，其工作原理为氦氖激光经旋转反射镜投射，光电二极管接收标签反射光。而首次扫描那包口香糖的实际 UPC 号码，检索未见可靠来源，故正文改为不给具体数字。[Smithsonian Magazine：The History of the Bar Code（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)｜[Smithsonian 藏品：Supermarket Scanner](https://si.edu/object/supermarket-scanner%3Anmah_892778)",
         "**已核（2026-08-16 逐条上网）**：1974年6月26日上午在俄亥俄州特洛伊市Marsh 超市完成史上第一次商用条码扫描；伍德兰与西尔弗1949年提交光学分类法专利、1952年获授权（含直线与同心圆两种图形）；乔治·劳雷尔在IBM主张竖条方案，1973年行业委员会选定并定名 UPC-A；十二位数字末位为校验码。**另有两处已在前次跑轮中订正**：史密森学会收藏的是最初十台扫描仪之一而非那张包装纸（《史密森尼杂志》编者按明确更正）；原文给出的 UPC 号码检索无据，已改为不给数字。[Smithsonian Magazine（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)",
         "**已核（2026-08-20 逐条上网）· §5 那句史密森是对的，且正好验证了第23篇的教训**：史密森美国历史博物馆藏品页明载 This Spectra Physics model A price scanner is **one of those first ten scanners**——**本文「收藏其中一台最早的扫描仪」无误**。**而同一页还写着：那包被扫的口香糖留在了 Clyde Dawson 手里，从未进过史密森**（The scanned package of chewing gum remained with Clyde Dawson of Marsh Supermarkets and never came to the Smithsonian）——**第23篇当年正是在这一点上出的错，来源就是这一页**。注意：多处二手资料仍误称那包口香糖藏于史密森。\n另核实无误：1974年6月26日8:01、Marsh 超市、Troy 俄亥俄、Clyde Dawson（Marsh 研发负责人）、收银员 Sharon Buchanan、**67美分（Wrigley 标价69美分，减2美分促销）**、伍德兰与西尔弗1949年申请/1952年获专利、牛眼码印在包装上会晕开、1973年委员会选中IBM方案并命名 UPC-A、氦氖激光经旋转镜照到玻璃面再由光电二极管接收、该店共装十台、每台四千美元。**§5 末尾三句泛论已改实**：原为「商店建账、对手造兼容读头、厂商印码」，现改为 **Spectra-Physics 造激光器、NCR 造收银机**——同一藏品页载「两家共同开发，分别提供激光扫描器与计算机化收银机」。[Smithsonian NMAH：Supermarket Scanner](https://americanhistory.si.edu/collections/object/nmah_892778)｜[Smithsonian Magazine：The History of the Bar Code](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-05.md）**：零 A。B：结句逗号拼接改分号；数字与英文缩写空格。「rival vendors followed, makers printed codes」为等长留逗号（列举式）。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-05.md）**：零 A。B：结句逗号拼接改分号；数字与英文缩写空格。「rival vendors followed, makers printed codes」为等长留逗号（列举式）。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-05.md）**：零 A，零 B——两遍无停顿。"
       ]
     },
     {
@@ -1522,7 +1527,7 @@
       "paras": [
         {
           "en": "Air is four fifths **nitrogen**, yet no **crop** can use N₂ as it stands; roots take it up only as **compounds**. The **molecule** is **inert**, its atoms held by a triple **bond**. Farming **leaned** on **manure** and **nitrate** **mined** in Chile, so harvests hung on a distant deposit.",
-          "zh": "空气里五分之四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。"
+          "zh": "空气里五分之四是**氮**(nitrogen)，可**作物**(crop)用不了 N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。"
         },
         {
           "en": "In July 1909 Fritz Haber and Robert Le Rossignol ran a bench **apparatus** at Karlsruhe. Hydrogen and nitrogen **circulated** over an osmium **catalyst** at 200 **atmospheres** and 500 degrees. High pressure **favoured** **ammonia**; heat **hastened** the reaction but cut **equilibrium** **yield**. Cooling condensed the product; a pump **recycled** the rest. It made 125 millilitres an hour.",
@@ -1802,7 +1807,8 @@
         "当代合成氨仍沿用可辨识的哈伯法，只是改用铁基催化剂并强化热回收；其能耗约占全球能源的1%—2%，所需氢多来自化石燃料，排放集中在上游。可再生电力制氢可替代该部分氢源，提高施肥效率则可抑制过量氮向水体与大气的流失。[Cambridge Core：HB 工艺综述](https://resolve.cambridge.org/core/product/F1159C9DB99D2B99D3B78518CCB4E90D/core-reader)",
         "**放大倍数的算法**：实验室每小时125毫升氨（密度约0.73 g/L，约0.09克/小时，合约2.2克/日）；1914年奥保日产40吨。两者相差约3.2×10⁵倍，正文取「放大32万倍」。　**已核且标注存疑**：125 毫升/小时、奥保 1913 年 9 月启用、米塔施筛选逾 2500 种配方，三项均获来源印证。但「1914 年日产 40 吨」**两说并存**：Wikipedia／HandWiki 记为 20 吨/日，另有来源记为 40 吨/日并据此给出「约 32 万倍」。正文取 40 吨与 320,000 倍，采自后者；若采前者则约为 16 万倍。**此数字存争议，读者宜知。**[Wikipedia：Haber process](https://handwiki.org/wiki/Chemistry:Haber_process)",
         "**已核（2026-08-20 逐条上网）· 抓出一处倍数算错**：\n**原文作「the same reaction magnified 320,000 times」——这个倍数经不起算。**\n125 毫升/时的液氨（密度约 0.682 g/mL）约合 85 克/时、即 **约 2 公斤/日**；日产 40 吨 ÷ 2 公斤/日 ≈ **两万倍**。按小时算亦同：40 吨/日 = 1,667 公斤/时，÷ 0.085 公斤/时 ≈ **19,600 倍**。\n**三十二万这个数是怎么来的**：把 40 吨当作 40,000,000 毫升（即按 1 g/mL 计）再除以 125 毫升 = 320,000——**这是拿「一天的产量」去除「一小时的产量」，单位对不上**。已改为 **twenty thousandfold**／「放大了两万倍」。\n**无误三项**：1909 年夏哈伯与勒罗西尼奥尔的台式装置产氨 **约 125 毫升/时**（多处一致，1909年7月2日以锇作催化剂作最终演示）；**米塔施至 1910 年在 6,500 次试验中筛过 2,500 种以上配方**（Fertilizer.org 原文：Until 1910 more that 2500 different formulas were tested in 6500 runs）；**奥堡 1913 年 9 月 9 日投产**。\n**一处两说并存**：1914 年日产量——维基／HandWiki／Infogalactic 作 **20 吨/日**；Grokipedia 作「初期 30 吨/日，首年末达 **40 吨/日**」；execution-atlas 亦作 40 吨/日。本文取 40（首年末），两说此存照。[Fertilizer.org：The Haber-Bosch Heritage](https://www.fertilizer.org/wp-content/uploads/2023/01/HABER.pdf)｜[Royal Society：Robert Le Rossignol, 1884–1976](https://royalsocietypublishing.org/rsnr/article/71/3/263/48636/Robert-Le-Rossignol-1884-1976-Engineer-of-the)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-06.md）**：一处 A——中文「五**分之**四」误加粗（英文无名额）。数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-06.md）**：一处 A——中文「五**分之**四」误加粗（英文无名额）。数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-06.md）**：零 A，零 B；补空格。"
       ]
     },
     {
@@ -2102,7 +2108,8 @@
         "正文写“到了终点，含义可以重新变得要紧”，对应香农原文将通信系统划分为信源、发射机、信道、接收机与终点（destination）；理论只保证消息在信道上被完好复现，不评判消息的用途。[Shannon 1948 原文](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)",
         "**订正与来源（2026-08-16）**：§2 原写「他……管它叫熵」；**「熵」这个名字实际是冯·诺依曼建议香农采用的**（而非香农自取），已改为 von Neumann urged the name。**已核**：香农1951年《Prediction and Entropy of Printed English》给出单字母 4.14 bits，而借猜字实验测得印刷英语的熵在 **0.6—1.3 bits/字母** 之间——正文两个数字均与原文一致。「bit」一名由约翰·图基所起。[Shannon 1951 原文（Princeton 存档 PDF）](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)｜[Mahoney：Refining the Estimated Entropy of English](https://mattmahoney.net/dc/entropy1.html)",
         "**已核（2026-08-20 逐条上网）· 八项全对，零翻案**：\n**4.14 比特／字母** —— **香农 1951 年原文即此数**：「F₁ = −Σ p(i) log₂ p(i) = **4.14 bits per letter**」（不计空格；计空格时为 4.03）。正文写「Letters counted singly give 4.14 bits each」，与 F₁ 的定义完全对应。\n**0.6 至 1.3 比特** —— 猜字实验所得区间，多处引述一致（Shannon, Prediction and Entropy of Printed English, BSTJ 30:50-64, **1951**）。实验以《Jefferson the Virginian》中 100 段各 100 字为材料，受试者为其夫人，对每段取 n=1…15 与 100，共 1,600 次观测。\n**冯·诺依曼建议命名为「熵」** —— Tribus 1961 年当面所问、香农所答，原话「no one knows what entropy really is, so in a debate you will always have the advantage」。\n**bit 一词由 John Tukey 所造** —— 香农 1948 年论文中即明确归功于图基。\n另核无误：1948 年发表《通信的数学理论》；八个等概结果需三次是非判断（log₂8=3）；汉明 **1950 年**以奇偶校验造出既能检错又能纠错的码。[Shannon 1951 原文 PDF（普林斯顿存档）](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)｜[arXiv：Entropy? Honest!（冯·诺依曼原话出处）](https://arxiv.org/pdf/1705.02223)｜[PMC：Entropy Rate Estimation for English](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7514546/)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-07.md）**：一处 A——§2「entropy, base two gave the unit, a contraction of binary digit, named by John Tukey」三件事逗号连串，断成两句并点明 the bit。数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-07.md）**：一处 A——§2「entropy, base two gave the unit, a contraction of binary digit, named by John Tukey」三件事逗号连串，断成两句并点明 the bit。数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-07.md）**：零 A，零 B——两遍无停顿。"
       ]
     }
   ]);

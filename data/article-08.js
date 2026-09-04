@@ -27,11 +27,11 @@
         },
         {
           "en": "By 1912 she had periods for 25 stars. The **tendency** held: longer **periods**, brighter stars. She **analysed** **magnitudes** against the **logarithm** of period. Each set fell into a **cadence**: period **corresponded** to relative luminosity. The circular was **signed** by Edward Pickering; its opening **credits** Miss Leavitt. Without a zero point, no absolute distance **ensued**.",
-          "zh": "到 1912 年她有了 25 颗星的周期，那个**趋势**(tendency)站住了：**周期**(periods)越长，星越亮。她把**星等**(magnitudes)对周期的**对数**(logarithm)作了**分析**(analysed)。两组点各自落成一条**规律**(cadence)：周期**对应**(corresponded)着相对光度。那份通报**署**(signed)着爱德华·皮克林的名字，开头一句却把功劳**记**(credits)在莱维特小姐名下。没有零点，绝对距离**随之**(ensued)得不出来。"
+          "zh": "到 1912 年她有了 25 颗星的周期，那个**趋势**(tendency)站住了：**周期**(periods)越长，星越亮。她把**星等**(magnitudes)对周期的**对数**(logarithm)作了**分析**(analysed)。两组点各自落成一条**规律**(cadence)的线：周期**对应**(corresponded)着相对光度。那份通报**署**(signed)着爱德华·皮克林的名字，开头一句却把功劳**记**(credits)在莱维特小姐名下。没有零点，绝对距离也就**随之**(ensued)得不出来。"
         },
         {
           "en": "Later astronomers **pegged** the relation to Cepheid distances known already. A Cepheid then served as a **yardstick**: **predicted** luminosity set against apparent brightness gave the **reach**. In 1923–24 Hubble used that ruler to **establish** Andromeda as a **galaxy** **beyond** the Milky Way; astronomers built on his result a **foundation** for the **universe**'s **expansion**.",
-          "zh": "后来的天文学家把这条关系**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24 年，哈勃用这把尺**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家便在他这个结果上，为**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。"
+          "zh": "后来的天文学家把这条关系**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，便得出**距程**(reach)。1923—24 年，哈勃用这把尺**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家便在他这个结果上，为**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。"
         },
         {
           "en": "Her **contribution** was **crucial**, its scope **modest**: the relation gave no absolute distance. She did not **eliminate** distance; she held that **factor** **constant** and **isolated** the relation, letting others **infer** distances they could not measure. Mittag-Leffler moved to nominate her for the 1926 Nobel, unaware she had died in 1921. A **posthumous** **honour** cannot reach four years back.",
@@ -300,7 +300,8 @@
         "莱维特1908年《麦哲伦云中的1777颗变星》一文中，列出周期已定的变星共16颗，并指出较亮者周期较长；1912年的通报把样本扩至25颗。　**已核**：1908年《麦哲伦云中的1777颗变星》（小云969颗、大云808颗）；其中周期已定者16颗，指出较亮者周期较长；1912年通报把样本扩至25颗，由皮克林署名而首句注明「由莱维特小姐编制」。[Wikipedia：Henrietta Swan Leavitt](https://en.m.wikipedia.org/wiki/Henrietta_Swan_Leavitt)｜[AAS：This Month in Astronomical History](https://aas.org/posts/news/2018/07/month-astronomical-history)",
         "**诺贝尔提名（2026-08-16 订正）**：原记为「1925年米塔格-莱夫勒写信提名」，查证后改为**冲着1926年的物理学奖**——多方来源一致：他着手提名时才得知莱维特已于1921年12月12日病逝，而诺贝尔奖不追授。[Famous Scientists：Henrietta Swan Leavitt](https://www.famousscientists.org/henrietta-swan-leavitt/)｜[Wikipedia：Henrietta Swan Leavitt](https://en.m.wikipedia.org/wiki/Henrietta_Swan_Leavitt)",
         "**已核（2026-08-20）· §5 收束句一处硬错已订正**：原句「The honour is **never** posthumous.」——**这是错的。**\n**1974 年之前，诺贝尔奖是可以追授的**：只要在当年 2 月 1 日前已获提名即可。史上确曾追授两次——**卡尔费尔特（1931 年文学奖）与哈马舍尔德（1961 年和平奖）**。「不得追授」这条规则**是 1974 年才写进基金会章程的，比莱维特去世晚 53 年**。（另：2011 年斯坦曼在公布前三天去世，基金会依「善意作出」之解释仍予保留。）\n**真正的障碍不是「从不追授」，而是时间跨度**：追授只适用于在当届提名后去世者，而莱维特 1921 年去世、米塔-列夫勒 1925 年才着手提名，中间隔了四年，**提名伸不到那么远**。已改为 **A posthumous honour could not reach four years back.**[NobelPrize.org FAQ](https://www.nobelprize.org/frequently-asked-questions/)｜[NobelPrize.org：Nobel Prize facts](https://www.nobelprize.org/prizes/facts/nobel-prize-facts/)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-08.md）**：零 A。cadence／ensued／reach 三个名额用得偏，中文兜住，留；数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-08.md）**：零 A。cadence／ensued／reach 三个名额用得偏，中文兜住，留；数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-08.md）**：零 A。B：「落成一条规律」补「的线」；「随之得不出来」补「也就」；「距程便得」改「便得出距程」。"
       ]
     }
   ]);

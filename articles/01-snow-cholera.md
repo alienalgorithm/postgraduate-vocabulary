@@ -70,3 +70,4 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** later
 **粪坑距井 两英尺八英寸**（0.81 米）与他处所记「不到一米」「约三英尺」相符，砖砌已朽。
 **一处时间点已改为不依赖**：原文作「that autumn」（1854年秋）。实况是——怀特黑德 1854 年 11 月才加入教区霍乱调查委员会，**查出索引病例（40号 Broad Street 的婴儿 Frances Lewis）与开挖粪坑均在 1855 年**，委员会报告 1855 年 7 月才刊出。已改为 **later**，不再指认季节。[Wikipedia：1854 Broad Street cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)｜[Sick City Project：John Snow and cholera](https://sickcityproject.wordpress.com/2013/03/11/john-snow-and-cholera/)｜[Look Up London：The Deadly History of This Soho Water Pump](https://lookup.london/john-snow-water-pump/)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-01.md）**：零 A。B：died the next day 补 the；中文 blocks 括注从「按片区」挪到「两个街区」；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-01.md）**：零 A，零 B——两遍无停顿。

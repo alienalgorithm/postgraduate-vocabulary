@@ -30,7 +30,7 @@ Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly
 
 从 1981 年起，10 月的**读数**(readings)开始下滑。乔·法曼**判断**(reckoned)是自己那台**老化**(ageing)的光学件走偏了，便订了一台**替换机**(replacement)；两台读数**吻合**(agreed)。一千英里外的另一处**观测点**(outpost)，也出现了同样**年复一年**(recurring)的**下降**(decline)。到 1984 年 10 月，总量已比 1960 年代低了 40%。可队里仍在**犹豫**(hesitated)：**轨道**(orbit)上一直没有消息。
 
-“云雨七号”自 1978 年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于 180 多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，而那份记录**本身**就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。
+「云雨七号」自 1978 年起就载着一台臭氧**测绘仪**(mapper)。它的数据**处理**(processing)会把低于 180 多布森单位的读数**标记**(flagged)出来——这个**阈值**(threshold)是为逮住**故障的**(faulty)**镜头**(lens)而设的，不是为发现真实的变化。为了**判定**(settle)究竟是哪一种，NASA 的人拿这些可疑值去比对南极点的地面记录，而那份记录本身就是**错的**(erroneous)，**标定**(calibration)早已丢失。没有人再回头，低值就这样一直**未获证实**(unconfirmed)。法曼还是发表了。
 
 1985 年 5 月 16 日，《自然》刊出了法曼、加德纳与尚克林的论文。没有哪个模型**预见到**(anticipated)这么大的损失：在北纬 30 度附近**调校**(tuned)出来的计算只给出百分之几，而没有一个人**模拟**(simulated)过极地的冬天。零下 78 摄氏度以下，**平流层的**(stratospheric)云会在臭氧层的**高度**(altitude)上**凝结**(condense)；在云**粒子**(particles)表面，原本**蛰伏**(dormant)的含**氯**(chlorine)化合物变成了会被光**劈开**(cleaves)的形态。
 
@@ -68,3 +68,4 @@ Returning sunlight **liberates** those atoms, each destroying ozone **repeatedly
 **一处机制存两说**：正文 §3 作「NASA staff read the South Pole record — itself erroneous, its calibration long lost」。Hyndman 的记述则是：**当时可比对的其他地面数据显示约 300 DU（正常值），故认定是卫星传感器故障**。两说指向同一结果（低值被弃），但机制不同——一说是比对基准本身坏了，一说是比对基准显示正常。**本轮未取得「标定丢失」的直接出处，如实标为待复核。**
 **另一处两说**：卫星数据重处理后确认全洲范围亏损的年份——Bhartia 等 **1985 年 8 月**在布拉格会议首次展示 TOMS 臭氧洞图；而 Stolarski 等的正式论文刊于 **1986 年**。正文取 1986（正式发表），两说并此存照。[Rob J Hyndman：How NASA didn't discover the hole in the ozone layer](https://robjhyndman.com/hyndsight/ozone-hole-anomaly.html)｜[Nature：The discovery of the Antarctic ozone hole](https://www.nature.com/articles/d41586-019-02837-5)｜[KMI：The ozone hole](https://ozone.meteo.be/research-themes/ozone/the-ozone-hole)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-03.md）**：英文零 A。中文 §1「一具棱镜仪器…那是一台棱镜仪器」重复，合并；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-03.md）**：一处 A——「**本身**」误加粗（无英文名额）；引号统一「」。

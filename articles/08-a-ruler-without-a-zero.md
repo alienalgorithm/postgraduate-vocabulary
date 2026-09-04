@@ -30,9 +30,9 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 
 1908 年的一份表列出 16 颗变星，每颗都以**规律的**(regular)**节奏**(rhythm)明暗交替。莱维特**注意到**(noticed)：越亮的，周期越长。小麦哲伦云那**一片**(smudge)天区给了她一个**便利**(advantage)：其中**暗弱的**(faint)变星可以当作处在同一**距离**(distance)上。有了这个**假定**(assumption)，**相对**(relative)亮度反映的就是**内禀**(intrinsic)光度。
 
-到 1912 年她有了 25 颗星的周期，那个**趋势**(tendency)站住了：**周期**(periods)越长，星越亮。她把**星等**(magnitudes)对周期的**对数**(logarithm)作了**分析**(analysed)。两组点各自落成一条**规律**(cadence)：周期**对应**(corresponded)着相对光度。那份通报**署**(signed)着爱德华·皮克林的名字，开头一句却把功劳**记**(credits)在莱维特小姐名下。没有零点，绝对距离**随之**(ensued)得不出来。
+到 1912 年她有了 25 颗星的周期，那个**趋势**(tendency)站住了：**周期**(periods)越长，星越亮。她把**星等**(magnitudes)对周期的**对数**(logarithm)作了**分析**(analysed)。两组点各自落成一条**规律**(cadence)的线：周期**对应**(corresponded)着相对光度。那份通报**署**(signed)着爱德华·皮克林的名字，开头一句却把功劳**记**(credits)在莱维特小姐名下。没有零点，绝对距离也就**随之**(ensued)得不出来。
 
-后来的天文学家把这条关系**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，**距程**(reach)便得。1923—24 年，哈勃用这把尺**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家便在他这个结果上，为**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。
+后来的天文学家把这条关系**钉**(pegged)在独立得知的造父变星距离上。造父变星于是成了一把**尺**(yardstick)：把**预测的**(predicted)光度对上视亮度，便得出**距程**(reach)。1923—24 年，哈勃用这把尺**确立**(establish)仙女座是银河系**之外**(beyond)的**星系**(galaxy)；天文学家便在他这个结果上，为**宇宙**(universe)**膨胀**(expansion)搭起了**基础**(foundation)。
 
 她的**贡献**(contribution)是**关键的**(crucial)，范围却**有限**(modest)：这条关系给不出绝对距离。她没有**消除**(eliminate)距离这个**因素**(factor)，而是把它按**恒定**(constant)处理，从中**分离**(isolated)出那条关系——别人由此**推断**(infer)出量不到的距离。米塔-列夫勒着手提名她角逐 1926 年的诺贝尔奖，却不知她已在 1921 年去世。**追授**(posthumous)的**荣誉**(honour)伸不到四年之前。
 
@@ -68,3 +68,4 @@ Her **contribution** was **crucial**, its scope **modest**: the relation gave no
 **1974 年之前，诺贝尔奖是可以追授的**：只要在当年 2 月 1 日前已获提名即可。史上确曾追授两次——**卡尔费尔特（1931 年文学奖）与哈马舍尔德（1961 年和平奖）**。「不得追授」这条规则**是 1974 年才写进基金会章程的，比莱维特去世晚 53 年**。（另：2011 年斯坦曼在公布前三天去世，基金会依「善意作出」之解释仍予保留。）
 **真正的障碍不是「从不追授」，而是时间跨度**：追授只适用于在当届提名后去世者，而莱维特 1921 年去世、米塔-列夫勒 1925 年才着手提名，中间隔了四年，**提名伸不到那么远**。已改为 **A posthumous honour could not reach four years back.**[NobelPrize.org FAQ](https://www.nobelprize.org/frequently-asked-questions/)｜[NobelPrize.org：Nobel Prize facts](https://www.nobelprize.org/prizes/facts/nobel-prize-facts/)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-08.md）**：零 A。cadence／ensued／reach 三个名额用得偏，中文兜住，留；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-08.md）**：零 A。B：「落成一条规律」补「的线」；「随之得不出来」补「也就」；「距程便得」改「便得出距程」。

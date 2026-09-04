@@ -26,7 +26,7 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-空气里五分之四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。
+空气里五分之四是**氮**(nitrogen)，可**作物**(crop)用不了 N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。
 
 1909 年 7 月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约 200 个**大气压**(atmospheres)、500 度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨 125 毫升。
 
@@ -70,3 +70,4 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 **无误三项**：1909 年夏哈伯与勒罗西尼奥尔的台式装置产氨 **约 125 毫升/时**（多处一致，1909年7月2日以锇作催化剂作最终演示）；**米塔施至 1910 年在 6,500 次试验中筛过 2,500 种以上配方**（Fertilizer.org 原文：Until 1910 more that 2500 different formulas were tested in 6500 runs）；**奥堡 1913 年 9 月 9 日投产**。
 **一处两说并存**：1914 年日产量——维基／HandWiki／Infogalactic 作 **20 吨/日**；Grokipedia 作「初期 30 吨/日，首年末达 **40 吨/日**」；execution-atlas 亦作 40 吨/日。本文取 40（首年末），两说此存照。[Fertilizer.org：The Haber-Bosch Heritage](https://www.fertilizer.org/wp-content/uploads/2023/01/HABER.pdf)｜[Royal Society：Robert Le Rossignol, 1884–1976](https://royalsocietypublishing.org/rsnr/article/71/3/263/48636/Robert-Le-Rossignol-1884-1976-Engineer-of-the)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-06.md）**：一处 A——中文「五**分之**四」误加粗（英文无名额）。数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-06.md）**：零 A，零 B；补空格。

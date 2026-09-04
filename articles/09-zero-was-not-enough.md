@@ -32,7 +32,7 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 
 方法是从**短缺**(shortage)里逼出来的。1966 年 12 月，威廉·福奇接到无线电报告说尼日利亚东部有**疑似**(suspected)疫情，而手里的**痘苗**(lymph)远远不够分。他改为绕着那个村子**围**(ringed)出一圈，又围上另外三个由**亲缘**(kinship)与一处**集市**(bazaar)相连的村子。三十五例，随后再无。**监测**(Surveillance)加**围堵**(containment)从此成了**常设**(standing)**方略**(strategy)：追病例，不追接种率。
 
-此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗**耐得住**(withstood)45 摄氏度，热带储运因此行得通；**双叉**(bifurcated)针的两齿之间正好**托**(cradled)住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
+此后一份报告即触发一次调查：隔离病人，追踪**接触者**(contacts)，给接触者及其接触者接种。冻干疫苗**耐得住**(withstood) 45 摄氏度，热带储运因此行得通；**双叉**(bifurcated)针的两齿之间正好**托**(cradled)住一**剂**(dose)，只需简短**培训**(instruction)，接种员就能**刺入**(pierce)手臂，把**紧缺**(scarce)的存量拉长。天花不寄居于任何动物，**潜伏期**(incubation)里也**不声不响**(silent)。
 
 最难的一关是印度：1974 年它占了全世界**病例总量**(caseload)的三分之二；到 1975 年 5 月，它的传播**链**(chains)被**切断**(ruptured)。1978 年伯明翰一次**实验室**(laboratory)**泄漏**(leak)夺走了珍妮特·帕克的命。1979 年一个委员会**认证**(certified)根除，1980 年 5 月世界卫生大会正式**宣布**(declared)。马阿林 2013 年死于疟疾，当时他正在为消灭**脊灰**(polio)奔走。零从来不能证明天花已经**消失**(vanished)；是搜寻把「没有」变成了人们可以**依靠**(rely)的证据。
 
@@ -71,3 +71,4 @@ India was the hardest test: two-thirds of the **caseload** in 1974, its **chains
 **世卫估计：65—80% 的天花幸存者留下深麻坑；5—9% 出现眼部并发症（含失明）。**正文已改为 **scarred two-thirds of the survivors**——取 65—80% 区间的下沿作保守表述。（失明一项因比例小得多、与麻坑不宜并列，已从该句移除；§1 马阿林与 §5 仍完整。）[NFID：The Triumph of Science](https://www.nfid.org/the-triumph-of-science-the-incredible-story-of-smallpox-eradication/)｜[PubMed：The ocular complications of smallpox](https://pubmed.ncbi.nlm.nih.gov/12742852/)
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**「nowhere near enough serum」——天花疫苗不是血清；这个词是为避 vaccine 重复取的。中文侧本已译作「疫苗」。已改为 lymph——牛痘疫苗的历史称法是 vaccine lymph，1960 年代 WHO 文件仍沿用，福格那一代接种员就是这么叫的。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-09.md）**：两处 A——「notified the office」补 eradication（中文有）；§4 逗号拼接改分号。B：§5 逗号拼接改分号；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-09.md）**：零 A，零 B；补空格。
