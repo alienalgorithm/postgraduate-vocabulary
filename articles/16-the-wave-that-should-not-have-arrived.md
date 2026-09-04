@@ -26,13 +26,13 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1929年6月17日，新西兰默奇森附近的一场**地震**(earthquake)让**地震波**(seismic)穿过地球。在哥本哈根，丹麦**数学家**(mathematician)英格·莱曼研读各台地震仪绘出的**痕迹**(traces)。每一次地面**振动**(vibration)，都是探查地球**内部**(interior)的一枚间接**探针**(probe)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**脉冲**(blip)，来由仍**晦暗不明**(obscure)。
+1929 年 6 月 17 日，新西兰默奇森附近的一场**地震**(earthquake)让**地震波**(seismic)穿过地球。在哥本哈根，丹麦**数学家**(mathematician)英格·莱曼研读各台地震仪绘出的**痕迹**(traces)。每一次地面**振动**(vibration)，都是探查地球**内部**(interior)的一枚间接**探针**(probe)。然而，来自**世界各地的**(worldwide)记录中有一道微弱**脉冲**(blip)，来由仍**晦暗不明**(obscure)。
 
-当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)所经**介质**(medium)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P**波**(waves)会在地核边界发生折射；传播**角度**(angle)的改变，会在距震源104至140度处形成一片**阴影区**(shadow)，直达P波本不应抵达那里。
+当时公认的模型认为，岩石地幔包围着一个流体地核。P波会**压缩**(compress)所经**介质**(medium)，并能穿过**固态**(solid)或**液态**(liquid)介质；S波则使物质发生**剪切**(shear)，无法**穿透**(penetrate)液态**外核**(outer)。P**波**(waves)会在地核边界发生折射；传播**角度**(angle)的改变，会在距震源 104 至 140 度处形成一片**阴影区**(shadow)，直达P波本不应抵达那里。
 
-但微弱P′波的**到达记录**(arrivals)偏偏出现在那里。有人把它们**归因于**(attributed)地核周围的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震以及其他地震的记录。资料虽然**零散**(scattered)，传播时间却符合一条**路径**(path)：**走时**(transit)显示它穿过一个波速更快的中央**球体**(sphere)。1936年，她提出地球存在一个内核；P波在那里具有更高的**速度**(velocity)，因而可能被**重新导向**(redirect)阴影区。
+但微弱P′波的**到达记录**(arrivals)偏偏出现在那里。有人把它们**归因于**(attributed)地核周围的**衍射**(diffraction)。莱曼**查验了**(examined)默奇森地震以及其他地震的记录。资料虽然**零散**(scattered)，传播时间却符合一条**路径**(path)：**走时**(transit)显示它穿过一个波速更快的中央**球体**(sphere)。1936 年，她提出地球存在一个内核；P波在那里具有更高的**速度**(velocity)，因而可能被**重新导向**(redirect)阴影区。
 
-在《P′》中，莱曼十分**谨慎**(cautious)：内核只是一种**可能性**(possibility)，其状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)与**数值**(numerical)分析排除了衍射解释。此后的模型把内核视为具有**刚性**(rigid)；1952年，弗朗西斯·伯奇认为，最简洁的解释是它由**晶体状的**(crystalline)铁构成。它约1220公里的**半径**(radius)，意味着其**直径**(diameter)小于月球；外层的液态金属将它**包围**(encloses)。
+在《P′》中，莱曼十分**谨慎**(cautious)：内核只是一种**可能性**(possibility)，其状态仍**无法确定**(uncertain)。后来的严格**审视**(scrutiny)与**数值**(numerical)分析排除了衍射解释。此后的模型把内核视为具有**刚性**(rigid)；1952 年，弗朗西斯·伯奇认为，最简洁的解释是它由**晶体状的**(crystalline)铁构成。它约 1,220 公里的**半径**(radius)，意味着其**直径**(diameter)小于月球；外层的液态金属将它**包围**(encloses)。
 
 莱曼让这处**不一致**(discrepancy)服从一套新的**几何关系**(geometry)。她的模型为每次到达给出一个**时刻**(timing)，也为每条路径设下一项**约束条件**(constraint)。这次**修正**(revision)之所以**有分量**(carried weight)，是因为它预言了这些信号会出现在哪里——如今地震学家对那个内**核**(core)的走时已可计到秒。模型预期的**缺失**(absence)本身就是一项预测；一束没有按**时间表**(schedule)抵达的波，未必只是噪声：它也可能揭示一处**不可见的**(invisible)结构。
 
@@ -82,3 +82,4 @@ Lehmann made a **discrepancy** obey new **geometry**. Her model gave each arriva
 **内核半径约 1,220 公里**，直径 2,440 公里，小于月球（直径 3,474 公里）。
 **一处两说并存**：P 波影区的角距范围——本文作 **104°—140°**；Trowelblazers 作 **103°—143°**；教科书两种数值皆在流传。两说此存照。
 另可补而未补的一处：**1936 年 3 月 29 日她致信杰弗里斯说明此想法，而杰弗里斯并不信服**。[Encyclopedia.com：Inge Lehmann（含其原文结论）](https://www.encyclopedia.com/people/science-and-technology/geology-and-oceanography-biographies/inge-lehmann)｜[APS News：Seismologist Lehmann Concludes That Earth Has an Inner Core](https://www.aps.org/apsnews/2023/08/seismologist-lehmann-earth-inner-core)｜[Harvard 课程存档：Lehmann 1936 原文摘录](https://courses.seas.harvard.edu/climate/eli/Courses/EPS281r/Sources/Inner-Core/Lehmann-1936-extracts+interpretation.pdf)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-16.md）**：零 A。中文数字空格。

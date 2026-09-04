@@ -13,7 +13,7 @@ In 1990, US **legislation** targeted acid-rain pollution from power-plant **smok
 
 The law translated this **budget** into tradable **allowances**, each **authorising** one ton. A plant could fit a **scrubber**, switch fuel, **procure** allowances or sell a **surplus**; unused ones could be **banked**. This **flexibility** let firms choose among **alternatives**, but not enlarge the national **quota**: every emitted ton still consumed an allowance.
 
-The market worked because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; every allowance carried a **serial** number in a public **registry**. At year's end plants **surrendered** allowances matching emissions. A **shortfall** owed $2,000 a ton, no **penalty** notice required; the **overrun** was **deducted** from later years. No allowance could **override** health limits.
+The market worked because the **accounting** was hard-edged. Stack **sensors** measured emissions continuously; every allowance carried a **serial** number in a public **registry**. At year's end plants **surrendered** allowances matching emissions. A **shortfall** cost $2,000 a ton, no **penalty** notice required; the **overrun** was **deducted** from later years. No allowance could **override** health limits.
 
 Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, others burning low-sulphur coal. Cuts came **sooner** than scheduled at an **expense** nobody had **forecast**: industry had said $1,000 a ton; allowances traded near $150. Trading was not the sole **contributor**: rail **competition** cut **haulage** costs for **carriers**, and later **statutes** **accelerated** the fall.
 
@@ -26,15 +26,15 @@ Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, oth
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1990年，美国通过**立法**(legislation)治理发电厂**烟囱**(smokestacks)排放造成的酸雨污染。燃煤**电力企业**(utilities)排放**二氧化**(dioxide)**硫**(sulphur)；它是形成**酸沉降**(deposition)的**前体物**(precursor)，会损害湖泊和森林。国会没有**规定**(prescribe)一套**标准化的**(standardised)控制技术，而是设定一项具有约束力的全国排放**上限**(ceiling)：从2010年起为895万吨，约为1980年电力行业排放水平的一半。
+1990 年，美国通过**立法**(legislation)治理发电厂**烟囱**(smokestacks)排放造成的酸雨污染。燃煤**电力企业**(utilities)排放**二氧化**(dioxide)**硫**(sulphur)；它是形成**酸沉降**(deposition)的**前体物**(precursor)，会损害湖泊和森林。国会没有**规定**(prescribe)一套**标准化的**(standardised)控制技术，而是设定一项具有约束力的全国排放**上限**(ceiling)：从 2010 年起为 895 万吨，约为 1980 年电力行业排放水平的一半。
 
 法律把这份排放**预算**(budget)转化为可交易的**排放额度**(allowances)，每一份都**允许**(authorising)持有者排放一吨二氧化硫。电厂可以安装**洗涤器**(scrubber)、更换燃料、**购入**(procure)额度，或卖掉**多余**(surplus)部分；暂时不用的额度还可以**结转**(banked)到以后年度。这种**灵活性**(flexibility)让企业在不同**方案**(alternatives)之间选择，却不能扩大全国总**配额**(quota)：每排放一吨，仍须消耗一份额度。
 
-这个市场之所以成立，全在于**核算**(accounting)不留余地。烟囱**传感器**(sensors)连续测量排放；每份配额在公开**登记簿**(registry)上都有**编号**(serial)。年终，电厂**上缴**(surrendered)与实际排放相当的配额。出现**缺口**(shortfall)即欠下每吨2000美元，无需下达**罚**(penalty)单；**超排**(overrun)量还要从往后年份的配额里**扣除**(deducted)。任何配额都不能**凌驾**(override)于基于健康的空气限值之上。
+这个市场之所以成立，全在于**核算**(accounting)不留余地。烟囱**传感器**(sensors)连续测量排放；每份配额在公开**登记簿**(registry)上都有**编号**(serial)。年终，电厂**上缴**(surrendered)与实际排放相当的配额。出现**缺口**(shortfall)即欠下每吨 2,000 美元，无需下达**罚**(penalty)单；**超排**(overrun)量还要从往后年份的配额里**扣除**(deducted)。任何配额都不能**凌驾**(override)于基于健康的空气限值之上。
 
-第一阶段1995年启动，覆盖263台机组。一些电厂**加装了**(retrofitted)洗涤器，另一些改烧低硫煤。减排**早**(sooner)于计划到来，**代价**(expense)也无人**预料**(forecast)：业界曾称每吨1000美元，配额成交价却在150美元上下。交易并非唯一的**促成因素**(contributor)——铁路**承运商**(carriers)之间的**竞争**(competition)压低了**运费**(haulage)，其后的**法令**(statutes)也**加快**(accelerated)了降幅。
+第一阶段 1995 年启动，覆盖 263 台机组。一些电厂**加装了**(retrofitted)洗涤器，另一些改烧低硫煤。减排**早**(sooner)于计划到来，**代价**(expense)也无人**预料**(forecast)：业界曾称每吨 1,000 美元，配额成交价却在 150 美元上下。交易并非唯一的**促成因素**(contributor)——铁路**承运商**(carriers)之间的**竞争**(competition)压低了**运费**(haulage)，其后的**法令**(statutes)也**加快**(accelerated)了降幅。
 
-**立法者**(Lawmakers)先把**法定**(statutory)上限定死，交易此后才**显露**(disclosed)出哪些排放源的**边际**(marginal)治理成本更低。方案设计者之一丹·杜德克坚持的正是这个次序。**制度**(institutional)上的教训就在于此：供给有**界**(bounded)、计量**可信**(credible)、清算**不可回避**(reconciliation)。欧盟2005年照搬了这套架构。市场能**重新分配**(reallocate)**许可**(permission)；它定不了大气的预算。
+**立法者**(Lawmakers)先把**法定**(statutory)上限定死，交易此后才**显露**(disclosed)出哪些排放源的**边际**(marginal)治理成本更低。方案设计者之一丹·杜德克坚持的正是这个次序。**制度**(institutional)上的教训就在于此：供给有**界**(bounded)、计量**可信**(credible)、清算**不可回避**(reconciliation)。欧盟 2005 年照搬了这套架构。市场能**重新分配**(reallocate)**许可**(permission)；它定不了大气的预算。
 
 ---
 
@@ -68,3 +68,4 @@ Phase I began in 1995 across 263 units, some **retrofitted** with scrubbers, oth
 **⭐ 本轮把 §3 的 without demand 改为 no penalty notice required，改对了**——EPA 问答原文即：**「pay an **automatic penalty** of $2000.00 for every ton of sulfur dioxide for which the source did not hold an allowance」**；**「自动」二字正是那一层意思：不必监管方另行下达罚单，超一吨就自动欠上两千美元。**
 **同一处的后半句也印证了**：正文改为 the overrun was deducted from **later years**——EPA 原文即「a requirement to **offset the excess emissions in the following year**」，另据 EPA 问答：the source must offset its excess SO2 emissions in the **next calendar year**。
 **另核无误六项**：**1990 年《清洁空气法》修正案第四篇**设立酸雨计划；**较 1980 年水平永久削减一千万吨** SO₂（1980 年全美排放约 2,600 万吨）；**一阶段 1995 年起**（21 州 110 座电厂 263 机组，后增至 445 机组）、**二阶段 2000 年起**（覆盖两千余机组）；**2010 年最终上限 895 万吨**，约为 1980 年电力部门排放之半；**为美国首个全国性总量—交易制度**（EPA 原文：the first national cap and trade program in the country）；**配额价格后来确曾崩塌**——2002 年《晴空法案》未获国会通过、2005 年后清洁空气州际规则的司法波折，加之存量配额处理问题，最终导致 SO₂ 配额价格崩盘（Ricardo 案例研究）。[EPA：1990 Clean Air Act Amendment Summary, Title IV](https://www.epa.gov/clean-air-act-overview/1990-clean-air-act-amendment-summary-title-iv)｜[EPA：Acid Rain Program](https://www.epa.gov/acidrain/acid-rain-program)｜[EPA 问答原件 PDF](https://19january2021snapshot.epa.gov/sites/static/files/2015-08/documents/q_a.pdf)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-20.md）**：零 A。B：「A shortfall owed」改 cost；中文数字空格。

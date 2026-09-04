@@ -12,29 +12,29 @@
       "date": "2026-08-15",
       "status": "第十九篇最终精进锁定稿",
       "metrics": {
-        "words": 269,
+        "words": 270,
         "keywords": 50,
-        "density": 18.6
+        "density": 18.5
       },
       "paras": [
         {
-          "en": "Five minutes into Eagle's powered **descent** on 20 July 1969, 1202 flashed on the **cockpit** **readout**. \"Give us a reading on the 1202 program **alarm**,\" said Armstrong. Four more came before **touchdown**, three in one forty-second **spasm** as the **lander** fell past 3,000 feet. Each meant guidance had **outrun** the **elapsed** **cycle**.",
-          "zh": "1969年7月20日，「鹰」号动力**下降**(descent)开始五分钟后，1202跳上了**座舱**(cockpit)**显示屏**(readout)。「给我们读一下1202程序**警报**(alarm)。」阿姆斯特朗说。**着陆**(touchdown)前还有四次，其中三次挤在四十秒的一阵**痉挛**(spasm)里——当时**着陆器**(lander)正掠过 3,000 英尺。每一次都意味着制导**跑赢**(outrun)了当前**周期**(cycle)的**已用**(elapsed)时长。"
+          "en": "Five minutes into Eagle's powered **descent** on 20 July 1969, 1202 flashed on the **cockpit** **readout**. \"Give us a reading on the 1202 program **alarm**,\" said Armstrong. Four more came before **touchdown**, three in one forty-second **spasm** as the **lander** fell past 3,000 feet. Each meant guidance had **outrun** the **cycle**; its time had **elapsed**.",
+          "zh": "1969 年 7 月 20 日，「鹰」号动力**下降**(descent)开始五分钟后，1202 跳上了**座舱**(cockpit)**显示屏**(readout)。「给我们读一下1202程序**警报**(alarm)。」阿姆斯特朗说。**着陆**(touchdown)前还有四次，其中三次挤在四十秒的一阵**痉挛**(spasm)里——当时**着陆器**(lander)正掠过 3,000 英尺。每一次都意味着制导**跑赢**(outrun)了**周期**(cycle)：它的时间已经**用完**(elapsed)。"
         },
         {
           "en": "The **rendezvous** **radar** was on for one **contingency**: **abort** to orbit. A wiring **mismatch** made it demand angle counts it did not need. The **processor** already ran at 83 per cent of **capacity**; the radar **claimed** another 13. When Buzz Aldrin **keyed** in a display request, the **slack** was gone.",
-          "zh": "**交会**(rendezvous)**雷达**(radar)开着，是为一种**预案**(contingency)：**中止**(abort)返回轨道。可它的供电接线**错配**(mismatch)，让它不断索要并不需要的角度计数。**处理器**(processor)在这一段本已用掉83%的**算力**(capacity)；雷达又**占去**(claimed)13%。当奥尔德林**敲**(keyed)入一条显示指令，**余量**(slack)就没了。"
+          "zh": "**交会**(rendezvous)**雷达**(radar)开着，是为一种**预案**(contingency)：**中止**(abort)返回轨道。可它的供电接线**错配**(mismatch)，让它不断索要并不需要的角度计数。**处理器**(processor)在这一段本已用掉 83% 的**算力**(capacity)；雷达又**占去**(claimed)13%。当奥尔德林**敲**(keyed)入一条显示指令，**余量**(slack)就没了。"
         },
         {
-          "en": "All five were **defences** reporting for duty. The **executive** ran jobs by **priority**; with no free **workspace** it **restarted**, **dumped** the unfinished low-**ranking** work, reloaded **essential** programs from stored **checkpoints**, and picked **guidance** back up where it had stopped. Shedding load was the design working, not failing.",
+          "en": "All five were **defences** reporting for duty. The **executive** ran jobs by **priority**; with no free **workspace** it **restarted**, **dumped** the unfinished low-**ranking** work, reloaded **essential** programs from **checkpoints**, and picked **guidance** back up where it stopped. Shedding load was the design working, not failing.",
           "zh": "这五次全是**防线**(defences)在报到。**执行程序**(executive)按**优先级**(priority)排活；一旦没有空闲的**工作区**(workspace)，它就**重启**(restarted)，把未完成的低**优先级**(ranking)工作**丢掉**(dumped)，从存好的**检查点**(checkpoints)重载**要害**(essential)程序，再从断处把**制导**(guidance)接回去。卸载荷是设计，不是故障。"
         },
         {
-          "en": "None of those defences helped unless the ground knew. Weeks earlier, in a **simulation**, Steve Bales met the same class of alarm and called an **evacuation**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **penned** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.",
-          "zh": "可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**撤离**(evacuation)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(penned)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。"
+          "en": "None of those defences helped unless the ground knew. Weeks earlier, in a **simulation**, Steve Bales met the same alarm and called a **bailout**. Wrong. Gene Kranz **ordered** every **variant** written down. Jack Garman, twenty-four, **penned** the list and slid it under the **plexiglass** on his **console**. The **rule**: **unless** the alarms turn **incessant**, keep going.",
+          "zh": "可这些都不管用——除非地面知道。几周前的一次**模拟**(simulation)中，史蒂夫·贝尔斯遇到过同一类警报，叫了**中止**(bailout)。错的。吉恩·克兰兹**下令**(ordered)把每一种**情形**(variant)都写下来。二十四岁的杰克·加曼**手写**(penned)了整张单子，压在**控制台**(console)的**有机玻璃**(plexiglass)底下。那条**规则**(rule)是：**除非**(unless)警报变得**接连不断**(incessant)，就继续。"
         },
         {
-          "en": "Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fifteen **ticks**. Eagle landed with the low-fuel light already on; Bales later took a group **award** for 400,000. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.",
+          "en": "Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fifteen **ticks**. Eagle landed with the low-fuel light already on; Bales later took a group **award** on behalf of 400,000. A **resilient** system can **overload** without **collapsing**: its **hierarchy** knows what to **sacrifice** and what to **preserve**. The alarms were never the **crisis**; not having read them beforehand would have been.",
           "zh": "贝尔斯二十六岁。他看**遥测**(telemetry)，听加曼，十五个**滴答**(ticks)之内说了「继续」。「鹰」号着陆时低燃料灯已经亮起；贝尔斯后来领的是一个集体**奖**(award)，替那 400,000 人领的。一个有**韧性**(resilient)的系统能**过载**(overload)而不**垮**(collapsing)：它的**层级**(hierarchy)早已知道该**舍**(sacrifice)什么、该**保**(preserve)什么。警报从来不是那场**危机**(crisis)——事先没读过它们，才会是。"
         }
       ],
@@ -80,13 +80,13 @@
           "p": 1
         },
         {
-          "w": "elapsed",
-          "zh": "已过去的",
+          "w": "cycle",
+          "zh": "周期",
           "p": 1
         },
         {
-          "w": "cycle",
-          "zh": "周期",
+          "w": "elapsed",
+          "zh": "用完",
           "p": 1
         },
         {
@@ -195,8 +195,8 @@
           "p": 4
         },
         {
-          "w": "evacuation",
-          "zh": "撤离",
+          "w": "bailout",
+          "zh": "中止",
           "p": 4
         },
         {
@@ -299,7 +299,8 @@
         "时年二十六岁的贝尔斯据遥测与加曼建议在数秒内作出「继续」判断，经CAPCOM查理·杜克传达给乘员。「鹰」号最终着陆，余留燃料约合二十五秒。[Space.com：Apollo 11's Momentous Landing](https://www.space.com/apollo-11-guidance-officer-remembers-moon-landing-drama.html)",
         "**已核（2026-08-20 逐条上网）· 八项无误，零翻案；并订正我自己台账里的一笔错记**：\n**⚠ 先更正一处我自己写错的**：本轮稍早的台账写作「克兰兹时年 36」——**错了**。**吉恩·克兰兹生于 1933 年 8 月 17 日，1969 年 7 月 20 日着陆时才 35 岁，四周后才满 36。****幸而正文从未写过克兰兹的年龄**，正文是干净的；错只在台账，已删。**这一笔提醒：台账本身也会出错，也要核。**\n**无误八项**：**五次告警**——MIT 仪器实验室 1969 年 8 月 4 日备忘录载，相对动力下降点火依次为 **316 秒（1202）、356 秒（1202）、552 秒（1201）、578 秒（1202）、594 秒（1202）**，前两次在 P63 制动段、后三次在 P64 接近段、集中于约 42 秒之内；\n**1202 与 1201 之别**：1202 为执行程序溢出（core sets 不够），1201 为向量累加区（VAC）不够；\n**成因是电气相位失配而非数据洪流**：交会雷达开关置于 AUTO TRACK 时，两路 800 赫兹参考信号相位失控，角度转换电路每路可发出高达 **6,400 脉冲/秒**的伪计数请求，**每个请求吃掉一个存储周期**，约占去计算机 **15%** 的处理时间；\n**贝尔斯时年 26、加曼时年 24**（两处来源明载）；\n**几周前的模拟中贝尔斯确曾误叫中止**——1969 年 7 月 5 日下午，模拟主管 Richard Koos 故意抛出 1201，贝尔斯判断不出而中止，事后与克兰兹一同被 Koos 训了一顿，次日又加练四小时专攻程序告警；\n**加曼把清单手写后压在控制台有机玻璃下**、判据为「若不反复出现就继续」。\n**一处两说**：贝尔斯作出判断所用的时间——常述为 **约十五秒**（本文所取）；而《阿波罗11月面日志》记的是**自阿姆斯特朗首次呼叫到休斯敦放行共 27 秒**（含转述与通话）。两说此存照。[Spacedaily：Apollo 11 1201/1202 guidance computer restarts](https://spacedaily.com/t-apollo-11-1201-1202-guidance-computer-restarts/)｜[Smithsonian Magazine：Troubleshooting 101](https://www.smithsonianmag.com/air-space-magazine/troubleshooting-101-1201-actually-and-1202-too-111339271/)｜[Apollo Replica：Error 1202](https://www.apolloreplica.com/en/blog/apollo-11-error-1202)",
         "**已核 · 那个「40 万」**：**阿波罗计划高峰期直接参与人数约 400,000（40 万）**；**贝尔斯 1969 年获总统自由勋章，是代表整个任务控制团队领受的。****⚠ 40 万为常见约数，随统计口径而变，本文取整表述。**",
-        "**⚠ STR-03「结尾两句格言相邻」判为保留（2026-09-01 复核）**：**末段两句分属两层——前一句说系统为何能过载不垮，后一句说警报本身不是危机。****试过三种改法（插入具体事实、改写为陈述、缩短并联），每一种都要么超词数、要么把句子弄僵。****判为保留：为消掉这条报出而改坏结尾，正是本项目要防的那个病。**"
+        "**⚠ STR-03「结尾两句格言相邻」判为保留（2026-09-01 复核）**：**末段两句分属两层——前一句说系统为何能过载不垮，后一句说警报本身不是危机。****试过三种改法（插入具体事实、改写为陈述、缩短并联），每一种都要么超词数、要么把句子弄僵。****判为保留：为消掉这条报出而改坏结尾，正是本项目要防的那个病。**",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-19.md）**：三处 A——「a group award for 400,000」改 on behalf of；「called an evacuation」模拟里叫的是中止，换 bailout（博士）；「outrun the elapsed cycle」行话堆叠，改 outrun the cycle; its time had elapsed。中文数字空格。"
       ]
     }
   ]);

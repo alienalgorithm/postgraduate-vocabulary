@@ -26,13 +26,13 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1820年，汉斯·克里斯蒂安·奥斯特发现：一根通**电**(electricity)的**导线**(wire)，会让**躺**(lying)在旁边的**罗盘**(compass)针**摆**(swung)动。迈克尔·法拉第把问题**倒**(reversed)了过来：**磁铁**(magnet)能不能生电？他从1825年起一试再试，屡屡落空——因为他指望一块**稳定的**(steady)磁铁产生稳定的**细流**(trickle)，指望一个**不变的**(unchanging)原因带来持续的结果。
+1820 年，汉斯·克里斯蒂安·奥斯特发现：一根通**电**(electricity)的**导线**(wire)，会让**躺**(lying)在旁边的**罗盘**(compass)针**摆**(swung)动。迈克尔·法拉第把问题**倒**(reversed)了过来：**磁铁**(magnet)能不能生电？他从 1825 年起一试再试，屡屡落空——因为他指望一块**稳定的**(steady)磁铁产生稳定的**细流**(trickle)，指望一个**不变的**(unchanging)原因带来持续的结果。
 
-1831年8月29日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**缠绕**(lapped)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。
+1831 年 8 月 29 日，他在一只六英寸宽的软**铁**(iron)环上、两个相对的**半**(halves)边分别**缠绕**(lapped)了两组**线圈**(windings)。一组接**电池**(battery)，一组接检流计。合上电池，指针猛**弹**(kick)了一下，随即落回**零**(nought)——而电池仍在通着。断开连接，指针又朝反方向**猛跳**(jerked)。是**通断**(switching)这个动作在生电；中间那段**持续**(interval)不生。
 
-穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出电动势，**驱使**(driving)电荷绕**导体**(conductor)流动。10月17日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。
+穿过一个**回路**(loop)的磁**通量**(flux)发生变化，就会**感生**(induces)出电动势，**驱使**(driving)电荷绕**导体**(conductor)流动。10 月 17 日，法拉第把一根**条形**(bar)磁铁**插**(thrust)进**螺线管**(helix)，又抽出来。每一次插入、每一次**抽出**(withdrawal)，指针都动。而把磁铁**静止**(motionless)地搁在管里，什么也没有。
 
-10月28日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利已独立发现感应，但发表在后；照着这一**现象**(phenomenon)造出的第一台机器，是皮克西1832年的**磁电机**(magneto)。
+10 月 28 日，他把一枚铜盘夹住，让它在磁铁两**极**(poles)之间**旋转**(spinning)，从盘心的**转轴**(spindle)与盘**缘**(rim)的触点上**连续**(continuously)取电。这是第一台靠**转动**(rotation)持续出电的机器——是一切**发电机**(dynamo)的**祖先**(ancestor)。约瑟夫·亨利已独立发现感应，但发表在后；照着这一**现象**(phenomenon)造出的第一台机器，是皮克西 1832 年的**磁电机**(magneto)。
 
 今天向电网供电的几乎每一台**发电机**(generator)，都在**重复**(repeats)同一个循环。蒸汽、落水或风**带动**(powers)**汽轮机**(turbine)，其**轴**(shaft)让**磁铁**(magnets)扫过一组组**线圈**(coils)；**输出**(output)经**升**(stepped)压后被**输送**(carried)出去。法拉第看见的，从来不是磁铁在生电，而是变化在生电。
 
@@ -72,3 +72,4 @@ Almost every **generator** feeding the grid **repeats** that same cycle. Steam, 
 **皮克西 1832 年**造出磁电机。
 **⚠ 一处两说并存，而正文正好避开了**：约瑟夫·亨利独立发现感应的年份——**Britannica 与 EDN 作 1830 年**（「Henry had discovered electric induction quite independently in 1830」）；**Wikipedia、计算机历史博物馆、EPFL 作 1832 年**。**正文只写 had found induction independently but published later，未给年份**——在两说之间，不给年份反而是最稳的写法。[Royal Institution：Faraday's ring-coil apparatus](https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus)｜[Britannica：Faraday's discovery of electric induction](https://www.britannica.com/science/electromagnetism/Faradays-discovery-of-electric-induction)｜[Ri Science：法拉第日记原文](https://ri-science.tumblr.com/post/96087497062/on-the-29th-august-1831-michael-faraday-achieved)
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**「spun two windings on…a soft iron ring」——绕线圈是 wound，spun 是『纺』。而 spun 正是早先为消 VAL-14（wound 的原形 wind 在初中词表）换上的——为消一条待核换出了一个不对的词。**coiled 撞本篇 coils，wrapped 撞第05篇，已改为 lapped（绕线工艺用语：一圈圈裹上）。
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-11.md）**：零 A。中文数字空格。

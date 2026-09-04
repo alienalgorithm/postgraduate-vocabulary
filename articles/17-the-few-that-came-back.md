@@ -2,7 +2,7 @@
 
 > 题材：1909—1913 年盖革—马斯登散射实验与卢瑟福核式原子
 > 状态：**第十七篇最终精进锁定稿**（2026-08-12）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 绝大多数阿尔法粒子似乎支持旧原子模型；真正改写模型的，却是少数从薄箔中折返回来的粒子。
 
 ---
@@ -11,13 +11,13 @@
 
 In 1909, **undergraduate** Ernest Marsden joined Hans Geiger in a dark Manchester laboratory to test an **unusual** suggestion from Ernest Rutherford. A **radioactive** **emitter** sent **alpha** particles towards metal **foil**. A lead **shield** blocked the direct beam; a **fluorescent** zinc-sulphide **screen** produced a **flash** when struck by a returning particle.
 
-Most passed through the foil or changed direction only **slightly**. Yet a few underwent **backward** scattering, returning towards **incidence**. In one **platinum** test, roughly one in 8,000 was reflected — a **count** made by eye, in the dark, after thirty minutes letting the **pupils** **dilate**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak collisions could scarcely **account for** it.
+Most passed through the foil or changed direction **slightly**. Yet a few underwent **backward** scattering, returning to the side of **incidence**. In one **platinum** test, roughly one in 8,000 was reflected — a **count** made by eye, in the dark, after thirty minutes letting the **pupils** **dilate**. Given the particles' **momentum**, such reversal was **astonishing**: repeated weak collisions could scarcely **account for** it.
 
-Thomson's atom contained **electrons** **embedded** in **diffuse** positive charge. Each **encounter** delivered only a weak push. In 1911 Rutherford required an **intense** **impulse** from a compact centre. Most of the **atomic** **volume** was empty; mass and charge were **concentrated** in the tiny body later called the **nucleus**.
+Thomson's atom contained **electrons** **embedded** in **diffuse** positive charge. Each **encounter** delivered only a weak push. In 1911 Rutherford's model required an **intense** **impulse** from a compact centre. Most of the **atomic** **volume** was empty; mass and charge were **concentrated** in the tiny body later called the **nucleus**.
 
 Rutherford did more than explain the anomaly: he risked being wrong. At a fixed large angle, his **formula** predicted counts **proportional** to foil **thickness** and the **square** of the central charge, but **inversely** proportional to the fourth power of alpha velocity. Geiger and Marsden's **systematic** 1912–13 measurements tested those **quantitative** predictions; the **angular** **distribution** provided **confirmation**.
 
-Three men made the finding **collective**: Marsden counted flashes, Geiger brought experimental **discipline**, Rutherford drew the **deduction**. Between them they built an **empirical** **framework** linking observation to prediction. **Textbooks** **retell** it as a single **revelation**. The **outliers** mattered because a team counted them—and let the few that came back **overturn** what the many seemed to confirm.
+Three men made the finding **collective**: Marsden counted flashes, Geiger brought experimental **discipline**, Rutherford drew the **deduction**. They built an **empirical** **framework** linking observation to prediction. **Textbooks** **retell** it as a single **revelation**. The **outliers** mattered because a team counted them—and let the few that came back **overturn** what the many seemed to confirm.
 
 ---
 
@@ -26,13 +26,13 @@ Three men made the finding **collective**: Marsden counted flashes, Geiger broug
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1909年，在曼彻斯特一间昏暗的实验室里，**本科生**(undergraduate)欧内斯特·马斯登与汉斯·盖革一起检验欧内斯特·卢瑟福提出的一个**不同寻常的**(unusual)设想。一个**放射性**(radioactive)**发射源**(emitter)把**阿尔法**(alpha)粒子射向金属**薄箔**(foil)。铅制**屏障**(shield)挡住直达粒子束；若有折返粒子撞上**荧光的**(fluorescent)硫化锌**屏幕**(screen)，屏上便会出现一次**闪光**(flash)。
+1909 年，在曼彻斯特一间昏暗的实验室里，**本科生**(undergraduate)欧内斯特·马斯登与汉斯·盖革一起检验欧内斯特·卢瑟福提出的一个**不同寻常的**(unusual)设想。一个**放射性**(radioactive)**发射源**(emitter)把**阿尔法**(alpha)粒子射向金属**薄箔**(foil)。铅制**屏障**(shield)挡住直达粒子束；若有折返粒子撞上**荧光的**(fluorescent)硫化锌**屏幕**(screen)，屏上便会出现一次**闪光**(flash)。
 
-大多数粒子穿过薄箔，或只发生**轻微**(slightly)偏转。但仍有少数发生**反向的**(backward)散射，回到**入射**(incidence)一侧。在一次使用**铂**(platinum)箔的试验中，大约每8000个粒子就有一个被反射。这个**计数**(count)是在暗室里用肉眼数出来的，事先要等三十分钟，让**瞳孔**(pupils)充分**放大**(dilate)。考虑到粒子的**动量**(momentum)，这种掉头极其**令人震惊**(astonishing)：连续的微弱碰撞**说明不了**(account for)这种结果。
+大多数粒子穿过薄箔，或只发生**轻微**(slightly)偏转。但仍有少数发生**反向的**(backward)散射，回到**入射**(incidence)一侧。在一次使用**铂**(platinum)箔的试验中，大约每 8,000 个粒子就有一个被反射。这个**计数**(count)是在暗室里用肉眼数出来的，事先要等三十分钟，让**瞳孔**(pupils)充分**放大**(dilate)。考虑到粒子的**动量**(momentum)，这种掉头极其**令人震惊**(astonishing)：连续的微弱碰撞几乎无法**解释**(account for)这种结果。
 
-汤姆孙的原子模型认为，**电子**(electrons)**嵌在**(embedded)**弥散的**(diffuse)正电荷中。每次**相遇**(encounter)只能给阿尔法粒子一个微弱推力。1911年卢瑟福提出，粒子必须从一个紧凑中心获得一次**强烈的**(intense)**冲量**(impulse)。**原子的**(atomic)大部分**体积**(volume)其实是空的；质量和电荷则**集中在**(concentrated)一个后来被称为**原子核**(nucleus)的微小实体中。
+汤姆孙的原子模型认为，**电子**(electrons)**嵌在**(embedded)**弥散的**(diffuse)正电荷中。每次**相遇**(encounter)只能给阿尔法粒子一个微弱推力。1911 年卢瑟福的模型要求，粒子必须从一个紧凑中心获得一次**强烈的**(intense)**冲量**(impulse)。**原子的**(atomic)大部分**体积**(volume)其实是空的；质量和电荷则**集中在**(concentrated)一个后来被称为**原子核**(nucleus)的微小实体中。
 
-卢瑟福做的不只是解释这处异常：他让自己冒了被推翻的险。在一个给定的大角度上，他的**公式**(formula)预测，粒子计数应与薄箔**厚度**(thickness)和中心电荷的**平方**(square)成**正比**(proportional)，却应与阿尔法粒子速度的四次方成**反比**(inversely)。盖革和马斯登在1912至1913年**系统开展的**(systematic)测量检验了这些**定量的**(quantitative)预测；散射粒子的**角度**(angular)**分布**(distribution)为理论提供了**佐证**(confirmation)。
+卢瑟福做的不只是解释这处异常：他让自己冒了被推翻的险。在一个给定的大角度上，他的**公式**(formula)预测，粒子计数应与薄箔**厚度**(thickness)和中心电荷的**平方**(square)成**正比**(proportional)，却应与阿尔法粒子速度的四次方成**反比**(inversely)。盖革和马斯登在 1912 至 1913 年**系统开展的**(systematic)测量检验了这些**定量的**(quantitative)预测；散射粒子的**角度**(angular)**分布**(distribution)为理论提供了**佐证**(confirmation)。
 
 这项发现是三个人**共同**(collective)做成的：马斯登逐一计数闪光，盖革保证实验**严谨有序**(discipline)，卢瑟福则推出关键的**结论**(deduction)。三人合力搭起一套**以观察为依据的**(empirical)**框架**(framework)，把观测与预测连了起来。**教科书**(textbooks)把它**复述**(retell)成一次**顿悟**(revelation)。但真正重要的，是那些**离群结果**(outliers)被一支团队认真计数；正是少数折返的粒子，最终**推翻了**(overturn)多数粒子似乎正在证实的模型。
 
@@ -42,7 +42,7 @@ Three men made the finding **collective**: Marsden counted flashes, Geiger broug
 
 **§1**（10词）undergraduate 本科生；大学本科的｜unusual 不同寻常的｜radioactive 放射性的｜emitter 发射源；发射体｜alpha 阿尔法；希腊字母α｜foil 薄箔；箔片｜shield 屏障；防护物｜fluorescent 发荧光的；荧光的｜screen 屏幕；屏障｜flash 闪光；闪现
 
-**§2**（10词）slightly 轻微｜backward 向后的；向后｜incidence 入射；发生率｜platinum 铂；白金｜count 计数｜pupils 瞳孔｜dilate 放大；扩张｜momentum 动量；势头｜astonishing 令人震惊的｜account for 说明；解释得了
+**§2**（10词）slightly 轻微｜backward 向后的；向后｜incidence 入射；发生率｜platinum 铂；白金｜count 计数｜pupils 瞳孔｜dilate 放大；扩张｜momentum 动量；势头｜astonishing 令人震惊的｜account for 解释；说明
 
 **§3**（10词）electrons 电子｜embedded 嵌在｜diffuse 弥散的；扩散｜encounter 相遇；遭遇｜intense 强烈的；高度集中的｜impulse 冲量；冲动｜atomic 原子的；原子能的｜volume 体积；数量；卷｜concentrated 集中在｜nucleus 原子核；核心
 
@@ -77,3 +77,4 @@ Three men made the finding **collective**: Marsden counted flashes, Geiger broug
 **1909 年马斯登时为本科生**、盖革为博士后，在曼彻斯特暗室中计闪；金箔厚约 0.00004 厘米；
 **卢瑟福 1911 年论文**《The Scattering of α and β Particles by Matter and the Structure of the Atom》；他自述「就像你朝一张纸巾打了一发十五英寸炮弹、它却弹回来打中你」。
 另：盖革与马斯登 1913 年由此算得**原子中心的基本电荷数约为原子量之半**。[ChemTeam：Geiger-Marsden 1913 原文](https://www.chemteam.info/Chem-History/GeigerMarsden-1913/GeigerMarsden-1913.html)｜[ChemTeam：Rutherford Experiment](https://www.chemteam.info/AtomicStructure/Rutherford-Model.html)｜[Geiger & Marsden 1913 PDF](http://fisica.ufpr.br/mossanek/etc/geiger_marsden.pdf)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-17.md）**：一处 A——「returning towards incidence」改 to the side of incidence。B：「Rutherford required」改 Rutherford's model required；括注 account for 去掉否定，改「解释；说明」；数字空格。

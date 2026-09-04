@@ -26,15 +26,15 @@ Fram **emerged** near Svalbard that August; every man went home **alive**. The *
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1881年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**纵帆船**(schooner)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**舱单**(manifest)。那些**残骸**(wreckage)是冻在**流冰**(drift)里漂过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。
+1881 年，浮冰在新西伯利亚群岛外**碾碎**(crushed)了「珍妮特」号**纵帆船**(schooner)。三年后，因纽特猎人在格陵兰西南**岸**(shore)上找到了她的**残件**(remnants)——**木料**(timber)、文件、一份给养**舱单**(manifest)。那些**残骸**(wreckage)是冻在**流冰**(drift)里漂过去的。亨里克·莫恩由此读出一股横穿极地**海盆**(basin)的**水流**(flow)；弗里乔夫·南森打算骑上它。
 
 **船身**(hull)必须扛得住被**夹住**(gripped)。科林·阿彻用最厚达七十**厘米**(centimetres)的**橡木**(oak)造出「前进」号，船底**浑圆**(rounded)，舷侧**外斜**(sloping)。寻常船身给了冰一堵可以咬住的直墙；「前进」号给它的是一道**楔面**(wedge)。**冰群**(pack)一合拢，就把她**挤**(squeezed)着往上抬，而不是往**里**(inward)压，随后把她搁在冰面上。
 
-1893年她带着五年的**给养**(provisions)离开挪威，九月任由冰把她**扣**(seize)住。此后再无**操舵**(steering)，也无**退路**(retreat)。船员**测**(plumbed)水深，记**霜情**(frost)，然后**等着**(waited)。南森在**极地**(polar)长夜里写**日记**(diary)；十三个人全都熬过了第一场**封冻**(freeze)。
+1893 年她带着五年的**给养**(provisions)离开挪威，九月任由冰把她**扣**(seize)住。此后再无**操舵**(steering)，也无**退路**(retreat)。船员**测**(plumbed)水深，记**霜情**(frost)，然后**等着**(waited)。南森在**极地**(polar)长夜里写**日记**(diary)；十三个人全都熬过了第一场**封冻**(freeze)。
 
-漂流的**方位**(bearing)偏了：这条路线到不了北极点。1895年3月，南森与雅尔马·约翰森带着**哈士奇**(huskies)和**滑雪板**(skis)离船，抵达北纬86°13.6′——人类当时**最**(farthest)**靠北**(poleward)的立足点，比前纪录推进近三**度**(degrees)——随后折返。他们在一座石头与海象**皮**(hide)搭的**窝棚**(shelter)里**熬**(survived)了过来，1896年6月**凑巧**(fluke)走进了弗雷德里克·杰克逊的营地。
+漂流的**方位**(bearing)偏了：这条路线到不了北极点。1895 年 3 月，南森与雅尔马·约翰森带着**哈士奇**(huskies)和**滑雪板**(skis)离船，抵达北纬 86°13.6′——人类当时**最**(farthest)**靠北**(poleward)的立足点，比前纪录推进近三**度**(degrees)——随后折返。他们在一座石头与海象**皮**(hide)搭的**窝棚**(shelter)里**熬**(survived)了过来，1896 年 6 月**凑巧**(fluke)走进了弗雷德里克·杰克逊的营地。
 
-当年8月，「前进」号在斯瓦尔巴附近**露**(emerged)出冰面；所有人都**活着**(alive)回了家。冲击北极点的那次**猛进**(dash)确实**失败**(failed)了。但她的**测深**(sounding)线在本该是**浅滩般的**(shoal)海底的地方量到3300至3900**米**(metres)，**揭出**(exposing)一个海盆；三年的记录也**绘出**(charted)了北极海冰如何移动。Fram意为「前进」。她是靠让步而**向前**(onward)的。
+当年 8 月，「前进」号在斯瓦尔巴附近**露**(emerged)出冰面；所有人都**活着**(alive)回了家。冲击北极点的那次**猛进**(dash)确实**失败**(failed)了。但她的**测深**(sounding)线在本该是**浅滩般的**(shoal)海底的地方量到 3,300 至 3,900 **米**(metres)，**揭出**(exposing)一个海盆；三年的记录也**绘出**(charted)了北极海冰如何移动。Fram 意为「前进」。她是靠让步而**向前**(onward)的。
 
 ---
 
@@ -69,3 +69,4 @@ Fram **emerged** near Svalbard that August; every man went home **alive**. The *
 **最北 86°13.6′N**（维基精确至此），**较格里利 1882 年所创 83°24′N 高出 2°49.6′**——**正文「by almost three degrees」中的 almost 不可删，删了就成了「整三度」**（雷 7 所记即此处）；
 **1896 年 6 月在法兰士约瑟夫地弗洛拉角凑巧走进杰克逊营地**。
 **一处两说并存**：船员人数——**国家地理作「a crew of 13」**（本文所取）；**维基作「provisions for twelve men」、Oceanwide 与 Goodreads 作「a party of 12」**。通常的解释是南森本人加十二名队员共十三人，而计划书按十二人备粮。两说此存照。[Wikipedia：Nansen's Fram expedition](https://en.wikipedia.org/wiki/Nansen's_Fram_expedition)｜[WHOI：Nansen and the Drift of the Fram](https://www2.whoi.edu/site/beaufortgyre/history/nansen-and-the-drift-of-the-fram-1893-1896)｜[National Geographic：1,000 Days in the Ice](https://www.nationalgeographic.com/magazine/article/nansen)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-14.md）**：零 A。中文数字空格。

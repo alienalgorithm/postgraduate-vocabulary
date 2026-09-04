@@ -23,19 +23,19 @@
         },
         {
           "en": "George Westinghouse patented a **remedy** in 1869. A **steam-driven** air pump charged one **pipe** running the length of the train; admitting air drove a **piston** and **lever** that pressed a **shoe** against each tyre. One man now applied every brake. But the arrangement leaned on a live **column**: if a **hose** **burst** or **couplings** parted, the cars beyond ran free.",
-          "zh": "1869年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上**蒸汽驱动的**(steam-driven)气泵给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那一**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。"
+          "zh": "1869 年，乔治·威斯汀豪斯为此申请了**对策**(remedy)专利。机车上**蒸汽驱动的**(steam-driven)气泵给贯穿全列的一根**管**(pipe)充气；放气进来，推动**活塞**(piston)与**杠杆**(lever)，把**闸瓦**(shoe)压向轮箍。一个人从此能制住全列的闸。可整套安排都倚仗管里那一**柱**(column)活气：一旦**软管**(hose)**爆**(burst)裂或**挂钩**(couplings)脱开，后面的车厢就撒了手。"
         },
         {
           "en": "His 1872 and 1873 patents **inverted** it. Each **carriage** carried its own **reservoir**, kept **charged** by the pipe. A **sudden** **collapse** of pipe pressure **tripped** a **triple** **valve**, releasing the stored air into that car's own **cylinder**. Restoring pressure released the brake and refilled the tank.",
-          "zh": "他1872与1873年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(carriage)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤然**(sudden)**垮掉**(collapse)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。"
+          "zh": "他 1872 与 1873 年的专利把逻辑**倒**(inverted)了过来。每节**车厢**(carriage)自带一个**风缸**(reservoir)，由总管保持**充满**(charged)。管内气压**骤然**(sudden)**垮掉**(collapse)，就会**触发**(tripped)一只**三通**(triple)**阀**(valve)，把存下的气放进本车的制动**缸**(cylinder)。气压恢复则缓解制动，并把风缸重新充满。"
         },
         {
           "en": "Speed still decided whether the design was usable. At the Burlington tests of 1886–87 a 50-car **rake** took a 20-second **lag** to set its rearmost **brakes**; Westinghouse **pared** that to six, then to about two and a half with a **quick**-acting **redesign**. Electrically **triggered** rivals led the early **trials**; Westinghouse **judged** their wiring too **frail**, and won the last.",
-          "zh": "能不能用，还要看快慢。在1886与1887年的伯灵顿试验中，一列 50 节的**编组**(rake)要 20 秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。"
+          "zh": "能不能用，还要看快慢。在 1886 与 1887 年的伯灵顿试验中，一列 50 节的**编组**(rake)要 20 秒的**滞后**(lag)才让最后一节上**闸**(brakes)；威斯汀豪斯把它**削**(pared)到六秒，1887 年底又靠**快速**(quick)动作的**改型**(redesign)压到约两秒半。头几轮**试验**(trials)领先的是电**触发**(triggered)的对手；威斯汀豪斯**判**(judged)定那种接线太**脆弱**(frail)，而后赢下了最后一轮。"
         },
         {
           "en": "Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iowa **reformer** many called a **zealot**, spent the 1880s **pressing** for an **ordinance**. Iowa passed one in 1890, Congress in 1893; the **statute** **mandated** **capability**, not **brand**. What made the train safe was not that the pipe never **parted**; breaking it was how you **stopped**.",
-          "zh": "造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个1880年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华1890年立法，国会1893年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。"
+          "zh": "造得出不等于装得上：铁路只在划算的地方才装。爱荷华的**改革者**(reformer)洛伦佐·科芬，被许多人叫作**偏执狂**(zealot)，整个 1880 年代都在**推动**(pressing)一部**法令**(ordinance)。爱荷华 1890 年立法，国会 1893 年跟进；**法条**(statute)**规定**(mandated)的是那项**能力**(capability)，而不是某个**品牌**(brand)。让列车安全的从来不是那根管子永不**断**(parted)；把它弄断，正是你让车**停下**(stopped)的方式。"
         }
       ],
       "glossary": [
@@ -299,7 +299,8 @@
         "该法要求的是「动力制动」这一能力，而非指定某一厂商产品；本文据此收束于失效安全原理：安全不来自管路永不破损，而来自破损本身即为制动指令。　**已核**：1886—87年伯灵顿试验用五十节货车；西屋把最后一节制动的启动时间由二十秒缩到六秒，其后的快动式改型进一步缩到约两秒半，时速二十英里下制动距离二百英尺。科芬被许多人斥为怪人（crank／gadfly），仍促成艾奥瓦1890年立法、国会1893年通过《安全设备法》。[Invention & Technology：「St. George」Westinghouse](https://www.inventionandtech.com/node/85909)｜[American Heritage：Lorenzo Coffin](https://www.americanheritage.com/lorenzo-coffin)",
         "**已核（2026-08-20 极限轮）· §4 结局与因果均已订正**：原文作「Electrically triggered rivals **won the trials**, but he judged their wiring too frail for freight」——**把结局说反了**。\n**实况**：伯灵顿试验分数轮。电动（电气触发）方案在 **1886 年头几轮领先**；威斯汀豪斯因此造出**速动三通阀**（1887 年），**在 1887—1888 年的竞标试验中，其方案优越到被定为通用标准**（Buffalo History Gazette：During competitive trials in 1887-1888, the Westinghouse design proved so superior that it was made the universal standard）。\n**原文的因果次序也是反的**：写成「他先把 20 秒削到 2.5 秒、然后对手赢了」；**真实次序是对手先领先，逼他做出速动阀，他才赢下最后一轮**。已改为 led the early trials … and won the last。另核实无误：1869 年首项专利、1872／1873 年三通阀、1887年11月4日伊利铁路 50 节货车试验、洛伦佐·科芬与爱荷华 1890 年立法、1893 年《铁路安全设备法》。[Buffalo History Gazette：Westinghouse Air Brake](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)｜[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)",
         "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——「how you did the checking」不是英文说法（原为 how you stopped，与 §1 的 stopping 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**",
-        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「An engine-driven bellows」——空气制动的气源是蒸汽驱动的空气泵，bellows 是风箱，压不出制动用的气压。中文侧本已译作「气泵」，是英文用错了词。pump 撞第01篇、compressor 撞第16篇，已改为 steam-driven air pump（pump 不占名额，steam-driven 占）。**"
+        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「An engine-driven bellows」——空气制动的气源是蒸汽驱动的空气泵，bellows 是风箱，压不出制动用的气压。中文侧本已译作「气泵」，是英文用错了词。pump 撞第01篇、compressor 撞第16篇，已改为 steam-driven air pump（pump 不占名额，steam-driven 占）。**",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-15.md）**：零 A。中文数字空格。"
       ]
     }
   ]);

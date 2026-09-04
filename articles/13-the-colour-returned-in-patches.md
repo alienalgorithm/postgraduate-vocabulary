@@ -2,22 +2,22 @@
 
 > 题材：1944—1983 年麦克林托克、玉米斑驳与转座元件
 > 状态：**第十三篇最终精进锁定稿**（2026-08-15）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 每一块色斑都是一只钟：切离发生得早就长成宽阔的扇区，晚了只剩一点碎斑。而她1953年停止了发表。
 
 ---
 
 ## 英文正文
 
-A **kernel** of maize records when a chromosome fragment moved. From 1944 Barbara McClintock **bred** **corn** and used genetic **crosses** to trace where chromosome 9 kept snapping. Some **seeds** carried one **purple** **patch**; others were finely **speckled**. Under the **microscope** she watched the chromosomes and traced what the plants **inherited**.
+A **kernel** of maize records when a chromosome fragment moved. From 1944 Barbara McClintock **bred** **corn** and used genetic **crosses** to trace where chromosome 9 kept snapping. Some **seeds** carried one **purple** **patch**; others were finely **speckled**. Under the **microscope** she watched the chromosomes and traced what plants **inherited**.
 
-She named the **breakage** **locus** Dissociation, or Ds; by 1948 she saw it move. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and Ds **shifted** only when Activator stood alongside it in the gene. When Ds **departed**, the gene worked again and the colour **returned**. The **gene** never moved; its interrupter did.
+She named the **breakage** **locus** Dissociation, or Ds; by 1948 she saw it move. Ds was a **segment** that, **dropped** into a **pigment** gene, could **interrupt** it — and Ds **shifted** only when Activator was present in the genome. When Ds **departed** the gene worked again and colour **returned**. The **gene** never moved; its interrupter did.
 
-Ds could leave at any point in growth, and each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **relocation**.
+Ds could leave at any point in growth; each **blotch** shows which. Every **descendant** of that cell inherits the **restored** colour, so an **excision** early in the seed's growth yields a **broad** **sector**, a late one a mere **fleck**. The **lineage** is written on the seed, and its **span** dates the **relocation**.
 
-McClintock called Ac and Ds **controlling** elements: an **insertion** could **silence** a **neighbouring** gene, a **departure** **permit** it again. That made a genome something other than a fixed **ledger** of addresses. She **announced** it in 1950 and spoke at Cold Spring Harbor in 1951, meeting bafflement, even **contempt**. In 1953 she **ceased** publishing on it.
+McClintock called Ac and Ds **controlling** elements: an **insertion** could **silence** a **neighbouring** gene, a **departure** **permit** it again. That made a genome more than a fixed **ledger** of addresses. She **announced** it in 1950 and spoke at Cold Spring Harbor in 1951, meeting bafflement, even **contempt**. In 1953 she **ceased** publishing on it.
 
-**Sceptics** were answered elsewhere, and **belatedly**. **Mobile** elements surfaced in **microbial** cells after François Jacob and Jacques Monod. In 1983, thirty-two years after that **symposium**, she took the **medicine** Nobel alone — the only woman to hold it **unshared**. Such elements make up **roughly** half the human **genome**. She had been reading them off a **spotted** kernel.
+**Sceptics** were answered elsewhere, and **belatedly**. **Mobile** elements surfaced in **microbial** cells in the work that followed François Jacob and Jacques Monod. In 1983, thirty-two years after that **symposium**, she took the **medicine** Nobel alone — the only woman to hold it **unshared**. Such elements make up **roughly** half the human **genome**. She had been reading them off a **spotted** kernel.
 
 ---
 
@@ -26,15 +26,15 @@ McClintock called Ac and Ds **controlling** elements: an **insertion** could **s
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-一粒玉米**籽粒**(kernel)能记下染色体片段是什么时候动的。从1944年起，芭芭拉·麦克林托克**培育**(bred)**玉米**(corn)，用遗传**杂交**(crosses)追查9号染色体老是断在哪里。有些**种子**(seeds)上只有一块**紫色**(purple)**斑**(patch)，另一些则布满细密的**麻点**(speckled)。她在**显微镜**(microscope)下盯着染色体，追踪植株**遗传**(inherited)到了什么。
+一粒玉米**籽粒**(kernel)能记下染色体片段是什么时候动的。从 1944 年起，芭芭拉·麦克林托克**培育**(bred)**玉米**(corn)，用遗传**杂交**(crosses)追查 9 号染色体老是断在哪里。有些**种子**(seeds)上只有一块**紫色**(purple)**斑**(patch)，另一些则布满细密的**麻点**(speckled)。她在**显微镜**(microscope)下盯着染色体，追踪植株**遗传**(inherited)到了什么。
 
-她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即Ds；到1948年，她看出它会自己挪窝。Ds是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当第二种元件激活子在旁，Ds 才会**移位**(shifted)。Ds一旦**离开**(departed)，基因重新工作，颜色也**回**(returned)来了。**基因**(gene)从没动过；动的是打断它的那个插入者。
+她把那个**断裂**(breakage)**位点**(locus)命名为解离子，即 Ds；到 1948 年，她看出它会自己挪窝。Ds 是一小**段**(segment)序列，**落**(dropped)进**色素**(pigment)基因里就能把它**打断**(interrupt)——而且只有当基因组里有激活子这种元件时，Ds 才会**移位**(shifted)。Ds 一旦**离开**(departed)，基因重新工作，颜色也**回**(returned)来了。**基因**(gene)从没动过；动的是打断它的那个插入者。
 
-Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**易位**(relocation)。
+Ds 可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都标出了是哪一刻。那个细胞的每一个**后代**(descendant)都继承了**恢复**(restored)的颜色；于是**切离**(excision)发生得早，长出的就是一片**宽阔**(broad)的**扇区**(sector)，发生得晚就只剩一点**碎斑**(fleck)。**谱系**(lineage)写在种子上，而它的**跨度**(span)标出了那次**易位**(relocation)。
 
-麦克林托克把Ac与Ds称作**控制**(controlling)元件：一次**插入**(insertion)能**沉默**(silence)**邻近**(neighbouring)的基因，一次**离去**(departure)又**准许**(permit)它重新表达。这让基因组不再是一份固定的地址**账本**(ledger)。她1950年**公布**(announced)了结果，1951年在冷泉港作报告，迎来的是她自己所说的困惑，甚至**轻蔑**(contempt)。1953年，她**停止**(ceased)就此发表。
+麦克林托克把 Ac 与 Ds 称作**控制**(controlling)元件：一次**插入**(insertion)能**沉默**(silence)**邻近**(neighbouring)的基因，一次**离去**(departure)又**准许**(permit)它重新表达。这让基因组不再是一份固定的地址**账本**(ledger)。她 1950 年**公布**(announced)了结果，1951 年在冷泉港作报告，迎来的是她自己所说的困惑，甚至**轻蔑**(contempt)。1953 年，她**停止**(ceased)就此发表。
 
-**怀疑者**(Sceptics)是在别处、而且**迟迟**(belatedly)才被回答的。继弗朗索瓦·雅各布与雅克·莫诺之后，**可移动**(Mobile)元件在**微生物**(microbial)细胞里现身，随后到处都是。1983年，距那场**研讨会**(symposium)三十二年，她独自拿下**医学**(medicine)奖——迄今唯一**独享**(unshared)该奖的女性。如今已知这类元件占了人类**基因组**(genome)**大约**(roughly)一半。她一直是从一粒**带斑的**(spotted)籽粒上把它们读出来的。
+**怀疑者**(Sceptics)是在别处、而且**迟迟**(belatedly)才被回答的。在弗朗索瓦·雅各布与雅克·莫诺之后的研究里，**可移动**(Mobile)元件在**微生物**(microbial)细胞里现身。1983 年，距那场**研讨会**(symposium)三十二年，她独自拿下**医学**(medicine)奖——迄今唯一**独享**(unshared)该奖的女性。如今已知这类元件占了人类**基因组**(genome)**大约**(roughly)一半。她一直是从一粒**带斑的**(spotted)籽粒上把它们读出来的。
 
 ---
 
@@ -69,3 +69,4 @@ Ds可以在籽粒发育的任何时刻离开，而每一块**色斑**(blotch)都
 据 **NLM Profiles in Science（NIH 官方）**：她 **1944 年夏**在当年所种玉米中发现两个新位点，**当即命名为 Dissociator（Ds）与 Activator（Ac）**；而 **1948 年初**她做出的是另一个发现——**「Ds 与 Ac 两者都会易位、都会在染色体上换位置」**（原文：In early 1948, she made the surprising discovery that both Dissociator and Activator could transpose）。1948 年是**易位**之年，不是**命名**之年。
 已改为「She named the breakage locus Dissociation, or Ds; **by 1948 she saw it move**」——**把 1948 挂回它真正属于的那件事**。
 **另核无误六项**：1950 年 PNAS《The origin and behavior of mutable loci in maize》；1951 年冷泉港研讨会报告（反响是「大体上的沉默与困惑」）；**1953 年停止就转座子发表**（AAAS 原文：She ceased publishing on transposons in 1953, when she realized 'acutely, the extent of disinterest and lack of confidence in the conclusions'）；**1983 年独得生理学或医学奖**（Genetics 原文：the sole winner），距 1951 年正 **32 年**；Ac 编码转座酶而 Ds 是 Ac 的缺陷版（Fedoroff 等 1983 年测序证实）；转座元件约占人类基因组一半（另：**玉米基因组约 85% 为转座元件**）。[NLM Profiles in Science：Controlling Elements, Cold Spring Harbor 1942-1967](https://profiles.nlm.nih.gov/spotlight/ll/feature/harbor)｜[PNAS：Barbara McClintock and the discovery of jumping genes](https://www.pnas.org/doi/10.1073/pnas.1219372109)｜[AAAS：Barbara McClintock was years away from her colleagues](https://www.aaas.org/membership/scientia/barbara-mcclintock-was-years-away-her-colleagues)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-13.md）**：两处 A——「Activator stood alongside it in the gene」激活子不必在同一基因里（博士），改 present in the genome；「after François Jacob and Jacques Monod」after 两个人名不明，改 in the work that followed。中文「随后到处都是」英文无，删；数字与 Ds 空格。
