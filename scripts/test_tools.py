@@ -2201,6 +2201,24 @@ check("used_index 与 inspector 都走 core.clash_scope（一份实现）", "cor
 check("poolsim.py 存在", os.path.exists(os.path.join(ROOT, "scripts/poolsim.py")))
 check("《总令》记了四档数字", "**最近 20 篇** | **29**" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
 
+
+# ── 检察官 VAL-07i：纯屈折跨篇（2026-09-04）──────────────────────────
+# 第70篇入库时 prisms/prism、beams/beam、drum/drums、patent/patents、flashed/flash 五处只有七层测试逮到，检察官 VAL-07 按 norm 比逮不到。
+# 现检察官用与七层测试同一判据（差别只在 s/es/ed/ing/d）再比一遍；第一版用 stem 太宽，全库 38 篇假阳性，已收窄到 0。
+print("\n[检察官] VAL-07i 纯屈折跨篇")
+_in7 = open(os.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read()
+check("检察官有 VAL-07i", 'Finding("VAL-07i"' in _in7 and "_pure_infl" in _in7)
+_r26 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/inspector.py")],
+                      capture_output=True, text=True, timeout=600).stdout
+check("实测：全库 VAL-07i 零假阳性（硬伤行数 0）", not any(("硬伤 %d" % k) in _r26 for k in range(1, 10)))
+# 判据本身：prisms/prism 算，survive/survival 不算
+_INF2 = ("s", "es", "ed", "ing", "d")
+def _pi(x, y):
+    a_, b_ = sorted((x, y), key=len)
+    return a_ != b_ and ((b_.startswith(a_) and b_[len(a_):] in _INF2) or a_.rstrip("s") == b_.rstrip("s"))
+check("判据：prisms/prism、flashed/flash 算纯屈折", _pi("prisms", "prism") and _pi("flashed", "flash"))
+check("判据：survive/survival 不算", not _pi("survive", "survival"))
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

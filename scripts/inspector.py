@@ -348,6 +348,27 @@ def inspect(a, archive):
                 o_srf.add(norm(m))
     hit_l = sorted({norm(g["w"]) for g in gloss} & o_lem)
     hit_s = sorted(set(ns) & o_srf)
+    # ★★ 纯屈折跨篇（2026-09-04 补）：第70篇入库时 prisms/prism、beams/beam、drum/drums、patent/patents、flashed/flash
+    #   VAL-07 按 norm 比逮不到，只有 test_tools 的七层测试兜底——太晚。这里用 agent 同一套 stem 归并再比一遍。
+    try:
+        from agent import stem as _stem
+        _INFL = ("s", "es", "ed", "ing", "d")
+        def _pure_infl(x, y):
+            # 与 test_tools 七层测试同一判据：短的是长的前缀且余下是纯屈折后缀，或只差尾 s
+            a_, b_ = sorted((x, y), key=len)
+            return a_ != b_ and ((b_.startswith(a_) and b_[len(a_):] in _INFL) or a_.rstrip("s") == b_.rstrip("s"))
+        _others = list(o_lem | o_srf)
+        _by_stem = {}
+        for w in _others:
+            _by_stem.setdefault(_stem(w), []).append(w)
+        _mine = {norm(g["w"]) for g in gloss} | set(ns)
+        _hit_i = sorted(w for w in _mine if w not in o_lem and w not in o_srf
+                        and any(_pure_infl(w, o) for o in _by_stem.get(_stem(w), [])))
+        if _hit_i:
+            F.append(Finding("VAL-07i", "词价", "hard", "纯屈折与其他篇重复（同一个词的单复数／时态）", "、".join(_hit_i),
+                             "同一个词让学习者在两篇里背两次；换词或撤加粗"))
+    except Exception:
+        pass
     if hit_l:
         F.append(Finding("VAL-07", "词价", "hard", "词元与其他篇重复", "、".join(hit_l)))
     if hit_s:
