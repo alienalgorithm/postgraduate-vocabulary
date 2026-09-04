@@ -2317,6 +2317,24 @@ check("意群拼回去＝原句（英文不丢词）", all(
 check("意群拼回去＝原句（中文不丢字）", all(
     "".join(c["zh"] for c in s["chunks"]).replace(" ", "")
     == s["zh"].replace(" ", "") for s in _rd["sentences"]))
+_s1 = _rd["sentences"][0]["chunks"]
+check("第01篇首句：1854 年 9 月落在 In September 1854 底下", len(_s1) >= 2
+      and _s1[0]["en"].replace("**", "").strip() == "In September 1854"
+      and _s1[0]["zh"].replace("**", "").startswith("1854 年 9 月"))
+check("每段中英长度占比相称（差 ≤ 22 个百分点）", all(
+    (lambda ew, zc: all(abs(zc[t] / (sum(zc) or 1) - ew[t] / (sum(ew) or 1)) <= 0.22
+                        for t in range(len(ew))))(
+        [len(c["en"].replace("**", "").split()) for c in s["chunks"]],
+        [len(re.sub(r"[^\w\u4e00-\u9fff]", "", re.sub(r"\*\*([^*]+)\*\*\([^)]*\)", r"\1", c["zh"])))
+         for c in s["chunks"]])
+    for s in _rd["sentences"]))
+check("每段英文都断在标点或开头词之前", all(
+    re.search(r"[,;:.!?—]$", c["en"].replace("**", "").strip())
+    or ci == len(s["chunks"]) - 1
+    or s["chunks"][ci + 1]["en"].replace("**", "").split()[0].lower().strip(",.;:")
+       in {"a", "an", "the", "and", "but", "or", "so", "he", "she", "it", "they", "we",
+           "this", "that", "these", "those", "his", "her", "their", "its", "no", "one", "two", "there"}
+    for s in _rd["sentences"] for ci, c in enumerate(s["chunks"])))
 check("确实拆细了（平均每句 ≥1.5 段）", sum(len(s["chunks"]) for s in _rd["sentences"]) >= len(_rd["sentences"]) * 1.5)
 check("网页与视频都按意群成对排", "class=\"pair\"" in _lh and "chunks" in open(os.path.join(ROOT, "scripts/make_video.py"), encoding="utf-8").read())
 check("重点词一律金色（用户指定）", "--gold:#f5c542" in _lh and _lh.count("var(--gold)") >= 6)

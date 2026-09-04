@@ -102,9 +102,24 @@ def split_sentences(en, zh):
                 if hard:
                     cutpos = last + min(hard) + 1
             if cutpos is None:
-                cand = [zh.find(c, last) for c in "。！？；，"]
-                cand = [x for x in cand if x >= 0]
-                cutpos = (min(cand) + 1) if cand else len(zh)
+                # 候选标点不止一个时**按英文词数比例**挑最接近的，别一律取最近的那个——
+                # 「委员会接受的也不是他的结论，只是他的建议；」取最近就切在「结论，」，
+                # 「只是他的建议；」会漏到下一句去。
+                cand = []
+                for c in "。！？；，":
+                    x = zh.find(c, last)
+                    while x >= 0:
+                        cand.append(x + 1); x = zh.find(c, x + 1)
+                cand = sorted(set(x for x in cand if x > pos))
+                if cand:
+                    # ★ 比例要算在**去掉括注的纯中文**上：括注 (fading)(accepted) 这些
+                    #   长短不一，按原始下标算会把目标位置带偏几十个字符。
+                    rest = sum(len(BOLD.sub(r"\1", t).split()) for t in es[si:]) or 1
+                    ratio = len(BOLD.sub(r"\1", e).split()) / rest
+                    whole = _zh_len(zh[pos:]) or 1
+                    cutpos = min(cand, key=lambda x: abs(_zh_len(zh[pos:x]) / whole - ratio))
+                else:
+                    cutpos = len(zh)
         chunk = zh[pos:cutpos].strip()
         if not chunk:                          # 这句英文在中文里没有落点，并进上一句
             if out:
@@ -128,119 +143,139 @@ def _all_idx(t, ch):
     return out
 
 
-def en_chunks(en):
-    """英文按**标点**切成小句。不在连词/介词处再切——
-    ★ 实测：切到「and went house / to house asking」这种程度，中文根本配不上去。
-      中文的语序和英文不一样（定语前置），切得越碎错位越多。标点是两边都认的边界。"""
-    parts = [x.strip() for x in re.split(r"(?<=[,;:])\s+|\s+—\s+", en) if x and x.strip()]
-    return parts or [en.strip()]
+CONJ = {"and", "but", "or", "so", "yet", "since", "because", "while", "when", "where",
+        "which", "who", "that", "if", "though", "although", "after", "before", "until"}
+OPEN = {"a", "an", "the", "this", "that", "these", "those", "his", "her", "their",
+        "its", "my", "our", "some", "each", "every", "all", "both", "no", "one", "two",
+        "three", "and", "but", "or", "so", "yet", "he", "she", "it", "they", "we", "there"}
+FUNC = {"a", "an", "the", "and", "or", "but", "of", "to", "in", "on", "at", "by", "for",
+        "with", "from", "since", "that", "who", "which", "as", "into", "than", "was",
+        "were", "is", "are", "had", "has", "have", "his", "her", "its", "their", "this",
+        "these", "no", "not", "one", "two", "he", "she", "it", "they", "you", "we"}
+
+
+def _zh_len(t):
+    """中文实际字数：只数汉字、字母、数字，标点空格不算。"""
+    return len(re.sub(r"[^\w\u4e00-\u9fff]", "", ZH_GLOSS.sub(r"\1", t)))
 
 
 def align_chunks(en, zh):
-    """把英文小句与中文片段配对，返回 [(en, zh)]。
+    """把一句英文与它的中文切成一一对应的意群，返回 [(en, zh)]。
 
-    ★ 核心一条（2026-09-04 用户要「拆细一点」之后实测出来的）：
-      **拆到中英语序仍然一致为止，语序一颠倒就把那两段合回去。**
-      「John Snow, / a physician who lived nearby,」在中文里是「住在附近的内科医生约翰·斯诺」——
-      顺序反的。硬拆就会出现「John Snow,」底下配「住在附近的」。
-      判据就是重点词括注在中文里的位置：后一段的锚点若跑到前一段前面，说明语序翻了，合并。
+    ★ 做法（2026-09-04，用户两次要求「对得精准一些」之后重写）：
+      **不再是「按英文标点切、再去中文里找地方下刀」**——那样只能用英文的标点，
+      而中英标点根本不一样。用户指出的正是这个：英文「In September 1854 a few streets of Soho,」
+      是一整段，中文却在「1854 年 9 月，」后面就有逗号，于是「1854 年 9 月」落不到
+      「In September 1854」底下。
+
+      现在是**两边同时出切点、动态规划找整体最优的对齐**：
+        · 中文候选切点＝每个标点之后；英文候选切点＝每个词之后（标点处加分）。
+        · 每一段的代价 = 长度占比不符 + 锚点错位 + 段落过长过短；段数本身给一点奖励，
+          所以在同样准的前提下会尽量切细。
+        · 锚点＝重点词的中文括注：这一段英文里的重点词，它的中文必须落在这一段中文里。
+
+      这样得到的就是：「In September 1854 / 1854 年 9 月，」「a few streets of Soho, in central
+      London, / 伦敦市中心苏活区的几条街道，」「lost 616 people to cholera in ten days. / 在十天里…」
     """
-    ecs = en_chunks(en)
-    if len(ecs) <= 1:
+    toks = en.split()
+    n = len(toks)
+    if n < 6:
         return [(en.strip(), zh.strip())]
+
+    # 中文候选切点（标点之后）
+    zcuts = [0]
+    for idx, ch in enumerate(zh):
+        if ch in "，。；：、！？—":
+            nxt = idx + 1
+            while nxt < len(zh) and zh[nxt] in "，。；：、！？— ":
+                nxt += 1
+            if nxt not in zcuts:
+                zcuts.append(nxt)
+    if len(zh) not in zcuts:
+        zcuts.append(len(zh))
+    zcuts = sorted(set(zcuts))
+    if len(zcuts) < 3:                      # 中文没得切
+        return [(en.strip(), zh.strip())]
+
+    TE = n
+    TZ = _zh_len(zh) or 1
+    # 每个重点词的中文位置
     gl = [(m.start(), m.end(), m.group(2).lower()) for m in ZH_GLOSS.finditer(zh)]
-    if not gl:
-        return [(en.strip(), zh.strip())]
 
-    def anchors(e, used):
-        """这段英文的重点词在中文里的 (最早起点, 最晚终点)；不看顺序，全篇找。"""
-        first = last = None
-        for w in BOLD.findall(e):
-            k = w.lower().strip(",.;:")
-            for j, (st, en_, gw) in enumerate(gl):
-                if j in used:
+    def seg_cost(a, b, za, zb):
+        ew = b - a
+        piece = zh[zcuts[za]:zcuts[zb]]
+        zc = _zh_len(piece)
+        if ew < 2 or zc < 2:
+            return 1e6
+        # 一 · 长度占比（用户看出来的错就是这个）。留 3 个百分点的容差，
+        #      免得为了抠比例把英文在半路截断。
+        cost = 300 * max(0.0, abs(zc / TZ - ew / TE) - 0.03)
+        # 二 · 锚点：这段英文里的重点词，中文得落在这段里
+        keys = [BOLD.sub(r"\1", w).lower().strip(",.;:!?") for w in toks[a:b] if "**" in w]
+        keys = [k for k in keys if k]
+        lo, hi = zcuts[za], zcuts[zb]
+        for k in keys:
+            ok = any((gw == k or gw.rstrip('s') == k.rstrip('s')) and lo <= st < hi
+                     for st, _, gw in gl)
+            if not ok:
+                cost += 34
+        inside = sum(1 for st, _, _ in gl if lo <= st < hi)
+        cost += 26 * abs(inside - len(keys))
+        # 三 · 段落别太长太短
+        if ew > 13:
+            cost += 2.4 * (ew - 13)
+        if ew < 3:
+            cost += 7
+        # 四 · 英文必须断在像样的地方——不然会切出「In September 1854 a」「on Broad」这种半截
+        if b < n:
+            tail = BOLD.sub(r"\1", toks[b - 1])
+            nxt = BOLD.sub(r"\1", toks[b]).lower().strip(",.;:!?")
+            if not re.search(r"[,;:.!?—]$", tail):
+                # 英文这里没有标点，但**下一个词是冠词/连词/代词这类开头词**的话，
+                # 本来就是一处自然停顿——「In September 1854 | a few streets…」。
+                # 下一个词是 to / of / Street 这种，就是把词组劈开了，重罚。
+                cost += 7 if nxt in OPEN else 26
+            if tail.lower().strip(",.;:!?") in FUNC:
+                cost += 34                      # 断在虚词后面（a / the / and / of…），更重
+            # 断在连词/从句引导词**之前**是天然的意群边界，给奖励——
+            # 「…and died / the next day.」这种把动词和它的时间状语劈开的切法，靠这一条纠正。
+            if nxt in CONJ:
+                cost -= 18
+        return cost
+
+    NEG = 15.0                              # 每多切一段给的奖励：同样准就尽量切细
+    INF = float("inf")
+    best = {(0, 0): (0.0, None)}
+    order = [(a, z) for a in range(n + 1) for z in range(len(zcuts))]
+    for a, z in order:
+        if (a, z) not in best:
+            continue
+        base = best[(a, z)][0]
+        if a == n and z == len(zcuts) - 1:
+            continue
+        for b in range(a + 2, n + 1):
+            for zb in range(z + 1, len(zcuts)):
+                if (b == n) != (zb == len(zcuts) - 1):
                     continue
-                if gw == k or gw.rstrip('s') == k.rstrip('s'):
-                    used.add(j)
-                    first = st if first is None else min(first, st)
-                    last = en_ if last is None else max(last, en_)
-                    break
-        return first, last
-
-    used = set()
-    items = [[e, *anchors(e, used)] for e in ecs]
-
-    merged = [list(x) for x in items]
-
-    # 一 · 语序一翻就合并（后一段的起点跑到前一段终点之前）
-    #     「John Snow, / a physician who lived nearby,」在中文里是「住在附近的内科医生约翰·斯诺」——
-    #     顺序反的，硬拆就会出现「John Snow,」底下配「住在」。
-    k = 0
-    while k < len(merged) - 1:
-        a_, b_ = merged[k], merged[k + 1]
-        if b_[1] is not None and a_[2] is not None and b_[1] < a_[2]:
-            merged[k] = [a_[0] + " " + b_[0],
-                         min(x for x in (a_[1], b_[1]) if x is not None),
-                         max(x for x in (a_[2], b_[2]) if x is not None)]
-            del merged[k + 1]
-            k = max(0, k - 1)
-        else:
-            k += 1
-    if len(merged) <= 1:
+                c = seg_cost(a, b, z, zb)
+                if c >= 1e5:
+                    continue
+                v = base + c - NEG
+                if v < best.get((b, zb), (INF, None))[0]:
+                    best[(b, zb)] = (v, (a, z))
+    end = (n, len(zcuts) - 1)
+    if end not in best:
         return [(en.strip(), zh.strip())]
-
-    def next_anchor(k):
-        for j in range(k + 1, len(merged)):
-            if merged[j][1] is not None:
-                return merged[j][1]
-        return None
-
-    # 二 · 切中文
-    out, pos = [], 0
-    for k, (e, f, l) in enumerate(merged):
-        if k == len(merged) - 1:
-            cut = len(zh)
-        else:
-            nf = next_anchor(k)
-            if l is not None:
-                # 有锚点：从本段终点往后，遇到的第一个标点就切
-                seg = zh[l:nf] if (nf and nf > l) else zh[l:]
-                hit = [seg.find(c) for c in ZH_PUNCT if seg.find(c) >= 0]
-                cut = (l + min(hit) + 1) if hit else (nf if nf and nf > pos else len(zh))
-            elif nf is not None and nf > pos:
-                # 没锚点（这段英文里一个重点词都没有）：切在下一段锚点**之前最后一个**标点上。
-                # ★ 切不出来就让它空着，下面并给后一段——这是「John Snow,」那种情况。
-                # 候选标点不止一个时，按**英文词数比例**挑最接近的那个——
-                # 一律取最后一个的话，「Snow had no microscope,」会吃掉「没有细菌，」。
-                seg = zh[pos:nf]
-                hits = sorted({i2 for c in ZH_PUNCT for i2 in _all_idx(seg, c)})
-                if hits:
-                    j2 = k
-                    while j2 < len(merged) and merged[j2][1] is None:
-                        j2 += 1
-                    span = sum(len(merged[t][0].split()) for t in range(k, min(j2 + 1, len(merged)))) or 1
-                    ratio = len(e.split()) / span
-                    target = ratio * len(seg)
-                    best = min(hits, key=lambda x: abs(x + 1 - target))
-                    cut = pos + best + 1
-                else:
-                    cut = pos
-            else:
-                cut = pos
-        out.append([e.strip(), zh[pos:cut].strip()]); pos = cut
-
-    # 三 · 中文为空的段并给后一段（并不动就并给前一段）
-    k = 0
-    while k < len(out):
-        if not out[k][1]:
-            if k + 1 < len(out):
-                out[k + 1][0] = out[k][0] + " " + out[k + 1][0]; del out[k]; continue
-            if k > 0:
-                out[k - 1][0] += " " + out[k][0]; del out[k]; continue
-        k += 1
-    if pos < len(zh) and out:
-        out[-1][1] = (out[-1][1] + zh[pos:]).strip()
-    return [(x[0], x[1]) for x in out if x[0].strip() and x[1].strip()] or [(en.strip(), zh.strip())]
+    path, cur = [], end
+    while cur != (0, 0):
+        prev = best[cur][1]
+        path.append((prev, cur)); cur = prev
+    path.reverse()
+    out = [(" ".join(toks[p[0]:c[0]]).strip(), zh[zcuts[p[1]]:zcuts[c[1]]].strip())
+           for p, c in path]
+    out = [(a, b) for a, b in out if a and b]
+    return out or [(en.strip(), zh.strip())]
 
 
 def marks(en_sent, zh_sent):
