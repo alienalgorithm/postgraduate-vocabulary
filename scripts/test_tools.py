@@ -2281,6 +2281,24 @@ check("Anki 卡带学习序号且已排序", [int(l.split("\t")[2]) for l in _ts
 check("Anki 卡带档位标签", all(l.split("\t")[3].split()[0] in ("核心", "常用", "进阶", "冷僻") for l in _tsv))
 check("README 有大纲入口", "exports/学习大纲.md" in open(os.path.join(ROOT, "README.md"), encoding="utf-8").read())
 
+
+# ── 听读页（2026-09-04，用户要「能放出声」的网页）──────────────────
+print("\n[听读页] 数据、对齐、音频、页面")
+_rd = json.load(open(os.path.join(ROOT, "reader/a01.json"), encoding="utf-8"))
+check("第01篇 18 句且总时长合理", len(_rd["sentences"]) == 18 and 60 < _rd["total"] < 130)
+check("没有超长句（按标点对齐会退化成一句）", max(s["dur"] for s in _rd["sentences"]) < 12)
+check("每句时间轴长度＝词数、首项为 0、严格递增", all(
+    len(s["times"]) == len(s["words"]) and s["times"][0] == 0
+    and all(b > a for a, b in zip(s["times"], s["times"][1:])) for s in _rd["sentences"]))
+check("时间轴不超出音频时长", all(s["times"][-1] <= s["dur"] * 1000 for s in _rd["sentences"]))
+check("中英重点词配对齐全", sum(len(s["marks"]) for s in _rd["sentences"]) == 50)
+check("两种音频格式都在（m4a 给 iOS，opus 给其余）", all(
+    os.path.getsize(os.path.join(ROOT, "reader", s[k])) > 2000
+    for s in _rd["sentences"] for k in ("audio", "audioAlt")))
+_lh = open(os.path.join(ROOT, "listen.html"), encoding="utf-8").read()
+check("听读页 16:9 且带 reader/ 前缀", "aspect-ratio:16/9" in _lh and "const BASE='reader/'" in _lh)
+check("首页有听读入口", "listen.html" in open(os.path.join(ROOT, "index.html"), encoding="utf-8").read())
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

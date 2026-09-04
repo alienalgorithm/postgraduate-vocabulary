@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>听读 · 记词</title>
+<meta name="description" content="黑板跟读：中英对照、逐词高亮、重点词同色，配离线合成的英音朗读。">
+<meta name="theme-color" content="#0f5c57">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<style>
+  :root{
+    --board:#0d5a54; --board-2:#0a4a45; --frame:#c98b4b; --frame-2:#a96e33;
+    --chalk:#f4f1e4; --chalk-dim:#cfe3df;
+    --c0:#f0a58a; --c1:#8fc7f2; --c2:#f2d98a; --c3:#a8e2b6; --c4:#e0a9e8; --c5:#8fe0d6;
+    --ink:#1d1b16; --paper:#f5f1e8; --line:#ddd3c0;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);
+    font-family:'Noto Serif SC',ui-serif,Georgia,'Songti SC',serif;-webkit-text-size-adjust:100%}
+  .wrap{max-width:1120px;margin:0 auto;padding:18px 16px 56px}
+  .top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+  .home{color:#7a6a4f;text-decoration:none;font-size:.9rem}
+  .home:hover{text-decoration:underline}
+  h1{font-size:1.15rem;margin:0;font-weight:600;letter-spacing:.01em}
+  h1 small{display:block;font-size:.78rem;color:#8a7c62;font-weight:400;margin-top:3px}
+
+  /* ══ 16:9 黑板 ══ */
+  .stage{position:relative;width:100%;aspect-ratio:16/9;border-radius:14px;
+    background:linear-gradient(180deg,var(--frame),var(--frame-2));
+    padding:clamp(10px,1.6vw,20px);box-shadow:0 14px 34px rgba(40,26,10,.28);overflow:hidden}
+  .stage::before{content:"";position:absolute;inset:0;border-radius:14px;pointer-events:none;
+    background:repeating-linear-gradient(92deg,rgba(255,255,255,.09) 0 2px,transparent 2px 9px)}
+  .board{position:relative;height:100%;border-radius:7px;overflow:hidden;
+    background:radial-gradient(120% 90% at 50% 8%,var(--board) 0%,var(--board-2) 78%);
+    box-shadow:inset 0 0 60px rgba(0,0,0,.42), inset 0 2px 0 rgba(255,255,255,.06);
+    display:flex;flex-direction:column;justify-content:center;align-items:center;
+    padding:clamp(14px,3.2vw,42px);text-align:center;gap:clamp(8px,1.6vw,20px)}
+  .board::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.1;
+    background-image:radial-gradient(rgba(255,255,255,.7) 1px,transparent 1px);background-size:5px 5px}
+
+  .en,.zh{max-width:96%;line-height:1.34;position:relative;z-index:1;
+    text-shadow:0 1px 0 rgba(0,0,0,.35), 0 0 14px rgba(255,255,255,.05)}
+  .en{font-family:ui-sans-serif,'Trebuchet MS','Segoe UI',system-ui,sans-serif;
+    font-weight:700;letter-spacing:.045em;color:var(--chalk);
+    font-size:clamp(1.02rem,3.35vw,2.45rem)}
+  .zh{color:var(--chalk-dim);font-weight:500;letter-spacing:.05em;
+    font-size:clamp(.92rem,2.65vw,1.9rem)}
+  /* 默认全亮；只有在播放时才逐词提亮，否则停着看就是一片灰 */
+  .en w{transition:opacity .12s,text-shadow .12s;opacity:1;border-radius:3px}
+  .en.playing w{opacity:.72}
+  .en.playing w.said{opacity:.86}
+  .en.playing w.on{opacity:1;text-shadow:0 0 16px rgba(255,255,255,.55),0 1px 0 rgba(0,0,0,.4)}
+  .en w.k, .zh k{font-style:normal;font-weight:800}
+  .k0{color:var(--c0)!important}.k1{color:var(--c1)!important}.k2{color:var(--c2)!important}
+  .k3{color:var(--c3)!important}.k4{color:var(--c4)!important}.k5{color:var(--c5)!important}
+  .zh k{font-weight:700}
+  .cursor{position:absolute;left:0;right:0;bottom:0;height:3px;background:rgba(255,255,255,.14)}
+  .cursor i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--c2),var(--c0));transition:width .12s linear}
+  .counter{position:absolute;top:10px;right:14px;z-index:2;font-size:.72rem;letter-spacing:.14em;
+    color:rgba(244,241,228,.5);font-family:ui-monospace,monospace}
+
+  /* ══ 控制条 ══ */
+  .bar{display:flex;align-items:center;gap:10px;margin-top:14px;flex-wrap:wrap}
+  button{font:inherit;font-size:.86rem;border:1px solid var(--line);background:#fff;color:var(--ink);
+    border-radius:9px;padding:8px 14px;cursor:pointer;transition:.15s}
+  button:hover{background:#faf7f0;border-color:#c9bda3}
+  button:disabled{opacity:.4;cursor:default}
+  .play{background:var(--board);color:#fff;border-color:var(--board);min-width:104px;font-weight:600}
+  .play:hover{background:#0a4a45;border-color:#0a4a45}
+  .spacer{flex:1}
+  label.tog{display:inline-flex;align-items:center;gap:6px;font-size:.84rem;color:#6f6350;cursor:pointer}
+  select{font:inherit;font-size:.84rem;padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:#fff}
+  .track{width:100%;margin-top:10px;accent-color:var(--board)}
+  .meta{font-size:.8rem;color:#8a7c62;margin-top:8px}
+
+  /* ══ 句子清单 ══ */
+  .list{margin-top:26px;border-top:1px solid var(--line);padding-top:16px}
+  .list h2{font-size:.9rem;margin:0 0 10px;color:#6f6350;font-weight:600;letter-spacing:.04em}
+  ol{list-style:none;margin:0;padding:0;counter-reset:s}
+  ol li{counter-increment:s;padding:9px 12px 9px 40px;position:relative;border-radius:8px;cursor:pointer;line-height:1.5}
+  ol li::before{content:counter(s,decimal-leading-zero);position:absolute;left:12px;top:10px;
+    font-family:ui-monospace,monospace;font-size:.72rem;color:#b3a68c}
+  ol li:hover{background:#efe9dc}
+  ol li[aria-current="true"]{background:#e7f0ee;box-shadow:inset 2px 0 0 var(--board)}
+  ol li .e{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.9rem}
+  ol li .z{font-size:.86rem;color:#6f6350;margin-top:2px}
+  ol li b{font-weight:700;color:#0d5a54}
+  @media (max-width:640px){ .bar{gap:8px} button{padding:7px 11px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1 id="ttl">听读<small id="sub">加载中…</small></h1>
+    <a class="home" href="index.html">← 回文章列表</a>
+  </div>
+
+  <div class="stage">
+    <div class="board">
+      <div class="counter" id="cnt">—</div>
+      <div class="en" id="en">　</div>
+      <div class="zh" id="zh">　</div>
+      <div class="cursor"><i id="prog"></i></div>
+    </div>
+  </div>
+
+  <div class="bar">
+    <button class="play" id="play">▶ 播放</button>
+    <button id="prev">← 上一句</button>
+    <button id="next">下一句 →</button>
+    <div class="spacer"></div>
+    <label class="tog"><input type="checkbox" id="auto" checked> 连续播放</label>
+    <label class="tog"><input type="checkbox" id="loop"> 单句循环</label>
+    <select id="rate">
+      <option value="0.75">0.75×</option>
+      <option value="0.9">0.9×</option>
+      <option value="1" selected>1.0×</option>
+      <option value="1.15">1.15×</option>
+    </select>
+  </div>
+  <input class="track" id="track" type="range" min="0" max="0" value="0" step="1" aria-label="句子进度">
+  <div class="meta" id="meta"></div>
+
+  <div class="list">
+    <h2>全文 · 点任意一句从那里开始</h2>
+    <ol id="list"></ol>
+  </div>
+</div>
+
+<audio id="au" preload="auto"></audio>
+<script>
+const $=s=>document.querySelector(s);
+const au=$('#au');
+let D=null, i=0, raf=0, want=false, USE_ALT=false;
+const BASE='reader/';
+
+/* ★ 开局探一次格式，之后固定用它（2026-09-04 实测两条坑）：
+   · 只出 m4a → iOS Safari 之外没问题，可开源 Chromium 不含 AAC，本地验不了；
+   · <source> 多源回退 → Chromium 停在 networkState=3，不往下试；
+   · 每句「先失败再换源」→ 事件顺序绕，实测换了源也接不上播。
+   所以：拿一句真音频探一次，能放 m4a 就全用 m4a（iOS 必须），否则全用 opus。 */
+function probe(alt){
+  return new Promise(res=>{
+    const a=new Audio(); let done=false;
+    const fin=v=>{ if(!done){done=true; res(v);} };
+    a.addEventListener('canplay',()=>fin(true));
+    a.addEventListener('error',()=>fin(false));
+    setTimeout(()=>fin(false), 2500);
+    a.preload='auto'; a.src=alt; a.load();
+  });
+}
+
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+/* 英文：逐词 <w>，重点词加色号 */
+function renderEN(s){
+  const colour={}; s.marks.forEach(m=>colour[m.en.toLowerCase()]=m.c);
+  return s.words.map((w,n)=>{
+    const bare=w.toLowerCase().replace(/^[^a-z0-9'-]+|[^a-z0-9'-]+$/g,'');
+    const c=colour[bare];
+    return `<w data-n="${n}"${c!==undefined?` class="k k${c}"`:''}>${esc(w)}</w>`;
+  }).join(' ');
+}
+/* 中文：把 **词**(gloss) 换成同色 <k>，括注去掉——黑板上不放英文小括号 */
+function renderZH(s){
+  let out = esc(s.zh);
+  s.marks.forEach(m=>{
+    const from = '**' + m.zh + '**(' + m.gloss + ')';
+    const to   = '<k class="k' + m.c + '">' + m.zh + '</k>';
+    if(out.indexOf(from) >= 0) out = out.split(from).join(to);
+    else { const f2 = '**' + m.zh + '**';
+           if(out.indexOf(f2) >= 0) out = out.replace(f2, to); }
+  });
+  return out.replace(/\*\*([^*]+)\*\*\([^)]*\)/g,'$1').replace(/\*\*([^*]+)\*\*/g,'$1');
+}
+
+function paint(){
+  const s=D.sentences[i];
+  $('#en').innerHTML=renderEN(s);
+  $('#zh').innerHTML=renderZH(s);
+  $('#cnt').textContent=String(i+1).padStart(2,'0')+' / '+String(D.sentences.length).padStart(2,'0');
+  $('#track').value=i;
+  // ★ 音频路径相对 reader/，页面在仓库根——少这个前缀就是 404，
+  //   而 currentSrc 只看文件名时完全看不出来（实测查了半天）。
+  au.src = BASE + ((USE_ALT && s.audioAlt) ? s.audioAlt : s.audio); au.load();
+  au.playbackRate=parseFloat($('#rate').value);
+  document.querySelectorAll('#list li').forEach((li,n)=>li.setAttribute('aria-current',n===i?'true':'false'));
+  const cur=document.querySelector('#list li[aria-current="true"]');
+  if(cur) cur.scrollIntoView({block:'nearest'});
+  $('#prog').style.width='0%';
+}
+
+function tick(){
+  const s=D.sentences[i], t=au.currentTime*1000, ws=$('#en').children;
+  let k=-1;
+  for(let n=0;n<s.times.length;n++){ if(t>=s.times[n]) k=n; else break; }
+  for(let n=0;n<ws.length;n++){
+    ws[n].classList.toggle('on',n===k);
+    ws[n].classList.toggle('said',n<k);
+  }
+  $('#prog').style.width=Math.min(100,100*au.currentTime/(s.dur||1))+'%';
+  raf=requestAnimationFrame(tick);
+}
+
+function go(n){
+  i=Math.max(0,Math.min(D.sentences.length-1,n));
+  const was=want; paint(); if(was) play();
+}
+
+function play(){ want=true; const q=au.play(); if(q&&q.catch) q.catch(()=>{}); }
+function pause(){ want=false; au.pause(); }
+au.addEventListener('play',()=>{ $('#play').textContent='❚❚ 暂停'; $('#en').classList.add('playing'); cancelAnimationFrame(raf); tick(); });
+au.addEventListener('pause',()=>{ $('#play').textContent='▶ 播放'; $('#en').classList.remove('playing'); cancelAnimationFrame(raf); });
+au.addEventListener('ended',()=>{
+  cancelAnimationFrame(raf);
+  if($('#loop').checked){ au.currentTime=0; play(); return; }
+  $('#en').classList.remove('playing');
+  if($('#auto').checked && i<D.sentences.length-1){ want=true; go(i+1); play(); }
+  else { want=false; $('#play').textContent='▶ 播放'; }
+});
+$('#play').onclick=()=>au.paused?play():pause();
+$('#prev').onclick=()=>go(i-1);
+$('#next').onclick=()=>go(i+1);
+$('#track').oninput=e=>go(+e.target.value);
+$('#rate').onchange=e=>au.playbackRate=parseFloat(e.target.value);
+addEventListener('keydown',e=>{
+  if(e.target.tagName==='INPUT'||e.target.tagName==='SELECT')return;
+  if(e.code==='Space'){e.preventDefault();$('#play').click()}
+  if(e.key==='ArrowLeft')go(i-1); if(e.key==='ArrowRight')go(i+1);
+});
+
+const id=(new URLSearchParams(location.search).get('a')||'01').padStart(2,'0');
+fetch('reader/a'+id+'.json').then(r=>r.json()).then(d=>{
+  D=d;
+  $('#ttl').firstChild.textContent='第'+id+'篇 · '+d.title;
+  $('#sub').textContent='跟读 · '+d.sentences.length+' 句 · '+Math.round(d.total)+' 秒 · 英音女声（离线合成）';
+  $('#meta').textContent='空格播放/暂停，← → 换句。重点词在英文与中文里同色。';
+  $('#track').max=d.sentences.length-1;
+  $('#list').innerHTML=d.sentences.map(s=>{
+    const e=s.en.replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>');
+    const z=s.zh.replace(/\*\*([^*]+)\*\*\(([^)]*)\)/g,'<b>$1</b>').replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>');
+    return `<li><div class="e">${e}</div><div class="z">${z}</div></li>`;
+  }).join('');
+  document.querySelectorAll('#list li').forEach((li,n)=>li.onclick=()=>{want=true;go(n);play()});
+  const first=d.sentences[0];
+  probe(BASE+first.audio).then(ok=>{ USE_ALT=!ok; paint();
+    if(!ok) $('#meta').textContent+='（本浏览器不支持 AAC，已改用 Opus）'; });
+}).catch(()=>{ $('#sub').textContent='没找到 reader/a'+id+'.json —— 先跑 scripts/build_reader.py '+id; });
+</script>
+</body>
+</html>
