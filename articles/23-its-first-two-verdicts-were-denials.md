@@ -9,15 +9,15 @@
 
 ## 英文正文
 
-On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared between **kin** and child — a **hereditary** signature. Within half an hour he **construed** what the pattern was for, and **lodged** **patents** that year.
+On 10 September 1984 in a Leicester **genetics** laboratory, Alec Jeffreys **developed** an X-ray film of DNA from his **technician**'s family. It showed **ladders** of dark bands, some **rungs** shared by **kin**, parent with child — a **hereditary** signature. Within half an hour he **construed** what the pattern was for, and **lodged** **patents** that year.
 
-The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian mother met a Home Office that **denied** the boy **refused** **entry** was hers. **Lawyers** asked Jeffreys, and the bands showed the boy was hers. He spoke **afterwards** of the **relief** on her face.
+The **technique** is **remembered** as the thing that catches **murderers**; its first real **outing** ran the other way. In 1985 a Ghanaian mother met a Home Office that **denied** that the boy **refused** **entry** was hers. **Lawyers** asked Jeffreys, and the bands showed the boy was hers. He spoke **afterwards** of the **relief** on her face.
 
-Identity in a **courtroom** rested on **documents**, on serology, and on **confession**. Blood **typing** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: no man **condemns** himself for nothing. Two killings would test that.
+Identity in a **courtroom** rested on **documents**, serology and **confession**. Blood **typing** could **exclude** a man but **seldom** single one out. An **admission** was the **strongest** evidence there was, **stronger** than any lab result: no man **condemns** himself for nothing. Two killings would test that.
 
 In 1986 the police at Narborough asked for help. Two **teenagers**, Lynda Mann and Dawn Ashworth, had been **raped** and killed three years apart; Richard Buckland, a seventeen-year-old kitchen hand, had **confessed** to one, not the other — a **juvenile** questioned without a **solicitor**. Jeffreys **compared** the bands from the **semen** with the **youth's** own. Not a single **notch** showed any **overlap**.
 
-Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 for one reason: he **persuaded** a **workmate** to give a **sample** in his name; the man talked, and his bands fitted both **crimes**. The negative named a **killer** at last; the method's first two **verdicts** were **denials**.
+Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfork was **arrested** in 1987 for one reason: he **persuaded** a **workmate** to give a **sample** in his name; the man talked, and Pitchfork's bands fitted both **crimes**. The negative named a **killer** at last; the method's first two **verdicts** were **denials**.
 
 ---
 
@@ -26,15 +26,15 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1984年9月10日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)在**亲属**(kin)与子女之间共有——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**看懂**(construed)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。
+1984 年 9 月 10 日，在莱斯特一间**遗传学**(genetics)实验室里，阿列克·杰弗里斯**冲洗**(developed)出一张X光片，上面是他**技术员**(technician)一家三口的DNA。片子上是一道道深色条带排成的**梯**(ladders)，有些**横杠**(rungs)为**亲属**(kin)共有——父母与子女之间——这是一种**可遗传的**(hereditary)签名。不到半小时，他就**看懂**(construed)了这个图样是干什么用的，并在当年**提交**(lodged)了**专利**(patents)。
 
-这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985年，一位加纳母亲面对的是内政部的**否认**(denied)：那个被**拒**(refused)**入境**(entry)的男孩不是她的。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子确是她亲生的。他**后来**(afterwards)提起她脸上的那种**松弛**(relief)。
+这项**技术**(technique)被**记住**(remembered)的样子，是抓**杀人者**(murderers)的东西；可它第一次真正**出场**(outing)，走的是反方向。1985 年，一位加纳母亲面对的是内政部的**否认**(denied)：那个被**拒**(refused)**入境**(entry)的男孩不是她的。**律师**(Lawyers)找到杰弗里斯，条带显示这孩子确是她亲生的。他**后来**(afterwards)提起她脸上的那种**宽慰**(relief)。
 
 **法庭**(courtroom)上的身份认定，在此之前靠的是**文书**(documents)、血清学和**供认**(confession)。血型**鉴定**(typing)能**排除**(exclude)一个人，却**很少**(seldom)能单指出一个人。而**自认**(admission)是能拿到的**最强**(strongest)证据，比任何实验室结果都**更强**(stronger)：人们认为一个人不会无端**自陷**(condemns)。两起凶杀将检验这一点。
 
-1986年，纳伯勒的警方来求助。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的厨房帮工理查德·巴克兰**认**(confessed)了一桩、不认另一桩——一个在无**事务律师**(solicitor)在场时受讯的**未成年人**(juvenile)。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。
+1986 年，纳伯勒的警方来求助。两名**少女**(teenagers)琳达·曼与唐·阿什沃思相隔三年被**奸**(raped)杀；一个十七岁的厨房帮工理查德·巴克兰**认**(confessed)了一桩、不认另一桩——一个在无**事务律师**(solicitor)在场时受讯的**未成年人**(juvenile)。杰弗里斯把**精液**(semen)里的条带与这**少年**(youth's)本人的作了**比对**(compared)。没有一道**刻痕**(notch)是**重合**(overlap)的。
 
-警方随后**逐户走访**(canvassed)了五千名男子；没有一份**吻合**(matched)。科林·皮奇福克1987年被**捕**(arrested)，原因只有一个：他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，那人说了出去，而他自己的条带与两起**案子**(crimes)对得上。这张负片最终指出了**凶手**(killer)，可这项技术头两次**判词**(verdicts)都是**否定**(denials)。
+警方随后**逐户走访**(canvassed)了五千名男子；没有一份**吻合**(matched)。科林·皮奇福克 1987 年被**捕**(arrested)，原因只有一个：他**说动**(persuaded)一个**工友**(workmate)冒他的名去交**样本**(sample)，那人说了出去，而他自己的条带与两起**案子**(crimes)对得上。这张负片最终指出了**凶手**(killer)，可这项技术头两次**判词**(verdicts)都是**否定**(denials)。
 
 ---
 
@@ -42,7 +42,7 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 
 **§1**（10词）genetics 遗传学｜developed 冲洗（胶片）；显影｜technician 技术员｜ladders 梯状排列｜rungs 横杠；梯级｜kin 亲属｜hereditary 可遗传的｜construed 解读；理解｜lodged 提交（申请）｜patents 专利
 
-**§2**（10词）technique 技术｜remembered 记住｜murderers 杀人者｜outing 出场；首次露面｜denied 否认｜refused 拒绝｜entry 入境｜lawyers 律师｜afterwards 后来｜relief 宽慰；松弛
+**§2**（10词）technique 技术｜remembered 记住｜murderers 杀人者｜outing 出场；首次露面｜denied 否认｜refused 拒绝｜entry 入境｜lawyers 律师｜afterwards 后来｜relief 宽慰
 
 **§3**（10词）courtroom 法庭｜documents 文书（复）｜confession 供认｜typing 鉴定；分型｜exclude 排除｜seldom 很少｜admission 自认｜strongest 最强的｜stronger 更强的｜condemns 定罪；谴责
 
@@ -68,3 +68,4 @@ Police then **canvassed** five thousand men; not one **matched**. Colin Pitchfor
 **二 · §4 认罪范围**：巴克兰**只对第二桩（Dawn Ashworth）认罪，坚决否认第一桩（Lynda Mann）**。原文只写 had confessed，已补为 confessed to one and denied the other——**这一层反而加强论点：那份口供连自身都不自洽。**
 另核实无误：1984年9月10日莱斯特实验室、1985年加纳家庭移民案（DNA 首次实用）、巴克兰1986年11月21日获释、**世界首次大规模筛查五千人**（三村17—34岁男性）、皮奇福克1987年9月19日被捕、1988年1月判无期。**一处细节可补而未补**：五千人先做血型，仅对与凶手同型的约一成再做 DNA——因词数已满，此处从略。[BBC：Colin Pitchfork released](https://feeds.bbci.co.uk/news/uk-england-leicestershire-58408210)｜[Forensic Science Service 案例存档](https://webarchive.nationalarchives.gov.uk/ukgwa/20081202180354mp_/http://www.forensic.gov.uk/html/media/case-studies/f-18.html)｜[Dying Words：Colin Pitchfork Murders](https://dyingwords.net/colin-pitchfork-murders-the-birth-of-dna-forensic-evidence/)
 - **⚠ 判为保留（2026-09-03，人读第一条）**：§4「Not a single notch showed any overlap」——DNA 指纹的条带叫 band（§1、§2 已用），notch 是刻痕；此处 notch 作梯子的『一阶』可读，且 band 本篇已占名额。
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-23.md）**：两处 A——「his bands」最近先行词是工友，改 Pitchfork's bands；「denied the boy refused entry was hers」连续省略，补 that。B：「between kin and child」改 by kin, parent with child；括注 relief「松弛」改「宽慰」；数字空格。

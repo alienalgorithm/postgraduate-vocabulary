@@ -2,7 +2,7 @@
 
 > 题材：1628年瓦萨号沉没与测量标准
 > 状态：**第二十一篇定稿**（2026-08-16）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：269 词 / 50 重点词 / 密度 18.6%
 > 几百年来人们问的是「该怪谁」。船板给出的答案是：每个人量得都对——他们只是从来没有握过同一把尺。
 
 ---
@@ -11,13 +11,13 @@
 
 On 10 August 1628 the **warship** Vasa left Stockholm on her **maiden** **voyage**, three of ten **canvases** set, 64 **bronze** cannon **mounted**. A **gust** laid her over to port; she righted; a second squall finished her. Water **poured** through her open gunports; she **foundered** after 1,300 metres. Thirty **drowned**.
 
-The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming **witnessed** a **stability** **demonstration** on board: thirty men ran back and **forth** across her upper deck to set her **rolling**. The test ran a dozen; by three her roll turned so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.
+The fault had shown itself in **harbour**. Weeks earlier the **admiral** Klas Fleming **witnessed** a **stability** **demonstration**: thirty men ran back and **forth** across her deck to set her **rolling**. The test called for a dozen runs; by the third her roll was so **violent** that Fleming **halted** it. Nobody **cancelled** the voyage; nobody told the king.
 
-The **inquest** of 1628 found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port, not **starboard** — a question no **symmetric** **craft** can raise.
+The 1628 **inquest** found her **unstable** and named no culprit; later accounts named Gustavus Adolphus, who **demanded** a second gun deck and **hurried** the **yard**. That **explains** why she sat high, short of **ballast**, not why she went to port, not **starboard** — a question no **symmetric** **craft** can raise.
 
-Only the ship could answer it. She lay 333 years on the **seabed**; Anders Franzén found her in 1956 and **salvaged** her in 1961 with 45,000 **objects**. From 2010 the **archaeologist** Fred Hocker spent three years **measuring** every **plank** and **rib**. More **structure** stood to port than starboard: unballasted, she would **heel** that way **unaided**.
+Only the ship could answer it. She lay 333 years on the **seabed**; Anders Franzén found her in 1956; she was **salvaged** in 1961 with 45,000 **objects**. From 2010 the **archaeologist** Fred Hocker spent three years **measuring** every **plank** and **rib**. More **structure** stood to port than starboard: unballasted, she would **heel** that way **unaided**.
 
-Why more? Four carpenters' **sticks** came up too: two **rulers** **graduated** in Swedish feet of twelve inches, two in Amsterdam feet of eleven, sixteen **millimetres** shorter. The **master** **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.
+Why more? Four carpenters' **sticks** came up: two **rulers** **graduated** in Swedish feet of twelve inches, two in Amsterdam feet of eleven, sixteen **millimetres** shorter. The **master** **shipwright** was Dutch; separate **gangs** worked each side. Every man cut **accurately** by the **scale** in his hand and not one was **mistaken**; across that hull, no two held the same foot.
 
 ---
 
@@ -26,13 +26,13 @@ Why more? Four carpenters' **sticks** came up too: two **rulers** **graduated** 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1628年8月10日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(canvases)只张了三面，64门**青铜**(bronze)炮**架**(mounted)在舷上。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行1300米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。
+1628 年 8 月 10 日，**战舰**(warship)瓦萨号驶离斯德哥尔摩，开始它的**处女**(maiden)**航**(voyage)——十面**帆**(canvases)只张了三面，64 门**青铜**(bronze)炮**架**(mounted)在舷上。一阵**狂风**(gust)把它压向左舷；它扶正了，第二阵飑却把它掀了过去。水从敞开的炮门**灌**(poured)进来，航行 1,300 米后它便**沉没**(foundered)了。三十人**溺**(drowned)亡。
 
-这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在船上**目睹**(witnessed)过一次**稳定性**(stability)**演示**(demonstration)：三十个人在上层甲板上来回**奔**(forth)跑，让船**摇**(rolling)起来。这试验照例要跑十几趟；跑到第三趟，船身已**摇**得**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。
+这个毛病早在**港内**(harbour)就自己露过一次。几周前，**海军上将**(admiral)克拉斯·弗莱明在船上**目睹**(witnessed)过一次**稳定性**(stability)**演示**(demonstration)：三十个人在甲板上**来回**(forth)奔跑，让船**摇**(rolling)起来。这试验要跑十二趟；跑到第三趟，船身已**摇**得**剧烈**(violent)到弗莱明**叫停**(halted)。没人**取消**(cancelled)航行，也没人去告诉国王。
 
-1628年的**调查**(inquest)认定它**不稳**(unstable)，却没指出祸首；后来的说法则指向古斯塔夫二世·阿道夫——是他**要求**(demanded)加一层炮甲板，又**催**(hurried)紧了**船厂**(yard)的工期。这**解释**(explains)了它为何重心偏高、**压舱**(ballast)不足，却解释不了它为何倒向左舷而非**右舷**(starboard)——这个问题，**对称的**(symmetric)**船**(craft)根本提不出来。
+1628 年的**调查**(inquest)认定它**不稳**(unstable)，却没指出祸首；后来的说法则指向古斯塔夫二世·阿道夫——是他**要求**(demanded)加一层炮甲板，又**催**(hurried)紧了**船厂**(yard)的工期。这**解释**(explains)了它为何重心偏高、**压舱**(ballast)不足，却解释不了它为何倒向左舷而非**右舷**(starboard)——这个问题，**对称的**(symmetric)**船**(craft)根本提不出来。
 
-能回答的只有这艘船本身。它在**海底**(seabed)躺了333年；1956年安德斯·弗兰岑找到它，1961年它被**打捞**(salvaged)出水，同出水的还有45000件**器物**(objects)。2010年起，**考古学家**(archaeologist)弗雷德·霍克花三年**丈量**(measuring)了船上每一块**板**(plank)、每一根**肋**(rib)。左舷的**结构**(structure)比右舷多：不压压舱物的话，它**无需外力**(unaided)就会往那边**倾**(heel)。
+能回答的只有这艘船本身。它在**海底**(seabed)躺了 333 年；1956 年安德斯·弗兰岑找到它，1961 年它被**打捞**(salvaged)出水，同出水的还有 45,000 件**器物**(objects)。2010 年起，**考古学家**(archaeologist)弗雷德·霍克花三年**丈量**(measuring)了船上每一块**板**(plank)、每一根**肋**(rib)。左舷的**结构**(structure)比右舷多：不压压舱物的话，它**无需外力**(unaided)就会往那边**倾**(heel)。
 
 为什么会多？同船还上来了四把木工**棍尺**(sticks)：两把**尺子**(rulers)按瑞典尺**刻度**(graduated)，一尺十二寸；两把按阿姆斯特丹尺，一尺十一寸，短了约十六**毫米**(millimetres)。**总**(master)**造船师**(shipwright)是个荷兰人；两舷分由不同的**工班**(gangs)施工。每个人都照手里那把**尺**(scale)**准确**(accurately)地下了料，没有一个人**弄错**(mistaken)；只是在这条船上，没有两个人握着同一把尺。
 
@@ -42,7 +42,7 @@ Why more? Four carpenters' **sticks** came up too: two **rulers** **graduated** 
 
 **§1**（10词）warship 战舰｜maiden 处女的；首次的｜voyage 航行｜canvases 帆（复）；画布（复）｜bronze 青铜｜mounted 架设；安装｜gust 一阵狂风｜poured 灌；倾泻｜foundered 沉没；失败｜drowned 溺亡
 
-**§2**（10词）harbour 港内；海港｜admiral 海军上将｜witnessed 目睹｜stability 稳定性｜demonstration 演示；示范｜forth 向前；来回｜rolling 摇晃｜violent 剧烈的｜halted 叫停｜cancelled 取消
+**§2**（10词）harbour 港内；海港｜admiral 海军上将｜witnessed 目睹｜stability 稳定性｜demonstration 演示；示范｜forth 来回｜rolling 摇晃｜violent 剧烈的｜halted 叫停｜cancelled 取消
 
 **§3**（10词）inquest 调查；审讯｜unstable 不稳的｜demanded 要求｜hurried 催紧｜yard 船厂；院子｜explains 解释｜ballast 压舱物｜starboard 右舷｜symmetric 对称的｜craft 船；工艺
 
@@ -67,3 +67,4 @@ Why more? Four carpenters' **sticks** came up too: two **rulers** **graduated** 
 **另一处两说并存已在案（第6、7条）**：尺子四把还是六把——Hocker 本人与转述其说的多处（The World／GBH／Tim Harford）均作**四把**；Britannia Naval Research Association 作**六把**。
 **再核出一处数值分歧**：瑞典尺与阿姆斯特丹尺相差多少毫米。Britannia 明写「短 16 毫米」；而哈福德给出的两个尺长为 **297 毫米与 283 毫米**，相减仅约 14 毫米。本文取有明确表述的 16——但两说并此存照。[Tim Harford：Lessons from a shipwreck](https://timharford.com/2026/08/lessons-from-a-shipwreck/)｜[Britannia Naval Research Association：The Vasa story](https://www.britannia-naval-research-association.com/articles/the-vasa-story/)｜[The World：New Clues Emerge in Centuries-Old Swedish Shipwreck](https://theworld.org/stories/2013/08/15/new-clues-emerge-centuries-old-swedish-shipwreck)
 - **★ 已核 · 一处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「a stability rehearsal」——船匠做的是倾斜试验（heeling test），rehearsal 是排练；trial 撞第15篇，heeling 过于生僻，已改为 demonstration——弗莱明看的正是一次稳性演示。****⚠ 判为保留：「three of ten canvases set」——帆叫 sails（撞第04篇）；canvas 作帆是航海转喻（under canvas、spread more canvas），作可数名词指单面帆在旧文献里可见，可读。**
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-21.md）**：一处 A——「The test ran a dozen; by three」省得读不出，改 called for a dozen runs; by the third。B：打捞不归弗兰岑一人，改 she was salvaged；括注 forth「奔」改「来回」；数字空格。

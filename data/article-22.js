@@ -19,11 +19,11 @@
       "paras": [
         {
           "en": "In December 1912 Charles Dawson and Arthur Smith Woodward **laid** before the Geological Society a **jaw** and pieces of a **cranium** from a **gravel** **pit** at Piltdown. The **skull** was human, the jaw **ape**-like, the **pairing** **unheard** of. Together they made the missing link, and made it English. Britain had its **forebear**.",
-          "zh": "1912年12月，查尔斯·道森与阿瑟·史密斯·伍德沃德把一块**颌骨**(jaw)和几片**头盖骨**(cranium)**摆**(laid)到了伦敦地质学会面前——它们出自苏塞克斯皮尔当一处**砾石**(gravel)**坑**(pit)。**颅骨**(skull)是人的，颌骨像**猿**(ape)，这样的**配对**(pairing)**前所未闻**(unheard)。两者合起来就是那个缺失的环节，而且是英国的。英国有了自己的**先祖**(forebear)。"
+          "zh": "1912 年 12 月，查尔斯·道森与阿瑟·史密斯·伍德沃德把一块**颌骨**(jaw)和几片**头盖骨**(cranium)**摆**(laid)到了伦敦地质学会面前——它们出自苏塞克斯皮尔当一处**砾石**(gravel)**坑**(pit)。**颅骨**(skull)是人的，颌骨像**猿**(ape)，这样的**配对**(pairing)**前所未闻**(unheard)。两者合起来就是那个缺失的环节，而且是英国的。英国有了自己的**先祖**(forebear)。"
         },
         {
           "en": "Doubt came at once. In 1913 David Waterston wrote in *Nature* that this was an ape **jawbone** **paired** with a human skull; Boule **echoed** him in 1915, Miller in Washington. In 1923 the **anatomist** Franz Weidenreich reported a modern skull with an **orangutan** **mandible**, its **teeth** **abraded**. He was right, and **ignored** for a **generation**.",
-          "zh": "疑问当即就来了。1913年，戴维·沃特斯顿在《自然》上写道：这是一块猿的**下颌骨**(jawbone)**配**(paired)上一颗人的头骨；1915年布勒**附和**(echoed)了他，华盛顿的米勒也是。1923年，**解剖学家**(anatomist)弗朗茨·魏登赖希报告说：一具现代人的颅骨，配一具**猩猩**(orangutan)**下颌**(mandible)，而那些**牙**(teeth)是被**磨**(abraded)过的。他是对的，也被**无视**(ignored)了整整一**代人**(generation)。"
+          "zh": "疑问当即就来了。1913 年，戴维·沃特斯顿在《自然》上写道：这是一块猿的**下颌骨**(jawbone)**配**(paired)上一颗人的头骨；1915 年布勒**附和**(echoed)了他，华盛顿的米勒也是。1923 年，**解剖学家**(anatomist)弗朗茨·魏登赖希报告说：一具现代人的颅骨，配一具**猩猩**(orangutan)**下颌**(mandible)，而那些**牙**(teeth)是被**磨**(abraded)过的。他是对的，也被**无视**(ignored)了整整一**代人**(generation)。"
         },
         {
           "en": "**Anatomy** could not settle it: the **hinge** where jaw met skull was broken away, so the two could never be **fitted** and **tested**. Each side read the same plaster **casts** and X-ray **images**, seeing what it expected. **Dissent** and **acclaim** drew on one set of **bones**; there was no **arbiter**.",
@@ -31,7 +31,7 @@
         },
         {
           "en": "In 1949 chemistry supplied one: Kenneth Oakley applied a **fluorine** test. **Buried** bone **absorbs** **fluoride** from **groundwater**, and the longer it **lies** the more it **holds**. Refined by 1953, the test read 0.03 to 0.04 per cent in the jaw, the **vault** 0.1. The pieces had not **rested** in one ground for the same **duration**.",
-          "zh": "1949年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到1953年改良之后，这一测法读出的是：颌骨与牙齿0.03%至0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。"
+          "zh": "1949 年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到 1953 年改良之后，这一测法读出的是：颌骨与牙齿 0.03% 至 0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。"
         },
         {
           "en": "Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **molars** showed **file** **grooves**: straight **scratches** where chewing leaves **uneven** wear. **Drilling** proved the colour skin-deep: iron and chromic acid matching Piltdown stone. For forty-one years the **inquiry** was what the bones **resembled**; the test asked how long each had **lain**, and only that question had a number.",
@@ -95,7 +95,7 @@
           "p": 2
         },
         {
-          "w": "pair",
+          "w": "paired",
           "zh": "配对",
           "p": 2
         },
@@ -298,7 +298,8 @@
         "**判别性证据之二 · 锉痕**：1953年奥克利与约瑟夫·韦纳、威尔弗里德·勒格罗·克拉克进一步检验。显微镜下臼齿咀嚼面呈现笔直锉痕，而自然咀嚼磨损应为不规则。钻孔显示深色仅及表层——骨骼曾以铁溶液与铬酸染色，以匹配当地砾石颜色。下颌属猩猩（可能来自砂拉越），头骨为中世纪人类。[Natural History Museum：Piltdown Man](https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html)",
         "结果于1953年11月21日在《自然》发表，距1912年公布已四十一年。1959年放射性碳测年进一步测得头骨约600年。[History Skills：Piltdown Man](https://www.historyskills.com/classroom/ancient-history/piltdown-man/)",
         "**已核（2026-08-16 逐条上网）**：判别性证据的两个数字**一字不差**——科学史研究所载「The jaws and teeth contained 0.03% to 0.04% fluoride, whereas the braincase showed a fluoride composition of 0.1%」，与正文完全一致。其余亦无误：1949年奥克利施用氟吸收测年（为避免过早声张而秘密进行）；钻孔发现颌骨暗色仅及表层，系铁溶液与重铬酸盐人为染色；显微镜下臼齿见锉出的痕迹；1953年韦纳、奥克利与勒格罗·克拉克联名公布。另附一笔佐证：氮含量测定显示颌骨与牙齿含氮 3.9%—5.1%（接近鲜骨的约5%），而颅骨仅 0.6%—1.4%——两者埋藏时长确实不同。[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)｜[Nature：Chemical Examination of the Piltdown Implements](https://www.nature.com/articles/1721110a0)｜[Natural History Museum：Piltdown Man](https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html)",
-        "**已核（2026-08-20 逐条上网）· §4 一处归属错误已订正**：**1949 年那次氟测并没有把颌与颅分开**——它只证明两者都不古老（皮尔当标本约 0.2%，而同坑的乳齿象、古菱齿象化石为 2—3%），**奥克利读完反而更确信两者同源**：他 1950 年在《自然》写道「The results of the fluorine test have considerably increased the probability that the [Piltdown] mandible and cranium represent the same creature.」\n**0.03—0.04% 对 0.1% 这一差值，来自 1953 年那次改良测试（并配合氮、铀含量测定）**，而非 1949 年那次。正文此前把数值记在 1949 年头上，已改为「到 1953 年改良之后，读数是……」，并把 §5 首句的年份去掉以免重复。**这一处至关重要：全篇论点「只有那个问题有数」正建立在这组数值上，归属错了论点就悬空。**[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)｜[TalkOrigins：Piltdown Man](https://www.talkorigins.org/faqs/piltdown.html)｜[The Piltdown Inquest, ch.5](https://www2.clarku.edu/faculty/djoyce/piltdown/The_Piltdown_Inquest/chapters/chapter5.html)"
+        "**已核（2026-08-20 逐条上网）· §4 一处归属错误已订正**：**1949 年那次氟测并没有把颌与颅分开**——它只证明两者都不古老（皮尔当标本约 0.2%，而同坑的乳齿象、古菱齿象化石为 2—3%），**奥克利读完反而更确信两者同源**：他 1950 年在《自然》写道「The results of the fluorine test have considerably increased the probability that the [Piltdown] mandible and cranium represent the same creature.」\n**0.03—0.04% 对 0.1% 这一差值，来自 1953 年那次改良测试（并配合氮、铀含量测定）**，而非 1949 年那次。正文此前把数值记在 1949 年头上，已改为「到 1953 年改良之后，读数是……」，并把 §5 首句的年份去掉以免重复。**这一处至关重要：全篇论点「只有那个问题有数」正建立在这组数值上，归属错了论点就悬空。**[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)｜[TalkOrigins：Piltdown Man](https://www.talkorigins.org/faqs/piltdown.html)｜[The Piltdown Inquest, ch.5](https://www2.clarku.edu/faculty/djoyce/piltdown/The_Piltdown_Inquest/chapters/chapter5.html)",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-22.md）**：零 A。中文数字空格。"
       ]
     }
   ]);

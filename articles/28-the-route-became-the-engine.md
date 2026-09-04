@@ -26,13 +26,13 @@ Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-20世纪60年代，抵达海王星会让**推进剂**(propellant)预算承压；直接飞行可能需要30年。然而，木星、土星、天王星和海王星正在接近一种**位置构型**(configuration)，这种**排列**(alignment)每175年才重现一次。这一排列带来的发射窗口，让设计人员能够把多次相遇**串联起来**(stitch)，编成一条**统一的**(unified)**行程路线**(itinerary)。借助这些飞掠**许诺**(promised)开展“大巡游”式**勘测**(reconnaissance)，有望缩短飞行时间，降低对**运载火箭**(launcher)的要求和任务**开支**(expenditure)。
+20 世纪 60 年代，抵达海王星会让**推进剂**(propellant)预算承压；直接飞行可能需要 30 年。然而，木星、土星、天王星和海王星正在接近一种**位置构型**(configuration)，这种**排列**(alignment)每 175 年才重现一次。这一排列带来的发射窗口，让设计人员能够把多次相遇**串联起来**(stitch)，编成一条**统一的**(unified)**行程路线**(itinerary)。借助这些飞掠**许诺**(promised)开展“大巡游”式**勘测**(reconnaissance)，有望缩短飞行时间，降低对**运载火箭**(launcher)的要求和任务**开支**(expenditure)。
 
-计算让这套几何关系真正**可用**(usable)。在JPL，Michael Minovitch构建了**弹道式的**(ballistic)**多行星**(multi-planet)轨道；1965年，Gary Flandro分析了外行星飞行的**机会窗口**(opportunity)。这种机动方式有着悠久的思想**谱系**(pedigree)，其起源却仍**没有定论**(unsettled)；任何把**发明归属**(authorship)锁定于一人的说法都会误导。这些贡献把**转瞬即逝的**(fleeting)**天体**(celestial)几何关系转化为任务架构；每一次相遇都让下一个世界变得**可以抵达**(attainable)。
+计算让这套几何关系真正**可用**(usable)。在喷气推进实验室（JPL），迈克尔·米诺维奇构建了**弹道式的**(ballistic)**多行星**(multi-planet)轨道；1965 年，加里·弗兰德罗分析了外行星飞行的**机会窗口**(opportunity)。这种机动方式有着悠久的思想**谱系**(pedigree)，其起源却仍**没有定论**(unsettled)；任何把**发明归属**(authorship)锁定于一人的说法都会误导。这些贡献把**转瞬即逝的**(fleeting)**天体**(celestial)几何关系转化为任务架构；每一次相遇都让下一个世界变得**可以抵达**(attainable)。
 
-在行星附近，探测器沿一条**曲线**(curve)运动。**接近时**(inbound)获得的增速会在**远离时**(outbound)失去；这种**互反**(reciprocal)关系成立于行星的**共动**(co-moving)参考系中。然而，引力仍会使它的速度**矢量**(vector)发生**偏折**(bends)。在太阳的参考系中，**叠加**(adding)，行星的轨道速度一经叠加到前述矢量上，这种偏转便表现为探测器**动能**(kinetic)的变化。角动量在两者之间转移；行星的响应**微小到不可察觉**(imperceptible)。
+在行星附近，探测器沿一条**曲线**(curve)运动。**接近时**(inbound)获得的增速会在**远离时**(outbound)失去；这种**互反**(reciprocal)关系成立于行星的**共动**(co-moving)参考系中。然而，引力仍会使它的速度**矢量**(vector)发生**偏折**(bends)。在太阳的参考系中，把行星的轨道速度**叠加**(adding)上去，这种偏折便表现为探测器**动能**(kinetic)的变化。角动量在两者之间转移；行星的响应**微小到不可察觉**(imperceptible)。
 
-旅行者2号于1977年发射。1979年，木星把它**推**(pushed)向土星；1981年，土星把它的轨道弯向天王星；1986年，天王星又把它送往海王星，并于1989年完成飞掠。每一次**接近**(approach)，都必须在规定的**时刻**(epoch)完成精准**瞄准**(targeting)。一次航向**微调**(adjustment)，可能在数年后改变**后续的**(downstream)轨道几何。**设计者**(designers)比过一万条**备选**(candidate)**轨道**(trajectories)；那四个航路点是一条**级联链**(cascade)。
+旅行者 2 号于 1977 年发射。1979 年，木星把它**推**(pushed)向土星；1981 年，土星把它的轨道弯向天王星；1986 年，天王星又把它送往海王星，并于 1989 年完成飞掠。每一次**接近**(approach)，都必须在规定的**时刻**(epoch)完成精准**瞄准**(targeting)。一次航向**微调**(adjustment)，可能在数年后改变**后续的**(downstream)轨道几何。**设计者**(designers)比过一万条**备选**(candidate)**轨道**(trajectories)；那四个航路点是一条**级联链**(cascade)。
 
 引力助推绝不是**永动机式的**(perpetual-motion)把戏。从一颗沿轨道运动的行星后方掠过，可以**增加**(augment)相对于太阳的速度；从前方掠过，则可以让探测器**减速**(decelerate)。**守恒定律**(Conservation)仍然成立：行星**失去**(loses)或接收的，只是其轨道能量中**微乎其微的**(minuscule)一份。火箭负责发射和**轨道微调**(trim)点火；推进剂**限制**(limitation)依然存在，但路线变成了一项**有利条件**(asset)，为火箭**推进**(propulsion)提供了补充。
 
@@ -63,3 +63,4 @@ Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet 
 - 【已核】从行星公转方向的后方接近可向探测器转移轨道角动量；相反几何可用于减速。能量与角动量并未凭空产生：行星获得或失去的份额因质量巨大而几乎不可察觉。[NASA Science：Trajectories](https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/)｜[JPL Night Sky Network：Borrowing Energy from a Planet](https://nightsky.jpl.nasa.gov/docs/gravityassist4.pdf)
 - 【已核】本文的机制边界是：行星引力既改变方向，也可能改变探测器相对太阳的速率；但变化取决于接近几何和参考系。不能把飞近行星时的暂时加速误写成永久增益，也不能把引力助推写成违反守恒的‘免费能量’。火箭仍承担发射与轨道微调，路线只补充而不取代火箭推进。[NASA Science：A Gravity Assist Primer](https://science.nasa.gov/learn/basics-of-space-flight/primer/)｜[NASA Science：Trajectories](https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/)
 - **⚠ 两处拼写数字补注（2026-09-02，untraced.py 漏掉的那一类）**：**①「a direct flight could take thirty years」**——NASA/JPL 事实页：**「借助引力助推……飞抵海王星的航时由 30 年缩短为 12 年。」** 有据。**②「Designers weighed ten thousand candidate trajectories」**——同一事实页：**「在选定那两条轨道之前，研究过一万条以上的轨道。」** 有据。**★ 这两个数此前 facts 里一条也没有，且因为是拼写形式（thirty／ten thousand），`untraced.py` 第一版逮不到——工具已随此次补上拼写数字。**[NASA · Voyager Fact Sheet](https://science.nasa.gov/mission/voyager/fact-sheet/)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-28.md）**：英文零 A。中文 §3「叠加，行星的轨道速度一经叠加到前述矢量上」是坏句，重写；人名音译；数字空格。

@@ -19,7 +19,7 @@
       "paras": [
         {
           "en": "In **postwar** Britain, streptomycin, a new **antibiotic**, was tightly **rationed** nationwide; the government bought only 50 **kilograms** from the United States. **Tuberculosis** patients **queued** for sanatoria. The trial analysed 107 patients aged 15–30 with bacteriologically proved acute **progressive**, **bilateral** **pulmonary** tuberculosis. All received **bed-rest**; 55 also received streptomycin.",
-          "zh": "**战后**(postwar)的英国，链霉素这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到50**千克**(kilograms)。**结核病**(Tuberculosis)患者**排队**(queued)等待疗养院床位。试验分析了107名15至30岁、经细菌学证实的急性**进展性的**(progressive)、**双侧的**(bilateral)**肺部**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中55人另外使用链霉素。"
+          "zh": "**战后**(postwar)的英国，链霉素这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到 50 **千克**(kilograms)。**结核病**(Tuberculosis)患者**排队**(queued)等待疗养院床位。试验分析了 107 名 15 至 30 岁、经细菌学证实的急性**进展性的**(progressive)、**双侧的**(bilateral)**肺部**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中 55 人另外使用链霉素。"
         },
         {
           "en": "The **safeguard** came before treatment. An **eligibility** panel first accepted each patient; only then did the trial **headquarters** open the next **numbered** **envelope**. Austin Bradford Hill had prepared an **allotment** series from random numbers. Investigators and the **coordinator** could not see its order, so **foreknowledge** of **allocation** could not steer **enrolment**.",
@@ -31,7 +31,7 @@
         },
         {
           "en": "At six months, **mortality** was four of 55 in the streptomycin group versus 14 of 52 controls. The **radiological** readers scored considerable **improvement** in 28 treated patients against four controls. Yet **resistance** emerged as bacilli stopped **responding**; some gains proved **transient** and ended in **deterioration**. The drug had **efficacy**, but **follow-up** showed improved **survival** did not make monotherapy durable.",
-          "zh": "六个月后，链霉素组55人中死亡4人，对照组52人中死亡14人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组28人，对照组只有4人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。"
+          "zh": "六个月后，链霉素组 55 人中死亡 4 人，对照组 52 人中死亡 14 人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组 28 人，对照组只有 4 人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。"
         },
         {
           "en": "The trial was not the first to randomise. Its **methodological** **landmark** was **concealment**. A **recruiter** who knew the next group could **tamper** with enrolment — accepting the ones whose **prognosis** suited his **bias**. Random numbers made the sequence impossible to **foresee**; sealed envelopes kept the assignment unreadable. That **fairness** made a **counterfactual** comparison credible: the patient had to be accepted before the envelope could reveal the treatment.",
@@ -298,7 +298,8 @@
         "这项研究并不是历史上第一次随机分配患者的试验。它在临床试验史上的关键里程碑，是对随机分配过程及防止分配预知的措施作了异常清楚的记录：随机序列与分配隐藏共同减少招募阶段的分配偏倚。[James Lind Library：MRC 1948](https://www.jameslindlibrary.org/medical-research-council-1948b/)｜[Randomization for concealment](https://www.jameslindlibrary.org/articles/randomization-for-concealment/)",
         "本文的机制边界是：随机数负责使下一项分配难以预测，密封且按序开启的信封负责让已经生成的分配在患者入选前不可读取。两者不能混写成同一个步骤。",
         "**已核（2026-08-20 逐条上网）**：核心数据全部无误——107 例入组、链霉素组 55 例、对照组 52 例；影像学「considerable improvement」为治疗组 28 例、对照组 4 例；分配序列由 Bradford Hill 按各中心、各性别的随机抽样数编制，原文明载「the details of the series were unknown to any of the investigators or to the coordinator and were contained in a set of sealed envelopes, each bearing on the outside only the name of the hospital and a number」；六个月时链霉素组仍有 47/55 痰培养阳性、对照组 50/52，第四个月后出现耐药。\n**一处两说并存**：对照组六个月死亡数，本文取 **14**——Senn《Dicing with Death》与原始四格表（Died 14／Recovered 38／Total 52）皆为 14；而 James Lind Library 两处记为 15。本文取有原始数据表支持的 14。[James Lind Library：Why the 1948 MRC trial used random numbers](https://www.jameslindlibrary.org/articles/why-the-1948-mrc-trial-of-streptomycin-used-treatment-allocation-based-on-random-numbers/)｜[Cambridge：Dicing with Death — Trials of life](https://www.cambridge.org/core/books/dicing-with-death/trials-of-life/98141B19C516C5259A27AD5B7D0B7050)｜[PMC：The MRC randomized trial of streptomycin and its legacy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592068/)",
-        "**已核补充**：正文 §1「aged 15–30」为原报告的入组年龄范围（15至30岁），与 107 例、55/52 分组同出于 1948 年 BMJ 报告。[BMJ 1948 原文（PMC 全文）](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2091872/)"
+        "**已核补充**：正文 §1「aged 15–30」为原报告的入组年龄范围（15至30岁），与 107 例、55/52 分组同出于 1948 年 BMJ 报告。[BMJ 1948 原文（PMC 全文）](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2091872/)",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-25.md）**：零 A。中文数字空格。"
       ]
     }
   ]);
