@@ -8,6 +8,8 @@
 
 每张卡：
   正面  = 英文词（原形式，即正文里加粗的那个词）
+  第三列 = 学习序号（0001—3500，核心词在前），Anki 里当排序字段用
+  标签  = 档位（核心/常用/进阶/冷僻）＋ 篇号、段号
   背面  = 中文释义 ｜ 所在句（该词加粗、其余加粗去掉）｜ 篇名 ＋ 网页链接
   标签  = 篇号、段号
 
@@ -15,6 +17,8 @@
   python3 scripts/export_anki.py            # 写到 exports/anki-3500.tsv（全库）
   python3 scripts/export_anki.py 61 70      # 只导第 61—70 篇
 导入 Anki：文件 → 导入 → 选 TSV，字段分隔符 Tab，勾选「允许 HTML」。
+顺序：牌组选项 → 新卡顺序 → 「按添加顺序」；卡片已按 exports/学习大纲.md 的四档排好。
+只想先背核心 412 词：Anki 搜索框输 tag:核心。
 """
 import os
 import re
@@ -90,9 +94,22 @@ def context_for(word, para_en):
     return BOLD.sub(r"\1", para_en)
 
 
+def syllabus_order():
+    """读 exports/syllabus.json，拿到每个词的学习序号与档位。
+    ★ 由来（2026-09-04）：卡按篇号 1→70 堆着，学生第一天就撞上 sky-pieces。
+      顺序必须焊进卡里——大纲写在文件里没用，Anki 只认卡上的字段。"""
+    path = os.path.join(ROOT, 'exports', 'syllabus.json')
+    if not os.path.exists(path):
+        subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'syllabus.py')],
+                       cwd=ROOT, capture_output=True)
+    d = json.load(open(path, encoding='utf-8'))
+    return {(x['a'], x['w']): (x['n'], x['band']) for x in d['words']}
+
+
 def main():
     arts = load_all()
     lo, hi = (int(sys.argv[1]), int(sys.argv[2])) if len(sys.argv) >= 3 else (1, 10**6)
+    ORDER = syllabus_order()
     rows = []
     for a in arts:
         aid = int(a['id'])
@@ -105,18 +122,23 @@ def main():
             ctx = context_for(w, en)
             back = "%s<br><br><i>%s</i><br><br>%s · <a href=\"%s%s\">第%s篇</a>" % (
                 zh, ctx, a['title'], SITE, a['slug'], a['id'])
-            rows.append((w, back, "art%s p%d" % (a['id'], p)))
+            n, bd = ORDER[(a['id'], w)]
+            rows.append((n, w, back, "%s art%s p%d" % (bd, a['id'], p)))
+    rows.sort()                       # 核心 → 常用 → 进阶 → 冷僻，档内按词频从高到低
     os.makedirs(os.path.join(ROOT, 'exports'), exist_ok=True)
     name = 'anki-3500.tsv' if len(sys.argv) < 3 else 'anki-%02d-%02d.tsv' % (lo, hi)
     path = os.path.join(ROOT, 'exports', name)
     with open(path, 'w', encoding='utf-8') as f:
-        f.write("#separator:tab\n#html:true\n#tags column:3\n")
-        for w, back, tags in rows:
-            f.write("%s\t%s\t%s\n" % (w, back.replace("\t", " ").replace("\n", " "), tags))
-    print("导出 %d 张卡 → %s" % (len(rows), os.path.relpath(path, ROOT)))
-    # 自检：每张卡的上下文都含加粗词
-    bad = [w for w, back, _ in rows if "<b>" not in back]
+        f.write("#separator:tab\n#html:true\n#tags column:4\n")
+        for n, w, back, tags in rows:
+            f.write("%s\t%s\t%04d\t%s\n" % (w, back.replace("\t", " ").replace("\n", " "), n, tags))
+    print("导出 %d 张卡（已按学习顺序排）→ %s" % (len(rows), os.path.relpath(path, ROOT)))
+    # 自检：每张卡的上下文都含加粗词；顺序连续无缺
+    bad = [w for _, w, back, _ in rows if "<b>" not in back]
     print("上下文缺词：%d" % len(bad), bad[:5] if bad else "")
+    if len(sys.argv) < 3:
+        ns = [n for n, _, _, _ in rows]
+        print("学习序号 1—%d 连续：%s" % (len(ns), ns == list(range(1, len(ns) + 1))))
 
 
 if __name__ == "__main__":

@@ -4,6 +4,12 @@
 
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
+## 怎么用这 3,500 个词
+
+- **学习大纲**：[`exports/学习大纲.md`](exports/学习大纲.md) —— 词分四档（核心 412／常用 1,080／进阶 1,344／冷僻 664）、七十篇难度梯队与主题索引、十二周路径。
+- **Anki 卡**：[`exports/anki-3500.tsv`](exports/anki-3500.tsv) —— 3,500 张，每张带原句；**已按学习顺序排好**（牌组选项 → 新卡顺序 → 按添加顺序）。只背核心词：搜索 `tag:核心`。
+- 机器读：[`exports/syllabus.json`](exports/syllabus.json)
+
 ## 体式
 
 每一篇都写在同一副镣铐里，这是**声明在先的固定体式**，不是巧合：

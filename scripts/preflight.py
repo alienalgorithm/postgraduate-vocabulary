@@ -40,6 +40,7 @@ run("《总令》与库同步", "python3 scripts/render_charter.py --check",
 run("markdown 构建与全部结构校验", "python3 scripts/build_markdown.py",
     lambda o: "全部通过" in o)
 run("markdown 与数据层同步", "git diff --exit-code -- articles")
+run("学习大纲与数据层同步", "python3 scripts/syllabus.py >/dev/null && git diff --exit-code -- exports/syllabus.json exports/学习大纲.md")
 run("Anki 导出与数据层同步", "python3 scripts/export_anki.py >/dev/null && git diff --exit-code -- exports/anki-3500.tsv")
 # **写 manifest 前必须先跑 build_markdown。** 顺序颠倒会导致指纹对不上：
 # manifest 记的是写入时刻的 markdown 指纹，若之后 markdown 又被重建，

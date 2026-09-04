@@ -11,6 +11,7 @@
 
     python3 scripts/test_tools.py
 """
+import json
 import os, re, sys, json, subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -2263,6 +2264,22 @@ check("中文章程存在且五个观众齐", all(x in open(os.path.join(ROOT, "
 _r30 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/readers.py"), "70", "--zh", "--run", "--dry-run"], capture_output=True, text=True, timeout=120).stdout
 check("--zh dry-run：观众一只见中文、观众三见中英", "中文审读团" in _r30 and "§1 **灯塔**(lighthouse)" in _r30 and "§1 A **lighthouse**" in _r30)
 check("第70篇中文报告存在且有汇总表", "| 句 | 谁点到 | 等级 | 改句 |" in open(os.path.join(ROOT, "notes/中文审读-70.md"), encoding="utf-8").read())
+
+
+# ── 学习大纲（2026-09-04，路三定案之后）────────────────────────────
+print("\n[学习大纲] 分档、梯队、路径、Anki 顺序")
+_r31 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/syllabus.py"), "--check"],
+                      capture_output=True, text=True, timeout=300).stdout
+check("syllabus 覆盖 3500 词 70 篇", "词 3500 · 篇 70" in _r31)
+_syl = json.load(open(os.path.join(ROOT, "exports/syllabus.json"), encoding="utf-8"))
+check("四档齐全且总数 3500", sorted({x["band"] for x in _syl["words"]}) == sorted(["核心", "常用", "进阶", "冷僻"]) and len(_syl["words"]) == 3500)
+check("学习序号 1—3500 连续", sorted(x["n"] for x in _syl["words"]) == list(range(1, 3501)))
+check("核心词排在最前", _syl["words"][0]["band"] == "核心" and _syl["words"][-1]["band"] == "冷僻")
+check("七十篇都进了周计划", sorted(sum(_syl["weeks"], [])) == sorted(a["id"] for a in _syl["articles"]))
+_tsv = open(os.path.join(ROOT, "exports/anki-3500.tsv"), encoding="utf-8").read().strip().split("\n")[3:]
+check("Anki 卡带学习序号且已排序", [int(l.split("\t")[2]) for l in _tsv] == list(range(1, 3501)))
+check("Anki 卡带档位标签", all(l.split("\t")[3].split()[0] in ("核心", "常用", "进阶", "冷僻") for l in _tsv))
+check("README 有大纲入口", "exports/学习大纲.md" in open(os.path.join(ROOT, "README.md"), encoding="utf-8").read())
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
