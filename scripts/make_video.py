@@ -38,6 +38,7 @@ FRAME_D = (176, 120, 52)
 FRAME_L = (240, 196, 138)
 
 BOLD = re.compile(r"\*\*([^*]+)\*\*")
+LAST_SCALE = None
 ZH_GLOSS = re.compile(r"\*\*([^*]+)\*\*\(([^)]+)\)")
 
 
@@ -95,9 +96,22 @@ def wrap(draw, tokens, fnt, maxw, space):
     for tok, gold, glue in tokens:
         w = draw.textlength(tok, font=fnt)
         add = w + (0 if (glue or not cur) else space)
-        if cur and curw + add > maxw and not glue:      # 紧贴的标点不单独换行
-            lines.append(cur); cur, curw = [], 0
-            add = w
+        # ★ 「紧贴」只是不加空格；能不能在这里换行是另一回事——
+        #   中文每个字都紧贴，但必须能换行（上一版把这两件事混在一起，整行中文不换行，溢出了黄框）。
+        #   只有标点不能落到行首。
+        nobreak = tok in "，。；：、！？—,.;:!?"
+        if cur and curw + add > maxw:
+            if nobreak and len(cur) >= 2:
+                # ★ 避头尾：标点不能起行，但也**不能把整行撑出安全区**（检察官抓到 §16 末行
+                #   「…建议；」左端出了守卫圈 38 像素）。把前一个字连同标点一起挪到下一行。
+                last = cur.pop()
+                curw -= last[2]
+                lines.append(cur)
+                cur, curw = [(last[0], last[1], last[2], False)], last[2]
+                add = w
+            elif not nobreak:
+                lines.append(cur); cur, curw = [], 0
+                add = w
         cur.append((tok, gold, w, glue and bool(cur))); curw += add
     if cur:
         lines.append(cur)
@@ -182,6 +196,8 @@ def draw_sentence(bg, s, W, H):
         if not over and total <= maxh:
             scale = cand
             break
+    global LAST_SCALE
+    LAST_SCALE = scale                       # 给视频检察官看：这一帧用了哪一档字号
 
     y = (H - total) // 2
     for ci, (le, lz) in enumerate(blocks):
@@ -264,6 +280,13 @@ def main():
                         "-of", "csv=p=0", out], capture_output=True, text=True).stdout.strip()
     print("\n第%s篇 → %s  %sx%s  %.1f 秒  %.1f MB"
           % (aid, os.path.relpath(out, ROOT), W, H, float(d), os.path.getsize(out) / 1e6))
+    # ★ 渲完必过视频检察官（用户 2026-09-04：文字溢出黄框的视频「完全没法用」，不许再出）。
+    #   不过就把 mp4 删掉——不合格的成品不许留在硬盘上。
+    if "--no-inspect" not in sys.argv:
+        r = subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "video_inspector.py"), aid])
+        if r.returncode:
+            os.remove(out)
+            sys.exit("视频检察官不过，已删除 %s" % os.path.relpath(out, ROOT))
 
 
 if __name__ == "__main__":

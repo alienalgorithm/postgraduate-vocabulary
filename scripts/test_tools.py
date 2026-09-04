@@ -2372,6 +2372,12 @@ _gp = float(re.search(r"gap_pair = int\(H \* ([\d.]+)", _mv).group(1))
 _gc = float(re.search(r"gap_chunk = int\(H \* ([\d.]+)", _mv).group(1))
 check("段距标准：段间 ≥ 5 × 段内（用户定的标准）", _gc >= 5 * _gp and _gc >= 0.05)
 check("重点词后的标点紧贴前词（不画成 delivered .）", "glue_first" in _mv and "prev.endswith" in _mv)
+_vi = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspector.py"), "01"],
+                     capture_output=True, text=True, timeout=600)
+check("视频检察官三层全过（含按像素查溢出）", _vi.returncode == 0 and "全部通过" in _vi.stdout,
+      "\n".join(l for l in _vi.stdout.split("\n") if "✗" in l)[:300])
+check("make_video 渲完自动过检察官、不过就删", "video_inspector.py" in _mv and "os.remove(out)" in _mv)
+check("避头尾：标点带前一字换行，不撑出安全区", "避头尾" in _mv and "last = cur.pop()" in _mv)
 check("字号由大往小搜（取放得下的最大号）", "由大往小搜" in open(
     os.path.join(ROOT, "scripts/make_video.py"), encoding="utf-8").read())
 check("看片页存在且句子起点算法与渲染一致", "GAP=0.32" in open(os.path.join(ROOT, "watch.html"), encoding="utf-8").read())
