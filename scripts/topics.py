@@ -74,7 +74,7 @@ TOPICS = [
     ("牛眼玻璃", "牛眼玻璃是吹圆盘时最贱的中心废料，如今当古董卖", "bullseye pane pontil crown glazier disc glasshouse cottage-window casement leading", False),
     ("壁炉税", "1662 年壁炉税让穷人堵上烟囱，一屋子烟", "hearth-tax fireplace chimney-money assessor exemption cottage smoke-hole soot collector rebellion", False),
     ("鹅毛笔", "鹅毛笔用的是左翅的羽毛，因为弯向右手", "quill goose feather barrel nib penknife inkwell blotting-paper left-wing scribe", False),
-    ("门环与门铃", "门环的响法是一套暗号：几下、谁在敲", "knocker doorbell footman rapping caller card-tray butler porter visiting-card", False),
+    ("门环与门铃", "门环的响法是一套暗号——材料可爱但不是反转，不写", "knocker doorbell footman rapping caller card-tray butler porter visiting-card", True),
     ("窗税", "窗税让英国人砌掉窗户，daylight robbery 由此而来", "window-tax bricked-up sash glazing assessor daylight dormer attic collector loophole", False),
     ("木鞋", "木鞋不是穷人的鞋，是湿地作业鞋", "clog sabot alder sole strap cobbler upper hobnail mill-floor puddle", False),
     ("稻草人", "稻草人顶替的是一个十一岁的赶鸟童", "scarecrow straw sack turnip broomstick crow sparrow rook clapper bird-boy", True),
@@ -95,6 +95,12 @@ TOPICS = [
     ("符木", "1834 年国会烧掉了，因为财政部在炉子里烧六百年的符木", "tally notch stock foil hazel exchequer furnace stove clerk cartload", False),
     ("燧石打火", "火柴之前，生火是一门要练的手艺", "tinderbox flint steel char-cloth spark tinder striker touchwood spill bellows", False),
     ("醋", "醋不是坏了的酒，是故意做的", "vinegar mother cask acetic cider malt pickling barrel sourness brewer", False),
+    ("鞋的左右", "1850 年代以前多数鞋不分左右，两只一样，隔天换脚穿", "straights sole welt hobnail cobbler upper heel insole lace-holes shoemaker", False),
+    ("马蹄铁", "野马不用蹄铁；蹄铁是马厩的产物，湿粪泡软了蹄", "horseshoe hoof farrier nail anvil stable manure dung softened rasp", False),
+    ("顶针", "顶针是缝纫史上唯一没被机器取代的工具", "thimble needle thread seamstress stitch fingertip brass pewter sewing-box tailor", False),
+    ("锡兵", "锡兵不是锡的，是铅的，孩子啃了会中毒", "tin-soldier lead mould paint regiment nursery toy-box casting pewter enamel", False),
+    ("镜子", "威尼斯玻璃镜是国家机密，工匠不许离岛", "mirror glass mercury tin-foil Murano glassmaker backing quicksilver guild island", False),
+    ("面包师的一打", "十三个不是慷慨，是怕称重罚款", "loaf baker dozen scales weight fine pillory assize crumb roll", False),
     ("蜜蜂", "蜜蜂 1622 年坐船到美洲，「白人的苍蝇」；今天住在卡车上——可用 43，四批到 46 为止，存档", "hive swarm honeycomb nectar pollination almond colonist flatbed pallet bee-line", True),
 ]
 
