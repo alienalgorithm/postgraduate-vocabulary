@@ -17,7 +17,7 @@ By 1970 the **grocers** had a number for every product but no **symbol** a machi
 
 The UPC-A **format** turned twelve **digits** into geometry, the last a **checksum** **catching** a **misread**. A **mirror** **swept** the beam over the **label**; a photodiode read the **reflected** beam, and bar **widths** became a number. On that gum the number gave a maker and an item, nothing more.
 
-A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Spectra-Physics built the **laser**, NCR the till; rival **vendors** followed, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number, the price was elsewhere.
+A **database** held the **description** and price: prices changed without reprinting wrappers, and each sale updated **inventory**. Machinery alone was no system. Spectra-Physics built the **laser**, NCR the till; rival **vendors** followed, makers printed codes. A **proprietary** scheme serves one chain; **infrastructure** needs **competitors** to **obey** one **specification**. The Smithsonian keeps one of those first scanners: the bars held a number; the price was elsewhere.
 
 ---
 
@@ -26,15 +26,15 @@ A **database** held the **description** and price: prices changed without reprin
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1974年6月26日8点01分，在俄亥俄州特洛伊镇的马什**超市**(supermarket)，克莱德·道森把一条十包装的箭牌**口香糖**(gum)递给**收银员**(cashier)莎伦·布坎南。她把它从嵌在**收银台**(checkout)里的激光**扫描器**(scanner)上划过——那台**沉**(sunk)在台面下的机器，既没读到名称，也没读到价格。收款机显示67**美分**(cents)，比**货架**(shelf)价低两分：店里在做**促销**(promotion)，而**包装纸**(wrapper)不可能知道这回事。
+1974 年 6 月 26 日 8 点 01 分，在俄亥俄州特洛伊镇的马什**超市**(supermarket)，克莱德·道森把一条十包装的箭牌**口香糖**(gum)递给**收银员**(cashier)莎伦·布坎南。她把它从嵌在**收银台**(checkout)里的激光**扫描器**(scanner)上划过——那台**沉**(sunk)在台面下的机器，既没读到名称，也没读到价格。收款机显示 67 **美分**(cents)，比**货架**(shelf)价低两分：店里在做**促销**(promotion)，而**包装纸**(wrapper)不可能知道这回事。
 
-这项**发明**(invention)其实很老。1949年，诺曼·伍德兰与伯纳德·西尔弗为一种用印刷标记给货品**分类**(classifying)的**光学**(optical)方法提交了专利申请；1952年授权的文件里，**直线**(linear)与**圆环**(circular)两种图形都**画**(depicted)了出来。它们都**可行**(feasible)，只是**为时过早**(premature)：激光尚不存在，**计算**(computing)昂贵，全行业也没有一套通用的**编号**(numbering)。
+这项**发明**(invention)其实很老。1949 年，诺曼·伍德兰与伯纳德·西尔弗为一种用印刷标记给货品**分类**(classifying)的**光学**(optical)方法提交了专利申请；1952 年授权的文件里，**直线**(linear)与**圆环**(circular)两种图形都**画**(depicted)了出来。它们都**可行**(feasible)，只是**为时过早**(premature)：激光尚不存在，**计算**(computing)昂贵，全行业也没有一套通用的**编号**(numbering)。
 
-到1970年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM**工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973年，行业**评审组**(panel)选中了IBM的**方案**(proposal)，定名UPC-A。
+到 1970 年，**杂货商**(grocers)们已经给每件商品定了号，却还没有一种机器读得懂的**符号**(symbol)。IBM **工程师**(engineer)乔治·劳雷尔顶回了上司要他保留**牛眼环**(bullseye)的要求：那种图形**印**(printed)在**包装**(packaging)上会**洇开**(smeared)。他坚持用**竖**(vertical)条；1973 年，行业**评审组**(panel)选中了 IBM 的**方案**(proposal)，定名 UPC-A。
 
-UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过**标签**(label)；光电二极管读取**反射**(reflected)回的光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。
+UPC-A **格式**(format)把十二个**数字**(digits)变成几何图形，最后一位是**校验和**(checksum)，**能逮住**(catching)**误读**(misread)。在特洛伊，一面**反射镜**(mirror)把光束**扫**(swept)过**标签**(label)；光电二极管读取**反射**(reflected)回的光，条与空的**宽度**(widths)于是变成一串数。那包口香糖上，这串数给出的是：一个厂商，一件商品，此外什么也没有。
 
-**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。斯佩克特拉物理造**激光**(laser)器，NCR造收银机；互为对手的**供应商**(vendors)跟上，厂商把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着最初那批扫描器中的一台：条纹里装的是一串数，价格在别处。
+**描述**(description)和价格存在**数据库**(database)里，于是价格可以改动而不必重印任何一张包装纸，每一笔销售都能更新**库存**(inventory)。光有机器不成体系。斯佩克特拉物理造**激光**(laser)器，NCR 造收银机；互为对手的**供应商**(vendors)跟上，厂商把码印上去。一套**专有的**(proprietary)方案只服务一家连锁；**基础设施**(infrastructure)要求**竞争者**(competitors)共同**遵守**(obey)一份**规范**(specification)。史密森学会留着最初那批扫描器中的一台：条纹里装的是一串数，价格在别处。
 
 ---
 
@@ -66,3 +66,4 @@ UPC-A**格式**(format)把十二个**数字**(digits)变成几何图形，最后
 - **已核（2026-08-16 逐条上网）**：1974年6月26日上午在俄亥俄州特洛伊市Marsh 超市完成史上第一次商用条码扫描；伍德兰与西尔弗1949年提交光学分类法专利、1952年获授权（含直线与同心圆两种图形）；乔治·劳雷尔在IBM主张竖条方案，1973年行业委员会选定并定名 UPC-A；十二位数字末位为校验码。**另有两处已在前次跑轮中订正**：史密森学会收藏的是最初十台扫描仪之一而非那张包装纸（《史密森尼杂志》编者按明确更正）；原文给出的 UPC 号码检索无据，已改为不给数字。[Smithsonian Magazine（含编者按）](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)
 - **已核（2026-08-20 逐条上网）· §5 那句史密森是对的，且正好验证了第23篇的教训**：史密森美国历史博物馆藏品页明载 This Spectra Physics model A price scanner is **one of those first ten scanners**——**本文「收藏其中一台最早的扫描仪」无误**。**而同一页还写着：那包被扫的口香糖留在了 Clyde Dawson 手里，从未进过史密森**（The scanned package of chewing gum remained with Clyde Dawson of Marsh Supermarkets and never came to the Smithsonian）——**第23篇当年正是在这一点上出的错，来源就是这一页**。注意：多处二手资料仍误称那包口香糖藏于史密森。
 另核实无误：1974年6月26日8:01、Marsh 超市、Troy 俄亥俄、Clyde Dawson（Marsh 研发负责人）、收银员 Sharon Buchanan、**67美分（Wrigley 标价69美分，减2美分促销）**、伍德兰与西尔弗1949年申请/1952年获专利、牛眼码印在包装上会晕开、1973年委员会选中IBM方案并命名 UPC-A、氦氖激光经旋转镜照到玻璃面再由光电二极管接收、该店共装十台、每台四千美元。**§5 末尾三句泛论已改实**：原为「商店建账、对手造兼容读头、厂商印码」，现改为 **Spectra-Physics 造激光器、NCR 造收银机**——同一藏品页载「两家共同开发，分别提供激光扫描器与计算机化收银机」。[Smithsonian NMAH：Supermarket Scanner](https://americanhistory.si.edu/collections/object/nmah_892778)｜[Smithsonian Magazine：The History of the Bar Code](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-05.md）**：零 A。B：结句逗号拼接改分号；数字与英文缩写空格。「rival vendors followed, makers printed codes」为等长留逗号（列举式）。

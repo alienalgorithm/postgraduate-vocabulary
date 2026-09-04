@@ -2,7 +2,7 @@
 
 > 题材：1854 年伦敦霍乱
 > 状态：**第一篇最终精进锁定稿**（2026-08-15）
-> 指标：266 词 / 50 重点词 / 密度 18.8%
+> 指标：267 词 / 50 重点词 / 密度 18.7%
 > 一张地图，一个远在几英里外的寡妇，和一个不必等确定性的决定。
 
 ---
@@ -15,7 +15,7 @@ He set a **stroke** against each **address** on a chart of the **neighbourhood**
 
 A **workhouse** of 535 **inmates** inside the death **zone** had its own **borehole** and **recorded** five deaths. A **brewery** **beside** the pump lost nobody, since the men were **supplied** with beer. Both stood in the same **stench** as the tenements being **emptied** around them: same air, different water.
 
-Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **sipped** the same bottle and died next day. Those two deaths **refute** the **miasma** by themselves. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.
+Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September; she preferred the **taste** of Broad Street water and had it **delivered**. Her **niece**, visiting from Islington, **sipped** the same bottle and died the next day. Those two deaths **refute** the **miasma** by themselves. Snow had no microscope, no germ, no **infection** theory: a map and two **anomalies**.
 
 On 8 September the **parish** **removed** the pump **handle**. **Diggers** later found the leaking **cesspit** two feet eight inches away. The outbreak was already **fading**; the board **accepted** his advice, not his conclusion. He died in 1858, his **profession** still **unconvinced**. When being wrong costs a handle and being right saves a street, **certainty** is the wrong thing to wait for.
 
@@ -26,15 +26,15 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** later
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1854年9月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了616人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者平日从哪里**打**(drew)水、用的是哪一处**水源**(supply)。
+1854 年 9 月，伦敦市中心苏活区的几条街道，在十天里因**霍乱**(cholera)死了 616 人。**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺**不信**(doubted)这套说法，挨家挨户去问：死者平日从哪里**打**(drew)水、用的是哪一处**水源**(supply)。
 
-他在**街区**(neighbourhood)图上按**片区**(blocks)，按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，出去两个街区就**稀疏**(thinned)得几乎没有了。分布告诉他该往哪儿看；那些水源不同的**例外**(exceptions)**证实**(vindicated)了他。
+他在**街区**(neighbourhood)图上按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，出去两个**街区**(blocks)就**稀疏**(thinned)得几乎没有了。分布告诉他该往哪儿看；那些水源不同的**例外**(exceptions)**证实**(vindicated)了他。
 
-死亡**区域**(zone)之内，一所收容535名**院民**(inmates)的**济贫院**(workhouse)有自己的**钻井**(borehole)，**记录在案**(recorded)的死亡只有五例。紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，因为工人的**配给**(supplied)是啤酒。两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；空气一模一样，水不是。
+死亡**区域**(zone)之内，一所收容 535 名**院民**(inmates)的**济贫院**(workhouse)有自己的**钻井**(borehole)，**记录在案**(recorded)的死亡只有五例。紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，因为工人的**配给**(supplied)是啤酒。两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；空气一模一样，水不是。
 
-苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在9月2日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。
+苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，她却在 9 月 2 日死了：她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。斯诺没有显微镜，没有细菌，也没有**传染**(infection)理论，只有一张地图和两处**异常**(anomalies)。
 
-9月8日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。后来，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他1858年去世时，他那个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。
+9 月 8 日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。后来，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，只是他的建议；他 1858 年去世时，他那个**行当**(profession)仍然**不信**(unconvinced)。当错了不过是丢一个把手、对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。
 
 ---
 
@@ -69,3 +69,4 @@ On 8 September the **parish** **removed** the pump **handle**. **Diggers** later
 **无误五项**：十天内 **616 人**死亡（维基「1854 Broad Street cholera outbreak」明载）；波兰街济贫院 **535 人中仅 5 人**病故，因其自有水井；狮牌啤酒厂工人无一人死，因喝自酿啤酒并用自家深井；**1854年9月8日拆下泵柄**（斯诺 7 日晚向教区委员会陈情，8 日晨工人拆柄）；斯诺 **1858年6月16日卒**（10 日中风，六日后去世，年 45），未及见巴斯德与科赫证实其说。
 **粪坑距井 两英尺八英寸**（0.81 米）与他处所记「不到一米」「约三英尺」相符，砖砌已朽。
 **一处时间点已改为不依赖**：原文作「that autumn」（1854年秋）。实况是——怀特黑德 1854 年 11 月才加入教区霍乱调查委员会，**查出索引病例（40号 Broad Street 的婴儿 Frances Lewis）与开挖粪坑均在 1855 年**，委员会报告 1855 年 7 月才刊出。已改为 **later**，不再指认季节。[Wikipedia：1854 Broad Street cholera outbreak](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak)｜[Sick City Project：John Snow and cholera](https://sickcityproject.wordpress.com/2013/03/11/john-snow-and-cholera/)｜[Look Up London：The Deadly History of This Soho Water Pump](https://lookup.london/john-snow-water-pump/)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-01.md）**：零 A。B：died the next day 补 the；中文 blocks 括注从「按片区」挪到「两个街区」；数字空格。

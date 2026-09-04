@@ -28,13 +28,13 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 
 在海上，太阳**轻易**(readily)就能给出**纬度**(latitude)；**经度**(longitude)要的却是某条已知**子午线**(meridian)上的时刻。地球二十四小时自转一周，所以当地**正午**(noon)与**参照**(reference)时刻之间每差一小时，就是十五度**弧**(arc)。这套**算术**(arithmetic)从来没人怀疑；难的是在颠簸的**甲板**(deck)上把那一小时**守**(keeping)住。
 
-1714年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是三十**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森**答**(answered)以一套能**抵抗**(resisted)**晃动**(motion)、摩擦与**温度**(heat)的机械。H1在1736年去了里斯本；一处**缺陷**(flaw)让H2留在了**岸上**(ashore)；十九年**打磨**(refining)H3，仍然不够。
+1714 年，英国议会为半度的精度悬赏两万英镑——在**赤道**(equator)上就是三十**海**(nautical)里。林肯郡的**木匠**(carpenter)约翰·哈里森**答**(answered)以一套能**抵抗**(resisted)**晃动**(motion)、摩擦与**温度**(heat)的机械。H1 在 1736 年去了里斯本；一处**缺陷**(flaw)让 H2 留在了**岸上**(ashore)；十九年**打磨**(refining)H3，仍然不够。
 
-1759年完成的H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条双金属**片**(strip)抵消**温度**(temperature)，**嵌宝石**(jewelled)的**枢轴**(pivots)减小**摩擦**(friction)。他的儿子威廉带着它去牙买加；八十一天航程里它只慢了5.1秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。
+1759 年完成的 H4不是钟，而是一只五**英寸**(inches)宽的**便携**(portable)表：**摆轮**(balance)每秒振动五次，一条双金属**片**(strip)抵消**温度**(temperature)，**嵌宝石**(jewelled)的**枢轴**(pivots)减小**摩擦**(friction)。他的儿子威廉带着它去牙买加；八十一天航程里它只慢了 5.1 秒——**差**(gap)不到一海里，而**容许**(tolerated)的是三十海里。
 
-**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)**月**(lunar)距法的内维尔·马斯基林，亲自在H4的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在四十七天里**误差**(erred)39秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出那块表。
+**评审委员**(commissioners)们**迟疑**(balked)了。**力主**(championed)**月**(lunar)距法的内维尔·马斯基林，亲自在 H4 的巴巴多斯海试中做了**天文**(astronomical)**观测**(observations)，并把两种方法的结果一并发表。这只表在四十七天里**误差**(erred)39 秒，比法案要求好三倍。委员会把奖金拆成两半：一半付给公开**原理**(principles)，另一半要等别的**制表匠**(makers)能**复制**(replicate)出那块表。
 
-拉尔卡姆·肯德尔1769年做出K1；它随詹姆斯·库克航行三年，日走差从未**超过**(exceeding)八秒。1773年议会**拨给**(granted)哈里森8750英镑，始终不是那笔奖金。他1776年去世，距库克**驶**(sailed)回、**盛赞**(praising)那块仿表仅数月。航海钟一直**昂贵**(costly)，**航海者**(navigators)于是继续靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)月亮达数十**年**(decades)。钟没有打败天空；它加入了天空。
+拉尔卡姆·肯德尔 1769 年做出 K1；它随詹姆斯·库克航行三年，日走差从未**超过**(exceeding)八秒。1773 年议会**拨给**(granted)哈里森 8,750 英镑，始终不是那笔奖金。他 1776 年去世，距库克**驶**(sailed)回、**盛赞**(praising)那块仿表仅数月。航海钟一直**昂贵**(costly)，**航海者**(navigators)于是继续靠**六分仪**(sextant)与**天文年历**(almanac)**观测**(sighting)月亮达数十**年**(decades)。钟没有打败天空；它加入了天空。
 
 ---
 
@@ -64,3 +64,4 @@ Larcum Kendall finished K1 in 1769; it sailed three years with James Cook, its d
 - 拉尔卡姆·肯德尔的复制品K1于1769年完成，随库克第二次远航三年，日差始终未超过8秒（赤道上约合2海里）。1773年议会另行拨给哈里森8750英镑，并非正式奖金；哈里森1776年去世。因航海钟长期昂贵，月距法连同马斯基林创办的《航海天文年历》又沿用了一个多世纪。[NMM](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[American Scientist](https://www.americanscientist.org/article/the-harrison-maskelyne-affair)
 - **指代订正（2026-08-16）**：§5 原写 In 1773 Parliament granted **him** £8,750，而 him 紧跟在 Larcum Kendall 之后——**实际获奖者是哈里森**，非肯德尔。已改为具名。**已核**：1773年6月议会通过法案授予哈里森 £8,750；他从未获得那笔 £20,000 奖金，而该奖金实际上从未授予任何人。库克带 K1 出海三年、1775年7月归航，盛赞其为「我们穿越各种气候的忠实向导」，K1 日走差全程未超八秒；哈里森1776年3月24日、他83岁生日当天在伦敦红狮广场寓所去世——**已知不确定他是否得知库克此行的成功**。[Royal Museums Greenwich／NMM：John Harrison and the Longitude problem](http://pro.unibz.it/staff2/fzavatti/corso/harrison.html)｜[Royal Naval Museum：John Harrison biography](https://www.royalnavalmuseum.org/info_sheets_john_harrison.html)
 - **已核（2026-08-20 逐条上网）· §5 一处指代已订正**：库克第二次远航（1772年7月13日—1775年7月30日，HMS Resolution）带的是**肯德尔的 K1**，而非哈里森的 H4；1775 年他向海军部报告「肯德尔的表已超出其最热忱拥护者的期望」，航海日志称它「我们可信赖的朋友——那块表」「我们从不失灵的向导——那块表」。**正是 K1 向仍在怀疑的学界证明了 H4 的成功不是侥幸**（同航另有阿诺德所制三只天文钟全部停摆）。原文写 Cook sailed home **praising it**——**it 悬空，读者会以为夸的是哈里森那块表**；已改为 praising **the copy**。哈里森 1776 年去世，距库克 1775 年 7 月归航约八个月，「months after」无误。[Wikiwand：Larcum Kendall](https://www.wikiwand.com/en/Larcum_Kendall)｜[Wikipedia：Second voyage of James Cook](https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-04.md）**：零 A。中文数字空格。

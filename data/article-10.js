@@ -19,15 +19,15 @@
       "paras": [
         {
           "en": "In July 1799 soldiers rebuilding a fort near Rashid found an **ancient** **slab** **fragment**. The slab bore a 196 BC **decree** of the Ptolemaic **era**: Egyptian **priests** honoured their boy **pharaoh**, Ptolemy V, then aged thirteen. Its **carvers** **inscribed** the same words in two languages, three scripts; only the Greek was **intelligible**.",
-          "zh": "1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**石板**(slab)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。"
+          "zh": "1799 年 7 月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**石板**(slab)**残片**(fragment)。碑片载有一道公元前 196 年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。"
         },
         {
           "en": "The Greek **passage** ran **parallel** to the Egyptian, not an **exact** match. A **familiar** name offered a **clue**: its Egyptian and Greek spellings could be matched. Inside an **oval** cartouche signs spelled Ptolemy, and by 1814 Thomas Young had **realised** that several signs recorded **sounds**, not ideas — a **tentative** reading, but an **anchor**.",
-          "zh": "希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号拼出了托勒密；到1814年托马斯·扬已**意识到**(realised)其中若干符号记录的是**语音**(sounds)而非意义——解读仍属**初步**(tentative)，却是**起点**(anchor)。"
+          "zh": "希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号拼出了托勒密；到 1814 年托马斯·扬已**意识到**(realised)其中若干符号记录的是**语音**(sounds)而非意义——解读仍属**初步**(tentative)，却是一个**依托**(anchor)。"
         },
         {
           "en": "Champollion, a French **scholar**, used Coptic, a late **idiom** of Egyptian, to infer how ancient words were **pronounced**. He tested **additional** **royal** names, including Cleopatra on Philae’s obelisk. His 1822 **argument** found phonetic signs in foreign names; by 1824 his **hybrid** model distinguished phonetic signs, whole-word signs and markers that **guided** interpretation. A sign’s **function** depended on **context**.",
-          "zh": "法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在1822年的**论证**(argument)从外来姓名中辨认出表音符号；到1824年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。"
+          "zh": "法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在 1822 年的**论证**(argument)从外来姓名中辨认出表音符号；到 1824 年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。"
         },
         {
           "en": "So the writing is neither picture code nor simple **alphabet**. A **lone** sign might **represent** one consonant, several consonants or a **sequence** of them; a determinative marked a **semantic** **category**. A **scribe** held all this in mind; such markers spared the reader that burden; grammar helped scholars **interpret** combinations. Temple walls, papyri and **archives** became **legible**.",
@@ -35,7 +35,7 @@
         },
         {
           "en": "The **romantic** **myth** of a **solitary** **genius** distorts history. Young and Champollion were **rivals**, and credit remains in **dispute**; they built **cumulatively** on Coptic, on copies and on **testimony** from stone. Across the decree’s three scripts Ptolemy’s name supplied a **foothold**, and other monuments let scholars **verify** readings, making the puzzle solvable.",
-          "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字给了一个**立足点**(foothold)；其他碑铭则让学者能**核验**(verify)读法，使这道谜题有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。"
+          "zh": "那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。在同一道法令的三种文字中，「托勒密」这个名字给了一个**立足点**(foothold)；其他碑铭则让学者能**核验**(verify)读法，使这道谜题有了解法。"
         }
       ],
       "glossary": [
@@ -136,7 +136,7 @@
         },
         {
           "w": "anchor",
-          "zh": "可靠起点；锚",
+          "zh": "依托",
           "p": 2
         },
         {
@@ -305,7 +305,8 @@
         "来源：[National Trust：菲莱方尖碑、托勒密与克利奥帕特拉王名](https://www.nationaltrust.org.uk/visit/dorset/kingston-lacy/the-treasures-at-kingston-lacy)",
         "来源：[Collège de France：石碑并非唯一钥匙，破译依赖大量其他文献](https://www.college-de-france.fr/en/agenda/seminar/champollion-1822-exhibition-public-lectures-and-readings/deciphering-hieroglyphics-is-the-rosetta-stone-really-the-key-to-the-enigma)",
         "托马斯·扬对王名框的读解发表于1814—1819年间；正文取1814年，即他确认「托勒密」音值、为破译提供锚点的一年。　**已核**：法令为公元前196年3月27日孟菲斯祭司会议所颁，时为托勒密五世在位第九年；他五岁继位、十二岁正式加冕，196 BC 时十三岁。[Wikipedia：Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)",
-        "**已核（2026-08-20 逐条上网）· 九项无误，零翻案**：\n**1799 年 7 月**法军加固**朱利安堡**（拉希德／罗塞塔近旁）时掘出该碑，工兵军官 Pierre-François Bouchard 首先意识到其价值；\n碑文为**公元前 196 年 3 月 27 日**孟菲斯祭司团颁给**托勒密五世**的敕令；\n**「时年十三」核对无误**：他约五岁继位（前 204 年），**前 197 年十二岁正式加冕**，而敕令颁于**前 196 年**——正当十三岁；\n**「两种语言、三种文字」**为大英博物馆同一表述（Egyptian 与 Greek 两语，hieroglyphic／Demotic／Greek 三体），且**当时只有希腊文可读**；\n**1814 年托马斯·扬**认出象形文字亦以音符拼写外来名（维基编年：Demotic 用音符拼外来名为 1802 年，象形文字亦然且与世俗体多有相通为 **1814 年**）；\n**商博良 1822 年**《致达西埃先生的信》于 9 月 27 日在铭文与美文学院宣读（其顿悟日常记为 9 月 14 日），**1824 年**发表的《概论》确立音符／词符／限定符并存的混合模型；\n**菲莱方尖碑上的克娄巴特拉**：该碑由 William Bankes 运回英国，Bankes 于 1821 年已正确读出该王名，商博良据以与托勒密王名交叉比对共有音值；\n**科普特语为古埃及语的晚期形态**，商博良据以推知古音。\n另：同一敕令的近乎相同的抄本另有三件，全埃及已发现此类敕令碑 29 通。[Wikipedia：Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)｜[British Museum：Everything you need to know about the Rosetta Stone](https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone)｜[Textualia：The Rosetta Stone](https://textualia.com/en/blog/rosetta-stone-translation-history)"
+        "**已核（2026-08-20 逐条上网）· 九项无误，零翻案**：\n**1799 年 7 月**法军加固**朱利安堡**（拉希德／罗塞塔近旁）时掘出该碑，工兵军官 Pierre-François Bouchard 首先意识到其价值；\n碑文为**公元前 196 年 3 月 27 日**孟菲斯祭司团颁给**托勒密五世**的敕令；\n**「时年十三」核对无误**：他约五岁继位（前 204 年），**前 197 年十二岁正式加冕**，而敕令颁于**前 196 年**——正当十三岁；\n**「两种语言、三种文字」**为大英博物馆同一表述（Egyptian 与 Greek 两语，hieroglyphic／Demotic／Greek 三体），且**当时只有希腊文可读**；\n**1814 年托马斯·扬**认出象形文字亦以音符拼写外来名（维基编年：Demotic 用音符拼外来名为 1802 年，象形文字亦然且与世俗体多有相通为 **1814 年**）；\n**商博良 1822 年**《致达西埃先生的信》于 9 月 27 日在铭文与美文学院宣读（其顿悟日常记为 9 月 14 日），**1824 年**发表的《概论》确立音符／词符／限定符并存的混合模型；\n**菲莱方尖碑上的克娄巴特拉**：该碑由 William Bankes 运回英国，Bankes 于 1821 年已正确读出该王名，商博良据以与托勒密王名交叉比对共有音值；\n**科普特语为古埃及语的晚期形态**，商博良据以推知古音。\n另：同一敕令的近乎相同的抄本另有三件，全埃及已发现此类敕令碑 29 通。[Wikipedia：Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)｜[British Museum：Everything you need to know about the Rosetta Stone](https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone)｜[Textualia：The Rosetta Stone](https://textualia.com/en/blog/rosetta-stone-translation-history)",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-10.md）**：零 A。B：中文 §5 句序与英文对齐；括注 anchor「起点」改「依托」；数字空格。"
       ]
     }
   ]);

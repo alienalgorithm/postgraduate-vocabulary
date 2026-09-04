@@ -26,13 +26,13 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-空气里五**分之**四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。
+空气里五分之四是**氮**(nitrogen)，可**作物**(crop)用不了N₂；根系只能以**化合物**(compounds)的形式吸收它。这个**分子**(molecule)**惰性**(inert)十足，原子被一根三重**键**(bond)锁死。农业只好**倚靠**(leaned)**厩肥**(manure)，以及在智利**开采**(mined)的**硝石**(nitrate)——收成于是系在一处远方的矿藏上。
 
-1909年7月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约200 个**大气压**(atmospheres)、500 度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨125毫升。
+1909 年 7 月，弗里茨·哈伯与罗伯特·勒罗西尼奥尔在卡尔斯鲁厄支起一台台式**装置**(apparatus)。氢与氮在约 200 个**大气压**(atmospheres)、500 度下**循环**(circulated)通过锇**催化剂**(catalyst)。高压**有利于**(favoured)生成**氨**(ammonia)；升温**加快**(hastened)反应，却压低了**平衡**(equilibrium)**产率**(yield)。冷却让产物凝出，泵把没反应的气**回收**(recycled)。这台装置每小时产氨 125 毫升。
 
-工厂是另一回事。热氢钻进**钢**(steel)里，把其中的**碳**(carbon)夺走，**容器**(vessels)因此变脆。博施的答案是一根双层**壁**(walled)管：内**衬**(liner)在氢**削弱**(weakened)承压外壳之前就把它放掉。锇对商业化来说太稀有；阿尔文·米塔施把2500种**试剂**(agents)**筛**(sifted)过6500轮，最后选中瑞典磁铁矿——其中微量的**钾**(potassium)与**铝土**(alumina)让便宜的铁也管用。
+工厂是另一回事。热氢钻进**钢**(steel)里，把其中的**碳**(carbon)夺走，**容器**(vessels)因此变脆。博施的答案是一根双层**壁**(walled)管：内**衬**(liner)在氢**削弱**(weakened)承压外壳之前就把它放掉。锇对商业化来说太稀有；阿尔文·米塔施把 2,500 种**试剂**(agents)**筛**(sifted)过 6,500 轮，最后选中瑞典磁铁矿——其中微量的**钾**(potassium)与**铝土**(alumina)让便宜的铁也管用。
 
-1913年9月，奥保工厂开工。到1914年，它每天产氨 40 **吨**(tonnes)：同一个反应，**放大**(magnified)了两万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
+1913 年 9 月，奥保工厂开工。到 1914 年，它每天产氨 40 **吨**(tonnes)：同一个反应，**放大**(magnified)了两万倍。**化肥**(fertiliser)抬高了全欧的**收成**(harvests)，饥荒预言就此沉寂。随后海上**封锁**(blockade)**切断**(severed)了智利的供应；氨被氧化成**硝**(nitric)酸，同一批**反应器**(reactors)开始供给**炸药**(explosives)与**弹药**(munitions)。
 
 如今氨已**不可或缺**(indispensable)，而合成它**消耗**(consumes)全世界百分之一到二的能源，其**氢**(hydrogen)取自**化石**(fossil)燃料，**排放**(emissions)被推到了**上游**(upstream)。**可再生**(renewable)电力可以**替代**(substitute)那些化石燃料，更高的施肥**效率**(efficiency)可以收住那些**过量**(excess)的部分——全世界施下去的氮，约有一半从未进入作物。这套化学几乎没变；要重新发明的，是第三次的工厂。
 
@@ -69,3 +69,4 @@ Ammonia is **indispensable**, and making it **consumes** one or two per cent of 
 **三十二万这个数是怎么来的**：把 40 吨当作 40,000,000 毫升（即按 1 g/mL 计）再除以 125 毫升 = 320,000——**这是拿「一天的产量」去除「一小时的产量」，单位对不上**。已改为 **twenty thousandfold**／「放大了两万倍」。
 **无误三项**：1909 年夏哈伯与勒罗西尼奥尔的台式装置产氨 **约 125 毫升/时**（多处一致，1909年7月2日以锇作催化剂作最终演示）；**米塔施至 1910 年在 6,500 次试验中筛过 2,500 种以上配方**（Fertilizer.org 原文：Until 1910 more that 2500 different formulas were tested in 6500 runs）；**奥堡 1913 年 9 月 9 日投产**。
 **一处两说并存**：1914 年日产量——维基／HandWiki／Infogalactic 作 **20 吨/日**；Grokipedia 作「初期 30 吨/日，首年末达 **40 吨/日**」；execution-atlas 亦作 40 吨/日。本文取 40（首年末），两说此存照。[Fertilizer.org：The Haber-Bosch Heritage](https://www.fertilizer.org/wp-content/uploads/2023/01/HABER.pdf)｜[Royal Society：Robert Le Rossignol, 1884–1976](https://royalsocietypublishing.org/rsnr/article/71/3/263/48636/Robert-Le-Rossignol-1884-1976-Engineer-of-the)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-06.md）**：一处 A——中文「五**分之**四」误加粗（英文无名额）。数字空格。

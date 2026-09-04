@@ -26,15 +26,15 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1799年7月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**石板**(slab)**残片**(fragment)。碑片载有一道公元前196年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。
+1799 年 7 月，士兵在拉希德附近加固一座堡垒时，发现一块**古代的**(ancient)**石板**(slab)**残片**(fragment)。碑片载有一道公元前 196 年的**法令**(decree)，出自托勒密**时代**(era)：埃及**祭司**(priests)借此颂扬他们年轻的**法老**(pharaoh)托勒密五世——当时他十三岁。**刻工**(carvers)把同样的话用两种语言、三种文字**刻**(inscribed)了出来；其中只有希腊文能让学者**读懂**(intelligible)。
 
-希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号拼出了托勒密；到1814年托马斯·扬已**意识到**(realised)其中若干符号记录的是**语音**(sounds)而非意义——解读仍属**初步**(tentative)，却是**起点**(anchor)。
+希腊文**段落**(passage)与两段埃及文字**平行对应**(parallel)，却并非**精确相符**(exact)。一个人们**熟知的**(familiar)名字提供了**线索**(clue)：它的埃及文与希腊文拼写可以相互对照。在一个**椭圆形的**(oval)王名框里，一组符号拼出了托勒密；到 1814 年托马斯·扬已**意识到**(realised)其中若干符号记录的是**语音**(sounds)而非意义——解读仍属**初步**(tentative)，却是一个**依托**(anchor)。
 
-法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在1822年的**论证**(argument)从外来姓名中辨认出表音符号；到1824年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。
+法国**学者**(scholar)商博良借助科普特语——埃及语较晚的一种**语体**(idiom)——来推断古代词语如何**发音**(pronounced)。他又用**其他的**(additional)**王室**(royal)姓名检验这些符号，其中包括菲莱方尖碑上的克利奥帕特拉。他在 1822 年的**论证**(argument)从外来姓名中辨认出表音符号；到 1824 年，他的**混合**(hybrid)模型又区分出表音符号、整词符号，以及**引导**(guided)解读的标记。符号的**功能**(function)取决于**语境**(context)。
 
 正因如此，埃及圣书体既不是图画代码，也不是简单的**字母表**(alphabet)。**孤零零**(lone)一个符号可能**表示**(represent)一个辅音、几个辅音，或者**一串**(sequence)辅音；限定符则标明词语的**语义**(semantic)**类别**(category)。**抄书人**(scribe)把这一切都记在心里；这类标记免去了读者的这份负担，语法也帮助学者**解读**(interpret)不同组合。于是，神庙墙壁、莎草纸和行政**档案**(archives)都变得**可读**(legible)了。
 
-那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。在同一道法令的三种文字中，“托勒密”这个名字给了一个**立足点**(foothold)；其他碑铭则让学者能**核验**(verify)读法，使这道谜题有了解法。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。
+那种**浪漫化的**(romantic)**迷思**(myth)把破译归于一位**孤身一人的**(solitary)**天才**(genius)，却歪曲了历史。扬与商博良互为**竞争对手**(rivals)，两人各自应得多少功劳至今仍有**争议**(dispute)；他们是**层层累积地**(cumulatively)推进的——依靠科普特语、摹本，以及石头上留下的**佐证**(testimony)。在同一道法令的三种文字中，「托勒密」这个名字给了一个**立足点**(foothold)；其他碑铭则让学者能**核验**(verify)读法，使这道谜题有了解法。
 
 ---
 
@@ -42,7 +42,7 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 
 **§1**（10词）ancient 古代的｜slab 石板｜fragment 残片；碎片｜decree 法令；政令｜era 时代；年代｜priests 祭司｜pharaoh 法老｜carvers 刻工｜inscribed 刻写；铭刻｜intelligible 可以理解的；明白易懂的
 
-**§2**（10词）passage 文本段落；通道｜parallel 平行对应的；平行的｜exact 精确相符的；准确的｜familiar 熟悉的｜clue 线索｜oval 椭圆形的；椭圆｜realised 意识到｜sounds 语音；声音｜tentative 初步的；试探性的｜anchor 可靠起点；锚
+**§2**（10词）passage 文本段落；通道｜parallel 平行对应的；平行的｜exact 精确相符的；准确的｜familiar 熟悉的｜clue 线索｜oval 椭圆形的；椭圆｜realised 意识到｜sounds 语音；声音｜tentative 初步的；试探性的｜anchor 依托
 
 **§3**（10词）scholar 学者｜idiom 语体；习语｜pronounced 发音｜additional 更多的；额外的｜royal 王室的；皇家的｜argument 论述；论点｜hybrid 混合的；混合物｜guided 引导｜function 功能；作用｜context 语境；上下文
 
@@ -80,3 +80,4 @@ The **romantic** **myth** of a **solitary** **genius** distorts history. Young a
 **菲莱方尖碑上的克娄巴特拉**：该碑由 William Bankes 运回英国，Bankes 于 1821 年已正确读出该王名，商博良据以与托勒密王名交叉比对共有音值；
 **科普特语为古埃及语的晚期形态**，商博良据以推知古音。
 另：同一敕令的近乎相同的抄本另有三件，全埃及已发现此类敕令碑 29 通。[Wikipedia：Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone)｜[British Museum：Everything you need to know about the Rosetta Stone](https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone)｜[Textualia：The Rosetta Stone](https://textualia.com/en/blog/rosetta-stone-translation-history)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-10.md）**：零 A。B：中文 §5 句序与英文对齐；括注 anchor「起点」改「依托」；数字空格。

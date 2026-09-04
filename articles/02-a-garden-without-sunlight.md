@@ -26,11 +26,11 @@ Galápagos **revealed** a second **footing** for life, a food **web** **sustaine
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1977年2月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫ANGUS的相机**拖橇**(sled)贴着海底走，要找的是**板块**(tectonic)理论预言应当从年轻**玄武岩**(basalt)里**渗出**(seep)的热水。15日深夜，在2500米深处，ANGUS**记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到2摄氏度。
+1977 年 2 月，一支**地质**(geological)**考察队**(expedition)**乘**(aboard)“诺尔”号来到加拉帕戈斯裂谷，**拖**(towed)着一台叫 ANGUS 的相机**拖橇**(sled)贴着海底走，要找的是**板块**(tectonic)理论预言应当从年轻**玄武岩**(basalt)里**渗出**(seep)的热水。15 日深夜，在 2,500 米深处，ANGUS **记录到**(registered)一次持续三分钟的温度**骤升**(spike)，随后读数又回到 2 摄氏度。
 
-ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第713次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是8摄氏度的水从**裂隙**(fissures)里**晃**(wavered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。
+ANGUS 带回 3,000 **帧**(frames)照片，几乎全是**荒芜的**(barren)岩面；只有**连续**(successive)十三幅上出现了几百只白蛤。两天后，杰克·科利斯和特尔德·范安德尔乘**深潜器**(submersible)“阿尔文”号下潜第 713 次。他们**预期**(expecting)的是寻常的海床：**稀疏**(sparse)散布的动物，靠上层透光水域沉下来的**碎屑**(debris)为生。实际看到的却是 8 摄氏度的水从**裂隙**(fissures)里**晃**(wavered)着涌出，三十厘米长的蛤蜊**挤满**(crowded)了五十米宽的熔岩。
 
-船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约300微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。
+船上没有**生物学家**(biologist)同行——没人觉得需要。于是没人说得出这些动物吃什么，**甲醛**(formaldehyde)也用完了，**标本**(specimens)只好泡进伏特加。一**小瓶**(vial)**喷口**(vent)水在甲板上打开，一股臭鸡蛋味：每升约 300 微摩尔的硫化**氢**(sulphide)——几乎对一切活物都有**毒**(toxic)——就**溶解**(dissolved)在这个**群落**(colony)周围的水里。这份**繁盛**(abundance)找不到来源。
 
 后来生物学家找到了来源：**细菌**(bacteria)**氧化**(oxidise)硫化氢，把二氧化碳造成**有机**(organic)物——化能合成，而不是**光合作用**(photosynthesis)。蛤蜊**啃食**(graze)它们；巨型管**虫**(worm)走得更远。两米长的成年个体没有嘴，也没有**肠道**(gut)，只有一个**养着**(housing)**微生物**(microbes)的器官：一种放弃了进食、把自己变成**宿主**(host)的动物。
 
@@ -67,3 +67,4 @@ ANGUS带回3000**帧**(frames)照片，几乎全是**荒芜的**(barren)岩面�
 **无误十三项**：1977年2月**15日**深夜 ANGUS 拖曳记录到约**三分钟**温度尖峰、随后回落至 **2°C** 本底；作业水深 **2,500 米**；胶卷冲出后共约 **3,000 帧**，其中**十三帧**连续出现成百的白蛤与褐贻贝，前后各帧皆为裸露熔岩；**2月17日 Alvin 第 713 潜次**，驾驶员 Jack Donnelly，观察者 Jack Corliss（俄勒冈州立）与 Tjeerd van Andel（斯坦福）；喷口水温 **8°C**（WHOI 原文：Alvin's temperature sensors measured water temperatures of 8°C）；白蛤长达 **30 厘米**、聚集范围约 **50 米**；**船上没有生物学家**（此行为地质地化任务）；**福尔马林用尽，标本改浸伏特加**；甲板上开启喷口水样时**一股臭鸡蛋味**（硫化氢）。
 **一项本轮未取得直接出处**：硫化氢浓度「near 300 micromoles a litre」。该量级与已发表的加拉帕戈斯喷口流体化学相符，且正文已用 **near** 留了余地；**如实标注待复核**。
 另：巨型管虫成体长约两米、无口无肠、体内含菌器官——Riftia pachyptila 成体可达 2—3 米，1977 年首见时所记为约 45 厘米（发现当时的个体），两者不冲突。[WHOI Dive & Discover：The Trail of Discovery](https://divediscover.whoi.edu/archives/ventcd/vent_discovery/thediscovery/trail_77_page5.html)｜[Earth Magazine：February 17, 1977](https://www.earthmagazine.org/article/benchmarks-february-17-1977-hydrothermal-vents-are-discovered)｜[Schmidt Ocean Institute：The 13-Frame Discovery](https://schmidtocean.org/cruise/hydrothermal-vents-of-the-galapagos/)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-02.md）**：零 A。中文数字空格。

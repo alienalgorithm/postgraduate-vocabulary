@@ -2,7 +2,7 @@
 
 > 题材：1948 年香农与信息论
 > 状态：**第七篇最终精进锁定稿**（2026-08-15）
-> 指标：267 词 / 50 重点词 / 密度 18.7%
+> 指标：266 词 / 50 重点词 / 密度 18.8%
 > 香农在第一页就把含义搁到一边——正是这份克制，让一条信道不必读懂消息也能把它完好送到。
 
 ---
@@ -11,13 +11,13 @@
 
 In 1948 Claude Shannon published a theory of **messages** and set meaning aside. A line might carry a love letter, a market **quotation** or an **arbitrary** string of **glyphs**; to the engineer the **contents** were **irrelevant**. His question was narrower: could a **receiver**, given the signal, **retrieve** exactly what the **sender** had **picked**?
 
-The question made information **countable**. If eight **outcomes** are **equally** **probable**, identifying one takes three yes-or-no decisions: three **bits**. A certain event says nothing; a **surprising** one says more. He measured surprise with **probability**; von Neumann urged the name **entropy**, base two gave the unit, a **contraction** of **binary** digit, named by John Tukey.
+The question made information **countable**. If eight **outcomes** are **equally** **probable**, identifying one takes three yes-or-no decisions: three **bits**. A certain event says nothing; a **surprising** one says more. He measured surprise with **probability**. Von Neumann urged the name **entropy**; base two gave the unit, the bit, a **contraction** of **binary** digit named by John Tukey.
 
 Written English is **lopsided**. Letters counted **singly** give 4.14 bits each. But they are **predictable** from neighbours: **guessing** experiments Shannon published in 1951 put the figure at 0.6 to 1.3. That gap is **redundancy**; **shrinking** a file means spending it: **shorter** **codewords** for **frequent** **characters**, longer ones for the rest.
 
-**Noise** inverts the argument. A channel **corrupts** symbols, so an **encoder** puts redundancy back **deliberately**, spacing codewords so a damaged one still **decodes** correctly. Every channel has a ceiling on **throughput**: below it, long codes drive the **error** rate **arbitrarily** near zero; above it, no **scheme** keeps **transmission** reliable.
+**Noise** inverts the argument. A channel **corrupts** symbols, so an **encoder** puts redundancy back **deliberately**, spacing codewords so a damaged one still **decodes**. Every channel has a ceiling on **throughput**: below it, long codes drive the **error** rate **arbitrarily** near zero; above it, no **scheme** keeps **transmission** reliable.
 
-The proof was not **constructive**. He showed good codes exist without **exhibiting** one. Richard Hamming, down the **corridor** on **unreliable** **vacuum**-tube machines, built one in 1950 from **parity** checks that **correct** as well as detect. At the **destination**, meaning may matter again. That **restraint** is what made the theory general: a channel need not understand a message to carry it **intact**.
+The proof was not **constructive**. He showed good codes exist without **exhibiting** one. Richard Hamming, down the **corridor** on **unreliable** **vacuum**-tube machines, built one in 1950 from **parity** checks that **correct** as well as detect. At the **destination**, meaning may matter again. That **restraint** made the theory general: a channel need not understand a message to carry it **intact**.
 
 ---
 
@@ -26,15 +26,15 @@ The proof was not **constructive**. He showed good codes exist without **exhibit
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1948年，克劳德·香农发表了一套关于**消息**(messages)的理论，并把消息的含义搁在一边。一条线路上传的可能是情书，可能是行情**报价**(quotation)，也可能是一串**任意的**(arbitrary)**符号**(glyphs)；在工程师看来，这些**内容**(contents)都**无关紧要**(irrelevant)。他问的是更窄的问题：**接收端**(receiver)拿到抵达的信号后，能不能原样**取回**(retrieve)**发送端**(sender)当初**挑中**(picked)的那一条？
+1948 年，克劳德·香农发表了一套关于**消息**(messages)的理论，并把消息的含义搁在一边。一条线路上传的可能是情书，可能是行情**报价**(quotation)，也可能是一串**任意的**(arbitrary)**符号**(glyphs)；在工程师看来，这些**内容**(contents)都**无关紧要**(irrelevant)。他问的是更窄的问题：**接收端**(receiver)拿到抵达的信号后，能不能原样**取回**(retrieve)**发送端**(sender)当初**挑中**(picked)的那一条？
 
-这个窄问题让信息变得**可数**(countable)。若八种**结果**(outcomes)**等**(equally)**概率**(probable)，认出其中一种需要三次是非判断，也就是三个**比特**(bits)。必然发生的事什么也没说；**出人意料的**(surprising)那件说得更多。他用**概率**(probability)去度量这份意外；冯·诺依曼劝他叫它**熵**(entropy)，以2为底给出了单位，即**二进制**(binary)数字的**缩写**(contraction)，由约翰·图基起名。
+这个窄问题让信息变得**可数**(countable)。若八种**结果**(outcomes)**等**(equally)**概率**(probable)，认出其中一种需要三次是非判断，也就是三个**比特**(bits)。必然发生的事什么也没说；**出人意料的**(surprising)那件说得更多。他用**概率**(probability)去度量这份意外。冯·诺依曼劝他叫它**熵**(entropy)；以 2 为底给出了单位——比特，即**二进制**(binary)数字的**缩写**(contraction)，由约翰·图基起名。
 
-书面英语是**偏斜的**(lopsided)。把字母**逐个**(singly)来数，每个字母是4.14比特。可字母能从相邻字母**推得出来**(predictable)：香农1951年发表的**猜字**(guessing)实验把真实值压到0.6至1.3之间。这中间的落差就是**冗余**(redundancy)；**压缩**(shrinking)一个文件，就是把这份冗余花掉：给**高频**(frequent)**字符**(characters)配**更短的**(shorter)**码字**(codewords)，其余的配长的。
+书面英语是**偏斜的**(lopsided)。把字母**逐个**(singly)来数，每个字母是 4.14 比特。可字母能从相邻字母**推得出来**(predictable)：香农 1951 年发表的**猜字**(guessing)实验把真实值压到 0.6 至 1.3 之间。这中间的落差就是**冗余**(redundancy)；**压缩**(shrinking)一个文件，就是把这份冗余花掉：给**高频**(frequent)**字符**(characters)配**更短的**(shorter)**码字**(codewords)，其余的配长的。
 
 **噪声**(Noise)把这套逻辑反了过来。信道会**弄坏**(corrupts)符号，于是**编码器**(encoder)**刻意**(deliberately)把冗余加回去，让码字彼此隔得够开，坏掉一个仍能正确**译回**(decodes)。每条信道都有一个**吞吐量**(throughput)上限：在上限之下，足够长的码能把**错误**(error)率压到**任意**(arbitrarily)接近零；在上限之上，没有任何**方案**(scheme)能让**传输**(transmission)可靠。
 
-这个证明不是**构造性的**(constructive)。他证明了好码存在，却没**拿出**(exhibiting)一个。理查德·汉明就在同一条**走廊**(corridor)上，对着**不可靠的**(unreliable)**真空**(vacuum)管机器，1950年用**奇偶**(parity)校验造出了一个——不只查错，还能**纠**(correct)错。到了**终点**(destination)，含义可以重新变得要紧。正是那份**克制**(restraint)让这套理论具有普遍性：一条信道不必读懂一条消息，也能把它**完好**(intact)送到。
+这个证明不是**构造性的**(constructive)。他证明了好码存在，却没**拿出**(exhibiting)一个。理查德·汉明就在同一条**走廊**(corridor)上，对着**不可靠的**(unreliable)**真空**(vacuum)管机器，1950 年用**奇偶**(parity)校验造出了一个——不只查错，还能**纠**(correct)错。到了**终点**(destination)，含义可以重新变得要紧。正是那份**克制**(restraint)让这套理论具有普遍性：一条信道不必读懂一条消息，也能把它**完好**(intact)送到。
 
 ---
 
@@ -69,3 +69,4 @@ The proof was not **constructive**. He showed good codes exist without **exhibit
 **冯·诺依曼建议命名为「熵」** —— Tribus 1961 年当面所问、香农所答，原话「no one knows what entropy really is, so in a debate you will always have the advantage」。
 **bit 一词由 John Tukey 所造** —— 香农 1948 年论文中即明确归功于图基。
 另核无误：1948 年发表《通信的数学理论》；八个等概结果需三次是非判断（log₂8=3）；汉明 **1950 年**以奇偶校验造出既能检错又能纠错的码。[Shannon 1951 原文 PDF（普林斯顿存档）](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf)｜[arXiv：Entropy? Honest!（冯·诺依曼原话出处）](https://arxiv.org/pdf/1705.02223)｜[PMC：Entropy Rate Estimation for English](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7514546/)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-07.md）**：一处 A——§2「entropy, base two gave the unit, a contraction of binary digit, named by John Tukey」三件事逗号连串，断成两句并点明 the bit。数字空格。

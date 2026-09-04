@@ -36,15 +36,15 @@
 
 | 编号 | 文章 | 题材 | 指标 | 阅读 |
 |---|---|---|---|---|
-| **01** | ***Snow and the Broad Street Pump*** | **1854年伦敦霍乱** | **266词 · 50词 · 18.8%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=snow-cholera) · [Markdown](articles/01-snow-cholera.md) |
+| **01** | ***Snow and the Broad Street Pump*** | **1854年伦敦霍乱** | **267词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=snow-cholera) · [Markdown](articles/01-snow-cholera.md) |
 | **02** | *A Garden Without Sunlight* | 1977年加拉帕戈斯热液喷口 | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-garden-without-sunlight) · [Markdown](articles/02-a-garden-without-sunlight.md) |
 | **03** | ***The Graph That Changed the Sky*** | **1985年南极臭氧洞** | **267词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-graph-that-changed-the-sky) · [Markdown](articles/03-the-graph-that-changed-the-sky.md) |
 | **04** | ***Fifteen Degrees an Hour*** | **约翰·哈里森与海上经度** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=fifteen-degrees-an-hour) · [Markdown](articles/04-fifteen-degrees-an-hour.md) |
 | **05** | ***The Price Was Elsewhere*** | **UPC条形码与零售信息基础设施** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-price-was-elsewhere) · [Markdown](articles/05-the-price-was-elsewhere.md) |
 | **06** | ***The Reaction That Had to Be Invented Twice*** | **Haber–Bosch合成氨与工业放大**  | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-reaction-invented-twice) · [Markdown](articles/06-the-reaction-invented-twice.md) |
-| **07** | ***The Meaning He Left Out*** | **1948年香农与信息论** | **267词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-meaning-he-left-out) · [Markdown](articles/07-the-meaning-he-left-out.md) |
+| **07** | ***The Meaning He Left Out*** | **1948年香农与信息论** | **266词 · 50词 · 18.8%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-meaning-he-left-out) · [Markdown](articles/07-the-meaning-he-left-out.md) |
 | **08** | ***A Ruler Without a Zero*** | **1908—1912年莱维特与造父变星周光关系** | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-ruler-without-a-zero) · [Markdown](articles/08-a-ruler-without-a-zero.md) |
-| **09** | ***Zero Was Not Enough*** | **1967—1980年全球天花根除、监测与环形接种**  | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=zero-was-not-enough) · [Markdown](articles/09-zero-was-not-enough.md) |
+| **09** | ***Zero Was Not Enough*** | **1967—1980年全球天花根除、监测与环形接种**  | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=zero-was-not-enough) · [Markdown](articles/09-zero-was-not-enough.md) |
 | **10** | *A Name Inside an Oval* | 1799—1824年罗塞塔石碑与埃及圣书体破译 | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=a-name-inside-an-oval) · [Markdown](articles/10-a-name-inside-an-oval.md) |
 | **11** | ***The Needle Moved Twice*** | **1831年法拉第与电磁感应** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-needle-moved-twice) · [Markdown](articles/11-the-needle-moved-twice.md) |
 | **12** | ***The Blank Was Not Blank*** | **1956—1996年克莱尔·帕特森、地球年龄与工业铅污染**  | **268词 · 50词 · 18.7%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-blank-was-not-blank) · [Markdown](articles/12-the-blank-was-not-blank.md) |
