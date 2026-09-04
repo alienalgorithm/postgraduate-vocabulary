@@ -43,7 +43,8 @@
         "**已核 · 正文两处数字的阿拉伯写法**：① 正文 §1「In the **1830s**」——1812年定下的伦敦至爱丁堡资费一直行用至1839年改革，故整个 1830 年代皆为十三便士；② 正文 §5「168 million」——1840年全英寄信 **168** 百万封（另有来源作 169 百万，差异源于统计口径，本文取 168）。1839年为 76 百万封。[Victorian Web：The Penny Post](https://www.victorianweb.org/history/pennypos.html)｜[The Postal Museum：Uniform penny postage](https://www.postalmuseum.org/collections/highlights/philatelic-collection/british-postal-markings/uniform-penny-postage/)",
         "**已核 · 正文的「13 便士」**：**1839 年改革前，伦敦至爱丁堡单张信函邮资为 13 便士半**（按距离与页数计）；正文取整为 13 便士，与同段「运费只值一便士的三十六分之一」并排对读。**⚠ 具体数额随距离与年份浮动，此处为最常被引用的那一档。**",
         "**★ 已核 · 一处数目改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「hauled it four hundred stages」——伦敦到爱丁堡约四百英里，而 stage 是驿站间的一程（约十英里），四百个驿程是四千英里。词对了，数错了单位。已改为 forty stages。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-33.md）**：一处 A——「a cross signified well」well 作名词不成，改 all well。B：went in 改 went out；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-33.md）**：一处 A——「a cross signified well」well 作名词不成，改 all well。B：went in 改 went out；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-33.md）**：零 A，零 B——两遍无停顿。"
       ],
       "metrics": {
         "words": 264,

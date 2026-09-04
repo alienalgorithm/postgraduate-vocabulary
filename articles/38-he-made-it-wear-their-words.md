@@ -28,9 +28,9 @@ The law of 4 July 1837 **revoked** the names, **effective** 1840. Nothing had to
 
 大革命之前，法国**维持着**(maintained)大约二十五万个**各不相同**(distinct)的地方单位。查理曼试过把它们**统一**(unify)起来；此后每一位国王都**试**(attempted)过；没有一个**成功**(succeeded)。**公制**(metric)1795 年**铺**(spread)开，一个**地方**(locality)一个地方地推；1799 年，这个**基准**(benchmark)由敦刻尔克到巴塞罗那的一次**三角测量**(triangulation)定在了 443.296 里涅。
 
-没能**立住**(thrive)。买卖**照行**(proceeded)于老单位，市集**摊子**(stalls)**抗**(defied)了这法令十七年。同年掌权的拿破仑，把这场**改制**(overhaul)称作拿**琐碎**(trivia)**折腾**(tormenting)百姓；1812 年 2 月，他**颁**(proclaimed)下一道**敕令**(edict)，把老**名头**(titles)还了回去。
+没能**立住**(thrive)。买卖照旧**进行**(proceeded)，用的还是老单位，市集**摊子**(stalls)**抗**(defied)了这法令十七年。同年掌权的拿破仑，把这场**改制**(overhaul)称作拿**琐碎**(trivia)**折腾**(tormenting)百姓；1812 年 2 月，他**颁**(proclaimed)下一道**敕令**(edict)，把老**名头**(titles)还了回去。
 
-可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949 米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五。而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)的。
+可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949 米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五。而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)。
 
 那副老**架子**(scaffold)**原样存留**(persisted)、未曾触动：一托瓦兹六巴黎尺，一巴黎尺 12 普斯，一普斯 12 里涅。只有它最上面那一**格**(grade)才被**钉**(pinned)死。而这道敕令**管**(governed)的只有小**零售**(retail)。政府衙门、法庭、每一笔**批发**(wholesale)**交易**(bargain)、每一间教室，自始至终都用公制；巴黎的那些**基准器**(patterns)也从未**动**(stirred)过。
 
@@ -42,7 +42,7 @@ The law of 4 July 1837 **revoked** the names, **effective** 1840. Nothing had to
 
 **§1**（10词）maintained 维持｜distinct 各不相同的｜unify 统一｜attempted 尝试｜succeeded 成功｜metric 公制的｜spread 铺开；扩展｜locality 地方｜benchmark 基准｜triangulation 三角测量
 
-**§2**（10词）thrive 立住；兴盛｜proceeded 照行；继续｜stalls 摊子（复）｜defied 违抗｜overhaul 彻底改制｜tormenting 折磨｜trivia 琐事｜proclaimed 颁布｜edict 敕令｜titles 名头（复）
+**§2**（10词）thrive 立住；兴盛｜proceeded 进行；照旧进行｜stalls 摊子（复）｜defied 违抗｜overhaul 彻底改制｜tormenting 折磨｜trivia 琐事｜proclaimed 颁布｜edict 敕令｜titles 名头（复）
 
 **§3**（10词）concession 让步｜quantities 分量（复）｜spanned 跨越；长达｜precisely 正好｜pied 巴黎尺｜larger 更大的｜replaced 取代｜gauging 测量｜vocabulary 词汇｜decimals 小数（复）
 
@@ -72,3 +72,4 @@ The law of 4 July 1837 **revoked** the names, **effective** 1840. Nothing had to
 **但也不能把它写成一场彻底的胜利**：Wikimonde 载「此种用法虽一度由官方规定，却未被民众接受」，**且 1837 年仍须专门立法废止，说明旧名确有其生命力**；**本文因此把判词落在「换算已无必要」这一件可查的事实上，而不落在「谁赢了」。**
 - **已核 · 复查记录（2026-09-03，六条人读第一条）**：逐句核过正文里的具体细节：**「十七年」**（1795 至 1812）、**「二十八年」**（1812 至 1840）、**「1.949 米」「约 2.5%」**（2 m ÷ 6 = 0.3333 m，对巴黎旧尺 0.3248 m 为 +2.6%）、**「1837 年 7 月 4 日法令、1840 年生效」**——**全部有据，无一处现造。****⚠ 一处表述留意**：§2「拿破仑在那同一年掌权」中的「同一年」回指 §1 的 1799，中间隔着「十七年」一句，**指代略远但可辨**，判为保留。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-38.md）**：两处 A——「called the overhaul tormenting the people」不成句，改 said the overhaul was tormenting；「wear their words thereby」thereby 句末悬着，改 He had thereby made it wear their words。中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-38.md）**：零 A。B：「买卖照行于老单位」改「买卖照旧进行，用的还是老单位」；「成了小数的」去「的」。

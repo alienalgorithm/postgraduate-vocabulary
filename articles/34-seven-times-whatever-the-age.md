@@ -32,7 +32,7 @@ On 8 March 1693 he **submitted** the table to the Society; a week later, the **a
 
 1662 年，约翰·格朗特**梳**(combed)过伦敦的死亡表。可伦敦不记死者的年龄，此后一百年也不记。哈雷另有一层**理由**(grounds)，用的是他自己的**措辞**(wording)：伦敦与都柏林被死在那里的**外来者**(strangers)**撑**(swollen)得虚胖，**葬礼**(funerals)多过**出生**(births)，这就**使**(rendered)它们**不配**(incapable)充当**标准**(standards)。
 
-布雷斯劳可以，它在西里西亚，**当得起**(serve)。一位**教士**(cleric)卡斯帕尔·诺伊曼一直记着当地教区的**登记册**(registers)，那上面写着死时的年龄。这座城小而**安定**(stable)，约莫三万四千**口人**(souls)，**流动**(migration)很少。诺伊曼托**信使**(courier)把**数字**(figures)送到皇家学会。就凭 1687 到 1691 年的数，哈雷**拼**(assembled)出一张**表**(tabulation)。1,238 名出生者里，1,000 人活到一岁，855 人活到两岁，107 人活过八十五。
+西里西亚的布雷斯劳**当得起**(serve)。一位**教士**(cleric)卡斯帕尔·诺伊曼一直记着当地教区的**登记册**(registers)，那上面写着死时的年龄。这座城小而**安定**(stable)，约莫三万四千**口人**(souls)，**流动**(migration)很少。诺伊曼托**信使**(courier)把**数字**(figures)送到皇家学会。就凭 1687 到 1691 年的数，哈雷**拼**(assembled)出一张**表**(tabulation)。1,238 名出生者里，1,000 人活到一岁，855 人活到两岁，107 人活过八十五。
 
 1693 年 3 月 8 日，他把这张表**提交**(submitted)给学会；一周后，从表里推出的**年金**(annuity)**费率表**(tariff)也**随后**(trailed)呈了上去。对每一个尚未**中年**(middle-aged)的**买主**(purchaser)来说，七倍都太少。这张表被摆出来，**没人读**(unread)，然后被**搁置**(shelved)。议会照旧收七倍，在每一条**保**(insured)得太年轻的人命上**亏**(losing)钱。
 
@@ -65,3 +65,4 @@ On 8 March 1693 he **submitted** the table to the Society; a week later, the **a
 - **本篇的机制边界**：哈雷需要的不是更多数据，而是**一种特定的数据**——记有死时年龄、且人口进出稳定的城镇。伦敦两样都不具备：不记年龄，且被外来人口涨破。**判别性证据因此不在数据量上，而在数据的种类上。**
 - **★ 已核 · 四处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「the Exchequer dispensed at a loss」——dispense 是分发、配药；国库付钱是 disburse。已改。****二 · 「kept its parish annals」——教区记录叫 registers（出生、婚丧登记册），annals 是编年史。已改。****三 · 「Halley assembled a roster」——生命表叫 table，roster 是名册；table 为白送词，已改为 tabulation。****四 · 「every purchaser under pension age」——1693 年没有『退休年龄』的概念，pension 是时代错位。已改为 short of middle-aged：哈雷的表显示七年购对未到中年的买主都太便宜。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-34.md）**：两处 A——「Of those born, 1,000 reached one」读作出生一千人，补 Of 1,238 born（博士）；「trailed」不及物挂着，改 trailed in。B：second grounds 改 further grounds；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-34.md）**：零 A。B：「布雷斯劳可以，它在西里西亚，当得起」三截改「西里西亚的布雷斯劳当得起」。

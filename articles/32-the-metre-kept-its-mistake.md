@@ -34,7 +34,7 @@ Delambre **obtained** the **notebooks**, **scribbled** in the margin that he wou
 
 1799 年 3 月，一个委员会把测量结果**归算**(reduced)为 443.296 里涅，一根铂杆随之**锻**(forged)出。6 月 22 日，这根杆送交**两院**(councils)，据称不依赖任何武断之物，只依赖对各**国**(nations)**不偏不倚**(impartial)、且对所有国家**具有约束力**(binding)的依据。梅尚请求**重走**(retrace)自己走过的**比利牛斯**(Pyrenees)；1804 年，黄**热病**(fever)带走了他。
 
-德朗布尔**拿到**(obtained)了那些**笔记本**(notebooks)，在页边**草草写下**(scribbled)：他不会说出去，随后把**手稿**(manuscripts)留在了**天文台**(observatory)。这错了要紧吗，他问；米又怎么会错？可从极点到赤道如今约为 10,002,000 米：那根杆做出来 0.2 毫米不足，而这个错误留了下来。此后每一个**接替的**(successor)**定义**(definition)，先以**氪**(krypton)、后以光为准，都被**校准**(calibrated)成**复现**(reproduce)它。
+德朗布尔**拿到**(obtained)了那些**笔记本**(notebooks)，在页边**草草写下**(scribbled)：他不会说出去，随后把**手稿**(manuscripts)留在了**天文台**(observatory)。这错了要紧吗，他问；米又怎么会错？可从极点到赤道如今约为 10,002,000 米：那根杆做出来短了 0.2 毫米，而这个错误留了下来。此后每一个**接替的**(successor)**定义**(definition)，先以**氪**(krypton)、后以光为准，都被**校准**(calibrated)成**复现**(reproduce)它。
 
 ---
 
@@ -65,3 +65,4 @@ Delambre **obtained** the **notebooks**, **scribbled** in the margin that he wou
 - **已核补充**：正文 §2「1794年把拉瓦锡送上断头台」——安托万·拉瓦锡于 **1794年5月8日**被处决，而他正是法国科学院度量衡委员会成员，参与过米制筹划。此句用以说明测量在何种年代进行，非泛泛之词。[Britannica：Antoine Lavoisier](https://www.britannica.com/biography/Antoine-Lavoisier)
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条）**：**原文「retrace his commune」——commune 是法国的市镇单位；梅尚要求重测的是他负责的南段弧线，即翻越比利牛斯至巴塞罗那的那一段。arc／segment／section 均撞库，已改为 retrace the Pyrenees。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-32.md）**：零 A。博士：恐怖时期是断头台不是枪毙，「shot men on suspicion」改 killed；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-32.md）**：零 A。B：「0.2 毫米不足」改「短了 0.2 毫米」。

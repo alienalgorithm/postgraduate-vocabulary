@@ -26,9 +26,9 @@ So the name means **conclusive**, not **thorough**. A record that is **merely** 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-《盎格鲁-撒克逊编年史》说，1086 年那次普查什么也没漏掉：没有一海德地的**占有者**(occupant)国王不知道，没有一头牛、一头**小母牛**(heifer)、一头**猪**(swine)**逃过**(escaped)**清查**(audit)与**造册**(listing)。**查勘官**(Inquisitors)**散**(fanned)进每一个**郡**(shire)，13,418 处聚落连同占有者与**估**(rated)值一并登册。
+《盎格鲁-撒克逊编年史》说，1086 年那次普查什么也没漏掉：没有哪一海德地的**占有者**(occupant)是国王不知道的，没有一头牛、一头**小母牛**(heifer)、一头**猪**(swine)**逃过**(escaped)**清查**(audit)与**造册**(listing)。**查勘官**(Inquisitors)**散**(fanned)到每一个**郡**(shire)，13,418 处聚落连同占有者与**估**(rated)值一并登册。
 
-可伦敦**整个**(altogether)被**略去**(omitted)，温切斯特也不在。那是当时英格兰最大的两座**城**(cities)，也**最富**(richest)——**恰恰**(indeed)是**财政**(fiscal)普查的首选。它的拉丁原名是 Liber de Wintonia，即《温切斯特之书》，因它就存于王室**金库**(treasury)的**保管**(custody)之下。《温切斯特之书》并不**收录**(embrace)温切斯特，也从未**佯称**(pretended)收录过。
+可伦敦**整个**(altogether)被**略去**(omitted)，温切斯特也不在。那是当时英格兰最大的两座**城**(cities)，也**最富**(richest)——**恰恰**(indeed)是**财政**(fiscal)普查的首选。它的拉丁原名是 Liber de Wintonia，即《温切斯特之书》，因为它就由王室**金库**(treasury)**保管**(custody)。《温切斯特之书》并不**收录**(embrace)温切斯特，也从未**佯称**(pretended)收录过。
 
 它从来就不**打算**(intended)做一次**人口普查**(census)。它**点**(enumerated)了二十七万名户主，户主以下一个不数。查勘官**誊录**(transcribed)的是地产与它的**估**(assessed)值，因为要点在于弄清什么可以**征税**(taxed)、向谁征。北方四郡也**缺**(absent)着——**残破**(ravaged)得不值得跑那一**程**(trek)——**若干**(handful)市镇也缺。
 
@@ -65,3 +65,4 @@ So the name means **conclusive**, not **thorough**. A record that is **merely** 
 - **已核 · 正文两个数**：**《末日审判书》记录了 13,418 处聚落**；**列出约 270,000 名户主**，其下之人不予记名。**⚠ 13,418 与 270,000 均为学界常引的整理值，不同版本统计口径略有出入。**[Domesday Book · Wikipedia](https://en.wikipedia.org/wiki/Domesday_Book)
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文两处「notaries」——末日审判书的调查者是王室专员（commissioners），拉丁记作 legati regis，学界亦称 inquisitors（因其做的是 inquisitio，讯问式清查）；notary 是公证人，不是这个。commissioners 撞第04篇，已改为 inquisitors。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-40.md）**：一处 A——「with a handful of boroughs」挂不上主句，改 as are a handful of boroughs。B：fanned out into；中文「书记员」应为「查勘官」；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-40.md）**：零 A。B：「没有一海德地的占有者国王不知道」改「没有哪一海德地的占有者是国王不知道的」；「散进」改「散到」；「存于金库的保管之下」改「由王室金库保管」。

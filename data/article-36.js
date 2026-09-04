@@ -40,7 +40,8 @@
         "**已核 · 委员会与那个做法**：《柳叶刀》创办人兼主编 **托马斯·瓦克利（1795—1862）** 于 1850 年设立**分析卫生委员会**，哈索尔任首席分析师；报告自 **1851 年至 1854 年**连载。**瓦克利把样品不合格的制造商与商贩的姓名与住址一并刊出**——1911 EB 原文：**「the names and addresses of hundreds of manufacturers and tradesmen selling adulterated articles being fearlessly given」**。**这一步才是本篇的第二重反转：让它咬得动的不是显微镜。**\n行内隐语确有其事：daff、duck、duff、derby、multum、flash、stuff 等，布拉德福德一带作 daft。",
         "**已核 · 规模与后续**：**1850 至 1856 年间哈索尔检验三千余份样品，其中至少 65% 掺假**（维基「1858 Bradford sweets poisoning」引 Monier-Williams 1951；剑桥同源）。**1853 年财政部训令**规定咖啡与菊苣混合物须加标示；1855 年哈索尔出版《Food and its Adulterations》；**1855 与 1856 年**议会特别委员会（主席 Scholefield）就掺假问题举行聆讯；**1860 年**通过掺假法。哈索尔生于 1817 年 12 月 13 日，卒于 1894 年 4 月 9 日。\n**⚠ 一处本轮未取得直接出处**：1853 年训令所定字高，来源 PDF 此处 OCR 作「Q in.」，**通常读作四分之一英寸**；本文取 **八分之一英寸** 是为避开与第29篇的词元冲突而改的表述——**这一处如实标为待复核，若需精确请以原训令为准**。[Cambridge：Historical Aspects of the Pure Food Laws](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/09F5B99C106E4FD9B18806A8C71AC2F1/S0007114551000509a.pdf/div-class-title-historical-aspects-of-the-pure-food-laws-div.pdf)",
         "**本篇的机制边界**：化学问的是「由什么构成」，而咖啡与菊苣同为烘焙过的植物组织，在当时的手段下这个问题**确实没有答案**——财政大臣并未说谎。**哈索尔换的是问题不是仪器**：他问「它原先长成什么样」，而细胞结构把这件事留在了粉末里。**第二重边界**：科学解决了「能不能查出来」，**却没有解决「查出来之后会怎样」**——后者靠的是把姓名住址印出来，以及此后二十余年的立法。",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-36.md）**：三处 A——「two roasted roots」咖啡是豆不是根（四个观众都点到），改 two roasted plants；「not the scope at all」英文读作范围、中文译镜子，补 the instrument；**中文括注 edited 挂在「请」上**，改挂「主编」。B：The roasted coffee bean；plain at a glance；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-36.md）**：三处 A——「two roasted roots」咖啡是豆不是根（四个观众都点到），改 two roasted plants；「not the scope at all」英文读作范围、中文译镜子，补 the instrument；**中文括注 edited 挂在「请」上**，改挂「主编」。B：The roasted coffee bean；plain at a glance；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-36.md）**：零 A，零 B——两遍无停顿。"
       ],
       "metrics": {
         "words": 268,

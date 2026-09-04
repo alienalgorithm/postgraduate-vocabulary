@@ -18,11 +18,11 @@
         },
         {
           "en": "It did not **thrive**. Trade **proceeded** in the old units, and the market **stalls** **defied** the law for seventeen years. Napoleon, in power that same year, said the **overhaul** was **tormenting** the people with **trivia**, and in February 1812 he **proclaimed** an **edict** handing the old **titles** back.",
-          "zh": "没能**立住**(thrive)。买卖**照行**(proceeded)于老单位，市集**摊子**(stalls)**抗**(defied)了这法令十七年。同年掌权的拿破仑，把这场**改制**(overhaul)称作拿**琐碎**(trivia)**折腾**(tormenting)百姓；1812 年 2 月，他**颁**(proclaimed)下一道**敕令**(edict)，把老**名头**(titles)还了回去。"
+          "zh": "没能**立住**(thrive)。买卖照旧**进行**(proceeded)，用的还是老单位，市集**摊子**(stalls)**抗**(defied)了这法令十七年。同年掌权的拿破仑，把这场**改制**(overhaul)称作拿**琐碎**(trivia)**折腾**(tormenting)百姓；1812 年 2 月，他**颁**(proclaimed)下一道**敕令**(edict)，把老**名头**(titles)还了回去。"
         },
         {
           "en": "Yet read as a **concession**, it was not. He handed back the labels and kept the **quantities**. A toise had **spanned** 1.949 metres; under the edict it was **precisely** two. The **pied** and the pouce ran about two and a half per cent **larger** than the Parisian ones they **replaced**. Every **gauging** made in the old **vocabulary** now came out in **decimals**.",
-          "zh": "可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949 米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五。而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)的。"
+          "zh": "可若把它读作**让步**(concession)，那就错了。他还回去的是名头，留下的是**分量**(quantities)。一托瓦兹原本**长**(spanned)1.949 米；敕令之下，它**正好**(precisely)是两米。**巴黎尺**(pied)和普斯比它们所**取代**(replaced)的那两个**大**(larger)了约百分之二点五。而每一次用老**词汇**(vocabulary)做的**测量**(gauging)，结果都成了**小数**(decimals)。"
         },
         {
           "en": "The old **scaffold** **persisted** untouched: 6 pieds to a toise, 12 pouces to a pied, 12 lignes to a pouce. Only its top **grade** was **pinned**. And the edict **governed** small **retail** alone. Every government office, every court, every **wholesale** **bargain** and every classroom stayed metric throughout, and the **patterns** in Paris never **stirred**.",
@@ -41,7 +41,8 @@
         "**已核 · 终局**：**1837年7月4日法（七月王朝，商务大臣 Cherbuliez 主持，Thiers 与 Guizot 支持）废止 mesures usuelles，重申 1795 与 1799 两法**。生效日两说：Grokipedia 与维基作 **1840年1月1日**，HandWiki 作 **1840年5月1日**；**本文只写「1840年生效」，不取其一**。\n1812 至 1840 恰为**二十八年**。另：孔多塞那句「À tous les temps, à tous les peuples」于 1840 年铸在纪念章上。\n[Wikipedia：Mesures usuelles](https://en.wikipedia.org/wiki/Mesures_usuelles)｜[HandWiki：Units of measurement in France](https://handwiki.org/wiki/Physics:Units_of_measurement_in_France)",
         "**本篇的机制边界**：1812 年常被读作拿破仑向民众让步、米制推行的一次挫败。**本文不这样读**——**因为让步的是名头，不是分量**：旧名之下装的已是公制的量，而公制在政府、法庭、批发与课堂里一天也没有退出。\n**但也不能把它写成一场彻底的胜利**：Wikimonde 载「此种用法虽一度由官方规定，却未被民众接受」，**且 1837 年仍须专门立法废止，说明旧名确有其生命力**；**本文因此把判词落在「换算已无必要」这一件可查的事实上，而不落在「谁赢了」。**",
         "**已核 · 复查记录（2026-09-03，六条人读第一条）**：逐句核过正文里的具体细节：**「十七年」**（1795 至 1812）、**「二十八年」**（1812 至 1840）、**「1.949 米」「约 2.5%」**（2 m ÷ 6 = 0.3333 m，对巴黎旧尺 0.3248 m 为 +2.6%）、**「1837 年 7 月 4 日法令、1840 年生效」**——**全部有据，无一处现造。****⚠ 一处表述留意**：§2「拿破仑在那同一年掌权」中的「同一年」回指 §1 的 1799，中间隔着「十七年」一句，**指代略远但可辨**，判为保留。",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-38.md）**：两处 A——「called the overhaul tormenting the people」不成句，改 said the overhaul was tormenting；「wear their words thereby」thereby 句末悬着，改 He had thereby made it wear their words。中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-38.md）**：两处 A——「called the overhaul tormenting the people」不成句，改 said the overhaul was tormenting；「wear their words thereby」thereby 句末悬着，改 He had thereby made it wear their words。中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-38.md）**：零 A。B：「买卖照行于老单位」改「买卖照旧进行，用的还是老单位」；「成了小数的」去「的」。"
       ],
       "metrics": {
         "words": 269,
@@ -106,7 +107,7 @@
         },
         {
           "w": "proceeded",
-          "zh": "照行；继续",
+          "zh": "进行；照旧进行",
           "p": 2
         },
         {

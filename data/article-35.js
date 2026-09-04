@@ -30,7 +30,7 @@
         },
         {
           "en": "Ports **petitioned**; in the **Commons** the case was **urged**. A new **warning** **sped** out on 10 January 1868 — 13 months after the last. The forecast waited till 1879. That one **finding** stopped them **outright**, and the **lull** it left ran 13 months on the water, 13 years in the paper. One had been **relied** on; the other had only been **skimmed**.",
-          "zh": "各港口**上书**(petitioned)，**下议院**(Commons)上有人**力陈**(urged)此事。1868 年 1 月 10 日，一份新的**预警**(warning)**疾驰**(sped)了出去——距上一份 13个月。而那份公众预报，直到 1879 年才回来。评审席那份**结论**(finding)把两样**彻底**(outright)停掉，而它留下的**空档**(lull)：在海上是 13 个月，在报纸上是 13 年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。"
+          "zh": "各港口**上书**(petitioned)，**下议院**(Commons)上有人**力陈**(urged)此事。1868 年 1 月 10 日，一份新的**预警**(warning)**疾驰**(sped)了出去——距上一份 13 个月。而那份公众预报，直到 1879 年才回来。评审席那份**结论**(finding)把两样**彻底**(outright)停掉，而它留下的**空档**(lull)：在海上是 13 个月，在报纸上是 13 年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。"
         }
       ],
       "facts": [
@@ -42,7 +42,8 @@
         "**本篇的机制边界**：同一份报告同时停掉两样东西，于是留下一次**天然实验**——**在海上被倚仗的那一样，十三个月就被要了回来；只在报纸上被读到的那一样，等了十三年**。这个差值量出的不是两者的科学水准（评审席对二者的判词相同），而是**当时到底有谁在依赖它**。此后风暴预警服务再未中断（战时因气象资料保密除外），即今日之航运预报；**视觉信号直至1984年才因海事法规要求船舶一律配备无线电而废止**。",
         "**极限轮后补核（2026-08-20）· 抓出两处，都是跑轮中自己改出来的**：\n**一 · deputies 用错了国家。** 英国议会的成员称 **Members of Parliament（MPs）**；**deputy 一词指的是欧陆议会代表**（法国 députés、俄国杜马 deputies），用于威斯敏斯特是错的。此词是为避开白送词 members(5.35) 而换入的，**换出了一个地理错误**。已改为 **the Commons**（下议院），与史实相合：1867年恢复正是「公众压力与议会质询」促成。\n**二 · 「Every one after it was heeded」越过了出处。** Met Office 原文为「its accuracy ensured that **further warnings were heeded**」——「其后的预警被采纳」，**而正文写成了「此后每一次都听了」，是一个绝对断言**。已改为 **Those after it were heeded**，回到出处支持的说法。\n**这与第01篇「Only those two deaths could refute the miasma」是同一个病：把出处支持的说法写成了绝对句。**",
         "**★ 已核 · 两处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「a slow gale」——读来像『弱风』；皇家宪章风暴是飓风级。气象人说 slow-moving。已改为 slow-moving, savage gale，savage 占名额。****二 · 「A bench sat to scrutinise」——1866 年审查气象局的是皇家学会的委员会，bench 是法官席。已改。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-35.md）**：一处 A——「the Commons heard the case urged」改 in the Commons the case was urged。括注 outright「一并」改「彻底」、finding「一纸」改「结论」；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-35.md）**：一处 A——「the Commons heard the case urged」改 in the Commons the case was urged。括注 outright「一并」改「彻底」、finding「一纸」改「结论」；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-35.md）**：零 A，零 B；补一处空格。"
       ],
       "metrics": {
         "words": 270,

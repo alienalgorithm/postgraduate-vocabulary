@@ -28,7 +28,7 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 
 1935 年 12 月 4 日，希尔德加德·多马克拿着一根针摔倒；针直扎到**腕**(wrist)，在里面**断**(snapped)了。医生把它挖了出来，可**脓毒症**(sepsis)顺着手臂**爬**(climbed)了上去，主刀**外科医生**(surgeon)提出**截肢**(amputation)。她父亲在拜耳做事，那里的化学家**配**(concocted)出了一种**猩红**(scarlet)**染料**(dye)，侧链上**挂**(carrying)着一个磺胺基。
 
-格哈德·多马克 1932 年就**证明**(proven)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至 1935 年才发表。他给女儿**注射**(injected)。她**康复**(recovered)了，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。
+格哈德·多马克 1932 年就**证明**(proven)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至 1935 年才发表。他给女儿**注射**(injected)了它。她**康复**(recovered)了，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。
 
 1935 年 11 月，巴斯德研究所的一个小组把这化合物**剖析**(dissected)开来。染料在**试管**(test-tube)里毫无动静。只有**无色**(colourless)的那一半**起了作用**(acted)，在**玻璃**(glass)里和在**活物**(creatures)身上**一样**(alike)有效。是身体把分子**劈**(splitting)开了；**色**(tint)本身是惰性的。拜耳申请专利的是那层包装，不是里头的**实质**(substance)。
 
@@ -65,3 +65,4 @@ The 1939 Nobel Prize cost Domagk his **freedom**. Carl von Ossietzky, a **pacifi
 - **已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)
 - **★ 已核 · 一处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「dismantled the compound」——dismantle 是拆机器；化学家说 broke down／split（split 本篇已用）。已改为 dissected——巴斯德研究所那组人做的正是把分子的活性拆开来看。****⚠ 判为保留：「chemists had concocted a scarlet dye」——concoct 带一点『调配』的随意感，药化学家会说 synthesised（撞第26篇）；但 concoct 不是事实错误，只是语域略轻，可读。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-31.md）**：零 A。B：Surgeons…surgeon 同词紧邻，改 Doctors；括注 recovered「活」改「康复」；中文「一周多」改「一周」；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-31.md）**：零 A。B：「他给女儿注射」补「了它」。

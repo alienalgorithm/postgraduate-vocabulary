@@ -30,7 +30,7 @@
         },
         {
           "en": "Delambre **obtained** the **notebooks**, **scribbled** in the margin that he would say nothing, and left the **manuscripts** in the **observatory**. Does it matter if it is wrong, he asked; can the metre be wrong? Yet pole to equator is 10,002,000 metres: the bar came out 0.2 millimetres under, and the mistake stayed. Every **successor** **definition**, by **krypton** then by light, was **calibrated** to **reproduce** it.",
-          "zh": "德朗布尔**拿到**(obtained)了那些**笔记本**(notebooks)，在页边**草草写下**(scribbled)：他不会说出去，随后把**手稿**(manuscripts)留在了**天文台**(observatory)。这错了要紧吗，他问；米又怎么会错？可从极点到赤道如今约为 10,002,000 米：那根杆做出来 0.2 毫米不足，而这个错误留了下来。此后每一个**接替的**(successor)**定义**(definition)，先以**氪**(krypton)、后以光为准，都被**校准**(calibrated)成**复现**(reproduce)它。"
+          "zh": "德朗布尔**拿到**(obtained)了那些**笔记本**(notebooks)，在页边**草草写下**(scribbled)：他不会说出去，随后把**手稿**(manuscripts)留在了**天文台**(observatory)。这错了要紧吗，他问；米又怎么会错？可从极点到赤道如今约为 10,002,000 米：那根杆做出来短了 0.2 毫米，而这个错误留了下来。此后每一个**接替的**(successor)**定义**(definition)，先以**氪**(krypton)、后以光为准，都被**校准**(calibrated)成**复现**(reproduce)它。"
         }
       ],
       "facts": [
@@ -42,7 +42,8 @@
         "**已核 · 误差存续至今**：NIST 明载「后来发现科学家在计算地球曲率时出了错，原器因而比极点到赤道的实际距离所对应的长度**短0.2毫米**」；今测极点至赤道约10,002,000米。此后以氪-86谱线（1960）及光速（1983）重新定义米时，均以保持既有长度为前提——**误差被继承下来，因为改掉它的代价大于带着它**。[NIST：Meter](https://www.nist.gov/si-redefinition/meter)｜[Invention & Technology](https://www.inventionandtech.com/node/86245)",
         "**已核补充**：正文 §2「1794年把拉瓦锡送上断头台」——安托万·拉瓦锡于 **1794年5月8日**被处决，而他正是法国科学院度量衡委员会成员，参与过米制筹划。此句用以说明测量在何种年代进行，非泛泛之词。[Britannica：Antoine Lavoisier](https://www.britannica.com/biography/Antoine-Lavoisier)",
         "**★ 已核 · 一处行话改正（2026-09-03，人读第一条）**：**原文「retrace his commune」——commune 是法国的市镇单位；梅尚要求重测的是他负责的南段弧线，即翻越比利牛斯至巴塞罗那的那一段。arc／segment／section 均撞库，已改为 retrace the Pyrenees。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-32.md）**：零 A。博士：恐怖时期是断头台不是枪毙，「shot men on suspicion」改 killed；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-32.md）**：零 A。博士：恐怖时期是断头台不是枪毙，「shot men on suspicion」改 killed；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-32.md）**：零 A。B：「0.2 毫米不足」改「短了 0.2 毫米」。"
       ],
       "metrics": {
         "words": 271,

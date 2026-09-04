@@ -26,9 +26,9 @@ That order is **purposeful**. **Calculation** is what the system **trusts** leas
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-按规矩，美国的一个**镇区**(township)该是一英里见方、含 640 **英亩**(acres)。1873 年一份**图**(diagram)**涵盖**(encompassed)加州**崎岖**(rugged)**多林**(wooded)**高地**(uplands)上的两个区段，两个都写着640。此后 1924 到 1959 年间四次复测都回去找过那根**桩**(peg)，每一次都发现它已经**没**(perished)了。当年的**界标**(monument)是一棵直径 12 英寸的黑橡树。
+按规矩，美国的一个**镇区**(township)该是一英里见方、含 640 **英亩**(acres)。1873 年一份**图**(diagram)**涵盖**(encompassed)加州**崎岖**(rugged)**多林**(wooded)**高地**(uplands)上的两个区段，两个都写着 640。此后 1924 到 1959 年间四次复测都回去找过那根**桩**(peg)，每一次都发现它已经**没**(perished)了。当年的**界标**(monument)是一棵直径 12 英寸的黑橡树。
 
-1962 年基思·里德把邓恩**告**(sued)上法庭，地面**道**(recounted)出的是另一回事：沿边线**丈**(paced)过再**加总**(summed)，一**块地**(tract)只有 601 英亩，**紧邻的**(adjoining)那个区段是 611。**争执**(quarrel)在 106 英亩上，**悬着**(unresolved)。那份图并没有记错测量员当年**写**(jotted)下的东西，它只是记错了**地**(terrain)。
+1962 年基思·里德把邓恩**告**(sued)上法庭，地面**道**(recounted)出的是另一回事：沿边线**丈**(paced)过再**加总**(summed)，一**块地**(tract)只有 601 英亩，**紧邻的**(adjoining)那个区段是 611。**争**(quarrel)的是那 106 英亩，一直**悬着**(unresolved)。那份图并没有记错测量员当年**写**(jotted)下的东西，它只是记错了**地**(terrain)。
 
 **判**(decides)这类案子的那条**法理**(doctrine)，比这桩案子还老。**定**(controls)住一条**地界**(perimeter)的，不是图上那个**数**(numeral)。是当初测量员把标记**栽**(planted)下去的那个位置——哪怕他打得很**糟**(badly)，哪怕他打得**不老实**(dishonestly)。图只是他自称**踏足**(trodden)何处的**凭证**(testament)。
 
@@ -64,3 +64,4 @@ That order is **purposeful**. **Calculation** is what the system **trusts** leas
 - **⚠ 一处细节补注（2026-09-02 复查，六条人读第一条）**：**正文「那个界标曾是一棵 12 英寸粗的黑栎」——「12 英寸」在 facts 里已有，而「黑栎」这一树种此前未记。判为保留并补注：原始测量记录所载即为 black oak，非泛指的橡树。**
 - **★ 已核 · 两处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「paced by acreage」——pace 是步测距离，acreage 是面积，不能『按面积步测』。已改为 paced along its lines and summed：步测的是边线，面积是加总算出来的。****二 · 「fall back on calculus」——calculus 是微积分，测量师说 calculation（本篇 §5 已用）。已改为 trigonometry——测量师从边线与角度推算位置，用的正是三角学。****⚠ 判为保留：§1「went back for the peg」——测量师会说 corner monument（monument 本篇已用），peg 是外行的通称；但 §4 的判例表述亦用 a peg is deemed lost，全篇一致，可读。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-39.md）**：一处 A——开篇「That 1873 diagram」无所指，改 An。B：「106 acres lay in quarrel」改 The quarrel was over 106 acres；括注 perched「座落」错字改「坐落」；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-39.md）**：零 A。B：「争执在 106 英亩上」改「争的是那 106 英亩」；数字空格。

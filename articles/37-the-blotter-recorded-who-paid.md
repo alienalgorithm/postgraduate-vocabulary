@@ -34,7 +34,7 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 
 格雷 2 月 11 日**画**(drafted)出了他的液体送话器：一张**膜**(membrane)，一根浸在**盐水**(brine)里的线。贝尔画出他那张是 3 月 9 日——**递交**(filing)那份本该**载有**(convey)它的文件之后二十四天。七句**话**(sentences)和第四条权利要求，作为一条**旁注**(annotation)**挤**(cramped)在贝尔**纲要**(outline)的**页边**(verge)上，不在正文里。
 
-可梅布尔·哈伯德1 月 17 日的信里，已经**提到过**(mentioned)那台液体送话器。1888 年最高法院**站**(sided)在贝尔一边，那份**判决**(ruling)**依然**(nonetheless)有效。登记簿记下了谁先**交**(tendered)的钱，精确到那一**刻**(instant)。从没有人被**要求**(summoned)去记谁先**想**(conceived)出来，也没有哪本**簿子**(docket)**存**(stored)过那个。
+可梅布尔·哈伯德 1 月 17 日的信里，已经**提到过**(mentioned)那台液体送话器。1888 年最高法院**站**(sided)在贝尔一边，那份**判决**(ruling)**依然**(nonetheless)有效。登记簿记下了谁先**交**(tendered)的钱，精确到那一**刻**(instant)。从没有人被**要求**(summoned)去记谁先**想**(conceived)出来，也没有哪本**簿子**(docket)**存**(stored)过那个。
 
 ---
 
@@ -66,3 +66,4 @@ Yet a letter from Mabel Hubbard on 17 January had already **mentioned** the liqu
 - **★ 已核 · 三处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「impedance」——阻抗一词是 1880 年代 Heaviside 所造，1876 年的专利文本说的是 variable resistance；resistance 撞第25篇，已改为 conductivity（电导，1876 年已有此词）。****二 · 「the assessor」——专利局的审查官叫 examiner；examiner 撞第16篇，改为不占名额，名额以 receipt（费用收讫即入账）补回。中文侧本已译作「审查员」，是英文用错了词。****三 · 「a fourth plea」——专利里是 claim（权利要求），plea 是诉状里的抗辩；claim 撞第19篇，改为不占名额，名额以 annotation（那七句话正是边注）补回。中文侧本已译作「权利要求」。****⚠ 判为保留：「the privilege came」——专利在历史上确称 privilege，史学叙述可读。**
 - **★ 冷读改正（2026-09-04，隔日）**：「late that dusk」——dusk 是时点不是时段，改为 at dusk that day。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-37.md）**：一处 A——「both voiced the transmitting speech」不成句，改 the transmitting of speech。B：lingered for months；till the next day；中文 §3「阻抗」与 §1「电导」统一；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-37.md）**：零 A，零 B；补一处空格。

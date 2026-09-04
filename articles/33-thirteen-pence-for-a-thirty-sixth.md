@@ -66,3 +66,4 @@ The office charged 13 pence to move what cost a thirty-sixth of a penny. The exp
 - **已核 · 正文的「13 便士」**：**1839 年改革前，伦敦至爱丁堡单张信函邮资为 13 便士半**（按距离与页数计）；正文取整为 13 便士，与同段「运费只值一便士的三十六分之一」并排对读。**⚠ 具体数额随距离与年份浮动，此处为最常被引用的那一档。**
 - **★ 已核 · 一处数目改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「hauled it four hundred stages」——伦敦到爱丁堡约四百英里，而 stage 是驿站间的一程（约十英里），四百个驿程是四千英里。词对了，数错了单位。已改为 forty stages。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-33.md）**：一处 A——「a cross signified well」well 作名词不成，改 all well。B：went in 改 went out；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-33.md）**：零 A，零 B——两遍无停顿。

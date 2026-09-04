@@ -14,11 +14,11 @@
       "paras": [
         {
           "en": "An American **township** is supposed to run one mile square and hold 640 **acres**. An 1873 **diagram** **encompassed** two sections in **rugged**, **wooded** California **uplands**, and it said 640 for both. Four later surveys, from 1924 to 1959, went back for the **peg**; each found it had **perished**. The **monument** had been a black oak 12 inches thick.",
-          "zh": "按规矩，美国的一个**镇区**(township)该是一英里见方、含 640 **英亩**(acres)。1873 年一份**图**(diagram)**涵盖**(encompassed)加州**崎岖**(rugged)**多林**(wooded)**高地**(uplands)上的两个区段，两个都写着640。此后 1924 到 1959 年间四次复测都回去找过那根**桩**(peg)，每一次都发现它已经**没**(perished)了。当年的**界标**(monument)是一棵直径 12 英寸的黑橡树。"
+          "zh": "按规矩，美国的一个**镇区**(township)该是一英里见方、含 640 **英亩**(acres)。1873 年一份**图**(diagram)**涵盖**(encompassed)加州**崎岖**(rugged)**多林**(wooded)**高地**(uplands)上的两个区段，两个都写着 640。此后 1924 到 1959 年间四次复测都回去找过那根**桩**(peg)，每一次都发现它已经**没**(perished)了。当年的**界标**(monument)是一棵直径 12 英寸的黑橡树。"
         },
         {
           "en": "When Keith Reid **sued** Dunn in 1962, the ground **recounted** another story: **paced** along its lines and **summed**, one **tract** came to 601 acres and its **adjoining** section to 611. The **quarrel** was over 106 acres, **unresolved**. The diagram was not wrong about what the surveyor **jotted** down. It was simply wrong about the **terrain**.",
-          "zh": "1962 年基思·里德把邓恩**告**(sued)上法庭，地面**道**(recounted)出的是另一回事：沿边线**丈**(paced)过再**加总**(summed)，一**块地**(tract)只有 601 英亩，**紧邻的**(adjoining)那个区段是 611。**争执**(quarrel)在 106 英亩上，**悬着**(unresolved)。那份图并没有记错测量员当年**写**(jotted)下的东西，它只是记错了**地**(terrain)。"
+          "zh": "1962 年基思·里德把邓恩**告**(sued)上法庭，地面**道**(recounted)出的是另一回事：沿边线**丈**(paced)过再**加总**(summed)，一**块地**(tract)只有 601 英亩，**紧邻的**(adjoining)那个区段是 611。**争**(quarrel)的是那 106 英亩，一直**悬着**(unresolved)。那份图并没有记错测量员当年**写**(jotted)下的东西，它只是记错了**地**(terrain)。"
         },
         {
           "en": "The **doctrine** that **decides** such cases predates the case. What **controls** a **perimeter** is not the **numeral** on the diagram. It is the spot where the original surveyor **planted** his mark — even if he planted it **badly**, even if **dishonestly**. The plat is only **testament** to where he said he had **trodden**.",
@@ -41,7 +41,8 @@
         "**本篇的机制边界**：这不是一个「制度有漏洞」的故事。**把原始界标置于图上数字之上，是刻意的设计**——若以算术为准，则全国每一道围栏都须挪到数字所指之处，而两百年间依界标建立的一切占有关系将同时失效。**制度宁可容忍 601 英亩的「一平方英里」，也不肯让计算去推翻已经踩在地上的既成事实。**本文因此不写成「测量员出错」，而写成**「哪一种证据更有资格定义边界」**。",
         "**⚠ 一处细节补注（2026-09-02 复查，六条人读第一条）**：**正文「那个界标曾是一棵 12 英寸粗的黑栎」——「12 英寸」在 facts 里已有，而「黑栎」这一树种此前未记。判为保留并补注：原始测量记录所载即为 black oak，非泛指的橡树。**",
         "**★ 已核 · 两处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「paced by acreage」——pace 是步测距离，acreage 是面积，不能『按面积步测』。已改为 paced along its lines and summed：步测的是边线，面积是加总算出来的。****二 · 「fall back on calculus」——calculus 是微积分，测量师说 calculation（本篇 §5 已用）。已改为 trigonometry——测量师从边线与角度推算位置，用的正是三角学。****⚠ 判为保留：§1「went back for the peg」——测量师会说 corner monument（monument 本篇已用），peg 是外行的通称；但 §4 的判例表述亦用 a peg is deemed lost，全篇一致，可读。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-39.md）**：一处 A——开篇「That 1873 diagram」无所指，改 An。B：「106 acres lay in quarrel」改 The quarrel was over 106 acres；括注 perched「座落」错字改「坐落」；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-39.md）**：一处 A——开篇「That 1873 diagram」无所指，改 An。B：「106 acres lay in quarrel」改 The quarrel was over 106 acres；括注 perched「座落」错字改「坐落」；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-39.md）**：零 A。B：「争执在 106 英亩上」改「争的是那 106 英亩」；数字空格。"
       ],
       "metrics": {
         "words": 268,

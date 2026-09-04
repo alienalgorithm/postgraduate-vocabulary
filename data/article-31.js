@@ -18,7 +18,7 @@
         },
         {
           "en": "Gerhard Domagk had **proven** in 1932 that the dye **cured** infected **mice**, and published only in 1935. He **injected** his daughter. She **recovered**, keeping a **permanent** **reddish** **tinge** in her skin. Paul Ehrlich had predicted that an **antibacterial** drug would be a dye; here was the **proof**.",
-          "zh": "格哈德·多马克 1932 年就**证明**(proven)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至 1935 年才发表。他给女儿**注射**(injected)。她**康复**(recovered)了，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
+          "zh": "格哈德·多马克 1932 年就**证明**(proven)过这染料能**治好**(cured)受感染的**小鼠**(mice)，却迟至 1935 年才发表。他给女儿**注射**(injected)了它。她**康复**(recovered)了，皮肤从此留下**永久的**(permanent)**发红**(reddish)**色泽**(tinge)。保罗·埃尔利希曾预言：**抗菌**(antibacterial)药物必定是一种染料——眼前这就是**证据**(proof)。"
         },
         {
           "en": "In November 1935 a team at the Pasteur Institute **dissected** the compound. The dye did nothing in a **test-tube**. Only the **colourless** half **acted**, in **glass** and in **creatures** **alike**. The body was **splitting** the molecule; the **tint** itself was inert. What Bayer had patented was the wrapper, not the **substance**.",
@@ -42,7 +42,8 @@
         "本篇的机制边界：染料与药效之间隔着一次体内代谢。专利保护的是分子的完整形态，而疗效来自它裂解后的片段——**保护范围与作用范围不重合，垄断因此落空**。",
         "**已核补充**：正文 §2「1932年证明能治好受感染的小鼠」——多马克 1932 年即在小鼠实验中确认百浪多息对链球菌感染有效，**却迟至 1935 年才发表**，原因至今未有清楚解释（EBSCO 明载 for reasons that have never been clearly explained）。本文因此只写「迟至1935年才发表」，未替他下判断。[EBSCO：Gerhard Domagk](https://www.ebsco.com/research-starters/history/gerhard-domagk)",
         "**★ 已核 · 一处行话改正，一处判为保留（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「dismantled the compound」——dismantle 是拆机器；化学家说 broke down／split（split 本篇已用）。已改为 dissected——巴斯德研究所那组人做的正是把分子的活性拆开来看。****⚠ 判为保留：「chemists had concocted a scarlet dye」——concoct 带一点『调配』的随意感，药化学家会说 synthesised（撞第26篇）；但 concoct 不是事实错误，只是语域略轻，可读。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-31.md）**：零 A。B：Surgeons…surgeon 同词紧邻，改 Doctors；括注 recovered「活」改「康复」；中文「一周多」改「一周」；数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-31.md）**：零 A。B：Surgeons…surgeon 同词紧邻，改 Doctors；括注 recovered「活」改「康复」；中文「一周多」改「一周」；数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-31.md）**：零 A。B：「他给女儿注射」补「了它」。"
       ],
       "metrics": {
         "words": 266,

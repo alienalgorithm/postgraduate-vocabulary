@@ -34,7 +34,7 @@ Ports **petitioned**; in the **Commons** the case was **urged**. A new **warning
 
 菲茨罗伊 1865 年去世。一个委员会坐下来**细查**(scrutinise)这个机构。**坐**(seated)在上面的是那些**质疑**(questioned)他那套**方法**(methods)的人，没有一个是他的**同道**(ally)。评审席**建议**(advised)：预报业务一律**关停**(shut)，机构只**记**(logging)数字。最后一份公众预报刊于 1866 年 5 月 28 日；风暴预警在 12 月 7 日**停摆**(lapsed)。
 
-各港口**上书**(petitioned)，**下议院**(Commons)上有人**力陈**(urged)此事。1868 年 1 月 10 日，一份新的**预警**(warning)**疾驰**(sped)了出去——距上一份 13个月。而那份公众预报，直到 1879 年才回来。评审席那份**结论**(finding)把两样**彻底**(outright)停掉，而它留下的**空档**(lull)：在海上是 13 个月，在报纸上是 13 年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。
+各港口**上书**(petitioned)，**下议院**(Commons)上有人**力陈**(urged)此事。1868 年 1 月 10 日，一份新的**预警**(warning)**疾驰**(sped)了出去——距上一份 13 个月。而那份公众预报，直到 1879 年才回来。评审席那份**结论**(finding)把两样**彻底**(outright)停掉，而它留下的**空档**(lull)：在海上是 13 个月，在报纸上是 13 年。一样是被**倚仗**(relied)着的；另一样，只是被**扫**(skimmed)过一眼。
 
 ---
 
@@ -69,3 +69,4 @@ Ports **petitioned**; in the **Commons** the case was **urged**. A new **warning
 **这与第01篇「Only those two deaths could refute the miasma」是同一个病：把出处支持的说法写成了绝对句。**
 - **★ 已核 · 两处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「a slow gale」——读来像『弱风』；皇家宪章风暴是飓风级。气象人说 slow-moving。已改为 slow-moving, savage gale，savage 占名额。****二 · 「A bench sat to scrutinise」——1866 年审查气象局的是皇家学会的委员会，bench 是法官席。已改。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-35.md）**：一处 A——「the Commons heard the case urged」改 in the Commons the case was urged。括注 outright「一并」改「彻底」、finding「一纸」改「结论」；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-35.md）**：零 A，零 B；补一处空格。
