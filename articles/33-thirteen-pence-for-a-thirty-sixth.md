@@ -2,7 +2,7 @@
 
 > 题材：1837年罗兰·希尔的邮政改革与「成本不在运送而在记账」这一发现
 > 状态：**第三十三篇定稿**（2026-08-20）
-> 指标：263 词 / 50 重点词 / 密度 19.0%
+> 指标：264 词 / 50 重点词 / 密度 18.9%
 > 人人都以为邮资该按距离算，因为马车就是按英里收钱的。可希尔把账翻开一看：伦敦到爱丁堡的信收十三便士，而真正的运费只有一便士的三十六分之一——贵的从来不是路，是记账。
 
 ---
@@ -11,13 +11,13 @@
 
 In the 1830s a sheet from London to Edinburgh cost thirteen **pence**, and the **recipient** paid on delivery. For a **servant** on ten **shillings** a week that **swallowed** a day's **wage**. Members of Parliament sent their **correspondence** **exempt**, and the rest of the country **covered** the **deficit**.
 
-So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **signified** well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it forty **stages** for nothing.
+So people got round the **postage**. A **writer** and his friend **arranged** a **token** for the outside: a cross **signified** all well, a circle work found. The addressee **peered** at the cover on the **doorstep**, read the news, and refused the **packet**. The office had **hauled** it forty **stages** for nothing.
 
 Every committee **assumed** the charge must follow distance, because a **coach** charged by the **mile**. The 1835 **enquiry** examined the rates and the **evasion** they **produced**. Carriers **hired** **lads** and old women to run **errands** for a penny, and few thought it wrong. Yet nobody **queried** where the money actually went.
 
 In 1837 Rowland Hill, a **schoolmaster** holding no **postal** office, did the arithmetic. Of the **annual** outlay, only 144,000 in **sterling** **tracked** distance; 282,000 did not. Spread over the **traffic**, **carting** came to a **fraction** of a **penny**. For the Edinburgh **mail** he put it at one thirty-sixth.
 
-The office charged 13 pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. Prepayment **erased** the **bookkeeping**. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went in that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.
+The office charged 13 pence to move what cost a thirty-sixth of a penny. The expense was the **clerks**: **billing** every letter, **entering** it, **knocking** for it at the door. Prepayment **erased** the **bookkeeping**. The **uniform** fourpenny rate came on 5 December 1839, the penny on 10 January 1840; 112,000 letters went out that **inaugural** day. The year's **tally** **rose** from 76 million letters to 168 million.
 
 ---
 
@@ -26,15 +26,15 @@ The office charged 13 pence to move what cost a thirty-sixth of a penny. The exp
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1830年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信件**(correspondence)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。
+1830 年代，一张信纸从伦敦寄到爱丁堡要十三**便士**(pence)，而且由**收信人**(recipient)在门口付。对一个周薪十**先令**(shillings)的**仆人**(servant)来说，这**吞掉**(swallowed)了一天的**工钱**(wage)。议会议员寄自己的**信件**(correspondence)一律**免征**(exempt)，不花一分，其余的人**补**(covered)上这个**亏空**(deficit)。
 
 于是人们绕开这笔**邮资**(postage)。一个**写信人**(writer)和朋友**约定**(arranged)了信封外面的**记号**(token)：画个叉**表示**(signified)平安，画个圈是找到了活。收信人在**门口**(doorstep)**细看**(peered)信封，读完消息，然后拒收这个**邮件**(packet)。邮局把它**拖**(hauled)了四十个**驿程**(stages)，一文没收到。
 
-每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。
+每一个委员会都**想当然地认为**(assumed)邮资必须随距离走，因为**马车**(coach)就是按**英里**(mile)收钱的。1835 年的**调查**(enquiry)查了费率，也查了它**造成**(produced)的**逃费**(evasion)行为。脚夫们**雇**(hired)**半大孩子**(lads)和老妇人跑**差事**(errands)送信，一封收一便士，几乎没人觉得这有什么不对。可没有人**追问**(queried)过钱到底花在了哪里。
 
-1837年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有144,000**英镑**(sterling)是**随**(tracked)距离走的；另外282,000镑与距离无关。摊到全部**信流**(traffic)上，**车运**(carting)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。
+1837 年，罗兰·希尔——一个不在**邮政**(postal)系统任职的**校长**(schoolmaster)——把账算了一遍。在全年**开支**(annual)里，只有 144,000 **英镑**(sterling)是**随**(tracked)距离走的；另外 282,000 镑与距离无关。摊到全部**信流**(traffic)上，**车运**(carting)那一项只合一**便士**(penny)的一个**零头**(fraction)。就爱丁堡这条**邮路**(mail)，他算出是三十六分之一。
 
-邮局收 13 便士，去送一件运费只值一便士三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。预付一下子**抹掉**(erased)了整套**账务**(bookkeeping)。**统一的**(uniform)四便士资费于1839年12月5日实行，一便士于1840年1月10日实行；**开办**(inaugural)当天就寄出了112,000封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。
+邮局收 13 便士，去送一件运费只值一便士三十六分之一的东西。真正花钱的是**文书**(clerks)：给每一封信**算账**(billing)、**登记**(entering)、上门**敲**(knocking)门收钱。预付一下子**抹掉**(erased)了整套**账务**(bookkeeping)。**统一的**(uniform)四便士资费于 1839 年 12 月 5 日实行，一便士于 1840 年 1 月 10 日实行；**开办**(inaugural)当天就寄出了 112,000 封信。那一年的**总数**(tally)从七千六百万封**升**(rose)到一亿六千八百万封。
 
 ---
 
@@ -65,3 +65,4 @@ The office charged 13 pence to move what cost a thirty-sixth of a penny. The exp
 - **已核 · 正文两处数字的阿拉伯写法**：① 正文 §1「In the **1830s**」——1812年定下的伦敦至爱丁堡资费一直行用至1839年改革，故整个 1830 年代皆为十三便士；② 正文 §5「168 million」——1840年全英寄信 **168** 百万封（另有来源作 169 百万，差异源于统计口径，本文取 168）。1839年为 76 百万封。[Victorian Web：The Penny Post](https://www.victorianweb.org/history/pennypos.html)｜[The Postal Museum：Uniform penny postage](https://www.postalmuseum.org/collections/highlights/philatelic-collection/british-postal-markings/uniform-penny-postage/)
 - **已核 · 正文的「13 便士」**：**1839 年改革前，伦敦至爱丁堡单张信函邮资为 13 便士半**（按距离与页数计）；正文取整为 13 便士，与同段「运费只值一便士的三十六分之一」并排对读。**⚠ 具体数额随距离与年份浮动，此处为最常被引用的那一档。**
 - **★ 已核 · 一处数目改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「hauled it four hundred stages」——伦敦到爱丁堡约四百英里，而 stage 是驿站间的一程（约十英里），四百个驿程是四千英里。词对了，数错了单位。已改为 forty stages。**
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-33.md）**：一处 A——「a cross signified well」well 作名词不成，改 all well。B：went in 改 went out；中文数字空格。

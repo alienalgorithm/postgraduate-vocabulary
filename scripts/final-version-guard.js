@@ -122,8 +122,8 @@ const VERSION_IDS = {
   '31': '31-266-word-final-locked',
   '32': '32-271-word-final-locked',
   '33': '33-264-word-final-locked',
-  '34': '34-271-word-final-locked',
-  '35': '35-268-word-final-locked',
+  '34': '34-268-word-final-locked',
+  '35': '35-270-word-final-locked',
 
 };
 

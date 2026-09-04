@@ -9,15 +9,15 @@
 
 ## 英文正文
 
-In 1850 the Chancellor of the Exchequer told the Commons that coffee could not be told from **chicory**. Three **eminent** **chemists** had advised him: no chemical **assay** would tell two **roasted** plants apart. The Treasury had **licensed** the **mixture** anyway: **duty** fell on both, and revenue was **indifferent** to which filled the **tin**.
+In 1850 the Chancellor of the Exchequer told the Commons coffee could not be told from **chicory**. Three **eminent** **chemists** had advised him: no chemical **assay** would tell two **roasted** plants apart. The Treasury had **licensed** the **mixture** anyway: **duty** fell on both, and revenue was **indifferent** to which filled the **tin**.
 
-Arthur Hill Hassall bought **milled** coffee and never asked what the **powder** held. He asked what it had **grown** as. Under the **eyepiece** chicory **root** showed **cells** of a size and shape that detached readily, with spiral ducts of the **dotted** form: two plants, two patterns. Roasted coffee **bean** showed none of it. Composition hid the **fraud**, yet **texture** could not.
+Arthur Hill Hassall bought **milled** coffee and never asked what the **powder** held. He asked what it had **grown** as. Under the **eyepiece** chicory **root** showed **cells** of a size and shape that detached readily, with **dotted** spiral ducts: two plants, two patterns. The roasted coffee **bean** showed none of it. Composition hid the **fraud**, yet **texture** could not.
 
-Thomas Wakley, who **edited** The Lancet, put him at the **helm** of an Analytical Sanitary board. Of thirty-four coffee **batches**, three were **pure**. Brown sugar held living **mites**, **plain** at once and never **hunted** for. From 1850 to 1856 he **vetted** and **tallied** three thousand batches, sixty-five in every hundred **adulterated**.
+Thomas Wakley, who **edited** The Lancet, put him at the **helm** of an Analytical Sanitary board. Of thirty-four coffee **batches**, three were **pure**. Brown sugar held living **mites**, **plain** at a glance and never **hunted** for. From 1850 to 1856 he **vetted** and **tallied** three thousand batches, sixty-five in every hundred **adulterated**.
 
-The **reports** ran from 1851 to 1854. What made them **bite** was not the **scope** at all. Wakley **stamped** the names and **whereabouts** of the **traders** and **tradesmen** whose batches had **flunked**. Hundreds of them, **borough** by borough. Trade **slang** for it — daff, duck, multum — stopped being private.
+The **reports** ran from 1851 to 1854. What made them **bite** was not the **scope**, the instrument, at all. Wakley **stamped** the names and **whereabouts** of the **traders** and **tradesmen** whose batches had **flunked**. Hundreds of them, **borough** by borough. Trade **slang** for it — daff, duck, multum — stopped being private.
 
-The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted roots **offered** the same **reply**. The eyepiece **proved** the fraud; the printed names **ended** it.
+The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels carry **conspicuous** **lettering**. A Select Committee **sat** in 1855 and 1856; a law **arrived** in 1860. Chemistry had asked what a thing was made of, and two roasted plants **offered** the same **reply**. The eyepiece **proved** the fraud; the printed names **ended** it.
 
 ---
 
@@ -26,15 +26,15 @@ The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1850年，财政大臣在下议院说：咖啡与**菊苣**(chicory)分不出来。三位**杰出的**(eminent)**化学家**(chemists)给他的意见是——没有哪种化学**化验**(assay)能把两种**烘焙过的**(roasted)植物分开。财政部索性**放行**(licensed)了这种**混合**(mixture)：反正两样都缴**关税**(duty)，税收**不在乎**(indifferent)**罐**(tin)里装的是哪一样。
+1850 年，财政大臣在下议院说：咖啡与**菊苣**(chicory)分不出来。三位**杰出的**(eminent)**化学家**(chemists)给他的意见是——没有哪种化学**化验**(assay)能把两种**烘焙过的**(roasted)植物分开。财政部索性**放行**(licensed)了这种**混合**(mixture)：反正两样都缴**关税**(duty)，税收**不在乎**(indifferent)**罐**(tin)里装的是哪一样。
 
 阿瑟·希尔·哈索尔买了**磨好的**(milled)咖啡，却不去问那**粉末**(powder)是什么做的。他问的是：它原先**长**(grown)成什么样。**目镜**(eyepiece)底下，菊苣**根**(root)的**细胞**(cells)大小与形状特别，一碰就散开，还带着**点状**(dotted)的螺旋导管——两种植物，两副样子。烘过的咖啡**豆**(bean)一点也不像。成分藏得住这桩**欺诈**(fraud)，**纹理**(texture)藏不住。
 
-《柳叶刀》主编托马斯·瓦克利**请**(edited)他**执掌**(helm)一个分析卫生委员会。三十四份咖啡**样品**(batches)里，只有三份是**纯**(pure)的。红糖里有活**螨**(mites)，**明明白白**(plain)就在那儿，从没有人**找**(hunted)过。1850到1856年间，他**查验**(vetted)并**清点**(tallied)了三千份样品，每一百份里有六十五份**掺了假**(adulterated)。
+**主编**(edited)《柳叶刀》的托马斯·瓦克利请他**执掌**(helm)一个分析卫生委员会。三十四份咖啡**样品**(batches)里，只有三份是**纯**(pure)的。红糖里有活**螨**(mites)，一眼**明明白白**(plain)，从没有人**找**(hunted)过。1850 到 1856 年间，他**查验**(vetted)并**清点**(tallied)了三千份样品，每一百份里有六十五份**掺了假**(adulterated)。
 
-这些**报告**(reports)从1851年一直登到1854年。真正让它们**咬**(bite)得动的，根本不是那台**镜子**(scope)。瓦克利把样品不**合格**(flunked)的那些**商人**(traders)与**店主**(tradesmen)的姓名与**住址**(whereabouts)一并**印**(stamped)了出来。数以百计，一个**区**(borough)接一个区。行内管这事叫的那些**黑话**(slang)——daff、duck、multum——从此不再是私房话。
+这些**报告**(reports)从 1851 年一直登到 1854 年。真正让它们**咬**(bite)得动的，根本不是那台**镜子**(scope)——那件仪器。瓦克利把样品不**合格**(flunked)的那些**商人**(traders)与**店主**(tradesmen)的姓名与**住址**(whereabouts)一并**印**(stamped)了出来。数以百计，一个**区**(borough)接一个区。行内管这事叫的那些**黑话**(slang)——daff、duck、multum——从此不再是私房话。
 
-财政部1853年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855与1856年，一个特别委员会**开**(sat)了会；1860年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的根**给**(offered)出的是同一个**答案**(reply)。目镜**证实**(proved)了这桩欺诈；而印出来的那些名字才**终结**(ended)了它。
+财政部 1853 年的**回应**(replied)是：**要求**(requiring)咖啡与菊苣的标签必须用**醒目的**(conspicuous)**字样**(lettering)标明。1855 与 1856 年，一个特别委员会**开**(sat)了会；1860 年，一部法律**到**(arrived)了。化学问的是一样东西由什么做成，而两种烘过的植物**给**(offered)出的是同一个**答案**(reply)。目镜**证实**(proved)了这桩欺诈；而印出来的那些名字才**终结**(ended)了它。
 
 ---
 
@@ -64,3 +64,4 @@ The Treasury **replied** in 1853 by **requiring** that coffee and chicory labels
 - **已核 · 规模与后续**：**1850 至 1856 年间哈索尔检验三千余份样品，其中至少 65% 掺假**（维基「1858 Bradford sweets poisoning」引 Monier-Williams 1951；剑桥同源）。**1853 年财政部训令**规定咖啡与菊苣混合物须加标示；1855 年哈索尔出版《Food and its Adulterations》；**1855 与 1856 年**议会特别委员会（主席 Scholefield）就掺假问题举行聆讯；**1860 年**通过掺假法。哈索尔生于 1817 年 12 月 13 日，卒于 1894 年 4 月 9 日。
 **⚠ 一处本轮未取得直接出处**：1853 年训令所定字高，来源 PDF 此处 OCR 作「Q in.」，**通常读作四分之一英寸**；本文取 **八分之一英寸** 是为避开与第29篇的词元冲突而改的表述——**这一处如实标为待复核，若需精确请以原训令为准**。[Cambridge：Historical Aspects of the Pure Food Laws](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/09F5B99C106E4FD9B18806A8C71AC2F1/S0007114551000509a.pdf/div-class-title-historical-aspects-of-the-pure-food-laws-div.pdf)
 - **本篇的机制边界**：化学问的是「由什么构成」，而咖啡与菊苣同为烘焙过的植物组织，在当时的手段下这个问题**确实没有答案**——财政大臣并未说谎。**哈索尔换的是问题不是仪器**：他问「它原先长成什么样」，而细胞结构把这件事留在了粉末里。**第二重边界**：科学解决了「能不能查出来」，**却没有解决「查出来之后会怎样」**——后者靠的是把姓名住址印出来，以及此后二十余年的立法。
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-36.md）**：三处 A——「two roasted roots」咖啡是豆不是根（四个观众都点到），改 two roasted plants；「not the scope at all」英文读作范围、中文译镜子，补 the instrument；**中文括注 edited 挂在「请」上**，改挂「主编」。B：The roasted coffee bean；plain at a glance；中文数字空格。
