@@ -2239,6 +2239,23 @@ _r28 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/readers.py"),
 check("readers.py 能报状态", "已审" in _r28)
 check("第70篇报告存在且有汇总表", "| 句 | 谁点到 | 等级 | 改法 |" in open(os.path.join(ROOT, "notes/审读-70.md"), encoding="utf-8").read())
 
+
+# ── 审读团 bot：解析→汇总→写报告，不用密钥也能测（2026-09-04）────────
+print("\n[审读团] bot 管道")
+sys.path.insert(0, os.path.join(ROOT, "scripts"))
+import readers as _RD
+_f1 = _RD.parse_findings('```json\n[{"para":2,"quote":"got down while **idling**","problem":"x","fix":"y","grade":"A"},"bad"]\n```')
+check("解析：去围栏、丢坏元素", len(_f1) == 1 and _f1[0]["grade"] == "A")
+_f2 = _RD.parse_findings('[{"para":2,"quote":"got down while idling","problem":"x","fix":"","grade":"C"}]')
+_rows = _RD.merge({"二": _f2, "五": _f2})
+check("汇总：母语者与本科生同停 → A", _rows and _rows[0]["grade"] == "A" and _rows[0]["who"] == {"二", "五"})
+_rows2 = _RD.merge({"一": _f2, "三": _f2})
+check("汇总：两个观众 → 升一级（C→B）", _rows2 and _rows2[0]["grade"] == "B")
+_r29 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/readers.py"), "69", "--run", "--dry-run"],
+                      capture_output=True, text=True, timeout=120).stdout
+check("dry-run：五个观众的系统提示各含自己那一节", all(("观众%s" % k) in _r29 for k in "一二三四五") and "只输出一个 JSON 数组" in _r29)
+check("章程有 bot 方式一节", "## bot 方式" in open(os.path.join(ROOT, "notes/审读团.md"), encoding="utf-8").read())
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)
