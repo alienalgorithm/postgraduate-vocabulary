@@ -16,6 +16,8 @@
 用法：
   python3 scripts/build_reader.py 01                 # 第 1 篇
   python3 scripts/build_reader.py 01 --voice bm_george --speed 0.92
+  python3 scripts/build_reader.py 02 --n 8      # 这趟最多做 8 句；反复跑同一条命令推进
+  python3 scripts/build_reader.py 02 --fresh    # 不续跑，从头重做
 需要：say-en 解压在 /tmp/say/say-en（或 --say 指定），模型已下好。
 """
 import os
@@ -135,44 +137,100 @@ def main():
     audio = os.path.join(outdir, "audio")
     os.makedirs(audio, exist_ok=True)
 
+    # ★ 断点续跑（say-en《踩过的坑》第五条：批量合成会被 OOM killer 直接杀掉，
+    #   没有任何报错。70 篇约 1,200 段，必须能反复跑同一条命令推进）。
+    jpath = os.path.join(outdir, "a%s.json" % aid)
+    done = {}
+    if os.path.exists(jpath) and "--fresh" not in sys.argv:
+        try:
+            old = json.load(open(jpath, encoding='utf-8'))
+            for x in old.get("sentences", []):
+                if os.path.exists(os.path.join(outdir, x["audio"])):
+                    done[x["i"]] = x
+        except Exception:
+            done = {}
+    limit = int(sys.argv[sys.argv.index("--n") + 1]) if "--n" in sys.argv else 10 ** 6
+
     k = SAY._load_model(os.path.join(saydir, "models"))
     sents = []
+    problems = []
     n = 0
+    made = 0
     for pi, p in enumerate(art['paras'], 1):
         for en_s, zh_s in split_sentences(p['en'], p['zh']):
             n += 1
+            if n in done:                       # 已做过，跳过
+                sents.append(done[n]); continue
+            if made >= limit:
+                sents.append(done.get(n)) if False else None
+                continue
+            made += 1
             txt = plain(en_s)
             wav = SAY.synth(k, txt, voice=voice, speed=speed)
             times = SAY.word_times(wav, len(txt.split()))
-            # ★ 两种格式都出，网页里 m4a 在前、opus 在后（2026-09-04 实测踩到两次）：
+            # ★ 两种格式都出（2026-09-04 实测踩到两次）：
             #   · 只出 opus → **iOS Safari 放不出来**，而这个站的读者多半在手机上；
             #   · 只出 m4a  → 开源 Chromium 不含 AAC，本地根本验不了「到底响没响」。
-            #   两个加起来一篇也才 1.2 MB。
+            #   两个加起来一篇也才 1.2 MB。opus 走 say.write()（官方 API），m4a 另编。
             base = "a%s-%02d" % (aid, n)
+            opus = os.path.join(audio, base + ".opus")
+            m4a = os.path.join(audio, base + ".m4a")
+            SAY.write(wav, opus)
             import soundfile as sf
             tmp = os.path.join(audio, "_t.wav")
             sf.write(tmp, wav, SAY.SR)
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", tmp,
                             "-c:a", "aac", "-b:a", "48k", "-ac", "1",
-                            "-movflags", "+faststart", os.path.join(audio, base + ".m4a")], check=True)
-            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", tmp,
-                            "-c:a", "libopus", "-b:a", "40k", "-ac", "1",
-                            os.path.join(audio, base + ".opus")], check=True)
+                            "-movflags", "+faststart", m4a], check=True)
             os.remove(tmp)
+
+            # ★★ 解码质检（say-en《踩过的坑》第三、七条：元数据全对不代表声音是对的，
+            #     那次八项检查全过、却有 34 段削波，就是因为一次都没解码过）。
+            #     顺便按第四条：时间轴末项要对着**编码后**的时长比——重新编码会改时长。
+            qc = {}
+            for tag, path in (("m4a", m4a), ("opus", opus)):
+                info = SAY.inspect(path)
+                qc[tag] = {"ok": info["ok"], "why": info["why"],
+                           "dur": round(info.get("dur", 0), 3),
+                           "peak": round(info.get("peak", 0), 3),
+                           "rms": round(info.get("rms", 0), 4)}
+                if not info["ok"]:
+                    problems.append("%s %s" % (base + "." + tag, info["why"]))
+                d2 = info.get("dur", 0)
+                if d2 and times[-1] / 1000 > d2 - 0.03:
+                    lim = int((d2 - 0.03) * 1000)          # 截到时长内
+                    times = [min(x, lim) for x in times]
+                    for z in range(1, len(times)):          # 截完必须重新保证递增
+                        if times[z] < times[z - 1]:
+                            times[z] = times[z - 1]
+                    problems.append("%s 时间轴末项超出解码时长，已截" % (base + "." + tag))
+            # 第一条：一句话读完至少一秒，末项 < 1000 就是存成秒了
+            if len(wav) / SAY.SR > 1.5 and times[-1] < 1000:
+                problems.append("%s 时间轴末项 %d < 1000，疑似存成秒" % (base, times[-1]))
             name = base + ".m4a"
             dur = round(len(wav) / SAY.SR, 3)
             sents.append({"i": n, "para": pi, "en": en_s, "zh": zh_s, "plain": txt,
                           "words": txt.split(), "times": times, "dur": dur,
                           "audio": "audio/" + base + ".m4a",
                           "audioAlt": "audio/" + base + ".opus",
-                          "marks": marks(en_s, zh_s)})
+                          "qc": qc, "marks": marks(en_s, zh_s)})
             print("  %2d  %5.2fs  %s" % (n, dur, txt[:56]))
 
+    sents = [x for x in sents if x]
+    sents.sort(key=lambda x: x['i'])
     data = {"id": aid, "title": art['title'], "voice": voice, "speed": speed,
             "total": round(sum(s['dur'] for s in sents), 1), "sentences": sents}
-    json.dump(data, open(os.path.join(outdir, "a%s.json" % aid), 'w', encoding='utf-8'),
-              ensure_ascii=False, indent=1)
-    print("\n第%s篇 · %d 句 · %.1f 秒 · %s → reader/a%s.json" % (aid, n, data['total'], voice, aid))
+    json.dump(data, open(jpath, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    print("\n第%s篇 · %d/%d 句 · %.1f 秒 · %s → reader/a%s.json"
+          % (aid, len(sents), n, data['total'], voice, aid))
+    if problems:
+        print("  ⚠ 质检报了 %d 条：" % len(problems))
+        for x in problems[:10]:
+            print("    ·", x)
+    else:
+        print("  ✓ 解码质检全过（削波／过轻／过短／时间轴越界／单位）")
+    if len(sents) < n:
+        print("  ↻ 还差 %d 句，再跑一次同样的命令即可（断点续跑）" % (n - len(sents)))
 
 
 if __name__ == "__main__":

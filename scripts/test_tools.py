@@ -2296,6 +2296,17 @@ check("两种音频格式都在（m4a 给 iOS，opus 给其余）", all(
     os.path.getsize(os.path.join(ROOT, "reader", s[k])) > 2000
     for s in _rd["sentences"] for k in ("audio", "audioAlt")))
 _lh = open(os.path.join(ROOT, "listen.html"), encoding="utf-8").read()
+check("每段都有解码质检且全过（say-en 坑三/七：元数据全对≠声音对）", all(
+    s.get("qc") and all(v["ok"] for v in s["qc"].values()) for s in _rd["sentences"]))
+check("峰值不削波、音量不过轻", all(
+    v["peak"] <= 0.999 and v["rms"] >= 0.02 for s in _rd["sentences"] for v in s["qc"].values()))
+check("时间轴末项不超编码后时长（坑四）", all(
+    s["times"][-1] / 1000 <= min(v["dur"] for v in s["qc"].values()) for s in _rd["sentences"]))
+check("时间轴是毫秒不是秒（坑一：末项 ≥ 1000）", all(
+    s["times"][-1] >= 1000 for s in _rd["sentences"] if s["dur"] > 1.5))
+check("builder 支持断点续跑与限流（坑五）", all(
+    x in open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
+    for x in ("--n", "--fresh", "断点续跑")))
 check("听读页 16:9 且带 reader/ 前缀", "aspect-ratio:16/9" in _lh and "const BASE='reader/'" in _lh)
 check("首页有听读入口", "listen.html" in open(os.path.join(ROOT, "index.html"), encoding="utf-8").read())
 
