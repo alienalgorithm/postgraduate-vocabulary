@@ -18,7 +18,7 @@
         },
         {
           "en": "That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 per cent of world **product** — a **chunk** of a trillion in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 per cent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.",
-          "zh": "可这一**行**(row)从来没有等于过零。1980 到 2004 年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。"
+          "zh": "可这一**行**(row)从来没有等于过零。1980 到 2004 年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的 0.2% 到 0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近 0.5% 的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。"
         },
         {
           "en": "The IMF **convened** an **expert** party. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, it found something **graver** than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the capital account. Both **sides** of one book were wrong, each in its own **direction**.",
@@ -43,7 +43,8 @@
         "**已核 · 正文三个数的出处（供复核）**：**24 万亿与 2024 年**——世界贸易组织与 UNCTAD 口径下 2024 年全球货物贸易额约 24 万亿美元；**1983**——IMF 那份报告（SM/87/13）审读的区间为 **1977 至 1983 年**，见本条上方第 3 条。**⚠ 24 万亿一数为约数，随口径（货物／货物加服务）与年份修订而变，本文取整并以「约」表述。**",
         "**★ 已核 · 两处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「on the monetary account」——与经常账户对应的是资本账户，『货币账户』不是标准名。已改为 capital account（capital 白送词不占名额）。****二 · 「A cargo embarks」——embark 是人登船，货物是装船、运出。已改为 stowed and shipped。****⚠ 一处判为保留：§2「filing a glut」——经济学有『全球储蓄过剩』（global savings glut，伯南克 2005）之说，正指经常账户盈余的另一面，可用。**",
         "**⚠ BAL-02 判为保留（§4 局部密度）**：改 embarks→stowed and shipped 多了一个名额，该段密度随之略升。**判据：把一个人才做的动作（登船）改成货物真实经历的两个动作，值这一点密度。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-41.md）**：一处 A——中文 §3「**同时**」误加粗（英文无名额）。B：percent 改 per cent 两处；artifact 美式拼法留（名额，与第57篇 artefacts 拼法不同才不撞）；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-41.md）**：一处 A——中文 §3「**同时**」误加粗（英文无名额）。B：percent 改 per cent 两处；artifact 美式拼法留（名额，与第57篇 artefacts 拼法不同才不撞）；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-41.md）**：零 A。两遍无停顿；只补数字空格。"
       ],
       "metrics": {
         "words": 270,

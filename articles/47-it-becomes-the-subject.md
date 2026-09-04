@@ -26,11 +26,11 @@ The ordering was **abolished** in 1909, after 157 years of it. The private **tut
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-一百五十七年间，剑桥的数学成绩按**应得**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850 年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**位列**(positioned)**第十二**(twelfth)的人，一辈子都**保住**(retained)着它。
+一百五十七年间，剑桥的数学成绩按各人**应得**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850 年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**位列**(positioned)**第十二**(twelfth)的人，一辈子都**留**(retained)着这个名头。
 
 哈代 1898 年考过这张卷子。他后来写道：当这场考试在难度与**声名**(renown)上立于**顶点**(apex)时，英国数学的**实力**(prowess)正陷在**最深的**(deepest)**低谷**(trough)里。这张卷子的**鼎盛**(heyday)与这门**学科**(subject)的**繁荣**(flowering)，在整个**十九**(nineteenth)世纪朝**相反**(opposite)方向走。
 
-训练不是大学做的。人们雇私人**教师**(instructors)，用**几尼**(guineas)付账。那套**辅导**(tuition)是**例行**(routine)的：旧卷、模拟场、成**套**(pieces)的题，以及对着表**逐字**(verbatim)**背诵**(recital)证明。**听课**(lectures)**日渐凋零**(withered)。**有名的**(famed)老师不是教授。巴贝奇 1828 至 1839 年**执掌**(headed)卢卡斯讲席，一堂课没讲。
+训练不是大学做的。人们雇私人**教师**(instructors)，用**几尼**(guineas)付账。那套**辅导**(tuition)是**例行**(routine)的：旧卷、模拟考、成**套**(pieces)的题，以及对着表**逐字**(verbatim)**背诵**(recital)证明。**听课**(lectures)的人**日渐凋零**(withered)。**有名的**(famed)老师不是教授。巴贝奇 1828 至 1839 年**执掌**(headed)卢卡斯讲席，一堂课没讲。
 
 **教纲**(syllabus)**硬化**(hardened)成了凡能快速评出分数的东西。**评分**(Grading)塑造教学，而不是反过来。**欧陆**(Continental)**分析**(analysis)被**冷落**(neglected)：它难以出成一道有干净答案的题，而阅卷人要的正是一个答案。最好的**导师**(mentors)从每一**届**(intake)里挑**最尖的**(sharpest)那些人，这维持了他们的**名声**(repute)，而名声又让他们接着挑。
 
@@ -40,7 +40,7 @@ The ordering was **abolished** in 1909, after 157 years of it. The private **tut
 
 ## 50 词速查表
 
-**§1**（10词）desert 应得（的功过）｜topped 居首｜obligatory 必须的｜classics 古典学｜placing 名次｜intellect 智识｜prize 荣誉；奖赏｜positioned 位列；安置｜twelfth 第十二｜retained 保有；留住
+**§1**（10词）desert 应得（的功过）｜topped 居首｜obligatory 必须的｜classics 古典学｜placing 名次｜intellect 智识｜prize 荣誉；奖赏｜positioned 位列；安置｜twelfth 第十二｜retained 留着；保有
 
 **§2**（10词）apex 顶点｜renown 声名｜prowess 实力；本领｜deepest 最深的｜trough 低谷｜heyday 鼎盛期｜flowering 繁荣；开花｜subject 学科｜opposite 相反的｜nineteenth 第十九
 
@@ -65,3 +65,4 @@ The ordering was **abolished** in 1909, after 157 years of it. The private **tut
 - **本篇的机制边界**：这不是「考试有害」的故事。**Tripos 确实选出过麦克斯韦、开尔文、凯莱**，**其预测力也有据**（九位首席辩士后来出任卢卡斯教授）。**本文的论点在于：当一份排序本身成为奖赏，为排序所做的准备就会取代那门学科。****教纲硬化成可快速评分之物；难以出成单一答案的欧陆分析因此被冷落；而最好的教练能挑到最强的学生，声望自我循环。****这三条合起来，才解释了为什么「考试最盛」与「学科最弱」会同时发生。**
 - **已核 · 巴贝奇任卢卡斯教授的起讫**：**1828 至 1839 年**，**在任十一年间未讲授过一堂课**。[Charles Babbage · Wikipedia](https://en.wikipedia.org/wiki/Charles_Babbage)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-47.md）**：两处 A——「after 157 of them」of them 不明，改 after 157 years of it；「gave none」改 gave no lectures。括注 desert「优劣」改「应得」（旧义）、pecking「啄食」改「等级（序列）」。「**intellect**ual」劈词，留。中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-47.md）**：零 A。B：「按应得排榜」补「各人」；「保住着它」改「留着这个名头」；「模拟场」改「模拟考」；「听课日渐凋零」补「的人」。

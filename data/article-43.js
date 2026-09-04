@@ -18,11 +18,11 @@
         },
         {
           "en": "Twenty-five years later the seed was still **overlooked**. In 1933 hybrids took 0.7 per cent of Iowa's corn ground — 7 acres in every thousand, in the **foremost** corn-**growing** state on the **globe**. The science was **acknowledged**, the **fields** unchanged, the seed **spurned**. A **twofold** gain lay **idle**, **squandered** season upon season since 1908.",
-          "zh": "二十五年过去，这种子仍被**忽略**(overlooked)。1933 年，杂交种只占爱荷华玉米地的 0.7%——一千英亩里 7 英亩，而这是**全球**(globe)**头一**(foremost)的玉米**产**(growing)地大州。科学是**公认**(acknowledged)的，**田**(fields)没有变，种子被**弃**(spurned)。翻**一倍**(twofold)的收成就摆在那里**闲**(idle)着，1908 年以来年复一年地**白扔**(squandered)。"
+          "zh": "二十五年过去，这种子仍被**忽略**(overlooked)。1933 年，杂交种只占爱荷华玉米地的 0.7%——一千英亩里 7 英亩，而这是**全球**(globe)**头号**(foremost)的玉米**产**(growing)地大州。科学是**公认**(acknowledged)的，**田**(fields)没有变，种子被**弃**(spurned)。翻**一倍**(twofold)的收成就摆在那里**闲**(idle)着，1908 年以来年复一年地**白扔**(squandered)。"
         },
         {
           "en": "Yet the **obstacle** was never what came out. It was what went into it. A single-cross hybrid **matured** on an inbred parent, and inbred plants are **feeble** — **thin** **tassel**, little **pollen**, few grains. The **sack** cost more than any **grower** would pay. Donald Jones **unveiled** the double cross in 1918: set the seed itself on a hybrid plant, and the **bulk** climbs with it.",
-          "zh": "可**卡**(obstacle)住的从来不是收上来的，是种下去的那一头。单交种得**长成**(matured)在自交系母本上，而自交系植株**孱弱**(feeble)——**穗**(tassel)长得又**细**(thin)又短、**花粉**(pollen)少、结的粒也少。一**袋**(sack)种子的价钱超过任何**种植者**(grower)肯出的数。1918 年唐纳德·琼斯**公布**(unveiled)双交：让种子本身长在杂交植株上，**量**(bulk)也就跟着上去了。"
+          "zh": "可**卡**(obstacle)住的从来不是收上来的，是种下去的那一头。单交种得在自交系母本上**长成**(matured)，而自交系植株**孱弱**(feeble)——**穗**(tassel)长得又**细**(thin)又短、**花粉**(pollen)少、结的粒也少。一**袋**(sack)种子的价钱超过任何**种植者**(grower)肯出的数。1918 年唐纳德·琼斯**公布**(unveiled)双交：让种子本身长在杂交植株上，**量**(bulk)也就跟着上去了。"
         },
         {
           "en": "Cheap seed still had to reach the **farm**, and no **pamphlet** would carry it. The Hi-Bred company **enlisted** **respected** farmers as **salesmen**, peddled free 8-pound bags, and **pitched** a **wager**. **Sow** half the **plot** with the hybrid, half with your own seed. Pay only if ours **wins**.",
@@ -30,7 +30,7 @@
         },
         {
           "en": "By 1943 the Iowa figure was 99.5 per cent. What carried it was not the **vigour** in the **furrow**. A hybrid does not **breed** true. The **grain** cannot be **saved** to **replant**; the farmer buys again each year, and that **perpetual** purchase **financed** the business. That **obligation** paid the men who walked the **rows**.",
-          "zh": "到 1943 年，爱荷华的数字是99.5%。真正把它推开的，不是**垄沟**(furrow)里的**长势**(vigour)。杂交种不**育**(breed)真——**籽**(grain)根本**留**(saved)不来**补种**(replant)，农户只能年年再买，而这笔**长久的**(perpetual)买卖，**养**(financed)起了这门生意。这份**义务**(obligation)，付了那些走在**行垄**(rows)间的人的工钱。"
+          "zh": "到 1943 年，爱荷华的数字是 99.5%。真正把它推开的，不是**垄沟**(furrow)里的**长势**(vigour)。杂交种的**籽**(grain)**育**(breed)不出同样的苗，根本**留**(saved)不来**补种**(replant)，农户只能年年再买，而这笔**长久的**(perpetual)买卖，**养**(financed)起了这门生意。这份**义务**(obligation)，付了那些走在**行垄**(rows)间的人的工钱。"
         }
       ],
       "facts": [
@@ -43,7 +43,8 @@
         "**本篇的机制边界**：这不是「资本推动科学」的故事，也不是说杂种优势不真。**优势是真的，双交把制种成本降下来也是真的**——两者都是必要条件。**本文的论点在于：一项发现的传播速度，取决于谁能从传播中获利。**杂交种恰好具备一个别的育种成果没有的性质——**它不育真，因此必须年年再买**；**这笔复购养得起挨家挨户走的推销员，而正是那些人把它送进了每一块地。****同期同样有效的开放授粉良种，没有这层性质，也就没有这支队伍。**",
         "**已核 · 1918 年那一步**：**Donald F. Jones 于 1918 年提出双交（double cross）法**——以杂交植株为母本产种，从而使制种田本身具备杂种优势，产量足以把种子价格降到农户买得起。**这是 1908 年 Shull 的发现与 1930 年代大面积推广之间缺的那一环。**[Donald F. Jones · Wikipedia](https://en.wikipedia.org/wiki/Donald_F._Jones)",
         "**★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「Tonnage had sat near 25 bushels an acre」——tonnage 是船的吨位，玉米产量不这么说；yield／output／harvest／crop 均撞库，已改为 cropping（农业用法：收成）。****二 · 「sire the seed itself on a hybrid plant」——sire 是动物育种词（种公畜配种）；玉米说 set seed（结实）。已改为 set。****三 · 「saved for next broadcast」——broadcast 是撒播，玉米是点播或条播，从不撒播。已改为 saved to replant。****⚠ 三处的词都 vet 过、合规，错在放的位置——tonnage 与 broadcast 都是为安置名额取的。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-43.md）**：两处 A——「tabled」英式「提出」美式「搁置」正相反、题材是美国，换 unveiled；**中文括注 globe 挂在「土地」上**，改「全球」并理顺那句。B：percent 改 per cent 与全库一致；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-43.md）**：两处 A——「tabled」英式「提出」美式「搁置」正相反、题材是美国，换 unveiled；**中文括注 globe 挂在「土地」上**，改「全球」并理顺那句。B：percent 改 per cent 与全库一致；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-43.md）**：零 A。B：「头一的」改「头号的」；「得长成在」语序；「不育真」改「籽育不出同样的苗」；数字空格。"
       ],
       "metrics": {
         "words": 269,
@@ -108,7 +109,7 @@
         },
         {
           "w": "foremost",
-          "zh": "首要的",
+          "zh": "头号的；首要的",
           "p": 2
         },
         {
@@ -263,7 +264,7 @@
         },
         {
           "w": "breed",
-          "zh": "繁育",
+          "zh": "育出；繁殖",
           "p": 5
         },
         {

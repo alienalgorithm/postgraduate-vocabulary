@@ -68,3 +68,4 @@ The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun**
 - **已核 · 正文五个数的出处一览（供复核）**：**50 年**——本-耶胡达抵达前 50 年耶路撒冷市集已有口语希伯来语（Languages of the World，见第 2 条）；**6 / 29**——1904 年以色列地 29 所有建制学校中 6 所以希伯来语授课（维基 War of the Languages，该处标 citation needed，见上条）；**60**——至 1914 年约 60 所机构以希伯来语为唯一教学语言（globaldisconnect 综述，见第 3 条）；**8000**——**圣经希伯来语的词汇总量**，非本-耶胡达造词数（Detroit Jewish News，见第 5 条）；**17**——《古今希伯来语大词典》共 17 卷（Wikipedia，见第 6 条）。
 - **★ 冷读改正（2026-09-04，隔日）**：「can recede to nothing else」不地道，换 revert（can revert to nothing else：没有别的语言可退回去）。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-42.md）**：两处 A——「nor had been」缺主语，改 nor had it been；「nor the dictionary solely」改 nor solely the dictionary。括注 speech「话」改「语言」；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-42.md）**：零 A，零 B——两遍无停顿。

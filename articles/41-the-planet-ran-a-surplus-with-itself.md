@@ -28,7 +28,7 @@ A later study **ascribed** the whole reversal to a single **offender**: the **om
 
 2024 年有 24 万亿的货物**跨**(crossed)过国界；每一笔**出口**(export)都是**对手方**(counterpart)的**进口**(import)。把全世界卖出去的加总一遍，再把它**收**(receives)进来的加总一遍，两个总数必须彼此**抵消**(offset)到零。剩下的**余数**(residue)必须是**零**(nil)——不是接近零，是**平**(flat)零——这与任何一本账要平的**恒等式**(identity)是同一条。
 
-可这一**行**(row)从来没有等于过零。1980 到 2004 年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。
+可这一**行**(row)从来没有等于过零。1980 到 2004 年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的 0.2% 到 0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近 0.5% 的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。
 
 国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组。那份报告**编号**(tagged)SM/87/13，1987 年 1 月 12 日送抵执董会：182 **页**(pages)、109 份**附表**(appendices)。读过 1977 到 1983 年的数据，它发现的东西比一处**背离**(divergence)**更重**(graver)：全世界的经常账户累计为负，而同时，资本账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。
 
@@ -66,3 +66,4 @@ A later study **ascribed** the whole reversal to a single **offender**: the **om
 - **★ 已核 · 两处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「on the monetary account」——与经常账户对应的是资本账户，『货币账户』不是标准名。已改为 capital account（capital 白送词不占名额）。****二 · 「A cargo embarks」——embark 是人登船，货物是装船、运出。已改为 stowed and shipped。****⚠ 一处判为保留：§2「filing a glut」——经济学有『全球储蓄过剩』（global savings glut，伯南克 2005）之说，正指经常账户盈余的另一面，可用。**
 - **⚠ BAL-02 判为保留（§4 局部密度）**：改 embarks→stowed and shipped 多了一个名额，该段密度随之略升。**判据：把一个人才做的动作（登船）改成货物真实经历的两个动作，值这一点密度。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-41.md）**：一处 A——中文 §3「**同时**」误加粗（英文无名额）。B：percent 改 per cent 两处；artifact 美式拼法留（名额，与第57篇 artefacts 拼法不同才不撞）；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-41.md）**：零 A。两遍无停顿；只补数字空格。

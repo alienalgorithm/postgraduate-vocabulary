@@ -32,7 +32,7 @@ Robert Peel's second **tenet**, as later codified, holds that the ability of the
 
 每一处都在回答一个恐惧，而不是一项任务：英国人看过拿破仑组建**宪兵队**(gendarmerie)，不想要一支。人群把这身**行头**(costume)读懂了，并且**嗤笑**(scoffed)出声。他们给这些人**起了个诨号**(christened)：「生**龙虾**(lobsters)」。龙虾活着时穿一身蓝**壳**(shell)，要等**锅**(kettle)把它变成**深红**(crimson)——所以这句**讥讽**(taunt)的意思是：还没**煮熟**(cooked)的兵。「蓝**魔**(devils)」和「皮尔的血帮」是另外两个。
 
-待遇也刻意让这些人保持普通。**每周**(weekly)二十一先令，比一个熟练**手艺人**(tradesman)挣得少，而且制服钱要从里头出——一笔**微薄**(humble)的数目，本就是要它微薄。一周七天。每天十英里**人行道**(pavement)，走固定的**一圈**(circuit)、穿过自己的**片区**(ward)。不准进**酒馆**(taverns)，不准沾**酒**(liquor)，不准跟**妓女**(prostitutes)搭话，不准与已知的贼来往。
+待遇也刻意让这些人保持普通。**每周**(weekly)二十一先令，比一个熟练**手艺人**(tradesman)挣得少，而且制服钱要从里头出——一笔**微薄**(humble)的数目，本就是要它微薄。一周七天。每天走十英里**人行道**(pavement)，固定**一圈**(circuit)，穿过自己的**片区**(ward)。不准进**酒馆**(taverns)，不准沾**酒**(liquor)，不准跟**妓女**(prostitutes)搭话，不准与已知的贼来往。
 
 罗伯特·皮尔的第二条**信条**(tenet)——后人整理的——说：**警队**(constabulary)能否履职，取决于公众的**同意**(consent)。所以这套**治安**(policing)是从一身**衣着**(attire)开始的——它先要**安抚**(reassure)那个**旁观者**(bystander)，然后才谈得上拦下一个贼。这身**装束**(outfit)不是装备。它就是那条**准则**(maxim)本身，被做成**看得见的**(visible)。
 
@@ -66,3 +66,4 @@ Robert Peel's second **tenet**, as later codified, holds that the ability of the
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「A parliamentary tribunal」——1819 年审议警务的是议会特别委员会（select committee），tribunal 是审判机构，不是这个。中文侧本已译作「委员会」，是英文用错了词。****已改为 a select committee；select 占名额，committee 为白送词不占。****⚠ 另一处留意**：§4「a fixed circuit through the ward」——巡区在警务里叫 beat（白送词），**但 ward 是伦敦真实的行政区划单位，「在该区内的固定巡回」说得通，判为可保留。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-48.md）**：零 A。B：「took assent」改 received；博士——「皮尔九原则」编号是二十世纪整理的，补 as later codified；括注 headgear「头上戴的」改「帽具」、consent「认可」改「同意」；中文数字空格。
 - **⚠ STR-03、BAL-02b 判为保留**：末两句「The outfit was not equipment. It was the maxim itself, made visible.」是一个判断的两半，拆开才是格言相邻；§1 密度是点名那句的三个数。
+- **★★ 中文审读团两遍（见 notes/中文审读-48.md）**：零 A。B：「每天十英里人行道，走固定的一圈」改「每天走十英里人行道，固定一圈」。其余两遍无停顿。

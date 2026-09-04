@@ -18,7 +18,7 @@
         },
         {
           "en": "The method was neither his nor new. Matter from a **ripe** **blister**, an **incision**, a **lancet**; or dried **scabs** up the **nostrils**. West Africa, India and Ottoman lands had used it for generations. It reached Boston through Onesimus, an **enslaved** West African: treated so at home, he told Cotton Mather, and **spared** since. The town called it **heathen** **hearsay**.",
-          "zh": "这法子既不是他的，也不新。取**熟透**(ripe)**脓疱**(blister)里的东西，一道**切口**(incision)，一把**柳叶刀**(lancet)；或者把干**痂**(scabs)吹进**鼻孔**(nostrils)。西非、印度与奥斯曼各地已经这么做了好几代。它经奥内西姆斯传进波士顿——一个**被奴役的**(enslaved)西非人：他告诉科顿·马瑟，自己在家乡就这么被治过，此后一直**得免**(spared)。全城管这叫**异教的**(heathen)**道听途说**(hearsay)。"
+          "zh": "这法子既不是他的，也不新。取**熟透**(ripe)**脓疱**(blister)里的东西，一道**切口**(incision)，一把**柳叶刀**(lancet)；或者把干**痂**(scabs)吹进**鼻孔**(nostrils)。西非、印度与奥斯曼各地已经这么做了好几代。它经奥内西姆斯传进波士顿——一个**被奴役的**(enslaved)西非人：他告诉科顿·马瑟，自己在家乡就这么被治过，此后再没**得过**(spared)。全城管这叫**异教的**(heathen)**道听途说**(hearsay)。"
         },
         {
           "en": "The town's doctors refused to hear it. Giving a healthy man the disease looked like **assault**; if he died, **homicide**. William Douglass, Boston's only physician with a medical **doctorate**, **campaigned** against it in print. A **mob** **thrashed** Boylston in the street. A **bomb** came through Mather's **casement**. Six **clergy** stood by them; the **trained** men did not.",
@@ -30,7 +30,7 @@
         },
         {
           "en": "So the **critics** were **convinced** by two **percentages** side by side — from a practice the town had called **superstition** on account of who brought it. Douglass **recanted** by 1730 and **defended** for the rest of his life the thing he had **opposed**. He never **owned** where it came from, nor named Boylston, the **adversary** he had wronged.",
-          "zh": "于是**批评者**(critics)是被两个并排的**百分数**(percentages)**说服**(convinced)的——而它们出自一项全城因传入者的身份而斥为**迷信**(superstition)的做法。道格拉斯 1730 年**改口**(recanted)，余生都在**为**(defended)他曾**反对**(opposed)过的东西辩护。他从未**承认**(owned)它从哪里来，也没有点出博伊尔斯顿——那个被他冤枉的**对手**(adversary)。"
+          "zh": "于是**批评者**(critics)是被两个并排的**百分数**(percentages)**说服**(convinced)的——而这两个数出自一项做法——全城只因带来它的人是谁，就斥之为**迷信**(superstition)。道格拉斯 1730 年**改口**(recanted)，余生都在**为**(defended)他曾**反对**(opposed)过的东西辩护。他从未**承认**(owned)它从哪里来，也没有点出博伊尔斯顿——那个被他冤枉的**对手**(adversary)。"
         }
       ],
       "facts": [
@@ -43,7 +43,8 @@
         "**本篇的机制边界**：这不是「琴纳被高估了」的故事。**牛痘接种确实更安全**——人痘用的是真天花，本身有 1—3% 的致死风险；牛痘几乎没有。**琴纳改变的不是「有没有办法」，是风险。****本文的论点在别处**：**在既无机理又无权威可援引时，一场辩论仍可以被两个并排的数字了结。****而更该记的一层是：那项被计数证明有效的做法，此前正是因为传入者的身份而被全城拒斥**——**计数之所以必要，恰恰因为别的判据都被身份污染了。**",
         "**已核 · 正文「每 100 个里死 14 个」的写法**：**来源作 14%（自然染病者的病死率）**，正文以「每 100 个里死 14 个」表述同一比例，与前文「约 240 人接种死 6 个」的分子分母写法一致，便于并排对读。**另：导语提到的 1796 年（琴纳首次牛痘接种）为通说的时间坐标，正文不写，因为本篇论点在 1721 年那笔账，而非琴纳。**",
         "**⚠ ANC-02 与 BAL-02 判为保留（2026-09-01 复核）**：**ANC-02**——导语提到 1796（琴纳）而正文没有。**这是有意的**：**本篇论点在 1721 年那笔账，不在琴纳**；导语用琴纳立通说，正文立刻转开，**把 1796 写进正文反而会把读者引向错的主角。****BAL-02**——§1 密度 26.2%。**试过三种加词降密度的写法，每次都触发 270 词上限；删名字来腾空间又掉到 91 分。****§1 的十一个加粗全是那笔账的骨**（疫／药剂师／文凭／镇民／接种／殁／未治／染／痘／比例／单张），**无一可撤。判为保留。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-49.md）**：一处 A——「the adversary he had wronged」三个观众都不知道是谁，补 Boylston。B：博士——细菌学说 1721→1860 年代是一百四十年，「a century off」改 more than a century；括注 broadside「大报」改「传单」、succumbed「没挺过来」改「死去」、campaigned「开火」改「发起论战」；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-49.md）**：一处 A——「the adversary he had wronged」三个观众都不知道是谁，补 Boylston。B：博士——细菌学说 1721→1860 年代是一百四十年，「a century off」改 more than a century；括注 broadside「大报」改「传单」、succumbed「没挺过来」改「死去」、campaigned「开火」改「发起论战」；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-49.md）**：零 A。B：「此后一直得免」改「再没得过」；§5 长定语拆开。"
       ],
       "metrics": {
         "words": 268,
@@ -143,7 +144,7 @@
         },
         {
           "w": "spared",
-          "zh": "幸免",
+          "zh": "幸免；再没得过",
           "p": 2
         },
         {

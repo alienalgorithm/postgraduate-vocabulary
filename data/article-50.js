@@ -14,15 +14,15 @@
       "paras": [
         {
           "en": "The Jockey Club states the aim plainly: a **handicap** brings every **thoroughbred** across the line **abreast** — not by a **neck** or a **whisker**, not settled by a **photograph**. Its own explanation adds that no **racecourse** has seen one. Six in ten British races run this way: the **backbone** of the sport, not a **curiosity**.",
-          "zh": "赛马会把目标说得很白：一场**让分赛**(handicap)要让每一匹**纯血马**(thoroughbred)**并排**(abreast)冲过终点线——不是差一个**脖颈**(neck)，不是差一根**须**(whisker)，也不是靠一张**照片**(photograph)判出来。它自己的说明接着写道：没有哪个**赛马场**(racecourse)见过。英国六成的比赛都这么跑：这是这项运动的**骨干**(backbone)，不是一样**稀奇玩意**(curiosity)。"
+          "zh": "赛马会把目标说得很白：一场**让分赛**(handicap)要让每一匹**纯血马**(thoroughbred)**并排**(abreast)冲过终点线——不是差一个**脖颈**(neck)，不是差一根**须**(whisker)，也不是靠一张**照片**(photograph)判出来。它自己的说明接着写道：没有哪个**赛马场**(racecourse)见过这样的终点。英国六成的比赛都这么跑：这是这项运动的**骨干**(backbone)，不是一样**稀奇玩意**(curiosity)。"
         },
         {
           "en": "Weight does the work. A horse's **rating** comes from recent form, and better animals are **allotted** more lead, **conceding** weight until the **contest** is **equalised**. Admiral Rous was **appointed** the first public handicapper in the 1850s, replacing arrangements local, **inconsistent** and **secret**: a **steward** set the weights, and no one could say if **favouritism** entered.",
-          "zh": "起作用的是配重。一匹马的**评分**(rating)出自它近期的表现，能力强的被**配给**(allotted)更多铅块，一路**让**(conceding)出重量，直到这场**较量**(contest)被**拉平**(equalised)。劳斯上将 1850 年代被**任命**(appointed)为第一位公共让分员，取代了此前那套各地各行、**前后不一**(inconsistent)且**不公开**(secret)的做法：**赛事干事**(steward)定下重量，而没人说得清里头有没有**偏私**(favouritism)。"
+          "zh": "起作用的是配重。一匹马的**评分**(rating)出自它近期的表现，能力强的**分到**(allotted)更多铅块，一路**让**(conceding)出重量，直到这场**较量**(contest)**拉平**(equalised)。劳斯上将 1850 年代被**任命**(appointed)为第一位公共让分员，取代了此前那套各地各行、**前后不一**(inconsistent)且**不公开**(secret)的做法：**赛事干事**(steward)定下重量，而没人说得清里头有没有**偏私**(favouritism)。"
         },
         {
           "en": "Consider the target. **Entrants** crossing together tell a **punter** nothing about which horse **gallops** faster, which is what a **spectator** at the **rail** came for. A perfect **weighting** does not **inform**; it goes **smooth** and **mute**, destroying what the **spectacle** exists to produce.",
-          "zh": "看那个靶子。**参赛者**(Entrants)一齐冲线，告诉不了一个**下注者**(punter)哪匹马**跑**(gallops)得更快——而那正是**栏杆**(rail)边的**观众**(spectator)来看的东西。一次完美的**配重**(weighting)并不**告知**(inform)什么；它变得**平滑**(smooth)而**沉默**(mute)，把这场**表演**(spectacle)本要产出的东西毁掉。"
+          "zh": "看看这个目标。**参赛者**(Entrants)一齐冲线，说不出一个**下注者**(punter)想知道的——哪匹马**跑**(gallops)得更快——而那正是**栏杆**(rail)边的**观众**(spectator)来看的东西。一次完美的**配重**(weighting)并不**告知**(inform)什么；它**平平淡淡**(smooth)、**一声不响**(mute)，把这场**表演**(spectacle)本要产出的东西毁掉。"
         },
         {
           "en": "The **ratings** move the wrong way for a measure. A winner is raised, a beaten **gelding** eased: the **apportionment** answers the last race, never the **beast**. Nor is anyone hurrying to fix it. A **bunched** finish returns more **turnover** to the **bookmaker** than **runners** **strung** out over the closing **furlongs**.",
@@ -43,7 +43,8 @@
         "**⚠ 已删两处塞进去的数字（2026-09-02 复查）**：**§3 原作「站在栏杆边的观众等了 3 小时要看的东西」——「三小时」与本句论点无关，是为满足「给数字」的规范塞的；观众等多久，跟「让步赛让人看不出谁跑得快」毫无关系。****§4 原作「在最后 2 弗隆里拉开一长串」——具体多少弗隆不影响「散开的终点让庄家赚得少」这个论点，且无来源。两处均已删。****★ 这是「为了给一个词/一条规范找地方待着，就地编一个细节」的又一实例，与第55—59 篇那十一处同型 —— 只是这一处编的是数字，不是动作。**",
         "**⚠ 已删两处塞进去的数字（2026-09-02 复查）**：**§3 原作「站在栏杆边的观众等了 3 小时要看的东西」——「三小时」与本句论点无关，是为满足『给数字』的规范塞的；观众等多久，跟『让步赛让人看不出谁跑得快』毫无关系。已改为「要弄清楚的东西」。****§4 原作「在最后 2 个弗隆里拉开一长串」——具体多少弗隆不影响『散开的终点让庄家赚得少』这个论点，且无来源。已改为「收尾那几个弗隆」，保留 furlongs 这个名额而去掉那个数。****★ 这是「为了给一条规范找地方待着，就地编一个细节」的实例，与第55—59 篇那十一处同型——只是这里编的是数字，不是动作。**",
         "**⚠ BAL-02b 判为保留（§3 局部密度）**：删掉「等了 3 小时」这个塞进去的数字后，§3 少了三个词，局部密度随之升高。**试过加词降密度，两次触 270 词上限被 lockstep 回滚。****判据：删掉一处编造的细节值这三个词的代价；为把密度调回去而再塞一个细节，正是这次复查要根除的做法。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-50.md）**：三处 A——「no racecourse has」省得读不出，补 seen one；§3 中文「————」双破折与「站在栏边…在栏杆边」重复；§5 中文比英文多出两句解释（「这个数字之所以存在…」「并非制度的缺陷…」），削到对齐。括注 steward「司事」改「赛事干事」。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-50.md）**：三处 A——「no racecourse has」省得读不出，补 seen one；§3 中文「————」双破折与「站在栏边…在栏杆边」重复；§5 中文比英文多出两句解释（「这个数字之所以存在…」「并非制度的缺陷…」），削到对齐。括注 steward「司事」改「赛事干事」。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-50.md）**：零 A。B：「见过」补宾语；两个被字句改主动；「看那个靶子」改「看看这个目标」；「平滑而沉默」改「平平淡淡、一声不响」。"
       ],
       "metrics": {
         "words": 267,
@@ -103,7 +104,7 @@
         },
         {
           "w": "allotted",
-          "zh": "配给",
+          "zh": "分到；分配",
           "p": 2
         },
         {
@@ -183,12 +184,12 @@
         },
         {
           "w": "smooth",
-          "zh": "平滑的",
+          "zh": "平平淡淡；平滑",
           "p": 3
         },
         {
           "w": "mute",
-          "zh": "哑的",
+          "zh": "一声不响；无言",
           "p": 3
         },
         {

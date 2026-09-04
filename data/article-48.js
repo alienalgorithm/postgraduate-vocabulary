@@ -26,7 +26,7 @@
         },
         {
           "en": "The terms kept the men ordinary. Twenty-one shillings **weekly**, under what a skilled **tradesman** drew, and the uniform came out of it — a **humble** sum, meant to be. Seven days on. Ten miles of **pavement** a day on a fixed **circuit** through the **ward**. No **taverns**, no **liquor**, no talking to **prostitutes**, no company with known thieves.",
-          "zh": "待遇也刻意让这些人保持普通。**每周**(weekly)二十一先令，比一个熟练**手艺人**(tradesman)挣得少，而且制服钱要从里头出——一笔**微薄**(humble)的数目，本就是要它微薄。一周七天。每天十英里**人行道**(pavement)，走固定的**一圈**(circuit)、穿过自己的**片区**(ward)。不准进**酒馆**(taverns)，不准沾**酒**(liquor)，不准跟**妓女**(prostitutes)搭话，不准与已知的贼来往。"
+          "zh": "待遇也刻意让这些人保持普通。**每周**(weekly)二十一先令，比一个熟练**手艺人**(tradesman)挣得少，而且制服钱要从里头出——一笔**微薄**(humble)的数目，本就是要它微薄。一周七天。每天走十英里**人行道**(pavement)，固定**一圈**(circuit)，穿过自己的**片区**(ward)。不准进**酒馆**(taverns)，不准沾**酒**(liquor)，不准跟**妓女**(prostitutes)搭话，不准与已知的贼来往。"
         },
         {
           "en": "Robert Peel's second **tenet**, as later codified, holds that the ability of the **constabulary** to do their work rests on public **consent**. So the **policing** began with **attire** built to **reassure** the **bystander** before it ever stopped a thief. The **outfit** was not equipment. It was the **maxim** itself, made **visible**.",
@@ -43,7 +43,8 @@
         "**本篇的机制边界**：这不是「制服比破案重要」的故事。**皮尔改革之后伦敦记录在案的犯罪确实下降**，且这是在人口持续增长的前提下发生的。**本文的论点在于：一支需要公众同意才能运作的队伍，其首要设计约束不是效能而是外观**——**蓝而非红、礼帽而非头盔、警棍藏于衣下、摇铃而非火器，四处皆非业务需要，皆为政治回答。****而那个绰号证明公众恰恰读懂了这套设计**：他们知道自己在看什么，并说了出来。**制服因此不是装备，是那条原则被做成了看得见的东西。**",
         "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「A parliamentary tribunal」——1819 年审议警务的是议会特别委员会（select committee），tribunal 是审判机构，不是这个。中文侧本已译作「委员会」，是英文用错了词。****已改为 a select committee；select 占名额，committee 为白送词不占。****⚠ 另一处留意**：§4「a fixed circuit through the ward」——巡区在警务里叫 beat（白送词），**但 ward 是伦敦真实的行政区划单位，「在该区内的固定巡回」说得通，判为可保留。**",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-48.md）**：零 A。B：「took assent」改 received；博士——「皮尔九原则」编号是二十世纪整理的，补 as later codified；括注 headgear「头上戴的」改「帽具」、consent「认可」改「同意」；中文数字空格。",
-        "**⚠ STR-03、BAL-02b 判为保留**：末两句「The outfit was not equipment. It was the maxim itself, made visible.」是一个判断的两半，拆开才是格言相邻；§1 密度是点名那句的三个数。"
+        "**⚠ STR-03、BAL-02b 判为保留**：末两句「The outfit was not equipment. It was the maxim itself, made visible.」是一个判断的两半，拆开才是格言相邻；§1 密度是点名那句的三个数。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-48.md）**：零 A。B：「每天十英里人行道，走固定的一圈」改「每天走十英里人行道，固定一圈」。其余两遍无停顿。"
       ],
       "metrics": {
         "words": 270,

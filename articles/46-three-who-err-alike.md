@@ -32,7 +32,7 @@ The instrument had been **averaging** away the difference it existed to **captur
 
 **计时员**(timekeeper)在**枪口**(muzzle)冒烟时**摁**(trips)表，那是他必须作出反应的信号；而停表时他盯着一具迎面而来的**躯干**(torso)，已经**注视**(eyed)了 10 秒。他的**反应**(reflex)在一头偏晚、在另一头偏早，两者并不**抵消**(negate)，而是**堆叠**(pile)起来。每一个手计时都短了约四分之一秒——每个短跑者都得了一点**不劳而获的**(unearned)**优势**(edge)——于是管理机构把**换算值**(conversion)定为 0.24。
 
-1977 年 1 月 1 日起，全自动计时成为**强制**(compulsory)。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳居**(reigned)着**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出 9.95。而那个成绩此后保持了 15 年。
+1977 年 1 月 1 日起，全自动计时成为**强制**(compulsory)要求。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳稳**(reigned)立着，**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出 9.95。而那个成绩此后保持了 15 年。
 
 那件仪器一直在把它本该**捕捉**(capture)的差别**平均**(averaging)掉，从每个人身上**刮**(shaving)去同样薄的一**片**(sliver)。中位值管得住三个**计分员**(scorer)里错的那一个。可当三个人**错**(err)得一模一样时，它什么也管不了——那不是偶然，是一道**偏斜**(skew)，再多的**重复**(repetition)也**消**(undo)不掉它。
 
@@ -46,7 +46,7 @@ The instrument had been **averaging** away the difference it existed to **captur
 
 **§3**（11词）timekeeper 计时员｜trips 触发；绊｜muzzle 枪口｜torso 躯干｜eyed 注视｜reflex 反应；反射｜negate 抵消｜pile 堆叠；一堆｜unearned 不劳而获的｜edge 优势｜conversion 换算
 
-**§4**（9词）compulsory 强制的｜feats 成绩（复）｜deleted 删除｜relegated 降格｜barrier 门槛；障壁｜hailed 欢呼；称许｜reigned 在位；居首｜unbeaten 未被打破的｜raced 赛跑；疾行
+**§4**（9词）compulsory 强制的｜feats 成绩（复）｜deleted 删除｜relegated 降格｜barrier 门槛；障壁｜hailed 欢呼；称许｜reigned 稳稳立着；称雄｜unbeaten 未被打破的｜raced 赛跑；疾行
 
 **§5**（9词）averaging 取平均｜capture 捕捉｜shaving 刮去｜sliver 薄片｜scorer 计分员｜err 出错｜skew 偏斜｜repetition 重复｜undo 消除；撤销
 
@@ -64,3 +64,4 @@ The instrument had been **averaging** away the difference it existed to **captur
 - **本篇的机制边界**：这不是「旧时代不严谨」的故事。**取三人中位数正是一种防错设计**——它专门用来舍掉离群的那个读数，而且确实有效。**本文的论点在于：中位数防的是「三人里有一个错」，防不了「三人朝同一个方向错」。****前者是噪声，后者是偏斜；重复取样能压掉噪声，压不掉偏斜。****而更要紧的一层是：这个偏差不只让成绩偏快，还抹平了成绩之间的差别**——三个相差 0.11 秒的人被记成同一个数，**一件用来分辨的仪器，把它本该分辨的东西平均掉了。**
 - **★★ 已核 · 一处事实错误已改（2026-09-02 复查，六条人读第一条）**：**原文作「那个成绩此后保持了 14 年」——实为 15 年。****世界田联讣告：「海因斯的世界纪录保持了 15 年——是全自动计时时代男子 100 米世界纪录中最长的一次——直到 1983 年被卡尔文·史密斯以 9.93 打破。」**另有《体育画报》、NBC、ESPN、阿肯色百科等**八家来源一致作 15 年**。**⚠ 这个数字此前不在 facts 里**——正是「每一个具体细节，是核过的还是现造的」这条查出来的。[World Athletics · Hines obituary](https://worldathletics.org/news/news/jim-hines-obituary)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-46.md）**：四处 A——「all three were ratified」被认定的是成绩不是人，改 all three times；「trips on the muzzle smoke, which he must answer」补 his watch、改 a cue he must answer；「the body」改 the governing body；**中文括注 muzzle 挂在「冒烟」上**，改挂「枪口」。B：括注 edge「便宜」改「优势」、unearned 改「不劳而获的」、scorer「记错」改「计分员」；中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-46.md）**：零 A。B：「成为强制」补「要求」；「稳居着没人破」改「稳稳立着，没人破」。

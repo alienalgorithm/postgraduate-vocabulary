@@ -26,7 +26,7 @@
         },
         {
           "en": "Fully automatic timing became **compulsory** on 1 January 1977. The old **feats** were not **deleted** but **relegated** to a list of their own. The 10-second **barrier**, **hailed** as broken that June, **reigned** **unbeaten** until Jim Hines **raced** 9.95 in Mexico City that October; that mark held 15 years.",
-          "zh": "1977 年 1 月 1 日起，全自动计时成为**强制**(compulsory)。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳居**(reigned)着**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出 9.95。而那个成绩此后保持了 15 年。"
+          "zh": "1977 年 1 月 1 日起，全自动计时成为**强制**(compulsory)要求。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳稳**(reigned)立着，**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出 9.95。而那个成绩此后保持了 15 年。"
         },
         {
           "en": "The instrument had been **averaging** away the difference it existed to **capture**, **shaving** the same **sliver** off every man. A middle value covers one **scorer** who is wrong. It does nothing when all three **err** alike — that is not chance but a **skew**, and no **repetition** will **undo** it.",
@@ -41,7 +41,8 @@
         "**⚠ 两处已标注的取舍**：①正文写「保持了十四年」——**海因斯 9.95 立于 1968 年 10 月，至 1983 年被破，取整为十四年**；②墨西哥城为高原场地，**对短跑成绩有助益**，本文不据此展开，因为**本篇论点在计时方法而非成绩本身**。",
         "**本篇的机制边界**：这不是「旧时代不严谨」的故事。**取三人中位数正是一种防错设计**——它专门用来舍掉离群的那个读数，而且确实有效。**本文的论点在于：中位数防的是「三人里有一个错」，防不了「三人朝同一个方向错」。****前者是噪声，后者是偏斜；重复取样能压掉噪声，压不掉偏斜。****而更要紧的一层是：这个偏差不只让成绩偏快，还抹平了成绩之间的差别**——三个相差 0.11 秒的人被记成同一个数，**一件用来分辨的仪器，把它本该分辨的东西平均掉了。**",
         "**★★ 已核 · 一处事实错误已改（2026-09-02 复查，六条人读第一条）**：**原文作「那个成绩此后保持了 14 年」——实为 15 年。****世界田联讣告：「海因斯的世界纪录保持了 15 年——是全自动计时时代男子 100 米世界纪录中最长的一次——直到 1983 年被卡尔文·史密斯以 9.93 打破。」**另有《体育画报》、NBC、ESPN、阿肯色百科等**八家来源一致作 15 年**。**⚠ 这个数字此前不在 facts 里**——正是「每一个具体细节，是核过的还是现造的」这条查出来的。[World Athletics · Hines obituary](https://worldathletics.org/news/news/jim-hines-obituary)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-46.md）**：四处 A——「all three were ratified」被认定的是成绩不是人，改 all three times；「trips on the muzzle smoke, which he must answer」补 his watch、改 a cue he must answer；「the body」改 the governing body；**中文括注 muzzle 挂在「冒烟」上**，改挂「枪口」。B：括注 edge「便宜」改「优势」、unearned 改「不劳而获的」、scorer「记错」改「计分员」；中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-46.md）**：四处 A——「all three were ratified」被认定的是成绩不是人，改 all three times；「trips on the muzzle smoke, which he must answer」补 his watch、改 a cue he must answer；「the body」改 the governing body；**中文括注 muzzle 挂在「冒烟」上**，改挂「枪口」。B：括注 edge「便宜」改「优势」、unearned 改「不劳而获的」、scorer「记错」改「计分员」；中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-46.md）**：零 A。B：「成为强制」补「要求」；「稳居着没人破」改「稳稳立着，没人破」。"
       ],
       "metrics": {
         "words": 270,
@@ -241,7 +242,7 @@
         },
         {
           "w": "reigned",
-          "zh": "在位；居首",
+          "zh": "稳稳立着；称雄",
           "p": 4
         },
         {

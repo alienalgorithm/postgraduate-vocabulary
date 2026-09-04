@@ -32,7 +32,7 @@ Nobody could tell lemon from lime in the way that mattered, because no **reasoni
 
 然后它又回来了。1860 年代起，海军把地中海柠檬**换**(swapped)成自家加勒比**殖民地**(colonies)产的**青柠**(limes)——便宜，而且是**帝国**(imperial)自产的。一个**青柠**(lime)所含的**抗坏血酸**(ascorbic)**效力**(potency)只有柠檬的一小部分。汁液经**稀释**(diluted)、熬煮，盛在铜器里，而铜**毁**(wrecks)掉剩下的那点。**1870 年代**(eighteen-seventies)的极地队伍带着它，照样**烂**(rotted)掉。
 
-「莱姆佬」这个绰号就出自那次**对调**(exchange)。1850 年代美国水兵拿这份配给**称呼**(dubbed)英国人，这称呼**留**(stuck)了下来，比挣得它的那些**水手班子**(crews)存续得久得多。可它**纪念**(commemorates)的是解药被**削弱**(blunted)的那一天，不是它奏效的那一天。**海军**(Navy)为人所知的这个词，**颂扬**(celebrates)的正是它在这病上**最糟**(worst)的一次决断。
+「莱姆佬」这个绰号就出自那次**对调**(exchange)。1850 年代美国水兵拿这份配给**称呼**(dubbed)英国人，这称呼**留**(stuck)了下来，比得这个名号的那些**水手班子**(crews)留得久得多。可它**纪念**(commemorates)的是解药被**削弱**(blunted)的那一天，不是它奏效的那一天。**海军**(Navy)为人所知的这个词，**颂扬**(celebrates)的正是它在这病上**最糟**(worst)的一次决断。
 
 没人能在要紧的那一点上把柠檬和青柠分开，因为没有**推理**(reasoning)、也没有**配方**(recipe)告诉他们该称量什么。它们里头那个**起作用**(active)的东西，在 1932 年之前一直**无名**(unnamed)。一味没有**机理**(mechanism)的**解药**(cure)能被**照抄**(copied)，却守不住：当**分开**(divides)两样东西的那点看不见时，它们看上去就是**可互换的**(interchangeable)。在船上能做的每一次试验里，柠檬和青柠都是**分不出来的**(indistinguishable)。
 
@@ -65,3 +65,4 @@ Nobody could tell lemon from lime in the way that mattered, because no **reasoni
 - **⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——★ 这一处是事实错误：林德试验用的是柠檬与橙，citron（枸橼）是另一种果（原为 lemons，与 §1 的 lemon 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**
 - **★ 已核 · 两处改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「Scurvy stricken eighty」——stricken 是过去分词，作谓语缺助动词。已改为 had stricken。****二 · 「kept in copper casks」——cask 是木桶，铜制容器不叫 cask。已改为 kept in copper。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-44.md）**：英文零 A。**中文括注 unnamed 挂在「有名字」上，意思反了**，改「无名」；中文数字混用与空格统一。
+- **★★ 中文审读团两遍（见 notes/中文审读-44.md）**：零 A。B：「比挣得它的那些水手班子存续得久得多」改「比得这个名号的那些水手班子留得久得多」。

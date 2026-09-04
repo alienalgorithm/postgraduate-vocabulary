@@ -26,7 +26,7 @@
         },
         {
           "en": "The nickname limey dates from that **exchange**. American sailors **dubbed** the British by that ration in the 1850s, and it **stuck** long after the **crews** that earned it. But it **commemorates** the day the remedy was **blunted**, not the day it worked. The word the **Navy** is known by **celebrates** its **worst** call about that illness.",
-          "zh": "「莱姆佬」这个绰号就出自那次**对调**(exchange)。1850 年代美国水兵拿这份配给**称呼**(dubbed)英国人，这称呼**留**(stuck)了下来，比挣得它的那些**水手班子**(crews)存续得久得多。可它**纪念**(commemorates)的是解药被**削弱**(blunted)的那一天，不是它奏效的那一天。**海军**(Navy)为人所知的这个词，**颂扬**(celebrates)的正是它在这病上**最糟**(worst)的一次决断。"
+          "zh": "「莱姆佬」这个绰号就出自那次**对调**(exchange)。1850 年代美国水兵拿这份配给**称呼**(dubbed)英国人，这称呼**留**(stuck)了下来，比得这个名号的那些**水手班子**(crews)留得久得多。可它**纪念**(commemorates)的是解药被**削弱**(blunted)的那一天，不是它奏效的那一天。**海军**(Navy)为人所知的这个词，**颂扬**(celebrates)的正是它在这病上**最糟**(worst)的一次决断。"
         },
         {
           "en": "Nobody could tell lemon from lime in the way that mattered, because no **reasoning**, and no **recipe**, told them what to weigh. The **active** thing in them went **unnamed** until 1932. A **cure** without a **mechanism** can be **copied** but not kept: two things look **interchangeable** when what **divides** them is unseen. Lemon and lime were **indistinguishable** by every trial aboard.",
@@ -42,7 +42,8 @@
         "**本篇的机制边界**：这不是「海军愚蠢」的故事。**换青柠在当时是合理的**——更便宜、更易得、同属柑橘、同样是酸的，**而「酸」正是当时公认的有效成分**。**本文的论点在于：一味解药若只被当作配方而无机理，任何替换看上去都等价。****分不开的两样东西，就是可互换的**——直到有人能说出该称量什么为止。**这也解释了为什么 42 年的耽搁不是故事的重点**：真正致命的不是没用它，是用了却守不住。",
         "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——★ 这一处是事实错误：林德试验用的是柠檬与橙，citron（枸橼）是另一种果（原为 lemons，与 §1 的 lemon 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**",
         "**★ 已核 · 两处改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「Scurvy stricken eighty」——stricken 是过去分词，作谓语缺助动词。已改为 had stricken。****二 · 「kept in copper casks」——cask 是木桶，铜制容器不叫 cask。已改为 kept in copper。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-44.md）**：英文零 A。**中文括注 unnamed 挂在「有名字」上，意思反了**，改「无名」；中文数字混用与空格统一。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-44.md）**：英文零 A。**中文括注 unnamed 挂在「有名字」上，意思反了**，改「无名」；中文数字混用与空格统一。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-44.md）**：零 A。B：「比挣得它的那些水手班子存续得久得多」改「比得这个名号的那些水手班子留得久得多」。"
       ],
       "metrics": {
         "words": 270,
