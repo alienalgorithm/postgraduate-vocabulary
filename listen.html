@@ -40,23 +40,23 @@
     background:radial-gradient(120% 90% at 50% 8%,var(--board) 0%,var(--board-2) 78%);
     box-shadow:inset 0 0 60px rgba(0,0,0,.42), inset 0 2px 0 rgba(255,255,255,.06);
     display:flex;flex-direction:column;justify-content:center;align-items:center;
-    padding:clamp(14px,3.2vw,42px);text-align:center;gap:clamp(8px,1.6vw,20px)}
+    padding:clamp(12px,2.6vw,34px);text-align:center;gap:clamp(8px,1.6vw,20px)}
   .board::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.1;
     background-image:radial-gradient(rgba(255,255,255,.7) 1px,transparent 1px);background-size:5px 5px}
 
   /* 意群成对：一小段英文，紧跟它自己的中文，段与段之间留空
      ★ 不再上面一整句英文、下面一整句中文——那样眼睛要在长句两端来回找对应。 */
   .pairs{display:flex;flex-direction:column;align-items:center;
-    gap:clamp(9px,1.5vw,22px);width:100%;position:relative;z-index:1}
+    gap:clamp(8px,1.3vw,20px);width:100%;position:relative;z-index:1}
   .pair{display:flex;flex-direction:column;align-items:center;gap:clamp(2px,.45vw,7px);max-width:97%}
   .en,.zh{max-width:100%;line-height:1.3;position:relative;z-index:1;
     text-shadow:0 1px 0 rgba(0,0,0,.35), 0 0 14px rgba(255,255,255,.05)}
   .en{font-family:Poppins,'Century Gothic',ui-rounded,ui-sans-serif,'Segoe UI',system-ui,sans-serif;
     font-weight:700;letter-spacing:.045em;color:var(--chalk);
-    font-size:clamp(.95rem,2.85vw,2.05rem)}
+    font-size:clamp(1.02rem,3.15vw,2.35rem)}
   .zh{color:var(--chalk);font-weight:600;letter-spacing:.06em;
     font-family:'Noto Sans SC','Noto Sans CJK SC','PingFang SC','Microsoft YaHei',ui-sans-serif,sans-serif;
-    font-size:clamp(.86rem,2.3vw,1.62rem)}
+    font-size:clamp(.94rem,2.6vw,1.9rem)}
   /* 默认全亮；只有在播放时才逐词提亮，否则停着看就是一片灰 */
   .en w{transition:opacity .12s,text-shadow .12s;opacity:1;border-radius:3px}
   .playing .en w{opacity:.72}

@@ -10,6 +10,7 @@
 用法：
   python3 scripts/make_video.py 01                    # → reader/a01.mp4
   python3 scripts/make_video.py 01 --gap 0.35         # 句间停顿（秒）
+  python3 scripts/make_video.py 01 --tail 2.0         # 结尾静音缓冲（秒，默认 1.5）
   python3 scripts/make_video.py 01 --size 1280x720
 先跑 build_reader.py 生成音频与数据。
 """
@@ -143,23 +144,36 @@ def draw_sentence(bg, s, W, H):
     maxw = W - 2 * pad - int(W * 0.07)
     chunks = s.get('chunks') or [{"en": s['en'], "zh": s['zh']}]
 
-    for scale in (1.0, .94, .88, .82, .76, .7, .64, .58, .52, .46):
-        fe = font(F_EN, int(H * 0.062 * scale))
-        fz = font(F_ZH, int(H * 0.053 * scale), index=2)
+    # ★ 字号：**由大往小搜，取放得下的最大号**（用户 2026-09-04：字要大、但不能碰到木框）。
+    #   早先是从 1.0 起往下缩，短句也只能用 1.0，屏幕大片空着。
+    #   安全区 = 黑板内沿再往里收一圈，文字永远不贴框。
+    safe_x = int(W * 0.045)
+    safe_y = int(H * 0.055)
+    maxw = W - 2 * pad - 2 * safe_x
+    maxh = H - 2 * pad - 2 * safe_y
+    scale = 0.4
+    for cand in [round(2.4 - 0.02 * i, 2) for i in range(105)]:
+        fe = font(F_EN, max(8, int(H * 0.062 * cand)))
+        fz = font(F_ZH, max(8, int(H * 0.053 * cand)), index=2)
         sp_e = d.textlength(" ", font=fe)
-        lh_e = int(H * 0.082 * scale)
-        lh_z = int(H * 0.072 * scale)
-        gap_pair = int(H * 0.012 * scale)      # 英文与它的中文之间
-        gap_chunk = int(H * 0.036 * scale)     # 两个意群之间
-        blocks, total = [], 0
+        lh_e = int(H * 0.082 * cand)
+        lh_z = int(H * 0.072 * cand)
+        gap_pair = int(H * 0.011 * cand)
+        gap_chunk = int(H * 0.032 * cand)
+        blocks, total, over = [], 0, False
         for ci, c in enumerate(chunks):
             le = wrap(d, en_tokens(c['en']), fe, maxw, sp_e)
             lz = wrap(d, zh_tokens(c['zh']), fz, maxw, 0)
+            # 单个词就超宽（长单词、长中文块）→ 这一档不行
+            for ln in le + lz:
+                if any(w > maxw for _, _, w in ln):
+                    over = True
             blocks.append((le, lz))
             total += len(le) * lh_e + gap_pair + len(lz) * lh_z
             if ci < len(chunks) - 1:
                 total += gap_chunk
-        if total < H - 2 * pad - int(H * 0.05):
+        if not over and total <= maxh:
+            scale = cand
             break
 
     y = (H - total) // 2
@@ -188,6 +202,8 @@ def main():
     args = [x for x in sys.argv[1:] if not x.startswith("--")]
     aid = (args[0] if args else "01").zfill(2)
     gap = float(sys.argv[sys.argv.index("--gap") + 1]) if "--gap" in sys.argv else 0.32
+    # ★ 结尾缓冲（用户 2026-09-04）：最后一句读完再留一段静音，画面还在，然后才结束。
+    tail = float(sys.argv[sys.argv.index("--tail") + 1]) if "--tail" in sys.argv else 1.5
     size = sys.argv[sys.argv.index("--size") + 1] if "--size" in sys.argv else "1920x1080"
     W, H = (int(x) for x in size.split("x"))
 
@@ -203,7 +219,8 @@ def main():
         draw_sentence(bg, s, W, H).save(png)
         # 每句时长 = 音频解码时长 + 句间停顿（用 qc 里量到的真时长，不是原始波形）
         dur = s.get('qc', {}).get('opus', {}).get('dur') or s['dur']
-        concat_img.append("file '%s'\nduration %.3f\n" % (png, dur + gap))
+        last_extra = tail if s is data['sentences'][-1] else 0.0
+        concat_img.append("file '%s'\nduration %.3f\n" % (png, dur + gap + last_extra))
         concat_aud.append("file '%s'\n" % os.path.join(READER, s['audioAlt']))
         print("  %2d  %5.2fs  %s" % (s['i'], dur + gap, s['plain'][:50]))
     concat_img.append("file '%s'\n" % png)          # ffmpeg concat 要求最后一张再列一次
@@ -220,7 +237,7 @@ def main():
         inputs += ["-i", os.path.join(READER, s['audioAlt'])]
     filt = "".join("[%d:a]apad=pad_dur=%.3f[a%d];" % (i, gap, i) for i in range(len(data['sentences'])))
     filt += "".join("[a%d]" % i for i in range(len(data['sentences'])))
-    filt += "concat=n=%d:v=0:a=1[out]" % len(data['sentences'])
+    filt += "concat=n=%d:v=0:a=1[cat];[cat]apad=pad_dur=%.3f[out]" % (len(data['sentences']), tail)
     wav = os.path.join(work, "all.wav")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error"] + inputs +
                    ["-filter_complex", filt, "-map", "[out]", "-ar", "44100", "-ac", "1", wav], check=True)
