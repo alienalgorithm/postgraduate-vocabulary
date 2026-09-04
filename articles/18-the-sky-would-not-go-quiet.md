@@ -32,7 +32,7 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 
 不远处，普林斯顿的**物理学家**(physicists)罗伯特·迪克、詹姆斯·皮布尔斯、彼得·罗尔和戴维·威尔金森正在建造一台辐射计，**寻找**(seek)**原初宇宙留下的**(primordial)**遗存热辐射**(relic)。一位共同的朋友手里正拿着他们的预印本，给彭齐亚斯打了电话。**巧合**(coincidence)就此变成**合作**(collaboration)。1965 年 7 月，两篇**配套的**(companion)论文明确区分了角色：贝尔实验室提交实验**记述**(write-up)，普林斯顿给出**解释**(interpretation)。彭齐亚斯和威尔逊仍把这一解释视为**暂定的**(provisional)。
 
-一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE 测得它在 2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；而那点细微的斑驳则标出了后来结构的开端。
+一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE 测得它在 2.725 K 呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；而那点细微的斑驳则标出了后来结构的开端。
 
 这项发现常被归入**偶然发现**(serendipity)，但仅靠运气听不见早期宇宙。精湛的工程**技艺**(craftsmanship)让号角天线足够安静；严格的逐项**扣除**(subtraction)让**剩余信号**(remainder)变得**可信**(trustworthy)；普林斯顿则赋予它**宇宙学的**(cosmological)意义。这片**余辉**(afterglow)只是一声**低语**(whisper)；只有在每一个**自家**(homegrown)**嫌疑来源**(culprit)都被排除之后，它才成为证据——而天空仍不肯安静。
 
@@ -78,3 +78,4 @@ The discovery is often filed under **serendipity**, but chance alone did not hea
 - **已核（2026-08-20 逐条上网）· §1 一处约数已补回**：彭齐亚斯与威尔逊 1965 年论文（ApJ 142, 419–421）摘要原文为 「have yielded a value **about** 3.5 K higher than expected」——**原文写的是约数**，而正文此前写作 an excess temperature of 3.5 kelvin，把约数写成了确数，已补回 about。**这与第14篇差点删掉 almost three degrees 的 almost 是同一类错。**
 **§2 那句是原文摘要的逐字复述，无误**：「This excess temperature is, within the limits of our observations, isotropic, unpolarized, and free from seasonal variations (July, 1964–April, 1965)」。原文另载：天顶总天线温度 6.7 K，其中大气吸收 2.3 K，天线欧姆损耗与后瓣响应 0.9 K；频率 4080 Mc/s（7.35 厘米）。两篇姊妹论文同刊于 1965 年 7 月 1 日《天体物理学报》第 142 卷：普林斯顿组（Dicke、Peebles、Roll、Wilkinson）414—419 页，贝尔实验室组 419—421 页。[Science Explorer：1965ApJ...142..419P](https://scixplorer.org/abs/1965ApJ...142..419P/abstract)｜[Cambridge：3K — The Cosmic Microwave Background Radiation, Appendix A](https://www.cambridge.org/core/books/abs/3k-the-cosmic-microwave-background-radiation/measurement-of-excess-antenna-temperature-at-4080-mcs/28210077E85241B884BB87D24E9BDC26)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-18.md）**：一处 A——「called the reading provisional」暂定的是宇宙学解释（原论文如此，中文亦译「解释」），改 the interpretation。B：括注 writeup 改 write-up；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-18.md）**：零 A，零 B；补空格。

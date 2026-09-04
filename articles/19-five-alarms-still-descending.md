@@ -26,7 +26,7 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fi
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1969 年 7 月 20 日，「鹰」号动力**下降**(descent)开始五分钟后，1202 跳上了**座舱**(cockpit)**显示屏**(readout)。「给我们读一下1202程序**警报**(alarm)。」阿姆斯特朗说。**着陆**(touchdown)前还有四次，其中三次挤在四十秒的一阵**痉挛**(spasm)里——当时**着陆器**(lander)正掠过 3,000 英尺。每一次都意味着制导**跑赢**(outrun)了**周期**(cycle)：它的时间已经**用完**(elapsed)。
+1969 年 7 月 20 日，「鹰」号动力**下降**(descent)开始五分钟后，1202 跳上了**座舱**(cockpit)**显示屏**(readout)。「给我们读一下 1202 程序**警报**(alarm)。」阿姆斯特朗说。**着陆**(touchdown)前还有四次，其中三次挤在四十秒的一阵**痉挛**(spasm)里——当时**着陆器**(lander)正掠过 3,000 英尺。每一次都意味着制导**跑赢**(outrun)了**周期**(cycle)：它的时间已经**用完**(elapsed)。
 
 **交会**(rendezvous)**雷达**(radar)开着，是为一种**预案**(contingency)：**中止**(abort)返回轨道。可它的供电接线**错配**(mismatch)，让它不断索要并不需要的角度计数。**处理器**(processor)在这一段本已用掉 83% 的**算力**(capacity)；雷达又**占去**(claimed)13%。当奥尔德林**敲**(keyed)入一条显示指令，**余量**(slack)就没了。
 
@@ -74,3 +74,4 @@ Bales was twenty-six. He read his **telemetry**, heard Garman, and said go in fi
 - **已核 · 那个「40 万」**：**阿波罗计划高峰期直接参与人数约 400,000（40 万）**；**贝尔斯 1969 年获总统自由勋章，是代表整个任务控制团队领受的。****⚠ 40 万为常见约数，随统计口径而变，本文取整表述。**
 - **⚠ STR-03「结尾两句格言相邻」判为保留（2026-09-01 复核）**：**末段两句分属两层——前一句说系统为何能过载不垮，后一句说警报本身不是危机。****试过三种改法（插入具体事实、改写为陈述、缩短并联），每一种都要么超词数、要么把句子弄僵。****判为保留：为消掉这条报出而改坏结尾，正是本项目要防的那个病。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-19.md）**：三处 A——「a group award for 400,000」改 on behalf of；「called an evacuation」模拟里叫的是中止，换 bailout（博士）；「outrun the elapsed cycle」行话堆叠，改 outrun the cycle; its time had elapsed。中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-19.md）**：零 A，零 B；补空格。

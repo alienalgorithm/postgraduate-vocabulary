@@ -31,7 +31,7 @@
         },
         {
           "en": "One **wavelength** could not establish a black-body spectrum. Measurements at shorter wavelengths soon **corroborated** the **cosmic** **background** **radiation**. Decades later COBE measured a near-perfect black-body **profile** at 2.725 K and mapped **fluctuations** — **anisotropies** — near one part in 100,000. The nearly uniform **thermal** glow became a **signature** of a hot early cosmos; that faint patchiness marked the beginnings of later structure.",
-          "zh": "一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE 测得它在 2.725 K呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；而那点细微的斑驳则标出了后来结构的开端。"
+          "zh": "一个**波长**(wavelength)的数据不足以确立黑体谱。较短波段的测量很快**佐证了**(corroborated)关于**宇宙**(cosmic)**背景**(background)**辐射**(radiation)的这一解释。几十年后，COBE 测得它在 2.725 K 呈现近乎完美的黑体**谱形**(profile)，又绘出约十万分之一的微小**起伏**(fluctuations)，即**各向异性**(anisotropies)。近乎均匀的**热辐射**(thermal)余辉成为热早期宇宙的**特征印记**(signature)；而那点细微的斑驳则标出了后来结构的开端。"
         },
         {
           "en": "The discovery is often filed under **serendipity**, but chance alone did not hear the early universe. Engineering **craftsmanship** quieted the horn; disciplined **subtraction** made the **remainder** **trustworthy**; Princeton supplied **cosmological** meaning. The **afterglow** was a **whisper**; it became evidence only after every **homegrown** **culprit** had been ruled out, and the sky would not go quiet.",
@@ -311,7 +311,8 @@
         "来源：[1978年诺贝尔物理学奖新闻稿](https://www.nobelprize.org/prizes/physics/1978/press-release/)",
         "COBE 测得的宇宙微波背景各向异性幅度约为10⁻⁵量级，即约十万分之一。[NASA COBE 结果]　[Penzias & Wilson 1965, ApJ 142:419（原文摘要）](https://scixplorer.org/abs/1965ApJ...142..419P/abstract)",
         "**已核（2026-08-20 逐条上网）· §1 一处约数已补回**：彭齐亚斯与威尔逊 1965 年论文（ApJ 142, 419–421）摘要原文为 「have yielded a value **about** 3.5 K higher than expected」——**原文写的是约数**，而正文此前写作 an excess temperature of 3.5 kelvin，把约数写成了确数，已补回 about。**这与第14篇差点删掉 almost three degrees 的 almost 是同一类错。**\n**§2 那句是原文摘要的逐字复述，无误**：「This excess temperature is, within the limits of our observations, isotropic, unpolarized, and free from seasonal variations (July, 1964–April, 1965)」。原文另载：天顶总天线温度 6.7 K，其中大气吸收 2.3 K，天线欧姆损耗与后瓣响应 0.9 K；频率 4080 Mc/s（7.35 厘米）。两篇姊妹论文同刊于 1965 年 7 月 1 日《天体物理学报》第 142 卷：普林斯顿组（Dicke、Peebles、Roll、Wilkinson）414—419 页，贝尔实验室组 419—421 页。[Science Explorer：1965ApJ...142..419P](https://scixplorer.org/abs/1965ApJ...142..419P/abstract)｜[Cambridge：3K — The Cosmic Microwave Background Radiation, Appendix A](https://www.cambridge.org/core/books/abs/3k-the-cosmic-microwave-background-radiation/measurement-of-excess-antenna-temperature-at-4080-mcs/28210077E85241B884BB87D24E9BDC26)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-18.md）**：一处 A——「called the reading provisional」暂定的是宇宙学解释（原论文如此，中文亦译「解释」），改 the interpretation。B：括注 writeup 改 write-up；数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-18.md）**：一处 A——「called the reading provisional」暂定的是宇宙学解释（原论文如此，中文亦译「解释」），改 the interpretation。B：括注 writeup 改 write-up；数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-18.md）**：零 A，零 B；补空格。"
       ]
     }
   ]);

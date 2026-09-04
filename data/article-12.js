@@ -19,7 +19,7 @@
       "paras": [
         {
           "en": "To date the Earth, Harrison Brown's group used **nuclear** **decay**: two **uranium** **isotopes** **convert** into different lead isotopes at known **rates**, so the ratios are **clocks**. But **crustal** stone is remade again and again, its clocks reset. Brown proposed that iron **meteorites** still held the untouched lead of the solar system's **origin**.",
-          "zh": "为给地球定年，哈里森·布朗的团队用的是**核**(nuclear)**衰变**(decay)：两种**铀**(uranium)**同位素**(isotopes)以已知**速率**(rates)**转变**(convert)成不同的铅同位素，它们的比值因此就是**时钟**(clocks)。可**地壳**(crustal)岩石一再重造。布朗提出，铁**陨石**(meteorites)里仍封存着太阳系**起源**(origin)时那批未经扰动的铅。"
+          "zh": "为给地球定年，哈里森·布朗的团队用的是**核**(nuclear)**衰变**(decay)：两种**铀**(uranium)**同位素**(isotopes)以已知**速率**(rates)**转变**(convert)成不同的铅同位素，它们的比值因此就是**时钟**(clocks)。可**地壳**(crustal)岩石一再重造，时钟一次次归零。布朗提出，铁**陨石**(meteorites)里仍封存着太阳系**起源**(origin)时那批未经扰动的铅。"
         },
         {
           "en": "He split the work: George Tilton on uranium, Clair Patterson on lead. Yet every sample-free laboratory **blank** held lead. **Dust** carried it; **reagents**, **surfaces** and **glassware** **contaminated** every sample. At Caltech from 1952 Patterson built a **sterile** room, **filtered** the air, **sealed** his containers and washed them in **acid**.",
@@ -298,7 +298,8 @@
         "**产业界的反制**：乙基公司聘用的工业毒理学家罗伯特·凯霍将帕特森的结论斥为不科学的狂热与「煽动闹事」；此后多家研究机构（含美国公共卫生署）中止与他的合同；1971年，在业界游说影响下，他被排除在美国国家研究委员会评估大气铅污染的专家组之外。[Grokipedia：Clair Patterson](https://grokipedia.com/page/clare_patterson)",
         "环保署自1973年起分阶段削减汽油含铅量；1976年美国每月约有逾10万吨铅进入汽油，1980年降至不足5万吨，同期美国人平均血铅下降近50%；1986年环保署禁用四乙基铅。[Caltech：Getting the Lead Out](https://www.caltech.edu/about/news/getting-lead-out-47935)",
         "**已核（2026-08-20 逐条上网）· 八项无误，两处两说，零翻案**：\n**4.55 亿年**（原文 4.55 billion years，1956 年论文《Age of Meteorites and the Earth》，此数至今未被撼动；美国科学院传记载完整数据给出 ²⁰⁷Pb/²⁰⁶Pb 年龄 **4.55 ± 0.07** 十亿年）；**峡谷魔鬼陨石的陨硫铁（troilite）相**用于测定原始铅同位素组成；**1953 年完成该项分析**；**在加州理工从零建起实验室**——封死一切进气与污染通道、所有器皿酸洗、所有试剂自行蒸馏，**是最早的洁净室之一**；**1965 年 9 月**《Archives of Environmental Health》刊出其论文，指今人**铅负荷可达工业化前祖先的百倍**（加州理工原文：as much as **100 times** that of our preindustrial ancestors），并直斥「the average resident of the United States is being subjected to severe chronic lead insult」；采样涵盖**海水、拉森峰降雪与远古海洋沉积物**；**含铅汽油于 1986 年在美国基本淘汰**；帕特森 1995 年 12 月 5 日卒。\n**两处两说**：\n**一 · 到加州理工的年份**——本文作 **1952**（californiacurated 与 maketecheasier 均作 1952，布朗 1952 年接受教职）；**维基、HandWiki、Kiddle 作 1953**。两说并存，本文取 1952。\n**二 · 质谱测量在何处**——维基作**阿贡国家实验室**；美国科学院传记作「化学分离在加州理工完成，**质谱测量仍在芝加哥大学英格拉姆实验室**」。**正文只写 sent it to a mass spectrometer，未指地点——在两说之间不指地点是最稳的写法。**[Wikipedia：Clair Patterson](https://en.wikipedia.org/wiki/Clair_Patterson)｜[Caltech：Getting the Lead Out](https://www.caltech.edu/about/news/getting-lead-out-47935)｜[NAS Biographical Memoirs：Clair Cameron Patterson](https://www.nationalacademies.org/read/6201/chapter/16)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-12.md）**：一处 A——开篇「used nuclear decay」不说为了什么（中文有「为给地球定年」），英文补 To date the Earth。中文 §2「马克·英格拉姆协助」英文无，删；数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-12.md）**：一处 A——开篇「used nuclear decay」不说为了什么（中文有「为给地球定年」），英文补 To date the Earth。中文 §2「马克·英格拉姆协助」英文无，删；数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-12.md）**：零 A。B：「地壳岩石一再重造」漏「its clocks reset」，补「时钟一次次归零」。"
       ]
     }
   ]);

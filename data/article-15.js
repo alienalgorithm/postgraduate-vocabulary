@@ -300,7 +300,8 @@
         "**已核（2026-08-20 极限轮）· §4 结局与因果均已订正**：原文作「Electrically triggered rivals **won the trials**, but he judged their wiring too frail for freight」——**把结局说反了**。\n**实况**：伯灵顿试验分数轮。电动（电气触发）方案在 **1886 年头几轮领先**；威斯汀豪斯因此造出**速动三通阀**（1887 年），**在 1887—1888 年的竞标试验中，其方案优越到被定为通用标准**（Buffalo History Gazette：During competitive trials in 1887-1888, the Westinghouse design proved so superior that it was made the universal standard）。\n**原文的因果次序也是反的**：写成「他先把 20 秒削到 2.5 秒、然后对手赢了」；**真实次序是对手先领先，逼他做出速动阀，他才赢下最后一轮**。已改为 led the early trials … and won the last。另核实无误：1869 年首项专利、1872／1873 年三通阀、1887年11月4日伊利铁路 50 节货车试验、洛伦佐·科芬与爱荷华 1890 年立法、1893 年《铁路安全设备法》。[Buffalo History Gazette：Westinghouse Air Brake](https://www.buffalohistorygazette.net/search/label/Westinghouse%20Air%20Brake)｜[ASME：The Janney Coupler](https://www.asme.org/wwwasmeorg/media/resourcefiles/aboutasme/history/landmarks/267.pdf)",
         "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——「how you did the checking」不是英文说法（原为 how you stopped，与 §1 的 stopping 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**",
         "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「An engine-driven bellows」——空气制动的气源是蒸汽驱动的空气泵，bellows 是风箱，压不出制动用的气压。中文侧本已译作「气泵」，是英文用错了词。pump 撞第01篇、compressor 撞第16篇，已改为 steam-driven air pump（pump 不占名额，steam-driven 占）。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-15.md）**：零 A。中文数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-15.md）**：零 A。中文数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-15.md）**：零 A，零 B——两遍无停顿。"
       ]
     }
   ]);

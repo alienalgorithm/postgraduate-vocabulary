@@ -78,3 +78,4 @@ Three men made the finding **collective**: Marsden counted flashes, Geiger broug
 **卢瑟福 1911 年论文**《The Scattering of α and β Particles by Matter and the Structure of the Atom》；他自述「就像你朝一张纸巾打了一发十五英寸炮弹、它却弹回来打中你」。
 另：盖革与马斯登 1913 年由此算得**原子中心的基本电荷数约为原子量之半**。[ChemTeam：Geiger-Marsden 1913 原文](https://www.chemteam.info/Chem-History/GeigerMarsden-1913/GeigerMarsden-1913.html)｜[ChemTeam：Rutherford Experiment](https://www.chemteam.info/AtomicStructure/Rutherford-Model.html)｜[Geiger & Marsden 1913 PDF](http://fisica.ufpr.br/mossanek/etc/geiger_marsden.pdf)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-17.md）**：一处 A——「returning towards incidence」改 to the side of incidence。B：「Rutherford required」改 Rutherford's model required；括注 account for 去掉否定，改「解释；说明」；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-17.md）**：零 A，零 B——两遍无停顿。

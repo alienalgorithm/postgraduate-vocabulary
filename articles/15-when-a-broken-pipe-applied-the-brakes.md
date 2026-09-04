@@ -68,3 +68,4 @@ Proof was not adoption: railways fitted it where it paid. Lorenzo Coffin, an Iow
 - **⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——「how you did the checking」不是英文说法（原为 how you stopped，与 §1 的 stopping 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「An engine-driven bellows」——空气制动的气源是蒸汽驱动的空气泵，bellows 是风箱，压不出制动用的气压。中文侧本已译作「气泵」，是英文用错了词。pump 撞第01篇、compressor 撞第16篇，已改为 steam-driven air pump（pump 不占名额，steam-driven 占）。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-15.md）**：零 A。中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-15.md）**：零 A，零 B——两遍无停顿。

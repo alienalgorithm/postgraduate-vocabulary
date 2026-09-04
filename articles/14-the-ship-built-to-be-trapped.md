@@ -70,3 +70,4 @@ Fram **emerged** near Svalbard that August; every man went home **alive**. The *
 **1896 年 6 月在法兰士约瑟夫地弗洛拉角凑巧走进杰克逊营地**。
 **一处两说并存**：船员人数——**国家地理作「a crew of 13」**（本文所取）；**维基作「provisions for twelve men」、Oceanwide 与 Goodreads 作「a party of 12」**。通常的解释是南森本人加十二名队员共十三人，而计划书按十二人备粮。两说此存照。[Wikipedia：Nansen's Fram expedition](https://en.wikipedia.org/wiki/Nansen's_Fram_expedition)｜[WHOI：Nansen and the Drift of the Fram](https://www2.whoi.edu/site/beaufortgyre/history/nansen-and-the-drift-of-the-fram-1893-1896)｜[National Geographic：1,000 Days in the Ice](https://www.nationalgeographic.com/magazine/article/nansen)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-14.md）**：零 A。中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-14.md）**：零 A，零 B——两遍无停顿。

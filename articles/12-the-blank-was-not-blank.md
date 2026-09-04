@@ -26,7 +26,7 @@ Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Fundin
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-为给地球定年，哈里森·布朗的团队用的是**核**(nuclear)**衰变**(decay)：两种**铀**(uranium)**同位素**(isotopes)以已知**速率**(rates)**转变**(convert)成不同的铅同位素，它们的比值因此就是**时钟**(clocks)。可**地壳**(crustal)岩石一再重造。布朗提出，铁**陨石**(meteorites)里仍封存着太阳系**起源**(origin)时那批未经扰动的铅。
+为给地球定年，哈里森·布朗的团队用的是**核**(nuclear)**衰变**(decay)：两种**铀**(uranium)**同位素**(isotopes)以已知**速率**(rates)**转变**(convert)成不同的铅同位素，它们的比值因此就是**时钟**(clocks)。可**地壳**(crustal)岩石一再重造，时钟一次次归零。布朗提出，铁**陨石**(meteorites)里仍封存着太阳系**起源**(origin)时那批未经扰动的铅。
 
 他把活分开：乔治·蒂尔顿测铀，克莱尔·帕特森测铅。可是每一份不含样品的实验室**空白**(blank)里，都有铅。**灰尘**(dust)带来它；**试剂**(reagents)、**器壁**(surfaces)、**玻璃器皿**(glassware)**污染**(contaminated)了每一份样品。1952 年起在加州理工，帕特森建起**无菌**(sterile)室，把空气**过滤**(filtered)，容器**密封**(sealed)，器皿用**酸**(acid)洗。
 
@@ -68,3 +68,4 @@ Ethyl Corporation's **toxicologist** Robert Kehoe called it **zealotry**. Fundin
 **一 · 到加州理工的年份**——本文作 **1952**（californiacurated 与 maketecheasier 均作 1952，布朗 1952 年接受教职）；**维基、HandWiki、Kiddle 作 1953**。两说并存，本文取 1952。
 **二 · 质谱测量在何处**——维基作**阿贡国家实验室**；美国科学院传记作「化学分离在加州理工完成，**质谱测量仍在芝加哥大学英格拉姆实验室**」。**正文只写 sent it to a mass spectrometer，未指地点——在两说之间不指地点是最稳的写法。**[Wikipedia：Clair Patterson](https://en.wikipedia.org/wiki/Clair_Patterson)｜[Caltech：Getting the Lead Out](https://www.caltech.edu/about/news/getting-lead-out-47935)｜[NAS Biographical Memoirs：Clair Cameron Patterson](https://www.nationalacademies.org/read/6201/chapter/16)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-12.md）**：一处 A——开篇「used nuclear decay」不说为了什么（中文有「为给地球定年」），英文补 To date the Earth。中文 §2「马克·英格拉姆协助」英文无，删；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-12.md）**：零 A。B：「地壳岩石一再重造」漏「its clocks reset」，补「时钟一次次归零」。
