@@ -18,11 +18,11 @@
         },
         {
           "en": "The obstacle then went away. William Cookworthy found **kaolin** and **feldspar** in a **Cornish** **quarry** and patented the hard **paste** in 1768. It passed to Champion, then to a Staffordshire consortium, and lapsed in 1796. From that year any **craftsman** could work the true **mineral** and sell the **wares** — **dish** or **bowl** — unhindered.",
-          "zh": "然后那道障碍消失了。威廉·库克沃西在一处**康沃尔**(Cornish)**采石场**(quarry)找到了**高岭土**(kaolin)与**长石**(feldspar)，1768 年为硬**瓷胎**(paste)申了专利。专利转给钱皮恩，再转给斯塔福德郡的一伙人，1796 年到期。从那一年起，任何**匠人**(craftsman)都能用上真正的**矿料**(mineral)，把**器皿**(wares)——**盘**(dish)也好**碗**(bowl)也好——卖个痛快。"
+          "zh": "然后那道障碍消失了。威廉·库克沃西在一处**康沃尔**(Cornish)**采石场**(quarry)找到了**高岭土**(kaolin)与**长石**(feldspar)，1768 年为硬**瓷胎**(paste)申了专利。专利转给钱皮恩，再转给斯塔福德郡的一个财团，1796 年到期。从那一年起，任何**匠人**(craftsman)都能用上真正的**矿料**(mineral)，把**器皿**(wares)——**盘**(dish)也好**碗**(bowl)也好——卖个痛快。"
         },
         {
           "en": "Almost none did. Josiah Spode had fixed his mixture around 1790 and it became the English rule, **moulded** and **thrown** in every Staffordshire pottery: six of ash, four of stone, three and a half of clay, **fired** twice. A **teapot** so made **chimed** when tapped; **spout** and **lid** rang one note, and the **crockery** took **enamel** without a **hairline**.",
-          "zh": "却几乎没人回头去用。约西亚·斯波德约 1790 年定下了他的配比，那成了英国的规矩，在斯塔福德郡每一家陶厂里被**模压**(moulded)、被**拉坯**(thrown)：六份灰、四份石、三份半土，**烧**(fired)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上了**釉彩**(enamel)也不起一道**发丝纹**(hairline)。"
+          "zh": "却几乎没人回头去用。约西亚·斯波德约 1790 年定下了他的配比，那成了英国的规矩，斯塔福德郡每一家陶厂都照它**模压**(moulded)、**拉坯**(thrown)：六份灰、四份石、三份半土，**烧**(fired)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上了**釉彩**(enamel)也不起一道**发丝纹**(hairline)。"
         },
         {
           "en": "Read the proportions. The **silica** is in it. The **pottery** stone is in it. The bone was never a **surrogate** for a missing **oxide**: nothing is missing. It is a third **ingredient** added to both. The **firing** takes the **biscuit**, cast from **slip**, through a second **sintering**, then a **glaze**.",
@@ -44,7 +44,7 @@
         "**★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「burnt cattle carcass」——骨瓷用的是烧骨，不是烧整个尸体。carcass 含肉，已改为 skeletons。****二 · 「baked twice」「a second bake」——陶工说 fired，不说 baked；本篇通篇是 biscuit／glaze／slip 的技术语域，baked 是唯一的外行词。已改为 fired／firing。****⚠ VAL-13 判为保留（fired／firing 与本篇原有 firing 同词元）**：**陶工只有这一个词；换成别的就是外行话。判据：两个形式占两个名额，代价是读者背两次；换成不对的词，代价是句子不成立。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「read a candle through」——透光的说法是 see through，改 see。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-52.md）**：两处 A——「thrown in every Staffordshire kiln」拉坯在作坊不在窑里，改 pottery；§4 slip 的工序顺序可疑（博士：骨瓷是注浆成型），改 the biscuit, cast from slip, through a second sintering, then a glaze。括注 bloom「光」与 lustre 撞，改「莹润」；中文数字加空格。",
-        "**★★ 中文审读团两遍（见 notes/中文审读-52.md）**：零 A。B：「上釉彩而不起」改「上了釉彩也不起」；「加进这两样之外的」改「在这两样之外加进去的」。"
+        "**★ 中文第三遍冷读**：「一伙人」改「一个财团」；「被模压、被拉坯」改「都照它模压、拉坯」。"
       ],
       "metrics": {
         "words": 267,

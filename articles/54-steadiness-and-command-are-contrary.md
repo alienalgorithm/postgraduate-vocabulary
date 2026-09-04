@@ -68,4 +68,4 @@ The 1902 machine flew 700 times off the **dunes**. Steadiness and command are no
 - **★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「a passenger of the breeze and its swells」——swells 是海浪的涌，不是气流；航空人说 gusts（撞21篇）。已改为 eddies（气涡）。****二 · 「made it cant」——cant 是「倾斜」的通称，航空说 bank（白送词）。已改为 tilt。****三 · 「Every fin and camber that steadies a machine」——camber 是翼型弧度，增升力而不直接稳定飞机；****早期航空称垂直稳定面为 keel surface，已改为 keel。****⚠ 三处的词都 vet 过、合规，错在放的位置。与第55篇 dike、第60篇 stalk／mash 同型。**
 - **★ 冷读改正（2026-09-04，隔日）**：①「Langley」是人名加粗，专名不是可学的词，名额改 theorists；②标题是「Steadiness and Command」，末段却写 Steadiness and grip——改为 command（不加粗），grip 移到「the hand's grip on it」。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-54.md）**：三处 A——「had it in the shop」it 的先行词是 objection，改 had the answer；「felled him at it」改 doing it；§1 逗号拼接改分号。B：括注 buffet「阵风」改「颠簸」；中文「不是三个」英文无，删。「**inherent**ly」劈词，inherently 与 inherent 同词元无处可换，留。
-- **★★ 中文审读团两遍（见 notes/中文审读-54.md）**：零 A。B：「微风与它一起一伏的涡流的乘客」拆；「固有地稳」改「天生就稳」；「回应」改「反应」；「是被故意做成不稳的」改「是故意做得不稳的」。
+- **★ 中文第三遍冷读（2026-09-04）**：无改动——上一轮两遍已把「微风的乘客」「天生就稳」「成了无意识的」改好。

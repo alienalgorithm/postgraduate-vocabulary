@@ -66,4 +66,4 @@ A **magistrate** could give **gaol**; for a night **affray**, **transportation**
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条）**：**原文「until a rifle goes off」——19 世纪猎场与偷猎用的是猎枪（shotgun），rifle 是来复枪，打鸟不用。****这个 rifle 是早先为消 VAL-13 从 gun 换来的——为消一条待核换出了一个不对的词。已改为 shotgun。**
 - **★ 冷读改正（2026-09-04，隔日）**：「After 1831 it came back」——it 指什么不清，改为 it was the landlord's。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-53.md）**：两处 A——「the game he rented」租的是地，改 the game on land he rented；「more than a household ate」改 could eat。B：「from Asia, an Asiatic bird」去叠；括注 coverts「林荫地」改「掩蔽林」、gaol「监禁」改「监狱」；中文数字加空格。
-- **★★ 中文审读团两遍（见 notes/中文审读-53.md）**：零 A。B：「为它的羽色被重新引入」「可以判进监狱」（缺宾语）「使…得以成立的那样东西」三处改顺。
+- **★ 中文第三遍冷读**：无改动。

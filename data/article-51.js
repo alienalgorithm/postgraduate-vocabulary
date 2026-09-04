@@ -22,11 +22,11 @@
         },
         {
           "en": "That is the point usually missed. The **synthetic** was not a cheap stand-in for a natural material. It lifted a limit. Until then a **bouquet** could be **composed** only from what grew: you **distilled** a **petal**, crushed a **rind**, tapped a **resin**, ground a **bark**. **Botany** set the **palette**, not **imagination**.",
-          "zh": "而这一点常被忽略：**合成物**(synthetic)并不是天然原料的廉价替身。它抬掉了一道限制。在此之前，一束**香**(bouquet)只能由长出来的东西**调成**(composed)：你**蒸馏**(distilled)一片**花瓣**(petal)，压碎一层**果皮**(rind)，割取一块**树脂**(resin)，磨碎一片**树皮**(bark)。定下**调色盘**(palette)的是**植物学**(botany)，不是**想象力**(imagination)。"
+          "zh": "而这一点常被忽略：**合成物**(synthetic)并不是天然原料的廉价替身。它拿掉了一道限制。在此之前，一束**香**(bouquet)只能由长出来的东西**调成**(composed)：你**蒸馏**(distilled)一片**花瓣**(petal)，压碎一层**果皮**(rind)，割取一块**树脂**(resin)，磨碎一片**树皮**(bark)。定下**调色盘**(palette)的是**植物学**(botany)，不是**想象力**(imagination)。"
         },
         {
           "en": "Before 1882 the trade's **repertoire** held roughly two hundred materials, nearly all of them **extracts**, **absolutes** and **oils**. By the middle of the next century that **array** passed three thousand. The **aroma** chemicals had come to **outnumber** the plants — a **gamut** no **thicket** or **woodland** had grown.",
-          "zh": "1882 年之前，这一行的**曲目单**(repertoire)上大约有两百种材料，几乎全是**萃取物**(extracts)、**净油**(absolutes)与**精油**(oils)。到下一个世纪中叶，这个**系列**(array)超过了三千。**香料**(aroma)分子的数目已经**多过**(outnumber)植物——那是一整个没有哪片**灌丛**(thicket)或**林地**(woodland)长出过的**谱系**(gamut)。"
+          "zh": "1882 年之前，这一行的**家底**(repertoire)里大约有两百种材料，几乎全是**萃取物**(extracts)、**净油**(absolutes)与**精油**(oils)。到下一个世纪中叶，这个**系列**(array)超过了三千。**香料**(aroma)分子的数目已经**多过**(outnumber)植物——那是一整个没有哪片**灌丛**(thicket)或**林地**(woodland)长出过的**谱系**(gamut)。"
         },
         {
           "en": "And the first **accord** built this way was named for a plant that does not smell. Parquet was not **copying** an **odour** any **sniff** in the **undergrowth** could catch, nor **reproducing** the **damp** green of a fern bed. He **blended** one that had never existed, then named it after the thing it **evoked**.",
@@ -44,7 +44,7 @@
         "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「tapped a resin or a bark」——tap 是割取树胶树脂的动作，树皮不能『割取』，它是磨碎后浸提或蒸馏。****已改为 tapped a resin, ground a bark，四个动作各配各的原料。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「the essence in that pod」——that 无先行词，改为 the tonka pod。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-51.md）**：三处 A——**「thirteen years before」算错，1868→1882 是十四年**（博士逮的），改 fourteen；「no thicket or woodland in the whole gamut grew one of them」灌丛不在谱系里，改 a gamut no thicket or woodland had grown；「any sniff could find」改 could catch。B：§1 长句断开；括注 array「清单」改「系列」；中文空格。",
-        "**★★ 中文审读团两遍（见 notes/中文审读-51.md）**：零 A。B：「这瓶配方」量词改「这个」。"
+        "**★ 中文第三遍冷读**：「抬掉了一道限制」改「拿掉」；repertoire「曲目单」改「家底」。"
       ],
       "metrics": {
         "words": 264,
@@ -209,7 +209,7 @@
         },
         {
           "w": "repertoire",
-          "zh": "曲目单；储备",
+          "zh": "全部手段；家底",
           "p": 4
         },
         {
