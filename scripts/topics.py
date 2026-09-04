@@ -65,7 +65,7 @@ TOPICS = [
     ("运河", "运河船是马拉的，速度靠马不靠水", "canal barge towpath lock horse tow-rope wharf aqueduct tunnel leg", False),
     ("驿马邮政", "Pony Express 只跑了十八个月", "pony rider saddle mochila relay station telegraph mailbag stirrup gallop", False),
     ("罐头", "罐头比开罐器早四十八年", "tin can solder opener bayonet hammer chisel sailor ration rust", False),
-    ("火柴", "安全火柴安全的是盒子不是火柴", "match phosphorus striker box tipping sulphur splint jaw factory girl", False),
+    ("火柴", "安全火柴安全的是盒子不是火柴——可用 35，论证段是病程与年份，两稿 13+ 即停", "match phosphorus striker box tipping sulphur splint jaw factory girl", True),
     ("铅笔", "铅笔里从来没有铅", "pencil graphite cedar clay kiln shaft eraser sharpener mine Borrowdale", False),
     ("怀表", "怀表的链子是为了偷不是为了挂", "watch chain fob pocket pickpocket waistcoat winder crystal escapement", False),
     ("领带", "领带是克罗地亚雇佣兵的围巾", "cravat scarf knot collar mercenary regiment neckcloth silk starch stock", False),
