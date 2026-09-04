@@ -11,11 +11,11 @@
 
 Every **storybook** tells how the Great Fire spread in 1666: a **spark** in a Pudding Lane **bakery**, **reed** and **straw** catching from **rafter** to rafter across a city of **thatch**, **cinders** on the wind, the **blaze** riding the **kindling** overhead. The Fire Brigade's museum page says so.
 
-Thatch had been outlawed in the City 450 years. In 1212 a fire killed some 3,000 of 20,000. Two days later the **mayor** ordered **builders** to roof in **tile**, **shingle**, **boards** or lead, not reed, **rush** or **litter**; a house already thatched was **plastered** in eight days or **demolished** by the **aldermen**.
+Thatch had been outlawed in the City 450 years. In 1212 a fire killed 3,000 of 20,000. Two days later the **mayor** ordered **builders** to roof in **tile**, **shingle**, **boards** or lead, not reed, **rush** or **litter**; a thatched house was to be **plastered** in eight days or **demolished** by the **aldermen**.
 
-The rule had tools. Each **alderman** kept an iron hook to pull burning thatch off a roof; each large house kept ladders, **pail** and **bucket**; the **beadle** carried a horn, the **watchman** and **lantern-bearer** walked the **curfew**, the **sheriffs** viewed the work, a slack watch was **fined**. In 1598 Stow wrote that no such fire had come since.
+The rule had tools. Each **alderman** kept an iron hook to pull burning thatch off roofs; each large house kept ladders, **pail** and **bucket**; the **beadle** carried a horn, the **watchman** and **lantern-bearer** walked the **curfew**, the **sheriffs** viewed the work, a slack watch was **fined**. In 1598 Stow wrote no such fire had come since.
 
-By 1666 nearly every roof was **tiles**, the bakery's too. No account of the time blames thatch; two blame houses: **wattle** walls dry as **tinder** after a **drought**, upper storeys in **overhang** over the **alley** till they touched, cellars of **tar**, **tallow** and **gunpowder**. The fire ran along timber and **jetties**; the roof above never mattered.
+By 1666 nearly every roof was **tiles**, the bakery's too. No account of the time blames thatch; two blame the houses: **wattle** walls dry as **tinder** after a **drought**, upper storeys built out in **overhang** till they met across the **alley**, cellars of **tar**, **tallow** and **gunpowder**. The fire ran along timber and **jetties**; the roof never mattered.
 
 The **refugees** in Moorfields roofed their **huts** with thatch. The City rose in **brickwork** and **mortar**, **masons** raising **party-wall** and **parapet**, **insurance** offices keeping **firemen**, **engines**, a **squirt**. The rule of 1212 worked four centuries, then vanished from the story of the fire it was made to prevent; the credit went to a roof that was not there.
 
@@ -28,7 +28,7 @@ The **refugees** in Moorfields roofed their **huts** with thatch. The City rose 
 
 每本**故事书**(storybook)都这么讲 1666 年大火是怎么烧开的：布丁巷一家**面包房**(bakery)里的一点**火星**(spark)，**芦苇**(reed)和**麦秸**(straw)从一根**椽子**(rafter)烧到另一根，烧遍一座**茅草**(thatch)的城，**火星灰**(cinders)随风飞，**大火**(blaze)踩着头顶的**引火物**(kindling)跑。消防局博物馆的网页也是这么写的。
 
-茅草在伦敦城里已经被禁了 450 年。1212 年一场火烧死了 20,000 人里的约 3,000。两天后**市长**(mayor)下令**营造者们**(builders)只准用**瓦**(tile)、**木瓦**(shingle)、**木板**(boards)或铅盖顶，不准用芦苇、**灯芯草**(rush)或任何**碎草**(litter)；已经盖了茅草的房子八天内**抹灰**(plastered)，否则由**市政官们**(aldermen)**拆掉**(demolished)。
+茅草在伦敦城里已经被禁了 450 年。1212 年一场火烧死了 20,000 人里的 3,000。两天后**市长**(mayor)下令**营造者们**(builders)只准用**瓦**(tile)、**木瓦**(shingle)、**木板**(boards)或铅盖顶，不准用芦苇、**灯芯草**(rush)或任何**碎草**(litter)；已经盖了茅草的房子八天内**抹灰**(plastered)，否则由**市政官们**(aldermen)**拆掉**(demolished)。
 
 规矩配着工具。每位**市政官**(alderman)备一根铁钩，用来把着火的茅草从屋顶上拽下来；每户大宅备梯子、**桶**(pail)和**水桶**(bucket)；**教区差役**(beadle)带号角，**守夜人**(watchman)和**提灯人**(lantern-bearer)走**宵禁**(curfew)，**郡长们**(sheriffs)查验工程，懈怠的值夜要**罚款**(fined)。1598 年斯托写道，自那以后再没有这样的大火。
 
@@ -63,3 +63,4 @@ The **refugees** in Moorfields roofed their **huts** with thatch. The City rose 
 - **已核 · 难民的茅屋**：**「笛福记下许多难民。他回忆他们为迎接冬天搭起温暖的小屋，常常盖着茅草顶。许多人在摩尔菲尔德安家——那仍是开阔地，他们的祖先曾在那里收割茅草。」**[Thatching Info 同上]
 - **⚠ 四处表述取舍**：①「450 年」——1212 至 1666 为 454 年（若从 1189 算为 477 年），取整；②「提灯人」「宵禁」为中世纪守夜通例，法令原文说的是「守夜人白天出发白天返回」；③「砖砌、隔墙、女儿墙、保险公司消防队」为 1667 年重建法与 17 世纪末保险公司消防队的通识；④**末段「功劳归了一个并不在那里的屋顶」是本文的推论表述**。**⚠ 一处改正**：第十稿曾写「the slate above」——1666 年伦敦屋顶是陶瓦，石板瓦是 19 世纪才普及的，人读第二问逮出，改为 the roof。**⚠ 一处时代错位改正**：squirt（手压水枪）是 17 世纪的，第五稿曾放在 1212 年的工具里，已移至保险公司消防队。
 - **本篇的机制边界**：这不是「1666 年的火不严重」的故事。**13,200 所房屋、87 座教堂、圣保罗大教堂，全烧了。****本文的论点在一个更窄的地方：烧的是什么。一条 1212 年的规矩把茅草从伦敦城里清了四百五十年，以至于 1666 年没有一份记述提到它——而后世的故事把功劳记在了它头上，因为茅草比干透的木头更好讲。**
+- **★ 冷读改正（2026-09-04，隔日）**：「a house already thatched was plastered in eight days」——法令是「须」抹灰，改为 was to be plastered；「in overhang over the alley」改为 built out in overhang till they met across the alley。

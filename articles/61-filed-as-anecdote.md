@@ -11,9 +11,9 @@
 
 The story is that a foreign **flotilla** emptied the Grand Banks — an **armada** of factory ships, **nets** in the **bounty** — and that Canada's 200-mile **exclusive** zone of 1977, **jurisdiction** kept by **coastguard**, came late. Yet the **cod** collapsed fifteen years after the **foreigners** were **expelled**, under Canadian rules and Canada's own count.
 
-In 1982 the **ministry** forecast a sustainable 550,000 **tonnage**. A 1989 internal review found the stock **overestimated** up to twofold. The **estimate** rested on the **offshore** fleet: a **trawler** with **sonar** fills its **trawl** whether fish are many or few, because cod **congregate** to spawn and the net goes where they gather. The gauge read full until the **tank** was empty.
+In 1982 the **ministry** forecast a sustainable **tonnage** of 550,000. A 1989 review found the stock **overestimated** up to twofold. The **estimate** rested on the **offshore** fleet: a **trawler** with **sonar** fills its **trawl** whether fish are many or few, because cod **congregate** to spawn and the net goes where they gather. The gauge read full until the **tank** was empty.
 
-The **inshore** men worked a **dory** with **jig** and **trap** from the **cove**, landed at the **wharf**, **gutted** and split the fish, dried it on **flakes**. Their haul tracked the true stock; from 1983 it fell, and they said so. Managers did not count an inshore **skipper** a reliable source; **undersized** fish thrown back went unrecorded.
+The **inshore** men worked a **dory** with **jig** and **trap** from the **cove**, landed at the **wharf**, **gutted** and split the fish, dried them on **flakes**. Their haul tracked the true stock; from 1983 it fell, and they said so. Managers did not count an inshore **skipper** a reliable source; **undersized** fish thrown back went unrecorded.
 
 **Spawning** **biomass** stood at 1.6 million tonnes in 1962; by 1992, between 72,000 and 110,000. On 2 July the minister took a **podium** in a St John's **hotel** **ballroom** and declared a two-year **moratorium** while fishermen **banged** the doors with their **fists**: 19,000 **layoffs**, the **dole**.
 
@@ -63,3 +63,4 @@ The two years became thirty. Boats turned to **shrimp** and **shellfish**; a **s
 - **已核 · 后续**：**2006 年设「管护渔业」（stewardship fishery），允许近岸船队上岸「1992 年配额的一小部分」；2024 年 6 月政府宣布禁渔结束，称之为「历史性里程碑」，但总可捕量定在 1992 年配额的 10% 以下，科学家称存量仍然停滞、不健康。** 渔民转向蟹、虾等贝类。[Science History Institute 同上]｜[CBC 同上]
 - **⚠ 三处表述取舍**：①「高估了最多一倍」对应来源 as much as 100 per cent；②「门外的渔民用拳头砸门」——来源作 stormed the doors，砸门是那一场面的通行记述，拳头是具体化，未越出；③**末段「温度计」是本文的比喻**，指以拖网船捕捞率为存量指标这件事。**⚠ 一处没写**：Hutchings & Myers 1994 论文排除了水温等环境因素——正文只写人为因素，未写这层否定，以免多一条论点。
 - **本篇的机制边界**：这不是「外国船无辜」的故事。**1960 年代外国工厂船确实捕走了大部分渔获**（1968 年 81 万吨，八成来自近海），那是崩溃的前半段。**本文的论点在一个更窄的地方：1977 年之后的十五年，崩溃发生在加拿大自己的管辖与计数之下——而计数用的仪器，恰是感觉不到鱼在变少的那一种。**
+- **★ 冷读改正（2026-09-04，隔日）**：「a sustainable 550,000 tonnage」——tonnage 是不可数的量，改为「a sustainable tonnage of 550,000」；「dried it on flakes」——fish 为复数，改 them。

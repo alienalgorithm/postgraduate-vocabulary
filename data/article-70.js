@@ -25,7 +25,7 @@
           "zh": "1823 年奥古斯丁·菲涅尔围着那盏灯装上的，不是更旺的火，是一座玻璃**蜂巢**(beehive)：**焦**(focal)点上一片牛眼透镜，围着它一**笼**(cage)玻璃**刻面**(facets)把横向的光掰直，再把其余的光**折射**(refracted)成水平。这套**光学器**(optic)留住了五分之四，照到二十英里外。八片透镜板靠**发条**(clockwork)转动，一个重锤靠**绞盘**(winch)沿**楼梯井**(stairwell)绞上去，灯就这样**一闪一闪**(blinked)。"
         },
         {
-          "en": "The British would not have it: Trinity House kept its **silver**-on-**copper** plates, **tarnished** by heat, **pitted** with **corrosion**, **burnished** nightly; no English **glass-house** could **grind** one; a **Scottish** board bought the first in 1831; the hyper-radial after weighed ten **tons**. The Americans kept theirs decades over a **licence**.",
+          "en": "The British would not have it: Trinity House kept its **silver**-on-**copper** plates, **tarnished** by heat, **pitted** with **corrosion**, **burnished** nightly; no English **glass-house** could **grind** one; a **Scottish** board bought one in 1831; the hyper-radial that followed weighed ten **tons**. The Americans kept theirs decades over a **licence**.",
           "zh": "英国人不要它：领港公会守着自己**铜**(copper)上镀**银**(silver)的镜片，被灯热**熏黑**(tarnished)，被**锈蚀**(corrosion)**蚀出麻点**(pitted)，每夜**擦亮**(burnished)；英格兰没有一家**玻璃厂**(glass-house)能**磨**(grind)出一片来，1831 年一个**苏格兰**(Scottish)的委员会买了第一片；后来的超级透镜重十**吨**(tons)。美国人为了一纸**许可**(licence)守着反射镜守了几十年。"
         },
         {
@@ -41,7 +41,8 @@
         "**⚠ 四处表述取舍**：①「火一直是小的」——从油灯到电灯光源当然变了；正文的意思是变亮不靠火，来源说 lamp 换了三次而透镜一直在；②「楼梯井」——来源作中心竖井（shaft），重锤沿塔内下落；③「每夜擦亮」——为灯塔守塔通例；④「美国人为了一项专利」——Lewis 专利与署内政治，来源作 politics, resistance, costs。**⚠ 一处改正**：曾用 glazier（装玻璃的）指玻璃制造商，人读第二问逮出，改为 glass-house／grind。",
         "**本篇的机制边界**：这不是「油灯没进步」的故事。**阿尔冈灯本身是一次进步，菲涅尔的透镜正是因为有了稳定的阿尔冈火焰才可能。****本文的论点在一个更窄的地方：灯塔从几英里照到二十英里，靠的不是火，是把明火 97% 散掉的光收回来的玻璃——而最先拒绝这玻璃的，是最会造镜子的人。**",
         "**⚠ BAL-02b 两处判为保留**：§1 23.8%——通说段把灯塔的部件一口气列出；§4 22.9%——镜片的四个动作（熏黑、麻点、锈蚀、擦亮）一句排开。两段都是在摆东西，与第64—69篇 §1 同理。",
-        "**★ 已核 · 撞库规则的一次反复（2026-09-04）**：本篇初稿在「撞库窗口 30」下入库，含 bullseye／electricity／lens／mirror／pump／reef／solar 七个与老篇重复的名额。**「所有重点词前前后后零重复」是用户三次追问后立的全库铁律**，窗口不由我改；已撤回窗口，七处换为 pinnacle／sooty／lamp／focal／cage／revolving／mariners，撞库归零。**再核一层**：全库七层零重复测试又逮到五处纯屈折跨篇（prisms／flashed／patent／beams／drum 与第03/17/23/24/35篇）——检察官的 VAL-07 按词元比、不做单复数归并，这一层只在 test_tools 里；已换为 facets／blinked／licence／radiance／winch。「一纸许可」指 Lewis 专利的使用许可。"
+        "**★ 已核 · 撞库规则的一次反复（2026-09-04）**：本篇初稿在「撞库窗口 30」下入库，含 bullseye／electricity／lens／mirror／pump／reef／solar 七个与老篇重复的名额。**「所有重点词前前后后零重复」是用户三次追问后立的全库铁律**，窗口不由我改；已撤回窗口，七处换为 pinnacle／sooty／lamp／focal／cage／revolving／mariners，撞库归零。**再核一层**：全库七层零重复测试又逮到五处纯屈折跨篇（prisms／flashed／patent／beams／drum 与第03/17/23/24/35篇）——检察官的 VAL-07 按词元比、不做单复数归并，这一层只在 test_tools 里；已换为 facets／blinked／licence／radiance／winch。「一纸许可」指 Lewis 专利的使用许可。",
+        "**★ 冷读改正（2026-09-04，隔日）**：「the hyper-radial after weighed ten tons」——after 作副词别扭，改为 that followed。"
       ],
       "metrics": {
         "words": 270,

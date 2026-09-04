@@ -25,8 +25,8 @@
           "zh": "**秘密**(secrecy)像所有秘密一样泄了。1670 年休·钱伯伦把它**兜售**(peddled)给法国；莫里索出了一道题——一个**骨盆畸形**(deformed)、**难产**(obstructed)**分娩**(childbirth)一星期的产妇——休**搞砸**(bungled)了，产妇死了。**流亡**(exile)**阿姆斯特丹**(Amsterdam)时，他把秘密卖给一个**荷兰**(Dutch)男接生者，用了一个**手法**(sleight)：只交了一片。"
         },
         {
-          "en": "In 1813 five pairs were **unearthed** under a **trap-door** in the **attic** **floorboards** at Woodham Mortimer, **hoarded** there by a widow a century before and never **bequeathed**. Smellie had described the thing in the 1750s; when the **heirloom** surfaced every **maternity** man-**midwife** in Europe had a pair in his **satchel**.",
-          "zh": "1813 年，五对钳子在伍德姆莫蒂默老宅的**阁楼**(attic)**地板**(floorboards)下一道**暗门**(trap-door)里被**掘出**(unearthed)——一个世纪前一位寡妇**藏**(hoarded)在那里，从未**传下**(bequeathed)。斯梅利 1750 年代已公开描述过这件东西；等这件**传家宝**(heirloom)重见天日时，欧洲每一个**产房**(maternity)男**接生者**(midwife)的**背包**(satchel)里都有一对。"
+          "en": "In 1813 five pairs were **unearthed** under a **trap-door** in the **attic** **floorboards** at Woodham Mortimer, **hoarded** by a widow a century earlier, never **bequeathed**. Smellie had described it in the 1750s; when the **heirloom** surfaced every man-**midwife** in Europe had one in his **satchel**, every **maternity** hospital its own.",
+          "zh": "1813 年，五对钳子在伍德姆莫蒂默老宅的**阁楼**(attic)**地板**(floorboards)下一道**暗门**(trap-door)里被**掘出**(unearthed)——一个世纪前一位寡妇**藏**(hoarded)在那里，从未**传下**(bequeathed)。斯梅利 1750 年代已公开描述过这件东西；等这件**传家宝**(heirloom)重见天日时，欧洲每一个男**接生者**(midwife)的**背包**(satchel)里都有一对，每家**产科**(maternity)医院也自有一对。"
         },
         {
           "en": "The chest needed two men; the contents weighed less than **cutlery**. Five generations of the **dynasty** guarded not the tool but the **theatre** round it — **pomp**, **solemnity**, the **mystique** of a shut door, the **aura** of a thing too heavy to lift — and the **illusion** held because nobody saw the blades. The **showmanship** was the secret; the secret was the box.",
@@ -39,7 +39,8 @@
         "**★ 已核 · 两次泄密**：**「1670 年在巴黎，他向法国政府开价一万塔勒出售秘密，未成。」**（Britannica）**「莫里索出了一道题：为一名骨盆畸形、难产已一周的妇人接生。他失败了，空手回英国，且已把家族秘密泄露出去。」**（IMSS）**「在荷兰，他把秘密卖给 Roonhuysen……几年后有人公开了秘密，但只公开了产钳的一片。」**（Wikipedia／PMC）[Britannica · Hugh Chamberlen the Elder](https://www.britannica.com/biography/Hugh-Chamberlen-the-Elder)｜[PMC · The birth of forceps](https://pmc.ncbi.nlm.nih.gov/articles/PMC3704058/)",
         "**已核 · 1813 年的发现**：**「1813 年，五对产钳在老彼得家的地板下被发现，是他去世后由妻子藏起来的。」**（Hektoen）**「原件 1813 年在他们埃塞克斯住所的阁楼地板下才被发现，由小彼得之妻安藏起。」**（PMC）**「产钳在老宅阁楼的一道暗门下被发现，交给医学与外科学会，1818 年转归皇家医学会。」**（Wikipedia）**「产钳的各种版本开始在欧洲出现，直到 18 世纪中叶（1750 年代）由著名产科医生斯梅利正式公开介绍。」**（IMSS）",
         "**⚠ 三处表述取舍**：①「一百五十年」——BMJ 作 roughly 150 years，四至五代；②「背包里都有一对」——satchel 为通例，来源作「产钳出现在欧洲各地」；③**末段「表演就是秘密」是本文的推论**，其事实基础是上述那场仪式与箱内两片铁的对比。",
-        "**本篇的机制边界**：这不是「产钳无用」的故事。**产钳确实救人，且今天仍在用。****本文的论点在一个更窄的地方：一件简单的工具被一整套排场包起来守了一百五十年，排场守住的不是工具的构造（1634 年接生婆已知是铁器），是它看起来的体量——而那正是它能卖出高价的原因。**"
+        "**本篇的机制边界**：这不是「产钳无用」的故事。**产钳确实救人，且今天仍在用。****本文的论点在一个更窄的地方：一件简单的工具被一整套排场包起来守了一百五十年，排场守住的不是工具的构造（1634 年接生婆已知是铁器），是它看起来的体量——而那正是它能卖出高价的原因。**",
+        "**★ 冷读改正（2026-09-04，隔日）**：「every maternity man-midwife」——maternity 不能修饰人，改为「every man-midwife…had one in his satchel, every maternity hospital its own」。"
       ],
       "metrics": {
         "words": 270,
@@ -238,11 +239,6 @@
           "p": 4
         },
         {
-          "w": "maternity",
-          "zh": "产房的；产科的",
-          "p": 4
-        },
-        {
           "w": "midwife",
           "zh": "接生者",
           "p": 4
@@ -250,6 +246,11 @@
         {
           "w": "satchel",
           "zh": "背包",
+          "p": 4
+        },
+        {
+          "w": "maternity",
+          "zh": "产科的",
           "p": 4
         },
         {

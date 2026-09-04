@@ -15,7 +15,7 @@ Inside the chest were two **blades**. The **obstetric** **forceps** — curved *
 
 The **secrecy** leaked as secrets do. In 1670 Hugh Chamberlen **peddled** it to France; Mauriceau set a test, a woman a week in **obstructed** **childbirth** with a **deformed** pelvis, and Hugh **bungled** it; she died. In **exile** in **Amsterdam** he sold it to a **Dutch** man-midwife with one **sleight**: one blade.
 
-In 1813 five pairs were **unearthed** under a **trap-door** in the **attic** **floorboards** at Woodham Mortimer, **hoarded** there by a widow a century before and never **bequeathed**. Smellie had described the thing in the 1750s; when the **heirloom** surfaced every **maternity** man-**midwife** in Europe had a pair in his **satchel**.
+In 1813 five pairs were **unearthed** under a **trap-door** in the **attic** **floorboards** at Woodham Mortimer, **hoarded** by a widow a century earlier, never **bequeathed**. Smellie had described it in the 1750s; when the **heirloom** surfaced every man-**midwife** in Europe had one in his **satchel**, every **maternity** hospital its own.
 
 The chest needed two men; the contents weighed less than **cutlery**. Five generations of the **dynasty** guarded not the tool but the **theatre** round it — **pomp**, **solemnity**, the **mystique** of a shut door, the **aura** of a thing too heavy to lift — and the **illusion** held because nobody saw the blades. The **showmanship** was the secret; the secret was the box.
 
@@ -32,7 +32,7 @@ The chest needed two men; the contents weighed less than **cutlery**. Five gener
 
 **秘密**(secrecy)像所有秘密一样泄了。1670 年休·钱伯伦把它**兜售**(peddled)给法国；莫里索出了一道题——一个**骨盆畸形**(deformed)、**难产**(obstructed)**分娩**(childbirth)一星期的产妇——休**搞砸**(bungled)了，产妇死了。**流亡**(exile)**阿姆斯特丹**(Amsterdam)时，他把秘密卖给一个**荷兰**(Dutch)男接生者，用了一个**手法**(sleight)：只交了一片。
 
-1813 年，五对钳子在伍德姆莫蒂默老宅的**阁楼**(attic)**地板**(floorboards)下一道**暗门**(trap-door)里被**掘出**(unearthed)——一个世纪前一位寡妇**藏**(hoarded)在那里，从未**传下**(bequeathed)。斯梅利 1750 年代已公开描述过这件东西；等这件**传家宝**(heirloom)重见天日时，欧洲每一个**产房**(maternity)男**接生者**(midwife)的**背包**(satchel)里都有一对。
+1813 年，五对钳子在伍德姆莫蒂默老宅的**阁楼**(attic)**地板**(floorboards)下一道**暗门**(trap-door)里被**掘出**(unearthed)——一个世纪前一位寡妇**藏**(hoarded)在那里，从未**传下**(bequeathed)。斯梅利 1750 年代已公开描述过这件东西；等这件**传家宝**(heirloom)重见天日时，欧洲每一个男**接生者**(midwife)的**背包**(satchel)里都有一对，每家**产科**(maternity)医院也自有一对。
 
 那只箱子要两个人抬；里面的东西比一套**餐具**(cutlery)还轻。这个**家族**(dynasty)五代人守着的不是工具，是工具周围的那场**戏**(theatre)——**排场**(pomp)、**庄重**(solemnity)、一扇关上的门的**神秘感**(mystique)、一件重得抬不动的东西的**气场**(aura)——而这个**幻觉**(illusion)能撑住，是因为没人见过那两片刀叶。**表演**(showmanship)就是秘密；秘密就是那只箱子。
 
@@ -46,7 +46,7 @@ The chest needed two men; the contents weighed less than **cutlery**. Five gener
 
 **§3**（10词）secrecy 秘密｜peddled 兜售｜obstructed 受阻的｜childbirth 分娩｜deformed 畸形的｜bungled 搞砸｜exile 流亡｜amsterdam 阿姆斯特丹｜dutch 荷兰的｜sleight 手法
 
-**§4**（10词）unearthed 掘出｜trap-door 暗门｜attic 阁楼｜floorboards 地板（复）｜hoarded 藏起｜bequeathed 遗赠｜heirloom 传家宝｜maternity 产房的；产科的｜midwife 接生者｜satchel 背包
+**§4**（10词）unearthed 掘出｜trap-door 暗门｜attic 阁楼｜floorboards 地板（复）｜hoarded 藏起｜bequeathed 遗赠｜heirloom 传家宝｜midwife 接生者｜satchel 背包｜maternity 产科的
 
 **§5**（9词）cutlery 餐具｜dynasty 家族；王朝｜theatre 戏｜pomp 排场｜solemnity 庄重｜mystique 神秘感｜aura 气场｜illusion 幻觉｜showmanship 表演
 
@@ -62,3 +62,4 @@ The chest needed two men; the contents weighed less than **cutlery**. Five gener
 - **已核 · 1813 年的发现**：**「1813 年，五对产钳在老彼得家的地板下被发现，是他去世后由妻子藏起来的。」**（Hektoen）**「原件 1813 年在他们埃塞克斯住所的阁楼地板下才被发现，由小彼得之妻安藏起。」**（PMC）**「产钳在老宅阁楼的一道暗门下被发现，交给医学与外科学会，1818 年转归皇家医学会。」**（Wikipedia）**「产钳的各种版本开始在欧洲出现，直到 18 世纪中叶（1750 年代）由著名产科医生斯梅利正式公开介绍。」**（IMSS）
 - **⚠ 三处表述取舍**：①「一百五十年」——BMJ 作 roughly 150 years，四至五代；②「背包里都有一对」——satchel 为通例，来源作「产钳出现在欧洲各地」；③**末段「表演就是秘密」是本文的推论**，其事实基础是上述那场仪式与箱内两片铁的对比。
 - **本篇的机制边界**：这不是「产钳无用」的故事。**产钳确实救人，且今天仍在用。****本文的论点在一个更窄的地方：一件简单的工具被一整套排场包起来守了一百五十年，排场守住的不是工具的构造（1634 年接生婆已知是铁器），是它看起来的体量——而那正是它能卖出高价的原因。**
+- **★ 冷读改正（2026-09-04，隔日）**：「every maternity man-midwife」——maternity 不能修饰人，改为「every man-midwife…had one in his satchel, every maternity hospital its own」。

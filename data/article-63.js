@@ -29,8 +29,8 @@
           "zh": "然后**插画家**(illustrator)的**墨水**(ink)开始工作。在随后**联合刊发**(syndicated)的几个星期里，贝里曼把它越画越小、越圆、越**可爱**(cuddly)，直到那幅**漫画**(caricature)变成一只**毛茸茸的**(furry)、长着**纽扣**(button)眼睛的熊崽，成了**编辑们**(editors)在整个**总统任期**(presidency)里的**吉祥物**(mascot)。活下来的那头熊，是纸上的那头。"
         },
         {
-          "en": "The shop-window story appeared in 1949, eleven years after the **candy** **shopkeeper** died; the letter granting the name never surfaced. In Germany a **seamstress** and her **nephew** had a **mohair** bear **sewed** that autumn and sold at **Leipzig** in 1903, soon with a button in the ear for **trademark**; 3,000 crossed the Atlantic; the **craze** followed. The child holds a **keepsake** of the drawing, not the hunt.",
-          "zh": "橱窗的故事是 1949 年才出现的，那时那位卖**糖果**(candy)的**店主**(shopkeeper)已去世十一年；那封授权用名字的信从来没人见过。同一个秋天，德国一位**女裁缝**(seamstress)和她的**侄子**(nephew)**缝**(sewed)出一只**马海毛**(mohair)熊，1903 年在**莱比锡**(Leipzig)出售，不久耳朵上多了一枚作**商标**(trademark)的纽扣；3,000 只渡过大西洋，**热潮**(craze)随之而来。孩子抱着的，是那幅画的**纪念物**(keepsake)，不是那场狩猎。"
+          "en": "The shop-window story appeared in 1949, eleven years after the **candy** **shopkeeper** died; the letter granting the name never surfaced. In Germany a **seamstress** and her **nephew** had a **mohair** bear **sewn** that autumn and sold at **Leipzig** in 1903, soon with a button in the ear for **trademark**; 3,000 crossed the Atlantic; the **craze** followed. The child holds a **keepsake** of the drawing, not the hunt.",
+          "zh": "橱窗的故事是 1949 年才出现的，那时那位卖**糖果**(candy)的**店主**(shopkeeper)已去世十一年；那封授权用名字的信从来没人见过。同一个秋天，德国一位**女裁缝**(seamstress)和她的**侄子**(nephew)**缝（过去分词）**(sewn)出一只**马海毛**(mohair)熊，1903 年在**莱比锡**(Leipzig)出售，不久耳朵上多了一枚作**商标**(trademark)的纽扣；3,000 只渡过大西洋，**热潮**(craze)随之而来。孩子抱着的，是那幅画的**纪念物**(keepsake)，不是那场狩猎。"
         }
       ],
       "facts": [
@@ -40,7 +40,8 @@
         "**★ 已核 · 橱窗故事 1949 年才见诸文字**：**「1949 年，米克顿去世十一年后，这个故事才首次见诸印刷……据这个家族故事，罗斯福回信同意用他的名字。有来源称这封信仍在家族手中，但似乎没人见过，也从未有复印件公布。」**[Plodding Through the Presidents · Fuzzy Foundations](https://www.ploddingthroughthepresidents.com/2022/12/teddybearorigin.html)",
         "**已核 · 施泰夫**：**「玛格丽特·施泰夫与侄子理查德 1902 年开始制造毛绒熊……有来源认为理查德·施泰夫在罗斯福狩猎之前已独立做出软玩具熊。施泰夫熊 1903 年首先在莱比锡零售，同年 3,000 只运往美国出售。」**（西奥多·罗斯福中心）**⚠ 「耳朵上的纽扣商标」（Knopf im Ohr）是 1904 年起用的**，正文写「不久」，未系于 1903。**马海毛为施泰夫早期熊的用料通例。**[TR Center · Teddy Bear](https://www.theodorerooseveltcenter.org/encyclopedia/culture-and-society/teddy-bear/)",
         "**⚠ 三处表述取舍**：①「派一名骑手」——来源作「派人去请总统」，骑手为狩猎营地通例；②「纽扣眼睛」——早期泰迪熊眼睛用纽扣或鞋扣，为通例；③**末段「孩子抱着的是那幅画的纪念物」是本文的推论**。",
-        "**本篇的机制边界**：这不是「罗斯福残忍」的故事。**他拒绝射杀被捆住的动物，这一点是真的，而且当时就被视为品格。****本文的论点在一个更窄的地方：玩具纪念的那个下午——一只熊崽被放走——没有发生过；发生过的那个下午以水坑里的一刀结束。把两者接起来的，是漫画家一版比一版画得更小的笔。**"
+        "**本篇的机制边界**：这不是「罗斯福残忍」的故事。**他拒绝射杀被捆住的动物，这一点是真的，而且当时就被视为品格。****本文的论点在一个更窄的地方：玩具纪念的那个下午——一只熊崽被放走——没有发生过；发生过的那个下午以水坑里的一刀结束。把两者接起来的，是漫画家一版比一版画得更小的笔。**",
+        "**★ 冷读改正（2026-09-04，隔日）**：「had a mohair bear sewed」——过去分词应为 sewn，已换（sewn 3.18 可用）。"
       ],
       "metrics": {
         "words": 271,
@@ -274,8 +275,8 @@
           "p": 5
         },
         {
-          "w": "sewed",
-          "zh": "缝（过去式）",
+          "w": "sewn",
+          "zh": "缝制（过去分词）",
           "p": 5
         },
         {
