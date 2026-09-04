@@ -22,11 +22,11 @@
         },
         {
           "en": "Almost none did. Josiah Spode had fixed his mixture around 1790 and it became the English rule, **moulded** and **thrown** in every Staffordshire pottery: six of ash, four of stone, three and a half of clay, **fired** twice. A **teapot** so made **chimed** when tapped; **spout** and **lid** rang one note, and the **crockery** took **enamel** without a **hairline**.",
-          "zh": "却几乎没人回头去用。约西亚·斯波德约 1790 年定下了他的配比，那成了英国的规矩，在斯塔福德郡每一家陶厂里被**模压**(moulded)、被**拉坯**(thrown)：六份灰、四份石、三份半土，**烧**(fired)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上**釉彩**(enamel)而不起一道**发丝纹**(hairline)。"
+          "zh": "却几乎没人回头去用。约西亚·斯波德约 1790 年定下了他的配比，那成了英国的规矩，在斯塔福德郡每一家陶厂里被**模压**(moulded)、被**拉坯**(thrown)：六份灰、四份石、三份半土，**烧**(fired)两遍。这样做出的**茶壶**(teapot)一叩即**鸣**(chimed)；**壶嘴**(spout)与**壶盖**(lid)同一个音，**瓷器**(crockery)上了**釉彩**(enamel)也不起一道**发丝纹**(hairline)。"
         },
         {
           "en": "Read the proportions. The **silica** is in it. The **pottery** stone is in it. The bone was never a **surrogate** for a missing **oxide**: nothing is missing. It is a third **ingredient** added to both. The **firing** takes the **biscuit**, cast from **slip**, through a second **sintering**, then a **glaze**.",
-          "zh": "把那个配比再读一遍。**硅**(silica)在里头。**瓷**(pottery)石在里头。骨从来不是某种缺失**氧化物**(oxide)的**替身**(surrogate)：什么也没缺。它是加进这两样之外的第三种**配料**(ingredient)。此后的**烧制**(firing)把用**泥浆**(slip)注成的**素坯**(biscuit)送过第二道**烧结**(sintering)，再上**釉**(glaze)。"
+          "zh": "把那个配比再读一遍。**硅**(silica)在里头。**瓷**(pottery)石在里头。骨从来不是某种缺失**氧化物**(oxide)的**替身**(surrogate)：什么也没缺。它是在这两样之外加进去的第三种**配料**(ingredient)。此后的**烧制**(firing)把用**泥浆**(slip)注成的**素坯**(biscuit)送过第二道**烧结**(sintering)，再上**釉**(glaze)。"
         },
         {
           "en": "What the bone bought was not supply. It was a **ware** that fired **whiter**, **chipped** less under a glaze, keeping its **lustre** in a **saucer** thin enough to see a candle through. The **stopgap** outlived the want, having ceased to be an **expedient** long before anybody noticed — an **improvisation** that had become the **bloom** every **jug** was judged by.",
@@ -43,7 +43,8 @@
         "**本篇的机制边界**：这不是「骨瓷胜过真瓷」的故事。**硬质瓷至今仍是另一路，两者用途与质感不同。****本文的论点在于：一个因障碍而生的权宜之计，在障碍消失之后仍然留了下来。****而它留下来的理由，与它当初被造出来的理由无关**——**不是因为高岭土还买不到（1796 年后谁都买得到），而是因为它烧得更白、更耐崩口、能做得更薄。** **它在无人察觉之时早已不再是权宜之计。**",
         "**★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「burnt cattle carcass」——骨瓷用的是烧骨，不是烧整个尸体。carcass 含肉，已改为 skeletons。****二 · 「baked twice」「a second bake」——陶工说 fired，不说 baked；本篇通篇是 biscuit／glaze／slip 的技术语域，baked 是唯一的外行词。已改为 fired／firing。****⚠ VAL-13 判为保留（fired／firing 与本篇原有 firing 同词元）**：**陶工只有这一个词；换成别的就是外行话。判据：两个形式占两个名额，代价是读者背两次；换成不对的词，代价是句子不成立。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「read a candle through」——透光的说法是 see through，改 see。",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-52.md）**：两处 A——「thrown in every Staffordshire kiln」拉坯在作坊不在窑里，改 pottery；§4 slip 的工序顺序可疑（博士：骨瓷是注浆成型），改 the biscuit, cast from slip, through a second sintering, then a glaze。括注 bloom「光」与 lustre 撞，改「莹润」；中文数字加空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-52.md）**：两处 A——「thrown in every Staffordshire kiln」拉坯在作坊不在窑里，改 pottery；§4 slip 的工序顺序可疑（博士：骨瓷是注浆成型），改 the biscuit, cast from slip, through a second sintering, then a glaze。括注 bloom「光」与 lustre 撞，改「莹润」；中文数字加空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-52.md）**：零 A。B：「上釉彩而不起」改「上了釉彩也不起」；「加进这两样之外的」改「在这两样之外加进去的」。"
       ],
       "metrics": {
         "words": 267,

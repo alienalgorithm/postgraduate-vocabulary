@@ -18,7 +18,7 @@
         },
         {
           "en": "Then read the **folio**. A **vellum** register at Várad, 1208 to 1235, lists 208 **defendants** charged with **larceny** or worse. The court found a **felony** proved against 78 on their **oath**. The other 130 walked away unmarked — two in three **exonerated**, with no **bandage** wanted, no **surety** posted, no **pledge** taken.",
-          "zh": "那就去读那册**对开本**(folio)。瓦拉德一份 1208 至 1235 年的**羊皮卷**(vellum)登记册上，列着 208 名以**盗窃**(larceny)或更重罪名被控的**被告**(defendants)。法庭据其**誓**(oath)判定其中 78 人**重罪**(felony)成立。另外 130 人毫发无伤地走了——三个里有两个**获判无罪**(exonerated)，不需要**绷带**(bandage)，不必交**保证金**(surety)，也没被取**具结**(pledge)。"
+          "zh": "那就去读那册**对开本**(folio)。瓦拉德一份 1208 至 1235 年的**羊皮卷**(vellum)登记册上，列着 208 名以**盗窃**(larceny)或更重罪名被控的**被告**(defendants)。法庭凭他们的**誓**(oath)言判定其中 78 人**重罪**(felony)成立。另外 130 人毫发无伤地走了——三个里有两个**获判无罪**(exonerated)，不需要**绷带**(bandage)，不必交**保证金**(surety)，也没写**具结**(pledge)。"
         },
         {
           "en": "Either those hands were miraculous or the metal was cool; the **chaplain** held every lever. He **splashed** holy water over the **ingot**, lifted it from the **embers** with **tongs**, drew out the **liturgy** while it stood. The **congregation** watched from afar, past the **pulpit**. He alone **adjudged** whether the hand was **seared**.",
@@ -30,7 +30,7 @@
         },
         {
           "en": "A **hearing** no one faces unless innocent need not work; it need only be believed, the **scar** it threatens doing the rest. The **sorting** happened in the **chapel** yard, before anyone reached the **grate**. An oath nobody breaks, a **wax** seal nobody cracks, a **shrine** nobody swears at, a **noose** nobody fits, a **shackle** nobody closes, a **deterrent** nobody calls: each works unused.",
-          "zh": "一个除非自认无辜、否则没人肯受的**聆讯**(hearing)，本不必真的管用；它只需要被相信，它所威胁的那道**疤**(scar)会做完剩下的事。**筛选**(sorting)发生在**礼拜堂**(chapel)院子里，在任何人走到**炉栅**(grate)跟前之前。一句没人违背的誓、一枚没人捏碎的**蜡**(wax)封、一座没人对着起誓的**圣龛**(shrine)、一副没人套上的**绞索**(noose)、一副没人合拢的**镣铐**(shackle)、一道没人触发的**威慑**(deterrent)：它们都是靠从不被动用来起作用的。"
+          "zh": "一个除非自认无辜、否则没人肯受的**聆讯**(hearing)，本不必真的管用；只要人们信它，它所威胁的那道**疤**(scar)会做完剩下的事。**筛选**(sorting)发生在**礼拜堂**(chapel)院子里，早在谁走到**炉栅**(grate)跟前之前。一句没人违背的誓、一枚没人捏碎的**蜡**(wax)封、一座没人对着起誓的**圣龛**(shrine)、一副没人套上的**绞索**(noose)、一副没人合拢的**镣铐**(shackle)、一道没人触发的**威慑**(deterrent)：它们起作用，靠的正是从不动用。"
         }
       ],
       "facts": [
@@ -42,7 +42,8 @@
         "**本篇的机制边界**：这不是「中世纪人其实很聪明」的故事。**神判确实伤过人**——78 人被判有罪即意味着他们的手确实烧坏了；**且这套机制只在人人真信神会裁断时才成立**，信念一散，分离均衡随之崩塌。**本文的论点在一个更窄的地方：一个没人肯受、除非自己无辜的试炼，不必真的有效，只需被相信——筛选发生在试炼之前。****⚠ 需注意：Leeson 的解释在史学界并非唯一说法，本文取其为最能解释那组数字的一种。**",
         "**★★★ 已核 · 六条人读抓出三处编造（2026-09-02，入库后复查）**：**一 · 「He doused the crucible in holy water」——douse 是「整个浸进去」，而来源说的是往锅里的水上『洒』圣水。一个坩埚不可能被浸进圣水里。****已改为 splashed holy water over the crucible。****二 · 「fear of the hearth and its smith」——铁匠与神判无关，是我为凑名额塞的。****已改为 the hearth and the gallows**——绞架在正文第2句已经出现（he hangs），有据。**三 · 末段排比里的「a poker nobody lifts, an anvil nobody strikes」——拨火棍与铁砧都不是「靠不被动用而起作用」的东西，破坏了那串排比的逻辑。****已改为 a noose nobody fits, a shackle nobody closes**——绞索与镣铐才合那条道理。**⚠ 这三处检察官一条都报不出来。100 分量的是合规，不是文章。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「splashed holy water over the crucible」——试炼用的是烧红的铁条（§1 billet），crucible 是熔金属的坩埚，中世纪史家会皱眉；换 ingot。**这是行家词一层的漏——封版时那一问在第58篇之前还没立。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-58.md）**：三处 A——「open palm, knuckles up」掌心向上则指节向下，改 knuckles whitening；「A vellum at Várad」补 register；「had seared」（及物）改 was seared。B：「jury of sworn jurors」改 its jurors sworn；括注 Willingness「肯不肯上」改「自愿」；中文「在他选定的时刻」英文无，删；中文数字加空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-58.md）**：三处 A——「open palm, knuckles up」掌心向上则指节向下，改 knuckles whitening；「A vellum at Várad」补 register；「had seared」（及物）改 was seared。B：「jury of sworn jurors」改 its jurors sworn；括注 Willingness「肯不肯上」改「自愿」；中文「在他选定的时刻」英文无，删；中文数字加空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-58.md）**：零 A。B：「据其誓」「被取具结」「它只需要被相信」「在任何人…之前」「靠从不被动用来起作用」五处改顺。"
       ],
       "metrics": {
         "words": 271,

@@ -28,13 +28,13 @@ A **hearing** no one faces unless innocent need not work; it need only be believ
 
 **神判**(ordeal)看上去是迷信中最不堪的一种。一个人**赤**(bare)手捧着烧红的**铁条**(billet)走九步；那只手裹进**亚麻布**(linen)；若三日后**拆开**(unwrapped)时已经**溃烂**(fester)，他就上绞架。1215 年教会在**祭坛**(altar)前撤回了它的**祝福**(blessing)，**陪审团**(jury)接了手，**陪审员**(jurors)都宣了誓。
 
-那就去读那册**对开本**(folio)。瓦拉德一份 1208 至 1235 年的**羊皮卷**(vellum)登记册上，列着 208 名以**盗窃**(larceny)或更重罪名被控的**被告**(defendants)。法庭据其**誓**(oath)判定其中 78 人**重罪**(felony)成立。另外 130 人毫发无伤地走了——三个里有两个**获判无罪**(exonerated)，不需要**绷带**(bandage)，不必交**保证金**(surety)，也没被取**具结**(pledge)。
+那就去读那册**对开本**(folio)。瓦拉德一份 1208 至 1235 年的**羊皮卷**(vellum)登记册上，列着 208 名以**盗窃**(larceny)或更重罪名被控的**被告**(defendants)。法庭凭他们的**誓**(oath)言判定其中 78 人**重罪**(felony)成立。另外 130 人毫发无伤地走了——三个里有两个**获判无罪**(exonerated)，不需要**绷带**(bandage)，不必交**保证金**(surety)，也没写**具结**(pledge)。
 
 要么那些手是奇迹，要么那金属本就不烫；而**神职人员**(chaplain)手里握着全部机关。他把圣水**洒**(splashed)在**铁块**(ingot)上，用**火钳**(tongs)把它从**余烬**(embers)上提起来，又趁它搁着的工夫把**礼文**(liturgy)拖长。**会众**(congregation)远远站着，隔着**讲坛**(pulpit)。是他一个人**判定**(adjudged)那只手究竟有没有**灼**(seared)伤。
 
 何必费这个事？因为人人都信。有罪的人会同**原告**(accuser)私了，或者干脆逃走，而**起诉方**(plaintiff)也就撤了**诉**(suit)。只有自认无辜的人才会走到**门廊**(porch)上，摊开**手掌**(palm)、**指节**(knuckles)发白，去接那块**发红的**(glowing)金属。**自愿**(Willingness)本身就是证据：对**炉膛**(hearth)与**绞架**(gallows)的畏惧，把有罪的人挡在了外面。
 
-一个除非自认无辜、否则没人肯受的**聆讯**(hearing)，本不必真的管用；它只需要被相信，它所威胁的那道**疤**(scar)会做完剩下的事。**筛选**(sorting)发生在**礼拜堂**(chapel)院子里，在任何人走到**炉栅**(grate)跟前之前。一句没人违背的誓、一枚没人捏碎的**蜡**(wax)封、一座没人对着起誓的**圣龛**(shrine)、一副没人套上的**绞索**(noose)、一副没人合拢的**镣铐**(shackle)、一道没人触发的**威慑**(deterrent)：它们都是靠从不被动用来起作用的。
+一个除非自认无辜、否则没人肯受的**聆讯**(hearing)，本不必真的管用；只要人们信它，它所威胁的那道**疤**(scar)会做完剩下的事。**筛选**(sorting)发生在**礼拜堂**(chapel)院子里，早在谁走到**炉栅**(grate)跟前之前。一句没人违背的誓、一枚没人捏碎的**蜡**(wax)封、一座没人对着起誓的**圣龛**(shrine)、一副没人套上的**绞索**(noose)、一副没人合拢的**镣铐**(shackle)、一道没人触发的**威慑**(deterrent)：它们起作用，靠的正是从不动用。
 
 ---
 
@@ -65,3 +65,4 @@ A **hearing** no one faces unless innocent need not work; it need only be believ
 - **★★★ 已核 · 六条人读抓出三处编造（2026-09-02，入库后复查）**：**一 · 「He doused the crucible in holy water」——douse 是「整个浸进去」，而来源说的是往锅里的水上『洒』圣水。一个坩埚不可能被浸进圣水里。****已改为 splashed holy water over the crucible。****二 · 「fear of the hearth and its smith」——铁匠与神判无关，是我为凑名额塞的。****已改为 the hearth and the gallows**——绞架在正文第2句已经出现（he hangs），有据。**三 · 末段排比里的「a poker nobody lifts, an anvil nobody strikes」——拨火棍与铁砧都不是「靠不被动用而起作用」的东西，破坏了那串排比的逻辑。****已改为 a noose nobody fits, a shackle nobody closes**——绞索与镣铐才合那条道理。**⚠ 这三处检察官一条都报不出来。100 分量的是合规，不是文章。**
 - **★ 冷读改正（2026-09-04，隔日）**：「splashed holy water over the crucible」——试炼用的是烧红的铁条（§1 billet），crucible 是熔金属的坩埚，中世纪史家会皱眉；换 ingot。**这是行家词一层的漏——封版时那一问在第58篇之前还没立。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-58.md）**：三处 A——「open palm, knuckles up」掌心向上则指节向下，改 knuckles whitening；「A vellum at Várad」补 register；「had seared」（及物）改 was seared。B：「jury of sworn jurors」改 its jurors sworn；括注 Willingness「肯不肯上」改「自愿」；中文「在他选定的时刻」英文无，删；中文数字加空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-58.md）**：零 A。B：「据其誓」「被取具结」「它只需要被相信」「在任何人…之前」「靠从不被动用来起作用」五处改顺。

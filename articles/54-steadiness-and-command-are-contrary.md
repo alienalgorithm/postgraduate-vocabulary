@@ -26,15 +26,15 @@ The 1902 machine flew 700 times off the **dunes**. Steadiness and command are no
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-到 1899 年，三个问题里有两个已经解决：奥托·李林塔尔驾**滑翔机**(gliders)载人**升空**(aloft)过，发动机也已能把人**举**(lift)起来。没人能操纵。他保持机身平正的办法，是把整个**胯**(hips)向一侧**甩**(throwing)出去——当时只有这一个法子——1896 年一次**致命**(fatal)的失速就是这样把他**放倒**(felled)的。一个**飞行者**(flier)不过是**微风**(breeze)与它一起一伏的**涡流**(eddies)的乘客。
+到 1899 年，三个问题里有两个已经解决：奥托·李林塔尔驾**滑翔机**(gliders)载人**升空**(aloft)过，发动机也已能把人**举**(lift)起来。没人能操纵。他保持机身平正的办法，是把整个**胯**(hips)向一侧**甩**(throwing)出去——当时只有这一个法子——1896 年一次**致命**(fatal)的失速就是这样把他**放倒**(felled)的。一个**飞行者**(flier)不过是**微风**(breeze)的乘客，随它的**涡流**(eddies)一起一伏。
 
-**理论家**(theorists)兰利与沙尼特从一侧下手：把机器造得**固有地**(inherent)稳，让一记掀得它**倾侧**(tips)的**颠簸**(buffet)由机体自己回应。他们说，把每一条**轴**(axis)的**操纵权**(command)一次都交给人，只会**搅乱**(upset)他的神志：没有人能照看一件**悬**(poised)在**针尖**(pinhead)上的东西还保持**清醒**(sane)。
+**理论家**(theorists)兰利与沙尼特从一侧下手：把机器造得**天生**(inherent)就稳，让一记掀得它**倾侧**(tips)的**颠簸**(buffet)由机体自己回应。他们说，把每一条**轴**(axis)的**操纵权**(command)一次都交给人，只会**搅乱**(upset)他的神志：没有人能照看一件**悬**(poised)在**针尖**(pinhead)上的东西还保持**清醒**(sane)。
 
-这个反对意见是认真的，而且无人能答。莱特兄弟的答案就在铺子里。一辆**自行车**(bicycle)只靠两英寸**橡胶**(rubber)着地，一撒手就**倒**(falls)：**车座**(saddle)撑不住它，**链轮**(sprocket)撑不住它，车架也撑不住它。可骑车的人凭**本能**(instinct)迎着每一次**歪斜**(lurch)**侧过身**(sways)去，**练**(practised)到那个回应已经变成**无意识的**(unconscious)。没人管这叫吃力。
+这个反对意见是认真的，而且无人能答。莱特兄弟的答案就在铺子里。一辆**自行车**(bicycle)只靠两英寸**橡胶**(rubber)着地，一撒手就**倒**(falls)：**车座**(saddle)撑不住它，**链轮**(sprocket)撑不住它，车架也撑不住它。可骑车的人凭**本能**(instinct)迎着每一次**歪斜**(lurch)**侧过身**(sways)去，**练**(practised)到那个反应成了**无意识的**(unconscious)。没人管这叫吃力。
 
 他们卖**自行车**(bicycles)，也造了一台会**倾覆**(capsize)的机器。**机翼**(wings)上的一道**扭转**(torsion)让它**倾侧**(tilt)过去；前面的**升降舵**(elevator)抬起机头；后面的**方向舵**(rudder)让它**偏航**(yaw)。没有一样会自己**摆正**(straighten)：这正是设计。尾与翼共用一根**钢索**(cable)，于是一个转弯就是一个动作。
 
-1902 年那台机器在**沙丘**(dunes)上飞了七百次。稳定与操纵不是两样可以彼此权衡的好处；它们是**相反**(contrary)的。凡是能让机器稳住的**尾翼**(fin)与**龙骨面**(keel)，同时也在**阻挠**(thwarts)那只手对它的**把持**(grip)；**机身**(airframe)越稳，它**抵抗**(fights)得越狠。一架为**敏捷**(agility)而造的**喷气机**(jet)是被故意做成不稳的。
+1902 年那台机器在**沙丘**(dunes)上飞了七百次。稳定与操纵不是两样可以彼此权衡的好处；它们是**相反**(contrary)的。凡是能让机器稳住的**尾翼**(fin)与**龙骨面**(keel)，同时也在**阻挠**(thwarts)那只手对它的**把持**(grip)；**机身**(airframe)越稳，它**抵抗**(fights)得越狠。一架为**敏捷**(agility)而造的**喷气机**(jet)，是故意做得不稳的。
 
 ---
 
@@ -42,7 +42,7 @@ The 1902 machine flew 700 times off the **dunes**. Steadiness and command are no
 
 **§1**（10词）gliders 滑翔机（复）｜aloft 升空｜lift 举起；升力｜throwing 甩；投掷｜hips 胯｜fatal 致命的｜felled 放倒｜flier 飞行者｜breeze 微风｜eddies 涡流；漩涡
 
-**§2**（10词）theorists 理论家（复）｜inherent 固有的｜buffet 颠簸｜tips 倾侧｜command 操纵；号令｜axis 轴｜upset 搅乱｜poised 悬置的｜pinhead 针尖｜sane 清醒的
+**§2**（10词）theorists 理论家（复）｜inherent 天生的；固有的｜buffet 颠簸｜tips 倾侧｜command 操纵；号令｜axis 轴｜upset 搅乱｜poised 悬置的｜pinhead 针尖｜sane 清醒的
 
 **§3**（10词）bicycle 自行车｜rubber 橡胶｜falls 倒下｜saddle 车座｜sprocket 链轮｜sways 侧身｜lurch 歪斜｜instinct 本能｜practised 练习过的｜unconscious 无意识的
 
@@ -68,3 +68,4 @@ The 1902 machine flew 700 times off the **dunes**. Steadiness and command are no
 - **★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「a passenger of the breeze and its swells」——swells 是海浪的涌，不是气流；航空人说 gusts（撞21篇）。已改为 eddies（气涡）。****二 · 「made it cant」——cant 是「倾斜」的通称，航空说 bank（白送词）。已改为 tilt。****三 · 「Every fin and camber that steadies a machine」——camber 是翼型弧度，增升力而不直接稳定飞机；****早期航空称垂直稳定面为 keel surface，已改为 keel。****⚠ 三处的词都 vet 过、合规，错在放的位置。与第55篇 dike、第60篇 stalk／mash 同型。**
 - **★ 冷读改正（2026-09-04，隔日）**：①「Langley」是人名加粗，专名不是可学的词，名额改 theorists；②标题是「Steadiness and Command」，末段却写 Steadiness and grip——改为 command（不加粗），grip 移到「the hand's grip on it」。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-54.md）**：三处 A——「had it in the shop」it 的先行词是 objection，改 had the answer；「felled him at it」改 doing it；§1 逗号拼接改分号。B：括注 buffet「阵风」改「颠簸」；中文「不是三个」英文无，删。「**inherent**ly」劈词，inherently 与 inherent 同词元无处可换，留。
+- **★★ 中文审读团两遍（见 notes/中文审读-54.md）**：零 A。B：「微风与它一起一伏的涡流的乘客」拆；「固有地稳」改「天生就稳」；「回应」改「反应」；「是被故意做成不稳的」改「是故意做得不稳的」。

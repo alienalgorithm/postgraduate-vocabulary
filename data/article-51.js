@@ -18,7 +18,7 @@
         },
         {
           "en": "The **composition** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, fourteen years before it went in a bottle. Parquet's coumarin was identical to the **essence** in the tonka **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.",
-          "zh": "这瓶**配方**(composition)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金 1868 年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十四年。帕凯用的香豆素，与那颗零陵香**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。"
+          "zh": "这个**配方**(composition)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金 1868 年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十四年。帕凯用的香豆素，与那颗零陵香**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。"
         },
         {
           "en": "That is the point usually missed. The **synthetic** was not a cheap stand-in for a natural material. It lifted a limit. Until then a **bouquet** could be **composed** only from what grew: you **distilled** a **petal**, crushed a **rind**, tapped a **resin**, ground a **bark**. **Botany** set the **palette**, not **imagination**.",
@@ -43,7 +43,8 @@
         "**★ 已核 · 一处悬空代词，第55篇的「六条人读」筛查时发现（2026-09-02）**：**原文 §1 作「Bracken has almost no scent; nobody ever sniffed one」——one 没有先行词。****原稿本是 Ferns…sniffed one（one＝一株蕨，成立）；而我为消 VAL-13「fern/ferns 同词元」把 Ferns 换成了 Bracken，bracken 是不可数的集合名词，one 从此悬空。已改为 sniffed a frond。****⚠ 这是本会话「为消掉一条报出而改坏句子」的又一例。**",
         "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「tapped a resin or a bark」——tap 是割取树胶树脂的动作，树皮不能『割取』，它是磨碎后浸提或蒸馏。****已改为 tapped a resin, ground a bark，四个动作各配各的原料。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「the essence in that pod」——that 无先行词，改为 the tonka pod。",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-51.md）**：三处 A——**「thirteen years before」算错，1868→1882 是十四年**（博士逮的），改 fourteen；「no thicket or woodland in the whole gamut grew one of them」灌丛不在谱系里，改 a gamut no thicket or woodland had grown；「any sniff could find」改 could catch。B：§1 长句断开；括注 array「清单」改「系列」；中文空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-51.md）**：三处 A——**「thirteen years before」算错，1868→1882 是十四年**（博士逮的），改 fourteen；「no thicket or woodland in the whole gamut grew one of them」灌丛不在谱系里，改 a gamut no thicket or woodland had grown；「any sniff could find」改 could catch。B：§1 长句断开；括注 array「清单」改「系列」；中文空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-51.md）**：零 A。B：「这瓶配方」量词改「这个」。"
       ],
       "metrics": {
         "words": 264,

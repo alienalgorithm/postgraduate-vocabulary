@@ -14,19 +14,19 @@
       "paras": [
         {
           "en": "History likes a tidy cause. Before the collar, the story runs, the ancient world **harnessed** horses by the **throat** and half-strangled them; after it, the **fallow** shrank, the **granary** filled with **sheaves**, the **serf** could pay his **tithe**, and the **peasantry** got a surplus. One **buckle** of **leather** ends an age.",
-          "zh": "历史偏爱干净利落的因果。故事是这么讲的：在项圈之前，古人把马**套**(harnessed)在**喉咙**(throat)上，几乎把它勒死；有了项圈，**休耕地**(fallow)缩小，**谷仓**(granary)堆满了**禾捆**(sheaves)，**农奴**(serf)交得起**什一税**(tithe)了，**农民**(peasantry)手里有了余粮。一副**皮**(leather)子做的**扣**(buckle)，终结一个时代。"
+          "zh": "历史偏爱干净利落的因果。故事是这么讲的：在项圈之前，古人把马**套**(harnessed)住，带子勒在**喉咙**(throat)上，几乎把它勒死；有了项圈，**休耕地**(fallow)缩小，**谷仓**(granary)堆满了**禾捆**(sheaves)，**农奴**(serf)交得起**什一税**(tithe)了，**农民**(peasantry)手里有了余粮。一副**皮革**(leather)**扣**(buckle)，终结一个时代。"
         },
         {
           "en": "The claim rests on one trial. Lefebvre des Noëttes was a **retired** **cavalry** **colonel** and **amateur** **antiquarian** who wrote a **riding** **manual**. In the 1920s he built the ancient harness from an **engraving**, put the **thong** on a horse, **hitched** a load, and watched the strap climb till the horse could not breathe.",
-          "zh": "这个说法建立在一次试验上。勒费弗尔·德努埃特是个**退役的**(retired)**骑兵**(cavalry)**上校**(colonel)，一个写过**马术**(riding)**手册**(manual)的**业余**(amateur)**古物学者**(antiquarian)。1920 年代，他照一幅**版画**(engraving)做出那副古代挽具，把**皮条**(thong)套上马，**挂**(hitched)上负载，看着带子一路上滑，直到马喘不上气。"
+          "zh": "这个说法建立在一次试验上。勒费弗尔·德努埃特是个**退役的**(retired)**骑兵**(cavalry)**上校**(colonel)，一个写过**马术**(riding)**手册**(manual)的**业余**(amateur)**古物学者**(antiquarian)。1920 年代，他照一幅**版画**(engraving)做出那副古代挽具，把**皮条**(thong)套上马，**挂**(hitched)上负重，看着带子一路上滑，直到马喘不上气。"
         },
         {
           "en": "Look at what the pictures show. On **fresco** and **frieze**, on a painted **vase** or carved **stele**, the band sits low across the **shoulder**. An **excavated** **yoke** rode behind the **withers** and held it there. The horse pushed with its **breastplate**; nothing touched the **windpipe**.",
-          "zh": "再看那些图像本身。**壁画**(fresco)上、**饰带**(frieze)上、彩绘的**瓶**(vase)上、刻好的**石碑**(stele)上，带子低低横在**肩**(shoulder)上。一具**出土**(excavated)的**轭**(yoke)压在马肩隆——**鬐甲**(withers)——之后，把它按在那里。马是用**胸带**(breastplate)顶着走的；什么也没有碰到**气管**(windpipe)。"
+          "zh": "再看那些图像本身。**壁画**(fresco)上、**饰带**(frieze)上、彩绘的**瓶**(vase)上、刻好的**石碑**(stele)上，带子低低横在**肩**(shoulder)上。一具**出土**(excavated)的**轭**(yoke)压在马肩隆——**鬐甲**(withers)——后面，把带子按在那里。马是用**胸带**(breastplate)顶着走的；什么也没有碰到**气管**(windpipe)。"
         },
         {
           "en": "Spruytte and Littauer rebuilt it in 1977 from **artefacts** a **museum** **curator** could hand them, not drawings. Their **teams** pulled nearly as hard as animals in a modern **padded** collar. Chariot trials put the **pull** near 9.5 kilos a head. Raepsaet's **replication** followed the same **protocol** and agreed; the **rebuttal** has held, and the **consensus** no longer credits the strap.",
-          "zh": "斯普吕特与利托厄1977 年重做了这套东西，用的是**博物馆**(museum)**馆员**(curator)能递到手里的**实物**(artefacts)，不是图纸。他们的**畜队**(teams)拉出的力，接近戴现代**衬垫**(padded)项圈的牲口。战车复原实验测得每匹的**挽力**(pull)近 9.5 公斤。雷普塞的**重复实验**(replication)用了同一套**规程**(protocol)，结论一致；这条**反驳**(rebuttal)站住了，如今没有哪种**共识**(consensus)还把功劳记在那根带子上。"
+          "zh": "斯普吕特与利托厄 1977 年重做了这套东西，用的是**博物馆**(museum)**馆员**(curator)能递到手里的**实物**(artefacts)，不是图纸。他们的**畜队**(teams)拉出的力，接近戴现代**衬垫**(padded)项圈的牲口。战车复原实验测得每匹的**挽力**(pull)近 9.5 公斤。雷普塞的**重复实验**(replication)用了同一套**规程**(protocol)，结论一致；这条**反驳**(rebuttal)站住了，如今的**共识**(consensus)不再把功劳记在那根带子上。"
         },
         {
           "en": "The medieval **collar** was better, not first; **oxen** kept the heavy **tillage**. The **legacy** ran on by **citation**: a **footnote** copied book to book until the **folklore** outlived its evidence and reached the **primer**. The colonel cut that harness himself, then published on antiquity. An experiment that builds its own **opponent** settles the **upshot** before it starts.",
@@ -43,7 +43,8 @@
         "**已核 · 那个「1920年代」**：**勒费弗尔·德努埃特的挽具实验发表于 1931 年**，**实验本身在 1920 年代进行**。**⚠ 正文写作「1920年代」而非具体年份**：来源只作 in the 1920s。",
         "**⚠ STR-03 判为保留（末两句格言相邻）**：末段两句分属两层——**前一句是这一个案例的事实**（上校自己裁的挽具，写出来的却是古代的结论），**后一句才是可迁移的道理**（自己造对手的实验，开始前就定了结局）。**试过三种改法**：①中间插「他那本书 1931 年出版」——超词数，lockstep 回滚；②改为「在自家工棚里裁出来的」——超词数，回滚；③改为「自己裁的」——落盘但仍报。**判据认的是「末两句都带判断」，而前一句必须带判断，否则读者不知道那副挽具错在哪。****判为保留：为消这条而把前一句改成纯描写，会让末句失去落点。**",
         "**★★★ 已核 · 六条人读抓出三处编造的细节（2026-09-02，入库后复查）**：**一 · 「在驻地里写回忆录」——没有任何来源这么说，是我为凑名额编的。****已改为「退役的骑兵上校，写过马术手册」**——这与他的身份相符且不越出来源。**二 · 「用锥子与针裁开皮条」——针是缝皮子的，裁皮条不用针；****且来源只说他做了复原品，没说他亲手裁。已改为「照一幅版画做出那副挽具」。****三 · 「车上载两人时每匹约 9.5 公斤」被并进了 1977 年那次复原**——**而 9.5 公斤出自另一组战车挽具实验，是两件事。已拆开写。****⚠ 这三处检察官一条都报不出来。100 分量的是合规，不是文章。**",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-57.md）**：三处 A——「the serf shed his tithe」（什一税不能卸下）改 could pay his tithe；「till it could not breathe」it 最近先行词是 load，改 the horse；「no consensus now credits」改 the consensus no longer credits。括注 breastplate「胸甲」（铠甲）改「胸带」；withers「鬐甲」中文读者也不认识，正文补「马肩隆」。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-57.md）**：三处 A——「the serf shed his tithe」（什一税不能卸下）改 could pay his tithe；「till it could not breathe」it 最近先行词是 load，改 the horse；「no consensus now credits」改 the consensus no longer credits。括注 breastplate「胸甲」（铠甲）改「胸带」；withers「鬐甲」中文读者也不认识，正文补「马肩隆」。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-57.md）**：一处 A——「皮(leather)子」括注劈词改「皮革扣」。B：「把马套在喉咙上」改「把马套住，带子勒在喉咙上」；「负载」改「负重」；「把它按在那里」改「把带子按在那里」；「没有哪种共识」随英文改「如今的共识不再」；数字空格。"
       ],
       "metrics": {
         "words": 266,
