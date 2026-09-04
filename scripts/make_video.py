@@ -134,42 +134,53 @@ def zh_tokens(zh):
 
 
 def draw_sentence(bg, s, W, H):
+    """一句一帧：**按意群成对排**——一小段英文，紧跟它自己的中文，然后空一行。
+    ★ 不再上面一整句英文、下面一整句中文（用户 2026-09-04 要求）：那样眼睛要在
+      长句两端来回找对应，看不通透。意群由 build_reader.align_chunks 切好放在 chunks 里。"""
     im = bg.copy()
     d = ImageDraw.Draw(im)
     pad = int(W * 0.028)
-    maxw = W - 2 * pad - int(W * 0.075)
+    maxw = W - 2 * pad - int(W * 0.07)
+    chunks = s.get('chunks') or [{"en": s['en'], "zh": s['zh']}]
 
-    # 字号：句子越长越小，保证一屏放得下
-    en_toks = en_tokens(s['en'])
-    zh_toks = zh_tokens(s['zh'])
-    for scale in (1.0, .92, .84, .76, .68, .6, .54):
-        fe = font(F_EN, int(H * 0.072 * scale))
-        fz = font(F_ZH, int(H * 0.062 * scale), index=2)
+    for scale in (1.0, .94, .88, .82, .76, .7, .64, .58, .52, .46):
+        fe = font(F_EN, int(H * 0.062 * scale))
+        fz = font(F_ZH, int(H * 0.053 * scale), index=2)
         sp_e = d.textlength(" ", font=fe)
-        le = wrap(d, en_toks, fe, maxw, sp_e)
-        lz = wrap(d, zh_toks, fz, maxw, 0)
-        lh_e = int(H * 0.098 * scale)
-        lh_z = int(H * 0.086 * scale)
-        total = len(le) * lh_e + int(H * 0.028) + len(lz) * lh_z
-        if total < H - 2 * pad - int(H * 0.06):
+        lh_e = int(H * 0.082 * scale)
+        lh_z = int(H * 0.072 * scale)
+        gap_pair = int(H * 0.012 * scale)      # 英文与它的中文之间
+        gap_chunk = int(H * 0.036 * scale)     # 两个意群之间
+        blocks, total = [], 0
+        for ci, c in enumerate(chunks):
+            le = wrap(d, en_tokens(c['en']), fe, maxw, sp_e)
+            lz = wrap(d, zh_tokens(c['zh']), fz, maxw, 0)
+            blocks.append((le, lz))
+            total += len(le) * lh_e + gap_pair + len(lz) * lh_z
+            if ci < len(chunks) - 1:
+                total += gap_chunk
+        if total < H - 2 * pad - int(H * 0.05):
             break
 
     y = (H - total) // 2
-    for ln in le:
-        wsum = sum(w for _, _, w in ln) + sp_e * (len(ln) - 1)
-        x = (W - wsum) / 2
-        for tok, gold, w in ln:
-            d.text((x, y), tok, font=fe, fill=GOLD if gold else CHALK)
-            x += w + sp_e
-        y += lh_e
-    y += int(H * 0.028)
-    for ln in lz:
-        wsum = sum(w for _, _, w in ln)
-        x = (W - wsum) / 2
-        for tok, gold, w in ln:
-            d.text((x, y), tok, font=fz, fill=GOLD if gold else CHALK)
-            x += w
-        y += lh_z
+    for ci, (le, lz) in enumerate(blocks):
+        for ln in le:
+            wsum = sum(w for _, _, w in ln) + sp_e * (len(ln) - 1)
+            x = (W - wsum) / 2
+            for tok, gold, w in ln:
+                d.text((x, y), tok, font=fe, fill=GOLD if gold else CHALK)
+                x += w + sp_e
+            y += lh_e
+        y += gap_pair
+        for ln in lz:
+            wsum = sum(w for _, _, w in ln)
+            x = (W - wsum) / 2
+            for tok, gold, w in ln:
+                d.text((x, y), tok, font=fz, fill=GOLD if gold else CHALK)
+                x += w
+            y += lh_z
+        if ci < len(blocks) - 1:
+            y += gap_chunk
     return im
 
 

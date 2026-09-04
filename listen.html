@@ -44,19 +44,24 @@
   .board::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.1;
     background-image:radial-gradient(rgba(255,255,255,.7) 1px,transparent 1px);background-size:5px 5px}
 
-  .en,.zh{max-width:96%;line-height:1.34;position:relative;z-index:1;
+  /* 意群成对：一小段英文，紧跟它自己的中文，段与段之间留空
+     ★ 不再上面一整句英文、下面一整句中文——那样眼睛要在长句两端来回找对应。 */
+  .pairs{display:flex;flex-direction:column;align-items:center;
+    gap:clamp(9px,1.5vw,22px);width:100%;position:relative;z-index:1}
+  .pair{display:flex;flex-direction:column;align-items:center;gap:clamp(2px,.45vw,7px);max-width:97%}
+  .en,.zh{max-width:100%;line-height:1.3;position:relative;z-index:1;
     text-shadow:0 1px 0 rgba(0,0,0,.35), 0 0 14px rgba(255,255,255,.05)}
   .en{font-family:Poppins,'Century Gothic',ui-rounded,ui-sans-serif,'Segoe UI',system-ui,sans-serif;
     font-weight:700;letter-spacing:.045em;color:var(--chalk);
-    font-size:clamp(1.02rem,3.35vw,2.45rem)}
+    font-size:clamp(.95rem,2.85vw,2.05rem)}
   .zh{color:var(--chalk);font-weight:600;letter-spacing:.06em;
     font-family:'Noto Sans SC','Noto Sans CJK SC','PingFang SC','Microsoft YaHei',ui-sans-serif,sans-serif;
-    font-size:clamp(.92rem,2.65vw,1.9rem)}
+    font-size:clamp(.86rem,2.3vw,1.62rem)}
   /* 默认全亮；只有在播放时才逐词提亮，否则停着看就是一片灰 */
   .en w{transition:opacity .12s,text-shadow .12s;opacity:1;border-radius:3px}
-  .en.playing w{opacity:.72}
-  .en.playing w.said{opacity:.86}
-  .en.playing w.on{opacity:1;text-shadow:0 0 16px rgba(255,255,255,.55),0 1px 0 rgba(0,0,0,.4)}
+  .playing .en w{opacity:.72}
+  .playing .en w.said{opacity:.86}
+  .playing .en w.on{opacity:1;text-shadow:0 0 16px rgba(255,255,255,.55),0 1px 0 rgba(0,0,0,.4)}
   .en w.k, .zh k{font-style:normal;font-weight:800}
   .k0{color:var(--c0)!important}.k1{color:var(--c1)!important}.k2{color:var(--c2)!important}
   .k3{color:var(--c3)!important}.k4{color:var(--c4)!important}.k5{color:var(--c5)!important}
@@ -107,8 +112,7 @@
   <div class="stage">
     <div class="board">
       <div class="counter" id="cnt">—</div>
-      <div class="en" id="en">　</div>
-      <div class="zh" id="zh">　</div>
+      <div class="pairs" id="pairs"></div>
       <div class="cursor"><i id="prog"></i></div>
     </div>
   </div>
@@ -162,12 +166,13 @@ function probe(alt){
 const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 
 /* 英文：逐词 <w>，重点词加色号 */
-function renderEN(s){
-  const colour={}; s.marks.forEach(m=>colour[m.en.toLowerCase()]=m.c);
+function renderEN(s, base){
+  base=base||0;
+  const colour={}; (s.marks||[]).forEach(m=>colour[m.en.toLowerCase()]=m.c);
   return s.words.map((w,n)=>{
     const bare=w.toLowerCase().replace(/^[^a-z0-9'-]+|[^a-z0-9'-]+$/g,'');
     const c=colour[bare];
-    return `<w data-n="${n}"${c!==undefined?` class="k k${c}"`:''}>${esc(w)}</w>`;
+    return `<w data-n="${base+n}"${c!==undefined?` class="k k${c}"`:''}>${esc(w)}</w>`;
   }).join(' ');
 }
 /* 中文：把 **词**(gloss) 换成同色 <k>，括注去掉——黑板上不放英文小括号 */
@@ -185,8 +190,15 @@ function renderZH(s){
 
 function paint(){
   const s=D.sentences[i];
-  $('#en').innerHTML=renderEN(s);
-  $('#zh').innerHTML=renderZH(s);
+  const cs=(s.chunks&&s.chunks.length)?s.chunks:[{en:s.en,zh:s.zh,marks:s.marks}];
+  // 逐词高亮要知道每段起始的词序号，才能跨段接着数
+  let base=0;
+  $('#pairs').innerHTML=cs.map(c=>{
+    const words=c.en.replace(/\*\*/g,'').split(/\s+/).filter(Boolean);
+    const h=`<div class="pair"><div class="en">${renderEN({words:words,marks:c.marks||[]},base)}</div>`
+          + `<div class="zh">${renderZH(c)}</div></div>`;
+    base+=words.length; return h;
+  }).join('');
   $('#cnt').textContent=String(i+1).padStart(2,'0')+' / '+String(D.sentences.length).padStart(2,'0');
   $('#track').value=i;
   // ★ 音频路径相对 reader/，页面在仓库根——少这个前缀就是 404，
@@ -200,7 +212,7 @@ function paint(){
 }
 
 function tick(){
-  const s=D.sentences[i], t=au.currentTime*1000, ws=$('#en').children;
+  const s=D.sentences[i], t=au.currentTime*1000, ws=document.querySelectorAll('#pairs w');
   let k=-1;
   for(let n=0;n<s.times.length;n++){ if(t>=s.times[n]) k=n; else break; }
   for(let n=0;n<ws.length;n++){
@@ -218,12 +230,12 @@ function go(n){
 
 function play(){ want=true; const q=au.play(); if(q&&q.catch) q.catch(()=>{}); }
 function pause(){ want=false; au.pause(); }
-au.addEventListener('play',()=>{ $('#play').textContent='❚❚ 暂停'; $('#en').classList.add('playing'); cancelAnimationFrame(raf); tick(); });
-au.addEventListener('pause',()=>{ $('#play').textContent='▶ 播放'; $('#en').classList.remove('playing'); cancelAnimationFrame(raf); });
+au.addEventListener('play',()=>{ $('#play').textContent='❚❚ 暂停'; $('#pairs').classList.add('playing'); cancelAnimationFrame(raf); tick(); });
+au.addEventListener('pause',()=>{ $('#play').textContent='▶ 播放'; $('#pairs').classList.remove('playing'); cancelAnimationFrame(raf); });
 au.addEventListener('ended',()=>{
   cancelAnimationFrame(raf);
   if($('#loop').checked){ au.currentTime=0; play(); return; }
-  $('#en').classList.remove('playing');
+  $('#pairs').classList.remove('playing');
   if($('#auto').checked && i<D.sentences.length-1){ want=true; go(i+1); play(); }
   else { want=false; $('#play').textContent='▶ 播放'; }
 });

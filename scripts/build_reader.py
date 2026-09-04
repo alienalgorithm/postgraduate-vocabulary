@@ -81,11 +81,30 @@ def split_sentences(en, zh):
         if si == len(es) - 1:
             cutpos = len(zh)
         else:
-            # 从落点往后找**最近的**断句处。★ 不能按标点强弱优先：实测第01篇 §5，
+            # 从落点往后找断句处。★ 不能一律按「。比；强」排优先：实测第01篇 §5，
             # 「。」比「；」远得多，优先它就会一句吞掉下一句的中文。
-            cand = [zh.find(c, last) for c in "。！？；，"]
-            cand = [x for x in cand if x >= 0]
-            cutpos = (min(cand) + 1) if cand else len(zh)
+            # 但**限定在下一句第一个锚点之前**去找句号是安全的——找得到就用它，
+            # 找不到再退回最近的任意标点。（修好了「第二天也死了」跑到下一句的错位。）
+            nxt_anchor = None
+            for jj in range(si + 1, len(es)):
+                kk2 = [w.lower().strip(",.;:") for w in BOLD.findall(es[jj])]
+                for k2 in kk2:
+                    for j2 in range(mi, len(marks_zh)):
+                        end2, w2 = marks_zh[j2]
+                        if w2 == k2 or w2.rstrip('s') == k2.rstrip('s'):
+                            nxt_anchor = end2 - 1; break
+                    if nxt_anchor is not None: break
+                if nxt_anchor is not None: break
+            cutpos = None
+            if nxt_anchor and nxt_anchor > last:
+                seg = zh[last:nxt_anchor]
+                hard = [seg.find(c) for c in "。！？" if seg.find(c) >= 0]
+                if hard:
+                    cutpos = last + min(hard) + 1
+            if cutpos is None:
+                cand = [zh.find(c, last) for c in "。！？；，"]
+                cand = [x for x in cand if x >= 0]
+                cutpos = (min(cand) + 1) if cand else len(zh)
         chunk = zh[pos:cutpos].strip()
         if not chunk:                          # 这句英文在中文里没有落点，并进上一句
             if out:
@@ -95,6 +114,133 @@ def split_sentences(en, zh):
     if pos < len(zh) and out:                  # 中文剩尾巴，贴回最后一句
         out[-1] = (out[-1][0], (out[-1][1] + zh[pos:]).strip())
     return out
+
+
+# ── 意群拆分（2026-09-04，用户要「不要上面一整句英文、下面一整句中文」）──────
+#    每一小段英文底下就跟着它自己的中文。中文切在哪，仍旧靠重点词括注当锚点。
+ZH_PUNCT = "，。；：、！？—"
+
+
+def _all_idx(t, ch):
+    out, i = [], t.find(ch)
+    while i >= 0:
+        out.append(i); i = t.find(ch, i + 1)
+    return out
+
+
+def en_chunks(en):
+    """英文按**标点**切成小句。不在连词/介词处再切——
+    ★ 实测：切到「and went house / to house asking」这种程度，中文根本配不上去。
+      中文的语序和英文不一样（定语前置），切得越碎错位越多。标点是两边都认的边界。"""
+    parts = [x.strip() for x in re.split(r"(?<=[,;:])\s+|\s+—\s+", en) if x and x.strip()]
+    return parts or [en.strip()]
+
+
+def align_chunks(en, zh):
+    """把英文小句与中文片段配对，返回 [(en, zh)]。
+
+    ★ 核心一条（2026-09-04 用户要「拆细一点」之后实测出来的）：
+      **拆到中英语序仍然一致为止，语序一颠倒就把那两段合回去。**
+      「John Snow, / a physician who lived nearby,」在中文里是「住在附近的内科医生约翰·斯诺」——
+      顺序反的。硬拆就会出现「John Snow,」底下配「住在附近的」。
+      判据就是重点词括注在中文里的位置：后一段的锚点若跑到前一段前面，说明语序翻了，合并。
+    """
+    ecs = en_chunks(en)
+    if len(ecs) <= 1:
+        return [(en.strip(), zh.strip())]
+    gl = [(m.start(), m.end(), m.group(2).lower()) for m in ZH_GLOSS.finditer(zh)]
+    if not gl:
+        return [(en.strip(), zh.strip())]
+
+    def anchors(e, used):
+        """这段英文的重点词在中文里的 (最早起点, 最晚终点)；不看顺序，全篇找。"""
+        first = last = None
+        for w in BOLD.findall(e):
+            k = w.lower().strip(",.;:")
+            for j, (st, en_, gw) in enumerate(gl):
+                if j in used:
+                    continue
+                if gw == k or gw.rstrip('s') == k.rstrip('s'):
+                    used.add(j)
+                    first = st if first is None else min(first, st)
+                    last = en_ if last is None else max(last, en_)
+                    break
+        return first, last
+
+    used = set()
+    items = [[e, *anchors(e, used)] for e in ecs]
+
+    merged = [list(x) for x in items]
+
+    # 一 · 语序一翻就合并（后一段的起点跑到前一段终点之前）
+    #     「John Snow, / a physician who lived nearby,」在中文里是「住在附近的内科医生约翰·斯诺」——
+    #     顺序反的，硬拆就会出现「John Snow,」底下配「住在」。
+    k = 0
+    while k < len(merged) - 1:
+        a_, b_ = merged[k], merged[k + 1]
+        if b_[1] is not None and a_[2] is not None and b_[1] < a_[2]:
+            merged[k] = [a_[0] + " " + b_[0],
+                         min(x for x in (a_[1], b_[1]) if x is not None),
+                         max(x for x in (a_[2], b_[2]) if x is not None)]
+            del merged[k + 1]
+            k = max(0, k - 1)
+        else:
+            k += 1
+    if len(merged) <= 1:
+        return [(en.strip(), zh.strip())]
+
+    def next_anchor(k):
+        for j in range(k + 1, len(merged)):
+            if merged[j][1] is not None:
+                return merged[j][1]
+        return None
+
+    # 二 · 切中文
+    out, pos = [], 0
+    for k, (e, f, l) in enumerate(merged):
+        if k == len(merged) - 1:
+            cut = len(zh)
+        else:
+            nf = next_anchor(k)
+            if l is not None:
+                # 有锚点：从本段终点往后，遇到的第一个标点就切
+                seg = zh[l:nf] if (nf and nf > l) else zh[l:]
+                hit = [seg.find(c) for c in ZH_PUNCT if seg.find(c) >= 0]
+                cut = (l + min(hit) + 1) if hit else (nf if nf and nf > pos else len(zh))
+            elif nf is not None and nf > pos:
+                # 没锚点（这段英文里一个重点词都没有）：切在下一段锚点**之前最后一个**标点上。
+                # ★ 切不出来就让它空着，下面并给后一段——这是「John Snow,」那种情况。
+                # 候选标点不止一个时，按**英文词数比例**挑最接近的那个——
+                # 一律取最后一个的话，「Snow had no microscope,」会吃掉「没有细菌，」。
+                seg = zh[pos:nf]
+                hits = sorted({i2 for c in ZH_PUNCT for i2 in _all_idx(seg, c)})
+                if hits:
+                    j2 = k
+                    while j2 < len(merged) and merged[j2][1] is None:
+                        j2 += 1
+                    span = sum(len(merged[t][0].split()) for t in range(k, min(j2 + 1, len(merged)))) or 1
+                    ratio = len(e.split()) / span
+                    target = ratio * len(seg)
+                    best = min(hits, key=lambda x: abs(x + 1 - target))
+                    cut = pos + best + 1
+                else:
+                    cut = pos
+            else:
+                cut = pos
+        out.append([e.strip(), zh[pos:cut].strip()]); pos = cut
+
+    # 三 · 中文为空的段并给后一段（并不动就并给前一段）
+    k = 0
+    while k < len(out):
+        if not out[k][1]:
+            if k + 1 < len(out):
+                out[k + 1][0] = out[k][0] + " " + out[k + 1][0]; del out[k]; continue
+            if k > 0:
+                out[k - 1][0] += " " + out[k][0]; del out[k]; continue
+        k += 1
+    if pos < len(zh) and out:
+        out[-1][1] = (out[-1][1] + zh[pos:]).strip()
+    return [(x[0], x[1]) for x in out if x[0].strip() and x[1].strip()] or [(en.strip(), zh.strip())]
 
 
 def marks(en_sent, zh_sent):
@@ -213,7 +359,9 @@ def main():
                           "words": txt.split(), "times": times, "dur": dur,
                           "audio": "audio/" + base + ".m4a",
                           "audioAlt": "audio/" + base + ".opus",
-                          "qc": qc, "marks": marks(en_s, zh_s)})
+                          "qc": qc, "marks": marks(en_s, zh_s),
+                          "chunks": [{"en": ce, "zh": cz, "marks": marks(ce, cz)}
+                                     for ce, cz in align_chunks(en_s, zh_s)]})
             print("  %2d  %5.2fs  %s" % (n, dur, txt[:56]))
 
     sents = [x for x in sents if x]

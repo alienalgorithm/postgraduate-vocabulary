@@ -79,6 +79,30 @@
      "gloss": "cholera",
      "c": 0
     }
+   ],
+   "chunks": [
+    {
+     "en": "In September 1854 a few streets of Soho,",
+     "zh": "1854 年 9 月，",
+     "marks": []
+    },
+    {
+     "en": "in central London,",
+     "zh": "伦敦市中心苏活区的几条街道，",
+     "marks": []
+    },
+    {
+     "en": "lost 616 people to **cholera** in ten days.",
+     "zh": "在十天里因**霍乱**(cholera)死了 616 人。",
+     "marks": [
+      {
+       "en": "cholera",
+       "zh": "霍乱",
+       "gloss": "cholera",
+       "c": 0
+      }
+     ]
+    }
    ]
   },
   {
@@ -148,6 +172,38 @@
      "zh": "污浊的",
      "gloss": "foul",
      "c": 3
+    }
+   ],
+   "chunks": [
+    {
+     "en": "**Prevailing** medical **opinion** **blamed** the **foul** air.",
+     "zh": "**当时主流的**(Prevailing)医学**意见**(opinion)把账**算在**(blamed)**污浊的**(foul)空气头上。",
+     "marks": [
+      {
+       "en": "Prevailing",
+       "zh": "当时主流的",
+       "gloss": "Prevailing",
+       "c": 0
+      },
+      {
+       "en": "opinion",
+       "zh": "意见",
+       "gloss": "opinion",
+       "c": 1
+      },
+      {
+       "en": "blamed",
+       "zh": "算在",
+       "gloss": "blamed",
+       "c": 2
+      },
+      {
+       "en": "foul",
+       "zh": "污浊的",
+       "gloss": "foul",
+       "c": 3
+      }
+     ]
     }
    ]
   },
@@ -253,6 +309,56 @@
      "gloss": "supply",
      "c": 4
     }
+   ],
+   "chunks": [
+    {
+     "en": "John Snow, a **physician** who lived **nearby**,",
+     "zh": "住在**附近**(nearby)的**内科医生**(physician)约翰·斯诺",
+     "marks": [
+      {
+       "en": "physician",
+       "zh": "内科医生",
+       "gloss": "physician",
+       "c": 0
+      },
+      {
+       "en": "nearby",
+       "zh": "附近",
+       "gloss": "nearby",
+       "c": 1
+      }
+     ]
+    },
+    {
+     "en": "**doubted** it,",
+     "zh": "**不信**(doubted)这套说法，",
+     "marks": [
+      {
+       "en": "doubted",
+       "zh": "不信",
+       "gloss": "doubted",
+       "c": 0
+      }
+     ]
+    },
+    {
+     "en": "and went house to house asking where the dead **drew** their **supply**.",
+     "zh": "挨家挨户去问：死者平日从哪里**打**(drew)水、用的是哪一处**水源**(supply)。",
+     "marks": [
+      {
+       "en": "drew",
+       "zh": "打",
+       "gloss": "drew",
+       "c": 0
+      },
+      {
+       "en": "supply",
+       "zh": "水源",
+       "gloss": "supply",
+       "c": 1
+      }
+     ]
+    }
    ]
   },
   {
@@ -336,6 +442,32 @@
      "zh": "街区",
      "gloss": "neighbourhood",
      "c": 2
+    }
+   ],
+   "chunks": [
+    {
+     "en": "He set a **stroke** against each **address** on a chart of the **neighbourhood**, one for every death.",
+     "zh": "他在**街区**(neighbourhood)图上按**门牌**(address)为每一例死亡划下一道**短线**(stroke)。",
+     "marks": [
+      {
+       "en": "stroke",
+       "zh": "短线",
+       "gloss": "stroke",
+       "c": 0
+      },
+      {
+       "en": "address",
+       "zh": "门牌",
+       "gloss": "address",
+       "c": 1
+      },
+      {
+       "en": "neighbourhood",
+       "zh": "街区",
+       "gloss": "neighbourhood",
+       "c": 2
+      }
+     ]
     }
    ]
   },
@@ -433,6 +565,50 @@
      "gloss": "blocks",
      "c": 4
     }
+   ],
+   "chunks": [
+    {
+     "en": "The **strokes** **gathered** around a single **pump** on Broad Street,",
+     "zh": "这些**短线**(strokes)**聚拢**(gathered)在宽街的一口**水泵**(pump)周围，",
+     "marks": [
+      {
+       "en": "strokes",
+       "zh": "短线",
+       "gloss": "strokes",
+       "c": 0
+      },
+      {
+       "en": "gathered",
+       "zh": "聚拢",
+       "gloss": "gathered",
+       "c": 1
+      },
+      {
+       "en": "pump",
+       "zh": "水泵",
+       "gloss": "pump",
+       "c": 2
+      }
+     ]
+    },
+    {
+     "en": "and **thinned** to nothing two **blocks** off.",
+     "zh": "出去两个**街区**(blocks)就**稀疏**(thinned)得几乎没有了。",
+     "marks": [
+      {
+       "en": "thinned",
+       "zh": "稀疏",
+       "gloss": "thinned",
+       "c": 0
+      },
+      {
+       "en": "blocks",
+       "zh": "街区",
+       "gloss": "blocks",
+       "c": 1
+      }
+     ]
+    }
    ]
   },
   {
@@ -506,6 +682,31 @@
      "zh": "证实",
      "gloss": "vindicated",
      "c": 1
+    }
+   ],
+   "chunks": [
+    {
+     "en": "The pattern showed him where to look;",
+     "zh": "分布告诉他该往哪儿看；",
+     "marks": []
+    },
+    {
+     "en": "the **exceptions**, where the water differed, **vindicated** him.",
+     "zh": "那些水源不同的**例外**(exceptions)**证实**(vindicated)了他。",
+     "marks": [
+      {
+       "en": "exceptions",
+       "zh": "例外",
+       "gloss": "exceptions",
+       "c": 0
+      },
+      {
+       "en": "vindicated",
+       "zh": "证实",
+       "gloss": "vindicated",
+       "c": 1
+      }
+     ]
     }
    ]
   },
@@ -603,6 +804,44 @@
      "gloss": "recorded",
      "c": 4
     }
+   ],
+   "chunks": [
+    {
+     "en": "A **workhouse** of 535 **inmates** inside the death **zone** had its own **borehole** and **recorded** five deaths.",
+     "zh": "死亡**区域**(zone)之内，一所收容 535 名**院民**(inmates)的**济贫院**(workhouse)有自己的**钻井**(borehole)，**记录在案**(recorded)的死亡只有五例。",
+     "marks": [
+      {
+       "en": "workhouse",
+       "zh": "济贫院",
+       "gloss": "workhouse",
+       "c": 0
+      },
+      {
+       "en": "inmates",
+       "zh": "院民",
+       "gloss": "inmates",
+       "c": 1
+      },
+      {
+       "en": "zone",
+       "zh": "区域",
+       "gloss": "zone",
+       "c": 2
+      },
+      {
+       "en": "borehole",
+       "zh": "钻井",
+       "gloss": "borehole",
+       "c": 3
+      },
+      {
+       "en": "recorded",
+       "zh": "记录在案",
+       "gloss": "recorded",
+       "c": 4
+      }
+     ]
+    }
    ]
   },
   {
@@ -681,6 +920,38 @@
      "gloss": "supplied",
      "c": 2
     }
+   ],
+   "chunks": [
+    {
+     "en": "A **brewery** **beside** the pump lost nobody,",
+     "zh": "紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，",
+     "marks": [
+      {
+       "en": "brewery",
+       "zh": "酿酒厂",
+       "gloss": "brewery",
+       "c": 0
+      },
+      {
+       "en": "beside",
+       "zh": "挨着",
+       "gloss": "beside",
+       "c": 1
+      }
+     ]
+    },
+    {
+     "en": "since the men were **supplied** with beer.",
+     "zh": "因为工人的**配给**(supplied)是啤酒。",
+     "marks": [
+      {
+       "en": "supplied",
+       "zh": "配给",
+       "gloss": "supplied",
+       "c": 0
+      }
+     ]
+    }
    ]
   },
   {
@@ -758,6 +1029,31 @@
      "zh": "清空",
      "gloss": "emptied",
      "c": 1
+    }
+   ],
+   "chunks": [
+    {
+     "en": "Both stood in the same **stench** as the tenements being **emptied** around them:",
+     "zh": "两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；",
+     "marks": [
+      {
+       "en": "stench",
+       "zh": "恶臭",
+       "gloss": "stench",
+       "c": 0
+      },
+      {
+       "en": "emptied",
+       "zh": "清空",
+       "gloss": "emptied",
+       "c": 1
+      }
+     ]
+    },
+    {
+     "en": "same air, different water.",
+     "zh": "空气一模一样，水不是。",
+     "marks": []
     }
    ]
   },
@@ -867,13 +1163,56 @@
      "gloss": "delivered",
      "c": 3
     }
+   ],
+   "chunks": [
+    {
+     "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air,",
+     "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，",
+     "marks": [
+      {
+       "en": "widow",
+       "zh": "寡妇",
+       "gloss": "widow",
+       "c": 0
+      },
+      {
+       "en": "remote",
+       "zh": "远离",
+       "gloss": "remote",
+       "c": 1
+      }
+     ]
+    },
+    {
+     "en": "died on 2 September;",
+     "zh": "她却在 9 月 2 日死了：",
+     "marks": []
+    },
+    {
+     "en": "she preferred the **taste** of Broad Street water and had it **delivered**.",
+     "zh": "她偏爱宽街水的**口感**(taste)，一直让人**送**(delivered)过去。",
+     "marks": [
+      {
+       "en": "taste",
+       "zh": "口感",
+       "gloss": "taste",
+       "c": 0
+      },
+      {
+       "en": "delivered",
+       "zh": "送",
+       "gloss": "delivered",
+       "c": 1
+      }
+     ]
+    }
    ]
   },
   {
    "i": 11,
    "para": 4,
    "en": "Her **niece**, visiting from Islington, **sipped** the same bottle and died the next day.",
-   "zh": "她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，",
+   "zh": "她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，第二天也死了。",
    "plain": "Her niece, visiting from Islington, sipped the same bottle and died the next day.",
    "words": [
     "Her",
@@ -939,13 +1278,32 @@
      "gloss": "sipped",
      "c": 1
     }
+   ],
+   "chunks": [
+    {
+     "en": "Her **niece**,",
+     "zh": "她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，",
+     "marks": [
+      {
+       "en": "niece",
+       "zh": "外甥女",
+       "gloss": "niece",
+       "c": 0
+      }
+     ]
+    },
+    {
+     "en": "visiting from Islington, **sipped** the same bottle and died the next day.",
+     "zh": "第二天也死了。",
+     "marks": []
+    }
    ]
   },
   {
    "i": 12,
    "para": 4,
    "en": "Those two deaths **refute** the **miasma** by themselves.",
-   "zh": "第二天也死了。这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。",
+   "zh": "这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。",
    "plain": "Those two deaths refute the miasma by themselves.",
    "words": [
     "Those",
@@ -998,6 +1356,26 @@
      "zh": "瘴气说",
      "gloss": "miasma",
      "c": 1
+    }
+   ],
+   "chunks": [
+    {
+     "en": "Those two deaths **refute** the **miasma** by themselves.",
+     "zh": "这两个人单凭自己就**驳倒**(refute)了**瘴气说**(miasma)。",
+     "marks": [
+      {
+       "en": "refute",
+       "zh": "驳倒",
+       "gloss": "refute",
+       "c": 0
+      },
+      {
+       "en": "miasma",
+       "zh": "瘴气说",
+       "gloss": "miasma",
+       "c": 1
+      }
+     ]
     }
    ]
   },
@@ -1071,6 +1449,42 @@
      "gloss": "anomalies",
      "c": 1
     }
+   ],
+   "chunks": [
+    {
+     "en": "Snow had no microscope,",
+     "zh": "斯诺没有显微镜，",
+     "marks": []
+    },
+    {
+     "en": "no germ,",
+     "zh": "没有细菌，",
+     "marks": []
+    },
+    {
+     "en": "no **infection** theory:",
+     "zh": "也没有**传染**(infection)理论，",
+     "marks": [
+      {
+       "en": "infection",
+       "zh": "传染",
+       "gloss": "infection",
+       "c": 0
+      }
+     ]
+    },
+    {
+     "en": "a map and two **anomalies**.",
+     "zh": "只有一张地图和两处**异常**(anomalies)。",
+     "marks": [
+      {
+       "en": "anomalies",
+       "zh": "异常",
+       "gloss": "anomalies",
+       "c": 0
+      }
+     ]
+    }
    ]
   },
   {
@@ -1139,6 +1553,32 @@
      "gloss": "handle",
      "c": 2
     }
+   ],
+   "chunks": [
+    {
+     "en": "On 8 September the **parish** **removed** the pump **handle**.",
+     "zh": "9 月 8 日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。",
+     "marks": [
+      {
+       "en": "parish",
+       "zh": "教区",
+       "gloss": "parish",
+       "c": 0
+      },
+      {
+       "en": "removed",
+       "zh": "卸下",
+       "gloss": "removed",
+       "c": 1
+      },
+      {
+       "en": "handle",
+       "zh": "把手",
+       "gloss": "handle",
+       "c": 2
+      }
+     ]
+    }
    ]
   },
   {
@@ -1204,6 +1644,26 @@
      "zh": "粪坑",
      "gloss": "cesspit",
      "c": 1
+    }
+   ],
+   "chunks": [
+    {
+     "en": "**Diggers** later found the leaking **cesspit** two feet eight inches away.",
+     "zh": "后来，**挖掘工**(Diggers)才在两英尺八英寸外找到那口渗漏的**粪坑**(cesspit)。",
+     "marks": [
+      {
+       "en": "Diggers",
+       "zh": "挖掘工",
+       "gloss": "Diggers",
+       "c": 0
+      },
+      {
+       "en": "cesspit",
+       "zh": "粪坑",
+       "gloss": "cesspit",
+       "c": 1
+      }
+     ]
     }
    ]
   },
@@ -1275,6 +1735,32 @@
      "gloss": "accepted",
      "c": 1
     }
+   ],
+   "chunks": [
+    {
+     "en": "The outbreak was already **fading**;",
+     "zh": "疫情本已在**消退**(fading)，",
+     "marks": [
+      {
+       "en": "fading",
+       "zh": "消退",
+       "gloss": "fading",
+       "c": 0
+      }
+     ]
+    },
+    {
+     "en": "the board **accepted** his advice, not his conclusion.",
+     "zh": "委员会**接受**(accepted)的也不是他的结论，",
+     "marks": [
+      {
+       "en": "accepted",
+       "zh": "接受",
+       "gloss": "accepted",
+       "c": 0
+      }
+     ]
+    }
    ]
   },
   {
@@ -1334,6 +1820,31 @@
      "zh": "不信",
      "gloss": "unconvinced",
      "c": 1
+    }
+   ],
+   "chunks": [
+    {
+     "en": "He died in 1858,",
+     "zh": "只是他的建议；",
+     "marks": []
+    },
+    {
+     "en": "his **profession** still **unconvinced**.",
+     "zh": "他 1858 年去世时，他那个**行当**(profession)仍然**不信**(unconvinced)。",
+     "marks": [
+      {
+       "en": "profession",
+       "zh": "行当",
+       "gloss": "profession",
+       "c": 0
+      },
+      {
+       "en": "unconvinced",
+       "zh": "不信",
+       "gloss": "unconvinced",
+       "c": 1
+      }
+     ]
     }
    ]
   },
@@ -1412,6 +1923,25 @@
      "zh": "确定性",
      "gloss": "certainty",
      "c": 0
+    }
+   ],
+   "chunks": [
+    {
+     "en": "When being wrong costs a handle and being right saves a street,",
+     "zh": "当错了不过是丢一个把手、",
+     "marks": []
+    },
+    {
+     "en": "**certainty** is the wrong thing to wait for.",
+     "zh": "对了却能救下一条街，**确定性**(certainty)就是那件不该等的东西。",
+     "marks": [
+      {
+       "en": "certainty",
+       "zh": "确定性",
+       "gloss": "certainty",
+       "c": 0
+      }
+     ]
     }
    ]
   }

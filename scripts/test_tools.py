@@ -2308,6 +2308,17 @@ check("builder 支持断点续跑与限流（坑五）", all(
     x in open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
     for x in ("--n", "--fresh", "断点续跑")))
 check("听读页 16:9 且带 reader/ 前缀", "aspect-ratio:16/9" in _lh and "const BASE='reader/'" in _lh)
+check("每句都拆了意群，且中英都不为空", all(
+    s.get("chunks") and all(c["en"].strip() and c["zh"].strip() for c in s["chunks"])
+    for s in _rd["sentences"]))
+check("意群拼回去＝原句（英文不丢词）", all(
+    " ".join(c["en"] for c in s["chunks"]).replace("**", "").split()
+    == s["en"].replace("**", "").split() for s in _rd["sentences"]))
+check("意群拼回去＝原句（中文不丢字）", all(
+    "".join(c["zh"] for c in s["chunks"]).replace(" ", "")
+    == s["zh"].replace(" ", "") for s in _rd["sentences"]))
+check("确实拆细了（平均每句 ≥1.5 段）", sum(len(s["chunks"]) for s in _rd["sentences"]) >= len(_rd["sentences"]) * 1.5)
+check("网页与视频都按意群成对排", "class=\"pair\"" in _lh and "chunks" in open(os.path.join(ROOT, "scripts/make_video.py"), encoding="utf-8").read())
 check("重点词一律金色（用户指定）", "--gold:#f5c542" in _lh and _lh.count("var(--gold)") >= 6)
 _mp4 = os.path.join(ROOT, "reader/a01.mp4")
 check("第01篇 mp4 已生成", os.path.getsize(_mp4) > 1e6)
