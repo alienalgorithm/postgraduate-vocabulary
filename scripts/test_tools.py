@@ -2343,6 +2343,13 @@ check("否定词两边对上（英 not/no… ↔ 中 不/没/无）", all(
 check("数字两边对上（一边有数字另一边不能没有）", all(
     bool(re.search(r"\d", c["en"])) == bool(re.search(r"\d", re.sub(r"\([^)]*\)", "", c["zh"])))
     for s in _rd["sentences"] for c in s["chunks"]))
+_ck = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/check_chunks.py"), "--selftest"],
+                     capture_output=True, text=True, timeout=120)
+check("对齐检查员自测：六种已知坏对齐全逮住、好对齐零误报", _ck.returncode == 0 and "自测 全过" in _ck.stdout)
+_ck1 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/check_chunks.py"), "01", "--quiet"],
+                      capture_output=True, text=True, timeout=120)
+check("第01篇过检查员（零 A）", _ck1.returncode == 0 and "零 A" in _ck1.stdout)
+check("build_reader 生成完自动跑检查员", "check_chunks.py" in open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read())
 check("第01篇拆成 39 段且每段中英都非空", sum(len(s["chunks"]) for s in _rd["sentences"]) == 39)
 check("确实拆细了（平均每句 ≥1.5 段）", sum(len(s["chunks"]) for s in _rd["sentences"]) >= len(_rd["sentences"]) * 1.5)
 check("网页与视频都按意群成对排", "class=\"pair\"" in _lh and "chunks" in open(os.path.join(ROOT, "scripts/make_video.py"), encoding="utf-8").read())

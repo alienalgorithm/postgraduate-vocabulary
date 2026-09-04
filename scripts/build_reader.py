@@ -434,6 +434,11 @@ def main():
         print("  ✓ 解码质检全过（削波／过轻／过短／时间轴越界／单位）")
     if len(sents) < n:
         print("  ↻ 还差 %d 句，再跑一次同样的命令即可（断点续跑）" % (n - len(sents)))
+    else:
+        # ★ 每次生成完，检查员自动过一遍（用户 2026-09-04：以后每次弄完都要有机器人审）。
+        #   判据与本文件的对齐算法相互独立，见 scripts/check_chunks.py。有 A 级会在这里红出来。
+        print()
+        subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "check_chunks.py"), aid])
 
 
 if __name__ == "__main__":
