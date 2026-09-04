@@ -18,6 +18,8 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import core  # noqa: E402  ★ 撞库窗口唯一出处
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
@@ -193,11 +195,20 @@ def validate_archive(articles: list[dict[str, Any]]) -> list[str]:
             for form in BOLD_RE.findall(paragraph.get("en", "")):
                 surface_origins[normalize(form)].append(aid)
 
+    # ★ 撞库窗口：与 core.clash_scope 同一规则（2026-09-04）——两篇只在 |id 差| ≤ 窗口时才算撞。
+    #   此前这里是第三份撞库实现，不认窗口；第70篇入库时报了 7 处假重复。
+    def _within(ids):
+        ids = sorted({int(x) for x in ids})
+        win = getattr(core, "CLASH_WINDOW", None)
+        if not win:
+            return len(ids) > 1
+        return any(b - a <= int(win) for a in ids for b in ids if b > a)
+
     duplicate_lemmas = {
-        lemma: ids for lemma, ids in lemma_origins.items() if len(set(ids)) > 1
+        lemma: ids for lemma, ids in lemma_origins.items() if _within(ids)
     }
     duplicate_surfaces = {
-        surface: ids for surface, ids in surface_origins.items() if len(set(ids)) > 1
+        surface: ids for surface, ids in surface_origins.items() if _within(ids)
     }
     if duplicate_lemmas:
         preview = "; ".join(

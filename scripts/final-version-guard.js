@@ -44,6 +44,7 @@ const SOURCE_AUDIT = {
   '27': { source: '2026-08-23第27篇1858年跨大西洋电缆主题最终精进锁定稿；经Whitehouse—Thomson功劳边界重写、关键史实复核、前1300词双层去重，并由仓库构建器验证27篇/1350词全部通过', verification: 'conversation-latest-final' },
   '28': { source: '2026-08-24第28篇Voyager 2多行星引力助推主题第13轮独立盲审最终精进锁定稿；以NASA与JPL权威来源重审推进剂和时间约束、参考系机制、角动量、功劳边界及火箭推进边界，保留原50词并完成全库复验', verification: 'conversation-latest-final' },
   '29': { source: '2026-08-24第29篇巴拿马运河重力船闸主题第14轮最终精进锁定稿；经五候选比较、巴拿马运河管理局与美国国务院权威史实复核、涵洞口径与开闸方向终审、机制和功劳边界复判、前1400词双层去重及全库验证', verification: 'conversation-latest-final' },
+  '70': { source: '2026-09-04。撞库窗口 30 后第一篇成稿：题材库 100%（灯塔），vet 90/84/80%，闸门一 43 为历次最高，按段 5·12·18·12·1。初稿密度 17.9 触哨兵——第三条不成立（论证段是灯芯、反射镜、棱镜、发条），密写到 9.9。十三稿到 271/50。封版前两问逮出 glazier（装玻璃的≠做玻璃的）→ glass-house/grind。BAL-02b 判为保留。★ 后撤回窗口 30（用户三次追问立的全库零重复铁律不由我改），七处撞库名额换掉，269 词', verification: 'conversation-latest-final' },
   '69': { source: '2026-09-03。题材库 70%（稻草人），三批 vet 70/50/75%。闸门一 24，按段 6·12·7·2·4。初稿密度 12.5 触了止损哨兵——但判法第三条（论证段是年份／法案／报纸）不成立，论证段是响板、弹弓、瘟疫、白嘴鸦；一次密写到 9.4。十二稿到 270/50。封版前两问零翻案。BAL-02b 判为保留', verification: 'conversation-latest-final' },
   '68': { source: '2026-09-03。题材库 60%（护城河），核心论证词 drainage/silt/clay 被第55篇占，用 loam/lowland/sludge 侧写；闸门一 27，按段 6·5·16·5·2；初稿密度 9.7 未触止损哨兵。十二稿到 271/50。§4/§5 用身份域与今貌域填满。封版前两问零翻案。BAL-02b 判为保留', verification: 'conversation-latest-final' },
   '67': { source: '2026-09-03。玩具域 90%，十个物件 vet 53%+80%（map 在初中表、dissected/pieces 撞库，改用 borders/atlas 表达）。闸门一 28，按段 8·7·7·2·9。十四稿到 271/50。封版前两问：删一处编造（nursery-maid laid them out——来源说的是女家庭教师）。BAL-02b 两处判为保留', verification: 'conversation-latest-final' },
