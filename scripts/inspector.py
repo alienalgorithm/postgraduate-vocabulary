@@ -17,7 +17,8 @@ v3 一条都报不出来——这就是 v4 存在的理由。
 
 依赖：wordfreq（可选。缺失时 VAL-01 自动降级为内置词表）
 """
-import json, re, sys, subprocess, glob, os, math
+import json
+import core, re, sys, subprocess, glob, os, math
 from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -336,7 +337,8 @@ def inspect(a, archive):
         F.append(Finding("VAL-06", "词价", "hard", "速查表词元重复", "、".join(gdup)))
 
     o_lem, o_srf = set(), set()
-    for x in archive:
+    # ★ 撞库窗口：与 agent.used_index 同一个函数 core.clash_scope（2026-09-04），别再各写一份
+    for x in core.clash_scope(archive, a["id"]):
         if x["id"] == a["id"]:
             continue
         for g in x.get("glossary", []):
@@ -556,7 +558,7 @@ def inspect(a, archive):
             _IRRG[_x] = _grp.split()
     _mine = [w.lower() for p_ in paras for w in _kw(p_["en"])]
     _others = {}
-    for _oa in (archive or []):
+    for _oa in core.clash_scope(archive or [], a["id"]):
         if _oa.get("id") == a.get("id"):
             continue
         for _p in _oa["paras"]:
@@ -906,7 +908,7 @@ def inspect(a, archive):
         w = g["w"]
         base = w[:-3] if w.endswith("ing") else (w[:-2] if w.endswith("ed") else w[:-1])
         if (any(w.endswith(x) for x in INFLECT) and len(w) > 5
-                and any(g2["w"] == base or g2["w"] == base + "e" for a2 in archive
+                and any(g2["w"] == base or g2["w"] == base + "e" for a2 in core.clash_scope(archive, a["id"])
                         for g2 in a2.get("glossary", []))):
             F.append(Finding("GLO-03", "速查表", "info", "词元疑似非原形", w,
                 "速查表应给词典原形，便于背记"))

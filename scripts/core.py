@@ -177,5 +177,22 @@ def metrics(paras):
 # 《总令》「词池现状」路二：撞库只在相邻 N 篇内算。poolsim.py 量过：全库 7/46 题材过线，40 篇 18，30 篇 24，20 篇 29。
 # **改这一个数就是选路二；不改就是路一。规则本身（VAL-07/08）在铁律里，改不改由用户定。**
 # None 或 0 = 全库；正整数 N = 只与最近 N 篇比。
-CLASH_WINDOW = None
+CLASH_WINDOW = 30
+
+
+def clash_scope(arts, target_id=None):
+    """撞库时该与哪些篇比。唯一实现——agent.used_index 与 inspector 都调这里，别各写一份。
+    窗口为空 → 全库；有窗口 → 只与 |id − target| ≤ N 的篇比（对称，老篇不会因新篇入库而被追溯改判）；
+    没给 target（例如 brief/domains 扫全库）→ 取最近 N 篇。"""
+    win = CLASH_WINDOW
+    if not win:
+        return list(arts)
+    win = int(win)
+    if target_id is not None:
+        try:
+            t = int(target_id)
+        except (TypeError, ValueError):
+            return list(arts)
+        return [x for x in arts if abs(int(x["id"]) - t) <= win and x["id"] != str(target_id)]
+    return sorted(arts, key=lambda x: int(x["id"]))[-win:]
 

@@ -1695,9 +1695,10 @@ check("表已同源（sweep/swept 在内）",
 check("表规模与七层一致", len(_agmod._IRR_GRP) > 200,
       "★ 自写那份只有一百余条")
 _r13 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/agent.py"),
-                       "vet", "56", "sweep"],
+                       "vet", "06", "sweep"],
                       capture_output=True, text=True, timeout=180).stdout
-check("实测：sweep 当场被拦", "同一动词" in _r13)
+# ⚠ 2026-09-04 撞库窗口 30 后，56 与 05 相距 51 篇不再算撞；改用 06（与 05 相邻）锁机制本身
+check("实测：sweep 当场被拦（窗口内）", "同一动词" in _r13)
 
 
 # ── 第四条也不该立成规则（2026-09-02）────────────────────────────────
@@ -2026,7 +2027,8 @@ _r19 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/topic.py"),
                        "/tmp/n62.txt", "--nouns", "hatchery", "parr", "--verbs", "spawn"],
                       capture_output=True, text=True, timeout=600).stdout \
        if os.path.exists("/tmp/n62.txt") else "域是域，论点是论点"
-check("实测：鲑鱼材料被闸门一拦下并印出规矩", "域是域，论点是论点" in _r19)
+# ⚠ 2026-09-04 撞库窗口 30 后鲑鱼材料可用词变多，闸门一可能放行；锁的是「拦下时印规矩」这一机制
+check("实测：鲑鱼材料——拦下则印出规矩，未拦则报出可用词数", ("域是域，论点是论点" in _r19) or ("一、可用词" in _r19))
 
 
 # ── 人读第一条的另一半：词 vet 过但词义不对（2026-09-03 补）─────────────
@@ -2193,8 +2195,9 @@ if os.path.exists(_tmp_d):
 print("\n[词池] 撞库窗口")
 _co3 = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
 _ag19 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
-check("core 有 CLASH_WINDOW 且默认 None", "CLASH_WINDOW = None" in _co3)
-check("used_index 读窗口", "CLASH_WINDOW" in _ag19 and "_win" in _ag19)
+check("core 有 CLASH_WINDOW（2026-09-04 定为 30，可逆）", "CLASH_WINDOW = 30" in _co3 or "CLASH_WINDOW = None" in _co3)
+check("core 有 clash_scope 唯一实现", "def clash_scope(" in _co3)
+check("used_index 与 inspector 都走 core.clash_scope（一份实现）", "core.clash_scope(arts, exclude)" in _ag19 and open(os.path.join(ROOT, "scripts/inspector.py"), encoding="utf-8").read().count("core.clash_scope(") >= 3)
 check("poolsim.py 存在", os.path.exists(os.path.join(ROOT, "scripts/poolsim.py")))
 check("《总令》记了四档数字", "**最近 20 篇** | **29**" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
 

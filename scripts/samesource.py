@@ -61,6 +61,8 @@ REGISTRY = {
     # ★ 旧的错值也登记：谁再把 270／240 抄回来，当场拦（2026-09-03）
     "270": ("inspector.py", "core.WORD_MAX", "★旧错值：词数上限实为 271",
             ("word", "words", "词数", "count_words", "WORDS_MAX")),
+    "30": ("core.py", "core.CLASH_WINDOW", "撞库窗口（2026-09-04 定为 30）",
+           ("CLASH_WINDOW", "window", "窗口", "clash_scope")),
     "240": ("inspector.py", "core.WORD_MIN", "★旧错值：词数下限实为 249",
             ("word", "words", "词数", "count_words", "WORDS_MIN")),
 }
