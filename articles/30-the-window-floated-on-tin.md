@@ -13,11 +13,11 @@ In the early 1950s, flat-glass **manufacturers** faced a **compromise**. Drawing
 
 In 1952, at Pilkington Brothers in St Helens, Alastair Pilkington **pursued** quality and **continuity** by **floating** glass on **molten** metal. Earlier patents meant the principle was not **unprecedented**; the **breakthrough** lay in **industrial** control. A 1953 patent named Pilkington and Kenneth Bickerstaff as **co-inventors**. Their team **endured** seven years of **experimentation** before the 1959 announcement.
 
-At 1,100°C, glass flowed onto molten tin. Tin's **density** supported it; the metal was **high-boiling**, **unreactive** towards the melt and thermally **conductive**: a **workable** bath. Gravity spread the glass; surface **tension** checked thinning at roughly 6.8 millimetres. While held hot, the glass lost its **irregularities** as the melt **relaxed**: its upper face became smooth while tin **furnished** a level **underside**.
+At 1,100°C, glass flowed onto molten tin. Tin's **density** supported it; the metal was **high-boiling**, **unreactive** towards the melt and thermally **conductive**: a **workable** bath. Gravity spread it; surface **tension** checked thinning at roughly 6.8 millimetres. While held hot, the glass lost its **irregularities** as the melt **relaxed**: its upper face became smooth while tin **furnished** a level **underside**.
 
 Apparent **simplicity** concealed tight chemical and thermal control. In air tin formed **dross** that would **blemish** glass; a **protective** nitrogen-hydrogen atmosphere **suppressed** oxidation. **Cooling** raised **viscosity** until, near 600°C, rollers could lift the ribbon without leaving **marks**. A lehr, an annealing oven, eased the **sheet**, relieving stresses that could cause **fracture**.
 
-Grinding and polishing compensated for damage: solid **machinery** marked glass and more machinery **repaired** it. The float process reversed that **logic**. Liquids created **pristine** faces; handling was **deferred** until the ribbon could survive it, **reconciling** plate quality with sheet-glass economy and making large **panes** **affordable**. Its **precision** came from **postponing** solid contact: the window became flat while still afloat.
+Grinding and polishing compensated for damage: solid **machinery** marked glass and more machinery **repaired** it. The float process reversed that **logic**. Liquids made nearly **pristine** faces; handling was **deferred** until the ribbon could survive it, **reconciling** plate quality with sheet-glass economy and making large **panes** **affordable**. Its **precision** came from **postponing** solid contact: the window became flat while still afloat.
 
 ---
 

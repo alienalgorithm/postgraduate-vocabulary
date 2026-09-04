@@ -26,7 +26,7 @@
           "zh": "1952 年，在圣海伦斯的皮尔金顿兄弟公司，阿拉斯泰尔·皮尔金顿开始**追求**(pursued)一种兼得品质与生产**连续性**(continuity)的办法：让玻璃**漂浮**(floating)在**熔融的**(molten)金属上。早期专利说明这一原理并非**前所未有**(unprecedented)；真正的**突破**(breakthrough)在于实现**工业化的**(industrial)控制。1953 年的一项专利把皮尔金顿与肯尼斯·比克斯塔夫列为**共同发明人**(co-inventors)。他们的团队**熬过了**(endured)七年**反复试验**(experimentation)，直到 1959 年才公开这一工艺。"
         },
         {
-          "en": "At 1,100°C, glass flowed onto molten tin. Tin's **density** supported it; the metal was **high-boiling**, **unreactive** towards the melt and thermally **conductive**: a **workable** bath. Gravity spread the glass; surface **tension** checked thinning at roughly 6.8 millimetres. While held hot, the glass lost its **irregularities** as the melt **relaxed**: its upper face became smooth while tin **furnished** a level **underside**.",
+          "en": "At 1,100°C, glass flowed onto molten tin. Tin's **density** supported it; the metal was **high-boiling**, **unreactive** towards the melt and thermally **conductive**: a **workable** bath. Gravity spread it; surface **tension** checked thinning at roughly 6.8 millimetres. While held hot, the glass lost its **irregularities** as the melt **relaxed**: its upper face became smooth while tin **furnished** a level **underside**.",
           "zh": "玻璃以约 1,100°C 的温度流到熔融锡液上。锡的**密度**(density)比玻璃大，足以托住玻璃带；锡又兼具**高沸点**(high-boiling)、对玻璃熔体**不易反应**(unreactive)和**导热**(conductive)三项性质，使锡浴在工艺上**可行**(workable)。重力使玻璃铺展开来；当厚度降至约 6.8 毫米，表面**张力**(tension)便阻止它继续变薄。保温之下，玻璃随着熔体逐渐**松弛**(relaxed)而失去表面的**不规则起伏**(irregularities)：上表面自行变平，锡液则为玻璃**提供了**(furnished)水平的**底面**(underside)。"
         },
         {
@@ -34,7 +34,7 @@
           "zh": "看似**简单**(simplicity)，其实化学条件和温度都必须受到严密控制。暴露在空气中，锡会氧化并产生**浮渣**(dross)，可能给玻璃**留下瑕疵**(blemish)；氮气—氢气构成的**保护性**(protective)气氛则**抑制了**(suppressed)这种氧化。随着**冷却**(Cooling)，玻璃的**黏度**(viscosity)上升；接近 600°C 时，轧辊才能托起已经变硬的玻璃带而不留下**印痕**(marks)。随后，玻璃片在退火炉中缓缓松弛，释放这张**片**(sheet)里可能导致**断裂**(fracture)的应力。"
         },
         {
-          "en": "Grinding and polishing compensated for damage: solid **machinery** marked glass and more machinery **repaired** it. The float process reversed that **logic**. Liquids created **pristine** faces; handling was **deferred** until the ribbon could survive it, **reconciling** plate quality with sheet-glass economy and making large **panes** **affordable**. Its **precision** came from **postponing** solid contact: the window became flat while still afloat.",
+          "en": "Grinding and polishing compensated for damage: solid **machinery** marked glass and more machinery **repaired** it. The float process reversed that **logic**. Liquids made nearly **pristine** faces; handling was **deferred** until the ribbon could survive it, **reconciling** plate quality with sheet-glass economy and making large **panes** **affordable**. Its **precision** came from **postponing** solid contact: the window became flat while still afloat.",
           "zh": "研磨和抛光本质上是在补救损伤：固体**机械设备**(machinery)先在玻璃上留下痕迹，再由更多机械把它**修复**(repaired)。让玻璃漂浮，颠倒了这套**逻辑**(logic)。两种液体共同塑造出近乎**完好无瑕的**(pristine)两面；机械搬运则被**推迟到**(deferred)玻璃带能够承受之后，由此**调和了**(reconciling)磨光板玻璃的品质与薄片玻璃的经济性，使大块**窗玻璃**(panes)变得**负担得起**(affordable)。它的表面**精度**(precision)来自**推迟**(postponing)与固体的接触：窗玻璃还漂在锡液上时，就已经变得平整。"
         }
       ],

@@ -154,12 +154,12 @@ jobs:
             '18': { words: 269, keywords: 50, density: 18.6, status: '第十八篇最终精进锁定稿' },
             '19': { words: 269, keywords: 50, density: 18.6, status: '第十九篇最终精进锁定稿' },
             '20': { words: 268, keywords: 50, density: 18.7, status: '第二十篇最终精进锁定稿' },
-            '21': { words: 271, keywords: 50, density: 18.5, status: '第二十一篇定稿' },
+            '21': { words: 269, keywords: 50, density: 18.6, status: '第二十一篇定稿' },
             '22': { words: 271, keywords: 50, density: 18.5, status: '第二十二篇定稿' },
             '23': { words: 268, keywords: 50, density: 18.7, status: '第二十三篇定稿' },
-            '24': { words: 261, keywords: 50, density: 19.2, status: '第二十四篇定稿' },
+            '24': { words: 262, keywords: 50, density: 19.1, status: '第二十四篇定稿' },
             '25': { words: 267, keywords: 50, density: 18.7, status: '第二十五篇最终精进锁定稿' },
-            '26': { words: 268, keywords: 50, density: 18.7, status: '第二十六篇最终精进锁定稿' }
+            '26': { words: 266, keywords: 50, density: 18.8, status: '第二十六篇最终精进锁定稿' }
           };
           const article27 = globalThis.SITE.ARTICLES.find(a => a.id === '27');
           if (article27) expected['27'] = { words: 271, keywords: 50, density: 18.5, status: '第二十七篇最终精进锁定稿' };
