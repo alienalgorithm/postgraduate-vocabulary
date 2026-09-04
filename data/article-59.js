@@ -17,19 +17,19 @@
           "zh": "谁都知道**香料**(spice)贸易是为了什么。没有冷**食物柜**(larder)，肉就坏，于是富人往里猛加**胡椒**(pepper)、**姜**(ginger)、**丁香**(clove)和**肉桂**(cinnamon)，照吃不误。那些**商队**(caravan)路线、葡萄牙人的远航、停泊的**桨帆船**(galley)、码头**岸壁**(quay)上卸下的**捆包**(bale)——全都是为了盖住一股味。"
         },
         {
-          "en": "Look at the cost. A pig in 1300 sold for what a pound of pepper did, the cheapest item on any **consignment**, **crate** or **cask**. **Nutmeg**, **mace** and **saffron** ran dearer, before the **levy** on the **lading**. A man who could not buy fresh pork could not buy a **pinch** of **peppercorn**.",
-          "zh": "看看价钱。1300 年前后，一头猪卖的钱等于一磅胡椒——那是任何一批**货**(consignment)、任何一只**板条箱**(crate)或**木桶**(cask)里最便宜的一样。**肉豆蔻**(nutmeg)、**肉豆蔻皮**(mace)、**藏红花**(saffron)还要贵，这还没算**提单**(lading)上那笔**税**(levy)。买不起鲜猪肉的人，也买不起一**撮**(pinch)**胡椒粒**(peppercorn)。"
+          "en": "Look at the cost. A pig in 1300 sold for what a pound of pepper did, pepper the cheapest item on any **consignment**, **crate** or **cask**. **Nutmeg**, **mace** and **saffron** ran dearer, before the **levy** on the **lading**. A man who could not buy fresh pork could not buy a **pinch** of **peppercorn**.",
+          "zh": "看看价钱。1300 年前后，一头猪卖的钱等于一磅胡椒——那是任何一批**货**(consignment)、任何一只**板条箱**(crate)或**木桶**(cask)里最便宜的一样。**肉豆蔻**(nutmeg)、**肉豆蔻皮**(mace)、**藏红花**(saffron)还要贵，这还没算**所载货物**(lading)上那笔**税**(levy)。买不起鲜猪肉的人，也买不起一**撮**(pinch)**胡椒粒**(peppercorn)。"
         },
         {
-          "en": "So those rich enough to buy were least likely to eat anything **tainted**. Their **pantry** held fresh meat: the **butcher** killed to order, the **shambles** worked each morning, its **hooks** filled under the **guild**, the **spit** turning by noon with its **basting**. Everyone else used **salting**, **pickling** and drying: all cheap, and all of them worked.",
-          "zh": "所以买得起的人，恰恰是最不可能吃到**变质**(tainted)东西的人。他们的**食品间**(pantry)里是鲜肉：**屠夫**(butcher)按需宰杀，**肉市**(shambles)每天早上开工，**挂钩**(hooks)在**行会**(guild)眼皮底下挂满，到晌午**烤叉**(spit)已经转起来，一边转一边**浇油**(basting)。其余人靠**腌**(salting)、靠**渍**(pickling)、靠晒：都便宜，也都管用。"
+          "en": "So those rich enough to buy were least likely to eat anything **tainted**. Their **pantry** held fresh meat: the **butcher** killed to order, the **shambles** worked each morning, its **hooks** filled under the **guild**'s eye, the **spit** turning and **basting** by noon. Everyone else used **salting**, **pickling** and drying: all cheap, and all worked.",
+          "zh": "所以买得起的人，恰恰是最不可能吃到**变质**(tainted)东西的人。他们的**食品间**(pantry)里是鲜肉：**屠夫**(butcher)按需宰杀，**肉市**(shambles)每天早上开工，**挂钩**(hooks)在**行会**(guild)眼皮底下挂满，到晌午**烤叉**(spit)已经一边转一边**浇油**(basting)。其余人靠**腌**(salting)、靠**渍**(pickling)、靠晒：都便宜，也都管用。"
         },
         {
-          "en": "Drummond's *The Englishman's Food*, 1939, starts it. He took *greene* for meat gone green; it meant meat not yet hung — a **rancid** reading of a **butchery** term, travelling by **reprint** and **preface** since no **reviewer** checked. The same **chapter** prints the **bylaws** making a butcher **forfeit** bad goods, the **whipping** that followed — his own **errata**, unread.",
-          "zh": "德拉蒙德1939年的《英国人的食物》是这故事的起点。他把 *greene* 读作「肉发绿」，而它的意思是肉还没挂够时候——**一个把**屠宰**(butchery)行话读**馊**(rancid)了的读法，靠**重印**(reprint)与**序言**(preface)一路传下去，因为没有**书评人**(reviewer)去核。同一**章**(chapter)里，他还印了那些让屠夫**没收**(forfeit)坏货的**市镇法令**(bylaws)、随之而来的**鞭刑**(whipping)，那本身就是一份他自己印出来、却没人读的**勘误**(errata)。"
+          "en": "Drummond's *The Englishman's Food*, 1939, starts the story. He took *greene* for meat gone green; it meant meat not yet hung — a **rancid** reading of a **butchery** term, travelling by **reprint** and **preface** since no **reviewer** checked. The same **chapter** prints the **bylaws** making a butcher **forfeit** bad goods, the **whipping** that followed — his own **errata**, unread.",
+          "zh": "德拉蒙德 1939 年的《英国人的食物》是这故事的起点。他把 *greene* 读作「肉发绿」，而它的意思是肉还没挂够时候——一个把**屠宰**(butchery)行话读**馊**(rancid)了的读法，靠**重印**(reprint)与**序言**(preface)一路传下去，因为没有**书评人**(reviewer)去核。同一**章**(chapter)里，他还印了那些让屠夫**没收**(forfeit)坏货的**市镇法令**(bylaws)、随之而来的**鞭刑**(whipping)，那本身就是一份他自己印出来、却没人读的**勘误**(errata)。"
         },
         {
-          "en": "They were bought for **status**. A **platter** at a **banquet** was **display**: the **goblet**, the **napkin**, the loaded **sideboard**, a **guest** meant to count the cost and **envy** it. That is a poor explanation, and every generation since has invented a sturdier one. A story giving a **luxury** some use beats the truth: somebody wanted it.",
+          "en": "Spices were bought for **status**. A **platter** at a **banquet** was **display**: the **goblet**, the **napkin**, the loaded **sideboard**, a **guest** meant to count the cost and **envy** it. That is a poor explanation, and every generation since has invented a sturdier one. A story giving a **luxury** some use beats the truth: somebody wanted it.",
           "zh": "它们是为**身份**(status)买的。**宴席**(banquet)上的一只**大浅盘**(platter)就是一场**展示**(display)：那只**高脚杯**(goblet)、那块**餐巾**(napkin)、那张摆满的**餐边柜**(sideboard)，还有一位被安排来数这笔钱、并为之**眼红**(envy)的**客人**(guest)。这是个很没劲的解释，于是每一代人都替它造了一个更结实的理由。一个给**奢侈品**(luxury)安上用处的故事，总能胜过真相：有人就是想要它。"
         }
       ],
@@ -41,7 +41,8 @@
         "**⚠ 三处表述取舍**：①末段「它们是为身份买的」——**这是本文对反面的正面回答**，其依据是香料在宴席上的陈列用途，非某一来源的原话；②**正文不点 Myers 与 Freedman 的名**：本文写的是这个误读本身，点名会把重心移到学术史；③**正文不写「封建」「大航海的真实动因」等更大的引申**——那超出本文的证据范围。",
         "**本篇的机制边界**：这不是「中世纪人不吃坏肉」的故事。**坏肉当然有人吃**——正是那些买不起香料的人；市镇法令与惩罚的存在，**恰恰说明有屠夫在卖坏货。****本文的论点在一个更窄的地方：能买香料的那批人与会吃坏肉的那批人，几乎不重叠。****⚠ 需注意：德拉蒙德并非有意造假，他在同一章里就印出了不利于自己theory 的材料。**",
         "**已核 · 那个 1939**：**J. C. Drummond 与 Anne Wilbraham 的《The Englishman's Food: Five Centuries of English Diet》出版于 1939 年**，**腐肉说即出自该书。** Drummond 于 1939 至 1946 年间任英国食品部科学顾问，**本身并非史学家。**",
-        "**★★★ 已核 · 六条人读抓出两处（2026-09-02，入库后复查）**：**一 · 「salting, pickling and drying in the yard」——「在院子里」是为凑段长塞的；腌与渍在屋里做，只有晒在院子里。一个地点罩住三样，其中两样不对。****已改为「all cheap, and all of them worked」。****二 · 「the errata he never issued」——勘误表是出版社发的，不是作者『发布』的；且来源说的是他在同一章印了不利于自己的材料，并没有『勘误』这回事。这是我造出来的。****已改为「his own errata, unread」**——**这才是来源真正说的意思：那些法令与惩罚就摆在同一章里，本身就是对他自己论点的更正，只是没人去读。****⚠ 这两处检察官一条都报不出来。**"
+        "**★★★ 已核 · 六条人读抓出两处（2026-09-02，入库后复查）**：**一 · 「salting, pickling and drying in the yard」——「在院子里」是为凑段长塞的；腌与渍在屋里做，只有晒在院子里。一个地点罩住三样，其中两样不对。****已改为「all cheap, and all of them worked」。****二 · 「the errata he never issued」——勘误表是出版社发的，不是作者『发布』的；且来源说的是他在同一章印了不利于自己的材料，并没有『勘误』这回事。这是我造出来的。****已改为「his own errata, unread」**——**这才是来源真正说的意思：那些法令与惩罚就摆在同一章里，本身就是对他自己论点的更正，只是没人去读。****⚠ 这两处检察官一条都报不出来。**",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-59.md）**：六处 A——「They were bought for status」先行词隔两段，改 Spices；「under the guild」补 's eye；「with its basting」改 turning and basting；「starts it」改 starts the story；中文 §4「**一个把**」误加粗去掉；括注 lading「提单」改「所载货物」（提单是 bill of lading）。"
       ],
       "metrics": {
         "words": 268,
@@ -136,7 +137,7 @@
         },
         {
           "w": "lading",
-          "zh": "提单",
+          "zh": "所载货物",
           "p": 2
         },
         {

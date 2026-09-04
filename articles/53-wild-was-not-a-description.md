@@ -2,20 +2,20 @@
 
 > 题材：英国猎场法：一部保护「野生」的法律，保护的是一种离开看守就活不下去的养殖鸟
 > 状态：**第五十三篇定稿**（2026-09-01）
-> 指标：269 词 / 50 重点词 / 密度 18.6%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 猎场法保护野禽不被偷。可雉鸡既不野也不是本土的——它约1700年在英国已绝迹，1830年前后作为观赏鸟重新引入，此后由看守人孵出、放养、投喂。没人管的话，几季之内就会垮掉。
 
 ---
 
 ## 英文正文
 
-The game laws protected wild birds from **theft** and set a **gamekeeper** over them. The **pheasant** is not wild and is not **indigenous**. It came from Asia, an **Asiatic** bird of the field edge, **extinct** on the island by about 1700, and was **reintroduced** around 1830 for its **plumage**, an **ornamental** bird for country **estates**.
+The game laws protected wild birds from **theft** and set a **gamekeeper** over them. The **pheasant** is not wild and is not **indigenous**. It was an **Asiatic** bird of the field edge, **extinct** on the island by about 1700, and was **reintroduced** around 1830 for its **plumage**, an **ornamental** bird for country **estates**.
 
 What followed was farming. Eggs went under a **broody** **hen**, **chicks** **hatched** in a **coop**, the grown birds **stocked** into planted **coverts**, **fed** at **hoppers** all winter. The keeper did all of it and **trapped** whatever might take an egg. Left alone the stock collapsed in a few seasons.
 
-The **partridge**, **hare** and **grouse** were **native**; none was what the **guns** wanted. A party with George V in 1913 shot a reputed 4,000 in one day, more than a household ate. **Beaters** walked the **stubble** to drive them over the line; what the **snare** and the **net** once took singly now fell to the **shoot** in hundreds.
+The **partridge**, **hare** and **grouse** were **native**; none was what the **guns** wanted. A party with George V in 1913 shot a reputed 4,000 in one day, more than a household could eat. **Beaters** walked the **stubble** to drive them over the line; what the **snare** and the **net** once took singly now fell to the **shoot** in hundreds.
 
-Meanwhile the **tenant** could not touch a bird eating the **barley** he had **sown** and would **reap**. Before 1831 common law gave him the game he **rented**; the game laws took it back. After 1831 it was the landlord's; the **squire** could sell it over his head to an **outsider**. Walking the **ditch** with a dog was **trespass** enough to **convict**.
+Meanwhile the **tenant** could not touch a bird eating the **barley** he had **sown** and would **reap**. Before 1831 common law gave him the game on land he **rented**; the game laws took it back. After 1831 it was the landlord's; the **squire** could sell it over his head to an **outsider**. Walking the **ditch** with a dog was **trespass** enough to **convict**.
 
 A **magistrate** could give **gaol**; for a night **affray**, **transportation**. Wild was not a description. It was the thing that made the **offence**. Nobody **steals** a neighbour's **poultry** and calls it **pilfering**; you can only **poach** what belongs to no one until a **shotgun** goes off.
 
@@ -26,15 +26,15 @@ A **magistrate** could give **gaol**; for a night **affray**, **transportation**
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-猎场法保护野禽不被**偷**(theft)，并派一名**猎场看守**(gamekeeper)看着它们。可**雉鸡**(pheasant)既不野，也不是**本土的**(indigenous)。它来自亚洲，一种在田边活动的**亚洲**(Asiatic)鸟，约1700年在这座岛上已**绝迹**(extinct)，1830年前后为它的**羽色**(plumage)被**重新引入**(reintroduced)，成了乡间**庄园**(estates)里一种**观赏**(ornamental)鸟。
+猎场法保护野禽不被**偷**(theft)，并派一名**猎场看守**(gamekeeper)看着它们。可**雉鸡**(pheasant)既不野，也不是**本土的**(indigenous)。它是一种在田边活动的**亚洲**(Asiatic)鸟，约 1700 年在这座岛上已**绝迹**(extinct)，1830 年前后为它的**羽色**(plumage)被**重新引入**(reintroduced)，成了乡间**庄园**(estates)里一种**观赏**(ornamental)鸟。
 
-此后的事是养殖。蛋放在一只**抱窝**(broody)**母鸡**(hen)身下，**雏鸟**(chicks)在**鸡笼**(coop)里**孵**(hatched)出，长成的鸟被**投放**(stocked)进人工栽出的**林荫地**(coverts)，整个冬天在**料斗**(hoppers)边**喂**(fed)着。看守做完这一切，还要**捕**(trapped)掉任何可能叼走一枚蛋的东西。没人管的话，这个种群几季之内就会垮掉。
+此后的事是养殖。蛋放在一只**抱窝**(broody)**母鸡**(hen)身下，**雏鸟**(chicks)在**鸡笼**(coop)里**孵**(hatched)出，长成的鸟被**投放**(stocked)进人工栽出的**掩蔽林**(coverts)，整个冬天在**料斗**(hoppers)边**喂**(fed)着。看守做完这一切，还要**捕**(trapped)掉任何可能叼走一枚蛋的东西。没人管的话，这个种群几季之内就会垮掉。
 
-**山鹑**(partridge)、**野兔**(hare)与**松鸡**(grouse)才是**本地**(native)的；这三样都不是**枪**(guns)想要的。1913年一场有乔治五世在场的围猎，据传一天打下四千只，多过一户人家吃得下的数目。**赶鸟人**(Beaters)踩过**残茬**(stubble)把鸟轰过枪线；从前**套索**(snare)与**网**(net)一只一只弄到的，如今在这种**围猎**(shoot)里成百地落下。
+**山鹑**(partridge)、**野兔**(hare)与**松鸡**(grouse)才是**本地**(native)的；这三样都不是**枪**(guns)想要的。1913 年一场有乔治五世在场的围猎，据传一天打下四千只，多过一户人家吃得下的数目。**赶鸟人**(Beaters)踩过**残茬**(stubble)把鸟轰过枪线；从前**套索**(snare)与**网**(net)一只一只弄到的，如今在这种**围猎**(shoot)里成百地落下。
 
-而**佃户**(tenant)碰不得一只正在吃他**大麦**(barley)的鸟——那麦是他**播**(sown)下、要**收**(reap)的。1831年以前，普通法把他所**租**(rented)田地上的猎物给他，猎场法又拿了回去。1831年以后它归了地主；**乡绅**(squire)能越过他把这权利卖给一个**外人**(outsider)。牵着狗走一趟**沟**(ditch)，就足以按**擅闯**(trespass)**定罪**(convict)。
+而**佃户**(tenant)碰不得一只正在吃他**大麦**(barley)的鸟——那麦是他**播**(sown)下、要**收**(reap)的。1831 年以前，普通法把他所**租**(rented)田地上的猎物给他，猎场法又拿了回去。1831 年以后它归了地主；**乡绅**(squire)能越过他把这权利卖给一个**外人**(outsider)。牵着狗走一趟**沟**(ditch)，就足以按**擅闯**(trespass)**定罪**(convict)。
 
-一个**治安法官**(magistrate)可以判**监禁**(gaol)；若是夜里与看守起了**斗殴**(affray)，可以判**流放**(transportation)。「野」从来不是一个描述。它是使这桩**罪**(offence)得以成立的那样东西。没人**偷**(steals)邻居的**家禽**(poultry)还管这叫**顺手牵羊**(pilfering)；你只能**偷猎**(poach)那种在**猎枪**(shotgun)响之前不属于任何人的东西。
+一个**治安法官**(magistrate)可以判进**监狱**(gaol)；若是夜里与看守起了**斗殴**(affray)，可以判**流放**(transportation)。「野」从来不是一个描述。它是使这桩**罪**(offence)得以成立的那样东西。没人**偷**(steals)邻居的**家禽**(poultry)还管这叫**顺手牵羊**(pilfering)；你只能**偷猎**(poach)那种在**猎枪**(shotgun)响之前不属于任何人的东西。
 
 ---
 
@@ -42,7 +42,7 @@ A **magistrate** could give **gaol**; for a night **affray**, **transportation**
 
 **§1**（10词）theft 偷窃｜gamekeeper 猎场看守｜pheasant 雉鸡｜indigenous 本土的｜asiatic 亚洲的｜extinct 绝迹的｜reintroduced 重新引入｜plumage 羽衣；羽色｜ornamental 观赏的｜estates 庄园（复）
 
-**§2**（10词）broody 抱窝的｜hen 母鸡｜chicks 雏鸟（复）｜hatched 孵出｜coop 鸡笼｜stocked 投放；备货｜coverts 林荫地（复）｜fed 喂养｜hoppers 料斗（复）｜trapped 设陷捕捉
+**§2**（10词）broody 抱窝的｜hen 母鸡｜chicks 雏鸟（复）｜hatched 孵出｜coop 鸡笼｜stocked 投放；备货｜coverts 掩蔽林（复）｜fed 喂养｜hoppers 料斗（复）｜trapped 设陷捕捉
 
 **§3**（10词）partridge 山鹑｜hare 野兔｜grouse 松鸡｜native 本地的｜guns 枪（复）｜beaters 赶鸟人（复）｜stubble 残茬｜snare 套索｜net 网｜shoot 围猎；射击
 
@@ -65,3 +65,4 @@ A **magistrate** could give **gaol**; for a night **affray**, **transportation**
 - **已核 · 正文的「4,000」**：**「1913 年一场有乔治五世出席的围猎，据传一天打下近四千只雉鸡。」** 原文即作 reputedly，本文以「据传」译出，不作实数。[Poacher vs Gamekeeper · The Genealogist](https://www.thegenealogist.co.uk/featuredarticles/discover-your-ancestors/periodical/56/poacher-vs-gamekeeper-5919/)
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条）**：**原文「until a rifle goes off」——19 世纪猎场与偷猎用的是猎枪（shotgun），rifle 是来复枪，打鸟不用。****这个 rifle 是早先为消 VAL-13 从 gun 换来的——为消一条待核换出了一个不对的词。已改为 shotgun。**
 - **★ 冷读改正（2026-09-04，隔日）**：「After 1831 it came back」——it 指什么不清，改为 it was the landlord's。
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-53.md）**：两处 A——「the game he rented」租的是地，改 the game on land he rented；「more than a household ate」改 could eat。B：「from Asia, an Asiatic bird」去叠；括注 coverts「林荫地」改「掩蔽林」、gaol「监禁」改「监狱」；中文数字加空格。

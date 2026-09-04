@@ -13,23 +13,23 @@
       "status": "第五十一篇定稿",
       "paras": [
         {
-          "en": "Fougère is French for **fern**. **Bracken** has almost no **scent**; nobody ever sniffed a frond and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay, and the **fragrance** family it founded is the largest in men's **perfumery**.",
-          "zh": "Fougère在法语里是**蕨**(fern)。**羊齿**(Bracken)几乎没有**气味**(scent)；没人嗅过一片蕨叶还记住它。1882年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气；而它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。"
+          "en": "Fougère is French for **fern**. **Bracken** has almost no **scent**; nobody ever sniffed a frond and remembered it. In 1882 Paul Parquet gave that name to a **perfume** for Houbigant — **lavender**, **geranium**, **moss** and a **whiff** of cut hay. The **fragrance** family it founded is the largest in men's **perfumery**.",
+          "zh": "Fougère 在法语里是**蕨**(fern)。**羊齿**(Bracken)几乎没有**气味**(scent)；没人嗅过一片蕨叶还记住它。1882 年，保罗·帕凯把这个名字给了他为霍比格恩特调的一瓶**香水**(perfume)——**薰衣草**(lavender)、**天竺葵**(geranium)、**苔**(moss)，加一**缕**(whiff)刚割下的干草气。它开创的那一**香型**(fragrance)家族，至今仍是男士**香水业**(perfumery)里最大的一支。"
         },
         {
-          "en": "The **composition** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, thirteen years before it went in a bottle. Parquet's coumarin was identical to the **essence** in the tonka **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.",
-          "zh": "这瓶**配方**(composition)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金1868年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十三年。帕凯用的香豆素，与那颗零陵香**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。"
+          "en": "The **composition** turned on coumarin, which smells of **tonka** and cut grass. Perkin had made it in a **flask** in 1868, fourteen years before it went in a bottle. Parquet's coumarin was identical to the **essence** in the tonka **pod**; it was no **imitation** of anything. What the **supplier** delivered was **purity**, and enough of it. No **vat** of **tincture** could match either.",
+          "zh": "这瓶**配方**(composition)的关键是香豆素，闻起来像**零陵香豆**(tonka)与新割的草。珀金 1868 年就在**烧瓶**(flask)里做出了它，比它被装进香水瓶早十四年。帕凯用的香豆素，与那颗零陵香**豆荚**(pod)里的**精质**(essence)完全相同；它不是任何东西的**仿制**(imitation)。**供货方**(supplier)交付的是**纯度**(purity)，以及足够的量。任何一**桶**(vat)**浸剂**(tincture)都比不了这两样。"
         },
         {
           "en": "That is the point usually missed. The **synthetic** was not a cheap stand-in for a natural material. It lifted a limit. Until then a **bouquet** could be **composed** only from what grew: you **distilled** a **petal**, crushed a **rind**, tapped a **resin**, ground a **bark**. **Botany** set the **palette**, not **imagination**.",
           "zh": "而这一点常被忽略：**合成物**(synthetic)并不是天然原料的廉价替身。它抬掉了一道限制。在此之前，一束**香**(bouquet)只能由长出来的东西**调成**(composed)：你**蒸馏**(distilled)一片**花瓣**(petal)，压碎一层**果皮**(rind)，割取一块**树脂**(resin)，磨碎一片**树皮**(bark)。定下**调色盘**(palette)的是**植物学**(botany)，不是**想象力**(imagination)。"
         },
         {
-          "en": "Before 1882 the trade's **repertoire** held roughly two hundred materials, nearly all of them **extracts**, **absolutes** and **oils**. By the middle of the next century that **array** passed three thousand. The **aroma** chemicals had come to **outnumber** the plants, and no **thicket** or **woodland** in the whole **gamut** grew one of them.",
-          "zh": "1882年之前，这一行的**曲目单**(repertoire)上大约有两百种材料，几乎全是**萃取物**(extracts)、**净油**(absolutes)与**精油**(oils)。到下一个世纪中叶，这份**清单**(array)超过了三千。**香料**(aroma)分子的数目已经**多过**(outnumber)植物，而整个**谱系**(gamut)里，没有哪一片**灌丛**(thicket)或**林地**(woodland)长出过其中任何一个。"
+          "en": "Before 1882 the trade's **repertoire** held roughly two hundred materials, nearly all of them **extracts**, **absolutes** and **oils**. By the middle of the next century that **array** passed three thousand. The **aroma** chemicals had come to **outnumber** the plants — a **gamut** no **thicket** or **woodland** had grown.",
+          "zh": "1882 年之前，这一行的**曲目单**(repertoire)上大约有两百种材料，几乎全是**萃取物**(extracts)、**净油**(absolutes)与**精油**(oils)。到下一个世纪中叶，这个**系列**(array)超过了三千。**香料**(aroma)分子的数目已经**多过**(outnumber)植物——那是一整个没有哪片**灌丛**(thicket)或**林地**(woodland)长出过的**谱系**(gamut)。"
         },
         {
-          "en": "And the first **accord** built this way was named for a plant that does not smell. Parquet was not **copying** an **odour** any **sniff** in the **undergrowth** could find, nor **reproducing** the **damp** green of a fern bed. He **blended** one that had never existed, then named it after the thing it **evoked**.",
+          "en": "And the first **accord** built this way was named for a plant that does not smell. Parquet was not **copying** an **odour** any **sniff** in the **undergrowth** could catch, nor **reproducing** the **damp** green of a fern bed. He **blended** one that had never existed, then named it after the thing it **evoked**.",
           "zh": "而头一个这样搭起来的**香调**(accord)，取的却是一种不散发气味的植物之名。帕凯不是在**照抄**(copying)某种在**矮林**(undergrowth)里**闻**(sniff)得到的**气味**(odour)，也不是在**复现**(reproducing)蕨丛那片**潮湿**(damp)的绿。他**调**(blended)出了一种从不存在过的东西，然后用它所**唤起**(evoked)的那样东西给它命名。"
         }
       ],
@@ -42,12 +42,13 @@
         "**⚠ FIT-02 与 BAL-02b 判为保留（2026-09-01 复核）**：§3「**Botany** set the **palette**, not **imagination**」单句密度 3/6，**而这六个词正是全篇的论点句**——植物学、调色盘、想象力，缺一句子就不成立。**试过加词降密度，每次都触发词数上限；试过削词，又顶高段落密度。****二者相互拉扯：降密度要加词，加词又超 270。判为保留。****为消掉这两条而改写全篇论点句，正是 95 分闸口要防的事。**",
         "**★ 已核 · 一处悬空代词，第55篇的「六条人读」筛查时发现（2026-09-02）**：**原文 §1 作「Bracken has almost no scent; nobody ever sniffed one」——one 没有先行词。****原稿本是 Ferns…sniffed one（one＝一株蕨，成立）；而我为消 VAL-13「fern/ferns 同词元」把 Ferns 换成了 Bracken，bracken 是不可数的集合名词，one 从此悬空。已改为 sniffed a frond。****⚠ 这是本会话「为消掉一条报出而改坏句子」的又一例。**",
         "**★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「tapped a resin or a bark」——tap 是割取树胶树脂的动作，树皮不能『割取』，它是磨碎后浸提或蒸馏。****已改为 tapped a resin, ground a bark，四个动作各配各的原料。**",
-        "**★ 冷读改正（2026-09-04，隔日）**：「the essence in that pod」——that 无先行词，改为 the tonka pod。"
+        "**★ 冷读改正（2026-09-04，隔日）**：「the essence in that pod」——that 无先行词，改为 the tonka pod。",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-51.md）**：三处 A——**「thirteen years before」算错，1868→1882 是十四年**（博士逮的），改 fourteen；「no thicket or woodland in the whole gamut grew one of them」灌丛不在谱系里，改 a gamut no thicket or woodland had grown；「any sniff could find」改 could catch。B：§1 长句断开；括注 array「清单」改「系列」；中文空格。"
       ],
       "metrics": {
-        "words": 270,
+        "words": 264,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.9
       },
       "glossary": [
         {
@@ -227,7 +228,7 @@
         },
         {
           "w": "array",
-          "zh": "一系列；阵列",
+          "zh": "系列",
           "p": 4
         },
         {
@@ -241,6 +242,11 @@
           "p": 4
         },
         {
+          "w": "gamut",
+          "zh": "全谱；整个范围",
+          "p": 4
+        },
+        {
           "w": "thicket",
           "zh": "灌丛",
           "p": 4
@@ -248,11 +254,6 @@
         {
           "w": "woodland",
           "zh": "林地",
-          "p": 4
-        },
-        {
-          "w": "gamut",
-          "zh": "全谱；整个范围",
           "p": 4
         },
         {

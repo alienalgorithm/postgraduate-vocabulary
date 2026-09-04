@@ -14,22 +14,22 @@
       "paras": [
         {
           "en": "The 1948 **cartoon** gave John Chapman a **halo**, a **songbird** and an **angel**: a **barefoot** **vagabond** crossing Ohio with a **pouch** of seed so families could eat. A **tale** for children; like every **fable** it keeps what a child can hold: the **saint**, not the trade.",
-          "zh": "1948年那部**卡通片**(cartoon)给了约翰·查普曼一圈**光环**(halo)、一只**鸣鸟**(songbird)和一位**天使**(angel)：一个**赤脚**(barefoot)的**流浪汉**(vagabond)，挎一**袋**(pouch)种子横穿俄亥俄，好让人家有苹果吃。这是讲给孩子听的**故事**(tale)；和一切**寓言**(fable)一样，它只留下孩子拿得住的那部分：**圣徒**(saint)，不是生意。"
+          "zh": "1948 年那部**卡通片**(cartoon)给了约翰·查普曼一圈**光环**(halo)、一只**鸣鸟**(songbird)和一位**天使**(angel)：一个**赤脚**(barefoot)的**流浪汉**(vagabond)，挎一**袋**(pouch)种子横穿俄亥俄，好让人家有苹果吃。这是讲给孩子听的**故事**(tale)；和一切**寓言**(fable)一样，它只留下孩子拿得住的那部分：**圣徒**(saint)，不是生意。"
         },
         {
-          "en": "The apples could not be eaten. A **bee** crosses one **blossom** with another, so a **pip** does not come true; the **seedling** is unlike its parent. A **pippin** or **russet** is a **graft**, a **scion** bound to **trunk** or **limb**. He cut none, his church holding the knife made the tree suffer; every **orchard** he set was seedlings.",
+          "en": "The apples could not be eaten. A **bee** crosses one **blossom** with another, so a **pip** does not come true; the **seedling** is unlike its parent. A **pippin** or **russet** is a **graft**, a **scion** bound to **trunk** or **limb**. He cut none, his church holding that the knife made a tree suffer; every **orchard** he set was all seedlings.",
           "zh": "那些苹果是不能吃的。**蜜蜂**(bee)把这一朵**花**(blossom)与另一朵交了粉，于是一粒**籽**(pip)长不出与母树相同的东西；**实生苗**(seedling)不像它的亲本。一个**皮平**(pippin)或**赤褐**(russet)品种是**嫁接**(graft)出来的，是把一枝**接穗**(scion)绑到别的**树干**(trunk)或**枝**(limb)上。他一刀也不切——他的教会认为刀会让树受苦——所以他种下的每一片**果园**(orchard)都是实生苗。"
         },
         {
-          "en": "They were for drink. **Sour** and **tart** as a **crab**, the fruit went through the press into the **barrel**: until Prohibition an American apple was likelier to end under a **bung** than in a mouth. **Fermented** to ten per cent and drawn at the **cellar** tap, it met the **thirst** where water was unsafe; frozen, **applejack**.",
-          "zh": "它们是用来酿酒的。又**酸**(sour)、又**涩**(tart)、像**山楂**(crab)一样，这些果子压过榨，进了**桶**(barrel)：禁酒令以前，美国的一只苹果更可能落在**桶塞**(bung)底下，而不是嘴里。**发酵**(fermented)到十度，从**地窖**(cellar)的龙头里放出来，它在水不能喝的地方解**渴**(thirst)；冻一冻，就成了**苹果杰克**(applejack)。"
+          "en": "They were for drink. **Sour** and **tart** as a **crab** apple, the fruit went through the press into the **barrel**: until Prohibition an American apple was likelier to end under a **bung** than in a mouth. **Fermented** and drawn at the **cellar** tap, it met **thirst** where water was unsafe; frozen, it became **applejack**.",
+          "zh": "它们是用来酿酒的。又**酸**(sour)、又**涩**(tart)、像**野苹果**(crab)一样，这些果子压过榨，进了**桶**(barrel)：禁酒令以前，美国的一只苹果更可能落在**桶塞**(bung)底下，而不是嘴里。**发酵**(fermented)后从**地窖**(cellar)的龙头里放出来，它在水不能喝的地方解**渴**(thirst)；冻一冻，就成了**冻馏苹果酒**(applejack)。"
         },
         {
-          "en": "The trees were a **deed**. **Frontier** law let a **claimant** prove a **homestead** by planting 50 apple trees and 20 **peach** in three years. He went ahead of settlement through **wilderness** and **prairie**, made a **clearing**, set a **nursery**, sold **saplings** to the cabins that followed. He died in 1845 owning 1,200 acres.",
-          "zh": "那些树是一纸**地契**(deed)。**边疆**(frontier)法律允许一个**申领人**(claimant)三年内种下50棵苹果树和20棵**桃**(peach)树，即可证明其**宅地**(homestead)。他走在移民前面，穿过**荒野**(wilderness)和**草原**(prairie)，开出一片**林间空地**(clearing)，设一个**苗圃**(nursery)，把**树苗**(saplings)卖给随后到来的木屋人家。1845年他去世时拥有1,200英亩地。"
+          "en": "The trees were a **deed**. **Frontier** law let a **claimant** prove a **homestead** by planting 50 apple trees and 20 **peach** in three years. He went ahead of settlement through **wilderness** and **prairie**, made a **clearing**, set a **nursery**, sold **saplings** to cabins that followed. He died in 1845 owning 1,200 acres.",
+          "zh": "那些树是一纸**地契**(deed)。**边疆**(frontier)法律允许一个**申领人**(claimant)三年内种下 50 棵苹果树和 20 棵**桃**(peach)树，即可证明其**宅地**(homestead)。他走在移民前面，穿过**荒野**(wilderness)和**草原**(prairie)，开出一片**林间空地**(clearing)，设一个**苗圃**(nursery)，把**树苗**(saplings)卖给随后到来的木屋人家。1845 年他去世时拥有 1,200 英亩地。"
         },
         {
-          "en": "**Temperance** won, Prohibition shut the **saloon**, agents took **axe** and **hatchet** to the orchards: a tree whose fruit would **brew** was **bootleg** **hooch**. The legend kept the **preacher** and the **hermit**, lost the nurseryman; kept the fruit, lost the drink; kept the gift, lost the deed. It keeps what a child can hold, drops what the **tramp** held.",
+          "en": "**Temperance** won; Prohibition shut the **saloon**; agents took **axe** and **hatchet** to the orchards: a tree whose fruit would **brew** was **bootleg** **hooch**. The legend kept the **preacher** and the **hermit**, lost the nurseryman; kept the fruit, lost the drink; kept the gift, lost the deed. It keeps what a child can hold, drops what the **tramp** held.",
           "zh": "**禁酒运动**(Temperance)赢了，禁酒令关了**酒馆**(saloon)，执法者拎着**斧头**(axe)和**短柄斧**(hatchet)进了果园：一棵果子会**酿**(brew)酒的树，就是长在枝头的**私酿**(bootleg)**烈酒**(hooch)。传说留下了**传道者**(preacher)和**隐士**(hermit)，丢掉了苗圃主；留下了果子，丢掉了酒；留下了馈赠，丢掉了地契。它留下孩子拿得住的，丢掉那个**流浪者**(tramp)手里攥着的。"
         }
       ],
@@ -43,10 +43,11 @@
         "**⚠ 三处表述取舍**：①「皮平或赤褐品种是嫁接出来的」——pippin／russet 为传统命名品种，**凡命名品种皆须嫁接才能保持**，此为通例而非某一来源的原话；②「十度」取自来源的「约 10% 酒精」；③**末段那三组「留下／丢掉」是本文的推论表述**，其事实基础是上述各条，而非某一来源的原话。",
         "**本篇的机制边界**：这不是「苹果籍约翰是骗子」的故事。**他确实把树苗送给付不起钱的人，也确实给过现金**；他不喜欢讨价还价，很多果园的收入被当地人独占。**本文的论点在一个更窄的地方：传说保留了馈赠这一层，抹去了它同时是地契、是酒这两层——而后两层正是他之所以受欢迎的原因。**",
         "**★★★ 已核 · 用户问「写到最好了吗」，冷读后升级六处（2026-09-03）**：**一 · 「a scion bound to another stalk」——stalk 是草本的茎、花梗；嫁接绑的是砧木或树干。词 vet 过、合规，但词义不对。已改为 bound to trunk or limb。****二 · 「the fruit went to mash and barrel」——mash 是啤酒与威士忌的糖化醪，苹果酒是压榨而成，不经 mash。工序词用错。已改为 went through the press into the barrel（press 不占名额）。****三 · 「every orchard he set was seedling」——为削词砍了 stock，剩下的不成句。已改为 was seedlings。****四 · 「a tree that would brew」——树不会酿，果子才会。swap.py 换 ferment→brew 时把主语带偏了。已改为 a tree whose fruit would brew。****五 · 「Sour and crab-tart」——crab-tart 是我造的复合词。已改为 Sour and tart as a crab。****六 · 末句「drops what a tramp with a deed needs」读者要想一下；已改为 drops what the tramp held，与前半句的 hold 成对。****⚠ 六处里三处是同一个病：词 vet 过、合规，但放在了词义不对的位置。检察官一条都报不出来。**",
-        "**已核 · 第二遍冷读（2026-09-03，用新补的判法）**：**把五十个加粗词逐个拎出来，按段问「园丁／酒坊／土地登记员／禁酒探员会这么说吗」——无一处会皱眉。****唯一留意的是 §3「it met the thirst」**：酒坊不会说 meet the thirst，**但那一句说的不是酿酒工序，是边疆人为什么喝它**，判为可用。**★ 升级前的三处（stalk／mash／brew 的主语）正是这道问法能逮住的，而检察官逮不住。**"
+        "**已核 · 第二遍冷读（2026-09-03，用新补的判法）**：**把五十个加粗词逐个拎出来，按段问「园丁／酒坊／土地登记员／禁酒探员会这么说吗」——无一处会皱眉。****唯一留意的是 §3「it met the thirst」**：酒坊不会说 meet the thirst，**但那一句说的不是酿酒工序，是边疆人为什么喝它**，判为可用。**★ 升级前的三处（stalk／mash／brew 的主语）正是这道问法能逮住的，而检察官逮不住。**",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-60.md）**：三处 A——「as a crab」（单用是螃蟹）改 as a crab apple，**括注「山楂」是错的**（crab apple 是野苹果，山楂是 hawthorn），改「野苹果」；§5 三个独立句逗号连，改分号；「frozen, applejack」改 it became applejack。博士：「十度」偏高，删数字。applejack 括注音译改「冻馏苹果酒」。中文数字空格与全库一致。"
       ],
       "metrics": {
-        "words": 271,
+        "words": 270,
         "keywords": 50,
         "density": 18.5
       },
@@ -168,7 +169,7 @@
         },
         {
           "w": "crab",
-          "zh": "山楂；野苹果",
+          "zh": "野苹果",
           "p": 3
         },
         {
@@ -198,7 +199,7 @@
         },
         {
           "w": "applejack",
-          "zh": "苹果杰克",
+          "zh": "冻馏苹果酒",
           "p": 3
         },
         {

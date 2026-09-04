@@ -13,24 +13,24 @@
       "status": "第五十六篇定稿",
       "paras": [
         {
-          "en": "Dorothy Sayers put it to national **temper**: the Belgian plays a **tune**, the Englishman works **permutations** from a **pew** in the **nave**. **Temperament** had nothing to do with the matter. No **melody** was ever on offer from an English **tower** or **steeple**, and none was wanted in the **chancel**.",
+          "en": "Dorothy Sayers put it down to national **temper**: the Belgian plays a **tune**, the Englishman works **permutations** from a **pew** in the **nave**. **Temperament** had nothing to do with it. No **melody** was ever on offer from an English **tower** or **steeple**, none wanted in the **chancel**.",
           "zh": "多萝西·塞耶斯把这事归给民族**性子**(temper)：比利时人拿他的钟奏一支**曲**(tune)，英国人则坐在**中殿**(nave)的**长凳**(pew)上推演**排列**(permutations)。**性情**(Temperament)与此无干。英国的**塔**(tower)与**尖顶**(steeple)从来没有提供过**旋律**(melody)，**圣坛**(chancel)里也没人要它。"
         },
         {
-          "en": "The bell hangs from a **headstock** on a full wheel and swings mouth **upward** through a whole **circle** to rest mouth up beyond, its **clapper** striking the **lip** each way. The **treble** of a **peal** may weigh 600 pounds, the **tenor** a ton, **tuning** set at the **foundry**.",
+          "en": "The bell hangs from a **headstock** on a full wheel and swings mouth **upward** through a whole **circle** to rest mouth up on the far side, the **clapper** striking the **lip** each way. The **treble** of a **peal** may weigh 600 pounds, the **tenor** a ton, **tuning** set at the **foundry**.",
           "zh": "钟吊在一副整轮的**钟轭**(headstock)上。口**朝上**(upward)起，转过一整**圈**(circle)，停在另一侧仍口朝上，**钟舌**(clapper)每一程都撞一下**钟唇**(lip)。一套**钟组**(peal)里最轻的**高音钟**(treble)约六百磅，**低音钟**(tenor)则重达一吨，它的**定音**(tuning)在**铸钟厂**(foundry)就定死了。"
         },
         {
-          "en": "A ringer holds the **sallie**. He can **hurry** the bell or check it to its **setting** on the **slider**; he cannot stop or play it fast. To **muffle** it, a leather **pad** goes on the clapper. So no bell shifts more than one place at a change, the clapper falling at **backstroke** as at hand: what a **rope** and **pulley** can do to a turning ton of **metal**.",
+          "en": "A ringer holds the **sallie**. He can **hurry** the bell or check it at its **setting** on the **slider**, not stop it or play it fast. To **muffle** it, a leather **pad** goes on the clapper. So no bell shifts more than one place at a change, the clapper falling at **backstroke** as at hand: what a **rope** and **pulley** can do to a turning ton of **metal**.",
           "zh": "拉钟人握着**绒把**(sallie)。他能把钟略微**赶快**(hurry)，或把它收到**滑木**(slider)上的**定位**(setting)；停不住，也弹不快。要**捂哑**(muffle)，得事先把皮**垫**(pad)绑上钟舌。所以每次换序，任何一口钟只能前后挪一位，钟舌在**返程**(backstroke)与去程各落一次：这是一根**绳**(rope)与一副**滑轮**(pulley)对一吨转动**金属**(metal)所能做的极限。"
         },
         {
-          "en": "The Low Countries hung theirs dead in the **belfry**, bolted at the **crown** above the **transept**, struck by **hammers** from a keyboard above the **tomb** and **font**. A **carillon** takes any tune written for it, its player striking the **batons** above **crypt** and **vestry**.",
-          "zh": "低地国家把钟死装在**钟楼**(belfry)里，在**耳堂**(transept)之上用**冠部**(crown)螺栓固定，由**墓**(tomb)与**洗礼盆**(font)上方的键盘带动**铁锤**(hammers)敲击。一台**排钟**(carillon)能奏任何为它写的曲子；奏钟人在**地宫**(crypt)与**祭衣间**(vestry)之上击打那些**木杆**(batons)。"
+          "en": "The Low Countries hung theirs dead in the **belfry**, bolted at the **crown** above the **transept**, struck by **hammers** from a keyboard over **tomb** and **font**. A **carillon** takes any tune written for it, its player striking the **batons** above **crypt** and **vestry**.",
+          "zh": "低地国家把钟死装在**钟楼**(belfry)里，在**耳堂**(transept)之上用**冠部**(crown)螺栓固定，由**墓**(tomb)与**洗礼盆**(font)上方的键盘带动**铁锤**(hammers)敲击。一台**排钟**(carillon)能奏任何为它写的曲子；奏钟人在**地宫**(crypt)与**祭衣间**(vestry)之上击打那些**键杆**(batons)。"
         },
         {
-          "en": "Given a **rig** that shuffles its notes one place at a time, the English wrote the only music such a **contraption** makes. Four months by a **rota** of **sexton** and **bellman** sounds the full set on ten bells; a **muffled** ring spares the **churchyard** **pews**. What looks like a national **disposition** is often the shape of the metalwork under the **yew**.",
-          "zh": "既然这副**索具**(rig)每次只能把音挪一位，英国人就写了这副**装置**(contraption)唯一写得出的音乐。十口钟的全排列，要**司事**(sexton)与**摇钟人**(bellman)轮**班**(rota)不停地敲四个月；只有一次**捂哑**(muffled)的鸣响能放过**墓园**(churchyard)那几排**长凳**(pews)。看着像民族**禀性**(disposition)的东西，往往只是**紫杉**(yew)底下那副金属件的形状。"
+          "en": "Given a **rig** that shuffles its notes one place at a time, the English wrote the only music such a **contraption** makes. A **rota** of **sexton** and **bellman** needs four months for the full set on ten bells; a **muffled** ring spares **churchyard** and **pews**. What looks like a national **disposition** is often the shape of the metalwork under the **yew**.",
+          "zh": "既然这副**索具**(rig)每次只能把音挪一位，英国人就写了这副**装置**(contraption)唯一写得出的音乐。十口钟的全排列，要**司事**(sexton)与**摇钟人**(bellman)按**轮值表**(rota)不停地敲四个月；一次**捂哑**(muffled)的鸣响才放过**墓园**(churchyard)里和**长凳**(pews)上的人。看着像民族**禀性**(disposition)的东西，往往只是**紫杉**(yew)底下那副金属件的形状。"
         }
       ],
       "facts": [
@@ -43,7 +43,8 @@
         "**⚠ VAL-13 判为保留（pew／pews）**：§1 的 **pew** 是英国人推演排列时坐的那一张，§5 的 **pews** 是墓园里被钟声吵到的那几排——**同一个词的单复数，指两处不同的长凳，各有其值。****试过 bench（撞35篇）、seat（撞35篇）、stall（撞38篇），无一可用。****判据：两个形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。**",
         "**⚠ BAL-02b 判为保留（§4 局部密度 22.2%）**：§4 是对照段，**十个名额全是排钟机构的部件**——钟楼／耳堂／冠部／木杆／铁锤／排钟／地宫／祭衣间／墓／洗礼盆，**缺一则对照不成立**。**试过加词降密度，触发 270 词上限当场回滚（+7）。****判据：降密度要加词，加词又超上限，二者相互拉扯——与第51篇 FIT-02 同型，判为保留。**",
         "**★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「hurry its flight」——换鸣里钟的一程叫 stroke，不叫 flight。已删 flight。****二 · 「check it on the slider」——slider 是限位木条，拉钟人不是『靠它拖住』，而是把钟『收』到它上面的定位（set the bell）。已改为 check it to its setting on the slider。****三 · 「such tackle」——tackle 是滑轮索具，钟楼里不这么叫。已改为 contraption，取其通称义。****⚠ 三处的词都 vet 过、合规，错在放的位置。与第55篇 dike、第60篇 stalk／mash 同型。**",
-        "**★ 冷读改正（2026-09-04，隔日）**：§2 第二句无主谓（Mouth upward, through a whole circle…），并入前句为 and swings…to rest。"
+        "**★ 冷读改正（2026-09-04，隔日）**：§2 第二句无主谓（Mouth upward, through a whole circle…），并入前句为 and swings…to rest。",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-56.md）**：四处 A——「put it to national temper」（put it to 是向人提出）改 put it down to；「mouth up beyond」改 on the far side；「Four months by a rota…sounds」主语是四个月，改 A rota…needs four months；「the churchyard pews」墓园里没有长凳，改 churchyard and pews，中文同改。B：stop it；括注 batons「木杆」改「键杆」、rota「班」改「轮值表」。"
       ],
       "metrics": {
         "words": 270,
@@ -238,7 +239,7 @@
         },
         {
           "w": "batons",
-          "zh": "木杆（复）",
+          "zh": "键杆（复）",
           "p": 4
         },
         {
@@ -263,7 +264,7 @@
         },
         {
           "w": "rota",
-          "zh": "轮值班表",
+          "zh": "轮值表",
           "p": 5
         },
         {
