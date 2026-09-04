@@ -30,7 +30,7 @@ Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **mol
 
 疑问当即就来了。1913 年，戴维·沃特斯顿在《自然》上写道：这是一块猿的**下颌骨**(jawbone)**配**(paired)上一颗人的头骨；1915 年布勒**附和**(echoed)了他，华盛顿的米勒也是。1923 年，**解剖学家**(anatomist)弗朗茨·魏登赖希报告说：一具现代人的颅骨，配一具**猩猩**(orangutan)**下颌**(mandible)，而那些**牙**(teeth)是被**磨**(abraded)过的。他是对的，也被**无视**(ignored)了整整一**代人**(generation)。
 
-**解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的X光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。
+**解剖学**(Anatomy)判不了这件事：颌骨与颅骨相接的那个**关节**(hinge)已经断掉，两者永远**拼**(fitted)不到一起去**验**(tested)。双方读的是同样的石膏**模型**(casts)、同样的 X 光**片**(images)，各自看见自己预期的东西。**异见**(Dissent)与**追捧**(acclaim)取用的是同一副**骨头**(bones)；这场争论没有**裁决者**(arbiter)。
 
 1949 年，化学送来了一个裁决者：肯尼思·奥克利施用了**氟**(fluorine)测年法。**埋**(Buried)在地里的骨头会从**地下水**(groundwater)中**吸收**(absorbs)**氟化物**(fluoride)，**躺**(lies)得越久，**存**(holds)得越多。到 1953 年改良之后，这一测法读出的是：颌骨与牙齿 0.03% 至 0.04%，**颅顶**(vault)0.1%。这两块骨头并没有在同一片土里**待**(rested)过同样长的**时段**(duration)。
 
@@ -66,3 +66,4 @@ Oakley, Weiner and Le Gros Clark went further. Under **magnification** the **mol
 - **已核（2026-08-20 逐条上网）· §4 一处归属错误已订正**：**1949 年那次氟测并没有把颌与颅分开**——它只证明两者都不古老（皮尔当标本约 0.2%，而同坑的乳齿象、古菱齿象化石为 2—3%），**奥克利读完反而更确信两者同源**：他 1950 年在《自然》写道「The results of the fluorine test have considerably increased the probability that the [Piltdown] mandible and cranium represent the same creature.」
 **0.03—0.04% 对 0.1% 这一差值，来自 1953 年那次改良测试（并配合氮、铀含量测定）**，而非 1949 年那次。正文此前把数值记在 1949 年头上，已改为「到 1953 年改良之后，读数是……」，并把 §5 首句的年份去掉以免重复。**这一处至关重要：全篇论点「只有那个问题有数」正建立在这组数值上，归属错了论点就悬空。**[Science History Institute：The Problem of Piltdown Man](https://www.sciencehistory.org/stories/magazine/the-problem-of-piltdown-man/)｜[TalkOrigins：Piltdown Man](https://www.talkorigins.org/faqs/piltdown.html)｜[The Piltdown Inquest, ch.5](https://www2.clarku.edu/faculty/djoyce/piltdown/The_Piltdown_Inquest/chapters/chapter5.html)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-22.md）**：零 A。中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-22.md）**：零 A，零 B；补空格。

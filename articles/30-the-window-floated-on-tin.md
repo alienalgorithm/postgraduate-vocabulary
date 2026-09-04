@@ -32,7 +32,7 @@ Grinding and polishing compensated for damage: solid **machinery** marked glass 
 
 玻璃以约 1,100°C 的温度流到熔融锡液上。锡的**密度**(density)比玻璃大，足以托住玻璃带；锡又兼具**高沸点**(high-boiling)、对玻璃熔体**不易反应**(unreactive)和**导热**(conductive)三项性质，使锡浴在工艺上**可行**(workable)。重力使玻璃铺展开来；当厚度降至约 6.8 毫米，表面**张力**(tension)便阻止它继续变薄。保温之下，玻璃随着熔体逐渐**松弛**(relaxed)而失去表面的**不规则起伏**(irregularities)：上表面自行变平，锡液则为玻璃**提供了**(furnished)水平的**底面**(underside)。
 
-看似**简单**(simplicity)，其实化学条件和温度都必须受到严密控制。暴露在空气中，锡会氧化并产生**浮渣**(dross)，可能给玻璃**留下瑕疵**(blemish)；氮气—氢气构成的**保护性**(protective)气氛则**抑制了**(suppressed)这种氧化。随着**冷却**(Cooling)，玻璃的**黏度**(viscosity)上升；接近 600°C 时，轧辊才能托起已经变硬的玻璃带而不留下**印痕**(marks)。随后，玻璃片在退火炉中缓缓松弛，释放这张**片**(sheet)里可能导致**断裂**(fracture)的应力。
+看似**简单**(simplicity)，其实化学条件和温度都必须受到严密控制。暴露在空气中，锡会氧化并产生**浮渣**(dross)，可能给玻璃**留下瑕疵**(blemish)；氮气—氢气构成的**保护性**(protective)气氛则**抑制了**(suppressed)这种氧化。随着**冷却**(Cooling)，玻璃的**黏度**(viscosity)上升；接近 600°C 时，轧辊才能托起已经变硬的玻璃带而不留下**印痕**(marks)。随后，玻璃**片**(sheet)在退火炉中缓缓松弛，释放里面可能导致**断裂**(fracture)的应力。
 
 研磨和抛光本质上是在补救损伤：固体**机械设备**(machinery)先在玻璃上留下痕迹，再由更多机械把它**修复**(repaired)。让玻璃漂浮，颠倒了这套**逻辑**(logic)。两种液体共同塑造出近乎**完好无瑕的**(pristine)两面；机械搬运则被**推迟到**(deferred)玻璃带能够承受之后，由此**调和了**(reconciling)磨光板玻璃的品质与薄片玻璃的经济性，使大块**窗玻璃**(panes)变得**负担得起**(affordable)。它的表面**精度**(precision)来自**推迟**(postponing)与固体的接触：窗玻璃还漂在锡液上时，就已经变得平整。
 
@@ -67,3 +67,4 @@ Grinding and polishing compensated for damage: solid **machinery** marked glass 
 **两说并存之一 · 入槽温度**：皮尔金顿官网称熔融玻璃「approximately 1000°C」浇上锡槽，USPTO 专利文本作 1900°F（约 1038°C）；而业界常述为**入槽约 1100°C、出槽约 600°C**。**本文取 1,100°C，与 §4 的「near 600°C 起辊」正好配套，内部自洽**。
 **两说并存之二 · 平衡厚度**：本文作「roughly 6.8 millimetres」，这是表面张力与重力平衡所得的**理论平衡厚度**；而皮尔金顿官网与 PPG 专利述及的**实际值约 6 毫米**（0.250 inch）。本文已用 roughly 留了余地。[Pilkington：The Float Process](https://www.pilkington.com/en/gbl/knowledge-hub-selection/architectural-and-technical-glass-knowledge-hub/learn-about-glass-technology/the-float-process)｜[Pilkington：Invention of Float Glass](https://www.pilkington.com/en-gb/uk/about/heritage/invention-of-float-glass)｜[ScienceDirect：Sixty years of the float process](https://www.sciencedirect.com/science/article/abs/pii/S0172219014000507)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-30.md）**：两处 A——「Held hot, irregularities faded」悬垂（被保温的是玻璃），改 While held hot, the glass lost its irregularities；「A lehr」无解释，补 an annealing oven。中文人名改为音译与后来各篇一致；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-30.md）**：零 A。B：「玻璃片在退火炉中…释放这张片里」重复，括注挪到前一个「片」。

@@ -26,29 +26,29 @@ The trial was not the first to randomise. Its **methodological** **landmark** wa
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-**战后**(postwar)的英国，链霉素这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到 50 **千克**(kilograms)。**结核病**(Tuberculosis)患者**排队**(queued)等待疗养院床位。试验分析了 107 名 15 至 30 岁、经细菌学证实的急性**进展性的**(progressive)、**双侧的**(bilateral)**肺部**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中 55 人另外使用链霉素。
+**战后**(postwar)的英国，链霉素这种新**抗生素**(antibiotic)在全国都受到严格**配给**(rationed)；政府最初从美国只买到 50 **千克**(kilograms)。**结核病**(Tuberculosis)患者**排队**(queued)等待疗养院床位。试验分析了 107 名 15 至 30 岁、经细菌学证实的急性**进展性**(progressive)**双侧**(bilateral)**肺**(pulmonary)结核病患者。所有人都接受**卧床休息**(bed-rest)，其中 55 人另外使用链霉素。
 
-真正的**防线**(safeguard)发生在治疗之前。负责**入选资格**(eligibility)审核的专家组必须先接纳患者；只有完成这一步，试验**总部**(headquarters)才会打开下一只**编号的**(numbered)**信封**(envelope)。奥斯汀·布拉德福德·希尔已经利用随机数编好了**分配序列**(allotment)。研究人员和**协调员**(coordinator)都看不到它的顺序，因此无法凭借对下一次**分配结果**(allocation)的**预先知情**(foreknowledge)来影响患者**入组**(enrolment)。
+真正的**防线**(safeguard)设在治疗之前。负责**入选资格**(eligibility)审核的专家组必须先接纳患者；只有完成这一步，试验**总部**(headquarters)才会打开下一只**编号的**(numbered)**信封**(envelope)。奥斯汀·布拉德福德·希尔已经利用随机数编好了**分配序列**(allotment)。研究人员和**协调员**(coordinator)都看不到它的顺序，因此无法凭借对下一次**分配结果**(allocation)的**预先知情**(foreknowledge)来影响患者**入组**(enrolment)。
 
-病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂膜**(films)和**培养结果**(cultures)的细菌学家同样接受了**盲法处理**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。
+病床旁的治疗本身没有实行盲法：链霉素需要注射。但胸部**X光片**(radiographs)按**每月**(monthly)拍摄，随后由三名**专家**(specialists)**独立地**(independently)评定，而且不知道患者的治疗**分组**(assignments)。读取**痰液**(sputum)**涂膜**(films)和**培养结果**(cultures)的细菌学家同样处于**盲态**(blinded)。临床医生知道患者接受什么治疗，而负责判断结局的**观察者**(observers)不知道。
 
-六个月后，链霉素组 55 人中死亡 4 人，对照组 52 人中死亡 14 人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出“显著**改善**(improvement)”的，治疗组 28 人，对照组只有 4 人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。
+六个月后，链霉素组 55 人中死亡 4 人，对照组 52 人中死亡 14 人；**死亡率**(mortality)差异十分明显。**影像学**(radiological)的评片人给出「显著**改善**(improvement)」的，治疗组 28 人，对照组只有 4 人。然而，**耐药性**(resistance)随后出现，一些杆菌开始不再**响应**(responding)药物；部分早期改善只是**短暂的**(transient)，最终又出现**恶化**(deterioration)。链霉素确有**疗效**(efficacy)，但后续**随访**(follow-up)表明，更好的**生存情况**(survival)并没有使单药治疗变得持久可靠。
 
-这并不是历史上第一次采用随机分配的试验。它真正具有**方法学上的**(methodological)**里程碑意义**(landmark)的是**分配隐藏**(concealment)。**招募的人**(recruiter)若知道下一位会进哪一组，就可能在入组上**动手脚**(tamper)——专挑**预后**(prognosis)合乎自己**偏倚**(bias)的人收进来。随机数让序列无法被**预见**(foresee)；密封信封则让已经生成的分配结果无法提前读取。这种**公平性**(fairness)使**反事实的**(counterfactual)比较真正可信：必须先确定这个患者进入试验，信封之后才能揭示他接受哪一种治疗。
+这并不是历史上第一次采用随机分配的试验。它在**方法学上**(methodological)真正的**里程碑**(landmark)，是**分配隐藏**(concealment)。**招募的人**(recruiter)若知道下一位会进哪一组，就可能在入组上**动手脚**(tamper)——专挑**预后**(prognosis)合乎自己**偏倚**(bias)的人收进来。随机数让序列无法被**预见**(foresee)；密封信封则让已经生成的分配结果无法提前读取。这种**公平性**(fairness)使**反事实的**(counterfactual)比较真正可信：必须先确定这个患者进入试验，信封之后才能揭示他接受哪一种治疗。
 
 ---
 
 ## 50 词速查表
 
-**§1**（10词）postwar 战后的｜antibiotic 抗生素｜rationed 配给的；受配给控制的｜kilograms 千克（复）｜tuberculosis 结核病｜queued 排队｜progressive 进展性的｜bilateral 双侧的｜pulmonary 肺部的｜bed-rest 卧床休息
+**§1**（10词）postwar 战后的｜antibiotic 抗生素｜rationed 配给的；受配给控制的｜kilograms 千克（复）｜tuberculosis 结核病｜queued 排队｜progressive 进展性的｜bilateral 双侧的｜pulmonary 肺的｜bed-rest 卧床休息
 
 **§2**（10词）safeguard 防线；保护措施｜eligibility 入选资格｜headquarters 总部｜numbered 编号的｜envelope 信封｜allotment 分配序列；分配｜coordinator 协调员｜foreknowledge 预先知情｜allocation 分配｜enrolment 入组；登记
 
-**§3**（10词）radiographs X光片（复）｜monthly 每月的；每月｜specialists 专家（复）｜independently 独立地｜assignments 分组；分配｜sputum 痰液｜films 薄膜；涂膜｜cultures 培养物｜blinded 盲法处理的｜observers 评定者（复）
+**§3**（10词）radiographs X光片（复）｜monthly 每月的；每月｜specialists 专家（复）｜independently 独立地｜assignments 分组；分配｜sputum 痰液｜films 薄膜；涂膜｜cultures 培养物｜blinded 处于盲态的｜observers 评定者（复）
 
 **§4**（10词）mortality 死亡率｜radiological 影像学的｜improvement 改善；好转｜resistance 耐药性；抵抗｜responding 响应｜transient 短暂的｜deterioration 恶化｜efficacy 疗效｜follow-up 随访｜survival 生存；生存情况
 
-**§5**（10词）methodological 方法学的｜landmark 里程碑｜concealment 隐藏；分配隐藏｜recruiter 招募者｜tamper 动手脚；篡改｜prognosis 预后｜bias 偏倚；偏见｜foresee 预见｜fairness 公平性｜counterfactual 反事实；反事实的
+**§5**（10词）methodological 方法学上的｜landmark 里程碑｜concealment 隐藏；分配隐藏｜recruiter 招募者｜tamper 动手脚；篡改｜prognosis 预后｜bias 偏倚；偏见｜foresee 预见｜fairness 公平性｜counterfactual 反事实；反事实的
 
 ---
 
@@ -66,3 +66,4 @@ The trial was not the first to randomise. Its **methodological** **landmark** wa
 **一处两说并存**：对照组六个月死亡数，本文取 **14**——Senn《Dicing with Death》与原始四格表（Died 14／Recovered 38／Total 52）皆为 14；而 James Lind Library 两处记为 15。本文取有原始数据表支持的 14。[James Lind Library：Why the 1948 MRC trial used random numbers](https://www.jameslindlibrary.org/articles/why-the-1948-mrc-trial-of-streptomycin-used-treatment-allocation-based-on-random-numbers/)｜[Cambridge：Dicing with Death — Trials of life](https://www.cambridge.org/core/books/dicing-with-death/trials-of-life/98141B19C516C5259A27AD5B7D0B7050)｜[PMC：The MRC randomized trial of streptomycin and its legacy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592068/)
 - **已核补充**：正文 §1「aged 15–30」为原报告的入组年龄范围（15至30岁），与 107 例、55/52 分组同出于 1948 年 BMJ 报告。[BMJ 1948 原文（PMC 全文）](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2091872/)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-25.md）**：零 A。中文数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-25.md）**：零 A。B：「急性进展性的、双侧的肺部结核病」的的改「急性进展性双侧肺结核病」；「防线发生在」改「设在」；「接受了盲法处理」改「处于盲态」；「它真正具有…的是」改「它在方法学上真正的里程碑，是」；引号统一。

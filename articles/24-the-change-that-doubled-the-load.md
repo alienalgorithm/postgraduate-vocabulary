@@ -72,3 +72,4 @@ Havens **telephoned**; **verbal** **approval** came back, and the written **requ
 - **⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——leftover 是「吃剩的」，用于承重钢筋语域不对（原为 remaining，与 §1 的 remains 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**
 - **★ 已核 · 一处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**原文「two shorter struts」——strut 是受压杆；凯悦的吊杆受拉，结构工程师叫 rod／hanger／tie-rod。这个词是为避 rod 重复取的。已改为 tie-rods。**
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-24.md）**：一处 A——中文「余下的的」错字。B：句首数字「114 died」改 The dead numbered 114；括注 throng「满员」改「人群」；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-24.md）**：零 A，零 B——两遍无停顿。

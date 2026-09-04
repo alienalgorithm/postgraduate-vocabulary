@@ -26,7 +26,7 @@ Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-20 世纪 60 年代，抵达海王星会让**推进剂**(propellant)预算承压；直接飞行可能需要 30 年。然而，木星、土星、天王星和海王星正在接近一种**位置构型**(configuration)，这种**排列**(alignment)每 175 年才重现一次。这一排列带来的发射窗口，让设计人员能够把多次相遇**串联起来**(stitch)，编成一条**统一的**(unified)**行程路线**(itinerary)。借助这些飞掠**许诺**(promised)开展“大巡游”式**勘测**(reconnaissance)，有望缩短飞行时间，降低对**运载火箭**(launcher)的要求和任务**开支**(expenditure)。
+20 世纪 60 年代，抵达海王星会让**推进剂**(propellant)预算承压；直接飞行可能需要 30 年。然而，木星、土星、天王星和海王星正在接近一种**位置构型**(configuration)，这种**排列**(alignment)每 175 年才重现一次。这一排列带来的发射窗口，让设计人员能够把多次相遇**串联起来**(stitch)，编成一条**统一的**(unified)**行程路线**(itinerary)。借助这些飞掠开展的「大巡游」式**勘测**(reconnaissance)，**许诺**(promised)的是更短的飞行时间、更低的**运载火箭**(launcher)要求和更少的任务**开支**(expenditure)。
 
 计算让这套几何关系真正**可用**(usable)。在喷气推进实验室（JPL），迈克尔·米诺维奇构建了**弹道式的**(ballistic)**多行星**(multi-planet)轨道；1965 年，加里·弗兰德罗分析了外行星飞行的**机会窗口**(opportunity)。这种机动方式有着悠久的思想**谱系**(pedigree)，其起源却仍**没有定论**(unsettled)；任何把**发明归属**(authorship)锁定于一人的说法都会误导。这些贡献把**转瞬即逝的**(fleeting)**天体**(celestial)几何关系转化为任务架构；每一次相遇都让下一个世界变得**可以抵达**(attainable)。
 
@@ -64,3 +64,4 @@ Gravity assist is no **perpetual-motion** trick. Passing behind a moving planet 
 - 【已核】本文的机制边界是：行星引力既改变方向，也可能改变探测器相对太阳的速率；但变化取决于接近几何和参考系。不能把飞近行星时的暂时加速误写成永久增益，也不能把引力助推写成违反守恒的‘免费能量’。火箭仍承担发射与轨道微调，路线只补充而不取代火箭推进。[NASA Science：A Gravity Assist Primer](https://science.nasa.gov/learn/basics-of-space-flight/primer/)｜[NASA Science：Trajectories](https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/)
 - **⚠ 两处拼写数字补注（2026-09-02，untraced.py 漏掉的那一类）**：**①「a direct flight could take thirty years」**——NASA/JPL 事实页：**「借助引力助推……飞抵海王星的航时由 30 年缩短为 12 年。」** 有据。**②「Designers weighed ten thousand candidate trajectories」**——同一事实页：**「在选定那两条轨道之前，研究过一万条以上的轨道。」** 有据。**★ 这两个数此前 facts 里一条也没有，且因为是拼写形式（thirty／ten thousand），`untraced.py` 第一版逮不到——工具已随此次补上拼写数字。**[NASA · Voyager Fact Sheet](https://science.nasa.gov/mission/voyager/fact-sheet/)
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-28.md）**：英文零 A。中文 §3「叠加，行星的轨道速度一经叠加到前述矢量上」是坏句，重写；人名音译；数字空格。
+- **★★ 中文审读团两遍（见 notes/中文审读-28.md）**：一处 A——「借助这些飞掠许诺开展“大巡游”式勘测」句子是坏的（promised 挂错），重写为「借助这些飞掠开展的大巡游式勘测，许诺的是更短的飞行时间…」；引号改「」与全库一致。

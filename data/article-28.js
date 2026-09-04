@@ -19,7 +19,7 @@
       "paras": [
         {
           "en": "In the 1960s, reaching Neptune strained **propellant** budgets; a direct flight could take thirty years. Yet Jupiter, Saturn, Uranus and Neptune were approaching a **configuration**, an **alignment** recurring every 175 years. Its launch windows let designers **stitch** encounters into a **unified** **itinerary**. Grand Tour **reconnaissance** through those flybys **promised** reduced flight time, **launcher** requirements and **expenditure**.",
-          "zh": "20 世纪 60 年代，抵达海王星会让**推进剂**(propellant)预算承压；直接飞行可能需要 30 年。然而，木星、土星、天王星和海王星正在接近一种**位置构型**(configuration)，这种**排列**(alignment)每 175 年才重现一次。这一排列带来的发射窗口，让设计人员能够把多次相遇**串联起来**(stitch)，编成一条**统一的**(unified)**行程路线**(itinerary)。借助这些飞掠**许诺**(promised)开展“大巡游”式**勘测**(reconnaissance)，有望缩短飞行时间，降低对**运载火箭**(launcher)的要求和任务**开支**(expenditure)。"
+          "zh": "20 世纪 60 年代，抵达海王星会让**推进剂**(propellant)预算承压；直接飞行可能需要 30 年。然而，木星、土星、天王星和海王星正在接近一种**位置构型**(configuration)，这种**排列**(alignment)每 175 年才重现一次。这一排列带来的发射窗口，让设计人员能够把多次相遇**串联起来**(stitch)，编成一条**统一的**(unified)**行程路线**(itinerary)。借助这些飞掠开展的「大巡游」式**勘测**(reconnaissance)，**许诺**(promised)的是更短的飞行时间、更低的**运载火箭**(launcher)要求和更少的任务**开支**(expenditure)。"
         },
         {
           "en": "Computation made the geometry **usable**. At JPL, Michael Minovitch developed **ballistic** **multi-planet** trajectories; in 1965 Gary Flandro analysed the outer-planet **opportunity**. The manoeuvre has a long **pedigree** and **unsettled** origins; claims of sole **authorship** mislead. Those contributions transformed **fleeting** **celestial** geometry into mission architecture; each encounter made the next world **attainable**.",
@@ -298,7 +298,8 @@
         "【已核】从行星公转方向的后方接近可向探测器转移轨道角动量；相反几何可用于减速。能量与角动量并未凭空产生：行星获得或失去的份额因质量巨大而几乎不可察觉。[NASA Science：Trajectories](https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/)｜[JPL Night Sky Network：Borrowing Energy from a Planet](https://nightsky.jpl.nasa.gov/docs/gravityassist4.pdf)",
         "【已核】本文的机制边界是：行星引力既改变方向，也可能改变探测器相对太阳的速率；但变化取决于接近几何和参考系。不能把飞近行星时的暂时加速误写成永久增益，也不能把引力助推写成违反守恒的‘免费能量’。火箭仍承担发射与轨道微调，路线只补充而不取代火箭推进。[NASA Science：A Gravity Assist Primer](https://science.nasa.gov/learn/basics-of-space-flight/primer/)｜[NASA Science：Trajectories](https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/)",
         "**⚠ 两处拼写数字补注（2026-09-02，untraced.py 漏掉的那一类）**：**①「a direct flight could take thirty years」**——NASA/JPL 事实页：**「借助引力助推……飞抵海王星的航时由 30 年缩短为 12 年。」** 有据。**②「Designers weighed ten thousand candidate trajectories」**——同一事实页：**「在选定那两条轨道之前，研究过一万条以上的轨道。」** 有据。**★ 这两个数此前 facts 里一条也没有，且因为是拼写形式（thirty／ten thousand），`untraced.py` 第一版逮不到——工具已随此次补上拼写数字。**[NASA · Voyager Fact Sheet](https://science.nasa.gov/mission/voyager/fact-sheet/)",
-        "**★★ 审读团（2026-09-04，人读，见 notes/审读-28.md）**：英文零 A。中文 §3「叠加，行星的轨道速度一经叠加到前述矢量上」是坏句，重写；人名音译；数字空格。"
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-28.md）**：英文零 A。中文 §3「叠加，行星的轨道速度一经叠加到前述矢量上」是坏句，重写；人名音译；数字空格。",
+        "**★★ 中文审读团两遍（见 notes/中文审读-28.md）**：一处 A——「借助这些飞掠许诺开展“大巡游”式勘测」句子是坏的（promised 挂错），重写为「借助这些飞掠开展的大巡游式勘测，许诺的是更短的飞行时间…」；引号改「」与全库一致。"
       ]
     }
   ]);
