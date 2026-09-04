@@ -2196,7 +2196,7 @@ _ag19 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
 check("core 有 CLASH_WINDOW 且默认 None", "CLASH_WINDOW = None" in _co3)
 check("used_index 读窗口", "CLASH_WINDOW" in _ag19 and "_win" in _ag19)
 check("poolsim.py 存在", os.path.exists(os.path.join(ROOT, "scripts/poolsim.py")))
-check("《总令》记了四档数字", "最近 20 篇 | **29**" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
+check("《总令》记了四档数字", "**最近 20 篇** | **29**" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
 
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
