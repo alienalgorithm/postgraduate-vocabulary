@@ -2219,6 +2219,26 @@ def _pi(x, y):
 check("判据：prisms/prism、flashed/flash 算纯屈折", _pi("prisms", "prism") and _pi("flashed", "flash"))
 check("判据：survive/survival 不算", not _pi("survive", "survival"))
 
+
+# ── export_anki.py：3,500 张卡，每张带所在句（2026-09-04）────────────────
+# 项目的用户是背词的人；网页能读，此前没有一样东西能进间隔复习软件。纯从数据层派生，不动铁律。
+print("\n[导出] Anki 卡片")
+_r27 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/export_anki.py")],
+                      capture_output=True, text=True, timeout=300).stdout
+check("导出 3500 张", "导出 3500 张卡" in _r27)
+check("每张卡的上下文都含加粗词（词表原形 vs 正文屈折形按词干匹配）", "上下文缺词：0" in _r27)
+_tsv = open(os.path.join(ROOT, "exports/anki-3500.tsv"), encoding="utf-8").read()
+check("表头声明 Tab 与 HTML", _tsv.startswith("#separator:tab\n#html:true"))
+check("README 有下载入口", "anki-3500.tsv" in open(os.path.join(ROOT, "README.md"), encoding="utf-8").read())
+
+
+# ── 审读团（2026-09-04，用户指令）──────────────────────────────────
+print("\n[审读团] 五个观众")
+check("章程存在且五个观众齐", all(x in open(os.path.join(ROOT, "notes/审读团.md"), encoding="utf-8").read() for x in ("观众一", "观众二", "观众三", "观众四", "观众五", "汇总规则")))
+_r28 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/readers.py"), "--status"], capture_output=True, text=True, timeout=120).stdout
+check("readers.py 能报状态", "已审" in _r28)
+check("第70篇报告存在且有汇总表", "| 句 | 谁点到 | 等级 | 改法 |" in open(os.path.join(ROOT, "notes/审读-70.md"), encoding="utf-8").read())
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

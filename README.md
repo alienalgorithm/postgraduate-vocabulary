@@ -26,6 +26,10 @@
 写完之后逐词问「删掉它，读者会不会觉得少了东西」，削到自己该落的地方为止。
 
 ---
+## Anki 卡片
+
+全库 3,500 个词元已导出为 Anki 可直接导入的卡片：[`exports/anki-3500.tsv`](exports/anki-3500.tsv)。正面是英文词，背面是中文释义、它所在的那一句（该词加粗）与篇名链接；标签为篇号与段号。导入时选 Tab 分隔、允许 HTML。重新生成：`python3 scripts/export_anki.py`。
+
 ## 当前最终定稿
 
 截至2026-08-24，共有 **70篇文章、3500个重点词**。每篇恰好50个重点词，密度均低于20%。
@@ -101,7 +105,7 @@
 | **67** | ***The Tool With Its Lesson Cut Out*** | **拼图：头一百五十年是教室里的地理教具，刀离开国界之后才成了玩具** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-tool-with-its-lesson-cut-out) · [Markdown](articles/67-the-tool-with-its-lesson-cut-out.md) |
 | **68** | ***Grandeur That Looks Like Defence*** | **护城河：英格兰六千道护城河几乎没有一道属于城堡，它们是乡绅用土方说出的身份** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=grandeur-that-looks-like-defence) · [Markdown](articles/68-grandeur-that-looks-like-defence.md) |
 | **69** | ***Cheaper, Better, and Eleven*** | **稻草人：它顶替的不是农具，是一个十一岁的赶鸟童** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=cheaper-better-and-eleven) · [Markdown](articles/69-cheaper-better-and-eleven.md) |
-| **70** | ***The Fire's Waste, Collected*** | **灯塔：变亮不靠火，靠把散掉的光收回来的那座玻璃蜂巢** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-fires-waste-collected) · [Markdown](articles/70-the-fires-waste-collected.md) |
+| **70** | ***The Fire's Waste, Collected*** | **灯塔：变亮不靠火，靠把散掉的光收回来的那座玻璃蜂巢** | **271词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=the-fires-waste-collected) · [Markdown](articles/70-the-fires-waste-collected.md) |
 | **46** | ***Three Who Err Alike*** | **手动计时的系统性偏差：中位数管得住离群值，管不住三人同向的错** | **270词 · 50词 · 18.5%** | [网页](https://alienrocketbus.github.io/postgraduate-vocabulary/article.html?a=three-who-err-alike) · [Markdown](articles/46-three-who-err-alike.md) |
 
 第30篇以271词第13轮独立盲审最终精进锁定稿为准。正文从垂直牵引薄片的光学畸变和磨光板玻璃的高成本出发，说明浮法如何把“固体设备先留下损伤、后续设备再修复”改写成“熔融玻璃先在锡液上自整平、玻璃带变硬后才接触轧辊”。本轮把锡的低反应性明确限定为相对于玻璃，把约6.8毫米写成进一步变薄受限的平衡点，并把浮渣改为可能留下瑕疵；史实边界继续保留早期专利、Kenneth Bickerstaff的共同发明人身份和七年开发期。1100°C入锡浴、氮氢保护气氛、约600°C离浴与退火机制均有原始专利、Royal Society资料或Pilkington官方技术说明支持。
