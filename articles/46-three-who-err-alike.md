@@ -9,15 +9,15 @@
 
 ## 英文正文
 
-On 20 June 1968 at **Sacramento** three **sprinters** were hand-timed at 9.9 seconds and all three were **ratified** as world records. The electronic figures for that same **sprint** were 10.03, 10.10 and 10.14. The **watches** had recorded a **tie** among men whose **chests** **breasted** the **tape** 0.11 apart — 11 **hundredths**.
+On 20 June 1968 at **Sacramento** three **sprinters** were hand-timed at 9.9 seconds and all three times were **ratified** as world records. The electronic figures for that same **sprint** were 10.03, 10.10 and 10.14. The **watches** had recorded a **tie** among men whose **chests** **breasted** the **tape** 0.11 apart — 11 **hundredths**.
 
-Hand timing was not **sloppy**; the men holding the **dials** were not **careless**. Three officials **lined** the **finish** with **timers**, one to a lane, and the middle value was taken — a **median**, chosen precisely to **discard** the odd one. What a **midpoint** cannot **reject** is an error the three of them **shared**.
+Hand timing was not **sloppy**; the men holding the **dials** were not **careless**. Three officials **lined** the **finish** with **timers**, one to a lane, and the middle value was taken — a **median**, chosen to **discard** the odd one. What a **midpoint** cannot **reject** is an error all three **shared**.
 
-A **timekeeper** **trips** on the **muzzle** smoke, which he must answer, and stops on an oncoming **torso** he has **eyed** for 10 seconds. His **reflex** runs late at one end, early at the other; the two do not **negate**. They **pile** up. Every hand time is short by about a quarter of a second — an **unearned** **edge** for every sprinter — and the body fixed the **conversion** at 0.24.
+A **timekeeper** **trips** his watch on the **muzzle** smoke, a cue he must answer, and stops it on an oncoming **torso** he has **eyed** for 10 seconds. His **reflex** runs late at one end, early at the other; the two do not **negate**. They **pile** up. Every hand time is short by about a quarter of a second — an **unearned** **edge** for every sprinter — and the governing body fixed the **conversion** at 0.24.
 
-Fully automatic timing became **compulsory** on 1 January 1977. The old **feats** were not **deleted** but **relegated** to a list of their own. The 10-second **barrier**, **hailed** as broken that June, **reigned** **unbeaten** until Jim Hines **raced** 9.95 in Mexico City that October — and that mark held 15 years.
+Fully automatic timing became **compulsory** on 1 January 1977. The old **feats** were not **deleted** but **relegated** to a list of their own. The 10-second **barrier**, **hailed** as broken that June, **reigned** **unbeaten** until Jim Hines **raced** 9.95 in Mexico City that October; that mark held 15 years.
 
-The instrument had been **averaging** away the difference it existed to **capture**, **shaving** the same **sliver** off every man. A middle value covers one **scorer** who is wrong. It does nothing when all three **err** alike — that is not chance but a **skew**, and no amount of **repetition** will **undo** it.
+The instrument had been **averaging** away the difference it existed to **capture**, **shaving** the same **sliver** off every man. A middle value covers one **scorer** who is wrong. It does nothing when all three **err** alike — that is not chance but a **skew**, and no **repetition** will **undo** it.
 
 ---
 
@@ -26,15 +26,15 @@ The instrument had been **averaging** away the difference it existed to **captur
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-1968年6月20日在**萨克拉门托**(Sacramento)，三名**短跑选手**(sprinters)的手计时都是9.9秒，三人同时被**认定**(ratified)为世界纪录。同一场**短跑**(sprint)的电子读数是10.03、10.10和10.14。那些**秒表**(watches)记下了一个**平局**(tie)——而这几个人的**胸口**(chests)**触**(breasted)上**终点带**(tape)的时刻，前后差了 0.11 秒，即 11 个**百分之一秒**(hundredths)。
+1968 年 6 月 20 日在**萨克拉门托**(Sacramento)，三名**短跑选手**(sprinters)的手计时都是 9.9 秒，三个成绩同时被**认定**(ratified)为世界纪录。同一场**短跑**(sprint)的电子读数是 10.03、10.10 和 10.14。那些**秒表**(watches)记下了一个**平局**(tie)——而这几个人的**胸口**(chests)**触**(breasted)上**终点带**(tape)的时刻，前后差了 0.11 秒，即 11 个**百分之一秒**(hundredths)。
 
 手计时并不**马虎**(sloppy)；握着**表盘**(dials)的人也不**粗心**(careless)。三名裁判**沿**(lined)**终点**(finish)排开，各持**计时器**(timers)，一人守一道，取居中的那个读数——一个**中位数**(median)，正是为了**舍掉**(discard)最离谱的那个。可**中位值**(midpoint)**剔除**(reject)不了的，是三个人**共有**(shared)的那个偏差。
 
-**计时员**(timekeeper)在枪口**冒烟**(muzzle)时**摁**(trips)表，那是他必须作出反应的；而停表时他盯着一具迎面而来的**躯干**(torso)，已经**注视**(eyed)了 10 秒。他的**反应**(reflex)在一头偏晚、在另一头偏早，两者并不**抵消**(negate)，而是**堆叠**(pile)起来。每一个手计时都短了约四分之一秒——**每个短跑者都白得了一点**(unearned)**便宜**(edge)——于是当局把**换算值**(conversion)定为0.24。
+**计时员**(timekeeper)在**枪口**(muzzle)冒烟时**摁**(trips)表，那是他必须作出反应的信号；而停表时他盯着一具迎面而来的**躯干**(torso)，已经**注视**(eyed)了 10 秒。他的**反应**(reflex)在一头偏晚、在另一头偏早，两者并不**抵消**(negate)，而是**堆叠**(pile)起来。每一个手计时都短了约四分之一秒——每个短跑者都得了一点**不劳而获的**(unearned)**优势**(edge)——于是管理机构把**换算值**(conversion)定为 0.24。
 
-1977年1月1日起，全自动计时成为**强制**(compulsory)。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳居**(reigned)着**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出9.95。而那个成绩此后保持了 15 年。
+1977 年 1 月 1 日起，全自动计时成为**强制**(compulsory)。旧的那些**成绩**(feats)没有被**删除**(deleted)，而是被**降格**(relegated)到单独一份名单里。那道 10 秒**门槛**(barrier)，六月里曾被**欢呼**(hailed)着说已经破了，其实一直**稳居**(reigned)着**没人破**(unbeaten)，直到当年十月吉姆·海因斯在墨西哥城**跑**(raced)出 9.95。而那个成绩此后保持了 15 年。
 
-那件仪器一直在把它本该**捕捉**(capture)的差别**平均**(averaging)掉，从每个人身上**刮**(shaving)去同样薄的一**片**(sliver)。中位值管得住三人里**记错**(scorer)的那一个。可当三个人**错**(err)得一模一样时，它什么也管不了——那不是偶然，是一道**偏斜**(skew)，再多的**重复**(repetition)也**消**(undo)不掉它。
+那件仪器一直在把它本该**捕捉**(capture)的差别**平均**(averaging)掉，从每个人身上**刮**(shaving)去同样薄的一**片**(sliver)。中位值管得住三个**计分员**(scorer)里错的那一个。可当三个人**错**(err)得一模一样时，它什么也管不了——那不是偶然，是一道**偏斜**(skew)，再多的**重复**(repetition)也**消**(undo)不掉它。
 
 ---
 
@@ -44,11 +44,11 @@ The instrument had been **averaging** away the difference it existed to **captur
 
 **§2**（11词）sloppy 马虎的｜dials 表盘（复）｜careless 粗心的｜lined 沿…排开｜finish 终点｜timers 计时器（复）｜median 中位数｜discard 舍弃｜midpoint 中间值｜reject 剔除｜shared 共有的
 
-**§3**（11词）timekeeper 计时员｜trips 触发；绊｜muzzle 枪口｜torso 躯干｜eyed 注视｜reflex 反应；反射｜negate 抵消｜pile 堆叠；一堆｜unearned 不劳而得的｜edge 优势；边缘｜conversion 换算
+**§3**（11词）timekeeper 计时员｜trips 触发；绊｜muzzle 枪口｜torso 躯干｜eyed 注视｜reflex 反应；反射｜negate 抵消｜pile 堆叠；一堆｜unearned 不劳而获的｜edge 优势｜conversion 换算
 
 **§4**（9词）compulsory 强制的｜feats 成绩（复）｜deleted 删除｜relegated 降格｜barrier 门槛；障壁｜hailed 欢呼；称许｜reigned 在位；居首｜unbeaten 未被打破的｜raced 赛跑；疾行
 
-**§5**（9词）averaging 取平均｜capture 捕捉｜shaving 刮去｜sliver 薄片｜scorer 记分者｜err 出错｜skew 偏斜｜repetition 重复｜undo 消除；撤销
+**§5**（9词）averaging 取平均｜capture 捕捉｜shaving 刮去｜sliver 薄片｜scorer 计分员｜err 出错｜skew 偏斜｜repetition 重复｜undo 消除；撤销
 
 ---
 
@@ -63,3 +63,4 @@ The instrument had been **averaging** away the difference it existed to **captur
 - **⚠ 两处已标注的取舍**：①正文写「保持了十四年」——**海因斯 9.95 立于 1968 年 10 月，至 1983 年被破，取整为十四年**；②墨西哥城为高原场地，**对短跑成绩有助益**，本文不据此展开，因为**本篇论点在计时方法而非成绩本身**。
 - **本篇的机制边界**：这不是「旧时代不严谨」的故事。**取三人中位数正是一种防错设计**——它专门用来舍掉离群的那个读数，而且确实有效。**本文的论点在于：中位数防的是「三人里有一个错」，防不了「三人朝同一个方向错」。****前者是噪声，后者是偏斜；重复取样能压掉噪声，压不掉偏斜。****而更要紧的一层是：这个偏差不只让成绩偏快，还抹平了成绩之间的差别**——三个相差 0.11 秒的人被记成同一个数，**一件用来分辨的仪器，把它本该分辨的东西平均掉了。**
 - **★★ 已核 · 一处事实错误已改（2026-09-02 复查，六条人读第一条）**：**原文作「那个成绩此后保持了 14 年」——实为 15 年。****世界田联讣告：「海因斯的世界纪录保持了 15 年——是全自动计时时代男子 100 米世界纪录中最长的一次——直到 1983 年被卡尔文·史密斯以 9.93 打破。」**另有《体育画报》、NBC、ESPN、阿肯色百科等**八家来源一致作 15 年**。**⚠ 这个数字此前不在 facts 里**——正是「每一个具体细节，是核过的还是现造的」这条查出来的。[World Athletics · Hines obituary](https://worldathletics.org/news/news/jim-hines-obituary)
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-46.md）**：四处 A——「all three were ratified」被认定的是成绩不是人，改 all three times；「trips on the muzzle smoke, which he must answer」补 his watch、改 a cue he must answer；「the body」改 the governing body；**中文括注 muzzle 挂在「冒烟」上**，改挂「枪口」。B：括注 edge「便宜」改「优势」、unearned 改「不劳而获的」、scorer「记错」改「计分员」；中文数字空格。

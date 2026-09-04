@@ -13,24 +13,24 @@
       "status": "第四十七篇定稿",
       "paras": [
         {
-          "en": "For 157 years Cambridge ranked its mathematical results by **desert**. The man who **topped** it was called Senior Wrangler. Until 1850 the paper was **obligatory** even for men reading **classics**. Maxwell, Kelvin and Cayley all sat it. That **placing** counted as the highest **intellect**ual **prize** in the country; a man **positioned** **twelfth** **retained** it for life.",
-          "zh": "一百五十七年间，剑桥的数学成绩按**优劣**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**位列**(positioned)**第十二**(twelfth)的人，一辈子都**保住**(retained)着它。"
+          "en": "For 157 years Cambridge ranked its mathematical results by **desert**. The man who **topped** it was called Senior Wrangler. Until 1850 the paper was **obligatory** even for men reading **classics**. Maxwell, Kelvin and Cayley sat it. That **placing** counted as the highest **intellect**ual **prize** in the country; a man **positioned** **twelfth** **retained** it for life.",
+          "zh": "一百五十七年间，剑桥的数学成绩按**应得**(desert)排榜。**居首**(topped)的那个人称「首席辩士」。1850 年以前，连读**古典学**(classics)的人也**必须**(obligatory)考它。麦克斯韦、开尔文、凯莱都考过。那个**名次**(placing)被当作全国最高的**智识**(intellect)**荣誉**(prize)；一个**位列**(positioned)**第十二**(twelfth)的人，一辈子都**保住**(retained)着它。"
         },
         {
           "en": "Hardy sat the paper in 1898. He wrote afterwards that when the examination stood at the **apex** of its difficulty and **renown**, English mathematical **prowess** sat in its **deepest** **trough**. The **heyday** of the paper and the **flowering** of the **subject** moved in **opposite** directions across the **nineteenth** century.",
-          "zh": "哈代1898年考过这张卷子。他后来写道：当这场考试在难度与**声名**(renown)上立于**顶点**(apex)时，英国数学的**实力**(prowess)正陷在**最深的**(deepest)**低谷**(trough)里。这张卷子的**鼎盛**(heyday)与这门**学科**(subject)的**繁荣**(flowering)，在整个**十九**(nineteenth)世纪朝**相反**(opposite)方向走。"
+          "zh": "哈代 1898 年考过这张卷子。他后来写道：当这场考试在难度与**声名**(renown)上立于**顶点**(apex)时，英国数学的**实力**(prowess)正陷在**最深的**(deepest)**低谷**(trough)里。这张卷子的**鼎盛**(heyday)与这门**学科**(subject)的**繁荣**(flowering)，在整个**十九**(nineteenth)世纪朝**相反**(opposite)方向走。"
         },
         {
-          "en": "The university did not do the training. Men hired private **instructors** and paid in **guineas**. The **tuition** was **routine**: old papers, mock sittings, set **pieces**, the **verbatim** **recital** of proofs against a watch. Attendance at **lectures** **withered**. The **famed** teachers were not the professors. Babbage **headed** the Lucasian chair from 1828 to 1839 and gave none.",
-          "zh": "训练不是大学做的。人们雇私人**教师**(instructors)，用**几尼**(guineas)付账。那套**辅导**(tuition)是**例行**(routine)的：旧卷、模拟场、成**套**(pieces)的题，以及对着表**逐字**(verbatim)**背诵**(recital)证明。**听课**(lectures)**日渐凋零**(withered)。**有名的**(famed)老师不是教授。巴贝奇1828至1839年**执掌**(headed)卢卡斯讲席，一堂课没讲。"
+          "en": "The university did not do the training. Men hired private **instructors** and paid in **guineas**. The **tuition** was **routine**: old papers, mock sittings, set **pieces**, the **verbatim** **recital** of proofs against a watch. Attendance at **lectures** **withered**. The **famed** teachers were not the professors. Babbage **headed** the Lucasian chair from 1828 to 1839 and gave no lectures.",
+          "zh": "训练不是大学做的。人们雇私人**教师**(instructors)，用**几尼**(guineas)付账。那套**辅导**(tuition)是**例行**(routine)的：旧卷、模拟场、成**套**(pieces)的题，以及对着表**逐字**(verbatim)**背诵**(recital)证明。**听课**(lectures)**日渐凋零**(withered)。**有名的**(famed)老师不是教授。巴贝奇 1828 至 1839 年**执掌**(headed)卢卡斯讲席，一堂课没讲。"
         },
         {
-          "en": "The **syllabus** **hardened** around whatever scored fast. **Grading** shaped teaching, not the reverse. **Continental** **analysis** went **neglected**: hard to set with one clean answer, and an answer was what a marker needed. The best **mentors** picked the **sharpest** of each **intake**, which kept their **repute** up, which let them pick again.",
+          "en": "The **syllabus** **hardened** around whatever scored fast. **Grading** shaped teaching, not the reverse. **Continental** **analysis** went **neglected**: hard to set with one clean answer, and an answer was what markers needed. The best **mentors** picked the **sharpest** of each **intake**, which kept their **repute** up, which let them pick again.",
           "zh": "**教纲**(syllabus)**硬化**(hardened)成了凡能快速评出分数的东西。**评分**(Grading)塑造教学，而不是反过来。**欧陆**(Continental)**分析**(analysis)被**冷落**(neglected)：它难以出成一道有干净答案的题，而阅卷人要的正是一个答案。最好的**导师**(mentors)从每一**届**(intake)里挑**最尖的**(sharpest)那些人，这维持了他们的**名声**(repute)，而名声又让他们接着挑。"
         },
         {
-          "en": "The ordering was **abolished** in 1909, after 157 of them. The private **tutors** were gone inside a decade. Hardy went further: the only **harmless** examination has a low pass mark and no **classes** at all. A **pecking** order does not measure the subject. It **becomes** the subject, and whatever the **scoreboard** ignores **drops** out of the **curriculum** first.",
-          "zh": "1909年，这套排序被**废止**(abolished)，此前已行一百五十七年。私人**教练**(tutors)十年之内消失干净。哈代走得更远：他说唯一**无害的**(harmless)考试，是低分通过、根本不分**等第**(classes)的那种。一份**啄食**(pecking)次序并不衡量一门学科。它**变成**(becomes)那门学科——而**计分牌**(scoreboard)不看的东西，会最先从**课程**(curriculum)里**掉**(drops)出去。"
+          "en": "The ordering was **abolished** in 1909, after 157 years of it. The private **tutors** were gone inside a decade. Hardy went further: the only **harmless** examination has a low pass mark and no **classes** at all. A **pecking** order does not measure the subject. It **becomes** the subject, and whatever the **scoreboard** ignores **drops** out of the **curriculum** first.",
+          "zh": "1909 年，这套排序被**废止**(abolished)，此前已行一百五十七年。私人**教练**(tutors)十年之内消失干净。哈代走得更远：他说唯一**无害的**(harmless)考试，是低分通过、根本不分**等第**(classes)的那种。一份**等级**(pecking)次序并不衡量一门学科。它**变成**(becomes)那门学科——而**计分牌**(scoreboard)不看的东西，会最先从**课程**(curriculum)里**掉**(drops)出去。"
         }
       ],
       "facts": [
@@ -41,7 +41,8 @@
         "**已核 · 废止与后果**：**1909 年剑桥废除数学 Tripos 的名次排榜**（自 1910 年起不再公布名次），**改革由以哈代为首的一批教师推动**。**「教练制度在 1909 年名次废止后于二十世纪初瓦解，大学讲师开始采用教练制中首创的许多方法。」**哈代更主张：**「唯一无害的、不会对教学产生束缚作用的考试，是通过标准低且不分等第的能力测试。」**[Ether Wave Propaganda · Cambridge Tripos Coaches](https://etherwave.wordpress.com/2008/10/29/hump-day-history-cambridge-coaches/)",
         "**⚠ 两处已标注的取舍**：①废止之年，来源有 1909 与 1910 两说——**1909 年作出决定、1910 年起生效**，**本文取 1909**；②正文写「一个排在第十二的人一辈子都顶着它」——**「第十二」为示例性表述，非特指某人**，用以说明名次本身即终身标签；**来源明载名次之显赫及其被长期记诵，此点可核。**",
         "**本篇的机制边界**：这不是「考试有害」的故事。**Tripos 确实选出过麦克斯韦、开尔文、凯莱**，**其预测力也有据**（九位首席辩士后来出任卢卡斯教授）。**本文的论点在于：当一份排序本身成为奖赏，为排序所做的准备就会取代那门学科。****教纲硬化成可快速评分之物；难以出成单一答案的欧陆分析因此被冷落；而最好的教练能挑到最强的学生，声望自我循环。****这三条合起来，才解释了为什么「考试最盛」与「学科最弱」会同时发生。**",
-        "**已核 · 巴贝奇任卢卡斯教授的起讫**：**1828 至 1839 年**，**在任十一年间未讲授过一堂课**。[Charles Babbage · Wikipedia](https://en.wikipedia.org/wiki/Charles_Babbage)"
+        "**已核 · 巴贝奇任卢卡斯教授的起讫**：**1828 至 1839 年**，**在任十一年间未讲授过一堂课**。[Charles Babbage · Wikipedia](https://en.wikipedia.org/wiki/Charles_Babbage)",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-47.md）**：两处 A——「after 157 of them」of them 不明，改 after 157 years of it；「gave none」改 gave no lectures。括注 desert「优劣」改「应得」（旧义）、pecking「啄食」改「等级（序列）」。「**intellect**ual」劈词，留。中文数字空格。"
       ],
       "metrics": {
         "words": 270,
@@ -51,7 +52,7 @@
       "glossary": [
         {
           "w": "desert",
-          "zh": "应得；优劣",
+          "zh": "应得（的功过）",
           "p": 1
         },
         {
@@ -276,7 +277,7 @@
         },
         {
           "w": "pecking",
-          "zh": "啄食",
+          "zh": "等级（序列）",
           "p": 5
         },
         {

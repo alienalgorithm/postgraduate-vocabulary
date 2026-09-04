@@ -14,10 +14,10 @@
       "paras": [
         {
           "en": "The story is that one man **strode** off a boat in 1881 and revived a dead **speech**. Eliezer Ben-Yehuda **gained** Jaffa in October 1881, **resolved** to **utter** nothing but Hebrew, and **upheld** that **vow** until his death in 1922. He **reared** a son, Itamar, who knew no other **tongue** from **infancy**.",
-          "zh": "通说是：一个人1881年**大步走下**(strode)船，就把一门死掉的**话**(speech)救活了。埃利泽·本-耶胡达1881年10月**抵达**(gained)雅法，**决意**(resolved)只**说**(utter)希伯来语，**守**(upheld)住这一**誓**(vow)，直到1922年去世。他**养大**(reared)一个儿子伊塔马尔，此子自**襁褓**(infancy)起不识第二种**语言**(tongue)。"
+          "zh": "通说是：一个人 1881 年**大步走下**(strode)船，就把一门死掉的**语言**(speech)救活了。埃利泽·本-耶胡达 1881 年 10 月**抵达**(gained)雅法，**决意**(resolved)只**说**(utter)希伯来语，**守**(upheld)住这一**誓**(vow)，直到 1922 年去世。他**养大**(reared)一个儿子伊塔马尔，此子自**襁褓**(infancy)起不识第二种**语言**(tongue)。"
         },
         {
-          "en": "Hebrew was not dead, nor had been. It was heard in the Jerusalem markets 50 years before he **docked**. A Sephardi **merchant** spoke Ladino, an Ashkenazi one Yiddish, and neither **comprehended** the other. The one both had **studied** was the **scriptural** tongue, learned by **rote** in **childhood**. It **lasted** at the **marketplace**, not in the **synagogue**.",
+          "en": "Hebrew was not dead, nor had it been. It was heard in the Jerusalem markets 50 years before he **docked**. A Sephardi **merchant** spoke Ladino, an Ashkenazi one Yiddish, and neither **comprehended** the other. The one both had **studied** was the **scriptural** tongue, learned by **rote** in **childhood**. It **lasted** at the **marketplace**, not in the **synagogue**.",
           "zh": "希伯来语没有死，也从来没死过。他**靠岸**(docked)之前五十年，耶路撒冷的市集上就听得到它。一个塞法迪**商人**(merchant)讲拉迪诺语，一个阿什肯纳兹商人讲意第绪语，彼此**听不懂**(comprehended)。两边都**学**(studied)过的只有那门**经书**(scriptural)语言，**童年**(childhood)时死记**硬背**(rote)来的。它**存活**(lasted)在**集市**(marketplace)上，不在**会堂**(synagogue)里。"
         },
         {
@@ -26,11 +26,11 @@
         },
         {
           "en": "The schools **clinched** it. Hebrew gave the **lessons** in 6 of 29 **organised** schools in 1904; by 1914 some 60 **institutions** used it as their only **vehicle**. Between came the war of the **languages**, settled 12 December 1913. The **backers** of the Haifa school **voted** German, on the **pretext** that Hebrew had no **lexicon** for engineering.",
-          "zh": "**定局**(clinched)的是学校。1904年，以色列地二十九所有**建制**(organised)的学校里，希伯来语在其中六所**授课**(lessons)；到1914年，约六十所**机构**(institutions)以它为唯一**载体**(vehicle)。其间发生了那场**语言**(languages)之战，1913年12月12日了结。海法那所技术学校的**出资方**(backers)**投票**(voted)给德语，**托词**(pretext)是希伯来语没有工程学的**词库**(lexicon)。"
+          "zh": "**定局**(clinched)的是学校。1904 年，以色列地二十九所有**建制**(organised)的学校里，希伯来语在其中六所**授课**(lessons)；到 1914 年，约六十所**机构**(institutions)以它为唯一**载体**(vehicle)。其间发生了那场**语言**(languages)之战，1913 年 12 月 12 日了结。海法那所技术学校的**出资方**(backers)**投票**(voted)给德语，**托词**(pretext)是希伯来语没有工程学的**词库**(lexicon)。"
         },
         {
-          "en": "The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun** for a **boiler**; he spent his life **minting** what was wanting, filling 17 volumes. But the answer was not his **resolve**, nor the **dictionary** **solely**. The Technion opened in 1924 in Hebrew. A language **revives** when children are **schooled** in it and can **revert** to nothing else.",
-          "zh": "这个反对意见是对的。**圣经**(Biblical)希伯来语总共只有八千个词，其中没有一个是「**锅炉**(boiler)」这样的**名词**(noun)；他一辈子都在**铸造**(minting)缺的那些，填满了十七卷。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是那部**词典**(dictionary)。1924年理工学院用希伯来语开学。一门语言**活转**(revives)过来，是在孩子们被用它**教养**(schooled)大、且再无别处可**退回**(revert)之时。"
+          "en": "The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun** for a **boiler**; he spent his life **minting** what was wanting, filling 17 volumes. But the answer was not his **resolve**, nor **solely** the **dictionary**. The Technion opened in 1924 in Hebrew. A language **revives** when children are **schooled** in it and can **revert** to nothing else.",
+          "zh": "这个反对意见是对的。**圣经**(Biblical)希伯来语总共只有八千个词，其中没有一个是「**锅炉**(boiler)」这样的**名词**(noun)；他一辈子都在**铸造**(minting)缺的那些，填满了十七卷。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是那部**词典**(dictionary)。1924 年理工学院用希伯来语开学。一门语言**活转**(revives)过来，是在孩子们被用它**教养**(schooled)大、且再无别处可**退回**(revert)之时。"
         }
       ],
       "facts": [
@@ -44,10 +44,11 @@
         "**本篇的机制边界**：这不是「本-耶胡达被高估了」的故事。**他那句反对意见是对的**——1913年希伯来语确实没有工程学的词，而造词正是他毕生的工作。**本文的论点在别处**：一门语言的复活，不取决于有人**决定**去说它，**而取决于有一代孩子被用它教大、且再无别的语言可退。****决心与词典是必要的，学校才是充分的**——六比二十九与约六十这两个数，量的正是后者。",
         "**已核 · 结尾那句的落点**：**理工学院（Technion）1924 年正式开学，以希伯来语授课**——即语言之战结束十年之后。**正文以此作末段的具体落点，而非停在格言上。**",
         "**已核 · 正文五个数的出处一览（供复核）**：**50 年**——本-耶胡达抵达前 50 年耶路撒冷市集已有口语希伯来语（Languages of the World，见第 2 条）；**6 / 29**——1904 年以色列地 29 所有建制学校中 6 所以希伯来语授课（维基 War of the Languages，该处标 citation needed，见上条）；**60**——至 1914 年约 60 所机构以希伯来语为唯一教学语言（globaldisconnect 综述，见第 3 条）；**8000**——**圣经希伯来语的词汇总量**，非本-耶胡达造词数（Detroit Jewish News，见第 5 条）；**17**——《古今希伯来语大词典》共 17 卷（Wikipedia，见第 6 条）。",
-        "**★ 冷读改正（2026-09-04，隔日）**：「can recede to nothing else」不地道，换 revert（can revert to nothing else：没有别的语言可退回去）。"
+        "**★ 冷读改正（2026-09-04，隔日）**：「can recede to nothing else」不地道，换 revert（can revert to nothing else：没有别的语言可退回去）。",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-42.md）**：两处 A——「nor had been」缺主语，改 nor had it been；「nor the dictionary solely」改 nor solely the dictionary。括注 speech「话」改「语言」；中文数字空格。"
       ],
       "metrics": {
-        "words": 270,
+        "words": 271,
         "keywords": 50,
         "density": 18.5
       },
@@ -59,7 +60,7 @@
         },
         {
           "w": "speech",
-          "zh": "话语；语言",
+          "zh": "语言",
           "p": 1
         },
         {
@@ -278,13 +279,13 @@
           "p": 5
         },
         {
-          "w": "dictionary",
-          "zh": "词典",
+          "w": "solely",
+          "zh": "仅仅",
           "p": 5
         },
         {
-          "w": "solely",
-          "zh": "仅仅",
+          "w": "dictionary",
+          "zh": "词典",
           "p": 5
         },
         {

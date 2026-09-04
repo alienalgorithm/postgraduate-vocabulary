@@ -14,7 +14,7 @@
       "paras": [
         {
           "en": "The Iroquois Theatre opened in Chicago in November 1903, **advertised** as absolutely **fireproof**. Five weeks later an arc light **ignited** a **muslin** **drape**; of the 1,700 at that **matinee**, 602 died in a house **brimming** over. The fire climbed the **scenery** into the **flies**; a **fireball** crossed the house in minutes.",
-          "zh": "易洛魁剧院1903年11月在芝加哥开张，**号称**(advertised)绝对**防火**(fireproof)。五周之后，一盏弧光灯**点着**(ignited)了一幅**平纹细布**(muslin)**幕布**(drape)；那场**日场**(matinee)的1,700名观众里，602人死在**挤**(brimming)得满溢的厅内。火顺着**布景**(scenery)爬进**吊景区**(flies)，一团**火球**(fireball)几分钟就横穿了整个观众厅。"
+          "zh": "易洛魁剧院 1903 年 11 月在芝加哥开张，**号称**(advertised)绝对**防火**(fireproof)。五周之后，一盏弧光灯**点着**(ignited)了一幅**平纹细布**(muslin)**幕布**(drape)；那场**日场**(matinee)的 1,700 名观众里，602 人死在**挤**(brimming)得满溢的厅内。火顺着**布景**(scenery)爬进**吊景区**(flies)，一团**火球**(fireball)几分钟就横穿了整个观众厅。"
         },
         {
           "en": "The building had not failed. Its steel frame and brick walls stood **upright**; the **deputy** commissioner had called it steel, brick and cement, and was **truthful**. Almost nobody died of **burns**. They died of **smoke** and **trampling**, in the **aisles** and behind **auditorium** doors: the **ushers** fled without drawing the **bolts**.",
@@ -22,15 +22,15 @@
         },
         {
           "en": "The **hardware** did the killing. The **asbestos** safety **curtain** **jammed** on a **galvanised** lighting bar and stopped 10 feet up; a chemist later found it mostly wood **pulp**. The **skylights** over the stage had been boarded shut against **draughts**, so the **flame** rolled **outward** into the seats rather than up.",
-          "zh": "杀人的是那些**五金件**(hardware)。**石棉**(asbestos)防火**幕**(curtain)布**卡**(jammed)住在一根**镀锌**(galvanised)灯杆上，停在离台面10英尺处；后来化验，它大半是木**浆**(pulp)。舞台上方的**天窗**(skylights)为挡**穿堂风**(draughts)被钉死了，于是**火焰**(flame)不往上走，**向外**(outward)卷进了座位区。"
+          "zh": "杀人的是那些**五金件**(hardware)。**石棉**(asbestos)防火**幕**(curtain)布**卡**(jammed)住在一根**镀锌**(galvanised)灯杆上，停在离台面 10 英尺处；后来化验，它大半是木**浆**(pulp)。舞台上方的**天窗**(skylights)为挡**穿堂风**(draughts)被钉死了，于是**火焰**(flame)不往上走，**向外**(outward)卷进了座位区。"
         },
         {
-          "en": "27 of the 30 **exits** were **bolted** or hidden behind **draperies**, and iron gates **barred** the **stairways** from the **balcony**. Many carried **fastening** **clasps** — a European lever no Chicago **audience** had met, groping for a **knob** in the dark. One staircase served all 3 tiers, against an ordinance requiring each its own.",
-          "zh": "30个**出口**(exits)里有27个**闩**(bolted)着或藏在**帷幔**(draperies)后面，铁栅把通往**楼座**(balcony)的**楼梯**(stairways)**拦**(barred)住。许多门装的是**紧固**(fastening)用的**扣件**(clasps)——一种芝加哥**观众**(audience)从没见过的欧式扳手，黑暗里他们伸手去摸**球形把手**(knob)。一道楼梯服务3层看台，而法令要求每层各有其一。"
+          "en": "Of the 30 **exits**, 27 were **bolted** or hidden behind **draperies**, and iron gates **barred** the **stairways** from the **balcony**. Many carried **fastening** **clasps** — a European lever no Chicago **audience** had met, groping for a **knob** in the dark. One staircase served all 3 tiers, against an ordinance requiring each its own.",
+          "zh": "30 个**出口**(exits)里有 27 个**闩**(bolted)着或藏在**帷幔**(draperies)后面，铁栅把通往**楼座**(balcony)的**楼梯**(stairways)**拦**(barred)住。许多门装的是**紧固**(fastening)用的**扣件**(clasps)——一种芝加哥**观众**(audience)从没见过的欧式扳手，黑暗里他们伸手去摸**球形把手**(knob)。一道楼梯服务 3 层看台，而法令要求每层各有其一。"
         },
         {
           "en": "The word was defined against the structure — what a **warden** can **attest** to. A screen that **snags**, a **chimney** **nailed** shut, a **latch** nobody **recognises** — none of it shows in a **drawing**. There was no **sprinkler**. Carl Prinzler, who meant to attend that day, built the **crash** bar — a door that opens when a body falls against it, requiring no one to recognise anything.",
-          "zh": "「防火」这个词是对着结构定义的——因为那才是**查验员**(warden)看一眼就能**作证**(attest)的东西。一幅会**卡住**(snags)的幕、一个被**钉死**(nailed)的**烟道**(chimney)、一把没人**认得**(recognises)的**门闩**(latch)——这些在**图纸**(drawing)上都看不见。没有**喷淋**(sprinkler)。卡尔·普林兹勒本打算那天去看戏，后来他做出了**推杠**(crash)——一扇只要有身体撞上去就会开的门，不需要任何人认得任何东西。"
+          "zh": "「防火」这个词是对着结构定义的——因为那才是**监督员**(warden)看一眼就能**作证**(attest)的东西。一幅会**卡住**(snags)的幕、一个被**钉死**(nailed)的**烟道**(chimney)、一把没人**认得**(recognises)的**门闩**(latch)——这些在**图纸**(drawing)上都看不见。没有**喷淋**(sprinkler)。卡尔·普林兹勒本打算那天去看戏，后来他做出了**推杠**(crash)——一扇只要有身体撞上去就会开的门，不需要任何人认得任何东西。"
         }
       ],
       "facts": [
@@ -42,7 +42,8 @@
         "**⚠ 一处未采信的说法**：部分来源称剧院翌年重开。**此说未取得可靠一手出处，本文不写。**另：正文写「停在离台面十英尺处」，来源作 8—10 英尺，**取上限并以整数表述**。",
         "**本篇的机制边界**：这不是「查验员受贿」的故事——虽然确有证据显示查验员收受赠票，**且事后五人被起诉、最终全部撤案（理由是芝加哥消防法令在技术上无效）**。**本文的论点在别处**：**「防火」这个词被定义在结构上，而结构恰是查验员看一眼就能核的东西。**会卡的幕、被钉死的天窗、没人认得的门闩——**这些都不出现在图纸上**。**而最终的解法不是让人认得门闩，是造一扇不需要认得的门**：身体撞上去就开。**标准若只能约束可见之物，改进的方向就是把危险移出「需要辨认」的范围。**",
         "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——staple 是订书钉／搭扣，而剧场门上要拔的是门闩（原为 bolts，与 §4 的 bolted 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**",
-        "**★ 冷读改正（2026-09-04，隔日）**：「Its steel frame and brick walls upright」缺谓语——2026-09-03 记录里说改过，实际没落地；今补 stood。"
+        "**★ 冷读改正（2026-09-04，隔日）**：「Its steel frame and brick walls upright」缺谓语——2026-09-03 记录里说改过，实际没落地；今补 stood。",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-45.md）**：零 A。B：句首数字「27 of the 30」改 Of the 30 exits, 27；括注 warden「查验员」改「监督员」；中文数字空格。"
       ],
       "metrics": {
         "words": 268,
@@ -252,7 +253,7 @@
         },
         {
           "w": "warden",
-          "zh": "查验员；看守",
+          "zh": "监督员",
           "p": 5
         },
         {

@@ -14,18 +14,18 @@
       "paras": [
         {
           "en": "Goods worth 24 trillion **crossed** borders in 2024; every **export** is a **counterpart**'s **import**. Tot everything the world sells, then everything it **receives**; the two totals must **offset** to nothing. Their **residue** must be **nil** — not near zero, **flat** zero — by the same **identity** that makes any book balance.",
-          "zh": "2024年有24万亿的货物**跨**(crossed)过国界；每一笔**出口**(export)都是**对手方**(counterpart)的**进口**(import)。把全世界卖出去的加总一遍，再把它**收**(receives)进来的加总一遍，两个总数必须彼此**抵消**(offset)到零。剩下的**余数**(residue)必须是**零**(nil)——不是接近零，是**平**(flat)零——这与任何一本账要平的**恒等式**(identity)是同一条。"
+          "zh": "2024 年有 24 万亿的货物**跨**(crossed)过国界；每一笔**出口**(export)都是**对手方**(counterpart)的**进口**(import)。把全世界卖出去的加总一遍，再把它**收**(receives)进来的加总一遍，两个总数必须彼此**抵消**(offset)到零。剩下的**余数**(residue)必须是**零**(nil)——不是接近零，是**平**(flat)零——这与任何一本账要平的**恒等式**(identity)是同一条。"
         },
         {
-          "en": "That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 percent of world **product** — a **chunk** of a trillion in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 percent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.",
-          "zh": "可这一**行**(row)从来没有等于过零。1980到2004年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。"
+          "en": "That **row** has never once been zero. Between 1980 and 2004 the planet **filed** a current account **minus** running from 0.2 to 0.9 per cent of world **product** — a **chunk** of a trillion in a bad year. Then the sign **flipped**, and the planet began filing a **glut** of near 0.5 per cent **thereafter**. Earth had become a net **exporter**, with **nobody** to export to.",
+          "zh": "可这一**行**(row)从来没有等于过零。1980 到 2004 年间，这颗行星**报**(filed)出的经常账户是**负**(minus)的，占世界**产值**(product)的0.2%到0.9%——差的年份是上万亿里的一**大块**(chunk)。随后符号**翻**(flipped)了过来，**此后**(thereafter)这颗行星报出的是近0.5%的**盈余**(glut)。地球成了净**出口方**(exporter)，而**没有谁**(nobody)可供它出口。"
         },
         {
           "en": "The IMF **convened** an **expert** party. Its report, **tagged** SM/87/13, reached the board on 12 January 1987: 182 **pages**, 109 **appendices**. Reading 1977 to 1983, it found something **graver** than a **divergence**. The world showed an aggregate minus on current account and, at once, an aggregate plus on the capital account. Both **sides** of one book were wrong, each in its own **direction**.",
-          "zh": "国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组。那份报告**编号**(tagged)SM/87/13，1987年1月12日送抵执董会：182**页**(pages)、109份**附表**(appendices)。读过1977到1983年的数据，它发现的东西比一处**背离**(divergence)**更重**(graver)：全世界的经常账户累计为负，而**同时**，资本账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。"
+          "zh": "国际货币基金组织**召集**(convened)了一个**专家**(expert)工作组。那份报告**编号**(tagged)SM/87/13，1987 年 1 月 12 日送抵执董会：182 **页**(pages)、109 份**附表**(appendices)。读过 1977 到 1983 年的数据，它发现的东西比一处**背离**(divergence)**更重**(graver)：全世界的经常账户累计为负，而同时，资本账户累计为正。同一本账的两**边**(sides)都错了，各错各的**方向**(direction)。"
         },
         {
-          "en": "The causes turned out to be **mundane**. A **cargo** **stowed** and **shipped** in December **berths** in January, tabulated as an export one year and an import the next. Customs income goes **understated** to **dodge** tax. Financial **havens** make a **creditor**'s **residence** hard to **pin** down.",
+          "en": "The causes turned out to be **mundane**. A **cargo** **stowed** and **shipped** in December **berths** in January, an export one year and an import the next. Customs income goes **understated** to **dodge** tax. Financial **havens** make a **creditor**'s **residence** hard to **pin** down.",
           "zh": "查出来的原因**平淡**(mundane)得很。一船**货**(cargo)十二月**装船**(stowed)**运出**(shipped)、一月**靠岸**(berths)，于是这一年记成出口、下一年记成进口。关税收入被**少报**(understated)以**躲**(dodge)税。金融**避风港**(havens)让一个**债权人**(creditor)的**居所**(residence)根本无从**认定**(pin)。"
         },
         {
@@ -42,7 +42,8 @@
         "**本篇的机制边界**：这不是「统计做得不好」的故事。**差额之所以刺眼，正因为它在数学上不可能存在**——经常账户之和为零是会计恒等式，不是经验规律。**因此非零的差额不是关于贸易的事实，而是关于记账的事实**：两百多个统计机构各自记账，口径、时点与定义从未统一，**于是一个必须为零的数，反而成了衡量「全世界有多不会一起数数」的尺子。**本文不判某国造假，**因为运输时滞与债权人居所这两项，谁也没做错，账仍然平不了。**",
         "**已核 · 正文三个数的出处（供复核）**：**24 万亿与 2024 年**——世界贸易组织与 UNCTAD 口径下 2024 年全球货物贸易额约 24 万亿美元；**1983**——IMF 那份报告（SM/87/13）审读的区间为 **1977 至 1983 年**，见本条上方第 3 条。**⚠ 24 万亿一数为约数，随口径（货物／货物加服务）与年份修订而变，本文取整并以「约」表述。**",
         "**★ 已核 · 两处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「on the monetary account」——与经常账户对应的是资本账户，『货币账户』不是标准名。已改为 capital account（capital 白送词不占名额）。****二 · 「A cargo embarks」——embark 是人登船，货物是装船、运出。已改为 stowed and shipped。****⚠ 一处判为保留：§2「filing a glut」——经济学有『全球储蓄过剩』（global savings glut，伯南克 2005）之说，正指经常账户盈余的另一面，可用。**",
-        "**⚠ BAL-02 判为保留（§4 局部密度）**：改 embarks→stowed and shipped 多了一个名额，该段密度随之略升。**判据：把一个人才做的动作（登船）改成货物真实经历的两个动作，值这一点密度。**"
+        "**⚠ BAL-02 判为保留（§4 局部密度）**：改 embarks→stowed and shipped 多了一个名额，该段密度随之略升。**判据：把一个人才做的动作（登船）改成货物真实经历的两个动作，值这一点密度。**",
+        "**★★ 审读团（2026-09-04，人读，见 notes/审读-41.md）**：一处 A——中文 §3「**同时**」误加粗（英文无名额）。B：percent 改 per cent 两处；artifact 美式拼法留（名额，与第57篇 artefacts 拼法不同才不撞）；中文数字空格。"
       ],
       "metrics": {
         "words": 270,
