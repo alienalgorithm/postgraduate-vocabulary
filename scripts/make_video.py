@@ -92,30 +92,34 @@ def board_bg(W, H):
 def wrap(draw, tokens, fnt, maxw, space):
     """tokens: [(文字, 是否重点词)]。按宽度折行，返回 [[(tok,gold,w)]…]"""
     lines, cur, curw = [], [], 0
-    for tok, gold in tokens:
+    for tok, gold, glue in tokens:
         w = draw.textlength(tok, font=fnt)
-        add = w + (space if cur else 0)
-        if cur and curw + add > maxw:
+        add = w + (0 if (glue or not cur) else space)
+        if cur and curw + add > maxw and not glue:      # 紧贴的标点不单独换行
             lines.append(cur); cur, curw = [], 0
             add = w
-        cur.append((tok, gold, w)); curw += add
+        cur.append((tok, gold, w, glue and bool(cur))); curw += add
     if cur:
         lines.append(cur)
     return lines
 
 
 def en_tokens(en):
-    """英文按词切，重点词标 gold。"""
-    out = []
+    """英文按词切，重点词标 gold。返回 [(词, 是否重点, 是否紧贴前一个)]。
+    ★ 「**delivered**.」拆开后句号是单独一个 token，画的时候前面会多一个空格，
+      成了「delivered .」。紧贴前一个词的标点不加空格（glue）。"""
+    out, prev = [], ""
     for chunk in re.split(r"(\*\*[^*]+\*\*)", en):
         if not chunk:
             continue
-        if chunk.startswith("**"):
-            for w in chunk[2:-2].split():
-                out.append((w, True))
-        else:
-            for w in chunk.split():
-                out.append((w, False))
+        # 只有**前一块不以空格结尾、这一块也不以空格开头**才是紧贴（「**delivered**.」的句号）；
+        # 「a **widow**」中间有空格，widow 不能贴着 a。
+        glue_first = bool(out) and not prev.endswith(" ") and not chunk.startswith(" ")
+        words = (chunk[2:-2] if chunk.startswith("**") else chunk).split()
+        gold = chunk.startswith("**")
+        for i, w in enumerate(words):
+            out.append((w, gold, glue_first and i == 0))
+        prev = chunk
     return out
 
 
@@ -131,7 +135,7 @@ def zh_tokens(zh):
         pos = m.end()
     for ch in zh[pos:]:
         out.append((ch, False))
-    return [(c, g) for c, g in out if c not in "*"]
+    return [(c, g, True) for c, g in out if c not in "*"]
 
 
 def draw_sentence(bg, s, W, H):
@@ -158,15 +162,18 @@ def draw_sentence(bg, s, W, H):
         sp_e = d.textlength(" ", font=fe)
         lh_e = int(H * 0.082 * cand)
         lh_z = int(H * 0.072 * cand)
-        gap_pair = int(H * 0.011 * cand)
-        gap_chunk = int(H * 0.032 * cand)
+        # ★ 段距标准（用户 2026-09-04 定，以后所有视频都照这个）：
+        #   段内（英文 → 它自己的中文）贴紧；**段与段之间拉开到一眼看得出是两组**——
+        #   段间距 ≈ 段内距的 6 倍。这一条比字号优先：字号往下找的时候段距按比例缩，但比例不变。
+        gap_pair = int(H * 0.010 * cand)
+        gap_chunk = int(H * 0.062 * cand)
         blocks, total, over = [], 0, False
         for ci, c in enumerate(chunks):
             le = wrap(d, en_tokens(c['en']), fe, maxw, sp_e)
             lz = wrap(d, zh_tokens(c['zh']), fz, maxw, 0)
             # 单个词就超宽（长单词、长中文块）→ 这一档不行
             for ln in le + lz:
-                if any(w > maxw for _, _, w in ln):
+                if any(w > maxw for _, _, w, _ in ln):
                     over = True
             blocks.append((le, lz))
             total += len(le) * lh_e + gap_pair + len(lz) * lh_z
@@ -179,17 +186,19 @@ def draw_sentence(bg, s, W, H):
     y = (H - total) // 2
     for ci, (le, lz) in enumerate(blocks):
         for ln in le:
-            wsum = sum(w for _, _, w in ln) + sp_e * (len(ln) - 1)
+            wsum = sum(w for _, _, w, _ in ln) + sum(sp_e for _, _, _, g in ln[1:] if not g)
             x = (W - wsum) / 2
-            for tok, gold, w in ln:
+            for i, (tok, gold, w, glue) in enumerate(ln):
+                if i and not glue:
+                    x += sp_e
                 d.text((x, y), tok, font=fe, fill=GOLD if gold else CHALK)
-                x += w + sp_e
+                x += w
             y += lh_e
         y += gap_pair
         for ln in lz:
-            wsum = sum(w for _, _, w in ln)
+            wsum = sum(w for _, _, w, _ in ln)
             x = (W - wsum) / 2
-            for tok, gold, w in ln:
+            for tok, gold, w, _ in ln:
                 d.text((x, y), tok, font=fz, fill=GOLD if gold else CHALK)
                 x += w
             y += lh_z

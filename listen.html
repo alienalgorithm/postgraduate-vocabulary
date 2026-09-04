@@ -47,8 +47,8 @@
   /* 意群成对：一小段英文，紧跟它自己的中文，段与段之间留空
      ★ 不再上面一整句英文、下面一整句中文——那样眼睛要在长句两端来回找对应。 */
   .pairs{display:flex;flex-direction:column;align-items:center;
-    gap:clamp(8px,1.3vw,20px);width:100%;position:relative;z-index:1}
-  .pair{display:flex;flex-direction:column;align-items:center;gap:clamp(2px,.45vw,7px);max-width:97%}
+    gap:clamp(16px,2.6vw,40px);width:100%;position:relative;z-index:1}   /* 段间距：一眼看出是两组 */
+  .pair{display:flex;flex-direction:column;align-items:center;gap:clamp(1px,.3vw,5px);max-width:97%}  /* 段内：英文贴着它的中文 */
   .en,.zh{max-width:100%;line-height:1.3;position:relative;z-index:1;
     text-shadow:0 1px 0 rgba(0,0,0,.35), 0 0 14px rgba(255,255,255,.05)}
   .en{font-family:Poppins,'Century Gothic',ui-rounded,ui-sans-serif,'Segoe UI',system-ui,sans-serif;

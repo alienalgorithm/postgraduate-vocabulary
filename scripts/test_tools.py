@@ -2367,6 +2367,11 @@ check("音画对齐（视频时长＝各句解码＋停顿＋1.5 秒结尾缓冲
 check("结尾 1.5 秒是静音", float(re.search(r"mean_volume:\s*(-?[\d.]+)", subprocess.run(
     ["ffmpeg", "-v", "info", "-ss", str(_vd - 1.2), "-i", _mp4, "-af", "volumedetect", "-f", "null", "-"],
     capture_output=True, text=True).stderr).group(1)) < -60)
+_mv = open(os.path.join(ROOT, "scripts/make_video.py"), encoding="utf-8").read()
+_gp = float(re.search(r"gap_pair = int\(H \* ([\d.]+)", _mv).group(1))
+_gc = float(re.search(r"gap_chunk = int\(H \* ([\d.]+)", _mv).group(1))
+check("段距标准：段间 ≥ 5 × 段内（用户定的标准）", _gc >= 5 * _gp and _gc >= 0.05)
+check("重点词后的标点紧贴前词（不画成 delivered .）", "glue_first" in _mv and "prev.endswith" in _mv)
 check("字号由大往小搜（取放得下的最大号）", "由大往小搜" in open(
     os.path.join(ROOT, "scripts/make_video.py"), encoding="utf-8").read())
 check("看片页存在且句子起点算法与渲染一致", "GAP=0.32" in open(os.path.join(ROOT, "watch.html"), encoding="utf-8").read())
