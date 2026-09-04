@@ -13,7 +13,7 @@ The **ordeal** looks like superstition at its worst. A man carries a red-hot **b
 
 Then read the **folio**. A **vellum** at Várad, 1208 to 1235, lists 208 **defendants** charged with **larceny** or worse. The court found a **felony** proved against 78 on **oath**. The other 130 walked away unmarked — two in three **exonerated**, with no **bandage** wanted, no **surety** posted, no **pledge** taken.
 
-Either those hands were miraculous or the metal was cool; the **chaplain** held every lever. He **splashed** holy water over the **crucible**, lifted it from the **embers** with **tongs**, drew out the **liturgy** while it stood. The **congregation** watched from afar, past the **pulpit**. He alone **adjudged** whether the hand had **seared**.
+Either those hands were miraculous or the metal was cool; the **chaplain** held every lever. He **splashed** holy water over the **ingot**, lifted it from the **embers** with **tongs**, drew out the **liturgy** while it stood. The **congregation** watched from afar, past the **pulpit**. He alone **adjudged** whether the hand had **seared**.
 
 Why bother? Because everyone believed. A guilty man made terms with his **accuser** or fled, and the **plaintiff** dropped the **suit**. Only one who thought himself innocent came to the **porch**, held out an open **palm**, **knuckles** up, and took the **glowing** metal. **Willingness** was the evidence: fear of the **hearth** and the **gallows** kept the guilty away.
 
@@ -30,7 +30,7 @@ A **hearing** no one faces unless innocent need not work; it need only be believ
 
 那就去读那册**对开本**(folio)。瓦拉德一份1208至1235年的**羊皮卷**(vellum)上，列着208名以**盗窃**(larceny)或更重罪名被控的**被告**(defendants)。法庭据**誓**(oath)判定其中78人**重罪**(felony)成立。另外130人毫发无伤地走了——三个里有两个**获判无罪**(exonerated)，不需要**绷带**(bandage)，不必交**保证金**(surety)，也没被取**具结**(pledge)。
 
-要么那些手是奇迹，要么那金属本就不烫；而**神职人员**(chaplain)手里握着全部机关。他把圣水**洒**(splashed)在**坩埚**(crucible)上，在他选定的时刻用**火钳**(tongs)把它从**余烬**(embers)上提起来，又趁它搁着的工夫把**礼文**(liturgy)拖长。**会众**(congregation)远远站着，隔着**讲坛**(pulpit)。是他一个人**判定**(adjudged)那只手究竟有没有**灼**(seared)伤。
+要么那些手是奇迹，要么那金属本就不烫；而**神职人员**(chaplain)手里握着全部机关。他把圣水**洒**(splashed)在**铁块**(ingot)上，在他选定的时刻用**火钳**(tongs)把它从**余烬**(embers)上提起来，又趁它搁着的工夫把**礼文**(liturgy)拖长。**会众**(congregation)远远站着，隔着**讲坛**(pulpit)。是他一个人**判定**(adjudged)那只手究竟有没有**灼**(seared)伤。
 
 何必费这个事？因为人人都信。有罪的人会同**原告**(accuser)私了，或者干脆逃走，而**起诉方**(plaintiff)也就撤了**诉**(suit)。只有自认无辜的人才会走到**门廊**(porch)上，摊开**手掌**(palm)、**指节**(knuckles)朝上，去接那块**发红的**(glowing)金属。**肯不肯上**(Willingness)本身就是证据：对**炉膛**(hearth)与**绞架**(gallows)的畏惧，把有罪的人挡在了外面。
 
@@ -44,7 +44,7 @@ A **hearing** no one faces unless innocent need not work; it need only be believ
 
 **§2**（10词）folio 对开本｜vellum 羊皮卷｜defendants 被告（复）｜larceny 盗窃罪｜felony 重罪｜oath 誓言｜exonerated 获判无罪｜bandage 绷带｜surety 保证金｜pledge 具结；保证
 
-**§3**（10词）chaplain 神职人员｜splashed 泼洒｜crucible 坩埚｜embers 余烬（复）｜tongs 火钳｜liturgy 礼文｜congregation 会众｜pulpit 讲坛｜adjudged 判定｜seared 灼伤
+**§3**（10词）chaplain 神职人员｜splashed 泼洒｜ingot 铁块；金属锭｜embers 余烬（复）｜tongs 火钳｜liturgy 礼文｜congregation 会众｜pulpit 讲坛｜adjudged 判定｜seared 灼伤
 
 **§4**（10词）accuser 原告｜plaintiff 起诉方｜suit 诉讼｜porch 门廊｜palm 手掌｜knuckles 指节（复）｜glowing 发红的｜willingness 意愿｜hearth 炉膛｜gallows 绞架
 
@@ -63,3 +63,4 @@ A **hearing** no one faces unless innocent need not work; it need only be believ
 - **⚠ 三处表述取舍**：①正文的「三个里有两个」对应来源的 nearly two-thirds，未取更精确的 62.5%；②**正文不点 Leeson 的名**：本文写的是这套机制本身，点名会把重心移到学术史上；③**末段那串排比（誓／蜡封／圣龛／拨火棍／铁砧／威慑）是本文的推论表述**，**其事实基础是上述三条，而非某一来源的原话。**
 - **本篇的机制边界**：这不是「中世纪人其实很聪明」的故事。**神判确实伤过人**——78 人被判有罪即意味着他们的手确实烧坏了；**且这套机制只在人人真信神会裁断时才成立**，信念一散，分离均衡随之崩塌。**本文的论点在一个更窄的地方：一个没人肯受、除非自己无辜的试炼，不必真的有效，只需被相信——筛选发生在试炼之前。****⚠ 需注意：Leeson 的解释在史学界并非唯一说法，本文取其为最能解释那组数字的一种。**
 - **★★★ 已核 · 六条人读抓出三处编造（2026-09-02，入库后复查）**：**一 · 「He doused the crucible in holy water」——douse 是「整个浸进去」，而来源说的是往锅里的水上『洒』圣水。一个坩埚不可能被浸进圣水里。****已改为 splashed holy water over the crucible。****二 · 「fear of the hearth and its smith」——铁匠与神判无关，是我为凑名额塞的。****已改为 the hearth and the gallows**——绞架在正文第2句已经出现（he hangs），有据。**三 · 末段排比里的「a poker nobody lifts, an anvil nobody strikes」——拨火棍与铁砧都不是「靠不被动用而起作用」的东西，破坏了那串排比的逻辑。****已改为 a noose nobody fits, a shackle nobody closes**——绞索与镣铐才合那条道理。**⚠ 这三处检察官一条都报不出来。100 分量的是合规，不是文章。**
+- **★ 冷读改正（2026-09-04，隔日）**：「splashed holy water over the crucible」——试炼用的是烧红的铁条（§1 billet），crucible 是熔金属的坩埚，中世纪史家会皱眉；换 ingot。**这是行家词一层的漏——封版时那一问在第58篇之前还没立。**

@@ -25,8 +25,8 @@
           "zh": "**山鹑**(partridge)、**野兔**(hare)与**松鸡**(grouse)才是**本地**(native)的；这三样都不是**枪**(guns)想要的。1913年一场有乔治五世在场的围猎，据传一天打下四千只，多过一户人家吃得下的数目。**赶鸟人**(Beaters)踩过**残茬**(stubble)把鸟轰过枪线；从前**套索**(snare)与**网**(net)一只一只弄到的，如今在这种**围猎**(shoot)里成百地落下。"
         },
         {
-          "en": "Meanwhile the **tenant** could not touch a bird eating the **barley** he had **sown** and would **reap**. Before 1831 common law gave him the game he **rented**; the game laws took it back. After 1831 it came back, and the **squire** could sell it over his head to an **outsider**. To walk the **ditch** with a dog was **trespass** enough to **convict**.",
-          "zh": "而**佃户**(tenant)碰不得一只正在吃他**大麦**(barley)的鸟——那麦是他**播**(sown)下、要**收**(reap)的。1831年以前，普通法把他所**租**(rented)田地上的猎物给他，猎场法又拿了回去。1831年以后权利还给了他，可**乡绅**(squire)能越过他把这权利卖给一个**外人**(outsider)。牵着狗走一趟**沟**(ditch)，就足以按**擅闯**(trespass)**定罪**(convict)。"
+          "en": "Meanwhile the **tenant** could not touch a bird eating the **barley** he had **sown** and would **reap**. Before 1831 common law gave him the game he **rented**; the game laws took it back. After 1831 it was the landlord's; the **squire** could sell it over his head to an **outsider**. Walking the **ditch** with a dog was **trespass** enough to **convict**.",
+          "zh": "而**佃户**(tenant)碰不得一只正在吃他**大麦**(barley)的鸟——那麦是他**播**(sown)下、要**收**(reap)的。1831年以前，普通法把他所**租**(rented)田地上的猎物给他，猎场法又拿了回去。1831年以后它归了地主；**乡绅**(squire)能越过他把这权利卖给一个**外人**(outsider)。牵着狗走一趟**沟**(ditch)，就足以按**擅闯**(trespass)**定罪**(convict)。"
         },
         {
           "en": "A **magistrate** could give **gaol**; for a night **affray**, **transportation**. Wild was not a description. It was the thing that made the **offence**. Nobody **steals** a neighbour's **poultry** and calls it **pilfering**; you can only **poach** what belongs to no one until a **shotgun** goes off.",
@@ -41,12 +41,13 @@
         "**⚠ 三处已标注的取舍**：①**「据传四千只」原文即作 reputedly**，本文以「据传」译出，不作实数；②**1830 年重新引入之说出自一处觅食主题博客**，属可靠性中等之来源，**本文以「约 1830 年」表述，且此说与「十八世纪起大量人工繁育」并不冲突**；③正文写「夜里斗殴可以判流放」——**流放（transportation）确为当时对夜间猎场犯罪的刑罚之一，但并非唯一或必然，本文以「可以判」表述。**",
         "**本篇的机制边界**：这不是「猎场法不公」的故事——那早有定论，且当时的舆论多同情劳工一方。**本文的论点在一个更窄的地方：那部法律所保护的东西，其存在本身依赖于它所雇的看守。****山鹑、野兔与松鸡是本土的，可枪要的是雉鸡**；**而雉鸡若无人孵、无人放、无人喂，几季之内就会垮掉。****故「野」在这里不是一个描述，而是一个法律条件**——**你不能偷邻居的母鸡还管它叫偷猎；只有当法律先宣布某物在枪响之前不属于任何人，「偷猎」这桩罪才成立。**",
         "**已核 · 正文的「4,000」**：**「1913 年一场有乔治五世出席的围猎，据传一天打下近四千只雉鸡。」** 原文即作 reputedly，本文以「据传」译出，不作实数。[Poacher vs Gamekeeper · The Genealogist](https://www.thegenealogist.co.uk/featuredarticles/discover-your-ancestors/periodical/56/poacher-vs-gamekeeper-5919/)",
-        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条）**：**原文「until a rifle goes off」——19 世纪猎场与偷猎用的是猎枪（shotgun），rifle 是来复枪，打鸟不用。****这个 rifle 是早先为消 VAL-13 从 gun 换来的——为消一条待核换出了一个不对的词。已改为 shotgun。**"
+        "**★ 已核 · 一处行话改正（2026-09-03，人读第一条）**：**原文「until a rifle goes off」——19 世纪猎场与偷猎用的是猎枪（shotgun），rifle 是来复枪，打鸟不用。****这个 rifle 是早先为消 VAL-13 从 gun 换来的——为消一条待核换出了一个不对的词。已改为 shotgun。**",
+        "**★ 冷读改正（2026-09-04，隔日）**：「After 1831 it came back」——it 指什么不清，改为 it was the landlord's。"
       ],
       "metrics": {
-        "words": 270,
+        "words": 269,
         "keywords": 50,
-        "density": 18.5
+        "density": 18.6
       },
       "glossary": [
         {

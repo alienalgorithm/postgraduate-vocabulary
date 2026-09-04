@@ -17,7 +17,7 @@
           "zh": "多萝西·塞耶斯把这事归给民族**性子**(temper)：比利时人拿他的钟奏一支**曲**(tune)，英国人则坐在**中殿**(nave)的**长凳**(pew)上推演**排列**(permutations)。**性情**(Temperament)与此无干。英国的**塔**(tower)与**尖顶**(steeple)从来没有提供过**旋律**(melody)，**圣坛**(chancel)里也没人要它。"
         },
         {
-          "en": "The bell hangs from a **headstock** on a full wheel. Mouth **upward**, through a whole **circle**, resting mouth up on the far side, its **clapper** striking the **lip** each way. The **treble** of a **peal** may weigh 600 pounds, the **tenor** a ton, its **tuning** set at the **foundry**.",
+          "en": "The bell hangs from a **headstock** on a full wheel and swings mouth **upward** through a whole **circle** to rest mouth up beyond, its **clapper** striking the **lip** each way. The **treble** of a **peal** may weigh 600 pounds, the **tenor** a ton, **tuning** set at the **foundry**.",
           "zh": "钟吊在一副整轮的**钟轭**(headstock)上。口**朝上**(upward)起，转过一整**圈**(circle)，停在另一侧仍口朝上，**钟舌**(clapper)每一程都撞一下**钟唇**(lip)。一套**钟组**(peal)里最轻的**高音钟**(treble)约六百磅，**低音钟**(tenor)则重达一吨，它的**定音**(tuning)在**铸钟厂**(foundry)就定死了。"
         },
         {
@@ -42,10 +42,11 @@
         "**本篇的机制边界**：这不是「英国人没有音乐感」的故事。**整轮吊挂并非缺陷，它换来的是别的东西**——钟能被精确地控制在半秒之内，**这才使几十人协同鸣出上千次不重复的序列成为可能。****本文的论点在一个更窄的地方：一种看似出于趣味的选择，其实由器械的形状决定。****⚠ 需注意：英国也有排钟（如利物浦），本文说的是塔钟换鸣这一支。**",
         "**⚠ VAL-13 判为保留（pew／pews）**：§1 的 **pew** 是英国人推演排列时坐的那一张，§5 的 **pews** 是墓园里被钟声吵到的那几排——**同一个词的单复数，指两处不同的长凳，各有其值。****试过 bench（撞35篇）、seat（撞35篇）、stall（撞38篇），无一可用。****判据：两个形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。**",
         "**⚠ BAL-02b 判为保留（§4 局部密度 22.2%）**：§4 是对照段，**十个名额全是排钟机构的部件**——钟楼／耳堂／冠部／木杆／铁锤／排钟／地宫／祭衣间／墓／洗礼盆，**缺一则对照不成立**。**试过加词降密度，触发 270 词上限当场回滚（+7）。****判据：降密度要加词，加词又超上限，二者相互拉扯——与第51篇 FIT-02 同型，判为保留。**",
-        "**★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「hurry its flight」——换鸣里钟的一程叫 stroke，不叫 flight。已删 flight。****二 · 「check it on the slider」——slider 是限位木条，拉钟人不是『靠它拖住』，而是把钟『收』到它上面的定位（set the bell）。已改为 check it to its setting on the slider。****三 · 「such tackle」——tackle 是滑轮索具，钟楼里不这么叫。已改为 contraption，取其通称义。****⚠ 三处的词都 vet 过、合规，错在放的位置。与第55篇 dike、第60篇 stalk／mash 同型。**"
+        "**★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「hurry its flight」——换鸣里钟的一程叫 stroke，不叫 flight。已删 flight。****二 · 「check it on the slider」——slider 是限位木条，拉钟人不是『靠它拖住』，而是把钟『收』到它上面的定位（set the bell）。已改为 check it to its setting on the slider。****三 · 「such tackle」——tackle 是滑轮索具，钟楼里不这么叫。已改为 contraption，取其通称义。****⚠ 三处的词都 vet 过、合规，错在放的位置。与第55篇 dike、第60篇 stalk／mash 同型。**",
+        "**★ 冷读改正（2026-09-04，隔日）**：§2 第二句无主谓（Mouth upward, through a whole circle…），并入前句为 and swings…to rest。"
       ],
       "metrics": {
-        "words": 271,
+        "words": 270,
         "keywords": 50,
         "density": 18.5
       },

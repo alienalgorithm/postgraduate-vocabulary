@@ -2,7 +2,7 @@
 
 > 题材：英国换鸣：看着像民族性情的东西，往往只是器械的形状
 > 状态：**第五十六篇定稿**（2026-09-02）
-> 指标：271 词 / 50 重点词 / 密度 18.5%
+> 指标：270 词 / 50 重点词 / 密度 18.5%
 > 塞耶斯把英国换鸣归给民族性情。可它不是选择，是设备的形状——塔钟装在整轮上，拉绳的人只能略赶或略拖，停不住也弹不快。所以每次换序只能挪一位。低地国家的钟死装、键盘敲锤，排钟便能奏任何曲子。
 
 ---
@@ -11,7 +11,7 @@
 
 Dorothy Sayers put it to national **temper**: the Belgian plays a **tune**, the Englishman works **permutations** from a **pew** in the **nave**. **Temperament** had nothing to do with the matter. No **melody** was ever on offer from an English **tower** or **steeple**, and none was wanted in the **chancel**.
 
-The bell hangs from a **headstock** on a full wheel. Mouth **upward**, through a whole **circle**, resting mouth up on the far side, its **clapper** striking the **lip** each way. The **treble** of a **peal** may weigh 600 pounds, the **tenor** a ton, its **tuning** set at the **foundry**.
+The bell hangs from a **headstock** on a full wheel and swings mouth **upward** through a whole **circle** to rest mouth up beyond, its **clapper** striking the **lip** each way. The **treble** of a **peal** may weigh 600 pounds, the **tenor** a ton, **tuning** set at the **foundry**.
 
 A ringer holds the **sallie**. He can **hurry** the bell or check it to its **setting** on the **slider**; he cannot stop or play it fast. To **muffle** it, a leather **pad** goes on the clapper. So no bell shifts more than one place at a change, the clapper falling at **backstroke** as at hand: what a **rope** and **pulley** can do to a turning ton of **metal**.
 
@@ -65,3 +65,4 @@ Given a **rig** that shuffles its notes one place at a time, the English wrote t
 - **⚠ VAL-13 判为保留（pew／pews）**：§1 的 **pew** 是英国人推演排列时坐的那一张，§5 的 **pews** 是墓园里被钟声吵到的那几排——**同一个词的单复数，指两处不同的长凳，各有其值。****试过 bench（撞35篇）、seat（撞35篇）、stall（撞38篇），无一可用。****判据：两个形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。**
 - **⚠ BAL-02b 判为保留（§4 局部密度 22.2%）**：§4 是对照段，**十个名额全是排钟机构的部件**——钟楼／耳堂／冠部／木杆／铁锤／排钟／地宫／祭衣间／墓／洗礼盆，**缺一则对照不成立**。**试过加词降密度，触发 270 词上限当场回滚（+7）。****判据：降密度要加词，加词又超上限，二者相互拉扯——与第51篇 FIT-02 同型，判为保留。**
 - **★ 已核 · 三处行话改正（2026-09-03，人读第一条「行家会这么说吗」）**：**一 · 「hurry its flight」——换鸣里钟的一程叫 stroke，不叫 flight。已删 flight。****二 · 「check it on the slider」——slider 是限位木条，拉钟人不是『靠它拖住』，而是把钟『收』到它上面的定位（set the bell）。已改为 check it to its setting on the slider。****三 · 「such tackle」——tackle 是滑轮索具，钟楼里不这么叫。已改为 contraption，取其通称义。****⚠ 三处的词都 vet 过、合规，错在放的位置。与第55篇 dike、第60篇 stalk／mash 同型。**
+- **★ 冷读改正（2026-09-04，隔日）**：§2 第二句无主谓（Mouth upward, through a whole circle…），并入前句为 and swings…to rest。
