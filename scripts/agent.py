@@ -85,6 +85,10 @@ def kin(a, b):
 def used_index(arts, exclude=None):
     """词元 / 加粗表面形式 / 词干 / 同族前缀 四条通道，防止同根撞车。"""
     exact, stems, owner = set(), set(), defaultdict(set)
+    # ★ 撞库窗口：core.CLASH_WINDOW 为 N 时只与最近 N 篇比（2026-09-04；默认 None＝全库，行为不变）
+    _win = getattr(core, "CLASH_WINDOW", None) if "core" in globals() else None
+    if _win:
+        arts = sorted(arts, key=lambda x: int(x["id"]))[-int(_win):]
     for a in arts:
         if exclude and a["id"] == exclude:
             continue

@@ -2187,6 +2187,17 @@ if os.path.exists(_tmp_d):
                           capture_output=True, text=True, timeout=300).stdout
     check("实测：石板路草稿被拦（42 名额，7.3 词/名额，不报）或密度报出", "词一个名额" in _r25 or "重点词 42" in _r25)
 
+
+# ── 撞库窗口：poolsim.py 量、core.CLASH_WINDOW 定（2026-09-04）────────────
+# 路二的效果：全库 7/46，40 篇 18，30 篇 24，20 篇 29。窗口是一个常量，默认 None＝全库，行为不变。
+print("\n[词池] 撞库窗口")
+_co3 = open(os.path.join(ROOT, "scripts/core.py"), encoding="utf-8").read()
+_ag19 = open(os.path.join(ROOT, "scripts/agent.py"), encoding="utf-8").read()
+check("core 有 CLASH_WINDOW 且默认 None", "CLASH_WINDOW = None" in _co3)
+check("used_index 读窗口", "CLASH_WINDOW" in _ag19 and "_win" in _ag19)
+check("poolsim.py 存在", os.path.exists(os.path.join(ROOT, "scripts/poolsim.py")))
+check("《总令》记了四档数字", "最近 20 篇 | **29**" in open(os.path.join(ROOT, "notes/总令.md"), encoding="utf-8").read())
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

@@ -172,3 +172,10 @@ def metrics(paras):
     k = sum(len(keywords(p["en"])) for p in paras)
     return {"words": w, "keywords": k,
             "density": round(k / w * 100, 1) if w else 0.0}
+
+# ── 撞库窗口（2026-09-04 立，默认全库＝行为不变）──────────────────────
+# 《总令》「词池现状」路二：撞库只在相邻 N 篇内算。poolsim.py 量过：全库 7/46 题材过线，40 篇 18，30 篇 24，20 篇 29。
+# **改这一个数就是选路二；不改就是路一。规则本身（VAL-07/08）在铁律里，改不改由用户定。**
+# None 或 0 = 全库；正整数 N = 只与最近 N 篇比。
+CLASH_WINDOW = None
+
