@@ -923,8 +923,8 @@
    ],
    "chunks": [
     {
-     "en": "A **brewery** **beside** the pump lost nobody, since the men were **supplied** with beer.",
-     "zh": "紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，因为工人的**配给**(supplied)是啤酒。",
+     "en": "A **brewery** **beside** the pump lost nobody,",
+     "zh": "紧**挨着**(beside)水泵的一家**酿酒厂**(brewery)一个人也没死，",
      "marks": [
       {
        "en": "brewery",
@@ -937,12 +937,18 @@
        "zh": "挨着",
        "gloss": "beside",
        "c": 1
-      },
+      }
+     ]
+    },
+    {
+     "en": "since the men were **supplied** with beer.",
+     "zh": "因为工人的**配给**(supplied)是啤酒。",
+     "marks": [
       {
        "en": "supplied",
        "zh": "配给",
        "gloss": "supplied",
-       "c": 2
+       "c": 0
       }
      ]
     }
@@ -1027,8 +1033,8 @@
    ],
    "chunks": [
     {
-     "en": "Both stood in the same **stench** as the tenements being **emptied** around them: same air,",
-     "zh": "两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；空气一模一样，",
+     "en": "Both stood in the same **stench** as the tenements being **emptied** around them:",
+     "zh": "两处都浸在与周围正被**清空**(emptied)的出租屋同样的**恶臭**(stench)里；",
      "marks": [
       {
        "en": "stench",
@@ -1043,6 +1049,11 @@
        "c": 1
       }
      ]
+    },
+    {
+     "en": "same air,",
+     "zh": "空气一模一样，",
+     "marks": []
     },
     {
      "en": "different water.",
@@ -1160,7 +1171,7 @@
    ],
    "chunks": [
     {
-     "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air, died on 2 September;",
+     "en": "Susannah Eley, a **widow** in Hampstead **remote** from Soho air,",
      "zh": "苏珊娜·伊利是位住在汉普斯特德的**寡妇**(widow)，那里**远离**(remote)苏活的任何空气，",
      "marks": [
       {
@@ -1178,8 +1189,13 @@
      ]
     },
     {
+     "en": "died on 2 September;",
+     "zh": "她却在 9 月 2 日死了：",
+     "marks": []
+    },
+    {
      "en": "she preferred the **taste** of Broad Street water",
-     "zh": "她却在 9 月 2 日死了：她偏爱宽街水的**口感**(taste)，",
+     "zh": "她偏爱宽街水的**口感**(taste)，",
      "marks": [
       {
        "en": "taste",
@@ -1276,7 +1292,7 @@
    ],
    "chunks": [
     {
-     "en": "Her **niece**, visiting from Islington, **sipped** the same bottle and died",
+     "en": "Her **niece**, visiting from Islington, **sipped** the same bottle",
      "zh": "她那位从伊斯灵顿来串门的**外甥女**(niece)**啜**(sipped)了同一瓶水，",
      "marks": [
       {
@@ -1294,7 +1310,7 @@
      ]
     },
     {
-     "en": "the next day.",
+     "en": "and died the next day.",
      "zh": "第二天也死了。",
      "marks": []
     }
@@ -1557,8 +1573,13 @@
    ],
    "chunks": [
     {
-     "en": "On 8 September the **parish** **removed** the pump **handle**.",
-     "zh": "9 月 8 日，**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。",
+     "en": "On 8 September",
+     "zh": "9 月 8 日，",
+     "marks": []
+    },
+    {
+     "en": "the **parish** **removed** the pump **handle**.",
+     "zh": "**教区**(parish)**卸下**(removed)了水泵的**把手**(handle)。",
      "marks": [
       {
        "en": "parish",
@@ -1739,27 +1760,28 @@
    ],
    "chunks": [
     {
-     "en": "The outbreak was already **fading**; the board **accepted** his advice,",
-     "zh": "疫情本已在**消退**(fading)，委员会**接受**(accepted)的也不是他的结论，",
+     "en": "The outbreak was already **fading**;",
+     "zh": "疫情本已在**消退**(fading)，",
      "marks": [
       {
        "en": "fading",
        "zh": "消退",
        "gloss": "fading",
        "c": 0
-      },
-      {
-       "en": "accepted",
-       "zh": "接受",
-       "gloss": "accepted",
-       "c": 1
       }
      ]
     },
     {
-     "en": "not his conclusion.",
-     "zh": "只是他的建议；",
-     "marks": []
+     "en": "the board **accepted** his advice, not his conclusion.",
+     "zh": "委员会**接受**(accepted)的也不是他的结论，只是他的建议；",
+     "marks": [
+      {
+       "en": "accepted",
+       "zh": "接受",
+       "gloss": "accepted",
+       "c": 0
+      }
+     ]
     }
    ]
   },

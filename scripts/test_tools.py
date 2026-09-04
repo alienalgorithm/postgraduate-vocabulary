@@ -2335,6 +2335,15 @@ check("每段英文都断在标点或开头词之前", all(
        in {"a", "an", "the", "and", "but", "or", "so", "he", "she", "it", "they", "we",
            "this", "that", "these", "those", "his", "her", "their", "its", "no", "one", "two", "there"}
     for s in _rd["sentences"] for ci, c in enumerate(s["chunks"])))
+check("否定词两边对上（英 not/no… ↔ 中 不/没/无）", all(
+    abs(len(re.findall(r"\b(?:not|no|never|nothing|nobody|none|nor|neither|without)\b",
+                       c["en"].replace("**", "").lower()))
+        - len(re.findall(r"不(?!过|但|仅|管|论|只|光)|没|无(?!论)|未(?!必)|非(?!常)", c["zh"]))) <= 1
+    for s in _rd["sentences"] for c in s["chunks"]))
+check("数字两边对上（一边有数字另一边不能没有）", all(
+    bool(re.search(r"\d", c["en"])) == bool(re.search(r"\d", re.sub(r"\([^)]*\)", "", c["zh"])))
+    for s in _rd["sentences"] for c in s["chunks"]))
+check("第01篇拆成 39 段且每段中英都非空", sum(len(s["chunks"]) for s in _rd["sentences"]) == 39)
 check("确实拆细了（平均每句 ≥1.5 段）", sum(len(s["chunks"]) for s in _rd["sentences"]) >= len(_rd["sentences"]) * 1.5)
 check("网页与视频都按意群成对排", "class=\"pair\"" in _lh and "chunks" in open(os.path.join(ROOT, "scripts/make_video.py"), encoding="utf-8").read())
 check("重点词一律金色（用户指定）", "--gold:#f5c542" in _lh and _lh.count("var(--gold)") >= 6)

@@ -208,9 +208,11 @@ def align_chunks(en, zh):
         zc = _zh_len(piece)
         if ew < 2 or zc < 2:
             return 1e6
-        # 一 · 长度占比（用户看出来的错就是这个）。留 3 个百分点的容差，
-        #      免得为了抠比例把英文在半路截断。
-        cost = 300 * max(0.0, abs(zc / TZ - ew / TE) - 0.03)
+        # 一 · 长度占比：只当**兜底**用，容差放到 10 个百分点。
+        #     ★ 中英密度本来就一段一个样：「lost nobody,／一个人也没死，」两边都在逗号处收尾、
+        #       锚点也对得上，这就是铁证，不能因为字数比差了 13 个百分点就把它并回去（用户指出的 §8）。
+        #       真正拦错的是下面的锚点项，不是这一项。
+        cost = 400 * max(0.0, abs(zc / TZ - ew / TE) - 0.10)
         # 二 · 锚点：这段英文里的重点词，中文得落在这段里
         keys = [BOLD.sub(r"\1", w).lower().strip(",.;:!?") for w in toks[a:b] if "**" in w]
         keys = [k for k in keys if k]
@@ -222,6 +224,21 @@ def align_chunks(en, zh):
                 cost += 34
         inside = sum(1 for st, _, _ in gl if lo <= st < hi)
         cost += 26 * abs(inside - len(keys))
+        # 二之二 · 否定词两边必须对上。
+        #   ★ 英文「the board accepted his advice, / not his conclusion.」在中文里是
+        #     「不是他的结论，／只是他的建议；」——**顺序反的**。两段都没有重点词，
+        #     锚点看不出来；靠否定词能看出来：英文的 not 在后半段，中文的「不是」在前半段。
+        en_neg = len(re.findall(r"\b(?:not|no|never|nothing|nobody|none|nor|neither|without)\b",
+                                BOLD.sub(r"\1", " ".join(toks[a:b])).lower()))
+        zh_neg = len(re.findall(r"不(?!过|但|仅|管|论|只|光)|没|无(?!论)|未(?!必)|非(?!常)", piece))
+        cost += 22 * abs(en_neg - zh_neg)
+        # 二之三 · 数字也是锚点。
+        #   ★ 「died on 2 September;」原本被划进上一段，可它的中文「9 月 2 日」在下一段——
+        #     两段都没有重点词，锚点和否定词都看不出来，数字一比就露馅。
+        en_num = bool(re.search(r"\d", " ".join(toks[a:b])))
+        zh_num = bool(re.search(r"\d", piece))
+        if en_num != zh_num:
+            cost += 20
         # 三 · 段落别太长太短
         if ew > 13:
             cost += 2.4 * (ew - 13)
@@ -235,16 +252,19 @@ def align_chunks(en, zh):
                 # 英文这里没有标点，但**下一个词是冠词/连词/代词这类开头词**的话，
                 # 本来就是一处自然停顿——「In September 1854 | a few streets…」。
                 # 下一个词是 to / of / Street 这种，就是把词组劈开了，重罚。
-                cost += 7 if nxt in OPEN else 26
-            if tail.lower().strip(",.;:!?") in FUNC:
-                cost += 34                      # 断在虚词后面（a / the / and / of…），更重
+                cost += 20 if nxt in OPEN else 60
+                # 断在虚词后面（a / the / and / of…）更糟。
+                # ★ 这一条只在**没有标点**时才算：「doubted it,」的 it 后面有逗号，
+                #   那本来就是断句处，罚它的话就会退而切成「…doubted」，把动词和宾语劈开。
+                if tail.lower().strip(",.;:!?") in FUNC:
+                    cost += 34
             # 断在连词/从句引导词**之前**是天然的意群边界，给奖励——
             # 「…and died / the next day.」这种把动词和它的时间状语劈开的切法，靠这一条纠正。
             if nxt in CONJ:
-                cost -= 18
+                cost -= 30
         return cost
 
-    NEG = 15.0                              # 每多切一段给的奖励：同样准就尽量切细
+    NEG = 30.0                              # 每多切一段给的奖励：**能拆就拆**，拦错交给锚点项
     INF = float("inf")
     best = {(0, 0): (0.0, None)}
     order = [(a, z) for a in range(n + 1) for z in range(len(zcuts))]
