@@ -224,7 +224,7 @@ jobs:
           const article43 = globalThis.SITE.ARTICLES.find(a => a.id === '43');
           if (article43) expected['43'] = { words: 268, keywords: 50, density: 18.7, status: '第四十三篇定稿' };
           const article42 = globalThis.SITE.ARTICLES.find(a => a.id === '42');
-          if (article42) expected['42'] = { words: 271, keywords: 50, density: 18.5, status: '第四十二篇定稿' };
+          if (article42) expected['42'] = { words: 270, keywords: 50, density: 18.5, status: '第四十二篇定稿' };
           const article41 = globalThis.SITE.ARTICLES.find(a => a.id === '41');
           if (article41) expected['41'] = { words: 271, keywords: 50, density: 18.5, status: '第四十一篇定稿' };
           const article40 = globalThis.SITE.ARTICLES.find(a => a.id === '40');

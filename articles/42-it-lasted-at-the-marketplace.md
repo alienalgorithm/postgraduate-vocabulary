@@ -17,7 +17,7 @@ Yet what one **household** could do was **slender**. His son was the first nativ
 
 The schools **clinched** it. Hebrew gave the **lessons** in 6 of 29 **organised** schools in 1904; by 1914 some 60 **institutions** used it as their only **vehicle**. Between came the war of the **languages**, settled 12 December 1913. The **backers** of the Haifa school **voted** German, on the **pretext** that Hebrew had no **lexicon** for engineering.
 
-The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun** for a **boiler**; he spent his life **minting** what was wanting, filling 17 volumes. But the answer was not his **resolve**, nor the **dictionary** **solely**. The Technion opened in 1924 in Hebrew. A language **revives** when children are **schooled** in it and can **recede** to nothing else.
+The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun** for a **boiler**; he spent his life **minting** what was wanting, filling 17 volumes. But the answer was not his **resolve**, nor the **dictionary** **solely**. The Technion opened in 1924 in Hebrew. A language **revives** when children are **schooled** in it and can **revert** to nothing else.
 
 ---
 
@@ -34,7 +34,7 @@ The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun**
 
 **定局**(clinched)的是学校。1904年，以色列地二十九所有**建制**(organised)的学校里，希伯来语在其中六所**授课**(lessons)；到1914年，约六十所**机构**(institutions)以它为唯一**载体**(vehicle)。其间发生了那场**语言**(languages)之战，1913年12月12日了结。海法那所技术学校的**出资方**(backers)**投票**(voted)给德语，**托词**(pretext)是希伯来语没有工程学的**词库**(lexicon)。
 
-这个反对意见是对的。**圣经**(Biblical)希伯来语总共只有八千个词，其中没有一个是「**锅炉**(boiler)」这样的**名词**(noun)；他一辈子都在**铸造**(minting)缺的那些，填满了十七卷。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是那部**词典**(dictionary)。1924年理工学院用希伯来语开学。一门语言**活转**(revives)过来，是在孩子们被用它**教养**(schooled)大、且再无别处可**退**(recede)之时。
+这个反对意见是对的。**圣经**(Biblical)希伯来语总共只有八千个词，其中没有一个是「**锅炉**(boiler)」这样的**名词**(noun)；他一辈子都在**铸造**(minting)缺的那些，填满了十七卷。可真正的答案不是他的**决心**(resolve)，也不**仅仅**(solely)是那部**词典**(dictionary)。1924年理工学院用希伯来语开学。一门语言**活转**(revives)过来，是在孩子们被用它**教养**(schooled)大、且再无别处可**退回**(revert)之时。
 
 ---
 
@@ -48,7 +48,7 @@ The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun**
 
 **§4**（10词）clinched 一锤定音｜lessons 课；授课（复）｜organised 有组织的｜institutions 机构（复）｜vehicle 媒介｜languages 语言（复）｜backers 出资方（复）｜voted 投票｜pretext 借口｜lexicon 词库
 
-**§5**（10词）biblical 圣经的｜noun 名词｜boiler 锅炉｜minting 铸造；创制｜resolve 决心｜dictionary 词典｜solely 仅仅｜revives 复活｜schooled 教养；训练｜recede 后退；退到
+**§5**（10词）biblical 圣经的｜noun 名词｜boiler 锅炉｜minting 铸造；创制｜resolve 决心｜dictionary 词典｜solely 仅仅｜revives 复活｜schooled 教养；训练｜revert 退回（到旧状态）
 
 ---
 
@@ -66,3 +66,4 @@ The objection was correct. **Biblical** Hebrew held 8,000 words, none a **noun**
 - **本篇的机制边界**：这不是「本-耶胡达被高估了」的故事。**他那句反对意见是对的**——1913年希伯来语确实没有工程学的词，而造词正是他毕生的工作。**本文的论点在别处**：一门语言的复活，不取决于有人**决定**去说它，**而取决于有一代孩子被用它教大、且再无别的语言可退。****决心与词典是必要的，学校才是充分的**——六比二十九与约六十这两个数，量的正是后者。
 - **已核 · 结尾那句的落点**：**理工学院（Technion）1924 年正式开学，以希伯来语授课**——即语言之战结束十年之后。**正文以此作末段的具体落点，而非停在格言上。**
 - **已核 · 正文五个数的出处一览（供复核）**：**50 年**——本-耶胡达抵达前 50 年耶路撒冷市集已有口语希伯来语（Languages of the World，见第 2 条）；**6 / 29**——1904 年以色列地 29 所有建制学校中 6 所以希伯来语授课（维基 War of the Languages，该处标 citation needed，见上条）；**60**——至 1914 年约 60 所机构以希伯来语为唯一教学语言（globaldisconnect 综述，见第 3 条）；**8000**——**圣经希伯来语的词汇总量**，非本-耶胡达造词数（Detroit Jewish News，见第 5 条）；**17**——《古今希伯来语大词典》共 17 卷（Wikipedia，见第 6 条）。
+- **★ 冷读改正（2026-09-04，隔日）**：「can recede to nothing else」不地道，换 revert（can revert to nothing else：没有别的语言可退回去）。

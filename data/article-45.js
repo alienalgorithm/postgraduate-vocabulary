@@ -17,7 +17,7 @@
           "zh": "易洛魁剧院1903年11月在芝加哥开张，**号称**(advertised)绝对**防火**(fireproof)。五周之后，一盏弧光灯**点着**(ignited)了一幅**平纹细布**(muslin)**幕布**(drape)；那场**日场**(matinee)的1,700名观众里，602人死在**挤**(brimming)得满溢的厅内。火顺着**布景**(scenery)爬进**吊景区**(flies)，一团**火球**(fireball)几分钟就横穿了整个观众厅。"
         },
         {
-          "en": "The building had not failed. Its steel frame and brick walls **upright**; the **deputy** commissioner had called it steel, brick and cement, and was **truthful**. Almost nobody died of **burns**. They died of **smoke** and **trampling**, in the **aisles** and behind the **auditorium** doors: the **ushers** fled without drawing the **bolts**.",
+          "en": "The building had not failed. Its steel frame and brick walls stood **upright**; the **deputy** commissioner had called it steel, brick and cement, and was **truthful**. Almost nobody died of **burns**. They died of **smoke** and **trampling**, in the **aisles** and behind **auditorium** doors: the **ushers** fled without drawing the **bolts**.",
           "zh": "那栋楼并没有失败。钢架与砖墙**直立**(upright)着；**副**(deputy)局长说它是钢、砖、水泥造的，这话是**属实的**(truthful)。几乎没有人死于**烧伤**(burns)。他们死于**烟**(smoke)与**踩踏**(trampling)，死在**过道**(aisles)里和**观众厅**(auditorium)的门背后：**引座员**(ushers)跑了，没人去拔那些**插销**(bolts)。"
         },
         {
@@ -41,7 +41,8 @@
         "**已核 · 末段的改革**：**Carl Prinzler**，一名五金推销员，**原定于当日观看该场演出**，后与同事研制出**推杠（crash bar / panic bar）**——**外侧不能进入（售票方所虑），而内侧受压即开**，此机构的历代设计沿用至今逾百年。[Smithsonian](https://www.smithsonianmag.com/history/how-theater-blaze-killed-hundreds-forever-changed-way-we-approach-fire-safety-180969315/)",
         "**⚠ 一处未采信的说法**：部分来源称剧院翌年重开。**此说未取得可靠一手出处，本文不写。**另：正文写「停在离台面十英尺处」，来源作 8—10 英尺，**取上限并以整数表述**。",
         "**本篇的机制边界**：这不是「查验员受贿」的故事——虽然确有证据显示查验员收受赠票，**且事后五人被起诉、最终全部撤案（理由是芝加哥消防法令在技术上无效）**。**本文的论点在别处**：**「防火」这个词被定义在结构上，而结构恰是查验员看一眼就能核的东西。**会卡的幕、被钉死的天窗、没人认得的门闩——**这些都不出现在图纸上**。**而最终的解法不是让人认得门闩，是造一扇不需要认得的门**：身体撞上去就开。**标准若只能约束可见之物，改进的方向就是把危险移出「需要辨认」的范围。**",
-        "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——staple 是订书钉／搭扣，而剧场门上要拔的是门闩（原为 bolts，与 §4 的 bolted 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**"
+        "**⚠ VAL-13 判为保留（2026-09-02 复核）**：为消掉这条待核而换的词，把句子改坏了——staple 是订书钉／搭扣，而剧场门上要拔的是门闩（原为 bolts，与 §4 的 bolted 同词元）。 **已改回原词。判据：同一个词的两种形式占两个名额，代价是读者背两次；而换成不对的词，代价是句子不成立。后者严重得多。VAL-13 是待核级、不是硬伤，本就允许判为保留。**",
+        "**★ 冷读改正（2026-09-04，隔日）**：「Its steel frame and brick walls upright」缺谓语——2026-09-03 记录里说改过，实际没落地；今补 stood。"
       ],
       "metrics": {
         "words": 268,
