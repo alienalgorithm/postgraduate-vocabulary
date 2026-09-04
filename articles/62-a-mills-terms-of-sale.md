@@ -2,22 +2,22 @@
 
 > 题材：维多利亚服丧礼俗：看起来是虔敬的规矩，其实是一家丝厂的销售条款
 > 状态：**第六十二篇定稿**（2026-09-03）
-> 指标：270 词 / 50 重点词 / 密度 18.5%
+> 指标：271 词 / 50 重点词 / 密度 18.5%
 > 通说：维多利亚时代的服丧礼俗是哀伤的仪式。可绉纱几乎全出自一家丝厂，用废丝做、高价卖，资本回报率 30%；「丧期过后留绉纱不吉利」的规矩逼人每次重新买。1890 年代女人不再戴面纱，销售十年跌 62%，习俗随之消失——哀伤没有变，市场变了。
 
 ---
 
 ## 英文正文
 
-Victorian **mourning** is remembered as grief made visible: the widow in black two years, the **crepe** **veil** to the ground, the **etiquette** book fixing the months for parent, brother, grandparent. The **coffin** in the front room, the **hearse** with **plumes**, the **undertaker** at the door, the **mourners** behind blinds: **propriety** codified.
+Victorian **mourning** is remembered as grief made visible: the widow in black for two years, the **crepe** **veil** to the ground, the **etiquette** book fixing the months for parent, brother, grandparent. The **coffin** in the front room, the **hearse** with **plumes**, the **undertaker** at the door, the **mourners** behind blinds: **propriety** codified.
 
-Read the rules as terms of trade. Crepe was a **crimped** silk, dull on purpose, made almost wholly by one **firm**, George Courtauld's. **Spun** from **waste** silk and **woven** cheap on the **loom**, it sold at a high **markup**; it returned 30 per cent on capital, 1850 to 1885, **profit** rising from £40,000 to £450,000. **Shareholders** drew a **dividend** on death.
+Read the rules as terms of trade. Crepe was a **crimped** silk, dull on purpose, made almost wholly by one **firm**, Courtauld's. **Spun** from **waste** silk and **woven** cheap on the **loom**, it sold at a high **markup**; it returned 30 per cent on capital, 1850 to 1885, **profit** rising from £40,000 to £450,000. **Shareholders** drew a **dividend** on death.
 
 The rules did the rest. Deep mourning ran a year and a day; the veil went on whenever a widow went out, **bonnet** and **gloves** black, the **stationery** black-edged; a man needed an **armband**. Etiquette **forbade** **furs**, **velvet** and **satin** as too **lustrous**. It was **unlucky** to keep crepe past the period: each death meant buying again.
 
-Then women stopped. The 1890s **magazines** advised a light **netting** veil, or crepe as **trimming** at the **hem**; **half-mourning** in **lilac** and **mauve** came sooner, **coloured** dress after, the **bereaved** no less **fashionable**. Courtaulds' sales fell 62 per cent from 1883 to 1894; in 1896 it moved into coloured silks.
+Then women stopped. The 1890s **magazines** advised a light **netting** veil, or crepe **trimming** at the **hem**; **half-mourning** in **lilac** and **mauve** came sooner, **coloured** dress soon after, the **bereaved** no less **fashionable**. Courtaulds' sales fell 62 per cent from 1883 to 1894; in 1896 the firm moved into coloured silks.
 
-Grief had not changed; the **fashion** had. A custom that collapses in a decade when the **textile** goes **glossy** was never **piety**. What filled the **parlour** with black, the **cemetery** with veil and **parasol**, what wept behind the **shroud** and **grieved** by the book, was **respectability** — a mill's terms of sale.
+Grief had not changed; the **fashion** had. A custom that collapses in a decade when the **textile** goes **glossy** was never **piety**. What filled the **parlour** with black, the **cemetery** with veil and **parasol**, what wept over the **shroud** and **grieved** by the book, was **respectability** — a mill's terms of sale.
 
 ---
 
@@ -28,13 +28,13 @@ Grief had not changed; the **fashion** had. A custom that collapses in a decade 
 
 维多利亚时代的**服丧**(mourning)被记成看得见的哀伤：寡妇一身黑穿两年，**绉纱**(crepe)**面纱**(veil)垂到地，**礼仪**(etiquette)手册定下为父母、兄弟、祖父母各守几个月。前厅里的**棺材**(coffin)，插着**羽饰**(plumes)的**灵车**(hearse)，门口的**殡葬人**(undertaker)，帘子后面的**吊唁者**(mourners)：**得体**(propriety)被写成了条文。
 
-把这些规矩当交易条款来读。绉纱是一种**起皱的**(crimped)丝绸，故意做得无光，几乎全出自一家**商号**(firm)——乔治·考陶尔德的。它是拿**废**(waste)丝、**纺**(spun)出来的，在**织机**(loom)上廉价**织**(woven)出，再以高**加价**(markup)卖出；1850 到 1885 年间它的资本回报率年年 30%，**利润**(profit)从四万镑涨到四十五万镑。**股东**(shareholders)从死亡里领**红利**(dividend)。
+把这些规矩当交易条款来读。绉纱是一种**起皱的**(crimped)丝绸，故意做得无光，几乎全出自一家**商号**(firm)——考陶尔德的。它是拿**废**(waste)丝、**纺**(spun)出来的，在**织机**(loom)上廉价**织**(woven)出，再以高**加价**(markup)卖出；1850 到 1885 年间它的资本回报率达 30%，**利润**(profit)从四万镑涨到四十五万镑。**股东**(shareholders)从死亡里领**红利**(dividend)。
 
 规矩把剩下的事做完了。重丧期一年零一天；寡妇出门就得戴面纱，**软帽**(bonnet)和**手套**(gloves)是黑的，**信笺**(stationery)镶黑边；男人要一条**臂章**(armband)。礼仪**禁止**(forbade)**皮草**(furs)、**丝绒**(velvet)与**缎**(satin)，嫌太**有光泽**(lustrous)。丧期过后把绉纱留在家里是**不吉利的**(unlucky)：于是每一次死亡都意味着重新买一遍。
 
 然后女人们不穿了。1890 年代的**杂志**(magazines)建议改戴轻薄的**网纱**(netting)面纱，或者只把绉纱当**镶边**(trimming)缝在**裙边**(hem)；**淡紫**(lilac)与**藕荷**(mauve)的**半丧**(half-mourning)来得更早，**彩色**(coloured)衣裙随后，**丧亲者**(bereaved)照样**时髦**(fashionable)。考陶尔德的销售额 1883 到 1894 年跌了 62%；1896 年它转产彩色丝绸。
 
-哀伤没有变；**时尚**(fashion)变了。一套**织物**(textile)一变**光亮**(glossy)、十年之内就垮掉的习俗，从来不是**虔敬**(piety)。把**客厅**(parlour)填满黑色、把**墓园**(cemetery)填满面纱与**阳伞**(parasol)的，在**裹尸布**(shroud)后面哭泣、照着手册**哀伤**(grieved)的，是**体面**(respectability)——而体面，是一家丝厂的销售条款。
+哀伤没有变；**时尚**(fashion)变了。一套**织物**(textile)一变**光亮**(glossy)、十年之内就垮掉的习俗，从来不是**虔敬**(piety)。把**客厅**(parlour)填满黑色、把**墓园**(cemetery)填满面纱与**阳伞**(parasol)的，伏在**裹尸布**(shroud)上哭泣、照着手册**哀伤**(grieved)的，是**体面**(respectability)——而体面，是一家丝厂的销售条款。
 
 ---
 
@@ -63,3 +63,4 @@ Grief had not changed; the **fashion** had. A custom that collapses in a decade 
 - **⚠ 三处表述取舍**：①「前厅里的棺材」「插着羽饰的灵车」为维多利亚殡葬通例，非某一来源的原话；②「藕荷」（mauve）——来源列的半丧色是灰与淡紫（lavender 撞库），mauve 为半丧通用色；③**末段「一家丝厂的销售条款」是本文的推论**，其事实基础是上述三条：一家垄断、规矩逼人重买、习俗随销售同步消失。
 - **本篇的机制边界**：这不是「维多利亚人不悲伤」的故事。**女王为阿尔伯特守了四十年黑**，那是真的。**本文的论点在一个更窄的地方：把悲伤规定成一年零一天、规定成某一种面料、规定成过期不得留存的，不是悲伤本身——而那套规定的每一条，都恰好是一家丝厂的最优销售条款。****⚠ 需注意：考陶尔德并未『制定』礼仪；它推广绉纱、受益于礼仪，而礼仪由手册、时装屋与社会压力共同维持。**
 - **★ 冷读改正（2026-09-04，隔日）**：「bonnet, gloves and stationery in black」——信笺不是穿的，改为「bonnet and gloves black, the stationery black-edged」；「veils and the parasol」单复失配，改「veil and parasol」。
+- **★★ 审读团（2026-09-04，人读，见 notes/审读-62.md）**：四处 A——「in black two years」补 for；「coloured dress after」补 soon；「Courtaulds'…it」改 the firm；「wept behind the shroud」（裹尸布后面是死者）改 wept over the shroud，中文同改。§2 中文「年年 30%」多译，改「达 30%」。
