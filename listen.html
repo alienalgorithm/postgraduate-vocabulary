@@ -4,14 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>听读 · 记词</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Noto+Sans+SC:wght@500;700&display=swap" rel="stylesheet">
 <meta name="description" content="黑板跟读：中英对照、逐词高亮、重点词同色，配离线合成的英音朗读。">
 <meta name="theme-color" content="#0f5c57">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <style>
   :root{
-    --board:#0d5a54; --board-2:#0a4a45; --frame:#c98b4b; --frame-2:#a96e33;
+    --board:#0e6d69; --board-2:#0a5651; --frame:#e0a75f; --frame-2:#c58838;
     --chalk:#f4f1e4; --chalk-dim:#cfe3df;
-    --c0:#f0a58a; --c1:#8fc7f2; --c2:#f2d98a; --c3:#a8e2b6; --c4:#e0a9e8; --c5:#8fe0d6;
+    /* 重点词一律金色（用户 2026-09-04 指定，对齐参考图二）。
+       六个色号仍留着，只是全指向同一支金——将来要换回多色只改这一行。 */
+    --gold:#f5c542;
+    --c0:var(--gold); --c1:var(--gold); --c2:var(--gold);
+    --c3:var(--gold); --c4:var(--gold); --c5:var(--gold);
     --ink:#1d1b16; --paper:#f5f1e8; --line:#ddd3c0;
   }
   *{box-sizing:border-box}
@@ -40,10 +46,11 @@
 
   .en,.zh{max-width:96%;line-height:1.34;position:relative;z-index:1;
     text-shadow:0 1px 0 rgba(0,0,0,.35), 0 0 14px rgba(255,255,255,.05)}
-  .en{font-family:ui-sans-serif,'Trebuchet MS','Segoe UI',system-ui,sans-serif;
+  .en{font-family:Poppins,'Century Gothic',ui-rounded,ui-sans-serif,'Segoe UI',system-ui,sans-serif;
     font-weight:700;letter-spacing:.045em;color:var(--chalk);
     font-size:clamp(1.02rem,3.35vw,2.45rem)}
-  .zh{color:var(--chalk-dim);font-weight:500;letter-spacing:.05em;
+  .zh{color:var(--chalk);font-weight:600;letter-spacing:.06em;
+    font-family:'Noto Sans SC','Noto Sans CJK SC','PingFang SC','Microsoft YaHei',ui-sans-serif,sans-serif;
     font-size:clamp(.92rem,2.65vw,1.9rem)}
   /* 默认全亮；只有在播放时才逐词提亮，否则停着看就是一片灰 */
   .en w{transition:opacity .12s,text-shadow .12s;opacity:1;border-radius:3px}
@@ -74,7 +81,9 @@
   .meta{font-size:.8rem;color:#8a7c62;margin-top:8px}
 
   /* ══ 句子清单 ══ */
+  /* 清单自己滚，不带着整页滚——否则换句时黑板会被顶出屏幕 */
   .list{margin-top:26px;border-top:1px solid var(--line);padding-top:16px}
+  .list ol{max-height:44vh;overflow:auto;scroll-behavior:smooth}
   .list h2{font-size:.9rem;margin:0 0 10px;color:#6f6350;font-weight:600;letter-spacing:.04em}
   ol{list-style:none;margin:0;padding:0;counter-reset:s}
   ol li{counter-increment:s;padding:9px 12px 9px 40px;position:relative;border-radius:8px;cursor:pointer;line-height:1.5}
@@ -234,7 +243,7 @@ fetch('reader/a'+id+'.json').then(r=>r.json()).then(d=>{
   D=d;
   $('#ttl').firstChild.textContent='第'+id+'篇 · '+d.title;
   $('#sub').textContent='跟读 · '+d.sentences.length+' 句 · '+Math.round(d.total)+' 秒 · 英音女声（离线合成）';
-  $('#meta').textContent='空格播放/暂停，← → 换句。重点词在英文与中文里同色。';
+  $('#meta').textContent='空格播放/暂停，← → 换句。重点词在英文与中文里都是金色。';
   $('#track').max=d.sentences.length-1;
   $('#list').innerHTML=d.sentences.map(s=>{
     const e=s.en.replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>');

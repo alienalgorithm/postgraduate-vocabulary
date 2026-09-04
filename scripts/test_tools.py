@@ -2308,6 +2308,18 @@ check("builder 支持断点续跑与限流（坑五）", all(
     x in open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
     for x in ("--n", "--fresh", "断点续跑")))
 check("听读页 16:9 且带 reader/ 前缀", "aspect-ratio:16/9" in _lh and "const BASE='reader/'" in _lh)
+check("重点词一律金色（用户指定）", "--gold:#f5c542" in _lh and _lh.count("var(--gold)") >= 6)
+_mp4 = os.path.join(ROOT, "reader/a01.mp4")
+check("第01篇 mp4 已生成", os.path.getsize(_mp4) > 1e6)
+_pr = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries",
+                      "stream=width,height,codec_name", "-of", "csv=p=0", _mp4],
+                     capture_output=True, text=True).stdout.strip()
+check("视频 1920x1080 H.264（16:9）", _pr.startswith("h264,1920,1080") or _pr.startswith("1920,1080"))
+_vd = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                            "-of", "csv=p=0", _mp4], capture_output=True, text=True).stdout)
+_want = sum(s["qc"]["opus"]["dur"] + 0.32 for s in _rd["sentences"])
+check("音画对齐（视频时长＝各句解码时长＋停顿之和）", abs(_vd - _want) < 0.3)
+check("看片页存在且句子起点算法与渲染一致", "GAP=0.32" in open(os.path.join(ROOT, "watch.html"), encoding="utf-8").read())
 check("首页有听读入口", "listen.html" in open(os.path.join(ROOT, "index.html"), encoding="utf-8").read())
 
 print("=" * 62)
