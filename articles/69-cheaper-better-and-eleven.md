@@ -30,7 +30,7 @@ He leans on a **pitchfork** on the **village-green** at **harvest-festival**, a 
 
 那件工具是个男孩：一个**赶鸟童**(bird-boy)，**播种**(sowing)时节天一亮就带着响板、**投石索**(sling)或**弹弓**(catapult)、**短棍**(cudgel)和一副嗓子下地，挣几便士，**吼**(holler)到天黑；要是他**偷懒**(idling)站着不动，让一**群**(flock)鸟落了下来，就挨**打**(beaten)。1348 年**瘟疫**(plague)杀了欧洲三分之一的人，孩子也在其中；缺男孩的农夫把一只麻袋塞成一个**人偶**(effigy)。
 
-它从来没那么管用。**白嘴鸦**(rook)、**椋鸟**(starling)和**喜鹊**(magpie)对新出现的形状**戒备**(wary)一两天，然后就在**耙**(harrow)过的地上啄**燕麦**(oats)；不动的东西就是栖木。于是男孩们留了下来，**嚎**(bawled)着、**尖着嗓子**(shrieked)唱着他们的**小调**(ditty)，一直到 1880 年代，为几便士**逃学**(truant)，直到学校督察来。托马斯·哈代把这份活给了十一岁的裘德，让他站在一群白嘴鸦中间。
+它从来没那么管用。**白嘴鸦**(rook)、**椋鸟**(starling)和**喜鹊**(magpie)对新出现的形状**戒备**(wary)一两天，然后就在**耙**(harrow)过的地上啄**燕麦**(oats)；不动的东西就是栖木。于是男孩们留了下来，**嚎**(bawled)着、**尖着嗓子**(shrieked)唱着他们的**小调**(ditty)，一直唱到 1880 年代，为几便士**逃学**(truant)，等学校督察来了才罢。托马斯·哈代把这份活给了十一岁的裘德，让他站在一群白嘴鸦中间。
 
 噪音和动静顶替了男孩：每隔几分钟放一响的**丙烷**(propane)**气炮**(gas-gun)，一只做成**鹰**(hawk)形的**风筝**(kite)，**驯鹰**(falconry)公司放的一只**猎隼**(falcon)，**田头**(headland)上拉的一串**锡箔**(tinfoil)**飘带**(streamers)；鸟几个星期就把每一样都认熟了。在图画书里，他的位置给了那个从来没吓走过任何东西的稻草人。
 
@@ -65,3 +65,4 @@ He leans on a **pitchfork** on the **village-green** at **harvest-festival**, a 
 - **⚠ BAL-02b 判为保留**：§1 密度略高——通说段把稻草人的部件一口气列出，密是因为那一段就是在摆稻草人，与第64、65、67、68篇 §1 同理。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-69.md）**：六处 A——「crow and sparrow keep off」补宾语与冠词（keep away）；「out on the sowing」（sowing 不是地方）改 at sowing time，括注改「播种（时节）」；「while idling」悬垂改 while he stood idling；「gave Jude the job at eleven」歧义改 gave the job to Jude, eleven，中文「十一岁的裘德」；「wheeled by wheelbarrow」改 wheeled in a wheelbarrow；括注 effigy「假像」（像假象）改「人偶」。B：playing truant；children among them（博士：来源不说「先死」）；within weeks（博士：过度概括）；§5「站在丰收节上」「评一枚」两处中文不通改掉；festival 两次合为「the festival's prize」。
 - **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-69.md）**：三处 A——「尖叫着小调」（尖叫不带宾语）改「尖着嗓子唱着」；「玉米地」——英国的 corn 是麦子，改「庄稼地」；「在白嘴鸦中间」句末悬着改「让他站在一群白嘴鸦中间」。B：「站着偷懒时」「被独轮车推」「田地个个」「村绿地」。
+- **★ 中文第二遍冷读**：「一直到…直到」两个「到」，改「一直唱到…等学校督察来了才罢」。

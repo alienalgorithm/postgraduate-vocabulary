@@ -26,13 +26,13 @@ The chest needed two men; the contents weighed less than **cutlery**. The **dyna
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-一百五十年里，一家**胡格诺派**(Huguenot)的**理发师外科医生**(barber-surgeons)在**分娩**(labour)停滞时被请来。**仪式**(ceremony)是固定的：两个人抬进一只**镀金**(gilded)大箱；全家**噤声**(hushed)，灯光**调暗**(dimmed)，产妇**蒙上眼**(blindfolded)；**摇响**(rang)一只**铃**(bell)，响板敲起来，外面的人什么也听不见。
+一百五十年里，一家**胡格诺派**(Huguenot)的**理发师外科医生**(barber-surgeons)在**分娩**(labour)卡住时被请来。**仪式**(ceremony)是固定的：两个人抬进一只**镀金**(gilded)大箱；全家**噤声**(hushed)，灯光**调暗**(dimmed)，产妇**蒙上眼**(blindfolded)；**摇响**(rang)一只**铃**(bell)，响板敲起来，外面的人什么也听不见。
 
 箱子里是两片**钳叶**(blades)。**产科**(obstetric)**钳**(forceps)——两把弯**匙**(spoons)，用来**夹**(clamped)住胎头，**拽**(tugged)着它穿过**骨盆**(pelvis)——是一个**铁匠**(blacksmith)一上午就能**锤**(hammered)出来的东西。早在 1634 年，**接生婆们**(midwives)就抱怨过「铁器」。那场**排场**(pageant)不是为了藏一台机器，是为了让两把匙看起来像一台。
 
-**秘密**(secrecy)像所有秘密一样泄了。1670 年休·钱伯伦把它**兜售**(peddled)给法国；莫里索出了一道题——一个**骨盆畸形**(deformed)、**分娩**(childbirth)**难产**(obstructed)一星期的产妇——休**搞砸**(bungled)了，产妇死了。**流亡**(exile)**阿姆斯特丹**(Amsterdam)时，他把秘密卖给一个**荷兰**(Dutch)男接生者，用了一个**花招**(sleight)：只卖给他一片。
+**秘密**(secrecy)像所有秘密一样泄了。1670 年休·钱伯伦把它**兜售**(peddled)给法国；莫里索出了一道题——一个**骨盆畸形**(deformed)、**分娩**(childbirth)**难产**(obstructed)了一星期的产妇——休**搞砸**(bungled)了，产妇死了。**流亡**(exile)**阿姆斯特丹**(Amsterdam)时，他把秘密卖给一个**荷兰**(Dutch)男接生者，用了一个**花招**(sleight)：只卖给他一片。
 
-1813 年，五对钳子在伍德姆莫蒂默老宅的**阁楼**(attic)**地板**(floorboards)下一道**暗门**(trap-door)底下被**掘出**(unearthed)——一个世纪前一位寡妇**藏**(hoarded)在那里，从未**传下**(bequeathed)。斯梅利 1750 年代已公开描述过这件东西；等这件**传家宝**(heirloom)重见天日时，欧洲每一个男**接生者**(midwife)的**背包**(satchel)里都有一对，每家**产科**(maternity)医院也自有一对。
+1813 年，五对钳子在伍德姆莫蒂默老宅**阁楼**(attic)**地板**(floorboards)的一道**暗门**(trap-door)底下被**掘出**(unearthed)——一个世纪前一位寡妇**藏**(hoarded)在那里，从未**传下**(bequeathed)。斯梅利 1750 年代已公开描述过这件东西；等这件**传家宝**(heirloom)重见天日时，欧洲每一个男**接生者**(midwife)的**背包**(satchel)里都有一对，每家**产科**(maternity)医院也自有一对。
 
 那只箱子要两个人抬；里面的东西比一套**餐具**(cutlery)还轻。这个**家族**(dynasty)守着的不是工具，是工具周围的那场**戏**(theatre)——**排场**(pomp)、**庄重**(solemnity)、关门的**神秘感**(mystique)、重得抬不动的**气场**(aura)——而这个**幻觉**(illusion)能撑住，是因为没人见过那两片钳叶。**表演**(showmanship)就是秘密；秘密就是那只箱子。
 
@@ -65,3 +65,4 @@ The chest needed two men; the contents weighed less than **cutlery**. The **dyna
 - **★ 冷读改正（2026-09-04，隔日）**：「every maternity man-midwife」——maternity 不能修饰人，改为「every man-midwife…had one in his satchel, every maternity hospital its own」。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-64.md）**：两处 A——§2 产钳那句宾语前置、谓语在句尾，三个观众都要回头找主谓，改为 were a thing a blacksmith could have hammered out；§3「with one sleight: one blade」太省，改为 he sold him only one blade（照中文改）。「look like one」补 machine（照中文）。括注 sleight「手法」改「花招」。**硕士生指出这篇是中文在救英文**——四处英文按中文改。为等长删「Five generations of」「a family of」。
 - **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-64.md）**：一处 A——「刀叶」（产钳的 blade 是钳叶）五个观众都点到，改「钳叶」。B：被字句、语序、暗门下、两处「的的」。
+- **★ 中文第二遍冷读**：「分娩停滞」改「分娩卡住」；「难产一星期」补「了」；「地板下…暗门底下」两个「下」改「地板的一道暗门底下」。

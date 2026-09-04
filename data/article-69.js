@@ -22,7 +22,7 @@
         },
         {
           "en": "It never worked as well. **Rook**, **starling** and **magpie** are **wary** of a new shape for a day or two, then feed on the **oats** behind the **harrow**; what never moves is a perch. So the boys stayed, **bawled** and **shrieked** their **ditty** into the 1880s, playing **truant** for pence till the school inspector came. Thomas Hardy gave the job to Jude, eleven, among rooks.",
-          "zh": "它从来没那么管用。**白嘴鸦**(rook)、**椋鸟**(starling)和**喜鹊**(magpie)对新出现的形状**戒备**(wary)一两天，然后就在**耙**(harrow)过的地上啄**燕麦**(oats)；不动的东西就是栖木。于是男孩们留了下来，**嚎**(bawled)着、**尖着嗓子**(shrieked)唱着他们的**小调**(ditty)，一直到 1880 年代，为几便士**逃学**(truant)，直到学校督察来。托马斯·哈代把这份活给了十一岁的裘德，让他站在一群白嘴鸦中间。"
+          "zh": "它从来没那么管用。**白嘴鸦**(rook)、**椋鸟**(starling)和**喜鹊**(magpie)对新出现的形状**戒备**(wary)一两天，然后就在**耙**(harrow)过的地上啄**燕麦**(oats)；不动的东西就是栖木。于是男孩们留了下来，**嚎**(bawled)着、**尖着嗓子**(shrieked)唱着他们的**小调**(ditty)，一直唱到 1880 年代，为几便士**逃学**(truant)，等学校督察来了才罢。托马斯·哈代把这份活给了十一岁的裘德，让他站在一群白嘴鸦中间。"
         },
         {
           "en": "Noise and motion replaced the boy: the **propane** **gas-gun** firing every few minutes, a **kite** shaped like a **hawk**, a **falcon** from a **falconry** firm, **tinfoil** **streamers** on the **headland**; birds learn each within weeks. In the picture-book his place went to the man of straw, who never scared anything.",
@@ -42,7 +42,8 @@
         "**本篇的机制边界**：这不是「稻草人没用」的故事。**它有一两天的用**，而且它比一个从早到晚站在田里的孩子人道。**本文的论点在一个更窄的地方：一件被当作「农具」纪念的东西，其实是一份童工的替身；替身之所以留在图画书里，是因为那个孩子被学校带走了。**",
         "**⚠ BAL-02b 判为保留**：§1 密度略高——通说段把稻草人的部件一口气列出，密是因为那一段就是在摆稻草人，与第64、65、67、68篇 §1 同理。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-69.md）**：六处 A——「crow and sparrow keep off」补宾语与冠词（keep away）；「out on the sowing」（sowing 不是地方）改 at sowing time，括注改「播种（时节）」；「while idling」悬垂改 while he stood idling；「gave Jude the job at eleven」歧义改 gave the job to Jude, eleven，中文「十一岁的裘德」；「wheeled by wheelbarrow」改 wheeled in a wheelbarrow；括注 effigy「假像」（像假象）改「人偶」。B：playing truant；children among them（博士：来源不说「先死」）；within weeks（博士：过度概括）；§5「站在丰收节上」「评一枚」两处中文不通改掉；festival 两次合为「the festival's prize」。",
-        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-69.md）**：三处 A——「尖叫着小调」（尖叫不带宾语）改「尖着嗓子唱着」；「玉米地」——英国的 corn 是麦子，改「庄稼地」；「在白嘴鸦中间」句末悬着改「让他站在一群白嘴鸦中间」。B：「站着偷懒时」「被独轮车推」「田地个个」「村绿地」。"
+        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-69.md）**：三处 A——「尖叫着小调」（尖叫不带宾语）改「尖着嗓子唱着」；「玉米地」——英国的 corn 是麦子，改「庄稼地」；「在白嘴鸦中间」句末悬着改「让他站在一群白嘴鸦中间」。B：「站着偷懒时」「被独轮车推」「田地个个」「村绿地」。",
+        "**★ 中文第二遍冷读**：「一直到…直到」两个「到」，改「一直唱到…等学校督察来了才罢」。"
       ],
       "metrics": {
         "words": 271,

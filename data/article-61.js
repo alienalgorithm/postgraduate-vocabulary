@@ -18,11 +18,11 @@
         },
         {
           "en": "In 1982 the **ministry** forecast a sustainable **tonnage** of 550,000. A 1989 review found the stock **overestimated** up to twofold. The **estimate** rested on the **offshore** fleet: a **trawler** with **sonar** fills its **trawl** whether fish are many or few, because cod **congregate** to spawn and the net goes where they gather. The gauge read full until the **tank** was empty.",
-          "zh": "1982 年，渔业**部**(ministry)预测可持续**吨位**(tonnage)为 55 万吨。1989 年一份审查发现，存量被**高估**(overestimated)了最多一倍。那个**估计**(estimate)依据的是**离岸**(offshore)船队：一艘带**声呐**(sonar)的**拖网船**(trawler)不管鱼多鱼少都能把**拖网**(trawl)装满，因为鳕鱼产卵时**聚群**(congregate)，网就往聚集的地方下。油表一直显示满格，直到**油箱**(tank)空了。"
+          "zh": "1982 年，渔业**部**(ministry)预测可持续的捕捞**吨位**(tonnage)是 55 万吨。1989 年一份审查发现，存量被**高估**(overestimated)了最多一倍。那个**估计**(estimate)依据的是**离岸**(offshore)船队：一艘带**声呐**(sonar)的**拖网船**(trawler)不管鱼多鱼少都能把**拖网**(trawl)装满，因为鳕鱼产卵时**聚群**(congregate)，网就往聚集的地方下。油表一直显示满格，直到**油箱**(tank)空了。"
         },
         {
           "en": "The **inshore** men worked a **dory** with **jig** and **trap** from the **cove**, landed at the **wharf**, **gutted** and split the fish, dried them on **flakes**. Their haul tracked the true stock; from 1983 it fell, and they said so. Managers did not count an inshore **skipper** as a reliable source; **undersized** fish thrown back went unrecorded.",
-          "zh": "**近岸**(inshore)的人驾一条**平底渔船**(dory)，带着**手钓钩**(jig)和**鱼笼**(trap)从**小湾**(cove)出发，在**码头**(wharf)上岸，把鱼**剖开**(gutted)、劈开，晾在**晒鱼架**(flakes)上。他们的收成跟着真实的存量走；从 1983 年起它在下降，他们也这么说了。管理者不把一个近岸**船长**(skipper)当可靠来源；扔回海里的**不够尺寸的**(undersized)鱼没有入账。"
+          "zh": "**近岸**(inshore)的人驾一条**平底渔船**(dory)，带着**手钓钩**(jig)和**鱼笼**(trap)从**小湾**(cove)出发，在**码头**(wharf)上岸，把鱼**剖开**(gutted)、劈开，晾在**晒鱼架**(flakes)上。他们的收成跟着真实的存量走；从 1983 年起一路下降，他们也这么说了。管理者不把一个近岸**船长**(skipper)当可靠来源；扔回海里的**不够尺寸的**(undersized)鱼没有入账。"
         },
         {
           "en": "**Spawning** **biomass** stood at 1.6 million tonnes in 1962; by 1992, between 72,000 and 110,000. On 2 July the minister took a **podium** in a St John's **hotel** **ballroom** and declared a two-year **moratorium** while fishermen **banged** the doors with **fists**: 19,000 **layoffs**, the **dole**.",
@@ -43,7 +43,8 @@
         "**本篇的机制边界**：这不是「外国船无辜」的故事。**1960 年代外国工厂船确实捕走了大部分渔获**（1968 年 81 万吨，八成来自近海），那是崩溃的前半段。**本文的论点在一个更窄的地方：1977 年之后的十五年，崩溃发生在加拿大自己的管辖与计数之下——而计数用的仪器，恰是感觉不到鱼在变少的那一种。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「a sustainable 550,000 tonnage」——tonnage 是不可数的量，改为「a sustainable tonnage of 550,000」；「dried it on flakes」——fish 为复数，改 them。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-61.md）**：六处 A——「nets in the bounty」（不是英语）改 nets dragged through the bounty；「count…a reliable source」补 as；「let the inshore land」补 boats；「The thermometer」（§2 是油表，两套比喻）改 No thermometer could feel；「by coastguard」补 the；**括注 offshore「近海」反了**（offshore 是离岸，近海是 inshore），改「离岸」。中文「55 万吨位」改「吨位为 55 万吨」。",
-        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-61.md）**：零 A。B：「拖过那片丰饶」「鳕鱼崩溃」「剖开、劈开鱼」「的的」「只剩…之间」「上岸收成」「内部（多译）」。"
+        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-61.md）**：零 A。B：「拖过那片丰饶」「鳕鱼崩溃」「剖开、劈开鱼」「的的」「只剩…之间」「上岸收成」「内部（多译）」。",
+        "**★ 中文第二遍冷读**：「预测可持续吨位为 55 万吨」改「预测可持续的捕捞吨位是 55 万吨」；「它在下降」改「一路下降」。"
       ],
       "metrics": {
         "words": 270,

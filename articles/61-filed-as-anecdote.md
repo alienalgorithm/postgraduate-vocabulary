@@ -28,9 +28,9 @@ The two years became thirty. Boats turned to **shrimp** and **shellfish**; a **s
 
 故事是这样讲的：一支外国**船队**(flotilla)掏空了大浅滩——一整支工厂船**舰队**(armada)把**渔网**(nets)拖过那片**丰饶**(bounty)的渔场——而加拿大 1977 年划的 200 海里**专属**(exclusive)区、由**海岸警卫队**(coastguard)执守的**管辖权**(jurisdiction)，来得太晚。可**鳕鱼**(cod)群是在**外国人**(foreigners)被**驱逐**(expelled)十五年之后才崩溃的，按加拿大自己的规则、自己的数。
 
-1982 年，渔业**部**(ministry)预测可持续**吨位**(tonnage)为 55 万吨。1989 年一份审查发现，存量被**高估**(overestimated)了最多一倍。那个**估计**(estimate)依据的是**离岸**(offshore)船队：一艘带**声呐**(sonar)的**拖网船**(trawler)不管鱼多鱼少都能把**拖网**(trawl)装满，因为鳕鱼产卵时**聚群**(congregate)，网就往聚集的地方下。油表一直显示满格，直到**油箱**(tank)空了。
+1982 年，渔业**部**(ministry)预测可持续的捕捞**吨位**(tonnage)是 55 万吨。1989 年一份审查发现，存量被**高估**(overestimated)了最多一倍。那个**估计**(estimate)依据的是**离岸**(offshore)船队：一艘带**声呐**(sonar)的**拖网船**(trawler)不管鱼多鱼少都能把**拖网**(trawl)装满，因为鳕鱼产卵时**聚群**(congregate)，网就往聚集的地方下。油表一直显示满格，直到**油箱**(tank)空了。
 
-**近岸**(inshore)的人驾一条**平底渔船**(dory)，带着**手钓钩**(jig)和**鱼笼**(trap)从**小湾**(cove)出发，在**码头**(wharf)上岸，把鱼**剖开**(gutted)、劈开，晾在**晒鱼架**(flakes)上。他们的收成跟着真实的存量走；从 1983 年起它在下降，他们也这么说了。管理者不把一个近岸**船长**(skipper)当可靠来源；扔回海里的**不够尺寸的**(undersized)鱼没有入账。
+**近岸**(inshore)的人驾一条**平底渔船**(dory)，带着**手钓钩**(jig)和**鱼笼**(trap)从**小湾**(cove)出发，在**码头**(wharf)上岸，把鱼**剖开**(gutted)、劈开，晾在**晒鱼架**(flakes)上。他们的收成跟着真实的存量走；从 1983 年起一路下降，他们也这么说了。管理者不把一个近岸**船长**(skipper)当可靠来源；扔回海里的**不够尺寸的**(undersized)鱼没有入账。
 
 **产卵**(Spawning)**生物量**(biomass)1962 年有 160 万吨；到 1992 年，只剩 7.2 万到 11 万吨。7 月 2 日，部长在圣约翰斯一家**酒店**(hotel)的**宴会厅**(ballroom)里走上**讲台**(podium)，宣布为期两年的**禁渔**(moratorium)，门外的渔民用**拳头**(fists)**砸**(banged)门：1.9 万人**下岗**(layoffs)，领**救济**(dole)。
 
@@ -66,3 +66,4 @@ The two years became thirty. Boats turned to **shrimp** and **shellfish**; a **s
 - **★ 冷读改正（2026-09-04，隔日）**：「a sustainable 550,000 tonnage」——tonnage 是不可数的量，改为「a sustainable tonnage of 550,000」；「dried it on flakes」——fish 为复数，改 them。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-61.md）**：六处 A——「nets in the bounty」（不是英语）改 nets dragged through the bounty；「count…a reliable source」补 as；「let the inshore land」补 boats；「The thermometer」（§2 是油表，两套比喻）改 No thermometer could feel；「by coastguard」补 the；**括注 offshore「近海」反了**（offshore 是离岸，近海是 inshore），改「离岸」。中文「55 万吨位」改「吨位为 55 万吨」。
 - **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-61.md）**：零 A。B：「拖过那片丰饶」「鳕鱼崩溃」「剖开、劈开鱼」「的的」「只剩…之间」「上岸收成」「内部（多译）」。
+- **★ 中文第二遍冷读**：「预测可持续吨位为 55 万吨」改「预测可持续的捕捞吨位是 55 万吨」；「它在下降」改「一路下降」。

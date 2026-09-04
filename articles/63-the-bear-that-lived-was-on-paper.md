@@ -30,11 +30,11 @@ The shop-window story appeared in 1949, eleven years after the **candy** **shopk
 
 那头熊不是幼崽，而是一头约 235 磅的老熊，被霍尔特·科利尔的**猎犬**(hounds)追过**沼泽**(swamp)，直到被**逼进**(cornered)一个**水坑**(waterhole)，它**扑**(lunged)上去**咬死**(slew)了一条狗。科利尔一棍**打**(clubbed)倒它，用绳把它**拴**(roped)到一棵**柳树**(willow)上，派一名**骑手**(rider)去请罗斯福。
 
-他来了，看了，不肯开枪：打被捆住的动物不算打猎。他下令让它脱离**痛苦**(misery)——不是**赦免**(clemency)，是了结它的痛苦。科利尔**蹚**(waded)进水里，用一把**刀**(knife)把它**刺**(stabbed)死；**尸体**(carcass)**横搭**(slung)在马背上驮回营地。两天后**报纸**(newspaper)上那幅**头版**(front-page)图画里，是一头拴着绳的成年熊，一支**步枪**(rifle)指向别处。
+他来了，看了，不肯开枪：打被捆住的动物不算打猎。他下令让它免于**痛苦**(misery)——不是**赦免**(clemency)，是了结。科利尔**蹚**(waded)进水里，用一把**刀**(knife)把它**刺**(stabbed)死；**尸体**(carcass)**横搭**(slung)在马背上驮回营地。两天后**报纸**(newspaper)上那幅**头版**(front-page)图画里，是一头拴着绳的成年熊，一支**步枪**(rifle)指向别处。
 
 然后轮到**插画家**(illustrator)的**墨水**(ink)上场了。在随后几个星期**联合刊发**(syndicated)的漫画里，贝里曼把它越画越小、越圆、越**可爱**(cuddly)，直到那幅**漫画**(caricature)变成一只**毛茸茸的**(furry)、长着**纽扣**(button)眼睛的熊崽，成了**编辑们**(editors)在整个**总统任期**(presidency)里的**吉祥物**(mascot)。活下来的那头熊，是纸上的那头。
 
-橱窗的故事是 1949 年才出现的，那时那位卖**糖果**(candy)的**店主**(shopkeeper)已去世十一年；那封授权用名字的信从来没人见过。同一个秋天，德国一位**女裁缝**(seamstress)和她的**侄子**(nephew)**缝**(sewn)出一只**马海毛**(mohair)熊，1903 年在**莱比锡**(Leipzig)出售，不久耳朵上多了一枚作**商标**(trademark)的纽扣；3,000 只渡过大西洋，**热潮**(craze)随之而来。孩子抱着的，是那幅画的**纪念物**(keepsake)，不是那场狩猎。
+橱窗的故事是 1949 年才出现的，那时那位卖**糖果**(candy)的**店主**(shopkeeper)已去世十一年；那封准许用他名字的信从来没人见过。同一个秋天，德国一位**女裁缝**(seamstress)和她的**侄子**(nephew)**缝**(sewn)出一只**马海毛**(mohair)熊，1903 年在**莱比锡**(Leipzig)出售，不久耳朵上多了一枚作**商标**(trademark)的纽扣；3,000 只渡过大西洋，**热潮**(craze)随之而来。孩子抱着的，是那幅画的**纪念物**(keepsake)，不是那场狩猎。
 
 ---
 
@@ -66,3 +66,4 @@ The shop-window story appeared in 1949, eleven years after the **candy** **shopk
 - **★ 冷读改正（2026-09-04，隔日）**：「had a mohair bear sewed」——过去分词应为 sewn，已换（sewn 3.18 可用）。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-63.md）**：四处 A——§5 中文正文里漏进了工具释义「缝（过去分词）」，改「缝」；「the syndicated weeks」（星期不能联合刊发）改 the weeks of syndicated cartoons；「for trademark」改 as a trademark；「a dispatch」旧义读者不知，改 a mercy killing。§1 中文「牵到面前」不合英文（shown…tethered to a tree），改「被带去看」。sweets／candy 英美混用两个名额，留。
 - **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-63.md）**：一处 A——「处决」（英文 a mercy killing）误译，改「了结它的痛苦」。B：「墨水开始工作」「被捆住的动物不算打猎」「绳上的熊」「小熊崽」。
+- **★ 中文第二遍冷读**：「脱离痛苦…了结它的痛苦」重复，改「免于痛苦——不是赦免，是了结」；「授权用名字的信」改「准许用他名字的信」。

@@ -26,13 +26,13 @@ Grief had not changed; the **fashion** had. A custom that collapses in a decade 
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-维多利亚时代的**服丧**(mourning)留在记忆里的是看得见的哀伤：寡妇一身黑穿两年，**绉纱**(crepe)**面纱**(veil)垂到地，**礼仪**(etiquette)手册定下为父母、兄弟、祖父母各守几个月。前厅里的**棺材**(coffin)，插着**羽饰**(plumes)的**灵车**(hearse)，门口的**殡葬人**(undertaker)，帘子后面的**吊唁者**(mourners)：**得体**(propriety)成了条文。
+人们记得的维多利亚时代**服丧**(mourning)，是看得见的哀伤：寡妇一身黑穿两年，**绉纱**(crepe)**面纱**(veil)垂到地，**礼仪**(etiquette)手册定下为父母、兄弟、祖父母各守几个月。前厅里的**棺材**(coffin)，插着**羽饰**(plumes)的**灵车**(hearse)，门口的**殡葬人**(undertaker)，帘子后面的**吊唁者**(mourners)：**得体**(propriety)成了条文。
 
 把这些规矩当交易条款来读。绉纱是一种**起皱的**(crimped)丝绸，故意做得无光，几乎全出自一家**商号**(firm)——考陶尔德的。它是拿**废**(waste)丝**纺**(spun)出来的，在**织机**(loom)上廉价**织**(woven)出，再以高**加价**(markup)卖出；1850 到 1885 年间它的资本回报率达 30%，**利润**(profit)从四万镑涨到四十五万镑。**股东**(shareholders)从死亡里领**红利**(dividend)。
 
 规矩把剩下的事做完了。重丧期一年零一天；寡妇出门就得戴面纱，**软帽**(bonnet)和**手套**(gloves)是黑的，**信笺**(stationery)镶黑边；男人要一条**臂章**(armband)。礼仪**禁止**(forbade)**皮草**(furs)、**丝绒**(velvet)与**缎**(satin)，嫌太**有光泽**(lustrous)。丧期过后把绉纱留在家里是**不吉利的**(unlucky)：于是每一次死亡都意味着重新买一遍。
 
-然后女人们不穿了。1890 年代的**杂志**(magazines)建议改戴轻薄的**网纱**(netting)面纱，或者只把绉纱当**镶边**(trimming)缝在**裙边**(hem)；**淡紫**(lilac)与**藕荷**(mauve)的**半丧**(half-mourning)来得更早，**彩色**(coloured)衣裙随后，**丧亲者**(bereaved)照样**时髦**(fashionable)。考陶尔德的销售额 1883 到 1894 年跌了 62%；1896 年它转产彩色丝绸。
+然后女人们不穿了。1890 年代的**杂志**(magazines)建议改戴轻薄的**网纱**(netting)面纱，或者只把绉纱当**镶边**(trimming)缝在**裙边**(hem)；**淡紫**(lilac)与**藕荷**(mauve)的**半丧**(half-mourning)来得更早，**彩色**(coloured)衣裙随后跟上，**丧亲者**(bereaved)照样**时髦**(fashionable)。考陶尔德的销售额 1883 到 1894 年跌了 62%；1896 年它转产彩色丝绸。
 
 哀伤没有变；**时尚**(fashion)变了。**织物**(textile)一变**光亮**(glossy)、十年之内就垮掉的习俗，从来不是**虔敬**(piety)。把**客厅**(parlour)填满黑色、把**墓园**(cemetery)填满面纱与**阳伞**(parasol)的，伏在**裹尸布**(shroud)上哭泣、照着手册**哀伤**(grieved)的，是**体面**(respectability)——而体面，是一家丝厂的销售条款。
 
@@ -65,3 +65,4 @@ Grief had not changed; the **fashion** had. A custom that collapses in a decade 
 - **★ 冷读改正（2026-09-04，隔日）**：「bonnet, gloves and stationery in black」——信笺不是穿的，改为「bonnet and gloves black, the stationery black-edged」；「veils and the parasol」单复失配，改「veil and parasol」。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-62.md）**：四处 A——「in black two years」补 for；「coloured dress after」补 soon；「Courtaulds'…it」改 the firm；「wept behind the shroud」（裹尸布后面是死者）改 wept over the shroud，中文同改。§2 中文「年年 30%」多译，改「达 30%」。
 - **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-62.md）**：一处 A——「废丝、纺出来的」顿号错。B：两处被字句改主动；§5 长定语理顺。
+- **★ 中文第二遍冷读**：首句改「人们记得的维多利亚时代服丧，是看得见的哀伤」；「彩色衣裙随后」补「跟上」。

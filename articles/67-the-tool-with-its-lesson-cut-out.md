@@ -34,7 +34,7 @@ The word jigsaw came a century later, with **cardboard**, **plywood**, **die-cut
 
 刀沿着**海岸线**(coastline)、**半岛**(peninsula)、**群岛**(archipelago)、诸**王国**(kingdoms)和每一个**公国**(duchy)的**疆界**(boundaries)走，那就是课：**指尖**(fingertips)先于眼睛记住一个国家的形状。**课堂**(schoolroom)上可以**背诵**(recite)；一幅解剖地图是一场独自应试的**考试**(exam)，背诵过不了它。
 
-「jigsaw」这个词一个世纪后才来，随**硬纸板**(cardboard)、**胶合板**(plywood)、**模切**(die-cut)的**咬合**(interlocking)**榫舌**(tabs)一起来——那时刀离开了国界，一片不再是一个**王国**(realm)或**公国**(principality)，只是一角天空。图画上了正面；拼图从一件要**记住**(memorise)的东西变成一件要做的东西；**大萧条**(Depression)里每家**药店**(drugstore)都卖，一周一千万套。玩具，就是把课挖掉之后的教具。
+「jigsaw」这个词一个世纪后才出现，跟**硬纸板**(cardboard)、**胶合板**(plywood)、**模切**(die-cut)的**咬合**(interlocking)**榫舌**(tabs)一起来——那时刀离开了国界，一片不再是一个**王国**(realm)或**公国**(principality)，只是一角天空。图画上了正面；拼图从一件要**记住**(memorise)的东西变成一件要做的东西；**大萧条**(Depression)里每家**药店**(drugstore)都卖，一周一千万套。玩具，就是把课挖掉之后的教具。
 
 ---
 
@@ -65,3 +65,4 @@ The word jigsaw came a century later, with **cardboard**, **plywood**, **die-cut
 - **⚠ BAL-02b 两处判为保留**：§1 22.7%——通说段把雨天客厅的物件一口气列出（小屋、小猫、乱片、炉边、天空那几片），密是因为那一段就是在摆画面；§4 22.2%——机制段把刀走过的地形一口气列出（海岸线、半岛、群岛、王国、公国），密是因为那一段就是那把锯的路线。两段与第64、65篇 §1 同理。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-67.md）**：七处 A——「mocked by the heiress」事实不准（伯特伦姐妹不是继承人）改 by her rich cousins；「14 of 15」改 all but one of George III's fifteen；「cost two guineas, for」改 and went to；「cartographer's apprentice」补冠词；「reciting failed it」改 no reciting passed it；「left borders」补 the；「not memorise」改 not to memorise。括注 realm 与 kingdoms 同为「王国」，realm 改「领域；王国」。为等长删去 Lady Charlotte Finch 之名（facts 仍有）。
 - **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-67.md）**：零 A。B：「普鲁士在哪里结束」「卖给客厅」「教室可以背诵」三处欧化改掉。
+- **★ 中文第二遍冷读**：「才来…一起来」两个「来」，改「才出现，跟…一起来」。

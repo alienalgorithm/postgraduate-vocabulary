@@ -14,7 +14,7 @@
       "paras": [
         {
           "en": "Victorian **mourning** is remembered as grief made visible: the widow in black for two years, the **crepe** **veil** to the ground, the **etiquette** book fixing the months for parent, brother, grandparent. The **coffin** in the front room, the **hearse** with **plumes**, the **undertaker** at the door, the **mourners** behind blinds: **propriety** codified.",
-          "zh": "维多利亚时代的**服丧**(mourning)留在记忆里的是看得见的哀伤：寡妇一身黑穿两年，**绉纱**(crepe)**面纱**(veil)垂到地，**礼仪**(etiquette)手册定下为父母、兄弟、祖父母各守几个月。前厅里的**棺材**(coffin)，插着**羽饰**(plumes)的**灵车**(hearse)，门口的**殡葬人**(undertaker)，帘子后面的**吊唁者**(mourners)：**得体**(propriety)成了条文。"
+          "zh": "人们记得的维多利亚时代**服丧**(mourning)，是看得见的哀伤：寡妇一身黑穿两年，**绉纱**(crepe)**面纱**(veil)垂到地，**礼仪**(etiquette)手册定下为父母、兄弟、祖父母各守几个月。前厅里的**棺材**(coffin)，插着**羽饰**(plumes)的**灵车**(hearse)，门口的**殡葬人**(undertaker)，帘子后面的**吊唁者**(mourners)：**得体**(propriety)成了条文。"
         },
         {
           "en": "Read the rules as terms of trade. Crepe was a **crimped** silk, dull on purpose, made almost wholly by one **firm**, Courtauld's. **Spun** from **waste** silk and **woven** cheap on the **loom**, it sold at a high **markup**; it returned 30 per cent on capital, 1850 to 1885, **profit** rising from £40,000 to £450,000. **Shareholders** drew a **dividend** on death.",
@@ -26,7 +26,7 @@
         },
         {
           "en": "Then women stopped. The 1890s **magazines** advised a light **netting** veil, or crepe **trimming** at the **hem**; **half-mourning** in **lilac** and **mauve** came sooner, **coloured** dress soon after, the **bereaved** no less **fashionable**. Courtaulds' sales fell 62 per cent from 1883 to 1894; in 1896 the firm moved into coloured silks.",
-          "zh": "然后女人们不穿了。1890 年代的**杂志**(magazines)建议改戴轻薄的**网纱**(netting)面纱，或者只把绉纱当**镶边**(trimming)缝在**裙边**(hem)；**淡紫**(lilac)与**藕荷**(mauve)的**半丧**(half-mourning)来得更早，**彩色**(coloured)衣裙随后，**丧亲者**(bereaved)照样**时髦**(fashionable)。考陶尔德的销售额 1883 到 1894 年跌了 62%；1896 年它转产彩色丝绸。"
+          "zh": "然后女人们不穿了。1890 年代的**杂志**(magazines)建议改戴轻薄的**网纱**(netting)面纱，或者只把绉纱当**镶边**(trimming)缝在**裙边**(hem)；**淡紫**(lilac)与**藕荷**(mauve)的**半丧**(half-mourning)来得更早，**彩色**(coloured)衣裙随后跟上，**丧亲者**(bereaved)照样**时髦**(fashionable)。考陶尔德的销售额 1883 到 1894 年跌了 62%；1896 年它转产彩色丝绸。"
         },
         {
           "en": "Grief had not changed; the **fashion** had. A custom that collapses in a decade when the **textile** goes **glossy** was never **piety**. What filled the **parlour** with black, the **cemetery** with veil and **parasol**, what wept over the **shroud** and **grieved** by the book, was **respectability** — a mill's terms of sale.",
@@ -42,7 +42,8 @@
         "**本篇的机制边界**：这不是「维多利亚人不悲伤」的故事。**女王为阿尔伯特守了四十年黑**，那是真的。**本文的论点在一个更窄的地方：把悲伤规定成一年零一天、规定成某一种面料、规定成过期不得留存的，不是悲伤本身——而那套规定的每一条，都恰好是一家丝厂的最优销售条款。****⚠ 需注意：考陶尔德并未『制定』礼仪；它推广绉纱、受益于礼仪，而礼仪由手册、时装屋与社会压力共同维持。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「bonnet, gloves and stationery in black」——信笺不是穿的，改为「bonnet and gloves black, the stationery black-edged」；「veils and the parasol」单复失配，改「veil and parasol」。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-62.md）**：四处 A——「in black two years」补 for；「coloured dress after」补 soon；「Courtaulds'…it」改 the firm；「wept behind the shroud」（裹尸布后面是死者）改 wept over the shroud，中文同改。§2 中文「年年 30%」多译，改「达 30%」。",
-        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-62.md）**：一处 A——「废丝、纺出来的」顿号错。B：两处被字句改主动；§5 长定语理顺。"
+        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-62.md）**：一处 A——「废丝、纺出来的」顿号错。B：两处被字句改主动；§5 长定语理顺。",
+        "**★ 中文第二遍冷读**：首句改「人们记得的维多利亚时代服丧，是看得见的哀伤」；「彩色衣裙随后」补「跟上」。"
       ],
       "metrics": {
         "words": 271,

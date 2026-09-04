@@ -26,15 +26,15 @@ Red left the field in the Boer War, when **khaki** replaced it, and stayed where
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-人人都知道英国士兵为什么穿红：好让一件在战斗中**染污**(stained)的上衣看不出血来。也有人说是为了让人看见：一种勇敢的**色调**(hue)，**鼓手**(drummer)和**横笛**(fife)，白**领巾**(cravat)，军官的**饰带**(sash)，各**团**(regimental)自己的**绦子**(lace)，**黄铜**(brass)与**穗带**(braid)。
+人人都知道英国士兵为什么穿红：好让一件在战斗中**染污**(stained)的上衣看不出血来。也有人说是为了让人看见：一种神气的**色调**(hue)，**鼓手**(drummer)和**横笛**(fife)，白**领巾**(cravat)，军官的**饰带**(sash)，各**团**(regimental)自己的**绦子**(lace)，**黄铜**(brass)与**穗带**(braid)。
 
-**上衣**(coat)是红的，因为红最便宜。1645 年新模范军需要两万两千件一样的上衣；全欧洲最便宜的固色染料是**茜草**(madder)——一种根，在**明矾**(alum)**媒染剂**(mordant)上把**羊毛**(wool)**染**(dyed)成暗**红棕**(ruddy)的**砖红**(brick-red)，这颜色不褪。掩血之说在军装其余部分上就不成立：**马裤**(breeches)、**背心**(waistcoat)、胸前交叉的背带，全是白的。
+**上衣**(coat)是红的，因为红最便宜。1645 年新模范军需要两万两千件一样的上衣；全欧洲最便宜的固色染料是**茜草**(madder)——一种根，配上**明矾**(alum)**媒染剂**(mordant)能把**羊毛**(wool)**染**(dyed)成暗**红棕**(ruddy)的**砖红**(brick-red)，而且不褪。掩血之说到了军装的其他部分就不成立了：**马裤**(breeches)、**背心**(waistcoat)、胸前交叉的背带，全是白的。
 
 军衔在染料里。**列兵们**(privates)的上衣**褪**(faded)成砖色，再**晒**(bleached)成粉红。中士的是用紫胶**虫**(insect)仿的猩红。军官——**军刀**(sabre)挂在腰间——自己**定做**(tailored)上衣，用的是**胭脂红**(carmine)，取自**墨西哥**(Mexico)的一种**介壳虫**(scale-insect)，价钱是茜草的许多倍。站在队列里，从一个人背上颜色的**深浅**(shade)就能读出他的饷银。
 
-在战场上颜色几乎不要紧。步兵慢步**行军**(marched)进入战场，肩上是**背包**(knapsack)和**火枪**(musket)，腰间是**刺刀**(bayonet)和**通条**(ramrod)；**燧石**(flint)枪五十码外就打不准；第一轮**齐射**(volley)和**大炮**(cannon)之后，战场是一片**烟雾**(haze)，每件上衣都是**烟垢**(grime)。将军需要的是看见自己的队列在哪里，红色做得到。
+在战场上颜色几乎不要紧。步兵慢步**行军**(marched)进入战场，肩上是**背包**(knapsack)和**火枪**(musket)，腰间是**刺刀**(bayonet)和**通条**(ramrod)；**燧石**(flint)枪五十码外就打不准；第一轮**齐射**(volley)和**大炮**(cannon)之后，战场是一片**烟雾**(haze)，每件上衣都蒙着**烟垢**(grime)。将军需要的是看见自己的队列在哪里，红色做得到。
 
-红色在布尔战争里退出战场，**卡其**(khaki)取而代之；它留在了**列队**(paraded)的地方，**风吹日晒**(weathered)、**磨得发薄**(threadbare)。这件**上衣**(tunic)从来不是为伤口或敌人选的。**军需官**(paymaster)选了它，**承包商**(contractor)把它**泡**(soaked)进最便宜的**染缸**(vats)，**染工**(dyer)给它分了等。
+红色在布尔战争里退出战场，**卡其**(khaki)取而代之；它留在了**列队**(paraded)阅兵的地方，**风吹日晒**(weathered)、**磨得发薄**(threadbare)。这件**上衣**(tunic)从来不是为伤口或敌人选的。**军需官**(paymaster)选了它，**承包商**(contractor)把它**泡**(soaked)进最便宜的**染缸**(vats)，**染工**(dyer)给它分了等。
 
 ---
 
@@ -65,3 +65,4 @@ Red left the field in the Boer War, when **khaki** replaced it, and stayed where
 - **⚠ BAL-02b 判为保留**：§1 局部密度 22.2%——通说段把军装上的物件一口气列出（鼓手、横笛、领巾、饰带、绦子、黄铜、穗带），**密是因为那一段就是在摆排场**，与第64篇 §1 同理。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-65.md）**：六处 A——「would not show it」it 无先行词改 show blood；「and held fast」主语不明改 the colour held fast；**「a beetle out of Mexico」事实错——胭脂虫是介壳虫，改 scale-insect**（博士逮的）；「at many times the price」补 of madder；「with a sabre tailored his own in carmine」改 sabre at his hip, had his own tailored；「from lac」改 from the lac insect。括注 shade「色度」改「深浅」、grime「灰尘」改「烟垢」。「all of a piece」删（本科生不懂，省四词）。
 - **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-65.md）**：两处 A——「晒成粉」（粉＝粉末）改「粉红」；「风蚀」（地质词）改「风吹日晒」。B：「为了被看见」「团的绦子」「牢固染料」「背上的深浅」「行军慢步」。
+- **★ 中文第二遍冷读**：「勇敢的色调」改「神气的色调」；茜草那句改成「配上…能把…染成…，而且不褪」；「在军装其余部分上就不成立」改「到了军装的其他部分就不成立了」；「都是烟垢」改「都蒙着烟垢」；「列队的地方」改「列队阅兵的地方」。

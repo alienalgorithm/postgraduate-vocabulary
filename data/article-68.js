@@ -14,7 +14,7 @@
       "paras": [
         {
           "en": "A **moat** is a castle's word: the water under the **battlements**, the **drawbridge** up, bowmen on the **rampart** behind the **palisade**, the **bailey** sealed, the **siege** stalled outside. Every child who built a **sandcastle** has **dug** one with a **spade**.",
-          "zh": "**护城河**(moat)这个词是城堡的：**雉堞**(battlements)下的水，拉起的**吊桥**(drawbridge)，**栅栏**(palisade)后**壁垒**(rampart)上的弓手，封死的**外庭**(bailey)，被挡在外面的**围城**(siege)。每个堆过**沙堡**(sandcastle)的孩子，都用**小铲**(spade)**挖**(dug)过一道。"
+          "zh": "一说**护城河**(moat)，想到的就是城堡：**雉堞**(battlements)下的水，拉起的**吊桥**(drawbridge)，**栅栏**(palisade)后**壁垒**(rampart)上的弓手，封死的**外庭**(bailey)，攻不进来的**围城**(siege)。每个堆过**沙堡**(sandcastle)的孩子，都用**小铲**(spade)**挖**(dug)过一道。"
         },
         {
           "en": "England has some 6,000 moats; few belong to castles. They ring a **farmstead** or **grange**, a **rectory** or **priory**, on the **loam** of the **lowland** Midlands, most dug between 1250 and 1350. Many are **three-sided**; the **platform** held hall, barn and **kitchen-garden**. Historic England calls them homes of the **gentry** and the moat \"a status symbol rather than a practical military defence\".",
@@ -26,7 +26,7 @@
         },
         {
           "en": "No farmhouse of that century stood a siege. It was when a **franklin** or **yeoman** with money, an **abbot** with land, could say in **earthwork** what a **knight** said in **heraldry** and a **lordship** in stone: a house that counted. A **rectangle** of water round a farm is a **coat-of-arms** you can walk round, a **signet** the size of a field.",
-          "zh": "那一百年里没有一座农舍守过围城。在那个年代，一个有钱的**自由农**(franklin)或**自耕农**(yeoman)、一个有地的**修道院长**(abbot)，能用**土方工程**(earthwork)说出**骑士**(knight)用**纹章**(heraldry)、**领主**(lordship)用石头说的那句话：这是一户数得上的人家。围着一座农庄的一圈**矩形**(rectangle)水面，是一枚可以绕着走的**盾徽**(coat-of-arms)，一枚田地那么大的**印章戒指**(signet)。"
+          "zh": "那一百年里没有一座农舍守过围城。**骑士**(knight)用**纹章**(heraldry)说、**领主**(lordship)用石头说的那句话——「这是一户数得上的人家」——在那个年代，有钱的**自由农**(franklin)、**自耕农**(yeoman)、有地的**修道院长**(abbot)，能用**土方工程**(earthwork)说出来。围着一座农庄的一圈**矩形**(rectangle)水面，是一枚可以绕着走的**盾徽**(coat-of-arms)，一枚田地那么大的**印章戒指**(signet)。"
         },
         {
           "en": "The moat is not a defence that looks grand but grandeur that looks like defence, and it kept the fish fresh. Most are **overgrown** now — **heron**, **lilies**, **mallard**, **dragonfly**, **footpath** and **stile**, the **pleasure** of a **weekend** walk, the second use their first owners paid for.",
@@ -40,7 +40,8 @@
         "**本篇的机制边界**：这不是「护城河没用」的故事。**城堡的护城河是真防御**——本文说的是另外六千道：围着农庄的那些。**本文的论点在一个更窄的地方：一个词（moat）从城堡借来，用在了六千处从未守过的地方；而那六千处之所以要挖，是因为它看起来像那个词。**",
         "**⚠ BAL-02b 判为保留**：§1 密度略高——通说段把城堡的部件一口气列出（雉堞、吊桥、壁垒、栅栏、外庭、围城），密是因为那一段就是在摆城堡，与第64、65、67篇 §1 同理。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-68.md）**：三处 A——「dug one with a spade first」删悬着的 first；「a house of account」四个观众都卡，改 a house that counted，中文「有账的人家」改「数得上的人家」；「its first owners」（主语复数）改 their。B：引文挂到壕沟上（and the moat…）；「deep, seasonal」改 and；博士两处——「almost none」改 few、「not one of siege」改 No farmhouse of that century stood a siege；括注 lordship「领主」改「领主身份；领地」。",
-        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-68.md）**：一处 A——「一矩形水」缺量词改「一圈矩形水面」。B：「城堡的词」「过去的是一座桥」「低地中部」「三十字定语」「荒芜(overgrown)」（长满草木）。"
+        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-68.md）**：一处 A——「一矩形水」缺量词改「一圈矩形水面」。B：「城堡的词」「过去的是一座桥」「低地中部」「三十字定语」「荒芜(overgrown)」（长满草木）。",
+        "**★ 中文第二遍冷读**：「护城河这个词是城堡的」改「一说护城河，想到的就是城堡」；「被挡在外面的围城」改「攻不进来的围城」；§4 那句先说那句话再说谁能说，读顺了。"
       ],
       "metrics": {
         "words": 271,

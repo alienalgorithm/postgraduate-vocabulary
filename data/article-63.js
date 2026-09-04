@@ -22,7 +22,7 @@
         },
         {
           "en": "He came, looked, would not fire: a bound animal was no sport. He ordered it put out of its **misery**: no **clemency**, a mercy killing. Collier **waded** in and **stabbed** it with a **knife**; the **carcass** went back **slung** over a horse. The **front-page** picture in the **newspaper** two days later showed a grown bear on a rope, a **rifle** pointed away.",
-          "zh": "他来了，看了，不肯开枪：打被捆住的动物不算打猎。他下令让它脱离**痛苦**(misery)——不是**赦免**(clemency)，是了结它的痛苦。科利尔**蹚**(waded)进水里，用一把**刀**(knife)把它**刺**(stabbed)死；**尸体**(carcass)**横搭**(slung)在马背上驮回营地。两天后**报纸**(newspaper)上那幅**头版**(front-page)图画里，是一头拴着绳的成年熊，一支**步枪**(rifle)指向别处。"
+          "zh": "他来了，看了，不肯开枪：打被捆住的动物不算打猎。他下令让它免于**痛苦**(misery)——不是**赦免**(clemency)，是了结。科利尔**蹚**(waded)进水里，用一把**刀**(knife)把它**刺**(stabbed)死；**尸体**(carcass)**横搭**(slung)在马背上驮回营地。两天后**报纸**(newspaper)上那幅**头版**(front-page)图画里，是一头拴着绳的成年熊，一支**步枪**(rifle)指向别处。"
         },
         {
           "en": "Then the **illustrator**'s **ink** went to work. Through the weeks of **syndicated** cartoons Berryman drew it smaller, rounder, more **cuddly**, until the **caricature** was a **furry** cub with **button** eyes, the **editors**' **mascot** for the rest of the **presidency**. The bear that lived was the one on paper.",
@@ -30,7 +30,7 @@
         },
         {
           "en": "The shop-window story appeared in 1949, eleven years after the **candy** **shopkeeper** died; the letter granting the name never surfaced. In Germany a **seamstress** and her **nephew** had a **mohair** bear **sewn** that autumn, sold at **Leipzig** in 1903, soon with a button in the ear as a **trademark**; 3,000 crossed the Atlantic; the **craze** followed. The child holds a **keepsake** of the drawing, not the hunt.",
-          "zh": "橱窗的故事是 1949 年才出现的，那时那位卖**糖果**(candy)的**店主**(shopkeeper)已去世十一年；那封授权用名字的信从来没人见过。同一个秋天，德国一位**女裁缝**(seamstress)和她的**侄子**(nephew)**缝**(sewn)出一只**马海毛**(mohair)熊，1903 年在**莱比锡**(Leipzig)出售，不久耳朵上多了一枚作**商标**(trademark)的纽扣；3,000 只渡过大西洋，**热潮**(craze)随之而来。孩子抱着的，是那幅画的**纪念物**(keepsake)，不是那场狩猎。"
+          "zh": "橱窗的故事是 1949 年才出现的，那时那位卖**糖果**(candy)的**店主**(shopkeeper)已去世十一年；那封准许用他名字的信从来没人见过。同一个秋天，德国一位**女裁缝**(seamstress)和她的**侄子**(nephew)**缝**(sewn)出一只**马海毛**(mohair)熊，1903 年在**莱比锡**(Leipzig)出售，不久耳朵上多了一枚作**商标**(trademark)的纽扣；3,000 只渡过大西洋，**热潮**(craze)随之而来。孩子抱着的，是那幅画的**纪念物**(keepsake)，不是那场狩猎。"
         }
       ],
       "facts": [
@@ -43,7 +43,8 @@
         "**本篇的机制边界**：这不是「罗斯福残忍」的故事。**他拒绝射杀被捆住的动物，这一点是真的，而且当时就被视为品格。****本文的论点在一个更窄的地方：玩具纪念的那个下午——一只熊崽被放走——没有发生过；发生过的那个下午以水坑里的一刀结束。把两者接起来的，是漫画家一版比一版画得更小的笔。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「had a mohair bear sewed」——过去分词应为 sewn，已换（sewn 3.18 可用）。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-63.md）**：四处 A——§5 中文正文里漏进了工具释义「缝（过去分词）」，改「缝」；「the syndicated weeks」（星期不能联合刊发）改 the weeks of syndicated cartoons；「for trademark」改 as a trademark；「a dispatch」旧义读者不知，改 a mercy killing。§1 中文「牵到面前」不合英文（shown…tethered to a tree），改「被带去看」。sweets／candy 英美混用两个名额，留。",
-        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-63.md）**：一处 A——「处决」（英文 a mercy killing）误译，改「了结它的痛苦」。B：「墨水开始工作」「被捆住的动物不算打猎」「绳上的熊」「小熊崽」。"
+        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-63.md）**：一处 A——「处决」（英文 a mercy killing）误译，改「了结它的痛苦」。B：「墨水开始工作」「被捆住的动物不算打猎」「绳上的熊」「小熊崽」。",
+        "**★ 中文第二遍冷读**：「脱离痛苦…了结它的痛苦」重复，改「免于痛苦——不是赦免，是了结」；「授权用名字的信」改「准许用他名字的信」。"
       ],
       "metrics": {
         "words": 271,

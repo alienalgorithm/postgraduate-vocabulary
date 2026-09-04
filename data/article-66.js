@@ -14,7 +14,7 @@
       "paras": [
         {
           "en": "Every **storybook** tells how the Great Fire of 1666 spread: a **spark** in a Pudding Lane **bakery**, **reed** and **straw** catching from **rafter** to rafter across a city of **thatch**, **cinders** on the wind, the **blaze** racing along the **kindling** overhead. The Fire Brigade's own page says so.",
-          "zh": "每本**故事书**(storybook)都这么讲 1666 年大火是怎么烧起来的：布丁巷一家**面包房**(bakery)里的一点**火星**(spark)，**芦苇**(reed)和**麦秸**(straw)从一根**椽子**(rafter)烧到另一根，烧遍一座**茅草**(thatch)的城，**余烬**(cinders)随风飞，**大火**(blaze)沿着头顶的**引火物**(kindling)狂奔。消防局自己的网页也是这么写的。"
+          "zh": "每本**故事书**(storybook)都这么讲 1666 年大火是怎么烧起来的：布丁巷一家**面包房**(bakery)里的一点**火星**(spark)，**芦苇**(reed)和**麦秸**(straw)从一根**椽子**(rafter)烧到另一根，烧遍一座**茅草**(thatch)屋顶的城，**余烬**(cinders)随风飞，**大火**(blaze)沿着头顶的**引火物**(kindling)狂奔。消防局自己的网页也是这么写的。"
         },
         {
           "en": "Thatch had been outlawed in the City for 450 years. In 1212 a fire killed some 3,000 of the city's 20,000. Two days later the **mayor** ordered **builders** to roof in **tile**, **shingle**, **boards** or lead, not reed, **rush** or **litter**; a thatched house was to be **plastered** in eight days or **demolished** by the **aldermen**.",
@@ -30,7 +30,7 @@
         },
         {
           "en": "The **refugees** at Moorfields thatched their **huts**. The City rose in **brickwork** and **mortar**, **masons** raising **party-wall** and **parapet**, **insurance** offices keeping **firemen**, **engines**, even the hand **squirt**. The rule of 1212 worked four centuries, then vanished from the story of the fire it was made to prevent; the credit went to a roof that was not there.",
-          "zh": "摩尔菲尔德的**难民**(refugees)给自己的**棚屋**(huts)盖上了茅草。城重新用**砖砌**(brickwork)和**灰浆**(mortar)立起来，**泥瓦匠**(masons)砌起**隔墙**(party-wall)和**女儿墙**(parapet)，**保险**(insurance)公司养着**消防员**(firemen)、**水龙**(engines)，连**手压水枪**(squirt)也备着。1212 年那条规矩管用了四百年，然后从它本来要防的那场火的故事里消失了；功劳归了一个并不在那里的屋顶。"
+          "zh": "摩尔菲尔德的**难民**(refugees)给自己的**棚屋**(huts)盖上了茅草。城重新立了起来，用的是**砖砌**(brickwork)和**灰浆**(mortar)，**泥瓦匠**(masons)砌起**隔墙**(party-wall)和**女儿墙**(parapet)，**保险**(insurance)公司养着**消防员**(firemen)、**水龙**(engines)，连**手压水枪**(squirt)也备着。1212 年那条规矩管用了四百年，然后从它本来要防的那场火的故事里消失了；功劳归了一个并不在那里的屋顶。"
         }
       ],
       "facts": [
@@ -43,7 +43,8 @@
         "**本篇的机制边界**：这不是「1666 年的火不严重」的故事。**13,200 所房屋、87 座教堂、圣保罗大教堂，全烧了。****本文的论点在一个更窄的地方：烧的是什么。一条 1212 年的规矩把茅草从伦敦城里清了四百五十年，以至于 1666 年没有一份记述提到它——而后世的故事把功劳记在了它头上，因为茅草比干透的木头更好讲。**",
         "**★ 冷读改正（2026-09-04，隔日）**：「a house already thatched was plastered in eight days」——法令是「须」抹灰，改为 was to be plastered；「in overhang over the alley」改为 built out in overhang till they met across the alley。",
         "**★★ 审读团（2026-09-04，人读，见 notes/审读-66.md）**：六处 A——「outlawed in the City 450 years」补 for；「3,000 of 20,000」改 some 3,000 of the city's 20,000（博士：来源 1,000—3,000）；「walked the curfew」改 kept curfew watch，中文「走宵禁」改「巡夜」；「nearly every roof was tiles」改 was tile（不加粗；tile／tiles 本占两个名额），名额换 warehouses；「riding the kindling」改 racing along；「a squirt」改「even the hand squirt」。括注 cinders「火星灰」改「余烬」、sheriffs「郡长」改「市治安官」（伦敦城的 sheriff 是市政官）。pail 与 bucket 同物，两个名额，留。",
-        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-66.md）**：零 A。B：「烧开的」改「烧起来的」；「营造者们」「市治安官们」「市政官们」去「们」；补「须在八天内」；pail 改「提桶」与 bucket 区分。"
+        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-66.md）**：零 A。B：「烧开的」改「烧起来的」；「营造者们」「市治安官们」「市政官们」去「们」；补「须在八天内」；pail 改「提桶」与 bucket 区分。",
+        "**★ 中文第二遍冷读**：「一座茅草的城」改「茅草屋顶的城」；「重新用砖砌和灰浆立起来」改「重新立了起来，用的是砖砌和灰浆」。"
       ],
       "metrics": {
         "words": 271,

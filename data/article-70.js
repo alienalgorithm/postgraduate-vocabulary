@@ -14,23 +14,23 @@
       "paras": [
         {
           "en": "A **lighthouse** is a great fire on a rock: the bigger the **bonfire**, the farther its **radiance** reaches **seaward**; a **beacon** on the reef, a **foghorn** in the **murk**, the **keeper** feeding the **lantern** above the **gallery** all night. So every picture says.",
-          "zh": "**灯塔**(lighthouse)是礁石上的一堆大火：**篝火**(bonfire)越旺，**光辉**(radiance)**朝海**(seaward)传得越远；暗礁上的**航标灯**(beacon)，**昏暗**(murk)里的**雾号**(foghorn)，**守塔人**(keeper)整夜给**外廊**(gallery)之上的**灯室**(lantern)添火。图画都是这么画的。"
+          "zh": "**灯塔**(lighthouse)是礁石上的一堆大火：**篝火**(bonfire)越旺，**朝海**(seaward)的**光辉**(radiance)传得越远；暗礁上的**航标灯**(beacon)，**昏暗**(murk)里的**雾号**(foghorn)，**守塔人**(keeper)整夜给**外廊**(gallery)之上的**灯室**(lantern)添火。图画都是这么画的。"
         },
         {
           "en": "The flame stayed small: at Cordouan in 1823 it was an **oil-lamp** of three **concentric** **wicks** fed **rapeseed** oil and **whale-oil**, the **sooty** flame burning behind twelve **parabolic** **reflectors** since 1791. Tests found an open flame throws 97 per cent of its light to sky and sea; a mirror still wastes 60 to 80. A ship saw the **gleam** miles off; **gulls** saw the rest.",
-          "zh": "火从来就不大：1823 年科尔杜昂的火是一盏三根**同心**(concentric)**灯芯**(wicks)的**油灯**(oil-lamp)，烧**菜籽**(rapeseed)油和**鲸油**(whale-oil)——那团**烟熏火燎的**(sooty)火焰 1791 年起就在十二面**抛物面**(parabolic)**反射镜**(reflectors)前烧着。测试发现，明火 97% 的光散向天空和海面；加一面镜子仍要浪费 60% 到 80%。船在几英里外看见一点**微光**(gleam)；其余的光，**海鸥**(gulls)看见了。"
+          "zh": "火从来就不大：1823 年科尔杜昂灯塔点的是一盏三根**同心**(concentric)**灯芯**(wicks)的**油灯**(oil-lamp)，烧**菜籽**(rapeseed)油和**鲸油**(whale-oil)——那团**烟熏火燎的**(sooty)火焰 1791 年起就在十二面**抛物面**(parabolic)**反射镜**(reflectors)前烧着。实测下来，明火 97% 的光散向天空和海面；加一面镜子仍要浪费 60% 到 80%。船在几英里外看见一点**微光**(gleam)；其余的光，**海鸥**(gulls)看见了。"
         },
         {
           "en": "Fresnel set round it no brighter fire but a glass **beehive**: a bullseye lens at the **focal** point, a **cage** of glass **facets** that caught the light bound for sky and sea and **refracted** it to the **horizon**. The **optic** kept four-fifths of the light; the beam reached twenty miles. Eight panels turned on **clockwork**, driven by a weight the keeper winched up the **stairwell**; the light **blinked**.",
-          "zh": "菲涅尔围着那盏灯装上的不是更旺的火，是一座玻璃**蜂巢**(beehive)：**焦点**(focal)上一片牛眼透镜，周围一**笼**(cage)玻璃**刻面**(facets)，把本要飞向天空和海面的光接住，**折射**(refracted)到**海平线**(horizon)上去。这套**光学装置**(optic)留住了五分之四的光；光束照到二十英里外。八片透镜板靠**发条**(clockwork)转动，动力是守塔人沿**楼梯井**(stairwell)绞上去的一个重锤；灯就这样**一闪一闪**(blinked)。"
+          "zh": "菲涅尔围着那盏灯装上的不是更旺的火，是一座玻璃**蜂巢**(beehive)：**焦点**(focal)上一片牛眼透镜，周围是玻璃**刻面**(facets)围成的一只**笼**(cage)，把本要飞向天空和海面的光接住，**折射**(refracted)到**海平线**(horizon)上去。这套**光学装置**(optic)留住了五分之四的光；光束照到二十英里外。八片透镜板靠**发条**(clockwork)转动，动力是守塔人沿**楼梯井**(stairwell)绞上去的一个重锤；灯就这样**一闪一闪**(blinked)。"
         },
         {
           "en": "The English would not have it: Trinity House kept its **silver**-on-**copper** mirrors, **tarnished**, **pitted** with **corrosion**, **burnished** nightly; no English **opticians** could **grind** a lens; the first went to **Edinburgh** in 1831. The Americans kept theirs for decades, tied to a **licence**.",
-          "zh": "英格兰人不要它：领港公会守着自己**铜**(copper)上镀**银**(silver)的镜片——被灯热**熏暗**(tarnished)、被**锈蚀**(corrosion)**蚀出麻点**(pitted)，每夜都得**擦亮**(burnished)；英格兰没有一个**光学工匠**(opticians)能**磨**(grind)出一片透镜，第一片 1831 年去了**爱丁堡**(Edinburgh)。美国人守着自己的反射镜又守了几十年，被一纸**许可**(licence)拴着。"
+          "zh": "英格兰人不要它：领港公会守着自己**铜**(copper)上镀**银**(silver)的镜片——被灯热**熏暗**(tarnished)、被**锈蚀**(corrosion)**蚀出麻点**(pitted)，每夜都得**擦亮**(burnished)；英格兰没有一个**光学工匠**(opticians)能**磨**(grind)出一片透镜，第一片透镜 1831 年落到了**爱丁堡**(Edinburgh)。美国人守着自己的反射镜又守了几十年，被一纸**许可**(licence)拴着。"
         },
         {
           "en": "The glass **outlived** the flame: it became electricity, a **halogen** or **xenon** **bulb**, then solar cells on an **automated** tower, no **logbook**; the lens remains, **revolving** for **mariners**, or **decommissioned** on a **plinth**. The beacon is the fire's waste, collected; the keeper fed no flame — he wound the weight that turned the glass.",
-          "zh": "玻璃**熬过了**(outlived)火：火变成了电，变成**卤素**(halogen)或**氙**(xenon)**灯泡**(bulb)，再变成太阳能电池，装在一座没有**值班日志**(logbook)的**自动化**(automated)塔上；透镜还在，为**水手们**(mariners)**转动**(revolving)着，或者**退役**(decommissioned)了，摆在一座**基座**(plinth)上。航标灯是火的废光，收拢起来；守塔人不添火——他绞起那个让玻璃转动的重锤。"
+          "zh": "玻璃**熬过了**(outlived)火：火变成了电，变成**卤素**(halogen)或**氙**(xenon)**灯泡**(bulb)，再变成太阳能电池，装在一座没有**值班日志**(logbook)的**自动化**(automated)塔上；透镜还在，为**水手们**(mariners)**转动**(revolving)着，或者**退役**(decommissioned)了，摆在一座**基座**(plinth)上。航标灯是火散掉的光，收拢起来的；守塔人不添火——他绞起那个让玻璃转动的重锤。"
         }
       ],
       "facts": [
@@ -45,7 +45,8 @@
         "**★★ 审读团（2026-09-04，五个观众，见 notes/审读-70.md）**：十一处 A 全改——「the farther its radiance」补 reaches；「gallery's pinnacle」改「above the gallery」；「fed rapeseed and whale-oil」改「fed rapeseed oil and whale-oil」；「A ship saw a few miles」改「saw the gleam miles off」；§3 光学一句改成能懂的「接住本要飞向天空和海面的光，折射到海平线上」；「a weight on a winch wound up the stairwell」改「driven by a weight the keeper winched up the stairwell」；「The British」与「Scottish board」打架，改 The English／Edinburgh；「glass-house could grind one」改「opticians could grind a lens」；「kept theirs decades over a licence」改「kept theirs for decades, tied to a licence」；末句逗号拼接改破折号；括注 sooty「冒烟的」改「熏黑的」。**硕士生点出的九个不值得背的名额换了六个**（lamp→gleam、tons→horizon、Scottish→Edinburgh、glass-house→opticians、pinnacle→foghorn、buoy→murk），silver／copper／xenon 留（换无可换）。**博士问「a few miles」贬低前技术**——改为 gleam miles off，不再给数。**hyper-radial 十吨那句删去**（本科生不知道 hyper-radial 是什么，句子又占九个词）。",
         "**⚠ BAL-06 判为保留**：段长 41/66/68/42/54——通说段与英国段短，油灯段与光学段要装东西。",
         "**⚠ BAL-02b 两处判为保留**：§1 24.4%（通说段摆灯塔的画）；§4 23.8%（镜片四个动作一句排开）。与第64—69篇 §1 同理。",
-        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-70.md）**：四处 A——「活得比(outlived)」括注劈词改「熬过了」；「航海日志(logbook)」误译改「值班日志」；「焦(focal)点」劈词改「焦点」；「熏黑的火焰」搭配错改「烟熏火燎的」。B：「火一直是小的」改「火从来就不大」；「光辉…照得越远」改「传得」并补「整夜」；「每夜擦亮」改「每夜都得擦亮」；「光学器」改「光学装置」。"
+        "**★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-70.md）**：四处 A——「活得比(outlived)」括注劈词改「熬过了」；「航海日志(logbook)」误译改「值班日志」；「焦(focal)点」劈词改「焦点」；「熏黑的火焰」搭配错改「烟熏火燎的」。B：「火一直是小的」改「火从来就不大」；「光辉…照得越远」改「传得」并补「整夜」；「每夜擦亮」改「每夜都得擦亮」；「光学器」改「光学装置」。",
+        "**★ 中文第二遍冷读（2026-09-04）**：「光辉朝海传得越远」改「朝海的光辉传得越远」；「科尔杜昂的火是一盏油灯」改「科尔杜昂灯塔点的是一盏油灯」；「测试发现」改「实测下来」；「一笼玻璃刻面」改「玻璃刻面围成的一只笼」；「去了爱丁堡」改「落到了爱丁堡」；末段「收拢起来」补「的」。"
       ],
       "metrics": {
         "words": 271,
