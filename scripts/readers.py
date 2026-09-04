@@ -8,6 +8,7 @@
   python3 scripts/readers.py 70 --run --dry-run  # 只打印五个观众的完整提示，不调用
   python3 scripts/readers.py 70 --run --repeat 2 # 每个观众跑两遍，交集为稳定发现
   python3 scripts/readers.py --status            # 哪些篇已审、各有几条 A/B
+  python3 scripts/readers.py 70 --zh [--run|--init|--status]   # ★ 中文审读团：章程 notes/中文审读团.md，报告 notes/中文审读-NN.md
 
 ★ 为什么是五次独立调用而不是一次：每个观众一个上下文，互不知情——本科生不知道评鉴师看到了什么。
   同一观众可重复跑，只留两遍都报的句子。汇总由脚本做（同一句被 ≥2 个观众点到 → 升一级），不再调模型。
@@ -32,6 +33,16 @@ READERS = [
     ("四", "硕士生", True),
     ("五", "本科生", True),
 ]
+# ★ 中文审读团（2026-09-04，用户指令：中文要丝滑、地道、精准）。--zh 切换。
+CHARTER_ZH = os.path.join(ROOT, "notes", "中文审读团.md")
+READERS_ZH = [
+    ("一", "中文文字编辑", "zh"),
+    ("二", "中文母语普通读者", "zh"),
+    ("三", "翻译校对", "both"),
+    ("四", "考研学生", "both"),
+    ("五", "老派语文老师", "zh"),
+]
+ZH = False   # 运行时由 --zh 置 True
 API = "https://api.anthropic.com/v1/messages"
 
 
@@ -46,17 +57,21 @@ def load_all():
 
 
 def packet(a, with_zh):
+    """with_zh: False=只英文；True=中英；"zh"=只中文（中文审读团一二五）；"both"=中英。"""
     lines = ["第%s篇 · %s" % (a['id'], a['title']), ""]
     for i, p in enumerate(a['paras'], 1):
-        lines.append("§%d %s" % (i, p['en']))
-        if with_zh:
-            lines.append("　　%s" % p['zh'])
+        if with_zh == "zh":
+            lines.append("§%d %s" % (i, p['zh']))
+        else:
+            lines.append("§%d %s" % (i, p['en']))
+            if with_zh:
+                lines.append("　　%s" % p['zh'])
         lines.append("")
     return "\n".join(lines)
 
 
 def charter_sections():
-    t = open(CHARTER, encoding='utf-8').read()
+    t = open(CHARTER_ZH if ZH else CHARTER, encoding='utf-8').read()
     parts = re.split(r"\n## ", t)
     sec = {}
     for p in parts:
@@ -69,15 +84,19 @@ def system_prompt(k, name):
     sec = charter_sections()
     mine = next(v for h, v in sec.items() if h.startswith("观众%s" % k))
     rules = sec.get("总规则", "")
+    head = ("你是中文审读团的一个观众，只管这篇中英双语考研词汇文章的中文译文：丝不丝滑、地不地道、准不准。\n"
+            if ZH else
+            "你是审读团的一个观众，读一篇 270 词、含 50 个加粗重点词的中英双语考研词汇文章。\n")
+    fixlang = "改后的中文句" if ZH else "改后的英文"
     return (
-        "你是审读团的一个观众，读一篇 270 词、含 50 个加粗重点词的中英双语考研词汇文章。\n"
-        "只按下面这个观众的身份、读法和判据读；不替作者找理由；没有句的意见不算发现。\n\n"
-        "【总规则】\n" + rules + "\n\n"
-        "【你是谁、怎么读、盯什么】\n观众%s · %s\n%s\n\n"
-        "【输出格式】只输出一个 JSON 数组，不要别的文字。每个元素：\n"
-        '{"para": 段号(整数), "quote": "原句片段（原样抄，含加粗星号）", "problem": "问题（用你这个观众的口气）", '
-        '"fix": "改法（给具体改后的英文；没有就写空串）", "grade": "A|B|C"}\n'
-        "读完没有发现就输出 []。" % (k, name, mine)
+        head
+        + "只按下面这个观众的身份、读法和判据读；不替作者找理由；没有句的意见不算发现。\n\n"
+        + "【总规则】\n" + rules + "\n\n"
+        + "【你是谁、怎么读、盯什么】\n观众%s · %s\n%s\n\n" % (k, name, mine)
+        + "【输出格式】只输出一个 JSON 数组，不要别的文字。每个元素：\n"
+        + '{"para": 段号(整数), "quote": "原句片段（原样抄，含加粗星号与括注）", "problem": "问题（用你这个观众的口气）", '
+        + '"fix": "改法（给具体%s；没有就写空串）", "grade": "A|B|C"}\n' % fixlang
+        + "读完没有发现就输出 []。"
     )
 
 
@@ -169,10 +188,18 @@ def merge(reports):
     return rows
 
 
+def _readers():
+    return READERS_ZH if ZH else READERS
+
+
+def _report_path(aid):
+    return os.path.join(ROOT, 'notes', ('中文审读-%s.md' if ZH else '审读-%s.md') % aid)
+
+
 def write_report(a, reports, rows, model, repeat):
-    s = ["# 审读 · 第%s篇《%s》" % (a['id'], a['title']), "",
+    s = ["# %s · 第%s篇《%s》" % ("中文审读" if ZH else "审读", a['id'], a['title']), "",
          "> bot 生成：五个观众各一次独立调用（模型 %s，每观众 %d 遍），汇总由脚本按章程做。章程：notes/审读团.md。" % (model, repeat), ""]
-    for k, name, _ in READERS:
+    for k, name, _ in _readers():
         s += ["## 观众%s · %s" % (k, name), ""]
         fs = reports.get(k, [])
         if not fs:
@@ -187,7 +214,7 @@ def write_report(a, reports, rows, model, repeat):
                                               ("**A**" if r["grade"] == "A" else r["grade"]), r["fix"].replace("|", "｜")))
     na = sum(1 for r in rows if r["grade"] == "A")
     s += ["", "**%d 处 A，%d 处 B。**" % (na, sum(1 for r in rows if r["grade"] == "B")), "", "## 改动", "", "（改了什么，lockstep 是否等长，检察官分数）", ""]
-    path = os.path.join(ROOT, 'notes', '审读-%s.md' % a['id'])
+    path = _report_path(a['id'])
     open(path, 'w', encoding='utf-8').write("\n".join(s))
     return path, na
 
@@ -196,7 +223,7 @@ def run(aid, model, dry, repeat):
     a = load_all()[aid]
     key = os.environ.get("ANTHROPIC_API_KEY", "")
     reports = {}
-    for k, name, with_zh in READERS:
+    for k, name, with_zh in _readers():
         sysp = system_prompt(k, name)
         user = packet(a, with_zh)
         if dry:
@@ -227,9 +254,9 @@ def run(aid, model, dry, repeat):
 
 # ── 其余 ────────────────────────────────────────────────────────────
 def skeleton(a):
-    s = ["# 审读 · 第%s篇《%s》" % (a['id'], a['title']), "",
-         "> 章程：notes/审读团.md。每条发现：§段 + 原句片段 + 问题 + 改法 + 等级（A 必改／B 应改／C 可改）。", ""]
-    for k, name, _ in READERS:
+    s = ["# %s · 第%s篇《%s》" % ("中文审读" if ZH else "审读", a['id'], a['title']), "",
+         "> 章程：notes/%s。每条发现：§段 + 原句片段 + 问题 + 改法 + 等级（A 必改／B 应改／C 可改）。" % ("中文审读团.md" if ZH else "审读团.md"), ""]
+    for k, name, _ in _readers():
         s += ["## 观众%s · %s" % (k, name), "", "（逐条）", ""]
     s += ["## 汇总", "", "| 句 | 谁点到 | 等级 | 改法 |", "|---|---|---|---|", "", "## 改动", "", ""]
     return "\n".join(s)
@@ -238,7 +265,7 @@ def skeleton(a):
 def status():
     rows = []
     for f in sorted(os.listdir(os.path.join(ROOT, 'notes'))):
-        m = re.match(r"审读-(\d+)\.md$", f)
+        m = re.match((r"中文审读-(\d+)\.md$" if ZH else r"审读-(\d+)\.md$"), f)
         if not m:
             continue
         t = open(os.path.join(ROOT, 'notes', f), encoding='utf-8').read()
@@ -251,7 +278,10 @@ def status():
 
 
 def main():
+    global ZH
     args = sys.argv[1:]
+    if "--zh" in args:
+        ZH = True
     if "--status" in args:
         return status()
     aid = [x for x in args if x.isdigit()][0].zfill(2)
@@ -261,14 +291,17 @@ def main():
         return run(aid, model, "--dry-run" in args, repeat)
     a = load_all()[aid]
     if "--init" in args:
-        path = os.path.join(ROOT, 'notes', '审读-%s.md' % aid)
+        path = _report_path(aid)
         if os.path.exists(path):
             print("已存在：", os.path.relpath(path, ROOT))
         else:
             open(path, 'w', encoding='utf-8').write(skeleton(a))
             print("已建：", os.path.relpath(path, ROOT))
         return
-    print(packet(a, False)); print("=" * 70); print(packet(a, True))
+    if ZH:
+        print(packet(a, "zh")); print("=" * 70); print(packet(a, "both"))
+    else:
+        print(packet(a, False)); print("=" * 70); print(packet(a, True))
 
 
 if __name__ == "__main__":

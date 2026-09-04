@@ -26,15 +26,15 @@ The glass **outlived** the flame: it became electricity, a **halogen** or **xeno
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-**灯塔**(lighthouse)是礁石上的一堆大火：**篝火**(bonfire)越旺，**光辉**(radiance)**朝海**(seaward)照得越远；暗礁上的**航标灯**(beacon)，**昏暗**(murk)里的**雾号**(foghorn)，**守塔人**(keeper)给**外廊**(gallery)之上的**灯室**(lantern)添火。图画都是这么画的。
+**灯塔**(lighthouse)是礁石上的一堆大火：**篝火**(bonfire)越旺，**光辉**(radiance)**朝海**(seaward)传得越远；暗礁上的**航标灯**(beacon)，**昏暗**(murk)里的**雾号**(foghorn)，**守塔人**(keeper)整夜给**外廊**(gallery)之上的**灯室**(lantern)添火。图画都是这么画的。
 
-火一直是小的：1823 年科尔杜昂的火是一盏三根**同心**(concentric)**灯芯**(wicks)的**油灯**(oil-lamp)，烧**菜籽**(rapeseed)油和**鲸油**(whale-oil)——那团**熏黑的**(sooty)火焰 1791 年起就在十二面**抛物面**(parabolic)**反射镜**(reflectors)前烧着。测试发现，明火 97% 的光散向天空和海面；加一面镜子仍要浪费 60% 到 80%。船在几英里外看见一点**微光**(gleam)；其余的光，**海鸥**(gulls)看见了。
+火从来就不大：1823 年科尔杜昂的火是一盏三根**同心**(concentric)**灯芯**(wicks)的**油灯**(oil-lamp)，烧**菜籽**(rapeseed)油和**鲸油**(whale-oil)——那团**烟熏火燎的**(sooty)火焰 1791 年起就在十二面**抛物面**(parabolic)**反射镜**(reflectors)前烧着。测试发现，明火 97% 的光散向天空和海面；加一面镜子仍要浪费 60% 到 80%。船在几英里外看见一点**微光**(gleam)；其余的光，**海鸥**(gulls)看见了。
 
-菲涅尔围着那盏灯装上的不是更旺的火，是一座玻璃**蜂巢**(beehive)：**焦**(focal)点上一片牛眼透镜，周围一**笼**(cage)玻璃**刻面**(facets)，把本要飞向天空和海面的光接住，**折射**(refracted)到**海平线**(horizon)上去。这套**光学器**(optic)留住了五分之四的光；光束照到二十英里外。八片透镜板靠**发条**(clockwork)转动，动力是守塔人沿**楼梯井**(stairwell)绞上去的一个重锤；灯就这样**一闪一闪**(blinked)。
+菲涅尔围着那盏灯装上的不是更旺的火，是一座玻璃**蜂巢**(beehive)：**焦点**(focal)上一片牛眼透镜，周围一**笼**(cage)玻璃**刻面**(facets)，把本要飞向天空和海面的光接住，**折射**(refracted)到**海平线**(horizon)上去。这套**光学装置**(optic)留住了五分之四的光；光束照到二十英里外。八片透镜板靠**发条**(clockwork)转动，动力是守塔人沿**楼梯井**(stairwell)绞上去的一个重锤；灯就这样**一闪一闪**(blinked)。
 
-英格兰人不要它：领港公会守着自己**铜**(copper)上镀**银**(silver)的镜片——**熏暗**(tarnished)、被**锈蚀**(corrosion)**蚀出麻点**(pitted)、每夜**擦亮**(burnished)；英格兰没有一个**光学工匠**(opticians)能**磨**(grind)出一片透镜，第一片 1831 年去了**爱丁堡**(Edinburgh)。美国人守着自己的反射镜又守了几十年，被一纸**许可**(licence)拴着。
+英格兰人不要它：领港公会守着自己**铜**(copper)上镀**银**(silver)的镜片——被灯热**熏暗**(tarnished)、被**锈蚀**(corrosion)**蚀出麻点**(pitted)，每夜都得**擦亮**(burnished)；英格兰没有一个**光学工匠**(opticians)能**磨**(grind)出一片透镜，第一片 1831 年去了**爱丁堡**(Edinburgh)。美国人守着自己的反射镜又守了几十年，被一纸**许可**(licence)拴着。
 
-玻璃**活得比**(outlived)火久：火变成了电，变成**卤素**(halogen)或**氙**(xenon)**灯泡**(bulb)，再变成太阳能电池，装在一座没有**航海日志**(logbook)的**自动化**(automated)塔上；透镜还在，为**水手们**(mariners)**转动**(revolving)着，或者**退役**(decommissioned)了，摆在一座**基座**(plinth)上。航标灯是火的废光，收拢起来；守塔人不添火——他绞起那个让玻璃转动的重锤。
+玻璃**熬过了**(outlived)火：火变成了电，变成**卤素**(halogen)或**氙**(xenon)**灯泡**(bulb)，再变成太阳能电池，装在一座没有**值班日志**(logbook)的**自动化**(automated)塔上；透镜还在，为**水手们**(mariners)**转动**(revolving)着，或者**退役**(decommissioned)了，摆在一座**基座**(plinth)上。航标灯是火的废光，收拢起来；守塔人不添火——他绞起那个让玻璃转动的重锤。
 
 ---
 
@@ -42,13 +42,13 @@ The glass **outlived** the flame: it became electricity, a **halogen** or **xeno
 
 **§1**（10词）lighthouse 灯塔｜bonfire 篝火｜radiance 光辉｜seaward 朝海的｜beacon 航标灯｜foghorn 雾号｜murk 昏暗｜keeper 守塔人｜lantern 灯室｜gallery 外廊
 
-**§2**（10词）oil-lamp 油灯｜concentric 同心的｜wicks 灯芯（复）｜rapeseed 菜籽｜whale-oil 鲸油｜sooty 熏黑的｜parabolic 抛物面的｜reflectors 反射镜（复）｜gleam 微光｜gulls 海鸥（复）
+**§2**（10词）oil-lamp 油灯｜concentric 同心的｜wicks 灯芯（复）｜rapeseed 菜籽｜whale-oil 鲸油｜sooty 烟熏火燎的；满是烟灰的｜parabolic 抛物面的｜reflectors 反射镜（复）｜gleam 微光｜gulls 海鸥（复）
 
-**§3**（10词）beehive 蜂巢｜focal 焦点的｜cage 笼｜facets 刻面（复）｜refracted 折射｜horizon 海平线｜optic 光学器｜clockwork 发条｜stairwell 楼梯井｜blinked 一闪一闪
+**§3**（10词）beehive 蜂巢｜focal 焦点的｜cage 笼｜facets 刻面（复）｜refracted 折射｜horizon 海平线｜optic 光学装置｜clockwork 发条｜stairwell 楼梯井｜blinked 一闪一闪
 
 **§4**（10词）silver 银｜copper 铜｜tarnished 熏暗的｜pitted 蚀出麻点的｜corrosion 锈蚀｜burnished 擦亮｜opticians 光学工匠（复）｜grind 磨｜edinburgh 爱丁堡｜licence 许可
 
-**§5**（10词）outlived 活得比…久｜halogen 卤素｜xenon 氙｜bulb 灯泡｜automated 自动化的｜logbook 航海日志｜revolving 转动的｜mariners 水手（复）｜decommissioned 退役的｜plinth 基座
+**§5**（10词）outlived 熬过；比…活得久｜halogen 卤素｜xenon 氙｜bulb 灯泡｜automated 自动化的｜logbook 值班日志｜revolving 转动的｜mariners 水手（复）｜decommissioned 退役的｜plinth 基座
 
 ---
 
@@ -67,3 +67,4 @@ The glass **outlived** the flame: it became electricity, a **halogen** or **xeno
 - **★★ 审读团（2026-09-04，五个观众，见 notes/审读-70.md）**：十一处 A 全改——「the farther its radiance」补 reaches；「gallery's pinnacle」改「above the gallery」；「fed rapeseed and whale-oil」改「fed rapeseed oil and whale-oil」；「A ship saw a few miles」改「saw the gleam miles off」；§3 光学一句改成能懂的「接住本要飞向天空和海面的光，折射到海平线上」；「a weight on a winch wound up the stairwell」改「driven by a weight the keeper winched up the stairwell」；「The British」与「Scottish board」打架，改 The English／Edinburgh；「glass-house could grind one」改「opticians could grind a lens」；「kept theirs decades over a licence」改「kept theirs for decades, tied to a licence」；末句逗号拼接改破折号；括注 sooty「冒烟的」改「熏黑的」。**硕士生点出的九个不值得背的名额换了六个**（lamp→gleam、tons→horizon、Scottish→Edinburgh、glass-house→opticians、pinnacle→foghorn、buoy→murk），silver／copper／xenon 留（换无可换）。**博士问「a few miles」贬低前技术**——改为 gleam miles off，不再给数。**hyper-radial 十吨那句删去**（本科生不知道 hyper-radial 是什么，句子又占九个词）。
 - **⚠ BAL-06 判为保留**：段长 41/66/68/42/54——通说段与英国段短，油灯段与光学段要装东西。
 - **⚠ BAL-02b 两处判为保留**：§1 24.4%（通说段摆灯塔的画）；§4 23.8%（镜片四个动作一句排开）。与第64—69篇 §1 同理。
+- **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-70.md）**：四处 A——「活得比(outlived)」括注劈词改「熬过了」；「航海日志(logbook)」误译改「值班日志」；「焦(focal)点」劈词改「焦点」；「熏黑的火焰」搭配错改「烟熏火燎的」。B：「火一直是小的」改「火从来就不大」；「光辉…照得越远」改「传得」并补「整夜」；「每夜擦亮」改「每夜都得擦亮」；「光学器」改「光学装置」。

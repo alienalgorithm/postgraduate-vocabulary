@@ -2256,6 +2256,14 @@ _r29 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/readers.py"),
 check("dry-run：五个观众的系统提示各含自己那一节", all(("观众%s" % k) in _r29 for k in "一二三四五") and "只输出一个 JSON 数组" in _r29)
 check("章程有 bot 方式一节", "## bot 方式" in open(os.path.join(ROOT, "notes/审读团.md"), encoding="utf-8").read())
 
+
+# ── 中文审读团（2026-09-04，用户指令：中文丝滑、地道、精准）──────────
+print("\n[中文审读团] 五个中文观众")
+check("中文章程存在且五个观众齐", all(x in open(os.path.join(ROOT, "notes/中文审读团.md"), encoding="utf-8").read() for x in ("观众一", "观众二", "观众三", "观众四", "观众五", "汇总规则")))
+_r30 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/readers.py"), "70", "--zh", "--run", "--dry-run"], capture_output=True, text=True, timeout=120).stdout
+check("--zh dry-run：观众一只见中文、观众三见中英", "中文审读团" in _r30 and "§1 **灯塔**(lighthouse)" in _r30 and "§1 A **lighthouse**" in _r30)
+check("第70篇中文报告存在且有汇总表", "| 句 | 谁点到 | 等级 | 改句 |" in open(os.path.join(ROOT, "notes/中文审读-70.md"), encoding="utf-8").read())
+
 print("=" * 62)
 print(f"通过 {ok} · 失败 {fail}")
 sys.exit(1 if fail else 0)

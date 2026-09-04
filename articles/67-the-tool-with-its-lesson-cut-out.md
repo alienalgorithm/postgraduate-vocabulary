@@ -28,11 +28,11 @@ The word jigsaw came a century later, with **cardboard**, **plywood**, **die-cut
 
 **拼图**(jigsaw)是一种**消遣**(pastime)：一间**小屋**(cottage)或一只**小猫**(kitten)切成一千片，在一个**下雨的**(rainy)下午倒成**一堆**(heap)**乱片**(jumble)摊在**炉边**(fireside)，**天空那几片**(sky-pieces)留到最后，乐趣全在拼回去。它是唯一一种卖出来时就是碎的**谜题**(puzzle)。
 
-头一百五十年里它不是玩具，也没有图画。1763 年伦敦的一份**行名录**(directory)把约翰·斯皮尔斯伯里——一位**制图师**(cartographer)的学徒——登记为「木上地图解剖师，以便利**地理**(geography)教学」：他在**工作台**(workbench)上把一幅地图**粘**(glued)到一片**桃花心木**(mahogany)**薄板**(veneer)上，沿着**国界**(borders)**锯**(sawed)开。片与片不咬合；能把这本**地图册**(atlas)拼回去的孩子，就知道普鲁士在哪里结束。
+头一百五十年里它不是玩具，也没有图画。1763 年伦敦的一份**行名录**(directory)把约翰·斯皮尔斯伯里——一位**制图师**(cartographer)的学徒——登记为「木上地图解剖师，以便利**地理**(geography)教学」：他在**工作台**(workbench)上把一幅地图**粘**(glued)到一片**桃花心木**(mahogany)**薄板**(veneer)上，沿着**国界**(borders)**锯**(sawed)开。片与片不咬合；能把这本**地图册**(atlas)拼回去的孩子，就知道普鲁士的边界在哪儿。
 
-王室**女家庭教师**(governess)在**宫里**(palace)存着一**柜**(cabinet)这样的东西，用它们教乔治三世十五个**王子**(princes)和**公主**(princesses)里的十四个——教到**课本**(lesson-book)教不到的地方。一套要两几尼，卖给**寄宿学校**(boarding-school)和**客厅**(drawing-room)；《曼斯菲尔德庄园》里，**一文不名的**(penniless)表妹因为拼不出欧洲，被有钱的**表姐妹们**(cousins)嘲笑。
+王室**女家庭教师**(governess)在**宫里**(palace)存着一**柜**(cabinet)这样的东西，用它们教乔治三世十五个**王子**(princes)和**公主**(princesses)里的十四个——教到**课本**(lesson-book)教不到的地方。一套要两几尼，卖到**寄宿学校**(boarding-school)和上流人家的**客厅**(drawing-room)；《曼斯菲尔德庄园》里，**一文不名的**(penniless)表妹因为拼不出欧洲，被有钱的**表姐妹们**(cousins)嘲笑。
 
-刀沿着**海岸线**(coastline)、**半岛**(peninsula)、**群岛**(archipelago)、诸**王国**(kingdoms)和每一个**公国**(duchy)的**疆界**(boundaries)走，那就是课：**指尖**(fingertips)先于眼睛记住一个国家的形状。**教室**(schoolroom)可以**背诵**(recite)；一幅解剖地图是一场独自应试的**考试**(exam)，背诵过不了它。
+刀沿着**海岸线**(coastline)、**半岛**(peninsula)、**群岛**(archipelago)、诸**王国**(kingdoms)和每一个**公国**(duchy)的**疆界**(boundaries)走，那就是课：**指尖**(fingertips)先于眼睛记住一个国家的形状。**课堂**(schoolroom)上可以**背诵**(recite)；一幅解剖地图是一场独自应试的**考试**(exam)，背诵过不了它。
 
 「jigsaw」这个词一个世纪后才来，随**硬纸板**(cardboard)、**胶合板**(plywood)、**模切**(die-cut)的**咬合**(interlocking)**榫舌**(tabs)一起来——那时刀离开了国界，一片不再是一个**王国**(realm)或**公国**(principality)，只是一角天空。图画上了正面；拼图从一件要**记住**(memorise)的东西变成一件要做的东西；**大萧条**(Depression)里每家**药店**(drugstore)都卖，一周一千万套。玩具，就是把课挖掉之后的教具。
 
@@ -46,7 +46,7 @@ The word jigsaw came a century later, with **cardboard**, **plywood**, **die-cut
 
 **§3**（10词）governess 女家庭教师｜cabinet 柜｜palace 宫｜princes 王子（复）｜princesses 公主（复）｜lesson-book 课本｜boarding-school 寄宿学校｜drawing-room 客厅｜penniless 一文不名的｜cousins 表姐妹（复）
 
-**§4**（10词）coastline 海岸线｜peninsula 半岛｜archipelago 群岛｜boundaries 疆界（复）｜kingdoms 王国（复）｜duchy 公国｜fingertips 指尖（复）｜schoolroom 教室｜recite 背诵｜exam 考试
+**§4**（10词）coastline 海岸线｜peninsula 半岛｜archipelago 群岛｜boundaries 疆界（复）｜kingdoms 王国（复）｜duchy 公国｜fingertips 指尖（复）｜schoolroom 课堂；教室｜recite 背诵｜exam 考试
 
 **§5**（10词）cardboard 硬纸板｜plywood 胶合板｜die-cut 模切的｜interlocking 咬合的｜tabs 榫舌（复）｜realm 领域；王国｜principality 公国｜memorise 记住｜depression 大萧条｜drugstore 药店
 
@@ -64,3 +64,4 @@ The word jigsaw came a century later, with **cardboard**, **plywood**, **die-cut
 - **本篇的机制边界**：这不是「拼图不好玩」的故事。**斯皮尔斯伯里也未必是发明者**——1759 年博蒙夫人已在用木制解剖地图，他是把它做成商品的人。**本文的论点在一个更窄的地方：这件东西的第一个用途是让手记住国界，它作为教具的一百五十年比作为玩具的一百年更长；而使它变成玩具的，不是图画的加入，是刀不再沿国界走。**
 - **⚠ BAL-02b 两处判为保留**：§1 22.7%——通说段把雨天客厅的物件一口气列出（小屋、小猫、乱片、炉边、天空那几片），密是因为那一段就是在摆画面；§4 22.2%——机制段把刀走过的地形一口气列出（海岸线、半岛、群岛、王国、公国），密是因为那一段就是那把锯的路线。两段与第64、65篇 §1 同理。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-67.md）**：七处 A——「mocked by the heiress」事实不准（伯特伦姐妹不是继承人）改 by her rich cousins；「14 of 15」改 all but one of George III's fifteen；「cost two guineas, for」改 and went to；「cartographer's apprentice」补冠词；「reciting failed it」改 no reciting passed it；「left borders」补 the；「not memorise」改 not to memorise。括注 realm 与 kingdoms 同为「王国」，realm 改「领域；王国」。为等长删去 Lady Charlotte Finch 之名（facts 仍有）。
+- **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-67.md）**：零 A。B：「普鲁士在哪里结束」「卖给客厅」「教室可以背诵」三处欧化改掉。

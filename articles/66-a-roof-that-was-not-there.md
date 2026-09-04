@@ -26,11 +26,11 @@ The **refugees** at Moorfields thatched their **huts**. The City rose in **brick
 > 铁律：英文加粗词在中文里对应的译法同样加粗，后附 `(english)` 括注词源。
 > 中文按最自然的说法写，加粗落在自然说法上——不为对齐扭曲句法。
 
-每本**故事书**(storybook)都这么讲 1666 年大火是怎么烧开的：布丁巷一家**面包房**(bakery)里的一点**火星**(spark)，**芦苇**(reed)和**麦秸**(straw)从一根**椽子**(rafter)烧到另一根，烧遍一座**茅草**(thatch)的城，**余烬**(cinders)随风飞，**大火**(blaze)沿着头顶的**引火物**(kindling)狂奔。消防局自己的网页也是这么写的。
+每本**故事书**(storybook)都这么讲 1666 年大火是怎么烧起来的：布丁巷一家**面包房**(bakery)里的一点**火星**(spark)，**芦苇**(reed)和**麦秸**(straw)从一根**椽子**(rafter)烧到另一根，烧遍一座**茅草**(thatch)的城，**余烬**(cinders)随风飞，**大火**(blaze)沿着头顶的**引火物**(kindling)狂奔。消防局自己的网页也是这么写的。
 
-茅草在伦敦城里已经被禁了 450 年。1212 年一场火烧死了全城 20,000 人里的约 3,000。两天后**市长**(mayor)下令**营造者们**(builders)只准用**瓦**(tile)、**木瓦**(shingle)、**木板**(boards)或铅盖顶，不准用芦苇、**灯芯草**(rush)或任何**碎草**(litter)；已经盖了茅草的房子八天内**抹灰**(plastered)，否则由**市政官们**(aldermen)**拆掉**(demolished)。
+茅草在伦敦城里已经被禁了 450 年。1212 年一场火烧死了全城 20,000 人里的约 3,000。两天后**市长**(mayor)下令**营造匠**(builders)只准用**瓦**(tile)、**木瓦**(shingle)、**木板**(boards)或铅盖顶，不准用芦苇、**灯芯草**(rush)或任何**碎草**(litter)；已经盖了茅草的房子须在八天内**抹灰**(plastered)，否则由**市政官**(aldermen)**拆掉**(demolished)。
 
-规矩配着工具。每位**市政官**(alderman)备一根铁钩，用来把茅草从屋顶上拽下来；每户大宅备梯子、**桶**(pail)和**水桶**(bucket)；**教区差役**(beadle)带号角，**守夜人**(watchman)和**提灯人**(lantern-bearer)在**宵禁**(curfew)后巡夜，**市治安官们**(sheriffs)查验工程，懈怠的值夜要**罚款**(fined)。1598 年斯托写道，自那以后再没有这样的大火。
+规矩配着工具。每位**市政官**(alderman)备一根铁钩，用来把茅草从屋顶上拽下来；每户大宅备梯子、**提桶**(pail)和**水桶**(bucket)；**教区差役**(beadle)带号角，**守夜人**(watchman)和**提灯人**(lantern-bearer)在**宵禁**(curfew)后巡夜，**市治安官**(sheriffs)查验工程，懈怠的值夜要**罚款**(fined)。1598 年斯托写道，自那以后再没有这样的大火。
 
 到 1666 年，几乎每个屋顶都是瓦，面包房也是。当时没有一份记述怪罪茅草；两份怪罪房子：**篱笆**(wattle)墙经过一场**大旱**(drought)干得像**火绒**(tinder)，上层楼**悬挑**(overhang)到**小巷**(alley)上方几乎碰到一起，**货栈**(warehouses)里堆着**焦油**(tar)、**牛脂**(tallow)和**火药**(gunpowder)。火沿着木头和**出挑楼层**(jetties)跑；头顶的屋顶从来不要紧。
 
@@ -42,9 +42,9 @@ The **refugees** at Moorfields thatched their **huts**. The City rose in **brick
 
 **§1**（10词）storybook 故事书｜spark 火星｜bakery 面包房｜reed 芦苇｜straw 麦秸｜rafter 椽子｜thatch 茅草｜cinders 余烬（复）｜blaze 大火｜kindling 引火物
 
-**§2**（10词）mayor 市长｜builders 营造者们｜tile 瓦｜shingle 木瓦｜boards 木板（复）｜rush 灯芯草｜litter 碎草｜plastered 抹灰的｜demolished 拆除｜aldermen 市政官们
+**§2**（10词）mayor 市长｜builders 营造匠｜tile 瓦｜shingle 木瓦｜boards 木板（复）｜rush 灯芯草｜litter 碎草｜plastered 抹灰的｜demolished 拆除｜aldermen 市政官
 
-**§3**（9词）alderman 市政官｜pail 桶｜bucket 水桶｜beadle 教区差役｜watchman 守夜人｜lantern-bearer 提灯人｜curfew 宵禁｜sheriffs 市治安官（复）｜fined 罚款
+**§3**（9词）alderman 市政官｜pail 提桶｜bucket 水桶｜beadle 教区差役｜watchman 守夜人｜lantern-bearer 提灯人｜curfew 宵禁｜sheriffs 市治安官｜fined 罚款
 
 **§4**（10词）wattle 篱笆墙｜tinder 火绒｜drought 大旱｜overhang 悬挑｜alley 小巷｜warehouses 货栈（复）｜tar 焦油｜tallow 牛脂｜gunpowder 火药｜jetties 出挑楼层（复）
 
@@ -65,3 +65,4 @@ The **refugees** at Moorfields thatched their **huts**. The City rose in **brick
 - **本篇的机制边界**：这不是「1666 年的火不严重」的故事。**13,200 所房屋、87 座教堂、圣保罗大教堂，全烧了。****本文的论点在一个更窄的地方：烧的是什么。一条 1212 年的规矩把茅草从伦敦城里清了四百五十年，以至于 1666 年没有一份记述提到它——而后世的故事把功劳记在了它头上，因为茅草比干透的木头更好讲。**
 - **★ 冷读改正（2026-09-04，隔日）**：「a house already thatched was plastered in eight days」——法令是「须」抹灰，改为 was to be plastered；「in overhang over the alley」改为 built out in overhang till they met across the alley。
 - **★★ 审读团（2026-09-04，人读，见 notes/审读-66.md）**：六处 A——「outlawed in the City 450 years」补 for；「3,000 of 20,000」改 some 3,000 of the city's 20,000（博士：来源 1,000—3,000）；「walked the curfew」改 kept curfew watch，中文「走宵禁」改「巡夜」；「nearly every roof was tiles」改 was tile（不加粗；tile／tiles 本占两个名额），名额换 warehouses；「riding the kindling」改 racing along；「a squirt」改「even the hand squirt」。括注 cinders「火星灰」改「余烬」、sheriffs「郡长」改「市治安官」（伦敦城的 sheriff 是市政官）。pail 与 bucket 同物，两个名额，留。
+- **★★ 中文审读团（2026-09-04，人读，见 notes/中文审读-66.md）**：零 A。B：「烧开的」改「烧起来的」；「营造者们」「市治安官们」「市政官们」去「们」；补「须在八天内」；pail 改「提桶」与 bucket 区分。
