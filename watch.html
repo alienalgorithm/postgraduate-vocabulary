@@ -153,7 +153,7 @@ addEventListener('keydown',e=>{ if(e.target.tagName==='SELECT')return;
 const id=(new URLSearchParams(location.search).get('a')||'01').padStart(2,'0');
 fetch('reader/a'+id+'.json').then(r=>r.json()).then(d=>{
   D=d; v.src='reader/a'+id+'.mp4'; $('#dl').href='reader/a'+id+'.mp4';
-  $('#ttl').firstChild.textContent='第'+id+'篇 · '+d.title;
+  $('#ttl').firstChild.textContent='第'+id+'篇 · '+d.title+(d.titleZh?'　'+d.titleZh:'');
   $('#sub').textContent='黑板视频 · 1920×1080 · '+d.sentences.length+' 句 · 英音女声（离线合成）';
   // 句子起点 = 前面各句「解码时长 + 句间停顿」的累加，与 make_video.py 用的是同一份数
   let t=0; MARK=d.sentences.map(s=>{ const at=t; t+=(s.qc&&s.qc.opus?s.qc.opus.dur:s.dur)+GAP; return at; });

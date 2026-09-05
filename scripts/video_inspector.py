@@ -129,6 +129,14 @@ def check_frames(d, W=1920, H=1080):
     ring[pad + safe_y:H - pad - safe_y, pad + safe_x:W - pad - safe_x] = False
     overflow, blank, tiny = [], [], []
     scales = []
+    # 标题页也要查（用户 2026-09-04：视频没有题目；加了标题页，它同样不许出黄框）
+    if hasattr(MV, "draw_title"):
+        ta = np.asarray(MV.draw_title(bg, d, W, H)).astype(int)
+        ttext = (ta[:, :, 0] > 170)
+        if int((ttext & ring).sum()):
+            overflow.append("标题页有文字落在守卫圈")
+        if int((ttext & ~ring).sum()) < 500:
+            blank.append("标题页几乎没有文字")
     for s in d["sentences"]:
         im = MV.draw_sentence(bg, s, W, H)
         a = np.asarray(im).astype(int)
@@ -158,7 +166,7 @@ def check_frames(d, W=1920, H=1080):
 
 # ═══════════ 三 · 音画 ═══════════
 
-def check_av(d, mp4, gap=0.32, tail=1.5):
+def check_av(d, mp4, gap=0.32, tail=1.5, title_sec=2.5):
     if not os.path.exists(mp4):
         ok("三·mp4 存在", False, mp4); return
     pr = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries",
@@ -170,8 +178,15 @@ def check_av(d, mp4, gap=0.32, tail=1.5):
     ok("三·AAC 音轨", "aac" in pa, pa)
     vd = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                                "-of", "csv=p=0", mp4], capture_output=True, text=True).stdout or 0)
-    want = sum((s.get("qc", {}).get("opus", {}).get("dur") or s["dur"]) + gap for s in d["sentences"]) + tail
-    ok("三·时长＝各句解码时长＋停顿＋结尾缓冲", abs(vd - want) < 0.3, "%.2f vs %.2f" % (vd, want))
+    want = (title_sec
+            + sum((s.get("qc", {}).get("opus", {}).get("dur") or s["dur"]) + gap for s in d["sentences"])
+            + tail)
+    ok("三·时长＝标题页＋各句解码时长＋停顿＋结尾缓冲", abs(vd - want) < 0.3, "%.2f vs %.2f" % (vd, want))
+    # 标题页那段必须是静音
+    mt = re.search(r"mean_volume:\s*(-?[\d.]+)", subprocess.run(
+        ["ffmpeg", "-v", "info", "-ss", "0.2", "-to", str(max(0.4, title_sec - 0.3)), "-i", mp4,
+         "-af", "volumedetect", "-f", "null", "-"], capture_output=True, text=True).stderr)
+    ok("三·标题页是静音", mt and float(mt.group(1)) < -60, mt.group(0) if mt else "?")
     m = re.search(r"mean_volume:\s*(-?[\d.]+)", subprocess.run(
         ["ffmpeg", "-v", "info", "-ss", str(max(0, vd - tail + 0.25)), "-i", mp4,
          "-af", "volumedetect", "-f", "null", "-"], capture_output=True, text=True).stderr)

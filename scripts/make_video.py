@@ -223,12 +223,58 @@ def draw_sentence(bg, s, W, H):
     return im
 
 
+def draw_title(bg, d, W, H):
+    """标题页：第几篇 + 英文标题 + 中文标题。
+    ★ 用户 2026-09-04 指出「两篇都没有题目」——视频一上来就是第一句，谁也不知道在讲什么。
+      放在正片之前，同一块黑板，字号照样由大往小搜、不碰木框。"""
+    im = bg.copy()
+    dr = ImageDraw.Draw(im)
+    pad = int(W * 0.028)
+    safe_x, safe_y = int(W * 0.045), int(H * 0.055)
+    maxw = W - 2 * pad - 2 * safe_x
+    maxh = H - 2 * pad - 2 * safe_y
+    num = "第 %s 篇" % int(d['id'])
+    for cand in [round(2.2 - 0.02 * i, 2) for i in range(95)]:
+        fn = font(F_ZH, max(8, int(H * 0.036 * cand)), index=2)
+        fe = font(F_EN, max(8, int(H * 0.082 * cand)))
+        fz = font(F_ZH, max(8, int(H * 0.062 * cand)), index=2)
+        sp = dr.textlength(" ", font=fe)
+        le = wrap(dr, [(w, False, False) for w in d['title'].split()], fe, maxw, sp)
+        lz = wrap(dr, [(c, True, True) for c in (d.get('titleZh') or "")], fz, maxw, 0)
+        lh_e, lh_z, lh_n = int(H * .108 * cand), int(H * .086 * cand), int(H * .062 * cand)
+        total = lh_n + int(H * .045 * cand) + len(le) * lh_e + int(H * .035 * cand) + len(lz) * lh_z
+        over = any(w > maxw for ln in le + lz for _, _, w, _ in ln)
+        if not over and total <= maxh:
+            break
+    y = (H - total) // 2
+    wn = dr.textlength(num, font=fn)
+    dr.text(((W - wn) / 2, y), num, font=fn, fill=(190, 214, 210))
+    y += lh_n + int(H * .045 * cand)
+    for ln in le:
+        wsum = sum(w for _, _, w, _ in ln) + sum(sp for _, _, _, g in ln[1:] if not g)
+        x = (W - wsum) / 2
+        for i, (tok, _, w, glue) in enumerate(ln):
+            if i and not glue:
+                x += sp
+            dr.text((x, y), tok, font=fe, fill=CHALK); x += w
+        y += lh_e
+    y += int(H * .035 * cand)
+    for ln in lz:
+        wsum = sum(w for _, _, w, _ in ln)
+        x = (W - wsum) / 2
+        for tok, _, w, _ in ln:
+            dr.text((x, y), tok, font=fz, fill=GOLD); x += w
+        y += lh_z
+    return im
+
+
 def main():
     args = [x for x in sys.argv[1:] if not x.startswith("--")]
     aid = (args[0] if args else "01").zfill(2)
     gap = float(sys.argv[sys.argv.index("--gap") + 1]) if "--gap" in sys.argv else 0.32
     # ★ 结尾缓冲（用户 2026-09-04）：最后一句读完再留一段静音，画面还在，然后才结束。
     tail = float(sys.argv[sys.argv.index("--tail") + 1]) if "--tail" in sys.argv else 1.5
+    title_sec = float(sys.argv[sys.argv.index("--title") + 1]) if "--title" in sys.argv else 2.5
     size = sys.argv[sys.argv.index("--size") + 1] if "--size" in sys.argv else "1920x1080"
     W, H = (int(x) for x in size.split("x"))
 
@@ -239,6 +285,11 @@ def main():
 
     bg = board_bg(W, H)
     concat_img, concat_aud = [], []
+    # ★ 标题页：正片之前 TITLE 秒，无声
+    tpng = os.path.join(work, "f00.png")
+    draw_title(bg, data, W, H).save(tpng)
+    concat_img.append("file '%s'\nduration %.3f\n" % (tpng, title_sec))
+    print("  00  %5.2fs  【标题】%s / %s" % (title_sec, data['title'], data.get('titleZh', '')))
     for s in data['sentences']:
         png = os.path.join(work, "f%02d.png" % s['i'])
         draw_sentence(bg, s, W, H).save(png)
@@ -260,7 +311,9 @@ def main():
     inputs = []
     for s in data['sentences']:
         inputs += ["-i", os.path.join(READER, s['audioAlt'])]
-    filt = "".join("[%d:a]apad=pad_dur=%.3f[a%d];" % (i, gap, i) for i in range(len(data['sentences'])))
+    filt = "[0:a]adelay=%d:all=1[d0];" % int(title_sec * 1000)          # 标题页那段是静音
+    filt += "[d0]apad=pad_dur=%.3f[a0];" % gap
+    filt += "".join("[%d:a]apad=pad_dur=%.3f[a%d];" % (i, gap, i) for i in range(1, len(data['sentences'])))
     filt += "".join("[a%d]" % i for i in range(len(data['sentences'])))
     filt += "concat=n=%d:v=0:a=1[cat];[cat]apad=pad_dur=%.3f[out]" % (len(data['sentences']), tail)
     wav = os.path.join(work, "all.wav")

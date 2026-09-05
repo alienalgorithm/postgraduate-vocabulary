@@ -451,7 +451,8 @@ def main():
 
     sents = [x for x in sents if x]
     sents.sort(key=lambda x: x['i'])
-    data = {"id": aid, "title": art['title'], "voice": voice, "speed": speed,
+    data = {"id": aid, "title": art['title'], "titleZh": art.get('titleZh', ''),
+            "voice": voice, "speed": speed,
             "total": round(sum(s['dur'] for s in sents), 1), "sentences": sents}
     json.dump(data, open(jpath, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print("\n第%s篇 · %d/%d 句 · %.1f 秒 · %s → reader/a%s.json"

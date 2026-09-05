@@ -253,7 +253,7 @@ addEventListener('keydown',e=>{
 const id=(new URLSearchParams(location.search).get('a')||'01').padStart(2,'0');
 fetch('reader/a'+id+'.json').then(r=>r.json()).then(d=>{
   D=d;
-  $('#ttl').firstChild.textContent='第'+id+'篇 · '+d.title;
+  $('#ttl').firstChild.textContent='第'+id+'篇 · '+d.title+(d.titleZh?'　'+d.titleZh:'');
   $('#sub').textContent='跟读 · '+d.sentences.length+' 句 · '+Math.round(d.total)+' 秒 · 英音女声（离线合成）';
   $('#meta').textContent='空格播放/暂停，← → 换句。重点词在英文与中文里都是金色。';
   $('#track').max=d.sentences.length-1;
