@@ -2382,6 +2382,14 @@ check("视频检察官三层全过（含按像素查溢出）", _vi.returncode =
       "\n".join(l for l in _vi.stdout.split("\n") if "✗" in l)[:300])
 _vi2 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspector.py"), "02"],
                       capture_output=True, text=True, timeout=600)
+_vi3 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspector.py"), "03"],
+                      capture_output=True, text=True, timeout=600)
+check("第03篇视频检察官全过", _vi3.returncode == 0 and "全部通过" in _vi3.stdout,
+      "\n".join(l for l in _vi3.stdout.split("\n") if "✗" in l)[:300])
+check("数字锚点是双向的（中文有阿拉伯数字英文没有也罚）", "not en_num" in _br and "MONTH_RE" in _br)
+check("「是…的」不算中文悬尾、带标点收尾不算断在半路", all(
+    x in open(os.path.join(ROOT, "scripts/check_chunks.py"), encoding="utf-8").read()
+    for x in ("de_ok", "带标点收尾的不算劈开")))
 check("第02篇视频检察官全过", _vi2.returncode == 0 and "全部通过" in _vi2.stdout,
       "\n".join(l for l in _vi2.stdout.split("\n") if "✗" in l)[:300])
 _br = open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()

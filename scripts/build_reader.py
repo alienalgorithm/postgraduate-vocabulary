@@ -140,6 +140,7 @@ PREP = {"of", "in", "on", "at", "by", "for", "with", "from", "to", "into", "over
 DATEWORD = {"january", "february", "march", "april", "may", "june", "july", "august",
             "september", "october", "november", "december", "monday", "tuesday",
             "wednesday", "thursday", "friday", "saturday", "sunday"}
+MONTH_RE = re.compile(r"\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b", re.I)
 CN_NUM = "〇零一二两三四五六七八九十百千万亿"
 ZH_PUNCT = "，。；：、！？—"
 
@@ -245,11 +246,18 @@ def align_chunks(en, zh):
         #     两段都没有重点词，锚点和否定词都看不出来，数字一比就露馅。
         # ★ 中文常把数字写成汉字（英文 30-centimetre → 中文「三十厘米」），
         #   只认阿拉伯数字会误判成「一边有数字一边没有」。
-        en_num = bool(re.search(r"\d", " ".join(toks[a:b])))
+        # 英文的月份名在中文里写成数字（May → 5 月），也算带数字
+        en_txt = " ".join(toks[a:b])
+        en_num = bool(re.search(r"\d", en_txt)) or bool(MONTH_RE.search(en_txt))
         # 汉字数字只认两字以上（三十／五十）；单字「一位」「两处」是量词
         zh_num = bool(re.search(r"\d", piece)) or bool(re.search(r"[%s]{2,}" % CN_NUM, piece))
-        if en_num and not zh_num:        # 反过来不罚：中文的序数量词不是英文的数字
-            cost += 20
+        if en_num and not zh_num:
+            cost += 34
+        # ★ 反向也要罚，但只认**阿拉伯数字**：中文的「第二」「一条」是序数量词（汉字），
+        #   而「1985 年 5 月 16 日」是真数字。第03篇 §13 日期在中文句首、英文句尾，
+        #   语序相反却被拆开，就是靠这一条逮住的。
+        if bool(re.search(r"\d", piece)) and not en_num:
+            cost += 34
         # 三 · 段落别太长太短
         # ★ 超长段重罚：中文明明有逗号可切，却因为「英文这里没标点」被压着不拆，
         #   就会留下 18 词一段（第02篇 §1）。罚重了，长段才拆得动。

@@ -18,8 +18,9 @@ os.chdir(ROOT)
 BAR = "─" * 66
 fails = []
 
-def run(name, cmd, ok_if=None):
-    r = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=300)
+def run(name, cmd, ok_if=None, timeout=300):
+    # ★ 回归测试与闸门演习要渲帧、要 ffprobe，300 秒不够（第03篇之后就超了）。
+    r = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=timeout)
     out = (r.stdout + r.stderr).strip()
     good = (r.returncode == 0) if ok_if is None else ok_if(out)
     print(f"{'✓' if good else '✗'} {name}")
@@ -30,7 +31,7 @@ def run(name, cmd, ok_if=None):
 
 print(BAR); print("起飞前检查"); print(BAR)
 
-run("工具回归测试（锁住每个已修缺陷）", "python3 scripts/test_tools.py",
+run("工具回归测试（锁住每个已修缺陷）", "python3 scripts/test_tools.py", timeout=2400,
     lambda o: "失败 0" in o)
 # ★《总令》里的数是脚本从库里注进去的，不是手写的。
 # 库变了而没刷新，下次会话就会从过期的地图出发——**实测手工更新的数，
@@ -42,7 +43,7 @@ run("markdown 构建与全部结构校验", "python3 scripts/build_markdown.py",
 run("markdown 与数据层同步", "git diff --exit-code -- articles")
 run("意群对齐检查员（每篇 reader/aNN.json 零 A 级）",
     "python3 scripts/check_chunks.py --selftest >/dev/null && for f in reader/a[0-9][0-9].json; do [ -e \"$f\" ] || continue; n=$(basename $f .json); python3 scripts/check_chunks.py ${n#a} --quiet >/dev/null || exit 1; done")
-run("闸门演习（每条标准故意做坏，看检察官响不响）", "python3 scripts/gate_drill.py >/dev/null")
+run("闸门演习（每条标准故意做坏，看检察官响不响）", "python3 scripts/gate_drill.py >/dev/null", timeout=1200)
 run("学习大纲与数据层同步", "python3 scripts/syllabus.py >/dev/null && git diff --exit-code -- exports/syllabus.json exports/学习大纲.md")
 run("Anki 导出与数据层同步", "python3 scripts/export_anki.py >/dev/null && git diff --exit-code -- exports/anki-3500.tsv")
 # **写 manifest 前必须先跑 build_markdown。** 顺序颠倒会导致指纹对不上：

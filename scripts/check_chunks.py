@@ -187,7 +187,10 @@ def check_sentence(s):
             tail = we[-1] if we else ""
             nxt = en_words(chunks[i]["en"])[0].lower().strip(",.;:!?") if en_words(chunks[i]["en"]) else ""
             bare = tail.lower().strip(",.;:!?—")
-            if bare in EN_BAD_TAIL:
+            # ★ 带标点收尾的不算劈开：「To settle which,」是原文自带的完整状语，
+            #   中文「为了判定究竟是哪一种，」也正好对上（第03篇 §10 被误报成 A）。
+            #   真正被劈开的是「and went house」「the dead drew」这种**后面没有标点**的。
+            if bare in EN_BAD_TAIL and not re.search(r"[,;:.!?—]$", tail):
                 F.append(("A", i, "英文断在半路", "这段以「%s」收尾，词组被劈开了" % tail, "边界前移或后移"))
             elif not re.search(r"[,;:.!?—]$", tail) and nxt not in OPENERS:
                 F.append(("B", i, "英文无标点断开", "「%s | %s」之间没有标点，下一词也不是开头词" % (tail, nxt), "看一眼是否自然"))
@@ -196,7 +199,10 @@ def check_sentence(s):
 
         # 八 · 中文悬尾
         plain = GLOSS.sub(r"\1", cz).rstrip("，。；：、！？— ")
-        if plain and plain[-1] in ZH_BAD_TAIL and i < len(chunks):
+        # ★ 「是…的」「而…的」「得…的」是完整的判断句，不是悬尾（第03篇 §9「而设的」、
+        #   §10「就是错的」被误报成 A）。真正的悬尾是「住在附近的」这种光杆定语。
+        de_ok = plain.endswith("的") and re.search(r"[是为而得就]", plain[-6:-1] or "")
+        if plain and plain[-1] in ZH_BAD_TAIL and i < len(chunks) and not de_ok:
             F.append(("A", i, "中文悬尾", "这段以「%s」收尾，结构没收住" % plain[-1], "边界后移"))
         if wz < 2:
             F.append(("B", i, "中文段过短", "只有 %d 个字" % wz, "并入邻段"))
