@@ -2394,6 +2394,10 @@ check("句间停顿 ≥ 0.4 秒", float(re.search(r'"--gap" in sys\.argv else ([
 _vsrc = open(os.path.join(ROOT, "scripts/video_inspector.py"), encoding="utf-8").read()
 check("标题不折行两条闸都在", all(x in _vsrc for x in ("标题不折行", "标题字号不小于 0.85")))
 check("标题必须一行（放不下就缩字号，不折行）", "len(le) == 1 and len(lz) <= 1" in _mv)
+_gd = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/gate_drill.py")],
+                     capture_output=True, text=True, timeout=900)
+check("闸门演习：每条标准故意做坏，检察官全都响", _gd.returncode == 0 and "全部响了" in _gd.stdout,
+      "\n".join(l for l in _gd.stdout.split("\n") if "没响" in l)[:300])
 check("三道闸都在检察官里", all(x in _vsrc for x in ("标题页不写「第几篇」", "标题页真的在念", "句间停顿 ≥ 0.4 秒")))
 check("json 带中文标题", all(json.load(open(os.path.join(ROOT, "reader/a%s.json" % x), encoding="utf-8")).get("titleZh")
                        for x in ("01", "02")))

@@ -42,6 +42,7 @@ run("markdown 构建与全部结构校验", "python3 scripts/build_markdown.py",
 run("markdown 与数据层同步", "git diff --exit-code -- articles")
 run("意群对齐检查员（每篇 reader/aNN.json 零 A 级）",
     "python3 scripts/check_chunks.py --selftest >/dev/null && for f in reader/a[0-9][0-9].json; do [ -e \"$f\" ] || continue; n=$(basename $f .json); python3 scripts/check_chunks.py ${n#a} --quiet >/dev/null || exit 1; done")
+run("闸门演习（每条标准故意做坏，看检察官响不响）", "python3 scripts/gate_drill.py >/dev/null")
 run("学习大纲与数据层同步", "python3 scripts/syllabus.py >/dev/null && git diff --exit-code -- exports/syllabus.json exports/学习大纲.md")
 run("Anki 导出与数据层同步", "python3 scripts/export_anki.py >/dev/null && git diff --exit-code -- exports/anki-3500.tsv")
 # **写 manifest 前必须先跑 build_markdown。** 顺序颠倒会导致指纹对不上：
