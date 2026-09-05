@@ -140,6 +140,20 @@ def check_frames(d, W=1920, H=1080):
             overflow.append("标题页有文字落在守卫圈")
         if int((ttext & ~ring).sum()) < 500:
             blank.append("标题页几乎没有文字")
+        # ★ 闸 · 标题不许折行（用户 2026-09-04）。按像素数文字行数：
+        #   有文字的行连成几段，就是几行；英文一段、中文一段，合计应为 2。
+        rows = ttext.any(axis=1)
+        bands, prev = 0, False
+        for v in rows:
+            if v and not prev:
+                bands += 1
+            prev = v
+        ok("二·标题不折行（英文一行、中文一行）", bands <= 2, "数出 %d 行" % bands)
+        # ★ 只查行数不够：标题太长时字号会一路缩到很小，仍是一行但小得不像标题。
+        #   两条一起才封得住——不许折行，也不许为了不折行缩成蚂蚁。
+        tsc = getattr(MV, "LAST_TITLE_SCALE", None)
+        ok("二·标题字号不小于 0.85 档（不为了不折行缩成蚂蚁）",
+           tsc is None or tsc >= 0.85, "现为 %.2f 档" % tsc if tsc else "")
     for s in d["sentences"]:
         im = MV.draw_sentence(bg, s, W, H)
         a = np.asarray(im).astype(int)

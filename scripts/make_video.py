@@ -39,6 +39,7 @@ FRAME_L = (240, 196, 138)
 
 BOLD = re.compile(r"\*\*([^*]+)\*\*")
 LAST_SCALE = None
+LAST_TITLE_SCALE = None
 ZH_GLOSS = re.compile(r"\*\*([^*]+)\*\*\(([^)]+)\)")
 
 
@@ -234,18 +235,25 @@ def draw_title(bg, d, W, H):
     maxw = W - 2 * pad - 2 * safe_x
     maxh = H - 2 * pad - 2 * safe_y
     # ★ 用户 2026-09-04：不要写「第几篇」。标题页只放中英标题。
-    for cand in [round(2.2 - 0.02 * i, 2) for i in range(95)]:
+    for cand in [round(2.6 - 0.02 * i, 2) for i in range(120)]:
         fe = font(F_EN, max(8, int(H * 0.082 * cand)))
-        fz = font(F_ZH, max(8, int(H * 0.062 * cand)), index=2)
+        # 中文标题跟着英文缩，但比例给足——一行的标题，中文太小会显得没分量
+        fz = font(F_ZH, max(8, int(H * 0.072 * cand)), index=2)
         sp = dr.textlength(" ", font=fe)
         le = wrap(dr, [(w, False, False) for w in d['title'].split()], fe, maxw, sp)
         lz = wrap(dr, [(c, True, True) for c in (d.get('titleZh') or "")], fz, maxw, 0)
-        lh_e, lh_z = int(H * .112 * cand), int(H * .090 * cand)
-        total = len(le) * lh_e + int(H * .038 * cand) + len(lz) * lh_z
+        lh_e, lh_z = int(H * .108 * cand), int(H * .098 * cand)
+        gap_t = int(H * .050 * cand)
+        total = len(le) * lh_e + gap_t + len(lz) * lh_z
         over = any(w > maxw for ln in le + lz for _, _, w, _ in ln)
-        if not over and total <= maxh:
+        # ★ 标题**必须各占一行**（用户 2026-09-04：题目不要有折行）。
+        #   放不下就把字号往下调，而不是折成两行——标题折行很难看，也不像个题目。
+        if not over and total <= maxh and len(le) == 1 and len(lz) <= 1:
             break
-    y = (H - total) // 2
+    global LAST_TITLE_SCALE
+    LAST_TITLE_SCALE = cand                  # 给检察官看：标题缩到了哪一档
+    # 版面整体居中（略上移一点点，视觉重心才在中间）
+    y = (H - total) // 2 - int(H * 0.012)
     for ln in le:
         wsum = sum(w for _, _, w, _ in ln) + sum(sp for _, _, _, g in ln[1:] if not g)
         x = (W - wsum) / 2
@@ -254,7 +262,7 @@ def draw_title(bg, d, W, H):
                 x += sp
             dr.text((x, y), tok, font=fe, fill=CHALK); x += w
         y += lh_e
-    y += int(H * .038 * cand)
+    y += gap_t
     for ln in lz:
         wsum = sum(w for _, _, w, _ in ln)
         x = (W - wsum) / 2
