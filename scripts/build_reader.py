@@ -133,6 +133,14 @@ def split_sentences(en, zh):
 
 # ── 意群拆分（2026-09-04，用户要「不要上面一整句英文、下面一整句中文」）──────
 #    每一小段英文底下就跟着它自己的中文。中文切在哪，仍旧靠重点词括注当锚点。
+PREP = {"of", "in", "on", "at", "by", "for", "with", "from", "to", "into", "over",
+        "under", "near", "through", "across", "around", "beside", "between", "among",
+        "against", "the", "a", "an", "and", "or", "as", "than"}
+# 月份、星期虽是大写，却是日期的一半，不能当意群起点（「On 8 | September」是错的）
+DATEWORD = {"january", "february", "march", "april", "may", "june", "july", "august",
+            "september", "october", "november", "december", "monday", "tuesday",
+            "wednesday", "thursday", "friday", "saturday", "sunday"}
+CN_NUM = "〇零一二两三四五六七八九十百千万亿"
 ZH_PUNCT = "，。；：、！？—"
 
 
@@ -235,13 +243,18 @@ def align_chunks(en, zh):
         # 二之三 · 数字也是锚点。
         #   ★ 「died on 2 September;」原本被划进上一段，可它的中文「9 月 2 日」在下一段——
         #     两段都没有重点词，锚点和否定词都看不出来，数字一比就露馅。
+        # ★ 中文常把数字写成汉字（英文 30-centimetre → 中文「三十厘米」），
+        #   只认阿拉伯数字会误判成「一边有数字一边没有」。
         en_num = bool(re.search(r"\d", " ".join(toks[a:b])))
-        zh_num = bool(re.search(r"\d", piece))
-        if en_num != zh_num:
+        # 汉字数字只认两字以上（三十／五十）；单字「一位」「两处」是量词
+        zh_num = bool(re.search(r"\d", piece)) or bool(re.search(r"[%s]{2,}" % CN_NUM, piece))
+        if en_num and not zh_num:        # 反过来不罚：中文的序数量词不是英文的数字
             cost += 20
         # 三 · 段落别太长太短
+        # ★ 超长段重罚：中文明明有逗号可切，却因为「英文这里没标点」被压着不拆，
+        #   就会留下 18 词一段（第02篇 §1）。罚重了，长段才拆得动。
         if ew > 13:
-            cost += 2.4 * (ew - 13)
+            cost += 10 * (ew - 13)
         if ew < 3:
             cost += 7
         # 四 · 英文必须断在像样的地方——不然会切出「In September 1854 a」「on Broad」这种半截
@@ -252,7 +265,24 @@ def align_chunks(en, zh):
                 # 英文这里没有标点，但**下一个词是冠词/连词/代词这类开头词**的话，
                 # 本来就是一处自然停顿——「In September 1854 | a few streets…」。
                 # 下一个词是 to / of / Street 这种，就是把词组劈开了，重罚。
-                cost += 20 if nxt in OPEN else 60
+                nxt_raw = BOLD.sub(r"\1", toks[b]).strip("(\"'")
+                prev_w = BOLD.sub(r"\1", toks[b - 1]).lower().strip(",.;:!?")
+                # ★ 专名（大写词）是很强的意群起点——「Two days later | Jack Corliss…」；
+                #   但前一个词是介词/冠词时不算，那是把词组劈开（「on | Broad Street」）。
+                prev_raw = BOLD.sub(r"\1", toks[b - 1]).strip("(\"'")
+                # ★ 专名内部坚决不许断：「Broad | Street」「Jack | Corliss」「Galápagos | Rift」——
+                #   前一个词也是大写（且不是句首、不带句末标点），说明这是一个专名的中间。
+                inside_name = (nxt_raw[:1].isupper() and prev_raw[:1].isupper()
+                               and b - 1 > 0 and not re.search(r"[,;:.!?—]$", prev_raw))
+                if inside_name:
+                    cost += 200
+                elif (nxt_raw[:1].isupper() and b > 0 and prev_w not in PREP
+                        and nxt not in DATEWORD and not prev_w.isdigit()):
+                    cost += 4
+                elif nxt in OPEN:
+                    cost += 20
+                else:
+                    cost += 60
                 # 断在虚词后面（a / the / and / of…）更糟。
                 # ★ 这一条只在**没有标点**时才算：「doubted it,」的 it 后面有逗号，
                 #   那本来就是断句处，罚它的话就会退而切成「…doubted」，把动词和宾语劈开。

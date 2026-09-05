@@ -2376,6 +2376,14 @@ _vi = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspecto
                      capture_output=True, text=True, timeout=600)
 check("视频检察官三层全过（含按像素查溢出）", _vi.returncode == 0 and "全部通过" in _vi.stdout,
       "\n".join(l for l in _vi.stdout.split("\n") if "✗" in l)[:300])
+_vi2 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspector.py"), "02"],
+                      capture_output=True, text=True, timeout=600)
+check("第02篇视频检察官全过", _vi2.returncode == 0 and "全部通过" in _vi2.stdout,
+      "\n".join(l for l in _vi2.stdout.split("\n") if "✗" in l)[:300])
+_br = open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
+check("专名内部不许断（Broad|Street）", "inside_name" in _br and "cost += 200" in _br)
+check("数字判据认汉字且只单向要求", "CN_NUM" in _br and "en_num and not zh_num" in _br)
+check("月份星期不算意群起点", "DATEWORD" in _br)
 check("make_video 渲完自动过检察官、不过就删", "video_inspector.py" in _mv and "os.remove(out)" in _mv)
 check("避头尾：标点带前一字换行，不撑出安全区", "避头尾" in _mv and "last = cur.pop()" in _mv)
 check("字号由大往小搜（取放得下的最大号）", "由大往小搜" in open(

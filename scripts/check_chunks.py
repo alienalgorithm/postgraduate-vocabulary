@@ -27,6 +27,7 @@ import json
 from collections import Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CN_NUM = "〇零一二两三四五六七八九十百千万亿"
 BOLD = re.compile(r"\*\*([^*]+)\*\*")
 GLOSS = re.compile(r"\*\*([^*]+)\*\*\(([^)]+)\)")
 
@@ -79,8 +80,35 @@ def nums_en(t):
     return Counter(out)
 
 
+CN_DIGIT = {"〇": "0", "零": "0", "一": "1", "二": "2", "两": "2", "三": "3", "四": "4",
+            "五": "5", "六": "6", "七": "7", "八": "8", "九": "9"}
+
+
+def _cn2num(t):
+    """把「三十」「五十」「两」这类汉字数字折成阿拉伯数字，好跟英文比。
+    ★ 英文 30-centimetre / 50 metres，中文写「三十厘米」「五十米」——
+      只认阿拉伯数字会误判成「一边有数字一边没有」（第02篇 §5 就是这么被误报 A 的）。"""
+    out = []
+    for m in re.finditer(r"[〇零一二两三四五六七八九十百千万亿]+", t):
+        w = m.group(0)
+        # ★ 只认两字以上的汉字数字（三十／五十／一千）。单字「一位」「两处」「第二」
+        #   在中文里几乎都是量词或序数，算成数字会把「一位寡妇」当成有数字（自测逮到的）。
+        if len(w) < 2:
+            continue
+        if w == "十":
+            out.append("10"); continue
+        mm = re.fullmatch(r"([一二两三四五六七八九])?十([一二三四五六七八九])?", w)
+        if mm:
+            tens = CN_DIGIT.get(mm.group(1) or "一", "1")
+            out.append(tens + (CN_DIGIT.get(mm.group(2), "0") if mm.group(2) else "0")); continue
+        if all(c in CN_DIGIT for c in w):
+            out.append("".join(CN_DIGIT[c] for c in w))
+    return out
+
+
 def nums_zh(t):
-    return Counter(re.findall(r"\d+", GLOSS.sub(r"\1", t)))
+    t = GLOSS.sub(r"\1", t)
+    return Counter(re.findall(r"\d+", t) + _cn2num(t))
 
 
 # ═══════════ 单句检查 ═══════════
@@ -137,9 +165,11 @@ def check_sentence(s):
             F.append(("C", i, "否定词中多英少", "英文 %d 个否定词、中文 %d 个（多半是「不信／不该」译实义词）" % (ne, nz), "一般无碍"))
 
         # 五 · 数字两边对上（月份名折成数字；中文允许多出年月日里的序数）
+        # ★ 只在**英文有数字**时才要求中文也有：反过来不成立——中文的「第二」「一条」「两处」
+        #   是序数和量词，不是英文里的数字（第02篇 §13—15 全被这样误报成 A）。
         a, b = nums_en(ce), nums_zh(cz)
-        if (bool(a) != bool(b)):
-            F.append(("A", i, "数字不对", "英文 %s、中文 %s" % (dict(a) or "无", dict(b) or "无"), "带数字的那半句归错段了"))
+        if a and not b:
+            F.append(("A", i, "数字不对", "英文 %s、中文 %s" % (dict(a), dict(b) or "无"), "带数字的那半句归错段了"))
         else:
             missing = [x for x in a if a[x] > b.get(x, 0)]
             if missing:

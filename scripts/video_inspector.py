@@ -37,6 +37,7 @@ OPEN = {"a", "an", "the", "this", "that", "these", "those", "his", "her", "their
 CONJ = {"and", "but", "or", "so", "yet", "since", "because", "while", "when", "where",
         "which", "who", "that", "if", "though", "although", "after", "before", "until"}
 
+CN_NUM = "〇零一二两三四五六七八九十百千万亿"
 REPORT = []
 
 
@@ -79,7 +80,11 @@ def check_alignment(d):
             if len(gl) != len(keys):
                 bad_anchor.append(tag + " 括注数 %d ≠ 重点词数 %d" % (len(gl), len(keys)))
             # 数字
-            if bool(re.search(r"\d", c["en"])) != bool(re.search(r"\d", re.sub(r"\([^)]*\)", "", c["zh"]))):
+            # 中文可能把数字写成汉字（30-centimetre → 三十厘米），一并认
+            # 只在英文有数字时才要求中文也有（中文的「第二」「一条」是序数量词，反过来不成立）
+            zh_plain = re.sub(r"\([^)]*\)", "", c["zh"])
+            zh_has_num = bool(re.search(r"\d", zh_plain)) or bool(re.search(r"[%s]{2,}" % CN_NUM, zh_plain))
+            if re.search(r"\d", c["en"]) and not zh_has_num:
                 bad_num.append(tag)
             # 否定词
             en_neg = len(re.findall(r"\b(?:not|no|never|nothing|nobody|none|nor|neither|without)\b",
