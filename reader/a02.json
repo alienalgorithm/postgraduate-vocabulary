@@ -2,6 +2,34 @@
  "id": "02",
  "title": "A Garden Without Sunlight",
  "titleZh": "不见阳光的花园",
+ "titleTrack": {
+  "text": "A Garden Without Sunlight",
+  "dur": 1.697,
+  "times": [
+   0,
+   30,
+   1500,
+   1640
+  ],
+  "audio": "audio/a02-00.m4a",
+  "audioAlt": "audio/a02-00.opus",
+  "qc": {
+   "m4a": {
+    "ok": true,
+    "why": "",
+    "dur": 1.707,
+    "peak": 0.678,
+    "rms": 0.1073
+   },
+   "opus": {
+    "ok": true,
+    "why": "",
+    "dur": 1.697,
+    "peak": 0.66,
+    "rms": 0.1049
+   }
+  }
+ },
  "voice": "bf_emma",
  "speed": 0.95,
  "total": 105.2,

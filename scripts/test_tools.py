@@ -2363,8 +2363,11 @@ check("视频 1920x1080 H.264（16:9）", _pr.startswith("h264,1920,1080") or _p
 _vd = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                             "-of", "csv=p=0", _mp4], capture_output=True, text=True).stdout)
 _want = sum(s["qc"]["opus"]["dur"] + 0.32 for s in _rd["sentences"])
-check("音画对齐（视频时长＝2.5 秒标题页＋各句解码＋停顿＋1.5 秒结尾缓冲）",
-      abs(_vd - (_want + 1.5 + 2.5)) < 0.3, "%.2f vs %.2f" % (_vd, _want + 4.0))
+_tt = _rd.get("titleTrack")
+_ts = (round(_tt["qc"]["opus"]["dur"], 3) + 1.4) if _tt else 2.5
+_want2 = sum(s["qc"]["opus"]["dur"] + 0.55 for s in _rd["sentences"])
+check("音画对齐（标题页＋各句解码＋0.55 停顿＋1.5 结尾缓冲）",
+      abs(_vd - (_want2 + 1.5 + _ts)) < 0.3, "%.2f vs %.2f" % (_vd, _want2 + 1.5 + _ts))
 check("结尾 1.5 秒是静音", float(re.search(r"mean_volume:\s*(-?[\d.]+)", subprocess.run(
     ["ffmpeg", "-v", "info", "-ss", str(_vd - 1.2), "-i", _mp4, "-af", "volumedetect", "-f", "null", "-"],
     capture_output=True, text=True).stderr).group(1)) < -60)
@@ -2382,11 +2385,18 @@ _vi2 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspect
 check("第02篇视频检察官全过", _vi2.returncode == 0 and "全部通过" in _vi2.stdout,
       "\n".join(l for l in _vi2.stdout.split("\n") if "✗" in l)[:300])
 _br = open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
-check("视频有标题页（第 N 篇＋中英标题）", "draw_title" in _mv and "titleZh" in _mv)
+check("视频有标题页（中英标题，不写第几篇）", "draw_title" in _mv and "titleZh" in _mv and "第 %s 篇" not in _mv)
+check("标题有配音（json 带 titleTrack 且质检过）", all(
+    (lambda t: t and all(v["ok"] for v in t["qc"].values()))(
+        json.load(open(os.path.join(ROOT, "reader/a%s.json" % x), encoding="utf-8")).get("titleTrack"))
+    for x in ("01", "02")))
+check("句间停顿 ≥ 0.4 秒", float(re.search(r'"--gap" in sys\.argv else ([\d.]+)', _mv).group(1)) >= 0.4)
+_vsrc = open(os.path.join(ROOT, "scripts/video_inspector.py"), encoding="utf-8").read()
+check("三道闸都在检察官里", all(x in _vsrc for x in ("标题页不写「第几篇」", "标题页真的在念", "句间停顿 ≥ 0.4 秒")))
 check("json 带中文标题", all(json.load(open(os.path.join(ROOT, "reader/a%s.json" % x), encoding="utf-8")).get("titleZh")
                        for x in ("01", "02")))
-check("检察官查标题页（溢出＋静音）", all(x in open(os.path.join(ROOT, "scripts/video_inspector.py"), encoding="utf-8").read()
-                              for x in ("draw_title", "标题页是静音")))
+_vsrc = open(os.path.join(ROOT, "scripts/video_inspector.py"), encoding="utf-8").read()
+check("检察官查标题页（溢出＋必须在念）", all(x in _vsrc for x in ("draw_title", "标题页真的在念")))
 check("专名内部不许断（Broad|Street）", "inside_name" in _br and "cost += 200" in _br)
 check("数字判据认汉字且只单向要求", "CN_NUM" in _br and "en_num and not zh_num" in _br)
 check("月份星期不算意群起点", "DATEWORD" in _br)

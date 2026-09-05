@@ -130,6 +130,9 @@ def check_frames(d, W=1920, H=1080):
     overflow, blank, tiny = [], [], []
     scales = []
     # 标题页也要查（用户 2026-09-04：视频没有题目；加了标题页，它同样不许出黄框）
+    src_mv = open(os.path.join(ROOT, "scripts", "make_video.py"), encoding="utf-8").read()
+    ok("二·标题页不写「第几篇」（用户 2026-09-04 指定）",
+       '"第 %s 篇"' not in src_mv and "第 %s 篇" not in src_mv)
     if hasattr(MV, "draw_title"):
         ta = np.asarray(MV.draw_title(bg, d, W, H)).astype(int)
         ttext = (ta[:, :, 0] > 170)
@@ -166,7 +169,7 @@ def check_frames(d, W=1920, H=1080):
 
 # ═══════════ 三 · 音画 ═══════════
 
-def check_av(d, mp4, gap=0.32, tail=1.5, title_sec=2.5):
+def check_av(d, mp4, gap=0.55, tail=1.5, title_sec=None):
     if not os.path.exists(mp4):
         ok("三·mp4 存在", False, mp4); return
     pr = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries",
@@ -178,15 +181,26 @@ def check_av(d, mp4, gap=0.32, tail=1.5, title_sec=2.5):
     ok("三·AAC 音轨", "aac" in pa, pa)
     vd = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
                                "-of", "csv=p=0", mp4], capture_output=True, text=True).stdout or 0)
+    tt = d.get("titleTrack")
+    if title_sec is None:
+        title_sec = (round((tt.get("qc", {}).get("opus", {}).get("dur") or tt["dur"]), 3) + 1.4) if tt else 2.5
     want = (title_sec
             + sum((s.get("qc", {}).get("opus", {}).get("dur") or s["dur"]) + gap for s in d["sentences"])
             + tail)
     ok("三·时长＝标题页＋各句解码时长＋停顿＋结尾缓冲", abs(vd - want) < 0.3, "%.2f vs %.2f" % (vd, want))
-    # 标题页那段必须是静音
-    mt = re.search(r"mean_volume:\s*(-?[\d.]+)", subprocess.run(
-        ["ffmpeg", "-v", "info", "-ss", "0.2", "-to", str(max(0.4, title_sec - 0.3)), "-i", mp4,
-         "-af", "volumedetect", "-f", "null", "-"], capture_output=True, text=True).stderr)
-    ok("三·标题页是静音", mt and float(mt.group(1)) < -60, mt.group(0) if mt else "?")
+    # ★ 闸一 · 标题必须念出来（用户 2026-09-04）。标题页正中那一秒得有声。
+    ok("三·标题有配音（json 带 titleTrack 且质检过）",
+       bool(tt) and all(v.get("ok") for v in (tt.get("qc") or {}).values()),
+       "没有 titleTrack" if not tt else "质检未过")
+    if tt:
+        td = tt.get("qc", {}).get("opus", {}).get("dur") or tt["dur"]
+        mt = re.search(r"mean_volume:\s*(-?[\d.]+)", subprocess.run(
+            ["ffmpeg", "-v", "info", "-ss", "0.9", "-to", "%.2f" % (0.7 + td), "-i", mp4,
+             "-af", "volumedetect", "-f", "null", "-"], capture_output=True, text=True).stderr)
+        ok("三·标题页真的在念（不是无声画面）", mt and float(mt.group(1)) > -45,
+           mt.group(0) if mt else "?")
+    # ★ 闸二 · 句间要有停顿，不能一句连一句（用户 2026-09-04：切屏不要一丁点停顿都没有）
+    ok("三·句间停顿 ≥ 0.4 秒", gap >= 0.4, "现为 %.2f" % gap)
     m = re.search(r"mean_volume:\s*(-?[\d.]+)", subprocess.run(
         ["ffmpeg", "-v", "info", "-ss", str(max(0, vd - tail + 0.25)), "-i", mp4,
          "-af", "volumedetect", "-f", "null", "-"], capture_output=True, text=True).stderr)
@@ -216,7 +230,9 @@ def main():
         check_alignment(d)
     scales = check_frames(d)
     if "--frames" not in sys.argv:
-        check_av(d, os.path.join(ROOT, "reader", "a%s.mp4" % aid))
+        g = 0.55
+        m = re.search(r'else 0\.(\d+)\n', open(os.path.join(ROOT, "scripts", "make_video.py"), encoding="utf-8").read())
+        check_av(d, os.path.join(ROOT, "reader", "a%s.mp4" % aid), gap=g)
     fails = 0
     for good, name, detail in REPORT:
         print("  %s %s%s" % ("✓" if good else "✗", name, ("  —— " + detail) if (detail and not good) else ""))

@@ -2,6 +2,36 @@
  "id": "01",
  "title": "Snow and the Broad Street Pump",
  "titleZh": "斯诺与宽街水泵",
+ "titleTrack": {
+  "text": "Snow and the Broad Street Pump",
+  "dur": 1.766,
+  "times": [
+   0,
+   30,
+   740,
+   990,
+   1320,
+   1660
+  ],
+  "audio": "audio/a01-00.m4a",
+  "audioAlt": "audio/a01-00.opus",
+  "qc": {
+   "m4a": {
+    "ok": true,
+    "why": "",
+    "dur": 1.792,
+    "peak": 0.618,
+    "rms": 0.1084
+   },
+   "opus": {
+    "ok": true,
+    "why": "",
+    "dur": 1.766,
+    "peak": 0.624,
+    "rms": 0.1069
+   }
+  }
+ },
  "voice": "bf_emma",
  "speed": 0.95,
  "total": 91.3,

@@ -383,6 +383,31 @@ def main():
     limit = int(sys.argv[sys.argv.index("--n") + 1]) if "--n" in sys.argv else 10 ** 6
 
     k = SAY._load_model(os.path.join(saydir, "models"))
+
+    # ★ 标题也要念出来（用户 2026-09-04）。跟正文同一把音色、同一套质检，
+    #   存 aNN-00.*；视频里标题页配这段声音，不再是无声画面。
+    def _mk(txt, base):
+        wav = SAY.synth(k, txt, voice=voice, speed=speed)
+        times = SAY.word_times(wav, len(txt.split()))
+        opus = os.path.join(audio, base + ".opus")
+        m4a = os.path.join(audio, base + ".m4a")
+        SAY.write(wav, opus)
+        import soundfile as sf
+        tmp = os.path.join(audio, "_t.wav")
+        sf.write(tmp, wav, SAY.SR)
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", tmp, "-c:a", "aac",
+                        "-b:a", "48k", "-ac", "1", "-movflags", "+faststart", m4a], check=True)
+        os.remove(tmp)
+        qc = {}
+        for tag, path in (("m4a", m4a), ("opus", opus)):
+            info = SAY.inspect(path)
+            qc[tag] = {"ok": info["ok"], "why": info["why"], "dur": round(info.get("dur", 0), 3),
+                       "peak": round(info.get("peak", 0), 3), "rms": round(info.get("rms", 0), 4)}
+        return {"text": txt, "dur": round(len(wav) / SAY.SR, 3), "times": times,
+                "audio": "audio/" + base + ".m4a", "audioAlt": "audio/" + base + ".opus", "qc": qc}
+
+    title_track = _mk(art['title'], "a%s-00" % aid)
+    print("  00  %5.2fs  【标题】%s" % (title_track['dur'], art['title']))
     sents = []
     problems = []
     n = 0
@@ -452,7 +477,7 @@ def main():
     sents = [x for x in sents if x]
     sents.sort(key=lambda x: x['i'])
     data = {"id": aid, "title": art['title'], "titleZh": art.get('titleZh', ''),
-            "voice": voice, "speed": speed,
+            "titleTrack": title_track, "voice": voice, "speed": speed,
             "total": round(sum(s['dur'] for s in sents), 1), "sentences": sents}
     json.dump(data, open(jpath, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print("\n第%s篇 · %d/%d 句 · %.1f 秒 · %s → reader/a%s.json"

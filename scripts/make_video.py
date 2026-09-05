@@ -233,23 +233,19 @@ def draw_title(bg, d, W, H):
     safe_x, safe_y = int(W * 0.045), int(H * 0.055)
     maxw = W - 2 * pad - 2 * safe_x
     maxh = H - 2 * pad - 2 * safe_y
-    num = "第 %s 篇" % int(d['id'])
+    # ★ 用户 2026-09-04：不要写「第几篇」。标题页只放中英标题。
     for cand in [round(2.2 - 0.02 * i, 2) for i in range(95)]:
-        fn = font(F_ZH, max(8, int(H * 0.036 * cand)), index=2)
         fe = font(F_EN, max(8, int(H * 0.082 * cand)))
         fz = font(F_ZH, max(8, int(H * 0.062 * cand)), index=2)
         sp = dr.textlength(" ", font=fe)
         le = wrap(dr, [(w, False, False) for w in d['title'].split()], fe, maxw, sp)
         lz = wrap(dr, [(c, True, True) for c in (d.get('titleZh') or "")], fz, maxw, 0)
-        lh_e, lh_z, lh_n = int(H * .108 * cand), int(H * .086 * cand), int(H * .062 * cand)
-        total = lh_n + int(H * .045 * cand) + len(le) * lh_e + int(H * .035 * cand) + len(lz) * lh_z
+        lh_e, lh_z = int(H * .112 * cand), int(H * .090 * cand)
+        total = len(le) * lh_e + int(H * .038 * cand) + len(lz) * lh_z
         over = any(w > maxw for ln in le + lz for _, _, w, _ in ln)
         if not over and total <= maxh:
             break
     y = (H - total) // 2
-    wn = dr.textlength(num, font=fn)
-    dr.text(((W - wn) / 2, y), num, font=fn, fill=(190, 214, 210))
-    y += lh_n + int(H * .045 * cand)
     for ln in le:
         wsum = sum(w for _, _, w, _ in ln) + sum(sp for _, _, _, g in ln[1:] if not g)
         x = (W - wsum) / 2
@@ -258,7 +254,7 @@ def draw_title(bg, d, W, H):
                 x += sp
             dr.text((x, y), tok, font=fe, fill=CHALK); x += w
         y += lh_e
-    y += int(H * .035 * cand)
+    y += int(H * .038 * cand)
     for ln in lz:
         wsum = sum(w for _, _, w, _ in ln)
         x = (W - wsum) / 2
@@ -271,14 +267,20 @@ def draw_title(bg, d, W, H):
 def main():
     args = [x for x in sys.argv[1:] if not x.startswith("--")]
     aid = (args[0] if args else "01").zfill(2)
-    gap = float(sys.argv[sys.argv.index("--gap") + 1]) if "--gap" in sys.argv else 0.32
+    # ★ 句间停顿（用户 2026-09-04：切屏不要一丁点停顿都没有）。0.32 秒读起来是连着的，
+    #   放到 0.55 秒，一句读完有个换气，画面切换也看得出来。
+    gap = float(sys.argv[sys.argv.index("--gap") + 1]) if "--gap" in sys.argv else 0.55
     # ★ 结尾缓冲（用户 2026-09-04）：最后一句读完再留一段静音，画面还在，然后才结束。
     tail = float(sys.argv[sys.argv.index("--tail") + 1]) if "--tail" in sys.argv else 1.5
-    title_sec = float(sys.argv[sys.argv.index("--title") + 1]) if "--title" in sys.argv else 2.5
     size = sys.argv[sys.argv.index("--size") + 1] if "--size" in sys.argv else "1920x1080"
     W, H = (int(x) for x in size.split("x"))
 
     data = json.load(open(os.path.join(READER, "a%s.json" % aid), encoding="utf-8"))
+    # 标题页时长＝念标题的音频长度 ＋ 前后各留一点；--title 可强制指定
+    tt = data.get("titleTrack")
+    title_sec = (float(sys.argv[sys.argv.index("--title") + 1]) if "--title" in sys.argv
+                 else (round((tt.get("qc", {}).get("opus", {}).get("dur") or tt["dur"]), 3) + 1.4
+                       if tt else 2.5))
     work = os.path.join(READER, "_v%s" % aid)
     shutil.rmtree(work, ignore_errors=True)
     os.makedirs(work)
@@ -289,7 +291,7 @@ def main():
     tpng = os.path.join(work, "f00.png")
     draw_title(bg, data, W, H).save(tpng)
     concat_img.append("file '%s'\nduration %.3f\n" % (tpng, title_sec))
-    print("  00  %5.2fs  【标题】%s / %s" % (title_sec, data['title'], data.get('titleZh', '')))
+    print("  00  %5.2fs  【标题·有配音】%s / %s" % (title_sec, data['title'], data.get('titleZh', '')))
     for s in data['sentences']:
         png = os.path.join(work, "f%02d.png" % s['i'])
         draw_sentence(bg, s, W, H).save(png)
@@ -308,14 +310,23 @@ def main():
     parts = []
     for i, s in enumerate(data['sentences']):
         parts.append("[%d:a]" % i)
+    # 音轨：标题（念出来）→ 各句 → 结尾缓冲。
+    # ★ 标题页原来是补静音；用户 2026-09-04 要求「题目一定要念出来」，改成真接一段标题音频。
+    #   标题音频前后各留 0.7 秒余量，正好凑成 title_sec。
+    tracks = ([os.path.join(READER, tt['audioAlt'])] if tt else []) + \
+             [os.path.join(READER, s['audioAlt']) for s in data['sentences']]
     inputs = []
-    for s in data['sentences']:
-        inputs += ["-i", os.path.join(READER, s['audioAlt'])]
-    filt = "[0:a]adelay=%d:all=1[d0];" % int(title_sec * 1000)          # 标题页那段是静音
-    filt += "[d0]apad=pad_dur=%.3f[a0];" % gap
-    filt += "".join("[%d:a]apad=pad_dur=%.3f[a%d];" % (i, gap, i) for i in range(1, len(data['sentences'])))
-    filt += "".join("[a%d]" % i for i in range(len(data['sentences'])))
-    filt += "concat=n=%d:v=0:a=1[cat];[cat]apad=pad_dur=%.3f[out]" % (len(data['sentences']), tail)
+    for f in tracks:
+        inputs += ["-i", f]
+    filt = ""
+    if tt:
+        lead = 0.7
+        rest = max(0.05, title_sec - lead - (tt.get('qc', {}).get('opus', {}).get('dur') or tt['dur']))
+        filt += "[0:a]adelay=%d:all=1,apad=pad_dur=%.3f[a0];" % (int(lead * 1000), rest)
+    for i in range(1 if tt else 0, len(tracks)):
+        filt += "[%d:a]apad=pad_dur=%.3f[a%d];" % (i, gap, i)
+    filt += "".join("[a%d]" % i for i in range(len(tracks)))
+    filt += "concat=n=%d:v=0:a=1[cat];[cat]apad=pad_dur=%.3f[out]" % (len(tracks), tail)
     wav = os.path.join(work, "all.wav")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error"] + inputs +
                    ["-filter_complex", filt, "-map", "[out]", "-ar", "44100", "-ac", "1", wav], check=True)
