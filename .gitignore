@@ -4,7 +4,5 @@ __pycache__/
 .regress/
 notes/.regress/
 
-# 成品视频不入库：一篇约 8.5 MB，70 篇就是 600 MB，git 装不下也不该装。
-# 音频（opus+m4a，一篇 1.2 MB）留着——网页要用，而且是时间轴的依据。
-# 视频用 scripts/make_video.py NN 现渲，或走 Release 附件分发。
-reader/*.mp4
+# ★ 成品视频改走 Git LFS 入库（2026-09-04，用户要求「最终视频都存到 GitHub」）。
+#   见 .gitattributes：reader/*.mp4 由 LFS 管，仓库本体只存指针，70 篇也扛得住。

@@ -2386,13 +2386,13 @@ _vi3 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspect
                       capture_output=True, text=True, timeout=600)
 check("第03篇视频检察官全过", _vi3.returncode == 0 and "全部通过" in _vi3.stdout,
       "\n".join(l for l in _vi3.stdout.split("\n") if "✗" in l)[:300])
+_br = open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
 check("数字锚点是双向的（中文有阿拉伯数字英文没有也罚）", "not en_num" in _br and "MONTH_RE" in _br)
 check("「是…的」不算中文悬尾、带标点收尾不算断在半路", all(
     x in open(os.path.join(ROOT, "scripts/check_chunks.py"), encoding="utf-8").read()
     for x in ("de_ok", "带标点收尾的不算劈开")))
 check("第02篇视频检察官全过", _vi2.returncode == 0 and "全部通过" in _vi2.stdout,
       "\n".join(l for l in _vi2.stdout.split("\n") if "✗" in l)[:300])
-_br = open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
 check("视频有标题页（中英标题，不写第几篇）", "draw_title" in _mv and "titleZh" in _mv and "第 %s 篇" not in _mv)
 check("标题有配音（json 带 titleTrack 且质检过）", all(
     (lambda t: t and all(v["ok"] for v in t["qc"].values()))(
@@ -2404,6 +2404,14 @@ check("标题不折行两条闸都在", all(x in _vsrc for x in ("标题不折�
 check("标题必须一行（放不下就缩字号，不折行）", "len(le) == 1 and len(lz) <= 1" in _mv)
 _gd = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/gate_drill.py")],
                      capture_output=True, text=True, timeout=900)
+_rm = open(os.path.join(ROOT, "README.md"), encoding="utf-8").read()
+check("README 写清了整套视频程序（脚本表＋检察官条目＋版面标准）", all(
+    x in _rm for x in ("scripts/build_reader.py", "scripts/make_video.py",
+                       "scripts/video_inspector.py", "scripts/gate_drill.py",
+                       "视频检察官（三层二十四条）", "版面标准", "git lfs pull")))
+check("三篇成品视频都入库（Git LFS）", all(
+    os.path.exists(os.path.join(ROOT, "reader/a%s.mp4" % x)) for x in ("01", "02", "03"))
+    and "reader/*.mp4 filter=lfs" in open(os.path.join(ROOT, ".gitattributes"), encoding="utf-8").read())
 check("闸门演习：每条标准故意做坏，检察官全都响", _gd.returncode == 0 and "全部响了" in _gd.stdout,
       "\n".join(l for l in _gd.stdout.split("\n") if "没响" in l)[:300])
 check("三道闸都在检察官里", all(x in _vsrc for x in ("标题页不写「第几篇」", "标题页真的在念", "句间停顿 ≥ 0.4 秒")))
