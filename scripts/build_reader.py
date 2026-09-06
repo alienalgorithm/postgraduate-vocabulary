@@ -330,8 +330,35 @@ def align_chunks(en, zh):
         prev = best[cur][1]
         path.append((prev, cur)); cur = prev
     path.reverse()
-    out = [(" ".join(toks[p[0]:c[0]]).strip(), zh[zcuts[p[1]]:zcuts[c[1]]].strip())
-           for p, c in path]
+    # ★ 就近修正（2026-09-04，第04篇 §18 逼出来的）：
+    #   「The clock did not beat | the sky; it joined it.」——英文明明有分号可切，
+    #   DP 却为了把长度比例凑齐，切在了动词和宾语中间。
+    #   凡是没切在标点上的边界，就在左右各两个词里找一个**带标点收尾**的位置；
+    #   找得到、且挪过去不破坏锚点、两段都不至于太短，就挪过去。**标点永远比比例可信。**
+    cuts = [p[0] for p, _ in path] + [n]
+    zids = [p[1] for p, _ in path] + [len(zcuts) - 1]
+    for k in range(1, len(cuts) - 1):
+        b0 = cuts[k]
+        if re.search(r"[,;:.!?—]$", BOLD.sub(r"\1", toks[b0 - 1])):
+            continue
+        for b1 in sorted(range(max(cuts[k - 1] + 2, b0 - 2), min(cuts[k + 1] - 1, b0 + 2) + 1),
+                         key=lambda x: abs(x - b0)):
+            if b1 == b0 or not re.search(r"[,;:.!?—]$", BOLD.sub(r"\1", toks[b1 - 1])):
+                continue
+            lo, hi = zcuts[zids[k]], zcuts[zids[k + 1]]
+            left = " ".join(toks[cuts[k - 1]:b1]); right = " ".join(toks[b1:cuts[k + 1]])
+            def anchored(seg, a2, b2):
+                for w in BOLD.findall(seg):
+                    kk = w.lower().strip(",.;:!?")
+                    if not any((gw == kk or gw.rstrip('s') == kk.rstrip('s')) and a2 <= st < b2
+                               for st, _, gw in gl):
+                        return False
+                return True
+            if anchored(left, zcuts[zids[k - 1]], lo) and anchored(right, lo, hi):
+                cuts[k] = b1
+            break
+    out = [(" ".join(toks[cuts[k]:cuts[k + 1]]).strip(),
+            zh[zcuts[zids[k]]:zcuts[zids[k + 1]]].strip()) for k in range(len(cuts) - 1)]
     out = [(a, b) for a, b in out if a and b]
     return out or [(en.strip(), zh.strip())]
 

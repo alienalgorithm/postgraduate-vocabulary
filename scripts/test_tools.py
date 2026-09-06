@@ -15,6 +15,7 @@ import json
 import os, re, sys, json, subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+_br = open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
 
 # ★★★ 反例词改为运行时现挑（2026-09-02，第二次被咬之后）
 # **原先把 shackle／pledged 写死作「不撞的词」，而第58篇正文用掉了这两个词，
@@ -2384,9 +2385,17 @@ _vi2 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspect
                       capture_output=True, text=True, timeout=600)
 _vi3 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspector.py"), "03"],
                       capture_output=True, text=True, timeout=600)
+_vi4 = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/video_inspector.py"), "04"],
+                      capture_output=True, text=True, timeout=600)
+check("第04篇视频检察官全过", _vi4.returncode == 0 and "全部通过" in _vi4.stdout,
+      "\n".join(l for l in _vi4.stdout.split("\n") if "✗" in l)[:300])
+check("就近修正：边界优先落在标点上", "就近修正" in _br)
+check("第04篇结句没被劈开（did not beat the sky; 在同一段）", any(
+    c["en"].replace("**", "").strip().endswith("the sky;")
+    for s in json.load(open(os.path.join(ROOT, "reader/a04.json"), encoding="utf-8"))["sentences"]
+    for c in s["chunks"]))
 check("第03篇视频检察官全过", _vi3.returncode == 0 and "全部通过" in _vi3.stdout,
       "\n".join(l for l in _vi3.stdout.split("\n") if "✗" in l)[:300])
-_br = open(os.path.join(ROOT, "scripts/build_reader.py"), encoding="utf-8").read()
 check("数字锚点是双向的（中文有阿拉伯数字英文没有也罚）", "not en_num" in _br and "MONTH_RE" in _br)
 check("「是…的」不算中文悬尾、带标点收尾不算断在半路", all(
     x in open(os.path.join(ROOT, "scripts/check_chunks.py"), encoding="utf-8").read()
