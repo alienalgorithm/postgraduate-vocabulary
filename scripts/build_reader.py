@@ -67,6 +67,25 @@ def split_sentences(en, zh):
     es = cut_en(en)
     if len(es) <= 1:
         return [(en.strip(), zh.strip())]
+    # ★ 没有重点词的英文句并进前一句（2026-09-04，第05篇 §3 逼出来的）：
+    #   中文常把两个短句合成一句——「It read neither name nor price.」在中文里
+    #   就并在了上一句的「既没读到名称，也没读到价格。」里。它在中文里没有独立落点，
+    #   硬给它分一块，就会把下一句的中文抢过来，**后面整段错位一格**。
+    #   但**中文句数够用时不能并**：「Machinery alone was no system.」也没有重点词，
+    #   可中文里有「光有机器不成体系。」这一句，并掉就把下一句的中文抢过来了。
+    #   判据：中文的句末标点数 < 英文句数时才并，并且只并最靠前的那几个。
+    zh_ends = len(re.findall(r"[。！？]", zh))
+    merged_es = list(es)
+    k = 1
+    while len(merged_es) > max(1, zh_ends) and k < len(merged_es):
+        if not BOLD.findall(merged_es[k]):
+            merged_es[k - 1] += " " + merged_es[k]
+            del merged_es[k]
+        else:
+            k += 1
+    es = merged_es
+    if len(es) <= 1:
+        return [(en.strip(), zh.strip())]
     # 中文里每个括注的位置：[(结束下标, 英文词)]
     marks_zh = [(m.end(), m.group(2).lower()) for m in ZH_GLOSS.finditer(zh)]
     pos, out, mi = 0, [], 0

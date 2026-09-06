@@ -202,6 +202,10 @@ def check_sentence(s):
         # ★ 「是…的」「而…的」「得…的」是完整的判断句，不是悬尾（第03篇 §9「而设的」、
         #   §10「就是错的」被误报成 A）。真正的悬尾是「住在附近的」这种光杆定语。
         de_ok = plain.endswith("的") and re.search(r"[是为而得就]", plain[-6:-1] or "")
+        # 「不存在／现在／正在／所在／实在」结尾的「在」是词的一半，不是悬着的介词
+        if plain.endswith("在") and plain[-2:] in ("存在", "现在", "正在", "所在", "实在",
+                                                   "自在", "内在", "外在", "何在", "尚在"):
+            de_ok = True
         if plain and plain[-1] in ZH_BAD_TAIL and i < len(chunks) and not de_ok:
             F.append(("A", i, "中文悬尾", "这段以「%s」收尾，结构没收住" % plain[-1], "边界后移"))
         if wz < 2:
