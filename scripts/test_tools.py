@@ -2419,6 +2419,22 @@ check("标题必须一行（放不下就缩字号，不折行）", "len(le) == 1
 _gd = subprocess.run([sys.executable, os.path.join(ROOT, "scripts/gate_drill.py")],
                      capture_output=True, text=True, timeout=900)
 _rm = open(os.path.join(ROOT, "README.md"), encoding="utf-8").read()
+# ── 交接文档必须与事实相符（2026-09-04，用户要「完美的对话交接」）────────
+_hd = open(os.path.join(ROOT, "notes/对话交接文档.md"), encoding="utf-8").read()
+_nmp4 = len([f for f in os.listdir(os.path.join(ROOT, "reader")) if f.endswith(".mp4")])
+check("交接文档：视频进度与实际一致", ("%d / 70" % _nmp4) in _hd, "实际 %d 篇" % _nmp4)
+check("交接文档：每篇句/段数与 json 一致", all(
+    ("| %s |" % a) not in _hd or ("%d / %d" % (
+        len(json.load(open(os.path.join(ROOT, "reader/a%s.json" % a), encoding="utf-8"))["sentences"]),
+        sum(len(s["chunks"]) for s in json.load(open(os.path.join(ROOT, "reader/a%s.json" % a), encoding="utf-8"))["sentences"])
+    )) in _hd
+    for a in ("01", "02", "03", "04", "05")))
+check("交接文档：仓库地址与推送凭据都在", all(
+    x in _hd for x in ("github.com/AlienRocketBus/postgraduate-vocabulary", "github_pat_")))
+check("交接文档：五件核心脚本都提到", all(
+    ("scripts/%s.py" % x) in _hd for x in
+    ("build_reader", "make_video", "video_inspector", "check_chunks", "gate_drill")))
+check("交接文档：保留了文章侧规则附录", "附录 · 文章侧的完整规则" in _hd and len(_hd) > 25000)
 check("README 写清了整套视频程序（脚本表＋检察官条目＋版面标准）", all(
     x in _rm for x in ("scripts/build_reader.py", "scripts/make_video.py",
                        "scripts/video_inspector.py", "scripts/gate_drill.py",
