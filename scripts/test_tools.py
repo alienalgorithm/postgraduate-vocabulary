@@ -2422,6 +2422,18 @@ _rm = open(os.path.join(ROOT, "README.md"), encoding="utf-8").read()
 # ── 交接文档必须与事实相符（2026-09-04，用户要「完美的对话交接」）────────
 _hd = open(os.path.join(ROOT, "notes/对话交接文档.md"), encoding="utf-8").read()
 _nmp4 = len([f for f in os.listdir(os.path.join(ROOT, "reader")) if f.endswith(".mp4")])
+# ── 离线 TTS 必须自带（2026-09-04，用户问「模型存进仓库了吗」——当时没存）────
+_say = os.path.join(ROOT, "tools", "say-en")
+check("离线 TTS 整套在仓库里", all(os.path.exists(os.path.join(_say, x))
+                          for x in ("say.py", "docs/PITFALLS.md", "models")))
+check("两个模型文件都在且大小对得上", all(
+    os.path.getsize(os.path.join(_say, "models", f)) > mn
+    for f, mn in (("kokoro-v1.0.onnx", 3e8), ("voices-v1.0.bin", 2.7e7))))
+check("模型由 LFS 管（单文件 325 MB，直推会被 GitHub 拒）", all(
+    x in open(os.path.join(ROOT, ".gitattributes"), encoding="utf-8").read()
+    for x in ("tools/say-en/models/*.onnx", "tools/say-en/models/*.bin")))
+check("build_reader 默认就用仓库里那份", 'os.path.join(ROOT, "tools", "say-en")' in _br)
+check("交接文档写明 TTS 已入库、不必再找用户要", "已经在仓库里了，不必再找用户要" in _hd)
 check("交接文档：视频进度与实际一致", ("%d / 70" % _nmp4) in _hd, "实际 %d 篇" % _nmp4)
 check("交接文档：每篇句/段数与 json 一致", all(
     ("| %s |" % a) not in _hd or ("%d / %d" % (

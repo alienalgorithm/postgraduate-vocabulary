@@ -34,10 +34,15 @@
 ### 怎么做一篇
 
 ```bash
-# 0) 一次性：解压 say-en（离线 TTS）到 /tmp/say/say-en，下好 models/ 里两个模型文件
-python3 scripts/build_reader.py 04 --say /tmp/say/say-en   # 合成音频 + 切意群 → reader/a04.json
-python3 scripts/make_video.py  04                          # 渲视频 → reader/a04.mp4（渲完自动过检察官）
+git lfs install && git lfs pull        # 模型与成品视频都走 LFS
+pip install kokoro-onnx soundfile numpy --break-system-packages
+
+python3 scripts/build_reader.py 06     # 合成音频 + 切意群 → reader/a06.json
+python3 scripts/make_video.py  06      # 渲视频 → reader/a06.mp4（渲完自动过检察官）
 ```
+
+**离线 TTS 连同 338 MB 模型都在仓库里**（`tools/say-en/`，走 Git LFS），
+`build_reader.py` 默认就用它，不必另外下载。
 
 `build_reader.py` 支持断点续跑（`--n 8` 限流，反复跑同一条命令推进）——批量合成会被 OOM killer
 无声杀掉，这是 say-en 文档第五条的教训。

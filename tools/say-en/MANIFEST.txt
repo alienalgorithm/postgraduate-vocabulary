@@ -1,0 +1,58 @@
+say-en · 包内清单
+
+say.py                  主程序，10 KB
+                        命令行合成器，也可当模块导入
+                        函数：_load_model / synth / word_times / write / inspect
+
+make_audio.py           批量版
+                        给整篇文章一次做几百段
+                        断点续跑、增量存盘、限流
+
+INSTALL.txt             装机三步
+README.md               总览、速查、常见问题
+
+docs/PRINCIPLE.md       原理（298 行）
+                        一 从字到声音中间隔着什么
+                        二 四种音色是怎么回事
+                        三 逐词时间轴：不用模型，用能量
+                        四 质量三条为什么是那三条
+                        五 静音裁边为什么留 60 毫秒
+                        六 为什么用 opus 而不是 mp3
+                        七 为什么两次合成结果不完全一样
+                        八 整条流水线
+
+docs/USAGE.md           用法（327 行）
+                        命令行速查表
+                        八个场景，每个带完整命令与输出
+                        当模块用
+                        排错
+
+docs/PITFALLS.md        踩过的坑（388 行）
+                        一 时间轴存成秒，跟读一格不动
+                        二 voices 写成字符串数组，放不出声
+                        三 三十四段音频削波
+                        四 时间轴末项超出音频时长
+                        五 一次跑完被系统杀掉
+                        六 自动修繁体，把「毫无」改成「殚无」
+                        七 「元数据全对」的假象反复出现
+                        八 浮点尾差被误当成 bug
+                        附：每个坑对应代码哪一行
+
+docs/API.md             模块接口（137 行）
+
+examples/passage.txt            四句示例文本
+examples/01_one_sentence.sh     念一句话
+examples/02_whole_file.sh       整篇 + 四音色 + 时间轴
+examples/03_check.sh            质检
+examples/04_as_module.py        当模块用的完整例子
+
+models/kokoro-v1.0.onnx     合成模型，310 MB
+                            MD5 9579b435abd94a5af3d00d3cd39df548
+models/voices-v1.0.bin      四种音色向量，27 MB
+                            MD5 29895103243c07818862043c051e1db0
+models/README.md            核对与重新下载说明
+
+  ── 模型已包含，解压即用，全程离线 ──
+
+── 全部实测过 ──
+示例 1、3、4 都跑通了，质检 5 个音频 0 问题。

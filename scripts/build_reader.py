@@ -18,7 +18,7 @@
   python3 scripts/build_reader.py 01 --voice bm_george --speed 0.92
   python3 scripts/build_reader.py 02 --n 8      # 这趟最多做 8 句；反复跑同一条命令推进
   python3 scripts/build_reader.py 02 --fresh    # 不续跑，从头重做
-需要：say-en 解压在 /tmp/say/say-en（或 --say 指定），模型已下好。
+需要：仓库自带 tools/say-en（含模型，LFS）。先 `git lfs pull`；`--say` 可另指别处。
 """
 import os
 import re
@@ -30,7 +30,9 @@ import subprocess
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOLD = re.compile(r"\*\*([^*]+)\*\*")
 ZH_GLOSS = re.compile(r"\*\*([^*]+)\*\*\(([^)]+)\)")
-SAY_DEFAULT = "/tmp/say/say-en"
+# ★ 默认用**仓库里自带**的那份（2026-09-04 起 tools/say-en 连模型一起入库，走 LFS）。
+#   clone 下来 `git lfs pull` 之后就能直接合成，不必再问用户要 zip。
+SAY_DEFAULT = os.path.join(ROOT, "tools", "say-en")
 
 
 def load_all():

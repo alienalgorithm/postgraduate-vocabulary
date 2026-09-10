@@ -1,0 +1,53 @@
+say-en · 装机两步
+
+模型已经在包里了，不用下载。
+
+────────────────────────────────
+1  装 Python 库
+────────────────────────────────
+
+    pip install kokoro-onnx soundfile numpy
+
+────────────────────────────────
+2  装 ffmpeg
+────────────────────────────────
+
+    Ubuntu / Debian     sudo apt install ffmpeg
+    macOS               brew install ffmpeg
+    Windows             ffmpeg.org 下载，解压后把 bin 加进 PATH
+
+    验一下：ffmpeg -version
+
+    （只用 --format wav 的话，可以不装 ffmpeg）
+
+────────────────────────────────
+跑起来
+────────────────────────────────
+
+    python say.py "Hello, this is a test."
+
+    看到 ✓ 001.opus 就成了。
+
+    全程离线，不需要联网，也不需要任何 API key。
+
+────────────────────────────────
+接下来读什么
+────────────────────────────────
+
+    README.md              总览与速查
+    docs/USAGE.md          每个参数、每种场景，带完整例子
+    docs/PRINCIPLE.md      原理：怎么把字变成声音，时间轴怎么算的
+    docs/PITFALLS.md       踩过的八个坑与修法
+    docs/API.md            当模块用时的函数说明
+    examples/              可以直接跑的示例
+
+────────────────────────────────
+包里有什么
+────────────────────────────────
+
+    say.py                    主程序
+    make_audio.py             批量版（断点续跑）
+    models/kokoro-v1.0.onnx   合成模型 310 MB
+    models/voices-v1.0.bin    四种音色  27 MB
+    docs/                     四份文档，共 1300 多行
+    examples/                 四个可直接跑的示例
