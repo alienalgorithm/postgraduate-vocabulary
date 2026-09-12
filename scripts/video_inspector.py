@@ -92,7 +92,12 @@ def check_alignment(d):
             en_neg = len(re.findall(r"\b(?:not|no|never|nothing|nobody|none|nor|neither|without)\b",
                                     c["en"].replace("**", "").lower()))
             zh_neg = len(re.findall(r"不(?!过|但|仅|管|论|只|光)|没|无(?!论)|未(?!必)|非(?!常)", c["zh"]))
-            if abs(en_neg - zh_neg) > 1:
+            # ★ 只在英文比中文多时才算——中文常拿「不」译实义词（doubted→不信），
+            #   也常用「不X不Y」这类固定说法（不声不响、不得不）表达一个意思，
+            #   中文比英文多否定词是常态，不是错（check_chunks.py 的四号判据早就
+            #   这么分方向；这里原先是双向对称，第09篇「不声不响」译 silent 被
+            #   误报否定词不对，才发现两边判据没对齐）。
+            if en_neg - zh_neg > 1:
                 bad_neg.append(tag)
             # 断点
             if ci < len(cs) - 1:
