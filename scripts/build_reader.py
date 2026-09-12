@@ -161,7 +161,10 @@ PREP = {"of", "in", "on", "at", "by", "for", "with", "from", "to", "into", "over
 DATEWORD = {"january", "february", "march", "april", "may", "june", "july", "august",
             "september", "october", "november", "december", "monday", "tuesday",
             "wednesday", "thursday", "friday", "saturday", "sunday"}
-MONTH_RE = re.compile(r"\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\b", re.I)
+# ★ 不能带 re.I：情态动词 may（"meaning may matter"）、行军 march 等常见词小写时
+#   不该算月份专名；真月份在这些经济学人风格的文章里总是大写开头（"in March 1854"）。
+#   大小写不敏感曾把第07篇 §19 的 may 误判成月份 5（第07篇逼出来的）。
+MONTH_RE = re.compile(r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\b")
 CN_NUM = "〇零一二两三四五六七八九十百千万亿"
 ZH_PUNCT = "，。；：、！？—"
 

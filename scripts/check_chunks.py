@@ -72,11 +72,15 @@ def same_key(a, b):
 
 
 def nums_en(t):
-    out = [x for x in re.findall(r"\d+", BOLD.sub(r"\1", t))]
-    for w in BOLD.sub(r"\1", t).lower().split():
+    plain = BOLD.sub(r"\1", t)
+    out = [x for x in re.findall(r"\d+", plain)]
+    for w in plain.split():
         w = w.strip(",.;:!?")
-        if w in MONTH:
-            out.append(str(MONTH[w]))
+        # ★ 月份词只认原文大写开头的（"in March 1854"）——不能先转小写再比，
+        #   否则情态动词 may（"meaning may matter"）会被当成月份 May=5，
+        #   误判成「英文有数字、中文没有」（第07篇 §19 逼出来的）。
+        if w[:1].isupper() and w.lower() in MONTH:
+            out.append(str(MONTH[w.lower()]))
     return Counter(out)
 
 
