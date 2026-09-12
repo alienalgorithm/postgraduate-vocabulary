@@ -170,6 +170,10 @@ def draw_sentence(bg, s, W, H):
     safe_y = int(H * 0.055)
     maxw = W - 2 * pad - 2 * safe_x
     maxh = H - 2 * pad - 2 * safe_y
+    # ★ 留一点「下探量」给逗号／分号这类会略微探出字身框的标点（第08篇 §4
+    #   「she found 1,777.」的逗号戳进守卫圈 2~3 像素才发现：nominal 行高是按
+    #   整字高算的，不含标点下探的那一截）。卡边的段落因此自动降一档字号。
+    maxh -= int(H * 0.006)
     scale = 0.4
     for cand in [round(2.4 - 0.02 * i, 2) for i in range(105)]:
         fe = font(F_EN, max(8, int(H * 0.062 * cand)))

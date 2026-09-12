@@ -83,7 +83,9 @@ def check_alignment(d):
             # 中文可能把数字写成汉字（30-centimetre → 三十厘米），一并认
             # 只在英文有数字时才要求中文也有（中文的「第二」「一条」是序数量词，反过来不成立）
             zh_plain = re.sub(r"\([^)]*\)", "", c["zh"])
-            zh_has_num = bool(re.search(r"\d", zh_plain)) or bool(re.search(r"[%s]{2,}" % CN_NUM, zh_plain))
+            # 货币口语数字（二毛五＝25、三毛＝30）也算带数字——第08篇逼出来的
+            zh_has_num = (bool(re.search(r"\d", zh_plain)) or bool(re.search(r"[%s]{2,}" % CN_NUM, zh_plain))
+                          or bool(re.search(r"[〇零一二两三四五六七八九](?:元|块|角|毛)", zh_plain)))
             if re.search(r"\d", c["en"]) and not zh_has_num:
                 bad_num.append(tag)
             # 否定词

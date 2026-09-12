@@ -110,9 +110,29 @@ def _cn2num(t):
     return out
 
 
+CURR_UNIT = {"元": 100, "块": 100, "角": 10, "毛": 10}
+
+
+def _cn_currency(t):
+    """货币口语数字：「二毛五」＝2 角 5 分＝25，「三毛」＝30，「一块五」＝150。
+    ★ 只在数字紧跟着元/块/角/毛这几个消歧义字时才算——单独的「分」不进这个函数，
+      因为「三分钟」「五分之四」「六分仪」里的「分」不是钱（全库扫过，
+      元/块/角/毛在货币外没有别的数字+单位组合，改这个不会误伤其他文章）。
+      第08篇「时薪二毛五——她拿三毛」逼出来的：只认阿拉伯数字会把这两处全报成
+      「英文有数字、中文没有」。"""
+    out = []
+    for m in re.finditer(r"([〇零一二两三四五六七八九])(元|块|角|毛)([〇零一二两三四五六七八九])?", t):
+        d1, u1, d2 = m.groups()
+        val = int(CN_DIGIT[d1]) * CURR_UNIT[u1]
+        if d2:
+            val += int(CN_DIGIT[d2]) * (1 if u1 in ("角", "毛") else 10)
+        out.append(str(val))
+    return out
+
+
 def nums_zh(t):
     t = GLOSS.sub(r"\1", t)
-    return Counter(re.findall(r"\d+", t) + _cn2num(t))
+    return Counter(re.findall(r"\d+", t) + _cn2num(t) + _cn_currency(t))
 
 
 # ═══════════ 单句检查 ═══════════

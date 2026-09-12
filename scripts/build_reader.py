@@ -274,7 +274,11 @@ def align_chunks(en, zh):
         en_txt = " ".join(toks[a:b])
         en_num = bool(re.search(r"\d", en_txt)) or bool(MONTH_RE.search(en_txt))
         # 汉字数字只认两字以上（三十／五十）；单字「一位」「两处」是量词
-        zh_num = bool(re.search(r"\d", piece)) or bool(re.search(r"[%s]{2,}" % CN_NUM, piece))
+        # 货币口语数字（元/块/角/毛，如「二毛五」「三毛」）也算带数字——
+        #   第08篇「时薪二毛五——她拿三毛」逼出来的：不认会把「25 cents」/「30」
+        #   跟对应的中文切到不同段。
+        zh_num = (bool(re.search(r"\d", piece)) or bool(re.search(r"[%s]{2,}" % CN_NUM, piece))
+                  or bool(re.search(r"[〇零一二两三四五六七八九](?:元|块|角|毛)", piece)))
         if en_num and not zh_num:
             cost += 34
         # ★ 反向也要罚，但只认**阿拉伯数字**：中文的「第二」「一条」是序数量词（汉字），
