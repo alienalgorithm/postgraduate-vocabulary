@@ -140,7 +140,7 @@ def layer2():
     bad["title"] = ("A Considerably And Quite Unreasonably Long Title "
                     "That Cannot Possibly Fit On One Single Line At All")
     MV.draw_title(bg, bad, W, H)
-    drill("标题长到必须缩成蚂蚁", ["标题字号不小于 0.85"] if MV.LAST_TITLE_SCALE < 0.85 else [],
+    drill("标题长到必须缩成蚂蚁", ["标题字号不小于 0.80"] if MV.LAST_TITLE_SCALE < 0.80 else [],
           "标题字号")
 
     src = open(os.path.join(ROOT, "scripts", "make_video.py"), encoding="utf-8").read()

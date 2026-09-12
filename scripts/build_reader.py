@@ -303,7 +303,8 @@ def align_chunks(en, zh):
                 #   前一个词也是大写（且不是句首、不带句末标点），说明这是一个专名的中间。
                 inside_name = (nxt_raw[:1].isupper() and prev_raw[:1].isupper()
                                and b - 1 > 0 and not re.search(r"[,;:.!?—]$", prev_raw))
-                if inside_name:
+                is_chem_formula = bool(re.search(r"[₀-₉⁰-⁹]", nxt_raw))  # 化学式如 N₂ CO₂
+                if inside_name or is_chem_formula:
                     cost += 200
                 elif (nxt_raw[:1].isupper() and b > 0 and prev_w not in PREP
                         and nxt not in DATEWORD and not prev_w.isdigit()):

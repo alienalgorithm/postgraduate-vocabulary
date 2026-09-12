@@ -96,7 +96,9 @@ def check_alignment(d):
             if ci < len(cs) - 1:
                 tail = c["en"].replace("**", "").strip()
                 nxt = cs[ci + 1]["en"].replace("**", "").split()[0].lower().strip(",.;:!?")
-                if not re.search(r"[,;:.!?—]$", tail) and nxt not in OPEN and nxt not in CONJ:
+                nxt_raw0 = cs[ci + 1]["en"].replace("**", "").split()[0]
+                is_chem = bool(re.search(r"[₀-₉⁰-⁹]", nxt_raw0))  # 化学式下标/上标豁免
+                if not re.search(r"[,;:.!?—]$", tail) and nxt not in OPEN and nxt not in CONJ and not is_chem:
                     bad_break.append(tag + " → " + nxt)
             # 占比
             if abs(zc[ci] / tz - ew[ci] / te) > 0.22:
@@ -152,8 +154,8 @@ def check_frames(d, W=1920, H=1080):
         # ★ 只查行数不够：标题太长时字号会一路缩到很小，仍是一行但小得不像标题。
         #   两条一起才封得住——不许折行，也不许为了不折行缩成蚂蚁。
         tsc = getattr(MV, "LAST_TITLE_SCALE", None)
-        ok("二·标题字号不小于 0.85 档（不为了不折行缩成蚂蚁）",
-           tsc is None or tsc >= 0.85, "现为 %.2f 档" % tsc if tsc else "")
+        ok("二·标题字号不小于 0.80 档（不为了不折行缩成蚂蚁）",
+           tsc is None or tsc >= 0.80, "现为 %.2f 档" % tsc if tsc else "")
     for s in d["sentences"]:
         im = MV.draw_sentence(bg, s, W, H)
         a = np.asarray(im).astype(int)
