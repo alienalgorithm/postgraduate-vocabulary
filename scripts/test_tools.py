@@ -2455,9 +2455,14 @@ check("README 写清了整套视频程序（脚本表＋检察官条目＋版面
     x in _rm for x in ("scripts/build_reader.py", "scripts/make_video.py",
                        "scripts/video_inspector.py", "scripts/gate_drill.py",
                        "视频检察官（三层二十四条）", "版面标准", "git lfs pull")))
-check("三篇成品视频都入库（Git LFS）", all(
+# ★ 2026-09-13：a01-a05 仍用 LFS（当时传的），a06 起因为这个沙箱到不了
+#   github-cloud.s3.amazonaws.com，改用 `git lfs migrate export` 转成普通 blob——
+#   .gitattributes 也从「reader/*.mp4 通配符」改成「a01-a05 各写一行」，
+#   不能再拿通配符字符串去比对。
+check("成品视频都入库、LFS 规则跟实际状态一致", all(
     os.path.exists(os.path.join(ROOT, "reader/a%s.mp4" % x)) for x in ("01", "02", "03"))
-    and "reader/*.mp4 filter=lfs" in open(os.path.join(ROOT, ".gitattributes"), encoding="utf-8").read())
+    and all(("reader/a%s.mp4 filter=lfs" % x) in open(os.path.join(ROOT, ".gitattributes"), encoding="utf-8").read()
+            for x in ("01", "02", "03", "04", "05")))
 check("闸门演习：每条标准故意做坏，检察官全都响", _gd.returncode == 0 and "全部响了" in _gd.stdout,
       "\n".join(l for l in _gd.stdout.split("\n") if "没响" in l)[:300])
 check("三道闸都在检察官里", all(x in _vsrc for x in ("标题页不写「第几篇」", "标题页真的在念", "句间停顿 ≥ 0.4 秒")))

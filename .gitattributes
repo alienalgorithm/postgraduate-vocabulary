@@ -1,7 +1,13 @@
-reader/*.mp4 filter=lfs diff=lfs merge=lfs -text
+# ★ 2026-09-13 改规则：这个沙箱的网络白名单里没有 github-cloud.s3.amazonaws.com，
+#   LFS 的实际存储传输（上传和下载）都走这个域名，永远会被拦——不管 token 多新。
+#   a01-a05 已经用 LFS 存好了（当时在别的环境传的，留着不动，改了也没法处理）。
+#   a06 起改成普通 git blob 直接存（用 `git lfs migrate export --include="reader/aNN.mp4"`
+#   转过一轮）——不追求「大文件都该用 LFS」的洁癖，先把视频能传上去最重要。
+#   详情见 notes/对话交接文档.md 第 3 节「LFS 网络卡点」。
+reader/a01.mp4 filter=lfs diff=lfs merge=lfs -text
+reader/a02.mp4 filter=lfs diff=lfs merge=lfs -text
+reader/a03.mp4 filter=lfs diff=lfs merge=lfs -text
+reader/a04.mp4 filter=lfs diff=lfs merge=lfs -text
+reader/a05.mp4 filter=lfs diff=lfs merge=lfs -text
 tools/say-en/models/*.onnx filter=lfs diff=lfs merge=lfs -text
 tools/say-en/models/*.bin filter=lfs diff=lfs merge=lfs -text
-reader/a06.mp4 !text !filter !merge !diff
-reader/a07.mp4 !text !filter !merge !diff
-reader/a08.mp4 !text !filter !merge !diff
-reader/a09.mp4 !text !filter !merge !diff

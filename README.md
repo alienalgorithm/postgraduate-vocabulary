@@ -25,8 +25,19 @@
 | 01 | Snow and the Broad Street Pump / 斯诺与宽街水泵 | [`reader/a01.mp4`](reader/a01.mp4) |
 | 02 | A Garden Without Sunlight / 不见阳光的花园 | [`reader/a02.mp4`](reader/a02.mp4) |
 | 03 | The Graph That Changed the Sky / 改变天空的那张图 | [`reader/a03.mp4`](reader/a03.mp4) |
+| 04 | Fifteen Degrees an Hour / 一小时，十五度 | [`reader/a04.mp4`](reader/a04.mp4) |
+| 05 | The Price Was Elsewhere / 价格在别处 | [`reader/a05.mp4`](reader/a05.mp4) |
+| 06 | The Reaction That Had to Be Invented Twice / 一种不得不发明两次的反应 | [`reader/a06.mp4`](reader/a06.mp4) |
+| 07 | The Meaning He Left Out / 他暂时略去的意义 | [`reader/a07.mp4`](reader/a07.mp4) |
+| 08 | A Ruler Without a Zero / 一把没有零点的尺子 | [`reader/a08.mp4`](reader/a08.mp4) |
+| 09 | Zero Was Not Enough / 归零还不够 | [`reader/a09.mp4`](reader/a09.mp4) |
 
-> 视频由 **Git LFS** 管（见 `.gitattributes`）。克隆后要拿到真文件：`git lfs install && git lfs pull`。
+> **a01-a05** 由 **Git LFS** 管（见 `.gitattributes`）；克隆后要拿到真文件：`git lfs install && git lfs pull`。
+> **a06 起是普通 git blob**，直接 clone 就有，不必跑 LFS 命令——这个沙箱的网络白名单到不了
+> LFS 实际传输用的 `github-cloud.s3.amazonaws.com`，改用 `git lfs migrate export` 把 a06 起的视频
+> 转成普通 blob 才推上去的（2026-09-13）。往后的新视频（a10 起）也按普通 blob 直接 `git add`，
+> 不必再跑 migrate——`.gitattributes` 已经把 `reader/*.mp4` 的通配 LFS 规则改成只列 a01-a05 五行，
+> 新文件默认就不会被 LFS 接管。详情见 `notes/对话交接文档.md`。
 
 网页两个入口：[`watch.html?a=01`](watch.html?a=01)（播视频，点句跳转）、
 [`listen.html?a=01`](listen.html?a=01)（跟读页，逐词高亮）。
@@ -34,11 +45,11 @@
 ### 怎么做一篇
 
 ```bash
-git lfs install && git lfs pull        # 模型与成品视频都走 LFS
+git lfs install && git lfs pull        # 只有 a01-05.mp4 和 say-en 模型走 LFS；a06 起是普通 blob，clone 就有
 pip install kokoro-onnx soundfile numpy --break-system-packages
 
-python3 scripts/build_reader.py 06     # 合成音频 + 切意群 → reader/a06.json
-python3 scripts/make_video.py  06      # 渲视频 → reader/a06.mp4（渲完自动过检察官）
+python3 scripts/build_reader.py 10     # 合成音频 + 切意群 → reader/a10.json
+python3 scripts/make_video.py  10      # 渲视频 → reader/a10.mp4（渲完自动过检察官）
 ```
 
 **离线 TTS 连同 338 MB 模型都在仓库里**（`tools/say-en/`，走 Git LFS），
