@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""生成「考研英语精读」网站（jingdu/）。
+"""生成「考研英语精读」单文件合集（考研英语精读-70篇.html）。
 数据来源：新版定稿/NN-*.md（全部 70 篇）+ 视频/脚本/NN.json（已定稿视频的逐词对照）。
 用法：python3 jingdu/tools/build_site.py
 """
@@ -116,27 +116,16 @@ def build():
         j=os.path.join(ROOT,'视频','脚本',f'{no}.json'); a['json']=json.load(open(j)) if os.path.exists(j) else None
         a['video']=os.path.exists(os.path.join(ROOT,'视频','视频',f'{no}.mp4'))
         arts.append(a)
-    open(os.path.join(OUT,'style.css'),'w').write(CSS)
-    # index
-    cards=''.join(f'''<a class="card" href="{a["no"]}.html"><div class="no">{a["no"]}</div><div class="t">{esc(a["title_en"])}</div><div class="z">{esc(a["title_zh"])}</div>
+    cards=''.join(f'''<a class="card" href="#a{a["no"]}"><div class="no">{a["no"]}</div><div class="t">{esc(a["title_en"])}</div><div class="z">{esc(a["title_zh"])}</div>
 <span class="badge{'' if a['json'] else ' wait'}">{'视频定稿 · 逐词对照' if a['json'] else '双语全文'}</span></a>''' for a in arts)
     done=sum(1 for a in arts if a['json'])
-    idx=f'''<div class="hero"><div class="kick">考研英语精读</div><h1>70 Stories Worth <span class="hl">Every Word</span></h1>
-<span class="tag">70 篇双语精读 · 3600+ 考研重点词</span><div class="sub">已定稿视频 {done} / 70 篇 · 持续更新</div></div><div class="grid">{cards}</div>
-<div class="foot">每篇重点词英中同色 · 逐词对照与视频同步</div>'''
-    open(os.path.join(OUT,'index.html'),'w').write(page('考研英语精读 · 70 篇',idx))
-    # articles
+    parts=[f'''<div class="hero" id="top"><div class="kick">考研英语精读</div><h1>70 Stories Worth <span class="hl">Every Word</span></h1>
+<span class="tag">70 篇双语精读 · 3600+ 考研重点词</span><div class="sub">已定稿 {done} / 70 篇 · 持续更新</div></div>
+<div class="tools sticky"><button class="btn" data-m="">中英对照</button><button class="btn" data-m="hide-zh">只看英文</button><button class="btn" data-m="hide-en">只看中文</button><a class="btn" href="#top">目录</a></div>
+<div class="grid">{cards}</div>''']
     for k,a in enumerate(arts):
-        prev=f'<a href="{arts[k-1]["no"]}.html">← {arts[k-1]["no"]}</a>' if k else '<span></span>'
-        nxt=f'<a href="{arts[k+1]["no"]}.html">{arts[k+1]["no"]} →</a>' if k<len(arts)-1 else '<span></span>'
-        nav=f'<div class="nav">{prev}<a href="index.html">全部 70 篇</a>{nxt}</div>'
         d=a['json']; fx=(d or {}).get('title_fx',{})
-        hero=f'<div class="hero"><div class="kick">考研英语精读 · No.{a["no"]}</div><h1>{title_html(a["title_en"],fx)}</h1><span class="tag">{esc(a["title_zh"])}</span></div>'
-        tools='<div class="tools"><button class="btn" data-m="">中英对照</button><button class="btn" data-m="hide-zh">只看英文</button><button class="btn" data-m="hide-en">只看中文</button></div>'
-        body=nav+hero
-        if a['video']:
-            body+=f'<video controls preload="metadata" src="../视频/视频/{a["no"]}.mp4"></video>'
-        body+=tools
+        body=f'<article id="a{a["no"]}"><div class="hero"><div class="kick">考研英语精读 · No.{a["no"]}</div><h1>{title_html(a["title_en"],fx)}</h1><span class="tag">{esc(a["title_zh"])}</span></div>'
         if d:
             c=colors_for([ch['en'] for s in d['sentences'] for ch in s['chunks']])
             out=[];prevp=None;buf=[]
@@ -150,16 +139,14 @@ def build():
                 buf.append('<div class="sent">'+''.join(cs)+'</div>')
             out.append('<section class="para">'+''.join(buf)+'</section>')
             body+=''.join(out)
-            dl=f'<div class="tools"><a class="btn" href="../视频/对照文本/{a["no"]}-文本.docx">下载 Word 对照文本</a><a class="btn" href="../视频/对照文本/{a["no"]}-文本.pdf">下载 PDF</a></div>'
-            body+=dl
         else:
             c=colors_for(a['en'])
-            ps=''.join(f'<p class="enp">{en_html(e,c)}</p><p class="zhp">{zh_html(z,c)}</p>' for e,z in zip(a['en'],a['zh']))
-            body+=f'<div class="plain">{ps}</div>'
-            c2=c
-        cc=c
-        trs=''.join(f'<tr><td class="w" style="color:{rgb(cc.get(w.lower(),PAL[0]))}">{esc(w)}</td><td>{esc(m)}</td><td>{p}</td></tr>' for w,m,p in a['rows'])
-        body+=f'<h2>速查表 · {len(a["rows"])} 词</h2><table><tr><th>词</th><th>释义</th><th>段</th></tr>{trs}</table>'+nav.replace('class="nav"','class="nav" style="margin-top:40px"')
-        open(os.path.join(OUT,f'{a["no"]}.html'),'w').write(page(f'{a["no"]} · {a["title_zh"]}',body,TOGGLE))
-    print('built',len(arts),'articles,',done,'finalized')
+            body+='<div class="plain">'+''.join(f'<p class="enp">{en_html(e,c)}</p><p class="zhp">{zh_html(z,c)}</p>' for e,z in zip(a['en'],a['zh']))+'</div>'
+        trs=''.join(f'<tr><td class="w" style="color:{rgb(c.get(w.lower(),PAL[0]))}">{esc(w)}</td><td>{esc(m)}</td><td>{p}</td></tr>' for w,m,p in a['rows'])
+        body+=f'<h2>速查表 · {len(a["rows"])} 词</h2><table><tr><th>词</th><th>释义</th><th>段</th></tr>{trs}</table><div class="nav" style="margin-top:30px"><a href="#top">↑ 回到目录</a></div></article>'
+        parts.append(body)
+    css=CSS+"article{border-top:2px solid var(--line);margin-top:60px}.sticky{position:sticky;top:0;z-index:5;background:rgba(14,36,30,.92);padding:8px 0;margin:0}"
+    doc=f'<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>考研英语精读 · 70 篇</title><style>{css}</style></head><body><div class="wrap">{"".join(parts)}<div class="foot">每篇重点词英中同色 · 定稿篇目与视频逐词对照一致</div></div>{TOGGLE}</body></html>'
+    out=os.path.join(ROOT,'考研英语精读-70篇.html'); open(out,'w').write(doc)
+    print('built',out,len(arts),'articles,',done,'finalized',os.path.getsize(out)//1024,'KB')
 if __name__=='__main__': build()

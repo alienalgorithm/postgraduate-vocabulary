@@ -2,8 +2,6 @@
 
 《经济学人》风格的双语科普短文，面向考研词汇学习。每篇自题材中挑出 50 个重点词，跨篇不重复（含同根）。英文重点词加粗，中文自然译法同步加粗并保留英文原样括注；网站提供中英连线、单语阅读、挖空自测、字号切换、打印和1500词索引。
 
-**新版精读网站（与视频同风格，逐步更新）** → https://alienrocketbus.github.io/postgraduate-vocabulary/jingdu/
-
 **网站** → https://alienrocketbus.github.io/postgraduate-vocabulary/
 
 ## 怎么用这 3,500 个词
