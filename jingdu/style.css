@@ -1,0 +1,51 @@
+
+:root{--bg1:#0e241e;--bg2:#143028;--en:#f0f7f2;--zh:#aac4b6;--dim:#6e8c7d;--ac:#fbbf24;--te:#5eead4;--card:rgba(255,255,255,.04);--line:rgba(255,255,255,.08)}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;min-height:100vh;background:linear-gradient(180deg,var(--bg1),var(--bg2)) fixed;color:var(--en);
+font-family:Inter,"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.5}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 16px 80px}
+.kick{color:var(--te);font-weight:700;letter-spacing:.08em;font-size:14px;display:flex;align-items:center;gap:14px;justify-content:center}
+.kick:before,.kick:after{content:"";width:56px;height:2px;background:var(--te);opacity:.8}
+.hero{text-align:center;padding:48px 0 36px;position:relative}
+.hero h1{font-weight:900;font-size:clamp(36px,7vw,84px);line-height:1.05;margin:18px 0 18px;letter-spacing:-.01em}
+.hl{background:linear-gradient(90deg,#ffd640,#ff7850);-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 0 18px rgba(255,120,80,.35))}
+.ghost{background:linear-gradient(90deg,#f8faf6 0%,#f8faf6 35%,rgba(200,255,230,.15) 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.tag{display:inline-block;background:var(--ac);color:#14281f;font-weight:900;border-radius:12px;padding:8px 22px;font-size:clamp(20px,3.4vw,40px)}
+.sub{color:var(--zh);margin-top:22px;font-size:15px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;margin-top:28px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;position:relative;transition:.15s;display:block}
+.card:hover{border-color:var(--te);transform:translateY(-2px)}
+.card .no{font-weight:900;font-size:30px;color:rgba(160,230,200,.25);position:absolute;right:14px;top:6px}
+.card .t{font-weight:700;font-size:17px;padding-right:40px}
+.card .z{color:var(--ac);font-weight:700;margin-top:6px}
+.badge{display:inline-block;margin-top:10px;font-size:12px;font-weight:700;border-radius:6px;padding:2px 8px;background:rgba(94,234,212,.15);color:var(--te)}
+.badge.wait{background:rgba(255,255,255,.06);color:var(--dim)}
+.nav{display:flex;justify-content:space-between;gap:10px;font-size:14px;color:var(--zh);margin-bottom:8px;flex-wrap:wrap}
+.nav a:hover{color:var(--te)}
+.tools{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:6px 0 26px}
+.btn{border:1px solid var(--line);background:var(--card);color:var(--en);border-radius:10px;padding:8px 14px;font-size:14px;cursor:pointer;font-family:inherit}
+.btn.on{border-color:var(--te);color:var(--te)}
+video{width:100%;border-radius:14px;border:1px solid var(--line);background:#000;display:block;margin:0 auto 30px}
+.para{margin:0 0 30px;padding-bottom:18px;border-bottom:1px solid var(--line)}
+.sent{margin:0 0 18px}
+.chunk{text-align:center;margin:4px 0 8px}
+.col{display:inline-flex;flex-direction:column;align-items:center;margin:4px 8px;vertical-align:top}
+.en{font-size:clamp(17px,2.3vw,26px);font-weight:600;white-space:nowrap}
+.zh{font-size:clamp(13px,1.65vw,18px);color:var(--zh);margin-top:2px}
+.zh b{font-weight:700;margin:0 .15em}
+.note{color:var(--zh);font-size:clamp(12px,1.5vw,16px);margin:2px 0 6px;text-align:center}
+.note.y{color:var(--ac)}
+.br{flex-basis:100%;height:0;display:block}
+.plain p{font-size:clamp(17px,2vw,21px);line-height:1.75;margin:0 0 18px}
+.plain p.zhp{color:var(--zh);font-size:clamp(15px,1.8vw,18px);margin-bottom:30px}
+.plain b{font-weight:700}
+body.hide-zh .zh,body.hide-zh .zhp,body.hide-zh .note{visibility:hidden}
+body.hide-en .en,body.hide-en .enp{visibility:hidden}
+h2{font-size:20px;margin:40px 0 14px;color:var(--te)}
+table{width:100%;border-collapse:collapse;font-size:15px}
+td,th{border-bottom:1px solid var(--line);padding:8px 6px;text-align:left;vertical-align:top}
+th{color:var(--dim);font-weight:600}
+td.w{font-weight:700;white-space:nowrap}
+.foot{color:var(--dim);font-size:13px;text-align:center;margin-top:50px}
+@media(max-width:640px){.col{margin:3px 5px}.en{white-space:normal}}
