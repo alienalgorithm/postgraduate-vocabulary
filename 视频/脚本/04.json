@@ -15,11 +15,15 @@
    "chunks": [
     {
      "en": "Name two addresses",
-     "zh": "随便说出两个地址，",
+     "zh": "（随便）报出两个地址，",
      "align": [
       [
-       "Name two addresses",
-       "随便说出两个地址，"
+       "Name",
+       "（随便）报出"
+      ],
+      [
+       "two addresses",
+       "两个地址，"
       ]
      ]
     },
@@ -29,11 +33,11 @@
      "align": [
       [
        "and a London cabbie",
-       "伦敦的出租车司机就能"
+       "伦敦的出租车司机就"
       ],
       [
        "will **rattle off**",
-       "**脱口说出**(rattle off)"
+       "能**脱口说出**(rattle off)"
       ],
       [
        "the quickest route.",
@@ -52,8 +56,12 @@
      "zh": "这份**本领**(prowess)**来之不易**(hard-won)。",
      "align": [
       [
-       "That **prowess**",
-       "这份**本领**(prowess)"
+       "That",
+       "这份"
+      ],
+      [
+       "**prowess**",
+       "**本领**(prowess)"
       ],
       [
        "is **hard-won**.",
@@ -72,8 +80,12 @@
      "zh": "要拿到**执照**(licence)，",
      "align": [
       [
-       "To earn a **licence**,",
-       "要拿到**执照**(licence)，"
+       "To earn",
+       "要拿到"
+      ],
+      [
+       "a **licence**,",
+       "**执照**(licence)，"
       ]
      ]
     },
@@ -82,8 +94,12 @@
      "zh": "**立志入行的**(aspiring)司机必须**攻克**(conquer)“知识大考”，",
      "align": [
       [
-       "**aspiring** drivers",
-       "**立志入行的**(aspiring)司机"
+       "**aspiring**",
+       "**立志入行的**(aspiring)"
+      ],
+      [
+       "drivers",
+       "司机"
       ],
       [
        "must **conquer**",
@@ -101,14 +117,22 @@
      "zh": "这是一场**艰巨的**(arduous)**考试**(examination)，",
      "align": [
       [
-       "an **arduous** **examination**",
-       "这是一场**艰巨的**(arduous)**考试**(examination)，"
+       "an",
+       "这是一场"
+      ],
+      [
+       "**arduous**",
+       "**艰巨的**(arduous)"
+      ],
+      [
+       "**examination**",
+       "**考试**(examination)，"
       ]
      ]
     },
     {
      "en": "on about 25,000 streets within six miles of Charing Cross.",
-     "zh": "考的是约25,000条街道，都在查令十字周边6英里以内。",
+     "zh": "考的是约25,000条街道，都在查令十字周边六英里以内。",
      "align": [
       [
        "on about 25,000 streets",
@@ -120,7 +144,7 @@
       ],
       [
        "within six miles of Charing Cross.",
-       "都在查令十字周边6英里以内。"
+       "都在查令十字周边六英里以内。"
       ]
      ],
      "note": "（查令十字：伦敦市中心的地标，常被当作伦敦的中心点）"
@@ -132,19 +156,23 @@
    "chunks": [
     {
      "en": "**Hopefuls** **typically** spend three to four years",
-     "zh": "**考生们**(Hopefuls)**通常**(typically)要花三到四年",
+     "zh": "**考生**(Hopefuls)**通常**(typically)要花三到四年",
      "align": [
       [
        "**Hopefuls**",
-       "**考生们**(Hopefuls)"
+       "**考生**(Hopefuls)"
       ],
       [
        "**typically**",
        "**通常**(typically)"
       ],
       [
-       "spend three to four years",
-       "要花三到四年"
+       "spend",
+       "要花"
+      ],
+      [
+       "three to four years",
+       "三到四年"
       ]
      ]
     },
@@ -161,11 +189,19 @@
     },
     {
      "en": "and only about half **qualify**.",
-     "zh": "而最终**合格**(qualify)的只有大约一半。",
+     "zh": "而只有大约一半的人**合格**(qualify)。",
      "align": [
       [
-       "and only about half **qualify**.",
-       "而最终**合格**(qualify)的只有大约一半。"
+       "and",
+       "而"
+      ],
+      [
+       "only about half",
+       "只有大约一半的人"
+      ],
+      [
+       "**qualify**.",
+       "**合格**(qualify)。"
       ]
      ]
     }
@@ -176,37 +212,33 @@
    "chunks": [
     {
      "en": "A study published in PNAS in April 2000",
-     "zh": "一项研究发表于《美国国家科学院院刊》（2000年4月），",
+     "zh": "2000年4月发表于《美国国家科学院院刊》的一项研究",
      "align": [
       [
-       "A study",
-       "一项研究"
-      ],
-      [
-       "published in PNAS",
-       "发表于《美国国家科学院院刊》"
-      ],
-      [
-       "in April 2000",
-       "（2000年4月），"
+       "A study published in PNAS in April 2000",
+       "2000年4月发表于《美国国家科学院院刊》的一项研究"
       ]
      ]
     },
     {
      "en": "**scanned** 16 male cabbies and 50 other men.",
-     "zh": "**扫描**(scanned)了16名男性出租车司机和50名其他男性（的大脑）。",
+     "zh": "**扫描了**(scanned)16名男性出租车司机和50名其他男性（的大脑）。",
      "align": [
       [
        "**scanned**",
-       "**扫描**(scanned)了"
+       "**扫描了**(scanned)"
       ],
       [
        "16 male cabbies",
        "16名男性出租车司机"
       ],
       [
-       "and 50 other men.",
-       "和50名其他男性（的大脑）。"
+       "and",
+       "和"
+      ],
+      [
+       "50 other men.",
+       "50名其他男性（的大脑）。"
       ]
      ]
     }
@@ -224,19 +256,23 @@
        "海马体"
       ],
       [
-       "is a seahorse-shaped structure",
-       "是一个形似海马的结构，"
+       "is a",
+       "是一个"
+      ],
+      [
+       "seahorse-shaped structure",
+       "形似海马的结构，"
       ]
      ],
      "note": "（海马体：大脑深处负责记忆的区域）"
     },
     {
      "en": "**vital** to memory and **navigation**.",
-     "zh": "对记忆和**导航**(navigation)都是**至关重要的**(vital)。",
+     "zh": "对记忆和**导航**(navigation)都**至关重要**(vital)。",
      "align": [
       [
        "**vital** to memory and **navigation**.",
-       "对记忆和**导航**(navigation)都是**至关重要的**(vital)。"
+       "对记忆和**导航**(navigation)都**至关重要**(vital)。"
       ]
      ]
     }
@@ -257,11 +293,23 @@
     },
     {
      "en": "its rear, or **posterior**, **portion**",
-     "zh": "海马体靠后的（也就是**后部的**(posterior)）**部分**(portion)",
+     "zh": "海马体靠后的，也就是**后部的**(posterior)**部分**(portion)",
      "align": [
       [
-       "its rear, or **posterior**, **portion**",
-       "海马体靠后的（也就是**后部的**(posterior)）**部分**(portion)"
+       "its",
+       "海马体"
+      ],
+      [
+       "rear,",
+       "靠后的，"
+      ],
+      [
+       "or **posterior**,",
+       "也就是**后部的**(posterior)"
+      ],
+      [
+       "**portion**",
+       "**部分**(portion)"
       ]
      ]
     },
@@ -277,17 +325,30 @@
     },
     {
      "en": "and its front, or **anterior**, portion smaller.",
-     "zh": "而靠前的（也就是**前部的**(anterior)）部分则较小。",
+     "zh": "而靠前的，也就是**前部的**(anterior)部分则较小。",
      "align": [
       [
-       "and its front, or **anterior**, portion",
-       "而靠前的（也就是**前部的**(anterior)）部分"
+       "and",
+       "而"
+      ],
+      [
+       "its front,",
+       "靠前的，"
+      ],
+      [
+       "or **anterior**,",
+       "也就是**前部的**(anterior)"
+      ],
+      [
+       "portion",
+       "部分"
       ],
       [
        "smaller.",
        "则较小。"
       ]
-     ]
+     ],
+     "note": "（portion 后省略了 was；smaller 后省略了 than in the other men）"
     }
    ]
   },
@@ -307,7 +368,7 @@
        "后部也越大。"
       ]
      ],
-     "note": "（go with：与……相伴；此处指两者相关，不是因果）"
+     "note": "（go with：与……相伴；这里指两者有关联）"
     }
    ]
   },
@@ -316,7 +377,7 @@
    "chunks": [
     {
      "en": "Yet the link left the cause **uncertain**.",
-     "zh": "然而，这种关联让原因仍然是**不确定的**(uncertain)。",
+     "zh": "然而，这种关联性让原因仍然**不确定**(uncertain)。",
      "align": [
       [
        "Yet",
@@ -324,14 +385,22 @@
       ],
       [
        "the link",
-       "这种关联"
+       "这种关联性"
       ],
       [
-       "left the cause **uncertain**.",
-       "让原因仍然是**不确定的**(uncertain)。"
+       "left",
+       "让"
+      ],
+      [
+       "the cause",
+       "原因"
+      ],
+      [
+       "**uncertain**.",
+       "仍然**不确定**(uncertain)。"
       ]
      ],
-     "note": "（leave + 宾语 + 形容词：使……处于某种状态；这里指只看出两者相关，看不出谁导致谁）"
+     "note": "（关联性：【从业时间越长】与【后部越大】之间的关系；leave + 宾语 + 形容词）"
     }
    ]
   },
@@ -347,8 +416,16 @@
        "也许"
       ],
       [
-       "an **innate** **flair** for **spatial** tasks",
-       "是一种**天生的**(innate)、擅长**空间**(spatial)任务的**天赋**(flair)"
+       "an",
+       "是一种"
+      ],
+      [
+       "**innate**",
+       "**天生的**(innate)、"
+      ],
+      [
+       "**flair** for **spatial** tasks",
+       "擅长**空间**(spatial)任务的**天赋**(flair)"
       ]
      ]
     },
@@ -368,7 +445,7 @@
     },
     {
      "en": "or perhaps **stressful** driving was the **culprit**.",
-     "zh": "又或许**紧张的**(stressful)驾驶才是**罪魁祸首**(culprit)。",
+     "zh": "又或许**压力大的**(stressful)驾驶才是**罪魁祸首**(culprit)。",
      "align": [
       [
        "or perhaps",
@@ -376,14 +453,14 @@
       ],
       [
        "**stressful** driving",
-       "**紧张的**(stressful)驾驶"
+       "**压力大的**(stressful)驾驶"
       ],
       [
        "was the **culprit**.",
        "才是**罪魁祸首**(culprit)。"
       ]
      ],
-     "note": "（culprit：本义“罪犯”，这里指造成大脑差异的原因）"
+     "note": "（culprit 原指罪犯，这里指造成大脑差异的原因）"
     }
    ]
   },
@@ -392,61 +469,77 @@
    "chunks": [
     {
      "en": "A December 2006 study **dispelled** the second **notion**:",
-     "zh": "2006年12月的一项研究**打消**(dispelled)了第二种**想法**(notion)：",
+     "zh": "2006年12月的一项研究**打消了**(dispelled)第二种**想法**(notion)：",
      "align": [
       [
        "A December 2006 study",
        "2006年12月的一项研究"
       ],
       [
-       "**dispelled** the second **notion**:",
-       "**打消**(dispelled)了第二种**想法**(notion)："
+       "**dispelled**",
+       "**打消了**(dispelled)"
+      ],
+      [
+       "the second **notion**:",
+       "第二种**想法**(notion)："
       ]
      ]
     },
     {
      "en": "cabbies had more rear grey matter,",
-     "zh": "出租车司机后部的灰质更多，",
+     "zh": "出租车司机的后部灰质更多，",
      "align": [
       [
        "cabbies had more rear grey matter,",
-       "出租车司机后部的灰质更多，"
+       "出租车司机的后部灰质更多，"
       ]
      ]
     },
     {
      "en": "the tissue **dense** with **nerve** cells,",
-     "zh": "灰质即**密布**(dense)**神经**(nerve)细胞的组织，",
+     "zh": "（也就是）**神经**(nerve)细胞**密集的**(dense)组织，",
      "align": [
       [
        "the tissue **dense** with **nerve** cells,",
-       "灰质即**密布**(dense)**神经**(nerve)细胞的组织，"
+       "（也就是）**神经**(nerve)细胞**密集的**(dense)组织，"
       ]
      ],
-     "note": "（dense with：密布着……）"
+     "note": "（dense with：……密集的、布满……的）"
     },
     {
      "en": "than bus drivers, **confined** to **predetermined** routes, of **equivalent** experience and stress.",
-     "zh": "比公交司机的多；这些公交司机**局限于**(confined)**预先确定的**(predetermined)线路，经验和压力（与出租车司机）都是**相当的**(equivalent)。",
+     "zh": "比公交司机的多；这些公交司机**局限于**(confined)**预先确定的**(predetermined)线路，有着（与出租车司机）**相当的**(equivalent)经验和压力。",
      "align": [
       [
        "than bus drivers,",
        "比公交司机的多；"
       ],
       [
-       "**confined** to **predetermined** routes,",
-       "这些公交司机**局限于**(confined)**预先确定的**(predetermined)线路，"
+       "**confined** to",
+       "这些公交司机**局限于**(confined)"
+      ],
+      [
+       "**predetermined** routes,",
+       "**预先确定的**(predetermined)线路，"
       ],
       [
        "\n",
        ""
       ],
       [
-       "of **equivalent** experience and stress.",
-       "经验和压力（与出租车司机）都是**相当的**(equivalent)。"
+       "of",
+       "有着"
+      ],
+      [
+       "**equivalent**",
+       "（与出租车司机）**相当的**(equivalent)"
+      ],
+      [
+       "experience and stress.",
+       "经验和压力。"
       ]
      ],
-     "note": "（more … than bus drivers 中间插入了对灰质的解释；confined to… 和 of equivalent… 都修饰 bus drivers）"
+     "note": "（more … than 被同位语隔开；confined to… 和 of equivalent… 都修饰 bus drivers）"
     }
    ]
   },
@@ -455,15 +548,23 @@
    "chunks": [
     {
      "en": "A December 2011 **longitudinal** study **tackled** the first,",
-     "zh": "2011年12月的一项**纵向的**(longitudinal)研究**着手检验**(tackled)第一种想法（即天赋把人吸引到这一行），",
+     "zh": "2011年12月的一项**纵向**(longitudinal)研究**着手检验**(tackled)第一种想法（即天赋把人吸引到这一行），",
      "align": [
       [
-       "A December 2011 **longitudinal** study",
-       "2011年12月的一项**纵向的**(longitudinal)研究"
+       "A December 2011",
+       "2011年12月的一项"
       ],
       [
-       "**tackled** the first,",
-       "**着手检验**(tackled)第一种想法（即天赋把人吸引到这一行），"
+       "**longitudinal** study",
+       "**纵向**(longitudinal)研究"
+      ],
+      [
+       "**tackled**",
+       "**着手检验**(tackled)"
+      ],
+      [
+       "the first,",
+       "第一种想法（即天赋把人吸引到这一行），"
       ]
      ],
      "note": "（纵向研究：长期追踪同一批人）"
@@ -473,22 +574,34 @@
      "zh": "扫描了79名**学员**(trainees)和31名非学员，",
      "align": [
       [
-       "scanning 79 **trainees** and 31 non-trainees",
-       "扫描了79名**学员**(trainees)和31名非学员，"
+       "scanning",
+       "扫描了"
+      ],
+      [
+       "79 **trainees**",
+       "79名**学员**(trainees)"
+      ],
+      [
+       "and",
+       "和"
+      ],
+      [
+       "31 non-trainees",
+       "31名非学员，"
       ]
      ]
     },
     {
      "en": "at **enrolment** and three to four years later.",
-     "zh": "分别在**入学**(enrolment)时和三到四年后（各扫描一次）。",
+     "zh": "时间是**入学**(enrolment)时和三到四年后。",
      "align": [
       [
        "at **enrolment**",
-       "分别在**入学**(enrolment)时"
+       "时间是**入学**(enrolment)时"
       ],
       [
        "and three to four years later.",
-       "和三到四年后（各扫描一次）。"
+       "和三到四年后。"
       ]
      ]
     }
@@ -518,11 +631,15 @@
    "chunks": [
     {
      "en": "Only the 39 who qualified **exhibited** an **expansion** of rear grey matter,",
-     "zh": "只有最终合格的39人**表现出**(exhibited)后部灰质的**扩大**(expansion)，",
+     "zh": "只有合格的39人**表现出**(exhibited)后部灰质的**扩大**(expansion)，",
      "align": [
       [
-       "Only the 39 who qualified",
-       "只有最终合格的39人"
+       "Only",
+       "只有"
+      ],
+      [
+       "the 39 who qualified",
+       "合格的39人"
       ],
       [
        "**exhibited**",
@@ -536,11 +653,19 @@
     },
     {
      "en": "so the **sequence** suggests",
-     "zh": "因此这一**先后顺序**(sequence)表明，",
+     "zh": "因此这个**先后顺序**(sequence)表明，",
      "align": [
       [
-       "so the **sequence** suggests",
-       "因此这一**先后顺序**(sequence)表明，"
+       "so",
+       "因此"
+      ],
+      [
+       "the **sequence**",
+       "这个**先后顺序**(sequence)"
+      ],
+      [
+       "suggests",
+       "表明，"
       ]
      ]
     },
@@ -576,8 +701,12 @@
        "这种收获"
       ],
       [
-       "appeared to **entail**",
-       "似乎**必然带来**(entail)"
+       "appeared to",
+       "似乎"
+      ],
+      [
+       "**entail**",
+       "**必然带来**(entail)"
       ],
       [
        "a **trade-off**:",
@@ -595,18 +724,22 @@
        "合格的司机"
       ],
       [
-       "**trailed** the non-trainees",
-       "**落后于**(trailed)非学员，"
+       "**trailed**",
+       "**落后于**(trailed)"
+      ],
+      [
+       "the non-trainees",
+       "非学员，"
       ]
      ]
     },
     {
      "en": "on one test of recalling an **intricate** figure.",
-     "zh": "是在“回忆一幅**复杂的**(intricate)图形”这项测试上。",
+     "zh": "是在一项回忆**复杂**(intricate)图形的测试上。",
      "align": [
       [
        "on one test of recalling an **intricate** figure.",
-       "是在“回忆一幅**复杂的**(intricate)图形”这项测试上。"
+       "是在一项回忆**复杂**(intricate)图形的测试上。"
       ]
      ]
     }
@@ -617,11 +750,11 @@
    "chunks": [
     {
      "en": "The **cohorts** were small and **exclusively** male,",
-     "zh": "这些研究的**样本群体**(cohorts)规模小，而且**全都**(exclusively)是男性，",
+     "zh": "这些**样本群体**(cohorts)规模小，而且**全都**(exclusively)是男性，",
      "align": [
       [
        "The **cohorts**",
-       "这些研究的**样本群体**(cohorts)"
+       "这些**样本群体**(cohorts)"
       ],
       [
        "were small",
@@ -632,29 +765,45 @@
        "而且**全都**(exclusively)是男性，"
       ]
      ],
-     "note": "（cohort：被一起追踪研究的一组人）"
+     "note": "（cohort：研究中的一组受试者）"
     },
     {
      "en": "yet the studies **imply**",
      "zh": "但这些研究**暗示**(imply)，",
      "align": [
       [
-       "yet the studies **imply**",
-       "但这些研究**暗示**(imply)，"
+       "yet",
+       "但"
+      ],
+      [
+       "the studies",
+       "这些研究"
+      ],
+      [
+       "**imply**",
+       "**暗示**(imply)，"
       ]
      ]
     },
     {
      "en": "the healthy adult brain can **remodel** itself",
-     "zh": "健康的成人大脑可以**重塑**(remodel)自身，",
+     "zh": "健康的成人大脑可以**重塑**(remodel)它自己，",
      "align": [
       [
        "the healthy adult brain",
        "健康的成人大脑"
       ],
       [
-       "can **remodel** itself",
-       "可以**重塑**(remodel)自身，"
+       "can",
+       "可以"
+      ],
+      [
+       "**remodel**",
+       "**重塑**(remodel)"
+      ],
+      [
+       "itself",
+       "它自己，"
       ]
      ]
     },
@@ -663,8 +812,16 @@
      "zh": "靠的是**高强度的**(intensive)学习。",
      "align": [
       [
-       "through **intensive** learning.",
-       "靠的是**高强度的**(intensive)学习。"
+       "through",
+       "靠的是"
+      ],
+      [
+       "**intensive**",
+       "**高强度的**(intensive)"
+      ],
+      [
+       "learning.",
+       "学习。"
       ]
      ]
     }
@@ -675,21 +832,30 @@
    "chunks": [
     {
      "en": "Every street learned, it seems,",
-     "zh": "看来，每记住一条街道，",
+     "zh": "每记住一条街道，似乎",
      "align": [
       [
-       "Every street learned, it seems,",
-       "看来，每记住一条街道，"
+       "Every street learned,",
+       "每记住一条街道，"
+      ],
+      [
+       "it seems,",
+       "似乎"
       ]
-     ]
+     ],
+     "note": "（learned 作后置定语，修饰 street；it seems 是插入语）"
     },
     {
      "en": "**occupied** room",
-     "zh": "都**占据**(occupied)了一块空间，",
+     "zh": "都**占据了**(occupied)一块空间，",
      "align": [
       [
-       "**occupied** room",
-       "都**占据**(occupied)了一块空间，"
+       "**occupied**",
+       "都**占据了**(occupied)"
+      ],
+      [
+       "room",
+       "一块空间，"
       ]
      ]
     },
@@ -705,5 +871,11 @@
     }
    ]
   }
- ]
+ ],
+ "核对确认": {
+  "牛津逗号": {
+   "S11 confined to predetermined routes, of equivalent experience and": "不是并列：experience and stress 只有两项（逗号前是修饰 bus drivers 的分词短语）",
+   "S12 study tackled the first, scanning 79 trainees and": "不是并列：79 trainees and 31 non-trainees 只有两项（逗号后是分词短语）"
+  }
+ }
 }
