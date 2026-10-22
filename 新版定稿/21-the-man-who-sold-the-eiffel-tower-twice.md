@@ -10,7 +10,7 @@ André Poisson, a **businessman** **impatient** to **gain a foothold** in Paris,
 
 **Fleeced** and too **ashamed** to go to the police, Poisson swallowed the loss **quietly**. Not a **whisper** of the **deceit** appeared in print.
 
-About a month later Lustig had the **gall** to **reappear** with an **encore** of his **script** for new dealers. This time the winner grew **distrustful** and went to the police. The **affair** made the papers, and Lustig made his **getaway**. The much-repeated second sale is a **fairy tale**.
+About a month later Lustig **had the gall to** **reappear** with an **encore** of his **script** for new dealers. This time the winner grew **distrustful** and went to the police. The **affair** made the papers, and Lustig made his **getaway**. The much-repeated second sale is a **fairy tale**.
 
 Later arrested in the United States for making **fake** money, Lustig broke out of **detention**, was **recaptured** 27 days later and served time on the **penal** island of Alcatraz. He died of pneumonia in 1947.
 
@@ -26,7 +26,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 被**骗走**(fleeced)钱财，又实在太**丢人**(ashamed)、**没脸**(ashamed)去报警，普瓦松只能**默默**(quietly)咽下这笔损失。报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。
 
-大约一个月后，卢斯蒂格竟**厚着脸皮**(gall)又一次**露面**(reappear)，对另一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者起了**疑心**(distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个流传甚广的第二次出售，只是一个**童话**(fairy tale)。
+大约一个月后，卢斯蒂格**厚颜无耻地去**(had the gall to)**再一次出现**(reappear)，对另一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者起了**疑心**(distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个流传甚广的第二次出售，只是一个**童话**(fairy tale)。
 
 后来，卢斯蒂格在美国因制造**假冒**(fake)货币被捕，他从**拘留所**(detention)越狱，27天后又被**抓回**(recaptured)，在作为**监狱**(penal)岛的恶魔岛服刑。1947年，他死于肺炎。
 
@@ -75,8 +75,8 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | quietly | adv. 默默地，悄悄地（quietly leave） | 4 |
 | whisper | n. 耳语；传闻，风声（a whisper of scandal） | 4 |
 | deceit | n. 欺骗，骗局（lies and deceit） | 4 |
-| gall | n. 厚颜，胆大妄为（have the gall to do sth） | 5 |
-| reappear | v. 再次出现（reappear after years） | 5 |
+| have the gall to | 厚颜无耻地（做某事）（have the gall to ask for more） | 5 |
+| reappear | v. 再一次出现，再次出现（reappear after years） | 5 |
 | encore | n. 加演，重演（play an encore） | 5 |
 | script | n. 剧本；文字（a film script） | 5 |
 | distrustful | adj. 不信任的，起疑的（distrustful of strangers） | 5 |
