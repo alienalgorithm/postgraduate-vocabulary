@@ -24,7 +24,7 @@ Of Lustig's two marks, the one who paid **kept mum** and the one who kept his mo
 
 安德烈·普瓦松，一个**生意人**(businessman)，**迫不及待地**(impatient)想在巴黎**拥有一席之地**(gain a foothold)，中标了。（a businessman…：同位语，说明 André Poisson；impatient to do：急于做……，形容词短语作后置定语；gain a foothold：站稳脚跟）卢斯蒂格**暗示**(intimated)，他那份微薄的**公务员**(civil-service)**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松然后付了一笔**额外的**(additional)**贿赂**(bribe)。（that…：宾语从句；need doing：需要被……，主动形式表被动）卢斯蒂格带着这笔**进账**(takings)去了维也纳。（leave for：动身前往）
 
-被**骗走**(Fleeced)钱财，又实在太**丢人**(ashamed)、**没脸**(ashamed)去报警，普瓦松只能**默默**(quietly)咽下这笔损失。（Fleeced and too ashamed…：过去分词与形容词并列作状语；too…to…：太……而不能……；go to the police：报警）报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。（Not a…：一点……都没有；in print：见报，在报刊上）
+被**骗走**(Fleeced)钱财，又实在太**丢人**(ashamed)、**没脸**(ashamed)去报警，普瓦松只能**默默**(quietly)地咽下这笔损失。（Fleeced and too ashamed…：过去分词与形容词并列作状语；too…to…：太……而不能……；go to the police：报警）报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。（Not a…：一点……都没有；in print：见报，在报刊上）
 
 大约一个月后，卢斯蒂格**厚颜无耻地去**(had the gall to)**再一次出现**(reappear)，对新的一批商人**重演**(encore)他那套**剧本**(script)。（have the gall to do：竟厚着脸皮做……）（an encore of…：……的重演）这一次，那位中标者**起了疑心**(grew distrustful)，报了警。（distrustful of：怀疑…，对…不相信，认为…靠不住）（常与 of 连用，表示对……不信任或怀疑）这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。（make the papers：上报纸；make one's getaway：逃走）那个**被反复提及的**(much-repeated)第二次出售，只是个**童话**(fairy tale)。
 
