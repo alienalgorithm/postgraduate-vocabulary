@@ -24,7 +24,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 安德烈·普瓦松，一个**生意人**(businessman)，**迫不及待**(impatient)地想在巴黎**拥有一席之地**(gain a foothold)，中标了。卢斯蒂格**暗示**(intimated)，他那份**公务员**(civil-service)的微薄**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松然后付了一笔**额外的**(additional)**贿赂**(bribe)。卢斯蒂格带着这笔**进账**(takings)去了维也纳。
 
-被**骗走**(fleeced)钱财、又**羞于**(ashamed)报警的普瓦松，**默默**(quietly)吞下了这笔损失。报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。
+被**骗走**(fleeced)钱财，又实在太**丢人**(ashamed)、**没脸**(ashamed)去报警，普瓦松只能**默默**(quietly)咽下这笔损失。报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。
 
 大约一个月后，卢斯蒂格竟**厚着脸皮**(gall)又一次**露面**(reappear)，对另一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者起了**疑心**(distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个流传甚广的第二次出售，只是一个**童话**(fairy tale)。
 
@@ -71,7 +71,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | bribe | n./v. 贿赂（accept a bribe） | 3 |
 | takings | n. 进账，收入（the day's takings） | 3 |
 | fleeced | v. (fleece) 诈骗钱财（be fleeced by a con man） | 4 |
-| ashamed | adj. 羞愧的（ashamed of oneself） | 4 |
+| ashamed | adj. 羞愧的，丢人的，没脸（做某事）（ashamed of oneself） | 4 |
 | quietly | adv. 默默地，悄悄地（quietly leave） | 4 |
 | whisper | n. 耳语；传闻，风声（a whisper of scandal） | 4 |
 | deceit | n. 欺骗，骗局（lies and deceit） | 4 |
