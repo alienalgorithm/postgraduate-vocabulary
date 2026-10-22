@@ -2,7 +2,7 @@
 # ZH: 两次卖掉埃菲尔铁塔的骗子
 
 ## 英文
-In 1925 six **scrap-metal** **traders** met secretly at the Hôtel de Crillon in Paris. A **deputy** **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for scrap. He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the public **indignation**.
+In 1925 six **scrap-metal** **traders** met secretly at the Hôtel de Crillon in Paris. A **deputy** **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for scrap. He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the **public indignation**.
 
 The **pretext** was not **absurd**. Built for the 1889 World's Fair, the **monument** had **originally** been **destined** to come down after twenty years. The **high-ranking** deputy was Victor Lustig, a **crook** whose **ministerial** stationery was a **forgery**. He had read a newspaper article in which the authorities **lamented** the **hefty** cost of the tower's **upkeep**.
 
@@ -18,7 +18,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 ## 中文
 
-1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店秘密会面。邮电部的一位**副**(deputy)**总负责人**(director-general)向他们**私下**(confidentially)分享了一个**重大**(momentous)消息，埃菲尔铁塔将作为废铁出售。他请他们**投标**(tenders)，并让每位商人**郑重**(solemnly)地**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了免得公众**愤慨**(indignation)。
+1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店秘密会面。邮电部的一位**副**(deputy)**总负责人**(director-general)向他们**私下**(confidentially)分享了一个**重大**(momentous)消息，埃菲尔铁塔将作为废铁出售。他请他们**投标**(tenders)，并让每位商人**郑重**(solemnly)地**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了避免引起**公愤**(public indignation)。
 
 这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后拆除。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他那些**部门**(ministerial)信笺都是**伪造品**(forgery)。他读到过一篇报道，当局在文中**抱怨**(lamented)铁塔**高昂**(hefty)的**维护**(upkeep)费用。
 
@@ -46,7 +46,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | vow | n./v. 誓言；发誓（make a vow；vow to return） | 1 |
 | secrecy | n. 保密（swear sb to secrecy） | 1 |
 | ostensibly | adv. 表面上，名义上（ostensibly for health reasons） | 1 |
-| indignation | n. 愤慨，义愤（public indignation） | 1 |
+| public indignation | n. 公愤（arouse public indignation 引起公愤） | 1 |
 | pretext | n. 借口（on the pretext of illness） | 2 |
 | absurd | adj. 荒唐的（an absurd idea） | 2 |
 | monument | n. 纪念碑，纪念建筑（an ancient monument） | 2 |
