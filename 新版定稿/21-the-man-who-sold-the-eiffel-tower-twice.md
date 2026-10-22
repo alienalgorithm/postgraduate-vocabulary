@@ -2,33 +2,33 @@
 # ZH: 两次卖掉埃菲尔铁塔的骗子
 
 ## 英文
-In 1925 six **scrap-metal** **traders** met secretly at the Hôtel de Crillon in Paris. A deputy **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for scrap. He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the public **indignation**.
+In 1925 six **scrap-metal** **traders** met secretly at the Hôtel de Crillon in Paris. A **deputy** **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for scrap. He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the **public indignation**.
 
-The **pretext** was not **absurd**. Built for the 1889 World's Fair, the **monument** had **originally** been **destined** to come down after twenty years. The **high-ranking** deputy was Victor Lustig, a **crook** whose **ministerial** stationery was a **forgery**. He had read a newspaper article in which the authorities **lamented** the **hefty** cost of the tower's **upkeep**.
+The **pretext** was not **absurd**. Built for the 1889 World's Fair, the **monument** had **originally** been **destined** to **come down** after twenty years. The **high-ranking** deputy was Victor Lustig, a **crook** whose **ministerial** stationery was a **forgery**. He had read a newspaper article in which the authorities **lamented** the **hefty** cost of the tower's **upkeep**.
 
-André Poisson, a **businessman** **impatient** to gain a **foothold** in Paris, won. Lustig **intimated** that his modest **civil-service** **remuneration** needed **supplementing**, and Poisson paid an **additional** **bribe**. Lustig left for Vienna with the **takings**.
+André Poisson, a **businessman** **impatient** to **gain a foothold** in Paris, won. Lustig **intimated** that his modest **civil-service** **remuneration** needed **supplementing**, and Poisson paid an **additional** **bribe**. Lustig left for Vienna with the **takings**.
 
 **Fleeced** and too **ashamed** to go to the police, Poisson swallowed the loss **quietly**. Not a **whisper** of the **deceit** appeared in print.
 
-About a month later Lustig had the **gall** to **reappear** with an **encore** of his **script** for new dealers. This time the winner grew **distrustful** and went to the police. The **affair** made the papers, and Lustig made his **getaway**. The much-repeated second sale is a **fairy tale**.
+About a month later Lustig **had the gall to** **reappear** with an **encore** of his **script** for new dealers. This time the winner **grew distrustful** and went to the police. The **affair** made the papers, and Lustig made his **getaway**. The **much-repeated** second sale is a **fairy tale**.
 
-Later arrested in the United States for making **fake** money, Lustig broke out of **detention**, was **recaptured** 27 days later and served time on the **penal** island of Alcatraz. He died of pneumonia in 1947.
+Later arrested in the United States for making **fake** money, Lustig broke out of **detention**, was **recaptured** 27 days later and **served time** on the **penal** island of Alcatraz. He died of pneumonia in 1947.
 
 Of Lustig's two marks, the one who paid kept **mum** and the one who kept his money went to the police.
 
 ## 中文
 
-1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店秘密会面。邮电部的一位副**总长**(director-general)向他们**私下**(confidentially)透露了一个**重大**(momentous)消息，埃菲尔铁塔将作为废铁出售。他请他们**投标**(tenders)，并让每位商人**郑重**(solemnly)地**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了免得公众**愤慨**(indignation)。
+1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店秘密会面。邮电部的一位**副**(deputy)**总负责人**(director-general)向他们**私下**(confidentially)分享了一个**重大**(momentous)消息，埃菲尔铁塔将作为废铁出售。他请他们**投标**(tenders)，并让每位商人**郑重**(solemnly)地**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了避免引起**公愤**(public indignation)。
 
-这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后拆除。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他那些**部门**(ministerial)信笺都是**伪造品**(forgery)。他读到过一篇报道，当局在文中**抱怨**(lamented)铁塔**高昂**(hefty)的**维护**(upkeep)费用。
+这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后**拆除**(come down)。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他的那些**部长**(ministerial)的信笺都是**伪造品**(forgery)。他曾读到过报纸上的一篇文章，文中当局**哀叹**(lamented)铁塔**维护**(upkeep)费用**高昂**(hefty)。
 
-**生意人**(businessman)安德烈·普瓦松**迫不及待**(impatient)地想在巴黎站稳**脚跟**(foothold)，他中了标。卢斯蒂格**暗示**(intimated)，他那份**公务员**(civil-service)的微薄**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松便**另外**(additional)付了一笔**贿赂**(bribe)。卢斯蒂格带着这笔**进账**(takings)去了维也纳。
+安德烈·普瓦松，一个**生意人**(businessman)，**迫不及待**(impatient)地想在巴黎**拥有一席之地**(gain a foothold)，中标了。卢斯蒂格**暗示**(intimated)，他那份**公务员**(civil-service)的微薄**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松然后付了一笔**额外的**(additional)**贿赂**(bribe)。卢斯蒂格带着这笔**进账**(takings)去了维也纳。
 
-被**骗走**(fleeced)钱财、又**羞于**(ashamed)报警的普瓦松，**默默**(quietly)吞下了这笔损失。报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。
+被**骗走**(fleeced)钱财，又实在太**丢人**(ashamed)、**没脸**(ashamed)去报警，普瓦松只能**默默**(quietly)咽下这笔损失。报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。
 
-大约一个月后，卢斯蒂格竟**厚着脸皮**(gall)又一次**露面**(reappear)，对另一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者起了**疑心**(distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个流传甚广的第二次出售，只是一个**童话**(fairy tale)。
+大约一个月后，卢斯蒂格**厚颜无耻地去**(had the gall to)**再一次出现**(reappear)，对新的一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者**起了疑心**(grew distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个**被反复提及的**(much-repeated)第二次出售，只是个**童话**(fairy tale)。
 
-后来，卢斯蒂格在美国因制造**假冒**(fake)货币被捕，他从**拘留所**(detention)越狱，27天后又被**抓回**(recaptured)，在作为**监狱**(penal)岛的恶魔岛服刑。1947年，他死于肺炎。
+后来，卢斯蒂格在美国被捕，因为制造**假**(fake)币，他在**关押**(detention)（期间）越狱，27天后又被**抓回**(recaptured)，并在恶魔岛这座“**刑罚**(penal)之岛”上**服刑**(served time)。1947年，他死于肺炎。
 
 卢斯蒂格的两个下手对象中，付了钱的那个**闭口不言**(mum)，没付钱的那个去报了警。
 
@@ -37,7 +37,8 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 |---|---|---|
 | scrap-metal | n. (scrap metal) 废金属（a scrap-metal dealer；连字符用于定语） | 1 |
 | traders | n. (trader) 商人，交易者（market traders） | 1 |
-| director-general | n. 总干事，总长（the director-general of the BBC） | 1 |
+| deputy | adj. 副的（a deputy director 副主任） | 1 |
+| director-general | n. 总负责人，总干事（the director-general of the BBC） | 1 |
 | momentous | adj. 重大的（a momentous decision） | 1 |
 | confidentially | adv. 私下地，秘密地（speak confidentially） | 1 |
 | tenders | n. (tender) 投标（invite tenders for a contract） | 1 |
@@ -45,12 +46,13 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | vow | n./v. 誓言；发誓（make a vow；vow to return） | 1 |
 | secrecy | n. 保密（swear sb to secrecy） | 1 |
 | ostensibly | adv. 表面上，名义上（ostensibly for health reasons） | 1 |
-| indignation | n. 愤慨，义愤（public indignation） | 1 |
+| public indignation | n. 公愤（arouse public indignation 引起公愤） | 1 |
 | pretext | n. 借口（on the pretext of illness） | 2 |
 | absurd | adj. 荒唐的（an absurd idea） | 2 |
 | monument | n. 纪念碑，纪念建筑（an ancient monument） | 2 |
 | originally | adv. 原本，最初（originally planned） | 2 |
 | destined | adj. 注定的（destined to fail） | 2 |
+| come down | v. 被拆除，倒塌（the old bridge came down） | 2 |
 | high-ranking | adj. 高级的，位高的（a high-ranking official） | 2 |
 | crook | n. 骗子，坏蛋（a small-time crook） | 2 |
 | ministerial | adj. 部长的，部门的（ministerial duties） | 2 |
@@ -60,7 +62,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | upkeep | n. 维护（费）（the upkeep of a house） | 2 |
 | businessman | n. 商人，生意人（a successful businessman） | 3 |
 | impatient | adj. 急切的，不耐烦的（impatient to begin） | 3 |
-| foothold | n. 立足点（gain a foothold in the market） | 3 |
+| gain a foothold | 获得立足点，拥有一席之地（gain a foothold in the market） | 3 |
 | intimated | v. (intimate) 暗示（intimate that…） | 3 |
 | civil-service | adj. 公务员的（a civil-service job） | 3 |
 | remuneration | n. 报酬，薪酬（remuneration for work） | 3 |
@@ -69,21 +71,23 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | bribe | n./v. 贿赂（accept a bribe） | 3 |
 | takings | n. 进账，收入（the day's takings） | 3 |
 | fleeced | v. (fleece) 诈骗钱财（be fleeced by a con man） | 4 |
-| ashamed | adj. 羞愧的（ashamed of oneself） | 4 |
+| ashamed | adj. 羞愧的，丢人的，没脸（做某事）（ashamed of oneself） | 4 |
 | quietly | adv. 默默地，悄悄地（quietly leave） | 4 |
 | whisper | n. 耳语；传闻，风声（a whisper of scandal） | 4 |
 | deceit | n. 欺骗，骗局（lies and deceit） | 4 |
-| gall | n. 厚颜，胆大妄为（have the gall to do sth） | 5 |
-| reappear | v. 再次出现（reappear after years） | 5 |
+| have the gall to | 厚颜无耻地（做某事）（have the gall to ask for more） | 5 |
+| reappear | v. 再一次出现，再次出现（reappear after years） | 5 |
 | encore | n. 加演，重演（play an encore） | 5 |
 | script | n. 剧本；文字（a film script） | 5 |
-| distrustful | adj. 不信任的，起疑的（distrustful of strangers） | 5 |
+| grew distrustful | (grow distrustful) 起了疑心，变得不信任（grow distrustful of sb） | 5 |
 | affair | n. 事件；事情（a strange affair） | 5 |
 | getaway | n. 逃跑（make one's getaway） | 5 |
+| much-repeated | adj. 被反复提及的，一再重复的（a much-repeated story） | 5 |
 | fairy tale | n. 童话；虚构的故事（a fairy-tale ending 中连字符作定语） | 5 |
 | fake | adj. 假的，伪造的（fake money/passport） | 6 |
 | detention | n. 拘留，关押（in police detention） | 6 |
 | recaptured | v. (recapture) 再次抓获（be recaptured after escaping） | 6 |
+| served time | (serve time) 服刑（serve time in prison） | 6 |
 | penal | adj. 刑罚的，关押犯人的（a penal colony） | 6 |
 | mum | adj. 沉默的，不说话的（keep mum about sth） | 7 |
 
