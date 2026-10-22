@@ -4,7 +4,7 @@
 ## 英文
 In 1925 six **scrap-metal** **traders** met secretly at the Hôtel de Crillon in Paris. A **deputy** **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for scrap. He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the **public indignation**.
 
-The **pretext** was not **absurd**. Built for the 1889 World's Fair, the **monument** had **originally** been **destined** to come down after twenty years. The **high-ranking** deputy was Victor Lustig, a **crook** whose **ministerial** stationery was a **forgery**. He had read a newspaper article in which the authorities **lamented** the **hefty** cost of the tower's **upkeep**.
+The **pretext** was not **absurd**. Built for the 1889 World's Fair, the **monument** had **originally** been **destined** to **come down** after twenty years. The **high-ranking** deputy was Victor Lustig, a **crook** whose **ministerial** stationery was a **forgery**. He had read a newspaper article in which the authorities **lamented** the **hefty** cost of the tower's **upkeep**.
 
 André Poisson, a **businessman** **impatient** to gain a **foothold** in Paris, won. Lustig **intimated** that his modest **civil-service** **remuneration** needed **supplementing**, and Poisson paid an **additional** **bribe**. Lustig left for Vienna with the **takings**.
 
@@ -20,7 +20,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店秘密会面。邮电部的一位**副**(deputy)**总负责人**(director-general)向他们**私下**(confidentially)分享了一个**重大**(momentous)消息，埃菲尔铁塔将作为废铁出售。他请他们**投标**(tenders)，并让每位商人**郑重**(solemnly)地**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了避免引起**公愤**(public indignation)。
 
-这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后拆除。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他那些**部门**(ministerial)信笺都是**伪造品**(forgery)。他读到过一篇报道，当局在文中**抱怨**(lamented)铁塔**高昂**(hefty)的**维护**(upkeep)费用。
+这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后**拆除**(come down)。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他那些**部门**(ministerial)信笺都是**伪造品**(forgery)。他读到过一篇报道，当局在文中**抱怨**(lamented)铁塔**高昂**(hefty)的**维护**(upkeep)费用。
 
 **生意人**(businessman)安德烈·普瓦松**迫不及待**(impatient)地想在巴黎站稳**脚跟**(foothold)，他中了标。卢斯蒂格**暗示**(intimated)，他那份**公务员**(civil-service)的微薄**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松便**另外**(additional)付了一笔**贿赂**(bribe)。卢斯蒂格带着这笔**进账**(takings)去了维也纳。
 
@@ -52,6 +52,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | monument | n. 纪念碑，纪念建筑（an ancient monument） | 2 |
 | originally | adv. 原本，最初（originally planned） | 2 |
 | destined | adj. 注定的（destined to fail） | 2 |
+| come down | v. 被拆除，倒塌（the old bridge came down） | 2 |
 | high-ranking | adj. 高级的，位高的（a high-ranking official） | 2 |
 | crook | n. 骗子，坏蛋（a small-time crook） | 2 |
 | ministerial | adj. 部长的，部门的（ministerial duties） | 2 |
