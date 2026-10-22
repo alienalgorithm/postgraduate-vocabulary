@@ -26,7 +26,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 被**骗走**(fleeced)钱财，又实在太**丢人**(ashamed)、**没脸**(ashamed)去报警，普瓦松只能**默默**(quietly)咽下这笔损失。报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。
 
-大约一个月后，卢斯蒂格**厚颜无耻地去**(had the gall to)**再一次出现**(reappear)，对另一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者起了**疑心**(distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个流传甚广的第二次出售，只是一个**童话**(fairy tale)。
+大约一个月后，卢斯蒂格**厚颜无耻地去**(had the gall to)**再一次出现**(reappear)，对新的一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者起了**疑心**(distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个流传甚广的第二次出售，只是一个**童话**(fairy tale)。
 
 后来，卢斯蒂格在美国因制造**假冒**(fake)货币被捕，他从**拘留所**(detention)越狱，27天后又被**抓回**(recaptured)，在作为**监狱**(penal)岛的恶魔岛服刑。1947年，他死于肺炎。
 
