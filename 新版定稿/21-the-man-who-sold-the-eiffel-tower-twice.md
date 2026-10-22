@@ -20,7 +20,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店秘密会面。邮电部的一位**副**(deputy)**总负责人**(director-general)向他们**私下**(confidentially)分享了一个**重大**(momentous)消息，埃菲尔铁塔将作为废铁出售。他请他们**投标**(tenders)，并让每位商人**郑重**(solemnly)地**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了避免引起**公愤**(public indignation)。
 
-这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后**拆除**(come down)。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他的那些**部长**(ministerial)的信笺都是**伪造品**(forgery)。他读到过一篇报道，当局在文中**抱怨**(lamented)铁塔**高昂**(hefty)的**维护**(upkeep)费用。
+这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后**拆除**(come down)。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他的那些**部长**(ministerial)的信笺都是**伪造品**(forgery)。他曾读到过报纸上的一篇文章，文中当局**哀叹**(lamented)铁塔**维护**(upkeep)费用**高昂**(hefty)。
 
 **生意人**(businessman)安德烈·普瓦松**迫不及待**(impatient)地想在巴黎站稳**脚跟**(foothold)，他中了标。卢斯蒂格**暗示**(intimated)，他那份**公务员**(civil-service)的微薄**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松便**另外**(additional)付了一笔**贿赂**(bribe)。卢斯蒂格带着这笔**进账**(takings)去了维也纳。
 
