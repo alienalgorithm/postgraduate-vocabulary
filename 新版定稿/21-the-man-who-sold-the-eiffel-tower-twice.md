@@ -12,7 +12,7 @@ André Poisson, a **businessman** **impatient** to **gain a foothold** in Paris,
 
 About a month later Lustig **had the gall to** **reappear** with an **encore** of his **script** for new dealers. This time the winner **grew distrustful** and went to the police. The **affair** made the papers, and Lustig made his **getaway**. The **much-repeated** second sale is a **fairy tale**.
 
-Later arrested in the United States for making **fake** money, Lustig broke out of **detention**, was **recaptured** 27 days later and served time on the **penal** island of Alcatraz. He died of pneumonia in 1947.
+Later arrested in the United States for making **fake** money, Lustig broke out of **detention**, was **recaptured** 27 days later and **served time** on the **penal** island of Alcatraz. He died of pneumonia in 1947.
 
 Of Lustig's two marks, the one who paid kept **mum** and the one who kept his money went to the police.
 
@@ -28,7 +28,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 大约一个月后，卢斯蒂格**厚颜无耻地去**(had the gall to)**再一次出现**(reappear)，对新的一批商人**重演**(encore)他那套**剧本**(script)。这一次，那位中标者**起了疑心**(grew distrustful)，报了警。这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。那个**被反复提及的**(much-repeated)第二次出售，只是个**童话**(fairy tale)。
 
-后来，卢斯蒂格在美国被捕，因为制造**假**(fake)币，他在**关押**(detention)（期间）越狱，27天后又被**抓回**(recaptured)，在作为**监狱**(penal)岛的恶魔岛服刑。1947年，他死于肺炎。
+后来，卢斯蒂格在美国被捕，因为制造**假**(fake)币，他在**关押**(detention)（期间）越狱，27天后又被**抓回**(recaptured)，并在恶魔岛这座“**刑罚**(penal)之岛”上**服刑**(served time)。1947年，他死于肺炎。
 
 卢斯蒂格的两个下手对象中，付了钱的那个**闭口不言**(mum)，没付钱的那个去报了警。
 
@@ -87,6 +87,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | fake | adj. 假的，伪造的（fake money/passport） | 6 |
 | detention | n. 拘留，关押（in police detention） | 6 |
 | recaptured | v. (recapture) 再次抓获（be recaptured after escaping） | 6 |
+| served time | (serve time) 服刑（serve time in prison） | 6 |
 | penal | adj. 刑罚的，关押犯人的（a penal colony） | 6 |
 | mum | adj. 沉默的，不说话的（keep mum about sth） | 7 |
 
