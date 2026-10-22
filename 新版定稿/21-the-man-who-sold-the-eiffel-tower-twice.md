@@ -22,7 +22,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 
 这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后**拆除**(come down)。那位**位高权重**(high-ranking)的副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他的那些**部长**(ministerial)的信笺都是**伪造品**(forgery)。他曾读到过报纸上的一篇文章，文中当局**哀叹**(lamented)铁塔**维护**(upkeep)费用**高昂**(hefty)。
 
-**生意人**(businessman)安德烈·普瓦松**迫不及待**(impatient)地想在巴黎站稳**脚跟**(foothold)，他中了标。卢斯蒂格**暗示**(intimated)，他那份**公务员**(civil-service)的微薄**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松便**另外**(additional)付了一笔**贿赂**(bribe)。卢斯蒂格带着这笔**进账**(takings)去了维也纳。
+安德烈·普瓦松，一个**生意人**(businessman)，**迫不及待**(impatient)地想在巴黎拥有**一席之地**(foothold)，中标了。卢斯蒂格**暗示**(intimated)，他那份**公务员**(civil-service)的微薄**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松便**另外**(additional)付了一笔**贿赂**(bribe)。卢斯蒂格带着这笔**进账**(takings)去了维也纳。
 
 被**骗走**(fleeced)钱财、又**羞于**(ashamed)报警的普瓦松，**默默**(quietly)吞下了这笔损失。报纸上没有出现关于这场**骗局**(deceit)的半点**风声**(whisper)。
 
@@ -62,7 +62,7 @@ Of Lustig's two marks, the one who paid kept **mum** and the one who kept his mo
 | upkeep | n. 维护（费）（the upkeep of a house） | 2 |
 | businessman | n. 商人，生意人（a successful businessman） | 3 |
 | impatient | adj. 急切的，不耐烦的（impatient to begin） | 3 |
-| foothold | n. 立足点（gain a foothold in the market） | 3 |
+| foothold | n. 立足点，一席之地（gain a foothold in the market） | 3 |
 | intimated | v. (intimate) 暗示（intimate that…） | 3 |
 | civil-service | adj. 公务员的（a civil-service job） | 3 |
 | remuneration | n. 报酬，薪酬（remuneration for work） | 3 |
