@@ -22,7 +22,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 这位**建筑师**(architect)很**坦率**(candid)，承认犯了很多错误。他说，他**预料到**(anticipated)外墙会聚光，却没想到聚光的**强度**(intensity)会这么大。据报道，原设计中的遮阳百叶在**削减成本**(cost-cutting)时被删掉了。这也不是他第一次出现**建筑上**(architectural)的**失算**(miscalculation)。2010年，他那座位于拉斯维加斯、弯曲**反光**(reflective)的维达拉酒店反射出**臭名昭著**(infamous)的**强光**(glare)，在泳池边灼伤了一位客人的**头皮**(scalp)。
 
-2014年2月12日，一项永久性的**固定装置**(fixture)方案公布，那就是在外墙加装**水平**(horizontal)的**铝制**(aluminium)散光**鳍片**(fins)来**散射**(diffuse)光线、减弱**亮度**(brightness)，据报道花费达数百万英镑。2015年9月，《建筑设计》杂志的评论家们把这座**声名狼藉**(notorious)的大楼评为"烂疮杯"得主，这一**奖杯**(trophy)颁给英国最糟糕的新建筑。这次**投票**(ballot)是**全体一致**(unanimous)的结果。
+2014年2月12日，一项永久性的**固定装置**(fixture)方案公布，那就是在外墙加装**水平**(horizontal)的**铝制**(aluminium)散光**鳍片**(fins)来**散射**(diffuse)光线、减弱**亮度**(brightness)，据报道花费达数百万英镑。2015年9月，《建筑设计》杂志的评论家们将“烂疮杯”颁给了这座**声名狼藉的/臭名远扬的**(notorious)大楼，这是一个专门颁给英国最糟糕新建筑的**奖杯**(trophy)。这次**投票**(ballot)是**全体一致**(unanimous)的结果。
 
 ## 速查表
 | 词 | 释义 | 段 |
