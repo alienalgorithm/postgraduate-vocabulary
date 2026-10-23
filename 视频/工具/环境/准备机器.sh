@@ -19,4 +19,6 @@ for f in ('kokoro-v1.0.onnx','kokoro-v1.0-timed.onnx'):
     print(f, h, '✔ 与本地同一个模型' if h==want else '✘ 与本地模型不同'); bad|=(h!=want)
 sys.exit(bad)
 PY2
+pip install -q -r "$(dirname "$0")/requirements.txt" 2>&1 | grep -v WARNING | tail -2   # 2026-10-23 18 篇：新容器缺 soundfile、imageio_ffmpeg、pymupdf，生成文本 一路报缺模块
+python3 -c "import soundfile, imageio_ffmpeg, pymupdf, docx, kokoro_onnx, parselmouth" || { echo "✘ Python 依赖没装好"; exit 1; }
 echo "机器准备好了：$B/video"
