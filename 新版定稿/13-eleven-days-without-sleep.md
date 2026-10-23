@@ -39,7 +39,7 @@ In 1997 Guinness World Records **discontinued** monitoring such attempts because
 | mood | 本文：情绪；n. 心情，情绪（in a good/bad mood；mood swings） | 1 |
 | voluntary | 本文：自愿的；adj. 自愿的；志愿的（voluntary work；on a voluntary basis） | 1 |
 | endeavour | 本文：尝试；n. 努力，尝试（a scientific endeavour；human endeavour） | 1 |
-| take first place | 本文：夺得了第一名 | 1 |
+| take first place | 本文：夺得了第一名；短语. 夺得第一名，名列第一（take first place in the competition） | 1 |
 | coverage | 本文：报道；n. 新闻报道；覆盖范围（media/live coverage；insurance coverage） | 2 |
 | intrigued | 本文：非常感兴趣；adj./v. (intrigue) 好奇的；激起好奇心（be intrigued by/to learn） | 2 |
 | assisted in | 本文：协助；v. (assist) 协助，帮助（assist sb with/in sth） | 2 |
@@ -59,7 +59,7 @@ In 1997 Guinness World Records **discontinued** monitoring such attempts because
 | impaired | 本文：受损了；adj./v. (impair) 受损的；损害（impaired hearing/vision；impair performance） | 3 |
 | suspicious | 本文：多疑；adj. 多疑的，可疑的（be suspicious of strangers；suspicious behaviour） | 3 |
 | paranoid | 本文：偏执/妄想性的；adj. 偏执的，多疑的（a paranoid fear；feel paranoid） | 3 |
-| hallucinate | 本文：出现幻觉 | 3 |
+| hallucinate | 本文：出现幻觉；v. 产生幻觉；（人工智能）编造不存在的信息（patients may hallucinate） | 3 |
 | gripped by | 本文：被……攫住了；v. (grip) 攫住，控制（be gripped by fear/panic） | 3 |
 | delusion | 本文：妄想/错觉；n. 错觉，妄想（delusions of grandeur；under the delusion that…） | 3 |
 | wearying | 本文：令人疲惫的；adj. 令人疲倦的（a long, wearying journey） | 4 |
