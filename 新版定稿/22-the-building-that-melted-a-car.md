@@ -4,7 +4,7 @@
 ## 英文
 On 2 September 2013 the news broke that a London **skyscraper** **under construction** had damaged a Jaguar. Martin Lindsay had left the **saloon** by the **pavement** on Eastcheap, opposite the tower's **frontage**. He returned to find its wing mirror **warped**, its panels **deformed** and its **badge** **distorted**. The **glazed** **facade** above was to blame.
 
-Rafael Viñoly curved the south face of 20 Fenchurch Street inward, enlarging the upper **storeys**, where **tenants** pay a **premium**. That **geometry** acted like a **magnifying** glass, focusing **sunlight** into a **beam** up to six times brighter than direct sun. It was measured at about 110 degrees Celsius, and a **reporter** fried an egg in a **pan** using the reflection.
+Rafael Viñoly curved the south face of 20 Fenchurch Street inward, **enlarging** the upper **storeys**, where **tenants** pay a **premium**. That **geometry** acted like a **magnifying** glass, focusing **sunlight** into a **beam** up to six times brighter than direct sun. It was measured at about 110 degrees Celsius, and a **reporter** fried an egg in a **pan** using the **reflection**.
 
 The **developers** issued an **apology** and **reimbursed** almost 1,000 pounds for repairs. Parking bays were suspended and a **provisional** **barrier** was **erected**. The beam struck for about two hours a day, two to three weeks **annually**, because of the sun's **angle of elevation**. Newspapers dubbed the Walkie-Talkie the Walkie-Scorchie, a **taunt**.
 
@@ -16,7 +16,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 2013年9月2日，一则新闻传开，说伦敦一座**正在建设中的**(under construction)**摩天大楼**(skyscraper)损坏了一辆捷豹车。马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)边，正对着这座高楼的**正面**(frontage)。他回来时发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，并且**车标**(badge)也**扭曲**(distorted)了。罪魁祸首是上方那面**镶玻璃**(glazed)的**正面墙**(facade)。
 
-拉斐尔·维诺利（在设计中）将芬丘奇街20号的南立面向内弯曲，扩大了上部**楼层**(storeys)，那里的**租户**(tenants)支付着**溢价**(premium)（更高的租金）。这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用反射光煎熟了一个鸡蛋。
+拉斐尔·维诺利（在设计中）将芬丘奇街20号的南立面向内弯曲，**扩大**(enlarging)了上部**楼层**(storeys)，那里的**租户**(tenants)支付着**溢价**(premium)（更高的租金）。这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用**反射光**(reflection)煎熟了一个鸡蛋。
 
 **开发商**(developers)作出了**道歉**(apology)，并**赔付**(reimbursed)了近1,000英镑的修理费。路边停车位暂停使用，并且一道**临时的**(provisional)**屏障**(barrier)被**搭建了起来**(erected)。这道光束**每年**(annually)会照射两到三周、每天约照射两小时，因为这是太阳的**仰角**(angle of elevation)。报纸把对讲机大楼戏称为“烤焦机大楼”，这是一句**嘲讽**(taunt)。
 
@@ -38,6 +38,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 | distorted | adj./v. (distort) 扭曲的（a distorted image/view） | 1 |
 | glazed | adj. 装有玻璃的；上釉的（glazed doors；glazed pottery） | 1 |
 | facade | n. （建筑物的）正面，外墙；假象（a glass facade） | 1 |
+| enlarging | v. (enlarge) 扩大，放大（enlarge a photo；enlarge the market） | 2 |
 | storeys | n. (storey) 楼层（a three-storey house） | 2 |
 | tenants | n. (tenant) 租户（evict tenants） | 2 |
 | premium | n. 溢价，额外费用（pay a premium for quality） | 2 |
@@ -47,6 +48,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 | beam | n. 光束（a beam of light；a laser beam） | 2 |
 | reporter | n. 记者（a newspaper reporter） | 2 |
 | pan | n. 平底锅（a frying pan） | 2 |
+| reflection | n. 反射；反射光；倒影（the reflection of light） | 2 |
 | developers | n. (developer) 开发商（property developers） | 3 |
 | apology | n. 道歉（issue/make an apology） | 3 |
 | reimbursed | v. (reimburse) 赔偿，报销（reimburse travel expenses） | 3 |
