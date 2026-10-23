@@ -8,7 +8,7 @@ On 4 September 1939 he joined the **classified** **codebreaking effort** at Blet
 
 In October 1950, writing in the **philosophy** journal Mind, he **posed** a **provocative** question: "Can machines think?" He **proposed** a **practical** **substitute**, the imitation game, now **widely** called the Turing test. An **interrogator** exchanges typed messages with two **concealed** players, one human and one machine. If the interrogator cannot **consistently** **distinguish** them, the machine passes.
 
-His **exceptional** **wartime** **contribution** did not protect him. On 31 March 1952 he was **convicted** of "gross indecency", the charge then used against gay men. He **forfeited** his security **clearance** and, to **avert** **imprisonment**, **submitted** to **hormone** **injections**. He died of cyanide poisoning on 7 June 1954. A **coroner**'s inquest ruled it **suicide**, though some doubt it.
+His **exceptional** **wartime** **contribution** did not protect him. On 31 March 1952 he was **convicted** of "gross indecency", the charge then used against gay men. He **forfeited** his security **clearance** and, to **avert** **imprisonment**, **submitted** to **hormone** **injections**. He died of **cyanide poisoning** on 7 June 1954. A **coroner**'s inquest ruled it **suicide**, though some doubt it.
 
 **Recognition** **lagged**. On 10 September 2009 Britain's prime minister **publicly** **apologised**, and on 24 December 2013 Turing was **posthumously** **granted** a royal pardon. On 23 June 2021, his birthday, a fifty-pound note bearing his **portrait** entered **circulation**. The country that **prosecuted** him put his face on its money.
 
@@ -18,11 +18,11 @@ His **exceptional** **wartime** **contribution** did not protect him. On 31 Marc
 
 1939年9月4日，他加入了布莱切利园的**保密的**(classified)**破译工作**(codebreaking effort)，领导关于**海军**(naval)恩尼格玛密码机的工作，即德国的**加密**(encryption)机器。早在1932年底，波兰数学家就已**破译**(deciphered)了恩尼格玛，并于1939年7月将他们的**深刻见解**(insights)（破解思路）告知英法两国。他团队（研制的）的机器**利用**(exploited)了这些见解和思路，并且从1940年3月起**投入运行**(operational)，**自动化**(automated)了每天搜寻**转子**(rotor)设置这项**耗时费力的**(laborious)工作。
 
-1950年10月，他在**哲学**(philosophy)期刊《心灵》（Mind）上撰文，**提出**(posed)了一个**发人深省的**(provocative)问题——"机器能思考吗？"他**建议**(proposed)用一种**切实可行的**(practical)**替代办法**(substitute)取而代之，即"模仿游戏"，如今**普遍**(widely)称为"图灵测试"。一名**审问者**(interrogator)通过打字，与两个**隐藏起来的**(concealed)参与者交流，其中一个是人，一个是机器。如果提问者无法**始终如一地**(consistently)**分辨**(distinguish)二者，机器就算通过测试。
+1950年10月，他在**哲学**(philosophy)期刊《心灵》（Mind）上撰文，**提出**(posed)了一个**发人深省的**(provocative)问题——"机器能思考吗？"他**建议**(proposed)用一种**切实可行的**(practical)**替代办法**(substitute)取而代之，即"模仿游戏"，如今**普遍**(widely)称为"图灵测试"。一名**审问者**(interrogator)通过打字，与两个**隐藏起来的**(concealed)参与者交流，其中一个是人，一个是机器。如果审问者无法**始终如一地**(consistently)**区分出**(distinguish)二者，机器就算通过测试。
 
-他在**战时**(wartime)**卓越的**(exceptional)**贡献**(contribution)并没有护住他。1952年3月31日，他被**判定**(convicted)犯有"严重猥亵罪"，这是当时用来惩治男同性恋者的罪名。他**失去**(forfeited)了安全**许可**(clearance)；为了**避免**(avert)**入狱**(imprisonment)，他还**接受**(submitted)了**激素**(hormone)**注射**(injections)。1954年6月7日，他死于氰化物中毒。**验尸官**(coroner)的死因调查裁定为**自杀**(suicide)，不过有人对此存疑。
+他**杰出的**(exceptional)**战时**(wartime)**贡献**(contribution)，并没有保护到他。1952年3月31日，他**被判定犯有**(convicted of)"严重猥亵"**罪**(convicted of)，这是当时用来惩治男同性恋者的罪名。他**被剥夺/丧失了**(forfeited)他的安全**许可**(clearance)，并且为了**避免**(avert)**入狱**(imprisonment)，**被迫接受了**(submitted to)**激素**(hormone)**注射**(injections)。1954年6月7日，他死于**氰化物中毒**(cyanide poisoning)。**验尸官**(coroner)的死因调查裁定为**自杀**(suicide)，不过有人对此存疑。
 
-**认可**(recognition)**来得迟缓**(lagged)。2009年9月10日，英国首相**公开**(publicly)**道歉**(apologised)；2013年12月24日，图灵在**身后**(posthumously)**获得**(granted)皇室赦免。2021年6月23日，也就是他的生日，印有他**肖像**(portrait)的50英镑钞票开始**流通**(circulation)。**起诉**(prosecuted)他的国家，把他的头像印上了自己的钞票。
+（对于图灵的）**认可**(recognition)**滞后了**(lagged)。2009年9月10日，英国首相**公开**(publicly)**道歉**(apologised)；2013年12月24日，图灵在**身后**(posthumously)**获得**(granted)皇室赦免。2021年6月23日，也就是他的生日，印有他**肖像**(portrait)的50英镑钞票开始**流通**(circulation)。**起诉**(prosecuted)他的国家，把他的头像印上了自己的钞票。
 
 ## 速查表
 | 词 | 释义 | 段 |
@@ -73,6 +73,7 @@ His **exceptional** **wartime** **contribution** did not protect him. On 31 Marc
 | submitted | v. (submit) 服从，接受（submit to treatment/an examination）；提交（submit a report） | 4 |
 | hormone | n. 激素（hormone therapy/treatment；growth hormone） | 4 |
 | injections | n. (injection) 注射（give sb an injection；an injection of insulin） | 4 |
+| cyanide poisoning | n. 氰化物中毒（die of cyanide poisoning） | 4 |
 | coroner | n. 验尸官（a coroner's inquest/report；the coroner recorded a verdict of suicide） | 4 |
 | suicide | n. 自杀（commit suicide；a verdict of suicide） | 4 |
 | recognition | n. 认可，赞誉（in recognition of；gain/win recognition）；认出 | 5 |
