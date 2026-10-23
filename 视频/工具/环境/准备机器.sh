@@ -19,4 +19,6 @@ for f in ('kokoro-v1.0.onnx','kokoro-v1.0-timed.onnx'):
     print(f, h, '✔ 与本地同一个模型' if h==want else '✘ 与本地模型不同'); bad|=(h!=want)
 sys.exit(bad)
 PY2
+# 2026-10-23（13 重新对齐）：新容器缺 imageio_ffmpeg 等包，定稿流水线⓪就停；按固定版本装好
+python3 -c "import imageio_ffmpeg,kokoro_onnx,parselmouth,pyloudnorm,soundfile,scipy" 2>/dev/null || pip install -q -r $V/工具/环境/requirements.txt; python3 -c "import pymupdf,docx" 2>/dev/null || pip install -q pymupdf python-docx   # 生成文本.py（Word/PDF 读回核对）要用
 echo "机器准备好了：$B/video"
