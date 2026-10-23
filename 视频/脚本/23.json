@@ -452,16 +452,16 @@
      ]
     },
     {
-     "en": "and on 24 December 2013 Turing was **posthumously** **granted** a royal pardon.",
-     "zh": "2013年12月24日，图灵在**身后**(posthumously)**获得了**(granted)皇室赦免。",
+     "en": "and on 24 December 2013 Turing **was** **posthumously** **granted** a royal **pardon**.",
+     "zh": "2013年12月24日，图灵在**死后**(posthumously)**被授予了**(was granted)皇室**赦免**(pardon)。",
      "align": [
       [
        "and on 24 December 2013",
        "2013年12月24日，"
       ],
       [
-       "Turing was **posthumously** **granted** a royal pardon.",
-       "图灵在**身后**(posthumously)**获得了**(granted)皇室赦免。"
+       "Turing **was** **posthumously** **granted** a royal **pardon**.",
+       "图灵在**死后**(posthumously)**被授予了**(was granted)皇室**赦免**(pardon)。"
       ]
      ],
      "note": "（be granted sth：被授予某物，被动语态）"
@@ -518,6 +518,9 @@
   }
  ],
  "核对确认": {
+  "同词异译": {
+   "convicted of：罪/被判定犯有": "S12 convicted of 的意思“被判定犯有……罪”被“严重猥亵”隔开，“被判定犯有”和“罪”是同一个意思的两部分（T23，用户 2026-10-23 原话要求两处都标色），不是两种译法"
+  },
   "即": {
    "S4-2 即": "沿用文章定稿中文“即德国的加密机器”，同位语说明 Enigma，用“即”简洁准确",
    "S8-1 即": "沿用文章定稿中文“即模仿游戏”，同位语说明 substitute"
@@ -707,7 +710,7 @@
   "Turing test": "图灵测试",
   "cyanide": "氰化物",
   "gross indecency": "严重猥亵",
-  "royal pardon": "皇室赦免",
+  "royal pardon": "皇室",
   "inquest": "死因调查",
   "prime minister": "首相"
  },
