@@ -2,7 +2,7 @@
 # ZH: 两次卖掉埃菲尔铁塔的骗子
 
 ## 英文
-In 1925 six **scrap-metal** **traders** met secretly at the Hôtel de Crillon in Paris. A **deputy** **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for scrap. He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the **public indignation**.
+In 1925 six **scrap-metal** **traders** met **secretly** at the Hôtel de Crillon in Paris. A **deputy** **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for scrap. He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the **public indignation**.
 
 The **pretext** was not **absurd**. Built for the 1889 World's Fair, the **monument** had **originally** been **destined** to **come down** after twenty years. The **high-ranking** deputy was Victor Lustig, a **crook** whose **ministerial** **stationery** was a **forgery**. He had read a newspaper article in which the authorities **lamented** the **hefty cost** of the tower's **upkeep**.
 
@@ -18,7 +18,7 @@ Of Lustig's two marks, the one who paid **kept mum** and the one who kept his mo
 
 ## 中文
 
-1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店秘密会面了。（at the Hôtel de Crillon in Paris：地点状语，中文提到动词前）邮电部的一位**副的**(deputy)**总负责人**(director-general)向他们**私下地**(confidentially)分享了一个**重大的**(momentous)消息，埃菲尔铁塔将作为废铁出售。（of the Ministry…：介词短语作后置定语；confidentially：插入的副词，修饰 shared）（that…：同位语从句，说明 news 的内容；be to be done：将要被……）他请他们**投标**(tenders)，并让每位商人**郑重地**(solemnly)**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了避免引起**公愤**(public indignation)。（make sb do：让某人做……；vow secrecy：发誓保密）（to spare…：不定式表目的；spare sb sth：使某人免受……）
+1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店**秘密**(secretly)会面了。（at the Hôtel de Crillon in Paris：地点状语，中文提到动词前）邮电部的一位**副的**(deputy)**总负责人**(director-general)向他们**私下地**(confidentially)分享了一个**重大的**(momentous)消息，埃菲尔铁塔将作为废铁出售。（of the Ministry…：介词短语作后置定语；confidentially：插入的副词，修饰 shared）（that…：同位语从句，说明 news 的内容；be to be done：将要被……）他请他们**投标**(tenders)，并让每位商人**郑重地**(solemnly)**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了避免引起**公愤**(public indignation)。（make sb do：让某人做……；vow secrecy：发誓保密）（to spare…：不定式表目的；spare sb sth：使某人免受……）
 
 这个**借口**(pretext)并不**荒唐**(absurd)。这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后**拆除**(come down)。（Built for…：过去分词短语，补充说明 the monument）（be destined to do：注定要……；come down：被拆除）那位**位高权重的**(high-ranking)副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他的那些**部长的**(ministerial)**信笺**(stationery)都是**伪造品**(forgery)。（a crook：同位语，说明 Victor Lustig；whose…：定语从句，修饰 crook）他曾读到过报纸上的一篇文章，文中当局**哀叹**(lamented)铁塔**维护**(upkeep)的**高昂费用**(hefty cost)。（in which…：定语从句，修饰 article）（hefty：（数目，数量）相当大的）
 
@@ -37,6 +37,7 @@ Of Lustig's two marks, the one who paid **kept mum** and the one who kept his mo
 |---|---|---|
 | scrap-metal | 本文：废金属；n. (scrap metal) 废金属（a scrap-metal dealer；连字符用于定语） | 1 |
 | traders | 本文：商人；n. (trader) 商人，交易者（market traders） | 1 |
+| secretly | adv. 秘密地（meet secretly） | 1 |
 | deputy | 本文：副的；adj. 副的（a deputy director 副主任） | 1 |
 | director-general | 本文：总负责人；n. 总负责人，总干事（the director-general of the BBC） | 1 |
 | confidentially | 本文：私下地；adv. 私下地，秘密地（speak confidentially） | 1 |
