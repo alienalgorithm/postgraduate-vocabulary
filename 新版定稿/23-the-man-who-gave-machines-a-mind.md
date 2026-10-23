@@ -2,7 +2,7 @@
 # ZH: 为机器点燃思想的人
 
 ## 英文
-Born in June 1912, Alan Turing had a **formidable** **intellect** by his early twenties. In a paper read in November 1936, he **outlined** a "universal machine": a **device** able to **execute** any **computation**, given the right instructions. That **abstract** **construct**, rooted in **mathematical** **logic**, became the **theoretical** **blueprint** of the modern computer.
+Born in June 1912, Alan Turing had a **formidable** **intellect** by his early twenties. In a paper read in November 1936, he **outlined** a "universal machine": a **device** able to **execute** any **computation**, given the right instructions. That **abstract** **construct**, **rooted in** **mathematical** **logic**, became the **theoretical** **blueprint** of the modern computer.
 
 On 4 September 1939 he joined the **classified** codebreaking effort at Bletchley Park, leading work on **naval** Enigma, Germany's **encryption** machine. Polish mathematicians had **deciphered** Enigma by late 1932 and shared their **insights** with Britain and France in July 1939. His team's machines **exploited** them and, **operational** from March 1940, **automated** the **laborious** search for each day's **rotor** settings.
 
@@ -14,7 +14,7 @@ His **exceptional** **wartime** **contribution** did not protect him. On 31 Marc
 
 ## 中文
 
-艾伦·图灵生于1912年6月。二十出头时，他已拥有**强大的**(formidable)**才智**(intellect)。在1936年11月宣读的一篇论文中，他**勾勒**(outlined)了一种"通用机器"：只要给出正确的指令，这种**装置**(device)就能**执行**(execute)任何**计算**(computation)。这一**抽象的**(abstract)**构想**(construct)植根于**数理**(mathematical)**逻辑**(logic)，后来成为现代计算机的**理论**(theoretical)**蓝图**(blueprint)。
+艾伦·图灵生于1912年6月。二十出头时，他已拥有**强大的**(formidable)**才智**(intellect)。在1936年11月宣读的一篇论文中，他**勾勒**(outlined)了一种"通用机器"：只要给出正确的指令，这种**装置**(device)就能**执行**(execute)任何**计算**(computation)。这一**抽象的**(abstract)**构想**(construct)**根源于**(rooted in)**数理**(mathematical)**逻辑**(logic)，后来成为现代计算机的**理论**(theoretical)**蓝图**(blueprint)。
 
 1939年9月4日，他加入布莱切利园的**机密**(classified)破译工作，主持破解**海军**(naval)恩尼格玛密码机，即德国的**加密**(encryption)机器。早在1932年底，波兰数学家就已**破译**(deciphered)了恩尼格玛，并于1939年7月将他们的**破解思路**(insights)告知英法两国。他的团队研制的机器**利用**(exploited)了这些思路，从1940年3月起**投入运行**(operational)，把每天搜寻**转子**(rotor)设置这项**繁重的**(laborious)工作**自动化**(automated)了。
 
@@ -35,6 +35,7 @@ His **exceptional** **wartime** **contribution** did not protect him. On 31 Marc
 | computation | n. 计算（mathematical computation；perform a computation） | 1 |
 | abstract | adj. 抽象的（abstract ideas/thought；in the abstract） | 1 |
 | construct | n. 构想，概念（a theoretical construct；a social construct）；v. 建造 | 1 |
+| rooted in | v. (be rooted in) 根源于，植根于（be rooted in tradition/history；deeply rooted in culture） | 1 |
 | mathematical | adj. 数学的（mathematical logic 数理逻辑；a mathematical model） | 1 |
 | logic | n. 逻辑，逻辑学（formal logic；the logic of an argument） | 1 |
 | theoretical | adj. 理论上的（a theoretical basis/framework；theoretical physics） | 1 |
