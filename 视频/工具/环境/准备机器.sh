@@ -2,6 +2,14 @@
 # 在一台新机器（GitHub 机器或新容器）上，从仓库搭出和本地一样的出片工作目录（2026-10-17）。
 # 用法：bash 视频/工具/环境/准备机器.sh <仓库根目录> <工作目录>   结果：<工作目录>/video（出片目录）、<工作目录>/tts（模型、音色、配音缓存）
 set -e; R=$(cd "$1" && pwd); B=$2; V=$R/视频; mkdir -p $B/video/scripts $B/tts
+# 固定版本的 Python 依赖（2026-10-23：新容器缺 kokoro_onnx、imageio_ffmpeg、parselmouth，规则执行核查一开始就停；版本已对上的跳过）
+python3 - "$V/工具/环境/requirements.txt" <<'PY0' || pip install -q -r $V/工具/环境/requirements.txt 2>&1 | grep -v WARNING || true
+import sys,re
+from importlib.metadata import version
+for l in open(sys.argv[1]):
+    m=re.match(r'([\w.-]+)==(\S+)',l.strip())
+    if m and version(m[1])!=m[2]: sys.exit(1)
+PY0
 # 程序里有几处写死了本机路径：建同名路径指向仓库
 if [ ! -e /home/user/postgraduate-vocabulary ]; then sudo mkdir -p /home/user && sudo ln -s $R /home/user/postgraduate-vocabulary; fi
 cp $V/工具/make_video.py $V/工具/render.py $V/工具/title_anim.py $V/工具/title2.py $B/video/ ; cp $V/工具/clean.py $B/tts/ ; cp -r $V/工具/fonts $B/video/fonts ; cp $V/脚本/*.json $B/video/scripts/
