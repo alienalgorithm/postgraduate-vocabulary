@@ -18,7 +18,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 拉斐尔·维诺利（在设计中）将芬丘奇街20号的南立面向内弯曲，扩大了上部**楼层**(storeys)，那里的**租户**(tenants)支付着**溢价**(premium)（更高的租金）。这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用反射光煎熟了一个鸡蛋。
 
-**开发商**(developers)公开**道歉**(apology)，并**赔付**(reimbursed)了近1,000英镑的修理费。路边停车位暂停使用，还**架起**(erected)了一道**临时**(provisional)性的**屏障**(barrier)。受这一时节太阳的**角度**(angle)与高度影响，这道光束**每年**(annually)有两到三周、每天约两个小时照到街上。报纸把这座"对讲机"大楼叫作"烤焦机"，这是一句**嘲讽**(taunt)。
+**开发商**(developers)作出了**道歉**(apology)，并**赔付**(reimbursed)了近1,000英镑的修理费。路边停车位暂停使用，还**架起**(erected)了一道**临时**(provisional)性的**屏障**(barrier)。受这一时节太阳的**角度**(angle)与高度影响，这道光束**每年**(annually)有两到三周、每天约两个小时照到街上。报纸把这座"对讲机"大楼叫作"烤焦机"，这是一句**嘲讽**(taunt)。
 
 这位**建筑师**(architect)很**坦率**(candid)，承认犯了很多错误。他说，他**预料到**(anticipated)外墙会聚光，却没想到聚光的**强度**(intensity)会这么大。据报道，原设计中的遮阳百叶在**削减成本**(cost-cutting)时被删掉了。这也不是他第一次出现**建筑上**(architectural)的**失算**(miscalculation)。2010年，他设计的拉斯维加斯维达拉酒店外墙弯曲、**反光**(reflective)，那**臭名昭著**(infamous)的强光在泳池边灼伤了一位客人的**头皮**(scalp)。
 
