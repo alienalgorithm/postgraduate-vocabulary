@@ -10,7 +10,7 @@ The **developers** issued an **apology** and **reimbursed** almost 1,000 pounds 
 
 The **architect** was **candid**, admitting many mistakes. Viñoly had **anticipated** the focusing, he said, but not its **intensity**. **Sun louvres** in the original design were reportedly removed in **cost-cutting**. Nor was this his first **architectural** **miscalculation**. In 2010 the **infamous** **glare** from his curved, **reflective** Vdara hotel in Las Vegas burned a guest's **scalp** by the pool.
 
-On 12 February 2014 a permanent **fixture** was announced: **horizontal** **aluminium** **fins** to **diffuse** the **brightness**, reportedly costing several million pounds. In September 2015 Building Design's critics gave the **notorious** tower the Carbuncle Cup, a **trophy** for the UK's worst new building. The **ballot** was **unanimous**.
+On 12 February 2014 a permanent **fixture** was announced: **horizontal** **aluminium** **fins** to **diffuse** the **brightness**, reportedly costing several million pounds. In September 2015 Building Design's **critics** gave the **notorious** tower the Carbuncle Cup, a **trophy** for the UK's worst new building. The **ballot** was **unanimous**.
 
 ## 中文
 
@@ -22,7 +22,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 这位**建筑师**(architect)很**坦率**(candid)，承认犯了很多错误。他说，他**预料到**(anticipated)外墙会聚光，却没想到聚光的**强度**(intensity)会这么大。据报道，原设计中的**遮阳百叶**(Sun louvres)在**削减成本**(cost-cutting)时被删掉了。这也不是他第一次出现**建筑上**(architectural)的**失算**(miscalculation)。2010年，他那座位于拉斯维加斯、弯曲**反光**(reflective)的维达拉酒店反射出**臭名昭著**(infamous)的**强光**(glare)，在泳池边灼伤了一位客人的**头皮**(scalp)。
 
-2014年2月12日，一项永久性的**固定装置**(fixture)方案公布，那就是在外墙加装**水平**(horizontal)的**铝制**(aluminium)散光**鳍片**(fins)来**散射**(diffuse)光线、减弱**亮度**(brightness)，据报道花费达数百万英镑。2015年9月，《建筑设计》杂志的评论家们将“烂疮杯”颁给了这座**声名狼藉的/臭名远扬的**(notorious)大楼，这是一个专门颁给英国最糟糕新建筑的**奖杯**(trophy)。这次**投票**(ballot)**全体一致**(unanimous)。
+2014年2月12日，一项永久性的**固定装置**(fixture)方案公布，那就是在外墙加装**水平**(horizontal)的**铝制**(aluminium)散光**鳍片**(fins)来**散射**(diffuse)光线、减弱**亮度**(brightness)，据报道花费达数百万英镑。2015年9月，《建筑设计》杂志的**评论家们**(critics)将“烂疮杯”颁给了这座**声名狼藉的/臭名远扬的**(notorious)大楼，这是一个专门颁给英国最糟糕新建筑的**奖杯**(trophy)。这次**投票**(ballot)**全体一致**(unanimous)。
 
 ## 速查表
 | 词 | 释义 | 段 |
@@ -77,6 +77,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 | fins | n. (fin) 鳍；鳍状物（a shark's fin；cooling fins） | 5 |
 | diffuse | v. 使散射，扩散（diffuse light/heat） | 5 |
 | brightness | n. 亮度（adjust the brightness） | 5 |
+| critics | n. (critic) 评论家；批评者（a film/literary critic；critics of the plan） | 5 |
 | notorious | adj. 声名狼藉的（a notorious gangster） | 5 |
 | trophy | n. 奖杯（win a trophy） | 5 |
 | ballot | n. 投票（a secret ballot） | 5 |
