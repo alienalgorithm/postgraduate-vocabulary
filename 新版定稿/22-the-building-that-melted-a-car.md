@@ -14,7 +14,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 ## 中文
 
-2013年9月2日，一则新闻传开，说伦敦一座**正在建设中的**(under construction)**摩天大楼**(skyscraper)损坏了一辆捷豹车。（that…：同位语从句，说明 news 的内容，被谓语 broke 隔开；under construction：在建）马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)边，正对着这座高楼的**正面**(frontage)。（leave sth somewhere：把某物停放在某处；opposite…：介词短语，补充说明位置）他回来时发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，并且**车标**(badge)也**扭曲了**(distorted)。（returned to find…：不定式表结果，回来后发现……；find sth done：发现某物处于……状态，三组并列）上方那面**镶玻璃的**(glazed)**正面墙**(facade)是罪魁祸首。（be to blame：应负责任，是……的原因）
+2013年9月2日，一则新闻传开，说伦敦一座**正在建设中的**(under construction)**摩天大楼**(skyscraper)损坏了一辆捷豹车。（that…：同位语从句，说明 news 的内容，被谓语 broke 隔开；under construction：在建）马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)旁边，正对着这座高楼的**正面**(frontage)。（leave sth somewhere：把某物停放在某处；opposite…：介词短语，补充说明位置）他回来时发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，并且**车标**(badge)也**扭曲了**(distorted)。（returned to find…：不定式表结果，回来后发现……；find sth done：发现某物处于……状态，三组并列）上方那面**镶玻璃的**(glazed)**正面墙**(facade)是罪魁祸首。（be to blame：应负责任，是……的原因）
 
 拉斐尔·维诺利（在设计中）将芬丘奇街20号的南立面向内弯曲，**扩大了**(enlarging)上部**楼层**(storeys)，那里的**租户**(tenants)支付着**溢价**(premium)（更高的租金）。（curve sth inward：使……向内弯曲）（enlarging…：现在分词短语表结果；where…：非限制性定语从句，修饰 storeys）这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。（act like：起……的作用）（focusing…：现在分词短语表结果；focus A into B：把 A 汇聚成 B；up to…brighter…：形容词短语作后置定语，修饰 beam）测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用**反射光**(reflection)煎熟了一个鸡蛋。（be measured at：测得为……）（using…：现在分词短语表方式）
 
