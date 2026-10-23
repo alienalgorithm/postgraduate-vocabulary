@@ -16,7 +16,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 2013年9月2日，一则新闻传开，说伦敦一座在建的**摩天大楼**(skyscraper)损坏了一辆捷豹车。马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)边，正对着这座高楼的**正面**(frontage)。他回来时发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，并且**车标**(badge)也**扭曲**(distorted)了。罪魁祸首是上方那面**镶玻璃**(glazed)的**正面墙**(facade)。
 
-拉斐尔·维诺利把芬丘奇街20号的南立面设计成向内弯曲，扩大了高处的**楼层**(storeys)，那里的**租户**(tenants)要付**溢价**(premium)。这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用反射光煎熟了一个鸡蛋。
+拉斐尔·维诺利（在设计中）将芬丘奇街20号的南立面向内弯曲，扩大了上部**楼层**(storeys)，那里的**租户**(tenants)支付着**溢价**(premium)（更高的租金）。这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用反射光煎熟了一个鸡蛋。
 
 **开发商**(developers)公开**道歉**(apology)，并**赔付**(reimbursed)了近1,000英镑的修理费。路边停车位暂停使用，还**架起**(erected)了一道**临时**(provisional)性的**屏障**(barrier)。受这一时节太阳的**角度**(angle)与高度影响，这道光束**每年**(annually)有两到三周、每天约两个小时照到街上。报纸把这座"对讲机"大楼叫作"烤焦机"，这是一句**嘲讽**(taunt)。
 
