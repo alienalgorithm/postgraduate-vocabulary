@@ -22,7 +22,7 @@ His **exceptional** **wartime** **contribution** did not protect him. On 31 Marc
 
 他**杰出的**(exceptional)**战时**(wartime)**贡献**(contribution)，并没有保护到他。1952年3月31日，他**被判定犯有**(convicted of)"严重猥亵"**罪**(convicted of)，这是当时用来惩治男同性恋者的罪名。他**被剥夺/丧失了**(forfeited)他的安全**许可**(clearance)，并且为了**避免**(avert)**入狱**(imprisonment)，**被迫接受了**(submitted to)**激素**(hormone)**注射**(injections)。1954年6月7日，他死于**氰化物中毒**(cyanide poisoning)。**验尸官**(coroner)的死因调查裁定为**自杀**(suicide)，不过有人对此存疑。
 
-**认可**(recognition)**来得迟缓**(lagged)。2009年9月10日，英国首相**公开**(publicly)**道歉**(apologised)；2013年12月24日，图灵在**身后**(posthumously)**获得**(granted)皇室赦免。2021年6月23日，也就是他的生日，印有他**肖像**(portrait)的50英镑钞票开始**流通**(circulation)。**起诉**(prosecuted)他的国家，把他的头像印上了自己的钞票。
+（对于图灵的）**认可**(recognition)**滞后了**(lagged)。2009年9月10日，英国首相**公开**(publicly)**道歉**(apologised)；2013年12月24日，图灵在**身后**(posthumously)**获得**(granted)皇室赦免。2021年6月23日，也就是他的生日，印有他**肖像**(portrait)的50英镑钞票开始**流通**(circulation)。**起诉**(prosecuted)他的国家，把他的头像印上了自己的钞票。
 
 ## 速查表
 | 词 | 释义 | 段 |
