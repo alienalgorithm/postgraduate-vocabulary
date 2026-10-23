@@ -61,10 +61,10 @@ Of Lustig's two marks, the one who paid **kept mum** and the one who kept his mo
 | forgery | 本文：伪造品；n. 伪造品；伪造（a clever forgery） | 2 |
 | lamented | 本文：哀叹；v. (lament) 哀叹，抱怨（lament the loss of sth） | 2 |
 | upkeep | 本文：维护；n. 维护（费）（the upkeep of a house） | 2 |
-| hefty cost | 本文：高昂费用；高昂费用；hefty adj.（数目，数量）相当大的（a hefty bill） | 2 |
+| hefty cost | 本文：高昂费用；n. 高昂费用；hefty adj.（数目，数量）相当大的（a hefty bill） | 2 |
 | businessman | 本文：生意人；n. 商人，生意人（a successful businessman） | 3 |
 | impatient | 本文：迫不及待地；adj. 急切的，不耐烦的（impatient to begin） | 3 |
-| gain a foothold | 本文：拥有一席之地；获得立足点，拥有一席之地（gain a foothold in the market） | 3 |
+| gain a foothold | 本文：拥有一席之地；v. 获得立足点，拥有一席之地（gain a foothold in the market） | 3 |
 | intimated | 本文：暗示；v. (intimate) 暗示（intimate that…） | 3 |
 | civil-service | 本文：公务员；adj. 公务员的（a civil-service job） | 3 |
 | remuneration | 本文：薪酬；n. 报酬，薪酬（remuneration for work） | 3 |
@@ -77,11 +77,11 @@ Of Lustig's two marks, the one who paid **kept mum** and the one who kept his mo
 | quietly | 本文：默默地；adv. 默默地，悄悄地（quietly leave） | 4 |
 | deceit | 本文：骗局；n. 欺骗，骗局（lies and deceit） | 4 |
 | whisper | 本文：风声；n. 耳语；传闻，风声（a whisper of scandal） | 4 |
-| had the gall to | 本文：厚颜无耻地去 | 5 |
+| had the gall to | 本文：厚颜无耻地去；v. (have the gall to) 厚颜无耻地（做某事）（have the gall to ask for more） | 5 |
 | reappear | 本文：再一次出现；v. 再一次出现，再次出现（reappear after years） | 5 |
 | encore | 本文：重演；n. 加演，重演（play an encore） | 5 |
 | script | 本文：剧本；n. 剧本；文字（a film script） | 5 |
-| grew distrustful | 本文：起了疑心；(grow distrustful) 起了疑心，变得不信任（grow distrustful of sb） | 5 |
+| grew distrustful | 本文：起了疑心；v. (grow distrustful) 起了疑心，变得不信任（grow distrustful of sb） | 5 |
 | affair | 本文：事件；n. 事件；事情（a strange affair） | 5 |
 | getaway | 本文：逃之夭夭；n. 逃跑（make one's getaway） | 5 |
 | much-repeated | 本文：被反复提及的；adj. 被反复提及的，一再重复的（a much-repeated story） | 5 |
@@ -90,8 +90,8 @@ Of Lustig's two marks, the one who paid **kept mum** and the one who kept his mo
 | detention | 本文：关押；n. 拘留，关押（in police detention） | 6 |
 | recaptured | 本文：抓回；v. (recapture) 再次抓获（be recaptured after escaping） | 6 |
 | penal | 本文：刑罚；adj. 刑罚的，关押犯人的（a penal colony） | 6 |
-| served time | 本文：服刑；(serve time) 服刑（serve time in prison） | 6 |
-| kept mum | 本文：守口如瓶；(keep mum) 守口如瓶，闭口不言（keep mum about sth） | 7 |
+| served time | 本文：服刑；v. (serve time) 服刑（serve time in prison） | 6 |
+| kept mum | 本文：守口如瓶；v. (keep mum) 守口如瓶，闭口不言（keep mum about sth） | 7 |
 
 ## 史实与来源
 - 【T1】埃菲尔铁塔为1889年世博会而建，原计划二十年后（1909年）拆除；1925年卢斯蒂格读到一篇报道，当局抱怨铁塔维护费用高昂。"借口并不荒唐"是作者据此所下的判断，来源未直接这样说。S1
