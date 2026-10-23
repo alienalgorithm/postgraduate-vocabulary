@@ -2,6 +2,8 @@
 # 在一台新机器（GitHub 机器或新容器）上，从仓库搭出和本地一样的出片工作目录（2026-10-17）。
 # 用法：bash 视频/工具/环境/准备机器.sh <仓库根目录> <工作目录>   结果：<工作目录>/video（出片目录）、<工作目录>/tts（模型、音色、配音缓存）
 set -e; R=$(cd "$1" && pwd); B=$2; V=$R/视频; mkdir -p $B/video/scripts $B/tts
+# 出片、核查要用的 Python 包：新容器里没有就按 requirements.txt 固定版本装（2026-10-23 15 重新对齐时缺 imageio_ffmpeg、scipy、soundfile，核查停；生成文本还要 pymupdf）
+python3 -c "import imageio_ffmpeg, scipy, soundfile, kokoro_onnx, parselmouth, pyloudnorm, pymupdf" 2>/dev/null || { pip install -q -r $V/工具/环境/requirements.txt pymupdf 2>&1 | grep -v WARNING | tail -1; }
 # 程序里有几处写死了本机路径：建同名路径指向仓库
 if [ ! -e /home/user/postgraduate-vocabulary ]; then sudo mkdir -p /home/user && sudo ln -s $R /home/user/postgraduate-vocabulary; fi
 cp $V/工具/make_video.py $V/工具/render.py $V/工具/title_anim.py $V/工具/title2.py $B/video/ ; cp $V/工具/clean.py $B/tts/ ; cp -r $V/工具/fonts $B/video/fonts ; cp $V/脚本/*.json $B/video/scripts/
