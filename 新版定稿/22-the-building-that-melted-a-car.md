@@ -10,7 +10,7 @@ The **developers** issued an **apology** and **reimbursed** almost 1,000 pounds 
 
 The **architect** was **candid**, admitting many mistakes. Viñoly had **anticipated** the focusing, he said, but not its **intensity**. **Sun louvres** in the original design were reportedly removed in **cost-cutting**. Nor was this his first **architectural** **miscalculation**. In 2010 the **infamous** **glare** from his curved, **reflective** Vdara hotel in Las Vegas burned a guest's **scalp** by the pool.
 
-On 12 February 2014 a permanent **fixture** was announced: **horizontal** **aluminium** **fins** to **diffuse** the **brightness**, reportedly costing several million pounds. In September 2015 Building Design's **critics** gave the **notorious** tower the Carbuncle Cup, a **trophy** for the UK's worst new building. The **ballot** was **unanimous**.
+On 12 February 2014 a **permanent** **fixture** was announced: **horizontal** **aluminium** **fins** to **diffuse** the **brightness**, reportedly costing several million pounds. In September 2015 Building Design's **critics** gave the **notorious** tower the Carbuncle Cup, a **trophy** for the UK's worst new building. The **ballot** was **unanimous**.
 
 ## 中文
 
@@ -22,7 +22,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 这位**建筑师**(architect)很**坦率**(candid)，承认犯了很多错误。（admitting…：现在分词短语作伴随状语）维诺利说，他**预料到了**(anticipated)外墙会聚光，却没想到聚光的**强度**(intensity)会这么大。（he said：插入语；but not its intensity：省略句，= but he had not anticipated its intensity）据报道，原设计中的**遮阳百叶**(Sun louvres)在**削减成本**(cost-cutting)时被删掉了。（Sun louvres：遮阳百叶，外墙上成排的斜板，用来遮挡直射阳光、减少强光和热量；reportedly：据报道，插入的副词；in cost-cutting：在削减成本时）这也不是他第一次出现**建筑上的**(architectural)**失算**(miscalculation)。（Nor 放句首：也不……，主谓倒装）2010年，他那座位于拉斯维加斯、弯曲**反光的**(reflective)维达拉酒店反射出**臭名昭著的**(infamous)**强光**(glare)，在泳池边灼伤了一位客人的**头皮**(scalp)。（from his…hotel：介词短语作后置定语，修饰 glare）
 
-2014年2月12日，一项永久性的**固定装置**(fixture)方案公布，那就是在外墙加装**水平的**(horizontal)**铝制**(aluminium)散光**鳍片**(fins)，来**散射**(diffuse)光线、减弱**亮度**(brightness)，据报道花费达数百万英镑。（冒号后补充说明 fixture 的内容）（to diffuse…：不定式表目的；reportedly costing…：现在分词短语，补充说明花费）2015年9月，《建筑设计》杂志的**评论家**(critics)们将“烂疮杯”颁给了这座**声名狼藉的/臭名远扬的**(notorious)大楼，这是一个专门颁给英国最糟糕新建筑的**奖杯**(trophy)。（give sb sth：授予某人某物）（a trophy…：同位语，说明 the Carbuncle Cup）这次**投票**(ballot)**全体一致**(unanimous)。（建筑师维诺利设计的伦敦芬丘奇街20号，南立面向内弯曲，像放大镜把阳光聚成光束，2013年9月烤坏了马丁·林赛停在对面的捷豹车。开发商道歉并赔付修理费，报纸叫它“烤焦机”。维诺利承认失算，据报道遮阳百叶为省钱被删。2014年2月，大楼宣布加装水平铝制鳍片散光；2015年，它被评为英国最糟糕的新建筑，获烂疮杯。）
+2014年2月12日，一项**永久性**(permanent)的**固定装置**(fixture)方案公布，那就是在外墙加装**水平的**(horizontal)**铝制**(aluminium)散光**鳍片**(fins)，来**散射**(diffuse)光线、减弱**亮度**(brightness)，据报道花费达数百万英镑。（冒号后补充说明 fixture 的内容）（to diffuse…：不定式表目的；reportedly costing…：现在分词短语，补充说明花费）2015年9月，《建筑设计》杂志的**评论家**(critics)们将“烂疮杯”颁给了这座**声名狼藉的/臭名远扬的**(notorious)大楼，这是一个专门颁给英国最糟糕新建筑的**奖杯**(trophy)。（give sb sth：授予某人某物）（a trophy…：同位语，说明 the Carbuncle Cup）这次**投票**(ballot)**全体一致**(unanimous)。（建筑师维诺利设计的伦敦芬丘奇街20号，南立面向内弯曲，像放大镜把阳光聚成光束，2013年9月烤坏了马丁·林赛停在对面的捷豹车。开发商道歉并赔付修理费，报纸叫它“烤焦机”。维诺利承认失算，据报道遮阳百叶为省钱被删。2014年2月，大楼宣布加装水平铝制鳍片散光；2015年，它被评为英国最糟糕的新建筑，获烂疮杯。）
 
 ## 速查表
 | 词 | 释义 | 段 |
@@ -71,6 +71,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 | infamous | 本文：臭名昭著的；adj. 臭名昭著的（an infamous case/criminal） | 4 |
 | glare | 本文：强光；n. 强光，刺眼的光（the glare of the sun） | 4 |
 | scalp | 本文：头皮；n. 头皮（an itchy scalp） | 4 |
+| permanent | adj. 永久的，永久性的（a permanent job/home） | 5 |
 | fixture | 本文：固定装置；n. 固定装置；固定设施（light fixtures；a permanent fixture） | 5 |
 | horizontal | 本文：水平的；adj. 水平的（a horizontal line） | 5 |
 | aluminium | 本文：铝制；n./adj. 铝；铝制的（aluminium foil） | 5 |
