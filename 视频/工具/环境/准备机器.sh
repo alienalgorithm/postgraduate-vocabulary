@@ -6,6 +6,8 @@ set -e; R=$(cd "$1" && pwd); B=$2; V=$R/视频; mkdir -p $B/video/scripts $B/tts
 if [ ! -e /home/user/postgraduate-vocabulary ]; then sudo mkdir -p /home/user && sudo ln -s $R /home/user/postgraduate-vocabulary; fi
 cp $V/工具/make_video.py $V/工具/render.py $V/工具/title_anim.py $V/工具/title2.py $B/video/ ; cp $V/工具/clean.py $B/tts/ ; cp -r $V/工具/fonts $B/video/fonts ; cp $V/脚本/*.json $B/video/scripts/
 cp $V/工具/配音/* $B/tts/ ; mkdir -p $B/tts/cache_tts ; cp $V/配音缓存/*.pkl $B/tts/cache_tts/ 2>/dev/null || true
+# 2026-10-23 新容器缺 imageio_ffmpeg，定稿流水线第⓪步排版自检崩溃：按 requirements.txt 装齐固定版本
+python3 -m pip install -q -r $V/工具/环境/requirements.txt 2>&1 | grep -v "^WARNING" || true
 # 模型全部来自 kokoro-onnx 官方发布页，按地址下载、按校验码核对：出片模型 = model-files-v1.0 的 kokoro-v1.0.onnx；
 # 带时长模型 kokoro-v1.0-timed.onnx = model-files-v1.1 的 kokoro-v1.0.onnx 改名（2026-10-17 重新下载，与本地那份逐字节相同）
 G=https://github.com/thewh1teagle/kokoro-onnx/releases/download
