@@ -2,7 +2,7 @@
 # ZH: 会烤化汽车的大楼
 
 ## 英文
-On 2 September 2013 the news broke that a London **skyscraper** under construction had damaged a Jaguar. Martin Lindsay had left the **saloon** by the **pavement** on Eastcheap, opposite the tower's **frontage**. He returned to find its wing mirror **warped**, its panels **deformed** and its **badge** **distorted**. The **glazed** **facade** above was to blame.
+On 2 September 2013 the news broke that a London **skyscraper** **under construction** had damaged a Jaguar. Martin Lindsay had left the **saloon** by the **pavement** on Eastcheap, opposite the tower's **frontage**. He returned to find its wing mirror **warped**, its panels **deformed** and its **badge** **distorted**. The **glazed** **facade** above was to blame.
 
 Rafael Viñoly curved the south face of 20 Fenchurch Street inward, enlarging the upper **storeys**, where **tenants** pay a **premium**. That **geometry** acted like a **magnifying** glass, focusing **sunlight** into a **beam** up to six times brighter than direct sun. It was measured at about 110 degrees Celsius, and a **reporter** fried an egg in a **pan** using the reflection.
 
@@ -14,7 +14,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 ## 中文
 
-2013年9月2日，一则新闻传开，说伦敦一座在建的**摩天大楼**(skyscraper)损坏了一辆捷豹车。马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)边，正对着这座高楼的**正面**(frontage)。他回来时发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，并且**车标**(badge)也**扭曲**(distorted)了。罪魁祸首是上方那面**镶玻璃**(glazed)的**正面墙**(facade)。
+2013年9月2日，一则新闻传开，说伦敦一座**正在建设中的**(under construction)**摩天大楼**(skyscraper)损坏了一辆捷豹车。马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)边，正对着这座高楼的**正面**(frontage)。他回来时发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，并且**车标**(badge)也**扭曲**(distorted)了。罪魁祸首是上方那面**镶玻璃**(glazed)的**正面墙**(facade)。
 
 拉斐尔·维诺利（在设计中）将芬丘奇街20号的南立面向内弯曲，扩大了上部**楼层**(storeys)，那里的**租户**(tenants)支付着**溢价**(premium)（更高的租金）。这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用反射光煎熟了一个鸡蛋。
 
@@ -28,6 +28,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 | 词 | 释义 | 段 |
 |---|---|---|
 | skyscraper | n. 摩天大楼（a 50-storey skyscraper） | 1 |
+| under construction | 正在建设中的，在建（a building under construction） | 1 |
 | saloon | n. （英）轿车；酒吧（a four-door saloon） | 1 |
 | pavement | n. （英）人行道（walk on the pavement） | 1 |
 | frontage | n. （建筑物的）正面（a shop frontage） | 1 |
