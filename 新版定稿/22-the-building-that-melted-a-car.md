@@ -14,7 +14,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 ## 中文
 
-2013年9月2日，一则新闻传开，说伦敦一座在建的**摩天大楼**(skyscraper)损坏了一辆捷豹车。马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)边，正对着这座高楼的**正面**(frontage)。回来时他发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，**车标**(badge)也**扭曲**(distorted)了。罪魁祸首是上方那面**镶玻璃**(glazed)的**外墙**(facade)。
+2013年9月2日，一则新闻传开，说伦敦一座在建的**摩天大楼**(skyscraper)损坏了一辆捷豹车。马丁·林赛把这辆**轿车**(saloon)停在伊斯特奇普街的**人行道**(pavement)边，正对着这座高楼的**正面**(frontage)。他回来时发现，车的后视镜已经**翘曲**(warped)，车身板**变形**(deformed)，并且**车标**(badge)也**扭曲**(distorted)了。罪魁祸首是上方那面**镶玻璃**(glazed)的**外墙**(facade)。
 
 拉斐尔·维诺利把芬丘奇街20号的南立面设计成向内弯曲，扩大了高处的**楼层**(storeys)，那里的**租户**(tenants)要付**溢价**(premium)。这种**几何形状**(geometry)就像一面**放大**(magnifying)镜，把**阳光**(sunlight)汇聚成一道**光束**(beam)，亮度可达直射阳光的六倍。测得的温度约为110摄氏度，一名**记者**(reporter)还在**平底锅**(pan)里利用反射光煎熟了一个鸡蛋。
 
