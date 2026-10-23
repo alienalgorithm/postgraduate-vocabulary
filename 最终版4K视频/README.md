@@ -16,7 +16,7 @@
 | 09 | The Great Emu War | 向鸸鹋宣战 | 12.1 MB |
 | 10 | The Stolen Smile | 被偷走的微笑 | 12.1 MB |
 | 11 | Move 37 | 第37手 | 11.5 MB |
-| 12 | The 79 Days of New Coke | 新可乐的 79 天 | 11.7 MB |
+| 12 | The 79 Days of New Coke | 新可乐的 79 天 | 11.6 MB |
 | 13 | Eleven Days Without Sleep | 十一天不睡觉的少年 | 13.3 MB |
 | 14 | The Fungus That Turns Ants into Zombies | 让蚂蚁变僵尸的真菌 | 11.5 MB |
 | 15 | The Myth of the Unsinkable | 永不沉没的神话 | 12.6 MB |
