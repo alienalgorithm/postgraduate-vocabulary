@@ -8,7 +8,7 @@ Rafael Viñoly curved the south face of 20 Fenchurch Street inward, **enlarging*
 
 The **developers** issued an **apology** and **reimbursed** almost 1,000 pounds for repairs. Parking bays were **suspended** and a **provisional** **barrier** was **erected**. The beam struck for about two hours a day, two to three weeks **annually**, because of the sun's **angle of elevation**. Newspapers dubbed the Walkie-Talkie the Walkie-Scorchie, a **taunt**.
 
-The **architect** was **candid**, admitting many mistakes. Viñoly had **anticipated** the focusing, he said, but not its **intensity**. Sun louvres in the original design were reportedly removed in **cost-cutting**. Nor was this his first **architectural** **miscalculation**. In 2010 the **infamous** **glare** from his curved, **reflective** Vdara hotel in Las Vegas burned a guest's **scalp** by the pool.
+The **architect** was **candid**, admitting many mistakes. Viñoly had **anticipated** the focusing, he said, but not its **intensity**. **Sun louvres** in the original design were reportedly removed in **cost-cutting**. Nor was this his first **architectural** **miscalculation**. In 2010 the **infamous** **glare** from his curved, **reflective** Vdara hotel in Las Vegas burned a guest's **scalp** by the pool.
 
 On 12 February 2014 a permanent **fixture** was announced: **horizontal** **aluminium** **fins** to **diffuse** the **brightness**, reportedly costing several million pounds. In September 2015 Building Design's critics gave the **notorious** tower the Carbuncle Cup, a **trophy** for the UK's worst new building. The **ballot** was **unanimous**.
 
@@ -20,7 +20,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 
 **开发商**(developers)作出了**道歉**(apology)，并**赔付**(reimbursed)了近1,000英镑的修理费。路边停车位**暂停使用**(suspended)，并且一道**临时的**(provisional)**屏障**(barrier)被**搭建了起来**(erected)。这道光束**每年**(annually)会照射两到三周、每天约照射两小时，因为这是太阳的**仰角**(angle of elevation)。报纸把对讲机大楼戏称为“烤焦机大楼”，这是一句**嘲讽**(taunt)。
 
-这位**建筑师**(architect)很**坦率**(candid)，承认犯了很多错误。他说，他**预料到**(anticipated)外墙会聚光，却没想到聚光的**强度**(intensity)会这么大。据报道，原设计中的遮阳百叶在**削减成本**(cost-cutting)时被删掉了。这也不是他第一次出现**建筑上**(architectural)的**失算**(miscalculation)。2010年，他那座位于拉斯维加斯、弯曲**反光**(reflective)的维达拉酒店反射出**臭名昭著**(infamous)的**强光**(glare)，在泳池边灼伤了一位客人的**头皮**(scalp)。
+这位**建筑师**(architect)很**坦率**(candid)，承认犯了很多错误。他说，他**预料到**(anticipated)外墙会聚光，却没想到聚光的**强度**(intensity)会这么大。据报道，原设计中的**遮阳百叶**(Sun louvres)在**削减成本**(cost-cutting)时被删掉了。这也不是他第一次出现**建筑上**(architectural)的**失算**(miscalculation)。2010年，他那座位于拉斯维加斯、弯曲**反光**(reflective)的维达拉酒店反射出**臭名昭著**(infamous)的**强光**(glare)，在泳池边灼伤了一位客人的**头皮**(scalp)。
 
 2014年2月12日，一项永久性的**固定装置**(fixture)方案公布，那就是在外墙加装**水平**(horizontal)的**铝制**(aluminium)散光**鳍片**(fins)来**散射**(diffuse)光线、减弱**亮度**(brightness)，据报道花费达数百万英镑。2015年9月，《建筑设计》杂志的评论家们将“烂疮杯”颁给了这座**声名狼藉的/臭名远扬的**(notorious)大楼，这是一个专门颁给英国最糟糕新建筑的**奖杯**(trophy)。这次**投票**(ballot)**全体一致**(unanimous)。
 
@@ -63,6 +63,7 @@ On 12 February 2014 a permanent **fixture** was announced: **horizontal** **alum
 | candid | adj. 坦率的（a candid interview/admission） | 4 |
 | anticipated | v. (anticipate) 预料，预期（anticipate problems） | 4 |
 | intensity | n. 强度，强烈（the intensity of the heat/light） | 4 |
+| sun louvres | n. 遮阳百叶（外墙上成排的斜板，遮挡直射阳光、减少强光和热量；louvre 百叶窗） | 4 |
 | cost-cutting | n./adj. 削减成本（cost-cutting measures） | 4 |
 | architectural | adj. 建筑的（architectural design/style） | 4 |
 | miscalculation | n. 失算，误算（a serious miscalculation） | 4 |
