@@ -5728,5 +5728,30 @@
   "演练": [
    "check_all.py --自检（G48：短语对短语小品词不同不报 bring in↔bring back，hinge on↔hinged on 必报）"
   ]
+ },
+ "G49": {
+  "门": [
+   [
+    "make_video.py",
+    "_cd=R.同屏色差(d,colors)"
+   ],
+   [
+    "踩坑核查.py",
+    "import 颜色核对 as _YS; err += _YS.查(d, no)"
+   ],
+   [
+    "render.py",
+    "def 分色(d):"
+   ]
+  ],
+  "自检": [
+   [
+    "颜色核对.py",
+    "没抓到：26 S10 ripened into（珊瑚红）↔rapidly（琥珀黄）相邻颜色太像"
+   ]
+  ],
+  "演练": [
+   "颜色核对.py --自检（重放 26 S10 珊瑚红↔琥珀黄相邻必停；出片程序、踩坑核查 26 起都调 同屏色差）"
+  ]
  }
 }
