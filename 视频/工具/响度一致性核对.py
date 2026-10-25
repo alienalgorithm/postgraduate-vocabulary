@@ -117,14 +117,14 @@ def 句内自检(src, seg_json=None):
     ok = (nm, 1) in bad1 and bad1 - bad0 <= {(nm, 1), (nm, 2)}
     return ok, f'故意把 {nm} 第 2 段（{x:.1f}–{y:.1f}s）调 {g:+.1f} dB，{"报出" if (nm, 1) in bad1 else "没报出"}；多报 {sorted(bad1 - bad0 - {(nm, 1), (nm, 2)})}'
 
-# G38（主对话 2026-10-25：25 第一稿 cartridges 偏轻 8.5 dB，AI 写了一条 响度骤降 确认放过去）：音频门上的确认只认实测数据。
+# G40（主对话 2026-10-25：25 第一稿 cartridges 偏轻 8.5 dB，AI 写了一条 响度骤降 确认放过去）：音频门上的确认只认实测数据。
 # 25 起，响度骤降 确认只收不超过 01–24 用户听过认可的最深一处（20 的 7.1 dB）；更深的必须修（重合成、分段增益），确认不放行
 骤降确认上限 = 7.1
 def 骤降确认可收(no, 低):
     return not (str(no).isdigit() and int(no) >= 25 and float(低) > 骤降确认上限)
 def 确认自检():
     f = []
-    if 骤降确认可收('25', 8.5): f.append('没抓到：25 偏轻 8.5 dB 写了响度骤降确认，照样收了（G38 重放 25 cartridges）')
+    if 骤降确认可收('25', 8.5): f.append('没抓到：25 偏轻 8.5 dB 写了响度骤降确认，照样收了（G40 重放 25 cartridges）')
     if not 骤降确认可收('25', 6.1): f.append('误报：25 偏轻 6.1 dB（在 01–24 认可范围内）的确认也不收')
     if not 骤降确认可收('20', 8.5): f.append('误报：24 以前的不回头查')
     return f

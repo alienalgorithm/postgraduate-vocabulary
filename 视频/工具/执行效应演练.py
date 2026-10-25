@@ -206,7 +206,7 @@ def _变异(prog, old, new):
         ('L3', 'render.py', '末行孤词不再查', 'def orphan_lines(chunks,colors,notes,es):', 'def orphan_lines(chunks,colors,notes,es):\n    return []', 'L3 末行孤词查得出', ['L3']),
         ('L6', 'render.py', '数字按单个数字拆', "parts=re.findall(r'\\S+\\s*|\\s+',t) if not cjk", "parts=re.findall(r'\\d\\s*|[^\\d\\s]+\\s*|\\s+',t) if not cjk", 'L6 数字不拆', ['L6']),
         ('L7', 'render.py', '说明不计入字号', 'wide=max([wide]+[nf.getlength(_note_txt(ln))', 'wide=max([wide]+[0*nf.getlength(_note_txt(ln))', 'L7 说明计入字号', ['L7']),
-        ('L8', 'render.py', '正文页画上标题', '_grouping(chunks,colors))\n    im=bg(); d=ImageDraw.Draw(im)', "_grouping(chunks,colors))\n    im=bg(); d=ImageDraw.Draw(im); d.text((40,20),str(header),fill=(255,255,255),font=ZH(40*S,400))", 'L8 正文页不画标题', ['L8']),
+        ('L8', 'render.py', '正文页画上标题', 'nf_=ZH(int(zs*0.9),400)\n    im=bg(); d=ImageDraw.Draw(im)', "nf_=ZH(int(zs*0.9),400)\n    im=bg(); d=ImageDraw.Draw(im); d.text((40,20),str(header),fill=(255,255,255),font=ZH(40*S,400))", 'L8 正文页不画标题', ['L8']),
         ('L10', 'render.py', '另译不再用黄字', 'nc=(251,191,36) if on else dim((251,191,36))', 'nc=(200,200,200) if on else dim((200,200,200))', 'L10 另译黄字', ['L10']),
         ('L11', 'render.py', '重点词中文两侧不留间隙', 'tx[0] not in PUN: res.append((KSP,None))', 'tx[0] not in PUN: pass', 'L11 重点词两侧间隙', ['L11']),
         ('L15', 'render.py', '中文意思找不到颜色也不停', 'if miss: raise SystemExit(f\'【停止】画面上这些中文意思找不到颜色', 'if False: raise SystemExit(f\'【停止】画面上这些中文意思找不到颜色', 'L15 找不到颜色就停', ['L15']),
@@ -216,6 +216,7 @@ def _变异(prog, old, new):
         ('L20', 'render.py', '重点词中文不再对正（退回格内居中）', '    if not (ALIGN_RULE[0] if align is None else align): return xe0,xz0', '    return xe0,xz0', 'L20 重点词对正', ['L20', '画22', '单28']),
         ('L20旧篇', 'render.py', '对正排法开到 01–23（定稿画面变了）', 'ALIGN_RULE=[False]; ALIGN_FROM=24', 'ALIGN_RULE=[False]; ALIGN_FROM=1', 'L20 01–23 照旧居中', ['L20', '画22']),
         ('G35', 'render.py', '无特批放宽上限从 1.5 改成 9（说明可以无限放宽）', "1 < float(v_.get('倍数', 0)) <= 1.5", "1 < float(v_.get('倍数', 0)) <= 9", 'L19 放宽特批上限', ['G35']),
+        ('G37', 'render.py', '说明放右侧不再要求用户原话', "if not (isinstance(v_, dict) and '用户' in v_.get('依据', '') and", "if not (isinstance(v_, dict) and", 'G37 说明放右侧没有用户原话必停', ['G37']),
         ('H1', 'title2.py', '片头色块往右偏', '[(W - zw) / 2 - pad, y, (W + zw) / 2 + pad, y + ph]', '[(W - zw) / 2 - pad + 300 * S, y, (W + zw) / 2 + pad + 300 * S, y + ph]', 'H1 片头色块水平居中', ['H1']),
         ('H2', 'title2.py', '色块不是圆角', 'radius=18 * S, fill=AC1', 'radius=0, fill=AC1', 'H2 色块是圆角长方形', ['H2']),
         ('H3', 'title2.py', '色块里的字往下偏', 'y + (ph - (bb[3] - bb[1])) / 2 - bb[1]), zh', 'y + (ph - (bb[3] - bb[1])) / 2 - bb[1] + 20 * S), zh', 'H3 色块里的字上下居中', ['H3']),
@@ -446,8 +447,11 @@ def 覆盖():
                      '出片守门自检.py（隔离工作区真跑 make_video.py）': ['A44', 'A36'],
                      '出片指纹.py --自检（临时工具目录新加被 import 的模块必进清单、工作目录缺模块必停；定稿流水线、两个演练入口真跑 --核对工作目录）': ['G27'],
                      'check_all.py --自检（临时仓库真跑 查提醒/写提醒：原稿撞车词没写进制作记录必停、漏词必停、写了放行；踩坑核查 25 起每次跑 查提醒）': ['G34'],
+                     'check_all.py --自检（N：T22 扩成的短语仍算原有、不当新加；短语拆实词比，短语对单词漏报必停）': ['G38'],
+                     '踩坑核查.py 自检（G39：方法设计空模板必报、写全的不报；踩坑核查 NN 出片每次先跑自检）': ['G39'],
                      '结尾句接点.py --自检（--写入 用的同一个 合并()：写了前段增益dB 再跑接点，增益必须还在）': ['G31'],
-                     '停顿位置精确核对.py --自检 + 响度一致性核对.py --确认自检（25 起离后词为负没用插入点的停顿位置确认、超过 7.1 dB 的响度骤降确认必须不收；规则执行核查当场跑）': ['G38'],
+                     '音频首要法则.py --自检（踩坑总表删一条音频坑必被发现、CLAUDE.md 第一条不是首要法则必停；规则执行核查每次核对 音频首要法则.md）': ['守则0'],
+                     '停顿位置精确核对.py --自检 + 响度一致性核对.py --确认自检（25 起离后词为负没用插入点的停顿位置确认、超过 7.1 dB 的响度骤降确认必须不收；规则执行核查当场跑）': ['G40'],
                      '执行效应声音演练（结束核对两个仓库的配音缓存，留下就报；演练镜像 --自检 造坑）': ['G29']}.items():
         for r in rs: cov.setdefault(r, []).append(prog)
     cov.setdefault('守则19', []).append('执行效应演练 自查拆门（拆掉 T36 的门，演练必须报没挡住）')

@@ -24,4 +24,5 @@ if __name__ == '__main__':
     open(f'{V}/制作记录/当前篇.txt', 'w').write(no); open(os.path.expanduser('~/.当前篇'), 'w').write(no)   # 本容器自己的当前篇优先（钩子先读它）   # 钩子据此每轮更新这篇的 token 记录（T31）
     print(f'{f}：{len(rows)} 条')
     import subprocess   # J（用户 2026-10-25）：开工就把本篇撞车提醒写进制作记录并打印，发草稿时告诉用户
+    print(subprocess.run(['python3', f'{os.path.dirname(os.path.abspath(__file__))}/音频首要法则.py', '--要点'], capture_output=True, text=True).stdout.rstrip())   # 首要法则（CLAUDE.md 0.）
     print(subprocess.run(['python3', f'{os.path.dirname(os.path.abspath(__file__))}/check_all.py', '--写提醒', no], capture_output=True, text=True).stdout.strip())
