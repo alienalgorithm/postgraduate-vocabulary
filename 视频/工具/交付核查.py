@@ -118,7 +118,8 @@ elif stage == '出片后':
         return None
     def _qok(l):
         m = re.match(r'(\d+\.\d–\d+\.\ds) 响度比全片低 ([\d.]+) dB', l); k_ = _qkey(l); cf = okq.get(k_, {}) if k_ else {}
-        return bool(m) and cf.get('配音指纹') == fpa and isinstance(cf.get('低'), (int, float)) and float(m.group(2)) <= cf['低'] + 0.3
+        import 响度一致性核对 as _LQ   # G38：25 起超过 01–24 认可最深处的骤降，确认不收
+        return bool(m) and cf.get('配音指纹') == fpa and isinstance(cf.get('低'), (int, float)) and float(m.group(2)) <= cf['低'] + 0.3 and _LQ.骤降确认可收(no, m.group(2))
     qconf = [l for l in qlines if _qok(l)]
     qrest = [l for l in qlines if l not in qconf]
     step('自动音频检查（削波、电流音、停顿超长、响度骤降）', c == 0 or (bool(qconf) and not qrest),
