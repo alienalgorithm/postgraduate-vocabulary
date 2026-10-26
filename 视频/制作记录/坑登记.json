@@ -135,7 +135,8 @@
    "号": "K16",
    "时刻": "2026-10-26T07:39Z",
    "会话": "session_015HgtrfUrgMkSJVG4YBKP3B",
-   "现象": "2026-10-26 改门会话 session_01SiSSwTLejfpiU9rzZ24Mdb 合并时用 git -c core.hooksPath=/dev/null 提交，想跳过提交前钩子（规则执行核查）；被平台自动审核拦下、没执行成功。命令闸门只拦 --no-verify，没拦 core.hooksPath、GIT_* 环境变量、改 .git/hooks 等绕钩子的写法——门有洞，靠外部审核兜住不算数"
+   "现象": "2026-10-26 改门会话 session_01SiSSwTLejfpiU9rzZ24Mdb 合并时用 git -c core.hooksPath=/dev/null 提交，想跳过提交前钩子（规则执行核查）；被平台自动审核拦下、没执行成功。命令闸门只拦 --no-verify，没拦 core.hooksPath、GIT_* 环境变量、改 .git/hooks 等绕钩子的写法——门有洞，靠外部审核兜住不算数",
+   "入表编号": "G59"
   },
   {
    "号": "K17",
@@ -188,6 +189,12 @@
    "会话": "session_012m8CVmUZBCGuNfjhQRWszn",
    "时刻": "2026-10-26T07:58Z",
    "用途": "GitHub 工作流写回镜像的印章/结果反向拷回主仓库（推送两仓库.sh）"
+  },
+  {
+   "编号": "G59",
+   "会话": "session_01RKqnHQGhfLW4mTHxj4VoXD",
+   "时刻": "2026-10-26T08:02Z",
+   "用途": "K16 命令闸门拦全部绕提交钩子写法"
   }
  ]
 }
