@@ -18,14 +18,23 @@ big=$(git diff --cached --name-only -z | xargs -0 -r du -b 2>/dev/null | awk '$1
 if ! git diff --cached --quiet; then git commit -qm "$1$T"; fi
 git pull -q --no-rebase --no-edit origin main   # 2026-10-22：别的会话（每篇新开会话）可能先推了，先合并远端再算差异、再推
 (cd $L; git checkout -q -- 视频 2>/dev/null; git pull -q --no-rebase --no-edit origin $B)   # 镜像分支先合并别的会话推的
-D='视频 最终版4K视频 新版定稿'   # G20：三个都镜像（只镜像 视频/ 时，定稿流水线 ⑥ 中断后用本脚本补推，镜像里的 4K 和文章一直是旧的）
+# G58（2026-10-26 GitHub 化）：GitHub 工作流（github-actions[bot]）写回镜像的印章、结果，先反向拷回主仓库，不被主仓库的旧版本覆盖。
+# 只限下面这几样工作流写的文件；镜像上这次提交比主仓库这份新才拷（主仓库后来又改了，以主仓库为准）。
+WF='视频/工具/执行效应演练通过.json 视频/工具/执行效应声音演练通过.json 视频/工具/全篇重查通过.json 视频/云端/结果'
+for f in $(cd $L; git -c core.quotepath=off ls-files -- $WF); do
+  read -r la lt < <(cd $L; git log -1 --format='%an %ct' -- "$f"); pt=$(git log -1 --format=%ct -- "$f" 2>/dev/null); pt=${pt:-0}
+  if [ "$la" = 'github-actions[bot]' ] && [ "$lt" -gt "$pt" ] && ! cmp -s "$L/$f" "$P/$f"; then mkdir -p "$(dirname "$P/$f")"; cp "$L/$f" "$P/$f"; git add -- "$f"; echo "回写（G58）：$f（GitHub 工作流结果）"; fi
+done
+git diff --cached --quiet || git commit -qm "回写：GitHub 工作流结果（G58）$T"
+D='视频 最终版4K视频 新版定稿'
+TP=$(mktemp); TL=$(mktemp)   # 2026-10-26：清单原写死 /tmp/_p.txt、/tmp/_l.txt，演练里几场推送自检同时跑互相覆盖，复制错文件（G58 演练在 GitHub 上偶发失灵查出）   # G20：三个都镜像（只镜像 视频/ 时，定稿流水线 ⑥ 中断后用本脚本补推，镜像里的 4K 和文章一直是旧的）
 # 2026-10-23：按两边 git 指纹逐文件比对来拷（只拷“这次改动”会漏掉两个会话合并出来的文件）
-git -c core.quotepath=off ls-tree -r HEAD $D | awk -F'\t' '{split($1,a," "); print a[3]"\t"$2}' | sort -k2 > /tmp/_p.txt
-(cd $L; git -c core.quotepath=off ls-tree -r HEAD $D | awk -F'\t' '{split($1,a," "); print a[3]"\t"$2}' | sort -k2) > /tmp/_l.txt
-python3 - "$P" "$L" <<'PY2'
+git -c core.quotepath=off ls-tree -r HEAD $D | awk -F'\t' '{split($1,a," "); print a[3]"\t"$2}' | sort -k2 > $TP
+(cd $L; git -c core.quotepath=off ls-tree -r HEAD $D | awk -F'\t' '{split($1,a," "); print a[3]"\t"$2}' | sort -k2) > $TL
+python3 - "$P" "$L" "$TP" "$TL" <<'PY2'
 import sys,shutil,os
-P,L=sys.argv[1:3]
-p=dict(l.rstrip('\n').split('\t')[::-1] for l in open('/tmp/_p.txt')); q=dict(l.rstrip('\n').split('\t')[::-1] for l in open('/tmp/_l.txt'))
+P,L,TP,TL=sys.argv[1:5]
+p=dict(l.rstrip('\n').split('\t')[::-1] for l in open(TP)); q=dict(l.rstrip('\n').split('\t')[::-1] for l in open(TL))
 for f,h in p.items():
     if q.get(f)!=h: os.makedirs(os.path.dirname(f'{L}/{f}'),exist_ok=True); shutil.copy2(f'{P}/{f}',f'{L}/{f}')
 for f in q:
