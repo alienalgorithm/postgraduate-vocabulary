@@ -23,6 +23,15 @@ T = os.path.dirname(os.path.abspath(__file__)); V = os.path.dirname(T); P = os.p
     '⑤ 方法进化：每做完一件事回头看哪里还能更省、更好，当场改成程序，记进方法升级记录；踩过的坑绝不再踩（守则2/12/13）。',
 ]
 
+# 三大主义（O，用户 2026-10-27 第五次原话：“执行主义是最重要的……还有一个就是绝对的丝滑，还有一个就是虹吸主义”）：每个会话开工第一屏，按这个顺序
+三大主义 = [
+    '① 执行主义（最重要）：做出来的机制都要跑起来、用上，每次都查，漏跑就停——用上核查（G83）、门变异（G79）、证据链（G60）、执行效应演练（守则19）。',
+    '② 丝滑主义：流程中间不许有 bug、冲突、要重跑的地方——会话开工 环境检查（M/G90）、丝滑记录 不丝滑次数（K/G91）、GitHub 新容器彩排（L/G92）；停下不是稿子的问题当场报坑。',
+    '③ 虹吸主义：程序能做的全交给程序，不花或少花 token——不派子代理、少调用、输出短、每篇新开会话（T29）；30 分钟没成果立刻换方法（守则2）。',
+]
+def 打印三大主义():
+    print('【三大主义（每个会话开工第一屏，用户 2026-10-27）】'); [print('  ' + x) for x in 三大主义]
+
 
 def 指纹(): return hashlib.sha256(open(必读F, 'rb').read()).hexdigest()[:12] if os.path.exists(必读F) else ''
 
@@ -40,11 +49,43 @@ def 节(txt, head):
     m = re.search(rf'^## {head}[^\n]*\n[\s\S]*?(?=^## |\Z)', txt, re.M); return m.group(0).rstrip() if m else ''
 
 
+模块 = {'soundfile': 'soundfile', 'numpy': 'numpy', 'imageio_ffmpeg': 'imageio-ffmpeg', 'PIL': 'pillow', 'wordfreq': 'wordfreq',
+        'scipy': 'scipy', 'parselmouth': 'praat-parselmouth', 'pyloudnorm': 'pyloudnorm', 'kokoro_onnx': 'kokoro-onnx',
+        'onnxruntime': 'onnxruntime', 'phonemizer': 'phonemizer', 'fitz': 'pymupdf', 'docx': 'python-docx', 'sherpa_onnx': 'sherpa-onnx'}
+def 缺包(mods=None):
+    import importlib.util; importlib.invalidate_caches()
+    return [m for m in (mods or 模块) if importlib.util.find_spec(m) is None]
+def _装(缺, mods):
+    pip = [sys.executable, '-m', 'pip', 'install', '-q']
+    subprocess.run(pip + ['-r', f'{T}/环境/requirements.txt'], capture_output=True)
+    subprocess.run(pip + ['--break-system-packages', '-r', f'{T}/环境/requirements.txt'], capture_output=True)
+    subprocess.run(pip + [mods[m] for m in 缺], capture_output=True)
+def _ff():
+    import imageio_ffmpeg; return imageio_ffmpeg.get_ffmpeg_exe()
+def 环境检查(mods=None, 装=None, ff取=None):
+    """M（用户 2026-10-27 丝滑主义；K42 新容器缺 soundfile/imageio_ffmpeg/wordfreq，推送三次才过）：开工先查 Python 包和 ffmpeg，
+    缺了自动装（requirements.txt），装不上才停并说清缺什么"""
+    mods = mods or 模块; 缺 = 缺包(mods)
+    if 缺:
+        print(f'【环境】缺 {"、".join(缺)}：自动装（M/K42）'); (装 or _装)(缺, mods); 缺 = 缺包(mods)
+        if 缺 and 装 is None: import 丝滑; 丝滑.记('会话开工', '-', f'环境缺包，自动装不上：{缺}', '不丝滑')   # K
+        if 缺: sys.exit(f'【停止】环境缺包，自动装不上：{"、".join(缺)}（手工 pip install {" ".join(mods[m] for m in 缺)}；M/K42）')
+    if 'imageio_ffmpeg' in mods or ff取:
+        try:
+            ff = (ff取 or _ff)()
+            if not os.path.exists(ff): raise FileNotFoundError(ff)
+        except Exception as e: sys.exit(f'【停止】环境缺 ffmpeg（imageio_ffmpeg 找不到：{e}；M）')
+    print('【环境】Python 包、ffmpeg 齐（M；work_NN 缺 a.wav 由 定稿流水线 ①前 自动重建，K36）')
+
+
 def 开工(角色, 会话='', 任务=''):
     if 角色 not in 角色们: sys.exit(f'【停止】角色只能是 {"、".join(角色们)}')
     if 角色 == '改门' and not (任务 and os.path.exists(任务 if os.path.isabs(任务) else f'{V}/{任务}')):
         sys.exit('【停止】改门会话要写 --任务 制作记录/改门_xxx.md（主会话交给你的改门文件；G25：出稿、改稿会话不改门）')
+    打印三大主义()   # O：第一屏
+    环境检查()   # M：环境先齐，后面的用上报告、开工必读才跑得动
     打印总纲()
+    r = subprocess.run(['python3', f'{T}/用上核查.py'], capture_output=True, text=True); print(r.stdout.strip())   # G83：开头先打印用上报告，读完才记指纹
     r = subprocess.run(['python3', f'{T}/开工必读.py', '--要点'], capture_output=True, text=True); print(r.stdout.strip())
     t = open(必读F).read() if os.path.exists(必读F) else ''
     s = 节(t, '⑤')
@@ -63,7 +104,7 @@ def 重读():
     new = open(必读F).read(); 旧 = set(old); add = [l for l in new.splitlines() if l.strip() and l not in 旧]
     print(f'【开工必读 更新】新增或改了 {len(add)} 行：'); [print('  ' + l[:170]) for l in add[:80]]
     if len(add) > 80: print(f'  ……另 {len(add) - 80} 行见 视频/开工必读.md')
-    rec['开工必读指纹'] = 指纹(); json.dump(rec, open(记录F[0], 'w'), ensure_ascii=False); open(记录F[0] + '.md', 'w').write(new)
+    rec['开工必读指纹'] = 指纹(); rec['读过的指纹'] = (rec.get('读过的指纹', []) + [rec['开工必读指纹']])[-20:]; json.dump(rec, open(记录F[0], 'w'), ensure_ascii=False); open(记录F[0] + '.md', 'w').write(new)
     print(f'已记下新指纹 {rec["开工必读指纹"]}')
 
 
@@ -71,7 +112,7 @@ def 查开工(rec=None, fp=None):
     rec = 读记录() if rec is None else rec; fp = 指纹() if fp is None else fp
     if not rec or rec.get('角色') not in 角色们:
         return ['【G63 会话开工】本会话还没开工（没读开工必读、没记角色）：先 python3 视频/工具/会话开工.py <出稿|改稿|改门|主会话>，读完总纲、要点、步骤表再提交']
-    if rec.get('开工必读指纹') != fp:
+    if rec.get('开工必读指纹') != fp and fp not in rec.get('读过的指纹', []):   # K52：两个仓库（主仓库、镜像）的开工必读版本不同时，读过的都算
         return [f'【G63 会话开工】开工必读 更新了（读的是 {rec.get("开工必读指纹")}，现行 {fp}）：python3 视频/工具/会话开工.py --重读，读完新增的条目再提交']
     return []
 
@@ -132,9 +173,14 @@ def 自检():
     f = []; old = 记录F[0]; d = tempfile.mkdtemp(prefix='会话开工自检_'); 记录F[0] = f'{d}/r.json'
     try:
         if not 查开工(None): f.append('没抓到：没开工就提交')
+        try: 开工('乱写的角色'); f.append('没抓到：角色乱写也开了工（G79 门变异）')
+        except SystemExit as e:
+            if '角色只能是' not in str(e): f.append(f'角色乱写停错了地方：{e}')
         rec = {'角色': '出稿', '会话': 'x', '开工必读指纹': 'aaa'}
         if not 查开工(rec, 'bbb'): f.append('没抓到：开工必读更新了没重读')
         if 查开工(rec, 'aaa'): f.append('误报：读过现行开工必读')
+        if 查开工({**rec, '读过的指纹': ['ccc']}, 'ccc'): f.append('误拦：另一个仓库的开工必读也读过（K52 来回重读）')
+        if not 查开工({**rec, '读过的指纹': ['ccc']}, 'ddd'): f.append('没抓到：两个版本都没读过（K52 放得太宽）')
         no = lambda p: False
         for p in ('视频/工具/踩坑核查.py', '视频/工具/githooks/pre-commit', '视频/工具/规则执行表.json', '视频/工具/钩子/闸门.py', '.claude/settings.json', '.github/workflows/drill.yml', '视频/工具/草稿声音.sh'):
             if not 角色问题('出稿', [p], no): f.append(f'没抓到：出稿会话提交改门程序 {p}')
@@ -143,6 +189,23 @@ def 自检():
         if 角色问题('改门', ['视频/工具/踩坑核查.py'], no): f.append('误拦：改门会话改门程序')
         if 角色问题('改稿', ['视频/工具/踩坑核查.py'], lambda p: True): f.append('误拦：合并进来的别人的改动（和远端相同）')
         if not 角色问题('改稿', ['视频/工具/踩坑核查.py'], no): f.append('没抓到：改稿会话改门程序')
+        try: 环境检查({'不存在的包_m门': 'x-not-exist'}, 装=lambda *a: None); f.append('没抓到：缺包装不上照样开工（M）')
+        except SystemExit as e:
+            if '自动装不上' not in str(e) or '不存在的包_m门' not in str(e): f.append(f'缺包停错了地方或没说缺什么（M）：{e}')
+        装过 = []
+        try: 环境检查({'不存在的包_m门': 'x'}, 装=lambda *a: 装过.append(1))
+        except SystemExit: pass
+        if not 装过: f.append('没抓到：缺包没先自动装（M）')
+        try: 环境检查({'json': 'x'}, ff取=lambda: '/不存在/ffmpeg'); f.append('没抓到：ffmpeg 不在照样开工（M）')
+        except SystemExit as e:
+            if '缺 ffmpeg' not in str(e): f.append(f'ffmpeg 缺停错了地方（M）：{e}')
+        try: 环境检查({'json': 'x'}, 装=lambda *a: f.append('误装：包都齐还去装（M）'))
+        except SystemExit as e: f.append(f'误停：包都齐（M）：{e}')
+        import inspect
+        _src = ''.join(l.split('#')[0] for l in inspect.getsource(开工).splitlines())
+        if '打印三大主义()' not in _src or _src.find('打印三大主义()') > min(_src.find(x) for x in ('环境检查()', '打印总纲()', '用上核查.py')): f.append('没抓到：开工第一屏不是三大主义（O）')
+        if [x[:4] for x in 三大主义] != ['① 执行', '② 丝滑', '③ 虹吸']: f.append('三大主义顺序不对或少了（O）')
+        if '环境检查()' not in ''.join(l.split('#')[0] for l in inspect.getsource(开工).splitlines()): f.append('没抓到：开工不先跑环境自检（M）')
         try: 开工('改门', 'x', ''); f.append('没抓到：改门会话没写 --任务')
         except SystemExit: pass
     finally:
@@ -154,12 +217,12 @@ if __name__ == '__main__':
     a = sys.argv[1:]
     opt = lambda k: a[a.index(k) + 1] if k in a and a.index(k) + 1 < len(a) else ''
     if '--自检' in a:
-        e = 自检(); print('\n'.join(e) or '会话开工 自检通过（没开工、开工必读旧了、出稿/改稿提交改门程序：造的全部拦下；本篇文件、改门会话、合并进来的改动放行）'); sys.exit(1 if e else 0)
+        e = 自检(); print('\n'.join(e) or '会话开工 自检通过（没开工、开工必读旧了、出稿/改稿提交改门程序、环境缺包装不上（M）：造的全部拦下；本篇文件、改门会话、合并进来的改动放行）'); sys.exit(1 if e else 0)
     if '--提交前' in a: sys.exit(提交前())
     if '--查' in a:
         e = 查开工(); [print(x) for x in e]; sys.exit(1 if e else 0)
     if '--重读' in a: 重读(); sys.exit(0)
-    if '--总纲' in a: 打印总纲(); sys.exit(0)
+    if '--总纲' in a: 打印三大主义(); 打印总纲(); sys.exit(0)
     if '--状态' in a:
         r = 读记录(); e = 查开工(r)
         print('【会话开工】' + (f'角色 {r["角色"]}，开工必读 {"已读现行版" if not e else "更新了，要 --重读"}' if r else '还没开工：第一件事 python3 视频/工具/会话开工.py <出稿|改稿|改门|主会话>（没开工不能提交）'))

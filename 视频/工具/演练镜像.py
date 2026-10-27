@@ -95,6 +95,8 @@ def _工具副本(files):
         for x in fn:
             k = os.path.relpath(f'{dp}/{x}', P)
             if k not in out: out[k] = 读样(k, True) if k.startswith('视频/工具/') and os.path.isfile(样(k)) else open(f'{dp}/{x}', 'rb').read()
+    for k in ('视频/制作记录/门变异清单.md', '视频/制作记录/主会话交接.md'):   # 主会话交接 也是现行做法文档（K53 淘汰扫描读它）   # G79：机制文件不是样本，放在冻结的 制作记录 里也用现行的（否则演练里永远“还没有门变异清单”）
+        if k not in out and os.path.isfile(f'{P}/{k}'): out[k] = open(f'{P}/{k}', 'rb').read()
     for x in ('fonts', '历史版本', '演练样本'): out.setdefault(f'视频/工具/{x}', ('链接', f'{T}/{x}'))
     return out
 
@@ -123,7 +125,7 @@ def 缓存快照(ds=None): return {d: set(os.listdir(d)) for d in (缓存目录(
 def 新缓存(s0): return [f'{d}/{x}' for d, names in s0.items() for x in sorted(set(os.listdir(d)) - names)]
 def 清新缓存(s0):
     for p in 新缓存(s0):
-        if p.endswith('.pkl') or os.path.basename(p).startswith('调平_'): os.remove(p)   # G53：调平缓存（G51）也要清，以前只清 .pkl，演练的调平缓存留在仓库、被推送进 git
+        if p.endswith(('.pkl', '.pkl.单线程')) or os.path.basename(p).startswith('调平_'): os.remove(p)   # G72：单线程新条目的 .单线程 标记也清（2026-10-26 声音演练留下 7 个，真仓库被碰）   # G53：调平缓存（G51）也要清，以前只清 .pkl，演练的调平缓存留在仓库、被推送进 git
     return 新缓存(s0)
 
 
@@ -161,9 +163,10 @@ def 自检():
     c = tempfile.mkdtemp(prefix='演练缓存自检_')   # G29：两处缓存目录拍快照，演练新出的删掉、原有的留着；漏清必须报出
     try:
         a, b = f'{c}/literate', f'{c}/pv'; os.makedirs(a); os.makedirs(b); open(f'{a}/旧.pkl', 'w').write('x'); open(f'{b}/旧.pkl', 'w').write('x')
-        s0 = 缓存快照([a, b]); open(f'{b}/演练新.pkl', 'w').write('y'); open(f'{b}/调平_演练新.json', 'w').write('{}')
+        s0 = 缓存快照([a, b]); open(f'{b}/演练新.pkl', 'w').write('y'); open(f'{b}/调平_演练新.json', 'w').write('{}'); open(f'{b}/演练新.pkl.单线程', 'w').write('h')
         if not 新缓存(s0): f.append('没抓到：演练在另一个仓库留下的配音缓存（G29）')
         if 清新缓存(s0) or os.path.exists(f'{b}/演练新.pkl'): f.append('没清掉：演练在另一个仓库留下的配音缓存（G29）')
+        if os.path.exists(f'{b}/演练新.pkl.单线程'): f.append('没清掉：演练留下的 .单线程 标记（G72：标记留在真仓库，“真仓库没被碰”报错）')
         if os.path.exists(f'{b}/调平_演练新.json'): f.append('没清掉：演练留下的调平缓存（G53：以前只清 .pkl，演练的调平缓存被推送进 git）')
         if not (os.path.exists(f'{a}/旧.pkl') and os.path.exists(f'{b}/旧.pkl')): f.append('误删：演练前就有的配音缓存（G29）')
         m = re.search(r"^_REPO_CACHE='([^']+)'", open(f'{T}/make_video.py').read(), re.M)

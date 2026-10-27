@@ -3,6 +3,7 @@
 # → 提交 → 推送两边 → 用 git 记录的文件指纹比对两边 视频/ 逐文件一致（不再逐个读大视频，几秒完成）。
 # 用法：bash 视频/工具/推送两仓库.sh "提交说明"
 set -e
+trap 'rc=$?; [ $rc -ne 0 ] && [ -f "${PUSH_P:-/home/user/postgraduate-vocabulary}/视频/工具/丝滑.py" ] && python3 "${PUSH_P:-/home/user/postgraduate-vocabulary}/视频/工具/丝滑.py" 记 推送两仓库 - "推送两仓库.sh 停下（退出码 $rc）" 不丝滑 2>/dev/null; exit $rc' EXIT   # K 丝滑记录：推送停下都不是稿子的问题
 exec 9>${PUSH_LOCK:-/tmp/推送两仓库.lock}; flock 9   # 几篇同时做时排队推送（推送自检用自己的锁，否则在推送里跑自检会自己等自己）
 P=${PUSH_P:-/home/user/postgraduate-vocabulary}; L=${PUSH_L:-/home/user/literate-enigma}; B=${PUSH_B:-claude/adoring-hamilton-5qskmm}   # PUSH_* 只给 推送自检.py 在假仓库里测用
 T=$'\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01XbsiuYS9p9y2vNiB4h6ZZU'
@@ -36,9 +37,13 @@ for n in nn: 白 += [f'视频/视频/{n}.mp4', f'视频/视频/草稿1080p/{n}_*
                     f'视频/制作记录/{n}.md', f'视频/制作记录/{n}_*', f'视频/制作记录/逐句确认/{n}.json', f'视频/制作记录/证据/{n}*',
                     f'视频/脚本/已发版本/{n}.json', f'视频/音频核对/*_{n}.txt', f'视频/音频核对/*_{n}_*.txt']
 ok = lambda f: any(fnmatch.fnmatchcase(f, w) for w in 白)
-for f in g(L, 'ls-files', '--', '视频/云端/请求/').splitlines():   # K24：会话直接放在镜像里的请求只增不删：拷回主仓库（之后两边一致，主仓库推过去不算“新加”、不会重跑）
+for f in g(L, 'ls-files', '--', '视频/云端/请求/', '视频/云端/待演练/', '视频/云端/结果/').splitlines():   # K45：待演练补丁、本地结果同样只增不删（2026-10-27 镜像同步抹掉了只在镜像的交接补丁）；K24：会话直接放在镜像里的请求只增不删：拷回主仓库（之后两边一致，主仓库推过去不算“新加”、不会重跑）
     if f and not os.path.exists(f'{P}/{f}'): os.makedirs(os.path.dirname(f'{P}/{f}'), exist_ok=True); shutil.copy2(f'{L}/{f}', f'{P}/{f}'); g(P, 'add', '--', f); print(f'回写请求（K24）：{f}')
-fs = {f for f in g(L, 'log', '-300', '--author=' + re.escape(BOT), '--name-only', '--format=').splitlines() if f}
+_浅 = set(open(f'{L}/.git/shallow').read().split()) if os.path.exists(f'{L}/.git/shallow') else set()   # K47：浅克隆的边界提交没有父提交，git log 把它当成“新加了全部文件”，误报白名单外
+fs, _cur = set(), ''
+for x in g(L, 'log', '-300', '--author=' + re.escape(BOT), '--name-only', '--format=@%H').splitlines():
+    if x.startswith('@'): _cur = x[1:]
+    elif x and _cur not in _浅: fs.add(x)
 bad, n_ = [], 0
 for f in sorted(fs):
     la = g(L, 'log', '-1', '--format=%an %ct', '--', f).rsplit(' ', 1); pt = int(g(P, 'log', '-1', '--format=%ct', '--', f).strip() or 0)
@@ -63,7 +68,7 @@ import sys,shutil,os
 P,L,TP,TL=sys.argv[1:5]
 p=dict(l.rstrip('\n').split('\t')[::-1] for l in open(TP)); q=dict(l.rstrip('\n').split('\t')[::-1] for l in open(TL))
 for f,h in p.items():
-    if q.get(f)!=h: os.makedirs(os.path.dirname(f'{L}/{f}'),exist_ok=True); shutil.copy2(f'{P}/{f}',f'{L}/{f}')
+    if q.get(f)!=h: os.makedirs(os.path.dirname(f'{L}/{f}'),exist_ok=True); shutil.copy(f'{P}/{f}',f'{L}/{f}')   # K48：不用 copy2，保留修改时刻、大小又一样时 git 按缓存当没改，镜像漏提交
 for f in q:
     if f not in p and os.path.exists(f'{L}/{f}'): os.remove(f'{L}/{f}')
 PY2

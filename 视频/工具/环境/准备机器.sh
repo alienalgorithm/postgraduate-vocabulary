@@ -7,7 +7,7 @@ pip install -q -r $V/工具/环境/requirements.txt 2>/dev/null || pip install -
 if [ ! -e /home/user/postgraduate-vocabulary ]; then sudo mkdir -p /home/user && sudo ln -s $R /home/user/postgraduate-vocabulary; fi
 python3 $V/工具/出片指纹.py --拷 $B/video ; cp $V/工具/clean.py $B/tts/ ;   # G27：出片程序清单从 make_video 的 import 自动找全（手写清单漏过 对正量.py）
  cp -r $V/工具/fonts $B/video/fonts ; cp $V/脚本/*.json $B/video/scripts/
-cp $V/工具/配音/* $B/tts/ ; mkdir -p $B/tts/cache_tts ; cp $V/配音缓存/*.pkl $V/配音缓存/调平_*.json $B/tts/cache_tts/ 2>/dev/null || true   # G51 调平缓存一起拷
+cp $V/工具/配音/* $B/tts/ ; mkdir -p $B/tts/cache_tts ; cp $V/配音缓存/*.pkl $V/配音缓存/调平_*.json $B/tts/cache_tts/ 2>/dev/null || true; cp $V/配音缓存/*.单线程 $B/tts/cache_tts/ 2>/dev/null || true   # 新条目的 .单线程 标记一起拷（G72）   # G51 调平缓存一起拷
 # 模型全部来自 kokoro-onnx 官方发布页，按地址下载、按校验码核对：出片模型 = model-files-v1.0 的 kokoro-v1.0.onnx；
 # 带时长模型 kokoro-v1.0-timed.onnx = model-files-v1.1 的 kokoro-v1.0.onnx 改名（2026-10-17 重新下载，与本地那份逐字节相同）
 G=https://github.com/thewh1teagle/kokoro-onnx/releases/download
@@ -36,4 +36,14 @@ for f in fs:
 if bad and all(hs[a]==j[b].split(':')[1] for a,b in (fs,fs[::-1])): print('✘ 是校验码表里 encoder、decoder 两项写反了（2026-10-25 出过一次），改 模型校验码.json')
 sys.exit(bad)
 PY3
+# 2026-10-26 机器复听第二路 parakeet（NeMo TDT 0.6B int8，任一路报就报；改门_音频上GitHub.md 第二阶段 2），同样 GitHub release 下载、核对校验码
+P=~/asr/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8; [ -f $P/encoder.int8.onnx ] || { mkdir -p ~/asr; curl -sSL --retry 3 https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8.tar.bz2 | tar xj -C ~/asr; }
+python3 - "$P" "$V/工具/环境/模型校验码.json" <<'PY4'
+import sys,json,hashlib,os
+d,j=sys.argv[1],json.load(open(sys.argv[2])); bad=0
+for f in ('encoder.int8.onnx','decoder.int8.onnx','joiner.int8.onnx','tokens.txt'):
+    h=hashlib.sha256(open(os.path.join(d,f),'rb').read()).hexdigest()[:16]; want=j['parakeet/'+f].split(':')[1]
+    print('parakeet/'+f, h, '✔ 识别模型对' if h==want else '✘ 识别模型不对'); bad|=(h!=want)
+sys.exit(bad)
+PY4
 echo "机器准备好了：$B/video"

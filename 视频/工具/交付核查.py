@@ -30,6 +30,7 @@ if stage == '对照表':
     open(rec, 'w').write(txt.rstrip('\n') + '\n' + '\n'.join(tab) + '\n'); print(f'已生成 制作记录/{no}.md 的踩坑对照记录模板（{len(rows)} 条），逐条填完才能通过出片前核查'); sys.exit(0)
 elif stage == '出片前':
     c, o = run(['python3', f'{T}/规则执行核查.py']); step('规则执行核查（守则16：每条规矩都有门、接进流程、有自检，机器自检通过）', c == 0, '' if c == 0 else o.strip()[-600:])
+    c, o = run(['python3', f'{T}/用上核查.py', '--严']); step('用上核查（G83：每个程序、工作流、管执行的机制都用上，门变异按时跑、机制不闲置）', c == 0, '' if c == 0 else o.strip()[-600:])
     # 0 踩坑核查（最高铁律）：核查程序自检 + 踩坑对照记录逐条填完 + 能用程序查的坑逐条查 + 换行与用户看过的版本比对（L13）
     c, o = run(['python3', f'{T}/踩坑核查.py', no, '出片'])
     step('踩坑核查（核查程序自检、踩坑对照记录、逐条程序核查、换行比对）', c == 0, '' if c == 0 else '\n    '.join(o.strip().splitlines()))
@@ -296,5 +297,7 @@ elif stage == '出片后':
 if ok and stage == '出片后':   # 发文件闸门凭这个回执放行（守则7/A25：只发过了核查的那个文件）
     sys.path.insert(0, f'{T}/钩子'); import 闸门; 闸门.记回执([f'{no}.mp4', f'标点试听_{no}.mp3'], f'交付核查 出片后 第{no}篇')
 if ok and stage in ('出片前', '出片后'): _ZJ.记(no, stage)   # G60：这一步的使用证据（只有正式入口写得出对得上的指纹）
+if not ok:   # K 丝滑记录：没通过的步骤记下来，程序/环境的毛病算不丝滑
+    sys.path.insert(0, T); import 丝滑 as _SH; _SH.记('交付核查', no, '；'.join(x.split('\n')[0] for x in out if x.startswith('✘')))
 print(f'第{no}篇 {stage}核查：\n' + '\n'.join(out) + f"\n{'全部通过' if ok else '【不通过，不得交付】'}")
 sys.exit(0 if ok else 1)
