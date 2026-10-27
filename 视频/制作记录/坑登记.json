@@ -346,7 +346,8 @@
    "号": "K49",
    "时刻": "2026-10-27T09:56Z",
    "会话": "（没写会话：报坑时加 --会话 session_…）",
-   "现象": "镜像 literate-enigma 里提交改门程序（.github/workflows/drill.yml）被 pre-commit 拒：报坑.py --自检 的 K23 样本把自检仓库 origin 设成 P（镜像里 P=/home/user/literate-enigma），镜像仓库() 按“URL 结尾 literate-enigma”先停成 K29，自检报“停的理由不对”；镜像里改门提交一直过不了"
+   "现象": "镜像 literate-enigma 里提交改门程序（.github/workflows/drill.yml）被 pre-commit 拒：报坑.py --自检 的 K23 样本把自检仓库 origin 设成 P（镜像里 P=/home/user/literate-enigma），镜像仓库() 按“URL 结尾 literate-enigma”先停成 K29，自检报“停的理由不对”；镜像里改门提交一直过不了",
+   "入表编号": "G96"
   },
   {
    "号": "K50",
@@ -617,6 +618,12 @@
   },
   {
    "编号": "G95",
+   "会话": "（没写会话：报坑时加 --会话 session_…）",
+   "时刻": "2026-10-27T10:14Z",
+   "用途": ""
+  },
+  {
+   "编号": "G96",
    "会话": "（没写会话：报坑时加 --会话 session_…）",
    "时刻": "2026-10-27T10:14Z",
    "用途": ""
