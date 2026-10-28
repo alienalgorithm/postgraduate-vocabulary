@@ -16,7 +16,7 @@ S=[
      "（despite doing…：尽管……，despite 是介词，后面接动名词）"]]),
 (2,[[[("In an","在一次"),("**exhaustive** search,","**彻底的**(exhaustive)搜寻中，"),("her team","她的团队"),("**combed**","**仔细翻检了**(combed)"),("over 2,000","2,000多个"),("**folk** recipes,","**民间**(folk)药方，")],
      "（comb：梳理，这里指仔细翻检；over 2,000：2,000多个）"],
-    [[("**compiled**","**编纂/汇编了**(compiled)"),("640 **prescriptions**,","640个**处方/药方**(prescriptions)，"),("and **evaluated**","并**评估了**(evaluated)"),("about 380 extracts","约380种提取物，"),("from","它们来自"),("some 200","200种左右的"),("**medicinal**","**药用的**(medicinal)"),("**herbs**.","**草药**(herbs)。")],
+    [[("**compiled**","**编纂/汇编了**(compiled)"),("640 **prescriptions**,","640个**处方/药方**(prescriptions)，"),("and **evaluated**","并**评估了**(evaluated)"),("about 380 **extracts**","约380种**提取物**(extracts)，"),("from","它们来自"),("some 200","200种左右的"),("**medicinal**","**药用的**(medicinal)"),("**herbs**.","**草药**(herbs)。")],
      "（some 200：大约200，some 表示“大约”）"]]),
 (2,[[[("Qinghao,","青蒿，"),("or **sweet wormwood**,","也就是**黄花蒿**(sweet wormwood)，"),("showed","展现出"),("**flashes** of **promise**,","几丝**成功迹象**(promise)的**闪光/闪现**(flashes)，"),("yet","然而"),("its results","它的效果"),("were **erratic**.","却**并不稳定/时好时坏的**(erratic)。")],
      "（or：也就是，引出同一种植物的另一个名称；\nshow flashes of promise：不时显出希望）"]]),
@@ -30,7 +30,7 @@ S=[
      "（This 指上面用水浸泡青蒿的做法；\nbypass：绕过，避开）"]]),
 (3,[[[("Tu","屠呦呦"),("suspected","怀疑，"),("heat during **extraction**","**提取**(extraction)过程中的高温"),("was **degrading**","正在**降解/分解**(degrading)"),("a","某种"),("**delicate**","**脆弱的**(delicate)"),("**component**,","**成分**(component)，")],
      "（suspected 后面省略了 that，引出宾语从句；\ndelicate：这里指不耐热、容易被破坏的）"],
-    [[("so","于是"),("she","她"),("switched to","改用了"),("**ether**,","**乙醚**(ether)，")],
+    [[("so","于是"),("she","她"),("**switched to**","**改用/换成了**(switched to)"),("**ether**,","**乙醚**(ether)，")],
      "（switch to…：改用……，换成……）"],
     [[("a","一种"),("**volatile**","**易挥发的**(volatile)"),("**solvent**","**溶剂**(solvent)，"),("boiling at","沸点为"),("about 35","约35"),("**degrees Celsius**.","**摄氏度**(degrees Celsius)。")],
      "（a volatile solvent…：同位语，补充说明 ether；\nboiling at…：现在分词短语作后置定语，在……时沸腾）"]]),
@@ -45,25 +45,18 @@ S=[
     [[("and","而"),("on 8 November","在11月8日，"),("her team","她的团队"),("**obtained**","**得到了**(obtained)"),("pure **crystals** of the **substance**","这种**物质**(substance)的纯净**晶体**(crystals)，"),("later","它后来"),("named","被命名为"),("artemisinin.","青蒿素。")],
      "（later named artemisinin：过去分词短语作后置定语，\n修饰 the substance）"]]),
 (5,[[[("In September 2011","2011年9月，"),("Tu","屠呦呦"),("was named","被评为"),("a Lasker Award","拉斯克奖"),("**recipient**;","**得主**(recipient)；")],
-     "（be named…：被评为……；\nLasker Award：拉斯克奖，美国重要的医学奖项）"],
-    [[("its **jury**","该奖的**评审团**(jury)"),("credited","称，"),("the drug","这种药"),("with saving","挽救了"),("millions.","数百万人。")],
-     "（credit A with B：认为 B 是 A 的功劳）"]]),
+     "（recipient 就是“接受者 / 接收者”（在奖项里特指“得主”）。\n奖项/荣誉场景：award recipient = 获奖者 / 得主\n物品/信息场景：email recipient = 邮件收件人；\nwelfare recipient = 福利领取者）"],
+    [[("its **jury**","该奖的**评审团**(jury)"),("credited the drug with saving millions.","将挽救了数百万人的功劳归功于这种药物。")],
+     "（credit A with B：把 B 的功劳归于 A（或：认为 B 是 A 的成就））"]]),
 (5,[[[("On 5 October 2015","2015年10月5日，"),("she","她"),("won","获得了"),("half","一半的"),("the Nobel Prize in","诺贝尔"),("**Physiology**","**生理学**(Physiology)"),("or Medicine,","或医学奖，")],
      "（won half the Nobel Prize：获得了诺贝尔奖的一半，\n另一半由另外两位学者分享）"],
     [[("the first","成为第一位"),("Chinese woman","中国女性"),("Nobel **laureate**.","诺贝尔奖**获得者**(laureate)。")],
      "（the first Chinese woman Nobel laureate：同位语，补充说明 she）"]]),
-(5,[[[("Since 2006","自2006年起，"),("WHO **guidelines**","世界卫生组织的**指南**(guidelines)"),("have **endorsed**","一直**推荐**(endorsed)"),("artemisinin-based","以青蒿素为基础的"),("**combination**","**联合**(combination)"),("**therapies**","**疗法**(therapies)，"),("against","用来对付"),("malaria's","疟疾中"),("**deadliest** form.","**最致命的**(deadliest)一种。")],
+(5,[[[("Since 2006","自2006年起，"),("WHO **guidelines**","世界卫生组织的**指南**(guidelines)"),("have **endorsed**","一直**公开支持/赞同**(endorsed)"),("artemisinin-based","以青蒿素为基础的"),("**combination**","**联合**(combination)"),("**therapies**","**疗法**(therapies)，"),("against","用来对付"),("malaria's","疟疾中"),("**deadliest** form.","**最致命的**(deadliest)一种。")],
      "（WHO：世界卫生组织；artemisinin-based：以青蒿素为基础的；\nhave endorsed：现在完成时，表示从2006年一直到现在）"]]),
 (5,[[[("The **essence** of Ge Hong's line","葛洪那句话的**精髓**(essence)，"),("lay in","正在于"),("the boiling it **skipped**.","它**略去**(skipped)的煮沸。")],
      "（lie in…：在于……，lay 是 lie 的过去式；\nit skipped：定语从句，\n修饰 the boiling，省略了 that）\n"
-     "（简述：523项目是一项秘密军事任务，\n1967年5月23日启动，\n目标是越战中对氯喹产生耐药性的疟疾。\n"
-     "1969年1月，屠呦呦受命领导研究组。\n团队翻检了2,000多个民间药方，\n评估了约380种提取物，\n"
-     "青蒿的效果却时好时坏。屠呦呦重新翻阅古典文献，\n看到葛洪的手册只用水浸泡青蒿，绕开了煮沸，\n"
-     "便怀疑高温破坏了某种不耐热的成分，\n改用沸点约35摄氏度的乙醚。\n"
-     "1971年10月4日，\n第191号样品完全抑制了小鼠体内的疟原虫。\n"
-     "1972年她和两名同事自愿试服，\n随后在海南用于治疗21名病人，\n11月得到纯净晶体，后来命名为青蒿素。\n"
-     "她先后获得拉斯克奖和一半的诺贝尔奖，\n成为第一位获得诺贝尔奖的中国女性；\n"
-     "世界卫生组织也推荐以青蒿素为基础的联合疗法。\n关键正在于葛洪那句话略去的煮沸。）"]]),
+     "（简述：523项目是一项秘密军事任务，1967年5月23日启动，目标是越战中对氯喹产生耐药性的疟疾。\n1969年1月，屠呦呦受命领导研究组。团队翻检了2,000多个民间药方，\n评估了约380种提取物，青蒿的效果却时好时坏。屠呦呦重新翻阅古典文献，\n看到葛洪的手册只用水浸泡青蒿，绕开了煮沸，便怀疑高温破坏了某种不耐热的成分，\n改用沸点约35摄氏度的乙醚。1971年10月4日，第191号样品完全抑制了小鼠体内的疟原虫。\n1972年她和两名同事自愿试服，随后在海南用于治疗21名病人，11月得到纯净晶体，\n后来命名为青蒿素。她先后获得拉斯克奖和一半的诺贝尔奖，成为第一位获得诺贝尔奖的中国女性；\n世界卫生组织也推荐以青蒿素为基础的联合疗法。关键正在于葛洪那句话略去的煮沸。）"]]),
 ]
 CONF={
 "牛津逗号":{"S3 her institute's research group, despite having no doctorate or":"不是三项并列：despite 引出让步状语，后面 no doctorate or foreign training 只有两项",
@@ -86,6 +79,7 @@ CONF={
  "S10 the parasite in infected mice.":"对齐不了：in infected mice 是后置定语修饰 the parasite，中文“受感染小鼠体内的疟原虫”定语必须提前",
  "S11 Efficacy in mice":"对齐不了：in mice 修饰 efficacy，中文“在小鼠身上有药效”介词短语必须提前",
  "S13 pure crystals of the substance":"对齐不了：the crystals of A 中文“A 的晶体”，of 结构语序必须倒过来",
+ "S14 credited the drug with saving millions":"对齐不了：credit A with B 中文“将 B 的功劳归功于 A”（用户 2026-10-28 定），B（挽救数百万人）要提到前面、A（这种药）放最后，拆开语序就乱",
  "S17 The essence of Ge Hong's line":"对齐不了：the essence of A 中文“A 的精髓”，of 结构语序必须倒过来",
  "S17 the boiling it skipped.":"对齐不了：it skipped 是定语从句修饰 the boiling，中文“它略去的煮沸”定语必须提前",
  "S7 \"a handful of qinghao":"对齐不了：qinghao 被后面的过去分词短语 immersed in two litres of water 修饰，中文“一把浸泡在两升水中的青蒿”里“青蒿”必须放到定语后面（用户 2026-10-28 定的译文）",
@@ -96,6 +90,7 @@ CONF={
  "S10-1 the parasite in infected mice.":"in infected mice 是后置定语修饰 the parasite，中文“受感染小鼠体内的疟原虫”定语提前，语序必须倒过来；parasite、infected 两个重点词因此同在一组（T34 倒装）",
  "S11-1 Efficacy in mice":"in mice 修饰 efficacy，中文“在小鼠身上有药效”介词短语提前，语序必须倒过来",
  "S13-2 pure crystals of the substance":"the crystals of A 中文“A 的晶体”，of 结构语序必须倒过来；crystals、substance 两个重点词因此同在一组（T34 倒装）",
+ "S14-2 credited the drug with saving ":"credit A with B 中文“将 B 的功劳归功于 A”，B 提前、A 放最后，语序必须倒过来（用户 2026-10-28 定的译文）",
  "S17-1 The essence of Ge Hong's line":"the essence of A 中文“A 的精髓”，of 结构语序必须倒过来",
  "S5-1 flashes of promise,":"show flashes of promise 中文“展现出几丝成功迹象的闪光/闪现”（用户 2026-10-28 定），of 结构语序必须倒过来；flashes、promise 两个重点词因此同在一组（T34 倒装）",
  "S7-2 two litres of water\".":"后置定语 immersed in two litres of water 修饰 qinghao，中文“浸泡在两升水中的青蒿”定语提前，qinghao 的中文“青蒿”放在这一组最后（用户 2026-10-28 定的译文）",
