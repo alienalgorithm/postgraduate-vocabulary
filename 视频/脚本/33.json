@@ -353,16 +353,16 @@
    "para": 3,
    "chunks": [
     {
-     "en": "The only **exit** ran through **kilometres** of **constricted**, **treacherous** **passages**,",
-     "zh": "唯一的**出口**(exit)要穿过数**公里**(kilometres)**狭窄**(constricted)而**凶险的**(treacherous)**通道**(passages)，",
+     "en": "The only **exit** **ran through** **kilometres** of **constricted**, **treacherous** **passages**,",
+     "zh": "唯一的**出口**(exit)要**穿过**(ran through)数**公里**(kilometres)**狭窄**(constricted)而**暗藏危险的**(treacherous)**通道**(passages)，",
      "align": [
       [
        "The only **exit**",
        "唯一的**出口**(exit)"
       ],
       [
-       "ran through",
-       "要穿过"
+       "**ran through**",
+       "要**穿过**(ran through)"
       ],
       [
        "**kilometres** of",
@@ -374,7 +374,7 @@
       ],
       [
        "**treacherous**",
-       "**凶险的**(treacherous)"
+       "**暗藏危险的**(treacherous)"
       ],
       [
        "**passages**,",
@@ -1012,6 +1012,9 @@
     "配音指纹": "fc0c3231837f",
     "依据": "2026-10-29 33 实测：went 的 /w/ 在 S1 w 7.92 起是低频浊音起始（-41 dB），w 7.95 升到 -29 dB、7.96 -19 dB（开口），对应 a.wav 10.385s；高亮 10.37s 只差 0.015 s。甲 10.18s 是带时长模型的时刻，没算前面 squad 和 went 之间删掉的 0.29 s 吸气（复核 shift -120 ms），不对"
    }
+  },
+  "中文重复": {
+   "穿过": "用户 2026-10-29 原话：S7 ran through “这个也要成为重点词汇  意思对应 穿过”；S5 threading through 也是用户要求整体标重点、中文“穿过”（待改清单 9、15）。两处都是用户定的译法，保留"
   }
  },
  "结尾解说": "简述",
