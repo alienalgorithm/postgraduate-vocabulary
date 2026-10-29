@@ -13,7 +13,7 @@ S=[
     [[("after","名字取自"),("the Roman **deity** of the **underworld**.","罗马神话中的**冥界**(underworld)**神灵**(deity)。")],
      "（after…：以……命名；\nthe Roman deity of the underworld：罗马神话中的冥界之神）"]]),
 (1,[[[("For 76 years","此后76年里，"),("Pluto","冥王星"),("held","一直占据"),("the ninth **slot** on the **planetary** **roster**.","**行星**(planetary)**名单**(roster)上的第九个**位置**(slot)。")],
-     "（hold the ninth slot：占据第九个位置；\non the planetary roster：介词短语作后置定语，修饰 slot）"]]),
+     "（hold the ninth slot：占据第九个位置；\nslot：指名单、序列或时间表上的“位置、名额”；\non the planetary roster：介词短语作后置定语，修饰 slot）"]]),
 (2,[[[("In January 2005,","2005年1月，"),("astronomers","天文学家"),("found","发现了"),("a **far-off** body,","一个**遥远的**(far-off)天体，")],
      "（body：天体）"],
     [[("later","它后来"),("named Eris,","被命名为厄里斯，"),("at first thought","起初看上去"),("larger than Pluto.","比冥王星还大。")],
