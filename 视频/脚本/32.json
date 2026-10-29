@@ -771,8 +771,8 @@
    "para": 5,
    "chunks": [
     {
-     "en": "The **discoverer**'s ashes swept past the heart that bears his name.",
-     "zh": "这位**发现者**(discoverer)的骨灰掠过了那颗以他命名的心。",
+     "en": "The **discoverer**'s ashes **swept past** the heart that bears his name.",
+     "zh": "这位**发现者**(discoverer)的骨灰**掠过了**(swept past)那颗以他命名的心。",
      "align": [
       [
        "The **discoverer**'s",
@@ -783,12 +783,8 @@
        "骨灰"
       ],
       [
-       "swept",
-       "掠"
-      ],
-      [
-       "past",
-       "过了"
+       "**swept past**",
+       "**掠过了**(swept past)"
       ],
       [
        "the heart that bears his name.",
@@ -1010,6 +1006,9 @@
  "allow_clash": [
   "dot"
  ],
+ "换行变更已获同意": {
+  "S17": "用户原话“sweep past  作为重点词汇  掠过了....”（swept、past 并成一组整体标重点，换行随之变化）"
+ },
  "高亮按实际开口": true,
  "高亮开口门槛": 40,
  "术语": {
