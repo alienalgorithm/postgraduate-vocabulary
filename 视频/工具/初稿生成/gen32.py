@@ -22,7 +22,7 @@ S=[
      "（call A B：称 A 为 B；\nNASA：美国国家航空航天局）"]]),
 (2,[[[("The **contender**","这个**竞争者**(contender)"),("posed","造成了"),("an **awkward**","一个**尴尬的**(awkward)"),("**dilemma**.","**两难困境**(dilemma)。")],
      "（pose：造成，引发（问题、困难）；\ncontender 指 Eris；\ndilemma：指陷入“进退维谷”的境地，\n无论选择哪一方，都必须承受相应的损失或代价）"]]),
-(2,[[[("The term \"planet\"","“行星”一词"),("had **hitherto**","**此前**(hitherto)一直"),("been used **loosely**,","用得很**宽泛**(loosely)，")],
+(2,[[[("The term \"planet\"","“行星”一词"),("had **hitherto**","**此前**(hitherto)一直被"),("been used **loosely**,","用得很**不严谨/宽泛**(loosely)，")],
      "（had been used：过去完成时的被动语态；\nhitherto：迄今，此前）"],
     [[("and with","而且"),("more **icy** worlds","更多**冰冷的**(icy)天体"),("likely","很可能"),("to be found,","还会被发现，")],
      "（with + 名词 + 不定式：with 复合结构，作原因状语）"],
