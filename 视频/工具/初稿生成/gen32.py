@@ -46,7 +46,7 @@ S=[
      "（draw criticism：招致批评；\n冒号后面说明受批评的原因）"],
     [[("only 424 of some 10,000 members","约1万名成员中仅有424人"),("took part.","参加。")],
      "（424 of some 10,000 members：约1万名会员中的424人；\nsome：大约）"]]),
-(4,[[[("Hundreds of","数百名"),("**dissenting** astronomers","持**异议**(dissenting)的天文学家"),("signed","签署了"),("a **petition**.","一份**请愿书**(petition)。")],
+(4,[[[("Hundreds of","数百名"),("**dissenting** astronomers","**持异议的**(dissenting)天文学家"),("signed","签署了"),("a **petition**.","一份**请愿书**(petition)。")],
      "（dissenting：持异议的，持不同意见的）"]]),
 (4,[[[("The American Dialect Society","美国方言学会"),("made","把"),("\"plutoed\",","“plutoed”，"),("**playful**","这个**戏谑的**(playful)"),("**slang**","**俚语**(slang)，"),("for \"to **devalue**\",","意思是“**贬低**(devalue)”，"),("its word of 2006,","评为2006年度词汇，")],
      "（made A B：把 A 评为 B；\nplayful slang for \"to devalue\"：同位语，补充说明 plutoed）"],
