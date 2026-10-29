@@ -4,24 +4,24 @@ import json,re,glob,os
 S=[
 (1,[[[("On 18 February 1930,","1930年2月18日，"),("comparing **photographic** plates at the Lowell Observatory,","在洛厄尔天文台比对**照相**(photographic)底片时，")],
      "（comparing…：现在分词短语作时间状语；\nLowell Observatory：洛厄尔天文台）"],
-    [[("the **astronomer**","**天文学家**(astronomer)"),("Clyde Tombaugh","克莱德·汤博"),("**perceived**","**察觉**(perceived)到"),("a **dim** dot","一个**暗淡的**(dim)小点，")],
+    [[("the **astronomer**","**天文学家**(astronomer)"),("Clyde Tombaugh","克莱德·汤博"),("**perceived**","**察觉**(perceived)到"),("a **dim**","一个**暗淡的**(dim)"),("**dot**","**小点**(dot)，")],
      "（the astronomer Clyde Tombaugh：\nthe astronomer 和人名是同位关系）"],
     [[("that","它"),("shifted between them.","在底片之间移动过。")],
      "（that shifted between them：定语从句，修饰 a dim dot；\nthem 指 plates）"]]),
 (1,[[[("An eleven-year-old","一名11岁的"),("English girl","英国女孩"),("**put forward**","**提议了**(put forward)"),("the name,","它的名字，")],
      "（put forward：提出，提议）"],
-    [[("after","名字取自"),("the Roman **deity** of the **underworld**.","罗马神话中的**冥界**(underworld)**神祇**(deity)。")],
+    [[("after","名字取自"),("the Roman **deity** of the **underworld**.","罗马神话中的**冥界**(underworld)**神灵**(deity)。")],
      "（after…：以……命名；\nthe Roman deity of the underworld：罗马神话中的冥界之神）"]]),
 (1,[[[("For 76 years","此后76年里，"),("Pluto","冥王星"),("held","一直占据"),("the ninth **slot** on the **planetary** **roster**.","**行星**(planetary)**名单**(roster)上的第九个**位置**(slot)。")],
-     "（hold the ninth slot：占据第九个位置；\non the planetary roster：介词短语作后置定语，修饰 slot）"]]),
+     "（hold the ninth slot：占据第九个位置；\nslot：指名单、序列或时间表上的“位置、名额”；\non the planetary roster：介词短语作后置定语，修饰 slot）"]]),
 (2,[[[("In January 2005,","2005年1月，"),("astronomers","天文学家"),("found","发现了"),("a **far-off** body,","一个**遥远的**(far-off)天体，")],
      "（body：天体）"],
-    [[("later","它后来"),("named Eris,","被命名为厄里斯，"),("at first thought","起初看上去"),("larger than Pluto.","比冥王星还大。")],
+    [[("later","它后来"),("named Eris,","被命名为厄里斯，"),("at first thought","起初被认为"),("larger than Pluto.","比冥王星还要大。")],
      "（later named Eris、at first thought larger than Pluto：\n两个过去分词短语作后置定语，修饰 a far-off body）"]]),
-(2,[[[("NASA","美国航天局"),("briefly","一度"),("called it","称它为"),("the tenth","第十大"),("planet.","行星。")],
+(2,[[[("NASA","美国航天局"),("briefly","曾短暂地"),("called it","称它为"),("the tenth","第十大"),("planet.","行星。")],
      "（call A B：称 A 为 B；\nNASA：美国国家航空航天局）"]]),
-(2,[[[("The **contender**","这个**竞争者**(contender)"),("posed","带来了"),("an **awkward**","一个**棘手的**(awkward)"),("**dilemma**.","**难题**(dilemma)。")],
-     "（pose：造成（问题、困难）；\ncontender 指 Eris）"]]),
+(2,[[[("The **contender**","这个**竞争者**(contender)"),("posed","造成了"),("an **awkward**","一个**尴尬的**(awkward)"),("**dilemma**.","**两难困境**(dilemma)。")],
+     "（pose：造成，引发（问题、困难）；\ncontender 指 Eris；\ndilemma：指陷入“进退维谷”的境地，\n无论选择哪一方，都必须承受相应的损失或代价）"]]),
 (2,[[[("The term \"planet\"","“行星”一词"),("had **hitherto**","**此前**(hitherto)一直"),("been used **loosely**,","用得很**宽泛**(loosely)，")],
      "（had been used：过去完成时的被动语态；\nhitherto：迄今，此前）"],
     [[("and with","而且"),("more **icy** worlds","更多**冰冷的**(icy)天体"),("likely","很可能"),("to be found,","还会被发现，")],
@@ -69,7 +69,7 @@ S=[
      "（简述：1930年2月18日，汤博在洛厄尔天文台比对底片时发现了冥王星，\n"
      "名字由一名11岁的英国女孩提议，取自罗马神话中的冥界之神。\n"
      "此后76年里，它一直占据行星名单上的第九个位置。2005年1月发现的厄里斯\n"
-     "起初看上去比冥王星还大，“行星”需要一个精确的定义。2006年8月24日，\n"
+     "起初被认为比冥王星还要大，“行星”需要一个精确的定义。2006年8月24日，\n"
      "国际天文学联合会在布拉格投票，规定行星必须绕日运行、接近球形，并且清空轨道附近区域；\n"
      "冥王星被重新归类为矮行星，行星只剩八颗。表决有效，但约1万名会员中只有424人投票，\n"
      "正当性受到批评：数百名天文学家签署请愿书，“plutoed”成了2006年度词汇，\n"
@@ -79,7 +79,7 @@ S=[
 ]
 CONF={"合组":{
  "S1 comparing photographic plates at the Lowell Observatory":"对齐不了：at the Lowell Observatory 是地点状语，中文“在洛厄尔天文台比对照相底片时”地点必须放到动词前",
- "S2 the Roman deity of the underworld":"对齐不了：the deity of the underworld 是 of 结构，中文“冥界神祇”语序必须倒过来",
+ "S2 the Roman deity of the underworld":"对齐不了：the deity of the underworld 是 of 结构，中文“冥界神灵”语序必须倒过来",
  "S3 the ninth slot on the planetary roster":"对齐不了：on the planetary roster 是后置定语修饰 slot，中文“行星名单上的第九个位置”定语必须提前",
  "S11 only 424 of some 10,000 members":"对齐不了：424 of some 10,000 members 中文“约1万名会员中只有424人”，of 结构语序必须倒过来",
  "S1 shifted between them":"对齐不了：between them 是地点状语，中文“在底片之间移动过”地点必须放到动词前",
@@ -91,7 +91,7 @@ CONF["合组"].update({
  "S15 seven months before the vote":"对齐不了：seven months before the vote 中文“比那次表决早七个月”，时间量“七个月”必须放到后面"})
 CONF["对齐"]={
  K("S1-1","comparing photographic plates at the Lowell Observatory,"):"at the Lowell Observatory 是地点状语，中文“在洛厄尔天文台比对照相底片时”地点必须放到动词前",
- K("S2-2","the Roman deity of the underworld."):"the deity of the underworld 是 of 结构，中文“冥界神祇”语序必须倒过来",
+ K("S2-2","the Roman deity of the underworld."):"the deity of the underworld 是 of 结构，中文“冥界神灵”语序必须倒过来",
  K("S3-1","the ninth slot on the planetary roster."):"on the planetary roster 是后置定语修饰 slot，中文“行星名单上的第九个位置”定语必须提前",
  K("S8-3","the neighbourhood around its orbit."):"around its orbit 是后置定语修饰 neighbourhood，中文“其轨道附近的区域”定语必须提前",
  K("S11-2","only 424 of some 10,000 members"):"424 of some 10,000 members 中文“约1万名会员中只有424人”，of 结构语序必须倒过来",
@@ -101,7 +101,7 @@ CONF["对齐"]={
 CONF["数字写法"]={"S2-1 eleven":"文章定稿中文写“11岁”（史实 T2：11岁英国女孩），数值相同；中文年龄用阿拉伯数字"}
 CONF["数字"]={"S11-2 10,000":"some 10,000 中文按文章定稿写“约1万”，数值相同（10,000 = 1万）"}
 CONF["牛津逗号"]={"S13 its word of 2006, and New Mexico and":"不是三项并列：第一个 and 连接两个分句（方言学会评词、两州立法者通过决议），New Mexico and Illinois 只有两项"}
-CONF["短语"]={"S2 deity … of":"不是搭配：of the underworld 是后置定语，说明是哪里的神（冥界之神），deity 单独就是“神祇”",
+CONF["短语"]={"S2 deity … of":"不是搭配：of the underworld 是后置定语，说明是哪里的神（冥界之神），deity 单独就是“神灵”",
  "S8 convened … in":"不是搭配：in Prague 是地点状语，convene 单独就是“召开（大会）”",
  "S13 slang … for":"不是搭配：for 引出这个俚语所表示的意思，中文“意思是”对应 for，slang 单独就是“俚语”",
  "S13 devalue … of":"不是搭配：of 属于后面的 its word of 2006（2006年度词汇），和 devalue 无关",
@@ -116,7 +116,7 @@ out={"no":"32","title_en":"The Planet That Was Demoted","title_zh":"被降级的
      "合成标点":{"S4":[["body, later","body; later"]]},
      "非人声区间":{"S4":[[1.945042,2.2,"紧贴词尾"]],"S7":[[3.08,3.285708,"紧贴词头"]],"S8":[[2.809,3.095],[7.05,7.38,"紧贴词尾"],[7.385,7.42825,"紧贴词头"]],"S11":[[1.612,1.645292,"紧贴词头"]],
                   "S13":[[2.9155,3.075,"紧贴词尾"],[10.4535,10.615]],"S16":[[2.7285,3.02]]},
-     "高亮按实际开口":True,"高亮开口门槛":40,
+     "allow_clash":["dot"],"高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Lowell Observatory":"洛厄尔天文台","Clyde Tombaugh":"克莱德·汤博","Tombaugh":"汤博","Pluto":"冥王星","Eris":"厄里斯","NASA":"美国航天局","International Astronomical Union":"国际天文学联合会","Prague":"布拉格","American Dialect Society":"美国方言学会","New Mexico":"新墨西哥州","Illinois":"伊利诺伊州","New Horizons":"新视野号","Tombaugh Regio":"汤博区"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
