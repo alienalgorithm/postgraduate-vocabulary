@@ -111,6 +111,9 @@ CONF["同词异译"]={"revolve around：环绕/运行":"不是两种译法：rev
 CONF["方向"]={"S2-2 after→名字取自":"after 这里是“以……命名、取自”，不是时间先后，中文“名字取自”意思对"}
 out={"no":"32","title_en":"The Planet That Was Demoted","title_zh":"被降级的冥王星","title_fx":{"hl":["Planet","Demoted"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "说明放宽特批":{"S17":{"倍数":"整屏","依据":"用户 2026-10-25 看 25 简述截图：“以后以后一定要合理的安排，不要压缩成这个样子……这个地方特批一下”（用户同意记录：原话适用以后各篇，26 起沿用）"}},
+     "合成标点":{"S4":[["body, later","body; later"]]},
+     "非人声区间":{"S7":[[3.08,3.285708,"紧贴词头"]],"S8":[[2.809,3.095],[7.385,7.42825,"紧贴词头"]],"S11":[[1.612,1.645292,"紧贴词头"]],
+                  "S13":[[2.9155,3.075,"紧贴词尾"],[10.4535,10.615]],"S16":[[2.7285,3.02]]},
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Lowell Observatory":"洛厄尔天文台","Clyde Tombaugh":"克莱德·汤博","Tombaugh":"汤博","Pluto":"冥王星","Eris":"厄里斯","NASA":"美国航天局","International Astronomical Union":"国际天文学联合会","Prague":"布拉格","American Dialect Society":"美国方言学会","New Mexico":"新墨西哥州","Illinois":"伊利诺伊州","New Horizons":"新视野号","Tombaugh Regio":"汤博区"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
