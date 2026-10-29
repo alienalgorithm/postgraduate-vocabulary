@@ -70,7 +70,7 @@ S=[
      "（with teams deployed…：with 复合结构，deployed 是过去分词；\nfrom abroad：从国外）"]]),
 (5,[[[("The rescue","这次救援"),("had","留下了"),("a **sobering**","一个**令人警醒的**(sobering)"),("**postscript**:","**后续**(postscript)：")],
      "（postscript：后记，这里指事后发生的事；\n冒号后面交代这个后续）"],
-    [[("in December 2019","2019年12月，"),("another Navy SEAL","又一名海军海豹突击队员"),("died of","死于"),("a blood infection caught during the operation.","在救援中染上的血液感染。")],
+    [[("in December 2019","2019年12月，"),("another Navy SEAL","又一名海军海豹突击队员"),("died of","死于"),("a **blood infection** caught during the operation.","在救援中染上的**血液感染**(blood infection)。")],
      "（die of…：死于（疾病）；\ncaught during the operation：过去分词短语作后置定语，修饰 infection）"]]),
 (5,[[[("Every boy","每个男孩"),("came home alive,","都活着回到了家，")],
      "（alive：形容词，补充说明回家时的状态）"],
@@ -133,6 +133,7 @@ CONF["中文重复"]={"穿过":"用户 2026-10-29 原话：S7 ran through “这
 out={"no":"33","title_en":"Thirteen in the Cave","title_zh":"洞穴里的十三个人","title_fx":{"hl":["Thirteen","Cave"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "说明放宽特批":{"S16":{"倍数":"整屏","依据":"用户 2026-10-25 看 25 简述截图：“以后以后一定要合理的安排，不要压缩成这个样子……这个地方特批一下”（用户同意记录：原话适用以后各篇，26 起沿用）"}},
      "非人声区间":{"S1": [[7.615, 7.895]], "S2": [[5.045, 5.285]], "S5": [[6.215, 6.555]], "S7": [[3.345, 3.485], [4.94, 5.265]], "S8": [[2.975, 3.165]], "S10": [[2.975, 3.18125, "紧贴词头"]], "S11": [[4.47, 4.786125, "紧贴词头"]], "S12": [[1.3, 1.52]], "S13": [[1.92, 2.175]], "S14": [[10.705, 11.006167, "紧贴词头"]], "S15": [[4.866458, 5.025, "紧贴词尾"]]},
+     "allow_clash":["blood infection"],
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Tham Luang":"睡美人洞","Thailand":"泰国","Saman Kunan":"萨曼·古南","Navy SEAL":"海军海豹突击队员","Thai":"泰国","British":"英国"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
