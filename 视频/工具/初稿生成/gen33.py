@@ -68,14 +68,14 @@ S=[
      "（plus：另外还有，引出补充的人数）"],
     [[("with teams","还有一些救援小组，"),("**deployed** from abroad.","从国外**调派**(deployed)而来。")],
      "（with teams deployed…：with 复合结构，deployed 是过去分词；\nfrom abroad：从国外）"]]),
-(5,[[[("The rescue","这次救援"),("had","留下了"),("a **sobering**","一个**令人沉重的**(sobering)"),("**postscript**:","**尾声**(postscript)：")],
-     "（postscript：后记，这里指事后发生的事；\n冒号后面交代这个尾声）"],
+(5,[[[("The rescue","这次救援"),("had","留下了"),("a **sobering**","一个**令人警醒的**(sobering)"),("**postscript**:","**后续**(postscript)：")],
+     "（postscript：后记，这里指事后发生的事；\n冒号后面交代这个后续）"],
     [[("in December 2019","2019年12月，"),("another Navy SEAL","又一名海军海豹突击队员"),("died of","死于"),("a blood infection caught during the operation.","在救援中染上的血液感染。")],
      "（die of…：死于（疾病）；\ncaught during the operation：过去分词短语作后置定语，修饰 infection）"]]),
 (5,[[[("Every boy","每个男孩"),("came home alive,","都活着回到了家，")],
      "（alive：形容词，补充说明回家时的状态）"],
-    [[("and","而"),("two rescuers","两名救援者"),("were **mourned**.","受到了人们的**哀悼**(mourned)。")],
-     "（were mourned：被动语态，受到哀悼；\n两名救援者指萨曼·古南和2019年去世的海豹队员）\n"
+    [[("and","而"),("two rescuers","两名救援者"),("were **mourned**.","却只能永远被**悼念**(mourned)。")],
+     "（were mourned：被动语态，被悼念；\n两名救援者指萨曼·古南和2019年去世的海豹队员）\n"
      "（简述：2018年6月23日，一支青少年足球队的12名男孩和25岁的助理教练\n"
      "进入泰国北部的睡美人洞，季风雨淹没通道，把他们困在洞里。\n"
      "九天里他们下落不明；7月2日，两名英国潜水员在距洞口约4公里的被淹洞室找到了他们，\n"
