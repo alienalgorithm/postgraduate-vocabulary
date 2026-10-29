@@ -50,7 +50,7 @@ S=[
      "（dissenting：持异议的，持不同意见的）"]]),
 (4,[[[("The American Dialect Society","美国方言学会"),("made","把"),("\"plutoed\",","“plutoed”，"),("**playful**","这个**戏谑的**(playful)"),("**slang**","**俚语**(slang)，"),("for \"to **devalue**\",","意思是“**贬低**(devalue)”，"),("its word of 2006,","评为2006年度词汇，")],
      "（made A B：把 A 评为 B；\nplayful slang for \"to devalue\"：同位语，补充说明 plutoed）"],
-    [[("and","而"),("New Mexico and Illinois","新墨西哥州和伊利诺伊州的"),("**lawmakers**","**立法者**(lawmakers)"),("passed","通过"),("resolutions","决议，"),("**affirming** that","**确认**(affirming)"),("Pluto was a planet.","冥王星是行星。")],
+    [[("and","而"),("New Mexico and Illinois","新墨西哥州和伊利诺伊州的"),("**lawmakers**","**立法者**(lawmakers)"),("passed","通过"),("**resolutions**","**决议**(resolutions)，"),("**affirming** that","**确认**(affirming)"),("Pluto was a planet.","冥王星是行星。")],
      "（affirming that…：现在分词短语作后置定语，修饰 resolutions）"]]),
 (5,[[[("Amid the **controversy**,","就在一片**争议**(controversy)声中，"),("an **irony**","一件颇具**讽刺**(irony)意味的事"),("was already","早已"),("**in transit**.","**在途中**(in transit)。")],
      "（in transit：在途中，在运送中；\nirony：具有讽刺意味的事）"]]),
