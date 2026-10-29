@@ -35,3 +35,4 @@
 | 28 | A Handful of Wormwood That Saved Millions | 青蒿一握，济世千万 | 13.7 MB |
 | 29 | The Volcano That Gave Us Frankenstein | 一座火山，造出了《弗兰肯斯坦》 | 12.9 MB |
 | 31 | The Book Twelve Publishers Turned Down | 被拒绝了十二次的哈利·波特 | 12.4 MB |
+| 32 | The Planet That Was Demoted | 被降级的冥王星 | 12.2 MB |
