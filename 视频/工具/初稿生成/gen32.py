@@ -18,7 +18,7 @@ S=[
      "（body：天体）"],
     [[("later","它后来"),("named Eris,","被命名为厄里斯，"),("at first thought","起初被认为"),("larger than Pluto.","比冥王星还要大。")],
      "（later named Eris、at first thought larger than Pluto：\n两个过去分词短语作后置定语，修饰 a far-off body）"]]),
-(2,[[[("NASA","美国航天局"),("briefly","一度"),("called it","称它为"),("the tenth","第十大"),("planet.","行星。")],
+(2,[[[("NASA","美国航天局"),("briefly","曾短暂地"),("called it","称它为"),("the tenth","第十大"),("planet.","行星。")],
      "（call A B：称 A 为 B；\nNASA：美国国家航空航天局）"]]),
 (2,[[[("The **contender**","这个**竞争者**(contender)"),("posed","带来了"),("an **awkward**","一个**棘手的**(awkward)"),("**dilemma**.","**难题**(dilemma)。")],
      "（pose：造成（问题、困难）；\ncontender 指 Eris）"]]),
