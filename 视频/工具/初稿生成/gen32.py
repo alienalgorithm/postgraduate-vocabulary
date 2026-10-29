@@ -116,7 +116,7 @@ out={"no":"32","title_en":"The Planet That Was Demoted","title_zh":"被降级的
      "合成标点":{"S4":[["body, later","body; later"]]},
      "非人声区间":{"S4":[[1.945042,2.2,"紧贴词尾"]],"S7":[[3.08,3.285708,"紧贴词头"]],"S8":[[2.809,3.095],[7.05,7.38,"紧贴词尾"],[7.385,7.42825,"紧贴词头"]],"S11":[[1.612,1.645292,"紧贴词头"]],
                   "S13":[[2.9155,3.075,"紧贴词尾"],[10.4535,10.615]],"S16":[[2.7285,3.02]]},
-     "allow_clash":["dot"],"高亮按实际开口":True,"高亮开口门槛":40,
+     "allow_clash":["dot"],"换行变更已获同意":{"S17":"用户原话“sweep past  作为重点词汇  掠过了....”（swept、past 并成一组整体标重点，换行随之变化）"},"高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Lowell Observatory":"洛厄尔天文台","Clyde Tombaugh":"克莱德·汤博","Tombaugh":"汤博","Pluto":"冥王星","Eris":"厄里斯","NASA":"美国航天局","International Astronomical Union":"国际天文学联合会","Prague":"布拉格","American Dialect Society":"美国方言学会","New Mexico":"新墨西哥州","Illinois":"伊利诺伊州","New Horizons":"新视野号","Tombaugh Regio":"汤博区"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
