@@ -64,7 +64,7 @@ S=[
      "（transmitting…：现在分词短语作伴随状语；\nof…：介词短语作后置定语，修饰 images）"],
     [[("**fittingly**","这片平原**恰如其分地**(fittingly)"),("named Tombaugh Regio.","被命名为汤博区。")],
      "（fittingly named…：过去分词短语作后置定语，修饰 plain；\nTombaugh Regio：汤博区）"]]),
-(5,[[[("The **discoverer**'s","这位**发现者**(discoverer)的"),("ashes","骨灰"),("swept","掠"),("past","过了"),("the heart that bears his name.","那颗以他命名的心。")],
+(5,[[[("The **discoverer**'s","这位**发现者**(discoverer)的"),("ashes","骨灰"),("**swept past**","**掠过了**(swept past)"),("the heart that bears his name.","那颗以他命名的心。")],
      "（that bears his name：定语从句，修饰 the heart；\nbear one's name：以某人的名字命名）\n"
      "（简述：1930年2月18日，汤博在洛厄尔天文台比对底片时发现了冥王星，\n"
      "名字由一名11岁的英国女孩提议，取自罗马神话中的冥界之神。\n"
