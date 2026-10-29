@@ -160,7 +160,7 @@ def 贴词尾擦音(a, f):
             if k is None or any(v < -50 for v in back[:k]): return False
             n20 = int(0.02 * SR); fr = np.fft.rfftfreq(n20, 1 / SR)
             for x in range(i0, max(i0 + 1, i1 - n20), h):
-                X = np.abs(np.fft.rfft(a[x:x + n20] * np.hanning(n20))) ** 2
+                X = np.abs(np.fft.rfft(a[x:x + n20] * np.hanning(n20)))   # K140：幅度谱重心，与 spec()、实测() 同一口径（功率谱重心低 1 kHz 以上，36 S10 /v/ 收不进）
                 if X.sum() > 0 and (X * fr).sum() / X.sum() > 3300: return True
             return False
     return False
