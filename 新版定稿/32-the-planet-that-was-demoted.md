@@ -20,7 +20,7 @@ Amid the **controversy**, an **irony** was already in **transit**. New Horizons 
 
 2006年8月24日，国际天文学联合会在布拉格**召开会议**(convened)，投票决定：一颗行星必须**围绕**(revolve)太阳**转动**(revolve)、形状接近**球形**(spherical)，并且已清空其轨道附近的**区域**(neighbourhood)。冥王星不符合最后一条**标准**(criterion)，被**重新归类**(reclassified)为**矮行星**(dwarf)，行星只剩下八颗。冥王星在**物理上**(physically)**毫无改变**(unaltered)，移动的只是**界线**(boundary)。
 
-这次表决**有效**(valid)，但其**正当性**(legitimacy)受到**批评**(criticism)，因为约1万名会员中只有424人参加了投票。数百名持**异议**(dissenting)的天文学家签署了**请愿书**(petition)。美国方言学会把"plutoed"评为2006年度词汇，这是一个带有**戏谑**(playful)意味的**俚语**(slang)，意思是"**贬低**(devalue)"。新墨西哥州和伊利诺伊州的**立法者**(lawmakers)通过决议，**确认**(affirming)冥王星是行星。
+这次表决虽然是**有效**(valid)的，但其**正当性**(legitimacy)却招致了**批评**(criticism)：约1万名成员中仅有424人参加。数百名持**异议**(dissenting)的天文学家签署了**请愿书**(petition)。美国方言学会把"plutoed"评为2006年度词汇，这是一个带有**戏谑**(playful)意味的**俚语**(slang)，意思是"**贬低**(devalue)"。新墨西哥州和伊利诺伊州的**立法者**(lawmakers)通过决议，**确认**(affirming)冥王星是行星。
 
 就在一片**争议**(controversy)声中，一件颇具**讽刺**(irony)意味的事早已在**途中**(transit)。新视野号于2006年1月19日发射，比那次表决早七个月，携带着**一小撮**(pinch)汤博的骨灰。2015年7月14日，这艘**无人**(unmanned)飞船飞掠冥王星，**传回**(transmitting)了一片**巨大**(enormous)的**心形**(heart-shaped)平原的图像，这片平原**恰如其分**(fittingly)地被命名为汤博区。这位**发现者**(discoverer)的骨灰，掠过了那颗以他命名的"心"。
 
