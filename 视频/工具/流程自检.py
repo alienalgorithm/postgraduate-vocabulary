@@ -20,6 +20,12 @@ def 推送锁(txt):   # G17：⑥ 的提交、镜像同步、推送要占 推送
     return [] if i and j and u and j[0] < i[0] < u[0] else ['⑥ 镜像同步没在推送锁里（G17）']
 if 推送锁(src): fails.append('原样就报：' + 推送锁(src)[0])
 if not 推送锁(re.sub(r'(?m)^exec 7>.*\n', '', src)): fails.append('没抓到：⑥ 不占推送锁（G17）')
+def 先合回(txt):   # 合回镜像（主会话 2026-10-29）：定稿.sh ⑥ 推 main、盖镜像之前，先把只在镜像的改动合回 main
+    ls = [l for l in txt.splitlines() if not l.lstrip().startswith('#')]
+    i = next((k for k, l in enumerate(ls) if '合回镜像.py' in l and '|| stop' in l), None); j = next((k for k, l in enumerate(ls) if 'push main' in l), None)
+    return [] if i is not None and j is not None and i < j else ['定稿.sh ⑥ 推 main 之前没先合回镜像（只在镜像的改动会被盖掉）']
+if 先合回(src): fails.append('原样就报：' + 先合回(src)[0])
+if not 先合回(re.sub(r'(?m)^.*合回镜像\.py.*\n', '', src)): fails.append('没抓到：定稿.sh 去掉合回镜像那一行（合回镜像）')
 import 工作稿核对 as _G; _d = tempfile.mkdtemp(); _w, _p = f'{_d}/w.json', f'{_d}/p.json'   # G19：工作稿比仓库旧必停
 open(_w, 'w').write('旧'); open(_p, 'w').write('新'); os.utime(_w, (1, 1))
 if not _G.旧了(_w, _p): fails.append('没抓到：工作目录脚本比仓库旧（G19）')
@@ -112,6 +118,10 @@ if 'OLD_IV_VOID=1' not in open(f'{T}/草稿声音.sh').read() or '区间作废.p
 sys.path.insert(0, f'{T}/初稿生成'); import 核对 as _HD   # T37 核对.py 多词重点词误报“缺”
 if _HD.缺的重点词(['**hinge on**', '**dead reckoning**'], ['hinge on', 'dead reckoning']): fails.append('T37 误报：多词重点词（hinge on、dead reckoning）整体在却报“缺”')
 if _HD.缺的重点词(['**dead reckoning**'], ['dead', 'reckoning']): fails.append('T37 误报：多词重点词每个词都加粗了却报“缺”')
+_old = {'说明放宽特批': {'S1': '旧'}, '结尾句': {'S17': {'接点样本': 123, '前段语速': 0.9}}, '非人声区间': {'S3': [[1, 2, '']]}, '核对确认': {'短语': {'a': '旧a', 'b': '旧b'}, 'x': '旧'}, 'sentences': ['旧'], 'no': '99'}
+_new = _HD.合并旧脚本({'no': '32', 'sentences': ['新'], '说明放宽特批': {'S1': '新'}, '结尾句': {'S17': {'前段语速': 0.95}}, '核对确认': {'短语': {'a': '新a'}, 'x': '新'}}, _old)   # 32 报：gen 改了值，旧 json 同名键盖回去
+if _new['说明放宽特批'] != {'S1': '新'} or _new['结尾句']['S17'].get('前段语速') != 0.95 or _new['核对确认']['短语']['a'] != '新a' or _new['核对确认']['x'] != '新' or _new['sentences'] != ['新']: fails.append(f'没抓到：重新生成时旧 scripts/NN.json 的同名键盖掉了 genNN 的新值（改稿不生效）：{_new}')
+if _new['结尾句']['S17'].get('接点样本') != 123 or '非人声区间' not in _new or _new['核对确认']['短语'].get('b') != '旧b': fails.append(f'重新生成丢了后来程序写进脚本的键（接点、非人声区间、别的确认）：{_new}')
 if _HD.缺的重点词(['**vast**', '**hinge on**'], ['hinge on']) != ['vast']: fails.append('没抓到：文章重点词在对照里真的缺了（T37）')
 def 管道解压(txt):   # K54：curl 下载直接管道给 tar 解压，下载被截断就留半截文件、重跑跳过下载；必须先下到文件、解压成功才算
     return [l.strip()[:80] for l in txt.splitlines() if not l.lstrip().startswith('#') and re.search(r'curl\b[^|#]*\|\s*tar\b', l)]

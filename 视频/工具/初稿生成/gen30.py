@@ -12,19 +12,19 @@ S=[
      "（had become：过去完成时，表示到那时已经……）"]]),
 (2,[[[("**Antiquated**","**老旧的**(Antiquated)"),("sewers","下水道"),("and","和"),("**outlets**","**排污口**(outlets)"),("**discharged**","**排放**(discharged)"),("the **untreated**","**未经处理的**(untreated)"),("**sewage**","**污水**(sewage)，"),("of","它们来自"),("some three million","约三百万"),("city **dwellers**","城市**居民**(dwellers)，"),("into","排入"),("its **currents**,","河的**水流**(currents)中，")],
      "（discharge A into B：把 A 排放到 B 中；\nsome three million：约三百万，some 表示“大约”；\ncity dweller：城市居民）"],
-    [[("where","在那里，"),("the **excrement**","**粪便**(excrement)"),("**stewed**","**闷沤**(stewed)"),("and","并"),("**decayed**.","**腐败**(decayed)。")],
+    [[("where","在那里，"),("the **excrement**","**粪便**(excrement)"),("**stewed**","**处于炎热的空气中**(stewed)"),("and","并"),("**decayed**.","**腐败**(decayed)。")],
      "（where…：非限制性定语从句，where 指 its currents；\nstew：炖，这里指在闷热中闷着、沤着）"]]),
-(2,[[[("The **vile**","**污浊的**(vile)"),("**fumes**","**臭气**(fumes)"),("grew so","变得如此"),("**overpowering**","**令人难以招架**(overpowering)，"),("that","以至于"),("the episode","这段日子"),("earned","得到了"),("a name,","一个名字，"),("the Great Stink.","大恶臭。")],
+(2,[[[("The **vile**","**令人恶心的**(vile)"),("**fumes**","**刺鼻气体**(fumes)"),("grew so","变得如此"),("**overpowering**","**极其强烈的/令人难以忍受**(overpowering)，"),("that","以至于"),("the episode","这段时期"),("earned","赢得了"),("a name,","一个名字，"),("the Great **Stink**.","大**恶臭**(Stink)。")],
      "（so…that…：如此……以至于……；\nthe Great Stink：同位语，补充说明 a name）"]]),
 (3,[[[("**Disgust**","这股**厌恶**(Disgust)"),("found","找到了"),("a voice","代言人，"),("on 15 July,","是在7月15日，")],
      "（find a voice：找到表达的出口，这里指有了代言人）"],
-    [[("when","当时"),("the **Chancellor of the Exchequer**,","**财政大臣**(Chancellor of the Exchequer)"),("Benjamin Disraeli,","本杰明·迪斯雷利"),("**denounced**","**痛斥**(denounced as)"),("the river","这条河"),("**as**","**是**(denounced as)"),("a **hellish** pool","一潭**地狱般的**(hellish)池水，"),("of **unbearable** horrors.","满是**令人无法忍受的**(unbearable)恐怖。")],
+    [[("when","当时"),("the **Chancellor of the Exchequer**,","**财政大臣**(Chancellor of the Exchequer)"),("Benjamin Disraeli,","本杰明·迪斯雷利"),("**denounced**","**公开抨击**(denounced as)"),("the river","这条河"),("**as**","**是**(denounced as)"),("a **hellish** pool","一潭**地狱般的**(hellish)池水，"),("of **unbearable** horrors.","满是**令人无法忍受的**(unbearable)恐怖。")],
      "（the Chancellor of the Exchequer：英国财政大臣；\nBenjamin Disraeli：同位语，补充说明 the Chancellor；\ndenounce A as B：痛斥 A 是 B）"]]),
-(3,[[[("A bill funding new sewers","一项为新下水道拨款的法案"),("was **fast-tracked**","被**快速推进**(fast-tracked)，"),("into law","成为法律，"),("in about 18 days.","只用了约18天。")],
+(3,[[[("A **bill** funding new sewers","一项为新下水道拨款的**法案**(bill)"),("was **fast-tracked**","**被快速推进/被加速审批**(fast-tracked)，"),("into law","成为法律，"),("in about 18 days.","只用了约18天。")],
      "（funding new sewers：现在分词短语作后置定语，修饰 a bill；\nfast-track A into law：加快把 A 变成法律）"]]),
 (4,[[[("The engineer","工程师"),("Joseph Bazalgette","约瑟夫·巴泽尔杰特"),("**masterminded**","**主持策划了**(masterminded)"),("the response.","这次应对。")],
      "（mastermind：策划，主持）"]]),
-(4,[[[("His","他修建的"),("82 miles of","82英里"),("**stout**","**坚固的**(stout)"),("intercepting","截流"),("sewers","下水道"),("caught","截住了"),("the flow","污水，"),("short of","在流入"),("the river","河道之前，")],
+(4,[[[("His","他修建的"),("82 miles of","82英里"),("**stout**","**坚固的**(stout)"),("intercepting","截流"),("sewers","下水道"),("caught","截住了"),("the flow","污水，"),("**short of**","**在到达**(short of)"),("the river","河流**之前**(short of)，")],
      "（82 miles of…：82英里长的……；\nintercepting sewer：截流下水道；\nshort of…：在到达……之前）"],
     [[("and **diverted** it","并把它**改道**(diverted)"),("east,","向东，"),("**downstream** of the city.","送往城市**下游**(downstream)。")],
      "（divert：使改道；downstream of…：在……的下游）"]]),
@@ -67,7 +67,8 @@ CONF={"牛津逗号":{"S4 dwellers into its currents, where the excrement stewed
 "们":{"S2-1 **(festered)，而议员们**":"“们”在“议员们”（MPs，复数）里，不是给重点词 festered 加的；festered 是动词"},
 "是的":{"S6-2 是**令人无法忍受的**":"“是”属于“满是”（of 结构：一潭池水，满是……恐怖），不是“是……的”判断句式"},
 "数字":{"S10-2 318":"318 million 读 three hundred and eighteen million，中文按文章定稿写作“三亿一千八百万”，数值相同"},
-"同词异译":{"denounced as：是/痛斥":"S6 denounce A as B“痛斥……是”被“这条河”隔开，“痛斥”“是”是同一个意思的两部分（T22/T23），不是两种译法"},
+"同词异译":{"short of：之前/在到达":"S9 short of“在到达……之前”被“河流”隔开，“在到达”“之前”是同一个意思的两部分（T22/T23），不是两种译法",
+ "denounced as：公开抨击/是":"S6 denounce A as B“公开抨击……是”被“这条河”隔开，“公开抨击”“是”是同一个意思的两部分（T22/T23），不是两种译法"},
 "短语":{"S4 discharged … into":"不是搭配：into 是普通方向介词，引出排放去处（its currents）；discharge 单独就是“排放”",
  "S4 discharged … of":"不是搭配：of 属于 the untreated sewage of some three million city dwellers（谁的污水）",
  "S6 denounced … of":"不是搭配：of 属于 a hellish pool of unbearable horrors（满是恐怖的池水）；denounce A as B 已整体标",
@@ -95,7 +96,7 @@ CONF={"牛津逗号":{"S4 dwellers into its currents, where the excrement stewed
 out={"no":"30","title_en":"The Stink That Built London's Sewers","title_zh":"大恶臭逼出了下水道","title_fx":{"hl":["Stink","Sewers"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "说明放宽特批":{"S18":{"倍数":"整屏","依据":"用户 2026-10-28 特批：“29、30、31 结尾简述都整屏、字号放到最大”（用户同意记录）"}},
      "高亮按实际开口":True,"高亮开口门槛":40,
-     "术语":{"Houses of Parliament":"议会大厦","Thames":"泰晤士河","London":"伦敦","Londoners":"伦敦人","Great Stink":"大恶臭","Benjamin Disraeli":"本杰明·迪斯雷利","Joseph Bazalgette":"约瑟夫·巴泽尔杰特","Victoria":"维多利亚","Albert":"阿尔伯特","Chelsea":"切尔西","Embankments":"河堤","East End":"伦敦东区"}}
+     "术语":{"Houses of Parliament":"议会大厦","Thames":"泰晤士河","London":"伦敦","Londoners":"伦敦人","Benjamin Disraeli":"本杰明·迪斯雷利","Joseph Bazalgette":"约瑟夫·巴泽尔杰特","Victoria":"维多利亚","Albert":"阿尔伯特","Chelsea":"切尔西","Embankments":"河堤","East End":"伦敦东区"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
 生成并核对(S, out)
