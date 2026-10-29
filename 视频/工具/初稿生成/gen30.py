@@ -2,19 +2,19 @@ import json,re,glob,os
 # 第30篇初稿（逐词对照）：S = [(段, [chunk, ...])]，chunk = ([(英文组, 中文组), ...], 可选 note)
 # 2026-10-28 重点词中文沿用文章定稿（铁律），形容词“的”、动词“了”进粗体（28 用户改稿惯例）；非重点词也逐词对齐（G47）；三项并列加牛津逗号（T35）。
 S=[
-(1,[[[("In the","在"),("**fierce heat**","**酷热**(fierce heat)"),("of","的"),("summer 1858,","1858年夏天，"),("the curtains of the new Houses of Parliament","新落成的议会大厦里的窗帘"),("hung","垂挂着，"),("heavy with","沉甸甸地浸满了"),("chloride of **lime**,","氯化**石灰**(lime)，")],
+(1,[[[("In the","在"),("**fierce heat**","**酷热**(fierce heat)"),("of","的"),("summer 1858,","1858年夏天，"),("the curtains of the new Houses of Parliament","新落成的议会大厦里的窗帘"),("hung","垂挂着，"),("heavy with","沉甸甸地浸湿了"),("chloride of **lime**,","氯化**石灰**(lime)，")],
      "（hang heavy with…：沉甸甸地浸满……；\nchloride of lime：氯化石灰，即漂白粉）"],
     [[("a **bleach**","这是一种**漂白剂**(bleach)，"),("to make","用来让"),("the air","空气"),("**tolerable**.","变得**可以忍受**(tolerable)。")],
      "（a bleach…：同位语，补充说明 chloride of lime；\nmake + 宾语 + 形容词：使……变得……）"]]),
 (1,[[[("The Thames","泰晤士河"),("**festered**,","正在**溃烂发臭**(festered)，"),("and","而"),("MPs","议员们"),("**contemplated**","**考虑**(contemplated)过"),("moving out.","搬离这里。")],
-     "（contemplate doing…：考虑做……；\nMP：议员，即 Member of Parliament）"]]),
+     "（contemplate doing…：考虑做……；\nMP：议员，即 Member of Parliament）\n（contemplate 指深入、反复权衡的“仔细考虑”，\n或陷入“沉思/凝视”\n（比普通的 think 更有深度和画面感））"]]),
 (2,[[[("The river","这条河"),("had become","已经成了"),("London's","伦敦的"),("**lavatory**.","**厕所**(lavatory)。")],
      "（had become：过去完成时，表示到那时已经……）"]]),
 (2,[[[("**Antiquated**","**老旧的**(Antiquated)"),("sewers","下水道"),("and","和"),("**outlets**","**排污口**(outlets)"),("**discharged**","**排放**(discharged)"),("the **untreated**","**未经处理的**(untreated)"),("**sewage**","**污水**(sewage)，"),("of","它们来自"),("some three million","约三百万"),("city **dwellers**","城市**居民**(dwellers)，"),("into","排入"),("its **currents**,","河的**水流**(currents)中，")],
      "（discharge A into B：把 A 排放到 B 中；\nsome three million：约三百万，some 表示“大约”；\ncity dweller：城市居民）"],
-    [[("where","在那里，"),("the **excrement**","**粪便**(excrement)"),("**stewed**","**闷沤**(stewed)"),("and","并"),("**decayed**.","**腐败**(decayed)。")],
+    [[("where","在那里，"),("the **excrement**","**粪便**(excrement)"),("**stewed**","**处于炎热的空气中**(stewed)"),("and","并"),("**decayed**.","**腐败**(decayed)。")],
      "（where…：非限制性定语从句，where 指 its currents；\nstew：炖，这里指在闷热中闷着、沤着）"]]),
-(2,[[[("The **vile**","**污浊的**(vile)"),("**fumes**","**臭气**(fumes)"),("grew so","变得如此"),("**overpowering**","**令人难以招架**(overpowering)，"),("that","以至于"),("the episode","这段日子"),("earned","得到了"),("a name,","一个名字，"),("the Great Stink.","大恶臭。")],
+(2,[[[("The **vile**","**令人恶心的**(vile)"),("**fumes**","**刺鼻气体**(fumes)"),("grew so","变得如此"),("**overpowering**","**极其强烈的/令人难以忍受**(overpowering)，"),("that","以至于"),("the episode","这段日子"),("earned","得到了"),("a name,","一个名字，"),("the Great Stink.","大恶臭。")],
      "（so…that…：如此……以至于……；\nthe Great Stink：同位语，补充说明 a name）"]]),
 (3,[[[("**Disgust**","这股**厌恶**(Disgust)"),("found","找到了"),("a voice","代言人，"),("on 15 July,","是在7月15日，")],
      "（find a voice：找到表达的出口，这里指有了代言人）"],
