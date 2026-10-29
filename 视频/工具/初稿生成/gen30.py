@@ -38,9 +38,9 @@ S=[
      "（lie buried：埋藏着，lie + 过去分词表示处于某种状态；\nEmbankment：河堤，泰晤士河沿岸的堤岸大道）"]]),
 (4,[[[("**Substantially** complete by 1875,","到1875年**基本上**(Substantially)已经完工，"),("much of the network","这套管网的大部分"),("is **in use** today.","至今仍**在使用**(in use)。")],
      "（Substantially complete by 1875：形容词短语作状语，\n逻辑主语是 the network；in use：在使用中）"]]),
-(5,[[[("Yet","然而，"),("that **sanitation**","这套**卫生设施**(sanitation)"),("rested on","建立在"),("a **fallacy**.","一个**谬误**(fallacy)之上。")],
+(5,[[[("Yet","然而，"),("that **sanitation**","这套**卫生设施/下水道设施**(sanitation)"),("**rested on**","**建立在**(rested on)"),("a **fallacy**.","一个**谬误**(fallacy)**之上**(rested on)。")],
      "（rest on…：建立在……之上，以……为基础）"]]),
-(5,[[[("The **predominant**","当时**占主导地位的**(predominant)"),("**belief**,","**看法**(belief)"),("miasma,","是瘴气说，"),("blamed disease on","把疾病归咎于"),("foul","污浊的"),("air","空气"),("and **vapours**,","和**秽气**(vapours)，")],
+(5,[[[("The **predominant**","当时**占主导地位的**(predominant)"),("**belief**,","**看法**(belief)"),("miasma,","是瘴气说，"),("blamed disease on","把疾病归咎于"),("foul","污浊的"),("air","空气"),("and **vapours**,","和臭水的**蒸汽**(vapours)，")],
      "（miasma：瘴气说，同位语，补充说明 belief；\nblame A on B：把 A 归咎于 B）"],
     [[("so","所以"),("the sewers","下水道"),("were intended","修建的目的"),("**principally**","**主要**(principally)"),("to **suppress**","是为了**压住**(suppress)"),("the smell.","臭味。")],
      "（be intended to do：目的是做……，打算用来……）"]]),
@@ -52,7 +52,7 @@ S=[
      "（the East End：伦敦东区）"],
     [[("the one **locality** not yet connected.","那是唯一尚未接入的**地区**(locality)。")],
      "（the one locality…：同位语，补充说明 the East End；\nnot yet connected：过去分词短语作后置定语）"]]),
-(7,[[[("A remedy aimed at the nose","一项冲着鼻子去的补救措施，"),("protected","护住的却是"),("the gut.","肠胃。")],
+(7,[[[("A remedy **aimed at** the nose","一项**冲着**(aimed at)鼻子**去的**(aimed at)补救措施，"),("protected","护住的却是"),("the **gut**.","**肠胃**(gut)。")],
      "（aimed at…：过去分词短语作后置定语，修饰 remedy；\nthe gut：肠胃，与 the nose 对比）\n"
      "（简述：1858年夏天酷热，伦敦约三百万居民的污水直接排进泰晤士河，\n"
      "臭气熏天，史称大恶臭；议会大厦的窗帘浸满氯化石灰，议员们考虑过搬走。\n"
@@ -67,7 +67,9 @@ CONF={"牛津逗号":{"S4 dwellers into its currents, where the excrement stewed
 "们":{"S2-1 **(festered)，而议员们**":"“们”在“议员们”（MPs，复数）里，不是给重点词 festered 加的；festered 是动词"},
 "是的":{"S6-2 是**令人无法忍受的**":"“是”属于“满是”（of 结构：一潭池水，满是……恐怖），不是“是……的”判断句式"},
 "数字":{"S10-2 318":"318 million 读 three hundred and eighteen million，中文按文章定稿写作“三亿一千八百万”，数值相同"},
-"同词异译":{"short of：之前/在到达":"S9 short of“在到达……之前”被“河流”隔开，“在到达”“之前”是同一个意思的两部分（T22/T23），不是两种译法",
+"同词异译":{"aimed at：冲着/去的":"S18 aimed at“冲着……去的”被“鼻子”隔开，“冲着”“去的”是同一个意思的两部分（T22/T23），不是两种译法",
+ "rested on：之上/建立在":"S14 rest on“建立在……之上”被“一个谬误”隔开，“建立在”“之上”是同一个意思的两部分（T22/T23），不是两种译法",
+ "short of：之前/在到达":"S9 short of“在到达……之前”被“河流”隔开，“在到达”“之前”是同一个意思的两部分（T22/T23），不是两种译法",
  "denounced as：公开抨击/是":"S6 denounce A as B“公开抨击……是”被“这条河”隔开，“公开抨击”“是”是同一个意思的两部分（T22/T23），不是两种译法"},
 "短语":{"S4 discharged … into":"不是搭配：into 是普通方向介词，引出排放去处（its currents）；discharge 单独就是“排放”",
  "S4 discharged … of":"不是搭配：of 属于 the untreated sewage of some three million city dwellers（谁的污水）",
