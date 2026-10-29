@@ -199,6 +199,7 @@ def _int2w(n):
     if n<1000: return _ONES[n//100]+' hundred'+('' if n%100==0 else ' '+_n2w(n%100))
     return _int2w(n//1000)+' thousand'+('' if n%1000==0 else ' '+_int2w(n%1000))
 def spoken(t):
+    t=re.sub(r'([$£€])(\d{1,3}(?:\.\d+)?) (million|billion|trillion)\b',lambda m:(_int2w(int(m.group(2))) if '.' not in m.group(2) else m.group(2))+' '+m.group(3)+' '+{'$':'dollars','£':'pounds','€':'euros'}[m.group(1)],t)   # K130（36 S15 $950 million 读成 nine hundred fifty dollars million）：金额带 million/billion，币名放在最后；小数（$1.5 million）交下面的小数规则读
     t=re.sub(r'([$£€])(\d{1,3}(?:,\d{3})+|\d{1,6})(?![\d.,]\d)',lambda m:m.group(0) if int(m.group(2).replace(',',''))>=10**6 else _int2w(int(m.group(2).replace(',','')))+' '+{'$':('dollar','dollars'),'£':('pound','pounds'),'€':('euro','euros')}[m.group(1)][int(m.group(2).replace(',',''))!=1],t)   # K114（31 S14 $105,000 被读成 dollar one hundred five thousand）：$105,000 → one hundred five thousand dollars；小数、百万以上不转（交付核查 照报）
     t=re.sub(r'\b(1[0-2]|[1-9])[.:]([0-5]\d)([ap])m\b',lambda m:_n2w(int(m.group(1)))+('' if m.group(2)=='00' else ' oh '+_ONES[int(m.group(2))] if m.group(2)[0]=='0' else ' '+_n2w(int(m.group(2))))+' '+m.group(3).upper()+'M',t)  # 11.40pm → eleven forty PM（15：原来读成 eleven point four zero；小写 am 会读成 ɐm，大写 AM/PM 读成字母）
     t=re.sub(r'(?<![\d.,])(\d{1,6})\.(\d+)(?![\d.])',lambda m:_int2w(int(m.group(1)))+' point '+' '.join(_ONES[int(c)] for c in m.group(2)),t)   # 264.4 → two hundred sixty-four point four（13；时间在上一行先转）
@@ -813,7 +814,9 @@ def sentence_audio(sent,pieces,gaps):
             # A15：没有长的自然停顿时，候选 = 短静音段 + 足够安静的低谷（与窗口最安静处相差不超过 6 dB），
             # 选离"前一个词结尾 pe"最近的一个。不能按"窗口里最安静"或"离两词中点最近"选：下一个词里 /t/ 的闭塞
             # 常常更安静（cabbies, i|ts），而带时长模型每次运行的时长略有不同，按中点选会时对时错（learned, it）。
-            win=list(range(max(lo,pe-16),min(hi,ns+2)+1)); deep=min(e[g] for g in win)
+            win=list(range(max(lo,pe-16),min(hi,ns+2)+1))
+            if not win: win=list(range(max(0,min(pe,ns)-16),min(len(e)-1,max(pe,ns)+2)+1))   # K131（35 S21 cracked, but 结尾句）：前段那遍的 /t/ 结束时刻落在接点之后，pe 比下一个词起音 ns 还晚，窗口为空、出片崩；只有空窗口时才换成两者之间（已出片的篇目窗口都不空，不受影响）
+            deep=min(e[g] for g in win)
             dips=[g for g in win if e[g]<=min(e[max(0,g-4):g+5]) and e[g]<=deep+6 and not any(s0<=g<s1 for s0,s1 in runs)]
             cand=[(max(s0-pe,pe-(s1-1),0),0,(s0,s1)) for s0,s1 in runs]+[(abs(g-pe),1,g) for g in dips]
             if cand:
