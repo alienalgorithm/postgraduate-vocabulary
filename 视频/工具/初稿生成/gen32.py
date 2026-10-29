@@ -56,7 +56,7 @@ S=[
      "（in transit：在途中，在运送中；\nirony：具有讽刺意味的事）"]]),
 (5,[[[("New Horizons","新视野号"),("was launched on 19 January 2006,","于2006年1月19日发射，"),("seven months before the vote,","比那次表决早七个月，")],
      "（seven months before the vote：补充说明发射的时间）"],
-    [[("carrying","携带着"),("a **pinch** of","**一小撮**(pinch)"),("Tombaugh's ashes.","汤博的骨灰。")],
+    [[("carrying","携带着"),("**a pinch of**","**一小撮**(a pinch of)"),("Tombaugh's ashes.","汤博的骨灰。")],
      "（carrying…：现在分词短语作伴随状语；\na pinch of…：一小撮……）"]]),
 (5,[[[("On 14 July 2015","2015年7月14日，"),("the **unmanned** craft","这艘**无人**(unmanned)飞船"),("flew","飞"),("past Pluto,","掠过冥王星，")],
      "（craft：飞行器，这里指飞船）"],
@@ -105,7 +105,6 @@ CONF["短语"]={"S2 deity … of":"不是搭配：of the underworld 是后置定
  "S8 convened … in":"不是搭配：in Prague 是地点状语，convene 单独就是“召开（大会）”",
  "S13 slang … for":"不是搭配：for 引出这个俚语所表示的意思，中文“意思是”对应 for，slang 单独就是“俚语”",
  "S13 devalue … of":"不是搭配：of 属于后面的 its word of 2006（2006年度词汇），和 devalue 无关",
- "S15 pinch … of":"不是搭配：a pinch of A 是普通量词结构（一撮 A），同 a sum of；pinch 单独就是“一撮”，中文“一小撮”",
  "S16 transmitting … of":"不是搭配：of 属于 images of an enormous plain（……的图像），transmit 的宾语是 images"}
 CONF["同词异译"]={"revolve around：围绕/转动":"不是两种译法：revolve around 的意思“围绕……转动”被“太阳”隔开，“围绕”和“转动”是同一个意思的两段（T23）"}
 CONF["是的"]={"S11-1 是**有效的**":"用户 2026-10-29 原话定的译法：“这次表决虽然是有效的，但其正当性却招致了批评……valid 意思为 有效的”（待改清单第10条）"}
