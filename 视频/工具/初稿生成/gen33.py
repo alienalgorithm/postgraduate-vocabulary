@@ -58,7 +58,7 @@ S=[
      "（the last four footballers and their coach：并列主语）"],
     [[("were **escorted** out after their **teammates**.","继**队友**(teammates)之后被**护送**(escorted)出洞。")],
      "（escort out：护送出去；\nafter their teammates：在队友之后）"]]),
-(5,[[[("The **multinational**","这场**多国**(multinational)"),("**mobilisation**","**动员**(mobilisation)"),("was","堪称"),("a feat of **logistics**.","**后勤**(logistics)壮举。")],
+(5,[[[("The **multinational**","这场**多国的**(multinational)"),("**mobilisation**","**动员**(mobilisation)"),("was","被堪称为"),("a feat of **logistics**.","一场**后勤**(logistics)壮举。")],
      "（a feat of…：……方面的壮举；\nmobilisation：英式拼写，美式作 mobilization）"]]),
 (5,[[[("Some 10,000 people","约1万人"),("**converged on** the site,","**汇集到**(converged on)现场，")],
      "（some：用在数字前，表示大约；\nconverge on…：汇集到……）"],

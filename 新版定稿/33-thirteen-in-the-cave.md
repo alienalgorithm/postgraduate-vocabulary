@@ -22,7 +22,7 @@ The **multinational** **mobilisation** was a feat of **logistics**. Some 10,000 
 
 7月8日，**撤离**(evacuation)开始，男孩们**分批**(batches)出洞。每人都用了**数剂**(doses)**镇静药**(sedative)，**一动不动**(motionless)地**包裹**(wrapped)在**担架**(stretcher)里，由潜水员一个接一个传递出去，**沿途**(along the route)有**医护人员**(medics)**驻守**(stationed)。7月10日，最后四名**小球员**(footballers)和教练继**队友**(teammates)之后被**护送**(escorted)出洞。
 
-这场**多国**(multinational)**动员**(mobilisation)堪称**后勤**(logistics)壮举。约1万人**汇集**(converged)到现场，其中包括一支100多名潜水员组成的**分队**(contingent)，另有2,000名士兵和900名**警察**(policemen)，还有从国外**调派**(deployed)来的救援小组。2019年12月，又一名海军海豹突击队员死于在救援中染上的血液感染，为这次救援留下一个**令人沉重**(sobering)的**尾声**(postscript)。每个男孩都活着回到了家，人们则为两名救援者**哀悼**(mourned)。
+这场**多国**(multinational)的**动员**(mobilisation)被堪称为一场**后勤**(logistics)壮举。约1万人**汇集**(converged)到现场，其中包括一支100多名潜水员组成的**分队**(contingent)，另有2,000名士兵和900名**警察**(policemen)，还有从国外**调派**(deployed)来的救援小组。2019年12月，又一名海军海豹突击队员死于在救援中染上的血液感染，为这次救援留下一个**令人沉重**(sobering)的**尾声**(postscript)。每个男孩都活着回到了家，人们则为两名救援者**哀悼**(mourned)。
 
 ## 速查表
 | 词 | 释义 | 段 |
