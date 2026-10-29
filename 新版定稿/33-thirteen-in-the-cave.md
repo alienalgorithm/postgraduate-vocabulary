@@ -18,7 +18,7 @@ The **multinational** **mobilisation** was a feat of **logistics**. Some 10,000 
 
 九天里，他们**下落**(whereabouts)不明。7月2日，两名英国**精英**(elite)**潜水员**(divers)**穿过**(threading through)**水下**(submerged)**通道**(passages)，到达距离洞穴的**入口**(entrance)大约4公里的一个**被淹**(inundated)洞室。13人都在那里，**挤在一起**(huddled)在一处**泥泞**(muddy)的**土堆**(mound)上，刚好**栖身**(perched)于水面之上，他们每个人都还**活着**(alive)。
 
-唯一的**出口**(exit)要穿过数**公里**(kilometres)**狭窄**(constricted)而**凶险**(treacherous)的**通道**(passages)，其中许多段只有借助**水肺**(scuba)装备才能**通行**(navigable)。**救援人员**(rescuers)开始沿途**储备**(stockpiling)氧气**钢瓶**(cylinders)。7月6日，前泰国海军海豹突击队员萨曼·古南在布放钢瓶时**失去知觉**(unconscious)，随后死亡。
+唯一的**出口**(exit)要穿过数**公里**(kilometres)**狭窄**(constricted)而**暗藏危险**(treacherous)的**通道**(passages)，其中许多段只有借助**水肺**(scuba)装备才能**通行**(navigable)。**救援人员**(rescuers)开始沿途**储备**(stockpiling)氧气**钢瓶**(cylinders)。7月6日，前泰国海军海豹突击队员萨曼·古南在布放钢瓶时**失去知觉**(unconscious)，随后死亡。
 
 7月8日，**撤离**(evacuation)开始，男孩们**分批**(batches)出洞。每人都用了**数剂**(doses)镇静药，**一动不动**(motionless)地**包裹**(wrapped)在**担架**(stretcher)里，由潜水员一个接一个传递出去，沿途有**医护人员**(medics)驻守。7月10日，最后四名**小球员**(footballers)和教练继**队友**(teammates)之后被**护送**(escorted)出洞。
 

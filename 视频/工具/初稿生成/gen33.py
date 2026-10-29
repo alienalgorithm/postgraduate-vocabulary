@@ -32,7 +32,7 @@ S=[
      "（perch：暂栖，处于高处）"],
     [[("every one of them","他们每个人"),("**alive**.","都还**活着**(alive)。")],
      "（every one of them alive：独立主格结构，\n补充说明全员的状况）"]]),
-(3,[[[("The only **exit**","唯一的**出口**(exit)"),("ran through","要穿过"),("**kilometres** of","数**公里**(kilometres)"),("**constricted**,","**狭窄**(constricted)而"),("**treacherous**","**凶险的**(treacherous)"),("**passages**,","**通道**(passages)，")],
+(3,[[[("The only **exit**","唯一的**出口**(exit)"),("ran through","要穿过"),("**kilometres** of","数**公里**(kilometres)"),("**constricted**,","**狭窄**(constricted)而"),("**treacherous**","**暗藏危险的**(treacherous)"),("**passages**,","**通道**(passages)，")],
      "（kilometres of…：数公里的……；\nconstricted, treacherous：两个形容词并列修饰 passages）"],
     [[("many of them","其中许多段"),("**navigable** only with **scuba** gear.","只有借助**水肺**(scuba)装备才能**通行**(navigable)。")],
      "（many of them navigable…：独立主格结构，them 指 passages；\nscuba：水肺，自携式水下呼吸器）"]]),
