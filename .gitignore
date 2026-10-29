@@ -6,3 +6,4 @@ notes/.regress/
 
 # ★ 成品视频改走 Git LFS 入库（2026-09-04，用户要求「最终视频都存到 GitHub」）。
 #   见 .gitattributes：reader/*.mp4 由 LFS 管，仓库本体只存指针，70 篇也扛得住。
+视频/制作记录/当前篇.txt
