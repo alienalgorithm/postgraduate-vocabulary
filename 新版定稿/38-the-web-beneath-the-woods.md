@@ -2,39 +2,43 @@
 # ZH: 林下之网
 ## 英文
 
-One of ecology's most **romantic** ideas grew out of plastic bags. In a Canadian forest, researchers **enclosed** paper birch and Douglas fir seedlings in them, then **bathed** each species in carbon dioxide **laced** with a different **tracer**. Carbon **shuttled** both ways, **apparently** via **fungi** linking the trees' roots, yet the firs ran a **slight** **surplus**, larger in deeper **shade**.
+One of **ecology**'s most **romantic** ideas **grew out of** plastic bags. In a Canadian forest, researchers **enclosed** paper birch and Douglas fir **seedlings** **in** them, then **bathed** each species in carbon dioxide **laced** with a different **tracer**. Carbon **shuttled** both ways, **apparently** via **fungi** **linking** the trees' roots, yet the firs ran a **slight** **surplus**, larger in deeper **shade**.
 
-Most **terrestrial** plants **harbour** such fungi, whose **filaments** **forage** for water and **nutrients** including nitrogen, **swapping** them for plant sugars. One fungus can **knit** plants into a shared network. The journal Nature **unveiled** the study on 7 August 1997, its cover offering a **catchy** **coinage**: the "wood-wide web".
+Most **terrestrial** plants **harbour** such **fungi**, whose **filaments** **forage for** water and **nutrients** including **nitrogen**, **swapping** them for plant sugars. One fungus can **knit** plants **into** a **shared network**. The journal Nature **unveiled** the study on 7 August 1997, its cover offering a **catchy** **coinage**: the "wood-wide web".
 
-The **metaphor** proved **irresistible**. Between 2015 and 2021, a forester's **bestseller**, an **acclaimed** novel, and an ecologist's **memoir** told readers that trees **converse**, warn one another, and, as "mother trees", **nurture** their **kin**. Yet the 1997 trees were seedlings, not **elderly** mothers.
+The **metaphor** proved **irresistible**. Between 2015 and 2021, a forester's **bestseller**, an **acclaimed** novel, and an ecologist's **memoir** told readers that trees **converse**, **warn one another**, and, as "mother trees", **nurture** their **kin**. Yet the 1997 trees were seedlings, not **elderly** mothers.
 
-In February 2023, three researchers **combed through** the field evidence. They judged it too **sparse**, **inconsistent**, or **ambiguous** to **demonstrate** that shared networks are **widespread**. In 26 field studies, networks helped and **hindered** seedlings about equally often, with **neutral** effects **predominating**. No **peer-reviewed** field study showed **mature** trees **favouring** their own offspring. **Unsupported** **assertions** in later papers had doubled over 25 years, with **citations** **skewed** towards positive results.
+In February 2023, three researchers **combed through** the field evidence. They judged it too **sparse**, **inconsistent**, or **ambiguous** to **demonstrate** that shared networks are **widespread**. In 26 field studies, networks helped and **hindered** seedlings about equally often, with **neutral** effects **predominating**. No **peer-reviewed** field study showed **mature** trees **favouring** their own **offspring**. **Unsupported** **assertions** in later papers had **doubled** over 25 years, with **citations** **skewed** **towards** **positive results**.
 
-None of this **disproves** the networks' existence. In January 2025, defenders faulted the critique's methods. The critics **concede** that carbon and nutrients can **migrate** between trees underground. It is evidence **unearthed** in real forests, not the **allure** of a family **saga**, that must settle how much the networks **convey**, and whether it matters.
+None of this **disproves** the networks' **existence**. In January 2025, **defenders** **faulted** the **critique**'s methods. The **critics** **concede** that carbon and nutrients can **migrate** between trees underground. It is evidence **unearthed** in real forests, not the **allure** of a family **saga**, that must settle how much the networks **convey**, and whether it matters.
 
 ## 中文
 
-生态学中最**浪漫**(romantic)的观念之一，萌生于塑料袋之中。研究人员在加拿大的一片森林里，把纸桦和花旗松的幼苗**罩**(enclosed)进袋里，再让两种幼苗分别**沐浴**(bathed)在**掺有**(laced)不同**示踪物**(tracer)的二氧化碳中。碳在两种树之间双向**穿梭**(shuttled)，**似乎**(apparently)是经由连接两者根系的**真菌**(fungi)；不过，花旗松最终出现了碳的**小幅**(slight)**盈余**(surplus)，而且所受**遮荫**(shade)越重，盈余越大。
+**生态学**(ecology)中最**浪漫**(romantic)的观念之一，**萌生于**(grew out of)塑料袋之中。研究人员在加拿大的一片森林里，**把**(enclosed in)纸桦和花旗松的**幼苗**(seedlings)**罩进**(enclosed in)袋**里**(enclosed in)，再让两种幼苗分别**沐浴**(bathed)在**掺有**(laced)不同**示踪物**(tracer)的二氧化碳中。碳在两种树之间双向**穿梭**(shuttled)，**似乎**(apparently)是经由**连接**(linking)两者根系的**真菌**(fungi)；不过，花旗松最终出现了碳的**小幅**(slight)**盈余**(surplus)，在更深的**遮荫**(shade)下盈余更大。
 
-大多数**陆生**(terrestrial)植物身上都**栖居着**(harbour)这类真菌，它们的**菌丝**(filaments)四处**搜寻**(forage)水分和氮等**养分**(nutrients)，再拿去**换取**(swapping)植物的糖分。单个真菌就能把多株植物**编织**(knit)进同一张共享网络。1997年8月7日，《自然》杂志**推出**(unveiled)了这项研究，当期封面还送上一个**响亮好记的**(catchy)**新造词**(coinage)——“林木万维网”（wood-wide web）。
+大多数**陆生**(terrestrial)植物身上都**包含/携带着**(harbour)这类**真菌**(fungi)，它们的**菌丝**(filaments)四处**搜寻/寻找**(forage for)水分和**氮**(nitrogen)等**养分**(nutrients)，再拿去**换取**(swapping)植物的糖分。单个真菌就能**把**(knit into)多株植物**编织进**(knit into)同一张**共享网络**(shared network)。1997年8月7日，《自然》杂志**公布/发表了**(unveiled)这项研究，当期封面还送上一个**响亮好记的**(catchy)**新造词**(coinage)——“林木万维网”（wood-wide web）。
 
-结果，这个**比喻**(metaphor)**令人难以抗拒**(irresistible)。2015年至2021年间，一位护林人的**畅销书**(bestseller)、一部**广受赞誉的**(acclaimed)小说和一位生态学家的**回忆录**(memoir)都向读者讲述，树木会**交谈**(converse)，会互相示警，还会作为“母树”**照料**(nurture)自己的**亲族**(kin)。然而，1997年实验里的树都还是幼苗，并非**年迈的**(elderly)母亲。
+结果，这个**比喻**(metaphor)**令人难以抗拒**(irresistible)。2015年至2021年间，一位护林人的**畅销书**(bestseller)、一部**广受赞誉的**(acclaimed)小说和一位生态学家的**回忆录**(memoir)都向读者讲述，树木会**交谈**(converse)，会**互相示警**(warn one another)，还会作为“母树”**哺育/养育**(nurture)自己的**亲族**(kin)。然而，1997年实验里的树都还是幼苗，并非**年迈的**(elderly)母亲。
 
-2023年2月，三位研究者**梳理**(combed through)了野外证据。他们认为，这些证据或过于**稀少**(sparse)，或**互不一致**(inconsistent)，或**含糊不清**(ambiguous)，不足以**证明**(demonstrate)共享网络**普遍存在**(widespread)。在26项野外研究中，网络对幼苗有所助益和有所**妨碍**(hindered)的情形大致一样多，而以**中性**(neutral)效应**居多**(predominating)。没有任何一项经**同行评审**(peer-reviewed)的野外研究表明，**成年**(mature)树木会**偏爱**(favouring)自己的后代。在后来的论文中，**缺乏依据的**(unsupported)**论断**(assertions)在25年间增加了一倍，**引用**(citations)也**偏向**(skewed)正面结果。
+2023年2月，三位研究者**梳理**(combed through)了野外证据。他们认为，这些证据或过于**稀少**(sparse)，或**互不一致**(inconsistent)，或**含糊不清**(ambiguous)，不足以**证明**(demonstrate)共享网络**普遍存在**(widespread)。在26项野外研究中，网络帮助和**阻碍**(hindered)幼苗的频率大致相同，并且**中性的**(neutral)效应**占据大多数**(predominating)。没有任何一项经**同行评审**(peer-reviewed)的野外研究表明，**成年**(mature)树木会**偏爱**(favouring)自己的**后代**(offspring)。在后来的论文中，**缺乏依据的**(unsupported)**论断/断言**(assertions)在25年间**增加了一倍/翻了一倍**(doubled)，**引用**(citations)也**偏向**(skewed towards)**于**(skewed towards)**正面结果**(positive results)。
 
-这一切都不能**否定**(disproves)这些网络的存在。2025年1月，共享网络说的拥护者指摘了这篇批评文章的方法。批评者也**承认**(concede)，碳和养分可以经由地下在树与树之间**迁移**(migrate)。网络究竟**输送**(convey)了多少、这又是否要紧，必须由在真实森林中**发掘**(unearthed)出的证据来裁定，而不能凭一部家族**传奇**(saga)的**魅力**(allure)来决定。
+这一切都不能**否定**(disproves)这些网络的**存在**(existence)。2025年1月，共享网络说的**拥护者**(defenders)**挑出了**(faulted)这篇**批评文章**(critique)方法上的**问题**(faulted)。**批评者**(critics)也**承认**(concede)，碳和养分可以经由地下在树与树之间**迁移**(migrate)。网络究竟**输送**(convey)了多少、这又是否要紧，必须由在真实森林中**发掘**(unearthed)出的证据来裁定，而不能凭一部家族**传奇**(saga)的**魅力**(allure)来决定。
 
 ## 速查表
 | 词 | 释义 | 段 |
 |---|---|---|
+| ecology | n. 生态学（ecology and evolution；forest ecology 森林生态学）；生态，生态系统（the ecology of the region）；ecological adj. 生态的；ecologist n. 生态学家 | 1 |
 | romantic | adj. 富于浪漫色彩的，理想化的（a romantic idea/notion/view of nature）；爱情的（a romantic relationship）；不切实际的，空想的 | 1 |
+| grew out of | v. (grow out of) 由……产生，源于（the idea grew out of an experiment；本文指这个观念萌生于塑料袋实验）；（孩子）长大而穿不下（grow out of one's clothes）；长大后改掉（习惯）（grow out of a habit） | 1 |
 | enclosed | v. (enclose) 把……罩住，封入，围起来（enclose sth in a bag/box；enclose a garden with a wall）；随信附上（please find enclosed…） | 1 |
 | bathed | v. (bathe) 使沐浴，使笼罩（be bathed in light/sunshine；bathe sth in a gas/liquid，本文指让幼苗笼罩在二氧化碳中）；给……洗澡；（英）游泳 | 1 |
 | laced | v. (lace) （be laced with）掺有，掺入（少量物质）（coffee laced with brandy；water laced with a tracer）；（话语等）夹杂（a speech laced with humour）；n. 鞋带；花边 | 1 |
+| seedlings | n. (seedling) 幼苗，秧苗（tree seedlings；plant seedlings in pots）；本文指纸桦和花旗松的幼苗 | 1 |
 | tracer | n. 示踪物，示踪剂（a radioactive/chemical tracer；use sth as a tracer，本文指掺进二氧化碳的标记碳，两种幼苗各用一种）；曳光弹 | 1 |
 | shuttled | v. (shuttle) 往返穿梭，来回运送（shuttle between A and B；shuttle back and forth；shuttle passengers to the airport）；n. 往返班车或班机；航天飞机（space shuttle） | 1 |
 | apparently | adv. 看来，似乎，据说（依据现有迹象推断，未经证实；本文指碳经由真菌转移只是推断）；注意：表推断时不宜译作“显然” | 1 |
 | fungi | n. (fungus 的复数) 真菌（mycorrhizal fungi 菌根真菌；fungi and bacteria）；fungal adj. 真菌的 | 1 |
+| linking | v. (link) 连接，连通（link A to/with B；fungi linking the roots，本文指真菌把两种树的根连在一起）；n. 联系，关联（a link between A and B） | 1 |
 | slight | adj. 小幅的，轻微的（a slight gain/increase/difference；not in the slightest 一点也不）；纤细的；v./n. 怠慢，轻视 | 1 |
 | surplus | n. 盈余，剩余额，过剩（run a surplus 出现盈余；a trade/budget surplus 贸易顺差/预算盈余；本文指花旗松收到的碳多于送出的碳）；adj. 过剩的（surplus food） | 1 |
 | shade | n. 遮荫，阴凉处，树荫（in the shade；in deep shade 在浓荫下；provide shade）；色度；细微差别（shades of meaning）；v. 遮蔽，遮挡（光线） | 1 |
@@ -43,8 +47,10 @@ None of this **disproves** the networks' existence. In January 2025, defenders f
 | filaments | n. (filament) （真菌的）菌丝（fungal filaments）；细丝；（灯泡的）灯丝 | 2 |
 | forage | v. 搜寻（食物、养分）（forage for food/nutrients/water）；n. 草料，饲料 | 2 |
 | nutrients | n. (nutrient) 养分，营养物（absorb nutrients；nutrients such as nitrogen and phosphorus） | 2 |
+| nitrogen | n. 氮，氮气（化学元素 N；nitrogen and phosphorus 氮和磷；nitrogen fertiliser 氮肥） | 2 |
 | swapping | v. (swap) 用……换取，交换（swap A for B 用 A 换 B；swap places 交换位置）；n. 交换 | 2 |
 | knit | v. 编织（knit a sweater）；（使）紧密联结（knit A and B together；knit sth into a whole/network）；（断骨）愈合 | 2 |
+| shared network | n. 共享网络（a shared network；本文指一个真菌把多株植物连成的地下网络，也称 common mycorrhizal network 共享菌根网络） | 2 |
 | unveiled | v. (unveil) 推出，公布，首次展示（unveil a plan/study/new model）；为……揭幕（unveil a statue） | 2 |
 | catchy | adj. 响亮好记的，朗朗上口的（a catchy phrase/tune/slogan/title） | 2 |
 | coinage | n. 新造的词语，新词（a recent coinage，本文指 wood-wide web 一词）；造新词；硬币，铸币 | 2 |
@@ -54,6 +60,7 @@ None of this **disproves** the networks' existence. In January 2025, defenders f
 | acclaimed | adj. 广受赞誉的（a critically acclaimed novel/film）；v. (acclaim) 称赞；n. 赞誉（win critical acclaim） | 3 |
 | memoir | n. 回忆录（常用复数 memoirs；write/publish a memoir）；传记 | 3 |
 | converse | v. 交谈，谈话（converse with sb about sth；converse in English）；adj. 相反的，反面的（the converse view）；n. 相反的事物（the converse is true 反之亦然）；动词重音在后，形容词、名词重音在前 | 3 |
+| warn one another | v. 互相示警，互相发出警告（warn sb of/about sth；warn sb to do sth；本文指书里说树会互相报警） | 3 |
 | nurture | v. 养育，照料，呵护（成长中的人或物）（nurture children/the young/seedlings）；培养，扶植（nurture talent/an idea）；n. 养育（nature and nurture 先天与后天） | 3 |
 | kin | n. 亲族，亲属（统称，作复数；next of kin 近亲；kin selection 亲缘选择）；本文指树木自己的后代与近亲 | 3 |
 | elderly | adj. 年迈的，上了年纪的（elderly people/parents，比 old 委婉）；the elderly 老年人 | 3 |
@@ -69,11 +76,19 @@ None of this **disproves** the networks' existence. In January 2025, defenders f
 | peer-reviewed | adj. 经同行评审的（a peer-reviewed journal/study/paper）；peer review n. 同行评审 | 4 |
 | mature | adj. 成年的，成熟的（mature trees/adults；a mature forest）；（人）成熟稳重的；v. 成熟；（保单等）到期 | 4 |
 | favouring | v. (favour) 偏爱，优待（favour one's own offspring；favour sb over sb）；支持，赞成（favour a plan）；有利于（conditions favour growth）；美式 favor | 4 |
+| offspring | n. 后代，子女，（动植物的）幼体（单复数同形；produce offspring；their own offspring 它们自己的后代） | 4 |
 | unsupported | adj. 缺乏依据的，无证据支持的（unsupported claims/assertions/statements）；无支撑的 | 4 |
 | assertions | n. (assertion) 论断，断言，主张（make an assertion；an unsupported/bold assertion）；assert v. 断言 | 4 |
+| doubled | v. (double) 增加一倍，翻一番（double in size/number；have doubled over 25 years 在25年间增加了一倍）；adj. 两倍的，双的 | 4 |
 | citations | n. (citation) 引用，引文（citation bias 引用偏差；cite v. 引用）；（军人等的）嘉奖令；传票 | 4 |
 | skewed | adj. 偏向……的，有偏差的（skewed towards/toward sth；skewed results/data）；v. (skew) 使偏斜，歪曲 | 4 |
+| positive results | n. 正面结果，阳性结果（研究中显示有作用、有效果的结果；positive results 与 negative/neutral results 相对；本文指显示共享网络有益的研究结果） | 4 |
 | disproves | v. (disprove) 否定，证明……不成立，驳倒（disprove a theory/claim/hypothesis）；反义 prove | 5 |
+| existence | n. 存在（the existence of sth；prove/disprove the existence of sth 证明/否定……的存在；come into existence 开始存在） | 5 |
+| defenders | n. (defender) 拥护者，捍卫者，辩护者（a defender of the theory 这一理论的拥护者）；（体育）后卫；defend v. 为……辩护 | 5 |
+| faulted | v. (fault) 挑出……的问题，指摘（fault sb/sth for sth；fault the methods 挑出方法上的问题）；n. 缺陷，故障；过错 | 5 |
+| critique | n. 批评文章，评论（a critique of sth 对……的评论；write/publish a critique）；v. 评论，评判；本文指2023年那篇批评共享网络说的综述 | 5 |
+| critics | n. (critic) 批评者，反对者（critics of the theory 这一理论的批评者）；评论家（a film critic）；本文指2023年综述的三位作者 | 5 |
 | concede | v. （勉强）承认（concede that…；concede a point 承认某一点有理）；让步；认输（concede defeat） | 5 |
 | migrate | v. （物质）迁移，转移（chemicals migrate into soil，本文指碳和养分在树间移动）；（动物）迁徙（birds migrate south）；（人）移居；（数据、系统）迁移 | 5 |
 | unearthed | v. (unearth) 发掘，挖出（unearth evidence/fossils）；发现，揭露（unearth the truth/a secret） | 5 |

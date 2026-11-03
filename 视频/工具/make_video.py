@@ -89,6 +89,7 @@ else: PRON_WORDS={'Inky':'ˈɪŋki'}; PRON_EXTRA={}
 _CTX_PATH=next((p_ for p_ in (os.path.join(os.path.dirname(_cand),'按语境读音.json'),'/home/user/postgraduate-vocabulary/视频/工具/发音词典/按语境读音.json') if os.path.exists(p_)),None)
 PRON_CTX=json.load(open(_CTX_PATH)) if _CTX_PATH else {}
 def _ctx_hit(text): return any(re.search(r"(?<![A-Za-z])"+re.escape(c_)+r"(?![A-Za-z])",text,flags=re.I) for c_ in PRON_CTX)
+_wf=lambda w_: 0 if any(ch_.isupper() for ch_ in w_[1:]) else re.I   # K148（43 NeXT 误伤 10/16/31/40 的普通 next）：读音改正的词中间有大写字母（NeXT、McArthur、BASF、Y2K）就按大小写精确匹配，其余照旧不分大小写
 def _stress_free_re(ph):
     """不管重音号在哪（音标里每个符号前后都可能有，McArthur 的重音号在空格之后），都能对上这串音标"""
     return ''.join(r'\s*' if ch==' ' else '[ˈˌ]?'+re.escape(ch) for ch in re.sub('[ˈˌ]','',ph))+'[ˈˌ]?'
@@ -102,7 +103,7 @@ def _compound_of(text,m_):
 def phonemes_of(text):
     ph=KT.tokenizer.phonemize(text,'en-us')
     for w_,good in PRON_WORDS.items():
-        n_=len(re.findall(r"(?<![A-Za-z])"+re.escape(w_)+r"(?![A-Za-z])",text,flags=re.I))
+        n_=len(re.findall(r"(?<![A-Za-z])"+re.escape(w_)+r"(?![A-Za-z])",text,flags=_wf(w_)))
         if not n_: continue
         bad=re.sub(r'[,;:.!?]','',KT.tokenizer.phonemize(w_,'en-us')).strip(); PRON_FIX[bad]=good
         if PRON_EXTRA.get(w_):                                          # 连读时另有错法的词：每种错法都换成正确读音，换完这个词每一处都必须是正确读音
@@ -115,7 +116,7 @@ def phonemes_of(text):
         if re.sub('[ˈˌ]','',bad)==re.sub('[ˈˌ]','',good) and bad==good: continue
         # 连字符复合词（16 Haber-Bosch）：注音程序把整个复合词注成一串（hˈeɪbɚbˈɑːʃ），换不到里面的单词；复合词本身登记在表里的由它自己那一条换，这里不算
         _keys={k_.lower() for k_ in PRON_WORDS}
-        occ_=[m_ for m_ in re.finditer(r"(?<![A-Za-z])"+re.escape(w_)+r"(?![A-Za-z])",text,flags=re.I) if _compound_of(text,m_) in ('',w_.lower()) or _compound_of(text,m_) not in _keys]
+        occ_=[m_ for m_ in re.finditer(r"(?<![A-Za-z])"+re.escape(w_)+r"(?![A-Za-z])",text,flags=_wf(w_)) if _compound_of(text,m_) in ('',w_.lower()) or _compound_of(text,m_) not in _keys]
         n_=len(occ_); pos_=[bool(re.match(r"['’]s(?![A-Za-z])",text[m_.end():])) for m_ in occ_]; i_=[0]
         def _sub(m_):
             # 所有格：注音程序对不认识的全大写词会把 's 吞掉（16 BASF's、NASA's 注成 bˈæsf、nˈæsɐ）；原文是所有格的，补回 /s/ 或 /z/
@@ -130,7 +131,9 @@ def phonemes_of(text):
         w_=v_['词']; m_=len(re.findall(r"(?<![A-Za-z])"+re.escape(w_)+r"(?![A-Za-z])",text,flags=re.I))
         if m_!=n_: raise SystemExit(f'【停止】按语境读音（A24）：{w_} 句中出现 {m_} 次，语境“{c_}”只有 {n_} 处，分不清换哪个：{text[:60]}')
         B_="(?<![^\\s,;:.!?])"; E_="(?=[\\s,;:.!?]|$)"; bad=re.sub(r'[,;:.!?]','',KT.tokenizer.phonemize(w_,'en-us')).strip()
-        ok_=len(re.findall(B_+_stress_free_re(v_['读音'])+E_,ph)); ph,cnt=re.subn(B_+_stress_free_re(bad)+E_,v_['读音'],ph)
+        sf_=lambda x_:re.sub('[ˈˌ]','',x_); cands_=[bad]+[g_ for k_,g_ in PRON_WORDS.items() if k_.lower()==w_.lower() and sf_(g_)!=sf_(bad)]   # K147（19 S9 Dutch commerce：全局读音改正 Commerce 后来改成卷舌，用户定 19 保持原读法）：这个词在读音改正表里时，句子里已是改正后的读音，语境读音也要能把它换掉
+        ok_=0 if any(sf_(c2_)==sf_(v_['读音']) for c2_ in cands_) else len(re.findall(B_+_stress_free_re(v_['读音'])+E_,ph)); cnt=0   # K145（39 S1 Y2K 只改重音）：只差重音号时同一处会既算“换了”又算“原本就对”，只差重音时一律按换算
+        for c2_ in cands_: ph,k2_=re.subn(B_+_stress_free_re(c2_)+E_,v_['读音'],ph); cnt+=k2_
         if cnt+ok_!=n_: raise SystemExit(f'【停止】按语境读音没有全部换到（A24）：{w_} 应换 {n_} 处，换了 {cnt} 处、原本就对 {ok_} 处：{text[:60]}')
     return ph
 # G57（2026-10-26 27 S12 “fewer nesting birds, and fewer species”）：配音把 birds 的 /z/ 直接连进 and，逗号处一点静音都没有（语速 0.88–1.0 都一样），
@@ -699,6 +702,13 @@ def 句增益(d,no,si,sent,pieces,gaps,clips,tmap,a):
         for k_,g_ in _pgn.items():
             if not (str(k_).isdigit() and 1<=int(k_)<=len(pieces)) or abs(float(g_))>6: raise SystemExit(f'【停止】分段增益dB 写法不对（段号按 , ; : 从 1 数，共 {len(pieces)} 段；增益 ±6 dB 以内）：S{si+1} {k_}:{g_}')
             clips[2*(int(k_)-1)]=clips[2*(int(k_)-1)]*np.float32(10**(float(g_)/20))
+        a=np.concatenate(clips)
+    _rgn=d.get('段内渐变dB',{}).get(f'S{si+1}')   # 2026-11-03 段内渐变（用户听 37 S13：“前后大小不太一致”，to avoid frightening 偏响、pharmacists or the public 偏轻，同一段内前响后轻）：段内从 g0 线性渐变到 g1 dB
+    if _rgn:
+        if sent in PGRAFT: raise SystemExit(f'【停止】段内渐变dB 不能和 停顿处除阻 用在同一句：S{si+1}')
+        for k_,gg_ in _rgn.items():
+            if not (str(k_).isdigit() and 1<=int(k_)<=len(pieces)) or len(gg_)!=2 or max(abs(float(x)) for x in gg_)>6: raise SystemExit(f'【停止】段内渐变dB 写法不对（{{"段号": [开头dB, 结尾dB]}}，±6 dB 以内）：S{si+1} {k_}:{gg_}')
+            c_=clips[2*(int(k_)-1)]; clips[2*(int(k_)-1)]=(c_*10**(np.linspace(float(gg_[0]),float(gg_[1]),len(c_))/20)).astype(np.float32)
         a=np.concatenate(clips)
     _sg=float(d.get('句子增益dB',{}).get(f'S{si+1}',0))   # 2026-10-21 用户同意的例外：19 S5 短句比全片响 2.0 LU，只这一句整体调轻（≤1 dB，不改音色）
     if _sg:
