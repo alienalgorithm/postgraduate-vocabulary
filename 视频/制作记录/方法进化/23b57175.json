@@ -2,23 +2,36 @@
  "会话": "23b57175",
  "篇": "40",
  "角色": "",
- "更新": "2026-11-03T08:40",
- "等效": 1.92,
- "调用": 80,
- "平均上下文": 189,
- "最后上下文": 230,
+ "更新": "2026-11-03T10:00",
+ "等效": 4.63,
+ "调用": 156,
+ "平均上下文": 246,
+ "最后上下文": 356,
  "按步骤": {
-  "踩坑核查.py": 0.6,
-  "逐段看声音.py": 0.47,
+  "逐段看声音.py": 1.02,
+  "踩坑核查.py": 0.95,
+  "删除段确认.py": 0.78,
+  "纯人声核对.py": 0.4,
+  "句内响度.py": 0.39,
   "check_all.py": 0.36,
+  "草稿声音.sh": 0.2,
   "读音核对.py": 0.18,
   "方法进化表.py": 0.12,
   "开工前": 0.07,
   "写入.py": 0.05,
   "gen40.py": 0.04,
+  "audit.py": 0.03,
   "开工记录.py": 0.03
  },
  "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#-f#-#ddc-#d#-#aaf#c/scrat",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#-f#-#ddc-#d#-#aaf#c/scrat",
+   6
+  ],
   [
    "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#-f#-#ddc-#d#-#aaf#c/scrat",
    2
