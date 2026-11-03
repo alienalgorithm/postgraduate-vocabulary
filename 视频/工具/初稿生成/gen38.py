@@ -1,0 +1,142 @@
+import json,re,glob,os
+# 第38篇初稿（逐词对照）：S = [(段, [chunk, ...])]，chunk = ([(英文组, 中文组), ...], 可选 note)
+# 2026-11-03 重点词中文沿用文章定稿（铁律），只按《翻译风格》调格式；三项并列加牛津逗号（T18）；不用破折号（T36）。
+S=[
+(1,[[[("One of ecology's","生态学中"),("most **romantic**","最**浪漫的**(romantic)"),("ideas","观念之一，"),("grew out of","萌生于"),("plastic","塑料"),("bags.","袋之中。")],
+     "（One of…：……之一；\ngrow out of…：从……中产生）"]]),
+(1,[[[("In a Canadian forest,","在加拿大的一片森林里，"),("researchers","研究人员"),("**enclosed** paper birch and Douglas fir seedlings in them,","把纸桦和花旗松的幼苗**罩**(enclosed)进袋里，")],
+     "（enclose A in B：把 A 罩进 B 里；them：指上句的 plastic bags）"],
+    [[("then","再"),("**bathed** each species","让两种幼苗分别**沐浴**(bathed)"),("in carbon dioxide **laced with**","在**掺有**(laced with)"),("a different","不同"),("**tracer**.","**示踪物**(tracer)的二氧化碳中。")],
+     "（each species：指纸桦和花旗松两种幼苗；\nlaced with…：过去分词短语作后置定语，修饰 carbon dioxide）"]]),
+(1,[[[("Carbon","碳"),("**shuttled** both ways,","在两种树之间双向**穿梭**(shuttled)，")],
+     "（both ways：双向，来回）"],
+    [[("**apparently**","**似乎**(apparently)是"),("via","经由"),("**fungi** linking the trees' roots,","连接两者根系的**真菌**(fungi)；")],
+     "（linking the trees' roots：现在分词短语作后置定语，修饰 fungi）"],
+    [[("yet","不过，"),("the firs","花旗松"),("ran a","最终出现了碳的"),("**slight**","**小幅**(slight)"),("**surplus**,","**盈余**(surplus)，")],
+     "（run a surplus：出现盈余）"],
+    [[("larger in deeper **shade**.","而且所受**遮荫**(shade)越重，盈余越大。")],
+     "（larger in deeper shade：省略结构，\n即 the surplus was larger in deeper shade）"]]),
+(2,[[[("Most","大多数"),("**terrestrial**","**陆生**(terrestrial)"),("plants","植物身上都"),("**harbour**","**栖居着**(harbour)"),("such fungi,","这类真菌，")],
+     "（harbour：英式拼写，美式 harbor）"],
+    [[("whose **filaments**","它们的**菌丝**(filaments)"),("**forage** for","四处**搜寻**(forage)"),("water","水分"),("and","和"),("**nutrients** including nitrogen,","氮等**养分**(nutrients)，")],
+     "（whose…：非限制性定语从句，修饰 such fungi；\nincluding nitrogen：介词短语，修饰 nutrients）"],
+    [[("**swapping** them for","再拿去**换取**(swapping)"),("plant","植物的"),("sugars.","糖分。")],
+     "（swapping…：现在分词短语作伴随状语；\nswap A for B：用 A 换 B）"]]),
+(2,[[[("One fungus","单个真菌"),("can","就能"),("**knit** plants","把多株植物**编织**(knit)"),("into","进"),("a shared","同一张共享"),("network.","网络。")],
+     "（knit A into B：把 A 编织进 B）"]]),
+(2,[[[("The journal Nature","《自然》杂志"),("**unveiled** the study on 7 August 1997,","于1997年8月7日**推出了**(unveiled)这项研究，")],
+     "（The journal Nature：杂志名 Nature，即《自然》）"],
+    [[("its cover","当期封面还"),("offering a","送上一个"),("**catchy**","**响亮好记的**(catchy)"),("**coinage**:","**新造词**(coinage)："),("the \"wood-wide web\".","“林木万维网”（wood-wide web）。")],
+     "（its cover offering…：独立主格结构，补充说明当期封面；\nwood-wide web：仿 world wide web（万维网）造的词）"]]),
+(3,[[[("The **metaphor**","结果，这个**比喻**(metaphor)"),("proved **irresistible**.","**令人难以抗拒**(irresistible)。")],
+     "（prove＋形容词：结果是……，事实证明……）"]]),
+(3,[[[("Between 2015 and 2021,","2015年至2021年间，"),("a forester's **bestseller**,","一位护林人的**畅销书**(bestseller)、"),("an **acclaimed** novel,","一部**广受赞誉的**(acclaimed)小说"),("and an ecologist's **memoir**","和一位生态学家的**回忆录**(memoir)")],
+     "（a forester's bestseller, an acclaimed novel, and an ecologist's memoir：\n三个名词短语并列作主语）"],
+    [[("told readers that","都向读者讲述，"),("trees","树木会"),("**converse**,","**交谈**(converse)，"),("warn one another,","会互相示警，"),("and,","还会"),("as \"mother trees\",","作为“母树”"),("**nurture**","**照料**(nurture)"),("their","自己的"),("**kin**.","**亲族**(kin)。")],
+     "（that 引导宾语从句；converse, warn, and nurture：三个谓语动词并列；\nas \"mother trees\"：作为“母树”，插入语）"]]),
+(3,[[[("Yet","然而，"),("the 1997 trees","1997年实验里的树"),("were seedlings,","都还是幼苗，"),("not **elderly** mothers.","并非**年迈的**(elderly)母亲。")],
+     "（the 1997 trees：指1997年那项实验里的树）"]]),
+(4,[[[("In February 2023,","2023年2月，"),("three researchers","三位研究者"),("**combed through**","**梳理了**(combed through)"),("the field","野外"),("evidence.","证据。")],
+     "（comb through…：仔细梳理，逐一查看）"]]),
+(4,[[[("They judged it","他们认为，这些证据"),("too **sparse**,","或过于**稀少**(sparse)，"),("**inconsistent**,","或**互不一致**(inconsistent)，"),("or **ambiguous**","或**含糊不清**(ambiguous)，")],
+     "（judge A (to be) B：认为 A 是 B；it：指 the field evidence）"],
+    [[("to **demonstrate**","不足以**证明**(demonstrate)"),("that shared","共享"),("networks","网络"),("are **widespread**.","**普遍存在**(widespread)。")],
+     "（too…to…：太……而不能……；that 引导宾语从句）"]]),
+(4,[[[("In 26","在26项"),("field","野外"),("studies,","研究中，"),("networks","网络"),("helped and **hindered** seedlings","对幼苗有所助益和有所**妨碍**(hindered)的情形"),("about","大致"),("equally","一样"),("often,","多，")],
+     "（about equally often：次数大致一样多）"],
+    [[("with","而以"),("**neutral**","**中性**(neutral)"),("effects","效应"),("**predominating**.","**居多**(predominating)。")],
+     "（with＋名词＋现在分词：with 复合结构作伴随状语）"]]),
+(4,[[[("No","没有任何一项经"),("**peer-reviewed**","**同行评审的**(peer-reviewed)"),("field","野外"),("study","研究"),("showed","表明，"),("**mature** trees","**成年**(mature)树木"),("**favouring**","会**偏爱**(favouring)"),("their own","自己的"),("offspring.","后代。")],
+     "（show A doing：表明 A 在做某事；\nfavouring：英式拼写，美式 favoring）"]]),
+(4,[[[("**Unsupported**","在后来的论文中，**缺乏依据的**(Unsupported)"),("**assertions** in later papers","**论断**(assertions)"),("had doubled over 25 years,","在25年间增加了一倍，")],
+     "（in later papers：介词短语作后置定语，修饰 assertions；\nhad doubled：过去完成时）"],
+    [[("with **citations**","**引用**(citations)也"),("**skewed** towards","**偏向**(skewed)"),("positive","正面"),("results.","结果。")],
+     "（with＋名词＋过去分词：with 复合结构作伴随状语；\nskewed towards…：偏向……）"]]),
+(5,[[[("None of this","这一切都不能"),("**disproves**","**否定**(disproves)"),("the networks'","这些网络的"),("existence.","存在。")],
+     "（None of this…：这一切都不……，全部否定）"]]),
+(5,[[[("In January 2025,","2025年1月，"),("defenders","共享网络说的拥护者"),("faulted","指摘了"),("the critique's","这篇批评文章的"),("methods.","方法。")],
+     "（defenders：指为共享网络之说辩护的研究者；\nfault：指摘，挑……的毛病；\nthe critique：指2023年的那篇批评文章）"]]),
+(5,[[[("The critics","批评者也"),("**concede** that","**承认**(concede)，"),("carbon","碳"),("and","和"),("nutrients","养分"),("can","可以"),("**migrate** between trees underground.","经由地下在树与树之间**迁移**(migrate)。")],
+     "（that 引导宾语从句；underground：副词，在地下）"]]),
+(5,[[[("It is","必须由"),("evidence **unearthed** in real forests,","在真实森林中**发掘**(unearthed)出的证据，"),("not","而不能凭"),("the **allure** of a family **saga**,","一部家族**传奇**(saga)的**魅力**(allure)，")],
+     "（It is…that…：强调句，强调 evidence…；\nunearthed in real forests：过去分词短语作后置定语）"],
+    [[("that must settle","来裁定"),("how much the networks **convey**,","网络究竟**输送了**(convey)多少、"),("and whether it","这又是否"),("matters.","要紧。")],
+     "（how much… 和 whether…：两个宾语从句并列，作 settle 的宾语）\n"
+     "（简述：1997年，研究人员在加拿大的森林里把纸桦和花旗松的幼苗罩进塑料袋，\n"
+     "用不同示踪物追踪碳，发现碳似乎经由真菌在两种树之间双向穿梭。\n"
+     "《自然》封面称之为“林木万维网”。2015年至2021年间，\n"
+     "畅销书、小说和回忆录把树木讲成会交谈、会照料亲族的“母树”。\n"
+     "2023年2月，三位研究者梳理野外证据，认为证据不足以证明共享网络普遍存在。\n"
+     "2025年1月，拥护者指摘其方法；批评者也承认碳和养分能在树间迁移。\n"
+     "网络输送多少、是否要紧，要靠真实森林里的证据来裁定。）"]]),
+]
+CONF={
+"合组":{
+ "S2 enclosed paper birch and Douglas fir seedlings in them":"对齐不了：enclose A in B 中文用把字句“把 A 罩进 B 里”，宾语 A 必须放到动词“罩”前面，拆开语序就乱；them 指上句的塑料袋，中文“袋”",
+ "S2 bathed each species":"对齐不了：bathe A in B 中文“让 A 沐浴在 B 中”，使役句宾语“两种幼苗”必须放到“沐浴”前面；each 化成“分别”",
+ "S2 in carbon dioxide laced with":"对齐不了：laced with… 是后置定语修饰 carbon dioxide，中文“在掺有不同示踪物的二氧化碳中”定语必须提前，“二氧化碳”落在最后一组",
+ "S3 shuttled both ways":"对齐不了：both ways 是方式状语，中文“在两种树之间双向穿梭”必须放到动词前",
+ "S3 fungi linking the trees' roots":"对齐不了：linking the trees' roots 是现在分词作后置定语修饰 fungi，中文“连接两者根系的真菌”定语必须提前",
+ "S3 larger in deeper shade":"对齐不了：省略结构（the surplus was larger in deeper shade），中文用“遮荫越重，盈余越大”的越……越……句式，比较的两头必须换序",
+ "S4 nutrients including nitrogen":"对齐不了：including nitrogen 后置修饰 nutrients，中文“氮等养分”必须提前",
+ "S6 the \"wood-wide web\"":"对齐不了：wood-wide web 是一个新造术语，整体译“林木万维网”，括号保留英文（文章定稿），拆开没意思",
+ "S8 told readers that":"对齐不了：tell sb that… 中文“向读者讲述”，间接宾语必须放到动词前",
+ "S8 warn one another":"对齐不了：warn one another 中文“互相示警”，one another 必须放到动词前",
+ "S8 as \"mother trees\"":"对齐不了：mother trees 是一个带引号的说法，整体译“母树”（文章定稿），拆开引号就断",
+ "S12 helped and hindered seedlings":"对齐不了：help and hinder A 中文“对 A 有所助益和有所妨碍”，宾语必须放到动词前",
+ "S14 assertions in later papers":"对齐不了：in later papers 后置定语修饰 assertions，中文“在后来的论文中”提到句首（放在前一组），这一组只剩“论断”",
+ "S14 had doubled over 25 years":"对齐不了：over 25 years 是时间状语，中文“在25年间增加了一倍”时间必须放到动词前",
+ "S17 migrate between trees underground":"对齐不了：between trees、underground 都是地点状语，中文“经由地下在树与树之间迁移”必须放到动词前",
+ "S18 evidence unearthed in real forests":"对齐不了：unearthed in real forests 是过去分词作后置定语修饰 evidence，中文“在真实森林中发掘出的证据”定语必须提前"},
+"对齐":{
+ "S2-1 enclosed paper birch and Dougl":"把字句：enclose A in B 中文“把 A 罩进 B 里”，宾语必须放到动词前",
+ "S2-2 in carbon dioxide laced with":"laced with… 后置定语修饰 carbon dioxide，中文定语必须提前",
+ "S3-2 fungi linking the trees' roots":"linking… 现在分词后置定语，中文“连接两者根系的真菌”定语必须提前",
+ "S6-1 unveiled the study on 7 August":"on 7 August 1997 是时间状语，中文“于1997年8月7日推出了这项研究”时间必须放到动词前",
+ "S14-1 had doubled over 25 years,":"over 25 years 是时间状语，中文“在25年间增加了一倍”时间必须放到动词前",
+ "S18-1 evidence unearthed in real for":"unearthed… 过去分词后置定语，中文“在真实森林中发掘出的证据”定语必须提前",
+ "S18-1 the allure of a family saga,":"the allure of A 中文“A 的魅力”，of 结构语序必须倒过来",
+ "S18-2 how much the networks convey,":"how much 宾语从句，中文“网络究竟输送了多少”疑问词按中文习惯放到动词后"},
+"牛津逗号":{"S2 In a Canadian forest, researchers enclosed paper birch and":"不是三项并列：and 只连接 paper birch 和 Douglas fir 两种树",
+ "S12 In 26 field studies, networks helped and":"不是三项并列：and 只连接 helped 和 hindered 两个动词"},
+"方向":{"S14-1 later→论断":"later 在 in later papers 里，中文“在后来的论文中”因后置定语倒序提到前一组句首，“后来”方向一致"},
+"中文意思":{"S2 enclosed":"“把”是把字句的标记，不属于 enclose 的意思；enclose 本文中文只有“罩（进）”一处",
+ "S4 swapping":"swap A for B 本文中文“拿去换取”，“换取”一处就是全部意思，没有被隔开",
+ "S14 skewed":"本文义项“偏向”，中文“偏向正面结果”只有一处，没有“的”的另一半"},
+"短语":{
+ "S2 enclosed … in":"不是搭配：in them 引出罩进去的地方（塑料袋），enclose 单独就是“罩住、封入”（同 34 bundled … with 的判法）",
+ "S2 bathed … in":"不是搭配：in carbon dioxide 引出沐浴的介质，bathe 单独就是“使沐浴、使笼罩”",
+ "S2 bathed … with":"不是搭配：with 属于 laced with（已整体标），和 bathed 无关",
+ "S4 harbour … for":"不是搭配：for 属于 forage for water，和 harbour 无关",
+ "S4 forage … for":"不是搭配：forage 单独就是“搜寻（食物、养分）”，for 只引出搜寻的对象（同 34 fondness … for 的判法）",
+ "S4 swapping … for":"不是搭配：swap A for B 里 for 引出换来的东西（植物的糖分），swap 单独就是“交换”（同 34 bundled … with 的判法）",
+ "S5 knit … into":"不是搭配：into a shared network 引出编织进去的地方，knit 单独就是“编织、使联结”",
+ "S6 unveiled … on":"不是搭配：on 7 August 1997 是时间状语，和 unveiled 无关",
+ "S12 hindered … with":"不是搭配：with 属于后面的 with 复合结构（with neutral effects predominating），和 hindered 无关",
+ "S14 with … citations":"不是搭配：with citations skewed… 是 with 复合结构（with＋名词＋过去分词），不是 with＋名词的习语",
+ "S17 concede that":"不是搭配：concede 本文就是速查表第一个意思“（勉强）承认”，that 只引导宾语从句",
+ "S18 unearthed … in":"不是搭配：in real forests 是地点状语（在真实森林中），unearth 单独就是“发掘”",
+ "S18 unearthed … of":"不是搭配：of 属于 the allure of a family saga，和 unearthed 无关",
+ "S18 allure … of":"不是搭配：the allure of A 里 of 只引出魅力的来源，allure 单独就是“魅力”（同 36 advent … of 的判法）"},
+"停顿位置":{
+ "S3 ways, / apparently @1.840":"2026-11-03 逐 2.5 ms 看声音实测（S3 w）：ways 的 /z/ 到 1.8325 收尾（-55 dB、重心 4.2 kHz），1.835–1.845 降到 -57～-61 dB，1.840 是两词之间最低处 -61.2 dB，1.8475 起 apparently 的 ɐ（-28.6→-13.5 dB）；插在这里不切前后词（A42）",
+ "S8 another, / and, @11.950":"2026-11-03 逐 2.5 ms 看声音实测（S8 w）：another 的 ɚ 到 11.93 收尾（-49 dB），11.94 降到 -57.6 dB，11.95–12.28 是 -60～-74 dB 的静音，12.29 起 and 的元音（-40.8→-11 dB）；删静音 11.950–12.275 全在静音里，不切前后词（A42）",
+ "S8 and, / as @12.510":"2026-11-03 逐 2.5 ms 看声音实测（S8 w）：and 的 /d/ 在 12.495–12.5075 衰减（-26→-49 dB），12.51–12.5175 是 -50～-52.5 dB 的低谷，12.5125 最低 -52.5 dB，12.52 起 as 的 /æ/（-29→-17.8 dB）；12.510 在低谷里，插在这里不切前后词（A42）",
+ "S8 trees\", / nurture @13.600":"2026-11-03 逐 2.5 ms 看声音实测（S8 w）：trees 的 /z/ 到 13.5775 收尾（-38.8 dB、重心 4.4 kHz），13.5875–13.6075 是 -54～-55 dB 的低谷，13.6475 起 nurture 的 /n/（-18.9 dB、重心 0.56 kHz、周期 0.41）；13.600 在低谷里，插在这里不切前后词（A42）",
+ "S18 convey, / and @8.355":"2026-11-03 逐 2.5 ms 看声音实测（S18 w）：convey 的 eɪ 到 8.325 收尾（-37.4 dB），8.33–8.3575 降到 -51～-60 dB，8.355 是 -57.4 dB 的低谷，在后面那段吸气（8.37–8.55，已写进非人声区间）之前；插在这里不切 convey（A42）"},
+"已告诉用户被去掉的重点词":"已在会话中把 nitrogen（与16撞词，用户 2026-10-17 定留在16，38 改回普通词）告诉用户（2026-11-03 在“38 文本过了”的消息里原样报主会话转告）"
+}
+# 非人声区间的实测依据（2026-11-03 逐 2.5 ms 看 S11/S18 w）：
+#  S11 [2.767958, 2.990125, 紧贴两头]：inconsistent 的 /t/ 除阻 2.745–2.75（-38 dB、重心 2.6–3.2 kHz），之后 2.7575–2.765 还有 -49～-51 dB 的除阻余音（外侧 5 ms 不到 -55 dB，所以算紧贴词尾），左头切在 2.7675 那个 -62 dB 低谷的过零点 2.767958，余音保留；2.77–2.98 是 -36～-52 dB 的吸气（重心 1.9–2.3 kHz、低频 -6～-27 dB），中间无词；2.985 降到 -51 dB，2.99 起低频 -0.4～-2.8 dB 是 or 的浊音起音（保留），3.025 起 or 的元音
+#  S11 停顿处除阻 [2.76, 2.990125, t]：程序自动写的是 [2.76, 2.765]（连读，供体放不进停顿之前），停顿后先出除阻、再是被换成静音的吸气，A19 量到 0.25 s；照 36 S2 gadget [1.67, 1.915] 的做法把范围扩到吸气末尾 2.990125，除阻留在停顿前、吸气不进停顿后
+#  S18 [5.432792, 5.751125, 紧贴词头]：saga 的 ə 到 5.39 收尾（-39 dB），5.40–5.43 静音 -57～-63 dB（左头 5.432792 过零点，外侧 5 ms -56～-60 dB）；5.44–5.68 是 -44～-52 dB 的吸气（重心 2.0–2.7 kHz、低频 -5～-24 dB），5.69–5.74 是 -45～-53 dB 的低频残声，和 that 之间隔着 5.745–5.75 的 -58～-60 dB 低谷，不连着词；右头切在 5.751125 过零点，之后 5.755 起一路升进 that 的 /ð/（5.77 -32.8、5.80 -8.6 dB），保留
+#  S18 [8.357667, 8.556167, 紧贴词头]：convey 的 eɪ 到 8.325 收尾，8.3575 低谷 -57.5 dB（左头）；8.37–8.55 是 -40～-50 dB 的吸气（重心 2.5–3.0 kHz、低频 -5～-26 dB）；8.555 低谷 -54.6 dB（右头），8.5575–8.59 低频 -1 dB 是 and 的浊音起音（保留），8.595 起 and 的元音
+out={"no":"38","title_en":"The Web Beneath the Woods","title_zh":"林下之网","title_fx":{"hl":["Web","Woods"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
+     "说明放宽特批":{"S18":{"倍数":"整屏","依据":"用户 2026-10-25 看 25 简述截图：“以后以后一定要合理的安排，不要压缩成这个样子……这个地方特批一下”（用户同意记录：原话适用以后各篇，26 起沿用）"}},
+     "非人声区间":{"S11":[[2.767958,2.990125,"紧贴两头"]],"S18":[[5.432792,5.751125,"紧贴词头"],[8.357667,8.556167,"紧贴词头"]]},
+     "停顿处除阻":{"S11":{"2":[2.76,2.990125,"t"]}},
+     "高亮按实际开口":True,"高亮开口门槛":40,
+     "术语":{"Canadian":"加拿大的","paper birch":"纸桦","Douglas fir":"花旗松","Nature":"《自然》","wood-wide web":"林木万维网"}}
+import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from 核对 import 生成并核对
+生成并核对(S, out)
