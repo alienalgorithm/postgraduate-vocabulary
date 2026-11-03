@@ -2,9 +2,9 @@ import json,re,glob,os
 # 第43篇初稿（逐词对照）：S = [(段, [chunk, ...])]，chunk = ([(英文组, 中文组), ...], 可选 note)
 # 2026-11-03 重点词中文沿用文章定稿（铁律），只按《翻译风格》调格式；短语型用法整体标（T22）；三项并列加牛津逗号（T18）；不用破折号（T36）。
 S=[
-(1,[[[("In May 1985,","1985年5月，"),("after","经过"),("a **bruising**","一场**激烈的**(bruising)"),("**confrontation**,","**交锋**(confrontation)，")],
+(1,[[[("In May 1985,","1985年5月，"),("after","经过"),("a **bruising**","一场**十分激烈的**(bruising)"),("**confrontation**,","**争执/交锋**(confrontation)，")],
      "（after…：介词短语作时间状语）"],
-    [[("Apple's board","苹果公司董事会"),("**ultimately**","**最终**(ultimately)"),("backed","支持"),("chief **executive**","首席**执行官**(executive)"),("John Sculley.","约翰·斯卡利。")],
+    [[("Apple's **board**","苹果公司**董事会**(board)"),("**ultimately**","**最终**(ultimately)"),("backed","支持"),("chief **executive**","首席**执行官**(executive)"),("John Sculley.","约翰·斯卡利。")],
      "（back：支持；chief executive：首席执行官，\n作 John Sculley 的头衔）"]]),
 (1,[[[("Steve Jobs, 30,","时年30岁的史蒂夫·乔布斯")],
      "（30：插入语，说明他当时的年龄）"],
