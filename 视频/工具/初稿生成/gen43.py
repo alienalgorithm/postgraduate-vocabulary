@@ -8,7 +8,7 @@ S=[
      "（back：支持；chief executive：首席执行官，\n作 John Sculley 的头衔）"]]),
 (1,[[[("Steve Jobs, 30,","时年30岁的史蒂夫·乔布斯")],
      "（30：插入语，说明他当时的年龄）"],
-    [[("was **stripped of** his **managerial** duties at the company he had **co-founded**.","在他参与**创办**(co-founded)的公司里被**剥夺了**(stripped of)**管理**(managerial)职务。")],
+    [[("was **stripped of** his **managerial** duties at the company he had **co-founded**.","在他参与**创办**(co-founded)的公司里被**剥夺了**(stripped of)**管理的**(managerial)职务。")],
      "（be stripped of…：被剥夺……；\nhe had co-founded：定语从句，\n省略了关系代词，修饰 company）"]]),
 (1,[[[("That September,","同年9月，"),("**sidelined**","已被**架空**(sidelined)、"),("and **alienated**,","与公司心生**隔阂**(alienated)的"),("he **resigned**.","乔布斯**辞职**(resigned)。")],
      "（sidelined and alienated：分词短语作状语，说明他辞职时的处境）"]]),

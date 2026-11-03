@@ -14,7 +14,7 @@ In October 2003 Jobs received a **diagnosis**: an **uncommon**, **cancerous** **
 
 ## 中文
 
-1985年5月，经过一场**十分激烈**(bruising)的**争执/交锋**(confrontation)，苹果公司**董事会**(board)**最终**(ultimately)支持首席**执行官**(executive)约翰·斯卡利。时年30岁的史蒂夫·乔布斯在他参与**创办**(co-founded)的公司里被**剥夺**(stripped)了**管理**(managerial)职务。同年9月，已被**架空**(sidelined)、与公司心生**隔阂**(alienated)的乔布斯**辞职**(resigned)。
+1985年5月，经过一场**十分激烈**(bruising)的**争执/交锋**(confrontation)，苹果公司**董事会**(board)**最终**(ultimately)支持首席**执行官**(executive)约翰·斯卡利。时年30岁的史蒂夫·乔布斯在他参与**创办**(co-founded)的公司里被**剥夺**(stripped)了**管理的**(managerial)职务。同年9月，已被**架空**(sidelined)、与公司心生**隔阂**(alienated)的乔布斯**辞职**(resigned)。
 
 **回溯**(rewind)三十年。1955年2月24日，乔布斯生于旧金山，还是**新生儿**(newborn)时就被人收养。1976年4月1日，他与史蒂夫·沃兹尼亚克创办了苹果公司；沃兹尼亚克是一名**电子**(electronics)工程师，苹果最早的**样机**(prototypes)出自他手。苹果的车库**起家**(origins)史在很大程度上只具**象征**(symbolic)意义；沃兹尼亚克认为它的**分量**(significance)被**夸大**(inflated)了。1980年12月12日，苹果公司**上市**(floated)；1984年1月24日，**旗舰**(flagship)产品 Macintosh **亮相**(debuted)。
 
