@@ -19,10 +19,10 @@ S=[
 (2,[[[("For five years","五年间，"),("Silver","西尔弗"),("**acted as** its **promoter** within 3M's **corporate** ranks,","在3M的**企业**(corporate)上下**充当**(acted as)它的**推广者**(promoter)，")],
      "（act as：充当；within…ranks：在……内部上下）"],
     [[("in **informal** chats","在**非正式的**(informal)闲谈中、"),("and at **seminars**.","也在**研讨会**(seminars)上介绍它。")]]]),
-(2,[[[("In his own **summary**,","按他自己的**概括**(summary)，"),("it was","这是"),("a solution without a problem.","一个找不到问题的解决方案。")],
-     "（without a problem：介词短语作后置定语，\n修饰 solution）"]]),
+(2,[[[("In his own **summary**,","用他自己的话**总结**(summary)，"),("it was","这完全是"),("a **solution** without a problem.","一个**解决**(solution)“不存在的问题”的**方案**(solution)。")],
+     "（solution：解决方案；\nwithout a problem：介词短语作后置定语，\n修饰 solution，\n指这种胶找不到能用它来解决的问题）"]]),
 (2,[[[("His **perseverance**","他的**坚持不懈**(perseverance)"),("met","换来的是"),("**indifference**.","**冷漠**(indifference)。")]]]),
-(2,[[[("The **unconventional** material","这种**非常规的**(unconventional)材料"),("found no","找不到"),("use,","用途，")]],
+(2,[[[("The **unconventional** material","这种**非常规的**(unconventional)材料"),("**found no use**,","**找不到用途**(found no use)，")]],
     [[("and the **pursuit**","这番**追求**(pursuit)"),("proved","终究"),("**fruitless**.","**一无所获**(fruitless)。")],
      "（prove＋形容词：结果是……）"]]),
 (3,[[[("In 1974","1974年，"),("Art Fry,","阿特·弗莱，"),("a colleague who had heard one of those talks,","一位听过其中一次讲座的同事，")],
@@ -30,14 +30,14 @@ S=[
     [[("faced a small **annoyance** at church.","在教堂里遇到了一件小小的**烦心事**(annoyance)。")]]]),
 (3,[[[("The paper **bookmarks** **wedged** in his **choir**'s **hymn** book","他所在**唱诗班**(choir)的**赞美诗**(hymn)集里**夹着的**(wedged)纸**书签**(bookmarks)")],
      "（wedged in…：过去分词短语作后置定语，修饰 bookmarks）"],
-    [[("kept","总是"),("getting **dislodged**","**移位**(dislodged)，"),("and falling out.","掉出来。")],
+    [[("kept","总是"),("getting **dislodged**","**移位**(dislodged)，"),("and **falling out**.","**掉出来**(falling out)。")],
      "（keep doing：一直，总是；get＋过去分词：被……）"]]),
 (3,[[[("The **frustration**","这份**懊恼**(frustration)"),("gave Fry","让弗莱"),("an idea.","想到一个主意。")],
      "（give sb an idea：让某人想到一个主意）"]]),
 (3,[[[("The **unwanted** adhesive","这种**没人要的**(unwanted)黏合剂"),("could make","可以做成"),("a marker","一种书签，")]],
-    [[("that would **cling to**","**附着在**(cling to)"),("a page,","书页上"),("stay put,","不会移动，"),("and leave it","还能让书页"),("**undamaged**.","**完好无损**(undamaged)。")],
+    [[("that would **cling to**","**附着在**(cling to)"),("a page,","书页上"),("**stay put**,","**不会移动**(stay put)，"),("and leave it","还能让书页"),("**undamaged**.","**完好无损**(undamaged)。")],
      "（that would…：定语从句，修饰 marker；\ncling to：附着在……上；stay put：待在原处不动；\nleave it＋形容词：让它保持……）"]]),
-(4,[[[("In 1977","1977年，"),("the notes","这种便条"),("were test-marketed as Press 'n Peel in four American cities,","以 Press 'n Peel 之名在美国四个城市试销，")],
+(4,[[[("In 1977","1977年，"),("the **notes**","这种**便条**(notes)"),("were **test-marketed** as Press 'n Peel in four American cities,","以 Press 'n Peel 之名在美国四个城市**试销**(test-marketed)，")],
      "（be test-marketed as…：以……之名试销）"],
     [[("where **purchasers**","**购买者**(purchasers)的"),("showed little **enthusiasm**.","**热情**(enthusiasm)不高。")],
      "（where…：非限制性定语从句，修饰 four American cities）"]]),
@@ -114,6 +114,7 @@ CONF={
  "S14 dispensed … of":"不是搭配：of 属于 packets of notes，和 dispensed 无关",
  "S14 dispensed … to":"不是搭配：to 只引出接受的对象（向各办公室），dispensed 本身就是“分发”",
  "S14 packets … of":"不是搭配：packets of notes 里 of 只引出所装的东西，packets 本身就是“小包”（同 16 beads … of 的判法）",
+ "S13 test-marketed … as":"不是搭配：as 只引出试销时用的名称（以 Press 'n Peel 之名），test-marketed 本身就是“试销”",
  "S17 rebranded … on":"不是搭配：on 属于后面的 went on sale，和 rebranded 无关"},
 "已告诉用户被去掉的重点词":"2026-11-03 已在会话中把 stationery（与21 stationery 撞词，用户 2026-10-17 定留在先做的21，40 改回普通词）原样告诉用户（经主会话转告）"}
 CONF["停顿位置"]={"S3 off, / and @7.370":"2026-11-03 逐 5 ms 看声音实测（S3 w，配音指纹 67f86bdba50c）：off 的 /f/ 摩擦 7.28–7.365（-24～-29 dB、重心 5.1–7.0 kHz、低频 -22～-40 dB、周期 ≤0.16），7.370 降到全段最低 -36.7 dB（过零 7.370583），7.375 起 and 的声门起音（低频 -5 dB），7.38 起 æ 浊音（周期 0.19→0.45、重心 1.2–2.5 kHz）；两词之间没有静音，7.370 是交界最低处，插在这里不切 /f/ 也不切 and（A42）；程序“后词开头 7.456”是带时长模型估的，实际 and 在 7.375 开口"}
@@ -139,6 +140,8 @@ CONF["非人声"]={
  "127.45–127.58s":{"配音指纹":"01e55201e44a","依据":"2026-11-03 40 逐 2.5/10 ms 看实际声音（逐段看声音、dossier_40）：S19 w 1.345–1.465：door 的 ɹ 收尾后接 had 的 /h/：1.345–1.455 -36～-43 dB 送气（重心 1.8–2.6 kHz），1.465–1.505 一路升到 -14 dB，1.515 起 æ 元音，中间没有 -55 dB 的低谷（K125：不切 /h/），属于 had","词头":"h"}}
 CONF["高亮"]={"S10 第2块":{"开始读":64.14,"配音指纹":"01e55201e44a","依据":"2026-11-03 直接读 work_40/a.wav 逐 10 ms：book 的 /k/ 除阻 63.91（-37.6 dB、重心 3.4 kHz）衰减到 63.96，63.97–64.12 是删掉吸气后的数字静音（-180 dB），64.13 -74.6、64.14 起 kept 的 /k/ 送气（-30.6 dB、重心 4.3 kHz），64.19 起 ɛ 元音 -15→-10 dB；kept 在 64.14 开始读，高亮 64.12 提前 0.02 秒；甲法 63.97 落在静音开头"}}
 CONF["机器复听"]={"S13":{"配音指纹":"01e55201e44a","依据":"2026-11-03 实测（配音指纹 01e55201e44a）：Press 'n Peel 的 'n 是 and 的缩写，按 按语境读音.json 弱读，配音音标 pɹˈɛs ən pˈiːl，读音核对 0；small.en 听成 and（正是 'n 的意思），parakeet 听成 in（ən/ɪn 弱读近音），两路前后的 Press、Peel 都对；交用户听"}}
+CONF["引号"]={"S6-1 “”":"用户原话“用他自己的话总结，这完全是一个解决“不存在的问题”的方案。”（2026-11-03，已记进 用户同意记录.json）自带引号（见 40_待改清单 第7条），照用户原话"}
+CONF.setdefault("同词异译",{}).update({"solution：方案/解决":"S6 solution“解决方案”被“不存在的问题”隔开，“解决”和“方案”是同一个意思的两部分（T22/T23，用户 2026-11-03 原话“这完全是一个解决“不存在的问题”的方案……Solution 标注重点词汇。解决方案”），不是两种译法"})
 out={"no":"40","title_en":"The Glue That Failed Its Way to Success","title_zh":"失败的胶水，成功的便利贴","title_fx":{"hl":["Failed","Success"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述","allow_clash":["set out to"],
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Spencer Silver":"斯潘塞·西尔弗","Silver":"西尔弗","3M":"3M","Art Fry":"阿特·弗莱","Fry":"弗莱","Press 'n Peel":"Press 'n Peel","Boise":"博伊西","Idaho":"爱达荷州","Post-it Notes":"便利贴","US":"美国","American":"美国","Canada":"加拿大","Europe":"欧洲"}}
