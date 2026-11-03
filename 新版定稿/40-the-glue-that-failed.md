@@ -2,49 +2,56 @@
 # ZH: 失败的胶水，成功的便利贴
 
 ## 英文
-In 1968 Spencer Silver, a scientist at 3M, set out to make a super-strong **adhesive**. The **polymer** he produced did something else. Its tiny **spheres** formed a layer with little **tack**, giving paper a **temporary** hold, so it would **adhere**, peel off, and be **reapplied**. To an **inventor** chasing strength, the **formulation** was a **setback**.
+In 1968 Spencer Silver, a scientist at 3M, **set out to** make a **super-strong** **adhesive**. The **polymer** he produced did **something else**. Its tiny **spheres** formed a layer with little **tack**, giving paper a **temporary** hold, so it would **adhere**, **peel off**, and be **reapplied**. To an **inventor** chasing strength, the **formulation** was a **setback**.
 
-For five years Silver acted as its **promoter** within 3M's **corporate** ranks, in **informal** chats and at **seminars**. In his own **summary**, it was a solution without a problem. His **perseverance** met **indifference**. The **unconventional** material found no use, and the **pursuit** proved **fruitless**.
+For five years Silver **acted as** its **promoter** within 3M's **corporate** ranks, in **informal** chats and at **seminars**. In his own **summary**, it was a **solution** without a problem. His **perseverance** met **indifference**. The **unconventional** material **found no use**, and the **pursuit** proved **fruitless**.
 
-In 1974 Art Fry, a colleague who had heard one of those talks, faced a small **annoyance** at church. The paper **bookmarks** **wedged** in his **choir**'s **hymn** book kept getting **dislodged** and falling out. The **frustration** gave Fry an idea. The **unwanted** adhesive could make a marker that would **cling** to a page, stay put, and leave it **undamaged**.
+In 1974 Art Fry, a colleague who had heard one of those talks, faced a small **annoyance** at church. The paper **bookmarks** **wedged** in his **choir**'s **hymn** book kept getting **dislodged** and **falling out**. The **frustration** gave Fry an idea. The **unwanted** adhesive could make a marker that would **cling** to a page, **stay put**, and leave it **undamaged**.
 
-In 1977 the notes were test-marketed as Press 'n Peel in four American cities, where **purchasers** showed little **enthusiasm**. In 1978 3M's **marketers** staged a **blitz** in Boise, Idaho, and **dispensed** **complimentary** **packets** of notes to offices. More than 90 per cent of **respondents** who tried them said they would buy. After the **coolness** came a **turnaround**.
+In 1977 the **notes** were **test-marketed** as Press 'n Peel in four American cities, where **purchasers** showed little **enthusiasm**. In 1978 3M's **marketers** **staged** a **blitz** in Boise, Idaho, and **dispensed** **complimentary** **packets** of notes to offices. More than 90 per cent of **respondents** who tried them said they would buy. After the **coolness** came a **turnaround**.
 
-On 6 April 1980 the **pads**, **rebranded** as Post-it Notes, went on sale **nationally** in the US, and Canada and Europe followed in 1981. The stationery **staple** owes its **signature** **canary** **tone** to an **unplanned** twist. The laboratory next door had only **leftover** yellow paper.
+On 6 April 1980 the **pads**, **rebranded** as **Post-it Notes**, went on sale **nationally** in the US, and Canada and Europe followed in 1981. The **stationery** **staple** owes its **signature** **canary** **tone** to an **unplanned** twist. The laboratory next door had only **leftover** yellow paper.
 
 ## 中文
 
-1968年，3M公司的科学家斯潘塞·西尔弗着手研制一种超强**黏合剂**(adhesive)。然而他制成的**聚合物**(polymer)却是另一回事。它的微小**球体**(spheres)形成一层**初黏力**(tack)很小的涂层，让纸张获得**暂时**(temporary)的黏着，因此纸张能**粘附**(adhere)上去，揭下后还能**重新贴上**(reapplied)。对一个追求强度的**发明者**(inventor)来说，这种**配方**(formulation)是一次**挫折**(setback)。
+1968年，3M公司的科学家斯潘塞·西尔弗**着手**(set out to)研制一种**超强**(super-strong)**黏合剂**(adhesive)。然而他制成的**聚合物**(polymer)却做了**其他的事情**(something else)。它的微小的**球状颗粒**(spheres)形成一层**黏着力**(tack)很小的涂层，让纸张获得**暂时**(temporary)的黏着，因此纸张能**粘附**(adhere)上去，**揭下**(peel off)后还能**重新贴上**(reapplied)。对一个追求强度的**发明者**(inventor)来说，这种**配方**(formulation)是一次**挫折**(setback)。
 
-五年间，西尔弗在3M的**企业**(corporate)上下充当它的**推广者**(promoter)，在**非正式**(informal)的闲谈中、也在**研讨会**(seminars)上介绍它。按他自己的**概括**(summary)，这是一个找不到问题的解决方案。他的**坚持不懈**(perseverance)换来的是**冷漠**(indifference)。这种**非常规**(unconventional)的材料找不到用途，这番**追求**(pursuit)终究**一无所获**(fruitless)。
+五年间，西尔弗在3M的**企业**(corporate)上下**充当**(acted as)它的**推广者**(promoter)，在**非正式**(informal)的闲谈中、也在**研讨会**(seminars)上介绍它。用他自己的话**总结**(summary)，这完全是一个**解决**(solution)“不存在的问题”的**方案**(solution)。他的**坚持不懈**(perseverance)换来的是**冷漠**(indifference)。这种**非常规**(unconventional)的材料**找不到用途**(found no use)，这番**追求**(pursuit)终究**一无所获**(fruitless)。
 
-1974年，听过其中一次讲座的同事阿特·弗莱在教堂里遇到了一件小小的**烦心事**(annoyance)。他所在**唱诗班**(choir)的**赞美诗**(hymn)集里**夹着**(wedged)的纸**书签**(bookmarks)总是**移位**(dislodged)，掉出来。这份**懊恼**(frustration)让弗莱想到一个主意。这种**没人要**(unwanted)的黏合剂可以做成一种书签，**附着**(cling)在书页上不会移动，还能让书页**完好无损**(undamaged)。
+1974年，听过其中一次讲座的同事阿特·弗莱在教堂里遇到了一件小小的**烦心事**(annoyance)。他所在**唱诗班**(choir)的**赞美诗**(hymn)集里**夹着**(wedged)的纸**书签**(bookmarks)总是**移位**(dislodged)，**掉出来**(falling out)。这份**懊恼**(frustration)让弗莱想到一个主意。这种**没人要**(unwanted)的黏合剂可以做成一种书签，**附着**(cling)在书页上**不会移动**(stay put)，还能让书页**完好无损**(undamaged)。
 
-1977年，这种便条以"Press 'n Peel"之名在美国四个城市试销，**购买者**(purchasers)的**热情**(enthusiasm)不高。1978年，3M的**营销人员**(marketers)在爱达荷州博伊西发起一场**闪电攻势**(blitz)，向各办公室**分发**(dispensed)一**小包**(packets)一小包的**免费**(complimentary)便条。试用过的**受访者**(respondents)中，超过90%表示会购买。**冷遇**(coolness)之后，迎来了**转机**(turnaround)。
+1977年，这种**便条**(notes)以"Press 'n Peel"之名在美国四个城市**试销**(test-marketed)，然而在这四个城市，**购买者**(purchasers)展示出极少的**热情**(enthusiasm)。1978年，3M的**营销人员**(marketers)在爱达荷州博伊西**发起**(staged)一场**闪电攻势**(blitz)，向很多办公室**分发**(dispensed)**免费的**(complimentary)一**小包**(packets)一小包的便条。试用过的**受访者**(respondents)中，超过90%表示会购买。**冷遇**(coolness)之后，迎来了**转机**(turnaround)。
 
-1980年4月6日，这种**便笺本**(pads)**更名**(rebranded)为"便利贴"，在美国**全国**(nationally)上市；1981年，便利贴又进入加拿大和欧洲。这款文具**必备品**(staple)那**标志性**(signature)的**金丝雀黄**(canary)**色调**(tone)，源于一次**计划外**(unplanned)的转折。隔壁实验室手头只有**剩下的**(leftover)黄纸。
+1980年4月6日，这种**便笺本**(pads)**更名**(rebranded)为**便利贴**(Post-it Notes)，在美国**全国**(nationally)上市；1981年，便利贴又进入加拿大和欧洲。这款**文具的**(stationery)**必备品**(staple)那**标志性**(signature)的**金丝雀黄**(canary)**色调**(tone)，源于一次**计划外**(unplanned)的转折。隔壁实验室手头只有**剩下的**(leftover)黄纸。
 
 ## 速查表
 | 词 | 释义 | 段 |
 |---|---|---|
+| set out to | v. 着手，开始（set out to do sth） | 1 |
+| super-strong | adj. 超强的（a super-strong glue） | 1 |
 | adhesive | n./adj. 黏合剂；有黏性的（a strong adhesive；adhesive tape） | 1 |
+| something else | pron. 其他的事情，别的东西（do something else） | 1 |
 | polymer | n. 聚合物（synthetic polymers） | 1 |
-| spheres | n. (sphere) 球体；领域（a glass sphere；sphere of influence） | 1 |
-| tack | n. 黏性，初黏力；平头钉（low tack；a drawing-pin tack） | 1 |
+| spheres | n. (sphere) 球状颗粒，球体；领域（a glass sphere；sphere of influence） | 1 |
+| tack | n. 黏着力，黏性；平头钉（low tack；a drawing-pin tack） | 1 |
 | temporary | adj. 暂时的，临时的（a temporary job/solution） | 1 |
 | adhere | v. 粘附；坚持（adhere to the surface；adhere to the rules） | 1 |
+| peel off | v. 揭下，剥落（peel off the label） | 1 |
 | reapplied | v. (reapply) 再次涂抹/贴上；重新申请（reapply sunscreen；reapply for a job） | 1 |
 | inventor | n. 发明者（the inventor of the telephone） | 1 |
 | formulation | n. 配方，配制；表述（a new formulation of the drug） | 1 |
 | setback | n. 挫折（suffer a setback） | 1 |
+| acted as | v. (act as) 充当，担任（act as a guide） | 2 |
 | promoter | n. 推广者，倡导者（a promoter of new ideas） | 2 |
 | corporate | adj. 公司的，企业的（corporate culture/headquarters） | 2 |
 | informal | adj. 非正式的（an informal meeting） | 2 |
 | seminars | n. (seminar) 研讨会（attend a seminar on marketing） | 2 |
-| summary | n. 概括，摘要（a brief summary；in summary） | 2 |
+| summary | n. 总结，概括，摘要（a brief summary；in summary） | 2 |
+| solution | n. 解决方案，解决办法（find a solution to the problem） | 2 |
 | perseverance | n. 坚持不懈，毅力（show great perseverance） | 2 |
 | indifference | n. 冷漠，漠不关心（public indifference to the issue） | 2 |
 | unconventional | adj. 非常规的（unconventional methods） | 2 |
+| found no use | v. (find no use) 找不到用途（find no use for sth） | 2 |
 | pursuit | n. 追求；追赶（the pursuit of happiness） | 2 |
 | fruitless | adj. 无结果的，徒劳的（a fruitless search） | 2 |
 | annoyance | n. 烦恼，令人烦恼的事（to sb's annoyance） | 3 |
@@ -53,13 +60,18 @@ On 6 April 1980 the **pads**, **rebranded** as Post-it Notes, went on sale **nat
 | choir | n. 唱诗班，合唱团（sing in a church choir） | 3 |
 | hymn | n. 赞美诗（sing a hymn） | 3 |
 | dislodged | v. (dislodge) 使移位，使松动（dislodge a stone） | 3 |
+| falling out | v. (fall out) 掉出来，脱落（the page fell out of the book） | 3 |
 | frustration | n. 懊恼，挫败感（shout in frustration） | 3 |
 | unwanted | adj. 不需要的，没人要的（unwanted gifts/pregnancy） | 3 |
 | cling | v. 黏附，紧贴；紧抓（wet clothes cling to the body） | 3 |
+| stay put | v. 待在原处不动（the bookmark stays put） | 3 |
 | undamaged | adj. 未受损的（arrive undamaged） | 3 |
+| notes | n. (note) 便条，短笺（leave a note） | 4 |
+| test-marketed | v. (test-market) 试销（test-market a new product） | 4 |
 | purchasers | n. (purchaser) 购买者（first-time purchasers） | 4 |
 | enthusiasm | n. 热情，热忱（show little enthusiasm） | 4 |
 | marketers | n. (marketer) 营销人员（online marketers） | 4 |
+| staged | v. (stage) 发起，组织（stage a protest/campaign） | 4 |
 | blitz | n. 闪电式行动，突击运动（a media/advertising blitz） | 4 |
 | dispensed | v. (dispense) 分发，提供（dispense advice/medicine） | 4 |
 | complimentary | adj. 免费赠送的；赞美的（complimentary tickets；complimentary remarks） | 4 |
@@ -69,7 +81,9 @@ On 6 April 1980 the **pads**, **rebranded** as Post-it Notes, went on sale **nat
 | turnaround | n. 好转，转机（a dramatic turnaround in sales） | 4 |
 | pads | n. (pad) 便笺本；垫子（a writing pad；knee pads） | 5 |
 | rebranded | v. (rebrand) 更换品牌名称（rebrand a company/product） | 5 |
+| Post-it Notes | n. 便利贴（3M 的便条商标） | 5 |
 | nationally | adv. 全国地（nationally televised） | 5 |
+| stationery | n./adj. 文具（的）（a stationery shop） | 5 |
 | staple | n. 主要产品，必备品；订书钉（a staple of the diet） | 5 |
 | signature | adj./n. 标志性的；签名（a signature dish；sign one's signature） | 5 |
 | canary | n./adj. 金丝雀；金丝雀黄的，淡黄色的（canary yellow） | 5 |
