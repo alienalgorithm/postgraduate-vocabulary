@@ -30,7 +30,7 @@ CASES = [   # (编号, 篇, 改法说明, 改法, 环境变量, 停止信息里�
     ('G51', '20', '改号成 99（26 起源头调平）、严格缓存模式、没有调平缓存', lambda d: (改(d, ['no'], '99'), [c_.__setitem__(f_, re.sub(r'[—–―─⸺⸻﹘－]+', '，', c_[f_])) for s_ in d['sentences'] for c_ in s_['chunks'] for f_ in ('zh', 'note') if c_.get(f_)]), {'STRICT_CACHE': '1'}, '缺调平缓存'),
     ('G57不在句', '20', '合成标点写的词组不在这一句里（G79 门变异）', lambda d: 改(d, ['合成标点'], {'S1': [['zzq,', 'zzq;']]}), {}, '不在这一句里'),
     ('列举逗号', '20', '列举逗号写成第 99 个标点（G79 门变异）', lambda d: 改(d, ['列举逗号'], {'S1': [99]}), {}, '列举逗号写的位置超出'),
-    ('增益加除阻', '20', 'S11 有停顿处除阻又写分段增益（G79 门变异）', lambda d: 改(d, ['分段增益dB'], {'S11': {'1': 1.0}}), {}, '不能和 停顿处除阻'),
+    ('增益加除阻', '20', 'S11 有停顿处除阻又写分段增益：K157 起照常出完（独立复核先乘增益再换供体）', lambda d: 改(d, ['分段增益dB'], {'S11': {'1': 1.0}}), {}, None),
     ('A3', '20', '环境变量换音色', lambda d: None, {'VOICE': 'voice_mf.npy'}, '（A3/A7）'),
     ('A7', '20', '环境变量换降噪', lambda d: None, {'AFFILE': 'AF.txt'}, '（A3/A7）'),
     ('A27', '02', '结尾句语速改回会丢 /z/ 的 0.80', lambda d: 改(d, ['结尾句', 'S16', '整句语速'], 0.80), {}, '（A27）'),
@@ -213,6 +213,27 @@ def main():
         ok = p_.startswith('zˌɔːk') and 'zˈɔːk' not in p_
         print(f"{'✔' if ok else '✘'} A24重音：按语境读音只改重音 → {p_[:80]}")
         if not ok: fails.append('误拦：按语境读音只改重音（K145）')
+    if not only or 'K155合成标点' in only:   # K155（45 S5 Johnny B. Goode）：合成标点许去掉人名首字母后的点；改字、去句末句号、加点、U.S. 的点、删逗号照停
+        sys.path.insert(0, W); import make_video as MV
+        cs_ = [('B. Goode', 'B Goode', True), ('Johnny B. Goode, and', 'Johnny B. Goode; and', True), ('birds, and', 'birds; and', True), ('the', 'teh', False), ('Goode.', 'Goode', False), ('B Goode', 'B. Goode', False), ('U.S. Army', 'U.S Army', False), ('Goode, and', 'Goode and', False)]
+        bad_ = [f'{a}→{b}' for a, b, want in cs_ if MV._合成标点可收(a, b) != want]
+        print(f"{'✔' if not bad_ else '✘'} K155合成标点：{len(cs_)} 个样本" + ('全对' if not bad_ else f'判错 {bad_}'))
+        if bad_: fails.append(f'合成标点判错（K155）：{bad_}')
+    if not only or 'K154擦音压低' in only:   # K154（44 S14 statistical 的 /s/ 发尖）：负增益只许罩住擦音（重心 ≥3 kHz、10–150 ms、-6～0 dB）；罩到元音、超过 -6 dB 都要停
+        sys.path.insert(0, W); import make_video as MV, numpy as np_, scipy.signal as ss_
+        SR_ = MV.SR; rg_ = np_.random.default_rng(11); tt_ = np_.arange(int(0.3 * SR_)) / SR_
+        vow_ = (0.5 * np_.sin(2 * np_.pi * 180 * tt_) + 0.2 * np_.sin(2 * np_.pi * 540 * tt_)).astype(np_.float32)
+        s_ = (ss_.sosfiltfilt(ss_.butter(6, 4000, 'highpass', fs=SR_, output='sos'), rg_.standard_normal(int(0.08 * SR_))) * 0.4).astype(np_.float32)
+        w_ = np_.concatenate([vow_, s_, vow_]); a_, b_ = 0.3, 0.38; rm_ = lambda x: 20 * np_.log10(np_.sqrt(np_.mean(np_.asarray(x, np_.float64) ** 2)) + 1e-12)
+        try: o_ = MV._boost(w_, {'1': [a_, b_, -3.0]}, '自检'); dd_ = rm_(o_[int(0.31 * SR_):int(0.37 * SR_)]) - rm_(w_[int(0.31 * SR_):int(0.37 * SR_)]); g1 = -3.3 < dd_ < -2.7
+        except SystemExit as e: g1 = False; dd_ = str(e)[:60]
+        def 停(items):
+            try: MV._boost(w_, items, '自检'); return False
+            except SystemExit as e: return 'K154' in str(e)
+        b1 = 停({'1': [0.1, 0.2, -3.0]}); b2 = 停({'1': [a_, b_, -7.0]})
+        ok = g1 and b1 and b2
+        print(f"{'✔' if ok else '✘'} K154擦音压低：/s/ 压 3 dB → {dd_ if isinstance(dd_, str) else f'{dd_:+.2f} dB'}；罩到元音{'停' if b1 else '没停'}；-7 dB {'停' if b2 else '没停'}")
+        if not ok: fails.append('没抓到或误拦：擦音压低（K154）')
     if not only or 'A23大小写' in only:   # K148（43 NeXT）：读音改正的词中间有大写（ZorK），普通小写 zork 不许被当成它去换（原来不分大小写，换不到就停）；大小写对得上的照换
         sys.path.insert(0, W); import make_video as MV
         try: p_ = _读音(MV, {'ZorK': 'zˈuːk'}, {}, {}, 'the zork day', {'the zork day': 'ðə zˈɔːk dˈeɪ', 'ZorK': 'zˈiː ˈoʊ'})

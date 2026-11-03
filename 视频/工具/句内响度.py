@@ -60,6 +60,14 @@ def 自检():
         if not 4.0 <= g2.get('S1', {}).get('3', 0) <= 5.5: f.append(f'没抓到：已有 +1 dB 时没有累加（{g2}）')
         w, sr = mk([0, 0, 0, 0]); m, TM = 量(w, sr)
         if 算增益(m, TM, {}): f.append('误报：四段一样响也算出了增益')
+        # K157 好样本：第 3 段轻 4 dB，这一句有停顿处除阻 → --写入 照常写分段增益（K156 时不写，K157 起出片程序和独立复核都收）
+        import shutil
+        w, sr = mk([0, 0, -4, 0]); wd = tempfile.mkdtemp(prefix='句内响度K157_'); os.makedirs(f'{wd}/work_99'); os.makedirs(f'{wd}/scripts')
+        shutil.copy(w, f'{wd}/work_99/a.wav'); json.dump(sr, open(f'{wd}/work_99/分段.json', 'w'))
+        json.dump({'no': '99', '停顿处除阻': {'S1': {'1': [1.0, 1.005, 't']}}}, open(f'{wd}/scripts/99.json', 'w'))
+        subprocess.run([sys.executable, os.path.abspath(__file__), '99', '--写入'], cwd=wd, capture_output=True, text=True)
+        if '3' not in json.load(open(f'{wd}/scripts/99.json')).get('分段增益dB', {}).get('S1', {}): f.append('误拦：有停顿处除阻的句子没写分段增益（K157）')
+        shutil.rmtree(wd, ignore_errors=True)
         w, sr = mk([0, 0, -3.5, 0]); sr['S1'][1]['停顿'] = 0.25   # K144 坏样本：记的停顿比实际短（门照样在 0.4 秒静音处切开、报第 3 段轻），增益必须照门的切法算出来
         m, TM = 量(w, sr); g = 算增益(m, TM, {}); js = os.path.join(td, 'seg.json'); json.dump(sr, open(js, 'w')); rs = R.句内报(R.句内(w, None, TM, js))
         if not rs: f.append('自检前提不成立：门没报第 3 段轻 3.5 dB')
@@ -77,6 +85,7 @@ if __name__ == '__main__':
     d = json.load(open(f'scripts/{no}.json')); old = d.get('分段增益dB', {})
     with tempfile.TemporaryDirectory() as td: m, TM = 量(成片声(f'work_{no}/a.wav', td), json.load(open(sj)))
     new = 算增益(m, TM, old)
+    # K156→K157：原来有停顿处除阻的句子出片程序不收分段增益（停下不重建，下一轮按旧声音再加，累加到 ±6 dB）；K157 起独立复核先乘增益再换供体，这种句子也照常写
     for s, v in new.items(): print(f'{no} {s} 分段增益dB {old.get(s, {})} → {v}')
     if '--写入' in sys.argv and new:
         d.setdefault('分段增益dB', {}).update(new); json.dump(d, open(f'scripts/{no}.json', 'w'), ensure_ascii=False, indent=1)

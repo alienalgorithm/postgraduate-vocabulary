@@ -140,13 +140,18 @@ def phonemes_of(text):
 # 停顿只能插在 /z/ 和 and 的交界，and 开头带浊擦音，识别器和单听都像 “than”。配音模型对分号会自己停一下（同一句 75 ms 静音），语气仍是“接着说”。
 # 脚本 "合成标点": {"S12": [["birds, and", "birds; and"]]}：只在合成这一句时把逗号换成分号交给配音模型；屏幕文字、停顿个数和长度都不变。只许 , ↔ ;
 SYNTH_PUNCT={}
+_ini=lambda x_: re.sub(r'(?<![A-Za-z.])([A-Z])\.(?=\s+[A-Z])',r'\1',x_)
+def _合成标点可收(a_,b_):
+    """G57 合成标点只许把逗号换成分号；K155（45 S5 Johnny B. Goode：配音把人名首字母 B. 当句号读，降调、停 0.5 秒）：还许去掉人名中间首字母后的点
+    （B. Goode → B Goode，后面紧跟大写开头的词），只在合成时，屏幕照旧；不许改字、不许去句末句号、不许加点、不许删逗号"""
+    return re.sub(r'[,;]','',_ini(a_))==re.sub(r'[,;]','',_ini(b_)) and b_.count('.')<=a_.count('.') and a_.count(',')+a_.count(';')==b_.count(',')+b_.count(';')
 for _p_ in sorted(__import__('glob').glob('scripts/*.json')):
     try: _d_=json.load(open(_p_))
     except Exception: continue
     for _k_,_v_ in _d_.get('合成标点',{}).items():
         _s_=_d_['sentences'][int(_k_[1:])-1]; _disp_=' '.join(re.sub(r'\*\*','',re.sub(r'\{\{.*?\}\}','',c['en'])).strip() for c in _s_['chunks'])   # 与 R.strip_gloss 同一写法（独立复核没有 render）
         for a_,b_ in _v_:
-            if re.sub(r'[,;]','',a_)!=re.sub(r'[,;]','',b_) or a_.count(',')+a_.count(';')!=b_.count(',')+b_.count(';'): raise SystemExit(f'【停止】合成标点只许把逗号换成分号（G57）：{_p_} {_k_} {a_} → {b_}')
+            if not _合成标点可收(a_,b_): raise SystemExit(f'【停止】合成标点只许把逗号换成分号、去掉人名首字母后的点（G57）：{_p_} {_k_} {a_} → {b_}')
         SYNTH_PUNCT[(_p_,_k_)]=(_disp_,[tuple(x) for x in _v_])
 _SP_CACHE={}
 def _synth_punct(text):
@@ -494,6 +499,13 @@ def _boost(w,items,label,off=0):
     for g,v in items.items():
         a,b,gdb=v[:3]; cap=9.0 if len(v)>3 and '用户' in str(v[3]) else 6.0   # 第4项写明用户同意的，这一处上限 9 dB（21 S7 upkeep. 用户 2026-10-22 同意），其余一律 6 dB
         p=off+int(round(float(a)*SR)); q=off+int(round(float(b)*SR))
+        if float(gdb)<0:   # K154 擦音压低（44 S14 a statistical 的 /s/ 与元音一样响、发尖，音频体检齿音超 01–24 最差）：负增益只许罩住擦音
+            seg_=np.asarray(w[p:q],np.float64); sp_=np.abs(np.fft.rfft(seg_*np.hanning(len(seg_))))**2 if len(seg_)>16 else np.zeros(2); f_=np.fft.rfftfreq(max(len(seg_),2),1/SR)[:len(sp_)]
+            cen_=float((sp_*f_).sum()/(sp_.sum()+1e-20)); h=int(0.005*SR)
+            if not (-6<=float(gdb)<0 and F_<=p<q<=p+int(0.15*SR) and q-p>=2*h and cen_>=3000):
+                raise SystemExit(f'【停止】擦音压低的位置或增益不对（段长 10–150 ms、只许 -6～0 dB、段内声音重心要 ≥3 kHz 才是擦音，碰到元音就停；这段重心 {cen_:.0f} Hz）（K154）：{label[:60]} {g}')
+            G=10**(float(gdb)/20); r=np.full(q-p,G,np.float32); r[:h]=np.linspace(1,G,h); r[-h:]=np.linspace(G,1,h)
+            w[p:q]*=r; continue
         if not (0<float(gdb)<=cap and F_<=p<q<=p+int(0.08*SR) and lv(w[p-F_:p])<-40 and max(lv(w[x:min(x+F_,q)]) for x in range(p,q,F_))<-25):
             raise SystemExit(f'【停止】除阻加强的位置或增益不对（前面不是闭塞、段太长、碰到元音或增益超过 6 dB）（A21）：{label[:60]} {g}')
         G=10**(float(gdb)/20); h=int(0.002*SR); r=np.full(q-p,G,np.float32); r[:h]=np.linspace(1,G,h); r[-h:]=np.linspace(G,1,h)
@@ -698,14 +710,13 @@ def 句增益(d,no,si,sent,pieces,gaps,clips,tmap,a):
         if _agn: a=np.concatenate(clips)
     _pgn=d.get('分段增益dB',{}).get(f'S{si+1}')   # 2026-10-25 句内分段增益（用户看 25 S2：“这块这个声音在这一块声响是不是变小了？”）：句内一段比相邻段轻/响，只给这一段乘一个增益
     if _pgn:                                                    # 段 = 按 , ; : 切的第几段（从 1 数）；接点在标点停顿的静音里，只调音量、不改音色；句内响度.py --写入 自动算
-        if sent in PGRAFT: raise SystemExit(f'【停止】分段增益dB 不能和 停顿处除阻 用在同一句（独立复核的位置会错开）：S{si+1}')
+        # K157（41 S6 expert,：有真需要的停顿处除阻，后半句轻 4.1 LU）：独立复核改成先按原始位置乘分段增益、再换供体，位置不再错开，这一句也许用分段增益（供体在停顿里，不乘增益，与出片同）
         for k_,g_ in _pgn.items():
             if not (str(k_).isdigit() and 1<=int(k_)<=len(pieces)) or abs(float(g_))>6: raise SystemExit(f'【停止】分段增益dB 写法不对（段号按 , ; : 从 1 数，共 {len(pieces)} 段；增益 ±6 dB 以内）：S{si+1} {k_}:{g_}')
             clips[2*(int(k_)-1)]=clips[2*(int(k_)-1)]*np.float32(10**(float(g_)/20))
         a=np.concatenate(clips)
     _rgn=d.get('段内渐变dB',{}).get(f'S{si+1}')   # 2026-11-03 段内渐变（用户听 37 S13：“前后大小不太一致”，to avoid frightening 偏响、pharmacists or the public 偏轻，同一段内前响后轻）：段内从 g0 线性渐变到 g1 dB
     if _rgn:
-        if sent in PGRAFT: raise SystemExit(f'【停止】段内渐变dB 不能和 停顿处除阻 用在同一句：S{si+1}')
         for k_,gg_ in _rgn.items():
             if not (str(k_).isdigit() and 1<=int(k_)<=len(pieces)) or len(gg_)!=2 or max(abs(float(x)) for x in gg_)>6: raise SystemExit(f'【停止】段内渐变dB 写法不对（{{"段号": [开头dB, 结尾dB]}}，±6 dB 以内）：S{si+1} {k_}:{gg_}')
             c_=clips[2*(int(k_)-1)]; clips[2*(int(k_)-1)]=(c_*10**(np.linspace(float(gg_[0]),float(gg_[1]),len(c_))/20)).astype(np.float32)

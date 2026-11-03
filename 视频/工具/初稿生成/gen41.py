@@ -1,27 +1,31 @@
 import json,re,glob,os
 # 第41篇初稿（逐词对照）：S = [(段, [chunk, ...])]，chunk = ([(英文组, 中文组), ...], 可选 note)
+# 2026-11-03 用户看 S9 they multiplied unchecked：“这两个颜色太相近了”——multiplied 琥珀黄 #FBBF24、unchecked 青绿 #2DD4BF（K140 重点词颜色）
+# 2026-11-03 用户改稿 S4/S6/S7：“biological下面对应的意思改为 生物的”“halt 叫停改为停止。”“这套方案以失败告终。改为这套计划/方案 彻底失败。”
+# 2026-11-03 用户改稿 S2：“bulky 意思对应 庞大笨重的”“Native to 标注重点词汇”“那就按照你说的来，原产于美洲”
+# 2026-11-03 用户改稿 S1：“的 改为 它的”；“最后一句改为 此种植园位于澳大利亚东北部的昆士兰州。把前面那个正困扰着后面的澳大利亚东北部昆士兰州给去掉。”
 # 2026-11-03 重点词中文沿用文章定稿（铁律），只按《翻译风格》调格式；短语型用法整体标（T22）；不用破折号（T36）。
 S=[
-(1,[[[("Greyback","灰背"),("cane","蔗"),("**beetles**,","**甲虫**(beetles)"),("whose","的"),("**larvae**","**幼虫**(larvae)"),("**devour**","**啃食**(devour)"),("roots,","根系，")],
+(1,[[[("Greyback","灰背"),("cane","蔗"),("**beetles**,","**甲虫**(beetles)"),("whose","它的"),("**larvae**","**幼虫**(larvae)"),("**devour**","**啃食**(devour)"),("roots,","根系，")],
      "（whose larvae devour roots：定语从句，修饰 beetles）"],
-    [[("were **plaguing**","正**困扰**(plaguing)着"),("**lucrative**","澳大利亚东北部昆士兰州**利润丰厚的**(lucrative)"),("sugar","甘蔗"),("**plantations** in Queensland, north-eastern Australia.","**种植园**(plantations)。")],
+    [[("were **plaguing**","正**困扰**(plaguing)着"),("**lucrative**","**利润丰厚的**(lucrative)"),("sugar","甘蔗"),("**plantations**","**种植园**(plantations)，"),("in Queensland, north-eastern Australia.","此种植园位于澳大利亚东北部的昆士兰州。")],
      "（in Queensland：后置定语，修饰 plantations；\nnorth-eastern Australia：同位语，补充说明 Queensland）"]]),
 (1,[[[("In June 1935","1935年6月，"),("Queensland","昆士兰州"),("**imported**","从夏威夷**引进了**(imported)"),("102","102只"),("cane","甘蔗"),("toads,","蟾蜍，")]],
-    [[("**bulky**","这是一种原产美洲、**体型粗壮的**(bulky)"),("**amphibians** native to the Americas, from Hawaii.","**两栖动物**(amphibians)。")],
+    [[("**bulky**","这是一种**原产于**(native to)美洲、**庞大笨重的**(bulky)"),("**amphibians** **native to** the Americas, from Hawaii.","**两栖动物**(amphibians)。")],
      "（bulky amphibians native to the Americas：同位语，补充说明 cane toads；\nnative to…：原产于……；from Hawaii：修饰 imported）"]]),
 (1,[[[("That August","同年8月，"),("about 2,400 of their young","它们的约2,400只后代"),("were **released**.","被**释放**(released)到野外。")],
      "（young：名词，指动物的幼崽、后代）"]]),
-(1,[[[("**Biological**","**生物**(Biological)"),("control,","防治，"),("setting","即用"),("one **species**","一个**物种**(species)"),("against","去对付"),("a **pest**,","一种**害虫**(pest)，")],
+(1,[[[("**Biological**","**生物的**(Biological)"),("control,","防治，"),("setting","即用"),("one **species**","一个**物种**(species)"),("against","去对付"),("a **pest**,","一种**害虫**(pest)，")],
      "（setting one species against a pest：现在分词短语，补充说明 Biological control；\nset A against B：用 A 对付 B）"],
     [[("had","就此迎来了"),("an","一名"),("**ambitious**","**雄心勃勃的**(ambitious)"),("new **recruit**.","**新兵**(recruit)。")],
      "（recruit：新兵，这里指刚被派上场的甘蔗蟾蜍）"]]),
 (2,[[[("The **hasty** plan","这个**草率的**(hasty)计划"),("met **opposition**.","遭到了**反对**(opposition)。")],
      "（meet opposition：遭到反对）"]]),
-(2,[[[("In November 1935","1935年11月，"),("an insect","昆虫"),("expert,","专家"),("Walter Froggatt,","沃尔特·弗罗格特"),("**persuaded**","**说服**(persuaded)"),("officials","官员"),("to **halt**","**叫停**(halt)"),("releases;","释放；")],
+(2,[[[("In November 1935","1935年11月，"),("an insect","昆虫"),("expert,","专家"),("Walter Froggatt,","沃尔特·弗罗格特"),("**persuaded**","**说服**(persuaded)"),("officials","官员"),("to **halt**","**停止**(halt)"),("releases;","释放；")],
      "（Walter Froggatt：同位语，补充说明 an insect expert；\npersuade sb to do sth：说服某人做某事）"],
     [[("after","经"),("Queensland's **lobbying**,","昆士兰州**游说**(lobbying)，"),("they","释放"),("**resumed** in September 1936.","于1936年9月**恢复**(resumed)。")],
      "（they：指 releases，即释放）"]]),
-(2,[[[("The **scheme**","这套**方案**(scheme)"),("**flopped**:","**以失败告终**(flopped)："),("the toads","蟾蜍"),("barely","几乎没能"),("**dented**","**削减**(dented)"),("beetle","甲虫的"),("numbers,","数量，")],
+(2,[[[("The **scheme**","这套**计划/方案**(scheme)"),("**flopped**:","**彻底失败**(flopped)："),("the toads","蟾蜍"),("barely","几乎没能"),("**dented**","**削减**(dented)"),("beetle","甲虫的"),("numbers,","数量，")],
      "（barely：几乎不，带否定意味；\n冒号后的分句具体说明 flopped）"],
     [[("perhaps","或许"),("because","是因为"),("the insects","这些昆虫"),("stayed","一直待在"),("high up on cane **stalks**.","甘蔗**茎秆**(stalks)的高处。")],
      "（perhaps because…：原因状语从句，表推测）"]]),
@@ -88,7 +92,6 @@ CONF={
  "S18 recruits now":"对齐不了：now 是时间状语，中文沿用文章定稿“如今新兵”，“如今”放到主语前",
  "S19 sealed by lobbying that overrode a warning":"对齐不了：by lobbying that overrode a warning 是方式状语加定语从句，中文“游说压过了警告而成定局”必须放到 sealed 前"},
 "对齐":{
- "S1-2 plantations in Queensland, nor":"in Queensland, north-eastern Australia 是后置定语（地点），中文“澳大利亚东北部昆士兰州”必须提前（放到 lucrative 下面）",
  "S2-2 amphibians native to the Ameri":"native to the Americas 是后置定语，中文“原产美洲”必须提前（放到 bulky 下面）；from Hawaii 修饰 imported，中文“从夏威夷”放到“引进了”前",
  "S3-1 about 2,400 of their young":"of 结构：about 2,400 of their young，中文“它们的约2,400只后代”语序必须倒过来",
  "S7-2 high up on cane stalks.":"high up on cane stalks 是地点状语，中文“甘蔗茎秆的高处”方位词必须放到后面",
@@ -104,6 +107,7 @@ CONF={
 "方向":{"S6-2 after→经":"after Queensland's lobbying 中文“经昆士兰州游说”，“经”就是经过……之后，方向一致（沿用文章定稿）"},
 "词性":{"S9-2 unchecked 不受遏制地":"unchecked 是 adj.，在 multiplied unchecked 里作状语（说明繁殖的状态），中文“不受遏制地”作状语，沿用文章定稿"},
 "即":{"S4-1 即":"沿用文章定稿中文“即用一个物种去对付一种害虫”，同位说明 Biological control，用“即”简洁准确"},
+"中文意思":{"S2 native to":"不是被隔开的两处：用户 2026-11-03 原话定的“原产于美洲”，native to 只对应“原产于”，后面直接接“美洲、”，没有“……的”"},
 "短语":{
  "S2 imported … from":"不是搭配：from Hawaii 只引出来源（从夏威夷），imported 本身就是“引进”（同 40 dispensed … to 的判法）",
  "S2 imported … to":"不是搭配：to 属于 native to the Americas，和 imported 无关",
@@ -113,7 +117,7 @@ CONF={
  "S9 spawning … of":"不是搭配：of 属于 thousands of eggs，和 spawning 无关",
  "S10 accelerated … to":"不是搭配：to 只引出加快后达到的速度（到每年约50公里），accelerated 本身就是“加快”"}}
 out={"no":"41","title_en":"The Toad That Invaded Australia","title_zh":"入侵澳洲的毒蟾","title_fx":{"hl":["Toad","Invaded"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
-     "高亮按实际开口":True,"高亮开口门槛":40,
+     "换行变更已获同意":{"S1":"用户 2026-11-03 原话：“最后一句，最后一句。改为 此种植园位于澳大利亚东北部的昆士兰州。把前面那个正困扰着 后面的澳大利亚东北部昆士兰州给去掉。”"},"重点词颜色":{"multiplied":"#FBBF24","unchecked":"#2DD4BF"},"高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Biological":"生物","Queensland":"昆士兰州","Australia":"澳大利亚","Hawaii":"夏威夷","Americas":"美洲","Walter Froggatt":"沃尔特·弗罗格特","Western Australia":"西澳大利亚州","goannas":"巨蜥","northern quolls":"北袋鼬","quoll":"袋鼬","Cactoblastis":"仙人掌螟","New South Wales":"新南威尔士州","prickly pear":"刺梨"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
