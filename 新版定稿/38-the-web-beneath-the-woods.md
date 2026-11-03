@@ -2,9 +2,9 @@
 # ZH: 林下之网
 ## 英文
 
-One of ecology's most **romantic** ideas grew out of plastic bags. In a Canadian forest, researchers **enclosed** paper birch and Douglas fir seedlings in them, then **bathed** each species in carbon dioxide **laced** with a different **tracer**. Carbon **shuttled** both ways, **apparently** via **fungi** linking the trees' roots, yet the firs ran a **slight** **surplus**, larger in deeper **shade**.
+One of **ecology**'s most **romantic** ideas **grew out of** plastic bags. In a Canadian forest, researchers **enclosed** paper birch and Douglas fir **seedlings** **in** them, then **bathed** each species in carbon dioxide **laced** with a different **tracer**. Carbon **shuttled** both ways, **apparently** via **fungi** **linking** the trees' roots, yet the firs ran a **slight** **surplus**, larger in deeper **shade**.
 
-Most **terrestrial** plants **harbour** such fungi, whose **filaments** **forage** for water and **nutrients** including nitrogen, **swapping** them for plant sugars. One fungus can **knit** plants into a shared network. The journal Nature **unveiled** the study on 7 August 1997, its cover offering a **catchy** **coinage**: the "wood-wide web".
+Most **terrestrial** plants **harbour** such **fungi**, whose **filaments** **forage** for water and **nutrients** including nitrogen, **swapping** them for plant sugars. One fungus can **knit** plants into a shared network. The journal Nature **unveiled** the study on 7 August 1997, its cover offering a **catchy** **coinage**: the "wood-wide web".
 
 The **metaphor** proved **irresistible**. Between 2015 and 2021, a forester's **bestseller**, an **acclaimed** novel, and an ecologist's **memoir** told readers that trees **converse**, warn one another, and, as "mother trees", **nurture** their **kin**. Yet the 1997 trees were seedlings, not **elderly** mothers.
 
@@ -14,9 +14,9 @@ None of this **disproves** the networks' existence. In January 2025, defenders f
 
 ## 中文
 
-生态学中最**浪漫**(romantic)的观念之一，萌生于塑料袋之中。研究人员在加拿大的一片森林里，把纸桦和花旗松的幼苗**罩**(enclosed)进袋里，再让两种幼苗分别**沐浴**(bathed)在**掺有**(laced)不同**示踪物**(tracer)的二氧化碳中。碳在两种树之间双向**穿梭**(shuttled)，**似乎**(apparently)是经由连接两者根系的**真菌**(fungi)；不过，花旗松最终出现了碳的**小幅**(slight)**盈余**(surplus)，而且所受**遮荫**(shade)越重，盈余越大。
+**生态学**(ecology)中最**浪漫**(romantic)的观念之一，**萌生于**(grew out of)塑料袋之中。研究人员在加拿大的一片森林里，**把**(enclosed in)纸桦和花旗松的**幼苗**(seedlings)**罩进**(enclosed in)袋**里**(enclosed in)，再让两种幼苗分别**沐浴**(bathed)在**掺有**(laced)不同**示踪物**(tracer)的二氧化碳中。碳在两种树之间双向**穿梭**(shuttled)，**似乎**(apparently)是经由**连接**(linking)两者根系的**真菌**(fungi)；不过，花旗松最终出现了碳的**小幅**(slight)**盈余**(surplus)，在更深的**遮荫**(shade)下盈余更大。
 
-大多数**陆生**(terrestrial)植物身上都**栖居着**(harbour)这类真菌，它们的**菌丝**(filaments)四处**搜寻**(forage)水分和氮等**养分**(nutrients)，再拿去**换取**(swapping)植物的糖分。单个真菌就能把多株植物**编织**(knit)进同一张共享网络。1997年8月7日，《自然》杂志**推出**(unveiled)了这项研究，当期封面还送上一个**响亮好记的**(catchy)**新造词**(coinage)——“林木万维网”（wood-wide web）。
+大多数**陆生**(terrestrial)植物身上都**包含/携带着**(harbour)这类**真菌**(fungi)，它们的**菌丝**(filaments)四处**搜寻**(forage)水分和氮等**养分**(nutrients)，再拿去**换取**(swapping)植物的糖分。单个真菌就能把多株植物**编织**(knit)进同一张共享网络。1997年8月7日，《自然》杂志**推出**(unveiled)了这项研究，当期封面还送上一个**响亮好记的**(catchy)**新造词**(coinage)——“林木万维网”（wood-wide web）。
 
 结果，这个**比喻**(metaphor)**令人难以抗拒**(irresistible)。2015年至2021年间，一位护林人的**畅销书**(bestseller)、一部**广受赞誉的**(acclaimed)小说和一位生态学家的**回忆录**(memoir)都向读者讲述，树木会**交谈**(converse)，会互相示警，还会作为“母树”**照料**(nurture)自己的**亲族**(kin)。然而，1997年实验里的树都还是幼苗，并非**年迈的**(elderly)母亲。
 
@@ -27,14 +27,18 @@ None of this **disproves** the networks' existence. In January 2025, defenders f
 ## 速查表
 | 词 | 释义 | 段 |
 |---|---|---|
+| ecology | n. 生态学（ecology and evolution；forest ecology 森林生态学）；生态，生态系统（the ecology of the region）；ecological adj. 生态的；ecologist n. 生态学家 | 1 |
 | romantic | adj. 富于浪漫色彩的，理想化的（a romantic idea/notion/view of nature）；爱情的（a romantic relationship）；不切实际的，空想的 | 1 |
+| grew out of | v. (grow out of) 由……产生，源于（the idea grew out of an experiment；本文指这个观念萌生于塑料袋实验）；（孩子）长大而穿不下（grow out of one's clothes）；长大后改掉（习惯）（grow out of a habit） | 1 |
 | enclosed | v. (enclose) 把……罩住，封入，围起来（enclose sth in a bag/box；enclose a garden with a wall）；随信附上（please find enclosed…） | 1 |
 | bathed | v. (bathe) 使沐浴，使笼罩（be bathed in light/sunshine；bathe sth in a gas/liquid，本文指让幼苗笼罩在二氧化碳中）；给……洗澡；（英）游泳 | 1 |
 | laced | v. (lace) （be laced with）掺有，掺入（少量物质）（coffee laced with brandy；water laced with a tracer）；（话语等）夹杂（a speech laced with humour）；n. 鞋带；花边 | 1 |
+| seedlings | n. (seedling) 幼苗，秧苗（tree seedlings；plant seedlings in pots）；本文指纸桦和花旗松的幼苗 | 1 |
 | tracer | n. 示踪物，示踪剂（a radioactive/chemical tracer；use sth as a tracer，本文指掺进二氧化碳的标记碳，两种幼苗各用一种）；曳光弹 | 1 |
 | shuttled | v. (shuttle) 往返穿梭，来回运送（shuttle between A and B；shuttle back and forth；shuttle passengers to the airport）；n. 往返班车或班机；航天飞机（space shuttle） | 1 |
 | apparently | adv. 看来，似乎，据说（依据现有迹象推断，未经证实；本文指碳经由真菌转移只是推断）；注意：表推断时不宜译作“显然” | 1 |
 | fungi | n. (fungus 的复数) 真菌（mycorrhizal fungi 菌根真菌；fungi and bacteria）；fungal adj. 真菌的 | 1 |
+| linking | v. (link) 连接，连通（link A to/with B；fungi linking the roots，本文指真菌把两种树的根连在一起）；n. 联系，关联（a link between A and B） | 1 |
 | slight | adj. 小幅的，轻微的（a slight gain/increase/difference；not in the slightest 一点也不）；纤细的；v./n. 怠慢，轻视 | 1 |
 | surplus | n. 盈余，剩余额，过剩（run a surplus 出现盈余；a trade/budget surplus 贸易顺差/预算盈余；本文指花旗松收到的碳多于送出的碳）；adj. 过剩的（surplus food） | 1 |
 | shade | n. 遮荫，阴凉处，树荫（in the shade；in deep shade 在浓荫下；provide shade）；色度；细微差别（shades of meaning）；v. 遮蔽，遮挡（光线） | 1 |
