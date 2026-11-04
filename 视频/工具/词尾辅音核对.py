@@ -12,7 +12,7 @@
                      python3 词尾辅音核对.py NN --写入            不合格的 t/k 按出片程序的“词尾除阻”（_graft）算出位置写进 scripts/NN.json，重跑核对必须全过
                      python3 词尾辅音核对.py NN --自检            阳性对照：每一处合格的除阻逐个换成静音、压低 20 dB，每一次都必须报出；原样不报
 """
-import re, json, sys
+import re, json, sys, os
 import numpy as np, scipy.signal as ss
 sys.path.insert(0, '.')
 exec(open('make_video.py').read().split("if __name__")[0])
@@ -82,8 +82,37 @@ def lf_peak(x, a, b):
     return float(20 * np.log10(np.sqrt(np.mean(seg[:k * F5].reshape(k, F5) ** 2, axis=1)).max() / ref + 1e-12))
 
 
+# K170（46 S8 back 自检：/k/ 除阻换成静音后，程序往前把 æ 元音的尾巴当成除阻、判合格；真丢了除阻也会这样漏报）：
+# 除阻是送气噪声，没有周期；元音有基频周期。27/43/44 共 18 处合格除阻实测 自相关（基频 70–400 Hz 范围）最高 0.33，超过 PER_MAX 的不是除阻
+PER_MAX = 0.6
+def periodicity(x, a, b):
+    s = np.asarray(x[a:b], np.float64)
+    if len(s) < int(0.02 * SR): s = np.asarray(x[max(0, b - int(0.02 * SR)):b], np.float64)
+    s = s - s.mean(); r = np.correlate(s, s, 'full')[len(s) - 1:]; r = r / (r[0] + 1e-20)
+    return float(r[int(SR / 400):int(SR / 70)].max())
+
+
+def 双爆破(x, hp, z, ref):
+    """K171（46 S4 brightest：原声 /t/ 除阻 -32 dB 不过高频门槛，程序又移植一下，中间只隔 10 ms 静音，听成两个 t）：
+    有移植的位置，找到的除阻前 7.5–25 ms 静音之后还有一下 ≥ -40 dB 的非元音爆破 → 返回它 (全频, 隔 ms)，否则 None。
+    （-st 词尾 /s/ 擦音只隔 15 ms 闭塞，按时长 ≤110 ms、重心 ≥1 kHz 排除；除阻里不到静音的凹口 K167 不算）"""
+    if z is None: return None
+    z2 = release(x, hp, z[3][0], ref)
+    if z2 is None or z2[0] < -40: return None
+    gap = (z[3][0] - z2[3][1]) / SR * 1000
+    if not 7.5 <= gap <= 25 or z2[2] > DUR_MAX or centroid(x, *z2[3]) < CEN_MIN or periodicity(x, *z2[3]) > PER_MAX or lf_peak(x, *z2[3]) > LF_MAX: return None   # /s/ 擦音 120–170 ms（02 context、24 collapsed coast、39 fixed 实测）、重心 <1 kHz 的余音（24 boat）都不是爆破
+    return z2[0], gap, z2[2], centroid(x, *z2[3])
+
+
+def 元音前(word):
+    """词尾塞音前一个音是元音（46 back = bˈæk）"""
+    w = re.sub(r'[ˈˌːˑ]', '', word)
+    return len(w) >= 2 and w[-2] in 'aeiouyæɑɒɔəɛɜɪʊʌɚᵻɐɘɵø'
+
+
 def judge(x, z, ph):
     if z is None: return False
+    if periodicity(x, *z[3]) > PER_MAX: return False
     if ph in 'tk': return z[1] >= TH_HF and z[2] <= DUR_MAX and centroid(x, *z[3]) >= CEN_MIN and lf_peak(x, *z[3]) <= LF_MAX
     return z[0] >= TH_P
 
@@ -168,6 +197,13 @@ def check(no, d, mutate=None):
                 weak = z is None or z[0] < -40                      # 偏弱的（01 sixty-second, -43 dB、argued, 没有除阻）剪成试听交用户
                 info.append(f"{no} {lab} {where} {word}（浊塞音，不判）{desc}{'  ← 偏弱，需试听：剪成试听交用户确认' if weak else ''}"); continue
             ok = judge(out, z, ph)
+            gk_ = '句末' if g == len(fin) - 1 else str(g + 1)
+            gr_ = gk_ in d.get('词尾除阻', {}).get(lab, {})
+            db_ = 双爆破(out, hp, z, ref) if ph in 'tkp' and (gr_ or 元音前(word)) else None   # 没移植的只查元音后的塞音：-pt -kt -st 前一下是 /p k s/ 自己的声音（03 scraped、15 slept、30 east 等 8 处实测），不是重复
+            if db_ and not d.get('核对确认', {}).get('双爆破', {}).get(f'{lab} {where}'):   # K172（46 S8 back,：原始合成就有两下 /k/ 爆破，隔 20 ms 静音）：没有移植的也查；用户听过说没问题的写 核对确认.双爆破 {"S8 第2个标点": "用户原话"}
+                if gr_: line = f"{no} {lab} {where} {word} /{ph}/ BAD 双爆破：移植的除阻前 {db_[1]:.0f} ms 原声已有一下除阻（{db_[0]:.1f} dB），会听成两个 {ph}（{db_[2]} ms、重心 {db_[3]} Hz）；删掉这条移植，改用 除阻加强 加强原声那一下（46 S4）"
+                else: line = f"{no} {lab} {where} {word} /{ph}/ BAD 双爆破：原始合成在停顿前有两下除阻，隔 {db_[1]:.0f} ms 静音（前一下 {db_[0]:.1f} dB、{db_[2]} ms、重心 {db_[3]} Hz），可能听成两个 {ph}；剪试听交用户，用户说没问题写 核对确认.双爆破 \"{lab} {where}\"，有问题用 非人声区间 删掉多的一下（46 S8）"
+                rows.append(line); bad.append((lab, -1, -1, ph, line)); continue
             if z is not None and ph in 'tk': desc += f'、重心 {centroid(out, *z[3])} Hz'
             line = f"{no} {lab} {where} {word} /{ph}/ {'OK ' if ok else 'BAD'} {desc}（门槛：{'2 kHz 以上 ≥ %.0f dB、≤ %d ms、重心 ≥ %d Hz' % (TH_HF, DUR_MAX, CEN_MIN) if ph in 'tk' else '全频 ≥ %.0f dB' % TH_P}）"
             rows.append(line)
@@ -270,6 +306,7 @@ if __name__ == '__main__':
             for g, (word, ph) in enumerate(fin):
                 if ph not in 'tkp' or starts[g] is None: continue
                 z = release(out, hp, starts[g], ref)
+                if (word and (gk_s := ('句末' if g == len(fin) - 1 else str(g + 1))) in d.get('词尾除阻', {}).get(lab, {}) or 元音前(word)) and 双爆破(out, hp, z, ref): continue   # K172：有两下除阻的位置正检查已报 BAD（或用户听过确认），去掉一下还剩一下，不能做阳性对照
                 if not judge(out, z, ph):
                     print(f'✘ 词尾辅音核对 自检：{no} {lab} {word} 原样就不合格，自检前提不成立'); sys.exit(1)
                 n_ok += 1
@@ -296,6 +333,22 @@ if __name__ == '__main__':
             fr_ = [np.ones(F5)] + [np.zeros(F5) if v < -200 else (lambda f: f / (np.sqrt(np.mean(f ** 2)) + 1e-20) * 10 ** (v / 20))(ss.sosfiltfilt(HP, rng_.standard_normal(3 * F5))[F5:2 * F5]) for v in reversed(sq_)]
             x_ = np.concatenate(fr_); m_ = len(x_) // F5; ref_ = np.sqrt(np.mean(x_[:m_ * F5].reshape(m_, F5) ** 2, axis=1)).max()
             if bool(judge(x_, release(x_, ss.sosfiltfilt(HP, x_), len(x_), ref_), 'p')) != want_: miss.append(f'K167 {nm_}（46 S5 lamp,）判{"错拦" if want_ else "错放"}')
+        # K170 坏样本（46 S8 back）：/k/ 除阻没了，往前是闭塞残响、再往前是 æ 元音尾巴（-42 dB 上下、有基频周期、高频够）：不许判合格；好样本：同样位置是 60 ms 高频送气噪声，照收
+        t3_ = tt_(0.06); vw_ = sum(np.sin(2 * np.pi * 180 * h * t3_) * (0.1 if h <= 4 else 1) for h in range(1, 25)) * 0.01 * np.concatenate([np.linspace(0.6, 1, len(t3_) // 3), np.geomspace(1, 0.02, len(t3_) - len(t3_) // 3)])   # 旧判法全过（-26 dB、高频 -28、55 ms、重心 2.6 kHz、800 Hz 以下 -43），只有周期性 0.87 拦得住
+        for nm_, x_, want_ in (('元音尾巴当除阻', np.concatenate([loud_, z0_, vw_, np.zeros(n_(0.12)), z0_]), False), ('真除阻', np.concatenate([loud_, z0_, vw_, np.zeros(n_(0.03)), b_, z0_]), True)):
+            m_ = len(x_) // F5; ref_ = np.sqrt(np.mean(x_[:m_ * F5].reshape(m_, F5) ** 2, axis=1)).max()
+            if judge(x_, release(x_, ss.sosfiltfilt(HP, x_), len(x_), ref_), 'k') != want_: miss.append(f'K170 {nm_}（46 S8 back）判{"错放" if not want_ else "错拦"}')
+        # K171 坏样本（46 S4 brightest）：闭塞 40 ms → 原声除阻 → 10 ms 静音 → 移植的除阻：必须报双爆破；好样本：/s/ 擦音 → 40 ms 闭塞 → 一下除阻，不报
+        s8_ = ss.sosfiltfilt(HP, rng_.standard_normal(n_(0.12))) * 0.3; zc_ = np.zeros(n_(0.04)); zg_ = np.zeros(n_(0.01))   # 好样本按 24 S8 collapsed 实测：/s/ 120 ms -13 dB、闭塞 15 ms
+        for nm_, x_, want_ in (('双爆破', np.concatenate([loud_, zc_, b_ * 0.5, zg_, b_, z0_]), True), ('擦音+闭塞+一下除阻', np.concatenate([loud_, s8_, np.zeros(n_(0.015)), b_, z0_]), False)):
+            m_ = len(x_) // F5; ref_ = np.sqrt(np.mean(x_[:m_ * F5].reshape(m_, F5) ** 2, axis=1)).max(); h_ = ss.sosfiltfilt(HP, x_)
+            if bool(双爆破(x_, h_, release(x_, h_, len(x_), ref_), ref_)) != want_: miss.append(f'K171 {nm_}（46 S4 brightest）判{"错放" if want_ else "错拦"}')
+        # K172 真片坏样本（46 S8 back, 成片声音，样本/46_S8_back_out.npy，停顿在 79920）：原始合成 3.14 和 3.25 秒两下 /k/ 爆破、隔 20 ms 静音：必须报双爆破
+        _np46 = os.path.join(os.path.dirname(os.path.abspath(__file__)), '样本', '46_S8_back_out.npy')
+        if os.path.exists(_np46):
+            x_ = np.load(_np46).astype(np.float64); m_ = len(x_) // F5; ref_ = np.sqrt(np.mean(x_[:m_ * F5].reshape(m_, F5) ** 2, axis=1)).max(); h_ = ss.sosfiltfilt(HP, x_)
+            if not 双爆破(x_, h_, release(x_, h_, 79920, ref_), ref_): miss.append('K172 46 S8 back, 原声两下 /k/ 爆破没报双爆破')
+        else: miss.append('K172 真片样本 样本/46_S8_back_out.npy 不见了')
         ok = n_ok > 0 and not miss
         print(f"{'✔' if ok else '✘'} 词尾辅音核对 自检：{no} 原样 {n_ok} 处全部合格；逐处把除阻换成静音、压低 20 dB，共 {2 * n_ok} 次" + ('全部报出' if not miss else f'，没报出 {len(miss)} 次：' + '；'.join(miss)))
         sys.exit(0 if ok else 1)

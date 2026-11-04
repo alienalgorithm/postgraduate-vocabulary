@@ -6,19 +6,27 @@ S=[
     [[("**inspecting** rice ear by ear","一穗一穗地**检查**(inspecting)水稻时，")],
      "（inspecting…：现在分词短语作伴随状语；\near by ear：一穗一穗地）"],
     [[("{{=}}in a **paddy** at Anjiang Agricultural School in Hunan province,","在湖南省安江农校的一块**稻田**(paddy)里，")]],
-    [[("the **instructor**","**教员**(instructor)"),("Yuan Longping","袁隆平"),("spotted","发现了"),("a **peculiar**","一株**奇特的**(peculiar)"),("plant.","稻子。")],
+    [[("the **instructor**","**教员**(instructor)"),("Yuan Longping","袁隆平"),("spotted","发现了"),("a **peculiar**","一株**奇特的/奇怪的**(peculiar)"),("plant.","稻子。")],
      "（the instructor Yuan Longping：同位语，说明袁隆平的身份）"]]),
-(1,[[[("It was","它是"),("male-**sterile**,","雄性**不育**(sterile)株，"),("**shedding** no","**散**(shedding)不出"),("**viable**","**有活力的**(viable)"),("**pollen**.","**花粉**(pollen)。")],
+(1,[[[("It was","它是"),("male-**sterile**,","雄性**不育**(sterile)株，"),("**shedding** no","**散播**(shedding)不出"),("**viable**","**能生长发育的**(viable)"),("**pollen**.","**花粉**(pollen)。")],
      "（shedding no viable pollen：现在分词短语作伴随状语，\n补充说明 male-sterile）"]]),
-(1,[[[("Rice","水稻"),("pollinates itself,","是自花授粉的，")]],
+(1,[[[("Rice","水稻"),("**pollinates itself**,","**自花授粉**(pollinates itself)，")]],
     [[("so","所以，"),("breeding **hybrid** seed **in bulk**","要**大批地**(in bulk)培育**杂交**(hybrid)种子，"),("depends on","就得靠"),("such plants.","这样的植株。")],
      "（breeding… in bulk：动名词短语作主语；\nin bulk：大批，大量地）"]]),
 (1,[[[("In February 1966","1966年2月，"),("he","他"),("**detailed**","**详细描述了**(detailed)"),("the **anomaly**","这一**反常现象**(anomaly)，"),("in the **journal**","文章发表在**期刊**(journal)"),("Chinese Science Bulletin.","《科学通报》上。")],
      "（Chinese Science Bulletin：《科学通报》，\n中国的学术期刊）"]]),
 (2,[[[("The **specimen**","这株**标本**(specimen)"),("**launched**","**开启了**(launched)"),("a six-year **hunt**:","一场长达六年的**搜寻**(hunt)：")]],
     [[("Yuan and his **colleagues**","袁隆平和**同事们**(colleagues)"),("could not **breed**","始终**培育**(breed)不出"),("a sterile line","一个不育系，")]],
-    [[("whose **offspring**","能让**后代**(offspring)"),("**reliably**","**稳定地**(reliably)"),("**inherited**","**遗传**(inherited)"),("the **trait**.","这一**性状**(trait)。")],
-     "（whose…：定语从句，修饰 a sterile line）"]]),
+    [[("whose **offspring**","其**后代**(offspring)"),("**reliably**","能**稳定地**(reliably)"),("**inherited**","**遗传**(inherited)"),("the **trait**.","这一**性状**(trait)。")],
+     "（whose…：定语从句，修饰 a sterile line）\n"
+     "1. 想要超级高产的水稻 -> 必须让两种水稻杂交（A和B结合）。\n"
+     "2. 想杂交但做不到 -> 水稻自己给自己授粉，B的花粉进不去。\n"
+     "3. 怎么破解 -> 必须找到一种“自己没花粉的A（不育水稻）”。\n"
+     "4. 找到之后干嘛 -> 种在田里，让B的花粉吹过来给它授粉。\n"
+     "5. 结果如何 -> 结出超级高产的杂交种子。\n"
+     "因为杂交必须要有不育的母本，袁隆平找到了这株标本；\n"
+     "但花了6年发现，这株标本的后代无法稳定遗传，\n"
+     "实验陷入了死胡同（卡在了这里）"]]),
 (2,[[[("The **breakthrough**","**突破**(breakthrough)"),("came","出现在"),("on 23 November 1970,","1970年11月23日，")]],
     [[("in a **marsh**","地点是一片**沼泽**(marsh)，"),("near Nanhong Farm in Sanya, Hainan.","在海南三亚南红农场附近。")]]]),
 (2,[[[("Yuan's assistant, Li Bihu,","袁隆平的助手李必湖"),("and Feng Keshan, a farm **technician**,","和农场**技术员**(technician)冯克珊")],
@@ -89,6 +97,7 @@ CONF={"合组":G,"对齐":{
  "S15-1 who shared the 2004 World Food":"非限制性定语从句，with Sierra Leone's Monty Jones 中文“曾与塞拉利昂的蒙蒂·琼斯共获”必须放到动词前，年份也要提到奖名前",
  "S15-2 died in Changsha on 22 May 202":"时间、地点状语 in Changsha on 22 May 2021，中文“2021年5月22日在长沙逝世”必须放到动词前，时间在地点前",
 },
+ "中文意思":{"S3 pollinates itself":"本文是 pollinate itself 整体“自花授粉”（用户 2026-11-04 改稿原话“翻译改为：水稻自花授粉”），没有宾语，速查表“给……授粉”的被隔开用法这里用不上，中文一处连着标"},
  "们":{"S5-2 **同事们**":"colleagues 是复数，沿用文章定稿“同事们”，们在加粗内"},
  "数字":{"S12-1 140,000":"about 140,000 中文按文章定稿写作“约14万”，数值相同（140,000 = 14万）；英文读 one hundred and forty thousand","S14-1 2000":"the early 2000s 中文按文章定稿写作“21世纪初”（2000年代初 = 21世纪初）；英文读 the early two thousands"},
  "短语":{"S6 breakthrough … in":"不是搭配：in a marsh 是地点状语，不是 breakthrough in 搭配（文中没有“在……方面的突破”）",
@@ -115,6 +124,7 @@ CONF["机器复听"]={"S10": {"配音指纹": "8253a58195c8", "依据": "2026-11
 out={"no":"48","title_en":"Rice for the World","title_zh":"稻济天下","title_fx":{"hl":["Rice","World"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "非人声区间":{"S4":[[2.2875,2.5725]],"S10":[[3.57,3.86],[5.91,6.125],[6.155,6.168042,"紧贴词头"]],"S12":[[1.785,2.01],[4.503,4.635,"紧贴词尾"]],"S13":[[2.950292,3.1,"紧贴词尾"],[5.595542,5.800208,"紧贴两头"]],"S14":[[1.53025,1.70575,"紧贴两头"]],"S16":[[1.935208,2.090458,"紧贴两头"]]},
      "高亮开始":{"S13 第2块":111.16},
+     "换行变更已获同意":{"S1":"用户原话“意思改为 奇特的/奇怪的”（2026-11-04，S1 peculiar 中文变长，换行随之变）；问“换行随着变可以吗？”，用户答“可以”（用户同意记录已记）"},
      "停顿插入点":{"S7":{"2":[2.117292,"交界"]}},
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Yuan Longping":"袁隆平","Yuan":"袁隆平","Anjiang Agricultural School":"安江农校","Hunan":"湖南","Chinese Science Bulletin":"《科学通报》","Li Bihu":"李必湖","Feng Keshan":"冯克珊","Nanhong Farm":"南红农场","Sanya":"三亚","Hainan":"海南","Yan Longan":"颜龙安","Jiangxi":"江西","Zhang Xiancheng":"张先程","Guangxi":"广西","Suzhou":"苏州","World Food Prize Foundation":"世界粮食奖基金会","World Food Prize":"世界粮食奖","China":"中国","Sierra Leone":"塞拉利昂","Monty Jones":"蒙蒂·琼斯","Changsha":"长沙"}}
