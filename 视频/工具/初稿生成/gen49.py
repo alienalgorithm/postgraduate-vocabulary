@@ -111,7 +111,13 @@ CONF={"合组":G,"对齐":{
  "S16 preserved … of":"不是搭配：of 属于 the National Library of France，和 preserved 无关"}}
 CONF["读音"]={"Sk":{"读音":"skwɔdˈɔfskə","整句读法已核实":True,"依据":"不是单独的词：Skłodowska 里的 ł 不在读音核对的字母范围，被切成 Sk + odowska；整词已写读音改正 skwɔdˈɔfskə（英文维基波兰语原名 [skwɔˈdɔfska]），整句音标里已是 skwɔdˈɔfskə"},
  "odowska":{"读音":"skwɔdˈɔfskə","整句读法已核实":True,"依据":"同 Sk：Skłodowska 被 ł 切开的后半截；整词读音已改正并核实"}}
+CONF["停顿位置"]={
+ "S5 December, / radium. @7.775":"2026-11-04 逐 1.5 ms 实测（S5 w）：December 的 ɚ 7.57–7.68（400–1k Hz 主导，-22～-30 dB），7.685–7.755 衰减到 -50 dB；7.7685–7.7775 是 -66～-102 dB 的静音低谷（7.773 最低），7.779 起 radium 的 /ɹ/（低频主导，-47→-30 dB），7.865 起 eɪ。插入点 7.775 落在静音低谷里、/ɹ/ 起音前 4 ms，正好在两词之间",
+ "S8 insistence, / the @4.415":"2026-11-04 逐 5 ms 实测（S8 w）：insistence 的 /s/ 到 4.215（-26～-38 dB），4.22–4.245 衰减到 -55～-62 dB，4.25–4.35 是 -50～-57 dB 的 /s/ 尾气；4.37–4.435 是 -60～-71 dB 静音（4.41 -71 dB 最低）；4.44 起 the 的 /ð/（低频主导，-46→-23 dB）。插入点 4.415 落在静音里、/ð/ 前 25 ms，在两词之间",
+ "S12 Undeterred, / she @0.713":"2026-11-04 逐 2 ms 实测（S12 w）：Undeterred 的 ɚ 到 0.695（低频主导），0.706 /d/ 除阻（重心 2.9 kHz），0.708–0.714 低谷（0.712 -49 dB），0.716 起 she 的 /ʃ/（2.5 kHz 以上占 -0.1～-0.4 dB、重心 3.6–5.1 kHz）。程序原插 0.900 落在 she 和 collected 之间（错），改用停顿插入点插 /d/→/ʃ/ 交界 0.7125（过零点）"}
 out={"no":"49","title_en":"The Woman Who Won Two Nobels","title_zh":"两度摘得诺奖的女人","title_fx":{"hl":["Two","Nobels"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
+     "停顿插入点":{"S12":{"1":[0.7125,"交界"]}},
+     "非人声区间":{"S8":[[4.242208,4.414375,"紧贴词尾"]],"S10":[[1.2575,1.418042,"紧贴词尾"]],"S11":[[1.834,1.889208]],"S14":[[1.377208,1.642042],[5.444,5.502333]],"S17":[[2.079,2.136042]]},
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Marie Curie":"玛丽·居里","Maria Skłodowska":"玛丽亚·斯克沃多夫斯卡","Warsaw":"华沙","Paris":"巴黎","Sorbonne":"索邦大学","Pierre Curie":"皮埃尔·居里","Pierre":"皮埃尔","Henri Becquerel":"亨利·贝克勒尔","Becquerel":"贝克勒尔","Curies":"居里夫妇","Nobel":"诺贝尔","First World War":"第一次世界大战","National Library of France":"法国国家图书馆"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

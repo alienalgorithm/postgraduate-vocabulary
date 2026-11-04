@@ -1,0 +1,29 @@
+{
+ "会话": "c087cab0",
+ "篇": "49",
+ "角色": "",
+ "更新": "2026-11-04T17:31",
+ "等效": 1.9,
+ "调用": 81,
+ "平均上下文": 181,
+ "最后上下文": 236,
+ "按步骤": {
+  "踩坑核查.py": 1.11,
+  "读音核对.py": 0.35,
+  "开工记录.py": 0.15,
+  "开工前": 0.09,
+  "gen49.py": 0.07,
+  "sync_article.py": 0.06,
+  "停顿位置精确核对.py": 0.05
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   2
+  ]
+ ]
+}
