@@ -2,9 +2,9 @@
 # ZH: 写给外星人的一张唱片
 
 ## 英文
-In late summer 1977, NASA **fastened** a **disc** **wrought** from **gilded** copper, 30 **centimetres** wide, to each Voyager **spaceship** before **takeoff**. Nobody could **foresee** who, if anyone, would play one.
+In late summer 1977, NASA **fastened** a **disc** **wrought** from **gilded** **copper**, 30 **centimetres** wide, to each Voyager **spaceship** before **takeoff**. Nobody could **foresee** who, if anyone, would play one.
 
-**Advisers** under Carl Sagan of Cornell **distilled** our **earthly** **abode** into this **compendium**. Voices **greet** the **listener** in 55 languages, followed by the **rumble** of **thunder**, the **whistle** of wind, whales, footsteps, **laughter**, and a **rhythmic** **heartbeat**. About 90 minutes of **eclectic** music cover a **spectrum** of cultures and eras, **notably** Bach and Chuck Berry's Johnny B. Goode.
+**Advisers** under Carl Sagan of Cornell **distilled** our **earthly** **abode** into this **compendium**. Voices **greet** the **listener** in 55 languages, followed by the **rumble** of **thunder**, the **whistle** of wind, whales, footsteps, **laughter**, and a **rhythmic** **heartbeat**. About 90 minutes of **eclectic** music cover **a spectrum of** cultures and **eras**, **notably** Bach and Chuck Berry's Johnny B. Goode.
 
 An **array** of 115 images, **encoded** in analogue form, sits beside printed words from two **statesmen**, Jimmy Carter and Kurt Waldheim. The **sleeve** gives **guidance** on playing the disc, plus a **diagram** fixing the Sun with pulsars as **beacons**.
 
@@ -39,6 +39,7 @@ The Voyagers' discs will **glide** on **outwards** through the **void** as **mes
 | disc | n. 圆盘；唱片（a compact disc） | 1 |
 | wrought | adj./v. (work 旧式过去分词) 制作的，锻造的（wrought iron） | 1 |
 | gilded | adj. 镀金的（a gilded frame） | 1 |
+| copper | n. 铜（a copper pipe） | 1 |
 | centimetres | n. (centimetre) 厘米（ten centimetres long） | 1 |
 | spaceship | n. 宇宙飞船（board a spaceship） | 1 |
 | takeoff | n. 起飞（during takeoff） | 1 |
@@ -57,7 +58,8 @@ The Voyagers' discs will **glide** on **outwards** through the **void** as **mes
 | rhythmic | adj. 有节奏的（rhythmic breathing） | 2 |
 | heartbeat | n. 心跳（a steady heartbeat） | 2 |
 | eclectic | adj. 兼收并蓄的（eclectic tastes） | 2 |
-| spectrum | n. 范围，谱系；光谱（a wide spectrum of opinion） | 2 |
+| a spectrum of | phr. 一系列，各种各样的（a spectrum of cultures） | 2 |
+| eras | n. (era) 时代，年代（the Victorian era） | 2 |
 | notably | adv. 尤其，特别是（notably in Asia） | 2 |
 | array | n. 一系列，大量（an array of options） | 3 |
 | encoded | v. (encode) 编码（encode data） | 3 |
