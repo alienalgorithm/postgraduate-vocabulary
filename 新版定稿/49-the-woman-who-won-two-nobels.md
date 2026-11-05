@@ -47,6 +47,7 @@ She died on 4 July 1934 of a blood **disorder**, probably caused by **prolonged*
 | radium | n. 镭（radium paint；the discovery of radium） | 2 |
 | painstakingly | adv. 费尽心力地，煞费苦心地（painstakingly restored/researched） | 2 |
 | tonnes | n. (tonne) 公吨（a ten-tonne truck；tonnes of rubbish） | 2 |
+| leaky | adj. 漏的，漏水的，漏雨的（a leaky roof/tap/boat） | 2 |
 | ore | n. 矿石（iron/copper ore；mine and smelt ore） | 2 |
 | recovered | v. (recover) 回收，提取（recover metal from scrap；recover oil from sand）；恢复 | 2 |
 | gram | n. 克（100 grams of flour；a gram of gold） | 2 |
