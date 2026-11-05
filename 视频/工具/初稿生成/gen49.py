@@ -31,7 +31,7 @@ S=[
     [[("by 1902","到1902年，"),("she","她"),("had **recovered**","已**提取**(recovered)出"),("about","约"),("a tenth of a **gram**","十分之一**克**(gram)的"),("of radium **chloride**.","**氯化**(chloride)镭。")],
      "（had recovered：过去完成时，到1902年为止已完成；\na tenth of a gram：十分之一克）"]]),
 (3,[[[("On 10 December 1903","1903年12月10日，"),("she","她"),("**jointly** won the physics Nobel with Pierre and Becquerel,","与皮埃尔和贝克勒尔**共同**(jointly)获得诺贝尔物理学奖，")]],
-    [[("the first woman","成为第一位"),("so **recognised**.","获得诺贝尔奖**表彰**(recognised)的女性。")],
+    [[("the first woman","第一位"),("so **recognised**.","**获此认可的**(recognised)女性。")],
      "（the first woman so recognised：同位语，\n补充说明 she；\nso：指获得诺贝尔奖这件事）"]]),
 (3,[[[("The nomination had **initially** left her out;","**最初**(initially)的提名中没有她；")],
      "（leave sb out：把某人排除在外）"],
@@ -392,6 +392,7 @@ CONF["响度骤降"]={
 }
 }
 CONF["们"]={"S6-1 **(leaky)棚屋里，他们**":"们不在加粗里，是代词“他们”（they，指居里夫妇），沿用文章定稿；被报出只因前面 **漏雨的**(leaky) 与“他们”在同一块里"}
+G["S7 so recognised"]="对齐不了：the first woman so recognised 中文“第一位获此认可的女性”（用户原话），so recognised 是后置定语，中文“获此认可的”必须提到“女性”前，“女性”随之放最后"
 out={"no":"49","title_en":"The Woman Who Won Two Nobels","title_zh":"两度摘得诺奖的女人","title_fx":{"hl":["Two","Nobels"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "停顿插入点":{"S12":{"1":[0.7125,"交界"]}},
      "非人声区间":{"S8":[[4.242208,4.414375,"紧贴词尾"]],"S10":[[1.2575,1.418042,"紧贴词尾"]],"S11":[[1.76225,1.889208,"紧贴词尾"]],"S14":[[1.377208,1.642042],[5.218958,5.502333,"紧贴词尾"]],"S17":[[1.938,2.136042]]},
