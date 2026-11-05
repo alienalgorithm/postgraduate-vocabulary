@@ -37,7 +37,7 @@ S=[
      "（leave sb out：把某人排除在外）"],
     [[("at Pierre's **insistence**,","在皮埃尔的**坚持**(insistence)下，"),("the **omission**","这一**疏漏**(omission)"),("was **rectified**.","得到了**纠正**(rectified)。")],
      "（at one's insistence：在某人的坚持下）"]]),
-(3,[[[("On 19 April 1906","1906年4月19日，"),("a horse-drawn **wagon**","一辆马拉的**货车**(wagon)"),("**fatally** struck Pierre.","撞上皮埃尔，**致其身亡**(fatally)。")],
+(3,[[[("On 19 April 1906","1906年4月19日，"),("a horse-drawn **wagon**","一辆马拉的**货车**(wagon)"),("**fatally**","**致命地**(fatally)"),("struck","撞上了"),("Pierre.","皮埃尔。")],
      "（horse-drawn：马拉的）"]]),
 (3,[[[("On 5 November","11月5日，"),("she","她"),("gave her **inaugural** lecture as his **successor**,","作为他的**继任者**(successor)发表了**就职**(inaugural)演讲，")],
      "（as his successor：as 表身份，作为他的继任者）"],
