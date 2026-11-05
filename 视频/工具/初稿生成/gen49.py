@@ -59,7 +59,7 @@ S=[
      "（that 引导定语从句，修饰 vans and stationary posts）"]]),
 (5,[[[("She died on 4 July 1934","1934年7月4日，她死于"),("of a blood **disorder**,","一种血液**疾病**(disorder)，")],
      "（die of…：死于……）"],
-    [[("probably caused by","这种病很可能是"),("**prolonged**","**长期**(prolonged)"),("exposure to radiation.","受辐射所致。")],
+    [[("probably caused by","这很可能是由"),("**prolonged**","**长期**(prolonged)"),("exposure to radiation.","暴露于辐射所导致的。")],
      "（probably caused by…：过去分词短语作后置定语，修饰 disorder；\nexposure to…：暴露于……）"]]),
 (5,[[[("Her notebooks,","她的笔记本"),("still radioactive,","至今仍有放射性，")],
      "（still radioactive：形容词短语作插入语，补充说明 notebooks）"],
@@ -83,8 +83,8 @@ G={
  "S10 gave her inaugural lecture as his successor":"对齐不了：as his successor 表身份，中文“作为他的继任者发表了就职演讲”必须放到动词前",
  "S11 a press scandal about her private life":"对齐不了：about her private life 是后置定语，修饰 scandal，中文“关于她私生活的媒体丑闻”定语必须提前",
  "S12 she collected the chemistry Nobel, won outright, on 10 December":"对齐不了：on 10 December 是时间状语，中文“于12月10日”必须放到动词前；won outright 是插入的后置修饰，中文“她独得的”必须放到“诺贝尔化学奖”前",
- "S15 probably caused by":"对齐不了：caused by 中文“是……所致”包住后面的“长期受辐射”，“所致”只能放最后；probably 中文“很可能”",
- "S15 exposure to radiation":"对齐不了：exposure to radiation 中文“受辐射”，“所致”属于前面的 caused by，拆开不通",
+ "S15 probably caused by":"对齐不了：caused by 中文“是由……所导致的”（用户原话）包住后面的“长期暴露于辐射”，“所导致的”只能放最后",
+ "S15 exposure to radiation":"对齐不了：exposure to radiation 中文“暴露于辐射”，“所导致的”属于前面的 caused by，拆开不通",
 }
 CONF={"合组":G,"对齐":{
  "S2-2 emigrated to Paris in 1891,":"in 1891 是时间状语，中文“于1891年移居巴黎”时间必须放到动词前",
