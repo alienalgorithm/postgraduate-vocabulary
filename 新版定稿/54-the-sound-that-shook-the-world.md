@@ -10,7 +10,7 @@ Shortly after ten in the morning on 27 August 1883, Krakatoa, a **volcanic** isl
 
 **Ash** and **sulphur** dioxide, **hurled** tens of kilometres high, formed a **haze** that circled the **equator** in about two weeks. In November 1883, **crimson** sunsets **glowed** over Europe and North America, **summoning** **firefighters** in New York and Connecticut to **phantom** **blazes**. Later climate **reconstructions** suggest global temperatures **dipped** a few tenths of a degree the following year.
 
-Some experts **discounted** the volcanic explanation, blaming the sunsets on **moisture** at high **altitude** or **cosmic** dust. In February 1884, Britain's Royal Society appealed in The Times for dated observations, **eliciting** worldwide replies; the Society's 1888 report tied the glow to Krakatoa. Through barometers, cables and crimson skies, **far-flung** **observers** began to **glimpse** how **interconnected** the planet already was.
+Some experts **discounted** the volcanic explanation, blaming the sunsets on **moisture** at high **altitude** or **cosmic** dust. In February 1884, Britain's Royal Society appealed in The Times for dated observations, **eliciting** worldwide replies; the Society's 1888 report tied the glow to Krakatoa. Through barometers, cables, and crimson skies, **far-flung** **observers** began to **glimpse** how **interconnected** the planet already was.
 
 ## 中文
 
