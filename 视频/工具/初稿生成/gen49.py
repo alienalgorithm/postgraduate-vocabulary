@@ -14,7 +14,7 @@ S=[
      "（enrolling at…：现在分词短语作状语，\n表接着发生的动作）"]]),
 (1,[[[("On 26 July 1895","1895年7月26日，"),("she","她"),("**wed** the physicist Pierre Curie,","与物理学家皮埃尔·居里**成婚**(wed)，")]],
     [[("**forging**","两人**建立起**(forging)"),("a research **partnership**.","研究上的**合作关系**(partnership)。")],
-     "（forging…：现在分词短语作状语，表结果）"]]),
+     "（forging…：现在分词短语作状语，表结果；\nforge 常用来表示“打造、建立”。\n比如 forge a friendship 就是建立友谊，forge an alliance 是结盟；\n如果是 forge a path，意思就是硬生生“开辟/闯出一条路”。）"]]),
 (2,[[[("Henri Becquerel","亨利·贝克勒尔"),("found that","发现，"),("uranium","铀"),("emitted","会发出"),("rays;","射线；")],
      "（that 引导宾语从句）"],
     [[("she","她"),("named this **property** of certain **elements**","把某些**元素**(elements)的这种**性质**(property)"),("**radioactivity**.","命名为**放射性**(radioactivity)。")],
