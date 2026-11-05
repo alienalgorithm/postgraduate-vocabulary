@@ -55,6 +55,7 @@ She died on 4 July 1934 of a blood **disorder**, probably caused by **prolonged*
 | jointly | adv. 共同地，联合地（jointly owned/run；be jointly responsible） | 3 |
 | recognised | v. (recognise) 认可，表彰（be recognised for one's work；recognise an achievement）；认出 | 3 |
 | initially | adv. 起初，最初（initially reluctant；the plan initially failed） | 3 |
+| left out | v. (leave out) 把……排除在外，遗漏（leave sb out；feel left out 感到被冷落） | 3 |
 | insistence | n. 坚持，坚决要求（at sb's insistence；insistence on quality） | 3 |
 | omission | n. 遗漏，疏漏（a serious omission；errors and omissions） | 3 |
 | rectified | v. (rectify) 纠正，矫正（rectify a mistake/situation/problem） | 3 |
