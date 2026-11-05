@@ -66,7 +66,7 @@ S=[
     [[("are **preserved**","**保存**(preserved)在"),("in **lead**-lined boxes at the National Library of France;","法国国家图书馆的**铅**(lead)衬的盒子里；")],
      "（at the National Library of France：后置定语，修饰 boxes；\n铅衬的盒子目的是为了防止辐射，封印这本笔记）"],
     [[("readers","读者"),("sign","须签署"),("a **liability waiver**","**免责协议**(liability waiver)，"),("and **don**","并**穿上**(don)"),("**protective**","**防护**(protective)"),("**garments**.","**服装**(garments)。")]]]),
-(5,[[[("The pages","这些书页"),("**retain**","**留存**(retain)着"),("her **handwriting**","她的**笔迹**(handwriting)，"),("and her radium.","也留存着她的镭。")],
+(5,[[[("The pages","这些书页"),("**retain**","**留存**(retain)着"),("her **handwriting**","她的**笔迹**(handwriting)，"),("and her radium.","同样也留存着她所发现的镭。")],
      "（简述：玛丽·居里1867年生于华沙，当时那里的女性上不了大学，\n"
      "她1891年移居巴黎，入读索邦大学，1895年与皮埃尔·居里结婚。\n"
      "她把某些元素发出射线的性质命名为放射性，\n"
