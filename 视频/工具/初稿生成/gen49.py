@@ -61,11 +61,11 @@ S=[
      "（die of…：死于……）"],
     [[("probably caused by","这很可能是由"),("**prolonged**","**长期**(prolonged)"),("exposure to radiation.","暴露于辐射所导致的。")],
      "（probably caused by…：过去分词短语作后置定语，修饰 disorder；\nexposure to…：暴露于……）"]]),
-(5,[[[("Her notebooks,","她的笔记本"),("still radioactive,","至今仍有放射性，")],
+(5,[[[("Her notebooks,","她的笔记本"),("still","至今仍"),("**radioactive**,","**有放射性**(radioactive)，")],
      "（still radioactive：形容词短语作插入语，补充说明 notebooks）"],
-    [[("are **preserved**","**保存**(preserved)在"),("in **lead-lined** boxes at the National Library of France;","法国国家图书馆的**铅衬**(lead-lined)盒子里；")],
-     "（at the National Library of France：后置定语，修饰 boxes）"],
-    [[("readers","读者"),("sign","须签署"),("a **liability**","**责任**(liability)"),("**waiver**","**豁免书**(waiver)，"),("and **don**","并**穿上**(don)"),("**protective**","**防护**(protective)"),("**garments**.","**服装**(garments)。")]]]),
+    [[("are **preserved**","**保存**(preserved)在"),("in **lead**-lined boxes at the National Library of France;","法国国家图书馆的**铅**(lead)衬的盒子里；")],
+     "（at the National Library of France：后置定语，修饰 boxes；\n铅衬的盒子目的是为了防止辐射，封印这本笔记）"],
+    [[("readers","读者"),("sign","须签署"),("a **liability waiver**","**免责协议**(liability waiver)，"),("and **don**","并**穿上**(don)"),("**protective**","**防护**(protective)"),("**garments**.","**服装**(garments)。")]]]),
 (5,[[[("The pages","这些书页"),("**retain**","**留存**(retain)着"),("her **handwriting**","她的**笔迹**(handwriting)，"),("and her radium.","也留存着她的镭。")],
      "（简述：玛丽·居里1867年生于华沙，当时那里的女性上不了大学，\n"
      "她1891年移居巴黎，入读索邦大学，1895年与皮埃尔·居里结婚。\n"
@@ -392,9 +392,12 @@ CONF["响度骤降"]={
 }
 CONF["们"]={"S6-1 **(leaky)棚屋里，他们**":"们不在加粗里，是代词“他们”（they，指居里夫妇），沿用文章定稿；被报出只因前面 **漏雨的**(leaky) 与“他们”在同一块里"}
 G["S7 so recognised"]="对齐不了：the first woman so recognised 中文“第一位获此认可的女性”（用户原话），so recognised 是后置定语，中文“获此认可的”必须提到“女性”前，“女性”随之放最后"
+G["S16 in lead-lined boxes at the National Library of France"]="对齐不了：at the National Library of France 是后置定语，修饰 boxes，中文“法国国家图书馆的铅衬的盒子里”定语必须提前；lead-lined 只标 lead（用户原话），lined 化在“衬的”里"
+CONF.setdefault("短语",{})["S16 in … lead"]="不是搭配：in 属于 in lead-lined boxes（在……盒子里），lead 只修饰 lined，in lead 不是固定用法"
 out={"no":"49","title_en":"The Woman Who Won Two Nobels","title_zh":"两度摘得诺奖的女人","title_fx":{"hl":["Two","Nobels"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "停顿插入点":{"S12":{"1":[0.7125,"交界"]}},
      "非人声区间":{"S8":[[4.242208,4.414375,"紧贴词尾"]],"S10":[[1.2575,1.418042,"紧贴词尾"]],"S11":[[1.76225,1.889208,"紧贴词尾"]],"S14":[[1.377208,1.642042],[5.218958,5.502333,"紧贴词尾"]],"S17":[[1.938,2.136042]]},
+     "allow_clash":["radioactive"],
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Marie Curie":"玛丽·居里","Maria Skłodowska":"玛丽亚·斯克沃多夫斯卡","Warsaw":"华沙","Paris":"巴黎","Sorbonne":"索邦大学","Pierre Curie":"皮埃尔·居里","Pierre":"皮埃尔","Henri Becquerel":"亨利·贝克勒尔","Becquerel":"贝克勒尔","Curies":"居里夫妇","Nobel":"诺贝尔","First World War":"第一次世界大战","National Library of France":"法国国家图书馆"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

@@ -75,9 +75,9 @@ She died on 4 July 1934 of a blood **disorder**, probably caused by **prolonged*
 | disorder | n. 疾病，失调（a mental/genetic disorder；an eating disorder）；混乱 | 5 |
 | prolonged | adj. 长期的，持续很久的（a prolonged period/illness；prolonged applause） | 5 |
 | preserved | v. (preserve) 保存，保护（preserve old buildings/food；well preserved） | 5 |
-| lead-lined | adj. 衬铅的（a lead-lined room/container；lead-lined walls） | 5 |
-| liability | n. （法律）责任（accept/deny liability；limited liability）；累赘 | 5 |
-| waiver | n. 弃权声明，免责书（sign a waiver；a fee waiver） | 5 |
+| radioactive | adj. 放射性的，有放射性的（radioactive waste/material） | 5 |
+| lead | n. 铅（lead pipes；lead poisoning 铅中毒）；本文 lead-lined 衬铅的 | 5 |
+| liability waiver | n. 免责协议，弃权声明（sign a liability waiver；liability 责任，waiver 弃权书） | 5 |
 | don | v. 穿上，戴上（don a coat/hat/uniform）；书面用语 | 5 |
 | protective | adj. 防护的，保护的（protective clothing/gloves；protective of one's children） | 5 |
 | garments | n. (garment) 衣服，服装（woollen garments；a garment factory） | 5 |
