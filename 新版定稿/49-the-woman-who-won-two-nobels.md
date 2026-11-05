@@ -39,7 +39,8 @@ She died on 4 July 1934 of a blood **disorder**, probably caused by **prolonged*
 | forging | v. (forge) 建立，缔造（forge a relationship/an alliance/links）；伪造；锻造 | 1 |
 | partnership | n. 合作关系，伙伴关系（in partnership with；form a business partnership） | 1 |
 | elements | n. (element) 元素（a chemical element；the periodic table of the elements）；要素 | 2 |
-| property | n. 性质，特性（the chemical properties of water；healing properties）；财产 | 2 |
+| rays | n. (ray) 射线，光线（X-rays；rays of light；cosmic rays 宇宙射线） | 2 |
+| property | n. 性质，属性，特性（the chemical properties of water；healing properties）；财产 | 2 |
 | radioactivity | n. 放射性；放射现象（levels of radioactivity；measure radioactivity） | 2 |
 | tribute | n. 致敬，颂扬（pay tribute to sb；a fitting tribute to his work） | 2 |
 | motherland | n. 祖国（defend the motherland；return to one's motherland） | 2 |
