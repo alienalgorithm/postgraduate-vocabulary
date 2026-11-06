@@ -280,16 +280,16 @@
    "para": 2,
    "chunks": [
     {
-     "en": "**Ambulance** services were suspended,",
-     "zh": "**救护车**(Ambulance)服务暂停；",
+     "en": "**Ambulance** services were **suspended**,",
+     "zh": "**救护车**(Ambulance)服务**暂停**(suspended)；",
      "align": [
       [
        "**Ambulance** services",
        "**救护车**(Ambulance)服务"
       ],
       [
-       "were suspended,",
-       "暂停；"
+       "were **suspended**,",
+       "**暂停**(suspended)；"
       ]
      ]
     },
@@ -1174,6 +1174,9 @@
   "已告诉用户被去掉的重点词": "2026-11-05 已在会话中把 suspended（暂停）因与第22篇撞词被去掉的话原样告诉用户"
  },
  "结尾解说": "简述",
+ "allow_clash": [
+  "suspended"
+ ],
  "非人声区间": {
   "S2": [
    [
