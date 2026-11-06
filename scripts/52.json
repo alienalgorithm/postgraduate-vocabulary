@@ -472,31 +472,15 @@
     },
     {
      "en": "estimating about 12,000 excess deaths between December 1952 and February 1953.",
-     "zh": "估计约12,000人超额死亡，时间在1952年12月至1953年2月间。",
+     "zh": "估计在1952年12月至1953年2月期间约有12,000例超额死亡。",
      "align": [
       [
        "estimating",
        "估计"
       ],
       [
-       "about 12,000",
-       "约12,000人"
-      ],
-      [
-       "excess",
-       "超额"
-      ],
-      [
-       "deaths",
-       "死亡，"
-      ],
-      [
-       "between December 1952",
-       "时间在1952年12月"
-      ],
-      [
-       "and February 1953.",
-       "至1953年2月间。"
+       "about 12,000 excess deaths between December 1952 and February 1953.",
+       "在1952年12月至1953年2月期间约有12,000例超额死亡。"
       ]
      ],
      "note": "（estimating…：现在分词短语作状语，补充说明研究结论）"
@@ -841,6 +825,7 @@
    "S7 was abandoned at the interval": "对齐不了：at the interval 是时间状语，中文“演到幕间休息”必须放到“被迫中止”前",
    "S10 A study published in Environmental Health Perspectives in 2001": "对齐不了：published in… in 2001 是过去分词短语作后置定语，修饰 study，中文“2001年发表于《环境健康展望》的一项研究”定语必须提前，刊名不能拆",
    "S10 cast doubt on that explanation": "对齐不了：用户 2026-11-06 原话定的译文“并对这一解释提出了质疑”，cast doubt on 被 that explanation 隔开，中文“对……提出了质疑”两处都标 cast doubt on（T23），解释夹在中间，只能整组",
+   "S10 about 12,000 excess deaths between December 1952 and February 1953": "对齐不了：用户 2026-11-06 原话定的译文“估计在1952年12月至1953年2月期间约有12,000例超额死亡”，between… 是时间状语，中文必须放到“约有12,000例超额死亡”前，语序整个倒过来，只能整组",
    "S14 pressure for an inquiry": "对齐不了：for an inquiry 是介词短语作后置定语，修饰 pressure，中文“要求调查的压力”定语必须提前",
    "S18 all along": "对齐不了：all along 是固定短语“一直，始终”，拆开 all、along 中文不通",
    "S16 three and a half years after the smog": "对齐不了：three and a half years after the smog 是时间状语，中文“距那场烟雾已有三年半”语序必须倒过来"
