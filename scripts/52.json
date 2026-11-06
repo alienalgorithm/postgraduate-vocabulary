@@ -190,8 +190,8 @@
    "para": 2,
    "chunks": [
     {
-     "en": "That smoke, from coal burned in **domestic** **fireplaces** and power stations,",
-     "zh": "这些煤烟来自于烧的煤，在**家庭**(domestic)**壁炉**(fireplaces)和发电厂里，",
+     "en": "That smoke, from coal burned in **domestic** **fireplaces** and **power stations**,",
+     "zh": "这些煤烟来自于烧的煤，在**家庭**(domestic)**壁炉**(fireplaces)和**发电厂**(power stations)里，",
      "align": [
       [
        "That smoke,",
@@ -214,8 +214,8 @@
        "**壁炉**(fireplaces)"
       ],
       [
-       "and power stations,",
-       "和发电厂里，"
+       "and **power stations**,",
+       "和**发电厂**(power stations)里，"
       ]
      ],
      "note": "（from coal…：介词短语作后置定语，修饰 smoke；\nburned in…：过去分词短语作后置定语，修饰 coal）"
@@ -849,10 +849,10 @@
  ],
  "核对确认": {
   "合组": {
+   "S5 and power stations": "对齐不了：power stations 是一个词“发电厂”，拆开不通",
    "S4 This time, though": "对齐不了：though 是转折副词，中文“不过”必须放句首，“这一次”跟在后面，拆开语序不通",
    "S4 was trapped too": "对齐不了：too 中文“也”必须放到动词“被困住”前",
    "S5 coal burned": "对齐不了：用户 2026-11-06 原话“这地方翻译改改：这些煤烟来自于烧的煤”，burned 是过去分词作后置定语修饰 coal，中文“烧的煤”定语必须提前，只能整组",
-   "S5 and power stations": "对齐不了：power stations 是一个词“发电厂”，拆开不通",
    "S5 sulphur dioxide": "对齐不了：sulphur dioxide 是化学名“二氧化硫”，一个词，拆开不通",
    "S7 was abandoned at the interval": "对齐不了：at the interval 是时间状语，中文“演到幕间休息”必须放到“被迫中止”前",
    "S10 A study published in Environmental Health Perspectives in 2001": "对齐不了：published in… in 2001 是过去分词短语作后置定语，修饰 study，中文“2001年发表于《环境健康展望》的一项研究”定语必须提前，刊名不能拆",
