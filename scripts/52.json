@@ -281,7 +281,7 @@
    "chunks": [
     {
      "en": "**Ambulance** services were **suspended**,",
-     "zh": "**救护车**(Ambulance)服务**暂停**(suspended)；",
+     "zh": "**救护车**(Ambulance)服务被**暂停**(suspended)，",
      "align": [
       [
        "**Ambulance** services",
@@ -289,68 +289,48 @@
       ],
       [
        "were **suspended**,",
-       "**暂停**(suspended)；"
+       "被**暂停**(suspended)，"
       ]
      ]
     },
     {
      "en": "an opera at the Sadler's Wells theatre was abandoned at the **interval**,",
-     "zh": "一场歌剧在萨德勒之井剧院演到**幕间休息**(interval)被迫中止；",
+     "zh": "萨德勒之井剧院的一场歌剧在**幕间休息**(interval)时被中止，",
      "align": [
       [
-       "an opera",
-       "一场歌剧"
-      ],
-      [
-       "at the Sadler's Wells",
-       "在萨德勒之井"
-      ],
-      [
-       "theatre",
-       "剧院"
+       "an opera at the Sadler's Wells theatre",
+       "萨德勒之井剧院的一场歌剧"
       ],
       [
        "was abandoned at the **interval**,",
-       "演到**幕间休息**(interval)被迫中止；"
+       "在**幕间休息**(interval)时被中止，"
       ]
      ],
      "note": "（an opera at…：介词短语作后置定语，修饰 opera；\nat the interval：在幕间休息时）"
     },
     {
      "en": "and prize **cattle** at the Smithfield **agricultural** show died or had to be **slaughtered**.",
-     "zh": "而获奖的**牛**(cattle)，在史密斯菲尔德**农业**(agricultural)展会上有的死去，有的只得**宰杀**(slaughtered)。",
+     "zh": "而史密斯菲尔德**农业**(agricultural)展上的获奖**牛**(cattle)则死亡或不得不被**宰杀**(slaughtered)。",
      "align": [
       [
-       "and prize",
-       "而获奖的"
+       "and",
+       "而"
       ],
       [
-       "**cattle**",
-       "**牛**(cattle)，"
-      ],
-      [
-       "at the Smithfield",
-       "在史密斯菲尔德"
-      ],
-      [
-       "**agricultural**",
-       "**农业**(agricultural)"
-      ],
-      [
-       "show",
-       "展会上"
+       "prize **cattle** at the Smithfield **agricultural** show",
+       "史密斯菲尔德**农业**(agricultural)展上的获奖**牛**(cattle)"
       ],
       [
        "died",
-       "有的死去，"
+       "则死亡"
       ],
       [
        "or",
-       "有的"
+       "或"
       ],
       [
        "had to be",
-       "只得"
+       "不得不被"
       ],
       [
        "**slaughtered**.",
@@ -854,6 +834,8 @@
    "S4 was trapped too": "对齐不了：too 中文“也”必须放到动词“被困住”前",
    "S5 coal burned": "对齐不了：用户 2026-11-06 原话“这地方翻译改改：这些煤烟来自于烧的煤”，burned 是过去分词作后置定语修饰 coal，中文“烧的煤”定语必须提前，只能整组",
    "S5 sulphur dioxide": "对齐不了：sulphur dioxide 是化学名“二氧化硫”，一个词，拆开不通",
+   "S7 an opera at the Sadler's Wells theatre": "对齐不了：用户 2026-11-06 原话定的译文“萨德勒之井剧院的一场歌剧”，at the Sadler's Wells theatre 是介词短语作后置定语，修饰 opera，中文定语必须提前，剧院名不能拆",
+   "S7 prize cattle at the Smithfield agricultural show": "对齐不了：用户 2026-11-06 原话定的译文“史密斯菲尔德农业展上的获奖牛”，at the Smithfield agricultural show 是后置定语，修饰 cattle，中文定语必须提前；两个重点词中文先后与英文相反（农业在前、牛在后），只能整组",
    "S7 was abandoned at the interval": "对齐不了：at the interval 是时间状语，中文“演到幕间休息”必须放到“被迫中止”前",
    "S10 A study published in Environmental Health Perspectives in 2001": "对齐不了：published in… in 2001 是过去分词短语作后置定语，修饰 study，中文“2001年发表于《环境健康展望》的一项研究”定语必须提前，刊名不能拆",
    "S14 pressure for an inquiry": "对齐不了：for an inquiry 是介词短语作后置定语，修饰 pressure，中文“要求调查的压力”定语必须提前",
