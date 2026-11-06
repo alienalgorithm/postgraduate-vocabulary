@@ -619,8 +619,8 @@
    "para": 4,
    "chunks": [
     {
-     "en": "It **withstood** pressure for an inquiry until May 1953.",
-     "zh": "政府一直**顶住**(withstood)要求调查的压力，直到1953年5月才松口。",
+     "en": "It **withstood** pressure for an **inquiry** until May 1953.",
+     "zh": "政府**顶住了**(withstood)要求**调查**(inquiry)的压力，直到1953年的5月。",
      "align": [
       [
        "It",
@@ -628,15 +628,15 @@
       ],
       [
        "**withstood**",
-       "一直**顶住**(withstood)"
+       "**顶住了**(withstood)"
       ],
       [
-       "pressure for an inquiry",
-       "要求调查的压力，"
+       "pressure for an **inquiry**",
+       "要求**调查**(inquiry)的压力，"
       ],
       [
        "until May 1953.",
-       "直到1953年5月才松口。"
+       "直到1953年的5月。"
       ]
      ],
      "note": "（pressure for an inquiry：要求调查的压力）"
@@ -1137,7 +1137,8 @@
  },
  "结尾解说": "简述",
  "allow_clash": [
-  "suspended"
+  "suspended",
+  "inquiry"
  ],
  "非人声区间": {
   "S2": [
