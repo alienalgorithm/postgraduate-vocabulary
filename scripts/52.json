@@ -524,34 +524,26 @@
    "chunks": [
     {
      "en": "One **villain** **flickered** in their own grates,",
-     "zh": "有一个**元凶**(villain)就**摇曳**(flickered)在他们自家的炉栅里，",
+     "zh": "一个**元凶**(villain)就在他们自家的炉栅里**闪烁**(flickered)，",
      "align": [
       [
        "One **villain**",
-       "有一个**元凶**(villain)"
+       "一个**元凶**(villain)"
       ],
       [
-       "**flickered**",
-       "就**摇曳**(flickered)在"
-      ],
-      [
-       "in their own",
-       "他们自家的"
-      ],
-      [
-       "grates,",
-       "炉栅里，"
+       "**flickered** in their own grates,",
+       "就在他们自家的炉栅里**闪烁**(flickered)，"
       ]
      ],
      "note": "（grates：炉栅，壁炉里放煤的铁架）"
     },
     {
      "en": "a source of **warmth** and **comfort** so **habitual**",
-     "zh": "它带来**温暖**(warmth)与**舒适**(comfort)，人们早已**习以为常**(habitual)，",
+     "zh": "一个**温暖**(warmth)与**舒适**(comfort)的来源，如此**习以为常**(habitual)，",
      "align": [
       [
        "a source of",
-       "它带来"
+       "一个"
       ],
       [
        "**warmth**",
@@ -559,26 +551,26 @@
       ],
       [
        "and **comfort**",
-       "与**舒适**(comfort)，"
+       "与**舒适**(comfort)的来源，"
       ],
       [
        "so **habitual**",
-       "人们早已**习以为常**(habitual)，"
+       "如此**习以为常**(habitual)，"
       ]
      ],
      "note": "（a source of…：同位语，补充说明 villain；\nso… that…：如此……以至于……）"
     },
     {
      "en": "that few thought to **accuse** it.",
-     "zh": "很少有人想到要**指责**(accuse)它。",
+     "zh": "以至于很少有人想到去**指责**(accuse)它。",
      "align": [
       [
        "that few",
-       "很少有人"
+       "以至于很少有人"
       ],
       [
        "thought to **accuse** it.",
-       "想到要**指责**(accuse)它。"
+       "想到去**指责**(accuse)它。"
       ]
      ]
     }
@@ -826,6 +818,7 @@
    "S10 A study published in Environmental Health Perspectives in 2001": "对齐不了：published in… in 2001 是过去分词短语作后置定语，修饰 study，中文“2001年发表于《环境健康展望》的一项研究”定语必须提前，刊名不能拆",
    "S10 cast doubt on that explanation": "对齐不了：用户 2026-11-06 原话定的译文“并对这一解释提出了质疑”，cast doubt on 被 that explanation 隔开，中文“对……提出了质疑”两处都标 cast doubt on（T23），解释夹在中间，只能整组",
    "S10 about 12,000 excess deaths between December 1952 and February 1953": "对齐不了：用户 2026-11-06 原话定的译文“估计在1952年12月至1953年2月期间约有12,000例超额死亡”，between… 是时间状语，中文必须放到“约有12,000例超额死亡”前，语序整个倒过来，只能整组",
+   "S12 flickered in their own grates": "对齐不了：用户 2026-11-06 原话定的译文“就在他们自家的炉栅里闪烁”，in their own grates 是地点状语，中文地点必须放到动词“闪烁”前，只能整组",
    "S14 pressure for an inquiry": "对齐不了：for an inquiry 是介词短语作后置定语，修饰 pressure，中文“要求调查的压力”定语必须提前",
    "S18 all along": "对齐不了：all along 是固定短语“一直，始终”，拆开 all、along 中文不通",
    "S16 three and a half years after the smog": "对齐不了：three and a half years after the smog 是时间状语，中文“距那场烟雾已有三年半”语序必须倒过来"
