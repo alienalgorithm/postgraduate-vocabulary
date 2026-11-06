@@ -679,34 +679,27 @@
    "para": 5,
    "chunks": [
     {
-     "en": "The Clean Air Act became law on 5 July 1956,",
-     "zh": "《清洁空气法》成为法律，时间是1956年7月5日，",
+     "en": "The Clean Air **Act** became law on 5 July 1956,",
+     "zh": "《清洁空气**法**(Act)》于1956年7月5日成为法律，",
      "align": [
       [
-       "The Clean Air Act",
-       "《清洁空气法》"
+       "The Clean Air **Act**",
+       "《清洁空气**法**(Act)》"
       ],
       [
-       "became",
-       "成为"
-      ],
-      [
-       "law",
-       "法律，"
-      ],
-      [
-       "on 5 July 1956,",
-       "时间是1956年7月5日，"
+       "became law on 5 July 1956,",
+       "于1956年7月5日成为法律，"
       ]
-     ]
+     ],
+     "note": "（Act：法案，法令；常作“某某法”，\n如 the Clean Air Act《清洁空气法》）"
     },
     {
      "en": "three and a half years after the smog.",
-     "zh": "距那场烟雾已有三年半。",
+     "zh": "此时距那场烟雾已过去三年半。",
      "align": [
       [
        "three and a half years after the smog.",
-       "距那场烟雾已有三年半。"
+       "此时距那场烟雾已过去三年半。"
       ]
      ],
      "note": "（three and a half years after the smog：\n补充说明时间）"
@@ -818,6 +811,7 @@
    "S10 cast doubt on that explanation": "对齐不了：用户 2026-11-06 原话定的译文“并对这一解释提出了质疑”，cast doubt on 被 that explanation 隔开，中文“对……提出了质疑”两处都标 cast doubt on（T23），解释夹在中间，只能整组",
    "S10 about 12,000 excess deaths between December 1952 and February 1953": "对齐不了：用户 2026-11-06 原话定的译文“估计在1952年12月至1953年2月期间约有12,000例超额死亡”，between… 是时间状语，中文必须放到“约有12,000例超额死亡”前，语序整个倒过来，只能整组",
    "S12 flickered in their own grates": "对齐不了：用户 2026-11-06 原话定的译文“就在他们自家的炉栅里闪烁”，in their own grates 是地点状语，中文地点必须放到动词“闪烁”前，只能整组",
+   "S16 became law on 5 July 1956": "对齐不了：用户 2026-11-06 原话定的译文“于1956年7月5日成为法律”，on 5 July 1956 是时间状语，中文必须放到“成为法律”前，只能整组",
    "S14 pressure for an inquiry": "对齐不了：for an inquiry 是介词短语作后置定语，修饰 pressure，中文“要求调查的压力”定语必须提前",
    "S18 all along": "对齐不了：all along 是固定短语“一直，始终”，拆开 all、along 中文不通",
    "S16 three and a half years after the smog": "对齐不了：three and a half years after the smog 是时间状语，中文“距那场烟雾已有三年半”语序必须倒过来"
