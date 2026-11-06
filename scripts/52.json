@@ -442,8 +442,8 @@
      "note": "（published in…：过去分词短语作后置定语，修饰 study）"
     },
     {
-     "en": "**reassessed** the evidence and cast doubt on that **explanation**,",
-     "zh": "**重新评估了**(reassessed)证据，并质疑了这一**解释**(explanation)，",
+     "en": "**reassessed** the evidence",
+     "zh": "**重新评估了**(reassessed)证据，",
      "align": [
       [
        "**reassessed**",
@@ -452,21 +452,23 @@
       [
        "the evidence",
        "证据，"
-      ],
+      ]
+     ]
+    },
+    {
+     "en": "and **cast doubt on** that **explanation**,",
+     "zh": "并**对**(cast doubt on)这一**解释**(explanation)**提出了质疑**(cast doubt on)，",
+     "align": [
       [
-       "and cast",
+       "and",
        "并"
       ],
       [
-       "doubt on",
-       "质疑了"
-      ],
-      [
-       "that **explanation**,",
-       "这一**解释**(explanation)，"
+       "**cast doubt on** that **explanation**,",
+       "**对**(cast doubt on)这一**解释**(explanation)**提出了质疑**(cast doubt on)，"
       ]
      ],
-     "note": "（cast doubt on…：对……提出质疑，质疑……）"
+     "note": "（cast doubt on…：对……提出质疑）"
     },
     {
      "en": "estimating about 12,000 excess deaths between December 1952 and February 1953.",
@@ -838,6 +840,7 @@
    "S7 prize cattle at the Smithfield agricultural show": "对齐不了：用户 2026-11-06 原话定的译文“史密斯菲尔德农业展上的获奖牛”，at the Smithfield agricultural show 是后置定语，修饰 cattle，中文定语必须提前；两个重点词中文先后与英文相反（农业在前、牛在后），只能整组",
    "S7 was abandoned at the interval": "对齐不了：at the interval 是时间状语，中文“演到幕间休息”必须放到“被迫中止”前",
    "S10 A study published in Environmental Health Perspectives in 2001": "对齐不了：published in… in 2001 是过去分词短语作后置定语，修饰 study，中文“2001年发表于《环境健康展望》的一项研究”定语必须提前，刊名不能拆",
+   "S10 cast doubt on that explanation": "对齐不了：用户 2026-11-06 原话定的译文“并对这一解释提出了质疑”，cast doubt on 被 that explanation 隔开，中文“对……提出了质疑”两处都标 cast doubt on（T23），解释夹在中间，只能整组",
    "S14 pressure for an inquiry": "对齐不了：for an inquiry 是介词短语作后置定语，修饰 pressure，中文“要求调查的压力”定语必须提前",
    "S18 all along": "对齐不了：all along 是固定短语“一直，始终”，拆开 all、along 中文不通",
    "S16 three and a half years after the smog": "对齐不了：three and a half years after the smog 是时间状语，中文“距那场烟雾已有三年半”语序必须倒过来"
@@ -1074,10 +1077,10 @@
    "S16-2 after→距那场烟雾已有三年半。": "three and a half years after the smog 中文“距那场烟雾已有三年半”，“距……已有”就是那场烟雾之后过了三年半，方向一致"
   },
   "短语": {
+   "S10 reassessed … on": "不是搭配：on 属于 cast doubt on，和 reassessed 无关",
    "S8 dissipated … on": "不是搭配：on 引出时间 on Tuesday 9 December，dissipate 单独就是“消散”",
    "S9 excess … of": "不是搭配：of 属于 a 1954 Ministry of Health report，和 excess 无关",
    "S9 on … influenza": "不是搭配：on 属于 blame A on B（把 A 归咎于 B），已在说明写出；influenza 单独就是“流感”",
-   "S10 reassessed … on": "不是搭配：on 属于 cast doubt on，和 reassessed 无关",
    "S11 tolerated … as": "不是搭配：as a nuisance 说明“当作麻烦”，tolerate 单独就是“容忍”（速查表第一个意思），说明里已写 tolerate A as B",
    "S12 villain … of": "不是搭配：of 属于 a source of warmth，和 villain 无关",
    "S12 flickered … in": "不是搭配：in their own grates 只表示地点（在炉栅里），flicker 单独就是“摇曳”",
