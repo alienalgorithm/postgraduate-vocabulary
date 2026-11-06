@@ -56,3 +56,4 @@
 | 49 | The Woman Who Won Two Nobels | 两度摘得诺奖的女人 | 13.2 MB |
 | 50 | Microplastics Everywhere, but How Harmful | 微塑料：无处不在，危害几何？ | 12.3 MB |
 | 52 | The Killer Smog of 1952 | 夺命毒雾：伦敦1952 | 11.8 MB |
+| 54 | The Sound That Shook the World | 震动世界的一声巨响 | 14.7 MB |
