@@ -55,7 +55,7 @@ S=[
      "（assuring…：现在分词短语作伴随状语；\nassure sb of sth：向某人保证某事；\nsatisfaction with…：对……满意）"]]),
 (5,[[[("In 1889","1889年，"),("he","他"),("published","出版了"),("a **lengthy**","一部**长篇的**(lengthy)"),("**exposition**","**阐述**(exposition)"),("of the idea","解释这一思想，"),("and","并"),("**entitled** it","**将**(entitled)其**命名为**(entitled)"),("Darwinism.","《达尔文主义》。")],
      "（an exposition of…：对……的阐述；\nentitle A B：将 A 命名为 B）"]]),
-(5,[[[("Wallace","华莱士"),("never","从未"),("named the theory after himself.","用自己的名字为这一理论命名。")],
+(5,[[[("Wallace","华莱士"),("never","从未"),("**named** the theory **after** himself.","**用**(named after)自己的名字**为**(named after)这一理论**命名**(named after)。")],
      "（name A after B：以 B 的名字给 A 命名）\n"
      "（简述：1836年10月，达尔文从小猎犬号上登岸；1838年9月开始提出自然选择的原理，\n"
      "1844年写成230页的手稿，却一直未予发表。1858年2月，华莱士在马来群岛独立构想出同一个想法，\n"
