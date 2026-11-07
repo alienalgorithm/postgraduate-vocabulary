@@ -128,6 +128,27 @@ def 读音自检样本():
         if rc == 0: bad.append('K102 没抓到：读音改正拆掉（PRON_WORDS 不生效）29 自检照样通过')
     return bad
 
+def 括号语境样本():
+    """59 S3（11-07）“Chlorofluorocarbons (CFCs)”：按语境读音的词边界要认括号。好样本：原样 “(CFCs)” 换成 sˌiːˌɛfsˈiːz、句中 CFCs 不变成双 z；
+    坏样本：把边界里的括号拆掉，按语境读音换不到，make_video 必停（A24）"""
+    import shutil, tempfile
+    if not W or not os.path.exists(f'{W}/make_video.py'): return []
+    py = ('import sys,os; sys.path.insert(0, os.getcwd()); import make_video as m; '
+          'a = m.phonemes_of("Chlorofluorocarbons (CFCs) are so inert"); b = m.phonemes_of("a binding accord to curb CFCs."); '
+          'print("OK" if "(sˌiːˌɛfsˈiːz)" in a and "sˈiːzz" not in b and "sˌiːˌɛfsˈiːz" in b else "BAD " + a + " | " + b)')
+    bad = []; rc, o, _ = 跑(['python3', '-c', py], W, 300)
+    if rc or 'OK' not in o: bad.append(f'59 括号语境读音 好样本不过：{o.strip().splitlines()[-1][:160] if o.strip() else rc}')
+    with tempfile.TemporaryDirectory(dir=os.path.dirname(W)) as td:
+        for f in os.listdir(W):
+            if f.endswith('.py'): shutil.copy(f'{W}/{f}', f'{td}/{f}')
+        mv = open(f'{td}/make_video.py').read(); a = 'B_="(?<![^\\\\s,;:.!?(])"; E_="(?=[\\\\s,;:.!?)]|$)"; bad=re.sub'
+        if a not in mv: return bad + ['59 括号语境读音：make_video.py 里找不到按语境读音的边界那一行（坏样本造不出）']
+        open(f'{td}/make_video.py', 'w').write(mv.replace(a, 'B_="(?<![^\\\\s,;:.!?])"; E_="(?=[\\\\s,;:.!?]|$)"; bad=re.sub'))
+        rc, o, _ = 跑(['python3', '-c', py], td, 300)
+        if rc == 0 and 'OK' in o: bad.append('59 括号语境读音 没抓到：拆掉括号边界后 “(CFCs)” 照样换到')
+        elif '按语境读音没有全部换到' not in o: bad.append(f'59 括号语境读音 坏样本没按 A24 停：{o.strip().splitlines()[-1][:160] if o.strip() else rc}')
+    return bad
+
 def 印章坏样本():
     """改一个工具程序不重跑快测 → 印章必须对不上（提交、推送、做、定稿都停）"""
     import tempfile, shutil
@@ -345,6 +366,7 @@ def main():
         if 全:
             b, _ = fr.result(); bad += b; out.append(f'④ {NO} 回归：{"记了基准" if "--记基准" in a else ("a.wav、分段.json 逐字节、每屏像素一致" if not b else "不一致")}')
             b = 读音自检样本(); bad += b; out.append(f'⑥ K102 读音自检：29 不误停、拆读音改正必停：{"过" if not b else "不过"}')
+            b = 括号语境样本(); bad += b; out.append(f'⑥b 59 括号里的语境读音（(CFCs) 补复数 z）：原样换到、不双 z，拆掉括号边界必停：{"过" if not b else "不过"}')
             b, n = fs.result(); bad += b; out.append(f'⑤ 交付核查 出片前/出片后 + 出片守门自检：{"全过" if not b else f"{len(b)} 处不过"}')
             b = 句尾样本(); bad += b; out.append(f'⑧ K123 句尾（46 S4 增益后收句尾）：S4 两版好样本 < -49.2 dB 且最后 5 ms 仍可听、拆掉必抓、S9 原样不动：{"过" if not b else "不过"}')
             b = 供体增益样本(); bad += b; out.append(f'⑨ K125 停顿处除阻的供体随所在段乘增益（46 S4 fact,）：原样复核放过、供体不乘必抓：{"过" if not b else "不过"}')
