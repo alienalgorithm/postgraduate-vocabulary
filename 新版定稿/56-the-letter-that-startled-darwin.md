@@ -22,7 +22,7 @@ Wallace had **readily** **signified** his **acceptance** in October 1858, **assu
 
 这些论文于1858年8月20日的**发表**(publication)，遭遇了一个**很不热烈的**(muted)**反响**(reception)。1859年5月，学会会长在**年度**(yearly)致辞中**评论**(remarked)说，这一年一直**毫无**(barren)**革命性**(revolutionary)的发现。这场**轰动**(sensation)于1859年11月24日随着达尔文的**专著**(treatise)**《物种起源》**(On the Origin of Species)到来：书商们已**订购**(subscribed)了该书首**次印刷**(impression)的每一册，总计1,250册。
 
-1858年10月，华莱士就已**欣然**(readily)**表明**(signified)了**接受**(acceptance)的态度，在一封**亲切**(cordial)的信中向胡克**保证**(assuring)，自己对这一**安排**(arrangement)感到**满意**(satisfaction)。1889年，他出版了一部**长篇**(lengthy)**论述**(exposition)阐释这一思想，并将其**定名**(entitled)为《达尔文主义》。华莱士从未用自己的名字为这一理论命名。
+1858年10月，华莱士就已**欣然**(readily)**表明**(signified)了**接受**(acceptance)的态度，在一封**亲切**(cordial)的信中向胡克**保证**(assuring)，自己对这一**安排**(arrangement)感到**满意**(satisfaction)。1889年，他出版了一部**长篇的**(lengthy)**阐述**(exposition)解释这一思想，并**将**(entitled)其**命名为**(entitled)《达尔文主义》。华莱士从未用自己的名字为这一理论命名。
 
 ## 速查表
 | 词 | 释义 | 段 |
