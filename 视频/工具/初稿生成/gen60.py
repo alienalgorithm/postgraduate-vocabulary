@@ -41,7 +41,7 @@ S=[
      "（which governs…：非限制性定语从句，\n修饰 That law；\nhow light…：宾语从句）"],
     [[("helped","曾帮助"),("**underpin**","**奠定**(underpin)"),("**quantum**","**量子**(quantum)"),("theory.","理论的基础。")],
      "（help underpin：帮助奠定……的基础）"]]),
-(4,[[[("A letter the next day","第二天的一封信"),("**clarified**","**说明**(clarified)，"),("that the prize","此奖"),("took no account of","并未考虑"),("relativity.","相对论。")],
+(4,[[[("A letter the next day","第二天的一封信"),("**clarified**","**澄清**(clarified)，"),("that the prize","此奖"),("**took no account of**","**并未考虑**(took no account of)"),("relativity.","相对论。")],
      "（the next day：后置定语，修饰 letter；\ntake no account of：不考虑）"]]),
 (4,[[[("Einstein,","爱因斯坦"),("then","当时正"),("**aboard**","**乘**(aboard)"),("a **steamer** **bound for** Japan,","一艘**开往**(bound for)日本的**轮船**(steamer)，")],
      "（then aboard…：插入语，补充说明 Einstein；\nbound for Japan：后置定语，修饰 steamer）"],
@@ -53,7 +53,7 @@ S=[
      "（devote A to B：把 A 专门用于 B；it 指 lecture）"]]),
 (5,[[[("The theory the committee looked past","委员会绕开不看的那个理论，"),("reached a Nobel **podium** after all,","终究登上了诺贝尔的**讲台**(podium)，")],
      "（the committee looked past：定语从句，省略了关系代词，修饰 theory；\nlook past：忽视，绕开不看）"],
-    [[("carried there by the man the prize had **honoured**.","把它带上去的，正是这个奖所**嘉奖**(honoured)的人。")],
+    [[("carried there by the man the prize had **honoured**.","把它带上去的，正是这个奖所**嘉奖**(honoured)的爱因斯坦。")],
      "（carried there by…：过去分词短语作状语；\nthe prize had honoured：定语从句，修饰 man）\n"
      "（简述：1919年5月日全食时，两支英国考察队拍下太阳附近的恒星，检验广义相对论关于引力使星光偏折的预言。\n"
      "11月，英国两大学会盛赞结果证实了预言，报纸争相报道，爱因斯坦一夜成名。\n"
@@ -75,15 +75,14 @@ G={
  "S10 his discovery of the law of the photoelectric effect":"对齐不了：层层后置的 of 结构，中文“他发现了光电效应定律”语序必须倒过来，术语不能拆",
  "S11 ejects electrons from metal":"对齐不了：eject A from B 中文“把电子从金属中打出”，动词必须放到最后；两个重点词中文先后与英文相反",
  "S12 A letter the next day":"对齐不了：the next day 是后置定语，修饰 letter，中文“第二天的一封信”必须提前",
- "S12 took no account of":"对齐不了：take no account of 是固定说法“不考虑”，拆开不通",
  "S13 a steamer bound for Japan":"对齐不了：bound for Japan 是后置定语，修饰 steamer，中文“一艘开往日本的轮船”必须提前；两个重点词中文先后与英文相反",
  "S14 before a congress of Nordic scientists":"对齐不了：of Nordic scientists 是 of 结构作后置定语，修饰 congress，中文“北欧自然科学家大会”必须提前",
  "S14 the fundamental ideas and problems of relativity":"对齐不了：of relativity 是 of 结构作后置定语，中文“相对论的基本思想与问题”必须提前",
  "S15 The theory the committee looked past":"对齐不了：the committee looked past 是省略关系代词的定语从句，修饰 theory，中文“委员会绕开不看的那个理论”必须提前",
  "S15 reached a Nobel podium after all":"对齐不了：after all 中文“终究”必须放到动词前",
- "S15 carried there by the man the prize had honoured":"对齐不了：被动结构加定语从句，中文“把它带上去的，正是这个奖所嘉奖的人”语序必须整个倒过来",
+ "S15 carried there by the man the prize had honoured":"对齐不了：被动结构加定语从句，中文“把它带上去的，正是这个奖所嘉奖的爱因斯坦”语序必须整个倒过来",
 }
-CONF={"合组":G,"对齐":{"S1-2 stars in its apparent vicinity": "in its apparent vicinity 是后置定语，修饰 stars，中文定语必须提前", "S4-1 at a joint meeting of the Roya": "of the Royal Society… 是 of 结构作后置定语，修饰 meeting，机构名必须提前，不能拆", "S5-2 \"Lights All Askew in the Heave": "报纸标题原文，中文“天上的光全歪了”整句意译，标题不能拆", "S8-3 the empirical support for rela": "for relativity 是后置定语，修饰 support，中文“相对论的实证支持”必须提前", "S10-1 the Royal Swedish Academy of S": "机构名“瑞典皇家科学院”，拆开不通", "S10-2 his services to theoretical ph": "to theoretical physics 是后置定语，修饰 services，中文“对理论物理学的贡献”必须提前", "S10-2 his discovery of the law of th": "层层后置的 of 结构，中文“他发现了光电效应定律”语序必须倒过来，术语不能拆", "S12-1 A letter the next day": "the next day 是后置定语，修饰 letter，中文“第二天的一封信”必须提前", "S13-1 a steamer bound for Japan,": "bound for Japan 是后置定语，修饰 steamer，中文“开往日本的轮船”必须提前", "S14-2 before a congress of Nordic sc": "of Nordic scientists 是 of 结构作后置定语，修饰 congress，中文必须提前", "S14-3 the fundamental ideas and prob": "of relativity 是 of 结构作后置定语，中文“相对论的基本思想与问题”必须提前", "S15-1 The theory the committee looke": "省略关系代词的定语从句修饰 theory，中文“委员会绕开不看的那个理论”定语必须提前", "S15-1 reached a Nobel podium after a": "after all 中文“终究”必须放到动词前", "S15-2 carried there by the man the p": "被动结构加定语从句，中文“把它带上去的，正是这个奖所嘉奖的人”语序必须整个倒过来"},"方向":{"S14-2 before→面向北欧自然科学家大会，": "before a congress 的 before 是“在……面前”（场合），不是时间先后；中文“面向……大会”，方向一致", "S15-1 after→终究登上了诺贝尔的讲台，": "after all 是“终究，毕竟”，不是时间先后；中文“终究”，方向一致"},
+CONF={"合组":G,"对齐":{"S1-2 stars in its apparent vicinity": "in its apparent vicinity 是后置定语，修饰 stars，中文定语必须提前", "S4-1 at a joint meeting of the Roya": "of the Royal Society… 是 of 结构作后置定语，修饰 meeting，机构名必须提前，不能拆", "S5-2 \"Lights All Askew in the Heave": "报纸标题原文，中文“天上的光全歪了”整句意译，标题不能拆", "S8-3 the empirical support for rela": "for relativity 是后置定语，修饰 support，中文“相对论的实证支持”必须提前", "S10-1 the Royal Swedish Academy of S": "机构名“瑞典皇家科学院”，拆开不通", "S10-2 his services to theoretical ph": "to theoretical physics 是后置定语，修饰 services，中文“对理论物理学的贡献”必须提前", "S10-2 his discovery of the law of th": "层层后置的 of 结构，中文“他发现了光电效应定律”语序必须倒过来，术语不能拆", "S12-1 A letter the next day": "the next day 是后置定语，修饰 letter，中文“第二天的一封信”必须提前", "S13-1 a steamer bound for Japan,": "bound for Japan 是后置定语，修饰 steamer，中文“开往日本的轮船”必须提前", "S14-2 before a congress of Nordic sc": "of Nordic scientists 是 of 结构作后置定语，修饰 congress，中文必须提前", "S14-3 the fundamental ideas and prob": "of relativity 是 of 结构作后置定语，中文“相对论的基本思想与问题”必须提前", "S15-1 The theory the committee looke": "省略关系代词的定语从句修饰 theory，中文“委员会绕开不看的那个理论”定语必须提前", "S15-1 reached a Nobel podium after a": "after all 中文“终究”必须放到动词前", "S15-2 carried there by the man the p": "被动结构加定语从句，中文“把它带上去的，正是这个奖所嘉奖的爱因斯坦”语序必须整个倒过来"},"方向":{"S14-2 before→面向北欧自然科学家大会，": "before a congress 的 before 是“在……面前”（场合），不是时间先后；中文“面向……大会”，方向一致", "S15-1 after→终究登上了诺贝尔的讲台，": "after all 是“终究，毕竟”，不是时间先后；中文“终究”，方向一致"},
 "短语":{
  "S2 observed … from":"不是搭配：from Príncipe 只表示观测地点（从普林西比岛观测），observe 单独就是“观测”",
  "S8 deemed … for":"不是搭配：for 属于 support for relativity（对相对论的支持），和 deemed 无关",
@@ -94,7 +93,7 @@ CONF={"合组":G,"对齐":{"S1-2 stars in its apparent vicinity": "in its appare
  "S10 citing … to":"不是搭配：to 属于 his services to theoretical physics，和 citing 无关",
  "S11 governs … from":"不是搭配：from 属于 ejects electrons from metal，和 governs 无关",
  "S11 ejects … from":"不是搭配：from metal 只表示来源（从金属中），eject 单独就是“打出”，同 S2 observed … from",
- "S12 clarified … of":"不是搭配：of 属于 took no account of（不考虑），和 clarified 无关",
+ "S12 clarified … of":"不是搭配：of 属于 took no account of（不考虑，已整体标为重点词），和 clarified 无关",
  "S14 delivered … of":"不是搭配：of 属于 a congress of Nordic scientists（后置定语），和 delivered 无关",
  "S14 devoting … of":"不是搭配：of 属于 problems of relativity（后置定语），devote 的搭配是 to，已整体标",
  "S1 a total eclipse":"不是搭配：速查表第一个意思就是“（日、月）食”，本文日食即此义；total 单独译“全”，沿用文章定稿“一次全日食”",
@@ -113,7 +112,8 @@ CONF={"合组":G,"对齐":{"S1-2 stars in its apparent vicinity": "in its appare
 out={"no":"60","title_en":"The Scientific Giant Who Changed the World","title_zh":"改变世界的科学巨匠","title_fx":{"hl":["Giant","World"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Arthur Eddington":"阿瑟·爱丁顿","Príncipe":"普林西比","West Africa":"西非","Crommelin":"克罗姆林","Davidson":"戴维森","Sobral":"索布拉尔","Brazil":"巴西","British":"英国","Royal Society":"皇家学会","Royal Astronomical Society":"皇家天文学会","The Times":"《泰晤士报》","New York Times":"《纽约时报》","Einstein":"爱因斯坦","Stockholm":"斯德哥尔摩","Allvar Gullstrand":"阿尔瓦·古尔斯特兰德","Royal Swedish Academy of Sciences":"瑞典皇家科学院","Japan":"日本","Gothenburg":"哥德堡","Sweden":"瑞典","Nordic":"北欧"}}
-out.update({"非人声区间": {"S1": [[2.59125, 2.88375, "紧贴两头"]], "S2": [[2.54, 2.818667, "紧贴词头"], [7.855, 8.03]], "S3": [[2.120083, 2.35, "紧贴词尾"], [3.361375, 3.6, "紧贴词尾"]], "S8": [[4.745, 4.963333, "紧贴词头"], [9.96, 10.28]], "S9": [[3.415, 3.79], [9.0725, 9.135]], "S10": [[2.615, 2.85]], "S6": [[1.0675, 1.39]]}, "词尾除阻": {"S3": {"句末": [6.244667, "t"]}, "S4": {"句末": [9.47, "t"]}, "S6": {"1": [1.075, "t"]}, "S9": {"句末": [9.035, "t"]}}, "除阻加强": {"S15": {"1": [2.35, 2.44, -3.0]}}})   # 声音程序写进脚本的区间、除阻（实测后并进 gen60）
+out.update({"非人声区间": {"S1": [[2.59125, 2.88375, "紧贴两头"]], "S2": [[2.54, 2.818667, "紧贴词头"], [7.855, 8.03]], "S3": [[2.120083, 2.35, "紧贴词尾"], [3.361375, 3.6, "紧贴词尾"]], "S8": [[4.745, 4.963333, "紧贴词头"], [9.96, 10.28]], "S9": [[3.415, 3.79], [9.0725, 9.135]], "S10": [[2.615, 2.85]], "S6": [[1.0675, 1.39]]}, "词尾除阻": {"S3": {"句末": [6.244667, "t"]}, "S4": {"句末": [9.47, "t"]}, "S6": {"1": [1.075, "t"]}, "S9": {"句末": [9.035, "t"]}}, "分段增益dB": {"S11": {"1": 2.0}}, "除阻加强": {"S15": {"1": [2.35, 2.44, -3.0]}}})   # 声音程序写进脚本的区间、除阻（实测后并进 gen60）
+# S11 分段增益dB 第1段 +2.0：用户 2026-11-07 听出 That law 这块声音突然变小；自动调平给 That law, 压了 -6 dB（全片最大），重读的词压太多听着像突然变小，补回 2 dB（净 -4 dB）
 # S15 除阻加强 第1个 [2.35, 2.44, -3.0]（K154 擦音压低，照 44 S14）：2026-11-07 逐 5 ms 实测（S15 w）：looked 的 /k/ 闭塞 2.33–2.345（-41～-46 dB），2.35–2.44 是 past 的 /s/（最响 -0.4 dB，与全句最响元音一样响，5–10 kHz 帧全句最大，音频体检齿音 7.44 超 01–24 最差 6.43），2.45–2.47 是 /t/ 闭塞（-55～-60 dB）；只罩 /s/，压 3 dB
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
