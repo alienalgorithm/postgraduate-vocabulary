@@ -32,7 +32,7 @@ S=[
 (3,[[[("Neither author","两位作者都没有"),("attended","出席"),("the **proceedings**.","这场**会议**(proceedings)。")],
      "（Neither…：两者都不；\nproceedings：在学术语境下，特指学会的会议、活动议程或会议记录）"]]),
 (3,[[[("Wallace","华莱士"),("was abroad,","身在海外，"),("and Darwin","达尔文则"),("was **grieving**:","处于**哀痛**(grieving)之中：")],
-     "（was grieving：过去进行时，当时正处于悲痛中）"],
+     "（was grieving：过去进行时，当时正处于悲痛中；\ngrieve 指因失去某人（尤指亲人离世）而承受极度的悲伤与痛苦（即哀悼））"],
     [[("**scarlet**","**猩红**(scarlet)"),("fever","热"),("had killed his **infant** son on 28 June.","在6月28日夺去了他**幼子**(infant)的生命。")],
      "（scarlet fever：猩红热；\nhad killed：过去完成时，发生在会议之前）"]]),
 (3,[[[("The **compromise**,","这一**折中办法**(compromise)"),("struck without Wallace,","在华莱士未参与的情况下达成，")],
