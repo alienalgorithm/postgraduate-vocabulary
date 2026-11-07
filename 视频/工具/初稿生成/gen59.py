@@ -45,7 +45,7 @@ S=[
      "（pledge to do：承诺做……；\nphase out：逐步淘汰）"]]),
 (4,[[[("In September 2009","2009年9月，"),("the Protocol","该议定书"),("and its parent Vienna Convention","与其所依据的《维也纳公约》一道，")],
      "（its parent Vienna Convention：\n议定书所依据的母公约《维也纳公约》）"],
-    [[("became","成为"),("the UN's first treaties to win **universal** ratification.","联合国首批获得**普遍**(universal)批准的条约。")],
+    [[("became","成为"),("the UN's first **treaties** to win **universal** **ratification**.","联合国首批获得**普遍**(universal)**批准**(ratification)的**条约**(treaties)。")],
      "（to win…：不定式作后置定语，修饰 treaties）"]]),
 (5,[[[("In January 2023","2023年1月，"),("a UN-backed **assessment**","一份由联合国支持的**评估**(assessment)报告"),("**forecast**","**预测**(forecast)，")],
      "（UN-backed：由联合国支持的；\nforecast：过去式与原形同形）"],
@@ -109,7 +109,7 @@ CONF={"合组":G,
 "同词异译":{"flagged as：把/标记为":"不是两种译法：S10 flagged as 的意思“把……标记为”被“这些读数”隔开，“把”和“标记为”是同一个意思的两部分（T23，用户 2026-11-07 原话“Flag as 重点词汇，重点词汇。把...标记为”）","shields from：为/遮挡了":"不是两种译法：S1 shields from 的意思“为……遮挡了”被“地球”隔开，“为”和“遮挡了”是同一个意思的两部分（T23）"},
 }
 out={"no":"59","title_en":"Saving the Sky","title_zh":"拯救天空","title_fx":{"hl":["Saving","Sky"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
-     "allow_clash":["intact"],"高亮按实际开口":True,"高亮开口门槛":40,"停顿插入点":{"S13":{"1":[0.695,"交界"]}},
+     "allow_clash":["intact","treaties"],"高亮按实际开口":True,"高亮开口门槛":40,"停顿插入点":{"S13":{"1":[0.695,"交界"]}},
      "术语":{"Mario Molina":"马里奥·莫利纳","Sherwood Rowland":"舍伍德·罗兰","California":"加州","Nature":"《自然》","Chlorofluorocarbons":"氯氟烃","CFCs":"CFCs","Joseph Farman":"约瑟夫·法曼","British Antarctic Survey":"英国南极调查局","Halley Bay":"哈雷湾","Dobson":"多布森","NASA":"NASA","Nimbus-7":"雨云7号","Montreal":"蒙特利尔","Protocol":"议定书","Vienna Convention":"《维也纳公约》","UN":"联合国","Antarctica":"南极","Arctic":"北极"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
