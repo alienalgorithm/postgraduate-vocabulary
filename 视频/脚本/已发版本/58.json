@@ -1,5 +1,19 @@
 {
  "no": "58",
+ "allow_clash": [
+  "exposed to",
+  "matter"
+ ],
+ "换行变更已获同意": {
+  "S1": "用户 2026-11-07：“尽量对齐能懂吗？就是说上面是英文下面它的英文，它下面它的中文意思尽量能够跟这个英文对齐。”",
+  "S3": "用户 2026-11-07：“尽量对齐能懂吗？就是说上面是英文下面它的英文，它下面它的中文意思尽量能够跟这个英文对齐。”",
+  "S5": "用户 2026-11-07：“尽量对齐能懂吗？就是说上面是英文下面它的英文，它下面它的中文意思尽量能够跟这个英文对齐。”",
+  "S9": "用户 2026-11-07：“尽量对齐能懂吗？就是说上面是英文下面它的英文，它下面它的中文意思尽量能够跟这个英文对齐。”",
+  "S12": "用户 2026-11-07：“尽量对齐能懂吗？就是说上面是英文下面它的英文，它下面它的中文意思尽量能够跟这个英文对齐。”",
+  "S15": "用户 2026-11-07：“尽量对齐能懂吗？就是说上面是英文下面它的英文，它下面它的中文意思尽量能够跟这个英文对齐。”",
+  "S4": "用户 2026-11-07：“中文这个中文翻译的正下方加上：一般指牛的牛痘，轻微病症。”",
+  "S18": "用户 2026-11-07：“那一宣告，出现在菲普斯接种疫苗之后的近184年。”；“4K 定稿”"
+ },
  "title_en": "From a Scratch to a World Without Smallpox",
  "title_zh": "从一道划痕到天花绝迹",
  "title_fx": {
@@ -14,43 +28,51 @@
    "para": 1,
    "chunks": [
     {
-     "en": "Smallpox, a **contagious** **affliction**,",
-     "zh": "天花是一种**传染性**(contagious)**病痛**(affliction)，",
+     "en": "**Smallpox**, a **contagious** **affliction**,",
+     "zh": "**天花**(Smallpox)，一种**传染性的**(contagious)**疾病**(affliction)，",
      "align": [
       [
-       "Smallpox,",
-       "天花是"
+       "**Smallpox**,",
+       "**天花**(Smallpox)，"
       ],
       [
        "a **contagious**",
-       "一种**传染性**(contagious)"
+       "一种**传染性的**(contagious)"
       ],
       [
        "**affliction**,",
-       "**病痛**(affliction)，"
+       "**疾病**(affliction)，"
       ]
      ],
      "note": "（a contagious affliction：同位语，补充说明 Smallpox）"
     },
     {
      "en": "killed about three in ten of its **sufferers** and an estimated 300 million in the 20th century.",
-     "zh": "夺去了约三成**患者**(sufferers)的生命；估计还有3亿人在20世纪丧命。",
+     "zh": "夺去了约三成**患者**(sufferers)的生命，并且估计有3亿人在20世纪丧命。",
      "align": [
       [
        "killed",
        "夺去了"
       ],
       [
-       "about three in ten",
-       "约三成"
+       "about",
+       "约"
+      ],
+      [
+       "three in ten",
+       "三成"
       ],
       [
        "of its **sufferers**",
-       "**患者**(sufferers)的生命；"
+       "**患者**(sufferers)的生命，"
       ],
       [
-       "and an estimated",
-       "估计还有"
+       "and",
+       "并且"
+      ],
+      [
+       "an estimated",
+       "估计有"
       ],
       [
        "300 million",
@@ -69,8 +91,8 @@
    "para": 1,
    "chunks": [
     {
-     "en": "An early **safeguard**, **deliberately** **implanting** matter from its **sores** in the healthy,",
-     "zh": "一种早期的**防护手段**(safeguard)，是**有意**(deliberately)把天花**脓疮**(sores)中的物质**植入**(implanting)健康人体内，",
+     "en": "An early **safeguard**, **deliberately** **implanting** **matter** from its **sores** in the healthy,",
+     "zh": "一种早期的**防护手段**(safeguard)，是**有意**(deliberately)把天花**脓疮**(sores)中的**物质**(matter)**植入**(implanting)健康人体内，",
      "align": [
       [
        "An early",
@@ -85,8 +107,8 @@
        "是**有意**(deliberately)"
       ],
       [
-       "**implanting** matter from its **sores** in the healthy,",
-       "把天花**脓疮**(sores)中的物质**植入**(implanting)健康人体内，"
+       "**implanting** **matter** from its **sores** in the healthy,",
+       "把天花**脓疮**(sores)中的**物质**(matter)**植入**(implanting)健康人体内，"
       ]
      ],
      "note": "（deliberately implanting…：现在分词短语作同位语，\n说明 safeguard 的内容；\nimplant A in B：把 A 植入 B；the healthy：健康的人）"
@@ -113,19 +135,23 @@
    "chunks": [
     {
      "en": "The **procedure** itself could cause **grave** **sickness** or death,",
-     "zh": "这种**做法**(procedure)本身也可能引起**严重**(grave)**疾病**(sickness)乃至死亡，",
+     "zh": "这种**做法**(procedure)本身可能导致**严重的**(grave)**疾病**(sickness)或死亡，",
      "align": [
       [
-       "The **procedure** itself",
-       "这种**做法**(procedure)本身"
+       "The **procedure**",
+       "这种**做法**(procedure)"
+      ],
+      [
+       "itself",
+       "本身"
       ],
       [
        "could cause",
-       "也可能引起"
+       "可能导致"
       ],
       [
        "**grave**",
-       "**严重**(grave)"
+       "**严重的**(grave)"
       ],
       [
        "**sickness**",
@@ -133,17 +159,21 @@
       ],
       [
        "or death,",
-       "乃至死亡，"
+       "或死亡，"
       ]
      ]
     },
     {
      "en": "if less **frequently** than natural smallpox.",
-     "zh": "虽然不像自然感染的天花那样**频繁**(frequently)。",
+     "zh": "尽管不如自然天花那样**频繁**(frequently)。",
      "align": [
       [
-       "if less **frequently** than natural smallpox.",
-       "虽然不像自然感染的天花那样**频繁**(frequently)。"
+       "if less",
+       "尽管不如"
+      ],
+      [
+       "**frequently** than natural smallpox.",
+       "自然天花那样**频繁**(frequently)。"
       ]
      ],
      "note": "（if less frequently than…：= though less frequently than…，\n虽然不如……频繁）"
@@ -174,7 +204,7 @@
     },
     {
      "en": "milkmaids with cowpox, a **mild** **ailment** of **livestock**, were **immune to** smallpox.",
-     "zh": "挤奶女工若得过牛痘这种**牲畜**(livestock)的**轻微**(mild)**病症**(ailment)，就**对**(immune to)天花**免疫**(immune to)。",
+     "zh": "挤奶女工若得过牛痘这种**牲畜**(livestock)的**轻微**(mild)**病症**(ailment)，\n{{（一般指牛的牛痘，轻微病症）|ailment}}就**对**(immune to)天花**免疫**(immune to)。",
      "align": [
       [
        "milkmaids",
@@ -186,7 +216,7 @@
       ],
       [
        "a **mild** **ailment** of **livestock**,",
-       "这种**牲畜**(livestock)的**轻微**(mild)**病症**(ailment)，"
+       "这种**牲畜**(livestock)的**轻微**(mild)**病症**(ailment)，\n{{（一般指牛的牛痘，轻微病症）|ailment}}"
       ],
       [
        "were **immune to** smallpox.",
@@ -213,8 +243,12 @@
        "本杰明·杰斯蒂，"
       ],
       [
-       "a Dorset farmer,",
-       "一位多塞特郡农夫，"
+       "a Dorset",
+       "一位多塞特郡"
+      ],
+      [
+       "farmer,",
+       "农夫，"
       ]
      ],
      "note": "（a Dorset farmer：同位语，补充说明 Benjamin Jesty；\nDorset：多塞特郡，在英格兰西南部）"
@@ -240,8 +274,12 @@
        "他的妻子"
       ],
       [
-       "and two sons.",
-       "和两个儿子。"
+       "and",
+       "和"
+      ],
+      [
+       "two sons.",
+       "两个儿子。"
       ]
      ]
     }
@@ -252,7 +290,7 @@
    "chunks": [
     {
      "en": "On 14 May 1796 Edward Jenner, a **provincial** **practitioner**,",
-     "zh": "1796年5月14日，爱德华·詹纳，一位**地方**(provincial)**医生**(practitioner)，",
+     "zh": "1796年5月14日，爱德华·詹纳，一位**地方**(provincial)**执业医师**(practitioner)，",
      "align": [
       [
        "On 14 May 1796",
@@ -268,22 +306,22 @@
       ],
       [
        "**practitioner**,",
-       "**医生**(practitioner)，"
+       "**执业医师**(practitioner)，"
       ]
      ],
      "note": "（a provincial practitioner：同位语，补充说明 Edward Jenner）"
     },
     {
      "en": "**inserted** **fluid** from a milkmaid's cowpox sore into a **scratch** on eight-year-old James Phipps.",
-     "zh": "从一名挤奶女工的牛痘疮中取出**液体**(fluid)，**注入**(inserted)8岁的詹姆斯·菲普斯身上的一道**划痕**(scratch)。",
+     "zh": "将取自一名挤奶女工牛痘疮的**液体**(fluid)，**注入**(inserted)8岁的詹姆斯·菲普斯的一道**划痕**(scratch)中。",
      "align": [
       [
        "**inserted** **fluid** from a milkmaid's cowpox sore",
-       "从一名挤奶女工的牛痘疮中取出**液体**(fluid)，**注入**(inserted)"
+       "将取自一名挤奶女工牛痘疮的**液体**(fluid)，**注入**(inserted)"
       ],
       [
        "into a **scratch** on eight-year-old James Phipps.",
-       "8岁的詹姆斯·菲普斯身上的一道**划痕**(scratch)。"
+       "8岁的詹姆斯·菲普斯的一道**划痕**(scratch)中。"
       ]
      ],
      "note": "（insert A into B：把 A 注入 B；\non eight-year-old James Phipps：后置定语，修饰 scratch）"
@@ -294,8 +332,8 @@
    "para": 3,
    "chunks": [
     {
-     "en": "On 1 July 1796 Jenner exposed the boy to smallpox;",
-     "zh": "1796年7月1日，詹纳让这个男孩接触天花；",
+     "en": "On 1 July 1796 Jenner **exposed** the boy **to** smallpox;",
+     "zh": "1796年7月1日，詹纳**让**(exposed to)这个男孩**接触**(exposed to)天花；",
      "align": [
       [
        "On 1 July 1796",
@@ -306,8 +344,8 @@
        "詹纳"
       ],
       [
-       "exposed the boy to smallpox;",
-       "让这个男孩接触天花；"
+       "**exposed** the boy **to** smallpox;",
+       "**让**(exposed to)这个男孩**接触**(exposed to)天花；"
       ]
      ],
      "note": "（expose A to B：使 A 接触 B）"
@@ -333,7 +371,7 @@
    "chunks": [
     {
      "en": "In 1797 the Royal Society declined to **publish** his paper,",
-     "zh": "1797年，皇家学会不予**发表**(publish)他的论文，",
+     "zh": "1797年，皇家学会拒绝去**发表**(publish)他的论文，",
      "align": [
       [
        "In 1797",
@@ -344,8 +382,12 @@
        "皇家学会"
       ],
       [
-       "declined to",
-       "不予"
+       "declined",
+       "拒绝"
+      ],
+      [
+       "to",
+       "去"
       ],
       [
        "**publish**",
@@ -417,8 +459,16 @@
      "zh": "书中附上了**补充**(supplementary)病例。",
      "align": [
       [
-       "with **supplementary** cases.",
-       "书中附上了**补充**(supplementary)病例。"
+       "with",
+       "书中附上了"
+      ],
+      [
+       "**supplementary**",
+       "**补充**(supplementary)"
+      ],
+      [
+       "cases.",
+       "病例。"
       ]
      ]
     }
@@ -488,30 +538,38 @@
    "chunks": [
     {
      "en": "His contribution was a test, with results **accessible** in print,",
-     "zh": "他的贡献在于做了一项试验，并把结果付印，供人**查阅**(accessible)，",
+     "zh": "他的贡献是一项试验，其结果在已出版的书籍中**可以获得**(accessible)，",
      "align": [
       [
        "His contribution",
        "他的贡献"
       ],
       [
-       "was a test,",
-       "在于做了一项试验，"
+       "was",
+       "是"
       ],
       [
-       "with results **accessible** in print,",
-       "并把结果付印，供人**查阅**(accessible)，"
+       "a test,",
+       "一项试验，"
+      ],
+      [
+       "with results",
+       "其结果"
+      ],
+      [
+       "**accessible** in print,",
+       "在已出版的书籍中**可以获得**(accessible)，"
       ]
      ],
      "note": "（with results accessible in print：with 复合结构，\n结果印成书、人人可以查阅）"
     },
     {
      "en": "so other doctors could **replicate** and **disseminate** the **technique**.",
-     "zh": "因而其他医生得以**重复**(replicate)并**推广**(disseminate)这项**技术**(technique)。",
+     "zh": "以便其他医生能够**复制**(replicate)并**传播**(disseminate)这项**技术**(technique)。",
      "align": [
       [
        "so",
-       "因而"
+       "以便"
       ],
       [
        "other",
@@ -523,11 +581,11 @@
       ],
       [
        "could **replicate**",
-       "得以**重复**(replicate)"
+       "能够**复制**(replicate)"
       ],
       [
        "and **disseminate**",
-       "并**推广**(disseminate)"
+       "并**传播**(disseminate)"
       ],
       [
        "the **technique**.",
@@ -542,7 +600,7 @@
    "chunks": [
     {
      "en": "By today's standards, **experimentation** on a child without **informed** **consent**",
-     "zh": "按今天的标准，拿孩子做**实验**(experimentation)而不取得**知情**(informed)**同意**(consent)，",
+     "zh": "按今天的标准，拿孩子做**实验**(experimentation)在没有取得**知情**(informed)**同意**(consent)的情况下，",
      "align": [
       [
        "By",
@@ -562,7 +620,7 @@
       ],
       [
        "without",
-       "而不取得"
+       "在没有取得"
       ],
       [
        "**informed**",
@@ -570,7 +628,7 @@
       ],
       [
        "**consent**",
-       "**同意**(consent)，"
+       "**同意**(consent)的情况下，"
       ]
      ],
      "note": "（informed consent：知情同意，医学伦理术语）"
@@ -634,7 +692,7 @@
    "chunks": [
     {
      "en": "In 1967 the WHO launched an **intensified**, **concerted** campaign to **eradicate** smallpox.",
-     "zh": "1967年，世界卫生组织发起了一场**强化**(intensified)、**协同的**(concerted)运动，要**根除**(eradicate)天花。",
+     "zh": "1967年，世界卫生组织发起了一场**强化**(intensified)、**共同筹划的**(concerted)运动，要**根除**(eradicate)天花。",
      "align": [
       [
        "In 1967",
@@ -654,15 +712,19 @@
       ],
       [
        "**concerted**",
-       "**协同的**(concerted)"
+       "**共同筹划的**(concerted)"
       ],
       [
        "campaign",
        "运动，"
       ],
       [
-       "to **eradicate** smallpox.",
-       "要**根除**(eradicate)天花。"
+       "to **eradicate**",
+       "要**根除**(eradicate)"
+      ],
+      [
+       "smallpox.",
+       "天花。"
       ]
      ]
     }
@@ -746,11 +808,11 @@
     },
     {
      "en": "the only human disease ever **wiped out**.",
-     "zh": "天花也成为迄今唯一被**消灭**(wiped out)的人类疾病。",
+     "zh": "天花也成为迄今唯一被**彻底消灭**(wiped out)的人类疾病。",
      "align": [
       [
        "the only human disease ever **wiped out**.",
-       "天花也成为迄今唯一被**消灭**(wiped out)的人类疾病。"
+       "天花也成为迄今唯一被**彻底消灭**(wiped out)的人类疾病。"
       ]
      ],
      "note": "（the only human disease ever wiped out：\n同位语，补充说明 smallpox；wipe out：彻底消灭）"
@@ -762,15 +824,19 @@
    "chunks": [
     {
      "en": "That **pronouncement** came almost 184 years after Phipps was **vaccinated**.",
-     "zh": "这一**宣告**(pronouncement)距菲普斯**接种**(vaccinated)已近184年。",
+     "zh": "那一**宣告**(pronouncement)，出现在菲普斯**接种疫苗**(vaccinated)之后的近184年。",
      "align": [
       [
        "That **pronouncement**",
-       "这一**宣告**(pronouncement)"
+       "那一**宣告**(pronouncement)，"
       ],
       [
-       "came almost 184 years after Phipps was **vaccinated**.",
-       "距菲普斯**接种**(vaccinated)已近184年。"
+       "came",
+       "出现在"
+      ],
+      [
+       "almost 184 years after Phipps was **vaccinated**.",
+       "菲普斯**接种疫苗**(vaccinated)之后的近184年。"
       ]
      ],
      "note": "（after Phipps was vaccinated：时间状语从句）\n（简述：天花传染性强、死亡率高。早在16世纪，中国就已施行人痘接种，1721年传入英国，但接种本身也有危险。\n民间相传得过牛痘就不得天花，1774年农夫杰斯蒂用牛痘保护家人。\n1796年，詹纳把牛痘液注入8岁男孩菲普斯的划痕，再让他接触天花，男孩没有发病。\n皇家学会不予发表他的论文，他便自费出书，让别的医生可以重复和推广。\n1967年世卫组织发起根除运动，1977年最后一例自然病例在索马里确诊，\n1980年全世界宣布天花已被消灭，距菲普斯接种已近184年。）"
@@ -781,8 +847,8 @@
  "核对确认": {
   "非人声": {
    "15.81–15.84s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S2 w 1.705–1.735：deliberately 的 /d/ 浊音前导，-50→-31 dB 连续升高，低频占 0～-1 dB（浊音横杠），1.74 起 /d/ 除阻，中间无低谷，是词头的一部分",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S2 w 1.705–1.735：deliberately 的 /d/ 浊音前导，-50→-31 dB 连续升高，低频占 0～-1 dB（浊音横杠），1.74 起 /d/ 除阻，中间无低谷，是词头的一部分",
     "词头": true,
     "实测": {
      "最响dB": -34.0,
@@ -792,8 +858,8 @@
     }
    },
    "47.35–47.37s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S5 w 4.825–4.84：farmer, 停顿之后、employed 开口前，-45～-57 dB、低频占 0 dB（浊音），4.86 起 /ɛ/ 元音（-19 dB），连续无低谷，是元音的浊音起音",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S5 w 4.825–4.84：farmer, 停顿之后、employed 开口前，-45～-57 dB、低频占 0 dB（浊音），4.86 起 /ɛ/ 元音（-19 dB），连续无低谷，是元音的浊音起音",
     "词头": true,
     "实测": {
      "最响dB": -46.7,
@@ -803,8 +869,8 @@
     }
    },
    "68.36–68.39s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S7 w 3.71–3.73：exposed 的 /z/（3.66 重心 6–7 kHz）衰减后，/d/ 除阻 -42→-30 dB、重心 4–5 kHz，3.735 起直接接 the 的 /ð/，连续无低谷，是 /d/ 除阻",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S7 w 3.71–3.73：exposed 的 /z/（3.66 重心 6–7 kHz）衰减后，/d/ 除阻 -42→-30 dB、重心 4–5 kHz，3.735 起直接接 the 的 /ð/，连续无低谷，是 /d/ 除阻",
     "词尾": true,
     "实测": {
      "最响dB": -34.4,
@@ -814,8 +880,8 @@
     }
    },
    "69.36–69.38s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S7 w 4.705–4.72：smallpox 的 /p/ 闭塞段（4.68–4.725，-50～-67 dB），低频占 0～-2 dB 是闭塞里的残余浊音，4.73 起 /p/ 除阻（-19 dB），是词内的一部分",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S7 w 4.705–4.72：smallpox 的 /p/ 闭塞段（4.68–4.725，-50～-67 dB），低频占 0～-2 dB 是闭塞里的残余浊音，4.73 起 /p/ 除阻（-19 dB），是词内的一部分",
     "词尾": true,
     "实测": {
      "最响dB": -51.7,
@@ -824,31 +890,20 @@
      "低频dB": -0.5
     }
    },
-   "80.25–80.33s": {
-    "配音指纹": "1a7c4a0cc4ff",
+   "80.31–80.33s": {
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S8 w 7.54–7.625：unconvincing. 句末 /ŋ/（7.49–7.535 -19～-34 dB 鼻音）连续衰减到 -54 dB，低频占 -2～-13 dB、重心 1–3 kHz，无低谷，是词尾鼻音的衰减尾",
     "词尾": true,
     "实测": {
      "最响dB": -35.2,
-     "重心Hz": 2904,
-     "周期": 0.27,
-     "低频dB": -4.3
-    }
-   },
-   "80.31–80.33s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S8 w 7.59–7.62：同上一段 unconvincing. 句末 /ŋ/ 衰减尾的一部分（-36～-51 dB，低频占 -1～-3 dB），无低谷，是词尾",
-    "词尾": true,
-    "实测": {
-     "最响dB": -35.2,
-     "重心Hz": 1332,
-     "周期": 0.32,
+     "重心Hz": 1370,
+     "周期": 0.33,
      "低频dB": -1.6
     }
    },
    "85.55–85.56s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S9 w 3.80–3.815：book, 停顿之后 -46→-29 dB 连续升高，低频占 -1～-2 dB、周期 0.4–0.5（浊音），一直升到 3.855 -14 dB 的 the，无低谷，是 /ð/ 的起音",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S9 w 3.80–3.815：book, 停顿之后 -46→-29 dB 连续升高，低频占 -1～-2 dB、周期 0.4–0.5（浊音），一直升到 3.855 -14 dB 的 the，无低谷，是 /ð/ 的起音",
     "词头": true,
     "实测": {
      "最响dB": -31.3,
@@ -858,8 +913,8 @@
     }
    },
    "86.77–86.78s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S9 w 4.835–4.855：Inquiry, 停顿之后、with 开口前，-48～-62 dB、低频占 0～-2 dB（浊音），4.875 起 /w/（-35→-11 dB），连续无低谷，是 /w/ 的浊音起音",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S9 w 4.835–4.855：Inquiry, 停顿之后、with 开口前，-48～-62 dB、低频占 0～-2 dB（浊音），4.875 起 /w/（-35→-11 dB），连续无低谷，是 /w/ 的浊音起音",
     "词头": true,
     "实测": {
      "最响dB": -48.0,
@@ -869,8 +924,8 @@
     }
    },
    "99.19–99.25s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S12 w 1.875–1.93：test, 的 /s/（1.825–1.85 重心 5 kHz）后闭塞 1.855–1.87（-56～-66 dB），1.875 /t/ 除阻 -37 dB、重心 3–4 kHz，送气衰减到 1.93，是 /t/ 的除阻送气",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S12 w 1.875–1.93：test, 的 /s/（1.825–1.85 重心 5 kHz）后闭塞 1.855–1.87（-56～-66 dB），1.875 /t/ 除阻 -37 dB、重心 3–4 kHz，送气衰减到 1.93，是 /t/ 的除阻送气",
     "词尾": true,
     "实测": {
      "最响dB": -33.0,
@@ -880,8 +935,8 @@
     }
    },
    "105.55–105.61s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S12 w 8.145–8.215：technique. 的 /k/ 闭塞 8.105–8.14（-64～-69 dB），8.15 除阻 -28 dB、重心 4.4 kHz，送气衰减到 8.215 -63 dB，是句末 /k/ 的除阻送气",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S12 w 8.145–8.215：technique. 的 /k/ 闭塞 8.105–8.14（-64～-69 dB），8.15 除阻 -28 dB、重心 4.4 kHz，送气衰减到 8.215 -63 dB，是句末 /k/ 的除阻送气",
     "词尾": true,
     "实测": {
      "最响dB": -31.5,
@@ -891,8 +946,8 @@
     }
    },
    "132.97–133.00s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S16 w 2.325–2.355：was 开口前，-48～-57 dB、低频占 0～-1 dB（浊音），2.377 起 /w/（-35→-11 dB），连续无低谷，是 /w/ 的浊音起音（前面 case 后的吸气声已切）",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S16 w 2.325–2.355：was 开口前，-48～-57 dB、低频占 0～-1 dB（浊音），2.377 起 /w/（-35→-11 dB），连续无低谷，是 /w/ 的浊音起音（前面 case 后的吸气声已切）",
     "词头": true,
     "实测": {
      "最响dB": -48.3,
@@ -902,8 +957,8 @@
     }
    },
    "138.09–138.17s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S16 w 7.69–7.77：seventy-seven. 句末 /n/（7.64–7.69 -26～-35 dB）连续衰减到 7.78 -57 dB，低频占 -2～-7 dB（浊音），无低谷，是词尾鼻音的衰减尾",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S16 w 7.69–7.77：seventy-seven. 句末 /n/（7.64–7.69 -26～-35 dB）连续衰减到 7.78 -57 dB，低频占 -2～-7 dB（浊音），无低谷，是词尾鼻音的衰减尾",
     "词尾": true,
     "实测": {
      "最响dB": -35.8,
@@ -913,8 +968,8 @@
     }
    },
    "154.97–155.09s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S18 w 5.39–5.505：vaccinated. 句末 /d/：5.395–5.47 -36～-51 dB、低频占 -1～-3 dB 是 /d/ 闭塞浊音，5.48 小除阻 -33 dB，衰减到 5.51 -68 dB，无低谷，是词尾 /d/",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S18 w 5.39–5.505：vaccinated. 句末 /d/：5.395–5.47 -36～-51 dB、低频占 -1～-3 dB 是 /d/ 闭塞浊音，5.48 小除阻 -33 dB，衰减到 5.51 -68 dB，无低谷，是词尾 /d/",
     "词尾": true,
     "实测": {
      "最响dB": -35.4,
@@ -924,8 +979,8 @@
     }
    },
    "155.00–155.05s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S18 w 5.42–5.47：同上一段 vaccinated. 句末 /d/ 闭塞浊音（-37～-50 dB、低频占 0～-2 dB），是词尾",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S18 w 5.42–5.47：同上一段 vaccinated. 句末 /d/ 闭塞浊音（-37～-50 dB、低频占 0～-2 dB），是词尾",
     "词尾": true,
     "实测": {
      "最响dB": -35.4,
@@ -935,78 +990,78 @@
     }
    },
    "80.25–80.34s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S8 w 7.54–7.625：unconvincing. 句末 /ŋ/（7.49–7.535 -19～-34 dB 鼻音）连续衰减到 -54 dB，低频占 -2～-13 dB、重心 1–3 kHz，无低谷，是词尾鼻音的衰减尾",
-    "词尾": true
-   },
-   "80.35–80.37s": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S8 w 7.635–7.655：unconvincing. 句末 /ŋ/ 衰减尾（-42～-54 dB、低频占 -1～-3 dB 浊音），接在 7.54–7.62 那段后面，7.66 起淡出到 -70 dB 以下，是词尾鼻音的衰减尾",
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S8 w 7.54–7.625：unconvincing. 句末 /ŋ/（7.49–7.535 -19～-34 dB 鼻音）连续衰减到 -54 dB，低频占 -2～-13 dB、重心 1–3 kHz，无低谷，是词尾鼻音的衰减尾",
     "词尾": true,
     "实测": {
-     "最响dB": -53.2,
-     "重心Hz": 1826,
-     "周期": 0.41,
-     "低频dB": -3.3
+     "最响dB": -35.2,
+     "重心Hz": 2904,
+     "周期": 0.27,
+     "低频dB": -4.3
     }
+   },
+   "80.35–80.37s": {
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S8 w 7.635–7.655：unconvincing. 句末 /ŋ/ 衰减尾（-42～-54 dB、低频占 -1～-3 dB 浊音），接在 7.54–7.62 那段后面，7.66 起淡出到 -70 dB 以下，是词尾鼻音的衰减尾",
+    "词尾": true
    }
   },
   "删除段": {
    "S12 raw 4.3900-4.7000": "2026-10-15 删除段对应 非人声区间 [[4.4, 4.68]]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['lost'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词",
    "S9 raw 3.8500-3.8950": {
     "类型": "紧贴词尾的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：S9 book, 停顿处（停顿处除阻 k）删掉的 45 ms 是 /k/ 闭塞里的静音，删掉部分最响 -55.2 dB（听不见），前侧最低 -55.0 dB 正卡在 -55 门槛上，没有切到词的声音"
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：S9 book, 停顿处（停顿处除阻 k）删掉的 45 ms 是 /k/ 闭塞里的静音，删掉部分最响 -55.2 dB（听不见），前侧最低 -55.0 dB 正卡在 -55 门槛上，没有切到词的声音"
    },
    "S1 raw 5.2650-5.6011": {
     "类型": "紧贴词头的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[5.255, 5.591125, '紧贴词头']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['lost', 'post'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    },
    "S2 raw 5.2300-5.6307": {
     "类型": "紧贴词头的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[5.225, 5.610708, '紧贴词头']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['lost', 'post'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    },
    "S2 raw 8.5250-8.8662": {
     "类型": "紧贴词头的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[8.55, 8.846208, '紧贴词头']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['lost', 'post'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    },
    "S3 raw 3.5100-3.9161": {
     "类型": "紧贴词头的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[3.685125, 3.896167, '紧贴词头']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['post'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    },
    "S5 raw 4.5550-4.8339": {
     "类型": "紧贴词头的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[4.55, 4.823917, '紧贴词头']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['post'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    },
    "S8 raw 1.7015-1.9000": {
     "类型": "紧贴词尾的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[1.6815, 1.85, '紧贴词尾']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['pre'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    },
    "S16 raw 2.1100-2.3235": {
     "类型": "紧贴两头的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[2.110042, 2.3235, '紧贴两头']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['pre'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    },
    "S18 raw 3.7525-3.8553": {
     "类型": "紧贴两头的非人声",
-    "配音指纹": "1a7c4a0cc4ff",
+    "配音指纹": "f770d56e54c4",
     "依据": "2026-10-15 删除段对应 非人声区间 [[3.7325, 3.835292, '紧贴两头']]（w 秒）：自动切点.py 用实际声音按规则判定是吸气声/噗声（听得见的部分七成以上重心 1.8–3.8 kHz、低频 < -10 dB、周期 < 0.35，没有连续 20 ms >4 kHz 的擦音），贴词一侧切在紧挨词 40 ms 内最安静处的过零点；复核报 ['lost', 'post', 'pre'] 是删掉的呼吸声本身偏响（-34～-47 dB），不是词"
    }
   },
   "机器复听": {
    "S10": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：vacca 配音注音 vˈækə（与 CMU 词典 V AE1 K AH0 一致，拉丁词英语读法）；两路识别器拼成 vaca 是生僻拉丁词的拼写猜测，不是读错"
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：vacca 配音注音 vˈækə（与 CMU 词典 V AE1 K AH0 一致，拉丁词英语读法）；两路识别器拼成 vaca 是生僻拉丁词的拼写猜测，不是读错"
    },
    "S2": {
-    "配音指纹": "1a7c4a0cc4ff",
-    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 1a7c4a0cc4ff）：sores 只有 parakeet 一路听成 source，small.en 听对；配音 sˈɔːɹz，w 4.41–4.47 词尾 /z/ 周期 0.15–0.23、低频占 -13～-16 dB，浊化偏弱（接 in 前），前面 ɔːɹ 长约 170 ms，交用户听"
+    "配音指纹": "f770d56e54c4",
+    "依据": "2026-11-07 逐 2.5 ms 实测（dossier_58，配音指纹 f770d56e54c4）：sores 只有 parakeet 一路听成 source，small.en 听对；配音 sˈɔːɹz，w 4.41–4.47 词尾 /z/ 周期 0.15–0.23、低频占 -13～-16 dB，浊化偏弱（接 in 前），前面 ɔːɹ 长约 170 ms，交用户听"
    }
   },
   "合组": {
@@ -1022,7 +1077,9 @@
    "S14 died on 26 January 1823": "对齐不了：on 26 January 1823 是时间状语，中文“于1823年1月26日去世”时间必须放到动词前",
    "S16 was diagnosed in Somalia on 26 October 1977": "对齐不了：in Somalia、on 26 October 1977 是地点、时间状语，中文“于1977年10月26日在索马里确诊”必须放到动词前",
    "S17 the only human disease ever wiped out": "对齐不了：ever wiped out 是后置定语，修饰 disease，中文“迄今唯一被消灭的人类疾病”定语必须提前",
-   "S18 came almost 184 years after Phipps was vaccinated": "对齐不了：after Phipps was vaccinated 是时间状语从句，中文“距菲普斯接种已近184年”，after 化成“距”放最前，came 化成“已”"
+   "S18 came almost 184 years after Phipps was vaccinated": "对齐不了：after Phipps was vaccinated 是时间状语从句，中文“距菲普斯接种已近184年”，after 化成“距”放最前，came 化成“已”",
+   "S3 frequently than natural smallpox": "对齐不了：less frequently than… 比较结构，中文“尽管不如自然天花那样频繁”，比较对象“自然天花那样”必须放在“频繁”前面（用户 2026-11-07 给的译文）",
+   "S18 almost 184 years after Phipps was vaccinated": "对齐不了：after 引导的时间状语，中文“菲普斯接种疫苗之后的近184年”，时间“之后”必须放在“近184年”前面（用户 2026-11-07 给的译文）"
   },
   "对齐": {
    "S2-1 implanting matter from its sor": "implant A in B，from its sores 是后置定语，中文“把天花脓疮中的物质植入健康人体内”语序必须倒过来",
@@ -1037,7 +1094,8 @@
    "S14-1 died on 26 January 1823,": "时间状语，中文时间必须放到动词前",
    "S16-2 was diagnosed in Somalia on 26": "地点、时间状语，中文必须放到动词前",
    "S17-2 the only human disease ever wi": "后置定语 ever wiped out，中文定语必须提前",
-   "S18-1 came almost 184 years after Ph": "时间状语从句，中文“距菲普斯接种已近184年”语序必须倒过来"
+   "S18-1 came almost 184 years after Ph": "时间状语从句，中文“距菲普斯接种已近184年”语序必须倒过来",
+   "S18-1 almost 184 years after Phipps": "after Phipps was vaccinated 是时间状语从句，中文“菲普斯接种疫苗之后的近184年”（用户 2026-11-07 给的译文），“之后”必须在“近184年”前面，语序倒过来"
   },
   "短语": {
    "S2 implanting … from": "不是搭配：from 属于 matter from its sores（后置定语），implant 单独就是“植入”",
@@ -1059,12 +1117,15 @@
   },
   "方向": {
    "S8-1 declined→不予发表": "decline 本文是“拒绝，不予”，中文“不予发表”，不是方向（下降）义",
-   "S3-2 less→虽然不像自然感染的天花那": "less frequently than… 是比较结构，中文“不像……那样频繁”，less 化成“不像……那样”，不是方向词",
    "S8-1 declined→不予": "decline 本文是“拒绝，不予”，中文“不予发表”，不是方向（下降）义",
-   "S18-1 after→距菲普斯接种已近184年": "after 化成“距……已近”，中文“距菲普斯接种已近184年”就是“在那之后近184年”，方向一致"
+   "S3-2 less→虽然不像自然感染的天花那": "less frequently than… 是比较结构，中文“不像……那样频繁”，less 化成“不像……那样”，不是方向词",
+   "S8-1 declined→拒绝": "decline 本文是“拒绝”，中文“拒绝去发表”，不是方向（下降）义",
+   "S18-1 after→距菲普斯接种已近184年": "after 化成“距……已近”，中文“距菲普斯接种已近184年”就是“在那之后近184年”，方向一致",
+   "S3-2 less→尽管不如": "less frequently than… 是比较结构，less 化成“不如”，中文“尽管不如自然天花那样频繁”，方向一致（较少）"
   },
   "同词异译": {
-   "immune to：免疫/对": "不是两种译法：S4 be immune to 的意思“对……免疫”被“天花”隔开，“对”和“免疫”是同一个意思的两部分（T23）"
+   "immune to：免疫/对": "不是两种译法：S4 be immune to 的意思“对……免疫”被“天花”隔开，“对”和“免疫”是同一个意思的两部分（T23）",
+   "exposed to：接触/让": "不是两种译法：S7 expose A to B 的意思“让……接触”被“这个男孩”隔开，“让”和“接触”是同一个意思的两部分（T23）"
   },
   "数字": {
    "S1-2 300": "300 million 中文写作“3亿”，数值相同（300百万 = 3亿）；英文读 three hundred million"
@@ -1072,6 +1133,9 @@
   "数字写法": {
    "S1-2 three": "three in ten 中文写作“三成”（十分之三），数值相同",
    "S6-2 eight": "eight-year-old 中文按文章定稿写作“8岁”，数值相同（eight = 8）"
+  },
+  "中文重复": {
+   "疾病": "用户 2026-11-07 原话（问 S1 affliction 与 S3 sickness 都译“疾病”怎么处理）：“疾病都保留”；两处都指天花这类病，S1 是天花本身，S3 是接种可能引起的病"
   }
  },
  "结尾解说": "简述",
