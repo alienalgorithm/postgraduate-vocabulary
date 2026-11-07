@@ -6,7 +6,7 @@ Charles Darwin **disembarked** from HMS Beagle in October 1836. In September 183
 
 In February 1858, two decades after Darwin's first insight, Alfred Russel Wallace, a **naturalist** **afflicted by** fever in the Malay Archipelago, **independently** **conceived** the same idea. His **concise** essay reached Darwin on 18 June 1858. Its argument **paralleled** Darwin's own almost **precisely**; he told Charles Lyell he had never seen a more **remarkable** **coincidence**. His claim to **priority** seemed **threatened**.
 
-Lyell and the botanist Joseph Hooker **arranged** for both papers to be read **simultaneously** at the Linnean Society, a scientific **institution** in London, on 1 July 1858. Neither author attended the **proceedings**. Wallace was abroad, and Darwin was **grieving**: **scarlet** fever had killed his **infant** son on 28 June. The **compromise**, struck without Wallace, may have kept **rivalry** over **precedence** at bay.
+Lyell and the **botanist** Joseph Hooker **arranged** for both papers to be read **simultaneously** at the Linnean Society, a scientific **institution** in London, on 1 July 1858. Neither author attended the **proceedings**. Wallace was abroad, and Darwin was **grieving**: **scarlet** fever had killed his **infant** son on 28 June. The **compromise**, struck without Wallace, may have kept **rivalry** over **precedence** at bay.
 
 The papers' **publication** on 20 August 1858 met a **muted** **reception**. In May 1859 the Society's president **remarked** in his **yearly** address that the year had been **barren** of **revolutionary** discoveries. The **sensation** came on 24 November 1859 with Darwin's **treatise**, On the Origin of Species: booksellers had **subscribed** for every copy of its first **impression**, 1,250 in all.
 
@@ -18,7 +18,7 @@ Wallace had **readily** **signified** his **acceptance** in October 1858, **assu
 
 1858年2月，达尔文最初的洞察出现后的二十年，**博物学家**(naturalist)阿尔弗雷德·拉塞尔·华莱士在马来群岛**饱受**(afflicted by)热病**的折磨**(afflicted by)，**独自一人**(independently)**构想出**(conceived)了同一个想法。华莱士这篇**简明**(concise)的文章于1858年6月18日到达了达尔文的手里。文中的论证**与**(paralleled)达尔文自己的几乎**完全**(precisely)**一样**(paralleled)；达尔文告诉查尔斯·莱尔，自己从未见过比这更**惊人**(remarkable)的**巧合**(coincidence)。他对**优先权**(priority)的主张似乎**受到了威胁**(threatened)。
 
-莱尔和植物学家约瑟夫·胡克**促成**(arranged)两篇论文于1858年7月1日在伦敦的科学**机构**(institution)林奈学会**同时**(simultaneously)宣读。两位作者都没有出席当天的**会议**(proceedings)。华莱士身在海外，达尔文则处于**哀痛**(grieving)之中：6月28日，**猩红**(scarlet)热夺去了他**幼子**(infant)的生命。这一**折中办法**(compromise)在华莱士未参与的情况下达成，或许避免了围绕**先后次序**(precedence)的**竞争**(rivalry)。
+莱尔和**植物学家**(botanist)约瑟夫·胡克**安排**(arranged)这两篇论文，于1858年7月1日在伦敦的科学**机构**(institution)林奈学会上被**同时**(simultaneously)宣读。两位作者都没有出席当天的**会议**(proceedings)。华莱士身在海外，达尔文则处于**哀痛**(grieving)之中：6月28日，**猩红**(scarlet)热夺去了他**幼子**(infant)的生命。这一**折中办法**(compromise)在华莱士未参与的情况下达成，或许避免了围绕**先后次序**(precedence)的**竞争**(rivalry)。
 
 1858年8月20日，两篇论文**刊出**(publication)，得到的**反响**(reception)却很**平淡**(muted)。1859年5月，学会会长在**年度**(yearly)致辞中**谈到**(remarked)，这一年**毫无**(barren)**革命性**(revolutionary)的发现。1859年11月24日，达尔文的**专著**(treatise)《物种起源》问世，引起**轰动**(sensation)：书商们已**认购**(subscribed)了该书第一**次印刷**(impression)的每一册，共1,250册。
 
@@ -54,6 +54,7 @@ Wallace had **readily** **signified** his **acceptance** in October 1858, **assu
 | threatened | v. (threaten) 威胁，危及（threaten jobs/peace；feel threatened） | 2 |
 | arranged | v. (arrange) 安排，筹划（arrange a meeting；arrange for a taxi to collect sb） | 3 |
 | simultaneously | adv. 同时地（broadcast simultaneously；happen simultaneously） | 3 |
+| botanist | n. 植物学家（a famous botanist；botanists study plants） | 3 |
 | institution | n. 机构，团体（a financial/academic institution；research institutions） | 3 |
 | proceedings | n. 会议，会议过程；诉讼（open the proceedings；legal proceedings） | 3 |
 | grieving | v. (grieve) 悲痛，哀悼（grieve for/over a friend；a grieving widow） | 3 |
