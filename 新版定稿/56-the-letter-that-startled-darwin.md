@@ -20,7 +20,7 @@ Wallace had **readily** **signified** his **acceptance** in October 1858, **assu
 
 莱尔和**植物学家**(botanist)约瑟夫·胡克**安排**(arranged)这两篇论文，于1858年7月1日在伦敦的科学**机构**(institution)林奈学会上被**同时**(simultaneously)宣读。两位作者都没有出席这场**会议**(proceedings)。华莱士身在海外，达尔文则处于**哀痛**(grieving)之中：6月28日，**猩红**(scarlet)热夺去了他**幼子**(infant)的生命。这一**折中办法**(compromise)在华莱士未参与的情况下达成，或许避免了围绕**先后次序**(precedence)的**竞争**(rivalry)。
 
-这些论文于1858年8月20日的**发表**(publication)，遭遇了一个**很不热烈的**(muted)**反响**(reception)。1859年5月，学会会长在**年度**(yearly)致辞中**谈到**(remarked)，这一年**毫无**(barren)**革命性**(revolutionary)的发现。1859年11月24日，达尔文的**专著**(treatise)《物种起源》问世，引起**轰动**(sensation)：书商们已**认购**(subscribed)了该书第一**次印刷**(impression)的每一册，共1,250册。
+这些论文于1858年8月20日的**发表**(publication)，遭遇了一个**很不热烈的**(muted)**反响**(reception)。1859年5月，学会会长在**年度**(yearly)致辞中**评论**(remarked)说，这一年一直**毫无**(barren)**革命性**(revolutionary)的发现。1859年11月24日，达尔文的**专著**(treatise)《物种起源》问世，引起**轰动**(sensation)：书商们已**认购**(subscribed)了该书第一**次印刷**(impression)的每一册，共1,250册。
 
 1858年10月，华莱士就已**欣然**(readily)**表明**(signified)了**接受**(acceptance)的态度，在一封**亲切**(cordial)的信中向胡克**保证**(assuring)，自己对这一**安排**(arrangement)感到**满意**(satisfaction)。1889年，他出版了一部**长篇**(lengthy)**论述**(exposition)阐释这一思想，并将其**定名**(entitled)为《达尔文主义》。华莱士从未用自己的名字为这一理论命名。
 
