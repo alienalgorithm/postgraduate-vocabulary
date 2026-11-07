@@ -6,7 +6,7 @@ S=[
      "（disembark from…：从（船、飞机）上下来；\nHMS Beagle：英国皇家海军舰船小猎犬号）"]]),
 (1,[[[("In September 1838","1838年9月，"),("he","他"),("began","开始"),("**formulating**","**构想出**(formulating)"),("the **principle** of natural **selection**:","自然**选择**(selection)的**原理**(principle)：")],
      "（began formulating：begin doing，开始做某事；\nthe principle of natural selection：of 结构，自然选择的原理）"],
-    [[("individuals better **adapted to** their **surroundings**","**对**(adapted to)**周围环境**(surroundings)**适应**(adapted to)得更好的个体"),("survive","存活下来，"),("and","并"),("**pass on**","将**传递**(pass on)"),("their","他们自身"),("**hereditary**","**遗传的**(hereditary)"),("traits.","性状（给后代）。")],
+    [[("individuals better **adapted to** their **surroundings**","**对**(adapted to)**周围环境**(surroundings)**适应**(adapted to)得更好的个体"),("survive","存活下来，"),("and","并"),("**pass on**","将**传递**(pass on)"),("their","他们自身"),("**hereditary**","**遗传的**(hereditary)"),("**traits**.","**性状**(traits)（给后代）。")],
      "（better adapted to…：过去分词短语作后置定语，\n修饰 individuals；be adapted to…：适应……；\npass on：传递）"]]),
 (1,[[[("By 1844","到1844年，"),("he","他"),("had **composed**","已**写成**(composed)"),("a 230-page","一份230页的"),("**manuscript**,","**手稿**(manuscript)，")],
      "（By 1844：到1844年为止；\nhad composed：过去完成时，表示到那时已经完成）"],
