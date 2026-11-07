@@ -59,24 +59,17 @@ S=[
 (5,[[[("Some experts","一些专家"),("**discounted**","**不予采信**(discounted)"),("the volcanic","火山"),("explanation,","之说，")]],
     [[("blaming","而把"),("the **sunsets**","**晚霞**(sunsets)"),("on","归因于"),("**moisture** **at high altitude**","**高空**(at high altitude)的**水汽**(moisture)"),("or","或"),("**cosmic**","**宇宙**(cosmic)"),("dust.","尘埃。")],
      "（blaming…：现在分词短语作状语；\nblame A on B：把 A 归咎于 B）"]]),
-(5,[[[("In February 1884,","1884年2月，"),("Britain's Royal Society","英国皇家学会"),("appealed","发出呼吁，"),("in The Times","在《泰晤士报》上"),("for","征集"),("dated","注明日期的"),("observations,","观测记录，")],
+(5,[[[("In February 1884,","1884年2月，"),("Britain's **Royal Society**","英国**皇家学会**(Royal Society)"),("**appealed**","发出**呼吁**(appealed)，"),("in The Times","在《泰晤士报》上"),("for","征集"),("dated","注明日期的"),("observations,","观测记录，")],
      "（appeal for…：呼吁，征求……；\ndated：注明日期的）"],
-    [[("**eliciting**","**引来了**(eliciting)"),("worldwide","世界各地的"),("replies;","回信；")],
+    [[("**eliciting**","**引起了**(eliciting)"),("worldwide","世界各地的"),("replies;","回应；")],
      "（eliciting…：现在分词短语作状语，补充说明结果）"],
-    [[("the Society's","学会"),("1888 report","1888年发表的报告"),("tied","把"),("the glow","这片红霞"),("to Krakatoa.","归于喀拉喀托火山。")],
+    [[("the Society's","学会"),("1888 report","1888年发表的报告"),("**tied**","**把**(tied to)"),("the glow","这片红霞"),("**to**","**归于**(tied to)"),("Krakatoa.","喀拉喀托火山。")],
      "（tie A to B：把 A 与 B 联系起来）"]]),
 (5,[[[("Through","借助"),("barometers,","气压计、"),("cables,","电缆"),("and crimson","和深红色的"),("skies,","天空，")]],
-    [[("**far-flung**","**相隔遥远的**(far-flung)"),("**observers**","**观察者**(observers)"),("began to","开始"),("**glimpse**","**隐约看出**(glimpse)，")]],
-    [[("how **interconnected** the planet already was.","这颗星球早已何等**紧密相连**(interconnected)。")],
+    [[("**far-flung**","**相隔遥远的**(far-flung)"),("**observers**","**观察者**(observers)们"),("began to","开始"),("**glimpse**","**认识到**(glimpse)，")]],
+    [[("how **interconnected** the planet already was.","这颗星球上的各个地方早已**相互关联**(interconnected)在一起。")],
      "（how interconnected…：how 引导的宾语从句，作 glimpse 的宾语，\n语序为 how＋形容词＋主语＋谓语）\n"
-     "（简述：1883年8月27日，喀拉喀托火山猛烈爆炸，近4,800公里外的岛民以为是炮声，\n"
-     "世界各地的气压计都记录到了压力波。\n"
-     "约三分之二的岛体塌入海中，海啸淹没爪哇岛和苏门答腊岛沿岸，官方统计死亡36,417人。\n"
-     "电报经海底电缆几小时内传到伦敦，这常被称为首个全球新闻事件。\n"
-     "火山灰和二氧化硫形成的薄雾绕赤道扩散，欧美出现深红色晚霞，消防员误以为失火，\n"
-     "次年全球气温略降。\n"
-     "有专家不信火山之说，皇家学会征集各地观测，1888年的报告把红霞归于喀拉喀托，\n"
-     "人们由此看到这颗星球早已紧密相连。）"]]),
+     "（简述：\n1. 大爆炸：1883年8月27日，喀拉喀托火山猛烈爆炸。声音大到离谱，将近4800公里外的岛民还以为是打仗的炮声。世界各地的气压计都记下了这股压力波。\n2. 惨烈后果：巨大的爆炸让约三分之二的岛体直接塌进了海里，引发了海啸，淹没了爪哇岛和苏门答腊岛的海岸，官方统计死了36,417人。\n3. 首个全球新闻：当时电报通过海底电缆，仅仅几个小时就把消息传到了伦敦，这在历史上常被称为“首个全球新闻事件”。\n4. 全球连环反应：喷到天上的火山灰和二氧化硫形成薄雾，绕着赤道散开。这让欧美那边出现了深红色的晚霞，当地消防员甚至误以为哪里失火了。到了第二年，全球气温还稍微降了一点。\n5. 科学界的破案：一开始有专家不信是火山干的，于是英国皇家学会登报征集各地的观测记录。直到1888年，学会发布报告，正式把红霞归因于喀拉喀托火山。\n6. 最终的意义：经历了这件事，人们开始明白：这个星球上各地早就紧密的连接在了一起。）"]]),
 ]
 G={
  "S1 Shortly after ten in the morning on 27 August 1883":"对齐不了：中文日期时间按“年月日、上午、钟点”排，“1883年8月27日上午10时刚过”语序必须整个倒过来",
@@ -87,7 +80,7 @@ G={
  "S3 seven times in about five days":"对齐不了：用户 2026-11-07 原话定的译文“其中一些在大约五天之内记录到七次”，in about five days 是时间状语，中文必须提到动词前",
  "S8 reached London within hours":"对齐不了：用户 2026-11-07 原话定的译文“在几小时内到达了伦敦”，within hours 是时间状语，中文必须提到动词前",
  "S11 that circled the equator in about two weeks":"对齐不了：用户 2026-11-07 原话定的译文“在大约两个星期内环绕了赤道一周”，in about two weeks 是时间状语，中文必须提到动词前",
- "S16 how interconnected the planet already was":"对齐不了：how＋形容词＋主语＋谓语 的宾语从句，中文“这颗星球早已何等紧密相连”语序必须整个倒过来",
+ "S16 how interconnected the planet already was":"对齐不了：how＋形容词＋主语＋谓语 的宾语从句，中文“这颗星球上的各个地方早已相互关联在一起”（用户 2026-11-07 原话定）语序必须整个倒过来",
 }
 CONF={"合组":G,"对齐":{
  "S11-2 that circled the equator in ab":"用户 2026-11-07 原话定的译文“在大约两个星期内环绕了赤道一周”，定语从句里的时间状语 in about two weeks 中文必须提到动词前",
@@ -100,8 +93,9 @@ CONF={"合组":G,"对齐":{
  "S10-2 the magnitude of the devastati":"the magnitude of the devastation 是 of 结构，中文“浩劫的规模”语序必须倒过来",
  "S12-2 firefighters in New York and C":"in New York and Connecticut 是后置定语，修饰 firefighters，中文“纽约州和康涅狄格州的消防员”定语必须提前",
  "S13-2 a few tenths of a degree":"a few tenths of a degree 是 of 结构的数量说法，中文“零点几度”是一个整体",
- "S16-3 how interconnected the planet ":"how＋形容词＋主语＋谓语 的宾语从句，中文“这颗星球早已何等紧密相连”语序必须整个倒过来"},
+ "S16-3 how interconnected the planet ":"how＋形容词＋主语＋谓语 的宾语从句，中文“这颗星球上的各个地方早已相互关联在一起”（用户 2026-11-07 原话定）语序必须整个倒过来"},
 "短语":{
+ "S15 appealed … for":"不是搭配：用户 2026-11-07 原话只点 appeal、中文“呼吁”，appeal 单独就是“呼吁”（速查表第一个意思）；for 引出呼吁的内容，中文“征集”已译出",
  "S3 Barometers … of":"不是搭配：of 属于 some of them，和 Barometers 无关",
  "S6 reportedly … over":"不是搭配：over 属于 over 30 metres high（高逾30米），reportedly 单独就是“据报道”",
  "S6 swamped … on":"不是搭配：on 属于 on Java and Sumatra（表示地点），swamp 单独就是“淹没”",
@@ -120,6 +114,7 @@ CONF={"合组":G,"对齐":{
 "高亮":{"S16 第2块": {"开始读": 152.09, "配音指纹": "fbdf698bc467", "依据": "2026-11-05 直接读 work_54/a.wav 逐 5 ms：152.06 之前是 glimpse 前的数字静音（逗号后插入的停顿），152.065 起 far-flung 的 /f/ 擦音（-57 dB 升到 152.125 的 -28 dB，重心 5.5–8.7 kHz），152.235 起 ɑ 元音（重心 0.5–0.9 kHz、-0～-6 dB）；/f/ 在 152.09 起 40 ms 内升到开口电平（-30 dB 以上、前 30 ms 都低于 -40 dB，程序 是开口 判定为真开口），152.09 是开始读的时刻（乙 152.07 量的是 /f/ 刚出声，甲 152.23 量的是元音）"}, "S16 第3块": {"开始读": 155.29, "配音指纹": "fbdf698bc467", "依据": "2026-11-05 直接读 work_54/a.wav 逐 5 ms：155.17–155.285 是 glimpse 词尾 /s/（-14～-28 dB、重心 4.7–6.3 kHz），155.29 起重心降到 1.4–2.0 kHz、-26～-32 dB 的 /h/ 送气（how），155.39 起 aʊ 元音（重心 0.6–1.0 kHz、-11～-23 dB）；glimpse 和 how 之间没有标点、没有停顿，这一块从 155.29 开始读（甲 155.36、乙 155.35 都在 0.07 秒内）"}},
 "机器复听":{"S2": {"配音指纹": "fbdf698bc467", "依据": "2026-11-05：Rodrigues 按读音改正读 MW rō-ˈdrē-gəs（ɹoʊdɹˈiɡəs），small.en 和 parakeet 都听到同音的常见拼法 rodriguez，读音本身对：两路都听出了这个词，只是识别器词表里写成 Rodriguez（姓氏拼法），不是读错"}},
 "响度骤降":{"95.2–95.7s": {"配音指纹": "fbdf698bc467", "低": 6.6, "句子": "S11 Ash and sulphur dioxide,（逗号前 dioxide 的 -ide）", "依据": "2026-11-05 逐 50 ms 实测 work_54/a.wav：95.15–95.25 是 dioxide 的 /ks/（2 kHz 以上占 -0～-2 dB，清楚），95.30 aɪ -13 dB，95.35–95.60 是 /d/ 和逗号前降调的浊音衰减（-18→-39 dB、500 Hz 以下占 -0～-3 dB），95.65 起停顿；读音清楚、不闷不哑，是逗号前降调变轻，机器复听两路都通过", "用户原话": "用户 2026-11-04（CLAUDE.md 守则22，主会话是总负责人）：“你拥有最高决策权……你是总负责人……你来帮我做最好的决定，但是前提是这个决定他能够是最好的。”声音按实测定，交主会话核定；主会话 2026-11-05 已按守则22 定稿 54"}, "118.0–118.4s": {"配音指纹": "fbdf698bc467", "低": 6.5, "句子": "S13 …global temperatures dipped…（temperatures 的非重读词尾 -tures）", "依据": "2026-11-05 逐 50 ms 实测 work_54/a.wav：117.90–118.00 是 temperatures 的 /tʃ/（2 kHz 以上占 -0 dB），118.05–118.20 非重读 ɚ（-17→-34 dB、低频占 -0～-1 dB 的正常浊音），118.25–118.30 词尾 /z/（-19～-21 dB、高频占 -0 dB，清楚），118.40–118.50 是已核实的非人声区间（数字静音），118.55 起 dipped；读音清楚、不闷不哑，是非重读音节变轻，机器复听两路都通过", "用户原话": "用户 2026-11-04（CLAUDE.md 守则22，主会话是总负责人）：“你拥有最高决策权……你是总负责人……你来帮我做最好的决定，但是前提是这个决定他能够是最好的。”声音按实测定，交主会话核定；主会话 2026-11-05 已按守则22 定稿 54"}},
+"同词异译":{"tied to：归于/把":"不是两种译法：S15 tied … to 被 the glow 隔开，“把……归于”是同一个意思的两部分（T23），同 50 篇 labelled：把/称为"},
 "停顿位置":{"S16 cables, / and @2.075":"2026-11-05 直接读 work_54/a.wav 逐 2.5 ms（S16 起点 147.825）：cables 的 /z/ 浊擦 1.94–1.96（-23～-35 dB、重心 0.3–0.6 kHz），1.9625–1.9775 衰减到 -39→-77 dB，1.98 起是插入的 0.2 秒停顿（全静音）；2.18 起 and 的声门起音 -63→-46→-18 dB（2.1875），7.5 ms 内升起、开头没被剪。停顿正好落在 cables, 词尾和 and 词头之间（原始切点 50280 前后两段相连、没删声音），位置对"},
 "数字写法":{"S1-1 ten":"ten 指钟点，文章定稿中文写“上午10时”，数值相同（ten = 10）"},
 "方向":{"S1-1 after→1883年8月27日上午":"after 译“刚过”（10时刚过），和英文同方向（之后），中文“刚过”在本组末尾"},
@@ -130,7 +125,7 @@ out={"no":"54","title_en":"The Sound That Shook the World","title_zh":"震动世
      "换行变更已获同意":{"S11":"用户 2026-11-07（主会话按守则22 引用户在 53 会话的对齐原话定）：“我说过就是我们的这个汉语意思尽量和这个英文去对齐说过吧。就是尽量和你看教科书，它就尽量在这个textbooks下面。嗯，就是能尽可能的啊，如果说可以的话，所以说再重新生成4k的话，要注意一下这个问题。”"},
      "allow_clash":["collapsed into","vanishing"],
      "高亮按实际开口":True,"高亮开口门槛":40,
-     "术语":{"Krakatoa":"喀拉喀托","Sunda":"巽他","Rodrigues":"罗德里格斯岛","Indian Ocean":"印度洋","Java":"爪哇岛","Sumatra":"苏门答腊岛","Dutch":"荷兰","Batavia":"巴达维亚","Jakarta":"雅加达","London":"伦敦","Europe":"欧洲","North America":"北美","New York":"纽约州","Connecticut":"康涅狄格州","Britain":"英国","Royal Society":"英国皇家学会","The Times":"《泰晤士报》"}}
+     "术语":{"Krakatoa":"喀拉喀托","Sunda":"巽他","Rodrigues":"罗德里格斯岛","Indian Ocean":"印度洋","Java":"爪哇岛","Sumatra":"苏门答腊岛","Dutch":"荷兰","Batavia":"巴达维亚","Jakarta":"雅加达","London":"伦敦","Europe":"欧洲","North America":"北美","New York":"纽约州","Connecticut":"康涅狄格州","Britain":"英国","Royal Society":"皇家学会","The Times":"《泰晤士报》"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
 生成并核对(S, out)
