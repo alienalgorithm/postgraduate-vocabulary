@@ -37,19 +37,19 @@ S=[
      "（it suggested：插入语，it 指这项研究；\na by-product of…：……的副产品）"],
     [[("a **reactive** lime that **heats up** in water.","一种遇水会**变热**(heats up)的**活性强的**(reactive)石灰。")],
      "（a reactive lime…：同位语，补充说明 quicklime；\nthat heats up in water：定语从句，修饰 lime）"]]),
-(4,[[[("When water","水"),("**seeps into**","**渗入**(seeps into)"),("a crack,","裂缝时，")],
+(4,[[[("When","当"),("water","水"),("**seeps into**","**渗入**(seeps into)"),("a **crack**,","**裂缝**(crack)时，")],
      "（When…：时间状语从句）"],
-    [[("the clasts","碎屑"),("**dissolve**","会**溶解**(dissolve)，"),("and their **calcium**","其中的**钙**(calcium)"),("recrystallises as","重新结晶为"),("calcium carbonate,","碳酸钙，"),("**plugging** the gap.","**堵住**(plugging)缝隙。")],
+    [[("the clasts","碎屑"),("**dissolve**","会**溶解**(dissolve)，"),("and their","它们的"),("**calcium**","**钙**(calcium)"),("recrystallises as","会重新结晶为"),("calcium carbonate,","碳酸钙，"),("**plugging**","从而**堵住**(plugging)"),("the **gap**.","**缝隙**(gap)。")],
      "（recrystallise as…：重新结晶为……；\nplugging the gap：现在分词短语作状语，表示结果）"]]),
-(4,[[[("In tests,","试验中，"),("water","水"),("**ceased to**","**不再**(ceased to)"),("**trickle**","**细细流过**(trickle)"),("through cracked","开裂的"),("hot-mixed","热混合"),("samples","样本，"),("within","只用了"),("weeks,","几周；")],
+(4,[[[("In tests,","在试验中，"),("water","水"),("**ceased to**","**在几周之内**(within weeks)便**不再**(ceased to)"),("**trickle**","**细细流过**(trickle)"),("through cracked","开裂的"),("hot-mixed","热混合"),("samples","样本，"),("**within weeks**,","")],
      "（cease to do：不再做……；\nwithin weeks：几周之内）"],
-    [[("but","而"),("kept","水一直"),("flowing through samples without quicklime.","从不含生石灰的样本中流过。")],
+    [[("but","但却"),("kept","持续"),("flowing through","流过"),("samples without quicklime.","不含生石灰的样本。")],
      "（keep doing：一直做……；\nwithout quicklime：介词短语作后置定语，修饰 samples）"]]),
 (5,[[[("The **implications**","这项发现的**意义**(implications)"),("**extend beyond**","**超出了**(extend beyond)"),("**archaeology**.","**考古学**(archaeology)**的范围**(extend beyond)。")],
      "（extend beyond…：超出……的范围）"]]),
-(5,[[[("Cement **manufacture**","水泥**生产**(manufacture)"),("accounts for","约占"),("about 8 per cent of global carbon dioxide **emissions**,","全球二氧化碳**排放**(emissions)的8%，")],
+(5,[[[("Cement","水泥"),("**manufacture**","**生产**(manufacture)"),("**accounts for**","**占据**(accounts for)"),("about 8 per cent of global carbon dioxide **emissions**,","全球二氧化碳**排放**(emissions)量的约8%，")],
      "（account for…：（在数量上）占……）"],
-    [[("the think-tank","智库"),("Chatham House","查塔姆研究所（Chatham House）"),("reported in June 2018.","2018年6月报告称。")]]]),
+    [[("the **think-tank**","**智囊团**(think-tank)"),("Chatham House","查塔姆研究所"),("reported in June 2018.","于2018年6月报告说。")]]]),
 (5,[[[("Concrete that mends its cracks","能自行修补裂缝的混凝土"),("could","可能"),("last longer,","更经久耐用，")],
      "（that mends its cracks：定语从句，修饰 Concrete）"],
     [[("making","从而使"),("**demolition**","**拆除**(demolition)"),("and rebuilding","与重建"),("rarer","减少，"),("and **trimming**","并**削减**(trimming)"),("emissions.","排放。")],
@@ -63,7 +63,7 @@ S=[
      "罗马混凝土并不更坚固，长处在于耐久。它里面的白色石灰碎屑，\n"
      "过去被专家当作搅拌马虎或原料低劣的缺陷。2023年《科学进展》的研究认为，\n"
      "碎屑是生石灰热混合的副产品：水渗入裂缝时碎屑溶解，钙重新结晶为碳酸钙，堵住缝隙。\n"
-     "水泥生产约占全球二氧化碳排放的8%，能自行修补裂缝的混凝土可能减少拆建和排放，\n"
+     "水泥生产占据全球二氧化碳排放量的约8%，能自行修补裂缝的混凝土可能减少拆建和排放，\n"
      "这些曾被轻视的碎屑因此促使人们重新思考建造之道。）"]]),
 ]
 G={
@@ -75,8 +75,9 @@ G={
  "S5 the concrete around it":"对齐不了：around it 是后置定语，修饰 concrete，中文“周围的混凝土”定语必须提前",
  "S5 a lifespan of around 50 years":"对齐不了：a lifespan of… 是 of 结构，中文“约50年的使用寿命”，“使用寿命”必须放到最后",
  "S12 calcium carbonate":"对齐不了：calcium carbonate 是化学名“碳酸钙”，一个词，不能拆",
- "S13 flowing through samples without quicklime":"对齐不了：without quicklime 是后置定语，修饰 samples，中文“从不含生石灰的样本中流过”，“流过”必须放到最后",
- "S15 about 8 per cent of global carbon dioxide emissions":"对齐不了：8 per cent of… 是 of 结构，中文“全球二氧化碳排放的8%”百分数必须放到后面",
+ "S13 samples without quicklime":"对齐不了：without quicklime 是后置定语，修饰 samples，中文“不含生石灰的样本”定语必须提前",
+ "S15 about 8 per cent of global carbon dioxide emissions":"对齐不了：8 per cent of… 是 of 结构，中文“全球二氧化碳排放量的约8%”百分数必须放到后面",
+ "S15 reported in June 2018":"对齐不了：in June 2018 是时间状语，中文“于2018年6月报告说”时间必须放到动词前",
  "S16 Concrete that mends its cracks":"对齐不了：that mends its cracks 是定语从句，修饰 Concrete，中文“能自行修补裂缝的混凝土”定语必须提前",
  "S16 last longer":"对齐不了：last longer 中文“更经久耐用”是一个说法，拆开不通",
  "S17 signs of clumsy workmanship":"对齐不了：signs of… 是 of 结构，中文“手艺拙劣的痕迹”，“痕迹”必须放到最后",
@@ -96,8 +97,8 @@ CONF={"合组":G,
 out={"no":"55","title_en":"The Secret of Rome's Undying Concrete","title_zh":"罗马混凝土的千年之谜","title_fx":{"hl":["Secret","Undying"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "停顿插入点":{"S11":{"1":[0.736125,"交界"]}},
      "词尾除阻":{"S6":{"1":[3.779,"t"]}},
-     "allow_clash":["reinforced with"],
-     "换行变更已获同意":{"S6":"用户 2026-11-07：“尽可能的就是上面的英文和如果说ok的话能那就跟下面的这个中文对应好，对吧？尽可能的不论是哪个单词”","S15":"用户 2026-11-07：“尽可能的就是上面的英文和如果说ok的话能那就跟下面的这个中文对应好，对吧？尽可能的不论是哪个单词”","S9":"用户 2026-11-07：“上面这个翻译不准换成这个翻译：这种缺陷，他们认为，换一个更加认真负责的建筑工就能避免”"},
+     "allow_clash":["reinforced with","crack","gap"],
+     "换行变更已获同意":{"S6":"用户 2026-11-07：“尽可能的就是上面的英文和如果说ok的话能那就跟下面的这个中文对应好，对吧？尽可能的不论是哪个单词”","S15":"用户 2026-11-07：“尽可能的就是上面的英文和如果说ok的话能那就跟下面的这个中文对应好，对吧？尽可能的不论是哪个单词”","S12":"用户 2026-11-07：“上面的意思翻译的不好，改为下面这个意思：当水渗入裂缝时，碎屑会溶解，它们的钙会重新结晶为碳酸钙，从而堵住缝隙。”","S13":"用户 2026-11-07：“在试验中，水在几周内便不再细细流过开裂的热混合样本，within weeks 词汇，重点词汇，重点词汇。在几周之内标注为在几周之内，在几周之内，中文意思。”","S9":"用户 2026-11-07：“上面这个翻译不准换成这个翻译：这种缺陷，他们认为，换一个更加认真负责的建筑工就能避免”"},
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Pantheon":"万神殿","Roman":"罗马","Science Advances":"《科学进展》","Chatham House":"查塔姆研究所","AD":"公元"}}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
