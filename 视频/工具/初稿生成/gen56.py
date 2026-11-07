@@ -19,7 +19,7 @@ S=[
     [[("**independently**","**独自一人**(independently)"),("**conceived**","**构想出**(conceived)了"),("the same","同一个"),("idea.","想法。")]]]),
 (2,[[[("His","华莱士这篇"),("**concise**","**简明的**(concise)"),("essay","文章"),("reached Darwin on 18 June 1858.","于1858年6月18日到达了达尔文的手里。")],
      "（His：指华莱士；reach sb：送到某人手中）"]]),
-(2,[[[("Its","它的"),("argument","论证"),("**paralleled** Darwin's own almost **precisely**;","**与**(paralleled)达尔文自己的几乎**完全**(precisely)**一样**(paralleled)；")],
+(2,[[[("Its","文中的"),("argument","论证"),("**paralleled** Darwin's own almost **precisely**;","**与**(paralleled)达尔文自己的几乎**完全**(precisely)**一样**(paralleled)；")],
      "（Its：指华莱士的文章；paralleled：与……极其相似；\nDarwin's own：达尔文自己的论证，own 后面省略了 argument）"],
     [[("he told","达尔文告诉"),("Charles Lyell","查尔斯·莱尔，"),("he","自己"),("had never","从未"),("seen","见过"),("a more","比这更"),("**remarkable**","**惊人的**(remarkable)"),("**coincidence**.","**巧合**(coincidence)。")],
      "（he had never seen…：宾语从句，省略了 that；\nhad never seen：过去完成时）"]]),
