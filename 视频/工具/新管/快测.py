@@ -128,6 +128,27 @@ def 读音自检样本():
         if rc == 0: bad.append('K102 没抓到：读音改正拆掉（PRON_WORDS 不生效）29 自检照样通过')
     return bad
 
+def 括号语境样本():
+    """59 S3（11-07）“Chlorofluorocarbons (CFCs)”：按语境读音的词边界要认括号。好样本：原样 “(CFCs)” 换成 sˌiːˌɛfsˈiːz、句中 CFCs 不变成双 z；
+    坏样本：把边界里的括号拆掉，按语境读音换不到，make_video 必停（A24）"""
+    import shutil, tempfile
+    if not W or not os.path.exists(f'{W}/make_video.py'): return []
+    py = ('import sys,os; sys.path.insert(0, os.getcwd()); import make_video as m; '
+          'a = m.phonemes_of("Chlorofluorocarbons (CFCs) are so inert"); b = m.phonemes_of("a binding accord to curb CFCs."); '
+          'print("OK" if "(sˌiːˌɛfsˈiːz)" in a and "sˈiːzz" not in b and "sˌiːˌɛfsˈiːz" in b else "BAD " + a + " | " + b)')
+    bad = []; rc, o, _ = 跑(['python3', '-c', py], W, 300)
+    if rc or 'OK' not in o: bad.append(f'59 括号语境读音 好样本不过：{o.strip().splitlines()[-1][:160] if o.strip() else rc}')
+    with tempfile.TemporaryDirectory(dir=os.path.dirname(W)) as td:
+        for f in os.listdir(W):
+            if f.endswith('.py'): shutil.copy(f'{W}/{f}', f'{td}/{f}')
+        mv = open(f'{td}/make_video.py').read(); a = 'B_="(?<![^\\\\s,;:.!?(])"; E_="(?=[\\\\s,;:.!?)]|$)"; bad=re.sub'
+        if a not in mv: return bad + ['59 括号语境读音：make_video.py 里找不到按语境读音的边界那一行（坏样本造不出）']
+        open(f'{td}/make_video.py', 'w').write(mv.replace(a, 'B_="(?<![^\\\\s,;:.!?])"; E_="(?=[\\\\s,;:.!?]|$)"; bad=re.sub'))
+        rc, o, _ = 跑(['python3', '-c', py], td, 300)
+        if rc == 0 and 'OK' in o: bad.append('59 括号语境读音 没抓到：拆掉括号边界后 “(CFCs)” 照样换到')
+        elif '按语境读音没有全部换到' not in o: bad.append(f'59 括号语境读音 坏样本没按 A24 停：{o.strip().splitlines()[-1][:160] if o.strip() else rc}')
+    return bad
+
 def 印章坏样本():
     """改一个工具程序不重跑快测 → 印章必须对不上（提交、推送、做、定稿都停）"""
     import tempfile, shutil
@@ -275,7 +296,9 @@ def 双爆破自动补样本():
     if not W or not os.path.exists(f'{W}/make_video.py'): return []
     src = open(f'{T}/词尾辅音核对.py').read(); bad = []
     例 = (('47', '47_S6_双爆破.json', "if deep and ma_ and float(ma_.group(1)) >= -40:", lambda d: (lambda pg: pg and float(pg[0]) <= 14.235)(d.get('停顿处除阻', {}).get('S1', {}).get('4'))),
-          ('49', '49_S12_双爆破.json', "if ph in 'tk' and ma2_ and float(ma2_.group(1)) >= -40:", lambda d: '3' in d.get('除阻加强', {}).get('S1', {}) and '3' not in d.get('词尾除阻', {}).get('S1', {})))
+          ('49', '49_S12_双爆破.json', "if ph in 'tk' and ma2_ and float(ma2_.group(1)) >= -40:", lambda d: '3' in d.get('除阻加强', {}).get('S1', {}) and '3' not in d.get('词尾除阻', {}).get('S1', {})),
+          # K126（58 S4 livestock,）：往后找越过停顿删除开始处，把 were 起音前噪声当除阻（w 5.44），加强写进被删的停顿；好样本 写在真除阻 5.12–5.185、核对 0，坏样本 核对仍报
+          ('58', '58_S4_除阻位置.json', "if deep and g != last and pos_r[0] * F5 >= ca:", lambda d: (lambda b: b and float(b[0]) < 5.3)(d.get('除阻加强', {}).get('S1', {}).get('2'))))
     for no, fn, hook, 好 in 例:
         样 = f'{T}/样本/{fn}'
         if not os.path.exists(样): bad.append(f'K124 样本：没有 样本/{fn}'); continue
@@ -290,7 +313,8 @@ def 双爆破自动补样本():
                 r = subprocess.run(['python3', f'{td}/_核.py', no], capture_output=True, text=True, cwd=td, env=e, timeout=600); o = r.stdout + r.stderr
                 末 = (o.strip().splitlines() or ['无输出'])[-1][:120]; d = json.load(open(f'{td}/scripts/{no}.json'))
                 if 名 == '好' and not (好(d) and '问题数 0' in o): bad.append(f'K124 好样本不过：{fn} 自动补不对或核对不过：{末}')
-                if 名 == '坏' and '双爆破' not in o: bad.append(f'K124 没抓到：拆掉 K124 后 {fn} 应报双爆破，实得 {末}')
+                if 名 == '坏' and no != '58' and '双爆破' not in o: bad.append(f'K124 没抓到：拆掉 K124 后 {fn} 应报双爆破，实得 {末}')
+                if 名 == '坏' and no == '58' and '问题数 0' in o: bad.append(f'K126 没抓到：拆掉 K126 后 {fn} 除阻加强应写错位置、核对仍报，实得 {末}')
     return bad
 
 def 挂钩():
@@ -319,6 +343,10 @@ def 回归(记):
 
 def main():
     t0 = time.time(); a = sys.argv[1:]; out = []
+    if W:   # 56（11-07）：提交钩子和做.sh 各跑一份快测，共用 _回归 副本和临时目录，互相干扰报假失败；同一台机器一次只跑一份，后来的等前一份跑完
+        import fcntl; 锁 = open(f'{os.path.dirname(W.rstrip("/"))}/.快测.lock', 'w')
+        try: fcntl.flock(锁, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except OSError: print('另一份快测在跑，等它跑完再跑', flush=True); fcntl.flock(锁, fcntl.LOCK_EX)
     if '--只记基准' in a:   # 基准用旧管（没打补丁的工具）出：回归证明新管和旧管逐字节一致
         b, cur = 回归(True); print('\n'.join(b) or f'{NO} 基准已记：a.wav {cur["a.wav"][:8]}、分段.json {cur["分段.json"][:8]}、{len(cur["画面"])} 屏（{time.time() - t0:.0f} 秒）'); sys.exit(1 if b else 0)
     bad, 表 = 规则表()
@@ -338,6 +366,7 @@ def main():
         if 全:
             b, _ = fr.result(); bad += b; out.append(f'④ {NO} 回归：{"记了基准" if "--记基准" in a else ("a.wav、分段.json 逐字节、每屏像素一致" if not b else "不一致")}')
             b = 读音自检样本(); bad += b; out.append(f'⑥ K102 读音自检：29 不误停、拆读音改正必停：{"过" if not b else "不过"}')
+            b = 括号语境样本(); bad += b; out.append(f'⑥b 59 括号里的语境读音（(CFCs) 补复数 z）：原样换到、不双 z，拆掉括号边界必停：{"过" if not b else "不过"}')
             b, n = fs.result(); bad += b; out.append(f'⑤ 交付核查 出片前/出片后 + 出片守门自检：{"全过" if not b else f"{len(b)} 处不过"}')
             b = 句尾样本(); bad += b; out.append(f'⑧ K123 句尾（46 S4 增益后收句尾）：S4 两版好样本 < -49.2 dB 且最后 5 ms 仍可听、拆掉必抓、S9 原样不动：{"过" if not b else "不过"}')
             b = 供体增益样本(); bad += b; out.append(f'⑨ K125 停顿处除阻的供体随所在段乘增益（46 S4 fact,）：原样复核放过、供体不乘必抓：{"过" if not b else "不过"}')
