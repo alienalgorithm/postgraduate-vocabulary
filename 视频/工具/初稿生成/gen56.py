@@ -4,7 +4,7 @@ import json,re,glob,os
 S=[
 (1,[[[("Charles Darwin **disembarked** from HMS Beagle in October 1836.","1836年10月，查尔斯·达尔文从小猎犬号上**登岸**(disembarked)。")],
      "（disembark from…：从（船、飞机）上下来；\nHMS Beagle：英国皇家海军舰船小猎犬号）"]]),
-(1,[[[("In September 1838","1838年9月，"),("he","他"),("began","开始"),("**formulating**","**构想出**(formulating)"),("the **principle** of natural **selection**:","自然**选择**(selection)的**原理**(principle)：")],
+(1,[[[("In September 1838","1838年9月，"),("he","他"),("began","开始"),("**formulating**","**构想并明确表述**(formulating)"),("the **principle** of natural **selection**:","自然**选择**(selection)的**原理**(principle)：")],
      "（began formulating：begin doing，开始做某事；\nthe principle of natural selection：of 结构，自然选择的原理）"],
     [[("individuals better **adapted to** their **surroundings**","**对**(adapted to)**周围环境**(surroundings)**适应**(adapted to)得更好的个体"),("survive","存活下来，"),("and","并"),("**pass on**","将**传递**(pass on)"),("their","他们自身"),("**hereditary**","**遗传的**(hereditary)"),("**traits**.","**性状**(traits)（给后代）。")],
      "（better adapted to…：过去分词短语作后置定语，\n修饰 individuals；be adapted to…：适应……；\npass on：传递）"]]),
@@ -16,7 +16,7 @@ S=[
      "（two decades after…：插入的时间说明，\n补充这时离达尔文最初的洞察已有多久）"],
     [[("Alfred Russel Wallace, a **naturalist**","**博物学家**(naturalist)阿尔弗雷德·拉塞尔·华莱士"),("**afflicted by** fever in the Malay Archipelago,","在马来群岛**饱受**(afflicted by)热病**的折磨**(afflicted by)，")],
      "（a naturalist…：同位语，说明 Wallace；\nafflicted by…：过去分词短语作后置定语，\nbe afflicted by：饱受……的折磨）"],
-    [[("**independently**","**独自一人**(independently)"),("**conceived**","**构想出了**(conceived)"),("the same","同一个"),("idea.","想法。")]]]),
+    [[("**independently**","**独自一人**(independently)"),("**conceived**","**构想出**(conceived)了"),("the same","同一个"),("idea.","想法。")]]]),
 (2,[[[("His","华莱士那篇"),("**concise**","**简明的**(concise)"),("essay","文章"),("reached Darwin on 18 June 1858.","于1858年6月18日寄到达尔文手中。")],
      "（His：指华莱士；reach sb：送到某人手中）"]]),
 (2,[[[("Its","文中的"),("argument","论证"),("**paralleled** Darwin's own almost **precisely**;","与达尔文本人的论证几乎**完全**(precisely)**相合**(paralleled)；")],
