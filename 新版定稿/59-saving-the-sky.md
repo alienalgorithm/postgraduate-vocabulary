@@ -8,7 +8,7 @@ The **alarm**, when it sounded, was **abrupt**. In May 1985 Joseph Farman and co
 
 Yet NASA's Nimbus-7 **satellite**, a **sophisticated** eye in **orbit**, had recorded the same lows. Its software **flagged** them **as** **dubious**, since ozone that low had never been reliably measured. NASA says it was still **verifying** them when Farman published. The **sensor** had worked; **expectation** had not.
 
-**Remarkably**, the response was **swift**. In September 1987 **diplomats** signed the Montreal **Protocol**, a **binding** **accord** to **curb** CFCs. **Amendments** **tightened** it: in June 1990 **affluent** countries **pledged** to **phase out** CFCs by 2000. In September 2009 the Protocol and its parent Vienna Convention became the UN's first treaties to win **universal** ratification.
+**Remarkably**, the response was **swift**. In September 1987 **diplomats** signed the Montreal **Protocol**, a **binding** **accord** to **curb** CFCs. **Amendments** **tightened** it: in June 1990 **affluent** countries **pledged** to **phase out** CFCs by 2000. In September 2009 the Protocol and its parent Vienna Convention became the UN's first **treaties** to win **universal** **ratification**.
 
 In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 levels around 2066 over Antarctica, 2045 over the Arctic, and 2040 elsewhere. **Healing** will take decades. The sky's **rescue** began with **diligent** observers who trusted that a **baffling** number was no **glitch**, and published it.
 
@@ -20,7 +20,7 @@ In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 lev
 
 然而，美国国家航空航天局（NASA）的雨云7号**卫星**(satellite)——一只在**轨道**(orbit)上运行的**精密**(sophisticated)“眼睛”——也记录到了同样的低值。它的软件**把**(flagged as)这么低的读数**标记为**(flagged as)**可疑**(dubious)，因为此前从没有人可靠地测到过这么低的数值。据NASA的说法，法曼发表论文时，它还在**核实**(verifying)这些读数。**传感器**(sensor)并没有出问题；出问题的是**预期**(expectation)。
 
-**引人注目的是**(Remarkably)，各国的反应十分**迅速**(swift)。1987年9月，**外交官**(diplomats)们签署了《蒙特利尔**议定书**(Protocol)》，这是一项**限制**(curb)CFCs、具有**约束力**(binding)的**协定**(accord)。此后的**修正案**(Amendments)又**收紧**(tightened)了管控：1990年6月，**富裕**(affluent)国家**承诺**(pledged)在2000年前**逐步淘汰**(phase out)CFCs。2009年9月，该议定书与其所依据的《维也纳公约》一道，成为联合国首批获得**普遍**(universal)批准的条约。
+**引人注目的是**(Remarkably)，各国的反应十分**迅速**(swift)。1987年9月，**外交官**(diplomats)们签署了《蒙特利尔**议定书**(Protocol)》，这是一项**限制**(curb)CFCs、具有**约束力**(binding)的**协定**(accord)。此后的**修正案**(Amendments)又**收紧**(tightened)了管控：1990年6月，**富裕**(affluent)国家**承诺**(pledged)在2000年前**逐步淘汰**(phase out)CFCs。2009年9月，该议定书与其所依据的《维也纳公约》一道，成为联合国首批获得**普遍**(universal)**批准**(ratification)的**条约**(treaties)。
 
 2023年1月，一份由联合国支持的**评估**(assessment)报告**预测**(forecast)，臭氧层将**恢复**(recovery)到1980年的水平，南极上空约在2066年，北极上空约在2045年，其他地区约在2040年。臭氧层的**愈合**(Healing)还需要数十年。天空得以**拯救**(rescue)，始于一群**勤勉的**(diligent)观测者——他们相信，一个**令人费解的**(baffling)数字并不是**小故障**(glitch)，于是把它发表了出来。
 
@@ -74,7 +74,9 @@ In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 lev
 | affluent | adj. 富裕的，富足的（an affluent society/area；affluent countries）；affluence n. | 4 |
 | pledged | v. (pledge) 承诺，保证（pledge to do sth；pledge support/money）；抵押；n. 誓言，承诺（make a pledge） | 4 |
 | phase out | phr. v. 逐步淘汰，逐步停止使用（phase out leaded petrol/CFCs）；对比 phase in 逐步采用；phase n. 阶段，时期 | 4 |
+| treaties | n. (treaty 的复数) 条约，协定（sign/ratify a treaty 签署/批准条约；peace treaty 和约） | 4 |
 | universal | adj. 普遍的，全体的（universal ratification/suffrage 普遍批准／普选权）；通用的，万能的（a universal remedy）；全世界的；universally adv. | 4 |
+| ratification | n. （条约等的）正式批准，认可（universal ratification 普遍批准）；ratify v. 批准 | 4 |
 | assessment | n. 评估，评价（make an assessment of；risk assessment 风险评估）；（应付金额的）核定；assess v. | 5 |
 | forecast | v. （forecast/forecasted）预测，预报（forecast rain/growth）；n. 预测，预报（weather forecast）；forecaster n. | 5 |
 | recovery | n. 恢复，复原（make a full recovery 完全康复；economic recovery 经济复苏）；找回，收回（the recovery of stolen goods）；recover v. | 5 |
