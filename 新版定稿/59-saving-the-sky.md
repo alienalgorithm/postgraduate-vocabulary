@@ -10,7 +10,7 @@ Yet NASA's Nimbus-7 **satellite**, a **sophisticated** eye in **orbit**, had rec
 
 **Remarkably**, the response was **swift**. In September 1987 **diplomats** signed the Montreal **Protocol**, a **binding** **accord** to **curb** CFCs. **Amendments** **tightened** it: in June 1990 **affluent** countries **pledged** to **phase out** CFCs by 2000. In September 2009 the Protocol and its parent Vienna Convention became the UN's first **treaties** to win **universal** **ratification**.
 
-In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 levels around 2066 over Antarctica, 2045 over the Arctic, and 2040 elsewhere. **Healing** will take decades. The sky's **rescue** began with **diligent** observers who trusted that a **baffling** number was no **glitch**, and published it.
+In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 levels around 2066 over **Antarctica**, 2045 over the **Arctic**, and 2040 elsewhere. **Healing** will take decades. The sky's **rescue** began with **diligent** observers who trusted that a **baffling** number was no **glitch**, and published it.
 
 ## 中文
 
@@ -22,7 +22,7 @@ In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 lev
 
 **引人注目的是**(Remarkably)，各国的反应十分**迅速**(swift)。1987年9月，**外交官**(diplomats)们签署了《蒙特利尔**议定书**(Protocol)》，这是一项**限制**(curb)CFCs、具有**约束力**(binding)的**协定**(accord)。此后的**修正案**(Amendments)又**收紧**(tightened)了管控：1990年6月，**富裕**(affluent)国家**承诺**(pledged)在2000年前**逐步淘汰**(phase out)CFCs。2009年9月，该议定书与其所依据的《维也纳公约》一道，成为联合国首批获得**普遍**(universal)**批准**(ratification)的**条约**(treaties)。
 
-2023年1月，一份由联合国支持的**评估**(assessment)报告**预测**(forecast)，臭氧层将**恢复**(recovery)到1980年的水平，南极上空约在2066年，北极上空约在2045年，其他地区约在2040年。臭氧层的**愈合**(Healing)还需要数十年。天空得以**拯救**(rescue)，始于一群**勤勉的**(diligent)观测者——他们相信，一个**令人费解的**(baffling)数字并不是**小故障**(glitch)，于是把它发表了出来。
+2023年1月，一份由联合国支持的**评估**(assessment)报告**预测**(forecast)，臭氧层将**恢复**(recovery)到1980年的水平，**南极**(Antarctica)上空约在2066年，**北极**(Arctic)上空约在2045年，其他地区约在2040年。臭氧层的**愈合**(Healing)还需要数十年。天空得以**拯救**(rescue)，始于一群**勤勉的**(diligent)观测者——他们相信，一个**令人费解的**(baffling)数字并不是**小故障**(glitch)，于是把它发表了出来。
 
 ## 速查表
 | 词 | 释义 | 段 |
@@ -80,6 +80,8 @@ In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 lev
 | assessment | n. 评估，评价（make an assessment of；risk assessment 风险评估）；（应付金额的）核定；assess v. | 5 |
 | forecast | v. （forecast/forecasted）预测，预报（forecast rain/growth）；n. 预测，预报（weather forecast）；forecaster n. | 5 |
 | recovery | n. 恢复，复原（make a full recovery 完全康复；economic recovery 经济复苏）；找回，收回（the recovery of stolen goods）；recover v. | 5 |
+| Antarctica | n. 南极洲，南极大陆（over Antarctica 在南极上空）；Antarctic adj. 南极的 | 5 |
+| Arctic | n. the Arctic 北极地区（over the Arctic 在北极上空）；adj. 北极的（Arctic ice 北极冰）；Antarctic adj. 南极的 | 5 |
 | healing | n. 愈合，治愈，康复（the healing process）；adj. 有疗效的；heal v. 治愈；（伤口）愈合；（分歧）弥合 | 5 |
 | rescue | n./v. 营救，救援，挽救（come to sb's rescue 救助某人；rescue sb from sth；a rescue team） | 5 |
 | diligent | adj. 勤奋的，勤勉的；尽心尽力的（diligent in one's work）；diligence n. | 5 |

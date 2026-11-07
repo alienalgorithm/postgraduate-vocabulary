@@ -51,7 +51,7 @@ S=[
      "（UN-backed：由联合国支持的；\nforecast：过去式与原形同形）"],
     [[("**recovery**","臭氧层将**恢复**(recovery)"),("to 1980 levels","到1980年的水平：")],
      "（recovery to 1980 levels：恢复到1980年的水平）"],
-    [[("around 2066","约2066年"),("over Antarctica,","在南极上空，"),("2045","2045年"),("over the Arctic,","在北极上空，"),("and 2040","其他地区"),("elsewhere.","则在2040年。")]]]),
+    [[("around 2066","约2066年"),("over **Antarctica**,","在**南极**(Antarctica)上空，"),("2045","2045年"),("over the **Arctic**,","在**北极**(Arctic)上空，"),("and 2040","其他地区"),("elsewhere.","则在2040年。")]]]),
 (5,[[[("**Healing**","臭氧层的**愈合**(Healing)"),("will take","还需要"),("decades.","数十年。")]]]),
 (5,[[[("The sky's","天空得以"),("**rescue**","**拯救**(rescue)，"),("began with","始于"),("**diligent** observers","一群**勤勉的**(diligent)观测者，")]],
     [[("who trusted that","他们相信，"),("a **baffling** number","一个**令人费解的**(baffling)数字"),("was no **glitch**,","并不是**小故障**(glitch)，"),("and published it.","于是把它发表了出来。")],
