@@ -2,16 +2,16 @@ import json,re,glob,os
 # 第58篇初稿（逐词对照）：S = [(段, [chunk, ...])]，chunk = ([(英文组, 中文组), ...], 可选 note)
 # 2026-11-07 重点词中文沿用文章定稿（铁律），只按《翻译风格》调格式；不用破折号（T36）；形容词的“的”进粗体（T38）。
 S=[
-(1,[[[("Smallpox,","天花是"),("a **contagious**","一种**传染性**(contagious)"),("**affliction**,","**病痛**(affliction)，")],
+(1,[[[("**Smallpox**,","**天花**(Smallpox)，"),("a **contagious**","一种**传染性的**(contagious)"),("**affliction**,","**疾病**(affliction)，")],
      "（a contagious affliction：同位语，补充说明 Smallpox）"],
-    [[("killed","夺去了"),("about three in ten","约三成"),("of its **sufferers**","**患者**(sufferers)的生命；"),("and an estimated","估计还有"),("300 million","3亿人"),("in the 20th century.","在20世纪丧命。")],
+    [[("killed","夺去了"),("about three in ten","约三成"),("of its **sufferers**","**患者**(sufferers)的生命，"),("and an estimated","并且估计有"),("300 million","3亿人"),("in the 20th century.","在20世纪丧命。")],
      "（three in ten：十分之三，即约三成；\nkilled 的宾语有两个：three in ten of its sufferers 和 300 million）"]]),
 (1,[[[("An early","一种早期的"),("**safeguard**,","**防护手段**(safeguard)，"),("**deliberately**","是**有意**(deliberately)"),("**implanting** matter from its **sores** in the healthy,","把天花**脓疮**(sores)中的物质**植入**(implanting)健康人体内，")],
      "（deliberately implanting…：现在分词短语作同位语，\n说明 safeguard 的内容；\nimplant A in B：把 A 植入 B；the healthy：健康的人）"],
     [[("was **practised** in China by the 16th century","到16世纪，中国已在**施行**(practised)这种方法，"),("and reached England in 1721.","1721年又传入英国。")],
      "（by the 16th century：到16世纪时（已经））"]]),
-(1,[[[("The **procedure** itself","这种**做法**(procedure)本身"),("could cause","也可能引起"),("**grave**","**严重**(grave)"),("**sickness**","**疾病**(sickness)"),("or death,","乃至死亡，")]],
-    [[("if less **frequently** than natural smallpox.","虽然不像自然感染的天花那样**频繁**(frequently)。")],
+(1,[[[("The **procedure** itself","这种**做法**(procedure)本身"),("could cause","可能导致"),("**grave**","**严重的**(grave)"),("**sickness**","**疾病**(sickness)"),("or death,","或死亡，")]],
+    [[("if less","尽管不如"),("**frequently** than natural smallpox.","自然天花那样**频繁**(frequently)。")],
      "（if less frequently than…：= though less frequently than…，\n虽然不如……频繁）"]]),
 (2,[[[("**Rustic**","**乡间**(Rustic)"),("**lore**","**传说**(lore)"),("held that","认为，")],
      "（hold that…：认为……）"],
