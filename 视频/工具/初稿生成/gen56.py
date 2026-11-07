@@ -30,7 +30,7 @@ S=[
     [[("to be read **simultaneously** at the Linnean Society, a scientific **institution** in London, on 1 July 1858.","于1858年7月1日在伦敦的科学**机构**(institution)林奈学会上被**同时**(simultaneously)宣读。")],
      "（to be read：不定式的被动式；\na scientific institution in London：同位语，\n说明 the Linnean Society）"]]),
 (3,[[[("Neither author","两位作者都没有"),("attended","出席"),("the **proceedings**.","这场**会议**(proceedings)。")],
-     "（Neither…：两者都不；\nproceedings：在学术语境下，特指学会的会议、活动议程或会议记录）"]]),
+     "（Neither…：两者都不；\nproceedings：在学术语境下，\n特指学会的会议、活动议程或会议记录）"]]),
 (3,[[[("Wallace","华莱士"),("was abroad,","身在海外，"),("and Darwin","达尔文则"),("was **grieving**:","处于**哀痛**(grieving)之中：")],
      "（was grieving：过去进行时，当时正处于悲痛中；\ngrieve 指因失去某人（尤指亲人离世）而承受极度的悲伤与痛苦（即哀悼））"],
     [[("**scarlet**","**猩红**(scarlet)"),("fever","热"),("had killed his **infant** son on 28 June.","在6月28日夺去了他**幼子**(infant)的生命。")],
