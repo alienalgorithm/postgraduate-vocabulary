@@ -16,7 +16,7 @@ Wallace had **readily** **signified** his **acceptance** in October 1858, **assu
 
 1836年10月，查尔斯·达尔文从小猎犬号上**登岸**(disembarked)。1838年9月，他开始**构想出**(formulating)自然**选择**(selection)的**原理**(principle)：**对**(adapted to)**周围环境**(surroundings)**适应**(adapted to)得更好的个体存活下来，并将**传递**(pass on)他们自身**遗传的**(hereditary)**性状**(traits)（给后代）。到1844年，他已**撰写了**(composed)一份230页的**手稿**(manuscript)，却一直**未予发表**(unpublished)，**谨慎地**(cautiously)**积累着**(amassing)证据。
 
-1858年2月，达尔文最初的洞察出现后的二十年，**博物学家**(naturalist)阿尔弗雷德·拉塞尔·华莱士在马来群岛**饱受**(afflicted by)热病**的折磨**(afflicted by)，**独立地**(independently)**构想**(conceived)出了同一个想法。华莱士那篇**简明**(concise)的文章于1858年6月18日寄到达尔文手中。文中的论证与达尔文本人的论证几乎**完全**(precisely)**相合**(paralleled)；达尔文告诉查尔斯·莱尔，自己从未见过比这更**惊人**(remarkable)的**巧合**(coincidence)。他对**优先权**(priority)的主张似乎**受到了威胁**(threatened)。
+1858年2月，达尔文最初的洞察出现后的二十年，**博物学家**(naturalist)阿尔弗雷德·拉塞尔·华莱士在马来群岛**饱受**(afflicted by)热病**的折磨**(afflicted by)，**独自一人**(independently)**构想出了**(conceived)同一个想法。华莱士那篇**简明**(concise)的文章于1858年6月18日寄到达尔文手中。文中的论证与达尔文本人的论证几乎**完全**(precisely)**相合**(paralleled)；达尔文告诉查尔斯·莱尔，自己从未见过比这更**惊人**(remarkable)的**巧合**(coincidence)。他对**优先权**(priority)的主张似乎**受到了威胁**(threatened)。
 
 莱尔和植物学家约瑟夫·胡克**促成**(arranged)两篇论文于1858年7月1日在伦敦的科学**机构**(institution)林奈学会**同时**(simultaneously)宣读。两位作者都没有出席当天的**会议**(proceedings)。华莱士身在海外，达尔文则处于**哀痛**(grieving)之中：6月28日，**猩红**(scarlet)热夺去了他**幼子**(infant)的生命。这一**折中办法**(compromise)在华莱士未参与的情况下达成，或许避免了围绕**先后次序**(precedence)的**竞争**(rivalry)。
 

@@ -16,7 +16,7 @@ S=[
      "（two decades after…：插入的时间说明，\n补充这时离达尔文最初的洞察已有多久）"],
     [[("Alfred Russel Wallace, a **naturalist**","**博物学家**(naturalist)阿尔弗雷德·拉塞尔·华莱士"),("**afflicted by** fever in the Malay Archipelago,","在马来群岛**饱受**(afflicted by)热病**的折磨**(afflicted by)，")],
      "（a naturalist…：同位语，说明 Wallace；\nafflicted by…：过去分词短语作后置定语，\nbe afflicted by：饱受……的折磨）"],
-    [[("**independently**","**独立地**(independently)"),("**conceived**","**构想**(conceived)出了"),("the same","同一个"),("idea.","想法。")]]]),
+    [[("**independently**","**独自一人**(independently)"),("**conceived**","**构想出了**(conceived)"),("the same","同一个"),("idea.","想法。")]]]),
 (2,[[[("His","华莱士那篇"),("**concise**","**简明的**(concise)"),("essay","文章"),("reached Darwin on 18 June 1858.","于1858年6月18日寄到达尔文手中。")],
      "（His：指华莱士；reach sb：送到某人手中）"]]),
 (2,[[[("Its","文中的"),("argument","论证"),("**paralleled** Darwin's own almost **precisely**;","与达尔文本人的论证几乎**完全**(precisely)**相合**(paralleled)；")],
