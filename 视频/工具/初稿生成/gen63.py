@@ -28,15 +28,15 @@ S=[
      "（however：插入语，表示转折）"]]),
 (3,[[[("The **impact**","**撞击**(impact)"),("**flung out**","**抛出了**(flung out)"),("more than 2,000","2,000多块"),("**catalogued**","**已编目的**(catalogued)"),("fragments","碎片，")],
      "（fling out：猛抛出，flung 是 fling 的过去式）"],
-    [[("and","另有"),("a **multitude** of","**大量**(multitude)"),("others","碎片"),("too","太"),("small","小，"),("to **pinpoint**.","无法**精确定位**(pinpoint)。")],
+    [[("and","另有"),("**a multitude of**","**大量**(a multitude of)"),("others","碎片"),("too","太"),("small","小，"),("to **pinpoint**.","无法**精确定位**(pinpoint)。")],
      "（a multitude of others：大量其他碎片，others 指 fragments；\ntoo…to…：太……而不能……）"]]),
-(3,[[[("At that height","在那个高度，"),("air","空气"),("**drag**","**阻力**(drag)"),("is **feeble**,","**微弱**(feeble)，")]],
+(3,[[[("At that height","在那个高度，"),("**air drag**","**空气阻力**(air drag)"),("is **feeble**,","**微弱**(feeble)，")]],
     [[("so","因此"),("many","许多碎片"),("would **linger**","会在轨道上**滞留**(linger)"),("for decades.","数十年。")],
      "（many：many fragments，省略了 fragments）"]]),
-(3,[[[("In January 2012,","2012年1月，"),("the International Space Station","国际空间站"),("fired","启动"),("its **thrusters**","**推进器**(thrusters)，")]],
-    [[("to **dodge**","**躲开了**(dodge)"),("an Iridium 33","一块铱星33号的"),("**remnant**.","**残片**(remnant)。")],
+(3,[[[("In January 2012,","2012年1月，"),("the International","国际"),("**Space Station**","**空间站**(Space Station)"),("**fired**","**点火了**(fired)"),("its","它的"),("**thrusters**","**推进器**(thrusters)，")]],
+    [[("to","以"),("**dodge**","**躲开/避开**(dodge)"),("an Iridium 33","一块铱星33号的"),("**remnant**.","**残片**(remnant)。")],
      "（to dodge…：不定式作目的状语）"]]),
-(4,[[[("In June 1978,","1978年6月，"),("two NASA scientists","两位美国国家航空航天局（NASA）的科学家"),("**envisaged**","**设想了**(envisaged)"),("a","一种"),("**vicious**","**恶性**(vicious)"),("**spiral**,","**螺旋**(spiral)，")],
+(4,[[[("In June 1978,","1978年6月，"),("two NASA scientists","两位美国国家航空航天局（NASA）的科学家"),("**envisaged**","**设想了**(envisaged)"),("a","一种"),("**vicious spiral**,","**恶性循环**(vicious spiral)，")],
      "（a vicious spiral：恶性循环）"],
     [[("later","后来"),("named","被称为"),("the Kessler","凯斯勒"),("**syndrome**:","**综合征**(syndrome)：")],
      "（later named…：过去分词短语作后置定语，修饰 spiral；\n冒号后面说明这一设想的内容）"],
@@ -91,12 +91,10 @@ CONF={"合组":G,"中文重复":{"残骸":"用户 2026-11-08 原话把 S5 hulk �
  "S18-1 spacecraft whose owners had no":"whose 引导的定语从句修饰 spacecraft，中文定语必须提前"},
 "短语":{
  "S9 flung … of":"不是搭配：of 属于 a multitude of others，和 flung 无关；fling out 已整体标",
- "S9 multitude … of":"不是搭配：multitude 本文就是速查表第一个意思“大量，众多”，of 只把 others 连上",
  "S10 linger … for":"不是搭配：for decades 只表示时长，linger 单独就是“滞留”",
  "S12 scatter … of":"不是搭配：of 属于 raising the odds of，已整体标",
  "S15 unfold … over":"不是搭配：over decades 只表示时长，unfold 本文就是速查表第一个意思“（事态）逐步展开”",
  "S17 mandated … of":"不是搭配：of 属于 disposal of low-orbit craft，和 mandated 无关",
- "S10 air drag":"不是搭配：drag 本文就是速查表第一个意思“（空气）阻力”，air 单独译“空气”",
  "S15 unfold over decades":"不是搭配：unfold 本文就是速查表第一个意思“（事态）逐步展开”，over decades 单独译“历时几十年”"},
 "同词异译":{"raising the odds of：使/更有可能发生":"不是两种译法：raise the odds of 的意思“使……更有可能发生”被“后续撞击”隔开，“使”和“更有可能发生”是同一个意思的两部分（T23）"}}
 out={"no":"63","title_en":"The Crowded Heavens","title_zh":"拥挤的苍穹","title_fx":{"hl":["Crowded","Heavens"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
@@ -128,6 +126,8 @@ out_extra={"非人声区间":{"S5":[[0.925,1.12]],
 # S17 In 与 September 之间 0.355–0.365 一下孤立杂音（-46 dB、重心 3.3 kHz，两边 -62/-64 dB）。S17 句末 five 的 14.085–14.185（重心 3.4–4.2 kHz）同 S2，是 /v/ 清化摩擦，不切。
 # 句子增益 S4 -1.0 dB（上限 ±1）：响度一致性 第3段 36.2–37.4s（S4 Neither craft swerved.）比全片响 3.0 LU、和前后句差 3.3/3.0 LU。分段增益 S11 第2段 +1.0 dB：自动音频检查 83.9–84.3s（S11 Space Station 的 Station 自然收弱）比全片低 5.5 dB（K129），句中没有标点可分段，整段补 1 dB
 # S5 hulk, 的 /k/：2026-11-07 逐 2.5 ms 实测（S5 w，句首修剪 10 ms 后的时刻）：闭塞 0.80–0.855（-56～-67 dB），0.8575–0.90 是清楚的 /k/ 除阻（-21～-35 dB、重心 2.5–5 kHz），0.91–1.135 是停顿里的气声（-50～-60 dB、重心 2–3.7 kHz、无周期），1.14 起 lacking；气声挡在停顿前，核对把它当成除阻、判“没有除阻”，--写入 在 0.93 补供体也不生效。删掉这段气声（非人声区间 0.925–1.12，外侧 5 ms 为 -56.3、-57.8 dB），原声的 /k/ 原样留着，不补供体
+out["换行变更已获同意"]={"S11":"用户 2026-11-08 原话要 S11 整句改为“2012年1月，国际空间站启动了它的推进器，以躲开/避开一块铱星33号的残片。”、fired 标重点词、“space station 整体标注重点词汇”，字变多随之换行；另 11-07 原话（篇 61-65）“对齐需要改换行”视为同意"}
+CONF["短语"]["S11 fired … to"]="不是搭配：to 是 to dodge 的不定式符号（目的状语），和 fired 无关"
 out.update(out_extra)   # 实测后并进 gen63（停顿插入点、hulk 的 /k/ 除阻由 词尾辅音核对 --写入）
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
