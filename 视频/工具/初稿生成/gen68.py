@@ -75,6 +75,11 @@ CONF={"合组":G,"对齐":DZ}
 out={"no":"68","title_en":"The Last Flight of the Hindenburg","title_zh":"兴登堡号的 34 秒","title_fx":{"hl":["Hindenburg"],"ghost":[]},"sentences":[],"核对确认":CONF,"结尾解说":"简述",
      "高亮按实际开口":True,"高亮开口门槛":40,
      "术语":{"Hindenburg":"兴登堡号","Atlantic":"大西洋","Frankfurt":"法兰克福","Lakehurst":"莱克赫斯特","USS Akron":"阿克伦号","Graf Zeppelin":"格拉夫·齐柏林号","North America":"北美","American":"美国"}}
+out.update({"非人声区间":{"S2":[[1.915167,2.207708,"紧贴词头"]],"S8":[[3.235542,3.5555]],"S9":[[3.115,3.40],[5.49,5.80]],"S18":[[4.795,5.0]]},
+            "停顿插入点":{"S2":{"1":[2.345958,"交界"]}}})   # 2026-11-09 逐 2.5/10 ms 实测（w 秒）：S2 lounge 的 ʒ 到 1.91，1.92–2.16 吸气（-50～-55 dB、重心 2.3 kHz、低频 -10～-22 dB），2.21 起 and；配音把停顿放在 lounge|and，删掉吸气，标准停顿插到 and 的 d（到 2.343）与 that 的 ð（2.345 起 3–4 kHz）之间。S8 minute 的 /t/ 到 3.21，3.30–3.55 吸气（-45～-55、重心 2.2 kHz、低频 -10～-22），3.55 一下 5 kHz 咔声一起删，3.615 起 leaving。S9 survived 后 3.12–3.39 吸气（低频 -10～-28），3.40 起 a 的浊音；two-thirds 的 /z/ 到 5.45，5.50–5.79 吸气，5.80–5.85 while 的 /w/ 浊音前导（低频 -1～-5）保留。S18 scrapped 的 /t/ 除阻 4.60–4.64 保留，4.80–4.99 吸气，5.00–5.03 and 的浊音前导保留
+CONF["停顿位置"]={
+ "S9 aboard, / 62 @1.465":"2026-11-09 逐 5 ms 实测（S9 w）：aboard 的 ɹ 到 1.44，d 浊音 1.445–1.46（-37～-45 dB、低频 -1.5～-3.5），1.465 低谷 -52 dB，1.47 起 sixty 的 /s/（重心 2.8→6 kHz）；插入点 1.465 正好在两词之间",
+ "S18 withdrawn, / later @3.865":"2026-11-09 逐 10 ms 实测（S18 w）：withdrawn 的 n 3.76–3.86（-24 dB、低频 -1～-2 鼻音），3.87 起 later 的 l（-10.8 dB）；插入点 3.865 正好在两词之间"}
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from 核对 import 生成并核对
 生成并核对(S, out)
