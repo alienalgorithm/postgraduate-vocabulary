@@ -1,0 +1,37 @@
+name: Publish reordered PDF and 4K videos
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: New immutable release tag
+        required: true
+        default: reading-reordered-2026.11.13-v1
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reordered-reading-${{ inputs.tag }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      RELEASE_TAG: ${{ inputs.tag }}
+      RELEASE_ASSET_DIR: /tmp/reordered-reading-assets
+    steps:
+      - name: Check out the completed new-order PDF and videos
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+          sparse-checkout: |
+            .github/workflows
+            顺序重排版
+      - name: Verify order and hashes, package PDF and MP4 only, publish Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 顺序重排版/release_reordered.py
