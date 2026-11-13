@@ -1,3 +1,5 @@
+> **朋克英语隐藏署名版（最新PDF）**：全部相关PDF统一加入默认关闭的“来源署名｜朋克英语”图层；已认可书封的新顺序合订本共475页。下载[全本PDF](https://github.com/alienalgorithm/postgraduate-vocabulary/releases/download/punk-english-pdfs-2026.11.13-v1/PUNK-ENGLISH-70-STORIES.pdf)、[70份分篇PDF包](https://github.com/alienalgorithm/postgraduate-vocabulary/releases/download/punk-english-pdfs-2026.11.13-v1/70-PDF-BOOKLETS-PUNK-ENGLISH.zip)或[全部相关PDF署名版](https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/punk-english-pdfs-2026.11.13-v1)。[查看隐藏署名的方法](朋克英语署名版/2026-11-13-v1/查看隐藏署名.md)。旧版保留供追溯。
+
 > **70篇新顺序版**：已按用户指定顺序重新编号为01—70，PDF目录、篇内编号与视频文件名一一对应。只下载PDF小册子和4K视频，请使用[新顺序版Release](https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/reading-reordered-2026.11.13-v1)；附件仅含合订PDF、70份分篇PDF包、70部4K视频包。详见[新顺序版说明](顺序重排版/README.md)。
 >
 > **2026-11-13 原顺序完整成果归档**：70部最终4K视频、70篇插图小册子、7册合订PDF及配套素材、源码和审校记录，见[完整下载Release](https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/reading-complete-2026.11.13-v2)与[归档说明](成果归档/README.md)。保存规则见[AGENTS.md](AGENTS.md)。
