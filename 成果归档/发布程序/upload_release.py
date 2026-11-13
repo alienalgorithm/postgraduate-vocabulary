@@ -22,7 +22,7 @@ def main():
     if len(matches)>1:raise ValueError('Multiple matching drafts require reconciliation')
     if matches:release=matches[0]
     else:
-        body={'tag_name':tag,'target_commitish':a.commit,'draft':True,'make_latest':'false','name':'70篇完整成果：4K视频、插图阅读小册及全部配套材料','body':Path(a.notes).read_text()}
+        body={'tag_name':tag,'target_commitish':a.commit,'draft':True,'make_latest':'true' if repo=='alienalgorithm/postgraduate-vocabulary' else 'false','name':'70篇完整成果：4K视频、插图阅读小册及全部配套材料','body':Path(a.notes).read_text()}
         created=subprocess.run(['gh','api','--method','POST',f'repos/{repo}/releases','--input','-'],input=json.dumps(body),capture_output=True,text=True)
         if created.returncode:raise RuntimeError(created.stderr)
         release=json.loads(created.stdout)
@@ -55,7 +55,7 @@ def main():
         for f in concurrent.futures.as_completed(futures):verified.append(f.result())
     report={'repository':repo,'tag':tag,'source_commit':a.commit,'release_id':rid,'status':'all_assets_uploaded_and_remote_sha256_verified','assets':sorted(verified,key=lambda x:x['name']),'video_count':70,'individual_booklets':70,'combined_volumes':7,'original_illustrations':70,'PDF_page_previews':467,'primary_sync':'complete','primary_repository':'alienalgorithm/postgraduate-vocabulary'}
     result=assets/'PUBLISH-RESULT.json';result.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');receipt=upload(result)
-    run('release','edit',tag,'--repo',repo,'--draft=false','--latest=false','--target',a.commit)
+    run('release','edit',tag,'--repo',repo,'--draft=false','--latest='+('true' if repo=='alienalgorithm/postgraduate-vocabulary' else 'false'),'--target',a.commit)
     saved=api(f'repos/{repo}/releases/tags/{tag}')
     if saved['draft'] or saved['target_commitish']!=a.commit:raise ValueError('Final release not published at expected commit')
     final={**report,'status':'published','release_url':saved['html_url'],'receipt_asset':receipt}
