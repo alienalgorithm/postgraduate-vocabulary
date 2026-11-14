@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "28",
+  "book_order": "29",
+  "publisher_code_sha256": "fc6e33069e4c0bb0a363848cec068e1def1ebf941f6fde372e4f6dbde4ccd287",
+  "workflow_sha256": "983c49f0534bae842b5e270cc9534d0c29f857a8442432fad1eb2ac262fa1c59",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-tu-youyou-pause-06-preview-4k-v2",
+      "commit": "4ccf52a107c611f3a552e589d3193b9a562df060",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/tu-youyou-pause-06-preview-release/publish_single.py",
+          "bytes": 6249,
+          "sha256": "fc6e33069e4c0bb0a363848cec068e1def1ebf941f6fde372e4f6dbde4ccd287"
+        },
+        {
+          "path": ".github/workflows/publish-tu-youyou-pause-06-preview-4k.yml",
+          "bytes": 1075,
+          "sha256": "983c49f0534bae842b5e270cc9534d0c29f857a8442432fad1eb2ac262fa1c59"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-tu-youyou-pause-06-preview-4k-v2",
+      "commit": "4ccf52a107c611f3a552e589d3193b9a562df060",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/tu-youyou-pause-06-preview-release/publish_single.py",
+          "bytes": 6249,
+          "sha256": "fc6e33069e4c0bb0a363848cec068e1def1ebf941f6fde372e4f6dbde4ccd287"
+        },
+        {
+          "path": ".github/workflows/publish-tu-youyou-pause-06-preview-4k.yml",
+          "bytes": 1075,
+          "sha256": "983c49f0534bae842b5e270cc9534d0c29f857a8442432fad1eb2ac262fa1c59"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "ac2d8d20c24c562ac34efde0da283a01803025e56c4452f5d91df5d3be498ed3",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

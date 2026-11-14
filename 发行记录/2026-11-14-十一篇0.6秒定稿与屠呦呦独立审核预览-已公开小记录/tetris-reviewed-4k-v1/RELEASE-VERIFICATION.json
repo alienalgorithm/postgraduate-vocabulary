@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "source_id": "34",
+  "book_order": "33",
+  "release_id": 445230861,
+  "release_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/tetris-reviewed-4k-v1",
+  "video_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/download/tetris-reviewed-4k-v1/33-The-Game-That-Escaped-the-Soviet-Union-4K.mp4",
+  "video_bytes": 17585602,
+  "video_sha256": "a8780cde8970de937e314591c0d43d5f4facf17c411574c79581ca2532588b9a",
+  "actual_public_entire_video_download_verified": true,
+  "validated_video_probe_reference": {
+    "width": 3840,
+    "height": 2160,
+    "frames": 4329,
+    "fps": "30/1",
+    "duration_seconds": 144.3
+  },
+  "validation_record_sha256": "660522bf1333a293e8f8f4a75558d7298218af99dace79d71e11a51caf4d2160",
+  "manifest_sha256": "76f30681a48f773c1c8a1adaae8e11657b6782c7006471d67e39f791d68fe01f",
+  "publisher_sha256": "cf9a08ffce425cc988122b333f2d767a84739b1c72c667c4e262e651b4500941",
+  "native_actions_run_id": 43588188401,
+  "native_actions_head_sha": "5bd91f604b35899d2c46581c38315b7ee48229fb",
+  "other_release_or_tag_deleted": false,
+  "end_reading_pause_seconds": 0.6,
+  "actual_end_reading_pause_seconds": 0.6,
+  "nominal_extra_hold_frames_at_30fps": 18,
+  "recorded_utc": "2026-11-14T11:03:50.637706+00:00"
+}

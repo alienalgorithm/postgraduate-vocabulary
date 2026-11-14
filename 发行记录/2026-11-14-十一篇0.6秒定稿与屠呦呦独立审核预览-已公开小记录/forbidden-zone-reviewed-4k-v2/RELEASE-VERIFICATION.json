@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "source_id": "27",
+  "book_order": "22",
+  "release_id": 445227165,
+  "release_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/forbidden-zone-reviewed-4k-v2",
+  "video_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/download/forbidden-zone-reviewed-4k-v2/22-Life-in-the-Forbidden-Zone-4K.mp4",
+  "video_bytes": 16929602,
+  "video_sha256": "caa7f1494eb0bcbc2507555f789eee52de56c2e060b9586d15536f54e370dd80",
+  "actual_public_entire_video_download_verified": true,
+  "validated_video_probe_reference": {
+    "width": 3840,
+    "height": 2160,
+    "frames": 4583,
+    "fps": "30/1",
+    "duration_seconds": 152.766667
+  },
+  "validation_record_sha256": "86f1676ffac6d5ee936dd5c7e7897f7bf34588c1ce9ac3f364ea2476ca683fe7",
+  "manifest_sha256": "4b56ef3cbb19185a0c89377e0249b67615b6f2cfb413e1844a535eb7156ef98b",
+  "publisher_sha256": "db99b46276c1409e9bbdd0f26dd24b359f0efb1ff10420937be77e77de17d89f",
+  "native_actions_run_id": 43587684131,
+  "native_actions_head_sha": "51a322e493b538c67368bd29cbd2ccd41836cede",
+  "other_release_or_tag_deleted": false,
+  "end_reading_pause_seconds": 0.6,
+  "actual_end_reading_pause_seconds": 0.6066666666666667,
+  "nominal_extra_hold_frames_at_30fps": 18,
+  "recorded_utc": "2026-11-14T10:57:27.304641+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "17",
+  "book_order": "26",
+  "publisher_code_sha256": "35e7fd36262836d2d7cd1c5602a468e15e37cf20dab183679f735728a9a620b2",
+  "workflow_sha256": "ba72fa15f20825e99180b9bd8a72372396af8f0d21298e7549798b6196dd2449",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-pharaoh-curse-4k-v1",
+      "commit": "62903effacfe26423eb392a0df7084481b0d1c3e",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/pharaoh-curse-release/publish_single.py",
+          "bytes": 6273,
+          "sha256": "35e7fd36262836d2d7cd1c5602a468e15e37cf20dab183679f735728a9a620b2"
+        },
+        {
+          "path": ".github/workflows/publish-pharaoh-curse-4k.yml",
+          "bytes": 989,
+          "sha256": "ba72fa15f20825e99180b9bd8a72372396af8f0d21298e7549798b6196dd2449"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-pharaoh-curse-4k-v1",
+      "commit": "2ad089e93ff7329a2e83ee10512d210480975f9d",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/pharaoh-curse-release/publish_single.py",
+          "bytes": 6273,
+          "sha256": "35e7fd36262836d2d7cd1c5602a468e15e37cf20dab183679f735728a9a620b2"
+        },
+        {
+          "path": ".github/workflows/publish-pharaoh-curse-4k.yml",
+          "bytes": 989,
+          "sha256": "ba72fa15f20825e99180b9bd8a72372396af8f0d21298e7549798b6196dd2449"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "f8edf82a506aee56b6b6c23292ebde4350399dc292738c3072be435d315ea264",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

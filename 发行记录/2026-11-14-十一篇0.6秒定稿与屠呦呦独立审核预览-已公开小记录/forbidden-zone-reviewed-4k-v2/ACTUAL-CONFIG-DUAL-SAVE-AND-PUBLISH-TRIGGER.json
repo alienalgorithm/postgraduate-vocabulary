@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-forbidden-zone-4k-v2",
+      "commit": "0603b2b5249bbfb941b2d0f645a3d21651621dc0",
+      "manifest_sha256": "4b56ef3cbb19185a0c89377e0249b67615b6f2cfb413e1844a535eb7156ef98b",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-forbidden-zone-4k-v2",
+      "commit": "51a322e493b538c67368bd29cbd2ccd41836cede",
+      "manifest_sha256": "4b56ef3cbb19185a0c89377e0249b67615b6f2cfb413e1844a535eb7156ef98b",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

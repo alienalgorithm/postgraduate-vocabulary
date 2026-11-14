@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-zombie-ants-4k-v2",
+      "commit": "a5e5d8ada7e732b88548eb2854566105f4b9bebb",
+      "manifest_sha256": "e05eb389ad8ae38ba79768e39427d43155f6d88c42919586bc7becc00525dc51",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-zombie-ants-4k-v2",
+      "commit": "c211090d45a506d7f36df5132495c411bdb9ddcd",
+      "manifest_sha256": "e05eb389ad8ae38ba79768e39427d43155f6d88c42919586bc7becc00525dc51",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

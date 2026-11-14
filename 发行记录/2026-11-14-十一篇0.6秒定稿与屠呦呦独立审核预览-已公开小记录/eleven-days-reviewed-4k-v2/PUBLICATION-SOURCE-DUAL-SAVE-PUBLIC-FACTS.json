@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "13",
+  "book_order": "23",
+  "publisher_code_sha256": "0a9d7e73f30e071cc39d54676856d1546aaa29aad1d24be715f6913a2cffc8a8",
+  "workflow_sha256": "b17a0d6958cc0b48ed0ab0b574669b42c8048f50e519566064eef83ca7c95d7b",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-eleven-days-4k-v2",
+      "commit": "400ef93a2c0c0e6499536bfae407a7a77d9da432",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/eleven-days-release/publish_single.py",
+          "bytes": 6264,
+          "sha256": "0a9d7e73f30e071cc39d54676856d1546aaa29aad1d24be715f6913a2cffc8a8"
+        },
+        {
+          "path": ".github/workflows/publish-eleven-days-4k.yml",
+          "bytes": 991,
+          "sha256": "b17a0d6958cc0b48ed0ab0b574669b42c8048f50e519566064eef83ca7c95d7b"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-eleven-days-4k-v2",
+      "commit": "b9eecb494b55f634bdee6577999ffab9b74a6d38",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/eleven-days-release/publish_single.py",
+          "bytes": 6264,
+          "sha256": "0a9d7e73f30e071cc39d54676856d1546aaa29aad1d24be715f6913a2cffc8a8"
+        },
+        {
+          "path": ".github/workflows/publish-eleven-days-4k.yml",
+          "bytes": 991,
+          "sha256": "b17a0d6958cc0b48ed0ab0b574669b42c8048f50e519566064eef83ca7c95d7b"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "c07757fea1dfe417cb29919f0fdd833b0c984a2b6dd24adacdbd31a680f6fbe3",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

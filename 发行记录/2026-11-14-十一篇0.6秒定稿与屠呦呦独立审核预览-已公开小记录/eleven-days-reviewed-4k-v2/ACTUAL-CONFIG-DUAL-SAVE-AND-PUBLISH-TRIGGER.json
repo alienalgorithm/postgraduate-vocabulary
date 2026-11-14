@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-eleven-days-4k-v2",
+      "commit": "44fb33db03df0bc5267203ba741fd004acd6048f",
+      "manifest_sha256": "702e43e3a499cadf07637c8d6dda6409711282c67e57896b75736585645664c4",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-eleven-days-4k-v2",
+      "commit": "c2345b85b1536708398729930086bce5a7624a5b",
+      "manifest_sha256": "702e43e3a499cadf07637c8d6dda6409711282c67e57896b75736585645664c4",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

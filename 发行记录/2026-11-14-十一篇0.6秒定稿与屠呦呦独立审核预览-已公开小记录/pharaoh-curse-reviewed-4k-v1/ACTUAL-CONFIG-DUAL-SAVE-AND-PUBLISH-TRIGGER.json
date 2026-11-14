@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-pharaoh-curse-4k-v1",
+      "commit": "36282472106bdc11ba6741bba181f064d0011595",
+      "manifest_sha256": "2721ec587bd07cb197f3373a61f6b35c24293c009a6e53444a9401fd1a869205",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-pharaoh-curse-4k-v1",
+      "commit": "026e700c7dc8b14edd534d984d20b46f71a80548",
+      "manifest_sha256": "2721ec587bd07cb197f3373a61f6b35c24293c009a6e53444a9401fd1a869205",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

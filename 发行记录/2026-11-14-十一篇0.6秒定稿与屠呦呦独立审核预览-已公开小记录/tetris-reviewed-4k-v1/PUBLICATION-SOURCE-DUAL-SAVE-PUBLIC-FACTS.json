@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "34",
+  "book_order": "33",
+  "publisher_code_sha256": "cf9a08ffce425cc988122b333f2d767a84739b1c72c667c4e262e651b4500941",
+  "workflow_sha256": "2192a748cc4f1c34a5ce857f5d0c5616a44f61404aad91134228c3acac2a786a",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-tetris-4k-v1",
+      "commit": "0020646c6e12a531a5497823ec14efde09c4e02c",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/tetris-release/publish_single.py",
+          "bytes": 6246,
+          "sha256": "cf9a08ffce425cc988122b333f2d767a84739b1c72c667c4e262e651b4500941"
+        },
+        {
+          "path": ".github/workflows/publish-tetris-4k.yml",
+          "bytes": 947,
+          "sha256": "2192a748cc4f1c34a5ce857f5d0c5616a44f61404aad91134228c3acac2a786a"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-tetris-4k-v1",
+      "commit": "16136f624f97eea6bd995c9b9c615b5e0bc4317d",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/tetris-release/publish_single.py",
+          "bytes": 6246,
+          "sha256": "cf9a08ffce425cc988122b333f2d767a84739b1c72c667c4e262e651b4500941"
+        },
+        {
+          "path": ".github/workflows/publish-tetris-4k.yml",
+          "bytes": 947,
+          "sha256": "2192a748cc4f1c34a5ce857f5d0c5616a44f61404aad91134228c3acac2a786a"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "2dc1b8d248195cf0ec36b057a3138d6b86da161ea1944a44fa266dcc296cb8af",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

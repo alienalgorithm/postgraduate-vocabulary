@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "14",
+  "book_order": "21",
+  "publisher_code_sha256": "c662a7cd6b08103565185464ff11eeb88e3da441fe618a168eddaca1e513ac2d",
+  "workflow_sha256": "5ab9381117e582ce95eb2c3c847f936510fa5e9287f2bb70451deff1f57f3b82",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-zombie-ants-4k-v2",
+      "commit": "c85ab632af7a7d3a686a98eddb963ab0f323b362",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/zombie-ants-release/publish_single.py",
+          "bytes": 6335,
+          "sha256": "c662a7cd6b08103565185464ff11eeb88e3da441fe618a168eddaca1e513ac2d"
+        },
+        {
+          "path": ".github/workflows/publish-zombie-ants-4k.yml",
+          "bytes": 977,
+          "sha256": "5ab9381117e582ce95eb2c3c847f936510fa5e9287f2bb70451deff1f57f3b82"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-zombie-ants-4k-v2",
+      "commit": "509f3dcff86edecf9335ed9164513dad6de88175",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/zombie-ants-release/publish_single.py",
+          "bytes": 6335,
+          "sha256": "c662a7cd6b08103565185464ff11eeb88e3da441fe618a168eddaca1e513ac2d"
+        },
+        {
+          "path": ".github/workflows/publish-zombie-ants-4k.yml",
+          "bytes": 977,
+          "sha256": "5ab9381117e582ce95eb2c3c847f936510fa5e9287f2bb70451deff1f57f3b82"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "68d5a8b1443ea22371def7fc9f88d818f656872e7f854ac8a8e757ab724b0b79",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

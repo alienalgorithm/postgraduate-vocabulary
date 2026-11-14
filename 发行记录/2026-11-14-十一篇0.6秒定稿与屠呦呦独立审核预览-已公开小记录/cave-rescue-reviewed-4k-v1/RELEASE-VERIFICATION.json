@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "source_id": "33",
+  "book_order": "30",
+  "release_id": 445209663,
+  "release_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/cave-rescue-reviewed-4k-v1",
+  "video_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/download/cave-rescue-reviewed-4k-v1/30-Thirteen-in-the-Cave-4K.mp4",
+  "video_bytes": 16517283,
+  "video_sha256": "77ad61825474d84a6474a1a24928381731a60aa593a131fce8a2b0f9d9aa5814",
+  "actual_public_entire_video_download_verified": true,
+  "validated_video_probe_reference": {
+    "width": 3840,
+    "height": 2160,
+    "frames": 4132,
+    "fps": "30/1",
+    "duration_seconds": 137.733333
+  },
+  "validation_record_sha256": "c12ed704432d3d3958e5db06683afdbaa9f8fafcd46432fb1c09f7c77c98fa0a",
+  "manifest_sha256": "a0fa92e66aedef96e424de7aa4939c76b921353bb003ebd18a77b4c59c64f7b7",
+  "publisher_sha256": "61eb7b784990d86c23144fd52fc998338e7920f8b872d84f4d048c79c9e11b94",
+  "native_actions_run_id": 43585177537,
+  "native_actions_head_sha": "1e3812810809a73194cec82f9bf45bbb381ea8a3",
+  "other_release_or_tag_deleted": false,
+  "end_reading_pause_seconds": 0.6,
+  "actual_end_reading_pause_seconds": 0.6183333333333333,
+  "nominal_extra_hold_frames_at_30fps": 18,
+  "recorded_utc": "2026-11-14T10:25:15.664448+00:00"
+}

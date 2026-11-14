@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "source_id": "47",
+  "book_order": "32",
+  "release_id": 445240837,
+  "release_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/yellowstone-reviewed-4k-v1",
+  "video_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/download/yellowstone-reviewed-4k-v1/32-Shadows-of-Wolves-Over-Yellowstone-4K.mp4",
+  "video_bytes": 17946800,
+  "video_sha256": "d4da7a7969270d8eb4b840a3be725759fef6ad6a229d24e5f53da8383af12ae3",
+  "actual_public_entire_video_download_verified": true,
+  "validated_video_probe_reference": {
+    "width": 3840,
+    "height": 2160,
+    "frames": 4538,
+    "fps": "30/1",
+    "duration_seconds": 151.266667
+  },
+  "validation_record_sha256": "15cf514ac0ac313d094665aeb0015248b185eae75a2e565fead5f6bcec1ec2b4",
+  "manifest_sha256": "5c6419f0df54d5d76ce59008acbc456e1ef3fcbacc5a194b4ca8d18541502854",
+  "publisher_sha256": "453bd3f93b21e7714d321fec9837089f9808f25dfc8cb26739cff28fe21a475a",
+  "native_actions_run_id": 43589542646,
+  "native_actions_head_sha": "3843445a5fbaa9ed34a3f4872aaccb40a6fff322",
+  "other_release_or_tag_deleted": false,
+  "end_reading_pause_seconds": 0.6,
+  "actual_end_reading_pause_seconds": 0.6116666666666667,
+  "nominal_extra_hold_frames_at_30fps": 18,
+  "recorded_utc": "2026-11-14T11:20:34.978226+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-kodak-4k-v1",
+      "commit": "15abe2c9a9193daf5c7591ad1dff17a7b6ad2991",
+      "manifest_sha256": "3dcd38a53be51cdc7efe0eabe37fc3b5aa5cc1003a309555ebfe94b62de19676",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-kodak-4k-v1",
+      "commit": "dfb4414abcc9ca315194dcd9a02ea0e88147c905",
+      "manifest_sha256": "3dcd38a53be51cdc7efe0eabe37fc3b5aa5cc1003a309555ebfe94b62de19676",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

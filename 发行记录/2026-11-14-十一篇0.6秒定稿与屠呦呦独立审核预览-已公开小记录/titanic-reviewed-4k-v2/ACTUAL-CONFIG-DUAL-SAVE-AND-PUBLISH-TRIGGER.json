@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-titanic-4k-v2",
+      "commit": "50b7a7d3dbb7931477510b2f5562b3e87df22020",
+      "manifest_sha256": "6ebe2435fde4364156f4a40e28213493aecbc9354afe4e5f849d1d76055796cb",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-titanic-4k-v2",
+      "commit": "510fec3ad67e171cfbacdde83e1a28223ea29058",
+      "manifest_sha256": "6ebe2435fde4364156f4a40e28213493aecbc9354afe4e5f849d1d76055796cb",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

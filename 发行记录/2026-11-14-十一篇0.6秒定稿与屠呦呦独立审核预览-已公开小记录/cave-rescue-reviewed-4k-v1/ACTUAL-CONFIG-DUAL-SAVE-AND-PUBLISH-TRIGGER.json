@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-cave-rescue-4k-v1",
+      "commit": "9abc52bdf39d26323c1b342e6c2f8a5c7c81561f",
+      "manifest_sha256": "a0fa92e66aedef96e424de7aa4939c76b921353bb003ebd18a77b4c59c64f7b7",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-cave-rescue-4k-v1",
+      "commit": "1e3812810809a73194cec82f9bf45bbb381ea8a3",
+      "manifest_sha256": "a0fa92e66aedef96e424de7aa4939c76b921353bb003ebd18a77b4c59c64f7b7",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

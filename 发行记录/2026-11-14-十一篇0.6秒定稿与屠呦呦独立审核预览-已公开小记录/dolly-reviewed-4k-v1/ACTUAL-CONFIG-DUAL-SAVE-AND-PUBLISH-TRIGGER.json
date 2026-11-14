@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-dolly-4k-v1",
+      "commit": "98316d48397ee6e807ff886ce8a8bb3d69e752f6",
+      "manifest_sha256": "6dea0c2687ce36b2c8f45d2572bd6d571017729748075424e6e4e755fd1adeee",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-dolly-4k-v1",
+      "commit": "5bdedff9684ff9537db16431f758893b82775135",
+      "manifest_sha256": "6dea0c2687ce36b2c8f45d2572bd6d571017729748075424e6e4e755fd1adeee",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

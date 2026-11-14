@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-tetris-4k-v1",
+      "commit": "73790affa2d7aca9c16ce81a542df5f527f2e1d8",
+      "manifest_sha256": "76f30681a48f773c1c8a1adaae8e11657b6782c7006471d67e39f791d68fe01f",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-tetris-4k-v1",
+      "commit": "5bd91f604b35899d2c46581c38315b7ee48229fb",
+      "manifest_sha256": "76f30681a48f773c1c8a1adaae8e11657b6782c7006471d67e39f791d68fe01f",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

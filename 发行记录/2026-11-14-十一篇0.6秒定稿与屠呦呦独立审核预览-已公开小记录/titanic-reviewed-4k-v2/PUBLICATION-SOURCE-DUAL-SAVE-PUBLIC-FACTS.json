@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "15",
+  "book_order": "25",
+  "publisher_code_sha256": "52a68d937dbad7bb85b8a001823cabe2f335b84cbfba6f0c52167dd05ae728b7",
+  "workflow_sha256": "79700096c3e46831eabe5a480876b5e8b26f728daaac886fb687b71f6de94b08",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-titanic-4k-v2",
+      "commit": "acaeae1618e820535519dc85ce76f21adea473b0",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/titanic-release/publish_single.py",
+          "bytes": 6252,
+          "sha256": "52a68d937dbad7bb85b8a001823cabe2f335b84cbfba6f0c52167dd05ae728b7"
+        },
+        {
+          "path": ".github/workflows/publish-titanic-4k.yml",
+          "bytes": 953,
+          "sha256": "79700096c3e46831eabe5a480876b5e8b26f728daaac886fb687b71f6de94b08"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-titanic-4k-v2",
+      "commit": "3494c4f41d2629ab199ceaa634b2f14cdc297f3f",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/titanic-release/publish_single.py",
+          "bytes": 6252,
+          "sha256": "52a68d937dbad7bb85b8a001823cabe2f335b84cbfba6f0c52167dd05ae728b7"
+        },
+        {
+          "path": ".github/workflows/publish-titanic-4k.yml",
+          "bytes": 953,
+          "sha256": "79700096c3e46831eabe5a480876b5e8b26f728daaac886fb687b71f6de94b08"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "8e4aebca8df5c22e5c7e505d819a3acd70fd843640b2dc55fa23bf343de29d16",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

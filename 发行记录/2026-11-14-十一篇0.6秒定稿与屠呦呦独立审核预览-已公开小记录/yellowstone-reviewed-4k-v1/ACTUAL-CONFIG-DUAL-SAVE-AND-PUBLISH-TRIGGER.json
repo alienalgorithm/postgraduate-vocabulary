@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-yellowstone-4k-v1",
+      "commit": "c7016bba3b8fceee963081d1be93057d62ca1d6e",
+      "manifest_sha256": "5c6419f0df54d5d76ce59008acbc456e1ef3fcbacc5a194b4ca8d18541502854",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-yellowstone-4k-v1",
+      "commit": "3843445a5fbaa9ed34a3f4872aaccb40a6fff322",
+      "manifest_sha256": "5c6419f0df54d5d76ce59008acbc456e1ef3fcbacc5a194b4ca8d18541502854",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ]
+}

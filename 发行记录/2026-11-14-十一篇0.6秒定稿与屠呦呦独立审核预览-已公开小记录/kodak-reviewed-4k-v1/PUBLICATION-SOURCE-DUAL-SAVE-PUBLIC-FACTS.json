@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "36",
+  "book_order": "28",
+  "publisher_code_sha256": "1badcdec0ca23f7a4e760982acf3dce304a9833e3b8754d4089d6ff0d87e734a",
+  "workflow_sha256": "612829e1f890b2bdc6931cb29790b5bd9b04c2a9d9fb1cc06f1c0359a1fe281a",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-kodak-4k-v1",
+      "commit": "b82eaaa7ec05807f51f9b7222552f6e3d964ada1",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/kodak-release/publish_single.py",
+          "bytes": 6266,
+          "sha256": "1badcdec0ca23f7a4e760982acf3dce304a9833e3b8754d4089d6ff0d87e734a"
+        },
+        {
+          "path": ".github/workflows/publish-kodak-4k.yml",
+          "bytes": 941,
+          "sha256": "612829e1f890b2bdc6931cb29790b5bd9b04c2a9d9fb1cc06f1c0359a1fe281a"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-kodak-4k-v1",
+      "commit": "3644c6b73de54ecd8668f6132852ff8998969737",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/kodak-release/publish_single.py",
+          "bytes": 6266,
+          "sha256": "1badcdec0ca23f7a4e760982acf3dce304a9833e3b8754d4089d6ff0d87e734a"
+        },
+        {
+          "path": ".github/workflows/publish-kodak-4k.yml",
+          "bytes": 941,
+          "sha256": "612829e1f890b2bdc6931cb29790b5bd9b04c2a9d9fb1cc06f1c0359a1fe281a"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "946ea3d06f2817015f89f6a02297eee794d35cd8534e885acfbc6be0673add05",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

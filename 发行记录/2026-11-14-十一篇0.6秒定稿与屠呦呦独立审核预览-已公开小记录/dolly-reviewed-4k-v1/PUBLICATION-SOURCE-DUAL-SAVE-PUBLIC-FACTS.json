@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "62",
+  "book_order": "34",
+  "publisher_code_sha256": "54bfcb40f62ccc45c685ea7dc2e0427504d82bc788aefcd5fe833ea30354ee06",
+  "workflow_sha256": "9548963025b764a602d34e36ebccf72445de615e2bb409f78a525d3717643efe",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-dolly-4k-v1",
+      "commit": "59726827dae26366897a6e36e9e7eb2ecd5ee6f7",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/dolly-release/publish_single.py",
+          "bytes": 6257,
+          "sha256": "54bfcb40f62ccc45c685ea7dc2e0427504d82bc788aefcd5fe833ea30354ee06"
+        },
+        {
+          "path": ".github/workflows/publish-dolly-4k.yml",
+          "bytes": 941,
+          "sha256": "9548963025b764a602d34e36ebccf72445de615e2bb409f78a525d3717643efe"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-dolly-4k-v1",
+      "commit": "7fff6c7204b4771de1431d6973ba1a9e4e8d14ea",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/dolly-release/publish_single.py",
+          "bytes": 6257,
+          "sha256": "54bfcb40f62ccc45c685ea7dc2e0427504d82bc788aefcd5fe833ea30354ee06"
+        },
+        {
+          "path": ".github/workflows/publish-dolly-4k.yml",
+          "bytes": 941,
+          "sha256": "9548963025b764a602d34e36ebccf72445de615e2bb409f78a525d3717643efe"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "9bd9e9cc68b40daf8bc3a4429444ba0bc4966c82d1dda0560b0ecc4202e66d2d",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}

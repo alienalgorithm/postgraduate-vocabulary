@@ -1,0 +1,46 @@
+{
+  "kind": "minimal_publication_source_dual_save_facts",
+  "source_id": "33",
+  "book_order": "30",
+  "publisher_code_sha256": "61eb7b784990d86c23144fd52fc998338e7920f8b872d84f4d048c79c9e11b94",
+  "workflow_sha256": "aaa1586d953eeded0a2c9402946494f7128905fb27543834ec8f733b515246f4",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-cave-rescue-4k-v1",
+      "commit": "fc624c4ad7ba77ec5badda35d702123b7c81dfdc",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/cave-rescue-release/publish_single.py",
+          "bytes": 6232,
+          "sha256": "61eb7b784990d86c23144fd52fc998338e7920f8b872d84f4d048c79c9e11b94"
+        },
+        {
+          "path": ".github/workflows/publish-cave-rescue-4k.yml",
+          "bytes": 977,
+          "sha256": "aaa1586d953eeded0a2c9402946494f7128905fb27543834ec8f733b515246f4"
+        }
+      ]
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-cave-rescue-4k-v1",
+      "commit": "9bb6cd60a56162a0f8f54a8d01ad5b2853b145d6",
+      "actual_immutable_UTF8_reads": [
+        {
+          "path": ".github/cave-rescue-release/publish_single.py",
+          "bytes": 6232,
+          "sha256": "61eb7b784990d86c23144fd52fc998338e7920f8b872d84f4d048c79c9e11b94"
+        },
+        {
+          "path": ".github/workflows/publish-cave-rescue-4k.yml",
+          "bytes": 977,
+          "sha256": "aaa1586d953eeded0a2c9402946494f7128905fb27543834ec8f733b515246f4"
+        }
+      ]
+    }
+  ],
+  "original_internal_receipt_sha256": "b7b3b1a1a6d48d9b023840bbefe8f9ca4846f8fc3b37827c3b1d97eeef540dd3",
+  "original_internal_receipt_retained_locally": true,
+  "internal_directory_or_full_profile_not_in_public_summary": true
+}
