@@ -1,0 +1,27 @@
+{
+  "recorded_utc": "2026-11-14T19:01:31.757671+00:00",
+  "kind": "actual-dual-Git-asset-verification-of-already-passed-revision",
+  "source_ids": [
+    "60"
+  ],
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "asset_commit": "6bf93f6b45ca2583598bd7b90d22dff86828c691",
+      "record_subtree": "0e50408e6f6d9936262440a19a942c96aabc8957",
+      "files": 336,
+      "all_remote_Git_blob_modes_sizes_SHA_exact": true
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "asset_commit": "6bf93f6b45ca2583598bd7b90d22dff86828c691",
+      "record_subtree": "0e50408e6f6d9936262440a19a942c96aabc8957",
+      "files": 336,
+      "all_remote_Git_blob_modes_sizes_SHA_exact": true
+    }
+  ],
+  "actual_dual_blob_rows": 672,
+  "new_unique_article_count_claimed": false,
+  "original_media_or_quality_program_changed": false,
+  "old_assets_or_published_review_release_modified": false
+}

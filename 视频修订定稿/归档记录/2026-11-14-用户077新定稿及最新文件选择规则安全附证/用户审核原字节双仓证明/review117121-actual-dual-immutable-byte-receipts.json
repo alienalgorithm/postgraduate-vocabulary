@@ -1,0 +1,153 @@
+{
+  "kind": "public-user-reviews117-through121-and-actual-cloud-final-status",
+  "repositories": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/first50-review-v1",
+      "parent": "0a510818ff93b783f9eb2151fb46157b1371bff2",
+      "commit": "e56356ed40bbb4c3c7d1a8f2ebafd1d7621a0c42",
+      "files": [
+        {
+          "path": "user-review/2026-11-14/117-London-cold-opening-and-whole-audio-review.json",
+          "bytes": 1553,
+          "sha256": "65918a5a8d92bc33bc9c167eb65b86585f174f1aaefffa1f89fc79eab662e518",
+          "git_blob_sha": "f8f68186c13f9e11ad31c99327ba292dec46dfd7",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/118-London-though-spoken-only-pause-correction.json",
+          "bytes": 1293,
+          "sha256": "17f5bf11c5127d5f91aa7c4a1afce6d3b05ba4634055f83ca200dc9617261042",
+          "git_blob_sha": "9c6ba5b41c3f738a98c53f5f20188ba3a9cce634",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/119-London-That-smoke-opening-audio-correction.json",
+          "bytes": 1312,
+          "sha256": "2f71f27621e3c69c3ca0f0c68d1a1aa9120e6fc0c082d438f1a169df2c5ab9d0",
+          "git_blob_sha": "b70012b48eb45f2179f2808cedd7eeb1b8665975",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/120-London-blame-on-phrase-focus-and-meaning.json",
+          "bytes": 1081,
+          "sha256": "66abe1560464e2941acb9cd12197d052fbbc8abe7ce16493ba062f3a5ccdfef9",
+          "git_blob_sha": "2e39632c05974534cfefc6920a236b5d7c79aeff",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/121-London-complacency-explanatory-note-proposal.json",
+          "bytes": 1144,
+          "sha256": "6a5716eccce093e475737bf0e4d50154a381faae01f7b8e69d7f84c26b213c9b",
+          "git_blob_sha": "84cbf90408fe2171ec73d6c6a4454985dd76dad7",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book41-source52-pending-review.json",
+          "bytes": 1261,
+          "sha256": "688380ea492326590dd0d651372654f9df1d42994b7763a0b4db913f95f0d3a6",
+          "git_blob_sha": "17f4c880563714686326a02b9ff41fcd74b55b14",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book03-source07-pending-review.json",
+          "bytes": 4244,
+          "sha256": "9d85996d56d958a147336e315c79701ffa787bab3d3ca6247be9c8aaa23e9bee",
+          "git_blob_sha": "e8b7120f92eda84d9c60b31d1bda4cd7dd881a7f",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book36-source60-pending-review.json",
+          "bytes": 7677,
+          "sha256": "5cf9544f1687423feac1e3156b9b4ff81423760532305b4684b2c9bcf9e855e1",
+          "git_blob_sha": "c2e378d344fd8aaf161228da73942b3fc8a26bbe",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "delivery-controls/2026-11-14/current-latest-user-video-requests.json",
+          "bytes": 137292,
+          "sha256": "27b5953b8060d204bfd584f039a87fd1866f6e4454bb85566da28673bfcf805d",
+          "git_blob_sha": "0c60aa3a35e0c14c6a4c287546126d4624f21150",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        }
+      ],
+      "actual_full_immutable_blob_readbacks": 9,
+      "canonical_main_master_media_PDF_or_Release_changed": false
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/first50-review-v1",
+      "parent": "4f9b61c354bde76939f237cb03f456f5266556f1",
+      "commit": "1bd60e990c144df5e1454956b2965be6acbead99",
+      "files": [
+        {
+          "path": "user-review/2026-11-14/117-London-cold-opening-and-whole-audio-review.json",
+          "bytes": 1553,
+          "sha256": "65918a5a8d92bc33bc9c167eb65b86585f174f1aaefffa1f89fc79eab662e518",
+          "git_blob_sha": "f8f68186c13f9e11ad31c99327ba292dec46dfd7",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/118-London-though-spoken-only-pause-correction.json",
+          "bytes": 1293,
+          "sha256": "17f5bf11c5127d5f91aa7c4a1afce6d3b05ba4634055f83ca200dc9617261042",
+          "git_blob_sha": "9c6ba5b41c3f738a98c53f5f20188ba3a9cce634",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/119-London-That-smoke-opening-audio-correction.json",
+          "bytes": 1312,
+          "sha256": "2f71f27621e3c69c3ca0f0c68d1a1aa9120e6fc0c082d438f1a169df2c5ab9d0",
+          "git_blob_sha": "b70012b48eb45f2179f2808cedd7eeb1b8665975",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/120-London-blame-on-phrase-focus-and-meaning.json",
+          "bytes": 1081,
+          "sha256": "66abe1560464e2941acb9cd12197d052fbbc8abe7ce16493ba062f3a5ccdfef9",
+          "git_blob_sha": "2e39632c05974534cfefc6920a236b5d7c79aeff",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/121-London-complacency-explanatory-note-proposal.json",
+          "bytes": 1144,
+          "sha256": "6a5716eccce093e475737bf0e4d50154a381faae01f7b8e69d7f84c26b213c9b",
+          "git_blob_sha": "84cbf90408fe2171ec73d6c6a4454985dd76dad7",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book41-source52-pending-review.json",
+          "bytes": 1261,
+          "sha256": "688380ea492326590dd0d651372654f9df1d42994b7763a0b4db913f95f0d3a6",
+          "git_blob_sha": "17f4c880563714686326a02b9ff41fcd74b55b14",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book03-source07-pending-review.json",
+          "bytes": 4244,
+          "sha256": "9d85996d56d958a147336e315c79701ffa787bab3d3ca6247be9c8aaa23e9bee",
+          "git_blob_sha": "e8b7120f92eda84d9c60b31d1bda4cd7dd881a7f",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book36-source60-pending-review.json",
+          "bytes": 7677,
+          "sha256": "5cf9544f1687423feac1e3156b9b4ff81423760532305b4684b2c9bcf9e855e1",
+          "git_blob_sha": "c2e378d344fd8aaf161228da73942b3fc8a26bbe",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "delivery-controls/2026-11-14/current-latest-user-video-requests.json",
+          "bytes": 137292,
+          "sha256": "27b5953b8060d204bfd584f039a87fd1866f6e4454bb85566da28673bfcf805d",
+          "git_blob_sha": "0c60aa3a35e0c14c6a4c287546126d4624f21150",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        }
+      ],
+      "actual_full_immutable_blob_readbacks": 9,
+      "canonical_main_master_media_PDF_or_Release_changed": false
+    }
+  ],
+  "passed": true,
+  "actual_dual_full_blob_reads": 18
+}

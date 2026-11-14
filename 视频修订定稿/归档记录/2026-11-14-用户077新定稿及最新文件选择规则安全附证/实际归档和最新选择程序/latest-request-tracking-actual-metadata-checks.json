@@ -1,0 +1,13 @@
+{
+  "kind": "actual-existing-source60-metadata-only-latest-request-hook-checks",
+  "real_frozen_H_used_without_repeating_media_QA": true,
+  "only_target_entry_changed": true,
+  "latest_authority_and_media_identity_required": true,
+  "negative_cases_rejected": [
+    "wrong_latest_authority_SHA",
+    "draft_not_final_authorized",
+    "wrong_media_SHA"
+  ],
+  "helper_sha256": "0a5d5132ce05009a83118c99fae85bbedf02cd532bb222592dcde7f448916dda",
+  "no_remote_refs_or_media_changed_by_checks": true
+}

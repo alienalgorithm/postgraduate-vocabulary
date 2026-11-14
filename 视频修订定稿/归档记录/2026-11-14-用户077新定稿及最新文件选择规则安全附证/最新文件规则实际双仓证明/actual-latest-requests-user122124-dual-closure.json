@@ -1,0 +1,28 @@
+{
+  "kind": "actual-public-latest-user-request-pending-scope-only-update",
+  "archives": [
+    {
+      "role": "primary",
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "main",
+      "parent": "cfb921b3b41a4bcc59966be56d515223ea22fead",
+      "commit": "3874906f8847eef56a39be8bacc497c861ddd555",
+      "video_subtree": "b5dbdd94bf8b7615314933490b97da7fa210e31e",
+      "registry_git_blob": "0c2c81911455f52306d7876d2e3a04075070ae4b"
+    },
+    {
+      "role": "backup",
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/all-deliverables-20261113",
+      "parent": "adeb105ab3e30030d1de9f1c694b35f19b175a51",
+      "commit": "d5ff7950a2183b97ad060e6a16329585327e3bc4",
+      "video_subtree": "b5dbdd94bf8b7615314933490b97da7fa210e31e",
+      "registry_git_blob": "0c2c81911455f52306d7876d2e3a04075070ae4b"
+    }
+  ],
+  "only_specified_source_request_scopes_changed": [
+    "52"
+  ],
+  "all_current_media_index_final_alias_QA_PDF_master_unchanged": true,
+  "actual_full_blob_readbacks": 2
+}

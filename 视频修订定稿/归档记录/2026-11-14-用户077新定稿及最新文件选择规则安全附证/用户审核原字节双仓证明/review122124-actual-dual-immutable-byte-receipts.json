@@ -1,0 +1,97 @@
+{
+  "kind": "public-user-reviews122-through124-and-exact-London-finalization-scope",
+  "repositories": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/first50-review-v1",
+      "parent": "e56356ed40bbb4c3c7d1a8f2ebafd1d7621a0c42",
+      "commit": "72af198f62e72d6a70b6ce8185405d00a1038383",
+      "files": [
+        {
+          "path": "user-review/2026-11-14/122-London-finalization-and-last-sentence-spoken-commas.json",
+          "bytes": 2088,
+          "sha256": "22ff3557bc3b4986ce93ed3bbdaabc39e14984b38c6886e6952bb3d5fa93e1f9",
+          "git_blob_sha": "55ee59420de8f8d87517cc2d1ada47fc3e764caf",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/123-London-explanatory-note-accepted.json",
+          "bytes": 1260,
+          "sha256": "f56afee6b334ffda48f6638a2cb7be18ff7b823a4c18242dbd5900621739fdde",
+          "git_blob_sha": "d70f35ef0921234ca3d0c4d2adc70c91a24272fd",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/124-London-explanatory-note-exact-page-anchor.json",
+          "bytes": 1121,
+          "sha256": "045890e54524265c7fdfe4c385ddce8e3c58115edd94b4da92042548d04330d1",
+          "git_blob_sha": "81b8d60cfd23d5e2682eecc1021e9f10d3206fbd",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book41-source52-pending-review.json",
+          "bytes": 1933,
+          "sha256": "fe1346b6084110e6a63947124ff4974f87e28d0412b17f780280eabdaa60c759",
+          "git_blob_sha": "8dd115b016c555179cb6458d58ee40c93c230130",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "delivery-controls/2026-11-14/current-latest-user-video-requests.json",
+          "bytes": 138179,
+          "sha256": "8da70c8e4644626050df6d4d58b5d197a3e0786c559541246216e52bef54f860",
+          "git_blob_sha": "0c2c81911455f52306d7876d2e3a04075070ae4b",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        }
+      ],
+      "actual_full_immutable_blob_readbacks": 5,
+      "canonical_main_master_media_PDF_or_Release_changed": false
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/first50-review-v1",
+      "parent": "1bd60e990c144df5e1454956b2965be6acbead99",
+      "commit": "39eaa77b09c48d28497ca6edee654c5f4cfa23e7",
+      "files": [
+        {
+          "path": "user-review/2026-11-14/122-London-finalization-and-last-sentence-spoken-commas.json",
+          "bytes": 2088,
+          "sha256": "22ff3557bc3b4986ce93ed3bbdaabc39e14984b38c6886e6952bb3d5fa93e1f9",
+          "git_blob_sha": "55ee59420de8f8d87517cc2d1ada47fc3e764caf",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/123-London-explanatory-note-accepted.json",
+          "bytes": 1260,
+          "sha256": "f56afee6b334ffda48f6638a2cb7be18ff7b823a4c18242dbd5900621739fdde",
+          "git_blob_sha": "d70f35ef0921234ca3d0c4d2adc70c91a24272fd",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "user-review/2026-11-14/124-London-explanatory-note-exact-page-anchor.json",
+          "bytes": 1121,
+          "sha256": "045890e54524265c7fdfe4c385ddce8e3c58115edd94b4da92042548d04330d1",
+          "git_blob_sha": "81b8d60cfd23d5e2682eecc1021e9f10d3206fbd",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "pending-reviews/2026-11-14/book41-source52-pending-review.json",
+          "bytes": 1933,
+          "sha256": "fe1346b6084110e6a63947124ff4974f87e28d0412b17f780280eabdaa60c759",
+          "git_blob_sha": "8dd115b016c555179cb6458d58ee40c93c230130",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        },
+        {
+          "path": "delivery-controls/2026-11-14/current-latest-user-video-requests.json",
+          "bytes": 138179,
+          "sha256": "8da70c8e4644626050df6d4d58b5d197a3e0786c559541246216e52bef54f860",
+          "git_blob_sha": "0c2c81911455f52306d7876d2e3a04075070ae4b",
+          "actual_immutable_blob_entire_bytes_read_back": true
+        }
+      ],
+      "actual_full_immutable_blob_readbacks": 5,
+      "canonical_main_master_media_PDF_or_Release_changed": false
+    }
+  ],
+  "passed": true,
+  "actual_dual_full_blob_reads": 10
+}

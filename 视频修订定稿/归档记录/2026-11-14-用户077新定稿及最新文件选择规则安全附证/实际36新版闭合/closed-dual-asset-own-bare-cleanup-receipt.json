@@ -1,0 +1,25 @@
+{
+  "kind": "full-dual-verified-media-asset-closed-own-bare-only-cleanup",
+  "recorded_utc": "2026-11-14T19:05:27.056822+00:00",
+  "actual_dual_blob_rows": 672,
+  "actual_full_public_MP4_HTTP200_SHA256_streams": 2,
+  "remote_asset_refs": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "asset_commit": "6bf93f6b45ca2583598bd7b90d22dff86828c691",
+      "video_subtree": "0e50408e6f6d9936262440a19a942c96aabc8957"
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "asset_commit": "6bf93f6b45ca2583598bd7b90d22dff86828c691",
+      "video_subtree": "0e50408e6f6d9936262440a19a942c96aabc8957"
+    }
+  ],
+  "only_deleted": "/dev/shm/codex-public-approved-asset-git-43626183061-60-hold18-460837d9634c4055bbe8344b7eeb0b95",
+  "removed_owned_cache_symlink": "/dev/shm/user077-source60-isolated-assets-5uvr0vmp/run43626183061-60-user077-review-normal18-v1/assets.git",
+  "logical_bytes_removed": 105903928,
+  "git_fsck_exit_code": 0,
+  "git_fsck_output": "dangling commit 6bf93f6b45ca2583598bd7b90d22dff86828c691\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+  "all_payload_native_media_rawZIP_sources_QA_GENMD_retained": true,
+  "canonical_or_review_release_modified": false
+}

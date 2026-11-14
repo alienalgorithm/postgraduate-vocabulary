@@ -1,0 +1,37 @@
+{
+  "kind": "actual-public-latest-video-request-policy-only-dual-closure",
+  "archives": [
+    {
+      "role": "primary",
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "main",
+      "parent": "8784deb28f0910bda098db9228a06926173d5301",
+      "commit": "dde0d06da8e548063d407406dba4ebf2eeb5684b",
+      "video_tree": "fcbf33e935ae7232a7e86c51fda2c78ee6d1611f",
+      "blob_shas": {
+        "AGENTS.md": "0d40b8fab8385d48fa5f8ac67f6169dd72b6dc3d",
+        "视频修订定稿/latest_requests.json": "d9e8b4604f5b8c7af57e94c3b5be483d91bef38f",
+        "视频修订定稿/最新视频选择规则.json": "d2eb7d3aa7302ea9d38fa721af07ef3d9ac53a6d"
+      }
+    },
+    {
+      "role": "backup",
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/all-deliverables-20261113",
+      "parent": "e858151e0c85a11bfe422e3ab13f6fd621d31e0e",
+      "commit": "4e3e7a26689990cb9ff38dc68b0e3a4691108a66",
+      "video_tree": "fcbf33e935ae7232a7e86c51fda2c78ee6d1611f",
+      "blob_shas": {
+        "AGENTS.md": "a336b11bdc86e7af51c57f30273d7c4954ec6af4",
+        "视频修订定稿/latest_requests.json": "d9e8b4604f5b8c7af57e94c3b5be483d91bef38f",
+        "视频修订定稿/最新视频选择规则.json": "d2eb7d3aa7302ea9d38fa721af07ef3d9ac53a6d"
+      }
+    }
+  ],
+  "only_AGENTS_and_two_video_policy_documents_changed": true,
+  "current_inventory_final_directory_all_media_QA_catalog_PDF_and_master_unchanged": true,
+  "actual_full_immutable_blob_readbacks": 6,
+  "latest_requests_rows": 70,
+  "completed_latest_requested_revisions": 36,
+  "all70_complete_claimed": false
+}
