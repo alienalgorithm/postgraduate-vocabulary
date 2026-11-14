@@ -1,0 +1,348 @@
+{
+  "passed": true,
+  "requested_book_range": [
+    "37",
+    "70"
+  ],
+  "release_id": 445473950,
+  "release_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/tag/books37-70-review-4k-v1",
+  "direct_download_url": "https://github.com/alienalgorithm/postgraduate-vocabulary/releases/download/books37-70-review-4k-v1/37-70-4K-REVIEW.zip",
+  "prerelease": true,
+  "actual_entire_public_ZIP_HTTP_status": 200,
+  "actual_entire_public_ZIP_bytes": 517167146,
+  "actual_entire_public_ZIP_sha256": "c94609cafdaa350b8acc99d9da23ef9207373287301673215df479ebadffc71e",
+  "ZIP_entry_count": 35,
+  "ZIP_CRC_errors": 0,
+  "all34_MP4_sizes_and_sha256_exact": true,
+  "video_count": 34,
+  "total_original_MP4_bytes": 517092361,
+  "inherited_full_V3_passed_count": 24,
+  "historical_full_QA_pending_count": 10,
+  "all34_final_or_full_QA_passed_claimed": false,
+  "media_changed": false,
+  "native_identity": {
+    "passed": true,
+    "repo": "alienalgorithm/postgraduate-vocabulary",
+    "actual_native_run": 43622325597,
+    "actual_native_head": "20a0ee961e6e163b8c6019b28c648570c0998d30",
+    "actual_artifact_id": 14123859807,
+    "actual_artifact_zip_bytes": 881,
+    "actual_artifact_zip_sha256": "3011e80b6254221c23400238306b581a3558927525886881440212c537748faf",
+    "actual_artifact_CRC_errors": 0,
+    "actual_publisher_sha256": "a7f89a03d8bef95ed6574d63ca49882e4c62004cce74b720099f57067463d4d7",
+    "actual_manifest_sha256": "6daf3fbdc82b36628935e5a378ee71f63c2bb1c0272fcb39669de505aea690fe",
+    "actual_workflow_sha256": "fc8e04be08602d2c31a7626b7aca53b639dbcb3935b4e7c20d29cac1c465200e",
+    "actual_executed_head_files_equal_frozen_local_files": true,
+    "native_receipt_passed": true,
+    "recorded_utc": "2026-11-14T17:43:17.472414+00:00"
+  },
+  "videos": [
+    {
+      "book_order": "37",
+      "source_id": "65",
+      "name": "37 末日种子库的第一次取种.mp4",
+      "bytes": 12530393,
+      "sha256": "6bad7b012ccbad87a60ced23ada2c3162c7a561b4e72ad52362004ee3313ea8c",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "38",
+      "source_id": "19",
+      "name": "38 郁金香狂热：泡沫与传说.mp4",
+      "bytes": 16031640,
+      "sha256": "fb8828bc717aedb38605b187a85d1ef6676bf8e51504f92a5154fe839c28d6e7",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "39",
+      "source_id": "29",
+      "name": "39 一座火山，造出了《弗兰肯斯坦》.mp4",
+      "bytes": 16691614,
+      "sha256": "5774c9a0e724fcec1906fef0d5445a645624d8b9b886875a675bc615f9f12684",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "40",
+      "source_id": "43",
+      "name": "40 从车库到世界之巅.mp4",
+      "bytes": 17303283,
+      "sha256": "8a47d5f83a33f6cc09f4844ec443292e3b1a7cd27a76f93a75184b38aabefb56",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "41",
+      "source_id": "52",
+      "name": "41 夺命毒雾：伦敦1952.mp4",
+      "bytes": 14797917,
+      "sha256": "1d0cf6064c36ec7ed223956ebf98b7aabf21aa63241202f01d1895acc094b280",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "42",
+      "source_id": "48",
+      "name": "42 稻济天下.mp4",
+      "bytes": 12023138,
+      "sha256": "f7d0f02dbbdd70dbbb45a2270a8bc7c48eae820ab66d1257c14a89bf596a6c9f",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "43",
+      "source_id": "37",
+      "name": "43 炸药大王的救心药.mp4",
+      "bytes": 17210730,
+      "sha256": "decc63c0423eee0526315aa78e5a3c867300b335296006cf108891ccf1d5f174",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "44",
+      "source_id": "31",
+      "name": "44 被拒绝了十二次的哈利·波特.mp4",
+      "bytes": 15951322,
+      "sha256": "b2fbdd7c71e778ddb3967cd018a47a072961288b9d89003db642f4cecd73b903",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "45",
+      "source_id": "16",
+      "name": "45 从空气中造面包.mp4",
+      "bytes": 13219185,
+      "sha256": "88f0e80e9efa58316356eff5194295a1014e4e89878a73be5bae7d7ca39f4005",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "46",
+      "source_id": "40",
+      "name": "46 失败的胶水，成功的便利贴.mp4",
+      "bytes": 15078345,
+      "sha256": "fa7e1127ad28a778c4f8f788318e05d829692b58cca5289b2f993c0155e01498",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "47",
+      "source_id": "54",
+      "name": "47 震动世界的一声巨响.mp4",
+      "bytes": 14453615,
+      "sha256": "c9b1c7a4f5a47f3fc230cc6b2bfa44af1bdefe784e314d231cd8b06f25a6fff2",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "48",
+      "source_id": "46",
+      "name": "48 光之殇.mp4",
+      "bytes": 15818528,
+      "sha256": "53c06d04738268c80ec1c37c7c2fb2d95f431106190aaf0d3391a207a5c08dd0",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "49",
+      "source_id": "24",
+      "name": "49 冰海求生：坚忍号传奇.mp4",
+      "bytes": 16447685,
+      "sha256": "f64e6b1293b2078bd9f685dc027abb9d65c2e91f3c335b1cf2b119480c930d19",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "50",
+      "source_id": "70",
+      "name": "50 一枚邮票改变通信.mp4",
+      "bytes": 11641621,
+      "sha256": "b7a37a1ccb0e6c12229da9a0e1c6ff8c3df941f7dd15105e469859c5ff162985",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "51",
+      "source_id": "38",
+      "name": "51 林下之网.mp4",
+      "bytes": 16686063,
+      "sha256": "2759745c1ec42639269188054473621a595eefc10e9f0ff58bf90425075a776e",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "52",
+      "source_id": "09",
+      "name": "52 向鸸鹋宣战.mp4",
+      "bytes": 15965496,
+      "sha256": "ba91acf6a53bbc0b1b4600b6d3c71b6a5300ffc2bc57c70319ec43b1bccba9d3",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "53",
+      "source_id": "68",
+      "name": "53 兴登堡号的 34 秒.mp4",
+      "bytes": 12596883,
+      "sha256": "2f0714a25bde75b30a5af5273edad433467957baec359cca4b55b0a7b9a3b1ad",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "54",
+      "source_id": "35",
+      "name": "54 比信先到家的鸟.mp4",
+      "bytes": 16769101,
+      "sha256": "977f7431e4f2cde5781e1d037aac1a458e0bb2dc5862ff1fc777fe34aee3e20a",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "55",
+      "source_id": "30",
+      "name": "55 大恶臭逼出了下水道.mp4",
+      "bytes": 12108456,
+      "sha256": "0f2f4c685f2f2646c12b8cf44631b5bd30140351351f9e1e12deed8495c26d48",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "56",
+      "source_id": "69",
+      "name": "56 原子弹之父的审判.mp4",
+      "bytes": 12995410,
+      "sha256": "87a3dd8e2687cf1ff8eaad43eb925d21de6bdb47dad1442af3bce18b8c14a25c",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "57",
+      "source_id": "66",
+      "name": "57 一颗刺果钩出的发明.mp4",
+      "bytes": 11071083,
+      "sha256": "08abaad8f83ef3ea45e597a23079fed2bc8e3b65cced1eb44a1f0a0421827153",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "58",
+      "source_id": "08",
+      "name": "58 破解霍乱之谜的医生.mp4",
+      "bytes": 16012252,
+      "sha256": "9ce6fc8c0ed172d765286310c27a9b27635eb4a7b87bf6e61307582ce29d1ec0",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "59",
+      "source_id": "63",
+      "name": "59 拥挤的苍穹.mp4",
+      "bytes": 17054477,
+      "sha256": "e2d282907c01f420459e21b9c2e80f2fb51944b451d0b3cab87d832d4a478001",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "60",
+      "source_id": "32",
+      "name": "60 被降级的冥王星.mp4",
+      "bytes": 15936335,
+      "sha256": "3c29440cd79bbe6e0d6827cf95341591e6e8c8fa48906aeafe917f465053d44b",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "61",
+      "source_id": "57",
+      "name": "61 鲸歌易帜.mp4",
+      "bytes": 16310231,
+      "sha256": "da89e41e5191d2111dbdfee0ae532cb32f3b5b673c8730a793ae6cc48a103921",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "62",
+      "source_id": "23",
+      "name": "62 为机器点燃思想的人.mp4",
+      "bytes": 15822512,
+      "sha256": "931da3f453066883983d069120969d89f8512ea35eb6801f1d929b37ed3c6067",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "63",
+      "source_id": "64",
+      "name": "63 没有到来的零日.mp4",
+      "bytes": 16280492,
+      "sha256": "78ef9444e6a65a07ed934c8f9b7f7b51dbcb6d0d6e783db9f61b99a5659b40c9",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "64",
+      "source_id": "18",
+      "name": "64 改变人类命运的霉菌.mp4",
+      "bytes": 13738567,
+      "sha256": "4f81d5abd6744efce64bf42d5a1a79cbd9927fec646848f70a7867cc97239e9f",
+      "review_status": "pending_full_QA_and_user_individual_review_not_a_final",
+      "inherited_full_V3_passed": false
+    },
+    {
+      "book_order": "65",
+      "source_id": "56",
+      "name": "65 一封信惊醒了达尔文.mp4",
+      "bytes": 17043857,
+      "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "66",
+      "source_id": "41",
+      "name": "66 入侵澳洲的毒蟾.mp4",
+      "bytes": 16345960,
+      "sha256": "7971e2bb25b4feb6e52b0cce11b360941157cbdf78360b0ee4f36c5670319ff2",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "67",
+      "source_id": "58",
+      "name": "67 从一道划痕到天花绝迹.mp4",
+      "bytes": 16737453,
+      "sha256": "d47b9807105b5433cf93e120aad64cf17ba2805720ada9bdade33c63745db75f",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "68",
+      "source_id": "25",
+      "name": "68 阿波罗13号：成功的失败.mp4",
+      "bytes": 15961042,
+      "sha256": "88609ba7641873b55044a23708453dac2057b6a7f2578fb163f0db51eec23eac",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "69",
+      "source_id": "59",
+      "name": "69 拯救天空.mp4",
+      "bytes": 16696825,
+      "sha256": "4123ab84d6cf0346f6dc81058860bb3d28b89a7fb1f1410cbd3c7a8aff77943d",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    },
+    {
+      "book_order": "70",
+      "source_id": "45",
+      "name": "70 写给外星人的一张唱片.mp4",
+      "bytes": 15760850,
+      "sha256": "96af2c088e534c311ae4d67088835598d9d4a2f795c84fa4ac06759d49bf2b66",
+      "review_status": "pending_user_individual_review",
+      "inherited_full_V3_passed": true
+    }
+  ],
+  "recorded_utc": "2026-11-14T17:43:17.472414+00:00"
+}

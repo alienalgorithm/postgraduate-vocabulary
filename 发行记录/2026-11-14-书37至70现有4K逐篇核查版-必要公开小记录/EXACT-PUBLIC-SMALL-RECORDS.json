@@ -1,0 +1,192 @@
+{
+  "kind": "exact-public-books37-70-review-completed-publication-small-records",
+  "created_utc": "2026-11-14T17:52:15.409603+00:00",
+  "publication_scope": {
+    "review_not_final": true,
+    "book_range": [
+      "37",
+      "70"
+    ],
+    "video_count": 34,
+    "inherited_full_V3_count": 24,
+    "historical_full_QA_pending_count": 10,
+    "all34_final_or_current_QA_passed_claimed": false,
+    "prerelease": true,
+    "release_id": 445473950,
+    "native_run": 43622325597,
+    "native_head": "20a0ee961e6e163b8c6019b28c648570c0998d30"
+  },
+  "sole_small_artifact_ZIP": {
+    "artifact_id": 14123859807,
+    "bytes": 881,
+    "sha256": "3011e80b6254221c23400238306b581a3558927525886881440212c537748faf",
+    "CRC_valid": true,
+    "members": [
+      "RELEASE-VERIFICATION.json"
+    ],
+    "original_receipt_bytes_exact": true
+  },
+  "root_existing_full_public_ZIP_observation_reused_without_repeating_HTTP": {
+    "bytes": 517167146,
+    "sha256": "c94609cafdaa350b8acc99d9da23ef9207373287301673215df479ebadffc71e",
+    "CRC_errors": 0,
+    "all34_MP4_SHA_exact_recorded": true
+  },
+  "original_prepublication_flags_preserved_as_historical_not_current_status": true,
+  "files": [
+    {
+      "archive_relative_path": "公开发行记录/publish_review.py",
+      "original_record_name": "publish_review.py",
+      "bytes": 10624,
+      "sha256": "a7f89a03d8bef95ed6574d63ca49882e4c62004cce74b720099f57067463d4d7",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/publish-review.yml",
+      "original_record_name": "publish-review.yml",
+      "bytes": 1015,
+      "sha256": "fc8e04be08602d2c31a7626b7aca53b639dbcb3935b4e7c20d29cac1c465200e",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/MANIFEST.json",
+      "original_record_name": "MANIFEST.json",
+      "bytes": 69939,
+      "sha256": "6daf3fbdc82b36628935e5a378ee71f63c2bb1c0272fcb39669de505aea690fe",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/ACTUAL-EXISTING-VIDEO-INVENTORY.json",
+      "original_record_name": "ACTUAL-EXISTING-VIDEO-INVENTORY.json",
+      "bytes": 68921,
+      "sha256": "6f5414f7d24e0b210f34217aa8e305b9bb4c53196f34c6925d27dba55f1b9ce4",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/RUN.json",
+      "original_record_name": "RUN.json",
+      "bytes": 15282,
+      "sha256": "aafa88a09f79350bdc6e3437ba518f90e8ffd263782fe0ffa3dc6cf61f93f599",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/ACTUAL-NATIVE-PUBLICATION-IDENTITY.json",
+      "original_record_name": "ACTUAL-NATIVE-PUBLICATION-IDENTITY.json",
+      "bytes": 824,
+      "sha256": "f9fb118cc7963e46dbb24400d1db3f1332e0dc364578821f02d61b841fc3806b",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/RELEASE-VERIFICATION.json",
+      "original_record_name": "RELEASE-VERIFICATION.json",
+      "bytes": 1379,
+      "sha256": "58954187940355bea252ad61925a36c0614d95ecf5693eab3d58e8d9258f86c5",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/native-release-verification.zip",
+      "original_record_name": "native-release-verification.zip",
+      "bytes": 881,
+      "sha256": "3011e80b6254221c23400238306b581a3558927525886881440212c537748faf",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/PUBLIC-RELEASE-OBSERVATION.json",
+      "original_record_name": "PUBLIC-RELEASE-OBSERVATION.json",
+      "bytes": 12921,
+      "sha256": "59f3d392d2b41e8af5ad54c027076010e6aa454c6f81e850c5b6601f3264c865",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/build_actual_review_manifest.py",
+      "original_record_name": "build_actual_review_manifest.py",
+      "bytes": 3141,
+      "sha256": "477832048ea6ce623e81f0da4f8a0e600ec92f502e2c1baa5db7f8d98404a0c7",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/inventory_existing_review_videos.py",
+      "original_record_name": "inventory_existing_review_videos.py",
+      "bytes": 6754,
+      "sha256": "7d4afc55f1547cc4344ba2a08bb5c8a24e12f63f05ef29a39cf27ea1912b0cb0",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/push_review_publisher.py",
+      "original_record_name": "push_review_publisher.py",
+      "bytes": 10534,
+      "sha256": "aa7f243e94eb7fe8eb91a92190eb5f61e13c982c520bc155ff9897d5cca525ce",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/verify_actual_review_publication.py",
+      "original_record_name": "verify_actual_review_publication.py",
+      "bytes": 9432,
+      "sha256": "d9f5fbe851c0ecd27547460374900660f07be39669fc5b7fc9e1b776105fdc4a",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/ACTUAL-TRIGGER-DUAL-SAVE-PUBLIC-GIT-FACTS.json",
+      "original_record_name": "derived public Git facts only; original retained locally",
+      "bytes": 2533,
+      "sha256": "287596056d8a2e1112a6f7b57b8c7571efe0139a82ef0638bfc51f793f6866f2",
+      "original_bytes_preserved": false
+    },
+    {
+      "archive_relative_path": "公开发行记录/PUBLICATION-PROFILE-PUBLIC-FACTS.json",
+      "original_record_name": "derived preparation-stage public facts; directory original retained locally",
+      "bytes": 666,
+      "sha256": "d2d0363b261365762b20e429fc5b3eee2ee6ae9869cea8feda628a6cf9d4724e",
+      "original_bytes_preserved": false
+    },
+    {
+      "archive_relative_path": "仅物流程序/archive_batch.py",
+      "original_record_name": "archive_batch.py",
+      "bytes": 16932,
+      "sha256": "01d081c2148f17ce1bd644b90e3d37ebb46077282b360f5a6ae919e4b0b541c6",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "仅物流程序/verify_closed_small_record_asset.original.py",
+      "original_record_name": "verify_closed_small_record_asset.original.py",
+      "bytes": 4694,
+      "sha256": "ff271743f88d12150de7b44402796d8a26a6c73e6677da385f3a039399f7435f",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "仅物流程序/verify_closed_small_record_asset.py",
+      "original_record_name": "verify_closed_small_record_asset.py",
+      "bytes": 4005,
+      "sha256": "c1b296759bdf7a8bc1271a60502e2e234ec95d93c28639304216aea53caf8efe",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "仅物流程序/original-and-actual-logistics-code-identities.json",
+      "original_record_name": "logistics identity observation",
+      "bytes": 508,
+      "sha256": "dbb4772707c0243f84bb52bb8647e457776131b12940cd297ff6469adce8ca67",
+      "original_bytes_preserved": false
+    }
+  ],
+  "excluded": [
+    {
+      "item": "517167146-byte public review main ZIP and all MP4/PNG/PCM/GT/PDF/models/caches",
+      "not_opened_or_copied": true
+    },
+    {
+      "item": "ROOT aggregate/live state, refused055/056 raw or same derived payload",
+      "not_opened_or_copied": true
+    },
+    {
+      "item": "ACTUAL-TRIGGER-DUAL-SAVE.json and PUBLICATION-PROFILE.json originals",
+      "raw_originals_retained_locally": true,
+      "public_Git_or_profile_facts_only": true
+    },
+    {
+      "item": "TRANSPORT-ATTEMPT-c7d77ddb4ad84f36bdee32c8dd82ae42.json and __pycache__",
+      "not_copied": true
+    }
+  ],
+  "new_media_rendering_or_QA_or_HTTP_observer_performed": false,
+  "canonical_refs_or_Releases_touched": false
+}

@@ -1,0 +1,62 @@
+{
+  "kind": "minimal-public-publisher-source-dual-save-Git-facts",
+  "publisher_repository": "alienalgorithm/postgraduate-vocabulary",
+  "publisher_commit": "20a0ee961e6e163b8c6019b28c648570c0998d30",
+  "publisher_code_sha256": "a7f89a03d8bef95ed6574d63ca49882e4c62004cce74b720099f57067463d4d7",
+  "manifest_sha256": "6daf3fbdc82b36628935e5a378ee71f63c2bb1c0272fcb39669de505aea690fe",
+  "workflow_sha256": "fc8e04be08602d2c31a7626b7aca53b639dbcb3935b4e7c20d29cac1c465200e",
+  "archives": [
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/books37-70-review-4k-v1",
+      "commit": "20a0ee961e6e163b8c6019b28c648570c0998d30",
+      "tree_sha": "3cdeb3eb95bfc1a8e0b8d567229840ace6f25e28",
+      "immutable_raw_files": [
+        {
+          "repo_path": ".github/books37-70-review-release/MANIFEST.json",
+          "bytes": 69939,
+          "sha256": "6daf3fbdc82b36628935e5a378ee71f63c2bb1c0272fcb39669de505aea690fe",
+          "exact_local_bytes": true
+        },
+        {
+          "repo_path": ".github/books37-70-review-release/publish_review.py",
+          "bytes": 10624,
+          "sha256": "a7f89a03d8bef95ed6574d63ca49882e4c62004cce74b720099f57067463d4d7",
+          "exact_local_bytes": true
+        },
+        {
+          "repo_path": ".github/workflows/publish-books37-70-review-4k.yml",
+          "bytes": 1015,
+          "sha256": "fc8e04be08602d2c31a7626b7aca53b639dbcb3935b4e7c20d29cac1c465200e",
+          "exact_local_bytes": true
+        }
+      ]
+    },
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/books37-70-review-4k-v1",
+      "commit": "20a0ee961e6e163b8c6019b28c648570c0998d30",
+      "tree_sha": "3cdeb3eb95bfc1a8e0b8d567229840ace6f25e28",
+      "immutable_raw_files": [
+        {
+          "repo_path": ".github/books37-70-review-release/MANIFEST.json",
+          "bytes": 69939,
+          "sha256": "6daf3fbdc82b36628935e5a378ee71f63c2bb1c0272fcb39669de505aea690fe",
+          "exact_local_bytes": true
+        },
+        {
+          "repo_path": ".github/books37-70-review-release/publish_review.py",
+          "bytes": 10624,
+          "sha256": "a7f89a03d8bef95ed6574d63ca49882e4c62004cce74b720099f57067463d4d7",
+          "exact_local_bytes": true
+        },
+        {
+          "repo_path": ".github/workflows/publish-books37-70-review-4k.yml",
+          "bytes": 1015,
+          "sha256": "fc8e04be08602d2c31a7626b7aca53b639dbcb3935b4e7c20d29cac1c465200e",
+          "exact_local_bytes": true
+        }
+      ]
+    }
+  ]
+}

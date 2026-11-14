@@ -1,0 +1,16 @@
+{
+  "kind": "local_prepared_existing_video_individual_review_publisher",
+  "requested_book_range": [
+    "37",
+    "70"
+  ],
+  "branch": "codex/books37-70-review-4k-v1",
+  "tag": "books37-70-review-4k-v1",
+  "zip_name": "37-70-4K-REVIEW.zip",
+  "code_repo_path": ".github/books37-70-review-release/publish_review.py",
+  "manifest_repo_path": ".github/books37-70-review-release/MANIFEST.json",
+  "workflow_repo_path": ".github/workflows/publish-books37-70-review-4k.yml",
+  "native_publication_executed": false,
+  "root_inventory_and_scope_confirmation_pending": true,
+  "actual_inventory_sha256": "6f5414f7d24e0b210f34217aa8e305b9bb4c53196f34c6925d27dba55f1b9ce4"
+}
