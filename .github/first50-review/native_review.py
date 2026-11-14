@@ -22,7 +22,7 @@ def main():
  if os.environ.get('GITHUB_REPOSITORY')!=REPO:
   print('Backup contains source records only; publication runs in the primary repository.');return
  n=json.loads((HERE/'NATIVE-INPUT.json').read_text());m=json.loads((HERE/'MANIFEST.json').read_text());z=n['ZIP'];assert hashlib.sha256((HERE/'MANIFEST.json').read_bytes()).hexdigest()==n['manifest_sha256'];assert m['video_count']==40 and len(m['videos'])==40 and len(m['pending'])==10
- pdf=OUT/'考研学人.pdf';h=hashlib.sha256();total=0
+ pdf=OUT/n['uploaded_attachments'][0]['name'];h=hashlib.sha256();total=0
  with pdf.open('wb')as out:
   for part in n['published_pdf']['parts']:
    ph=hashlib.sha256();size=0
@@ -42,7 +42,7 @@ def main():
   def tell(self):return self.count
   def seek(self,*a):raise OSError('Match original deterministic streaming ZIP')
   def flush(self):self.target.flush()
- bundle=OUT/z['name']
+ bundle=OUT/n['uploaded_attachments'][1]['name']
  with bundle.open('wb')as sink,zipfile.ZipFile(NonSeek(sink),'w',compression=zipfile.ZIP_STORED,allowZip64=True)as archive:
   members=[(pdf,'考研学人.pdf',m['PDF'])]+[(Path(paths[v['source_id']]),'4K视频/'+v['name'],v)for v in m['videos']]
   for path,name,spec in members:
@@ -54,7 +54,7 @@ def main():
   for path,name,spec in members:
    with archive.open(name)as source:assert hashlib.file_digest(source,'sha256').hexdigest()==spec['sha256']
  print('40 true new4K videos + PDF: exact ZIP, all41 member SHA/CRC verified',flush=True)
- release=api('releases/'+str(n['release_id']));assert release['tag_name']==m['new_release_tag']and n['manifest_sha256']in(release.get('body')or'');expected=[{k:m['PDF'][k]for k in('name','bytes','sha256')},z]
+ release=api('releases/'+str(n['release_id']));assert release['tag_name']==m['new_release_tag']and n['manifest_sha256']in(release.get('body')or'');expected=n['uploaded_attachments']
  for path,e in zip([pdf,bundle],expected):
   assets=api('releases/'+str(release['id'])+'/assets?per_page=100');assert{a['name']for a in assets}<={v['name']for v in expected};match=next((a for a in assets if a['name']==e['name']),None)
   if match is None:subprocess.run(['gh','release','upload',m['new_release_tag'],str(path),'--repo',REPO],check=True)
