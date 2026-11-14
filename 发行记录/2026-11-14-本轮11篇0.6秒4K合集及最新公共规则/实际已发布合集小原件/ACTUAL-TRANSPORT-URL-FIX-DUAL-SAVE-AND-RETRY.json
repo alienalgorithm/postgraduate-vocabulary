@@ -1,0 +1,20 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "commit": "81add01198ff46ecd97abc65e47c384ffd4b0194",
+      "publisher_sha256": "51b5ce707c37112f6a94b1a3567321629c9130347b7c6eb3c9fb7d8822c770e9",
+      "manifest_unchanged_sha256": "3aa7cc81c382a07149dc6482307cc7440f2df50c9ebeceef7dc45384565a034a",
+      "actual_immutable_code_exact": true
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "commit": "be4bfa3b959eaf57224efb30e2e103c0b5f9672a",
+      "publisher_sha256": "51b5ce707c37112f6a94b1a3567321629c9130347b7c6eb3c9fb7d8822c770e9",
+      "manifest_unchanged_sha256": "3aa7cc81c382a07149dc6482307cc7440f2df50c9ebeceef7dc45384565a034a",
+      "actual_immutable_code_exact": true
+    }
+  ],
+  "failed_run": 43590440805,
+  "error": "stale draft asset browser URL after publishing; no video or ZIP file content changed"
+}

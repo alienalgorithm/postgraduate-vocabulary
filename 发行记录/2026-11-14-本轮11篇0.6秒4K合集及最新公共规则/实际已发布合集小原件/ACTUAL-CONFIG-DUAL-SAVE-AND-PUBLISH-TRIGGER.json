@@ -1,0 +1,22 @@
+{
+  "archives": [
+    {
+      "repo": "AlienCodes/literate-enigma",
+      "branch": "codex/reviewed-eleven-hold06-4k-v1",
+      "commit": "884851933f40d1718243b4439394f0df317c4b1c",
+      "manifest_sha256": "3aa7cc81c382a07149dc6482307cc7440f2df50c9ebeceef7dc45384565a034a",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": false
+    },
+    {
+      "repo": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "codex/reviewed-eleven-hold06-4k-v1",
+      "commit": "7fbabdf3e00401c74632ebb79d5e66710de80d4d",
+      "manifest_sha256": "3aa7cc81c382a07149dc6482307cc7440f2df50c9ebeceef7dc45384565a034a",
+      "actual_immutable_bytes_exact": true,
+      "triggers_primary_native_publisher": true
+    }
+  ],
+  "actual_video_count": 11,
+  "actual_total_MP4_bytes": 182218157
+}

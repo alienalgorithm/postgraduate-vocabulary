@@ -1,0 +1,341 @@
+{
+  "kind": "actual-append-only-AGENTS-public-user-rules-doc-commit-verification",
+  "observed_utc": "2026-11-14T11:45:20.829486+00:00",
+  "archives": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "branch": "main",
+      "previous_commit": "cfd094489817a9baf3f4218c8de25e141e00648a",
+      "commit": "3894e845474fd848d990257568f2ceb4c5048f3f",
+      "single_changed_file": "AGENTS.md",
+      "original_full_document_prefix_preserved": true,
+      "exact_new_document_sha256": "32ce2033398d94e8d7db463ca0bd4980531c83da4cca79e5eedf5e4723f4397b",
+      "new_Git_blob_SHA": "6bd9d298c2816f0235443dd7983067a2fbb43215",
+      "new_bytes": 3254,
+      "video_archive_directory_and_cumulative_index_tree_unchanged": true,
+      "all_other_root_entries_including_PDF_trees_preserved": true,
+      "actual_all_unchanged_root_entries": {
+        ".gitattributes": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "eb37bdd237136c413458fcaebef6004efdb6442d"
+        },
+        ".github": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "79c00a49210aa9e42859856fad1cc832ba4d30fe"
+        },
+        ".gitignore": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "cdb80ab36181a7e73004fd5de0dff7a1b5dccdca"
+        },
+        ".nojekyll": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7eda7b742811f2e1b6682d70eaeafbc5dfd5db46"
+        },
+        "404.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "da9bcfb64483b5930d76ddb789b44c88e3ec3ac0"
+        },
+        "B站封面": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "abb9d322b67ac79b692eee488df9b8d67bf60e5c"
+        },
+        "CLAUDE.md": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "5f3abe96d9946b2330df76597b1af6ff784f3331"
+        },
+        "README.md": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "01045d8052cc8e6b7fd074dae24dee805aac8478"
+        },
+        "article.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "92b3cc081f8463493e5a389c04c1d19ca8fc9271"
+        },
+        "articles": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "202558920cceae22c1c9839a91de33a0fb8a1d64"
+        },
+        "assets": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "d39a1e059a105e4dfd88fc32189aa7ef1c8c85c7"
+        },
+        "data": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "58ea4263598be80e57e252d699797232e5083ca4"
+        },
+        "exports": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "99e161d27a952384f56acb76991b345583a83883"
+        },
+        "index.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "4f58deeec78fd1a51f4b545227a695117a4a3874"
+        },
+        "listen.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "29c50c7c562636ae5cfec68b004371ac4964bc15"
+        },
+        "manifest.webmanifest": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3f54e7cdd5a9455a2db1d09f6a82a1b46a01f0bc"
+        },
+        "notes": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "e3f699fe10d28a7dc08322e40e0b024734bde8c7"
+        },
+        "reader": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "73813fdd316926b80e159ac307a4b0fa8bcc2b68"
+        },
+        "robots.txt": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "5fa11870e3ea6ca543b51d2e1bcb37ec95f6e780"
+        },
+        "scripts": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "5fe390d1364837da5cb09dbdb8ef636d8dc66636"
+        },
+        "sitemap.xml": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "b2d410be02eb9ba3ad3c1f66244fec391944e408"
+        },
+        "tools": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "6ca661f4f763002f2649eb31b73a51996993e315"
+        },
+        "watch.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "56407b53b1662fee4c2d9a44aab8fc9ecb48ff2a"
+        },
+        "words.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a336cb352784255e5de8691d6f7069d60cd11c70"
+        },
+        "成果归档": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "1127fd929eb11be6ec463ec9479cbad2b011a483"
+        },
+        "插图阅读小册": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "0cb22c83d0d64ab4e64f5098abbcee115e39cd17"
+        },
+        "新版定稿": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "6ab3f788ce656a84c50457d3b8da95aec5ab19e5"
+        },
+        "最终版4K视频": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "99994c55e25261d3968555b7b8450b953b5c7b0d"
+        },
+        "朋克英语署名版": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "c45bb71fb1b6b15650630edd89f774f619fc865f"
+        },
+        "简述重制核验": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "59d54a372226543dc6cf9d0b33af211c4fee292d"
+        },
+        "简述重制预览": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "6859781335d506a580a6a3595ae050581ca6a36d"
+        },
+        "素材库": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "7ff14469a20d2b166a93d4dbde3d8bbc15cdc074"
+        },
+        "考研学人印刷版": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "1b7adc77b04b8274b34bbf0039aead3a34f1574e"
+        },
+        "考研英语精读-70篇.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "273ca028d62063dc89b560bbd9761efe3f7d6370"
+        },
+        "视频": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "3a3e7d58917b067cc7b420d3e87fa71cddc6e6ab"
+        },
+        "视频修订定稿": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "3b3da4c041404e7006fd1d072dd1f36ab1979fc8"
+        },
+        "顺序重排版": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "547bc5970cbcc190d53bf9061b99084853eee2a3"
+        }
+      }
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "branch": "codex/all-deliverables-20261113",
+      "previous_commit": "3352873db279d8bc008d1a5a34c990d325aa3f33",
+      "commit": "d1b866af22b3acec973300285584a789acb2456d",
+      "single_changed_file": "AGENTS.md",
+      "original_full_document_prefix_preserved": true,
+      "exact_new_document_sha256": "88909355735c322e6290d6d06f3cb497dffe4021f9b5d2fb0f81161f32ccf331",
+      "new_Git_blob_SHA": "589e817a1429284604c44e3816aeece6b4e43038",
+      "new_bytes": 2374,
+      "video_archive_directory_and_cumulative_index_tree_unchanged": true,
+      "all_other_root_entries_including_PDF_trees_preserved": true,
+      "actual_all_unchanged_root_entries": {
+        ".claude": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "43f00db0e90e405d8adcc86b5df75e39258998e9"
+        },
+        ".gitattributes": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "c0609c4890cd3124cff3dba1efd653eacbf2b2a5"
+        },
+        ".github": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "a01a8946a2cb3fdd6f9d963620f95ca830e5278b"
+        },
+        ".gitignore": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "402a2a05d9004b1b2697f89d3a21676d5722af1e"
+        },
+        "B站封面": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "ebc06a5385f170190299c81030eabf55e07f93e7"
+        },
+        "CLAUDE.md": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "5f3abe96d9946b2330df76597b1af6ff784f3331"
+        },
+        "README.md": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "9a7ebb2aa931c6bc873ffb8f17cc38d308c92e96"
+        },
+        "工作底稿": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "4c2eaccbc3353eeb50f0bff2fd1ecd665ef2c995"
+        },
+        "成果归档": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "1127fd929eb11be6ec463ec9479cbad2b011a483"
+        },
+        "插图阅读小册": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "0cb22c83d0d64ab4e64f5098abbcee115e39cd17"
+        },
+        "改门待演练": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "aba3733fd19d7cfe46d4bf0bddb050cdf31d5662"
+        },
+        "新版定稿": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "6ab3f788ce656a84c50457d3b8da95aec5ab19e5"
+        },
+        "新管": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "d940ddba8011c429f6f34aefc4d3977a93d48da3"
+        },
+        "最终版4K视频": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "99994c55e25261d3968555b7b8450b953b5c7b0d"
+        },
+        "朋克英语署名版": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "c45bb71fb1b6b15650630edd89f774f619fc865f"
+        },
+        "样片": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "ca1aef38ee3e99de72277aea011d009a09be58af"
+        },
+        "简述重制核验": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "59d54a372226543dc6cf9d0b33af211c4fee292d"
+        },
+        "简述重制预览": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "6859781335d506a580a6a3595ae050581ca6a36d"
+        },
+        "素材库": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "7ff14469a20d2b166a93d4dbde3d8bbc15cdc074"
+        },
+        "考研学人印刷版": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "1b7adc77b04b8274b34bbf0039aead3a34f1574e"
+        },
+        "考研英语精读-70篇.html": {
+          "mode": "100644",
+          "type": "blob",
+          "sha": "273ca028d62063dc89b560bbd9761efe3f7d6370"
+        },
+        "视频": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "3a3e7d58917b067cc7b420d3e87fa71cddc6e6ab"
+        },
+        "视频修订定稿": {
+          "mode": "040000",
+          "type": "tree",
+          "sha": "3b3da4c041404e7006fd1d072dd1f36ab1979fc8"
+        }
+      }
+    }
+  ],
+  "backup_master_unchanged": "6355a02864ebae616b693200d9d26f74f5da80e9",
+  "only_MD_read_and_changed_no_PDF_file_access": true,
+  "media_source_QA_or_final_alias_modified": false,
+  "internal_ROOT_state_or_restricted_registry_payload_included": false,
+  "backup_initial_connector_internal_error_verified_no_mutation_before_one_retry": true
+}

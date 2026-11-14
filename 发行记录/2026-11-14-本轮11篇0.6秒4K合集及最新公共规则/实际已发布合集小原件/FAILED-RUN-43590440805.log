@@ -1,0 +1,37 @@
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	﻿2026-11-14T11:31:45.4230946Z ##[group]Run python -u .github/reviewed-eleven-hold06-release/publish_single.py
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4231951Z [36;1mpython -u .github/reviewed-eleven-hold06-release/publish_single.py[0m
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4306121Z shell: /usr/bin/bash -e {0}
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4306550Z env:
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4306860Z   pythonLocation: /opt/hostedtoolcache/Python/3.12.16/x64
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4307389Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.16/x64/lib/pkgconfig
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4307818Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.16/x64
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4308209Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.16/x64
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4308608Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.16/x64
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4309093Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.16/x64/lib
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4311302Z   GH_TOKEN: ***
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:31:45.4311540Z ##[endgroup]
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8492681Z Traceback (most recent call last):
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8499045Z   File "/home/runner/work/postgraduate-vocabulary/postgraduate-vocabulary/.github/reviewed-eleven-hold06-release/publish_single.py", line 113, in <module>
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8499792Z     main()
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8500216Z   File "/home/runner/work/postgraduate-vocabulary/postgraduate-vocabulary/.github/reviewed-eleven-hold06-release/publish_single.py", line 103, in main
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8500726Z     with urllib.request.urlopen(asset['browser_download_url'],timeout=180) as response:
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8501049Z          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8501391Z   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py", line 215, in urlopen
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8769636Z     return opener.open(url, data, timeout)
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8770739Z            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8771433Z   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py", line 521, in open
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8771799Z     response = meth(req, response)
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8772255Z                ^^^^^^^^^^^^^^^^^^^
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8772602Z   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py", line 630, in http_response
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8772932Z     response = self.parent.error(
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8773198Z                ^^^^^^^^^^^^^^^^^^
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8773898Z   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py", line 559, in error
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8774329Z     return self._call_chain(*args)
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8774507Z            ^^^^^^^^^^^^^^^^^^^^^^^
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8774868Z   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py", line 492, in _call_chain
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8775350Z     result = func(*args)
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8775518Z              ^^^^^^^^^^^
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8775950Z   File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py", line 639, in http_error_default
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8776965Z     raise HTTPError(req.full_url, code, msg, hdrs, fp)
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8777349Z urllib.error.HTTPError: HTTP Error 404: Not Found
+publish	Verify all eleven archived MP4s and publish unchanged ZIP	2026-11-14T11:32:00.8914775Z ##[error]Process completed with exit code 1.
