@@ -19,6 +19,8 @@ def download(spec,path):
  assert n==spec['bytes']and h.hexdigest()==spec['sha256'],spec['repo_path'];return path
 
 def main():
+ if os.environ.get('GITHUB_REPOSITORY')!=REPO:
+  print('Backup contains source records only; publication runs in the primary repository.');return
  n=json.loads((HERE/'NATIVE-INPUT.json').read_text());m=json.loads((HERE/'MANIFEST.json').read_text());z=n['ZIP'];assert hashlib.sha256((HERE/'MANIFEST.json').read_bytes()).hexdigest()==n['manifest_sha256'];assert m['video_count']==40 and len(m['videos'])==40 and len(m['pending'])==10
  pdf=OUT/'考研学人.pdf';h=hashlib.sha256();total=0
  with pdf.open('wb')as out:
