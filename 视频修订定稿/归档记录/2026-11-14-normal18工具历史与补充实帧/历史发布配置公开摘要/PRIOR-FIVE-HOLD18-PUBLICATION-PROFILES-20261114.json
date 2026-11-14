@@ -1,0 +1,112 @@
+{
+  "kind": "public_profile_point_in_time_summary_with_internal_directory_field_removed",
+  "rows": [
+    {
+      "slug": "zombie-ants",
+      "source_id": "14",
+      "book_order": "21",
+      "reviewed_terms": [
+        "fungal",
+        "fungus",
+        "spores",
+        "foraging",
+        "imaging",
+        "muscle fibres",
+        "episode",
+        "parasite"
+      ],
+      "release_name": "21-The-Fungus-That-Turns-Ants-into-Zombies-4K.mp4",
+      "tag": "zombie-ants-reviewed-4k-v2",
+      "branch": "codex/reviewed-zombie-ants-4k-v2",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "old_v1_directory_or_release_unchanged": true,
+      "code_sha256": "c662a7cd6b08103565185464ff11eeb88e3da441fe618a168eddaca1e513ac2d",
+      "workflow_sha256": "5ab9381117e582ce95eb2c3c847f936510fa5e9287f2bb70451deff1f57f3b82",
+      "code_repo_path": ".github/zombie-ants-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-zombie-ants-4k.yml"
+    },
+    {
+      "slug": "forbidden-zone",
+      "source_id": "27",
+      "book_order": "22",
+      "reviewed_terms": [
+        "nutrients"
+      ],
+      "release_name": "22-Life-in-the-Forbidden-Zone-4K.mp4",
+      "tag": "forbidden-zone-reviewed-4k-v2",
+      "branch": "codex/reviewed-forbidden-zone-4k-v2",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "old_v1_directory_or_release_unchanged": true,
+      "code_sha256": "db99b46276c1409e9bbdd0f26dd24b359f0efb1ff10420937be77e77de17d89f",
+      "workflow_sha256": "7284469aa5f2b30be6b82ec59b17a5ddad445e984bc9a0f3bfd6fd7c0a742417",
+      "code_repo_path": ".github/forbidden-zone-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-forbidden-zone-4k.yml"
+    },
+    {
+      "slug": "eleven-days",
+      "source_id": "13",
+      "book_order": "23",
+      "reviewed_terms": [
+        "logged",
+        "Guinness World Records"
+      ],
+      "release_name": "23-Eleven-Days-Without-Sleep-4K.mp4",
+      "tag": "eleven-days-reviewed-4k-v2",
+      "branch": "codex/reviewed-eleven-days-4k-v2",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "old_v1_directory_or_release_unchanged": true,
+      "code_sha256": "0a9d7e73f30e071cc39d54676856d1546aaa29aad1d24be715f6913a2cffc8a8",
+      "workflow_sha256": "b17a0d6958cc0b48ed0ab0b574669b42c8048f50e519566064eef83ca7c95d7b",
+      "code_repo_path": ".github/eleven-days-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-eleven-days-4k.yml"
+    },
+    {
+      "slug": "children-language",
+      "source_id": "26",
+      "book_order": "27",
+      "reviewed_terms": [
+        "gestures",
+        "linguist"
+      ],
+      "release_name": "27-The-Language-the-Children-Invented-4K.mp4",
+      "tag": "children-language-reviewed-4k-v2",
+      "branch": "codex/reviewed-children-language-4k-v2",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "old_v1_directory_or_release_unchanged": true,
+      "code_sha256": "9931a3f6f1a2a8bda7f3b42c461bc881082bcaa2ff89bd8b77324cb71e984613",
+      "workflow_sha256": "6d3df59dec9a93c6a0d89087ace6e7b3091650886be8c695b2cfe46ab0ce759c",
+      "code_repo_path": ".github/children-language-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-children-language-4k.yml"
+    },
+    {
+      "slug": "titanic",
+      "source_id": "15",
+      "book_order": "25",
+      "reviewed_terms": [
+        "inquiries",
+        "patrol"
+      ],
+      "release_name": "25-The-Myth-of-the-Unsinkable-4K.mp4",
+      "tag": "titanic-reviewed-4k-v2",
+      "branch": "codex/reviewed-titanic-4k-v2",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "old_v1_directory_or_release_unchanged": true,
+      "code_sha256": "52a68d937dbad7bb85b8a001823cabe2f335b84cbfba6f0c52167dd05ae728b7",
+      "workflow_sha256": "79700096c3e46831eabe5a480876b5e8b26f728daaac886fb687b71f6de94b08",
+      "code_repo_path": ".github/titanic-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-titanic-4k.yml"
+    }
+  ],
+  "historical_prepublication_flags_preserved_as_original_point_in_time": true,
+  "not_a_live_ROOT_delivery_snapshot": true
+}

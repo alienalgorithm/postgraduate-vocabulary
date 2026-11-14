@@ -1,0 +1,18 @@
+{
+  "operation": "operations-source14-normal18-v2",
+  "only_deleted_own_closed_Git_cache": "/workspace/work/video-archive-batches-20261114/operations-source14-normal18-v2/assets.git",
+  "logical_bytes_removed": 147879,
+  "dual_actual_asset_refs": [
+    {
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "actual_asset_commit": "1828c068b2cc5034b1152f1db0ef0514ed5846f9"
+    },
+    {
+      "repository": "AlienCodes/literate-enigma",
+      "actual_asset_commit": "1828c068b2cc5034b1152f1db0ef0514ed5846f9"
+    }
+  ],
+  "git_fsck_exit_code": 0,
+  "git_fsck_output": "dangling commit 1828c068b2cc5034b1152f1db0ef0514ed5846f9\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+  "payload_media_QA_manuscripts_and_all_receipts_retained": true
+}

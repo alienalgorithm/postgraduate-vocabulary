@@ -1,0 +1,57 @@
+{
+  "kind": "draft-scalar-profile-metadata-correction-no-audio-change",
+  "draft_log": "native62-profile-preparation.log",
+  "draft_bug": "The first draft gain metadata lookup used string keys; original maker gain dictionary has integer keys. This serialized two effective gains as zero in the initial scalar draft log.",
+  "correction": "Use integer keys with string fallback in preparation script; final frozen reference and actual private helper positive use S15 gains 0,-1.5,0,0,+1.5.",
+  "final_S15_group_metadata": [
+    {
+      "段": 1,
+      "增益": 0.0,
+      "停顿": 0.4,
+      "时刻": [
+        109.80499999999999,
+        111.72999999999999
+      ]
+    },
+    {
+      "段": 2,
+      "增益": -1.5,
+      "停顿": 0.4,
+      "时刻": [
+        112.11,
+        113.42908333333332
+      ]
+    },
+    {
+      "段": 3,
+      "增益": 0.0,
+      "停顿": 0.4,
+      "时刻": [
+        113.82908333333333,
+        115.09724999999999
+      ]
+    },
+    {
+      "段": 4,
+      "增益": 0.0,
+      "停顿": 0.4,
+      "时刻": [
+        115.49725,
+        116.69999999999999
+      ]
+    },
+    {
+      "段": 5,
+      "增益": 1.5,
+      "停顿": null,
+      "时刻": [
+        117.08,
+        119.58999999999999
+      ]
+    }
+  ],
+  "final_reference_sha256": "9c321f6af18fd3d57cb41e5827dd6417756d346221f69528e43ba0f4755854cf",
+  "private_WAV_sha256_unchanged": "c5330026dbc9f81d0c7546a1716b9dade9960f44311862a5feb3e4aa0749d7c3",
+  "private_AAC_sha256_unchanged": "b85f7e4c45784077f227b29a24b7cd72cef6c6160aa3783747ba708f8fda6348",
+  "formal_source_or_audio_never_modified": true
+}

@@ -1,0 +1,96 @@
+{
+  "kind": "public_profile_point_in_time_summary_with_internal_directory_field_removed",
+  "rows": [
+    {
+      "slug": "cave-rescue",
+      "source_id": "33",
+      "book_order": "30",
+      "reviewed_terms": [
+        "diver"
+      ],
+      "release_name": "30-Thirteen-in-the-Cave-4K.mp4",
+      "tag": "cave-rescue-reviewed-4k-v1",
+      "branch": "codex/reviewed-cave-rescue-4k-v1",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "code_sha256": "61eb7b784990d86c23144fd52fc998338e7920f8b872d84f4d048c79c9e11b94",
+      "workflow_sha256": "aaa1586d953eeded0a2c9402946494f7128905fb27543834ec8f733b515246f4",
+      "code_repo_path": ".github/cave-rescue-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-cave-rescue-4k.yml"
+    },
+    {
+      "slug": "yellowstone",
+      "source_id": "47",
+      "book_order": "32",
+      "reviewed_terms": [],
+      "release_name": "32-Shadows-of-Wolves-Over-Yellowstone-4K.mp4",
+      "tag": "yellowstone-reviewed-4k-v1",
+      "branch": "codex/reviewed-yellowstone-4k-v1",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "code_sha256": "453bd3f93b21e7714d321fec9837089f9808f25dfc8cb26739cff28fe21a475a",
+      "workflow_sha256": "e5b0379f6b43e9f4edc221949ff02609b6634f5ebe9831e9ebf28c5f5f8c2db8",
+      "code_repo_path": ".github/yellowstone-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-yellowstone-4k.yml"
+    },
+    {
+      "slug": "tetris",
+      "source_id": "34",
+      "book_order": "33",
+      "reviewed_terms": [],
+      "release_name": "33-The-Game-That-Escaped-the-Soviet-Union-4K.mp4",
+      "tag": "tetris-reviewed-4k-v1",
+      "branch": "codex/reviewed-tetris-4k-v1",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "code_sha256": "cf9a08ffce425cc988122b333f2d767a84739b1c72c667c4e262e651b4500941",
+      "workflow_sha256": "2192a748cc4f1c34a5ce857f5d0c5616a44f61404aad91134228c3acac2a786a",
+      "code_repo_path": ".github/tetris-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-tetris-4k.yml"
+    },
+    {
+      "slug": "dolly",
+      "source_id": "62",
+      "book_order": "34",
+      "reviewed_terms": [
+        "derived",
+        "funding",
+        "ageing"
+      ],
+      "release_name": "34-Dolly-the-Copied-Sheep-4K.mp4",
+      "tag": "dolly-reviewed-4k-v1",
+      "branch": "codex/reviewed-dolly-4k-v1",
+      "end_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "no_manifest_or_publication_yet": true,
+      "code_sha256": "54bfcb40f62ccc45c685ea7dc2e0427504d82bc788aefcd5fe833ea30354ee06",
+      "workflow_sha256": "9548963025b764a602d34e36ebccf72445de615e2bb409f78a525d3717643efe",
+      "code_repo_path": ".github/dolly-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-dolly-4k.yml"
+    },
+    {
+      "slug": "tu-youyou-pause-06-preview",
+      "source_id": "28",
+      "book_order": "29",
+      "reviewed_terms": [
+        "was named after",
+        "credit … with"
+      ],
+      "release_name": "29-Tu-Youyou-End-Pause-0.6s-4K-Preview.mp4",
+      "tag": "tu-youyou-pause-preview-4k-v2",
+      "branch": "codex/reviewed-tu-youyou-pause-06-preview-4k-v2",
+      "preview_only": true,
+      "end_reading_pause_seconds": 0.6,
+      "no_manifest_or_publication_yet": true,
+      "code_sha256": "fc6e33069e4c0bb0a363848cec068e1def1ebf941f6fde372e4f6dbde4ccd287",
+      "workflow_sha256": "983c49f0534bae842b5e270cc9534d0c29f857a8442432fad1eb2ac262fa1c59",
+      "code_repo_path": ".github/tu-youyou-pause-06-preview-release/publish_single.py",
+      "workflow_repo_path": ".github/workflows/publish-tu-youyou-pause-06-preview-4k.yml"
+    }
+  ],
+  "historical_prepublication_flags_preserved_as_original_point_in_time": true,
+  "not_a_live_ROOT_delivery_snapshot": true
+}

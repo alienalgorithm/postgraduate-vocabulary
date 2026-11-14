@@ -1,0 +1,41 @@
+{
+  "kind": "source62-real-private-native-helper-positive-and-local-negative-validation",
+  "program_sha256": "6fe3ab3f3958eecb4e7f8b0e3ccdb2ead633cb70289375fcba2085f67d94c2f0",
+  "profile_sha256": "9c321f6af18fd3d57cb41e5827dd6417756d346221f69528e43ba0f4755854cf",
+  "actual_final_source_sha256": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+  "tests": [
+    {
+      "case": "actual-final-PAY-original-cache-WAV-and-AAC-positive",
+      "exit": 0,
+      "passed": true,
+      "failing_checks": [],
+      "error": null
+    },
+    {
+      "case": "actual-local-wrong-cut3_587667-source-negative",
+      "exit": 1,
+      "rejected": true,
+      "failing_checks": [
+        "actual-entire-nonreview-source",
+        "actual-exact-one-96sample-insertion-control"
+      ]
+    },
+    {
+      "case": "actual-local-raw-clipping-and-SHA-negative",
+      "exit": 1,
+      "rejected": true,
+      "failing_checks": [
+        "exact-approved-fingerprint:actual_raw_WAV_sha256"
+      ]
+    },
+    {
+      "case": "actual-decoded-local-digital-clipping-numeric-negative",
+      "mutation_sample_s": 113.86,
+      "mutation_value": 1.0,
+      "rejected": true
+    }
+  ],
+  "native_ASR_or_4K_production_not_claimed": true,
+  "all_pcm_and_original_cache_in_dev_shm_deleted": true,
+  "formal_sources_or_shared_helpers_modified": false
+}

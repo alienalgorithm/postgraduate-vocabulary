@@ -1,0 +1,116 @@
+{
+  "kind": "closed-six-normal18-operation-Git-cache-cleanup",
+  "observed_utc": "2026-11-14T11:33:33.751199+00:00",
+  "rows": [
+    {
+      "operation": "operations-source36-normal18-029-051",
+      "only_deleted_own_closed_Git_cache": "/workspace/work/video-archive-batches-20261114/operations-source36-normal18-029-051/assets.git",
+      "logical_bytes_removed": 150284,
+      "dual_actual_asset_refs": [
+        {
+          "repository": "alienalgorithm/postgraduate-vocabulary",
+          "actual_asset_commit": "6b10c4674fdd8a9d04a060ae9e96d32d5c5ed031"
+        },
+        {
+          "repository": "AlienCodes/literate-enigma",
+          "actual_asset_commit": "6b10c4674fdd8a9d04a060ae9e96d32d5c5ed031"
+        }
+      ],
+      "git_fsck_exit_code": 0,
+      "git_fsck_output": "dangling commit 6b10c4674fdd8a9d04a060ae9e96d32d5c5ed031\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+      "payload_media_QA_manuscripts_and_all_receipts_retained": true
+    },
+    {
+      "operation": "operations-sources17-33-normal18",
+      "only_deleted_own_closed_Git_cache": "/workspace/work/video-archive-batches-20261114/operations-sources17-33-normal18/assets.git",
+      "logical_bytes_removed": 211123,
+      "dual_actual_asset_refs": [
+        {
+          "repository": "alienalgorithm/postgraduate-vocabulary",
+          "actual_asset_commit": "ccd90df3d165e0980c6c2ff9eb77a467a1804c70"
+        },
+        {
+          "repository": "AlienCodes/literate-enigma",
+          "actual_asset_commit": "ccd90df3d165e0980c6c2ff9eb77a467a1804c70"
+        }
+      ],
+      "git_fsck_exit_code": 0,
+      "git_fsck_output": "dangling commit ccd90df3d165e0980c6c2ff9eb77a467a1804c70\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+      "payload_media_QA_manuscripts_and_all_receipts_retained": true
+    },
+    {
+      "operation": "operations-source14-normal18-v2",
+      "only_deleted_own_closed_Git_cache": "/workspace/work/video-archive-batches-20261114/operations-source14-normal18-v2/assets.git",
+      "logical_bytes_removed": 147879,
+      "dual_actual_asset_refs": [
+        {
+          "repository": "alienalgorithm/postgraduate-vocabulary",
+          "actual_asset_commit": "1828c068b2cc5034b1152f1db0ef0514ed5846f9"
+        },
+        {
+          "repository": "AlienCodes/literate-enigma",
+          "actual_asset_commit": "1828c068b2cc5034b1152f1db0ef0514ed5846f9"
+        }
+      ],
+      "git_fsck_exit_code": 0,
+      "git_fsck_output": "dangling commit 1828c068b2cc5034b1152f1db0ef0514ed5846f9\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+      "payload_media_QA_manuscripts_and_all_receipts_retained": true
+    },
+    {
+      "operation": "operations-sources13-15-26-27-normal18-v2",
+      "only_deleted_own_closed_Git_cache": "/workspace/work/video-archive-batches-20261114/operations-sources13-15-26-27-normal18-v2/assets.git",
+      "logical_bytes_removed": 360425,
+      "dual_actual_asset_refs": [
+        {
+          "repository": "alienalgorithm/postgraduate-vocabulary",
+          "actual_asset_commit": "8d2fc03a94ea2641c3adddd8e6072b02852e20ec"
+        },
+        {
+          "repository": "AlienCodes/literate-enigma",
+          "actual_asset_commit": "8d2fc03a94ea2641c3adddd8e6072b02852e20ec"
+        }
+      ],
+      "git_fsck_exit_code": 0,
+      "git_fsck_output": "dangling commit 8d2fc03a94ea2641c3adddd8e6072b02852e20ec\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+      "payload_media_QA_manuscripts_and_all_receipts_retained": true
+    },
+    {
+      "operation": "operations-sources34-47-newsourceQA-normal18",
+      "only_deleted_own_closed_Git_cache": "/workspace/work/video-archive-batches-20261114/operations-sources34-47-newsourceQA-normal18/assets.git",
+      "logical_bytes_removed": 96443,
+      "dual_actual_asset_refs": [
+        {
+          "repository": "alienalgorithm/postgraduate-vocabulary",
+          "actual_asset_commit": "e88ec872f4677935b39c1810e0c22d207a71f6e4"
+        },
+        {
+          "repository": "AlienCodes/literate-enigma",
+          "actual_asset_commit": "e88ec872f4677935b39c1810e0c22d207a71f6e4"
+        }
+      ],
+      "git_fsck_exit_code": 0,
+      "git_fsck_output": "dangling commit e88ec872f4677935b39c1810e0c22d207a71f6e4\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+      "payload_media_QA_manuscripts_and_all_receipts_retained": true
+    },
+    {
+      "operation": "operations-source62-new-repaired-sourceQA-normal18",
+      "only_deleted_own_closed_Git_cache": "/workspace/work/video-archive-batches-20261114/operations-source62-new-repaired-sourceQA-normal18/assets.git",
+      "logical_bytes_removed": 96017,
+      "dual_actual_asset_refs": [
+        {
+          "repository": "alienalgorithm/postgraduate-vocabulary",
+          "actual_asset_commit": "ed930eae0c5e5fa5cf82a8e16a9f2c2e9b96cccb"
+        },
+        {
+          "repository": "AlienCodes/literate-enigma",
+          "actual_asset_commit": "ed930eae0c5e5fa5cf82a8e16a9f2c2e9b96cccb"
+        }
+      ],
+      "git_fsck_exit_code": 0,
+      "git_fsck_output": "dangling commit ed930eae0c5e5fa5cf82a8e16a9f2c2e9b96cccb\nnotice: HEAD points to an unborn branch (master)\nnotice: No default references\n",
+      "payload_media_QA_manuscripts_and_all_receipts_retained": true
+    }
+  ],
+  "total_cache_bytes_removed": 1062171,
+  "remote_refs_or_media_or_sources_or_PDF_modified": false
+}

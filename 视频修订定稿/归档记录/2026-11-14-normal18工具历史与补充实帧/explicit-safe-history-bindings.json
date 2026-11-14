@@ -1,0 +1,335 @@
+{
+  "kind": "actual-explicit-safe-tool-and-frame-history-only",
+  "recorded_utc": "2026-11-14T11:34:34.112939+00:00",
+  "exact_bindings": [
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-safe-evidence-manifest-v2.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/native62-helper-safe-evidence-manifest-v2.json",
+      "bytes": 4870,
+      "sha256": "a98cda0adbfdaece35d361929f755e1d4e9c8e53b727d77d8c0fae1aa6edb547"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/prepare_native62_scalar_profile.py",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/01-prepare_native62_scalar_profile.py",
+      "bytes": 6845,
+      "sha256": "94d180e9bd2ca8e94776610f9e45a3a001f17a85210c69d6399ee57eecb9df3a"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-profile-preparation.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/02-native62-profile-preparation.log",
+      "bytes": 1144,
+      "sha256": "fdfec42014043ac0c43b6c5c00f9e518c6de97517384ea1445a9d7671b6a405b"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-derived-level-inputs.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/03-native62-derived-level-inputs.json",
+      "bytes": 2353,
+      "sha256": "4b710d7db925e0bb2e27db6092c05172621611458f1d2c7167cbd8c126c81d7e"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/validate_native62_helper_actual_candidate.py",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/04-validate_native62_helper_actual_candidate.py",
+      "bytes": 4588,
+      "sha256": "7afcff8e37c970a98713d665bf7cbd30b7a049b8121df4062246eb1027bbc611"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-actual-positive.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/05-native62-helper-actual-positive.json",
+      "bytes": 43980,
+      "sha256": "417b541c6df9c18ab537ec80a8a04e806a32ccb051e9e517f1a3ba2cc6cdb9e0"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-wrong-control-negative.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/06-native62-helper-wrong-control-negative.json",
+      "bytes": 4065,
+      "sha256": "cb05165ebc56d5f5af350b3496c4a9c170842af049a530bf851e6e6153b833fd"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-wrong-raw-negative.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/07-native62-helper-wrong-raw-negative.json",
+      "bytes": 4064,
+      "sha256": "831abde617d1b1b96aa246a5c2d71d219601bde39c0800d882834633d771ed61"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-real-validation-summary.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/08-native62-helper-real-validation-summary.json",
+      "bytes": 1343,
+      "sha256": "161de3937c185b90710dcb436b3513fc2628cebf3d12f2d6c0a02f015ba7a17b"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-validation-execution.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/09-native62-helper-validation-execution.log",
+      "bytes": 1320,
+      "sha256": "51756e6688cbcf4d6fe7203c43366d402705fa4dd2b89475a2617159afa3676e"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/62-controlled-accepted-r128.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/10-62-controlled-accepted-r128.log",
+      "bytes": 260324,
+      "sha256": "78c584d7e9602a933cde9a1e2a92585243ad60ebc97a78acb87321f870079f8d"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/62-controlled-actual-r128.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/11-62-controlled-actual-r128.log",
+      "bytes": 259831,
+      "sha256": "fec70eb4241e039faabd90abefc6f97d64b785f52464560c18ab0a5d65c6d813"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/native-audio-helper/audio62-controlled-qc.py",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/12-audio62-controlled-qc.py",
+      "bytes": 18545,
+      "sha256": "1ffbaeb9a4cb0e7e161c255e038bb927aa6b6835cc702fe531cede594fbe8e1f"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/native-audio-helper/audio62-controlled-qc-reference.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/13-audio62-controlled-qc-reference.json",
+      "bytes": 17158,
+      "sha256": "9c321f6af18fd3d57cb41e5827dd6417756d346221f69528e43ba0f4755854cf"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-draft-scalar-metadata-correction.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/14-native62-draft-scalar-metadata-correction.json",
+      "bytes": 1606,
+      "sha256": "0b2f5e17b92dad5fab0d83d9018dcc9d3b7cfd39c323f410893a687c25f3b8a3"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/audio62-controlled-qc-before-native-consent-compat.py",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/15-audio62-controlled-qc-before-native-consent-compat.py",
+      "bytes": 16411,
+      "sha256": "6fe3ab3f3958eecb4e7f8b0e3ccdb2ead633cb70289375fcba2085f67d94c2f0"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-original-consent-metadata-compatibility-validation.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/16-native62-original-consent-metadata-compatibility-validation.json",
+      "bytes": 3935,
+      "sha256": "be00e32e1bee6fd665ed02f3f0b442e9223fb3ffe97f9f91a4a837d609fa533b"
+    },
+    {
+      "original_path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-safe-evidence-manifest.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/实际生产前工具历史/17-native62-helper-safe-evidence-manifest.json",
+      "bytes": 3662,
+      "sha256": "ae442c281ca986a1ac7a36e8b5fbae586156266215a99b96f3e9680d2771fd2b"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/files-sha256.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/files-sha256.json",
+      "bytes": 3598,
+      "sha256": "04e19f2bcc1ce4a45f81ed40f767b69b50d29683e98a56dec34417e0be66519e"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S13-curse-frame2700.command.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S13-curse-frame2700.command.json",
+      "bytes": 487,
+      "sha256": "8469251c29939631987a635c8aa189e5d42000102910c931b63e82704d7e1b82"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S13-curse-frame2700.ffmpeg.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S13-curse-frame2700.ffmpeg.log",
+      "bytes": 2929,
+      "sha256": "cd34bbf1f06b0b9fcaa0ba71fbad77d24092dfbe5e94b231a4d491d63eacb83a"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S13-curse-frame2700.png",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S13-curse-frame2700.png",
+      "bytes": 429919,
+      "sha256": "3dc085ad40a2787b8ca093288e28cf0436643c5a08c4bee0e0f1cc420b16e4ef"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S13-curse-frame2700.stdout.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S13-curse-frame2700.stdout.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S14C2-Egypt-frame3000.command.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S14C2-Egypt-frame3000.command.json",
+      "bytes": 489,
+      "sha256": "037abbf3aa6f82c3458bfb180af0e75cf8664eb1291c76e90a5ff94ca7705dee"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S14C2-Egypt-frame3000.ffmpeg.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S14C2-Egypt-frame3000.ffmpeg.log",
+      "bytes": 2777,
+      "sha256": "665d6232f7108c95ee435ff829bee357a4bd047d13d5a955e5d75e23039c5747"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S14C2-Egypt-frame3000.png",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S14C2-Egypt-frame3000.png",
+      "bytes": 532148,
+      "sha256": "70e0698c83a6a63153b72ecfcb8baf1dd650785a6136f1a4131733673b9d1109"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S14C2-Egypt-frame3000.stdout.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S14C2-Egypt-frame3000.stdout.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S15C2-statistically-frame3300.command.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S15C2-statistically-frame3300.command.json",
+      "bytes": 498,
+      "sha256": "92cb43040891e30ce7e51fb99a948d44e2c9385d62ae19761323160ae4ba318a"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S15C2-statistically-frame3300.ffmpeg.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S15C2-statistically-frame3300.ffmpeg.log",
+      "bytes": 2793,
+      "sha256": "ea874e6786404cabb619af39c918f0fd1a99bccdf2610e15161c62de934fe86c"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S15C2-statistically-frame3300.png",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S15C2-statistically-frame3300.png",
+      "bytes": 697406,
+      "sha256": "b968a7623c10bf5988fdddb20b230f4f4b1cb306b3bad1b354aa4cb30f4326a1"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S15C2-statistically-frame3300.stdout.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S15C2-statistically-frame3300.stdout.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S19-last-body-frame4148.command.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S19-last-body-frame4148.command.json",
+      "bytes": 492,
+      "sha256": "f54bcf03792d953108d454f3a2a5f080c016c349b1046f951d05c408c4afa3ec"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S19-last-body-frame4148.ffmpeg.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S19-last-body-frame4148.ffmpeg.log",
+      "bytes": 2784,
+      "sha256": "c929e5ddf1fe84ccb6fe906efa871a87ab4e605be490acb4f2f11a68daf23604"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S19-last-body-frame4148.png",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S19-last-body-frame4148.png",
+      "bytes": 725658,
+      "sha256": "65c1e73ade2fad85dbbd70e4a75b4cbd3d45546fa80a9c9dfd4c4c0be3530b34"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S19-last-body-frame4148.stdout.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S19-last-body-frame4148.stdout.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S2C3-glimpsed-frame750.command.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S2C3-glimpsed-frame750.command.json",
+      "bytes": 490,
+      "sha256": "55ca23ac058b53d8ac243aaf8789a58938892cec9c7c16a1600d6b02587c0065"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S2C3-glimpsed-frame750.ffmpeg.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S2C3-glimpsed-frame750.ffmpeg.log",
+      "bytes": 2857,
+      "sha256": "42ef348cd6b4405d05c976ee329b8742bf637892e84f70196bc6b157c1e3edae"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S2C3-glimpsed-frame750.png",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S2C3-glimpsed-frame750.png",
+      "bytes": 793685,
+      "sha256": "cc43f683aec5d7fec642d11834a9dcde2b2f8d9792959565b85facd985a0d1d9"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/S2C3-glimpsed-frame750.stdout.log",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/S2C3-glimpsed-frame750.stdout.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/ffprobe-video.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/ffprobe-video.json",
+      "bytes": 269,
+      "sha256": "879779cb57d128a67fef1b7aba9999b73e7693e16f1bce1bbc156f2d20d5f8a2"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/independent-actual-contact-and-final-page-review.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/independent-actual-contact-and-final-page-review.json",
+      "bytes": 2400,
+      "sha256": "51b47f43b499e30a08f0c205641f0f6c80864ed992872ab95199f598f19a4bbe"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/locator-command.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/locator-command.json",
+      "bytes": 536,
+      "sha256": "5a78d104b72bbab3ee688c1a0d9888da29dd68ac8cbc31153c58f553057d41e6"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/locator-every-150frames.jpg",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/locator-every-150frames.jpg",
+      "bytes": 619924,
+      "sha256": "0f702beb6d307078547cee26f158b4e88a4a4b97128c397ff943327be4298375"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/article17-user-review-20261114/native17/actual-new-vocabulary-and-ending-frames/report.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原17本轮改词后已验历史实际4K补帧/report.json",
+      "bytes": 7467,
+      "sha256": "1a7eeec1b1ab7f9910513006984d45037dd3ab46794a948a64c5473dd5eccd6e"
+    },
+    {
+      "original_path": "/workspace/work/video-audit70-20261113/global-final-hold18-20261114/original-eight-upstream-program-exact-history-recovery.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/原八篇上游程序历史定位原件/original-eight-upstream-program-exact-history-recovery.json",
+      "bytes": 1158,
+      "sha256": "4e1db8f16fc2dc227c78095702ed566ef886ede3794b1185712e810d29f28120"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/normal18-six-closed-operation-cache-cleanup.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/normal18-six-closed-operation-cache-cleanup.json",
+      "bytes": 5524,
+      "sha256": "cadb89a43ac6af90268dcfa9bcaa79ec9e5ffc071e4587c3ac0e8482b3679d42"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/cleanup_closed_normal18_operation_bares.py",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/cleanup_closed_normal18_operation_bares.py",
+      "bytes": 2793,
+      "sha256": "1432ba1795532ceb1f43bf45c60d919a612d4dffa6a8a696aa62f008aa879261"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/prepare_normal18_tool_history_records.py",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/prepare_normal18_tool_history_records.py",
+      "bytes": 5330,
+      "sha256": "71d75e4a3233a89b7b341c945fdba317238404acd1695472fbb30fa8b177fd35"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/operations-source36-normal18-029-051/closed-own-operation-Git-cache-cleanup.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/operations-source36-normal18-029-051/receipt.json",
+      "bytes": 803,
+      "sha256": "0383ad6efa7ff2131283467a971ed6b127669aec6ab1f5682fedab1607fdd4bf"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/operations-sources17-33-normal18/closed-own-operation-Git-cache-cleanup.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/operations-sources17-33-normal18/receipt.json",
+      "bytes": 795,
+      "sha256": "fa07dee8e4d288982df6a95fc4f76ea91272e17a420eeee9ff5af558766e671e"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/operations-source14-normal18-v2/closed-own-operation-Git-cache-cleanup.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/operations-source14-normal18-v2/receipt.json",
+      "bytes": 793,
+      "sha256": "8901a7fe3d21c61d2ae101953d2b25bf61f593528eaba88f45d2b731468f63ac"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/operations-sources13-15-26-27-normal18-v2/closed-own-operation-Git-cache-cleanup.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/operations-sources13-15-26-27-normal18-v2/receipt.json",
+      "bytes": 813,
+      "sha256": "725a22a49e3d1c06122b451c83cc367a3c0217175fe3c9d4c638a2f8ea2b4e4e"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/operations-sources34-47-newsourceQA-normal18/closed-own-operation-Git-cache-cleanup.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/operations-sources34-47-newsourceQA-normal18/receipt.json",
+      "bytes": 818,
+      "sha256": "bc68364c9f99fa3eba4dce3021b55d3650974ef53bcc5fe30e1dabce1cc632b6"
+    },
+    {
+      "original_path": "/workspace/work/video-archive-batches-20261114/operations-source62-new-repaired-sourceQA-normal18/closed-own-operation-Git-cache-cleanup.json",
+      "repo_path": "视频修订定稿/归档记录/2026-11-14-normal18工具历史与补充实帧/仅已闭合归档缓存维护记录/operations-source62-new-repaired-sourceQA-normal18/receipt.json",
+      "bytes": 830,
+      "sha256": "b47203c7ffea9e8d95d19382369ba28a3397bdda3c0f48b598e6201854fa849b"
+    }
+  ],
+  "native62_helper_diagnostic_history_not_substituted_for_final_native_73_QA": true,
+  "source17_frames_are_before_hold18_history_of_same_updated_body": true,
+  "current_final_media_or_QA_or_active_aliases_modified": false,
+  "no_private_PCM_GT_cache_or_PDF_exported": true,
+  "no_denied_registry_payload_or_live_ROOT_snapshot_exported": true
+}

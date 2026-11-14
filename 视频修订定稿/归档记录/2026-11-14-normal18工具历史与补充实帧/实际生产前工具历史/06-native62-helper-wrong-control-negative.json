@@ -1,0 +1,98 @@
+{
+  "article": "62",
+  "kind": "controlled_audio_repair",
+  "passed": false,
+  "repair_applied": false,
+  "diagnostic_only": true,
+  "production_delivery_eligible": false,
+  "official_full_gates_are_separate_required_precondition": true,
+  "official_gates_replaced_or_thresholds_modified": false,
+  "subjective_listening_claimed": false,
+  "private_caches_GT_or_PCM_exported": false,
+  "program_sha256": "6fe3ab3f3958eecb4e7f8b0e3ccdb2ead633cb70289375fcba2085f67d94c2f0",
+  "reference_file_sha256": "9c321f6af18fd3d57cb41e5827dd6417756d346221f69528e43ba0f4755854cf",
+  "fingerprints": {
+    "request_source_sha256": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+    "request_generator_sha256": "11c7558bf6615ba566a464902a55de5f060a69078ecce3dcb8ff4dea09cb4ac4",
+    "actual_full_source_sha256": "7622095c9c0b14e0ae7d20bfdf5d39a544cbca0c5517d2ef276722f1c29da6c9",
+    "actual_raw_WAV_sha256": "c5330026dbc9f81d0c7546a1716b9dade9960f44311862a5feb3e4aa0749d7c3",
+    "accepted_video_sha256": "76ed237782d65e7bd19fd1c14891b55fd6b7014a43f7562f4d2faaf471a8b8af",
+    "canonical_video_sha256": "3ed013c1f04198289f87085371e135385498a7bf38ae0e38f219e622859e03ee",
+    "accepted_AAC_ADTS_sha256": "cbaa0988f1020bcaa2c245f8349001d8ad2224194164bfaa819231493f06b081",
+    "canonical_AAC_ADTS_sha256": "b85f7e4c45784077f227b29a24b7cd72cef6c6160aa3783747ba708f8fda6348"
+  },
+  "source_current_sha256": "7622095c9c0b14e0ae7d20bfdf5d39a544cbca0c5517d2ef276722f1c29da6c9",
+  "accepted_sha256": "76ed237782d65e7bd19fd1c14891b55fd6b7014a43f7562f4d2faaf471a8b8af",
+  "canonical_sha256": "3ed013c1f04198289f87085371e135385498a7bf38ae0e38f219e622859e03ee",
+  "source_authorization_ids": [
+    "049",
+    "051",
+    "052"
+  ],
+  "error": {
+    "type": "ValueError",
+    "detail": "Exact source/raw/AAC binding failed; audio measurements cannot excuse it."
+  },
+  "checks": [
+    {
+      "name": "exact-approved-fingerprint:request_source_sha256",
+      "passed": true,
+      "actual": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+      "expected": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47"
+    },
+    {
+      "name": "exact-approved-fingerprint:request_generator_sha256",
+      "passed": true,
+      "actual": "11c7558bf6615ba566a464902a55de5f060a69078ecce3dcb8ff4dea09cb4ac4",
+      "expected": "11c7558bf6615ba566a464902a55de5f060a69078ecce3dcb8ff4dea09cb4ac4"
+    },
+    {
+      "name": "exact-approved-fingerprint:accepted_video_sha256",
+      "passed": true,
+      "actual": "76ed237782d65e7bd19fd1c14891b55fd6b7014a43f7562f4d2faaf471a8b8af",
+      "expected": "76ed237782d65e7bd19fd1c14891b55fd6b7014a43f7562f4d2faaf471a8b8af"
+    },
+    {
+      "name": "exact-approved-fingerprint:accepted_AAC_ADTS_sha256",
+      "passed": true,
+      "actual": "cbaa0988f1020bcaa2c245f8349001d8ad2224194164bfaa819231493f06b081",
+      "expected": "cbaa0988f1020bcaa2c245f8349001d8ad2224194164bfaa819231493f06b081"
+    },
+    {
+      "name": "exact-approved-fingerprint:actual_raw_WAV_sha256",
+      "passed": true,
+      "actual": "c5330026dbc9f81d0c7546a1716b9dade9960f44311862a5feb3e4aa0749d7c3",
+      "expected": "c5330026dbc9f81d0c7546a1716b9dade9960f44311862a5feb3e4aa0749d7c3"
+    },
+    {
+      "name": "exact-approved-fingerprint:canonical_AAC_ADTS_sha256",
+      "passed": true,
+      "actual": "b85f7e4c45784077f227b29a24b7cd72cef6c6160aa3783747ba708f8fda6348",
+      "expected": "b85f7e4c45784077f227b29a24b7cd72cef6c6160aa3783747ba708f8fda6348"
+    },
+    {
+      "name": "requested-entire-nonreview-source",
+      "passed": true
+    },
+    {
+      "name": "requested-exact-one-96sample-insertion-control",
+      "passed": true
+    },
+    {
+      "name": "requested-all-original-spoken-English-preserved",
+      "passed": true
+    },
+    {
+      "name": "actual-entire-nonreview-source",
+      "passed": false
+    },
+    {
+      "name": "actual-exact-one-96sample-insertion-control",
+      "passed": false
+    },
+    {
+      "name": "actual-all-original-spoken-English-preserved",
+      "passed": true
+    }
+  ]
+}

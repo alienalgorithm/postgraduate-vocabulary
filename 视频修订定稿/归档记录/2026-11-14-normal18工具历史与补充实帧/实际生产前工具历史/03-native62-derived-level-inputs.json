@@ -1,0 +1,121 @@
+{
+  "kind": "62-approved-new-S15-exact-original-auto-level-input-binding",
+  "source_sha256": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+  "sentence": "S15",
+  "pre_level_clip_float32_sha256": [
+    "105d1420787d393d6ff4654325fe58f092880649a8338558c9638219ca603813",
+    "1150614eeef2a65b28a3da2abfca749b4906da643a8f6e4737da2fd50916c1e6",
+    "4c9af99b329c9ab864034117611e7039c7c87958fbe6e21a2bcb7e25b9ab7c00",
+    "5c9b37300155c1f3338bc88f17d69c51fb248b0de0155630962ca6504d789bba",
+    "ce15fccdd7ab1c3a7217da9f0c1803bae2f302a73e18c613abd98eeb22ab67dd",
+    "5c9b37300155c1f3338bc88f17d69c51fb248b0de0155630962ca6504d789bba",
+    "8731994fe2b935e9ae527daa89c9942059d2355bafef86b5ee147d882442e355",
+    "1150614eeef2a65b28a3da2abfca749b4906da643a8f6e4737da2fd50916c1e6",
+    "149be73233240803b5ba7308a96f893baae3f5ec997b79436419c89576963945"
+  ],
+  "pre_level_clip_sample_counts": [
+    46200,
+    9120,
+    31658,
+    9600,
+    30436,
+    9600,
+    28866,
+    9120,
+    60240
+  ],
+  "sample_rate": 24000,
+  "gaps_s": [
+    0.4,
+    0.4,
+    0.4,
+    0.4
+  ],
+  "tmap_scalar": [
+    [
+      0,
+      13,
+      0.0,
+      1.925
+    ],
+    [
+      14,
+      24,
+      2.305,
+      3.6240833333333335
+    ],
+    [
+      25,
+      49,
+      4.0240833333333335,
+      5.29225
+    ],
+    [
+      50,
+      71,
+      5.6922500000000005,
+      6.8950000000000005
+    ],
+    [
+      72,
+      105,
+      7.275,
+      9.785
+    ]
+  ],
+  "timing_key_rounded4": [
+    [
+      0.0,
+      1.925
+    ],
+    [
+      2.305,
+      3.6241
+    ],
+    [
+      4.0241,
+      5.2923
+    ],
+    [
+      5.6923,
+      6.895
+    ],
+    [
+      7.275,
+      9.785
+    ]
+  ],
+  "pieces_character_spans": [
+    [
+      0,
+      13
+    ],
+    [
+      14,
+      24
+    ],
+    [
+      25,
+      49
+    ],
+    [
+      50,
+      71
+    ],
+    [
+      72,
+      105
+    ]
+  ],
+  "synthesis_punctuation_for_S15": null,
+  "exact_key": "bbf3a5b940b1858914e44a02d53b61635bf1b9c8",
+  "name": "调平_bbf3a5b940b1858914e44a02d53b61635bf1b9c8.json",
+  "expected_value": {
+    "2": -1.5,
+    "5": 1.5
+  },
+  "expected_file_sha256": "c13bd703a43fcf4adf32c093032beb7b13c540583df74adb0d434a58bd26ff19",
+  "original_maker_sha256": "4c85e1fbdd2e82c5646d5f58df63c85eca60af4ef521f1d36f765575a568d6f3",
+  "all_TTS_strict_cache_only": true,
+  "mother_or_PCM_not_exported": true
+}

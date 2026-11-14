@@ -1,0 +1,101 @@
+{
+  "kind": "native62-helper-safe-evidence-after-narrow-native-consent-compatibility",
+  "supersedes_helper_program_for_native_only": true,
+  "current_program_sha256": "1ffbaeb9a4cb0e7e161c255e038bb927aa6b6835cc702fe531cede594fbe8e1f",
+  "unchanged_reference_sha256": "9c321f6af18fd3d57cb41e5827dd6417756d346221f69528e43ba0f4755854cf",
+  "prior_program_exact_bytes_preserved_at": "/workspace/work/dolly62-audio-user-review-20261114/audio62-controlled-qc-before-native-consent-compat.py",
+  "prior_program_sha256": "6fe3ab3f3958eecb4e7f8b0e3ccdb2ead633cb70289375fcba2085f67d94c2f0",
+  "prior_manifest_byte_preserved_sha256": "ae442c281ca986a1ac7a36e8b5fbae586156266215a99b96f3e9680d2771fd2b",
+  "entries": [
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/prepare_native62_scalar_profile.py",
+      "bytes": 6845,
+      "sha256": "94d180e9bd2ca8e94776610f9e45a3a001f17a85210c69d6399ee57eecb9df3a"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-profile-preparation.log",
+      "bytes": 1144,
+      "sha256": "fdfec42014043ac0c43b6c5c00f9e518c6de97517384ea1445a9d7671b6a405b"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-derived-level-inputs.json",
+      "bytes": 2353,
+      "sha256": "4b710d7db925e0bb2e27db6092c05172621611458f1d2c7167cbd8c126c81d7e"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/validate_native62_helper_actual_candidate.py",
+      "bytes": 4588,
+      "sha256": "7afcff8e37c970a98713d665bf7cbd30b7a049b8121df4062246eb1027bbc611"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-actual-positive.json",
+      "bytes": 43980,
+      "sha256": "417b541c6df9c18ab537ec80a8a04e806a32ccb051e9e517f1a3ba2cc6cdb9e0"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-wrong-control-negative.json",
+      "bytes": 4065,
+      "sha256": "cb05165ebc56d5f5af350b3496c4a9c170842af049a530bf851e6e6153b833fd"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-wrong-raw-negative.json",
+      "bytes": 4064,
+      "sha256": "831abde617d1b1b96aa246a5c2d71d219601bde39c0800d882834633d771ed61"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-real-validation-summary.json",
+      "bytes": 1343,
+      "sha256": "161de3937c185b90710dcb436b3513fc2628cebf3d12f2d6c0a02f015ba7a17b"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-validation-execution.log",
+      "bytes": 1320,
+      "sha256": "51756e6688cbcf4d6fe7203c43366d402705fa4dd2b89475a2617159afa3676e"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/62-controlled-accepted-r128.log",
+      "bytes": 260324,
+      "sha256": "78c584d7e9602a933cde9a1e2a92585243ad60ebc97a78acb87321f870079f8d"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/62-controlled-actual-r128.log",
+      "bytes": 259831,
+      "sha256": "fec70eb4241e039faabd90abefc6f97d64b785f52464560c18ab0a5d65c6d813"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/native-audio-helper/audio62-controlled-qc.py",
+      "bytes": 18545,
+      "sha256": "1ffbaeb9a4cb0e7e161c255e038bb927aa6b6835cc702fe531cede594fbe8e1f"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/native-audio-helper/audio62-controlled-qc-reference.json",
+      "bytes": 17158,
+      "sha256": "9c321f6af18fd3d57cb41e5827dd6417756d346221f69528e43ba0f4755854cf"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-draft-scalar-metadata-correction.json",
+      "bytes": 1606,
+      "sha256": "0b2f5e17b92dad5fab0d83d9018dcc9d3b7cfd39c323f410893a687c25f3b8a3"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/audio62-controlled-qc-before-native-consent-compat.py",
+      "bytes": 16411,
+      "sha256": "6fe3ab3f3958eecb4e7f8b0e3ccdb2ead633cb70289375fcba2085f67d94c2f0"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-original-consent-metadata-compatibility-validation.json",
+      "bytes": 3935,
+      "sha256": "be00e32e1bee6fd665ed02f3f0b442e9223fb3ffe97f9f91a4a837d609fa533b"
+    },
+    {
+      "path": "/workspace/work/dolly62-audio-user-review-20261114/native62-helper-safe-evidence-manifest.json",
+      "bytes": 3662,
+      "sha256": "ae442c281ca986a1ac7a36e8b5fbae586156266215a99b96f3e9680d2771fd2b"
+    }
+  ],
+  "original_71_sound_checks_unchanged_not_rerun": true,
+  "actual_PAY_metadata_10_cases_passed": true,
+  "native_ASR_or_final_media_pass_not_claimed": true,
+  "no_private_mother_PCM_AAC_GT_or_PDF_exported": true,
+  "total_bytes": 651174
+}

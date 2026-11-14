@@ -1,0 +1,17 @@
+{
+  "kind": "exact-prior-program-bytes-recovery-from-sole-new-scope-guard",
+  "current_program": {
+    "path": "/workspace/work/video-audit70-20261113/global-final-hold18-20261114/produce_actual_normal18_upstream.py",
+    "sha256": "032dc49776df1167c0325ef868f97342ba4de113670a447bb4410f0b6b3c7c12",
+    "bytes": 6858
+  },
+  "historical_program": {
+    "path": "/workspace/work/video-audit70-20261113/global-final-hold18-20261114/program-history/produce_actual_normal18_prior-frozen-eight-8d678179a1e323cbb30df9bcc7c576a7e3a1116e7c8f718d2582aeb01aa209c6.py",
+    "sha256": "8d678179a1e323cbb30df9bcc7c576a7e3a1116e7c8f718d2582aeb01aa209c6",
+    "bytes": 6743
+  },
+  "prior_full_SHA_anchored_by_unchanged_manifest": "/workspace/work/video-audit70-20261113/global-final-hold18-20261114/normal13-safe-public-evidence-manifest.json",
+  "recovery": "Undo only the exact new-source47/34/62 exclusion guard; resulting entire original bytes match the previously frozen8d678179 SHA. Current executable and all original reports/media remain unchanged.",
+  "actual_old_execution_retroactively_inferred_from_recovery": false,
+  "media_qualification_not_changed": true
+}

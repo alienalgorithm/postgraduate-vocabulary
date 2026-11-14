@@ -1,0 +1,121 @@
+{
+  "kind": "source62-original-native-pending-consent-history-compatibility-narrow-validation",
+  "actual_final_PAY_source_sha256": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+  "program_sha256": "1ffbaeb9a4cb0e7e161c255e038bb927aa6b6835cc702fe531cede594fbe8e1f",
+  "reference_sha256": "9c321f6af18fd3d57cb41e5827dd6417756d346221f69528e43ba0f4755854cf",
+  "exact_real_pending": {
+    "S6": "用户2026-11-14本篇定稿原话：“Ok了，ok了，那这一篇可以定稿生成4k视频了。就克隆羊多利这一篇。”（执行本轮derived重点词所需的原T34单组拆分；已用真实旧snapshot实比L13，仅S6实际换行随该指定词色调整，全文EN与中文内容保持）"
+  },
+  "exact_prior_history_length": 1,
+  "cases": [
+    {
+      "case": "exact-real-PAY-source-positive",
+      "expected_pass": true,
+      "actual_pass": true,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": false,
+        "exact_history_move_valid": false,
+        "all_other_nonreview_document_exact": true
+      }
+    },
+    {
+      "case": "original-maker-exact-consent-move-on-real-PAY-positive",
+      "expected_pass": true,
+      "actual_pass": true,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": true,
+        "all_other_nonreview_document_exact": true
+      }
+    },
+    {
+      "case": "legal-maker-date-not-frozen-to-local-wall-date-positive",
+      "expected_pass": true,
+      "actual_pass": true,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": true,
+        "all_other_nonreview_document_exact": true
+      }
+    },
+    {
+      "case": "invalid-calendar-date-negative",
+      "expected_pass": false,
+      "actual_pass": false,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": false
+      }
+    },
+    {
+      "case": "altered-original-history-prefix-negative",
+      "expected_pass": false,
+      "actual_pass": false,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": false
+      }
+    },
+    {
+      "case": "altered-consent-content-negative",
+      "expected_pass": false,
+      "actual_pass": false,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": false
+      }
+    },
+    {
+      "case": "extra-history-append-negative",
+      "expected_pass": false,
+      "actual_pass": false,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": false
+      }
+    },
+    {
+      "case": "pending-not-consumed-with-appended-history-negative",
+      "expected_pass": false,
+      "actual_pass": false,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": false
+      }
+    },
+    {
+      "case": "unrelated-DSP-control-change-negative",
+      "expected_pass": false,
+      "actual_pass": false,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": true,
+        "all_other_nonreview_document_exact": false
+      }
+    },
+    {
+      "case": "unrelated-spoken-English-change-negative",
+      "expected_pass": false,
+      "actual_pass": false,
+      "correct": true,
+      "details": {
+        "original_pending_consent_consumed": true,
+        "exact_history_move_valid": true,
+        "all_other_nonreview_document_exact": false
+      }
+    }
+  ],
+  "all_cases_correct": true,
+  "audio_paths_gates_controls_thresholds_unchanged": true,
+  "no_full_audio_rerun_or_native_pass_claimed": true,
+  "formal_sources_or_PDF_touched": false
+}
