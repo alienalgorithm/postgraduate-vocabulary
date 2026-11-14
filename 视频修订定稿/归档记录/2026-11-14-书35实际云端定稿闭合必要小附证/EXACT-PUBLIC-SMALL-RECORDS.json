@@ -1,0 +1,95 @@
+{
+  "kind": "exact-book35-completed-cloud-final-small-addendum",
+  "created_utc": "2026-11-14T17:56:48.891913+00:00",
+  "book_order": "35",
+  "source_id": "53",
+  "exact_original_requested_small_records_count": 6,
+  "files": [
+    {
+      "archive_relative_path": "BOOK35-ACTUAL-CLOUD-FINAL-PUBLIC-FACTS.json",
+      "original_record_name": "BOOK35-ACTUAL-CLOUD-FINAL-PUBLIC-FACTS.json",
+      "bytes": 1601,
+      "sha256": "5315dcc74fd3c4405e1301c927cbc7671ed96805ecc7bee447fcad21f9c0dc6f",
+      "original_bytes_preserved": false
+    },
+    {
+      "archive_relative_path": "仅物流程序/archive_batch.py",
+      "original_record_name": "archive_batch.py",
+      "bytes": 16932,
+      "sha256": "01d081c2148f17ce1bd644b90e3d37ebb46077282b360f5a6ae919e4b0b541c6",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "仅物流程序/original-and-actual-logistics-code-identities.json",
+      "original_record_name": "original-and-actual-logistics-code-identities.json",
+      "bytes": 496,
+      "sha256": "90ae2f7396ee3a26a4fc2d72fbb9992eccda952aab3e31327a55bbf47d83ce29",
+      "original_bytes_preserved": false
+    },
+    {
+      "archive_relative_path": "仅物流程序/verify_closed_small_record_asset.original.py",
+      "original_record_name": "verify_closed_small_record_asset.original.py",
+      "bytes": 4694,
+      "sha256": "ff271743f88d12150de7b44402796d8a26a6c73e6677da385f3a039399f7435f",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "仅物流程序/verify_closed_small_record_asset.py",
+      "original_record_name": "verify_closed_small_record_asset.py",
+      "bytes": 4002,
+      "sha256": "edee23fb75a087b6478264766b1ba6d8e221ab7d5e6ffa827e98eebe62fa3586",
+      "original_bytes_preserved": false
+    },
+    {
+      "archive_relative_path": "原schema兼容小回执/source53-original-schema-run-read-compatibility-checks.json",
+      "original_record_name": "source53-original-schema-run-read-compatibility-checks.json",
+      "bytes": 291,
+      "sha256": "082e75540cd3cde5bcfe764d093a666af70aba19cecc1ea0672c5191356ab62c",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "原成片双仓闭合/actual-dual-asset-blob-verification.json",
+      "original_record_name": "actual-dual-asset-blob-verification.json",
+      "bytes": 933,
+      "sha256": "5ea00066b69e19a507bb7b7298ecb42686cd6e30827197bc4bf00a31bc1cd5f1",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "原成片双仓闭合/remote-video-byte-verification.json",
+      "original_record_name": "remote-video-byte-verification.json",
+      "bytes": 1263,
+      "sha256": "4b40202fbd3e634e2e2e07a382bbfc61c506bd34688035453f17f8c268de4a8e",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "实际安装controller源码非producer/install_user061_book35.py",
+      "original_record_name": "install_user061_book35.py",
+      "bytes": 5362,
+      "sha256": "38966ca8324bb830279fbdc68e6af527e2f40ca6fe874dc733477e581d855713",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "正式安装小回执/final-archive-receipt.json",
+      "original_record_name": "final-archive-receipt.json",
+      "bytes": 3342,
+      "sha256": "56b6ce860858c86493e204a782580dff257799079c65f440a8b6704a3c771479",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "正式安装小回执/prepared-graft-commits.json",
+      "original_record_name": "prepared-graft-commits.json",
+      "bytes": 727,
+      "sha256": "ea6252ac49b0bcb5ad00b6211f64a7e60166393cf8ee8e53d7fd2c27356a0ac6",
+      "original_bytes_preserved": true
+    }
+  ],
+  "excluded_not_read_or_copied": [
+    "All aggregate/live delivery-control state",
+    "Whole inventories, before/after policy copies and original Git-blob binding already preserved in main/operation",
+    "All media/ZIP/PNG/PCM/GT/private mothers/PDF",
+    "Refused055/056 raw or derived equivalent payloads",
+    "Other source35 original payloads retained unchanged"
+  ],
+  "existing_MP4_HTTP_and_QA_receipts_reused_without_repeating_tests": true,
+  "new_main_ref_Release_media_or_control_state_action": false
+}
