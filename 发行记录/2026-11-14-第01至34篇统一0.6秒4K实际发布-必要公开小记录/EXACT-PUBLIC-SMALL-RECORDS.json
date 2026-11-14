@@ -1,0 +1,685 @@
+{
+  "kind": "exact-first34-completed-publication-small-record-allowlist",
+  "recorded_utc": "2026-11-14T17:02:07.796019+00:00",
+  "actual_publication": {
+    "repository": "alienalgorithm/postgraduate-vocabulary",
+    "run": 43617786701,
+    "commit": "b80e56e2a30bdf89d0c2cdb259b60b0a641ab70f",
+    "release_id": 445443985,
+    "video_count": 34
+  },
+  "files": [
+    {
+      "archive_relative_path": "公开发行记录/publish_first34.py",
+      "original_record_name": "publish_first34.py",
+      "bytes": 7296,
+      "sha256": "849ad86f9cb10f76ff9558d672ddb501b5dd236646e67022eb670d9e2d6e83b0",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/publish-first34.yml",
+      "original_record_name": "publish-first34.yml",
+      "bytes": 1035,
+      "sha256": "0a1b0052d0a36b7e5df902053e9bad22ba022500977f3cf6843a5ef65105d278",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/MANIFEST.json",
+      "original_record_name": "MANIFEST.json",
+      "bytes": 28812,
+      "sha256": "26b2eae943ed6fc7d7ee6fa74d9251133eab50a65af6ace20361756416d83013",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/ACTUAL-NATIVE-PUBLICATION-IDENTITY.json",
+      "original_record_name": "ACTUAL-NATIVE-PUBLICATION-IDENTITY.json",
+      "bytes": 1442,
+      "sha256": "ae73aa148019570c89770177004b1dbeff57c0d416a431e35b940cc3e0b0b3de",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/RUN.json",
+      "original_record_name": "RUN.json",
+      "bytes": 15328,
+      "sha256": "ee17f53aa8fc726871a7f796b26c56022ba170ef6d2c209e4013f1ef0ae07b52",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/RELEASE-VERIFICATION.json",
+      "original_record_name": "RELEASE-VERIFICATION.json",
+      "bytes": 8501,
+      "sha256": "24fb89ced5429f7c86415c6606b591b9eb4df383f51a5a8be50dcec76cd906b0",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/PUBLIC-RELEASE-OBSERVATION.json",
+      "original_record_name": "PUBLIC-RELEASE-OBSERVATION.json",
+      "bytes": 4729,
+      "sha256": "b40d5f2e0d65006ce3d65c69228ceeb73ac93c7d779baf6000852d639f154957",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/PUBLICATION-PROFILE.json",
+      "original_record_name": "PUBLICATION-PROFILE.json",
+      "bytes": 1634,
+      "sha256": "890376beca317e58499c19f57645442e067573868baeba202b4ed32f2ec2d0d6",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/build_manifest_from_actual_archived_inputs.py",
+      "original_record_name": "build_manifest_from_actual_archived_inputs.py",
+      "bytes": 3345,
+      "sha256": "f69662c94a4a88d52689d91072097f93bbb6c109a4637ebcd314872b2ccbfdea",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/actual-successful-native-head-publish_single.py",
+      "original_record_name": "actual-successful-native-head-publish_single.py",
+      "bytes": 7296,
+      "sha256": "849ad86f9cb10f76ff9558d672ddb501b5dd236646e67022eb670d9e2d6e83b0",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/actual-successful-native-head-workflow.yml",
+      "original_record_name": "actual-successful-native-head-workflow.yml",
+      "bytes": 1035,
+      "sha256": "0a1b0052d0a36b7e5df902053e9bad22ba022500977f3cf6843a5ef65105d278",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/native-release-verification.zip",
+      "original_record_name": "native-release-verification.zip",
+      "bytes": 3488,
+      "sha256": "19401466f4a70f2e6691d8362553e5f859a893d715aa67bc4d03eba6bc03a3d9",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量及归档/first34-current-34-actual-V3-index.json",
+      "original_record_name": "first34-current-34-actual-V3-index.json",
+      "bytes": 33310,
+      "sha256": "4bca1a458d1fb20af2b1f4f062e0009b5366a1ef02551ce2a4fa7abf5662326c",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量及归档/first34-final-release-inputs.json",
+      "original_record_name": "first34-final-release-inputs.json",
+      "bytes": 37289,
+      "sha256": "0e85418f1b0dbabccaa536ed7a4257f4773fae7bbd47155dc165816ba468af16",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量及归档/book31-final-installation-receipt.json",
+      "original_record_name": "final-archive-receipt.json",
+      "bytes": 3352,
+      "sha256": "afafeaedad984c07c3b775c3e7ee07490461e68f922121bd6bf3cea58757bf1a",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量及归档/PUBLIC-FIRST34-UNIFORM06-SCOPE.json",
+      "original_record_name": "PUBLIC-FIRST34-UNIFORM06-SCOPE.json",
+      "bytes": 5183,
+      "sha256": "baeeb41aea6e990a3e4dcfbc5de570addd09094871f323779213de88481e8e72",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开审核Git回执/review058-063-actual-dual-immutable-byte-receipts.json",
+      "original_record_name": "review058-063-actual-dual-immutable-byte-receipts.json",
+      "bytes": 5408,
+      "sha256": "4cbf9b32a3f2d45899d292e672e93b4441605715329b3be83bde77000f80aa91",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开审核Git回执/review064-065-actual-dual-immutable-byte-receipts.json",
+      "original_record_name": "review064-065-actual-dual-immutable-byte-receipts.json",
+      "bytes": 2374,
+      "sha256": "a4b4e6502a5200800402149e7ea82cdc78fc93222816ff03f522e3c136aadf66",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "归档源码/first34_scope057_archive_policy.py",
+      "original_record_name": "first34_scope057_archive_policy.py",
+      "bytes": 10880,
+      "sha256": "a95975cd8c449ad8ddfd3f643b0fd3a474846fca58dc0a09a57b4fddceef9bdc",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "归档源码/archive_revision_policy.py",
+      "original_record_name": "archive_revision_policy.py",
+      "bytes": 11307,
+      "sha256": "4dccc98495aaddc4474baa128bc9fccb48059bdf7b659622befe9d241ef315e5",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "归档源码/install_user057_ready_batch.py",
+      "original_record_name": "install_user057_ready_batch.py",
+      "bytes": 3597,
+      "sha256": "af26a71e2563dd3ef8789cf9066f3e1ba352a84b7dd30385093027c2167205b5",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "归档源码/emit_first34_final_release_inputs.py",
+      "original_record_name": "emit_first34_final_release_inputs.py",
+      "bytes": 5315,
+      "sha256": "3c788ba2a764eb494c76d30ce2bdb494bfde471835bfeaad31490b95dc7f46ae",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/01-source01-archive-handoff.json",
+      "original_record_name": "01-source01-declared-actual-handoff.json",
+      "bytes": 36766,
+      "sha256": "3ff50eab558ecb6cabf93dbeada04fc4828ceaf1cb398c8935474e742b67bcc4",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/02-source22-archive-handoff.json",
+      "original_record_name": "02-source22-declared-actual-handoff.json",
+      "bytes": 36580,
+      "sha256": "f01a78e3d3827e23071a92eca8019ff2b14e427cff2a902bf742278900d74477",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/03-source07-archive-handoff.json",
+      "original_record_name": "03-source07-declared-actual-handoff.json",
+      "bytes": 41893,
+      "sha256": "dd30a02b3d58569717599d643a9c3f0400ebea26fb70f9691cfb11666e90bcf3",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/04-source03-archive-handoff.json",
+      "original_record_name": "04-source03-declared-actual-handoff.json",
+      "bytes": 37839,
+      "sha256": "087f50b0c2b2801d3e380df76f2f95aa47dff4583d46206cf985840c70de1e0e",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/05-source12-archive-handoff.json",
+      "original_record_name": "05-source12-declared-actual-handoff.json",
+      "bytes": 37886,
+      "sha256": "983b9d7b9b3604c39ad7c151a4557e3c0a9040555c2dc74a1be8a6568a1a0b2d",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/06-source10-archive-handoff.json",
+      "original_record_name": "06-source10-declared-actual-handoff.json",
+      "bytes": 37857,
+      "sha256": "03be4335bc5ddfc3681df14d2c2efb76ca06a95c9e6869b7911323475cedad7d",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/07-source06-archive-handoff.json",
+      "original_record_name": "07-source06-declared-actual-handoff.json",
+      "bytes": 36557,
+      "sha256": "a41b2b3ddceb07ab79fdf769da80961b964afedbe3da1b35808c7606c5b5c70a",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/08-source51-archive-handoff.json",
+      "original_record_name": "08-source51-declared-actual-handoff.json",
+      "bytes": 37885,
+      "sha256": "d71d0dd97834d1de8dd6e34da66798d32382fd24555c5a26897eafaed5810335",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/09-source05-archive-handoff.json",
+      "original_record_name": "09-source05-declared-actual-handoff.json",
+      "bytes": 47001,
+      "sha256": "3051d13df5c46129f6f5a700f9af503a8f837e4d067c01d93c4d98f1d27f27aa",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/10-source11-archive-handoff.json",
+      "original_record_name": "10-source11-declared-actual-handoff.json",
+      "bytes": 37498,
+      "sha256": "f81fbed00a1b91dd271d568f33662bd1967a0d302ebf1562655a2b0256a7e2c9",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/11-source39-archive-handoff.json",
+      "original_record_name": "11-source39-declared-actual-handoff.json",
+      "bytes": 33699,
+      "sha256": "0227f62f000412ed9de381d89dd9802e3d0268e9c7d5d8364c70fb84515d83c6",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/12-source04-archive-handoff.json",
+      "original_record_name": "12-source04-declared-actual-handoff.json",
+      "bytes": 37724,
+      "sha256": "1f3a271f89b42620423620f9c5be5ac077232e91929094a28ecea05f2c74a77e",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/13-source21-archive-handoff.json",
+      "original_record_name": "13-source21-declared-actual-handoff.json",
+      "bytes": 36635,
+      "sha256": "56d36249e75dfadb1b12555a5544d6a2ce9edb5e9796269ad422162d3c849e0f",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/14-source55-archive-handoff.json",
+      "original_record_name": "14-source55-declared-actual-handoff.json",
+      "bytes": 36616,
+      "sha256": "a3f07166b9b8e9dc87f40ee0a4e66e7675d7e79c91ed436a4638f1218cd78341",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/15-source44-archive-handoff.json",
+      "original_record_name": "15-source44-declared-actual-handoff.json",
+      "bytes": 36870,
+      "sha256": "3a7e6f7818b0535036045f7870847db1d799c1900aceb389269431f161dd368b",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/16-source50-archive-handoff.json",
+      "original_record_name": "16-source50-declared-actual-handoff.json",
+      "bytes": 33310,
+      "sha256": "b594ce19e3d1898f1aed243e43704576341dafec611275ada74de6c59d73f9ef",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/17-source20-archive-handoff.json",
+      "original_record_name": "17-source20-declared-actual-handoff.json",
+      "bytes": 36611,
+      "sha256": "c48815cf4a288bffc83f3b1c4bb8974a28e4d06b243c4c080afceacad148d7ac",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/18-source02-archive-handoff.json",
+      "original_record_name": "18-source02-declared-actual-handoff.json",
+      "bytes": 36589,
+      "sha256": "c58c800a111046decfd10ae5054054dfa99bf4f229a64cea7f14b71ecafd047f",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/19-source49-archive-handoff.json",
+      "original_record_name": "19-source49-declared-actual-handoff.json",
+      "bytes": 38766,
+      "sha256": "378d56010fdec11c32b0adbcf6712ee1f83f40d476c2a25283c0026995af82d0",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/20-source42-archive-handoff.json",
+      "original_record_name": "20-source42-declared-actual-handoff.json",
+      "bytes": 37656,
+      "sha256": "30b1fb019823eddafecf4b87a050726f2714355f810874bd06df283e6cf65240",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/21-source14-archive-handoff.json",
+      "original_record_name": "21-source14-declared-actual-handoff.json",
+      "bytes": 41440,
+      "sha256": "190492f4afda9844a8081d192286a4a054294693963922c772570dfabdd8ee0f",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/22-source27-archive-handoff.json",
+      "original_record_name": "22-source27-declared-actual-handoff.json",
+      "bytes": 45548,
+      "sha256": "c531d1063c9c1f53991d3a23b2c0a97903f2e5dd1d249591c66d5f60d3d87e9e",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/23-source13-archive-handoff.json",
+      "original_record_name": "23-source13-declared-actual-handoff.json",
+      "bytes": 42408,
+      "sha256": "e058ab71c9086df81f644dfba4dd89074988d279906c24b5eb6eb345a2844079",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/24-source61-archive-handoff.json",
+      "original_record_name": "24-source61-declared-actual-handoff.json",
+      "bytes": 38065,
+      "sha256": "69b80f613b1731b9a4e555389e1d20c50b229369bd2d297333a4c308fb84db49",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/25-source15-archive-handoff.json",
+      "original_record_name": "25-source15-declared-actual-handoff.json",
+      "bytes": 43598,
+      "sha256": "4366ba9d0a4b68ca1be663f72577a0266b177a007c7071cd866a0e69a261cc5a",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/26-source17-archive-handoff.json",
+      "original_record_name": "26-source17-declared-actual-handoff.json",
+      "bytes": 48576,
+      "sha256": "1a2553945daf42b14ef36b8d3345050b7b5a366e0b47ce2b9f061fcc854f1e5a",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/27-source26-archive-handoff.json",
+      "original_record_name": "27-source26-declared-actual-handoff.json",
+      "bytes": 41846,
+      "sha256": "a373ffdbb93c8def7aefdd4e2e3882fe689877972ed7b42b3125718cc2a49e07",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/28-source36-archive-handoff.json",
+      "original_record_name": "28-source36-declared-actual-handoff.json",
+      "bytes": 44698,
+      "sha256": "01ec2636a3e3ae3df2c05661c44b31e34ab669cc77878d2de11eb282fda0f3da",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/29-source28-archive-handoff.json",
+      "original_record_name": "29-source28-declared-actual-handoff.json",
+      "bytes": 68557,
+      "sha256": "8aa9ff04e6ae659326d4269334aa870f14ff1e380f1dc0408ebb45d960850fbe",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/30-source33-archive-handoff.json",
+      "original_record_name": "30-source33-declared-actual-handoff.json",
+      "bytes": 42094,
+      "sha256": "147dfe1469ea1f5c6057398b96fe92ab549c2e3d39a1cd105a711ffab23752f8",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/31-source67-archive-handoff.json",
+      "original_record_name": "31-source67-declared-actual-handoff.json",
+      "bytes": 47821,
+      "sha256": "5b754894f8da4ab3201760806d46fb40f4f28043b9b997e33629873457508c49",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/32-source47-archive-handoff.json",
+      "original_record_name": "32-source47-declared-actual-handoff.json",
+      "bytes": 43397,
+      "sha256": "bf76c6eeb00fdaa5e58438a19fb50f4eed9f2e508ce913ab88a4b9ede4d47fe4",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/33-source34-archive-handoff.json",
+      "original_record_name": "33-source34-declared-actual-handoff.json",
+      "bytes": 43104,
+      "sha256": "e03895d2243ceddf98a194f5a8c1eaed0332bca7147bcfa121e7a2cb2f163505",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "质量闭合交接/34-source62-archive-handoff.json",
+      "original_record_name": "34-source62-declared-actual-handoff.json",
+      "bytes": 45513,
+      "sha256": "e8b733a579a29400c35be68b87f1ed9d0659c21f0af496f0f2a2751f73ce12e8",
+      "original_bytes_preserved": true
+    },
+    {
+      "archive_relative_path": "公开发行记录/ACTUAL-TRIGGER-DUAL-SAVE-PUBLIC-CODE-IDENTITIES.json",
+      "original_record_name": "derived minimal public facts; original DUAL-SAVE retained locally",
+      "bytes": 750,
+      "sha256": "df9313afb3b4aa92d2eb87f52176a292eb128d8cc56d75280b48cbebe5918b39",
+      "original_bytes_preserved": false
+    }
+  ],
+  "excluded": [
+    {
+      "item": "545787551-byte public main ZIP",
+      "reason": "Media archive; not opened or copied"
+    },
+    {
+      "item": "Any MP4/PDF/PCM/GT/model/cache and paths referenced by quality metadata",
+      "reason": "Only explicit metadata pointers were copied; targets were not opened"
+    },
+    {
+      "item": "ROOT aggregate/live state and refused055/056 original payloads",
+      "reason": "Not in allowlist; not opened or copied; no alternate packaging"
+    },
+    {
+      "item": "ACTUAL-TRIGGER-DUAL-SAVE.json original",
+      "reason": "Original retained locally; only public repository/commit/code identities included"
+    }
+  ],
+  "sole_ZIP": {
+    "artifact_id": 14121789772,
+    "bytes": 3488,
+    "sha256": "19401466f4a70f2e6691d8362553e5f859a893d715aa67bc4d03eba6bc03a3d9",
+    "CRC_valid": true,
+    "members": [
+      "RELEASE-VERIFICATION.json"
+    ],
+    "receipt_original_bytes_exact": true
+  },
+  "actual_quality_index_declared_handoffs": [
+    {
+      "book_order": "01",
+      "source_id": "01",
+      "bytes": 36766,
+      "sha256": "3ff50eab558ecb6cabf93dbeada04fc4828ceaf1cb398c8935474e742b67bcc4",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "02",
+      "source_id": "22",
+      "bytes": 36580,
+      "sha256": "f01a78e3d3827e23071a92eca8019ff2b14e427cff2a902bf742278900d74477",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "03",
+      "source_id": "07",
+      "bytes": 41893,
+      "sha256": "dd30a02b3d58569717599d643a9c3f0400ebea26fb70f9691cfb11666e90bcf3",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "04",
+      "source_id": "03",
+      "bytes": 37839,
+      "sha256": "087f50b0c2b2801d3e380df76f2f95aa47dff4583d46206cf985840c70de1e0e",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "05",
+      "source_id": "12",
+      "bytes": 37886,
+      "sha256": "983b9d7b9b3604c39ad7c151a4557e3c0a9040555c2dc74a1be8a6568a1a0b2d",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "06",
+      "source_id": "10",
+      "bytes": 37857,
+      "sha256": "03be4335bc5ddfc3681df14d2c2efb76ca06a95c9e6869b7911323475cedad7d",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "07",
+      "source_id": "06",
+      "bytes": 36557,
+      "sha256": "a41b2b3ddceb07ab79fdf769da80961b964afedbe3da1b35808c7606c5b5c70a",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "08",
+      "source_id": "51",
+      "bytes": 37885,
+      "sha256": "d71d0dd97834d1de8dd6e34da66798d32382fd24555c5a26897eafaed5810335",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "09",
+      "source_id": "05",
+      "bytes": 47001,
+      "sha256": "3051d13df5c46129f6f5a700f9af503a8f837e4d067c01d93c4d98f1d27f27aa",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "10",
+      "source_id": "11",
+      "bytes": 37498,
+      "sha256": "f81fbed00a1b91dd271d568f33662bd1967a0d302ebf1562655a2b0256a7e2c9",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "11",
+      "source_id": "39",
+      "bytes": 33699,
+      "sha256": "0227f62f000412ed9de381d89dd9802e3d0268e9c7d5d8364c70fb84515d83c6",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "12",
+      "source_id": "04",
+      "bytes": 37724,
+      "sha256": "1f3a271f89b42620423620f9c5be5ac077232e91929094a28ecea05f2c74a77e",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "13",
+      "source_id": "21",
+      "bytes": 36635,
+      "sha256": "56d36249e75dfadb1b12555a5544d6a2ce9edb5e9796269ad422162d3c849e0f",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "14",
+      "source_id": "55",
+      "bytes": 36616,
+      "sha256": "a3f07166b9b8e9dc87f40ee0a4e66e7675d7e79c91ed436a4638f1218cd78341",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "15",
+      "source_id": "44",
+      "bytes": 36870,
+      "sha256": "3a7e6f7818b0535036045f7870847db1d799c1900aceb389269431f161dd368b",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "16",
+      "source_id": "50",
+      "bytes": 33310,
+      "sha256": "b594ce19e3d1898f1aed243e43704576341dafec611275ada74de6c59d73f9ef",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "17",
+      "source_id": "20",
+      "bytes": 36611,
+      "sha256": "c48815cf4a288bffc83f3b1c4bb8974a28e4d06b243c4c080afceacad148d7ac",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "18",
+      "source_id": "02",
+      "bytes": 36589,
+      "sha256": "c58c800a111046decfd10ae5054054dfa99bf4f229a64cea7f14b71ecafd047f",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "19",
+      "source_id": "49",
+      "bytes": 38766,
+      "sha256": "378d56010fdec11c32b0adbcf6712ee1f83f40d476c2a25283c0026995af82d0",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "20",
+      "source_id": "42",
+      "bytes": 37656,
+      "sha256": "30b1fb019823eddafecf4b87a050726f2714355f810874bd06df283e6cf65240",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "21",
+      "source_id": "14",
+      "bytes": 41440,
+      "sha256": "190492f4afda9844a8081d192286a4a054294693963922c772570dfabdd8ee0f",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "22",
+      "source_id": "27",
+      "bytes": 45548,
+      "sha256": "c531d1063c9c1f53991d3a23b2c0a97903f2e5dd1d249591c66d5f60d3d87e9e",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "23",
+      "source_id": "13",
+      "bytes": 42408,
+      "sha256": "e058ab71c9086df81f644dfba4dd89074988d279906c24b5eb6eb345a2844079",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "24",
+      "source_id": "61",
+      "bytes": 38065,
+      "sha256": "69b80f613b1731b9a4e555389e1d20c50b229369bd2d297333a4c308fb84db49",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "25",
+      "source_id": "15",
+      "bytes": 43598,
+      "sha256": "4366ba9d0a4b68ca1be663f72577a0266b177a007c7071cd866a0e69a261cc5a",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "26",
+      "source_id": "17",
+      "bytes": 48576,
+      "sha256": "1a2553945daf42b14ef36b8d3345050b7b5a366e0b47ce2b9f061fcc854f1e5a",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "27",
+      "source_id": "26",
+      "bytes": 41846,
+      "sha256": "a373ffdbb93c8def7aefdd4e2e3882fe689877972ed7b42b3125718cc2a49e07",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "28",
+      "source_id": "36",
+      "bytes": 44698,
+      "sha256": "01ec2636a3e3ae3df2c05661c44b31e34ab669cc77878d2de11eb282fda0f3da",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "29",
+      "source_id": "28",
+      "bytes": 68557,
+      "sha256": "8aa9ff04e6ae659326d4269334aa870f14ff1e380f1dc0408ebb45d960850fbe",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "30",
+      "source_id": "33",
+      "bytes": 42094,
+      "sha256": "147dfe1469ea1f5c6057398b96fe92ab549c2e3d39a1cd105a711ffab23752f8",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "31",
+      "source_id": "67",
+      "bytes": 47821,
+      "sha256": "5b754894f8da4ab3201760806d46fb40f4f28043b9b997e33629873457508c49",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "32",
+      "source_id": "47",
+      "bytes": 43397,
+      "sha256": "bf76c6eeb00fdaa5e58438a19fb50f4eed9f2e508ce913ab88a4b9ede4d47fe4",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "33",
+      "source_id": "34",
+      "bytes": 43104,
+      "sha256": "e03895d2243ceddf98a194f5a8c1eaed0332bca7147bcfa121e7a2cb2f163505",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    },
+    {
+      "book_order": "34",
+      "source_id": "62",
+      "bytes": 45513,
+      "sha256": "e8b733a579a29400c35be68b87f1ed9d0659c21f0af496f0f2a2751f73ce12e8",
+      "only_declared_handoff_JSON_copied_no_pointer_following": true
+    }
+  ],
+  "quality_index_original_metadata_pointers_preserved_without_reading_targets": true,
+  "declared_handoff_source62_contains_only055056_evidence_path_references_not_raw_payloads": true,
+  "historical_preparation_profile_flags_not_current_publication_state": true,
+  "new_media_HTTP_QA_rendering_or_release_actions": false,
+  "root_state_or_refused_raw_payload_packaged": false
+}

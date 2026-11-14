@@ -1,0 +1,703 @@
+{
+  "kind": "actual-first34-user057-quality-closure-index-not-Git-receipt",
+  "observed_UTC": "2026-11-14T16:45:47.526036+00:00",
+  "actual_passed_count": 34,
+  "required_count": 34,
+  "all34_actual_passed": true,
+  "existing_body_new057_tail_passed": 20,
+  "new_controlled_native_QA_then057_tail_passed": 2,
+  "existing11_mature_normal18_reused": 11,
+  "existing_Tu29_qualified06_reused_under057": 1,
+  "pending_source_ids": [],
+  "pending_book_orders": [],
+  "user057_authority": {
+    "path": "/workspace/work/first50-review-release/USER-REVIEW-2026-11-14-057.json",
+    "bytes": 2232,
+    "sha256": "3c91671ad6dcc1e30f6336efa394eac1ff776c8405157b924f2e86f64266284a"
+  },
+  "rows": [
+    {
+      "new_id": "01",
+      "source_id": "01",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book01-source01/archive-handoff.json",
+        "bytes": 36766,
+        "sha256": "3ff50eab558ecb6cabf93dbeada04fc4828ceaf1cb398c8935474e742b67bcc4"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book01-source01/01-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 16628353,
+        "sha256": "ee3c8545b85ad6b13eae54ee666ad6cd0aac357afbf168d704f01b2db6804000"
+      },
+      "validated_record": "/workspace/work/first34-hold06-20261114/validated/book01-source01/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "以为柠檬汁能隐身的劫匪"
+    },
+    {
+      "new_id": "02",
+      "source_id": "22",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book02-source22/archive-handoff.json",
+        "bytes": 36580,
+        "sha256": "f01a78e3d3827e23071a92eca8019ff2b14e427cff2a902bf742278900d74477"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book02-source22/02-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 14435311,
+        "sha256": "38c8e330e9ed0f2a6c472b99bf3a833d0a40df85c19ef2963891ecb4d2e0b9ac"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book02-source22/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "会烤化汽车的大楼"
+    },
+    {
+      "new_id": "03",
+      "source_id": "07",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book03-source07/archive-handoff.json",
+        "bytes": 41893,
+        "sha256": "dd30a02b3d58569717599d643a9c3f0400ebea26fb70f9691cfb11666e90bcf3"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book03-source07/03-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 14781446,
+        "sha256": "3ba931446468d28e2d1eea2fa57ddf1c79b24bad52be4fbd697a828c7865dede"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book03-source07/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "越狱的章鱼"
+    },
+    {
+      "new_id": "04",
+      "source_id": "03",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book04-source03/archive-handoff.json",
+        "bytes": 37839,
+        "sha256": "087f50b0c2b2801d3e380df76f2f95aa47dff4583d46206cf985840c70de1e0e"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book04-source03/04-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 16294048,
+        "sha256": "fac20cb0019016aefcb944c72129155564a8277e2d109d928fd8a1d7e57caaef"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book04-source03/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "喝下细菌的医生"
+    },
+    {
+      "new_id": "05",
+      "source_id": "12",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book05-source12/archive-handoff.json",
+        "bytes": 37886,
+        "sha256": "983b9d7b9b3604c39ad7c151a4557e3c0a9040555c2dc74a1be8a6568a1a0b2d"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book05-source12/05-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15255969,
+        "sha256": "fae3966549f6f9baa810976f8a4b357e35f89d871afd2c83bf420a4b6e2aa7df"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book05-source12/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "新可乐的 79 天"
+    },
+    {
+      "new_id": "06",
+      "source_id": "10",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book06-source10/archive-handoff.json",
+        "bytes": 37857,
+        "sha256": "03be4335bc5ddfc3681df14d2c2efb76ca06a95c9e6869b7911323475cedad7d"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book06-source10/06-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15999548,
+        "sha256": "a5ea5433fd5a2ff5b6cfaa3931e5d7642d255ebe04baf08d7e397364778a00da"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book06-source10/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "被偷走的微笑"
+    },
+    {
+      "new_id": "07",
+      "source_id": "06",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book07-source06/archive-handoff.json",
+        "bytes": 36557,
+        "sha256": "a41b2b3ddceb07ab79fdf769da80961b964afedbe3da1b35808c7606c5b5c70a"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book07-source06/07-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15767781,
+        "sha256": "855e78a0da3d6742968b4e50454e1fa29a28dde2e099f9697c13a196ab893a6d"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book07-source06/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "会算术的马"
+    },
+    {
+      "new_id": "08",
+      "source_id": "51",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book08-source51/archive-handoff.json",
+        "bytes": 37885,
+        "sha256": "d71d0dd97834d1de8dd6e34da66798d32382fd24555c5a26897eafaed5810335"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book08-source51/08-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15785733,
+        "sha256": "499a69d24ac9f4c08edd0f4a801d76f7b20182c0748b543467d19596855da12f"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book08-source51/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "OK 原本是个玩笑"
+    },
+    {
+      "new_id": "09",
+      "source_id": "05",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new_controlled_native_QA_then_057_tail",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book09-source05/archive-handoff.json",
+        "bytes": 47001,
+        "sha256": "3051d13df5c46129f6f5a700f9af503a8f837e4d067c01d93c4d98f1d27f27aa"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book09-source05/09-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15894486,
+        "sha256": "5578cd4c5216751b4074812dd75f93dc6a793749e31f70ffe845e770a38b49a6"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book09-source05/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "血里的指纹"
+    },
+    {
+      "new_id": "10",
+      "source_id": "11",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book10-source11/archive-handoff.json",
+        "bytes": 37498,
+        "sha256": "f81fbed00a1b91dd271d568f33662bd1967a0d302ebf1562655a2b0256a7e2c9"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book10-source11/10-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 14853087,
+        "sha256": "7f1820c1eb6856678e2b97827fa0090008ebb2fd6c1bcf6c610096f6500844d8"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book10-source11/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "第37手"
+    },
+    {
+      "new_id": "11",
+      "source_id": "39",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book11-source39/archive-handoff.json",
+        "bytes": 33699,
+        "sha256": "0227f62f000412ed9de381d89dd9802e3d0268e9c7d5d8364c70fb84515d83c6"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book11-source39/11-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 16518749,
+        "sha256": "986d4a403d53d366622bfe81c7f8b6c429ac34678aaf61a72bd2d095e1302007"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book11-source39/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "千年虫：被成功抹去的危机"
+    },
+    {
+      "new_id": "12",
+      "source_id": "04",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book12-source04/archive-handoff.json",
+        "bytes": 37724,
+        "sha256": "1f3a271f89b42620423620f9c5be5ac077232e91929094a28ecea05f2c74a77e"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book12-source04/12-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 16927188,
+        "sha256": "4e621a9dc32881c2c4285b95b47d0a1787f130c3b7dffb2cbec822041998b054"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book12-source04/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "被街道重塑的大脑"
+    },
+    {
+      "new_id": "13",
+      "source_id": "21",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book13-source21/archive-handoff.json",
+        "bytes": 36635,
+        "sha256": "56d36249e75dfadb1b12555a5544d6a2ce9edb5e9796269ad422162d3c849e0f"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book13-source21/13-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 14646572,
+        "sha256": "96e1eaa88560d768ee1dbab73fcd354d486c888119c2493f279e6f566dadb1ee"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book13-source21/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "两次卖掉埃菲尔铁塔的骗子"
+    },
+    {
+      "new_id": "14",
+      "source_id": "55",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book14-source55/archive-handoff.json",
+        "bytes": 36616,
+        "sha256": "a3f07166b9b8e9dc87f40ee0a4e66e7675d7e79c91ed436a4638f1218cd78341"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book14-source55/14-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15858248,
+        "sha256": "9317c8dac6aea332b4831ec44bcc9e02cd9cbe47f89c5648ba8469f971b26b27"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book14-source55/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "罗马混凝土的千年之谜"
+    },
+    {
+      "new_id": "15",
+      "source_id": "44",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book15-source44/archive-handoff.json",
+        "bytes": 36870,
+        "sha256": "3a7e6f7818b0535036045f7870847db1d799c1900aceb389269431f161dd368b"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book15-source44/15-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15505775,
+        "sha256": "01eee20af4d9876b2d3733f3b18415e0c5a97272a77731f7c210f32752da9d4d"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book15-source44/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "一夜之间换边开车"
+    },
+    {
+      "new_id": "16",
+      "source_id": "50",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book16-source50/archive-handoff.json",
+        "bytes": 33310,
+        "sha256": "b594ce19e3d1898f1aed243e43704576341dafec611275ada74de6c59d73f9ef"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book16-source50/16-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15856544,
+        "sha256": "3be522b85eb8db341d6b4e3fda845f07eaf1979b7c021c066611fd6881e7b829"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book16-source50/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "微塑料：无处不在，危害几何？"
+    },
+    {
+      "new_id": "17",
+      "source_id": "20",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book17-source20/archive-handoff.json",
+        "bytes": 36611,
+        "sha256": "c48815cf4a288bffc83f3b1c4bb8974a28e4d06b243c4c080afceacad148d7ac"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book17-source20/17-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15559714,
+        "sha256": "2086aef2b1d500f17e03b9ba452946d8b7e305c45c5f291705d8158792664397"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book17-source20/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "冰里的五千年凶案"
+    },
+    {
+      "new_id": "18",
+      "source_id": "02",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book18-source02/archive-handoff.json",
+        "bytes": 36589,
+        "sha256": "c58c800a111046decfd10ae5054054dfa99bf4f229a64cea7f14b71ecafd047f"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book18-source02/18-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15872411,
+        "sha256": "9ceb3c6d6db753a4d8ce5b30b5a3acd3576eb8a6239f949b9bf604125703b695"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book18-source02/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "一颗棉花糖的真相"
+    },
+    {
+      "new_id": "19",
+      "source_id": "49",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book19-source49/archive-handoff.json",
+        "bytes": 38766,
+        "sha256": "378d56010fdec11c32b0adbcf6712ee1f83f40d476c2a25283c0026995af82d0"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book19-source49/19-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 16878778,
+        "sha256": "df02dc8c50e63278f87dbac9befcb67744ea4a54392b4541173e0cc14f711706"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book19-source49/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "两度摘得诺奖的女人"
+    },
+    {
+      "new_id": "20",
+      "source_id": "42",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book20-source42/archive-handoff.json",
+        "bytes": 37656,
+        "sha256": "30b1fb019823eddafecf4b87a050726f2714355f810874bd06df283e6cf65240"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book20-source42/20-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15698198,
+        "sha256": "67b547618bbcecc83edcb67e118ec712a64b48bb888f9283db44150dcb9a2d52"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book20-source42/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "需要戴眼镜的望远镜"
+    },
+    {
+      "new_id": "21",
+      "source_id": "14",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/14/archive-handoff.json",
+        "bytes": 41440,
+        "sha256": "190492f4afda9844a8081d192286a4a054294693963922c772570dfabdd8ee0f"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/14/14-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 14984047,
+        "sha256": "01b47a7af2d206cd19d260f29ca017c36b59d9be2ef651175a8ed859a84b907d"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/14/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "让蚂蚁变僵尸的真菌"
+    },
+    {
+      "new_id": "22",
+      "source_id": "27",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/27/archive-handoff.json",
+        "bytes": 45548,
+        "sha256": "c531d1063c9c1f53991d3a23b2c0a97903f2e5dd1d249591c66d5f60d3d87e9e"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/27/27-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 16929602,
+        "sha256": "caa7f1494eb0bcbc2507555f789eee52de56c2e060b9586d15536f54e370dd80"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/27/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "禁区里的生机"
+    },
+    {
+      "new_id": "23",
+      "source_id": "13",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/13/archive-handoff.json",
+        "bytes": 42408,
+        "sha256": "e058ab71c9086df81f644dfba4dd89074988d279906c24b5eb6eb345a2844079"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/13/13-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 17475216,
+        "sha256": "3286a5c6240eb2aadd8eaf6838ba5ca8095fec102a23f9de873d93d4a5cae19c"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/13/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "十一天不睡觉的少年"
+    },
+    {
+      "new_id": "24",
+      "source_id": "61",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new057_tail_over_existing_full_V3_body",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book24-source61/archive-handoff.json",
+        "bytes": 38065,
+        "sha256": "69b80f613b1731b9a4e555389e1d20c50b229369bd2d297333a4c308fb84db49"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book24-source61/24-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15721861,
+        "sha256": "b2be54ff9ad4f4488eff50e8d2e91a1a6ee7cb27ec5875fc994eeb988a877c83"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book24-source61/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "集装箱：重塑世界的铁盒子"
+    },
+    {
+      "new_id": "25",
+      "source_id": "15",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/15/archive-handoff.json",
+        "bytes": 43598,
+        "sha256": "4366ba9d0a4b68ca1be663f72577a0266b177a007c7071cd866a0e69a261cc5a"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/15/15-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 16528821,
+        "sha256": "ba765533da3ee80377bd7080725bcae20e73d1ec1e1ec635c3385629e63e8876"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/15/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "永不沉没的神话"
+    },
+    {
+      "new_id": "26",
+      "source_id": "17",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/17/archive-handoff.json",
+        "bytes": 48576,
+        "sha256": "1a2553945daf42b14ef36b8d3345050b7b5a366e0b47ce2b9f061fcc854f1e5a"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/17/17-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 15394386,
+        "sha256": "01df918516816ddebd23caed59e9265ff7107530d52db1768f5078c9a219866c"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/17/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "法老的诅咒"
+    },
+    {
+      "new_id": "27",
+      "source_id": "26",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/26/archive-handoff.json",
+        "bytes": 41846,
+        "sha256": "a373ffdbb93c8def7aefdd4e2e3882fe689877972ed7b42b3125718cc2a49e07"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/26/26-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 15496913,
+        "sha256": "a1fcdff12362ab1704f2a49e1bcd4ace1a44d70483985c122adbf655c0e2aa23"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/26/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "孩子们发明的语言"
+    },
+    {
+      "new_id": "28",
+      "source_id": "36",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/36/archive-handoff.json",
+        "bytes": 44698,
+        "sha256": "01ec2636a3e3ae3df2c05661c44b31e34ab669cc77878d2de11eb282fda0f3da"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/36/36-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 17314583,
+        "sha256": "9c3c2a448673726f9d389c8adef9bdf4de71ff3f67d0fcd0175cce73ab7acb7c"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/36/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "发明了数码相机，却被它打败"
+    },
+    {
+      "new_id": "29",
+      "source_id": "28",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_qualified06_preview_media_adopted_only_under_explicit_user057",
+      "handoff": {
+        "path": "/workspace/work/first34-hold06-20261114/reuse-tu29/archive-handoff.json",
+        "bytes": 68557,
+        "sha256": "8aa9ff04e6ae659326d4269334aa870f14ff1e380f1dc0408ebb45d960850fbe"
+      },
+      "final_mp4": {
+        "path": "/workspace/work/video-audit70-20261113/article28-user-review-20261114/hold18-integrator/28-4K-正文读完停留0.6秒-插图2秒-简述2秒-审核样片.mp4",
+        "bytes": 17473089,
+        "sha256": "1e1685c5b0eff4ebb2d3e8bab3f368336ea31a313b38c10a0ef0f7a1ae365163"
+      },
+      "validated_record": "/workspace/work/first34-hold06-20261114/reuse-tu29/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "青蒿一握，济世千万"
+    },
+    {
+      "new_id": "30",
+      "source_id": "33",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/33/archive-handoff.json",
+        "bytes": 42094,
+        "sha256": "147dfe1469ea1f5c6057398b96fe92ab549c2e3d39a1cd105a711ffab23752f8"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/33/33-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 16517283,
+        "sha256": "77ad61825474d84a6474a1a24928381731a60aa593a131fce8a2b0f9d9aa5814"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/33/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "洞穴里的十三个人"
+    },
+    {
+      "new_id": "31",
+      "source_id": "67",
+      "state": "actual_V3_passed_current06",
+      "role": "actual_new_controlled_native_QA_then_057_tail",
+      "handoff": {
+        "path": "/dev/shm/first34-hold06-intake/validated/book31-source67/archive-handoff.json",
+        "bytes": 47821,
+        "sha256": "5b754894f8da4ab3201760806d46fb40f4f28043b9b997e33629873457508c49"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/first34-hold06-20261114/book31-source67/31-4K-末句后0.6秒-原插图2秒-原简述2秒.mp4",
+        "bytes": 15343944,
+        "sha256": "4a54860bd3e562b3cb9c6a50b5c754054caf8a39d98e588b7b14ca16e79fab95"
+      },
+      "validated_record": "/dev/shm/first34-hold06-intake/validated/book31-source67/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "几个少年和一只狗发现的洞穴"
+    },
+    {
+      "new_id": "32",
+      "source_id": "47",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/47/archive-handoff.json",
+        "bytes": 43397,
+        "sha256": "bf76c6eeb00fdaa5e58438a19fb50f4eed9f2e508ce913ab88a4b9ede4d47fe4"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/47/47-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 17946800,
+        "sha256": "d4da7a7969270d8eb4b840a3be725759fef6ad6a229d24e5f53da8383af12ae3"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/47/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "黄石公园狼影再现"
+    },
+    {
+      "new_id": "33",
+      "source_id": "34",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/34/archive-handoff.json",
+        "bytes": 43104,
+        "sha256": "e03895d2243ceddf98a194f5a8c1eaed0332bca7147bcfa121e7a2cb2f163505"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/34/34-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 17585602,
+        "sha256": "a8780cde8970de937e314591c0d43d5f4facf17c411574c79581ca2532588b9a"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/34/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "走出苏联的俄罗斯方块"
+    },
+    {
+      "new_id": "34",
+      "source_id": "62",
+      "state": "actual_V3_passed_current06",
+      "role": "existing_mature_normal18_reused_without_processing",
+      "handoff": {
+        "path": "/workspace/work/video-revision-delivery/post-only-hold18-validated/62/archive-handoff.json",
+        "bytes": 45513,
+        "sha256": "e8b733a579a29400c35be68b87f1ed9d0659c21f0af496f0f2a2751f73ce12e8"
+      },
+      "final_mp4": {
+        "path": "/dev/shm/normal-final-hold18-composed/62/62-4K-正文读完停留0.6秒-插图2秒-简述2秒.mp4",
+        "bytes": 16044904,
+        "sha256": "bf0935bce57444d1952aec7687bc39cbeccd1164bcef01a7fed83f57264c6149"
+      },
+      "validated_record": "/workspace/work/video-revision-delivery/post-only-hold18-validated/62/validated-article-record.json",
+      "new_native_or_TTS_claimed_for_tail_update": false,
+      "remote_archive_or_publication_not_inferred": true,
+      "title_zh": "多莉：一只羊的复制"
+    }
+  ],
+  "old_handoffs_and_media_byte_unchanged": true,
+  "book35plus_or_PDF_mutated": false,
+  "remote_archive_or_publication_completion_claimed": false
+}
