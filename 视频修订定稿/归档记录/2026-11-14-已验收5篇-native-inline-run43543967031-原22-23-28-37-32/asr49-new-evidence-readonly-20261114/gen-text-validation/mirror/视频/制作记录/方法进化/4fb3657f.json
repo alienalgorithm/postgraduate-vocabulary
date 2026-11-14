@@ -1,0 +1,39 @@
+{
+ "会话": "4fb3657f",
+ "篇": "32",
+ "角色": "出稿",
+ "更新": "2026-10-29T09:57",
+ "等效": 8.74,
+ "调用": 257,
+ "平均上下文": 301,
+ "最后上下文": 432,
+ "按步骤": {
+  "踩坑核查.py": 4.44,
+  "推送两仓库.sh": 1.1,
+  "自动切点.py": 0.73,
+  "audit.py": 0.65,
+  "机器复听.py": 0.59,
+  "读音核对.py": 0.41,
+  "交付核查.py": 0.3,
+  "纯人声核对.py": 0.13,
+  "开工前": 0.13,
+  "印章.py": 0.07,
+  "方法进化表.py": 0.06,
+  "sync_article.py": 0.06,
+  "gen32.py": 0.06
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#fb#f-d#e#-#e#-#b-#c#e#/scra",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#fb#f-d#e#-#e#-#b-#c#e#/scra",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#fb#f-d#e#-#e#-#b-#c#e#/scra",
+   5
+  ]
+ ]
+}

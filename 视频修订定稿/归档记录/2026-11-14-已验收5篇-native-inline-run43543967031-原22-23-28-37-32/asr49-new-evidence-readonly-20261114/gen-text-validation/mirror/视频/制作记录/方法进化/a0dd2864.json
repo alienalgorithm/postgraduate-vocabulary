@@ -1,0 +1,33 @@
+{
+ "会话": "a0dd2864",
+ "篇": "50",
+ "角色": "",
+ "更新": "2026-11-05T19:34",
+ "等效": 8.08,
+ "调用": 209,
+ "平均上下文": 306,
+ "最后上下文": 458,
+ "按步骤": {
+  "纯人声核对.py": 3.13,
+  "踩坑核查.py": 2.53,
+  "读音核对.py": 1.83,
+  "写入.py": 0.5,
+  "开工记录.py": 0.05,
+  "check_all.py": 0.04,
+  "开工前": 0.01
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/a#dd#-#a#e-#c#-#c#b-ece#b#bc",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/a#dd#-#a#e-#c#-#c#b-ece#b#bc",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/a#dd#-#a#e-#c#-#c#b-ece#b#bc",
+   2
+  ]
+ ]
+}

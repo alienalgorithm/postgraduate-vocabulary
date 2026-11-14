@@ -1,0 +1,35 @@
+{
+ "会话": "d9fb2c8b",
+ "篇": "54",
+ "角色": "",
+ "更新": "2026-11-07T09:51",
+ "等效": 10.05,
+ "调用": 253,
+ "平均上下文": 317,
+ "最后上下文": 454,
+ "按步骤": {
+  "踩坑核查.py": 5.49,
+  "gen54.py": 1.47,
+  "词尾辅音核对.py": 0.97,
+  "读音核对.py": 0.8,
+  "check_all.py": 0.62,
+  "自动切点.py": 0.5,
+  "纯人声核对.py": 0.15,
+  "开工前": 0.03,
+  "开工记录.py": 0.02
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/d#fb#c#b-#-#e-#c#-d#edf#/scr",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/d#fb#c#b-#-#e-#c#-d#edf#/scr",
+   2
+  ],
+  [
+   "cd /home/user/postgraduate-vocabulary && git pull -q origin main #>&# | grep -v ",
+   2
+  ]
+ ]
+}

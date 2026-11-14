@@ -1,0 +1,52 @@
+{
+ "会话": "06427cc4",
+ "篇": "65",
+ "角色": "",
+ "更新": "2026-11-10T21:25",
+ "等效": 11.57,
+ "调用": 291,
+ "平均上下文": 314,
+ "最后上下文": 494,
+ "按步骤": {
+  "推送两仓库.sh": 3.49,
+  "踩坑核查.py": 2.57,
+  "合并追加.py": 1.18,
+  "gen65.py": 1.18,
+  "删除段确认.py": 0.62,
+  "响度一致性核对.py": 0.55,
+  "词尾辅音核对.py": 0.41,
+  "句内响度.py": 0.38,
+  "疑点清单.py": 0.32,
+  "读音核对.py": 0.27,
+  "开工前": 0.22,
+  "报坑.py": 0.19,
+  "写入.py": 0.11,
+  "自动切点.py": 0.1
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#cc#-#-#cc#-#d#c-#e#c#c#d#ea",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#cc#-#-#cc#-#d#c-#e#c#c#d#ea",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#cc#-#-#cc#-#d#c-#e#c#c#d#ea",
+   4
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#cc#-#-#cc#-#d#c-#e#c#c#d#ea",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#cc#-#-#cc#-#d#c-#e#c#c#d#ea",
+   2
+  ],
+  [
+   "cd /home/user/postgraduate-vocabulary; git pull -q --no-rebase origin main #>&#|",
+   2
+  ]
+ ]
+}

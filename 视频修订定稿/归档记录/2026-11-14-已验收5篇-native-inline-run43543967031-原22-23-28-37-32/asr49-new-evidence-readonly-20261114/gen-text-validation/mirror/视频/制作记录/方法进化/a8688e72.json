@@ -1,0 +1,49 @@
+{
+ "会话": "a8688e72",
+ "篇": "47",
+ "角色": "",
+ "更新": "2026-11-05T16:20",
+ "等效": 12.67,
+ "调用": 283,
+ "平均上下文": 350,
+ "最后上下文": 552,
+ "按步骤": {
+  "踩坑核查.py": 4.91,
+  "读音核对.py": 1.81,
+  "逐段看声音.py": 1.6,
+  "gen47.py": 1.09,
+  "纯人声核对.py": 0.77,
+  "疑点清单.py": 0.64,
+  "删除段确认.py": 0.61,
+  "check_all.py": 0.49,
+  "成片时刻对照.py": 0.3,
+  "词尾辅音核对.py": 0.17,
+  "写入.py": 0.09,
+  "开工前": 0.07,
+  "开工记录.py": 0.05,
+  "sync_article.py": 0.04,
+  "方法进化表.py": 0.03
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/a#e#-#e-#ba-#ba-a#aa#bca#/sc",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/a#e#-#e-#ba-#ba-a#aa#bca#/sc",
+   2
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/a#e#-#e-#ba-#ba-a#aa#bca#/scr",
+   5
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/a#e#-#e-#ba-#ba-a#aa#bca#/scr",
+   2
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/a#e#-#e-#ba-#ba-a#aa#bca#/scr",
+   3
+  ]
+ ]
+}

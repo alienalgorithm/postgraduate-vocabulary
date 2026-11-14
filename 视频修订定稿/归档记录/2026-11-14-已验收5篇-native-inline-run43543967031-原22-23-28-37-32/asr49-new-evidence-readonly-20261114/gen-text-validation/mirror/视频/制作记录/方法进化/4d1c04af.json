@@ -1,0 +1,62 @@
+{
+ "会话": "4d1c04af",
+ "篇": "34",
+ "角色": "",
+ "更新": "2026-10-30T05:37",
+ "等效": 18.92,
+ "调用": 506,
+ "平均上下文": 324,
+ "最后上下文": 226,
+ "按步骤": {
+  "踩坑核查.py": 7.28,
+  "推送两仓库.sh": 5.85,
+  "逐段看声音.py": 1.73,
+  "audit.py": 1.2,
+  "逐句确认.py": 1.11,
+  "sync_article.py": 1.03,
+  "gen34.py": 0.3,
+  "自动切点.py": 0.22,
+  "读音核对.py": 0.12,
+  "方法进化表.py": 0.04,
+  "开工记录.py": 0.02,
+  "开工前": 0.01
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/",
+   4
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/",
+   4
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/",
+   5
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/",
+   8
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/#d#c#af-#e#f-#-#d#-cc#d#cc#/s",
+   2
+  ],
+  [
+   "cd /home/user/postgraduate-vocabulary; python# - <<'E' p='视频/工具/初稿生成/gen#.py'; s",
+   4
+  ]
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "会话": "c6bc65e1",
+ "篇": "69",
+ "角色": "",
+ "更新": "2026-11-10T21:02",
+ "等效": 14.51,
+ "调用": 308,
+ "平均上下文": 390,
+ "最后上下文": 607,
+ "按步骤": {
+  "推送两仓库.sh": 6.72,
+  "踩坑核查.py": 2.24,
+  "gen69.py": 1.52,
+  "纯人声核对.py": 0.98,
+  "逐段看声音.py": 0.89,
+  "删除段确认.py": 0.79,
+  "疑点清单.py": 0.56,
+  "读音核对.py": 0.33,
+  "开工前": 0.28,
+  "确认平移.py": 0.13,
+  "修.py": 0.06,
+  "拆分组.py": 0.02
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#bc#e#-#fd#-#a-a#-c#f#c#/sc",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#bc#e#-#fd#-#a-a#-c#f#c#/sc",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#bc#e#-#fd#-#a-a#-c#f#c#/sc",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#bc#e#-#fd#-#a-a#-c#f#c#/sc",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#bc#e#-#fd#-#a-a#-c#f#c#/sc",
+   2
+  ]
+ ]
+}

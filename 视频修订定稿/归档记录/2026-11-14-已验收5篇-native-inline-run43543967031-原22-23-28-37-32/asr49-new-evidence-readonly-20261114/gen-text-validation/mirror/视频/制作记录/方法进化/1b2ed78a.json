@@ -1,0 +1,53 @@
+{
+ "会话": "1b2ed78a",
+ "篇": "35",
+ "角色": "",
+ "更新": "2026-11-03T09:26",
+ "等效": 18.06,
+ "调用": 393,
+ "平均上下文": 408,
+ "最后上下文": 628,
+ "按步骤": {
+  "gen35.py": 9.81,
+  "逐句确认.py": 1.56,
+  "make_video.py": 1.4,
+  "纯人声核对.py": 1.06,
+  "逐段看声音.py": 0.92,
+  "读音核对.py": 0.84,
+  "删除段确认.py": 0.8,
+  "check_all.py": 0.6,
+  "词尾辅音核对.py": 0.4,
+  "踩坑核查.py": 0.38,
+  "机器复听.py": 0.1,
+  "开工记录.py": 0.07,
+  "开工前": 0.05,
+  "快速重建核查.sh": 0.05,
+  "audit.py": 0.04
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#ed#a-#cbe-#-#fb#-bee#de#a",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#ed#a-#cbe-#-#fb#-bee#de#a",
+   4
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#ed#a-#cbe-#-#fb#-bee#de#a",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#ed#a-#cbe-#-#fb#-bee#de#a",
+   6
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/#b#ed#a-#cbe-#-#fb#-bee#de#a",
+   2
+  ],
+  [
+   "for p in /proc/[#-#]*; do ls -l $p/fd #>/dev/null | grep -q '做_#.lock' && kill $",
+   4
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "会话": "527a9cec",
+ "篇": "30",
+ "角色": "出稿",
+ "更新": "2026-10-29T11:17",
+ "等效": 15.59,
+ "调用": 365,
+ "平均上下文": 348,
+ "最后上下文": 566,
+ "按步骤": {
+  "推送两仓库.sh": 7.85,
+  "交付核查.py": 1.53,
+  "踩坑核查.py": 1.1,
+  "gen30.py": 0.88,
+  "读音核对.py": 0.77,
+  "确认按位置迁移.py": 0.52,
+  "开工前": 0.49,
+  "删除段确认.py": 0.43,
+  "开工记录.py": 0.41,
+  "快速重建核查.sh": 0.31,
+  "check_all.py": 0.27,
+  "说明分行.py": 0.26,
+  "自动切点.py": 0.23,
+  "逐段看声音.py": 0.15,
+  "纯人声核对.py": 0.12,
+  "机器复听.py": 0.1,
+  "疑点清单.py": 0.09,
+  "audio_qc.py": 0.06,
+  "闸门.py": 0.02
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-literate-enigma/#a#cec-#b#-#a-a#a-ad#dbaa#/scratchpa",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-literate-enigma/#a#cec-#b#-#a-a#a-ad#dbaa#/scratchpa",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-literate-enigma/#a#cec-#b#-#a-a#a-ad#dbaa#/scratchpa",
+   2
+  ]
+ ]
+}

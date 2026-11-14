@@ -1,0 +1,43 @@
+{
+ "会话": "78c899fb",
+ "篇": "38",
+ "角色": "",
+ "更新": "2026-11-04T21:36",
+ "等效": 16.42,
+ "调用": 325,
+ "平均上下文": 409,
+ "最后上下文": 620,
+ "按步骤": {
+  "踩坑核查.py": 9.9,
+  "gen38.py": 3.11,
+  "逐段看声音.py": 1.94,
+  "读音核对.py": 0.48,
+  "删除段确认.py": 0.39,
+  "纯人声核对.py": 0.31,
+  "check_all.py": 0.1,
+  "拆分组.py": 0.06,
+  "sync_article.py": 0.05,
+  "写入.py": 0.02,
+  "方法进化表.py": 0.02,
+  "开工记录.py": 0.02,
+  "开工前": 0.02
+ },
+ "手工重复": [
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/#c#fb-#afd-#-#c#-ea#db#ea/scr",
+   2
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/#c#fb-#afd-#-#c#-ea#db#ea/scr",
+   2
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/#c#fb-#afd-#-#c#-ea#db#ea/scr",
+   3
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/#c#fb-#afd-#-#c#-ea#db#ea/scr",
+   4
+  ]
+ ]
+}

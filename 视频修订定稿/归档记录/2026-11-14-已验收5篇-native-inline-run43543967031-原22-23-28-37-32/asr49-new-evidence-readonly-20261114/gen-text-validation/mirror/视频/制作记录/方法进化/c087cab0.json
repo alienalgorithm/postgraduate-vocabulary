@@ -1,0 +1,58 @@
+{
+ "会话": "c087cab0",
+ "篇": "49",
+ "角色": "",
+ "更新": "2026-11-06T15:32",
+ "等效": 14.82,
+ "调用": 318,
+ "平均上下文": 372,
+ "最后上下文": 585,
+ "按步骤": {
+  "踩坑核查.py": 7.39,
+  "纯人声核对.py": 1.75,
+  "gen49.py": 1.47,
+  "句内响度.py": 1.1,
+  "audit.py": 0.89,
+  "停顿位置精确核对.py": 0.6,
+  "词尾辅音核对.py": 0.46,
+  "逐句确认.py": 0.44,
+  "读音核对.py": 0.35,
+  "开工记录.py": 0.15,
+  "sync_article.py": 0.12,
+  "开工前": 0.09
+ },
+ "手工重复": [
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   3
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   2
+  ],
+  [
+   "python# - <<'EOF' import numpy as np,soundfile as sf w,SR=sf.read('/tmp/claude-#",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   4
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   2
+  ],
+  [
+   "cd /home/user/postgraduate-vocabulary && FP=$(md#sum /tmp/claude-#/-home-user-po",
+   2
+  ],
+  [
+   "cd /tmp/claude-#/-home-user-postgraduate-vocabulary/c#cab#-d#-#c#-#b#-#ef#f/scra",
+   2
+  ]
+ ]
+}
