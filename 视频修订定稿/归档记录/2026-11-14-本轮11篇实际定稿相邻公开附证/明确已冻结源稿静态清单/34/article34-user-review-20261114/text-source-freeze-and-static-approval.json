@@ -1,0 +1,127 @@
+{
+  "article": "34",
+  "book_order": "33",
+  "source_and_static_ready": true,
+  "created_utc": "2026-11-14T09:37:45.377014+00:00",
+  "source_JSON_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+  "GEN_sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+  "MD_sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+  "exact_source_diff": [
+    {
+      "path": "/sentences/8/chunks/1/align/0/1",
+      "reason": "value",
+      "expected": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "actual": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    },
+    {
+      "path": "/sentences/8/chunks/1/zh",
+      "reason": "value",
+      "expected": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "actual": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    }
+  ],
+  "files_applied": [
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/脚本/34.json",
+      "before_sha256": "74921848a6bb25a2ba631813f60d4756c9ff90c64c03a2fb936ce34f310ce509",
+      "after_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+      "bytes": 66975
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/工具/初稿生成/gen34.py",
+      "before_sha256": "a05ac77d9f22af406bc38a5a4905073ccc457e4de2cce4b8da16f64912423c52",
+      "after_sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+      "bytes": 61123
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/新版定稿/34-the-game-that-escaped-the-soviet-union.md",
+      "before_sha256": "e3244b67b21e283e67f4e88e932a1dbb85bf273a48ee009b3f435e1c5814831c",
+      "after_sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+      "bytes": 18251
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/制作记录/34_待改清单.md",
+      "before_sha256": "b8a01b0554ea56b4df425cb622d759881cafa5fdd13471035c05689d9f52c0b3",
+      "after_sha256": "7ccf745678133b18f7ff0f506610e6203280184dc91b903b99bba00d7736939e",
+      "bytes": 35036
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/gen-sources/gen34.py",
+      "before_sha256": null,
+      "after_sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+      "bytes": 61123
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/制作记录/逐句确认/34.json",
+      "before_sha256": "16540516c3398b27fb5d6c498e6ab876b8561174aabb4e7737589bf057e0bcf6",
+      "after_sha256": "cbd1dca3a8299e93573539a0049d8e3067ced9f4843f8758d33fe6ad756ab170",
+      "bytes": 11563
+    }
+  ],
+  "original_GEN_JSON_and_text": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/report.json",
+    "sha256": "8663cbb891ea2b80a895fb4cbd6c8a15bf8f5794199990b32c21667aa1277d5e",
+    "GEN_full_JSON_exact": true,
+    "raw_before_repair_exit": 0,
+    "original_repair_exit": 0,
+    "after_repair_exit": 0,
+    "true_old_last_sent_snapshot_sha256": "b6ff63c80d80149615227a3a09b1ee644ab00689b658ed0078490f4a16d8e99e",
+    "no_missing_snapshot_skip": true,
+    "text_record_S9_and_existing_S5_T38_S17_G35_raw_normalized_fingerprints_refreshed_by_original_tool": true,
+    "audio_confirmation_keys_unchanged": true
+  },
+  "own_actual_postrepair_semantic_proof": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-old-vs-original-postrepair-only-requested-translation.json",
+    "sha256": "5bc865fb95fcae59db06799d51790985f8eae69dff22fa5dd81ec1d568b81301",
+    "postrepair_source_diff_to_actual_old_accepted_is_only_S9_two_Chinese_paths": true
+  },
+  "actual_static": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-render-report.json",
+    "sha256": "ed471a874093e3bc4bdfd5f9711381ac038cedf35aafa9fc4b2515b35edc5c5a",
+    "all17sentences_before_after_1080_4K_within_bounds_no_orphans": true,
+    "two_target_page_images_actually_viewed": true,
+    "all16_other_pages_metrics_exact": true,
+    "body_tail_and_original5point_summary_pixels_exact": true,
+    "summary_font_4K_px": 108
+  },
+  "strict_original_audio_baseline": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-original-audio-baseline/strict-original-cache-source-binding.json",
+    "sha256": "c75076b87da35723f10bc284a0058cff4c88d48c15e8b36b814face54ac95c22",
+    "accepted_WAV_sha256": "460d6113f34677d349884ddb0e80b68ff4bd6f16efce5feb0e998e7eab9659d4",
+    "accepted_AAC_sha256": "5649e6746d919510ba830daa5509ab68814dc1afe4d3578cf9c246dfb2c4a0e6",
+    "English_all_voice_controls_original_notes_and_summary_preserved": true,
+    "no_audio_repair_requested_or_applied": true
+  },
+  "CI_approval": {
+    "before_sha256": "9f180edf00c4fbc569c78994fa0c9b912a824914c62b396919fe73d94c27335f",
+    "after_sha256": "3ffed87900a1f2106940c7ef5ad4623358baa7b5736d6f7dbeb12bbaaa85cb4a",
+    "before_row": {
+      "source_id": "34",
+      "new_id": "33",
+      "source_json_sha256": "74921848a6bb25a2ba631813f60d4756c9ff90c64c03a2fb936ce34f310ce509",
+      "approved_summary_text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e",
+      "summary_png_sha256": "7288ac6e6aca86bb729a135f2b19953204c88f029cba4437ab748dc6e56ee85b",
+      "summary_rgb_sha256": "cb48b2c86859d8cec318b88d1ae1177b9ad10c82ee450ef8d7d1017d2bb94411",
+      "summary_font_4k_px": 108,
+      "source_layout_structural_sha256": "240c255ecb59faf42dc7709f6424302f83411366c01a7065fe92e53b118be939"
+    },
+    "after_row": {
+      "source_id": "34",
+      "new_id": "33",
+      "source_json_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+      "approved_summary_text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e",
+      "summary_png_sha256": "7288ac6e6aca86bb729a135f2b19953204c88f029cba4437ab748dc6e56ee85b",
+      "summary_rgb_sha256": "cb48b2c86859d8cec318b88d1ae1177b9ad10c82ee450ef8d7d1017d2bb94411",
+      "summary_font_4k_px": 108,
+      "source_layout_structural_sha256": "a0ee56297384746a36f21c4ba6bcdf6068b86a886c7418822f38ac94f2df4de4"
+    },
+    "only34_two_digest_leaves_changed": true,
+    "all_other_rows_and_original_summary_approval_fields_exact": true
+  },
+  "current_global_tail_hold_seconds_for_pipeline_owner_only": 0.6,
+  "no_timing_fields_added_to_source": true,
+  "native_or_audio_generated_by_this_text_writer": false,
+  "all_PDF_work_paused_no_PDF_change": true,
+  "native_production_owner": "/root/resume_audio_ci",
+  "source62_not_edited_and_is_owned_by_kodak36_review": true
+}

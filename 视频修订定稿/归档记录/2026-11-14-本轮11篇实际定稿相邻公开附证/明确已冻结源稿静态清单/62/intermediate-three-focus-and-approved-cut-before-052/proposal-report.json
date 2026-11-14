@@ -1,0 +1,206 @@
+{
+  "article": "62",
+  "book_order": "34",
+  "kind": "three-user-focus-and-root-approved-one-leaf-audio-repair-proposal",
+  "quality_acceptance": false,
+  "before_actual_source_sha256": "8147198c65aa6f66839b2a7050dbe13c5e4209725ddff01bcb636859340ba084",
+  "before_actual_MD_sha256": "e9c838ba99403703c71b8360d6b070f861d480397f70ce2caf1377ae2be6d840",
+  "after_source_sha256": "b6623901b7f5d4edccb905fa7b44f7666890d6b63e491f6b6028e63f15b0c6f4",
+  "generator_sha256": "f335c222edabcad7ebdf7d1e52a8f5c2caf2f2ce0f67a6e4d6ab08d3389e39cf",
+  "manuscript_sha256": "e2eacffe9968ba6debca6a10a2af5d7d51fcfad0041afa240ec5d54deecfef83",
+  "exact_JSON_diff": [
+    {
+      "path": "/allow_clash",
+      "reason": "list_length",
+      "expected_length": 2,
+      "actual_length": 5
+    },
+    {
+      "path": "/allow_clash/2",
+      "reason": "unexpected_item",
+      "actual": "derived"
+    },
+    {
+      "path": "/allow_clash/3",
+      "reason": "unexpected_item",
+      "actual": "funding"
+    },
+    {
+      "path": "/allow_clash/4",
+      "reason": "unexpected_item",
+      "actual": "ageing"
+    },
+    {
+      "path": "/sentences/5/chunks/2/align/1/0",
+      "reason": "value",
+      "expected": "embryo-derived **duo**, Megan and Morag, in 1995.",
+      "actual": "embryo-**derived** **duo**, Megan and Morag, in 1995."
+    },
+    {
+      "path": "/sentences/5/chunks/2/align/1/1",
+      "reason": "value",
+      "expected": "于1995年由胚胎衍生的**一对**(duo)绵羊：梅根和莫拉格。",
+      "actual": "于1995年由胚胎**衍生的**(derived)**一对**(duo)绵羊：梅根和莫拉格。"
+    },
+    {
+      "path": "/sentences/5/chunks/2/en",
+      "reason": "value",
+      "expected": "and Roslin's embryo-derived **duo**, Megan and Morag, in 1995.",
+      "actual": "and Roslin's embryo-**derived** **duo**, Megan and Morag, in 1995."
+    },
+    {
+      "path": "/sentences/5/chunks/2/zh",
+      "reason": "value",
+      "expected": "以及罗斯林于1995年由胚胎衍生的**一对**(duo)绵羊：梅根和莫拉格。",
+      "actual": "以及罗斯林于1995年由胚胎**衍生的**(derived)**一对**(duo)绵羊：梅根和莫拉格。"
+    },
+    {
+      "path": "/sentences/9/chunks/0/align/4/0",
+      "reason": "value",
+      "expected": "funding",
+      "actual": "**funding**"
+    },
+    {
+      "path": "/sentences/9/chunks/0/align/4/1",
+      "reason": "value",
+      "expected": "资金",
+      "actual": "**提供资金**(funding)"
+    },
+    {
+      "path": "/sentences/9/chunks/0/en",
+      "reason": "value",
+      "expected": "In March 1997 Clinton **prohibited** federal funding for such experiments.",
+      "actual": "In March 1997 Clinton **prohibited** federal **funding** for such experiments."
+    },
+    {
+      "path": "/sentences/9/chunks/0/zh",
+      "reason": "value",
+      "expected": "1997年3月，克林顿**禁止**(prohibited)联邦资金用于这类实验。",
+      "actual": "1997年3月，克林顿**禁止**(prohibited)联邦**提供资金**(funding)用于这类实验。"
+    },
+    {
+      "path": "/sentences/14/chunks/1/align/0/0",
+      "reason": "value",
+      "expected": "were ageing normally,",
+      "actual": "were **ageing** normally,"
+    },
+    {
+      "path": "/sentences/14/chunks/1/align/0/1",
+      "reason": "value",
+      "expected": "正在正常衰老，",
+      "actual": "正在正常**衰老**(ageing)，"
+    },
+    {
+      "path": "/sentences/14/chunks/1/en",
+      "reason": "value",
+      "expected": "were ageing normally, without **hypertension** or **diabetes**.",
+      "actual": "were **ageing** normally, without **hypertension** or **diabetes**."
+    },
+    {
+      "path": "/sentences/14/chunks/1/zh",
+      "reason": "value",
+      "expected": "正在正常衰老，没有**高血压**(hypertension)，也没有**糖尿病**(diabetes)。",
+      "actual": "正在正常**衰老**(ageing)，没有**高血压**(hypertension)，也没有**糖尿病**(diabetes)。"
+    },
+    {
+      "path": "/停顿插入点/S15/2/0",
+      "reason": "value",
+      "expected": 3.580083,
+      "actual": 3.584083
+    }
+  ],
+  "all_original_spoken_English_chunk_boundaries_exact": true,
+  "all_original_small_notes_and_five_point_summary_exact": true,
+  "only_bare_Chinese_change_is_S10_funding_zijin_to_tigongzijin": true,
+  "S12_ageing_untouched": true,
+  "voice_control_diff_only_approved_S15_2_sample96_shift": true,
+  "approved_control": {
+    "before": 3.580083,
+    "after": 3.584083,
+    "old_sample": 85922,
+    "new_sample": 86018,
+    "sample_difference": 96
+  },
+  "audio_candidate_conclusion_path": "/workspace/work/dolly62-audio-user-review-20261114/FULL-CANDIDATE-AUDIO-REVIEW-CONCLUSION.json",
+  "audio_candidate_conclusion_sha256": "848d0c7ce21dd7f3bdf7f120ea25df294a80f770de25b12298917e54a0cfc78e",
+  "genuine_last_sent_snapshot_sha256": "d353d680303e20089dd79d03e4a1ccf43b238bab75714c320b14cbdc6ff815e5",
+  "baseline_states": {
+    "视频/脚本/62.json": {
+      "exists": true,
+      "sha256": "4b3a97f2b6404e1b091537c21f01fc60088902f596803345983c38be52ec79eb"
+    },
+    "视频/工具/初稿生成/gen62.py": {
+      "exists": true,
+      "sha256": "bb99070c311479355156a3e01711befb726290663de19b8f26806f90537857dd"
+    },
+    "新版定稿/62-dolly-the-copied-sheep.md": {
+      "exists": false,
+      "sha256": null
+    },
+    "视频/制作记录/62_待改清单.md": {
+      "exists": true,
+      "sha256": "ae281b66c302d1c20512933558aeedd53b53652facf7131122bbef7f58a3367a"
+    },
+    "视频/制作记录/逐句确认/62.json": {
+      "exists": true,
+      "sha256": "18da501aff5790cad3493a78fd31930c4a51bc4a198f5f98f3b8fe1110cce9b9"
+    },
+    "视频/工具/用户同意记录.json": {
+      "exists": true,
+      "sha256": "68f7a14073abe708c877db71c4d475ac551f2f9a630e3ba232ba11eae6c89317"
+    },
+    "gen-sources/gen62.py": {
+      "exists": false,
+      "sha256": null
+    }
+  },
+  "review_records": [
+    {
+      "path": "/workspace/work/first50-review-release/USER-REVIEW-2026-11-14-044.json",
+      "sha256": "0b1ece877a06227c1ff9b97c70979167dd1727ff9ac9949599dedce9198ecd3d"
+    },
+    {
+      "path": "/workspace/work/first50-review-release/USER-REVIEW-2026-11-14-045.json",
+      "sha256": "d7c7f5c308c88418049d59f6fef3b90b26172834a94f4b17112258ab13e55697"
+    },
+    {
+      "path": "/workspace/work/first50-review-release/USER-REVIEW-2026-11-14-046.json",
+      "sha256": "5fbc35de94e620709147d66c6ae6d1a0fff838a7dc0b6eebde01cbea03c7e201"
+    },
+    {
+      "path": "/workspace/work/first50-review-release/USER-REVIEW-2026-11-14-047.json",
+      "sha256": "afb113c1d15f026eb48ce30ea2555922c819217e595ca86ba360aabde1f967ae"
+    },
+    {
+      "path": "/workspace/work/first50-review-release/USER-REVIEW-2026-11-14-048.json",
+      "sha256": "7b73ad442da7eab78d7f95730872fa051e217d91b9b5aec36ecacc38c20b3a74"
+    },
+    {
+      "path": "/workspace/work/first50-review-release/USER-REVIEW-2026-11-14-049.json",
+      "sha256": "14a3dcb5cad24d463eb3643c3e8d64e54c8b925591ad61aaecc2380b95be08e1"
+    }
+  ],
+  "native_or_TTS_or_video_or_PDF_not_executed": true,
+  "created_utc": "2026-11-14T09:31:05.002551+00:00",
+  "auth_entries": [
+    {
+      "篇": "62",
+      "日期": "2026-11-10",
+      "原话": "不用管，这个就是我清点的词，我清点的词不用管，撞不撞车，全都留，全都留，全都特批。我专门说的这个加为重点词汇的这个所有的词全都这个重点特批。",
+      "用于": "allow_clash.derived / funding / ageing（2026-11-14用户044/045/047逐项指定本篇新增重点；仅S6 derived衍生的、S10 funding提供资金、S15 ageing衰老）",
+      "来源": "真实通用撞词同意原话；本轮具体范围见USER-REVIEW-2026-11-14-044/045/047.json，保其他篇原有重点不变"
+    },
+    {
+      "篇": "62",
+      "日期": "2026-11-14",
+      "原话": "Ok了，ok了，那这一篇可以定稿生成4k视频了。就克隆羊多利这一篇。推优那一篇怎么还没给我呢？怎么还没给我呢？记得之后每一个每一篇生成这个4k视频，记住都要这个，最后有那个0.3秒的间隔。屠呦呦那篇，屠呦呦那篇怎么还没给我呢？我看看。",
+      "用于": "定稿62：按用户044/045/047三处重点词及词表，046所报接缝按root049最小4ms修复后，原完整音频/ASR门通过才重新4K；derived所需原T34最小拆分及真实旧L13所见S6排版纳入本次定稿；结尾间隔后来已由用户统一改为0.6秒覆盖本条0.3秒，仅由audio处理",
+      "来源": "root转交048真实原话（非048摘要冒充逐字引语）；USER-REVIEW-2026-11-14-048.json确认本轮范围，049为root实施决定，毫秒数不是用户原话"
+    }
+  ],
+  "final_source_after_routine_original_T34_and_specific_metadata_sha256": "0f9815cf3d144356246a820f194cd19fefc69cad3e9deff27d3aec30bb93dd23",
+  "final_GEN_sha256": "4ed6b5b11c2b9e5d876ff07a80db8692ce960e9559d456995f33a6c7a4acac7a",
+  "original_T34_one_group_report_sha256": "d0f9dc1b30bac116f1e1715f8e65c7a8e8af37446baf1b9b474dcccbc29579aa",
+  "all_original_voice_controls_except_root049_leaf_unchanged": true,
+  "required_future_tail_hold_seconds": 0.6
+}

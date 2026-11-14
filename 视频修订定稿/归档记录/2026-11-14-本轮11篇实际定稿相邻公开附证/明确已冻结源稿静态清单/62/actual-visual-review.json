@@ -1,0 +1,39 @@
+{
+  "article": "62",
+  "book_order": "34",
+  "kind": "actual-4K-static-image-inspection-not-native-video",
+  "approved": true,
+  "source_sha256": "0f9815cf3d144356246a820f194cd19fefc69cad3e9deff27d3aec30bb93dd23",
+  "images": [
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/S06-C3-derived.png",
+      "sha256": "5dcd75525329fe85065eee9e6a8ac6c1b2972bc016bac2bc053d4035f767800c"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/S10-C1-funding.png",
+      "sha256": "984eabe253bb63264d5041ca1c7b0af8a2cd55e25dd82bd65a7db69ddc1a680e"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/S15-C2-ageing.png",
+      "sha256": "915d478e11f1f65164dc93c31caf5a395c1630de3461ecfc4fe8167f88444708"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/after-body-tail.png",
+      "sha256": "d2325655fb96379d7eee26cfabe386ed750aa800badf23e565825eb91d36315a"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/after-summary.png",
+      "sha256": "a312e685fa637990b06161d020bb570ec98731937202f72baf5e3befa3efae3a"
+    }
+  ],
+  "findings": [
+    "derived alone within embryo-derived and Chinese衍生的 same cyan; duo Chinese一对 retains separate colour below exact noun",
+    "funding same purple as requested提供资金; federal/联邦 ordinary; word table identifies funding noun and fund verb",
+    "only S15 ageing green as衰老, originally emphasized hypertension/diabetes retained; original four insertion note legible",
+    "last Behind glass sentence and original testify to small note only, no unapproved new small caption",
+    "five detailed summary points complete and current approved128px RGB unchanged"
+  ],
+  "human_listening_or_actual_native_video_inspection_claim": false,
+  "PDF_not_accessed": true,
+  "final_static_report_sha256": "b8d097d6acaf15ca006b409301a470b42e764ef43f8b9a5a4eb2187654ebf6fd"
+}

@@ -1,0 +1,235 @@
+{
+  "article_source": 62,
+  "book_order": 34,
+  "kind": "independent-three-feedback-and-specific-pause-candidate-review",
+  "candidate": {
+    "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/candidate-payload/视频/脚本/62.json",
+    "sha256": "0f9815cf3d144356246a820f194cd19fefc69cad3e9deff27d3aec30bb93dd23",
+    "bytes": 56056
+  },
+  "GEN": {
+    "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/candidate-payload/视频/工具/初稿生成/gen62.py",
+    "sha256": "4ed6b5b11c2b9e5d876ff07a80db8692ce960e9559d456995f33a6c7a4acac7a",
+    "bytes": 46628
+  },
+  "baseline_actual8147": {
+    "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/before/视频/脚本/62.json",
+    "sha256": "8147198c65aa6f66839b2a7050dbe13c5e4209725ddff01bcb636859340ba084",
+    "bytes": 48211
+  },
+  "manuscript": {
+    "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/candidate-payload/新版定稿/62-dolly-the-copied-sheep.md",
+    "sha256": "e2eacffe9968ba6debca6a10a2af5d7d51fcfad0041afa240ec5d54deecfef83",
+    "bytes": 15754
+  },
+  "exact_JSON_differences": [
+    {
+      "path": "/allow_clash",
+      "before": [
+        "honoured",
+        "stripped of"
+      ],
+      "after": [
+        "honoured",
+        "stripped of",
+        "derived",
+        "funding",
+        "ageing"
+      ]
+    },
+    {
+      "path": "/sentences/5/chunks/2/align",
+      "before": [
+        [
+          "and Roslin's",
+          "以及罗斯林"
+        ],
+        [
+          "embryo-derived **duo**, Megan and Morag, in 1995.",
+          "于1995年由胚胎衍生的**一对**(duo)绵羊：梅根和莫拉格。"
+        ]
+      ],
+      "after": [
+        [
+          "and Roslin's",
+          "以及罗斯林"
+        ],
+        [
+          "embryo-**derived**",
+          "于1995年由胚胎**衍生的**(derived)"
+        ],
+        [
+          "**duo**, Megan and Morag, in 1995.",
+          "**一对**(duo)绵羊：梅根和莫拉格。"
+        ]
+      ]
+    },
+    {
+      "path": "/sentences/5/chunks/2/en",
+      "before": "and Roslin's embryo-derived **duo**, Megan and Morag, in 1995.",
+      "after": "and Roslin's embryo-**derived** **duo**, Megan and Morag, in 1995."
+    },
+    {
+      "path": "/sentences/5/chunks/2/zh",
+      "before": "以及罗斯林于1995年由胚胎衍生的**一对**(duo)绵羊：梅根和莫拉格。",
+      "after": "以及罗斯林于1995年由胚胎**衍生的**(derived)**一对**(duo)绵羊：梅根和莫拉格。"
+    },
+    {
+      "path": "/sentences/9/chunks/0/align/4/0",
+      "before": "funding",
+      "after": "**funding**"
+    },
+    {
+      "path": "/sentences/9/chunks/0/align/4/1",
+      "before": "资金",
+      "after": "**提供资金**(funding)"
+    },
+    {
+      "path": "/sentences/9/chunks/0/en",
+      "before": "In March 1997 Clinton **prohibited** federal funding for such experiments.",
+      "after": "In March 1997 Clinton **prohibited** federal **funding** for such experiments."
+    },
+    {
+      "path": "/sentences/9/chunks/0/zh",
+      "before": "1997年3月，克林顿**禁止**(prohibited)联邦资金用于这类实验。",
+      "after": "1997年3月，克林顿**禁止**(prohibited)联邦**提供资金**(funding)用于这类实验。"
+    },
+    {
+      "path": "/sentences/14/chunks/1/align/0/0",
+      "before": "were ageing normally,",
+      "after": "were **ageing** normally,"
+    },
+    {
+      "path": "/sentences/14/chunks/1/align/0/1",
+      "before": "正在正常衰老，",
+      "after": "正在正常**衰老**(ageing)，"
+    },
+    {
+      "path": "/sentences/14/chunks/1/en",
+      "before": "were ageing normally, without **hypertension** or **diabetes**.",
+      "after": "were **ageing** normally, without **hypertension** or **diabetes**."
+    },
+    {
+      "path": "/sentences/14/chunks/1/zh",
+      "before": "正在正常衰老，没有**高血压**(hypertension)，也没有**糖尿病**(diabetes)。",
+      "after": "正在正常**衰老**(ageing)，没有**高血压**(hypertension)，也没有**糖尿病**(diabetes)。"
+    },
+    {
+      "path": "/停顿插入点/S15/2/0",
+      "before": 3.580083,
+      "after": 3.584083
+    },
+    {
+      "path": "/换行变更已获同意",
+      "before": null,
+      "after": {
+        "S6": "用户2026-11-14本篇定稿原话：“Ok了，ok了，那这一篇可以定稿生成4k视频了。就克隆羊多利这一篇。”（执行本轮derived重点词所需的原T34单组拆分；已用真实旧snapshot实比L13，仅S6实际换行随该指定词色调整，全文EN与中文内容保持）"
+      }
+    },
+    {
+      "path": "/核对确认/合组/S6 duo, Megan and Morag, in 1995",
+      "before": null,
+      "after": "对齐不了：Megan and Morag是duo的同位语，in 1995修饰这对羊；原中文于1995年已随胚胎衍生的定语前置在上一组。继续按英文逐词分割会让末尾in 1995没有对应中文或移动已定稿日期位置，现按原文语序保留一对绵羊与人名同位语。"
+    },
+    {
+      "path": "/核对确认/合组/S6 embryo-derived",
+      "before": null,
+      "after": "对齐不了：embryo-derived是原英文一个连字符复合词，只derived部分按用户要求标为重点；按空格拆成embryo-和derived会凭空增加原文空格。in 1995时间状语按原定稿中文前置为于1995年，保留在由胚胎衍生的这个定语组。"
+    },
+    {
+      "path": "/核对确认/对齐/S6-3 duo, Megan and Morag, in 1995.",
+      "before": null,
+      "after": "embryo-derived、in 1995 都修饰 duo，中文定语“1995年用胚胎细胞培育的”必须提前"
+    },
+    {
+      "path": "/核对确认/对齐/S6-3 embryo-derived duo, Megan and ",
+      "before": "embryo-derived、in 1995 都修饰 duo，中文定语“1995年用胚胎细胞培育的”必须提前",
+      "after": null
+    }
+  ],
+  "semantic_checks": {
+    "derived": {
+      "English": "embryo-**derived**",
+      "Chinese": "衍生的",
+      "part_of_speech": "复合形容词中的过去分词，修饰duo；只derived重点，embryo-与原连字符普通。",
+      "passed": true
+    },
+    "funding": {
+      "sentence_Chinese": "提供资金",
+      "English_part_of_speech": "federal funding中的funding为名词：资助、资金支持；中文按用户指定使用动词性译法。",
+      "table_fund": "fund v. 提供资金",
+      "passed": true
+    },
+    "ageing": {
+      "only_new_focus": "S15C2",
+      "Chinese": "衰老",
+      "part_of_speech": "age的现在分词，与were构成过去进行式；保留英式ageing拼写。",
+      "S12_entire_sentence_exact": true,
+      "passed": true
+    }
+  },
+  "actual_vocabulary_table_rows": {
+    "derived": "| derived | 本文：衍生的；adj. 衍生的；derive v. 源自，衍生（embryo-derived；derive from） | 2 |",
+    "funding": "| funding | 本文：提供资金（资助、资金支持）；n. 资助，资金支持（federal funding）；fund v. 提供资金 | 3 |",
+    "ageing": "| ageing | 本文：衰老；v. (age) 变老，衰老（ageing normally；英式拼写 ageing） | 4 |"
+  },
+  "scope_checks": {
+    "only_three_requested_focus_items_and_one_bare_Chinese_funding_change": true,
+    "all_spoken_English_and_sentence_chunk_boundaries_exact": true,
+    "all_notes_and_actual8147_summary_exact": true,
+    "S6_T34_only_align_split_derived_and_duo": true,
+    "S6_align_EN_join_exact_chunk_EN": true,
+    "S6_align_Chinese_join_exact_chunk_Chinese": true,
+    "all_other_sentences_exact_after_reverting_three_requested_focus_changes": true,
+    "allow_clash_only_appends_derived_funding_ageing": true,
+    "original_alignment_reason_value_migrated_exact": true
+  },
+  "specific_pause": {
+    "path": "/停顿插入点/S15/2/0",
+    "before": 3.580083,
+    "after": 3.584083,
+    "delta_seconds": "0.004",
+    "sample_rate_for_reported_control": 24000,
+    "delta_samples": 96,
+    "other_voice_control_leaves_exact": true,
+    "authorization_basis": "Parent explicitly reported root-approved specific implementation leaf; not represented as a user-spoken millisecond instruction.",
+    "audio_waveform_or_acoustic_pass_claimed": false
+  },
+  "routine_sentence_records": {
+    "before": {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/before/current-PAY/视频/制作记录/逐句确认/62.json",
+      "sha256": "18da501aff5790cad3493a78fd31930c4a51bc4a198f5f98f3b8fe1110cce9b9",
+      "bytes": 11364
+    },
+    "candidate": {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/candidate-payload/视频/制作记录/逐句确认/62.json",
+      "sha256": "ffce95a560df5d72df97d40c5bb9fbdb0bce0201daf30738e05af4912201a61b",
+      "bytes": 11982
+    },
+    "only_changed_sentences": [
+      "S10",
+      "S15",
+      "S6"
+    ],
+    "actual_conclusions_read_and_match_derived_funding_ageing_grammar": true
+  },
+  "final_specific_metadata": {
+    "record": {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/final-specific-metadata-and-actual-authorization.json",
+      "sha256": "f8715bce5610ffdb3e7c5b235b6825fe285ed420b3cfd423884aabdd6752f027",
+      "bytes": 3995
+    },
+    "previous_observed_candidate_sha256": "12fe1e790fc092b63af83753a6529be1a87f937c0c46583a30b513834a7f578f",
+    "reverse_only_recorded_three_metadata_changes_in_memory_reconstructs_exact12fe_bytes": true,
+    "sentences_and_all_voice_controls_deep_equal_to_12fe": true,
+    "grammar_reasons": "embryo-derived为原文单一连字符复合词；1995中文前置，duo与人名同位语及末尾EN年份保组。",
+    "consent_basis": "当前S6换行依据已引用本篇实际048定稿授权；不再误套Oct23，也未声称用户说过特定换行或4ms。"
+  },
+  "candidate_text_and_specific_control_scope_passed": true,
+  "scope_excludes_tail_hold_media_generation_and_formal_audio_gate": true,
+  "native_media_audio_or_formal_tool_pass_claimed": false,
+  "reviewer_reran_production_tools": false,
+  "source_CI_media_audio_PDF_or_remote_modified": false,
+  "reviewer": "/root/resume_preflight/article14_lexical_sanity",
+  "reviewed_utc": "2026-11-14T09:39:01.555266+00:00"
+}

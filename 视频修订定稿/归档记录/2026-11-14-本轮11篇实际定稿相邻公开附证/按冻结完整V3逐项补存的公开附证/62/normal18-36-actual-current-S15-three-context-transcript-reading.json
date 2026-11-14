@@ -1,0 +1,68 @@
+{
+  "kind": "actual-current62-S15-three-context-transcript-reading",
+  "article": "62",
+  "actual_native_run": 43587082100,
+  "actual_HEAD": "f9d0404391b944444e3b1ff39fdf9bb77ae699e2",
+  "source_report": {
+    "path": "/dev/shm/video-review-native/43587082100/62/artifact-files/62-current-S15-original-dual-ASR-contexts.json",
+    "sha256": "ba9efe44d11f3aea98010ffdff0cc62e6360e050b0eb7376a715fc432e563b92",
+    "bytes": 3382
+  },
+  "actual_input_kind": "Current actual native raw PCM c533, original producer segmentation, unchanged original two ASR models; no private PCM exported.",
+  "all_three_contexts_actually_read": true,
+  "verbatim_contexts": [
+    {
+      "context": "whole-S15",
+      "actual_native_seconds": [
+        109.805,
+        119.59
+      ],
+      "reference_text": "In July 2016, 13 clones, four from her cell line, were ageing normally, without hypertension or diabetes.",
+      "full_transcripts_by_original_recognizer": {
+        "small.en": "In July 2016, 13 clones, four from her cell line, were aging normally without hypertension or diabetes.",
+        "parakeet": "In July 2016, 13 clones four from her cell line were aging normally without hypertension or diabetes."
+      },
+      "original_comparison_differences": []
+    },
+    {
+      "context": "pieces2-4",
+      "actual_native_seconds": [
+        112.11,
+        116.7
+      ],
+      "reference_text": "13 clones, four from her cell line, were ageing normally,",
+      "full_transcripts_by_original_recognizer": {
+        "small.en": "13 clones, 4 from her cell line, were aging normally.",
+        "parakeet": "Thirteen clones, four from her cell line, were aging normally."
+      },
+      "original_comparison_differences": []
+    },
+    {
+      "context": "piece3-four-insertion",
+      "actual_native_seconds": [
+        113.8291,
+        115.0972
+      ],
+      "reference_text": "four from her cell line,",
+      "full_transcripts_by_original_recognizer": {
+        "small.en": "4 from her cell line.",
+        "parakeet": ""
+      },
+      "original_comparison_differences": [
+        [
+          "four from her cell line",
+          "（没听到）〔parakeet〕"
+        ]
+      ]
+    }
+  ],
+  "whole_and_pieces2to4_both_models_match_original_comparison": true,
+  "short_piece3_small_en_correct_parakeet_empty": true,
+  "short_piece3_parakeet_not_claimed_passed": true,
+  "formal_official_full_sentence_and_original73_QC_separate_passed": true,
+  "S15_legacy_ASR_confirmation_fingerprint_retained": "68b79d47f327",
+  "S15_legacy_confirmation_renewed": false,
+  "current_raw_md5_first12": "128ca94f8329",
+  "subjective_listening_claimed": false,
+  "new_automatic_confirmation_or_native_verdict_created": false
+}

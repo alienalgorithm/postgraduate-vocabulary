@@ -1,0 +1,129 @@
+{
+  "article": "47",
+  "passed": true,
+  "production_delivery_eligible": true,
+  "postprocessor_sha256": "dc204b91415e28297b844e9666087b0e23e67194944b359cb5fb5ddbca0f1208",
+  "kind": "approved-book-illustration60-then-approved-summary60",
+  "body_reencoded_frames": 0,
+  "audio_reencoded_or_added_packets": 0,
+  "official_maker_or_acceptance_modified": false,
+  "input_video_sha256": "8ffa92f744c152dda7851efc1dc96e721da90c014e258d0e767f404dff450a66",
+  "upstream_verification_sha256": "70939680553cd0b098f341d6683e9da435beabc19bd4c31d3bf60cd14d3bcb8c",
+  "upstream_status_sha256": "2c41cc3aba82123c1af08565956059dfaeb1a0f8b03e333a6d4fe895397aab52",
+  "source_script_layout_binding": {
+    "method": "identical_full_source_sha256",
+    "actual_request_source_sha256": "4c33bb0764a9b98e914a55806486ce841a1503efda1ff001cd2f8c9bb1626c06",
+    "approved_full_source_sha256": "4c33bb0764a9b98e914a55806486ce841a1503efda1ff001cd2f8c9bb1626c06",
+    "approved_ordered_layout_sha256": "d231c309cc61013cdda195c8d4f99eef10e020d652b6ad2a858e31efafcc9e92",
+    "permitted_review_only_top_level_keys": [
+      "核对确认",
+      "区间声音指纹"
+    ]
+  },
+  "source_kind": "new-canonical-4K",
+  "canonical_source_video_sha256": "fdf595539aab19f386552a05de9136a1bbca8c16fb463480ecd3127783636430",
+  "book_new_id": "32",
+  "illustration_manifest_sha256": "98f4601ef3c40ed141834505bfc8392fb195a8a2d6a7658eeae0c5e0dde758ec",
+  "book_order_manifest_sha256": "9b93699e45626bf23b282cc7586e00a7e88f3ebfe790a8a028b649e41bfe06db",
+  "approved_illustration_sha256": "b826692da834381d950d9a60189e28c4971cb2e9a763d382b1d4709d1e69f988",
+  "approved_summary_rgb_sha256": "9839ec85837803f739054c36d5739a98657bb4502f423e2507e17ac25c825b06",
+  "composition": {
+    "source_id": "47",
+    "new_id": "32",
+    "source_image_sha256": "b826692da834381d950d9a60189e28c4971cb2e9a763d382b1d4709d1e69f988",
+    "mode": "contain_blur",
+    "source_crop_box": null,
+    "actually_visually_reviewed": true,
+    "review_state": "approved_composition",
+    "decision_reason": "生态调查者上下身体与环境跨越上下边缘。",
+    "whole_sharp_foreground_pixels_preserved": true,
+    "reviewed_utc": "2026-11-13T23:31:16.662021+00:00"
+  },
+  "body_frames": 4400,
+  "illustration_start_frame": 4400,
+  "summary_start_frame": 4460,
+  "illustration_frames": 60,
+  "summary_frames": 60,
+  "illustration_start_seconds": 146.66666666666666,
+  "summary_start_seconds": 148.66666666666666,
+  "source_voice_endpoint_seconds": 146.655,
+  "delay_after_voice_seconds": 0.011666666666656056,
+  "illustration_seconds": 2,
+  "summary_seconds": 2,
+  "closed_idr_boundary_verified": true,
+  "illustration_frames_checked": 60,
+  "summary_frames_checked": 60,
+  "visual_reference": "uncompressed intended yuv420p raster; matching ffmpeg area resampling",
+  "illustration_max_thumbnail_mean_absolute_error": 0.1093870563271605,
+  "summary_max_thumbnail_mean_absolute_error": 0.024884259259259262,
+  "output_frames": 4520,
+  "output_seconds": 150.66666666666666,
+  "body_coded_pictures_identical": true,
+  "body_packet_timings_identical": true,
+  "body_codec_and_display_parameters_identical": true,
+  "audio_codec_parameters_identical": true,
+  "body_coded_pictures_sha256": "f838992ab6c145ed788cf9c3af4773785bfd59516c2fe21067363a4ef161d8f9",
+  "aac_packet_payload_and_absolute_timings_identical": true,
+  "aac_packet_count": 6968,
+  "aac_adts_sha256": "a1311cc32d5d4ae50b7dd0808f2f5ebd953989e0138c639df5c7965032a78ffe",
+  "audio_packet_records_sha256": "bbf2a2acd83c82d3f0e9e27e914d9e7ed7eabd229ae6cbed87e03d1c1a10a402",
+  "illustration_composed_4k_rgb_sha256": "17e85b6bce7fb7512f1a201d73d09534b5d039e60e6a304d89e37ae2e0d89722",
+  "video_sha256": "5e7d79fcdf0008f8b286c5b95cc5cc8a17d9bb1b268797ebf519c21035983636",
+  "illustration_preparation": {
+    "source_id": "47",
+    "new_id": "32",
+    "native_image_sha256": "b826692da834381d950d9a60189e28c4971cb2e9a763d382b1d4709d1e69f988",
+    "native_pixel_dimensions": [
+      1536,
+      1024
+    ],
+    "prepared_png_sha256": "6dcc71be31603ab23997d2d9e270240372d7149a4dbcb86afcdae3214923ce1e",
+    "prepared_rgb_sha256": "17e85b6bce7fb7512f1a201d73d09534b5d039e60e6a304d89e37ae2e0d89722",
+    "prepared_pixel_dimensions": [
+      3840,
+      2160
+    ],
+    "mode": "contain_blur",
+    "Pillow": "12.3.0",
+    "native_source_crop_box": null,
+    "resampling": "Pillow Image.Resampling.LANCZOS",
+    "same_image_background_gaussian_blur_radius": 64,
+    "derived_in_this_process_from_exact_approved_native_image": true,
+    "generated_or_substituted_artwork": false,
+    "added_text_or_graphics": false,
+    "preparer_program_sha256": "dc204b91415e28297b844e9666087b0e23e67194944b359cb5fb5ddbca0f1208",
+    "prepared_image_path": "/home/runner/work/literate-enigma/literate-enigma/article47-delivery/47-批准插图4K.png"
+  },
+  "decoded_frame_previews": [
+    {
+      "frame": 4399,
+      "label": "body-last",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article47-delivery/47-illustrated-tail-previews/47-body-last.jpg",
+      "sha256": "002d69d315d6ff36f564692e205a9e4df32d938436322ae423757ff777d2d166"
+    },
+    {
+      "frame": 4400,
+      "label": "illustration-first",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article47-delivery/47-illustrated-tail-previews/47-illustration-first.jpg",
+      "sha256": "ef77e36eed01b700690c2f8ffd766626e3a08cc60f44678ad34f1da099092595"
+    },
+    {
+      "frame": 4459,
+      "label": "illustration-last",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article47-delivery/47-illustrated-tail-previews/47-illustration-last.jpg",
+      "sha256": "aa4598702647c5ef7fd00bdc4f4176fa53b2f9f733c44d1cdcc9475438ddeace"
+    },
+    {
+      "frame": 4460,
+      "label": "summary-first",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article47-delivery/47-illustrated-tail-previews/47-summary-first.jpg",
+      "sha256": "b62e709e32a3fef9449ac0cfeae21a79277293267cc421b354ca54fb5f07752b"
+    },
+    {
+      "frame": 4519,
+      "label": "summary-last",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article47-delivery/47-illustrated-tail-previews/47-summary-last.jpg",
+      "sha256": "1ffb670112ff69a9962d5da075e0b94341cbfef30ef31fd6837448b5548fc6c1"
+    }
+  ]
+}

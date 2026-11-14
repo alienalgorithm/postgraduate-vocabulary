@@ -1,0 +1,20 @@
+{
+  "article": "62",
+  "before_caption_source_sha256": "0f9815cf3d144356246a820f194cd19fefc69cad3e9deff27d3aec30bb93dd23",
+  "after_caption_source_sha256": "da731a67bc489a356608632001dbfa87223ae173b8608327a165d7cf0868bffe",
+  "GEN_sha256": "cc022266a4315e94740453dde53e2c1a78a652e78f342958d4acf45defea2ffb",
+  "MD_sha256": "e2f6d3d4a0176803159af5c3c6a9ae45060d42f53b32a134759e433f72202df9",
+  "user052_sha256": "767aeeb3159afe9c74399844b9a6688c2c474dc68f0456547aaea8f92c2a7b7f",
+  "only_JSON_delta": [
+    {
+      "path": "/sentences/18/chunks/0/note",
+      "reason": "value",
+      "expected": "（testify to：证明，见证）\n（简述：▸诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融合，\n▹培育胚胎，1996年由代孕母羊产下多莉。\n▸突破：277次尝试仅多莉存活；\n▹她是首只由成年细胞克隆的哺乳动物，此前已能用胚胎细胞克隆羊。\n▸争议：成果引发人类克隆伦理争论；\n▹多莉的端粒（染色体末端）比同龄羊短约20%，又引起早衰猜测。\n▸离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺病，\n▹六岁时被实施安乐死，不能据此认定克隆导致早衰。\n▸复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未支持关节炎过早出现的担忧。）",
+      "actual": "（testify to：证明，见证）\n（多莉虽由另一品种母羊代孕，但遗传物质来自芬兰多塞特羊，因此保留了白脸特征。）\n（简述：▸诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融合，\n▹培育胚胎，1996年由代孕母羊产下多莉。\n▸突破：277次尝试仅多莉存活；\n▹她是首只由成年细胞克隆的哺乳动物，此前已能用胚胎细胞克隆羊。\n▸争议：成果引发人类克隆伦理争论；\n▹多莉的端粒（染色体末端）比同龄羊短约20%，又引起早衰猜测。\n▸离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺病，\n▹六岁时被实施安乐死，不能据此认定克隆导致早衰。\n▸复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未支持关节炎过早出现的担忧。）"
+    }
+  ],
+  "body_spoken_English_and_all_controls_and_prior_five_point_summary_exact": true,
+  "original_testify_to_note_preserved": true,
+  "global_future_hold_s": 0.6,
+  "PDF_accessed": false
+}

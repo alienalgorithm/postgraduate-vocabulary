@@ -1,0 +1,165 @@
+{
+  "article": "62",
+  "book_order": "34",
+  "source_freeze_complete": true,
+  "created_utc": "2026-11-14T09:47:56.899741+00:00",
+  "source_JSON_sha256": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+  "GEN_sha256": "11c7558bf6615ba566a464902a55de5f060a69078ecce3dcb8ff4dea09cb4ac4",
+  "MD_sha256": "9edfbd3ebacdecc8c3aa3034d38dd371a105c19382282e8c0de2d08a1713f863",
+  "files_applied": [
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/脚本/62.json",
+      "before_sha256": "4b3a97f2b6404e1b091537c21f01fc60088902f596803345983c38be52ec79eb",
+      "after_sha256": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+      "bytes": 56167
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/工具/初稿生成/gen62.py",
+      "before_sha256": "bb99070c311479355156a3e01711befb726290663de19b8f26806f90537857dd",
+      "after_sha256": "11c7558bf6615ba566a464902a55de5f060a69078ecce3dcb8ff4dea09cb4ac4",
+      "bytes": 46739
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/新版定稿/62-dolly-the-copied-sheep.md",
+      "before_sha256": null,
+      "after_sha256": "9edfbd3ebacdecc8c3aa3034d38dd371a105c19382282e8c0de2d08a1713f863",
+      "bytes": 15865
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/制作记录/62_待改清单.md",
+      "before_sha256": "ae281b66c302d1c20512933558aeedd53b53652facf7131122bbef7f58a3367a",
+      "after_sha256": "ebd08a288d99e7c0a3de638f292813d1a0a7c05703e055152fd35db4054db2e7",
+      "bytes": 11684
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/制作记录/逐句确认/62.json",
+      "before_sha256": "18da501aff5790cad3493a78fd31930c4a51bc4a198f5f98f3b8fe1110cce9b9",
+      "after_sha256": "1a2b3293d99ffd21d4c0f88b86705b4908e112845ca71dea3276e7941d5056e8",
+      "bytes": 11854
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/gen-sources/gen62.py",
+      "before_sha256": null,
+      "after_sha256": "11c7558bf6615ba566a464902a55de5f060a69078ecce3dcb8ff4dea09cb4ac4",
+      "bytes": 46739
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/脚本/已发版本/62.json",
+      "before_sha256": null,
+      "after_sha256": "d353d680303e20089dd79d03e4a1ccf43b238bab75714c320b14cbdc6ff815e5",
+      "bytes": 48353
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/payload/视频/工具/用户同意记录.json",
+      "before_sha256": "abad96c3eb05ed38c5da4b016d2b764cc0d15238147d82401ccf9f53a9990e21",
+      "after_sha256": "a8d1adfc16cf2b985e693137a9668748a707cd6ae2d4157f7ae356f0c7e88b43",
+      "scope": "Four exact article62 entries appended to fresh global record; every other entry preserved."
+    }
+  ],
+  "latest_actual_baseline_source_sha256": "8147198c65aa6f66839b2a7050dbe13c5e4209725ddff01bcb636859340ba084",
+  "genuine_old_native_snapshot_sha256": "d353d680303e20089dd79d03e4a1ccf43b238bab75714c320b14cbdc6ff815e5",
+  "original_GEN_exact_and_text_before_repair_after_exit": [
+    0,
+    0,
+    0
+  ],
+  "genuine_L13_ran_and_only_S6_focus_T34_reflow_covered_by_actual_final_authorization": true,
+  "three_focus_vocabulary_rows_present_once": true,
+  "user052_caption_after_original_testify_note": true,
+  "five_summary_points_canonical_text_and_actual128px_RGB_exact": true,
+  "raw_summary_wrap_changed_only_by_original_G35_recorded": true,
+  "only_waveform_control_change": {
+    "path": "停顿插入点.S15.2[0]",
+    "from": 3.580083,
+    "to": 3.584083,
+    "sample_delta_at24k": 96,
+    "root049_implementation_not_user_specific_ms_quote": true
+  },
+  "target_new_WAV_sha256": "c5330026dbc9f81d0c7546a1716b9dade9960f44311862a5feb3e4aa0749d7c3",
+  "target_new_AAC_sha256": "b85f7e4c45784077f227b29a24b7cd72cef6c6160aa3783747ba708f8fda6348",
+  "old_AAC_bit_identity_not_claimed_for_local_repair": true,
+  "all_other_voice_controls_and_spoken_text_exact": true,
+  "global_post_reading_tail_hold_seconds": 0.6,
+  "tail_hold30fps_frames": 18,
+  "sole_native_launcher_and_tail_implementation_owner": "/root/resume_audio_ci",
+  "fresh_native_ASR_and_all_formal_audio_gates_still_required": true,
+  "CI_approved_manifest": {
+    "path": "/workspace/work/video-revision-batch-ci/.github/video-revision-batch/approved-video-layouts70.json",
+    "before_sha256": "3ffed87900a1f2106940c7ef5ad4623358baa7b5736d6f7dbeb12bbaaa85cb4a",
+    "after_sha256": "c0113acd4727e31b5bca145a49e6faa91622589a6d52637af607c81f577fefe1",
+    "before_row": {
+      "source_id": "62",
+      "new_id": "34",
+      "source_json_sha256": "4b3a97f2b6404e1b091537c21f01fc60088902f596803345983c38be52ec79eb",
+      "approved_summary_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d",
+      "summary_png_sha256": "a312e685fa637990b06161d020bb570ec98731937202f72baf5e3befa3efae3a",
+      "summary_rgb_sha256": "e09b18da8309506841ece2e5b949a9b6d239b26fa15277e0856245292d5cec69",
+      "summary_font_4k_px": 128,
+      "source_layout_structural_sha256": "cc7c94cf05b68ae6865a502cb57d5a8fa251d8a85377af7dd67a4d82b1f635f3"
+    },
+    "after_row": {
+      "source_id": "62",
+      "new_id": "34",
+      "source_json_sha256": "e34fe389b2d543996f09c063e8c57750b2b9a9be77e6a5d757c3529f96471d47",
+      "approved_summary_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d",
+      "summary_png_sha256": "a312e685fa637990b06161d020bb570ec98731937202f72baf5e3befa3efae3a",
+      "summary_rgb_sha256": "e09b18da8309506841ece2e5b949a9b6d239b26fa15277e0856245292d5cec69",
+      "summary_font_4k_px": 128,
+      "source_layout_structural_sha256": "f8a711a8ec8801bb1e512a883ffdd2c0da0c7de160fcbaab673494e03ad55990"
+    },
+    "only_62_source_and_structural_digest_leaves_changed": true,
+    "all_other_rows_preserved": true
+  },
+  "independent_reviews": [
+    {
+      "path": "/workspace/work/video-revision-delivery/article62-review-intake-20261114/independent-three-feedback-and-specific-pause-candidate-review.json",
+      "sha256": "3233807c4020ca938b0bae1df5df0623916bccf0b5eb0327b600f03e057358f9"
+    },
+    {
+      "path": "/workspace/work/video-revision-delivery/article62-review-intake-20261114/independent-final-052-caption-only-addendum.json",
+      "sha256": "c654a12c939b3f6300f6e2abcc0b3bcfa44d5f7efe034fb721dbd6ec7d648813"
+    }
+  ],
+  "evidence": [
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/gen-text-validation-v7/report.json",
+      "sha256": "b174b19e3adbfc5f80b9529e2b02e7c0c76a35694417ba215a30352af6a40af8"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/intermediate-three-focus-and-approved-cut-before-052/static-render-report.json",
+      "sha256": "b8d097d6acaf15ca006b409301a470b42e764ef43f8b9a5a4eb2187654ebf6fd"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/caption-static-render-report.json",
+      "sha256": "bc5062432992b8b26f2f6f71e7035685307199ea2ecc0ca5efa974125063f9b2"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/actual-caption-visual-review.json",
+      "sha256": "82da99a1f1847aa22f032d9a4d929a3af1339d77de9bd6a0036860ed7ad76159"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/original-T34-one-group-split.json",
+      "sha256": "d0f9dc1b30bac116f1e1715f8e65c7a8e8af37446baf1b9b474dcccbc29579aa"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/genuine-old-L13-without-split-approval-observation.json",
+      "sha256": "ca71fefca9033627ebb5ac398bd4db70eab9914c09106fad66e5ba1f0585c351"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/original-audio-input-invariance.json",
+      "sha256": "7cbd251bf4882ce138c834f57bb8ed70e603f62fc1b5ee3fb1241964c29e2783"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/caption-original-audio-input-binding.json",
+      "sha256": "72a83e239df4be201f1a082b944545d23d9b016a4085611e2ec27afc9d0c7867"
+    },
+    {
+      "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/original-caption-stable-mechanical-fold.json",
+      "sha256": "0c4570fa8c918098db5fe99c93c7582f55b14d3c1d6cac9abbd01fc13b1c0a26"
+    }
+  ],
+  "previous_three_focus_intermediate_preserved": true,
+  "all_failed_original_gate_diagnostics_preserved": true,
+  "PDF_not_accessed_or_modified": true,
+  "native_or_TTS_or_video_or_remote_mutation_executed": false
+}

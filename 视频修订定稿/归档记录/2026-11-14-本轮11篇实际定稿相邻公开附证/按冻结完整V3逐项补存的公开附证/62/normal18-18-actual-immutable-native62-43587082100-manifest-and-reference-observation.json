@@ -1,0 +1,26 @@
+{
+  "kind": "actual-immutable-current62-manifest-and-reference-read",
+  "actual_native_run": 43587082100,
+  "actual_quality_pass_not_claimed": true,
+  "files": [
+    {
+      "path": "/workspace/work/video-revision-delivery/article62-review-intake-20261114/approved-video-layouts70-actual-immutable-43587082100.json",
+      "sha256": "cc41c1b5d4daa5ffcbfc92dbffc05996161a1c48c89508be8787583a4c8bc08d",
+      "bytes": 42434,
+      "git_blob_sha": "ce5ba0e23e69ff66318925f63d81a180711ac371",
+      "repository": "AlienCodes/literate-enigma",
+      "ref": "f9d0404391b944444e3b1ff39fdf9bb77ae699e2",
+      "repo_path": ".github/video-revision-batch/approved-video-layouts70.json"
+    },
+    {
+      "path": "/workspace/work/video-revision-delivery/article62-review-intake-20261114/audio62-controlled-qc-reference-actual-immutable-43587082100.json",
+      "sha256": "96471961d87daa85a77d325c69a32c84accae0d986582306141fe3f9a0dbb5cb",
+      "bytes": 17158,
+      "git_blob_sha": "b476b7884032959e0d6908644adb6d0ad4af8afa",
+      "repository": "AlienCodes/literate-enigma",
+      "ref": "f9d0404391b944444e3b1ff39fdf9bb77ae699e2",
+      "repo_path": ".github/video-revision-batch/audio62-controlled-qc-reference.json"
+    }
+  ],
+  "old61ad_observation_retained_as_history": true
+}

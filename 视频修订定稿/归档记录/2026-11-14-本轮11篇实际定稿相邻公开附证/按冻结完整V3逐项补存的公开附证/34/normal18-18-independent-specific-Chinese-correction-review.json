@@ -1,0 +1,62 @@
+{
+  "article_source": 34,
+  "book_order": 31,
+  "kind": "independent-specific-Chinese-correction-review",
+  "candidate": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/视频/脚本/34.json",
+    "sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+    "bytes": 66975
+  },
+  "GEN": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/视频/工具/初稿生成/gen34.py",
+    "sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+    "bytes": 61123
+  },
+  "baseline": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/before/视频/脚本/34.json",
+    "sha256": "74921848a6bb25a2ba631813f60d4756c9ff90c64c03a2fb936ce34f310ce509",
+    "bytes": 60740
+  },
+  "exact_JSON_differences": [
+    {
+      "path": "/sentences/8/chunks/1/align/0/1",
+      "before": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "after": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    },
+    {
+      "path": "/sentences/8/chunks/1/zh",
+      "before": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "after": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    }
+  ],
+  "semantic_conclusion": "将重复叠用的因为由改为由于，消除中文开头重复；重叠的重点词及整段原义保持。",
+  "scope_checks": {
+    "exactly_two_authorized_Chinese_leaves": true,
+    "all_English_exact": true,
+    "all_notes_and_summary_exact": true,
+    "all_other_Chinese_focus_align_and_chunk_boundaries_exact": true,
+    "all_DSP_and_all_other_top_level_source_fields_exact": true,
+    "historical_item37_original_quote_retained_exact": true,
+    "active_screen_target_updated_to_due_to_correction": true
+  },
+  "historical_target_record": {
+    "before": {
+      "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/before/视频/制作记录/34_待改清单.md",
+      "sha256": "b8a01b0554ea56b4df425cb622d759881cafa5fdd13471035c05689d9f52c0b3",
+      "bytes": 33884
+    },
+    "candidate": {
+      "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/视频/制作记录/34_待改清单.md",
+      "sha256": "7ccf745678133b18f7ff0f506610e6203280184dc91b903b99bba00d7736939e",
+      "bytes": 35036
+    },
+    "original_item37_quote_preserved": "37. 用户 2026-10-29 原话（看 S9 截图 of overlapping deals among Western firms,）：“这个地方翻译为 因为由西方公司之间重叠的交易而导致了这种情况。Overlaping在这个地方对应重叠的”——S9 第2块中文改为“因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，”（原：由西方公司彼此之间的**重叠**(overlapping)交易所导致，）。",
+    "observation": "仅更新该活动画面目标并追加2026-11-14记录，历史原话未删。"
+  },
+  "candidate_text_scope_passed": true,
+  "native_media_audio_or_formal_tool_pass_claimed": false,
+  "reviewer_reran_production_tools": false,
+  "source_CI_media_audio_PDF_or_remote_modified": false,
+  "reviewer": "/root/resume_preflight/article14_lexical_sanity",
+  "reviewed_utc": "2026-11-14T09:39:01.555266+00:00"
+}

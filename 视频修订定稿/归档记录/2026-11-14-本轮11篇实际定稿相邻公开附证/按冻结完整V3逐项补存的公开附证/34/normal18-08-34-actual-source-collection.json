@@ -1,0 +1,43 @@
+{
+  "article": "34",
+  "kind": "actual-production-source-collection",
+  "new_quality_gate": false,
+  "files": {
+    "request_json": {
+      "file": "34-request-source.json",
+      "sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+      "origin": "immutable_request"
+    },
+    "request_generator": {
+      "file": "34-request-gen.py",
+      "sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+      "origin": "immutable_request"
+    },
+    "used_generator": {
+      "file": "34-used-gen.py",
+      "sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+      "origin": "actual_production_filesystem"
+    },
+    "actual_working_source": {
+      "file": "34-actual-working-source.json",
+      "sha256": "117097af02bc7c5395962997d9b21786c78e7cb125cf9cef1ce77ca424939917",
+      "origin": "actual_production_filesystem"
+    },
+    "request_manuscript": {
+      "file": "34-request-manuscript.md",
+      "sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+      "origin": "immutable_request"
+    },
+    "actual_working_manuscript": {
+      "file": "34-actual-working-manuscript.md",
+      "sha256": "c62b687fff87a667c266e293ac81e4e4b5b3f2bdc239c14bbc084ce6e118c9dc",
+      "origin": "actual_production_filesystem"
+    }
+  },
+  "generator_execution_observed": false,
+  "generator_execution_evidence": "No fresh generator execution log; do not claim this GEN was executed during rendering.",
+  "source_differences": {
+    "file": "34-actual-source-differences.json",
+    "sha256": "cd53e261b8afb3e5af19f3873819190807bb07b720868ebf634e19a24988a86a"
+  }
+}

@@ -1,0 +1,841 @@
+{
+  "article": "34",
+  "book_order": "33",
+  "passed": true,
+  "kind": "actual-authorized-static-render-only-not-new-video",
+  "old_approved_source_sha256": "74921848a6bb25a2ba631813f60d4756c9ff90c64c03a2fb936ce34f310ce509",
+  "before_source_sha256": "74921848a6bb25a2ba631813f60d4756c9ff90c64c03a2fb936ce34f310ce509",
+  "old_approved_source_and_current_before_exact": true,
+  "after_source_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+  "renderer_sha256": "477a516f7100ac05dab15d3b176e2d8c49779aa4bd8713087b737f4d25833b67",
+  "theme_maker_sha256": "4c85e1fbdd2e82c5646d5f58df63c85eca60af4ef521f1d36f765575a568d6f3",
+  "font_sha256": {
+    "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+    "NotoSansSC.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+  },
+  "Pillow": "12.3.0",
+  "audio_or_source_or_official_core_changed_by_this_program": false,
+  "approved_manifest_before_sha256": "9f180edf00c4fbc569c78994fa0c9b912a824914c62b396919fe73d94c27335f",
+  "resolutions": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "scale": 1,
+      "sources": [
+        {
+          "label": "before",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1841.15625,
+              "height_px": 810,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1428.296875,
+              "height_px": 1004,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 100,
+              "natural_font_px": 130,
+              "width_px": 1361.859375,
+              "height_px": 434,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 86,
+              "natural_font_px": 86,
+              "width_px": 1601.015625,
+              "height_px": 1014,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 66,
+              "natural_font_px": 66,
+              "width_px": 1483.125,
+              "height_px": 1010,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 96,
+              "natural_font_px": 96,
+              "width_px": 1856.796875,
+              "height_px": 980,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 87,
+              "natural_font_px": 87,
+              "width_px": 1546.578125,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 59,
+              "natural_font_px": 59,
+              "width_px": 1191.8125,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 66,
+              "natural_font_px": 66,
+              "width_px": 1623.65625,
+              "height_px": 1010,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 59,
+              "natural_font_px": 59,
+              "width_px": 1028.015625,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 80,
+              "natural_font_px": 80,
+              "width_px": 1749.171875,
+              "height_px": 1007,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 87,
+              "natural_font_px": 87,
+              "width_px": 1809.140625,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 79,
+              "natural_font_px": 79,
+              "width_px": 1844.671875,
+              "height_px": 751,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 71,
+              "natural_font_px": 71,
+              "width_px": 1858.453125,
+              "height_px": 451,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 100,
+              "natural_font_px": 102,
+              "width_px": 1344.0,
+              "height_px": 968,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 75,
+              "natural_font_px": 75,
+              "width_px": 1857.171875,
+              "height_px": 668,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 81,
+              "natural_font_px": 81,
+              "width_px": 1857.796875,
+              "height_px": 636,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/before-body-tail.png",
+            "PNG_sha256": "9767ae9e646455833407ac6e5e18349e0ac674761982bd34547376a2867deecd",
+            "RGB_sha256": "304e392f842bf6a7cfa8c3cf20fa791eebb689f01970401f7b14dd66423b5d73",
+            "font_px": 81,
+            "width_px": 1857.796875,
+            "height_px": 636
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/before-summary.png",
+            "PNG_sha256": "92673a0976a6cc0f1b2a85681ccc907cf42f636f383e5966e95dcdd37853adc5",
+            "RGB_sha256": "745fd1c68d9322afe456c947d6108bfebd1612daf95a8543ae4ca30044624aab",
+            "font_px": 54,
+            "point_count": 5,
+            "text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e",
+            "rows": [
+              "• 诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符",
+              "拼成方块，做出了俄罗斯方块。",
+              "• 归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软",
+              "盘在东欧迅速流传。",
+              "• 混乱：英国商人斯坦因还没拿到合法授权，就把版权卖给西方公司，后",
+              "来又被层层转卖，各家的权利互相冲突。",
+              "• 突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，",
+              "任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过",
+              "3500万份。",
+              "• 转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；",
+              "1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。"
+            ],
+            "canonical_unwrapped_text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e"
+          },
+          "actual_changed_page_renders": [
+            {
+              "sentence": 9,
+              "active_chunk": 2,
+              "term": "due-to-Chinese-opening",
+              "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/before-S09-C2-due-to-Chinese-opening.png",
+              "PNG_sha256": "2ac65639b8676db969a25adbcce0191944447a7b7b9137bc45d4a5dde4ffc37a",
+              "RGB_sha256": "8d952ec3ed012ae18e6b85b12c4f1e006e41d02f40ebd83caa3d381aedcb9894"
+            }
+          ]
+        },
+        {
+          "label": "after",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1841.15625,
+              "height_px": 810,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1428.296875,
+              "height_px": 1004,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 100,
+              "natural_font_px": 130,
+              "width_px": 1361.859375,
+              "height_px": 434,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 86,
+              "natural_font_px": 86,
+              "width_px": 1601.015625,
+              "height_px": 1014,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 66,
+              "natural_font_px": 66,
+              "width_px": 1483.125,
+              "height_px": 1010,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 96,
+              "natural_font_px": 96,
+              "width_px": 1856.796875,
+              "height_px": 980,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 87,
+              "natural_font_px": 87,
+              "width_px": 1546.578125,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 59,
+              "natural_font_px": 59,
+              "width_px": 1191.8125,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 66,
+              "natural_font_px": 66,
+              "width_px": 1623.65625,
+              "height_px": 1010,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 59,
+              "natural_font_px": 59,
+              "width_px": 1028.015625,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 80,
+              "natural_font_px": 80,
+              "width_px": 1749.171875,
+              "height_px": 1007,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 87,
+              "natural_font_px": 87,
+              "width_px": 1809.140625,
+              "height_px": 1005,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 79,
+              "natural_font_px": 79,
+              "width_px": 1844.671875,
+              "height_px": 751,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 71,
+              "natural_font_px": 71,
+              "width_px": 1858.453125,
+              "height_px": 451,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 100,
+              "natural_font_px": 102,
+              "width_px": 1344.0,
+              "height_px": 968,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 75,
+              "natural_font_px": 75,
+              "width_px": 1857.171875,
+              "height_px": 668,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 81,
+              "natural_font_px": 81,
+              "width_px": 1857.796875,
+              "height_px": 636,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/after-body-tail.png",
+            "PNG_sha256": "9767ae9e646455833407ac6e5e18349e0ac674761982bd34547376a2867deecd",
+            "RGB_sha256": "304e392f842bf6a7cfa8c3cf20fa791eebb689f01970401f7b14dd66423b5d73",
+            "font_px": 81,
+            "width_px": 1857.796875,
+            "height_px": 636
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/after-summary.png",
+            "PNG_sha256": "92673a0976a6cc0f1b2a85681ccc907cf42f636f383e5966e95dcdd37853adc5",
+            "RGB_sha256": "745fd1c68d9322afe456c947d6108bfebd1612daf95a8543ae4ca30044624aab",
+            "font_px": 54,
+            "point_count": 5,
+            "text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e",
+            "rows": [
+              "• 诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符",
+              "拼成方块，做出了俄罗斯方块。",
+              "• 归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软",
+              "盘在东欧迅速流传。",
+              "• 混乱：英国商人斯坦因还没拿到合法授权，就把版权卖给西方公司，后",
+              "来又被层层转卖，各家的权利互相冲突。",
+              "• 突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，",
+              "任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过",
+              "3500万份。",
+              "• 转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；",
+              "1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。"
+            ],
+            "canonical_unwrapped_text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e"
+          },
+          "actual_changed_page_renders": [
+            {
+              "sentence": 9,
+              "active_chunk": 2,
+              "term": "due-to-Chinese-opening",
+              "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/after-S09-C2-due-to-Chinese-opening.png",
+              "PNG_sha256": "bec45108f73f806d881424d9425627da7a2add2bf4853bd1724f42bd779ef428",
+              "RGB_sha256": "a59f77765898aacf41bd6ea317ffec08ce6676aa4837f4b8365b89fce4754988"
+            }
+          ]
+        }
+      ],
+      "all_sentences_both_sources_within_bounds_and_no_orphans": true,
+      "body_tail_font_and_geometry_exact": true,
+      "body_tail_RGB_exact": true,
+      "body_tail_color_change_explanation": "The unchanged original renderer cycles article34 focus colors by first occurrence; newly requested focus terms shift later word colors. All original tail text, fonts and geometry remain exact.",
+      "summary_text_font_rows_and_pixels_exact": true,
+      "changed_pages_new_RGB_identity_not_claimed": true
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "scale": 2,
+      "sources": [
+        {
+          "label": "before",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 155,
+              "natural_font_px": 155,
+              "width_px": 3714.796875,
+              "height_px": 1639,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 144,
+              "natural_font_px": 144,
+              "width_px": 2872.15625,
+              "height_px": 2032,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 200,
+              "natural_font_px": 260,
+              "width_px": 2723.734375,
+              "height_px": 868,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 171,
+              "natural_font_px": 171,
+              "width_px": 3183.25,
+              "height_px": 2037,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 132,
+              "natural_font_px": 132,
+              "width_px": 2966.265625,
+              "height_px": 2038,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 192,
+              "natural_font_px": 192,
+              "width_px": 3714.609375,
+              "height_px": 1962,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 174,
+              "natural_font_px": 174,
+              "width_px": 3093.171875,
+              "height_px": 2030,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 118,
+              "natural_font_px": 118,
+              "width_px": 2383.875,
+              "height_px": 2024,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 132,
+              "natural_font_px": 132,
+              "width_px": 3268.34375,
+              "height_px": 2038,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 118,
+              "natural_font_px": 118,
+              "width_px": 2056.15625,
+              "height_px": 2024,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 161,
+              "natural_font_px": 161,
+              "width_px": 3522.765625,
+              "height_px": 2033,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 174,
+              "natural_font_px": 174,
+              "width_px": 3624.40625,
+              "height_px": 2030,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 159,
+              "natural_font_px": 159,
+              "width_px": 3714.703125,
+              "height_px": 1522,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 141,
+              "natural_font_px": 141,
+              "width_px": 3686.71875,
+              "height_px": 901,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 200,
+              "natural_font_px": 205,
+              "width_px": 2709.0,
+              "height_px": 1936,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 150,
+              "natural_font_px": 150,
+              "width_px": 3714.484375,
+              "height_px": 1339,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 162,
+              "natural_font_px": 162,
+              "width_px": 3715.578125,
+              "height_px": 1274,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/before-body-tail.png",
+            "PNG_sha256": "ed3552a4718196869188dfb6dc917a884233c231b7c952296b2c1b42a49751ef",
+            "RGB_sha256": "a443edee1a2b86c40598798c67282b4115753de956880e5503bbb0e8845912b6",
+            "font_px": 162,
+            "width_px": 3715.578125,
+            "height_px": 1274
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/before-summary.png",
+            "PNG_sha256": "7288ac6e6aca86bb729a135f2b19953204c88f029cba4437ab748dc6e56ee85b",
+            "RGB_sha256": "cb48b2c86859d8cec318b88d1ae1177b9ad10c82ee450ef8d7d1017d2bb94411",
+            "font_px": 108,
+            "point_count": 5,
+            "text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e",
+            "rows": [
+              "• 诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符",
+              "拼成方块，做出了俄罗斯方块。",
+              "• 归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软",
+              "盘在东欧迅速流传。",
+              "• 混乱：英国商人斯坦因还没拿到合法授权，就把版权卖给西方公司，后",
+              "来又被层层转卖，各家的权利互相冲突。",
+              "• 突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，",
+              "任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过",
+              "3500万份。",
+              "• 转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；",
+              "1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。"
+            ],
+            "canonical_unwrapped_text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e"
+          },
+          "actual_changed_page_renders": [
+            {
+              "sentence": 9,
+              "active_chunk": 2,
+              "term": "due-to-Chinese-opening",
+              "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/before-S09-C2-due-to-Chinese-opening.png",
+              "PNG_sha256": "c60825fa92878c45fd7eeab15aa1b4218cebd428207cb4014b5c81672e7fee94",
+              "RGB_sha256": "2f8c4443e3c1931674a68ea376483921a1cbebe08fdbd2aa90bd6cc6abae7c7d"
+            }
+          ]
+        },
+        {
+          "label": "after",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 155,
+              "natural_font_px": 155,
+              "width_px": 3714.796875,
+              "height_px": 1639,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 144,
+              "natural_font_px": 144,
+              "width_px": 2872.15625,
+              "height_px": 2032,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 200,
+              "natural_font_px": 260,
+              "width_px": 2723.734375,
+              "height_px": 868,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 171,
+              "natural_font_px": 171,
+              "width_px": 3183.25,
+              "height_px": 2037,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 132,
+              "natural_font_px": 132,
+              "width_px": 2966.265625,
+              "height_px": 2038,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 192,
+              "natural_font_px": 192,
+              "width_px": 3714.609375,
+              "height_px": 1962,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 174,
+              "natural_font_px": 174,
+              "width_px": 3093.171875,
+              "height_px": 2030,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 118,
+              "natural_font_px": 118,
+              "width_px": 2383.875,
+              "height_px": 2024,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 132,
+              "natural_font_px": 132,
+              "width_px": 3268.34375,
+              "height_px": 2038,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 118,
+              "natural_font_px": 118,
+              "width_px": 2056.15625,
+              "height_px": 2024,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 161,
+              "natural_font_px": 161,
+              "width_px": 3522.765625,
+              "height_px": 2033,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 174,
+              "natural_font_px": 174,
+              "width_px": 3624.40625,
+              "height_px": 2030,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 159,
+              "natural_font_px": 159,
+              "width_px": 3714.703125,
+              "height_px": 1522,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 141,
+              "natural_font_px": 141,
+              "width_px": 3686.71875,
+              "height_px": 901,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 200,
+              "natural_font_px": 205,
+              "width_px": 2709.0,
+              "height_px": 1936,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 150,
+              "natural_font_px": 150,
+              "width_px": 3714.484375,
+              "height_px": 1339,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 162,
+              "natural_font_px": 162,
+              "width_px": 3715.578125,
+              "height_px": 1274,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/after-body-tail.png",
+            "PNG_sha256": "ed3552a4718196869188dfb6dc917a884233c231b7c952296b2c1b42a49751ef",
+            "RGB_sha256": "a443edee1a2b86c40598798c67282b4115753de956880e5503bbb0e8845912b6",
+            "font_px": 162,
+            "width_px": 3715.578125,
+            "height_px": 1274
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/after-summary.png",
+            "PNG_sha256": "7288ac6e6aca86bb729a135f2b19953204c88f029cba4437ab748dc6e56ee85b",
+            "RGB_sha256": "cb48b2c86859d8cec318b88d1ae1177b9ad10c82ee450ef8d7d1017d2bb94411",
+            "font_px": 108,
+            "point_count": 5,
+            "text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e",
+            "rows": [
+              "• 诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符",
+              "拼成方块，做出了俄罗斯方块。",
+              "• 归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软",
+              "盘在东欧迅速流传。",
+              "• 混乱：英国商人斯坦因还没拿到合法授权，就把版权卖给西方公司，后",
+              "来又被层层转卖，各家的权利互相冲突。",
+              "• 突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，",
+              "任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过",
+              "3500万份。",
+              "• 转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；",
+              "1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。"
+            ],
+            "canonical_unwrapped_text_sha256": "b505022f401537e0876e8d8cbc2d557492f6a503b58a28c49daaa01b3ba2b08e"
+          },
+          "actual_changed_page_renders": [
+            {
+              "sentence": 9,
+              "active_chunk": 2,
+              "term": "due-to-Chinese-opening",
+              "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/after-S09-C2-due-to-Chinese-opening.png",
+              "PNG_sha256": "cb520772afad1960898475769a98f85eac1e433a83c27eae8cdc6f9fd1c7d2d1",
+              "RGB_sha256": "707211e37e643729d905a45c0894033de4d1788e1f8d24360d207890d254592b"
+            }
+          ]
+        }
+      ],
+      "all_sentences_both_sources_within_bounds_and_no_orphans": true,
+      "body_tail_font_and_geometry_exact": true,
+      "body_tail_RGB_exact": true,
+      "body_tail_color_change_explanation": "The unchanged original renderer cycles article34 focus colors by first occurrence; newly requested focus terms shift later word colors. All original tail text, fonts and geometry remain exact.",
+      "summary_text_font_rows_and_pixels_exact": true,
+      "changed_pages_new_RGB_identity_not_claimed": true
+    }
+  ],
+  "created_utc": "2026-11-14T09:24:24.364484+00:00",
+  "actual_new_changed_page_count": 2
+}

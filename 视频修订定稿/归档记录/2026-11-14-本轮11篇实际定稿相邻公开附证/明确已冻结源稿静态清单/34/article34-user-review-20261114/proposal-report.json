@@ -1,0 +1,28 @@
+{
+  "article": "34",
+  "book_order": "33",
+  "candidate_source_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+  "candidate_GEN_sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+  "candidate_MD_sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+  "before_source_sha256": "74921848a6bb25a2ba631813f60d4756c9ff90c64c03a2fb936ce34f310ce509",
+  "only_requested_Chinese_opening_changed": true,
+  "all_English_notes_existing_highlights_chunk_boundaries_summary_and_DSP_exact": true,
+  "timing_not_added_to_source": true,
+  "root_actual_audio_decision": "original voice preserved",
+  "diff": [
+    {
+      "path": "/sentences/8/chunks/1/align/0/1",
+      "reason": "value",
+      "expected": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "actual": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    },
+    {
+      "path": "/sentences/8/chunks/1/zh",
+      "reason": "value",
+      "expected": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "actual": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    }
+  ],
+  "PAY_not_yet_modified": true,
+  "PDF_not_modified": true
+}

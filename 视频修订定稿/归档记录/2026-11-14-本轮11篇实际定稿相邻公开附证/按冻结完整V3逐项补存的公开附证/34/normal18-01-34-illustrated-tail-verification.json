@@ -1,0 +1,129 @@
+{
+  "article": "34",
+  "passed": true,
+  "production_delivery_eligible": true,
+  "postprocessor_sha256": "dc204b91415e28297b844e9666087b0e23e67194944b359cb5fb5ddbca0f1208",
+  "kind": "approved-book-illustration60-then-approved-summary60",
+  "body_reencoded_frames": 0,
+  "audio_reencoded_or_added_packets": 0,
+  "official_maker_or_acceptance_modified": false,
+  "input_video_sha256": "ce5970001c4e1410f7274b7488242e8c3283e24cf8600ed76a3e28d944cd32e0",
+  "upstream_verification_sha256": "2ea7f3511133c682cde071d5070ace48987b5cc9e6cec5b73d9ad9e4d03ceabe",
+  "upstream_status_sha256": "ce76cf03c09e48a7ce1c50f7786606078189079d4cd0f48f6da3554a07ea6d3d",
+  "source_script_layout_binding": {
+    "method": "identical_full_source_sha256",
+    "actual_request_source_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+    "approved_full_source_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+    "approved_ordered_layout_sha256": "a0ee56297384746a36f21c4ba6bcdf6068b86a886c7418822f38ac94f2df4de4",
+    "permitted_review_only_top_level_keys": [
+      "核对确认",
+      "区间声音指纹"
+    ]
+  },
+  "source_kind": "new-canonical-4K",
+  "canonical_source_video_sha256": "2a22cbec7b023d7bd96782b3f03d9a3009b97a9966521e555431e7ce79a110ee",
+  "book_new_id": "33",
+  "illustration_manifest_sha256": "98f4601ef3c40ed141834505bfc8392fb195a8a2d6a7658eeae0c5e0dde758ec",
+  "book_order_manifest_sha256": "9b93699e45626bf23b282cc7586e00a7e88f3ebfe790a8a028b649e41bfe06db",
+  "approved_illustration_sha256": "e7cf1cac2075f6f2a0bcaafa75db6cf8d3acd4aac970db867ffefdcef2aa668e",
+  "approved_summary_rgb_sha256": "cb48b2c86859d8cec318b88d1ae1177b9ad10c82ee450ef8d7d1017d2bb94411",
+  "composition": {
+    "source_id": "34",
+    "new_id": "33",
+    "source_image_sha256": "e7cf1cac2075f6f2a0bcaafa75db6cf8d3acd4aac970db867ffefdcef2aa668e",
+    "mode": "contain_blur",
+    "source_crop_box": null,
+    "actually_visually_reviewed": true,
+    "review_state": "approved_composition",
+    "decision_reason": "右侧人物发顶贴近上缘，掌机与手部需完整。",
+    "whole_sharp_foreground_pixels_preserved": true,
+    "reviewed_utc": "2026-11-13T23:31:16.662021+00:00"
+  },
+  "body_frames": 4191,
+  "illustration_start_frame": 4191,
+  "summary_start_frame": 4251,
+  "illustration_frames": 60,
+  "summary_frames": 60,
+  "illustration_start_seconds": 139.7,
+  "summary_start_seconds": 141.7,
+  "source_voice_endpoint_seconds": 139.7,
+  "delay_after_voice_seconds": 0.0,
+  "illustration_seconds": 2,
+  "summary_seconds": 2,
+  "closed_idr_boundary_verified": true,
+  "illustration_frames_checked": 60,
+  "summary_frames_checked": 60,
+  "visual_reference": "uncompressed intended yuv420p raster; matching ffmpeg area resampling",
+  "illustration_max_thumbnail_mean_absolute_error": 0.08207143775720165,
+  "summary_max_thumbnail_mean_absolute_error": 0.022601594650205763,
+  "output_frames": 4311,
+  "output_seconds": 143.7,
+  "body_coded_pictures_identical": true,
+  "body_packet_timings_identical": true,
+  "body_codec_and_display_parameters_identical": true,
+  "audio_codec_parameters_identical": true,
+  "body_coded_pictures_sha256": "120770e58d991346c1dc40b49a4d24b66a49d9a4dedade36ad1f2a22f0656cac",
+  "aac_packet_payload_and_absolute_timings_identical": true,
+  "aac_packet_count": 6643,
+  "aac_adts_sha256": "5649e6746d919510ba830daa5509ab68814dc1afe4d3578cf9c246dfb2c4a0e6",
+  "audio_packet_records_sha256": "349d4e8ba4e71b28b9cb30af506ddd844f40de9722b9ce3b07dbe92161d2b5da",
+  "illustration_composed_4k_rgb_sha256": "e9cee601f2901163a81b434f71abab1ac3dae028c2d233d3441122fd180e0ca7",
+  "video_sha256": "40c2ca1745415feb0648e6368dfe2a3a91ae76e020b8f3f346226cce63b0d8c2",
+  "illustration_preparation": {
+    "source_id": "34",
+    "new_id": "33",
+    "native_image_sha256": "e7cf1cac2075f6f2a0bcaafa75db6cf8d3acd4aac970db867ffefdcef2aa668e",
+    "native_pixel_dimensions": [
+      1536,
+      1024
+    ],
+    "prepared_png_sha256": "9946bd08ca84611c6a6145b8d94a11a63368a89e4dc8ab7c07192f58e7229806",
+    "prepared_rgb_sha256": "e9cee601f2901163a81b434f71abab1ac3dae028c2d233d3441122fd180e0ca7",
+    "prepared_pixel_dimensions": [
+      3840,
+      2160
+    ],
+    "mode": "contain_blur",
+    "Pillow": "12.3.0",
+    "native_source_crop_box": null,
+    "resampling": "Pillow Image.Resampling.LANCZOS",
+    "same_image_background_gaussian_blur_radius": 64,
+    "derived_in_this_process_from_exact_approved_native_image": true,
+    "generated_or_substituted_artwork": false,
+    "added_text_or_graphics": false,
+    "preparer_program_sha256": "dc204b91415e28297b844e9666087b0e23e67194944b359cb5fb5ddbca0f1208",
+    "prepared_image_path": "/home/runner/work/literate-enigma/literate-enigma/article34-delivery/34-批准插图4K.png"
+  },
+  "decoded_frame_previews": [
+    {
+      "frame": 4190,
+      "label": "body-last",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article34-delivery/34-illustrated-tail-previews/34-body-last.jpg",
+      "sha256": "1ebc957ccdbc2d690f6ab5a1c4998e26ed88fde6ed8e1abfb1001a47b732244f"
+    },
+    {
+      "frame": 4191,
+      "label": "illustration-first",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article34-delivery/34-illustrated-tail-previews/34-illustration-first.jpg",
+      "sha256": "467afedd60a93f8ab63112a99bcf8542b9ee71b687dd2f77b6b2964b81ffe285"
+    },
+    {
+      "frame": 4250,
+      "label": "illustration-last",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article34-delivery/34-illustrated-tail-previews/34-illustration-last.jpg",
+      "sha256": "44614f5e6fb4b75ac29ad6d624818683b052b2c2a7c51adf37069548a474a89a"
+    },
+    {
+      "frame": 4251,
+      "label": "summary-first",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article34-delivery/34-illustrated-tail-previews/34-summary-first.jpg",
+      "sha256": "f1137bd678401c11f9af964b99555ca73749db6484dd5e7677f0e608017bccf5"
+    },
+    {
+      "frame": 4310,
+      "label": "summary-last",
+      "path": "/home/runner/work/literate-enigma/literate-enigma/article34-delivery/34-illustrated-tail-previews/34-summary-last.jpg",
+      "sha256": "834bfcdcf1d33d8e9efd986eabfb78cde307ea1b6d53cf40002ebf4f3aca867e"
+    }
+  ]
+}

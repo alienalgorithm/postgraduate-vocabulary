@@ -1,0 +1,96 @@
+{
+  "article": "62",
+  "sentence": "S15",
+  "kind": "actual-current62-original-dual-ASR-three-contexts",
+  "diagnostic_only": true,
+  "acceptance": false,
+  "automatic_confirmation_or_renewal": false,
+  "private_PCM_GT_or_cache_exported": false,
+  "native_run_id": "43587082100",
+  "native_HEAD": "f9d0404391b944444e3b1ff39fdf9bb77ae699e2",
+  "source_sha256": "507265f8af27a972036310eb4860a75ce6b121310688dc5d57e33d57fa938878",
+  "actual_raw_WAV_sha256": "c5330026dbc9f81d0c7546a1716b9dade9960f44311862a5feb3e4aa0749d7c3",
+  "actual_raw_md5_first12": "128ca94f8329",
+  "original_ASR_program_sha256": "40caf651184d50efeb8d3b4477cd7a2b85911a495360554db1b3cd09ab596229",
+  "actual_segmentation_sha256": "4ddb1c82d2652977371e17afefe3354bce5106272ccbe4b23c369dee590250a8",
+  "all_original_piece_references": [
+    "In July 2016,",
+    "13 clones,",
+    "four from her cell line,",
+    "were ageing normally,",
+    "without hypertension or diabetes."
+  ],
+  "actual_original_dual_ASR_contexts": [
+    {
+      "context": "whole-S15",
+      "original_piece_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "actual_native_seconds": [
+        109.805,
+        119.59
+      ],
+      "reference_text": "In July 2016, 13 clones, four from her cell line, were ageing normally, without hypertension or diabetes.",
+      "sample_rate": 16000,
+      "sample_count": 156560,
+      "input_float32_sample_sha256": "f8a31bdf21b2ca2251540d0e8ebf878a2f51d1491845c97be0dd36708f365ead",
+      "full_transcripts_by_original_recognizer": {
+        "small.en": "In July 2016, 13 clones, four from her cell line, were aging normally without hypertension or diabetes.",
+        "parakeet": "In July 2016, 13 clones four from her cell line were aging normally without hypertension or diabetes."
+      },
+      "original_comparison_differences": [],
+      "original_merged_word_observations": []
+    },
+    {
+      "context": "pieces2-4",
+      "original_piece_numbers": [
+        2,
+        3,
+        4
+      ],
+      "actual_native_seconds": [
+        112.11,
+        116.7
+      ],
+      "reference_text": "13 clones, four from her cell line, were ageing normally,",
+      "sample_rate": 16000,
+      "sample_count": 73440,
+      "input_float32_sample_sha256": "d8b7de53953489f54a503256c2dcf9712e0abc7c0385c4c12e5134c2ca73a689",
+      "full_transcripts_by_original_recognizer": {
+        "small.en": "13 clones, 4 from her cell line, were aging normally.",
+        "parakeet": "Thirteen clones, four from her cell line, were aging normally."
+      },
+      "original_comparison_differences": [],
+      "original_merged_word_observations": []
+    },
+    {
+      "context": "piece3-four-insertion",
+      "original_piece_numbers": [
+        3
+      ],
+      "actual_native_seconds": [
+        113.8291,
+        115.0972
+      ],
+      "reference_text": "four from her cell line,",
+      "sample_rate": 16000,
+      "sample_count": 20290,
+      "input_float32_sample_sha256": "894165efd217b6400b8e297ea1bd550afcb2cbbba23172cc84c1901e8c3f81e3",
+      "full_transcripts_by_original_recognizer": {
+        "small.en": "4 from her cell line.",
+        "parakeet": ""
+      },
+      "original_comparison_differences": [
+        [
+          "four from her cell line",
+          "（没听到）〔parakeet〕"
+        ]
+      ],
+      "original_merged_word_observations": []
+    }
+  ]
+}

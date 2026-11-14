@@ -1,0 +1,20 @@
+{
+  "kind": "actual-current62-native-supplement-contract-validation",
+  "actual_native_run": 43587082100,
+  "actual_native_HEAD": "f9d0404391b944444e3b1ff39fdf9bb77ae699e2",
+  "actual_raw_report_path": "/dev/shm/video-review-native/43587082100/62/artifact-files/62-approved-audio-qc.json",
+  "actual_raw_report_sha256": "afbddfe48fbcdfd3656339dabd94f50ea365712850fb65c5b973ee42d56f1814",
+  "actual_real73_checks_all_passed": true,
+  "actual_correct_new_canonical_scope_passed": true,
+  "actual_new_canonical_to_card_copy_binding_passed": true,
+  "metadata_mutation_controls_rejected": [
+    "diagnostic_cannot_be_production",
+    "one_actual_required_check_failed",
+    "wrong_reference",
+    "old_request_not_current",
+    "required_original_native_gate_missing",
+    "changed_absolute_audio_clock_rejected"
+  ],
+  "new_media_generated_or_acoustic_threshold_modified": false,
+  "normal18_final_media_or_source_QA_pass_not_claimed_by_this_contract_check": true
+}

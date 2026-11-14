@@ -1,0 +1,21 @@
+{
+  "kind": "specific_source34_book_order_label_correction_only",
+  "original_independent_review": {
+    "path": "/workspace/work/video-revision-delivery/article34-review-intake-20261114/independent-specific-Chinese-correction-review.json",
+    "sha256": "ecebc1e086d8bc3174855219b0fff1603ad77de3b0dfc4b26bb66a91318503cb"
+  },
+  "source_id": "34",
+  "incorrect_book_order_in_original_report": 31,
+  "correct_book_order": "33",
+  "mapping_file": {
+    "path": "/workspace/work/video-revision-delivery/native-inline-engine-frozen-20261114-v13-reviewed33-layout-reference/actual53-64-validation/frozen-primary/篇号对照.json",
+    "sha256": "64fe76ae2788e6112bb4890cca51838826cfa5edf150de4f964da597cd15e55b"
+  },
+  "source_title_zh": "走出苏联的俄罗斯方块",
+  "candidate_source_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+  "semantic_scope_conclusions_unchanged": true,
+  "original_report_bytes_preserved": true,
+  "source_audio_video_PDF_or_remote_modified": false,
+  "explanation": "Original report inherited the incorrect book31 label from the parent task description; real frozen book order identifies source34 as book33. This corrects only the label, not the two approved Chinese text changes.",
+  "recorded_utc": "2026-11-14T09:43:48.176970+00:00"
+}

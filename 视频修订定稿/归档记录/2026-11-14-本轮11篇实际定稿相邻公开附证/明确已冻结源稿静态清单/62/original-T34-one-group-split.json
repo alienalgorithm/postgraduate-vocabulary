@@ -1,0 +1,55 @@
+{
+  "article": "62",
+  "original_tool": "拆分组.py 62 --写入",
+  "original_tool_sha256": "5703f55a7b9f75368468731e855b0eb573bbb603412d2aa51e3d66e7695ba9db",
+  "actual_stdout": "S6  embryo-**derived**→于1995年由胚胎**衍生的**(derived) ‖ **duo**, Megan and Morag, in 1995.→**一对**(duo)绵羊：梅根和莫拉格。\n第62篇：拆 1 组（S6）\n已写入（只写了工作目录：仓库那份本来就不一样，先核对）\n",
+  "difference": [
+    {
+      "path": "/sentences/5/chunks/2/align",
+      "reason": "list_length",
+      "expected_length": 2,
+      "actual_length": 3
+    },
+    {
+      "path": "/sentences/5/chunks/2/align/1/0",
+      "reason": "value",
+      "expected": "embryo-**derived** **duo**, Megan and Morag, in 1995.",
+      "actual": "embryo-**derived**"
+    },
+    {
+      "path": "/sentences/5/chunks/2/align/1/1",
+      "reason": "value",
+      "expected": "于1995年由胚胎**衍生的**(derived)**一对**(duo)绵羊：梅根和莫拉格。",
+      "actual": "于1995年由胚胎**衍生的**(derived)"
+    },
+    {
+      "path": "/sentences/5/chunks/2/align/2",
+      "reason": "unexpected_item",
+      "actual": [
+        "**duo**, Megan and Morag, in 1995.",
+        "**一对**(duo)绵羊：梅根和莫拉格。"
+      ]
+    },
+    {
+      "path": "/换行变更已获同意",
+      "reason": "unexpected_field",
+      "actual": {
+        "S6": "用户 2026-10-23 原话：“这个避免它还是没有完美的对应到这个avert的下面……才智也没有非常非常就是非常精准的放到这个intellect的下面……你认认真真的处理一下这件事儿，立一道闸好不好？”（T34：同序的重点词拆开，中文字不改）"
+      }
+    },
+    {
+      "path": "/核对确认/对齐/S6-3 duo, Megan and Morag, in 1995.",
+      "reason": "unexpected_field",
+      "actual": "embryo-derived、in 1995 都修饰 duo，中文定语“1995年用胚胎细胞培育的”必须提前"
+    },
+    {
+      "path": "/核对确认/对齐/S6-3 embryo-derived duo, Megan and ",
+      "reason": "missing_field",
+      "expected": "embryo-derived、in 1995 都修饰 duo，中文定语“1995年用胚胎细胞培育的”必须提前"
+    }
+  ],
+  "all_full_chunk_EN_and_ZH_and_notes_exact": true,
+  "all_audio_controls_exact_to_approved_candidate": true,
+  "source_sha256": "12fe1e790fc092b63af83753a6529be1a87f937c0c46583a30b513834a7f578f",
+  "GEN_sha256": "2a26f7259be9eb89d7b1f6a2ef78e4eaa2ec265254acdcaf268d37b63eb40005"
+}

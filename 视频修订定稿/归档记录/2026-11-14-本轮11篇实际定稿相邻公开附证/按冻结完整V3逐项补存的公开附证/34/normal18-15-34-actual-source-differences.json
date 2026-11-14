@@ -1,0 +1,22 @@
+{
+  "article": "34",
+  "kind": "observed-request-to-actual-source-differences",
+  "quality_verdict": null,
+  "changes": [
+    {
+      "path": "/sentences/4/chunks/1/align/3/1",
+      "request": "是这份**知识产权**(intellectual property)的**所有者**(proprietor)，",
+      "actual": "是这份**知识产权的**(intellectual property)**所有者**(proprietor)，"
+    },
+    {
+      "path": "/sentences/4/chunks/1/zh",
+      "request": "国家，而不是领**工资的**(salaried)**设计者**(designer)，是这份**知识产权**(intellectual property)的**所有者**(proprietor)，",
+      "actual": "国家，而不是领**工资的**(salaried)**设计者**(designer)，是这份**知识产权的**(intellectual property)**所有者**(proprietor)，"
+    },
+    {
+      "path": "/sentences/16/chunks/0/note",
+      "request": "（whose puzzle…：定语从句，修饰 The man；\nfor nothing：免费；\nwho could sell it：宾语从句）\n（简述：▸诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符拼成方块，做出了俄罗斯方块。▸归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软盘在东欧迅速流传。▸混乱：英国商人斯坦因还没拿到合法授权，就把版权卖给西方公司，后来又被层层转卖，各家的权利互相冲突。▸突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过3500万份。▸转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。）",
+      "actual": "（whose puzzle…：定语从句，修饰 The man；\nfor nothing：免费；\nwho could sell it：宾语从句）\n（简述：▸诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符拼成方块，做出了俄罗斯方块。\n▸归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软盘在东欧迅速流传。\n▸混乱：英国商人斯坦因还没拿到合法授权，\n▹就把版权卖给西方公司，后来又被层层转卖，各家的权利互相冲突。\n▸突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，\n▹任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过3500万份。\n▸转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；\n▹1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。）"
+    }
+  ]
+}

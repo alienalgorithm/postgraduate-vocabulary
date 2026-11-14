@@ -1,0 +1,43 @@
+{
+  "article": "62",
+  "previous_source_sha256": "12fe1e790fc092b63af83753a6529be1a87f937c0c46583a30b513834a7f578f",
+  "final_source_sha256": "0f9815cf3d144356246a820f194cd19fefc69cad3e9deff27d3aec30bb93dd23",
+  "final_GEN_sha256": "4ed6b5b11c2b9e5d876ff07a80db8692ce960e9559d456995f33a6c7a4acac7a",
+  "differences": [
+    {
+      "path": "/换行变更已获同意/S6",
+      "reason": "value",
+      "expected": "用户 2026-10-23 原话：“这个避免它还是没有完美的对应到这个avert的下面……才智也没有非常非常就是非常精准的放到这个intellect的下面……你认认真真的处理一下这件事儿，立一道闸好不好？”（T34：同序的重点词拆开，中文字不改）",
+      "actual": "用户2026-11-14本篇定稿原话：“Ok了，ok了，那这一篇可以定稿生成4k视频了。就克隆羊多利这一篇。”（执行本轮derived重点词所需的原T34单组拆分；已用真实旧snapshot实比L13，仅S6实际换行随该指定词色调整，全文EN与中文内容保持）"
+    },
+    {
+      "path": "/核对确认/合组/S6 duo, Megan and Morag, in 1995",
+      "reason": "unexpected_field",
+      "actual": "对齐不了：Megan and Morag是duo的同位语，in 1995修饰这对羊；原中文于1995年已随胚胎衍生的定语前置在上一组。继续按英文逐词分割会让末尾in 1995没有对应中文或移动已定稿日期位置，现按原文语序保留一对绵羊与人名同位语。"
+    },
+    {
+      "path": "/核对确认/合组/S6 embryo-derived",
+      "reason": "unexpected_field",
+      "actual": "对齐不了：embryo-derived是原英文一个连字符复合词，只derived部分按用户要求标为重点；按空格拆成embryo-和derived会凭空增加原文空格。in 1995时间状语按原定稿中文前置为于1995年，保留在由胚胎衍生的这个定语组。"
+    }
+  ],
+  "reason": "Exact unchanged original K128 checks need precise real compound/Chinese preposed date reasons. Original T34 generic quote absent from current consent registry is replaced by actual048 final authorization quote, never inventing that user specified milliseconds or uttered a specific S6 line break.",
+  "auth_entries": [
+    {
+      "篇": "62",
+      "日期": "2026-11-10",
+      "原话": "不用管，这个就是我清点的词，我清点的词不用管，撞不撞车，全都留，全都留，全都特批。我专门说的这个加为重点词汇的这个所有的词全都这个重点特批。",
+      "用于": "allow_clash.derived / funding / ageing（2026-11-14用户044/045/047逐项指定本篇新增重点；仅S6 derived衍生的、S10 funding提供资金、S15 ageing衰老）",
+      "来源": "真实通用撞词同意原话；本轮具体范围见USER-REVIEW-2026-11-14-044/045/047.json，保其他篇原有重点不变"
+    },
+    {
+      "篇": "62",
+      "日期": "2026-11-14",
+      "原话": "Ok了，ok了，那这一篇可以定稿生成4k视频了。就克隆羊多利这一篇。推优那一篇怎么还没给我呢？怎么还没给我呢？记得之后每一个每一篇生成这个4k视频，记住都要这个，最后有那个0.3秒的间隔。屠呦呦那篇，屠呦呦那篇怎么还没给我呢？我看看。",
+      "用于": "定稿62：按用户044/045/047三处重点词及词表，046所报接缝按root049最小4ms修复后，原完整音频/ASR门通过才重新4K；derived所需原T34最小拆分及真实旧L13所见S6排版纳入本次定稿；结尾间隔后来已由用户统一改为0.6秒覆盖本条0.3秒，仅由audio处理",
+      "来源": "root转交048真实原话（非048摘要冒充逐字引语）；USER-REVIEW-2026-11-14-048.json确认本轮范围，049为root实施决定，毫秒数不是用户原话"
+    }
+  ],
+  "genuine_old_L13_observation_path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/genuine-old-L13-without-split-approval-observation.json",
+  "PDF_not_accessed": true
+}

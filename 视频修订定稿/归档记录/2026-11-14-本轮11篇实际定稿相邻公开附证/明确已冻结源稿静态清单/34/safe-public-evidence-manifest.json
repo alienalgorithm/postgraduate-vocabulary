@@ -1,0 +1,701 @@
+{
+  "schema": "explicit_safe_public_evidence_manifest_v1",
+  "created_utc": "2026-11-14T09:45:11.367329+00:00",
+  "creator": "/root/resume_layout/contact_review",
+  "source_id": "34",
+  "book_order": "33",
+  "title_zh": "走出苏联的俄罗斯方块",
+  "purpose": "Read-only explicit allowlist for archive_writer. Hashes and sizes identify exact public source/static evidence bytes; this manifest neither copies files nor modifies any original.",
+  "freeze": {
+    "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/text-source-freeze-and-static-approval.json",
+    "sha256": "799ccad9137c0146a5f8c89f69c8e8f9fa2d275cd6c4b1e001192266f1b6a468"
+  },
+  "source_bindings": {
+    "source_JSON_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+    "GEN_sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+    "MD_sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+    "all_selected_frozen_source_and_named_report_bindings_verified": true
+  },
+  "canonical_payload_readonly_observations": [
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/payload/视频/脚本/34.json",
+      "sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+      "expected_frozen_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+      "matches_freeze": true,
+      "bytes": 66975,
+      "reference_only_not_additional_copy": true
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/payload/视频/工具/初稿生成/gen34.py",
+      "sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+      "expected_frozen_sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+      "matches_freeze": true,
+      "bytes": 61123,
+      "reference_only_not_additional_copy": true
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/payload/新版定稿/34-the-game-that-escaped-the-soviet-union.md",
+      "sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+      "expected_frozen_sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+      "matches_freeze": true,
+      "bytes": 18251,
+      "reference_only_not_additional_copy": true
+    }
+  ],
+  "file_count": 80,
+  "total_bytes": 4906537,
+  "counts_by_category": {
+    "actual_static_PNG": 12,
+    "before_article_GEN_source": 1,
+    "before_article_MD_source": 1,
+    "before_article_requested_change_record_MD": 1,
+    "before_article_source_JSON": 1,
+    "before_article_text_review_record": 1,
+    "candidate-payload_article_GEN_source": 1,
+    "candidate-payload_article_MD_source": 1,
+    "candidate-payload_article_requested_change_record_MD": 1,
+    "candidate-payload_article_source_JSON": 1,
+    "evidence_reproduction_program_source_only": 4,
+    "explicit_user_feedback": 3,
+    "final_original_GEN_and_text_log": 10,
+    "final_original_GEN_and_text_report": 1,
+    "frozen_article_text_review_record": 1,
+    "frozen_text_static_evidence_report": 6,
+    "immutable_real_original_last_sent_source_JSON": 1,
+    "independent_book_order_label_correction": 1,
+    "independent_original_specific_Chinese_review": 1,
+    "original_execution_log": 4,
+    "original_static_or_preflight_program": 4,
+    "original_tool_mechanical_output_JSON": 1,
+    "real_failed_attempt_original_log": 14,
+    "real_failed_attempt_report": 2,
+    "unchanged_original_production_tool_program": 6
+  },
+  "files": [
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/text-source-freeze-and-static-approval.json",
+      "archive_relative_path": "article34-user-review-20261114/text-source-freeze-and-static-approval.json",
+      "category": "frozen_text_static_evidence_report",
+      "bytes": 6832,
+      "sha256": "799ccad9137c0146a5f8c89f69c8e8f9fa2d275cd6c4b1e001192266f1b6a468"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-old-vs-original-postrepair-only-requested-translation.json",
+      "archive_relative_path": "article34-user-review-20261114/actual-old-vs-original-postrepair-only-requested-translation.json",
+      "category": "frozen_text_static_evidence_report",
+      "bytes": 1133,
+      "sha256": "5bc865fb95fcae59db06799d51790985f8eae69dff22fa5dd81ec1d568b81301"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-original-last-sent-snapshot-observation.json",
+      "archive_relative_path": "article34-user-review-20261114/actual-original-last-sent-snapshot-observation.json",
+      "category": "frozen_text_static_evidence_report",
+      "bytes": 709,
+      "sha256": "e7bc378f185694789932db2aa8849527988f1df94e21c1b316f88f9eb848a071"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-static-visual-review.json",
+      "archive_relative_path": "article34-user-review-20261114/actual-static-visual-review.json",
+      "category": "frozen_text_static_evidence_report",
+      "bytes": 1683,
+      "sha256": "170c4ca459d95f5ecec7563eb9c9bd84ccf0211c3f283d9436131db0aef6e0f2"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-render-report.json",
+      "archive_relative_path": "article34-user-review-20261114/static-render-report.json",
+      "category": "frozen_text_static_evidence_report",
+      "bytes": 30922,
+      "sha256": "ed471a874093e3bc4bdfd5f9711381ac038cedf35aafa9fc4b2515b35edc5c5a"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/proposal-report.json",
+      "archive_relative_path": "article34-user-review-20261114/proposal-report.json",
+      "category": "frozen_text_static_evidence_report",
+      "bytes": 1321,
+      "sha256": "a49315a69f0a9cab800dbd3bcdabfc5a46daa2bbc457a7143a21fe35d192a10e"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-old-native-last-sent34.json",
+      "archive_relative_path": "article34-user-review-20261114/actual-old-native-last-sent34.json",
+      "category": "immutable_real_original_last_sent_source_JSON",
+      "bytes": 60952,
+      "sha256": "b6ff63c80d80149615227a3a09b1ee644ab00689b658ed0078490f4a16d8e99e"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/before/视频/脚本/34.json",
+      "archive_relative_path": "article34-user-review-20261114/before/视频/脚本/34.json",
+      "category": "before_article_source_JSON",
+      "bytes": 60740,
+      "sha256": "74921848a6bb25a2ba631813f60d4756c9ff90c64c03a2fb936ce34f310ce509"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/before/视频/工具/初稿生成/gen34.py",
+      "archive_relative_path": "article34-user-review-20261114/before/视频/工具/初稿生成/gen34.py",
+      "category": "before_article_GEN_source",
+      "bytes": 61126,
+      "sha256": "a05ac77d9f22af406bc38a5a4905073ccc457e4de2cce4b8da16f64912423c52"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/before/新版定稿/34-the-game-that-escaped-the-soviet-union.md",
+      "archive_relative_path": "article34-user-review-20261114/before/新版定稿/34-the-game-that-escaped-the-soviet-union.md",
+      "category": "before_article_MD_source",
+      "bytes": 18254,
+      "sha256": "e3244b67b21e283e67f4e88e932a1dbb85bf273a48ee009b3f435e1c5814831c"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/before/视频/制作记录/34_待改清单.md",
+      "archive_relative_path": "article34-user-review-20261114/before/视频/制作记录/34_待改清单.md",
+      "category": "before_article_requested_change_record_MD",
+      "bytes": 33884,
+      "sha256": "b8a01b0554ea56b4df425cb622d759881cafa5fdd13471035c05689d9f52c0b3"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/视频/脚本/34.json",
+      "archive_relative_path": "article34-user-review-20261114/candidate-payload/视频/脚本/34.json",
+      "category": "candidate-payload_article_source_JSON",
+      "bytes": 66975,
+      "sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/视频/工具/初稿生成/gen34.py",
+      "archive_relative_path": "article34-user-review-20261114/candidate-payload/视频/工具/初稿生成/gen34.py",
+      "category": "candidate-payload_article_GEN_source",
+      "bytes": 61123,
+      "sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/新版定稿/34-the-game-that-escaped-the-soviet-union.md",
+      "archive_relative_path": "article34-user-review-20261114/candidate-payload/新版定稿/34-the-game-that-escaped-the-soviet-union.md",
+      "category": "candidate-payload_article_MD_source",
+      "bytes": 18251,
+      "sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/视频/制作记录/34_待改清单.md",
+      "archive_relative_path": "article34-user-review-20261114/candidate-payload/视频/制作记录/34_待改清单.md",
+      "category": "candidate-payload_article_requested_change_record_MD",
+      "bytes": 35036,
+      "sha256": "7ccf745678133b18f7ff0f506610e6203280184dc91b903b99bba00d7736939e"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/before/逐句确认34.json",
+      "archive_relative_path": "article34-user-review-20261114/before/逐句确认34.json",
+      "category": "before_article_text_review_record",
+      "bytes": 11559,
+      "sha256": "16540516c3398b27fb5d6c498e6ab876b8561174aabb4e7737589bf057e0bcf6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/candidate-payload/视频/制作记录/逐句确认/34.json",
+      "archive_relative_path": "article34-user-review-20261114/candidate-payload/视频/制作记录/逐句确认/34.json",
+      "category": "frozen_article_text_review_record",
+      "bytes": 11563,
+      "sha256": "cbd1dca3a8299e93573539a0049d8e3067ced9f4843f8758d33fe6ad756ab170"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/feedback/USER-REVIEW-2026-11-14-040.json",
+      "archive_relative_path": "article34-user-review-20261114/feedback/USER-REVIEW-2026-11-14-040.json",
+      "category": "explicit_user_feedback",
+      "bytes": 1189,
+      "sha256": "8c167b28cb1aa785f52349a05db1881a7ab4453bac20e45a7a2b51a6e0357e25"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/feedback/USER-REVIEW-2026-11-14-041.json",
+      "archive_relative_path": "article34-user-review-20261114/feedback/USER-REVIEW-2026-11-14-041.json",
+      "category": "explicit_user_feedback",
+      "bytes": 1022,
+      "sha256": "fb781cd35d0e6c2c15f565d5e41dd31469ec1b404c683c35728383db5e3d716b"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/feedback/USER-REVIEW-2026-11-14-042.json",
+      "archive_relative_path": "article34-user-review-20261114/feedback/USER-REVIEW-2026-11-14-042.json",
+      "category": "explicit_user_feedback",
+      "bytes": 1364,
+      "sha256": "81a6e2d5896422cc782eca7c22262d251d21b4c458844e3e099a0b13e4237118"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-static-render.log",
+      "archive_relative_path": "article34-user-review-20261114/actual-static-render.log",
+      "category": "original_execution_log",
+      "bytes": 226,
+      "sha256": "fafa111709e3de7667bc511cea036fe9410792b7e77d78319c46c8cc52a5ebed"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/original-GEN-and-text.log",
+      "archive_relative_path": "article34-user-review-20261114/original-GEN-and-text.log",
+      "category": "original_execution_log",
+      "bytes": 157,
+      "sha256": "8057e5fd706d825fc1c4ff9522c9b65053d7817d3fab570b7c292c9c4f1b6b22"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/original-GEN-and-text-final.log",
+      "archive_relative_path": "article34-user-review-20261114/original-GEN-and-text-final.log",
+      "category": "original_execution_log",
+      "bytes": 157,
+      "sha256": "9cb25d306e1b3f9ef0ee1e5b7bc5ae76c0826e7c9b09789bf5888bba3aba60f1"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/original-GEN-and-text-final-closed.log",
+      "archive_relative_path": "article34-user-review-20261114/original-GEN-and-text-final-closed.log",
+      "category": "original_execution_log",
+      "bytes": 156,
+      "sha256": "dbb97ca97b5e90c097eacf186d7f0da49373d7a6d756118a84113a056b233fbe"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/prepare34.py",
+      "archive_relative_path": "article34-user-review-20261114/prepare34.py",
+      "category": "evidence_reproduction_program_source_only",
+      "bytes": 5366,
+      "sha256": "37c09781d264f81b559f63356a6fb0dda61eec56ac73d67c2d8d72698116df62",
+      "note": "Archive source bytes only; this manifest does not execute the program or authorize any mutation it contains."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/publish34.py",
+      "archive_relative_path": "article34-user-review-20261114/publish34.py",
+      "category": "evidence_reproduction_program_source_only",
+      "bytes": 6030,
+      "sha256": "741db969664b68de6cbb20c520962de650ffbdf4d9e7d3b5a87fe4bd5ccdf0c7",
+      "note": "Archive source bytes only; this manifest does not execute the program or authorize any mutation it contains."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/render34_static.py",
+      "archive_relative_path": "article34-user-review-20261114/render34_static.py",
+      "category": "evidence_reproduction_program_source_only",
+      "bytes": 6668,
+      "sha256": "7f3b5c2787888378ccee77cab9dddfcfdb54793411f32aeb3c8fac454fd71519",
+      "note": "Archive source bytes only; this manifest does not execute the program or authorize any mutation it contains."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/validate34_thin.py",
+      "archive_relative_path": "article34-user-review-20261114/validate34_thin.py",
+      "category": "evidence_reproduction_program_source_only",
+      "bytes": 9162,
+      "sha256": "368ee82e7642345908eceec778f15e33e6363432d4fb3c9abe7d181db45c3978",
+      "note": "Archive source bytes only; this manifest does not execute the program or authorize any mutation it contains."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/report.json",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/report.json",
+      "category": "final_original_GEN_and_text_report",
+      "bytes": 5492,
+      "sha256": "8663cbb891ea2b80a895fb4cbd6c8a15bf8f5794199990b32c21667aa1277d5e",
+      "note": "Explicit single-file allowlist; no traversal or copying of thin-validation/mirror."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/34-original-auto-repaired.json",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/34-original-auto-repaired.json",
+      "category": "original_tool_mechanical_output_JSON",
+      "bytes": 60756,
+      "sha256": "117097af02bc7c5395962997d9b21786c78e7cb125cf9cef1ce77ca424939917",
+      "note": "Retained raw mechanical-tool output evidence; not the promoted canonical source."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/report.json",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/report.json",
+      "category": "real_failed_attempt_report",
+      "bytes": 5632,
+      "sha256": "9d4360e86c9e4458ed3359a48376639c84fa272536959cef35d95ad0372ddb70",
+      "note": "Original failed attempt preserved; do not reinterpret as a video or overall production pass."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-GEN.log",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-GEN.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 356,
+      "sha256": "541d5dad299f93074faf24e20cb67ca8f87c7e7aef3385661e062c79428e7c64"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-S17-after-mechanical-wrap-review.log",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-S17-after-mechanical-wrap-review.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 34,
+      "sha256": "b388703d68e10a01b4ad1c388c0d7519274cfd5d22a5ae94671e070b98b655e6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-S17-text-review.log",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-S17-text-review.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 34,
+      "sha256": "b388703d68e10a01b4ad1c388c0d7519274cfd5d22a5ae94671e070b98b655e6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-S9-text-review.log",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-S9-text-review.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 33,
+      "sha256": "7aed1b9a00e44d337898f3be187678d63e23803e398182004c5dc956d8cafdde"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-repair.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 206,
+      "sha256": "e3cb2b7a4faaf9a9f1554ad9354fc5ae9a9bd60dffe8bec0be40e9e2a618d867"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-text-after-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-text-after-repair.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 665,
+      "sha256": "460522576f0148106d9319f93aeb0786b7bd3f78b25393b4af34553d5327121c"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-text-before-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/initial-historic-T25-conflict/logs/34-original-text-before-repair.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 922,
+      "sha256": "753b3316e9d807c622e920febcd74160207e90f8a04ff3e5c280d7a96a95facf"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/report.json",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/report.json",
+      "category": "real_failed_attempt_report",
+      "bytes": 5440,
+      "sha256": "64814aff6c3448defb1568145e644f897019adecf27d68b1306970ad68967cee",
+      "note": "Original failed attempt preserved; do not reinterpret as a video or overall production pass."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-GEN.log",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-GEN.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 356,
+      "sha256": "541d5dad299f93074faf24e20cb67ca8f87c7e7aef3385661e062c79428e7c64"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-S17-after-mechanical-wrap-review.log",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-S17-after-mechanical-wrap-review.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 34,
+      "sha256": "b388703d68e10a01b4ad1c388c0d7519274cfd5d22a5ae94671e070b98b655e6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-S17-text-review.log",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-S17-text-review.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 34,
+      "sha256": "b388703d68e10a01b4ad1c388c0d7519274cfd5d22a5ae94671e070b98b655e6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-S9-text-review.log",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-S9-text-review.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 33,
+      "sha256": "7aed1b9a00e44d337898f3be187678d63e23803e398182004c5dc956d8cafdde"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-repair.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 206,
+      "sha256": "e3cb2b7a4faaf9a9f1554ad9354fc5ae9a9bd60dffe8bec0be40e9e2a618d867"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-text-after-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-text-after-repair.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 433,
+      "sha256": "b219f178a600e1b8f11d8e520b398d13ff4487d7e096ac3f48c9a549bc033fd1"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-text-before-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/second-preexisting-raw-T38-text-record/logs/34-original-text-before-repair.log",
+      "category": "real_failed_attempt_original_log",
+      "bytes": 739,
+      "sha256": "0e5d513aba22d76ff05f660bbf20699425d90224e73c57ea262ef9600dfe5ce5"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-GEN.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-GEN.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 356,
+      "sha256": "541d5dad299f93074faf24e20cb67ca8f87c7e7aef3385661e062c79428e7c64"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-S17-after-existing-mechanical-normalization-review.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-S17-after-existing-mechanical-normalization-review.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 34,
+      "sha256": "b388703d68e10a01b4ad1c388c0d7519274cfd5d22a5ae94671e070b98b655e6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-S17-after-mechanical-wrap-review.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-S17-after-mechanical-wrap-review.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 34,
+      "sha256": "b388703d68e10a01b4ad1c388c0d7519274cfd5d22a5ae94671e070b98b655e6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-S17-text-review.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-S17-text-review.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 34,
+      "sha256": "b388703d68e10a01b4ad1c388c0d7519274cfd5d22a5ae94671e070b98b655e6"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-S5-after-existing-mechanical-normalization-review.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-S5-after-existing-mechanical-normalization-review.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 33,
+      "sha256": "9088d137f337ea9c81363bc47cd40c3ce640e57934d9663a1959e35c00293bfd"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-S5-text-review.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-S5-text-review.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 33,
+      "sha256": "9088d137f337ea9c81363bc47cd40c3ce640e57934d9663a1959e35c00293bfd"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-S9-text-review.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-S9-text-review.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 33,
+      "sha256": "7aed1b9a00e44d337898f3be187678d63e23803e398182004c5dc956d8cafdde"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-repair.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 206,
+      "sha256": "e3cb2b7a4faaf9a9f1554ad9354fc5ae9a9bd60dffe8bec0be40e9e2a618d867"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-text-after-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-text-after-repair.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 433,
+      "sha256": "b219f178a600e1b8f11d8e520b398d13ff4487d7e096ac3f48c9a549bc033fd1"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/logs-v3/34-original-text-before-repair.log",
+      "archive_relative_path": "article34-user-review-20261114/thin-validation/logs-v3/34-original-text-before-repair.log",
+      "category": "final_original_GEN_and_text_log",
+      "bytes": 433,
+      "sha256": "b219f178a600e1b8f11d8e520b398d13ff4487d7e096ac3f48c9a549bc033fd1"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/before-S09-C2-due-to-Chinese-opening.png",
+      "archive_relative_path": "article34-user-review-20261114/static-1080/before-S09-C2-due-to-Chinese-opening.png",
+      "category": "actual_static_PNG",
+      "bytes": 199016,
+      "sha256": "2ac65639b8676db969a25adbcce0191944447a7b7b9137bc45d4a5dde4ffc37a",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/before-body-tail.png",
+      "archive_relative_path": "article34-user-review-20261114/static-1080/before-body-tail.png",
+      "category": "actual_static_PNG",
+      "bytes": 132050,
+      "sha256": "9767ae9e646455833407ac6e5e18349e0ac674761982bd34547376a2867deecd",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/before-summary.png",
+      "archive_relative_path": "article34-user-review-20261114/static-1080/before-summary.png",
+      "category": "actual_static_PNG",
+      "bytes": 306453,
+      "sha256": "92673a0976a6cc0f1b2a85681ccc907cf42f636f383e5966e95dcdd37853adc5",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/after-S09-C2-due-to-Chinese-opening.png",
+      "archive_relative_path": "article34-user-review-20261114/static-1080/after-S09-C2-due-to-Chinese-opening.png",
+      "category": "actual_static_PNG",
+      "bytes": 197139,
+      "sha256": "bec45108f73f806d881424d9425627da7a2add2bf4853bd1724f42bd779ef428",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/after-body-tail.png",
+      "archive_relative_path": "article34-user-review-20261114/static-1080/after-body-tail.png",
+      "category": "actual_static_PNG",
+      "bytes": 132050,
+      "sha256": "9767ae9e646455833407ac6e5e18349e0ac674761982bd34547376a2867deecd",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-1080/after-summary.png",
+      "archive_relative_path": "article34-user-review-20261114/static-1080/after-summary.png",
+      "category": "actual_static_PNG",
+      "bytes": 306453,
+      "sha256": "92673a0976a6cc0f1b2a85681ccc907cf42f636f383e5966e95dcdd37853adc5",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/before-S09-C2-due-to-Chinese-opening.png",
+      "archive_relative_path": "article34-user-review-20261114/static-4K/before-S09-C2-due-to-Chinese-opening.png",
+      "category": "actual_static_PNG",
+      "bytes": 418720,
+      "sha256": "c60825fa92878c45fd7eeab15aa1b4218cebd428207cb4014b5c81672e7fee94",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/before-body-tail.png",
+      "archive_relative_path": "article34-user-review-20261114/static-4K/before-body-tail.png",
+      "category": "actual_static_PNG",
+      "bytes": 280611,
+      "sha256": "ed3552a4718196869188dfb6dc917a884233c231b7c952296b2c1b42a49751ef",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/before-summary.png",
+      "archive_relative_path": "article34-user-review-20261114/static-4K/before-summary.png",
+      "category": "actual_static_PNG",
+      "bytes": 638944,
+      "sha256": "7288ac6e6aca86bb729a135f2b19953204c88f029cba4437ab748dc6e56ee85b",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/after-S09-C2-due-to-Chinese-opening.png",
+      "archive_relative_path": "article34-user-review-20261114/static-4K/after-S09-C2-due-to-Chinese-opening.png",
+      "category": "actual_static_PNG",
+      "bytes": 414837,
+      "sha256": "cb520772afad1960898475769a98f85eac1e433a83c27eae8cdc6f9fd1c7d2d1",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/after-body-tail.png",
+      "archive_relative_path": "article34-user-review-20261114/static-4K/after-body-tail.png",
+      "category": "actual_static_PNG",
+      "bytes": 280611,
+      "sha256": "ed3552a4718196869188dfb6dc917a884233c231b7c952296b2c1b42a49751ef",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/static-4K/after-summary.png",
+      "archive_relative_path": "article34-user-review-20261114/static-4K/after-summary.png",
+      "category": "actual_static_PNG",
+      "bytes": 638944,
+      "sha256": "7288ac6e6aca86bb729a135f2b19953204c88f029cba4437ab748dc6e56ee85b",
+      "note": "Source-rendered static evidence, not a frame decoded from a newly generated video."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/mirror/视频/工具/初稿生成/核对.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/视频/工具/初稿生成/核对.py",
+      "category": "unchanged_original_production_tool_program",
+      "bytes": 6310,
+      "sha256": "c635aee82e0fe4dff9f70dcae03e2f797aadb670c8ebe6c8f202b82a35a87a74",
+      "note": "Explicit named public Python program only; sibling mirror files and directories are excluded."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/mirror/视频/工具/踩坑核查.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/视频/工具/踩坑核查.py",
+      "category": "unchanged_original_production_tool_program",
+      "bytes": 89953,
+      "sha256": "f6efb9df33705fadac3d78d588adb722b4f07eab134818983a869f1d9e0c748d",
+      "note": "Explicit named public Python program only; sibling mirror files and directories are excluded."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/mirror/视频/工具/check_all.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/视频/工具/check_all.py",
+      "category": "unchanged_original_production_tool_program",
+      "bytes": 27315,
+      "sha256": "aaae1a04c1adb91ea17906374dc5f13fd52ae2894cceeb1ae2f2e62ebe4b51f2",
+      "note": "Explicit named public Python program only; sibling mirror files and directories are excluded."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/mirror/视频/工具/新管/印章.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/视频/工具/新管/印章.py",
+      "category": "unchanged_original_production_tool_program",
+      "bytes": 4103,
+      "sha256": "631d1d504e75b1b6fc01f3b1c6fec5bdee303f992ed005878062c9ed5f02bda8",
+      "note": "Explicit named public Python program only; sibling mirror files and directories are excluded."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/mirror/视频/工具/新管/修.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/视频/工具/新管/修.py",
+      "category": "unchanged_original_production_tool_program",
+      "bytes": 8904,
+      "sha256": "1a6662012752c2d2152d87e1690f1dbb1fd2ced583455a365c022b8b91bdd34d",
+      "note": "Explicit named public Python program only; sibling mirror files and directories are excluded."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/mirror/视频/工具/逐句确认.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/视频/工具/逐句确认.py",
+      "category": "unchanged_original_production_tool_program",
+      "bytes": 1902,
+      "sha256": "b54d6586118bb2e172682e6eb25f84b16843a54c692a7c5fcd1d90eda4a7f3ef",
+      "note": "Explicit named public Python program only; sibling mirror files and directories are excluded."
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/final-layout/official/render.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/final-layout/official/render.py",
+      "category": "original_static_or_preflight_program",
+      "bytes": 55647,
+      "sha256": "477a516f7100ac05dab15d3b176e2d8c49779aa4bd8713087b737f4d25833b67"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/final-layout/official/make_video.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/final-layout/official/make_video.py",
+      "category": "original_static_or_preflight_program",
+      "bytes": 119424,
+      "sha256": "4c85e1fbdd2e82c5646d5f58df63c85eca60af4ef521f1d36f765575a568d6f3"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/generator_text_preflight.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/generator_text_preflight.py",
+      "category": "original_static_or_preflight_program",
+      "bytes": 21823,
+      "sha256": "1514e91aee9dc04424e5b755cee37b65b8dadef9717f3e6c0cede35f1c03e044"
+    },
+    {
+      "source_path": "/workspace/work/video-audit70-20261113/illustrated-tail/illustrated_tail.py",
+      "archive_relative_path": "article34-user-review-20261114/original-tools/illustrated-tail/illustrated_tail.py",
+      "category": "original_static_or_preflight_program",
+      "bytes": 24007,
+      "sha256": "dc204b91415e28297b844e9666087b0e23e67194944b359cb5fb5ddbca0f1208"
+    },
+    {
+      "source_path": "/workspace/work/video-revision-delivery/article34-review-intake-20261114/independent-specific-Chinese-correction-review.json",
+      "archive_relative_path": "article34-review-intake-20261114/independent-specific-Chinese-correction-review.json",
+      "category": "independent_original_specific_Chinese_review",
+      "bytes": 3428,
+      "sha256": "ecebc1e086d8bc3174855219b0fff1603ad77de3b0dfc4b26bb66a91318503cb",
+      "note": "Original bytes preserved, including historical incorrect book_order=31; see separately archived correction record."
+    },
+    {
+      "source_path": "/workspace/work/video-revision-delivery/article34-review-intake-20261114/independent-specific-Chinese-correction-review-book-order-correction.json",
+      "archive_relative_path": "article34-review-intake-20261114/independent-specific-Chinese-correction-review-book-order-correction.json",
+      "category": "independent_book_order_label_correction",
+      "bytes": 1299,
+      "sha256": "af7781000939c674f0aa074dc35bcdfb7ee7f631773b99c8bd0b3c90f3228e9c",
+      "note": "Correct source34=book33. Semantic conclusions of the original review unchanged."
+    }
+  ],
+  "archive_instructions": {
+    "copy_only_explicit_files": true,
+    "preserve_original_bytes": true,
+    "verify_each_sha256_and_bytes_before_archiving": true,
+    "do_not_execute_archived_programs": true,
+    "do_not_follow_directory_or_report_path_references": true,
+    "no_large_file_copy_by_manifest_writer": true,
+    "static_PNGs_are_not_new_video_frames": true
+  },
+  "excluded": [
+    "All private PCM/WAV/AAC/MP4/GT data, caches, voice assets, raw audio and actual-original-audio-baseline tree",
+    "All .git, credentials, authentication/consent snapshots, .shared-layout-auth.lock and approved-video-layouts70.before/after originals",
+    "thin-validation/mirror tree and all sibling content except the six individually named original public Python tools",
+    "thin-validation content except the individually named final report, raw mechanical JSON and ten exact logs",
+    "Any __pycache__, .pyc, directory recursion, symlink target traversal, and unrelated article evidence",
+    "JPEG contact preview omitted because this allowlist includes the requested individual static PNG originals"
+  ],
+  "credential_pattern_screening": {
+    "selected_text_files_scanned": 68,
+    "finding_count": 0,
+    "scope": "Additional literal credential-pattern check of explicit public files; no secret directories read."
+  },
+  "book_order_correction": {
+    "original_report_sha256": "ecebc1e086d8bc3174855219b0fff1603ad77de3b0dfc4b26bb66a91318503cb",
+    "original_report_untouched": true,
+    "correction_report_sha256": "af7781000939c674f0aa074dc35bcdfb7ee7f631773b99c8bd0b3c90f3228e9c",
+    "source34_book33": true,
+    "semantic_scope_conclusions_unchanged": true
+  },
+  "claims": {
+    "new_video_pass_added": false,
+    "new_native_video_review_or_approval_claimed": false,
+    "source_or_CI_or_auth_or_original_report_modified": false,
+    "audio_or_video_generated": false,
+    "git_written_or_remote_pushed": false,
+    "all_selected_files_rehashed_before_manifest_write": true
+  }
+}

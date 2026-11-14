@@ -1,0 +1,74 @@
+{
+  "article": "34",
+  "kind": "actual-original-GEN-full-JSON-and-text-thin-mirror",
+  "thin_snapshot_scope": "Exact original production tools, all70 canonical MD/JSON and root-level production records required by unchanged selftests; only34 nested sentence review record. No archived proof trees copied.",
+  "source_sha256": "5350c08cdc6dfa5579f0bdc6960805cbe079a1c471c46bb2250f11b32da34868",
+  "GEN_sha256": "f09d0ddd27e46fea69a27c7a5b05844b01372d7acf7c8af48ae9d7b1d00ef314",
+  "MD_sha256": "fdfd966f8624bc506b7cfe16da04f2f7382ce5566fab3bcb35c3d99dd6d4a5f2",
+  "original_generator_exit": 0,
+  "whole_JSON_roundtrip_exact": true,
+  "JSON_differences": [],
+  "original_text_before_repair_exit": 0,
+  "original_repair_exit": 0,
+  "original_text_after_repair_exit": 0,
+  "original_text_hard_errors": [],
+  "original_text_pending_confirmations": [],
+  "original_mechanical_repair_differences": [
+    {
+      "path": "/sentences/4/chunks/1/align/3/1",
+      "reason": "value",
+      "expected": "是这份**知识产权**(intellectual property)的**所有者**(proprietor)，",
+      "actual": "是这份**知识产权的**(intellectual property)**所有者**(proprietor)，"
+    },
+    {
+      "path": "/sentences/4/chunks/1/zh",
+      "reason": "value",
+      "expected": "国家，而不是领**工资的**(salaried)**设计者**(designer)，是这份**知识产权**(intellectual property)的**所有者**(proprietor)，",
+      "actual": "国家，而不是领**工资的**(salaried)**设计者**(designer)，是这份**知识产权的**(intellectual property)**所有者**(proprietor)，"
+    },
+    {
+      "path": "/sentences/16/chunks/0/note",
+      "reason": "value",
+      "expected": "（whose puzzle…：定语从句，修饰 The man；\nfor nothing：免费；\nwho could sell it：宾语从句）\n（简述：▸诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符拼成方块，做出了俄罗斯方块。▸归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软盘在东欧迅速流传。▸混乱：英国商人斯坦因还没拿到合法授权，就把版权卖给西方公司，后来又被层层转卖，各家的权利互相冲突。▸突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过3500万份。▸转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。）",
+      "actual": "（whose puzzle…：定语从句，修饰 The man；\nfor nothing：免费；\nwho could sell it：宾语从句）\n（简述：▸诞生：1984年，苏联程序员帕基特诺夫用只能显示文字的电脑，把字符拼成方块，做出了俄罗斯方块。\n▸归属：当时游戏归国家所有，作者无权自行支配版权；复制品却通过软盘在东欧迅速流传。\n▸混乱：英国商人斯坦因还没拿到合法授权，\n▹就把版权卖给西方公司，后来又被层层转卖，各家的权利互相冲突。\n▸突破：1989年，发行商罗杰斯找到负责苏联软件出口的国家机构谈判，\n▹任天堂取得掌机和全球主机版权；随任天堂掌机销售的版本出货超过3500万份。\n▸转变：作者多年没有拿到收益，约1995年旧协议到期后才开始获利；\n▹1996年，他与罗杰斯成立公司，终于参与管理自己游戏的版权。）"
+    }
+  ],
+  "original_sentence_text_reviews": [
+    {
+      "sentence": "S5",
+      "exit": 0
+    },
+    {
+      "sentence": "S9",
+      "exit": 0
+    },
+    {
+      "sentence": "S17",
+      "exit": 0
+    }
+  ],
+  "sentence_review_before_sha256": "16540516c3398b27fb5d6c498e6ab876b8561174aabb4e7737589bf057e0bcf6",
+  "sentence_review_after_sha256": "cbd1dca3a8299e93573539a0049d8e3067ced9f4843f8758d33fe6ad756ab170",
+  "only_requested_sentence_review_records_updated": true,
+  "core_before_sha256": {
+    "视频/工具/初稿生成/核对.py": "c635aee82e0fe4dff9f70dcae03e2f797aadb670c8ebe6c8f202b82a35a87a74",
+    "视频/工具/踩坑核查.py": "f6efb9df33705fadac3d78d588adb722b4f07eab134818983a869f1d9e0c748d",
+    "视频/工具/check_all.py": "aaae1a04c1adb91ea17906374dc5f13fd52ae2894cceeb1ae2f2e62ebe4b51f2",
+    "视频/工具/新管/印章.py": "631d1d504e75b1b6fc01f3b1c6fec5bdee303f992ed005878062c9ed5f02bda8"
+  },
+  "core_after_sha256": {
+    "视频/工具/初稿生成/核对.py": "c635aee82e0fe4dff9f70dcae03e2f797aadb670c8ebe6c8f202b82a35a87a74",
+    "视频/工具/踩坑核查.py": "f6efb9df33705fadac3d78d588adb722b4f07eab134818983a869f1d9e0c748d",
+    "视频/工具/check_all.py": "aaae1a04c1adb91ea17906374dc5f13fd52ae2894cceeb1ae2f2e62ebe4b51f2",
+    "视频/工具/新管/印章.py": "631d1d504e75b1b6fc01f3b1c6fec5bdee303f992ed005878062c9ed5f02bda8"
+  },
+  "actual_original_last_sent_snapshot": {
+    "path": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/actual-old-native-last-sent34.json",
+    "sha256": "b6ff63c80d80149615227a3a09b1ee644ab00689b658ed0078490f4a16d8e99e",
+    "exact_original_L13_lookup": "/workspace/work/video-audit70-20261113/article34-user-review-20261114/thin-validation/mirror/视频/脚本/已发版本/34.json",
+    "missing_snapshot_skip_not_used": true
+  },
+  "source_input_unchanged": true,
+  "no_audio_video_or_dispatch": true,
+  "passed": true
+}

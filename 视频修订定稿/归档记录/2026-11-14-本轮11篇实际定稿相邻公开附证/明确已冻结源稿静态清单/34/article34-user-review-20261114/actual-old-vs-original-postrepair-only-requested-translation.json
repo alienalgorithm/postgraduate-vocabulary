@@ -1,0 +1,22 @@
+{
+  "article": "34",
+  "actual_old_used_source_path": "/workspace/work/video-revision-delivery/next-passed-validated/43533004625/34/final-source/视频/脚本/34.json",
+  "actual_old_used_source_sha256": "dbf96e13ef87c14a2bdce5588b184760d8da5638b7e759d045f624021c753e20",
+  "new_original_postrepair_source_sha256": "117097af02bc7c5395962997d9b21786c78e7cb125cf9cef1ce77ca424939917",
+  "only_two_requested_Chinese_paths_changed": true,
+  "all_other_visible_styles_notes_summary_and_DSP_exact_to_own_actual_accepted_source": true,
+  "diff": [
+    {
+      "path": "/sentences/8/chunks/1/align/0/1",
+      "reason": "value",
+      "expected": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "actual": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    },
+    {
+      "path": "/sentences/8/chunks/1/zh",
+      "reason": "value",
+      "expected": "因为由西方公司之间**重叠的**(overlapping)交易而导致了这种情况，",
+      "actual": "由于西方公司之间**重叠的**(overlapping)交易而导致了这种情况，"
+    }
+  ]
+}

@@ -1,0 +1,1337 @@
+{
+  "article": "62",
+  "book_order": "34",
+  "passed": true,
+  "kind": "actual-authorized-static-render-of-latest-native-current-before-and-focus-candidate-not-new-video",
+  "old_approved_source_sha256": "4b3a97f2b6404e1b091537c21f01fc60088902f596803345983c38be52ec79eb",
+  "before_source_sha256": "8147198c65aa6f66839b2a7050dbe13c5e4209725ddff01bcb636859340ba084",
+  "old_request_before_exactly_matches_approved_row": true,
+  "actual_latest_accepted_native_source_sha256": "8147198c65aa6f66839b2a7050dbe13c5e4209725ddff01bcb636859340ba084",
+  "actual_latest_only_existing_summary_wrap_diff": true,
+  "after_source_sha256": "b6623901b7f5d4edccb905fa7b44f7666890d6b63e491f6b6028e63f15b0c6f4",
+  "renderer_sha256": "477a516f7100ac05dab15d3b176e2d8c49779aa4bd8713087b737f4d25833b67",
+  "theme_maker_sha256": "4c85e1fbdd2e82c5646d5f58df63c85eca60af4ef521f1d36f765575a568d6f3",
+  "font_sha256": {
+    "Inter.ttf": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+    "NotoSansSC.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+  },
+  "Pillow": "12.3.0",
+  "audio_or_source_or_official_core_changed_by_this_program": false,
+  "approved_manifest_before_sha256": "9f180edf00c4fbc569c78994fa0c9b912a824914c62b396919fe73d94c27335f",
+  "resolutions": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "scale": 1,
+      "sources": [
+        {
+          "label": "approved_request",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 76,
+              "natural_font_px": 76,
+              "width_px": 1837.046875,
+              "height_px": 170,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1856.03125,
+              "height_px": 753,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 93,
+              "natural_font_px": 93,
+              "width_px": 1741.5,
+              "height_px": 1019,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 99,
+              "natural_font_px": 99,
+              "width_px": 1854.3125,
+              "height_px": 570,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 100,
+              "natural_font_px": 118,
+              "width_px": 1575.421875,
+              "height_px": 581,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1811.59375,
+              "height_px": 1020,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 90,
+              "natural_font_px": 90,
+              "width_px": 1852.578125,
+              "height_px": 610,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 84,
+              "natural_font_px": 84,
+              "width_px": 1796.859375,
+              "height_px": 1014,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1856.171875,
+              "height_px": 502,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 100,
+              "natural_font_px": 101,
+              "width_px": 1841.921875,
+              "height_px": 477,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 74,
+              "natural_font_px": 74,
+              "width_px": 1846.375,
+              "height_px": 597,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 82,
+              "natural_font_px": 82,
+              "width_px": 1856.9375,
+              "height_px": 579,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 73,
+              "natural_font_px": 73,
+              "width_px": 1841.421875,
+              "height_px": 771,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 91,
+              "natural_font_px": 91,
+              "width_px": 1859.53125,
+              "height_px": 298,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1844.71875,
+              "height_px": 652,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 78,
+              "natural_font_px": 78,
+              "width_px": 1859.625,
+              "height_px": 748,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 95,
+              "natural_font_px": 95,
+              "width_px": 1858.40625,
+              "height_px": 908,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 18,
+              "font_px": 69,
+              "natural_font_px": 69,
+              "width_px": 1842.765625,
+              "height_px": 743,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 19,
+              "font_px": 100,
+              "natural_font_px": 103,
+              "width_px": 1790.953125,
+              "height_px": 581,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/approved_request-body-tail.png",
+            "PNG_sha256": "4478cf41b2a8042aad267fba8889106f75ef68ce745ad0ee425b589c956ed73e",
+            "RGB_sha256": "9d890fd1d2a1591f89507249705de1326151155d63397b96f1bb964f07399dca",
+            "font_px": 100,
+            "width_px": 1790.953125,
+            "height_px": 581
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/approved_request-summary.png",
+            "PNG_sha256": "56e738a509b33245e683a5f57499cd82e7a0f3f3e088d36fb7412b2ad78108bd",
+            "RGB_sha256": "4baf96f646fbb56adec4c93da62bbb489275e1e7bf90439de8cf25213041e708",
+            "font_px": 64,
+            "point_count": 5,
+            "text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d",
+            "rows": [
+              "• 诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融",
+              "合，培育胚胎，1996年由代孕母羊产下多莉。",
+              "• 突破：277次尝试仅多莉存活；她是首只由成年细胞克隆的",
+              "哺乳动物，此前已能用胚胎细胞克隆羊。",
+              "• 争议：成果引发人类克隆伦理争论；多莉的端粒（染色体末",
+              "端）比同龄羊短约20%，又引起早衰猜测。",
+              "• 离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺",
+              "病，六岁时被实施安乐死，不能据此认定克隆导致早衰。",
+              "• 复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未",
+              "支持关节炎过早出现的担忧。"
+            ],
+            "canonical_unwrapped_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d"
+          },
+          "actual_changed_page_renders": []
+        },
+        {
+          "label": "latest_native",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 76,
+              "natural_font_px": 76,
+              "width_px": 1837.046875,
+              "height_px": 170,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1856.03125,
+              "height_px": 753,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 93,
+              "natural_font_px": 93,
+              "width_px": 1741.5,
+              "height_px": 1019,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 99,
+              "natural_font_px": 99,
+              "width_px": 1854.3125,
+              "height_px": 570,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 100,
+              "natural_font_px": 118,
+              "width_px": 1575.421875,
+              "height_px": 581,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1811.59375,
+              "height_px": 1020,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 90,
+              "natural_font_px": 90,
+              "width_px": 1852.578125,
+              "height_px": 610,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 84,
+              "natural_font_px": 84,
+              "width_px": 1796.859375,
+              "height_px": 1014,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1856.171875,
+              "height_px": 502,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 100,
+              "natural_font_px": 101,
+              "width_px": 1841.921875,
+              "height_px": 477,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 74,
+              "natural_font_px": 74,
+              "width_px": 1846.375,
+              "height_px": 597,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 82,
+              "natural_font_px": 82,
+              "width_px": 1856.9375,
+              "height_px": 579,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 73,
+              "natural_font_px": 73,
+              "width_px": 1841.421875,
+              "height_px": 771,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 91,
+              "natural_font_px": 91,
+              "width_px": 1859.53125,
+              "height_px": 298,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1844.71875,
+              "height_px": 652,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 78,
+              "natural_font_px": 78,
+              "width_px": 1859.625,
+              "height_px": 748,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 95,
+              "natural_font_px": 95,
+              "width_px": 1858.40625,
+              "height_px": 908,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 18,
+              "font_px": 69,
+              "natural_font_px": 69,
+              "width_px": 1842.765625,
+              "height_px": 743,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 19,
+              "font_px": 100,
+              "natural_font_px": 103,
+              "width_px": 1790.953125,
+              "height_px": 581,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/latest_native-body-tail.png",
+            "PNG_sha256": "4478cf41b2a8042aad267fba8889106f75ef68ce745ad0ee425b589c956ed73e",
+            "RGB_sha256": "9d890fd1d2a1591f89507249705de1326151155d63397b96f1bb964f07399dca",
+            "font_px": 100,
+            "width_px": 1790.953125,
+            "height_px": 581
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/latest_native-summary.png",
+            "PNG_sha256": "56e738a509b33245e683a5f57499cd82e7a0f3f3e088d36fb7412b2ad78108bd",
+            "RGB_sha256": "4baf96f646fbb56adec4c93da62bbb489275e1e7bf90439de8cf25213041e708",
+            "font_px": 64,
+            "point_count": 5,
+            "text_sha256": "55b05363eebefaf7f530d74cd6fbed40f33581442cdab263596bd07d7a516275",
+            "rows": [
+              "• 诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融",
+              "合，培育胚胎，1996年由代孕母羊产下多莉。",
+              "• 突破：277次尝试仅多莉存活；她是首只由成年细胞克隆的",
+              "哺乳动物，此前已能用胚胎细胞克隆羊。",
+              "• 争议：成果引发人类克隆伦理争论；多莉的端粒（染色体末",
+              "端）比同龄羊短约20%，又引起早衰猜测。",
+              "• 离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺",
+              "病，六岁时被实施安乐死，不能据此认定克隆导致早衰。",
+              "• 复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未",
+              "支持关节炎过早出现的担忧。"
+            ],
+            "canonical_unwrapped_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d"
+          },
+          "actual_changed_page_renders": []
+        },
+        {
+          "label": "after",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 76,
+              "natural_font_px": 76,
+              "width_px": 1837.046875,
+              "height_px": 170,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1856.03125,
+              "height_px": 753,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 93,
+              "natural_font_px": 93,
+              "width_px": 1741.5,
+              "height_px": 1019,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 99,
+              "natural_font_px": 99,
+              "width_px": 1854.3125,
+              "height_px": 570,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 100,
+              "natural_font_px": 118,
+              "width_px": 1575.421875,
+              "height_px": 581,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1811.59375,
+              "height_px": 1020,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 90,
+              "natural_font_px": 90,
+              "width_px": 1852.578125,
+              "height_px": 610,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 84,
+              "natural_font_px": 84,
+              "width_px": 1796.859375,
+              "height_px": 1014,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 72,
+              "natural_font_px": 72,
+              "width_px": 1856.171875,
+              "height_px": 502,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 100,
+              "natural_font_px": 101,
+              "width_px": 1841.921875,
+              "height_px": 477,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 74,
+              "natural_font_px": 74,
+              "width_px": 1846.375,
+              "height_px": 597,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 82,
+              "natural_font_px": 82,
+              "width_px": 1856.9375,
+              "height_px": 579,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 73,
+              "natural_font_px": 73,
+              "width_px": 1841.421875,
+              "height_px": 771,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 91,
+              "natural_font_px": 91,
+              "width_px": 1859.53125,
+              "height_px": 298,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 77,
+              "natural_font_px": 77,
+              "width_px": 1844.71875,
+              "height_px": 652,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 78,
+              "natural_font_px": 78,
+              "width_px": 1859.625,
+              "height_px": 748,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 95,
+              "natural_font_px": 95,
+              "width_px": 1858.40625,
+              "height_px": 908,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 18,
+              "font_px": 69,
+              "natural_font_px": 69,
+              "width_px": 1842.765625,
+              "height_px": 743,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 19,
+              "font_px": 100,
+              "natural_font_px": 103,
+              "width_px": 1790.953125,
+              "height_px": 581,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/after-body-tail.png",
+            "PNG_sha256": "020e2836593c1ceba5988ae51fb5dd7c77aa8a480c7555c4a88246c762d94a93",
+            "RGB_sha256": "e12015ed349151d5a1a040e11b2e81e746ec1c9c7a57f463c9e8327cb86cb683",
+            "font_px": 100,
+            "width_px": 1790.953125,
+            "height_px": 581
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/after-summary.png",
+            "PNG_sha256": "56e738a509b33245e683a5f57499cd82e7a0f3f3e088d36fb7412b2ad78108bd",
+            "RGB_sha256": "4baf96f646fbb56adec4c93da62bbb489275e1e7bf90439de8cf25213041e708",
+            "font_px": 64,
+            "point_count": 5,
+            "text_sha256": "55b05363eebefaf7f530d74cd6fbed40f33581442cdab263596bd07d7a516275",
+            "rows": [
+              "• 诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融",
+              "合，培育胚胎，1996年由代孕母羊产下多莉。",
+              "• 突破：277次尝试仅多莉存活；她是首只由成年细胞克隆的",
+              "哺乳动物，此前已能用胚胎细胞克隆羊。",
+              "• 争议：成果引发人类克隆伦理争论；多莉的端粒（染色体末",
+              "端）比同龄羊短约20%，又引起早衰猜测。",
+              "• 离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺",
+              "病，六岁时被实施安乐死，不能据此认定克隆导致早衰。",
+              "• 复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未",
+              "支持关节炎过早出现的担忧。"
+            ],
+            "canonical_unwrapped_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d"
+          },
+          "actual_changed_page_renders": [
+            {
+              "sentence": 6,
+              "active_chunk": 3,
+              "term": "derived",
+              "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/S06-C3-derived.png",
+              "PNG_sha256": "b732b77946a9886e324d7af6368d378234a0250adb1ea88b163908219f4af1da",
+              "RGB_sha256": "50dc73c92077d6a98c4fae4cb9922e5fa1dc9a49186bd3f6c40a19806e0bfeaf"
+            },
+            {
+              "sentence": 10,
+              "active_chunk": 1,
+              "term": "funding",
+              "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/S10-C1-funding.png",
+              "PNG_sha256": "2ef1aa062242266e1e74efe67cdab18fd382a29397485e0b419a8580c847ae22",
+              "RGB_sha256": "6494439b58021c82bc6b81e5dab441512fb1b9ce456fffaccf34d7a185aa558b"
+            },
+            {
+              "sentence": 15,
+              "active_chunk": 2,
+              "term": "ageing",
+              "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-1080/S15-C2-ageing.png",
+              "PNG_sha256": "9161551cd7b1cb40aef610a012fb94c58bdbfdcbfb9ec04389081cf8ef147124",
+              "RGB_sha256": "db17d439ca5cb19a8ac5d0c2af7d7c9d1f5fbf997eb2488865726f16ec90a217"
+            }
+          ]
+        }
+      ],
+      "all_19_sentences_three_sources_within_bounds_and_no_orphans": true,
+      "body_tail_font_and_geometry_exact": true,
+      "body_tail_RGB_exact": false,
+      "body_tail_color_change_explanation": "The unchanged article62 renderer uses its existing cyclic focus palette; added focus terms can shift colours assigned later. All original tail text, fonts and geometry remain exact.",
+      "summary_text_font_rows_and_pixels_exact": true,
+      "changed_pages_new_RGB_identity_not_claimed": true
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "scale": 2,
+      "sources": [
+        {
+          "label": "approved_request",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 153,
+              "natural_font_px": 153,
+              "width_px": 3697.953125,
+              "height_px": 345,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 143,
+              "natural_font_px": 143,
+              "width_px": 3699.515625,
+              "height_px": 1510,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 184,
+              "natural_font_px": 184,
+              "width_px": 3445.515625,
+              "height_px": 2035,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 198,
+              "natural_font_px": 198,
+              "width_px": 3709.609375,
+              "height_px": 1146,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 200,
+              "natural_font_px": 236,
+              "width_px": 3150.75,
+              "height_px": 1162,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 152,
+              "natural_font_px": 152,
+              "width_px": 3576.234375,
+              "height_px": 2032,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 180,
+              "natural_font_px": 180,
+              "width_px": 3705.265625,
+              "height_px": 1229,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 169,
+              "natural_font_px": 169,
+              "width_px": 3615.03125,
+              "height_px": 2038,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 144,
+              "natural_font_px": 144,
+              "width_px": 3713.359375,
+              "height_px": 1016,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 200,
+              "natural_font_px": 202,
+              "width_px": 3683.578125,
+              "height_px": 954,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 149,
+              "natural_font_px": 149,
+              "width_px": 3718.578125,
+              "height_px": 1209,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 164,
+              "natural_font_px": 164,
+              "width_px": 3715.921875,
+              "height_px": 1164,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 147,
+              "natural_font_px": 147,
+              "width_px": 3706.921875,
+              "height_px": 1555,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 181,
+              "natural_font_px": 181,
+              "width_px": 3701.484375,
+              "height_px": 596,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 155,
+              "natural_font_px": 155,
+              "width_px": 3719.59375,
+              "height_px": 1319,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 156,
+              "natural_font_px": 156,
+              "width_px": 3719.109375,
+              "height_px": 1497,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 190,
+              "natural_font_px": 190,
+              "width_px": 3716.984375,
+              "height_px": 1820,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 18,
+              "font_px": 139,
+              "natural_font_px": 139,
+              "width_px": 3715.34375,
+              "height_px": 1515,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 19,
+              "font_px": 200,
+              "natural_font_px": 207,
+              "width_px": 3581.78125,
+              "height_px": 1162,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/approved_request-body-tail.png",
+            "PNG_sha256": "f6d87c03137ca77bf7f5c53ab2f8af25a7af4fa0fc01ba68f4d2770a29795dc3",
+            "RGB_sha256": "d76c395e39c6639925df6421aeb94fc8c22747859634ebcd1f915b467e1e045d",
+            "font_px": 200,
+            "width_px": 3581.78125,
+            "height_px": 1162
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/approved_request-summary.png",
+            "PNG_sha256": "a312e685fa637990b06161d020bb570ec98731937202f72baf5e3befa3efae3a",
+            "RGB_sha256": "e09b18da8309506841ece2e5b949a9b6d239b26fa15277e0856245292d5cec69",
+            "font_px": 128,
+            "point_count": 5,
+            "text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d",
+            "rows": [
+              "• 诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融",
+              "合，培育胚胎，1996年由代孕母羊产下多莉。",
+              "• 突破：277次尝试仅多莉存活；她是首只由成年细胞克隆的",
+              "哺乳动物，此前已能用胚胎细胞克隆羊。",
+              "• 争议：成果引发人类克隆伦理争论；多莉的端粒（染色体末",
+              "端）比同龄羊短约20%，又引起早衰猜测。",
+              "• 离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺",
+              "病，六岁时被实施安乐死，不能据此认定克隆导致早衰。",
+              "• 复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未",
+              "支持关节炎过早出现的担忧。"
+            ],
+            "canonical_unwrapped_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d"
+          },
+          "actual_changed_page_renders": []
+        },
+        {
+          "label": "latest_native",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 153,
+              "natural_font_px": 153,
+              "width_px": 3697.953125,
+              "height_px": 345,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 143,
+              "natural_font_px": 143,
+              "width_px": 3699.515625,
+              "height_px": 1510,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 184,
+              "natural_font_px": 184,
+              "width_px": 3445.515625,
+              "height_px": 2035,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 198,
+              "natural_font_px": 198,
+              "width_px": 3709.609375,
+              "height_px": 1146,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 200,
+              "natural_font_px": 236,
+              "width_px": 3150.75,
+              "height_px": 1162,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 152,
+              "natural_font_px": 152,
+              "width_px": 3576.234375,
+              "height_px": 2032,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 180,
+              "natural_font_px": 180,
+              "width_px": 3705.265625,
+              "height_px": 1229,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 169,
+              "natural_font_px": 169,
+              "width_px": 3615.03125,
+              "height_px": 2038,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 144,
+              "natural_font_px": 144,
+              "width_px": 3713.359375,
+              "height_px": 1016,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 200,
+              "natural_font_px": 202,
+              "width_px": 3683.578125,
+              "height_px": 954,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 149,
+              "natural_font_px": 149,
+              "width_px": 3718.578125,
+              "height_px": 1209,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 164,
+              "natural_font_px": 164,
+              "width_px": 3715.921875,
+              "height_px": 1164,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 147,
+              "natural_font_px": 147,
+              "width_px": 3706.921875,
+              "height_px": 1555,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 181,
+              "natural_font_px": 181,
+              "width_px": 3701.484375,
+              "height_px": 596,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 155,
+              "natural_font_px": 155,
+              "width_px": 3719.59375,
+              "height_px": 1319,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 156,
+              "natural_font_px": 156,
+              "width_px": 3719.109375,
+              "height_px": 1497,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 190,
+              "natural_font_px": 190,
+              "width_px": 3716.984375,
+              "height_px": 1820,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 18,
+              "font_px": 139,
+              "natural_font_px": 139,
+              "width_px": 3715.34375,
+              "height_px": 1515,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 19,
+              "font_px": 200,
+              "natural_font_px": 207,
+              "width_px": 3581.78125,
+              "height_px": 1162,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/latest_native-body-tail.png",
+            "PNG_sha256": "f6d87c03137ca77bf7f5c53ab2f8af25a7af4fa0fc01ba68f4d2770a29795dc3",
+            "RGB_sha256": "d76c395e39c6639925df6421aeb94fc8c22747859634ebcd1f915b467e1e045d",
+            "font_px": 200,
+            "width_px": 3581.78125,
+            "height_px": 1162
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/latest_native-summary.png",
+            "PNG_sha256": "a312e685fa637990b06161d020bb570ec98731937202f72baf5e3befa3efae3a",
+            "RGB_sha256": "e09b18da8309506841ece2e5b949a9b6d239b26fa15277e0856245292d5cec69",
+            "font_px": 128,
+            "point_count": 5,
+            "text_sha256": "55b05363eebefaf7f530d74cd6fbed40f33581442cdab263596bd07d7a516275",
+            "rows": [
+              "• 诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融",
+              "合，培育胚胎，1996年由代孕母羊产下多莉。",
+              "• 突破：277次尝试仅多莉存活；她是首只由成年细胞克隆的",
+              "哺乳动物，此前已能用胚胎细胞克隆羊。",
+              "• 争议：成果引发人类克隆伦理争论；多莉的端粒（染色体末",
+              "端）比同龄羊短约20%，又引起早衰猜测。",
+              "• 离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺",
+              "病，六岁时被实施安乐死，不能据此认定克隆导致早衰。",
+              "• 复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未",
+              "支持关节炎过早出现的担忧。"
+            ],
+            "canonical_unwrapped_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d"
+          },
+          "actual_changed_page_renders": []
+        },
+        {
+          "label": "after",
+          "sentences": [
+            {
+              "sentence": 1,
+              "font_px": 153,
+              "natural_font_px": 153,
+              "width_px": 3697.953125,
+              "height_px": 345,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 2,
+              "font_px": 143,
+              "natural_font_px": 143,
+              "width_px": 3699.515625,
+              "height_px": 1510,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 3,
+              "font_px": 184,
+              "natural_font_px": 184,
+              "width_px": 3445.515625,
+              "height_px": 2035,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 4,
+              "font_px": 198,
+              "natural_font_px": 198,
+              "width_px": 3709.609375,
+              "height_px": 1146,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 5,
+              "font_px": 200,
+              "natural_font_px": 236,
+              "width_px": 3150.75,
+              "height_px": 1162,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 6,
+              "font_px": 152,
+              "natural_font_px": 152,
+              "width_px": 3576.234375,
+              "height_px": 2032,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 7,
+              "font_px": 180,
+              "natural_font_px": 180,
+              "width_px": 3705.265625,
+              "height_px": 1229,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 8,
+              "font_px": 169,
+              "natural_font_px": 169,
+              "width_px": 3615.03125,
+              "height_px": 2038,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 9,
+              "font_px": 144,
+              "natural_font_px": 144,
+              "width_px": 3713.359375,
+              "height_px": 1016,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 10,
+              "font_px": 200,
+              "natural_font_px": 202,
+              "width_px": 3683.578125,
+              "height_px": 954,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 11,
+              "font_px": 149,
+              "natural_font_px": 149,
+              "width_px": 3718.578125,
+              "height_px": 1209,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 12,
+              "font_px": 164,
+              "natural_font_px": 164,
+              "width_px": 3715.921875,
+              "height_px": 1164,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 13,
+              "font_px": 147,
+              "natural_font_px": 147,
+              "width_px": 3706.921875,
+              "height_px": 1555,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 14,
+              "font_px": 181,
+              "natural_font_px": 181,
+              "width_px": 3701.484375,
+              "height_px": 596,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 15,
+              "font_px": 155,
+              "natural_font_px": 155,
+              "width_px": 3719.59375,
+              "height_px": 1319,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 16,
+              "font_px": 156,
+              "natural_font_px": 156,
+              "width_px": 3719.109375,
+              "height_px": 1497,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 17,
+              "font_px": 190,
+              "natural_font_px": 190,
+              "width_px": 3716.984375,
+              "height_px": 1820,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 18,
+              "font_px": 139,
+              "natural_font_px": 139,
+              "width_px": 3715.34375,
+              "height_px": 1515,
+              "within_bounds": true,
+              "orphans": []
+            },
+            {
+              "sentence": 19,
+              "font_px": 200,
+              "natural_font_px": 207,
+              "width_px": 3581.78125,
+              "height_px": 1162,
+              "within_bounds": true,
+              "orphans": []
+            }
+          ],
+          "body_tail": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/after-body-tail.png",
+            "PNG_sha256": "d2325655fb96379d7eee26cfabe386ed750aa800badf23e565825eb91d36315a",
+            "RGB_sha256": "8955c1ec39ce39642dd0081ad190366f6111c798c60636d3eec4ffc8da3b7b25",
+            "font_px": 200,
+            "width_px": 3581.78125,
+            "height_px": 1162
+          },
+          "summary": {
+            "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/after-summary.png",
+            "PNG_sha256": "a312e685fa637990b06161d020bb570ec98731937202f72baf5e3befa3efae3a",
+            "RGB_sha256": "e09b18da8309506841ece2e5b949a9b6d239b26fa15277e0856245292d5cec69",
+            "font_px": 128,
+            "point_count": 5,
+            "text_sha256": "55b05363eebefaf7f530d74cd6fbed40f33581442cdab263596bd07d7a516275",
+            "rows": [
+              "• 诞生：研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融",
+              "合，培育胚胎，1996年由代孕母羊产下多莉。",
+              "• 突破：277次尝试仅多莉存活；她是首只由成年细胞克隆的",
+              "哺乳动物，此前已能用胚胎细胞克隆羊。",
+              "• 争议：成果引发人类克隆伦理争论；多莉的端粒（染色体末",
+              "端）比同龄羊短约20%，又引起早衰猜测。",
+              "• 离世：多莉自然交配育下六只小羊；患有关节炎和病毒性肺",
+              "病，六岁时被实施安乐死，不能据此认定克隆导致早衰。",
+              "• 复核：后续研究中13只克隆羊正常衰老；多莉骨骼复查也未",
+              "支持关节炎过早出现的担忧。"
+            ],
+            "canonical_unwrapped_text_sha256": "fb25026603911c1e54a7da6e7d2c813879861109cc4d8f1f99e1d6fa3e830f0d"
+          },
+          "actual_changed_page_renders": [
+            {
+              "sentence": 6,
+              "active_chunk": 3,
+              "term": "derived",
+              "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/S06-C3-derived.png",
+              "PNG_sha256": "2e144cca6a0da503cdcf4f33a55e22a56f32e523103f880da7de0df6a8007752",
+              "RGB_sha256": "fa20a3810c4086830e62c12f0c4353aac44b177695b8ad67d48633be5139ae92"
+            },
+            {
+              "sentence": 10,
+              "active_chunk": 1,
+              "term": "funding",
+              "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/S10-C1-funding.png",
+              "PNG_sha256": "984eabe253bb63264d5041ca1c7b0af8a2cd55e25dd82bd65a7db69ddc1a680e",
+              "RGB_sha256": "bafe11380c265f1ba76d1b20d1efbd58209d9e4f51a8112982f448caee12a36c"
+            },
+            {
+              "sentence": 15,
+              "active_chunk": 2,
+              "term": "ageing",
+              "path": "/workspace/work/video-audit70-20261113/article62-user-review-20261114/static-4K/S15-C2-ageing.png",
+              "PNG_sha256": "915d478e11f1f65164dc93c31caf5a395c1630de3461ecfc4fe8167f88444708",
+              "RGB_sha256": "63bd5df7c5fb3a58cbbd2bd10e63c4f6d93565b2dd057c252a8fcf0ee1d5b936"
+            }
+          ]
+        }
+      ],
+      "all_19_sentences_three_sources_within_bounds_and_no_orphans": true,
+      "body_tail_font_and_geometry_exact": true,
+      "body_tail_RGB_exact": false,
+      "body_tail_color_change_explanation": "The unchanged article62 renderer uses its existing cyclic focus palette; added focus terms can shift colours assigned later. All original tail text, fonts and geometry remain exact.",
+      "summary_text_font_rows_and_pixels_exact": true,
+      "changed_pages_new_RGB_identity_not_claimed": true
+    }
+  ],
+  "created_utc": "2026-11-14T09:33:10.456862+00:00",
+  "actual_new_changed_page_count": 6
+}
