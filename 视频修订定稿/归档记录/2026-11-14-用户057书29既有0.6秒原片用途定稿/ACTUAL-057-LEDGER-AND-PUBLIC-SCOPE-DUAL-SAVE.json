@@ -1,0 +1,42 @@
+{
+  "kind": "actual-user057-plain-instruction-and-public-scope-dual-save",
+  "observed_UTC": "2026-11-14T15:37:29.715Z",
+  "records": [
+    {
+      "kind": "user057_original_ledger",
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "path": "user-review/2026-11-14/057-first34-uniform-0-6-second-end-pause.json",
+      "commit": "eb5b646cf6a65a01ec3ae974efb039b199099892",
+      "Git_blob_SHA": "bfca513fc6d9a7d77c0b7d1ca5060d0fb63b7fa8",
+      "immutable_UTF8_bytes_exact": true
+    },
+    {
+      "kind": "user057_original_ledger",
+      "repository": "AlienCodes/literate-enigma",
+      "path": "user-review/2026-11-14/057-first34-uniform-0-6-second-end-pause.json",
+      "commit": "62cb4f8bd45dd2f516611bb8dc42e00db5c35706",
+      "Git_blob_SHA": "bfca513fc6d9a7d77c0b7d1ca5060d0fb63b7fa8",
+      "immutable_UTF8_bytes_exact": true
+    },
+    {
+      "kind": "public_first34_scope",
+      "repository": "alienalgorithm/postgraduate-vocabulary",
+      "path": "delivery-controls/2026-11-14/user057-first34-uniform06-public-scope.json",
+      "commit": "70e0ca806f482ae55a167deaa69f3b4d9d5b8a2a",
+      "Git_blob_SHA": "ba446f449b5e45e7d08d6399f551cbf272eebe2c",
+      "immutable_UTF8_bytes_exact": true
+    },
+    {
+      "kind": "public_first34_scope",
+      "repository": "AlienCodes/literate-enigma",
+      "path": "delivery-controls/2026-11-14/user057-first34-uniform06-public-scope.json",
+      "commit": "6115523567e3d9e2b56bd67d7e4594cca2f3963a",
+      "Git_blob_SHA": "ba446f449b5e45e7d08d6399f551cbf272eebe2c",
+      "immutable_UTF8_bytes_exact": true
+    }
+  ],
+  "only_user_quote_and_public_scope_saved": true,
+  "no_media_or_PDF_generation_or_upload": true,
+  "no_main_backup_delivery_branch_ref_mutation": true,
+  "no_live_ROOT_or_restricted_registry_payload_exported": true
+}
