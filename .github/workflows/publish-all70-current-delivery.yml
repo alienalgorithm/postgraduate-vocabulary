@@ -1,0 +1,29 @@
+name: Publish70 current4K delivery with3 audio reviews deferred
+on:
+  push:
+    branches: [codex/all70-current-delivery-waiver-20261115]
+    paths: [.github/all70-current-delivery/DELIVERY-MANIFEST.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    if: github.repository == 'alienalgorithm/postgraduate-vocabulary'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/all70-current-delivery
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -u .github/all70-current-delivery/publish_delivery.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: all70-current-delivery-receipt-${{ github.run_id }}
+          path: all70-delivery-output/DELIVERY-RELEASE-VERIFICATION.json
+          if-no-files-found: warn

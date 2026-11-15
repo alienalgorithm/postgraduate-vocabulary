@@ -1,0 +1,1345 @@
+{
+  "kind": "all70-immediate-existing-video-delivery-manifest",
+  "tag": "all70-current-4k-delivery-three-audio-deferred-v1",
+  "latest_actual_user_authority_sha256": "bc6f4bc4a79e12aeb96acd1d64cd4f106325edcddfed12e386f9203332d37988",
+  "latest_immediate_no_extra_verification_amendment_sha256": "ce771ae0749865b45fdd817940fc73a527150fe7361231059e486cdb1d7c784c",
+  "strict_all70_qualified": false,
+  "audio_review_deferred_source_ids": [
+    "24",
+    "68",
+    "56"
+  ],
+  "total_MP4_bytes": 1167583985,
+  "videos": [
+    {
+      "source_id": "07",
+      "current_video_order": "01",
+      "title_zh": "越狱的章鱼",
+      "release_name": "01 越狱的章鱼.mp4",
+      "bytes": 14984868,
+      "sha256": "b2f2dbff8204dfeecae0bbd3740edcd1e46987ee3370a292e13ba53e37c4a874",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "59253751a55edb3d3b02831f20161de82be25f2f",
+        "repo_path": "视频修订定稿/2026-11-14-审核原07-新native源QA与0.6秒定稿-来源43624682794-本地尾段v1/视频/03 越狱的章鱼.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "01",
+      "current_video_order": "02",
+      "title_zh": "以为柠檬汁能隐身的劫匪",
+      "release_name": "02 以为柠檬汁能隐身的劫匪.mp4",
+      "bytes": 16628353,
+      "sha256": "ee3c8545b85ad6b13eae54ee666ad6cd0aac357afbf168d704f01b2db6804000",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "26e687c811dc8e11f36e987c52aba3b7ca59002e",
+        "repo_path": "视频修订定稿/2026-11-14-审核原01-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/01 以为柠檬汁能隐身的劫匪.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "12",
+      "current_video_order": "03",
+      "title_zh": "新可乐的 79 天",
+      "release_name": "03 新可乐的 79 天.mp4",
+      "bytes": 15255969,
+      "sha256": "fae3966549f6f9baa810976f8a4b357e35f89d871afd2c83bf420a4b6e2aa7df",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "f73ce1b879c9332c0d36f0e2cb53ae702e5791f0",
+        "repo_path": "视频修订定稿/2026-11-14-审核原12-0.6秒定稿-原生来源43538347790-本地尾段v1/视频/05 新可乐的 79 天.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "10",
+      "current_video_order": "04",
+      "title_zh": "被偷走的微笑",
+      "release_name": "04 被偷走的微笑.mp4",
+      "bytes": 15999548,
+      "sha256": "a5ea5433fd5a2ff5b6cfaa3931e5d7642d255ebe04baf08d7e397364778a00da",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "6dc1a4da5a747e301458a29bd65f53468dba60b7",
+        "repo_path": "视频修订定稿/2026-11-14-审核原10-0.6秒定稿-原生来源43538347790-本地尾段v1/视频/06 被偷走的微笑.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "22",
+      "current_video_order": "05",
+      "title_zh": "会烤化汽车的大楼",
+      "release_name": "05 会烤化汽车的大楼.mp4",
+      "bytes": 14435311,
+      "sha256": "38c8e330e9ed0f2a6c472b99bf3a833d0a40df85c19ef2963891ecb4d2e0b9ac",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "269af0545d30cab9c1194c89fe9a281c9d39d684",
+        "repo_path": "视频修订定稿/2026-11-14-审核原22-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/02 会烤化汽车的大楼.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "06",
+      "current_video_order": "06",
+      "title_zh": "会算术的马",
+      "release_name": "06 会算术的马.mp4",
+      "bytes": 15767781,
+      "sha256": "855e78a0da3d6742968b4e50454e1fa29a28dde2e099f9697c13a196ab893a6d",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "d8fe965d1636965063d6b0bad3bebaf6cc1ba672",
+        "repo_path": "视频修订定稿/2026-11-14-审核原06-0.6秒定稿-原生来源43548189084-本地尾段v1/视频/07 会算术的马.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "11",
+      "current_video_order": "07",
+      "title_zh": "第37手",
+      "release_name": "07 第37手.mp4",
+      "bytes": 14853087,
+      "sha256": "7f1820c1eb6856678e2b97827fa0090008ebb2fd6c1bcf6c610096f6500844d8",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "2e1e0ae1d87710f364b696f09a1950b5ee009eff",
+        "repo_path": "视频修订定稿/2026-11-14-审核原11-0.6秒定稿-原生来源43538347790-本地尾段v1/视频/10 第37手.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "39",
+      "current_video_order": "08",
+      "title_zh": "千年虫：被成功抹去的危机",
+      "release_name": "08 千年虫：被成功抹去的危机.mp4",
+      "bytes": 16518749,
+      "sha256": "986d4a403d53d366622bfe81c7f8b6c429ac34678aaf61a72bd2d095e1302007",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "522efa3535ba25d3a61c5ceb92bc949f5ce587ee",
+        "repo_path": "视频修订定稿/2026-11-14-审核原39-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/11 千年虫：被成功抹去的危机.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "21",
+      "current_video_order": "09",
+      "title_zh": "两次卖掉埃菲尔铁塔的骗子",
+      "release_name": "09 两次卖掉埃菲尔铁塔的骗子.mp4",
+      "bytes": 14646572,
+      "sha256": "96e1eaa88560d768ee1dbab73fcd354d486c888119c2493f279e6f566dadb1ee",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "0427f413efea34f27c71dad8fba6b1140ce7a8d7",
+        "repo_path": "视频修订定稿/2026-11-14-审核原21-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/13 两次卖掉埃菲尔铁塔的骗子.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "51",
+      "current_video_order": "10",
+      "title_zh": "OK 原本是个玩笑",
+      "release_name": "10 OK 原本是个玩笑.mp4",
+      "bytes": 15785733,
+      "sha256": "499a69d24ac9f4c08edd0f4a801d76f7b20182c0748b543467d19596855da12f",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "b8c83d6a5f4791ba4202ab619fe7e843093f1923",
+        "repo_path": "视频修订定稿/2026-11-14-审核原51-0.6秒定稿-原生来源43538347790-本地尾段v1/视频/08 OK 原本是个玩笑.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "03",
+      "current_video_order": "11",
+      "title_zh": "喝下细菌的医生",
+      "release_name": "11 喝下细菌的医生.mp4",
+      "bytes": 16294048,
+      "sha256": "fac20cb0019016aefcb944c72129155564a8277e2d109d928fd8a1d7e57caaef",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "9af3d637264a0d99cf3aebfec04ff49560842ebe",
+        "repo_path": "视频修订定稿/2026-11-14-审核原03-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/04 喝下细菌的医生.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "05",
+      "current_video_order": "12",
+      "title_zh": "血里的指纹",
+      "release_name": "12 血里的指纹.mp4",
+      "bytes": 15894486,
+      "sha256": "5578cd4c5216751b4074812dd75f93dc6a793749e31f70ffe845e770a38b49a6",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "507fb0e24412b10125e9d67b0f793947d04bc882",
+        "repo_path": "视频修订定稿/2026-11-14-审核原05-新native源QA与0.6秒定稿-来源43613425787-本地尾段v1/视频/09 血里的指纹.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "04",
+      "current_video_order": "13",
+      "title_zh": "被街道重塑的大脑",
+      "release_name": "13 被街道重塑的大脑.mp4",
+      "bytes": 16927188,
+      "sha256": "4e621a9dc32881c2c4285b95b47d0a1787f130c3b7dffb2cbec822041998b054",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "903b5d3e4ebd6cac4faec65c5dabd756116a553b",
+        "repo_path": "视频修订定稿/2026-11-14-审核原04-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/12 被街道重塑的大脑.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "55",
+      "current_video_order": "14",
+      "title_zh": "罗马混凝土的千年之谜",
+      "release_name": "14 罗马混凝土的千年之谜.mp4",
+      "bytes": 15858248,
+      "sha256": "9317c8dac6aea332b4831ec44bcc9e02cd9cbe47f89c5648ba8469f971b26b27",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "a61ab090093e103aa254ff1157bfe8c912fe116a",
+        "repo_path": "视频修订定稿/2026-11-14-审核原55-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/14 罗马混凝土的千年之谜.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "44",
+      "current_video_order": "15",
+      "title_zh": "一夜之间换边开车",
+      "release_name": "15 一夜之间换边开车.mp4",
+      "bytes": 15505775,
+      "sha256": "01eee20af4d9876b2d3733f3b18415e0c5a97272a77731f7c210f32752da9d4d",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "0a2a500e214e8728b37155a6fde5828f9f03ef0b",
+        "repo_path": "视频修订定稿/2026-11-14-审核原44-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/15 一夜之间换边开车.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "50",
+      "current_video_order": "16",
+      "title_zh": "微塑料：无处不在，危害几何？",
+      "release_name": "16 微塑料：无处不在，危害几何？.mp4",
+      "bytes": 15856544,
+      "sha256": "3be522b85eb8db341d6b4e3fda845f07eaf1979b7c021c066611fd6881e7b829",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "dc6abfc7597bdd55f429876b9a2a16a6d8986c58",
+        "repo_path": "视频修订定稿/2026-11-14-审核原50-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/16 微塑料：无处不在，危害几何？.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "20",
+      "current_video_order": "17",
+      "title_zh": "冰里的五千年凶案",
+      "release_name": "17 冰里的五千年凶案.mp4",
+      "bytes": 15559714,
+      "sha256": "2086aef2b1d500f17e03b9ba452946d8b7e305c45c5f291705d8158792664397",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "2ba45e765bf2d9ea0f46910364cfa5745792dee4",
+        "repo_path": "视频修订定稿/2026-11-14-审核原20-0.6秒定稿-原生来源43543967031-本地尾段v1/视频/17 冰里的五千年凶案.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "02",
+      "current_video_order": "18",
+      "title_zh": "一颗棉花糖的真相",
+      "release_name": "18 一颗棉花糖的真相.mp4",
+      "bytes": 15872411,
+      "sha256": "9ceb3c6d6db753a4d8ce5b30b5a3acd3576eb8a6239f949b9bf604125703b695",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "9f817d9a3dd17b7b6a1a5dc756142056beedf913",
+        "repo_path": "视频修订定稿/2026-11-14-审核原02-0.6秒定稿-原生来源43556145154-本地尾段v1/视频/18 一颗棉花糖的真相.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "49",
+      "current_video_order": "19",
+      "title_zh": "两度摘得诺奖的女人",
+      "release_name": "19 两度摘得诺奖的女人.mp4",
+      "bytes": 16878778,
+      "sha256": "df02dc8c50e63278f87dbac9befcb67744ea4a54392b4541173e0cc14f711706",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "4b55c2072a9193814aa4bc4bce72d489ce95197f",
+        "repo_path": "视频修订定稿/2026-11-14-审核原49-0.6秒定稿-原生来源43556226408-本地尾段v1/视频/19 两度摘得诺奖的女人.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "42",
+      "current_video_order": "20",
+      "title_zh": "需要戴眼镜的望远镜",
+      "release_name": "20 需要戴眼镜的望远镜.mp4",
+      "bytes": 15698198,
+      "sha256": "67b547618bbcecc83edcb67e118ec712a64b48bb888f9283db44150dcb9a2d52",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "113dfcdd0420dbec80ce2eb1a14665df0b50749f",
+        "repo_path": "视频修订定稿/2026-11-14-审核原42-0.6秒定稿-原生来源43538347790-本地尾段v1/视频/20 需要戴眼镜的望远镜.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "14",
+      "current_video_order": "21",
+      "title_zh": "让蚂蚁变僵尸的真菌",
+      "release_name": "21 让蚂蚁变僵尸的真菌.mp4",
+      "bytes": 14984047,
+      "sha256": "01b47a7af2d206cd19d260f29ca017c36b59d9be2ef651175a8ed859a84b907d",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "f95c867701076ec62aef61385dc72011934519e5",
+        "repo_path": "视频修订定稿/2026-11-14-审核原14-0.6秒定稿-原生来源43567974764-本地尾段v1/视频/21 让蚂蚁变僵尸的真菌.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "27",
+      "current_video_order": "22",
+      "title_zh": "禁区里的生机",
+      "release_name": "22 禁区里的生机.mp4",
+      "bytes": 16929602,
+      "sha256": "caa7f1494eb0bcbc2507555f789eee52de56c2e060b9586d15536f54e370dd80",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "ba6ed968cda6bc0f4f4064a218100b2336cae202",
+        "repo_path": "视频修订定稿/2026-11-14-审核原27-0.6秒定稿-原生来源43573500890-本地尾段v1/视频/22 禁区里的生机.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "13",
+      "current_video_order": "23",
+      "title_zh": "十一天不睡觉的少年",
+      "release_name": "23 十一天不睡觉的少年.mp4",
+      "bytes": 17475216,
+      "sha256": "3286a5c6240eb2aadd8eaf6838ba5ca8095fec102a23f9de873d93d4a5cae19c",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "ed0fa02cbb26e4e86f84ba7c84140ef56174d83c",
+        "repo_path": "视频修订定稿/2026-11-14-审核原13-0.6秒定稿-原生来源43568315233-本地尾段v1/视频/23 十一天不睡觉的少年.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "61",
+      "current_video_order": "24",
+      "title_zh": "集装箱：重塑世界的铁盒子",
+      "release_name": "24 集装箱：重塑世界的铁盒子.mp4",
+      "bytes": 15721861,
+      "sha256": "b2be54ff9ad4f4488eff50e8d2e91a1a6ee7cb27ec5875fc994eeb988a877c83",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "154b8e02f5d6b2224f50a9b7ac240bf0a2778080",
+        "repo_path": "视频修订定稿/2026-11-14-审核原61-0.6秒定稿-原生来源43560056264-本地尾段v1/视频/24 集装箱：重塑世界的铁盒子.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "15",
+      "current_video_order": "25",
+      "title_zh": "永不沉没的神话",
+      "release_name": "25 永不沉没的神话.mp4",
+      "bytes": 16528821,
+      "sha256": "ba765533da3ee80377bd7080725bcae20e73d1ec1e1ec635c3385629e63e8876",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "d0bab0bfb458edb3ee94fcb9c74751a15e44ce99",
+        "repo_path": "视频修订定稿/2026-11-14-审核原15-0.6秒定稿-原生来源43573168894-本地尾段v1/视频/25 永不沉没的神话.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "17",
+      "current_video_order": "26",
+      "title_zh": "法老的诅咒",
+      "release_name": "26 法老的诅咒.mp4",
+      "bytes": 15394386,
+      "sha256": "01df918516816ddebd23caed59e9265ff7107530d52db1768f5078c9a219866c",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "8dd5ef40dbcd937c3d08156b8b8af7ce4198eb2b",
+        "repo_path": "视频修订定稿/2026-11-14-审核原17-0.6秒定稿-原生来源43575885608-本地尾段v1/视频/26 法老的诅咒.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "26",
+      "current_video_order": "27",
+      "title_zh": "孩子们发明的语言",
+      "release_name": "27 孩子们发明的语言.mp4",
+      "bytes": 15496913,
+      "sha256": "a1fcdff12362ab1704f2a49e1bcd4ace1a44d70483985c122adbf655c0e2aa23",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "8b8b18ba59d021c1223579f4a6d390625ed48033",
+        "repo_path": "视频修订定稿/2026-11-14-审核原26-0.6秒定稿-原生来源43569401028-本地尾段v1/视频/27 孩子们发明的语言.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "36",
+      "current_video_order": "28",
+      "title_zh": "发明了数码相机，却被它打败",
+      "release_name": "28 发明了数码相机，却被它打败.mp4",
+      "bytes": 17314583,
+      "sha256": "9c3c2a448673726f9d389c8adef9bdf4de71ff3f67d0fcd0175cce73ab7acb7c",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "97c331009a0f851c802a3ce85b73fd1c20292a4c",
+        "repo_path": "视频修订定稿/2026-11-14-审核原36-0.6秒定稿-原生来源43574943542-本地尾段v1/视频/28 发明了数码相机，却被它打败.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "28",
+      "current_video_order": "29",
+      "title_zh": "青蒿一握，济世千万",
+      "release_name": "29 青蒿一握，济世千万.mp4",
+      "bytes": 17473089,
+      "sha256": "1e1685c5b0eff4ebb2d3e8bab3f368336ea31a313b38c10a0ef0f7a1ae365163",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "b7bb13821d3b4e8e519a7e3ea942e26d617dea70",
+        "repo_path": "视频修订定稿/2026-11-14-用户057-书29既有0.6秒媒体统一时长版/视频/29 青蒿一握，济世千万.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "33",
+      "current_video_order": "30",
+      "title_zh": "洞穴里的十三个人",
+      "release_name": "30 洞穴里的十三个人.mp4",
+      "bytes": 16517283,
+      "sha256": "77ad61825474d84a6474a1a24928381731a60aa593a131fce8a2b0f9d9aa5814",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "2f829ff2fe38d07100e48ae61b20e18ac9de32e0",
+        "repo_path": "视频修订定稿/2026-11-14-审核原33-0.6秒定稿-原生来源43576211956-本地尾段v1/视频/30 洞穴里的十三个人.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "67",
+      "current_video_order": "31",
+      "title_zh": "几个少年和一只狗发现的洞穴",
+      "release_name": "31 几个少年和一只狗发现的洞穴.mp4",
+      "bytes": 15343944,
+      "sha256": "4a54860bd3e562b3cb9c6a50b5c754054caf8a39d98e588b7b14ca16e79fab95",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "de4b48727ac368444a29553dffc1d179944d9a8a",
+        "repo_path": "视频修订定稿/2026-11-14-审核原67-新native源QA与0.6秒定稿-来源43614715562-本地尾段v1/视频/31 几个少年和一只狗发现的洞穴.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "47",
+      "current_video_order": "32",
+      "title_zh": "黄石公园狼影再现",
+      "release_name": "32 黄石公园狼影再现.mp4",
+      "bytes": 17946800,
+      "sha256": "d4da7a7969270d8eb4b840a3be725759fef6ad6a229d24e5f53da8383af12ae3",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "d2e81068ca75a70fd7cab334c8d26254dc030d1e",
+        "repo_path": "视频修订定稿/2026-11-14-审核原47-新native源QA与0.6秒定稿-来源43583809472-本地尾段v1/视频/32 黄石公园狼影再现.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "34",
+      "current_video_order": "33",
+      "title_zh": "走出苏联的俄罗斯方块",
+      "release_name": "33 走出苏联的俄罗斯方块.mp4",
+      "bytes": 17585602,
+      "sha256": "a8780cde8970de937e314591c0d43d5f4facf17c411574c79581ca2532588b9a",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "5709ff4e2882dd49b8d0a0359fe6dc042d4088a0",
+        "repo_path": "视频修订定稿/2026-11-14-审核原34-新native源QA与0.6秒定稿-来源43583310590-本地尾段v1/视频/33 走出苏联的俄罗斯方块.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "62",
+      "current_video_order": "34",
+      "title_zh": "多莉：一只羊的复制",
+      "release_name": "34 多莉：一只羊的复制.mp4",
+      "bytes": 16044904,
+      "sha256": "bf0935bce57444d1952aec7687bc39cbeccd1164bcef01a7fed83f57264c6149",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "3f36bde6295955195fd3f716c4c5feaa7035fea1",
+        "repo_path": "视频修订定稿/2026-11-14-审核原62-新native源QA与0.6秒定稿-来源43587082100-本地尾段v1/视频/34 多莉：一只羊的复制.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "53",
+      "current_video_order": "35",
+      "title_zh": "不合拍的风：塔科马大桥的陨落",
+      "release_name": "35 不合拍的风：塔科马大桥的陨落.mp4",
+      "bytes": 15345690,
+      "sha256": "618b45ba4ffe04ed6459c2dde7c0a950c939b3f1b013b95a92e3affea8915f94",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "db1d97274d9346e5843aadb129f330eda332fa81",
+        "repo_path": "视频修订定稿/2026-11-14-审核原53-新native源QA与0.6秒定稿-来源43618546414-本地尾段v1/视频/35 不合拍的风：塔科马大桥的陨落.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "60",
+      "current_video_order": "36",
+      "title_zh": "爱因斯坦的诺奖之路",
+      "release_name": "36 爱因斯坦的诺奖之路.mp4",
+      "bytes": 16316507,
+      "sha256": "cbd7103a1019b50bb5a94cea9c3d770f50c3dbf7b4012b38d44c8087a242e817",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "6bf93f6b45ca2583598bd7b90d22dff86828c691",
+        "repo_path": "视频修订定稿/2026-11-14-审核原60-新native源QA与0.6秒定稿-来源43626183061-本地尾段v1/视频/36 爱因斯坦的诺奖之路.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "65",
+      "current_video_order": "37",
+      "title_zh": "末日种子库的第一次取种",
+      "release_name": "37 末日种子库的第一次取种.mp4",
+      "bytes": 16032155,
+      "sha256": "3189edd95ef18879528c161d97abcb5e78c58ae8eb4b452730f156f14e2ec0fc",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "dc2a8b965611eed6eee366231e53de5b539b329b",
+        "repo_path": "视频修订定稿/2026-11-14-审核原65-新native源QA与0.6秒定稿-来源43633936503-本地尾段v1/视频/37 末日种子库的第一次取种.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "19",
+      "current_video_order": "38",
+      "title_zh": "郁金香狂热：泡沫与传说",
+      "release_name": "38 郁金香狂热：泡沫与传说.mp4",
+      "bytes": 16083772,
+      "sha256": "8d39d745c27db6fd682a6c273c800d6efa8c22aa759f562720eb9e7cfcf54ee0",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "636bfe33043a08d5eca875243819e35b58582bdb",
+        "repo_path": "视频修订定稿/2026-11-14-审核原19-新native源QA与0.6秒定稿-来源43636218385-本地尾段v1/视频/38 郁金香狂热：泡沫与传说.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "29",
+      "current_video_order": "39",
+      "title_zh": "一座火山，造出了《弗兰肯斯坦》",
+      "release_name": "39 一座火山，造出了《弗兰肯斯坦》.mp4",
+      "bytes": 16699167,
+      "sha256": "b26c43e7dfef10cd17a068d36a0cdd24e58d522a15d75e6595b73b14f914e244",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "df570ed66c69ff50840be48c53e5b1eaff76dfa7",
+        "repo_path": "视频修订定稿/2026-11-14-审核原29-0.6秒定稿-原生来源43532011110-本地尾段v1/视频/39 一座火山，造出了《弗兰肯斯坦》.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "43",
+      "current_video_order": "40",
+      "title_zh": "从车库到世界之巅",
+      "release_name": "40 从车库到世界之巅.mp4",
+      "bytes": 21590255,
+      "sha256": "482d050968722f4d00a846bc69b26376010053d6808262e68325582ef2daa801",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "c48f9a5018a9705f76e4e8926288903f56224c78",
+        "repo_path": "视频修订定稿/2026-11-14-审核原43-新native源QA与0.6秒定稿-来源43660767737-本地尾段v1/视频/40 从车库到世界之巅.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "52",
+      "current_video_order": "41",
+      "title_zh": "夺命毒雾：伦敦1952",
+      "release_name": "41 夺命毒雾：伦敦1952.mp4",
+      "bytes": 18732740,
+      "sha256": "eebe94ffb6ecaf788178343f068246c431088ce6da6e7cc9c98d20bf64583ccc",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "ec34be3cdf7d03817a7a75b9ba73fe42cd08d640",
+        "repo_path": "视频修订定稿/2026-11-14-审核原52-新native源QA与0.6秒定稿-来源43667016598-本地尾段v1/视频/41 夺命毒雾：伦敦1952.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "48",
+      "current_video_order": "42",
+      "title_zh": "稻济天下",
+      "release_name": "42 稻济天下.mp4",
+      "bytes": 20307318,
+      "sha256": "612b53f821b5487406f3c0c6b3e82c57413c553f45509ffa0f045238d8c4ee5b",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "8316f0c8b4b41f0e3abb76ad6d31c8a981333e94",
+        "repo_path": "视频修订定稿/2026-11-14-审核原48-新native源QA与0.6秒定稿-来源43674673783-本地尾段v1/视频/42 稻济天下.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "37",
+      "current_video_order": "43",
+      "title_zh": "炸药大王的救心药",
+      "release_name": "43 炸药大王的救心药.mp4",
+      "bytes": 21638994,
+      "sha256": "51a2ea3f5512f214a422d537ddfbddf99a8614f1c83c09c210756a9c9ad999fc",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "19e1275b789a2a4db8bd5d2c83151af7ac204e4b",
+        "repo_path": "视频修订定稿/2026-11-14-审核原37-新native源QA与0.6秒定稿-来源43640826249-本地尾段v1/视频/43 炸药大王的救心药.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "31",
+      "current_video_order": "44",
+      "title_zh": "被拒绝了十二次的哈利·波特",
+      "release_name": "44 被拒绝了十二次的哈利·波特.mp4",
+      "bytes": 15958705,
+      "sha256": "c6cc2bbfb224338bfb64a4f753e065d072ece9c2a022e17a453ebfe515ae64f9",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "c1c837294e78534c36c51747a49f7afc6b647880",
+        "repo_path": "视频修订定稿/2026-11-14-审核原31-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/44 被拒绝了十二次的哈利·波特.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "16",
+      "current_video_order": "45",
+      "title_zh": "从空气中造面包",
+      "release_name": "45 从空气中造面包.mp4",
+      "bytes": 27246318,
+      "sha256": "f8aa6dccefe33788d796a5c102952dcf3198ad4b525012eedd7f245509517f3e",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "aa601aed9ac9682d2f99f3ed0f9cb4a001dcccb7",
+        "repo_path": "视频修订定稿/2026-11-14-审核原16-新native源QA与0.6秒定稿-来源43644041957-本地尾段v1/视频/45 从空气中造面包.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "40",
+      "current_video_order": "46",
+      "title_zh": "失败的胶水，成功的便利贴",
+      "release_name": "46 失败的胶水，成功的便利贴.mp4",
+      "bytes": 19276407,
+      "sha256": "408ed6e9e999541dbd300849a9ffbf8a98bfc6b9936afa38810bb84717cc6d15",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "a2fa007051e36adbb691b13257227a1aca29f8aa",
+        "repo_path": "视频修订定稿/2026-11-14-审核原40-新native源QA与0.6秒定稿-来源43646979464-本地尾段v1/视频/46 失败的胶水，成功的便利贴.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "54",
+      "current_video_order": "47",
+      "title_zh": "震动世界的一声巨响",
+      "release_name": "47 震动世界的一声巨响.mp4",
+      "bytes": 22100097,
+      "sha256": "dffa42ac5cc04d93a52a414a371d278037568f0485a3814f2f09cba86edf2fe2",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "74214d2dafd2629e84c1b9cfae003e1ea8870a4e",
+        "repo_path": "视频修订定稿/2026-11-14-审核原54-新native源QA与0.6秒定稿-来源43667925349-本地尾段v1/视频/47 震动世界的一声巨响.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "46",
+      "current_video_order": "48",
+      "title_zh": "光之殇",
+      "release_name": "48 光之殇.mp4",
+      "bytes": 16126260,
+      "sha256": "cc21ba260651f536e5403d5bf1dfb5a40c02e36307eceb96f4aa80e4adbf4cb9",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "22c0c5d7f69b4ee483f52f49f2f394861025627b",
+        "repo_path": "视频修订定稿/2026-11-14-审核原46-新native源QA与0.6秒定稿-来源43702082473-本地尾段v1/视频/48 光之殇.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "24",
+      "current_video_order": "49",
+      "title_zh": "冰海求生：坚忍号传奇",
+      "release_name": "49 冰海求生：坚忍号传奇.mp4",
+      "bytes": 16447685,
+      "sha256": "f64e6b1293b2078bd9f685dc027abb9d65c2e91f3c335b1cf2b119480c930d19",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "00166282e40e3b587fdfd34f779d0ad3a3605f05",
+        "repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24/视频/49 冰海求生：坚忍号传奇.mp4"
+      },
+      "delivery_version_status": "user_authorized_existing_version_audio_review_deferred",
+      "canonical_current_install_complete": false,
+      "tail_status": "Existing previously approved video tail retained; not rechecked.",
+      "audio_review_waived_by_latest_user": true,
+      "qualified_audio_passed": false,
+      "provenance": "Previously accepted immutable4K version selected by latest existing-version priority; latest requested revision remains pending, audio review deferred."
+    },
+    {
+      "source_id": "70",
+      "current_video_order": "50",
+      "title_zh": "一枚邮票改变通信",
+      "release_name": "50 一枚邮票改变通信.mp4",
+      "bytes": 14874227,
+      "sha256": "b4f8f6123e100ebbc1252de834f8d18f1e85db4719de89415d596b81614c0f79",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "583550030a203e8f98af6cd293470d58120e5a88",
+        "repo_path": "视频修订定稿/2026-11-14-审核原70-新native源QA与0.6秒定稿-来源43728728741-本地尾段v1/视频/50 一枚邮票改变通信.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "38",
+      "current_video_order": "51",
+      "title_zh": "林下之网",
+      "release_name": "51 林下之网.mp4",
+      "bytes": 16698522,
+      "sha256": "6bc3bb45c1fcf669d1af40d348c40eb07415b886508ee1b14e2f273e04751866",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "8e856e98dbe3d21ea4a37effc363c0a859ca0b06",
+        "repo_path": "视频修订定稿/2026-11-14-审核原38-新native源QA与0.6秒定稿-来源43702211337-本地尾段v1/视频/51 林下之网.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "09",
+      "current_video_order": "52",
+      "title_zh": "向鸸鹋宣战",
+      "release_name": "52 向鸸鹋宣战.mp4",
+      "bytes": 16144933,
+      "sha256": "632c1c94e596083fa3b457960af2c919dde84ce07b81205d6b4e123b34041361",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "7f040c6e1678ac1de5879eb5d527134327b6cc80",
+        "repo_path": "视频修订定稿/2026-11-14-审核原09-新native源QA与0.6秒定稿-来源43696282268-本地尾段v1/视频/52 向鸸鹋宣战.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "68",
+      "current_video_order": "53",
+      "title_zh": "兴登堡号的 34 秒",
+      "release_name": "53 兴登堡号的 34 秒.mp4",
+      "bytes": 16000776,
+      "sha256": "df900c7b5ef1f68dd24b4701a2e3cf655430b42497711b3ebdc0b5569c9926ed",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "523e903afecc71a06d834ba7f4e4070e7a93e98c",
+        "repo_path": "审核样片/2026-11-14-用户102-书53-源68-最新0.6秒审核非定稿/视频/53-source68-latest-user102-review-only-4K.mp4"
+      },
+      "delivery_version_status": "user_authorized_existing_review_only_version_audio_review_deferred",
+      "canonical_current_install_complete": false,
+      "tail_status": "Existing user102 review-only version; historical nominal0.6 tail retained, no new check.",
+      "audio_review_waived_by_latest_user": true,
+      "qualified_audio_passed": false,
+      "provenance": "Previously dual-stored user102 review-only4K, original production_delivery_eligible=false/final_user_acceptance=false remain historical facts. Used for immediate delivery by latest user amendment; later revisions/audio review deferred."
+    },
+    {
+      "source_id": "35",
+      "current_video_order": "54",
+      "title_zh": "比信先到家的鸟",
+      "release_name": "54 比信先到家的鸟.mp4",
+      "bytes": 16825815,
+      "sha256": "b44489f1bd20cdcdd6bfd1484ca1676f088577567aa0fbe1eca8f8f3bf38bf0d",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "528efc5bd7a28ab16a6ba136871218e91fa46f1d",
+        "repo_path": "视频修订定稿/2026-11-14-审核原35-新native源QA与0.6秒定稿-来源43741796325-本地尾段v1/视频/54 比信先到家的鸟.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "30",
+      "current_video_order": "55",
+      "title_zh": "大恶臭逼出了下水道",
+      "release_name": "55 大恶臭逼出了下水道.mp4",
+      "bytes": 15977529,
+      "sha256": "e614b7c3a0b7e7ee9cc1b99e7298168603ba3f91b05191d112820385b995346d",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "cbb8dee634258796b30c2920896e4b235f8a1c2b",
+        "repo_path": "视频修订定稿/2026-11-14-审核原30-新native源QA与0.6秒定稿-来源43703039715-本地尾段v1/视频/55 大恶臭逼出了下水道.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "69",
+      "current_video_order": "56",
+      "title_zh": "原子弹之父的审判",
+      "release_name": "56 原子弹之父的审判.mp4",
+      "bytes": 16749644,
+      "sha256": "38b5b9243e3b71cc8ecb72d6367e73e316df96a3a44baa83293e257b63f7b670",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "f2b2a41d8fd2467ed09b27a1a52e4f2c44f27e8f",
+        "repo_path": "视频修订定稿/2026-11-14-审核原69-新native源QA与0.6秒定稿-来源43724729006-本地尾段v1/视频/56 原子弹之父的审判.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "66",
+      "current_video_order": "57",
+      "title_zh": "一颗刺果钩出的发明",
+      "release_name": "57 一颗刺果钩出的发明.mp4",
+      "bytes": 14891869,
+      "sha256": "2ef42f9ac36a375d230d94578130e481f7b97e23018a525612bd117cae5028da",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "424f85a0d0fb7ed0374e69cdc700ee470ac49093",
+        "repo_path": "视频修订定稿/2026-11-14-审核原66-新native源QA与0.6秒定稿-来源43702972097-本地尾段v1/视频/57 一颗刺果钩出的发明.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "08",
+      "current_video_order": "58",
+      "title_zh": "破解霍乱之谜的医生",
+      "release_name": "58 破解霍乱之谜的医生.mp4",
+      "bytes": 16167898,
+      "sha256": "6556312d32fcc9aa64807a7f1abf0264573f3bdd0e1ee4f6bfc45cc1320d8de1",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "d34c585699e511201bb87bc4ead032d5c425fa66",
+        "repo_path": "视频修订定稿/2026-11-14-审核原08-新native源QA与0.6秒定稿-来源43717644753-本地尾段v1/视频/58 破解霍乱之谜的医生.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "63",
+      "current_video_order": "59",
+      "title_zh": "拥挤的苍穹",
+      "release_name": "59 拥挤的苍穹.mp4",
+      "bytes": 17426435,
+      "sha256": "b0204767c616ef07d3e1d1948d111c1e4c0a262bd9e285a0ba7cae275897efd7",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "87f1f114a2691e906e1abd360b197edaaf32a631",
+        "repo_path": "视频修订定稿/2026-11-14-审核原63-新native源QA与0.6秒定稿-来源43719309387-本地尾段v1/视频/59 拥挤的苍穹.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "32",
+      "current_video_order": "60",
+      "title_zh": "被降级的冥王星",
+      "release_name": "60 被降级的冥王星.mp4",
+      "bytes": 16156101,
+      "sha256": "5be9f9f637d9ccd24d95785e7819229afeb168f46fe14ce3733d62823239e9ee",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "d75aa7fee00a48a2319c89d17b2bba264f35d981",
+        "repo_path": "视频修订定稿/2026-11-14-审核原32-新native源QA与0.6秒定稿-来源43719331245-本地尾段v1/视频/60 被降级的冥王星.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "57",
+      "current_video_order": "61",
+      "title_zh": "鲸歌易帜",
+      "release_name": "61 鲸歌易帜.mp4",
+      "bytes": 16462436,
+      "sha256": "f18ae9c03d163e83b929dbdb113786f9bc9e048bb5d2e17783cdd9b4cefd559e",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "44e618e4806685517381835b0c96947ddd51a986",
+        "repo_path": "视频修订定稿/2026-11-14-审核原57-新native源QA与0.6秒定稿-来源43719354588-本地尾段v1/视频/61 鲸歌易帜.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "23",
+      "current_video_order": "62",
+      "title_zh": "为机器点燃思想的人",
+      "release_name": "62 为机器点燃思想的人.mp4",
+      "bytes": 15842318,
+      "sha256": "77781feaffbe3dd18057968167923d7b00564a92017f490e56539d95f2a01fcc",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "e73d3ed37bef694291ac9bbe5e28225405bd2e4d",
+        "repo_path": "62-source23-existing-native-4K.mp4"
+      },
+      "delivery_version_status": "source_QA_passed_existing_native",
+      "canonical_current_install_complete": false,
+      "tail_status": "Existing native video with original illustration2s and summary2s; no new normal18/finalV3 output or extra check.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Native43755903301, actual sourceQA passed; latest user authorized immediate existing video instead of waiting for additional tail processing."
+    },
+    {
+      "source_id": "64",
+      "current_video_order": "63",
+      "title_zh": "没有到来的零日",
+      "release_name": "63 没有到来的零日.mp4",
+      "bytes": 16404902,
+      "sha256": "f0b058d5689c08f6f95d94610c26c725397e957b5f1ef170612a32b5d59d3b1f",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "995a6fd0cbe2284e2045d89a7a4bf28dfa3a17a5",
+        "repo_path": "视频修订定稿/2026-11-14-审核原64-新native源QA与0.6秒定稿-来源43728310644-本地尾段v1/视频/63 没有到来的零日.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "18",
+      "current_video_order": "64",
+      "title_zh": "改变人类命运的霉菌",
+      "release_name": "64 改变人类命运的霉菌.mp4",
+      "bytes": 16309163,
+      "sha256": "b30f64bdddac235acb6676ee118a0f55e99678a100190d08f7e48a4d2e1a2e34",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "1bdc708b39a8f27b0bd809f2a2724db126457c10",
+        "repo_path": "视频修订定稿/2026-11-14-审核原18-新native源QA与0.6秒定稿-来源43731802299-本地尾段v1/视频/64 改变人类命运的霉菌.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "56",
+      "current_video_order": "65",
+      "title_zh": "一封信惊醒了达尔文",
+      "release_name": "65 一封信惊醒了达尔文.mp4",
+      "bytes": 17043857,
+      "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "5a12253e8e78c50fe44dc376b85e4b322033a2ea",
+        "repo_path": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4"
+      },
+      "delivery_version_status": "user_authorized_existing_version_audio_review_deferred",
+      "canonical_current_install_complete": false,
+      "tail_status": "Existing previously approved video tail retained; not rechecked.",
+      "audio_review_waived_by_latest_user": true,
+      "qualified_audio_passed": false,
+      "provenance": "Previously accepted immutable4K version selected by latest existing-version priority; latest requested revision remains pending, audio review deferred."
+    },
+    {
+      "source_id": "41",
+      "current_video_order": "66",
+      "title_zh": "入侵澳洲的毒蟾",
+      "release_name": "66 入侵澳洲的毒蟾.mp4",
+      "bytes": 16361467,
+      "sha256": "d4464f198bba04449b0e6b3065ec33308e8428fb658e90b56539ad210c88f17a",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "95280a5087715d6d12ea529200c2c4877f7f3b62",
+        "repo_path": "视频修订定稿/2026-11-14-审核原41-新native源QA与0.6秒定稿-来源43723634020-本地尾段v1/视频/66 入侵澳洲的毒蟾.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "58",
+      "current_video_order": "67",
+      "title_zh": "从一道划痕到天花绝迹",
+      "release_name": "67 从一道划痕到天花绝迹.mp4",
+      "bytes": 16765169,
+      "sha256": "55b0450125e66dc5d79249405aaf6bea6bc1f114b7ee689d6c9b3698b048f1ee",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "04d25604f2b3739d7118a568c0af5632a2795367",
+        "repo_path": "视频修订定稿/2026-11-14-审核原58-新native源QA与0.6秒定稿-来源43736478355-本地尾段v1/视频/67 从一道划痕到天花绝迹.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "25",
+      "current_video_order": "68",
+      "title_zh": "阿波罗13号：成功的失败",
+      "release_name": "68 阿波罗13号：成功的失败.mp4",
+      "bytes": 15969007,
+      "sha256": "06af27da5d079a24aa8434f426a8417882e42b4686ecdfd874251ecc9ea0ce46",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "8953e1a54dd561b56f5ce3739c48ed3eb62f053d",
+        "repo_path": "视频修订定稿/2026-11-14-审核原25-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/68 阿波罗13号：成功的失败.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "59",
+      "current_video_order": "69",
+      "title_zh": "拯救天空",
+      "release_name": "69 拯救天空.mp4",
+      "bytes": 16862446,
+      "sha256": "d93689a50170e11a79a397698cca75a8458506ade1ac5f6fecf02c7fc665087f",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "47371616c310af70f6a93aff5c2a543ecd7863a8",
+        "repo_path": "视频修订定稿/2026-11-14-审核原59-新native源QA与0.6秒定稿-来源43723690942-本地尾段v1/视频/69 拯救天空.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    },
+    {
+      "source_id": "45",
+      "current_video_order": "70",
+      "title_zh": "写给外星人的一张唱片",
+      "release_name": "70 写给外星人的一张唱片.mp4",
+      "bytes": 15768989,
+      "sha256": "c72753547d18ca0f9e9041ef41de9502d25d31e39295a2488c2886cec6bccef8",
+      "delivery_source": {
+        "repository": "alienalgorithm/postgraduate-vocabulary",
+        "commit": "616182ea8ab6ae2fcbdb2d1ac7df6a09260909ba",
+        "repo_path": "视频修订定稿/2026-11-14-审核原45-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/70 写给外星人的一张唱片.mp4"
+      },
+      "delivery_version_status": "qualified_final",
+      "canonical_current_install_complete": true,
+      "tail_status": "Previously verified final tail retained unchanged; no new review.",
+      "audio_review_waived_by_latest_user": false,
+      "qualified_audio_passed": true,
+      "provenance": "Existing completed canonical final in snapshot b0f5126195b6dfc9cd215991946b717e6ddeb95d; actual completed records preserved unchanged."
+    }
+  ]
+}
