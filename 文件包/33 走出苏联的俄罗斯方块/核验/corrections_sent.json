@@ -1,0 +1,30 @@
+[
+ {
+  "key": 1,
+  "field": "grammar.2.explain",
+  "before": "同类结构有 a ten-minute walk、a five-star hotel、a three-day conference。",
+  "after": "“数词 + 名词”构成的复合形容词同样要求名词用单数，如 a ten-minute walk、a five-star hotel、a three-day conference。",
+  "reason": "a ten-minute walk 等是“数词 + 名词”结构，不是标题所说的“数词 + 名词 + 形容词”，原文称“同类结构”不准确"
+ },
+ {
+  "key": 6,
+  "field": "knowledge.2.explain",
+  "before": "自由地，不受限制地；也可指“免费地”，如 freely available（可免费获得）。",
+  "after": "自由地，不受限制地；freely available 意为“可以随意获得的，容易得到的”。表示“免费”要用 free，如 travel free、free of charge。",
+  "reason": "Oxford、Cambridge、Collins 均无 freely 作“免费地”的义项，freely available 指容易获得"
+ },
+ {
+  "key": 8,
+  "field": "grammar.2.explain",
+  "before": "not yet 意为“尚未”，暗示后来才有合法版权的问题，与第10句罗杰斯直接找到 Elorg 相呼应。",
+  "after": "not yet 意为“尚未”，强调他兜售时手里还没有合法的版权；第10句罗杰斯直接找到 Elorg，正与此形成对照。",
+  "reason": "原句含混且带推测，改为原文能支持的说法"
+ },
+ {
+  "key": 9,
+  "field": "grammar.2.examples.0.zh",
+  "before": "市议会收到当地居民关于深夜噪音的投诉越来越多。",
+  "after": "市议会收到的当地居民关于深夜噪音的投诉越来越多。",
+  "reason": "原译文主谓搭配不当，是病句"
+ }
+]

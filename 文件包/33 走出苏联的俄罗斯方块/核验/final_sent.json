@@ -1,0 +1,1643 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Alexey Pajitnov",
+   "predicate": "grew",
+   "object_or_complement": "engrossed in a diversion he had built（表语）",
+   "explain": "主干是 Alexey Pajitnov grew engrossed，主系表结构：grew 是表示状态变化的系动词，engrossed 是形容词作表语，in a diversion 引出全神贯注的对象。谓语 grew 是 grow 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In June 1984",
+    "role": "时间状语（介词短语）",
+    "zh": "1984年6月"
+   },
+   {
+    "text": "Alexey Pajitnov,",
+    "role": "主语",
+    "zh": "阿列克谢·帕基特诺夫"
+   },
+   {
+    "text": "a 29-year-old Moscow coder,",
+    "role": "同位语，补充说明 Alexey Pajitnov 的年龄、城市和身份",
+    "zh": "一位29岁的莫斯科程序员"
+   },
+   {
+    "text": "grew",
+    "role": "谓语（变化类系动词，表示逐渐进入某种状态）",
+    "zh": "渐渐变得"
+   },
+   {
+    "text": "engrossed in a diversion",
+    "role": "表语（形容词 engrossed + 介词短语 in a diversion，in 引出专注的对象）",
+    "zh": "全神贯注于一个……消遣（游戏）"
+   },
+   {
+    "text": "he had built.",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 a diversion",
+    "zh": "他自己此前编写出来的"
+   }
+  ],
+  "structure": "①主句是 Alexey Pajitnov grew engrossed in a diversion：主语 Alexey Pajitnov，grew 是系动词，engrossed 是形容词作表语，be/grow engrossed in sth 意为“全神贯注于某事”（视频说明：全神贯注于；专心致志于；沉浸于）。\n②句首 In June 1984 是时间状语，交代游戏诞生的时间。\n③a 29-year-old Moscow coder 是同位语（视频说明：同位语，补充说明 Alexey Pajitnov），夹在主语和谓语之间，前后用逗号隔开。其中 29-year-old 是连字符复合形容词，Moscow 是名词作定语，两者都修饰 coder。读的时候要越过同位语，才能找到谓语 grew。\n④he had built 是省略了关系代词的限制性定语从句，修饰 diversion（视频说明），完整形式为 a diversion (that/which) he had built；被省略的关系代词在从句中作 built 的宾语。从句用过去完成时 had built，表示编写游戏发生在“渐渐沉迷”之前，是“过去的过去”。\n⑤开篇这一句交代了人物、时间和事件：程序员为自己写了一个小游戏，结果自己先沉迷其中，为下文“这个游戏让人上瘾”作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "变化类系动词 grow + 形容词",
+    "explain": "grow、become、get、turn、go、fall 等可作变化类系动词，后接形容词作表语，表示从一种状态变为另一种状态。grow 强调变化是逐渐发生的，常接 old、tired、dark、impatient、accustomed 等。本句 grew engrossed 表示帕基特诺夫一点点陷进自己写的游戏里，视频译为“渐渐变得全神贯注于”，“渐渐”正对应 grow 的渐变意味。系动词后接形容词而不是副词，写成 grew engrossedly 是错的。考研完形常在这组系动词之间设空，要按固定搭配选择：fall asleep、go bad、turn red、grow old。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the debate dragged on, the audience grew restless.",
+      "zh": "随着辩论一再拖延，听众渐渐变得焦躁不安。"
+     },
+     {
+      "en": "Over the years, the villagers grew accustomed to the noise of the airport.",
+      "zh": "多年下来，村民们渐渐习惯了机场的噪音。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句与过去完成时",
+    "explain": "关系代词 that、which 在限制性定语从句中作宾语时可以省略。本句 a diversion he had built 中，名词 diversion 后面直接跟主谓结构 he had built，而 built 后面缺宾语，缺的正是先行词 diversion，据此可判断这是省略了关系代词的定语从句。从句用过去完成时 had built，表示“编写游戏”先于主句的“渐渐沉迷”，视频译文用“此前”点明了这一先后关系。阅读中见到“名词 + 主语 + 谓语”且谓语缺宾语，就应想到这种结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She finally found the letter she had hidden in an old book.",
+      "zh": "她终于找到了她先前藏在一本旧书里的那封信。"
+     },
+     {
+      "en": "The report he had submitted the week before was returned for revision.",
+      "zh": "他前一周提交的报告被退回修改。"
+     }
+    ]
+   },
+   {
+    "title": "数词 + 名词 + 形容词构成的复合形容词",
+    "explain": "用连字符把“数词 + 名词 + 形容词”连成一个形容词，放在名词前作定语，其中的名词一律用单数：a 29-year-old coder，不能写成 a 29-years-old coder。不用连字符时，years 用复数，作表语或后置：He was 29 years old。“数词 + 名词”构成的复合形容词同样要求名词用单数，如 a ten-minute walk、a five-star hotel、a three-day conference。写作和改错中，复合形容词里的名词误用复数是常见错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company hired a 24-year-old engineer to lead the project.",
+      "zh": "公司聘请了一位24岁的工程师来负责这个项目。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be engrossed in sth",
+    "explain": "全神贯注于某事，沉浸于某事（视频说明：全神贯注于；专心致志于；沉浸于）。常见搭配有 be engrossed in a book、be engrossed in conversation、be engrossed in one's work；同义表达有 be absorbed in、be immersed in。动词 engross 意为“使全神贯注”，现在分词形容词 engrossing 意为“引人入胜的”。"
+   },
+   {
+    "term": "diversion",
+    "explain": "熟词僻义：diversion 常见义是“转移、改道”，如 a traffic diversion（交通改道）；也指“消遣、娱乐”，即让人从日常事务中转移注意力的活动。本句指帕基特诺夫自己编写的小游戏，视频译为“消遣（游戏）”，括号点明这个消遣就是游戏。"
+   },
+   {
+    "term": "build",
+    "explain": "在计算机语境中 build 可指编写、构建程序或软件，如 build an app、build a website。本句 he had built 视频译为“他自己此前编写出来的”。"
+   },
+   {
+    "term": "coder",
+    "explain": "由动词 code（编写代码）加 -er 构成，指编写计算机程序的人，口语色彩较浓；较正式的说法是 programmer 或 software developer。视频译为“程序员”。"
+   }
+  ],
+  "translation_tip": "视频译文“1984年6月，阿列克谢·帕基特诺夫，一位29岁的莫斯科程序员，渐渐变得全神贯注于一个他自己此前编写出来的消遣（游戏）。”做了这几处处理：①同位语 a 29-year-old Moscow coder 保留在原位，用逗号隔开，译成“一位29岁的莫斯科程序员”，补出量词“一位”，保持英文先说人名、再补身份的语序。②系动词 grew 译成“渐渐变得”，把 grow 的渐变意味译出来。③省略关系代词的定语从句 he had built 前置为“他自己此前编写出来的”，“此前”体现过去完成时的先后关系，“自己”是增补，强调游戏出自他本人之手；built 结合计算机语境译为“编写”。④diversion 译为“消遣”，括号补“（游戏）”说明所指。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "His primitive Elektronika 60；every geometric piece of four tiles",
+   "predicate": "had；was assembled",
+   "object_or_complement": "a purely textual display（had 的宾语）；后一分句为被动语态，无宾语",
+   "explain": "这是 so 连接的并列句。前一分句是主谓宾结构，谓语 had 为一般过去时，主动语态；后一分句谓语 was assembled 为一般过去时，被动语态，from characters 说明拼装所用的材料。"
+  },
+  "components": [
+   {
+    "text": "His primitive Elektronika 60",
+    "role": "主语（第一分句；His 和 primitive 都是 Elektronika 60 的前置定语）",
+    "zh": "他那台简陋的Elektronika 60"
+   },
+   {
+    "text": "had",
+    "role": "谓语（第一分句）",
+    "zh": "只有"
+   },
+   {
+    "text": "a purely textual display,",
+    "role": "宾语（副词 purely 修饰形容词 textual，textual 修饰 display）",
+    "zh": "一块纯粹地文本的显示屏"
+   },
+   {
+    "text": "so",
+    "role": "并列连词，引出结果",
+    "zh": "所以"
+   },
+   {
+    "text": "every geometric piece",
+    "role": "主语（第二分句）",
+    "zh": "每一个几何方块"
+   },
+   {
+    "text": "of four tiles",
+    "role": "后置定语（of 结构，表示构成），修饰 piece",
+    "zh": "由四个小格组成的"
+   },
+   {
+    "text": "was assembled",
+    "role": "谓语（第二分句，一般过去时被动语态）",
+    "zh": "都是……拼装而成的"
+   },
+   {
+    "text": "from characters.",
+    "role": "状语（介词短语，from 引出拼装所用的材料）",
+    "zh": "由字符"
+   }
+  ],
+  "structure": "①这是 so 连接的并列句。前一分句 His primitive Elektronika 60 had a purely textual display 是主谓宾结构，说明原因；后一分句 every geometric piece of four tiles was assembled from characters 是被动句，说明结果。\n②前一分句中，His 和 primitive 都修饰 Elektronika 60（视频说明：一种计算机型号）；宾语 a purely textual display 中，副词 purely 修饰形容词 textual，textual 修饰 display，视频说明为“只能显示文字的屏幕”。\n③后一分句主语 every geometric piece of four tiles：every 和 geometric 是前置定语，of four tiles 是 of 结构作后置定语，修饰 piece（视频说明），说明每个方块由四个小格组成。every 修饰单数名词，所以谓语用单数 was。\n④was assembled from characters 是一般过去时的被动语态，be assembled from 意为“由……拼成”（视频说明），from 引出构成材料。屏幕只能显示文字，所以每个方块只能用字符拼出来，so 点明了这层因果关系。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "so 作并列连词表示结果",
+    "explain": "so 可以作并列连词，连接两个分句，前因后果，意为“所以”，so 前通常加逗号。汉语说“因为……所以……”，英语 because 和 so 不能在同一句中连用：要么用 because 引导原因状语从句，要么用 so 连接结果分句。so 与 so that 也不同，so that 多引导目的状语从句，意为“以便”。本句 had a purely textual display 是原因，was assembled from characters 是结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum was closed for renovation, so the school trip was postponed.",
+      "zh": "博物馆闭馆翻修，所以学校组织的参观推迟了。"
+     },
+     {
+      "en": "Because the museum was closed for renovation, the school trip was postponed.",
+      "zh": "因为博物馆闭馆翻修，学校组织的参观推迟了。"
+     }
+    ]
+   },
+   {
+    "title": "be assembled from：被动语态与表示材料的 from",
+    "explain": "assemble 作及物动词意为“组装，装配”，被动结构 be assembled from 表示“由……拼装而成”，from 引出部件或原料。相近的表达有 be made from（成品中看不出原材料，如 Paper is made from wood）、be made of（看得出原材料，如 a table made of oak）、be composed of 和 consist of（由……组成）。consist of 没有被动语态，写成 is consisted of 是考研写作中的常见错误。本句 was assembled from characters 强调方块是用一个个字符拼起来的。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The temporary exhibition hall was assembled from prefabricated steel panels in just three weeks.",
+      "zh": "这座临时展厅用预制钢板拼装而成，只用了三周时间。"
+     }
+    ]
+   },
+   {
+    "title": "of 结构作后置定语表示构成",
+    "explain": "of 加名词可以放在名词后作定语，表示构成、数量或特征，如 a family of five（五口之家）、a team of ten engineers（一支由十名工程师组成的团队）、a man of courage（有勇气的人）。本句 piece of four tiles 表示“由四个小格组成的方块”。汉语定语一般前置，翻译时 of 结构可以提前，也可以像本句视频译文那样用逗号隔开，放在后面补充。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She grew up in a family of six in a small mining town.",
+      "zh": "她在一个小矿镇上的六口之家长大。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Elektronika 60",
+    "explain": "视频说明为“一种计算机型号”，是帕基特诺夫当时使用的计算机。文中用 primitive（简陋的）形容它，并说它只有纯文本显示屏，交代了俄罗斯方块诞生时的技术条件。"
+   },
+   {
+    "term": "a purely textual display",
+    "explain": "视频说明为“只能显示文字的屏幕”。textual 是 text 的形容词形式，意为“文本的，文字的”；purely 意为“纯粹地，完全地”，强调除了文字什么也显示不了。"
+   },
+   {
+    "term": "character",
+    "explain": "熟词僻义：character 常见义是“性格、人物”，在计算机和文字语境中指字符，即字母、数字、标点等符号，如 a 140-character limit（140个字符的限制）、Chinese characters（汉字）。本句视频译为“字符”。"
+   },
+   {
+    "term": "primitive",
+    "explain": "本义“原始的”，形容设备、工具时指“简陋的，粗糙的”，如 primitive tools。本句视频译为“简陋的”。"
+   },
+   {
+    "term": "tile",
+    "explain": "本义“瓷砖，瓦片”，本句指组成方块的小方格，视频译为“小格”。每个方块由四个小格组成，这与第4句游戏名中表示“四”的前缀 tetra- 相呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“他那台简陋的Elektronika 60只有一块纯粹地文本的显示屏，所以每一个几何方块，由四个小格组成的，都是由字符拼装而成的。”的处理：①His 译成“他那台”，补出量词“台”，机型名保留原文。②a purely textual display 按原词序译成“一块纯粹地文本的显示屏”，补出量词“一块”；had 译成“只有”，突出设备的局限。③后置定语 of four tiles 没有前置，而是用逗号隔开，作为补充成分“由四个小格组成的”，紧跟在“每一个几何方块”之后，避免定语过长。④so 译“所以”；被动语态 was assembled from 用“由”字结构译成“都是由……拼装而成的”，“都”对应 every 的逐一涵盖。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The result",
+   "predicate": "proved",
+   "object_or_complement": "addictive（表语）",
+   "explain": "主系表结构。proved 在这里是系动词，意为“结果是，事实证明”，后接形容词 addictive 作表语；一般过去时，系动词没有被动语态。"
+  },
+  "components": [
+   {
+    "text": "The result",
+    "role": "主语（指帕基特诺夫做出的这个游戏）",
+    "zh": "结果"
+   },
+   {
+    "text": "proved",
+    "role": "谓语（系动词，意为“结果是，事实证明”）",
+    "zh": "（系动词，“结果是”之意已由句首“结果”体现，不单独译出）"
+   },
+   {
+    "text": "addictive.",
+    "role": "表语（形容词）",
+    "zh": "让人上瘾"
+   }
+  ],
+  "structure": "①主系表结构：主语 The result，系动词 proved，表语 addictive。\n②The result 指上文帕基特诺夫用字符拼出方块所做成的东西，也就是这个游戏。视频把 The result 译为句首的“结果，”，再补出主语“这个游戏”。\n③prove 在这里是系动词（视频说明：prove＋形容词：结果是……，事实证明……），表示事后才显现出来的情况。\n④addictive 意为“使人上瘾的”，与第1句的 grew engrossed 呼应：作者本人先沉迷其中，事实证明这个游戏也让别人上瘾。全句只有四个词，在两句较长的叙述之后收束，节奏干脆。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "prove 作系动词",
+    "explain": "prove 作系动词时后接形容词、名词或 to be 结构，意为“结果是，证明是”，强调事后才知道的结果，如 The rumour proved (to be) false。系动词 prove 没有被动语态，不能写成 was proved addictive。prove 作及物动词时意为“证明”，后接宾语或 that 从句，可以用被动，如 His theory was proved correct（correct 是主语补足语）。考研阅读中 prove 作系动词时常与 turn out 同义替换。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy proved unpopular with small businesses.",
+      "zh": "事实证明，这项新政策不受小企业欢迎。"
+     },
+     {
+      "en": "The shortcut proved to be longer than the main road.",
+      "zh": "结果，这条近路比大路还要远。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "addictive 与 addicted",
+    "explain": "addictive 形容事物，意为“使人上瘾的”，如 an addictive game、Nicotine is highly addictive；addicted 形容人，意为“上了瘾的”，常用 be addicted to sth，to 是介词，后接名词或动名词，如 be addicted to gambling。名词 addiction 指“瘾”，addict 指“有瘾的人”。本句视频译为“让人上瘾”。"
+   },
+   {
+    "term": "result",
+    "explain": "名词，意为“结果，成果”，本句指帕基特诺夫做出的游戏本身。as a result（因此）、result in（导致）、result from（由……引起）是考研高频搭配，result in 后接结果，result from 后接原因，方向容易弄反。"
+   }
+  ],
+  "translation_tip": "视频译文“结果，这个游戏让人上瘾。”的处理：①The result 译为句首的“结果，”，带逗号，起承接上文的作用；result 实际所指的是这个游戏，所以译文增补主语“这个游戏”。②系动词 proved 的“结果是”之意已由句首“结果”体现，不再另译“证明”。③形容词 addictive 译成动宾结构“让人上瘾”，比“是使人上瘾的”更简洁。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "He",
+   "predicate": "called",
+   "object_or_complement": "it（宾语）；Tetris（宾语补足语）",
+   "explain": "主干是 He called it Tetris，主谓宾宾补结构，即 call A B（把 A 叫作 B）。谓语 called 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "called",
+    "role": "谓语",
+    "zh": "给……取名"
+   },
+   {
+    "text": "it",
+    "role": "宾语（指上文的游戏）",
+    "zh": "它"
+   },
+   {
+    "text": "Tetris,",
+    "role": "宾语补足语（名词）",
+    "zh": "Tetris（俄罗斯方块）"
+   },
+   {
+    "text": "a fusion of the Greek tetra- and tennis,",
+    "role": "同位语，补充说明 Tetris 这个名字的来历",
+    "zh": "这是希腊语前缀 tetra- 和网球 tennis 的融合"
+   },
+   {
+    "text": "his favourite pastime.",
+    "role": "同位语，补充说明 tennis",
+    "zh": "网球是他最爱的消遣运动"
+   }
+  ],
+  "structure": "①主句 He called it Tetris 是“主语 + 谓语 + 宾语 + 宾语补足语”结构：it 是宾语，指上文的游戏；Tetris 是宾语补足语，说明给它取的名字（视频说明：call A B：把 A 叫作 B）。\n②a fusion of the Greek tetra- and tennis 是同位语，补充说明 Tetris（视频说明）。fusion of 后接两个并列成分 the Greek tetra- 和 tennis；Greek 修饰 tetra-，指希腊语前缀 tetra-，意为“四”（视频说明）。\n③his favourite pastime 也是同位语，补充说明紧挨在它前面的 tennis（视频说明）。两个同位语连续出现，第一个说明 Tetris，第二个说明 tennis，判断依据是语义：“他最爱的消遣”只能是网球，不能是游戏名。\n④从拼写上看，Tetris 可以看作 tetra 的前四个字母 tetr 加上 tennis 的末尾 is 拼合而成，正是 a fusion 的具体体现。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "call + 宾语 + 宾语补足语",
+    "explain": "call、name、elect、appoint、consider、make 等动词可以带复合宾语，即“宾语 + 宾语补足语”，宾补说明宾语的名称、身份或状态。本句 called it Tetris 中，it 是宾语，Tetris 是名词作宾补，意为“把它叫作 Tetris”。变成被动语态时，宾补变成主语补足语：It was called Tetris。call 后的宾补前不加 as，不能说 called it as Tetris；而 regard、refer to、describe 后要加 as，如 regard it as a classic。这是写作中的常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Local residents called the unfinished bridge a waste of public money.",
+      "zh": "当地居民把这座没有完工的桥称作浪费公款的工程。"
+     },
+     {
+      "en": "The committee appointed her chair of the review panel.",
+      "zh": "委员会任命她为审查小组的主席。"
+     }
+    ]
+   },
+   {
+    "title": "连续同位语的修饰对象",
+    "explain": "同位语是对前面名词的补充说明，通常紧跟在被说明的名词之后，用逗号隔开。几个同位语连续出现时，要结合语义判断各自说明哪个名词，不能一律当作说明句子主语或第一个名词。本句 a fusion of the Greek tetra- and tennis 说明 Tetris（名字是两个词的融合），his favourite pastime 说明紧挨着的 tennis（网球是他最爱的消遣）。考研长难句中，逗号隔开的名词短语多为同位语，先找出它前面的中心名词，再看语义上能否等同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The novel Frankenstein was written by Mary Shelley, the wife of Percy Shelley, a leading Romantic poet.",
+      "zh": "小说《弗兰肯斯坦》由玛丽·雪莱所著，她是珀西·雪莱的妻子，而珀西·雪莱是一位重要的浪漫主义诗人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tetra-",
+    "explain": "源自希腊语的前缀，意为“四”（视频说明），如 tetrahedron（四面体）、tetrapod（四足动物）。第2句说每个方块由四个小格组成，游戏名中的 tetra- 正与此对应。"
+   },
+   {
+    "term": "a fusion of A and B",
+    "explain": "A 与 B 的融合、结合，常用于风格、文化的结合，如 a fusion of jazz and rock（爵士乐与摇滚乐的融合）。fusion 在物理学中还指核聚变（nuclear fusion）。本句视频译为“融合”。"
+   },
+   {
+    "term": "pastime",
+    "explain": "消遣，娱乐，由 pass（度过）和 time（时间）组合而成，字面意思是“打发时间的事”，如 a popular pastime（流行的消遣）。本句视频译为“消遣运动”，“运动”是根据网球增补的。"
+   },
+   {
+    "term": "favourite",
+    "explain": "英式拼写，美式拼写为 favorite。本文采用英式拼写。"
+   }
+  ],
+  "translation_tip": "视频译文“他给它取名 Tetris（俄罗斯方块），这是希腊语前缀 tetra- 和网球 tennis 的融合，网球是他最爱的消遣运动。”的处理：①call A B 译成“给它取名 Tetris”，游戏名保留英文，括号补出通行的中文名“（俄罗斯方块）”。②第一个同位语前增补“这是”，译成独立分句，交代名字的构成；tetra- 前补出“希腊语前缀”，tennis 前补出“网球”，让读者看清是哪两个成分融合。③第二个同位语 his favourite pastime 用“网球是……”重复中心词，译成判断句，明确它说明的是 tennis；“消遣”后增补“运动”，点明网球是体育运动。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "the state；Pajitnov",
+   "predicate": "was；held",
+   "object_or_complement": "the proprietor of this intellectual property（表语）；no entitlement to it（held 的宾语）",
+   "explain": "这是 and 连接的并列句。前一分句是主系表结构，系动词 was 与主语 the state 保持一致；后一分句是主谓宾结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In the Soviet Union,",
+    "role": "地点状语（介词短语）",
+    "zh": "在前苏联"
+   },
+   {
+    "text": "the state,",
+    "role": "主语（第一分句）",
+    "zh": "国家"
+   },
+   {
+    "text": "not its salaried designer,",
+    "role": "插入的对比成分（A, not B 结构中的 B），与主语 the state 形成对照",
+    "zh": "而不是领工资的设计者"
+   },
+   {
+    "text": "was",
+    "role": "系动词（第一分句，与 the state 保持一致）",
+    "zh": "是"
+   },
+   {
+    "text": "the proprietor",
+    "role": "表语",
+    "zh": "所有者"
+   },
+   {
+    "text": "of this intellectual property,",
+    "role": "后置定语（介词短语），修饰 the proprietor",
+    "zh": "这份知识产权的"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "Pajitnov",
+    "role": "主语（第二分句）",
+    "zh": "帕基特诺夫"
+   },
+   {
+    "text": "held",
+    "role": "谓语（第二分句，hold 意为“拥有”）",
+    "zh": "（谓语，与 no entitlement 合译为“没有任何权利”）"
+   },
+   {
+    "text": "no entitlement",
+    "role": "宾语（no 否定名词，表示全部否定）",
+    "zh": "没有任何权利"
+   },
+   {
+    "text": "to it.",
+    "role": "后置定语（介词短语），修饰 entitlement，it 指 this intellectual property",
+    "zh": "对它"
+   }
+  ],
+  "structure": "①这是 and 连接的并列句。前一分句主干是 the state was the proprietor，主系表结构；后一分句主干是 Pajitnov held no entitlement，主谓宾结构。\n②句首 In the Soviet Union 是地点状语，交代制度背景（视频说明：苏联，1991年解体，中文常称“前苏联”）。\n③not its salaried designer 夹在主语和系动词之间，前后用逗号隔开，与主语构成“A, not B”的对比：所有者是国家，而不是设计者。its 指 the state's，salaried 修饰 designer，说明设计者是领国家工资的雇员。谓语与 A（the state）保持一致，用单数 was。\n④of this intellectual property 作 proprietor 的后置定语，this intellectual property 指俄罗斯方块这款游戏的知识产权。\n⑤后一分句 held no entitlement to it 中，hold 意为“拥有（权利等）”，no 否定名词 entitlement，表示全部否定；to it 修饰 entitlement，it 回指 this intellectual property（视频说明：hold no entitlement to…：对……没有任何权利）。\n⑥视频说明交代了背景：在当时的苏联体制下，他作为领薪水的员工，在工作期间用单位电脑写出的游戏属于“职务发明”，知识产权归国家所有。所以前一分句是原因，后一分句是结果。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "A, not B 结构与主谓一致",
+    "explain": "“A, not B”和“A rather than B”表示“是 A 而不是 B”，B 是插入的对比成分，谓语与 A 保持一致；not only A but also B、neither A nor B、either A or B 则按就近原则，谓语与 B 一致。本句 the state, not its salaried designer, was...，谓语 was 与 the state 一致。考研阅读中，这种结构往往是句意的焦点：作者真正要强调的是 A，B 是被否定的一方。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The manager, not the junior staff, was responsible for the error.",
+      "zh": "该为这个错误负责的是经理，而不是普通员工。"
+     },
+     {
+      "en": "It is the quality of the research, not the number of papers, that matters most.",
+      "zh": "最重要的是研究的质量，而不是论文的数量。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词表示全部否定",
+    "explain": "no 放在名词前，相当于 not any，表示全部否定：held no entitlement 等于 did not hold any entitlement。用 no 否定名词比用 not 否定动词更简洁、语气更强，书面语中很常见，如 There is no doubt、have no choice。视频译为“没有任何权利”，“任何”正体现 no 的全部否定。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The defendant showed no sign of remorse during the trial.",
+      "zh": "审判期间，被告没有表现出任何悔意。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "intellectual property",
+    "explain": "知识产权，常缩写为 IP，包括版权（copyright）、专利（patent）、商标（trademark）等。intellectual 意为“智力的，知识的”。本句 this intellectual property 指俄罗斯方块这款游戏，视频译为“这份知识产权”。"
+   },
+   {
+    "term": "proprietor",
+    "explain": "正式用词，指企业、商店、旅馆或某项财产的所有者，如 the proprietor of a hotel。本句视频译为“所有者”。"
+   },
+   {
+    "term": "hold",
+    "explain": "熟词僻义：hold 除了“拿着、握住”，还表示“拥有，持有”（权利、职位、证件、纪录等），如 hold a degree、hold office、hold the world record。本句 held no entitlement 意为“没有任何权利”；第8句 rights he did not yet legitimately hold 也是这个意思。"
+   },
+   {
+    "term": "entitlement to sth",
+    "explain": "对某物的权利或资格，如 an entitlement to benefits。动词 entitle sb to sth（使某人有权得到某物），be entitled to sth / to do sth（有权得到、有权做）是考研高频搭配。"
+   },
+   {
+    "term": "the Soviet Union",
+    "explain": "苏联，1922年成立，1991年解体，中文常称“前苏联”（视频说明）。"
+   },
+   {
+    "term": "salaried",
+    "explain": "由 salary（薪水）构成的形容词，意为“领薪水的”，如 salaried staff（拿固定薪水的员工）。本句视频译为“领工资的”。"
+   }
+  ],
+  "translation_tip": "视频译文“在前苏联，国家，而不是领工资的设计者，是这份知识产权的所有者，而帕基特诺夫对它没有任何权利。”的处理：①In the Soviet Union 译为“在前苏联”，“前”字点明苏联已不存在。②插入成分 not its salaried designer 保留在原位，用逗号隔开，译成“而不是领工资的设计者”，its 不译，保持“国家，而不是……，是……”的对比语序。③the proprietor of this intellectual property 中的后置定语前置，译为“这份知识产权的所有者”，补出量词“份”。④and 译为“而”，突出前后对照；后置定语 to it 提到前面译成“对它”，no entitlement 译为“没有任何权利”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Copies",
+   "predicate": "mushroomed",
+   "object_or_complement": "",
+   "explain": "主谓结构，mushroom 在这里是不及物动词，不带宾语，后面的 freely、on floppy disks、across the Eastern bloc 都是状语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Copies",
+    "role": "主语",
+    "zh": "盗版复制品"
+   },
+   {
+    "text": "mushroomed",
+    "role": "谓语（名词 mushroom 转用作不及物动词）",
+    "zh": "如蘑菇般迅速涌现"
+   },
+   {
+    "text": "freely",
+    "role": "方式状语（副词），修饰 mushroomed",
+    "zh": "不受限制地"
+   },
+   {
+    "text": "on floppy disks",
+    "role": "方式状语（介词短语，on 表示存储和传播的载体）",
+    "zh": "靠软盘"
+   },
+   {
+    "text": "across the Eastern bloc.",
+    "role": "地点状语（介词短语，across 表示范围“遍及”）",
+    "zh": "遍及整个东欧集团"
+   }
+  ],
+  "structure": "①主谓结构：主语 Copies，谓语 mushroomed 是不及物动词，后面三个成分都是状语。\n②mushroom 原是名词“蘑菇”，这里转用作动词，表示像雨后蘑菇一样在极短时间内突然、大量地涌现（视频说明：核心就三个字：快、多、猛）。\n③freely 是方式状语，说明复制品的流传不受限制；on floppy disks 说明复制品借助的载体，on 表示媒介；across the Eastern bloc 说明流传的范围（视频说明：东欧集团就是冷战时期，以苏联为首的阵营）。\n④本句与上句形成对照：知识产权归国家，作者没有任何权利，而游戏的复制品却在东欧各国自由流传。视频把 Copies 译为“盗版复制品”，点明这些复制品没有经过授权。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词转用作动词",
+    "explain": "英语中不少名词不加词缀就可以直接用作动词，叫词性转换。mushroom（蘑菇）作动词表示像雨后蘑菇一样迅速增多；同类的还有 snowball（像滚雪球一样越滚越大）、balloon（像气球一样膨胀）、skyrocket（像火箭一样飞涨）、shoulder（承担）、head（率领）。这类动词形象生动，外刊和考研阅读中很常见，要从名词的形象推出动词的意思。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Online shopping has mushroomed over the past decade.",
+      "zh": "过去十年间，网上购物迅速兴起。"
+     },
+     {
+      "en": "What began as a minor dispute soon snowballed into a national scandal.",
+      "zh": "起初只是一场小争执，很快就像滚雪球一样演变成一桩全国性丑闻。"
+     }
+    ]
+   },
+   {
+    "title": "介词 on 表示媒介、载体",
+    "explain": "on 可以表示信息借以存储或传播的媒介，如 on TV、on the radio、on the Internet、on paper、on disk。本句 on floppy disks 表示复制品存在软盘上、靠软盘流传，视频译为“靠软盘”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The entire family archive now fits on a single hard drive.",
+      "zh": "整个家族档案如今存在一块硬盘上就够了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "floppy disk",
+    "explain": "软盘，一种可移动的计算机存储介质，在个人电脑普及初期广泛用于存储和拷贝软件；floppy 意为“松软的，耷拉着的”。本句视频译为“软盘”。"
+   },
+   {
+    "term": "the Eastern bloc",
+    "explain": "东欧集团，指冷战时期以苏联为首的阵营（视频说明）。bloc 指由国家或政党结成的集团，读音与 block 相同，拼写不同，如 a trading bloc（贸易集团）。"
+   },
+   {
+    "term": "freely",
+    "explain": "自由地，不受限制地；freely available 意为“可以随意获得的，容易得到的”。表示“免费”要用 free，如 travel free、free of charge。本句视频译为“不受限制地”。"
+   },
+   {
+    "term": "across",
+    "explain": "介词，表示“遍及，在……各处”，如 across the country、across Europe。本句 across the Eastern bloc 视频译为“遍及整个东欧集团”。"
+   }
+  ],
+  "translation_tip": "视频译文“盗版复制品不受限制地如蘑菇般迅速涌现，靠软盘遍及整个东欧集团。”的处理：①Copies 结合上下文译成“盗版复制品”，增补“盗版”，点明复制品未经授权。②mushroomed 按视频说明的形象意义译成“如蘑菇般迅速涌现”，副词 freely 前置为“不受限制地”。③on floppy disks 和 across the Eastern bloc 放在逗号之后，合成一个分句“靠软盘遍及整个东欧集团”，across 译为“遍及整个”，突出范围之广。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Robert Stein",
+   "predicate": "stumbled upon",
+   "object_or_complement": "Tetris",
+   "explain": "主谓宾结构，谓语是短语动词 stumble upon（偶然碰到），宾语是 Tetris。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1986",
+    "role": "时间状语（介词短语）",
+    "zh": "1986年"
+   },
+   {
+    "text": "Robert Stein,",
+    "role": "主语",
+    "zh": "罗伯特·斯坦因"
+   },
+   {
+    "text": "an enterprising British software vendor,",
+    "role": "同位语，补充说明 Robert Stein",
+    "zh": "一位富有进取心的英国软件商人"
+   },
+   {
+    "text": "stumbled upon",
+    "role": "谓语（短语动词）",
+    "zh": "偶然碰到了"
+   },
+   {
+    "text": "Tetris",
+    "role": "宾语",
+    "zh": "俄罗斯方块"
+   },
+   {
+    "text": "in Hungary.",
+    "role": "地点状语（介词短语）",
+    "zh": "在匈牙利"
+   }
+  ],
+  "structure": "①主谓宾结构：主语 Robert Stein，谓语 stumbled upon，宾语 Tetris。\n②句首 In 1986 是时间状语，句末 in Hungary 是地点状语（视频说明）。\n③an enterprising British software vendor 是同位语，补充说明 Robert Stein（视频说明）。同位语内有三个前置定语：enterprising 是评价性形容词，British 表示国籍，software 是名词作定语，表示经营的类别，排列顺序是“描述性形容词 + 国籍 + 名词定语 + 中心词”。\n④stumble upon 意为“偶然碰到，偶然发现”（视频说明）。匈牙利当时属于东欧集团，这与上句复制品遍及东欧集团的叙述相衔接。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有几个定语时，一般顺序是：限定词（冠词、物主代词、数词）+ 描述性形容词（评价、大小、新旧、颜色等）+ 国籍或来源 + 材料 + 名词定语（用途、类别）+ 中心词。离中心词越近的定语，与中心词的关系越紧密。本句 an enterprising British software vendor 中，enterprising 是评价，British 是国籍，software 说明经营的类别。写作中不能写成 a British enterprising vendor。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She runs a small Italian family restaurant near the station.",
+      "zh": "她在车站附近经营一家意大利风味的小型家庭餐馆。"
+     },
+     {
+      "en": "The museum displayed several beautiful old Chinese porcelain vases.",
+      "zh": "博物馆展出了几只精美的中国古瓷花瓶。"
+     }
+    ]
+   },
+   {
+    "title": "表示“偶然遇到”的短语动词",
+    "explain": "stumble upon/on、come across、run into、chance upon 都可以表示偶然遇到或发现。stumble 本义“绊脚、踉跄”，stumble upon 强调意外、碰巧地发现，对象多为事物或信息；run into 多指偶遇某人，也可指遇到困难（run into trouble）；come across 最通用。这些短语动词的宾语放在介词之后，不能放在动词和介词之间。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "While clearing out the attic, she stumbled upon a stack of her grandfather's letters.",
+      "zh": "清理阁楼时，她偶然发现了一叠祖父的信件。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "enterprising",
+    "explain": "有进取心的，有事业心的，形容人敢于尝试新事物、善于发现机会，褒义；与 enterprise（企业；进取心）同源。本句视频译为“富有进取心的”。"
+   },
+   {
+    "term": "vendor",
+    "explain": "卖主，商贩；在商业语境中指供应商、销售方，如 a software vendor（软件供应商）、a street vendor（街头小贩）。本句视频译为“商人”。"
+   },
+   {
+    "term": "Hungary",
+    "explain": "匈牙利，中欧国家，首都布达佩斯，冷战时期属于东欧集团。形容词和“匈牙利人”都是 Hungarian。"
+   },
+   {
+    "term": "Robert Stein",
+    "explain": "视频说明：英国软件商人，最早在西方发现了《俄罗斯方块》的商机，但因为不懂苏联体制，在未拿到苏联官方（Elorg）合法授权的情况下，就草率地把版权倒卖给了多家西方公司。下一句讲的正是这件事。"
+   }
+  ],
+  "translation_tip": "视频译文“1986年，罗伯特·斯坦因，一位富有进取心的英国软件商人，在匈牙利偶然碰到了俄罗斯方块。”的处理：①In 1986 译成“1986年”，放在句首。②同位语 an enterprising British software vendor 保留在原位，补出量词“一位”，三个前置定语按“富有进取心的、英国、软件”的顺序译出，vendor 译为“商人”。③地点状语 in Hungary 前移到谓语前，译为“在匈牙利”，符合汉语状语在动词前的习惯；stumbled upon 译为“偶然碰到了”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "he",
+   "predicate": "hawked",
+   "object_or_complement": "rights",
+   "explain": "主干是 he hawked rights，主谓宾结构。谓语 hawked 为一般过去时，主动语态；hastily 是方式状语，宾语 rights 后带省略关系代词的定语从句。"
+  },
+  "components": [
+   {
+    "text": "In his ignorance of Elorg,",
+    "role": "原因状语（介词短语 in one's ignorance of sth）",
+    "zh": "由于他对 Elorg 毫不知情"
+   },
+   {
+    "text": "the state bureau",
+    "role": "同位语，补充说明 Elorg",
+    "zh": "那是一个国家机关"
+   },
+   {
+    "text": "regulating Soviet software exports,",
+    "role": "后置定语（现在分词短语），修饰 the state bureau",
+    "zh": "监管着苏联软件出口"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他就"
+   },
+   {
+    "text": "hastily",
+    "role": "方式状语（副词）",
+    "zh": "草率地"
+   },
+   {
+    "text": "hawked",
+    "role": "谓语",
+    "zh": "兜售起"
+   },
+   {
+    "text": "rights",
+    "role": "宾语",
+    "zh": "版权"
+   },
+   {
+    "text": "he did not yet legitimately hold.",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 rights",
+    "zh": "他尚未合法拥有的"
+   }
+  ],
+  "structure": "①主句是 he hastily hawked rights：主语 he，hastily 作方式状语，谓语 hawked，宾语 rights（视频说明：hawk：叫卖，兜售）。\n②句首 In his ignorance of Elorg 是介词短语作原因状语，in one's ignorance of sth 意为“由于对……一无所知”，视频译为“由于他对 Elorg 毫不知情”。\n③the state bureau regulating Soviet software exports 是同位语，补充说明 Elorg（视频说明）。其中 regulating Soviet software exports 是现在分词短语作后置定语，修饰 the state bureau，相当于 which regulated Soviet software exports；Soviet 和 software 都是 exports 的前置定语。\n④rights he did not yet legitimately hold 中，he did not yet legitimately hold 是省略了关系代词的定语从句，修饰 rights（视频说明），被省略的 that/which 在从句中作 hold 的宾语。not yet 表示“尚未”，legitimately 修饰 hold，意为“合法地拥有”。\n⑤视频说明交代了句意：一个西方商人因为不懂苏联国情，连真正的版权老板是谁都没搞清楚，就开始转卖版权，但他手里其实根本没有合法的版权。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "in + 物主代词 + 抽象名词 作原因状语",
+    "explain": "“in + 物主代词 + 抽象名词”可以作状语，表示原因或当时所处的状态，如 in his ignorance of（由于对……无知）、in her haste（匆忙之中）、in their eagerness to win（由于急于获胜）。这种名词化结构比 because he was ignorant of 更紧凑，是外刊常见的书面表达。翻译时常还原成“由于……”的小句，本句视频译为“由于他对 Elorg 毫不知情”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In her haste to catch the train, she left her passport on the kitchen table.",
+      "zh": "她急着赶火车，把护照落在了厨房的桌子上。"
+     },
+     {
+      "en": "In their eagerness to cut costs, the managers overlooked several safety problems.",
+      "zh": "管理者们一心想削减成本，忽视了好几个安全问题。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示主动关系，相当于一个定语从句。本句 regulating Soviet software exports 修饰 the state bureau，机关是“监管”这一动作的发出者，相当于 which regulated Soviet software exports（视频说明：现在分词短语作后置定语）。过去分词作定语则表示被动，如 software exported to the West（出口到西方的软件）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Companies supplying parts to the factory were told to raise their safety standards.",
+      "zh": "为该工厂供应零件的公司被要求提高安全标准。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句与副词位置",
+    "explain": "rights he did not yet legitimately hold 中，rights 后直接跟主谓结构，hold 后缺宾语，可以判断省略了作宾语的 that/which。从句中否定的 not yet 和方式副词 legitimately 都放在助动词 did 之后、实义动词 hold 之前。not yet 意为“尚未”，强调他兜售时手里还没有合法的版权；第10句罗杰斯直接找到 Elorg，正与此形成对照。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The promises the government made before the election have largely been forgotten.",
+      "zh": "政府在选举前做出的承诺大多已被遗忘。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hawk",
+    "explain": "熟词僻义：hawk 常见义是名词“鹰”，作动词指沿街叫卖、四处兜售（视频说明：叫卖，兜售），hawker 指小贩。本句 hawked 与 hastily、did not yet legitimately hold 连用，写出斯坦因急于转手手中并不合法的版权，视频译为“兜售起”。"
+   },
+   {
+    "term": "rights",
+    "explain": "复数 rights 常指某种具体的经营权、版权，如 film rights（电影改编权）、publishing rights（出版权）、broadcasting rights（转播权）。本句视频译为“版权”。"
+   },
+   {
+    "term": "legitimately",
+    "explain": "合法地，正当地；形容词 legitimate（合法的，正当的），反义词 illegitimate。本句 legitimately hold 视频译为“合法拥有”。"
+   },
+   {
+    "term": "hastily",
+    "explain": "匆忙地，草率地；形容词 hasty，名词 haste，如谚语 More haste, less speed（欲速则不达）。本句视频译为“草率地”，带有批评色彩。"
+   }
+  ],
+  "translation_tip": "视频译文“由于他对 Elorg 毫不知情，那是一个国家机关，监管着苏联软件出口，他就草率地兜售起他尚未合法拥有的版权。”的处理：①原因状语 In his ignorance of Elorg 还原成小句“由于他对 Elorg 毫不知情”。②同位语 the state bureau 单独译成判断句“那是一个国家机关”；现在分词短语也不前置，译成“监管着苏联软件出口”，“着”体现分词的主动、持续意味，避免定语过长。③he 译为“他就”，增补“就”承接前面的原因。④省略关系代词的定语从句前置为“他尚未合法拥有的”，修饰“版权”；hawked 译为“兜售起”，“起”表示动作开始。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "The rights",
+   "predicate": "were shuffled",
+   "object_or_complement": "",
+   "explain": "主干是 The rights were shuffled，一般过去时的被动语态，没有用 by 引出施动者；onward 和 through 引导的介词短语都是状语。"
+  },
+  "components": [
+   {
+    "text": "The rights",
+    "role": "主语",
+    "zh": "这些版权"
+   },
+   {
+    "text": "were shuffled",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "被……洗牌式地来回倒手"
+   },
+   {
+    "text": "onward",
+    "role": "状语（副词，表示持续往下传）",
+    "zh": "持续地"
+   },
+   {
+    "text": "through a chaotic muddle",
+    "role": "状语（介词短语，说明倒手时所处的混乱局面）",
+    "zh": "在混乱的一团糟中"
+   },
+   {
+    "text": "of overlapping deals",
+    "role": "后置定语（of 短语），修饰 muddle，说明混乱由什么构成",
+    "zh": "由于……重叠的交易而导致了这种情况"
+   },
+   {
+    "text": "among Western firms,",
+    "role": "后置定语（介词短语），修饰 deals",
+    "zh": "西方公司之间"
+   },
+   {
+    "text": "one",
+    "role": "同位语中心词（代词 one 指 Western firms 中的一家）",
+    "zh": "其中一家公司"
+   },
+   {
+    "text": "owned by",
+    "role": "后置定语（过去分词短语 owned by...），修饰 one",
+    "zh": "归……所有"
+   },
+   {
+    "text": "the magnate Robert Maxwell.",
+    "role": "介词 by 的宾语（the magnate 与 Robert Maxwell 是同位关系）",
+    "zh": "大亨罗伯特·马克斯韦尔"
+   }
+  ],
+  "structure": "①主干是 The rights were shuffled，被动语态；主语 The rights 回指上句斯坦因兜售的版权。\n②onward 是副词，意为“向前，持续往下”（视频说明），说明版权一手接一手往下传。\n③through a chaotic muddle of overlapping deals among Western firms 是介词短语作状语。中心词 muddle 前有 chaotic 修饰，后有 of overlapping deals 作后置定语，说明这团混乱由什么构成（视频说明：a chaotic muddle of…：一团……的混乱）；among Western firms 又修饰 deals（视频说明：后置定语，修饰 deals）；overlapping 是现在分词作前置定语，意为“相互重叠的”。\n④句末 one owned by the magnate Robert Maxwell 补充说明 Western firms：one 指其中一家公司，owned by... 是过去分词短语作后置定语（视频说明），修饰 one。the magnate 和 Robert Maxwell 是同位关系，中间不加逗号。\n⑤后置修饰层层叠加，句子越拉越长，阅读时要先抓住主干 The rights were shuffled onward，后面的成分都在交代版权在什么局面下被倒手、经过了谁的手。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "句末 one + 后置定语 补充说明前面的复数名词",
+    "explain": "用逗号隔开的 one + 修饰语常跟在复数名词之后，表示“其中一个”，one 回指前面的复数名词，相当于 one of which was owned by...。本句 one owned by the magnate Robert Maxwell 补充说明 Western firms，owned by... 是过去分词短语作后置定语，修饰 one（视频说明）。阅读中遇到这种句末的 one，要先找到它回指的复数名词，再看后面的修饰语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The study followed three groups of patients, one treated with the new drug.",
+      "zh": "这项研究跟踪了三组病人，其中一组用新药治疗。"
+     },
+     {
+      "en": "He has written four novels, one translated into more than twenty languages.",
+      "zh": "他写过四部小说，其中一部被译成了二十多种语言。"
+     }
+    ]
+   },
+   {
+    "title": "不带施动者的被动语态",
+    "explain": "被动语态常用于施动者不明、不重要或不必说出的情况。本句 The rights were shuffled onward 没有用 by 引出施动者，因为倒卖版权的是一连串公司，难以一一列举，作者关注的是版权本身被转来转去的遭遇。考研阅读中，这类被动句的主语通常就是作者关注的话题。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The documents were passed from office to office for months before anyone read them.",
+      "zh": "这些文件在各个办公室之间传了好几个月，才有人读过。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语的前置修饰与后置修饰",
+    "explain": "英语名词短语可以前后同时带修饰语。本句 a chaotic muddle of overlapping deals among Western firms 中，中心词 muddle 前有形容词 chaotic，后有 of 短语；of 短语里的 deals 又带前置定语 overlapping 和后置定语 among Western firms。分析时先找中心词，再分清每个修饰语修饰谁。汉语定语前置，翻译这种长名词短语时往往要调整语序或拆句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council received a growing number of complaints from local residents about late-night noise.",
+      "zh": "市议会收到的当地居民关于深夜噪音的投诉越来越多。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "shuffle",
+    "explain": "本义是洗牌，也指把东西挪来挪去、拖着脚走；本句比喻版权像纸牌一样被来回倒手（视频说明：洗牌，来回倒手）。"
+   },
+   {
+    "term": "muddle",
+    "explain": "名词，混乱，糊涂，a muddle 指一团糟的局面；in a muddle 意为“乱七八糟；糊里糊涂”。动词 muddle 意为“弄乱，混淆”。本句视频译为“一团糟”。"
+   },
+   {
+    "term": "magnate",
+    "explain": "大亨，巨头，常说 a media magnate、a shipping magnate、an oil magnate。本句 the magnate 与 Robert Maxwell 是同位关系；第11句 the magnate's son 中的 the magnate 就回指这里的 Robert Maxwell。"
+   },
+   {
+    "term": "Robert Maxwell",
+    "explain": "英国传媒大亨，旗下拥有《每日镜报》（Daily Mirror）等报纸。本句视频译为“罗伯特·马克斯韦尔”。"
+   },
+   {
+    "term": "overlapping",
+    "explain": "动词 overlap（重叠，部分重合）的现在分词作定语，overlapping deals 指涉及的权利相互交叠的交易，视频译为“重叠的交易”。"
+   }
+  ],
+  "translation_tip": "视频译文“这些版权在混乱的一团糟中，被持续地洗牌式地来回倒手，由于西方公司之间重叠的交易而导致了这种情况，其中一家公司归大亨罗伯特·马克斯韦尔所有。”的处理：①The rights 译“这些版权”，补“这些”回指上句。②through a chaotic muddle 提到谓语前，译为“在混乱的一团糟中”；被动的 were shuffled onward 译为“被持续地洗牌式地来回倒手”，shuffle 按视频说明的形象意义译出。③后置定语 of overlapping deals among Western firms 拆出来单独成句，译成原因“由于西方公司之间重叠的交易而导致了这种情况”，交代混乱的来源；among Western firms 前置为“西方公司之间”。④句末 one owned by... 译为“其中一家公司归……所有”，one 补出“其中一家公司”，过去分词的被动意义用“归……所有”表达。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Henk Rogers",
+   "predicate": "reached；found",
+   "object_or_complement": "Moscow（reached 的宾语）；his way（found 的宾语，构成 find one's way to）",
+   "explain": "一个主语带两个由 and 连接的并列谓语：reached Moscow（主谓宾）和 found his way to Elorg（固定结构 find one's way to）。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 1989",
+    "role": "时间状语（介词短语）",
+    "zh": "1989年2月"
+   },
+   {
+    "text": "Henk Rogers,",
+    "role": "主语",
+    "zh": "亨克·罗杰斯"
+   },
+   {
+    "text": "a resourceful Dutch-born publisher,",
+    "role": "同位语，补充说明 Henk Rogers",
+    "zh": "一位足智多谋的荷兰裔发行商"
+   },
+   {
+    "text": "reached",
+    "role": "谓语一（及物动词，直接接地点）",
+    "zh": "来到"
+   },
+   {
+    "text": "Moscow",
+    "role": "宾语（reached 的宾语）",
+    "zh": "莫斯科"
+   },
+   {
+    "text": "on a tourist visa",
+    "role": "方式状语（介词短语，on 表示凭借的身份）",
+    "zh": "持旅游签证"
+   },
+   {
+    "text": "and found his way",
+    "role": "并列连词 and + 谓语二（find one's way to：设法找到）",
+    "zh": "设法找到了"
+   },
+   {
+    "text": "to Elorg.",
+    "role": "介词短语，与 found his way 构成 find one's way to sth",
+    "zh": "Elorg"
+   }
+  ],
+  "structure": "①主干是 Henk Rogers reached Moscow and found his way to Elorg：一个主语带两个并列谓语，按“到达莫斯科、找到 Elorg”的先后顺序排列。\n②句首 In February 1989 是时间状语。\n③a resourceful Dutch-born publisher 是同位语，补充说明 Henk Rogers；Dutch-born 是“国籍形容词 + born”构成的复合形容词，意为“出生于荷兰的”，视频译为“荷兰裔”。\n④on a tourist visa 是介词短语作方式状语，on 表示凭借（视频说明：on a tourist visa：持旅游签证）。\n⑤find one's way to 意为“设法找到”（视频说明），暗示过程并不容易：一个持旅游签证的外国人自己找到了负责软件出口的苏联国家机关。这与第8句斯坦因“对 Elorg 毫不知情”形成对照。视频说明还介绍了罗杰斯的身份：他代表任天堂赴前苏联谈判，直接与 Elorg 拿下《俄罗斯方块》全球主机版权，后来又与帕基特诺夫合伙开公司。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "reach 作及物动词表示“到达”",
+    "explain": "reach 表示“到达”时是及物动词，直接接地点，不加介词：reach Moscow。arrive 是不及物动词，要接介词：arrive in（较大的地方）、arrive at（较小的地点）；get 要接 to：get to Moscow。考研写作和改错中 reach to Moscow、arrive Moscow 都是常见错误。reach 还可表示“达成”（reach an agreement）、“联系上”（reach sb by phone）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The delegation reached Geneva late on Sunday night.",
+      "zh": "代表团于周日深夜抵达日内瓦。"
+     },
+     {
+      "en": "After hours of talks, the two sides finally reached an agreement.",
+      "zh": "经过数小时会谈，双方终于达成了协议。"
+     }
+    ]
+   },
+   {
+    "title": "介词 on 表示凭借、依据",
+    "explain": "on 可以表示凭借某种身份、资格或经济来源，如 on a tourist visa（持旅游签证）、on a scholarship（靠奖学金）、on a tight budget（预算紧张）、on the advice of sb（根据某人的建议）。本句 on a tourist visa 说明罗杰斯是以游客身份入境的，视频译为“持旅游签证”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She studied in London on a government scholarship.",
+      "zh": "她靠政府奖学金在伦敦求学。"
+     }
+    ]
+   },
+   {
+    "title": "地名或国籍形容词 + born 构成的复合形容词",
+    "explain": "国籍形容词或地名加 born 构成复合形容词，表示出生地，如 Dutch-born（出生于荷兰的）、London-born（伦敦出生的）、Indian-born；用作前置定语时要加连字符。本句 Dutch-born 说明罗杰斯出生于荷兰，视频译为“荷兰裔”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The German-born physicist spent most of his career in the United States.",
+      "zh": "这位出生于德国的物理学家职业生涯的大部分时间是在美国度过的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "find one's way to",
+    "explain": "设法找到，设法到达（视频说明），one's 随主语变化；也可指事物辗转到达某处，如 Many of the stolen paintings eventually found their way to private collectors（许多被盗画作最终辗转落入私人收藏家手中）。"
+   },
+   {
+    "term": "resourceful",
+    "explain": "足智多谋的，善于想办法解决问题的，由 resource（资源；应对的办法）加 -ful 构成。本句视频译为“足智多谋的”。"
+   },
+   {
+    "term": "publisher",
+    "explain": "出版商，发行商；在游戏行业指负责发行游戏的公司或个人，本句视频译为“发行商”。"
+   },
+   {
+    "term": "visa",
+    "explain": "签证，常说 a tourist visa（旅游签证）、a student visa、a work visa；apply for a visa（申请签证）、issue a visa（签发签证）。"
+   }
+  ],
+  "translation_tip": "视频译文“1989年2月，亨克·罗杰斯，一位足智多谋的荷兰裔发行商，持旅游签证来到莫斯科，设法找到了 Elorg。”的处理：①同位语 a resourceful Dutch-born publisher 保留在原位，译为“一位足智多谋的荷兰裔发行商”，Dutch-born 译为“荷兰裔”。②方式状语 on a tourist visa 前移到动词前，译为“持旅游签证来到莫斯科”，符合汉语状语在前的习惯。③两个并列谓语之间的 and 不译，用逗号连接；found his way to 译为“设法找到了”，“设法”体现过程不易。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Stein and Kevin Maxwell",
+   "predicate": "were",
+   "object_or_complement": "in Moscow（表语）",
+   "explain": "主系表结构：主语是 and 连接的两个人，系动词用复数 were，介词短语 in Moscow 作表语，表示所在的位置。一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Stein",
+    "role": "主语之一",
+    "zh": "斯坦因"
+   },
+   {
+    "text": "and Kevin Maxwell,",
+    "role": "并列连词 and + 并列主语",
+    "zh": "和凯文·马克斯韦尔"
+   },
+   {
+    "text": "the magnate's son,",
+    "role": "同位语，补充说明 Kevin Maxwell",
+    "zh": "那位大亨的儿子"
+   },
+   {
+    "text": "were",
+    "role": "系动词（与并列主语保持一致，用复数）",
+    "zh": "（系动词，与 in Moscow 合译为“都在莫斯科”）"
+   },
+   {
+    "text": "in Moscow",
+    "role": "表语（介词短语，表示所在位置）",
+    "zh": "在莫斯科"
+   },
+   {
+    "text": "that same hectic week",
+    "role": "时间状语（名词短语直接作状语，不加介词）",
+    "zh": "就在同一个忙乱的……周里"
+   },
+   {
+    "text": "of negotiations,",
+    "role": "后置定语（of 短语），修饰 week",
+    "zh": "谈判"
+   },
+   {
+    "text": "each a bidder.",
+    "role": "独立主格结构（each 是逻辑主语，a bidder 是逻辑表语），补充说明主语",
+    "zh": "各自都是版权的竞标者"
+   }
+  ],
+  "structure": "①主干是 Stein and Kevin Maxwell were in Moscow：主语是 and 连接的两个人，系动词用复数 were，in Moscow 作表语。\n②the magnate's son 是同位语，补充说明 Kevin Maxwell；the magnate 用定冠词，回指第9句的大亨 Robert Maxwell，即凯文是他的儿子。\n③that same hectic week of negotiations 是名词短语直接作时间状语，前面不加介词；that same 强调“正是同一周”，与上句罗杰斯到达莫斯科的时间相对应；of negotiations 作 week 的后置定语。\n④each a bidder 是独立主格结构，each 是逻辑主语，指斯坦因和凯文·马克斯韦尔中的每一个，a bidder 是逻辑表语，相当于 each being a bidder 或 and each was a bidder。\n⑤本句交代罗杰斯并不是唯一的竞争者：同一周里，斯坦因和凯文·马克斯韦尔也在莫斯科竞标。视频说明介绍了斯坦因的背景：他在未拿到 Elorg 合法授权的情况下，就把版权倒卖给了多家西方公司，是后来版权大混战的始作俑者。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "独立主格结构：名词或代词 + 名词",
+    "explain": "独立主格由“逻辑主语 + 逻辑谓语部分”构成，逻辑主语与句子主语不同，或是主语中的一部分，常用逗号与主句隔开，作状语或补充说明。逻辑谓语部分可以是分词、形容词、介词短语或名词，being 常省略。本句 each a bidder 相当于 each (being) a bidder，each 指斯坦因和凯文·马克斯韦尔中的每一个。考研长难句中，句末逗号后出现“名词 + 名词/介词短语/分词”而没有谓语动词时，要想到独立主格。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The three sisters all became doctors, each a specialist in a different field.",
+      "zh": "三姐妹都当了医生，各自专攻不同的领域。"
+     },
+     {
+      "en": "The visitors left in silence, their faces pale with shock.",
+      "zh": "来访者默默离开，脸色因震惊而发白。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语直接作时间状语",
+    "explain": "带 that、this、last、next、every、each、same 等限定词的时间名词短语可以直接作状语，前面不加介词，如 that same week、this morning、last year、every Sunday；不说 in last year、on this morning。本句 that same hectic week of negotiations 就是不带介词的时间状语，视频译为“就在同一个忙乱的谈判周里”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister resigned that same evening.",
+      "zh": "部长当晚就辞职了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hectic",
+    "explain": "忙乱的，紧张忙碌的，如 a hectic schedule（排得满满的日程）、a hectic day。本句形容谈判那一周节奏紧张，视频译为“忙乱的”。"
+   },
+   {
+    "term": "negotiations",
+    "explain": "negotiation 的复数，指一轮轮的谈判，如 enter into negotiations with（与……开始谈判）、under negotiation（在谈判中）。本句视频译为“谈判”。"
+   },
+   {
+    "term": "bidder",
+    "explain": "出价人，竞标者，由 bid（出价，投标）加 -er 构成，如 the highest bidder（出价最高者）。本句视频译为“竞标者”。"
+   },
+   {
+    "term": "the magnate's son",
+    "explain": "定冠词 the 回指第9句的大亨 Robert Maxwell，视频译为“那位大亨的儿子”。名词所有格 magnate's 表示所属关系。"
+   }
+  ],
+  "translation_tip": "视频译文“斯坦因和凯文·马克斯韦尔，那位大亨的儿子，都在莫斯科，就在同一个忙乱的谈判周里，各自都是版权的竞标者。”的处理：①同位语 the magnate's son 保留在原位，the 译“那位”，回指上文。②系表结构 were in Moscow 译为“都在莫斯科”，补“都”体现主语是两个人。③时间状语 that same hectic week of negotiations 单独成句放在后面，译为“就在同一个忙乱的谈判周里”，“就在”强调 same；of negotiations 前置，与“周”合成“谈判周”。④独立主格 each a bidder 译成独立分句“各自都是版权的竞标者”，each 译“各自”，增补“版权的”点明竞标的对象。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Pajitnov；Nintendo",
+   "predicate": "felt；scooped",
+   "object_or_complement": "a fondness（felt 的宾语）；the handheld rights, then worldwide console rights（scooped 的宾语）",
+   "explain": "这是 and 连接的并列句，两个分句都是主谓宾结构，谓语都是一般过去时，主动语态。后一分句的 then worldwide console rights 省略了谓语 scooped。"
+  },
+  "components": [
+   {
+    "text": "Pajitnov",
+    "role": "主语（第一分句）",
+    "zh": "帕基特诺夫"
+   },
+   {
+    "text": "felt a fondness",
+    "role": "谓语 + 宾语（feel a fondness for sb：对某人有好感）",
+    "zh": "颇有好感"
+   },
+   {
+    "text": "for Rogers,",
+    "role": "后置定语（介词短语），修饰 fondness，引出好感的对象",
+    "zh": "对罗杰斯"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "（并列连词，译文用逗号代替，不单独译出）"
+   },
+   {
+    "text": "Nintendo",
+    "role": "主语（第二分句）",
+    "zh": "任天堂"
+   },
+   {
+    "text": "scooped",
+    "role": "谓语（第二分句）",
+    "zh": "抢得/抢下了"
+   },
+   {
+    "text": "the handheld rights,",
+    "role": "宾语",
+    "zh": "掌机版权"
+   },
+   {
+    "text": "then worldwide console rights.",
+    "role": "省略结构（then + 宾语，省略了 Nintendo scooped）",
+    "zh": "后来又拿下了全球游戏主机版权"
+   }
+  ],
+  "structure": "①这是 and 连接的并列句。前一分句 Pajitnov felt a fondness for Rogers 是主谓宾结构，feel a fondness for sb 意为“对某人有好感”（视频说明）。\n②后一分句主干是 Nintendo scooped the handheld rights，主谓宾结构；scoop 意为“抢先获得”（视频说明）。\n③then worldwide console rights 是省略结构，完整形式是 then (Nintendo scooped) worldwide console rights，省略了与前面相同的主语和谓语（视频说明：省略了 scooped）。then 表示时间上的先后：先拿到掌机版权，后来又拿到全球主机版权。\n④两个分句并列，内容上前后相关：视频说明指出，Rogers 即亨克·罗杰斯，是任天堂的合作商与版权谈判代表。帕基特诺夫对他有好感，任天堂随后拿下了版权。原文没有用 so 等连词点明因果，只是把两件事并排放在一起。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列结构中的省略",
+    "explain": "并列结构中，后一部分与前一部分相同的成分可以省略，以避免重复。本句 then worldwide console rights 省略了 Nintendo scooped，只保留不同的宾语，用 then 表示先后。阅读时要根据前文补出省略的成分；考研翻译中，补出省略部分往往是译准的关键，本句视频译为“后来又拿下了全球游戏主机版权”，“拿下了”就是补出的 scooped。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The firm first entered the Asian market, then the African one.",
+      "zh": "这家公司先进入了亚洲市场，后来又进入了非洲市场。"
+     },
+     {
+      "en": "Some students chose history, others economics.",
+      "zh": "有些学生选了历史，另一些学生选了经济学。"
+     }
+    ]
+   },
+   {
+    "title": "名词或形容词作前置定语表示类别",
+    "explain": "console rights、handheld rights 中，console 是名词作定语，说明版权适用的设备类别；handheld 在这里作形容词，意为“手持的，掌上的”。英语常用这种结构表示权利的类别，如 film rights、television rights、publishing rights。翻译时一般直接组合成汉语复合词：“掌机版权”“游戏主机版权”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The broadcaster paid a record sum for the television rights to the tournament.",
+      "zh": "这家广播公司以创纪录的金额买下了这项赛事的电视转播权。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "feel a fondness for sb",
+    "explain": "对某人有好感（视频说明）。fondness 意为“喜爱，好感”，常接 for；形容词短语 be fond of 意为“喜欢”。"
+   },
+   {
+    "term": "scoop",
+    "explain": "熟词僻义：scoop 本义是勺子、用勺舀，引申为“抢先获得”（视频说明），如 scoop a prize；新闻界用名词 a scoop 指独家新闻。"
+   },
+   {
+    "term": "Nintendo",
+    "explain": "任天堂，日本游戏公司。本句视频译为“任天堂”。"
+   },
+   {
+    "term": "handheld 与 console",
+    "explain": "handheld 意为“手持的，掌上的”，作名词指掌上设备，handheld rights 视频译为“掌机版权”；console 指游戏主机（英式 games console，美式 game console），也指控制台，console rights 视频译为“游戏主机版权”。"
+   }
+  ],
+  "translation_tip": "视频译文“帕基特诺夫对罗杰斯颇有好感，任天堂抢得/抢下了掌机版权，后来又拿下了全球游戏主机版权。”的处理：①介词短语 for Rogers 提前译成“对罗杰斯”，felt a fondness 译为“颇有好感”，“颇”表示程度。②and 不译，两个分句用逗号相连。③scooped 给出“抢得/抢下了”两种说法，体现 scoop 的“抢先”意味。④省略结构 then worldwide console rights 补出谓语，译为“后来又拿下了全球游戏主机版权”，“后来又”对应 then，console 译为“游戏主机”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Nintendo；that version",
+   "predicate": "bundled；shipped",
+   "object_or_complement": "Tetris（bundled 的宾语）；over 35 million copies（shipped 的宾语）",
+   "explain": "这是 and 连接的并列句，两个分句都是主谓宾结构，谓语都是一般过去时，主动语态。前一分句用了 bundle A with B 结构。"
+  },
+  "components": [
+   {
+    "text": "Nintendo",
+    "role": "主语（第一分句）",
+    "zh": "任天堂"
+   },
+   {
+    "text": "bundled",
+    "role": "谓语（第一分句）",
+    "zh": "捆绑销售"
+   },
+   {
+    "text": "Tetris",
+    "role": "宾语",
+    "zh": "把俄罗斯方块"
+   },
+   {
+    "text": "with its pocket-sized Game Boy,",
+    "role": "介词短语，与 bundled 构成 bundle A with B",
+    "zh": "和它那款口袋大小的 Game Boy"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "（并列连词，译文用逗号代替，不单独译出）"
+   },
+   {
+    "text": "that version",
+    "role": "主语（第二分句，指与 Game Boy 捆绑的那个版本）",
+    "zh": "这个版本"
+   },
+   {
+    "text": "shipped",
+    "role": "谓语（第二分句）",
+    "zh": "出货"
+   },
+   {
+    "text": "over 35 million copies.",
+    "role": "宾语（over 修饰数量，表示“超过”）",
+    "zh": "超过3,500万份"
+   }
+  ],
+  "structure": "①这是 and 连接的并列句。前一分句 Nintendo bundled Tetris with its pocket-sized Game Boy 用了 bundle A with B 结构，意为“把 A 和 B 捆绑在一起（销售）”（视频说明）。\n②its 指任天堂的；pocket-sized 是“名词 + sized”构成的复合形容词，意为“口袋大小的”，修饰 Game Boy。\n③后一分句 that version shipped over 35 million copies 中，that version 指与 Game Boy 捆绑的那个俄罗斯方块版本；ship 意为“发货，出货”，over 意为“超过”（视频说明），修饰数量 35 million copies。\n④两个分句前后相承：任天堂把游戏和掌机捆绑销售，这个版本随之出货超过3,500万份。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动词 + A + with + B 结构",
+    "explain": "不少动词构成“动词 + A + with + B”的结构，A、B 的位置不能随意互换：bundle A with B（把 A 和 B 捆绑在一起），provide sb with sth（向某人提供某物），replace A with B（用 B 取代 A），combine A with B（把 A 和 B 结合）。本句 bundled Tetris with its pocket-sized Game Boy 中，被捆绑附送的是游戏，搭配的主体是游戏机（视频说明：bundle A with B：把 A 和 B 捆绑在一起（销售））。考研完形中 replace A with B 和 provide sb with sth 的方向是常见考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many manufacturers bundle antivirus software with their new laptops.",
+      "zh": "许多厂商把杀毒软件和新款笔记本电脑捆绑在一起销售。"
+     },
+     {
+      "en": "The school replaced its old textbooks with digital ones.",
+      "zh": "学校用电子教材取代了旧教材。"
+     }
+    ]
+   },
+   {
+    "title": "million 的用法与数字换算",
+    "explain": "million、thousand、hundred、billion 前有具体数字时用单数，不加 s，如 35 million copies；表示不确定的大量时用复数并加 of，如 millions of copies。英语以“千、百万、十亿”为单位，汉语以“万、亿”为单位：35 million 是3,500万，视频写作“3,500万”。考研翻译中数字换算是常见易错点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's population has grown to nearly 12 million.",
+      "zh": "这座城市的人口已增长到近1,200万。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Game Boy",
+    "explain": "任天堂推出的掌上游戏机，pocket-sized（口袋大小的）说明它小巧便携。视频保留英文名 Game Boy。"
+   },
+   {
+    "term": "ship",
+    "explain": "熟词僻义：ship 作动词意为“运送，发货”，在商业和游戏、软件行业中，“产品 + ship + 数量”指出货量，本句 shipped over 35 million copies 即出货超过3,500万份（视频说明：ship：发货，出货）。"
+   },
+   {
+    "term": "pocket-sized",
+    "explain": "口袋大小的，袖珍的，如 a pocket-sized camera；同类复合形容词有 bite-sized（一口大小的）、medium-sized（中等大小的）。"
+   },
+   {
+    "term": "copy",
+    "explain": "可数名词，表示书、唱片、游戏等的“一份，一册，一张”，本句 copies 视频译为“份”。第6句的 Copies 指复制品，侧重点不同。"
+   }
+  ],
+  "translation_tip": "视频译文“任天堂把俄罗斯方块和它那款口袋大小的 Game Boy 捆绑销售，这个版本出货超过3,500万份。”的处理：①bundle A with B 用“把”字句译出，宾语“俄罗斯方块”提到动词前，补出“销售”点明捆绑的目的；its 译为“它那款”。②and 不译，用逗号连接两个分句。③that version 译为“这个版本”，英语用 that 指代前面提到的事物，汉语习惯用“这”。④35 million 换算为“3,500万”，over 译“超过”，shipped 译“出货”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Pajitnov",
+   "predicate": "reaped",
+   "object_or_complement": "none of the spoils",
+   "explain": "主谓宾结构，谓语 reaped 为一般过去时，主动语态。否定代词 none 在宾语里，使全句成为否定句；for years 是时间状语。"
+  },
+  "components": [
+   {
+    "text": "Pajitnov",
+    "role": "主语",
+    "zh": "帕基特诺夫"
+   },
+   {
+    "text": "reaped",
+    "role": "谓语",
+    "zh": "收获"
+   },
+   {
+    "text": "none of",
+    "role": "宾语中的否定代词 none + of，表示全部否定",
+    "zh": "不到一点"
+   },
+   {
+    "text": "the spoils",
+    "role": "介词 of 的宾语，与 none of 共同构成全句宾语",
+    "zh": "那些战利品（即收益）"
+   },
+   {
+    "text": "for years.",
+    "role": "时间状语（介词短语，表示持续的时间）",
+    "zh": "多年来始终如此"
+   }
+  ],
+  "structure": "①主谓宾结构：主语 Pajitnov，谓语 reaped，宾语 none of the spoils，for years 是时间状语。\n②none of the spoils 中，none 是否定代词，与 of 短语连用表示全部否定：那些收益他一点也没得到，相当于 He did not reap any of the spoils。\n③spoils 原指战利品，这里比喻俄罗斯方块带来的收益，视频译为“那些战利品（即收益）”，与前文各方争夺版权的描写相呼应。the spoils 用定冠词，指上句游戏大卖带来的收益。\n④视频说明交代了背景：游戏是他在苏联科学院写出来的，版权归国家；后来游戏火遍全球，作为发明者的他却因为身处苏联体制内，多年拿不到分红。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "none of 作宾语表示全部否定",
+    "explain": "none 是否定代词，none of + 名词或代词表示“其中没有一个，一点也没有”，可作主语，也可作宾语。作宾语时相当于 not ... any of：reaped none of the spoils 等于 did not reap any of the spoils。none 是代词，后面不能直接接名词，不说 none spoils，要用 none of the spoils。考研阅读中，这种否定落在宾语上的句子容易被看成肯定句，要特别留意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The investors recovered none of the money they had put into the scheme.",
+      "zh": "投资者投入该计划的钱一分也没能收回。"
+     },
+     {
+      "en": "She had read none of the books on the reading list.",
+      "zh": "书单上的书她一本也没读过。"
+     }
+    ]
+   },
+   {
+    "title": "for + 时间段与一般过去时",
+    "explain": "for + 时间段表示动作或状态持续多久，常与现在完成时连用，如 have worked here for years；但叙述过去某段已经结束的情况时，用一般过去时即可。本句 reaped none of the spoils for years 叙述的是过去多年的情况，下一句说他约1995年后才开始有收入，这种状态已经结束，所以用一般过去时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He lived in Berlin for ten years before moving to Vienna.",
+      "zh": "他在柏林住了十年，后来搬到了维也纳。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reap",
+    "explain": "本义是收割庄稼，引申为获得（好处或回报），常见搭配有 reap the benefits、reap the rewards；谚语 You reap what you sow 意为“种瓜得瓜，种豆得豆”。本句视频译为“收获”。"
+   },
+   {
+    "term": "spoils",
+    "explain": "战利品，常用复数，如 the spoils of war、the spoils of victory；引申为通过竞争或胜利获得的利益、好处。本句视频译为“那些战利品（即收益）”。"
+   }
+  ],
+  "translation_tip": "视频译文“帕基特诺夫收获不到一点那些战利品（即收益），多年来始终如此。”的处理：①否定代词 none 译到动词后，成为“收获不到一点”，保留英文否定落在宾语上的结构。②spoils 直译为“那些战利品”，括号补出“（即收益）”说明比喻义。③时间状语 for years 移到句末单独成句，译为“多年来始终如此”，强调没有收益的状态持续了很久。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "His earnings",
+   "predicate": "began",
+   "object_or_complement": "",
+   "explain": "主谓结构，begin 在这里是不及物动词，不带宾语；only after his arrangement's expiry around 1995 是时间状语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His earnings",
+    "role": "主语",
+    "zh": "他……有收入"
+   },
+   {
+    "text": "began",
+    "role": "谓语（不及物动词）",
+    "zh": "开始"
+   },
+   {
+    "text": "only after his arrangement's expiry",
+    "role": "时间状语（only 修饰介词短语 after...，强调时间）",
+    "zh": "直到……他的协议到期之后……才"
+   },
+   {
+    "text": "around 1995.",
+    "role": "后置定语（介词短语，around 表示“大约”），修饰 expiry，说明到期的大致时间",
+    "zh": "1995年前后"
+   }
+  ],
+  "structure": "①主谓结构：主语 His earnings，谓语 began 是不及物动词，后面是时间状语。\n②only after his arrangement's expiry 是 only 修饰的时间状语，only 强调时间，意为“直到……之后才”。after 后接名词短语 his arrangement's expiry，其中名词所有格 his arrangement's 作 expiry 的定语。\n③his arrangement's expiry 是名词化表达，相当于从句 after his arrangement expired：arrangement 是 expire 的逻辑主语。around 1995 修饰 expiry，说明协议大约在哪一年到期。\n④视频说明交代了背景：苏联解体后情况变了，但他早年签过一些关于授权的协议，约束一直持续到1995年左右；旧协议过期作废后，他才开始拿到属于自己的钱。本句与上句 for years 衔接，说明“多年拿不到收益”到何时为止。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "only + 状语与倒装",
+    "explain": "only 修饰状语表示强调，意为“只有……才；直到……才”。only 加状语（时间、条件、方式状语，包括状语从句）位于句首时，主句要部分倒装，如 Only after his arrangement expired did his earnings begin。本句 only after... 放在句末，所以用正常语序。翻译时 only after 常译成“直到……之后，……才”，视频译文正是这样处理的。考研翻译和完形中，Only + 状语 + 倒装是高频考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only after the contract was signed did the company announce the deal.",
+      "zh": "直到合同签署之后，公司才宣布了这笔交易。"
+     },
+     {
+      "en": "The road reopened only after the snow had been cleared.",
+      "zh": "直到积雪清除之后，这条路才重新开放。"
+     }
+    ]
+   },
+   {
+    "title": "名词化结构",
+    "explain": "英语书面语常用名词表示动作，即名词化，把一个分句压缩成名词短语。本句 his arrangement's expiry 相当于 his arrangement expired，名词所有格 arrangement's 表示动作 expiry 的逻辑主语。类似的有 the government's refusal to act（政府拒绝采取行动）、the company's collapse（公司倒闭）。翻译时常把名词化结构还原成主谓结构，本句视频译为“他的协议到期”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company's sudden collapse left thousands of workers without jobs.",
+      "zh": "公司突然倒闭，数千名工人失去了工作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "earnings",
+    "explain": "收入，所得，常用复数，指个人的工资收入或公司的收益，如 annual earnings、average earnings。本句视频译为“收入”。"
+   },
+   {
+    "term": "arrangement",
+    "explain": "安排；协议，商定的办法，如 a financial arrangement、make arrangements for。本句指与版权授权有关的协议（视频说明），视频译为“协议”。"
+   },
+   {
+    "term": "expiry",
+    "explain": "期满，到期，多用于英式英语，如 the expiry date（截止日期，有效期）；美式英语多用 expiration。动词 expire 意为“到期，失效”。"
+   },
+   {
+    "term": "around + 年份或数字",
+    "explain": "around 用在数字或年份前表示“大约”，相当于 about，本句 around 1995 视频译为“1995年前后”。"
+   }
+  ],
+  "translation_tip": "视频译文“直到1995年前后他的协议到期之后，他才开始有收入。”的处理：①only after... 译成“直到……之后，……才”，并把时间状语提到句首，符合汉语先说时间、后说事件的顺序。②名词化结构 his arrangement's expiry 还原成主谓结构“他的协议到期”。③around 1995 译为“1995年前后”，放在“他的协议到期”前面。④主语 His earnings 和谓语 began 合译为“他才开始有收入”，名词 earnings 转译为动宾结构“有收入”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "he and Rogers",
+   "predicate": "founded",
+   "object_or_complement": "The Tetris Company",
+   "explain": "主谓宾结构，谓语 founded 是 found（成立，创办）的过去式，一般过去时，主动语态；to manage the rights 是不定式作目的状语。"
+  },
+  "components": [
+   {
+    "text": "In 1996",
+    "role": "时间状语（介词短语）",
+    "zh": "1996年"
+   },
+   {
+    "text": "he and Rogers",
+    "role": "主语（并列主语，he 指帕基特诺夫）",
+    "zh": "他和罗杰斯"
+   },
+   {
+    "text": "founded",
+    "role": "谓语",
+    "zh": "成立/创办了"
+   },
+   {
+    "text": "The Tetris Company",
+    "role": "宾语",
+    "zh": "俄罗斯方块公司"
+   },
+   {
+    "text": "to manage",
+    "role": "目的状语（动词不定式短语）",
+    "zh": "来管理"
+   },
+   {
+    "text": "the rights.",
+    "role": "不定式 to manage 的宾语",
+    "zh": "这些版权"
+   }
+  ],
+  "structure": "①主谓宾结构：主语 he and Rogers，谓语 founded，宾语 The Tetris Company。\n②句首 In 1996 是时间状语。he and Rogers 是并列主语，he 指帕基特诺夫，Rogers 是第10句出现的亨克·罗杰斯。\n③to manage the rights 是动词不定式短语作目的状语，说明成立公司的目的；the rights 回指前文一再出现的俄罗斯方块版权。\n④founded 是 found 的过去式，意为“成立，创办”，不是 find 的过去式。视频说明交代了背景：罗杰斯当年代表任天堂去莫斯科买下版权，他和帕基特诺夫因这场谈判成了挚交；多年后合同到期，两人合伙开公司，才把版权拿回发明者自己手中。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "found 与 find 的区分",
+    "explain": "found 是规则动词，意为“建立，创办”，过去式和过去分词都是 founded；find 是不规则动词，意为“找到，发现”，过去式和过去分词都是 found。本句 founded 是 found 的过去式。阅读中看到 found，要根据上下文判断它是 find 的过去式，还是 found 的原形；founder（创始人）、foundation（基础；基金会）都与 found 同源。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The charity was founded in 1990 to support young carers.",
+      "zh": "这家慈善机构成立于1990年，旨在帮助年轻的照护者。"
+     },
+     {
+      "en": "Researchers found that the drug had few side effects.",
+      "zh": "研究人员发现这种药副作用很小。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作目的状语",
+    "explain": "动词不定式 to do 放在句末可以作目的状语，说明主语做某事的目的，相当于 in order to do 或 so as to do。本句 to manage the rights 说明成立公司是为了管理版权，视频译为“来管理这些版权”。要强调目的时可用 in order to，也可以把 in order to do 放在句首；否定形式是 in order not to do 或 so as not to do。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The central bank raised interest rates to curb inflation.",
+      "zh": "央行提高利率以抑制通货膨胀。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "The Tetris Company",
+    "explain": "俄罗斯方块公司，文中说是1996年由帕基特诺夫和罗杰斯共同成立、用来管理游戏版权的公司。公司名中的 The 首字母大写，是名称的一部分。"
+   },
+   {
+    "term": "manage",
+    "explain": "管理，经营，如 manage a business、manage resources；也可表示“设法做到”，即 manage to do sth。本句指管理版权，视频译为“管理”。"
+   }
+  ],
+  "translation_tip": "视频译文“1996年，他和罗杰斯成立/创办了俄罗斯方块公司，来管理这些版权。”的处理：①In 1996 译为“1996年”，放在句首。②founded 给出“成立/创办了”两种说法，The Tetris Company 译为“俄罗斯方块公司”。③目的状语 to manage the rights 留在句末，用“来”连接，译为“来管理这些版权”；the rights 译为“这些版权”，回指前文。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The man",
+   "predicate": "helped decide",
+   "object_or_complement": "who could sell it（decide 的宾语从句）",
+   "explain": "主干是 The man helped decide who could sell it：helped 是谓语，decide 是省略 to 的不定式，作 helped 的宾语，who could sell it 是 decide 的宾语从句。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The man",
+    "role": "主语",
+    "zh": "他……的人"
+   },
+   {
+    "text": "whose puzzle once spread for nothing",
+    "role": "定语从句（whose 引导），修饰 The man",
+    "zh": "他的益智游戏曾无偿流布天下"
+   },
+   {
+    "text": "later",
+    "role": "时间状语（副词）",
+    "zh": "多年后"
+   },
+   {
+    "text": "helped decide",
+    "role": "谓语（help + 省略 to 的不定式 decide）",
+    "zh": "却成了决定"
+   },
+   {
+    "text": "who could sell it.",
+    "role": "宾语从句（who 引导，作 decide 的宾语）",
+    "zh": "谁能售卖它"
+   }
+  ],
+  "structure": "①主干是 The man helped decide who could sell it：主语 The man，谓语 helped，decide 是不带 to 的不定式，作 helped 的宾语；who could sell it 是宾语从句，作 decide 的宾语（视频说明）。\n②whose puzzle once spread for nothing 是定语从句，修饰 The man（视频说明）。whose 在从句中作定语，修饰 puzzle，whose puzzle 相当于 the man's puzzle；从句谓语 spread 是过去式（spread 的过去式与原形同形），for nothing 意为“免费”（视频说明），once 意为“曾经”。\n③later 是时间状语，与从句中的 once 前后对照：曾经免费流传，后来却参与决定谁能售卖。\n④主语 The man 与谓语 helped 之间被定语从句隔开，阅读时要越过 whose 从句找到谓语 helped。宾语从句 who could sell it 中，who 在从句中作主语，it 指 puzzle。\n⑤本句是全文的收尾，用 once 与 later、for nothing 与 sell 两组对照，概括了帕基特诺夫从对游戏没有任何权利到参与管理版权的转变。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whose 引导定语从句",
+    "explain": "whose 是关系代词的所有格，在定语从句中作定语，后面紧跟它修饰的名词，先行词可以是人也可以是物。本句 The man whose puzzle once spread for nothing 中，whose puzzle 相当于 the man's puzzle。主语带较长的定语从句时，主语和谓语相隔较远，阅读时要先找到主句谓语（本句是 helped），再看从句修饰谁。写作中要注意 whose 与 who's（who is 的缩写）的区别。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The writer whose first novel was rejected by a dozen publishers later won a major literary prize.",
+      "zh": "那位作家的第一部小说曾被十几家出版社拒稿，后来他却获得了一项重要的文学奖。"
+     },
+     {
+      "en": "Residents whose homes were damaged in the flood can apply for emergency grants.",
+      "zh": "房屋在洪水中受损的居民可以申请紧急补助。"
+     }
+    ]
+   },
+   {
+    "title": "help (to) do",
+    "explain": "help 后接不定式时，to 可以省略：help (to) do sth、help sb (to) do sth。本句 helped decide 中，decide 是省略 to 的不定式，作 helped 的宾语。固定表达 cannot help doing（忍不住做）中的 help 意为“避免”，后接动名词，意思完全不同，不要混淆。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new evidence helped explain why the bridge had collapsed.",
+      "zh": "新证据有助于解释这座桥为何坍塌。"
+     }
+    ]
+   },
+   {
+    "title": "疑问词引导的宾语从句用陈述语序",
+    "explain": "who、what、which、when、where、why、how 等疑问词引导的宾语从句要用陈述语序。本句 who could sell it 中，who 在从句中作主语，本身就在主语位置，所以语序看上去与疑问句相同；疑问词不作主语时要特别注意，如 decide what they could sell，不能写成 what could they sell。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The panel will decide which projects receive funding.",
+      "zh": "评审小组将决定哪些项目获得资助。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "for nothing",
+    "explain": "免费，不花钱（视频说明），如 get something for nothing；也可表示“徒劳，白白地”，如 All that effort was for nothing。本句指游戏曾免费流传，呼应第6句复制品靠软盘不受限制地涌现。"
+   },
+   {
+    "term": "puzzle",
+    "explain": "谜，难题；益智游戏，如 a jigsaw puzzle（拼图）、a crossword puzzle（纵横字谜）。本句视频译为“益智游戏”，指俄罗斯方块。"
+   },
+   {
+    "term": "spread",
+    "explain": "不规则动词，原形、过去式和过去分词同形；本句是过去式，意为“传播，流传”，视频译为“流布天下”。"
+   },
+   {
+    "term": "once 与 later",
+    "explain": "once 作副词意为“曾经”，later 意为“后来”，两者前后对照，表示情况的转变。视频分别译为“曾”和“多年后”。"
+   }
+  ],
+  "translation_tip": "视频译文“他的益智游戏曾无偿流布天下，多年后，他却成了决定谁能售卖它的人。”的处理：①主语 The man 带定语从句，译文拆成两个分句：定语从句译成前一分句“他的益智游戏曾无偿流布天下”，whose 译为“他的”；主句译成后一分句。②later 译为“多年后”，用逗号隔开，突出时间跨度；增补“却”，体现 once 与 later 的转折对照。③helped decide who could sell it 译为“成了决定谁能售卖它的人”，把动作转化为身份，突出他角色的变化；宾语从句 who could sell it 译为“谁能售卖它”。④for nothing 译为“无偿”，spread 译为“流布天下”，用书面色彩较浓的表达收束全文。"
+ }
+]
