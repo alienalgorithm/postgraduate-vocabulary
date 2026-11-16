@@ -1,0 +1,23 @@
+[
+ {
+  "key": "id=44",
+  "field": "context_usage",
+  "before": "This 回指上一段所说的装载成本骤降、标准统一、箱子顺畅转运等变化",
+  "after": "This 回指前文所说的装载成本骤降（第2段）、标准统一和箱子顺畅转运（第3段）等变化",
+  "reason": "装载成本下降在第2段，不在上一段，指代范围说错"
+ },
+ {
+  "key": "id=46",
+  "field": "etymology",
+  "before": "近代英语早期，后一部分受 likelihood 等词的影响，变成了今天的 -lihood 形式，意思也集中到“谋生之道，生计”。",
+  "after": "中古英语时期写作 livelode，词义由“生活方式”发展出“生计，供养”；后来拼写受以 -hood 结尾的词影响，变成了今天的 livelihood。",
+  "reason": "词源词典记载拼写是受以 -hood 结尾的词（Etymonline 指 livelihood“活泼”）影响而改变，并非 likelihood；“生计”义在中古英语 livelode 时已出现，原说法时间顺序有误"
+ },
+ {
+  "key": "id=51",
+  "field": "etymology",
+  "before": "词中含 augur（古罗马的占卜官），前缀 in- 表示“使……”。",
+  "after": "由前缀 in-（在……上，对……）和 augurare（占卜，作占卜官）构成，augur 即古罗马的占卜官。",
+  "reason": "Etymonline：inaugurare 中的 in- 意为“on, upon”，不是“使……”"
+ }
+]

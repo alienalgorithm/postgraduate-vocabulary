@@ -1,0 +1,65 @@
+[
+ {
+  "key": "n=3",
+  "field": "trunk.explain",
+  "before": "“would + 现在完成时”",
+  "after": "“would + 完成式不定式 have done”",
+  "reason": "would have taken 是情态动词加完成式不定式，不是“现在完成时”，术语有误"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar[0].examples[0]",
+  "before": "Without the bridge, the journey would have taken twice as long. / 要是没有这座桥，这段路程得多花一倍的时间。",
+  "after": "The letter is undated, but it would have been written shortly after the war. / 这封信没有注明日期，但大概是在战后不久写的。",
+  "reason": "原例句是与过去事实相反的虚拟（没有这座桥就会……），不示范本语法点“对过去情况的推测”；换成推测用法的例句"
+ },
+ {
+  "key": "n=3",
+  "field": "knowledge[take A for B].explain",
+  "before": "我把他错当成了他哥哥",
+  "after": "我把他错当成了他的兄弟",
+  "reason": "his brother 不能确定是哥哥还是弟弟，译文不应增加原文没有的信息"
+ },
+ {
+  "key": "n=7",
+  "field": "grammar[0].explain",
+  "before": "spend years abroad",
+  "after": "spend the whole day in bed",
+  "reason": "abroad 是副词，不是此处所说的介词短语；换成真正的介词短语例子"
+ },
+ {
+  "key": "n=11",
+  "field": "structure",
+  "before": "②主语中心词是 committee，前面有两层定语：standards 说明委员会负责的事务（制定标准），international 修饰 standards committee，说明是国际性的。也可以把 international standards 看作一个整体修饰 committee，即“国际标准的委员会”，视频取这一理解，译为“国际标准委员会”。",
+  "after": "②主语中心词是 committee，international standards（国际标准）作为一个整体作前置定语，说明委员会负责的事务是制定国际标准，视频据此译为“国际标准委员会”。international standards 内部，international 修饰 standards；standards 是名词作定语，保留复数形式。",
+  "reason": "原分析先把 international 拆开去修饰 standards committee，与视频把 international standards 作为一个整体（align 与重点词均如此）的理解不一致，改为与视频一致"
+ },
+ {
+  "key": "n=11",
+  "field": "components[0].role",
+  "before": "主语（international 和 standards 都是 committee 的前置定语）",
+  "after": "主语（international standards 整体作 committee 的前置定语）",
+  "reason": "与视频把 international standards 作为整体的处理保持一致"
+ },
+ {
+  "key": "n=14",
+  "field": "structure",
+  "before": "②This efficiency 中的 This 回指上一段的内容：理想X号的装载成本低、标准统一后箱子能顺畅转运",
+  "after": "②This efficiency 中的 This 回指前文的内容：理想X号的装载成本低（第2段）、标准统一后箱子能顺畅转运（第3段）",
+  "reason": "装载成本下降在第2段，不在上一段（第3段），指代范围说错"
+ },
+ {
+  "key": "n=14",
+  "field": "structure",
+  "before": "下面两句用纽约和伦敦的码头就业数据和码头关闭来具体说明",
+  "after": "下面三句分别用纽约海滨区就业人数缩减、货物转往伊丽莎白的新码头、伦敦老码头相继关闭来具体说明",
+  "reason": "本段主题句后有三句（第15、16、17句）展开，不是两句"
+ },
+ {
+  "key": "n=14",
+  "field": "grammar[1].explain",
+  "before": "本句 This efficiency 概括了上一段的装载成本下降和箱子顺畅转运",
+  "after": "本句 This efficiency 概括了前文第2段的装载成本下降和第3段的箱子顺畅转运",
+  "reason": "装载成本下降在第2段，不在上一段，指代范围说错"
+ }
+]

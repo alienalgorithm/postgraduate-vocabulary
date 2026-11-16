@@ -1,0 +1,1862 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "a converted Second World War tanker",
+   "predicate": "slipped out of",
+   "object_or_complement": "Port Newark, New Jersey",
+   "explain": "主干是 a converted Second World War tanker slipped out of Port Newark，主谓宾结构；slip 本身是不及物动词，slip out of 整体相当于一个及物短语动词，Port Newark 是它的宾语。谓语 slipped 为一般过去时，主动语态，叙述1956年那天发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "On 26 April 1956",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1956年4月26日"
+   },
+   {
+    "text": "a converted Second World War tanker,",
+    "role": "主语（converted 和 Second World War 都是 tanker 的前置定语）",
+    "zh": "一艘改造过的二战油轮"
+   },
+   {
+    "text": "the Ideal X,",
+    "role": "同位语，补充说明 tanker 的船名",
+    "zh": "“理想X号”"
+   },
+   {
+    "text": "slipped out of",
+    "role": "谓语（短语动词 slip out of，悄悄离开）",
+    "zh": "悄然驶离"
+   },
+   {
+    "text": "Port Newark, New Jersey,",
+    "role": "宾语（slip out of 的宾语）；New Jersey 补充说明 Port Newark 所在的州",
+    "zh": "新泽西州纽瓦克港"
+   },
+   {
+    "text": "for Houston.",
+    "role": "方向状语（介词短语，for 表示去向）",
+    "zh": "开往休斯敦"
+   }
+  ],
+  "structure": "①主句是 a converted Second World War tanker slipped out of Port Newark：主语 a converted Second World War tanker，谓语 slipped out of，宾语 Port Newark。句首 On 26 April 1956 是时间状语，句尾 for Houston 是方向状语，说明船开往哪里。\n②主语中心词是 tanker，前面有两层前置定语：converted 是过去分词作定语，表示“被改造过的”，说明这艘船原本不是为装集装箱而造；Second World War 是名词短语作定语，说明它是二战时期的油轮。\n③the Ideal X 夹在主语和谓语之间，前后有逗号，是 tanker 的同位语，交代这艘船的名字（视频说明）。读的时候要越过这对逗号，把主语 tanker 和谓语 slipped out of 连起来。\n④Port Newark, New Jersey 是英语地名的常见写法：小地名在前，所属的州在后，中间用逗号隔开，州名后面通常也加逗号。for Houston 中的 for 表示目的地（视频说明“开往”），与 slipped out of 一起交代了起点和终点。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语",
+    "explain": "同位语是紧跟在名词后面、对它作进一步解释说明的名词或名词短语，两者指同一个对象，常用逗号隔开。本句 the Ideal X 是 tanker 的同位语，交代船名，去掉后句子结构仍然完整。考研长难句中，同位语常插在主语和谓语之间，造成主谓分离，要先找到真正的主语中心词，再把它和后面的谓语对上。翻译时同位语可以前置成定语，也可以用“即”“也就是”引出，本句视频把船名紧接在“油轮”之后，并加引号标明。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Her latest novel, a bleak story of rural poverty, has already sold a million copies.",
+      "zh": "她的新小说讲述了一个关于农村贫困的凄凉故事，销量已经突破一百万册。"
+     },
+     {
+      "en": "The museum's oldest exhibit, a bronze mirror from the Han dynasty, was donated by a private collector.",
+      "zh": "博物馆最古老的展品是一面汉代铜镜，由一位私人收藏家捐赠。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词作前置定语",
+    "explain": "单个过去分词可以放在名词前作定语，及物动词的过去分词表示被动或完成，与被修饰名词是动宾关系。本句 a converted tanker 指“被改造过的油轮”，相当于 a tanker that had been converted。类似的有 a broken window（打破了的窗户）、developed countries（发达国家）、a trained nurse（受过训练的护士）。过去分词短语较长时一般放在名词之后，单个分词多放在名词之前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The couple turned a converted warehouse into a bright, open studio.",
+      "zh": "这对夫妇把一座改造过的仓库变成了明亮开阔的工作室。"
+     }
+    ]
+   },
+   {
+    "title": "介词 for 表示目的地",
+    "explain": "for 可以表示去向、目的地，常与 leave、set off、sail、head、depart 等动词连用：leave Beijing for Shanghai 意为“离开北京前往上海”，起点作 leave 的宾语，终点放在 for 后面。本句 slipped out of Port Newark for Houston 是同样的结构。易错点：leave for 后接目的地，leave 直接接宾语时表示离开的地方，两者不能混淆；表示“开往某地的火车”可以说 the train for London。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The expedition left Cape Town for Antarctica in early December.",
+      "zh": "考察队于12月初离开开普敦，前往南极洲。"
+     }
+    ]
+   },
+   {
+    "title": "具体日期前用 on，以及日期的英式写法",
+    "explain": "表示在具体某一天用介词 on，如 on 26 April 1956、on Monday、on the morning of 5 May；只有年份或月份时用 in，如 in 1956、in April 1956。英式写法通常是“日、月、年”（26 April 1956），美式常写成“月、日、年”（April 26, 1956）。本文采用英式写法，与 harbour、lorry、per cent 等英式拼写和用词一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 4 March 1921, after months of negotiation.",
+      "zh": "经过几个月的谈判，该条约于1921年3月4日签署。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "slip out of",
+    "explain": "slip 的基本义是“滑”，引申为“悄悄地、不引人注意地移动”，slip out of 意为“悄悄离开（某处）”，如 slip out of the room（悄悄溜出房间）。本句用来写船，强调这次出港没有引起多少关注，视频译为“悄然驶离”，与第3句“极少数旁观者会把它当作里程碑”相呼应。"
+   },
+   {
+    "term": "the Second World War",
+    "explain": "第二次世界大战，也写作 World War II 或 World War Two；英式英语多用 the Second World War。本句 Second World War 作 tanker 的定语，表示“二战时期的”，视频简译为“二战”。"
+   },
+   {
+    "term": "Port Newark, New Jersey",
+    "explain": "纽瓦克港，位于美国新泽西州纽瓦克（Newark），在纽约港区之内。英语写美国地名常用“城市或地点, 州名”的格式，汉语则按由大到小排列，所以视频译为“新泽西州纽瓦克港”。"
+   },
+   {
+    "term": "Houston",
+    "explain": "休斯敦，美国得克萨斯州最大的城市，也是重要港口城市。"
+   },
+   {
+    "term": "the Ideal X",
+    "explain": "船名。英语中船名前通常加定冠词 the，正式出版物里船名常用斜体。这艘船由二战油轮改造而成，1956年这次航行常被视为现代集装箱运输的开端，也是本文开篇所说的 landmark（里程碑）。"
+   }
+  ],
+  "translation_tip": "视频译文“1956年4月26日，一艘改造过的二战油轮“理想X号”，悄然驶离新泽西州纽瓦克港，开往休斯敦。”的处理：①日期按汉语习惯写成“年、月、日”，放在句首。②不定冠词 a 译成量词“一艘”；两层前置定语按原顺序译成“改造过的二战油轮”。③同位语 the Ideal X 紧跟在“油轮”之后，用引号标出船名，保留了原文的插入感。④地名 Port Newark, New Jersey 按由大到小调整为“新泽西州纽瓦克港”。⑤for Houston 单独译成“开往休斯敦”，与“悄然驶离”形成先离开、再前往的顺序。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "58 containers",
+   "predicate": "were",
+   "object_or_complement": "Clamped to her deck（表语，提到句首）",
+   "explain": "这是主系表结构的完全倒装句。正常语序是 58 containers were clamped to her deck，作表语的过去分词短语 Clamped to her deck 提到句首，系动词 were 放到主语前面（视频说明）。谓语为一般过去时，were clamped 表示被动意义，描述货物被固定的状态。"
+  },
+  "components": [
+   {
+    "text": "Clamped",
+    "role": "表语（过去分词，提到句首构成倒装）",
+    "zh": "固定"
+   },
+   {
+    "text": "to her deck",
+    "role": "介词短语，与 Clamped 构成 clamped to（被固定在……上），说明位置；her 指上句的船",
+    "zh": "在她甲板上的"
+   },
+   {
+    "text": "were",
+    "role": "系动词（倒装后放在主语之前）",
+    "zh": "是"
+   },
+   {
+    "text": "58 containers,",
+    "role": "主语",
+    "zh": "58个集装箱"
+   },
+   {
+    "text": "trailer bodies",
+    "role": "同位语，补充说明 containers",
+    "zh": "其实就是……挂车车厢"
+   },
+   {
+    "text": "detached from their wheels and chassis.",
+    "role": "后置定语（过去分词短语），修饰 bodies",
+    "zh": "从车轮和底盘上拆卸下来的"
+   }
+  ],
+  "structure": "①正常语序是 58 containers were clamped to her deck，主语 58 containers，系动词 were，表语 clamped to her deck。作者把表语 Clamped to her deck 提到句首，主谓完全倒装，把新信息 58 containers 放到句子后部，便于后面紧接同位语进行解释。\n②her 指上句的 the Ideal X，英语传统上用 she、her 指代船只。clamp A to B 意为“把 A 固定在 B 上”（视频说明），这里用过去分词表示集装箱被固定的状态。\n③trailer bodies 是 58 containers 的同位语，说明这些集装箱究竟是什么：卡车挂车的车厢。trailer 作定语修饰 bodies。\n④detached from their wheels and chassis 是过去分词短语作后置定语，修饰 bodies，相当于 which had been detached from their wheels and chassis；their 指 trailer bodies，wheels and chassis 是 from 的并列宾语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "表语前置引起的完全倒装",
+    "explain": "主系表结构中，作表语的分词短语、介词短语或形容词提到句首时，常把系动词放到主语前，形成完全倒装：表语 + 系动词 + 主语。这样做一是承上启下，句首的表语接续上文（本句 her deck 承接上句的船），二是把较长或较重要的主语放到句末突出。本句 Clamped to her deck were 58 containers 即属此类。识别要点：句首是 -ed/-ing 分词短语，紧接着是 be 动词，后面的名词才是主语，谓语单复数与后面的主语一致（were 与 containers 一致）。常见的还有 Gone are the days when…、Among the guests was…。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Hidden beneath the floorboards were dozens of letters written during the war.",
+      "zh": "藏在地板下面的是几十封战时写的信。"
+     },
+     {
+      "en": "Gone are the days when a single salary could support a family of five.",
+      "zh": "靠一份薪水就能养活五口之家的日子一去不复返了。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语修饰名词时放在名词之后，表示被动或完成，相当于一个省略的定语从句。本句 trailer bodies detached from their wheels and chassis 相当于 trailer bodies which had been detached from their wheels and chassis（视频说明：过去分词短语作后置定语，修饰 bodies）。车厢是“被拆下来”的一方，所以用过去分词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Furniture made from reclaimed timber has become fashionable in recent years.",
+      "zh": "用回收木材制成的家具近年来很受欢迎。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语可以直接用名词短语放在被说明的名词后面，用逗号隔开，不加任何连接词，起解释、定义的作用。本句 trailer bodies 解释 58 containers 的本质，视频用“其实就是”把这层解释关系译了出来。考研阅读中，这种结构常用来给专业名词下定义，是理解生词的线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town relied on a single industry, coal mining, for almost a century.",
+      "zh": "这个镇近一个世纪都依靠单一产业，也就是煤矿业。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "her（指船）",
+    "explain": "英语传统上用 she、her 指代船只，带有亲切或拟人的色彩，新闻和文学作品中常见；现代很多报刊也改用 it。本句 her deck 指理想X号的甲板，视频保留了原文的用法，译为“她甲板上”（视频说明：her 指船）。"
+   },
+   {
+    "term": "clamp A to B",
+    "explain": "把 A 夹紧、固定在 B 上（视频说明）。clamp 的名词义是“夹钳，夹具”，动词指用夹具夹紧；另有短语 clamp down on，意为“严厉打击、压制”，新闻中常见，如 clamp down on tax evasion。"
+   },
+   {
+    "term": "detach from",
+    "explain": "视频说明：指将某物从原本附着、连接或所属的主体上分离或拆卸下来。detach A from B 意为“把 A 从 B 上拆下”，反义词是 attach A to B。形容词 detached 还有“超然的、不带感情的”和“（房屋）独立式的”两个义项。"
+   },
+   {
+    "term": "chassis",
+    "explain": "底盘，车架。单复数同形，单数读 /ˈʃæsi/，复数读 /ˈʃæsiz/。本句 wheels and chassis 是 from 的并列宾语，说明车厢是从车轮和底盘上拆下来的。"
+   },
+   {
+    "term": "trailer",
+    "explain": "挂车，拖车，指由汽车牵引、自身没有动力的车辆；trailer body 指挂车上装货的车厢部分。trailer 还有“电影预告片”的意思。"
+   }
+  ],
+  "translation_tip": "视频译文“固定在她甲板上的是58个集装箱，其实就是从车轮和底盘上拆卸下来的挂车车厢。”的处理：①倒装句按英文语序顺译，“固定在她甲板上的是……”正好对应 Clamped to her deck were…，保留了先说位置、后出主语的效果，系动词 were 译成“是”。②her 照原文译成“她”，保留以“她”指船的色彩。③同位语 trailer bodies 前加“其实就是”，点明集装箱的本质，译出同位语的解释作用。④后置定语 detached from their wheels and chassis 前置为“从车轮和底盘上拆卸下来的”，修饰“挂车车厢”；detach from 的意思拆成“从……上拆卸下来”包在中心词前面。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Few spectators",
+   "predicate": "would have taken",
+   "object_or_complement": "so unremarkable a cargo（宾语）；for a landmark（与 take 构成 take A for B）",
+   "explain": "主干是 Few spectators would have taken so unremarkable a cargo for a landmark，主谓宾结构，用的是 take A for B（把 A 当作 B）这一搭配。谓语 would have taken 是“would + 完成式不定式 have done”，表示对过去情况的推测（视频说明），主动语态。"
+  },
+  "components": [
+   {
+    "text": "Few spectators",
+    "role": "主语（few 修饰可数名词复数，含否定意味）",
+    "zh": "极少数旁观者"
+   },
+   {
+    "text": "would have taken",
+    "role": "谓语（would have done，对过去情况的推测）",
+    "zh": "会把"
+   },
+   {
+    "text": "so unremarkable a cargo",
+    "role": "宾语（so + 形容词 + a + 名词 结构）",
+    "zh": "一批如此平淡无奇的货物"
+   },
+   {
+    "text": "for a landmark.",
+    "role": "介词短语，与 take 构成 take A for B，说明把宾语当作什么",
+    "zh": "当作一个里程碑"
+   }
+  ],
+  "structure": "①主干是 Few spectators would have taken A for B，A 是 so unremarkable a cargo，B 是 a landmark。take A for B 意为“把 A 当作 B”（视频说明），本句指当时几乎没有人会觉得这批货物有什么历史意义。\n②Few 修饰 spectators，表示数量极少、几乎没有，带否定意味；与 a few（有几个）意思相反。\n③would have taken 用“would + have done”的形式，是作者站在今天对1956年那一刻的推测：如果当时有人在场，他们大概不会把这批货物看成里程碑（视频说明：对过去情况的推测）。\n④so unremarkable a cargo 是“so + 形容词 + a/an + 单数名词”结构，形容词提到不定冠词之前，等于 such an unremarkable cargo，语气更正式。unremarkable 与 landmark 形成对照：当时平淡无奇，事后看却开创了一个时代。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "would have done 表示对过去情况的推测",
+    "explain": "would have done 用于谈论过去，可以表示与过去事实相反的虚拟结果，也可以表示对过去情况的推测，意为“（当时）大概会……”。本句是后一种：作者推测1956年在场的旁观者大概很少会把这批货物看作里程碑（视频说明）。同类结构有 must have done（一定已经）、may/might have done（可能已经）、could have done（本来能够）、should have done（本该）。考研阅读中遇到这类结构，要分清它是推测、虚拟还是责备，不能当成确定发生过的事实。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The letter is undated, but it would have been written shortly after the war.",
+      "zh": "这封信没有注明日期，但大概是在战后不久写的。"
+     },
+     {
+      "en": "Most readers in 1900 would have found the idea of a pocket telephone absurd.",
+      "zh": "1900年的大多数读者大概会觉得口袋电话这个想法荒唐可笑。"
+     }
+    ]
+   },
+   {
+    "title": "so + 形容词 + a/an + 名词",
+    "explain": "so 修饰形容词，形容词后面再接单数可数名词时，语序是 so + 形容词 + a/an + 名词，如 so difficult a problem；同样的意思用 such 表达是 such a + 形容词 + 名词，如 such a difficult problem。as、too、how 也有这种语序：as good a player as…、too heavy a burden、how big a house。易错点：不能说 a so unremarkable cargo；复数名词和不可数名词前只能用 such，如 such heavy boxes。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It was too risky a plan to put to the board without more data.",
+      "zh": "在没有更多数据的情况下，把这个计划提交董事会风险太大了。"
+     },
+     {
+      "en": "Rarely has so small a country produced so many world-class scientists.",
+      "zh": "很少有这么小的国家能培养出这么多世界一流的科学家。"
+     }
+    ]
+   },
+   {
+    "title": "few 与 a few",
+    "explain": "few 和 a few 都修饰可数名词复数。few 表示“很少，几乎没有”，带否定意味；a few 表示“有一些，有几个”，偏肯定。不可数名词对应的是 little 和 a little。本句 Few spectators 强调当时几乎没人意识到这件事的意义，视频译为“极少数旁观者”。考研阅读中，few、little、hardly 这类词常是态度题和细节题的关键，读漏了会把意思读反。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Few economists predicted how quickly prices would rise.",
+      "zh": "很少有经济学家预料到物价会涨得这么快。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take A for B",
+    "explain": "把 A 当作 B，常指误以为、看作，如 I took him for his brother（我把他错当成了他的兄弟）；take sth for granted 意为“认为某事理所当然”。本句视频译为“把……当作”。"
+   },
+   {
+    "term": "spectator",
+    "explain": "旁观者，观众，多指观看比赛、表演或事件的人；spectator sport 指吸引观众观看的运动项目。本句指1956年在港口看到理想X号出发的人，视频译为“旁观者”。"
+   },
+   {
+    "term": "landmark",
+    "explain": "本义“地标”，引申为“里程碑，划时代的事件”，作定语时常见 a landmark ruling/decision（具有里程碑意义的裁决/决定）。本句取引申义，视频译为“里程碑”。"
+   },
+   {
+    "term": "unremarkable",
+    "explain": "由 un-（不）+ remarkable（值得注意的，非凡的）构成，意为“平淡无奇的，不起眼的”，视频译为“平淡无奇的”。"
+   }
+  ],
+  "translation_tip": "视频译文“极少数旁观者会把一批如此平淡无奇的货物当作一个里程碑。”的处理：①take A for B 译成汉语的“把”字句“把……当作……”，would have taken 译成“会把”，推测语气落在“会”字上。②so unremarkable a cargo 译为“一批如此平淡无奇的货物”，cargo 是集合概念，增补量词“一批”；a landmark 译为“一个里程碑”。③Few 译为“极少数”，保留了 few 表示数量极少的意思。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "freight",
+   "predicate": "travelled",
+   "object_or_complement": "loose（主语补足语）",
+   "explain": "主干是 freight travelled loose，主谓结构加补语：travel 是不及物动词，形容词 loose 作补语，说明货物运输时的状态（视频说明）。谓语 travelled 为一般过去时，主动语态，描述过去普遍的情况。"
+  },
+  "components": [
+   {
+    "text": "At the time,",
+    "role": "时间状语（介词短语）",
+    "zh": "那时"
+   },
+   {
+    "text": "freight",
+    "role": "主语（不可数名词，泛指货物）",
+    "zh": "货物"
+   },
+   {
+    "text": "travelled",
+    "role": "谓语（不及物动词，一般过去时）",
+    "zh": "运输"
+   },
+   {
+    "text": "loose.",
+    "role": "主语补足语（形容词，说明 freight 运输时的状态）",
+    "zh": "散装"
+   }
+  ],
+  "structure": "①句首 At the time 是时间状语，指1956年前后、集装箱尚未普及的年代。\n②主语 freight 是不可数名词，泛指运输的货物；谓语 travelled 在这里是不及物动词，主语是物，意为“被运送、运输”。\n③loose 是形容词，不修饰动词，而是说明主语 freight 在运输过程中处于什么状态，即没有装箱、散着运，在句中作主语补足语（视频说明：loose 作补语，说明货物运输时的状态）。\n④本句很短，承上启下：第1段讲了理想X号的集装箱，这句转而交代此前的情形，下面几句展开说明散装运输的低效。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "形容词作主语补足语",
+    "explain": "一些不及物动词后面可以接形容词，说明主语在动作发生时的状态，这个形容词叫主语补足语，如 The door swung open（门一下子开了）、He died young（他英年早逝）、Stand still（站着别动）、travel light（轻装出行）。本句 freight travelled loose 中，loose 说明货物运输时是散着的。易错点：这里的形容词不能改成副词，loosely 修饰动作方式，意思就变了；判断方法是看这个词说明的是主语的状态还是动作的方式。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The prisoners were eventually set free, but many returned home sick and penniless.",
+      "zh": "囚犯们最终获释，但许多人回到家时贫病交加。"
+     },
+     {
+      "en": "Experienced hikers prefer to travel light, carrying only what they really need.",
+      "zh": "有经验的徒步者喜欢轻装出行，只带真正需要的东西。"
+     }
+    ]
+   },
+   {
+    "title": "at the time 与 at a time、at times",
+    "explain": "at the time 意为“那时，当时”，指过去某个特定时期，常用于叙述历史；at a time 意为“每次，一次”，如 two at a time（每次两个）；at times 意为“有时”，相当于 sometimes；at one time 意为“曾经，一度”。几个短语只差一个冠词或单复数，完形和阅读中容易混淆。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The decision seemed sensible at the time, but it proved costly in the long run.",
+      "zh": "这个决定当时看来很明智，但从长远看代价高昂。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "freight",
+    "explain": "货物，货运，不可数名词，多指用火车、轮船、飞机或卡车大批运输的货物，如 freight train（货运列车）、air freight（空运货物）。本句视频译为“货物”。"
+   },
+   {
+    "term": "loose",
+    "explain": "熟词僻义：常见义是“松的，宽松的”，本句指货物“散装的，未包装的”，视频译为“散装”。商店里散装出售的东西也用 loose，如 loose tea（散装茶叶）、sold loose（散装出售）。"
+   },
+   {
+    "term": "travelled",
+    "explain": "英式拼写，美式拼写为 traveled。英式英语中以单个元音加 l 结尾的动词，加 -ed、-ing 时双写 l，如 travelled、cancelled、labelled。本文是英式拼写，后文的 harbour、containerisation、industrialised 也是如此。"
+   }
+  ],
+  "translation_tip": "视频译文“那时，货物都是散装运输。”的处理：①At the time 译为“那时”，放在句首，后加逗号。②主语补足语 loose 和谓语 travelled 合在一起译成“散装运输”，形容词状态落在“散装”二字上。③增补“都是”，点明散装是当时的普遍做法，与下文搬运工人一件件搬货的描写衔接。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Gangs",
+   "predicate": "carried",
+   "object_or_complement": "sacks, barrels, and crates",
+   "explain": "主干是 Gangs carried sacks, barrels, and crates，主谓宾结构，宾语是三个并列名词。谓语 carried 为一般过去时，主动语态，描述当时码头上的常态。"
+  },
+  "components": [
+   {
+    "text": "Gangs",
+    "role": "主语",
+    "zh": "一帮"
+   },
+   {
+    "text": "of twenty or more dockworkers",
+    "role": "后置定语（of 介词短语），修饰 Gangs",
+    "zh": "二十多名或更多的码头工人"
+   },
+   {
+    "text": "carried",
+    "role": "谓语",
+    "zh": "搬运"
+   },
+   {
+    "text": "sacks, barrels, and crates",
+    "role": "宾语（三个并列名词，带牛津逗号）",
+    "zh": "麻袋、桶和板条箱"
+   },
+   {
+    "text": "piece by piece.",
+    "role": "方式状语（名词 + by + 名词）",
+    "zh": "一件件地"
+   }
+  ],
+  "structure": "①主干是 Gangs carried sacks, barrels, and crates：主语 Gangs，谓语 carried，宾语是三个并列名词，按 A, B, and C 的格式排列，and 前的逗号是牛津逗号。\n②of twenty or more dockworkers 是 of 介词短语作后置定语，修饰 Gangs（视频说明），说明每一帮由多少人组成；twenty or more 修饰 dockworkers，表示“二十个或更多”。\n③piece by piece 是方式状语，意为“一件一件地”（视频说明），放在句末，强调搬运全靠人力、逐件进行，效率很低。\n④本句具体描写上句的 freight travelled loose：没有集装箱时，货物装在麻袋、桶、板条箱里，由成帮的工人逐件搬上搬下。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "of 介词短语作后置定语",
+    "explain": "“名词 + of + 名词”是英语最常见的修饰结构之一，of 短语放在中心词后面，说明它的组成、内容、数量、所属等。本句 Gangs of twenty or more dockworkers 中，of 短语说明一帮人由谁组成（视频说明：of 结构作后置定语，修饰 Gangs）。类似的有 a team of experts、a group of students、a crowd of protesters。作主语时，谓语的单复数一般看 of 前面的中心词，本句中心词 Gangs 是复数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A team of engineers was sent to inspect the damaged bridge.",
+      "zh": "一组工程师被派去检查受损的桥梁。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + by + 名词 作状语",
+    "explain": "同一个名词用 by 连接，构成 piece by piece、step by step、day by day、one by one、bit by bit 等短语，表示“逐一地、逐渐地”，在句中作方式状语，名词前不加冠词。本句 piece by piece 强调工人一件一件地搬（视频说明）。写作中 step by step、bit by bit 常用来描述渐进的过程。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The volunteers rebuilt the old stone wall piece by piece.",
+      "zh": "志愿者们一块一块地重新砌好了那堵老石墙。"
+     }
+    ]
+   },
+   {
+    "title": "三项并列与牛津逗号",
+    "explain": "三个或以上的成分并列时，写成 A, B, and C，最后一项前用 and；and 前面的逗号叫牛津逗号（serial comma），可以避免歧义。本句 sacks, barrels, and crates 是 carried 的三个并列宾语。翻译成汉语时，前两项之间用顿号，最后一项前用“和”，如视频“麻袋、桶和板条箱”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The market stalls sold fresh fish, olives, and handmade cheese.",
+      "zh": "市场的摊位上卖鲜鱼、橄榄和手工奶酪。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gang",
+    "explain": "常见义是“（犯罪）团伙，帮派”，本句指一起干活的“一帮工人，一班工人”，没有贬义，视频译为“帮”。a gang of workers 是这一用法的典型搭配。"
+   },
+   {
+    "term": "dockworker",
+    "explain": "码头工人，由 dock（码头）+ worker（工人）构成；英式英语也说 docker，美式英语也说 longshoreman。"
+   },
+   {
+    "term": "sack、barrel、crate",
+    "explain": "三种传统的散货包装：sack 是大麻袋，常装面粉、粮食、煤；barrel 是圆桶，常装酒、油，石油计量单位“桶”也是 barrel；crate 是板条箱，用木条钉成，常装水果、瓶子。"
+   },
+   {
+    "term": "twenty or more",
+    "explain": "“数词 + or more”表示“……或更多”，即“至少……”，如 three or more years（三年或更久）。"
+   }
+  ],
+  "translation_tip": "视频译文“一帮二十多名或更多的码头工人，一件件地搬运麻袋、桶和板条箱。”的处理：①后置定语 of twenty or more dockworkers 前置，译成“一帮二十多名或更多的码头工人”，Gangs 译为量词式的“一帮”。②主语后加逗号断开，主语较长，停顿使句子更易读。③方式状语 piece by piece 从句末提到动词前，译成“一件件地搬运”，符合汉语状语在动词前的语序。④三个并列宾语用顿号和“和”连接。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "It",
+   "predicate": "was",
+   "object_or_complement": "strenuous drudgery",
+   "explain": "主干是 It was strenuous drudgery，主系表结构。It 指上句描写的人工搬运货物的工作；谓语 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "role": "主语（代词，指上句描写的人工搬运工作）",
+    "zh": "这"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "strenuous",
+    "role": "定语，修饰 drudgery",
+    "zh": "繁重的/费力的"
+   },
+   {
+    "text": "drudgery.",
+    "role": "表语中心词（不可数名词）",
+    "zh": "苦差事"
+   }
+  ],
+  "structure": "①本句是简单的主系表结构：主语 It，系动词 was，表语 strenuous drudgery。\n②It 不指某个具体名词，而是概括上句 Gangs of twenty or more dockworkers carried sacks, barrels, and crates piece by piece 所描述的整件事。\n③drudgery 是不可数名词，指单调、繁重又辛苦的工作，所以前面不加 a；strenuous 作定语，强调耗费体力（视频说明：形容需要耗费大量体力或精力的）。两个词意思叠加，一个说累，一个说苦而乏味，评价当时的码头劳动。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "代词 it 指代上文整件事",
+    "explain": "it 除了指代前面的某个单数名词，还可以指代上文叙述的一件事、一种情况，相当于“这件事，这种工作”。本句 It 概括上句所说的人工逐件搬运。类似的 this、that 也可以回指上文内容，this 更强调近指和衔接。考研阅读中，代词指代题常考 it、this、they 回指什么，要回到上文找完整的事件或名词，而不是只看最近的一个名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She checked every figure in the report twice. It was slow work, but it caught several costly errors.",
+      "zh": "她把报告里的每个数字都核对了两遍。这活儿很慢，但发现了好几处代价高昂的错误。"
+     }
+    ]
+   },
+   {
+    "title": "不可数名词作表语不加不定冠词",
+    "explain": "不可数名词前一般不用 a/an，即使前面有形容词修饰也一样，如 It was hard work（不说 a hard work）、It is good advice、It was terrible weather。本句 strenuous drudgery 中，drudgery 是不可数名词，所以没有冠词。易错点：work、advice、information、news、progress、equipment 等都是不可数名词，写作中常被误加 a 或写成复数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Clearing the snow from the long driveway was exhausting work.",
+      "zh": "清理长长的车道上的积雪是件累人的活儿。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "strenuous",
+    "explain": "视频说明：形容需要耗费大量体力或精力的，多用于体力活、运动或努力，如 strenuous work（繁重的工作）、strenuous exercise（剧烈运动）、make strenuous efforts（尽力）。"
+   },
+   {
+    "term": "drudgery",
+    "explain": "单调乏味的苦差事，不可数名词，如 the drudgery of housework（家务活的单调辛苦）；动词和名词 drudge 指“做苦工；做苦工的人”。本句视频译为“苦差事”。"
+   }
+  ],
+  "translation_tip": "视频译文“这是繁重的/费力的苦差事。”的处理：①It 译为“这”，指上句描写的搬运工作。②strenuous 给出“繁重的/费力的”两个对应词，分别侧重工作量大和耗费体力。③drudgery 译为“苦差事”，既有“苦”也有“差事”的单调意味；按英文语序直译即可，无需调整。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Ships；theft",
+   "predicate": "could spend；was",
+   "object_or_complement": "up to half their time（spend 的宾语）；rampant（was 的表语）",
+   "explain": "本句是 and 连接的并列句。第一个分句 Ships could spend up to half their time berthed 是主谓宾结构，could 表示过去的可能性；第二个分句 theft was rampant 是主系表结构。两个分句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Ships",
+    "role": "第一个分句的主语",
+    "zh": "船舶"
+   },
+   {
+    "text": "could spend",
+    "role": "谓语（情态动词 could + spend，表示过去可能出现的情况）",
+    "zh": "可能会花"
+   },
+   {
+    "text": "up to half their time",
+    "role": "宾语（up to 修饰数量，表示“多达”）",
+    "zh": "多达一半的时间"
+   },
+   {
+    "text": "berthed,",
+    "role": "补语（过去分词，说明 Ships 在这段时间里所处的状态）",
+    "zh": "停泊在港"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而且"
+   },
+   {
+    "text": "theft",
+    "role": "第二个分句的主语",
+    "zh": "偷窃"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 rampant 合译为“猖獗”）"
+   },
+   {
+    "text": "rampant.",
+    "role": "表语（形容词）",
+    "zh": "猖獗"
+   }
+  ],
+  "structure": "①and 连接两个并列分句，前一句讲效率低，后一句讲货物不安全，都是散装运输的弊端。\n②第一个分句：主语 Ships，谓语 could spend，宾语 up to half their time。could 在这里表示过去可能出现、有时会出现的情况，视频译为“可能会”。up to 修饰 half their time，表示“多达”（视频说明）。\n③berthed 是 berth（停泊）的过去分词，放在 spend time 之后，说明船在这段时间里处于什么状态，即停在泊位上（视频说明：spend time + 过去分词，花时间处于……状态）。\n④第二个分句：主语 theft，系动词 was，表语 rampant。theft 是不可数名词，泛指偷窃行为；rampant 形容坏事猖獗、泛滥。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "spend time + 分词",
+    "explain": "spend 后接时间或金钱作宾语，后面常跟动词的 -ing 形式，表示“花时间做某事”，如 spend hours reading；也可以跟过去分词或形容词、介词短语，表示“在某种状态中度过这段时间”，如 spend the night awake、spend the whole day in bed。本句 spend up to half their time berthed 是后一种，berthed 说明船处于停泊状态（视频说明）。易错点：spend time 后不能接 to do，不能说 spend hours to read。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Office workers spend most of the day seated, which can harm their health.",
+      "zh": "上班族一天中大部分时间都坐着，这可能有损健康。"
+     },
+     {
+      "en": "Many students spend their evenings working part-time to cover their rent.",
+      "zh": "许多学生晚上都去做兼职，以支付房租。"
+     }
+    ]
+   },
+   {
+    "title": "could 表示过去的可能性",
+    "explain": "could 是 can 的过去式，除了表示过去的能力（I could swim at five），还可以表示过去有时会发生、可能出现的情况，相当于“有时会，可能会”。本句 Ships could spend up to half their time berthed 说的是当时船舶可能会把多达一半的时间耗在港口，是对当时一般情况的描述，并非每艘船都如此。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In the nineteenth century, a letter could take months to reach India from London.",
+      "zh": "在19世纪，一封信从伦敦寄到印度可能要几个月。"
+     }
+    ]
+   },
+   {
+    "title": "up to 表示“多达”",
+    "explain": "up to 放在数量词前，表示上限，意为“多达，至多”，如 up to 50 people、up to 30 per cent。本句 up to half their time 强调停泊时间之长（视频说明：up to，多达）。up to 还可以表示“直到”（up to now）和“由……决定”（It's up to you），要根据后面接的成分判断。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new battery can power the car for up to 600 kilometres on a single charge.",
+      "zh": "新电池充一次电能让汽车行驶多达600公里。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "berth",
+    "explain": "名词义是“泊位”和“（火车、轮船上的）卧铺”；动词指使船停靠在泊位上，或船停泊，常用被动或过去分词形式，如 be berthed at a quay（停泊在码头）。本句视频译为“停泊”。"
+   },
+   {
+    "term": "rampant",
+    "explain": "（坏事）猖獗的，泛滥的，常与 corruption、inflation、crime、speculation 搭配，带贬义；还可以形容植物疯长。本句视频译为“猖獗”。"
+   },
+   {
+    "term": "theft",
+    "explain": "偷窃，盗窃，指行为，多为不可数名词，指具体的盗窃事件时可数；“小偷”是 thief，动词“偷”是 steal。常见搭配有 car theft（汽车盗窃）、identity theft（身份盗用）。"
+   }
+  ],
+  "translation_tip": "视频译文“船舶可能会花多达一半的时间停泊在港，而且偷窃猖獗。”的处理：①情态动词 could 译为“可能会”，保留了对一般情况的描述语气。②过去分词 berthed 放在“时间”之后译成“停泊在港”，增补“在港”，使意思完整。③并列连词 and 译为“而且”，表示递进，说明散装运输除了慢还不安全。④was rampant 中系动词不单独译出，直接译成“猖獗”，汉语形容词可以直接作谓语。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "loading loose cargo；loading the Ideal X",
+   "predicate": "cost；cost",
+   "object_or_complement": "about $5.83 a ton；about 16 cents",
+   "explain": "本句由分号连接两个并列分句，结构平行：两个主语都是动名词短语，谓语都是 cost，宾语都是金额。cost 的过去式与原形同形，这里是一般过去时，主动语态，与句首的 In 1956 对应。"
+  },
+  "components": [
+   {
+    "text": "In 1956",
+    "role": "时间状语（介词短语）",
+    "zh": "1956年"
+   },
+   {
+    "text": "loading loose cargo",
+    "role": "第一个分句的主语（动名词短语）",
+    "zh": "装载散货"
+   },
+   {
+    "text": "cost",
+    "role": "第一个分句的谓语（cost 的过去式）",
+    "zh": "花费"
+   },
+   {
+    "text": "about $5.83 a ton;",
+    "role": "宾语（about $5.83），a ton 表示“每吨”",
+    "zh": "每吨……约5.83美元"
+   },
+   {
+    "text": "loading the Ideal X",
+    "role": "第二个分句的主语（动名词短语）",
+    "zh": "装载理想X号"
+   },
+   {
+    "text": "cost,",
+    "role": "第二个分句的谓语",
+    "zh": "花费"
+   },
+   {
+    "text": "by the company's reckoning,",
+    "role": "插入语（介词短语），说明数字的来源",
+    "zh": "据公司估算"
+   },
+   {
+    "text": "about 16 cents.",
+    "role": "宾语",
+    "zh": "约16美分"
+   }
+  ],
+  "structure": "①分号连接两个结构平行的分句，形成对比：散装货物的装载成本和理想X号的装载成本。\n②第一个分句：In 1956 是时间状语；主语 loading loose cargo 是动名词短语（视频说明），loading 是动名词，loose cargo 是它的宾语；谓语 cost，宾语 about $5.83；a ton 中的 a 相当于 per，表示“每吨”。\n③第二个分句：主语 loading the Ideal X 也是动名词短语；谓语 cost 和宾语 about 16 cents 之间插入了 by the company's reckoning，这是插入语（视频说明），说明这个数字是公司自己估算的，不是独立核实的数据。about 16 cents 后面承前省略了单位 a ton，两个数字比较的都是每吨的装载成本。\n④两组数字相差三十多倍，用具体金额说明集装箱带来的成本优势，为下文讲标准化和效率作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动名词短语作主语",
+    "explain": "动名词（动词 -ing 形式）兼有名词和动词的特点，可以作主语，也可以带自己的宾语和状语。动名词短语作主语时，谓语动词用单数。本句两个分句的主语 loading loose cargo 和 loading the Ideal X 都是动名词短语，loading 后面分别带宾语 loose cargo 和 the Ideal X。考研长难句中，句首的 -ing 短语后面如果紧接谓语动词，它就是动名词作主语；如果后面有逗号再接主语，它多半是现在分词作状语，两者要区分清楚。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Building a new runway would cost far more than upgrading the existing one.",
+      "zh": "修建一条新跑道的花费会远远超过升级现有跑道。"
+     },
+     {
+      "en": "Reading the small print saves many consumers from expensive mistakes.",
+      "zh": "仔细阅读细则能让许多消费者免于犯下代价高昂的错误。"
+     }
+    ]
+   },
+   {
+    "title": "插入语 by one's reckoning",
+    "explain": "插入语是插在句中、对整句作补充说明的成分，用逗号与句子其他部分隔开，去掉后句子结构完整。by one's reckoning 意为“根据某人的估算”（视频说明），表明数据的出处，类似的有 by one's estimate、according to sb、by some accounts。本句插入语把谓语 cost 和宾语 about 16 cents 隔开，读的时候要跳过逗号之间的内容把动宾连起来。考研阅读中，这类插入语提示数据或观点的来源，常与推断题、态度题有关。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The repairs will take, by the builder's reckoning, at least six weeks.",
+      "zh": "据建筑商估算，修缮至少需要六周。"
+     }
+    ]
+   },
+   {
+    "title": "不定冠词 a 表示“每”",
+    "explain": "不定冠词 a/an 放在计量单位前，可以表示“每一”，相当于 per，如 $5.83 a ton（每吨5.83美元）、twice a week（每周两次）、60 miles an hour（每小时60英里）。本句 about $5.83 a ton 就是这种用法，视频译为“每吨……约5.83美元”。正式文体和科技文体中常用 per，日常和新闻中 a 更常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fresh strawberries were selling for four pounds a kilo at the market.",
+      "zh": "市场上新鲜草莓卖到每公斤四英镑。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号可以连接两个意思紧密相关、结构完整的分句，作用介于逗号和句号之间，常用于对比或并列。本句用分号把散装和集装箱两种装载成本并排放在一起，形成鲜明对比。写作中，两个独立分句之间不能只用逗号连接，要么用分号，要么加并列连词，否则就是“逗号粘连”错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first prototype was heavy and unreliable; the second was lighter and far more robust.",
+      "zh": "第一台样机笨重又不可靠；第二台更轻，也坚固得多。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cost (cost, cost)",
+    "explain": "不规则动词，过去式和过去分词与原形相同。表示“花费（金钱）”时主语是物或事，不是人，如 The repair cost $200；人作主语时用 spend 或 pay。"
+   },
+   {
+    "term": "loose cargo",
+    "explain": "散货，指不装箱、逐件装卸的杂货，与上文 freight travelled loose 呼应，视频译为“散货”。"
+   },
+   {
+    "term": "$5.83 与 16 cents",
+    "explain": "美元金额 $5.83 读作 five dollars (and) eighty-three cents，口语也常说 five eighty-three。美元符号写在数字前面，读的时候放在数字后面；1美元等于100美分（cent）。"
+   },
+   {
+    "term": "load",
+    "explain": "动词 load 意为“装载，装货”，反义词是 unload（卸货），loading and unloading 即“装卸”；load A onto B 指把 A 装到 B 上，load B with A 指往 B 里装 A。本句 loading the Ideal X 指给理想X号装货，视频译为“装载理想X号”。"
+   }
+  ],
+  "translation_tip": "视频译文“1956年，装载散货每吨花费约5.83美元；据公司估算，装载理想X号花费约16美分。”的处理：①保留分号，两个分句并列对比，结构与原文一致。②a ton 译成“每吨”，提到“花费”之前，符合汉语“每吨花费……”的表达习惯。③插入语 by the company's reckoning 从句中移到第二个分句开头，译为“据公司估算”，避免把“花费”和金额隔开。④两个动名词短语主语分别译成“装载散货”“装载理想X号”，汉语动词短语可以直接作主语。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Containers",
+   "predicate": "were not",
+   "object_or_complement": "new",
+   "explain": "主干是 Containers were not new，主系表结构，否定句。谓语 were 为一般过去时，说明在理想X号之前集装箱已经存在。"
+  },
+  "components": [
+   {
+    "text": "Containers",
+    "role": "主语（零冠词复数，泛指集装箱这类事物）",
+    "zh": "集装箱"
+   },
+   {
+    "text": "were not",
+    "role": "系动词 + 否定词",
+    "zh": "并不"
+   },
+   {
+    "text": "new.",
+    "role": "表语（形容词）",
+    "zh": "新鲜"
+   }
+  ],
+  "structure": "①本句是简单的主系表结构，否定句：主语 Containers，系动词 were，否定词 not，表语 new。\n②Containers 用零冠词复数形式，泛指集装箱这一类东西，而不是特指理想X号上的那58个。\n③本句是第3段的开头，起转折作用：上一段说集装箱大大降低了成本，这里先指出集装箱本身并非新发明，下一句随即点出真正的难题是各家标准不统一。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "零冠词复数名词表示泛指",
+    "explain": "可数名词表示一类事物的总称时，最常用的形式是零冠词加复数，如 Containers were not new、Dogs are loyal、Computers have changed our lives。也可以用“the + 单数”（The computer has changed our lives）或“a + 单数”泛指，但前者偏正式、多用于发明和物种，后者只能用于描述类别特征。本句 Containers 指集装箱这类东西，而上文 58 containers 指具体的那些箱子。考研写作中，泛指概念时零冠词复数最稳妥。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Electric cars are not new; the first ones appeared in the nineteenth century.",
+      "zh": "电动汽车并不新鲜，第一批电动汽车出现在19世纪。"
+     }
+    ]
+   },
+   {
+    "title": "短句承上启下",
+    "explain": "英语议论文和新闻评论常用一个简短的判断句开启新段落，先抛出观点，再在后面几句展开，如本句 Containers were not new 之后，下一句马上说明 The hurdle was consensus。阅读时，这类短句往往是段落主题句，读懂它就能预判本段的论述方向；考研阅读的段落主旨题常以此为线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The idea was not original. What made it succeed was the timing.",
+      "zh": "这个点子并不新颖，它之所以成功，靠的是时机。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "new",
+    "explain": "本句 new 意为“新出现的，以前没有的”，not new 即“早已有之”，视频译为“并不新鲜”。另有 be new to sb（对某人来说是陌生的）、new to the job（刚上手工作）等用法。"
+   },
+   {
+    "term": "container",
+    "explain": "本文指 shipping container（集装箱），即标准尺寸、可以整体吊装和转运的大型金属货箱；一般意义上指“容器”。由动词 contain（容纳）加 -er 构成。"
+   }
+  ],
+  "translation_tip": "视频译文“集装箱并不新鲜。”的处理：①were not new 译成“并不新鲜”，“并”加强否定语气，带有纠正读者可能误解的意味：理想X号并非第一次使用集装箱。②系动词不单独译出，汉语形容词直接作谓语。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The hurdle；rival firms' boxes",
+   "predicate": "was；had",
+   "object_or_complement": "consensus（表语）；incompatible dimensions and latches（宾语）",
+   "explain": "冒号前是主系表结构 The hurdle was consensus，冒号后是主谓宾结构 rival firms' boxes had incompatible dimensions and latches，对前面的话作具体解释。两个分句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The hurdle",
+    "role": "主语",
+    "zh": "障碍"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "在于"
+   },
+   {
+    "text": "consensus:",
+    "role": "表语（抽象名词，不加冠词）",
+    "zh": "共识"
+   },
+   {
+    "text": "rival firms' boxes",
+    "role": "冒号后分句的主语（rival firms' 作定语）",
+    "zh": "竞争对手公司的箱子"
+   },
+   {
+    "text": "had",
+    "role": "谓语",
+    "zh": "有"
+   },
+   {
+    "text": "incompatible dimensions and latches.",
+    "role": "宾语（incompatible 同时修饰 dimensions 和 latches）",
+    "zh": "互不兼容的尺寸和门闩/锁扣"
+   }
+  ],
+  "structure": "①冒号前 The hurdle was consensus 是主系表结构，意思是“障碍在于（达成）共识”：难的不是造箱子，而是让各家在标准上取得一致。consensus 是抽象名词作表语，前面不加冠词。\n②冒号后的分句解释为什么缺乏共识：主语 rival firms' boxes，谓语 had，宾语 incompatible dimensions and latches。\n③rival firms' 是复数名词所有格，firms 以 s 结尾，只加撇号；rival 作定语修饰 firms，表示“相互竞争的”。\n④incompatible 同时修饰 dimensions 和 latches 两个并列名词：各家箱子的尺寸不同、锁扣不同，彼此无法通用，无法用同一套设备吊装和固定。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "冒号的解释说明作用",
+    "explain": "冒号后面的内容对前面作解释、说明、举例或总结，相当于“也就是说，具体来说”。本句冒号前说障碍在于共识，冒号后具体说明为什么缺乏共识：箱子尺寸和锁扣互不兼容。考研阅读中，冒号后的内容常常是前文抽象概念的具体化，是理解作者论点的关键；翻译时一般保留冒号，或译成“因为”“即”等。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The problem was simple: the hospital had too few nurses for too many patients.",
+      "zh": "问题很简单：医院的护士太少，病人太多。"
+     }
+    ]
+   },
+   {
+    "title": "复数名词所有格",
+    "explain": "以 s 结尾的复数名词构成所有格时只加撇号，如 rival firms' boxes、the students' dormitory、my parents' house；不以 s 结尾的复数名词加 's，如 children's books、women's rights。单数名词加 's，如 the company's reckoning（第8句）。阅读时可据此判断名词的单复数：firms' 说明涉及多家公司。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The workers' demands included shorter shifts and safer equipment.",
+      "zh": "工人们的要求包括缩短轮班时间和使用更安全的设备。"
+     }
+    ]
+   },
+   {
+    "title": "一个形容词修饰并列名词",
+    "explain": "形容词放在 A and B 之前，通常同时修饰两个名词，如 incompatible dimensions and latches 指“互不兼容的尺寸和互不兼容的锁扣”。是否同时修饰要看语义：本句尺寸和锁扣都是不兼容的。翻译时，汉语可以只在前面译一次形容词，如视频“互不兼容的尺寸和门闩/锁扣”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company is known for its innovative products and services.",
+      "zh": "这家公司以创新的产品和服务著称。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hurdle",
+    "explain": "本义是体育比赛中的“跨栏”，the hurdles 指跨栏比赛；引申为“障碍，难关”，常与 clear、overcome、face 搭配，如 clear the final hurdle（扫除最后一道障碍）。本句视频译为“障碍”。"
+   },
+   {
+    "term": "consensus",
+    "explain": "共识，一致意见，常见搭配有 reach a consensus（达成共识）、a broad consensus（广泛共识）、consensus on/about sth。本句 was consensus 指达成共识这件事是障碍。"
+   },
+   {
+    "term": "rival",
+    "explain": "名词义是“竞争对手”，用在名词前作定语，表示“相互竞争的，敌对的”，如 rival firms（竞争企业）、rival gangs（敌对帮派）。本句视频译为“竞争对手公司的”。"
+   },
+   {
+    "term": "latch",
+    "explain": "门闩，锁扣，指门、箱盖等上面的扣件。本句指集装箱门上的锁扣装置，视频译为“门闩/锁扣”。短语 latch onto 意为“抓住，迷上，理解”。"
+   }
+  ],
+  "translation_tip": "视频译文“障碍在于共识：竞争对手公司的箱子有互不兼容的尺寸和门闩/锁扣。”的处理：①系动词 was 译为“在于”，比“是”更准确地表达“问题的关键在于……”的意思。②保留冒号，冒号后的分句解释前面的“共识”问题。③复数所有格 rival firms' 译为“竞争对手公司的”。④incompatible 只译一次，放在两个并列名词前面，同时修饰“尺寸”和“门闩/锁扣”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "An international standards committee",
+   "predicate": "formed",
+   "object_or_complement": "",
+   "explain": "主干是 An international standards committee formed，主谓结构。form 在这里是不及物动词，意为“（组织）成立”（视频说明），不带宾语，主动形式表达“被成立”的意思。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "An international standards committee",
+    "role": "主语（international standards 整体作 committee 的前置定语）",
+    "zh": "一个国际标准委员会"
+   },
+   {
+    "text": "formed",
+    "role": "谓语（不及物动词，一般过去时）",
+    "zh": "成立"
+   },
+   {
+    "text": "in 1961.",
+    "role": "时间状语（介词短语）",
+    "zh": "1961年"
+   }
+  ],
+  "structure": "①主干是 An international standards committee formed，主谓结构；in 1961 是时间状语。\n②主语中心词是 committee，international standards（国际标准）作为一个整体作前置定语，说明委员会负责的事务是制定国际标准，视频据此译为“国际标准委员会”。international standards 内部，international 修饰 standards；standards 是名词作定语，保留复数形式。\n③form 不带宾语，主动形式表示“成立，形成”（视频说明）；如果用及物用法，要写成被动 was formed。本句承接上句：正因为标准不统一，所以成立了国际标准委员会。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "form 作不及物动词：主动形式表示自然形成",
+    "explain": "有些动词既可以作及物动词，也可以作不及物动词；作不及物动词时，主语是承受者，但用主动形式，表示事情自然发生或形成，如 A queue formed outside the shop（店外排起了长队）、Ice formed on the windows（窗户上结了冰）、The book sells well（这本书卖得好）。本句 An international standards committee formed 就是这种用法（视频说明：form，（组织）成立）。考研阅读中遇到这类主动形式表被动意义的句子，不要误以为主语是动作的发出者。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A long queue formed outside the ticket office as soon as the doors opened.",
+      "zh": "售票处一开门，外面就排起了长队。"
+     },
+     {
+      "en": "A small group of volunteers formed to clean up the river after the flood.",
+      "zh": "洪水过后，一小群志愿者组织起来清理河道。"
+     }
+    ]
+   },
+   {
+    "title": "名词复数作定语",
+    "explain": "名词作定语时一般用单数，如 a shoe shop、a book store；但有些名词作定语时保留复数，因为复数形式本身有特定含义，如 standards committee（标准委员会，standards 指“各项标准”）、sales department（销售部）、sports car（跑车）、arms race（军备竞赛）、savings account（储蓄账户）。本句 standards 用复数，表示委员会负责制定多项标准。写作中这类搭配要按惯用形式记，不能随意改成单数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She left the sales department to work as a freelance consultant.",
+      "zh": "她离开了销售部，去做自由职业顾问。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "international standards",
+    "explain": "国际标准，指由国际组织制定、各国通用的技术规范，如 meet international standards（符合国际标准）。本句 international standards 作定语修饰 committee，视频译为“国际标准”。"
+   },
+   {
+    "term": "committee",
+    "explain": "委员会，集合名词，可数；作主语时谓语可用单数（视为整体）或复数（强调成员个体，多见于英式英语）。常见搭配有 sit on a committee（担任委员会委员）、set up a committee（设立委员会）。"
+   },
+   {
+    "term": "国际标准化组织的集装箱委员会",
+    "explain": "国际标准化组织（ISO）于1961年设立了负责货运集装箱的技术委员会 ISO/TC 104，此后制定了一系列集装箱国际标准，与本句所说的时间一致。"
+   }
+  ],
+  "translation_tip": "视频译文“1961年，一个国际标准委员会成立。”的处理：①时间状语 in 1961 从句末提到句首，后加逗号，符合汉语先交代时间的习惯。②不及物的 formed 译为“成立”，用主动形式，汉语也不必加“被”。③不定冠词 An 译为“一个”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Sea-Land",
+   "predicate": "let",
+   "object_or_complement": "the committee（宾语）use its patents（宾语补足语）",
+   "explain": "主干是 Sea-Land let the committee use its patents，主谓宾宾补结构：let 是使役动词，后面的不定式 use 不带 to，作宾语补足语（视频说明：let sb do，让某人做）。谓语 let 的过去式与原形同形，这里是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In January 1963",
+    "role": "时间状语（介词短语）",
+    "zh": "1963年1月"
+   },
+   {
+    "text": "Sea-Land,",
+    "role": "主语（公司名）",
+    "zh": "海陆公司"
+   },
+   {
+    "text": "the Ideal X's renamed operator,",
+    "role": "同位语，补充说明 Sea-Land",
+    "zh": "即理想X号更名后的运营方"
+   },
+   {
+    "text": "let",
+    "role": "谓语（使役动词）",
+    "zh": "允许"
+   },
+   {
+    "text": "the committee",
+    "role": "宾语",
+    "zh": "该委员会"
+   },
+   {
+    "text": "use its patents",
+    "role": "宾语补足语（不带 to 的不定式短语）",
+    "zh": "使用其专利"
+   },
+   {
+    "text": "free of royalties,",
+    "role": "状语（形容词短语 free of，说明使用专利的条件）",
+    "zh": "不收取专利费"
+   },
+   {
+    "text": "including those on corner fittings for hoisting.",
+    "role": "补充说明 its patents（including 引导的介词短语）",
+    "zh": "包括用于吊装的角配件上的那些专利"
+   }
+  ],
+  "structure": "①主干是 Sea-Land let the committee use its patents：主语 Sea-Land，谓语 let，宾语 the committee，宾语补足语 use its patents。let 后接不带 to 的不定式（视频说明）。\n②句首 In January 1963 是时间状语。主语后的 the Ideal X's renamed operator 是同位语，说明海陆公司就是理想X号的运营方，只是改了名字；renamed 是过去分词作前置定语，表示“更名后的”。\n③free of royalties 是形容词短语作状语，说明委员会使用专利的条件：免收专利费（视频说明：free of，免除，不收）。\n④including those on corner fittings for hoisting 是 including 引导的介词短语，补充说明 its patents 包括哪些：those 代替前面的 patents，on corner fittings 是 those 的后置定语（关于角配件的专利），for hoisting 修饰 corner fittings，说明角配件的用途是吊装。corner fittings 是集装箱八个角上的金属件，用来吊起箱子和把箱子互相锁紧（视频说明）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "使役动词 let + 宾语 + 不带 to 的不定式",
+    "explain": "let、make、have 是常用的使役动词，主动语态中后面接“宾语 + 不带 to 的不定式”作宾语补足语，如 let sb do、make sb do、have sb do。本句 let the committee use its patents 中，use its patents 是宾补（视频说明）。易错点：let 没有被动语态的常规用法，表示被允许时多改用 be allowed to do；make 用于被动时要补出 to，如 He was made to wait。help 后接不定式时 to 可带可不带。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The landlord let the tenants keep a small garden behind the building.",
+      "zh": "房东允许租户在楼后开辟一个小花园。"
+     },
+     {
+      "en": "The teacher made the students rewrite the essay, but they were not made to stay late.",
+      "zh": "老师让学生们重写了文章，但没有让他们留到很晚。"
+     }
+    ]
+   },
+   {
+    "title": "those 代替前文的复数名词",
+    "explain": "为避免重复，英语常用 that 代替前面出现过的单数名词或不可数名词，用 those 代替复数名词，后面通常带后置定语，如 The climate here is milder than that of the north。本句 including those on corner fittings for hoisting 中，those 代替 patents，相当于 the patents on corner fittings for hoisting。考研阅读中，比较结构和补充说明里常出现 that of、those of、those on 等，要回到前文找它代替的名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The prices in the city centre are much higher than those in the suburbs.",
+      "zh": "市中心的价格比郊区的高得多。"
+     },
+     {
+      "en": "The new rules apply to all imports, including those from neighbouring countries.",
+      "zh": "新规适用于所有进口商品，包括来自邻国的商品。"
+     }
+    ]
+   },
+   {
+    "title": "including 引出补充成分",
+    "explain": "including 是介词，意为“包括”，引出前面名词所包含的部分例子，通常用逗号与前文隔开，放在句末作补充说明，如 several countries, including France and Spain。它列出的只是部分而非全部；如果要表示全部列举，用 namely 或冒号。本句 including those on corner fittings for hoisting 说明开放的专利中包括角配件方面的专利。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire destroyed several historic buildings, including the old town hall.",
+      "zh": "大火烧毁了几座历史建筑，其中包括老市政厅。"
+     }
+    ]
+   },
+   {
+    "title": "free of 表示“免除，不含”",
+    "explain": "free of（或 free from）意为“没有……的，免除……的”，后接通常不受欢迎的事物，如 free of charge（免费）、free of tax（免税）、free from pollution（无污染）。本句 free of royalties 意为“不收专利费”（视频说明）。注意 free 本身也可以表示“免费的”，如 free tickets；而 -free 作后缀构成复合形容词，如 tax-free、sugar-free、duty-free。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Museums in the city are open to the public free of charge on Sundays.",
+      "zh": "这座城市的博物馆每逢周日免费向公众开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Sea-Land",
+    "explain": "海陆公司（Sea-Land Service），理想X号运营公司改名后的名称，公司名本身体现了海运与陆运的衔接。本句 the Ideal X's renamed operator 交代了两者的关系，视频译为“即理想X号更名后的运营方”。"
+   },
+   {
+    "term": "patent",
+    "explain": "专利，可数名词，常见搭配有 hold a patent（拥有专利）、apply for a patent（申请专利）、a patent on sth（某物的专利）。公开专利、免收使用费，意味着任何厂家都可以按同一套设计生产，这正是统一标准的关键。"
+   },
+   {
+    "term": "royalty",
+    "explain": "常见义是“王室成员”（不可数集合用法），复数 royalties 指“专利使用费，版税”，即使用他人专利或作品时按比例支付的费用，如 pay royalties on sth。本句视频译为“专利费”。"
+   },
+   {
+    "term": "corner fittings",
+    "explain": "视频说明：集装箱八个角上的金属件，专门用来让吊车吊起箱子，并把箱子上下左右死死锁在一起。视频译为“角配件”。fitting 作名词指“配件，附件”，常用复数。"
+   },
+   {
+    "term": "hoist",
+    "explain": "（用绳索或机械）吊起，升起，如 hoist a flag（升旗）、hoist the cargo onto the ship（把货物吊上船）。本句 for hoisting 是“介词 + 动名词”，说明角配件的用途，视频译为“用于吊装的”。"
+   }
+  ],
+  "translation_tip": "视频译文“1963年1月，海陆公司，即理想X号更名后的运营方，允许该委员会使用其专利，不收取专利费，包括用于吊装的角配件上的那些专利。”的处理：①同位语保留在原位，用“即”引出，前后加逗号，与英文的插入结构对应。②let 译为“允许”，宾补 use its patents 译为“使用其专利”，its 用书面语“其”。③free of royalties 拆成独立短句“不收取专利费”。④including 短语放在句末，those 补出所指，译为“那些专利”；两层后置定语前置，按“用于吊装的角配件上的”由后往前译。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "a box",
+   "predicate": "could be transferred",
+   "object_or_complement": "",
+   "explain": "主干是 a box could be transferred，主谓结构。谓语 could be transferred 是“情态动词 + be + 过去分词”，表示被动意义：箱子是被转运的对象；could 表示过去具备的可能性或能力，视频译为“便能”。"
+  },
+  "components": [
+   {
+    "text": "Lifted by crane,",
+    "role": "状语（过去分词短语，表示条件或时间）",
+    "zh": "由吊机吊起"
+   },
+   {
+    "text": "a box",
+    "role": "主语",
+    "zh": "一只箱子"
+   },
+   {
+    "text": "could be transferred",
+    "role": "谓语（情态动词 could + 被动语态）",
+    "zh": "便能……转运"
+   },
+   {
+    "text": "smoothly",
+    "role": "方式状语（副词）",
+    "zh": "顺畅地"
+   },
+   {
+    "text": "between ship, lorry, and train.",
+    "role": "地点状语（介词短语，between 连接三个并列名词）",
+    "zh": "在船舶、卡车和火车之间"
+   }
+  ],
+  "structure": "①主干是 a box could be transferred，被动语态，主语 a box 是转运的对象。\n②句首 Lifted by crane 是过去分词短语作状语（视频说明），它的逻辑主语就是主句主语 a box：箱子是被吊起的一方，所以用过去分词。这个状语既可以理解为条件（只要用吊机吊起），也可以理解为时间（被吊起之后），相当于 When it was lifted by crane。\n③smoothly 修饰 transferred，说明转运的方式。between ship, lorry, and train 是地点状语，三个名词并列，用牛津逗号；视频说明指出这一状语在中文里提前（between A, B, and C：在 A、B 和 C 之间）。\n④by crane、ship、lorry、train 都是零冠词单数名词，表示交通工具或手段的类别，而不是具体的某一台吊机或某一艘船。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作状语",
+    "explain": "过去分词短语可以放在句首作状语，表示时间、条件、原因或伴随，它的逻辑主语必须是主句的主语，并且与之构成被动关系。本句 Lifted by crane 的逻辑主语是 a box，箱子被吊起（视频说明：过去分词短语作状语）。易错点是“垂悬分词”：如果分词的逻辑主语与主句主语不一致，句子就错了，如 Lifted by crane, the workers moved the box 不对，因为被吊起的不是工人。考研写作中使用分词状语时，要先确认主句主语就是分词动作的承受者。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Seen from the air, the island looks like a giant green turtle.",
+      "zh": "从空中看，这座岛像一只巨大的绿海龟。"
+     },
+     {
+      "en": "Stored in a cool, dry place, the seeds can remain usable for years.",
+      "zh": "种子只要储存在阴凉干燥的地方，就能多年保持可用。"
+     }
+    ]
+   },
+   {
+    "title": "by + 零冠词名词表示方式",
+    "explain": "介词 by 后接交通工具或手段时，名词前不加冠词，如 by crane、by train、by email、by hand。本句 Lifted by crane 中 crane 表示“用吊机”这种方式，不是指某一台具体的吊机。易错点：一旦名词前有限定词，就要换介词，如 by train 但 on the 8 o'clock train、by car 但 in my car。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the heavy parts are delivered by sea, while urgent ones are sent by air.",
+      "zh": "大部分重型零件经海运送达，急需的零件则走空运。"
+     }
+    ]
+   },
+   {
+    "title": "between 用于三者及以上",
+    "explain": "传统上认为 between 用于两者之间，among 用于三者以上；但当强调多个对象之间两两的关系时，between 也可以用于三者及以上，权威词典都承认这一用法，如 trade between France, Germany, and Italy。本句 between ship, lorry, and train 指箱子在任意两种运输工具之间转运，所以用 between。among 则强调“在……当中”，对象是一个整体，如 among the crowd。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty removed tariffs between Norway, Iceland, and Switzerland.",
+      "zh": "该条约取消了挪威、冰岛和瑞士之间的关税。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "crane",
+    "explain": "起重机，吊机；本义是鸟类“鹤”，起重机的长臂像鹤的长脖子，因而得名。动词 crane 意为“伸长脖子（看）”。本句视频译为“吊机”。"
+   },
+   {
+    "term": "lorry",
+    "explain": "卡车，货车，英式英语用词，美式英语说 truck。本文是英式英语，所以用 lorry，视频译为“卡车”。"
+   },
+   {
+    "term": "transfer",
+    "explain": "转移，转运，常见结构 transfer A from B to C；本句用 between，指在几种运输工具之间来回转运。作动词时重音在第二音节，作名词时重音在第一音节。"
+   },
+   {
+    "term": "多式联运",
+    "explain": "本句描述的就是集装箱的多式联运：同一只箱子不用开箱，就能在船舶、卡车和火车之间直接换装，这依赖于前一句所说的统一标准和角配件。"
+   }
+  ],
+  "translation_tip": "视频译文“由吊机吊起，一只箱子便能在船舶、卡车和火车之间顺畅地转运。”的处理：①过去分词状语 Lifted by crane 保留在句首，译为“由吊机吊起”，用“由”体现被动关系。②情态动词 could 译为“便能”，“便”字点明吊起之后就可以转运，体现了分词状语的条件意味。③地点状语 between ship, lorry, and train 和方式状语 smoothly 都提到动词前，译成“在船舶、卡车和火车之间顺畅地转运”（视频说明：中文状语提前）。④被动语态 be transferred 译成主动形式“转运”，不加“被”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "This efficiency",
+   "predicate": "came",
+   "object_or_complement": "",
+   "explain": "主干是 This efficiency came，主谓结构，at the expense of livelihoods 作状语，与 came 构成固定搭配 come at the expense of（以……为代价换来，视频说明）。谓语 came 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "This efficiency",
+    "role": "主语（This 回指上文所说的集装箱带来的高效率）",
+    "zh": "这种效率"
+   },
+   {
+    "text": "came",
+    "role": "谓语（与 at the expense of 构成 come at the expense of）",
+    "zh": "是……换来的"
+   },
+   {
+    "text": "at the expense of livelihoods.",
+    "role": "状语（介词短语，表示代价）",
+    "zh": "以生计为代价"
+   }
+  ],
+  "structure": "①主干是 This efficiency came，主谓结构；at the expense of livelihoods 是介词短语作状语，与 came 一起构成 come at the expense of（以……为代价换来）。\n②This efficiency 中的 This 回指前文的内容：理想X号的装载成本低（第2段）、标准统一后箱子能顺畅转运（第3段），这些都是“效率”。用 This + 抽象名词概括前文，是英语段落衔接的常见手段。\n③本句是第4段的主题句，语气由正面转向负面：效率提高的代价是码头工人的生计，下面三句分别用纽约海滨区就业人数缩减、货物转往伊丽莎白的新码头、伦敦老码头相继关闭来具体说明。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "come at + 代价",
+    "explain": "come 后接 at a price、at a cost、at the expense of 等，表示“以……为代价获得，需要付出……代价”，主语是得到的东西，如 Success came at a high price。本句 This efficiency came at the expense of livelihoods 意为效率是以生计为代价换来的（视频说明）。at the expense of 后面接付出代价的人或物（视频说明），如 at the expense of quality（以牺牲质量为代价）、at the expense of others（让别人受损）。考研阅读中，这类结构常出现在转折段落，提示作者对某事的利弊权衡。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city's rapid growth came at the expense of its green spaces.",
+      "zh": "这座城市的快速发展是以牺牲绿地为代价换来的。"
+     },
+     {
+      "en": "Cheap clothing often comes at a hidden cost to the environment.",
+      "zh": "廉价服装往往让环境付出看不见的代价。"
+     }
+    ]
+   },
+   {
+    "title": "This + 抽象名词概括上文",
+    "explain": "英语常用 this/these 加一个抽象名词，把上文讲的一系列具体内容概括起来，再接着往下论述，如 This trend、This approach、These changes。本句 This efficiency 概括了前文第2段的装载成本下降和第3段的箱子顺畅转运。阅读时，这类名词短语是段落之间的“接口”，弄清它指代的内容，就能把握上下段的逻辑关系；写作中用它衔接段落，比简单重复前文更简洁。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Prices rose, wages stalled, and savings shrank. This squeeze hit young families hardest.",
+      "zh": "物价上涨，工资停滞，储蓄缩水，这种挤压对年轻家庭的打击最大。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "at the expense of",
+    "explain": "视频说明：以牺牲……为代价，后面接付出代价的人或物，用于“得到了一样东西，却损害了另一样”。另有字面义“由……出钱”，如 at the company's expense（由公司出钱），at one's own expense（自费）。"
+   },
+   {
+    "term": "livelihood",
+    "explain": "生计，谋生手段，可数名词，复数 livelihoods 指许多人的生计，如 earn a livelihood（谋生）、threaten livelihoods（威胁生计）。本句指码头工人赖以为生的工作，视频译为“生计”。"
+   },
+   {
+    "term": "efficiency",
+    "explain": "效率，不可数名词；形容词 efficient（高效的），反义词 inefficiency、inefficient。常见搭配有 energy efficiency（能源效率）、improve efficiency（提高效率）。"
+   }
+  ],
+  "translation_tip": "视频译文“这种效率是以生计为代价换来的。”的处理：①came 与 at the expense of 合译为“是以……为代价换来的”，用汉语的“是……的”强调句式，突出代价。②This 译为“这种”，与抽象名词 efficiency 搭配更自然。③livelihoods 是复数，汉语不需要体现复数，译为“生计”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "New York's waterfront employment",
+   "predicate": "shrank",
+   "object_or_complement": "",
+   "explain": "主干是 New York's waterfront employment shrank，主谓结构，shrink 是不及物动词。by about three quarters 说明缩减幅度，between 1963 and 1976 说明时间范围。谓语 shrank 是 shrink 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "New York's waterfront employment",
+    "role": "主语（New York's 和 waterfront 都是 employment 的定语）",
+    "zh": "纽约海滨区的就业人数"
+   },
+   {
+    "text": "shrank",
+    "role": "谓语（不及物动词 shrink 的过去式）",
+    "zh": "缩减了"
+   },
+   {
+    "text": "by about three quarters",
+    "role": "程度状语（by 表示变化的幅度）",
+    "zh": "约四分之三"
+   },
+   {
+    "text": "between 1963 and 1976.",
+    "role": "时间状语（介词短语 between A and B）",
+    "zh": "在1963年至1976年间"
+   }
+  ],
+  "structure": "①主干是 New York's waterfront employment shrank，主语中心词是 employment，New York's 是名词所有格作定语，waterfront 是名词作定语，说明是纽约哪一部分的就业。\n②employment 在这里指“就业人数”，即在码头区工作的人数，视频取“就业人数”。\n③by about three quarters 中 by 表示变化的幅度（视频说明：shrink by，缩减了（幅度）），即减少的部分约占原来的四分之三，剩下的只有约四分之一。\n④between 1963 and 1976 是时间状语，视频说明指出它在中文里提前。本句用具体数字支撑上句 came at the expense of livelihoods 的论断。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "by 表示增减的幅度",
+    "explain": "rise、fall、increase、decrease、grow、shrink、cut 等表示增减的动词后面，用 by 引出变化的幅度（差额），用 to 引出变化后的结果。如 Sales rose by 20%（增长了20%）与 Sales rose to 20 million（增长到2000万）意思完全不同。本句 shrank by about three quarters 指“缩减了约四分之三”（视频说明）。考研阅读的数字细节题常在 by 和 to 上设干扰，翻译时“了”与“到”也要对应准确。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The number of farm workers fell by half between 1950 and 1970.",
+      "zh": "1950年至1970年间，农业工人的数量减少了一半。"
+     },
+     {
+      "en": "The company cut its workforce to 800, a reduction of nearly 40 per cent.",
+      "zh": "公司把员工人数削减到800人，减少了近40%。"
+     }
+    ]
+   },
+   {
+    "title": "分数的英文表达",
+    "explain": "英语分数的分子用基数词，分母用序数词，分子大于一时分母加 s，如 one third（三分之一）、two thirds（三分之二）、three fifths（五分之三）；二分之一是 a half，四分之一是 a quarter 或 one quarter，四分之三是 three quarters（美式英语也常说 three fourths）。本句 three quarters 即“四分之三”。分数作主语时，谓语单复数看 of 后面的名词，如 Three quarters of the land is desert；Three quarters of the workers were laid off。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nearly two thirds of the respondents said they would pay more for local produce.",
+      "zh": "近三分之二的受访者表示，他们愿意为本地农产品多付钱。"
+     }
+    ]
+   },
+   {
+    "title": "shrink 的不规则变化",
+    "explain": "shrink 是不规则动词，过去式 shrank（也作 shrunk），过去分词 shrunk，形容词 shrunken（缩小了的）。本句 shrank 是过去式，作谓语。shrink 作不及物动词时表示“缩小，减少”，如 The economy shrank by 2%；作及物动词时表示“使缩小”，如 Hot water can shrink wool。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The lake has shrunk dramatically over the past three decades.",
+      "zh": "在过去三十年里，这个湖大幅萎缩。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "waterfront",
+    "explain": "城市中临水的地区，海滨区，滨水区，常指港口城市的码头一带，如 on the waterfront（在码头区）、waterfront property（滨水房产）。本句作定语修饰 employment，指码头区的就业，视频译为“海滨区”。"
+   },
+   {
+    "term": "employment",
+    "explain": "常见义是“就业，雇用，工作”，本句指“就业人数”，与 shrank 搭配表示人数减少，视频译为“就业人数”。相关搭配有 full employment（充分就业）、employment rate（就业率）。"
+   }
+  ],
+  "translation_tip": "视频译文“纽约海滨区的就业人数在1963年至1976年间缩减了约四分之三。”的处理：①时间状语 between 1963 and 1976 从句末提到谓语前，译为“在1963年至1976年间”（视频说明：中文时间状语提前）。②employment 译为“就业人数”，使“缩减”有了可量化的对象。③by 表示幅度，译成“缩减了约四分之三”，用“了”而不是“到”，准确体现减少的部分。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Much of the cargo",
+   "predicate": "crossed",
+   "object_or_complement": "the harbour",
+   "explain": "主干是 Much of the cargo crossed the harbour，主谓宾结构，to a new terminal 说明去向。谓语 crossed 为一般过去时，主动语态。much of + 不可数名词作主语，谓语按单数处理。"
+  },
+  "components": [
+   {
+    "text": "Much of the cargo",
+    "role": "主语（much of + 不可数名词）",
+    "zh": "大量货物"
+   },
+   {
+    "text": "crossed",
+    "role": "谓语",
+    "zh": "穿过"
+   },
+   {
+    "text": "the harbour",
+    "role": "宾语",
+    "zh": "港湾"
+   },
+   {
+    "text": "to a new terminal",
+    "role": "方向状语（介词短语，to 表示去向）",
+    "zh": "前往……一处……新码头/港区"
+   },
+   {
+    "text": "at Elizabeth,",
+    "role": "后置定语（介词短语），修饰 terminal，说明所在地",
+    "zh": "伊丽莎白"
+   },
+   {
+    "text": "inaugurated in August 1962.",
+    "role": "后置定语（过去分词短语），修饰 terminal",
+    "zh": "于1962年8月启用的"
+   }
+  ],
+  "structure": "①主干是 Much of the cargo crossed the harbour：主语 Much of the cargo，谓语 crossed，宾语 the harbour。to a new terminal 是方向状语，说明货物去了哪里。\n②a new terminal 有两个后置定语：at Elizabeth 说明码头的位置；inaugurated in August 1962 是过去分词短语，前面有逗号与中心词隔开（视频说明：过去分词短语作后置定语，修饰 terminal），码头是“被启用”的一方，所以用过去分词，相当于 which was inaugurated in August 1962。\n③本句的意思是：货物不再在纽约原有的码头装卸，而是越过港湾转到新泽西一侧的新码头，这解释了上句纽约码头就业人数为什么大幅减少。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "被逗号隔开的过去分词短语作后置定语",
+    "explain": "过去分词短语作后置定语时，有时与中心词之间隔着其他修饰语，并用逗号隔开，起补充说明的作用，类似非限制性定语从句。本句 a new terminal at Elizabeth, inaugurated in August 1962 中，inaugurated 短语修饰的是 terminal，而不是紧挨着它的 Elizabeth（视频说明）。判断修饰对象要看语义：是码头在1962年启用，不是城市。考研长难句中，这种隔开的后置定语容易被误读为修饰最近的名词，或被误当作谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Visitors can tour a cotton mill near the river, built in 1820 and restored in the 1990s.",
+      "zh": "游客可以参观河边的一座棉纺厂，它建于1820年，20世纪90年代经过修复。"
+     },
+     {
+      "en": "The report cites a survey of 2,000 households, conducted by the national statistics office.",
+      "zh": "报告引用了一项针对2000户家庭的调查，该调查由国家统计局开展。"
+     }
+    ]
+   },
+   {
+    "title": "much of + 不可数名词",
+    "explain": "much of 后接带限定词的不可数名词，表示“……中的大部分，大量的……”，如 much of the cargo、much of the time；作主语时谓语用单数。可数名词复数要用 many of，如 many of the ships。cargo 在这里作不可数名词，指货物整体。much 作主语多见于正式文体，在肯定句中 much of 比单独的 much 更常用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Much of the damage was caused by the floodwater rather than the wind.",
+      "zh": "大部分损失是洪水而不是大风造成的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Elizabeth",
+    "explain": "伊丽莎白，美国新泽西州的城市，与纽瓦克相邻。本句 a new terminal at Elizabeth 指位于伊丽莎白的新集装箱码头，视频译为“伊丽莎白一处……新码头/港区”。"
+   },
+   {
+    "term": "harbour",
+    "explain": "港湾，港口，英式拼写，美式拼写为 harbor。本句指纽约港，货物从纽约一侧越过港湾，转到新泽西一侧。"
+   },
+   {
+    "term": "terminal",
+    "explain": "本文指货运码头、港区，如 a container terminal（集装箱码头）；也指交通工具的终点站、航站楼，如 an airport terminal；还有“计算机终端”和形容词“（疾病）晚期的”等义。视频译为“码头/港区”。"
+   },
+   {
+    "term": "inaugurate",
+    "explain": "为（新建筑、新设施）举行落成仪式，启用；为（总统等）举行就职典礼，如 be inaugurated as president。本句指新码头正式启用，视频译为“启用”。名词 inauguration。"
+   }
+  ],
+  "translation_tip": "视频译文“大量货物穿过港湾，前往伊丽莎白一处于1962年8月启用的新码头/港区。”的处理：①主句按原语序译出，to a new terminal 拆成独立的短句，用“前往”引出，与“穿过港湾”形成先后两个动作。②两个后置定语都前置：at Elizabeth 译为“伊丽莎白”，放在最前面作地点限定；过去分词短语 inaugurated in August 1962 译为“于1962年8月启用的”，紧挨在“新码头/港区”前。③不定冠词 a 译为量词“一处”。④Much of the cargo 译为“大量货物”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Most of London's historic docks；Felixstowe",
+   "predicate": "closed；expanded",
+   "object_or_complement": "",
+   "explain": "主句是 Most of London's historic docks closed，主谓结构，close 在这里是不及物动词；while 引导的从句 Felixstowe expanded 也是主谓结构。两个谓语都是一般过去时，主动语态，形成对比。"
+  },
+  "components": [
+   {
+    "text": "Most of London's historic docks",
+    "role": "主句主语（most of + 名词所有格 + 名词）",
+    "zh": "伦敦历史悠久的码头"
+   },
+   {
+    "text": "closed",
+    "role": "主句谓语（不及物动词）",
+    "zh": "关闭"
+   },
+   {
+    "text": "one after another",
+    "role": "方式状语",
+    "zh": "一个接一个地"
+   },
+   {
+    "text": "from 1967 to 1980,",
+    "role": "时间状语（介词短语 from A to B）",
+    "zh": "1967年到1980年"
+   },
+   {
+    "text": "while",
+    "role": "连词，表示对比",
+    "zh": "而"
+   },
+   {
+    "text": "Felixstowe,",
+    "role": "从句主语",
+    "zh": "费利克斯托"
+   },
+   {
+    "text": "on the Suffolk coast,",
+    "role": "插入语（介词短语），补充说明 Felixstowe 的位置",
+    "zh": "位于萨福克海岸的"
+   },
+   {
+    "text": "expanded.",
+    "role": "从句谓语（不及物动词）",
+    "zh": "则扩张了"
+   }
+  ],
+  "structure": "①主句是 Most of London's historic docks closed one after another from 1967 to 1980：主语中心词是 Most，of London's historic docks 说明是哪些码头中的大部分；谓语 closed 是不及物动词；one after another 是方式状语（视频说明：一个接一个地），from 1967 to 1980 是时间状语（视频说明：中文时间状语提前）。\n②while 表示对比（视频说明：while，表示对比，而），引导的从句 Felixstowe expanded 与主句形成鲜明反差：伦敦的老码头衰落，费利克斯托的港口扩张。\n③on the Suffolk coast 夹在从句主语和谓语之间，前后有逗号，是插入语（视频说明），说明 Felixstowe 的地理位置。\n④本句把视角从纽约转到英国，说明集装箱化在大西洋两岸都造成了同样的格局：老港口衰落，适合集装箱作业的新港口兴起。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "while 表示对比",
+    "explain": "while 除了表示“当……时”，还可以表示对比，意为“而，然而”，连接两个对照鲜明的分句，前面常有逗号，如 Some people like tea, while others prefer coffee。本句 while Felixstowe expanded 与主句的 docks closed 形成对比（视频说明）。while 还可以表示让步，意为“虽然”，常放在句首，如 While I understand your point, I can't agree。考研阅读中，while 是判断作者对比、转折逻辑的重要信号，要根据上下文确定它表示时间、对比还是让步。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Rural schools struggled to recruit teachers, while urban schools had long waiting lists.",
+      "zh": "农村学校很难招到教师，而城市学校的应聘者却要排长队。"
+     },
+     {
+      "en": "While the plan is ambitious, it lacks a clear source of funding.",
+      "zh": "这个计划虽然雄心勃勃，却缺乏明确的资金来源。"
+     }
+    ]
+   },
+   {
+    "title": "most of + 限定词 + 名词",
+    "explain": "most 后面直接接名词时表示泛指，如 Most people agree；后面接带 the、所有格、this 等限定词的名词时，要用 most of，如 most of the students、most of London's docks。不能说 most of people，也不能说 the most of the docks。most of 后的名词是复数时谓语用复数，是不可数名词时谓语用单数。本句 Most of London's historic docks 指伦敦历史悠久的码头中的大多数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the town's factories were built before the First World War.",
+      "zh": "镇上的大多数工厂都建于第一次世界大战之前。"
+     }
+    ]
+   },
+   {
+    "title": "one after another 与 one another",
+    "explain": "one after another 意为“一个接一个地，相继”，作状语，强调先后顺序，如 The lights went out one after another（灯一盏接一盏地熄灭了）；one another 意为“互相”，是代词，作宾语，如 They helped one another。两者只差一个词，意思完全不同。本句 closed one after another 指码头相继关闭（视频说明）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Small shops on the high street closed one after another after the mall opened.",
+      "zh": "购物中心开业后，大街上的小商店一家接一家地关门了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Felixstowe",
+    "explain": "费利克斯托，英国英格兰东部萨福克郡（Suffolk）沿海的港口城镇，费利克斯托港如今是英国最大的集装箱港口。本句视频译为“位于萨福克海岸的费利克斯托”。"
+   },
+   {
+    "term": "Suffolk",
+    "explain": "萨福克，英格兰东部的郡，濒临北海。on the Suffolk coast 意为“在萨福克海岸”，coast 前用介词 on。"
+   },
+   {
+    "term": "historic",
+    "explain": "历史悠久的，有历史意义的，如 a historic building（历史建筑）、a historic moment（历史性时刻）。本句 London's historic docks 指伦敦历史悠久的老码头，视频译为“历史悠久的”。注意与 historical（历史上的，与历史有关的）区分。"
+   },
+   {
+    "term": "dock",
+    "explain": "码头，船坞；the docks 常指港口城市的整片码头区。本句复数 docks 指伦敦的多个码头。dock 还可以作动词，意为“（船）进港停靠，（航天器）对接”。"
+   }
+  ],
+  "translation_tip": "视频译文“1967年到1980年，伦敦历史悠久的码头一个接一个地关闭，而位于萨福克海岸的费利克斯托则扩张了。”的处理：①时间状语 from 1967 to 1980 从句中移到句首（视频说明：中文时间状语提前），统领整句。②方式状语 one after another 放在动词“关闭”之前，译为“一个接一个地”。③while 译为“而”，从句谓语前加“则”，加强对比语气。④插入语 on the Suffolk coast 前置为定语“位于萨福克海岸的”，修饰“费利克斯托”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "The rewards",
+   "predicate": "were",
+   "object_or_complement": "substantial",
+   "explain": "主干是 The rewards were substantial，主系表结构，谓语 were 为一般过去时。本句是第5段的主题句，概括集装箱化带来的好处。"
+  },
+  "components": [
+   {
+    "text": "The rewards",
+    "role": "主语",
+    "zh": "回报"
+   },
+   {
+    "text": "were",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "substantial.",
+    "role": "表语（形容词）",
+    "zh": "相当可观"
+   }
+  ],
+  "structure": "①本句是简单的主系表结构：主语 The rewards，系动词 were，表语 substantial。\n②The rewards 用定冠词，特指集装箱化带来的回报，与上一段讲的代价（at the expense of livelihoods）相对：上一段讲付出，这一段讲收获。\n③本句是第5段的主题句，下一句用2016年的研究数据具体说明“回报可观”体现在哪里。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "主题句与段落的总分结构",
+    "explain": "英语议论性文章常用“总分”结构：段首用一个简短的判断句概括全段，后面的句子提供数据、例子或论证。本句 The rewards were substantial 先给出结论，下一句用研究数据证明。考研阅读做段落主旨题时，先看段首的这类概括句；写作时也可以借鉴，先写主题句，再展开论证。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The benefits were immediate. Within a year, waiting times had fallen by a third.",
+      "zh": "效果立竿见影。不到一年，等候时间就缩短了三分之一。"
+     }
+    ]
+   },
+   {
+    "title": "reward 用复数表示“回报，好处”",
+    "explain": "reward 作“报酬，奖赏”讲时可数，复数 rewards 常泛指做某事得到的种种好处，如 the rewards of hard work（勤奋的回报）、reap the rewards（获得回报）。本句 The rewards 指集装箱化带来的经济回报。与之相对，costs、risks 常用复数表示种种代价和风险，阅读中常见 weigh the costs and rewards（权衡成本与回报）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The risks of the venture were high, but so were the potential rewards.",
+      "zh": "这次投资风险很高，但潜在的回报也很高。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "substantial",
+    "explain": "（数量、价值、重要性）大的，可观的，相当多的，如 a substantial increase（大幅增长）、substantial evidence（大量证据）。本句视频译为“可观”。"
+   },
+   {
+    "term": "reward",
+    "explain": "回报，报酬，奖赏；动词义是“奖励，回报”，如 reward sb for sth。形容词 rewarding 意为“值得做的，有益的”，如 a rewarding job。"
+   }
+  ],
+  "translation_tip": "视频译文“回报相当可观。”的处理：①系动词 were 不单独译出，形容词表语 substantial 直接作谓语，译为“可观”。②增补“相当”，加强程度，与原文 substantial 表示“相当大”的语气相符。③The rewards 中的定冠词不必译出。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "A study",
+   "predicate": "estimated",
+   "object_or_complement": "that containerisation had lifted trade between industrialised countries by a cumulative 700 per cent over 20 years（宾语从句）",
+   "explain": "主干是 A study estimated that…，主谓宾结构，宾语是 that 引导的宾语从句（视频说明）。主句谓语 estimated 为一般过去时；从句谓语 had lifted 为过去完成时，表示在研究估计之前的那20年间已经发生的变化。"
+  },
+  "components": [
+   {
+    "text": "A study",
+    "role": "主句主语",
+    "zh": "一项……研究"
+   },
+   {
+    "text": "published in the Journal of International Economics in 2016",
+    "role": "后置定语（过去分词短语），修饰 study",
+    "zh": "2016年发表于《国际经济学杂志》的"
+   },
+   {
+    "text": "estimated",
+    "role": "主句谓语",
+    "zh": "估计"
+   },
+   {
+    "text": "that containerisation had lifted trade between industrialised countries by a cumulative 700 per cent over 20 years.",
+    "role": "宾语从句（that 引导，作 estimated 的宾语）",
+    "zh": "集装箱化在20年间使工业化国家之间的贸易提高了累计700%"
+   }
+  ],
+  "structure": "①主句是 A study estimated that…：主语 A study，谓语 estimated，宾语是 that 引导的宾语从句（视频说明）。主语和谓语之间隔着一个很长的过去分词短语，读的时候要越过它找到谓语 estimated。\n②published in the Journal of International Economics in 2016 是过去分词短语作后置定语，修饰 study（视频说明），相当于 which was published…；in the Journal of International Economics 说明发表的刊物，in 2016 说明发表的时间。\n③that 从句中：主语 containerisation，谓语 had lifted，宾语 trade；between industrialised countries 修饰 trade；by a cumulative 700 per cent 说明增长幅度（视频说明：lift A by B，使 A 增长 B）；over 20 years 是时间状语（视频说明：20年间）。that 在宾语从句中只起连接作用，不充当成分。\n④a cumulative 700 per cent 是“不定冠词 + 形容词 + 数量”结构，cumulative 说明这是20年间累计的增幅，而不是每年的增幅。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导的宾语从句与过去完成时",
+    "explain": "estimate、find、show、suggest、report 等动词后常接 that 引导的宾语从句，转述研究结论；that 只起连接作用，在从句中不充当成分，口语中常省略。主句谓语是过去时的时候，从句时态要相应后移：从句动作发生在主句之前，用过去完成时。本句主句 estimated 是过去时，研究估计的是此前20年已经发生的增长，所以从句用 had lifted。考研阅读中，study、research、survey 作主语加 that 从句的句子极多，题目常考研究结论本身，要准确找出从句主干。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The survey found that nearly half of the respondents had never visited a museum.",
+      "zh": "调查发现，近一半的受访者从未参观过博物馆。"
+     },
+     {
+      "en": "Researchers reported that the drug had reduced symptoms in most patients within a week.",
+      "zh": "研究人员报告说，这种药物在一周内就减轻了大多数患者的症状。"
+     }
+    ]
+   },
+   {
+    "title": "a + 形容词 + 数量",
+    "explain": "数字前通常不加冠词，但数字前有形容词修饰、把整个数量当作一个整体时，可以加不定冠词，如 a staggering 40 per cent（高达40%）、an estimated 2 million people（估计200万人）、a record 3 billion dollars（创纪录的30亿美元）、an extra 10 minutes（额外的10分钟）。本句 by a cumulative 700 per cent 即属此类，cumulative 说明这是累计的增幅。新闻和学术文体中这种结构很常见，阅读时要注意形容词往往表达作者对数字的评价或说明数字的性质。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "An estimated 3 million people watched the final on television.",
+      "zh": "估计有300万人通过电视观看了决赛。"
+     },
+     {
+      "en": "Prices rose by a staggering 40 per cent in a single year.",
+      "zh": "物价在一年之内上涨了惊人的40%。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语造成主谓分离",
+    "explain": "主语后面接较长的过去分词短语作后置定语时，主语和谓语会被隔开，如本句 A study published in the Journal of International Economics in 2016 estimated…。识别方法：published 后面没有宾语，接的是 in 引导的介词短语，说明它是被动意义的分词；句子后面还有真正的谓语 estimated，所以 published 只能作定语。考研长难句常用这种结构增加难度。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A report released by the ministry last week warned of rising youth unemployment.",
+      "zh": "该部上周发布的一份报告警告称，青年失业率正在上升。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Journal of International Economics",
+    "explain": "《国际经济学杂志》，国际经济学领域的学术期刊。期刊、报纸、书籍名称在汉语中加书名号，视频译为“《国际经济学杂志》”。"
+   },
+   {
+    "term": "containerisation",
+    "explain": "集装箱化，指用标准集装箱进行货物运输的方式。由 container + -ise（使……化）+ -ation 构成，英式拼写，美式拼写为 containerization。本文的 industrialised（美式 industrialized）、per cent（美式多写作 percent）也都是英式写法。"
+   },
+   {
+    "term": "lift",
+    "explain": "熟词僻义：常见义是“举起，抬起”，本句指“使（数量、水平）提高”，如 lift exports、lift living standards。lift A by B 意为“使 A 增长 B”（视频说明）。"
+   },
+   {
+    "term": "industrialised countries",
+    "explain": "工业化国家，指工业发达的国家，常与 developing countries（发展中国家）相对。"
+   },
+   {
+    "term": "per cent",
+    "explain": "百分之……，英式英语常分写为 per cent，美式英语多写作 percent，符号是 %。700 per cent 即“700%”，增长700%意味着增长后的数值是原来的八倍。"
+   }
+  ],
+  "translation_tip": "视频译文“一项2016年发表于《国际经济学杂志》的研究估计，集装箱化在20年间使工业化国家之间的贸易提高了累计700%。”的处理：①后置定语 published in… in 2016 前置，译为“2016年发表于《国际经济学杂志》的”，时间提到前面，修饰“研究”；不定冠词 A 译为“一项”。②主语较长，谓语“估计”后加逗号，再接宾语从句的内容。③从句中的时间状语 over 20 years 提到动词前，译为“在20年间”。④lift A by B 用“使……提高了……”的结构译出，cumulative 译为“累计”。"
+ },
+ {
+  "n": 20,
+  "trunk": {
+   "subject": "Tireless cranes",
+   "predicate": "lift",
+   "object_or_complement": "identical containers",
+   "explain": "主干是 Tireless cranes lift identical containers，主谓宾结构，into orderly, immense stacks 说明吊起后的结果（视频说明：lift A into B，把 A 吊起码成 B）。谓语 lift 为一般现在时，与 now 呼应，描述今天的现状，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Tireless",
+    "role": "定语，修饰 cranes",
+    "zh": "不知疲倦的"
+   },
+   {
+    "text": "cranes",
+    "role": "主语中心词",
+    "zh": "吊机"
+   },
+   {
+    "text": "now",
+    "role": "时间状语（副词）",
+    "zh": "如今"
+   },
+   {
+    "text": "lift",
+    "role": "谓语（一般现在时）",
+    "zh": "把……吊起"
+   },
+   {
+    "text": "identical containers",
+    "role": "宾语",
+    "zh": "一模一样的集装箱"
+   },
+   {
+    "text": "into orderly, immense stacks.",
+    "role": "结果状语（介词短语，into 表示变成的结果）",
+    "zh": "码成整齐的、巨大的箱垛"
+   }
+  ],
+  "structure": "①主干是 Tireless cranes lift identical containers：主语 Tireless cranes，谓语 lift，宾语 identical containers。now 是时间状语，放在主语和谓语之间，与一般现在时一起表示当今的状况，和文章开头1956年的场景形成对照。\n②into orderly, immense stacks 是介词短语作状语，into 表示动作的结果，lift A into B 意为“把 A 吊起码成 B”（视频说明）。\n③stacks 前有两个并列形容词 orderly 和 immense，中间用逗号隔开，分别说明箱垛整齐、巨大。\n④Tireless 用拟人手法形容吊机昼夜不停地工作，与第6句人工搬运的 strenuous drudgery 形成对照；identical 呼应第3段讲的统一标准：箱子尺寸一致，才能码成整齐的箱垛。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "并列形容词之间用逗号",
+    "explain": "两个形容词从不同角度同等地修饰一个名词时，叫并列形容词，中间用逗号或 and 隔开，如 a long, difficult journey、orderly, immense stacks。判断方法：两个形容词可以互换位置，或者中间可以加 and，意思不变，就要用逗号。如果前一个形容词修饰的是“后一个形容词 + 名词”这个整体，就不加逗号，如 a large white house、an old wooden bridge。本句 orderly 和 immense 可以说成 orderly and immense stacks，所以用逗号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The expedition faced a long, dangerous climb through the night.",
+      "zh": "考察队要连夜进行一段漫长而危险的攀登。"
+     },
+     {
+      "en": "She lives in a small brick cottage at the edge of the village.",
+      "zh": "她住在村边一座小小的砖砌村舍里。"
+     }
+    ]
+   },
+   {
+    "title": "介词 into 表示结果",
+    "explain": "into 除了表示进入某处，还常表示动作造成的结果或状态的变化，意为“使成为”，如 cut the cake into pieces（把蛋糕切成块）、turn water into ice、translate English into Chinese。本句 lift identical containers into orderly, immense stacks 意为把集装箱吊起码成箱垛（视频说明）。写作中“把 A 变成 B”常用 turn/change/transform A into B。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Volunteers sorted the donated books into neat piles by subject.",
+      "zh": "志愿者把捐赠的书按学科分成整齐的几摞。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时描述现状",
+    "explain": "一般现在时可以描述当前经常发生的事或现存的状态，常与 now、today、nowadays 连用。本句 now lift 描述今天港口的常态，与全文其余部分的一般过去时形成对比：前文叙述历史，结尾回到现在，点明集装箱的影响延续至今。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Robots now assemble most of the components that workers once fitted by hand.",
+      "zh": "如今，过去由工人手工装配的大部分零件都由机器人组装。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tireless",
+    "explain": "不知疲倦的，孜孜不倦的，由 tire（使疲倦）+ -less（没有）构成，常形容人，如 a tireless campaigner（不知疲倦的活动家）、tireless efforts（不懈的努力）。本句用来形容吊机，是拟人手法，视频译为“不知疲倦的”。"
+   },
+   {
+    "term": "identical",
+    "explain": "完全相同的，一模一样的，常与 to 或 with 搭配，如 be identical to sth；identical twins 指同卵双胞胎。本句视频译为“一模一样的”。"
+   },
+   {
+    "term": "orderly",
+    "explain": "以 -ly 结尾但是形容词，意为“整齐的，有秩序的”，如 an orderly queue（排列整齐的队伍）、in an orderly manner（有秩序地）。类似以 -ly 结尾的形容词还有 friendly、lovely、costly、elderly。"
+   },
+   {
+    "term": "stack",
+    "explain": "（整齐的）一堆，一摞，如 a stack of books/boxes；动词义是“堆叠，码放”。本句指集装箱码成的堆，视频译为“箱垛”。"
+   },
+   {
+    "term": "immense",
+    "explain": "巨大的，极大的，语气比 large、huge 更强调规模之大，如 immense pressure（巨大的压力）、of immense importance（极其重要）。副词 immensely（非常，极其）。"
+   }
+  ],
+  "translation_tip": "视频译文“如今，不知疲倦的吊机把一模一样的集装箱吊起，码成整齐的、巨大的箱垛。”的处理：①时间状语 now 提到句首，译为“如今”，后加逗号。②lift A into B 用“把”字句拆成两个动作：“把……集装箱吊起”和“码成……箱垛”，into 表示的结果用动词“码成”译出。③两个并列形容词按原顺序译为“整齐的、巨大的”，中间用顿号，对应英文的逗号。④stacks 结合语境具体化为“箱垛”。"
+ }
+]
