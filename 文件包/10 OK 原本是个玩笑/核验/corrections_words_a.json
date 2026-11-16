@@ -1,0 +1,51 @@
+[
+ {
+  "key": "id=1",
+  "field": "related.2.zh",
+  "before": "常去（某地），注意动词重音在第二音节",
+  "after": "常去（某地）；动词英式读音重音在第二音节，美式也常读作重音在第一音节",
+  "reason": "Cambridge、Merriam-Webster 都收美式第一音节重音的读法，原说法过于绝对"
+ },
+ {
+  "key": "id=6",
+  "field": "etymology",
+  "before": "14世纪后期进入英语时意为“喜剧的”，“滑稽的，好笑的”一义后来才出现。",
+  "after": "进入英语时意为“喜剧的”，“滑稽的，好笑的”一义后来才出现。",
+  "reason": "Etymonline、Merriam-Webster 记 comic 形容词始见于16世纪，“14世纪后期”无据，删去年代"
+ },
+ {
+  "key": "id=12",
+  "field": "senses.1.zh",
+  "before": "（言谈、文字）显得缺乏教养的",
+  "after": "（言谈、观点）显得没受过教育的，显得没文化的",
+  "reason": "Oxford 义为 showing a lack of education，“缺乏教养”指礼貌修养，意思不对"
+ },
+ {
+  "key": "id=20",
+  "field": "etymology",
+  "before": "英语早先拼作 gloze，16世纪按拉丁语改拼为 gloss，动词用法也在这时出现。",
+  "after": "中古英语拼作 glose，16世纪按拉丁语改拼为 gloss。",
+  "reason": "动词在中古英语中已有（glose），“动词用法16世纪才出现”不符合 Etymonline 记载，删去"
+ },
+ {
+  "key": "id=24",
+  "field": "context_usage",
+  "before": "只是推断，并没有确凿的署名证据，所以",
+  "after": "只是推断，并未得到确证，所以",
+  "reason": "“没有署名证据”是原文没有的信息，属于无据推断"
+ },
+ {
+  "key": "id=26",
+  "field": "context_usage",
+  "before": "“党派政治”指第9到12句写到的1840年大选期间，各方阵营借报纸互相宣传和攻击的局面；",
+  "after": "“党派政治”指第9到11句写到的1840年大选中各党派阵营的宣传造势；",
+  "reason": "第8句总领的是第三段（第9到11句）；“互相攻击”原文未写，删去无据内容"
+ },
+ {
+  "key": "id=27",
+  "field": "etymology",
+  "before": "15世纪中期进入英语，后用于",
+  "after": "16世纪进入英语，后用于",
+  "reason": "Etymonline 记 propagate 始见于1560年代，Merriam-Webster 记1570年，非15世纪中期"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "key": "id=38",
+  "field": "context_usage",
+  "before": "这则抹黑刊登于1840年3月，正值第9到11句所写的总统大选之年，属于第8句所说党派政治的一部分。",
+  "after": "这则抹黑刊登于1840年3月，正值第9到11句所写的总统大选之年。",
+  "reason": "原文没有说这则抹黑出于党派政治，删去无据推断"
+ },
+ {
+  "key": "id=43",
+  "field": "context_usage",
+  "before": "而大约二十年后，人们真的郑重其事地在文件上这样批注了，",
+  "after": "而此后大约二十年内，人们就真的郑重其事地在文件上这样批注了，",
+  "reason": "原文是 Within about twenty years（在大约二十年内），不是“二十年后”"
+ },
+ {
+  "key": "id=44",
+  "field": "context_usage",
+  "before": "但大约二十年后人们真的这样批了（第14句），",
+  "after": "但此后大约二十年内人们就真的这样批了（第14句），",
+  "reason": "原文是 Within about twenty years（在大约二十年内），不是“二十年后”"
+ },
+ {
+  "key": "id=46",
+  "field": "context_usage",
+  "before": "却只比人们真正这样做（第14句）早了大约二十年。",
+  "after": "却只是早于人们真正这样做的时候（第14句：在大约二十年内）。",
+  "reason": "原文 within about twenty years 只说在约二十年之内，不能说“早了大约二十年”"
+ },
+ {
+  "key": "id=49",
+  "field": "senses.1.zh",
+  "before": "专断的，命令式的",
+  "after": "威严的，命令式的（表现出期待别人服从）",
+  "reason": "Oxford 释义为 showing that you expect people to obey，“专断的”接近 authoritarian"
+ },
+ {
+  "key": "id=49",
+  "field": "usage_detail",
+  "before": "表示“专断”时修饰人的语气、态度。",
+  "after": "表示“威严、命令式”时修饰人的语气、态度，如 an authoritative voice。",
+  "reason": "与改正后的义项一致"
+ }
+]

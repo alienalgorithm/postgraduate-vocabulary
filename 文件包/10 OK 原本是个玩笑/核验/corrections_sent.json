@@ -1,0 +1,51 @@
+[
+ {
+  "key": "n=1",
+  "field": "structure",
+  "before": "中心词是 word，前面有三层修饰：the planet's 是名词所有格，表示范围；most frequently 是副词最高级，修饰过去分词 spoken；spoken 作前置定语，表示“被说出的”。",
+  "after": "中心词是 word，前面有两个修饰成分：the planet's 是名词所有格，表示范围；most frequently spoken 整体作前置定语，其中过去分词 spoken 表示“被说出的”，副词最高级 most frequently 修饰 spoken。",
+  "reason": "most frequently 修饰的是 spoken，不直接修饰 word，说“三层修饰”层次不准，改为两个修饰成分并说明内部关系"
+ },
+ {
+  "key": "n=2",
+  "field": "grammar.0.explain",
+  "before": "如果改用 since，就要写成 had been。",
+  "after": "如果改用 since，谓语就要用完成时，以过去某一时刻为参照时写成 had been。",
+  "reason": "since 句改用 had been 需要过去参照点，补全条件，避免规则说得绝对"
+ },
+ {
+  "key": "n=7",
+  "field": "structure",
+  "before": "表示作者身份是推断出来的，原文并没有署名可以确证；",
+  "after": "表示作者身份是推断出来的，并未得到确证；",
+  "reason": "“原文并没有署名”是原文没有的信息，属于无据推断，删去"
+ },
+ {
+  "key": "n=8",
+  "field": "grammar.0.explain",
+  "before": "本句谓语用过去式 propagated，看不出单复数，改成现在时则要写 Partisan politics propagates…。",
+  "after": "本句谓语用过去式 propagated，看不出单复数，改成现在时一般写 Partisan politics propagates…（英式英语中这一义有时也接复数谓语）。",
+  "reason": "Oxford 标注 politics 表“政治活动”时可接单数或复数谓语，“则要写”过于绝对"
+ },
+ {
+  "key": "n=12",
+  "field": "components.9.role",
+  "before": "状语（介词短语，for 意为“代表”，说明 O.K. 代表什么）",
+  "after": "补充说明 O.K. 的介词短语（for 意为“代表”，相当于 standing for 'Ole Kurrek'，说明 O.K. 代表什么）",
+  "reason": "for 'Ole Kurrek' 说明的是 O.K. 的含义，与第2句 O.W. for 'oll wright' 同理，不是修饰谓语的状语"
+ },
+ {
+  "key": "n=15",
+  "field": "structure",
+  "before": "只是出现得太早，大约二十年后人们真的这样批注了。",
+  "after": "只是出现得太早，此后大约二十年内人们就真的这样批注了。",
+  "reason": "原文是 Within about twenty years（在大约二十年内），不是“二十年后”"
+ },
+ {
+  "key": "n=17",
+  "field": "knowledge.0.explain",
+  "before": "也可指“专断的，命令式的”，如 an authoritative tone。",
+  "after": "也可指“威严的，命令式的”（表现出期待别人服从），如 an authoritative tone。",
+  "reason": "Oxford 释义为 showing that you expect people to obey，应为“威严的，命令式的”；“专断的”接近 authoritarian，易与下文辨析混淆"
+ }
+]
