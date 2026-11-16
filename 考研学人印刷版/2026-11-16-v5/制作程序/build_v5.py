@@ -352,7 +352,7 @@ def front(b, meta, chapters, cover_img, n_vocab):
     # user 2026-11-16: no title page (扉页) — preface follows the cover
     b.new_page('前言'); b.mark('前言', 0)
     pf = meta['preface_v5']                          # user 2026-11-16: more engaging preface, "4300"
-    assert 4200 < n_vocab <= 4300, n_vocab           # keeps the wording “近4300” true
+    assert 4100 <= n_vocab <= 4500, n_vocab          # keeps the wording “4300个左右” true (user: “就说4300 上下左右”)
     page0, x = b.page, b.x0()
     c.setFont('ZH', 24); c.setFillColor(colors.HexColor(INK)); c.drawString(x, b.y - 24, '前言')
     c.setFont('ENDI', 12.5); c.setFillColor(colors.HexColor(ACCENT)); c.drawString(x + 58, b.y - 23, 'Preface')
