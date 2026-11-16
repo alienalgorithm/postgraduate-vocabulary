@@ -1,0 +1,1477 @@
+{
+ "no": "62",
+ "title_en": "The Man Who Gave Machines a Mind",
+ "title_zh": "为机器点燃思想的人",
+ "source_id": "23",
+ "source_hashes": {
+  "JSON": "f028b036adbf5a45c44af93ef7a6c841ddc9da3de58384971d7925a71180baf0",
+  "GEN": "f028b036adbf5a45c44af93ef7a6c841ddc9da3de58384971d7925a71180baf0",
+  "MD": "189afd1aa2e827f07d5231984f0c7ab490cd3137eefb830bbad8c85373626eac",
+  "illustration": "c684e8b0749c81a111156fb0acfc9351b2fbbf46f47a3594b07d8b173db92f08"
+ },
+ "summary": [
+  [
+   "理论",
+   "1936年，图灵提出按指令执行各种计算的通用机器模型，为现代计算机奠定理论基础。"
+  ],
+  [
+   "破译",
+   "图灵团队借鉴波兰的破译成果，▹1940年用机器自动搜索德国海军密码机每天的设置，加速破译。"
+  ],
+  [
+   "测试",
+   "1950年，他提出模仿游戏：通过打字交谈，▹负责问话的人若不能稳定分清人和机器，机器就通过测试。"
+  ],
+  [
+   "迫害",
+   "1952年图灵因同性恋行为获罪，被取消涉密资格，▹为免入狱接受激素注射；1954年死于氰化物中毒。"
+  ],
+  [
+   "追认",
+   "其死被判为自杀，但有人质疑。英国2009年道歉、▹2013年给予身后赦免；2021年肖像登上50镑钞票。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "Born in June 1912, Alan Turing had a formidable intellect by his early twenties.",
+   "zh": "艾伦·图灵生于1912年6月，他已拥有强大的才智，二十出头时。",
+   "en_markup": "Born in June 1912, Alan Turing had a **formidable** **intellect** by his early twenties.",
+   "zh_markup": "艾伦·图灵生于1912年6月，他已拥有**强大的**(formidable)**才智**(intellect)，二十出头时。",
+   "video_notes": [
+    "（Born in…：过去分词短语作状语，说明出生时间；by…：到……时为止；formidable 常译为“强大的、令人敬畏的”，多指实力极强、规模宏大或难度极高，足以给人带来压迫感或让人难以应对）"
+   ],
+   "chunks": [
+    {
+     "en": "Born in June 1912, Alan Turing had a formidable intellect by his early twenties.",
+     "zh": "艾伦·图灵生于1912年6月，他已拥有强大的才智，二十出头时。"
+    }
+   ],
+   "align": [
+    [
+     "Born in June 1912, Alan Turing",
+     "艾伦·图灵生于1912年6月，"
+    ],
+    [
+     "had",
+     "他已拥有"
+    ],
+    [
+     "a formidable",
+     "强大的"
+    ],
+    [
+     "intellect",
+     "才智，"
+    ],
+    [
+     "by his early twenties.",
+     "二十出头时。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "In a paper read in November 1936, he outlined a \"universal machine\": a device able to execute any computation, given the right instructions.",
+   "zh": "在1936年11月宣读的一篇论文中，他勾勒了一种“通用机器”：一种能执行任何计算的装置，只要给出正确的指令。",
+   "en_markup": "In a paper read in November 1936, he **outlined** a \"universal machine\": a **device** able to **execute** any **computation**, given the right instructions.",
+   "zh_markup": "在1936年11月宣读的一篇论文中，他**勾勒了**(outlined)一种“通用机器”：一种能**执行**(execute)任何**计算**(computation)的**装置**(device)，只要给出正确的指令。",
+   "video_notes": [
+    "（read in…：过去分词短语作后置定语，修饰 paper）",
+    "（冒号后是同位语，说明 universal machine；able to…：形容词短语作后置定语，修饰 device；given…：只要给出……，表条件）"
+   ],
+   "chunks": [
+    {
+     "en": "In a paper read in November 1936, he outlined a \"universal machine\":",
+     "zh": "在1936年11月宣读的一篇论文中，他勾勒了一种“通用机器”："
+    },
+    {
+     "en": "a device able to execute any computation, given the right instructions.",
+     "zh": "一种能执行任何计算的装置，只要给出正确的指令。"
+    }
+   ],
+   "align": [
+    [
+     "In a paper read in November 1936,",
+     "在1936年11月宣读的一篇论文中，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "outlined",
+     "勾勒了"
+    ],
+    [
+     "a \"universal machine\":",
+     "一种“通用机器”："
+    ],
+    [
+     "a device able to execute any computation,",
+     "一种能执行任何计算的装置，"
+    ],
+    [
+     "given",
+     "只要给出"
+    ],
+    [
+     "the right instructions.",
+     "正确的指令。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "That abstract construct, rooted in mathematical logic, became the theoretical blueprint of the modern computer.",
+   "zh": "这一抽象的构想根源于数理逻辑，后来成为了现代计算机的理论蓝图。",
+   "en_markup": "That **abstract** **construct**, **rooted in** **mathematical** **logic**, became {{=}}the **theoretical** **blueprint** of the modern computer.",
+   "zh_markup": "这一**抽象的**(abstract)**构想**(construct)**根源于**(rooted in)**数理**(mathematical)**逻辑**(logic)，后来成为了现代计算机的**理论**(theoretical)**蓝图**(blueprint)。",
+   "video_notes": [
+    "（rooted in…：过去分词短语，插入说明 construct；mathematical logic：数理逻辑）"
+   ],
+   "chunks": [
+    {
+     "en": "That abstract construct, rooted in mathematical logic, became the theoretical blueprint of the modern computer.",
+     "zh": "这一抽象的构想根源于数理逻辑，后来成为了现代计算机的理论蓝图。"
+    }
+   ],
+   "align": [
+    [
+     "That",
+     "这一"
+    ],
+    [
+     "abstract",
+     "抽象的"
+    ],
+    [
+     "construct,",
+     "构想"
+    ],
+    [
+     "rooted in",
+     "根源于"
+    ],
+    [
+     "mathematical",
+     "数理"
+    ],
+    [
+     "logic,",
+     "逻辑，"
+    ],
+    [
+     "became",
+     "后来成为了"
+    ],
+    [
+     "the theoretical",
+     "现代计算机的理论"
+    ],
+    [
+     "blueprint of the modern computer.",
+     "蓝图。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "On 4 September 1939 he joined the classified codebreaking effort at Bletchley Park, leading work on naval Enigma, Germany's encryption machine.",
+   "zh": "1939年9月4日，他加入了布莱切利园的保密的破译工作，领导关于海军恩尼格玛密码机的工作，即德国的加密机器。",
+   "en_markup": "On 4 September 1939 he joined the **classified** **codebreaking effort** at Bletchley Park, leading work on **naval** Enigma, Germany's **encryption** machine.",
+   "zh_markup": "1939年9月4日，他加入了布莱切利园的**保密的**(classified)**破译工作**(codebreaking effort)，领导关于**海军**(naval)恩尼格玛密码机的工作，即德国的**加密**(encryption)机器。",
+   "video_notes": [
+    "（leading…：现在分词短语作伴随状语；Germany's encryption machine：同位语，说明 Enigma）"
+   ],
+   "chunks": [
+    {
+     "en": "On 4 September 1939 he joined the classified codebreaking effort at Bletchley Park,",
+     "zh": "1939年9月4日，他加入了布莱切利园的保密的破译工作，"
+    },
+    {
+     "en": "leading work on naval Enigma, Germany's encryption machine.",
+     "zh": "领导关于海军恩尼格玛密码机的工作，即德国的加密机器。"
+    }
+   ],
+   "align": [
+    [
+     "On 4 September 1939",
+     "1939年9月4日，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "joined",
+     "加入了"
+    ],
+    [
+     "the classified",
+     "布莱切利园的保密的"
+    ],
+    [
+     "codebreaking effort at Bletchley Park,",
+     "破译工作，"
+    ],
+    [
+     "leading",
+     "领导"
+    ],
+    [
+     "work on naval Enigma,",
+     "关于海军恩尼格玛密码机的工作，"
+    ],
+    [
+     "Germany's",
+     "即德国的"
+    ],
+    [
+     "encryption machine.",
+     "加密机器。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "Polish mathematicians had deciphered Enigma by late 1932 and shared their insights with Britain and France in July 1939.",
+   "zh": "波兰数学家早在1932年底就已破译了恩尼格玛，并将他们的深刻见解（破解思路）于1939年7月告知了英国和法国。",
+   "en_markup": "Polish mathematicians had **deciphered** Enigma by late 1932 and shared their **insights** with Britain and France in July 1939.",
+   "zh_markup": "波兰数学家早在1932年底就已**破译了**(deciphered)恩尼格玛，并将他们的**深刻见解**(insights)（破解思路）于1939年7月告知了英国和法国。",
+   "video_notes": [
+    "（had deciphered：过去完成时，发生在1939年之前；share A with B：把 A 告知 B）"
+   ],
+   "chunks": [
+    {
+     "en": "Polish mathematicians had deciphered Enigma by late 1932 and shared their insights with Britain and France in July 1939.",
+     "zh": "波兰数学家早在1932年底就已破译了恩尼格玛，并将他们的深刻见解（破解思路）于1939年7月告知了英国和法国。"
+    }
+   ],
+   "align": [
+    [
+     "Polish mathematicians",
+     "波兰数学家"
+    ],
+    [
+     "had deciphered Enigma by late 1932",
+     "早在1932年底就已破译了恩尼格玛，"
+    ],
+    [
+     "and",
+     "并"
+    ],
+    [
+     "shared their insights",
+     "将他们的深刻见解（破解思路）"
+    ],
+    [
+     "with Britain and France in July 1939.",
+     "于1939年7月告知了英国和法国。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "His team's machines exploited them and, operational from March 1940, automated the laborious search for each day's rotor settings.",
+   "zh": "他团队（研制的）的机器利用了这些见解和思路，并且从1940年3月起投入运行，自动化了每天搜寻转子设置这项耗时费力的工作。",
+   "en_markup": "His team's machines **exploited** them and, **operational** from March 1940, **automated** the **laborious** search for each day's **rotor** settings.",
+   "zh_markup": "他团队（研制的）的机器**利用了**(exploited)这些见解和思路，并且从1940年3月起**投入运行**(operational)，**自动化了**(automated)每天搜寻**转子**(rotor)设置这项**耗时费力的**(laborious)工作。",
+   "video_notes": [
+    "（them：指波兰数学家的 insights；operational from…：形容词短语插在 and 与谓语之间）",
+    "（automate：使……自动化；search for…：对……的搜寻）"
+   ],
+   "chunks": [
+    {
+     "en": "His team's machines exploited them and, operational from March 1940,",
+     "zh": "他团队（研制的）的机器利用了这些见解和思路，并且从1940年3月起投入运行，"
+    },
+    {
+     "en": "automated the laborious search for each day's rotor settings.",
+     "zh": "自动化了每天搜寻转子设置这项耗时费力的工作。"
+    }
+   ],
+   "align": [
+    [
+     "His team's machines",
+     "他团队（研制的）的机器"
+    ],
+    [
+     "exploited them",
+     "利用了这些见解和思路，"
+    ],
+    [
+     "and,",
+     "并且"
+    ],
+    [
+     "operational from March 1940,",
+     "从1940年3月起投入运行，"
+    ],
+    [
+     "automated",
+     "自动化了"
+    ],
+    [
+     "the laborious search for each day's rotor settings.",
+     "每天搜寻转子设置这项耗时费力的工作。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "en": "In October 1950, writing in the philosophy journal Mind, he posed a provocative question: \"Can machines think?\"",
+   "zh": "1950年10月，他在哲学期刊《心灵》（Mind）上撰文，提出了一个发人深省的问题——“机器能思考吗？”",
+   "en_markup": "In October 1950, writing in the **philosophy** journal Mind, he **posed** a **provocative** question: \"Can machines think?\"",
+   "zh_markup": "1950年10月，他在**哲学**(philosophy)期刊《心灵》（Mind）上撰文，**提出了**(posed)一个**发人深省的**(provocative)问题——“机器能思考吗？”",
+   "video_notes": [
+    "（writing in…：现在分词短语作伴随状语）",
+    "（pose a question：提出问题）"
+   ],
+   "chunks": [
+    {
+     "en": "In October 1950, writing in the philosophy journal Mind,",
+     "zh": "1950年10月，他在哲学期刊《心灵》（Mind）上撰文，"
+    },
+    {
+     "en": "he posed a provocative question: \"Can machines think?\"",
+     "zh": "提出了一个发人深省的问题——“机器能思考吗？”"
+    }
+   ],
+   "align": [
+    [
+     "In October 1950,",
+     "1950年10月，"
+    ],
+    [
+     "writing in the philosophy journal Mind,",
+     "他在哲学期刊《心灵》（Mind）上撰文，"
+    ],
+    [
+     "he posed",
+     "提出了"
+    ],
+    [
+     "a provocative question:",
+     "一个发人深省的问题——"
+    ],
+    [
+     "\"Can machines think?\"",
+     "“机器能思考吗？”"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "He proposed a practical substitute, the imitation game, now widely called the Turing test.",
+   "zh": "他建议用一种切实可行的替代办法取而代之，即模仿游戏，如今普遍称为图灵测试。",
+   "en_markup": "He **proposed** a **practical** **substitute**, the imitation game, now **widely** called the Turing test.",
+   "zh_markup": "他**建议**(proposed)用一种**切实可行的**(practical)**替代办法**(substitute)取而代之，即模仿游戏，如今**普遍**(widely)称为图灵测试。",
+   "video_notes": [
+    "（the imitation game：同位语，说明 substitute；now widely called…：过去分词短语，补充说明）"
+   ],
+   "chunks": [
+    {
+     "en": "He proposed a practical substitute, the imitation game, now widely called the Turing test.",
+     "zh": "他建议用一种切实可行的替代办法取而代之，即模仿游戏，如今普遍称为图灵测试。"
+    }
+   ],
+   "align": [
+    [
+     "He",
+     "他"
+    ],
+    [
+     "proposed",
+     "建议用"
+    ],
+    [
+     "a",
+     "一种"
+    ],
+    [
+     "practical",
+     "切实可行的"
+    ],
+    [
+     "substitute,",
+     "替代办法取而代之，"
+    ],
+    [
+     "the imitation game,",
+     "即模仿游戏，"
+    ],
+    [
+     "now",
+     "如今"
+    ],
+    [
+     "widely called",
+     "普遍称为"
+    ],
+    [
+     "the Turing test.",
+     "图灵测试。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "An interrogator exchanges typed messages with two concealed players, one human and one machine.",
+   "zh": "一名审问者通过打字，与两个隐藏起来的参与者交流，其中一个是人，一个是机器。",
+   "en_markup": "An **interrogator** exchanges typed messages with two **concealed** players, one human and one machine.",
+   "zh_markup": "一名**审问者**(interrogator)通过打字，与两个**隐藏起来的**(concealed)参与者交流，其中一个是人，一个是机器。",
+   "video_notes": [
+    "（exchange messages with sb：与某人互通消息；one human and one machine：同位语，说明 players）"
+   ],
+   "chunks": [
+    {
+     "en": "An interrogator exchanges typed messages with two concealed players, one human and one machine.",
+     "zh": "一名审问者通过打字，与两个隐藏起来的参与者交流，其中一个是人，一个是机器。"
+    }
+   ],
+   "align": [
+    [
+     "An interrogator",
+     "一名审问者"
+    ],
+    [
+     "exchanges typed messages",
+     "通过打字，"
+    ],
+    [
+     "with two concealed players,",
+     "与两个隐藏起来的参与者交流，"
+    ],
+    [
+     "one human",
+     "其中一个是人，"
+    ],
+    [
+     "and one machine.",
+     "一个是机器。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "If the interrogator cannot consistently distinguish them, the machine passes.",
+   "zh": "如果审问者无法始终如一地区分出二者，机器就算通过测试。",
+   "en_markup": "If the interrogator cannot **consistently** **distinguish** them, the machine passes.",
+   "zh_markup": "如果审问者无法**始终如一地**(consistently)**区分出**(distinguish)二者，机器就算通过测试。",
+   "video_notes": [
+    "（them：指人和机器两个参与者；pass：通过测试）"
+   ],
+   "chunks": [
+    {
+     "en": "If the interrogator cannot",
+     "zh": "如果审问者无法"
+    },
+    {
+     "en": "consistently distinguish them,",
+     "zh": "始终如一地区分出二者，"
+    },
+    {
+     "en": "the machine passes.",
+     "zh": "机器就算通过测试。"
+    }
+   ],
+   "align": [
+    [
+     "If",
+     "如果"
+    ],
+    [
+     "the interrogator",
+     "审问者"
+    ],
+    [
+     "cannot",
+     "无法"
+    ],
+    [
+     "consistently",
+     "始终如一地"
+    ],
+    [
+     "distinguish them,",
+     "区分出二者，"
+    ],
+    [
+     "the machine",
+     "机器"
+    ],
+    [
+     "passes.",
+     "就算通过测试。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "His exceptional wartime contribution did not protect him.",
+   "zh": "他杰出的战时贡献，并没有保护到他。",
+   "en_markup": "His **exceptional** **wartime** **contribution** did not protect him.",
+   "zh_markup": "他**杰出的**(exceptional)**战时**(wartime)**贡献**(contribution)，并没有保护到他。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "His exceptional wartime contribution did not protect him.",
+     "zh": "他杰出的战时贡献，并没有保护到他。"
+    }
+   ],
+   "align": [
+    [
+     "His",
+     "他"
+    ],
+    [
+     "exceptional",
+     "杰出的"
+    ],
+    [
+     "wartime",
+     "战时"
+    ],
+    [
+     "contribution",
+     "贡献，"
+    ],
+    [
+     "did not protect",
+     "并没有保护到"
+    ],
+    [
+     "him.",
+     "他。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "On 31 March 1952 he was convicted of \"gross indecency\", the charge then used against gay men.",
+   "zh": "1952年3月31日，他被判定犯有“严重猥亵”罪，这是当时用来惩治男同性恋者的罪名。",
+   "en_markup": "On 31 March 1952 he was **convicted of** \"gross indecency\", the charge then used against gay men.",
+   "zh_markup": "1952年3月31日，他**被判定犯有**(convicted of)“严重猥亵”**罪**(convicted of)，这是当时用来惩治男同性恋者的罪名。",
+   "video_notes": [
+    "（be convicted of：被判定犯有……罪）",
+    "（the charge…：同位语，说明 gross indecency；then used against…：过去分词短语作后置定语，修饰 charge）"
+   ],
+   "chunks": [
+    {
+     "en": "On 31 March 1952 he was convicted of \"gross indecency\",",
+     "zh": "1952年3月31日，他被判定犯有“严重猥亵”罪，"
+    },
+    {
+     "en": "the charge then used against gay men.",
+     "zh": "这是当时用来惩治男同性恋者的罪名。"
+    }
+   ],
+   "align": [
+    [
+     "On 31 March 1952",
+     "1952年3月31日，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "was convicted of",
+     "被判定犯有"
+    ],
+    [
+     "\"gross indecency\",",
+     "“严重猥亵”罪，"
+    ],
+    [
+     "the charge",
+     "这是"
+    ],
+    [
+     "then used against gay men.",
+     "当时用来惩治男同性恋者的罪名。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "He forfeited his security clearance and, to avert imprisonment, submitted to hormone injections.",
+   "zh": "他被剥夺/丧失了他的安全许可，并且为了避免入狱，被迫接受了激素注射。",
+   "en_markup": "He **forfeited** his **security clearance** and, to **avert** **imprisonment**, **submitted to** **hormone** **injections**.",
+   "zh_markup": "他**被剥夺/丧失了**(forfeited)他的**安全许可**(security clearance)，并且为了**避免**(avert)**入狱**(imprisonment)，**被迫接受了**(submitted to)**激素**(hormone)**注射**(injections)。",
+   "video_notes": [
+    "（to avert…：不定式表目的，插在 and 与谓语之间；submit to：接受，服从）"
+   ],
+   "chunks": [
+    {
+     "en": "He forfeited his security clearance and, to avert imprisonment, submitted to hormone injections.",
+     "zh": "他被剥夺/丧失了他的安全许可，并且为了避免入狱，被迫接受了激素注射。"
+    }
+   ],
+   "align": [
+    [
+     "He",
+     "他"
+    ],
+    [
+     "forfeited",
+     "被剥夺/丧失了"
+    ],
+    [
+     "his security clearance",
+     "他的安全许可，"
+    ],
+    [
+     "and,",
+     "并且"
+    ],
+    [
+     "to",
+     "为了"
+    ],
+    [
+     "avert",
+     "避免"
+    ],
+    [
+     "imprisonment,",
+     "入狱，"
+    ],
+    [
+     "submitted to",
+     "被迫接受了"
+    ],
+    [
+     "hormone",
+     "激素"
+    ],
+    [
+     "injections.",
+     "注射。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "He died of cyanide poisoning on 7 June 1954.",
+   "zh": "他死于氰化物中毒，1954年6月7日。",
+   "en_markup": "He died of **cyanide poisoning** on 7 June 1954.",
+   "zh_markup": "他死于**氰化物中毒**(cyanide poisoning)，1954年6月7日。",
+   "video_notes": [
+    "（die of：死于……）"
+   ],
+   "chunks": [
+    {
+     "en": "He died of cyanide poisoning on 7 June 1954.",
+     "zh": "他死于氰化物中毒，1954年6月7日。"
+    }
+   ],
+   "align": [
+    [
+     "He",
+     "他"
+    ],
+    [
+     "died of",
+     "死于"
+    ],
+    [
+     "cyanide poisoning",
+     "氰化物中毒，"
+    ],
+    [
+     "on 7 June 1954.",
+     "1954年6月7日。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 4,
+   "en": "A coroner's inquest ruled it suicide, though some doubt it.",
+   "zh": "验尸官的死因调查裁定为自杀，不过有人对此存疑。",
+   "en_markup": "A **coroner**'s inquest ruled it **suicide**, though some doubt it.",
+   "zh_markup": "**验尸官**(coroner)的死因调查裁定为**自杀**(suicide)，不过有人对此存疑。",
+   "video_notes": [
+    "（rule it suicide：裁定为自杀；though…：让步状语从句）"
+   ],
+   "chunks": [
+    {
+     "en": "A coroner's inquest ruled it suicide, though some doubt it.",
+     "zh": "验尸官的死因调查裁定为自杀，不过有人对此存疑。"
+    }
+   ],
+   "align": [
+    [
+     "A coroner's inquest",
+     "验尸官的死因调查"
+    ],
+    [
+     "ruled it suicide,",
+     "裁定为自杀，"
+    ],
+    [
+     "though",
+     "不过"
+    ],
+    [
+     "some doubt it.",
+     "有人对此存疑。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "Recognition lagged.",
+   "zh": "（对于图灵的）认可滞后了。",
+   "en_markup": "**Recognition** **lagged**.",
+   "zh_markup": "（对于图灵的）**认可**(Recognition)**滞后了**(lagged)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Recognition lagged.",
+     "zh": "（对于图灵的）认可滞后了。"
+    }
+   ],
+   "align": [
+    [
+     "Recognition",
+     "（对于图灵的）认可"
+    ],
+    [
+     "lagged.",
+     "滞后了。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "On 10 September 2009 Britain's prime minister publicly apologised, and on 24 December 2013 Turing was posthumously granted a royal pardon.",
+   "zh": "2009年9月10日，英国首相公开道歉了；2013年12月24日，图灵在死后被授予了皇室赦免。",
+   "en_markup": "On 10 September 2009 Britain's prime minister **publicly** **apologised**, and on 24 December 2013 Turing **was** **posthumously** **granted** a royal **pardon**.",
+   "zh_markup": "2009年9月10日，英国首相**公开**(publicly)**道歉了**(apologised)；2013年12月24日，图灵在**死后**(posthumously)**被授予了**(was granted)皇室**赦免**(pardon)。",
+   "video_notes": [
+    "（be granted sth：被授予某物，被动语态）"
+   ],
+   "chunks": [
+    {
+     "en": "On 10 September 2009 Britain's prime minister publicly apologised,",
+     "zh": "2009年9月10日，英国首相公开道歉了；"
+    },
+    {
+     "en": "and on 24 December 2013 Turing was posthumously granted a royal pardon.",
+     "zh": "2013年12月24日，图灵在死后被授予了皇室赦免。"
+    }
+   ],
+   "align": [
+    [
+     "On 10 September 2009",
+     "2009年9月10日，"
+    ],
+    [
+     "Britain's prime minister",
+     "英国首相"
+    ],
+    [
+     "publicly",
+     "公开"
+    ],
+    [
+     "apologised,",
+     "道歉了；"
+    ],
+    [
+     "and on 24 December 2013",
+     "2013年12月24日，"
+    ],
+    [
+     "Turing",
+     "图灵"
+    ],
+    [
+     "was posthumously granted",
+     "在死后被授予了"
+    ],
+    [
+     "a royal pardon.",
+     "皇室赦免。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 5,
+   "en": "On 23 June 2021, his birthday, a fifty-pound note bearing his portrait entered circulation.",
+   "zh": "2021年6月23日，也就是他的生日，印有他肖像的五十英镑钞票开始流通。",
+   "en_markup": "On 23 June 2021, his birthday, a fifty-pound note bearing his **portrait** entered **circulation**.",
+   "zh_markup": "2021年6月23日，也就是他的生日，印有他**肖像**(portrait)的五十英镑钞票开始**流通**(circulation)。",
+   "video_notes": [
+    "（his birthday：同位语，说明日期；bearing…：现在分词短语作后置定语，修饰 note；enter circulation：开始流通）"
+   ],
+   "chunks": [
+    {
+     "en": "On 23 June 2021, his birthday, a fifty-pound note bearing his portrait entered circulation.",
+     "zh": "2021年6月23日，也就是他的生日，印有他肖像的五十英镑钞票开始流通。"
+    }
+   ],
+   "align": [
+    [
+     "On 23 June 2021,",
+     "2021年6月23日，"
+    ],
+    [
+     "his birthday,",
+     "也就是他的生日，"
+    ],
+    [
+     "a fifty-pound note bearing his portrait",
+     "印有他肖像的五十英镑钞票"
+    ],
+    [
+     "entered circulation.",
+     "开始流通。"
+    ]
+   ]
+  },
+  {
+   "n": 19,
+   "para": 5,
+   "en": "The country that prosecuted him put his face on its money.",
+   "zh": "起诉他的国家，把他的头像印上了自己的钞票。",
+   "en_markup": "The country that **prosecuted** him put his face on its money.",
+   "zh_markup": "**起诉**(prosecuted)他的国家，把他的头像印上了自己的钞票。",
+   "video_notes": [
+    "（简述：▸理论：1936年，图灵提出按指令执行各种计算的通用机器模型，为现代计算机奠定理论基础。▸破译：图灵团队借鉴波兰的破译成果，▹1940年用机器自动搜索德国海军密码机每天的设置，加速破译。▸测试：1950年，他提出模仿游戏：通过打字交谈，▹负责问话的人若不能稳定分清人和机器，机器就通过测试。▸迫害：1952年图灵因同性恋行为获罪，被取消涉密资格，▹为免入狱接受激素注射；1954年死于氰化物中毒。▸追认：其死被判为自杀，但有人质疑。英国2009年道歉、▹2013年给予身后赦免；2021年肖像登上50镑钞票。）"
+   ],
+   "chunks": [
+    {
+     "en": "The country that prosecuted him put his face on its money.",
+     "zh": "起诉他的国家，把他的头像印上了自己的钞票。"
+    }
+   ],
+   "align": [
+    [
+     "The country that prosecuted him",
+     "起诉他的国家，"
+    ],
+    [
+     "put his face",
+     "把他的头像"
+    ],
+    [
+     "on its money.",
+     "印上了自己的钞票。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "formidable",
+   "zh_video": "强大的",
+   "headword": "formidable",
+   "pos": "adj.",
+   "table_definition": "本文：强大的；adj. 惊人的，了不起的（a formidable intellect/memory/achievement）；令人敬畏的，难对付的（a formidable opponent/task）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "intellect",
+   "zh_video": "才智",
+   "headword": "intellect",
+   "pos": "n.",
+   "table_definition": "本文：才智；n. 智力，才智（a man of formidable intellect；sharpen the intellect）；才智出众者（one of the great intellects of his day）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 2,
+   "en": "outlined",
+   "zh_video": "勾勒了",
+   "headword": "outline",
+   "pos": "v.",
+   "table_definition": "本文：勾勒了；v. (outline) 概述，勾勒（outline a plan/proposal）；n. 轮廓，大纲"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "device",
+   "zh_video": "装置",
+   "headword": "device",
+   "pos": "n.",
+   "table_definition": "本文：装置；n. 装置，设备（an electronic/a safety device；a device for measuring speed）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "execute",
+   "zh_video": "执行",
+   "headword": "execute",
+   "pos": "v.",
+   "table_definition": "本文：执行；v. 执行，实施（execute a program/command/plan）；处决"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "computation",
+   "zh_video": "计算",
+   "headword": "computation",
+   "pos": "n.",
+   "table_definition": "本文：计算；n. 计算（mathematical computation；perform a computation）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 3,
+   "en": "abstract",
+   "zh_video": "抽象的",
+   "headword": "abstract",
+   "pos": "adj.",
+   "table_definition": "本文：抽象的；adj. 抽象的（abstract ideas/thought；in the abstract）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 3,
+   "en": "construct",
+   "zh_video": "构想",
+   "headword": "construct",
+   "pos": "n.",
+   "table_definition": "本文：构想；n. 构想，概念（a theoretical construct；a social construct）；v. 建造"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "rooted in",
+   "zh_video": "根源于",
+   "headword": "be rooted in",
+   "pos": "v.",
+   "table_definition": "本文：根源于；v. (be rooted in) 根源于，植根于（be rooted in tradition/history；deeply rooted in culture）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "mathematical",
+   "zh_video": "数理",
+   "headword": "mathematical",
+   "pos": "adj.",
+   "table_definition": "本文：数理；adj. 数学的（mathematical logic 数理逻辑；a mathematical model）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "logic",
+   "zh_video": "逻辑",
+   "headword": "logic",
+   "pos": "n.",
+   "table_definition": "本文：逻辑；n. 逻辑，逻辑学（formal logic；the logic of an argument）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "theoretical",
+   "zh_video": "理论",
+   "headword": "theoretical",
+   "pos": "adj.",
+   "table_definition": "本文：理论；adj. 理论上的（a theoretical basis/framework；theoretical physics）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "blueprint",
+   "zh_video": "蓝图",
+   "headword": "blueprint",
+   "pos": "n.",
+   "table_definition": "本文：蓝图；n. 蓝图，详细计划（a blueprint for reform；the blueprint of a building）"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 4,
+   "en": "classified",
+   "zh_video": "保密的",
+   "headword": "classified",
+   "pos": "adj.",
+   "table_definition": "本文：保密的；adj. 机密的，保密的（classified documents/information）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "codebreaking effort",
+   "zh_video": "破译工作",
+   "headword": "codebreaking effort",
+   "pos": "n.",
+   "table_definition": "本文：破译工作；n. 破译工作（a wartime codebreaking effort；join the codebreaking effort）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 4,
+   "en": "naval",
+   "zh_video": "海军",
+   "headword": "naval",
+   "pos": "adj.",
+   "table_definition": "本文：海军；adj. 海军的（a naval base/officer；naval warfare）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 4,
+   "en": "encryption",
+   "zh_video": "加密",
+   "headword": "encryption",
+   "pos": "n.",
+   "table_definition": "本文：加密；n. 加密（data encryption；an encryption key）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "deciphered",
+   "zh_video": "破译了",
+   "headword": "decipher",
+   "pos": "v.",
+   "table_definition": "本文：破译了；v. (decipher) 破译，辨认（decipher a code/message/handwriting）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "insights",
+   "zh_video": "深刻见解",
+   "headword": "insight",
+   "pos": "n.",
+   "table_definition": "本文：深刻见解；n. (insight) 洞见，深刻理解（gain/offer insight into sth；valuable insights）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 6,
+   "en": "exploited",
+   "zh_video": "利用了",
+   "headword": "exploit",
+   "pos": "v.",
+   "table_definition": "本文：利用了；v. (exploit) 利用，开发（exploit an opportunity/a weakness；exploit natural resources）；剥削"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "operational",
+   "zh_video": "投入运行",
+   "headword": "operational",
+   "pos": "adj.",
+   "table_definition": "本文：投入运行；adj. 运转中的，可使用的（become fully operational；the system is operational）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "automated",
+   "zh_video": "自动化了",
+   "headword": "automate",
+   "pos": "v.",
+   "table_definition": "本文：自动化了；v. (automate) 使自动化（automate a process/production）；adj. 自动化的"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "laborious",
+   "zh_video": "耗时费力的",
+   "headword": "laborious",
+   "pos": "adj.",
+   "table_definition": "本文：耗时费力的；adj. 费力的，繁重的（a laborious process/task）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 6,
+   "en": "rotor",
+   "zh_video": "转子",
+   "headword": "rotor",
+   "pos": "n.",
+   "table_definition": "本文：转子；n. 转子，旋翼（the rotors of an Enigma machine；helicopter rotor blades）"
+  },
+  {
+   "id": 25,
+   "para": 3,
+   "sentence": 7,
+   "en": "philosophy",
+   "zh_video": "哲学",
+   "headword": "philosophy",
+   "pos": "n.",
+   "table_definition": "本文：哲学；n. 哲学（a philosophy journal；moral/political philosophy）；人生观，理念"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 7,
+   "en": "posed",
+   "zh_video": "提出了",
+   "headword": "pose",
+   "pos": "v.",
+   "table_definition": "本文：提出了；v. (pose) 提出（问题）（pose a question）；造成（pose a threat/risk）"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 7,
+   "en": "provocative",
+   "zh_video": "发人深省的",
+   "headword": "provocative",
+   "pos": "adj.",
+   "table_definition": "本文：发人深省的；adj. 发人深省的，引起争论的（a provocative question/article）；挑衅的"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "proposed",
+   "zh_video": "建议",
+   "headword": "propose",
+   "pos": "v.",
+   "table_definition": "本文：建议；v. (propose) 提议，建议（propose a plan/solution；propose that…）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "practical",
+   "zh_video": "切实可行的",
+   "headword": "practical",
+   "pos": "adj.",
+   "table_definition": "本文：切实可行的；adj. 切实可行的，实际的（a practical solution/approach；for practical purposes）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "substitute",
+   "zh_video": "替代办法",
+   "headword": "substitute",
+   "pos": "n.",
+   "table_definition": "本文：替代办法；n. 替代品，替代办法（a substitute for sth；no substitute for experience）；v. 代替"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 8,
+   "en": "widely",
+   "zh_video": "普遍",
+   "headword": "widely",
+   "pos": "adv.",
+   "table_definition": "本文：普遍；adv. 普遍地，广泛地（widely known/used/regarded as）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "interrogator",
+   "zh_video": "审问者",
+   "headword": "interrogator",
+   "pos": "n.",
+   "table_definition": "本文：审问者；n. 讯问者，提问者（a skilled interrogator；questioned by military interrogators）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 9,
+   "en": "concealed",
+   "zh_video": "隐藏起来的",
+   "headword": "concealed",
+   "pos": "adj.",
+   "table_definition": "本文：隐藏起来的；adj./v. (conceal) 隐藏的，隐蔽的（a concealed camera/weapon；conceal the truth）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 10,
+   "en": "consistently",
+   "zh_video": "始终如一地",
+   "headword": "consistently",
+   "pos": "adv.",
+   "table_definition": "本文：始终如一地；adv. 一贯地，始终如一地（perform consistently well；consistently high standards）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 10,
+   "en": "distinguish",
+   "zh_video": "区分出",
+   "headword": "distinguish",
+   "pos": "v.",
+   "table_definition": "本文：区分出；v. 区分，辨别（distinguish between A and B；distinguish A from B）"
+  },
+  {
+   "id": 36,
+   "para": 4,
+   "sentence": 11,
+   "en": "exceptional",
+   "zh_video": "杰出的",
+   "headword": "exceptional",
+   "pos": "adj.",
+   "table_definition": "本文：杰出的；adj. 卓越的，杰出的（exceptional talent/ability）；例外的"
+  },
+  {
+   "id": 37,
+   "para": 4,
+   "sentence": 11,
+   "en": "wartime",
+   "zh_video": "战时",
+   "headword": "wartime",
+   "pos": "n.",
+   "table_definition": "本文：战时；n./adj. 战时（的）（in wartime；wartime Britain/rationing）"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 11,
+   "en": "contribution",
+   "zh_video": "贡献",
+   "headword": "contribution",
+   "pos": "n.",
+   "table_definition": "本文：贡献；n. 贡献（make a contribution to sth；an outstanding contribution）；捐款"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 12,
+   "en": "convicted of",
+   "zh_video": "被判定犯有……罪",
+   "headword": "be convicted of",
+   "pos": "v.",
+   "table_definition": "本文：被判定犯有……罪；v. (convict) 判定有罪（be convicted of murder/fraud）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 13,
+   "en": "forfeited",
+   "zh_video": "被剥夺/丧失了",
+   "headword": "forfeit",
+   "pos": "v.",
+   "table_definition": "本文：被剥夺/丧失了；v. (forfeit) 丧失，被没收（forfeit one's right/deposit/licence）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 13,
+   "en": "security clearance",
+   "zh_video": "安全许可",
+   "headword": "security clearance",
+   "pos": "n.",
+   "table_definition": "本文：安全许可；n. （接触机密的）安全许可（lose/hold a security clearance）；clearance 许可，批准"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 13,
+   "en": "avert",
+   "zh_video": "避免",
+   "headword": "avert",
+   "pos": "v.",
+   "table_definition": "本文：避免；v. 避免，防止（avert a crisis/disaster/war）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 13,
+   "en": "imprisonment",
+   "zh_video": "入狱",
+   "headword": "imprisonment",
+   "pos": "n.",
+   "table_definition": "本文：入狱；n. 监禁，入狱（life imprisonment；a sentence of imprisonment）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 13,
+   "en": "submitted to",
+   "zh_video": "被迫接受了",
+   "headword": "submit to",
+   "pos": "v.",
+   "table_definition": "本文：被迫接受了；v. (submit) 服从，接受（submit to treatment/an examination）；提交（submit a report）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 13,
+   "en": "hormone",
+   "zh_video": "激素",
+   "headword": "hormone",
+   "pos": "n.",
+   "table_definition": "本文：激素；n. 激素（hormone therapy/treatment；growth hormone）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 13,
+   "en": "injections",
+   "zh_video": "注射",
+   "headword": "injection",
+   "pos": "n.",
+   "table_definition": "本文：注射；n. (injection) 注射（give sb an injection；an injection of insulin）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 14,
+   "en": "cyanide poisoning",
+   "zh_video": "氰化物中毒",
+   "headword": "cyanide poisoning",
+   "pos": "n.",
+   "table_definition": "本文：氰化物中毒；n. 氰化物中毒（die of cyanide poisoning）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 15,
+   "en": "coroner",
+   "zh_video": "验尸官",
+   "headword": "coroner",
+   "pos": "n.",
+   "table_definition": "本文：验尸官；n. 验尸官（a coroner's inquest/report；the coroner recorded a verdict of suicide）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 15,
+   "en": "suicide",
+   "zh_video": "自杀",
+   "headword": "suicide",
+   "pos": "n.",
+   "table_definition": "本文：自杀；n. 自杀（commit suicide；a verdict of suicide）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 16,
+   "en": "recognition",
+   "zh_video": "认可",
+   "headword": "recognition",
+   "pos": "n.",
+   "table_definition": "本文：认可；n. 认可，赞誉（in recognition of；gain/win recognition）；认出"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 16,
+   "en": "lagged",
+   "zh_video": "滞后了",
+   "headword": "lag",
+   "pos": "v.",
+   "table_definition": "本文：滞后了；v. (lag) 落后，滞后（lag behind sb/sth；wages lagged behind inflation）；n. 时间差（a time lag）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 17,
+   "en": "publicly",
+   "zh_video": "公开",
+   "headword": "publicly",
+   "pos": "adv.",
+   "table_definition": "本文：公开；adv. 公开地（publicly apologise/announce；publicly funded）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 17,
+   "en": "apologised",
+   "zh_video": "道歉了",
+   "headword": "apologise",
+   "pos": "v.",
+   "table_definition": "本文：道歉了；v. (apologise) 道歉（apologise to sb for sth；apologise publicly）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": null,
+   "en": "was granted",
+   "zh_video": "被授予了",
+   "headword": "was granted",
+   "pos": "v.",
+   "table_definition": "本文：被授予了；v. (be granted) 被授予（be granted a pardon/visa；be granted permission）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 17,
+   "en": "posthumously",
+   "zh_video": "死后",
+   "headword": "posthumously",
+   "pos": "adv.",
+   "table_definition": "本文：死后；adv. 死后，身后（be awarded/published posthumously）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 17,
+   "en": "pardon",
+   "zh_video": "赦免",
+   "headword": "pardon",
+   "pos": "n.",
+   "table_definition": "本文：赦免；n. 赦免（a royal/presidential pardon；be granted a pardon）；v. 赦免，原谅"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 18,
+   "en": "portrait",
+   "zh_video": "肖像",
+   "headword": "portrait",
+   "pos": "n.",
+   "table_definition": "本文：肖像；n. 肖像，画像（paint a portrait；a portrait of the Queen）"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 18,
+   "en": "circulation",
+   "zh_video": "流通",
+   "headword": "circulation",
+   "pos": "n.",
+   "table_definition": "本文：流通；n. （货币）流通（enter/go into circulation；be withdrawn from circulation）；循环"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 19,
+   "en": "prosecuted",
+   "zh_video": "起诉",
+   "headword": "prosecute",
+   "pos": "v.",
+   "table_definition": "本文：起诉；v. (prosecute) 起诉，检控（be prosecuted for theft；prosecute offenders）"
+  }
+ ]
+}
