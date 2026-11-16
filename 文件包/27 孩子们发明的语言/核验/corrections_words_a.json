@@ -1,0 +1,37 @@
+[
+ {
+  "key": "id=4",
+  "field": "usage_detail",
+  "before": "可数名词，常用单数，前加 a 或 the。",
+  "after": "多用单数形式，前加 a 或 the，也可作不可数名词。",
+  "reason": "Oxford 标为 singular, uncountable，Cambridge 标为 S or U，不是一般可数名词"
+ },
+ {
+  "key": "id=15",
+  "field": "senses.1",
+  "before": "{\"pos\": \"adj.\", \"zh\": \"（作定语）兄弟姐妹之间的；同类而相关的\"}",
+  "after": "{\"pos\": \"n.\", \"zh\": \"（作定语）兄弟姐妹之间的；（比喻）同类相关的，姊妹（公司等）\"}",
+  "reason": "Oxford、Cambridge 中 sibling 只有名词词性，sibling rivalry 是名词作定语，不是形容词"
+ },
+ {
+  "key": "id=21",
+  "field": "etymology",
+  "before": "17世纪从拉丁语 curriculum 借入，原义是“跑，跑道，赛程”，来自 currere（跑）。英语中先在苏格兰的大学里用来指“规定的学习进程”，后来泛指课程。",
+  "after": "从拉丁语 curriculum 借入，拉丁语原义是“跑，跑道，赛程”，来自 currere（跑）；进入英语后用来指学校里规定的学习进程，即“课程”。",
+  "reason": "借入年代（17世纪）和“先在苏格兰大学使用”无法用 Etymonline 等词典证实（Etymonline 记的年代与此不符），删去"
+ },
+ {
+  "key": "id=23",
+  "field": "usage_detail",
+  "before": "形容词，只作前置定语。",
+  "after": "形容词，多作前置定语，也可作表语，如 The exam is partly oral。",
+  "reason": "oral 也可作表语，说“只作前置定语”过于绝对"
+ },
+ {
+  "key": "id=24",
+  "field": "senses",
+  "before": "仅1条",
+  "after": "{\"pos\": \"v.\", \"zh\": \"（lip-read）唇读，看口形读懂话语\"}",
+  "reason": "义项要求2到5条，补出对应的动词用法 lip-read（usage_detail 已提到）"
+ }
+]

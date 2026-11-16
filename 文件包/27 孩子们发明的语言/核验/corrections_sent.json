@@ -1,0 +1,65 @@
+[
+ {
+  "key": "n=1",
+  "field": "grammar.0.explain",
+  "before": "描写身体部位的独立主格常不用物主代词，本句没有写成 their palms。",
+  "after": "描写身体部位的独立主格既可以带物主代词（如下面例句中的 its tail、her eyes），也可以省去，本句写成 palms fluttering、wrists flicking，没有用 their，节奏更紧凑。",
+  "reason": "原说法“常不用物主代词”不准确，且与本条两个例句（its tail wagging、her eyes fixed）相矛盾"
+ },
+ {
+  "key": "n=1",
+  "field": "grammar.1.explain",
+  "before": "分词带上宾语或状语成为短语后，一般要放在名词后面，如 a bus rattling along the road。",
+  "after": "分词带上宾语或较长的状语成为短语后，一般要放在名词后面，如 a bus rattling along the road；只带一个简单副词时仍可前置，如例句中的 a freshly painted room。",
+  "reason": "原规则说带状语就要后置，与本条例句 a freshly painted room 矛盾，补充简单副词加分词仍可前置"
+ },
+ {
+  "key": "n=10",
+  "field": "components.4.role",
+  "before": "后置定语（形容词短语），修饰 language",
+  "after": "后置定语，修饰 language（their own 相当于名词性物主代词 theirs，entirely 修饰它，整个短语相当于 that was entirely their own）",
+  "reason": "their own 中 own 是代词用法，不是形容词，称“形容词短语”不准确"
+ },
+ {
+  "key": "n=10",
+  "field": "structure",
+  "before": "④entirely their own 是形容词短语作后置定语，修饰 language（视频说明）",
+  "after": "④entirely their own 作后置定语，修饰 language（视频说明）",
+  "reason": "their own 相当于 theirs，不是形容词短语"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar.0.explain",
+  "before": "本句 a coherent language entirely their own 相当于 a coherent language that was entirely their own。",
+  "after": "本句 a coherent language entirely their own 相当于 a coherent language that was entirely their own；严格说 their own 相当于名词性物主代词 theirs，不是形容词，但它和形容词短语一样能作表语，后置作定语的道理相同。",
+  "reason": "说明 their own 的词性，避免把它误当形容词"
+ },
+ {
+  "key": "n=11",
+  "field": "structure",
+  "before": "④两个分句之间有因果关系：",
+  "after": "④两个分句之间隐含因果关系：",
+  "reason": "原文只用 and 连接，因果是推断，不宜写成确定的事实"
+ },
+ {
+  "key": "n=12",
+  "field": "grammar.1.explain",
+  "before": "arrive、return、leave、die、marry 等不及物动词后可以接形容词或名词",
+  "after": "arrive、return、leave、die、marry 等动词（多为不及物动词）后可以接形容词或名词",
+  "reason": "例句 He left home poor 中 leave 带宾语 home，是及物用法，说“不及物动词”与例句不符"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar.1.explain",
+  "before": "add to sth 不带宾语时意为“增加，加深”",
+  "after": "add 不带直接宾语、直接接 to sth 时意为“增加，加深”",
+  "reason": "原说法“add to sth 不带宾语”自相矛盾（to 后有宾语），改清楚"
+ },
+ {
+  "key": "n=17",
+  "field": "grammar.2.explain",
+  "before": "相当于 in playgrounds, in streets, and in buses。",
+  "after": "相当于 in playgrounds, in streets, and in buses。单说乘公交车一般用 on buses（见第9句 on the buses），这里三个名词共用一个 in，侧重“在这些场所里”。",
+  "reason": "补充说明 in buses，避免与第9句“乘公共汽车用 on”的讲解看似矛盾"
+ }
+]
