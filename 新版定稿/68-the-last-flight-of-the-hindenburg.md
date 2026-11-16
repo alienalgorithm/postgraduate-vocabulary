@@ -93,6 +93,7 @@ The 1933 crash of USS Akron killed 73 yet won less **notoriety**. The filmed fir
 | glamorous | 本文：充满魅力的；adj. 富有魅力的，光彩夺目的（a glamorous lifestyle/star） | 5 |
 | epoch | 本文：时代；n. 时代，纪元（mark a new epoch） | 5 |
 | doomed | 本文：注定毁灭的；adj. 注定失败的，注定毁灭的（a doomed attempt；doomed to fail） | 5 |
+| exactly | 本文：恰好；adv. 恰好，正好；确切地（exactly a year ago；at exactly 7 pm） | 5 |
 
 ## 史实与来源
 - 【T1】1936年兴登堡号完成17次大西洋往返（34次横渡）。S6

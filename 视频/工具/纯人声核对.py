@@ -142,6 +142,7 @@ def 爆破起(a, f, 起=None):
             if on is None or lv(on - h) >= -50: return False
             pk = max(lv(x) for x in xs if x >= on)
             r_ = F if 起 is None else 起   # 到最响的时限：清塞音 5 ms；浊塞音 /b d ɡ dʒ/ 20 ms（K169 49 S7 /d/：-50 dB 开口后约 15 ms 才到最响，吸气要 50 ms 以上）
+            if 起 is None and lv(on - h) < -55 and lv(on) - lv(on - h) >= 15: r_ = 6 * F   # K170（68 书53 S6 mast. 的 /t/：闭塞 -63 dB → 2.5 ms 内爆到 -42.7，送气 22 ms 后到最响 -29.7）：清塞音开口是一步跳 ≥15 dB 的爆破，送气可在 30 ms 内到最响；吸气是慢慢起来的，没有这一跳
             if max(lv(x) for x in range(on, on + r_ + 1, h)) < pk - 3: return False
             top = max(range(on, on + r_ + 1, h), key=lv)
             tail = [lv(x) for x in range(top, i1, h)]   # 衰减到 -55 dB 以下就算结束；之后不许再起来（有缝再起 = 两段声音，不是一个除阻）
@@ -214,6 +215,16 @@ def 确认自检():
     if not 确认可收('25', fv, {'词尾': 'v', '实测': 实测(fv)}, V_)[0]: e.append('误报：词尾 /v/ 清化（连着前面、4 kHz 擦音核心），写明 词尾=v 也不收（K139）')
     U_ = V_.copy(); U_[int(0.38 * SR):int(0.4 * SR)] = 0; Xb = np.fft.rfft(rng_.standard_normal(nf)); Xb[(ff_ < 1500) | (ff_ > 2500)] = 0; br = np.fft.irfft(Xb, nf); U_[int(0.4 * SR):int(0.4 * SR) + nf] = br * 0.03 / (np.sqrt(np.mean(br ** 2)) + 1e-12)
     if 确认可收('25', fv, {'词尾': 'v', '实测': 实测(fv)}, U_)[0]: e.append('没抓到：隔着静音、重心 2 kHz 的吸气，写了 词尾=v 照样收了（K139）')
+    # K170 好样本（68 书53 S6 mast. 实测 2.5 ms 帧）：/t/ 闭塞 -63 dB → 一步爆到 -42 → -49 → 送气 22 ms 后最响 -30 → 衰减到 -57：写明 词尾=t 必收；同样峰时、开口慢慢起来（10 ms 从 -63 爬到 -42）的不收
+    def _tk(step):
+        T_ = np.zeros(SR); T_[int(0.1 * SR):int(0.4 * SR)] = 0.5 * np.sin(np.arange(int(0.3 * SR)) * 2 * np.pi * 200 / SR)
+        tc = [0.4425, 0.45 - (1e-5 if step else 0.01), 0.45, 0.455, 0.4575, 0.4725, 0.495, 0.505, 0.5075]; dc = [-63, -63, -42, -49, -34, -30, -42, -51, -57.0]
+        tt = np.arange(int(0.4425 * SR), int(0.5075 * SR)) / SR; nz = np.fft.irfft(np.where((np.fft.rfftfreq(len(tt), 1 / SR) > 2500) & (np.fft.rfftfreq(len(tt), 1 / SR) < 4500), np.fft.rfft(rng_.standard_normal(len(tt))), 0), len(tt))
+        T_[int(0.4425 * SR):int(0.4425 * SR) + len(tt)] = nz / (np.sqrt(np.mean(nz ** 2)) + 1e-12) * r0_ * 10 ** (np.interp(tt, tc, dc) / 20); return T_
+    ft_ = ('孤立杂音', 0.44, 0.505, -30.0, 3567, 0.15, -12.6)
+    if not 确认可收('68', ft_, {'词尾': 't', '实测': 实测(ft_)}, _tk(True))[0]: e.append('误报：68 S6 /t/ 一步爆破、送气 22 ms 后最响，写明 词尾=t 也不收（K170）')
+    if 确认可收('68', ft_, {'词尾': 't', '实测': 实测(ft_)}, _tk(False))[0]: e.append('没抓到：开口慢慢起来（10 ms 爬 21 dB）、30 ms 内才到最响的吸气，写了 词尾=t 照样收了（K170）')
+    if 确认可收('49', fd9, {'词尾': 't', '实测': 实测(fd9)}, D_)[0]: e.append('没抓到：K169 /d/ 包络（开口不是一步爆破）写成 词尾=t 照样收了（K170 不得放宽到这种）')
     M_ = K_.copy(); M_[i5 + int(0.02 * SR):i5 + int(0.035 * SR)] = 0; M_[i5 + int(0.035 * SR):i5 + n6] = 0.02 * rng_.standard_normal(n6 - int(0.035 * SR))
     if 确认可收('25', fk, {'词尾': 'k', '实测': 实测(fk)}, M_)[0]: e.append('没抓到：爆破后隔着静音缝又起一段声音，写了 词尾=k 照样收了（K135）')
     return e
