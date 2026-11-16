@@ -1,0 +1,45 @@
+第24篇 出片前核查：
+✔ 踩坑核查（核查程序自检、踩坑对照记录、逐条程序核查、换行比对）
+✔ 数字读法、引号自检（A11/A37/A17：年份、年代、日期、时刻、小数读法；引号不读、撇号保留）
+✔ 数字读法清单（请人工逐个确认读法）
+                 5  →  On the fifth of December 19
+              1914  →   the fifth of December nineteen fourteen Endurance d
+              1915  →  In January nineteen fifteen ice trapped
+                27  →  On the twenty-seventh of October, he
+                21  →  oundered on the twenty-first of November; h
+                 9  →  oe split on the ninth of April nineteen sixteen;
+             1916;  →   on the ninth of April nineteen sixteen; on the fifteenth of April
+                15  →  il nineteen sixteen; on the fifteenth of April their
+                24  →  On the twenty-fourth of April Shack
+             1,300  →  age of some 1,300 kilometres.
+                10  →  On the tenth of May they la
+                36  →  or in about 36 exhausting 
+                20  →   station on the twentieth of May.
+                22  →  acuated the 22 marooned me
+                30  →  oned men on the thirtieth of August.
+                28  →  All 28 of Enduranc
+                 5  →  On the fifth of March 2022 
+              2022  →  On the fifth of March 2022 searchers l
+             3,008  →  d the wreck 3,008 metres down
+             1915,  →  in November nineteen fifteen, months befo
+                28  →  ership held 28 men togethe
+✔ 引号不停顿（A17）：0 句带引号，配音时都不读引号
+✔ A19 自检：On 5 December 1914 Endurance d… 原样 0.015s（不报）、插入假吸气声 0.200s（必须报）
+✔ 标点停顿核对（A9/A10：停顿时长、不切词；A19：停顿后不留吸气声）
+✔ 句首句尾核对 自检：24 S1 原剪点 0.030s 不报；挪进起音 10 ms（0.060s）报出；句尾原样不报，剪进听得见的词尾 20 ms 并淡出报出
+✔ 句首句尾核对（clean_tail 修剪掉的部分没有剪到词：基准本句最响 5 ms 帧；剪掉的能听见的声音不得与词相连，句尾不得剪掉能听见的声音）
+✔ 读音核对 自检：24 把 departed 的重音挪成 /dˈᵻpɑːɹɾᵻd/报出；关掉读音改正（Worsley、Worsley's、charisma、Chilean、Weddell、Endurance's）报出；去掉多音词核对记录（24 S16 arithmetic）报出；登记的不是罗马数字只放那一个词组报出；“King Francis I.”没转成序数词报出；“Lascaux II/IV”读基数词、没登记的“Montignac II”照报报出；“6 and 9 August”两个日子都读序数（单个“6 January”照旧）报出；“7:25 pm”带空格也读成 seven twenty-five PM报出
+✔ 读音核对（A23：每个词的读音与独立发音词典一致；人名、地名、机构名、缩写逐个查证权威读音）
+✔ 词尾辅音核对 自检：24 原样 11 处全部合格；逐处把除阻换成静音、压低 20 dB，共 22 次全部报出
+✔ 词尾辅音核对（A21：停顿前和句末的词尾 t/k 听得清除阻，2 kHz 以上 ≥ -36 dB；/p/ 全频 ≥ -33 dB）
+    
+    参考 24 S8 第4个标点 spˈiːd（浊塞音，不判）没有除阻  ← 偏弱，需试听：剪成试听交用户确认
+    参考 24 S11 第2个标点 tˈʌɡ（浊塞音，不判）没有除阻  ← 偏弱，需试听：剪成试听交用户确认
+    → 浊塞音偏弱处不判，但要剪成试听交用户确认（01 两处用户已确认）
+✔ 停顿位置核对（A9/A15：停顿正好落在标点处两个词之间）
+    24 S4 OK（已用实际声音核实） 插入 「captain, | Frank」 段长比 前 0.75 后 1.03 ｜ 前词末音素起 3.220s 后词开头 3.420s ｜ 停顿 3.280–3.280s（离前词末音素起点 +60 ms，离后词 +140 ms）对齐代价 0.76
+    24 S4 OK（已用实际声音核实） 插入 「Worsley, | logged」 段长比 前 1.03 后 0.98 ｜ 前词末音素起 4.220s 后词开头 4.520s ｜ 停顿 4.365–4.365s（离前词末音素起点 +145 ms，离后词 +155 ms）对齐代价 0.76
+    24 S8 OK（已用实际声音核实） 插入 「speed, | and」 段长比 前 0.86 后 1.00 ｜ 前词末音素起 9.400s 后词开头 9.525s ｜ 停顿 9.425–9.425s（离前词末音素起点 +25 ms，离后词 +100 ms）对齐代价 1.23
+✔ 无标点停顿核对 自检：24 S1 原样不报、插入 0.25 秒静音报出（A4）；0.18+碎声+0.17 秒报出（K146，不并碎声时不报）、中间是真辅音不报、碎声贴着词不报
+✔ 无标点处停顿 ≤ 0.22 秒
+全部通过

@@ -1,0 +1,55 @@
+{
+ "kind": "book49-source24-remade-4K-final-four-feedback-items-plus-S18-and-comma",
+ "pipeline": "做.sh 24（XG_KEEP_REVIEWED_GAIN=1）→ 定稿.sh 24（XG_KEEP_REVIEWED_GAIN=1 XG_NOPUSH=1）4K，出片前/出片后核查全部通过 → 尾段插图停留.py（末正文页停到第 ceil(E×30)+18 帧，插图60帧、简述60帧）",
+ "video_sha256": "4e95b70864e2283eec6d145ab72e07c50d1151f7e33b56b8e3bd140dfce65883",
+ "video_bytes": 15762599,
+ "frames": 4608,
+ "fps": 30,
+ "duration_seconds": 153.6,
+ "definitive_4K_from_定稿sh": {
+  "bytes": 12796988,
+  "note": "定稿.sh 出的 4K（无停留、无插图），出片前/出片后核查全部通过；本成片正文 0–4467 帧与它解码 MAE ≤0.001，声音解码到 149.0 s 逐样本相同"
+ },
+ "voice_end_seconds_final_file": 149.0,
+ "voice_end_thresholds_final_file": {
+  "-60": 148.99,
+  "-70": 149.0,
+  "-80": 149.0
+ },
+ "endpoint_method": "62/65 归档 voice_end.py 同一算法（ffmpeg 解码 48 kHz 单声道，5 ms RMS，-60/-70/-80 dB 取最晚）",
+ "speech_ceiling_frame": 4470,
+ "hold_frames": 18,
+ "hold_start_frame": 4470,
+ "hold_end_frame_inclusive": 4487,
+ "hold_MAE_max_vs_frame4469": 0.0,
+ "illustration_start_frame": 4488,
+ "illustration_start_seconds": 149.6,
+ "summary_start_frame": 4548,
+ "summary_start_seconds": 151.6,
+ "measured_voice_to_picture_seconds": 0.6,
+ "illustration_source": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24/插图/49 冰海求生：坚忍号传奇-4K.png（与旧成片第 4469–4528 帧解码平均差 1.4/255）",
+ "audio_vs_previous_accepted_final": {
+  "previous_sha256": "f64e6b1293b2078bd9f685dc027abb9d65c2e91f3c335b1cf2b119480c930d19",
+  "decoded_identical_before_seconds": 142.255,
+  "max_abs_diff_before_142.255": 3.07e-07,
+  "first_differing_sample_seconds": 142.2588,
+  "S18_start_seconds": 142.255,
+  "note": "S18 前（S1–S17）声音与旧验收版相同；S18 按用户 2026-11-15 原话重新合成（读时 and 后不停，屏幕保留逗号）"
+ },
+ "peak_dBFS": -0.41,
+ "clipped_samples": 0,
+ "decode_errors": 0,
+ "S18_pauses": {
+  "help_to_and_seconds": 0.065,
+  "on_comma_pause": "标点停顿核对：结尾句最后一段前停顿 标准 0.7 s，实际听到 0.68 s，OK；停顿位置精确核对 OK（停顿 w 3.805–4.170 s，在 on, | brought 之间）"
+ },
+ "voice_checks": "纯人声核对 问题数 0（新 S18 148.89/148.93 s 两处经逐段看声音确认是 view. 句末 /uː/ 嘎裂尾音）；独立复核 0 处未确认（7 处删除段由 删除段确认.py 按当前配音指纹重写，与旧验收版同类型）；词尾辅音、句间停顿、标点停顿、停顿位置、高亮同步全部通过",
+ "primary_permanent_archive_passed": true,
+ "actual_dual_permanent_archive_passed": false,
+ "backup_mirror": "用户决定只存主仓库，备份仓库不再同步",
+ "v2_change": "按用户 2026-11-16 原话“统一”，结尾简述两处“象岛”改为“大象岛”；声音配音指纹不变（25d18631ab5a），其余与 v1 相同",
+ "supersedes_unaccepted_v1": {
+  "archive_prefix": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v1",
+  "sha256": "a79418ea9bbb03b8204d28a5d59ee83dd6c5234b328c79491c9ad9a4f5b0d398"
+ }
+}
