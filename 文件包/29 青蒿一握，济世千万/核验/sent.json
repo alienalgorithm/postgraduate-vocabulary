@@ -1,0 +1,1660 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Project 523",
+   "predicate": "was named after",
+   "object_or_complement": "its launch date（介词 after 的宾语，23 May 1967 是它的同位语）",
+   "explain": "主干是 Project 523 was named after its launch date。be named after 是 name sb/sth after sb/sth（以……给某人或某物命名）的被动形式，谓语 was named after 为一般过去时，被动语态；after 后面的 its launch date 是介词宾语。"
+  },
+  "components": [
+   {
+    "text": "Project 523,",
+    "role": "主语（专有名词，名词 + 编号）",
+    "zh": "523项目"
+   },
+   {
+    "text": "a covert military mission",
+    "role": "同位语（名词短语），补充说明 Project 523 的性质",
+    "zh": "一项秘密的/隐秘的军事任务"
+   },
+   {
+    "text": "involving many institutes,",
+    "role": "后置定语（现在分词短语），修饰 mission",
+    "zh": "涉及多家机构"
+   },
+   {
+    "text": "was named after",
+    "role": "谓语（be named after 的一般过去时，被动语态）",
+    "zh": "得名于"
+   },
+   {
+    "text": "its launch date,",
+    "role": "介词 after 的宾语",
+    "zh": "它的启动日期"
+   },
+   {
+    "text": "23 May 1967.",
+    "role": "同位语，说明 its launch date 的具体日期",
+    "zh": "1967年5月23日"
+   }
+  ],
+  "structure": "①主句是 Project 523 was named after its launch date。主语 Project 523 和谓语 was named after 之间插入了一个由两个逗号隔开的同位语，读的时候要先跳过这一部分，找到谓语再回头看同位语。\n②a covert military mission involving many institutes 是同位语，说明 Project 523 是什么性质的项目（视频说明）。同位语的中心词是 mission，covert 和 military 是两个前置定语，分别说明“秘密的”和“军事的”；involving many institutes 是现在分词短语作后置定语，修饰 mission，相当于 which involved many institutes，任务与 involve 是主动关系，所以用现在分词。\n③谓语 was named after 意为“以……命名”（视频说明），its 指代 Project 523，its launch date 是 after 的宾语。\n④句末 23 May 1967 用逗号隔开，是 its launch date 的同位语，给出具体日期。句首编号 523 正好由句末日期 5月23日 解释，前后呼应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是紧跟在名词之后、对它进行解释说明的名词或名词短语，与前面的名词指同一事物，通常用逗号隔开。本句有两处同位语：a covert military mission involving many institutes 说明 Project 523 的性质，23 May 1967 说明 its launch date 的具体内容。同位语插在主语和谓语之间时会把主干拉开，考研长难句分析要先把两个逗号之间的成分拿开，主干 Project 523 was named after its launch date 就一目了然。翻译时同位语常用“是”字译出，或直接接在被说明的名词后面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, a physicist born in Warsaw, was the first woman to win a Nobel Prize.",
+      "zh": "玛丽·居里是一位出生于华沙的物理学家，她是第一位获得诺贝尔奖的女性。"
+     },
+     {
+      "en": "The festival will open on its traditional date, 1 June, despite the poor weather forecast.",
+      "zh": "尽管天气预报不佳，节日仍将在传统日期，即6月1日开幕。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后面作定语，表示主动关系或正在进行、经常存在的状态，相当于一个省略了关系代词和 be 动词的定语从句。本句 involving many institutes 修饰 mission，相当于 which involved many institutes。involve 作“涉及，牵涉”讲时，involving 后直接接名词。考研长难句中，名词后紧跟 -ing 短语时要判断它是定语还是状语：本句 involving 紧跟 mission，且整个同位语被逗号隔开，它只能修饰 mission。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers analysed data from 40 studies involving more than 10,000 patients.",
+      "zh": "研究人员分析了40项研究的数据，这些研究涉及一万多名患者。"
+     },
+     {
+      "en": "The number of students applying for graduate programmes has risen sharply.",
+      "zh": "申请研究生项目的学生人数大幅上升。"
+     }
+    ]
+   },
+   {
+    "title": "be named after 与 be named + 名词",
+    "explain": "name A after B 意为“以 B 的名字给 A 命名”，被动形式 A be named after B 意为“A 以 B 命名，A 得名于 B”，本句即“523项目得名于它的启动日期”。美式英语也说 name A for B。要与 be named + 名词 区分：后者意为“被命名为……”或“被任命为、被评为……”，如本文第14句 Tu was named a Lasker Award recipient（屠呦呦被评为拉斯克奖得主）。考研完形中 after 常被设为考点，不能换成 by 或 from。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The street was named after a local doctor who treated the poor for free.",
+      "zh": "这条街以一位免费给穷人看病的本地医生的名字命名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Project 523",
+    "explain": "523项目（又称523任务），是1967年5月23日启动的全国性抗疟药物研究协作项目，代号取自启动日期。本句用同位语点明它是一项秘密的军事任务，涉及多家机构。屠呦呦所在的研究所于1969年参加这一项目（见第3句）。"
+   },
+   {
+    "term": "covert 与 overt",
+    "explain": "covert 意为“秘密的，隐蔽的”，常修饰 operation、mission、surveillance 等，多用于军事、情报语境；反义词 overt 意为“公开的，明显的”。视频把 covert 译为“秘密的/隐秘的”。"
+   },
+   {
+    "term": "23 May 1967",
+    "explain": "英式日期写法，按“日、月、年”排列，日期数字后一般不加 th；美式写法是 May 23, 1967。本文日期都用英式写法，如第10句 4 October 1971、第15句 5 October 2015。译成汉语一律改成“年、月、日”顺序。"
+   },
+   {
+    "term": "institute",
+    "explain": "名词，研究所，学院，指从事研究或专业教育的机构，如 a research institute（研究所）、the Massachusetts Institute of Technology（麻省理工学院）。本句 many institutes 视频译为“多家机构”。"
+   }
+  ],
+  "translation_tip": "视频译文“523项目是一项秘密的/隐秘的军事任务，涉及多家机构，得名于它的启动日期，1967年5月23日。”的处理：①同位语 a covert military mission 用“是”字译出，变成判断句“523项目是一项……任务”，把插在主谓之间的说明成分顺势先译出来；不定冠词 a 译成“一项”。②现在分词短语 involving many institutes 没有前置成“涉及多家机构的任务”，而是拆成短句“涉及多家机构”，避免定语过长。③被动谓语 was named after 译成“得名于”，用主动形式表达被动意义。④句末同位语 23 May 1967 仍放在句末，用逗号接在“启动日期”后面，日期改为汉语的“年、月、日”顺序。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Its urgent target",
+   "predicate": "was",
+   "object_or_complement": "the chloroquine-resistant malaria（表语）",
+   "explain": "主系表结构：Its urgent target 作主语，was 是系动词，the chloroquine-resistant malaria 作表语，一般过去时。表语后的 weakening troops in the Vietnam War 是现在分词短语作后置定语，修饰 malaria。"
+  },
+  "components": [
+   {
+    "text": "Its urgent target",
+    "role": "主语（Its 指上句的 Project 523）",
+    "zh": "它的紧迫目标"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "the chloroquine-resistant malaria",
+    "role": "表语（复合形容词 chloroquine-resistant 作前置定语）",
+    "zh": "对氯喹产生耐药性的疟疾"
+   },
+   {
+    "text": "weakening troops",
+    "role": "后置定语（现在分词短语），修饰 malaria",
+    "zh": "它削弱了……部队"
+   },
+   {
+    "text": "in the Vietnam War.",
+    "role": "后置定语（介词短语），修饰 troops",
+    "zh": "越南战争中的"
+   }
+  ],
+  "structure": "①主句 Its urgent target was the chloroquine-resistant malaria，主系表结构。Its 回指上句的 Project 523，urgent 修饰 target，说明这个目标十分紧迫。\n②表语中心词是 malaria，chloroquine-resistant 是复合形容词作前置定语，由名词 chloroquine（氯喹）加形容词 resistant 构成，相当于 resistant to chloroquine，意为“对氯喹产生耐药性的”（视频说明）。\n③weakening troops in the Vietnam War 是现在分词短语作后置定语，修饰 malaria（视频说明），相当于 which was weakening troops in the Vietnam War；疟疾是 weaken 的发出者，二者是主动关系，所以用现在分词，并表示当时正在发生的情况。\n④in the Vietnam War 是介词短语作后置定语，修饰 troops，说明是哪场战争中的部队。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作后置定语（修饰表语）",
+    "explain": "现在分词短语可以跟在表语名词后面作定语，表示主动关系或正在进行的动作。本句 weakening troops in the Vietnam War 修饰表语中心词 malaria，相当于 which was weakening troops…。阅读时注意：本句的谓语只有 was，weakening 不是谓语，不能读成“疟疾正在削弱”这样的独立句子结构。定语较长时，汉语译文常把它拆成分句，用代词回指中心词，视频即译为“它削弱了越南战争中的部队”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The biggest threat was a drought affecting much of the region's farmland.",
+      "zh": "最大的威胁是一场旱灾，它影响了该地区的大片农田。"
+     },
+     {
+      "en": "Scientists are tracking a virus spreading rapidly among wild birds.",
+      "zh": "科学家正在追踪一种在野鸟中迅速传播的病毒。"
+     }
+    ]
+   },
+   {
+    "title": "“名词 + 形容词”构成的复合形容词",
+    "explain": "英语常用连字符把名词和形容词连成复合形容词，放在名词前作定语，名词部分相当于形容词后介词短语的宾语：chloroquine-resistant = resistant to chloroquine，同类的有 drug-resistant（耐药的）、heat-resistant（耐热的）、water-resistant（防水的）、sugar-free（无糖的）。这类结构把一个介词短语压缩成一个词，是外刊和科技文章中常见的简洁写法，翻译时要还原出其中的介词关系。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Hospitals are struggling to contain drug-resistant infections.",
+      "zh": "医院正努力控制耐药性感染。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "chloroquine",
+    "explain": "氯喹，一种人工合成的抗疟药（视频说明：chloroquine 是氯喹）。疟原虫对氯喹产生耐药性后，原有药物治疗效果下降，这正是523项目要寻找新药的直接原因。"
+   },
+   {
+    "term": "resistant to sth",
+    "explain": "对……有抵抗力，耐……；也可表示“抵制……的，反对……的”，如 resistant to change（抗拒变革）。在医学语境中指病原体对药物产生了耐药性，如 resistant to antibiotics（对抗生素耐药）。"
+   },
+   {
+    "term": "the Vietnam War",
+    "explain": "越南战争，持续到1975年。战争在热带地区进行，疟疾流行，严重削弱部队的战斗力，本句说明这正是523项目的紧迫目标。"
+   },
+   {
+    "term": "troops",
+    "explain": "troop 常用复数 troops 表示“部队，军队，士兵”，如 send troops（派遣部队）、US troops（美国军队）。单数 troop 多指“一群，一队”。"
+   }
+  ],
+  "translation_tip": "视频译文“它的紧迫目标是对氯喹产生耐药性的疟疾，它削弱了越南战争中的部队。”的处理：①复合形容词 chloroquine-resistant 前置译成“对氯喹产生耐药性的”，还原出 resistant to chloroquine 中的介词关系，并增补“产生”使表达完整。②后置定语 weakening troops in the Vietnam War 较长，没有前置，而是拆成独立分句，用“它”回指疟疾，译成“它削弱了越南战争中的部队”。③in the Vietnam War 作 troops 的后置定语，前移为“越南战争中的”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Tu Youyou",
+   "predicate": "was entrusted with",
+   "object_or_complement": "leading her institute's research group（动名词短语，作介词 with 的宾语）",
+   "explain": "主干是 Tu Youyou was entrusted with leading her institute's research group。be entrusted with doing sth 是 entrust sb with sth 的被动形式，意为“受命做……”，谓语为一般过去时，被动语态。"
+  },
+  "components": [
+   {
+    "text": "In January 1969",
+    "role": "时间状语（介词短语）",
+    "zh": "1969年1月"
+   },
+   {
+    "text": "Tu Youyou",
+    "role": "主语",
+    "zh": "屠呦呦"
+   },
+   {
+    "text": "was entrusted with",
+    "role": "谓语（entrust sb with sth 的被动形式，一般过去时）",
+    "zh": "受命"
+   },
+   {
+    "text": "leading her institute's research group,",
+    "role": "介词 with 的宾语（动名词短语）",
+    "zh": "领导她所在研究所的研究组"
+   },
+   {
+    "text": "despite",
+    "role": "介词，引导让步状语",
+    "zh": "尽管她"
+   },
+   {
+    "text": "having no doctorate or foreign training.",
+    "role": "介词 despite 的宾语（动名词短语），整个 despite 短语作让步状语",
+    "zh": "既没有博士学位，也没有在国外受过训练"
+   }
+  ],
+  "structure": "①句首 In January 1969 是时间状语，月份和年份前用介词 in。\n②主句 Tu Youyou was entrusted with leading her institute's research group。entrust sb with sth 意为“把某事托付给某人”，变成被动后 sb 作主语，with 保留在动词后，后接动名词短语 leading…，视频说明为“被委以做……的重任，受命做……”。\n③leading her institute's research group 是动名词短语作 with 的宾语：her institute's 是名词所有格，research 是名词作前置定语修饰 group。\n④despite having no doctorate or foreign training 作让步状语。despite 是介词（视频说明），后面接动名词短语 having…，having 的逻辑主语就是主句主语 Tu Youyou。no 同时否定 doctorate 和 foreign training 两个名词，意为“既没有博士学位，也没有国外训练”。\n⑤主句与让步状语形成对比：没有博士学位和留学经历，却被委以重任。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "entrust 的两种句型及被动形式",
+    "explain": "entrust 有两种句型：entrust sb with sth（把某事托付给某人）和 entrust sth to sb（把某事交给某人负责）。变成被动后分别是 sb be entrusted with sth / doing sth 和 sth be entrusted to sb。本句是第一种，人作主语，with 后接动名词 leading。易错点：with 和 to 不能混用，不说 be entrusted to doing sth；with 是介词，后面的动词要用 -ing 形式。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She was entrusted with managing the family's savings after her father fell ill.",
+      "zh": "父亲病倒后，她受托管理家里的积蓄。"
+     },
+     {
+      "en": "The task of rebuilding the bridge was entrusted to a local engineering firm.",
+      "zh": "重建这座桥的任务交给了当地一家工程公司。"
+     }
+    ]
+   },
+   {
+    "title": "despite 后接动名词作让步状语",
+    "explain": "despite 是介词，意为“尽管”，相当于 in spite of，后面只能接名词、代词或动名词，不能直接接从句；要接从句须改用 although、though 或 despite the fact that。despite 后不加 of，despite of 是常见错误。动名词的逻辑主语一般与主句主语一致，本句 having 的主语就是 Tu Youyou。考研写作中，despite doing sth 可以代替 although 从句，使句子更紧凑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Despite having lived in Paris for ten years, he still speaks very little French.",
+      "zh": "尽管他在巴黎住了十年，他的法语仍然说得很少。"
+     },
+     {
+      "en": "The company expanded rapidly despite facing strong competition.",
+      "zh": "尽管面临激烈竞争，这家公司仍迅速扩张。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词 + or + 名词",
+    "explain": "no 作限定词放在名词前表示否定，后面用 or 连接两个名词时，no 同时否定这两个名词，意为“既没有……也没有……”；否定句中并列成分一般用 or 连接，而不用 and。本句 no doctorate or foreign training 即“既没有博士学位，也没有在国外受过训练”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The village has no hospital or secondary school.",
+      "zh": "这个村子既没有医院，也没有中学。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Tu Youyou",
+    "explain": "屠呦呦，1930年生于浙江宁波，1955年毕业于北京医学院药学系，此后一直在卫生部中医研究院（今中国中医科学院）工作。她没有博士学位，没有留学经历，也不是两院院士，媒体常称她为“三无科学家”。"
+   },
+   {
+    "term": "doctorate",
+    "explain": "博士学位，相当于 doctoral degree，常见搭配 hold a doctorate（拥有博士学位）、a doctorate in chemistry（化学博士学位）。PhD 是最常见的一种博士学位。"
+   },
+   {
+    "term": "foreign training",
+    "explain": "foreign 意为“外国的，国外的”，training 是不可数名词，意为“训练，培训”。foreign training 指在国外接受的专业训练，视频译为“在国外受过训练”。"
+   },
+   {
+    "term": "research group",
+    "explain": "研究组，课题组。research 作定语修饰 group，research 多用作不可数名词，“一项研究”说 a piece of research 或 a study；复数 researches 只偶见于正式文体，考研写作中不宜使用。"
+   }
+  ],
+  "translation_tip": "视频译文“1969年1月，屠呦呦受命领导她所在研究所的研究组，尽管她既没有博士学位，也没有在国外受过训练。”的处理：①时间状语 In January 1969 放句首，加逗号断开。②被动结构 was entrusted with leading 译成“受命领导”，用本身带被动意味的“受命”，避免“被委托领导”的生硬说法。③her institute's 译成“她所在研究所的”，增补“所在”。④despite 短语译成让步分句，补出主语“她”；no doctorate or foreign training 用“既……也……”把 no 对两个名词的否定分别译出，名词 training 转成动词短语“受过训练”，foreign 译成“在国外”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "her team",
+   "predicate": "combed, compiled, and evaluated",
+   "object_or_complement": "over 2,000 folk recipes（combed 的宾语）；640 prescriptions（compiled 的宾语）；about 380 extracts（evaluated 的宾语）",
+   "explain": "一个主语带三个并列谓语，各接一个宾语，构成 A, B, and C 的并列结构。三个谓语都是一般过去时，主动语态，按工作推进的顺序排列。"
+  },
+  "components": [
+   {
+    "text": "In an exhaustive search,",
+    "role": "状语（介词短语），交代三个动作所处的整体情境",
+    "zh": "在一次彻底的搜寻中"
+   },
+   {
+    "text": "her team",
+    "role": "主语",
+    "zh": "她的团队"
+   },
+   {
+    "text": "combed",
+    "role": "谓语一",
+    "zh": "仔细翻检了"
+   },
+   {
+    "text": "over 2,000 folk recipes,",
+    "role": "宾语（combed 的宾语）",
+    "zh": "2,000多个民间药方"
+   },
+   {
+    "text": "compiled",
+    "role": "谓语二",
+    "zh": "编纂/汇编了"
+   },
+   {
+    "text": "640 prescriptions,",
+    "role": "宾语（compiled 的宾语）",
+    "zh": "640个处方/药方"
+   },
+   {
+    "text": "and evaluated",
+    "role": "并列连词 and + 谓语三",
+    "zh": "并评估了"
+   },
+   {
+    "text": "about 380 extracts",
+    "role": "宾语（evaluated 的宾语）",
+    "zh": "约380种提取物"
+   },
+   {
+    "text": "from some 200 medicinal herbs.",
+    "role": "后置定语（介词短语），修饰 extracts，说明来源",
+    "zh": "它们来自200种左右的药用的草药"
+   }
+  ],
+  "structure": "①In an exhaustive search 是介词短语作状语，概括后面三个动作：它们都属于一次彻底的搜寻。\n②主句主语 her team，三个并列谓语 combed、compiled、evaluated 依次接宾语，用 A, B, and C 的格式连接，and 前的逗号是牛津逗号。三个动作由翻检民间药方、汇编处方到评估提取物，逐步缩小范围。\n③三个宾语都带数量修饰：over 2,000 中 over 意为“超过”，视频说明译为“2,000多个”；about 380 中 about 意为“大约”；some 200 中 some 用在数字前表示“大约”（视频说明）。\n④from some 200 medicinal herbs 是介词短语作后置定语，修饰 extracts，说明提取物来自哪里；medicinal 修饰 herbs，意为“药用的”。\n⑤comb 本义是“梳”，这里指仔细翻检（视频说明），用梳头的动作比喻逐条搜寻。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "数词前的 over、about、some",
+    "explain": "数词前常加副词或介词表示约数：over、more than 表示“超过，多于”；about、around、approximately、some 表示“大约”；under、less than 表示“不到”。some 用在数字前作“大约”讲，是考研阅读中的熟词僻义，不能理解为“一些”。本句三个数字分别用了 over、about、some，视频依次译为“2,000多个”“约380种”“200种左右的”。考研阅读的细节题常在这类限定词上设陷阱，如把 over 2,000 偷换成 about 2,000。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some 3,000 people attended the conference, over half of them from abroad.",
+      "zh": "大约3,000人出席了会议，其中一半以上来自国外。"
+     },
+     {
+      "en": "The museum holds about 15,000 objects, including coins, tools, and jewellery.",
+      "zh": "这家博物馆收藏了约15,000件物品，包括硬币、工具和首饰。"
+     }
+    ]
+   },
+   {
+    "title": "三个并列谓语（A, B, and C）",
+    "explain": "同一个主语连续发出几个动作时，可以让几个谓语并列共用一个主语，三项及以上写成 A, B, and C，and 前的逗号即牛津逗号。并列的各项结构要一致，本句都是“动词过去式 + 宾语”。长难句中遇到几个 -ed 形式，要看它们是否共用一个主语，以此区分并列谓语和过去分词作定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The researchers collected soil samples, measured their acidity, and compared the results with data from 1990.",
+      "zh": "研究人员采集了土壤样本，测量了其酸度，并把结果与1990年的数据进行了比较。"
+     }
+    ]
+   },
+   {
+    "title": "介词 from 引导后置定语表示来源",
+    "explain": "介词短语可以直接跟在名词后面作定语，from 表示来源、出处。本句 extracts from some 200 medicinal herbs 即“来自约200种药用草药的提取物”。这类后置定语较长时，汉语译文常拆成分句，视频译为“约380种提取物，它们来自200种左右的药用的草药”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Volunteers tested oils from more than 50 plants for their effect on insects.",
+      "zh": "志愿者测试了取自50多种植物的油，观察它们对昆虫的作用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "comb",
+    "explain": "熟词僻义：名词是“梳子”，动词本义“梳（头发）”；本句引申为“仔细搜寻，逐条翻检”，常见搭配 comb (through) sth for sth，如 comb the files for evidence（在档案里仔细查找证据）。视频说明“梳理，这里指仔细翻检”。"
+   },
+   {
+    "term": "recipe 与 prescription",
+    "explain": "recipe 最常见的意思是“菜谱，烹饪方法”，本句 folk recipes 指民间流传的药方，视频译为“民间药方”；prescription 指医生开的处方、药方，视频译为“处方/药方”。"
+   },
+   {
+    "term": "exhaustive 与 exhausting",
+    "explain": "二者同源，容易混淆：exhaustive 意为“详尽的，彻底的”，如 an exhaustive search；exhausting 意为“使人精疲力竭的”，如 an exhausting journey。"
+   },
+   {
+    "term": "extract 的名词和动词",
+    "explain": "名词 extract 意为“提取物，浸膏；摘录”，重音在第一音节 /ˈekstrækt/；动词 extract 意为“提取，提炼；拔出”，重音在第二音节 /ɪkˈstrækt/。本句是名词复数。"
+   },
+   {
+    "term": "2,000",
+    "explain": "英文数字从右往左每三位用逗号分隔，2,000 即两千；视频保留了这一写法。"
+   }
+  ],
+  "translation_tip": "视频译文“在一次彻底的搜寻中，她的团队仔细翻检了2,000多个民间药方，编纂/汇编了640个处方/药方，并评估了约380种提取物，它们来自200种左右的药用的草药。”的处理：①状语 In an exhaustive search 放句首，an 译为“一次”。②三个并列谓语按原顺序译出，第三个前用“并”对应 and。③数量表达按汉语习惯调整：over 2,000 译成“2,000多个”，about 380 译成“约380种”，some 200 译成“200种左右的”，并补出量词“个”“种”。④后置定语 from some 200 medicinal herbs 没有前置，而是拆成分句“它们来自……”，用“它们”回指提取物，避免定语过长。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Qinghao（第一分句）；its results（第二分句）",
+   "predicate": "showed（第一分句）；were（第二分句，系动词）",
+   "object_or_complement": "flashes of promise（showed 的宾语）；erratic（were 的表语）",
+   "explain": "yet 连接两个并列分句：前一分句是主谓宾结构，后一分句是主系表结构，两个分句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Qinghao,",
+    "role": "第一分句主语",
+    "zh": "青蒿"
+   },
+   {
+    "text": "or sweet wormwood,",
+    "role": "同位语（or 引出同一种植物的另一个名称），说明 Qinghao",
+    "zh": "也就是黄花蒿"
+   },
+   {
+    "text": "showed",
+    "role": "第一分句谓语",
+    "zh": "展现出"
+   },
+   {
+    "text": "flashes of promise,",
+    "role": "宾语（showed 的宾语）",
+    "zh": "几丝成功迹象的闪光/闪现"
+   },
+   {
+    "text": "yet",
+    "role": "并列连词，表示转折",
+    "zh": "然而"
+   },
+   {
+    "text": "its results",
+    "role": "第二分句主语（its 指青蒿）",
+    "zh": "它的效果"
+   },
+   {
+    "text": "were erratic.",
+    "role": "系动词 were + 表语 erratic，构成第二分句的系表部分",
+    "zh": "却并不稳定/时好时坏的"
+   }
+  ],
+  "structure": "①全句是 yet 连接的并列句，yet 表示转折，意为“然而”。\n②第一分句 Qinghao showed flashes of promise。主语 Qinghao 后面的 or sweet wormwood 用两个逗号隔开，or 在这里不表示选择，而是引出同一种植物的另一个名称（视频说明），相当于“即，也就是”。show flashes of promise 意为“不时显出希望”（视频说明），flashes 用复数，说明这种希望是间歇出现的，并不持续。\n③第二分句 its results were erratic，its 指青蒿，results 指试验结果；were 是系动词，erratic 作表语，意为“不稳定的，时好时坏的”。\n④两个分句形成对比：青蒿有时有效，但效果不稳定。这个矛盾促使屠呦呦重新查阅古籍，引出下一句。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "or 表示“即，也就是”",
+    "explain": "or 除了表示选择“或者”，还可以引出对前一个词的解释或另一个名称，意为“即，也就是”，常用 A, or B, 的形式，B 前后用逗号隔开。这种 or 常用来给专业术语、外来词配上通俗说法。判断方法：A 和 B 指的是同一事物时，or 就表示解释，而不是选择。本句 Qinghao, or sweet wormwood 中，Qinghao 是汉语拼音名称，sweet wormwood 是英文名称，指同一种植物。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Each spring thousands of people suffer from hay fever, or allergic rhinitis.",
+      "zh": "每年春天，成千上万的人患上花粉症，也就是过敏性鼻炎。"
+     },
+     {
+      "en": "Doctors studied aphasia, or the loss of the ability to use language, in stroke patients.",
+      "zh": "医生研究了中风患者的失语症，即丧失语言能力的病症。"
+     }
+    ]
+   },
+   {
+    "title": "yet 作并列连词表示转折",
+    "explain": "yet 作连词时意为“然而，但是”，连接两个意思相反的分句，前面通常有逗号；它比 but 更正式，常带有“出乎意料”的意味，也可以说 and yet。yet 作副词时用于否定句和疑问句，意为“还，尚”，如 not yet。考研阅读中，yet 后面的内容往往是作者要强调的重点，本句强调的就是效果不稳定。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan was simple, yet it worked remarkably well.",
+      "zh": "这个计划很简单，然而效果出奇地好。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Qinghao",
+    "explain": "汉语“青蒿”的拼音，英文常称 sweet wormwood，学名 Artemisia annua，青蒿素就是从这种植物中提取出来的。视频译为“青蒿，也就是黄花蒿”。本句 Qinghao 首字母大写是因为位于句首，第7句引文中写作小写 qinghao。"
+   },
+   {
+    "term": "show promise",
+    "explain": "熟词僻义：promise 作名词除了“承诺”，还表示“希望，前途，成功的迹象”，show promise 意为“显示出成功的希望”，如 a young writer who shows great promise（一位很有前途的青年作家）。本句视频把 promise 译为“成功迹象”。"
+   },
+   {
+    "term": "a flash of sth",
+    "explain": "flash 本义是“闪光”，引申为某种品质、情绪或想法的“一时闪现”，如 a flash of inspiration（灵感一闪）、a flash of anger（一阵怒气）。本句 flashes of promise 视频译为“几丝成功迹象的闪光/闪现”。"
+   },
+   {
+    "term": "erratic",
+    "explain": "形容词，形容结果、行为、表现等没有规律、忽好忽坏，如 erratic results（时好时坏的结果）、erratic behaviour（反复无常的行为）。"
+   }
+  ],
+  "translation_tip": "视频译文“青蒿，也就是黄花蒿，展现出几丝成功迹象的闪光/闪现，然而它的效果却并不稳定/时好时坏的。”的处理：①Qinghao, or sweet wormwood 译成“青蒿，也就是黄花蒿”，用“也就是”把 or 的解释关系译出，保留原文的逗号停顿。②flashes of promise 中复数 flashes 用“几丝”体现，promise 取“成功迹象”，of 结构前置译成“成功迹象的闪光/闪现”。③yet 译为“然而”，后一分句再加“却”加强转折，erratic 译成“并不稳定/时好时坏的”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Tu",
+   "predicate": "revisited",
+   "object_or_complement": "the classical texts",
+   "explain": "主干是 Tu revisited the classical texts，主谓宾结构。谓语 revisited 为一般过去时，主动语态；句首现在分词短语 Seeking a clue 作状语，表示目的。"
+  },
+  "components": [
+   {
+    "text": "Seeking",
+    "role": "状语（现在分词短语 Seeking a clue 的核心，表示目的）",
+    "zh": "为了寻找"
+   },
+   {
+    "text": "a clue,",
+    "role": "seeking 的宾语",
+    "zh": "线索"
+   },
+   {
+    "text": "Tu",
+    "role": "主语",
+    "zh": "屠呦呦"
+   },
+   {
+    "text": "revisited",
+    "role": "谓语",
+    "zh": "重新审阅了"
+   },
+   {
+    "text": "the classical texts.",
+    "role": "宾语",
+    "zh": "古典文献"
+   }
+  ],
+  "structure": "①主句 Tu revisited the classical texts，主谓宾结构。Tu 即屠呦呦，英文报道中人名第二次出现时通常只用姓。\n②Seeking a clue 是现在分词短语作状语，表示目的（视频说明）。它的逻辑主语就是主句主语 Tu，屠呦呦是 seek 的发出者，二者是主动关系，所以用现在分词。\n③revisit 由 re-（再，重新）加 visit 构成，这里不是“重访某地”，而是重新查阅、审视文献，视频译为“重新审阅了”。\n④the classical texts 中 the 表示特指，指与中医药有关的古代典籍，与下一句葛洪的手册相衔接。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作状语及其逻辑主语",
+    "explain": "现在分词短语作状语时，它的逻辑主语必须与主句主语一致，否则就是“垂悬分词”错误，如不能写 Seeking a clue, the classical texts were revisited。现在分词短语作状语可表示时间、原因、伴随、结果等；seek、hope、want 这类本身带有意图的动词，其现在分词短语放在句首时可以交代主句动作的用意，本句视频说明定为表示目的，译为“为了寻找线索”。表示目的更常见的形式是不定式，如 To find a clue, she…。考研写作中用分词开头的句子，一定要检查主句主语是否就是分词动作的执行者。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Hoping to avoid the traffic, she left home before dawn.",
+      "zh": "为了避开拥堵的车流，她天亮前就出了门。"
+     },
+     {
+      "en": "Wanting to improve his English, he spent a year in Canada.",
+      "zh": "为了提高英语水平，他在加拿大待了一年。"
+     }
+    ]
+   },
+   {
+    "title": "前缀 re- 表示“再，重新”",
+    "explain": "前缀 re- 加在动词前表示“再，重新”，如 revisit（重新审视）、rethink（重新考虑）、rebuild（重建）、reconsider（重新考虑）。revisit 除了“重访某地”，在议论文中常用于 revisit an issue/a question/an idea，意为“重新审视某个问题或观点”，是考研阅读中的高频用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The committee agreed to revisit the question of funding next year.",
+      "zh": "委员会同意明年重新审议经费问题。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Tu",
+    "explain": "英文新闻和学术写作中，人物第一次出现用全名，之后只用姓。中国人名姓在前，屠呦呦的姓是 Tu，所以本句称 Tu。汉语译文不习惯只称姓，视频译为全名“屠呦呦”。"
+   },
+   {
+    "term": "clue",
+    "explain": "名词，线索，提示，常见搭配 a clue to sth（……的线索）、look for clues（寻找线索）；口语 not have a clue 意为“一无所知”。"
+   },
+   {
+    "term": "classical 与 classic",
+    "explain": "classical 意为“古典的，经典的（指古代或传统的）”，如 classical texts（古典文献）、classical music（古典音乐）；classic 意为“经典的，典型的，一流的”，如 a classic example（典型例子）。"
+   }
+  ],
+  "translation_tip": "视频译文“为了寻找线索，屠呦呦重新审阅了古典文献。”的处理：①现在分词短语 Seeking a clue 依据视频说明作目的状语，增补“为了”，放在句首。②主语 Tu 译成全名“屠呦呦”。③revisited 中的 re- 译成“重新”，visit 根据宾语“文献”译为“审阅”，合为“重新审阅了”。④the classical texts 译为“古典文献”，the 不必译出。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "the physician Ge Hong's handbook",
+   "predicate": "advised",
+   "object_or_complement": "taking \"a handful of qinghao immersed in two litres of water\"（动名词短语作宾语）",
+   "explain": "主谓宾结构：advise doing sth，动名词短语 taking… 作 advised 的宾语。谓语为一般过去时，主动语态；书本作主语，“建议”是书中的内容。"
+  },
+  "components": [
+   {
+    "text": "Around AD 340,",
+    "role": "时间状语（介词短语，around 表示“大约”）",
+    "zh": "约公元340年"
+   },
+   {
+    "text": "the physician Ge Hong's handbook",
+    "role": "主语（the physician Ge Hong 是同位结构，所有格 's 加在整体末尾）",
+    "zh": "医师葛洪的手册"
+   },
+   {
+    "text": "advised",
+    "role": "谓语",
+    "zh": "建议"
+   },
+   {
+    "text": "taking",
+    "role": "宾语（动名词，引出所建议的做法）",
+    "zh": "服用"
+   },
+   {
+    "text": "\"a handful of qinghao",
+    "role": "taking 的宾语（引文中的名词短语，中心词是 qinghao）",
+    "zh": "一把……青蒿"
+   },
+   {
+    "text": "immersed in two litres of water\".",
+    "role": "后置定语（过去分词短语），修饰 qinghao",
+    "zh": "浸泡在两升水中的"
+   }
+  ],
+  "structure": "①Around AD 340 是时间状语，around 意为“大约”，AD 表示公元，写在年份前面。\n②主语 the physician Ge Hong's handbook，中心词是 handbook（手册），指葛洪的《肘后备急方》（视频说明）。the physician Ge Hong 是“职业名词 + 人名”的同位结构，所有格 's 加在整个结构的末尾，表示“医师葛洪的”。\n③谓语 advised 后接动名词 taking 作宾语，advise doing sth 意为“建议做……”（视频说明）。\n④taking 的宾语是引号中的名词短语：a handful of 意为“一把”（视频说明），中心词 qinghao；immersed in two litres of water 是过去分词短语作后置定语，修饰 qinghao，表示被动和状态：青蒿是被浸在水中的。\n⑤引文是《肘后备急方》原文“青蒿一握，以水二升渍”的英译（视频说明）。句号放在引号外面，因为引号里只是一个名词短语，不是完整的句子。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "advise 的常用句型",
+    "explain": "advise 表示“建议”时有三种常用句型：advise doing sth（建议做某事，不指明对象，本句即此用法，视频说明“建议做……”）；advise sb to do sth（建议某人做某事）；advise that sb (should) do sth（宾语从句用虚拟语气，should 可省略）。易错点：不能说 advise to do sth，不指明对象时要用动名词；advise 是动词，名词是 advice（不可数），不说 an advice。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Doctors advise drinking plenty of water in hot weather.",
+      "zh": "医生建议天热时多喝水。"
+     },
+     {
+      "en": "The lawyer advised her to keep copies of all the documents.",
+      "zh": "律师建议她把所有文件都留下副本。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语表示被动状态",
+    "explain": "及物动词的过去分词短语放在名词之后，表示被动关系或完成后的状态，相当于一个被动的定语从句。本句 a handful of qinghao immersed in two litres of water 相当于 a handful of qinghao which is immersed in two litres of water，青蒿是“被浸泡”的一方。immerse sth in sth 意为“把某物浸入……”，过去分词保留介词 in。翻译时一般前置成“……的”，视频译为“一把浸泡在两升水中的青蒿”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Vegetables boiled for too long lose much of their vitamin C.",
+      "zh": "煮得太久的蔬菜会损失大量维生素C。"
+     }
+    ]
+   },
+   {
+    "title": "“职业名词 + 人名”的同位结构及其所有格",
+    "explain": "英语常把表示职业、身份的名词放在人名前，与人名构成同位关系，如 the physician Ge Hong、the poet Li Bai、the novelist Jane Austen；变成所有格时，'s 加在整个结构的末尾，即 the physician Ge Hong's handbook。汉语可直接合译为“医师葛洪”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novelist Charles Dickens's early life was marked by poverty.",
+      "zh": "小说家查尔斯·狄更斯的早年生活十分贫困。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Ge Hong 与《肘后备急方》",
+    "explain": "葛洪是东晋时期的医学家、道教学者，《肘后备急方》是他编写的急救方书，本句称之为 handbook（手册）。书中原文“青蒿一握，以水二升渍，绞取汁，尽服之”，前半句即本句引文的出处（视频说明）。屠呦呦正是从这段记载得到启发。"
+   },
+   {
+    "term": "AD",
+    "explain": "拉丁语 Anno Domini 的缩写，表示公元，一般写在年份前，如 AD 340；“公元前”是 BC，写在年份后，如 300 BC。学术写作中也用 CE 和 BCE，都写在年份后。"
+   },
+   {
+    "term": "a handful of",
+    "explain": "本义“一把”，即一只手能抓起的量；也常表示“少数，几个”，如 a handful of people（寥寥数人）。本文标题 A Handful of Wormwood That Saved Millions 就取自本句引文。"
+   },
+   {
+    "term": "litre",
+    "explain": "升，容量单位，英式拼写；美式拼写为 liter。本文采用英式拼写。"
+   }
+  ],
+  "translation_tip": "视频译文“约公元340年，医师葛洪的手册建议服用：“一把浸泡在两升水中的青蒿”。”的处理：①时间状语 Around AD 340 放句首，译为“约公元340年”。②同位结构 the physician Ge Hong 合译为“医师葛洪”，所有格译成“的”。③advised taking 译成“建议服用”，后加冒号引出引文，比把长引文塞进“建议服用……的……”更清楚。④引文中的过去分词短语 immersed in two litres of water 前置为“浸泡在两升水中的”，修饰“青蒿”；a handful of 译为量词“一把”，引号保留。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "This",
+   "predicate": "bypassed",
+   "object_or_complement": "boiling",
+   "explain": "主谓宾结构，谓语 bypassed 为一般过去时，主动语态；动名词 boiling 作宾语。"
+  },
+  "components": [
+   {
+    "text": "This",
+    "role": "主语（指示代词，回指上句用水浸泡青蒿的做法）",
+    "zh": "这个方法"
+   },
+   {
+    "text": "bypassed",
+    "role": "谓语",
+    "zh": "绕开了"
+   },
+   {
+    "text": "boiling.",
+    "role": "宾语（动名词）",
+    "zh": "煮沸"
+   }
+  ],
+  "structure": "①This 是指示代词作主语，回指上句用水浸泡青蒿的做法（视频说明），指的是整件事而不是某个单独的名词。\n②bypass 本义是“绕过（某地）”，这里引申为“避开（某个步骤）”（视频说明“绕过，避开”）。\n③boiling 是动名词作宾语，表示“煮沸”这一做法。\n④全句只有三个词，紧跟在长句之后，用短句点出关键：葛洪的方法没有加热煮沸。下一句屠呦呦怀疑高温破坏有效成分，就是从这一点得到的启发。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "this 回指前文整件事",
+    "explain": "this、that、which 等代词可以回指前文的一整句话或一个完整的做法，而不只是某个名词。本句 This 指上句“用水浸泡青蒿”的整个做法。考研阅读中，代词指代题常考这一点：答案往往是对前一句内容的概括，而不是离代词最近的名词。翻译时汉语常补出所指的名词，视频译为“这个方法”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council cut funding for public libraries. This angered many residents.",
+      "zh": "市议会削减了公共图书馆的经费，这激怒了许多居民。"
+     }
+    ]
+   },
+   {
+    "title": "动名词作宾语",
+    "explain": "动名词兼有名词和动词的性质，可以作主语、宾语、表语和介词宾语。本句 boiling 作 bypassed 的宾语，表示“煮沸”这一做法。avoid、skip、consider、mind、suggest、finish 等动词后接动作时只能用动名词，不能用不定式；本句 bypass 后面的 boiling 同样是动名词，作宾语。本文第17句 the boiling it skipped 中，boiling 前加了定冠词，名词性更强，指的就是本句所说的煮沸。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new method skips drying the samples, which saves a full day.",
+      "zh": "新方法省去了干燥样本这一步，节省了整整一天。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "bypass",
+    "explain": "动词“绕过，避开”，如 bypass the city centre（绕过市中心）、bypass the usual procedure（绕开常规程序）；名词指“绕行道路”和“心脏搭桥手术”（heart bypass surgery）。"
+   },
+   {
+    "term": "boil",
+    "explain": "动词“煮沸，沸腾”；boiling point 指“沸点”，水在标准大气压下的沸点是100摄氏度。下一句用 boiling at about 35 degrees Celsius 说明乙醚的沸点。"
+   },
+   {
+    "term": "短句的修辞作用",
+    "explain": "外刊写作常在长句之后接一个极短的句子，以突出关键信息。本句三个词点明古方没有煮沸，是全文的转折点，与最后一句 the boiling it skipped 首尾呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“这个方法绕开了煮沸。”的处理：①This 补出所指，译成“这个方法”，读者不必回头寻找“这”指什么。②bypassed 译成“绕开了”，用“了”体现过去完成的动作。③动名词 boiling 直接译成动词性词语“煮沸”，汉语动词可以直接作宾语。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Tu（第一分句）；she（第二分句）",
+   "predicate": "suspected（第一分句）；switched to（第二分句）",
+   "object_or_complement": "heat during extraction was degrading a delicate component（宾语从句，省略 that）；ether（switch to 的宾语）",
+   "explain": "so 连接两个并列分句：前一分句主谓宾，宾语是省略了 that 的宾语从句；后一分句主谓宾。主句谓语都是一般过去时，主动语态；宾语从句谓语 was degrading 是过去进行时。"
+  },
+  "components": [
+   {
+    "text": "Tu",
+    "role": "第一分句主语",
+    "zh": "屠呦呦"
+   },
+   {
+    "text": "suspected",
+    "role": "第一分句谓语",
+    "zh": "怀疑"
+   },
+   {
+    "text": "heat during extraction was degrading a delicate component,",
+    "role": "宾语从句（省略引导词 that），作 suspected 的宾语",
+    "zh": "提取过程中的高温正在降解/分解某种脆弱的成分"
+   },
+   {
+    "text": "so",
+    "role": "并列连词，表示结果",
+    "zh": "于是"
+   },
+   {
+    "text": "she",
+    "role": "第二分句主语",
+    "zh": "她"
+   },
+   {
+    "text": "switched to",
+    "role": "第二分句谓语（switch to 改用）",
+    "zh": "改用/换成了"
+   },
+   {
+    "text": "ether,",
+    "role": "宾语（switch to 的宾语）",
+    "zh": "乙醚"
+   },
+   {
+    "text": "a volatile solvent",
+    "role": "同位语，补充说明 ether",
+    "zh": "一种易挥发的溶剂"
+   },
+   {
+    "text": "boiling at about 35 degrees Celsius.",
+    "role": "后置定语（现在分词短语），修饰 solvent",
+    "zh": "沸点为约35摄氏度"
+   }
+  ],
+  "structure": "①全句由 so 连接两个分句，so 表示结果，意为“于是”。\n②第一分句 Tu suspected (that) heat during extraction was degrading a delicate component：suspected 后省略了 that，引出宾语从句（视频说明）。从句主语是 heat，during extraction 是介词短语作后置定语，修饰 heat；谓语 was degrading 是过去进行时，表示提取过程中持续发生的破坏；宾语 a delicate component，delicate 在这里指不耐热、容易被破坏的（视频说明）。\n③第二分句 she switched to ether，switch to 意为“改用，换成”（视频说明），ether 是 to 的宾语。\n④ether 后面的 a volatile solvent boiling at about 35 degrees Celsius 是同位语，补充说明 ether（视频说明）；同位语内部，volatile 作前置定语修饰 solvent，boiling at about 35 degrees Celsius 是现在分词短语作后置定语，表示“在约35摄氏度时沸腾”。\n⑤两个分句的逻辑：怀疑高温破坏成分，所以改用沸点低的溶剂，在较低温度下提取。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that",
+    "explain": "think、believe、say、suspect、know 等动词后接宾语从句时，引导词 that 常可省略，口语和新闻中尤其常见。识别方法：动词后面直接出现一个完整的“主语 + 谓语”结构，如本句 suspected heat … was degrading。若宾语从句与动词之间有插入语，或有两个并列宾语从句，第二个从句的 that 一般不能省略。另外 suspect 意为“怀疑（认为可能是）”，后接宾语从句表示倾向于相信；doubt 意为“怀疑（认为未必是）”，两者方向相反，考研阅读中要分清。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Engineers suspected the cracks were caused by repeated freezing and thawing.",
+      "zh": "工程师怀疑这些裂缝是反复冻融造成的。"
+     },
+     {
+      "en": "Many economists believe the recovery will be slow and uneven.",
+      "zh": "许多经济学家认为经济复苏将缓慢且不均衡。"
+     }
+    ]
+   },
+   {
+    "title": "过去进行时与时态呼应",
+    "explain": "过去进行时（was/were doing）表示过去某一时刻或某段时间内正在进行的动作。主句是过去时，宾语从句的时态一般也要相应用过去的某种时态。本句主句 suspected 是一般过去时，从句用 was degrading，表示她怀疑提取过程中高温一直在降解某种成分，视频用“正在”译出进行意味。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The doctors realised the infection was spreading faster than expected.",
+      "zh": "医生们意识到感染扩散的速度比预想的要快。"
+     }
+    ]
+   },
+   {
+    "title": "so 连接表示结果的并列分句",
+    "explain": "so 作并列连词时意为“所以，于是”，连接两个分句，前一分句是原因，后一分句是结果，so 前面通常加逗号。中国学生常写 Because…, so… 这样的句子，这是错误的：because 和 so 不能在同一句中同时使用，二者选其一。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The roads were icy, so the school closed early.",
+      "zh": "路面结了冰，所以学校提早放学了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ether",
+    "explain": "此处指乙醚（diethyl ether），沸点约34.6摄氏度，比水的沸点100摄氏度低得多，因此用它提取可以在较低温度下进行，原文说 about 35 degrees Celsius。乙醚易挥发，也极易燃烧。"
+   },
+   {
+    "term": "delicate",
+    "explain": "熟词僻义：常见意思是“精致的，娇嫩的，微妙的”，本句指不耐热、容易被破坏的（视频说明），视频译为“脆弱的”。"
+   },
+   {
+    "term": "volatile",
+    "explain": "在化学语境中意为“易挥发的”，如 volatile oils（挥发油）；常用义是“易变的，不稳定的”，如 a volatile market（动荡的市场）、a volatile situation（一触即发的局势）。"
+   },
+   {
+    "term": "degrees Celsius",
+    "explain": "摄氏度，可写作 35°C，读作 thirty-five degrees Celsius。Celsius 来自提出这种温标的瑞典天文学家安德斯·摄尔修斯（Anders Celsius）；华氏度是 degrees Fahrenheit。"
+   },
+   {
+    "term": "switch to",
+    "explain": "改用，换成，如 switch to a new supplier（改用新的供应商）；switch from A to B 意为“从 A 换成 B”。"
+   }
+  ],
+  "translation_tip": "视频译文“屠呦呦怀疑，提取过程中的高温正在降解/分解某种脆弱的成分，于是她改用/换成了乙醚，一种易挥发的溶剂，沸点为约35摄氏度。”的处理：①“怀疑”后加逗号，再译出宾语从句，使主句与从句层次分明。②后置定语 during extraction 前移为“提取过程中的”，heat 译成“高温”，点出温度高这层意思。③过去进行时 was degrading 用“正在”译出。④同位语 a volatile solvent 译成“一种易挥发的溶剂”，紧跟在“乙醚”之后；现在分词短语 boiling at about 35 degrees Celsius 拆成短句“沸点为约35摄氏度”，动词 boil 转成名词“沸点”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "sample 191",
+   "predicate": "inhibited",
+   "object_or_complement": "the parasite",
+   "explain": "主谓宾结构，谓语 inhibited 为一般过去时，主动语态；completely 是程度状语，in infected mice 作 the parasite 的后置定语。"
+  },
+  "components": [
+   {
+    "text": "On 4 October 1971",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1971年10月4日"
+   },
+   {
+    "text": "sample 191",
+    "role": "主语（名词 + 编号）",
+    "zh": "第191号样品"
+   },
+   {
+    "text": "completely",
+    "role": "程度状语，修饰 inhibited",
+    "zh": "完全"
+   },
+   {
+    "text": "inhibited",
+    "role": "谓语",
+    "zh": "抑制了"
+   },
+   {
+    "text": "the parasite",
+    "role": "宾语",
+    "zh": "寄生虫"
+   },
+   {
+    "text": "in infected mice.",
+    "role": "后置定语（介词短语），修饰 the parasite",
+    "zh": "受感染小鼠体内的"
+   }
+  ],
+  "structure": "①On 4 October 1971 是时间状语，具体某一天前用介词 on。日期状语后没有逗号，主语 sample 191 紧随其后。\n②主语 sample 191 是“名词 + 编号”的结构，与第1句的 Project 523 一样，表示编号时名词前不加冠词。\n③completely 是程度副词，修饰谓语 inhibited，放在主语和谓语之间。\n④宾语 the parasite，指疟原虫（视频说明）；in infected mice 是介词短语作后置定语，修饰 the parasite（视频说明），infected 是过去分词作前置定语，修饰 mice。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "时间介词 on、in 的选择",
+    "explain": "具体某一天（包括带日期的某天、星期几、某天的上午或晚上）前用 on，如 on 4 October 1971、on Monday、on the morning of 8 November；月份、季节、年份前用 in，如 in July 1972、in 2011。本文日期表达很多：第3句 In January 1969、第12句 In July 1972 用 in，本句和第13句 on 8 November、第15句 On 5 October 2015 用 on。考研完形和写作中常考这一点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 2 March 1990 and took effect in July.",
+      "zh": "条约于1990年3月2日签署，同年7月生效。"
+     }
+    ]
+   },
+   {
+    "title": "“名词 + 编号”表示序号",
+    "explain": "名词后面直接加数字表示编号，前面不加冠词，如 Room 203、Chapter 5、Gate 12、Project 523，本句 sample 191 即“第191号样品”。翻译时要补出“第……号”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Patient 12 showed no side effects during the trial.",
+      "zh": "12号病人在试验期间没有出现任何副作用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sample 191",
+    "explain": "屠呦呦团队用乙醚提取的第191号样品，在动物实验中对鼠疟原虫的抑制率达到100%，原文称 completely inhibited the parasite。"
+   },
+   {
+    "term": "parasite",
+    "explain": "寄生虫，寄生生物；本句指疟原虫（视频说明）。疟疾由疟原虫引起，经按蚊叮咬传播。parasite 也可比喻“寄生虫般的人”。"
+   },
+   {
+    "term": "inhibit",
+    "explain": "抑制，阻碍，常见搭配 inhibit growth（抑制生长）、inhibit infection（抑制感染）；名词 inhibitor 指“抑制剂”。"
+   },
+   {
+    "term": "mice",
+    "explain": "mouse 的复数，是不规则复数形式。实验用的小鼠英文就是 mice，视频译为“小鼠”。"
+   }
+  ],
+  "translation_tip": "视频译文“1971年10月4日，第191号样品完全抑制了受感染小鼠体内的寄生虫。”的处理：①日期按汉语顺序译为“1971年10月4日”，放句首，后加逗号。②sample 191 补出“第”和“号”，译为“第191号样品”。③后置定语 in infected mice 前移为“受感染小鼠体内的”，增补“体内”，点明寄生虫所在的位置，in 不直译为“在……里”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Efficacy in mice",
+   "predicate": "indicated",
+   "object_or_complement": "nothing（about human safety 作其后置定语）",
+   "explain": "主谓宾结构，谓语 indicated 为一般过去时，主动语态。indicate nothing about… 意为“对……什么也说明不了”。"
+  },
+  "components": [
+   {
+    "text": "Efficacy",
+    "role": "主语（抽象名词）",
+    "zh": "有药效"
+   },
+   {
+    "text": "in mice",
+    "role": "后置定语（介词短语），修饰 Efficacy",
+    "zh": "在小鼠身上"
+   },
+   {
+    "text": "indicated nothing about",
+    "role": "谓语 indicated + 宾语 nothing + 介词 about（indicate nothing about 对……什么也说明不了）",
+    "zh": "并不能说明"
+   },
+   {
+    "text": "human",
+    "role": "定语，修饰 safety",
+    "zh": "人"
+   },
+   {
+    "text": "safety.",
+    "role": "介词 about 的宾语",
+    "zh": "是否安全"
+   }
+  ],
+  "structure": "①主语 Efficacy in mice，中心词 efficacy（药效），in mice 是介词短语作后置定语。\n②谓语 indicated，宾语 nothing，about human safety 是介词短语，修饰 nothing，indicate nothing about… 意为“对……什么也说明不了”（视频说明）。\n③本句用名词化结构浓缩了两个完整的意思：Efficacy in mice 相当于 the extract was effective in mice，human safety 相当于 whether it was safe for humans。\n④本句承上启下：上段说小鼠实验成功，本句指出这并不能证明药物对人安全，引出下一句屠呦呦和同事自愿试服。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词化结构",
+    "explain": "英语书面语常用抽象名词浓缩一个句子的意思，叫作名词化，如 efficacy in mice（药物在小鼠身上有效）、human safety（对人是否安全）；汉语则更习惯用动词或小句表达。名词化结构让句子简洁、客观，是外刊和学术文章的典型特征，也是考研长难句难读的原因之一。阅读时要把名词还原成“谁怎么样”，翻译时常把名词转成动词或小句，视频把 Efficacy in mice 译成“在小鼠身上有药效”，把 human safety 译成“人是否安全”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Success in the laboratory does not guarantee success in the market.",
+      "zh": "在实验室里成功，并不能保证在市场上成功。"
+     },
+     {
+      "en": "The rapid growth of online shopping has changed how people spend their weekends.",
+      "zh": "网购的迅速增长改变了人们度过周末的方式。"
+     }
+    ]
+   },
+   {
+    "title": "nothing 作宾语表示全部否定",
+    "explain": "nothing 意为“什么也没有”，作宾语时表示全部否定，相当于 not … anything，但语气更强、更简洁。本句 indicated nothing about 相当于 did not indicate anything about。nothing 后可接介词短语或形容词作后置定语，如 nothing new、nothing about the cause。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey tells us nothing about why customers leave.",
+      "zh": "这项调查对顾客为什么流失什么也没告诉我们。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "efficacy",
+    "explain": "正式用词，指药物、疗法等产生预期效果的能力，医药领域常用，如 the efficacy of a vaccine（疫苗的效力）。本句视频译为“药效”。"
+   },
+   {
+    "term": "indicate",
+    "explain": "表明，说明，常见用法 indicate that…（表明……）、indicate sth（表明某事）；本句 indicate nothing about 意为“对……什么也说明不了”。"
+   },
+   {
+    "term": "human",
+    "explain": "本句 human 作定语，意为“人的，人类的”，human safety 指对人的安全性，与 mice 形成动物与人的对比。"
+   }
+  ],
+  "translation_tip": "视频译文“在小鼠身上有药效，并不能说明人是否安全。”的处理：①名词化主语 Efficacy in mice 拆成小句“在小鼠身上有药效”：后置定语 in mice 前移为“在小鼠身上”，名词 efficacy 转成动词短语“有药效”，后加逗号。②indicated nothing about 译成“并不能说明”，用“不能”表达 nothing 的全部否定，“并”加强语气。③human safety 转成“是否”小句“人是否安全”，意思更清楚。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Tu and two colleagues",
+   "predicate": "took",
+   "object_or_complement": "the extract",
+   "explain": "主谓宾结构，谓语 took 为一般过去时，主动语态；句中有时间状语、不定式目的状语和方式状语。"
+  },
+  "components": [
+   {
+    "text": "In July 1972,",
+    "role": "时间状语（介词短语）",
+    "zh": "1972年7月"
+   },
+   {
+    "text": "to assess",
+    "role": "目的状语（不定式短语 to assess its toxicity 的核心）",
+    "zh": "为了评估"
+   },
+   {
+    "text": "its toxicity,",
+    "role": "assess 的宾语",
+    "zh": "它的毒性"
+   },
+   {
+    "text": "Tu",
+    "role": "主语一",
+    "zh": "屠呦呦"
+   },
+   {
+    "text": "and two colleagues",
+    "role": "并列连词 and + 主语二",
+    "zh": "和两名同事"
+   },
+   {
+    "text": "voluntarily",
+    "role": "方式状语，修饰 took",
+    "zh": "自愿地"
+   },
+   {
+    "text": "took",
+    "role": "谓语",
+    "zh": "服下了"
+   },
+   {
+    "text": "the extract.",
+    "role": "宾语",
+    "zh": "这种提取物"
+   }
+  ],
+  "structure": "①In July 1972 是时间状语，月份和年份前用 in。\n②to assess its toxicity 是不定式短语作目的状语（视频说明），放在主语之前，先交代目的；its 指前文的提取物。\n③主语 Tu and two colleagues 由 and 连接两个名词，作复数主语。\n④voluntarily 是方式状语，修饰 took，说明她们是主动、自愿地服药。\n⑤谓语 took 在这里意为“服用（药物）”，宾语 the extract 用定冠词 the，特指前文那种青蒿提取物。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不定式作目的状语",
+    "explain": "不定式短语可以作目的状语，表示“为了……”，可放在句首或句末。放在句首时起强调作用，后面用逗号与主句隔开，本句 to assess its toxicity 即先交代目的。也可以用 in order to 和 so as to 加强目的意味，但 so as to 一般不放在句首。注意不定式的逻辑主语应与主句主语一致：本句评估毒性的就是屠呦呦和两名同事。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "To reduce costs, the company moved its production overseas.",
+      "zh": "为了降低成本，这家公司把生产转移到了海外。"
+     },
+     {
+      "en": "Researchers interviewed over 500 families to understand how children use smartphones.",
+      "zh": "研究人员采访了500多个家庭，以了解孩子们如何使用智能手机。"
+     }
+    ]
+   },
+   {
+    "title": "take 表示“服用（药物）”",
+    "explain": "英语中“吃药”用 take，如 take medicine、take a pill、take two tablets a day，不说 eat medicine。本句 took the extract 即“服下了这种提取物”。take 还可以表示“摄入”，如 take vitamins（服用维生素）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Patients should take the tablets with food to avoid stomach upset.",
+      "zh": "病人应随餐服用这种药片，以免肠胃不适。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "toxicity",
+    "explain": "毒性，由 toxic（有毒的）加名词后缀 -ity 构成，如 low toxicity（低毒性）。评估药物毒性是用于人体之前必不可少的一步。"
+   },
+   {
+    "term": "voluntarily",
+    "explain": "自愿地，主动地，形容词是 voluntary（自愿的），名词 volunteer（志愿者）。本句强调屠呦呦和同事是主动以身试药。"
+   },
+   {
+    "term": "colleague",
+    "explain": "同事，指同一单位或同一行业中一起工作的人，比 co-worker 正式。two colleagues 视频译为“两名同事”。"
+   }
+  ],
+  "translation_tip": "视频译文“1972年7月，为了评估它的毒性，屠呦呦和两名同事自愿地服下了这种提取物。”的处理：①时间状语和目的状语都保留在句首，与英文顺序一致；不定式 to assess 译为“为了评估”。②voluntarily 译为“自愿地”，放在动词前。③took 结合服药的语境译为“服下了”；the extract 用“这种”译出 the 的特指意味。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "it（第一分句）；her team（第二分句）",
+   "predicate": "was administered to（第一分句）；obtained（第二分句）",
+   "object_or_complement": "21 malaria patients（介词 to 的宾语）；pure crystals of the substance（obtained 的宾语）",
+   "explain": "and 连接两个并列分句：前一分句是 administer A to B 的被动形式 A be administered to B，一般过去时被动语态；后一分句是主谓宾结构，一般过去时主动语态。"
+  },
+  "components": [
+   {
+    "text": "Thereafter,",
+    "role": "时间状语（副词）",
+    "zh": "此后"
+   },
+   {
+    "text": "from August to October,",
+    "role": "时间状语（介词短语）",
+    "zh": "从8月到10月"
+   },
+   {
+    "text": "it",
+    "role": "第一分句主语（指上句的提取物）",
+    "zh": "这种提取物"
+   },
+   {
+    "text": "was administered to",
+    "role": "第一分句谓语（administer A to B 的被动形式）",
+    "zh": "用于治疗"
+   },
+   {
+    "text": "21 malaria patients",
+    "role": "介词 to 的宾语（malaria 是名词作前置定语）",
+    "zh": "21名疟疾病人"
+   },
+   {
+    "text": "in Hainan,",
+    "role": "地点状语（介词短语）",
+    "zh": "在海南"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "on 8 November",
+    "role": "时间状语（介词短语）",
+    "zh": "在11月8日"
+   },
+   {
+    "text": "her team",
+    "role": "第二分句主语",
+    "zh": "她的团队"
+   },
+   {
+    "text": "obtained",
+    "role": "第二分句谓语",
+    "zh": "得到了"
+   },
+   {
+    "text": "pure crystals of the substance",
+    "role": "宾语（of the substance 作 crystals 的后置定语）",
+    "zh": "这种物质的纯净晶体"
+   },
+   {
+    "text": "later named artemisinin.",
+    "role": "后置定语（过去分词短语），修饰 the substance",
+    "zh": "它后来被命名为青蒿素"
+   }
+  ],
+  "structure": "①全句由 and 连接两个分句，分别讲临床用药和分离出晶体两件事。\n②第一分句前有两个时间状语：Thereafter 是副词，意为“此后”，承接上句的试服；from August to October 交代时间范围。\n③第一分句 it was administered to 21 malaria patients in Hainan：it 指提取物；administer A to B 意为“给 B 施用 A”，这里指给病人用药（视频说明），变成被动 A be administered to B 后，A 作主语，to 保留在动词后。malaria 是名词作前置定语修饰 patients；in Hainan 是地点状语，交代用药地点。\n④第二分句 on 8 November her team obtained pure crystals of the substance：on 8 November 是时间状语，主干 her team obtained pure crystals，of the substance 是后置定语，修饰 crystals。\n⑤later named artemisinin 是过去分词短语作后置定语，修饰 the substance（视频说明），相当于 which was later named artemisinin；later 修饰 named，说明命名是后来的事。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词之后作定语，表示被动或完成，相当于一个被动的定语从句。本句 later named artemisinin 修饰 the substance，相当于 which was later named artemisinin，物质是“被命名”的一方；分词前可以加 later、first、recently 等副词说明时间。长难句中要判断 named 是谓语还是定语：本分句的谓语已经是 obtained，named 只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Doctors studied a gene later linked to heart disease.",
+      "zh": "医生们研究了一个后来被证实与心脏病有关的基因。"
+     },
+     {
+      "en": "Many of the buildings designed by him are now protected by law.",
+      "zh": "他设计的许多建筑如今受到法律保护。"
+     }
+    ]
+   },
+   {
+    "title": "administer A to B 及其被动形式",
+    "explain": "administer 表示“给予，施用（药物、治疗、检测等）”时，句型是 administer sth (to sb)，被动形式是 sth be administered (to sb)。本句是被动形式，药物作主语，病人放在 to 后面。administer 的另一个常用义是“管理，治理”，如 administer a fund（管理一项基金），考研阅读中两种意思都常见，要根据宾语判断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The vaccine was administered to more than 3,000 volunteers during the trial.",
+      "zh": "试验期间，3,000多名志愿者接种了这种疫苗。"
+     },
+     {
+      "en": "Nurses are trained to administer first aid in emergencies.",
+      "zh": "护士都受过训练，能在紧急情况下实施急救。"
+     }
+    ]
+   },
+   {
+    "title": "there- 构成的正式副词",
+    "explain": "there 加介词构成的副词多用于正式书面语：thereafter（此后）、thereby（因此，从而）、therein（在那里，在其中）、thereupon（随即）。thereafter 相当于 after that，常见搭配 shortly thereafter（此后不久）。考研阅读中 thereby 后常接现在分词表示结果，如 thereby reducing costs。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He retired in 2010 and thereafter devoted himself to charity work.",
+      "zh": "他于2010年退休，此后一直致力于慈善事业。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "artemisinin",
+    "explain": "青蒿素，名称来自蒿属植物的学名 Artemisia，青蒿（sweet wormwood）即 Artemisia annua。本句说团队在1972年11月8日得到了这种物质的纯净晶体，它后来被命名为青蒿素。"
+   },
+   {
+    "term": "Hainan",
+    "explain": "海南，位于中国南部的热带地区，当时是疟疾流行区，所以临床试验在这里进行。"
+   },
+   {
+    "term": "crystal",
+    "explain": "晶体，结晶，如 salt crystals（盐的结晶）；也指“水晶”。得到纯净晶体意味着从植物提取物中分离出了单一的有效成分。"
+   },
+   {
+    "term": "substance",
+    "explain": "物质，如 a toxic substance（有毒物质）；也有“实质，要点”的意思，如 the substance of the argument（论点的实质）。"
+   }
+  ],
+  "translation_tip": "视频译文“此后，从8月到10月，这种提取物用于治疗21名疟疾病人，在海南，而在11月8日，她的团队得到了这种物质的纯净晶体，它后来被命名为青蒿素。”的处理：①Thereafter 和 from August to October 都放在句首，译为“此后，从8月到10月”。②it 补出所指，译为“这种提取物”。③被动结构 was administered to 译成“用于治疗”，用主动形式表达被动意义，并点明用药目的。④地点状语 in Hainan 按英文顺序放在后面，单独译成“在海南”。⑤and 译为“而”，引出另一件事。⑥过去分词短语 later named artemisinin 拆成独立短句“它后来被命名为青蒿素”，用“它”回指“这种物质”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Tu（第一分句）；its jury（第二分句）",
+   "predicate": "was named（第一分句）；credited（第二分句）",
+   "object_or_complement": "a Lasker Award recipient（主语补足语）；the drug（credited 的宾语，with saving millions 与 credit 搭配）",
+   "explain": "分号连接两个分句：前一分句是 name sb sth 的被动形式，名词短语作主语补足语，一般过去时被动语态；后一分句是 credit A with B 结构，一般过去时主动语态。"
+  },
+  "components": [
+   {
+    "text": "In September 2011",
+    "role": "时间状语（介词短语）",
+    "zh": "2011年9月"
+   },
+   {
+    "text": "Tu",
+    "role": "第一分句主语",
+    "zh": "屠呦呦"
+   },
+   {
+    "text": "was named",
+    "role": "第一分句谓语（被动语态）",
+    "zh": "被评为"
+   },
+   {
+    "text": "a Lasker Award recipient;",
+    "role": "主语补足语（名词短语）",
+    "zh": "拉斯克奖得主"
+   },
+   {
+    "text": "its jury",
+    "role": "第二分句主语（its 指拉斯克奖）",
+    "zh": "该奖的评审团"
+   },
+   {
+    "text": "credited",
+    "role": "第二分句谓语（credit A with B）",
+    "zh": "将……归功于"
+   },
+   {
+    "text": "the drug",
+    "role": "宾语（credit A with B 中的 A）",
+    "zh": "这种药物"
+   },
+   {
+    "text": "with saving millions.",
+    "role": "介词短语（credit A with B 中的 B，动名词短语作 with 的宾语）",
+    "zh": "挽救了数百万人的功劳"
+   }
+  ],
+  "structure": "①全句用分号连接两个关系紧密的分句，后一分句交代获奖理由。\n②第一分句 Tu was named a Lasker Award recipient：name 在这里意为“评选为，任命为”，主动形式是 name sb sth（宾语 + 宾语补足语），变成被动后，原来的宾语补足语 a Lasker Award recipient 变成主语补足语。Lasker Award 是名词作前置定语，修饰 recipient。\n③第二分句 its jury credited the drug with saving millions：its 指拉斯克奖，jury 指评审团。credit A with B 意为“把 B 的功劳归于 A”（视频说明），A 是 the drug，B 是 saving millions；动名词短语 saving millions 作 with 的宾语，millions 是 millions of people 的省略，指数百万人。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "name sb + 名词 及其被动形式",
+    "explain": "name 表示“任命，评选，宣布为”时，可以接宾语和宾语补足语：name sb sth，如 They named her head of the department。变成被动后是 sb be named sth，名词作主语补足语，本句 Tu was named a Lasker Award recipient 即此结构。这与第1句的 be named after（以……命名）不同：after 后接的是名字的来源，而本句 named 后的名词说明获得的身份。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The magazine named the young engineer its Innovator of the Year.",
+      "zh": "这家杂志把这位年轻工程师评为年度创新人物。"
+     },
+     {
+      "en": "He was named head coach of the national team last spring.",
+      "zh": "去年春天，他被任命为国家队主教练。"
+     }
+    ]
+   },
+   {
+    "title": "credit A with B",
+    "explain": "credit A with B 意为“把 B 的功劳归于 A，认为 A 做成了 B”，B 可以是名词或动名词；被动形式 A be credited with B 在新闻中极为常见。同义表达有 attribute B to A 和 give A credit for B，注意介词和语序的变化：credit A with B 中 A 是功臣，attribute B to A 中 B 在前。考研阅读中 be credited with 常用来引出某人或某事的贡献。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Historians credit the printing press with spreading new ideas across Europe.",
+      "zh": "历史学家认为，新思想在欧洲的传播要归功于印刷机。"
+     },
+     {
+      "en": "The new coach is credited with turning the team around.",
+      "zh": "球队的转变被归功于这位新教练。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接两个分句",
+    "explain": "分号可以不借助连词连接两个意义紧密相关的独立分句，作用介于逗号和句号之间。本句前一分句说屠呦呦获奖，后一分句说明评审团对这种药物的评价，用分号表明二者关系密切。英语中两个独立分句之间只用逗号连接是错误的（逗号拼接），考研写作要用分号、句号或加连词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some critics praised the film; others found it far too long.",
+      "zh": "一些评论家称赞这部电影；另一些人则觉得它太长了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Lasker Award",
+    "explain": "拉斯克奖，由美国拉斯克基金会设立的医学奖项。屠呦呦获得的是2011年拉斯克临床医学研究奖。不少拉斯克奖得主后来也获得了诺贝尔奖。"
+   },
+   {
+    "term": "recipient",
+    "explain": "接受者，接收者，在奖项中特指“得主”（视频说明）：award recipient 即获奖者；也可指邮件收件人（email recipient）、福利领取者（welfare recipient）。"
+   },
+   {
+    "term": "jury",
+    "explain": "评审团；在法律语境中指“陪审团”。jury 是集合名词，作主语时谓语可用单数或复数。"
+   },
+   {
+    "term": "millions",
+    "explain": "millions 单独使用时可指“数百万（人）”，相当于 millions of people，如 save millions（挽救数百万人）。"
+   }
+  ],
+  "translation_tip": "视频译文“2011年9月，屠呦呦被评为拉斯克奖得主；该奖的评审团将挽救了数百万人的功劳归功于这种药物。”的处理：①was named 保留被动，译为“被评为”，a Lasker Award recipient 译成“拉斯克奖得主”。②its jury 补出所指，译为“该奖的评审团”。③credit A with B 用“将”字句译成“将 B 的功劳归功于 A”：B 提到动词前，saving millions 补出“的功劳”，millions 补出“人”，译为“挽救了数百万人的功劳”。④分号照原文保留。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "she",
+   "predicate": "won",
+   "object_or_complement": "half the Nobel Prize in Physiology or Medicine",
+   "explain": "主谓宾结构，谓语 won 为一般过去时，主动语态；句末 the first Chinese woman Nobel laureate 是同位语，补充说明主语 she。"
+  },
+  "components": [
+   {
+    "text": "On 5 October 2015",
+    "role": "时间状语（介词短语）",
+    "zh": "2015年10月5日"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "won",
+    "role": "谓语",
+    "zh": "获得了"
+   },
+   {
+    "text": "half the Nobel Prize in Physiology or Medicine,",
+    "role": "宾语（half 直接加 the 修饰奖项名称）",
+    "zh": "一半的诺贝尔生理学或医学奖"
+   },
+   {
+    "text": "the first Chinese woman Nobel laureate.",
+    "role": "同位语，补充说明 she",
+    "zh": "成为第一位中国女性诺贝尔奖获得者"
+   }
+  ],
+  "structure": "①On 5 October 2015 是时间状语，具体日期前用 on。\n②主句 she won half the Nobel Prize in Physiology or Medicine：half 直接放在 the 前面，相当于 half of the Nobel Prize，意为“诺贝尔奖的一半，另一半由另外两位学者分享”（视频说明）。in Physiology or Medicine 是奖项正式名称的一部分。\n③句末 the first Chinese woman Nobel laureate 是同位语，补充说明 she（视频说明）。它与 she 隔着整个宾语，靠逗号和意思判断所指。中心词 laureate 前有三个前置定语：Chinese（国籍）、woman（性别）、Nobel（奖项），first 是序数词。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "half (of) the + 名词",
+    "explain": "half 后接带 the、my、this 等限定词的名词时，of 可以省略：half the prize = half of the prize，half my salary = half of my salary。但 half 后接人称代词时必须用 of，如 half of them，不能说 half them。half 作主语时，谓语的单复数由后面的名词决定：Half the students were absent，Half the cake was eaten。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Half the students in the class had never travelled abroad.",
+      "zh": "班上一半的学生从未出过国。"
+     },
+     {
+      "en": "Nearly half of them voted against the proposal.",
+      "zh": "他们中近一半的人投票反对这项提议。"
+     }
+    ]
+   },
+   {
+    "title": "句末同位语说明主语",
+    "explain": "同位语一般紧跟在被说明的名词后面，但为了保持句子平衡，说明主语的同位语有时放在句末，用逗号隔开。本句 the first Chinese woman Nobel laureate 说明的是主语 she，而不是离它最近的 Medicine。判断依据是意思：只有人才能是 laureate。翻译时常增补“成为”“是”等动词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In 1903 Marie Curie shared the Nobel Prize in Physics, the first woman to receive the award.",
+      "zh": "1903年，玛丽·居里分享了诺贝尔物理学奖，成为第一位获得该奖的女性。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "2015年诺贝尔生理学或医学奖",
+    "explain": "该奖一半授予屠呦呦，表彰她发现了治疗疟疾的新疗法；另一半由威廉·坎贝尔（William C. Campbell）和大村智（Satoshi Omura）共同获得，表彰他们发现了治疗蛔虫寄生虫感染的新疗法。屠呦呦是首位获得诺贝尔生理学或医学奖的中国科学家。"
+   },
+   {
+    "term": "the Nobel Prize in Physiology or Medicine",
+    "explain": "诺贝尔生理学或医学奖的正式英文名称，介词用 in，奖项名称中各实词首字母大写。其他奖项如 the Nobel Prize in Physics（物理学奖）、the Nobel Prize in Chemistry（化学奖）、the Nobel Peace Prize（和平奖）。"
+   },
+   {
+    "term": "laureate",
+    "explain": "获奖者，常见 Nobel laureate（诺贝尔奖获得者）；poet laureate 指“桂冠诗人”。词源与古希腊罗马用月桂花冠表彰荣誉有关。"
+   },
+   {
+    "term": "physiology 与 psychology",
+    "explain": "physiology 是“生理学；生理机能”，psychology 是“心理学”，拼写相近，容易混淆。"
+   }
+  ],
+  "translation_tip": "视频译文“2015年10月5日，她获得了一半的诺贝尔生理学或医学奖，成为第一位中国女性诺贝尔奖获得者。”的处理：①日期按汉语顺序放句首。②half the Nobel Prize 译成“一半的诺贝尔……奖”，half 前置作定语。③奖项名称 the Nobel Prize in Physiology or Medicine 按汉语习惯合译为“诺贝尔生理学或医学奖”。④句末同位语增补动词“成为”，译成“成为第一位中国女性诺贝尔奖获得者”，把同位关系变成连动句，first 译为“第一位”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "WHO guidelines",
+   "predicate": "have endorsed",
+   "object_or_complement": "artemisinin-based combination therapies",
+   "explain": "主谓宾结构，谓语 have endorsed 为现在完成时，主动语态，与 Since 2006 呼应，表示从2006年一直持续到现在（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "Since 2006",
+    "role": "时间状语（since + 时间点）",
+    "zh": "自2006年起"
+   },
+   {
+    "text": "WHO guidelines",
+    "role": "主语（WHO 是名词作前置定语）",
+    "zh": "世界卫生组织的指南"
+   },
+   {
+    "text": "have endorsed",
+    "role": "谓语（现在完成时）",
+    "zh": "一直公开支持/赞同"
+   },
+   {
+    "text": "artemisinin-based combination therapies",
+    "role": "宾语（artemisinin-based 和 combination 都是前置定语）",
+    "zh": "以青蒿素为基础的联合疗法"
+   },
+   {
+    "text": "against malaria's deadliest form.",
+    "role": "后置定语（介词短语），修饰 therapies",
+    "zh": "用来对付疟疾中最致命的一种"
+   }
+  ],
+  "structure": "①Since 2006 是时间状语，since 后接过去的时间点，主句要用现在完成时。\n②主语 WHO guidelines，WHO（世界卫生组织）是名词作前置定语修饰 guidelines。\n③谓语 have endorsed 是现在完成时，表示从2006年一直到现在（视频说明）。\n④宾语中心词是 therapies，前面有两个前置定语：artemisinin-based 是复合形容词，意为“以青蒿素为基础的”（视频说明），combination 是名词作定语，意为“联合”。\n⑤against malaria's deadliest form 是介词短语作后置定语，修饰 therapies，against 表示“对付，针对”；malaria's 是名词所有格，deadliest 是 deadly 的最高级。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "since + 时间点 与现在完成时",
+    "explain": "since 后接过去的时间点（since 2006）或一般过去时的从句（since the law was passed）时，主句通常用现在完成时或现在完成进行时，表示从那时起一直持续到现在的动作或状态，视频用“一直”体现这种延续。易错点：since 2006 作全句的时间状语时，主句不用一般过去时或一般现在时（the highest since 2006 这类修饰最高级的用法不受此限）；表示一段时间要用 for，如 for ten years。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Since 2015 the city has planted more than a million trees.",
+      "zh": "自2015年以来，这座城市已经种植了一百多万棵树。"
+     },
+     {
+      "en": "Prices have risen steadily since the new tax was introduced.",
+      "zh": "自从新税开征以来，物价一直稳步上涨。"
+     }
+    ]
+   },
+   {
+    "title": "“名词 + -based”构成复合形容词",
+    "explain": "名词加 -based 构成复合形容词，意为“以……为基础的，基于……的”，如 artemisinin-based（以青蒿素为基础的）、evidence-based（基于证据的）、community-based（以社区为基础的）、plant-based（植物性的）。表示地点时意为“总部在……的”，如 a London-based company（一家总部在伦敦的公司）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many schools are adopting evidence-based teaching methods.",
+      "zh": "许多学校正在采用基于证据的教学方法。"
+     }
+    ]
+   },
+   {
+    "title": "deadly 的比较级和最高级",
+    "explain": "deadly 虽以 -ly 结尾，却是形容词，意为“致命的”，比较级和最高级是 deadlier、deadliest，也可用 more deadly、most deadly。类似的以 -ly 结尾的形容词还有 friendly、lovely、costly、lively。本句 malaria's deadliest form 指疟疾中最致命的一种。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The second wave of the epidemic proved deadlier than the first.",
+      "zh": "第二波疫情比第一波更为致命。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "WHO",
+    "explain": "World Health Organization 的缩写，即世界卫生组织（视频说明），按字母逐个读作 W-H-O。指该组织时常不加冠词，也可以说 the WHO。"
+   },
+   {
+    "term": "artemisinin-based combination therapies",
+    "explain": "以青蒿素为基础的联合疗法，常缩写为 ACTs，指把青蒿素类药物与另一种抗疟药合用，以提高疗效、延缓耐药性的产生。"
+   },
+   {
+    "term": "malaria's deadliest form",
+    "explain": "疟疾中最致命的一种，即恶性疟，由恶性疟原虫（Plasmodium falciparum）引起。"
+   },
+   {
+    "term": "endorse",
+    "explain": "公开支持，赞同，认可，如 endorse a plan（支持一项计划）、endorse a candidate（支持某位候选人）；本义是“在票据、文件背面签字（背书）”，如 endorse a cheque（在支票背面签字）。"
+   }
+  ],
+  "translation_tip": "视频译文“自2006年起，世界卫生组织的指南一直公开支持/赞同以青蒿素为基础的联合疗法，用来对付疟疾中最致命的一种。”的处理：①Since 2006 译成“自2006年起”，放句首。②WHO guidelines 译成“世界卫生组织的指南”，缩写译成全称。③现在完成时 have endorsed 用“一直”体现从2006年延续至今。④两个前置定语依次译为“以青蒿素为基础的联合疗法”。⑤介词短语 against malaria's deadliest form 拆成短句“用来对付疟疾中最致命的一种”，against 转成动词“对付”，form 译成“一种”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The essence of Ge Hong's line",
+   "predicate": "lay in",
+   "object_or_complement": "the boiling it skipped（介词 in 的宾语，it skipped 是定语从句）",
+   "explain": "主谓结构，lie in 意为“在于”，谓语 lay in 中 lay 是 lie 的过去式，一般过去时，主动语态；the boiling 后接省略关系代词的定语从句 it skipped。"
+  },
+  "components": [
+   {
+    "text": "The essence",
+    "role": "主语",
+    "zh": "精髓"
+   },
+   {
+    "text": "of Ge Hong's line",
+    "role": "后置定语（介词短语），修饰 The essence",
+    "zh": "葛洪那句话的"
+   },
+   {
+    "text": "lay in",
+    "role": "谓语（lie in 的过去式）",
+    "zh": "正在于"
+   },
+   {
+    "text": "the boiling",
+    "role": "介词 in 的宾语",
+    "zh": "煮沸"
+   },
+   {
+    "text": "it skipped.",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 the boiling",
+    "zh": "它略去的"
+   }
+  ],
+  "structure": "①主语 The essence of Ge Hong's line，中心词 essence（精髓），of Ge Hong's line 是后置定语；line 指葛洪书中的那句话，即第7句的引文。\n②谓语 lay in，lie in 意为“在于”，lay 是 lie 的过去式（视频说明）。\n③the boiling it skipped 中，it skipped 是省略了 that 的定语从句，修饰 the boiling（视频说明）；被省略的关系代词在从句中作 skipped 的宾语，从句主语 it 指 Ge Hong's line。\n④全句的意思是：古方的关键不在于它写了什么，而在于它没有写“煮沸”。这与第8句 This bypassed boiling 首尾呼应，点明全文主旨。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "lie 与 lay 的区别",
+    "explain": "lie 作“位于，在于；躺”讲时是不规则动词，变化为 lie、lay、lain、lying，不及物；lie 作“说谎”讲时是规则动词，变化为 lie、lied、lied；lay 作“放置；产（卵）”讲时是及物动词，变化为 lay、laid、laid。本句 lay 是 lie 的过去式，lie in 意为“在于”，常用于 the problem/answer/key/strength lies in…。考研完形和写作中这三个词的变化形式是高频易错点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The real problem lies in the lack of trained staff.",
+      "zh": "真正的问题在于缺乏训练有素的员工。"
+     },
+     {
+      "en": "The strength of the plan lay in its simplicity.",
+      "zh": "这个计划的长处在于简单。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词在限制性定语从句中作宾语时可以省略。识别方法：名词后面直接跟着“主语 + 谓语”，而这个谓语动词后面缺宾语，如本句 the boiling it skipped，skipped 后缺的宾语就是先行词 the boiling。阅读时可在先行词后补出 that，还原为 the boiling that it skipped。翻译时定语从句较短，可前置为“……的”，视频译为“它略去的煮沸”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The risks the company ignored eventually led to its collapse.",
+      "zh": "这家公司所忽视的风险最终导致了它的倒闭。"
+     },
+     {
+      "en": "Most of the advice he gave us turned out to be useful.",
+      "zh": "他给我们的大部分建议后来都证明是有用的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "essence",
+    "explain": "本质，精髓，如 the essence of the argument（论点的实质）；in essence 意为“本质上，大体上”。形容词 essential（必不可少的；本质的）。"
+   },
+   {
+    "term": "line",
+    "explain": "熟词僻义：line 可指书中的“一句话”或诗文的“一行”，如 a line from a poem（一句诗）。本句 Ge Hong's line 指葛洪书中关于青蒿的那句话，视频译为“葛洪那句话”。"
+   },
+   {
+    "term": "skip",
+    "explain": "跳过，略过，如 skip a meal（不吃一顿饭）、skip a class（逃一节课）、skip a step（省去一个步骤）。本句视频译为“略去”。"
+   }
+  ],
+  "translation_tip": "视频译文“葛洪那句话的精髓，正在于它略去的煮沸。”的处理：①后置定语 of Ge Hong's line 前移为“葛洪那句话的”，修饰“精髓”；line 译为“那句话”，主语后加逗号停顿。②lay in 译成“正在于”，增补“正”加强强调语气。③省略关系代词的定语从句 it skipped 前置为“它略去的”，修饰“煮沸”，it 保留为“它”，指葛洪那句话。"
+ }
+]

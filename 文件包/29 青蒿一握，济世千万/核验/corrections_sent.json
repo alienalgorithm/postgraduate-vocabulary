@@ -1,0 +1,44 @@
+[
+ {
+  "key": "n=3",
+  "field": "knowledge.3.explain",
+  "before": "research 一般用作不可数名词，不说 researches。",
+  "after": "research 多用作不可数名词，“一项研究”说 a piece of research 或 a study；复数 researches 只偶见于正式文体，考研写作中不宜使用。",
+  "reason": "Oxford 等词典收有复数 researches（正式用法），“不说 researches”过于绝对"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar.0.explain",
+  "before": "some 用在数字前作“大约”讲，语气较正式，是考研阅读中的熟词僻义",
+  "after": "some 用在数字前作“大约”讲，是考研阅读中的熟词僻义",
+  "reason": "Oxford、Cambridge 对数字前的 some 未标注正式语体，删去无法证实的语体说法"
+ },
+ {
+  "key": "n=8",
+  "field": "grammar.1.explain",
+  "before": "avoid、skip、bypass、consider、mind、suggest 等动词后接动作时都用动名词。",
+  "after": "avoid、skip、consider、mind、suggest、finish 等动词后接动作时只能用动名词，不能用不定式；本句 bypass 后面的 boiling 同样是动名词，作宾语。",
+  "reason": "bypass 并不属于“后接动作须用动名词”的典型动词，原表述把它列入规则不准确，改为列真正的动名词宾语动词并单独说明本句"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar.1.examples.0.zh",
+  "before": "试验期间，这种疫苗给3,000多名志愿者接种了。",
+  "after": "试验期间，3,000多名志愿者接种了这种疫苗。",
+  "reason": "原译文语序别扭，不是通顺的汉语"
+ },
+ {
+  "key": "n=16",
+  "field": "knowledge.3.explain",
+  "before": "本义是“在支票背面签字（背书）”。",
+  "after": "本义是“在票据、文件背面签字（背书）”，如 endorse a cheque（在支票背面签字）。",
+  "reason": "endorse 的本义是在文件背面书写签字（中世纪拉丁语 indorsare），支票只是其中一种，原说法把本义说窄了"
+ },
+ {
+  "key": "n=16",
+  "field": "grammar.0.explain",
+  "before": "易错点：since 2006 不能与一般过去时连用，也不能与一般现在时连用；",
+  "after": "易错点：since 2006 作全句的时间状语时，主句不用一般过去时或一般现在时（the highest since 2006 这类修饰最高级的用法不受此限）；",
+  "reason": "原说法过于绝对，新闻中 the highest since 2006 等最高级后接 since 的结构可与一般过去时连用"
+ }
+]

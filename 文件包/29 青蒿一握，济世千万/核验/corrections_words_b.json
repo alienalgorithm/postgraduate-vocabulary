@@ -1,0 +1,44 @@
+[
+ {
+  "key": "id=37",
+  "field": "etymology",
+  "before": "17世纪中期进入英语，来自拉丁语 componens",
+  "after": "16世纪中期先作形容词进入英语，名词用法见于17世纪中期，来自拉丁语 componens",
+  "reason": "Etymonline：component 形容词用法见于1560s，名词见于1640s，原说法把名词出现时间当成了进入英语的时间"
+ },
+ {
+  "key": "id=40",
+  "field": "etymology",
+  "before": "17世纪起用于化学，指“易挥发的”，即像会飞走一样迅速蒸发；后来引申为“易变的，不稳定的”。",
+  "after": "进入英语后先用来形容物质“易挥发的”，即像会飞走一样迅速蒸发；后来引申为“易变的，不稳定的”。",
+  "reason": "Etymonline 记载 volatile 的“易挥发”义始见于16世纪末，“17世纪起”与记录不符，删去不准确的年代"
+ },
+ {
+  "key": "id=44",
+  "field": "etymology",
+  "before": "17世纪起用于生物学，指寄生生物；“不劳而获的人”这一比喻义也一直沿用。",
+  "after": "英语中最早就指“靠别人供养、蹭吃蹭喝的人”，17世纪起才用于生物学，指寄生生物。",
+  "reason": "Etymonline：parasite 1530s 进入英语时指 hanger-on（食客），生物学义是后起的；原说法把“不劳而获的人”说成比喻义，先后颠倒"
+ },
+ {
+  "key": "id=45",
+  "field": "usage_detail",
+  "before": "介词用 with，不用 by。",
+  "after": "介词通常用 with。",
+  "reason": "be infected by 在词典和外刊中也有用例，“不用 by”过于绝对"
+ },
+ {
+  "key": "id=58",
+  "field": "etymology",
+  "before": "14世纪从英法语 juree（誓言，司法调查）借入，来自中世纪拉丁语 jurata（宣誓的人）",
+  "after": "14世纪从盎格鲁-法语 juree（誓言，司法调查）借入，来自中世纪拉丁语 jurata（宣过誓的一组人，即陪审团）",
+  "reason": "Anglo-French 通行译名为盎格鲁-法语；jurata 在中世纪拉丁语中即指陪审团，“宣誓的人”不准确"
+ },
+ {
+  "key": "id=66",
+  "field": "senses",
+  "before": "[{\"pos\": \"adj.\", \"zh\": \"极度的，十足的（deadly serious 极其认真）\"}, {\"pos\": \"adv.\", \"zh\": \"极其，非常（deadly dull 极其乏味）\"}]",
+  "after": "[{\"pos\": \"adj.\", \"zh\": \"完全的，十足的（deadly silence 死一般的寂静；in deadly earnest 极其认真地）\"}, {\"pos\": \"adv.\", \"zh\": \"极其，非常（deadly serious 极其严肃；deadly dull 极其乏味）\"}]",
+  "reason": "deadly serious 中 deadly 修饰形容词，是副词（Oxford 列在 adv. 下）；形容词“完全的，十足的”义的例子应为 deadly silence、in deadly earnest"
+ }
+]
