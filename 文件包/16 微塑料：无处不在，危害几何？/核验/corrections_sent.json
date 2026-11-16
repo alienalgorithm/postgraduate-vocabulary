@@ -1,0 +1,23 @@
+[
+ {
+  "key": "n=2 knowledge[the 1960s]",
+  "field": "explain",
+  "before": "表示“20世纪60年代”，写法是 the + 年份 + s，前面要有 the，也可写作 the sixties。in the 1960s 指在那个年代，since the 1960s 指从那个年代一直到现在。",
+  "after": "表示“20世纪60年代”，写法是 the + 年份 + s，前面要有 the，也可写作 the sixties。in the 1960s 指在那个年代，since the 1960s 指从那个年代起一直持续到所说的时候，本句即持续到研究者筛查样本之时。",
+  "reason": "原文叙述2004年的研究，kept since the 1960s 指保存到研究进行时，不是“到现在”，原说法与本句语境不符。"
+ },
+ {
+  "key": "n=3 knowledge[microplastics]",
+  "field": "explain",
+  "before": "微塑料，由前缀 micro-（微小的）加 plastics 构成，Merriam-Webster 释为长度小于5毫米的塑料小块。常用复数形式 microplastics；作定语时用单数，如 microplastic pollution（微塑料污染）。本句交代，这一名称是汤普森团队给这些颗粒起的。",
+  "after": "微塑料，由前缀 micro-（微小的）加 plastics 构成，现在一般指长度小于5毫米的塑料颗粒。常用复数形式 microplastics；作定语时用单数，如 microplastic pollution（微塑料污染）。本句交代，这一名称是汤普森团队给这些颗粒起的。",
+  "reason": "把定义具体归到 Merriam-Webster 名下无法核实，改为通行定义的客观表述，避免不实出处。"
+ },
+ {
+  "key": "n=5 grammar[A and other + 复数名词].examples[0]",
+  "field": "en/zh",
+  "before": "Wheat, rice, and other cereals supply most of the world's calories. | 小麦、水稻等谷物提供了世界上大部分的热量。",
+  "after": "Wheat, rice, and other cereals supply a large share of the world's calories. | 小麦、水稻等谷物提供了世界上很大一部分热量。",
+  "reason": "谷物约占全球膳食热量的一半，说 most（大部分）不够准确，改为 a large share（很大一部分）。"
+ }
+]

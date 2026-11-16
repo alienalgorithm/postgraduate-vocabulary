@@ -1,0 +1,1629 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Richard Thompson, a marine biologist at the University of Plymouth, and colleagues",
+   "predicate": "described",
+   "object_or_complement": "an overlooked pollutant",
+   "explain": "主干是 Richard Thompson and colleagues described an overlooked pollutant，主谓宾结构。主语由 Richard Thompson 和 colleagues 用 and 并列构成，中间插入同位语 a marine biologist at the University of Plymouth。谓语 described 是一般过去时，主动语态，叙述2004年发生的事。"
+  },
+  "components": [
+   {
+    "text": "In May 2004",
+    "role": "时间状语（介词短语）",
+    "zh": "2004年5月"
+   },
+   {
+    "text": "Richard Thompson,",
+    "role": "主语之一（并列主语的第一部分）",
+    "zh": "理查德·汤普森"
+   },
+   {
+    "text": "a marine biologist",
+    "role": "同位语，补充说明 Richard Thompson 的身份",
+    "zh": "一位海洋的生物学家"
+   },
+   {
+    "text": "at the University of Plymouth,",
+    "role": "后置定语（介词短语），修饰 biologist，说明任职单位",
+    "zh": "任职于普利茅斯大学"
+   },
+   {
+    "text": "and colleagues",
+    "role": "并列连词 and + 主语之二（与 Richard Thompson 并列）",
+    "zh": "他和同事们"
+   },
+   {
+    "text": "described",
+    "role": "谓语",
+    "zh": "描述了"
+   },
+   {
+    "text": "an overlooked pollutant",
+    "role": "宾语（overlooked 为过去分词作前置定语）",
+    "zh": "一种被忽视的污染物"
+   },
+   {
+    "text": "in the journal Science.",
+    "role": "地点状语（介词短语），说明研究发表在哪份期刊",
+    "zh": "在《科学》杂志上"
+   }
+  ],
+  "structure": "①主句是 Richard Thompson and colleagues described an overlooked pollutant：主语是并列结构 Richard Thompson ... and colleagues，谓语 described，宾语 an overlooked pollutant。主语被插入的同位语隔开，读的时候要越过两个逗号之间的内容，把 Richard Thompson 和 and colleagues 接起来；colleagues 指汤普森的同事。\n②a marine biologist at the University of Plymouth 是同位语，补充说明 Richard Thompson（视频说明）。它的中心词是 biologist，marine 作前置定语，说明研究领域；at the University of Plymouth 是介词短语作 biologist 的后置定语，说明任职单位。\n③句首 In May 2004 是时间状语，句尾 in the journal Science 是地点状语，交代研究成果发表在哪里。the journal 与 Science 是同位关系，Science 是刊名，说明是哪一份期刊。\n④overlooked 是过去分词作前置定语，修饰 pollutant，表示被动，即“被忽视的”（视频说明：此前少有人注意的）。这里先用 pollutant 概括其性质，到第3句才给出名称 microplastics。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语插在并列主语之间",
+    "explain": "同位语是对前面名词的补充说明，与被说明的名词指同一人或物，通常用逗号隔开。本句 a marine biologist at the University of Plymouth 指的就是 Richard Thompson，紧跟在他的名字之后。由于同位语插在并列主语 Richard Thompson 和 and colleagues 之间，句子看起来像是 a marine biologist ... and colleagues 连在一起，容易误读成同位语包含了 colleagues。判断方法是看逗号：同位语前后各有一个逗号，第二个逗号后的 and colleagues 回到主语，与 Richard Thompson 并列。新闻和学术报道介绍人物时常用“人名 + 逗号 + 身份 + 逗号”的格式，考研阅读中这类同位语会拉长主谓距离，需要准确跳过，找到真正的谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Maria Lopez, a historian at the University of Toronto, and her students spent two years cataloguing the letters.",
+      "zh": "多伦多大学的历史学家玛丽亚·洛佩斯和她的学生花了两年时间为这些信件编目。"
+     },
+     {
+      "en": "The report, a 300-page review of hospital safety, was released on Monday.",
+      "zh": "这份报告长达300页，是对医院安全状况的评估，于周一发布。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词作前置定语",
+    "explain": "单个过去分词可以放在名词前作定语，及物动词的过去分词表示被动或完成，如 a broken window（被打破的窗户）、a respected scholar（受人尊敬的学者）。本句 overlooked 由及物动词 overlook（忽视）变来，an overlooked pollutant 相当于 a pollutant that had been overlooked，即“被忽视的污染物”。overlook 意为“忽视，没注意到”，另有“俯瞰”之义，与 look over（仔细查看）意思不同，阅读中不要混淆。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising rents are an often overlooked cause of small-business closures.",
+      "zh": "租金上涨是小企业倒闭的一个常被忽视的原因。"
+     }
+    ]
+   },
+   {
+    "title": "in + 年月 作时间状语",
+    "explain": "表示在某年、某月或某年某月，用介词 in，如 in 2004、in May、in May 2004；具体到某一天要用 on，如 on 7 May 2004。英文日期由小到大排列，月在前、年在后；汉语由大到小，所以 In May 2004 译成“2004年5月”。本文多句都用这种时间状语开头（In March 2022、In March 2024、In June 2019 等），按时间线索交代研究进展，阅读时可以据此梳理全文脉络。句首的时间状语较短时，后面的逗号可以省略，本句 In May 2004 后就没有逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge was finally reopened in October 2021, after three years of repairs.",
+      "zh": "经过三年维修，这座桥终于在2021年10月重新开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the University of Plymouth",
+    "explain": "普利茅斯大学，位于英格兰西南部的港口城市普利茅斯（Plymouth）。大学名称常见两种格式：the University of + 地名，前面要加定冠词 the；地名 + University，如 Harvard University，前面不加 the。"
+   },
+   {
+    "term": "the journal Science",
+    "explain": "《科学》，美国科学促进会（American Association for the Advancement of Science）出版的综合性学术期刊。the journal 与刊名 Science 是同位关系；英文刊名一般用斜体，中文加书名号，所以视频写作“《科学》杂志”。"
+   },
+   {
+    "term": "overlooked",
+    "explain": "过去分词形容词，意为“被忽视的”（视频说明：此前少有人注意的）。动词 overlook 有两个常用义：忽视、没注意到，如 overlook a mistake；俯瞰，如 a hotel overlooking the sea。"
+   },
+   {
+    "term": "and colleagues",
+    "explain": "colleague 指同事，多用于职业场合。科学报道中“某人 and colleagues”指以某人为首的研究团队，相当于学术引用中的 et al.（等人）。"
+   }
+  ],
+  "translation_tip": "视频译文“2004年5月，理查德·汤普森，一位海洋的生物学家，任职于普利茅斯大学，在《科学》杂志上，他和同事们描述了一种被忽视的污染物。”的处理：①In May 2004 按汉语习惯译成“2004年5月”，年在前、月在后。②同位语按英文语序保留在人名之后，并拆成两个短句：“一位海洋的生物学家”和“任职于普利茅斯大学”，介词短语 at the University of Plymouth 转译为动词短语“任职于”，交代任职关系。③地点状语 in the journal Science 提到谓语前，译成“在《科学》杂志上”，刊名加书名号。④同位语和状语把主语隔得较远，所以 and colleagues 译成“他和同事们”，增补“他”回指汤普森，使主语重新衔接。⑤overlooked 前置译为“被忽视的”，不定冠词 an 译为量词“一种”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "they",
+   "predicate": "found",
+   "object_or_complement": "that microscopic plastic fragments and synthetic fibres had grown more abundant（宾语从句）",
+   "explain": "主干是 they found that...，主谓宾结构，宾语是 that 引导的宾语从句。主句谓语 found 为一般过去时，主动语态；从句谓语 had grown 为过去完成时，grow 在从句中作系动词，more abundant 作表语。"
+  },
+  "components": [
+   {
+    "text": "Sifting through plankton samples",
+    "role": "状语（现在分词短语，表示方式、伴随，逻辑主语是 they）",
+    "zh": "细细筛查……浮游生物样本"
+   },
+   {
+    "text": "kept since the 1960s,",
+    "role": "后置定语（过去分词短语），修饰 samples",
+    "zh": "自20世纪60年代起保存下来的"
+   },
+   {
+    "text": "they",
+    "role": "主语",
+    "zh": "他们"
+   },
+   {
+    "text": "found",
+    "role": "谓语",
+    "zh": "发现"
+   },
+   {
+    "text": "that microscopic plastic fragments and synthetic fibres had grown more abundant.",
+    "role": "宾语从句（that 引导），作 found 的宾语",
+    "zh": "极其微小的塑料碎片和合成纤维变得越来越多"
+   }
+  ],
+  "structure": "①主句是 they found that...：主语 they 指上句的汤普森和同事们，谓语 found，that 引导的宾语从句作 found 的宾语，that 在从句中不作成分。\n②句首 Sifting through plankton samples kept since the 1960s 是现在分词短语作状语，逻辑主语是 they（视频说明），即“他们筛查样本”，是主动关系，所以用现在分词；它说明研究者是在做什么的过程中得出这一发现的。sift through 是动词短语，意为“仔细筛查”，plankton samples 是它的宾语。\n③kept since the 1960s 是过去分词短语作后置定语，修饰 samples（视频说明），相当于 which had been kept since the 1960s，样本是“被保存”的一方。since the 1960s 表示保存的起点，说明这批样本的时间跨度长达几十年，研究者因此能比较不同年代的情况。\n④宾语从句中，主语是 microscopic plastic fragments and synthetic fibres，两个名词短语由 and 并列，microscopic 修饰 plastic fragments；谓语 had grown 中 grow 是系动词，意为“变得”（视频说明：grow＋形容词：变得……），more abundant 作表语。比较级 more abundant 是与早年的样本相比；过去完成时 had grown 表示这种增长在“发现”之前就已发生。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作状语，逻辑主语与主句主语一致",
+    "explain": "分词短语作状语时，它的逻辑主语必须是主句的主语。本句 Sifting through... 的动作发出者就是主句的 they，二者是主动关系，所以用现在分词 sifting。如果分词的逻辑主语与主句主语不一致，就是“悬垂分词”错误，例如 Walking into the room, the lights went out 不成立，因为灯不会走进房间。这类分词短语可以表示时间、原因、方式、伴随等，本句表示方式、伴随，说明研究者是在筛查样本的过程中得出发现的。写作中用分词短语开头时，一定要检查它的逻辑主语是否就是主句主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Comparing satellite images taken over two decades, the researchers found that the glacier had shrunk by a third.",
+      "zh": "对比二十年间拍摄的卫星图像，研究人员发现这条冰川缩小了三分之一。"
+     },
+     {
+      "en": "Reading through the old court records, she noticed several names that appeared again and again.",
+      "zh": "通读这些旧的法庭记录时，她注意到有几个名字反复出现。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词后作定语，表示被动或完成，相当于一个定语从句。本句 kept since the 1960s 修饰 samples，相当于 which had been kept since the 1960s。名词后出现 -ed 形式时，要先判断它是谓语还是定语：本句 samples 后的 kept 前面没有可以搭配的主语，而且全句真正的谓语是 found，所以 kept 只能是过去分词作定语。since 后接过去的时间点，表示“自……以来”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Letters written during the war reveal how ordinary families coped with rationing.",
+      "zh": "战争期间写下的信件揭示了普通家庭如何应对配给制。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 grow + 形容词比较级",
+    "explain": "grow 作系动词时意为“变得”，后接形容词作表语，强调逐渐的变化，如 grow old、grow dark、grow impatient。与比较级连用时表示“越来越……”，如 grow stronger、grow more popular。本句 had grown more abundant 即“变得越来越多”。同类系动词还有 become、get、turn、go，其中 grow 侧重缓慢、逐步的变化。系动词后接形容词作表语，不能写成副词 abundantly。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "As the debate dragged on, the audience grew increasingly restless.",
+      "zh": "随着辩论没完没了地拖下去，听众变得越来越不耐烦。"
+     }
+    ]
+   },
+   {
+    "title": "宾语从句中的过去完成时",
+    "explain": "主句谓语是过去时，宾语从句要按时态呼应选择时态：从句动作与主句同时，用一般过去时；从句动作发生在主句之前，用过去完成时。本句塑料增多发生在研究者“发现”之前的几十年间，所以用 had grown。found that 后接过去完成时，在叙述研究经过的句子中很常见，阅读时可以借此分清事件的先后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The inspectors found that the company had ignored repeated safety warnings.",
+      "zh": "检查人员发现，这家公司曾一再无视安全警告。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sift through",
+    "explain": "sift 本义是“筛”，如 sift flour（筛面粉）；sift through 引申为“在大量材料中仔细筛查”，宾语常是 evidence、data、records 等。视频译为“细细筛查”，“细细”体现了 sift 所含的仔细之意。"
+   },
+   {
+    "term": "the 1960s",
+    "explain": "表示“20世纪60年代”，写法是 the + 年份 + s，前面要有 the，也可写作 the sixties。in the 1960s 指在那个年代，since the 1960s 指从那个年代一直到现在。"
+   },
+   {
+    "term": "fibres",
+    "explain": "fibre 的复数，英式拼写，美式拼写为 fiber。本文采用英式拼写，第3句的 labelled（美式 labeled）、第13句的 popularised（美式 popularized）也是如此。"
+   },
+   {
+    "term": "plankton samples",
+    "explain": "浮游生物样本。plankton 是集合名词，指在水中随水流漂浮的微小生物，在 plankton samples 中作定语。"
+   }
+  ],
+  "translation_tip": "视频译文“细细筛查自20世纪60年代起保存下来的浮游生物样本，他们发现，极其微小的塑料碎片和合成纤维变得越来越多。”的处理：①句首现在分词短语保留在句首，直接译成动词短语“细细筛查……样本”，逻辑主语“他们”在后半句出现。②后置定语 kept since the 1960s 前移到“浮游生物样本”之前，译为“自20世纪60年代起保存下来的”，the 1960s 译为“20世纪60年代”。③“他们发现”后加逗号，宾语从句单独成句，避免句子过长。④比较级 more abundant 译为“越来越多”，把与过去相比的含义转成变化趋势；系动词 grown 译为“变得”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "They",
+   "predicate": "labelled",
+   "object_or_complement": "the particles（宾语）；microplastics（宾语补足语）",
+   "explain": "主干是 They labelled the particles microplastics，主谓宾宾补结构，label A B 意为“把 A 称为 B”（视频说明），名词 microplastics 作宾语补足语。谓语 labelled 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "They",
+    "role": "主语",
+    "zh": "他们"
+   },
+   {
+    "text": "labelled",
+    "role": "谓语（label A B：把 A 称为 B）",
+    "zh": "把……称为"
+   },
+   {
+    "text": "the particles",
+    "role": "宾语",
+    "zh": "这些颗粒"
+   },
+   {
+    "text": "microplastics.",
+    "role": "宾语补足语（名词），说明宾语被称作什么",
+    "zh": "微塑料"
+   }
+  ],
+  "structure": "①本句是“主语 + 谓语 + 宾语 + 宾语补足语”结构。They 指汤普森和同事们；the particles 是宾语，回指上句的 microscopic plastic fragments and synthetic fibres，用 particles（颗粒）这一个词统称碎片和纤维两类东西；microplastics 是宾语补足语，说明这些颗粒被称作什么。\n②宾语和宾语补足语在逻辑上是主表关系，即 the particles are microplastics。判断方法是在二者之间补上 be 动词，看能否构成意思完整的句子。\n③定冠词 the 表示特指上文提到的颗粒，视频译为“这些颗粒”。全句只有五个词，承上启下：上句交代发现，本句给发现的东西命名，引出全文的话题 microplastics。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词作宾语补足语：label A B",
+    "explain": "label、call、name、elect、appoint、consider 等动词可以接复合宾语，即“宾语 + 宾语补足语”，宾补可以是名词，说明宾语的名称、身份。本句 labelled the particles microplastics 就是 label A B（把 A 称为 B）。label 也常用 label A as B，意思相同；call、name 后一般不加 as；elect、appoint 后表示独一职位的名词前通常不加冠词，如 They elected her chair。被动形式是 A is labelled B。考研阅读中，宾补常出现在作者给现象下定义、贴标签的地方，抓住宾补就能知道作者如何定性某事物。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Economists have called the 1990s Japan's lost decade.",
+      "zh": "经济学家把20世纪90年代称为日本“失去的十年”。"
+     },
+     {
+      "en": "Critics labelled the new policy a tax on the poor.",
+      "zh": "批评者把这项新政策称为针对穷人的税。"
+     }
+    ]
+   },
+   {
+    "title": "以 l 结尾的动词加 -ed、-ing 的英美拼写差异",
+    "explain": "以“单个元音字母 + l”结尾的动词，英式拼写加 -ed、-ing 时通常双写 l；美式拼写在重音不落在最后一个音节时一般不双写。label 的英式过去式是 labelled，美式是 labeled；同类词有 travel（travelled/traveled）、cancel（cancelled/canceled）、model（modelled/modeled）。本文采用英式拼写。考研写作中两种拼写都可以，但同一篇文章要统一。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The morning flight was cancelled because of thick fog.",
+      "zh": "早上的航班因大雾取消了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "microplastics",
+    "explain": "微塑料，由前缀 micro-（微小的）加 plastics 构成，Merriam-Webster 释为长度小于5毫米的塑料小块。常用复数形式 microplastics；作定语时用单数，如 microplastic pollution（微塑料污染）。本句交代，这一名称是汤普森团队给这些颗粒起的。"
+   },
+   {
+    "term": "particle",
+    "explain": "颗粒，微粒，可数名词，常见 dust particles（灰尘颗粒）；在物理学中指粒子，如 subatomic particles（亚原子粒子）。本句用 particles 统称上句的碎片和纤维。"
+   }
+  ],
+  "translation_tip": "视频译文“他们把这些颗粒称为微塑料。”的处理：①label A B 用汉语的“把”字句译出，“把这些颗粒称为微塑料”，宾语提到动词前，宾补放在“称为”之后，结构清楚。②labelled 一个词拆成“把……称为”两部分（视频词义：把……称为）。③定冠词 the 译为“这些”，回指上句的碎片和纤维，同时体现复数。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "the durable debris",
+   "predicate": "has proved",
+   "object_or_complement": "ubiquitous",
+   "explain": "主干是 the durable debris has proved ubiquitous，主系表结构，prove 在此作系动词，意为“结果是，事实证明”（视频说明），ubiquitous 作表语。谓语 has proved 为现在完成时，与 Since then 呼应，表示从2004年到现在的情况。"
+  },
+  "components": [
+   {
+    "text": "Since then",
+    "role": "时间状语（介词短语，then 指上一段的2004年）",
+    "zh": "此后"
+   },
+   {
+    "text": "the durable debris",
+    "role": "主语（durable 作前置定语）",
+    "zh": "这些经久不烂的碎屑"
+   },
+   {
+    "text": "has proved",
+    "role": "系动词（现在完成时，prove 意为“结果是，事实证明”）",
+    "zh": "被证明"
+   },
+   {
+    "text": "ubiquitous,",
+    "role": "表语（形容词）",
+    "zh": "无所不在"
+   },
+   {
+    "text": "turning up",
+    "role": "结果状语（现在分词短语）的中心部分，逻辑主语是 the durable debris",
+    "zh": "出现在"
+   },
+   {
+    "text": "on shorelines,",
+    "role": "地点状语一（介词短语），修饰 turning up",
+    "zh": "海岸线上"
+   },
+   {
+    "text": "in deep-sea sediment,",
+    "role": "地点状语二（介词短语），修饰 turning up",
+    "zh": "深海沉积物里"
+   },
+   {
+    "text": "in rainfall,",
+    "role": "地点状语三（介词短语），修饰 turning up",
+    "zh": "雨水中"
+   },
+   {
+    "text": "and in Arctic ice.",
+    "role": "并列连词 and + 地点状语四（介词短语）",
+    "zh": "以及北极的冰层中"
+   }
+  ],
+  "structure": "①主句是 the durable debris has proved ubiquitous：主语 the durable debris 指第一段所说的微塑料，durable 作前置定语；系动词 has proved 加表语 ubiquitous，意为“事实证明无所不在”。Since then 是时间状语，then 指上一段的2004年。\n②turning up... 是现在分词短语作状语，补充说明结果（视频说明），逻辑主语是 the durable debris，具体说明它的“无所不在”体现在哪里。turn up 意为“出现”（视频说明）。\n③turning up 后接四个并列的地点状语：on shorelines、in deep-sea sediment、in rainfall、and in Arctic ice，按 A, B, C, and D 的格式排列，and 前用牛津逗号。四个地点从海岸到深海、从降雨到北极冰层，用实例支撑 ubiquitous。\n④介词随名词变化：在表面上用 on（on shorelines），在内部、包含在其中用 in（in sediment、in rainfall、in ice）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "系动词 prove + 形容词",
+    "explain": "prove 除了作及物动词表示“证明”（prove a theory），还可作系动词，后接形容词、名词或 to be，表示“结果是，事实证明”，如 prove useful、prove (to be) a success。系动词 prove 用主动形式，主语是被检验的事物本身。本句 has proved ubiquitous 意为“事实证明它无所不在”，视频译为“被证明无所不在”。考研阅读中 prove difficult、prove costly、prove wrong 等很常见，看到 prove 后直接接形容词，要认出这是系动词用法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new drug proved effective in early trials.",
+      "zh": "这种新药在早期试验中证明有效。"
+     },
+     {
+      "en": "Finding a replacement for the retiring director has proved harder than expected.",
+      "zh": "为即将退休的主任找到接替者，结果比预想的更难。"
+     }
+    ]
+   },
+   {
+    "title": "since then 与现在完成时",
+    "explain": "since 引出过去的时间点时，主句通常用现在完成时，表示从那时起一直持续到现在的情况。since then 意为“从那时起，此后”，then 指上文提到的时间。本句 then 指2004年，has proved 说明从2004年到写作时，事实一再证明微塑料无所不在。表示持续到现在的状态时，主句一般不用一般过去时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Since then, the town has become a popular destination for cyclists.",
+      "zh": "此后，这座小镇成了骑行爱好者喜爱的目的地。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号隔开时，常表示前面动作或状态带来的结果，或对其作补充说明，逻辑主语是主句主语。本句 turning up on shorelines... 补充说明微塑料无所不在的具体表现（视频说明：补充说明结果）。表示自然而然的结果用现在分词，如 ..., causing...、..., leaving...；表示出乎意料的结果常用 only to do。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Heavy rain fell all night, flooding dozens of homes along the river.",
+      "zh": "大雨下了一整夜，淹没了河边的几十户人家。"
+     }
+    ]
+   },
+   {
+    "title": "多项并列与牛津逗号",
+    "explain": "三项及以上并列时写成 A, B, C, and D，最后一项前用 and，and 前的逗号叫牛津逗号。本句四个介词短语各自保留介词（on、in、in、and in），因为第一项用 on，其余用 in，不能共用；即使介词相同，重复介词也能让并列项更清楚。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey covered schools in the city centre, in the suburbs, and in remote villages.",
+      "zh": "这项调查覆盖了市中心、郊区，以及偏远村庄的学校。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "debris",
+    "explain": "不可数名词，碎片、残骸、垃圾，谓语用单数，所以本句是 has proved。本句用 the durable debris 指代微塑料，是同义替换，避免重复 microplastics。"
+   },
+   {
+    "term": "turn up",
+    "explain": "不及物短语动词，意为“出现，被发现”（视频说明：turn up：出现），常指东西在某处被找到，如 The missing keys turned up in a coat pocket。"
+   },
+   {
+    "term": "deep-sea",
+    "explain": "复合形容词，“深海的”，作前置定语时用连字符，如 deep-sea sediment、deep-sea fishing；作名词短语时不加连字符，如 in the deep sea。"
+   },
+   {
+    "term": "Arctic",
+    "explain": "北极的，首字母大写；the Arctic 指北极地区，对应的 the Antarctic 指南极地区。Arctic ice 指北极冰层。"
+   }
+  ],
+  "translation_tip": "视频译文“此后，这些经久不烂的碎屑被证明无所不在，出现在海岸线上、深海沉积物里、雨水中，以及北极的冰层中。”的处理：①Since then 译为“此后”，放在句首。②the durable debris 译为“这些经久不烂的碎屑”，定冠词 the 译为“这些”，回指前文的微塑料；durable 结合塑料难以降解的语境译为“经久不烂的”。③系表结构 has proved ubiquitous 译为“被证明无所不在”。④现在分词短语 turning up... 译成后续分句“出现在……”，与英文语序一致；四个地点状语分别译成“海岸线上、深海沉积物里、雨水中”，方位词“上、里、中”随名词搭配变化；最后一项前的 and 译为“以及”，前面用逗号，对应英文的牛津逗号。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Regulation（前一分句）；America（后一分句）",
+   "predicate": "came（前一分句）；passed（后一分句）",
+   "object_or_complement": "a law（passed 的宾语）",
+   "explain": "冒号连接两个分句。前一分句 Regulation came before proof of harm to people 是主谓结构，come 为不及物动词，before 引出的介词短语作时间状语；后一分句 America passed a law 是主谓宾结构。两个谓语都是一般过去时，主动语态。冒号后的分句用具体事例说明前一分句。"
+  },
+  "components": [
+   {
+    "text": "Regulation",
+    "role": "主语（前一分句，抽象名词）",
+    "zh": "监管"
+   },
+   {
+    "text": "came",
+    "role": "谓语（前一分句，不及物动词）",
+    "zh": "出现"
+   },
+   {
+    "text": "before proof of harm to people:",
+    "role": "时间状语（介词短语），come before 意为“先于……到来”",
+    "zh": "先于人体受害的证据"
+   },
+   {
+    "text": "in December 2015",
+    "role": "时间状语（后一分句，介词短语）",
+    "zh": "2015年12月"
+   },
+   {
+    "text": "America",
+    "role": "主语（后一分句）",
+    "zh": "美国"
+   },
+   {
+    "text": "passed",
+    "role": "谓语（后一分句）",
+    "zh": "通过了"
+   },
+   {
+    "text": "a law",
+    "role": "宾语",
+    "zh": "一项法律"
+   },
+   {
+    "text": "banning plastic microbeads",
+    "role": "后置定语（现在分词短语），修饰 a law",
+    "zh": "禁止把塑料微珠"
+   },
+   {
+    "text": "from scrubs and other cosmetics",
+    "role": "现在分词短语的一部分，与 banning 构成 ban A from B（禁止在 B 中使用 A）",
+    "zh": "用在磨砂膏等化妆品里"
+   },
+   {
+    "text": "rinsed down drains.",
+    "role": "后置定语（过去分词短语），修饰 cosmetics",
+    "zh": "这类产品用后会被冲进下水道"
+   }
+  ],
+  "structure": "①全句由冒号连接两个分句。前一分句 Regulation came before proof of harm to people 是总的判断：监管先于人体受害的证据出现；冒号后的分句举出具体事例，说明美国在尚未证实塑料危害人体时就已立法。\n②前一分句中，come 是不及物动词，before proof of harm to people 作时间状语，come before 意为“先于……到来”（视频说明）。proof of harm to people 中，of harm 作 proof 的后置定语，to people 修饰 harm，harm to sb 表示“对某人的伤害”，整体即“人体受害的证据”（视频说明）。\n③后一分句主干是 America passed a law。banning plastic microbeads from scrubs and other cosmetics 是现在分词短语作后置定语，修饰 law（视频说明），相当于 which banned...，法律是“禁止”这一动作的发出者，所以用现在分词。其中 ban A from B 意为“禁止在 B 中使用 A”（视频说明）。\n④rinsed down drains 是过去分词短语作后置定语，修饰 cosmetics（视频说明），相当于 which are rinsed down drains，化妆品是“被冲走”的一方，所以用过去分词。scrubs and other cosmetics 中的 other 表明磨砂膏本身也属于化妆品，这一定语同样适用于磨砂膏。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语和过去分词短语作后置定语",
+    "explain": "分词短语放在名词后作定语时，现在分词表示主动，被修饰的名词是动作的发出者；过去分词表示被动，被修饰的名词是动作的承受者。本句有两处：banning plastic microbeads... 修饰 law，法律禁止微珠，是主动，相当于 which banned...；rinsed down drains 修饰 cosmetics，化妆品被冲进下水道，是被动，相当于 which are rinsed down drains。考研长难句中名词后接分词短语非常常见，判断用 -ing 还是 -ed，关键看它与被修饰名词之间是主动还是被动关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government has introduced a rule requiring all new buildings to have solar panels.",
+      "zh": "政府出台了一项规定，要求所有新建筑都要安装太阳能电池板。"
+     },
+     {
+      "en": "Much of the food thrown away by supermarkets is still safe to eat.",
+      "zh": "超市扔掉的食物中，很多仍然可以安全食用。"
+     }
+    ]
+   },
+   {
+    "title": "冒号的用法：后句具体说明前句",
+    "explain": "冒号连接两个独立分句时，后一分句通常对前一分句进行解释、举例或具体说明，前一分句往往是概括性的判断。本句冒号前说“监管先于证据”，冒号后用2015年的立法作例证。考研阅读中，冒号前多是观点，冒号后是论据；做细节题可以到冒号后找依据，做主旨题要抓冒号前的概括。冒号后的完整句子，英式英语中首字母一般小写，本句 in 就是小写。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The results were clear: patients who exercised regularly recovered faster.",
+      "zh": "结果很明确：经常锻炼的病人恢复得更快。"
+     }
+    ]
+   },
+   {
+    "title": "ban A from B",
+    "explain": "ban 常见两种结构：ban sb from doing sth（禁止某人做某事），如 He was banned from driving for a year；ban A from B（禁止在 B 中或 B 处使用 A），如 ban smoking from public places。本句 banning plastic microbeads from scrubs and other cosmetics 属于后一种（视频说明：禁止在 B 中使用 A）。ban 的过去式和过去分词双写 n，是 banned，现在分词是 banning。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city has banned cars from the historic centre at weekends.",
+      "zh": "该市已禁止汽车在周末进入历史城区。"
+     }
+    ]
+   },
+   {
+    "title": "A and other + 复数名词",
+    "explain": "A and other Bs 表示“A 以及其他 B”，暗含 A 本身也属于 B 这一类。本句 scrubs and other cosmetics 说明磨砂膏也是化妆品，视频译为“磨砂膏等化妆品”，汉语常用“A 等 B”表达这一层意思。写作中如果 A 不属于 B 这一类，就不能用 other，例如说“苹果和其他蔬菜”在逻辑上是错的。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Wheat, rice, and other cereals supply most of the world's calories.",
+      "zh": "小麦、水稻等谷物提供了世界上大部分的热量。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "microbeads",
+    "explain": "微珠，由 micro-（微小的）加 bead（珠子）构成，指添加在磨砂膏、洗面奶等个人护理产品中、起清洁或去角质作用的塑料小颗粒，属于微塑料的一类。"
+   },
+   {
+    "term": "美国2015年12月通过的法律",
+    "explain": "指《2015年无微珠水域法》（Microbead-Free Waters Act of 2015），2015年12月由奥巴马总统签署成为法律，禁止生产和销售含有塑料微珠的冲洗型化妆品（rinse-off cosmetics）。"
+   },
+   {
+    "term": "pass a law",
+    "explain": "通过一项法律，指立法机构表决通过法案；同类搭配有 pass a bill（通过议案）、pass legislation（通过立法）。“制定法律”还可说 enact a law，“废除法律”说 repeal a law。"
+   },
+   {
+    "term": "proof of harm",
+    "explain": "proof 意为“证据，证明”，常作不可数名词，后接 of sth 或 that 从句，如 proof of identity（身份证明）。harm 作名词常用 harm to sb/sth 或 do harm to sb/sth（对……造成伤害）。"
+   },
+   {
+    "term": "drain",
+    "explain": "排水管，下水道。rinse sth down the drain 意为“把某物冲进下水道”；习语 go down the drain 意为“白白浪费，付诸东流”。"
+   }
+  ],
+  "translation_tip": "视频译文“监管先于人体受害的证据出现：2015年12月，美国通过了一项法律，禁止把塑料微珠用在磨砂膏等化妆品里，这类产品用后会被冲进下水道。”的处理：①came before proof of harm to people 译为“先于人体受害的证据出现”，“出现”对应 came；proof of harm to people 中的两层后置定语前移，译为“人体受害的证据”。②保留冒号，前后的逻辑关系不变。③现在分词短语 banning... 没有前置成“一项禁止……的法律”，而是拆成独立分句“禁止把塑料微珠用在……里”，避免定语过长；ban A from B 用“把”字句译出，from B 译为“用在……里”。④scrubs and other cosmetics 译为“磨砂膏等化妆品”。⑤过去分词短语 rinsed down drains 也拆成单独的分句，增补“这类产品用后”作主语，回指前面的化妆品，被动意义用“会被冲进下水道”译出。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The search",
+   "predicate": "turned",
+   "object_or_complement": "",
+   "explain": "主干是 The search turned，主谓结构，turn 在此是不及物动词，意为“转向”，副词 inward 作方向状语。谓语 turned 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The search",
+    "role": "主语（名词化表达，动作发出者未出现）",
+    "zh": "人们的搜寻"
+   },
+   {
+    "text": "turned",
+    "role": "谓语（不及物动词）",
+    "zh": "转向了"
+   },
+   {
+    "text": "inward.",
+    "role": "方向状语（副词），说明转向的方向",
+    "zh": "体内"
+   }
+  ],
+  "structure": "①本句是主谓结构加方向状语：主语 The search，谓语 turned，副词 inward 说明转向的方向。turn inward 意为“转向内部”，这里指转向人体内部（视频说明）。\n②The search 中的定冠词 the 表示特指，指前两段所写的在环境中寻找微塑料的工作；search 是名词，动作的发出者（研究人员）没有出现，视频增补为“人们的搜寻”。\n③本句是第三段的首句，起过渡作用：上一段讲微塑料遍布环境，并指出人体受害的证据尚缺；本句点明研究重心从外部环境转向人体，后面三句依次讲血液、动脉斑块中的发现和研究者的提醒。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物动词 turn + 方向副词",
+    "explain": "turn 作不及物动词时表示“转向，转身”，后面常接表示方向的副词或介词短语，如 turn around、turn back、turn left、turn to sb。本句 turned inward 由不及物动词加副词构成，inward 是状语，不是宾语。考研阅读中 turn to sth 常表示“转而关注，求助于”，如 turn to the courts（诉诸法院），与本句一样表示关注方向的转移。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After the election, the party's attention turned to rebuilding its finances.",
+      "zh": "选举过后，该党把注意力转向了重整财务。"
+     }
+    ]
+   },
+   {
+    "title": "-ward 与 -wards 构成的方向副词",
+    "explain": "后缀 -ward 或 -wards 加在表示方向的词后，构成“向……”的副词，如 inward(s)、outward(s)、upward(s)、downward(s)、backward(s)、forward(s)。作副词时，英式英语多用 -wards，美式英语多用 -ward；作形容词放在名词前时一般只用 -ward，如 an upward trend（上升趋势）、inward investment（外来投资）。本句 turned inward 中的 inward 是副词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Prices continued to move upward throughout the year.",
+      "zh": "全年价格持续上涨。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "turn inward",
+    "explain": "转向内部（视频说明），本句指研究者把寻找微塑料的目光转向人体内部。turn inward 用于国家或个人时，也常指只关注自身事务、对外封闭，如 a country that turns inward（转向内顾的国家）。"
+   },
+   {
+    "term": "search",
+    "explain": "名词，搜寻，寻找，常用 a search for sth、in search of sth（寻找某物）。本句 The search 指寻找微塑料的研究工作。"
+   }
+  ],
+  "translation_tip": "视频译文“人们的搜寻随后转向了体内。”的处理：①The search 是名词化表达，没有出现动作的发出者，视频增补“人们的”，译为“人们的搜寻”，更符合汉语习惯。②增补“随后”，体现与上一段之间的时间先后和过渡。③inward 不直译为“向内”，结合视频说明“这里指转向人体内部”，具体化为“体内”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "a small Dutch study",
+   "predicate": "found",
+   "object_or_complement": "plastic",
+   "explain": "主干是 a small Dutch study found plastic，主谓宾结构，主语是表示研究的无生命名词，in the blood of... 作地点状语。谓语 found 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In March 2022",
+    "role": "时间状语（介词短语）",
+    "zh": "2022年3月"
+   },
+   {
+    "text": "a small Dutch study",
+    "role": "主语（small、Dutch 作前置定语）",
+    "zh": "一项小规模的荷兰研究"
+   },
+   {
+    "text": "found",
+    "role": "谓语",
+    "zh": "发现"
+   },
+   {
+    "text": "plastic",
+    "role": "宾语（不可数名词）",
+    "zh": "塑料"
+   },
+   {
+    "text": "in the blood",
+    "role": "地点状语（介词短语），说明在哪里发现塑料",
+    "zh": "血液里"
+   },
+   {
+    "text": "of about three-quarters",
+    "role": "后置定语（of 短语），修饰 the blood，说明是谁的血液",
+    "zh": "约四分之三的人"
+   },
+   {
+    "text": "of 22 healthy donors.",
+    "role": "后置定语（of 短语），修饰 three-quarters，表示部分所属的整体",
+    "zh": "22名健康献血者中"
+   }
+  ],
+  "structure": "①主句是 a small Dutch study found plastic：主语 a small Dutch study，谓语 found，宾语 plastic（不可数名词，泛指塑料）。In March 2022 是时间状语。\n②in the blood of about three-quarters of 22 healthy donors 是地点状语，内部有两层 of 结构：of about three-quarters 修饰 blood，说明是哪些人的血液；of 22 healthy donors 修饰 three-quarters，表示“22名健康献血者中的约四分之三”（视频说明：即17人）。about 修饰数量，表示“大约”。\n③主语 a small Dutch study 中，small 和 Dutch 都是前置定语，small 说明研究规模小、样本少，Dutch 说明研究所属的国家。study found 是“研究发现”的常用说法，以无生命的 study 作主语。\n④small 为后文埋下伏笔：第14句说 human studies remain small or observational，样本小意味着结论还有待更大规模的研究验证。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分数的表达",
+    "explain": "英语分数的分子用基数词，分母用序数词；分子大于1时，分母用复数，如 one third、two thirds、three quarters。分数作定语或像本句这样写成一个整体时，常加连字符，如 three-quarters。“一半”用 half，“四分之一”可说 a quarter 或 one quarter。“分数 + of + 名词”作主语时，谓语的单复数与 of 后的名词一致：Three-quarters of the students were present；Three-quarters of the cake was eaten。本句 about three-quarters of 22 healthy donors 指22人中约四分之三（视频说明：即17人）。考研阅读中常要依据分数、百分比判断细节，要看清分数对应的整体是什么。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Nearly two-thirds of the respondents said they would pay more for sustainable products.",
+      "zh": "近三分之二的受访者表示，愿意为可持续产品多付钱。"
+     },
+     {
+      "en": "About a quarter of the budget goes on staff salaries.",
+      "zh": "大约四分之一的预算用于员工工资。"
+     }
+    ]
+   },
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有几个形容词时，一般按“限定词 + 评价 + 大小 + 新旧 + 颜色 + 国籍、来源 + 材料、用途 + 中心词”的顺序排列，与中心词关系越密切的越靠近中心词。本句 a small Dutch study 中，small 表示规模，Dutch 表示国籍，所以 small 在前，不说 a Dutch small study。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She bought a beautiful old Italian table at the auction.",
+      "zh": "她在拍卖会上买了一张漂亮的意大利旧桌子。"
+     }
+    ]
+   },
+   {
+    "title": "无生命名词作主语：study found",
+    "explain": "英语常用 study、research、survey、report、evidence 等无生命名词作主语，后接 find、show、suggest、reveal、indicate 等动词，如 A study found that...、The survey shows that...。这类句子在考研阅读中频繁出现，汉语一般直接说“研究发现”“调查显示”。注意 suggest 表示“表明”时语气比 show 弱，阅读时要分辨研究结论的确定程度。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A recent survey suggests that most young workers value flexibility over pay.",
+      "zh": "最近的一项调查表明，大多数年轻员工看重灵活性胜过薪酬。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Dutch",
+    "explain": "形容词“荷兰的”，名词“荷兰语”，the Dutch 指荷兰人（整体）；国名是 the Netherlands，日常也常称 Holland。Dutch 与 German（德国的）不同，不要混淆。"
+   },
+   {
+    "term": "about",
+    "explain": "副词，用在数字前表示“大约”，同义词有 around、roughly、approximately（较正式）、some（正式）。"
+   },
+   {
+    "term": "donor",
+    "explain": "捐献者，捐赠者；blood donor 是献血者，organ donor 是器官捐献者。本句 healthy donors 指健康的献血者（视频词义：献血者）。"
+   }
+  ],
+  "translation_tip": "视频译文“2022年3月，一项小规模的荷兰研究发现，22名健康献血者中，约四分之三的人血液里有塑料。”的处理：①small 译为“小规模的”，Dutch 译为“荷兰”，不定冠词 a 译为量词“一项”。②found 后加逗号，把发现的内容单独成句。③宾语 plastic 和地点状语 in the blood of... 没有按“在……的血液中发现了塑料”的语序直译，而是改为“……的人血液里有塑料”，把“塑料”放在句末。④两层 of 结构由后往前译：先译整体“22名健康献血者中”，再译部分“约四分之三的人”，符合汉语先整体后部分的习惯。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "a study in the New England Journal of Medicine",
+   "predicate": "linked",
+   "object_or_complement": "plastic in the fatty plaque of neck arteries（link A to B 中的 A）",
+   "explain": "主干是 a study linked plastic to a higher risk，主谓宾结构，link A to B 意为“把 A 与 B 联系起来”（视频说明），to a higher risk 是 link 要求的介词短语。谓语 linked 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In March 2024",
+    "role": "时间状语（介词短语）",
+    "zh": "2024年3月"
+   },
+   {
+    "text": "a study",
+    "role": "主语",
+    "zh": "一项研究"
+   },
+   {
+    "text": "in the New England Journal of Medicine",
+    "role": "后置定语（介词短语），修饰 study",
+    "zh": "《新英格兰医学杂志》上的"
+   },
+   {
+    "text": "linked",
+    "role": "谓语（link A to B）",
+    "zh": "将……联系了起来"
+   },
+   {
+    "text": "plastic",
+    "role": "宾语（link A to B 中的 A）",
+    "zh": "塑料"
+   },
+   {
+    "text": "in the fatty plaque",
+    "role": "后置定语（介词短语），修饰 plastic",
+    "zh": "脂肪性斑块中的"
+   },
+   {
+    "text": "of neck arteries",
+    "role": "后置定语（of 结构），修饰 plaque",
+    "zh": "颈部动脉"
+   },
+   {
+    "text": "to a higher risk",
+    "role": "介词短语（link A to B 中的 to B），补足 linked 的意义",
+    "zh": "与……更高风险"
+   },
+   {
+    "text": "of heart attack, stroke, or death.",
+    "role": "后置定语（of 结构），修饰 risk",
+    "zh": "心脏病发作、中风或死亡的"
+   }
+  ],
+  "structure": "①主干是 a study linked plastic to a higher risk：主语 a study，谓语 linked，宾语 plastic，to a higher risk 与 linked 构成 link A to B（视频说明：把 A 与 B 联系起来）。In March 2024 是时间状语。\n②a study in the New England Journal of Medicine 中，介词短语 in the New England Journal of Medicine 作后置定语，修饰 study（视频说明），说明研究发表在哪份期刊。\n③A 部分 plastic in the fatty plaque of neck arteries 有两层后置定语：in the fatty plaque 修饰 plastic，说明是哪里的塑料；of neck arteries 是 of 结构作后置定语，修饰 plaque（视频说明），说明是颈部动脉里的斑块。fatty 作前置定语，说明斑块的性质。\n④B 部分 a higher risk of heart attack, stroke, or death 中，of 短语修饰 risk，说明是哪些事件的风险，三个名词按 A, B, or C 并列，or 前有牛津逗号。比较级 higher 没有带 than，暗含与斑块中未检出塑料的患者相比。\n⑤link A to B 只表示二者有关联，不表示 A 导致 B；下一句研究作者的提醒 correlation is not causation 正是针对这一点。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "link A to B 表示关联，不表示因果",
+    "explain": "link A to/with B 意为“把 A 与 B 联系起来”，被动形式 A is linked to B 意为“A 与 B 有关联”。在科研报道中，link 表示统计上的关联，不等于因果关系；表示因果要用 cause、lead to、result in 等。考研阅读常在这里设题：原文说 X is linked to Y，选项却说 X causes Y，就属于偷换概念。本句 linked plastic... to a higher risk... 说明研究发现二者相关，第9句随即提醒 correlation is not causation。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers have linked poor sleep to a higher risk of depression.",
+      "zh": "研究人员已将睡眠不佳与抑郁风险升高联系起来。"
+     },
+     {
+      "en": "Long working hours are linked with a range of health problems.",
+      "zh": "长时间工作与一系列健康问题有关。"
+     }
+    ]
+   },
+   {
+    "title": "多层介词短语作后置定语",
+    "explain": "英语名词后可以接连出现几个介词短语，每个通常修饰紧挨在它前面的名词。本句 plastic in the fatty plaque of neck arteries 中，in the fatty plaque 修饰 plastic，of neck arteries 修饰 plaque；a higher risk of heart attack... 中，of 短语修饰 risk。汉语定语在前，翻译时要从最后一层往前译，如“颈部动脉脂肪性斑块中的塑料”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report examined the quality of water in the rivers of northern England.",
+      "zh": "这份报告考察了英格兰北部河流的水质。"
+     }
+    ]
+   },
+   {
+    "title": "用 or 连接的三项并列与牛津逗号",
+    "explain": "三项及以上并列，用 or 连接时同样写成 A, B, or C，or 前的逗号也是牛津逗号。本句 heart attack, stroke, or death 是三种不良后果。heart attack 是一个名词词组（心脏病发作），算作一项，不要拆开。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Applicants may submit the form by post, by email, or in person.",
+      "zh": "申请人可以通过邮寄、电子邮件或亲自前来的方式提交表格。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the New England Journal of Medicine",
+    "explain": "《新英格兰医学杂志》，美国的综合性医学期刊，创刊于1812年，由马萨诸塞州医学会（Massachusetts Medical Society）出版，常缩写为 NEJM。New England（新英格兰）指美国东北部的缅因、新罕布什尔、佛蒙特、马萨诸塞、罗得岛和康涅狄格六个州。"
+   },
+   {
+    "term": "neck arteries",
+    "explain": "颈部动脉，医学上称 carotid arteries（颈动脉），是向头部和大脑供血的主要血管。"
+   },
+   {
+    "term": "fatty plaque",
+    "explain": "脂肪性斑块，指动脉内壁上由脂肪等物质沉积形成的斑块，会使血管变窄。"
+   },
+   {
+    "term": "heart attack",
+    "explain": "心脏病发作，医学上指心肌梗死（myocardial infarction），常用 have/suffer a heart attack。"
+   }
+  ],
+  "translation_tip": "视频译文“2024年3月，《新英格兰医学杂志》上的一项研究，将颈部动脉脂肪性斑块中的塑料，与心脏病发作、中风或死亡的更高风险联系了起来。”的处理：①后置定语 in the New England Journal of Medicine 前移，译为“《新英格兰医学杂志》上的一项研究”。②link A to B 用“将 A 与 B 联系了起来”的句式译出，linked 拆成“将”和“联系了起来”，A、B 两部分放在中间。③A、B 两部分都较长，各自后面加逗号断开，便于阅读。④A 部分的两层后置定语由后往前译：“颈部动脉脂肪性斑块中的塑料”；B 部分的 of 短语前移：“心脏病发作、中风或死亡的更高风险”，三项并列用顿号和“或”连接。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Its authors",
+   "predicate": "cautioned",
+   "object_or_complement": "that correlation is not causation（宾语从句）",
+   "explain": "主干是 Its authors cautioned that...，主谓宾结构，宾语是 that 引导的宾语从句。主句谓语 cautioned 为一般过去时，主动语态；从句 correlation is not causation 是主系表结构，用一般现在时陈述普遍道理。"
+  },
+  "components": [
+   {
+    "text": "Its authors",
+    "role": "主语（Its 指上句的 a study）",
+    "zh": "该研究的作者"
+   },
+   {
+    "text": "cautioned",
+    "role": "谓语",
+    "zh": "警告"
+   },
+   {
+    "text": "that",
+    "role": "宾语从句引导词（在从句中不作成分）",
+    "zh": "称"
+   },
+   {
+    "text": "correlation",
+    "role": "宾语从句的主语",
+    "zh": "相关性"
+   },
+   {
+    "text": "is not",
+    "role": "宾语从句的系动词 + 否定词",
+    "zh": "并不等于"
+   },
+   {
+    "text": "causation.",
+    "role": "宾语从句的表语",
+    "zh": "因果关系"
+   }
+  ],
+  "structure": "①主句是 Its authors cautioned that...：Its 指上句的 a study，Its authors 即该研究的作者；谓语 cautioned 意为“警告，告诫”；that 引导宾语从句，在从句中不作成分。\n②宾语从句 correlation is not causation 是主系表结构：主语 correlation，系动词 is，否定词 not，表语 causation。两个抽象名词都不加冠词，指概念本身。\n③主句是过去时，从句却用一般现在时，因为从句陈述的是普遍成立的道理，不受时态呼应的限制。\n④本句限定第8句的研究结论：研究只发现斑块中有塑料的人风险更高，不能据此断定是塑料导致了心脏病发作和中风。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "宾语从句陈述普遍道理时用一般现在时",
+    "explain": "主句谓语为过去时，宾语从句一般要相应使用过去的某种时态；但从句陈述客观真理、科学规律或普遍道理时，仍用一般现在时。本句 correlation is not causation 是统计学的基本原则，所以主句用 cautioned，从句仍用 is。考研语法和写作中常考这一点，如 The teacher told us that the earth goes around the sun。如果从句内容只在过去成立，就要遵守时态呼应。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Our physics teacher explained that light travels faster than sound.",
+      "zh": "物理老师解释说，光比声音传播得快。"
+     },
+     {
+      "en": "The economist reminded the audience that higher prices usually reduce demand.",
+      "zh": "这位经济学家提醒听众，价格上涨通常会抑制需求。"
+     }
+    ]
+   },
+   {
+    "title": "caution 作动词的常见结构",
+    "explain": "caution 作动词意为“警告，告诫”，常见结构有 caution that + 从句（告诫说……）、caution sb against (doing) sth（告诫某人不要做某事）、caution sb to do sth。caution 比 warn 正式，语气也更缓和，常用于专家、官员提醒人们谨慎看待某事，在新闻和学术语体中常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Analysts cautioned investors against expecting quick returns.",
+      "zh": "分析人士告诫投资者不要指望迅速获得回报。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词泛指时不加冠词",
+    "explain": "表示概念、性质的抽象名词泛指时通常不加冠词，如 correlation、causation、happiness、knowledge。本句 correlation is not causation 说的是“相关性”和“因果关系”这两个概念本身。抽象名词具体化或带限定成分时可以加冠词，如 a strong correlation between A and B（A 与 B 之间的强相关）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Knowledge is not the same as wisdom.",
+      "zh": "知识不等于智慧。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "correlation is not causation",
+    "explain": "统计学常用说法，也说 correlation does not imply causation，意为“相关不等于因果”：两件事同时出现或一起变化，不能说明一件事导致另一件事，可能另有第三个因素同时影响二者。第14句提到人体研究多为观察性研究，这类研究通常只能发现相关性。"
+   },
+   {
+    "term": "its",
+    "explain": "物主代词，“它的”，与 it's（it is 或 it has 的缩写）不同，写作中容易混淆。本句 Its 指上句的研究，视频译为“该研究的”。"
+   }
+  ],
+  "translation_tip": "视频译文“该研究的作者警告称，相关性并不等于因果关系。”的处理：①物主代词 Its 不直译为“它的”，而是明确译为“该研究的”，指代清楚。②cautioned that 译为“警告称”，引导词 that 用“称”字体现，引出所说的内容，后加逗号。③系动词 is not 根据语境译为“并不等于”，比直译“不是”更符合汉语表达，“并”加强否定语气。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The most sensational figures",
+   "predicate": "are",
+   "object_or_complement": "the shakiest",
+   "explain": "主干是 The most sensational figures are the shakiest，主系表结构，主语和表语中都用了形容词最高级。谓语 are 为一般现在时，表示作者对现状的判断。"
+  },
+  "components": [
+   {
+    "text": "The most sensational",
+    "role": "定语（形容词最高级），修饰 figures",
+    "zh": "最耸人听闻的"
+   },
+   {
+    "text": "figures",
+    "role": "主语（中心词）",
+    "zh": "数字"
+   },
+   {
+    "text": "are the",
+    "role": "系动词 are + 最高级前的定冠词 the",
+    "zh": "就是"
+   },
+   {
+    "text": "shakiest.",
+    "role": "表语（shaky 的最高级，后面省略了 figures）",
+    "zh": "最不可靠的"
+   }
+  ],
+  "structure": "①本句是主系表结构。主语 The most sensational figures 的中心词是 figures，The most sensational 是形容词 sensational 的最高级，作前置定语；系动词 are 后的 the shakiest 是表语，shakiest 是 shaky 的最高级（视频说明：最不可靠的），后面省略了名词 figures。\n②主语和表语都用最高级，形成对照：最耸人听闻的，恰恰是最不可靠的。figures 在这里是熟词僻义，指“数字，数据”，不是“人物”或“图形”。\n③本句是第四段的主题句，统领后面三句：第11句和第13句分别举出“每周一张信用卡”和“一勺”这两个广为流传的数字，并交代它们受到的质疑；第12句世界卫生组织谨慎的表态则与之形成对比。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "最高级作表语时省略名词",
+    "explain": "最高级作表语时，后面的名词如果与主语中的名词相同，通常省略，只保留 the + 最高级。本句 are the shakiest 后省略了 figures，完整形式是 are the shakiest figures。最高级后没有 of、in 短语时，比较范围要从语境判断：这里指本段讨论的各种关于微塑料的数字。主语和表语都用最高级，构成“最……的，就是最……的”的对照，强调两种性质集中在同一批对象上。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In most elections, the loudest candidates are not the most popular.",
+      "zh": "在大多数选举中，嗓门最大的候选人并不是最受欢迎的。"
+     },
+     {
+      "en": "The questions that seem simplest are often the hardest to answer.",
+      "zh": "看起来最简单的问题往往最难回答。"
+     }
+    ]
+   },
+   {
+    "title": "形容词最高级的构成",
+    "explain": "单音节词和部分双音节词加 -est 构成最高级，以辅音字母加 y 结尾的变 y 为 i 再加 -est，如 shaky 变为 shakiest、easy 变为 easiest；多音节词和大部分双音节词在前面加 most，如 the most sensational。最高级前一般加定冠词 the。本句同时出现了两种形式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The cheapest options are not always the most economical in the long run.",
+      "zh": "最便宜的选择从长远看并不总是最划算的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "figures",
+    "explain": "熟词僻义：figure 作可数名词常指“数字，数据”，如 sales figures（销售数字）、official figures（官方数据）、a six-figure salary（六位数的薪水）；另有“人物”“身材”“图表”等义。本句 figures 指关于人体摄入微塑料数量的各种数字。"
+   },
+   {
+    "term": "sensational",
+    "explain": "由 sensation（轰动）派生，形容为博人眼球而夸大的报道或说法。名词 sensationalism 指新闻报道中的哗众取宠、煽情主义，考研阅读讨论媒体时常见。"
+   }
+  ],
+  "translation_tip": "视频译文“最耸人听闻的数字，就是最不可靠的。”的处理：①主语后加逗号停顿，突出“最耸人听闻的数字”这一话题。②系动词 are 和定冠词 the 合译为“就是”，加强判断语气，突出前后两个最高级的对照。③表语 the shakiest 后省略的 figures 不必译出，用“的”字结构译为“最不可靠的”。④shaky 本义“摇晃的，不稳的”，用于数据时引申为“不可靠的”，视频取“最不可靠的”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "a report（前一分句）；critics（后一分句）",
+   "predicate": "reckoned（前一分句）；call（后一分句）",
+   "object_or_complement": "people might swallow a credit card's worth of plastic a week（reckoned 的宾语从句）；that（call 的宾语）+ an overestimate（宾语补足语）",
+   "explain": "分号连接两个分句。前一分句主干是 a report reckoned + 宾语从句，从句省略了引导词 that；谓语 reckoned 为一般过去时，主动语态。后一分句 critics call that an overestimate 是主谓宾宾补结构，谓语 call 为一般现在时，表示批评者现在的看法。"
+  },
+  "components": [
+   {
+    "text": "In June 2019",
+    "role": "时间状语（介词短语）",
+    "zh": "2019年6月"
+   },
+   {
+    "text": "a report",
+    "role": "主语（前一分句）",
+    "zh": "一份……报告"
+   },
+   {
+    "text": "for WWF,",
+    "role": "后置定语（介词短语），修饰 report",
+    "zh": "和……WWF 有关的"
+   },
+   {
+    "text": "a conservation group,",
+    "role": "同位语，补充说明 WWF",
+    "zh": "自然保护组织"
+   },
+   {
+    "text": "reckoned",
+    "role": "谓语（前一分句）",
+    "zh": "估算"
+   },
+   {
+    "text": "people",
+    "role": "宾语从句的主语（从句省略引导词 that，整个从句作 reckoned 的宾语）",
+    "zh": "人们"
+   },
+   {
+    "text": "might swallow",
+    "role": "宾语从句的谓语（情态动词 might 表示推测）",
+    "zh": "可能吞下"
+   },
+   {
+    "text": "a credit card's worth of plastic",
+    "role": "宾语从句的宾语",
+    "zh": "相当于一张信用卡分量的塑料"
+   },
+   {
+    "text": "a week;",
+    "role": "宾语从句的频率状语（名词短语，a 表示“每”）",
+    "zh": "每周"
+   },
+   {
+    "text": "critics",
+    "role": "主语（后一分句）",
+    "zh": "批评者"
+   },
+   {
+    "text": "call",
+    "role": "谓语（后一分句，call A B）",
+    "zh": "称"
+   },
+   {
+    "text": "that",
+    "role": "宾语（指代前面的估算）",
+    "zh": "其"
+   },
+   {
+    "text": "an overestimate.",
+    "role": "宾语补足语（名词）",
+    "zh": "高估了"
+   }
+  ],
+  "structure": "①全句由分号连接两个分句：前一分句介绍 WWF 报告的估算，后一分句交代批评者的看法，两句形成对照。\n②前一分句主干是 a report reckoned...：主语 a report，for WWF 作后置定语，表示为 WWF 撰写的报告；a conservation group 是 WWF 的同位语，说明它是一个自然保护组织；谓语 reckoned 意为“估算”。reckoned 后是省略 that 的宾语从句：主语 people，谓语 might swallow，宾语 a credit card's worth of plastic，a week 作频率状语。\n③a credit card's worth of plastic 的结构是“名词所有格 + worth of + 名词”，意为“相当于一张信用卡（重量）的塑料”（视频说明）。worth 在这里是名词，表示“相当于……的量”。a week 中的不定冠词 a 表示“每”。might 表示推测，说明这只是估算。\n④后一分句 critics call that an overestimate 中，call A B 意为“把 A 称作 B”（视频说明）：that 是宾语，指前面的估算；an overestimate 是名词作宾语补足语。谓语用一般现在时 call，说明批评者至今仍持这一看法。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词所有格 + worth of + 名词",
+    "explain": "worth 作名词时，常用于“名词所有格 + worth of + 名词”的结构，表示“相当于……的量，价值……的东西”，如 ten pounds' worth of petrol（10英镑的汽油）、a week's worth of food（够吃一周的食物）。所有格表示衡量的标准，可以是钱数、时间，也可以像本句一样是一件物品：a credit card's worth of plastic 指与一张信用卡等量的塑料。以 s 结尾的复数名词的所有格只加撇号，如 two dollars' worth。考研阅读中这一结构常出现在描述数量的句子里，这里的 worth 不能理解为“值得”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm dumped a month's worth of rain on the city in a single day.",
+      "zh": "这场暴风雨一天之内就给城市带来了相当于一个月的降雨量。"
+     },
+     {
+      "en": "Volunteers collected several thousand dollars' worth of donations.",
+      "zh": "志愿者们募集到了价值数千美元的捐赠。"
+     }
+    ]
+   },
+   {
+    "title": "省略 that 的宾语从句与 might 表推测",
+    "explain": "reckon、think、say、believe 等动词后的宾语从句，引导词 that 常省略，新闻和口语中尤其常见。本句 reckoned people might swallow... 即 reckoned that people might swallow...。读长句时，动词后直接跟“名词 + 谓语”结构，往往就是省略了 that 的宾语从句。从句中的 might 与过去时的主句呼应，同时表示推测，语气不太肯定。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister said the economy might recover by the end of the year.",
+      "zh": "部长说，经济可能在年底前复苏。"
+     }
+    ]
+   },
+   {
+    "title": "不定冠词表示“每”",
+    "explain": "a/an 用在表示时间、数量、距离的名词前，可表示“每”，相当于 per，如 twice a day（每天两次）、50 kilometres an hour（每小时50公里）、ten pounds a kilo（每公斤10英镑）。本句 a week 即 per week，“每周”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum is open six days a week.",
+      "zh": "博物馆每周开放六天。"
+     }
+    ]
+   },
+   {
+    "title": "call A B：名词作宾语补足语",
+    "explain": "call 后接复合宾语时，宾语补足语可以是名词或形容词，表示把某人或某物称作什么、认为它怎样，如 They called him a hero、Critics called the plan unrealistic。本句 call that an overestimate 中，that 是宾语，an overestimate 是宾补，与第3句 label A B 的结构相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some economists call the policy a costly mistake.",
+      "zh": "一些经济学家称这项政策是一个代价高昂的错误。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "WWF",
+    "explain": "世界自然基金会（视频说明），英文全称 World Wide Fund for Nature，在美国和加拿大沿用旧称 World Wildlife Fund，是国际性的自然保护组织，标志是一只大熊猫。"
+   },
+   {
+    "term": "a report for WWF",
+    "explain": "for 表示报告是为某机构撰写或受其委托完成的，视频译为“和自然保护组织 WWF 有关的报告”。"
+   },
+   {
+    "term": "conservation group",
+    "explain": "自然保护组织。conservation 在这里指对自然环境和野生动物的保护，conservation group 是新闻中介绍环保机构的常用说法。"
+   },
+   {
+    "term": "a credit card's worth",
+    "explain": "用一张信用卡作计量单位，把抽象的重量换成日常物品，直观易懂，因而容易广泛传播；第10句所说的“最耸人听闻的数字”就包括这一说法。"
+   }
+  ],
+  "translation_tip": "视频译文“2019年6月，一份和自然保护组织 WWF 有关的报告估算，人们每周可能吞下相当于一张信用卡分量的塑料；批评者称其高估了。”的处理：①for WWF 和同位语 a conservation group 合并前移，译为“和自然保护组织 WWF 有关的报告”，同位语变成 WWF 前的修饰语。②reckoned 译为“估算”，省略的 that 不译，直接加逗号引出估算内容。③频率状语 a week 提到谓语前，译为“每周可能吞下”，符合汉语状语在前的习惯。④a credit card's worth of plastic 译为“相当于一张信用卡分量的塑料”，增补“分量”，点明比较的是重量。⑤后一分句 call that an overestimate 译为“称其高估了”，代词 that 译为“其”，名词 overestimate 转译为动词“高估了”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "the World Health Organization（前一分句）；microplastics in drinking water（后一分句）",
+   "predicate": "was（前一分句）；posed（后一分句）",
+   "object_or_complement": "reassuring but tentative（was 的表语）；no apparent risk（posed 的宾语）",
+   "explain": "冒号连接两个分句。前一分句是主系表结构，was 后接两个由 but 连接的形容词作表语；后一分句是主谓宾结构，pose a risk 意为“构成风险”（视频说明）。两个谓语都是一般过去时，后一分句转述世界卫生组织当时的结论。"
+  },
+  "components": [
+   {
+    "text": "Two months later",
+    "role": "时间状语（名词短语 + 副词）",
+    "zh": "两个月后"
+   },
+   {
+    "text": "the World Health Organization",
+    "role": "主语（前一分句）",
+    "zh": "世界卫生组织的表态"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "reassuring",
+    "role": "表语一（形容词）",
+    "zh": "令人安心"
+   },
+   {
+    "text": "but tentative:",
+    "role": "并列连词 but + 表语二（形容词）",
+    "zh": "但只是试探性的"
+   },
+   {
+    "text": "on limited evidence,",
+    "role": "状语（介词短语，表示依据）",
+    "zh": "基于有限的证据"
+   },
+   {
+    "text": "microplastics",
+    "role": "主语（冒号后的分句）",
+    "zh": "微塑料"
+   },
+   {
+    "text": "in drinking water",
+    "role": "后置定语（介词短语），修饰 microplastics",
+    "zh": "饮用水中的"
+   },
+   {
+    "text": "posed",
+    "role": "谓语（后一分句）",
+    "zh": "构成"
+   },
+   {
+    "text": "no apparent risk",
+    "role": "宾语（no 否定名词，使分句成为否定意义）",
+    "zh": "并未……明显风险"
+   },
+   {
+    "text": "at current levels.",
+    "role": "状语（介词短语，表示条件）",
+    "zh": "按照当前的含量"
+   }
+  ],
+  "structure": "①全句由冒号连接两个分句。前一分句概括世界卫生组织的态度，冒号后的分句是它的具体结论。\n②前一分句主干是 the World Health Organization was reassuring but tentative：系动词 was 后接两个由 but 连接的形容词表语，reassuring 意为“令人安心的”，tentative 意为“试探性的”，but 表示转折：结论令人安心，但留有余地。主语是机构名称，实际评价的是它的表态，所以视频增补“的表态”。Two months later 是时间状语，指第11句的2019年6月之后两个月。\n③冒号后分句的主干是 microplastics posed no apparent risk：主语 microplastics，in drinking water 作后置定语；谓语 posed，宾语 no apparent risk，no 否定名词，使整个分句成为否定意义。on limited evidence 表示依据，at current levels 表示条件，两个介词短语都在限定结论的适用范围（视频说明：on limited evidence：依据有限的证据）。\n④冒号后的分句用过去时 posed，是转述世界卫生组织2019年的判断，不是作者此刻的断言；on limited evidence 和 at current levels 也说明这一结论有前提条件，正对应前面的 tentative。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "-ing 形容词与 -ed 形容词",
+    "explain": "由动词变来的形容词中，-ing 形式表示“令人……的”，说明事物的性质，多修饰引起某种感受的人或事物；-ed 形式表示“感到……的”，多修饰有这种感受的人。如 reassuring news（令人安心的消息）与 reassured patients（感到放心的病人）、a surprising result 与 a surprised audience。本句 the World Health Organization was reassuring 指世卫组织的表态让人安心，所以用 reassuring；写成 was reassured 就变成了“世卫组织感到放心”，意思完全不同。考研写作中 interesting 与 interested、boring 与 bored 的误用很常见。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The doctor's calm explanation was reassuring to the worried parents.",
+      "zh": "医生平静的解释让忧心的父母安下心来。"
+     },
+     {
+      "en": "Investors were disappointed by the company's latest results.",
+      "zh": "公司最新的业绩让投资者感到失望。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词 表示否定",
+    "explain": "no 作限定词放在名词前，相当于 not any 或 not a，否定的是整个句子。本句 posed no apparent risk 等于 did not pose any apparent risk，视频译为“并未构成明显风险”。用 no 否定名词比用 not 否定动词更简洁，在正式文体中很常见，如 There is no evidence that...（没有证据表明……）。阅读时要留意 no 带来的否定，不要漏读。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The inquiry found no evidence of wrongdoing by the staff.",
+      "zh": "调查没有发现工作人员有任何不当行为的证据。"
+     }
+    ]
+   },
+   {
+    "title": "两个形容词作表语，but 表转折",
+    "explain": "系动词后可以接两个或多个形容词作表语，用 and 表示并列，用 but 表示转折。本句 was reassuring but tentative 先肯定、再限定：表态令人安心，但只是试探性的。考研阅读中 but 后面往往是作者真正强调的内容，本句强调世卫组织的结论并不确定。第15句 plausible but unproven 也是同样的结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan is ambitious but realistic.",
+      "zh": "这项计划雄心勃勃，但切实可行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the World Health Organization",
+    "explain": "世界卫生组织，缩写 WHO，是联合国负责国际公共卫生事务的专门机构，总部设在瑞士日内瓦。2019年8月，它发布了关于饮用水中微塑料的报告（Microplastics in drinking-water），与本句所说的“两个月后”相符。"
+   },
+   {
+    "term": "pose a risk",
+    "explain": "构成风险（视频说明）。pose 作及物动词，常与 risk、threat、danger、challenge、problem 搭配，如 pose a threat to public health（对公众健康构成威胁）；pose a question 意为“提出问题”。"
+   },
+   {
+    "term": "on limited evidence",
+    "explain": "依据有限的证据（视频说明）。on 表示依据，如 on the basis of、act on advice（按照建议行事）。evidence 是不可数名词，不能说 an evidence 或 evidences，“一条证据”说 a piece of evidence。"
+   },
+   {
+    "term": "at current levels",
+    "explain": "按照当前的含量。at ... level(s) 表示“在……水平上”，如 at low levels（在低含量下）、at record levels（处于创纪录的水平）。"
+   }
+  ],
+  "translation_tip": "视频译文“两个月后，世界卫生组织的表态令人安心，但只是试探性的：基于有限的证据，饮用水中的微塑料，按照当前的含量，并未构成明显风险。”的处理：①主语 the World Health Organization 增补“的表态”，因为 reassuring 和 tentative 评价的是它的结论和措辞，说“世界卫生组织令人安心”在汉语中不够自然。②系动词 was 不单独译出，两个表语译为“令人安心，但只是试探性的”，增补“只是”，突出转折。③on limited evidence 保留在冒号后的句首，译为“基于有限的证据”。④at current levels 从句末提前，译为“按照当前的含量”，夹在主语和谓语之间，前后用逗号隔开，突出结论成立的条件；level 结合饮用水的语境译为“含量”。⑤no apparent risk 中的否定转到动词上，译为“并未构成明显风险”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "a study in Nature Medicine（前一分句）；others（后一分句）",
+   "predicate": "reported（前一分句）；queried（后一分句）",
+   "object_or_complement": "plastic in brain tissue（reported 的宾语）；its methodology（queried 的宾语）",
+   "explain": "分号连接两个分句，都是主谓宾结构。前一分句谓语 reported、后一分句谓语 queried 都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 2025",
+    "role": "时间状语（介词短语）",
+    "zh": "2025年2月"
+   },
+   {
+    "text": "a study",
+    "role": "主语（前一分句）",
+    "zh": "一项研究"
+   },
+   {
+    "text": "in Nature Medicine",
+    "role": "后置定语（介词短语），修饰 study",
+    "zh": "《自然·医学》上的"
+   },
+   {
+    "text": "reported",
+    "role": "谓语（前一分句）",
+    "zh": "报告了"
+   },
+   {
+    "text": "plastic",
+    "role": "宾语",
+    "zh": "塑料"
+   },
+   {
+    "text": "in brain tissue",
+    "role": "后置定语（介词短语），修饰 plastic",
+    "zh": "脑组织中的"
+   },
+   {
+    "text": "in an amount",
+    "role": "状语（介词短语），说明所报告的塑料的含量",
+    "zh": "其含量"
+   },
+   {
+    "text": "popularised as",
+    "role": "后置定语（过去分词短语），修饰 amount",
+    "zh": "被大众传作"
+   },
+   {
+    "text": "a spoonful;",
+    "role": "popularise A as B 中的 B，作 as 的宾语",
+    "zh": "一勺"
+   },
+   {
+    "text": "others",
+    "role": "主语（后一分句，代词）",
+    "zh": "其他人则"
+   },
+   {
+    "text": "queried",
+    "role": "谓语（后一分句）",
+    "zh": "质疑了"
+   },
+   {
+    "text": "its methodology.",
+    "role": "宾语（its 指前面的 a study）",
+    "zh": "其研究方法"
+   }
+  ],
+  "structure": "①全句由分号连接两个分句：前一分句介绍研究结果，后一分句交代他人的质疑，两句形成对照。\n②前一分句主干是 a study reported plastic：in Nature Medicine 作 study 的后置定语，说明发表的期刊；in brain tissue 作 plastic 的后置定语，说明塑料所在的位置。\n③in an amount popularised as a spoonful 说明塑料的含量：in an amount 意为“以……的量”；popularised as a spoonful 是过去分词短语作后置定语，修饰 amount（视频说明），相当于 which was popularised as a spoonful，“一勺”是这一含量在大众传播中的说法（视频说明：被广泛传成……），不是精确的测量结论。\n④后一分句 others queried its methodology 中，others 是代词，指研究团队以外的其他人；its 指前面的 a study。queried 意为“质疑”，说明这一结果的测量方法存在争议，与第10句“最耸人听闻的数字，就是最不可靠的”相呼应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "popularise A as B 的过去分词短语作后置定语",
+    "explain": "popularise A as B 意为“把 A 广泛传播为 B”，被动形式为 A is popularised as B。过去分词短语 popularised as a spoonful 放在 amount 之后作定语，amount 是“被传作一勺”的对象，表示被动。同类结构有 describe A as B、regard A as B、refer to A as B、be known as B，它们的过去分词形式作后置定语时都表示“被称作……的”，如 a period known as the Renaissance（被称为文艺复兴的时期）。考研阅读中，这类结构常用来区分事实和说法：popularised as 表明“一勺”是大众的说法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The drug, widely described as a breakthrough, failed in later trials.",
+      "zh": "这种被广泛称为突破的药物，在后来的试验中失败了。"
+     },
+     {
+      "en": "Theories popularised as simple truths often hide serious uncertainty.",
+      "zh": "被大众当作简单真理来传播的理论，往往掩盖着很大的不确定性。"
+     }
+    ]
+   },
+   {
+    "title": "others 与 the others",
+    "explain": "others 是代词，泛指“别的人或物”，范围不确定，如 Some people agreed; others did not。the others 指一定范围内剩下的全部，如 Two of the students passed; the others failed（其余的都没通过）。本句 others 泛指研究团队以外的一些人，不是所有其他人，视频译为“其他人则”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some critics praised the film; others found it far too long.",
+      "zh": "一些评论家称赞了这部电影，另一些人则觉得它太长了。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号用来连接两个意思紧密相关的独立分句，前后可以是并列、对比或转折关系。本句前一分句报告研究结果，后一分句交代质疑，两者对照，中间不用 but 而用分号，语气更客观简洁。第11句 ... a week; critics call that an overestimate 用法相同。写作中不能只用逗号连接两个独立分句，否则会构成逗号粘连错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first experiment succeeded; the second produced no clear results.",
+      "zh": "第一个实验成功了；第二个没有得出明确结果。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Nature Medicine",
+    "explain": "《自然·医学》，《自然》（Nature）系列旗下的医学研究期刊，视频写作“《自然·医学》”。"
+   },
+   {
+    "term": "popularise",
+    "explain": "意为“使普及，使通俗化，使流行”，popularise 是英式拼写，美式拼写为 popularize；本文采用英式拼写。"
+   },
+   {
+    "term": "query",
+    "explain": "作动词意为“质疑，对……表示怀疑”，比 question 稍正式，多用于对数字、决定、说法提出疑问，如 query a bill（对账单提出疑问）。"
+   }
+  ],
+  "translation_tip": "视频译文“2025年2月，《自然·医学》上的一项研究报告了脑组织中的塑料，其含量被大众传作“一勺”；其他人则质疑了其研究方法。”的处理：①后置定语 in Nature Medicine 和 in brain tissue 都前移，分别译为“《自然·医学》上的一项研究”“脑组织中的塑料”。②in an amount popularised as a spoonful 没有前置成很长的定语，而是拆成独立分句“其含量被大众传作“一勺””，用“其”回指塑料，过去分词的被动意义用“被”字译出，“一勺”加引号，表明这是通俗说法。③保留分号。④others 译为“其他人”，增补“则”字，体现两个分句之间的对照；its methodology 译为“其研究方法”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Detection（前一分句）；human studies（后一分句）",
+   "predicate": "has outrun（前一分句）；remain（后一分句）",
+   "object_or_complement": "understanding（has outrun 的宾语）；small or observational（remain 的表语）",
+   "explain": "分号连接两个分句。前一分句是主谓宾结构，谓语 has outrun 为现在完成时，表示到目前为止的状况；后一分句是主系表结构，remain 作系动词，意为“仍然”，谓语为一般现在时。"
+  },
+  "components": [
+   {
+    "text": "Detection",
+    "role": "主语（前一分句，抽象名词）",
+    "zh": "检测"
+   },
+   {
+    "text": "has outrun",
+    "role": "谓语（现在完成时）",
+    "zh": "走在了……前面"
+   },
+   {
+    "text": "understanding;",
+    "role": "宾语（抽象名词）",
+    "zh": "认识"
+   },
+   {
+    "text": "human",
+    "role": "定语（形容词），修饰 studies，说明研究对象是人",
+    "zh": "针对人体的"
+   },
+   {
+    "text": "studies",
+    "role": "主语（后一分句，中心词）",
+    "zh": "研究"
+   },
+   {
+    "text": "remain",
+    "role": "系动词",
+    "zh": "仍然"
+   },
+   {
+    "text": "small",
+    "role": "表语一（形容词）",
+    "zh": "规模较小"
+   },
+   {
+    "text": "or observational.",
+    "role": "并列连词 or + 表语二（形容词）",
+    "zh": "或只是观察性的"
+   }
+  ],
+  "structure": "①全句由分号连接两个分句，后一分句交代前一分句的原因：检测走在了认识前面，因为针对人体的研究仍然规模小，或只是观察性的。\n②前一分句 Detection has outrun understanding 中，Detection 和 understanding 都是抽象名词，分别指“检测出微塑料”和“对其危害的认识”。outrun 原义是“跑得比……快”，这里指超过（视频说明），全句意为检测手段跑在了认识的前面：能查出塑料，却说不清它的危害。现在完成时 has outrun 表示到目前为止的状况。\n③后一分句 human studies remain small or observational 是主系表结构，remain 是系动词，意为“仍然”（视频说明：remain＋形容词：仍然……），small 和 observational 由 or 连接作表语。human 修饰 studies，指以人为对象的研究。\n④small 回应第7句的 a small Dutch study，observational 回应第8、9句：观察性研究只能发现相关性，不能证明因果。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "out- 前缀构成的及物动词",
+    "explain": "前缀 out- 加在动词或名词前，常构成及物动词，表示“在……方面超过”，如 outrun（跑得比……快，超过）、outnumber（在数量上超过）、outweigh（比……重要）、outlive（比……活得长）、outperform（表现优于）。这类动词的宾语就是被超过的对象：Detection has outrun understanding 即检测超过了认识。考研阅读中 outweigh、outnumber 极为常见，A outweighs B 表示 A 比 B 更重要，阅读时不能把主次读反。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In many rural areas, older residents now outnumber young people.",
+      "zh": "在许多农村地区，老年居民的数量如今已超过年轻人。"
+     },
+     {
+      "en": "For most patients, the benefits of the treatment outweigh its risks.",
+      "zh": "对大多数病人来说，这种疗法的好处大于风险。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 remain + 形容词",
+    "explain": "remain 作系动词时意为“仍然是，保持”，后接形容词、名词或分词作表语，强调状态没有改变，如 remain silent、remain unclear、remain a mystery。本句 remain small or observational 表示人体研究至今仍然规模较小，或只是观察性的。系动词 remain 没有被动语态，后接形容词而不是副词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The cause of the fire remains unknown.",
+      "zh": "火灾的原因仍然不明。"
+     }
+    ]
+   },
+   {
+    "title": "名词化表达",
+    "explain": "学术和新闻文章常把动作用名词表达，即名词化，如 detect 变为 detection、understand 变为 understanding，使句子简洁、客观。本句 Detection has outrun understanding 只用三个词，就概括了“检测出微塑料的能力超过了对其危害的认识”。阅读这类句子时，可以把名词还原成动作来把握意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Public acceptance of electric cars has grown faster than expected.",
+      "zh": "公众对电动汽车的接受程度提高得比预想的快。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "observational study",
+    "explain": "观察性研究，指研究者只观察、记录研究对象的情况，不主动施加干预，通常只能发现变量之间的相关性；与之相对的是随机对照试验（randomised controlled trial），后者通过随机分组施加干预，更能检验因果关系。"
+   },
+   {
+    "term": "human studies",
+    "explain": "以人为对象的研究，与 animal studies（动物研究）、laboratory studies（实验室研究）相对。"
+   },
+   {
+    "term": "outrun",
+    "explain": "过去式是 outran，过去分词是 outrun，变化与 run 相同；本句 has outrun 中是过去分词。"
+   }
+  ],
+  "translation_tip": "视频译文“检测走在了认识前面；针对人体的研究仍然规模较小，或只是观察性的。”的处理：①outrun 不直译为“跑得比……快”，而是用“走在了……前面”译出“超过”之义，保留动态的形象；宾语 understanding 插在“走在了”和“前面”之间。②Detection 和 understanding 直译为“检测”“认识”，保留名词化的简洁。③human 译为“针对人体的”，点明研究对象。④两个表语 small 和 observational 用逗号断开，分别译为“规模较小”“或只是观察性的”，增补“只是”，体现观察性研究的局限。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Harm（前一分句）；better measurement（后一分句）",
+   "predicate": "is（前一分句）；may guide（后一分句）",
+   "object_or_complement": "plausible but unproven（is 的表语）；policy（may guide 的宾语）",
+   "explain": "and 连接两个分句。前一分句 Harm is plausible but unproven 是主系表结构，一般现在时；后一分句主干是 better measurement may guide policy，主谓宾结构，情态动词 may 表示可能，until 引导时间状语从句，than panic 是比较状语。"
+  },
+  "components": [
+   {
+    "text": "Harm",
+    "role": "主语（前一分句）",
+    "zh": "说它有害"
+   },
+   {
+    "text": "is plausible",
+    "role": "系动词 + 表语一（形容词）",
+    "zh": "合乎情理"
+   },
+   {
+    "text": "but unproven,",
+    "role": "并列连词 but + 表语二（形容词）",
+    "zh": "却尚未证实"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接前后两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "until the verdict is in,",
+    "role": "时间状语从句（until 引导），the verdict is in 意为“定论已出”",
+    "zh": "在定论出来之前"
+   },
+   {
+    "text": "better measurement",
+    "role": "主语（后一分句）",
+    "zh": "依据更好的测量"
+   },
+   {
+    "text": "may guide",
+    "role": "谓语（情态动词 may + 动词原形）",
+    "zh": "来指导"
+   },
+   {
+    "text": "policy",
+    "role": "宾语",
+    "zh": "政策"
+   },
+   {
+    "text": "more safely",
+    "role": "方式状语（副词比较级）",
+    "zh": "或许会更稳妥"
+   },
+   {
+    "text": "than panic.",
+    "role": "比较状语（than 后省略了 may guide policy）",
+    "zh": "胜过任由恐慌左右"
+   }
+  ],
+  "structure": "①全句由 and 连接两个分句：前一分句是作者对危害的判断，后一分句是据此提出的建议。\n②前一分句 Harm is plausible but unproven 中，Harm 是主语，指微塑料对人体的危害；系动词 is 后接两个由 but 连接的表语，plausible 意为“合乎情理的”，unproven 意为“未经证实的”，but 表示转折：先承认可能有害，再指出尚无证据。\n③后一分句中，until the verdict is in 是 until 引导的时间状语从句，the verdict is in 意为“定论已出”（视频说明），in 是副词作表语，表示“已经出来”；从句用一般现在时表示将来。主句主干是 better measurement may guide policy，may 表示可能，语气委婉；more safely 是副词比较级作方式状语。\n④than panic 是比较状语，than 后省略了 may guide policy，比较的是 better measurement 指导政策与 panic 指导政策（视频说明：than panic：比较的是 panic 指导政策）。better measurement 与 panic 对照：前者依据测量数据，后者出于恐慌情绪。\n⑤本句是全文结尾，与第5句“监管先于人体受害的证据出现”和第10句“最耸人听闻的数字，就是最不可靠的”呼应：作者不否认危害的可能，但主张在定论出来之前，依据测量而不是恐慌来制定政策。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "until 引导时间状语从句：主将从现",
+    "explain": "until、when、before、after、as soon as、if 等引导时间或条件状语从句时，如果主句表示将来，从句用一般现在时表示将来，不用 will，即“主将从现”。本句 until the verdict is in 表示“在定论出来之前”，说的是将来的事，从句却用 is；主句用情态动词 may，同样指向将来。这是考研写作和翻译中的高频语法点，写成 until the verdict will be in 是错误的。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The road will stay closed until the repairs are finished.",
+      "zh": "在维修完成之前，这条路将一直封闭。"
+     },
+     {
+      "en": "We cannot make a final decision until we receive the full report.",
+      "zh": "在收到完整报告之前，我们无法作出最终决定。"
+     }
+    ]
+   },
+   {
+    "title": "than 后的省略与比较对象",
+    "explain": "比较结构中，than 后与前面相同的成分常被省略，只保留与比较对象对应的部分。本句 better measurement may guide policy more safely than panic 中，than panic 是 than panic may guide policy 的省略，比较的是“更好的测量”和“恐慌”谁能更稳妥地指导政策。阅读时要补全省略部分，确认比较的双方：与 panic 对应的是主语 better measurement，不是宾语 policy；如果把 panic 误当成与 policy 对应，句意就会变成“测量指导政策比指导恐慌更稳妥”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Clear rules protect workers better than good intentions.",
+      "zh": "明确的规章比良好的意愿更能保护工人。"
+     },
+     {
+      "en": "She speaks French more fluently than her brother.",
+      "zh": "她的法语说得比她哥哥流利。"
+     }
+    ]
+   },
+   {
+    "title": "副词作表语：the verdict is in",
+    "explain": "in、out、up、over、back 等副词可以放在系动词 be 后作表语，表示状态，如 The results are in（结果出来了）、The meeting is over（会议结束了）、He is out（他出去了）。the verdict is in 原指裁决已经作出，这里指“定论已出”（视频说明）。这类表达很短，容易被误读为缺少宾语的介词短语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The election results are in, and the opposition has won.",
+      "zh": "选举结果出来了，反对党获胜。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the verdict is in",
+    "explain": "定论已出（视频说明）。verdict 原指陪审团的裁决，如 a guilty verdict（有罪裁决）；在一般语境中指经过考察后得出的结论、判断。意思相反的常用说法是 the jury is still out（尚无定论）。"
+   },
+   {
+    "term": "plausible but unproven",
+    "explain": "plausible 指说得通、看似合理，但不一定正确；unproven 指尚未证实。两词连用，概括了全文对微塑料危害的态度：有可能，但没有证据。作者的这种立场可以概括为谨慎（cautious）。"
+   },
+   {
+    "term": "guide policy",
+    "explain": "指导政策。guide 作动词意为“指导，引导”，常见 guide policy/decisions（指导政策、决策）、be guided by evidence（以证据为依据）。"
+   }
+  ],
+  "translation_tip": "视频译文“说它有害合乎情理，却尚未证实；而在定论出来之前，依据更好的测量来指导政策，或许会更稳妥，胜过任由恐慌左右。”的处理：①主语 Harm 是名词，视频增补译为“说它有害”，把名词扩展为小句，“它”指微塑料。②两个表语译为“合乎情理，却尚未证实”，but 译为“却”。③两个分句之间的 and 译为“而”，前面的逗号改为分号，体现由判断转入建议。④until 从句提到主句前，译为“在定论出来之前”。⑤主句拆开处理：better measurement may guide policy 译为“依据更好的测量来指导政策”，增补“依据”；may 与 more safely 合译为“或许会更稳妥”，作为对这种做法的评价。⑥than panic 补出省略的内容，译为“胜过任由恐慌左右”，“左右”对应被省略的 guide policy。"
+ }
+]
