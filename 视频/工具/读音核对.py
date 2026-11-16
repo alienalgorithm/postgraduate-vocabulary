@@ -299,11 +299,14 @@ def selftest(no):
         # identify the intentionally wrong pronunciation.
         keep_w = PRON_WORDS[w]
         PRON_WORDS[w] = re.sub(r'[,;:.!?]', '', KT.tokenizer.phonemize(w, 'en-us')).strip()
+        stop_ = ''
         try:
             got = {line for _, line, bad in check(no) if bad}
+        except SystemExit as e_:   # 24 Worsley's：关掉所有格这条后出片的“换完每一处都必须是正确读音”门直接停 = 读错被拦下，也算抓到
+            got = set(base); stop_ = str(e_)
         finally:
             PRON_WORDS[w] = keep_w
-        hit = any(re.search(r'\] ' + re.escape(w) + r"(['’]s)? ", l_) for l_ in got - base)   # 文中只有所有格的（10 Uffizi's）也算
+        hit = any(re.search(r'\] ' + re.escape(w) + r"(['’]s)? ", l_) for l_ in got - base) or ('读音改正没有全部换到' in stop_ and w in stop_)   # 文中只有所有格的（10 Uffizi's）也算
         print(f'  K102 ② {w}：单独关掉改正 → ' + ('报 BAD（当样本）' if hit else '不报（关掉后仍读对，不当样本）'))
         if hit: valid.append(w)
     if valid:

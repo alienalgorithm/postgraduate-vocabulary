@@ -45,6 +45,7 @@ Legend **rightly** **salutes** Shackleton **for** his **charisma**. Yet both end
 | endured | 本文：熬过了；v. (endure) 忍受，熬过；持续，持久（endure for centuries） | 2 |
 | gruelling | 本文：艰苦累人的；adj. （美式 grueling）累垮人的，极其艰苦的 | 2 |
 | floe | 本文：浮冰；n. 浮冰（块）（ice floe 浮冰） | 2 |
+| split | 本文：裂开了；v. （使）裂开，破裂；分开，分裂；分摊（split the bill） | 2 |
 | lifeboats | 本文：救生艇；n. (lifeboat) 救生艇，救生船 | 2 |
 | bleak | 本文：荒凉；adj. 荒凉的，阴冷的；（前景）暗淡的，无望的（a bleak future） | 2 |
 | uninhabited | 本文：无人居住的；adj. 无人居住的，荒无人烟的（inhabit v. 居住于） | 2 |
