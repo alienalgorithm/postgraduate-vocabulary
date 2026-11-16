@@ -1,0 +1,33 @@
+name: Publish all 70 final 4K videos (2026-11-16)
+on:
+  push:
+    branches: [claude/release-all70-final-4k-20261116]
+    paths: [.github/all70-final-4k/RELEASE-MANIFEST.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: all70-final-4k-20261116
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.repository == 'alienalgorithm/postgraduate-vocabulary'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/all70-final-4k
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -u .github/all70-final-4k/publish.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: all70-final-4k-receipt-${{ github.run_id }}
+          path: release-output/RELEASE-VERIFICATION.json
+          if-no-files-found: warn
