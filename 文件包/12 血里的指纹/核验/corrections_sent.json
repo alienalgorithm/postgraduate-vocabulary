@@ -1,0 +1,51 @@
+[
+ {
+  "key": 2,
+  "field": "grammar[1].examples[0].en",
+  "before": "The survey asked more than 2,000 16-year-olds about their plans after school.",
+  "after": "The survey questioned more than 2,000 British 16-year-olds about their plans after school.",
+  "reason": "原例句 2,000 16-year-olds 两个阿拉伯数字紧挨，英文写作规范应避免，改为中间插入 British 隔开，用 questioned 更地道"
+ },
+ {
+  "key": 2,
+  "field": "grammar[1].examples[0].zh",
+  "before": "这项调查询问了2,000多名16岁的青少年毕业后的打算。",
+  "after": "这项调查询问了2,000多名英国16岁青少年毕业后的打算。",
+  "reason": "与改后的英文例句对应"
+ },
+ {
+  "key": 5,
+  "field": "knowledge[X-ray film].explain",
+  "before": "X-ray 中的 X 要大写，并用连字符连接。",
+  "after": "X-ray 通常写作大写 X 加连字符（Merriam-Webster 也收小写的 x-ray）。",
+  "reason": "“X 要大写”说得过死，美式词典也收小写 x-ray，改为“通常”并注明"
+ },
+ {
+  "key": 9,
+  "field": "grammar[0].explain",
+  "before": "考研完形填空中常考这种时态对比，要根据上下文的时间参照选择时态。",
+  "after": "考研阅读中要据此理清事件的先后顺序，写作叙事时也要根据上下文的时间参照选择时态。",
+  "reason": "考研完形填空选项是词汇和逻辑词，不考动词时态形式，原说法与考试实际不符"
+ },
+ {
+  "key": 16,
+  "field": "grammar[0].explain",
+  "before": "本篇 was murdered、was slain、was detained、was jailed 都属于这种用法。",
+  "after": "本篇 was detained、was jailed 属于这种用法；第1、2句的 was murdered、was slain 不带 by 短语，则是因为凶手当时身份不明。",
+  "reason": "was murdered、was slain 省略施动者的原因是凶手未知，不是“显而易见或不重要”，原说法把两类混为一谈"
+ },
+ {
+  "key": 16,
+  "field": "knowledge[detain].explain",
+  "before": "arrest 意为“逮捕”，二者常连用。",
+  "after": "arrest 意为“逮捕”；detain 只是限制人身自由、留置看管，不一定以正式逮捕为前提。",
+  "reason": "“二者常连用”空泛且无依据，改为说明两词的具体区别"
+ },
+ {
+  "key": 17,
+  "field": "components[on the basis of DNA evidence.].role",
+  "before": "依据状语（介词短语），修饰 convicted",
+  "after": "方式状语（介词短语，表示依据），修饰 convicted",
+  "reason": "“依据状语”不是考研通行术语，按规范改为通行叫法"
+ }
+]
