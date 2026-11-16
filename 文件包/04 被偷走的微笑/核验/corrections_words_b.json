@@ -1,0 +1,114 @@
+[
+ {
+  "key": "id=29 stash",
+  "field": "usage_detail",
+  "before": "外刊中也用于国家或企业的大量储备，如 a stash of foreign reserves（大笔外汇储备），带有口语色彩。",
+  "after": "外刊中也用来指个人、企业或国家囤积的资金、物资，如 a stash of cash（一大笔私藏的现金），带有口语色彩。",
+  "reason": "a stash of foreign reserves 不是常见搭配，换成词典常见的 a stash of cash"
+ },
+ {
+  "key": "id=30 trunk",
+  "field": "etymology",
+  "before": "经古法语 tronc 来自拉丁语 truncus（树干，躯干）。“大箱子”一义15世纪出现，可能因为早期的箱子用掏空的树干做成。",
+  "after": "经古法语 tronc（教堂的捐款箱；树干，躯干）来自拉丁语 truncus（树干，躯干）。“箱子”一义在15世纪中期就已出现在英语中。",
+  "reason": "“早期箱子用掏空的树干做成”是无法证实的推测，删去；补充古法语 tronc 的原义"
+ },
+ {
+  "key": "id=33 dealer",
+  "field": "context_usage",
+  "before": "佩鲁贾找画商，表面是想出手或交还这幅画，结果画商成了他落网的关键。",
+  "after": "佩鲁贾主动联系画商之后，乌菲齐美术馆馆长就到他下榻的旅馆鉴定了画，他随即被捕（第11句），这次联系直接导致了他落网。",
+  "reason": "原文没有交代佩鲁贾联系画商的目的，删去“想出手或交还”的推测，改为原文能支持的事实"
+ },
+ {
+  "key": "id=34 authenticate",
+  "field": "etymology",
+  "before": "源于 authentes（亲手做某事的人），由 autos（自己）构成。",
+  "after": "源于 authentes（亲手做某事的人，自主行事者），由 autos（自己）和一个意为“做事者”的成分构成。",
+  "reason": "authentes 不只由 autos 构成，补全构词"
+ },
+ {
+  "key": "id=35 apprehend",
+  "field": "context_usage",
+  "before": "这是熟词僻义：apprehend 还有“理解”的意思，但在警方、案件语境中，指的是抓捕。",
+  "after": "apprehend 另有“理解，领会”的旧式用法，但在警方、案件语境中，指的是抓捕。",
+  "reason": "“逮捕”是 apprehend 现代词典的首要义项，不是熟词僻义"
+ },
+ {
+  "key": "id=36 patriotism",
+  "field": "collocations",
+  "before": "{\"en\": \"national patriotism\", \"zh\": \"民族爱国情怀\"}",
+  "after": "{\"en\": \"fervent patriotism\", \"zh\": \"炽热的爱国热情\"}",
+  "reason": "national patriotism 语义重复，不是地道搭配"
+ },
+ {
+  "key": "id=37 repatriate",
+  "field": "senses[0].zh",
+  "before": "把（文物、资金等）送回本国（本文）",
+  "after": "把（文物等）送回本国（本文）",
+  "reason": "与第三条义项“把利润、资金汇回本国”重复，资金归入第三条"
+ },
+ {
+  "key": "id=40 accompany",
+  "field": "senses",
+  "before": "[{\"pos\": \"v.\", \"zh\": \"携带，随身带着（本文）\"}, {\"pos\": \"v.\", \"zh\": \"陪同，陪伴\"}, {\"pos\": \"v.\", \"zh\": \"伴随，与……同时发生\"}, {\"pos\": \"v.\", \"zh\": \"为……伴奏\"}]",
+  "after": "[{\"pos\": \"v.\", \"zh\": \"陪同，随……一起去（本文宾语是画，指随身带着它前往，视频译为“携/带着”）\"}, {\"pos\": \"v.\", \"zh\": \"伴随，与……同时发生\"}, {\"pos\": \"v.\", \"zh\": \"为……伴奏\"}, {\"pos\": \"v.\", \"zh\": \"（正式）附带，随……一起提供\"}]",
+  "reason": "“携带”不是 accompany 的词典义项，本文义属于“陪同，随……一起去”；补上词典所载“附带”义"
+ },
+ {
+  "key": "id=42 showing",
+  "field": "context_usage",
+  "before": "画被找回后没有立刻送还法国，而是先在意大利展出，这一细节说明了意大利人对这幅画的重视。",
+  "after": "画被找回后没有立刻送还卢浮宫，而是先在意大利展出，之后才放回原处。",
+  "reason": "“说明意大利人重视这幅画”是原文没有的推断，改为原文所述事实"
+ },
+ {
+  "key": "id=45 impose",
+  "field": "distinction",
+  "before": "impose 指首次设立并施加税收、处罚、限制等",
+  "after": "impose 指设立并施加税收、处罚、限制等",
+  "reason": "impose 不限于“首次”设立，说法过窄"
+ },
+ {
+  "key": "id=47 imprison",
+  "field": "distinction",
+  "before": "imprison 较正式，指判刑后关进监狱",
+  "after": "imprison 较正式，指关进监狱或禁锢，多指判刑后服刑",
+  "reason": "Oxford 释义为 put sb in a prison or another place from which they cannot escape，不限于判刑后"
+ },
+ {
+  "key": "id=49 elevate ... to",
+  "field": "context_usage",
+  "before": "elevate 强调地位的提升，这里指失窃案使这幅画",
+  "after": "elevate 强调地位的提升，按许多史学家的说法，这里指失窃案使这幅画",
+  "reason": "原文是 Many historians argue 引出的观点，讲解要保留其非定论性质"
+ },
+ {
+  "key": "id=52 renowned",
+  "field": "context_usage",
+  "before": "这是全文的核心论断：失窃案让一幅备受推崇的画成了世界最著名的画。",
+  "after": "这是全文的核心论断，但它是许多史学家的观点（Many historians argue），下一句作者用 If so 有所保留：失窃案让一幅备受推崇的画成了世界最著名的画。",
+  "reason": "原文用 argue 和 If so 表推测，讲解不能写成确定的事实"
+ },
+ {
+  "key": "id=52 renowned",
+  "field": "senses",
+  "before": "[{\"pos\": \"adj.\", \"zh\": \"著名的，有声望的（本文）\"}]",
+  "after": "[{\"pos\": \"adj.\", \"zh\": \"著名的，有声望的（本文）\"}, {\"pos\": \"adj.\", \"zh\": \"（be renowned for/as）因……而闻名的\"}]",
+  "reason": "义项要求 2 到 5 条，补上 Oxford 所列 renowned for/as 的用法义"
+ },
+ {
+  "key": "id=53 fame",
+  "field": "context_usage",
+  "before": "全文的落脚点就在 fame 上：画作不在场，空墙引来围观，它的名气反而由此而来",
+  "after": "全文的落脚点就在 fame 上：作者用 If so 假设史学家说得对，画作不在场，空墙引来围观，它的名气反而由此而来",
+  "reason": "保留原文 If so 的假设语气"
+ },
+ {
+  "key": "id=54 bare",
+  "field": "example.zh",
+  "before": "{\"en\": \"The new flat had bare floors and no furniture except a single chair.\", \"zh\": \"那套新公寓地板上空无一物，除了一把椅子，没有任何家具。\"}",
+  "after": "{\"en\": \"The new flat had bare floors and no furniture except a single chair.\", \"zh\": \"那套新公寓的地板光秃秃的，没铺地毯，除了一把椅子，没有任何家具。\"}",
+  "reason": "bare floors 指没铺地毯的地板，原译“地板上空无一物”不准确"
+ }
+]

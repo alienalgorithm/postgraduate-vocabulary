@@ -1,0 +1,79 @@
+[
+ {
+  "key": "id=1 customarily",
+  "field": "context_usage",
+  "before": "盗画者选的正是博物馆按惯例不开放的日子",
+  "after": "失窃恰好发生在博物馆按惯例不开放的日子",
+  "reason": "原文没有说盗画者特意选了这一天，不补出原文没有的事实"
+ },
+ {
+  "key": "id=4 disappearance",
+  "field": "usage_detail",
+  "before": "可数名词，常用 the disappearance of sb/sth。",
+  "after": "可数或不可数名词，常用 the disappearance of sb/sth。",
+  "reason": "Oxford 标注 disappearance 为 countable, uncountable"
+ },
+ {
+  "key": "id=4 disappearance",
+  "field": "usage_detail",
+  "before": "动词 disappear 是不及物动词，不能用于被动语态，不能说 be disappeared。",
+  "after": "动词 disappear 表示“消失”时是不及物动词，不用被动语态；be disappeared 只用于“被当局秘密带走或杀害”这一特殊用法，一般写作中不要用。",
+  "reason": "词典收有及物用法 disappear sb（被当局秘密带走），“不能说 be disappeared”说法绝对化"
+ },
+ {
+  "key": "id=9 plaster",
+  "field": "related[plastered].zh",
+  "before": "（英式俚语）喝醉的",
+  "after": "（口语）喝醉的",
+  "reason": "Oxford、Cambridge 均标 plastered（喝醉的）为 informal，并非英式专用"
+ },
+ {
+  "key": "id=14 onlooker",
+  "field": "senses",
+  "before": "[{\"pos\": \"n.\", \"zh\": \"围观者，旁观者（本文）\"}]",
+  "after": "[{\"pos\": \"n.\", \"zh\": \"围观者（本文）\"}, {\"pos\": \"n.\", \"zh\": \"旁观者（在场观看而不参与的人）\"}]",
+  "reason": "义项要求 2 到 5 条，按本文义与一般义拆开，均为词典所载意思"
+ },
+ {
+  "key": "id=15 stare at",
+  "field": "usage_detail",
+  "before": "stare 是不及物动词，接看的对象时用 at",
+  "after": "stare 通常作不及物动词，接看的对象时用 at",
+  "reason": "stare 有 stare sb in the face、stare sb down 等及物用法，说法绝对化"
+ },
+ {
+  "key": "id=15 stare at",
+  "field": "usage_detail",
+  "before": "还有 be staring at defeat/ruin 表示“眼看就要失败、破产”，外刊常用。",
+  "after": "这一习语还可表示“（坏事）眼看就要发生”，如 Defeat was staring them in the face（失败已近在眼前）。",
+  "reason": "be staring at defeat/ruin 不是词典收录的习语，换成 Oxford 所收 stare sb in the face 的第二义"
+ },
+ {
+  "key": "id=16 vacant",
+  "field": "example",
+  "before": "{\"en\": \"Thousands of shops in the town centre now stand vacant.\", \"zh\": \"市中心如今有数千家店铺空置。\"}",
+  "after": "{\"en\": \"Dozens of shops in the town centre now stand vacant.\", \"zh\": \"市中心如今有几十家店铺空置。\"}",
+  "reason": "一个镇中心有“数千家”空置店铺不合常理，改为合乎实际的数量"
+ },
+ {
+  "key": "id=18 in custody",
+  "field": "distinction",
+  "before": "in custody 指被羁押，尚未判决或正在等候审理",
+  "after": "in custody 指被羁押，多指等候审判期间，也可泛指被关押",
+  "reason": "Oxford 释义为 the state of being in prison, especially while waiting for trial，并不限于未判决"
+ },
+ {
+  "key": "id=23 temporarily",
+  "field": "usage_detail",
+  "before": "注意英式读音常读成三个音节 /ˈtemprərəli/，美式重音在第三个音节 /ˌtempəˈrerəli/。",
+  "after": "注意英式重音在第一个音节，中间的 /ə/ 常省略，读作 /ˈtemprərəli/（四个音节）；美式重音在第三个音节，读作 /ˌtempəˈrerəli/。",
+  "reason": "/ˈtemprərəli/ 是四个音节，原文说“三个音节”错误"
+ },
+ {
+  "key": "id=24 lurk",
+  "field": "etymology",
+  "before": "来自中古英语 lurken，很可能来自斯堪的纳维亚语言，与挪威方言 lurka（悄悄溜走）有关。",
+  "after": "来自中古英语 lurken，来源不确定：可能来自斯堪的纳维亚语言（比较挪威方言 lurka，悄悄溜走），也可能由中古英语 lour（皱眉，阴沉着脸）加表示反复的后缀 -k 构成。",
+  "reason": "Etymonline 只说 possibly 来自斯堪的纳维亚语，并列出另一种来源，不能写成“很可能”"
+ }
+]

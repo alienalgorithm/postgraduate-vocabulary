@@ -27,6 +27,8 @@ def check(no, part):
         got = [it.get(key) for it in items]
         if got != P[pt]: bad.append(f'{pt}: items must be exactly {key} = {P[pt]} in order; got {got}')
         blob = json.dumps(items, ensure_ascii=False)
+        for tok in set(re.findall(r'\S*[–—]\S*', arts)):     # dashes that are in the original English itself (e.g. a 4–1 score) are quoted, not ours
+            blob = blob.replace(tok.strip('.,;:!?"“”()'), '')
         for b in BAN:
             if b in blob: bad.append(f'{pt}: forbidden text {b!r} appears {blob.count(b)} times')
         for it in items:

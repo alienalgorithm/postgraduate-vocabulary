@@ -11,8 +11,15 @@ LW = 17 * MM
 
 def highlight(sentence, term):
     m = re.search(r'(?<![A-Za-z])' + re.escape(term) + r'(?![A-Za-z])', sentence, re.I)
-    assert m, (term, sentence)
-    return sentence[:m.start()] + '**' + sentence[m.start():m.end()] + '**' + sentence[m.end():]
+    if m: return sentence[:m.start()] + '**' + sentence[m.start():m.end()] + '**' + sentence[m.end():]
+    ws = re.findall(r"[A-Za-z0-9'’]+", term)            # split phrase: mark each word, in order
+    gp = r'(?<![A-Za-z])' + r'(?![A-Za-z])(.*?)(?<![A-Za-z])'.join('(' + re.escape(w) + ')' for w in ws) + r'(?![A-Za-z])'
+    m = re.search(gp, sentence, re.I); assert m, (term, sentence)
+    out, pos = '', m.start()
+    for gi in range(1, len(m.groups()) + 1):
+        a, b = m.span(gi); seg = sentence[a:b]
+        out += seg if gi % 2 == 0 else '**' + seg + '**'
+    return sentence[:m.start()] + out + sentence[m.end():]
 
 def build(article, content, out):
     a = json.loads(Path(article).read_text()); items = {i['id']: i for i in json.loads(Path(content).read_text())}

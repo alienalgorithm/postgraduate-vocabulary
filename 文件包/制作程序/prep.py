@@ -41,6 +41,10 @@ def prep(no):
         for en, zh in items:
             k += 1
             sn = next((s['n'] for s in sents if s['para'] == pi + 1 and re.search(r'\*\*' + re.escape(en) + r'\*\*|\b' + re.escape(en) + r'\b', s['en_markup'], re.I)), None)
+            if sn is None:   # split phrases (elevated … to, caught him unawares): the words in order, gaps allowed
+                ws = re.findall(r"[A-Za-z0-9'’]+", en)
+                gp = r'(?<![A-Za-z])' + r'(?![A-Za-z]).*?(?<![A-Za-z])'.join(re.escape(w) for w in ws) + r'(?![A-Za-z])'
+                sn = next((s['n'] for s in sents if s['para'] == pi + 1 and re.search(gp, s['en'], re.I)), None)
             m = vmeta.get(en.lower(), {})
             vocab.append({'id': k, 'para': pi + 1, 'sentence': sn, 'en': en, 'zh_video': zh,
                           'headword': m.get('headword'), 'pos': m.get('pos'),
