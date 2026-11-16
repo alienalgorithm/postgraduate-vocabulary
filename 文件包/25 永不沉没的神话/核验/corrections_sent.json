@@ -1,0 +1,51 @@
+[
+ {
+  "key": "S2",
+  "field": "knowledge[practically].explain",
+  "before": "熟词僻义：practically 常见义是“实际上，实用地”，在这里相当于 almost、nearly，意为“几乎，差不多”，视频译为“几乎”。又如 practically impossible（几乎不可能）。",
+  "after": "易误解词：学生常按 practical（实际的）把 practically 理解成“实际上”，其实“几乎，差不多”正是它最常用的意思，相当于 almost、nearly，视频译为“几乎”，如 practically impossible（几乎不可能）。“实际上，从实际出发”是它的另一个义项，本句不取。",
+  "reason": "Oxford、Cambridge 都把“几乎，差不多”列为 practically 的首要义项，称“熟词僻义”不准确，改为易误解提示。"
+ },
+ {
+  "key": "S2",
+  "field": "knowledge[sister ship].explain",
+  "before": "泰坦尼克号的姊妹船是1911年已投入运营的奥林匹克号（Olympic）。",
+  "after": "泰坦尼克号的姊妹船不止一艘，本句与她并提的是1911年已投入运营的奥林匹克号（Olympic）。",
+  "reason": "泰坦尼克号还有一艘后来建成的姊妹船（不列颠尼克号），原句像是说她只有奥林匹克号一艘姊妹船，改为限定在本句所指。"
+ },
+ {
+  "key": "S4",
+  "field": "structure",
+  "before": "blame 的完整用法是 blame sth for sth 或 blame sth on sb/sth。",
+  "after": "blame 的完整用法是 blame sb/sth for sth 或 blame sth on sb/sth。",
+  "reason": "blame ... for 的宾语可以是人也可以是物（本句即物 arrogance），与语法点中的句型写法统一。"
+ },
+ {
+  "key": "S6",
+  "field": "knowledge[top out at].explain",
+  "before": "top out 原指建筑物封顶，封顶仪式叫 topping-out ceremony。",
+  "after": "top out 也可指建筑物主体结构封顶，封顶仪式叫 topping-out ceremony。",
+  "reason": "“原指建筑物封顶”是词义先后的断言，权威词典只并列两个义项，未说明先后，改为并列说明。"
+ },
+ {
+  "key": "S8",
+  "field": "grammar[冒号与对称结构].examples[0]",
+  "before": "The new policy was popular but costly: welcome in the polls, painful in the budget. / 这项新政策很受欢迎，但代价高昂：在民调中受欢迎，在预算上却让人头疼。",
+  "after": "The bridge's design divided engineers: elegant on paper, impractical in a crowded city. / 这座桥的设计让工程师们意见不一：纸面上很优美，放在拥挤的城市里却不实用。",
+  "reason": "welcome in the polls 搭配不地道，且两半不是严格对称的“形容词 + 介词短语”；换成与 sufficient in law, inadequate at sea 同构的例句。"
+ },
+ {
+  "key": "S12",
+  "field": "grammar[抽象名词作主语].examples[0].zh",
+  "before": "经验告诉她，签合同前要仔细阅读。",
+  "after": "经验教会了她仔细阅读合同。",
+  "reason": "原译增出英文没有的“签合同前”，改为忠实译文。"
+ },
+ {
+  "key": "S14",
+  "field": "grammar[名词短语直接作时间状语].explain",
+  "before": "；不能说 in that July、in last week。",
+  "after": "；this、last、next、every 前不加介词，不说 in last week、on next Monday，that July 前通常也不加介词。",
+  "reason": "in that July 之类（如 in that year）并非绝对错误，原说法过于绝对；改为只对 last/next/this/every 下硬性结论。"
+ }
+]

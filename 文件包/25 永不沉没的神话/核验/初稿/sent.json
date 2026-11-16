@@ -1,0 +1,1728 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "the opulent liner Titanic",
+   "predicate": "left",
+   "object_or_complement": "Southampton",
+   "explain": "主干是 the opulent liner Titanic left Southampton，主谓宾结构；leave 在此是及物动词，意为“离开（某地）”，Southampton 作宾语。谓语 left 是 leave 的过去式，一般过去时，主动语态，叙述过去发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "On 10 April 1912",
+    "role": "时间状语（介词短语，on 用于具体日期）",
+    "zh": "1912年4月10日"
+   },
+   {
+    "text": "the opulent liner",
+    "role": "主语（中心词 liner，opulent 作前置定语）",
+    "zh": "豪华的邮轮"
+   },
+   {
+    "text": "Titanic",
+    "role": "同位语（紧密同位语，说明邮轮的名称）",
+    "zh": "泰坦尼克号"
+   },
+   {
+    "text": "left",
+    "role": "谓语",
+    "zh": "离开了"
+   },
+   {
+    "text": "Southampton",
+    "role": "宾语",
+    "zh": "南安普敦"
+   },
+   {
+    "text": "on her maiden voyage.",
+    "role": "状语（介词短语，说明离港时所处的航程）",
+    "zh": "开始了她的处女航"
+   }
+  ],
+  "structure": "①主句是 the opulent liner Titanic left Southampton，主谓宾结构。主语的中心词是 liner，opulent 是前置定语；Titanic 是 liner 的同位语，二者之间不加逗号，结合紧密，称为紧密同位语：先说类别“邮轮”，再说名字“泰坦尼克号”。定冠词 the 管整个 opulent liner Titanic；单说船名时英语一般也加 the，如第5句的 the Titanic。\n②句首 On 10 April 1912 是时间状语。具体到某一天用介词 on；日期是英式写法“日 月 年”，美式通常写成 April 10, 1912。\n③句末 on her maiden voyage 是介词短语作状语，交代船离港时所处的航程：on a voyage/journey/trip 表示“在旅途中”。her 指泰坦尼克号，英语常用 she/her 指船（视频说明），第3句的 she 也指这艘船。\n④本句交代时间、船名、出发港和“处女航”这一背景；第3句写她四天后撞上冰山，首次出航就遭遇灾难，形成对比。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "紧密同位语",
+    "explain": "同位语对前面的名词作进一步说明，二者指同一事物。同位语与中心词之间不用逗号隔开、读时不停顿的，叫紧密同位语，常见形式是“类别名词 + 专有名词”，如 the poet Du Fu、my brother Tom、the novel Jane Eyre。本句 the opulent liner Titanic 中，Titanic 说明 liner 的名称，第9句的 the steamer Californian 是同样的结构。用逗号隔开的同位语则是补充说明，如第10句 Her sole wireless operator, Cyril Evans。翻译紧密同位语时一般把类别词和名称连在一起，船名后常加“号”，视频译为“邮轮泰坦尼克号”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The research vessel Discovery returned to port after six weeks at sea.",
+      "zh": "科考船发现号在海上航行六周后返回了港口。"
+     }
+    ]
+   },
+   {
+    "title": "介词 on 与具体日期；英美日期写法",
+    "explain": "表示时间时，具体的某一天（含日期、星期、某一天的上午或晚上）用 on，如 on 10 April、on Monday、on the night of 14 April；月份、年份、季节用 in，如 in April、in 1912；钟点用 at，如第3句的 at about 11.40pm。日期写法英美不同：英式是“日 月 年”，10 April 1912，读作 the tenth of April, nineteen twelve；美式是“月 日, 年”，April 10, 1912，读作 April tenth, nineteen twelve。考研写作中书信的日期选定一种写法，全文保持统一即可。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new bridge was opened to traffic on 1 July, after almost three years of construction.",
+      "zh": "这座新桥历时近三年施工，于7月1日通车。"
+     }
+    ]
+   },
+   {
+    "title": "用 she/her 指代船只",
+    "explain": "英语传统上把船、舰艇当作阴性，用 she、her 指代，带有亲切或拟人的色彩；现代新闻和科技文体中用 it 指船也很常见。本句 her maiden voyage 中的 her、第3句的 she 都指泰坦尼克号，第10句 Her sole wireless operator 中的 Her 则指加州人号。阅读时要根据上下文判断 she/her 指的是船而不是人；视频译文保留了拟人的“她”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The ship lost her anchor in the storm, but the crew brought her safely into port.",
+      "zh": "这艘船在暴风雨中丢了锚，但船员们还是让她安全驶进了港口。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "maiden voyage",
+    "explain": "处女航，首航，指船只第一次正式航行（视频说明）。maiden 作形容词表示“首次的”，类似搭配有 maiden flight（首飞）、maiden speech（议员的首次演说）；maiden name 则指女子婚前的娘家姓。"
+   },
+   {
+    "term": "liner",
+    "explain": "大型客轮，邮轮，多指按固定航线定期航行的远洋客轮，也说 ocean liner。视频译为“邮轮”。"
+   },
+   {
+    "term": "Southampton",
+    "explain": "南安普敦，英格兰南部海岸的港口城市。泰坦尼克号的处女航从这里启航，目的地是美国纽约。"
+   },
+   {
+    "term": "Titanic",
+    "explain": "船名来自希腊神话中的提坦（Titans）巨神族。小写的普通形容词 titanic 意为“巨大的，力大无比的”，如 a titanic struggle（一场艰苦卓绝的斗争）。"
+   }
+  ],
+  "translation_tip": "视频译文“1912年4月10日，豪华的邮轮泰坦尼克号离开了南安普敦，开始了她的处女航。”的处理：①英式日期“日 月 年”按汉语习惯改为“1912年4月10日”，放在句首。②紧密同位语 the opulent liner Titanic 按“定语 + 类别 + 名称”译为“豪华的邮轮泰坦尼克号”，船名后加“号”。③介词短语 on her maiden voyage 转译为动宾结构“开始了她的处女航”，单独成一个分句，与“离开了南安普敦”前后相接，体现汉语多用动词的特点。④her 保留拟人色彩，译为“她的”，与英语用 she/her 指船相对应。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "A 1911 trade journal",
+   "predicate": "had dubbed",
+   "object_or_complement": "her and her sister ship（宾语）；\"practically unsinkable\"（宾语补足语）",
+   "explain": "主干是 A 1911 trade journal had dubbed her and her sister ship \"practically unsinkable\"，主谓宾宾补结构，即 dub A B（把A称作B）。谓语 had dubbed 是过去完成时，主动语态，表示这一称呼发生在1912年处女航之前。"
+  },
+  "components": [
+   {
+    "text": "A 1911 trade journal",
+    "role": "主语（1911 和 trade 都作 journal 的前置定语）",
+    "zh": "1911年，一家行业期刊"
+   },
+   {
+    "text": "had dubbed",
+    "role": "谓语（过去完成时）",
+    "zh": "把……称为"
+   },
+   {
+    "text": "her and her sister ship",
+    "role": "宾语（and 连接的两个并列名词）",
+    "zh": "她和她的姊妹船"
+   },
+   {
+    "text": "\"practically unsinkable\".",
+    "role": "宾语补足语（形容词短语，practically 修饰 unsinkable；引号表示引用原话）",
+    "zh": "“几乎不会沉没的”"
+   }
+  ],
+  "structure": "①主句是 A 1911 trade journal had dubbed her and her sister ship \"practically unsinkable\"，dub A B 结构（视频说明：把A称作B）：her and her sister ship 是宾语，\"practically unsinkable\" 是宾语补足语，说明宾语被称作什么。dub 后的宾补可以是名词，也可以像本句这样是形容词。\n②主语 A 1911 trade journal 中，年份 1911 和名词 trade 都作 journal 的前置定语：1911 说明是哪一年的期刊，trade 说明是面向行业的期刊。\n③谓语 had dubbed 用过去完成时。上句叙述的是1912年4月的事，期刊这样称呼发生在1911年，是“过去的过去”，所以用 had done。\n④her 指泰坦尼克号；her sister ship 指与她按同一设计建造的姊妹船奥林匹克号（Olympic）。practically 在这里意为“几乎，差不多”，不是“实际上”。\n⑤引号里是期刊的原话：说的是“几乎”不会沉没，并非绝对不会沉没。标题 The Myth of the Unsinkable 中的 Unsinkable 就呼应这一说法；下一句写她撞上冰山沉没，与“几乎不会沉没”形成强烈反差。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时由 had + 过去分词构成，表示在过去某一时间或某一动作之前已经发生的动作。叙事以过去某一时刻为基准时，比这个基准更早的事用过去完成时交代。本句的叙事基准是上句1912年4月的处女航，期刊称它“几乎不会沉没”发生在1911年，所以用 had dubbed。考研阅读中，一段过去时叙述里突然出现 had done，往往是在补叙更早的背景，要据此理清事件的先后；翻译时汉语靠时间词或“此前”“早在”体现先后，不必每处都译出“已经”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the firefighters arrived, the roof had already collapsed.",
+      "zh": "消防员赶到时，屋顶已经塌了。"
+     },
+     {
+      "en": "She had worked as a nurse for ten years before she went to medical school.",
+      "zh": "她在上医学院之前已经当了十年护士。"
+     }
+    ]
+   },
+   {
+    "title": "dub A B：动词 + 宾语 + 宾语补足语",
+    "explain": "dub、call、name、label、term、declare 等动词可以带复合宾语，构成“动词 + 宾语 + 宾语补足语”，宾补说明宾语被称作什么或是什么样，可以是名词，也可以是形容词。本句 dubbed her and her sister ship \"practically unsinkable\" 中，宾补是形容词短语。变成被动语态时，宾补留在动词后面，如 She was dubbed \"the Iron Lady\"（她被称作“铁娘子”）。新闻和考研阅读中，dub 后常带引号，表示这是别人起的称呼或绰号，作者未必认同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Local residents dubbed the new tower \"the Pencil\" because of its slim shape.",
+      "zh": "这座新塔造型细长，当地居民称它为“铅笔”。"
+     },
+     {
+      "en": "The press dubbed the plan \"unworkable\" before it had even been published.",
+      "zh": "计划还没公布，媒体就称它“行不通”。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dub",
+    "explain": "动词，给……起绰号，把……称为，多用于新闻，常见被动 be dubbed + 名称。dub 还有“为（影片）配音、译制”的意思，如 a dubbed version（译制版）。"
+   },
+   {
+    "term": "sister ship",
+    "explain": "姊妹船，指按同一设计建造的同型船（视频说明）。泰坦尼克号的姊妹船是1911年已投入运营的奥林匹克号（Olympic）。"
+   },
+   {
+    "term": "practically",
+    "explain": "熟词僻义：practically 常见义是“实际上，实用地”，在这里相当于 almost、nearly，意为“几乎，差不多”，视频译为“几乎”。又如 practically impossible（几乎不可能）。"
+   },
+   {
+    "term": "trade journal",
+    "explain": "行业期刊，指面向某一行业从业人员的专业刊物。trade 在这里指“行业，同业”，如 the building trade（建筑业）、a trade fair（商品交易会）。"
+   }
+  ],
+  "translation_tip": "视频译文“1911年，一家行业期刊把她和她的姊妹船称为“几乎不会沉没的”。”的处理：①主语中的定语 1911 提到句首，译成时间状语“1911年，”，主语只留“一家行业期刊”，不定冠词 A 译为量词“一家”。②过去完成时 had dubbed 没有译出“已经”，靠“1911年”与上句的“1912年”体现先后。③dub A B 用“把”字句译出：“把她和她的姊妹船称为……”，宾补放在“称为”之后。④形容词宾补保留引号，译成“的”字结构“几乎不会沉没的”，practically 译为“几乎”，保留原话留有余地的语气。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "she（第一、二分句）；the death toll（第三分句）",
+   "predicate": "collided with（第一分句）；had vanished（第二分句）；would surpass（第三分句）",
+   "object_or_complement": "an iceberg（介词 with 的宾语）；1,500（surpass 的宾语）",
+   "explain": "本句由三个分句组成：分号前是 she collided with an iceberg；分号后是 she had vanished beneath the waves 和 the death toll would surpass 1,500，用 and 连接。三个谓语依次是一般过去时、过去完成时和过去将来时，均为主动语态。"
+  },
+  "components": [
+   {
+    "text": "At about 11.40pm on 14 April",
+    "role": "时间状语（介词短语，at 表示钟点，on 14 April 说明是哪一天）",
+    "zh": "4月14日晚约11时40分"
+   },
+   {
+    "text": "she",
+    "role": "主语（指泰坦尼克号）",
+    "zh": "她"
+   },
+   {
+    "text": "collided with",
+    "role": "谓语（不及物动词 collide + 介词 with）",
+    "zh": "和……相撞了"
+   },
+   {
+    "text": "an iceberg;",
+    "role": "介词宾语（with 的宾语）",
+    "zh": "一座冰山"
+   },
+   {
+    "text": "by 2.20am",
+    "role": "时间状语（介词短语，by 表示“到……为止”）",
+    "zh": "到次日凌晨2时20分"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "had vanished",
+    "role": "谓语（过去完成时）",
+    "zh": "已消失"
+   },
+   {
+    "text": "beneath the waves,",
+    "role": "地点状语（介词短语）",
+    "zh": "在海浪之下"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接分号后的两个分句",
+    "zh": "（并列连词，不单独译出）"
+   },
+   {
+    "text": "the death toll",
+    "role": "主语",
+    "zh": "遇难人数"
+   },
+   {
+    "text": "would surpass",
+    "role": "谓语（过去将来时，表示后来的结果）",
+    "zh": "最终将超过"
+   },
+   {
+    "text": "1,500.",
+    "role": "宾语",
+    "zh": "1,500"
+   }
+  ],
+  "structure": "①全句由三个分句组成。分号前是第一个分句 she collided with an iceberg，At about 11.40pm on 14 April 作时间状语：about 修饰钟点，表示“大约”，on 14 April 说明是哪一天。collide 是不及物动词，要用 with 引出撞上的对象（视频说明：collide with，与……相撞）。\n②分号后的第一个分句是 she had vanished beneath the waves。by 2.20am 意为“到凌晨2时20分为止”，by + 过去时间点 常与过去完成时连用，had vanished 表示到这个时刻船已经完全消失；beneath the waves 是地点状语。2.20am 已是4月15日凌晨，视频译文补出“次日”。\n③第三个分句 the death toll would surpass 1,500 由 and 连接。would 在这里表示过去将来时，站在沉船那一刻往后看，说明后来的结果（视频说明），不是“愿意”，也不是虚拟语气。\n④三个时间点串起事件进程：11时40分相撞，2时20分沉没，前后约两小时四十分钟，与第17句 sank within three hours 相呼应。分号把“相撞”和“沉没”两个阶段隔开，节奏紧凑。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "by + 过去时间点 与过去完成时",
+    "explain": "by + 时间点意为“到……为止，不迟于……”。这个时间点是过去时间时，句子谓语通常用过去完成时，表示动作在该时刻之前已经完成；by the time 引导的从句用一般过去时，主句也常用过去完成时。本句 by 2.20am she had vanished 即“到凌晨2时20分，她已消失”。时间点在将来时，则常用将来完成时，如 By next June we will have finished the project。考研完形填空常以 by + 时间作为选择时态的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of 2019, the company had opened more than 200 stores.",
+      "zh": "到2019年底，这家公司已经开了200多家门店。"
+     },
+     {
+      "en": "By the time the ambulance arrived, the injured man had lost a lot of blood.",
+      "zh": "等救护车赶到时，伤者已经失血很多。"
+     }
+    ]
+   },
+   {
+    "title": "would 表示过去将来时：提前交代后来的结果",
+    "explain": "would 是 will 的过去式，可以在过去时的叙述中表示“从当时看的将来”。叙事文常用 would + 动词原形 提前交代后来发生的事，意为“后来会，最终将”，作用与 was to do 相近。本句 the death toll would surpass 1,500 站在沉船那一刻，说明遇难人数后来超过1,500（视频说明：过去将来时，表示后来的结果），视频译为“最终将超过”。要与表示过去习惯的 would（过去常常）和虚拟语气中的 would 区分：本句叙述的是确实发生了的事，不是假设。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In 1905 he was an unknown clerk; within two decades he would become one of the country's richest men.",
+      "zh": "1905年他还是个无名小职员；不到二十年，他就成了全国最富有的人之一。"
+     },
+     {
+      "en": "The two scientists met at a conference in 1953 and would work together for the next thirty years.",
+      "zh": "两位科学家1953年在一次会议上相识，此后合作了三十年。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接独立分句",
+    "explain": "分号用来连接两个意思紧密相关的独立分句，联系比句号紧，停顿比逗号大。本句分号前讲相撞，分号后讲沉没和遇难人数，后半部分内部又用逗号加 and 连接两个分句。两个独立分句之间只用逗号、不加连词是错误的（逗号粘连），考研写作中要用分号、句号或连词连接。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first experiment failed; the second, however, produced the expected result.",
+      "zh": "第一次实验失败了；不过，第二次实验得出了预期的结果。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "collide with",
+    "explain": "与……相撞（视频说明）。collide 是不及物动词，后接 with；也可指观点、利益“冲突”，如 Their interests collided。名词是 collision，如 a head-on collision（迎面相撞）。"
+   },
+   {
+    "term": "death toll",
+    "explain": "死亡人数，遇难人数，新闻高频词，常与 rise、climb、reach、surpass 等动词搭配。toll 原指通行费，引申为“代价，损失”，take a toll on 意为“对……造成损害”。"
+   },
+   {
+    "term": "beneath the waves",
+    "explain": "在海浪之下，指沉入海中，常用来描写沉船。beneath 比 under 正式，书面色彩更浓。"
+   },
+   {
+    "term": "11.40pm / 2.20am",
+    "explain": "钟点写法：英式常用点号，如 11.40pm；美式多用冒号，如 11:40 p.m.。pm 表示中午12点以后，am 表示午夜到中午12点之前，所以 2.20am 是凌晨。"
+   },
+   {
+    "term": "1,500",
+    "explain": "英语数字从右往左每三位加一个逗号，1,500 读作 one thousand five hundred，也常说 fifteen hundred。"
+   }
+  ],
+  "translation_tip": "视频译文“4月14日晚约11时40分，她和一座冰山相撞了；到次日凌晨2时20分，她已消失在海浪之下，遇难人数最终将超过1,500。”的处理：①时间状语按汉语“先日期、后钟点”的顺序重排，pm 译为“晚”，about 译为“约”放在钟点前。②collided with an iceberg 中，介词宾语提到动词前，译为“和一座冰山相撞了”，an 译为量词“一座”。③by 2.20am 译为“到……”，并增补“次日凌晨”，点明已是第二天。④had vanished 用“已”体现完成，beneath the waves 译为“在海浪之下”，放在动词后作补语。⑤would surpass 译为“最终将超过”，“将”体现过去将来，“最终”点出这是后来的结果；and 不单独译出，用逗号衔接。⑥分号保留，与原文的分句层次一致。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Folklore",
+   "predicate": "blames",
+   "object_or_complement": "arrogance",
+   "explain": "主干就是全句，主谓宾结构。谓语 blames 是一般现在时，主动语态，表示至今仍在流传的看法。"
+  },
+  "components": [
+   {
+    "text": "Folklore",
+    "role": "主语",
+    "zh": "坊间流传的说法"
+   },
+   {
+    "text": "blames",
+    "role": "谓语",
+    "zh": "把……归咎于"
+   },
+   {
+    "text": "arrogance.",
+    "role": "宾语（被归咎的原因）",
+    "zh": "傲慢"
+   }
+  ],
+  "structure": "①本句只有主谓宾三个成分，是全文最短的句子之一，用来摆出一个流行观点。\n②blame 的完整用法是 blame sth for sth 或 blame sth on sb/sth。本句省略了 for 引出的对象（即 for the disaster），只保留被归咎的原因 arrogance（视频说明：blame A，把过错归咎于A）；视频译文补出了“灾难”。\n③folklore 本义是民间传说，这里指关于泰坦尼克号沉没、在民间口耳相传的说法，视频译为“坊间流传的说法”。arrogance 意为傲慢自负，结合第2句“几乎不会沉没”的说法，指的是对这艘船过分自信的态度。\n④谓语用一般现在时，与前三句叙事的一般过去时不同：前面叙述历史事件，本句说的是至今仍流传的看法。下一句以 Yet 转折予以反驳，这是考研阅读常见的“先摆出流行观点，再提出作者观点”的写法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "blame 的常用句型",
+    "explain": "blame 作动词有三种常用句型：blame sb/sth for sth（因某事责怪某人或某物），blame sth on sb/sth（把某事归咎于某人或某物），sb/sth is to blame for sth（某人或某物应对某事负责）。前两种中，for 后接坏事，on 后接责任方，介词不能用错。本句 Folklore blames arrogance 省略了 for the disaster，宾语 arrogance 是被归咎的原因。考研阅读中，blame 常用来引出某种关于原因的看法，要分清这是作者的观点，还是作者转述、准备反驳的观点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many economists blame the housing crisis on years of low interest rates.",
+      "zh": "许多经济学家把住房危机归咎于多年的低利率。"
+     },
+     {
+      "en": "Investigators have not yet said who was to blame for the fire.",
+      "zh": "调查人员尚未说明谁应对这场火灾负责。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时表示仍然存在的看法",
+    "explain": "一般现在时可以表示现在仍然存在的状态、普遍的看法或客观事实。在以过去时为主的叙事中，作者转用一般现在时，往往是从叙述历史转为评论或介绍至今仍存在的观点。本句 blames 说明这种说法如今仍在流传，与前文叙述1912年事件的过去时形成对照。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Popular wisdom holds that breakfast is the most important meal of the day.",
+      "zh": "通常的看法认为，早餐是一天中最重要的一餐。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "folklore",
+    "explain": "名词，民间传说，民俗；也指关于某人某事的流传说法，未必可靠。由 folk（民众）和 lore（传统知识，传说）构成。本句视频译为“坊间流传的说法”。"
+   },
+   {
+    "term": "arrogance",
+    "explain": "名词，傲慢，自大；形容词 arrogant。近义词 hubris 指招致灾祸的狂妄自大，常见于历史评论和文学批评。"
+   },
+   {
+    "term": "先摆观点、再转折的篇章结构",
+    "explain": "第4句提出流行说法（Folklore blames arrogance），第5句用 Yet 转折，指出泰坦尼克号合法合规，引出作者要强调的问题：过时的法规。考研阅读常考作者态度，Folklore 引出的是作者准备反驳的观点，不是作者本人的看法。"
+   }
+  ],
+  "translation_tip": "视频译文“坊间流传的说法把灾难归咎于傲慢。”的处理：①folklore 不直译为“民间传说”，按语境译为“坊间流传的说法”，突出这只是一种流传的观点。②blame 用“把……归咎于……”的结构译出，并增补被省略的对象“灾难”，使汉语句意完整。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "the Titanic",
+   "predicate": "was",
+   "object_or_complement": "compliant with the law",
+   "explain": "主干是 the Titanic was compliant with the law，主系表结构，形容词短语 compliant with the law 作表语。谓语 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "并列连词（表示转折，与上句形成对比）",
+    "zh": "然而"
+   },
+   {
+    "text": "the Titanic",
+    "role": "主语",
+    "zh": "泰坦尼克号"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 compliant with 合译为“符合”）"
+   },
+   {
+    "text": "compliant with",
+    "role": "表语（形容词 + 介词，be compliant with 意为“符合”）",
+    "zh": "符合"
+   },
+   {
+    "text": "the law.",
+    "role": "介词宾语（with 的宾语）",
+    "zh": "法规"
+   }
+  ],
+  "structure": "①主句是主系表结构，compliant 是形容词作表语，with the law 是它的介词宾语，be compliant with 意为“符合（规定、标准）”（视频说明）。\n②Yet 放在句首，表示转折，相当于 but 或 however，把本句和上句对立起来：上句说坊间把灾难归咎于傲慢，本句指出这艘船完全合法。\n③the law 在这里不是泛指法律，而是指当时英国关于船舶安全的具体规定，视频译为“法规”；下一句就交代这些规定的内容。\n④船名前通常加定冠词，写作 the Titanic。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "yet 作并列连词表示转折",
+    "explain": "yet 作连词时意为“然而，但是”，常带有“出乎意料”的意味，可以放在句首，也可以说 and yet。yet 作副词时常用于否定句和疑问句，意为“还，尚”，如 not yet。本句 Yet 位于句首，引出与上句流行看法相反的事实。考研阅读中，句首的 Yet、But、However 往往是作者观点出现的信号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan was simple, yet nobody had thought of it before.",
+      "zh": "这个计划很简单，然而以前从来没有人想到过。"
+     }
+    ]
+   },
+   {
+    "title": "be + 形容词 + 介词 表达动词意义",
+    "explain": "英语常用“be + 形容词 + 介词”表达本可以用动词表达的意思，语气更正式，更强调状态，如 be compliant with = comply with（符合，遵守），be dependent on = depend on（依赖），be indicative of = indicate（表明）。本句 was compliant with the law 强调泰坦尼克号处于“合规”的状态。考研阅读和写作中这类结构很常见，介词搭配要记准：compliant with、dependent on、indicative of。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "All new buildings must be compliant with the latest fire safety standards.",
+      "zh": "所有新建筑都必须符合最新的消防安全标准。"
+     },
+     {
+      "en": "Rising sea temperatures are indicative of long-term climate change.",
+      "zh": "海水温度上升表明了长期的气候变化。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "compliant / comply / compliance",
+    "explain": "comply with 意为“遵守，符合”；compliance 意为“遵守，合规”，in compliance with 意为“按照，依照”；compliant 意为“符合规定的”，形容人时意为“顺从的”。企业、金融类文章常见 regulatory compliance（合规）。"
+   },
+   {
+    "term": "the Titanic",
+    "explain": "船名前一般加定冠词，如 the Titanic、the Californian。"
+   }
+  ],
+  "translation_tip": "视频译文“然而泰坦尼克号符合法规。”的处理：①Yet 译为“然而”，放在句首，保留转折。②系表结构 was compliant with 转译为动词“符合”，比“是符合……的”简洁。③the law 结合下文所说的具体规则，译为“法规”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Britain's maritime regulator",
+   "predicate": "pegged",
+   "object_or_complement": "lifeboat numbers（宾语）；to gross tonnage 与 pegged 构成 peg A to B",
+   "explain": "主干是 Britain's maritime regulator pegged lifeboat numbers to gross tonnage，主谓宾结构，peg A to B 意为“把A与B挂钩”。谓语 pegged 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Under 1894 rules,",
+    "role": "依据状语（介词短语，under 表示“按照，在……规定之下”）",
+    "zh": "按照1894年的规则"
+   },
+   {
+    "text": "Britain's maritime regulator",
+    "role": "主语（Britain's 和 maritime 都作 regulator 的前置定语）",
+    "zh": "英国的海事监管机构"
+   },
+   {
+    "text": "pegged",
+    "role": "谓语",
+    "zh": "把……与……挂钩"
+   },
+   {
+    "text": "lifeboat numbers",
+    "role": "宾语",
+    "zh": "救生艇数量"
+   },
+   {
+    "text": "to gross tonnage",
+    "role": "介词短语，与 pegged 构成 peg A to B，表示挂钩的对象",
+    "zh": "与总吨位"
+   },
+   {
+    "text": "(volume, not weight)",
+    "role": "插入语（括号内补充说明 gross tonnage 的含义）",
+    "zh": "（体积，而非重量）"
+   },
+   {
+    "text": "on a scale",
+    "role": "方式状语（介词短语，说明按怎样的等级标准挂钩）",
+    "zh": "在一个等级表上/等级体系中"
+   },
+   {
+    "text": "that topped out at 16 boats",
+    "role": "限制性定语从句，修饰 a scale（that 在从句中作主语）",
+    "zh": "（其数量）最高达（只能）到16艘"
+   },
+   {
+    "text": "for 10,000 tons or more.",
+    "role": "定语从句中的状语（介词短语，说明16艘这一最高档适用的吨位）",
+    "zh": "针对10,000吨及以上（的船）"
+   }
+  ],
+  "structure": "①主干是 Britain's maritime regulator pegged lifeboat numbers to gross tonnage，peg A to B 意为“把A与B挂钩”（视频说明），即救生艇数量按总吨位确定，而不是按船上人数确定。主语中 Britain's 是名词所有格，maritime 是形容词，二者都修饰 regulator。当时英国负责商船安全监管的是贸易委员会（Board of Trade）。\n②句首 Under 1894 rules 是依据状语，under 表示“按照，在……规定之下”，1894 作 rules 的前置定语。\n③括号 (volume, not weight) 是插入语，解释 gross tonnage：总吨位衡量的是船的容积，不是重量。“A, not B”是对比说明的常用格式。\n④on a scale 是介词短语作状语，说明挂钩是按一个等级表进行的，船越大档次越高。that 引导限制性定语从句，修饰 a scale，在从句中作主语，不能省略。从句谓语 topped out at 意为“最高达到”（视频说明），16 boats 是 at 的宾语；for 10,000 tons or more 说明这个最高档适用于10,000吨及以上的船。\n⑤这条规则的要害在“封顶”：船只要达到10,000吨，再大也只要求16艘救生艇。下一句泰坦尼克号约有46,000吨，规定的数量却到此为止，问题由此显现。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导限制性定语从句（that 作主语）",
+    "explain": "关系代词 that 引导限制性定语从句时，既可指物也可指人，在从句中可作主语或宾语：作主语时不能省略，作宾语时可以省略。本句 a scale that topped out at 16 boats 中，that 指代 scale，在从句中作主语，谓语是 topped out。判断方法：去掉 that 后从句缺主语，说明 that 作主语。翻译时，较长的定语从句常不前置，而是拆成后续分句，视频译文就把它译成“（其数量）最高达（只能）到16艘”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city introduced a parking fee that rises with the size of the vehicle.",
+      "zh": "这座城市推出了一项随车辆大小递增的停车费。"
+     },
+     {
+      "en": "Researchers have developed a test that detects the disease in its earliest stages.",
+      "zh": "研究人员研发出一种能在最早期检出这种疾病的检测方法。"
+     }
+    ]
+   },
+   {
+    "title": "peg A to B 一类的“动词 + A + 介词 + B”结构",
+    "explain": "peg A to B（把A与B挂钩）属于“动词 + A + 介词 + B”结构，同类的还有 link A to B、tie A to B、attach A to B 等。经济类文章常见 peg the currency to the dollar（使货币与美元挂钩）、wages pegged to inflation（与通货膨胀挂钩的工资）。本句 A 是 lifeboat numbers，B 是 gross tonnage，后面还跟着括号插入语，阅读时要把 to 和前面的 pegged 对应起来。被动形式为 A is pegged to B。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several countries in the region have pegged their currencies to the US dollar.",
+      "zh": "该地区有几个国家让本国货币与美元挂钩。"
+     }
+    ]
+   },
+   {
+    "title": "括号插入语与“A, not B”对比说明",
+    "explain": "括号中的内容是插入语，对前面的词进行解释、补充或举例，去掉后句子结构仍然完整。“A, not B”是表示对比否定的紧凑格式，意为“是A，而不是B”。本句 (volume, not weight) 说明总吨位指体积而不是重量，用来纠正读者可能产生的误解。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum's collection is arranged by theme, not by date.",
+      "zh": "这座博物馆的藏品按主题而不是按年代陈列。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gross tonnage",
+    "explain": "总吨位，衡量船舶围蔽空间总容积的指标，不是船的重量（视频说明：体积，而非重量）。当时1总吨相当于100立方英尺的容积。gross 在这里意为“总的，毛的”，与 gross income（总收入）、gross weight（毛重）中的意思相同。"
+   },
+   {
+    "term": "top out at",
+    "explain": "最高达到，封顶于（视频说明），常用于价格、速度、数量，如 Prices topped out at $100。top out 原指建筑物封顶，封顶仪式叫 topping-out ceremony。"
+   },
+   {
+    "term": "scale",
+    "explain": "熟词僻义：scale 常见义是“规模”“秤”，这里指“等级表，等级体系”（视频译为“等级表/等级体系”），即按船的吨位划分档次、每档对应一定数量救生艇的标准。类似用法如 a pay scale（工资等级表）。"
+   },
+   {
+    "term": "Board of Trade",
+    "explain": "贸易委员会，当时英国主管商船事务、负责船舶安全规定的政府部门，即本句所说的 Britain's maritime regulator。"
+   }
+  ],
+  "translation_tip": "视频译文“按照1894年的规则，英国的海事监管机构把救生艇数量与总吨位（体积，而非重量）挂钩，在一个等级表上/等级体系中，（其数量）最高达（只能）到16艘，针对10,000吨及以上（的船）。”的处理：①Under 1894 rules 译为“按照1894年的规则”，放在句首，前置定语 1894 译为“1894年的”。②peg A to B 用“把A与B挂钩”结构译出，括号插入语紧跟“总吨位”，保留在原位。③on a scale 单独成分句“在一个等级表上/等级体系中”，用斜线并列两种说法。④定语从句 that topped out at 16 boats 不前置，拆为后续分句，增补“（其数量）”回指救生艇数量，并增补“（只能）”点明16艘是上限。⑤for 10,000 tons or more 放在最后，译为“针对10,000吨及以上”，增补“（的船）”补足所指。整句基本顺着英文语序切分，括号内是为意思完整而增补的字。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "she",
+   "predicate": "carried",
+   "object_or_complement": "20（后面省略了 boats）",
+   "explain": "主干是 she carried 20，主谓宾结构，20 后省略了 boats。谓语 carried 为一般过去时，主动语态；exceeding the requirement 是现在分词短语，补充说明结果。"
+  },
+  "components": [
+   {
+    "text": "At about 46,000 tons",
+    "role": "状语（介词短语，at + 数量，说明船的吨位）",
+    "zh": "约有46,000吨"
+   },
+   {
+    "text": "she",
+    "role": "主语（指泰坦尼克号）",
+    "zh": "她"
+   },
+   {
+    "text": "carried",
+    "role": "谓语",
+    "zh": "带了"
+   },
+   {
+    "text": "20,",
+    "role": "宾语（数词，后面省略了 boats）",
+    "zh": "20艘"
+   },
+   {
+    "text": "exceeding the requirement.",
+    "role": "结果状语（现在分词短语），补充说明带了20艘的结果",
+    "zh": "超出了要求"
+   }
+  ],
+  "structure": "①主干 she carried 20 是主谓宾结构，she 指泰坦尼克号。20 后面承前省略了 boats（视频说明），上句已说明是救生艇数量，这里只写数字，句子更紧凑。\n②句首 At about 46,000 tons 是介词短语作状语，at + 数量表示“在……的数值上”，说明船的大小：她约有46,000吨。about 修饰数字，表示“大约”。这里的吨承接上句，指总吨位，即容积。\n③exceeding the requirement 是现在分词短语作结果状语，补充说明带了20艘的结果（视频说明）。它的逻辑主语是主句主语 she：她带了20艘，因而超出了要求。the requirement 指上句规则对10,000吨及以上船只要求的16艘。\n④本句与上句连起来看：按规定，约46,000吨的泰坦尼克号也只需16艘救生艇，她带了20艘，比规定多出4艘，确实合法合规，这正是第5句的论据。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，可以表示主句动作带来的自然结果，相当于 and + 谓语，常见的有 causing、leaving、making、resulting in、exceeding 等，逻辑主语一般是主句主语。本句 she carried 20, exceeding the requirement 相当于 she carried 20 and thus exceeded the requirement。要与不定式作结果状语区分：only to do 多表示出乎意料的结果，如 He hurried to the station, only to find the train had left。考研翻译中，这类分词短语常译成并列的后续分句，视频译为“超出了要求”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm knocked down hundreds of trees, leaving thousands of homes without power.",
+      "zh": "暴风雨刮倒了数百棵树，导致数千户家庭断电。"
+     },
+     {
+      "en": "Sales rose by 12 percent last year, exceeding the company's own forecast.",
+      "zh": "去年销售额增长了12%，超出了公司自己的预期。"
+     }
+    ]
+   },
+   {
+    "title": "承前省略名词",
+    "explain": "为避免重复，英语常在数词或形容词后省略上文已出现的名词，读者根据上下文补出。本句 carried 20 承接上句的 16 boats，省略了 boats。阅读时遇到孤立的数字，要回到上文找它所指的名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The school ordered 50 laptops but received only 30.",
+      "zh": "学校订购了50台笔记本电脑，但只收到了30台。"
+     }
+    ]
+   },
+   {
+    "title": "at + 数量",
+    "explain": "at 后接数量、速度、价格、温度、年龄等，表示“以……，在……的数值上”，如 at 60 miles an hour（以每小时60英里的速度）、at a price of $20（以20美元的价格）、at the age of 18（18岁时）。本句 At about 46,000 tons 说明船的吨位。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "At 2,000 metres above sea level, the village is one of the highest in the region.",
+      "zh": "这个村庄海拔2,000米，是该地区海拔最高的村庄之一。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "exceed the requirement",
+    "explain": "超出要求（规定）。exceed 意为“超过（数量、限度）”，常见搭配有 exceed the speed limit（超速）、exceed expectations（超出预期）。名词 excess，形容词 excessive。"
+   },
+   {
+    "term": "requirement",
+    "explain": "名词，规定，要求，如 meet a requirement（达到要求）、legal requirements（法律规定）。本句 the requirement 指上句规则要求的救生艇数量。"
+   },
+   {
+    "term": "ton",
+    "explain": "作重量单位时，英制长吨约合1,016千克，美制短吨约合907千克，公吨写作 tonne 或 metric ton。本文的吨承接第6句，是总吨位的单位，衡量的是容积，与重量无关。"
+   }
+  ],
+  "translation_tip": "视频译文“她约有46,000吨，带了20艘，超出了要求。”的处理：①介词短语 At about 46,000 tons 转译成主谓结构“她约有46,000吨”，主语“她”提到最前面，后面两个分句共用这个主语。②carried 20 译为“带了20艘”，补出量词“艘”，体现被省略的 boats。③现在分词短语 exceeding the requirement 译为后续分句“超出了要求”，按“先吨位、后数量、再结果”的顺序排列，与英文语序一致。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Their capacity",
+   "predicate": "was",
+   "object_or_complement": "1,178",
+   "explain": "主干是 Their capacity was 1,178，主系表结构，数词 1,178 作表语。谓语 was 为一般过去时。后面的 roughly half the 2,200 aboard 是 1,178 的同位语，冒号后的两个形容词短语进一步说明这样的容量。"
+  },
+  "components": [
+   {
+    "text": "Their capacity",
+    "role": "主语（Their 指这20艘救生艇）",
+    "zh": "它们的容量"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "1,178,",
+    "role": "表语（数词，指可容纳的人数）",
+    "zh": "1,178人"
+   },
+   {
+    "text": "roughly",
+    "role": "副词，修饰 half，表示大约",
+    "zh": "大约是"
+   },
+   {
+    "text": "half the 2,200 aboard:",
+    "role": "同位语（名词短语），补充说明 1,178 相当于多少；aboard 作 the 2,200 的后置定语",
+    "zh": "船上2,200人的一半"
+   },
+   {
+    "text": "sufficient in law,",
+    "role": "补充说明成分（形容词短语），说明这样的容量在法律上如何",
+    "zh": "按法律足够"
+   },
+   {
+    "text": "inadequate at sea.",
+    "role": "补充说明成分（形容词短语），与前一短语对照，说明到了海上实际如何",
+    "zh": "到了海上却不足"
+   }
+  ],
+  "structure": "①主干 Their capacity was 1,178 是主系表结构。Their 指上句的20艘救生艇（视频说明），capacity 指救生艇能容纳的人数，所以视频译为“1,178人”。\n②roughly half the 2,200 aboard 是 1,178 的同位语，用逗号隔开，换一个角度说明这个数字：大约是船上2,200人的一半。half 直接放在 the 前，相当于 half of the 2,200；aboard 是副词，放在 the 2,200 之后作后置定语，指“在船上的2,200人”（视频说明）。\n③冒号后的 sufficient in law, inadequate at sea 是两个对称的形容词短语，说明这样的容量（视频说明）：sufficient 与 inadequate 意思相反，in law 与 at sea 一个讲规定、一个讲实际，构成对照。两个短语之间不用连词，对比更醒目，是作者对本段的概括。\n④本句是第二段的落脚点：合法与安全并不是一回事，救生艇数量符合规定，却只够船上约一半的人使用。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "副词作后置定语",
+    "explain": "表示地点、方位的副词（如 aboard、here、there、upstairs、downstairs、abroad、nearby、above、below）可以放在名词后作定语，相当于一个省略了的定语从句。本句 the 2,200 aboard 相当于 the 2,200 (people) who were aboard，aboard 修饰 the 2,200。这类副词作定语时只能后置：可以说 the passengers aboard，不说 the aboard passengers。考研阅读中，名词后的 aboard、abroad、above 常被误当作状语，要看它修饰的是名词还是动词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The pilot assured the passengers aboard that the delay would be short.",
+      "zh": "飞行员向机上的乘客保证，延误时间不会长。"
+     },
+     {
+      "en": "The figures above show a steady rise in unemployment.",
+      "zh": "上面的数字显示失业率在稳步上升。"
+     }
+    ]
+   },
+   {
+    "title": "half + the + 名词",
+    "explain": "half 可以直接放在冠词、物主代词或指示代词前，如 half the time、half my salary、half the 2,200，相当于 half of + 名词；但在人称代词前必须用 of，如 half of them，不说 half them。本句 half the 2,200 aboard 即“船上2,200人的一半”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nearly half the students in the class come from rural areas.",
+      "zh": "班上将近一半的学生来自农村。"
+     }
+    ]
+   },
+   {
+    "title": "冒号与对称结构",
+    "explain": "冒号用来引出解释、总结或列举，冒号后的内容说明前面的内容。本句冒号后是 sufficient in law, inadequate at sea 两个结构相同的形容词短语，省去连词，形成对仗，突出“法律上够、实际中不够”的反差。考研写作可以借鉴这种简洁的对比写法，但不宜频繁使用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new policy was popular but costly: welcome in the polls, painful in the budget.",
+      "zh": "这项新政策很受欢迎，但代价高昂：在民调中受欢迎，在预算上却让人头疼。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "capacity",
+    "explain": "名词，容量，可容纳的人数或数量，如 seating capacity（座位数）、at full capacity（满负荷）。capacity 还有“能力”“身份”等义，如 in her capacity as chair（以主席的身份）。"
+   },
+   {
+    "term": "aboard",
+    "explain": "副词或介词，在船（飞机、火车）上，如 go aboard（上船）、aboard the ship（在船上）。All aboard! 是“请上车（船）”的招呼语。"
+   },
+   {
+    "term": "in law / at sea",
+    "explain": "in law 意为“依照法律，在法律上”；at sea 意为“在海上，在航行中”，也有“茫然不知所措”的比喻义，如 I'm all at sea with these figures（这些数字把我弄糊涂了）。本句 at sea 用的是字面义，与 in law 对照。"
+   }
+  ],
+  "translation_tip": "视频译文“它们的容量是1,178人，大约是船上2,200人的一半：按法律足够，到了海上却不足。”的处理：①Their 译为“它们的”，回指上句的救生艇；1,178 后增补量词“人”，说明容量的单位。②同位语 roughly half the 2,200 aboard 译为“大约是……的一半”，增补“是”使句子通顺；后置定语 aboard 前置为“船上”。③冒号保留，两个对称的形容词短语译为“按法律足够，到了海上却不足”，增补“到了”和“却”，突出前后的反差。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "the steamer Californian",
+   "predicate": "kept",
+   "object_or_complement": "an equally lawful routine",
+   "explain": "主干是 the steamer Californian kept an equally lawful routine，主谓宾结构。谓语 kept 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Within radio range,",
+    "role": "地点状语（介词短语，within 表示“在……范围之内”）",
+    "zh": "在无线电通讯范围内"
+   },
+   {
+    "text": "the steamer Californian",
+    "role": "主语（steamer 与 Californian 构成紧密同位语）",
+    "zh": "加州人号轮船"
+   },
+   {
+    "text": "kept",
+    "role": "谓语",
+    "zh": "遵循的是"
+   },
+   {
+    "text": "an equally lawful routine.",
+    "role": "宾语（equally 修饰 lawful，lawful 作 routine 的前置定语）",
+    "zh": "一套同样合法的值班惯例"
+   }
+  ],
+  "structure": "①主干 the steamer Californian kept an equally lawful routine 是主谓宾结构。keep a routine 意为“遵循（某种）惯例、作息”，keep 在这里是“遵守，奉行”的意思。routine 指加州人号无线电值班的惯例，视频译为“值班惯例”。\n②Within radio range 是地点状语，指在泰坦尼克号的无线电通讯范围内（视频说明），说明加州人号离得不远，本可以收到泰坦尼克号的信号。\n③the steamer Californian 是紧密同位语结构，与第1句 the opulent liner Titanic 相同：steamer 是类别，Californian 是船名，视频译为“加州人号轮船”。\n④equally lawful 意为“和泰坦尼克号一样合法”（视频说明），比较对象没有写出，承第5句 the Titanic was compliant with the law 而来。本段由此引出第二个“合法却酿成悲剧”的例子：按照当时的规定，加州人号报务员下班睡觉完全合法，他没有违规；错的不是船员，而是没有要求全天候值守的法律（视频说明）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "equally + 形容词：省略比较对象",
+    "explain": "equally 意为“同样地，相同程度地”，修饰形容词时表示“和……一样……”，比较对象常常不写出，要从上文补出。本句 an equally lawful routine 承接第5句，意思是“和泰坦尼克号一样合法”。equally 后不再加 as，equally as lawful 在正式文体中被视为冗余。写作中可用 equally important（同样重要）承上启下，引出新的论点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The second proposal is equally ambitious but far cheaper.",
+      "zh": "第二个方案同样雄心勃勃，但便宜得多。"
+     },
+     {
+      "en": "Diet matters, but sleep is equally important for long-term health.",
+      "zh": "饮食很重要，但对长期健康而言，睡眠同样重要。"
+     }
+    ]
+   },
+   {
+    "title": "keep 的熟词僻义：遵守，奉行",
+    "explain": "keep 除“保持、保存”外，还可意为“遵守，奉行”，宾语多为规则、约定、习惯或时间安排，如 keep a promise（守约）、keep the law（守法）、keep a routine（遵循惯例或作息）、keep watch（值班，守望）。本句 kept an equally lawful routine 即“遵循的是一套同样合法的惯例”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Even after moving abroad, she kept the same routine of reading before breakfast.",
+      "zh": "即使搬到了国外，她仍保持着早餐前读书的习惯。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "steamer",
+    "explain": "名词，汽船，轮船，即 steamship；也指蒸锅。本句视频译为“轮船”。"
+   },
+   {
+    "term": "Californian",
+    "explain": "加州人号，当时位于泰坦尼克号附近的一艘英国轮船。Californian 本义是“加利福尼亚州的；加利福尼亚州人”，这里作船名，视频译为“加州人号”。"
+   },
+   {
+    "term": "radio range",
+    "explain": "无线电通讯范围，即能收发无线电信号的距离。range 表示“范围，射程”，如 within range（在范围内）、out of range（超出范围）。"
+   },
+   {
+    "term": "routine",
+    "explain": "名词，惯例，常规，日常程序；作形容词意为“常规的，例行的”，如 a routine check（例行检查）。本句指无线电值班的惯例。"
+   }
+  ],
+  "translation_tip": "视频译文“在无线电通讯范围内，加州人号轮船遵循的是一套同样合法的值班惯例。”的处理：①Within radio range 译为“在无线电通讯范围内”，增补“通讯”使意思清楚。②紧密同位语 the steamer Californian 按汉语习惯把船名放在前面，译为“加州人号轮船”。③kept 译为“遵循的是”，用“是”字句突出所遵循的惯例“同样合法”。④routine 结合下文报务员下班关机的内容，具体化为“值班惯例”，不定冠词 an 译为量词“一套”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Her sole wireless operator（前一分句）；the radio（后一分句）",
+   "predicate": "was（前一分句）；did（后一分句，倒装，代替 slept）",
+   "object_or_complement": "on the payroll of the Marconi company（表语）",
+   "explain": "分号连接两个分句。前一分句是主系表结构，介词短语 on the payroll of the Marconi company 作表语；后一分句的主句 so did the radio 是倒装，助动词 did 代替上文的 slept，前面有 when 引导的时间状语从句。两个分句都用一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Her sole wireless operator,",
+    "role": "主语（Her 指加州人号；sole 和 wireless 都作 operator 的前置定语）",
+    "zh": "她唯一的无线电操作员"
+   },
+   {
+    "text": "Cyril Evans,",
+    "role": "同位语（说明报务员是谁）",
+    "zh": "西里尔·埃文斯"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 on the payroll of 合译为“受雇于”）"
+   },
+   {
+    "text": "on the payroll of",
+    "role": "表语（介词短语，be on the payroll of 意为“受雇于”）",
+    "zh": "受雇于"
+   },
+   {
+    "text": "the Marconi company;",
+    "role": "介词宾语（of 的宾语）",
+    "zh": "马可尼公司"
+   },
+   {
+    "text": "when he slept,",
+    "role": "时间状语从句（when 引导）",
+    "zh": "他一睡下"
+   },
+   {
+    "text": "so did the radio.",
+    "role": "倒装句（so + 助动词 + 主语），表示“……也一样”",
+    "zh": "电台也一样睡了"
+   }
+  ],
+  "structure": "①前一分句的主干是 Her sole wireless operator was on the payroll of the Marconi company，主系表结构，介词短语作表语，be on the payroll of 意为“受雇于，领……的薪水”（视频说明）。Her 指加州人号（视频说明），sole 意为“唯一的”。Cyril Evans 是同位语，前后用逗号隔开，说明这位报务员是谁（视频说明）。\n②分号后的分句中，when he slept 是时间状语从句；主句 so did the radio 是倒装：so 放在句首，后接助动词 did 和主语 the radio，表示“电台也一样”（视频说明），did 代替上文的 slept。\n③“电台也睡了”是拟人说法：船上只有一名报务员，他一去睡觉，无线电就无人值守，等于停止工作。sole 一词是关键，为第11、12句埋下伏笔。\n④按照当时的规定，加州人号报务员下班睡觉是完全合法的，他没有违规（视频说明）；本句交代的正是上句所说的“同样合法的值班惯例”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "so + 助动词 + 主语：表示“……也一样”",
+    "explain": "后一句的肯定情况与前一句相同、只是主语不同时，用 so + 助动词（或 be 动词、情态动词）+ 主语 的倒装结构，意为“……也是如此”；否定时用 neither/nor + 助动词 + 主语。助动词的选择取决于前句的谓语：前句是实义动词的一般过去时，就用 did。本句 when he slept, so did the radio 中，did 代替 slept。要与 so + 主语 + 助动词 区分：后者不倒装，表示对前面所说内容的肯定，意为“确实如此”，如对方说 It's cold today，回答 So it is（确实如此）。考研完形和写作中，so/neither 引导的倒装是常考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Prices rose sharply last year, and so did wages.",
+      "zh": "去年物价大幅上涨，工资也是如此。"
+     },
+     {
+      "en": "The first version of the software was unreliable, and so was the second.",
+      "zh": "这款软件的第一版不可靠，第二版也一样。"
+     }
+    ]
+   },
+   {
+    "title": "用逗号隔开的同位语",
+    "explain": "同位语用逗号与中心词隔开时，是非限制性的补充说明，去掉后句子仍然完整。本句 Her sole wireless operator, Cyril Evans, 中，Cyril Evans 说明报务员是谁。同位语后的逗号不能漏，否则主语和谓语的界线就不清楚：主语是 Her sole wireless operator，谓语是 was。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Our team leader, a former engineer, explained the problem in plain language.",
+      "zh": "我们的组长以前是工程师，他用浅显的话把问题讲清楚了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be on the payroll of",
+    "explain": "受雇于，领……的薪水（视频说明）。payroll 指工资名单、在职人员名单，也指工资总额；off the payroll 指不在编、不再领薪。"
+   },
+   {
+    "term": "wireless operator",
+    "explain": "无线电报务员，即在船上负责收发无线电报的人。wireless 在英式英语中曾是“无线电”的常用说法，现在多指“无线的”，如 wireless network（无线网络）。视频译为“无线电操作员”。"
+   },
+   {
+    "term": "the Marconi company",
+    "explain": "马可尼公司，由无线电先驱、意大利人古列尔莫·马可尼（Guglielmo Marconi）创办的无线电公司。本句说明加州人号的报务员领的是这家公司的薪水。"
+   },
+   {
+    "term": "sole",
+    "explain": "形容词，唯一的，仅有的，如 the sole survivor（唯一的幸存者）；sole responsibility 指独自承担的全部责任。名词 sole 指“脚掌，鞋底”。"
+   }
+  ],
+  "translation_tip": "视频译文“她唯一的无线电操作员西里尔·埃文斯，受雇于马可尼公司；他一睡下，电台也一样睡了。”的处理：①同位语 Cyril Evans 紧跟在“她唯一的无线电操作员”之后，去掉中间的逗号，合成一个主语，人名按惯例音译为“西里尔·埃文斯”。②系表结构 was on the payroll of 译为动词“受雇于”。③时间状语从句 when he slept 译为“他一睡下”，用“一”字表示紧接着发生。④倒装句 so did the radio 补出被代替的动词，译为“电台也一样睡了”，保留拟人修辞。⑤分号保留，与原文结构一致。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "he",
+   "predicate": "switched off",
+   "object_or_complement": "his set",
+   "explain": "主干是 he switched off his set，主谓宾结构，switch off 是动副短语，作谓语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Around 11.30pm",
+    "role": "时间状语（介词短语，around 表示约数）",
+    "zh": "晚上11时30分左右"
+   },
+   {
+    "text": "he",
+    "role": "主语（指报务员埃文斯）",
+    "zh": "他"
+   },
+   {
+    "text": "switched off",
+    "role": "谓语（动副短语）",
+    "zh": "关掉了"
+   },
+   {
+    "text": "his set.",
+    "role": "宾语",
+    "zh": "自己的设备"
+   }
+  ],
+  "structure": "①主干 he switched off his set 是主谓宾结构。switch off 意为“关掉”（视频说明），由动词 switch 和副词 off 构成；名词宾语既可放在 off 后，也可放在 switch 和 off 之间。\n②Around 11.30pm 是时间状语，around 放在时间、数字前表示“大约，左右”。\n③set 在这里是熟词僻义，指无线电收发报机（视频说明），视频译为“设备”；his 指埃文斯，视频译为“自己的”。\n④按文中所给的时间，埃文斯关机在11时30分左右，第3句泰坦尼克号撞上冰山在11时40分左右，前后只差十分钟左右。作者把这个时间点写出来，让读者自己看到关机的后果。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动副短语的宾语位置",
+    "explain": "switch off、turn on、put away、give up 这类“动词 + 副词”构成的短语动词，宾语是名词时，可以放在副词后，也可以放在动词和副词之间，如 switch off the set 或 switch the set off；宾语是人称代词时，只能放在中间，如 switch it off，不能说 switch off it。“动词 + 介词”构成的短语（如 look at、deal with）不能拆开，宾语一律放在介词后。考研写作和改错中常考这一点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Please switch your phones off before the performance begins.",
+      "zh": "演出开始前请关掉手机。"
+     },
+     {
+      "en": "The report was full of errors, so the editor sent it back.",
+      "zh": "报告错误百出，所以编辑把它退了回去。"
+     }
+    ]
+   },
+   {
+    "title": "around、about 表示约数",
+    "explain": "around、about、roughly、approximately 都可以放在数字或时间前表示“大约”，about 和 around 最常用，approximately 最正式。本文第3句用 about 11.40pm，本句用 around 11.30pm，作者交替使用，避免重复。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The meeting ended around midnight, and about forty people stayed until the end.",
+      "zh": "会议在午夜前后结束，大约四十人一直待到了最后。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "set",
+    "explain": "熟词僻义：set 作名词可指收音机、电视机、无线电台等成套的设备，如 a television set（电视机）、a radio set（无线电收发机）。本句指无线电收发报机（视频说明）。"
+   },
+   {
+    "term": "switch off",
+    "explain": "关掉（电器、电源），反义 switch on；口语中也表示“走神，不再注意听”，如 Some students switch off during long lectures。"
+   }
+  ],
+  "translation_tip": "视频译文“晚上11时30分左右，他关掉了自己的设备。”的处理：①Around 11.30pm 中，pm 译为“晚上”放在钟点前，around 译为“左右”放在钟点后，符合汉语习惯。②set 按语境译为“设备”，his 译为“自己的”，强调关掉的是他负责的那台无线电设备。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Hindsight（第一分句）；no rule（第二分句）；the Titanic's frantic distress calls（第三分句）",
+   "predicate": "may call（第一分句）；obliged（第二分句）；went（第三分句，系动词）",
+   "object_or_complement": "that（宾语）、negligence（宾补）；him（宾语）、to stay vigilant（宾补）；unheard（表语）",
+   "explain": "本句由 yet 和 so 连接三个分句：第一分句是主谓宾宾补结构（call A B），第二分句是主谓宾宾补结构（oblige sb to do），第三分句是主系表结构（go unheard）。may call 是情态动词 + 动词原形，表示推测；obliged 和 went 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Hindsight",
+    "role": "主语（抽象名词作主语）",
+    "zh": "事后看来"
+   },
+   {
+    "text": "may call",
+    "role": "谓语（情态动词 may 表示推测）",
+    "zh": "或许可称为"
+   },
+   {
+    "text": "that",
+    "role": "宾语（指上句埃文斯关机这件事）",
+    "zh": "这"
+   },
+   {
+    "text": "negligence,",
+    "role": "宾语补足语（名词）",
+    "zh": "疏忽"
+   },
+   {
+    "text": "yet",
+    "role": "并列连词（表示转折）",
+    "zh": "然而"
+   },
+   {
+    "text": "no rule",
+    "role": "主语（no 表示全部否定）",
+    "zh": "没有哪条规则"
+   },
+   {
+    "text": "obliged",
+    "role": "谓语",
+    "zh": "强制"
+   },
+   {
+    "text": "him",
+    "role": "宾语",
+    "zh": "他"
+   },
+   {
+    "text": "to stay vigilant,",
+    "role": "宾语补足语（不定式短语；stay 为系动词，vigilant 作表语）",
+    "zh": "保持警觉"
+   },
+   {
+    "text": "so",
+    "role": "并列连词（表示结果）",
+    "zh": "所以"
+   },
+   {
+    "text": "the Titanic's frantic distress calls",
+    "role": "主语（the Titanic's 和 frantic 都作 distress calls 的前置定语）",
+    "zh": "泰坦尼克号发狂似的求救呼叫"
+   },
+   {
+    "text": "went",
+    "role": "系动词（go 表示处于某种状态）",
+    "zh": "（系动词，与 unheard 合译为“无人听见”）"
+   },
+   {
+    "text": "unheard",
+    "role": "表语（形容词）",
+    "zh": "无人听见"
+   },
+   {
+    "text": "there.",
+    "role": "地点状语（there 指加州人号上）",
+    "zh": "在那里"
+   }
+  ],
+  "structure": "①第一分句 Hindsight may call that negligence 是 call A B 结构（视频说明：把A称为B），that 指上句埃文斯关掉设备这件事，negligence 作宾补。主语 Hindsight 是抽象名词，意为“事后的认识”，视频译为“事后看来，这或许可称为疏忽”。may 表示推测，语气留有余地：作者并不认定这是疏忽。\n②yet 引出转折的第二分句 no rule obliged him to stay vigilant，oblige sb to do 意为“责成某人做……”（视频说明），to stay vigilant 是不定式作宾补，其中 stay 是系动词，vigilant 作表语。no 否定 rule，意为“没有任何一条规则”，这是全句的重点：他没有违反任何规定。\n③so 引出结果的第三分句 the Titanic's frantic distress calls went unheard there。go unheard 是“系动词 go + 形容词”，意为“没有被听到”（视频说明）；there 指加州人号上，并不是说所有船都没有听到。\n④三个分句的逻辑是“让步、转折、结果”：事后可以说他疏忽，但规则并没有要求他保持警觉，所以求救呼叫在加州人号上无人听见。作者借此把问题从个人转向规则。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "抽象名词作主语（无灵主语）",
+    "explain": "英语常用表示时间、认识、事件的抽象名词作主语，搭配本该由人发出的动作，称为无灵主语句，如本句 Hindsight may call that negligence、第16句 The First World War stalled the treaty。这类句子简洁客观，直译成汉语却显得生硬。翻译时常把无灵主语转为状语，或补出真正的施动者：本句 Hindsight 转为“事后看来”，原宾语 that 变为主语“这”。考研翻译中，遇到 Hindsight、Experience、The sight of 等作主语的句子，要考虑这种转换。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Experience has taught her to read contracts carefully.",
+      "zh": "经验告诉她，签合同前要仔细阅读。"
+     },
+     {
+      "en": "The sight of the empty classroom reminded him of his school days.",
+      "zh": "看到空荡荡的教室，他想起了自己的学生时代。"
+     }
+    ]
+   },
+   {
+    "title": "go + 形容词：表示处于某种状态",
+    "explain": "go 作系动词，后接以 un- 开头的过去分词式形容词，表示“一直没有被……”，如 go unheard（无人听见）、go unnoticed（未被注意）、go unpunished（未受惩罚）、go unanswered（无人回应）。这类结构带有否定和被动意义，主语是动作的承受者。本句 the Titanic's frantic distress calls went unheard there 即求救呼叫在那里没有被人听见。阅读时不能把 went 当成“去”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Her warnings about the bridge went unheeded until it collapsed.",
+      "zh": "她对这座桥发出的警告一直无人理会，直到桥塌了。"
+     },
+     {
+      "en": "Thousands of complaints go unanswered every year.",
+      "zh": "每年都有数以千计的投诉得不到回复。"
+     }
+    ]
+   },
+   {
+    "title": "oblige sb to do sth",
+    "explain": "oblige sb to do sth 意为“迫使、责成某人做某事”，多指法律、规则、义务的约束；常用被动 be obliged to do（不得不，有义务做）。本句 no rule obliged him to stay vigilant 说明他没有义务保持警觉。同类结构有 force/require/compel sb to do。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new law obliges employers to provide written contracts to all staff.",
+      "zh": "新法律要求雇主向全体员工提供书面合同。"
+     }
+    ]
+   },
+   {
+    "title": "yet 与 so 连接的并列句",
+    "explain": "yet 表示转折，so 表示结果，都可以作并列连词连接分句，前面一般加逗号。本句用 yet 和 so 把三个分句串成“让步、转折、结果”的逻辑链。注意 so 作并列连词时不能再与 because 连用，同理 although 不能与 but 连用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The tickets were expensive, yet the concert sold out within an hour, so the organizers added a second date.",
+      "zh": "门票很贵，然而音乐会不到一小时就售罄了，所以主办方又加了一场。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hindsight",
+    "explain": "名词，后见之明，事后的认识；常见 in hindsight、with hindsight（事后看来），with the benefit of hindsight（事后看来）。反义词 foresight（先见之明）。"
+   },
+   {
+    "term": "negligence",
+    "explain": "名词，疏忽，失职；在法律上指“过失”，如 medical negligence（医疗过失）。形容词 negligent；注意与 negligible（可以忽略的，微不足道的）区分。"
+   },
+   {
+    "term": "vigilant",
+    "explain": "形容词，警觉的，警惕的，常与 stay、remain、be 连用，如 remain vigilant against fraud（对诈骗保持警惕）；名词 vigilance。"
+   },
+   {
+    "term": "distress call",
+    "explain": "求救呼叫，求救信号，也说 distress signal；in distress 指（船只、飞机）遇险。frantic 意为“发狂似的，急切的”，形容求救之急。"
+   }
+  ],
+  "translation_tip": "视频译文“事后看来，这或许可称为疏忽，然而没有哪条规则强制他保持警觉，所以泰坦尼克号发狂似的求救呼叫，在那里无人听见。”的处理：①无灵主语 Hindsight 转为状语“事后看来”，原宾语 that 变为主语“这”，may call 译为“或许可称为”。②no rule 译为“没有哪条规则”，强调一条都没有；oblige 译为“强制”。③go unheard 译为“无人听见”，把被动意义转为以“无人”表达的主动说法；地点状语 there 提到谓语前，译为“在那里”，并用逗号与较长的主语隔开，读起来不拥挤。④yet、so 分别译为“然而”“所以”，三个分句的逻辑关系一目了然。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "inquiries",
+   "predicate": "heard",
+   "object_or_complement": "testimony",
+   "explain": "主干是 inquiries heard testimony，主谓宾结构。谓语 heard 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Between April and July 1912,",
+    "role": "时间状语（介词短语，between A and B 表示时间范围）",
+    "zh": "1912年4月至7月"
+   },
+   {
+    "text": "inquiries",
+    "role": "主语",
+    "zh": "调查"
+   },
+   {
+    "text": "in Washington and London",
+    "role": "后置定语（介词短语），修饰 inquiries",
+    "zh": "华盛顿和伦敦的"
+   },
+   {
+    "text": "heard",
+    "role": "谓语",
+    "zh": "听取了"
+   },
+   {
+    "text": "testimony",
+    "role": "宾语",
+    "zh": "证词"
+   },
+   {
+    "text": "from survivors and the Californian's crew.",
+    "role": "后置定语（介词短语），修饰 testimony，说明证词的来源",
+    "zh": "幸存者以及加州人号船员的"
+   }
+  ],
+  "structure": "①主干 inquiries heard testimony 是主谓宾结构，hear testimony from 意为“听取……的证词”（视频说明）。hear 在这里指调查机构“听取”陈述，不是一般的“听到”。\n②主语 inquiries 后的 in Washington and London 是介词短语作后置定语，说明调查在哪里进行：华盛顿的调查由美国参议院主持，伦敦的调查由英国方面主持。\n③宾语 testimony 后的 from survivors and the Californian's crew 也是后置定语，说明证词来自哪些人：幸存者和加州人号的船员。and 连接两个并列的介词宾语。\n④句首 Between April and July 1912 是时间状语，说明调查在事故发生后的几个月内进行。第四段从这里转入灾难之后的调查和改革。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词短语作后置定语",
+    "explain": "介词短语修饰名词时放在名词之后，汉语的定语则放在名词前，翻译时要前移。本句有两处：inquiries in Washington and London（华盛顿和伦敦的调查）、testimony from survivors and the Californian's crew（幸存者以及加州人号船员的证词）。主语带后置定语时要找准谓语：本句主语的中心词是 inquiries，谓语是 heard，London 不是主语。考研长难句常用这种结构把主语拉长。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Complaints from local residents about the noise have increased this year.",
+      "zh": "今年当地居民关于噪音的投诉增多了。"
+     },
+     {
+      "en": "The decline in the number of bees worries farmers across the region.",
+      "zh": "蜜蜂数量的减少让整个地区的农民感到担忧。"
+     }
+    ]
+   },
+   {
+    "title": "between A and B 表示时间范围",
+    "explain": "between A and B 表示两个时间点之间的一段时间，强调起止，如 between 1990 and 2000、between Monday and Friday；from A to B 也表示起止，两者常可互换。本句 Between April and July 1912 中，年份 1912 同时管 April 和 July。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Between 2010 and 2020, the town's population nearly doubled.",
+      "zh": "2010年至2020年间，这个镇的人口几乎翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "inquiry",
+    "explain": "名词，（官方的）调查，如 a public inquiry（公开调查）；也指询问。英式英语也拼作 enquiry。动词短语 inquire into 意为“调查”。本句视频译为“调查”。"
+   },
+   {
+    "term": "testimony",
+    "explain": "名词，（法庭或调查中的）证词，证言，多作不可数名词，如 give testimony（作证）；动词 testify。testimony to 还表示“证明，证据”，如 The building is a testimony to his skill（这座建筑证明了他的技艺）。"
+   },
+   {
+    "term": "hear",
+    "explain": "熟词僻义：hear 可以表示法庭或调查机构“审理（案件），听取（证词）”，如 hear a case（审理案件）、hear evidence（听取证据）。"
+   }
+  ],
+  "translation_tip": "视频译文“1912年4月至7月，华盛顿和伦敦的调查听取了幸存者以及加州人号船员的证词。”的处理：①Between April and July 1912 按汉语习惯译为“1912年4月至7月”，年份提到最前。②两处后置定语都前移：in Washington and London 译为“华盛顿和伦敦的”，from survivors and the Californian's crew 译为“幸存者以及加州人号船员的”。③证词来源中的 and 译为“以及”，与前面“华盛顿和伦敦”的“和”区分开，层次更清楚。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "American legislation",
+   "predicate": "made",
+   "object_or_complement": "round-the-clock radio watch（宾语）；compulsory（宾语补足语）",
+   "explain": "主干是 American legislation made round-the-clock radio watch compulsory，主谓宾宾补结构，make A B 意为“使A成为B，把A定为B”。谓语 made 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "That July,",
+    "role": "时间状语（名词短语直接作状语，That 指1912年）",
+    "zh": "同年7月"
+   },
+   {
+    "text": "American legislation",
+    "role": "主语",
+    "zh": "美国的一项立法"
+   },
+   {
+    "text": "made",
+    "role": "谓语",
+    "zh": "将……定为"
+   },
+   {
+    "text": "round-the-clock radio watch",
+    "role": "宾语（round-the-clock 是连字符复合形容词，作前置定语）",
+    "zh": "全天候无线电值守"
+   },
+   {
+    "text": "compulsory.",
+    "role": "宾语补足语（形容词）",
+    "zh": "强制性的（义务）"
+   }
+  ],
+  "structure": "①主干是 make A B 结构（视频说明：使A成为B，把A定为B），round-the-clock radio watch 是宾语，形容词 compulsory 是宾语补足语，说明立法使全天候无线电值守成为强制要求。\n②That July 是名词短语直接作时间状语，前面不加介词，That 指上句的1912年，即同年7月。\n③radio watch 中的 watch 是熟词僻义，指“值班，值守”，radio watch 即无线电值守；round-the-clock 是用连字符连成的复合形容词，意为“全天候的，昼夜不停的”，作前置定语。\n④本句直接回应第10至12句：加州人号报务员下班关机并不违规，正是因为当时没有这样的规定；事故发生几个月后，美国就用立法把全天候值守定为强制义务。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "make + 宾语 + 形容词（宾语补足语）",
+    "explain": "make 作“使”讲时可以带复合宾语，宾补可以是形容词、名词、不带 to 的不定式或过去分词：make sth compulsory（使某事成为强制的）、make him chairman（让他当主席）、make him laugh（逗他笑）、make oneself understood（让别人明白自己的意思）。本句 made round-the-clock radio watch compulsory 中，宾补是形容词 compulsory。宾语很长时，常用形式宾语 it 把真正的宾语后移，如 The law made it compulsory for ships to keep a radio watch。考研写作中 make it possible/difficult for sb to do sth 是高频句型。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules make it compulsory for cyclists to wear helmets.",
+      "zh": "新规定要求骑自行车的人必须戴头盔。"
+     },
+     {
+      "en": "Online banking has made paper cheques almost obsolete.",
+      "zh": "网上银行让纸质支票几乎被淘汰了。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语直接作时间状语",
+    "explain": "带有 that、this、last、next、every 等限定词的时间名词短语可以不加介词，直接作时间状语，如 that July（那年7月）、this morning、last week；不能说 in that July、in last week。本句 That July 承接上句的1912年，意为“同年7月”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company moved to a larger office that autumn.",
+      "zh": "那年秋天，公司搬进了更大的办公室。"
+     }
+    ]
+   },
+   {
+    "title": "连字符复合形容词",
+    "explain": "几个词用连字符连起来放在名词前，可以当作一个形容词使用，如 round-the-clock radio watch、a well-known writer、a ten-year-old boy。作前置定语时要加连字符，其中的名词一般用单数（a ten-year-old boy，不写 years）；放在动词后作状语或表语时通常不加连字符，如 The shop is open round the clock。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She manages a five-star hotel with a twenty-four-hour reception desk.",
+      "zh": "她经营着一家五星级酒店，酒店前台24小时服务。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "legislation",
+    "explain": "名词，立法；法规（总称），不可数，表示一项法律说 a piece of legislation，视频译为“一项立法”。动词 legislate，立法机关 legislature。"
+   },
+   {
+    "term": "radio watch",
+    "explain": "无线电值守。watch 作名词可指“值班，守望”，如 keep watch（值班，守望）、on watch（在值班）；在船上还指轮班值守的时段。"
+   },
+   {
+    "term": "compulsory",
+    "explain": "形容词，强制的，义务的，如 compulsory education（义务教育）；反义词 voluntary（自愿的）、optional（可选的）。"
+   }
+  ],
+  "translation_tip": "视频译文“同年7月，美国的一项立法将全天候无线电值守定为强制性的（义务）。”的处理：①That July 译为“同年7月”，用“同年”明确指1912年。②不可数名词 legislation 增补量词，译为“一项立法”。③make A B 用“将A定为B”的结构译出，形容词宾补 compulsory 译为“强制性的”，括号增补“（义务）”，使“定为”后面有落脚的名词。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "delegates",
+   "predicate": "signed",
+   "object_or_complement": "the first Safety of Life at Sea convention",
+   "explain": "主干是 delegates signed the first Safety of Life at Sea convention，主谓宾结构。谓语 signed 为一般过去时，主动语态；stipulating 引导的现在分词短语补充说明公约的内容。"
+  },
+  "components": [
+   {
+    "text": "In January 1914",
+    "role": "时间状语（介词短语，月份前用 in）",
+    "zh": "1914年1月"
+   },
+   {
+    "text": "delegates of 13 nations",
+    "role": "主语（of 13 nations 作后置定语）",
+    "zh": "13国的代表"
+   },
+   {
+    "text": "signed",
+    "role": "谓语",
+    "zh": "签署了"
+   },
+   {
+    "text": "the first Safety of Life at Sea convention,",
+    "role": "宾语（Safety of Life at Sea 是公约名称，作 convention 的前置定语）",
+    "zh": "第一部《海上人命安全公约》"
+   },
+   {
+    "text": "stipulating",
+    "role": "现在分词，引导补充说明成分，说明公约规定的内容",
+    "zh": "规定"
+   },
+   {
+    "text": "lifeboat seats for all,",
+    "role": "stipulating 的宾语一（for all 作后置定语）",
+    "zh": "救生艇座位要够所有人乘坐"
+   },
+   {
+    "text": "continuous radio watch,",
+    "role": "stipulating 的宾语二",
+    "zh": "电台要不间断值守"
+   },
+   {
+    "text": "and an ice patrol.",
+    "role": "stipulating 的宾语三（and 前有牛津逗号）",
+    "zh": "还要开展冰情巡逻"
+   }
+  ],
+  "structure": "①主干 delegates signed the first Safety of Life at Sea convention 是主谓宾结构。主语 delegates 后的 of 13 nations 是后置定语，说明是哪些国家的代表。宾语中 Safety of Life at Sea 是公约名称，整体作 convention 的前置定语，the first 说明这是第一部这样的公约。\n②stipulating 引导现在分词短语，用逗号与主句隔开，说明公约规定的内容（视频说明）。从意思上看，作出规定的是公约而不是签字的代表，所以它补充说明的是紧挨在前面的 convention，相当于非限制性定语从句 which stipulated...。\n③stipulating 带三个并列宾语：lifeboat seats for all（够所有人坐的救生艇座位，视频说明）、continuous radio watch、an ice patrol，用 A, B, and C 的格式连接，and 前是牛津逗号。三项分别针对前文暴露的问题：救生艇座位不够、电台无人值守、冰山的威胁。\n④In January 1914 是时间状语，月份前用介词 in。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "句末现在分词短语补充说明前面的名词",
+    "explain": "句末用逗号隔开的现在分词短语，除了作状语，还可以对紧挨在前面的名词作补充说明，作用相当于非限制性定语从句。本句 the first Safety of Life at Sea convention, stipulating... 中，作出规定的是公约，而不是签字的代表，stipulating 相当于 which stipulated。判断方法是看分词的动作由谁发出：代表不会“规定”，公约才会。新闻、法律类文章常用这种结构介绍法律、协议、报告的内容。翻译时一般拆成独立分句，以“规定”“要求”等动词开头。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Parliament passed a new law last year, requiring all new homes to have solar panels.",
+      "zh": "议会去年通过了一项新法律，要求所有新建住宅都安装太阳能电池板。"
+     },
+     {
+      "en": "The agency released a report on Monday, warning that sea levels could rise faster than expected.",
+      "zh": "该机构周一发布了一份报告，警告海平面上升的速度可能超出预期。"
+     }
+    ]
+   },
+   {
+    "title": "三项并列与牛津逗号",
+    "explain": "三项及以上并列时写成 A, B, and C，最后一项前用 and，and 前的逗号叫牛津逗号（serial comma）。本句 lifeboat seats for all, continuous radio watch, and an ice patrol 并列作 stipulating 的宾语。牛津逗号能避免歧义，美式英语和学术写作中常用。并列各项最好结构一致，本句三项都是名词短语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The course covers grammar, vocabulary, and reading skills.",
+      "zh": "这门课程涵盖语法、词汇和阅读技能。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Safety of Life at Sea convention",
+    "explain": "《海上人命安全公约》（International Convention for the Safety of Life at Sea），常缩写为 SOLAS。1914年签署的是第一部，此后多次重订和修订，现行的是1974年的公约，由国际海事组织（IMO）管理。"
+   },
+   {
+    "term": "delegate",
+    "explain": "名词，代表，指被派去参加会议、谈判的人，如 delegates to the conference（与会代表）；delegation 指代表团。动词 delegate 意为“委派；授权”。"
+   },
+   {
+    "term": "stipulate",
+    "explain": "动词，（合同、法律等）规定，明确要求，常接名词或 that 从句，如 The contract stipulates that payment must be made within 30 days。名词 stipulation。"
+   },
+   {
+    "term": "ice patrol",
+    "explain": "冰情巡逻，指派船只监测北大西洋航线附近的冰山，向过往船只通报冰情。这项巡逻后来发展为国际冰情巡逻（International Ice Patrol），至今由美国海岸警卫队负责。"
+   },
+   {
+    "term": "for all",
+    "explain": "供所有人用的，够所有人的。lifeboat seats for all 即“够所有人坐的救生艇座位”（视频说明）。"
+   }
+  ],
+  "translation_tip": "视频译文“1914年1月，13国的代表签署了第一部《海上人命安全公约》，规定救生艇座位要够所有人乘坐，电台要不间断值守，还要开展冰情巡逻。”的处理：①后置定语 of 13 nations 前移，译为“13国的代表”。②公约名称加书名号，译为《海上人命安全公约》，the first 增补量词译为“第一部”。③现在分词短语 stipulating... 拆成独立分句，以“规定”开头。④三个名词性宾语分别展开成三个小句：“救生艇座位要够所有人乘坐”“电台要不间断值守”“还要开展冰情巡逻”，增补“要”“乘坐”“开展”等词，把名词结构转为汉语习惯的动词结构；最后一项前的 and 译为“还要”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The First World War（前一分句）；the patrol（后一分句）",
+   "predicate": "stalled（前一分句）；went ahead（后一分句）",
+   "object_or_complement": "the treaty（stalled 的宾语）",
+   "explain": "分号连接两个分句。前一分句是主谓宾结构；后一分句是主谓结构，go ahead 是不及物的动词短语，regardless 作状语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The First World War",
+    "role": "主语（表示事件的名词作主语）",
+    "zh": "第一次世界大战"
+   },
+   {
+    "text": "stalled",
+    "role": "谓语",
+    "zh": "让……暂缓搁置了"
+   },
+   {
+    "text": "the treaty;",
+    "role": "宾语（the treaty 指上句的公约）",
+    "zh": "这项条约"
+   },
+   {
+    "text": "the patrol",
+    "role": "主语（the patrol 指上句的冰情巡逻）",
+    "zh": "冰情巡逻"
+   },
+   {
+    "text": "went ahead",
+    "role": "谓语（动词短语，go ahead 意为“照计划进行”）",
+    "zh": "依然进行"
+   },
+   {
+    "text": "regardless.",
+    "role": "状语（副词，意为“不管怎样，照样”）",
+    "zh": "不管怎样"
+   }
+  ],
+  "structure": "①分号前的分句 The First World War stalled the treaty 是主谓宾结构，主语是表示事件的名词（无灵主语），stall 意为“使停顿，使搁置”。the treaty 回指上句的 convention，作者换用同义词避免重复。公约于1914年1月签署，同年7月第一次世界大战爆发，公约的实施因此被搁置。\n②分号后的分句 the patrol went ahead regardless 是主谓结构，go ahead 意为“开始进行，照计划进行”（视频说明）；regardless 是副词，意为“不管怎样，照样”，暗含 regardless of the war。the patrol 回指上句的 an ice patrol。\n③两个分句之间是对比关系，原文只用分号连接，没有连词；视频译文在后一分句前增补了“然而”，把对比点明。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "regardless 与 regardless of",
+    "explain": "regardless of + 名词或从句是介词短语，意为“不管，不顾”，如 regardless of age、regardless of whether it rains；regardless 单独使用时是副词，常放在句末，意为“不管怎样，照样”，被忽略的因素要从上下文补出。本句 the patrol went ahead regardless 即“不管战争如何，巡逻照样进行”。写作中不要写成 irregardless，这个词被视为不规范用法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Admission is free, and everyone is welcome regardless of age.",
+      "zh": "入场免费，欢迎所有年龄段的人参加。"
+     },
+     {
+      "en": "The forecast was poor, but the organizers held the race regardless.",
+      "zh": "天气预报不太好，但组织者还是照常举行了比赛。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接对比分句",
+    "explain": "两个意思相关、结构平行的分句可以只用分号连接，不加连词，由读者体会二者的关系。本句前一分句说条约被搁置，后一分句说巡逻照常进行，构成对比。翻译时常根据逻辑补出“然而”“而”等关联词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The old factory closed in 2015; the warehouse next to it is still in use.",
+      "zh": "那家老工厂2015年关闭了，而它旁边的仓库至今仍在使用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stall",
+    "explain": "动词，（使）停顿，（使）陷入僵局，如 Talks have stalled（谈判陷入了僵局）；也指汽车发动机熄火。名词 stall 指货摊、售货亭。视频译为“暂缓搁置了”。"
+   },
+   {
+    "term": "convention 与 treaty",
+    "explain": "上句的 convention 和本句的 treaty 指同一份公约，作者换词以避免重复。convention 多指多国签订的专门性公约，treaty 泛指国家之间的条约。考研阅读中，这种同义替换是判断指代、做细节题的重要线索。"
+   },
+   {
+    "term": "go ahead",
+    "explain": "开始进行，照计划进行（视频说明），如 The wedding went ahead despite the rain；名词 go-ahead 意为“许可，批准”，如 give sb the go-ahead（批准某人行动）。"
+   },
+   {
+    "term": "The First World War",
+    "explain": "第一次世界大战，1914年至1918年，也称 World War I 或 the Great War。"
+   }
+  ],
+  "translation_tip": "视频译文“第一次世界大战让这项条约暂缓搁置了；然而冰情巡逻不管怎样依然进行。”的处理：①无灵主语句 The First World War stalled the treaty 用“让”字句译出，表明战争是造成搁置的原因。②the treaty 译为“这项条约”，用“这项”回指上句的公约。③后一分句前增补“然而”，点明原文分号隐含的对比；the patrol 增补“冰情”，译为“冰情巡逻”，所指更明确。④regardless 译为“不管怎样”放在动词前，went ahead 译为“依然进行”，“依然”与“不管怎样”呼应。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The doomed liner",
+   "predicate": "sank",
+   "object_or_complement": "",
+   "explain": "主干是 The doomed liner sank，主谓结构，sink 在此是不及物动词。谓语 sank 是 sink 的过去式，一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The doomed liner",
+    "role": "主语（doomed 作 liner 的前置定语）",
+    "zh": "这艘在劫难逃的邮轮"
+   },
+   {
+    "text": "sank",
+    "role": "谓语",
+    "zh": "沉没了"
+   },
+   {
+    "text": "within three hours.",
+    "role": "时间状语（介词短语，within 表示“在……之内”）",
+    "zh": "不到三小时就"
+   }
+  ],
+  "structure": "①本句是主谓结构加时间状语。sink 是不规则动词，过去式 sank，过去分词 sunk；本句作不及物动词，意为“沉没”。\n②主语 The doomed liner 中，doomed 是形容词，意为“注定毁灭的，在劫难逃的”，作前置定语。The 回指泰坦尼克号；liner 与第1句的 the opulent liner Titanic 首尾呼应。\n③within three hours 是时间状语，within 强调“不超过”这段时间。按第3句，11时40分相撞、2时20分沉没，前后约两小时四十分钟，确实不到三小时。\n④最后一段由两句组成。本句先用一句话重提沉船，回到开篇的事件，为下一句点题作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "within + 时间段",
+    "explain": "within + 时间段意为“在……之内，不超过……”，强调在期限内完成，如 within a week、within 24 hours；in + 时间段用于将来时，常表示“……之后”，如 I'll be back in an hour（一小时后回来）。本句 sank within three hours 强调沉没之快，视频译为“不到三小时就沉没了”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the tickets were sold within ten minutes of going on sale.",
+      "zh": "大部分门票开售不到十分钟就卖光了。"
+     }
+    ]
+   },
+   {
+    "title": "doomed：过去分词式形容词",
+    "explain": "doomed 来自动词 doom（使注定失败、毁灭）的过去分词，已经形容词化，可作定语或表语：a doomed attempt（注定失败的尝试）、be doomed to failure（注定失败）。本句 The doomed liner 用“在劫难逃的”概括船的结局。作者在叙述中用 doomed，带有回顾的语气：站在今天，已经知道这艘船的结局。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "From the start, the project was doomed by a lack of funding.",
+      "zh": "由于缺乏资金，这个项目从一开始就注定要失败。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sink, sank, sunk",
+    "explain": "不规则动词。sink 作不及物动词意为“下沉，沉没”，作及物动词意为“使沉没”，如 The storm sank two fishing boats。形容词 sunken（沉没的），如 a sunken ship（沉船）。第2句的 unsinkable 也由 sink 派生。"
+   },
+   {
+    "term": "doomed",
+    "explain": "形容词，注定失败（或毁灭）的，在劫难逃的；名词 doom 意为“厄运，劫数”。视频译为“在劫难逃的”。"
+   }
+  ],
+  "translation_tip": "视频译文“这艘在劫难逃的邮轮不到三小时就沉没了。”的处理：①The 译为“这艘”，用指示词回指泰坦尼克号，并补出量词“艘”。②doomed 译为成语“在劫难逃的”，带有命运注定的色彩。③时间状语 within three hours 提到谓语前，译为“不到三小时就”，“就”强调沉没之快。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "The outdated rules（前一分句）；it（后一分句，形式主语）",
+   "predicate": "had stayed（前一分句，系动词）；took（后一分句）",
+   "object_or_complement": "afloat（表语）；her dead（took 的宾语），不定式 to discredit them 为真正主语",
+   "explain": "分号连接两个分句。前一分句是主系表结构，stay 作系动词，afloat 作表语，谓语 had stayed 是过去完成时；后一分句是 it takes A to do B 句型，it 是形式主语，不定式 to discredit them 是真正主语，谓语 took 是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The outdated rules",
+    "role": "主语",
+    "zh": "那套过时的规则"
+   },
+   {
+    "text": "she sailed under",
+    "role": "限制性定语从句（省略了关系代词 that），修饰 rules",
+    "zh": "她航行时所遵循的"
+   },
+   {
+    "text": "had stayed afloat",
+    "role": "系表结构（过去完成时；stay 为系动词，afloat 作表语）",
+    "zh": "一直没有沉没"
+   },
+   {
+    "text": "since 1894;",
+    "role": "时间状语（介词短语，since 表示从过去某时起）",
+    "zh": "自1894年起"
+   },
+   {
+    "text": "it took",
+    "role": "形式主语 it + 谓语 took（it takes A to do B 句型）",
+    "zh": "直到……才"
+   },
+   {
+    "text": "her dead",
+    "role": "宾语（dead 名词化，指她船上的死者）",
+    "zh": "她的乘客葬身大海"
+   },
+   {
+    "text": "to discredit them.",
+    "role": "真正主语（不定式短语；them 指 the outdated rules）",
+    "zh": "它们……信誉扫地"
+   }
+  ],
+  "structure": "①前一分句的主干是 The outdated rules had stayed afloat，主系表结构，stay 作系动词，afloat 作表语。主语 rules 后的 she sailed under 是省略了 that 的定语从句（视频说明），完整形式是 the outdated rules (that) she sailed under，被省略的关系代词作介词 under 的宾语，介词留在从句末尾。sail under rules 意为“在……规则之下航行”，she 仍指泰坦尼克号。\n②had stayed afloat since 1894 用过去完成时，表示从1894年起一直持续到沉船时的状态。since 1894 呼应第6句的 Under 1894 rules。stay afloat 本义是“浮在水上，没有沉没”，也指“维持下去”（视频说明）。\n③分号后的分句是 it takes A to do B 句型（视频说明：直到有了A才做成B），it 是形式主语，真正主语是不定式短语 to discredit them，them 指 the outdated rules；her dead 作 took 的宾语，指她船上的死者（视频说明）。\n④本句用了双关：船沉了，规则却一直“没有沉没”，afloat 一词同时指漂浮和继续有效，反讽意味很强。全句点出主题：过时的规则一直沿用，直到她的乘客葬身大海，这些规则才信誉扫地。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "省略关系代词的定语从句与句末介词",
+    "explain": "关系代词在限制性定语从句中作宾语（包括介词宾语）时可以省略。介词宾语被省略后，介词留在从句末尾，如 the rules she sailed under = the rules under which she sailed。识别方法：名词后直接跟“主语 + 谓语”，而从句末尾的介词后面没有宾语，这个宾语就是前面的先行词。介词提前时不能省略关系代词，也不能用 that，只能说 under which，不说 under that。考研长难句中这种结构很常见，要把悬在句末的介词和先行词联系起来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The house we grew up in was demolished last year.",
+      "zh": "我们从小长大的那栋房子去年被拆了。"
+     },
+     {
+      "en": "This is the only topic she has never spoken about in public.",
+      "zh": "这是她唯一从未公开谈论过的话题。"
+     }
+    ]
+   },
+   {
+    "title": "it takes A to do B",
+    "explain": "it takes + 名词 + to do sth 是常用句型，it 是形式主语，真正主语是后面的不定式。takes 后的名词可以是时间、金钱、勇气，也可以是某个事件，意为“做某事需要……”；用于过去时，常带“直到发生了A，才做成B”的意味（视频说明：直到有了A才做成B）。本句 it took her dead to discredit them 即“直到她的乘客葬身大海，它们才信誉扫地”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It took a serious accident to make the city install traffic lights at the crossing.",
+      "zh": "直到发生了一起严重事故，市政府才在这个路口安装了红绿灯。"
+     },
+     {
+      "en": "It takes courage to admit that you were wrong.",
+      "zh": "承认自己错了需要勇气。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示持续到过去某时的状态",
+    "explain": "过去完成时与 since、for 连用，可以表示从更早的时候开始、一直持续到过去某一时刻的状态。本句 had stayed afloat since 1894 表示这套规则从1894年一直沿用到1912年沉船时。若一直持续到现在，则用现在完成时，如 have stayed in force since 1894。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By 2010, the shop had stood on the same corner for over a century.",
+      "zh": "到2010年，这家店已在同一个街角开了一百多年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stay afloat",
+    "explain": "浮在水上，没有沉没；比喻义是（企业、个人）在经济上维持下去，不破产，如 The company struggled to stay afloat during the recession。本句是双关：规则像船一样“漂浮”，一直没有被废除。"
+   },
+   {
+    "term": "her dead",
+    "explain": "dead 前加定冠词或物主代词时，名词化为“死者”，如 the dead（死者）、the dead and wounded（死伤者）。her dead 指“她船上的死者”（视频说明），视频译为“她的乘客葬身大海”。同类用法有 the poor、the rich、the injured。"
+   },
+   {
+    "term": "discredit",
+    "explain": "动词，使丧失信誉，使不可信，如 discredit a theory、discredit a witness；名词 discredit 意为“丧失信誉，丢脸”。由 dis- 加 credit（信誉）构成。"
+   },
+   {
+    "term": "outdated",
+    "explain": "形容词，过时的，陈旧的，如 outdated technology；近义表达有 out of date、obsolete。"
+   }
+  ],
+  "translation_tip": "视频译文“她航行时所遵循的那套过时的规则，却自1894年起一直没有沉没；直到她的乘客葬身大海，它们才信誉扫地。”的处理：①省略关系代词的定语从句 she sailed under 前置，译为“她航行时所遵循的”，增补“时”“所遵循的”，把 sail under 的意思说清楚；rules 增补量词“那套”。②stay afloat 按字面译为“一直没有沉没”，保留双关，并增补“却”，突出船沉了而规则没沉的反差。③it took A to do B 用“直到……才……”译出；her dead 不直译为“她的死者”，而是展开为小句“她的乘客葬身大海”。④to discredit them 中 them 译为“它们”，discredit 译为“信誉扫地”。"
+ }
+]

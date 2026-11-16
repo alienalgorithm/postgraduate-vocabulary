@@ -1,0 +1,51 @@
+[
+ {
+  "key": "1 opulent",
+  "field": "etymology",
+  "before": "经法语进入英语，原义是“富有的”",
+  "after": "进入英语时原义是“富有的”",
+  "reason": "Etymonline、Merriam-Webster 只给出直接来自拉丁语 opulentus，“经法语进入英语”无法证实，删去。"
+ },
+ {
+  "key": "9 iceberg",
+  "field": "etymology",
+  "before": "部分转译自荷兰语 ijsberg，字面义“冰山”：ijs 意为“冰”，berg 意为“山”。英语保留了 berg，把 ijs 换成同义的 ice，",
+  "after": "一般认为部分转译自荷兰语 ijsberg（Merriam-Webster 则认为来自丹麦语或挪威语 isberg），字面义“冰山”：ijs/is 意为“冰”，berg 意为“山”。英语保留了 berg，把前半换成同义的 ice，",
+  "reason": "各权威词典对来源语言说法不一（OED 作荷兰语，Merriam-Webster 作丹麦语或挪威语），原文写成定论，改为并列说明。"
+ },
+ {
+  "key": "16 maritime",
+  "field": "usage_detail",
+  "before": "the Maritime Provinces（加拿大大西洋沿岸诸省）",
+  "after": "the Maritime Provinces（加拿大东部沿海的新不伦瑞克、新斯科舍和爱德华王子岛三省）",
+  "reason": "“大西洋沿岸诸省”是 Atlantic Provinces，还包括纽芬兰与拉布拉多；Maritime Provinces 只指三省，改正事实。"
+ },
+ {
+  "key": "19 top out at",
+  "field": "etymology",
+  "before": "动词短语 top out 原指建筑物封顶，即建造到最高点，至今仍有 topping-out ceremony（封顶仪式）的说法；后来引申为价格、速度、数量等“达到最高点，到顶”",
+  "after": "动词短语 top out 可指建筑物主体结构封顶，即建造到最高点，如 topping-out ceremony（封顶仪式）；也指价格、速度、数量等“达到最高点，到顶”",
+  "reason": "两个义项的先后关系无法从权威词典证实，改为并列说明，不写“原指……后来引申”。"
+ },
+ {
+  "key": "20 gross tonnage",
+  "field": "etymology",
+  "before": "tonnage 由 ton 加表示数量、费用的后缀 -age 构成；ton 与 tun（大酒桶）同源，tonnage 最初指按酒桶征收的税，后来指船舶的装载能力，即吨位。",
+  "after": "tonnage 来自古法语 tonnage（按酒桶征收的税），由 tonne（大酒桶）加表示费用、数量的后缀 -age 构成；英语 ton 与 tun（大酒桶）同源。tonnage 最初指对进口葡萄酒按桶征收的税，17世纪起指船舶的装载能力，即吨位。",
+  "reason": "据 Etymonline，tonnage 是从古法语 tonnage 借入的，并非英语里 ton + -age 自行构成，改正来源。"
+ },
+ {
+  "key": "20 gross tonnage",
+  "field": "distinction",
+  "before": "displacement（排水量）是船舶排开水的重量，即船本身的重量，常用于军舰。",
+  "after": "displacement（排水量）是船舶排开水的重量，等于船舶连同所载货物、燃料、人员等在内的总重量，常用于军舰。",
+  "reason": "排水量等于船舶当时的总重量（含载重），不等于“船本身的重量”，改正。"
+ },
+ {
+  "key": "29 lawful",
+  "field": "example",
+  "before": "Police may only enter the building with a warrant or another lawful reason. / 警方只有持搜查令或其他合法理由才能进入这栋建筑。",
+  "after": "Police officers may enter a private home only with a warrant or other lawful authority. / 警察只有持搜查令或其他合法授权，才能进入私人住宅。",
+  "reason": "a warrant or another lawful reason 搭配生硬，法律英语惯用 lawful authority；改为地道例句。"
+ }
+]
