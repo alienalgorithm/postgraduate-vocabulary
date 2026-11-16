@@ -1,0 +1,30 @@
+[
+ {
+  "key": "id=17",
+  "field": "usage_detail",
+  "before": "jaw bone（颌骨）",
+  "after": "jawbone（颌骨）",
+  "reason": "Oxford/Cambridge 词形为一个词 jawbone，与 related 一致"
+ },
+ {
+  "key": "id=21",
+  "field": "senses.0.zh",
+  "before": "僵硬地，不弯曲地",
+  "after": "僵硬地，不弯曲地；（固定得）纹丝不动地，牢牢地（本文义）",
+  "reason": "义项须包含本文意思“牢牢地”"
+ },
+ {
+  "key": "id=25",
+  "field": "distinction",
+  "before": "fungus 作定语多见于一些俗称。",
+  "after": "fungus 作定语较少，多见于个别固定名称，如 fungus gnat（蕈蚊）。",
+  "reason": "原说法空泛，补具体例子"
+ },
+ {
+  "key": "id=29",
+  "field": "related",
+  "before": "{\"en\": \"trodden\", \"pos\": \"adj.\", \"zh\": \"被踩过的\"}",
+  "after": "{\"en\": \"well-trodden\", \"pos\": \"adj.\", \"zh\": \"常有人走的；（话题）老生常谈的\"}",
+  "reason": "trodden 是过去分词，词典不单列形容词；改为词典收录的 well-trodden"
+ }
+]

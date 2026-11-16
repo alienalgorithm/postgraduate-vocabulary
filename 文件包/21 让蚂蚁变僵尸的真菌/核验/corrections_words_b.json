@@ -1,0 +1,30 @@
+[
+ {
+  "key": "id=33",
+  "field": "senses.0.zh",
+  "before": "咬；咬伤，咬痕",
+  "after": "咬；咬伤，咬痕；咬合处（本文译为“咬合点”）",
+  "reason": "义项须包含本文意思“咬合点”"
+ },
+ {
+  "key": "id=37",
+  "field": "usage_detail",
+  "before": "不及物动词，不能用于被动语态，不能说 was disappeared。",
+  "after": "表示“消失”时是不及物动词，不能用于被动语态，不能说 was disappeared（只有政治语境中的 be disappeared 指“被强迫失踪”，是特殊的及物用法）。",
+  "reason": "disappear 在政治语境中有及物、被动用法（Merriam-Webster、Cambridge 均收），补上限定"
+ },
+ {
+  "key": "id=40",
+  "field": "etymology",
+  "before": "由名词 image（图像）加 -ing 构成",
+  "after": "由动词 image（生成……的图像，成像）加 -ing 构成",
+  "reason": "-ing 加在动词上，imaging 来自动词 image"
+ },
+ {
+  "key": "id=42",
+  "field": "etymology",
+  "before": "来自古法语，源自 latte（板条）",
+  "after": "来自古法语 lattis（格子），源自 latte（板条）",
+  "reason": "补出古法语词形，使词源具体（Etymonline）"
+ }
+]

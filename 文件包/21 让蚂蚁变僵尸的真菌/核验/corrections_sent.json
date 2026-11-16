@@ -1,0 +1,65 @@
+[
+ {
+  "key": "n=1",
+  "field": "components.3.role",
+  "before": "its 与 colony's 两层所有格修饰 column",
+  "after": "its 修饰 colony，名词所有格 colony's 再修饰 column",
+  "reason": "its 修饰的是 colony，不是直接修饰 column，两层所属关系要分清"
+ },
+ {
+  "key": "n=1",
+  "field": "knowledge.0.explain",
+  "before": "木匠蚁，弓背蚁属（Camponotus）的大型蚂蚁",
+  "after": "木匠蚁，泛指在木头中筑巢的多种大型蚂蚁，主要是弓背蚁属（Camponotus）",
+  "reason": "Merriam-Webster 释义为 various large ants (especially genus Camponotus)，并非全部属于弓背蚁属"
+ },
+ {
+  "key": "n=2",
+  "field": "grammar.0.explain",
+  "before": "应改为 Walking into the room, I found the lights went out，或改用从句。",
+  "after": "应改用从句 As I walked into the room, the lights went out，或让主句主语成为分词动作的发出者，如 Walking into the room, I switched on the lights。",
+  "reason": "原改正句 I found the lights went out 时态别扭且语义变了，换成地道的改法"
+ },
+ {
+  "key": "n=2",
+  "field": "grammar.1.explain",
+  "before": "从句用虚拟语气，be 动词一律用 were；",
+  "after": "从句用虚拟语气，be 动词正式文体用 were（口语中第一、三人称单数也常用 was）；",
+  "reason": "说“一律用 were”过于绝对，口语中 as if he was 也很常见"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar.0.examples.1",
+  "before": "{\"en\": \"She arrived twenty minutes after the meeting had started.\", \"zh\": \"会议开始二十分钟后她才到。\"}",
+  "after": "{\"en\": \"She arrived twenty minutes after the start of the meeting.\", \"zh\": \"会议开始二十分钟后她才到。\"}",
+  "reason": "原句 after 引导的是从句，after 是连词，不能示范“度量短语修饰介词短语”，改为介词短语"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar.1.explain",
+  "before": "不能用于被动语态。本句",
+  "after": "不能用于被动语态（disappear 只在政治语境中有及物用法，be disappeared 指“被强迫失踪”，属特例）。本句",
+  "reason": "disappear 在政治语境中有及物、被动用法（Merriam-Webster、Cambridge 均收），补上限定，避免规则绝对化"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar.1.examples.0.zh",
+  "before": "可是不到几周就失败了。",
+  "after": "可是几周之内就失败了。",
+  "reason": "within weeks 意为“几周之内”，“不到几周”表达不通"
+ },
+ {
+  "key": "n=15",
+  "field": "knowledge.0.explain",
+  "before": "游戏名、书名在英文中用斜体或首字母大写，中文用书名号。",
+  "after": "游戏名、书名在英文中通常用斜体，且实词首字母大写，中文用书名号。",
+  "reason": "斜体和实词首字母大写不是二选一，标题总要大写"
+ },
+ {
+  "key": "n=18",
+  "field": "grammar.1.explain",
+  "before": "前面必须有定冠词 the。",
+  "after": "通常与定冠词 the 连用（也有 this same、that same 等说法）。",
+  "reason": "说“必须有 the”过于绝对"
+ }
+]
