@@ -1,0 +1,37 @@
+[
+ {
+  "key": "14",
+  "field": "usage_detail",
+  "before": "反义词 independence 接 from 或 of。",
+  "after": "反义词 independence 一般接 from，形容词 independent 接 of。",
+  "reason": "independence 的标准搭配是 from，“接 of”属少见旧用法；补出 independent of"
+ },
+ {
+  "key": "19",
+  "field": "etymology",
+  "before": "recollect 来自中世纪拉丁语 recollectus",
+  "after": "recollect 来自拉丁语 recollectus",
+  "reason": "Etymonline：recollect 源自拉丁语 recollectus（recolligere 的过去分词），recolligere 是古典拉丁语，不是中世纪拉丁语"
+ },
+ {
+  "key": "27",
+  "field": "context_usage",
+  "before": "lessened 是过去分词作前置定语，修饰 demand：需求是被减少的一方，所以用过去分词，表示“已经减少了的需求”。",
+  "after": "lessened 是过去分词作前置定语，修饰 demand；lessen 可作不及物动词（demand lessened），这里的过去分词表示变化已经完成，即“已经减少了的需求”。",
+  "reason": "需求是自己减少的（lessen 不及物），并非“被减少”；过去分词在此表完成，原解释有误"
+ },
+ {
+  "key": "28",
+  "field": "related",
+  "before": "[{\"en\": \"epoch\", \"pos\": \"n.\", \"zh\": \"（近义）时代，纪元\"}, {\"en\": \"age\", \"pos\": \"n.\", \"zh\": \"（近义）时代\"}]",
+  "after": "[{\"en\": \"erathem\", \"pos\": \"n.\", \"zh\": \"（地质学）界，某一地质代形成的地层\"}]",
+  "reason": "related 只能列同根词、派生词；epoch、age 是近义词，不是同根词，近义比较已在 distinction 中"
+ },
+ {
+  "key": "29",
+  "field": "related",
+  "before": "[{\"en\": \"man\", \"pos\": \"n.\", \"zh\": \"人\"}, {\"en\": \"power\", \"pos\": \"n.\", \"zh\": \"力量\"}, {\"en\": \"workforce\", \"pos\": \"n.\", \"zh\": \"（近义）劳动力，全体员工\"}]",
+  "after": "[{\"en\": \"man\", \"pos\": \"n.\", \"zh\": \"人\"}, {\"en\": \"power\", \"pos\": \"n.\", \"zh\": \"力量\"}]",
+  "reason": "workforce 是近义词，不是同根词或派生词，且已在 distinction 中辨析"
+ }
+]

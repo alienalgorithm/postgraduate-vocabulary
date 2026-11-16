@@ -1,0 +1,23 @@
+[
+ {
+  "key": "36",
+  "field": "senses[2].zh",
+  "before": "（法国等欧洲国家的）小旅馆，膳宿公寓",
+  "after": "（法国等欧洲国家的）小旅馆，膳宿公寓（此义读音不同，按法语发音）",
+  "reason": "Oxford 把“欧洲小旅馆”义列为读音不同的另一词条，不注明会让学生按 /ˈpenʃn/ 误读"
+ },
+ {
+  "key": "56",
+  "field": "senses[2].zh",
+  "before": "（英式非正式）获得奖牌",
+  "after": "（体育报道）获得奖牌",
+  "reason": "Oxford、Cambridge、Merriam-Webster 均收动词 medal，英美都用（英式 medalled，美式 medaled），并非英式非正式专用"
+ },
+ {
+  "key": "56",
+  "field": "usage_detail",
+  "before": "英式英语中 medal 可作动词，表示“获得奖牌”，如 She medalled in three events。注意与发音相近的 meddle（干涉）、metal（金属）区分。",
+  "after": "medal 也可作不及物动词，表示“获得奖牌”，多见于体育报道，英式拼写 medalled，美式拼写 medaled，如 She medalled in three events。注意与读音相同的 meddle（干涉）和读音相近的 metal（金属）区分。",
+  "reason": "动词 medal 英美通用，只是拼写不同；meddle 与 medal 同音 /ˈmedl/，不是“发音相近”"
+ }
+]

@@ -1,0 +1,266 @@
+[
+{
+ "n": 8,
+ "trunk": {
+  "subject": "A patent",
+  "predicate": "followed",
+  "object_or_complement": "",
+  "explain": "主谓结构，follow 在此是不及物动词，意为“随后到来，接着发生”，后接时间状语 in 1978。谓语为一般过去时，主动语态。"
+ },
+ "components": [
+  {"text": "A patent", "role": "主语", "zh": "专利"},
+  {"text": "followed", "role": "谓语（不及物动词 follow，表示随后到来；译文换用“这台相机”作主语，译为“获得”）", "zh": "获得"},
+  {"text": "in 1978.", "role": "时间状语（介词短语）", "zh": "1978年"}
+ ],
+ "structure": "①本句是最简单的主谓结构：主语 A patent，谓语 followed，in 1978 作时间状语。\n②follow 常作及物动词，意为“跟随，遵循”；本句不带宾语，是不及物用法，意为“（在某事之后）随之而来”。跟随的对象承上文省略：萨松造出相机之后，专利随之而来（视频说明“A patent followed：随后获得了专利”）。\n③主语 A patent 用不定冠词，表示第一次提到的一项专利。\n④本句与下一句 Production never did. 是一组短句对照：句式相同，长度相近，一个肯定、一个否定，突出“有专利、没投产”的反差。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "follow 的不及物用法",
+   "explain": "follow 作不及物动词时，意为“接着发生，随之而来”，主语是随后出现的事物，常见说法有 sth followed（某事随之而来）、in the years that followed（在随后几年里）、as follows（如下）。本句 A patent followed in 1978 即“1978年，专利随之而来”。考研阅读中，in the decades that followed、the following year 等表达交代时间先后，要据此理顺事件顺序。",
+   "difficult": true,
+   "examples": [
+    {"en": "The minister resigned in March, and a general election followed in June.", "zh": "部长于三月辞职，随后在六月举行了大选。"},
+    {"en": "In the years that followed, the town slowly recovered from the flood.", "zh": "在随后的几年里，小镇慢慢从洪灾中恢复过来。"}
+   ]
+  },
+  {
+   "title": "短句对照的修辞效果",
+   "explain": "新闻和评论文章有时在较长的句子之后接连使用极短的句子，形成对照或转折，制造节奏上的停顿。本句与下一句结构相同：A patent followed. Production never did. 后一句承前省略了动词，用 never 与前一句形成肯定与否定的对比。考研阅读中，这类短句往往承载作者要强调的信息，常是段落的落脚点。",
+   "difficult": false,
+   "examples": [
+    {"en": "The promises were made. The money never arrived.", "zh": "承诺许下了，钱却始终没到。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "patent", "explain": "名词，专利，如 apply for a patent（申请专利）、take out a patent on sth（取得某物的专利）、patent infringement（专利侵权）；也可作动词，意为“取得……的专利权”。专利赋予发明人在一定期限内对发明的独占权。本句视频译为“专利”。"},
+  {"term": "1975 与 1978", "explain": "第1句说相机造于1975年，本句说专利在1978年获得，下一句则说生产始终没有跟进。"}
+ ],
+ "translation_tip": "视频译文“1978年，这台相机获得专利，”的处理：①时间状语 in 1978 从句末提到句首，符合汉语时间状语在前的习惯。②英文以 A patent 作主语、follow 作谓语，直译成“一项专利随之而来”不自然，视频转换了主语，以“这台相机”作主语，把 followed 译成“获得”，意思更清楚。③句末用逗号而不用句号，与下一句连成一个汉语长句，体现两句之间的转折。"
+},
+{
+ "n": 9,
+ "trunk": {
+  "subject": "Production",
+  "predicate": "never did",
+  "object_or_complement": "",
+  "explain": "主谓结构。did 是助动词，后面省略了 follow（视频说明），never did 相当于 never followed。一般过去时，主动语态；never 是否定副词。"
+ },
+ "components": [
+  {"text": "Production", "role": "主语", "zh": "生产部门"},
+  {"text": "never did.", "role": "谓语（否定副词 never + 助动词 did，did 后承前省略 follow）", "zh": "却从未这样做过（跟进）"}
+ ],
+ "structure": "①本句只有两个成分：主语 Production，谓语 never did。\n②did 是助动词，后面省略了与上句相同的动词 follow（视频说明“never did：省略了 follow”），完整形式是 Production never did follow，意思相当于 Production never followed。英语为避免重复，常用助动词 do、does、did 代替前文的谓语动词，只保留新信息 never。\n③上句 A patent followed 是肯定，本句 never did 是否定，两句结构相同，形成强烈对照：专利随之而来，生产却从未跟进。\n④视频把 Production 译为“生产部门”，并增补“却”字，把两句之间的转折关系表达出来。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "助动词代替前文的谓语动词",
+   "explain": "为避免重复，英语常用助动词 do、does、did（或 have、can、will 等）代替前文已出现的谓语，后面的动词承前省略。这种省略在对比、并列、比较结构中十分常见，如 She likes coffee, and so does he、He left early, but I didn't。本句 Production never did 中，did 代替上句的 followed。阅读时要回到前文找出被省略的动词，补全意思；翻译时要把省略的内容译出来，视频用“这样做过（跟进）”补全了意思。",
+   "difficult": true,
+   "examples": [
+    {"en": "Many people predicted the bridge would collapse, but it never did.", "zh": "许多人预言这座桥会倒塌，但它始终没有倒。"},
+    {"en": "The company promised to cut prices, and eventually it did.", "zh": "公司承诺降价，最后也确实降了。"}
+   ]
+  },
+  {
+   "title": "never 在助动词前后的位置",
+   "explain": "never 意为“从来没有，始终没有”，可以与一般过去时连用，表示过去某段时间内某事始终没有发生，如 He never married（他终身未婚）。never 一般放在助动词之后，如 has never been；但在句末省略了实义动词、只剩助动词时，never 放在助动词之前，如 never did、never has，此时助动词通常重读。本句 never did 即属于这种情况。",
+   "difficult": false,
+   "examples": [
+    {"en": "They said they would visit us in the summer, but they never did.", "zh": "他们说夏天会来看我们，但始终没有来。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "production", "explain": "名词，生产，制造；也可指机构中的生产部门。本句视频译为“生产部门”。常用搭配有 go into production（投产）、mass production（大规模生产）、production line（生产线）。动词是 produce，形容词 productive（多产的，富有成效的）。"},
+  {"term": "never did", "explain": "句末的“never + 助动词”是省略形式，表示前面提到的事情“始终没有发生”，常用来与前文的预期、承诺或另一件已发生的事作对比。"}
+ ],
+ "translation_tip": "视频译文“生产部门却从未这样做过（跟进）。”的处理：①Production 译为“生产部门”，与上句的“这台相机获得专利”形成对照。②英文没有转折连词，两句靠肯定与否定的对比体现转折，视频增补“却”字，把这层关系明确译出。③never did 中省略了 follow，视频译为“从未这样做过”，并在括号中补出“跟进”，把被省略的动词意思交代清楚。"
+},
+{
+ "n": 10,
+ "trunk": {
+  "subject": "The advent of digital photography",
+  "predicate": "proved",
+  "object_or_complement": "disruptive",
+  "explain": "主系表结构：prove 在此是系动词，意为“结果证明是”，后接形容词 disruptive 作表语（视频说明“prove + 形容词：结果证明是……”）。一般过去时。"
+ },
+ "components": [
+  {"text": "The advent of digital photography", "role": "主语（of digital photography 作后置定语，修饰 advent）", "zh": "数码摄影的问世"},
+  {"text": "proved", "role": "系动词（prove + 形容词）", "zh": "结果证明是"},
+  {"text": "disruptive.", "role": "表语（形容词）", "zh": "颠覆性的"}
+ ],
+ "structure": "①本句是主系表结构：主语 The advent of digital photography，系动词 proved，表语 disruptive。\n②主语中心词是 advent（出现，到来），of digital photography 是介词短语作后置定语，说明是什么的出现（视频说明“the advent of…：……的出现”）。这是名词化表达，相当于 digital photography arrived。\n③proved 后面直接接形容词，是系动词用法，不能理解为及物动词“证明（某事）”。prove 作系动词时表示经过一段时间后显现出来的结果，可接形容词、名词或 to be 结构。\n④本句是第3段的主题句，用 disruptive 概括数码摄影带来的冲击，后面的第11至13句用停产 Kodachrome、员工规模和裁员关厂的数字具体说明。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "prove 作系动词",
+   "explain": "prove 作系动词时意为“结果是，最终证明是”，后接形容词、名词或 to be 结构作表语，强调事后才看清的结果，如 The rumour proved false、The trip proved (to be) a disaster。这一用法没有被动语态，不能写成 was proved disruptive。本句 proved disruptive 即“结果证明是颠覆性的”。同样表示结果或变化的系动词还有 turn out、become、grow、go 等。考研阅读中，prove 后接形容词时要按系动词理解，不要误译为“证明了某物”。",
+   "difficult": true,
+   "examples": [
+    {"en": "The new drug proved effective in reducing the risk of heart attacks.", "zh": "事实证明，这种新药能有效降低心脏病发作的风险。"},
+    {"en": "Finding a replacement for the coach proved more difficult than expected.", "zh": "事实证明，为这位教练找到接替者比预想的更难。"}
+   ]
+  },
+  {
+   "title": "the advent of 作主语的名词化表达",
+   "explain": "英语书面语常用“the + 抽象名词 + of + 名词”作主语，把“某事出现”这样的事件压缩成名词短语，再用系动词或谓语对它作评价。本句 The advent of digital photography 相当于 Digital photography arrived，句子的重心落在评价 disruptive 上。翻译时可以译成“……的问世”“……的出现”，也可以拆成小句。",
+   "difficult": false,
+   "examples": [
+    {"en": "The advent of cheap air travel transformed the tourism industry.", "zh": "廉价航空的出现彻底改变了旅游业。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "the advent of sth", "explain": "某事物（尤其是重要发明或新事物）的出现、到来，多用于正式文体，如 the advent of the internet（互联网的出现）、since the advent of television（自电视问世以来）。本句视频译为“问世”。首字母大写的 Advent 指基督教圣诞节前约四周的将临期。"},
+  {"term": "disruptive", "explain": "形容词，本义是“扰乱的，破坏性的”，如 disruptive behaviour（扰乱秩序的行为）；在商业语境中指“颠覆性的”，disruptive technology、disruptive innovation（颠覆性技术、颠覆性创新）指以新方式取代原有产品和市场的技术，这一概念由哈佛商学院教授克莱顿·克里斯坦森（Clayton Christensen）在20世纪90年代提出。本句视频译为“颠覆性的”。"},
+  {"term": "digital photography", "explain": "数码摄影，用电子传感器记录图像并以数字形式存储；与之相对的是 film photography（胶片摄影）。"}
+ ],
+ "translation_tip": "视频译文“数码摄影的问世，结果证明是颠覆性的。”的处理：①名词化主语 The advent of digital photography 中，后置定语 of digital photography 前移，译成“数码摄影的问世”；advent 译为“问世”，常用于发明、新产品的出现。②系动词 proved 译为“结果证明是”，“结果”体现 prove 表示事后显现的结果，“是”对应表语结构。③主语后加逗号，与谓语断开，突出“颠覆性”这一判断。"
+},
+{
+ "n": 11,
+ "trunk": {
+  "subject": "Kodak",
+  "predicate": "said",
+  "object_or_complement": "it would stop making Kodachrome, its analogue film（宾语从句，省略 that）",
+  "explain": "主谓宾结构，said 后接省略了 that 的宾语从句；从句谓语 would stop 是过去将来时，与主句的一般过去时呼应。句末 citing… 是现在分词短语作伴随状语。"
+ },
+ "components": [
+  {"text": "In June 2009", "role": "时间状语（介词短语）", "zh": "2009年6月"},
+  {"text": "Kodak", "role": "主语", "zh": "柯达"},
+  {"text": "said", "role": "谓语", "zh": "宣布"},
+  {"text": "it would stop making Kodachrome,", "role": "宾语从句（省略引导词 that，it 指 Kodak）", "zh": "将停产Kodachrome"},
+  {"text": "its analogue film,", "role": "同位语，补充说明 Kodachrome", "zh": "这种模拟胶卷"},
+  {"text": "citing lessened demand in the digital era.", "role": "伴随状语（现在分词短语，交代理由）", "zh": "理由是数码时代里需求减少"}
+ ],
+ "structure": "①主句是 Kodak said...，主语 Kodak，谓语 said，In June 2009 是时间状语。\n②said 后是省略了 that 的宾语从句 it would stop making Kodachrome：从句主语 it 指 Kodak，谓语 would stop 是过去将来时，因为主句 said 是过去时，从句表示从当时看将要发生的事。stop 后接动名词 making，stop making 即停止生产。\n③its analogue film 是同位语，补充说明 Kodachrome（视频说明），its 指 Kodak，说明 Kodachrome 是柯达的一种模拟胶卷。\n④citing lessened demand in the digital era 是现在分词短语作伴随状语，交代理由（视频说明），逻辑主语是主句主语 Kodak。cite 意为“举出（作为理由）”；lessened 是过去分词作前置定语，修饰 demand，意为“已经减少的”；in the digital era 是介词短语，说明需求减少的时代背景。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "宾语从句中的过去将来时",
+   "explain": "主句谓语是过去时（said、announced、believed 等）时，宾语从句一般也用过去的时态，表示“从过去某时看将来”的动作用过去将来时 would do。本句 Kodak said it would stop making Kodachrome：2009年6月宣布时，停产还是将来的事，所以用 would stop。said 后的 that 在新闻和口语中常省略。考研完形中，主从句时态呼应是常见考点；但从句陈述客观真理时，可以用一般现在时。",
+   "difficult": true,
+   "examples": [
+    {"en": "The airline announced that it would cut 2,000 jobs over the next two years.", "zh": "这家航空公司宣布，将在今后两年裁减2000个岗位。"},
+    {"en": "The mayor said the new library would open in the spring.", "zh": "市长说新图书馆将于春季开放。"}
+   ]
+  },
+  {
+   "title": "stop doing 与 stop to do",
+   "explain": "stop doing sth 表示“停止正在做的事”，动名词作 stop 的宾语；stop to do sth 表示“停下来（去）做另一件事”，不定式作目的状语。本句 stop making Kodachrome 是停止生产，即停产。同类区别还有 remember doing（记得做过）与 remember to do（记得要做）、forget doing 与 forget to do，是考研完形的常考点。",
+   "difficult": true,
+   "examples": [
+    {"en": "The factory stopped producing plastic bags after the ban came into force.", "zh": "禁令生效后，这家工厂停止生产塑料袋。"},
+    {"en": "Halfway up the hill, the hikers stopped to take photographs of the valley.", "zh": "爬到半山腰，徒步者们停下来拍摄山谷。"}
+   ]
+  },
+  {
+   "title": "现在分词短语作伴随状语，交代理由",
+   "explain": "分词短语放在句末作伴随状语时，可以补充说明主句动作发生时的相关情况。citing、saying、claiming、arguing 等表示言说的现在分词，常用来交代主语给出的理由或说法。本句 citing lessened demand 的逻辑主语是 Kodak，相当于 and cited lessened demand as the reason。新闻报道中“宣布某决定 + citing + 原因”是常见写法。",
+   "difficult": false,
+   "examples": [
+    {"en": "The minister resigned on Friday, citing health reasons.", "zh": "部长周五辞职，理由是健康原因。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "Kodachrome", "explain": "柯达的胶卷品牌（视频说明），1935年推出，是一种彩色反转片，冲洗出来是用于幻灯放映的正片。视频保留英文原名。"},
+  {"term": "analogue", "explain": "形容词，模拟的，指用连续变化的物理量记录或传递信息，与 digital（数字的）相对，如 analogue signals（模拟信号）、an analogue watch（指针式手表）。analogue 是英式拼写，美式拼写为 analog。胶卷用化学方法记录影像，所以称 analogue film，视频译为“模拟胶卷”。"},
+  {"term": "cite", "explain": "动词，引用，援引，举出（作为理由或例证），如 cite evidence（举出证据）、cite sb as an example；名词 citation（引文，引用）。注意与读音相同的 site（地点）、sight（视力，景象）区分。"},
+  {"term": "lessen", "explain": "动词，减少，减轻，由形容词 less 加动词后缀 -en 构成，如 lessen the risk（降低风险）、lessen the impact（减轻影响）。本句 lessened 是过去分词作定语，lessened demand 即“已减少的需求”。"},
+  {"term": "era", "explain": "名词，时代，纪元，如 the digital era（数码时代）、a new era（新时代）、the end of an era（一个时代的结束）。"}
+ ],
+ "translation_tip": "视频译文“2009年6月，柯达宣布将停产Kodachrome这种模拟胶卷，理由是数码时代里需求减少。”的处理：①said 结合语境译为“宣布”，公司对外说明一项决定，用“宣布”更准确。②宾语从句的主语 it 与主句主语相同，译文省去；过去将来时 would 译成“将”，stop making 合译为“停产”。③同位语 its analogue film 与 Kodachrome 合在一起，译成“Kodachrome这种模拟胶卷”，用“这种”连接专名和类别。④伴随状语 citing... 译成独立分句“理由是……”，直接点明 cite 的含义；名词短语 lessened demand 译成主谓结构“需求减少”，in the digital era 前移为“数码时代里”。"
+},
+{
+ "n": 12,
+ "trunk": {
+  "subject": "Kodak's manpower",
+  "predicate": "had reached",
+  "object_or_complement": "an apex of about 145,000",
+  "explain": "主谓宾结构。谓语 had reached 是过去完成时，主动语态，表示在本段所述的2009年、2012年之前，员工规模早已达到过顶峰。"
+ },
+ "components": [
+  {"text": "Kodak's manpower", "role": "主语", "zh": "柯达的员工规模"},
+  {"text": "had reached", "role": "谓语（过去完成时）", "zh": "曾达到"},
+  {"text": "an apex of about 145,000", "role": "宾语（of about 145,000 作后置定语，说明顶峰的数值）", "zh": "约14.5万人的顶峰"},
+  {"text": "in the 1980s.", "role": "时间状语（介词短语）", "zh": "那是在20世纪80年代"}
+ ],
+ "structure": "①本句是主谓宾结构：主语 Kodak's manpower，谓语 had reached，宾语 an apex，in the 1980s 作时间状语。\n②宾语中心词 apex 意为“顶点，顶峰”，of about 145,000 是介词短语作后置定语，说明这个顶峰的具体数值（视频说明“约14.5万人的顶峰”）。\n③谓语用过去完成时 had reached，表示“过去的过去”：上一句写到2009年，下一句写到2012年，本句回到更早的20世纪80年代，交代柯达鼎盛时期的员工规模，为下一句的大规模裁员作对照。\n④manpower 在这里指公司的员工人数，视频译为“员工规模”。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "过去完成时回溯更早的情况",
+   "explain": "过去完成时 had done 表示在过去某一时间之前已经发生或完成的动作。文章叙述到过去某个时间（本段为2009年至2012年）时，若要回头交代更早的情况，常用过去完成时，提示时间往回推了。本句 had reached 把时间拉回到20世纪80年代，下一句 By 2012... had slashed 再写此后的缩减，一升一降形成对比。考研阅读中，过去完成时常标志着“之前的情况”，往往与后文的变化形成对照。",
+   "difficult": true,
+   "examples": [
+    {"en": "By the time the firefighters arrived, the fire had already spread to the second floor.", "zh": "消防员赶到时，火势已经蔓延到了二楼。"},
+    {"en": "The town's population had peaked at 50,000 in the 1960s; today fewer than 20,000 people live there.", "zh": "这座小镇的人口在20世纪60年代曾达到5万人的峰值；如今住在那里的人不到2万。"}
+   ]
+  },
+  {
+   "title": "年代的表达 in the 1980s",
+   "explain": "表示“某个年代”用 the + 年份 + s，如 in the 1980s（在20世纪80年代），也可以说 in the eighties；年代前要加定冠词 the。表示年代的早期、中期、晚期用 in the early 1980s、in the mid-1980s、in the late 1980s。汉语译为“20世纪80年代”，不能译成“1980年”。",
+   "difficult": false,
+   "examples": [
+    {"en": "Home computers became common in the late 1980s.", "zh": "家用电脑在20世纪80年代末开始普及。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "manpower", "explain": "名词，不可数，人力，劳动力，可用的人员数量，如 a shortage of manpower（人手不足）、manpower costs（人力成本）。本句指柯达的员工人数，视频译为“员工规模”。强调性别中立时，也常用 workforce、staff、personnel 等词。"},
+  {"term": "apex", "explain": "名词，顶点，顶峰，如 the apex of a triangle（三角形的顶点）、the apex of his career（他事业的顶峰）。本句 an apex of about 145,000 指员工人数达到的最高点，视频译为“顶峰”。复数为 apexes，也作 apices。"},
+  {"term": "145,000", "explain": "英语数字每三位用逗号分隔，读作 one hundred and forty-five thousand；汉语以“万”为单位，换算成14.5万。"}
+ ],
+ "translation_tip": "视频译文“柯达的员工规模曾达到约14.5万人的顶峰，那是在20世纪80年代。”的处理：①过去完成时 had reached 译为“曾达到”，用“曾”表示这是更早的情况。②后置定语 of about 145,000 前移，数字换算为汉语习惯的“约14.5万人”，补出“人”字。③时间状语 in the 1980s 没有提到句首，而是留在句末单独成句，译为“那是在20世纪80年代”，与英文语序一致，也突出了时间。"
+},
+{
+ "n": 13,
+ "trunk": {
+  "subject": "layoffs since 2003",
+  "predicate": "had slashed",
+  "object_or_complement": "47,000 jobs",
+  "explain": "主谓宾结构。By 2012 是时间状语，谓语 had slashed 用过去完成时，表示到2012年为止已经完成的动作，主动语态。句末 alongside 引出的介词短语作伴随状语。"
+ },
+ "components": [
+  {"text": "By 2012,", "role": "时间状语（介词短语，by 表示“到……为止”）", "zh": "到2012年"},
+  {"text": "layoffs", "role": "主语", "zh": "裁员"},
+  {"text": "since 2003", "role": "后置定语（介词短语），修饰 layoffs", "zh": "自2003年以来的"},
+  {"text": "had slashed", "role": "谓语（过去完成时）", "zh": "已砍掉"},
+  {"text": "47,000 jobs,", "role": "宾语", "zh": "4.7万个岗位"},
+  {"text": "alongside", "role": "介词，意为“与……同时”，引出伴随状语", "zh": "同时"},
+  {"text": "the shutdown of 13 factories and some 130 labs.", "role": "介词 alongside 的宾语（名词化结构，of 短语说明关闭的对象）", "zh": "13家工厂和约130个冲印室相继关闭"}
+ ],
+ "structure": "①句首 By 2012 是时间状语（视频说明“到2012年为止”），by + 过去时间点表示“到……为止”，所以谓语用过去完成时 had slashed，表示到2012年这一系列裁员已经造成的结果。\n②主干是 layoffs since 2003 had slashed 47,000 jobs：主语 layoffs，since 2003 是介词短语作后置定语，说明是2003年以来的裁员；谓语 had slashed，宾语 47,000 jobs。since 2003 与 By 2012 首尾相接，界定了从2003年到2012年这段时间。\n③alongside 是介词，意为“与……同时”（视频说明），引出的介词短语作伴随状语，补充说明与裁员同时发生的事。介词宾语是名词化结构 the shutdown of 13 factories and some 130 labs（视频说明“the shutdown of…：……的关闭”）：shutdown 是中心词，of 引出关闭的对象，13 factories 和 some 130 labs 由 and 并列。some 用在数字前表示“大约”。\n④本句与上一句对照：20世纪80年代员工约14.5万人，2003年以来裁掉4.7万个岗位，同时关闭了大批工厂和冲印室。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "by + 过去时间，谓语用过去完成时",
+   "explain": "by 后接过去的时间点（by 2012、by the end of last year、by then），意为“到……为止”，主句谓语通常用过去完成时，表示到那时已经完成的动作或已经产生的结果；by 后接将来时间时，主句多用将来完成时 will have done。本句 By 2012... had slashed 47,000 jobs 表示到2012年累计已砍掉4.7万个岗位（视频说明“had slashed：过去完成时”）。考研完形和写作中，by 引导的时间状语是判断完成时的重要标志。",
+   "difficult": true,
+   "examples": [
+    {"en": "By the end of the decade, the company had opened more than 200 stores across Asia.", "zh": "到那个十年结束时，这家公司已在亚洲开设了200多家门店。"},
+    {"en": "By next June, the team will have completed the first phase of the project.", "zh": "到明年六月，团队将完成项目的第一阶段。"}
+   ]
+  },
+  {
+   "title": "介词 alongside",
+   "explain": "alongside 作介词有两个常用义：一是“在……旁边，沿着……”，如 a path alongside the river；二是“与……一起，与……同时”，表示两件事并存或同时发生，相当于 together with、along with，如 The new rules will operate alongside the existing ones。本句用的是第二义，alongside the shutdown... 说明裁员的同时还有工厂和冲印室关闭，视频译为“同时”。",
+   "difficult": false,
+   "examples": [
+    {"en": "Volunteers worked alongside professional staff to clean up the beach.", "zh": "志愿者与专业人员一起清理海滩。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "layoff", "explain": "名词，（因经营原因而进行的）裁员，解雇，常用复数，如 mass layoffs（大规模裁员）；对应的短语动词是 lay off（解雇），如 The company laid off 500 workers。本句视频译为“裁员”。"},
+  {"term": "slash", "explain": "动词，本义是“砍，砍伤”，新闻中常用来表示“大幅削减（价格、开支、岗位等）”，语气比 cut、reduce 强烈，如 slash prices（大幅降价）、slash the budget（大幅削减预算）。本句 had slashed 47,000 jobs 视频译为“已砍掉”。"},
+  {"term": "shutdown", "explain": "名词，关闭，停工，停业，如 a factory shutdown（工厂停产）、a government shutdown（政府停摆）；对应的短语动词是 shut down（关闭，停业）。"},
+  {"term": "some + 数字", "explain": "some 放在数字前作副词，意为“大约”，相当于 about，如 some 130 labs（约130个冲印室），这里不能理解为“一些”。"},
+  {"term": "lab", "explain": "lab 是 laboratory 的缩写，常指实验室。本文讲的是胶卷企业，视频把 labs 译为“冲印室”，指冲洗、印制照片的场所。"}
+ ],
+ "translation_tip": "视频译文“到2012年，自2003年以来的裁员已砍掉4.7万个岗位，同时13家工厂和约130个冲印室相继关闭。”的处理：①By 2012 译为“到2012年”；过去完成时 had slashed 译为“已砍掉”，用“已”体现到那时为止的完成。②后置定语 since 2003 前移，译成“自2003年以来的裁员”。③alongside 引出的名词化结构 the shutdown of... 译成主谓结构“13家工厂和约130个冲印室相继关闭”，前面用“同时”衔接，并增补“相继”，表示这些关闭是陆续发生的。④数字换算：47,000 译为“4.7万”，some 130 译为“约130个”。"
+}
+]

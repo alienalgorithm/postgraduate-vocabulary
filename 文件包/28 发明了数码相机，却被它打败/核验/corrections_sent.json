@@ -1,0 +1,30 @@
+[
+ {
+  "key": "2",
+  "field": "knowledge[heavyweight].explain",
+  "before": "本义是重量级拳击手、重量级选手，也比喻大人物",
+  "after": "本义指比一般人或物重的人或物，后用作拳击、摔跤等运动中的重量级选手，也比喻大人物",
+  "reason": "Etymonline：heavyweight 先指“比一般重的人或物”（1857），拳击义晚出（1877），“本义是重量级拳击手”不准确"
+ },
+ {
+  "key": "5",
+  "field": "knowledge[dependence on].explain",
+  "before": "反义词 independence 接 from 或 of，如 independence from foreign aid。",
+  "after": "反义词 independence 一般接 from，如 independence from foreign aid；形容词 independent 则接 of，如 be independent of sb。",
+  "reason": "Oxford/Cambridge 中 independence 的标准搭配是 from，“接 of”属少见旧用法；补出 independent of 的区别"
+ },
+ {
+  "key": "12",
+  "field": "grammar[0].examples[1]",
+  "before": "The town's population had peaked at 50,000 in the 1960s; today fewer than 20,000 people live there. / 这座小镇的人口在20世纪60年代曾达到5万人的峰值；如今住在那里的人不到2万。",
+  "after": "When the last mill closed in 1990, the town's population had already shrunk to half its 1960s peak. / 1990年最后一家工厂关闭时，小镇人口已经缩减到20世纪60年代峰值的一半。",
+  "reason": "原例句以 today 的现在时为参照却用过去完成时 had peaked，不符合过去完成时需要过去参照点的规则，没能示范本语法点"
+ },
+ {
+  "key": "17",
+  "field": "grammar[0].explain",
+  "before": "它的逻辑主语是主句主语，二者是被动关系。",
+  "after": "它的逻辑主语是主句主语；及物动词的过去分词与逻辑主语是被动关系，不及物动词的过去分词（如 recovered、retired）则表示已完成的状态。",
+  "reason": "原说法“二者是被动关系”过于绝对，与例句 fully recovered（不及物动词 recover 的过去分词，表完成状态）矛盾"
+ }
+]

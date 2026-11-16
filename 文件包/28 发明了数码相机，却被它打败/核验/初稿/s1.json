@@ -1,0 +1,344 @@
+[
+{
+ "n": 1,
+ "trunk": {
+  "subject": "Kodak engineer Steven Sasson",
+  "predicate": "built",
+  "object_or_complement": "the first digital camera",
+  "explain": "主干是 Kodak engineer Steven Sasson built the first digital camera，主谓宾结构。谓语 built 是 build 的过去式，一般过去时，主动语态，叙述1975年发生的一件具体事情。"
+ },
+ "components": [
+  {"text": "In 1975", "role": "时间状语（介词短语）", "zh": "1975年"},
+  {"text": "Kodak engineer Steven Sasson", "role": "主语（职务 + 人名，Kodak engineer 作人名的前置修饰语）", "zh": "柯达工程师史蒂文·萨松"},
+  {"text": "built", "role": "谓语", "zh": "造出了"},
+  {"text": "the first digital camera.", "role": "宾语（序数词 first 前用定冠词 the）", "zh": "第一台数码相机"}
+ ],
+ "structure": "①句首 In 1975 是介词短语作时间状语。年份前用介词 in；句首状语很短时，后面可以不加逗号，新闻和杂志文章中很常见。\n②主语 Kodak engineer Steven Sasson 的中心词是人名 Steven Sasson，前面的 Kodak engineer 交代他的身份（视频说明“职务 + 人名，作主语”）：Kodak 是名词作定语，修饰 engineer，说明是哪家公司的工程师；Kodak engineer 整体放在人名前，前面不加冠词。这是新闻体的常见写法，意思相当于 Steven Sasson, a Kodak engineer。\n③谓语 built 后接宾语 the first digital camera。序数词 first 前用定冠词 the；digital camera 是固定的名词短语，意为“数码相机”。\n④本句是全文的起点：数码相机正是柯达自己的工程师发明的，与标题 The Company That Invented Its Own Killer 呼应。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "身份名词置于人名前（新闻体写法）",
+   "explain": "新闻、杂志英语常把职务、身份或所属机构直接放在人名前，构成“身份 + 人名”的名词短语，身份前不加冠词，如 Kodak engineer Steven Sasson。它与“人名, a/the + 身份”的同位语结构意思相同，但更紧凑，适合在句首交代人物。整个短语的中心词是后面的人名，谓语的单复数看人名。翻译时按汉语习惯译成“柯达工程师史蒂文·萨松”，身份在前、姓名在后。考研阅读中，人物第一次出现常用这种写法，要把整个短语看作一个主语，不要把 engineer 当成独立的主语而把人名当成别的成分。",
+   "difficult": true,
+   "examples": [
+    {"en": "Award-winning journalist Maria Lopez spent two years investigating the company's accounts.", "zh": "获奖记者玛丽亚·洛佩斯花了两年时间调查这家公司的账目。"},
+    {"en": "Local farmer Tom Hughes says the drought has cut his harvest by half.", "zh": "当地农民汤姆·休斯说，干旱让他的收成减少了一半。"}
+   ]
+  },
+  {
+   "title": "序数词前用定冠词 the",
+   "explain": "序数词（first、second、last 等）修饰名词时，前面一般用定冠词 the，表示一个序列中特定的那一个，如 the first digital camera、the second half。如果前面已有物主代词或名词所有格，就不再用 the，如第3句的 Its first rudimentary picture、Kodak's first camera。序数词前用不定冠词 a 时，意思变为“又一个，再一个”，如 a second chance（再一次机会）。",
+   "difficult": false,
+   "examples": [
+    {"en": "She was the first woman in her family to attend university.", "zh": "她是家里第一个上大学的女性。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "Kodak", "explain": "柯达公司（Eastman Kodak Company），总部位于美国纽约州罗切斯特（Rochester），由乔治·伊士曼（George Eastman）创立，以胶卷、相机和冲印业务闻名。本句 Kodak 作 engineer 的定语，视频译为“柯达”。"},
+  {"term": "Steven Sasson", "explain": "史蒂文·萨松，美国工程师，1975年在柯达造出第一台数码相机。第18句提到他在2009年获得美国总统授予的国家级荣誉。"},
+  {"term": "digital camera", "explain": "数码相机，把图像转换为数字信号加以存储的相机，与使用胶卷的 film camera（胶片相机）相对。digital 意为“数字的，数码的”，本文第10句的 digital photography（数码摄影）、第11句的 the digital era（数码时代）、第14句的 going digital（转向数码）都用到它。"},
+  {"term": "build (built, built)", "explain": "build 常见义是“建造（房屋、桥梁等）”，也可以指制造、装配机器和设备，如 build a car、build a prototype（造出原型机）。build 是不规则动词，过去式和过去分词都是 built。本句视频译为“造出了”，“出”字体现从无到有。"}
+ ],
+ "translation_tip": "视频译文“1975年，柯达工程师史蒂文·萨松造出了第一台数码相机。”的处理：①句首时间状语 In 1975 照原位置译出，后面加逗号断开；汉语年份直接写“1975年”，介词 in 不译。②“身份 + 人名”的主语按原顺序译成“柯达工程师史蒂文·萨松”，汉语同样把身份放在人名前；人名音译，名与姓之间用间隔号“·”。③built 译成“造出了”，“了”表示动作已经完成，对应英语的一般过去时；camera 前补出量词“台”。"
+},
+{
+ "n": 2,
+ "trunk": {
+  "subject": "The toaster-sized gadget",
+  "predicate": "was hardly",
+  "object_or_complement": "portable（表语；let alone handheld 承前补充）",
+  "explain": "主系表结构：系动词 was 后接形容词 portable 作表语，否定副词 hardly 放在系动词之后，否定整个表语；let alone handheld 承前省略了 was，是对表语的递进补充。系动词为一般过去时。"
+ },
+ "components": [
+  {"text": "The toaster-sized gadget,", "role": "主语（toaster-sized 是复合形容词，作 gadget 的前置定语）", "zh": "这台烤面包机大小的小器械/小装置"},
+  {"text": "a cumbersome heavyweight", "role": "同位语，补充说明 the gadget", "zh": "是个笨重的大块头"},
+  {"text": "of about eight pounds,", "role": "后置定语（介词短语），修饰 heavyweight，说明重量", "zh": "重约八磅"},
+  {"text": "was hardly", "role": "系动词 was + 否定副词 hardly（几乎不）", "zh": "很难说是"},
+  {"text": "portable,", "role": "表语（形容词）", "zh": "便携的"},
+  {"text": "let alone", "role": "固定短语，作连词用，引出程度更进一层的一项", "zh": "更谈不上"},
+  {"text": "handheld.", "role": "表语（形容词，与 portable 平行，承前省略 was）", "zh": "手持"}
+ ],
+ "structure": "①主干是 The toaster-sized gadget was hardly portable：主语 gadget，系动词 was，表语 portable。hardly 是否定副词，意为“几乎不，简直不”（视频说明），放在系动词之后，否定的是表语 portable。\n②主语后两个逗号之间的 a cumbersome heavyweight of about eight pounds 是同位语，补充说明 the gadget（视频说明），与它指同一样东西。同位语中心词是 heavyweight，cumbersome 是前置定语，of about eight pounds 是介词短语作后置定语，of 表示特征，相当于 weighing about eight pounds。阅读时先略去同位语，把主语 gadget 和系动词 was 连起来，主干就清楚了。\n③let alone 意为“更不用说”（视频说明），用在否定句之后，引出比前一项更难成立的情况：连便携都谈不上，手持就更谈不上了。let alone 后的 handheld 与 portable 平行，都作表语，承前省略了 was。\n④toaster-sized 是“名词 + -sized”构成的复合形容词，表示“……大小的”（视频说明），用家里常见的烤面包机作参照，让读者直观感受这台相机的体积。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "let alone：更不用说",
+   "explain": "let alone 意为“更不用说，更谈不上”，一般用在否定句或含否定意义的句子（含 hardly、never、can't、unable 等）之后，引出比前一项更难做到、更不可能的情况。前后两项的词性和结构通常相同，本句 portable 与 handheld 都是形容词作表语。语义上前项弱、后项强：较容易做到的“便携”尚且做不到，更难的“手持”就更不可能。let alone 前多有逗号，后面的部分承前省略，不再重复谓语。考研阅读和完形中，它常与 not to mention、to say nothing of、much less 同义替换；let alone 一般不用于肯定句，肯定句中表示“更何况，还有”可用 not to mention。",
+   "difficult": true,
+   "examples": [
+    {"en": "Many of the villagers could barely afford bread, let alone meat.", "zh": "许多村民连面包都买不起，更不用说肉了。"},
+    {"en": "The baby can't even sit up yet, let alone walk.", "zh": "宝宝连坐都还坐不起来，更别说走路了。"}
+   ]
+  },
+  {
+   "title": "同位语插在主语和谓语之间",
+   "explain": "同位语对名词作补充说明，与它指同一对象，常放在名词之后、用逗号隔开。同位语插在主语和谓语之间时，主语与谓语被隔开，长难句里要先略去两个逗号之间的内容，找到真正的谓语。本句 a cumbersome heavyweight of about eight pounds 说明 the gadget，句子的谓语是其后的 was。谓语的单复数由主语决定，与同位语无关。",
+   "difficult": true,
+   "examples": [
+    {"en": "The museum, a former power station on the river, attracts millions of visitors a year.", "zh": "这座博物馆原是河边的一座发电厂，每年吸引数百万游客。"},
+    {"en": "Her latest book, a collection of essays on rural life, has already been translated into twelve languages.", "zh": "她的新书是一部描写乡村生活的散文集，已被译成十二种语言。"}
+   ]
+  },
+  {
+   "title": "否定副词 hardly",
+   "explain": "hardly 是否定副词，意为“几乎不，简直不”，本身带否定意义，句中不能再加 not，也不与 no、never 连用；它通常放在 be 动词、助动词之后，实义动词之前。hardly 与 hard 的副词用法意思不同：work hard 是“努力工作”，hardly work 是“几乎不工作”。含 hardly 的句子后接反意疑问句时用肯定形式，如 He hardly knows her, does he? hardly 放在句首时句子要部分倒装，如 Hardly had he arrived when it began to rain。",
+   "difficult": false,
+   "examples": [
+    {"en": "The instructions were so vague that they were hardly any help.", "zh": "说明写得含糊不清，几乎帮不上任何忙。"}
+   ]
+  },
+  {
+   "title": "“名词 + -sized”构成复合形容词",
+   "explain": "“名词 + -sized”表示“……大小的”，作前置定语时用连字符连接，如 pocket-sized（袖珍的）、bite-sized（一口大小的）、medium-sized（中等大小的）。本句 toaster-sized 用人人见过的烤面包机作参照，比直接给出尺寸更形象。",
+   "difficult": false,
+   "examples": [
+    {"en": "The company sells bite-sized snacks aimed at busy office workers.", "zh": "这家公司出售一口大小的小零食，面向忙碌的上班族。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "gadget", "explain": "名词，小器械、小装置、小玩意，多指新奇、巧妙的小型机械或电子设备，如 kitchen gadgets（厨房小工具）、the latest gadgets（最新的电子产品）。本句指萨松造的那台数码相机，视频译为“小器械/小装置”。"},
+  {"term": "heavyweight", "explain": "本义是重量级拳击手、重量级选手，也比喻大人物、有影响力的人或机构，如 a political heavyweight（政界要人）。本句用的是字面义“很重的东西”，视频译为“大块头”。"},
+  {"term": "about eight pounds", "explain": "pound 是英美常用的重量单位“磅”，1磅约合0.45千克，八磅约合3.6千克；about 用在数字前表示“大约”。pound 还是英国货币单位“英镑”，要根据语境区分。"},
+  {"term": "portable 与 handheld", "explain": "portable 意为“便于携带的”，能拿着走即可；handheld 意为“手持的”，要求小到能拿在手里使用，要求比 portable 更高，所以用 let alone 引出 handheld。handheld 作名词时指掌上设备。"},
+  {"term": "cumbersome", "explain": "形容词，笨重的，不便携带的；也指（程序、制度）繁琐的、低效的，如 cumbersome procedures（繁琐的手续）。本句视频译为“笨重的”。"}
+ ],
+ "translation_tip": "视频译文“这台烤面包机大小的小器械/小装置，是个笨重的大块头，重约八磅，很难说是便携的，更谈不上手持。”的处理：①The 译成“这台”，补出量词。②同位语 a cumbersome heavyweight 不前置，加“是个”译成判断短句“是个笨重的大块头”，顺着英文语序补充说明主语。③后置定语 of about eight pounds 单独译成短句“重约八磅”，避免定语过长。④was hardly 译为“很难说是”，比“不是”委婉，保留了 hardly 的分寸；let alone 译为“更谈不上”，其后承前省略的 handheld 译为“手持”。"
+},
+{
+ "n": 3,
+ "trunk": {
+  "subject": "Its first rudimentary picture",
+  "predicate": "held",
+  "object_or_complement": "10,000 black-and-white pixels",
+  "explain": "主谓宾结构。held 是 hold 的过去式，这里意为“容纳，包含”，一般过去时，主动语态。"
+ },
+ "components": [
+  {"text": "Its first rudimentary picture", "role": "主语（Its 指上句的 gadget，即那台数码相机）", "zh": "它拍下的第一张粗糙的照片"},
+  {"text": "held", "role": "谓语（hold 意为“容纳，包含”）", "zh": "只有"},
+  {"text": "10,000 black-and-white pixels.", "role": "宾语（black-and-white 是复合形容词，作 pixels 的前置定语）", "zh": "1万个黑白像素"}
+ ],
+ "structure": "①本句是简单的主谓宾结构：主语 Its first rudimentary picture，谓语 held，宾语 10,000 black-and-white pixels。\n②主语中心词 picture 前有三个修饰语：物主代词 Its（限定词）、序数词 first、描述性形容词 rudimentary，顺序是“限定词 + 序数词 + 描述性形容词 + 名词”。Its 回指上句的 The toaster-sized gadget，即这台数码相机。\n③held 不是“握住”，而是“容纳，包含”，hold 的这一义项常用于容器、场地、存储设备，如 The hall holds 500 people。\n④宾语中 black-and-white 是三个词用连字符连成的复合形容词，作 pixels 的前置定语。视频说明指出1万像素即 100×100，用具体数字突出这张照片的粗糙。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "多个前置定语的排列顺序",
+   "explain": "名词前有多个修饰语时，一般按“限定词（冠词、物主代词、指示代词等） + 序数词 + 基数词 + 描述性形容词 + 名词”的顺序排列，如 the first three days、my last two weeks。本句 Its first rudimentary picture 中，Its 是限定词，first 是序数词，rudimentary 是描述性形容词，顺序不能颠倒，写成 rudimentary first picture 就不地道。序数词通常在基数词之前，如 the first two chapters，不说 the two first chapters。考研写作中多个定语连用时，可以按这一顺序检查。",
+   "difficult": true,
+   "examples": [
+    {"en": "The first two chapters of the book deal with the author's childhood.", "zh": "这本书的前两章讲的是作者的童年。"},
+    {"en": "Her first serious attempt at a novel was rejected by every publisher she approached.", "zh": "她第一次认真尝试写的小说遭到了她联系的每一家出版社的拒绝。"}
+   ]
+  },
+  {
+   "title": "用连字符连成的复合形容词",
+   "explain": "几个词用连字符连成一个整体，放在名词前作定语，叫复合形容词，如 black-and-white（黑白的）、state-of-the-art（最先进的）、up-to-date（最新的）。作前置定语时要加连字符；放在系动词后作表语时一般不加，如 The photos are black and white。本句 black-and-white pixels 意为“黑白像素”。",
+   "difficult": false,
+   "examples": [
+    {"en": "The museum's collection includes hundreds of black-and-white photographs from the 1930s.", "zh": "这家博物馆的藏品中有数百张20世纪30年代的黑白照片。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "hold", "explain": "熟词僻义：hold 常见义是“拿着，握住”，本句意为“容纳，包含”，主语多为容器、场所或存储介质，如 The stadium holds 60,000 people、The disk can hold two gigabytes of data。视频把 held 译为“只有”，突出数量少。"},
+  {"term": "rudimentary", "explain": "形容词，意为“基本的，初步的；简陋的，粗糙的”，如 rudimentary knowledge（粗浅的知识）、rudimentary equipment（简陋的设备）。本句形容这张照片还很粗糙，视频译为“粗糙的”。名词 rudiments 意为“基础知识，基本原理”。"},
+  {"term": "pixel", "explain": "像素，数字图像的最小单元，由 picture 的口语简写 pix 和 element 合成。1万像素即宽、高各100个像素（视频说明“即 100×100”）；如今的数码相机和手机摄像头通常以百万像素（megapixel）计，对比之下更显出这张照片的粗糙。"},
+  {"term": "Its 与 it's", "explain": "Its 是 it 的物主代词，回指上句的 the gadget；it's 是 it is 或 it has 的缩写。两者混用是英语写作中的高频拼写错误。"}
+ ],
+ "translation_tip": "视频译文“它拍下的第一张粗糙的照片，只有1万个黑白像素。”的处理：①Its first picture 译成“它拍下的第一张……照片”，增补动词“拍下”，交代照片与相机的关系，比“它的第一张照片”更清楚；picture 前补出量词“张”。②held 不直译为“容纳了”，译为“只有”，点出像素数量之少，与 rudimentary 呼应。③10,000 换算成汉语习惯的“1万”，补出量词“个”；长主语后加逗号，与谓语断开。"
+},
+{
+ "n": 4,
+ "trunk": {
+  "subject": "Recording it on a cassette（第一分句）；a playback unit（第二分句）",
+  "predicate": "took（第一分句）；showed（第二分句）",
+  "object_or_complement": "23 seconds（took 的宾语）；it（showed 的宾语）",
+  "explain": "and 连接两个并列分句。第一分句是“动名词短语作主语 + take + 时间”的结构，第二分句是主谓宾结构，showed 后有地点状语 on a television。两个谓语都是一般过去时，主动语态。"
+ },
+ "components": [
+  {"text": "Recording it on a cassette", "role": "主语（动名词短语；it 指上句的照片，on a cassette 作地点状语）", "zh": "把照片录到盒式磁带上"},
+  {"text": "took", "role": "谓语（take + 时间，表示“花费”）", "zh": "要花"},
+  {"text": "23 seconds,", "role": "宾语", "zh": "23秒"},
+  {"text": "and", "role": "并列连词，连接两个分句，表示先后", "zh": "再由"},
+  {"text": "a playback unit", "role": "第二分句主语", "zh": "一台回放装置"},
+  {"text": "showed", "role": "第二分句谓语", "zh": "显示出来"},
+  {"text": "it", "role": "宾语（仍指照片）", "zh": "（宾语，指照片，译文承前省略）"},
+  {"text": "on a television.", "role": "地点状语（介词短语）", "zh": "在电视上"}
+ ],
+ "structure": "①本句是 and 连接的并列句，两个分句按时间顺序叙述：先录制，再回放。and 前有逗号，因为它连接的是两个完整的分句。\n②第一分句的主语是动名词短语 Recording it on a cassette（视频说明“动名词短语作主语”）：Recording 是动名词，it 是它的宾语，回指上句的 picture，on a cassette 是地点状语，说明录到哪里。谓语 took 后接时间 23 seconds，构成“sth takes + 时间”，表示做某事花多长时间。动名词短语作主语时谓语用单数，本句 took 是过去式，看不出单复数，换成现在时应说 Recording it takes...。\n③第二分句是主谓宾结构：主语 a playback unit，谓语 showed，宾语 it，on a television 是地点状语。playback 是名词作定语，修饰 unit，playback unit 即“回放装置”（视频说明）。\n④两个分句中的 it 都指第3句的 picture，指代对象不变。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "动名词短语作主语",
+   "explain": "动名词（v-ing）及其短语可以像名词一样作主语，表示一件事或一种行为，谓语动词用单数。动名词作主语时可以带自己的宾语和状语，本句 Recording it on a cassette 中，it 是 recording 的宾语，on a cassette 是状语。主语较长时也常用形式主语 it，把真正的主语后置：It took 23 seconds to record it on a cassette。考研阅读中，句首的 v-ing 结构要分清是动名词作主语还是分词作状语：后面直接接谓语、中间没有逗号的，多为动名词作主语；后面有逗号、再接完整句子的，多为分词作状语。",
+   "difficult": true,
+   "examples": [
+    {"en": "Learning a new language as an adult requires patience and regular practice.", "zh": "成年后学一门新语言需要耐心和经常练习。"},
+    {"en": "Replacing the old water pipes cost the city more than two million dollars.", "zh": "更换旧水管花了这座城市两百多万美元。"}
+   ]
+  },
+  {
+   "title": "take、spend、cost 表示“花费”",
+   "explain": "表示“做某事花费多长时间”，take 有三种常见结构：It takes (sb) + 时间 + to do sth；doing sth takes + 时间；sth takes + 时间。本句属于第二种。spend 的主语必须是人：sb spends + 时间/金钱 + (in) doing sth 或 on sth；cost 的主语是物或事，多指花钱，也可指付出代价。考研写作中这三个词的主语和结构常被用错，如不能说 The work spent me two hours。",
+   "difficult": false,
+   "examples": [
+    {"en": "It took the engineers three years to design a safer braking system.", "zh": "工程师们花了三年时间设计出一套更安全的制动系统。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "cassette", "explain": "盒式磁带，把磁带封装在小塑料盒里的录音、录像或数据存储介质，如 a cassette recorder（盒式录音机）。本句指萨松的相机把图像数据录在盒式磁带上，视频译为“盒式磁带”。"},
+  {"term": "playback unit", "explain": "playback 是由动词短语 play back（回放，重放）构成的名词，意为“回放”；unit 在这里指一台装置、一个部件。playback unit 视频译为“回放装置”。"},
+  {"term": "on a television 与 on television", "explain": "television 既指电视机，也指电视节目或电视行业。本句 on a television 指在一台电视机上显示，所以带不定冠词 a；表示节目“在电视上播出”时说 on television，不加冠词，如 The match will be shown on television。"},
+  {"term": "23 seconds", "explain": "录一张照片要23秒，与第3句的1万像素一起，说明这台原型机的速度和画质都还很原始。"}
+ ],
+ "translation_tip": "视频译文“把照片录到盒式磁带上要花23秒，再由一台回放装置在电视上显示出来。”的处理：①动名词短语主语 Recording it on a cassette 用“把”字结构译出，并把代词 it 译成名词“照片”，指代更清楚。②took 23 seconds 译为“要花23秒”，“要”表示所需的时间。③并列连词 and 译为“再由”：“再”体现先录后放的顺序，“由”把 a playback unit 引出为动作的执行者。④第二分句的宾语 it 承前省略；地点状语 on a television 移到动词前，译成“在电视上显示出来”，符合汉语状语在动词前的语序。"
+},
+{
+ "n": 5,
+ "trunk": {
+  "subject": "Kodak's revenues",
+  "predicate": "showed",
+  "object_or_complement": "its dependence on film",
+  "explain": "主谓宾结构，宾语后接同位语 the profitable pillar of its business。谓语 showed 为一般过去时，主动语态，show 在此意为“显示，表明”。"
+ },
+ "components": [
+  {"text": "Kodak's revenues", "role": "主语（名词所有格 Kodak's 作定语）", "zh": "柯达的收入"},
+  {"text": "showed", "role": "谓语", "zh": "显示出"},
+  {"text": "its dependence on film,", "role": "宾语（名词化结构，its 指 Kodak，on film 与 dependence 搭配）", "zh": "公司对胶卷的依赖"},
+  {"text": "the profitable pillar of its business.", "role": "同位语，补充说明 film", "zh": "胶卷是其业务中赚钱的支柱"}
+ ],
+ "structure": "①主干是 Kodak's revenues showed its dependence on film，主谓宾结构。Kodak's 是名词所有格，revenues 用复数，指公司的各项收入。\n②宾语 its dependence on film 由动词短语 depend on 转化而来（视频说明“dependence on…：对……的依赖”）：物主代词 its 相当于动作的发出者（Kodak depended），on film 是依赖的对象。its 回指 Kodak，视频译为“公司”。\n③逗号后的 the profitable pillar of its business 是同位语，补充说明 film（视频说明）：胶卷是柯达业务中赚钱的支柱。同位语中心词是 pillar，profitable 是前置定语，of its business 是后置定语。\n④本句交代背景：柯达的利润主要靠胶卷；下一句说这台相机根本不需要胶卷，两句合起来，点出了这项发明与柯达自身业务之间的矛盾。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "名词化结构：dependence on",
+   "explain": "英语书面语常把动词或形容词转化为名词，把“谁做什么”压缩成一个名词短语，叫名词化。its dependence on film 相当于 it depended on film：物主代词 its 表示动作的发出者，介词 on 保留了原动词 depend on 的搭配。名词化让句子更紧凑、更正式，是考研阅读文章的典型特征。阅读和翻译时，可以把这类名词短语还原成主谓结构来理解，必要时译成小句。常见对应：depend on 对应 dependence on，rely on 对应 reliance on，insist on 对应 insistence on。",
+   "difficult": true,
+   "examples": [
+    {"en": "The region's heavy reliance on tourism left it exposed when visitor numbers collapsed.", "zh": "该地区严重依赖旅游业，游客人数骤降时便难以招架。"},
+    {"en": "The government's insistence on secrecy only deepened public suspicion.", "zh": "政府坚持保密，反而加深了公众的怀疑。"}
+   ]
+  },
+  {
+   "title": "句末同位语补充说明宾语",
+   "explain": "同位语可以紧跟在句末的名词之后，用逗号隔开，对它作进一步说明，常用来下定义、交代背景或作评价。本句 the profitable pillar of its business 说明的是紧挨在前面的 film，而不是整个宾语 its dependence。考研阅读中，句末逗号后与前面某个名词指同一事物的名词短语，常是作者对该名词的界定，是理解段落重点的线索。",
+   "difficult": false,
+   "examples": [
+    {"en": "The town depends heavily on fishing, the main source of local jobs.", "zh": "这座小镇高度依赖渔业，渔业是当地就业的主要来源。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "revenue", "explain": "名词，（企业、政府的）收入，营收，常用复数 revenues 表示各项收入，如 tax revenues（税收收入）、advertising revenues（广告收入）。revenue 指总收入，profit 指扣除成本后的利润，两者不同。本句视频译为“收入”。"},
+  {"term": "dependence on", "explain": "dependence on sth，对某物的依赖，介词用 on，如 dependence on oil（对石油的依赖）、drug dependence（药物依赖）。形容词 dependent 同样接 on：be dependent on sth。反义词 independence 接 from 或 of，如 independence from foreign aid。"},
+  {"term": "film", "explain": "本句 film 指相机用的胶卷、胶片，作不可数名词，如 a roll of film（一卷胶卷）；film 也指电影。"},
+  {"term": "pillar", "explain": "本义是“柱子”，比喻义“支柱，核心部分，中坚”，如 a pillar of the community（社区的中坚人物）、the pillars of the economy（经济的支柱）。本句 the profitable pillar of its business 指胶卷是柯达业务中赚钱的支柱。"},
+  {"term": "profitable", "explain": "形容词，赚钱的，有利可图的，由 profit（利润）加 -able 构成，如 a highly profitable business；名词 profitability（盈利能力）。本句视频译为“赚钱的”。"}
+ ],
+ "translation_tip": "视频译文“柯达的收入显示出公司对胶卷的依赖，胶卷是其业务中赚钱的支柱。”的处理：①名词化结构 its dependence on film 译成“公司对胶卷的依赖”，its 译成名词“公司”，避免“它的”指代不清；介词 on 译成“对……的”。②句末同位语不前置，而是拆成独立分句，重复中心词“胶卷”并加“是”，译成判断句“胶卷是其业务中赚钱的支柱”。③its business 译为“其业务”，用书面语“其”回指柯达。"
+},
+{
+ "n": 6,
+ "trunk": {
+  "subject": "Technical staffers（第一分句）；it（第二分句）",
+  "predicate": "were（第一分句）；needed（第二分句）",
+  "object_or_complement": "appreciative of the camera（第一分句表语）；no film（第二分句宾语）",
+  "explain": "but 连接两个并列分句：第一分句为主系表结构，be appreciative of 意为“对……赞赏”；第二分句为主谓宾结构，否定词 no 放在宾语前。两个谓语都是一般过去时，主动语态。"
+ },
+ "components": [
+  {"text": "Technical staffers", "role": "主语", "zh": "技术员工"},
+  {"text": "were", "role": "系动词", "zh": "（系动词，与 appreciative of 合译为“对……颇为赞赏”）"},
+  {"text": "appreciative of the camera,", "role": "表语（形容词短语，of 引出赞赏的对象）", "zh": "对这台相机颇为赞赏"},
+  {"text": "but", "role": "并列连词，表示转折", "zh": "但"},
+  {"text": "it", "role": "第二分句主语（指这台数码相机）", "zh": "它"},
+  {"text": "needed", "role": "第二分句谓语", "zh": "需要"},
+  {"text": "no film.", "role": "宾语（no 是否定限定词，否定整个分句）", "zh": "不……胶卷"}
+ ],
+ "structure": "①本句是 but 连接的并列句，前后是转折关系。\n②第一分句 Technical staffers were appreciative of the camera 是主系表结构：主语 staffers，系动词 were，表语是形容词短语 appreciative of the camera（视频说明“be appreciative of…：对……赞赏”）。Technical 修饰 staffers，指公司里的技术人员，与下一句的 his superiors at headquarters（他在总部的上司）形成对照。\n③第二分句 it needed no film 是主谓宾结构，it 指这台相机。no 是否定限定词，放在名词前，相当于 not any，意思是“根本不需要胶卷”。\n④but 的转折要结合上一句理解：柯达靠胶卷赚钱，一台不需要胶卷的相机，技术人员觉得好，对公司的胶卷生意却不是好消息。作者没有明说，留给读者从上下文推断。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "be appreciative of sth",
+   "explain": "形容词 appreciative 有两个常用义：“感激的”和“欣赏的，赞赏的”，后接 of 引出对象，be appreciative of sth 相当于 appreciate sth。本句指技术员工欣赏这台相机，视频译为“颇为赞赏”。英语书面语常用“be + 形容词 + 介词”代替动词，如 be aware of、be critical of、be supportive of，语气更正式。易错：动词 appreciate 是及物动词，直接接宾语，不说 appreciate for sth；表示“如果……我将不胜感激”说 I would appreciate it if...，其中的 it 不能省略。",
+   "difficult": true,
+   "examples": [
+    {"en": "Most readers were appreciative of the author's honesty about her early failures.", "zh": "大多数读者赞赏作者坦诚讲述自己早年的失败。"},
+    {"en": "Local residents have been highly critical of the plan to close the hospital.", "zh": "当地居民一直强烈批评关闭这家医院的计划。"}
+   ]
+  },
+  {
+   "title": "no + 名词表示否定",
+   "explain": "no 作限定词放在名词前，意为“没有，一点也不”，相当于 not a 或 not any，如 needed no film = did not need any film。用 no 否定名词，比用 not 否定动词更简洁，语气也更强。no 后可接可数名词单数、复数或不可数名词。译成汉语时，否定词通常从名词前移到动词前，本句译为“不需要胶卷”。考研阅读中，no、none、never 等否定词出现在不同位置，要找准否定的对象。",
+   "difficult": false,
+   "examples": [
+    {"en": "The new policy requires no additional funding from taxpayers.", "zh": "这项新政策不需要纳税人额外出资。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "staffer", "explain": "名词，（机构、组织中的）职员，工作人员，多见于美式英语和新闻语体，如 White House staffers（白宫工作人员）、a campaign staffer（竞选团队成员）。与集合名词 staff 不同，staffer 是可数名词，指一个个员工。本句视频译为“员工”。"},
+  {"term": "technical", "explain": "形容词，技术的，技术方面的，technical staff 指技术人员；technical 还有“专业的”之义，如 technical terms（专业术语）。"},
+  {"term": "the camera", "explain": "定冠词 the 表示特指，指前文萨松造的那台数码相机，视频译为“这台相机”。"}
+ ],
+ "translation_tip": "视频译文“技术员工对这台相机颇为赞赏，但它不需要胶卷。”的处理：①be appreciative of the camera 中，of 引出的对象提到谓语前，译成“对这台相机颇为赞赏”，系动词 were 不单独译出；增补“颇为”表示程度。②the camera 译为“这台相机”，用“这”体现定冠词的特指，并补出量词“台”。③no film 中的否定移到动词上，译成“不需要胶卷”。④but 直接译为“但”，转折背后的含义留给读者结合上下文体会，译文不额外解释。"
+},
+{
+ "n": 7,
+ "trunk": {
+  "subject": "his superiors at headquarters",
+  "predicate": "called and urged",
+  "object_or_complement": "it cute（called 的宾语 + 宾语补足语）；him to keep it hushed（urged 的宾语 + 宾语补足语）",
+  "explain": "一个主语带两个由 and 连接的并列谓语：called it cute 是“call + 宾语 + 形容词宾补”，urged him to keep it hushed 是“urge + 宾语 + 不定式宾补”。两个谓语都是一般过去时，主动语态。"
+ },
+ "components": [
+  {"text": "By Sasson's recollection,", "role": "状语（介词短语，交代说法的来源）", "zh": "据萨松回忆"},
+  {"text": "his superiors", "role": "主语", "zh": "他……的上司"},
+  {"text": "at headquarters", "role": "后置定语（介词短语），修饰 superiors", "zh": "在总部的"},
+  {"text": "called", "role": "谓语一", "zh": "说"},
+  {"text": "it", "role": "宾语（指这台相机）", "zh": "它"},
+  {"text": "cute", "role": "宾语补足语（形容词）", "zh": "挺可爱"},
+  {"text": "and urged", "role": "并列连词 and + 谓语二", "zh": "并敦促"},
+  {"text": "him", "role": "宾语（指萨松）", "zh": "他"},
+  {"text": "to keep it hushed.", "role": "宾语补足语（不定式短语，内部为 keep + 宾语 + 宾补）", "zh": "对此秘而不宣"}
+ ],
+ "structure": "①句首 By Sasson's recollection 是介词短语作状语，交代下面这番话的来源（视频说明“据萨松的回忆，交代说法的来源”）：内容出自萨松本人事后的回忆。by 在这里表示“根据，按照”。\n②主干是 his superiors called it cute and urged him to keep it hushed，一个主语带两个由 and 连接的并列谓语。主语中心词是 superiors，at headquarters 是介词短语作后置定语，修饰 superiors（视频说明），指总部的上司。\n③第一个谓语 called it cute 是“call + 宾语 + 宾语补足语”结构：it 指这台数码相机，形容词 cute 作宾补，是上司对它的评价。\n④第二个谓语 urged him to keep it hushed 是“urge + 宾语 + 不定式”结构，不定式短语 to keep it hushed 作宾语补足语（视频说明“urge sb to do：催促某人做”）。不定式内部又是“keep + 宾语 + 宾补”：it 指这件事，过去分词 hushed 作宾补，keep it hushed 即“让它保持不声张”，也就是保密（视频说明）。\n⑤上司的评价只是“挺可爱”，又要求保密，这一态度与第5句交代的“柯达依赖胶卷”前后照应。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "call + 宾语 + 宾语补足语",
+   "explain": "call 意为“称……为，说……是”时，后接复合宾语：call + 宾语 + 名词/形容词，宾补说明宾语是什么或怎么样。本句 called it cute 中，形容词 cute 作宾补，表示上司对相机的评价，视频译为“说它挺可爱”。同类动词有 consider、find、think、make、keep 等，宾补可以是名词、形容词、分词或不定式。考研阅读中，called sth + 形容词常用来转述别人的评价，要看清评价出自谁：本句是上司的评价，又经萨松的回忆转述。",
+   "difficult": true,
+   "examples": [
+    {"en": "Critics called the plan unrealistic and far too expensive.", "zh": "批评者说这项计划不切实际，而且代价太高。"},
+    {"en": "Several reviewers called the novel a small masterpiece.", "zh": "几位书评人称这部小说是一部小小的杰作。"}
+   ]
+  },
+  {
+   "title": "urge sb to do sth",
+   "explain": "urge 意为“敦促，力劝”，常用结构是 urge sb to do sth，不定式作宾语补足语；也可接 that 从句，从句谓语用（should）+ 动词原形，如 They urged that the vote (should) be delayed。语气比 ask 强，又不像 order 那样是命令，新闻中常用来转述呼吁和劝告。",
+   "difficult": false,
+   "examples": [
+    {"en": "Doctors urged the public to get vaccinated before the winter.", "zh": "医生们敦促公众在入冬前接种疫苗。"}
+   ]
+  },
+  {
+   "title": "keep + 宾语 + 过去分词",
+   "explain": "keep + 宾语 + 宾补表示“使某人或某物保持某种状态”，宾补可以是形容词、现在分词、过去分词或介词短语，如 keep the door open、keep sb waiting、keep sth hidden。宾补用过去分词时，宾语与它是被动关系：keep it hushed 即让这件事一直处于“被压着、不声张”的状态，视频译为“对此秘而不宣”。",
+   "difficult": false,
+   "examples": [
+    {"en": "The company kept the details of the deal hidden from shareholders for months.", "zh": "几个月来，公司一直对股东隐瞒这笔交易的细节。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "by sb's recollection", "explain": "按某人的回忆，相当于 according to sb's recollection，相近的说法有 by his own account（据他自己说）。recollection 是动词 recollect（回忆起）的名词形式，常用短语 to the best of my recollection（就我记忆所及）。这类短语提示读者：所述内容是当事人的说法。"},
+  {"term": "superior", "explain": "作名词意为“上司，上级”，常用复数，与 subordinate（下属）相对；作形容词意为“更好的，更高级的”，后接 to 而不是 than，如 be superior to sth。本句视频译为“上司”。"},
+  {"term": "headquarters", "explain": "名词，总部，以 -s 结尾，作主语时谓语可用单数也可用复数；at headquarters 常不加冠词，指本单位的总部；缩写为 HQ。"},
+  {"term": "hush", "explain": "动词 hush 意为“使安静，使不出声”；短语动词 hush up 意为“掩盖，不让（丑闻等）外传”；形容词 hushed 意为“安静的，压低声音的”，如 a hushed voice（压低的声音）。本句 keep it hushed 指保密，视频译为“秘而不宣”。"},
+  {"term": "cute", "explain": "形容词，可爱的，多形容孩子、小动物或小巧的东西。本句是上司对一台数码相机的评价，视频译为“挺可爱”。"}
+ ],
+ "translation_tip": "视频译文“据萨松回忆，他在总部的上司说它挺可爱，并敦促他对此秘而不宣。”的处理：①By Sasson's recollection 译为“据萨松回忆”，“据”保留了说法的来源。②后置定语 at headquarters 前移，译成“他在总部的上司”。③called it cute 中的 call 译为“说”，宾补 cute 译成“挺可爱”，口吻贴近随口一说的评价。④and 译为“并”；to keep it hushed 中的 it 译为“此”，“对此秘而不宣”用成语表达保密，简洁书面。"
+}
+]

@@ -1,0 +1,1788 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Kodak engineer Steven Sasson",
+   "predicate": "built",
+   "object_or_complement": "the first digital camera",
+   "explain": "主干是 Kodak engineer Steven Sasson built the first digital camera，主谓宾结构。谓语 built 是 build 的过去式，一般过去时，主动语态，叙述1975年发生的一件具体事情。"
+  },
+  "components": [
+   {
+    "text": "In 1975",
+    "role": "时间状语（介词短语）",
+    "zh": "1975年"
+   },
+   {
+    "text": "Kodak engineer Steven Sasson",
+    "role": "主语（职务 + 人名，Kodak engineer 作人名的前置修饰语）",
+    "zh": "柯达工程师史蒂文·萨松"
+   },
+   {
+    "text": "built",
+    "role": "谓语",
+    "zh": "造出了"
+   },
+   {
+    "text": "the first digital camera.",
+    "role": "宾语（序数词 first 前用定冠词 the）",
+    "zh": "第一台数码相机"
+   }
+  ],
+  "structure": "①句首 In 1975 是介词短语作时间状语。年份前用介词 in；句首状语很短时，后面可以不加逗号，新闻和杂志文章中很常见。\n②主语 Kodak engineer Steven Sasson 的中心词是人名 Steven Sasson，前面的 Kodak engineer 交代他的身份（视频说明“职务 + 人名，作主语”）：Kodak 是名词作定语，修饰 engineer，说明是哪家公司的工程师；Kodak engineer 整体放在人名前，前面不加冠词。这是新闻体的常见写法，意思相当于 Steven Sasson, a Kodak engineer。\n③谓语 built 后接宾语 the first digital camera。序数词 first 前用定冠词 the；digital camera 是固定的名词短语，意为“数码相机”。\n④本句是全文的起点：数码相机正是柯达自己的工程师发明的，与标题 The Company That Invented Its Own Killer 呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "身份名词置于人名前（新闻体写法）",
+    "explain": "新闻、杂志英语常把职务、身份或所属机构直接放在人名前，构成“身份 + 人名”的名词短语，身份前不加冠词，如 Kodak engineer Steven Sasson。它与“人名, a/the + 身份”的同位语结构意思相同，但更紧凑，适合在句首交代人物。整个短语的中心词是后面的人名，谓语的单复数看人名。翻译时按汉语习惯译成“柯达工程师史蒂文·萨松”，身份在前、姓名在后。考研阅读中，人物第一次出现常用这种写法，要把整个短语看作一个主语，不要把 engineer 当成独立的主语而把人名当成别的成分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Award-winning journalist Maria Lopez spent two years investigating the company's accounts.",
+      "zh": "获奖记者玛丽亚·洛佩斯花了两年时间调查这家公司的账目。"
+     },
+     {
+      "en": "Local farmer Tom Hughes says the drought has cut his harvest by half.",
+      "zh": "当地农民汤姆·休斯说，干旱让他的收成减少了一半。"
+     }
+    ]
+   },
+   {
+    "title": "序数词前用定冠词 the",
+    "explain": "序数词（first、second、last 等）修饰名词时，前面一般用定冠词 the，表示一个序列中特定的那一个，如 the first digital camera、the second half。如果前面已有物主代词或名词所有格，就不再用 the，如第3句的 Its first rudimentary picture、Kodak's first camera。序数词前用不定冠词 a 时，意思变为“又一个，再一个”，如 a second chance（再一次机会）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She was the first woman in her family to attend university.",
+      "zh": "她是家里第一个上大学的女性。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Kodak",
+    "explain": "柯达公司（Eastman Kodak Company），总部位于美国纽约州罗切斯特（Rochester），由乔治·伊士曼（George Eastman）创立，以胶卷、相机和冲印业务闻名。本句 Kodak 作 engineer 的定语，视频译为“柯达”。"
+   },
+   {
+    "term": "Steven Sasson",
+    "explain": "史蒂文·萨松，美国工程师，1975年在柯达造出第一台数码相机。第18句提到他在2009年获得美国总统授予的国家级荣誉。"
+   },
+   {
+    "term": "digital camera",
+    "explain": "数码相机，把图像转换为数字信号加以存储的相机，与使用胶卷的 film camera（胶片相机）相对。digital 意为“数字的，数码的”，本文第10句的 digital photography（数码摄影）、第11句的 the digital era（数码时代）、第14句的 going digital（转向数码）都用到它。"
+   },
+   {
+    "term": "build (built, built)",
+    "explain": "build 常见义是“建造（房屋、桥梁等）”，也可以指制造、装配机器和设备，如 build a car、build a prototype（造出原型机）。build 是不规则动词，过去式和过去分词都是 built。本句视频译为“造出了”，“出”字体现从无到有。"
+   }
+  ],
+  "translation_tip": "视频译文“1975年，柯达工程师史蒂文·萨松造出了第一台数码相机。”的处理：①句首时间状语 In 1975 照原位置译出，后面加逗号断开；汉语年份直接写“1975年”，介词 in 不译。②“身份 + 人名”的主语按原顺序译成“柯达工程师史蒂文·萨松”，汉语同样把身份放在人名前；人名音译，名与姓之间用间隔号“·”。③built 译成“造出了”，“了”表示动作已经完成，对应英语的一般过去时；camera 前补出量词“台”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "The toaster-sized gadget",
+   "predicate": "was hardly",
+   "object_or_complement": "portable（表语；let alone handheld 承前补充）",
+   "explain": "主系表结构：系动词 was 后接形容词 portable 作表语，否定副词 hardly 放在系动词之后，否定整个表语；let alone handheld 承前省略了 was，是对表语的递进补充。系动词为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The toaster-sized gadget,",
+    "role": "主语（toaster-sized 是复合形容词，作 gadget 的前置定语）",
+    "zh": "这台烤面包机大小的小器械/小装置"
+   },
+   {
+    "text": "a cumbersome heavyweight",
+    "role": "同位语，补充说明 the gadget",
+    "zh": "是个笨重的大块头"
+   },
+   {
+    "text": "of about eight pounds,",
+    "role": "后置定语（介词短语），修饰 heavyweight，说明重量",
+    "zh": "重约八磅"
+   },
+   {
+    "text": "was hardly",
+    "role": "系动词 was + 否定副词 hardly（几乎不）",
+    "zh": "很难说是"
+   },
+   {
+    "text": "portable,",
+    "role": "表语（形容词）",
+    "zh": "便携的"
+   },
+   {
+    "text": "let alone",
+    "role": "固定短语，作连词用，引出程度更进一层的一项",
+    "zh": "更谈不上"
+   },
+   {
+    "text": "handheld.",
+    "role": "表语（形容词，与 portable 平行，承前省略 was）",
+    "zh": "手持"
+   }
+  ],
+  "structure": "①主干是 The toaster-sized gadget was hardly portable：主语 gadget，系动词 was，表语 portable。hardly 是否定副词，意为“几乎不，简直不”（视频说明），放在系动词之后，否定的是表语 portable。\n②主语后两个逗号之间的 a cumbersome heavyweight of about eight pounds 是同位语，补充说明 the gadget（视频说明），与它指同一样东西。同位语中心词是 heavyweight，cumbersome 是前置定语，of about eight pounds 是介词短语作后置定语，of 表示特征，相当于 weighing about eight pounds。阅读时先略去同位语，把主语 gadget 和系动词 was 连起来，主干就清楚了。\n③let alone 意为“更不用说”（视频说明），用在否定句之后，引出比前一项更难成立的情况：连便携都谈不上，手持就更谈不上了。let alone 后的 handheld 与 portable 平行，都作表语，承前省略了 was。\n④toaster-sized 是“名词 + -sized”构成的复合形容词，表示“……大小的”（视频说明），用家里常见的烤面包机作参照，让读者直观感受这台相机的体积。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "let alone：更不用说",
+    "explain": "let alone 意为“更不用说，更谈不上”，一般用在否定句或含否定意义的句子（含 hardly、never、can't、unable 等）之后，引出比前一项更难做到、更不可能的情况。前后两项的词性和结构通常相同，本句 portable 与 handheld 都是形容词作表语。语义上前项弱、后项强：较容易做到的“便携”尚且做不到，更难的“手持”就更不可能。let alone 前多有逗号，后面的部分承前省略，不再重复谓语。考研阅读和完形中，它常与 not to mention、to say nothing of、much less 同义替换；let alone 一般不用于肯定句，肯定句中表示“更何况，还有”可用 not to mention。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many of the villagers could barely afford bread, let alone meat.",
+      "zh": "许多村民连面包都买不起，更不用说肉了。"
+     },
+     {
+      "en": "The baby can't even sit up yet, let alone walk.",
+      "zh": "宝宝连坐都还坐不起来，更别说走路了。"
+     }
+    ]
+   },
+   {
+    "title": "同位语插在主语和谓语之间",
+    "explain": "同位语对名词作补充说明，与它指同一对象，常放在名词之后、用逗号隔开。同位语插在主语和谓语之间时，主语与谓语被隔开，长难句里要先略去两个逗号之间的内容，找到真正的谓语。本句 a cumbersome heavyweight of about eight pounds 说明 the gadget，句子的谓语是其后的 was。谓语的单复数由主语决定，与同位语无关。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum, a former power station on the river, attracts millions of visitors a year.",
+      "zh": "这座博物馆原是河边的一座发电厂，每年吸引数百万游客。"
+     },
+     {
+      "en": "Her latest book, a collection of essays on rural life, has already been translated into twelve languages.",
+      "zh": "她的新书是一部描写乡村生活的散文集，已被译成十二种语言。"
+     }
+    ]
+   },
+   {
+    "title": "否定副词 hardly",
+    "explain": "hardly 是否定副词，意为“几乎不，简直不”，本身带否定意义，句中不能再加 not，也不与 no、never 连用；它通常放在 be 动词、助动词之后，实义动词之前。hardly 与 hard 的副词用法意思不同：work hard 是“努力工作”，hardly work 是“几乎不工作”。含 hardly 的句子后接反意疑问句时用肯定形式，如 He hardly knows her, does he? hardly 放在句首时句子要部分倒装，如 Hardly had he arrived when it began to rain。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The instructions were so vague that they were hardly any help.",
+      "zh": "说明写得含糊不清，几乎帮不上任何忙。"
+     }
+    ]
+   },
+   {
+    "title": "“名词 + -sized”构成复合形容词",
+    "explain": "“名词 + -sized”表示“……大小的”，作前置定语时用连字符连接，如 pocket-sized（袖珍的）、bite-sized（一口大小的）、medium-sized（中等大小的）。本句 toaster-sized 用人人见过的烤面包机作参照，比直接给出尺寸更形象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company sells bite-sized snacks aimed at busy office workers.",
+      "zh": "这家公司出售一口大小的小零食，面向忙碌的上班族。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gadget",
+    "explain": "名词，小器械、小装置、小玩意，多指新奇、巧妙的小型机械或电子设备，如 kitchen gadgets（厨房小工具）、the latest gadgets（最新的电子产品）。本句指萨松造的那台数码相机，视频译为“小器械/小装置”。"
+   },
+   {
+    "term": "heavyweight",
+    "explain": "本义指比一般人或物重的人或物，后用作拳击、摔跤等运动中的重量级选手，也比喻大人物、有影响力的人或机构，如 a political heavyweight（政界要人）。本句用的是字面义“很重的东西”，视频译为“大块头”。"
+   },
+   {
+    "term": "about eight pounds",
+    "explain": "pound 是英美常用的重量单位“磅”，1磅约合0.45千克，八磅约合3.6千克；about 用在数字前表示“大约”。pound 还是英国货币单位“英镑”，要根据语境区分。"
+   },
+   {
+    "term": "portable 与 handheld",
+    "explain": "portable 意为“便于携带的”，能拿着走即可；handheld 意为“手持的”，要求小到能拿在手里使用，要求比 portable 更高，所以用 let alone 引出 handheld。handheld 作名词时指掌上设备。"
+   },
+   {
+    "term": "cumbersome",
+    "explain": "形容词，笨重的，不便携带的；也指（程序、制度）繁琐的、低效的，如 cumbersome procedures（繁琐的手续）。本句视频译为“笨重的”。"
+   }
+  ],
+  "translation_tip": "视频译文“这台烤面包机大小的小器械/小装置，是个笨重的大块头，重约八磅，很难说是便携的，更谈不上手持。”的处理：①The 译成“这台”，补出量词。②同位语 a cumbersome heavyweight 不前置，加“是个”译成判断短句“是个笨重的大块头”，顺着英文语序补充说明主语。③后置定语 of about eight pounds 单独译成短句“重约八磅”，避免定语过长。④was hardly 译为“很难说是”，比“不是”委婉，保留了 hardly 的分寸；let alone 译为“更谈不上”，其后承前省略的 handheld 译为“手持”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Its first rudimentary picture",
+   "predicate": "held",
+   "object_or_complement": "10,000 black-and-white pixels",
+   "explain": "主谓宾结构。held 是 hold 的过去式，这里意为“容纳，包含”，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Its first rudimentary picture",
+    "role": "主语（Its 指上句的 gadget，即那台数码相机）",
+    "zh": "它拍下的第一张粗糙的照片"
+   },
+   {
+    "text": "held",
+    "role": "谓语（hold 意为“容纳，包含”）",
+    "zh": "只有"
+   },
+   {
+    "text": "10,000 black-and-white pixels.",
+    "role": "宾语（black-and-white 是复合形容词，作 pixels 的前置定语）",
+    "zh": "1万个黑白像素"
+   }
+  ],
+  "structure": "①本句是简单的主谓宾结构：主语 Its first rudimentary picture，谓语 held，宾语 10,000 black-and-white pixels。\n②主语中心词 picture 前有三个修饰语：物主代词 Its（限定词）、序数词 first、描述性形容词 rudimentary，顺序是“限定词 + 序数词 + 描述性形容词 + 名词”。Its 回指上句的 The toaster-sized gadget，即这台数码相机。\n③held 不是“握住”，而是“容纳，包含”，hold 的这一义项常用于容器、场地、存储设备，如 The hall holds 500 people。\n④宾语中 black-and-white 是三个词用连字符连成的复合形容词，作 pixels 的前置定语。视频说明指出1万像素即 100×100，用具体数字突出这张照片的粗糙。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有多个修饰语时，一般按“限定词（冠词、物主代词、指示代词等） + 序数词 + 基数词 + 描述性形容词 + 名词”的顺序排列，如 the first three days、my last two weeks。本句 Its first rudimentary picture 中，Its 是限定词，first 是序数词，rudimentary 是描述性形容词，顺序不能颠倒，写成 rudimentary first picture 就不地道。序数词通常在基数词之前，如 the first two chapters，不说 the two first chapters。考研写作中多个定语连用时，可以按这一顺序检查。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first two chapters of the book deal with the author's childhood.",
+      "zh": "这本书的前两章讲的是作者的童年。"
+     },
+     {
+      "en": "Her first serious attempt at a novel was rejected by every publisher she approached.",
+      "zh": "她第一次认真尝试写的小说遭到了她联系的每一家出版社的拒绝。"
+     }
+    ]
+   },
+   {
+    "title": "用连字符连成的复合形容词",
+    "explain": "几个词用连字符连成一个整体，放在名词前作定语，叫复合形容词，如 black-and-white（黑白的）、state-of-the-art（最先进的）、up-to-date（最新的）。作前置定语时要加连字符；放在系动词后作表语时一般不加，如 The photos are black and white。本句 black-and-white pixels 意为“黑白像素”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum's collection includes hundreds of black-and-white photographs from the 1930s.",
+      "zh": "这家博物馆的藏品中有数百张20世纪30年代的黑白照片。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hold",
+    "explain": "熟词僻义：hold 常见义是“拿着，握住”，本句意为“容纳，包含”，主语多为容器、场所或存储介质，如 The stadium holds 60,000 people、The disk can hold two gigabytes of data。视频把 held 译为“只有”，突出数量少。"
+   },
+   {
+    "term": "rudimentary",
+    "explain": "形容词，意为“基本的，初步的；简陋的，粗糙的”，如 rudimentary knowledge（粗浅的知识）、rudimentary equipment（简陋的设备）。本句形容这张照片还很粗糙，视频译为“粗糙的”。名词 rudiments 意为“基础知识，基本原理”。"
+   },
+   {
+    "term": "pixel",
+    "explain": "像素，数字图像的最小单元，由 picture 的口语简写 pix 和 element 合成。1万像素即宽、高各100个像素（视频说明“即 100×100”）；如今的数码相机和手机摄像头通常以百万像素（megapixel）计，对比之下更显出这张照片的粗糙。"
+   },
+   {
+    "term": "Its 与 it's",
+    "explain": "Its 是 it 的物主代词，回指上句的 the gadget；it's 是 it is 或 it has 的缩写。两者混用是英语写作中的高频拼写错误。"
+   }
+  ],
+  "translation_tip": "视频译文“它拍下的第一张粗糙的照片，只有1万个黑白像素。”的处理：①Its first picture 译成“它拍下的第一张……照片”，增补动词“拍下”，交代照片与相机的关系，比“它的第一张照片”更清楚；picture 前补出量词“张”。②held 不直译为“容纳了”，译为“只有”，点出像素数量之少，与 rudimentary 呼应。③10,000 换算成汉语习惯的“1万”，补出量词“个”；长主语后加逗号，与谓语断开。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Recording it on a cassette（第一分句）；a playback unit（第二分句）",
+   "predicate": "took（第一分句）；showed（第二分句）",
+   "object_or_complement": "23 seconds（took 的宾语）；it（showed 的宾语）",
+   "explain": "and 连接两个并列分句。第一分句是“动名词短语作主语 + take + 时间”的结构，第二分句是主谓宾结构，showed 后有地点状语 on a television。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Recording it on a cassette",
+    "role": "主语（动名词短语；it 指上句的照片，on a cassette 作地点状语）",
+    "zh": "把照片录到盒式磁带上"
+   },
+   {
+    "text": "took",
+    "role": "谓语（take + 时间，表示“花费”）",
+    "zh": "要花"
+   },
+   {
+    "text": "23 seconds,",
+    "role": "宾语",
+    "zh": "23秒"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句，表示先后",
+    "zh": "再由"
+   },
+   {
+    "text": "a playback unit",
+    "role": "第二分句主语",
+    "zh": "一台回放装置"
+   },
+   {
+    "text": "showed",
+    "role": "第二分句谓语",
+    "zh": "显示出来"
+   },
+   {
+    "text": "it",
+    "role": "宾语（仍指照片）",
+    "zh": "（宾语，指照片，译文承前省略）"
+   },
+   {
+    "text": "on a television.",
+    "role": "地点状语（介词短语）",
+    "zh": "在电视上"
+   }
+  ],
+  "structure": "①本句是 and 连接的并列句，两个分句按时间顺序叙述：先录制，再回放。and 前有逗号，因为它连接的是两个完整的分句。\n②第一分句的主语是动名词短语 Recording it on a cassette（视频说明“动名词短语作主语”）：Recording 是动名词，it 是它的宾语，回指上句的 picture，on a cassette 是地点状语，说明录到哪里。谓语 took 后接时间 23 seconds，构成“sth takes + 时间”，表示做某事花多长时间。动名词短语作主语时谓语用单数，本句 took 是过去式，看不出单复数，换成现在时应说 Recording it takes...。\n③第二分句是主谓宾结构：主语 a playback unit，谓语 showed，宾语 it，on a television 是地点状语。playback 是名词作定语，修饰 unit，playback unit 即“回放装置”（视频说明）。\n④两个分句中的 it 都指第3句的 picture，指代对象不变。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动名词短语作主语",
+    "explain": "动名词（v-ing）及其短语可以像名词一样作主语，表示一件事或一种行为，谓语动词用单数。动名词作主语时可以带自己的宾语和状语，本句 Recording it on a cassette 中，it 是 recording 的宾语，on a cassette 是状语。主语较长时也常用形式主语 it，把真正的主语后置：It took 23 seconds to record it on a cassette。考研阅读中，句首的 v-ing 结构要分清是动名词作主语还是分词作状语：后面直接接谓语、中间没有逗号的，多为动名词作主语；后面有逗号、再接完整句子的，多为分词作状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Learning a new language as an adult requires patience and regular practice.",
+      "zh": "成年后学一门新语言需要耐心和经常练习。"
+     },
+     {
+      "en": "Replacing the old water pipes cost the city more than two million dollars.",
+      "zh": "更换旧水管花了这座城市两百多万美元。"
+     }
+    ]
+   },
+   {
+    "title": "take、spend、cost 表示“花费”",
+    "explain": "表示“做某事花费多长时间”，take 有三种常见结构：It takes (sb) + 时间 + to do sth；doing sth takes + 时间；sth takes + 时间。本句属于第二种。spend 的主语必须是人：sb spends + 时间/金钱 + (in) doing sth 或 on sth；cost 的主语是物或事，多指花钱，也可指付出代价。考研写作中这三个词的主语和结构常被用错，如不能说 The work spent me two hours。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It took the engineers three years to design a safer braking system.",
+      "zh": "工程师们花了三年时间设计出一套更安全的制动系统。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cassette",
+    "explain": "盒式磁带，把磁带封装在小塑料盒里的录音、录像或数据存储介质，如 a cassette recorder（盒式录音机）。本句指萨松的相机把图像数据录在盒式磁带上，视频译为“盒式磁带”。"
+   },
+   {
+    "term": "playback unit",
+    "explain": "playback 是由动词短语 play back（回放，重放）构成的名词，意为“回放”；unit 在这里指一台装置、一个部件。playback unit 视频译为“回放装置”。"
+   },
+   {
+    "term": "on a television 与 on television",
+    "explain": "television 既指电视机，也指电视节目或电视行业。本句 on a television 指在一台电视机上显示，所以带不定冠词 a；表示节目“在电视上播出”时说 on television，不加冠词，如 The match will be shown on television。"
+   },
+   {
+    "term": "23 seconds",
+    "explain": "录一张照片要23秒，与第3句的1万像素一起，说明这台原型机的速度和画质都还很原始。"
+   }
+  ],
+  "translation_tip": "视频译文“把照片录到盒式磁带上要花23秒，再由一台回放装置在电视上显示出来。”的处理：①动名词短语主语 Recording it on a cassette 用“把”字结构译出，并把代词 it 译成名词“照片”，指代更清楚。②took 23 seconds 译为“要花23秒”，“要”表示所需的时间。③并列连词 and 译为“再由”：“再”体现先录后放的顺序，“由”把 a playback unit 引出为动作的执行者。④第二分句的宾语 it 承前省略；地点状语 on a television 移到动词前，译成“在电视上显示出来”，符合汉语状语在动词前的语序。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Kodak's revenues",
+   "predicate": "showed",
+   "object_or_complement": "its dependence on film",
+   "explain": "主谓宾结构，宾语后接同位语 the profitable pillar of its business。谓语 showed 为一般过去时，主动语态，show 在此意为“显示，表明”。"
+  },
+  "components": [
+   {
+    "text": "Kodak's revenues",
+    "role": "主语（名词所有格 Kodak's 作定语）",
+    "zh": "柯达的收入"
+   },
+   {
+    "text": "showed",
+    "role": "谓语",
+    "zh": "显示出"
+   },
+   {
+    "text": "its dependence on film,",
+    "role": "宾语（名词化结构，its 指 Kodak，on film 与 dependence 搭配）",
+    "zh": "公司对胶卷的依赖"
+   },
+   {
+    "text": "the profitable pillar of its business.",
+    "role": "同位语，补充说明 film",
+    "zh": "胶卷是其业务中赚钱的支柱"
+   }
+  ],
+  "structure": "①主干是 Kodak's revenues showed its dependence on film，主谓宾结构。Kodak's 是名词所有格，revenues 用复数，指公司的各项收入。\n②宾语 its dependence on film 由动词短语 depend on 转化而来（视频说明“dependence on…：对……的依赖”）：物主代词 its 相当于动作的发出者（Kodak depended），on film 是依赖的对象。its 回指 Kodak，视频译为“公司”。\n③逗号后的 the profitable pillar of its business 是同位语，补充说明 film（视频说明）：胶卷是柯达业务中赚钱的支柱。同位语中心词是 pillar，profitable 是前置定语，of its business 是后置定语。\n④本句交代背景：柯达的利润主要靠胶卷；下一句说这台相机根本不需要胶卷，两句合起来，点出了这项发明与柯达自身业务之间的矛盾。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词化结构：dependence on",
+    "explain": "英语书面语常把动词或形容词转化为名词，把“谁做什么”压缩成一个名词短语，叫名词化。its dependence on film 相当于 it depended on film：物主代词 its 表示动作的发出者，介词 on 保留了原动词 depend on 的搭配。名词化让句子更紧凑、更正式，是考研阅读文章的典型特征。阅读和翻译时，可以把这类名词短语还原成主谓结构来理解，必要时译成小句。常见对应：depend on 对应 dependence on，rely on 对应 reliance on，insist on 对应 insistence on。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The region's heavy reliance on tourism left it exposed when visitor numbers collapsed.",
+      "zh": "该地区严重依赖旅游业，游客人数骤降时便难以招架。"
+     },
+     {
+      "en": "The government's insistence on secrecy only deepened public suspicion.",
+      "zh": "政府坚持保密，反而加深了公众的怀疑。"
+     }
+    ]
+   },
+   {
+    "title": "句末同位语补充说明宾语",
+    "explain": "同位语可以紧跟在句末的名词之后，用逗号隔开，对它作进一步说明，常用来下定义、交代背景或作评价。本句 the profitable pillar of its business 说明的是紧挨在前面的 film，而不是整个宾语 its dependence。考研阅读中，句末逗号后与前面某个名词指同一事物的名词短语，常是作者对该名词的界定，是理解段落重点的线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town depends heavily on fishing, the main source of local jobs.",
+      "zh": "这座小镇高度依赖渔业，渔业是当地就业的主要来源。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "revenue",
+    "explain": "名词，（企业、政府的）收入，营收，常用复数 revenues 表示各项收入，如 tax revenues（税收收入）、advertising revenues（广告收入）。revenue 指总收入，profit 指扣除成本后的利润，两者不同。本句视频译为“收入”。"
+   },
+   {
+    "term": "dependence on",
+    "explain": "dependence on sth，对某物的依赖，介词用 on，如 dependence on oil（对石油的依赖）、drug dependence（药物依赖）。形容词 dependent 同样接 on：be dependent on sth。反义词 independence 一般接 from，如 independence from foreign aid；形容词 independent 则接 of，如 be independent of sb。"
+   },
+   {
+    "term": "film",
+    "explain": "本句 film 指相机用的胶卷、胶片，作不可数名词，如 a roll of film（一卷胶卷）；film 也指电影。"
+   },
+   {
+    "term": "pillar",
+    "explain": "本义是“柱子”，比喻义“支柱，核心部分，中坚”，如 a pillar of the community（社区的中坚人物）、the pillars of the economy（经济的支柱）。本句 the profitable pillar of its business 指胶卷是柯达业务中赚钱的支柱。"
+   },
+   {
+    "term": "profitable",
+    "explain": "形容词，赚钱的，有利可图的，由 profit（利润）加 -able 构成，如 a highly profitable business；名词 profitability（盈利能力）。本句视频译为“赚钱的”。"
+   }
+  ],
+  "translation_tip": "视频译文“柯达的收入显示出公司对胶卷的依赖，胶卷是其业务中赚钱的支柱。”的处理：①名词化结构 its dependence on film 译成“公司对胶卷的依赖”，its 译成名词“公司”，避免“它的”指代不清；介词 on 译成“对……的”。②句末同位语不前置，而是拆成独立分句，重复中心词“胶卷”并加“是”，译成判断句“胶卷是其业务中赚钱的支柱”。③its business 译为“其业务”，用书面语“其”回指柯达。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Technical staffers（第一分句）；it（第二分句）",
+   "predicate": "were（第一分句）；needed（第二分句）",
+   "object_or_complement": "appreciative of the camera（第一分句表语）；no film（第二分句宾语）",
+   "explain": "but 连接两个并列分句：第一分句为主系表结构，be appreciative of 意为“对……赞赏”；第二分句为主谓宾结构，否定词 no 放在宾语前。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Technical staffers",
+    "role": "主语",
+    "zh": "技术员工"
+   },
+   {
+    "text": "were",
+    "role": "系动词",
+    "zh": "（系动词，与 appreciative of 合译为“对……颇为赞赏”）"
+   },
+   {
+    "text": "appreciative of the camera,",
+    "role": "表语（形容词短语，of 引出赞赏的对象）",
+    "zh": "对这台相机颇为赞赏"
+   },
+   {
+    "text": "but",
+    "role": "并列连词，表示转折",
+    "zh": "但"
+   },
+   {
+    "text": "it",
+    "role": "第二分句主语（指这台数码相机）",
+    "zh": "它"
+   },
+   {
+    "text": "needed",
+    "role": "第二分句谓语",
+    "zh": "需要"
+   },
+   {
+    "text": "no film.",
+    "role": "宾语（no 是否定限定词，否定整个分句）",
+    "zh": "不……胶卷"
+   }
+  ],
+  "structure": "①本句是 but 连接的并列句，前后是转折关系。\n②第一分句 Technical staffers were appreciative of the camera 是主系表结构：主语 staffers，系动词 were，表语是形容词短语 appreciative of the camera（视频说明“be appreciative of…：对……赞赏”）。Technical 修饰 staffers，指公司里的技术人员，与下一句的 his superiors at headquarters（他在总部的上司）形成对照。\n③第二分句 it needed no film 是主谓宾结构，it 指这台相机。no 是否定限定词，放在名词前，相当于 not any，意思是“根本不需要胶卷”。\n④but 的转折要结合上一句理解：柯达靠胶卷赚钱，一台不需要胶卷的相机，技术人员觉得好，对公司的胶卷生意却不是好消息。作者没有明说，留给读者从上下文推断。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be appreciative of sth",
+    "explain": "形容词 appreciative 有两个常用义：“感激的”和“欣赏的，赞赏的”，后接 of 引出对象，be appreciative of sth 相当于 appreciate sth。本句指技术员工欣赏这台相机，视频译为“颇为赞赏”。英语书面语常用“be + 形容词 + 介词”代替动词，如 be aware of、be critical of、be supportive of，语气更正式。易错：动词 appreciate 是及物动词，直接接宾语，不说 appreciate for sth；表示“如果……我将不胜感激”说 I would appreciate it if...，其中的 it 不能省略。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Most readers were appreciative of the author's honesty about her early failures.",
+      "zh": "大多数读者赞赏作者坦诚讲述自己早年的失败。"
+     },
+     {
+      "en": "Local residents have been highly critical of the plan to close the hospital.",
+      "zh": "当地居民一直强烈批评关闭这家医院的计划。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词表示否定",
+    "explain": "no 作限定词放在名词前，意为“没有，一点也不”，相当于 not a 或 not any，如 needed no film = did not need any film。用 no 否定名词，比用 not 否定动词更简洁，语气也更强。no 后可接可数名词单数、复数或不可数名词。译成汉语时，否定词通常从名词前移到动词前，本句译为“不需要胶卷”。考研阅读中，no、none、never 等否定词出现在不同位置，要找准否定的对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new policy requires no additional funding from taxpayers.",
+      "zh": "这项新政策不需要纳税人额外出资。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "staffer",
+    "explain": "名词，（机构、组织中的）职员，工作人员，多见于美式英语和新闻语体，如 White House staffers（白宫工作人员）、a campaign staffer（竞选团队成员）。与集合名词 staff 不同，staffer 是可数名词，指一个个员工。本句视频译为“员工”。"
+   },
+   {
+    "term": "technical",
+    "explain": "形容词，技术的，技术方面的，technical staff 指技术人员；technical 还有“专业的”之义，如 technical terms（专业术语）。"
+   },
+   {
+    "term": "the camera",
+    "explain": "定冠词 the 表示特指，指前文萨松造的那台数码相机，视频译为“这台相机”。"
+   }
+  ],
+  "translation_tip": "视频译文“技术员工对这台相机颇为赞赏，但它不需要胶卷。”的处理：①be appreciative of the camera 中，of 引出的对象提到谓语前，译成“对这台相机颇为赞赏”，系动词 were 不单独译出；增补“颇为”表示程度。②the camera 译为“这台相机”，用“这”体现定冠词的特指，并补出量词“台”。③no film 中的否定移到动词上，译成“不需要胶卷”。④but 直接译为“但”，转折背后的含义留给读者结合上下文体会，译文不额外解释。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "his superiors at headquarters",
+   "predicate": "called and urged",
+   "object_or_complement": "it cute（called 的宾语 + 宾语补足语）；him to keep it hushed（urged 的宾语 + 宾语补足语）",
+   "explain": "一个主语带两个由 and 连接的并列谓语：called it cute 是“call + 宾语 + 形容词宾补”，urged him to keep it hushed 是“urge + 宾语 + 不定式宾补”。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "By Sasson's recollection,",
+    "role": "状语（介词短语，交代说法的来源）",
+    "zh": "据萨松回忆"
+   },
+   {
+    "text": "his superiors",
+    "role": "主语",
+    "zh": "他……的上司"
+   },
+   {
+    "text": "at headquarters",
+    "role": "后置定语（介词短语），修饰 superiors",
+    "zh": "在总部的"
+   },
+   {
+    "text": "called",
+    "role": "谓语一",
+    "zh": "说"
+   },
+   {
+    "text": "it",
+    "role": "宾语（指这台相机）",
+    "zh": "它"
+   },
+   {
+    "text": "cute",
+    "role": "宾语补足语（形容词）",
+    "zh": "挺可爱"
+   },
+   {
+    "text": "and urged",
+    "role": "并列连词 and + 谓语二",
+    "zh": "并敦促"
+   },
+   {
+    "text": "him",
+    "role": "宾语（指萨松）",
+    "zh": "他"
+   },
+   {
+    "text": "to keep it hushed.",
+    "role": "宾语补足语（不定式短语，内部为 keep + 宾语 + 宾补）",
+    "zh": "对此秘而不宣"
+   }
+  ],
+  "structure": "①句首 By Sasson's recollection 是介词短语作状语，交代下面这番话的来源（视频说明“据萨松的回忆，交代说法的来源”）：内容出自萨松本人事后的回忆。by 在这里表示“根据，按照”。\n②主干是 his superiors called it cute and urged him to keep it hushed，一个主语带两个由 and 连接的并列谓语。主语中心词是 superiors，at headquarters 是介词短语作后置定语，修饰 superiors（视频说明），指总部的上司。\n③第一个谓语 called it cute 是“call + 宾语 + 宾语补足语”结构：it 指这台数码相机，形容词 cute 作宾补，是上司对它的评价。\n④第二个谓语 urged him to keep it hushed 是“urge + 宾语 + 不定式”结构，不定式短语 to keep it hushed 作宾语补足语（视频说明“urge sb to do：催促某人做”）。不定式内部又是“keep + 宾语 + 宾补”：it 指这件事，过去分词 hushed 作宾补，keep it hushed 即“让它保持不声张”，也就是保密（视频说明）。\n⑤上司的评价只是“挺可爱”，又要求保密，这一态度与第5句交代的“柯达依赖胶卷”前后照应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "call + 宾语 + 宾语补足语",
+    "explain": "call 意为“称……为，说……是”时，后接复合宾语：call + 宾语 + 名词/形容词，宾补说明宾语是什么或怎么样。本句 called it cute 中，形容词 cute 作宾补，表示上司对相机的评价，视频译为“说它挺可爱”。同类动词有 consider、find、think、make、keep 等，宾补可以是名词、形容词、分词或不定式。考研阅读中，called sth + 形容词常用来转述别人的评价，要看清评价出自谁：本句是上司的评价，又经萨松的回忆转述。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Critics called the plan unrealistic and far too expensive.",
+      "zh": "批评者说这项计划不切实际，而且代价太高。"
+     },
+     {
+      "en": "Several reviewers called the novel a small masterpiece.",
+      "zh": "几位书评人称这部小说是一部小小的杰作。"
+     }
+    ]
+   },
+   {
+    "title": "urge sb to do sth",
+    "explain": "urge 意为“敦促，力劝”，常用结构是 urge sb to do sth，不定式作宾语补足语；也可接 that 从句，从句谓语用（should）+ 动词原形，如 They urged that the vote (should) be delayed。语气比 ask 强，又不像 order 那样是命令，新闻中常用来转述呼吁和劝告。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Doctors urged the public to get vaccinated before the winter.",
+      "zh": "医生们敦促公众在入冬前接种疫苗。"
+     }
+    ]
+   },
+   {
+    "title": "keep + 宾语 + 过去分词",
+    "explain": "keep + 宾语 + 宾补表示“使某人或某物保持某种状态”，宾补可以是形容词、现在分词、过去分词或介词短语，如 keep the door open、keep sb waiting、keep sth hidden。宾补用过去分词时，宾语与它是被动关系：keep it hushed 即让这件事一直处于“被压着、不声张”的状态，视频译为“对此秘而不宣”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company kept the details of the deal hidden from shareholders for months.",
+      "zh": "几个月来，公司一直对股东隐瞒这笔交易的细节。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "by sb's recollection",
+    "explain": "按某人的回忆，相当于 according to sb's recollection，相近的说法有 by his own account（据他自己说）。recollection 是动词 recollect（回忆起）的名词形式，常用短语 to the best of my recollection（就我记忆所及）。这类短语提示读者：所述内容是当事人的说法。"
+   },
+   {
+    "term": "superior",
+    "explain": "作名词意为“上司，上级”，常用复数，与 subordinate（下属）相对；作形容词意为“更好的，更高级的”，后接 to 而不是 than，如 be superior to sth。本句视频译为“上司”。"
+   },
+   {
+    "term": "headquarters",
+    "explain": "名词，总部，以 -s 结尾，作主语时谓语可用单数也可用复数；at headquarters 常不加冠词，指本单位的总部；缩写为 HQ。"
+   },
+   {
+    "term": "hush",
+    "explain": "动词 hush 意为“使安静，使不出声”；短语动词 hush up 意为“掩盖，不让（丑闻等）外传”；形容词 hushed 意为“安静的，压低声音的”，如 a hushed voice（压低的声音）。本句 keep it hushed 指保密，视频译为“秘而不宣”。"
+   },
+   {
+    "term": "cute",
+    "explain": "形容词，可爱的，多形容孩子、小动物或小巧的东西。本句是上司对一台数码相机的评价，视频译为“挺可爱”。"
+   }
+  ],
+  "translation_tip": "视频译文“据萨松回忆，他在总部的上司说它挺可爱，并敦促他对此秘而不宣。”的处理：①By Sasson's recollection 译为“据萨松回忆”，“据”保留了说法的来源。②后置定语 at headquarters 前移，译成“他在总部的上司”。③called it cute 中的 call 译为“说”，宾补 cute 译成“挺可爱”，口吻贴近随口一说的评价。④and 译为“并”；to keep it hushed 中的 it 译为“此”，“对此秘而不宣”用成语表达保密，简洁书面。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "A patent",
+   "predicate": "followed",
+   "object_or_complement": "",
+   "explain": "主谓结构，follow 在此是不及物动词，意为“随后到来，接着发生”，后接时间状语 in 1978。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A patent",
+    "role": "主语",
+    "zh": "专利"
+   },
+   {
+    "text": "followed",
+    "role": "谓语（不及物动词 follow，表示随后到来；译文换用“这台相机”作主语，译为“获得”）",
+    "zh": "获得"
+   },
+   {
+    "text": "in 1978.",
+    "role": "时间状语（介词短语）",
+    "zh": "1978年"
+   }
+  ],
+  "structure": "①本句是最简单的主谓结构：主语 A patent，谓语 followed，in 1978 作时间状语。\n②follow 常作及物动词，意为“跟随，遵循”；本句不带宾语，是不及物用法，意为“（在某事之后）随之而来”。跟随的对象承上文省略：萨松造出相机之后，专利随之而来（视频说明“A patent followed：随后获得了专利”）。\n③主语 A patent 用不定冠词，表示第一次提到的一项专利。\n④本句与下一句 Production never did. 是一组短句对照：句式相同，长度相近，一个肯定、一个否定，突出“有专利、没投产”的反差。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "follow 的不及物用法",
+    "explain": "follow 作不及物动词时，意为“接着发生，随之而来”，主语是随后出现的事物，常见说法有 sth followed（某事随之而来）、in the years that followed（在随后几年里）、as follows（如下）。本句 A patent followed in 1978 即“1978年，专利随之而来”。考研阅读中，in the decades that followed、the following year 等表达交代时间先后，要据此理顺事件顺序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister resigned in March, and a general election followed in June.",
+      "zh": "部长于三月辞职，随后在六月举行了大选。"
+     },
+     {
+      "en": "In the years that followed, the town slowly recovered from the flood.",
+      "zh": "在随后的几年里，小镇慢慢从洪灾中恢复过来。"
+     }
+    ]
+   },
+   {
+    "title": "短句对照的修辞效果",
+    "explain": "新闻和评论文章有时在较长的句子之后接连使用极短的句子，形成对照或转折，制造节奏上的停顿。本句与下一句结构相同：A patent followed. Production never did. 后一句承前省略了动词，用 never 与前一句形成肯定与否定的对比。考研阅读中，这类短句往往承载作者要强调的信息，常是段落的落脚点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The promises were made. The money never arrived.",
+      "zh": "承诺许下了，钱却始终没到。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "patent",
+    "explain": "名词，专利，如 apply for a patent（申请专利）、take out a patent on sth（取得某物的专利）、patent infringement（专利侵权）；也可作动词，意为“取得……的专利权”。专利赋予发明人在一定期限内对发明的独占权。本句视频译为“专利”。"
+   },
+   {
+    "term": "1975 与 1978",
+    "explain": "第1句说相机造于1975年，本句说专利在1978年获得，下一句则说生产始终没有跟进。"
+   }
+  ],
+  "translation_tip": "视频译文“1978年，这台相机获得专利，”的处理：①时间状语 in 1978 从句末提到句首，符合汉语时间状语在前的习惯。②英文以 A patent 作主语、follow 作谓语，直译成“一项专利随之而来”不自然，视频转换了主语，以“这台相机”作主语，把 followed 译成“获得”，意思更清楚。③句末用逗号而不用句号，与下一句连成一个汉语长句，体现两句之间的转折。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Production",
+   "predicate": "never did",
+   "object_or_complement": "",
+   "explain": "主谓结构。did 是助动词，后面省略了 follow（视频说明），never did 相当于 never followed。一般过去时，主动语态；never 是否定副词。"
+  },
+  "components": [
+   {
+    "text": "Production",
+    "role": "主语",
+    "zh": "生产部门"
+   },
+   {
+    "text": "never did.",
+    "role": "谓语（否定副词 never + 助动词 did，did 后承前省略 follow）",
+    "zh": "却从未这样做过（跟进）"
+   }
+  ],
+  "structure": "①本句只有两个成分：主语 Production，谓语 never did。\n②did 是助动词，后面省略了与上句相同的动词 follow（视频说明“never did：省略了 follow”），完整形式是 Production never did follow，意思相当于 Production never followed。英语为避免重复，常用助动词 do、does、did 代替前文的谓语动词，只保留新信息 never。\n③上句 A patent followed 是肯定，本句 never did 是否定，两句结构相同，形成强烈对照：专利随之而来，生产却从未跟进。\n④视频把 Production 译为“生产部门”，并增补“却”字，把两句之间的转折关系表达出来。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "助动词代替前文的谓语动词",
+    "explain": "为避免重复，英语常用助动词 do、does、did（或 have、can、will 等）代替前文已出现的谓语，后面的动词承前省略。这种省略在对比、并列、比较结构中十分常见，如 She likes coffee, and so does he、He left early, but I didn't。本句 Production never did 中，did 代替上句的 followed。阅读时要回到前文找出被省略的动词，补全意思；翻译时要把省略的内容译出来，视频用“这样做过（跟进）”补全了意思。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many people predicted the bridge would collapse, but it never did.",
+      "zh": "许多人预言这座桥会倒塌，但它始终没有倒。"
+     },
+     {
+      "en": "The company promised to cut prices, and eventually it did.",
+      "zh": "公司承诺降价，最后也确实降了。"
+     }
+    ]
+   },
+   {
+    "title": "never 在助动词前后的位置",
+    "explain": "never 意为“从来没有，始终没有”，可以与一般过去时连用，表示过去某段时间内某事始终没有发生，如 He never married（他终身未婚）。never 一般放在助动词之后，如 has never been；但在句末省略了实义动词、只剩助动词时，never 放在助动词之前，如 never did、never has，此时助动词通常重读。本句 never did 即属于这种情况。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "They said they would visit us in the summer, but they never did.",
+      "zh": "他们说夏天会来看我们，但始终没有来。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "production",
+    "explain": "名词，生产，制造；也可指机构中的生产部门。本句视频译为“生产部门”。常用搭配有 go into production（投产）、mass production（大规模生产）、production line（生产线）。动词是 produce，形容词 productive（多产的，富有成效的）。"
+   },
+   {
+    "term": "never did",
+    "explain": "句末的“never + 助动词”是省略形式，表示前面提到的事情“始终没有发生”，常用来与前文的预期、承诺或另一件已发生的事作对比。"
+   }
+  ],
+  "translation_tip": "视频译文“生产部门却从未这样做过（跟进）。”的处理：①Production 译为“生产部门”，与上句的“这台相机获得专利”形成对照。②英文没有转折连词，两句靠肯定与否定的对比体现转折，视频增补“却”字，把这层关系明确译出。③never did 中省略了 follow，视频译为“从未这样做过”，并在括号中补出“跟进”，把被省略的动词意思交代清楚。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The advent of digital photography",
+   "predicate": "proved",
+   "object_or_complement": "disruptive",
+   "explain": "主系表结构：prove 在此是系动词，意为“结果证明是”，后接形容词 disruptive 作表语（视频说明“prove + 形容词：结果证明是……”）。一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The advent of digital photography",
+    "role": "主语（of digital photography 作后置定语，修饰 advent）",
+    "zh": "数码摄影的问世"
+   },
+   {
+    "text": "proved",
+    "role": "系动词（prove + 形容词）",
+    "zh": "结果证明是"
+   },
+   {
+    "text": "disruptive.",
+    "role": "表语（形容词）",
+    "zh": "颠覆性的"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 The advent of digital photography，系动词 proved，表语 disruptive。\n②主语中心词是 advent（出现，到来），of digital photography 是介词短语作后置定语，说明是什么的出现（视频说明“the advent of…：……的出现”）。这是名词化表达，相当于 digital photography arrived。\n③proved 后面直接接形容词，是系动词用法，不能理解为及物动词“证明（某事）”。prove 作系动词时表示经过一段时间后显现出来的结果，可接形容词、名词或 to be 结构。\n④本句是第3段的主题句，用 disruptive 概括数码摄影带来的冲击，后面的第11至13句用停产 Kodachrome、员工规模和裁员关厂的数字具体说明。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "prove 作系动词",
+    "explain": "prove 作系动词时意为“结果是，最终证明是”，后接形容词、名词或 to be 结构作表语，强调事后才看清的结果，如 The rumour proved false、The trip proved (to be) a disaster。系动词 prove 没有被动语态；was proved + 形容词是及物动词 prove sth + 形容词的被动形式，意为“被（人）证明是……”，与本句的系动词用法不同。本句 proved disruptive 即“结果证明是颠覆性的”。同样表示结果或变化的系动词还有 turn out、become、grow、go 等。考研阅读中，prove 后接形容词时要按系动词理解，不要误译为“证明了某物”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new drug proved effective in reducing the risk of heart attacks.",
+      "zh": "事实证明，这种新药能有效降低心脏病发作的风险。"
+     },
+     {
+      "en": "Finding a replacement for the coach proved more difficult than expected.",
+      "zh": "事实证明，为这位教练找到接替者比预想的更难。"
+     }
+    ]
+   },
+   {
+    "title": "the advent of 作主语的名词化表达",
+    "explain": "英语书面语常用“the + 抽象名词 + of + 名词”作主语，把“某事出现”这样的事件压缩成名词短语，再用系动词或谓语对它作评价。本句 The advent of digital photography 相当于 Digital photography arrived，句子的重心落在评价 disruptive 上。翻译时可以译成“……的问世”“……的出现”，也可以拆成小句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The advent of cheap air travel transformed the tourism industry.",
+      "zh": "廉价航空的出现彻底改变了旅游业。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the advent of sth",
+    "explain": "某事物（尤其是重要发明或新事物）的出现、到来，多用于正式文体，如 the advent of the internet（互联网的出现）、since the advent of television（自电视问世以来）。本句视频译为“问世”。首字母大写的 Advent 指基督教圣诞节前约四周的将临期。"
+   },
+   {
+    "term": "disruptive",
+    "explain": "形容词，本义是“扰乱的，破坏性的”，如 disruptive behaviour（扰乱秩序的行为）；在商业语境中指“颠覆性的”，disruptive technology、disruptive innovation（颠覆性技术、颠覆性创新）指以新方式取代原有产品和市场的技术，这一概念由哈佛商学院教授克莱顿·克里斯坦森（Clayton Christensen）在20世纪90年代提出。本句视频译为“颠覆性的”。"
+   },
+   {
+    "term": "digital photography",
+    "explain": "数码摄影，用电子传感器记录图像并以数字形式存储；与之相对的是 film photography（胶片摄影）。"
+   }
+  ],
+  "translation_tip": "视频译文“数码摄影的问世，结果证明是颠覆性的。”的处理：①名词化主语 The advent of digital photography 中，后置定语 of digital photography 前移，译成“数码摄影的问世”；advent 译为“问世”，常用于发明、新产品的出现。②系动词 proved 译为“结果证明是”，“结果”体现 prove 表示事后显现的结果，“是”对应表语结构。③主语后加逗号，与谓语断开，突出“颠覆性”这一判断。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Kodak",
+   "predicate": "said",
+   "object_or_complement": "it would stop making Kodachrome, its analogue film（宾语从句，省略 that）",
+   "explain": "主谓宾结构，said 后接省略了 that 的宾语从句；从句谓语 would stop 是过去将来时，与主句的一般过去时呼应。句末 citing… 是现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "In June 2009",
+    "role": "时间状语（介词短语）",
+    "zh": "2009年6月"
+   },
+   {
+    "text": "Kodak",
+    "role": "主语",
+    "zh": "柯达"
+   },
+   {
+    "text": "said",
+    "role": "谓语",
+    "zh": "宣布"
+   },
+   {
+    "text": "it would stop making Kodachrome,",
+    "role": "宾语从句（省略引导词 that，it 指 Kodak）",
+    "zh": "将停产Kodachrome"
+   },
+   {
+    "text": "its analogue film,",
+    "role": "同位语，补充说明 Kodachrome",
+    "zh": "这种模拟胶卷"
+   },
+   {
+    "text": "citing lessened demand in the digital era.",
+    "role": "伴随状语（现在分词短语，交代理由）",
+    "zh": "理由是数码时代里需求减少"
+   }
+  ],
+  "structure": "①主句是 Kodak said...，主语 Kodak，谓语 said，In June 2009 是时间状语。\n②said 后是省略了 that 的宾语从句 it would stop making Kodachrome：从句主语 it 指 Kodak，谓语 would stop 是过去将来时，因为主句 said 是过去时，从句表示从当时看将要发生的事。stop 后接动名词 making，stop making 即停止生产。\n③its analogue film 是同位语，补充说明 Kodachrome（视频说明），its 指 Kodak，说明 Kodachrome 是柯达的一种模拟胶卷。\n④citing lessened demand in the digital era 是现在分词短语作伴随状语，交代理由（视频说明），逻辑主语是主句主语 Kodak。cite 意为“举出（作为理由）”；lessened 是过去分词作前置定语，修饰 demand，意为“已经减少的”；in the digital era 是介词短语，说明需求减少的时代背景。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句中的过去将来时",
+    "explain": "主句谓语是过去时（said、announced、believed 等）时，宾语从句一般也用过去的时态，表示“从过去某时看将来”的动作用过去将来时 would do。本句 Kodak said it would stop making Kodachrome：2009年6月宣布时，停产还是将来的事，所以用 would stop。said 后的 that 在新闻和口语中常省略。考研完形中，主从句时态呼应是常见考点；但从句陈述客观真理时，可以用一般现在时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The airline announced that it would cut 2,000 jobs over the next two years.",
+      "zh": "这家航空公司宣布，将在今后两年裁减2000个岗位。"
+     },
+     {
+      "en": "The mayor said the new library would open in the spring.",
+      "zh": "市长说新图书馆将于春季开放。"
+     }
+    ]
+   },
+   {
+    "title": "stop doing 与 stop to do",
+    "explain": "stop doing sth 表示“停止正在做的事”，动名词作 stop 的宾语；stop to do sth 表示“停下来（去）做另一件事”，不定式作目的状语。本句 stop making Kodachrome 是停止生产，即停产。同类区别还有 remember doing（记得做过）与 remember to do（记得要做）、forget doing 与 forget to do，是考研完形的常考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The factory stopped producing plastic bags after the ban came into force.",
+      "zh": "禁令生效后，这家工厂停止生产塑料袋。"
+     },
+     {
+      "en": "Halfway up the hill, the hikers stopped to take photographs of the valley.",
+      "zh": "爬到半山腰，徒步者们停下来拍摄山谷。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语，交代理由",
+    "explain": "分词短语放在句末作伴随状语时，可以补充说明主句动作发生时的相关情况。citing、saying、claiming、arguing 等表示言说的现在分词，常用来交代主语给出的理由或说法。本句 citing lessened demand 的逻辑主语是 Kodak，相当于 and cited lessened demand as the reason。新闻报道中“宣布某决定 + citing + 原因”是常见写法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister resigned on Friday, citing health reasons.",
+      "zh": "部长周五辞职，理由是健康原因。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Kodachrome",
+    "explain": "柯达的胶卷品牌（视频说明），1935年推出，是一种彩色反转片，冲洗后直接得到正片，常用来制作幻灯片。视频保留英文原名。"
+   },
+   {
+    "term": "analogue",
+    "explain": "形容词，模拟的，指用连续变化的物理量记录或传递信息，与 digital（数字的）相对，如 analogue signals（模拟信号）、an analogue watch（指针式手表）。analogue 是英式拼写，美式拼写为 analog。胶卷用化学方法记录影像，所以称 analogue film，视频译为“模拟胶卷”。"
+   },
+   {
+    "term": "cite",
+    "explain": "动词，引用，援引，举出（作为理由或例证），如 cite evidence（举出证据）、cite sb as an example；名词 citation（引文，引用）。注意与读音相同的 site（地点）、sight（视力，景象）区分。"
+   },
+   {
+    "term": "lessen",
+    "explain": "动词，减少，减轻，由形容词 less 加动词后缀 -en 构成，如 lessen the risk（降低风险）、lessen the impact（减轻影响）。本句 lessened 是过去分词作定语，lessened demand 即“已减少的需求”。"
+   },
+   {
+    "term": "era",
+    "explain": "名词，时代，纪元，如 the digital era（数码时代）、a new era（新时代）、the end of an era（一个时代的结束）。"
+   }
+  ],
+  "translation_tip": "视频译文“2009年6月，柯达宣布将停产Kodachrome这种模拟胶卷，理由是数码时代里需求减少。”的处理：①said 结合语境译为“宣布”，公司对外说明一项决定，用“宣布”更准确。②宾语从句的主语 it 与主句主语相同，译文省去；过去将来时 would 译成“将”，stop making 合译为“停产”。③同位语 its analogue film 与 Kodachrome 合在一起，译成“Kodachrome这种模拟胶卷”，用“这种”连接专名和类别。④伴随状语 citing... 译成独立分句“理由是……”，直接点明 cite 的含义；名词短语 lessened demand 译成主谓结构“需求减少”，in the digital era 前移为“数码时代里”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Kodak's manpower",
+   "predicate": "had reached",
+   "object_or_complement": "an apex of about 145,000",
+   "explain": "主谓宾结构。谓语 had reached 是过去完成时，主动语态，表示在本段所述的2009年、2012年之前，员工规模早已达到过顶峰。"
+  },
+  "components": [
+   {
+    "text": "Kodak's manpower",
+    "role": "主语",
+    "zh": "柯达的员工规模"
+   },
+   {
+    "text": "had reached",
+    "role": "谓语（过去完成时）",
+    "zh": "曾达到"
+   },
+   {
+    "text": "an apex of about 145,000",
+    "role": "宾语（of about 145,000 作后置定语，说明顶峰的数值）",
+    "zh": "约14.5万人的顶峰"
+   },
+   {
+    "text": "in the 1980s.",
+    "role": "时间状语（介词短语）",
+    "zh": "那是在20世纪80年代"
+   }
+  ],
+  "structure": "①本句是主谓宾结构：主语 Kodak's manpower，谓语 had reached，宾语 an apex，in the 1980s 作时间状语。\n②宾语中心词 apex 意为“顶点，顶峰”，of about 145,000 是介词短语作后置定语，说明这个顶峰的具体数值（视频说明“约14.5万人的顶峰”）。\n③谓语用过去完成时 had reached，表示“过去的过去”：上一句写到2009年，下一句写到2012年，本句回到更早的20世纪80年代，交代柯达鼎盛时期的员工规模，为下一句的大规模裁员作对照。\n④manpower 在这里指公司的员工人数，视频译为“员工规模”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时回溯更早的情况",
+    "explain": "过去完成时 had done 表示在过去某一时间之前已经发生或完成的动作。文章叙述到过去某个时间（本段为2009年至2012年）时，若要回头交代更早的情况，常用过去完成时，提示时间往回推了。本句 had reached 把时间拉回到20世纪80年代，下一句 By 2012... had slashed 再写此后的缩减，一升一降形成对比。考研阅读中，过去完成时常标志着“之前的情况”，往往与后文的变化形成对照。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the firefighters arrived, the fire had already spread to the second floor.",
+      "zh": "消防员赶到时，火势已经蔓延到了二楼。"
+     },
+     {
+      "en": "When the last mill closed in 1990, the town's population had already shrunk to half its 1960s peak.",
+      "zh": "1990年最后一家工厂关闭时，小镇人口已经缩减到20世纪60年代峰值的一半。"
+     }
+    ]
+   },
+   {
+    "title": "年代的表达 in the 1980s",
+    "explain": "表示“某个年代”用 the + 年份 + s，如 in the 1980s（在20世纪80年代），也可以说 in the eighties；年代前要加定冠词 the。表示年代的早期、中期、晚期用 in the early 1980s、in the mid-1980s、in the late 1980s。汉语译为“20世纪80年代”，不能译成“1980年”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Home computers became common in the late 1980s.",
+      "zh": "家用电脑在20世纪80年代末开始普及。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "manpower",
+    "explain": "名词，不可数，人力，劳动力，可用的人员数量，如 a shortage of manpower（人手不足）、manpower costs（人力成本）。本句指柯达的员工人数，视频译为“员工规模”。强调性别中立时，也常用 workforce、staff、personnel 等词。"
+   },
+   {
+    "term": "apex",
+    "explain": "名词，顶点，顶峰，如 the apex of a triangle（三角形的顶点）、the apex of his career（他事业的顶峰）。本句 an apex of about 145,000 指员工人数达到的最高点，视频译为“顶峰”。复数为 apexes，也作 apices。"
+   },
+   {
+    "term": "145,000",
+    "explain": "英语数字每三位用逗号分隔，读作 one hundred and forty-five thousand；汉语以“万”为单位，换算成14.5万。"
+   }
+  ],
+  "translation_tip": "视频译文“柯达的员工规模曾达到约14.5万人的顶峰，那是在20世纪80年代。”的处理：①过去完成时 had reached 译为“曾达到”，用“曾”表示这是更早的情况。②后置定语 of about 145,000 前移，数字换算为汉语习惯的“约14.5万人”，补出“人”字。③时间状语 in the 1980s 没有提到句首，而是留在句末单独成句，译为“那是在20世纪80年代”，与英文语序一致，也突出了时间。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "layoffs since 2003",
+   "predicate": "had slashed",
+   "object_or_complement": "47,000 jobs",
+   "explain": "主谓宾结构。By 2012 是时间状语，谓语 had slashed 用过去完成时，表示到2012年为止已经完成的动作，主动语态。句末 alongside 引出的介词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "By 2012,",
+    "role": "时间状语（介词短语，by 表示“到……为止”）",
+    "zh": "到2012年"
+   },
+   {
+    "text": "layoffs",
+    "role": "主语",
+    "zh": "裁员"
+   },
+   {
+    "text": "since 2003",
+    "role": "后置定语（介词短语），修饰 layoffs",
+    "zh": "自2003年以来的"
+   },
+   {
+    "text": "had slashed",
+    "role": "谓语（过去完成时）",
+    "zh": "已砍掉"
+   },
+   {
+    "text": "47,000 jobs,",
+    "role": "宾语",
+    "zh": "4.7万个岗位"
+   },
+   {
+    "text": "alongside",
+    "role": "介词，意为“与……同时”，引出伴随状语",
+    "zh": "同时"
+   },
+   {
+    "text": "the shutdown of 13 factories and some 130 labs.",
+    "role": "介词 alongside 的宾语（名词化结构，of 短语说明关闭的对象）",
+    "zh": "13家工厂和约130个冲印室相继关闭"
+   }
+  ],
+  "structure": "①句首 By 2012 是时间状语（视频说明“到2012年为止”），by + 过去时间点表示“到……为止”，所以谓语用过去完成时 had slashed，表示到2012年这一系列裁员已经造成的结果。\n②主干是 layoffs since 2003 had slashed 47,000 jobs：主语 layoffs，since 2003 是介词短语作后置定语，说明是2003年以来的裁员；谓语 had slashed，宾语 47,000 jobs。since 2003 与 By 2012 首尾相接，界定了从2003年到2012年这段时间。\n③alongside 是介词，意为“与……同时”（视频说明），引出的介词短语作伴随状语，补充说明与裁员同时发生的事。介词宾语是名词化结构 the shutdown of 13 factories and some 130 labs（视频说明“the shutdown of…：……的关闭”）：shutdown 是中心词，of 引出关闭的对象，13 factories 和 some 130 labs 由 and 并列。some 用在数字前表示“大约”。\n④本句与上一句对照：20世纪80年代员工约14.5万人，2003年以来裁掉4.7万个岗位，同时关闭了大批工厂和冲印室。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "by + 过去时间，谓语用过去完成时",
+    "explain": "by 后接过去的时间点（by 2012、by the end of last year、by then），意为“到……为止”，主句谓语通常用过去完成时，表示到那时已经完成的动作或已经产生的结果；by 后接将来时间时，主句多用将来完成时 will have done。本句 By 2012... had slashed 47,000 jobs 表示到2012年累计已砍掉4.7万个岗位（视频说明“had slashed：过去完成时”）。考研完形和写作中，by 引导的时间状语是判断完成时的重要标志。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the decade, the company had opened more than 200 stores across Asia.",
+      "zh": "到那个十年结束时，这家公司已在亚洲开设了200多家门店。"
+     },
+     {
+      "en": "By next June, the team will have completed the first phase of the project.",
+      "zh": "到明年六月，团队将完成项目的第一阶段。"
+     }
+    ]
+   },
+   {
+    "title": "介词 alongside",
+    "explain": "alongside 作介词有两个常用义：一是“在……旁边，沿着……”，如 a path alongside the river；二是“与……一起，与……同时”，表示两件事并存或同时发生，相当于 together with、along with，如 The new rules will operate alongside the existing ones。本句用的是第二义，alongside the shutdown... 说明裁员的同时还有工厂和冲印室关闭，视频译为“同时”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Volunteers worked alongside professional staff to clean up the beach.",
+      "zh": "志愿者与专业人员一起清理海滩。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "layoff",
+    "explain": "名词，（因经营原因而进行的）裁员，解雇，常用复数，如 mass layoffs（大规模裁员）；对应的短语动词是 lay off（解雇），如 The company laid off 500 workers。本句视频译为“裁员”。"
+   },
+   {
+    "term": "slash",
+    "explain": "动词，本义是“砍，砍伤”，新闻中常用来表示“大幅削减（价格、开支、岗位等）”，语气比 cut、reduce 强烈，如 slash prices（大幅降价）、slash the budget（大幅削减预算）。本句 had slashed 47,000 jobs 视频译为“已砍掉”。"
+   },
+   {
+    "term": "shutdown",
+    "explain": "名词，关闭，停工，停业，如 a factory shutdown（工厂停产）、a government shutdown（政府停摆）；对应的短语动词是 shut down（关闭，停业）。"
+   },
+   {
+    "term": "some + 数字",
+    "explain": "some 放在数字前作副词，意为“大约”，相当于 about，如 some 130 labs（约130个冲印室），这里不能理解为“一些”。"
+   },
+   {
+    "term": "lab",
+    "explain": "lab 是 laboratory 的缩写，常指实验室。本文讲的是胶卷企业，视频把 labs 译为“冲印室”，指冲洗、印制照片的场所。"
+   }
+  ],
+  "translation_tip": "视频译文“到2012年，自2003年以来的裁员已砍掉4.7万个岗位，同时13家工厂和约130个冲印室相继关闭。”的处理：①By 2012 译为“到2012年”；过去完成时 had slashed 译为“已砍掉”，用“已”体现到那时为止的完成。②后置定语 since 2003 前移，译成“自2003年以来的裁员”。③alongside 引出的名词化结构 the shutdown of... 译成主谓结构“13家工厂和约130个冲印室相继关闭”，前面用“同时”衔接，并增补“相继”，表示这些关闭是陆续发生的。④数字换算：47,000 译为“4.7万”，some 130 译为“约130个”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "the 131-year-old firm",
+   "predicate": "sought",
+   "object_or_complement": "Chapter 11 protection from its creditors",
+   "explain": "主谓宾结构。谓语 sought 是 seek 的过去式，一般过去时，主动语态。句末 sapped by… 是过去分词短语作原因状语（视频说明），逻辑主语是 the firm。"
+  },
+  "components": [
+   {
+    "text": "On 19 January 2012",
+    "role": "时间状语（介词短语）",
+    "zh": "2012年1月19日"
+   },
+   {
+    "text": "the 131-year-old firm",
+    "role": "主语（131-year-old 是复合形容词，作前置定语）",
+    "zh": "这家已有131年历史的公司"
+   },
+   {
+    "text": "sought",
+    "role": "谓语",
+    "zh": "申请"
+   },
+   {
+    "text": "Chapter 11 protection",
+    "role": "宾语（Chapter 11 是名词作定语）",
+    "zh": "《破产法》第11章保护"
+   },
+   {
+    "text": "from its creditors,",
+    "role": "后置定语（介词短语），修饰 protection，protection from 表示“免受……的保护”",
+    "zh": "以免受债权人追讨"
+   },
+   {
+    "text": "sapped by pension costs and years of slowness in going digital.",
+    "role": "原因状语（过去分词短语），逻辑主语是 the firm",
+    "zh": "它受养老金负担和多年来转向数码的迟缓所慢慢抽空/消耗"
+   }
+  ],
+  "structure": "①句首 On 19 January 2012 是时间状语，具体日期前用介词 on；日期按“日 月 年”的英式顺序书写。\n②主干是 the 131-year-old firm sought Chapter 11 protection：主语中心词 firm，131-year-old 是复合形容词作前置定语，说明公司的历史，the firm 回指柯达。谓语 sought 是 seek 的过去式；宾语 Chapter 11 protection 中，Chapter 11 是名词作定语，指美国《破产法》第11章（视频说明）。\n③from its creditors 是介词短语作后置定语，修饰 protection（视频说明“protection from…：免受……的保护”），即在重整期间不受债权人追讨。\n④句末 sapped by pension costs and years of slowness in going digital 是过去分词短语作原因状语（视频说明），逻辑主语是主句主语 the firm，不是紧挨着它的 creditors：公司“被削弱”，是被动关系，所以用过去分词。by 引出两个并列的施动者：pension costs（养老金负担）和 years of slowness in going digital（多年来转向数码的迟缓）。后者中心词是 slowness，in going digital 说明在哪方面迟缓，going 是动名词，go digital 意为“转向数码”（视频说明）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作原因状语",
+    "explain": "过去分词短语可以作状语，说明主句动作的原因、时间、条件或伴随情况；它的逻辑主语必须是主句主语，并与之构成被动关系。本句 sapped by... 的逻辑主语是 the firm：公司被养老金负担和转型迟缓削弱，这正是它申请破产保护的原因。分词短语放在句末时，离主语较远，中间隔着 creditors，阅读时要按意思找准逻辑主语，不能误以为是债权人被削弱。考研翻译中，这类句末分词短语常译成独立分句，并补出主语，视频就补出了“它”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Weakened by years of drought, the farm could no longer support the family.",
+      "zh": "这座农场因多年干旱而元气大伤，再也养活不了这一家人。"
+     },
+     {
+      "en": "The team lost the final, weakened by a long season and injuries to several key players.",
+      "zh": "这支球队输掉了决赛，漫长的赛季和几名主力的伤病让它实力大减。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词中的名词用单数：131-year-old",
+    "explain": "“数词 + 名词 + 形容词或名词”用连字符连成复合形容词作前置定语时，中间的名词用单数，如 a 131-year-old firm、a ten-minute walk、a five-year plan。不用连字符、作表语时，名词要用复数：The firm was 131 years old。考研写作中写成 a 131-years-old firm 是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum is housed in a 200-year-old textile mill.",
+      "zh": "博物馆设在一座有200年历史的纺织厂里。"
+     },
+     {
+      "en": "After a three-hour delay, the train finally left the station.",
+      "zh": "延误了三个小时之后，火车终于驶出了车站。"
+     }
+    ]
+   },
+   {
+    "title": "go + 形容词：go digital",
+    "explain": "go 可以作系动词，后接形容词，表示“变成，转向”某种状态，多指向新状态的转变，如 go bankrupt（破产）、go public（上市；公开）、go global（走向全球）。go digital 意为“转向数码化”。本句 slowness in going digital 中，going 是动名词，作介词 in 的宾语，slowness in doing sth 意为“做某事迟缓”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several regional newspapers went digital only after their print sales collapsed.",
+      "zh": "几家地方报纸直到纸质版销量暴跌之后才转向数字化。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Chapter 11",
+    "explain": "指美国《破产法》（United States Bankruptcy Code）第11章（视频说明），规定企业重整程序：企业在法院监督下继续经营，暂时免受债权人追讨，同时制订重组计划清偿债务。它与第7章（Chapter 7）的破产清算不同，申请第11章保护并不等于公司关门。seek 或 file for Chapter 11 protection 是新闻中的常见说法；第17句的 left bankruptcy 即指柯达完成重整、走出破产。"
+   },
+   {
+    "term": "creditor",
+    "explain": "名词，债权人，与 debtor（债务人）相对，由 credit（信用，赊欠）加表示人的后缀 -or 构成。本句 protection from its creditors 视频译为“以免受债权人追讨”。"
+   },
+   {
+    "term": "sap",
+    "explain": "动词，逐渐削弱，耗尽（精力、信心等），如 sap sb's strength、sap sb's confidence。名词 sap 指树液；动词的“削弱”义源自军事上“挖地道破坏（墙基）”，后来又带上了“抽干汁液”的意味。视频译为“慢慢抽空/消耗”。"
+   },
+   {
+    "term": "pension",
+    "explain": "名词，养老金，退休金，如 a pension scheme（养老金计划）、pension costs（养老金支出）。老牌企业往往要为大量退休员工支付养老金，这是一笔沉重的负担。"
+   },
+   {
+    "term": "seek (sought, sought)",
+    "explain": "不规则动词，过去式和过去分词都是 sought。seek 较正式，意为“寻求，申请”，如 seek help、seek asylum（寻求庇护）、seek protection（寻求保护）。本句视频译为“申请”。"
+   },
+   {
+    "term": "On 19 January 2012",
+    "explain": "英式日期写法是“日 月 年”（19 January 2012），美式是“月 日, 年”（January 19, 2012）；具体某一天前用介词 on。"
+   }
+  ],
+  "translation_tip": "视频译文“2012年1月19日，这家已有131年历史的公司申请《破产法》第11章保护，以免受债权人追讨，它受养老金负担和多年来转向数码的迟缓所慢慢抽空/消耗。”的处理：①日期按汉语“年 月 日”的顺序译出。②复合形容词 131-year-old 译成“已有131年历史的”，增补“历史”。③Chapter 11 译为“《破产法》第11章”，补出法律名称；后置定语 from its creditors 拆开译成短句“以免受债权人追讨”，增补“追讨”，把 protection from 的含义说清楚。④句末的过去分词短语译成独立分句，补出主语“它”，用“受……所……”的被动结构对应过去分词的被动含义；名词短语 years of slowness in going digital 译为“多年来转向数码的迟缓”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Citigroup",
+   "predicate": "provided",
+   "object_or_complement": "$950 million",
+   "explain": "主谓宾结构，主语后有同位语 a lender。谓语 provided 为一般过去时，主动语态；for its restructuring 说明资金的用途。"
+  },
+  "components": [
+   {
+    "text": "Citigroup,",
+    "role": "主语",
+    "zh": "花旗集团"
+   },
+   {
+    "text": "a lender,",
+    "role": "同位语，补充说明 Citigroup",
+    "zh": "贷款方（借出钱的人）"
+   },
+   {
+    "text": "provided",
+    "role": "谓语",
+    "zh": "提供了"
+   },
+   {
+    "text": "$950 million",
+    "role": "宾语",
+    "zh": "9.5亿美元"
+   },
+   {
+    "text": "for its restructuring.",
+    "role": "目的状语（介词短语，for 表示用途）",
+    "zh": "用于其重组"
+   }
+  ],
+  "structure": "①主干是 Citigroup provided $950 million，主谓宾结构。\n②主语后两个逗号之间的 a lender 是同位语，补充说明 Citigroup（视频说明）：在这件事中，花旗集团是借钱给柯达的一方。\n③for its restructuring 是介词短语作状语，for 表示用途和目的；its 指 Kodak，restructuring 是名词“重组”，由动词 restructure 加 -ing 构成。\n④$950 million 读作 nine hundred and fifty million dollars；美元符号写在数字前，读的时候 dollars 放在数字后。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "provide 的常用结构",
+    "explain": "provide 常用两种结构：provide sth for/to sb（为某人提供某物）和 provide sb with sth（向某人提供某物），for 也可以引出用途，如 provide funds for research。本句 provided $950 million for its restructuring 中，for 引出资金的用途。考研写作中不要写成双宾语 provide sb sth。另外，短语动词 provide for sb 意为“供养某人”，provide for sth 意为“为……做准备”，与本句用法不同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The charity provides free meals for elderly people who live alone.",
+      "zh": "这家慈善机构为独居老人提供免费餐食。"
+     },
+     {
+      "en": "The scholarship provides students with money for tuition and accommodation.",
+      "zh": "这项奖学金为学生提供学费和住宿费。"
+     }
+    ]
+   },
+   {
+    "title": "短同位语前置的译法",
+    "explain": "英语同位语多放在名词之后，用逗号隔开；译成汉语时，短的同位语常前移，与中心词合成“身份 + 名称”的结构，长的同位语则多拆成独立分句。本句 Citigroup, a lender 很短，视频把它前移，译成“贷款方（借出钱的人）花旗集团”。比较第5句：较长的同位语 the profitable pillar of its business 被拆成了独立分句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Jane Morris, a nurse from Leeds, won the national poetry prize.",
+      "zh": "利兹护士简·莫里斯获得了全国诗歌奖。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Citigroup",
+    "explain": "花旗集团，美国大型金融服务集团，总部位于纽约，旗下有花旗银行（Citibank）。"
+   },
+   {
+    "term": "lender",
+    "explain": "名词，贷款方，出借人，由动词 lend（借出）加 -er 构成，与 borrower（借款人）相对，如 mortgage lenders（房贷机构）、the lender of last resort（最后贷款人，指中央银行）。视频译为“贷款方（借出钱的人）”。"
+   },
+   {
+    "term": "restructuring",
+    "explain": "名词，重组，改组，指企业调整组织、业务或债务结构，如 corporate restructuring（企业重组）、debt restructuring（债务重组）。动词 restructure 由前缀 re-（重新）加 structure（构建）构成。"
+   },
+   {
+    "term": "debtor-in-possession financing",
+    "explain": "按美国《破产法》第11章进行重整的企业，在重整期间取得的新融资一般称为 debtor-in-possession financing（简称 DIP 融资），用来维持重整期间的经营。"
+   },
+   {
+    "term": "$950 million",
+    "explain": "英语以 thousand、million、billion 每三位进一级，汉语以“万”“亿”每四位进一级：950 million 即9.5亿。"
+   }
+  ],
+  "translation_tip": "视频译文“贷款方（借出钱的人）花旗集团提供了9.5亿美元，用于其重组。”的处理：①同位语 a lender 前移，与主语合成“贷款方（借出钱的人）花旗集团”，括号补充说明“贷款方”的含义。②$950 million 按汉语计数习惯换算为“9.5亿美元”。③目的状语 for its restructuring 没有前移，而是放在逗号后译成短句“用于其重组”，its 译为书面语“其”，指柯达。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "A portfolio of 1,100 digital imaging patents",
+   "predicate": "fetched",
+   "object_or_complement": "about $525 million",
+   "explain": "主谓宾结构。fetch 在此意为“卖得（某价钱）”（视频说明），主语是被卖出的东西，宾语是价钱，from 引出买方。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A portfolio of 1,100 digital imaging patents",
+    "role": "主语（of 短语作后置定语，说明组合的构成）",
+    "zh": "由1,100项数字成像专利构成的组合"
+   },
+   {
+    "text": "fetched",
+    "role": "谓语（fetch：卖得某价钱）",
+    "zh": "以……卖给"
+   },
+   {
+    "text": "about $525 million",
+    "role": "宾语（卖得的价钱）",
+    "zh": "约5.25亿美元"
+   },
+   {
+    "text": "from a consortium of twelve buyers,",
+    "role": "状语（介词短语，from 引出买方；of twelve buyers 作后置定语，修饰 consortium）",
+    "zh": "一个由十二家买家组成的财团"
+   },
+   {
+    "text": "including",
+    "role": "介词，引出对 twelve buyers 的补充说明",
+    "zh": "其中包括"
+   },
+   {
+    "text": "the giants Apple and Google.",
+    "role": "介词 including 的宾语（Apple and Google 是 the giants 的同位语）",
+    "zh": "巨头苹果和谷歌"
+   }
+  ],
+  "structure": "①主干是 A portfolio of 1,100 digital imaging patents fetched about $525 million：主语中心词 portfolio，of 1,100 digital imaging patents 是介词短语作后置定语，说明这一组合由什么构成（视频说明“a portfolio of…：……的组合”）。digital imaging 是名词短语作定语，修饰 patents，意为“数字成像的”。\n②谓语 fetched 意为“卖得（某价钱）”（视频说明），主语是被卖出的专利组合，宾语 about $525 million 是卖得的价钱。句子形式是主动，表达的却是“被卖出”的意思。\n③from a consortium of twelve buyers 是介词短语作状语，from 引出钱的来源，也就是买方；of twelve buyers 作后置定语，修饰 consortium（视频说明“a consortium of…：由……组成的财团”）。\n④including the giants Apple and Google 是介词短语，补充说明 twelve buyers（视频说明），举出买家中最有名的两家。the giants 是 including 的宾语，Apple and Google 是 the giants 的同位语，紧跟其后，中间不加逗号。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "以商品作主语的“卖得”类动词",
+    "explain": "fetch、sell、go for 等动词可以以商品为主语，后接价钱或销量，表示“卖得，售出”，形式是主动，意思带被动色彩，如 The painting fetched two million pounds at auction、The house went for half its original price。本句 A portfolio... fetched about $525 million，即专利组合卖得约5.25亿美元。这类句子不能改成被动语态。考研阅读的经济类文章中，fetch 的这一义项容易被误解为“拿来，取来”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The painting is expected to fetch more than three million pounds at auction.",
+      "zh": "这幅画预计在拍卖中能卖到300多万英镑。"
+     },
+     {
+      "en": "The author's first novel sold fewer than 2,000 copies.",
+      "zh": "这位作家的第一部小说只卖出了不到2000册。"
+     }
+    ]
+   },
+   {
+    "title": "including 引出列举",
+    "explain": "including 在这里是介词，意为“包括”，后接名词或名词短语，列举前面提到的整体中的一部分，前面常有逗号。including 短语不能单独成句，只能附在名词后面或句末作补充。与 such as 相比，including 强调“其中包括”，所列举的通常不是全部。including 后列举三项及以上时，要用 A, B, and C 的格式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several European countries, including Spain and Portugal, have raised the minimum wage this year.",
+      "zh": "包括西班牙和葡萄牙在内的几个欧洲国家今年提高了最低工资。"
+     }
+    ]
+   },
+   {
+    "title": "紧密同位语：the giants Apple and Google",
+    "explain": "同位语与中心名词之间不加逗号、读起来连成一体时，叫紧密同位语（限制性同位语），如 the poet Wordsworth、my friend Tom、the giants Apple and Google。紧密同位语起限定作用，指明是哪一个或哪几个；加逗号的同位语则是补充说明。翻译时常直接把两部分连在一起，如“巨头苹果和谷歌”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novelist Charles Dickens often wrote about poverty in Victorian London.",
+      "zh": "小说家查尔斯·狄更斯常常描写维多利亚时代伦敦的贫困。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "portfolio",
+    "explain": "名词，本义是“文件夹，公文包”，引申为“作品集”和“（个人或机构持有的）一系列投资或资产”，如 an investment portfolio（投资组合）、a portfolio of patents（专利组合）、a product portfolio（产品组合）。本句视频译为“组合”。"
+   },
+   {
+    "term": "fetch",
+    "explain": "熟词僻义：fetch 常见义是“（去）拿来，取来”，本句意为“卖得（某价钱）”（视频说明），视频译为“以……卖给”。"
+   },
+   {
+    "term": "consortium",
+    "explain": "名词，财团，联合体，指为共同目标（收购、投资、承建大项目等）联合起来的若干公司或机构，如 a consortium of banks（银行财团）。复数为 consortia 或 consortiums。"
+   },
+   {
+    "term": "digital imaging",
+    "explain": "数字成像，用电子传感器把光学图像转换成数字信号，并加以处理和存储的技术。"
+   },
+   {
+    "term": "giant",
+    "explain": "giant 作名词可指“大公司，巨头”，如 tech giants（科技巨头）、oil giants（石油巨头）。本句 the giants Apple and Google 指苹果公司和谷歌公司这两家美国科技巨头。"
+   }
+  ],
+  "translation_tip": "视频译文“由1,100项数字成像专利构成的组合以约5.25亿美元卖给一个由十二家买家组成的财团，其中包括巨头苹果和谷歌。”的处理：①后置定语 of 1,100 digital imaging patents 前移，增补“由……构成的”，说清 portfolio 的组成；patents 前补出量词“项”。②fetched about $525 million from... 以专利组合为主语，译成“以约5.25亿美元卖给……”，把卖得的价钱和买方放进同一个动作里，比直译“从……卖得”通顺。③a consortium of twelve buyers 同样把后置定语前移，译成“一个由十二家买家组成的财团”。④including 短语留在句末，译为“其中包括”；紧密同位语 the giants Apple and Google 直接译成“巨头苹果和谷歌”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "the once-mighty Kodak",
+   "predicate": "left",
+   "object_or_complement": "bankruptcy",
+   "explain": "主谓宾结构，leave bankruptcy 意为“走出破产”（视频说明）。谓语 left 是 leave 的过去式，一般过去时，主动语态。句末三个并列的过去分词（短语）补充说明柯达走出破产时的样子。"
+  },
+  "components": [
+   {
+    "text": "After 19 months of reorganisation,",
+    "role": "时间状语（介词短语）",
+    "zh": "经过19个月的改组"
+   },
+   {
+    "text": "the once-mighty Kodak",
+    "role": "主语（once-mighty 是复合形容词，作前置定语）",
+    "zh": "昔日强大的柯达"
+   },
+   {
+    "text": "left",
+    "role": "谓语",
+    "zh": "走出"
+   },
+   {
+    "text": "bankruptcy",
+    "role": "宾语",
+    "zh": "破产"
+   },
+   {
+    "text": "in September 2013,",
+    "role": "时间状语（介词短语）",
+    "zh": "于2013年9月"
+   },
+   {
+    "text": "downsized,",
+    "role": "过去分词，并列第一项，补充说明 Kodak 走出破产时的样子",
+    "zh": "规模已缩小"
+   },
+   {
+    "text": "streamlined,",
+    "role": "过去分词，并列第二项",
+    "zh": "业务经过精简"
+   },
+   {
+    "text": "and refocused as a commercial printer",
+    "role": "并列连词 and + 过去分词短语，并列第三项（refocus as：重新定位为）",
+    "zh": "重新定位为……商业印刷商"
+   },
+   {
+    "text": "for business clients.",
+    "role": "后置定语（介词短语），修饰 a commercial printer",
+    "zh": "面向企业客户"
+   }
+  ],
+  "structure": "①句首 After 19 months of reorganisation 是介词短语作时间状语。中心词是 months，of reorganisation 说明这19个月在做什么，相当于 after 19 months spent on reorganisation。\n②主干是 the once-mighty Kodak left bankruptcy：主语 Kodak 前的 once-mighty 是复合形容词，意为“昔日强大的”。专有名词前一般不加冠词，这里因为有描写性的定语 once-mighty，才加了 the。left bankruptcy 意为“走出破产”（视频说明），in September 2013 是时间状语。\n③逗号后的 downsized, streamlined, and refocused as a commercial printer for business clients 是三个并列的过去分词（短语），补充说明 Kodak 走出破产时的样子（视频说明），用 A, B, and C 的格式连接，and 前有牛津逗号。它们的逻辑主语都是 Kodak，与 Kodak 是被动关系：柯达被缩小了规模、被精简、被重新定位，这些都是走出破产时已经完成的变化。\n④第三项 refocused as a commercial printer 中，refocus as 意为“重新定位为”（视频说明），as 引出新的身份；for business clients 是介词短语作后置定语，修饰 a commercial printer，说明是面向企业客户的印刷商。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列的过去分词说明主语的状态",
+    "explain": "过去分词（短语）可以放在句末，用逗号与主句隔开，补充说明主语在动作发生时所处的状态；它的逻辑主语是主句主语；及物动词的过去分词与逻辑主语是被动关系，不及物动词的过去分词（如 recovered、retired）则表示已完成的状态。几个分词并列时，三项及以上用 A, B, and C 的格式。本句 downsized, streamlined, and refocused... 的逻辑主语都是 Kodak，说明它走出破产时已是“规模缩小、业务精简、重新定位”的样子。翻译时常把这类分词拆成几个短句，并补出各自的主语，如视频补出了“规模”“业务”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old theatre reopened last spring, restored, repainted, and fitted with new seats.",
+      "zh": "这座老剧院去年春天重新开放，已经修复，重新粉刷，还换上了新座椅。"
+     },
+     {
+      "en": "The athlete returned to competition a year later, fully recovered and determined to win.",
+      "zh": "这名运动员一年后重返赛场，伤已痊愈，决心夺冠。"
+     }
+    ]
+   },
+   {
+    "title": "once- 构成的复合形容词",
+    "explain": "副词 once（曾经，昔日）可以与形容词或分词用连字符连成复合形容词，放在名词前，表示“昔日……的，曾经……的”，暗含“如今已不再如此”，如 a once-thriving town（昔日繁荣的小镇）、the once-popular singer（曾经走红的歌手）。本句 the once-mighty Kodak 与第14句的 the 131-year-old firm 前后呼应，突出柯达由盛转衰。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The once-busy port now handles only a few ships a month.",
+      "zh": "这个昔日繁忙的港口如今每月只有寥寥几艘船停靠。"
+     }
+    ]
+   },
+   {
+    "title": "专有名词前加 the 的情况",
+    "explain": "人名、公司名等专有名词前一般不加冠词，但前面有描写性的形容词修饰时，常加定冠词 the，如 the young Mozart、the mighty Yangtze、the once-mighty Kodak。翻译时 the 不译，形容词译成定语即可。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The mighty Yangtze flows more than 6,000 kilometres to the sea.",
+      "zh": "浩荡的长江奔流六千多公里，注入大海。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reorganisation",
+    "explain": "名词，改组，重组，英式拼写；美式拼写为 reorganization。由前缀 re-（重新）加 organisation（组织）构成。本句的 reorganisation 与第15句的 restructuring 都指柯达在破产保护期间的调整，视频分别译为“改组”和“重组”。"
+   },
+   {
+    "term": "leave bankruptcy",
+    "explain": "走出破产（视频说明），新闻中也常说 emerge from bankruptcy；相对的说法有 go bankrupt（破产）、file for bankruptcy（申请破产）。第14句写柯达在2012年1月申请第11章保护，本句写它在2013年9月走出破产。"
+   },
+   {
+    "term": "downsize 与 streamline",
+    "explain": "downsize 意为“缩小规模，裁员”，多指企业裁减人员；streamline 本义是“使成流线型”，引申为“精简，使（机构、流程）更高效”。两个词都是企业改革报道中的常用词。"
+   },
+   {
+    "term": "commercial printer",
+    "explain": "商业印刷商，承接企业和机构印刷业务的公司；printer 既可指打印机，也可指印刷商、印刷工。for business clients 说明其客户是企业，视频译为“面向企业客户”。"
+   },
+   {
+    "term": "client",
+    "explain": "名词，客户，委托人，多指接受专业服务（律师、银行、广告、咨询等）的一方；customer 多指在商店购物的顾客。"
+   }
+  ],
+  "translation_tip": "视频译文“经过19个月的改组，昔日强大的柯达于2013年9月走出破产，规模已缩小，业务经过精简，重新定位为商业印刷商，面向企业客户。”的处理：①句首状语 After 19 months of reorganisation 译为“经过19个月的改组”，后置定语 of reorganisation 前移。②时间状语 in September 2013 移到谓语前，译成“于2013年9月走出破产”，“于”字书面简洁。③三个并列的过去分词拆成三个短句：downsized 增补主语“规模”，译为“规模已缩小”；streamlined 增补“业务”，译为“业务经过精简”；refocused as 译为“重新定位为”。④后置定语 for business clients 没有前移，而是放在句末译成“面向企业客户”，避免“面向企业客户的商业印刷商”这样的长定语。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "President Obama",
+   "predicate": "had decorated",
+   "object_or_complement": "Sasson",
+   "explain": "主谓宾结构，decorate sb with sth 意为“授予某人（勋章、奖章）”（视频说明）。谓语 had decorated 是过去完成时，主动语态，表示这件事发生在上一句所说的2013年之前。"
+  },
+  "components": [
+   {
+    "text": "In November 2009",
+    "role": "时间状语（介词短语）",
+    "zh": "2009年11月"
+   },
+   {
+    "text": "President Obama",
+    "role": "主语（头衔 + 姓氏）",
+    "zh": "奥巴马总统"
+   },
+   {
+    "text": "had decorated",
+    "role": "谓语（过去完成时）",
+    "zh": "授予"
+   },
+   {
+    "text": "Sasson",
+    "role": "宾语",
+    "zh": "萨松"
+   },
+   {
+    "text": "with national laurels,",
+    "role": "介词短语，与 decorate 构成 decorate sb with sth，引出授予的荣誉",
+    "zh": "国家级荣誉"
+   },
+   {
+    "text": "commending",
+    "role": "伴随状语（现在分词短语）中的现在分词",
+    "zh": "来表彰"
+   },
+   {
+    "text": "his digital camera.",
+    "role": "commending 的宾语",
+    "zh": "他的数码相机"
+   }
+  ],
+  "structure": "①句首 In November 2009 是时间状语。主干是 President Obama had decorated Sasson：主语 President Obama 是“头衔 + 姓氏”，头衔前不加冠词；宾语是 Sasson；with national laurels 与 decorate 构成 decorate sb with sth，引出授予的荣誉。\n②谓语用过去完成时 had decorated：上一句已经叙述到2013年柯达走出破产，本句回头补叙2009年的事，过去完成时提示时间往回推。\n③national laurels 中 laurels 用复数，指荣誉、殊荣；视频说明指出它在这里指国家技术与创新奖章，译为“国家级荣誉”。\n④commending his digital camera 是现在分词短语作伴随状语（视频说明），逻辑主语是 Obama，说明授奖的缘由：表彰萨松的数码相机。commend 与逻辑主语是主动关系，所以用现在分词。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时用于倒叙",
+    "explain": "叙事文按时间顺序写到某一过去时间后，如果要插入更早发生的事，常用过去完成时，提醒读者时间倒回去了。本句 had decorated 发生在2009年，而上一句已经写到2013年，作者回头补叙萨松获奖，为下一句“同一年柯达宣布 Kodachrome 的终结”作铺垫。倒叙交代清楚之后，作者通常改回一般过去时，如下一句的 saw。考研阅读中，过去完成时是判断事件先后顺序的重要线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum finally reopened in 2020. It had closed a decade earlier after a fire destroyed its east wing.",
+      "zh": "博物馆终于在2020年重新开放。十年前，一场大火烧毁了它的东翼，此后它便一直关闭。"
+     },
+     {
+      "en": "She won the prize in 1998. Ten years earlier, she had been unable to find a publisher for her first novel.",
+      "zh": "她在1998年获奖。而十年前，她的第一部小说还找不到出版商。"
+     }
+    ]
+   },
+   {
+    "title": "decorate sb with sth：授予勋章",
+    "explain": "decorate 常见义是“装饰”，如 decorate a room；熟词僻义是“授予（某人）勋章或奖章”（视频说明“decorate：授给（某人）勋章（或奖章）”），常用 decorate sb (with sth) (for sth)，多用被动，如 be decorated for bravery（因英勇而受勋）。名词 decoration 也可指勋章、奖章。考研阅读中，decorate 的宾语是人时，要考虑“授勋”这个意思。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The pilot was decorated for bravery after landing the damaged plane safely.",
+      "zh": "这名飞行员驾驶受损的飞机安全着陆，因英勇表现被授予勋章。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语作伴随状语时，逻辑主语是主句主语，与分词是主动关系，补充说明主句动作发生时的相关情况。本句 commending his digital camera 的逻辑主语是 Obama，说明授予荣誉所表彰的对象。commend sb/sth (for sth) 意为“表扬，嘉奖”，是正式用词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The judge closed the case, commending the jury for its patience.",
+      "zh": "法官结案时，称赞陪审团很有耐心。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "President Obama",
+    "explain": "美国第44任总统巴拉克·奥巴马（Barack Obama），2009年1月至2017年1月在任。头衔与姓氏连用时，头衔首字母大写，前面不加冠词，如 President Obama、Prime Minister Smith。"
+   },
+   {
+    "term": "laurels",
+    "explain": "laurel 是月桂树；古希腊人用月桂枝叶编成的花冠授予竞赛优胜者，因此复数 laurels 引申为“荣誉，殊荣”。视频说明指出本句的 national laurels 即国家技术与创新奖章（National Medal of Technology and Innovation），这是由美国总统颁发的美国技术领域最高荣誉。习语 rest on one's laurels 意为“满足于已有成就，吃老本”。"
+   },
+   {
+    "term": "commend",
+    "explain": "动词，正式用词，意为“表扬，称赞，嘉奖”，常用 commend sb for sth 或 commend sb on sth；形容词 commendable（值得称赞的）。本句视频译为“表彰”。"
+   },
+   {
+    "term": "medal 与 decorate",
+    "explain": "decorate 的“授勋”义与名词 decoration（勋章）对应；下一句的 That medal 回指本句的 national laurels，说明这份荣誉是一枚奖章。"
+   }
+  ],
+  "translation_tip": "视频译文“2009年11月，奥巴马总统授予萨松国家级荣誉，来表彰他的数码相机。”的处理：①过去完成时 had decorated 没有译出“曾”“已”等字，句首的“2009年11月”已经交代了时间。②decorate sb with sth 译成双宾语的“授予萨松国家级荣誉”，with 不单独译出。③伴随状语 commending... 译成后续短句，加“来”字，即“来表彰他的数码相机”，说明授予荣誉的缘由。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "That medal's year",
+   "predicate": "saw",
+   "object_or_complement": "Kodak announce the end of Kodachrome（宾语 Kodak + 宾语补足语 announce...）",
+   "explain": "主谓宾结构，see + 宾语 + 不带 to 的不定式。主语是时间名词 That medal's year，see 在此意为“见证，经历（某事发生）”，是以时间作主语的写法（视频说明）。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "That medal's year",
+    "role": "主语（时间名词作主语）",
+    "zh": "那枚奖章颁发的同年"
+   },
+   {
+    "text": "also",
+    "role": "状语（副词）",
+    "zh": "也"
+   },
+   {
+    "text": "saw",
+    "role": "谓语（以时间作主语，意为“见证，经历”）",
+    "zh": "（谓语，译文把主语转为时间状语后不单独译出）"
+   },
+   {
+    "text": "Kodak",
+    "role": "宾语",
+    "zh": "柯达"
+   },
+   {
+    "text": "announce",
+    "role": "宾语补足语（不带 to 的不定式）",
+    "zh": "宣布了"
+   },
+   {
+    "text": "the end of Kodachrome.",
+    "role": "announce 的宾语",
+    "zh": "Kodachrome 的终结"
+   }
+  ],
+  "structure": "①主干是 That medal's year saw Kodak announce...：主语是时间名词 year，谓语 saw，宾语 Kodak，宾语补足语是不带 to 的不定式 announce，其后的 the end of Kodachrome 是 announce 的宾语。\n②主语 That medal's year 中，medal's 是名词所有格，“那枚奖章的年份”即颁发那枚奖章的那一年，指上一句的2009年；That medal 回指上一句的 national laurels。\n③see 以时间、地点作主语时，意为“见证，经历（某事发生）”（视频说明“以时间作主语，那一年发生了……”）。汉语一般不说“某一年看见了某事”，翻译时要把时间转为状语。\n④also 把同一年的两件事并列在一起：萨松因数码相机获得国家级荣誉，柯达则宣布 Kodachrome 的终结。第11句已交代柯达于2009年6月宣布停产 Kodachrome，本句把两件事放在一起，形成反差，呼应标题 The Company That Invented Its Own Killer。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "以时间、地点作主语的 see",
+    "explain": "see、witness 可以用时间（year、decade、century）或地点作主语，表示“某时某地发生了某事”，这是英语常见的无灵主语句，如 The 1990s saw a rapid growth in internet use、This city has seen many changes。see 后接名词，或接“宾语 + 不带 to 的不定式/现在分词”。翻译时一般把时间、地点转为状语，补出真正的动作发出者，本句译为“那枚奖章颁发的同年，柯达也宣布了……”。考研写作中，用这一句式描写变化和趋势显得地道。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The past decade has seen a sharp rise in the number of people working from home.",
+      "zh": "过去十年，在家办公的人数急剧增加。"
+     },
+     {
+      "en": "The 19th century saw millions of Europeans emigrate to the Americas.",
+      "zh": "19世纪，数百万欧洲人移居美洲。"
+     }
+    ]
+   },
+   {
+    "title": "see + 宾语 + 不带 to 的不定式",
+    "explain": "感官动词 see、watch、hear、notice 等后接复合宾语时，宾补可以用不带 to 的不定式（表示动作的全过程或已完成）或现在分词（表示动作正在进行），如 I saw him cross the road（看见他过了马路）与 I saw him crossing the road（看见他正在过马路）。改为被动语态时要补出 to：He was seen to cross the road。本句 saw Kodak announce the end of Kodachrome 用不带 to 的不定式，表示“宣布”这一完整事件。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Neighbours heard the dog bark several times during the night.",
+      "zh": "邻居们夜里听见那条狗叫了好几次。"
+     },
+     {
+      "en": "The suspect was seen to leave the building shortly before midnight.",
+      "zh": "有人看见嫌疑人在午夜前不久离开了大楼。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "medal",
+    "explain": "名词，奖章，勋章，如 a gold medal（金牌）、win a medal（获得奖章）。本句 That medal 指上一句奥巴马授予萨松的国家级荣誉。"
+   },
+   {
+    "term": "the end of sth",
+    "explain": "某事物的终结，如 the end of an era（一个时代的结束）、mark the end of sth（标志着……的结束）。the end of Kodachrome 指柯达停产这一胶卷品牌，视频译为“终结”。"
+   },
+   {
+    "term": "announce",
+    "explain": "动词，宣布，宣告，多指公开、正式地发布消息，如 announce a decision、announce plans to do sth；名词 announcement。"
+   },
+   {
+    "term": "名词所有格表示时间",
+    "explain": "That medal's year 用名词所有格把“奖章”和“年份”联系起来，意思是“颁发那枚奖章的那一年”。所有格表示的关系很灵活，可以是所属、来源，也可以是与某事相关的时间，如 last year's election（去年的选举）、the decade's biggest film（这十年最卖座的电影）。"
+   }
+  ],
+  "translation_tip": "视频译文“那枚奖章颁发的同年，柯达也宣布了Kodachrome 的终结。”的处理：①英文以时间 That medal's year 作主语、saw 作谓语，汉语不说“那一年看见了”，视频把主语转为时间状语“那枚奖章颁发的同年”，增补“颁发”，并用“同年”带出两件事发生在同一年的意思。②宾语 Kodak 译成句子的主语“柯达”，宾补 announce 译成谓语“宣布了”，saw 不单独译出。③also 译为“也”，放在主语“柯达”之后，点出同一年里两件事的对照。"
+ }
+]
