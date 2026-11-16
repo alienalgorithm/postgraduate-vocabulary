@@ -1,0 +1,51 @@
+[
+ {
+  "key": 2,
+  "field": "a child of four or five 是 a child of four or five years (of age) 的省略；英语不说 of four or five years old（years old 不与 of 连用）",
+  "before": "five 后省略 years old",
+  "after": "five 后省略 years 或 years of age",
+  "reason": "components[1].role"
+ },
+ {
+  "key": 2,
+  "field": "a child of four or five 是 a child of four or five years (of age) 的省略；英语不说 of four or five years old（years old 不与 of 连用）",
+  "before": "five 后省略 years old",
+  "after": "five 后省略 years（of age），不能补成 years old",
+  "reason": "structure"
+ },
+ {
+  "key": 2,
+  "field": "a child of four or five 是 a child of four or five years (of age) 的省略；英语不说 of four or five years old（years old 不与 of 连用）",
+  "before": "of about four or five 即 of about four or five years old，说的是年龄",
+  "after": "of about four or five 即 of about four or five years (of age)，说的是年龄；“of + 数字”表年龄时不再接 old，不说 a child of five years old",
+  "reason": "grammar[2].explain"
+ },
+ {
+  "key": 4,
+  "field": "knowledge[2].explain",
+  "before": "定冠词 the 表示特指，回指第1到3句描述的那项零食实验。文中对它的称呼有 the test 和 the SAT analysis 等，阅读时要分清前者指等待零食的测验，后者指对 SAT 成绩的分析。",
+  "after": "定冠词 the 表示特指，回指第1到3句描述的那项零食实验；第14句的 The test 也指它。注意与第8句的 the SAT analysis 区分：the test 是孩子面对零食的等待测验，the SAT analysis 是研究者对这些孩子日后 SAT 成绩所做的分析，两者不是同一回事。",
+  "reason": "原文把 the test 与 the SAT analysis 说成同一事物的两种称呼，又说二者要分清，前后矛盾；改为二者所指不同"
+ },
+ {
+  "key": 8,
+  "field": "knowledge[2].explain",
+  "before": "字面意思是“儿子和女儿”，合起来即“子女”。英语用 sons and daughters 而不只用 children，带有“出身于某种家庭”的意味，与本段讨论样本的家庭背景相呼应。视频译为“子女”。",
+  "after": "字面意思是“儿子和女儿”，合起来即“子女”。主语已经用了 children，同位语换说 the sons and daughters of…，既避免重复，又把重点转到孩子的父母是谁，与本段讨论样本的家庭背景相呼应。视频译为“子女”。",
+  "reason": "删去“sons and daughters 带有出身于某种家庭的意味”这一无词典依据的说法，改为可从句子本身看出的换词避免重复"
+ },
+ {
+  "key": 9,
+  "field": "例句一是 could scarcely have been more 的特殊强调用法，原讲解未交代，学生易按“几乎不”直译出错，补出说明",
+  "before": "考研阅读中，这类词决定句子是肯定还是否定，做判断题时不能看漏。",
+  "after": "考研阅读中，这类词决定句子是肯定还是否定，做判断题时不能看漏。例句一 could scarcely have been more + 形容词，字面是“几乎不可能更……了”，实际表示“极其……”，是外刊常见的强调说法。",
+  "reason": "grammar[0].explain"
+ },
+ {
+  "key": 11,
+  "field": "components[4].role",
+  "before": "并列的时间状语（and again 后省略了 were assessed）",
+  "after": "并列的时间状语（and 后承前省略了 were assessed，完整形式是 and were assessed again at 15）",
+  "reason": "省略的 were assessed 位于 and 与 again 之间，原写“and again 后省略”位置不准"
+ }
+]

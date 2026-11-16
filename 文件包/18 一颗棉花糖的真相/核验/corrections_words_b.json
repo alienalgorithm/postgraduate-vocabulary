@@ -1,0 +1,30 @@
+[
+ {
+  "key": 40,
+  "field": "etymology",
+  "before": "源自古英语 fōstrian（供给食物，抚养），来自 fōstor（食物，养育），与 food（食物）同源。“抚养”的意思后来发展出“寄养，代养”，又引申出“培养，促进（品质、关系等）”的比喻义。",
+  "after": "源自古英语 fōstrian（供给食物，抚养），来自 fōstor（食物，养育），与 food（食物）同源。由“喂养，抚养”引申出“培养，促进（品质、关系等）”的比喻义；用在 foster child、foster parent 等词中，表示“非亲生而抚养的”，即“寄养的”。",
+  "reason": "原文称“抚养”先发展出“寄养”再引申出“促进”，这一先后顺序无据（Etymonline 记“促进成长”义中古英语早期已有），改为不排先后的表述"
+ },
+ {
+  "key": 40,
+  "field": "删去内部字段名 zh_video，讲义正文不应出现",
+  "before": "视频 zh_video 取“既能培养”",
+  "after": "视频取“既能培养”",
+  "reason": "context_usage"
+ },
+ {
+  "key": 52,
+  "field": "删去内部字段名 zh_video，讲义正文不应出现",
+  "before": "视频 zh_video 取“微不足道”",
+  "after": "视频取“微不足道”",
+  "reason": "context_usage"
+ },
+ {
+  "key": 43,
+  "field": "etymology",
+  "before": "由动词 replicate（复制，重复）加名词后缀 -ion 构成。replicate 源自拉丁语 replicare（折回，重复），由 re-（向后，再）和 plicare（折叠）构成。同根词有 reply（回答；字面义“折回去”）、replica（复制品）、duplicate（复制）、complicate（使复杂）。",
+  "after": "经古法语 replicacion 源自拉丁语 replicatio（折回；答复），来自 replicare（折回，重复），由 re-（向后，再）和 plicare（折叠）构成。英语中最早指“答复”，后来指“复制，重复”，科研中指重复研究以验证结果。同根词有 replicate（复制，重复）、reply（回答；字面义“折回去”）、replica（复制品）、duplicate（复制）、complicate（使复杂）。",
+  "reason": "replication 早在中古英语就经古法语从拉丁语 replicatio 借入，原义“答复”，不是由动词 replicate 加 -ion 构成（Etymonline）"
+ }
+]

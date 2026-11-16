@@ -1,0 +1,1682 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "（省略的主语 you）",
+   "predicate": "Picture",
+   "object_or_complement": "a nursery school",
+   "explain": "祈使句，省略主语 you，主干是 Picture a nursery school，谓语加宾语。picture 在此作及物动词，意为“想象，设想”；祈使句谓语用动词原形，没有时态变化，是作者直接对读者发出的邀请。"
+  },
+  "components": [
+   {
+    "text": "Picture",
+    "role": "谓语（祈使句，省略主语 you；picture 作动词，意为“想象”）",
+    "zh": "想象一下"
+   },
+   {
+    "text": "a nursery school",
+    "role": "宾语",
+    "zh": "一所幼儿园"
+   },
+   {
+    "text": "on Stanford's campus",
+    "role": "后置定语（介词短语），修饰 a nursery school，交代地点",
+    "zh": "位于斯坦福大学校园里"
+   },
+   {
+    "text": "in the late 1960s and early 1970s.",
+    "role": "后置定语（介词短语），与 on Stanford's campus 一起修饰 a nursery school，交代场景所处的年代",
+    "zh": "时间是20世纪60年代末至70年代初"
+   }
+  ],
+  "structure": "①全句是祈使句，以动词原形 Picture 开头，省略主语 you，宾语是 a nursery school。外刊常用 Picture、Imagine 这类祈使句开篇，邀请读者在脑中构建一个场景，再进入正题。\n②on Stanford's campus 是介词短语作后置定语，说明幼儿园在哪里；Stanford's 是名词所有格，修饰 campus。表示“在校园里”用介词 on，即 on campus。\n③in the late 1960s and early 1970s 交代这一场景所处的年代。它说明的不是“想象”这个动作发生的时间（读者是在现在想象），而是被想象的那所幼儿园、那段往事所处的时间，所以看作修饰 a nursery school 的后置定语。late 1960s 与 early 1970s 由 and 并列，共用前面的 in the。\n④本句是全文第一句，只交代时间和地点，不点出实验名称；下一句才描述孩子面对零食的场景。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "祈使句开篇引入场景",
+    "explain": "祈使句用动词原形开头，主语 you 通常省略，表示请求、命令、建议或邀请。外刊和考研阅读文章常用 Picture、Imagine、Consider、Take 等动词的祈使句开篇，把读者直接带进一个具体场景或例子，再引出要讨论的问题。本句 Picture a nursery school… 就是让读者先想象实验现场。picture 作动词是熟词僻义，相当于 imagine，常见结构有 picture sth、picture sb doing sth。考研阅读中，这类开头往往是引子，文章真正的观点在后文的转折处（本文第3段的 Yet）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Imagine a city where every bus arrives exactly on time.",
+      "zh": "想象一座每辆公交车都准点到站的城市。"
+     },
+     {
+      "en": "Picture a classroom in which no one is allowed to ask questions.",
+      "zh": "想象一间不允许任何人提问的教室。"
+     }
+    ]
+   },
+   {
+    "title": "年代的表达：in the late 1960s and early 1970s",
+    "explain": "表示“某个年代”用 the + 年份 + s，如 the 1960s（20世纪60年代），前面用介词 in；early、mid、late 放在年代前，分别表示“初、中、末期”。本句 the late 1960s and early 1970s 中，late 1960s 与 early 1970s 并列，共用 the 和 in，表示从60年代末到70年代初这一时间段。1960s 读作 nineteen sixties，偶尔写成 1960's，现在多不加撇号。翻译时要补出世纪，译为“20世纪60年代”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's population grew rapidly in the late 1980s and early 1990s.",
+      "zh": "这座城市的人口在20世纪80年代末至90年代初迅速增长。"
+     }
+    ]
+   },
+   {
+    "title": "on campus 中的介词 on",
+    "explain": "表示“在大学校园里”，英语习惯用介词 on：on campus、on the university's campus；不说 in campus。off campus 表示“在校外”。campus 作定语时也很常见，如 campus life（校园生活）。本句 on Stanford's campus 用名词所有格修饰 campus，指斯坦福大学的校园。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most first-year students are required to live on campus.",
+      "zh": "大多数一年级学生必须住在校内。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "棉花糖实验（marshmallow test）",
+    "explain": "本文讨论的就是心理学家沃尔特·米歇尔（Walter Mischel）在斯坦福大学校内的 Bing Nursery School 主持的延迟满足实验，零食包括棉花糖等，所以俗称“棉花糖实验”，标题 The Truth About One Marshmallow 即由此而来。第1句的时间和地点就是这项实验开展的时间和地点。"
+   },
+   {
+    "term": "nursery school",
+    "explain": "幼儿园，指招收学龄前儿童（一般三到五岁）的教育机构，视频译为“幼儿园”。英式英语也说 nursery；kindergarten 在美国通常指上小学一年级前的那一年。"
+   },
+   {
+    "term": "Stanford",
+    "explain": "Stanford University（斯坦福大学）的简称，位于美国加利福尼亚州，视频补全为“斯坦福大学”。Stanford's campus 用名词所有格表示所属。"
+   },
+   {
+    "term": "picture",
+    "explain": "熟词僻义：picture 常作名词“图画，照片”，本句作及物动词，意为“想象，设想”，相当于 imagine；视频译为“想象一下”。"
+   }
+  ],
+  "translation_tip": "视频译文“想象一下一所幼儿园，位于斯坦福大学校园里，时间是20世纪60年代末至70年代初。”的处理：①Picture 译为“想象一下”，“一下”使祈使语气更随和，像在对读者说话。②两个后置修饰语没有全部前置（前置会变成“20世纪60年代末至70年代初位于斯坦福大学校园里的一所幼儿园”，定语过长），而是顺着英文语序拆成两个短句，分别增补“位于”“时间是”。③Stanford 补全为“斯坦福大学”。④1960s、1970s 译为“20世纪60年代”“70年代”，late、early 译为“末”“初”，两者之间的 and 译为“至”，表示时间跨度。不定冠词 a 译为量词“一所”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "A child",
+   "predicate": "sits",
+   "object_or_complement": "",
+   "explain": "主干是 A child sits，主谓结构，sit 在此是不及物动词，后面的 in solitude 和 before one treat 是状语。谓语 sits 为一般现在时，主动语态：承接上句的 Picture，用现在时把过去的实验场景当作眼前的画面来描述，比用过去时更生动。"
+  },
+  "components": [
+   {
+    "text": "A child",
+    "role": "主语",
+    "zh": "一个……孩子"
+   },
+   {
+    "text": "of about four or five",
+    "role": "后置定语（介词短语），修饰 child，说明年龄（five 后省略 years 或 years of age）",
+    "zh": "大约四五岁的"
+   },
+   {
+    "text": "sits",
+    "role": "谓语（不及物动词）",
+    "zh": "坐"
+   },
+   {
+    "text": "in solitude",
+    "role": "方式状语（介词短语）",
+    "zh": "独自"
+   },
+   {
+    "text": "before one treat,",
+    "role": "地点状语（介词短语，before 意为“在……前面”）",
+    "zh": "在一份零食前"
+   },
+   {
+    "text": "facing a blunt bargain:",
+    "role": "伴随状语（现在分词短语），逻辑主语是 a child",
+    "zh": "面对一桩直截了当的交易"
+   },
+   {
+    "text": "eat it now,",
+    "role": "冒号后的解释说明（交易的选项一，祈使形式；it 指 one treat）",
+    "zh": "现在就吃"
+   },
+   {
+    "text": "or resist temptation",
+    "role": "并列连词 or + 交易的选项二（祈使形式）",
+    "zh": "或者抵挡诱惑"
+   },
+   {
+    "text": "for about 15 minutes",
+    "role": "时间状语（介词短语，表示持续时间），修饰 resist",
+    "zh": "约15分钟"
+   },
+   {
+    "text": "and earn two.",
+    "role": "and 连接表示结果的部分（two 后省略 treats）",
+    "zh": "就能挣得两份"
+   }
+  ],
+  "structure": "①主句是 A child of about four or five sits in solitude before one treat。主语 A child，of about four or five 是介词短语作后置定语，about 表示“大约”，five 后省略 years（of age），不能补成 years old。谓语 sits 是不及物动词；in solitude 作方式状语，意为“独自”；before one treat 作地点状语，before 在这里表示空间位置“在……前面”，相当于 in front of，书面色彩较浓。\n②facing a blunt bargain 是现在分词短语作伴随状语，逻辑主语是 a child：孩子坐着的同时面对一桩交易，两个动作同时发生，主动关系，所以用现在分词。\n③冒号后的内容解释 bargain 是什么交易，由 or 连接两个选项。选项一 eat it now，it 指 one treat；选项二 resist temptation for about 15 minutes and earn two，其中 and 前后是条件与结果的关系：如果抵挡诱惑约15分钟，就能挣得两份。两个选项都用动词原形，像是把交易条款直接摆在孩子面前。\n④one treat 与句末的 two 前后呼应，two 后省略了 treats，突出“一份”和“两份”的对比。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，常作伴随状语，表示与谓语动作同时发生的另一个动作或状态。分词的逻辑主语必须是主句主语，二者为主动关系时用现在分词。本句 facing a blunt bargain 的逻辑主语是 a child，“孩子面对交易”是主动关系，和 sits 同时发生。考研长难句中，句末逗号后的 -ing 短语多为伴随或结果状语，翻译时一般译成并列的动词短语，不必加“着”字。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old man sat by the window, watching the rain fall on the empty street.",
+      "zh": "老人坐在窗边，看着雨落在空荡荡的街上。"
+     },
+     {
+      "en": "Thousands of commuters stood on the platform, waiting for the delayed train.",
+      "zh": "成千上万的通勤者站在站台上，等待那趟晚点的列车。"
+     }
+    ]
+   },
+   {
+    "title": "祈使结构 + and 表示条件和结果",
+    "explain": "“祈使句 + and + 陈述句”表示“如果……，就……”，and 前是条件，and 后是结果；“祈使句 + or + 陈述句”表示“……，否则……”。本句 resist temptation for about 15 minutes and earn two 是这一结构的变体：and 后也用动词原形，但逻辑上仍是“抵挡诱惑约15分钟，就能挣得两份”，所以视频把 and 译为“就能”。考研写作和翻译中，这种结构可以改写成 if 条件句，如 If you resist temptation for 15 minutes, you will earn two。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Book your tickets a month in advance and you can save up to 30 percent.",
+      "zh": "提前一个月订票，最多能省三成。"
+     },
+     {
+      "en": "Leave now, or you will miss the last train home.",
+      "zh": "现在就走，否则你会赶不上回家的末班车。"
+     }
+    ]
+   },
+   {
+    "title": "数词后名词的省略",
+    "explain": "上下文已经交代过的名词，在数词后面可以省略，避免重复。本句 earn two 即 earn two treats，与前面的 one treat 对应；of about four or five 即 of about four or five years (of age)，说的是年龄；“of + 数字”表年龄时不再接 old，不说 a child of five years old。阅读时要根据上下文补出省略的名词，翻译时常补出量词，如“两份”“四五岁”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most applicants submitted one essay, but a few submitted three.",
+      "zh": "大多数申请人提交了一篇文章，但也有少数人提交了三篇。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in solitude",
+    "explain": "独自，独处。solitude 是不可数名词，指独自一人的状态，常带安静、无人打扰的意味，如 live in solitude（独居）。本句指孩子被单独留在房间里面对零食，视频译为“独自”。"
+   },
+   {
+    "term": "treat",
+    "explain": "熟词僻义：treat 常作动词“对待，治疗”，本句作可数名词，指（给孩子的）小零食、好吃的东西，也可泛指令人高兴的事物或款待，如 a special treat（特别的享受）。视频译为“零食”。"
+   },
+   {
+    "term": "a blunt bargain",
+    "explain": "blunt 本义“（刀等）钝的”，引申为说话办事“直率的，直截了当的”；bargain 在此指双方的“交易，协议”，不是“便宜货”。a blunt bargain 指条件简单直白、没有商量余地的交易，视频译为“一桩直截了当的交易”。"
+   },
+   {
+    "term": "resist temptation",
+    "explain": "抵挡诱惑，固定搭配；反义说法是 give in to temptation、yield to temptation（屈服于诱惑）。视频译为“抵挡诱惑”。"
+   },
+   {
+    "term": "earn",
+    "explain": "通过努力、表现“挣得，赢得”，宾语不限于钱，如 earn respect（赢得尊重）、earn a reward（获得奖励）。本句强调第二份零食要靠等待换来，视频译为“挣得”。"
+   }
+  ],
+  "translation_tip": "视频译文“一个大约四五岁的孩子独自坐在一份零食前，面对一桩直截了当的交易：现在就吃，或者抵挡诱惑约15分钟，就能挣得两份。”的处理：①后置定语 of about four or five 前置为“大约四五岁的”，修饰“孩子”。②方式状语 in solitude 译为“独自”，放在动词“坐”前；地点状语 before one treat 译为“在一份零食前”，与“坐”合成“坐在一份零食前”。③分词短语 facing a blunt bargain 译成并列的动词短语“面对……”，不加“着”。④冒号保留；and earn two 中的 and 表示结果，译为“就能”，two 补出量词“两份”，与“一份零食”对应。⑤不定冠词 a 分别译为量词“一个”“一桩”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Impulsive children（前一分句）；resolute ones（后一分句）",
+   "predicate": "surrender（前一分句）；hold out（后一分句）",
+   "object_or_complement": "",
+   "explain": "分号连接两个并列的主谓结构：Impulsive children surrender 和 resolute ones hold out。surrender 和 hold out 都用作不及物，不带宾语。两个谓语都是一般现在时，主动语态，延续上句对实验场景的现在时描述，也带有概括一般情况的意味。"
+  },
+  "components": [
+   {
+    "text": "Impulsive children",
+    "role": "前一分句的主语",
+    "zh": "冲动的孩子"
+   },
+   {
+    "text": "often",
+    "role": "频度状语",
+    "zh": "往往"
+   },
+   {
+    "text": "surrender",
+    "role": "前一分句的谓语（不及物动词）",
+    "zh": "缴械投降"
+   },
+   {
+    "text": "instantly;",
+    "role": "时间状语（副词）",
+    "zh": "立刻"
+   },
+   {
+    "text": "resolute ones",
+    "role": "后一分句的主语（ones 替代 children）",
+    "zh": "意志坚定的孩子"
+   },
+   {
+    "text": "hold out.",
+    "role": "后一分句的谓语（短语动词，不及物）",
+    "zh": "则坚持抵抗，拒不妥协"
+   }
+  ],
+  "structure": "①全句由分号连接两个独立分句，两句之间没有连词，靠分号和结构上的对称表示对比：Impulsive children 对 resolute ones，surrender instantly 对 hold out。\n②前一分句：主语 Impulsive children，频度副词 often 放在实义动词 surrender 前，谓语 surrender 是不及物用法，意为“投降，屈服”，这里指孩子抵挡不住诱惑，马上把零食吃掉；instantly 作时间状语。\n③后一分句：主语 resolute ones，ones 替代前面的 children，避免重复；谓语 hold out 是不及物短语动词，意为“坚持抵抗，不屈服”，这里指孩子一直等到研究者回来，拿到两份零食。\n④surrender 和 hold out 本是描写战争、谈判的词，用在孩子和零食上，把一次等待写成一场与诱惑的较量。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接对比的并列分句",
+    "explain": "两个独立分句意思紧密相关、又不用连词连接时，中间要用分号，不能只用逗号（只用逗号连接两个独立分句是英语写作中常见的错误，称为 comma splice）。分号常用来连接形成对比或递进的两个分句，相当于省去了 while、but、and 等连词。本句前后两个分句结构对称、意思相反，用分号把对比表现得干脆利落。考研写作中，用分号连接对比句可以使行文紧凑，但两侧都必须是完整的句子。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some investors panic at the first sign of trouble; others see a chance to buy.",
+      "zh": "有些投资者一见苗头不对就惊慌失措；另一些人则看到了买入的机会。"
+     },
+     {
+      "en": "The first edition sold poorly; the second became a bestseller.",
+      "zh": "第一版卖得很差；第二版却成了畅销书。"
+     }
+    ]
+   },
+   {
+    "title": "代词 one/ones 替代可数名词",
+    "explain": "one 替代前文出现过的单数可数名词，ones 替代复数可数名词，前面常有形容词或 the、this 等限定词，后面也可接定语。本句 resolute ones 替代 resolute children，与前一分句的 Impulsive children 对照。名词前有形容词时，不能只留形容词而省去 ones（不说 resolute hold out）；不可数名词不能用 one 替代，如应说 I prefer red wine to white，不说 to white one。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old buildings were pulled down, and modern ones were built in their place.",
+      "zh": "旧楼被拆除了，原址上建起了现代化的新楼。"
+     },
+     {
+      "en": "Small firms often adapt to change faster than large ones.",
+      "zh": "小公司往往比大公司更快地适应变化。"
+     }
+    ]
+   },
+   {
+    "title": "频度副词 often 的位置",
+    "explain": "often、usually、always、seldom、never 等频度副词，一般放在实义动词前，be 动词、助动词和情态动词后，如 They often surrender、They are often late、They can often wait。本句 often 放在 surrender 前。often 表示“往往”，是概括性的说法，并非每个冲动的孩子都会立刻吃掉零食，阅读时要留意这类限定词对语气的弱化。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Patients often forget much of what their doctors tell them.",
+      "zh": "病人往往会忘掉医生告诉他们的大部分内容。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "surrender",
+    "explain": "本义“投降”，可作不及物动词（The troops surrendered）或及物动词（surrender a weapon 交出武器），也可接 to：surrender to temptation（向诱惑屈服）。本句用其比喻义，指孩子抵挡不住零食，立刻吃掉，视频译为“缴械投降”。"
+   },
+   {
+    "term": "hold out",
+    "explain": "短语动词，意为“坚持，不屈服”，常接 against：hold out against pressure（顶住压力）；另有“（食物、钱等）维持，够用”之义，如 Our supplies won't hold out much longer。本句视频译为“坚持抵抗，拒不妥协”。"
+   },
+   {
+    "term": "impulsive 与 resolute",
+    "explain": "impulsive（冲动的）指凭一时冲动行事，不考虑后果；resolute（意志坚定的）指下定决心、毫不动摇。两个形容词在句中形成反义对照，对应实验区分的两类孩子。"
+   }
+  ],
+  "translation_tip": "视频译文“冲动的孩子往往立刻缴械投降；意志坚定的孩子则坚持抵抗，拒不妥协。”的处理：①分号保留，后一分句增补“则”，点出两类孩子的对比。②ones 还原为“孩子”，汉语不用代词替代，直接重复名词更清楚。③instantly 在英文里位于动词后，译成“立刻”放在动词前。④surrender 译为“缴械投降”，hold out 译为“坚持抵抗，拒不妥协”，都沿用战争的比喻，前后呼应，用两个四字短语加强语势。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Follow-ups",
+   "predicate": "made",
+   "object_or_complement": "the test（宾语）；legendary（宾语补足语）",
+   "explain": "主干就是全句：Follow-ups made the test legendary，主谓宾加宾语补足语，make + 宾语 + 形容词，表示“使某物变得……”。谓语 made 为一般过去时，主动语态，叙述过去的事实。"
+  },
+  "components": [
+   {
+    "text": "Follow-ups",
+    "role": "主语（复合名词 follow-up 的复数）",
+    "zh": "后续研究"
+   },
+   {
+    "text": "made",
+    "role": "谓语（使役动词）",
+    "zh": "让"
+   },
+   {
+    "text": "the test",
+    "role": "宾语（指第1到3句描述的那项测验）",
+    "zh": "这项测验"
+   },
+   {
+    "text": "legendary.",
+    "role": "宾语补足语（形容词），说明 the test 变成的状态",
+    "zh": "名声大噪（被传为经典）"
+   }
+  ],
+  "structure": "①本句是“主语 + 谓语 + 宾语 + 宾语补足语”结构。make 是使役动词，legendary 作宾语补足语，说明 the test 在后续研究之后变成什么样；去掉 legendary，句意就不完整了。\n②Follow-ups 是名词 follow-up 的复数，指对当年参加实验的孩子所做的追踪研究，下一句的 A 1990 study 就是其中之一。\n③本句是第2段的主题句，句子很短，承上启下：前一段讲实验本身，这一段讲实验如何出名，后面两句具体说明后续研究发现了什么、测验被抬高到什么地位。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "make + 宾语 + 形容词（宾语补足语）",
+    "explain": "make 作使役动词时，可以接“宾语 + 宾语补足语”，宾补可以是形容词、名词、不带 to 的不定式或过去分词：make sb happy、make him chairman、make sb laugh、make oneself understood。形容词作宾补表示宾语因某个原因而变成的状态。本句 made the test legendary 即“使这项测验变得非常出名”。考研写作中常用 make it possible/necessary/difficult for sb to do sth，其中 it 是形式宾语，真正的宾语是后面的不定式。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A single viral video made the small coastal town famous almost overnight.",
+      "zh": "一段在网上疯传的视频几乎让这座海滨小镇一夜成名。"
+     },
+     {
+      "en": "New technology has made it possible for patients to consult doctors from home.",
+      "zh": "新技术让病人可以在家里向医生问诊。"
+     }
+    ]
+   },
+   {
+    "title": "由短语动词转化的复合名词及其复数",
+    "explain": "不少名词由短语动词转化而来，常加连字符或合写，如 follow-up（后续研究，追踪）、check-up（体检）、break-up（分手）、take-off（起飞）。这类名词的复数一般在词尾加 s：follow-ups、check-ups。注意区分词性：作名词或定语时用连字符（a follow-up study），作动词时分开写（follow up a lead 追查线索）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Patients over sixty should have regular check-ups.",
+      "zh": "六十岁以上的病人应定期体检。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "follow-up",
+    "explain": "名词，后续行动、后续研究，在心理学和医学研究中指对同一批研究对象的追踪调查，如 a follow-up study（追踪研究）；作定语时意为“后续的”。本句复数 Follow-ups 指对当年参加实验的孩子进行的多次追踪研究，视频译为“后续研究”。"
+   },
+   {
+    "term": "legendary",
+    "explain": "形容词，本义“传说中的，传奇的”，常用来形容非常有名、广为传颂的人或事物，如 a legendary figure（传奇人物）。本句视频译为“名声大噪”，并在括号里补“被传为经典”，说明这项测验因后续研究而声名远扬。"
+   },
+   {
+    "term": "the test",
+    "explain": "定冠词 the 表示特指，回指第1到3句描述的那项零食实验；第14句的 The test 也指它。注意与第8句的 the SAT analysis 区分：the test 是孩子面对零食的等待测验，the SAT analysis 是研究者对这些孩子日后 SAT 成绩所做的分析，两者不是同一回事。"
+   }
+  ],
+  "translation_tip": "视频译文“后续研究让这项测验名声大噪（被传为经典）。”的处理：①made the test legendary 是“使役动词 + 宾语 + 宾补”结构，译成汉语的兼语式“让……名声大噪”，made 译为“让”。②legendary 没有直译为“传奇的”，而是按语境译为“名声大噪”，括号补“被传为经典”，把“出名”和“成为经典”两层意思都交代出来。③复数 Follow-ups 译为“后续研究”，汉语名词不必体现单复数。④the test 译为“这项测验”，用“这项”回指前文的实验。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "A 1990 study",
+   "predicate": "found",
+   "object_or_complement": "that, as adolescents, longer waiters tended to attain higher scores on the SAT, a US college-entrance exam（that 引导的宾语从句）",
+   "explain": "主干是 A 1990 study found that…，主谓宾结构，宾语是 that 引导的宾语从句。主句谓语 found 为一般过去时，主动语态；从句谓语 tended to attain 也用一般过去时，与主句时态一致。"
+  },
+  "components": [
+   {
+    "text": "A 1990 study",
+    "role": "主语（1990 作前置定语）",
+    "zh": "1990年……的一项研究"
+   },
+   {
+    "text": "in Developmental Psychology",
+    "role": "后置定语（介词短语），修饰 study，说明发表在哪本期刊上",
+    "zh": "《发展心理学》上"
+   },
+   {
+    "text": "found",
+    "role": "谓语",
+    "zh": "发现"
+   },
+   {
+    "text": "that,",
+    "role": "宾语从句的引导词（在从句中不作成分）",
+    "zh": "（引导宾语从句，不单独译出）"
+   },
+   {
+    "text": "as adolescents,",
+    "role": "从句中的时间状语（介词 as 短语，意为“作为青少年时”），插在 that 与从句主语之间",
+    "zh": "到了青少年时期"
+   },
+   {
+    "text": "longer waiters",
+    "role": "从句主语",
+    "zh": "等得更久的孩子"
+   },
+   {
+    "text": "tended to attain",
+    "role": "从句谓语（tend to + 动词原形）",
+    "zh": "往往……取得"
+   },
+   {
+    "text": "higher scores",
+    "role": "从句宾语",
+    "zh": "更高分数"
+   },
+   {
+    "text": "on the SAT,",
+    "role": "后置定语（介词短语），修饰 higher scores，说明在哪项考试中的分数",
+    "zh": "在SAT中"
+   },
+   {
+    "text": "a US college-entrance exam.",
+    "role": "同位语，解释说明 the SAT",
+    "zh": "（也就是）美国的高考（大学录取考试）"
+   }
+  ],
+  "structure": "①主句是 A 1990 study found that…。主语 A 1990 study，1990 作前置定语说明研究的年份，in Developmental Psychology 是介词短语作后置定语，说明研究发表在《发展心理学》期刊上。谓语 found，宾语是 that 引导的宾语从句。\n②that 只起引导作用，在从句中不作成分。that 后面紧跟一个用逗号隔开的插入状语 as adolescents，as 是介词，意为“作为，在……时期”，as adolescents 相当于 when they were adolescents，修饰从句谓语。宾语从句前有插入成分时，that 一般保留，以免结构不清。\n③从句主干是 longer waiters tended to attain higher scores：longer waiters 是“比较级形容词 + 施事名词”，指等待时间更长的孩子；tended to attain 中 tend to do 表示倾向，意为“往往”；higher scores 是宾语，on the SAT 说明是哪项考试的分数，score on a test 中介词用 on。\n④a US college-entrance exam 是同位语，补充说明 the SAT 是什么，供不了解美国考试制度的读者参考。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导宾语从句，that 后有插入状语",
+    "explain": "find、show、suggest、report 等动词后常接 that 引导的宾语从句，表示研究发现或报告的内容；that 在从句中不作成分，口语中常省略。但 that 与从句主语之间插入状语或插入语时，that 一般不省略，否则读者难以判断从句从哪里开始。本句 found that, as adolescents, longer waiters… 中，as adolescents 插在 that 和从句主语之间。考研阅读中，研究类文章大量使用“study/research + found/showed + that 从句”，从句的内容才是答题依据，要越过插入成分找到从句主干。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The survey found that, in rural areas, women were more likely than men to start small businesses.",
+      "zh": "调查发现，在农村地区，女性比男性更有可能创办小企业。"
+     },
+     {
+      "en": "The researchers noted that, over time, the effect of the drug grew weaker.",
+      "zh": "研究人员注意到，随着时间推移，这种药物的效果逐渐减弱。"
+     }
+    ]
+   },
+   {
+    "title": "介词 as 表示身份或人生阶段",
+    "explain": "as 作介词，后接名词，可表示“作为，以……身份”；后接表示人生阶段的名词时，意为“在……时期”，如 as a child（小时候）、as a student（上学时）、as adolescents（青少年时期）。本句 as adolescents 指这些孩子长到青少年阶段时，视频译为“到了青少年时期”。as 短语的逻辑主语一般应与所修饰分句的主语一致，本句 as adolescents 的逻辑主语就是 longer waiters。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As a child, she spent every summer on her grandparents' farm.",
+      "zh": "小时候，她每年夏天都在祖父母的农场里度过。"
+     }
+    ]
+   },
+   {
+    "title": "同位语补充说明专有名词",
+    "explain": "名词短语紧跟在另一个名词后，用逗号隔开，对它作解释说明，就是同位语。新闻和外刊在提到读者可能不熟悉的机构、考试、人物时，常在后面加一个同位语交代其身份。本句 the SAT, a US college-entrance exam 中，同位语说明 SAT 是美国的大学入学考试。翻译时可以加“也就是”“即”等词，或用括号补充。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She studied at MIT, a university famous for its engineering programmes.",
+      "zh": "她就读于麻省理工学院，这所大学以工程专业闻名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "longer waiters",
+    "explain": "熟词僻义：waiter 常指“服务员”，这里是动词 wait 加 -er 构成的施事名词，意为“等待的人”；longer waiters 指等待时间更长的孩子，视频译为“等得更久的孩子”。英语常用“形容词比较级 + 施事名词”简洁表达动作的程度，如 heavier drinkers（饮酒更多的人）、early risers（早起的人）。"
+   },
+   {
+    "term": "Developmental Psychology",
+    "explain": "《发展心理学》，美国心理学会（American Psychological Association）主办的学术期刊，期刊名用斜体或书名号。developmental psychology 作学科名时指研究人从出生到老年心理变化的心理学分支。本句提到的研究由 Shoda、Mischel 和 Peake 于1990年发表。"
+   },
+   {
+    "term": "the SAT",
+    "explain": "美国大学理事会（College Board）主办的标准化考试，是美国本科录取常用的考试之一。名称最初是 Scholastic Aptitude Test 的首字母缩写，现在官方只称 SAT，字母不再代表具体词语。视频用中国读者熟悉的“高考”类比，并在括号里注明“大学录取考试”。"
+   },
+   {
+    "term": "tend to do",
+    "explain": "往往会，倾向于，表示一般趋势，语气比 always 弱，研究类文章常用来表述统计规律。本句 tended to attain 说明等得更久的孩子总体上分数更高，并非每个孩子都如此，视频译为“往往……取得”。"
+   },
+   {
+    "term": "attain",
+    "explain": "正式用词，意为“（经过努力）获得，达到”，常接 a goal、a level、success 等，比 get 正式。attain higher scores 即“取得更高分数”，score on a test 中介词用 on。"
+   }
+  ],
+  "translation_tip": "视频译文“1990年《发展心理学》上的一项研究发现，到了青少年时期，等得更久的孩子往往在SAT中取得更高分数，（也就是）美国的高考（大学录取考试）。”的处理：①主语的后置定语 in Developmental Psychology 前置为“《发展心理学》上的”，期刊名加书名号，年份放在最前。②that 不译，插入的 as adolescents 保留在从句开头，译为“到了青少年时期”，用逗号隔开，与原文语序一致。③longer waiters 是名词化表达，还原成动词短语“等得更久的孩子”。④tended to 译为“往往”，后置的 on the SAT 前移为“在SAT中”，放在动词“取得”前。⑤同位语按原文顺序留在句末，用“（也就是）”点明解释关系，SAT 保留英文，再以“高考”类比，括号补“大学录取考试”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "A trivial snack（前一分句）；restraint（后一分句）",
+   "predicate": "became（前一分句）；was glorified（后一分句）",
+   "object_or_complement": "an emblem of virtue（表语）；as a predictor of destiny（主语补足语）",
+   "explain": "and 连接两个并列分句。前一分句是主系表结构，became 为系动词；后一分句是被动语态，as a predictor of destiny 作主语补足语。两个谓语都是一般过去时，后一分句为一般过去时的被动语态。"
+  },
+  "components": [
+   {
+    "text": "A trivial snack",
+    "role": "前一分句的主语",
+    "zh": "一份微不足道的零食"
+   },
+   {
+    "text": "became",
+    "role": "系动词",
+    "zh": "成了"
+   },
+   {
+    "text": "an emblem of virtue,",
+    "role": "表语（of virtue 作 emblem 的后置定语）",
+    "zh": "美德的象征"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "restraint",
+    "role": "后一分句的主语",
+    "zh": "克制"
+   },
+   {
+    "text": "at four",
+    "role": "后置定语（介词短语），修饰 restraint，说明年龄",
+    "zh": "四岁时的"
+   },
+   {
+    "text": "was glorified as",
+    "role": "谓语（被动语态，glorify sth as sth）",
+    "zh": "被美化为"
+   },
+   {
+    "text": "a predictor of destiny.",
+    "role": "as 的宾语，as 短语作主语补足语",
+    "zh": "命运的预测指标"
+   }
+  ],
+  "structure": "①and 连接两个并列分句，结构相似，层层推进：前一分句说零食成了美德的象征，后一分句说孩子四岁时的表现被当成命运的预测指标。\n②前一分句 A trivial snack became an emblem of virtue 是主系表结构：became 是系动词，an emblem of virtue 是表语，of virtue 作 emblem 的后置定语。\n③后一分句 restraint at four was glorified as a predictor of destiny：主语 restraint，at four 作后置定语，表示“四岁时的”；谓语 was glorified 是被动语态，对应主动结构 glorify restraint as a predictor of destiny，as 短语在被动句中作主语补足语。\n④trivial（微不足道的）与 virtue、destiny 这样分量很重的词并置，形成强烈反差；glorify 本身含有“把……说得比实际更好”的意味。作者借此暗示，这种拔高过了头，为第3段的转折 Yet the foundation was precarious 作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "被动语态 + as 短语：be glorified as",
+    "explain": "glorify、regard、see、describe、hail、praise、view 等动词常用于“动词 + 宾语 + as + 名词/形容词”结构，as 短语作宾语补足语；变成被动语态后，原来的宾语作主语，as 短语随之变成主语补足语：sb/sth is regarded/hailed/glorified as… 本句 restraint was glorified as a predictor of destiny 省略了施动者，没有说是谁这样美化，重点放在被美化的对象上。考研阅读中，这类结构常用于转述别人的看法，判断作者态度时要看动词本身的感情色彩：glorify 往往暗含不认同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new law was hailed as a turning point in the fight against poverty.",
+      "zh": "这部新法律被誉为反贫困斗争的转折点。"
+     },
+     {
+      "en": "For decades, the dam was regarded as a symbol of national progress.",
+      "zh": "几十年来，这座大坝一直被视为国家进步的象征。"
+     }
+    ]
+   },
+   {
+    "title": "become 作系动词",
+    "explain": "become 是表示“变成”的系动词，后接名词或形容词作表语，不能接副词，也没有被动语态。类似的变化类系动词还有 get、grow、turn、go 等。本句 A trivial snack became an emblem of virtue 中，an emblem of virtue 是表语，说明零食“变成”了什么。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Within a decade, the small workshop became one of the country's leading manufacturers.",
+      "zh": "不到十年，这家小作坊就成了国内领先的制造商之一。"
+     }
+    ]
+   },
+   {
+    "title": "at + 年龄",
+    "explain": "表示“在几岁时”，常用 at + 数字，相当于 at the age of + 数字，如 at four、at the age of four。本句 restraint at four 中，at four 作后置定语，意为“四岁时的克制”；第11句的 at four and a half、at 15 是同样的用法，在那里作时间状语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She learned to read at three and was writing short stories at seven.",
+      "zh": "她三岁学会认字，七岁时已在写短篇故事。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "an emblem of virtue",
+    "explain": "emblem 指象征、标志，可以是具体的图案，也可以是代表某种品质的事物，如 an emblem of peace（和平的象征）。virtue 意为“美德”，另有固定短语 by virtue of（凭借，由于）。本句指零食实验被当作检验美德（自制力）的标志，视频译为“美德的象征”。"
+   },
+   {
+    "term": "glorify",
+    "explain": "美化，颂扬，常含贬义，指把某事说得比实际更好或更光彩，如 glorify violence（美化暴力）。本句视频译为“美化”，透露出作者认为这种评价言过其实。"
+   },
+   {
+    "term": "a predictor of",
+    "explain": "预测指标，预测因素，常见于研究类文章，如 a strong predictor of success（预示成功的有力指标）。本句 a predictor of destiny 视频译为“命运的预测指标”。"
+   },
+   {
+    "term": "trivial",
+    "explain": "微不足道的，琐碎的。作者特意用 trivial 修饰 snack，与后文的 virtue、destiny 形成反差，讽刺人们对一份零食赋予了过重的意义。"
+   }
+  ],
+  "translation_tip": "视频译文“一份微不足道的零食成了美德的象征，而四岁时的克制被美化为命运的预测指标。”的处理：①and 译为“而”，把两个并列分句连成一句，体现前后递进对照。②后置定语 at four 前置为“四岁时的”，修饰“克制”。③被动语态 was glorified as 保留被动，译为“被美化为”，与原文省略施动者一致。④an emblem of virtue 和 a predictor of destiny 都把 of 结构转为汉语的“……的……”：“美德的象征”“命运的预测指标”。⑤不定冠词 A 译为量词“一份”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "the foundation",
+   "predicate": "was",
+   "object_or_complement": "precarious（表语）",
+   "explain": "主干就是全句：the foundation was precarious，主系表结构，precarious 作表语。谓语 was 为一般过去时，评价的是当年那批研究结论的根基。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "表示转折的连接词，连接上一段",
+    "zh": "然而"
+   },
+   {
+    "text": "the foundation",
+    "role": "主语",
+    "zh": "这种根据（该研究结论的根基）"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 precarious 合译为“并不牢靠”）"
+   },
+   {
+    "text": "precarious.",
+    "role": "表语（形容词）",
+    "zh": "并不牢靠（站不住脚）"
+   }
+  ],
+  "structure": "①本句是主系表结构，Yet 放在句首表示转折，与上一段形成对照：上一段说这项测验被传为经典，本段开始指出它的问题。\n②the foundation 中的定冠词 the 表示特指，指上一段那些结论（等得久的孩子 SAT 分数更高，克制力能预测命运）赖以成立的根据。\n③precarious 作表语，本义“不稳固的，随时可能倒塌的”，这里指结论的根基不牢靠。\n④本句是第3段的主题句，后面两句具体说明根基为什么不牢：样本只有几十个孩子，而且几乎都来自斯坦福大学教师和研究生的家庭。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "Yet 置于句首表示转折",
+    "explain": "yet 作连词时意为“然而，但是”，可以连接两个分句，也可以放在句首，与上文形成转折，语气比 but 更正式。考研阅读中，段首的 Yet、But、However 是重要的信号词，往往引出作者的真实观点或与前文相反的内容，转折之后的句子常是主题句和出题点。本文第2段讲测验走红，第3段以 Yet 开头转入质疑，文章重心由此转移。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked perfect on paper. Yet within weeks it had run into serious trouble.",
+      "zh": "这项计划在纸面上看起来完美无缺。然而，不出几周就遇到了大麻烦。"
+     }
+    ]
+   },
+   {
+    "title": "定冠词 the 回指上文",
+    "explain": "定冠词 the 可以表示特指，指上文提到过或读者根据上文能确定的事物。本句 the foundation 并没有在上文出现过，但读者能从上下文判断：它指上一段那些结论所依据的研究基础。阅读时遇到“the + 抽象名词”开头的句子，要回到上文找它具体指什么，代词和指代题常考这一点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The government promised to cut taxes. The promise, however, was never kept.",
+      "zh": "政府承诺减税。然而，这个承诺从未兑现。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "foundation",
+    "explain": "本义是建筑物的“地基”，引申为理论、论点的“基础，根据”，如 lay the foundation for（为……打下基础）、without foundation（毫无根据）；另有“基金会”之义。本句视频译为“这种根据”，括号补“该研究结论的根基”。"
+   },
+   {
+    "term": "precarious",
+    "explain": "形容词，不稳固的，岌岌可危的，可形容具体的位置（a precarious ledge）、处境或地位（a precarious position），也可形容论证不牢靠。本句视频译为“并不牢靠”，括号补“站不住脚”。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，这种根据（该研究结论的根基）并不牢靠（站不住脚）。”的处理：①Yet 译为“然而”，后加逗号，突出转折。②the foundation 译为“这种根据”，“这种”体现 the 的特指，括号补“该研究结论的根基”，说明根据指的是什么。③系动词 was 不单独译出；precarious 本身是肯定形式的形容词，视频用否定说法“并不牢靠”译出，括号补“站不住脚”，进一步点明论证上的含义。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Only a few dozen children",
+   "predicate": "entered",
+   "object_or_complement": "the SAT analysis",
+   "explain": "主干是 Only a few dozen children entered the SAT analysis，主谓宾结构；逗号后的名词短语是 children 的同位语。谓语 entered 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Only a few dozen children",
+    "role": "主语（only 修饰数量短语 a few dozen，强调人数少）",
+    "zh": "只有几十个孩子"
+   },
+   {
+    "text": "entered",
+    "role": "谓语",
+    "zh": "进入了"
+   },
+   {
+    "text": "the SAT analysis,",
+    "role": "宾语",
+    "zh": "SAT分析"
+   },
+   {
+    "text": "predominantly",
+    "role": "状语（副词），修饰后面的同位语，表示“主要是”",
+    "zh": "主要是"
+   },
+   {
+    "text": "the sons and daughters",
+    "role": "同位语（补充说明主语 children）",
+    "zh": "子女"
+   },
+   {
+    "text": "of Stanford faculty and postgraduate students.",
+    "role": "后置定语（介词短语），修饰 the sons and daughters",
+    "zh": "斯坦福教师（全体教员）和研究生的"
+   }
+  ],
+  "structure": "①主句 Only a few dozen children entered the SAT analysis 是主谓宾结构。only 修饰数量短语 a few dozen，强调样本人数少；entered 指被纳入分析，the SAT analysis 指上一段1990年研究中对 SAT 成绩的分析。\n②逗号后的 predominantly the sons and daughters of… 是名词短语作同位语，补充说明这几十个孩子是什么人。它说明的是主语 children，而不是紧挨在前面的 the SAT analysis，中间隔着谓语和宾语，阅读时要看清它的说明对象。predominantly 是副词，修饰整个同位语，意为“主要是”，说明大部分而非全部孩子如此。\n③of Stanford faculty and postgraduate students 作 the sons and daughters 的后置定语。Stanford 同时修饰 faculty 和 postgraduate students，即斯坦福的教师和斯坦福的研究生；faculty 是集合名词，指全体教员；postgraduate 是形容词，修饰 students。\n④本句与上句 Yet the foundation was precarious 构成“观点 + 理由”：根据不牢靠的第一个原因是样本太少，第二个原因是样本来源单一，下一句接着分析其后果。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "与中心词分隔的句末同位语",
+    "explain": "同位语一般紧跟在被说明的名词之后，但为了让句子主干紧凑，作者也可以把同位语放到句末，用逗号与主句隔开，补充说明前面的主语或宾语。这时同位语与它说明的名词之间隔着别的成分，要靠意思判断说明对象。本句 predominantly the sons and daughters of… 说明的是主语 children（孩子才可能是某人的子女），而不是 the SAT analysis。同位语前常带 mostly、mainly、chiefly、predominantly 等副词，说明构成情况。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "About two hundred volunteers joined the trial, mostly retired teachers from the local area.",
+      "zh": "大约两百名志愿者参加了这项试验，大部分是当地的退休教师。"
+     },
+     {
+      "en": "The museum drew record crowds last summer, chiefly families with young children.",
+      "zh": "去年夏天，这家博物馆的参观人数创下纪录，以带着小孩的家庭为主。"
+     }
+    ]
+   },
+   {
+    "title": "dozen 的用法",
+    "explain": "dozen 意为“十二个，一打”。前面有具体数词或 a few、several、many 等词时，dozen 不加 s，后面直接接名词，不加 of：a few dozen children、three dozen eggs。表示不确定的“几十，许多”时用复数 dozens of：dozens of children。the/these 等限定词后接名词时才用 of，如 two dozen of these eggs。本句 a few dozen children 意为“几十个孩子”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Several dozen protesters gathered outside the town hall on Monday morning.",
+      "zh": "周一上午，几十名抗议者聚集在市政厅外。"
+     },
+     {
+      "en": "Dozens of flights were cancelled because of the heavy fog.",
+      "zh": "由于大雾，数十个航班被取消。"
+     }
+    ]
+   },
+   {
+    "title": "only 修饰主语时不倒装",
+    "explain": "“only + 状语”放在句首时，主句要部分倒装，如 Only after the third attempt did she succeed。但 only 修饰的是主语时，句子不倒装，按正常语序：Only a few dozen children entered…。考研语法和写作中常在这里出错，判断方法是看 only 后面的成分在句中作什么：作状语要倒装，作主语不倒装。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only a handful of students passed the final exam.",
+      "zh": "只有寥寥几名学生通过了期末考试。"
+     },
+     {
+      "en": "Only after the third attempt did she pass the driving test.",
+      "zh": "直到第三次她才通过驾照考试。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "faculty",
+    "explain": "在美国英语中指大学或学院的全体教员，是集合名词，如 faculty members（教员）；在英国英语中常指大学的“院系”，如 the Faculty of Law（法学院）。另有“能力，官能”之义，如 mental faculties（智力）。本句视频译为“教师”，括号补“全体教员”。"
+   },
+   {
+    "term": "postgraduate students",
+    "explain": "研究生。postgraduate 是英式说法，美式英语多说 graduate students；undergraduate 指本科生。本句 postgraduate 作形容词修饰 students，视频译为“研究生”。"
+   },
+   {
+    "term": "the sons and daughters",
+    "explain": "字面意思是“儿子和女儿”，合起来即“子女”。主语已经用了 children，同位语换说 the sons and daughters of…，既避免重复，又把重点转到孩子的父母是谁，与本段讨论样本的家庭背景相呼应。视频译为“子女”。"
+   },
+   {
+    "term": "predominantly",
+    "explain": "副词，主要地，占多数地，强调在数量上占优势，如 a predominantly rural area（以农村为主的地区）。本句说明这些孩子大多（并非全部）来自斯坦福教师和研究生的家庭，视频译为“主要是”。"
+   }
+  ],
+  "translation_tip": "视频译文“只有几十个孩子进入了SAT分析，主要是斯坦福教师（全体教员）和研究生的子女。”的处理：①Only a few dozen children 译为“只有几十个孩子”，“只有”突出人数少。②entered 直译为“进入了”，指被纳入分析的样本。③句末的同位语单独译成一个分句“主要是……的子女”，predominantly 译为“主要是”，顺着英文语序放在后面，既交代了孩子的来源，又避免主语前定语过长。④后置定语 of Stanford faculty and postgraduate students 前置为“斯坦福教师（全体教员）和研究生的”，faculty 译为“教师”，括号补“全体教员”，说明它是集合名词；sons and daughters 合译为“子女”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Such a homogeneous, privileged group（前一分句）；prosperous homes（后一分句）",
+   "predicate": "could scarcely represent（前一分句）；may foster（后一分句）",
+   "object_or_complement": "ordinary families（前一分句的宾语）；patience and academic success（后一分句的宾语）",
+   "explain": "and 连接两个并列分句，都是主谓宾结构。前一分句谓语 could scarcely represent 由情态动词 could、半否定副词 scarcely 和动词 represent 构成，评价当年那批样本；后一分句谓语 may foster 由情态动词 may 加动词原形构成，用一般现在时陈述一种可能存在的普遍情况。两个分句都是主动语态。"
+  },
+  "components": [
+   {
+    "text": "Such a homogeneous, privileged group",
+    "role": "前一分句的主语（such a + 两个并列形容词 + 名词，回指上句的几十个孩子）",
+    "zh": "如此同质的、优越的群体"
+   },
+   {
+    "text": "could scarcely",
+    "role": "情态动词 could + 半否定副词 scarcely（谓语的一部分）",
+    "zh": "几乎不能"
+   },
+   {
+    "text": "represent",
+    "role": "谓语动词",
+    "zh": "代表"
+   },
+   {
+    "text": "ordinary families,",
+    "role": "宾语",
+    "zh": "普通的家庭"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句，表示递进",
+    "zh": "而且"
+   },
+   {
+    "text": "prosperous homes",
+    "role": "后一分句的主语",
+    "zh": "富裕的家庭"
+   },
+   {
+    "text": "may",
+    "role": "情态动词，表示推测（谓语的一部分）",
+    "zh": "可能"
+   },
+   {
+    "text": "foster",
+    "role": "谓语动词",
+    "zh": "既能培养"
+   },
+   {
+    "text": "patience",
+    "role": "宾语一",
+    "zh": "耐心"
+   },
+   {
+    "text": "and academic success",
+    "role": "并列连词 and + 宾语二",
+    "zh": "也能促成学业成就"
+   },
+   {
+    "text": "alike.",
+    "role": "状语（副词），强调前面两个宾语同样适用",
+    "zh": "（二者兼顾）"
+   }
+  ],
+  "structure": "①前一分句 Such a homogeneous, privileged group could scarcely represent ordinary families：主语中 such a 回指上句那几十个斯坦福教师和研究生的子女；homogeneous 和 privileged 是两个并列的形容词，用逗号隔开，分别说明这个群体背景相同、条件优越。谓语 could scarcely represent，scarcely 是半否定副词，意为“几乎不”；could 与前文的一般过去时呼应，评价当年的样本，同时带有推断语气。宾语是 ordinary families。\n②后一分句 prosperous homes may foster patience and academic success alike：主语 prosperous homes，home 在这里指家庭；谓语 may foster，may 表示可能，作者只是提出一种可能，并未断定；宾语是并列的 patience 和 academic success，句末副词 alike 意为“两者同样”，强调富裕家庭对两方面都有促进作用。\n③两个分句由 and 连接，讲的是样本问题的两层后果：第一层，样本不能代表普通家庭，结论难以推广；第二层，家庭条件可能同时带来耐心和好成绩，于是两者之间的关联不一定说明耐心带来了好成绩。这正是第4段要通过调整家庭背景来检验的问题。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "半否定副词 scarcely",
+    "explain": "scarcely、hardly、barely、seldom、rarely 等副词本身带有否定意义，称为半否定词，意为“几乎不，很少”。使用时要注意三点：一是不能再与 not、never 等否定词连用，不说 could not scarcely；二是放在句首时，句子要部分倒装，常见句型 Scarcely/Hardly had sb done sth when…（刚……就……）；三是含半否定词的陈述句，反意疑问句用肯定形式。本句 could scarcely represent 意为“几乎不能代表”，语气比 could not represent 委婉，但否定意味依然明确。考研阅读中，这类词决定句子是肯定还是否定，做判断题时不能看漏。例句一 could scarcely have been more + 形容词，字面是“几乎不可能更……了”，实际表示“极其……”，是外刊常见的强调说法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The results could scarcely have been more disappointing.",
+      "zh": "结果简直令人失望透顶。"
+     },
+     {
+      "en": "Scarcely had the meeting begun when the fire alarm went off.",
+      "zh": "会议刚开始，火警警报就响了。"
+     }
+    ]
+   },
+   {
+    "title": "A and B alike（A 和 B 都）",
+    "explain": "alike 作副词放在“A and B”之后，意为“A 和 B 同样，两者都”，相当于 both A and B。常见于 teachers and parents alike、rich and poor alike 这类表达，强调某种说法或影响对两类对象同样适用。本句 foster patience and academic success alike 即“既培养耐心，也促成学业成就”，视频用“既能……也能……”译出，括号补“二者兼顾”。alike 作形容词时只作表语，如 The twins look alike，不能放在名词前作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules have been criticized by teachers and parents alike.",
+      "zh": "新规定遭到了教师和家长的一致批评。"
+     },
+     {
+      "en": "The festival attracts locals and tourists alike.",
+      "zh": "这个节日对当地人和游客都很有吸引力。"
+     }
+    ]
+   },
+   {
+    "title": "such a + 形容词 + 名词 与并列形容词",
+    "explain": "such 修饰单数可数名词时，语序是 such a + 形容词 + 名词；so 修饰时语序是 so + 形容词 + a + 名词，如 such a small group 与 so small a group 意思相同。本句的 such 用来回指上文，意为“如此的，这样的”。名词前有两个以上并列的形容词、各自独立修饰名词时，形容词之间用逗号隔开，如 a homogeneous, privileged group，可以把逗号换成 and 来检验是否并列。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Few cities have ever attempted such an ambitious plan.",
+      "zh": "很少有城市尝试过如此雄心勃勃的计划。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "homogeneous",
+    "explain": "同质的，成分相同的，指一个群体内部成员在背景、特征上高度相似，反义词是 heterogeneous（异质的，混杂的）。研究类文章中 a homogeneous sample 指样本单一，代表性不足。本句视频译为“同质的”。"
+   },
+   {
+    "term": "privileged",
+    "explain": "享有特权的，条件优越的，如 a privileged background（优越的家庭背景）；the privileged 指特权阶层。本句视频译为“优越的”。"
+   },
+   {
+    "term": "prosperous homes",
+    "explain": "home 在这里指家庭，不是“房子”；prosperous 意为“富裕的，兴旺的”。视频译为“富裕的家庭”。"
+   },
+   {
+    "term": "foster",
+    "explain": "培养，促进（某种品质、感情或发展），如 foster talent、foster understanding；另有“收养，代养”之义，如 foster a child、a foster family（寄养家庭）。本句同一个 foster 带两个宾语，视频按宾语分别译为“培养”耐心和“促成”学业成就。"
+   },
+   {
+    "term": "混杂因素",
+    "explain": "统计学上，同时影响两个被研究变量的第三个因素称为混杂因素（confounder）。本句后一分句指出的就是这种可能：家庭条件好，既可能让孩子更有耐心，也可能让孩子成绩更好，耐心和成绩之间的关联不一定说明前者导致后者。第13句的 Adjusting for family background 正是为了排除这种影响。"
+   }
+  ],
+  "translation_tip": "视频译文“如此同质的、优越的群体几乎不能代表普通的家庭，而且富裕的家庭可能既能培养耐心也能促成学业成就（二者兼顾）。”的处理：①Such a 译为“如此”，两个并列形容词之间的逗号译为顿号：“同质的、优越的”。②could scarcely 译为“几乎不能”，保留半否定的委婉语气。③and 译为“而且”，表示递进。④may 译为“可能”，保留推测语气。⑤foster patience and academic success alike 中，alike 强调两者都，视频用关联词“既能……也能……”译出，同一个 foster 按搭配分别译为“培养”和“促成”，括号补“二者兼顾”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "A study",
+   "predicate": "ran",
+   "object_or_complement": "a conceptual replication",
+   "explain": "主干是 A study ran a conceptual replication，主谓宾结构；冒号后的三个名词短语解释 replication 的内容。谓语 ran 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A study",
+    "role": "主语",
+    "zh": "一项研究"
+   },
+   {
+    "text": "published in Psychological Science in May 2018",
+    "role": "后置定语（过去分词短语），修饰 A study",
+    "zh": "2018年5月发表于《心理科学》的"
+   },
+   {
+    "text": "ran",
+    "role": "谓语（run 意为“进行，开展”）",
+    "zh": "做了"
+   },
+   {
+    "text": "a conceptual replication:",
+    "role": "宾语",
+    "zh": "一次概念性的（科研）重复实验"
+   },
+   {
+    "text": "the same idea,",
+    "role": "冒号后的解释说明（同位语性质，三项并列之一）",
+    "zh": "同样的思路"
+   },
+   {
+    "text": "a new sample,",
+    "role": "冒号后的解释说明（三项并列之二）",
+    "zh": "新的样本"
+   },
+   {
+    "text": "modified methods.",
+    "role": "冒号后的解释说明（三项并列之三；modified 是过去分词作前置定语）",
+    "zh": "调整过的方法"
+   }
+  ],
+  "structure": "①主句 A study ran a conceptual replication：主语 A study 后接过去分词短语 published in Psychological Science in May 2018 作后置定语，A study 与 publish 是被动关系，相当于 which was published…；短语内 in Psychological Science 说明发表的期刊，in May 2018 说明时间。谓语 ran 是 run 的过去式，run a study/test 意为“进行研究、测试”，宾语是 a conceptual replication。\n②冒号后的 the same idea, a new sample, modified methods 是三个并列的名词短语，解释什么是 conceptual replication：沿用原研究的思路，但换了样本、调整了方法。三项之间没有用 and，这种省略连词的写法简洁有力，像列清单一样。\n③modified methods 中 modified 是过去分词作前置定语，表示“被调整过的”。\n④本句是第4段的主题句，由此开始介绍新研究如何重新检验原来的结论，与第8句“只有几十个孩子”形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语修饰名词时一般放在名词后面，表示被动或完成，相当于一个省略了“关系代词 + be”的定语从句。本句 A study published in Psychological Science in May 2018 相当于 A study which was published…。研究类文章介绍文献时，常用“study/research/report + published/released/conducted + in/by…”的结构，第15句的 Research published in Cognition in January 2013 也是如此。阅读时注意：名词后的 published 不是谓语，真正的谓语是后面的 ran。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A report released by the World Bank last week warns of slowing growth across the region.",
+      "zh": "世界银行上周发布的一份报告警告称，整个地区的经济增长正在放缓。"
+     },
+     {
+      "en": "Most of the paintings displayed in the exhibition are on loan from private collectors.",
+      "zh": "展览中展出的画作大多是从私人收藏家那里借来的。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释性的并列成分",
+    "explain": "冒号常用来引出对前文的解释、说明或列举，冒号后可以是完整句子，也可以是名词短语。本句冒号后用三个名词短语解释 a conceptual replication 的含义。原文三项之间省略了 and，这是一种修辞手法，使表达紧凑、节奏明快；在一般的正式写作中，三项并列通常写成 A, B, and C。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan had three aims: lower costs, faster service, and happier customers.",
+      "zh": "这项计划有三个目标：降低成本、加快服务、让顾客更满意。"
+     }
+    ]
+   },
+   {
+    "title": "in + 月份 + 年份",
+    "explain": "表示在某年某月，用介词 in，如 in May 2018；只有具体到某一天时才用 on，如 on 25 May 2018。年份、月份、季节前都用 in。本句 in May 2018 和第15句的 in January 2013 都是这种用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge reopened in March 2021, after two years of repairs.",
+      "zh": "经过两年的维修，这座桥于2021年3月重新开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Psychological Science",
+    "explain": "《心理科学》，心理科学协会（Association for Psychological Science）主办的学术期刊。本句提到的研究由 Watts、Duncan 和 Quan 发表，题为 Revisiting the Marshmallow Test，副标题即说明这是一次概念性重复研究。"
+   },
+   {
+    "term": "conceptual replication",
+    "explain": "心理学研究术语。replication 指重复别人的研究，检验能否得到相同结果；direct replication（直接重复）尽量照搬原研究的程序，conceptual replication（概念性重复）则检验同一个假设，但可以换用不同的样本和方法。冒号后的 the same idea, a new sample, modified methods 正是对它的解释。视频译为“概念性的（科研）重复实验”。"
+   },
+   {
+    "term": "run a study",
+    "explain": "熟词僻义：run 在这里不是“跑”，而是“进行，开展，主持”，如 run a test（做测试）、run an experiment（做实验）、run a survey（开展调查）。视频译为“做了”。"
+   },
+   {
+    "term": "modified",
+    "explain": "modify（修改，调整）的过去分词，作前置定语，表示“调整过的”，如 a modified version（修订版）。生物学中 genetically modified 意为“转基因的”。"
+   }
+  ],
+  "translation_tip": "视频译文“2018年5月发表于《心理科学》的一项研究做了一次概念性的（科研）重复实验：同样的思路，新的样本，调整过的方法。”的处理：①过去分词短语 published in Psychological Science in May 2018 前置为“2018年5月发表于《心理科学》的”，时间状语提到最前，期刊名加书名号。②ran 不译为“跑”，按 run a study 的搭配译为“做了”；不定冠词 a 译为量词“一次”。③replication 译为“重复实验”，括号补“科研”，提示这是科研术语。④冒号后三个名词短语照原样译出，用逗号隔开，保留原文简洁的节奏。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "More than 900 youngsters",
+   "predicate": "were assessed",
+   "object_or_complement": "",
+   "explain": "主干是 More than 900 youngsters were assessed，一般过去时的被动语态，省略了施动者（研究者）；后面是两个由 and 连接的时间状语。"
+  },
+  "components": [
+   {
+    "text": "More than 900 youngsters",
+    "role": "主语",
+    "zh": "900多名……儿童或青少年"
+   },
+   {
+    "text": "from diverse backgrounds",
+    "role": "后置定语（介词短语），修饰 youngsters",
+    "zh": "来自多种不同的背景的"
+   },
+   {
+    "text": "were assessed",
+    "role": "谓语（一般过去时的被动语态）",
+    "zh": "接受评估"
+   },
+   {
+    "text": "at four and a half",
+    "role": "时间状语（at + 年龄）",
+    "zh": "在四岁半时"
+   },
+   {
+    "text": "and again at 15.",
+    "role": "并列的时间状语（and 后承前省略了 were assessed，完整形式是 and were assessed again at 15）",
+    "zh": "15岁时再测一次"
+   }
+  ],
+  "structure": "①主句 More than 900 youngsters were assessed 是被动语态，施动者是做研究的人，不言自明，所以省略。主语 More than 900 youngsters，more than 900 意为“900多”，from diverse backgrounds 是介词短语作后置定语，说明这些孩子来自各种不同的家庭背景。\n②at four and a half 和 and again at 15 是两个并列的时间状语。again 表示“再次”，and again at 15 实际上是 and were assessed again at 15 的省略，重复的谓语承前省略。\n③本句与第8句形成对照：原研究只有几十个孩子，主要来自斯坦福教师和研究生家庭；新研究有900多名孩子，背景多样。样本数量和代表性都大大提高，这是新研究结论更可信的原因。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一般过去时的被动语态",
+    "explain": "被动语态由“be + 过去分词”构成，一般过去时用 was/were + 过去分词。施动者不重要、不言自明或无从得知时，通常省略 by 短语。本句 were assessed 的施动者是研究人员，省略后重点落在接受评估的孩子身上。研究类文章描述研究过程时大量使用被动语态，如 were tested、were asked、were followed，翻译时常用“接受”“被”或主动句转换。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "All applicants were interviewed twice before a final decision was made.",
+      "zh": "所有申请人都经过两轮面试，然后才做出最终决定。"
+     }
+    ]
+   },
+   {
+    "title": "并列结构中谓语的承前省略",
+    "explain": "and、but、or 连接的两个并列部分中，后一部分与前一部分相同的成分可以省略，只保留不同的部分，这在考研长难句中很常见。本句 were assessed at four and a half and again at 15 中，and 后面省略了 were assessed，完整形式是 and were assessed again at 15。阅读时要根据前一部分补出省略的成分；翻译时常需要把省略的动词补出来，如视频的“再测一次”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The patients were examined on arrival and again six hours later.",
+      "zh": "病人在入院时接受了检查，六小时后又检查了一次。"
+     },
+     {
+      "en": "Prices rose by 5 percent in 2021 and by a further 8 percent in 2022.",
+      "zh": "价格在2021年上涨了5%，在2022年又上涨了8%。"
+     }
+    ]
+   },
+   {
+    "title": "年龄中分数的表达：four and a half",
+    "explain": "“几岁半”在英语中说 four and a half（四岁半）、six and a half，名词复数时说 four and a half years。注意 a half 放在 and 之后，不说 four half。more than + 数字后面接复数名词，如 more than 900 youngsters；作主语时谓语一般用复数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The twins started school at five and a half.",
+      "zh": "这对双胞胎五岁半开始上学。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "youngster",
+    "explain": "名词，儿童，少年，年轻人，口语和新闻中常用，比 child 宽泛，可指从小孩到十几岁的年轻人。本句研究对象从四岁半一直追踪到15岁，所以视频译为“儿童或青少年”，兼顾两个年龄段。"
+   },
+   {
+    "term": "diverse backgrounds",
+    "explain": "多样的背景。diverse 意为“多种多样的，形形色色的”，名词 diversity。from diverse backgrounds 常用来形容人群在种族、收入、教育等方面构成多样，与第9句的 homogeneous（同质的）形成反义对照。视频译为“来自多种不同的背景的”。"
+   },
+   {
+    "term": "assess",
+    "explain": "评估，评定，常用于对能力、影响、价值等进行系统判断，如 assess the impact（评估影响）、assess a student's progress（评估学生的进步）。本句指研究者对孩子进行测评，视频译为“接受评估”。"
+   }
+  ],
+  "translation_tip": "视频译文“900多名来自多种不同的背景的儿童或青少年在四岁半时接受评估，15岁时再测一次。”的处理：①More than 900 译为“900多名”。②后置定语 from diverse backgrounds 前置为“来自多种不同的背景的”，diverse 译为“多种不同的”。③youngsters 译为“儿童或青少年”，兼顾四岁半和15岁两个年龄段。④被动语态 were assessed 用“接受评估”译出，以“接受”表被动，避免使用“被”字。⑤and again at 15 补出省略的动词，另起一个短句“15岁时再测一次”，用“再……一次”对应 again。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "The raw link",
+   "predicate": "was",
+   "object_or_complement": "half as strong as the original finding（表语）",
+   "explain": "主干是 The raw link was half as strong，主系表结构，表语是带倍数的原级比较结构 half as strong as…。谓语 was 为一般过去时，陈述研究得出的结果。"
+  },
+  "components": [
+   {
+    "text": "The raw link",
+    "role": "主语",
+    "zh": "这个未经加工的关联性"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "roughly",
+    "role": "状语（副词），修饰 half",
+    "zh": "大约"
+   },
+   {
+    "text": "half as strong as the original finding.",
+    "role": "表语（倍数 + as + 形容词原级 + as 的比较结构）",
+    "zh": "只有原来研究结果关联性强度的一半"
+   }
+  ],
+  "structure": "①本句是主系表结构。主语 The raw link 指2018年研究在不做任何调整时得到的关联，即“等得更久”与“SAT分数更高”之间的关系（视频说明）。raw 意为“原始的，未经处理的”，与下一句的 Adjusting for…（经过调整后）相对。\n②表语 half as strong as the original finding 是倍数比较结构：half 放在第一个 as 前，表示“是……的一半”；roughly 修饰 half，意为“大约一半”。\n③比较的两方是 the raw link 和 the original finding。严格说，比较的是新研究得到的关联强度和原研究发现的关联强度，the original finding 在这里代指原研究发现的那种关联，英语中这种简略的比较对象很常见，读的时候要补全逻辑。\n④本句和下一句分两步报告新研究的结果：第一步，未经调整的关联只有原研究的一半；第二步，调整家庭背景等因素后，关联又缩小约三分之二。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "倍数表达：half/twice/three times as + 形容词 + as",
+    "explain": "表示“是……的几倍”或“几分之几”，常用“倍数 + as + 形容词或副词原级 + as”：half as strong as（强度是……的一半）、twice as large as（是……的两倍大）、three times as expensive as。倍数还可以与比较级连用，如 three times larger than，但 half 和 twice 一般只用 as…as 结构，不说 half stronger than。也可用“倍数 + the + 名词 + of”，如 half the strength of。本句 roughly half as strong as the original finding 即“强度大约只有原来结果的一半”。考研翻译中，要准确译出倍数，不能把 twice as…as 译成“多两倍”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new engine uses half as much fuel as the old one.",
+      "zh": "新发动机的油耗只有旧发动机的一半。"
+     },
+     {
+      "en": "Housing in the capital costs nearly three times as much as in the rest of the country.",
+      "zh": "首都的住房价格几乎是全国其他地区的三倍。"
+     }
+    ]
+   },
+   {
+    "title": "比较对象要对应",
+    "explain": "比较结构中，进行比较的两方应该是同类事物。为了避免重复，英语常用 that of、those of 或直接用简略的名词指代比较对象。本句 the raw link 与 the original finding 比较，实际是新旧两项研究中关联强度的比较。写作时最好让比较对象严格对应，例如比较两国人口时说 The population of Japan is larger than that of Britain，不说 larger than Britain。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The population of Tokyo is larger than that of London.",
+      "zh": "东京的人口比伦敦多。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "raw",
+    "explain": "熟词僻义：raw 常指“生的，未煮过的”，在数据和研究中指“原始的，未经处理或调整的”，如 raw data（原始数据）、raw score（原始分数）。本句 the raw link 指没有排除家庭背景等因素影响时直接得出的关联，视频译为“未经加工的关联性”。"
+   },
+   {
+    "term": "link",
+    "explain": "名词，联系，关联，常接 between：a link between A and B。研究类文章常用 link、association、correlation 表示两个变量之间的关系，相关不等于因果。视频说明指出，这里的关联性指【面对棉花糖等得更久】与【SAT分数更高】之间有没有关系。"
+   },
+   {
+    "term": "the original finding",
+    "explain": "原来的研究结果，指第5句提到的1990年研究的发现。finding 作可数名词，意为“研究结果，调查发现”，常用复数 findings。视频译为“原来研究结果”。"
+   }
+  ],
+  "translation_tip": "视频译文“这个未经加工的关联性，大约只有原来研究结果关联性强度的一半。”的处理：①The raw link 译为“这个未经加工的关联性”，后加逗号，让主语单独停顿，便于读者把握比较的对象。②系动词 was 不译，roughly 译为“大约”，增补“只有”，体现关联减弱的意味。③倍数结构 half as strong as the original finding 转换为“……强度的一半”：形容词 strong 名词化为“强度”，比较对象补全为“原来研究结果关联性”，使比较的两方对应。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Adjusting for family background and early cognitive ability",
+   "predicate": "shrank",
+   "object_or_complement": "it",
+   "explain": "主干是 Adjusting for… shrank it，主谓宾结构，主语是动名词短语，宾语 it 指上句的 the raw link；句末的现在分词短语作结果状语。谓语 shrank 是 shrink 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Adjusting for",
+    "role": "主语（动名词短语）的核心，adjust for 意为“（统计上）校正，控制”",
+    "zh": "调整"
+   },
+   {
+    "text": "family background and early cognitive ability",
+    "role": "动名词短语中 adjust for 的宾语（两个并列的名词短语）",
+    "zh": "家庭背景和早期认知能力（这些实验变量）"
+   },
+   {
+    "text": "shrank",
+    "role": "谓语",
+    "zh": "缩小了"
+   },
+   {
+    "text": "it",
+    "role": "宾语（指上句的 the raw link）",
+    "zh": "关联性"
+   },
+   {
+    "text": "by about two thirds,",
+    "role": "程度状语（介词 by 表示变化的幅度）",
+    "zh": "大约三分之二"
+   },
+   {
+    "text": "leaving",
+    "role": "结果状语（现在分词短语）的核心",
+    "zh": "使得"
+   },
+   {
+    "text": "most estimates",
+    "role": "leaving 的宾语",
+    "zh": "大多数估计值"
+   },
+   {
+    "text": "statistically insignificant.",
+    "role": "宾语补足语（副词 statistically 修饰形容词 insignificant）",
+    "zh": "在统计上（完全）微不足道"
+   }
+  ],
+  "structure": "①主语是动名词短语 Adjusting for family background and early cognitive ability，adjust for 是统计用语，意为“校正，控制（某些变量的影响）”，它的宾语是 family background 和 early cognitive ability 两个并列的名词短语。动名词短语作主语时视为单数。\n②谓语 shrank 是不规则动词 shrink 的过去式，宾语 it 指上句的 the raw link（视频说明：即缩小了【等得更久】与【SAT分数更高】之间的相关性）。by about two thirds 中 by 表示变化的幅度，即缩小了约三分之二，剩下约三分之一。\n③leaving most estimates statistically insignificant 是现在分词短语作结果状语，表示前面的调整带来的结果。leave 在这里是“使处于某种状态”，结构是 leave + 宾语 + 宾语补足语：宾语 most estimates，宾补 statistically insignificant。\n④本句说明，排除家庭背景和早期认知能力的影响后，“等得久”和“成绩好”之间的关联大部分消失了。这呼应了第9句的推测：富裕家庭可能同时带来耐心和好成绩。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动名词短语作主语",
+    "explain": "动名词（doing）及其短语可以作主语，表示一个行为或做法，谓语动词用单数。本句 Adjusting for family background and early cognitive ability 是动名词短语，作 shrank 的主语，意为“调整家庭背景和早期认知能力（这一做法）”。动名词短语较长时，有时用 it 作形式主语，但 it 作形式主语更多用于不定式。考研长难句中，句首的 -ing 短语后面如果直接跟谓语动词（没有逗号隔开），一般是动名词作主语；如果后面有逗号再接主句，则多为分词作状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Controlling for income made the gap between the two groups almost disappear.",
+      "zh": "控制了收入这一因素后，两组之间的差距几乎消失了。"
+     },
+     {
+      "en": "Reducing sugar intake lowers the risk of tooth decay.",
+      "zh": "减少糖的摄入可以降低患龋齿的风险。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号隔开时，可以表示前面整个动作自然导致的结果，常用 leaving、making、causing、resulting in 等。它的逻辑主语可以理解为前面的整个分句。本句 leaving most estimates statistically insignificant 表示调整之后造成的结果；leave + 宾语 + 形容词表示“使……处于某种状态”。表示意料之外的结果时，常用 only to do，而不是现在分词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm knocked down power lines, leaving thousands of homes without electricity.",
+      "zh": "暴风雨刮倒了电线，致使数千户家庭断电。"
+     },
+     {
+      "en": "Food prices rose sharply, making basic goods unaffordable for many families.",
+      "zh": "食品价格大幅上涨，许多家庭连基本生活用品都买不起了。"
+     }
+    ]
+   },
+   {
+    "title": "介词 by 表示变化幅度与分数的表达",
+    "explain": "increase、rise、fall、reduce、shrink、cut 等表示增减的动词后，用 by 表示变化的幅度（差额），用 to 表示变化后的结果：shrink by two thirds 是“缩小了三分之二”，shrink to one third 是“缩小到三分之一”，二者意思不同，翻译时要分清。分数的表达是分子用基数词，分母用序数词，分子大于1时分母加 s：one third、two thirds、three quarters。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its workforce by a third last year.",
+      "zh": "这家公司去年裁员三分之一。"
+     },
+     {
+      "en": "Unemployment fell to 4 percent, its lowest level in a decade.",
+      "zh": "失业率降至4%，是十年来的最低水平。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "adjust for",
+    "explain": "统计学用语，意为“校正，控制（某因素的影响）”，相当于 control for，如 adjust for inflation（扣除通货膨胀因素）、adjust for age（按年龄校正）。本句指在分析时排除家庭背景和早期认知能力的影响，看等待时间本身与成绩还有多大关联，视频译为“调整”。注意区分 adjust to（适应）。"
+   },
+   {
+    "term": "statistically insignificant",
+    "explain": "统计学术语，指结果在统计检验中不显著，不能排除是偶然因素造成的；反义是 statistically significant（统计上显著的）。它说明的是数据不足以证明关联存在，并不等于证明两者毫无关系。视频译为“在统计上（完全）微不足道”。"
+   },
+   {
+    "term": "estimate",
+    "explain": "作名词意为“估计，估计值”，研究中指根据样本数据计算出的数值。most estimates 指研究在不同分析方式下得出的多个估计值中的大多数，视频译为“大多数估计值”。"
+   },
+   {
+    "term": "shrink（shrank, shrunk）",
+    "explain": "不规则动词，过去式 shrank，过去分词 shrunk，意为“缩小，减少”，可作及物或不及物动词。本句作及物动词，宾语是 it，视频译为“缩小了”。"
+   },
+   {
+    "term": "cognitive ability",
+    "explain": "认知能力，指理解、记忆、推理、学习等心智能力。early cognitive ability 指孩子早期的认知能力，与 family background 并列为需要校正的因素。"
+   }
+  ],
+  "translation_tip": "视频译文“调整家庭背景和早期认知能力（这些实验变量），缩小了关联性大约三分之二，使得大多数估计值在统计上（完全）微不足道。”的处理：①动名词短语主语译为动词短语“调整家庭背景和早期认知能力”，括号补“这些实验变量”，说明调整的是什么，后加逗号停顿。②代词 it 还原为“关联性”，避免指代不清。③by about two thirds 译为“大约三分之二”，紧跟在“缩小了关联性”之后，by 表示的幅度用“缩小了……三分之二”体现。④现在分词结果状语用“使得”引出，leave 的宾语和宾补按“大多数估计值在统计上（完全）微不足道”的顺序译出。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "The test（前一分句）；it（后一分句）",
+   "predicate": "is not（前一分句）；may still reflect（后一分句）",
+   "object_or_complement": "worthless（前一分句的表语）；something substantive（后一分句的宾语）",
+   "explain": "分号连接两个并列分句。前一分句是主系表结构，is not 为系动词的否定式；后一分句是主谓宾结构，may 表示推测。两个分句都用一般现在时，表达作者现在的判断。"
+  },
+  "components": [
+   {
+    "text": "The test",
+    "role": "前一分句的主语",
+    "zh": "这项测验"
+   },
+   {
+    "text": "is not",
+    "role": "系动词 + 否定词",
+    "zh": "并非"
+   },
+   {
+    "text": "worthless;",
+    "role": "表语（形容词）",
+    "zh": "毫无价值"
+   },
+   {
+    "text": "it",
+    "role": "后一分句的主语（指 the test）",
+    "zh": "它"
+   },
+   {
+    "text": "may still",
+    "role": "情态动词 may（表推测）+ 副词 still（谓语的一部分）",
+    "zh": "或许仍能"
+   },
+   {
+    "text": "reflect",
+    "role": "谓语动词",
+    "zh": "反映"
+   },
+   {
+    "text": "something substantive.",
+    "role": "宾语（形容词 substantive 后置修饰不定代词 something）",
+    "zh": "某些实质性的东西"
+   }
+  ],
+  "structure": "①前一分句 The test is not worthless 是主系表结构，is not 否定后面的 worthless，“不是毫无价值的”，即有一定价值。用否定加否定意义词的方式表达肯定，语气委婉、有所保留。\n②后一分句 it may still reflect something substantive：it 指 the test，may 表示推测，still 意为“仍然”，表示即使经过上一段的削弱，测验依然可能有意义；something substantive 中形容词 substantive 放在不定代词 something 之后作定语。\n③两个分句用分号连接，后一分句进一步解释前一分句：测验并非毫无价值，因为它或许仍能反映某些实质性的东西。\n④本句是第5段的开头，作者在第4段指出原结论被大大削弱之后，转而说明不能全盘否定这项测验，态度客观、有保留，接下来用2013年的研究说明测验还可能反映什么。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "形容词后置修饰不定代词",
+    "explain": "something、anything、nothing、everything、someone 等复合不定代词被形容词修饰时，形容词放在代词后面：something substantive、nothing unusual、anything important。本句 something substantive 即“某些实质性的东西”。考研写作中常用 something new、nothing special 等表达，形容词误放在前面（substantive something）是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The inspectors found nothing unusual in the company's accounts.",
+      "zh": "检查人员在该公司的账目中没有发现任何异常。"
+     },
+     {
+      "en": "Is there anything important we should discuss before the meeting?",
+      "zh": "开会前我们有什么重要的事需要讨论吗？"
+     }
+    ]
+   },
+   {
+    "title": "否定 + 否定意义词：委婉的肯定",
+    "explain": "not 与带否定意义的词（worthless、unimportant、insignificant、without 等）连用，表示委婉、有保留的肯定，如 not worthless（有一定价值）、not unreasonable（还算合理）、not without merit（不无可取之处）。这种说法比直接的肯定语气弱，说明作者承认对象有价值，但不愿过分肯定。考研阅读态度题中，这类表达往往对应“有保留的肯定”“客观”等选项，不能理解为“极有价值”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The proposal is not without merit, though it needs further work.",
+      "zh": "这项提议并非一无是处，只是还需要进一步完善。"
+     },
+     {
+      "en": "Her contribution to the project was not insignificant.",
+      "zh": "她对这个项目的贡献不容小觑。"
+     }
+    ]
+   },
+   {
+    "title": "may 表示推测",
+    "explain": "情态动词 may 后接动词原形表示对现在或将来情况的推测，意为“可能，或许”，把握程度一般；might、could 的语气更不确定。本句 may still reflect 说明作者只是认为测验或许还能反映某些东西，并非断言。考研阅读中，含 may、might、could 的句子是推测，做细节题时不能当成确定的事实。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new policy may still need several years to show results.",
+      "zh": "这项新政策或许仍需几年时间才能见效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "worthless",
+    "explain": "毫无价值的，由名词 worth（价值）加表示“没有”的后缀 -less 构成；反义词是 valuable、worthwhile。注意 priceless 意为“无价的，极其珍贵的”，与 worthless 意思相反。视频译为“毫无价值”。"
+   },
+   {
+    "term": "substantive",
+    "explain": "正式用词，意为“实质性的，有真实内容的”，如 substantive issues（实质性问题）、substantive changes（实质性的改变）。易与 substantial（大量的，相当大的）混淆。视频译为“实质性的”。"
+   },
+   {
+    "term": "reflect",
+    "explain": "本义“反射（光、声等）”，引申为“反映，体现”，如 reflect public opinion（反映民意）；reflect on 意为“思考，反思”。本句视频译为“反映”。"
+   }
+  ],
+  "translation_tip": "视频译文“这项测验并非毫无价值；它或许仍能反映某些实质性的东西。”的处理：①is not worthless 译为“并非毫无价值”，用“并非”保留双重否定的委婉语气，没有改成“有价值”。②分号保留，it 译为“它”。③may still 译为“或许仍能”，may 的推测语气和 still 的“仍然”都译出。④后置形容词 substantive 前置为“某些实质性的东西”，something 译为“某些……东西”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Research",
+   "predicate": "adds",
+   "object_or_complement": "context",
+   "explain": "主干是 Research adds context，主谓宾结构，冒号后的句子说明补充的背景是什么。谓语 adds 为一般现在时，介绍已发表研究的意义时常用一般现在时；冒号后的句子叙述实验结果，用一般过去时 waited，从句中用过去完成时 had betrayed。"
+  },
+  "components": [
+   {
+    "text": "Research",
+    "role": "主语（不可数名词）",
+    "zh": "研究"
+   },
+   {
+    "text": "published in Cognition in January 2013",
+    "role": "后置定语（过去分词短语），修饰 Research",
+    "zh": "2013年1月发表于《认知》的"
+   },
+   {
+    "text": "adds",
+    "role": "谓语",
+    "zh": "补充了"
+   },
+   {
+    "text": "context:",
+    "role": "宾语",
+    "zh": "（一些）背景"
+   },
+   {
+    "text": "children",
+    "role": "冒号后句子的主语",
+    "zh": "孩子"
+   },
+   {
+    "text": "whose trust an adult had just betrayed",
+    "role": "限制性定语从句，修饰 children（whose trust 作从句的宾语）",
+    "zh": "刚被成年人辜负信任的"
+   },
+   {
+    "text": "waited",
+    "role": "冒号后句子的谓语（不及物动词）",
+    "zh": "等待的时间"
+   },
+   {
+    "text": "markedly less than",
+    "role": "程度状语 markedly + 比较结构 less than（less 是副词 little 的比较级，修饰 waited）",
+    "zh": "明显短于"
+   },
+   {
+    "text": "peers",
+    "role": "比较对象（than peers 后省略 did）",
+    "zh": "同龄人"
+   },
+   {
+    "text": "dealing with a reliable adult.",
+    "role": "后置定语（现在分词短语），修饰 peers",
+    "zh": "与守信的成年人相处的"
+   }
+  ],
+  "structure": "①主句 Research adds context：主语 Research 后接过去分词短语 published in Cognition in January 2013 作后置定语；谓语 adds，宾语 context，意为“补充了背景”，即提供了理解这项测验的另一个角度。\n②冒号后是一个完整的句子，说明补充的背景是什么。主干是 children waited markedly less than peers：主语 children，谓语 waited 是不及物动词，markedly 修饰 less，less 是副词 little 的比较级，修饰 waited，表示等待得更少，than peers 后省略了 did。\n③whose trust an adult had just betrayed 是限制性定语从句，修饰 children。whose 是关系代词的所有格，whose trust 即 the children's trust，在从句中作 betrayed 的宾语，并且提到了从句开头；从句主语是 an adult，谓语是 had just betrayed。从句语序是“宾语 + 主语 + 谓语”，读的时候要看清是成年人辜负了孩子的信任。过去完成时 had betrayed 表示辜负信任发生在孩子等待之前。\n④dealing with a reliable adult 是现在分词短语作后置定语，修饰 peers，相当于 who were dealing with a reliable adult，与前面的 whose 从句形成对照：一组遇到失信的大人，另一组遇到守信的大人。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whose 引导定语从句，whose + 名词作从句宾语",
+    "explain": "whose 是关系代词的所有格，后面紧跟名词，在从句中作定语，whose + 名词 合起来可以作从句的主语、宾语或介词宾语。当 whose + 名词 作从句宾语时，它仍要放在从句开头，从句语序就变成“whose + 名词（宾语）+ 主语 + 谓语”。本句 whose trust an adult had just betrayed 中，whose trust 是宾语，an adult 才是从句主语，意思是 an adult had just betrayed their trust。考研长难句中，这种结构容易被误读成“孩子的信任背叛了成年人”，判断方法是找出从句中真正的主语和谓语，看 whose + 名词 放回谓语后面是否通顺。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The author whose novel the committee had rejected later won a major literary prize.",
+      "zh": "那位作者的小说曾被委员会拒绝，后来却获得了一项重要的文学奖。"
+     },
+     {
+      "en": "Employees whose suggestions the manager ignored began looking for other jobs.",
+      "zh": "建议被经理忽视的员工开始另找工作。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时（had done）表示在过去某一动作之前已经发生或完成的动作。本句主干动作 waited 发生在过去，从句中成年人辜负孩子的信任发生在孩子等待之前，所以用 had just betrayed，just 强调“刚刚”，说明失信与等待间隔很短。阅读中遇到 had done，要据此理清事件的先后顺序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The passengers whose flight had just been cancelled crowded around the help desk.",
+      "zh": "航班刚被取消的乘客们挤在服务台周围。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示主动或正在进行，相当于一个定语从句。本句 peers dealing with a reliable adult 相当于 peers who were dealing with a reliable adult。现在分词作定语表示的动作一般与谓语动作同时发生；如果动作发生在谓语动作之前，通常改用定语从句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Students living on campus spend less time commuting.",
+      "zh": "住在校内的学生花在通勤上的时间更少。"
+     }
+    ]
+   },
+   {
+    "title": "副词比较级 less 与比较对象的省略",
+    "explain": "less 是 little 的比较级，可作副词修饰动词，表示程度或数量“更少”，如 waited less、spend less。比较结构中 than 后面与前文相同的谓语常省略或用助动词代替：waited less than peers 即 waited less than peers did。markedly、much、far、considerably 等副词可放在比较级前加强程度。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Children in cities tend to walk far less than their rural peers.",
+      "zh": "城市里的孩子走路往往比农村的同龄人少得多。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Cognition",
+    "explain": "《认知》，认知科学领域的学术期刊。本句提到的研究由 Kidd、Palmeri 和 Aslin 于2013年发表：研究者先让一位成年人对一部分孩子许下承诺又不兑现，对另一部分孩子则兑现承诺，然后进行零食等待测验，比较两组孩子等待的时间。"
+   },
+   {
+    "term": "betray sb's trust",
+    "explain": "辜负某人的信任，固定搭配。betray 本义“背叛，出卖”，还有“泄露（秘密）”“流露（情绪）”等义。本句视频译为“辜负”。"
+   },
+   {
+    "term": "deal with",
+    "explain": "常见义是“处理，应对”，本句指“与……打交道，与……相处”，如 deal with customers（与顾客打交道）。peers dealing with a reliable adult 视频译为“与守信的成年人相处的同龄人”。"
+   },
+   {
+    "term": "peer",
+    "explain": "名词，同龄人，同辈，地位相同的人，常用复数，如 peer pressure（同辈压力）、peer review（同行评审）。本句 peers 指参加实验的其他同龄孩子，视频译为“同龄人”。"
+   },
+   {
+    "term": "add context",
+    "explain": "context 意为“背景，来龙去脉”，add context 即提供背景信息，帮助理解某事。本句指2013年的研究提供了另一种解释等待时长的角度，视频译为“补充了（一些）背景”。"
+   }
+  ],
+  "translation_tip": "视频译文“2013年1月发表于《认知》的研究补充了（一些）背景：刚被成年人辜负信任的孩子，等待的时间明显短于与守信的成年人相处的同龄人。”的处理：①过去分词短语前置为“2013年1月发表于《认知》的”，期刊名加书名号。②adds context 译为“补充了（一些）背景”，括号里的“一些”补足语气。③whose 从句前置为定语，从句中的主动结构 an adult had just betrayed their trust 转换为被动的“刚被成年人辜负信任的”，这样“孩子”成为中心词；主语较长，后加逗号停顿。④waited markedly less than 中，副词比较转换为“等待的时间明显短于”，增补“的时间”，使比较对象清楚。⑤现在分词短语 dealing with a reliable adult 前置为“与守信的成年人相处的”，修饰“同龄人”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "How long a child perseveres",
+   "predicate": "depends partly on",
+   "object_or_complement": "how trustworthy the adults around them seem（介词 on 的宾语从句）",
+   "explain": "主干是“主语从句 + depends on + 宾语从句”。depend on 是短语动词，中间插入副词 partly；主语从句作主语，谓语用第三人称单数 depends。全句为一般现在时，表示一般规律，是作者对全文的总结。"
+  },
+  "components": [
+   {
+    "text": "How long a child perseveres",
+    "role": "主语从句（how long 在从句中作时间状语）",
+    "zh": "孩子能坚持多久"
+   },
+   {
+    "text": "depends partly on",
+    "role": "谓语（depend on 中间插入程度状语 partly）",
+    "zh": "部分取决于"
+   },
+   {
+    "text": "how trustworthy the adults around them seem.",
+    "role": "宾语从句，作介词 on 的宾语（how trustworthy 在从句中作表语）",
+    "zh": "身边的大人看起来有多可信"
+   }
+  ],
+  "structure": "①全句的主干是“主语从句 + 谓语 + 宾语从句”。主语从句 How long a child perseveres 由 how long 引导，从句主语是 a child，谓语是 perseveres，how long 在从句中作时间状语；名词性从句用陈述语序。主语从句视为单数，所以谓语用 depends。\n②谓语 depends partly on 中，partly 插在 depend 和 on 之间，意为“部分地”，说明成人是否可信只是影响因素之一，并非全部。\n③宾语从句 how trustworthy the adults around them seem 作介词 on 的宾语：从句主语是 the adults around them，around them 作后置定语；seem 是系动词，how trustworthy 是提到从句开头的表语，还原后是 the adults around them seem (very) trustworthy。them 指 a child，是性别中立的单数用法。\n④本句是全文的结论：孩子等待的时间不只取决于自制力，也取决于身边成人是否可信，等待时长的含义比原来认为的复杂，呼应标题 The Truth About One Marshmallow。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词性从句作主语和介词宾语，用陈述语序",
+    "explain": "由 what、how、whether、who 等引导的名词性从句可以作主语、宾语、表语，也可以作介词的宾语。不论引导词是什么，名词性从句一律用陈述语序，不能用疑问句的语序：说 how long a child perseveres，不说 how long does a child persevere。从句作主语时，谓语一般用单数。本句主语从句和介词 on 后的宾语从句都由 how 引导，构成“A 取决于 B”的结构。写作中 depend on、be determined by 后接 how/whether 从句，是表达影响因素的常用句型。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "How much a city spends on its schools says a lot about its priorities.",
+      "zh": "一座城市在学校上投入多少，很能说明它把什么放在优先位置。"
+     },
+     {
+      "en": "Whether the project succeeds depends largely on how quickly the funds arrive.",
+      "zh": "这个项目能否成功，在很大程度上取决于资金多快到位。"
+     }
+    ]
+   },
+   {
+    "title": "how + 形容词/副词在从句中的成分",
+    "explain": "how 后接形容词或副词引导名词性从句时，“how + 形容词/副词”要提到从句开头，它在从句中的成分取决于原来的位置：how long 修饰动词，作状语；how trustworthy 跟在系动词 seem 之后，作表语。本句 how trustworthy the adults around them seem 还原为 the adults around them seem trustworthy，可以看清 trustworthy 是表语，seem 是从句的谓语。分析这类从句时，把 how 短语放回原位，就能找出从句的主干。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few visitors realise how fragile the island's ecosystem is.",
+      "zh": "很少有游客意识到岛上的生态系统有多脆弱。"
+     }
+    ]
+   },
+   {
+    "title": "depend on 中间插入副词",
+    "explain": "depend on 意为“取决于，依赖于”，可以在 depend 和 on 之间插入表示程度的副词，如 depend largely on（在很大程度上取决于）、depend partly on（部分取决于）、depend entirely on（完全取决于）、depend heavily on。本句 depends partly on 说明成人是否可信只是影响因素之一。考研写作中用这些副词可以使论述更加准确、留有余地。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The size of the harvest depends largely on the weather.",
+      "zh": "收成的好坏在很大程度上取决于天气。"
+     }
+    ]
+   },
+   {
+    "title": "单数 they/them 指代不定性别的人",
+    "explain": "指代性别不确定或不需要说明性别的单数名词（a child、a student、someone 等）时，现代英语常用 they、them、their，而不用 he or she。本句 the adults around them 中，them 指前面的 a child。这一用法已被主流词典认可，外刊中很常见，阅读时要根据上下文判断 them 指的是单数还是复数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "If a student needs extra help, they should contact their tutor.",
+      "zh": "学生如果需要额外辅导，应联系自己的导师。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "persevere",
+    "explain": "坚持不懈，指不顾困难、坚持做某事，常接 in 或 with：persevere in one's efforts、persevere with a task；名词 perseverance（毅力）。本句指孩子坚持等待，不去吃零食，视频译为“坚持”。"
+   },
+   {
+    "term": "trustworthy",
+    "explain": "值得信赖的，可靠的，由 trust 加 -worthy（值得……的）构成，同类词有 praiseworthy（值得称赞的）、newsworthy（有新闻价值的）。本句视频译为“可信”。"
+   },
+   {
+    "term": "seem",
+    "explain": "系动词，意为“看起来，似乎”，后接形容词作表语。本句 seem 强调的是孩子眼中大人是否可信，即孩子的主观判断，视频译为“看起来”。"
+   },
+   {
+    "term": "全文结论",
+    "explain": "全文从实验本身、测验走红，到样本局限、2018年重复研究、2013年信任实验，逐步说明：等待时长与日后成绩的关联比原来认为的弱，等待时长也受环境和成人是否可信的影响，不能凭一次测验断定孩子的命运。视频在本句后的“简述”按实验、走红、局限、复核、信任五部分回顾了这一脉络。"
+   }
+  ],
+  "translation_tip": "视频译文“孩子能坚持多久，部分取决于身边的大人看起来有多可信。”的处理：①主语从句 How long a child perseveres 译为“孩子能坚持多久”，增补“能”，后加逗号与谓语隔开，使长主语读起来不拥挤。②depends partly on 译为“部分取决于”，partly 保留，说明信任只是影响因素之一。③宾语从句保持“主语 + 看起来 + 有多 + 形容词”的语序，译为“身边的大人看起来有多可信”；后置定语 around them 前置为“身边的”，them 指孩子，不必再译出“他们”。④视频在本句之后附“简述”，用实验、走红、局限、复核、信任五部分回顾全文。"
+ }
+]

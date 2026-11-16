@@ -1,0 +1,37 @@
+[
+ {
+  "key": 2,
+  "field": "原文“孩子的家庭背景自然相近”把推断写成必然，改为依据第8句原文的说法",
+  "before": "幼儿园设在名校校园里，孩子的家庭背景自然相近，这正是",
+  "after": "幼儿园设在名校校园里，进入 SAT 分析的孩子又主要是本校教师和研究生的子女，家庭背景相近，这正是",
+  "reason": "context_usage"
+ },
+ {
+  "key": 3,
+  "field": "“幼儿园服务的主要是本校教职工和研究生的家庭”是原文没有的事实断言，改为原文第8句的实际说法",
+  "before": "幼儿园设在大学校内，服务的主要是本校教职工和研究生的家庭，这一点在第8句成为质疑样本的理由。",
+  "after": "幼儿园设在大学校内，第8句交代进入 SAT 分析的孩子主要是本校教师和研究生的子女，这一点成为质疑样本的理由。",
+  "reason": "context_usage"
+ },
+ {
+  "key": 8,
+  "field": "etymology",
+  "before": "由动词 tempt（引诱，诱惑）加名词后缀 -ation 构成。tempt 经古法语 tempter 源自拉丁语 temptare（触摸，试探，考验），所以早期英语中 temptation 也有“考验”之义。同根词有 attempt（尝试；源自拉丁语 attemptare，由 ad- 加 temptare 构成）。",
+  "after": "经古法语 temptacion 源自拉丁语 temptatio（试探，考验），来自动词 temptare（触摸，试探，考验）；英语动词 tempt 也经古法语 tempter 来自 temptare。由“试探人是否会屈从”引申为“引诱，诱惑”。同根词有 attempt（尝试；源自拉丁语 attemptare，由 ad- 加 temptare 构成）。",
+  "reason": "原文说 temptation 由英语 tempt 加 -ation 构成、早期英语 temptation 有“考验”义，无法证实；Etymonline 记载 temptation 经古法语直接来自拉丁语 temptatio（试探，考验）"
+ },
+ {
+  "key": 20,
+  "field": "Etymonline、Merriam-Webster 均记 collega 来自 com- + legare（委派），不是 legere（选择）",
+  "before": "由 com-（共同）和 legere（选择）的词干构成",
+  "after": "由 com-（共同）和 legare（委派，委托）的词干构成",
+  "reason": "etymology"
+ },
+ {
+  "key": 25,
+  "field": "restraint 不是由英语 restrain 派生，二者都经古法语来自 restringere（Etymonline）",
+  "before": "由 restrain（克制，约束）派生而来，经古法语 restreinte 源自",
+  "after": "与动词 restrain（克制，约束）同源，经古法语 restreinte（restreindre 的过去分词阴性形式用作名词）源自",
+  "reason": "etymology"
+ }
+]
