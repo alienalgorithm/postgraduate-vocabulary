@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-11-16T08:21:26.247885+00:00",
+  "updated_utc": "2026-11-16T12:19:40.857188+00:00",
   "requested_total": 70,
-  "archived_passed_count": 69,
-  "remaining_not_claimed_passed": 1,
+  "archived_passed_count": 70,
+  "remaining_not_claimed_passed": 0,
   "release_created": false,
   "articles": [
     {
@@ -5041,6 +5041,70 @@
         "previous_source_run": 43533004625,
         "unique_article_count_increased": false
       }
+    },
+    {
+      "source_id": "68",
+      "new_id": "53",
+      "title_zh": "兴登堡号的 34 秒",
+      "title_en": "The Last Flight of the Hindenburg",
+      "video_repo_path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+      "bytes": 15801101,
+      "sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9",
+      "passed_per_article": true,
+      "source_run": null,
+      "production_delivery_eligible": true,
+      "preview_only": false,
+      "media_origin": "actual_local_do_sh_and_final_sh_4K_with_normal18_hold_illustration60_summary60",
+      "actual_runtime_GEN_or_voice_rerun_claimed": true,
+      "resynthesized_sentences": [
+        "S2"
+      ],
+      "other_sentences_sample_identical_to_reviewed_audio": true,
+      "canonical_audio_basis": "do_sh_and_final_sh_all_voice_checks_passed_plus_exact_sample_identity_outside_S2",
+      "audio_verification_20261116": {
+        "all_voice_checks_passed": true,
+        "final_sh_pre_and_post_failures": 0,
+        "machine_listening_two_engines_passed": true,
+        "S2_spoken": "Its amenities included a lounge and that year, a grand piano.",
+        "S2_display": "Its amenities included a lounge and, that year, a grand piano.",
+        "S2_pause_after_and_seconds_old": 0.4,
+        "S2_pause_after_and_seconds_new": 0.0,
+        "S2_pause_after_year_seconds_new": 0.415,
+        "context_pronunciation": "lounge and that year: and /ˈænd/",
+        "peak_dBFS": -0.36,
+        "sample_identity_record": "视频/制作记录/68_样本一致.json"
+      },
+      "post_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "measured_voice_end_seconds": 140.205,
+      "measured_voice_to_picture_seconds": 0.6283,
+      "illustration_seconds": 2,
+      "summary_card_seconds": 2,
+      "postprocessing_report_sha256": "8f1410ea93d607df5ce1580eedf7f58caee348bba0635f9c9d1329a3c985c921",
+      "primary_permanent_archive_passed": true,
+      "actual_dual_permanent_archive_passed": false,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "user decided main repository only; backup not synced"
+      },
+      "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+      "archive_prefix": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1",
+      "previous_versions": [
+        {
+          "source_id": "68",
+          "new_id": "53",
+          "title_zh": "兴登堡号的 34 秒",
+          "title_en": "The Last Flight of the Hindenburg",
+          "video_repo_path": "审核样片/2026-11-14-用户102-书53-源68-最新0.6秒审核非定稿/视频/53-source68-latest-user102-review-only-4K.mp4",
+          "bytes": 16000776,
+          "sha256": "df900c7b5ef1f68dd24b4701a2e3cf655430b42497711b3ebdc0b5569c9926ed",
+          "asset_commit": "523e903afecc71a06d834ba7f4e4070e7a93e98c",
+          "role": "user102_review_only_not_final",
+          "passed_per_article": false,
+          "user_feedback_after_review": "book53-finalization-after-exactly-layout-and-illustration-20261115",
+          "S2_pause_after_and_comma_seconds_measured": 0.4
+        }
+      ]
     }
   ],
   "batches": [
@@ -5946,6 +6010,13 @@
       "asset_commit": "528efc5bd7a28ab16a6ba136871218e91fa46f1d",
       "source_ids": [
         "35"
+      ]
+    },
+    {
+      "prefix": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1",
+      "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+      "source_ids": [
+        "68"
       ]
     }
   ],
