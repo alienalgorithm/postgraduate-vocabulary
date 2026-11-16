@@ -1,0 +1,1725 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Marcel Ravidat",
+   "predicate": "was",
+   "object_or_complement": "on a woodland stroll（表语）",
+   "explain": "主干是 Marcel Ravidat was on a woodland stroll，主系表结构，介词短语 on a woodland stroll 作表语，be on a stroll 表示“正在散步”。系动词 was 为一般过去时；when 引导的从句交代此时发生的事，从句谓语 began 也是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Marcel Ravidat,",
+    "zh": "马塞尔·拉维达",
+    "role": "主语"
+   },
+   {
+    "text": "18,",
+    "zh": "18岁",
+    "role": "插入语（补充说明年龄）"
+   },
+   {
+    "text": "was",
+    "zh": "正在",
+    "role": "系动词（一般过去时），与表语 on a woodland stroll 合起来表示“正在散步”"
+   },
+   {
+    "text": "on a woodland stroll",
+    "zh": "林地里散步",
+    "role": "表语（介词短语，be on a stroll 表示正在进行的活动；woodland 是名词作前置定语，修饰 stroll）"
+   },
+   {
+    "text": "near Montignac",
+    "zh": "在蒙蒂尼亚克附近的",
+    "role": "后置定语（介词短语），修饰 a woodland stroll，交代散步的地点"
+   },
+   {
+    "text": "with Robot,",
+    "zh": "和罗伯特",
+    "role": "伴随状语（介词短语），说明与谁同行"
+   },
+   {
+    "text": "his canine companion,",
+    "zh": "他犬类的小伙伴",
+    "role": "同位语，补充说明 Robot"
+   },
+   {
+    "text": "when",
+    "zh": "这个时候",
+    "role": "连词，引导时间状语从句，意为“就在这时”"
+   },
+   {
+    "text": "it",
+    "zh": "罗伯特",
+    "role": "从句主语（指 Robot）"
+   },
+   {
+    "text": "began sniffing",
+    "zh": "嗅来嗅去",
+    "role": "从句谓语（began 后接动名词 sniffing 作宾语）"
+   },
+   {
+    "text": "at a hollow",
+    "zh": "在……（地面）凹陷处",
+    "role": "地点状语（介词短语），sniff at 表示凑近某处嗅"
+   },
+   {
+    "text": "left by a toppled tree.",
+    "zh": "一棵倒下的树留下的",
+    "role": "后置定语（过去分词短语），修饰 a hollow"
+   }
+  ],
+  "structure": "①主句是 Marcel Ravidat was on a woodland stroll：主语 Marcel Ravidat，系动词 was，介词短语 on a woodland stroll 作表语。be on a + 表示活动的名词（stroll、walk、trip、tour）表示“正在进行某项活动”，作用相当于进行时 was strolling。woodland 是名词作前置定语，修饰 stroll，说明在什么地方散步。\n②主语后的 18 夹在两个逗号之间，是插入语，补充说明年龄（视频说明）；英语新闻常用“姓名, 年龄,”的格式简洁交代人物年龄。\n③near Montignac 作后置定语，修饰 a woodland stroll，交代散步的地点；with Robot 说明和谁一起散步；his canine companion 是 Robot 的同位语（视频说明），说明 Robot 是他的狗。\n④when 引导时间状语从句，与主句构成“正在……，这时……”的句型：主句交代背景，when 从句交代此时发生的事，是叙述的重点。从句主语 it 指 Robot（视频说明），谓语 began 后接动名词 sniffing 作宾语，at a hollow 说明嗅的地方。\n⑤left by a toppled tree 是过去分词短语作后置定语，修饰 a hollow（视频说明），相当于 which had been left by a toppled tree；toppled 是过去分词作前置定语，修饰 tree，表示“已经倒下的”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "was doing / be on a ... 与 when 从句连用：when 意为“就在这时”",
+    "explain": "过去进行时（或表示进行意义的 be on a stroll、be about to do 等）与 when 从句连用，构成“主句交代正在进行的背景，when 从句交代突然发生的事”的句型，when 意为“就在这时”，相当于 and at that moment。这种句子的信息重心在 when 从句上，when 从句通常放在主句之后。本句 was on a woodland stroll 相当于 was strolling，when it began sniffing 交代了整个故事的起点。考研阅读和翻译中，遇到这种结构不宜把 when 机械地译成“当……的时候”放到句首，而应顺着语序译为“……，这时……”，视频即译作“这个时候”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "We were having dinner when the lights suddenly went out.",
+      "zh": "我们正在吃晚饭，这时灯突然灭了。"
+     },
+     {
+      "en": "The researchers were about to abandon the project when a new grant arrived.",
+      "zh": "研究人员正打算放弃这个项目，这时一笔新的资助到了。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词作定语：a toppled tree 与 a hollow left by ...",
+    "explain": "过去分词作定语时，单个过去分词一般放在名词前，如 a toppled tree；过去分词短语（带有 by 短语、状语等）放在名词后，如 a hollow left by a toppled tree。及物动词的过去分词表示被动和完成，left by a toppled tree 相当于 which had been left by a toppled tree，即“由倒下的树留下的”；不及物动词的过去分词只表示完成，不表示被动，如 fallen leaves（落叶）、a retired teacher（退休教师）。topple 既可作及物动词（推倒），也可作不及物动词（倒下），a toppled tree 视频译为“倒下的树”。考研长难句中，名词后紧跟 -ed 形式时，要先找到句子真正的谓语，再判断它是不是作定语的过去分词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The money raised at the event will go to local schools.",
+      "zh": "这次活动筹集的款项将捐给当地学校。"
+     },
+     {
+      "en": "Volunteers spent the morning clearing branches brought down by the storm.",
+      "zh": "志愿者们花了一上午清理被暴风雨刮落的树枝。"
+     }
+    ]
+   },
+   {
+    "title": "插入语与同位语",
+    "explain": "插入语是插在句中、对句子意思作补充说明的成分，前后常用逗号隔开，去掉后句子结构依然完整。本句 Marcel Ravidat, 18, 中的 18 就是插入语，交代年龄，相当于 who was 18，是新闻报道的常见写法。同位语是对前面名词作进一步解释的名词或名词短语，与前面的名词指同一对象，本句 his canine companion 就是 Robot 的同位语。阅读时遇到成对的逗号，先把逗号中间的内容拿开，主干会更清楚。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The winner, a 23-year-old nurse from Leeds, plans to donate half the prize money.",
+      "zh": "获奖者是一名来自利兹的23岁护士，她打算捐出一半奖金。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be on a stroll",
+    "explain": "be on a + 表示活动的名词，表示“正在进行某项活动”，如 be on a trip（在旅行中）、be on a walk（在散步）、be on a diet（在节食）。stroll 指悠闲地散步，常见说法还有 take a stroll、go for a stroll。视频把 was on a woodland stroll 译为“正在……林地里散步”。"
+   },
+   {
+    "term": "Montignac",
+    "explain": "法国西南部多尔多涅省（Dordogne）的小镇，拉斯科洞窟（Lascaux）就在镇子附近。视频音译为“蒙蒂尼亚克”。"
+   },
+   {
+    "term": "sniff at",
+    "explain": "sniff 指用鼻子短促地吸气、闻；sniff at sth 表示凑近某物闻，也有引申义“对……嗤之以鼻”，常用否定形式 not to be sniffed at（不可小看）。本句指狗在凹陷处闻来闻去，视频译为“嗅来嗅去”。"
+   },
+   {
+    "term": "began sniffing",
+    "explain": "begin 后接动名词或不定式，意思基本相同：began sniffing = began to sniff。但 begin 本身用进行时时，后面一般接不定式，以免两个 -ing 形式连用，如 It is beginning to rain。"
+   }
+  ],
+  "translation_tip": "视频把这个长句拆成三句：①主句和插入语译成“马塞尔·拉维达，18岁，正在和罗伯特在蒙蒂尼亚克附近的林地里散步。”状语 with Robot 和 near Montignac 都前移到“散步”之前，按汉语“和谁、在哪里、做什么”的语序排列；表语 on a woodland stroll 译成动词“散步”，was 与 on 合译为“正在”。②同位语 his canine companion 单独成句“罗伯特是他犬类的小伙伴。”，避免主句中间插入过长的说明，“小伙伴”带出亲切的语气。③when 从句不译成“当……时”，而是顺着语序另起一句，用“这个时候”承接；从句主语 it 还原为“罗伯特”，避免指代不清；过去分词短语 left by a toppled tree 前置为“一棵倒下的树留下的”，并增补“（地面）”说明凹陷处的位置。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "he；the four explorers",
+   "predicate": "came back；climbed down",
+   "object_or_complement": "",
+   "explain": "本句是 and 连接的并列句。第一个分句主干是 he came back，第二个分句主干是 the four explorers climbed down，都是主谓结构，came back 和 climbed down 都是不及物的短语动词，后面不带宾语。两个谓语都是一般过去时，主动语态，按先后叙述两个动作。"
+  },
+  "components": [
+   {
+    "text": "On 12 September 1940",
+    "zh": "1940年9月12日",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "第一分句主语（指 Marcel Ravidat）"
+   },
+   {
+    "text": "came back",
+    "zh": "回到这里",
+    "role": "第一分句谓语（不及物短语动词）"
+   },
+   {
+    "text": "with three other boys",
+    "zh": "带着另外三个男孩",
+    "role": "伴随状语（介词短语）"
+   },
+   {
+    "text": "for an adventurous excursion,",
+    "zh": "来了一次富于冒险的短途旅行",
+    "role": "目的状语（介词短语，for 表示目的）"
+   },
+   {
+    "text": "and",
+    "zh": "并且",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "the four explorers",
+    "zh": "四个探险者",
+    "role": "第二分句主语（指 he 和另外三个男孩）"
+   },
+   {
+    "text": "climbed down",
+    "zh": "爬",
+    "role": "第二分句谓语（不及物短语动词）"
+   },
+   {
+    "text": "into the darkness.",
+    "zh": "进了黑暗之中",
+    "role": "方向状语（介词短语）"
+   }
+  ],
+  "structure": "①第一个分句：On 12 September 1940 是时间状语，交代具体日期；主语 he 指上一句的 Marcel Ravidat；谓语 came back 意为“回来”，指回到狗发现凹陷处的地方；with three other boys 是伴随状语，说明同行的人；for an adventurous excursion 是目的状语，for 表示目的（视频说明），说明回来是为了一次探险。\n②and 连接第二个分句：主语 the four explorers 指 Ravidat 和另外三个男孩，一共四人，用 explorers（探险者）重新指称这群孩子，既避免重复，又呼应前面的 adventurous excursion；谓语 climbed down 意为“往下爬”，into the darkness 是方向状语，说明爬进了黑暗的洞里。\n③两个分句按时间顺序排列：先回到原地，再爬进洞中，叙事简洁紧凑。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 for 表示目的",
+    "explain": "for 后接名词，可以表示目的、目标，意为“为了……”，如 go out for a walk（出去散步）、come for dinner（来吃饭）、apply for a job（申请工作）。本句 came back ... for an adventurous excursion 意为“回来是为了进行一次富于冒险的短途旅行”（视频说明：for 表示目的）。表示目的时，for 后面接名词或动名词，to 后面接动词原形：come back for an excursion 与 come back to explore 都对，但不能说 come back for explore。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Thousands of fans queued overnight for tickets to the final.",
+      "zh": "数千名球迷通宵排队，为的是买到决赛门票。"
+     },
+     {
+      "en": "She returned to her hometown for a quiet weekend away from the city.",
+      "zh": "她回到家乡，想过一个远离城市喧嚣的安静周末。"
+     }
+    ]
+   },
+   {
+    "title": "three other boys 与 the other three boys",
+    "explain": "数词与 other 连用时，语序和意思都有讲究：three other boys 表示“另外三个男孩”，不限定范围，other 放在数词之后；the other three boys 表示“（一定范围内）其余的三个男孩”，加定冠词时 other 放在数词之前。本句只是说他带着另外三个男孩回来，并不限定在某个已知的群体中，所以用 three other boys。写作中“另外两个问题”写 two other problems，“其余两个问题”写 the other two problems。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Two other candidates withdrew from the race last week.",
+      "zh": "另外两名候选人上周退出了竞选。"
+     }
+    ]
+   },
+   {
+    "title": "英式日期写法与介词 on",
+    "explain": "英式英语常按“日、月、年”书写日期，如 12 September 1940，读作 the twelfth of September, nineteen forty；美式英语多写作 September 12, 1940。具体到某一天的日期前用介词 on，只有月份或年份时用 in，如 in September、in 1940。本文第12句的 on 14 July 1948 也是同样的写法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 4 March and came into force in June.",
+      "zh": "该条约于3月4日签署，6月生效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "come back",
+    "explain": "不及物短语动词，意为“回来，返回”。本句没有说回到哪里，从上下文看是回到上一句狗发现凹陷处的地方，所以视频增补译为“回到这里”。"
+   },
+   {
+    "term": "the four explorers",
+    "explain": "用 the + 数词 + 名词 回指前文提到的人：he 加上 three other boys 正好四人。explorer 本指探险家，这里用来称呼四个男孩，带有一点郑重和诙谐的色彩，与 adventurous excursion 相呼应。"
+   },
+   {
+    "term": "climb down into",
+    "explain": "climb 不仅指往上爬，也可以接 down、into、through 等表示向下或向里爬，如 climb down a ladder（顺着梯子爬下来）。本句 climbed down into the darkness 视频译为“爬进了黑暗之中”。"
+   },
+   {
+    "term": "the darkness",
+    "explain": "darkness 通常不可数，前面加 the 时指特定场所里的黑暗，本句指洞里的黑暗，写出了下洞时面对未知的感觉。"
+   }
+  ],
+  "translation_tip": "视频译文“1940年9月12日，他带着另外三个男孩回到这里，来了一次富于冒险的短途旅行，并且四个探险者爬进了黑暗之中。”的处理：①日期按汉语“年、月、日”的顺序译成“1940年9月12日”，放在句首。②伴随状语 with three other boys 前置为“带着另外三个男孩”，放在“回到这里”之前；came back 增补“这里”，交代回到的地点。③表目的的 for an adventurous excursion 不译成“为了……”，而是转成动词短语“来了一次富于冒险的短途旅行”，与前面的动作连成一串。④and 译为“并且”；climbed down into the darkness 译为“爬进了黑暗之中”，增补“之中”使表达完整。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Ravidat",
+   "predicate": "embroidered",
+   "object_or_complement": "his anecdote",
+   "explain": "主干是 Ravidat embroidered his anecdote，主谓宾结构；with a dramatic twist 说明用什么来添油加醋，与谓语构成 embroider A with B。谓语 embroidered 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In later retellings,",
+    "zh": "在后来的复述中",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Ravidat",
+    "zh": "拉维达",
+    "role": "主语"
+   },
+   {
+    "text": "embroidered",
+    "zh": "添油加醋",
+    "role": "谓语"
+   },
+   {
+    "text": "his anecdote",
+    "zh": "这段轶事",
+    "role": "宾语"
+   },
+   {
+    "text": "with a dramatic twist.",
+    "zh": "加入了一个戏剧性的转折",
+    "role": "方式状语（介词短语，embroider A with B 中的 B）"
+   }
+  ],
+  "structure": "①句首 In later retellings 是介词短语作时间状语，later 是形容词，意为“后来的”；retellings 是 retelling 的复数，说明拉维达不止一次讲过这件事。\n②主干 Ravidat embroidered his anecdote：embroider 本义是“刺绣”，这里用引申义“给故事添油加醋”；his anecdote 指上文男孩们发现洞穴的经过。\n③with a dramatic twist 与谓语构成 embroider A with B（用 B 给 A 添油加醋）的结构（视频说明），B 就是 a dramatic twist（一个戏剧性的转折），具体内容在下一句交代：狗掉进了洞里。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "embroider A with B：动词 + 宾语 + with 短语",
+    "explain": "embroider 本义是在布上刺绣，embroider A with B 原指“用 B 在 A 上绣花”，如 embroider a cushion with flowers；引申为“用 B（虚构的细节）给 A（故事、事实）添油加醋”（视频说明）。英语中“动词 + 宾语 + with + 名词”的结构很多，with 后面是添加或提供的东西，如 provide sb with sth、equip sth with sth、decorate sth with sth、fill sth with sth。考研完形常考这类动词与 with 的搭配，阅读中要分清 with 前后哪一方是被添加、被提供的东西。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Over the years, the old sailor embroidered his tale with sea monsters and storms.",
+      "zh": "多年来，那位老水手给他的故事添油加醋，加进了海怪和风暴。"
+     },
+     {
+      "en": "Volunteers decorated the hall with lanterns, ribbons, and paper flowers.",
+      "zh": "志愿者们用灯笼、彩带和纸花装饰了大厅。"
+     }
+    ]
+   },
+   {
+    "title": "later 与 latter",
+    "explain": "later 是 late 的比较级，作形容词时意为“后来的，以后的”，如 in later years、at a later date；作副词时意为“后来，以后”。latter 意为“（两者中的）后者”或“后半的”，如 the latter half of the year。本句 later retellings 意为“后来的（多次）复述”，不能写成 latter。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The details of the agreement will be announced at a later date.",
+      "zh": "协议的细节将在日后公布。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "retelling",
+    "explain": "由动词 retell（重讲，复述）加 -ing 构成的可数名词，复数 retellings 表示多次复述。re- 表示“再，重新”。retelling 也常指对经典故事的改编、重述，如 a modern retelling of Cinderella。"
+   },
+   {
+    "term": "anecdote",
+    "explain": "视频说明：关于某人真事的、有趣的小故事（趣闻轶事）。常用搭配有 tell an anecdote、an amusing anecdote；形容词 anecdotal 常用于 anecdotal evidence（基于个别事例、未经系统研究的证据），考研阅读中常见，往往表示证据说服力不足。"
+   },
+   {
+    "term": "twist",
+    "explain": "名词，本义“扭曲，拧”，在故事中指“意外的转折”，如 a plot twist（情节反转）、a twist in the tale（出人意料的结局）。a dramatic twist 视频译为“一个戏剧性的转折”。"
+   }
+  ],
+  "translation_tip": "视频译文“在后来的复述中，拉维达给这段轶事添油加醋，加入了一个戏剧性的转折。”的处理：①时间状语 In later retellings 保留在句首，译为“在后来的复述中”，复数不必译出。②embroider A with B 拆成两个动作：“给这段轶事添油加醋”和“加入了一个戏剧性的转折”，with 不译成“用”，而是转成动词“加入了”，读起来更顺。③his anecdote 中的 his 译为“这段”，因为这段轶事就是前文所讲的经过，用“这段”回指更自然。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Robot",
+   "predicate": "had fallen",
+   "object_or_complement": "",
+   "explain": "主干是 Robot had fallen，主谓结构，fall 为不及物动词，into the cave 作方向状语；he said 是插入语。谓语 had fallen 为过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Robot,",
+    "zh": "罗伯特",
+    "role": "主语"
+   },
+   {
+    "text": "he said,",
+    "zh": "他说",
+    "role": "插入语（交代说法的来源）"
+   },
+   {
+    "text": "had fallen into",
+    "zh": "掉进了",
+    "role": "谓语（过去完成时）+ 介词 into"
+   },
+   {
+    "text": "the cave.",
+    "zh": "洞里",
+    "role": "介词 into 的宾语，与 into 构成方向状语"
+   }
+  ],
+  "structure": "①Robot, he said, had fallen into the cave 中，he said 夹在主语和谓语之间，是插入语（视频说明），说明这是拉维达本人的说法。本句可以还原成 He said (that) Robot had fallen into the cave：主句 he said，宾语从句 Robot had fallen into the cave；把 he said 插到句中，突出了“罗伯特掉进洞里”这一内容。\n②谓语 had fallen 是过去完成时：说这话发生在过去，掉进洞里又在讲述之前（视频说明），属于“过去的过去”；从间接引语的角度看，这也是时态后移。\n③into the cave 是介词短语作方向状语，fall into 意为“掉进”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插入语 he said",
+    "explain": "表示信息来源的“主语 + say/think/believe 等”可以插在句中，前后用逗号隔开，作插入语，如 he said、she claimed、experts believe。插入语可以还原成主句，被插入的部分就是宾语从句：Robot, he said, had fallen ... = He said (that) Robot had fallen ...。这样写把真正要传达的内容放在前面，主句退为补充。考研阅读中，带 he said、they claim 的句子说明这只是某人的说法，作者不一定认同；本句的“他说”正为下一句“纯属编造”埋下伏笔。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy, officials insist, will not lead to higher taxes.",
+      "zh": "官员们坚称，新政策不会导致税负增加。"
+     },
+     {
+      "en": "This approach, critics argue, ignores the needs of rural families.",
+      "zh": "批评者认为，这种做法忽视了农村家庭的需求。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时与间接引语",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经发生的事。在间接引语中，如果主句谓语是过去时（said），从句中原来的一般过去时通常后移为过去完成时：他当时说的是 Robot fell into the cave，转述成 he said Robot had fallen into the cave。本句 had fallen 表示掉洞发生在拉维达讲述之前（视频说明）。阅读中看到 had done，要把它放回时间线上，理清事件的先后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The witness told the court that she had seen the suspect near the bank.",
+      "zh": "证人告诉法庭，她曾在银行附近见过嫌疑人。"
+     },
+     {
+      "en": "The company admitted that it had underestimated the cost of the project.",
+      "zh": "公司承认，它低估了这个项目的成本。"
+     }
+    ]
+   },
+   {
+    "title": "fall, fell, fallen 与 fell, felled, felled",
+    "explain": "fall 是不规则动词，变化为 fall, fell, fallen，是不及物动词，意为“落下，跌倒”；fell 另有一个规则动词的身份，意为“砍伐（树木）”，变化为 fell, felled, felled，是及物动词。本句 had fallen 是 fall 的过去分词。考研完形中常利用两者形近设题：the tree fell（树倒了），they felled the tree（他们砍倒了树）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several old oaks were felled to make way for the new road.",
+      "zh": "为了给新修的道路让路，几棵老橡树被砍倒了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fall into",
+    "explain": "掉进，落入。fall 是不及物动词，into 引出掉落的去处；fall into 还有许多引申义，如 fall into decline（走向衰落）、fall into a trap（落入圈套）、fall into three categories（分为三类）。本句用本义，视频译为“掉进了”。"
+   },
+   {
+    "term": "the cave",
+    "explain": "本文中的洞穴就是拉斯科洞窟（Lascaux）。the cave 用定冠词，指上文男孩们爬进去的那个洞，视频译为“洞里”。"
+   }
+  ],
+  "translation_tip": "视频译文“他说，罗伯特掉进了洞里。”的处理：①插入语 he said 提到句首，译为“他说，”，符合汉语先交代说话人、再交代内容的习惯。②过去完成时 had fallen 用“了”表示动作已经完成，汉语不需要另外标出“过去的过去”。③into the cave 译为“洞里”，与“掉进了”连成“掉进了洞里”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "That fanciful mishap",
+   "predicate": "is",
+   "object_or_complement": "a fabrication（表语）",
+   "explain": "主干是 That fanciful mishap is a fabrication，主系表结构，名词短语 a fabrication 作表语。系动词 is 用一般现在时，表达作者现在对这件事的判断。"
+  },
+  "components": [
+   {
+    "text": "That fanciful mishap",
+    "zh": "这个离奇的意外",
+    "role": "主语（That 回指上句狗掉进洞里的情节）"
+   },
+   {
+    "text": "is",
+    "zh": "纯属",
+    "role": "系动词（一般现在时），与 a fabrication 合译为“纯属编造/虚构”"
+   },
+   {
+    "text": "a fabrication.",
+    "zh": "编造/虚构",
+    "role": "表语（名词短语）"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 That fanciful mishap，系动词 is，表语 a fabrication。\n②主语中 That 是指示代词作限定词，回指上一句“罗伯特掉进了洞里”；mishap 意为“意外，小事故”，是对“狗掉进洞里”这件事的概括；fanciful 修饰 mishap，表示这个情节离奇、出自想象。\n③前几句用一般过去时叙述往事，本句改用一般现在时 is，表示作者站在今天对这个说法作出判断，语气斩钉截铁。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "叙事中的时态转换：一般现在时表示作者的判断",
+    "explain": "叙述历史事件用一般过去时，而作者对事实作出的评价、结论，或至今仍然成立的情况，用一般现在时。本句 is a fabrication 是作者现在的判断，不是对1940年情况的叙述。考研阅读中，同一段里时态从过去时转为现在时，往往标志着从叙事转到作者的评论或结论，是把握作者观点的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Legend says the bridge was built in a single night, but the story is pure invention.",
+      "zh": "传说这座桥是一夜之间建成的，但这个故事纯属虚构。"
+     },
+     {
+      "en": "Newton reportedly watched an apple fall, yet the tale is probably exaggerated.",
+      "zh": "据说牛顿看到了苹果落地，但这个故事很可能被夸大了。"
+     }
+    ]
+   },
+   {
+    "title": "指示代词 that 概括、回指上文",
+    "explain": "this、that 加名词可以概括、回指前文提到的内容，起衔接作用，相当于“这个……”。that 带有一点距离感，常用于对前文内容作出评价，如 That claim is false。本句 That fanciful mishap 用一个名词短语概括了上句的情节。汉语一般用“这个”回指，视频即译为“这个离奇的意外”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some reports claimed the factory would close; that rumour turned out to be groundless.",
+      "zh": "一些报道称这家工厂将要关闭；这个传言后来证明毫无根据。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fanciful",
+    "explain": "形容词，“想象出来的，不切实际的”，与 fancy（想象）同源，常带贬义，如 a fanciful notion（异想天开的念头）。本句视频译为“离奇的”。"
+   },
+   {
+    "term": "mishap",
+    "explain": "可数名词，指不严重的小意外、小事故，如 without mishap（顺利地，未出差错）。“狗掉进洞里”正是这样一个小意外。"
+   },
+   {
+    "term": "fabrication",
+    "explain": "名词，编造的谎言、虚构的事，常见搭配 a complete fabrication、a total fabrication。动词 fabricate 既指“编造（谎言、证据）”，也指“制造，装配”。本句视频译为“编造/虚构”。"
+   }
+  ],
+  "translation_tip": "视频译文“这个离奇的意外纯属编造/虚构。”的处理：①That 译为“这个”，回指上文。②系动词 is 与表语 a fabrication 合译为“纯属编造/虚构”，用“纯属”加强判断语气，体现作者的否定态度；表语名词 fabrication 转成汉语的动词性表达“编造/虚构”，斜线表示两种说法都可以。③不定冠词 a 不译出。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The animal；the pivotal initiative",
+   "predicate": "nosed about；was",
+   "object_or_complement": "the hole（nosed about 的宾语）；the boys' own（表语）",
+   "explain": "本句是 and 连接的并列句。第一个分句主干是 The animal nosed about the hole，nose about 是短语动词，about 为介词，带宾语 the hole；第二个分句主干是 the pivotal initiative was the boys' own，主系表结构。两个分句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The animal",
+    "zh": "那只狗",
+    "role": "第一分句主语（指狗 Robot）"
+   },
+   {
+    "text": "only",
+    "zh": "只是",
+    "role": "范围副词，修饰谓语 nosed about，表示“仅仅”"
+   },
+   {
+    "text": "nosed about",
+    "zh": "嗅了嗅",
+    "role": "第一分句谓语（短语动词 nose about，到处嗅）"
+   },
+   {
+    "text": "the hole,",
+    "zh": "在洞口",
+    "role": "nose about 的宾语（about 为介词）"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，视频未单独译出，用逗号连接）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "the pivotal initiative",
+    "zh": "关键的主动行动",
+    "role": "第二分句主语"
+   },
+   {
+    "text": "was",
+    "zh": "（系动词，与 the boys' own 合译为“完全出自几个男孩”）",
+    "role": "系动词"
+   },
+   {
+    "text": "the boys' own.",
+    "zh": "完全出自几个男孩",
+    "role": "表语（名词所有格 + own，own 后省略了 initiative）"
+   }
+  ],
+  "structure": "①第一个分句 The animal only nosed about the hole：The animal 指狗 Robot，用上位词 animal 替换 dog，避免重复；only 修饰谓语，强调狗“只是”在洞口嗅了嗅，没有做更多的事，直接否定了上文“狗掉进洞里”的说法；nose about 意为“到处嗅”（视频说明），about 是介词，the hole 是它的宾语。\n②第二个分句 the pivotal initiative was the boys' own：主语 the pivotal initiative 指“下洞探险”这一关键的主动行动；表语 the boys' own 是名词所有格加 own，own 后省略了 initiative（视频说明），即 the boys' own initiative。\n③两个分句形成对比（视频说明）：那只狗只是在洞口随便闻了闻，并没有往里钻；真正决定往下爬去探险的，完全是那几个男孩自己的主意。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "one's own 的用法与名词省略",
+    "explain": "own 用在所有格之后，强调“自己的”，可以作限定词，后接名词，如 the boys' own idea；也可以单独作代词，后面不接名词，如 The idea was their own。本句 the boys' own 后面省略了 initiative（视频说明），因为主语中已经出现过这个名词，省略可以避免重复。常见搭配还有 on one's own（独自）、of one's own（属于自己的），如 a room of one's own（一间自己的房间）。考研翻译时，own 常需译出“自己的”“完全出自”这样的强调意味，视频即译为“完全出自几个男孩”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The decision to resign was entirely her own.",
+      "zh": "辞职完全是她自己的决定。"
+     },
+     {
+      "en": "Many young people dream of having a business of their own.",
+      "zh": "许多年轻人梦想拥有一家属于自己的企业。"
+     }
+    ]
+   },
+   {
+    "title": "复数名词的所有格",
+    "explain": "以 -s 结尾的复数名词构成所有格时只加撇号，如 the boys' own、the paintings' fragility（第11句）；不以 -s 结尾的复数名词加 's，如 children's books、women's rights；单数名词加 's，如 the boy's dog。读音上 the boys' 与 the boy's 相同，要靠撇号的位置和上下文判断单复数：本句指四个男孩，所以是 boys'。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The students' complaints led the school to change its canteen supplier.",
+      "zh": "学生们的投诉促使学校更换了食堂供应商。"
+     }
+    ]
+   },
+   {
+    "title": "only 的位置与修饰范围",
+    "explain": "only 通常放在它所修饰的成分之前；修饰谓语时放在实义动词前、助动词或 be 动词后。本句 only nosed about the hole 修饰谓语，意为“只是嗅了嗅”，暗含“并没有掉进去”的对比。only 的位置不同，强调的内容就不同：Only the animal nosed about the hole 意为“只有那只狗在洞口嗅”。考研阅读中 only 常是细节题的关键词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister only promised to review the policy, not to change it.",
+      "zh": "部长只是承诺复查这项政策，并没有承诺修改它。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "nose about",
+    "explain": "视频说明：到处嗅。nose 作动词表示动物用鼻子闻、嗅；nose about/around 用于人时指四处打探、探查。本句指狗在洞口嗅来嗅去，视频译为“嗅了嗅”。"
+   },
+   {
+    "term": "pivotal",
+    "explain": "形容词，“关键的，核心的”，来自 pivot（枢轴，支点），即事情围绕它转动的那一点；常见搭配 a pivotal role、a pivotal moment、play a pivotal part in。视频译为“关键的”。"
+   },
+   {
+    "term": "initiative",
+    "explain": "本句指“主动行动，主动的举措”；take the initiative 意为“采取主动”，on one's own initiative 意为“主动地，自发地”。the pivotal initiative 视频译为“关键的主动行动”。"
+   },
+   {
+    "term": "The animal",
+    "explain": "用上位词 animal 指代上文的狗 Robot，是英语避免重复的常见手段（同义替换）；视频按实际所指译为“那只狗”。"
+   }
+  ],
+  "translation_tip": "视频译文“那只狗只是在洞口嗅了嗅，关键的主动行动完全出自几个男孩。”的处理：①The animal 不直译为“那只动物”，而按所指译为“那只狗”，读者一看就明白。②nosed about the hole 中的宾语 the hole 前移为“在洞口”，放在动词之前；“嗅了嗅”用动词重叠，与 only（只是）配合，表现动作轻微、随意。③and 不译，两个分句用逗号连接，对比自然显现。④表语 the boys' own 转译为“完全出自几个男孩”，“完全出自”体现 own 的强调意味，“几个”对应 the boys 的复数。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "the invented fall",
+   "predicate": "made",
+   "object_or_complement": "the dog（宾语）；the hero of the story（宾语补足语）",
+   "explain": "主干是 the invented fall made the dog the hero of the story，主谓宾宾补结构，make A B 意为“使 A 成为 B”（视频说明），名词短语 the hero of the story 作宾语补足语。谓语 made 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Ironically,",
+    "zh": "讽刺的是",
+    "role": "评注性状语（表示作者认为事情具有讽刺意味）"
+   },
+   {
+    "text": "the invented fall",
+    "zh": "虚构的那一跤",
+    "role": "主语（invented 为过去分词作前置定语）"
+   },
+   {
+    "text": "made",
+    "zh": "让",
+    "role": "谓语"
+   },
+   {
+    "text": "the dog",
+    "zh": "狗",
+    "role": "宾语"
+   },
+   {
+    "text": "the hero of the story.",
+    "zh": "成了故事的主角",
+    "role": "宾语补足语（名词短语，of the story 作后置定语）"
+   }
+  ],
+  "structure": "①主干 the invented fall made the dog the hero of the story 是 make A B 结构（视频说明）：宾语 the dog，宾语补足语 the hero of the story，宾补说明宾语身份的变化，即狗成了故事的主角。\n②主语 the invented fall 中，fall 是名词，意为“跌落，摔倒”，指上文编造的“狗掉进洞里”；invented 是过去分词作前置定语，表示“被编造出来的”。\n③句首 Ironically 是评注性状语，表明作者的态度：讽刺之处在于，狗在真实经过中只是在洞口嗅了嗅，关键的主动行动来自男孩们（第6句），一个虚构的跌落却让狗成了故事的主角。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "make + 宾语 + 名词作宾语补足语",
+    "explain": "make 后接宾语和宾语补足语，表示“使某人（某物）成为……，使某人（某物）处于……”。宾补可以是名词（make him captain）、形容词（make it clear）、不带 to 的不定式（make him laugh）或过去分词（make oneself understood）。本句宾补是名词短语 the hero of the story（视频说明：make A B，使 A 成为 B）。宾补是名词时，A 和 B 指同一对象，中间不加 as：make the dog the hero，不说 make the dog as the hero。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The discovery made her one of the most famous scientists of her generation.",
+      "zh": "这项发现使她成为同代人中最著名的科学家之一。"
+     },
+     {
+      "en": "Rising rents have made the city centre a place only the wealthy can afford.",
+      "zh": "不断上涨的租金使市中心成了只有富人才住得起的地方。"
+     }
+    ]
+   },
+   {
+    "title": "评注性副词 ironically 修饰全句",
+    "explain": "ironically、surprisingly、fortunately、interestingly 这类副词放在句首，用逗号隔开，修饰整个句子，表达说话人的态度或评价，翻译时常译成“……的是”，如“讽刺的是”“令人惊讶的是”。ironically 表示事情的结果与预期或常理相反，带有讽刺意味。考研阅读中这类词是判断作者态度的重要线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Ironically, the campaign to save paper produced thousands of printed leaflets.",
+      "zh": "讽刺的是，这场节约用纸的运动印发了数千份传单。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fall",
+    "explain": "这里是可数名词，意为“跌落，摔倒”，常见搭配 have a fall（摔一跤）、break sb's fall（减轻某人摔倒时的冲击）。本句指编造的狗掉进洞里这件事，视频译为“那一跤”。"
+   },
+   {
+    "term": "hero",
+    "explain": "除“英雄”外，还指小说、电影、故事中的主人公、男主角，与 heroine（女主角）相对。本句 the hero of the story 视频译为“故事的主角”。"
+   },
+   {
+    "term": "invented",
+    "explain": "invent 除“发明”外，还指“编造，虚构”（借口、故事等），如 invent an excuse。invented 作定语，与第5句的 fabrication 意思呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“讽刺的是，虚构的那一跤让狗成了故事的主角。”的处理：①Ironically 译为“讽刺的是”，放在句首，用逗号隔开，保留评注语气。②the invented fall 译为“虚构的那一跤”，用“那”回指上文情节，“一跤”是汉语对摔倒的自然说法。③make A B 译为“让 A 成了 B”：谓语 made 译为“让”，宾补前增补动词“成了”，名词短语 the hero of the story 译为“成了故事的主角”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Some 680 painted figures and 1,500 engravings",
+   "predicate": "cover",
+   "object_or_complement": "the rock",
+   "explain": "主干是 Some 680 painted figures and 1,500 engravings cover the rock，主谓宾结构，主语是 and 连接的两个并列名词短语。谓语 cover 用一般现在时，描述洞内至今存在的状态；主语为复数，所以谓语用原形。"
+  },
+  "components": [
+   {
+    "text": "Some 680 painted figures",
+    "zh": "约680个彩绘人像",
+    "role": "主语之一（some 作副词，用在数字前表示“大约”）"
+   },
+   {
+    "text": "and",
+    "zh": "和",
+    "role": "并列连词，连接两个主语"
+   },
+   {
+    "text": "1,500 engravings",
+    "zh": "1,500幅雕刻图案",
+    "role": "主语之二"
+   },
+   {
+    "text": "cover",
+    "zh": "布满了",
+    "role": "谓语"
+   },
+   {
+    "text": "the rock.",
+    "zh": "这块岩石",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①主语是两个并列的名词短语 Some 680 painted figures 和 1,500 engravings：some 在数字前作副词，表示“大约”（视频说明），修饰 680；painted 是过去分词作前置定语，表示“用颜料画出的”；engravings 指刻在岩石上的图案。\n②谓语 cover 意为“布满，覆盖”，宾语 the rock 指洞内的岩壁。一般现在时表示这些图像至今仍在。\n③本句用两组数字点出洞内图像的规模（视频说明：大概有680个是用颜料彩绘上去的图案，还有1500个是用工具刻上去的图案），画出来的和刻出来的加起来有两千多个。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "some + 数词：表示“大约”",
+    "explain": "some 放在数词前作副词，意为“大约”，相当于 about、around、approximately，语气比 about 正式，多见于新闻和书面语，如 some 50 people（大约50人）。区分：some 后接复数名词而没有数词时是限定词，意为“一些”，如 some figures。考研阅读的细节题常考数字的精确程度，some、roughly、nearly、more than 修饰的数字都不是确数。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some 3,000 workers are expected to lose their jobs when the plant closes.",
+      "zh": "这家工厂关闭后，预计约有3,000名工人失业。"
+     },
+     {
+      "en": "The manuscript lay forgotten in a library for some 200 years.",
+      "zh": "这份手稿在一座图书馆里被遗忘了约200年。"
+     }
+    ]
+   },
+   {
+    "title": "并列主语与主谓一致",
+    "explain": "两个名词短语用 and 连接作主语时，通常表示复数，谓语用复数形式，本句 painted figures and engravings cover 用动词原形 cover。例外：and 连接的两个名词指同一事物或被看作一个整体时，谓语用单数，如 Bread and butter is his usual breakfast。用 as well as、along with、together with 连接时，谓语通常与前面的主语保持一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising costs and falling demand have forced the firm to cut jobs.",
+      "zh": "成本上升和需求下降迫使这家公司裁员。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "painted figures",
+    "explain": "painted 是过去分词作定语，表示“彩绘的，用颜料画的”；figure 在这里指画作或雕塑中的人物、形象。视频译为“彩绘人像”。"
+   },
+   {
+    "term": "engraving",
+    "explain": "名词，指在石头、金属、木头等硬质表面刻出的图案，也指用雕版印出的版画；动词 engrave 意为“雕刻，镌刻”。本句与 painted figures 相对，指刻出来的图案，视频译为“雕刻图案”。"
+   },
+   {
+    "term": "1,500",
+    "explain": "英语数字从个位起每三位用逗号分隔，1,500 读作 one thousand five hundred，口语中也说 fifteen hundred。视频保留了“1,500”的写法。"
+   }
+  ],
+  "translation_tip": "视频译文“约680个彩绘人像和1,500幅雕刻图案布满了这块岩石。”的处理：①some 译为“约”，紧贴数字。②英语名词前直接加数字，汉语要增补量词：figures 配“个”，engravings 配“幅”。③谓语 cover 译为“布满了”，“布满”比“覆盖”更能体现数量之多，“了”表示状态已经形成；the rock 增补量词，译为“这块岩石”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "The artwork；its creators",
+   "predicate": "is usually dated；lived",
+   "object_or_complement": "",
+   "explain": "本句由分号连接两个并列分句。第一个分句主干是 The artwork is dated，一般现在时，被动语态，表示今天学界对其年代的判断；第二个分句主干是 its creators lived，主谓结构，一般过去时，主动语态，叙述创作者生活的年代。"
+  },
+  "components": [
+   {
+    "text": "The artwork",
+    "zh": "这些艺术作品",
+    "role": "第一分句主语"
+   },
+   {
+    "text": "is usually dated",
+    "zh": "通常可被追溯",
+    "role": "第一分句谓语（一般现在时被动语态，usually 为频度副词）"
+   },
+   {
+    "text": "to between 17,000 and 22,000 years ago;",
+    "zh": "到1.7万至2.2万年之前",
+    "role": "状语（介词短语，与 dated 构成 be dated to，说明断定的年代）"
+   },
+   {
+    "text": "its creators,",
+    "zh": "其创作者",
+    "role": "第二分句主语（its 指 the artwork）"
+   },
+   {
+    "text": "our distant ancestors,",
+    "zh": "是我们遥远的祖先",
+    "role": "同位语，补充说明 creators"
+   },
+   {
+    "text": "lived",
+    "zh": "生活",
+    "role": "第二分句谓语"
+   },
+   {
+    "text": "in antiquity.",
+    "zh": "在古时代",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①第一个分句 The artwork is usually dated to between 17,000 and 22,000 years ago：be dated to 意为“年代被断定为”（视频说明）；to 后面接的是介词短语 between 17,000 and 22,000 years ago，形成“介词 + 介词短语”的双重介词结构，between ... and ... 给出一个年代范围。usually 表示这是通行的断代说法。\n②分号后是第二个分句：主语 its creators，its 指 the artwork；our distant ancestors 是同位语，补充说明 creators（视频说明）；谓语 lived，in antiquity 作时间状语。\n③前一分句讲作品的年代，后一分句讲创作者是谁、生活在什么时代，两者紧密相关，所以用分号连接而不用句号断开。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "be dated to 与 date back to / date from",
+    "explain": "date 作及物动词时意为“确定……的年代”，常用被动 be dated to + 年代，表示“年代被断定为”（视频说明），强调这是研究者的判断，如 The bones have been dated to 3000 BC。表示“追溯到，始于”时，常用不及物的 date back to 或 date from，以事物作主语，用主动形式，如 The church dates back to the 12th century。写作时要么用主动的 date back to / date from，要么用被动的 be dated to，两种结构不要混用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The oldest timbers in the barn have been dated to the early 1600s.",
+      "zh": "这座谷仓里最古老的木料，年代被断定为17世纪初。"
+     },
+     {
+      "en": "The tradition dates back to the Middle Ages.",
+      "zh": "这一传统可以追溯到中世纪。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号可以连接两个意思紧密相关的独立分句，作用介于逗号和句号之间，此时不需要 and、but 等连词。两个独立分句之间只用逗号连接是错误的（comma splice），要么改用分号，要么加连词，要么分成两句。本句前一分句讲年代，后一分句讲创作者，用分号表示二者同属一个话题。考研写作中可以适当使用分号，但要保证分号两边都是完整的句子。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first experiment failed; the second produced the results the team had hoped for.",
+      "zh": "第一次实验失败了；第二次实验得出了团队期待的结果。"
+     }
+    ]
+   },
+   {
+    "title": "同位语",
+    "explain": "同位语是紧跟在名词后面、对它进行解释说明的名词或名词短语，二者指同一对象，通常用逗号隔开。本句 our distant ancestors 是 creators 的同位语，说明创作者是谁（视频说明）。翻译时同位语可以前置作定语，也可以像视频这样译成判断句“是……”插在句中。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Marie Curie, a pioneer of research into radioactivity, won two Nobel Prizes.",
+      "zh": "玛丽·居里是放射性研究的先驱，她两次获得诺贝尔奖。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "artwork",
+    "explain": "名词，指艺术作品（绘画、雕刻等），常作不可数的集合名词，统指一批作品；本句 The artwork 指洞内所有的画和刻画，所以视频译为“这些艺术作品”。在出版领域也指书刊中的插图、图片。"
+   },
+   {
+    "term": "antiquity",
+    "explain": "视频说明：古时代（特别指古埃及、古希腊、古罗马时期）。in antiquity 意为“在古代”；复数 antiquities 指古物、文物。本句用来说明壁画创作者生活在非常久远的过去。"
+   },
+   {
+    "term": "17,000 and 22,000",
+    "explain": "英语以“千”为单位计数，汉语以“万”为单位：17,000 = 1.7万，22,000 = 2.2万。数字翻译时要注意换算，视频译为“1.7万至2.2万年之前”。"
+   },
+   {
+    "term": "ancestor",
+    "explain": "祖先，反义词为 descendant（后代）；distant ancestors 意为“远祖，遥远的祖先”。our 把今天的读者和史前的创作者联系在一起。"
+   }
+  ],
+  "translation_tip": "视频译文“这些艺术作品通常可被追溯到1.7万至2.2万年之前；其创作者，是我们遥远的祖先，生活在古时代。”的处理：①The artwork 译为“这些艺术作品”，用“这些”体现它集合指代洞内全部画作。②被动的 is dated to 译为“可被追溯到”，保留被动意味；数字按汉语习惯换算成“1.7万至2.2万”，ago 译为“之前”。③保留分号，与原文结构对应。④its 译为书面色彩的“其”；同位语 our distant ancestors 译成插入的判断句“是我们遥远的祖先”，前后用逗号隔开，保持原文语序。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Horses, bulls, and stags",
+   "predicate": "are",
+   "object_or_complement": "among the animals（表语）",
+   "explain": "主干是 Horses, bulls, and stags are among the animals，主系表结构，介词短语 among the animals 作表语，be among 意为“是……之一”（视频说明）。系动词 are 用一般现在时，表示壁画上现存的内容。"
+  },
+  "components": [
+   {
+    "text": "Horses,",
+    "zh": "马",
+    "role": "主语（三项并列之一）"
+   },
+   {
+    "text": "bulls,",
+    "zh": "公牛",
+    "role": "主语（三项并列之二）"
+   },
+   {
+    "text": "and stags",
+    "zh": "和雄鹿",
+    "role": "并列连词 and + 主语（三项并列之三）"
+   },
+   {
+    "text": "are",
+    "zh": "都是",
+    "role": "系动词，与 among 构成 be among（是……之一）"
+   },
+   {
+    "text": "among the animals",
+    "zh": "动物",
+    "role": "表语（介词短语）"
+   },
+   {
+    "text": "depicted",
+    "zh": "描绘的",
+    "role": "后置定语（过去分词），修饰 the animals"
+   },
+   {
+    "text": "in pigments",
+    "zh": "用颜料",
+    "role": "方式状语（介词短语，修饰 depicted，in 表示所用材料）"
+   },
+   {
+    "text": "on the murals.",
+    "zh": "壁画上",
+    "role": "地点状语（介词短语，修饰 depicted）"
+   }
+  ],
+  "structure": "①主语是三项并列的名词 Horses, bulls, and stags，and 前用了牛津逗号；系动词 are；表语是介词短语 among the animals，be among 意为“是……之一，属于……之列”（视频说明），说明马、公牛和雄鹿只是壁画所画动物中的一部分。\n②depicted in pigments on the murals 是过去分词短语作后置定语，修饰 the animals（视频说明），相当于 which are depicted in pigments on the murals。animals 与 depict 是被动关系，所以用过去分词。\n③过去分词 depicted 后面带两个介词短语：in pigments 说明用什么画，on the murals 说明画在哪里。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "be among 表示“是……之一”",
+    "explain": "among 后接复数名词，be among + 复数名词 表示主语属于某个群体，相当于 be one of / be some of，如 She is among the best students in her class。本句说马、公牛和雄鹿是壁画所描绘动物中的一部分，言下之意还有其他动物。考研阅读中 among 句常用来列举部分例子，不能理解成“只有这些”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Rising sea levels are among the most serious threats facing coastal cities.",
+      "zh": "海平面上升是沿海城市面临的最严重威胁之一。"
+     },
+     {
+      "en": "Smartphones, tablets, and laptops are among the products affected by the new tariffs.",
+      "zh": "智能手机、平板电脑和笔记本电脑都在受新关税影响的产品之列。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在被修饰的名词之后作定语，表示被动或完成，相当于一个定语从句。本句 the animals depicted in pigments on the murals = the animals which are depicted in pigments on the murals（视频说明）。分词短语中的状语 in pigments、on the murals 都修饰 depicted，翻译时连同分词一起前置：“壁画上用颜料描绘的动物”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Most of the goods sold in the market are made locally.",
+      "zh": "市场上出售的大部分商品是本地生产的。"
+     },
+     {
+      "en": "The issues raised at the meeting will be discussed again next month.",
+      "zh": "会上提出的问题下个月将再次讨论。"
+     }
+    ]
+   },
+   {
+    "title": "介词 in 表示材料、方式",
+    "explain": "in 后接表示材料、颜色、语言、书写工具的名词，表示“用……”，如 write in ink（用墨水写）、paint in oils（用油彩作画）、speak in English（用英语说）。本句 depicted in pigments 意为“用颜料描绘的”。区分：with 侧重使用的具体工具，如 draw with a pencil；in 侧重所用的材料或形式，如 a sketch in pencil。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The letter was written in pencil and signed in ink.",
+      "zh": "这封信是用铅笔写的，用墨水签的名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stag",
+    "explain": "名词，成年雄鹿；雌鹿可以说 hind 或 doe，泛指鹿用 deer（单复数同形）。视频译为“雄鹿”。"
+   },
+   {
+    "term": "bull",
+    "explain": "公牛（未阉割的），与 cow（母牛）、ox（阉过的公牛，多作役用）、cattle（牛的总称）相对。拉斯科洞窟中有一处著名的洞室叫 Hall of the Bulls（公牛厅）；第18句的 the bulls 也指壁画上的这些公牛。"
+   },
+   {
+    "term": "mural",
+    "explain": "名词，壁画，指直接画在墙壁或天花板上的大型画作，来自拉丁语 murus（墙）。视频译为“壁画”。"
+   },
+   {
+    "term": "pigment",
+    "explain": "名词，颜料，也指生物体内的色素。复数 pigments 说明作画用了不止一种颜料。"
+   }
+  ],
+  "translation_tip": "视频译文“马、公牛和雄鹿都是壁画上用颜料描绘的动物。”的处理：①三项并列的主语用顿号和“和”连接，英文中的牛津逗号在汉语中不保留。②be among 意为“是……之一”，视频结合语境译为“都是……动物”，“都”统括前面三种动物。③后置的过去分词短语前置作定语，并调整了内部语序：英文先说 in pigments，后说 on the murals，汉语先说地点“壁画上”，再说方式“用颜料”，最后是“描绘的”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The paintings' fragility",
+   "predicate": "became",
+   "object_or_complement": "clear（表语）",
+   "explain": "主干是 The paintings' fragility became clear，主系表结构，become 为系动词，形容词 clear 作表语。系动词 became 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The paintings' fragility",
+    "zh": "这些画作的脆弱性",
+    "role": "主语（复数名词所有格 paintings' 作定语）"
+   },
+   {
+    "text": "soon",
+    "zh": "很快就",
+    "role": "时间状语（副词）"
+   },
+   {
+    "text": "became",
+    "zh": "（系动词，与 clear 合译为“显现了出来”）",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "clear.",
+    "zh": "显现了出来",
+    "role": "表语（形容词）"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 The paintings' fragility，系动词 became，表语 clear；soon 作时间状语，放在主语和系动词之间。\n②主语中 The paintings' 是复数名词所有格，作 fragility 的定语，等于 the fragility of the paintings；fragility 是形容词 fragile（易碎的，脆弱的）的名词形式。\n③本句是段落的过渡句：前面讲壁画的规模和年代，下一段讲开放参观后壁画受损，本句先点出“脆弱”这个主题。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "系动词 become + 形容词",
+    "explain": "become 是表示“变化”的系动词，后接形容词或名词作表语，表示主语变成某种状态，同类系动词还有 get、grow、turn、go，如 become clear、grow old、turn red、go bad。本句 became clear 意为“变得明显”。系动词后接形容词，不能接副词：become clearly 是错误的。第13句的 became plain to see 也是这种结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the investigation continued, the scale of the fraud became apparent.",
+      "zh": "随着调查的深入，这起欺诈案的规模逐渐显现出来。"
+     },
+     {
+      "en": "The weather turned cold overnight.",
+      "zh": "一夜之间天气变冷了。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与 of 结构",
+    "explain": "表示“某物的某种属性”，可以用所有格 the paintings' fragility，也可以用 of 结构 the fragility of the paintings。传统上无生命名词多用 of 结构，但新闻和书面语中，无生命名词用 's 的情况也很常见，如 the city's population、the company's profits，所有格读起来更紧凑。翻译时两种结构都可以译成“……的……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge's design has won several international awards.",
+      "zh": "这座桥的设计获得了多项国际奖项。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fragility",
+    "explain": "名词，“脆弱，易碎”，形容词是 fragile；同根词有 fragment（碎片）、fracture（骨折，断裂）。常见搭配 the fragility of the economy（经济的脆弱）。视频译为“脆弱性”。"
+   },
+   {
+    "term": "painting",
+    "explain": "可数名词，指一幅画；作不可数名词时指绘画（艺术或活动）。本句复数 paintings 指洞里的壁画，视频译为“画作”。"
+   }
+  ],
+  "translation_tip": "视频译文“这些画作的脆弱性很快就显现了出来。”的处理：①The paintings' 用“这些”译出定冠词和复数，译为“这些画作的”。②形容词表语 clear 没有直译为“变得清楚”，而是与 became 合译为动词短语“显现了出来”，与“脆弱性”搭配更自然。③soon 译为“很快就”，“就”字加强了时间短的意味。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Lascaux；tourism",
+   "predicate": "opened；brought",
+   "object_or_complement": "an influx（brought 的宾语）",
+   "explain": "本句是 and 连接的并列句。第一个分句主干是 Lascaux opened，open 为不及物动词，to the public 说明开放的对象；第二个分句主干是 tourism brought an influx，主谓宾结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Lascaux",
+    "zh": "拉斯科",
+    "role": "第一分句主语（专有名词，指拉斯科洞窟）"
+   },
+   {
+    "text": "opened to the public",
+    "zh": "向公众开放",
+    "role": "第一分句谓语（open 为不及物动词，to the public 说明开放的对象）"
+   },
+   {
+    "text": "on 14 July 1948,",
+    "zh": "1948年7月14日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，视频未单独译出，用逗号连接）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "tourism",
+    "zh": "旅游业",
+    "role": "第二分句主语"
+   },
+   {
+    "text": "brought",
+    "zh": "带来了",
+    "role": "第二分句谓语"
+   },
+   {
+    "text": "an influx",
+    "zh": "涌入",
+    "role": "宾语"
+   },
+   {
+    "text": "of about 1,200 visitors",
+    "zh": "约1,200名游客的",
+    "role": "后置定语（介词短语），修饰 an influx"
+   },
+   {
+    "text": "a day.",
+    "zh": "每天",
+    "role": "后置修饰语（a 表示“每”），说明游客数量的比率"
+   }
+  ],
+  "structure": "①第一个分句 Lascaux opened to the public on 14 July 1948：主语 Lascaux 指拉斯科洞窟；open 在这里是不及物动词，表示“开放”，to the public 说明开放的对象；on 14 July 1948 是时间状语。\n②第二个分句 tourism brought an influx of about 1,200 visitors a day：主语 tourism，谓语 brought，宾语 an influx；of 短语作后置定语，说明涌入的是什么（视频说明：an influx of A，A 的涌入）；about 修饰数字，表示“大约”；a day 意为“每天”，说明游客数量的比率。\n③两个分句按因果顺序排列：开放带来了大批游客，为下一句写游客对壁画的影响作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "open、close 的不及物用法（主动形式表示被动意义）",
+    "explain": "open、close、sell、read、wash 等动词既可作及物动词，也可作不及物动词；作不及物动词时，以事物作主语，用主动形式表达“自身发生某种变化”的意思，如 The shop opens at nine、This book sells well。本句 Lascaux opened to the public 不必写成 was opened；第14句 the site closed to the public、第15句 Lascaux II ... opened、第17句 Lascaux IV opened 也是同样的用法。考研写作中，表示“开放，开业，营业”时可以直接用 open。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new library opens to the public next Monday.",
+      "zh": "新图书馆下周一向公众开放。"
+     },
+     {
+      "en": "The factory closed in 2009 after decades of decline.",
+      "zh": "这家工厂经历几十年的衰落，于2009年关闭。"
+     }
+    ]
+   },
+   {
+    "title": "不定冠词 a 表示“每”",
+    "explain": "不定冠词 a/an 放在表示时间、数量、重量的名词前，可以表示“每一”，相当于 per，如 three times a week（每周三次）、50 kilometres an hour（每小时50公里）、ten dollars a kilo（每公斤十美元）。本句 1,200 visitors a day 即“每天1,200名游客”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The clinic sees around 80 patients a day.",
+      "zh": "这家诊所每天接诊约80名病人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "influx",
+    "explain": "名词，（大量人、资金、物品的）涌入，常用 an influx of + 名词（视频说明），如 an influx of refugees（难民涌入）、an influx of capital（资本涌入）。in- 表示“向内”，flux 表示“流动”。视频译为“涌入”。"
+   },
+   {
+    "term": "14 July",
+    "explain": "7月14日是法国国庆日（法语 la Fête nationale，英语常称 Bastille Day）。拉斯科在这一天对公众开放。"
+   },
+   {
+    "term": "tourism",
+    "explain": "名词，旅游业，不可数；常见搭配 mass tourism（大众旅游）、boost tourism（促进旅游业）。本句以 tourism 作主语，把“旅游业”当作带来游客的一方，视频译为“旅游业”。"
+   },
+   {
+    "term": "open to the public",
+    "explain": "向公众开放。be open to the public 中 open 是形容词，表示处于开放状态，如 The garden is open to the public in summer；open to the public 作动词短语时表示“开始开放”这一动作，本句即后者。"
+   }
+  ],
+  "translation_tip": "视频译文“1948年7月14日，拉斯科向公众开放，旅游业带来了每天约1,200名游客的涌入。”的处理：①时间状语 on 14 July 1948 按汉语习惯提到句首，日期按“年、月、日”排列。②to the public 前置为“向公众”，放在“开放”之前。③and 不译，用逗号连接两个分句。④宾语 an influx of about 1,200 visitors a day 中，of 短语和 a day 都前置作定语，译成“每天约1,200名游客的涌入”，保留了原文的名词结构。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "The throng；the deterioration",
+   "predicate": "exhaled, added；became",
+   "object_or_complement": "carbon dioxide（exhaled 的宾语）；heat, humidity, and contaminants（added 的宾语）；plain to see（表语）",
+   "explain": "本句是 and 连接的并列句。第一个分句一个主语 The throng 带两个并列谓语 exhaled 和 added，都是主谓宾结构；第二个分句主干是 the deterioration became plain to see，主系表结构。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The throng",
+    "zh": "人群",
+    "role": "第一分句主语"
+   },
+   {
+    "text": "exhaled",
+    "zh": "呼出",
+    "role": "谓语一"
+   },
+   {
+    "text": "carbon dioxide",
+    "zh": "二氧化碳",
+    "role": "宾语（exhaled 的宾语）"
+   },
+   {
+    "text": "and added",
+    "zh": "并增加了",
+    "role": "并列连词 and + 谓语二"
+   },
+   {
+    "text": "heat, humidity, and contaminants,",
+    "zh": "热量、湿度和污染物",
+    "role": "宾语（added 的宾语，三项并列）"
+   },
+   {
+    "text": "and",
+    "zh": "而",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "the deterioration",
+    "zh": "劣化/恶化",
+    "role": "第二分句主语"
+   },
+   {
+    "text": "of the paintings",
+    "zh": "壁画的",
+    "role": "后置定语（介词短语），修饰 the deterioration"
+   },
+   {
+    "text": "became",
+    "zh": "变得",
+    "role": "系动词"
+   },
+   {
+    "text": "plain to see.",
+    "zh": "显而易见",
+    "role": "表语（形容词 + 不定式）"
+   }
+  ],
+  "structure": "①第一个分句：主语 The throng（人群）指上一句每天涌入的游客；两个并列谓语 exhaled carbon dioxide 和 added heat, humidity, and contaminants 由 and 连接；第二个谓语的宾语是三项并列的名词，用了牛津逗号。\n②第二个分句由第二个 and 引出：主语 the deterioration of the paintings，of 短语作后置定语；deterioration 是动词 deteriorate 的名词形式，the deterioration of the paintings 相当于 the paintings deteriorated；系动词 became，表语 plain to see（显而易见）。\n③句中有三个 and，层次不同：第一个连接两个谓语，第二个连接三个宾语中的最后一项，第三个连接两个分句。分辨的方法是看 and 后面的成分：and added 后是动词，与 exhaled 并列；and contaminants 是名词，与 heat、humidity 并列；and the deterioration 后面有自己的谓语 became，是新的分句。\n④前后两个分句是因果关系：人群呼出的二氧化碳和带来的热量、湿度、污染物，使壁画的劣化变得显而易见。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "多个 and 的层次辨析",
+    "explain": "长句中出现多个 and 时，要判断每个 and 连接的是什么成分：并列的成分在语法上必须同类，动词连动词，名词连名词，分句连分句。本句 exhaled ... and added 连接两个谓语，heat, humidity, and contaminants 连接三个名词，第三个 and 连接两个完整的分句。考研长难句中这类结构很常见，找准每个 and 前后对应的成分，才能理清句子层次；连接两个分句的 and 前通常有逗号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm knocked down power lines and flooded roads, and thousands of residents spent the night in shelters.",
+      "zh": "暴风雨刮倒了电线，淹没了道路，数千名居民在避难所过夜。"
+     },
+     {
+      "en": "Researchers collected soil, water, and air samples and sent them to three laboratories.",
+      "zh": "研究人员采集了土壤、水和空气样本，并将其送往三家实验室。"
+     }
+    ]
+   },
+   {
+    "title": "形容词 + 不定式作表语：plain to see",
+    "explain": "plain、easy、hard、difficult、impossible 等形容词后接不定式，构成“形容词 + to do”，意为“……起来……”；句子的主语正是不定式动词的逻辑宾语：本句人们看到的就是壁画的劣化。这种结构中不定式用主动形式表示被动意义，如 The question is easy to answer，一般不说 easy to be answered。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The instructions were clear and easy to follow.",
+      "zh": "说明清楚明了，很容易照着做。"
+     },
+     {
+      "en": "The consequences of the decision were hard to predict.",
+      "zh": "这一决定的后果难以预料。"
+     }
+    ]
+   },
+   {
+    "title": "名词化结构 the deterioration of ...",
+    "explain": "英语常把动词变成名词，用“名词 + of + 名词”表达一个动作或变化，即名词化结构：the deterioration of the paintings 相当于 the paintings deteriorated。名词化使句子更紧凑、更正式，是考研阅读文章的常见特征。翻译时可以还原成主谓结构，也可以保留名词结构，视频译为“壁画的劣化/恶化”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The rapid expansion of the city has put pressure on its water supply.",
+      "zh": "城市的迅速扩张给供水带来了压力。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "throng",
+    "explain": "名词，一大群人，语气较书面，常用 a throng of + 复数名词，如 a throng of reporters；也可作动词，意为“群集，涌向”，如 Tourists throng the streets in summer。视频译为“人群”。"
+   },
+   {
+    "term": "exhale",
+    "explain": "动词，呼出（气体），反义词 inhale（吸入）；ex- 表示“向外”。视频译为“呼出”。"
+   },
+   {
+    "term": "carbon dioxide",
+    "explain": "二氧化碳，化学式 CO2；di- 表示“二”，oxide 是“氧化物”。人呼出的气体中含有二氧化碳。"
+   },
+   {
+    "term": "plain",
+    "explain": "熟词僻义：plain 常见义是“朴素的”“平原”，这里意为“清楚的，明显的”，plain to see 即“显而易见”；同类说法有 make it plain that（明确表示）。"
+   }
+  ],
+  "translation_tip": "视频译文“人群呼出二氧化碳，并增加了热量、湿度和污染物，而壁画的劣化/恶化变得显而易见。”的处理：①两个并列谓语译成两个短句，第二个谓语前用“并”译出 and。②三项并列的宾语用顿号和“和”连接。③连接两个分句的 and 译为“而”，引出后一分句的结果。④名词化结构 the deterioration of the paintings 保留名词形式，of 短语前置为“壁画的”，the paintings 结合语境译为“壁画”；表语 plain to see 译为成语“显而易见”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "the site",
+   "predicate": "closed",
+   "object_or_complement": "",
+   "explain": "主干是 the site closed，主谓结构，close 为不及物动词，to the public 说明关闭的对象。谓语 closed 为一般过去时，主动语态；句末的过去分词短语 followed by ... 表示随后发生的事。"
+  },
+  "components": [
+   {
+    "text": "In 1963",
+    "zh": "1963年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "the site",
+    "zh": "该遗址",
+    "role": "主语（指拉斯科洞窟）"
+   },
+   {
+    "text": "closed to the public,",
+    "zh": "对公众关闭",
+    "role": "谓语（close 为不及物动词，to the public 说明关闭的对象）"
+   },
+   {
+    "text": "followed by",
+    "zh": "紧随其后的是",
+    "role": "过去分词短语作状语，表示随后发生的事"
+   },
+   {
+    "text": "restoration and daily inspection.",
+    "zh": "修复和每日检查",
+    "role": "介词 by 的宾语（两项并列）"
+   }
+  ],
+  "structure": "①主句 In 1963 the site closed to the public：In 1963 是时间状语；主语 the site 指拉斯科洞窟，用 site（遗址）替换前文的 Lascaux；close 是不及物动词，to the public 说明对谁关闭。\n②followed by restoration and daily inspection 是过去分词短语，表示随后发生的事（视频说明）。follow 是及物动词，A is followed by B 意为“A 之后接着是 B”；这里分词短语的逻辑主语是前面整个分句所说的“关闭”这件事，相当于 and this was followed by restoration and daily inspection。\n③by 的宾语是两个并列名词 restoration 和 daily inspection，daily 作前置定语，修饰 inspection。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "句末 followed by 表示随后发生的事",
+    "explain": "be followed by 意为“随后是……”，表示先后顺序：A is followed by B = B follows A，A 在先，B 在后。句末用逗号隔开的过去分词短语 followed by ...，用来补充说明接下来发生的事（视频说明），逻辑主语是前面的整件事，可以还原为 and this was followed by ...。考研阅读中容易把先后顺序弄反：followed by 后面的内容发生在后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The speech lasted an hour, followed by a short question-and-answer session.",
+      "zh": "演讲持续了一个小时，随后是一个简短的问答环节。"
+     },
+     {
+      "en": "Heavy rain fell throughout the night, followed by flooding in low-lying areas.",
+      "zh": "大雨下了一整夜，随后低洼地区发生了洪涝。"
+     }
+    ]
+   },
+   {
+    "title": "closed to the public 与 be closed to the public",
+    "explain": "close 作不及物动词时表示“关闭”这一动作，如本句 the site closed to the public（该遗址对公众关闭），常与具体时间连用；be closed to the public 中 closed 是形容词作表语，表示处于关闭状态，常与表示时段或频率的状语连用。open 也是如此：opened to the public 表示开放这一动作，be open to the public 表示开放的状态。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum is closed to the public on Mondays.",
+      "zh": "这家博物馆每周一不对公众开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "site",
+    "explain": "名词，场所，遗址，地点，如 a historic site（历史遗址）、an archaeological site（考古遗址）、a building site（建筑工地）。本句用 the site 指拉斯科洞窟，视频译为“该遗址”。site 与 sight（景象）、cite（引用）读音相同，注意区分拼写。"
+   },
+   {
+    "term": "restoration",
+    "explain": "名词，修复，恢复，动词是 restore，如 the restoration of old paintings（古画修复）。视频译为“修复”。"
+   },
+   {
+    "term": "inspection",
+    "explain": "名词，检查，视察，动词是 inspect；daily inspection 指每天进行的检查，视频译为“每日检查”。"
+   }
+  ],
+  "translation_tip": "视频译文“1963年，该遗址对公众关闭，紧随其后的是修复和每日检查。”的处理：①In 1963 放在句首，译成“1963年，”。②to the public 前置为“对公众”，放在“关闭”之前。③the site 译为“该遗址”，“该”是书面语中回指前文的常用词。④过去分词短语 followed by ... 译成“紧随其后的是……”，单独成句，按时间顺序先说关闭、再说修复和检查，与英文顺序一致。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Lascaux；Lascaux II",
+   "predicate": "joined；opened",
+   "object_or_complement": "UNESCO's World Heritage List（joined 的宾语）",
+   "explain": "本句是 and 连接的并列句。第一个分句主干是 Lascaux joined UNESCO's World Heritage List，主谓宾结构；第二个分句主干是 Lascaux II opened，主谓结构，open 为不及物动词。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Lascaux",
+    "zh": "拉斯科",
+    "role": "第一分句主语"
+   },
+   {
+    "text": "joined",
+    "zh": "加入了",
+    "role": "第一分句谓语"
+   },
+   {
+    "text": "UNESCO's World Heritage List",
+    "zh": "联合国教科文组织的《世界遗产名录》",
+    "role": "宾语"
+   },
+   {
+    "text": "in 1979,",
+    "zh": "于1979年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "and",
+    "zh": "而",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "Lascaux II,",
+    "zh": "拉斯科二号",
+    "role": "第二分句主语"
+   },
+   {
+    "text": "a meticulously made partial facsimile,",
+    "zh": "一个精心制作的局部的复制品",
+    "role": "同位语，补充说明 Lascaux II"
+   },
+   {
+    "text": "opened",
+    "zh": "开放",
+    "role": "第二分句谓语（不及物动词）"
+   },
+   {
+    "text": "in 1983.",
+    "zh": "于1983年",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①第一个分句 Lascaux joined UNESCO's World Heritage List in 1979：主语 Lascaux，谓语 joined，宾语 UNESCO's World Heritage List（联合国教科文组织的《世界遗产名录》），in 1979 是时间状语。\n②第二个分句：主语 Lascaux II，a meticulously made partial facsimile 是同位语，补充说明 Lascaux II（视频说明）；谓语 opened，in 1983 是时间状语。\n③同位语中几个修饰语共同修饰中心词 facsimile：made 是过去分词作定语，表示“被制作的”；meticulously 修饰 made，说明制作得一丝不苟；partial 说明只复制了原洞的一部分。\n④前后两个分句讲两个年份的两件事：原洞列入世界遗产，复制洞对外开放，按时间顺序排列。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "副词 + 过去分词作前置定语",
+    "explain": "副词修饰过去分词，再一起放在名词前作定语，是英语中简洁的修饰方式，如 a well-known writer、a carefully planned trip、a poorly paid job，本句的 a meticulously made partial facsimile 也是如此。这种结构相当于一个被动的定语从句：a facsimile that was meticulously made。这类组合放在名词前时常加连字符（well-known），但以 -ly 结尾的副词与分词之间一般不加连字符，如 a highly developed country。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum displays a beautifully preserved Roman mosaic.",
+      "zh": "这座博物馆展出了一幅保存完好的古罗马镶嵌画。"
+     },
+     {
+      "en": "It was a carefully worded statement that avoided any direct admission of fault.",
+      "zh": "那是一份措辞谨慎的声明，避免了任何直接的认错。"
+     }
+    ]
+   },
+   {
+    "title": "同位语把主语和谓语隔开",
+    "explain": "主语后面跟同位语时，主语和谓语被隔开，阅读时要越过两个逗号，把主语和谓语连起来：Lascaux II ... opened in 1983。本句同位语 a meticulously made partial facsimile 补充说明 Lascaux II 是什么（视频说明）。句中的同位语前后都要用逗号，漏掉后一个逗号会造成结构混乱。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Dr Patel, the hospital's chief surgeon, will lead the new research unit.",
+      "zh": "医院的首席外科医生帕特尔博士将领导新的研究部门。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "UNESCO's World Heritage List",
+    "explain": "UNESCO 是 United Nations Educational, Scientific and Cultural Organization（联合国教科文组织）的首字母缩略词，作为一个词来读。World Heritage List 即《世界遗产名录》。1979年，拉斯科作为“韦泽尔河谷史前遗址和洞穴壁画”（Prehistoric Sites and Decorated Caves of the Vézère Valley）的一部分列入《世界遗产名录》。"
+   },
+   {
+    "term": "facsimile",
+    "explain": "名词，（与原物一模一样的）复制品，摹本，如 a facsimile edition（影印本）；fax（传真）就是 facsimile 的缩略。视频译为“复制品”。"
+   },
+   {
+    "term": "meticulously",
+    "explain": "视频说明：极其仔细地、一丝不苟地（连一点细节都不放过）。形容词 meticulous，常见搭配 meticulous attention to detail、meticulously planned。视频在译文中译为“精心”。"
+   },
+   {
+    "term": "Lascaux II",
+    "explain": "专名后的罗马数字表示序号，读作基数词：Lascaux II 读作 Lascaux two，视频译为“拉斯科二号”；第17句的 Lascaux IV 读作 Lascaux four。人名中的罗马数字则读作“the + 序数词”，如 Elizabeth II 读作 Elizabeth the Second。"
+   }
+  ],
+  "translation_tip": "视频译文“拉斯科于1979年加入了联合国教科文组织的《世界遗产名录》，而拉斯科二号，一个精心制作的局部的复制品，于1983年开放。”的处理：①时间状语 in 1979、in 1983 都前移到谓语前，译成书面色彩的“于……年”。②World Heritage List 是名录名称，加书名号译为《世界遗产名录》。③连接两个分句的 and 译为“而”，表示话题从原洞转到复制洞。④同位语保留在原位，用逗号隔开，译为“一个精心制作的局部的复制品”，副词 meticulously 译为“精心”，修饰“制作”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "A white fungus；black stains",
+   "predicate": "invaded；spread",
+   "object_or_complement": "the walls（invaded 的宾语）",
+   "explain": "本句是 and 连接的并列句。第一个分句主干是 A white fungus invaded the walls，主谓宾结构；第二个分句主干是 black stains spread，主谓结构，spread 为不及物动词。两个谓语都是一般过去时（spread 的过去式与原形同形），主动语态。"
+  },
+  "components": [
+   {
+    "text": "A white fungus",
+    "zh": "一种白色真菌",
+    "role": "第一分句主语"
+   },
+   {
+    "text": "invaded",
+    "zh": "侵入",
+    "role": "第一分句谓语"
+   },
+   {
+    "text": "the walls",
+    "zh": "洞壁",
+    "role": "宾语（指洞壁）"
+   },
+   {
+    "text": "in a 2001 outbreak,",
+    "zh": "2001年……爆发",
+    "role": "时间状语（介词短语，2001 作 outbreak 的前置定语）"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，视频改用分号断开，未单独译出）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "black stains",
+    "zh": "黑色污斑",
+    "role": "第二分句主语"
+   },
+   {
+    "text": "spread",
+    "zh": "蔓延开来",
+    "role": "第二分句谓语（不及物动词，过去式）"
+   },
+   {
+    "text": "after chemical treatment.",
+    "zh": "化学处理后",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①第一个分句 A white fungus invaded the walls in a 2001 outbreak：主语 A white fungus（一种白色真菌），谓语 invaded，宾语 the walls 指洞壁；in a 2001 outbreak 意为“在2001年的一次爆发中”（视频说明），2001 是数字作前置定语，修饰 outbreak。\n②第二个分句 black stains spread after chemical treatment：主语 black stains，谓语 spread 是不及物动词，过去式与原形同形，这里根据前一分句的过去时和整段叙事判断为过去式；after chemical treatment 是时间状语。\n③两个分句先后叙述两次危机：先是白色真菌爆发，后是化学处理之后黑色污斑蔓延。原文只用 after 交代时间先后。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "数字和名词作前置定语：a 2001 outbreak",
+    "explain": "年份、数字或名词可以直接放在名词前作定语，如 a 2001 outbreak（2001年的一次爆发）、the 2008 financial crisis（2008年金融危机）、a 2019 study（2019年的一项研究）。这种写法比 an outbreak in 2001 更紧凑，新闻和学术文章中很常见，考研阅读中常用 a 2019 study 之类的说法引出研究结论。冠词跟着中心名词走：a 2001 outbreak 中的 a 修饰 outbreak，不修饰 2001。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A 2019 study found that most participants overestimated their own driving skills.",
+      "zh": "2019年的一项研究发现，大多数参与者高估了自己的驾驶技术。"
+     },
+     {
+      "en": "The 1998 flood is still remembered as the worst in the town's history.",
+      "zh": "1998年的那场洪水至今仍被视为该镇历史上最严重的一次。"
+     }
+    ]
+   },
+   {
+    "title": "spread 等原形、过去式同形的动词",
+    "explain": "spread、cut、put、set、hit、cost、shut、hurt 等不规则动词的原形、过去式和过去分词同形。这类动词作谓语时，要根据主语的单复数和上下文时态判断时间：本句主语 black stains 是复数，单看 spread 无法区分现在时和过去时，但前一分句 invaded 是过去时，全段讲的是过去的事，所以 spread 是过去式。主语是第三人称单数时，一般现在时要加 -s（spreads），没有 -s 就说明是过去时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The news spread quickly through the village.",
+      "zh": "消息很快传遍了整个村子。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fungus",
+    "explain": "名词，真菌，复数为 fungi 或 funguses；真菌包括蘑菇、霉菌、酵母等。视频译为“真菌”。"
+   },
+   {
+    "term": "invade",
+    "explain": "本义是军队入侵，如 invade a country；也常用于病菌、植物、昆虫等侵入某处，或比喻侵犯隐私，如 invade sb's privacy。本句指真菌侵入洞壁，视频译为“侵入”。"
+   },
+   {
+    "term": "outbreak",
+    "explain": "名词，（疾病、战争、暴力等的）爆发，如 an outbreak of flu、the outbreak of war；对应的短语动词是 break out。视频译为“爆发”。"
+   },
+   {
+    "term": "chemical treatment",
+    "explain": "化学处理，指用化学药剂处理；treatment 在这里指对物质的处理，不是“治疗”，如 water treatment（水处理）、wastewater treatment（污水处理）。"
+   }
+  ],
+  "translation_tip": "视频译文“2001年，一种白色真菌爆发，侵入洞壁；化学处理后，黑色污斑蔓延开来。”的处理：①介词短语 in a 2001 outbreak 拆开：年份“2001年”提到句首作时间状语，名词 outbreak 转成动词“爆发”，与“侵入洞壁”构成两个连续的动作，先爆发、后侵入。②连接两个分句的 and 不译，改用分号，把两次危机分开。③时间状语 after chemical treatment 提前，译成“化学处理后”；spread 译为“蔓延开来”，“开来”体现扩散的范围。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Lascaux IV",
+   "predicate": "opened",
+   "object_or_complement": "",
+   "explain": "主干是 Lascaux IV opened，主谓结构，open 为不及物动词。谓语 opened 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Lascaux IV",
+    "zh": "拉斯科四号",
+    "role": "主语（专有名词）"
+   },
+   {
+    "text": "opened",
+    "zh": "开放",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "in December 2016.",
+    "zh": "2016年12月",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①本句是简单句，主谓结构：主语 Lascaux IV，谓语 opened，in December 2016 是时间状语。\n②open 在这里是不及物动词，以事物作主语，用主动形式表示“开放”，与第12句的 Lascaux opened to the public、第15句的 Lascaux II ... opened 用法相同。\n③文章从 Lascaux II 直接写到 Lascaux IV，交代复制洞的更新，为下一句“如今只能在复原品中看到公牛”作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "时间介词 in、on、at",
+    "explain": "具体到某一天用 on，如 on 14 July 1948；只有月份、年份，或月份加年份时用 in，如 in December 2016、in 1963；具体钟点用 at，如 at nine o'clock。本句 in December 2016 只有年和月，没有具体日期，所以用 in；如果具体到某一天，就要改用 on，如 on 25 December。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge was completed in May and opened to traffic on 1 June.",
+      "zh": "这座桥于5月完工，6月1日通车。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Lascaux IV",
+    "explain": "罗马数字 IV 表示4（左边的 I 表示从 V 中减去1），Lascaux IV 读作 Lascaux four，视频译为“拉斯科四号”。与拉斯科二号一样，它也是供游客参观的复制洞。"
+   },
+   {
+    "term": "December 2016",
+    "explain": "英语中月份名称首字母大写；“月份 + 年份”之间不加逗号，读作 December twenty sixteen 或 December two thousand and sixteen。"
+   }
+  ],
+  "translation_tip": "视频译文“2016年12月，拉斯科四号开放。”的处理：①时间状语 in December 2016 提到句首，按汉语“年、月”的顺序译为“2016年12月”。②罗马数字 IV 译为“四号”，与上文的“拉斯科二号”保持一致。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Admirers",
+   "predicate": "meet",
+   "object_or_complement": "the bulls",
+   "explain": "主干是 Admirers meet the bulls，主谓宾结构；句末的 the originals being inaccessible to them 是独立主格结构，补充说明原因（视频说明）。谓语 meet 用一般现在时，描述如今的情况，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Admirers",
+    "zh": "仰慕者",
+    "role": "主语"
+   },
+   {
+    "text": "now",
+    "zh": "如今",
+    "role": "时间状语（副词）"
+   },
+   {
+    "text": "meet",
+    "zh": "见到",
+    "role": "谓语"
+   },
+   {
+    "text": "the bulls",
+    "zh": "那些公牛",
+    "role": "宾语（指壁画上的公牛）"
+   },
+   {
+    "text": "only in a recreation,",
+    "zh": "只能在复原品中",
+    "role": "地点状语（介词短语，only 限定范围）"
+   },
+   {
+    "text": "the originals",
+    "zh": "原洞",
+    "role": "独立主格结构的逻辑主语"
+   },
+   {
+    "text": "being inaccessible to them.",
+    "zh": "对他们来说无法进入",
+    "role": "独立主格结构中的现在分词短语（being + 表语），表示原因"
+   }
+  ],
+  "structure": "①主句 Admirers now meet the bulls only in a recreation：主语 Admirers（仰慕者），谓语 meet，宾语 the bulls 指壁画上的公牛；only in a recreation 是介词短语作状语，only 限定范围（视频说明：only in…，只在……中），说明只能在复原品里看到。\n②逗号后的 the originals being inaccessible to them 是独立主格结构（视频说明）：the originals 是逻辑主语，being inaccessible to them 是现在分词短语，二者构成逻辑上的主谓关系，相当于原因状语从句 because the originals are inaccessible to them。them 指 admirers。\n③the originals 与 a recreation 相对：一个是原物，一个是复原品。结尾这句收拢全文：从发现、开放、受损到复制，如今人们只能在复原品中欣赏这些壁画。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "独立主格结构表示原因",
+    "explain": "独立主格结构由“名词或代词 + 分词（或形容词、介词短语等）”构成，有自己的逻辑主语，与主句主语不同，在句中作状语，表示原因、时间、条件或伴随。本句主句主语是 Admirers，而 being inaccessible 的逻辑主语是 the originals，两者不一致，所以分词前必须带上自己的主语 the originals。being 引出的独立主格多表示原因，相当于 because/as 引导的原因状语从句（视频说明）。考研长难句和翻译中，独立主格常译成独立的分句，必要时补出“因为”“由于”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The last bus having left, we had to walk home.",
+      "zh": "最后一班公交车已经开走了，我们只好步行回家。"
+     },
+     {
+      "en": "The roads being icy, the school decided to cancel classes for the day.",
+      "zh": "由于道路结冰，学校决定当天停课。"
+     }
+    ]
+   },
+   {
+    "title": "only + 状语与部分倒装",
+    "explain": "only 放在状语前，限定状语的范围，表示“只在……，只有……才”，如 only in a recreation（只在复原品中）、only after the meeting（只有在会后）。only 修饰的状语放在句首时，主句要部分倒装，如 Only in a recreation can admirers meet the bulls；only 及其修饰的状语放在句中时，语序不变，本句即属于这种情况。考研翻译和写作常考 only 位于句首引起的倒装。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only after the results were published did the public learn about the risks.",
+      "zh": "直到结果公布之后，公众才得知其中的风险。"
+     },
+     {
+      "en": "Visitors can enter the archive only with written permission.",
+      "zh": "参观者只有获得书面许可才能进入档案馆。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "meet",
+    "explain": "熟词僻义：meet 常见义是“遇见，会面”，本句指“见到，看到（作品、景物）”，宾语是画中的公牛，视频译为“见到”。"
+   },
+   {
+    "term": "recreation",
+    "explain": "本句意为“再现，复原品”，相当于 re-creation，读作 /ˌriːkriˈeɪʃn/，由 re-（再）加 creation（创造）构成；它与表示“消遣，娱乐”的 recreation /ˌrekriˈeɪʃn/ 拼写相同，读音和意思都不同。视频译为“复原品”。"
+   },
+   {
+    "term": "the originals",
+    "explain": "original 作名词，指原件、原作，与 copy、replica、recreation 相对。本句 the originals 与 a recreation 相对，指真正的原物；视频结合语境译为“原洞”，因为仰慕者无法进入的是原来的洞穴。"
+   },
+   {
+    "term": "inaccessible to",
+    "explain": "inaccessible 意为“无法进入的，难以到达的”，常接 to sb，如 inaccessible to the public；in- 表示否定，反义词是 accessible。"
+   }
+  ],
+  "translation_tip": "视频译文“如今仰慕者只能在复原品中见到那些公牛，原洞对他们来说无法进入。”的处理：①now 译为“如今”，放在句首；only in a recreation 前置到动词前，译为“只能在复原品中”，增补“能”字，体现“除此之外别无办法”。②the bulls 译为“那些公牛”，“那些”回指前文壁画上的公牛。③独立主格结构拆成独立的分句“原洞对他们来说无法进入”，逻辑主语 the originals 作分句主语；表示原因的意思靠前后两句的语意自然体现，没有加“因为”。④to them 译为“对他们来说”，“他们”指仰慕者。"
+ }
+]

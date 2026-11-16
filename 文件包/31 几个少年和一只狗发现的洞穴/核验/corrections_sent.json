@@ -1,0 +1,37 @@
+[
+ {
+  "key": "n=1",
+  "field": "translation_tip",
+  "before": "状语 with Robot 和 near Montignac 都前移",
+  "after": "介词短语 with Robot 和 near Montignac 都前移",
+  "reason": "成分表把 near Montignac 定为修饰 stroll 的后置定语，此处统称“状语”前后矛盾，改为“介词短语”"
+ },
+ {
+  "key": "n=2",
+  "field": "grammar[0].explain",
+  "before": "表示目的时，for 后面接名词或动名词，to 后面接动词原形：come back for an excursion 与 come back to explore 都对，但不能说 come back for explore。",
+  "after": "表示人做某事的目的时，for 后面接名词，to 后面接动词原形：come back for an excursion 与 come back to explore 都对，但不能说 come back for explore，一般也不说 come back for exploring；for + 动名词多用来说明物品的用途，如 a knife for cutting bread。",
+  "reason": "“for + 动名词”一般不表示人的行为目的（不说 come back for exploring），原文说法会误导写作，改正并说明 for doing 表用途"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar[2].explain",
+  "before": "考研完形中常利用两者形近设题：",
+  "after": "两者形近，阅读和写作中容易混淆：",
+  "reason": "“考研完形中常利用两者设题”无法证实，改为客观的易错提示"
+ },
+ {
+  "key": "n=6",
+  "field": "grammar[0].explain",
+  "before": "可以作限定词，后接名词",
+  "after": "可以作形容词，后接名词",
+  "reason": "own 在 Oxford 等词典和国内教学中归为形容词/代词，按通行术语改为“形容词”"
+ },
+ {
+  "key": "n=14",
+  "field": "grammar[0].examples[0]",
+  "before": "The speech lasted an hour, followed by a short question-and-answer session. | 演讲持续了一个小时，随后是一个简短的问答环节。",
+  "after": "The minister gave a 40-minute speech, followed by a short question-and-answer session. | 部长发表了40分钟的演讲，随后是一个简短的问答环节。",
+  "reason": "原句 lasted an hour 是持续状态，后接 followed by 不够自然；改为以事件（发表演讲）开头，更地道地示范句末 followed by 表随后发生的事"
+ }
+]

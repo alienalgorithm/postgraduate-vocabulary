@@ -1,0 +1,30 @@
+[
+ {
+  "key": "id=1",
+  "field": "etymology",
+  "before": "古英语中已有 wudu-land 的说法。wood 来自古英语 wudu，原指“树林”，后来也指“木材”；",
+  "after": "古英语中已经出现。wood 来自古英语 wudu，古英语中已兼指“树林”和“木材”；",
+  "reason": "古英语拼写 wudu-land 无法确证，改为概述；Etymonline 显示古英语 wudu 已兼有“树林”和“木材”两义，原文“后来也指木材”不准确"
+ },
+ {
+  "key": "id=5",
+  "field": "related[0].zh",
+  "before": "嗅探者（如 sniffer dog 缉毒犬）",
+  "after": "嗅探者（如 sniffer dog 嗅探犬，用于搜查毒品、爆炸物等）",
+  "reason": "sniffer dog 不只缉毒，也搜查爆炸物等，“缉毒犬”过窄"
+ },
+ {
+  "key": "id=6",
+  "field": "usage_detail",
+  "before": "a hollow victory（得不偿失的胜利）",
+  "after": "a hollow victory（没有实际意义的胜利）",
+  "reason": "hollow victory 指徒有其名、没有实际价值的胜利；“得不偿失的胜利”是 Pyrrhic victory 的意思"
+ },
+ {
+  "key": "id=7",
+  "field": "related",
+  "before": "[{\"en\": \"top\", \"pos\": \"n./v.\", \"zh\": \"顶部；翻倒\"}]",
+  "after": "[{\"en\": \"top\", \"pos\": \"n.\", \"zh\": \"顶部，顶端\"}]",
+  "reason": "top 作动词表示“翻倒”是已废弃的旧义，现代词典不收，列作同根词会误导；保留 top n. 顶部"
+ }
+]
