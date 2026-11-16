@@ -1,0 +1,1588 @@
+{
+ "no": "34",
+ "title_en": "Dolly, the Copied Sheep",
+ "title_zh": "多莉：一只羊的复制",
+ "source_id": "62",
+ "source_hashes": {
+  "JSON": "507265f8af27a972036310eb4860a75ce6b121310688dc5d57e33d57fa938878",
+  "GEN": "507265f8af27a972036310eb4860a75ce6b121310688dc5d57e33d57fa938878",
+  "MD": "9edfbd3ebacdecc8c3aa3034d38dd371a105c19382282e8c0de2d08a1713f863",
+  "illustration": "6a7448c36da1180fe4e5485cffb02055a9b7329666f86849891ef9e96912b55e"
+ },
+ "summary": [
+  [
+   "诞生",
+   "研究者将去掉细胞核的卵细胞与成年母羊乳腺细胞融合，▹培育胚胎，1996年由代孕母羊产下多莉。"
+  ],
+  [
+   "突破",
+   "277次尝试仅多莉存活；她是首只由成年细胞克隆的哺乳动物，此前已能用胚胎细胞克隆羊。"
+  ],
+  [
+   "争议",
+   "成果引发人类克隆伦理争论；多莉的端粒（染色体末端）比同龄羊短约20%，又引起早衰猜测。"
+  ],
+  [
+   "离世",
+   "多莉自然交配育下六只小羊；患有关节炎和病毒性肺病，▹六岁时被实施安乐死，不能据此认定克隆导致早衰。"
+  ],
+  [
+   "复核",
+   "后续研究中13只克隆羊正常衰老；多莉骨骼复查也未支持关节炎过早出现的担忧。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "Dolly was born at Roslin, Scotland, on 5 July 1996.",
+   "zh": "1996年7月5日，多莉在苏格兰罗斯林出生。",
+   "en_markup": "Dolly was born at Roslin, **Scotland**, on 5 July 1996.",
+   "zh_markup": "1996年7月5日，多莉在**苏格兰**(Scotland)罗斯林出生。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Dolly was born at Roslin, Scotland, on 5 July 1996.",
+     "zh": "1996年7月5日，多莉在苏格兰罗斯林出生。"
+    }
+   ],
+   "align": [
+    [
+     "Dolly was born at Roslin, Scotland, on 5 July 1996.",
+     "1996年7月5日，多莉在苏格兰罗斯林出生。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "Her genome came from a Finn Dorset ewe's mammary cell, fused with a Blackface egg stripped of its nucleus.",
+   "zh": "她的基因组来自一只芬兰多塞特母羊的乳腺细胞，这个细胞融合了一枚黑脸羊卵细胞，这枚卵已去除了细胞核。",
+   "en_markup": "Her **genome** came from a Finn Dorset ewe's mammary cell, **fused with** a Blackface egg **stripped of** its **nucleus**.",
+   "zh_markup": "她的**基因组**(genome)来自一只芬兰多塞特母羊的乳腺细胞，这个细胞**融合了**(fused with)一枚黑脸羊卵细胞，这枚卵已**去除了**(stripped of)**细胞核**(nucleus)。",
+   "video_notes": [
+    "（fused with…：过去分词短语作后置定语，修饰 cell；stripped of…：过去分词短语作后置定语，修饰 egg；be stripped of：被去除）"
+   ],
+   "chunks": [
+    {
+     "en": "Her genome came from a Finn Dorset ewe's mammary cell,",
+     "zh": "她的基因组来自一只芬兰多塞特母羊的乳腺细胞，"
+    },
+    {
+     "en": "fused with a Blackface egg stripped of its nucleus.",
+     "zh": "这个细胞融合了一枚黑脸羊卵细胞，这枚卵已去除了细胞核。"
+    }
+   ],
+   "align": [
+    [
+     "Her",
+     "她的"
+    ],
+    [
+     "genome",
+     "基因组"
+    ],
+    [
+     "came from",
+     "来自"
+    ],
+    [
+     "a Finn Dorset ewe's",
+     "一只芬兰多塞特母羊的"
+    ],
+    [
+     "mammary",
+     "乳腺"
+    ],
+    [
+     "cell,",
+     "细胞，"
+    ],
+    [
+     "fused with",
+     "这个细胞融合了"
+    ],
+    [
+     "a Blackface",
+     "一枚黑脸羊"
+    ],
+    [
+     "egg",
+     "卵细胞，"
+    ],
+    [
+     "stripped of",
+     "这枚卵已去除了"
+    ],
+    [
+     "its nucleus.",
+     "细胞核。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "A Blackface surrogate carried the embryo through pregnancy, yet her white face was proof of a genetically different lineage.",
+   "zh": "一只黑脸羊代孕母羊怀着这个胚胎度过了孕期，而多莉的白脸则是一个基因上不同血统的证明。",
+   "en_markup": "A Blackface **surrogate** carried the **embryo** through **pregnancy**, yet her white face was **proof of** a **genetically** different **lineage**.",
+   "zh_markup": "一只黑脸羊**代孕母羊**(surrogate)怀着这个**胚胎**(embryo)度过了**孕期**(pregnancy)，而多莉的白脸则是一个**基因上**(genetically)不同**血统**(lineage)的**证明**(proof of)。",
+   "video_notes": [
+    "（proof of：……的证据；her 指 Dolly）"
+   ],
+   "chunks": [
+    {
+     "en": "A Blackface surrogate carried the embryo through pregnancy,",
+     "zh": "一只黑脸羊代孕母羊怀着这个胚胎度过了孕期，"
+    },
+    {
+     "en": "yet her white face was proof of a genetically different lineage.",
+     "zh": "而多莉的白脸则是一个基因上不同血统的证明。"
+    }
+   ],
+   "align": [
+    [
+     "A Blackface",
+     "一只黑脸羊"
+    ],
+    [
+     "surrogate",
+     "代孕母羊"
+    ],
+    [
+     "carried",
+     "怀着"
+    ],
+    [
+     "the embryo",
+     "这个胚胎"
+    ],
+    [
+     "through pregnancy,",
+     "度过了孕期，"
+    ],
+    [
+     "yet",
+     "而"
+    ],
+    [
+     "her",
+     "多莉的"
+    ],
+    [
+     "white",
+     "白"
+    ],
+    [
+     "face",
+     "脸"
+    ],
+    [
+     "was",
+     "则是"
+    ],
+    [
+     "proof of a genetically different lineage.",
+     "一个基因上不同血统的证明。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "en": "She alone survived from 277 attempts, an extraordinary failure rate.",
+   "zh": "只有她从277次尝试中存活了下来，一个异乎寻常的失败率。",
+   "en_markup": "She alone survived from 277 attempts, an **extraordinary** failure rate.",
+   "zh_markup": "只有她从277次尝试中存活了下来，一个**异乎寻常的**(extraordinary)失败率。",
+   "video_notes": [
+    "（an extraordinary failure rate：同位语，评述前面整件事）"
+   ],
+   "chunks": [
+    {
+     "en": "She alone survived from 277 attempts, an extraordinary failure rate.",
+     "zh": "只有她从277次尝试中存活了下来，一个异乎寻常的失败率。"
+    }
+   ],
+   "align": [
+    [
+     "She alone",
+     "只有她"
+    ],
+    [
+     "survived from 277 attempts,",
+     "从277次尝试中存活了下来，"
+    ],
+    [
+     "an",
+     "一个"
+    ],
+    [
+     "extraordinary",
+     "异乎寻常的"
+    ],
+    [
+     "failure",
+     "失败"
+    ],
+    [
+     "rate.",
+     "率。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "Dolly is popularly called the first clone, a misconception.",
+   "zh": "多莉一般被称为第一个克隆体，这是一个错误的观念。",
+   "en_markup": "Dolly is **popularly** called the first **clone**, a **misconception**.",
+   "zh_markup": "多莉**一般**(popularly)被称为第一个**克隆体**(clone)，这是一个**错误的观念**(misconception)。",
+   "video_notes": [
+    "（a misconception：同位语，评述前面整句）"
+   ],
+   "chunks": [
+    {
+     "en": "Dolly is popularly called the first clone, a misconception.",
+     "zh": "多莉一般被称为第一个克隆体，这是一个错误的观念。"
+    }
+   ],
+   "align": [
+    [
+     "Dolly",
+     "多莉"
+    ],
+    [
+     "is popularly",
+     "一般被"
+    ],
+    [
+     "called",
+     "称为"
+    ],
+    [
+     "the first",
+     "第一个"
+    ],
+    [
+     "clone,",
+     "克隆体，"
+    ],
+    [
+     "a misconception.",
+     "这是一个错误的观念。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "Her predecessors included frogs cloned from transplanted nuclei in 1962 and Roslin's embryo-derived duo, Megan and Morag, in 1995.",
+   "zh": "她的前几代包括于1962年由移植的细胞核克隆出的青蛙，以及罗斯林于1995年由胚胎衍生的一对绵羊：梅根和莫拉格。",
+   "en_markup": "Her **predecessors** included frogs cloned from **transplanted** nuclei in 1962 and Roslin's embryo-**derived** **duo**, Megan and Morag, in 1995.",
+   "zh_markup": "她的**前几代**(predecessors)包括于1962年由**移植**(transplanted)的细胞核克隆出的青蛙，以及罗斯林于1995年由胚胎**衍生的**(derived)**一对**(duo)绵羊：梅根和莫拉格。",
+   "video_notes": [
+    "（cloned from…：过去分词短语作后置定语，修饰 frogs；nuclei 是 nucleus 的复数）",
+    "（Megan and Morag：同位语，补充说明 duo）"
+   ],
+   "chunks": [
+    {
+     "en": "Her predecessors included",
+     "zh": "她的前几代包括"
+    },
+    {
+     "en": "frogs cloned from transplanted nuclei in 1962",
+     "zh": "于1962年由移植的细胞核克隆出的青蛙，"
+    },
+    {
+     "en": "and Roslin's embryo-derived duo, Megan and Morag, in 1995.",
+     "zh": "以及罗斯林于1995年由胚胎衍生的一对绵羊：梅根和莫拉格。"
+    }
+   ],
+   "align": [
+    [
+     "Her predecessors",
+     "她的前几代"
+    ],
+    [
+     "included",
+     "包括"
+    ],
+    [
+     "frogs cloned from transplanted nuclei in 1962",
+     "于1962年由移植的细胞核克隆出的青蛙，"
+    ],
+    [
+     "and Roslin's",
+     "以及罗斯林"
+    ],
+    [
+     "embryo-derived",
+     "于1995年由胚胎衍生的"
+    ],
+    [
+     "duo, Megan and Morag, in 1995.",
+     "一对绵羊：梅根和莫拉格。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "She was genuinely the first mammal cloned from an adult cell.",
+   "zh": "她确实是第一个用成年细胞克隆出的哺乳动物。",
+   "en_markup": "She was **genuinely** the first **mammal** cloned from an adult cell.",
+   "zh_markup": "她**确实**(genuinely)是第一个用成年细胞克隆出的**哺乳动物**(mammal)。",
+   "video_notes": [
+    "（cloned from an adult cell：过去分词短语作后置定语，修饰 mammal）"
+   ],
+   "chunks": [
+    {
+     "en": "She was genuinely the first mammal cloned from an adult cell.",
+     "zh": "她确实是第一个用成年细胞克隆出的哺乳动物。"
+    }
+   ],
+   "align": [
+    [
+     "She",
+     "她"
+    ],
+    [
+     "was genuinely",
+     "确实是"
+    ],
+    [
+     "the first mammal cloned from an adult cell.",
+     "第一个用成年细胞克隆出的哺乳动物。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 2,
+   "en": "Roslin's announcement on 22 February 1997 coincided with the paper, and her name, a mammary pun, honoured Dolly Parton.",
+   "zh": "1997年2月22日罗斯林的公告与这篇论文同时发生，而她的名字，一个关于乳腺的双关语，致敬了多莉·帕顿。",
+   "en_markup": "Roslin's **announcement** on 22 February 1997 **coincided with** the paper, and her name, a mammary **pun**, **honoured** Dolly Parton.",
+   "zh_markup": "1997年2月22日罗斯林的**公告**(announcement)**与**(coincided with)这篇论文**同时发生**(coincided with)，而她的名字，一个关于乳腺的**双关语**(pun)，**致敬了**(honoured)多莉·帕顿。",
+   "video_notes": [
+    "（coincide with：与……同时发生）",
+    "（a mammary pun：同位语，补充说明 her name）"
+   ],
+   "chunks": [
+    {
+     "en": "Roslin's announcement on 22 February 1997 coincided with the paper,",
+     "zh": "1997年2月22日罗斯林的公告与这篇论文同时发生，"
+    },
+    {
+     "en": "and her name, a mammary pun, honoured Dolly Parton.",
+     "zh": "而她的名字，一个关于乳腺的双关语，致敬了多莉·帕顿。"
+    }
+   ],
+   "align": [
+    [
+     "Roslin's announcement on 22 February 1997",
+     "1997年2月22日罗斯林的公告"
+    ],
+    [
+     "coincided with the paper,",
+     "与这篇论文同时发生，"
+    ],
+    [
+     "and her name,",
+     "而她的名字，"
+    ],
+    [
+     "a",
+     "一个关于"
+    ],
+    [
+     "mammary",
+     "乳腺的"
+    ],
+    [
+     "pun,",
+     "双关语，"
+    ],
+    [
+     "honoured",
+     "致敬了"
+    ],
+    [
+     "Dolly Parton.",
+     "多莉·帕顿。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "The news provoked uproar and apprehension about the ethics of human cloning.",
+   "zh": "这一消息引发了轩然大波，以及关于人类克隆伦理的忧虑。",
+   "en_markup": "The news **provoked** **uproar** and **apprehension** about the **ethics** of human cloning.",
+   "zh_markup": "这一消息**引发了**(provoked)**轩然大波**(uproar)，以及关于人类克隆**伦理**(ethics)的**忧虑**(apprehension)。",
+   "video_notes": [
+    "（provoked 带两个宾语 uproar 和 apprehension；about the ethics…：后置定语，修饰 apprehension）"
+   ],
+   "chunks": [
+    {
+     "en": "The news provoked uproar",
+     "zh": "这一消息引发了轩然大波，"
+    },
+    {
+     "en": "and apprehension about the ethics of human cloning.",
+     "zh": "以及关于人类克隆伦理的忧虑。"
+    }
+   ],
+   "align": [
+    [
+     "The news",
+     "这一消息"
+    ],
+    [
+     "provoked",
+     "引发了"
+    ],
+    [
+     "uproar",
+     "轩然大波，"
+    ],
+    [
+     "and",
+     "以及"
+    ],
+    [
+     "apprehension about the ethics of human cloning.",
+     "关于人类克隆伦理的忧虑。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "In March 1997 Clinton prohibited federal funding for such experiments.",
+   "zh": "1997年3月，克林顿禁止联邦提供资金用于这类实验。",
+   "en_markup": "In March 1997 Clinton **prohibited** federal **funding** for such experiments.",
+   "zh_markup": "1997年3月，克林顿**禁止**(prohibited)联邦**提供资金**(funding)用于这类实验。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "In March 1997 Clinton prohibited federal funding for such experiments.",
+     "zh": "1997年3月，克林顿禁止联邦提供资金用于这类实验。"
+    }
+   ],
+   "align": [
+    [
+     "In March 1997",
+     "1997年3月，"
+    ],
+    [
+     "Clinton",
+     "克林顿"
+    ],
+    [
+     "prohibited",
+     "禁止"
+    ],
+    [
+     "federal",
+     "联邦"
+    ],
+    [
+     "funding",
+     "提供资金"
+    ],
+    [
+     "for such experiments.",
+     "用于这类实验。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 3,
+   "en": "In 1999 her telomeres, or chromosome tips, were reported shortened by about 20% for her age.",
+   "zh": "1999年，她的端粒，即染色体末端，据报道比同龄羊缩短了约20%。",
+   "en_markup": "In 1999 her telomeres, or **chromosome** tips, were reported **shortened** by about 20% for her age.",
+   "zh_markup": "1999年，她的端粒，即**染色体**(chromosome)末端，据报道比同龄羊**缩短了**(shortened)约20%。",
+   "video_notes": [
+    "（or chromosome tips：or 表示“即，也就是”，解释 telomeres）",
+    "（be reported shortened：被报道为缩短了，shortened 作补语；for her age：就她的年龄而言）"
+   ],
+   "chunks": [
+    {
+     "en": "In 1999 her telomeres, or chromosome tips,",
+     "zh": "1999年，她的端粒，即染色体末端，"
+    },
+    {
+     "en": "were reported shortened by about 20% for her age.",
+     "zh": "据报道比同龄羊缩短了约20%。"
+    }
+   ],
+   "align": [
+    [
+     "In 1999",
+     "1999年，"
+    ],
+    [
+     "her telomeres,",
+     "她的端粒，"
+    ],
+    [
+     "or chromosome tips,",
+     "即染色体末端，"
+    ],
+    [
+     "were reported",
+     "据报道"
+    ],
+    [
+     "shortened by about 20% for her age.",
+     "比同龄羊缩短了约20%。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 3,
+   "en": "That fed anxiety; some speculated she was ageing prematurely.",
+   "zh": "这加剧了人们的焦虑；有人推测她正在过早衰老。",
+   "en_markup": "That fed **anxiety**; some **speculated** she was ageing **prematurely**.",
+   "zh_markup": "这加剧了人们的**焦虑**(anxiety)；有人**推测**(speculated)她正在**过早**(prematurely)衰老。",
+   "video_notes": [
+    "（feed：加剧，助长）",
+    "（she was ageing…：宾语从句，省略了 that）"
+   ],
+   "chunks": [
+    {
+     "en": "That fed anxiety;",
+     "zh": "这加剧了人们的焦虑；"
+    },
+    {
+     "en": "some speculated she was ageing prematurely.",
+     "zh": "有人推测她正在过早衰老。"
+    }
+   ],
+   "align": [
+    [
+     "That",
+     "这"
+    ],
+    [
+     "fed",
+     "加剧了"
+    ],
+    [
+     "anxiety;",
+     "人们的焦虑；"
+    ],
+    [
+     "some",
+     "有人"
+    ],
+    [
+     "speculated",
+     "推测"
+    ],
+    [
+     "she was ageing prematurely.",
+     "她正在过早衰老。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "Dolly was put down, aged six, on 14 February 2003, with arthritis and a progressive lung disease caused by a sheep virus.",
+   "zh": "多莉被实施安乐死，时年六岁，那是2003年2月14日；她患有关节炎和一种进行性的肺部疾病，引起它的是绵羊病毒。",
+   "en_markup": "Dolly **was put down**, aged six, on 14 February 2003, with **arthritis** and a **progressive** **lung** disease caused by a sheep **virus**.",
+   "zh_markup": "多莉**被实施安乐死**(was put down)，时年六岁，那是2003年2月14日；她患有**关节炎**(arthritis)和一种**进行性的**(progressive)**肺部**(lung)疾病，引起它的是绵羊**病毒**(virus)。",
+   "video_notes": [
+    "（put down：（给动物）实施安乐死；aged six：插入语，说明年龄）",
+    "（with…：介词短语作伴随状语，说明她的病情；caused by…：过去分词短语作后置定语，修饰 disease）"
+   ],
+   "chunks": [
+    {
+     "en": "Dolly was put down, aged six, on 14 February 2003,",
+     "zh": "多莉被实施安乐死，时年六岁，那是2003年2月14日；"
+    },
+    {
+     "en": "with arthritis and a progressive lung disease caused by a sheep virus.",
+     "zh": "她患有关节炎和一种进行性的肺部疾病，引起它的是绵羊病毒。"
+    }
+   ],
+   "align": [
+    [
+     "Dolly",
+     "多莉"
+    ],
+    [
+     "was put down,",
+     "被实施安乐死，"
+    ],
+    [
+     "aged six,",
+     "时年六岁，"
+    ],
+    [
+     "on 14 February 2003,",
+     "那是2003年2月14日；"
+    ],
+    [
+     "with arthritis",
+     "她患有关节炎"
+    ],
+    [
+     "and a",
+     "和一种"
+    ],
+    [
+     "progressive",
+     "进行性的"
+    ],
+    [
+     "lung",
+     "肺部"
+    ],
+    [
+     "disease",
+     "疾病，"
+    ],
+    [
+     "caused by",
+     "引起它的是"
+    ],
+    [
+     "a sheep",
+     "绵羊"
+    ],
+    [
+     "virus.",
+     "病毒。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "Indoor confinement probably contributed.",
+   "zh": "被限制在室内很可能是原因之一。",
+   "en_markup": "Indoor **confinement** probably **contributed**.",
+   "zh_markup": "**被限制**(confinement)在室内很可能是**原因之一**(contributed)。",
+   "video_notes": [
+    "（contribute：促成，是……的原因之一；这里省略了宾语）"
+   ],
+   "chunks": [
+    {
+     "en": "Indoor confinement probably contributed.",
+     "zh": "被限制在室内很可能是原因之一。"
+    }
+   ],
+   "align": [
+    [
+     "Indoor confinement",
+     "被限制在室内"
+    ],
+    [
+     "probably",
+     "很可能"
+    ],
+    [
+     "contributed.",
+     "是原因之一。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 4,
+   "en": "In July 2016, 13 clones, four from her cell line, were ageing normally, without hypertension or diabetes.",
+   "zh": "2016年7月，13只克隆羊，其中4只来自与她相同的细胞系，正在正常衰老，没有高血压，也没有糖尿病。",
+   "en_markup": "In July 2016, 13 clones, four from her cell line, were **ageing** normally, without **hypertension** or **diabetes**.",
+   "zh_markup": "2016年7月，13只克隆羊，其中4只来自与她相同的细胞系，正在正常**衰老**(ageing)，没有**高血压**(hypertension)，也没有**糖尿病**(diabetes)。",
+   "video_notes": [
+    "（four from her cell line：插入语，补充说明 13 clones）"
+   ],
+   "chunks": [
+    {
+     "en": "In July 2016, 13 clones, four from her cell line,",
+     "zh": "2016年7月，13只克隆羊，其中4只来自与她相同的细胞系，"
+    },
+    {
+     "en": "were ageing normally, without hypertension or diabetes.",
+     "zh": "正在正常衰老，没有高血压，也没有糖尿病。"
+    }
+   ],
+   "align": [
+    [
+     "In July 2016,",
+     "2016年7月，"
+    ],
+    [
+     "13 clones,",
+     "13只克隆羊，"
+    ],
+    [
+     "four",
+     "其中4只"
+    ],
+    [
+     "from her",
+     "来自与她相同的"
+    ],
+    [
+     "cell",
+     "细胞"
+    ],
+    [
+     "line,",
+     "系，"
+    ],
+    [
+     "were ageing normally,",
+     "正在正常衰老，"
+    ],
+    [
+     "without",
+     "没有"
+    ],
+    [
+     "hypertension",
+     "高血压，"
+    ],
+    [
+     "or diabetes.",
+     "也没有糖尿病。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 4,
+   "en": "In November 2017, her skeletal X-rays showed ordinary arthritis, and fears of early onset were judged unfounded.",
+   "zh": "2017年11月，她的骨骼X光片显示出寻常的关节炎，而对提前发病的担忧被判定为毫无根据。",
+   "en_markup": "In November 2017, her **skeletal** X-rays showed ordinary arthritis, and fears of early **onset** were judged **unfounded**.",
+   "zh_markup": "2017年11月，她的**骨骼**(skeletal)X光片显示出寻常的关节炎，而对提前**发病**(onset)的担忧被判定为**毫无根据**(unfounded)。",
+   "video_notes": [
+    "（fears of early onset：of 结构作后置定语，onset 指关节炎发病；be judged＋形容词：被判定为……）"
+   ],
+   "chunks": [
+    {
+     "en": "In November 2017, her skeletal X-rays showed ordinary arthritis,",
+     "zh": "2017年11月，她的骨骼X光片显示出寻常的关节炎，"
+    },
+    {
+     "en": "and fears of early onset were judged unfounded.",
+     "zh": "而对提前发病的担忧被判定为毫无根据。"
+    }
+   ],
+   "align": [
+    [
+     "In November 2017,",
+     "2017年11月，"
+    ],
+    [
+     "her skeletal X-rays",
+     "她的骨骼X光片"
+    ],
+    [
+     "showed",
+     "显示出"
+    ],
+    [
+     "ordinary",
+     "寻常的"
+    ],
+    [
+     "arthritis,",
+     "关节炎，"
+    ],
+    [
+     "and",
+     "而"
+    ],
+    [
+     "fears of early onset",
+     "对提前发病的担忧"
+    ],
+    [
+     "were judged",
+     "被判定为"
+    ],
+    [
+     "unfounded.",
+     "毫无根据。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "She bore six lambs by natural mating; Bonnie, first of these descendants, arrived in April 1998.",
+   "zh": "她产下六只小羊，是通过自然交配；邦妮是这些后代中的第一只，生于1998年4月。",
+   "en_markup": "She bore six lambs by natural **mating**; Bonnie, first of these **descendants**, arrived in April 1998.",
+   "zh_markup": "她产下六只小羊，是通过自然**交配**(mating)；邦妮是这些**后代**(descendants)中的第一只，生于1998年4月。",
+   "video_notes": [
+    "（bore：bear 的过去式，“生（孩子），产下”）",
+    "（first of these descendants：同位语，补充说明 Bonnie）"
+   ],
+   "chunks": [
+    {
+     "en": "She bore six lambs by natural mating;",
+     "zh": "她产下六只小羊，是通过自然交配；"
+    },
+    {
+     "en": "Bonnie, first of these descendants, arrived in April 1998.",
+     "zh": "邦妮是这些后代中的第一只，生于1998年4月。"
+    }
+   ],
+   "align": [
+    [
+     "She",
+     "她"
+    ],
+    [
+     "bore",
+     "产下"
+    ],
+    [
+     "six lambs",
+     "六只小羊，"
+    ],
+    [
+     "by",
+     "是通过"
+    ],
+    [
+     "natural",
+     "自然"
+    ],
+    [
+     "mating;",
+     "交配；"
+    ],
+    [
+     "Bonnie,",
+     "邦妮"
+    ],
+    [
+     "first of these descendants,",
+     "是这些后代中的第一只，"
+    ],
+    [
+     "arrived",
+     "生于"
+    ],
+    [
+     "in April 1998.",
+     "1998年4月。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 5,
+   "en": "Since 2003 her stuffed body, now famously an icon and memorial, has been encased in the National Museum of Scotland.",
+   "zh": "自2003年起，她的填充标本，如今已成为出了名的标志和纪念物，一直封存在苏格兰国家博物馆。",
+   "en_markup": "Since 2003 her **stuffed** body, now **famously** an **icon** and **memorial**, has been **encased in** the National Museum of Scotland.",
+   "zh_markup": "自2003年起，她的**填充标本**(stuffed)，如今已成为**出了名**(famously)的**标志**(icon)和**纪念物**(memorial)，一直**封存在**(encased in)苏格兰国家博物馆。",
+   "video_notes": [
+    "（now famously an icon and memorial：插入语，补充说明 her stuffed body）",
+    "（has been encased：现在完成时被动语态，与 Since 2003 呼应；encase in：把……封在……里）"
+   ],
+   "chunks": [
+    {
+     "en": "Since 2003 her stuffed body,",
+     "zh": "自2003年起，她的填充标本，"
+    },
+    {
+     "en": "now famously an icon and memorial,",
+     "zh": "如今已成为出了名的标志和纪念物，"
+    },
+    {
+     "en": "has been encased in the National Museum of Scotland.",
+     "zh": "一直封存在苏格兰国家博物馆。"
+    }
+   ],
+   "align": [
+    [
+     "Since 2003",
+     "自2003年起，"
+    ],
+    [
+     "her stuffed body,",
+     "她的填充标本，"
+    ],
+    [
+     "now famously",
+     "如今已成为出了名的"
+    ],
+    [
+     "an icon",
+     "标志"
+    ],
+    [
+     "and memorial,",
+     "和纪念物，"
+    ],
+    [
+     "has been",
+     "一直"
+    ],
+    [
+     "encased in",
+     "封存在"
+    ],
+    [
+     "the National Museum of Scotland.",
+     "苏格兰国家博物馆。"
+    ]
+   ]
+  },
+  {
+   "n": 19,
+   "para": 5,
+   "en": "Behind glass, her white face plainly testifies to her Finn Dorset ancestry.",
+   "zh": "隔着玻璃，她的白脸清楚地证明着她的芬兰多塞特祖源。",
+   "en_markup": "Behind glass, her white face **plainly** **testifies to** her Finn Dorset **ancestry**.",
+   "zh_markup": "隔着玻璃，她的白脸**清楚地**(plainly)**证明**(testifies to)着她的芬兰多塞特**祖源**(ancestry)。",
+   "video_notes": [
+    "（testify to：证明，见证）（多莉虽由另一品种母羊代孕，但遗传物质来自芬兰多塞特羊，因此保留了白脸特征。）"
+   ],
+   "chunks": [
+    {
+     "en": "Behind glass, her white face plainly testifies to her Finn Dorset ancestry.",
+     "zh": "隔着玻璃，她的白脸清楚地证明着她的芬兰多塞特祖源。"
+    }
+   ],
+   "align": [
+    [
+     "Behind glass,",
+     "隔着玻璃，"
+    ],
+    [
+     "her",
+     "她的"
+    ],
+    [
+     "white",
+     "白"
+    ],
+    [
+     "face",
+     "脸"
+    ],
+    [
+     "plainly",
+     "清楚地"
+    ],
+    [
+     "testifies to",
+     "证明着"
+    ],
+    [
+     "her",
+     "她的"
+    ],
+    [
+     "Finn Dorset",
+     "芬兰多塞特"
+    ],
+    [
+     "ancestry.",
+     "祖源。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "Scotland",
+   "zh_video": "苏格兰",
+   "headword": "Scotland",
+   "pos": "n.",
+   "table_definition": "本文：苏格兰；n. 苏格兰（英国的组成部分之一）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 2,
+   "en": "genome",
+   "zh_video": "基因组",
+   "headword": "genome",
+   "pos": "n.",
+   "table_definition": "本文：基因组；n. 基因组（the human genome；sequence a genome）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 2,
+   "en": "fused with",
+   "zh_video": "融合了",
+   "headword": "fuse with",
+   "pos": "v.",
+   "table_definition": "本文：融合了；v. (fuse) 融合，熔合（fuse two cells；be fused together；fuse with：与……融合）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "stripped of",
+   "zh_video": "去除了",
+   "headword": "strip of",
+   "pos": "v.",
+   "table_definition": "本文：去除了；v. (strip of) 去除，剥夺（be stripped of its nucleus；be stripped of one's title）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "nucleus",
+   "zh_video": "细胞核",
+   "headword": "nucleus",
+   "pos": "n.",
+   "table_definition": "本文：细胞核；n. 细胞核；核心（the nucleus of a cell/atom）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 3,
+   "en": "surrogate",
+   "zh_video": "代孕母羊",
+   "headword": "surrogate",
+   "pos": "n.",
+   "table_definition": "本文：代孕母羊；n./adj. 代孕者；替代的（a surrogate mother）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 3,
+   "en": "embryo",
+   "zh_video": "胚胎",
+   "headword": "embryo",
+   "pos": "n.",
+   "table_definition": "本文：胚胎；n. 胚胎（a human embryo）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 3,
+   "en": "pregnancy",
+   "zh_video": "孕期",
+   "headword": "pregnancy",
+   "pos": "n.",
+   "table_definition": "本文：孕期；n. 怀孕，孕期（during pregnancy；a pregnancy test）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "proof of",
+   "zh_video": "证明",
+   "headword": "proof of",
+   "pos": "n.",
+   "table_definition": "本文：证明；n. 证据，证明（proof of identity；living proof）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "genetically",
+   "zh_video": "基因上",
+   "headword": "genetically",
+   "pos": "adv.",
+   "table_definition": "本文：基因上；adv. 遗传上，基因上（genetically modified；genetically identical）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "lineage",
+   "zh_video": "血统",
+   "headword": "lineage",
+   "pos": "n.",
+   "table_definition": "本文：血统；n. 血统，世系（of noble lineage）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 4,
+   "en": "extraordinary",
+   "zh_video": "异乎寻常的",
+   "headword": "extraordinary",
+   "pos": "adj.",
+   "table_definition": "本文：异乎寻常的；adj. 非凡的，异乎寻常的，惊人的（an extraordinary achievement）"
+  },
+  {
+   "id": 13,
+   "para": 2,
+   "sentence": 5,
+   "en": "popularly",
+   "zh_video": "一般",
+   "headword": "popularly",
+   "pos": "adv.",
+   "table_definition": "本文：一般；adv. 一般地，普遍地，通俗地（popularly known as…）"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 5,
+   "en": "clone",
+   "zh_video": "克隆体",
+   "headword": "clone",
+   "pos": "n.",
+   "table_definition": "本文：克隆体；n. 克隆体，克隆（clone a sheep；the first clone）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 5,
+   "en": "misconception",
+   "zh_video": "错误的观念",
+   "headword": "misconception",
+   "pos": "n.",
+   "table_definition": "本文：错误的观念；n. 错误的观念，误解（a common misconception）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 6,
+   "en": "predecessors",
+   "zh_video": "前几代",
+   "headword": "predecessor",
+   "pos": "n.",
+   "table_definition": "本文：前几代；n. (predecessor) 前几代，前任，前身（his predecessor in office）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 6,
+   "en": "transplanted",
+   "zh_video": "移植",
+   "headword": "transplant",
+   "pos": "v.",
+   "table_definition": "本文：移植；v. (transplant) 移植（transplant a heart/seedlings）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 6,
+   "en": "derived",
+   "zh_video": "衍生的",
+   "headword": "derived",
+   "pos": "adj.",
+   "table_definition": "本文：衍生的；adj. 衍生的；derive v. 源自，衍生（embryo-derived；derive from）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 6,
+   "en": "duo",
+   "zh_video": "一对",
+   "headword": "duo",
+   "pos": "n.",
+   "table_definition": "本文：一对；n. 二人组，一对（a comedy duo）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 7,
+   "en": "genuinely",
+   "zh_video": "确实",
+   "headword": "genuinely",
+   "pos": "adv.",
+   "table_definition": "本文：确实；adv. 真正地，确实（genuinely surprised/concerned）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 7,
+   "en": "mammal",
+   "zh_video": "哺乳动物",
+   "headword": "mammal",
+   "pos": "n.",
+   "table_definition": "本文：哺乳动物；n. 哺乳动物（marine mammals）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 8,
+   "en": "announcement",
+   "zh_video": "公告",
+   "headword": "announcement",
+   "pos": "n.",
+   "table_definition": "本文：公告；n. 公告，宣布（make an announcement）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 8,
+   "en": "coincided with",
+   "zh_video": "与……同时发生",
+   "headword": "coincide with",
+   "pos": "v.",
+   "table_definition": "本文：与……同时发生；v. (coincide) 同时发生，巧合（coincide with a holiday）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 8,
+   "en": "pun",
+   "zh_video": "双关语",
+   "headword": "pun",
+   "pos": "n.",
+   "table_definition": "本文：双关语；n. 双关语（make a pun on a word）"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 8,
+   "en": "honoured",
+   "zh_video": "致敬了",
+   "headword": "honour",
+   "pos": "v.",
+   "table_definition": "本文：致敬了；v. (honour) 向……致敬，使荣耀（honour a promise；be honoured with an award）"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 9,
+   "en": "provoked",
+   "zh_video": "引发了",
+   "headword": "provoke",
+   "pos": "v.",
+   "table_definition": "本文：引发了；v. (provoke) 引起，激起（provoke anger/a debate）"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 9,
+   "en": "uproar",
+   "zh_video": "轩然大波",
+   "headword": "uproar",
+   "pos": "n.",
+   "table_definition": "本文：轩然大波；n. 骚动，轩然大波（cause an uproar）"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 9,
+   "en": "apprehension",
+   "zh_video": "忧虑",
+   "headword": "apprehension",
+   "pos": "n.",
+   "table_definition": "本文：忧虑；n. 忧虑，担心（a feeling of apprehension）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 9,
+   "en": "ethics",
+   "zh_video": "伦理",
+   "headword": "ethics",
+   "pos": "n.",
+   "table_definition": "本文：伦理；n. 伦理（medical ethics；a code of ethics）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 10,
+   "en": "prohibited",
+   "zh_video": "禁止",
+   "headword": "prohibit",
+   "pos": "v.",
+   "table_definition": "本文：禁止；v. (prohibit) 禁止（prohibit smoking；be prohibited by law）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 10,
+   "en": "funding",
+   "zh_video": "提供资金",
+   "headword": "funding",
+   "pos": "n.",
+   "table_definition": "本文：提供资金（资助、资金支持）；n. 资助，资金支持（federal funding）；fund v. 提供资金"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 11,
+   "en": "chromosome",
+   "zh_video": "染色体",
+   "headword": "chromosome",
+   "pos": "n.",
+   "table_definition": "本文：染色体；n. 染色体（the X chromosome）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 11,
+   "en": "shortened",
+   "zh_video": "缩短了",
+   "headword": "shorten",
+   "pos": "v.",
+   "table_definition": "本文：缩短了；v. (shorten) 缩短（shorten a skirt/the working week）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 12,
+   "en": "anxiety",
+   "zh_video": "焦虑",
+   "headword": "anxiety",
+   "pos": "n.",
+   "table_definition": "本文：焦虑；n. 焦虑，担忧（anxiety about the future）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 12,
+   "en": "speculated",
+   "zh_video": "推测",
+   "headword": "speculate",
+   "pos": "v.",
+   "table_definition": "本文：推测；v. (speculate) 推测，猜测（speculate about the cause；it is speculated that…）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 12,
+   "en": "prematurely",
+   "zh_video": "过早",
+   "headword": "prematurely",
+   "pos": "adv.",
+   "table_definition": "本文：过早；adv. 过早地（die/age prematurely）"
+  },
+  {
+   "id": 37,
+   "para": 4,
+   "sentence": 13,
+   "en": "was put down",
+   "zh_video": "被实施安乐死",
+   "headword": "put down",
+   "pos": "v.",
+   "table_definition": "本文：被实施安乐死；v. (put down) 给（动物）实施安乐死；镇压；放下（have a dog put down；put down a rebellion）"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 13,
+   "en": "arthritis",
+   "zh_video": "关节炎",
+   "headword": "arthritis",
+   "pos": "n.",
+   "table_definition": "本文：关节炎；n. 关节炎（suffer from arthritis）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 13,
+   "en": "progressive",
+   "zh_video": "进行性的",
+   "headword": "progressive",
+   "pos": "adj.",
+   "table_definition": "本文：进行性的；adj. 进行性的，逐渐发展的；进步的（a progressive disease；progressive policies）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 13,
+   "en": "lung",
+   "zh_video": "肺部",
+   "headword": "lung",
+   "pos": "n.",
+   "table_definition": "本文：肺部；n. 肺（lung cancer；fill one's lungs）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 13,
+   "en": "virus",
+   "zh_video": "病毒",
+   "headword": "virus",
+   "pos": "n.",
+   "table_definition": "本文：病毒；n. 病毒（a flu virus；catch a virus）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 14,
+   "en": "confinement",
+   "zh_video": "被限制",
+   "headword": "confinement",
+   "pos": "n.",
+   "table_definition": "本文：被限制；n. 限制，禁闭，限制在某处（solitary confinement；confinement to bed）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 14,
+   "en": "contributed",
+   "zh_video": "原因之一",
+   "headword": "contribute",
+   "pos": "v.",
+   "table_definition": "本文：原因之一；v. (contribute) 促成，是……的原因之一（contribute to a problem）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 15,
+   "en": "ageing",
+   "zh_video": "衰老",
+   "headword": "ageing",
+   "pos": "v.",
+   "table_definition": "本文：衰老；v. (age) 变老，衰老（ageing normally；英式拼写 ageing）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 15,
+   "en": "hypertension",
+   "zh_video": "高血压",
+   "headword": "hypertension",
+   "pos": "n.",
+   "table_definition": "本文：高血压；n. 高血压（treat hypertension）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 15,
+   "en": "diabetes",
+   "zh_video": "糖尿病",
+   "headword": "diabetes",
+   "pos": "n.",
+   "table_definition": "本文：糖尿病；n. 糖尿病（type 2 diabetes）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 16,
+   "en": "skeletal",
+   "zh_video": "骨骼",
+   "headword": "skeletal",
+   "pos": "adj.",
+   "table_definition": "本文：骨骼；adj. 骨骼的（skeletal remains；the skeletal system）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 16,
+   "en": "onset",
+   "zh_video": "发病",
+   "headword": "onset",
+   "pos": "n.",
+   "table_definition": "本文：发病；n. （疾病等的）开始，发作（the onset of winter/a disease；early onset）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 16,
+   "en": "unfounded",
+   "zh_video": "毫无根据",
+   "headword": "unfounded",
+   "pos": "adj.",
+   "table_definition": "本文：毫无根据；adj. 毫无根据的（unfounded rumours/fears）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 17,
+   "en": "mating",
+   "zh_video": "交配",
+   "headword": "mating",
+   "pos": "n.",
+   "table_definition": "本文：交配；n. 交配（the mating season）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 17,
+   "en": "descendants",
+   "zh_video": "后代",
+   "headword": "descendant",
+   "pos": "n.",
+   "table_definition": "本文：后代；n. (descendant) 后代，后裔（a direct descendant of the king）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 18,
+   "en": "stuffed",
+   "zh_video": "填充标本",
+   "headword": "stuffed",
+   "pos": "adj.",
+   "table_definition": "本文：填充标本；adj. 填充的，制成标本的（a stuffed toy/animal）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 18,
+   "en": "famously",
+   "zh_video": "出了名",
+   "headword": "famously",
+   "pos": "adv.",
+   "table_definition": "本文：出了名；adv. 出名地（famously difficult；as she famously said）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 18,
+   "en": "icon",
+   "zh_video": "标志",
+   "headword": "icon",
+   "pos": "n.",
+   "table_definition": "本文：标志；n. 偶像，标志（a cultural/fashion icon）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 18,
+   "en": "memorial",
+   "zh_video": "纪念物",
+   "headword": "memorial",
+   "pos": "n.",
+   "table_definition": "本文：纪念物；n. 纪念物，纪念碑（a war memorial）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 18,
+   "en": "encased in",
+   "zh_video": "封存在",
+   "headword": "encase in",
+   "pos": "v.",
+   "table_definition": "本文：封存在；v. (encase) 把……装入，封住（encased in glass/concrete）"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 19,
+   "en": "plainly",
+   "zh_video": "清楚地",
+   "headword": "plainly",
+   "pos": "adv.",
+   "table_definition": "本文：清楚地；adv. 明显地，清楚地（plainly visible；be plainly wrong）"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 19,
+   "en": "testifies to",
+   "zh_video": "证明",
+   "headword": "testify to",
+   "pos": "v.",
+   "table_definition": "本文：证明；v. (testify) 证明，作证（testify to sb's skill；testify in court）"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 19,
+   "en": "ancestry",
+   "zh_video": "祖源",
+   "headword": "ancestry",
+   "pos": "n.",
+   "table_definition": "本文：祖源；n. 祖先，血统（of Irish ancestry；trace one's ancestry）"
+  }
+ ]
+}
