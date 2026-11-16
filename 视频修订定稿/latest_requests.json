@@ -110,8 +110,8 @@
     "only_actual_newest_qualified_files": true,
     "missing_or_pending_items_are_production_pending_not_legacy_fillers": true
   },
-  "all70_latest_complete": false,
-  "latest_requested_revision_completed_count": 69,
+  "all70_latest_complete": true,
+  "latest_requested_revision_completed_count": 70,
   "articles": [
     {
       "source_id": "07",
@@ -3205,7 +3205,8 @@
         "book49-source24-identity-confirmation",
         "book49-source24-remove-danbo-from-fragile-lifeboat-feedback",
         "book49-source24-add-ordeal-small-note-feedback",
-        "book49-finalization-after-and-spoken-comma-20261115"
+        "book49-finalization-after-and-spoken-comma-20261115",
+        "book49-summary-elephant-island-unify-20261116"
       ],
       "user_request_SHA256": {
         "book49-source24-focus-meaning-and-alignment-feedback": "756b566495c4c0106b8bf0175bad72edc3fae73e0813ecd8d5efed40daed42c7",
@@ -3252,16 +3253,20 @@
         "reason": "user decided to keep only the primary repository"
       },
       "latest_revision_final": {
-        "asset_commit": "ce1da29c0e26f6c02bb8d07a86af8849accc135d",
-        "video_repo_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v1/视频/49 冰海求生：坚忍号传奇.mp4",
-        "bytes": 15759944,
-        "sha256": "a79418ea9bbb03b8204d28a5d59ee83dd6c5234b328c79491c9ad9a4f5b0d398"
+        "asset_commit": "d74e93c02116404b13c1b12644721baf1ac89546",
+        "video_repo_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/视频/49 冰海求生：坚忍号传奇.mp4",
+        "bytes": 15762599,
+        "sha256": "4e95b70864e2283eec6d145ab72e07c50d1151f7e33b56b8e3bd140dfce65883"
       },
-      "validation_report_sha256": "8f30918fc4c8d373e45d44d7f70694c324b9f6014b3127cbc948f0d1b10136ee",
+      "validation_report_sha256": "6596da738841e8532b1589a68380b427a811955743e03b167eb7a215bd8d554c",
       "post_reading_pause_seconds": 0.6,
       "illustration_seconds": 2,
       "summary_card_seconds": 2,
-      "source_roles_preserved": true
+      "source_roles_preserved": true,
+      "summary_unify_user_record_20261116": {
+        "原话": "统一",
+        "来源": "主会话 session_018Kg61y5YeZxoNzSXSuyt8u 转来，记于 视频/工具/用户同意记录.json"
+      }
     },
     {
       "source_id": "70",
@@ -3515,9 +3520,9 @@
       "title_en": "The Last Flight of the Hindenburg",
       "pending_newer_request_blocks_old_fallback": true,
       "older_accepted_archive_is_history_until_newest_request_qualified": true,
-      "status": "latest_authorized_revision_in_production",
-      "latest_requested_revision_complete": false,
-      "actual_complete_validation_passed": false,
+      "status": "latest_qualified_cloud_final",
+      "latest_requested_revision_complete": true,
+      "actual_complete_validation_passed": true,
       "actual_dual_permanent_archive_passed": false,
       "newest_user_revision_records": [
         "book53-finalization-after-exactly-layout-and-illustration-20261115"
@@ -3558,7 +3563,23 @@
         "previous102_review_assets_retained_only_as_history_not_individual_final": true,
         "source_new_native_all_original_gates_and_0_6_2_2_then_dual_current_still_pending": true,
         "no_media_QA_pass_claimed": true
-      }
+      },
+      "primary_permanent_archive_passed": true,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "user decided main repository only; backup not synced"
+      },
+      "latest_revision_final": {
+        "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+        "video_repo_path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+        "bytes": 15801101,
+        "sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9"
+      },
+      "validation_report_sha256": "8f1410ea93d607df5ce1580eedf7f58caee348bba0635f9c9d1329a3c985c921",
+      "post_reading_pause_seconds": 0.6,
+      "illustration_seconds": 2,
+      "summary_card_seconds": 2,
+      "source_roles_preserved": true
     },
     {
       "source_id": "35",

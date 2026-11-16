@@ -1,0 +1,176 @@
+{
+  "kind": "book53-source68-final4K-local-production",
+  "source_id": "68",
+  "new_id": "53",
+  "title_zh": "兴登堡号的 34 秒",
+  "title_en": "The Last Flight of the Hindenburg",
+  "authority": "book53-finalization-after-exactly-layout-and-illustration-20261115",
+  "branch": "claude/book53-source68-final-20261116",
+  "video": {
+    "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+    "bytes": 15801101,
+    "sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9",
+    "frames": 4345,
+    "size": [
+      3840,
+      2160
+    ],
+    "fps": 30
+  },
+  "voice_end_seconds": 140.205,
+  "voice_to_picture_seconds": 0.6283333333333333,
+  "hold_frames": 18,
+  "illustration_frames": 60,
+  "summary_frames": 60,
+  "audio": {
+    "a_wav_md5_12": "5945941a1951",
+    "old_a_wav_md5_12": "a4f76dab45bd",
+    "resynthesized_sentences": [
+      "S2"
+    ],
+    "other_sentences_sample_identical": true,
+    "S2_pause_after_and_old_s": 0.4,
+    "S2_pause_after_and_new_s": 0.0,
+    "S2_pause_after_year_new_s": 0.415,
+    "decoded_identical_to_passed_final_sh_4K": true
+  },
+  "checks": {
+    "final_sh_pre_post_failures": 0,
+    "do_sh_post_all_passed": true,
+    "quick_test_passed": true
+  },
+  "primary_permanent_archive_passed": true,
+  "actual_dual_permanent_archive_passed": false,
+  "files": [
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/中间片/68-定稿sh-4K-读完即转简述2秒.mp4",
+      "bytes": 12717653,
+      "sha256": "ac1b232a0497daf34e1e067405a55f5d328396142e2d15d48051451b9fd9e330"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/实际成片解码帧/53-body-last.jpg",
+      "bytes": 108539,
+      "sha256": "82e6d798c2ae700fecf1a5fdcf80f80cd38c7d25910f7540d8e10cf4f63e46d9"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/实际成片解码帧/53-hold-first.jpg",
+      "bytes": 108539,
+      "sha256": "82e6d798c2ae700fecf1a5fdcf80f80cd38c7d25910f7540d8e10cf4f63e46d9"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/实际成片解码帧/53-illustration-first.jpg",
+      "bytes": 251109,
+      "sha256": "6e5e965358d499e63057865d171eb31b438c1600a3dc3c8705312a63c6917dce"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/实际成片解码帧/53-illustration-last.jpg",
+      "bytes": 251195,
+      "sha256": "c2c14d1314fbc200ffb687b03ab4d358a186c905cd5a414a963a3b9eaf3da572"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/实际成片解码帧/53-summary-first.jpg",
+      "bytes": 237340,
+      "sha256": "2930f8e3952cf71b756024ac1d6f37eed0d6d43dbcca7e83bd5362d9dd2fdedd"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/实际成片解码帧/53-summary-last.jpg",
+      "bytes": 237348,
+      "sha256": "1d69ac7736ee20b37d00485d988fead246156b356fd44fd669b5194bfc07e690"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/归档程序/build_tail53.py",
+      "bytes": 3630,
+      "sha256": "80536634b776f62784d6b9cca1407af0f053ce391f6d69cf9e4efcd0308ff40c"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/归档程序/cmp_audio.py",
+      "bytes": 1446,
+      "sha256": "ac7f048fd3481589c791d386e642395cbedb7c57d61093ca808ca7552a650b03"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/归档程序/hold18_geometry.py",
+      "bytes": 3973,
+      "sha256": "f962e9a2173b36c22f2bd7fa1ab1d70d418eaa416baa005c68547225fcf18f2c"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/归档程序/verify53.py",
+      "bytes": 3371,
+      "sha256": "224b592ca4d2d736b4b3d080404b43139cf811e488a8c4a39b51f95e81c77e10"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/归档程序/voice_end.py",
+      "bytes": 1092,
+      "sha256": "71d8561e0344516f734085710962fa78d745360eb49ca7e205b0e51976b402b8"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/归档说明.md",
+      "bytes": 4822,
+      "sha256": "6e536c590632c8a7180a504f69c104dae49825a87dac165ab59b3e25add23c93"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/批准插图/68-original-book-illustration.png",
+      "bytes": 2853882,
+      "sha256": "dc991b442b66535b18fac0350136acab994ac15412aaa73a9b27752e5dfbdcc0"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/批准插图/68-批准插图4K.png",
+      "bytes": 8478478,
+      "sha256": "50ff733993179b29dcc540c6f408d006e1000a299983892c54ad49486a120cc9"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/tail_report.json",
+      "bytes": 307,
+      "sha256": "01a76455b063edce1ae518cf49d491a570af61da19be95aa7271de9c661cb149"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/verify53.json",
+      "bytes": 1545,
+      "sha256": "8f1410ea93d607df5ce1580eedf7f58caee348bba0635f9c9d1329a3c985c921"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/做sh-1080p-出片后.log",
+      "bytes": 8535,
+      "sha256": "74d19fd34c4ecc4ac626ee336ed6eeafeb600758dd73d8c7a5732f491cdd8f30"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/出片前.log",
+      "bytes": 4494,
+      "sha256": "e2a303dac15ed09158516ee1353941500e894098e2c5bac086318df388331bb8"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/出片后.log",
+      "bytes": 8535,
+      "sha256": "74d19fd34c4ecc4ac626ee336ed6eeafeb600758dd73d8c7a5732f491cdd8f30"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/文本.log",
+      "bytes": 1042,
+      "sha256": "e68e4b2b930ea76f2d7c714becadeb350e01ce276af71471074fd53b47325230"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/文章同步.log",
+      "bytes": 8,
+      "sha256": "6fdf86d6f7f0ef83d138fa592da8f90a989625b1ebfe543e65747cf922e934e1"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/源稿/68-the-last-flight-of-the-hindenburg.md",
+      "bytes": 16777,
+      "sha256": "75fe2dda2eabaded39f0a077955e5f607167cbdb9a95e56b3a3aa76a3911035e"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/源稿/68.json",
+      "bytes": 60580,
+      "sha256": "0d9768f8d16e780466ceddc038a6c0f476229213f17f62aa3edc3c5b98a48d76"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/源稿/gen68.py",
+      "bytes": 51249,
+      "sha256": "090120ba7a4a99849363bb4ecd695cae7e7d3562ae3dd2977dfa6548324def95"
+    },
+    {
+      "path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+      "bytes": 15801101,
+      "sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9"
+    }
+  ]
+}
