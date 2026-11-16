@@ -1,0 +1,48 @@
+[
+ {
+  "key": "id=15",
+  "field": "etymology",
+  "before": "来自意大利语 cavalleria，源于 cavallo（马），最终来自晚期拉丁语 caballus（马）。",
+  "after": "来自意大利语 cavalleria（骑兵队），源于 cavaliere（骑士，骑兵），经晚期拉丁语 caballarius（骑手）最终来自拉丁语 caballus（马）。",
+  "reason": "据 Etymonline，cavalleria 直接来自 cavaliere（骑兵）与晚期拉丁语 caballarius（骑手），再上溯到 caballus（马），原文跳过了中间环节。"
+ },
+ {
+  "key": "id=19",
+  "field": "senses",
+  "before": [
+   {
+    "pos": "n.",
+    "zh": "欺骗，蒙骗（本文）"
+   },
+   {
+    "pos": "n.",
+    "zh": "骗局，诡计，骗人的手段"
+   }
+  ],
+  "after": [
+   {
+    "pos": "n.",
+    "zh": "欺骗（行为），骗局（本文）"
+   },
+   {
+    "pos": "n.",
+    "zh": "骗人的手段，诡计"
+   }
+  ],
+  "reason": "视频译为“骗局”，原“（本文）”标在不含“骗局”的义项上，与视频不一致，调整义项划分。"
+ },
+ {
+  "key": "id=25",
+  "field": "etymology",
+  "before": "17世纪从拉丁语 rotare（旋转，转动）借入，过去分词为 rotatus，来自 rota（轮子）。",
+  "after": "19世纪初（Etymonline 记为1808年）出现，由名词 rotation 逆构而成，或直接来自拉丁语 rotare（旋转，转动）的过去分词 rotatus；rotare 来自 rota（轮子）。",
+  "reason": "Etymonline 记动词 rotate 始见于1808年（由 rotation 逆构或来自 rotatus），“17世纪”无据。"
+ },
+ {
+  "key": "id=26",
+  "field": "etymology",
+  "before": "经英法语从拉丁语",
+  "after": "经盎格鲁法语、古法语从拉丁语",
+  "reason": "“英法语”不是通行术语，应为盎格鲁法语（Anglo-French），并补古法语。"
+ }
+]

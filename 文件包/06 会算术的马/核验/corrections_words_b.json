@@ -1,0 +1,89 @@
+[
+ {
+  "key": "id=28",
+  "field": "collocations[wilfully ignorant].zh",
+  "before": "故意装作不知道的",
+  "after": "故意不去了解的，有意回避真相的",
+  "reason": "wilfully ignorant 指故意不去了解、回避真相，不是“装作不知道”。"
+ },
+ {
+  "key": "id=36",
+  "field": "collocations[jerk one's head up/back].zh",
+  "before": "猛地抬头/把头一缩",
+  "after": "猛地抬头/猛地把头往后一仰",
+  "reason": "jerk one's head back 是猛地向后仰头，“把头一缩”不准确。"
+ },
+ {
+  "key": "id=38",
+  "field": "senses[0].zh",
+  "before": "（身体的）动作，姿势（本文）",
+  "after": "（身体的）动作，（示意的）手势（本文）",
+  "reason": "motion 指具体动作或示意的手势（Oxford），不指“姿势”；“姿势”是视频给 gesture 的译法，避免混淆。"
+ },
+ {
+  "key": "id=43",
+  "field": "senses[2]",
+  "before": {
+   "pos": "n.",
+   "zh": "揣摩人心的手段，心理战术"
+  },
+  "after": {
+   "pos": "n.",
+   "zh": "（某一领域中）心理对行为的影响，……心理学（如 the psychology of advertising 广告心理学）"
+  },
+  "reason": "“揣摩人心的手段，心理战术”在 Oxford/Cambridge 中查不到对应义项，按 Oxford 第三义（某领域中心理对行为的影响）改写。"
+ },
+ {
+  "key": "id=45",
+  "field": "collocations[4]",
+  "before": {
+   "en": "catch sb off guard",
+   "zh": "使某人猝不及防"
+  },
+  "after": {
+   "en": "guard against the risk of sth",
+   "zh": "防范某事的风险"
+  },
+  "reason": "catch sb off guard 是名词 guard 的搭配，不是词组 guard against 的搭配，换成 guard against 本身的常见搭配。"
+ },
+ {
+  "key": "id=46",
+  "field": "example",
+  "before": {
+   "en": "Urban heat islands, in which cities stay warmer than the surrounding countryside, are a well-documented phenomenon.",
+   "zh": "城市热岛是一种有大量记载的现象，即城市比周边乡村更暖和。"
+  },
+  "after": {
+   "en": "The urban heat island effect, in which cities stay warmer than the surrounding countryside, is a well-documented phenomenon.",
+   "zh": "城市热岛效应指城市比周边乡村更暖和，这是一种有大量记载的现象。"
+  },
+  "reason": "原句 Urban heat islands, in which cities stay warmer... 中“热岛”里有城市，逻辑不通，主语复数与 a phenomenon 也不协调，改用 effect 作先行词。"
+ },
+ {
+  "key": "id=47",
+  "field": "example",
+  "before": {
+   "en": "To reduce bias, the applications were reviewed without the candidates' names or photographs.",
+   "zh": "为了减少偏见，评审时不看申请人的姓名和照片。"
+  },
+  "after": {
+   "en": "To reduce bias, the panel reviewed the applications without seeing the candidates' names or photographs.",
+   "zh": "为了减少偏见，评审小组在看不到申请人姓名和照片的情况下审阅申请材料。"
+  },
+  "reason": "原句句首目的不定式 To reduce bias 与被动主句主语 the applications 逻辑主语不一致，改为主动句。"
+ },
+ {
+  "key": "id=48",
+  "field": "etymology",
+  "before": "由 ex-（向外）和 spectare（看）构成，字面是“向外张望”，引申为“盼望，预期”。",
+  "after": "由 ex-（Etymonline 释为加强义“彻底，一直”）和 spectare（看）构成，本义“守望，等候”，引申为“盼望，预期”。",
+  "reason": "Etymonline 把 exspectare 中的 ex- 释为加强义（thoroughly），不是“向外”。"
+ },
+ {
+  "key": "id=48",
+  "field": "usage_detail",
+  "before": "注意不能说 life expectation。",
+  "after": "注意“预期寿命”的固定说法是 life expectancy，一般不说 life expectation。",
+  "reason": "精算语境中有 expectation of life 的说法，“不能说”过于绝对。"
+ }
+]

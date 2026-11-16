@@ -1,0 +1,58 @@
+[
+ {
+  "key": "n=5",
+  "field": "grammar[1].explain",
+  "before": "此时它的逻辑主语必须是主句主语",
+  "after": "此时它的逻辑主语一般应是主句主语",
+  "reason": "句首目的不定式与被动主句连用在英语中也常见，说“必须”过于绝对，改为“一般应是”。"
+ },
+ {
+  "key": "n=6",
+  "field": "structure",
+  "before": "②前三项都是“a + 名词作定语 + 名词”：circus manager 中 circus 修饰 manager，cavalry officer 中 cavalry 修饰 officer。",
+  "after": "②前三项都用不定冠词 a，各指一个人；其中第二、三项是“名词作定语 + 名词”：circus manager 中 circus 修饰 manager，cavalry officer 中 cavalry 修饰 officer。第一项 a veterinarian 只是 a + 名词，没有名词作定语。",
+  "reason": "原文说前三项都是“a + 名词作定语 + 名词”，但 a veterinarian 没有名词作定语，与事实不符。"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar[2].examples[0].en",
+  "before": "the students revised late, skipped meals,",
+  "after": "the students revised late into the night, skipped meals,",
+  "reason": "revised late 不地道，改为 revised late into the night（复习到深夜）。"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar[2].examples[0].zh",
+  "before": "学生们复习到很晚",
+  "after": "学生们复习到深夜",
+  "reason": "与改后的英文 late into the night 对应。"
+ },
+ {
+  "key": "n=16",
+  "field": "structure",
+  "before": "相当于 which were made unwittingly by...",
+  "after": "相当于 which was made unwittingly by...",
+  "reason": "先行词 Every gesture and motion 谓语用单数（原句用 was），还原的定语从句也应用 which was，原写 which were 与本句主谓一致讲解自相矛盾。"
+ },
+ {
+  "key": "n=19",
+  "field": "structure",
+  "before": "convinced 意为“坚信的”，后接 that 从句说明坚信的内容；",
+  "after": "convinced 意为“坚信的”，后接 that 从句说明坚信的内容，that 只起连接作用，在从句中不作任何成分，从句本身是主谓结构（主语 such animals，谓语 reasoned）；",
+  "reason": "补出引导词 that 在从句中的成分（不作成分）和从句结构，原文缺这一层。"
+ },
+ {
+  "key": "n=19",
+  "field": "grammar[2].examples[0].en",
+  "before": "She is a scientist convinced that the problem can still be solved.",
+  "after": "The project was led by an engineer convinced that the old bridge could still be saved.",
+  "reason": "原例句 She is a scientist convinced that... 生硬，换成更地道的后置定语用法。"
+ },
+ {
+  "key": "n=19",
+  "field": "grammar[2].examples[0].zh",
+  "before": "她是一位坚信这个问题仍能解决的科学家。",
+  "after": "这个项目由一位坚信那座旧桥仍能保住的工程师负责。",
+  "reason": "与新英文例句对应。"
+ }
+]
