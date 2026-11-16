@@ -1,0 +1,58 @@
+[
+ {
+  "key": "id=36",
+  "field": "etymology",
+  "before": "源于动词 addere（加上），由 ad-（向）和 dare（放置；给）构成。",
+  "after": "源于动词 addere（加上），由 ad-（向）和 -dere（放置）构成。",
+  "reason": "Etymonline：addere 的第二个成分是表示“放置”的 -dere（源自 *dhe-），不是 dare（给），原文混淆。"
+ },
+ {
+  "key": "id=36",
+  "field": "usage_detail",
+  "before": "形容词，只作定语，",
+  "after": "形容词，多作定语，",
+  "reason": "Oxford 未把 additional 标为 only before noun，也可作表语（Delivery charges are additional），“只作定语”说得过死。"
+ },
+ {
+  "key": "id=39",
+  "field": "etymology",
+  "before": "动词由“剪羊毛”引申为“剥夺，骗取钱财”，16世纪已见使用，取“像剪羊毛一样把人的钱刮干净”的比喻。",
+  "after": "动词由名词转来，16世纪起用于“剥夺、骗取（某人）钱财”，取“像剪羊毛一样把人的钱刮干净”的比喻。",
+  "reason": "Etymonline 记动词 fleece 在1530年代已有“剥夺钱财”义，并说明由名词转来；原文“由剪羊毛引申”所含的词义先后关系无法证实，改为由名词转来。"
+ },
+ {
+  "key": "id=45",
+  "field": "context_usage",
+  "before": "with an encore of his script for new dealers 作伴随状语",
+  "after": "with an encore of his script for new dealers 作方式状语",
+  "reason": "与逐句精讲第13句的分析统一：该介词短语说明他以什么方式再度出现，是方式状语。"
+ },
+ {
+  "key": "id=47",
+  "field": "context_usage",
+  "before": "这个介词短语作 encore 的后置定语；for new dealers 修饰 script，说明这套剧本这次演给谁看。",
+  "after": "这个介词短语作 encore 的后置定语；for new dealers 也修饰 encore，说明这次重演是演给新的一批商人看的（视频把它与 with an encore 合译为“对新的一批商人重演”）。",
+  "reason": "视频对照把 for new dealers 与 with an encore 合译为“对新的一批商人重演”，逐句精讲也分析为修饰 encore；原文说修饰 script，与视频和逐句精讲矛盾。"
+ },
+ {
+  "key": "id=48",
+  "field": "distinction",
+  "before": "mistrustful 意思相近，更多指一种怀疑的感觉，程度稍轻；",
+  "after": "mistrustful 意思相近，更多指一种笼统的、说不清缘由的怀疑感；",
+  "reason": "Oxford 的用法说明只区分“有依据的不信任”与“笼统的怀疑感”，“程度稍轻”无词典依据，删去。"
+ },
+ {
+  "key": "id=53",
+  "field": "etymology",
+  "before": "19世纪初先作为窃贼的黑话出现，最初作动词，意为“做手脚，行骗”，来源不确定。形容词“假的，伪造的”和名词“赝品，冒牌货”由此发展而来。",
+  "after": "来源不确定，最初是英国窃贼的黑话，原指“做手脚，行骗”，19世纪起进入一般用语，逐渐有了“假的，伪造的”“赝品，冒牌货”“伪造，假装”等义。",
+  "reason": "各词性最早出现的年代和先后顺序无法在权威词典中确证，原文“19世纪初先作动词，形容词和名词由此发展而来”改为只写能确定的内容：来源不确定、原为窃贼黑话。"
+ },
+ {
+  "key": "id=46",
+  "field": "ipa_us",
+  "before": "/ˈɑːŋkɔːr/",
+  "after": "/ˈɑːnkɔːr/",
+  "reason": "Cambridge 美音、Merriam-Webster 和 CMU 均以 n 标注美式首音节（\\ˈän-\\），据此改正；usage_detail 中的美音同步修改。"
+ }
+]

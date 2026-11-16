@@ -1,0 +1,23 @@
+[
+ {
+  "key": "n=4",
+  "field": "grammar.1.examples.0.zh",
+  "before": "这个解释几乎没有让乘客满意。",
+  "after": "这个解释没让几个乘客满意。",
+  "reason": "satisfied few passengers 意为“满意的乘客寥寥无几”，原译“几乎没有让乘客满意”把 few 的否定落在程度上，意思有偏差。"
+ },
+ {
+  "key": "n=7",
+  "field": "grammar.2.examples.0",
+  "before": "{\"en\": \"The museum's roof needs urgent repairs.\", \"zh\": \"博物馆的屋顶急需修缮。\"}",
+  "after": "{\"en\": \"The cost of the museum's renovation has almost doubled.\", \"zh\": \"博物馆翻修的费用几乎翻了一番。\"}",
+  "reason": "该语法点讲“名词所有格与 of 结构连用”，原例句只有 's，没有 of 结构，不能示范该语法点；换成 the cost of the museum's renovation，与本句 the cost of the tower's upkeep 同构。"
+ },
+ {
+  "key": "n=7",
+  "field": "knowledge.0.explain",
+  "before": "表示此义时总用复数，前面加 the，",
+  "after": "表示此义时通常用复数，前面加 the（英式英语中 a local authority 单数指地方政府机构），",
+  "reason": "Oxford 标注 authority 此义为 usually plural，英式英语 local authority 可用单数，“总用复数”说得过死。"
+ }
+]
