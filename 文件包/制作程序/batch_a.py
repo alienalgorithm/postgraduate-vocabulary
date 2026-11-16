@@ -6,7 +6,7 @@ S = Path('/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchp
 REPO = Path('/home/user/postgraduate-vocabulary')
 def run(*a): subprocess.run([str(x) for x in a], check=True, cwd=T, capture_output=True, text=True)
 def main(no):
-    man = {v['current_video_order']: v for v in json.loads((S / 'current_manifest_pr33.json').read_text())['videos']}
+    man = {v['current_video_order']: v for v in json.loads((S / 'current_manifest_final.json').read_text())['videos']}
     v = man[no]; W = S / f'pkg/{no}'; out = W / 'out'; out.mkdir(parents=True, exist_ok=True)
     run('python3', T / 'prep.py', no)
     a = json.loads((W / 'article.json').read_text())

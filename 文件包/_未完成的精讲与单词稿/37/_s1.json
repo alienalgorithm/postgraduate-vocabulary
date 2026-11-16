@@ -1,0 +1,604 @@
+[
+{
+ "n": 1,
+ "trunk": {
+  "subject": "a corridor",
+  "predicate": "has been drilled",
+  "object_or_complement": "",
+  "explain": "主干是 a corridor has been drilled，主谓结构，谓语是被动形式，没有宾语。has been drilled 是现在完成时的被动语态（视频说明），表示通道早已钻凿完成，结果一直延续到现在：如今山坡里就有这样一条通道。"
+ },
+ "components": [
+  {
+   "text": "On Spitsbergen,",
+   "role": "地点状语（介词短语）",
+   "zh": "在……斯匹次卑尔根岛上"
+  },
+  {
+   "text": "in Norway's Svalbard archipelago,",
+   "role": "同位语（介词短语），补充说明 Spitsbergen 的位置",
+   "zh": "挪威斯瓦尔巴群岛的"
+  },
+  {
+   "text": "a corridor",
+   "role": "主语",
+   "zh": "一条通道"
+  },
+  {
+   "text": "has been drilled",
+   "role": "谓语（现在完成时的被动语态）",
+   "zh": "已……钻入"
+  },
+  {
+   "text": "deep",
+   "role": "程度状语（副词，表示钻得很深）",
+   "zh": "深深地"
+  },
+  {
+   "text": "into a frosted hillside.",
+   "role": "方向状语（介词短语，与 drill 构成 drill into，表示钻进去的方向）",
+   "zh": "一面结霜的山坡"
+  }
+ ],
+ "structure": "①句首是两个地点介词短语：On Spitsbergen 是地点状语；in Norway's Svalbard archipelago 是同位语，补充说明 Spitsbergen 的位置（视频说明）。英语先说小地点，再用逗号隔开补充它所属的大地域，读者由此知道斯匹次卑尔根岛属于挪威的斯瓦尔巴群岛。Norway's 是名词所有格，作 Svalbard archipelago 的定语。\n②主干是 a corridor has been drilled，主语 corridor 是动作的承受者，谁钻的并不重要，所以不出现 by 短语。现在完成时的被动语态 has been drilled 表示钻凿早已完成，结果延续至今。\n③deep 是副词，修饰后面的方向状语，说明钻进去的深度；into a frosted hillside 是介词短语作方向状语，into 表示由外向内。frosted 是形容词，作 hillside 的前置定语。\n④本句是全文的开篇画面：先交代地点，再写一条深入冻土山坡的通道，为下一句写通道尽头的种子储藏库作铺垫。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "现在完成时的被动语态",
+   "explain": "构成是 have/has been + 过去分词，既有现在完成时“动作已完成、影响延续到现在”的含义，又表示主语是动作的承受者。本句 a corridor has been drilled 说明通道已经钻好，现在就在那里，重点在结果而不在施动者，所以省略了 by 短语。考研阅读的说明文和新闻里常用这一结构描述已经建成、已经发现、已经证实的事物；写作中要注意 has been done 与 was done 的区别：后者只说过去发生了某事，不强调与现在的联系，句中有 in 2008 这类明确的过去时间时只能用一般过去时。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "A new bridge has been built across the river to ease traffic congestion.",
+     "zh": "一座新桥已在河上建成，以缓解交通拥堵。"
+    },
+    {
+     "en": "More than 200 bird species have been recorded in the reserve since it was established.",
+     "zh": "自保护区设立以来，区内已记录到200多种鸟类。"
+    }
+   ]
+  },
+  {
+   "title": "deep 与 deeply 作副词的区别",
+   "explain": "deep 本身可以作副词，表示具体空间上的“深，深入”，常与 into、underground、below、inside 等连用，如 dig deep、deep underground、deep into the forest；也可用于时间，如 work deep into the night。deeply 多表示抽象程度上的“深深地，极其”，如 deeply moved、deeply concerned、deeply rooted。本句 drilled deep into a frosted hillside 说的是实际钻进山体的深度，所以用 deep，视频译为“深深地钻入”。写成 deeply drilled 就不符合习惯。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The miners worked deep underground, far from any daylight.",
+     "zh": "矿工们在地下深处工作，远离日光。"
+    }
+   ]
+  },
+  {
+   "title": "地点介词短语的同位补充：先小后大",
+   "explain": "英语交代地点时常先说具体的小地点，再用逗号隔开、补充它所在的大地域，后一个短语对前一个作同位说明，如 in Cambridge, in the east of England。本句 On Spitsbergen, in Norway's Svalbard archipelago 就是这种写法，视频说明称后者为同位语。汉语习惯由大到小排列，翻译时要把后面的大地域提到前面。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The conference was held in Cambridge, in the east of England.",
+     "zh": "会议在英格兰东部的剑桥举行。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "Svalbard 与 Spitsbergen",
+   "explain": "Svalbard（斯瓦尔巴群岛）是挪威在北冰洋上的群岛，位于挪威本土以北；Spitsbergen（斯匹次卑尔根岛）是其中最大的岛。下一段提到的种子库就建在这座岛上的朗伊尔城附近。"
+  },
+  {
+   "term": "drill into",
+   "explain": "drill 作动词意为“钻（孔），钻凿”，drill (sth) into sth 表示钻进某物，如 drill a hole into the wall（在墙上钻个洞）。本句用被动语态，a corridor has been drilled into a hillside 指在山坡里钻凿出一条通道，视频译为“钻入”。"
+  },
+  {
+   "term": "frosted",
+   "explain": "形容词，本句意为“结霜的，覆盖着霜的”。另有两个常见义：frosted glass（磨砂玻璃）、（美式）frosted cake（裹了糖霜的蛋糕）。"
+  },
+  {
+   "term": "corridor",
+   "explain": "常见义是建筑物里的“走廊”；本句指钻进山体的一条“通道”，视频据此译为“通道”。在政治、经济语境中还指“走廊地带”，如 an economic corridor（经济走廊）。"
+  }
+ ],
+ "translation_tip": "视频译文“在挪威斯瓦尔巴群岛的斯匹次卑尔根岛上，一条通道已深深地钻入一面结霜的山坡。”的处理：①英语地点由小到大，先说 Spitsbergen，再用同位语补充 in Norway's Svalbard archipelago；汉语地点由大到小，于是把同位语前置为定语“挪威斯瓦尔巴群岛的”，与 On Spitsbergen 合成一个地点状语“在……斯匹次卑尔根岛上”。②现在完成时 has been 译成“已”；被动语态没有用“被”字，直接译为“钻入”，汉语常用这种意义上的被动。③副词 deep 译为“深深地”，放在动词前。④两个不定冠词 a 分别译成量词“一条”“一面”。"
+},
+{
+ "n": 2,
+ "trunk": {
+  "subject": "cartons of precious seed",
+  "predicate": "sit",
+  "object_or_complement": "",
+  "explain": "主干是 cartons (of precious seed) sit，主谓结构；sit 是不及物动词，表示物体“位于，搁在某处”，后接地点状语，没有宾语。谓语为一般现在时，主动语态，描写储藏库里的现状。"
+ },
+ "components": [
+  {
+   "text": "At its end,",
+   "role": "地点状语（介词短语；its 指上句的 corridor）",
+   "zh": "在通道的尽头"
+  },
+  {
+   "text": "cartons",
+   "role": "主语（中心词）",
+   "zh": "好几纸箱"
+  },
+  {
+   "text": "of precious seed",
+   "role": "后置定语（介词短语），修饰 cartons，说明箱中装的东西",
+   "zh": "的珍贵的种子"
+  },
+  {
+   "text": "sit",
+   "role": "谓语（不及物动词，意为“位于，放置”）",
+   "zh": "坐落于"
+  },
+  {
+   "text": "silently",
+   "role": "方式状语（副词）",
+   "zh": "静静地"
+  },
+  {
+   "text": "in a sub-zero repository,",
+   "role": "地点状语（介词短语）",
+   "zh": "一座零度以下的储藏库中"
+  },
+  {
+   "text": "insulated by permanently frozen ground.",
+   "role": "过去分词短语（表被动），用逗号隔开，补充说明 a sub-zero repository",
+   "zh": "由永久冻结的土层隔热保存"
+  }
+ ],
+ "structure": "①At its end 是地点状语，its 指上句的 corridor（视频说明），即“通道的尽头”。\n②主语是 cartons of precious seed：中心词 cartons，of precious seed 作后置定语，说明纸箱里装的是珍贵的种子。主语中心词是复数 cartons，所以谓语用 sit，不用 sits。\n③谓语 sit 是不及物动词，silently 作方式状语，in a sub-zero repository 作地点状语。sub-zero 是复合形容词，作 repository 的前置定语。\n④句末 insulated by permanently frozen ground 是过去分词短语，用逗号隔开，补充说明 a sub-zero repository（视频说明），相当于 which is insulated by permanently frozen ground：储藏库被永久冻土包围，起到隔热作用。短语内部 permanently 修饰 frozen，frozen 是过去分词作形容词，修饰 ground。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "过去分词短语补充说明前面的名词",
+   "explain": "过去分词短语可以放在名词之后，表示该名词是动作的承受者，相当于一个被动的定语从句。用逗号隔开时，它对名词作补充说明，去掉后句子主干仍然完整。本句 insulated by permanently frozen ground 补充说明 a sub-zero repository，相当于 which is insulated by permanently frozen ground。阅读时要注意：句末的 -ed 短语不是新的谓语，本句谓语只有 sit；还要根据语义判断它修饰哪个名词，视频说明明确它补充说明 repository。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "The villagers drew water from an old well, fed by a spring in the hills.",
+     "zh": "村民们从一口老井里打水，这口井靠山里的一眼泉水补给。"
+    },
+    {
+     "en": "Visitors can tour the castle, built in the 13th century to guard the river crossing.",
+     "zh": "游客可以参观这座城堡，它建于13世纪，用来扼守渡河的要道。"
+    }
+   ]
+  },
+  {
+   "title": "容器名词 + of + 名词表示数量",
+   "explain": "carton、box、bag、bottle、crate 等容器名词加 of 可以表示数量，如 a carton of milk（一盒牛奶）、two boxes of books（两箱书）。作主语时，谓语的单复数一般看容器名词：本句 cartons 是复数，谓语用 sit。of 后的物质名词或不可数名词不变形，本句的 seed 用作不可数名词，表示“（一批）种子”。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "Two crates of medical supplies were flown to the region on Monday.",
+     "zh": "两箱医疗物资于周一空运到了该地区。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "sit（物体位于某处）",
+   "explain": "熟词僻义：sit 的主语是物体时，意为“位于，放在，搁着”，常接地点状语，如 A large vase sits on the table、The town sits at the foot of a mountain。本句视频译为“坐落于”。"
+  },
+  {
+   "term": "seed（不可数用法）",
+   "explain": "seed 可数时指一粒粒种子，复数 seeds；也可作不可数名词，指成批的种子，如 a packet of seed、sow grass seed。本句 cartons of precious seed 用不可数形式，本文第6、11句则用复数 seeds。"
+  },
+  {
+   "term": "permanently frozen ground",
+   "explain": "即永久冻土（permafrost），指连续多年保持冻结状态的土层。视频译为“永久冻结的土层”。"
+  },
+  {
+   "term": "insulate",
+   "explain": "动词，意为“使隔热，使隔音，使绝缘”，常见 insulate A from/against B（使 A 免受 B 的影响），如 insulate a house against the cold。本句用过去分词表示被动，视频译为“隔热保存”。"
+  },
+  {
+   "term": "sub-zero",
+   "explain": "形容词，“零度以下的”，常修饰 temperatures、conditions，如 sub-zero temperatures（零度以下的气温）。前缀 sub- 意为“低于”。"
+  }
+ ],
+ "translation_tip": "视频译文“在通道的尽头，好几纸箱的珍贵的种子静静地坐落于一座零度以下的储藏库中，由永久冻结的土层隔热保存。”的处理：①代词 its 还原为名词，译成“通道的”，读者不必回看上句。②复数 cartons 译为“好几纸箱”，用“好几”体现复数；of 后置定语前置为“的珍贵的种子”。③方式状语 silently 前置为“静静地”，sit 译为“坐落于”，与句末“中”搭配成“坐落于……中”。④过去分词短语没有前置，而是保留在句末，单独成为分句；by 译为“由”，并增补“保存”，使被动关系和语义都完整。"
+},
+{
+ "n": 3,
+ "trunk": {
+  "subject": "The Svalbard Global Seed Vault",
+  "predicate": "opened",
+  "object_or_complement": "",
+  "explain": "主干是 The Svalbard Global Seed Vault opened，主谓结构；open 在此是不及物动词，意为“（设施、机构）启用，开放”。谓语为一般过去时，主动语态，后面依次是地点状语、时间状语和不定式目的状语。"
+ },
+ "components": [
+  {
+   "text": "The Svalbard Global Seed Vault",
+   "role": "主语（专有名词）",
+   "zh": "斯瓦尔巴全球种子库"
+  },
+  {
+   "text": "opened",
+   "role": "谓语（不及物动词，意为“启用”）",
+   "zh": "启用"
+  },
+  {
+   "text": "near Longyearbyen",
+   "role": "地点状语（介词短语）",
+   "zh": "在朗伊尔城附近"
+  },
+  {
+   "text": "in February 2008",
+   "role": "时间状语（介词短语）",
+   "zh": "于2008年2月"
+  },
+  {
+   "text": "to insure crops",
+   "role": "目的状语（不定式短语，insure 与后面的 against 构成 insure A against B）",
+   "zh": "为……作物投保"
+  },
+  {
+   "text": "such as beans, rice, and wheat",
+   "role": "后置定语（such as 举例），说明 crops 包括哪些",
+   "zh": "豆类、水稻和小麦等"
+  },
+  {
+   "text": "against the horrors",
+   "role": "介词短语，与 insure 构成 insure A against B，against 引出要防范的对象",
+   "zh": "以防范……可怕经历"
+  },
+  {
+   "text": "people dread,",
+   "role": "定语从句（省略关系代词），修饰 horrors",
+   "zh": "人们非常害怕的"
+  },
+  {
+   "text": "from atomic war to disease.",
+   "role": "补充说明（介词短语 from A to B），说明 horrors 涵盖的范围",
+   "zh": "从原子核战争到疾病"
+  }
+ ],
+ "structure": "①主句是 The Svalbard Global Seed Vault opened，主语是种子库的正式名称，谓语 opened 不及物。near Longyearbyen 作地点状语，in February 2008 作时间状语。\n②to insure crops … against the horrors 是不定式短语作目的状语（视频说明），说明建库的目的。insure A against B 意为“为 A 投保，防范 B”，A 是 crops，B 是 the horrors；中间插入 such as beans, rice, and wheat 举例说明 crops，把 insure 和 against 隔开，属于被隔开的搭配（视频说明）。三项并列 beans, rice, and wheat 用了牛津逗号。\n③people dread 是省略关系代词的定语从句，修饰 horrors（视频说明），完整形式是 the horrors (that/which) people dread；被省略的关系代词在从句中作 dread 的宾语，所以可以省略。\n④from atomic war to disease 用 from A to B（从 A 到 B）补充说明 horrors 的范围（视频说明），列出两端，表示涵盖人为的战争和自然的疾病在内的各种灾难。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "insure A against B：被隔开的搭配",
+   "explain": "insure A against B 意为“为 A 投保，以防 B”，against 表示防备的对象，如 insure a house against fire。本句 A 是 crops，后面插入 such as beans, rice, and wheat 举例，against 离 insure 较远，阅读时要把 against the horrors 与前面的 insure 挂上钩，不能当作孤立的介词短语。这里用的是比喻：种子库像一份保险，为作物防范灾难。易混词：ensure 意为“确保”（ensure that…）；assure 意为“向某人保证”（assure sb of sth / assure sb that…）；insure 主要指“投保”，美式英语中也可作“确保”讲。考研阅读和完形常考这三个词的辨析。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "Many farmers insure their crops against hail and flood.",
+     "zh": "许多农民为庄稼投保，以防冰雹和洪水。"
+    },
+    {
+     "en": "The policy insures the building and its contents against fire, theft, and storm damage.",
+     "zh": "这份保单为建筑物及其内部财物投保，防范火灾、盗窃和风暴损害。"
+    }
+   ]
+  },
+  {
+   "title": "省略关系代词的定语从句",
+   "explain": "关系代词 that、which、whom 在限制性定语从句中作宾语时可以省略。识别方法：名词后面直接跟“主语 + 谓语”，而且这个谓语动词缺宾语。本句 the horrors people dread 中，dread 是及物动词，后面没有宾语，它的宾语就是先行词 horrors，可还原为 the horrors that people dread。考研长难句中，这种名词后紧跟另一个主语的结构很常见，读到 people 时不要误以为开始了新句子。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "The risks investors fear most are often not the ones that hurt them.",
+     "zh": "投资者最害怕的风险，往往并不是真正让他们受损的那些。"
+    },
+    {
+     "en": "Few of the promises the government made before the election have been kept.",
+     "zh": "政府在选举前做出的承诺很少兑现。"
+    }
+   ]
+  },
+  {
+   "title": "不定式作目的状语",
+   "explain": "不定式放在句末，可说明主句动作的目的，意为“为了……”，强调目的时可写成 in order to 或 so as to。本句 to insure crops … against the horrors 说明种子库启用的目的。不定式的逻辑主语一般就是句子主语，本句是种子库为作物“投保”。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The city built a second reservoir to secure its water supply during droughts.",
+     "zh": "该市修建了第二座水库，以确保干旱期间的供水。"
+    }
+   ]
+  },
+  {
+   "title": "from A to B 表示范围",
+   "explain": "from A to B 除表示时间、空间的起止外，还常用来列举两端，概括一个范围，相当于“从 A 到 B 的各种……”，A 和 B 往往差别很大，用来强调范围之广。本句 from atomic war to disease 补充说明 horrors，一端是人为灾难，一端是自然灾害。写作中可用于概括，如 from education to healthcare。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The museum's collection covers everything from ancient coins to modern sculpture.",
+     "zh": "这家博物馆的藏品包罗万象，从古代钱币到现代雕塑都有。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "the Svalbard Global Seed Vault",
+   "explain": "斯瓦尔巴全球种子库，按本句所述于2008年2月在朗伊尔城附近启用，用来保存世界各地农作物种子的备份，常被称为“末日种子库”（本文标题中的 the Doomsday Vault）。vault 指地下储藏室或银行的保险库。"
+  },
+  {
+   "term": "Longyearbyen",
+   "explain": "朗伊尔城，位于斯匹次卑尔根岛，是斯瓦尔巴群岛最大的定居点和行政中心。"
+  },
+  {
+   "term": "such as",
+   "explain": "用来举例，所举的只是一部分，相当于汉语的“……等”“比如”；后接名词或名词短语，一般不接完整句子。for example 则可以单独作插入语，如 Some crops, for example rice, need a lot of water。"
+  },
+  {
+   "term": "the horrors",
+   "explain": "horror 作可数名词时指“可怕的事物，恐怖的经历”，常用复数，如 the horrors of war（战争的种种恐怖）。本句视频译为“可怕经历”。"
+  },
+  {
+   "term": "atomic war",
+   "explain": "即 nuclear war（核战争）。atomic 常见于 atomic bomb（原子弹）、atomic energy（原子能），视频译为“原子核战争”。"
+  },
+  {
+   "term": "dread",
+   "explain": "动词，意为“非常害怕，担心（将要发生的事）”，比 fear 语气更强，常接名词或 doing，如 dread going to the dentist；也可作名词，live in dread of sth（生活在对某事的恐惧中）。视频译为“非常害怕”。"
+  }
+ ],
+ "translation_tip": "视频译文“斯瓦尔巴全球种子库于2008年2月在朗伊尔城附近启用，为豆类、水稻和小麦等作物投保，以防范人们非常害怕的可怕经历，从原子核战争到疾病。”的处理：①时间状语和地点状语都移到谓语“启用”之前，按汉语“时间、地点、动作”的顺序排列。②被隔开的搭配 insure A against B 拆成两个分句：“为……作物投保”“以防范……”，“以”表示目的，把两层意思连起来。③such as 举例前置为“豆类、水稻和小麦等”，修饰“作物”。④省略关系代词的定语从句 people dread 前置为“人们非常害怕的”。⑤from A to B 保留在句末，作为补充说明。"
+},
+{
+ "n": 4,
+ "trunk": {
+  "subject": "It",
+  "predicate": "has",
+  "object_or_complement": "ample room",
+  "explain": "主干是 It has ample room，主谓宾结构。谓语 has 为一般现在时，陈述种子库的容量这一现状。"
+ },
+ "components": [
+  {
+   "text": "It",
+   "role": "主语（指上句的种子库）",
+   "zh": "它"
+  },
+  {
+   "text": "has",
+   "role": "谓语",
+   "zh": "有"
+  },
+  {
+   "text": "ample room",
+   "role": "宾语（room 为不可数名词，意为“空间”）",
+   "zh": "充足的空间"
+  },
+  {
+   "text": "for about four and a half million samples.",
+   "role": "后置定语（介词短语），修饰 room，说明空间供什么用",
+   "zh": "供约450万份样本使用"
+  }
+ ],
+ "structure": "①It 指上句的 The Svalbard Global Seed Vault。\n②主干 It has ample room 是主谓宾结构，room 在此是不可数名词，意为“空间”，ample 作前置定语。\n③for about four and a half million samples 是介词短语作后置定语，修饰 room，room for sth 表示“容纳某物的空间”。about 是副词，修饰数词，意为“大约”。four and a half million 即 4.5 million，million 前有具体数字，不加 s。\n④本句交代种子库的容量，视频说明补充了背景：这就是“末日种子库”，万一将来发生核战争或大瘟疫，人类还能靠库里的种子重新种地。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "大数字的表达与换算",
+   "explain": "hundred、thousand、million、billion 前面有具体数字时用单数，不加 s，也不加 of，如 four and a half million samples、two hundred people；表示不确定的“成千上万、数以百万计”时才用 thousands of、millions of。英语以三位数为一级（thousand、million、billion），汉语以四位数为一级（万、亿），换算时 1 million 等于100万，4.5 million 等于450万，1 billion 等于10亿。考研阅读中数字常出细节题，换算错误会直接导致选错。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "The city's population has grown to about two and a half million.",
+     "zh": "该市人口已增长到约250万。"
+    },
+    {
+     "en": "Millions of people watched the final on television.",
+     "zh": "数以百万计的人通过电视观看了决赛。"
+    }
+   ]
+  },
+  {
+   "title": "room 作不可数名词：空间，余地",
+   "explain": "room 作可数名词是“房间”；作不可数名词时意为“空间，地方”，常用 room for sth、room to do sth、make room for sth（腾出地方）。不可数的 room 前不加 a，可用 ample、enough、little、no 等修饰。它还可表示抽象的“余地”，如 room for improvement（改进的余地）、no room for doubt（不容置疑）。本句 ample room for … samples 意为“供样本存放的充足空间”。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "There is still plenty of room for improvement in the design.",
+     "zh": "这个设计仍有很大的改进余地。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "ample",
+   "explain": "形容词，“充足的，绰绰有余的”，比 enough 正式，多修饰不可数名词或复数名词，如 ample time、ample evidence、ample opportunities。视频译为“充足的”。"
+  },
+  {
+   "term": "末日种子库",
+   "explain": "视频说明：这就是大名鼎鼎的“末日种子库”，建在北极冻土里，存着各种农作物的种子；万一以后发生核战争或超级大瘟疫导致作物绝种，人类还能靠它取出种子重新种地。本文标题中的 the Doomsday Vault 即指它。"
+  },
+  {
+   "term": "sample",
+   "explain": "名词，“样本，样品”，本文指存入种子库的种子样本，第9句还提到 116,000 samples。也可作动词，意为“品尝；抽样调查”，如 sample local food。"
+  }
+ ],
+ "translation_tip": "视频译文“它有充足的空间，供约450万份样本使用。”的处理：①后置定语 for … samples 没有前置成“可供约450万份样本使用的充足空间”，而是拆成独立的分句放在后面，句子更短、更清楚。②介词 for 译成“供”，并增补动词“使用”，把“空间”与“样本”的关系说完整。③four and a half million 按汉语习惯换算为“450万”，增补量词“份”；about 译为“约”。"
+},
+{
+ "n": 5,
+ "trunk": {
+  "subject": "it",
+  "predicate": "is run",
+  "object_or_complement": "",
+  "explain": "主干是 it is run，被动语态，一般现在时；run 在此是及物动词，意为“经营，管理”，主动形式相当于 people run it。like 短语作方式状语，说明运营的方式。"
+ },
+ "components": [
+  {
+   "text": "Essentially",
+   "role": "状语（副词），修饰后面的名词短语，表示“从本质上说”",
+   "zh": "本质上"
+  },
+  {
+   "text": "the planet's ultimate backup,",
+   "role": "名词短语作状语，补充说明主语 it",
+   "zh": "作为这颗星球终极的备份"
+  },
+  {
+   "text": "it",
+   "role": "主语（指种子库）",
+   "zh": "它"
+  },
+  {
+   "text": "is run",
+   "role": "谓语（一般现在时的被动语态）",
+   "zh": "被运营"
+  },
+  {
+   "text": "like a bank's safe-deposit box.",
+   "role": "方式状语（介词短语，like 表示“像……一样”）",
+   "zh": "像银行的保险箱一样"
+  }
+ ],
+ "structure": "①句首 Essentially the planet's ultimate backup 是名词短语作状语，补充说明主语 it（视频说明）。这个名词短语与 it 指同一事物，前面可以补出 Being 或 As，即 As essentially the planet's ultimate backup, it …。Essentially 是副词，修饰整个名词短语；the planet's 是所有格，the planet 指地球；ultimate 作 backup 的定语。\n②主句 it is run like a bank's safe-deposit box：it 指种子库，is run 是一般现在时的被动语态，run 意为“经营，管理”；like a bank's safe-deposit box 是方式状语，用银行保险箱打比方。\n③本句是概括，下一句具体说明“像保险箱一样”的含义：存放者保有所有权，只有他们能取出种子。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "名词短语作状语，补充说明主语",
+   "explain": "名词短语可以放在句首，用逗号与主句隔开，说明主语的身份、性质或特点，并常隐含原因。它与主语指同一个人或事物，相当于省略了 being 的分词结构，或 as 引导的短语。本句 Essentially the planet's ultimate backup 说明 it（种子库）的性质，视频说明称其为“名词短语作状语，补充说明 it”，译文增补“作为”。阅读时要注意：句首的名词短语后面紧跟逗号和主语时，它不是主语，真正的主语在逗号之后。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "A keen gardener, she spends most weekends in her vegetable patch.",
+     "zh": "她是个热心的园艺爱好者，大多数周末都在菜园里度过。"
+    },
+    {
+     "en": "A former diplomat, he understands how fragile such agreements can be.",
+     "zh": "他曾是一名外交官，深知这类协议有多脆弱。"
+    }
+   ]
+  },
+  {
+   "title": "run 作及物动词“经营，管理”及其被动语态",
+   "explain": "run 除“跑”外，作及物动词时意为“经营，管理，主办”，宾语常是企业、机构、项目、活动，如 run a business、run a hotel、run a course。被动语态 be run by 常用来说明机构由谁运营，如 The school is run by a charity。本句 it is run like a bank's safe-deposit box 没有 by 短语，重点在运营方式。考研阅读中 run 的这一义项十分高频，不能一律理解成“跑”。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The shelter is run entirely by volunteers.",
+     "zh": "这家收容所完全由志愿者运营。"
+    }
+   ]
+  },
+  {
+   "title": "介词 like 与 as 的区别",
+   "explain": "like 作介词表示“像……一样”，是打比方，主语并不真的是后面的事物；as 作介词表示“作为，以……身份”，主语确实就是后面的事物。本句 is run like a bank's safe-deposit box 是比喻，种子库并不是银行保险箱，只是运营方式与之相似。比较 She works as a translator（她是翻译）与 She speaks like a translator（她说话像个翻译）。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "He spoke like a lawyer, though he had never studied law.",
+     "zh": "他说起话来像个律师，尽管他从没学过法律。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "safe-deposit box",
+   "explain": "银行出租给客户、存放贵重物品的保管箱，也叫 safety-deposit box；箱内物品仍归租用者所有，银行只负责保管。视频译为“保险箱”。本句用它比喻种子库的运营方式。"
+  },
+  {
+   "term": "backup",
+   "explain": "名词，“备份，后备”，写成一个词，如 a backup copy（备份副本）、backup power（备用电源）；动词短语 back up 分开写，意为“备份；支持”。本句 the planet's ultimate backup 把种子库比作整个地球农作物的备份。"
+  },
+  {
+   "term": "ultimate",
+   "explain": "形容词，“终极的，最后的；根本的”，如 the ultimate goal（最终目标）、the ultimate responsibility（根本责任）。视频译为“终极的”。"
+  },
+  {
+   "term": "the planet",
+   "explain": "外刊中常用 the planet 指地球，与 the earth、the world 同义，多见于环境、气候类文章。视频译为“这颗星球”。"
+  }
+ ],
+ "translation_tip": "视频译文“本质上，作为这颗星球终极的备份，它像银行的保险箱一样被运营。”的处理：①Essentially 单独译为“本质上”，放在句首，用逗号断开。②名词短语作状语，增补“作为”，点明它与主语“它”的关系。③the planet's 译为“这颗星球”，增补量词“颗”。④被动语态 is run 保留“被”字，译为“被运营”；方式状语 like 短语前置为“像银行的保险箱一样”。"
+},
+{
+ "n": 6,
+ "trunk": {
+  "subject": "Depositors；only they",
+  "predicate": "keep；can take … out",
+  "object_or_complement": "ownership（前一分句的宾语）；their seeds（后一分句的宾语）",
+  "explain": "本句是 and 连接的并列句。前一分句 Depositors keep ownership 是主谓宾结构，一般现在时；后一分句 only they can take their seeds out 也是主谓宾结构，谓语是情态动词 can 加短语动词 take … out（视频说明：take A out，把 A 取出），表示“能够”。"
+ },
+ "components": [
+  {
+   "text": "Depositors",
+   "role": "主语（前一分句）",
+   "zh": "存放者"
+  },
+  {
+   "text": "keep",
+   "role": "谓语（前一分句）",
+   "zh": "保有"
+  },
+  {
+   "text": "ownership,",
+   "role": "宾语（前一分句）",
+   "zh": "所有权"
+  },
+  {
+   "text": "and",
+   "role": "并列连词",
+   "zh": "并且"
+  },
+  {
+   "text": "only they",
+   "role": "主语（后一分句；only 修饰 they，强调“只有”）",
+   "zh": "只有他们"
+  },
+  {
+   "text": "can take",
+   "role": "谓语（情态动词 can + take，与句末 out 构成 take A out）",
+   "zh": "能取出"
+  },
+  {
+   "text": "their seeds out.",
+   "role": "宾语 their seeds + 副词小品词 out（take A out：把 A 取出）",
+   "zh": "他们的种子"
+  }
+ ],
+ "structure": "①and 连接两个并列分句，共同说明上句“像银行的保险箱一样被运营”的具体含义。\n②前一分句 Depositors keep ownership：Depositors 指把种子存入种子库的一方，与上句 bank、safe-deposit box 的比喻呼应；keep 意为“保有”，ownership 是不可数名词。\n③后一分句 only they can take their seeds out：only 修饰主语 they，they 指 depositors；can 表示能力和许可；take their seeds out 是 take A out 结构（视频说明），名词宾语 their seeds 放在 take 和 out 之间。\n④两个分句一个讲权属，一个讲取用权限，逻辑上是并列补充关系。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "only 修饰主语时不倒装",
+   "explain": "only 放在主语前修饰主语时，句子用正常语序，如本句 only they can take their seeds out；only 修饰状语（副词、介词短语、状语从句）并放在句首时，主句才要部分倒装，如 Only then did they realise the danger。考研翻译和写作中常考这一区别：Only the board can approve it 不倒装，Only after the vote can the plan proceed 要倒装。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "Only the board can approve a merger of this size.",
+     "zh": "只有董事会才能批准这种规模的合并。"
+    },
+    {
+     "en": "Only after the results were published did the public learn the truth.",
+     "zh": "直到结果公布之后，公众才得知真相。"
+    }
+   ]
+  },
+  {
+   "title": "短语动词 take A out 的宾语位置",
+   "explain": "“动词 + 副词小品词”构成的短语动词（take out、put away、turn off 等），名词作宾语时可以放在中间，也可以放在后面：take their seeds out 和 take out their seeds 都对；代词作宾语时只能放在中间：take them out，不能说 take out them。本句宾语是名词短语 their seeds，放在中间，视频说明标为 take A out（把 A 取出）。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "She opened the drawer and took the documents out.",
+     "zh": "她打开抽屉，把文件取了出来。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "depositor",
+   "explain": "名词，由 deposit（存放，存入）加 -or 构成，指存放东西的人或机构；在银行语境中指“存款人”。本句指把种子存入种子库的一方，视频译为“存放者”。"
+  },
+  {
+   "term": "keep ownership",
+   "explain": "保有所有权，也说 retain ownership。ownership 是不可数名词，常见搭配有 home ownership（住房自有）、public ownership（公有制）、take ownership of sth（取得所有权；对某事负起责任）。"
+  },
+  {
+   "term": "take out",
+   "explain": "本句意为“取出”。take out 还常表示“贷款，办理（保险）”，如 take out a loan、take out insurance，考研阅读中经常出现。"
+  }
+ ],
+ "translation_tip": "视频译文“存放者保有所有权，并且只有他们能取出他们的种子。”的处理：①两个分句顺序不变，and 译为“并且”。②keep ownership 译为“保有所有权”，“保有”比“保持”更贴合权属关系。③only they 译为“只有他们”，与“能”搭配。④take their seeds out 按视频说明（把 A 取出）译为“取出他们的种子”，宾语放在“取出”之后；their 照实译出“他们的”，强调种子归存放者所有。"
+}
+]

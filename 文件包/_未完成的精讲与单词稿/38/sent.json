@@ -1,0 +1,1664 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Dutch merchants and brokers",
+   "predicate": "met",
+   "object_or_complement": "",
+   "explain": "主干是 Dutch merchants and brokers met，主谓结构；meet 在此是不及物动词，意为“聚会，碰头”，in taverns 说明地点，to trade… 说明目的。谓语 met 是 meet 的过去式，一般过去时，主动语态，叙述过去的情形。"
+  },
+  "components": [
+   {
+    "text": "In the winter of 1636–37,",
+    "role": "时间状语（介词短语）",
+    "zh": "1636至1637年的冬天"
+   },
+   {
+    "text": "Dutch merchants and brokers",
+    "role": "主语（两个并列名词，Dutch 同时修饰 merchants 和 brokers）",
+    "zh": "荷兰的商人和经纪人"
+   },
+   {
+    "text": "met",
+    "role": "谓语（不及物动词）",
+    "zh": "聚"
+   },
+   {
+    "text": "in taverns",
+    "role": "地点状语（介词短语）",
+    "zh": "在小酒馆里"
+   },
+   {
+    "text": "to trade",
+    "role": "目的状语（动词不定式短语）中的不定式",
+    "zh": "买卖"
+   },
+   {
+    "text": "contracts",
+    "role": "不定式 to trade 的宾语",
+    "zh": "合同"
+   },
+   {
+    "text": "for tulip bulbs",
+    "role": "后置定语（介词短语），修饰 contracts，说明合同的标的",
+    "zh": "郁金香球茎的"
+   },
+   {
+    "text": "still in the ground,",
+    "role": "后置定语（副词 still + 介词短语），修饰 tulip bulbs",
+    "zh": "尚埋在地下的"
+   },
+   {
+    "text": "a speculative business",
+    "role": "同位语（名词短语），概括说明前面这种买卖",
+    "zh": "这是一门投机生意"
+   },
+   {
+    "text": "they called windhandel,",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 business；windhandel 作宾语补足语",
+    "zh": "他们称之为windhandel"
+   },
+   {
+    "text": "\"trading in the wind\".",
+    "role": "同位语，用英语解释荷兰语词 windhandel",
+    "zh": "也就是“风中交易”"
+   }
+  ],
+  "structure": "①主句是 Dutch merchants and brokers met in taverns：主语是并列名词 merchants and brokers，形容词 Dutch 同时修饰两个名词；谓语 met 不带宾语，in taverns 作地点状语。句首介词短语 In the winter of 1636–37 作时间状语，交代这场交易发生在跨越两个年份的那个冬天。\n②to trade contracts for tulip bulbs still in the ground 是不定式短语作目的状语，说明聚会是为了做买卖。to trade 的宾语是 contracts；for tulip bulbs 作 contracts 的后置定语，说明合同买卖的是郁金香球茎；still in the ground 又作 tulip bulbs 的后置定语，相当于 which were still in the ground，说明球茎还埋在地下，尚未挖出交货。\n③逗号后的 a speculative business 是名词短语作同位语，视频说明：同位语，补充说明这种买卖。它没有对应某一个具体名词，而是概括前面“在小酒馆里买卖尚在地下的球茎的合同”这件事，并给它定性：投机。\n④they called windhandel 是省略关系代词的限制性定语从句，修饰 business，完整形式为 a speculative business (that/which) they called windhandel。被省略的关系代词在从句中作 called 的宾语，windhandel 是宾语补足语，构成 call sth sth（把某事称作……）。\n⑤句末的 \"trading in the wind\" 是 windhandel 的同位语，用英语解释这个荷兰语词的字面意思。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语，概括前面整件事",
+    "explain": "同位语一般紧跟在名词之后，说明它是谁、是什么；放在句末、用逗号隔开的名词短语还可以概括或评价前面整个分句所说的事，这时它说明的不是某一个名词，而是前文整件事。本句 a speculative business 指的就是商人和经纪人在小酒馆里买卖尚在地下的球茎合同这件事，作者借它给这种买卖定性。这类同位语的中心名词后面常再接定语从句或分词短语（本句接 they called windhandel），信息量大，是外刊常用的写法。翻译时常拆成独立的句子，加“这是”“此举”等词回指前文，视频就另起一句“这是一门投机生意”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its prices by half, a move that surprised even its closest rivals.",
+      "zh": "这家公司把价格砍掉了一半，此举连它最接近的竞争对手都感到意外。"
+     },
+     {
+      "en": "Thousands of residents queued overnight for the new flats, a scene rarely witnessed in the city.",
+      "zh": "数千名居民通宵排队等候购买新公寓，这是该市少见的景象。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句与 call sth sth",
+    "explain": "关系代词 that、which 在限制性定语从句中作宾语时可以省略。本句 a speculative business they called windhandel 中，名词 business 后紧跟“主语 they + 谓语 called”，说明中间省略了关系代词，它在从句中作 called 的宾语。call 在这里带复合宾语，即“call + 宾语 + 名词作宾语补足语”，意为“把……称作……”，还原成简单句就是 they called the business windhandel。考研阅读中，名词后直接跟“代词主语 + 动词”时，要能识别出这是省略关系代词的定语从句；name、elect、appoint、consider 等动词也常用“宾语 + 名词宾补”的结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The scheme the government called a fresh start for farmers has left many of them deeper in debt.",
+      "zh": "政府称之为农民“新起点”的这项计划，反而让许多农民负债更重。"
+     },
+     {
+      "en": "The young pianist the critics called a genius at twelve later gave up music altogether.",
+      "zh": "那位十二岁时就被评论家称为天才的年轻钢琴家，后来彻底放弃了音乐。"
+     }
+    ]
+   },
+   {
+    "title": "动词不定式作目的状语",
+    "explain": "不定式短语放在谓语之后，可以说明动作的目的，相当于 in order to do 或 so as to do。本句 met in taverns to trade contracts 中，to trade… 说明“聚在小酒馆里”是为了“买卖合同”。目的状语也可以放在句首以示强调，这时不定式的逻辑主语必须与句子主语一致。翻译时目的状语常顺译，不必每次都译出“为了”，视频直接译为“聚在小酒馆里，买卖……合同”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Thousands of fans gathered outside the stadium to celebrate the team's victory.",
+      "zh": "数千名球迷聚集在体育场外，庆祝球队获胜。"
+     }
+    ]
+   },
+   {
+    "title": "“副词 + 介词短语”作后置定语",
+    "explain": "介词短语以及由副词加介词短语构成的修饰语，修饰名词时一般放在名词之后。本句 tulip bulbs still in the ground 中，still in the ground 修饰 bulbs，相当于定语从句 which were still in the ground，副词 still 强调球茎“仍然”在地下，交易时还没有实物。汉语定语放在名词前，所以视频译为“尚埋在地下的郁金香球茎”，“埋”是根据 in the ground 增补的动词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Investors poured money into firms still at the planning stage.",
+      "zh": "投资者把钱投进了仍处于规划阶段的公司。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "windhandel",
+    "explain": "荷兰语词，文中用引号给出英语解释 trading in the wind，视频译为“风中交易”。它说的正是本句所写的买卖：成交的是还埋在地下的球茎的合同，交易时双方手里都没有实物，像是在风里做买卖。外来词在英语中常用斜体或引号标出，本句用同位语说明它的含义。"
+   },
+   {
+    "term": "the winter of 1636–37",
+    "explain": "年份范围的简写：第二个年份只写后两位，中间用连接号，意为“1636至1637年”。冬天跨越年底和年初两个年份，所以写成这种形式。"
+   },
+   {
+    "term": "bulb",
+    "explain": "名词，本句指郁金香等植物埋在土里的球状部分，视频译为“球茎”；更常见的意思是“灯泡”（a light bulb）。"
+   },
+   {
+    "term": "trade sth / trade in sth",
+    "explain": "trade 作及物动词，意为“买卖，交易”，如 trade shares（买卖股票）；trade contracts 指买卖合同本身，即把尚未交货的合同转手。trade in sth 意为“经营，做……的生意”，如 trade in furs（做毛皮生意）；句末的 trading in the wind 用的正是这个结构。"
+   },
+   {
+    "term": "merchants and brokers",
+    "explain": "merchant 指商人，尤其是做批发、进出口的贸易商；broker 指替人买卖、从中收取佣金的经纪人。两种人一起出现，说明这场交易既有买卖双方，也有居间撮合的中间人。"
+   }
+  ],
+  "translation_tip": "视频译文分两句处理：①主句和目的状语顺译为“荷兰的商人和经纪人聚在小酒馆里，买卖……合同”，不定式 to trade 直接译为“买卖”，不加“为了”；Dutch 译为“荷兰的”，同时管 merchants 和 brokers。②两层后置定语 for tulip bulbs 和 still in the ground 都前移：先译 still in the ground（尚埋在地下的），再译 tulip bulbs（郁金香球茎的），最后落到中心词“合同”，并增补动词“埋”。③句末同位语 a speculative business 连同定语从句拆出另起一句，用“这是一门”回指前面的买卖；省略关系代词的定语从句 they called windhandel 译成“他们称之为windhandel”，同位语 trading in the wind 用“也就是”引出。④时间状语保留在句首，译为“1636至1637年的冬天”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Prices",
+   "predicate": "soared",
+   "object_or_complement": "",
+   "explain": "主干是 Prices soared，主谓结构；soar 是不及物动词，不带宾语。谓语 soared 为一般过去时，主动语态。主语 Prices 后面跟着后置定语和插入语，谓语直到句末才出现。"
+  },
+  "components": [
+   {
+    "text": "Prices",
+    "role": "主语",
+    "zh": "价格"
+   },
+   {
+    "text": "of prized \"broken\" tulips,",
+    "role": "后置定语（介词短语），修饰 Prices",
+    "zh": "名贵的“碎色”郁金香"
+   },
+   {
+    "text": "with streaked petals,",
+    "role": "插入语（介词短语），说明碎色郁金香的样子",
+    "zh": "有着带条纹的花瓣"
+   },
+   {
+    "text": "soared.",
+    "role": "谓语（不及物动词）",
+    "zh": "一路飙升/猛涨"
+   }
+  ],
+  "structure": "①主句是 Prices soared，主语 Prices 和谓语 soared 被中间的修饰成分隔开，形成“主语长、谓语短”的结构，读的时候要越过两个逗号找到谓语。\n②of prized \"broken\" tulips 是介词短语作 Prices 的后置定语，说明是什么东西的价格。prized 是由过去分词转化来的形容词，意为“珍贵的，被看重的”；\"broken\" 也是 tulips 的前置定语，加引号表示这是对这类花的特定叫法，不是“破损的”。\n③with streaked petals 是介词短语，前后用逗号隔开，视频说明：介词短语作插入语，说明碎色郁金香的样子。with 表示“带有，具有”，streaked 意为“带条纹的”。\n④谓语的数由中心词 Prices（复数）决定，不受离谓语更近的 tulips、petals 影响。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "主语带长修饰语时的主谓一致",
+    "explain": "主语带有较长的后置定语或插入语时，谓语的单复数要看主语的中心词，而不是离谓语最近的名词。本句主语中心词是 Prices，后置定语 of prized \"broken\" tulips 和插入语 with streaked petals 都不影响谓语的数。soared 是过去式，看不出单复数，若改成一般现在时就应写成 Prices … soar。考研完形和写作中，The price of these goods has risen 与 Prices of these goods have risen 的对比是常见考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The cost of repairs to the old bridges has risen sharply this year.",
+      "zh": "今年修缮那些旧桥的费用大幅上涨。"
+     },
+     {
+      "en": "The quality of the photos taken with these cheap phones is surprisingly good.",
+      "zh": "用这些廉价手机拍出的照片质量出奇地好。"
+     }
+    ]
+   },
+   {
+    "title": "with 介词短语表示特征",
+    "explain": "with + 名词短语可以说明人或事物具有的特征、外观，相当于 having 或定语从句 which have…。本句 with streaked petals 说明碎色郁金香的花瓣带有条纹，前后有逗号，作插入语，补充说明花的样子。不加逗号时，with 短语常直接作后置定语，如 a girl with long hair。翻译时可译成“有着……”“带着……”，视频译为“有着带条纹的花瓣”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Visitors were drawn to a small house with a bright red door.",
+      "zh": "游客们被一栋红门鲜艳的小房子吸引。"
+     }
+    ]
+   },
+   {
+    "title": "分词转化来的形容词作前置定语",
+    "explain": "不少过去分词已经转化为形容词，放在名词前作定语，带有被动或完成的意味。prized 来自动词 prize（珍视），意为“被珍视的，珍贵的”，如 a prized possession（珍爱之物）；streaked 来自 streak（使有条纹），意为“带条纹的”，也常用 be streaked with sth（带有……的条纹）。阅读时要把它们当形容词理解，不要误认为谓语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum's most prized exhibit is a letter written by the poet herself.",
+      "zh": "博物馆最珍贵的展品是一封诗人亲笔写的信。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "\"broken\" tulips",
+    "explain": "熟词僻义：broken 在这里不是“破损的”，而是指郁金香花色“碎裂”，单色的花瓣上出现火焰般的条纹或斑纹，视频译为“碎色”。后来人们查明，这种花纹是由一种病毒（tulip breaking virus）引起的。这类花纹奇特的郁金香在当时最受追捧，所以本句说它们 prized（名贵的）。"
+   },
+   {
+    "term": "prized",
+    "explain": "形容词，珍贵的，备受珍视的，如 a prized possession（珍爱之物）。本句视频译为“名贵的”。动词 prize 意为“珍视”，名词 prize 意为“奖品，奖金”。"
+   },
+   {
+    "term": "soar 与 collapse",
+    "explain": "描写价格变化的常用动词：上涨用 rise、climb、soar（飙升）、surge；下跌用 fall、drop、plunge、collapse（暴跌）、slump。本文第2句的 soared 与第6句的 collapsed 一升一跌，前后呼应。"
+   }
+  ],
+  "translation_tip": "①英文主语是“价格”，中心词在前、修饰语在后；视频把后置定语 of prized \"broken\" tulips 提到前面作话题，先说“名贵的“碎色”郁金香”，最后再说“价格”，形成汉语常见的“话题 + 说明”结构。②插入语 with streaked petals 保留在中间，译成“有着带条纹的花瓣”，补充花的样子。③谓语 soared 译为“飙升/猛涨”，并增补“一路”，表现价格持续上涨。④prized 译为“名贵的”，broken 保留引号，译为“碎色”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "no one",
+   "predicate": "would bid",
+   "object_or_complement": "",
+   "explain": "主干是 no one would bid，主谓结构；bid 在这里是不及物动词，意为“出价”。would 是情态动词，表示过去的意愿，no one would bid 即没有人愿意出价；谓语是 would + 动词原形，用于叙述过去的情况。"
+  },
+  "components": [
+   {
+    "text": "In early February 1637,",
+    "role": "时间状语（介词短语）",
+    "zh": "1637年2月初"
+   },
+   {
+    "text": "at a sale",
+    "role": "地点状语（介词短语）",
+    "zh": "在……的一场交易会上"
+   },
+   {
+    "text": "in Haarlem,",
+    "role": "后置定语（介词短语），修饰 a sale",
+    "zh": "哈勒姆"
+   },
+   {
+    "text": "the hub of the trade,",
+    "role": "同位语，说明 Haarlem",
+    "zh": "交易中心"
+   },
+   {
+    "text": "no one",
+    "role": "主语（不定代词，表示全部否定）",
+    "zh": "无人"
+   },
+   {
+    "text": "would bid.",
+    "role": "谓语（情态动词 would 表示过去的意愿）",
+    "zh": "出价"
+   }
+  ],
+  "structure": "①主句是 no one would bid，主语 no one 是表示否定的不定代词，谓语 would bid。主句前有两个状语，主语直到句尾才出现。\n②In early February 1637 是时间状语，early 修饰 February，表示“月初”。\n③at a sale in Haarlem 是地点状语，in Haarlem 作 a sale 的后置定语，说明交易会在哪座城市举行。\n④the hub of the trade 是同位语，紧跟在 Haarlem 之后，说明这座城市是郁金香交易的中心；of the trade 作 hub 的后置定语，the trade 回指第1段所说的郁金香买卖。视频说明：the hub of the trade 同位语，说明 Haarlem。\n⑤would 在这里不表示虚拟或推测，而表示过去的意愿：交易中心的交易会上没有一个人愿意出价，这是本段写行情逆转的开端，下文接着写价格暴跌。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "would 表示过去的意愿",
+    "explain": "would 是 will 的过去式，除了用于虚拟语气和过去将来时，还可以表示过去的意愿或决心；否定形式 would not 常表示“不肯，不愿”，主语可以是人，也可以是物，如 The car wouldn't start（车怎么也发动不起来）。本句视频说明：would 表示过去的意愿，no one would bid 即没有人愿意出价。考研阅读中要根据语境区分 would 的用法：叙述过去事实的句子里，would 与否定词连用往往表示“拒绝”，不是推测。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She asked him several times, but he would not tell her where he had been.",
+      "zh": "她问了他好几次，可他就是不肯告诉她自己去了哪里。"
+     },
+     {
+      "en": "The door was jammed and wouldn't open, no matter how hard we pushed.",
+      "zh": "门卡住了，无论我们怎么用力推都打不开。"
+     }
+    ]
+   },
+   {
+    "title": "同位语说明专有名词",
+    "explain": "同位语是对前面名词的补充说明，与它指同一对象，常用逗号隔开。地名、人名后接同位语交代其身份或特点，是外刊的常用写法，为不熟悉背景的读者提供必要信息。本句 Haarlem, the hub of the trade 告诉读者哈勒姆是郁金香交易的中心，交易中心都无人出价，可见市场已经逆转。翻译时较短的同位语常前置为定语，视频译为“交易中心哈勒姆”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The summit was held in Geneva, a city long associated with international diplomacy.",
+      "zh": "峰会在日内瓦举行，这座城市长期以来与国际外交联系在一起。"
+     }
+    ]
+   },
+   {
+    "title": "no one 表示全部否定",
+    "explain": "no one（也作 nobody）意为“没有人”，作主语时谓语用单数，属于全部否定，相当于 not anyone；not everyone 才是部分否定（并非人人都）。否定词放在主语上，整句就是否定句，汉语常译成“无人”“没有人”。no one 一般写成两个词，英式英语也写作 no-one。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "No one in the room was willing to speak first.",
+      "zh": "屋里没有一个人愿意先开口。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Haarlem",
+    "explain": "荷兰西部城市，北荷兰省省会，位于阿姆斯特丹以西，视频译为“哈勒姆”。纽约的哈莱姆区（Harlem）就是早期荷兰移民用这座城市的名字命名的。"
+   },
+   {
+    "term": "sale",
+    "explain": "名词，除“出售，销售”外，还可指一场拍卖会、交易会或减价销售。本句 a sale 指郁金香的交易会，视频译为“交易会”。复数 sales 常指销售额、销量。"
+   },
+   {
+    "term": "the trade",
+    "explain": "the trade 回指上文已经提到的那种买卖，即郁金香交易，视频译为“交易”。trade 作名词还可指某一行业，如 the tourist trade（旅游业）。"
+   },
+   {
+    "term": "in early February",
+    "explain": "early、mid、late 加月份、年份或年代，表示“初、中、末”，如 in early February（2月初）、in the late 1990s（20世纪90年代末）。前面要用介词 in。"
+   }
+  ],
+  "translation_tip": "①时间状语和地点状语按原顺序放在句首，地点状语译成“在……上”的框式结构。②同位语 the hub of the trade 前置为“交易中心”，与地名合成“交易中心哈勒姆”，再修饰“交易会”，形成“在交易中心哈勒姆的一场交易会上”；不定冠词 a 译为“一场”。③主语 no one 和谓语 would bid 合译为“无人出价”，简洁有力，would 所表示的“不愿”已经包含在“无人出价”之中。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "one bulb",
+   "predicate": "fetched",
+   "object_or_complement": "5,200 guilders",
+   "explain": "主干是 one bulb fetched 5,200 guilders，主谓宾结构。fetch 在这里意为“卖得（某个价钱）”，主语是被卖的东西，宾语是价钱。谓语 fetched 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Days later,",
+    "role": "时间状语",
+    "zh": "几天后"
+   },
+   {
+    "text": "at an auction",
+    "role": "地点状语（介词短语）",
+    "zh": "在……的一场拍卖会上"
+   },
+   {
+    "text": "in Alkmaar,",
+    "role": "后置定语（介词短语），修饰 an auction",
+    "zh": "阿尔克马尔"
+   },
+   {
+    "text": "one bulb",
+    "role": "主语",
+    "zh": "一只球茎"
+   },
+   {
+    "text": "still",
+    "role": "状语（副词），与上句无人出价形成对比",
+    "zh": "仍"
+   },
+   {
+    "text": "fetched",
+    "role": "谓语",
+    "zh": "卖出了"
+   },
+   {
+    "text": "5,200 guilders,",
+    "role": "宾语",
+    "zh": "5,200荷兰盾"
+   },
+   {
+    "text": "the Dutch currency of the day,",
+    "role": "同位语，说明 guilders",
+    "zh": "当时荷兰的货币"
+   },
+   {
+    "text": "more than a decade's wages for a skilled craftsman.",
+    "role": "同位语，换算 5,200 guilders 这笔钱的价值",
+    "zh": "比一名熟练工匠十多年的工钱还多"
+   }
+  ],
+  "structure": "①主句是 one bulb still fetched 5,200 guilders：主语 one bulb，谓语 fetched，宾语 5,200 guilders；still 作状语，意为“仍然”，与上句交易会上无人出价形成对比。\n②Days later 是时间状语，名词 days 加副词 later，意为“几天之后”。at an auction in Alkmaar 是地点状语，in Alkmaar 修饰 an auction。\n③宾语后面接了两个同位语。第一个 the Dutch currency of the day 说明 guilders 是当时荷兰的货币，of the day 意为“当时的”。第二个 more than a decade's wages for a skilled craftsman 把 5,200 guilders 换算成工匠的收入，视频说明：同位语，换算这笔钱。它以 more than 开头，形式上像比较结构，实际上是以 wages 为中心词的名词短语，more than 修饰 a decade's，表示“十多年的”。\n④a decade's wages 是名词所有格表示时间量，即“十年的工钱”；for a skilled craftsman 作 wages 的后置定语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语连用",
+    "explain": "一个名词后面可以接两个或更多同位语，分别从不同角度加以说明。本句宾语 5,200 guilders 后，第一个同位语 the Dutch currency of the day 解释 guilders 是什么货币，第二个同位语 more than a decade's wages for a skilled craftsman 告诉读者这笔钱相当于多少收入。阅读时要把每个同位语和它说明的对象对应起来，不被一串逗号打乱；第二个同位语以 more than 开头，不要误当作比较状语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The painting sold for two million dollars, roughly twice its estimated value, the highest price ever paid for the artist's work.",
+      "zh": "这幅画以200万美元售出，约为估价的两倍，是这位画家作品有史以来的最高成交价。"
+     },
+     {
+      "en": "We were met by Dr Lee, the director of the clinic, a woman who had worked there for thirty years.",
+      "zh": "迎接我们的是李医生，诊所的主任，一位在那里工作了三十年的女士。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格表示时间量",
+    "explain": "表示时间、距离、价值的名词可以用 's 所有格修饰另一个名词，表示数量，如 a decade's wages（十年的工钱）、a week's holiday（一周的假期）、ten minutes' walk（步行十分钟的路程）。以 s 结尾的复数名词只加撇号，如 ten minutes'。本句 more than a decade's wages 意为“十多年的工钱”。写作中也可以用复合形容词表达，如 a ten-minute walk，这时名词用单数，不加 s。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hotel is only five minutes' walk from the station.",
+      "zh": "这家酒店离车站步行只要五分钟。"
+     }
+    ]
+   },
+   {
+    "title": "副词 still 表示对比",
+    "explain": "still 一般放在实义动词前、助动词或 be 动词后，意为“仍然”，强调某种情况在人们预料会改变时依然存在。本句 one bulb still fetched 5,200 guilders 与上句的无人出价对照：交易会上已经冷场，几天后的拍卖会上却还有球茎卖出高价。视频译为“仍”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Although the shop had raised its prices, customers still queued outside every morning.",
+      "zh": "虽然那家店涨了价，每天早上门外仍排着长队。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fetch",
+    "explain": "熟词僻义：常见义是“去拿来”，本句指商品出售时“卖得（某个价钱）”，主语是物品，宾语是金额，如 The house fetched £500,000。视频说明：fetch 卖得某个价钱，视频译为“卖出了”。"
+   },
+   {
+    "term": "guilder",
+    "explain": "荷兰盾，荷兰过去的货币单位，2002年被欧元取代，视频译为“荷兰盾”。本句 the Dutch currency of the day 就是为不熟悉这种货币的读者所作的说明。"
+   },
+   {
+    "term": "Alkmaar",
+    "explain": "荷兰北荷兰省的城市，位于哈勒姆以北，视频译为“阿尔克马尔”。"
+   },
+   {
+    "term": "of the day",
+    "explain": "放在名词后作后置定语，意为“当时的”，如 the leading writers of the day（当时的主要作家）。视频把 the Dutch currency of the day 译为“当时荷兰的货币”。"
+   }
+  ],
+  "translation_tip": "①时间、地点状语保留在句首，in Alkmaar 前置为“阿尔克马尔的”，修饰“一场拍卖会”。②still 译为“仍”，fetched 译为“卖出了”。③第一个同位语 the Dutch currency of the day 留在原位，用破折号隔开插入，of the day 前置，译为“当时荷兰的货币”。④第二个同位语 more than a decade's wages for a skilled craftsman 转成汉语的比较句“比一名熟练工匠十多年的工钱还多”，把英文的名词短语变成“比……还多”的说明，突出价格之高；后置定语 for a skilled craftsman 前置为“一名熟练工匠”的。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "the frenzy",
+   "predicate": "was",
+   "object_or_complement": "over",
+   "explain": "主干是 the frenzy was over，主系表结构；over 是副词，作表语，意为“结束了”。谓语 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "But",
+    "role": "并列连词，表示转折",
+    "zh": "但是"
+   },
+   {
+    "text": "the frenzy",
+    "role": "主语",
+    "zh": "这场狂热"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 over 合译为“已经结束了”）"
+   },
+   {
+    "text": "over.",
+    "role": "表语（副词，表示结束）",
+    "zh": "已经结束了"
+   }
+  ],
+  "structure": "①But 连接上句，表示转折：上句说一只球茎仍卖出了高价，本句随即指出狂热已经结束，个别高价改变不了大局。\n②主句 the frenzy was over 是主系表结构，系动词 was 加副词 over 作表语，描述“已经结束”的状态。\n③the frenzy 用定冠词 the，回指第1段描述的抢购郁金香合同的热潮。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be over 表示“结束”",
+    "explain": "over 作副词可以作表语，be over 表示某事已经结束，强调结束后的状态，如 The meeting is over（会议结束了）。它和动词 end 的区别在于：be over 是系表结构，描述状态；end 是实义动词，描述“结束”这个动作。本句 the frenzy was over 描述的是一种状态，视频译为“已经结束了”，“已经”体现的就是这种状态。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the ambulance arrived, the worst of the storm was over.",
+      "zh": "等救护车赶到时，暴风雨最猛烈的时候已经过去了。"
+     }
+    ]
+   },
+   {
+    "title": "But 位于句首表示转折",
+    "explain": "But、And、Yet、So 等并列连词可以放在句首，连接上一句，外刊和正式写作中都很常见。本句 But 从“仍卖出高价”转到“狂热已经结束”，一个短句紧跟在长句之后，节奏上形成强烈对比。写作时句首的 But 后面一般不加逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked perfect on paper. But it fell apart within weeks.",
+      "zh": "这个计划在纸面上看起来完美无缺，但它在几周之内就失败了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "frenzy / mania / hysteria",
+    "explain": "本文用三个词形容这场抢购潮：本句的 frenzy 强调一阵狂乱、失控的活动，如 a buying frenzy（抢购狂潮）；第10句的 mania 强调大规模的狂热；第8句的 hysteria 强调情绪失控。视频分别译为“狂热”“狂热”“歇斯底里”。"
+   },
+   {
+    "term": "over",
+    "explain": "熟词僻义：over 除了作介词表示“在……上方”“越过”，还常作副词表示“结束，完了”，如 Game over（游戏结束）、It's all over（一切都结束了）。"
+   }
+  ],
+  "translation_tip": "①But 译为“但是”，放在句首，与英文一致。②the frenzy 中的定冠词译为“这场”，回指前文的热潮，并补出量词“场”。③was over 译为“已经结束了”，增补“已经”，体现 be over 所表示的状态。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Prices；many buyers；unsettled contracts（三个并列分句各自的主语）",
+   "predicate": "collapsed；defaulted；piled up",
+   "object_or_complement": "",
+   "explain": "本句由三个并列分句构成，用 A, B, and C 的格式连接：Prices collapsed、many buyers defaulted、unsettled contracts piled up，三个都是主谓结构，谓语 collapsed、defaulted、piled up 都不带宾语。三个谓语均为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Prices",
+    "role": "主语一",
+    "zh": "价格"
+   },
+   {
+    "text": "collapsed,",
+    "role": "谓语一（不及物动词）",
+    "zh": "暴跌"
+   },
+   {
+    "text": "many buyers",
+    "role": "主语二",
+    "zh": "大量买家"
+   },
+   {
+    "text": "defaulted,",
+    "role": "谓语二（不及物动词）",
+    "zh": "违约"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接第三个分句",
+    "zh": "（并列连词，不单独译出）"
+   },
+   {
+    "text": "unsettled",
+    "role": "前置定语（形容词），修饰 contracts",
+    "zh": "未结算的"
+   },
+   {
+    "text": "contracts",
+    "role": "主语三",
+    "zh": "合同"
+   },
+   {
+    "text": "piled up.",
+    "role": "谓语三（不及物的短语动词）",
+    "zh": "越积越多"
+   }
+  ],
+  "structure": "①三个分句按事态发展的顺序排列：价格暴跌，买家违约，没结算的合同越积越多。三个分句用逗号隔开，最后一个分句前加 and，and 前的逗号是牛津逗号。\n②collapsed 和 defaulted 都是不及物动词的过去式，作谓语。default 意为“违约，不履行（付款等）义务”，后面常接 on，如 default on a loan，本句不带介词。\n③unsettled 是形容词，作 contracts 的前置定语，un- 表示否定，unsettled contracts 即“还没有结算的合同”。piled up 是短语动词 pile up 的过去式，不带宾语，表示不断堆积。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "三个并列分句与牛津逗号",
+    "explain": "几个结构相同的分句可以用逗号和并列连词连接成一个并列句，三项及以上时写成 A, B, and C，末项前的 and 不能省，and 前的逗号叫牛津逗号。本句三个分句都是“主语 + 不及物动词”，短促有力，连续写出崩盘后的三个后果。写作中描述一连串变化时可以借鉴这种排比结构。注意几个完整的分句之间不能只用逗号连接而不加连词，否则就是“逗号粘连”（comma splice）这一常见错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The lights went out, the music stopped, and the crowd fell silent.",
+      "zh": "灯灭了，音乐停了，人群安静了下来。"
+     }
+    ]
+   },
+   {
+    "title": "短语动词 pile up 的不及物用法",
+    "explain": "pile up 既可以作及物动词，意为“把……堆起来”（pile up the books），也可以作不及物动词，意为“堆积，积压”（Work piled up）。不及物用法常以 debts、problems、work、letters 等为主语，表示数量不断增加，带有“越来越多、难以处理”的意味。本句 unsettled contracts piled up 表示没结算的合同不断积压，视频译为“越积越多”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "While she was away on holiday, emails and unpaid bills piled up.",
+      "zh": "她外出度假期间，电子邮件和未付账单越积越多。"
+     }
+    ]
+   },
+   {
+    "title": "否定前缀 un- 构成的形容词",
+    "explain": "un- 加在形容词或分词形容词前表示否定，如 unpaid（未付的）、unknown（未知的）、unsettled。unsettled 有多个意思：账目、债务“未结算的，未付清的”，纠纷“未解决的”，天气“多变的”，心情“不安的”。本句修饰 contracts，取“未结算的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The firm still has several unsettled claims from last year.",
+      "zh": "这家公司仍有几起去年的索赔没有了结。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "default",
+    "explain": "熟词僻义：在计算机语境中 default 常指“默认设置”，在金融和法律语境中指“违约，拖欠（债务）”，如 default on a loan（拖欠贷款）、be in default（处于违约状态）。本句 many buyers defaulted 指买家不按合同付款，视频译为“违约”。"
+   },
+   {
+    "term": "collapse",
+    "explain": "价格、市场 collapse 指“暴跌，崩溃”，名词形式如 a collapse in prices（价格暴跌）。它与第2句的 soared 形成一升一跌的对照。"
+   },
+   {
+    "term": "settle a contract",
+    "explain": "结算合同，即按合同约定付款、交割，使合同了结。第15句的 allowed to settle their contracts 用的是同一个意思，与本句的 unsettled contracts 前后呼应。"
+   }
+  ],
+  "translation_tip": "①三个并列分句按原顺序译成三个短句，用逗号连接，and 不译出，汉语靠意合衔接。②many 译为“大量”，比“许多”更有分量。③前置定语 unsettled 译为“未结算的”；不及物短语动词 piled up 译为“越积越多”，体现积压不断加剧的过程。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Why the market turned so swiftly",
+   "predicate": "is",
+   "object_or_complement": "contested",
+   "explain": "主干是“主语从句 + is + contested”，主系表结构：why 引导的从句作主语，contested 是形容词，作表语，意为“有争议的”（也可以把 is contested 看作被动语态）。谓语 is 为一般现在时，表示争议到现在依然存在；从句谓语 turned 为一般过去时，叙述过去的事。"
+  },
+  "components": [
+   {
+    "text": "Why the market turned so swiftly",
+    "role": "主语从句（why 引导，why 在从句中作原因状语）",
+    "zh": "市场为何转向得如此迅速"
+   },
+   {
+    "text": "is",
+    "role": "系动词",
+    "zh": "（系动词，与 contested 合译为“存在争议”）"
+   },
+   {
+    "text": "still",
+    "role": "状语（副词）",
+    "zh": "至今仍"
+   },
+   {
+    "text": "contested.",
+    "role": "表语（形容词）",
+    "zh": "存在争议"
+   }
+  ],
+  "structure": "①整句的主语是从句 Why the market turned so swiftly，视频说明：Why…swiftly 主语从句，作句子的主语。why 在从句中作原因状语；从句用陈述语序 the market turned，不能写成疑问语序。\n②从句主语是 the market，谓语 turned 是不及物动词，意为“转向，逆转”；so swiftly 作方式状语，so 是程度副词，修饰 swiftly。\n③主句的谓语部分是 is still contested：系动词 is，副词 still 作状语，形容词 contested 作表语。主语从句作主语时，谓语动词用单数，所以用 is。\n④时态对照：市场转向发生在1637年，用过去时 turned；争议延续到现在，用一般现在时 is。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "主语从句",
+    "explain": "名词性从句作句子的主语，叫主语从句，常由 that、whether、what、why、how 等引导；从句一律用陈述语序，谓语动词通常用单数。本句 Why the market turned so swiftly 作主语，why 在从句中作状语，意为“为什么”。主语从句较长时常用 it 作形式主语，把从句移到句末，如 It is still contested why the market turned so swiftly。考研阅读和翻译中，句首是 What、Why、How、Whether 而句末是句号时，往往就是主语从句，要找到它后面的主句谓语（本句的 is）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "How the virus first reached humans remains unclear.",
+      "zh": "这种病毒最初是如何传给人类的，至今仍不清楚。"
+     },
+     {
+      "en": "Whether the new rules will reduce pollution is still being debated.",
+      "zh": "新规能否减少污染，目前仍在争论之中。"
+     }
+    ]
+   },
+   {
+    "title": "从句与主句时态不同",
+    "explain": "同一个句子里，从句讲过去发生的事用一般过去时，主句讲现在的状况用一般现在时，两者并不矛盾。本句 the market turned 发生在1637年，is still contested 说明直到今天仍有争议。still 常与一般现在时或现在完成时连用，表示某种状态一直延续到现在。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "What caused the fire last month is still unknown.",
+      "zh": "上个月那场火灾的起因至今仍不清楚。"
+     }
+    ]
+   },
+   {
+    "title": "so + 副词表示程度",
+    "explain": "so 作程度副词，修饰形容词或副词，意为“如此，这么”，后面常接 that 引导的结果状语从句（so swiftly that…）。本句没有 that 从句，so 单纯强调转向之快，视频译为“如此迅速”。注意 so 修饰形容词、副词，such 修饰名词：so swift a change 等于 such a swift change。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rents rose so quickly that many families could no longer afford them.",
+      "zh": "房租涨得太快，许多家庭再也负担不起。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "turn",
+    "explain": "熟词僻义：turn 作不及物动词，可以指市场、形势、潮流“转向，逆转”，如 The market turned（市场转向）、The tide has turned（形势已经逆转）。视频译为“转向”。"
+   },
+   {
+    "term": "contested",
+    "explain": "形容词，有争议的，如 a hotly contested issue（争议激烈的问题）。本句视频译为“存在争议”。动词 contest 意为“对……提出异议”，如 contest a decision。"
+   }
+  ],
+  "translation_tip": "①主语从句保留在句首，译为“市场为何转向得如此迅速”，why 译作“为何”，后面加逗号与谓语部分隔开，符合汉语“先说话题、再作评论”的习惯。②so swiftly 译为“如此迅速”，用“得”字补语接在“转向”之后。③still 译为“至今仍”，增补“至今”，点出一般现在时 is 所表示的现状；contested 译为“存在争议”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Charles Mackay",
+   "predicate": "recounted",
+   "object_or_complement": "the episode",
+   "explain": "主干是 Charles Mackay recounted the episode，主谓宾结构。谓语 recounted 为一般过去时，主动语态；句末 casting… 是现在分词短语作伴随状语，不是谓语。"
+  },
+  "components": [
+   {
+    "text": "Two centuries later,",
+    "role": "时间状语",
+    "zh": "两个世纪后"
+   },
+   {
+    "text": "Charles Mackay,",
+    "role": "主语",
+    "zh": "查尔斯·麦凯"
+   },
+   {
+    "text": "a Scottish journalist,",
+    "role": "同位语，说明 Charles Mackay",
+    "zh": "一位苏格兰的记者"
+   },
+   {
+    "text": "recounted",
+    "role": "谓语",
+    "zh": "讲述了"
+   },
+   {
+    "text": "the episode",
+    "role": "宾语",
+    "zh": "这一事件"
+   },
+   {
+    "text": "in a book",
+    "role": "地点状语（介词短语）",
+    "zh": "在一本……的书中"
+   },
+   {
+    "text": "on popular delusions,",
+    "role": "后置定语（介词短语），修饰 a book，on 意为“关于，论述”",
+    "zh": "论述大众错觉/群体性妄想"
+   },
+   {
+    "text": "casting it as national hysteria.",
+    "role": "伴随状语（现在分词短语），逻辑主语是 Charles Mackay",
+    "zh": "将其描绘为一场全国性的歇斯底里"
+   }
+  ],
+  "structure": "①主句是 Charles Mackay recounted the episode：主语 Charles Mackay，谓语 recounted，宾语 the episode。the episode 指前两段所写的郁金香交易从狂热到崩盘的这段经过。\n②a Scottish journalist 是同位语，说明麦凯的身份，视频说明：a Scottish journalist 同位语，说明 Charles Mackay。\n③Two centuries later 是时间状语，later 以前文的1637年为参照。in a book on popular delusions 是地点状语，on popular delusions 作 a book 的后置定语，on 意为“关于，论述”。\n④casting it as national hysteria 是现在分词短语作伴随状语，逻辑主语是主句主语 Mackay；it 指 the episode；cast A as B 意为“把A描绘成B”，说明麦凯在讲述这件事时给它下的定性。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，常作伴随状语，表示与谓语动作同时发生或附带说明的动作，其逻辑主语必须是主句的主语。本句 casting it as national hysteria 的逻辑主语是 Mackay：他在讲述的同时，把这件事描绘成全国性的歇斯底里，可以改写为 and cast it as national hysteria。视频说明：casting… 现在分词短语作伴随状语。考研长难句中，句末的 -ing 短语常用来补充评价或结果，阅读时要先确认它的逻辑主语，再判断它和主句的关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report examined thirty years of data, concluding that the policy had largely failed.",
+      "zh": "报告考察了三十年的数据，得出结论：这项政策基本上是失败的。"
+     },
+     {
+      "en": "The minister defended the decision, describing it as a necessary step.",
+      "zh": "部长为这一决定辩护，称这是必要之举。"
+     }
+    ]
+   },
+   {
+    "title": "cast A as B",
+    "explain": "cast 原义“投，掷”，在戏剧影视中指给演员分派角色，如 cast sb as Hamlet（让某人演哈姆雷特）；引申为“把……描绘成，把……定性为”，相当于 portray A as B、present A as B，常见于评论性文字。被动形式是 A is cast as B。视频说明：cast A as B 把A描绘成B。本句 casting it as national hysteria 中，as 后接名词短语，作宾语补足语。同类结构还有 regard A as B、see A as B、describe A as B。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The newspaper cast the strike as a battle between workers and greedy owners.",
+      "zh": "这家报纸把这次罢工描绘成工人与贪婪老板之间的较量。"
+     }
+    ]
+   },
+   {
+    "title": "介词 on 表示“关于，论述”",
+    "explain": "on 引出书籍、文章、讲座、讨论的主题时，意为“关于，论述”，比 about 更正式、更具学术色彩，如 a book on economics、a lecture on climate change。本句 a book on popular delusions 即“一本论述大众错觉的书”，视频把 on 译为“论述”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She has published two books on the history of Chinese medicine.",
+      "zh": "她出版过两本关于中医史的书。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Charles Mackay",
+    "explain": "查尔斯·麦凯，苏格兰记者、作家，视频译为“查尔斯·麦凯”。文中所说的书是他1841年出版的 Memoirs of Extraordinary Popular Delusions，后来的版本通常题为 Extraordinary Popular Delusions and the Madness of Crowds，书中除郁金香狂热外，还写了南海泡沫等事件。"
+   },
+   {
+    "term": "episode",
+    "explain": "名词，一段经历，一件事，常指一连串事情中相对独立的一段，如 an embarrassing episode（一段尴尬的经历）。本句视频译为“事件”。"
+   },
+   {
+    "term": "national hysteria",
+    "explain": "全国性的歇斯底里，指整个国家陷入集体性的情绪失控。更常见的说法是 mass hysteria（集体歇斯底里）。"
+   },
+   {
+    "term": "Two centuries later",
+    "explain": "以上文1637年为参照，两个世纪之后即19世纪中期。时间段加 later 表示“……之后”，如 three days later。"
+   }
+  ],
+  "translation_tip": "①同位语 a Scottish journalist 保留原位，译作“一位苏格兰的记者”，前后用逗号隔开，与英文一致。②地点状语 in a book on popular delusions 提到谓语前，后置定语 on popular delusions 前置，译为“在一本论述大众错觉/群体性妄想的书中”，on 译为“论述”。③recounted the episode 译为“讲述了这一事件”，the 译为“这一”。④伴随状语 casting it as national hysteria 顺译为后一分句，it 译为“其”，as 后的名词短语增补量词“一场”，译为“将其描绘为一场全国性的歇斯底里”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "rich and poor；great merchants；Dutch commerce（三个并列分句各自的主语）",
+   "predicate": "gambled；were reduced；reeled",
+   "object_or_complement": "",
+   "explain": "本句是三个并列分句：rich and poor gambled（主谓）、great merchants were reduced almost to begging（主谓，被动语态）、Dutch commerce reeled（主谓）。第一、三个分句为一般过去时主动语态，第二个分句为一般过去时被动语态，构成 be reduced to doing（沦落到……的地步）。"
+  },
+  "components": [
+   {
+    "text": "In his telling,",
+    "role": "状语（介词短语，表示信息来源），统管后面三个分句",
+    "zh": "照他的说法"
+   },
+   {
+    "text": "rich and poor",
+    "role": "主语一（两个形容词并列，表示两类人）",
+    "zh": "富人和穷人"
+   },
+   {
+    "text": "gambled,",
+    "role": "谓语一（不及物动词）",
+    "zh": "都在赌博"
+   },
+   {
+    "text": "great merchants",
+    "role": "主语二",
+    "zh": "大商人"
+   },
+   {
+    "text": "were reduced almost to",
+    "role": "谓语二（被动语态 be reduced to，almost 作程度状语）",
+    "zh": "几乎沦落到"
+   },
+   {
+    "text": "begging,",
+    "role": "介词 to 的宾语（动名词）",
+    "zh": "去乞讨"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接第三个分句",
+    "zh": "（并列连词，不单独译出）"
+   },
+   {
+    "text": "Dutch commerce",
+    "role": "主语三",
+    "zh": "荷兰商业"
+   },
+   {
+    "text": "reeled.",
+    "role": "谓语三（不及物动词，比喻用法）",
+    "zh": "仿佛天旋地转"
+   }
+  ],
+  "structure": "①In his telling 是介词短语作状语，表示信息来源，统管后面三个分句。视频说明：In his telling 照他的说法，后面三件事都是麦凯的说法。telling 是名词，意为“讲述，叙述”，his 指麦凯。\n②第一个分句 rich and poor gambled：rich and poor 是两个意义相对的形容词并列，相当于 the rich and the poor，表示富人和穷人两类人，成对使用时省略了 the；gambled 不带宾语。\n③第二个分句 great merchants were reduced almost to begging：be reduced to 中的 to 是介词，后接动名词 begging；almost 修饰 to begging，表示“几乎”沦落到这一步。视频说明：be reduced to doing 沦落到……的地步。\n④第三个分句 Dutch commerce reeled：reel 原义“踉跄，摇晃”，这里用拟人手法，说荷兰商业像被重击的人一样摇摇欲坠。三个分句用 A, B, and C 的格式连接，层层递进：从人人赌博，到大商人破落，再到整个国家的商业受到冲击。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "be reduced to doing",
+    "explain": "reduce 的常见义是“减少”；reduce sb to sth/doing 表示“使某人沦落到（不好的境地）”，被动形式 be reduced to doing sth 意为“沦落到……的地步”，如 be reduced to tears（被弄哭）、be reduced to poverty（陷入贫困）。to 是介词，后面接名词或动名词，不能接动词原形，写成 were reduced to beg 就错了。本句 almost 放在 to 前，表示“几乎”沦落到乞讨。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "After the factory closed, many skilled workers were reduced to taking temporary jobs.",
+      "zh": "工厂倒闭后，许多熟练工人沦落到只能打零工。"
+     },
+     {
+      "en": "Without electricity, the villagers were reduced to cooking over open fires.",
+      "zh": "没有电，村民们只好在明火上做饭。"
+     }
+    ]
+   },
+   {
+    "title": "成对的形容词表示两类人",
+    "explain": "the + 形容词可以表示一类人，作主语时谓语用复数，如 the rich（富人）、the poor（穷人）、the elderly（老年人）。两个意义相对的形容词成对并列时，常省略 the，如 rich and poor、young and old，表示“不论贫富”“不论老少”，即所有人，常与 alike 连用：rich and poor alike。本句 rich and poor gambled 就是说富人和穷人都参与了赌博，视频译为“富人和穷人都在赌博”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new park quickly became popular with young and old alike.",
+      "zh": "新公园很快就受到了男女老少的欢迎。"
+     },
+     {
+      "en": "The government promised better healthcare for the poor and the elderly.",
+      "zh": "政府承诺为穷人和老年人提供更好的医疗服务。"
+     }
+    ]
+   },
+   {
+    "title": "表示信息来源的状语",
+    "explain": "in one's telling、in one's account、according to sb 等表达意为“照某人的说法”，提示后面的内容是转述，不一定是事实。本句 In his telling 统管三个分句，作者借此与麦凯的叙述保持距离，下一段又用 Yet the archives tell a smaller story 加以推翻。考研阅读中，这类信号词常是观点题、态度题的关键：作者转述的观点不等于作者本人的观点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In the official account, the decision was made after careful consultation.",
+      "zh": "照官方的说法，这一决定是经过慎重协商之后作出的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reel",
+    "explain": "熟词僻义：reel 作名词意为“卷轴，线轴”；作动词意为“（因受打击而）站立不稳，踉跄”，引申为“受到震动，陷入混乱”，常用 reel from sth，如 The industry is still reeling from the crisis（这个行业仍未从危机的冲击中缓过来）。本句把荷兰商业比作被打得摇摇晃晃的人，视频译为“仿佛天旋地转”。"
+   },
+   {
+    "term": "telling",
+    "explain": "名词，讲述，叙述；in his telling 相当于 in his account、according to him，视频译为“照他的说法”。"
+   },
+   {
+    "term": "great merchants",
+    "explain": "great 修饰人时可表示“显赫的，有地位的”，great merchants 即“大商人”，指富有、有地位的商人。连他们都“几乎沦落到去乞讨”，正是麦凯渲染灾难之重的手法。"
+   }
+  ],
+  "translation_tip": "①In his telling 译为“照他的说法”，放在句首，统领后面三个分句。②rich and poor 译为“富人和穷人”，增补“都”，体现两类人一起参与；gambled 译为“在赌博”，表现当时的状态。③被动结构 were reduced almost to begging 译为“几乎沦落到去乞讨”，“沦落”本身就有被迫的意味，不必用“被”字。④reeled 是比喻，视频增补“仿佛”，译为“仿佛天旋地转”，点明这是比喻，并保留夸张的语气。⑤三个分句用逗号连接，and 不译出。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "His vivid account",
+   "predicate": "made",
+   "object_or_complement": "tulip mania（宾语）；shorthand for bubbles（宾语补足语）",
+   "explain": "主干是 His vivid account made tulip mania shorthand for bubbles，主谓宾宾补结构：make + 宾语 + 名词作宾语补足语，意为“使……成为……”。谓语 made 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His vivid account",
+    "role": "主语",
+    "zh": "他生动的描述"
+   },
+   {
+    "text": "made",
+    "role": "谓语（make 带复合宾语）",
+    "zh": "让……成了"
+   },
+   {
+    "text": "tulip mania",
+    "role": "宾语",
+    "zh": "郁金香狂热"
+   },
+   {
+    "text": "shorthand for bubbles",
+    "role": "宾语补足语（名词短语）",
+    "zh": "泡沫的代名词"
+   },
+   {
+    "text": "fuelled by reckless buying.",
+    "role": "后置定语（过去分词短语），修饰 bubbles",
+    "zh": "由不计后果的购买所助长"
+   }
+  ],
+  "structure": "①主语 His vivid account 中，His 指麦凯，account 是名词，意为“描述，叙述”，vivid 作定语。\n②谓语 made 带复合宾语：宾语是 tulip mania，宾语补足语是 shorthand for bubbles。视频说明：make A B 使A成为B；shorthand for… ……的代名词，……的简称。shorthand 在这里不带冠词，X is shorthand for Y 是固定的说法。\n③fuelled by reckless buying 是过去分词短语作后置定语，修饰 bubbles，相当于 which are fuelled by reckless buying。bubbles 与 fuel 是被动关系：泡沫是被不计后果的购买所助长的，by 引出动作的执行者。\n④fuelled 是英式拼写，美式拼写为 fueled。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "make + 宾语 + 名词作宾语补足语",
+    "explain": "make 可以带复合宾语，宾语补足语可以是形容词（make sb happy）、名词（make him captain）、不带 to 的不定式（make sb laugh）或过去分词（make oneself understood）。名词作宾补时说明宾语成为什么，表示职位、身份的名词常不带冠词。本句 made tulip mania shorthand for bubbles 中，tulip mania 是宾语，shorthand for bubbles 是宾补，说明郁金香狂热“成了”泡沫的代名词。考研阅读中，遇到“make + 名词 + 名词”要能判断后一个名词是宾补，不要误当作双宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The scandal made his name a byword for corruption.",
+      "zh": "这桩丑闻使他的名字成了腐败的代名词。"
+     },
+     {
+      "en": "The committee made her chair of the new working group.",
+      "zh": "委员会任命她为新工作组的组长。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "及物动词的过去分词短语放在名词后作定语，表示被动关系，相当于一个定语从句。本句 bubbles fuelled by reckless buying 相当于 bubbles which are fuelled by reckless buying，泡沫是“被助长”的一方，by 引出动作执行者 reckless buying。视频说明：fuelled by… 过去分词短语作后置定语，修饰 bubbles。fuel 原义“燃料”，作动词指“给……加燃料”，引申为“助长，刺激”，常见搭配有 fuel inflation、fuel speculation、fuel anger。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Demand for housing, fuelled by low interest rates, has pushed prices to record levels.",
+      "zh": "受低利率推动的住房需求，已把房价推到了创纪录的水平。"
+     }
+    ]
+   },
+   {
+    "title": "l 结尾动词的英式与美式拼写",
+    "explain": "以“单个元音字母 + l”结尾的动词，变过去式、过去分词和现在分词时，英式拼写双写 l（fuelled、travelled、cancelled），美式拼写通常不双写（fueled、traveled、canceled）。本文用的是英式拼写 fuelled。考研作文中两种拼写都可以，但同一篇文章要保持一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The flight was cancelled because of heavy fog.",
+      "zh": "由于大雾，航班被取消了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "shorthand for",
+    "explain": "shorthand 原指“速记，速记法”，引申为“简略的说法”；X is shorthand for Y 意为“X 是 Y 的简称、代名词”。视频译为“代名词”。近义表达有 a byword for、synonymous with。"
+   },
+   {
+    "term": "tulip mania",
+    "explain": "郁金香狂热，指1636至1637年荷兰郁金香交易的热潮，也写作 tulipmania。正是经过麦凯的渲染，这个词成了投机泡沫的代名词。"
+   },
+   {
+    "term": "bubble",
+    "explain": "经济“泡沫”：资产价格因投机而远远超出其实际价值，最终像泡沫一样破裂。常见搭配有 a property bubble（房地产泡沫）、the bubble bursts（泡沫破裂）。"
+   },
+   {
+    "term": "account",
+    "explain": "熟词僻义：account 常见义是“账户”，本句指“描述，叙述”，如 a detailed account of the battle（对那场战役的详细描述），视频译为“描述”。"
+   }
+  ],
+  "translation_tip": "①主语 His vivid account 译为“他生动的描述”，后加逗号停顿。②make A B 译为“让A成了B”，宾补 shorthand for bubbles 译为“泡沫的代名词”。③后置定语 fuelled by reckless buying 较长，视频没有把它前置，而是用破折号引出，拆成后半句“而这些泡沫由不计后果的购买所助长”：增补“这些泡沫”回指 bubbles，用“由……所……”保留被动关系，用“而”承接上文。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "the archives",
+   "predicate": "tell",
+   "object_or_complement": "a smaller story",
+   "explain": "主干是 the archives tell a smaller story，主谓宾结构。谓语 tell 为一般现在时，主动语态，表示档案所呈现的情况是现在仍然成立的客观事实。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "并列连词，表示转折",
+    "zh": "然而"
+   },
+   {
+    "text": "the archives",
+    "role": "主语",
+    "zh": "档案"
+   },
+   {
+    "text": "tell",
+    "role": "谓语",
+    "zh": "讲述"
+   },
+   {
+    "text": "a smaller story.",
+    "role": "宾语（smaller 是比较级，比较对象是麦凯的说法）",
+    "zh": "故事要小得多"
+   }
+  ],
+  "structure": "①Yet 位于句首，表示转折，与上一段麦凯的说法形成对照，开启全文的反驳部分。\n②主句 the archives tell a smaller story 是主谓宾结构，把 archives 拟人化，说档案“讲述”了一个故事。\n③smaller 是比较级，比较对象没有写出，从上下文看是麦凯描绘的“全国性的歇斯底里”，即档案显示的事件规模和影响都比麦凯讲的小。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "隐含比较对象的比较级",
+    "explain": "比较级不一定带 than 引出的比较对象，比较对象可以从上下文推断出来。本句 a smaller story 省略了 than Mackay's story，意思是档案所反映的郁金香事件，规模和影响都比麦凯讲的要小。阅读时遇到单独出现的比较级，要回到上文找比较对象，这往往是理解作者观点的关键。翻译时常补出“要……得多”“更……”，视频译为“要小得多”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The official data, however, point to a slower recovery.",
+      "zh": "然而，官方数据显示复苏要慢一些。"
+     }
+    ]
+   },
+   {
+    "title": "Yet 作连词表示转折",
+    "explain": "yet 作连词意为“然而，但是”，语气比 but 更正式，常放在句首或分句之首，表示与前文形成出人意料的对比。yet 作副词时多用于否定句和疑问句，意为“还，仍”，如 not yet。本句 Yet 引出与麦凯叙述相反的史料证据，是全文观点的转折点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan was simple. Yet it took nearly a decade to carry out.",
+      "zh": "这个计划很简单，然而却花了将近十年才得以实施。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "archives",
+    "explain": "常用复数，指档案、档案馆或其中保存的历史记录；本句指保存至今的17世纪荷兰原始记录，视频译为“档案”。"
+   },
+   {
+    "term": "tell a story",
+    "explain": "讲述一个故事；以物为主语时表示“表明，反映出（某种情况）”，如 The figures tell a different story（数据反映的情况截然不同）。本句 the archives tell a smaller story 即档案反映的情况要小得多。"
+   }
+  ],
+  "translation_tip": "①Yet 译为“然而”，后加逗号。②主谓宾结构 the archives tell a smaller story 转换成“档案讲述的故事要小得多”：谓语 tell 变成定语“讲述的”，宾语 story 变成新的主语“故事”，比较级 smaller 变成谓语“要小得多”，增补“得多”，强调与麦凯说法的差距。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Mackay's story",
+   "predicate": "relied on",
+   "object_or_complement": "satirical pamphlets",
+   "explain": "主干是 Mackay's story relied on satirical pamphlets，主谓宾结构；rely on 是短语动词，相当于一个及物动词，largely 插在 relied 和 on 之间作程度状语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Mackay's story",
+    "role": "主语",
+    "zh": "麦凯的故事"
+   },
+   {
+    "text": "relied largely on",
+    "role": "谓语（短语动词 rely on，largely 作程度状语）",
+    "zh": "主要依据了"
+   },
+   {
+    "text": "satirical pamphlets",
+    "role": "宾语",
+    "zh": "讽刺小册子"
+   },
+   {
+    "text": "of 1637",
+    "role": "后置定语（介词短语），修饰 pamphlets",
+    "zh": "1637年的"
+   },
+   {
+    "text": "that preached against greed.",
+    "role": "限制性定语从句（that 在从句中作主语），修饰 pamphlets",
+    "zh": "这些小册子宣传反对贪婪"
+   }
+  ],
+  "structure": "①主句是 Mackay's story relied largely on satirical pamphlets：主语 Mackay's story，谓语 relied on，largely 意为“主要地”，插在短语动词中间。视频说明：rely on 依靠，依据。\n②of 1637 是介词短语作后置定语，修饰 pamphlets，说明是1637年的小册子，即郁金香交易崩盘的那一年。\n③that preached against greed 是限制性定语从句，视频说明：that… 定语从句，修饰 pamphlets。先行词是 pamphlets，而不是紧挨着的 1637；that 在从句中作主语，从句谓语是 preached against，宾语是 greed。\n④本句揭示麦凯说法的来源：他依据的主要是劝人戒贪的讽刺作品，为第17句“训诫被当作历史”埋下伏笔。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "定语从句与先行词被隔开",
+    "explain": "定语从句一般紧跟先行词，但先行词后面有介词短语等修饰语时，从句就会与先行词隔开。判断先行词要看意思和从句谓语：本句 that preached against greed 中，能“宣传反对贪婪”的只能是小册子，不可能是年份 1637，所以先行词是 pamphlets。从句谓语的单复数也是线索，复数先行词要配复数谓语。考研长难句和翻译题常考这种“隔位修饰”，只按就近原则找先行词容易出错。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "There are several reports from the committee that question the safety of the new drug.",
+      "zh": "委员会有几份报告对这种新药的安全性提出了质疑。"
+     },
+     {
+      "en": "The letters of the young soldier that were found in the attic have been given to the museum.",
+      "zh": "在阁楼里发现的那位年轻士兵的信件已经捐给了博物馆。"
+     }
+    ]
+   },
+   {
+    "title": "副词插在短语动词中间",
+    "explain": "rely on、depend on、focus on 这类“动词 + 介词”的短语动词，表示程度、频率的副词可以插在动词和介词之间，如 rely heavily on、depend largely on、focus mainly on。本句 relied largely on 中，largely 意为“主要地”，视频译为“主要依据了”。写作中常用 rely heavily on、depend largely on 表示“在很大程度上依赖”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many small farms rely heavily on seasonal workers.",
+      "zh": "许多小农场在很大程度上依赖季节工。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "preach against",
+    "explain": "preach 原义“布道，讲道”，preach against sth 意为“宣传反对……，告诫人们不要……”，如 preach against violence。本句视频译为“宣传反对”。它与第17句的 sermon（训诫）呼应：这些小册子本质上是道德说教。"
+   },
+   {
+    "term": "satirical pamphlets",
+    "explain": "讽刺小册子。pamphlet 指篇幅短小、没有硬封面的印刷品，旧时常用来发表政论、进行宣传；satirical 意为“讽刺的”，satire 指用嘲讽手法批评社会现象的作品。"
+   },
+   {
+    "term": "greed",
+    "explain": "贪婪，不可数名词，形容词是 greedy。本句 greed 是这些小册子抨击的对象。"
+   }
+  ],
+  "translation_tip": "①主句顺译为“麦凯的故事主要依据了1637年的讽刺小册子”：后置定语 of 1637 前置为“1637年的”，largely 译为“主要”。②限制性定语从句 that preached against greed 不前置，而是拆成后一分句，重复先行词，用“这些小册子”回指，译为“这些小册子宣传反对贪婪”，避免定语过长。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Anne Goldgar",
+   "predicate": "scoured…and counted",
+   "object_or_complement": "Dutch records（scoured 的宾语）；a few hundred traders（counted 的宾语）",
+   "explain": "主干是一个主语带两个并列谓语：Anne Goldgar scoured Dutch records and counted a few hundred traders，两部分都是主谓宾结构，由 and 连接。谓语均为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Anne Goldgar,",
+    "role": "主语",
+    "zh": "安妮·戈德加"
+   },
+   {
+    "text": "a historian at King's College London,",
+    "role": "同位语，说明 Anne Goldgar",
+    "zh": "伦敦国王学院的历史学家"
+   },
+   {
+    "text": "scoured",
+    "role": "谓语一",
+    "zh": "彻底搜遍了"
+   },
+   {
+    "text": "Dutch records",
+    "role": "宾语（scoured 的宾语）",
+    "zh": "荷兰的文献记录"
+   },
+   {
+    "text": "and counted only",
+    "role": "并列连词 and + 谓语二 counted；only 修饰后面的宾语",
+    "zh": "然而只数出了"
+   },
+   {
+    "text": "a few hundred traders,",
+    "role": "宾语（counted 的宾语）",
+    "zh": "几百名交易者"
+   },
+   {
+    "text": "mostly merchants and craftsmen.",
+    "role": "补充说明 traders 的身份（同位语，mostly 意为“大多”）",
+    "zh": "大多是商人和工匠"
+   }
+  ],
+  "structure": "①主句是 Anne Goldgar scoured… and counted…，一个主语带两个并列谓语，先“搜遍记录”，再“数出交易者”，前一个动作是手段，后一个是结果。\n②a historian at King's College London 是同位语，视频说明：同位语，说明 Anne Goldgar；at King's College London 作 historian 的后置定语，说明她任职的学校。\n③only 修饰 a few hundred traders，强调交易者人数之少，与第9句麦凯所说的“富人和穷人都在赌博”形成对照。a few hundred 中 hundred 前有修饰语，不加 s。\n④mostly merchants and craftsmen 补充说明这几百名交易者的身份，视频说明：补充说明这些交易者。mostly 意为“大多，主要”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "a few hundred 与 hundreds of",
+    "explain": "hundred、thousand、million 前面有具体数词或 a few、several 等修饰时，用单数形式，不加 s，也不接 of，如 a few hundred traders、three thousand people；表示不确切的大量时用复数并加 of，如 hundreds of traders（数以百计的交易者）。本句 a few hundred traders 意为“几百名交易者”，与 only 连用，强调人数少。写作中写成 two hundreds people 或 hundreds people 是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only a few thousand copies of the first edition were printed.",
+      "zh": "第一版只印了几千册。"
+     },
+     {
+      "en": "Hundreds of volunteers turned up to help clean the beach.",
+      "zh": "数以百计的志愿者前来帮忙清理海滩。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语共用一个主语",
+    "explain": "一个主语可以带两个或更多谓语，用 and 等连词连接，第二个谓语前不必重复主语。本句 scoured Dutch records and counted only a few hundred traders 共用主语 Anne Goldgar。and 的含义要结合上下文判断：本句前面是“彻底搜遍”，后面是“只数出几百名”，两者形成反差，所以视频把 and 译成“然而”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The inspectors visited every school in the district and found only two that met the new standards.",
+      "zh": "检查人员走访了该区的每一所学校，结果只发现两所达到了新标准。"
+     }
+    ]
+   },
+   {
+    "title": "mostly 引出的补充说明",
+    "explain": "mostly 意为“大多，主要地”，常放在名词短语前，对前面的名词作补充说明，如 a crowd of about 200, mostly students（约200人的人群，大多是学生）。本句 mostly merchants and craftsmen 跟在 traders 之后，说明交易者的构成。注意区分 mostly（副词，大多）和 most（最；大多数的）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival attracted thousands of visitors, mostly families with young children.",
+      "zh": "这个节日吸引了数千名游客，大多是带着小孩的家庭。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Anne Goldgar",
+    "explain": "安妮·戈德加，历史学家，著有研究郁金香狂热的专著 Tulipmania: Money, Honor, and Knowledge in the Dutch Golden Age（2007年出版）。视频译为“安妮·戈德加”。"
+   },
+   {
+    "term": "King's College London",
+    "explain": "伦敦国王学院，位于英国伦敦，是伦敦大学的创始学院之一。King's 带撇号，London 是校名的一部分，放在最后。视频译为“伦敦国王学院”。"
+   },
+   {
+    "term": "records",
+    "explain": "名词，记录，档案材料；本句指历史上留下的文献记录，视频译为“文献记录”。名词 record 重音在前，读 /ˈrekɔːd/；动词 record 重音在后，读 /rɪˈkɔːd/。"
+   },
+   {
+    "term": "count",
+    "explain": "本句 counted 意为“数出，清点出（数目）”，视频译为“数出了”；count 还有“有分量，算数”的不及物用法，如 Every vote counts（每一票都很重要）。"
+   }
+  ],
+  "translation_tip": "①同位语 a historian at King's College London 前置为定语，与人名合成“伦敦国王学院的历史学家安妮·戈德加”，英文的“人名 + 同位语”变成汉语的“身份 + 人名”。②两个并列谓语按顺序译出，scoured 译为“彻底搜遍了”；and 根据前后的反差译为“然而”，only 译为“只”。③句末的 mostly merchants and craftsmen 译为“大多是商人和工匠”，用“是”字句作补充说明。④Dutch records 译为“荷兰的文献记录”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "She",
+   "predicate": "found",
+   "object_or_complement": "no bankruptcy；no measurable harm（两个并列宾语）",
+   "explain": "主干是 She found no bankruptcy and no measurable harm，主谓宾结构，谓语 found 带两个由 and 连接的并列宾语，每个宾语前都有否定词 no。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "She",
+    "role": "主语（指 Anne Goldgar）",
+    "zh": "她"
+   },
+   {
+    "text": "found",
+    "role": "谓语（分别与两个宾语搭配）",
+    "zh": "找到……发现"
+   },
+   {
+    "text": "no bankruptcy",
+    "role": "宾语一（no 表示全部否定）",
+    "zh": "没有……一桩……破产"
+   },
+   {
+    "text": "caused by tulips",
+    "role": "后置定语（过去分词短语），修饰 bankruptcy",
+    "zh": "因郁金香而起的"
+   },
+   {
+    "text": "and no measurable harm",
+    "role": "并列连词 and + 宾语二",
+    "zh": "也没有……任何可以衡量的损害"
+   },
+   {
+    "text": "to the economy.",
+    "role": "后置定语（介词短语），修饰 harm",
+    "zh": "荷兰经济受到"
+   }
+  ],
+  "structure": "①主句是 She found no bankruptcy… and no measurable harm…，谓语 found 带两个并列宾语，否定词 no 放在宾语名词前，表示全部否定。\n②caused by tulips 是过去分词短语作后置定语，修饰 bankruptcy，相当于 which was caused by tulips。视频说明：caused by tulips 过去分词短语作后置定语，修饰 bankruptcy。\n③measurable 作 harm 的前置定语，to the economy 作 harm 的后置定语。视频说明：no … harm to sth 对某物没有……损害。\n④本句给出两条否定证据，直接反驳第9句麦凯所说的大商人沦落、荷兰商业动荡。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "no + 名词表示否定",
+    "explain": "否定词 no 可以直接放在名词前，相当于 not any 或 not a，表示全部否定：found no bankruptcy 相当于 did not find any bankruptcy。英语常把否定放在宾语上，汉语习惯把否定放在动词前，所以翻译时要把“no + 名词”转成“没有 + 动词”，视频译为“没有找到”“也没有发现”。no 后面可以接单数可数名词、复数名词或不可数名词，如 no reason、no reasons、no evidence。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The investigation found no evidence of wrongdoing by the company's directors.",
+      "zh": "调查没有发现该公司董事有任何不当行为的证据。"
+     },
+     {
+      "en": "The new drug produced no serious side effects in the trial.",
+      "zh": "这种新药在试验中没有产生严重的副作用。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + to 表示“对……的影响”",
+    "explain": "harm、damage、threat、danger、risk 等名词后常接 to，表示“对……的损害、威胁”，如 damage to the environment、a threat to public health。动词 harm 是及物动词，直接接宾语（harm the economy）；名词 harm 要加 to，不能说 harm on。本句 no measurable harm to the economy 意为“对经济没有可以衡量的损害”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new road poses a serious threat to the wildlife of the valley.",
+      "zh": "这条新路对山谷里的野生动物构成了严重威胁。"
+     }
+    ]
+   },
+   {
+    "title": "caused by 引出原因的后置定语",
+    "explain": "caused by… 是常见的过去分词短语作后置定语，表示“由……引起的”，被修饰的名词与 cause 是被动关系。考研阅读中，名词后的 caused by、driven by、fuelled by 等常引出原因，是梳理因果关系的线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the damage caused by the flood has now been repaired.",
+      "zh": "洪水造成的大部分损坏现已修复。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the economy",
+    "explain": "定冠词 the 加 economy 通常指某个国家的整体经济，本句指荷兰经济，所以视频增补“荷兰”二字。"
+   },
+   {
+    "term": "caused by tulips",
+    "explain": "tulips 用复数泛指郁金香，这里实指郁金香交易；caused by tulips 视频译为“因郁金香而起的”。"
+   },
+   {
+    "term": "measurable",
+    "explain": "可以衡量的，可以测量的；no measurable harm 强调损害小到无法从数据上体现，是史学和经济学中常见的严谨措辞。"
+   }
+  ],
+  "translation_tip": "①英文把否定放在两个宾语前（no bankruptcy、no measurable harm），视频按汉语习惯把否定移到动词前，译成“没有找到……也没有发现……”，把一个 found 拆成“找到”“发现”两个动词，分别搭配两个宾语。②后置定语 caused by tulips 前置为“因郁金香而起的”，增补量词“一桩”，强调一件也没有。③no measurable harm to the economy 转换成“荷兰经济受到任何可以衡量的损害”：把介词 to 表示的关系转为主谓关系“经济受到……损害”，增补“荷兰”，no 译为“没有……任何”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Many buyers；few（两个并列分句各自的主语）",
+   "predicate": "were allowed；were ruined",
+   "object_or_complement": "to settle their contracts（前一分句的主语补足语）",
+   "explain": "本句由 and 连接两个并列分句。前一分句 Many buyers were allowed to settle their contracts 是被动语态，由 allow sb to do sth 变来，不定式 to settle… 作主语补足语；后一分句 few were ruined 也是被动语态。两个谓语都是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Many buyers",
+    "role": "主语一",
+    "zh": "许多买家"
+   },
+   {
+    "text": "were later allowed",
+    "role": "谓语一（一般过去时被动语态，later 作时间状语）",
+    "zh": "后来获准"
+   },
+   {
+    "text": "to settle their contracts",
+    "role": "主语补足语（不定式短语）",
+    "zh": "结清他们的合同"
+   },
+   {
+    "text": "by paying a small fraction of the price,",
+    "role": "方式状语（by + 动名词短语）",
+    "zh": "只付价格的一小部分"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "也"
+   },
+   {
+    "text": "few",
+    "role": "主语二（代词，意为“很少的人”，带否定意味）",
+    "zh": "人……寥寥无几"
+   },
+   {
+    "text": "were ruined.",
+    "role": "谓语二（一般过去时被动语态）",
+    "zh": "倾家荡产"
+   }
+  ],
+  "structure": "①前一分句的主干是 Many buyers were allowed to settle their contracts：allow sb to do sth（允许某人做某事）变为被动的 sb be allowed to do sth，原来的宾语补足语 to settle their contracts 变成主语补足语；later 插在 were 和 allowed 之间，作时间状语。视频说明：be allowed to do 获准做……；settle a contract 结清合同/了结合同。\n②by paying a small fraction of the price 是 by 加动名词短语作方式状语，修饰 settle，说明结清合同的方式：只付价格的一小部分。a fraction of 意为“……的一部分”，small 强调份额很小。\n③and 连接后一分句 few were ruined：few 是代词，作主语，指“很少的人”，带否定意味；were ruined 是被动语态，ruin 意为“使破产，使毁灭”。视频说明：few 很少的人，几乎没有人。\n④本句与第9句针锋相对：麦凯说大商人几乎沦落到乞讨，档案却显示倾家荡产的人寥寥无几。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "被动语态中的不定式作主语补足语",
+    "explain": "allow、ask、tell、advise、force、permit 等动词常用“动词 + 宾语 + to do”结构，变成被动语态时，宾语变成主语，不定式留在谓语后作主语补足语：They allowed the buyers to settle → The buyers were allowed to settle。本句 Many buyers were later allowed to settle their contracts 就是这种结构。使役动词 make 在主动语态中接不带 to 的不定式（make sb do），变成被动语态时要补出 to（be made to do）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Visitors are not allowed to take photographs inside the gallery.",
+      "zh": "参观者不得在美术馆内拍照。"
+     },
+     {
+      "en": "The workers were made to stay until the order was finished.",
+      "zh": "工人们被迫一直待到订单完成。"
+     }
+    ]
+   },
+   {
+    "title": "few 与 a few",
+    "explain": "few 和 a few 都修饰或代替可数名词复数。few 表示否定，意为“很少，几乎没有”；a few 表示肯定，意为“有几个”。本句 few were ruined 中，few 作代词，指“很少的人”，强调几乎没有人破产，视频译为“倾家荡产的人也寥寥无几”。little 和 a little 用于不可数名词，区别相同。考研阅读中，few、little 常是判断作者态度的关键，它们表达的是否定。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few people believed the project would be finished on time.",
+      "zh": "几乎没有人相信这个项目能按时完成。"
+     },
+     {
+      "en": "A few of the students stayed behind to ask questions.",
+      "zh": "有几个学生留下来提问。"
+     }
+    ]
+   },
+   {
+    "title": "by + 动名词表示方式",
+    "explain": "by + doing 表示“通过……方式、手段”，作方式状语，如 by working harder、by cutting costs。本句 by paying a small fraction of the price 说明买家结清合同的方式。视频增补“只”“就能”，把方式状语译成条件关系：只付……就能……。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many firms survived the crisis by cutting costs and borrowing heavily.",
+      "zh": "许多公司靠削减开支和大举借贷度过了危机。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "settle",
+    "explain": "熟词僻义：settle 常见义是“定居，安顿”，本句 settle their contracts 指按约付款、了结合同，视频译为“结清”。相关表达有 settle a bill（结账）、settle a debt（还清债务）、settle a dispute（解决纠纷）。"
+   },
+   {
+    "term": "a fraction of",
+    "explain": "一部分，一小部分，常见 a fraction of the cost/price（只是成本或价格的零头）。fraction 在数学中意为“分数”。"
+   },
+   {
+    "term": "ruin",
+    "explain": "动词，使破产，使毁灭；be ruined 指“倾家荡产，破产”。名词 ruin 意为“毁灭”，复数 ruins 指“废墟”，如 the ruins of the castle（城堡的废墟）。"
+   }
+  ],
+  "translation_tip": "①前一分句中被动的 were allowed 译为“获准”，later 译为“后来”。②方式状语 by paying a small fraction of the price 提到“结清合同”之前，增补“只”和“就能”，译成“只付价格的一小部分，就能结清他们的合同”，把方式关系转成汉语常用的条件关系，突出付款之少。③后一分句 few were ruined 把被动的 were ruined 译为“倾家荡产”，作“人”的定语，把带否定意味的 few 译为“寥寥无几”，放在句末作谓语，并增补“也”与前一分句衔接。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The boom",
+   "predicate": "was",
+   "object_or_complement": "real but fleeting",
+   "explain": "主干是 The boom was real but fleeting，主系表结构，两个形容词 real 和 fleeting 由 but 连接，并列作表语。谓语 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The boom",
+    "role": "主语",
+    "zh": "这场繁荣"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 real 合译为“确有其事”）"
+   },
+   {
+    "text": "real",
+    "role": "表语一（形容词）",
+    "zh": "确有其事"
+   },
+   {
+    "text": "but fleeting.",
+    "role": "并列连词 but + 表语二（形容词）",
+    "zh": "却转瞬即逝"
+   }
+  ],
+  "structure": "①主句是主系表结构，The boom 指1636至1637年郁金香交易的繁荣。\n②两个表语 real 和 fleeting 由 but 连接：前半句承认繁荣确实存在，后半句强调它很快就消失了，语义重心落在 but 之后。\n③本句是作者的结论：既不否认这场繁荣，也不接受麦凯夸大的说法，与上一段的档案证据相互照应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "but 连接并列表语",
+    "explain": "but 可以连接两个形容词，构成“adj. but adj.”，表示“虽然……但是……”，前一项让步，后一项才是重点，如 simple but effective（简单却有效）、small but significant（虽小却重要）。本句 real but fleeting 先承认繁荣是真实的，再强调它转瞬即逝。写作中常用这种结构作简洁的评价，比完整的让步状语从句更紧凑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The improvement was modest but significant.",
+      "zh": "改善幅度不大，却意义重大。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "boom",
+    "explain": "名词，（经济、行业的）繁荣，激增，如 a property boom（房地产热潮）；boom and bust 指经济繁荣与萧条的交替。本句视频译为“繁荣”。"
+   },
+   {
+    "term": "real",
+    "explain": "形容词，真实的，确实存在的。本句与上一段相呼应：繁荣不是虚构的，被夸大的是它的规模和后果。视频译为“确有其事”。"
+   }
+  ],
+  "translation_tip": "①The 译为“这场”，回指郁金香交易的热潮。②两个表语拆成两个四字短句：real 译为“确有其事”，fleeting 译为“转瞬即逝”。③but 译为“却”，放在后一短句开头，突出转折。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "What spread, and still circulates nearly four centuries on",
+   "predicate": "was",
+   "object_or_complement": "the moral",
+   "explain": "主干是“主语从句 + was + the moral”，主系表结构：What spread, and still circulates nearly four centuries on 是 what 引导的主语从句，was 是系动词，the moral 是表语。主句谓语 was 为一般过去时；从句中 spread 为一般过去时，circulates 为一般现在时。"
+  },
+  "components": [
+   {
+    "text": "What spread,",
+    "role": "主语从句的前半：what 引导并在从句中作主语，spread 是从句谓语一（一般过去时）",
+    "zh": "传播开来"
+   },
+   {
+    "text": "and still circulates nearly four centuries on,",
+    "role": "主语从句的后半：and + 从句谓语二 circulates（一般现在时），nearly four centuries on 作时间状语",
+    "zh": "并在近四个世纪后依然流传的"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "the moral:",
+    "role": "表语",
+    "zh": "这个寓意"
+   },
+   {
+    "text": "a sermon",
+    "role": "同位语，说明 the moral",
+    "zh": "一篇……训诫"
+   },
+   {
+    "text": "drawn from those pamphlets",
+    "role": "后置定语一（过去分词短语），修饰 sermon",
+    "zh": "取材于那些小册子的"
+   },
+   {
+    "text": "and retold by Mackay as history.",
+    "role": "并列连词 and + 后置定语二（过去分词短语），修饰 sermon",
+    "zh": "被麦凯当作历史重新讲了一遍"
+   }
+  ],
+  "structure": "①全句主干是：主语从句 What spread, and still circulates… + 系动词 was + 表语 the moral。视频说明：What spread… 主语从句。what 在从句中作主语，意为“……的东西”，相当于 the thing that。\n②主语从句里有两个并列谓语 spread 和 circulates，共用主语 what。spread 的过去式与原形同形，这里是过去式：what 作主语时谓语用单数，如果是一般现在时应写成 spreads。前一个谓语讲过去的传播，后一个谓语 still circulates 讲现在仍在流传，所以时态不同。nearly four centuries on 作时间状语，视频说明：近四个世纪之后。\n③冒号后的 a sermon 是 the moral 的同位语，视频说明：a sermon… 同位语，说明 the moral。\n④drawn from those pamphlets 和 retold by Mackay as history 是 and 连接的两个过去分词短语，都修饰 sermon：前者说明训诫的来源，后者说明它后来被麦凯当作历史重新讲述；as history 意为“作为历史”。those pamphlets 回指第12句的讽刺小册子。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "what 引导的主语从句",
+    "explain": "what 引导名词性从句时，在从句中充当主语、宾语或表语，同时含有先行词的意思，相当于 the thing(s) that。what 从句作主语时，主句谓语一般用单数。本句 What spread… was the moral 意为“传播开来、并依然流传的东西，是这个寓意”。“What… is/was…”结构常用来强调句末的表语，信息重心落在 the moral 上。考研翻译中常译成“……的，是……”，视频就译为“传播开来、并在近四个世纪后依然流传的，是这个寓意”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "What surprised the researchers most was how quickly the birds learned the task.",
+      "zh": "最让研究人员惊讶的，是这些鸟学会这项任务的速度。"
+     },
+     {
+      "en": "What matters now is whether the agreement will be honoured.",
+      "zh": "现在重要的是这份协议能否得到遵守。"
+     }
+    ]
+   },
+   {
+    "title": "原形与过去式同形的动词",
+    "explain": "spread、put、cut、set、cost、hit 等动词的过去式、过去分词与原形同形，阅读时要靠主谓一致和上下文判断时态。本句主语 what 是单数，若是一般现在时应写成 spreads，所以 spread 是过去式，讲的是过去的传播；与它并列的 still circulates 用一般现在时，讲现在仍在流传。并列谓语可以用不同的时态，各自说明不同时间的情况。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The record he set in 1998 still stands today.",
+      "zh": "他在1998年创下的纪录至今仍未被打破。"
+     },
+     {
+      "en": "The rule the committee set last year still applies to all new members.",
+      "zh": "委员会去年定下的规则至今仍适用于所有新成员。"
+     }
+    ]
+   },
+   {
+    "title": "时间段 + on 表示“……之后”",
+    "explain": "时间段 + on 作状语，意为“（从某时起）……之后”，on 是副词，表示时间向后推移，如 ten years on（十年之后）、a decade on。本句 nearly four centuries on 以1637年为起点，意为“近四个世纪之后”。这一用法常见于外刊，带有“时过境迁”的意味。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Twenty years on, the town has still not fully recovered from the flood.",
+      "zh": "二十年过去了，这个小镇仍未从那场洪水中完全恢复过来。"
+     }
+    ]
+   },
+   {
+    "title": "并列的过去分词短语作后置定语",
+    "explain": "两个过去分词短语可以用 and 连接，共同修饰一个名词。本句 a sermon drawn from those pamphlets and retold by Mackay as history 中，sermon 与 draw、retell 都是被动关系：训诫“取材于”小册子，又“被”麦凯当作历史重讲。视频说明：drawn from… 和 retold by… 都是过去分词短语，修饰 sermon。retold 是 retell 的过去分词，re- 表示“重新”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The rumour, first heard at the market and repeated by every passer-by, soon reached the palace.",
+      "zh": "这个谣言最早在集市上传出，又经每个路人转述，很快就传到了王宫。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "moral",
+    "explain": "名词，寓意，教训，常用 the moral of the story（故事的寓意）；复数 morals 指道德准则、品行。本句视频译为“寓意”。"
+   },
+   {
+    "term": "sermon",
+    "explain": "原指牧师的布道、讲道，引申为“（冗长的）说教，训诫”。本句用它指1637年小册子中劝人戒贪的道德教训，与第12句的 preached against 呼应，视频译为“训诫”。"
+   },
+   {
+    "term": "draw from",
+    "explain": "draw sth from sth 意为“从……中汲取、获取”，如 draw inspiration from nature（从大自然中汲取灵感）。本句 drawn from those pamphlets 视频译为“取材于那些小册子”。"
+   },
+   {
+    "term": "as history",
+    "explain": "as 是介词，意为“作为，当作”；retold… as history 即“当作历史重新讲述”，暗示它本是道德训诫，并非史实。"
+   }
+  ],
+  "translation_tip": "①主语从句 What spread, and still circulates nearly four centuries on 译成“的”字结构“传播开来、并在近四个世纪后依然流传的”：用顿号隔开两个谓语，用“并”译出 and，时间状语 nearly four centuries on 提到“流传”之前，still 译为“依然”。②系动词 was 译为“是”，表语 the moral 译为“这个寓意”。③冒号后的同位语保留冒号：过去分词短语 drawn from those pamphlets 前置为“取材于那些小册子的”，修饰“一篇训诫”；第二个过去分词短语 retold by Mackay as history 较长，拆成后一分句，用“被”字句保留被动关系，译为“被麦凯当作历史重新讲了一遍”。"
+ }
+]

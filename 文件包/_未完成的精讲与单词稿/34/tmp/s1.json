@@ -1,0 +1,249 @@
+[
+{
+"n": 1,
+"trunk": {"subject": "Dolly", "predicate": "was born", "object_or_complement": "", "explain": "主干是 Dolly was born，主谓结构。be born 意为“出生”，形式上是 bear（生育）的被动语态，表示某人出生时只用这一被动形式；谓语 was born 为一般过去时，叙述过去某一天发生的事。"},
+"components": [
+{"text": "Dolly", "zh": "多莉", "role": "主语"},
+{"text": "was born", "zh": "出生", "role": "谓语（be born，一般过去时，形式上为被动语态）"},
+{"text": "at Roslin, Scotland,", "zh": "在苏格兰罗斯林", "role": "地点状语（介词短语；Scotland 补充说明 Roslin 所在的地区）"},
+{"text": "on 5 July 1996.", "zh": "1996年7月5日", "role": "时间状语（介词短语）"}
+],
+"structure": "①主句是 Dolly was born，主语 Dolly，谓语 was born，主干只有三个词，其余都是状语。\n②at Roslin, Scotland 是地点状语。英语地名按由小到大排列，小地名在前，所属的大地区在后，中间用逗号隔开，Scotland 后面还要再加一个逗号，与句子其余部分隔开；汉语地名由大到小排列，所以视频译为“苏格兰罗斯林”。\n③on 5 July 1996 是时间状语，具体到某一天的日期前用 on。5 July 1996 是英式的“日 月 年”写法，美式通常写作 July 5, 1996。\n④英语常用“主语 + 谓语 + 地点 + 时间”的语序，地点状语在前，时间状语在后；汉语习惯把时间放在句首，所以视频译文先说“1996年7月5日”，再说“多莉在苏格兰罗斯林出生”。",
+"long_difficult": false,
+"grammar": [
+{"title": "be born 表示“出生”", "explain": "英语表示“某人出生”用 be born，born 是 bear（生育）的一个过去分词形式，只用在这一被动结构里，不能说 Dolly borned，也不能用主动的 Dolly bore 表示“多莉出生”。出生者作主语用 be born；母亲作主语表示“生下某人”时用主动的 bear 或 give birth to，完成时的过去分词写作 borne，如 She has borne three children。本文第17句 She bore six lambs 就是 bear 的主动用法，与本句的 was born 一被动一主动，对照着看最容易分清。考研写作中常见的错误是漏掉 be，写成 I born in 2003。", "difficult": true, "examples": [{"en": "Her grandfather was born in a small fishing village on the south coast.", "zh": "她的祖父出生在南部海岸的一个小渔村。"}, {"en": "Most of the calves were born in early spring, when the grass was plentiful.", "zh": "大多数小牛出生在早春，那时青草很丰盛。"}]},
+{"title": "时间、地点介词 on、at、in", "explain": "表示时间时，具体某一天用 on（on 5 July 1996），月份、年份、季节用 in（in March 1997），钟点用 at。表示地点时，at 多用于把地点看作一个点，如村镇、机构、具体地址；in 多用于国家、大城市等较大的范围。本句 at Roslin 把罗斯林这个村镇看作一个点；本文其他句子的 In March 1997、In July 2016 是月份加年份，用 in。", "difficult": false, "examples": [{"en": "The treaty was signed on 4 April 1949 in Washington.", "zh": "该条约于1949年4月4日在华盛顿签署。"}]}
+],
+"knowledge": [
+{"term": "Roslin", "explain": "罗斯林，苏格兰爱丁堡附近的村镇，罗斯林研究所（Roslin Institute）所在地，多莉就诞生在这家研究所。本文第6句的 Roslin's embryo-derived duo、第8句的 Roslin's announcement 中，Roslin 都是指这家研究所。"},
+{"term": "Dolly", "explain": "多莉，世界上第一只用成年动物体细胞克隆出的哺乳动物，是一只雌性绵羊，所以下文用 she、her 指代她。名字的来历见第8句。"},
+{"term": "5 July 1996", "explain": "英式日期写法“日 月 年”，读作 the fifth of July, nineteen ninety-six；美式写作 July 5, 1996。本文全部采用英式写法，如第8句的 22 February 1997、第13句的 14 February 2003。"}
+],
+"translation_tip": "视频译文“1996年7月5日，多莉在苏格兰罗斯林出生。”做了两处语序调整：①英文时间状语 on 5 July 1996 在句末，汉语习惯把时间放在句首，译文提到最前面，并按“年、月、日”的顺序写成“1996年7月5日”。②地点状语 at Roslin, Scotland 按汉语由大到小的习惯译成“苏格兰罗斯林”，放在谓语“出生”之前。be born 不译出被动意义，直接译为“出生”。"
+},
+{
+"n": 2,
+"trunk": {"subject": "Her genome", "predicate": "came from", "object_or_complement": "a Finn Dorset ewe's mammary cell", "explain": "主干是 Her genome came from a Finn Dorset ewe's mammary cell，主谓宾结构，come from（来自）作谓语，后接来源。谓语为一般过去时，主动语态。"},
+"components": [
+{"text": "Her genome", "zh": "她的基因组", "role": "主语"},
+{"text": "came from", "zh": "来自", "role": "谓语（come from，“来自”）"},
+{"text": "a Finn Dorset ewe's mammary cell,", "zh": "一只芬兰多塞特母羊的乳腺细胞", "role": "宾语（come from 的宾语；a Finn Dorset ewe's 是名词所有格，作 cell 的定语）"},
+{"text": "fused with a Blackface egg", "zh": "这个细胞融合了一枚黑脸羊卵细胞", "role": "后置定语（过去分词短语），修饰 cell"},
+{"text": "stripped of its nucleus.", "zh": "这枚卵已去除了细胞核", "role": "后置定语（过去分词短语），修饰 egg"}
+],
+"structure": "①主句是 Her genome came from a Finn Dorset ewe's mammary cell。Her 指多莉，genome 指她的一整套遗传物质，come from 说明来源。\n②宾语 a Finn Dorset ewe's mammary cell 中，不定冠词 a 修饰的是 ewe，不是 cell：a Finn Dorset ewe's 是名词所有格，意为“一只芬兰多塞特母羊的”，Finn Dorset 是羊的品种名，作 ewe 的定语；mammary 修饰 cell，说明是乳腺细胞。\n③逗号后的 fused with a Blackface egg 是过去分词短语作后置定语，修饰 cell（视频说明），相当于 which was fused with a Blackface egg：细胞是“被融合”的一方，所以用过去分词。它不是句子的第二个谓语，全句的谓语只有 came from。\n④stripped of its nucleus 也是过去分词短语作后置定语，修饰紧挨在前面的 egg（视频说明），相当于 which had been stripped of its nucleus，its 指 egg。两个分词短语层层向后修饰：cell 由 fused with… 修饰，egg 又由 stripped of… 修饰。\n⑤这句话交代了克隆的关键步骤：取母羊的乳腺细胞，与去掉细胞核的卵细胞融合。卵细胞自身的细胞核已被去除，所以句中说多莉的基因组来自那只芬兰多塞特母羊。",
+"long_difficult": true,
+"grammar": [
+{"title": "过去分词短语连续作后置定语", "explain": "及物动词的过去分词短语放在名词后作定语，表示被动或完成，相当于一个定语从句。本句有两个：fused with a Blackface egg 修饰 cell（= which was fused with a Blackface egg），stripped of its nucleus 修饰 egg（= which had been stripped of its nucleus）。判断分词修饰谁，要看语义：被融合的是细胞，被去除细胞核的是卵细胞。考研长难句里，名词后连续出现分词短语时，后一个往往修饰离它最近的名词，要逐层找准修饰对象；fused 前虽有逗号，仍是修饰 cell 的定语，不能误认为句子的第二个谓语。", "difficult": true, "examples": [{"en": "The report, published by an independent panel, criticised the ministry's handling of the crisis.", "zh": "这份由一个独立小组发布的报告批评了该部门对危机的处理。"}, {"en": "Scientists examined bones taken from a village abandoned centuries ago.", "zh": "科学家们检查了从一个几百年前就已废弃的村庄里取出的骨头。"}]},
+{"title": "strip A of B 及其被动 be stripped of", "explain": "strip A of B 表示“去除 A 的 B，剥夺 A 的 B”，A 是失去东西的一方，B 是被拿走的东西，这与汉语“去除 B”的语序不同。变为被动是 A be stripped of B，本句 a Blackface egg stripped of its nucleus 即“细胞核已被去除的卵细胞”（视频说明：be stripped of，被去除）。同类结构有 deprive sb of sth（剥夺）、rob sb of sth（抢劫）、rid sth of sth（清除）、relieve sb of sth（解除），of 后面都是被拿走的东西。考研阅读中 be stripped of a title/licence 很常见，意为“被剥夺头衔、执照”。", "difficult": true, "examples": [{"en": "The athlete was stripped of her gold medal after failing a drug test.", "zh": "这名运动员因药检未通过被剥夺了金牌。"}, {"en": "The new law would deprive many workers of their right to strike.", "zh": "新法律将剥夺许多工人的罢工权。"}]},
+{"title": "名词所有格前的冠词归属", "explain": "“a + 名词所有格 + 中心名词”中，a 修饰的是所有格名词，而不是后面的中心名词：a farmer's daughter 是“一位农民的女儿”，不是“农民的一个女儿”。本句 a Finn Dorset ewe's mammary cell 是“一只芬兰多塞特母羊的乳腺细胞”，视频把“一只”放在“母羊”前，正是这个道理。", "difficult": false, "examples": [{"en": "She found a neighbour's cat asleep on her sofa.", "zh": "她发现一位邻居家的猫在她的沙发上睡着了。"}]}
+],
+"knowledge": [
+{"term": "genome", "explain": "基因组，指一个生物体的全套遗传物质，如 the human genome（人类基因组）。视频译为“基因组”。"},
+{"term": "ewe", "explain": "母羊，指成年雌性绵羊，读音与 you 相同，为 /juː/。公羊是 ram，小羊是 lamb（第17句的 six lambs）。"},
+{"term": "Finn Dorset / Blackface", "explain": "都是绵羊品种名。Finn Dorset 视频译为“芬兰多塞特”，这种羊是白脸；Blackface 视频译为“黑脸羊”，脸是黑色的。两个品种脸色不同，正是第3句和第19句用多莉的白脸证明其血统的依据。"},
+{"term": "mammary", "explain": "形容词，乳腺的，乳房的，如 mammary gland（乳腺）。它与第7句的 mammal（哺乳动物）同源，都来自拉丁语 mamma（乳房）。第8句的 a mammary pun 也与此有关。"},
+{"term": "体细胞核移植", "explain": "本句描述的就是体细胞核移植（somatic cell nuclear transfer）的做法：把体细胞（这里是乳腺细胞）的遗传物质引入去掉细胞核的卵细胞，再让重组后的细胞发育成胚胎。多莉就是用这种方法培育出来的。"}
+],
+"translation_tip": "视频译文“她的基因组来自一只芬兰多塞特母羊的乳腺细胞，这个细胞融合了一枚黑脸羊卵细胞，这枚卵已去除了细胞核。”的处理：①主句按原顺序译出，名词所有格 a Finn Dorset ewe's 译为“一只芬兰多塞特母羊的”，不定冠词落在“母羊”上。②两个过去分词短语都没有前置成定语，而是拆成两个分句，分别用“这个细胞”“这枚卵”回指先行词，避免出现层层叠加、过长的前置定语。③fused with 原为被动意义，译文用主动的“融合了”，读起来更顺；stripped of 译为“已去除了”，“已”体现过去分词所表示的完成。"
+},
+{
+"n": 3,
+"trunk": {"subject": "A Blackface surrogate；her white face", "predicate": "carried；was", "object_or_complement": "the embryo（carried 的宾语）；proof of a genetically different lineage（was 的表语）", "explain": "由 yet 连接的两个并列分句：前一个是主谓宾结构 A Blackface surrogate carried the embryo，后一个是主系表结构 her white face was proof of…。两个谓语都是一般过去时，主动语态。"},
+"components": [
+{"text": "A Blackface surrogate", "zh": "一只黑脸羊代孕母羊", "role": "主语（第一个分句）"},
+{"text": "carried", "zh": "怀着", "role": "谓语"},
+{"text": "the embryo", "zh": "这个胚胎", "role": "宾语"},
+{"text": "through pregnancy,", "zh": "度过了孕期", "role": "时间状语（介词短语，through 表示“自始至终”）"},
+{"text": "yet", "zh": "而", "role": "并列连词（表示转折）"},
+{"text": "her white face", "zh": "多莉的白脸", "role": "主语（第二个分句；her 指 Dolly）"},
+{"text": "was", "zh": "则是", "role": "系动词"},
+{"text": "proof of a genetically different lineage.", "zh": "一个基因上不同血统的证明", "role": "表语"}
+],
+"structure": "①第一个分句 A Blackface surrogate carried the embryo through pregnancy：主语 A Blackface surrogate，Blackface 作定语说明品种；surrogate 本义是“替代者”，这里指代孕的母羊。谓语 carried 在这里指“怀（胎）”，宾语 the embryo 用定冠词，指由上句所说的乳腺细胞和去核卵细胞融合而成的那个胚胎。through pregnancy 作时间状语，through 表示从头到尾，即整个孕期。\n②yet 是并列连词，表示转折，连接两个独立分句，前面用逗号。转折点在于：代孕母羊是黑脸羊，生下来的多莉却是白脸。\n③第二个分句 her white face was proof of a genetically different lineage 是主系表结构。her 指多莉（视频说明），不是指代孕母羊。表语 proof of… 中，proof 是不可数名词，前面不加冠词；of 后的 a genetically different lineage 是证明的内容，副词 genetically 修饰形容词 different，different 再修饰 lineage，意为“在基因上不同的血统”，即不同于黑脸羊的血统，第19句点明这就是芬兰多塞特羊的血统。",
+"long_difficult": false,
+"grammar": [
+{"title": "yet 作并列连词表示转折", "explain": "yet 可以作并列连词，意思接近 but，连接两个分句，常带“然而、却”的意外色彩，前面一般用逗号，也可以说 and yet。yet 还可以作副词，用于否定句和疑问句，表示“还，仍”（not yet），两种用法要分清：本句 yet 位于两个分句之间，后面是完整的主谓结构，是连词。考研阅读中，yet 和 but、however 一样是转折信号，作者真正要强调的信息往往在转折之后，本句的重点就是多莉的白脸。", "difficult": true, "examples": [{"en": "The town is small, yet it attracts thousands of visitors every summer.", "zh": "这个小镇不大，然而每年夏天都吸引成千上万的游客。"}, {"en": "The plan sounded simple, yet it took the team three years to carry out.", "zh": "这个计划听起来很简单，团队却花了三年才完成。"}]},
+{"title": "proof 的用法", "explain": "proof 作“证据，证明”讲时多为不可数名词，一般不说 a proof of，常用结构是 proof of sth 和 proof that + 从句；作表语时可以直接说 sth is proof of sth。与 evidence 相比，proof 指足以确证事实的证据，语气更强；evidence 指支持某种结论的迹象或材料，不一定能下定论。本句用 proof，表示白脸足以说明多莉的血统与代孕母羊不同。", "difficult": false, "examples": [{"en": "The receipt is proof that the goods have been paid for.", "zh": "这张收据可以证明货款已经付清。"}]},
+{"title": "副词 + 形容词 + 名词", "explain": "副词可以修饰形容词，形容词再修饰名词，构成“副词 + 形容词 + 名词”的结构，副词说明形容词所表示的性质是就哪一方面而言的。genetically different 意为“在基因上不同的”，genetically 限定 different 的范围，不修饰 lineage。同类搭配有 economically viable、politically sensitive、environmentally friendly。翻译时这类副词常译成“在……上”，视频译为“基因上”。", "difficult": false, "examples": [{"en": "The company is developing an environmentally friendly alternative to plastic packaging.", "zh": "这家公司正在研发一种环保的塑料包装替代品。"}]}
+],
+"knowledge": [
+{"term": "surrogate", "explain": "名词，代替者；代孕者，如 a surrogate mother（代孕母亲）。本句主语是羊，视频译为“代孕母羊”。也可作形容词，意为“替代的”。"},
+{"term": "carry", "explain": "熟词僻义，指怀孕、怀着（胎儿），如 She is carrying twins（她怀着双胞胎）。carry the embryo through pregnancy 即怀着胚胎直到孕期结束，视频译为“怀着这个胚胎度过了孕期”。"},
+{"term": "lineage", "explain": "血统，世系，指从祖先延续下来的家系，视频译为“血统”。本句指多莉的遗传来源，与第19句的 ancestry（祖源）前后呼应。"},
+{"term": "white face 与 Blackface", "explain": "代孕母羊是黑脸羊，提供卵细胞的也是黑脸羊（第2句 a Blackface egg）；多莉却长着白脸。视频说明（第19句）指出：多莉虽由另一品种母羊代孕，但遗传物质来自芬兰多塞特羊，因此保留了白脸特征。所以白脸能证明她的血统。"}
+],
+"translation_tip": "视频译文“一只黑脸羊代孕母羊怀着这个胚胎度过了孕期，而多莉的白脸则是一个基因上不同血统的证明。”的处理：①surrogate 结合上下文具体化为“代孕母羊”，与“黑脸羊”连用，交代品种和身份。②carried…through pregnancy 拆成“怀着……度过了孕期”两个动作，用“度过了”表达 through 的“自始至终”。③yet 译为“而”，后一分句加“则”，突出前后对比。④代词 her 直接译成“多莉的”，消除指代上的歧义（视频说明 her 指 Dolly）。⑤表语 proof of… 的 of 结构前置为定语，译为“一个基因上不同血统的证明”。"
+},
+{
+"n": 4,
+"trunk": {"subject": "She alone", "predicate": "survived", "object_or_complement": "", "explain": "主干是 She alone survived，主谓结构，survive 在此作不及物动词，意为“存活”；alone 放在代词 She 之后，意为“只有，唯独”。谓语为一般过去时，主动语态。"},
+"components": [
+{"text": "She alone", "zh": "只有她", "role": "主语（alone 后置，修饰 She，意为“唯独”）"},
+{"text": "survived", "zh": "存活了下来", "role": "谓语"},
+{"text": "from 277 attempts,", "zh": "从277次尝试中", "role": "状语（介词短语，表示范围）"},
+{"text": "an extraordinary failure rate.", "zh": "一个异乎寻常的失败率", "role": "同位语，评述前面整件事"}
+],
+"structure": "①主句 She alone survived from 277 attempts：She 指多莉，alone 紧跟在 She 后面，表示“只有她，没有别的”，相当于 Only she survived。\n②from 277 attempts 是介词短语作状语，from 表示从某个范围之中，即277次尝试里只活下来她一个。\n③逗号后的 an extraordinary failure rate 是名词短语作同位语，视频说明它评述前面整件事，而不是补充说明某一个名词：277次尝试只成功一次，这本身就是一个异乎寻常的失败率。这种同位语相当于 which was an extraordinary failure rate，用来表达作者对前面事实的评价。\n④failure rate 是“名词 + 名词”构成的复合名词，failure 作定语，说明 rate 的类型。277次只成功1次，成功率约为0.36%，所以说失败率 extraordinary。",
+"long_difficult": false,
+"grammar": [
+{"title": "alone 置于名词或代词之后表示“只有”", "explain": "alone 放在名词或代词之后时，意为“只有，唯独”，相当于把 only 放在前面：She alone = Only she。另一种常见用法是“名词 + alone”表示“仅……就”，如 Last year alone, the firm lost $2 million（仅去年一年，公司就亏损了200万美元），考研阅读的数据句中常用来强调数量之大。alone 不能放在名词前作定语，不说 the alone survivor，应说 the only survivor 或 the sole survivor。", "difficult": true, "examples": [{"en": "In 2022 alone, the city recorded more than 40,000 new cases.", "zh": "仅2022年一年，该市就记录了4万多例新病例。"}, {"en": "Money alone cannot solve the problem.", "zh": "光靠钱解决不了这个问题。"}]},
+{"title": "句末名词短语作同位语，评述前面整句", "explain": "同位语一般对紧挨在前面的某个名词作补充说明。另有一种同位语放在句末，用逗号隔开，评述的是前面整个分句表达的情况，相当于一个指代整句的非限制性定语从句（which was…）。本句 an extraordinary failure rate 评述的是“277次尝试只活下来一只”这件事；下一句 a misconception 也是这种用法。翻译时常加“这是”变成独立分句，如第5句视频译为“这是一个错误的观念”；本句视频则保留了同位语的形式，译为“一个异乎寻常的失败率”。", "difficult": true, "examples": [{"en": "The bridge was finished two years late, a delay that cost taxpayers millions.", "zh": "大桥晚了两年才完工，这一延误让纳税人损失了数百万。"}, {"en": "Only a third of the students passed the exam, a result that alarmed the school.", "zh": "只有三分之一的学生通过了考试，这一结果让学校大为震惊。"}]},
+{"title": "survive 的不及物与及物用法", "explain": "survive 作不及物动词表示“活下来，幸存”，如本句 She alone survived；作及物动词时直接接事故、灾难等作宾语，表示“从……中活下来”，如 survive the war、survive the crash，不必加 from；survive sb 则表示“比某人活得长”。本句 from 277 attempts 中的 from 表示范围，说明她是从277次尝试里活下来的唯一一个。", "difficult": false, "examples": [{"en": "Only two of the twelve passengers survived the crash.", "zh": "十二名乘客中只有两人在这场事故中幸存。"}]}
+],
+"knowledge": [
+{"term": "277 attempts", "explain": "指罗斯林研究所为培育多莉进行的277次尝试，最终只得到多莉这一只存活的羊羔，可见当时用成年细胞克隆的成功率极低。"},
+{"term": "extraordinary", "explain": "extra-（在……之外）+ ordinary（普通的），本义“超出寻常的”；可以是褒义的“非凡的”，也可以是中性的“异乎寻常的，惊人的”。本句修饰 failure rate，取后一种意思，视频译为“异乎寻常的”。"},
+{"term": "failure rate", "explain": "失败率。同类复合名词有 success rate（成功率）、survival rate（存活率）、birth rate（出生率）、unemployment rate（失业率），考研阅读的数据描述中很常见。"}
+],
+"translation_tip": "视频译文“只有她从277次尝试中存活了下来，一个异乎寻常的失败率。”的处理：①She alone 按 alone 的“唯独”义译为“只有她”，放在句首。②from 277 attempts 译为“从277次尝试中”，放在动词之前；survived 增译“下来”，成为“存活了下来”，表示经过一连串失败后的结果。③句末同位语保留在原位置，直译为“一个异乎寻常的失败率”，作为对前面事实的评述，语序与原文一致。"
+},
+{
+"n": 5,
+"trunk": {"subject": "Dolly", "predicate": "is popularly called", "object_or_complement": "the first clone（主语补足语）", "explain": "主干是 Dolly is called the first clone。call sb sth（把某人称为……）变为被动后，原来的宾语补足语 the first clone 成为主语补足语。谓语为一般现在时被动语态，表示现在通行的说法。"},
+"components": [
+{"text": "Dolly", "zh": "多莉", "role": "主语"},
+{"text": "is popularly called", "zh": "一般被称为", "role": "谓语（一般现在时被动语态；popularly 作状语，插在 is 和 called 之间）"},
+{"text": "the first clone,", "zh": "第一个克隆体", "role": "主语补足语"},
+{"text": "a misconception.", "zh": "这是一个错误的观念", "role": "同位语，评述前面整句"}
+],
+"structure": "①主句 Dolly is popularly called the first clone 来自主动结构 People popularly call Dolly the first clone：Dolly 是宾语，the first clone 是宾语补足语。变成被动后，Dolly 作主语，the first clone 留在动词之后，成为主语补足语。\n②popularly 是状语，修饰 called，放在助动词 is 和过去分词 called 之间。这里的 popularly 不是“受欢迎地”，而是“一般地，普遍地”，指大众的普遍说法，视频译为“一般”。\n③句末 a misconception 是同位语，视频说明它评述前面整句：说多莉是“第一个克隆体”，这个说法本身是一个错误的观念。作者先摆出流行说法，再用一个名词短语直接否定，下一句列出多莉之前的克隆动物作为证据。\n④时态由第1至4句的一般过去时变为一般现在时：前面叙述多莉诞生的经过，这里讲现在人们普遍持有的说法。",
+"long_difficult": false,
+"grammar": [
+{"title": "call + 宾语 + 宾语补足语 的被动语态", "explain": "call、name、elect、consider、appoint 等动词可以接“宾语 + 宾语补足语（名词）”，如 They call him a genius。变为被动语态时，宾语变成主语，宾语补足语留在原位，变成主语补足语：He is called a genius。本句 the first clone 说明 Dolly 被称作什么。考研阅读中常见的 be known as、be regarded as、be referred to as 与此类似，后面接的都是主语补足语，翻译成“被称为……”“被看作……”。", "difficult": true, "examples": [{"en": "The lake is often called the jewel of the region.", "zh": "这座湖常被称为该地区的明珠。"}, {"en": "She was elected chair of the committee in 2019.", "zh": "她于2019年当选为委员会主席。"}]},
+{"title": "副词在被动语态中的位置", "explain": "被动语态“be + 过去分词”中，修饰动词的副词通常放在助动词和过去分词之间，如 is widely believed、was carefully examined、is popularly called。这类副词说明动作的方式或范围，常见的有 widely、commonly、generally、popularly、often。写作中用 It is widely believed that… 这类结构，可以客观地引出普遍看法。", "difficult": false, "examples": [{"en": "The plan was widely criticised as unrealistic.", "zh": "这项计划被广泛批评为不切实际。"}]}
+],
+"knowledge": [
+{"term": "popularly", "explain": "熟词僻义。popular 除了“受欢迎的”，还表示“大众的，普遍的”，所以 popularly 常表示“一般地，普遍地，通俗地”，如 popularly known as（俗称）、popularly believed（普遍认为）。本句视频译为“一般”，指大众的说法，暗示这一说法未必准确。"},
+{"term": "clone", "explain": "名词，克隆体，指与供体遗传物质相同的个体；也可作动词“克隆”。第6句 frogs cloned from…、第7句 the first mammal cloned from… 中的 cloned 都是动词的过去分词。"},
+{"term": "misconception", "explain": "mis-（错误）+ conception（观念，概念），指基于错误理解的观念，常用 a common misconception、a popular misconception（普遍的误解），常接 about 或 that 从句。本句视频译为“错误的观念”。考研阅读中，It is a misconception that… 常用来引出作者要反驳的观点。"}
+],
+"translation_tip": "视频译文“多莉一般被称为第一个克隆体，这是一个错误的观念。”的处理：①被动语态 is called 保留“被”字，译为“被称为”；popularly 译为“一般”，放在“被称为”之前。②clone 译为“克隆体”，前加“第一个”。③句末同位语 a misconception 增译“这是”，变成独立分句“这是一个错误的观念”，“这”指前面的整个说法，评述关系一目了然。"
+},
+{
+"n": 6,
+"trunk": {"subject": "Her predecessors", "predicate": "included", "object_or_complement": "frogs cloned from transplanted nuclei in 1962 and Roslin's embryo-derived duo（两个并列宾语）", "explain": "主干是 Her predecessors included frogs and Roslin's duo，主谓宾结构，两个由 and 连接的名词短语共同作宾语。谓语为一般过去时，主动语态。"},
+"components": [
+{"text": "Her predecessors", "zh": "她的前几代", "role": "主语"},
+{"text": "included", "zh": "包括", "role": "谓语"},
+{"text": "frogs", "zh": "青蛙", "role": "宾语一"},
+{"text": "cloned from transplanted nuclei in 1962", "zh": "于1962年由移植的细胞核克隆出的", "role": "后置定语（过去分词短语），修饰 frogs"},
+{"text": "and Roslin's", "zh": "以及罗斯林", "role": "并列连词 + 名词所有格（作 duo 的定语）"},
+{"text": "embryo-derived", "zh": "由胚胎衍生的", "role": "定语（“名词 + 过去分词”构成的复合形容词），修饰 duo"},
+{"text": "duo,", "zh": "一对绵羊", "role": "宾语二"},
+{"text": "Megan and Morag,", "zh": "梅根和莫拉格", "role": "同位语，补充说明 duo"},
+{"text": "in 1995.", "zh": "于1995年", "role": "时间状语（介词短语），说明这一对绵羊由胚胎衍生的年份，与前面的 in 1962 对应"}
+],
+"structure": "①主干是 Her predecessors included A and B：主语 Her predecessors，谓语 included，宾语是两个并列的名词短语。A 是 frogs cloned from transplanted nuclei in 1962，B 是 Roslin's embryo-derived duo, Megan and Morag, in 1995。两个宾语都带有修饰成分，所以句子显得长；找到 and，就能看清两个宾语的分界。\n②第一个宾语：中心词 frogs，后面的 cloned from transplanted nuclei in 1962 是过去分词短语作后置定语（视频说明），相当于 which were cloned from transplanted nuclei in 1962。短语内部，transplanted 是过去分词作前置定语，修饰 nuclei，意为“被移植的细胞核”；nuclei 是 nucleus 的复数（视频说明）；in 1962 是时间状语，修饰 cloned。\n③第二个宾语：中心词 duo，前面有两个定语：Roslin's 是名词所有格，指罗斯林研究所的；embryo-derived 是复合形容词，意为 derived from embryos（由胚胎衍生的）。两个逗号之间的 Megan and Morag 是同位语，补充说明 duo 是哪两只（视频说明）。句末 in 1995 与前面的 in 1962 对应，视频把它并入定语，译为“于1995年由胚胎衍生的”。\n④这句话为上句的 a misconception 提供证据：在多莉之前，已经有了克隆青蛙和用胚胎克隆的羊，所以多莉不是“第一个克隆体”。",
+"long_difficult": true,
+"grammar": [
+{"title": "“名词 + 过去分词”构成的复合形容词", "explain": "名词和过去分词用连字符连起来，放在名词前作定语，相当于一个被动结构加介词：embryo-derived = derived from embryos，man-made = made by man，state-owned = owned by the state，government-funded = funded by the government。名词部分一般用单数，不写 embryos-derived。这类复合形容词把一个定语从句压缩成一个词，科技和新闻语体中很常见，翻译时要把它拆开，按逻辑关系译成“由……的”“被……的”。", "difficult": true, "examples": [{"en": "Many state-owned companies were sold off in the 1990s.", "zh": "许多国有企业在20世纪90年代被出售。"}, {"en": "Researchers are testing a plant-based alternative to animal protein.", "zh": "研究人员正在测试一种以植物为原料的动物蛋白替代品。"}]},
+{"title": "并列宾语各带修饰语时找准 and 的连接对象", "explain": "并列成分各自带有较长的修饰语时，要先找到并列连词 and 或 or，再看它前后哪两个成分在结构和意义上平行。本句 and 前后是 frogs… 和 Roslin's…duo，都是 included 的宾语，都是“名词 + 修饰语”的形式，各带一个年份；不能把 and 理解为连接 1962 和 Roslin's。阅读长难句时，先划出谓语，再看谓语后有几个并列的宾语，句子结构就清楚了。", "difficult": true, "examples": [{"en": "The exhibition features paintings borrowed from private collections abroad and sculptures made by local students.", "zh": "展览展出了从海外私人收藏借来的绘画，以及本地学生创作的雕塑。"}]},
+{"title": "来自拉丁语的不规则复数：nucleus → nuclei", "explain": "一些来自拉丁语、以 -us 结尾的名词，复数把 -us 变为 -i：nucleus/nuclei、stimulus/stimuli、fungus/fungi、radius/radii。并不是所有 -us 结尾的词都这样变，如 virus 的复数是 viruses（第13句出现了 virus），bonus 的复数是 bonuses。考研阅读的科技文章中，nuclei、stimuli、fungi 都较常见。", "difficult": false, "examples": [{"en": "The fungi in the soil help the trees absorb nutrients.", "zh": "土壤中的真菌帮助树木吸收养分。"}]}
+],
+"knowledge": [
+{"term": "predecessor", "explain": "前任，前身；本句指在多莉之前出现的克隆动物，视频译为“前几代”。反义词是 successor（继任者）。"},
+{"term": "frogs cloned from transplanted nuclei in 1962", "explain": "1962年，英国生物学家约翰·格登（John Gurdon）报告，他把蝌蚪肠道细胞的细胞核移植到去核的卵细胞中，培育出了青蛙。他因相关发现与日本科学家山中伸弥分享了2012年诺贝尔生理学或医学奖。青蛙是两栖动物，不是哺乳动物。"},
+{"term": "Megan and Morag", "explain": "罗斯林研究所1995年克隆出的两只绵羊，它们的遗传物质来自胚胎细胞（embryo-derived），而多莉来自成年动物的乳腺细胞，这正是第7句强调的区别。"},
+{"term": "duo", "explain": "两人组合，一对，常指表演搭档，如 a comedy duo（喜剧二人组）。本句用于两只羊，视频译为“一对”，并增译“绵羊”。"}
+],
+"translation_tip": "视频译文“她的前几代包括于1962年由移植的细胞核克隆出的青蛙，以及罗斯林于1995年由胚胎衍生的一对绵羊：梅根和莫拉格。”的处理：①过去分词短语 cloned from transplanted nuclei in 1962 整体前置，作“青蛙”的定语，时间“于1962年”放在定语开头。②and 译为“以及”，提示后面是第二个并列宾语。③embryo-derived 拆开译为“由胚胎衍生的”，句末的 in 1995 并入这一定语，译为“于1995年由胚胎衍生的”，与前面“于1962年……”形成对应；duo 具体化为“一对绵羊”。④同位语 Megan and Morag 放在句末，用冒号引出“梅根和莫拉格”。"
+},
+{
+"n": 7,
+"trunk": {"subject": "She", "predicate": "was", "object_or_complement": "the first mammal cloned from an adult cell（表语）", "explain": "主系表结构，表语中心词是 mammal，cloned from an adult cell 作后置定语。系动词 was 为一般过去时，genuinely 修饰整个表述，表示“确实”。"},
+"components": [
+{"text": "She", "zh": "她", "role": "主语"},
+{"text": "was genuinely", "zh": "确实是", "role": "系动词 + 状语（genuinely 强调后面的说法属实）"},
+{"text": "the first mammal", "zh": "第一个……哺乳动物", "role": "表语"},
+{"text": "cloned from an adult cell.", "zh": "用成年细胞克隆出的", "role": "后置定语（过去分词短语），修饰 mammal"}
+],
+"structure": "①主系表结构：She 是主语，was 是系动词，the first mammal cloned from an adult cell 是表语。genuinely 放在系动词之后，修饰整个表语，表示“确实是，真正是”。\n②表语中 the first 修饰 mammal，过去分词短语 cloned from an adult cell 作后置定语，修饰 mammal（视频说明），相当于 that was cloned from an adult cell。\n③本句与第5、6句构成“先否定、再举证、后更正”的论证：第5句指出“第一个克隆体”是错误的观念，第6句列出此前的克隆青蛙和胚胎克隆羊作为证据，本句给出准确的说法：first 加上 mammal 和 cloned from an adult cell 两重限定，才符合事实。genuinely 正与前面的 misconception 形成对照。",
+"long_difficult": false,
+"grammar": [
+{"title": "后置定语对 the first 加以限定", "explain": "the first + 名词 后面常接后置定语，把“第一”限定在某个范围之内，可以是过去分词短语（the first mammal cloned from…），也可以是不定式（the first woman to win the prize）或介词短语（the first case in Europe）。后置定语改变了 first 的适用范围：去掉 cloned from an adult cell，句子就变成第5句所说的错误观念。考研阅读的细节题常在这类限定语上设陷阱，选项把“第一个由成年细胞克隆的哺乳动物”偷换成“第一个克隆动物”，就是扩大了范围。", "difficult": true, "examples": [{"en": "He was the first person in his family to attend university.", "zh": "他是家里第一个上大学的人。"}, {"en": "It was the first vaccine approved for use in children under five.", "zh": "这是第一种获准用于五岁以下儿童的疫苗。"}]},
+{"title": "genuinely 作状语强调真实性", "explain": "genuinely 意为“真正地，确实”，可以修饰形容词（genuinely surprised），也可以放在系动词后修饰整个表语，强调所说的情况名副其实。本句用 genuinely 与上文的 misconception 对照：笼统的说法是错的，加上限定条件后的说法确实成立。", "difficult": false, "examples": [{"en": "The new policy is genuinely different from the one it replaces.", "zh": "这项新政策与它所取代的旧政策确实不同。"}]}
+],
+"knowledge": [
+{"term": "adult cell", "explain": "成年细胞，指取自成年动物、已经分化的体细胞，如多莉所用的乳腺细胞。它与第6句的 embryo-derived（由胚胎衍生的）相对，本句强调多莉是第一个用成年细胞克隆出的哺乳动物，这正是她的科学意义所在。"},
+{"term": "mammal", "explain": "哺乳动物，与第2句的 mammary（乳腺的）同源，都来自拉丁语 mamma（乳房）。青蛙是两栖动物，所以1962年的克隆青蛙不影响“第一个……哺乳动物”的说法；Megan 和 Morag 虽是哺乳动物，却是由胚胎克隆的，所以还必须加上 from an adult cell 这一限定。"}
+],
+"translation_tip": "视频译文“她确实是第一个用成年细胞克隆出的哺乳动物。”的处理：①genuinely 与系动词合译为“确实是”。②过去分词短语 cloned from an adult cell 前置，译为“用成年细胞克隆出的”，插在“第一个”和“哺乳动物”之间；from 根据语境译为“用”，表示克隆所用的材料。"
+},
+{
+"n": 8,
+"trunk": {"subject": "Roslin's announcement；her name", "predicate": "coincided with；honoured", "object_or_complement": "the paper（coincided with 的宾语）；Dolly Parton（honoured 的宾语）", "explain": "由 and 连接的两个并列分句，都是主谓宾结构。前一个分句的谓语是 coincided with，后一个分句的谓语是 honoured，都是一般过去时，主动语态。"},
+"components": [
+{"text": "Roslin's announcement", "zh": "罗斯林的公告", "role": "主语（第一个分句）"},
+{"text": "on 22 February 1997", "zh": "1997年2月22日", "role": "后置定语（介词短语），修饰 announcement"},
+{"text": "coincided with", "zh": "与……同时发生", "role": "谓语（coincide with，“与……同时发生”）"},
+{"text": "the paper,", "zh": "这篇论文", "role": "宾语"},
+{"text": "and", "zh": "而", "role": "并列连词"},
+{"text": "her name,", "zh": "她的名字", "role": "主语（第二个分句）"},
+{"text": "a mammary pun,", "zh": "一个关于乳腺的双关语", "role": "同位语，补充说明 her name"},
+{"text": "honoured", "zh": "致敬了", "role": "谓语"},
+{"text": "Dolly Parton.", "zh": "多莉·帕顿", "role": "宾语"}
+],
+"structure": "①第一个分句 Roslin's announcement on 22 February 1997 coincided with the paper：主语中心词 announcement，Roslin's 作前置定语，指罗斯林研究所的；on 22 February 1997 是介词短语作后置定语，说明公告的日期。谓语 coincided with（视频说明：与……同时发生），宾语 the paper，指罗斯林团队报告多莉的那篇论文，定冠词 the 表示读者能确定是哪一篇。\n②and 连接第二个分句，视频译为“而”，引出另一方面的信息：名字的来历。\n③第二个分句 her name, a mammary pun, honoured Dolly Parton：主语 her name，her 指多莉；两个逗号之间的 a mammary pun 是同位语，补充说明 her name（视频说明）；谓语 honoured，宾语 Dolly Parton。主语和谓语被同位语隔开，读的时候要越过两个逗号，把 her name 和 honoured 连起来。\n④mammary pun 中，mammary 点出双关的落点：多莉由乳腺细胞（第2句 mammary cell）克隆而来，名字又取自以丰满身材闻名的美国乡村歌手多莉·帕顿，一个名字同时关联两层意思。",
+"long_difficult": true,
+"grammar": [
+{"title": "coincide with 的用法", "explain": "coincide 是不及物动词，意为“同时发生”或“（意见、利益等）一致”。一件事与另一件事同时发生用 A coincides with B，没有被动语态，不说 be coincided with；两件事作主语时可以不带 with（The two events coincided）。本句 announcement 与 the paper（论文的发表）在时间上重合。考研阅读中 coincide with 常用来说明两个现象在时间上相伴出现，要注意“同时发生”不等于存在因果关系。", "difficult": true, "examples": [{"en": "The festival was timed to coincide with the school holidays.", "zh": "这个节日特意安排在学校放假期间举行。"}, {"en": "The drop in crime coincided with an increase in police patrols.", "zh": "犯罪率下降的同时，警察巡逻也增加了。"}]},
+{"title": "主谓之间插入同位语", "explain": "同位语用逗号隔开、插在主语和谓语之间时，主谓被拆开，读的时候要跳过两个逗号之间的内容，把主语和谓语直接连起来。本句 her name 是主语，a mammary pun 是同位语，honoured 才是谓语。同位语与它说明的名词指同一事物：她的名字本身就是一个双关语。", "difficult": true, "examples": [{"en": "The building, a former textile factory, now houses dozens of small businesses.", "zh": "这栋楼原是一家纺织厂，现在里面有几十家小企业。"}]},
+{"title": "英式拼写 -our", "explain": "honoured 是英式拼写，美式拼写为 honored；同类还有 colour/color、favour/favor、behaviour/behavior、labour/labor。本文还用了 ageing（美式 aging）等英式拼写，日期也采用英式“日 月 年”的格式。写作中英式、美式拼写都可以用，但同一篇文章要保持统一。", "difficult": false, "examples": [{"en": "The city honoured the firefighters at a ceremony last week.", "zh": "上周该市举行仪式表彰了这些消防员。"}]}
+],
+"knowledge": [
+{"term": "the paper", "explain": "指罗斯林研究所团队报告多莉诞生的科学论文，发表在英国《自然》（Nature）杂志上。paper 在学术语境中指论文，常用 publish a paper、a research paper。视频译为“这篇论文”。"},
+{"term": "Dolly Parton", "explain": "多莉·帕顿，美国著名乡村音乐歌手。多莉这个名字取自她，视频译为“多莉·帕顿”。"},
+{"term": "pun", "explain": "双关语，利用一个词的多种意思或同音词制造幽默效果，常用 make a pun on a word。本句 a mammary pun 指与乳腺有关的双关，视频译为“一个关于乳腺的双关语”。"},
+{"term": "honour", "explain": "本句是及物动词，意为“向……致敬，纪念”，用她的名字命名即表示敬意，视频译为“致敬了”。honour 还常表示“授予荣誉”（be honoured with an award）和“履行（诺言、协议）”（honour a promise）。"}
+],
+"translation_tip": "视频译文“1997年2月22日罗斯林的公告与这篇论文同时发生，而她的名字，一个关于乳腺的双关语，致敬了多莉·帕顿。”的处理：①后置定语 on 22 February 1997 前置到句首，作“罗斯林的公告”的定语。②coincided with the paper 按视频说明译为“与这篇论文同时发生”，“与”提到宾语前，“同时发生”放在后面。③and 译为“而”，表示话题转换。④同位语 a mammary pun 保留在主谓之间，用逗号隔开，pun 前增译“关于……的”，译为“一个关于乳腺的双关语”。⑤专名 Dolly Parton 按通行译法译为“多莉·帕顿”。"
+},
+{
+"n": 9,
+"trunk": {"subject": "The news", "predicate": "provoked", "object_or_complement": "uproar and apprehension（两个并列宾语）", "explain": "主谓宾结构，provoked 带两个由 and 连接的宾语（视频说明）。谓语为一般过去时，主动语态。"},
+"components": [
+{"text": "The news", "zh": "这一消息", "role": "主语"},
+{"text": "provoked", "zh": "引发了", "role": "谓语"},
+{"text": "uproar", "zh": "轩然大波", "role": "宾语一"},
+{"text": "and apprehension", "zh": "以及……忧虑", "role": "并列连词 + 宾语二"},
+{"text": "about the ethics of human cloning.", "zh": "关于人类克隆伦理的", "role": "后置定语（介词短语），修饰 apprehension"}
+],
+"structure": "①主谓宾结构：主语 The news，指上文多莉诞生的消息；谓语 provoked；宾语是 uproar 和 apprehension 两个抽象名词，由 and 连接（视频说明：provoked 带两个宾语）。\n②about the ethics of human cloning 是介词短语作后置定语，修饰 apprehension（视频说明），说明忧虑的内容。about 短语里又套了一个 of 短语：of human cloning 修饰 ethics，即“人类克隆的伦理”。\n③uproar 和 apprehension 性质不同：uproar 是公众强烈、喧闹的反应，apprehension 是对将来可能发生的事的忧虑。多莉证明可以用成年细胞克隆哺乳动物，人们由此担心这种技术会用到人身上，所以忧虑落在“人类克隆的伦理”上。",
+"long_difficult": false,
+"grammar": [
+{"title": "ethics 的单复数", "explain": "ethics 表示“伦理学”这门学科时作单数（Ethics is a branch of philosophy）；表示某人或某事的“道德准则、伦理问题”时作复数（The ethics of cloning are hotly debated）。本句 the ethics of human cloning 属于后一种用法，指人类克隆涉及的伦理问题。形容词 ethical（伦理的，合乎道德的），反义 unethical；考研写作谈科技、医学话题时，ethical concerns、raise ethical questions 都很常用。", "difficult": true, "examples": [{"en": "The ethics of using animals in research are still fiercely debated.", "zh": "将动物用于研究的伦理问题至今仍有激烈争论。"}, {"en": "Medical ethics is now a compulsory course for all first-year students.", "zh": "医学伦理学现在是所有一年级学生的必修课。"}]},
+{"title": "news 作不可数名词", "explain": "news 虽以 -s 结尾，却是不可数名词，谓语用单数，不能加 a，“一条消息”要说 a piece of news。本句 The news provoked… 指上文多莉诞生的消息。", "difficult": false, "examples": [{"en": "The news was greeted with relief across the country.", "zh": "全国上下听到这个消息都松了一口气。"}]},
+{"title": "provoke 带抽象名词作宾语", "explain": "provoke 意为“引起，激起”，宾语多为情绪或反应：provoke anger、provoke a debate、provoke criticism、provoke a reaction，多指引起负面或强烈的反应；宾语是人时意为“激怒”，provoke sb into doing sth 表示“激得某人做某事”。本句 provoked uproar and apprehension 指引起了强烈的反应和忧虑。", "difficult": false, "examples": [{"en": "The minister's remarks provoked a storm of criticism.", "zh": "这位部长的言论招致了一片批评。"}]}
+],
+"knowledge": [
+{"term": "uproar", "explain": "名词，喧闹，骚动；公众的强烈抗议，常说 cause an uproar、provoke (an) uproar、be in uproar。本句指多莉诞生的消息引起的强烈反响，视频译为“轩然大波”。"},
+{"term": "apprehension", "explain": "忧虑，担心，指对将来可能发生的坏事感到不安，常用 apprehension about/over sth。apprehension 也可以指“逮捕”，但本句是“忧虑”。"},
+{"term": "human cloning", "explain": "人类克隆，指用克隆技术复制人。human 作定语，cloning 是动名词，表示克隆这一行为。第10句的 such experiments 就是回指这类实验。"}
+],
+"translation_tip": "视频译文“这一消息引发了轩然大波，以及关于人类克隆伦理的忧虑。”的处理：①The news 译为“这一消息”，回指多莉诞生的消息。②uproar 用成语“轩然大波”译出，表现反应之强烈。③两个宾语之间加逗号，用“以及”连接，避免“轩然大波”和带长定语的“忧虑”挤在一起。④后置定语 about the ethics of human cloning 前置，按“关于……的”格式译出；of 结构前后对调，译为“人类克隆伦理”。"
+},
+{
+"n": 10,
+"trunk": {"subject": "Clinton", "predicate": "prohibited", "object_or_complement": "federal funding for such experiments", "explain": "主谓宾结构，句首 In March 1997 是时间状语。谓语为一般过去时，主动语态。"},
+"components": [
+{"text": "In March 1997", "zh": "1997年3月", "role": "时间状语（介词短语）"},
+{"text": "Clinton", "zh": "克林顿", "role": "主语"},
+{"text": "prohibited", "zh": "禁止", "role": "谓语"},
+{"text": "federal funding", "zh": "联邦提供资金", "role": "宾语"},
+{"text": "for such experiments.", "zh": "用于这类实验", "role": "后置定语（介词短语，表示用途），修饰 funding"}
+],
+"structure": "①主谓宾结构：In March 1997 是时间状语，放在句首，月份和年份之间不加逗号，这个较短的状语后面也没有用逗号与主句隔开；Clinton 指时任美国总统比尔·克林顿；谓语 prohibited；宾语 federal funding。\n②for such experiments 作后置定语，修饰 funding，说明资金的用途。such experiments 回指上句的 human cloning，即人类克隆实验。\n③本句是上句“轩然大波和忧虑”的具体后果。被禁止的是 federal funding，即用联邦资金资助这类实验，句子并没有说禁止一切相关研究。",
+"long_difficult": false,
+"grammar": [
+{"title": "prohibit 的用法", "explain": "prohibit 是正式用语，意为“（以法律、规定）禁止”，常用结构有 prohibit sth（prohibit smoking）、prohibit sb from doing sth，被动 be prohibited (by law)。不能说 prohibit sb to do sth，这是考研写作的常见错误；同样接 from doing 的还有 ban、bar、prevent、stop；forbid 则可以接 sb to do sth。本句 prohibited federal funding 直接接名词作宾语。", "difficult": true, "examples": [{"en": "The new rules prohibit lorries from entering the city centre during the day.", "zh": "新规定禁止货车白天进入市中心。"}, {"en": "Smoking is prohibited in all public buildings.", "zh": "所有公共建筑内禁止吸烟。"}]},
+{"title": "such + 复数名词 回指上文", "explain": "such 作限定词，回指上文提到的同类事物，意为“这类，这样的”。后接复数名词或不可数名词时不加冠词（such experiments），接单数可数名词时要加 a（such an experiment）。本句 such experiments 回指上句的 human cloning。", "difficult": false, "examples": [{"en": "Such measures are unlikely to reduce traffic in the long term.", "zh": "从长远来看，这类措施不太可能减少交通流量。"}]}
+],
+"knowledge": [
+{"term": "Clinton", "explain": "指比尔·克林顿（Bill Clinton），1993年至2001年任美国总统。视频译为“克林顿”。"},
+{"term": "federal", "explain": "联邦的，联邦政府的。美国的政府分为联邦政府（federal government）和州政府（state government）。federal funding 指联邦政府提供的资助，视频译为“联邦提供资金”。"},
+{"term": "funding", "explain": "资金，资助，不可数名词；fund 作动词表示“为……提供资金”，作名词表示“基金，资金”。本句 funding 带有动作意味，视频译为“提供资金”。"}
+],
+"translation_tip": "视频译文“1997年3月，克林顿禁止联邦提供资金用于这类实验。”的处理：①时间状语 In March 1997 按“年、月”的顺序译为“1997年3月”，后加逗号。②名词短语 federal funding 化静为动，译成主谓结构“联邦提供资金”，federal 成为“提供”的逻辑主语。③后置定语 for such experiments 译为“用于这类实验”，接在后面，形成“禁止联邦提供资金用于这类实验”的连动结构，符合汉语习惯。"
+}
+]

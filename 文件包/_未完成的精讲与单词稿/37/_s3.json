@@ -1,0 +1,442 @@
+[
+{
+ "n": 13,
+ "trunk": {
+  "subject": "That same year",
+  "predicate": "brought",
+  "object_or_complement": "a scare",
+  "explain": "主干就是全句：That same year brought a scare，主谓宾结构，主语是时间名词短语，属于英语常见的无灵主语句。谓语为一般过去时，主动语态。"
+ },
+ "components": [
+  {
+   "text": "That same year",
+   "role": "主语（时间名词短语，指上句的2017年）",
+   "zh": "同一年"
+  },
+  {
+   "text": "brought",
+   "role": "谓语",
+   "zh": "还有过"
+  },
+  {
+   "text": "a scare.",
+   "role": "宾语",
+   "zh": "一场虚惊"
+  }
+ ],
+ "structure": "①全句是主谓宾结构。主语 That same year 指上句的 in 2017，that same 强调“就是那一年”。\n②谓语 brought 是 bring 的过去式，主语是时间而不是人，这类无灵主语句意为“在这段时间里发生了……”。\n③宾语 a scare 是名词，意为“惊吓，恐慌”。结合视频第14句的年份说明：入口进水发生在2016年10月，2017年5月引发广泛报道；种子储藏区没有进水。所以本句说的是2017年人们因报道而受到的惊吓，结合第15句种子安然无恙，视频译为“虚惊”。\n④本句是第5段的总起句，后面三句依次交代经过、结果和补救措施。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "时间名词作主语的无灵主语句",
+   "explain": "英语常用时间、年代、事件等无生命的名词作主语，搭配 bring、see、witness 等动词，表示“在这段时间里发生了……”，如 The 1990s saw the rise of the internet。汉语一般不这样说，翻译时要把主语转成时间状语，谓语改译为“有”“发生了”“出现了”等。本句 That same year brought a scare，视频译为“同一年还有过一场虚惊”。考研翻译和阅读中这类句子很常见，写作中恰当使用也能让表达更地道。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "The following decade brought rapid growth to the region's economy.",
+     "zh": "接下来的十年里，该地区经济迅速增长。"
+    },
+    {
+     "en": "The 1990s saw a sharp rise in internet use.",
+     "zh": "20世纪90年代，互联网的使用量急剧上升。"
+    }
+   ]
+  },
+  {
+   "title": "that same + 名词",
+   "explain": "same 作形容词时前面要有 the、this、that 等限定词，that same day、that same year 意为“就在同一天、同一年”，比 the same year 更强调回指上文刚提到的那个时间。这类名词短语可以直接作时间状语，不加介词；本句则直接作主语。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "He submitted the application in the morning and received a reply that same afternoon.",
+     "zh": "他上午提交了申请，当天下午就收到了回复。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "scare",
+   "explain": "名词，“惊吓，恐慌”，常指一时引起公众担忧的事件，如 a health scare（健康恐慌）、a bomb scare（炸弹恐慌）；也可作动词“使惊恐”，形容词 scared。本句视频译为“虚惊”，因为随后的第15句说明种子并未受损。"
+  },
+  {
+   "term": "bring",
+   "explain": "本句意为“（某段时间）带来，发生了”，如 The new year brought fresh challenges。视频结合汉语习惯译为“还有过”。"
+  }
+ ],
+ "translation_tip": "视频译文“同一年还有过一场虚惊。”的处理：①无灵主语句改译：汉语不说“那一年带来了一场虚惊”，于是把主语 That same year 译为“同一年”，置于句首，作为话题。②谓语 brought 改译为“还有过”，其中“还”是增补的，承接上句种子回归之事，表示同一年另有一件事。③a scare 译为“一场虚惊”，增补量词“场”。"
+},
+{
+ "n": 14,
+ "trunk": {
+  "subject": "meltwater",
+  "predicate": "ran into；solidified",
+  "object_or_complement": "the roughly 100-metre entrance tunnel（介词 into 的宾语）",
+  "explain": "主干是 meltwater ran into the tunnel and solidified，一个主语带两个并列谓语：ran 是不及物动词，与 into 合起来表示“流进”；solidified 不及物，意为“凝固”。两个谓语都是一般过去时，主动语态，按时间先后排列。"
+ },
+ "components": [
+  {
+   "text": "After record-breaking warmth,",
+   "role": "时间状语（介词短语）",
+   "zh": "在一段破纪录的温暖天气之后"
+  },
+  {
+   "text": "meltwater",
+   "role": "主语",
+   "zh": "融水"
+  },
+  {
+   "text": "ran into",
+   "role": "谓语一（ran into：流进）",
+   "zh": "流进"
+  },
+  {
+   "text": "the roughly 100-metre entrance tunnel",
+   "role": "介词 into 的宾语（roughly 修饰 100，100-metre 和 entrance 都是前置定语）",
+   "zh": "大约100米长的入口隧道"
+  },
+  {
+   "text": "and solidified.",
+   "role": "并列连词 and + 谓语二",
+   "zh": "随后凝固成冰"
+  }
+ ],
+ "structure": "①After record-breaking warmth 是时间状语：warmth 是不可数名词，指温暖的天气；record-breaking 是复合形容词，意为“破纪录的”。\n②主语 meltwater（融水）带两个并列谓语 ran into … 和 solidified，用 and 连接，先流进，后凝固，按时间顺序排列。\n③the roughly 100-metre entrance tunnel 中有两个前置定语：100-metre 是“数词-名词”构成的复合形容词，说明隧道的长度，roughly 是副词，修饰数词 100，意为“大约”；entrance 是名词作定语，说明是入口处的隧道。\n④视频年份说明：入口进水发生在2016年10月，2017年5月引发广泛报道；种子储藏区没有进水。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "“数词-名词”构成复合形容词",
+   "explain": "数词与名词用连字符连接，可构成复合形容词，作前置定语，其中的名词一律用单数，如 a 100-metre tunnel、a five-year plan、a ten-minute walk、a two-hour meeting。同样的意思作表语时要拆开，名词用复数：The tunnel is about 100 metres long。考研写作中常见的错误是写成 a five-years plan。本句 the roughly 100-metre entrance tunnel 中 metre 用单数，视频译为“100米长的”。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "The company announced a three-year plan to cut its carbon emissions.",
+     "zh": "该公司宣布了一项为期三年的碳减排计划。"
+    },
+    {
+     "en": "Visitors face a 20-minute walk from the car park to the summit.",
+     "zh": "游客从停车场到山顶要步行20分钟。"
+    }
+   ]
+  },
+  {
+   "title": "名词作前置定语",
+   "explain": "名词可以直接放在另一个名词前作定语，说明其位置、用途、材料或类别，作定语的名词一般用单数，如 entrance tunnel（入口隧道）、water supply（供水）、safety rules（安全规定）。几个前置定语并列时，名词定语紧挨中心词，形容词和表示数量、长度的定语放在前面，如本句 the roughly 100-metre entrance tunnel。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The city plans to widen the main entrance road before the summer.",
+     "zh": "该市计划在夏季之前拓宽主入口道路。"
+    }
+   ]
+  },
+  {
+   "title": "并列谓语按时间顺序排列",
+   "explain": "同一主语先后发出几个动作时，可用 and 连接几个并列谓语，通常按发生顺序排列，and 有“然后，随后”的意思。本句 ran into the tunnel and solidified：先流进隧道，再凝固成冰，视频把 and 译为“随后”。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The snow melted in the afternoon and froze again overnight.",
+     "zh": "积雪下午融化，夜里又冻上了。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "record-breaking",
+   "explain": "形容词，“破纪录的”，如 record-breaking temperatures、a record-breaking sales year。record 也可直接作定语，如 a record high（历史新高）。"
+  },
+  {
+   "term": "meltwater",
+   "explain": "名词，“融水”，指冰雪融化形成的水，写成一个词。"
+  },
+  {
+   "term": "warmth",
+   "explain": "名词，“温暖，暖和”，不可数，形容词 warm 加后缀 -th 构成，同类构词有 length、depth、width。本句指异常温暖的天气，视频译为“温暖天气”；据视频的概要，这是2016年10月异常温暖、多雨的天气。"
+  },
+  {
+   "term": "solidify",
+   "explain": "动词，“凝固，变硬”，本句指融水结冰，视频译为“凝固成冰”；比喻义为“巩固，加强”，如 solidify one's position。形容词 solid。"
+  },
+  {
+   "term": "roughly",
+   "explain": "副词，“大约”，修饰数字时相当于 about、approximately；另一义是“粗暴地，粗略地”。"
+  }
+ ],
+ "translation_tip": "视频译文“在一段破纪录的温暖天气之后，融水流进大约100米长的入口隧道，随后凝固成冰。”的处理：①抽象名词 warmth 具体化为“温暖天气”，并增补量词“一段”，译成“在一段破纪录的温暖天气之后”。②ran into 译为“流进”，与主语“融水”搭配自然。③复合形容词 100-metre 译为“100米长的”，增补“长”字说明这是长度；roughly 译为“大约”。④and 译为“随后”，体现先后；solidified 增补“成冰”，点明凝固的结果。"
+},
+{
+ "n": 15,
+ "trunk": {
+  "subject": "The intrusion",
+  "predicate": "stopped short of",
+  "object_or_complement": "the seeds",
+  "explain": "主干是 The intrusion stopped short of the seeds，stop short of 是固定短语（视频说明：没有到达），后接宾语，整体相当于一个及物动词。谓语为一般过去时，主动语态；句末 which 引导非限制性定语从句。"
+ },
+ "components": [
+  {
+   "text": "The intrusion",
+   "role": "主语（指上句融水流入隧道一事）",
+   "zh": "这次（冰水的）侵入"
+  },
+  {
+   "text": "stopped short of",
+   "role": "谓语（短语动词 stop short of：没有到达）",
+   "zh": "没有到达"
+  },
+  {
+   "text": "the seeds,",
+   "role": "宾语",
+   "zh": "种子所在的位置"
+  },
+  {
+   "text": "which stayed safely at minus 18 degrees Celsius.",
+   "role": "非限制性定语从句，修饰 the seeds",
+   "zh": "它们安全地保持在零下18摄氏度"
+  }
+ ],
+ "structure": "①主句 The intrusion stopped short of the seeds：intrusion 是名词，指上句融水流进隧道这一“侵入”；the 表示特指这一次。stop short of 意为“没有到达”（视频说明），short 是副词，表示“未达到”。\n②which 引导非限制性定语从句，修饰 the seeds（视频说明）。which 在从句中作主语；从句谓语 stayed 是不及物动词，意为“保持，停留”，safely 是方式状语，at minus 18 degrees Celsius 是介词短语作状语，说明保存温度。先行词 seeds 是复数，所以从句中 which 指“它们”。\n③本句回应第13句的 a scare：融水没有到达种子，种子依然安全，因此只是一场虚惊。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "which 引导非限制性定语从句",
+   "explain": "非限制性定语从句用逗号与主句隔开，对先行词作补充说明，去掉后主句意思仍然完整；指物用 which，不能用 that。which 在从句中可作主语或宾语，作主语时不能省略。本句 which 指 the seeds，在从句中作主语。翻译时这类从句常拆成独立分句，用代词或重复先行词来衔接，本句视频译为“它们安全地保持在零下18摄氏度”。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "Floodwater reached the library's basement, which held thousands of rare manuscripts.",
+     "zh": "洪水漫进了图书馆的地下室，那里存放着数千份珍稀手稿。"
+    },
+    {
+     "en": "The vaccine is kept in special freezers, which hold it at minus 70 degrees Celsius.",
+     "zh": "这种疫苗存放在特制冷柜中，冷柜使其保持在零下70摄氏度。"
+    }
+   ]
+  },
+  {
+   "title": "stay 作系动词与实义动词",
+   "explain": "stay 作系动词时意为“保持（某种状态）”，后接形容词作表语，如 stay calm、stay safe、stay open；作不及物的实义动词时意为“停留，待在”，后接副词或介词短语作状语。本句 stayed safely at minus 18 degrees Celsius 中，safely 是副词，说明种子停留在零下18摄氏度时是安全的，stay 是实义动词。写作中要根据后面是形容词还是副词判断 stay 的性质，不能写成 stay safely 表示“保持安全”。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "Despite the storm, the climbers stayed calm and waited for rescue.",
+     "zh": "尽管遇上暴风雪，登山者们仍保持冷静，等待救援。"
+    }
+   ]
+  },
+  {
+   "title": "温度的表达",
+   "explain": "零下温度用 minus，如 minus 18 degrees Celsius（零下18摄氏度），书面写作 -18°C；degree 在大于1的数字后用复数 degrees；Celsius（摄氏）和 Fahrenheit（华氏）首字母大写，放在 degrees 之后。也可说 18 degrees below zero。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "Temperatures fell to minus 30 degrees Celsius overnight.",
+     "zh": "夜间气温降到了零下30摄氏度。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "stop short of",
+   "explain": "本句意为“没有到达”（视频说明），即在到达某处之前就停住了。stop short of doing sth 还常表示“差一点就做某事，不至于做某事”，如 The minister stopped short of calling for a ban（部长没有到呼吁禁止的地步）。考研阅读中后一种用法常用来表现态度的分寸。"
+  },
+  {
+   "term": "intrusion",
+   "explain": "名词，“侵入，闯入，打扰”，常见 an intrusion into sb's privacy（侵犯隐私）。动词 intrude，形容词 intrusive。本句视频译为“这次（冰水的）侵入”。"
+  },
+  {
+   "term": "Celsius",
+   "explain": "摄氏温标，以瑞典天文学家摄尔修斯（Anders Celsius）的姓氏命名，也叫 centigrade。"
+  }
+ ],
+ "translation_tip": "视频译文“这次（冰水的）侵入没有到达种子所在的位置，它们安全地保持在零下18摄氏度。”的处理：①The 译为“这次”，表明指上句的那次进水；括号增补“冰水的”，说明侵入的是什么。②stopped short of 按视频说明译为“没有到达”。③the seeds 增补“所在的位置”，与“没有到达”搭配更自然。④非限制性定语从句拆成独立分句，which 译为“它们”回指种子；stayed safely 译为“安全地保持在”。"
+},
+{
+ "n": 16,
+ "trunk": {
+  "subject": "Norway",
+  "predicate": "waterproofed；dug",
+  "object_or_complement": "the tunnel（waterproofed 的宾语）；drainage ditches（dug 的宾语）",
+  "explain": "一个主语带两个由 and 连接的并列谓语，构成两个主谓宾结构：Norway waterproofed the tunnel 和 (Norway) dug drainage ditches。两个谓语都是一般过去时，主动语态。"
+ },
+ "components": [
+  {
+   "text": "Norway",
+   "role": "主语（国名，指挪威政府方面）",
+   "zh": "挪威"
+  },
+  {
+   "text": "waterproofed",
+   "role": "谓语一（waterproof 作及物动词）",
+   "zh": "给……做了防水"
+  },
+  {
+   "text": "the tunnel",
+   "role": "宾语（waterproofed 的宾语）",
+   "zh": "隧道"
+  },
+  {
+   "text": "and dug",
+   "role": "并列连词 and + 谓语二（dug 是 dig 的过去式）",
+   "zh": "并挖了"
+  },
+  {
+   "text": "drainage ditches.",
+   "role": "宾语（dug 的宾语；drainage 是名词作定语）",
+   "zh": "排水用的沟渠"
+  }
+ ],
+ "structure": "①主语 Norway 是国名，指挪威方面采取了措施，属于以国名代指政府的用法。\n②两个并列谓语 waterproofed 和 dug 共用主语，用 and 连接。waterproof 常作形容词“防水的”，这里作及物动词，意为“使防水，给……做防水处理”；dug 是 dig 的过去式。\n③drainage ditches 中 drainage 是名词作定语，说明沟渠的用途是排水。\n④本句交代进水之后的补救措施，与上文的进水和虚惊相承接。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "形容词、名词转作动词",
+   "explain": "英语中不少形容词或名词可以直接用作动词，词形不变，如 waterproof（防水的，使防水）、empty（空的，倒空）、dry（干的，弄干）、water（水，浇水）。本句 waterproofed the tunnel 中 waterproof 作及物动词，加 -ed 表示过去式。考研阅读中遇到熟悉的形容词、名词出现在谓语位置时，要按动词理解。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "The builders waterproofed the basement before the rainy season.",
+     "zh": "建筑工人在雨季到来前给地下室做了防水。"
+    }
+   ]
+  },
+  {
+   "title": "国名作主语代指政府",
+   "explain": "新闻和评论文章常用国名代指该国政府或官方，这是一种借代用法，如 Japan has pledged further aid、France voted against the proposal。本句 Norway waterproofed the tunnel 指挪威方面对隧道进行了防水施工。视频直接译为“挪威”。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "Japan has pledged further aid to the flood-hit region.",
+     "zh": "日本已承诺向受洪灾地区提供更多援助。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "waterproof",
+   "explain": "形容词“防水的”，如 a waterproof jacket；动词“使防水”；名词（英式）指“雨衣”。-proof 作后缀表示“防……的”，如 fireproof（防火的）、soundproof（隔音的）、bulletproof（防弹的）。"
+  },
+  {
+   "term": "dig（dug, dug）",
+   "explain": "不规则动词，过去式和过去分词都是 dug，如 dig a hole、dig a well。dig into 还可表示“深入调查”。"
+  },
+  {
+   "term": "drainage ditch",
+   "explain": "排水沟。drainage 是名词“排水，排水系统”，由 drain 加 -age 构成；ditch 指“沟，渠”。ditch 作动词在口语中意为“抛弃，放弃”，如 ditch a plan。"
+  }
+ ],
+ "translation_tip": "视频译文“挪威给隧道做了防水，并挖了排水用的沟渠。”的处理：①动词 waterproofed 译成“做了防水”，用介词“给”把宾语“隧道”提到动词前，即“给隧道做了防水”，符合汉语习惯。②and 译为“并”，连接两个动作。③名词定语 drainage 译为“排水用的”，点明沟渠的用途；ditches 译为“沟渠”。"
+},
+{
+ "n": 17,
+ "trunk": {
+  "subject": "A haven；warmer weather",
+  "predicate": "had；found",
+  "object_or_complement": "a weakness（前一分句的宾语）；it（后一分句的宾语，指 weakness）",
+  "explain": "本句是 and 连接的并列句，两个分句都是主谓宾结构。谓语 had 和 found 都是一般过去时，主动语态。"
+ },
+ "components": [
+  {
+   "text": "A haven",
+   "role": "主语（前一分句）",
+   "zh": "一座……避难所"
+  },
+  {
+   "text": "built against the apocalypse",
+   "role": "后置定语（过去分词短语），修饰 haven",
+   "zh": "为抵御世界末日而建的"
+  },
+  {
+   "text": "had",
+   "role": "谓语（前一分句）",
+   "zh": "却有"
+  },
+  {
+   "text": "a weakness",
+   "role": "宾语（前一分句）",
+   "zh": "一个弱点"
+  },
+  {
+   "text": "at its own entrance,",
+   "role": "地点状语（介词短语；its 指 haven）",
+   "zh": "在自家入口处"
+  },
+  {
+   "text": "and",
+   "role": "并列连词",
+   "zh": "并且"
+  },
+  {
+   "text": "warmer weather",
+   "role": "主语（后一分句）",
+   "zh": "更暖的天气"
+  },
+  {
+   "text": "found",
+   "role": "谓语（后一分句）",
+   "zh": "找到了"
+  },
+  {
+   "text": "it.",
+   "role": "宾语（后一分句；it 指 weakness）",
+   "zh": "它"
+  }
+ ],
+ "structure": "①前一分句的主语是 A haven，built against the apocalypse 是过去分词短语作后置定语，修饰 haven（视频说明），相当于 which was built against the apocalypse；against 表示“防备，抵御”。谓语 had，宾语 a weakness，at its own entrance 作地点状语，its 指 haven，own 强调“它自己的”。\n②and 连接后一分句 warmer weather found it：it 指 weakness（视频说明）；warmer 是比较级，隐含与以往相比天气变暖。\n③found 是拟人用法，好像变暖的天气主动“找到”了弱点，指出天气变暖暴露了入口的薄弱之处。\n④本句是全文的结尾句，用一个对比收束全文：为抵御世界末日而建的种子库，弱点却在自家门口，呼应第13到16句的进水与修补。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "过去分词短语作后置定语",
+   "explain": "及物动词的过去分词短语放在名词之后作定语，表示被动或完成，相当于一个被动的定语从句。本句 A haven built against the apocalypse 相当于 A haven which was built against the apocalypse，避难所是“被建造”的一方。阅读时要分清这里的 built 是定语，句子真正的谓语是后面的 had。翻译时一般前置为“……的”，本句视频译为“为抵御世界末日而建的避难所”。",
+   "difficult": true,
+   "examples": [
+    {
+     "en": "A seawall built against storm surges gave way during the hurricane.",
+     "zh": "一道为抵御风暴潮而修建的海堤在飓风中垮塌了。"
+    },
+    {
+     "en": "Many of the houses built after the earthquake follow stricter safety codes.",
+     "zh": "地震后建造的许多房屋遵循更严格的安全规范。"
+    }
+   ]
+  },
+  {
+   "title": "比较级单独使用，隐含比较对象",
+   "explain": "形容词比较级可以不带 than 单独使用，比较对象从上下文中可以推知。本句 warmer weather 隐含“比以往更暖的天气”，与第14句的 record-breaking warmth 相呼应。气候类文章中常见 warmer winters、higher temperatures 等说法，比较对象通常是过去的平均水平。",
+   "difficult": false,
+   "examples": [
+    {
+     "en": "Warmer winters are allowing some pests to survive further north.",
+     "zh": "更暖和的冬季让一些害虫得以在更靠北的地区存活。"
+    }
+   ]
+  }
+ ],
+ "knowledge": [
+  {
+   "term": "haven",
+   "explain": "名词，“避难所，避风港”，如 a safe haven（安全的避风港）、a tax haven（避税天堂）。本句指种子库，视频译为“避难所”。"
+  },
+  {
+   "term": "apocalypse",
+   "explain": "名词，“世界末日，大灾难”，形容词 apocalyptic（末日的，灾难性的）。本句 the apocalypse 呼应标题中的 Doomsday，视频译为“世界末日”。"
+  },
+  {
+   "term": "against（防备，抵御）",
+   "explain": "介词 against 可表示“防备，抵御”，如 protect against disease、guard against fraud。本句 built against the apocalypse 与第3句的 insure … against the horrors 前后呼应。"
+  },
+  {
+   "term": "its own",
+   "explain": "own 用在物主代词之后，强调“自己的”，如 its own entrance、their own seeds。本句强调弱点就在种子库自家门口，视频译为“自家入口处”。"
+  },
+  {
+   "term": "weakness",
+   "explain": "名词，“弱点，缺点”，常与 strength 对举，如 strengths and weaknesses；have a weakness for sth 意为“特别喜爱某物”。视频译为“弱点”。"
+  }
+ ],
+ "translation_tip": "视频译文“一座为抵御世界末日而建的避难所，在自家入口处却有一个弱点，并且更暖的天气找到了它。”的处理：①过去分词短语后置定语前置，用“为……而建的”译出 against 的“抵御”之意和 built 的被动之意，不定冠词 A 译为量词“一座”。②地点状语 at its own entrance 移到谓语前，its own 译为“自家”。③增补“却”，点出“为防末日而建却有弱点”的转折。④and 译为“并且”；found it 直译为“找到了它”，保留原文的拟人色彩。"
+}
+]
