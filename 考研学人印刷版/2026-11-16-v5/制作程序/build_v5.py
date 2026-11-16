@@ -276,17 +276,33 @@ def vocab_by_paragraph(d):
         if items: groups.append((pi, [(a, b) for _, a, b in items]))
     return groups
 
+def book_vocab(d):
+    """User 2026-11-16 (second request): the list under each article shows the dictionary form, the part of speech
+    (n. vt. vi. adj. adv. ... phr.) and the dictionary sense that fits this article's context. Those come from
+    d['vocab_book'] (reworked entry by entry, reviewed, checked by vocab2/check_vocab2.py); entries whose lemma and
+    part of speech repeat an earlier one in the same article are dropped. Without vocab_book: the old video pairs."""
+    if 'vocab_book' not in d:
+        return [(pi, [(en, None, zh) for en, zh in items]) for pi, items in vocab_by_paragraph(d)]
+    old = [(pi, en) for pi, items in vocab_by_paragraph(d) for en, _ in items]
+    vb = d['vocab_book']
+    assert [(v['para'] - 1, v['term']) for v in vb] == old, (d['id'], 'vocab_book does not match the video word list')
+    groups = {}
+    for v in vb:
+        if not v.get('drop'): groups.setdefault(v['para'] - 1, []).append((v['lemma'], v['pos'], v['zh']))
+    return sorted(groups.items())
+
 def vocabulary(b, d):
-    groups = vocab_by_paragraph(d)
+    groups = book_vocab(d)
     cols, gutter = 3, 12
     colw = (TW - gutter * (cols - 1)) / cols
     est = ParagraphStyle('ve', fontName='EN', fontSize=10.2, leading=13, textColor=colors.HexColor(ACCENT))
     b.label('词汇与表达')
     for gi, (pi, items) in enumerate(groups):
         cells = []
-        for en, zh in items:
+        for en, pos, zh in items:
             ep = Paragraph(escape(en), est); eh = ep.wrap(colw, 1000)[1]
-            zp = CJKPara([(zh, 'ZH', INK)], 9.4, 13.6); zh_h = zp.wrap(colw, 1000)[1]
+            runs = ([(pos + ' ', 'ENI', MUTED)] if pos else []) + [(zh, 'ZH', INK)]
+            zp = CJKPara(runs, 9.4, 13.6); zh_h = zp.wrap(colw, 1000)[1]
             cells.append((ep, eh, zp, zh_h))
         rows = [cells[i:i + cols] for i in range(0, len(cells), cols)]
         heights = [max(e + z for _, e, _, z in r) + 7 for r in rows]
@@ -380,7 +396,7 @@ def build(out, data_dir, img_dir, meta, cover, backc, only=None, toc_pages=None)
     chapters = [json.loads(f.read_text()) for f in files]
     if only: chapters = [d for d in chapters if d['id'] in only]
     every = [json.loads(f.read_text()) for f in files]            # count over the whole book, even in a prototype
-    n_vocab = sum(len(i) for d in every for _, i in vocab_by_paragraph(d))      # entries actually listed in the book
+    n_vocab = sum(len(i) for d in every for _, i in book_vocab(d))      # entries actually listed in the book
     b = Book(out, toc_pages)
     c = b.c
     c.setTitle('考研学人｜70篇趣味英语阅读' + ('（羊皮纸版）' if THEME == 'parchment' else '')); c.setAuthor('朋克英语'); c.setSubject('70篇故事 · 中英双语 · 重点词与短语 · 文章简述'); c.setCreator('朋克英语'); c.setKeywords('考研英语, 阅读, 词汇')
