@@ -197,7 +197,7 @@ def opener(b, d, img):
     b.mark(f'{d["id"]}  {d["title_zh"]}', 0)
     t0 = CJKPara([(d['title_zh'], 'ZH', INK)], 21, 29); t0.wrap(TW, 400)
     pe = Paragraph(escape(d['title_en']), ParagraphStyle('m', fontName='ENDI', fontSize=13.5, leading=17.5)); _, peh = pe.wrap(TW, 200)
-    block = 52 + len(t0.lines) * 29 + 2 + peh + 16 + TW * 1024 / 1536 + 22 + 50 + 14
+    block = 52 + len(t0.lines) * 29 + 2 + peh + 16 + TW * 1024 / 1536 + 22 + 50
     spare = max(0.0, (H - TOP - BOTTOM) - block)
     y = H - 21 * MM - spare * 0.38                       # optical centre, slightly above middle
     c.setFont('END', 30); c.setFillColor(colors.HexColor(ACCENT)); c.drawString(x, y - 26, d['id'])
@@ -211,10 +211,7 @@ def opener(b, d, img):
     c.drawImage(str(img), x, y - ih, width=TW, height=ih); y -= ih + 22
     c.setFillColor(colors.HexColor(ACCENT)); c.rect(x, y - 30, 2.2, 30, stroke=0, fill=1)
     q = CJKPara([(d['cover_question'], 'ZH', INK)], 12, 19); q.wrap(TW - 14, 200); q.draw(c, x + 12, y - 1)
-    y -= max(30, len(q.lines) * 19) + 14
-    words = len(re.findall(r"[A-Za-z][A-Za-z'’-]*", ' '.join(d['english_paragraphs'])))
-    c.setFont('ZHS', 8.4); c.setFillColor(colors.HexColor(MUTED))
-    c.drawString(x + 12, y, f'英文 {words} 词 · 重点词与短语 {sum(len(i) for _, i in vocab_by_paragraph(d))} 个')
+    # user 2026-11-16: no word counts / key-word counts on the opener
 
 ZH_NUM = '一二三四五六七八九十'
 def para_name(i):
@@ -310,10 +307,24 @@ def front(b, meta, chapters, cover_img, n_vocab):
     c.setFont('ZHS', 9.5); c.setFillColor(colors.HexColor(MUTED)); c.drawCentredString(W / 2, H * 0.62 - 76, '中英双语 · 重点词与短语 · 文章简述')
     c.setFont('ZHS', 10); c.setFillColor(colors.HexColor(INK)); c.drawCentredString(W / 2, 30 * MM, '朋克英语')
     b.new_page('前言'); b.mark('前言', 0)
-    c.setFont('ZH', 22); c.setFillColor(colors.HexColor(INK)); c.drawString(b.x0(), b.y - 22, '前言'); b.y -= 52
-    for ptxt in meta['preface_paragraphs']:
-        ptxt = re.sub(r'全书标注\d+项', f'全书标注{n_vocab}项', ptxt)
-        b.flow(CJKPara([(ptxt, 'ZH', INK)], 10.8, 19.6, first_indent=21.6), 9)
+    pf = meta['preface_v5']                          # user 2026-11-16: more engaging preface, "4300"
+    assert 4200 < n_vocab <= 4300, n_vocab           # keeps the wording “近4300” true
+    page0, x = b.page, b.x0()
+    c.setFont('ZH', 24); c.setFillColor(colors.HexColor(INK)); c.drawString(x, b.y - 24, '前言')
+    c.setFont('ENDI', 12.5); c.setFillColor(colors.HexColor(ACCENT)); c.drawString(x + 58, b.y - 23, 'Preface')
+    b.y -= 36
+    c.setStrokeColor(colors.HexColor(ACCENT)); c.setLineWidth(0.8); c.line(x, b.y, x + 14, b.y)
+    b.y -= 20
+    top = b.y
+    for year, text in pf['hooks']:                   # four story openers: year in accent, thin rule at left
+        b.flow(CJKPara([(year, 'ZH', ACCENT), (text, 'ZH', INK)], 11, 19.4), 6, indent=13)
+    c.setStrokeColor(colors.HexColor(RULE)); c.setLineWidth(1.1); c.line(x + 1.5, top - 3, x + 1.5, b.y + 12)
+    b.y -= 10
+    for ptxt in pf['paragraphs']:
+        b.flow(CJKPara([(ptxt, 'ZH', INK)], 10.6, 19, first_indent=21.2), 6)
+    b.y -= 10
+    c.setFont('ZHS', 10); c.setFillColor(colors.HexColor(MUTED)); c.drawRightString(x + TW, b.y - 10, pf['signoff'])
+    assert b.page == page0 and b.y - 10 > BOTTOM, ('preface must stay on one page', b.page - page0, b.y, BOTTOM)
     for k in range(2):
         rows = chapters[:35] if k == 0 else chapters[35:]
         if not rows: continue
@@ -354,7 +365,8 @@ def build(out, data_dir, img_dir, meta, cover, backc, only=None, toc_pages=None)
 if __name__ == '__main__':
     ap = argparse.ArgumentParser(); ap.add_argument('--out', required=True); ap.add_argument('--only', nargs='*'); a = ap.parse_args()
     meta = json.loads((V4 / '书稿/前言与封底批准稿.json').read_text())
+    meta['preface_v5'] = json.loads((S / '书稿/前言.json').read_text())
     D = S
-    pages, n = build(Path('/tmp/v5-pass1.pdf'), D / 'data', D / '插图JPEG', meta, D / '插图JPEG/cover.jpg', D / '插图JPEG/back.jpg', a.only)
+    pages, n = build(Path(a.out).with_suffix('.pass1.pdf'), D / 'data', D / '插图JPEG', meta, D / '插图JPEG/cover.jpg', D / '插图JPEG/back.jpg', a.only)
     pages, n = build(a.out, D / 'data', D / '插图JPEG', meta, D / '插图JPEG/cover.jpg', D / '插图JPEG/back.jpg', a.only, toc_pages=pages)
     print(json.dumps({'pages': n, 'chapter_first_pages': pages}, ensure_ascii=False))
