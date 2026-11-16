@@ -1,0 +1,7 @@
+{
+  "kind": "book62-source23-old-accepted-vs-new-final-tail-comparison",
+  "old_accepted": {"sha256": "931da3f453066883983d069120969d89f8512ea35eb6801f1d929b37ed3c6067", "bytes": 15822512, "frames": 4862, "speech_end_seconds": 158.04, "illustration_start_frame": 4742, "voice_to_picture_seconds": 0.006667, "meets_0p6_rule": false},
+  "new_final": {"sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb", "bytes": 15966119, "frames": 4865, "speech_end_seconds": 157.56, "illustration_start_frame": 4745, "voice_to_picture_seconds": 0.606667, "meets_0p6_rule": true},
+  "decoded_thumbnail_MAE_384x216": {"illustration_new4745_vs_old4742": 0.0, "summary_new4805_vs_old4802": 0.0, "last_body_page_new4744_vs_old4741": 0.6694},
+  "note": "Same approved illustration and summary card as the old accepted version; the last text page differs slightly because the new native carries the latest revision."
+}
