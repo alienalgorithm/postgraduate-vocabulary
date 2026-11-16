@@ -1,0 +1,35 @@
+[
+ {
+  "key": "n=1",
+  "field": "grammar[1].examples[0]",
+  "before": {
+   "en": "The library now holds more digital files than it has printed books.",
+   "zh": "这座图书馆现在收藏的数字文件比印刷书籍还多。"
+  },
+  "after": {
+   "en": "The island has more sheep than it has people.",
+   "zh": "这座岛上的羊比人还多。"
+  },
+  "reason": "原例 holds more digital files than it has printed books 前后动词 holds/has 不一致，不够地道；换成典型的 more A than B has C 句子"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar[0].examples[0]",
+  "before": {
+   "en": "My car is in the garage, so I borrowed my sister's for the weekend.",
+   "zh": "我的车在修理厂，所以周末借了我姐姐的车。"
+  },
+  "after": {
+   "en": "My car is being repaired, so I borrowed my sister's for the weekend.",
+   "zh": "我的车在修，所以周末借了我姐姐的车。"
+  },
+  "reason": "in the garage 多理解为自家车库，与译文“修理厂”不对应，改为意思明确的说法"
+ },
+ {
+  "key": "n=8",
+  "field": "components[6].role",
+  "before": "介词短语，与 put 搭配，说明估算出的数值",
+  "after": "宾语补足语（介词短语），与 put 搭配构成 put … at …，说明估算出的数值",
+  "reason": "成分标注不具体，补出成分名称，与第4句 place 后位置补足成分的分析一致"
+ }
+]

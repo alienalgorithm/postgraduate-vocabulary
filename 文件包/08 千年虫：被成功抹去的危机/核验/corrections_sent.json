@@ -1,0 +1,30 @@
+[
+ {
+  "key": "n=1",
+  "field": "structure",
+  "before": "①主句是 The Y2K bug began as a shortcut：主语 The Y2K bug，谓语 began，as a shortcut 是介词短语作状语，说明千年虫最初以什么面目出现。\n②or millennium bug 夹在主语和谓语之间，两边用逗号隔开，是主语的同位语。这里的 or 不表示二选一的“或者”，而是“又称，也就是”，引出同一事物的另一个名称（视频说明“or：或者说，引出另一个名称”）。or 引出别名时，别名前通常不再重复冠词，所以写作 or millennium bug。\n③Y2K 是 Year 2000 的缩写（视频说明）：Y 代表 Year，2 就是数字2，K 代表“千”，2K 即2000。\n④本句是全文的总起句。began as a shortcut 点出千年虫的来历：它起初只是一种省事的做法，下一句随即解释这条“捷径”是什么，第3句再说明它暗藏的隐患。",
+  "after": "①主句是 The Y2K bug began as a shortcut：主语 The Y2K bug，谓语 began，as a shortcut 是介词短语作状语，说明千年虫最初以什么面目出现。\n②or millennium bug 夹在主语和谓语之间，两边用逗号隔开，是主语的同位语。这里的 or 不表示二选一的“或者”，而是“又称，也就是”，引出同一事物的另一个名称（视频说明“or：或者说，引出另一个名称”）。or 引出别名时，别名前的冠词常可省去，本句即写作 or millennium bug。\n③Y2K 是 Year 2000 的缩写（视频说明）：Y 代表 Year，2 就是数字2，K 代表“千”，2K 即2000。\n④本句是全文的总起句。began as a shortcut 点出千年虫的来历：它起初只是一种省事的做法，下一句随即解释这条“捷径”是什么，第3句再说明它暗藏的隐患。",
+  "reason": "原说法过于绝对：or 引出别名时冠词也可保留（如 or the millennium bug），只能说常可省去。"
+ },
+ {
+  "key": "n=3",
+  "field": "components[6].role",
+  "before": "状语（as 介词短语，说明读成什么）",
+  "after": "宾语补足语（as 介词短语，说明把“00”读成什么；read A as B 与 regard A as B 同类，as B 补充说明宾语 A）",
+  "reason": "read A as B 与 see/regard/treat A as B 同类，as 短语按考研通行分析是宾语补足语，不是一般状语；本条知识点也已把它与 regard A as B 归为一类。"
+ },
+ {
+  "key": "n=4",
+  "field": "structure",
+  "before": "①主语 Governments and firms 是两个并列的复数名词，零冠词，泛指当时的政府和企业，视频增补“各国”体现复数和泛指。\n②谓语 braced for 意为“准备应对（不好的事）”（视频说明）。brace 本义是“支撑，绷紧身体”，brace for 就是为迎接冲击而做好准备，后面多接 the worst、impact、a storm 等负面事物。\n③宾语 chaos 是不可数名词，指人们预想中千年虫可能造成的大混乱。\n④本句很短，承上启下：第一段讲隐患，本句开启第二段的应对措施，下文依次讲美国政府、顾问和各方的花费。",
+  "after": "①主语 Governments and firms 是两个并列的复数名词，零冠词，泛指当时的政府和企业，视频增补“各国”体现复数和泛指。\n②谓语 braced for 意为“准备应对（不好的事）”（视频说明）。brace 的基本义是“支撑，加固”，也指绷紧身体，brace for 就是为迎接冲击而做好准备，后面多接 the worst、impact、a storm 等负面事物。\n③宾语 chaos 是不可数名词，指人们预想中千年虫可能造成的大混乱。\n④本句很短，承上启下：第一段讲隐患，本句开启第二段的应对措施，下文依次讲美国政府、顾问和各方的花费。",
+  "reason": "brace 动词最早义是“扣紧，抱住”（Etymonline），说“本义是支撑”不准确，改为基本义。"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar[0].explain",
+  "before": "brace 作动词，本义是用支架撑住或绷紧身体以承受冲击，引申为“为不好的事做好准备”。常见结构有 brace for sth、brace oneself for sth、be braced for sth、brace (oneself) to do sth。宾语多是负面事物，如 brace for a storm、brace for job cuts、brace for the worst。本句 braced for chaos 视频译为“都在严阵以待，准备迎接一场混乱”，“严阵以待”体现紧张戒备的气氛。外刊经济、灾害新闻中常用，如 Markets are bracing for another rate rise。",
+  "after": "brace 作动词，基本义是用支架撑住、加固，或绷紧身体以承受冲击，引申为“为不好的事做好准备”。常见结构有 brace for sth、brace oneself for sth、be braced for sth、brace (oneself) to do sth。宾语多是负面事物，如 brace for a storm、brace for job cuts、brace for the worst。本句 braced for chaos 视频译为“都在严阵以待，准备迎接一场混乱”，“严阵以待”体现紧张戒备的气氛。外刊经济、灾害新闻中常用，如 Markets are bracing for another rate rise。",
+  "reason": "同上，避免把基本义说成词源上的本义。"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "key": "id=41 prevail",
+  "field": "usage_detail",
+  "before": "不及物动词，不能用于被动。prevail over/against sb/sth 表示战胜；prevail on/upon sb to do sth 较正式，表示说服。现在分词 prevailing 常作形容词，意为“盛行的，普遍的”，如 the prevailing wisdom（普遍看法）；形容词 prevalent、名词 prevalence 也是考研阅读高频词，如 the prevalence of obesity（肥胖的普遍）。",
+  "after": "不及物动词，一般不用于被动；但 prevail on/upon sb to do sth 可用被动 be prevailed upon to do sth，如 She was eventually prevailed upon to stay（她最终被劝留了下来）。prevail over/against sb/sth 表示战胜；prevail on/upon sb to do sth 较正式，表示说服。现在分词 prevailing 常作形容词，意为“盛行的，普遍的”，如 the prevailing wisdom（普遍看法）；形容词 prevalent、名词 prevalence 也是考研阅读高频词，如 the prevalence of obesity（肥胖的普遍）。",
+  "reason": "“不能用于被动”说法错误：be prevailed upon to do sth 是常见用法。"
+ },
+ {
+  "key": "id=46 imaginary",
+  "field": "etymology",
+  "before": "由动词 imagine 加形容词后缀 -ary 构成。imagine 经古法语来自拉丁语 imaginari（想象），源自 imago（形象，画像）。同根词有 image（形象）、imagination（想象力）。",
+  "after": "14世纪后期见于英语，来自拉丁语 imaginarius（形象的，想象中的），源自 imago（形象，画像），-arius 相当于英语形容词后缀 -ary。动词 imagine 经古法语来自拉丁语 imaginari（想象），同样源自 imago。同根词有 image（形象）、imagination（想象力）。",
+  "reason": "Etymonline：imaginary 直接来自拉丁语 imaginarius，不是在英语中由 imagine 加 -ary 构成。"
+ },
+ {
+  "key": "id=48 mockery",
+  "field": "usage_detail",
+  "before": "表示“嘲笑”时不可数；表示“拙劣的模仿”时可数，常说 a mockery of sth。make a mockery of sth 是考研阅读常见短语，指某种做法让规则、制度显得荒唐、形同虚设，如 make a mockery of the law。动词 mock 还可作形容词，意为“模拟的”，如 a mock exam（模拟考试）。",
+  "after": "表示“嘲笑”时不可数；表示“拙劣的模仿”时可数，常说 a mockery of sth。make a mockery of sth 是考研阅读常见短语，指某种做法让规则、制度显得荒唐、形同虚设，如 make a mockery of the law。mock 除作动词外还可作形容词，意为“模拟的”，如 a mock exam（模拟考试）。",
+  "reason": "“动词 mock 还可作形容词”表述不当，改为 mock 一词兼作动词和形容词。"
+ },
+ {
+  "key": "id=51 fare no worse",
+  "field": "form_note",
+  "before": "文中 fared 是 fare 的过去式；worse 是 bad 的比较级。",
+  "after": "文中 fared 是 fare 的过去式；worse 在这里是副词 badly 的比较级（worse 也是形容词 bad 的比较级），作 fare 的状语。",
+  "reason": "fare 后接副词状语（fare well/badly），此处 worse 是 badly 的比较级，与 context_usage 中“no worse 是状语”的分析一致。"
+ },
+ {
+  "key": "id=60 prevention",
+  "field": "example.en",
+  "before": "Spending on prevention, such as flood barriers, is far cheaper than paying for repairs after a disaster.",
+  "after": "Spending on prevention, such as building flood barriers, is far cheaper than paying for repairs after a disaster.",
+  "reason": "prevention 指预防这种做法，such as 后举“修建防洪堤”这一行为比举 flood barriers 这一事物更贴切。"
+ },
+ {
+  "key": "id=60 prevention",
+  "field": "example.zh",
+  "before": "在防洪堤这类预防措施上花钱，比灾后支付修复费用便宜得多。",
+  "after": "在修建防洪堤这类预防工作上花钱，比灾后支付修复费用便宜得多。",
+  "reason": "与修改后的英文例句对应。"
+ }
+]

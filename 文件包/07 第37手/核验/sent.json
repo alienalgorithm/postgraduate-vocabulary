@@ -1,0 +1,1732 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Go",
+   "predicate": "is said to allow",
+   "object_or_complement": "more configurations",
+   "explain": "主干是 Go is said to allow more configurations，主谓宾结构。谓语采用 be said to do 结构：is said 是一般现在时被动语态，不定式 to allow 作主语补足语，二者合起来表示“据说（围棋）允许……”；more configurations 是 allow 的宾语，than 引导的比较状语从句与 more 呼应。"
+  },
+  "components": [
+   {
+    "text": "Go",
+    "zh": "围棋",
+    "role": "主语（专有名词，指围棋）"
+   },
+   {
+    "text": "is said",
+    "zh": "据说",
+    "role": "谓语（一般现在时被动语态，与后面的不定式构成 be said to do 结构）"
+   },
+   {
+    "text": "to allow",
+    "zh": "所允许出现的",
+    "role": "主语补足语（不定式），说明据说围棋怎样"
+   },
+   {
+    "text": "more configurations",
+    "zh": "布局（数量）……还要多",
+    "role": "不定式 to allow 的宾语，more 是 many 的比较级"
+   },
+   {
+    "text": "than the universe has atoms,",
+    "zh": "比宇宙中的原子",
+    "role": "比较状语从句（than 引导），与 more 呼应，比较布局的数量与原子的数量"
+   },
+   {
+    "text": "a daunting computational challenge.",
+    "zh": "这是一项艰巨的计算挑战",
+    "role": "同位语（名词短语），说明前面整句所述的情况"
+   }
+  ],
+  "structure": "①主句是 Go is said to allow more configurations：主语 Go，谓语 is said 为被动语态，不定式 to allow 作主语补足语，more configurations 是 allow 的宾语。be said to do 相当于 It is said that Go allows more configurations…，主动说法是 People say that Go allows…，把从句主语提到句首，句子更紧凑（视频说明：be said to do，据说……）。\n②than the universe has atoms 是比较状语从句，与 more 呼应。比较的双方不是同一类事物：一边是围棋可能出现的布局数量，一边是宇宙所拥有的原子数量，整个比较的意思是“布局的数量多于宇宙中原子的数量”。从句主谓宾完整：主语 the universe，谓语 has，宾语 atoms。\n③句末 a daunting computational challenge 是名词短语，用逗号与前文隔开，作同位语，说明前面整句所述的情况（视频说明：同位语，说明前面整句），意思上相当于 which is a daunting computational challenge。daunting 和 computational 两个形容词依次修饰 challenge。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "be said to do 结构（不定式作主语补足语）",
+    "explain": "say、believe、report、think、expect、know 等动词可用于“主语 + be + 过去分词 + to do”结构，不定式作主语补足语，等于 It is said/believed that + 从句。不定式的形式要与时间关系对应：动作与 said 同时或表示一般情况用 to do，如本句 is said to allow，说的是围棋的固有特点；动作发生在 said 之前用 to have done；正在进行用 to be doing。这种结构表示信息来自传闻或公认的说法，作者本人并不为其负责。考研阅读中它常用来引出他人观点或流行说法，作答时不能把它当成作者本人的判断；写作中可用 It is widely believed that… 或 sb/sth is believed to… 引出观点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The castle is believed to have been built in the twelfth century.",
+      "zh": "据信这座城堡建于12世纪。"
+     },
+     {
+      "en": "The new drug is reported to be effective against several strains of the virus.",
+      "zh": "据报道，这种新药对该病毒的几种毒株有效。"
+     }
+    ]
+   },
+   {
+    "title": "more A than B has C：比较不同事物的数量",
+    "explain": "比较级 more + 名词复数 + than 引导的比较状语从句，可以把两种不同事物的数量放在一起比较。本句从句 the universe has atoms 主谓宾齐全，比较的是 configurations 的数量与 atoms 的数量，不是比较 Go 与 the universe。理解时要找准比较对象：more 后面的名词与从句中的对应名词（configurations 与 atoms）才是被比较的两项。这类句子常用来夸张地说明数量之多，类似汉语“比天上的星星还多”。考研阅读中比较结构常被用来设置干扰项，要弄清是谁和谁比、比的是什么。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The island has more sheep than it has people.",
+      "zh": "这座岛上的羊比人还多。"
+     },
+     {
+      "en": "The museum received more visitors last summer than the town has residents.",
+      "zh": "这家博物馆去年夏天接待的游客，比全镇的居民还多。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语，说明前面整句",
+    "explain": "句末用逗号隔开的名词短语，可以对前面整个句子的内容作概括或评价，语法上称为同位语，意思上相当于 which is… 引导的非限制性定语从句。本句 a daunting computational challenge 概括的不是某一个名词，而是“布局数量比宇宙原子还多”这一整件事。这种结构在外刊中十分常见，读的时候要把它和前面整句联系起来；翻译时常增补“这”或“这是”，如视频译为“这是一项艰巨的计算挑战”。写作中也可以用它对前文作评价，如 …, a trend that deserves close attention。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its workforce by a third, a move that shocked investors.",
+      "zh": "公司裁员三分之一，此举令投资者震惊。"
+     },
+     {
+      "en": "Prices have doubled in two years, a rise few economists predicted.",
+      "zh": "价格两年内翻了一番，这一涨幅很少有经济学家预料到。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Go",
+    "explain": "围棋，英文名首字母大写，19世纪末从日语借入英语。棋盘由纵横各19条线组成，共361个交叉点，对弈双方轮流在交叉点上落黑子或白子。文中 configurations 指棋子在棋盘上可能形成的各种排列状态，视频译为“布局（数量）”。"
+   },
+   {
+    "term": "more configurations than the universe has atoms",
+    "explain": "常见的说法是：19路棋盘上合乎规则的局面约有10的170次方种，而可观测宇宙中的原子数一般估计约为10的80次方。原文用 is said to，说明这是流传的说法，作者并未亲自论证。"
+   },
+   {
+    "term": "computational challenge",
+    "explain": "computational 是形容词“计算的”，computational challenge 指对计算能力构成的挑战。围棋可能的局面太多，计算机无法逐一穷举，这就是作者称之为 daunting computational challenge 的原因。"
+   },
+   {
+    "term": "daunting",
+    "explain": "意为“令人生畏的，艰巨的”，常修饰 task、challenge、prospect，a daunting challenge 是外刊高频搭配，视频译为“艰巨的”。"
+   }
+  ],
+  "translation_tip": "视频译文“据说，围棋所允许出现的布局（数量），比宇宙中的原子还要多，这是一项艰巨的计算挑战。”的处理：①be said to do 结构拆出“据说”放在句首，后面的内容用主动语序叙述，避免“围棋被说成……”这样生硬的被动。②more configurations than the universe has atoms 按汉语“A 比 B 还要多”的句式重组，括号增补“数量”，点明比较的是数量；than 从句 the universe has atoms 译为“宇宙中的原子”，has 不直译为“拥有”。③不定式 to allow 译成定语“所允许出现的”，修饰“布局”。④句末同位语单独成句，增补“这是”回指前文，不定冠词 a 译为“一项”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "DeepMind's AlphaGo",
+   "predicate": "reached",
+   "object_or_complement": "a milestone",
+   "explain": "主干是 DeepMind's AlphaGo reached a milestone，主谓宾结构。谓语 reached 为一般过去时，主动语态，叙述2015年10月发生的事；逗号后的 becoming… 是现在分词短语，补充说明这个里程碑的内容。"
+  },
+  "components": [
+   {
+    "text": "In October 2015",
+    "zh": "2015年10月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "DeepMind's AlphaGo",
+    "zh": "DeepMind 的 AlphaGo",
+    "role": "主语（DeepMind's 是名词所有格，作 AlphaGo 的定语）"
+   },
+   {
+    "text": "reached",
+    "zh": "达成了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "a milestone,",
+    "zh": "一个里程碑",
+    "role": "宾语"
+   },
+   {
+    "text": "becoming",
+    "zh": "成为",
+    "role": "现在分词，引导的短语作状语，补充说明这个里程碑（相当于 and it became…）；become 在此为系动词"
+   },
+   {
+    "text": "the first program",
+    "zh": "首个……的程序",
+    "role": "becoming 的表语（中心词 program，由 the first 修饰）"
+   },
+   {
+    "text": "to beat a professional",
+    "zh": "击败职业棋手的",
+    "role": "后置定语（不定式短语），修饰 the first program"
+   },
+   {
+    "text": "on a full board",
+    "zh": "在全尺寸棋盘上",
+    "role": "地点状语（介词短语），修饰不定式 to beat"
+   },
+   {
+    "text": "without a handicap.",
+    "zh": "不让子",
+    "role": "方式状语（介词短语），修饰不定式 to beat，说明对局条件"
+   }
+  ],
+  "structure": "①主句 DeepMind's AlphaGo reached a milestone：主语 AlphaGo，DeepMind's 是名词所有格，说明程序所属的公司；谓语 reached，宾语 a milestone。句首 In October 2015 是时间状语。\n②becoming… 是现在分词短语作状语，逻辑主语是主句主语 AlphaGo，补充说明这个里程碑具体是什么（视频说明：现在分词短语，补充说明这个里程碑），相当于 and it became the first program…。become 在这里是系动词，the first program 是它的表语。\n③the first program 后的 to beat a professional 是不定式短语作后置定语，即“首个击败职业棋手的程序”（视频说明：the first program to do，第一个做……的程序）。\n④on a full board 和 without a handicap 两个介词短语都修饰不定式 to beat：前者说明在什么样的棋盘上，后者说明在什么条件下，强调这是一场完全公平的对局。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作状语，补充说明主句",
+    "explain": "主句后用逗号隔开的现在分词短语，逻辑主语通常是主句主语，常用来补充说明主句动作的具体内容或带来的结果，相当于 and + 谓语。本句 becoming the first program… 说明 reached a milestone 指的是什么：AlphaGo 成为首个……的程序。分词动作与主句动作同时发生或紧随其后，所以用一般式 becoming。考研阅读中，句末分词短语往往承载关键信息，不能因为它不是谓语就略过；写作中用这一结构可以把两个分句合并，使句子更紧凑。易错点：分词的逻辑主语必须与主句主语一致，否则就成了垂悬分词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river burst its banks overnight, flooding hundreds of homes along the valley.",
+      "zh": "河水一夜之间漫过河岸，淹没了河谷沿岸的数百户人家。"
+     },
+     {
+      "en": "She won the race in record time, becoming the youngest champion in the event's history.",
+      "zh": "她以创纪录的成绩赢得比赛，成为该项赛事史上最年轻的冠军。"
+     }
+    ]
+   },
+   {
+    "title": "the first/last/only + 名词 + to do",
+    "explain": "名词前有序数词（the first、the second）、the last、the only 或形容词最高级修饰时，常用不定式作后置定语，表示“第一个/最后一个/唯一一个做某事的……”，如 the first program to beat… 等于 the first program that beat…。不定式的逻辑主语就是被修饰的名词，此时不定式表示主动；若名词是动作的承受者，要用被动形式 to be done，如 the first woman to be elected。考研翻译中这种结构常译为“第一个……的……”，写作中可用来强调开创性。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She was the first woman to be elected president of the society.",
+      "zh": "她是第一位当选该学会会长的女性。"
+     },
+     {
+      "en": "He was the last person to leave the building that night.",
+      "zh": "那天晚上他是最后一个离开大楼的人。"
+     }
+    ]
+   },
+   {
+    "title": "介词 without 表示条件",
+    "explain": "without + 名词表示缺少某种条件，可作方式或条件状语。本句 without a handicap 意为“在不让子的情况下”，强调 AlphaGo 与职业棋手是平手对弈。without 后也常接动名词，如 without saying a word（一言不发）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team finished the project on time without any extra funding.",
+      "zh": "团队在没有任何额外经费的情况下按时完成了项目。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "DeepMind",
+    "explain": "英国人工智能公司，总部在伦敦，2014年被谷歌收购。DeepMind's AlphaGo 用名词所有格表示 AlphaGo 是该公司开发的程序，视频译为“DeepMind 的 AlphaGo”。"
+   },
+   {
+    "term": "2015年10月的里程碑",
+    "explain": "2015年10月，AlphaGo 在19路标准棋盘上以5比0击败欧洲围棋冠军、职业二段棋手樊麾（Fan Hui），这是计算机程序首次在不让子的情况下战胜职业棋手。相关论文于2016年1月发表在《自然》（Nature）杂志上。"
+   },
+   {
+    "term": "full board",
+    "explain": "标准围棋棋盘纵横各19条线，称为19路棋盘。full board 指这种全尺寸棋盘，与初学者常用的9路、13路小棋盘相对，视频译为“全尺寸棋盘”。"
+   },
+   {
+    "term": "handicap",
+    "explain": "围棋中的 handicap 指让子：实力较弱的一方在对局开始前先在棋盘上放几枚棋子，以缩小双方差距。without a handicap 即“不让子”，双方平等对弈。"
+   },
+   {
+    "term": "reach a milestone",
+    "explain": "固定搭配，意为“达到一个里程碑”，指取得具有标志意义的成就；同类说法有 mark a milestone、a milestone in…。"
+   }
+  ],
+  "translation_tip": "视频译文“2015年10月，DeepMind 的 AlphaGo达成了一个里程碑，成为首个在全尺寸棋盘上不让子击败职业棋手的程序。”的处理：①主句按原语序译出，reach a milestone 译为“达成了一个里程碑”。②现在分词短语 becoming… 不加连词，直接译成“成为……”，与主句用逗号相连，体现补充说明的关系。③不定式后置定语 to beat a professional 和修饰它的两个介词短语一起前置到“程序”之前，介词短语按汉语习惯放在动词“击败”之前：“在全尺寸棋盘上不让子击败职业棋手的程序”。④professional 在本文语境中指职业棋手，视频译为“职业棋手”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "its opponent",
+   "predicate": "was",
+   "object_or_complement": "Lee Sedol",
+   "explain": "主干是 its opponent was Lee Sedol，主系表结构，was 是系动词 be 的一般过去时。表语 Lee Sedol 后接同位语 a South Korean strategist，再由 with 短语补充他的战绩。"
+  },
+  "components": [
+   {
+    "text": "In March 2016",
+    "zh": "2016年3月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "its opponent",
+    "zh": "它的对手",
+    "role": "主语（its 指代上句的 AlphaGo）"
+   },
+   {
+    "text": "in a televised Seoul showdown",
+    "zh": "在首尔一场电视转播的对决中",
+    "role": "后置定语（介词短语），修饰 its opponent"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "Lee Sedol,",
+    "zh": "李世石",
+    "role": "表语（人名）"
+   },
+   {
+    "text": "a South Korean strategist",
+    "zh": "一个韩国战略家（围棋大师）",
+    "role": "同位语（名词短语），说明 Lee Sedol 的身份"
+   },
+   {
+    "text": "with 18 international titles.",
+    "zh": "拥有18个国际冠军头衔",
+    "role": "后置定语（介词短语），修饰 strategist"
+   }
+  ],
+  "structure": "①主句 its opponent was Lee Sedol 是主系表结构。its 指代上句的 AlphaGo，主语 opponent 后面带着介词短语 in a televised Seoul showdown 作后置定语，说明是哪一场比赛中的对手。\n②in a televised Seoul showdown 中，showdown 前有两个前置定语：televised 是过去分词作定语，表示“被电视转播的”；Seoul 是名词作定语，说明对决发生的地点。\n③表语 Lee Sedol 后的 a South Korean strategist 是同位语，说明他的身份；with 18 international titles 是介词短语作后置定语，修饰 strategist，交代他的战绩。句首 In March 2016 是时间状语。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词作前置定语",
+    "explain": "英语中名词可以直接放在另一个名词前作定语，说明地点、用途、材料等，如 a Seoul showdown（首尔的对决）、a city council（市议会）。作定语的名词一般用单数，地名直接作定语时也不必用所有格。本句 televised 和 Seoul 同时修饰 showdown，表示性质的分词放在表示地点的名词之前。外刊标题和新闻中常把几个名词叠在一起，翻译时要理清修饰关系，从后往前找中心词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A London property developer has bought the old railway station.",
+      "zh": "一家伦敦房地产开发商买下了这座旧火车站。"
+     }
+    ]
+   },
+   {
+    "title": "同位语说明人物身份",
+    "explain": "名词或名词短语紧跟在另一个名词之后，用逗号隔开，对其身份、性质作补充说明，称为同位语。人名后接同位语是新闻语体最常见的写法，如 Lee Sedol, a South Korean strategist。同位语与被说明的名词指同一对象。翻译时可以前置为定语（如“韩国棋手李世石”），也可以像视频那样保留在后面单独说明。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The award went to Maria Lopez, a young engineer from Madrid.",
+      "zh": "这个奖项颁给了来自马德里的年轻工程师玛丽亚·洛佩斯。"
+     }
+    ]
+   },
+   {
+    "title": "with 短语作后置定语表示“具有”",
+    "explain": "with + 名词可放在名词后作后置定语，表示“具有，带有”，相当于 who has / that has，如 a man with a beard、a country with a long history。本句 with 18 international titles 修饰 strategist，相当于 who has won 18 international titles，视频译为“拥有18个国际冠军头衔”。写作中用 with 短语代替定语从句可以使句子简洁。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Applicants with relevant work experience will be given priority.",
+      "zh": "有相关工作经验的申请人将被优先考虑。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Lee Sedol",
+    "explain": "韩国职业围棋九段棋手，中文名李世石。韩国人名姓在前、名在后，Lee 是姓，所以后文一直用 Lee 指称他。文中 18 international titles 指他获得的18个国际比赛冠军。"
+   },
+   {
+    "term": "2016年首尔人机大战",
+    "explain": "这场五局比赛于2016年3月9日至15日在首尔举行，AlphaGo 最终以4比1获胜（见第14句）。televised 说明比赛通过电视转播，受到广泛关注。"
+   },
+   {
+    "term": "strategist",
+    "explain": "原指战略家、谋略家，本句用来称呼围棋高手，突出围棋是讲究全局谋划的游戏，视频译为“战略家（围棋大师）”，括号说明其实际身份。"
+   },
+   {
+    "term": "showdown",
+    "explain": "指决定胜负的最终较量，带有紧张对抗的色彩，视频译为“对决”。"
+   }
+  ],
+  "translation_tip": "视频译文“2016年3月，在首尔一场电视转播的对决中，它的对手是李世石，一个韩国战略家（围棋大师），拥有18个国际冠军头衔。”的处理：①主语 its opponent 的后置定语 in a televised Seoul showdown 提到前面，译成状语“在首尔一场电视转播的对决中”，避免“在……中的它的对手”这种冗长的定语。②名词定语 Seoul 和分词定语 televised 都前置，地点在前，形成“首尔一场电视转播的对决”。③同位语 a South Korean strategist 保留在人名之后，用逗号隔开，括号补充“围棋大师”说明其身份。④with 短语不前置，单独译成“拥有18个国际冠军头衔”，按英文语序顺译。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "AlphaGo's 37th move",
+   "predicate": "was",
+   "object_or_complement": "a shoulder hit",
+   "explain": "主干是 AlphaGo's 37th move was a shoulder hit，主系表结构，was 为一般过去时。表语后的 a tactic placing… 是同位语，解释肩冲是一种什么样的下法。"
+  },
+  "components": [
+   {
+    "text": "In game two,",
+    "zh": "第二局",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "on 10 March,",
+    "zh": "于3月10日进行",
+    "role": "时间状语（介词短语），补充说明第二局的具体日期"
+   },
+   {
+    "text": "AlphaGo's 37th move",
+    "zh": "AlphaGo 的第37手",
+    "role": "主语（37th 是序数词）"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "a shoulder hit,",
+    "zh": "一记肩冲",
+    "role": "表语（围棋术语）"
+   },
+   {
+    "text": "a tactic",
+    "zh": "这种招数/手段",
+    "role": "同位语，解释 a shoulder hit"
+   },
+   {
+    "text": "placing a stone",
+    "zh": "将一枚棋子下在",
+    "role": "后置定语（现在分词短语 placing… 的开头部分），修饰 a tactic；a stone 是 placing 的宾语"
+   },
+   {
+    "text": "adjacent to an opponent's",
+    "zh": "与对方棋子的……相邻的地方",
+    "role": "宾语补足语（形容词短语），说明 a stone 被放到的位置；an opponent's 后省略了 stone"
+   },
+   {
+    "text": "on the diagonal.",
+    "zh": "斜对角",
+    "role": "状语（介词短语），修饰 adjacent，说明相邻的方向"
+   }
+  ],
+  "structure": "①主句 AlphaGo's 37th move was a shoulder hit 是主系表结构，主语中 AlphaGo's 是名词所有格，37th 是序数词，即“第37手”；表语 a shoulder hit 是围棋术语“肩冲”。句首 In game two 和 on 10 March 都是时间状语，后者补充说明第二局的具体日期。\n②a tactic 是 a shoulder hit 的同位语，解释肩冲是一种什么招数（视频说明：同位语，解释 shoulder hit）。\n③placing a stone adjacent to an opponent's on the diagonal 是现在分词短语，作 a tactic 的后置定语（视频说明：placing… 作后置定语），相当于 which places a stone…。短语内部：a stone 是 placing 的宾语；adjacent to an opponent's 是形容词短语作宾语补足语，说明棋子放在哪里；on the diagonal 修饰 adjacent，说明是在斜对角方向上相邻。\n④an opponent's 是名词所有格，后面省略了 stone，完整形式是 an opponent's stone，因为前文刚出现 a stone，为避免重复而省去。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词所有格后省略名词",
+    "explain": "名词所有格后面的名词如果在上下文中已经出现，可以省略，所有格单独使用，相当于“某人的那个（东西）”。本句 adjacent to an opponent's 中，an opponent's 等于 an opponent's stone，因为前面刚提到 a stone。表示店铺、住所时也常省略名词，如 at the doctor's、at my aunt's。阅读时看到所有格后面直接接介词或标点，要回到上文找被省略的名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "My car is being repaired, so I borrowed my sister's for the weekend.",
+      "zh": "我的车在修，所以周末借了我姐姐的车。"
+     },
+     {
+      "en": "Her handwriting is much neater than her brother's.",
+      "zh": "她的字比她弟弟的工整得多。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词之后作定语，表示主动，相当于一个定语从句。本句 placing a stone… 修饰 a tactic，相当于 a tactic which places a stone…，说明这种招数的做法。与过去分词作后置定语对比：现在分词表示名词主动做某事，过去分词表示名词被动承受，如 a tactic used by professionals。考研长难句中，名词后的 -ing 短语常被误认为谓语，判断方法是看句子是否另有谓语：本句谓语是 was，placing 只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report describes a method combining satellite images and ground surveys.",
+      "zh": "该报告介绍了一种将卫星图像与实地调查相结合的方法。"
+     },
+     {
+      "en": "Passengers arriving after midnight must use the side entrance.",
+      "zh": "午夜之后到达的乘客必须走侧门。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语作宾语补足语",
+    "explain": "place、put、leave、keep 等动词后接“宾语 + 表示位置或状态的补足成分”，补足成分可以是介词短语、副词或形容词短语，如 place the chair next to the window、keep the door open。本句 placing a stone adjacent to an opponent's 中，adjacent to an opponent's 说明棋子被放到的位置，作宾语补足语，与 a stone 构成逻辑上的主表关系（the stone is adjacent to an opponent's）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The architect placed the kitchen adjacent to the dining room.",
+      "zh": "建筑师把厨房安排在紧挨餐厅的位置。"
+     }
+    ]
+   },
+   {
+    "title": "序数词与“名词 + 基数词”表示顺序",
+    "explain": "表示顺序有两种写法：the + 序数词 + 名词，如 the second game、the 37th move；名词 + 基数词，不加冠词，如 game two、move 37、page 42。本句 game two 等于 the second game，37th move 等于 move 37，文章标题 Move 37 用的就是后一种写法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Please turn to page 42 and read the second paragraph.",
+      "zh": "请翻到第42页，读第二段。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "shoulder hit",
+    "explain": "围棋术语，中文称“肩冲”，指在对方棋子斜对角紧挨着的位置落子（视频说明：肩冲，围棋术语）。文中 a tactic placing a stone adjacent to an opponent's on the diagonal 正是对这一招法的解释。"
+   },
+   {
+    "term": "move",
+    "explain": "棋类比赛中 move 指“一步棋，一手”，37th move 即第37手，文章标题 Move 37 也是这个意思。常见用法还有 make a move（走一步棋；采取行动）、a bold move（大胆之举）。"
+   },
+   {
+    "term": "stone",
+    "explain": "熟词僻义：围棋棋子英文叫 stone，黑子为 black stones，白子为 white stones。本句 placing a stone 指落下一枚棋子，视频译为“一枚棋子”。"
+   },
+   {
+    "term": "on the diagonal",
+    "explain": "diagonal 作名词指对角线、斜线，on the diagonal 意为“在斜线方向上”，修饰 adjacent，说明两枚棋子斜向相邻，而不是上下左右相邻，视频译为“斜对角”。"
+   }
+  ],
+  "translation_tip": "视频译文“第二局于3月10日进行，AlphaGo 的第37手是一记肩冲。这种招数/手段，是将一枚棋子下在与对方棋子的斜对角相邻的地方。”的处理：①两个时间状语合成一个小句“第二局于3月10日进行”，增补谓语“进行”，先交代背景。②主句译为“AlphaGo 的第37手是一记肩冲”，增补量词“一记”。③同位语 a tactic 及其后置定语较长，视频把它拆成独立的一句，用“这种招数/手段，是……”回指肩冲。④分词短语中的宾语补足语按汉语处所表达重组为“将一枚棋子下在……的地方”，增补“下在”“的地方”，省略的 stone 补译为“对方棋子”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "it",
+   "predicate": "was hardly",
+   "object_or_complement": "orthodox",
+   "explain": "主干是 it was hardly orthodox，主系表结构。was 为一般过去时系动词，hardly 是带否定意义的副词，意为“几乎不”，orthodox 作表语。it 指代上句的第37手。"
+  },
+  "components": [
+   {
+    "text": "On the grid's fifth line,",
+    "zh": "在网格第五线上落子",
+    "role": "地点状语（介词短语），交代这手棋落在何处，也暗含它不正统的原因"
+   },
+   {
+    "text": "it",
+    "zh": "这",
+    "role": "主语（代词，指 AlphaGo 的第37手）"
+   },
+   {
+    "text": "was",
+    "zh": "算是",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "hardly",
+    "zh": "几乎不能",
+    "role": "否定副词，修饰表语，使句子带否定意义"
+   },
+   {
+    "text": "orthodox.",
+    "zh": "正统下法",
+    "role": "表语（形容词）"
+   }
+  ],
+  "structure": "①主句 it was hardly orthodox 是主系表结构，it 指代上句的 AlphaGo's 37th move，hardly 修饰表语 orthodox，表示“几乎不是正统的”，语气比 not 委婉，但意思仍是否定。\n②句首 On the grid's fifth line 是介词短语作地点状语，说明这手棋落在棋盘的第五线上，同时交代了它“不正统”的原因。grid 原指方格构成的网状，这里指棋盘（视频说明：方格构成的网状，指棋盘）。the grid's 是无生命名词的所有格，相当于 the fifth line of the grid。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "半否定副词 hardly",
+    "explain": "hardly、scarcely、barely、seldom、rarely 等副词本身带有否定意义，hardly 意为“几乎不”，句子在意义上是否定句。因此句中不能再加 not，不说 was not hardly；反意疑问句的附加部分要用肯定形式，如 It was hardly orthodox, was it?。hardly 放在句首时要部分倒装，如 Hardly had he arrived when it began to rain。本句 was hardly orthodox 是一种含蓄的否定，作者用它表达对这手棋偏离常规的判断。考研阅读中，这类词常是判断作者态度的关键，不能误读为肯定。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The evidence is hardly convincing, is it?",
+      "zh": "这个证据很难令人信服，不是吗？"
+     },
+     {
+      "en": "Hardly had the meeting begun when the fire alarm went off.",
+      "zh": "会议刚开始，火警警报就响了。"
+     }
+    ]
+   },
+   {
+    "title": "无生命名词的 's 所有格",
+    "explain": "表示时间、距离、国家、城市、机构等的名词可以用 's 所有格，如 today's newspaper、the city's population、the company's profits；其他无生命名词通常用 of 结构，但新闻语体中 's 的使用范围越来越广。本句 the grid's fifth line 等于 the fifth line of the grid。翻译时一般译为“……的”，视频译为“网格第五线”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's population has nearly doubled in the past twenty years.",
+      "zh": "过去二十年，这座城市的人口几乎翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "grid",
+    "explain": "指由横竖线交织而成的方格网，如城市的棋盘式街道布局（street grid）、地图上的坐标网格。本句指围棋棋盘，视频保留“网格”的字面意思，并说明其所指是棋盘。"
+   },
+   {
+    "term": "the fifth line",
+    "explain": "围棋中的“线”从棋盘边缘向内数，最边上的一条是第一线。传统布局多在第三线、第四线落子，第五线位置偏高，开局阶段较少使用，所以文章说这手棋 hardly orthodox。"
+   },
+   {
+    "term": "orthodox",
+    "explain": "本义“正统的，传统的”，常用于宗教、医学、观点等，如 orthodox medicine（正统医学）。本句指符合传统棋理的下法，视频译为“正统下法”，增补“下法”说明所指。"
+   }
+  ],
+  "translation_tip": "视频译文“在网格第五线上落子，这几乎不能算是正统下法。”的处理：①介词短语 On the grid's fifth line 增补动词“落子”，译成一个短小的动作描述，交代这手棋的位置。②主语 it 译为指示代词“这”，指前面的落子。③was hardly orthodox 中，系动词 was 译为“算是”，hardly 译为“几乎不能”，否定语气较为委婉；表语 orthodox 增补“下法”，“正统下法”与围棋语境相配。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Commentators；one",
+   "predicate": "found；took",
+   "object_or_complement": "the unexpected placement bizarre；it for a mistake",
+   "explain": "本句是由分号连接的并列句。前一分句主干是 Commentators found the unexpected placement bizarre，主谓宾宾补结构；后一分句主干是 one took it for a mistake，take A for B 结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Commentators",
+    "zh": "解说员",
+    "role": "第一分句的主语"
+   },
+   {
+    "text": "found",
+    "zh": "觉得",
+    "role": "第一分句的谓语（find + 宾语 + 宾语补足语）"
+   },
+   {
+    "text": "the unexpected placement",
+    "zh": "这步出乎意料的落子",
+    "role": "宾语"
+   },
+   {
+    "text": "bizarre;",
+    "zh": "十分怪异",
+    "role": "宾语补足语（形容词），说明解说员对这步落子的看法"
+   },
+   {
+    "text": "one",
+    "zh": "其中一人",
+    "role": "第二分句的主语（代词，指解说员中的一人）"
+   },
+   {
+    "text": "took",
+    "zh": "以为",
+    "role": "第二分句的谓语（与 for 构成 take A for B）"
+   },
+   {
+    "text": "it",
+    "zh": "（代词，指这步落子，译文中承前省略）",
+    "role": "宾语"
+   },
+   {
+    "text": "for a mistake.",
+    "zh": "是失误",
+    "role": "宾语补足语（介词短语），说明把 it 当成了什么"
+   }
+  ],
+  "structure": "①本句由分号连接两个并列分句，分号表示两句关系紧密，后一句对前一句作进一步补充。\n②前一分句：主语 Commentators，谓语 found，宾语 the unexpected placement，宾语补足语 bizarre。find + 宾语 + 形容词 表示“觉得……怎么样”（视频说明），宾语和宾补之间是逻辑上的主表关系，即 the placement was bizarre。the unexpected placement 用定冠词 the，指上文的第37手。\n③后一分句：主语 one 是代词，相当于 one of the commentators；谓语 took，宾语 it 指那步落子，for a mistake 与 took 构成 take A for B，“把A当成B”（视频说明）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "find + 宾语 + 宾语补足语",
+    "explain": "find 表示“发现，觉得”时可接复合宾语：find + 宾语 + 形容词/名词/分词/介词短语，如 find the book interesting、find him a reliable partner、find the door locked。本句 found the unexpected placement bizarre，bizarre 是形容词作宾语补足语，表示解说员对这步棋的评价。宾补用形容词而不用副词，不能说 found it bizarrely。若真正的宾语是不定式或从句，常用形式宾语 it，如 find it hard to believe that…，这是考研写作的常用句型。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many readers found the novel's ending deeply unsatisfying.",
+      "zh": "许多读者觉得这部小说的结局很不尽如人意。"
+     },
+     {
+      "en": "Students often find it difficult to manage their time during exams.",
+      "zh": "学生们常常觉得考试期间很难安排好时间。"
+     }
+    ]
+   },
+   {
+    "title": "take A for B",
+    "explain": "take A for B 意为“把A当成B”，通常指误认，如 I took him for his brother（我把他错当成他哥哥了）。它与 take A as B（把A看作B，侧重理解、接受的方式）不同，多含“看错、误解”之意。本句 one took it for a mistake 指一名解说员误以为第37手是失误，视频译为“以为是失误”。类似的误认表达还有 mistake A for B、confuse A with B。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In the dim light, I took the stranger for an old friend.",
+      "zh": "光线昏暗，我把那个陌生人错当成了一位老朋友。"
+     },
+     {
+      "en": "Don't take his silence for agreement.",
+      "zh": "别把他的沉默当成同意。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号可以不借助连词连接两个意思紧密相关的独立分句，后一句常对前一句作补充、举例或推进。本句前一句说解说员普遍觉得怪异，后一句举出其中一人更进一步的反应。两个分句各有主谓，不能只用逗号连接，否则构成逗号粘连句，这是考研写作中的常见语法错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first experiment failed; the second produced promising results.",
+      "zh": "第一次实验失败了；第二次则取得了可喜的结果。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "commentator",
+    "explain": "本句指比赛解说员，即在直播中为观众讲解比赛进程的人；也指报刊、电视上的时事评论员，如 a political commentator。相关名词 commentary 意为“解说，评论”。"
+   },
+   {
+    "term": "placement",
+    "explain": "指“放置，安放”（视频说明：把人或物放到合适位置）。在围棋语境中指棋子落在棋盘上的位置，视频译为“落子”。"
+   },
+   {
+    "term": "one",
+    "explain": "one 作代词，承接前面的 Commentators，指其中一人，等于 one of them，视频译为“其中一人”。"
+   }
+  ],
+  "translation_tip": "视频译文“解说员觉得这步出乎意料的落子十分怪异；其中一人还以为是失误。”的处理：①保留原文的分号，两分句的关系与原文一致。②find + 宾语 + 宾补译为“觉得……十分怪异”，bizarre 增补程度副词“十分”。③the unexpected placement 中的定冠词 the 译为“这步”，增补量词“步”。④后一分句增补“还”，体现比觉得怪异更进一步的反应；宾语 it 承前省略，took it for a mistake 译为“以为是失误”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Lee",
+   "predicate": "left",
+   "object_or_complement": "the room",
+   "explain": "主干是 Lee left the room，主谓宾结构，谓语 left 是 leave 的过去式，一般过去时。逗号后的 his pause … lasting… 是独立主格结构，补充说明这次离开持续的时间。"
+  },
+  "components": [
+   {
+    "text": "Lee",
+    "zh": "李世石",
+    "role": "主语"
+   },
+   {
+    "text": "left",
+    "zh": "离开了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "the room,",
+    "zh": "对局室",
+    "role": "宾语"
+   },
+   {
+    "text": "his pause",
+    "zh": "他这次暂停",
+    "role": "独立主格结构中的逻辑主语"
+   },
+   {
+    "text": "for deliberation",
+    "zh": "思考",
+    "role": "后置定语（介词短语），修饰 pause，说明暂停的目的"
+   },
+   {
+    "text": "lasting over ten minutes.",
+    "zh": "持续了十多分钟",
+    "role": "独立主格结构中的现在分词短语，说明 his pause 的情况"
+   }
+  ],
+  "structure": "①主句 Lee left the room，主谓宾结构。\n②his pause for deliberation lasting over ten minutes 是独立主格结构：名词短语 his pause for deliberation 是逻辑主语，现在分词短语 lasting over ten minutes 说明它的情况，二者是主动关系，相当于 and his pause … lasted over ten minutes（视频说明）。这个结构没有谓语动词，不能单独成句，在句中作状语，补充说明主句。\n③for deliberation 是介词短语作后置定语，修饰 pause，for 表示目的，指为了思考而暂停；over ten minutes 中 over 意为“超过”，作 lasting 的时间状语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "独立主格结构（名词 + 现在分词）",
+    "explain": "独立主格结构由“名词或代词 + 非谓语动词（或形容词、副词、介词短语）”构成，有自己的逻辑主语，与主句主语不同，在句中作状语，表示伴随、原因、时间或补充说明。名词与动作是主动关系用现在分词，被动关系用过去分词，如 the work done。本句逻辑主语 his pause 与主句主语 Lee 不同，所以不能直接用分词短语，而要保留 his pause。考研阅读中独立主格多出现在句末，翻译时常拆成独立分句；写作中可用它代替 and 连接的分句，如 Time permitting, we will…。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old man sat by the fire, his dog sleeping at his feet.",
+      "zh": "老人坐在炉火旁，他的狗在他脚边睡着。"
+     },
+     {
+      "en": "Weather permitting, the ceremony will be held outdoors.",
+      "zh": "如果天气允许，典礼将在户外举行。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + for + 名词 表示目的",
+    "explain": "介词 for 可以表示目的，“为了……”。pause for deliberation 指为了思考而停顿，类似的有 a pause for breath（停下喘口气）、a call for help（求助）、a demand for change（变革的诉求）。“名词 + for + 名词”在外刊中很常见，翻译时可转化为动词结构，如视频把 his pause for deliberation 译成“他这次暂停思考”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After a brief pause for breath, the runner continued up the hill.",
+      "zh": "稍作停顿喘了口气后，那名跑步者继续往山上跑。"
+     }
+    ]
+   },
+   {
+    "title": "over 表示“超过”",
+    "explain": "over 用在数词前表示“超过，多于”，相当于 more than，如 over ten minutes（十多分钟）、over 80 percent。本句 lasting over ten minutes 说明暂停持续的时间，视频译为“十多分钟”。表示数量超过多用 over 或 more than；above 多用于温度、高度、标准等，如 above average、above zero。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Over 2,000 people attended the open-air concert.",
+      "zh": "两千多人参加了这场露天音乐会。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "deliberation",
+    "explain": "名词，指仔细的考虑、斟酌，也指陪审团、委员会等的审议，如 after much deliberation（经过反复考虑）。本句指李世石离开对局室思考对策，视频译为“思考”。"
+   },
+   {
+    "term": "the room",
+    "explain": "定冠词 the 表示读者都清楚所指的房间，即比赛所在的房间，视频根据语境译为“对局室”。"
+   }
+  ],
+  "translation_tip": "视频译文“李世石离开了对局室，他这次暂停思考持续了十多分钟。”的处理：①主句顺译，the room 根据比赛语境具体化为“对局室”。②独立主格结构译成一个完整的分句，现在分词 lasting 译为谓语“持续了”，与视频说明 = and his pause … lasted… 一致。③pause for deliberation 中的介词 for 不译出，名词 deliberation 转译为动词“思考”，“暂停思考”更符合汉语表达；增补“这次”指明是这一回的停顿。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "DeepMind's diagnostic tools",
+   "predicate": "showed",
+   "object_or_complement": "AlphaGo had put the odds of a human playing that stone at one in 10,000",
+   "explain": "主干是 DeepMind's diagnostic tools showed + 宾语从句，主谓宾结构。主句谓语 showed 为一般过去时；宾语从句省略了引导词 that，从句谓语 had put 为过去完成时，表示估算发生在 showed 之前。"
+  },
+  "components": [
+   {
+    "text": "DeepMind's diagnostic tools",
+    "zh": "DeepMind 的诊断工具",
+    "role": "主语"
+   },
+   {
+    "text": "showed",
+    "zh": "显示",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "AlphaGo",
+    "zh": "AlphaGo",
+    "role": "宾语从句的主语（从句省略了引导词 that）"
+   },
+   {
+    "text": "had put",
+    "zh": "曾把……估算为",
+    "role": "宾语从句的谓语（过去完成时），与后面的 at 构成 put the odds of … at …"
+   },
+   {
+    "text": "the odds",
+    "zh": "概率",
+    "role": "从句中 put 的宾语"
+   },
+   {
+    "text": "of a human playing that stone",
+    "zh": "人类下出这一手的",
+    "role": "后置定语（介词 of + 动名词复合结构），修饰 the odds"
+   },
+   {
+    "text": "at one in 10,000,",
+    "zh": "万分之一",
+    "role": "宾语补足语（介词短语），与 put 搭配构成 put … at …，说明估算出的数值"
+   },
+   {
+    "text": "a staggering rarity.",
+    "zh": "惊人的罕见",
+    "role": "同位语（名词短语），补充说明这个概率"
+   }
+  ],
+  "structure": "①主句 DeepMind's diagnostic tools showed…，主语 tools，谓语 showed，showed 后面整个 AlphaGo had put… 是宾语从句，省略了引导词 that。\n②宾语从句：主语 AlphaGo，谓语 had put，宾语 the odds，at one in 10,000 说明估算的数值，构成 put the odds of … at …“把……的概率估算为……”（视频说明）。had put 是过去完成时，表示 AlphaGo 在下这手棋时就已作出估算，早于工具“显示”出这一结果。\n③of a human playing that stone 是 the odds 的后置定语，其中 a human playing that stone 是动名词复合结构：a human 是动名词 playing 的逻辑主语，that stone 是 playing 的宾语，指第37手。\n④句末 a staggering rarity 是名词短语作同位语，补充说明万分之一这个概率（视频说明），带有作者的评价。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that",
+    "explain": "动词 say、think、know、show、believe 等后接的宾语从句，引导词 that 在非正式文体或句子不长时常省略。本句 showed 后直接接 AlphaGo had put…，阅读时要意识到 AlphaGo 是从句主语，不是 showed 的宾语。判断方法：showed 后面出现了另一套完整的主谓结构（AlphaGo had put），中间就省略了 that。若有两个并列的宾语从句，第二个 that 通常不能省略。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The survey showed most commuters would pay more for a faster train service.",
+      "zh": "调查显示，大多数通勤者愿意为更快的火车服务多付钱。"
+     },
+     {
+      "en": "Officials admitted the new system had caused several delays.",
+      "zh": "官员们承认，新系统已经造成了几次延误。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "主句用一般过去时，从句中的动作发生在主句动作之前，要用过去完成时。本句工具“显示”在后，AlphaGo“估算”在先，所以用 had put，视频用“曾”字体现时间先后。这是考研完形和翻译中判断时间顺序的重要线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The audit revealed that the company had overstated its profits for years.",
+      "zh": "审计显示，这家公司多年来一直虚报利润。"
+     }
+    ]
+   },
+   {
+    "title": "动名词复合结构",
+    "explain": "动名词前加名词或代词（所有格或宾格），构成动名词复合结构，这个名词或代词是动名词的逻辑主语。本句 the odds of a human playing that stone 中，a human 是 playing 的逻辑主语，表示“人类下出这一手”的概率。正式文体中逻辑主语常用所有格（his leaving），在介词后或名词较长时多用普通格，如 the chance of a human playing。考研阅读中遇到“介词 + 名词 + doing”，要识别出 doing 前的名词就是动作的执行者。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "There is little chance of the plan being approved before the election.",
+      "zh": "这项计划在选举前获批的可能性很小。"
+     },
+     {
+      "en": "Residents complained about trucks passing through the village at night.",
+      "zh": "居民们投诉卡车夜间穿村而过。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "put the odds of … at …",
+    "explain": "put sth at + 数值意为“估计……为”，如 put the cost at two million dollars（估计费用为200万美元）；put the odds of sth at… 即“把……的概率估计为……”（视频说明）。odds 是复数名词，指可能性、几率，也指赌博中的赔率。"
+   },
+   {
+    "term": "one in 10,000",
+    "explain": "one in + 数字表示比例“……分之一”，如 one in five（五分之一）。本句 one in 10,000 即万分之一，读作 one in ten thousand。"
+   },
+   {
+    "term": "diagnostic tools",
+    "explain": "diagnostic 原指医学上的“诊断的”，这里指 DeepMind 用来分析 AlphaGo 决策过程的工具，视频译为“诊断工具”。"
+   },
+   {
+    "term": "that stone",
+    "explain": "指示代词 that 指上文的第37手，stone 本义是棋子，这里转指“一手棋”，视频译为“这一手”。"
+   }
+  ],
+  "translation_tip": "视频译文“DeepMind 的诊断工具显示，AlphaGo曾把人类下出这一手的概率估算为万分之一，惊人的罕见。”的处理：①宾语从句省略的 that 不译，“显示”后加逗号再接从句内容，层次清楚。②put the odds of … at … 用“把”字句译出，即“把……的概率估算为万分之一”，过去完成时用“曾”体现。③动名词复合结构 a human playing that stone 前置为定语“人类下出这一手的”。④同位语 a staggering rarity 单独置于句末，译为“惊人的罕见”，保留原文的评价语气。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "AlphaGo",
+   "predicate": "had first learned；then sharpened",
+   "object_or_complement": "to imitate strong amateurs online；its play",
+   "explain": "主干是 AlphaGo had first learned to imitate…, then sharpened its play，一个主语带两个并列谓语。第一个谓语 had learned 为过去完成时；第二个谓语 sharpened 承前省略了助动词 had，同为过去完成时，两者都表示2016年比赛之前就已完成的训练过程。"
+  },
+  "components": [
+   {
+    "text": "AlphaGo",
+    "zh": "AlphaGo",
+    "role": "主语"
+   },
+   {
+    "text": "had first learned",
+    "zh": "起初先……学会",
+    "role": "谓语一（过去完成时），副词 first 插在助动词 had 与实义动词 learned 之间"
+   },
+   {
+    "text": "to imitate",
+    "zh": "模仿",
+    "role": "learned 的宾语（不定式，learn to do）"
+   },
+   {
+    "text": "strong amateurs",
+    "zh": "实力很强的业余者",
+    "role": "不定式 imitate 的宾语"
+   },
+   {
+    "text": "online,",
+    "zh": "网上",
+    "role": "后置定语（副词），修饰 strong amateurs，说明这些业余者是在网上下棋的"
+   },
+   {
+    "text": "then",
+    "zh": "随后",
+    "role": "时间副词，表示先后顺序"
+   },
+   {
+    "text": "sharpened",
+    "zh": "磨砺了",
+    "role": "谓语二（承前省略 had），与 had first learned 并列"
+   },
+   {
+    "text": "its play",
+    "zh": "棋力",
+    "role": "sharpened 的宾语"
+   },
+   {
+    "text": "over tens of millions of simulated games",
+    "zh": "在经过了数千万盘……的模拟比赛后",
+    "role": "时间状语（介词短语，over 表示“在……的过程中，经过……”）"
+   },
+   {
+    "text": "against itself.",
+    "zh": "自我对弈",
+    "role": "后置定语（介词短语），修饰 games，说明这些对局的对手是 AlphaGo 自己"
+   }
+  ],
+  "structure": "①本句一个主语 AlphaGo 带两个并列谓语：had first learned to imitate strong amateurs online 和 then sharpened its play…，中间用逗号和 then 连接，按时间先后叙述两个训练阶段。第二个谓语前承前省略了 had。\n②第一个谓语部分：learned 后接不定式 to imitate 作宾语（learn to do，学会做某事），strong amateurs 是 imitate 的宾语，online 是副词作后置定语，修饰 strong amateurs，说明这些业余者是在网上对弈的。\n③第二个谓语部分：sharpened 的宾语是 its play，its 指 AlphaGo；over tens of millions of simulated games 是时间状语，over 表示“在……的过程中”；against itself 是介词短语作后置定语，修饰 games，说明这些模拟对局的对手是 AlphaGo 自己。\n④本句用过去完成时，是因为第三段在叙述第37手之后，回过头交代 AlphaGo 此前的训练经历，时间早于前文的比赛。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时用于插叙，并列谓语共用 had",
+    "explain": "叙述过去的事情时，如果要回过头交代更早发生的事，用过去完成时，使读者明白时间先后。本句前文叙述2016年的比赛（一般过去时），这里插入 AlphaGo 之前的训练经历，所以用 had first learned…。两个并列谓语共用一个助动词时，后一个谓语前的 had 常承前省略，本句 then sharpened 即 then had sharpened。考研阅读中，过去完成时常是插叙、回顾的信号，有助于理清事件顺序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the rescue team arrived, the climbers had already reached the summit and started their descent.",
+      "zh": "救援队赶到时，登山者们已经登顶并开始下山了。"
+     },
+     {
+      "en": "Before opening her own restaurant, she had worked as a chef in Paris for ten years.",
+      "zh": "在开自己的餐馆之前，她曾在巴黎当了十年厨师。"
+     }
+    ]
+   },
+   {
+    "title": "tens of millions of：概数的表达",
+    "explain": "英语用 tens of、hundreds of、thousands of、millions of 表示概数，此时 ten、hundred、thousand、million 用复数并加 of，如 tens of millions of games（数千万盘对局）、hundreds of thousands of people（数十万人）。前面有具体数字时不加 s 也不加 of，如 two million games。tens of millions 字面是“若干个一千万”，即“数千万”。考研翻译中要注意中英文数位的换算：million 是百万，ten million 是千万，billion 是十亿。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The documentary has been watched by hundreds of thousands of viewers online.",
+      "zh": "这部纪录片在网上已有数十万观众观看。"
+     },
+     {
+      "en": "The government plans to spend three billion dollars on new railways.",
+      "zh": "政府计划斥资30亿美元修建新铁路。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作介词宾语",
+    "explain": "当介词宾语与句子主语指同一对象时，要用反身代词，如 play against itself、talk to oneself。本句 games against itself 中 itself 指 AlphaGo，即 AlphaGo 自己和自己下棋，视频译为“自我对弈”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The athlete constantly competes against herself, trying to beat her own records.",
+      "zh": "这位运动员总在和自己比赛，努力打破自己的纪录。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "AlphaGo 的训练方式",
+    "explain": "据 DeepMind 发表的研究，AlphaGo 先学习网络对弈平台上人类高水平业余棋手的大量棋局，模仿人类的下法；再通过大量自我对弈进行强化学习，不断提升棋力。文中 imitate strong amateurs online 与 simulated games against itself 分别对应这两个阶段。"
+   },
+   {
+    "term": "play",
+    "explain": "熟词僻义：play 作名词可指比赛中的表现、下法、打法，如 The team's play improved in the second half（球队下半场的表现有所提高）。its play 指 AlphaGo 的下棋水平，视频译为“棋力”。"
+   },
+   {
+    "term": "sharpen",
+    "explain": "本义“使锋利”，引申为“提高，磨炼（技能等）”，如 sharpen one's skills，视频译为“磨砺了”，保留了“磨”的比喻色彩。"
+   },
+   {
+    "term": "simulated games",
+    "explain": "simulated 意为“模拟的”，simulated games 指在计算机中模拟进行的对局，而不是与真人在现实中下的棋。"
+   }
+  ],
+  "translation_tip": "视频译文“AlphaGo 起初先学会模仿网上实力很强的业余者的下法，随后，在经过了数千万盘自我对弈的模拟比赛后，它磨砺了棋力。”的处理：①first 和 then 分别译为“起初先”和“随后”，突出两个训练阶段的先后。②imitate strong amateurs 增补“的下法”，说明模仿的是业余者的下棋方式；副词 online 前置为定语“网上”。③第二个谓语部分调整语序，把状语 over… 提前译为“在经过了数千万盘……的模拟比赛后”，再补出主语“它”接谓语“磨砺了棋力”。④后置定语 against itself 前置为“自我对弈的”，修饰“模拟比赛”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Lee",
+   "predicate": "acknowledged",
+   "object_or_complement": "the stone's originality and beauty",
+   "explain": "主干是 Lee acknowledged the stone's originality and beauty，主谓宾结构，谓语 acknowledged 为一般过去时，later 作时间状语，宾语由两个并列名词构成。"
+  },
+  "components": [
+   {
+    "text": "Lee",
+    "zh": "李世石",
+    "role": "主语"
+   },
+   {
+    "text": "later",
+    "zh": "后来",
+    "role": "时间状语（副词）"
+   },
+   {
+    "text": "acknowledged",
+    "zh": "承认了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "the stone's originality and beauty.",
+    "zh": "这一手的独创性和美感",
+    "role": "宾语（the stone's 同时修饰并列名词 originality 和 beauty）"
+   }
+  ],
+  "structure": "①主谓宾结构：主语 Lee，谓语 acknowledged，宾语 originality and beauty，副词 later 作时间状语，位于主语和谓语之间。\n②宾语中 the stone's 是名词所有格，同时修饰 originality 和 beauty 两个并列名词。stone 本义是围棋棋子，这里指 AlphaGo 下出的第37手，视频译为“这一手”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "acknowledge 的常用句型",
+    "explain": "acknowledge 是及物动词，常见句型有：acknowledge + 名词（acknowledge a mistake）；acknowledge + that 从句（He acknowledged that he was wrong）；acknowledge + doing（acknowledge having made a mistake）；acknowledge sb/sth as/to be…（常用被动 be widely acknowledged as，被公认为……）。本句 acknowledged the stone's originality and beauty 是第一种，表示李世石承认这一手的价值，含有对对手的认可。考研阅读中 acknowledge 常用来引出让步，如 Critics acknowledge that…, but…，后面往往才是重点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister acknowledged that the policy had not worked as intended.",
+      "zh": "这位部长承认，这项政策没有达到预期效果。"
+     },
+     {
+      "en": "She is widely acknowledged as one of the finest violinists of her generation.",
+      "zh": "她被公认为同辈中最优秀的小提琴家之一。"
+     }
+    ]
+   },
+   {
+    "title": "一个名词所有格修饰并列名词",
+    "explain": "一个所有格可以同时修饰后面几个并列的名词，如 the stone's originality and beauty，即 the stone's originality and the stone's beauty。表示两人共有时用 A and B's（Tom and Mary's house），各自所有时用 A's and B's（Tom's and Mary's cars）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's history and culture attract millions of tourists every year.",
+      "zh": "这座城市的历史和文化每年吸引数百万游客。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stone",
+    "explain": "stone 指围棋棋子，本句转指“一手棋”，即第37手，视频译为“这一手”。"
+   },
+   {
+    "term": "originality",
+    "explain": "指独创性、新颖性，常用来评价艺术作品或思想，如 a work of great originality。李世石用 originality 和 beauty 评价一手棋，说明他认为这手棋不仅出人意料，而且富有创意和美感。"
+   }
+  ],
+  "translation_tip": "视频译文“李世石后来承认了这一手的独创性和美感。”按原文语序顺译：①later 译为“后来”，放在主语之后、谓语之前，与原文位置一致。②the stone's 译为“这一手的”，用“这”体现定冠词 the 的特指，stone 根据围棋语境译为“一手”。③beauty 译为“美感”，比“美丽”更适合评价一手棋。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The fourth game",
+   "predicate": "reversed",
+   "object_or_complement": "the roles",
+   "explain": "主干是 The fourth game reversed the roles，主谓宾结构，谓语 reversed 为一般过去时。主语是无生命的“第四局”，这是英语中常见的以事物作主语的写法。"
+  },
+  "components": [
+   {
+    "text": "The fourth game,",
+    "zh": "第四局",
+    "role": "主语"
+   },
+   {
+    "text": "on 13 March,",
+    "zh": "3月13日的",
+    "role": "后置定语（介词短语，夹在两个逗号之间作补充说明），修饰 The fourth game"
+   },
+   {
+    "text": "reversed",
+    "zh": "互换了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "the roles",
+    "zh": "双方的角色",
+    "role": "宾语"
+   },
+   {
+    "text": "in neat symmetry.",
+    "zh": "以巧妙的对称",
+    "role": "方式状语（介词短语）"
+   }
+  ],
+  "structure": "①主谓宾结构：主语 The fourth game，谓语 reversed，宾语 the roles，in neat symmetry 是介词短语作方式状语。on 13 March 夹在两个逗号之间，补充说明第四局的日期，作 The fourth game 的后置定语。\n②the roles 用定冠词，指第二局中双方的角色。视频说明：第二局 AlphaGo 靠万分之一的第37手赢了人类棋手；第四局反过来，人类棋手靠万分之一的第78手赢了 AlphaGo。in neat symmetry 指两局形成巧妙的对称，这一点要结合下文第12、13句才能完全看出。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "无生命名词作主语",
+    "explain": "英语常用表示事物、事件、时间的名词作主语，搭配表示人的动作的动词，如 The fourth game reversed the roles、The decade saw great changes。汉语多以人作主语，翻译时常把这类主语转为时间、条件状语，或保留为话题。本句视频保留“第四局”作主语，译为“3月13日的第四局……互换了双方的角色”。考研翻译中这类结构很常见，要注意转换。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The past decade has seen a sharp rise in remote working.",
+      "zh": "过去十年，远程办公大幅增加。"
+     },
+     {
+      "en": "His speech won him the support of many undecided voters.",
+      "zh": "他的演讲为他赢得了许多犹豫不决的选民的支持。"
+     }
+    ]
+   },
+   {
+    "title": "in + 名词 作方式状语",
+    "explain": "in + 抽象名词可表示方式或状态，如 in silence（沉默地）、in haste（匆忙地）、in harmony（和谐地）、in neat symmetry（以巧妙的对称）。本句说明角色互换的方式：两局比赛彼此呼应，形成对称。翻译时常译为“以……”或“……地”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The two dancers moved across the stage in perfect harmony.",
+      "zh": "两位舞者在台上配合得十分和谐。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reverse the roles",
+    "explain": "意为“互换角色，角色颠倒”，名词形式为 role reversal。本句指第二局与第四局胜负双方的角色互换（视频说明）。reverse 还有“扭转，推翻”之意，如 reverse a decision（推翻决定）。"
+   },
+   {
+    "term": "neat",
+    "explain": "本义“整洁的”，这里取“巧妙的，恰到好处的”之意，如 a neat solution（巧妙的解决办法），视频译为“巧妙的”。"
+   },
+   {
+    "term": "日期写法",
+    "explain": "on 13 March 是英式日期写法，日在前、月在后；美式通常写作 on March 13。具体日期前用介词 on。"
+   }
+  ],
+  "translation_tip": "视频译文“3月13日的第四局，以巧妙的对称，互换了双方的角色。”的处理：①插入的日期 on 13 March 前置为定语“3月13日的”，修饰“第四局”。②方式状语 in neat symmetry 提到谓语之前，译为“以巧妙的对称”，符合汉语状语在动词前的习惯。③the roles 增补“双方的”，点明互换的是对局双方的角色。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Lee's 78th move；many professionals",
+   "predicate": "turned；heralded",
+   "object_or_complement": "the tide；it (as divine)",
+   "explain": "本句是由 and 连接的并列句。前一分句主干 Lee's 78th move turned the tide，主谓宾结构，turn the tide 是习语；后一分句主干 many professionals heralded it as divine，主谓宾宾补结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Lee's 78th move",
+    "zh": "李世石的第78手",
+    "role": "第一分句的主语"
+   },
+   {
+    "text": "turned",
+    "zh": "扭转了",
+    "role": "第一分句的谓语（与 the tide 构成习语 turn the tide）"
+   },
+   {
+    "text": "the tide,",
+    "zh": "局势",
+    "role": "宾语"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，译文用逗号连接，不单独译出）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "many professionals",
+    "zh": "许多职业棋手",
+    "role": "第二分句的主语"
+   },
+   {
+    "text": "heralded",
+    "zh": "把……誉为",
+    "role": "第二分句的谓语（与 as 构成 herald A as B）"
+   },
+   {
+    "text": "it",
+    "zh": "它",
+    "role": "宾语（代词，指第78手）"
+   },
+   {
+    "text": "as divine.",
+    "zh": "神之一手",
+    "role": "宾语补足语（as + 形容词）"
+   }
+  ],
+  "structure": "①本句由 and 连接两个并列分句，前句叙述第78手的作用，后句叙述职业棋手们的评价。\n②前一分句：主语 Lee's 78th move，谓语 turned，宾语 the tide。turn the tide 是习语，字面义“使潮水转向”，比喻扭转局势。\n③后一分句：主语 many professionals，谓语 heralded，宾语 it（指第78手），as divine 是宾语补足语，构成 herald A as B“把A誉为B”（视频说明）。as 后接形容词 divine，表示对这一手的评价。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动词 + 宾语 + as + 补足语（herald A as B）",
+    "explain": "regard、see、view、describe、hail、herald 等动词可接“宾语 + as + 名词/形容词”，as 引出宾语补足语，表示“把……看作/称为……”。本句 heralded it as divine 中，as 后接形容词 divine。被动语态 be heralded as 在外刊中更常见，如 be heralded as a breakthrough（被誉为突破）。consider 一般不加 as，说 consider sb (to be) sth；regard 则必须加 as。考研阅读中，这类结构常用来表明某人或媒体对事物的评价。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new vaccine was hailed as a major breakthrough in the fight against malaria.",
+      "zh": "这种新疫苗被誉为抗击疟疾的一大突破。"
+     },
+     {
+      "en": "Critics described the film as bold, funny, and deeply moving.",
+      "zh": "评论家称这部电影大胆、有趣，而且非常感人。"
+     }
+    ]
+   },
+   {
+    "title": "and 连接主语不同的并列分句",
+    "explain": "and 可以连接两个各有主谓的独立分句。两个分句主语相同时，第二个主语可以省略（如第9句）；主语不同时必须写出。本句前句主语是 Lee's 78th move，后句主语是 many professionals，所以都要保留。and 连接两个较长分句时，前面通常加逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The price of fuel rose sharply, and many airlines cut their flights.",
+      "zh": "燃油价格大幅上涨，许多航空公司削减了航班。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "turn the tide",
+    "explain": "习语，意为“扭转局势，改变形势”，常用于战争、比赛、舆论等，如 turn the tide of the war；tide 本义“潮汐”，引申为“趋势，潮流”。"
+   },
+   {
+    "term": "divine 与“神之一手”",
+    "explain": "divine 本义“神的”，引申为“神妙的，极好的”。视频说明：“神之一手”指围棋中绝妙的一手。视频据此把 heralded it as divine 译为“把它誉为神之一手”。"
+   },
+   {
+    "term": "professional",
+    "explain": "作名词指职业选手、专业人士，本文指职业棋手，与第9句的 amateurs（业余者）相对。"
+   }
+  ],
+  "translation_tip": "视频译文“李世石的第78手扭转了局势，许多职业棋手把它誉为神之一手。”的处理：①并列连词 and 不译，两个分句用逗号连接，汉语靠意合即可表达并列。②turn the tide 按习语意义译为“扭转了局势”，不直译“潮水”。③herald A as B 用“把”字句译为“把它誉为……”。④形容词 divine 结合围棋术语译成名词性的“神之一手”，与视频说明一致。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "DeepMind's team",
+   "predicate": "computed",
+   "object_or_complement": "a professional's likelihood of finding it",
+   "explain": "主干是 DeepMind's team computed a professional's likelihood，主谓宾结构，谓语 computed 为一般过去时。冒号后的 about one in 10,000 说明这个可能性的具体数值。"
+  },
+  "components": [
+   {
+    "text": "DeepMind's team",
+    "zh": "DeepMind 团队",
+    "role": "主语"
+   },
+   {
+    "text": "computed",
+    "zh": "算出了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "a professional's likelihood",
+    "zh": "职业棋手……的可能性",
+    "role": "宾语（a professional's 是名词所有格，意义上是动名词 finding 的逻辑主语）"
+   },
+   {
+    "text": "of finding it:",
+    "zh": "找到这一手",
+    "role": "后置定语（of + 动名词短语），修饰 likelihood；it 指第78手"
+   },
+   {
+    "text": "about one in 10,000.",
+    "zh": "约为万分之一",
+    "role": "同位语（冒号后的名词短语），说明 likelihood 的具体数值"
+   }
+  ],
+  "structure": "①主谓宾结构：主语 DeepMind's team，谓语 computed，宾语 likelihood。\n②likelihood 前有所有格 a professional's，后有 of finding it 作后置定语。a professional's 在意义上是 finding 的逻辑主语：这里的可能性指“职业棋手找到这一手”的可能性。it 指上句李世石的第78手。\n③冒号引出 about one in 10,000，说明 likelihood 的具体数值，相当于 which was about one in 10,000，起同位语的作用。about 修饰数词，表示“大约”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "冒号的解释说明作用",
+    "explain": "冒号常用来引出对前文的解释、列举或具体说明，冒号后可以是完整句子，也可以是词或短语。本句冒号后的 about one in 10,000 只是一个短语，具体说明 likelihood 的数值，等于 the likelihood was about one in 10,000。外刊中作者常把关键数字或结论放在冒号后，以突出信息；考研阅读中冒号后的内容往往是细节题的出处。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey found one clear trend: younger workers are changing jobs more often.",
+      "zh": "调查发现了一个明显的趋势：年轻员工换工作更频繁了。"
+     }
+    ]
+   },
+   {
+    "title": "likelihood of doing 及动名词的逻辑主语",
+    "explain": "likelihood、chance、possibility、probability 等名词常接 of + 动名词，表示“做某事的可能性”，如 the likelihood of winning。动名词的逻辑主语可以用所有格放在名词前（a professional's likelihood of finding it），也可以放在 of 后（the likelihood of a professional finding it），后者与第8句 the odds of a human playing that stone 结构相同。likelihood 后一般接 of doing 或 that 从句，不接不定式；chance 则两者都可，如 a chance to win。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Regular exercise reduces the likelihood of developing heart disease.",
+      "zh": "经常锻炼可以降低患心脏病的可能性。"
+     },
+     {
+      "en": "There is little likelihood of an agreement being reached this year.",
+      "zh": "今年达成协议的可能性很小。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "compute",
+    "explain": "意为“计算，算出”，常指借助计算机进行的运算，名词 computation，形容词 computational（见第1句）。视频译为“算出了”。"
+   },
+   {
+    "term": "one in 10,000",
+    "explain": "与第8句 AlphaGo 对第37手的估算数值相同，都是万分之一，正是第11句所说的 neat symmetry（巧妙的对称）。"
+   }
+  ],
+  "translation_tip": "视频译文“DeepMind 团队算出了职业棋手找到这一手的可能性：约为万分之一。”的处理：①所有格 DeepMind's team 译为“DeepMind 团队”，省去“的”更简洁。②a professional's likelihood of finding it 中，所有格与动名词合成一个定语“职业棋手找到这一手的”，修饰“可能性”。③保留冒号，冒号后增补“为”，译成“约为万分之一”，about 译为“约”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Lee's only win",
+   "predicate": "was",
+   "object_or_complement": "a consolation",
+   "explain": "主干是 Lee's only win was a consolation，主系表结构，was 为一般过去时；amid 引导的介词短语作后置定语，说明这份安慰所处的背景。"
+  },
+  "components": [
+   {
+    "text": "Lee's only win",
+    "zh": "李世石唯一的胜局",
+    "role": "主语（only 是形容词，意为“唯一的”）"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "a consolation",
+    "zh": "一点安慰",
+    "role": "表语"
+   },
+   {
+    "text": "amid AlphaGo's overwhelming 4–1 victory.",
+    "zh": "AlphaGo 4比1压倒性的胜利中的",
+    "role": "后置定语（介词短语），修饰 a consolation，说明安慰所处的背景"
+   }
+  ],
+  "structure": "①主系表结构：主语 Lee's only win，系动词 was，表语 a consolation。only 修饰 win，表示李世石在五局中只赢了一局，即第四局；consolation 前用不定冠词 a，表示“一件令人宽慰的事”。\n②amid 引导的介词短语作后置定语，修饰 a consolation，说明这份安慰出现在什么背景之中（视频说明：amid，在……之中）。介词宾语是 victory，前面有三层定语：所有格 AlphaGo's、形容词 overwhelming 和比分4比1（读作 four to one）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词 amid",
+    "explain": "amid 意为“在……之中，在……的氛围下”，书面色彩较强，常见于新闻，后接表示事件、气氛的名词，如 amid growing concern（在担忧日益加剧之际）、amid the chaos（在一片混乱中）。amid 多接不可数名词或单数名词表示背景，表示“在许多人或物中间”时更常用 among，如 among the crowd。本句 amid AlphaGo's overwhelming victory 作 a consolation 的后置定语，说明这份安慰是在 AlphaGo 大胜的背景之中，视频译为“……胜利中的一点安慰”。考研阅读的新闻类文章中，amid 短语常交代事件背景。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company's shares fell sharply amid fears of a slowdown in demand.",
+      "zh": "由于担心需求放缓，该公司股价大幅下跌。"
+     },
+     {
+      "en": "The rescue work continued amid heavy rain.",
+      "zh": "救援工作在大雨中继续进行。"
+     }
+    ]
+   },
+   {
+    "title": "only 作形容词与作副词",
+    "explain": "only 作形容词时作定语，意为“唯一的”，放在限定词之后、名词之前，如 the only way、his only win；本句 Lee's only win 即“李世石唯一的胜局”。only 作副词时修饰动词或其他成分，如 He only won once。only 修饰状语并置于句首时，主句要部分倒装，如 Only then did he realize the danger，这是考研写作的常用句型。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She was the only applicant who had worked abroad.",
+      "zh": "她是唯一一个有海外工作经历的申请人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "比赛结果",
+    "explain": "这场五局比赛 AlphaGo 以4比1获胜，李世石唯一获胜的是3月13日的第四局。比分4比1英文读作 four to one，在句中作 victory 的前置定语。"
+   },
+   {
+    "term": "overwhelming",
+    "explain": "意为“压倒性的，势不可挡的”，常与 majority、victory、evidence 搭配，如 an overwhelming majority（压倒性多数），视频译为“压倒性的”。"
+   },
+   {
+    "term": "consolation",
+    "explain": "视频说明：consolation 通常作名词，指失望、悲伤或遭受打击时得到的安慰和心理宽慰。a consolation 用不定冠词，指“一件带来安慰的事”；相关搭配有 a consolation prize（安慰奖）、take consolation from sth（从……中得到安慰）。"
+   }
+  ],
+  "translation_tip": "视频译文“李世石唯一的胜局，是AlphaGo 4比1压倒性的胜利中的一点安慰。”的处理：①主语 Lee's only win 译为“李世石唯一的胜局”，增补“局”字点明是一局棋，主语后加逗号停顿。②后置定语 amid… 前置，译为“……胜利中的”，修饰“一点安慰”；比分译为“4比1”。③a consolation 中的不定冠词 a 译为“一点”，体现这份安慰分量有限。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Lee",
+   "predicate": "withdrew from",
+   "object_or_complement": "the professional circuit",
+   "explain": "主干是 Lee withdrew from the professional circuit，主谓宾结构，谓语 withdrew from 为一般过去时（withdrew 是 withdraw 的过去式）。逗号后的 a farewell he tied to… 是同位语，说明前面整件事。"
+  },
+  "components": [
+   {
+    "text": "In November 2019",
+    "zh": "2019年11月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Lee",
+    "zh": "李世石",
+    "role": "主语"
+   },
+   {
+    "text": "withdrew from",
+    "zh": "退出了",
+    "role": "谓语（短语动词 withdraw from，一般过去时）"
+   },
+   {
+    "text": "the professional circuit,",
+    "zh": "职业巡回赛（退役）",
+    "role": "宾语"
+   },
+   {
+    "text": "a farewell",
+    "zh": "这次告别",
+    "role": "同位语（名词），说明前面整件事"
+   },
+   {
+    "text": "he tied to AI's unrivalled dominance.",
+    "zh": "他把……归咎于人工智能无可匹敌的统治地位",
+    "role": "定语从句（省略了作宾语的关系代词 that/which），修饰 a farewell"
+   }
+  ],
+  "structure": "①主句 Lee withdrew from the professional circuit，主谓宾结构，句首 In November 2019 作时间状语。退出职业巡回赛即退役，视频括号注明“退役”。\n②a farewell 是同位语，说明前面整件事（视频说明），即把退役这件事称为一次“告别”。\n③he tied to AI's unrivalled dominance 是定语从句，修饰 a farewell，省略了关系代词 that 或 which。关系代词在从句中作 tied 的宾语，从句还原为 he tied the farewell to AI's unrivalled dominance，即 tie A to B“把A和B联系起来”，这里指把A归咎于B（视频说明）。作宾语的关系代词可以省略，所以 farewell 后直接接 he tied。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词 that、which、whom 在限制性定语从句中作宾语时可以省略，形成“名词 + 主语 + 谓语”的结构，如 the book I bought。本句 a farewell he tied to… 中，farewell 后紧跟从句主语 he，中间省略了作 tied 宾语的 that 或 which。阅读时遇到“名词 + 代词/名词 + 谓语”而中间没有连接词，要想到省略了关系代词。关系代词作主语时不能省略。考研长难句和翻译题中这种省略非常常见。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The decision the board announced yesterday surprised most employees.",
+      "zh": "董事会昨天宣布的决定让大多数员工感到意外。"
+     },
+     {
+      "en": "The risks scientists warned about a decade ago are now becoming real.",
+      "zh": "科学家十年前警告过的风险正在成为现实。"
+     }
+    ]
+   },
+   {
+    "title": "句末同位语 + 定语从句，概括前面整件事",
+    "explain": "句末名词短语可以作同位语，对前面整句所述的事件进行概括、重新命名，后面常带定语从句或分词短语进一步说明，形成“…, a + 名词 + 定语从句”的结构。本句用 a farewell 概括“退出职业巡回赛”这件事，再用 he tied to… 说明他怎样看待这次告别。这种结构把两句话合为一句，信息紧凑，是外刊常用笔法，写作中也可借用，如 …, a decision that…。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum closed its doors in 2020, a loss many residents still regret.",
+      "zh": "这座博物馆于2020年闭馆，许多居民至今仍为这一损失感到惋惜。"
+     },
+     {
+      "en": "The town banned cars from its centre, a change that shopkeepers initially opposed.",
+      "zh": "该镇禁止汽车进入市中心，这一变化起初遭到店主们的反对。"
+     }
+    ]
+   },
+   {
+    "title": "tie A to B",
+    "explain": "tie A to B 字面义“把A系在B上”，引申为“把A和B联系起来”，可以指因果关联，如 tie the rise in crime to unemployment（把犯罪率上升与失业联系起来）。被动 be tied to 表示“与……相关联，受……制约”，如 wages tied to inflation（与通胀挂钩的工资）。本句 tied the farewell to AI's unrivalled dominance，视频说明指把A归咎于B。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Economists have tied the slowdown to weak consumer spending.",
+      "zh": "经济学家把经济放缓归因于消费支出疲软。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "withdraw from",
+    "explain": "withdraw 是不规则动词，过去式 withdrew，过去分词 withdrawn；withdraw from 意为“退出”，如 withdraw from a race（退出比赛）、withdraw from the talks（退出谈判）。"
+   },
+   {
+    "term": "circuit",
+    "explain": "熟词僻义：circuit 常见义是“电路”，在体育领域指定期举行的系列比赛、巡回赛，如 the tennis circuit。the professional circuit 指职业棋手参加的各类比赛，退出它即退役，视频译为“职业巡回赛（退役）”。"
+   },
+   {
+    "term": "unrivalled",
+    "explain": "英式拼写，美式拼作 unrivaled，意为“无可匹敌的”。本文使用英式拼写，日期也用 13 March 这样的英式格式。"
+   },
+   {
+    "term": "AI",
+    "explain": "artificial intelligence（人工智能）的缩写，按字母逐个读出，视频译为“人工智能”。"
+   }
+  ],
+  "translation_tip": "视频译文“2019年11月，李世石退出了职业巡回赛（退役），他把这次告别归咎于人工智能无可匹敌的统治地位。”的处理：①主句顺译，括号增补“退役”，说明 withdraw from the professional circuit 的实际含义。②同位语与定语从句合在一起改译为独立分句，补出主语“他”，用“把”字句译出 tie A to B：“他把这次告别归咎于……”。③a farewell 译为“这次告别”，用“这次”回指前面的退役。④tie… to 按视频说明取“归咎于”之意。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "he",
+   "predicate": "said",
+   "object_or_complement": "the summit was beyond him",
+   "explain": "主干是 he said + 宾语从句，主谓宾结构，said 为一般过去时；宾语从句 the summit was beyond him 省略了 that，从句为主系表结构。句首 Calling… 是现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "Calling",
+    "zh": "称",
+    "role": "现在分词，引导伴随状语（call A B 结构）"
+   },
+   {
+    "text": "AI",
+    "zh": "人工智能",
+    "role": "calling 的宾语"
+   },
+   {
+    "text": "an invincible entity,",
+    "zh": "是不可战胜的/无敌的存在",
+    "role": "宾语补足语（名词短语），说明称 AI 为什么"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语"
+   },
+   {
+    "text": "said",
+    "zh": "说",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "the summit",
+    "zh": "那个顶峰",
+    "role": "宾语从句的主语（从句省略了引导词 that）"
+   },
+   {
+    "text": "was",
+    "zh": "（系动词，与 beyond him 合译为“已非他所能企及”）",
+    "role": "宾语从句的系动词（一般过去时，与主句时态呼应）"
+   },
+   {
+    "text": "beyond him.",
+    "zh": "已非他所能企及",
+    "role": "宾语从句的表语（介词短语）"
+   }
+  ],
+  "structure": "①主句 he said the summit was beyond him：主语 he，谓语 said，宾语是省略了 that 的宾语从句 the summit was beyond him。从句主语 the summit，系动词 was，表语 beyond him，be beyond sb 表示“超出某人的能力”（视频说明）。从句随主句 said 用过去时 was，体现时态呼应。\n②句首 Calling AI an invincible entity 是现在分词短语作伴随状语（视频说明），逻辑主语是主句主语 he，与主句动作 said 同时发生。短语内部是 call A B 结构“称A为B”：AI 是宾语，an invincible entity 是宾语补足语。\n③the summit 字面义“顶峰”，这里比喻围棋竞技的最高水平；the 表示特指，视频译为“那个顶峰”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语可放在句首或句末作伴随状语，表示与主句谓语同时发生的动作或状态，分词的逻辑主语必须是主句主语。本句 Calling AI an invincible entity 的逻辑主语是 he，“称AI为无敌的存在”与“说那个顶峰已非他所能企及”是同一次讲话中的两层意思。若分词的逻辑主语与主句主语不一致，就会出现垂悬分词，这是考研写作中的典型错误，如不能写 Walking in the park, the flowers smelled sweet。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Smiling at the audience, the speaker began her lecture.",
+      "zh": "演讲者朝听众微笑着，开始了她的演讲。"
+     },
+     {
+      "en": "Describing the plan as unrealistic, the committee asked for a revised budget.",
+      "zh": "委员会称这项计划不切实际，要求提交修订后的预算。"
+     }
+    ]
+   },
+   {
+    "title": "call A B：名词作宾语补足语",
+    "explain": "call、name、elect、appoint、make、consider 等动词可接“宾语 + 名词”，名词作宾语补足语，说明宾语的身份或名称，如 They elected her chairperson、We call him Tom。它与双宾语结构不同：宾补和宾语指同一对象（AI 就是 an invincible entity），双宾语中两个宾语指不同对象（give him a book）。本句 calling AI an invincible entity 即“称AI为无敌的存在”（视频说明：call A B，称A为B）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The board appointed her chief executive in 2021.",
+      "zh": "董事会于2021年任命她为首席执行官。"
+     },
+     {
+      "en": "Critics have called the bridge an engineering masterpiece.",
+      "zh": "评论家称这座桥是工程杰作。"
+     }
+    ]
+   },
+   {
+    "title": "be beyond sb",
+    "explain": "介词 beyond 意为“超出……的范围”，be beyond sb 表示“某人做不到，某人理解不了”，如 The question is beyond me（这个问题我答不了）。类似表达有 beyond one's reach（够不着）、beyond belief（难以置信）、beyond doubt（毫无疑问）、beyond repair（无法修复）。本句 the summit was beyond him 指围棋的顶峰已非他所能企及。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Why he turned down such a good offer is beyond me.",
+      "zh": "他为什么拒绝这么好的机会，我实在想不通。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "invincible entity",
+    "explain": "invincible 意为“不可战胜的，无敌的”，由否定前缀 in- 和 vincible（可战胜的）构成；entity 指“存在，实体”，可指任何独立存在的事物或机构，如 a legal entity（法律实体）。用 entity 而不用 player 或 opponent，突出 AI 是区别于人类棋手的另一种存在，视频译为“存在”。"
+   },
+   {
+    "term": "summit",
+    "explain": "本义“山顶，顶峰”，比喻事业或水平的最高点；另一常用义是“峰会，首脑会议”，如 a G20 summit。本句指围棋竞技的巅峰，视频译为“顶峰”。"
+   }
+  ],
+  "translation_tip": "视频译文“称人工智能是不可战胜的/无敌的存在，他说，那个顶峰已非他所能企及。”的处理：①句首分词短语按原语序译出，call A B 译为“称A是B”，增补“是”字。②主句 he said 前后用逗号隔开，宾语从句单独译出。③be beyond him 意译为“已非他所能企及”，“企及”与“顶峰”的比喻相配；定冠词 the 译为“那个”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "his one win",
+   "predicate": "came from",
+   "object_or_complement": "a stone",
+   "explain": "主干是 his one win came from a stone，谓语 came from 意为“来自，源于”，一般过去时；a stone 是 from 的宾语，也是后面 whose 引导的定语从句的先行词。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "zh": "然而",
+    "role": "连词（表示转折，与上句形成对照）"
+   },
+   {
+    "text": "his one win",
+    "zh": "他唯一的一场胜局",
+    "role": "主语（one 意为“唯一的”）"
+   },
+   {
+    "text": "came from",
+    "zh": "源自",
+    "role": "谓语（come from，一般过去时）"
+   },
+   {
+    "text": "a stone",
+    "zh": "一着棋",
+    "role": "介词 from 的宾语，也是定语从句的先行词"
+   },
+   {
+    "text": "whose odds,",
+    "zh": "这手棋的胜率",
+    "role": "定语从句（whose 引导，修饰 a stone）的主语；whose 在从句中作定语，修饰 odds"
+   },
+   {
+    "text": "by DeepMind's figures,",
+    "zh": "根据 DeepMind 的数据",
+    "role": "插入语（介词短语，by 表示“根据”）"
+   },
+   {
+    "text": "were",
+    "zh": "（系动词，不单独译出）",
+    "role": "定语从句的系动词（一般过去时）"
+   },
+   {
+    "text": "as slim",
+    "zh": "极低/渺茫/非常微小",
+    "role": "定语从句的表语（前一个 as 是副词，修饰 slim）"
+   },
+   {
+    "text": "as those",
+    "zh": "和……一样",
+    "role": "比较状语从句（后一个 as 是连词，从句有省略；those 代替 the odds）"
+   },
+   {
+    "text": "of AlphaGo's audacious shoulder hit.",
+    "zh": "AlphaGo 那次大胆的肩冲",
+    "role": "后置定语（介词短语），修饰 those"
+   }
+  ],
+  "structure": "①主句 his one win came from a stone：主语 his one win，one 意为“唯一的”，等于 only；谓语 came from，“来自，源于”；a stone 指一手棋，是后面定语从句的先行词。句首 Yet 表示转折：上句说 AI 已不可战胜，本句指出李世石唯一的胜利同样来自一手极其罕见的棋。\n②whose 引导定语从句，修饰 a stone（视频说明）。whose 在从句中作定语，修饰 odds，whose odds 等于 the stone's odds。从句主语 whose odds，系动词 were，表语 as slim。\n③by DeepMind's figures 是插入语（视频说明），夹在从句主语和谓语之间，by 表示“根据”，说明数据来源。\n④as slim as those of AlphaGo's audacious shoulder hit 是 as … as 同级比较：前一个 as 是副词，后一个 as 是连词，引导省略的比较状语从句，完整形式为 as those of AlphaGo's audacious shoulder hit were (slim)。those 代替前面的 the odds（视频说明），避免重复；of AlphaGo's audacious shoulder hit 修饰 those，指 AlphaGo 第37手那次肩冲。第8句和第13句给出的两个数字都是约万分之一。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whose 引导定语从句",
+    "explain": "whose 是关系代词 who 的所有格形式，在定语从句中作定语，修饰紧跟其后的名词，先行词可以是人，也可以是物。指物时 whose + 名词等于 the + 名词 + of which，如 a stone whose odds were slim 等于 a stone the odds of which were slim。本句先行词 a stone 是物，whose odds 即“这手棋的几率”。判断方法：先行词与 whose 后的名词之间是所属关系。考研长难句中 whose 从句常被插入语隔开，要先找准从句的主语和谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee rejected the proposal, whose costs had been badly underestimated.",
+      "zh": "委员会否决了这项提案，它的成本被严重低估了。"
+     },
+     {
+      "en": "Scientists are studying a plant whose leaves can survive extreme drought.",
+      "zh": "科学家们正在研究一种叶子能耐受极端干旱的植物。"
+     }
+    ]
+   },
+   {
+    "title": "as … as 同级比较与 those 替代",
+    "explain": "as + 形容词或副词原级 + as 表示“和……一样”，前一个 as 是副词，后一个 as 是连词，引导比较状语从句，从句中与主句相同的部分常省略。比较的对象必须是同类事物：本句比较的是这手棋的几率和 AlphaGo 那次肩冲的几率，不是比较棋子和肩冲，所以要用 those 代替复数名词 odds；代替单数名词则用 that，如 The climate here is milder than that of the north。写作中漏掉 that 或 those 是常见错误，如误写成 as slim as AlphaGo's shoulder hit。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The population of the new city is now as large as that of the old capital.",
+      "zh": "这座新城的人口现在和老首都一样多。"
+     },
+     {
+      "en": "Prices in the suburbs are almost as high as those in the city centre.",
+      "zh": "郊区的房价几乎和市中心一样高。"
+     }
+    ]
+   },
+   {
+    "title": "插入语 by + 名词 表示“根据”",
+    "explain": "by 可表示判断或计算的依据，“按照，根据”，如 by my watch（按我的表）、by most estimates（据大多数估计）、by any measure（无论用什么标准衡量）。本句 by DeepMind's figures 夹在从句主语和谓语之间，作插入语，说明数据来自 DeepMind。阅读时可以先略过插入语，找出 whose odds were as slim as… 这一主干，再补回插入语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By most estimates, the repairs will take at least two years.",
+      "zh": "据大多数人估计，修缮工作至少需要两年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "odds",
+    "explain": "复数名词，本义“可能性，几率”，也指赌博中的赔率；本句视频译为“胜率”，第8句的 odds 视频译为“概率”。常见搭配有 against all odds（尽管困难重重）、the odds are that…（很可能……）。"
+   },
+   {
+    "term": "slim",
+    "explain": "本义“苗条的，细长的”，形容机会、可能性时意为“微小的，渺茫的”，如 a slim chance、slim hopes。本句 as slim as 形容几率极低，视频译为“极低/渺茫/非常微小”。"
+   },
+   {
+    "term": "his one win",
+    "explain": "one 放在所有格后、名词前，相当于 only，表示“唯一的”，如 my one regret（我唯一的遗憾）。his one win 即第14句的 Lee's only win，视频译为“他唯一的一场胜局”。"
+   },
+   {
+    "term": "audacious shoulder hit",
+    "explain": "audacious 意为“大胆的，敢于冒险的”，这里指敢于打破常规；AlphaGo's audacious shoulder hit 指第4句所说的第37手肩冲，视频译为“那次大胆的肩冲”。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，他唯一的一场胜局，却源自一着棋。根据 DeepMind 的数据，这手棋的胜率，和 AlphaGo 那次大胆的肩冲一样极低/渺茫/非常微小。”的处理：①Yet 译为“然而”，并在谓语前增补“却”，加强转折。②在先行词 a stone 之后断句，主句单独成句，译为“他唯一的一场胜局，却源自一着棋”。③whose 定语从句拆成第二句，whose odds 译为“这手棋的胜率”，用“这手棋”回指先行词；插入语 by DeepMind's figures 提到句首，译为“根据 DeepMind 的数据”。④as slim as those of… 译为“和……一样极低”，those 所代替的 odds 不重复译出，直接说“和 AlphaGo 那次大胆的肩冲一样”。"
+ }
+]

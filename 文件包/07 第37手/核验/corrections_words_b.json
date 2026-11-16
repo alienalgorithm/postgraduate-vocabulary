@@ -1,0 +1,35 @@
+[
+ {
+  "key": "id=31",
+  "field": "example",
+  "before": {
+   "en": "The minister acknowledged that the policy had failed to reduce waiting times.",
+   "zh": "部长承认这项政策没能缩短候诊时间。"
+  },
+  "after": {
+   "en": "Even his critics acknowledge his skill as a negotiator.",
+   "zh": "就连批评他的人也承认他的谈判本领。"
+  },
+  "reason": "原例与第10句语法例句几乎相同；改为 acknowledge + 名词，示范本文“承认某人或某物的长处”这一用法"
+ },
+ {
+  "key": "id=40",
+  "field": "example",
+  "before": {
+   "en": "Regular exercise reduces the likelihood of developing heart disease.",
+   "zh": "经常锻炼能降低患心脏病的可能性。"
+  },
+  "after": {
+   "en": "Heavy rain increases the likelihood of flooding in low-lying areas.",
+   "zh": "大雨会增加低洼地区发生洪涝的可能性。"
+  },
+  "reason": "原例与第13句语法例句一字不差，换成新例句"
+ },
+ {
+  "key": "id=44",
+  "field": "etymology",
+  "before": "经古法语来自拉丁语 circuitus（绕行一圈），是 circumire（绕着走）的过去分词，由 circum（围绕）和 ire（走）构成。原指绕行、环行的路线，后来指巡回审判的路线、巡回赛，后来又指电流环绕流通的电路。",
+  "after": "经古法语来自拉丁语 circuitus（绕行一圈），是 circumire（绕着走）的过去分词，由 circum（围绕）和 ire（走）构成。原指绕行一圈、环行的路线，引申出法官定期巡回审判的路线、电流环绕流通的电路，以及体育中按固定路线依次举行的巡回赛。",
+  "reason": "原文把“电路”义说成晚于“巡回赛”义，与 Etymonline 记载的先后不符（电路义18世纪已有），改为不排先后的引申说明"
+ }
+]
