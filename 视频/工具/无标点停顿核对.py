@@ -30,7 +30,7 @@ if '--自检' in sys.argv:
     # 阳性对照（A4）：第 1 句第一段原样不报 >0.22 s；在中间响亮处插 0.25 秒静音，必须报出
     no=[x for x in sys.argv[1:] if x!='--自检'][0]; d=json.load(open(f'scripts/{no}.json')); s=d['sentences'][0]
     sent=' '.join(re.sub(r'\*\*','',R.strip_gloss(c['en'])).strip() for c in s['chunks'])
-    ms=list(re.finditer(r'[,;:](?=\s)',sent)); pieces=[];p0=0
+    ms=list(停顿标点(sent)); pieces=[];p0=0
     for mm in ms: pieces.append((p0,mm.end())); p0=mm.end()+1
     pieces.append((p0,len(sent)))
     clips,tm=sentence_audio(sent,pieces,[0.4]*len(ms)); c=clips[0]; e=_env5(c)
@@ -53,7 +53,7 @@ for no in sys.argv[1:]:
     d=json.load(open(f'scripts/{no}.json'))
     for si,s in enumerate(d['sentences'],1):
         sent=' '.join(re.sub(r'\*\*','',R.strip_gloss(c['en'])).strip() for c in s['chunks'])
-        ms=list(re.finditer(r'[,;:](?=\s)',sent)); pieces=[];p0=0
+        ms=list(停顿标点(sent)); pieces=[];p0=0
         for mm in ms: pieces.append((p0,mm.end())); p0=mm.end()+1
         pieces.append((p0,len(sent)))
         clips,tm=sentence_audio(sent,pieces,[0.4]*len(ms))

@@ -36,6 +36,7 @@ strip=lambda x:re.sub(r'[\*\s]','',x)
 import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import 破折号 as _PZ
 assert _PZ.英文一致(new_en,en_old), 'English text changed!'   # 唯一放宽：文章的破折号在脚本里换成了逗号/冒号/括号（T36，用户 2026-10-24），文章随之改成脚本的写法
 new_zh='\n\n'.join(''.join(v) for k,v in sorted(paras_zh.items()))
+if '\n\n（简述：' in zh_old: new_zh=re.sub(r'(?<!\n)（简述：','\n\n（简述：',new_zh,count=1)   # 文章里简述单独成段的（10，2026-11-15 起），同步后照旧单独成段（同步自检 S1 误报）
 # keyword table in order of appearance
 import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import 速查表 as SC
 SC_D=SC.词典(os.path.dirname(os.path.dirname(os.path.abspath(md))))

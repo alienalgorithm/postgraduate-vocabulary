@@ -15,7 +15,7 @@ if '--自检' in sys.argv:
     # 阳性对照：在一句的第一个逗号停顿之后插进 0.2 秒、-40 dB 的"吸气声"（1–2.5 kHz 带通噪声），必须报出；原样必须不报
     d=json.load(open(f'scripts/{sys.argv[1]}.json'))
     for s in d['sentences']:
-        sent=' '.join(re.sub(r'\*\*','',R.strip_gloss(c['en'])).strip() for c in s['chunks']); ms=list(re.finditer(r'[,;:](?=\s)',sent))
+        sent=' '.join(re.sub(r'\*\*','',R.strip_gloss(c['en'])).strip() for c in s['chunks']); ms=list(停顿标点(sent))
         if not ms: continue
         pieces=[];p0=0
         for mm in ms: pieces.append((p0,mm.end())); p0=mm.end()+1
@@ -31,7 +31,7 @@ for no in sys.argv[1:]:
     d=json.load(open(f'scripts/{no}.json'))
     for si,s in enumerate(d['sentences'],1):
         sent=' '.join(re.sub(r'\*\*','',R.strip_gloss(c['en'])).strip() for c in s['chunks'])
-        ms=list(re.finditer(r'[,;:](?=\s)',sent))
+        ms=list(停顿标点(sent))
         if not ms: continue
         lst = list_commas(sent)   # 列举逗号与出片程序同一个函数（make_video.list_commas）
         pieces=[];p0=0;gaps=[]

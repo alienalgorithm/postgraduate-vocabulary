@@ -48,7 +48,7 @@ for si, s in enumerate(d['sentences']):
     texts = [re.sub(r'\*\*', '', R.strip_gloss(c['en'])).strip() for c in ch]; sent = ' '.join(texts)
     lst = list_commas(sent)   # 列举逗号与出片程序同一个函数（make_video.list_commas）
     pieces = []; p0 = 0; gaps = []
-    for mm in re.finditer(r'[,;:](?=\s)', sent): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
+    for mm in 停顿标点(sent): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
     pieces.append((p0, len(sent)))
     _W0.clear(); clips, tmap = sentence_audio(sent, pieces, gaps); a = np.concatenate(clips)
     clips, a, _, _ = 句增益(d, no, si, sent, pieces, gaps, clips, tmap, a)   # 与出片程序同一个函数：源头调平、分段增益dB、句子增益dB

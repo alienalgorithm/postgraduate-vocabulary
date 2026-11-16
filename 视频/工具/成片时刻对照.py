@@ -23,7 +23,7 @@ for t in ts:
     s = d['sentences'][sk - 1]; sent = ' '.join(re.sub(r'\*\*', '', R.strip_gloss(c['en'])).strip() for c in s['chunks'])
     lst = list_commas(sent)   # 列举逗号与出片程序同一个函数（make_video.list_commas）
     pieces = []; p0 = 0; gaps = []
-    for mm in re.finditer(r'[,;:](?=\s)', sent): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
+    for mm in 停顿标点(sent): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
     pieces.append((p0, len(sent)))
     clips, _ = sentence_audio(sent, pieces, gaps); tout = (i - segs_a[sk][0]) / SR
     wsec = None
