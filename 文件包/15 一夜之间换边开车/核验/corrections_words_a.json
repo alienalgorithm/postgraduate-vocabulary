@@ -1,0 +1,44 @@
+[
+  {
+    "key": 8,
+    "field": "context_usage",
+    "before": "说明这些民众反对这个计划",
+    "after": "说明这个计划在这些民众中不得人心",
+    "reason": "unpopular 意为“不受欢迎，不得人心”，原文没有说民众“反对”，与视频译文保持一致。"
+  },
+  {
+    "key": 13,
+    "field": "context_usage",
+    "before": "芬兰在瑞典东北面，两国在北部接壤",
+    "after": "芬兰在瑞典东面，两国在北部接壤",
+    "reason": "地理事实：芬兰整体位于瑞典东面。"
+  },
+  {
+    "key": 14,
+    "field": "ipa_uk",
+    "before": "/ˈbɔːdə krɒsɪŋ/",
+    "after": "/ˈbɔːdə ˌkrɒsɪŋ/",
+    "reason": "Cambridge 标 border crossing 为 /ˈbɔː.də ˌkrɒs.ɪŋ/，多音节的 crossing 应标次重音，与范本 sensory input 的体例一致。"
+  },
+  {
+    "key": 14,
+    "field": "ipa_us",
+    "before": "/ˈbɔːrdər krɔːsɪŋ/",
+    "after": "/ˈbɔːrdər ˌkrɔːsɪŋ/",
+    "reason": "同上，美音 crossing 补标次重音。"
+  },
+  {
+    "key": 24,
+    "field": "usage_detail",
+    "before": "形容词只作前置定语，不作表语",
+    "after": "形容词通常只作前置定语，一般不作表语",
+    "reason": "Oxford 标注 mammoth 形容词为 usually before noun，不是绝对规则。"
+  },
+  {
+    "key": 30,
+    "field": "usage_detail",
+    "before": "动词 jingle 可及物也可不及物，如 Coins jingled in his pocket。圣诞歌曲 Jingle Bells 中的 jingle 是动词，意为“叮当响”。",
+    "after": "动词 jingle 可及物也可不及物，如 Coins jingled in his pocket。",
+    "reason": "Jingle Bells 中 jingle 的词性和意思说法不一，无法用权威词典证实，删去。"
+  }
+]

@@ -1,0 +1,1565 @@
+[
+  {
+    "n": 1,
+    "trunk": {
+      "subject": "about 83 per cent of voters",
+      "predicate": "chose",
+      "object_or_complement": "to keep driving on the left",
+      "explain": "主干是 about 83 per cent of voters chose to keep driving on the left，主谓宾结构，动词不定式短语 to keep driving on the left 作 chose 的宾语。谓语 chose 是 choose 的过去式，一般过去时，主动语态，叙述1955年公投的结果。"
+    },
+    "components": [
+      {
+        "text": "In a 1955 referendum,",
+        "zh": "在1955年的一次全民公投中",
+        "role": "状语（介词短语，交代投票的场合和时间；年份 1955 作 referendum 的前置定语）"
+      },
+      {
+        "text": "about 83 per cent",
+        "zh": "约83%的",
+        "role": "主语（about 是副词，修饰数词，表示约数）"
+      },
+      {
+        "text": "of voters",
+        "zh": "投票者",
+        "role": "后置定语（介词短语），修饰 83 per cent，说明是哪些人中的百分比"
+      },
+      {
+        "text": "chose",
+        "zh": "选择",
+        "role": "谓语"
+      },
+      {
+        "text": "to keep driving on the left,",
+        "zh": "继续靠左行驶",
+        "role": "宾语（动词不定式短语；keep driving 意为“继续行驶”，on the left 作状语，表示靠左侧）"
+      },
+      {
+        "text": "an overwhelmingly clear rejection",
+        "zh": "这是一次……压倒性地明确的拒绝",
+        "role": "同位语（名词短语），概括前面整个分句的投票结果；overwhelmingly 修饰 clear，clear 修饰 rejection"
+      },
+      {
+        "text": "of change.",
+        "zh": "对改变的",
+        "role": "后置定语（介词短语），修饰 rejection；change 是 rejection 的逻辑宾语"
+      }
+    ],
+    "structure": "①主句是 about 83 per cent of voters chose to keep driving on the left：主语是 about 83 per cent of voters，谓语 chose，宾语是不定式短语 to keep driving on the left。choose 后接不定式作宾语，表示“选择做某事”；不定式内部的 keep driving 是“keep + 动名词”结构，表示继续保持某种状态，即继续靠左行驶（视频说明“keep doing：继续做某事”）。\n②句首 In a 1955 referendum 是介词短语作状语，交代投票的场合。年份 1955 直接放在名词 referendum 前作定语，相当于 a referendum held in 1955，是新闻语体常见的简洁写法。\n③主语中 about 是副词，修饰数词 83，表示约数；of voters 作后置定语，说明这个百分比是就投票者而言的。\n④逗号后的 an overwhelmingly clear rejection of change 是名词短语作同位语，它不解释前面某一个名词，而是概括前面整个分句的内容（视频说明“同位语，概括前面的投票结果”）：约83%的人选择继续靠左，这本身就是对改变的明确拒绝。短语内部 overwhelmingly 修饰形容词 clear，说明“明确”的程度；of change 作 rejection 的后置定语，change 是 reject 这一动作的逻辑宾语，rejection of change 相当于 voters rejected change。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "名词短语作同位语，概括前面整个分句",
+        "explain": "同位语通常紧跟在某个名词后面，解释这个名词。还有一种用法是在句末用逗号引出一个名词短语，对前面整个分句的内容加以概括或评价，常见形式是 a/an + 形容词 + 名词，如 a decision、a move、a sign、a rejection。本句 an overwhelmingly clear rejection of change 概括的是“约83%的投票者选择继续靠左”这件事，不是解释 the left 或 voters。这种结构可以看作省略了 which was，翻译时常增补“这是”“这一”等词另起分句。考研阅读中，这类句末同位语往往带有作者的评价，是判断作者态度的线索。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The company cut its prices by half, a move that surprised many analysts.",
+            "zh": "该公司把价格降低了一半，这一举措令许多分析人士感到意外。"
+          },
+          {
+            "en": "Unemployment fell for the sixth month in a row, a clear sign that the economy is recovering.",
+            "zh": "失业率连续第六个月下降，这是经济正在复苏的明显迹象。"
+          }
+        ]
+      },
+      {
+        "title": "choose to do 与 keep doing",
+        "explain": "动词后面接不定式还是动名词，由动词本身决定。choose、decide、agree、refuse、hope、plan 等表示意愿、决定的动词后接不定式，如 chose to stay；keep、enjoy、finish、avoid、mind、consider 等后接动名词，如 keep driving。本句两类结构嵌套：choose 的宾语是不定式 to keep driving on the left，不定式内部 keep 又接动名词 driving。keep doing 表示“继续做，一直做”，对应视频译文“继续靠左行驶”。考研完形和写作常考这类搭配，keep to do 是错误写法。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Many residents chose to keep living in the old town despite the noise.",
+            "zh": "尽管噪音很大，许多居民还是选择继续住在老城区。"
+          },
+          {
+            "en": "The researchers kept collecting data even after the funding had run out.",
+            "zh": "即使经费已经用完，研究人员仍继续收集数据。"
+          }
+        ]
+      },
+      {
+        "title": "副词修饰形容词：overwhelmingly clear",
+        "explain": "副词可以放在形容词前，说明形容词的程度，如 remarkably similar、highly unlikely、overwhelmingly positive。本句 overwhelmingly 修饰 clear，二者一起修饰 rejection，说明这次拒绝“明确”到了压倒性的程度，与约83%这一比例相呼应。写作中“副词 + 形容词 + 名词”结构能把程度表达得更精确，但要注意副词和形容词的语义搭配，overwhelmingly 常与 clear、positive、popular 等连用。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The response from readers was overwhelmingly positive.",
+            "zh": "读者的反响绝大多数是正面的。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "referendum",
+        "explain": "全民公投，指就某一具体问题由全体选民直接投票表决，常见搭配 hold a referendum on sth（就某事举行公投）。本句 a 1955 referendum 用年份作前置定语，视频译为“1955年的一次全民公投”。"
+      },
+      {
+        "term": "per cent",
+        "explain": "英式英语多写作两个词 per cent，美式英语多写作一个词 percent，符号为 %。百分数加 of 加名词作主语时，谓语的单复数与 of 后的名词一致，本文第6句 About 90 per cent of cars were 就是如此。"
+      },
+      {
+        "term": "drive on the left",
+        "explain": "靠左行驶。表示通行方向时，英语说 drive on the left/right，或 keep left/right（本文第8句用的是 keep right），也可以用名词说 left-hand traffic、right-hand traffic（本文第2句）。"
+      },
+      {
+        "term": "rejection of change",
+        "explain": "rejection 是 reject 的名词形式，of 引出被拒绝的对象。“动词名词化 + of + 宾语”是英语书面语的常见写法，如 the rejection of a proposal（否决一项提议）。"
+      }
+    ],
+    "translation_tip": "视频译文“在1955年的一次全民公投中，约83%的投票者选择继续靠左行驶，这是一次对改变的压倒性地明确的拒绝。”的处理：①In a 1955 referendum 中作定语的年份译成“1955年的”，不定冠词 a 译成“一次”，介词 in 译成“在……中”。②主语中的后置定语 of voters 前移，译成“约83%的投票者”。③句末同位语不修饰某个名词，而是概括前句，译文增补“这是”另起分句，变成一个判断句；of change 前置为“对改变的”，副词 overwhelmingly 和形容词 clear 依次译为“压倒性地明确的”，保留原文层层修饰的结构。"
+  },
+  {
+    "n": 2,
+    "trunk": {
+      "subject": "legislators",
+      "predicate": "overruled",
+      "object_or_complement": "the electorate",
+      "explain": "主干是 legislators overruled the electorate，主谓宾结构；in parliament 是主语的后置定语。谓语 overruled 是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "On 10 May 1963,",
+        "zh": "1963年5月10日",
+        "role": "时间状语（介词短语，具体日期前用 on）"
+      },
+      {
+        "text": "however,",
+        "zh": "然而",
+        "role": "插入语（连接副词，表示与上句的转折）"
+      },
+      {
+        "text": "legislators",
+        "zh": "立法者",
+        "role": "主语"
+      },
+      {
+        "text": "in parliament",
+        "zh": "议会中的",
+        "role": "后置定语（介词短语），修饰 legislators"
+      },
+      {
+        "text": "overruled",
+        "zh": "推翻了",
+        "role": "谓语"
+      },
+      {
+        "text": "the electorate,",
+        "zh": "全体选民的意见",
+        "role": "宾语"
+      },
+      {
+        "text": "approving",
+        "zh": "批准",
+        "role": "状语（现在分词短语的核心，补充说明结果），逻辑主语是 legislators"
+      },
+      {
+        "text": "right-hand traffic",
+        "zh": "改为靠右行驶",
+        "role": "宾语（approving 的宾语）"
+      },
+      {
+        "text": "from 1967",
+        "zh": "从1967年起",
+        "role": "时间状语（介词短语），说明实施的起始时间"
+      },
+      {
+        "text": "in defiance of",
+        "zh": "他们全然不顾",
+        "role": "状语（介词短语 in defiance of，意为“不顾，无视”）"
+      },
+      {
+        "text": "a populace",
+        "zh": "这里的民众",
+        "role": "宾语（in defiance of 的宾语）"
+      },
+      {
+        "text": "among whom the plan was unpopular.",
+        "zh": "在民众中这个计划不得人心",
+        "role": "限制性定语从句（介词 among + 关系代词 whom 引导），修饰 a populace"
+      }
+    ],
+    "structure": "①主句是 legislators overruled the electorate：主语 legislators，in parliament 是介词短语作后置定语（视频说明），说明是议会中的立法者；谓语 overruled，宾语 the electorate。句首 On 10 May 1963 是时间状语，however 是插入语，表示与上句公投结果形成转折：选民拒绝改变，议会却推翻了选民的意见。\n②approving right-hand traffic from 1967 是现在分词短语作状语（视频说明“补充说明结果”），逻辑主语是主句主语 legislators，交代推翻选民意见后作出的具体决定。approving 的宾语是 right-hand traffic，from 1967 说明从哪一年开始实施。\n③in defiance of a populace 是介词短语作状语，说明立法者是在不顾民众意愿的情况下作出批准的；in defiance of 是固定短语，意为“不顾，无视”，a populace 是它的宾语。\n④among whom the plan was unpopular 是“介词 + 关系代词”引导的定语从句，修饰 a populace（视频说明）。whom 指代 populace，作介词 among 的宾语，among whom 在从句中作状语，意为“在这些民众当中”；从句主语 the plan 指改为靠右行驶的计划，was 是系动词，unpopular 作表语。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "介词 + whom 引导定语从句",
+        "explain": "关系代词在定语从句中作介词宾语时，介词可以提到关系代词前，构成“介词 + whom/which”，指人用 whom，指物用 which，介词后不能用 who 或 that。本句 among whom the plan was unpopular 中，whom 指代先行词 a populace，among whom 相当于 among the populace，在从句中作状语。介词的选择取决于从句的意思：表示“在一群人当中”用 among。这种结构语体正式，考研长难句中常见，也常出现在 some of whom、most of which 等“数量词 + of + 关系代词”结构中。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The survey covered 2,000 teenagers, among whom smartphone use was almost universal.",
+            "zh": "这项调查覆盖了2,000名青少年，在他们当中，几乎人人都用智能手机。"
+          },
+          {
+            "en": "She thanked the colleagues with whom she had worked for over twenty years.",
+            "zh": "她感谢了与她共事二十多年的同事们。"
+          }
+        ]
+      },
+      {
+        "title": "现在分词短语作状语，补充说明结果",
+        "explain": "现在分词短语放在主句后、用逗号隔开时，常表示伴随动作或主句动作带来的结果，其逻辑主语一般就是主句主语。本句 approving right-hand traffic from 1967 的逻辑主语是 legislators，说明立法者推翻选民意见的具体做法和结果。这类分词短语意思上相当于一个并列谓语（and approved right-hand traffic from 1967），但形式上不是谓语，找主干时要把它排除。易错点：分词的逻辑主语必须与主句主语一致，否则就是悬垂分词错误。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The river burst its banks, flooding hundreds of homes.",
+            "zh": "河水决堤，淹没了数百户人家。"
+          },
+          {
+            "en": "The government raised fuel taxes, making public transport more attractive.",
+            "zh": "政府提高了燃油税，使公共交通更具吸引力。"
+          }
+        ]
+      },
+      {
+        "title": "however 作插入语",
+        "explain": "however 作连接副词表示转折时，可以放在句首、句中或句末，放在句中时前后都用逗号隔开，如本句 On 10 May 1963, however, legislators...。放在句中能把句首的时间状语和转折一起突出：这一天的决定与上句的公投结果相反。however 是副词，不能像 but 那样直接连接两个分句，写成 It rained, however we went out 是逗号粘连错误，应改用分号或句号，或改用 but。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The plan looked simple on paper. In practice, however, it proved extremely costly.",
+            "zh": "这个计划纸面上看很简单，但实际执行起来却代价极高。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "overrule",
+        "explain": "推翻，否决，指凭借更高的权力推翻别人的决定或意见，常见搭配 overrule a decision、overrule an objection。本句主语是议会立法者，宾语是全体选民，视频译为“推翻了全体选民的意见”。"
+      },
+      {
+        "term": "the electorate 与 a populace",
+        "explain": "electorate 指有投票权的全体选民，是集合名词，常与 the 连用；populace 指一个地区的普通民众，语气正式。本句前面用 the electorate 指参加公投的选民，后面用 a populace 指普通百姓，视频分别译为“全体选民”和“民众”。"
+      },
+      {
+        "term": "in defiance of",
+        "explain": "不顾，无视，违抗，后接法律、命令、意见或人，如 in defiance of the law、in defiance of orders。名词 defiance 意为“公然反抗”，动词为 defy。"
+      },
+      {
+        "term": "right-hand traffic",
+        "explain": "靠右行驶的交通规则，与 left-hand traffic（靠左行驶）相对；right-hand 是复合形容词，作前置定语。"
+      },
+      {
+        "term": "On 10 May 1963",
+        "explain": "英式英语日期常按“日、月、年”书写，如 10 May 1963；美式英语多写作 May 10, 1963。具体某一天前用介词 on。"
+      },
+      {
+        "term": "parliament",
+        "explain": "议会。瑞典的议会称为 Riksdag，英语文章中常用通名 parliament 指称。in parliament 不带冠词，泛指议会这一机构。"
+      }
+    ],
+    "translation_tip": "视频译文“然而1963年5月10日，议会中的立法者推翻了全体选民的意见，批准从1967年起改为靠右行驶。他们全然不顾这里的民众，在民众中这个计划不得人心。”的处理：①插入语 however 提到句首，译为“然而”，符合汉语转折词居首的习惯；日期按汉语“年、月、日”的顺序译出。②宾语 the electorate 增补“的意见”，因为被推翻的是选民通过公投表达的意见，而不是选民本人。③现在分词短语 approving… 译成接续的动词短语“批准……”，from 1967 前置为“从1967年起”，并增补“改为”点明变化。④原句后半部分较长，视频在 in defiance of 处断句另起一句，增补主语“他们”指立法者，“全然”加强了不顾民意的语气；定语从句 among whom… 不前置，而是放在后面单独译成“在民众中这个计划不得人心”，用“民众”重复先行词，避免定语过长。"
+  },
+  {
+    "n": 3,
+    "trunk": {
+      "subject": "The case",
+      "predicate": "rested on",
+      "object_or_complement": "conformity",
+      "explain": "主干是 The case rested on conformity，主谓宾结构；rest on 是“不及物动词 + 介词”构成的短语动词，conformity 是其宾语。谓语为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "The case",
+        "zh": "理由",
+        "role": "主语（case 在此意为“理由，论据”）"
+      },
+      {
+        "text": "rested on",
+        "zh": "在于与邻国保持",
+        "role": "谓语（短语动词 rest on，意为“基于，取决于”）"
+      },
+      {
+        "text": "conformity.",
+        "zh": "一致",
+        "role": "宾语（rest on 的宾语）"
+      }
+    ],
+    "structure": "①本句是简单句，主语 The case，谓语 rested on，宾语 conformity。case 在这里不是“案例，情况”，而是“理由，论据”，指主张改为靠右行驶的理由；定冠词 The 表示特指，即上段所说议会批准改制的理由。\n②rest on 意为“基于，取决于”（视频说明）。conformity 是抽象名词，意为“一致”，句中没有说明与谁一致，结合下文挪威和芬兰都靠右行驶，可知是与邻国保持一致，视频说明也指出“因为邻国都靠右，瑞典也得靠右”。\n③本句是第2段的主题句，用一个短句提出论点，下文第4句到第6句从邻国交通和行车安全两方面展开。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "不及物动词 + 介词构成的短语动词",
+        "explain": "rest 作“依靠，基于”讲时是不及物动词，要借助介词 on/upon 才能接宾语，rest on 整体相当于一个及物动词。类似的有 depend on、rely on、consist of、account for。这类短语动词的介词不能省略，写成 rested conformity 就是错误。在定语从句中，介词可以提到关系代词前，如 the principle on which the decision rested。rest on 的主语多是论点、决定、成功等抽象事物，宾语是它的依据。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The prosecution's case rested on the testimony of a single witness.",
+            "zh": "控方的论据完全基于一名证人的证词。"
+          }
+        ]
+      },
+      {
+        "title": "短句作段落主题句",
+        "explain": "外刊文章常在段首用一个很短的句子提出论点，随后用几句话举出具体理由或证据。本句只有五个词，却概括了第2段的中心：改为靠右的理由是与邻国保持一致；第4句讲邻国挪威和芬兰靠右行驶，第5句和第6句再从安全角度补充。考研阅读做段落主旨题时，要抓住段首这类概括句，后面的数字和细节都是为它服务的。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The argument for the merger was simple. Both companies were losing money, and together they could cut costs, share technology, and compete with larger rivals.",
+            "zh": "支持合并的理由很简单。两家公司都在亏损，合并后可以削减成本、共享技术，并与规模更大的对手竞争。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "case",
+        "explain": "熟词僻义：case 常见义是“情况，案例，案件”，在 the case for/against sth、make a case for sth 中意为“（支持或反对某事的）理由，论据”。本句 The case 指改为靠右行驶的理由，视频译为“理由”。考研阅读中 make a strong case for sth（有力地论证某事）很常见。"
+      },
+      {
+        "term": "rest on",
+        "explain": "基于，取决于，也可说 rest upon，如 Success rests on careful planning（成功取决于周密的计划）。"
+      },
+      {
+        "term": "conformity",
+        "explain": "一致，遵从，常见搭配 in conformity with（与……一致，遵照），如 in conformity with the regulations。本句指瑞典的通行方向与邻国一致，视频译为“一致”。"
+      }
+    ],
+    "translation_tip": "视频译文“理由在于与邻国保持一致。”的处理：①rested on 没有直译为“基于”，而是译成“在于”，构成汉语常见的“理由在于……”句式。②conformity 原句没有说明与谁一致，视频根据下文增补“与邻国保持”，使意思完整，与视频说明“因为邻国都靠右，瑞典也得靠右”一致。"
+  },
+  {
+    "n": 4,
+    "trunk": {
+      "subject": "Norway and Finland；a left-hand orientation",
+      "predicate": "drove；meant",
+      "object_or_complement": "（drove 为不及物动词，无宾语）；isolation and inconvenient journeys（meant 的宾语）",
+      "explain": "本句是 so 连接的并列复合句：前一分句 Norway and Finland drove on the right 为主谓结构，drive 是不及物动词，on the right 作状语；后一分句 a left-hand orientation meant isolation and inconvenient journeys 为主谓宾结构。两个谓语都是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Norway and Finland",
+        "zh": "挪威和芬兰都",
+        "role": "主语（两个国名并列）"
+      },
+      {
+        "text": "drove",
+        "zh": "行驶",
+        "role": "谓语"
+      },
+      {
+        "text": "on the right,",
+        "zh": "靠右",
+        "role": "状语（介词短语，表示靠道路右侧）"
+      },
+      {
+        "text": "with about five million border crossings a year,",
+        "zh": "每年约有500万车次过境",
+        "role": "状语（with 独立结构，with + 名词短语，补充说明情况）"
+      },
+      {
+        "text": "so",
+        "zh": "因此",
+        "role": "并列连词，表示结果"
+      },
+      {
+        "text": "a left-hand orientation",
+        "zh": "靠左的方向",
+        "role": "主语（后一分句；left-hand 是复合形容词作定语）"
+      },
+      {
+        "text": "meant",
+        "zh": "意味着",
+        "role": "谓语"
+      },
+      {
+        "text": "isolation and inconvenient journeys.",
+        "zh": "孤立和不便的出行",
+        "role": "宾语（两个名词并列）"
+      }
+    ],
+    "structure": "①本句由并列连词 so 连接两个分句，前因后果。前一分句主语 Norway and Finland，谓语 drove，on the right 作状语，说明挪威和芬兰靠右行驶。\n②with about five million border crossings a year 是 with 独立结构（视频说明“with＋名词：独立结构，补充说明情况”），补充说明两国与瑞典之间往来频繁。about 修饰数词 five million，表示约数；a year 意为“每年”，不定冠词 a 相当于 per。\n③后一分句主语 a left-hand orientation，left-hand 是复合形容词作定语，orientation 指方向；谓语 meant 意为“意味着”，宾语是两个并列名词 isolation 和 inconvenient journeys，前者指在通行规则上与邻国格格不入，后者指过境时出行不便。\n④两个分句的逻辑是：邻国靠右且过境车流量大，瑞典如果坚持靠左，就会陷入孤立、出行不便，这正是第3句“与邻国保持一致”的具体理由。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "with 独立结构补充说明情况",
+        "explain": "with 后接名词或名词短语，有时再带一个补足成分（形容词、分词、介词短语等），构成 with 独立结构，在句中作状语，补充说明原因、伴随情况或背景。本句 with about five million border crossings a year 只有“with + 名词短语”，交代挪威、芬兰与瑞典之间过境频繁，为后文“孤立和不便”提供依据。本文第11句 with essential traffic exempt、第12句 with its direction flipped 是“with + 名词 + 补足成分”的形式。翻译时常把它译成一个独立分句，如本句译为“每年约有500万车次过境”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The town relies heavily on tourism, with over two million visitors a year.",
+            "zh": "这座小镇高度依赖旅游业，每年游客超过200万人次。"
+          },
+          {
+            "en": "With prices rising so quickly, many families have cut back on travel.",
+            "zh": "物价上涨得这么快，许多家庭都减少了出行。"
+          }
+        ]
+      },
+      {
+        "title": "不定冠词 a 表示“每”",
+        "explain": "a/an 放在表示时间、数量、重量等单位的名词前，相当于 per，意为“每”，如 twice a week（每周两次）、50 kilometres an hour（每小时50公里）。本句 five million border crossings a year 即“每年500万车次过境”。描述频率和比率时，这种用法比 per 更自然、更常见。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The factory produces about 3,000 cars a month.",
+            "zh": "这家工厂每月生产约3,000辆汽车。"
+          }
+        ]
+      },
+      {
+        "title": "mean doing 与 mean to do",
+        "explain": "mean 作“意味着，会导致”讲时，后接名词或动名词，如本句 meant isolation and inconvenient journeys；作“打算，有意”讲时，后接不定式，如 I meant to call you。本句主语是抽象名词 a left-hand orientation，meant 后接名词，表示靠左会带来的后果。考研完形中 mean doing 与 mean to do 是常考辨析点。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Taking the job would mean moving to another city.",
+            "zh": "接受这份工作就意味着要搬到另一座城市。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "drive on the right",
+        "explain": "靠右行驶，与第1句的 drive on the left 相对。the right 指道路右侧，前面要用定冠词。"
+      },
+      {
+        "term": "border crossing",
+        "explain": "过境，指越过国境的一次通行，可数名词，复数可以用来计算过境的人次或车次；也可指边境口岸。视频结合数量把 five million border crossings 译为“500万车次过境”。"
+      },
+      {
+        "term": "orientation",
+        "explain": "方向，方位，本句 a left-hand orientation 指道路通行方向靠左。orientation 还常指“取向，倾向”，如 political orientation（政治倾向），以及新生、新员工的“入门培训”。"
+      },
+      {
+        "term": "Norway and Finland",
+        "explain": "挪威在瑞典西面，芬兰在瑞典东面（两国在北部接壤），两国都与瑞典有陆地边界，所以过境往来频繁。"
+      }
+    ],
+    "translation_tip": "视频译文“挪威和芬兰都靠右行驶，每年约有500万车次过境，因此靠左的方向意味着孤立和不便的出行。”的处理：①增补“都”，强调两个邻国一致靠右。②with 独立结构译成独立分句“每年约有500万车次过境”，a year 前移为“每年”，five million 换算成“500万”，并根据交通语境增补量词“车次”。③so 译为“因此”，复合形容词 left-hand 译为“靠左的”；并列宾语中 inconvenient 作定语，译为“不便的出行”。"
+  },
+  {
+    "n": 5,
+    "trunk": {
+      "subject": "Safety",
+      "predicate": "favoured",
+      "object_or_complement": "alignment",
+      "explain": "主干是 Safety favoured alignment，主谓宾结构，too 作状语。谓语 favoured 是一般过去时，主动语态；favour 是英式拼写，美式拼写为 favor。"
+    },
+    "components": [
+      {
+        "text": "Safety",
+        "zh": "安全方面",
+        "role": "主语（抽象名词）"
+      },
+      {
+        "text": "favoured",
+        "zh": "支持",
+        "role": "谓语"
+      },
+      {
+        "text": "alignment",
+        "zh": "统一/一致",
+        "role": "宾语"
+      },
+      {
+        "text": "too.",
+        "zh": "也",
+        "role": "状语（副词，表示“也”）"
+      }
+    ],
+    "structure": "①本句是简单句，主语 Safety，谓语 favoured，宾语 alignment，句末副词 too 作状语，意为“也”。\n②too 呼应上一句：邻国交通往来是支持改制的一个理由，安全是另一个理由，二者都指向与邻国统一。\n③主语 Safety 是抽象名词，本身不会“支持”什么，这里用无生命名词作主语，意思是“从安全角度看，统一更有利”。favour 在这里指情况、因素“有利于，支持”某种做法。\n④本句是承上启下的过渡句，具体原因在第6句展开。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "too、also 与 either 表示“也”",
+        "explain": "too 和 also 都用于肯定句，too 通常放在句末，前面可加逗号也可不加；also 一般放在实义动词前、be 动词或助动词后。否定句中表示“也不”要用 either，放在句末，如 It wasn't safe either。本句 Safety favoured alignment too 是肯定句，too 放在句末，表示安全与上句的邻国因素一样支持统一。写作中 too 一般不放在句首。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The new bridge will shorten journeys, and it will reduce congestion in the city centre too.",
+            "zh": "新桥将缩短出行时间，也会缓解市中心的交通拥堵。"
+          }
+        ]
+      },
+      {
+        "title": "无生命名词作主语",
+        "explain": "英语常用抽象名词或无生命名词作主语，后接 favour、suggest、show、require、see 等动词，表达“从……看”“……表明”等意思，如 The evidence suggests that...、The past decade has seen...。汉语习惯以人或具体事物作主语，翻译时常增补“方面”“从……看”等词，或把主语转译成状语。本句 Safety favoured alignment 视频译为“安全方面也支持统一/一致”，增补了“方面”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Recent figures suggest that the housing market is cooling.",
+            "zh": "最新数据显示，房地产市场正在降温。"
+          },
+          {
+            "en": "The 1990s saw a rapid expansion of the internet.",
+            "zh": "20世纪90年代，互联网迅速扩张。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "favour",
+        "explain": "熟词僻义：favour 常见义是“偏爱，赞成”，本句指情况、因素“有利于，支持（某种做法）”，主语是 Safety，视频译为“支持”。英式拼写 favour，美式拼写 favor；常见短语 in favour of（支持，赞成）。"
+      },
+      {
+        "term": "alignment",
+        "explain": "一致，统一；本义是“排成直线，对齐”，引申为观点、政策等的一致。本句指瑞典的行驶方向与邻国统一，视频译为“统一/一致”，与第3句的 conformity 意思相近，是同义替换。"
+      }
+    ],
+    "translation_tip": "视频译文“安全方面也支持统一/一致。”的处理：①抽象名词主语 Safety 增补“方面”，译成“安全方面”，符合汉语表达。②句末的 too 前移到谓语前，译为“也”。③alignment 用“统一/一致”两个说法并列，既点明“统一方向”，又与第3句的“一致”呼应。"
+  },
+  {
+    "n": 6,
+    "trunk": {
+      "subject": "About 90 per cent of cars；motorists",
+      "predicate": "were；risked",
+      "object_or_complement": "left-hand drive（表语）；head-on collisions（宾语）",
+      "explain": "本句是 so 连接的并列复合句：前一分句 About 90 per cent of cars were left-hand drive 是主系表结构，后一分句 motorists risked head-on collisions 是主谓宾结构。两个分句都用一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "About 90 per cent",
+        "zh": "约90%的",
+        "role": "主语（About 修饰数词，表示约数）"
+      },
+      {
+        "text": "of cars",
+        "zh": "汽车",
+        "role": "后置定语（介词短语），修饰 90 per cent"
+      },
+      {
+        "text": "were",
+        "zh": "是",
+        "role": "系动词（复数形式，与 of 后的 cars 一致）"
+      },
+      {
+        "text": "left-hand drive,",
+        "zh": "左舵驾驶",
+        "role": "表语（名词短语）"
+      },
+      {
+        "text": "so",
+        "zh": "于是",
+        "role": "并列连词，表示结果"
+      },
+      {
+        "text": "motorists",
+        "zh": "驾车者",
+        "role": "主语（后一分句）"
+      },
+      {
+        "text": "overtaking on narrow two-lane highways",
+        "zh": "在狭窄的双车道公路上超车时",
+        "role": "后置定语（现在分词短语），修饰 motorists"
+      },
+      {
+        "text": "risked",
+        "zh": "有……的危险",
+        "role": "谓语"
+      },
+      {
+        "text": "head-on collisions.",
+        "zh": "发生迎头相撞",
+        "role": "宾语"
+      }
+    ],
+    "structure": "①本句由 so 连接两个分句。前一分句主语 About 90 per cent of cars，About 修饰数词，of cars 作后置定语；系动词 were 用复数，因为 of 后的 cars 是复数；表语 left-hand drive 是名词短语，意为“左舵”，即方向盘在车的左侧（视频说明）。\n②后一分句主语 motorists，overtaking on narrow two-lane highways 是现在分词短语作后置定语，修饰 motorists（视频说明），相当于 who overtook on narrow two-lane highways，限定是“在狭窄的双车道公路上超车的驾车者”。谓语 risked，宾语 head-on collisions，risk + 名词表示“有……的危险”（视频说明）。\n③分词短语内部，narrow 和 two-lane 共同修饰 highways，two-lane 是“数词 + 名词”构成的复合形容词。\n④两个分句的因果关系：瑞典靠左行驶，而绝大多数车是左舵车，驾驶员坐在靠路边的一侧，超车前不易看清对向来车，所以有迎头相撞的危险。这正是第5句“安全方面也支持统一”的理由。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "百分数 + of + 名词作主语的主谓一致",
+        "explain": "“百分数/分数 + of + 名词”作主语时，谓语的单复数由 of 后的名词决定：名词是复数，谓语用复数；名词是单数或不可数名词，谓语用单数。本句 About 90 per cent of cars 中 cars 是复数，所以系动词用 were；如果说 90 per cent of the land，谓语就要用 was。同类结构还有 most of、half of、the rest of、a third of 等。这是考研写作和改错的常见考点。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "About 60 per cent of the budget was spent on staff salaries.",
+            "zh": "约60%的预算用于支付员工工资。"
+          },
+          {
+            "en": "Two thirds of the respondents say they rarely read printed newspapers.",
+            "zh": "三分之二的受访者表示，他们很少阅读纸质报纸。"
+          }
+        ]
+      },
+      {
+        "title": "现在分词短语作后置定语",
+        "explain": "现在分词短语放在名词后面作定语，表示主动或正在进行的动作，相当于一个定语从句。本句 motorists overtaking on narrow two-lane highways 相当于 motorists who overtook on narrow two-lane highways，限定了面临危险的是哪些驾车者，并非所有驾车者。读长难句时，名词后的 -ing 形式如果不是谓语，就要考虑它是否在作后置定语；本句的谓语是 risked。视频译文把这一定语处理成“……超车时”，这是翻译上的变通，语法上它仍是后置定语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Passengers travelling with young children may board first.",
+            "zh": "带着幼儿出行的乘客可以优先登机。"
+          },
+          {
+            "en": "Students living far from campus often arrive late for early classes.",
+            "zh": "住得离校园远的学生上早课常常迟到。"
+          }
+        ]
+      },
+      {
+        "title": "risk + 名词/动名词",
+        "explain": "risk 作动词时，后接名词或动名词，意为“冒……的危险，有……的危险”，如 risk injury、risk losing one's job；不能接不定式，risk to lose 是错误写法。本句 risked head-on collisions 表示“有发生迎头相撞的危险”。名词 risk 常见 at risk（处于危险中）、at the risk of doing（冒着……的风险）。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Drivers who use their phones at the wheel risk losing their licence.",
+            "zh": "开车时使用手机的司机有被吊销驾照的危险。"
+          }
+        ]
+      },
+      {
+        "title": "复合形容词 two-lane",
+        "explain": "“数词 + 名词”用连字符连接作前置定语时，名词用单数，如 a two-lane highway、a five-day week、a ten-year-old boy。本句 two-lane 不能写成 two-lanes。考研写作中用这种结构能让表达更紧凑。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Workers in the trial switched to a four-day week without any loss of pay.",
+            "zh": "参加试点的员工改为每周工作四天，工资没有减少。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "left-hand drive",
+        "explain": "左舵，指方向盘在车的左侧，相对的是 right-hand drive（右舵）。本句 were left-hand drive 是名词短语作表语，视频译为“左舵驾驶”。"
+      },
+      {
+        "term": "overtake",
+        "explain": "英式英语中指“超车”，美式英语多用 pass。也可引申为“超过，赶上”，如在经济总量上超过另一个国家。"
+      },
+      {
+        "term": "head-on collision",
+        "explain": "迎头相撞，正面碰撞；head-on 也可作副词，如 The two cars collided head-on，引申为“直接面对（问题）”，如 tackle a problem head-on。"
+      },
+      {
+        "term": "highway",
+        "explain": "英式英语中 highway 泛指公路、干道，多用于正式或法律语境；美式英语中常指城际公路。本句 two-lane highways 指双车道的普通公路。"
+      }
+    ],
+    "translation_tip": "视频译文“约90%的汽车是左舵驾驶，于是驾车者在狭窄的双车道公路上超车时，有发生迎头相撞的危险。”的处理：①后置定语 of cars 前移，译成“约90%的汽车”；so 译为“于是”。②现在分词短语 overtaking on narrow two-lane highways 没有译成“……的驾车者”，而是放在主语后面译成“在狭窄的双车道公路上超车时”，以时间分句的形式出现，避免主语前的定语过长。③risked head-on collisions 译为“有发生迎头相撞的危险”，增补动词“发生”，把名词 collisions 转成动作。"
+  },
+  {
+    "n": 7,
+    "trunk": {
+      "subject": "A state body",
+      "predicate": "ran",
+      "object_or_complement": "the mammoth preparation",
+      "explain": "主干是 A state body ran the mammoth preparation，主谓宾结构。run 在此意为“操办，主管”，谓语 ran 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "A state body",
+        "zh": "一个国家机关",
+        "role": "主语（state 是名词作定语，修饰 body）"
+      },
+      {
+        "text": "ran",
+        "zh": "操办了",
+        "role": "谓语（run 意为“主管，操办”）"
+      },
+      {
+        "text": "the mammoth preparation",
+        "zh": "这项巨大的准备工作",
+        "role": "宾语（mammoth 作形容词，意为“巨大的”）"
+      },
+      {
+        "text": "under a logo,",
+        "zh": "用了这么一个图标/标识",
+        "role": "状语（介词短语，表示在某个标识下开展工作）"
+      },
+      {
+        "text": "a large H with an arrow.",
+        "zh": "一个带箭头的大写H",
+        "role": "同位语（名词短语），补充说明 a logo；with an arrow 作后置定语，修饰 H"
+      }
+    ],
+    "structure": "①主句是 A state body ran the mammoth preparation：主语 A state body，谓语 ran，宾语 the mammoth preparation。state 是名词作定语，表示“国家的，政府的”；body 在这里指机构、团体。run 是熟词僻义，意为“主管，操办”，不是“跑”。\n②mammoth 本义是“猛犸象”，这里作形容词，意为“巨大的，庞大的”，形容准备工作规模浩大；定冠词 the 表示特指，即为改行靠右所做的准备工作。\n③under a logo 是介词短语作状语，意为“在……标志下”（视频说明），即这些准备工作都打着同一个标识开展。\n④逗号后的 a large H with an arrow 是名词短语作同位语，补充说明 logo 的样子（视频说明）；with an arrow 是介词短语作后置定语，修饰 H。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "名词短语作同位语，补充说明前一名词",
+        "explain": "同位语紧跟在一个名词后面，用逗号隔开，说明这个名词具体是什么，二者指同一事物。本句 a large H with an arrow 与 a logo 指同一事物，说明这个标识的样子。与第1句句末概括整个分句的同位语不同，本句的同位语只解释 logo 一个名词。判断方法：把同位语放到被解释的名词的位置上，句子意思仍然成立，如 under a large H with an arrow。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The museum's most famous exhibit, a whale skeleton over 25 metres long, hangs from the ceiling of the main hall.",
+            "zh": "这家博物馆最有名的展品是一副长度超过25米的鲸鱼骨架，悬挂在主展厅的天花板上。"
+          }
+        ]
+      },
+      {
+        "title": "名词作前置定语：state body",
+        "explain": "名词可以直接放在另一个名词前作定语，说明类别、性质或所属，如 state body（国家机关）、state school（公立学校）、government policy（政府政策）。作定语的名词一般用单数。state 作定语时意为“国家的，政府的”，强调由国家或政府主办、管理。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Most children in the country attend state schools.",
+            "zh": "这个国家的大多数孩子上公立学校。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "run",
+        "explain": "熟词僻义：run 作及物动词可表示“经营，管理，主持”，如 run a business、run a campaign、run a hotel。本句 ran the mammoth preparation 指操办、主管准备工作，视频译为“操办了”。"
+      },
+      {
+        "term": "body",
+        "explain": "熟词僻义：body 除“身体”外，还可指“机构，团体”，如 a government body（政府机构）、a professional body（专业团体）、the governing body（管理机构）。本句 state body 视频译为“国家机关”。"
+      },
+      {
+        "term": "mammoth",
+        "explain": "名词义为“猛犸象”，一种已灭绝的大型长毛象；作形容词意为“巨大的，庞大的”，常见 a mammoth task（艰巨的任务）。"
+      },
+      {
+        "term": "a large H",
+        "explain": "字母 H 读 /eɪtʃ/，以元音开头，单独说一个 H 时用 an H；本句 H 前有 large，冠词跟随 large 的读音用 a。"
+      }
+    ],
+    "translation_tip": "视频译文“一个国家机关操办了这项巨大的准备工作用了这么一个图标/标识，一个带箭头的大写H。”的处理：①主谓宾按原语序译出，A 译为“一个”，the 译为“这项”，补出量词。②under a logo 没有前移成“在……标识下”，而是保持英文语序放在后面，译成“用了这么一个图标/标识”，“这么一个”起提示作用，引出后面的同位语。③同位语 a large H with an arrow 单独译为“一个带箭头的大写H”，后置定语 with an arrow 前移为“带箭头的”，large 译为“大写”，说明是大写字母H。"
+  },
+  {
+    "n": 8,
+    "trunk": {
+      "subject": "Its propaganda；the winning jingle",
+      "predicate": "included；reached",
+      "object_or_complement": "a song contest（included 的宾语）；fifth（reached 的宾语）",
+      "explain": "本句是 and 连接的并列复合句：前一分句 Its propaganda included a song contest 是主谓宾结构；后一分句 the winning jingle reached fifth 也是主谓宾结构，主语和谓语之间插入了一个非限制性定语从句。两个谓语都是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Its propaganda",
+        "zh": "它的宣传",
+        "role": "主语（Its 指上句的 A state body）"
+      },
+      {
+        "text": "included",
+        "zh": "包括",
+        "role": "谓语"
+      },
+      {
+        "text": "a song contest",
+        "zh": "一场……歌曲比赛",
+        "role": "宾语（song 是名词作定语，修饰 contest）"
+      },
+      {
+        "text": "on television,",
+        "zh": "电视",
+        "role": "后置定语（介词短语），修饰 a song contest"
+      },
+      {
+        "text": "and",
+        "zh": "（并列连词，连接两个分句，不单独译出）",
+        "role": "并列连词"
+      },
+      {
+        "text": "the winning jingle,",
+        "zh": "获胜的广告歌",
+        "role": "主语（后一分句；winning 是现在分词作前置定语）"
+      },
+      {
+        "text": "whose lyrics urged people to keep right,",
+        "zh": "它的歌词劝人们靠右行驶",
+        "role": "非限制性定语从句，修饰 jingle"
+      },
+      {
+        "text": "reached",
+        "zh": "登上了",
+        "role": "谓语"
+      },
+      {
+        "text": "fifth in the chart.",
+        "zh": "歌曲排行榜第五名",
+        "role": "宾语（序数词 fifth 作名词，表示第五名；in the chart 作其后置定语）"
+      }
+    ],
+    "structure": "①本句由 and 连接两个分句。前一分句主语 Its propaganda，Its 指上句的国家机关；谓语 included，宾语 a song contest，on television 作后置定语，说明是电视上举办的歌曲比赛。propaganda 在这里指政府的宣传活动，不含贬义（视频说明）。\n②后一分句主语 the winning jingle，谓语 reached，宾语 fifth。主语和谓语之间插入了 whose 引导的非限制性定语从句，读的时候要越过两个逗号，把 the winning jingle 和 reached 连起来。\n③whose 引导的非限制性定语从句修饰 jingle（视频说明）。whose 在从句中作定语，修饰 lyrics，whose lyrics 即 the jingle's lyrics；从句谓语 urged，宾语 people，to keep right 是不定式作宾语补足语，构成 urge sb to do sth。\n④reached fifth in the chart 中，fifth 是序数词作名词，表示名次；in the chart 说明是在排行榜上，即这首广告歌在歌曲排行榜上排到了第五名。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "whose 引导非限制性定语从句，插在主谓之间",
+        "explain": "whose 是关系代词的所有格，在从句中作定语，后面紧跟它修饰的名词，指人指物都可以。本句 whose lyrics 中 whose 指先行词 jingle，whose lyrics 相当于 the lyrics of the jingle。从句用逗号隔开，是非限制性定语从句，对 jingle 作补充说明。本句的难点在于定语从句插在主语和谓语之间：the winning jingle, whose lyrics urged people to keep right, reached fifth，从句里的 urged 不是主句谓语，主句谓语是 reached。考研长难句中遇到两个逗号夹着的从句，要先把它拿掉，再找主干。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The novelist, whose first book sold only a few hundred copies, has now been translated into thirty languages.",
+            "zh": "这位小说家的第一本书只卖出了几百本，如今他的作品已被译成三十种语言。"
+          },
+          {
+            "en": "The village, whose population has halved since 1990, is struggling to keep its school open.",
+            "zh": "这个村庄的人口自1990年以来减少了一半，正艰难地维持学校的运转。"
+          }
+        ]
+      },
+      {
+        "title": "urge sb to do sth：不定式作宾语补足语",
+        "explain": "urge、encourage、persuade、advise、allow、force 等动词后接“宾语 + 不定式”，不定式作宾语补足语，说明宾语要做的动作。本句 urged people to keep right 中，people 是宾语，to keep right 是宾语补足语，意为“劝人们靠右行驶”。urge 语气比 advise 强，表示“极力劝说，敦促”；其后也可接 that 从句，从句谓语用（should +）动词原形。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Health officials urged residents to stay indoors during the heatwave.",
+            "zh": "卫生官员敦促居民在热浪期间待在室内。"
+          },
+          {
+            "en": "The report urges that the government act quickly to reduce emissions.",
+            "zh": "报告敦促政府迅速采取行动减少排放。"
+          }
+        ]
+      },
+      {
+        "title": "序数词作名词表示名次",
+        "explain": "序数词可以单独作名词，表示名次或位置，常与 come、finish、reach、rank 等动词连用，如 came second in the race、finished third。这种用法中序数词前通常不加 the。本句 reached fifth in the chart 意为“登上排行榜第五名”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Our team finished third in the national competition.",
+            "zh": "我们队在全国比赛中获得第三名。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "propaganda",
+        "explain": "宣传，多指政府或组织为推行某种主张而进行的系统宣传，现代英语中常带贬义，暗含片面、误导。本句视频说明指出这里指政府的宣传活动，不含贬义，视频译为“宣传”。"
+      },
+      {
+        "term": "jingle",
+        "explain": "广告歌，指电台、电视广告中简短上口、便于记忆的歌曲；本义是叮当声。本句 the winning jingle 指在歌曲比赛中获胜的那首宣传歌曲，视频译为“广告歌”。"
+      },
+      {
+        "term": "keep right",
+        "explain": "靠右行驶，keep 后接 left/right 表示保持在左侧或右侧，常见于交通标志，如 Keep Left。"
+      },
+      {
+        "term": "the chart(s)",
+        "explain": "排行榜，多用复数 the charts，指流行音乐的销量或播放排行榜，如 top the charts（登上榜首）、enter the charts（上榜）。本句视频译为“歌曲排行榜”。"
+      }
+    ],
+    "translation_tip": "视频译文“它的宣传包括一场电视歌曲比赛，获胜的广告歌它的歌词劝人们靠右行驶，登上了歌曲排行榜第五名。”的处理：①on television 作后置定语，前移译成“电视歌曲比赛”；不定冠词 a 译成量词“一场”。②非限制性定语从句保留在原位置，whose 译成“它的”，紧接在“获胜的广告歌”后面，与英文语序一致。③fifth in the chart 按汉语习惯调整语序为“歌曲排行榜第五名”，chart 根据语境增补为“歌曲排行榜”。"
+  },
+  {
+    "n": 9,
+    "trunk": {
+      "subject": "Some 360,000 items of signage；a massive fleet",
+      "predicate": "were changed；was procured",
+      "object_or_complement": "",
+      "explain": "本句是 and 连接的并列复合句，两个分句都是被动语态的主谓结构：items were changed，fleet was procured。两个谓语都是一般过去时被动语态，强调动作的承受者，没有说出执行者。"
+    },
+    "components": [
+      {
+        "text": "Some 360,000 items",
+        "zh": "约36万件",
+        "role": "主语（some 用在数词前表示“大约”）"
+      },
+      {
+        "text": "of signage",
+        "zh": "标识",
+        "role": "后置定语（介词短语），修饰 items"
+      },
+      {
+        "text": "were changed,",
+        "zh": "被更换",
+        "role": "谓语（一般过去时，被动语态）"
+      },
+      {
+        "text": "and",
+        "zh": "并且",
+        "role": "并列连词"
+      },
+      {
+        "text": "a massive fleet",
+        "zh": "一支庞大的车队",
+        "role": "主语（后一分句）"
+      },
+      {
+        "text": "of over 1,000 new buses",
+        "zh": "由1,000多辆……新公交车组成",
+        "role": "后置定语（介词短语），说明 fleet 的构成"
+      },
+      {
+        "text": "with right-hand doors",
+        "zh": "右侧开门的",
+        "role": "后置定语（介词短语），修饰 buses"
+      },
+      {
+        "text": "was procured.",
+        "zh": "也已购置到位",
+        "role": "谓语（一般过去时，被动语态，单数形式与 fleet 一致）"
+      }
+    ],
+    "structure": "①本句由 and 连接两个被动语态的分句，都省略了动作执行者：句子关注的是更换和购置的规模，执行者不必说出；这些工作都属于第7句所说由国家机关操办的准备工作。\n②前一分句主语 Some 360,000 items of signage：some 放在数词前，意为“大约”（视频说明）；items of signage 是“单位名词 + of + 不可数名词”的结构，signage 不可数，计数时借助 items。谓语 were changed，复数形式与 items 一致。\n③后一分句主语 a massive fleet，of over 1,000 new buses 作后置定语，说明车队由什么组成（视频说明“a fleet of…：由……组成的车队”），over 意为“超过”；with right-hand doors 作后置定语，修饰 buses（视频说明）。谓语 was procured 用单数，因为主语的中心词是单数的 fleet，不是 buses。\n④公交车要右侧开门，是因为改为靠右行驶后，公交车停靠在道路右侧，乘客要从右侧上下车。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "“a + 集合名词 + of + 复数名词”作主语的主谓一致",
+        "explain": "fleet、series、collection 等表示“一批，一组”的名词后接 of + 复数名词作主语时，语法上的中心词是前面的单数名词，谓语一般与它保持一致，用单数，如本句 a massive fleet of over 1,000 new buses with right-hand doors was procured。中心词和谓语之间隔着一长串修饰语，紧挨着谓语的是复数的 doors 和 buses，容易误用复数。需要区分的是 a number of + 复数名词（许多……），它的中心意义在后面的名词上，谓语用复数；a group of 等后接复数名词时，英式英语中谓语也常用复数。考研写作和改错常考这一点。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "A series of articles on climate change was published last month.",
+            "zh": "上个月发表了一系列关于气候变化的文章。"
+          },
+          {
+            "en": "A collection of letters written by the poet has been donated to the library.",
+            "zh": "这位诗人写的一批书信已捐赠给图书馆。"
+          }
+        ]
+      },
+      {
+        "title": "被动语态省略动作执行者",
+        "explain": "被动语态用于强调动作的承受者，或执行者不言自明、无须说出的情况，此时省略 by 短语。本句 were changed、was procured 都没有说明由谁更换、由谁购置，因为上文已交代由国家机关负责准备工作。新闻和学术语体常用这种写法，使叙述客观简洁。翻译时可用“被”字句，如“被更换”，也可以不用“被”字，如“已购置到位”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Thousands of trees were planted along the new motorway.",
+            "zh": "新建的高速公路沿线种下了数千棵树。"
+          }
+        ]
+      },
+      {
+        "title": "some、over 修饰数词",
+        "explain": "some 放在数词前作副词，意为“大约”，相当于 about、approximately，语气较正式，如 some 360,000 items；over 放在数词前意为“超过”，相当于 more than，如 over 1,000 new buses。这时的 some 不是“一些”，over 也不是“在……上方”。视频译文分别译为“约36万”和“1,000多辆”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Some 40 per cent of the city's water is lost through leaking pipes.",
+            "zh": "这座城市约40%的水因管道渗漏而流失。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "signage",
+        "explain": "标识，标牌（总称），不可数名词，计数时说 items/pieces of signage，如 road signage（道路标识）。sign 是可数名词，指单个标志。"
+      },
+      {
+        "term": "fleet",
+        "explain": "原指船队、舰队，现在也指同一单位拥有或运营的一批车辆、飞机，如 a fleet of taxis、the company's fleet。视频说明“a fleet of…：由……组成的车队”。"
+      },
+      {
+        "term": "procure",
+        "explain": "正式用词，意为“（设法）获得，购置”，多用于政府、机构采购；名词 procurement（采购）在经济类文章中常见，如 public procurement（政府采购）。本句 was procured 视频译为“已购置到位”。"
+      },
+      {
+        "term": "360,000 与“36万”",
+        "explain": "英语以千为单位，每三位数用逗号分隔，360,000 读作 three hundred and sixty thousand；汉语以万为单位，360,000 即36万。"
+      }
+    ],
+    "translation_tip": "视频译文“约36万件标识被更换，并且一支庞大的车队由1,000多辆右侧开门的新公交车组成也已购置到位。”的处理：①360,000 换算成汉语的万位单位“36万”，items 译为量词“件”；前一分句保留被动，译为“被更换”。②后一分句先译主语 a massive fleet，后置定语 of over 1,000 new buses 按视频说明译成“由……组成”，with right-hand doors 前置为“右侧开门的”。③was procured 译成“也已购置到位”，增补“也”呼应前一分句，“到位”表明购置已经完成。"
+  },
+  {
+    "n": 10,
+    "trunk": {
+      "subject": "The transition",
+      "predicate": "came",
+      "object_or_complement": "",
+      "explain": "主干是 The transition came，主谓结构，come 是不及物动词，on 引出的介词短语作时间状语。谓语 came 是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "The transition",
+        "zh": "转变",
+        "role": "主语"
+      },
+      {
+        "text": "came",
+        "zh": "进行",
+        "role": "谓语（come 在此意为“到来，发生”）"
+      },
+      {
+        "text": "on Sunday 3 September 1967.",
+        "zh": "于1967年9月3日星期日",
+        "role": "时间状语（介词短语）"
+      }
+    ],
+    "structure": "①本句是简单句，主语 The transition，谓语 came，on Sunday 3 September 1967 作时间状语。\n②The transition 指从靠左行驶转为靠右行驶的转变，定冠词表示特指上文一直在准备的这次转变。come 是不及物动词，主语是事件、时刻时意为“到来，发生”。\n③日期中星期写在前，然后按英式写法“日、月、年”排列；具体某一天前用介词 on。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "日期的写法和介词 on",
+        "explain": "具体某一天（包括星期几、某个日期）前用介词 on，如 on Sunday、on 3 September 1967、on the following Monday；只说月份或年份时用 in，如 in September、in 1967；具体时刻用 at，如 at five。英式写法常为 Sunday 3 September 1967，美式写法常为 Sunday, September 3, 1967。本句把星期和日期放在一起，前面只用一个 on。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The new law came into force on Monday 1 July 2024.",
+            "zh": "新法律于2024年7月1日星期一生效。"
+          }
+        ]
+      },
+      {
+        "title": "come 表示事件到来",
+        "explain": "come 作不及物动词，主语可以是时间、事件或变化，意为“到来，发生”，如 The turning point came in 1989、The decision came after months of debate。这种以事件作主语的写法比 happen、take place 更有叙事感。翻译时要根据搭配灵活处理，本句视频译为“进行”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The breakthrough came after nearly ten years of research.",
+            "zh": "经过近十年的研究，终于取得了突破。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "transition",
+        "explain": "过渡，转变，常见搭配 a transition from A to B、a smooth transition、in transition（处于过渡期）。本句指从靠左行驶到靠右行驶的转变，视频译为“转变”。"
+      },
+      {
+        "term": "Dagen H",
+        "explain": "瑞典把1967年9月3日这次改行靠右称为 Dagen H，意为“H日”，H 是瑞典语 högertrafik（右侧通行）的首字母。第7句提到的标识也是一个大写H。"
+      }
+    ],
+    "translation_tip": "视频译文“转变于1967年9月3日星期日进行。”的处理：①时间状语按汉语习惯提到谓语前，用“于”引出，显得正式。②日期按汉语“年、月、日、星期”的顺序重新排列。③came 没有直译成“到来”，而是译成“进行”，与“转变”搭配更自然。"
+  },
+  {
+    "n": 11,
+    "trunk": {
+      "subject": "A curfew",
+      "predicate": "kept",
+      "object_or_complement": "non-essential vehicles（宾语）；off the asphalt（宾语补足语）",
+      "explain": "主干是 A curfew kept non-essential vehicles off the asphalt，主谓宾宾补结构，介词短语 off the asphalt 作宾语补足语，构成 keep A off B。谓语 kept 是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "A curfew",
+        "zh": "宵禁",
+        "role": "主语"
+      },
+      {
+        "text": "kept",
+        "zh": "令",
+        "role": "谓语（keep A off B：使 A 不进入 B）"
+      },
+      {
+        "text": "non-essential vehicles",
+        "zh": "非必要车辆",
+        "role": "宾语"
+      },
+      {
+        "text": "off the asphalt",
+        "zh": "不得驶上柏油路",
+        "role": "宾语补足语（介词短语）"
+      },
+      {
+        "text": "from one to six,",
+        "zh": "在凌晨1点至6点",
+        "role": "时间状语（介词短语 from…to…）"
+      },
+      {
+        "text": "with essential traffic exempt.",
+        "zh": "必要车辆可以豁免",
+        "role": "状语（with 独立结构：with + 名词 + 形容词）"
+      }
+    ],
+    "structure": "①主句是 A curfew kept non-essential vehicles off the asphalt：主语 A curfew，谓语 kept，宾语 non-essential vehicles，介词短语 off the asphalt 作宾语补足语，说明宾语所处的状态。keep A off B 意为“使 A 不进入 B”（视频说明），这里 B 是 the asphalt，指柏油路面，即道路。\n②from one to six 是时间状语，one 和 six 指钟点，省略了 o'clock；结合下句4点50分车辆换边、5点重新出发，可知宵禁覆盖了换边的时段。\n③with essential traffic exempt 是 with 独立结构（视频说明“with＋名词＋形容词：独立结构，补充说明情况”），with 后的 essential traffic 是逻辑主语，形容词 exempt 是补足成分，相当于 essential traffic was exempt，说明必要车辆不受宵禁限制。\n④non-essential 与 essential 前后对照：前者被禁止上路，后者可以豁免。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "keep + 宾语 + 介词短语（宾语补足语）",
+        "explain": "keep 可以接“宾语 + 宾语补足语”，补足语可以是形容词、分词或介词短语，如 keep the door open、keep sb waiting、keep children out of danger。本句 kept non-essential vehicles off the asphalt 中，off the asphalt 说明宾语被“保持在柏油路面之外”。off 表示“离开（某表面）”，keep off 常见于告示，如 Keep off the grass（请勿践踏草坪）。考研阅读中这类结构容易被误读为 keep 后接两个宾语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Strict rules kept visitors away from the nesting birds.",
+            "zh": "严格的规定让游客远离正在筑巢的鸟。"
+          },
+          {
+            "en": "The heavy rain kept most shoppers off the streets.",
+            "zh": "大雨让大多数购物者没有上街。"
+          }
+        ]
+      },
+      {
+        "title": "with + 名词 + 形容词 独立结构",
+        "explain": "with 独立结构中，with 后的名词是逻辑主语，后面的形容词、分词、介词短语或副词说明它的状态，整个结构作状语，表示伴随、补充说明或原因。本句 with essential traffic exempt 相当于 and essential traffic was exempt，补充说明宵禁的例外情况。与第4句只有“with + 名词”的结构相比，这里多了形容词 exempt 作补足成分；第12句 with its direction flipped 用的是过去分词。翻译时通常拆成一个独立分句。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The town was quiet, with most shops empty.",
+            "zh": "小镇很安静，大多数商店空无一人。"
+          },
+          {
+            "en": "The new tax applies to most goods, with basic foods exempt.",
+            "zh": "新税适用于大多数商品，基本食品可以豁免。"
+          }
+        ]
+      },
+      {
+        "title": "前缀 non- 表示否定",
+        "explain": "non- 加在名词或形容词前，表示“非，不”，如 non-essential（非必要的）、non-profit（非营利的）、non-smoker（不吸烟的人）。英式英语多带连字符，美式英语常连写，如 nonessential。non- 多表示中性的“不属于某一类”，un-、in- 则常表示相反的性质，如 unimportant。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "All non-essential staff were told to work from home.",
+            "zh": "所有非必要岗位的员工都被要求居家办公。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "curfew",
+        "explain": "宵禁，指规定时段内禁止人员或车辆外出，常见搭配 impose a curfew（实行宵禁）、lift a curfew（解除宵禁）。本句的宵禁针对非必要车辆。"
+      },
+      {
+        "term": "asphalt",
+        "explain": "沥青，柏油；也指柏油路面。本句 the asphalt 借指道路，视频译为“柏油路”。英式英语中柏油路面也常说 tarmac。"
+      },
+      {
+        "term": "exempt",
+        "explain": "形容词，意为“被豁免的，被免除的”，常用 be exempt from sth，如 exempt from tax。本句 exempt 作补足成分，视频译为“可以豁免”。"
+      },
+      {
+        "term": "from one to six",
+        "explain": "one 和 six 指钟点，省略了 o'clock。根据下句的 At ten to five 和 restarting at five，可知这里是凌晨时段，视频增补“凌晨”。"
+      }
+    ],
+    "translation_tip": "视频译文“宵禁令非必要车辆在凌晨1点至6点不得驶上柏油路，必要车辆可以豁免。”的处理：①kept 译为使役动词“令”，keep A off B 译成“令A不得驶上B”，把介词 off 转译为动词短语“不得驶上”。②时间状语 from one to six 前移到动词前，并按语境增补“凌晨”。③with 独立结构拆成独立分句“必要车辆可以豁免”，形容词 exempt 译成动词短语“可以豁免”。"
+  },
+  {
+    "n": 12,
+    "trunk": {
+      "subject": "all traffic",
+      "predicate": "stopped and crawled",
+      "object_or_complement": "",
+      "explain": "主干是 all traffic stopped and crawled，一个主语带两个并列谓语，均为不及物动词，没有宾语；across 是副词，作 crawled 的方向状语。谓语为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "At ten to five,",
+        "zh": "4点50分",
+        "role": "时间状语（介词短语，ten to five 即差十分五点）"
+      },
+      {
+        "text": "all traffic",
+        "zh": "所有车辆",
+        "role": "主语（traffic 为不可数名词，指道路上的车辆）"
+      },
+      {
+        "text": "stopped",
+        "zh": "停下",
+        "role": "谓语一"
+      },
+      {
+        "text": "and crawled",
+        "zh": "缓缓挪",
+        "role": "并列连词 and + 谓语二"
+      },
+      {
+        "text": "across,",
+        "zh": "到另一侧",
+        "role": "方向状语（副词）"
+      },
+      {
+        "text": "restarting at five,",
+        "zh": "5点重新出发",
+        "role": "状语（现在分词短语，表示接续的动作）"
+      },
+      {
+        "text": "before dawn,",
+        "zh": "此时还在黎明之前",
+        "role": "时间状语（介词短语），补充说明 at five"
+      },
+      {
+        "text": "with its direction flipped.",
+        "zh": "行驶方向已经翻转",
+        "role": "状语（with 独立结构：with + 名词 + 过去分词）"
+      }
+    ],
+    "structure": "①主句是 all traffic stopped and crawled across：主语 all traffic，两个并列谓语 stopped 和 crawled，across 是副词，表示“横过去，到另一边”，即车辆从道路左侧挪到右侧。句首 At ten to five 是时间状语，ten to five 意为差十分五点，即4点50分（视频说明）。\n②restarting at five 是现在分词短语作状语（视频说明），逻辑主语是 all traffic，表示紧接在挪到另一侧之后的动作：5点重新出发。\n③before dawn 是介词短语，补充说明5点这个时刻，即天还没亮。\n④with its direction flipped 是 with 独立结构（视频说明“with＋名词＋过去分词：独立结构”），its 指 traffic，direction 与 flip 是被动关系，所以用过去分词 flipped，表示行驶方向已经被翻转过来。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "钟点的 to 和 past 表达法",
+        "explain": "英语说钟点时，前半小时用 past，表示“过”，如 ten past five（5点10分）；后半小时用 to，表示“差”，如 ten to five（差10分5点，即4点50分），a quarter to five 是4点45分。本句 At ten to five 视频译为“4点50分”。阅读中容易把 ten to five 误解为“10点到5点”，要结合上下文判断。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The last train leaves at twenty to midnight.",
+            "zh": "末班车在23点40分发车。"
+          },
+          {
+            "en": "The meeting started at a quarter past nine.",
+            "zh": "会议9点15分开始。"
+          }
+        ]
+      },
+      {
+        "title": "现在分词短语表示接续动作",
+        "explain": "现在分词短语放在句末作状语，除了表示伴随、结果，还可以表示紧接着主句动作发生的另一个动作，逻辑主语与主句主语一致。本句 restarting at five 的逻辑主语是 all traffic，表示车辆挪到另一侧之后5点重新出发，相当于 and restarted at five。找主干时要注意，这类分词短语不是谓语。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The plane landed in Rome at noon, leaving again two hours later for Athens.",
+            "zh": "飞机中午在罗马降落，两小时后又飞往雅典。"
+          }
+        ]
+      },
+      {
+        "title": "with + 名词 + 过去分词 独立结构",
+        "explain": "with 后的名词与分词之间是被动关系时，用过去分词作补足成分，表示状态已经形成；是主动关系时用现在分词，如 with prices rising。本句 with its direction flipped 中，direction 是被翻转的对象，所以用 flipped，表示车辆出发时行驶方向已经翻转完毕，视频译为“已经翻转”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "She sat at her desk with her eyes fixed on the screen.",
+            "zh": "她坐在桌前，眼睛紧盯着屏幕。"
+          },
+          {
+            "en": "The ship returned to port with its cargo damaged by seawater.",
+            "zh": "这艘船返回了港口，所载货物已被海水损坏。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "traffic",
+        "explain": "不可数名词，指道路上来往的车辆、行人，也指交通量，不能说 a traffic 或 traffics。本句 all traffic 视频译为“所有车辆”。"
+      },
+      {
+        "term": "crawl",
+        "explain": "本义为“爬，爬行”，形容车辆时指“缓慢行进”，如 Traffic crawled along the motorway。本句视频译为“缓缓挪”。"
+      },
+      {
+        "term": "flip",
+        "explain": "翻转，快速翻动，如 flip a coin（抛硬币）。本句指行驶方向由靠左翻转为靠右，视频译为“翻转”。"
+      },
+      {
+        "term": "dawn",
+        "explain": "黎明，常见搭配 at dawn（黎明时）、before dawn（天亮前）、from dawn to dusk（从早到晚）。"
+      }
+    ],
+    "translation_tip": "视频译文“4点50分，所有车辆停下，缓缓挪到另一侧，5点重新出发，此时还在黎明之前，行驶方向已经翻转。”的处理：①ten to five 换算成“4点50分”。②副词 across 增补为“到另一侧”，说清车辆挪动的去向。③现在分词短语 restarting at five 译成独立短句“5点重新出发”，before dawn 增补“此时还在”，单独成句。④with 独立结构拆成分句，direction 增补为“行驶方向”，过去分词 flipped 译成“已经翻转”，体现状态已经完成。全句按动作的先后译成一串短句，与原文的时间顺序一致。"
+  },
+  {
+    "n": 13,
+    "trunk": {
+      "subject": "Stockholm and Malmö",
+      "predicate": "had",
+      "object_or_complement": "a longer closure",
+      "explain": "主干是 Stockholm and Malmö had a longer closure，主谓宾结构。谓语 had 是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Stockholm and Malmö",
+        "zh": "斯德哥尔摩和马尔默的",
+        "role": "主语（两个城市名并列）"
+      },
+      {
+        "text": "had",
+        "zh": "（谓语动词，与 a longer closure 合译为“封闭时间更长”）",
+        "role": "谓语"
+      },
+      {
+        "text": "a longer closure,",
+        "zh": "封闭时间更长",
+        "role": "宾语（longer 为比较级，隐含与其他地区相比）"
+      },
+      {
+        "text": "from Saturday morning to Sunday afternoon,",
+        "zh": "从星期六上午持续到星期日下午",
+        "role": "后置定语（介词短语，用逗号隔开，补充说明 a longer closure 的起止时间）"
+      },
+      {
+        "text": "while crews reconfigured junctions.",
+        "zh": "工人们在此期间重新设定了交叉路口",
+        "role": "时间状语从句（while 引导）"
+      }
+    ],
+    "structure": "①主句是 Stockholm and Malmö had a longer closure：主语是两个并列的城市名，谓语 had，宾语 a longer closure。closure 是名词，意为“封闭”，had a closure 即“经历了封闭”。比较级 longer 没有带 than，比较对象隐含在上文：与第11句全国凌晨1点至6点的宵禁相比，这两座城市的封闭时间更长。\n②from Saturday morning to Sunday afternoon 是介词短语，用逗号隔开，补充说明 a longer closure 从何时开始、到何时结束。\n③while 引导时间状语从句（视频说明“while：引导时间状语从句，在……期间”），从句主语 crews，谓语 reconfigured，宾语 junctions，说明封闭期间工人们在改造交叉路口。从句与主句的时间重合。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "while 引导时间状语从句",
+        "explain": "while 引导时间状语从句时意为“在……期间，当……的时候”，强调主句和从句的动作或状态在同一时段内持续，从句谓语多为延续性动作，如本句的 reconfigured（改造交叉路口需要一段时间）。while 还可以表示对比，意为“而，然而”，如 Some people prefer tea, while others prefer coffee。区分方法是看前后两部分是时间上重合还是意思上对照。本句视频说明为时间状语从句，译为“在此期间”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The museum will remain closed while the roof is being repaired.",
+            "zh": "屋顶维修期间，博物馆将继续闭馆。"
+          },
+          {
+            "en": "Please keep your seatbelt fastened while the plane is taxiing.",
+            "zh": "飞机滑行期间，请系好安全带。"
+          }
+        ]
+      },
+      {
+        "title": "比较级单独使用，比较对象隐含在上下文中",
+        "explain": "比较级后面不一定都有 than 引出的比较对象，当对象在上下文中已经清楚时可以省略。本句 a longer closure 是与第11句凌晨1点至6点的宵禁时段相比。考研阅读中遇到不带 than 的比较级，要回到上文找比较对象，这常是细节题的出题点。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The new model is lighter and uses less fuel.",
+            "zh": "新款车型更轻，也更省油。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Stockholm and Malmö",
+        "explain": "斯德哥尔摩（Stockholm）是瑞典首都和最大城市；马尔默（Malmö）位于瑞典南部，是瑞典第三大城市。Malmö 中的 ö 是瑞典语字母。"
+      },
+      {
+        "term": "closure",
+        "explain": "名词，关闭，封闭，如 road closures（道路封闭）、the closure of a factory（工厂倒闭）。也指心理上的“了结，释怀”，如 seek closure。"
+      },
+      {
+        "term": "crew",
+        "explain": "指一起工作的一组人员，如 a repair crew（维修队）、a film crew（摄制组）、a flight crew（机组人员）。本句 crews 视频译为“工人们”。"
+      },
+      {
+        "term": "reconfigure",
+        "explain": "重新配置，重新设定；本句指工人调整交叉路口，使之适应靠右行驶，视频译为“重新设定了”。"
+      }
+    ],
+    "translation_tip": "视频译文“斯德哥尔摩和马尔默的封闭时间更长，从星期六上午持续到星期日下午，工人们在此期间重新设定了交叉路口。”的处理：①动宾结构 had a longer closure 转译成主谓结构“……的封闭时间更长”，城市名变为“……的”定语。②补充说明的介词短语增补“持续”，译成“从星期六上午持续到星期日下午”。③while 从句不前置，放在句末，增补“在此期间”体现时间重合，与视频说明“在……期间”一致。"
+  },
+  {
+    "n": 14,
+    "trunk": {
+      "subject": "125 accidents",
+      "predicate": "were reported",
+      "object_or_complement": "",
+      "explain": "主干是 125 accidents were reported，主谓结构，一般过去时被动语态。句末的 a statistical improvement… 是同位语，对前面的数字作概括。"
+    },
+    "components": [
+      {
+        "text": "On the following Monday,",
+        "zh": "随后的星期一",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "125 accidents",
+        "zh": "事故有125起",
+        "role": "主语"
+      },
+      {
+        "text": "were reported,",
+        "zh": "报告的",
+        "role": "谓语（一般过去时，被动语态）"
+      },
+      {
+        "text": "against",
+        "zh": "而",
+        "role": "状语（介词 against 与后面的 130 to 198 on earlier Mondays 构成介词短语作状语，表示对比，意为“与……相比”）"
+      },
+      {
+        "text": "130 to 198",
+        "zh": "为130至198起",
+        "role": "介词宾语（against 的宾语，后面省略了 accidents）"
+      },
+      {
+        "text": "on earlier Mondays,",
+        "zh": "此前几个星期一",
+        "role": "后置定语（介词短语），说明 130 to 198 起事故是哪些日子的数据"
+      },
+      {
+        "text": "a statistical improvement",
+        "zh": "这一统计上的改善",
+        "role": "同位语（名词短语），概括前面的事故数字"
+      },
+      {
+        "text": "put down to",
+        "zh": "被归因于",
+        "role": "后置定语（过去分词短语 put down to…），修饰 improvement"
+      },
+      {
+        "text": "the heightened care of hesitant drivers.",
+        "zh": "犹豫的驾车人更加的小心",
+        "role": "宾语（介词 to 的宾语，名词化结构）"
+      }
+    ],
+    "structure": "①主句是 125 accidents were reported，被动语态；句首 On the following Monday 是时间状语，指改为靠右行驶后的第一个星期一。\n②against 130 to 198 on earlier Mondays 是介词短语作状语，against 在这里意为“与……相比”（视频说明），130 to 198 后面省略了 accidents，on earlier Mondays 说明这些数字是此前几个星期一的情况。\n③a statistical improvement 是名词短语作同位语，概括前面的事故数字（视频说明）：与以往相比，事故减少了。\n④put down to the heightened care of hesitant drivers 是过去分词短语作后置定语，修饰 improvement（视频说明），相当于 which was put down to…。put sth down to sth 意为“把某事归因于某事”，improvement 是被归因的对象，所以用过去分词。to 的宾语 the heightened care of hesitant drivers 是名词化结构，相当于 hesitant drivers were more careful。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "过去分词短语作后置定语：put down to",
+        "explain": "过去分词短语放在名词后作定语，与被修饰的名词是被动关系，相当于一个被动语态的定语从句。本句 a statistical improvement put down to the heightened care of hesitant drivers 中，put down to… 修饰 improvement，相当于 which was put down to…，即“这一改善被归因于……”。put 的过去式、过去分词都是 put，形式与原形相同，容易误认成谓语；本句谓语是前面的 were reported，句末的 put 只能是过去分词作定语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "It was a costly mistake, put down to poor communication between departments.",
+            "zh": "这是一个代价高昂的错误，被归因于部门之间沟通不畅。"
+          },
+          {
+            "en": "The decline in sales, blamed largely on bad weather, worried investors.",
+            "zh": "销量下滑主要被归咎于恶劣天气，这让投资者感到担忧。"
+          }
+        ]
+      },
+      {
+        "title": "介词 against 表示对比",
+        "explain": "against 除表示“反对”“倚靠”外，还可表示“与……相比，对照”，常用于数据比较。本句 125 accidents… against 130 to 198 on earlier Mondays 表示把改制后的事故数与以往对比，视频译为“而”。类似的表达还有 compared with、as against。考研阅读中的数据比较句常用这一用法，误解为“反对”就读不通。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The unemployment rate stood at 4.2 per cent, against 5.1 per cent a year earlier.",
+            "zh": "失业率为4.2%，而一年前为5.1%。"
+          },
+          {
+            "en": "This year the farm produced 800 tonnes of wheat, against an average of 650 tonnes.",
+            "zh": "今年这个农场生产了800吨小麦，而往年平均为650吨。"
+          }
+        ]
+      },
+      {
+        "title": "名词化结构",
+        "explain": "英语书面语常把动作或性质用名词表达，即名词化，如用 the heightened care of hesitant drivers 代替 hesitant drivers were more careful。名词化能把一个完整的意思压缩进一个名词短语，便于作主语或宾语，但会让句子更抽象。of 后的 hesitant drivers 是 care 的逻辑主语。翻译时常把名词化结构还原成主谓结构，本句视频译为“犹豫的驾车人更加的小心”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The rapid growth of online shopping has changed city centres.",
+            "zh": "网上购物迅速发展，改变了城市中心区的面貌。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "put sth down to sth",
+        "explain": "把某事归因于某事，如 She put her success down to hard work。本句用过去分词 put down to，表被动，视频译为“被归因于”。"
+      },
+      {
+        "term": "the following Monday",
+        "explain": "随后的那个星期一，following 作形容词，意为“接着的，下一个”，常见 the following day/week。本句指1967年9月3日星期日换边后的第二天。"
+      },
+      {
+        "term": "heightened",
+        "explain": "形容词，意为“增强的，提高的”，常见 heightened awareness、heightened security、heightened tension。本句 heightened care 指比平时更小心。"
+      },
+      {
+        "term": "hesitant",
+        "explain": "犹豫的，迟疑的，常见 be hesitant to do sth、be hesitant about sth。本句 hesitant drivers 指刚刚改为靠右行驶、开车时心存迟疑的驾车人。"
+      }
+    ],
+    "translation_tip": "视频译文“随后的星期一，报告的事故有125起，而此前几个星期一为130至198起；这一统计上的改善被归因于犹豫的驾车人更加的小心。”的处理：①被动句 125 accidents were reported 译成“报告的事故有125起”，把 reported 转成定语“报告的”，数字后增补量词“起”。②against 译成表示对比的连词“而”，后面省略的 accidents 补出量词“起”。③在同位语之前用分号断开，增补“这一”指代前文数字，使同位语成为后一分句的主语；过去分词短语保留被动意义，译为“被归因于”。④名词化结构 the heightened care of hesitant drivers 拆成“犹豫的驾车人更加的小心”，把 of 后的逻辑主语提到前面。"
+  },
+  {
+    "n": 15,
+    "trunk": {
+      "subject": "The nervousness；prudent habits；accident and fatality rates",
+      "predicate": "subsided；faded；had reverted to",
+      "object_or_complement": "（subsided、faded 均为不及物动词，无宾语）；their baseline（reverted to 的宾语）",
+      "explain": "本句由 and 连接两个并列分句，再由并列连词 for 引出第三个分句，说明推断的依据。subsided 和 faded 是一般过去时；had reverted to 是过去完成时，表示到1969年时已经完成的变化。三个谓语都是主动语态。"
+    },
+    "components": [
+      {
+        "text": "The nervousness",
+        "zh": "紧张情绪",
+        "role": "主语（第一分句）"
+      },
+      {
+        "text": "apparently",
+        "zh": "似乎",
+        "role": "评注性状语（表示根据迹象推断）"
+      },
+      {
+        "text": "subsided",
+        "zh": "逐渐平息",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "and prudent habits",
+        "zh": "谨慎的习惯",
+        "role": "并列连词 and + 第二分句主语"
+      },
+      {
+        "text": "faded,",
+        "zh": "也慢慢消退",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "for",
+        "zh": "（连词，表示推断的依据，不单独译出）",
+        "role": "并列连词（引出推断的依据）"
+      },
+      {
+        "text": "by 1969",
+        "zh": "到1969年",
+        "role": "时间状语（by + 过去时间）"
+      },
+      {
+        "text": "accident and fatality rates",
+        "zh": "事故率和死亡率",
+        "role": "主语（第三分句）"
+      },
+      {
+        "text": "had reverted to",
+        "zh": "已回到",
+        "role": "谓语（过去完成时）"
+      },
+      {
+        "text": "their baseline.",
+        "zh": "原来的基准水平",
+        "role": "宾语（revert to 的宾语）"
+      }
+    ],
+    "structure": "①前两个分句由 and 连接：The nervousness apparently subsided 和 prudent habits faded，两个谓语 subsided、faded 都是不及物动词，说明紧张情绪平息、谨慎习惯消退。apparently 是评注性状语，表明这是根据数据作出的推断，不是直接观察到的事实。\n②for 是并列连词，引出第三个分句，说明上述推断的依据（视频说明“for：连词，表示推断的依据”）：既然到1969年事故率和死亡率已回到基准水平，可见司机们已不像刚换边时那样小心。\n③第三个分句主语 accident and fatality rates 中，accident 和 fatality 是并列的名词定语，共用中心词 rates，即 accident rates and fatality rates；谓语 had reverted to 是过去完成时，与时间状语 by 1969 配合，表示到1969年时这一变化已经完成。revert to 意为“回到原先的状态”（视频说明），their 指 accident and fatality rates，their baseline 即它们原来的基准水平。\n④本句与第14句形成对照：换边之初司机格外小心，事故减少；一段时间后谨慎消退，事故率又回到原来的水平。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "for 作并列连词表示推断的依据",
+        "explain": "for 作连词时连接两个分句，放在后一分句开头，前面通常有逗号，补充说明理由或推断的依据，语气正式，多见于书面语。它与 because 不同：because 引导原因状语从句，说明直接原因，可以放在句首，也可以回答 why 的提问；for 引出的分句只是补充说明，不能放在句首。本句 for by 1969 accident and fatality rates had reverted to their baseline 说明作者为什么推断紧张情绪已经平息。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "It must have rained during the night, for the streets are wet.",
+            "zh": "夜里一定下过雨，因为街道是湿的。"
+          },
+          {
+            "en": "The negotiations had clearly failed, for both delegations left without making any statement.",
+            "zh": "谈判显然失败了，因为双方代表团都一言未发就离开了。"
+          }
+        ]
+      },
+      {
+        "title": "by + 过去时间与过去完成时",
+        "explain": "by 表示“到……时为止”，与过去的时间点连用时，主句谓语通常用过去完成时，表示在那个时间点之前已经完成的动作或已经形成的状态，如本句 by 1969 … had reverted to。如果是 by + 将来时间，则多用将来完成时，如 By 2030, the project will have been completed。考研完形和写作中，by + 时间是判断完成时态的重要标志。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "By the end of the war, the city had lost half its population.",
+            "zh": "到战争结束时，这座城市已经失去了一半人口。"
+          },
+          {
+            "en": "By the time the ambulance arrived, the crowd had already dispersed.",
+            "zh": "等救护车赶到时，人群已经散去了。"
+          }
+        ]
+      },
+      {
+        "title": "评注性状语 apparently",
+        "explain": "apparently 意为“看来，似乎，据说”，表示说话人是根据所见所闻作出判断，并非确定的事实，属于评注性状语，常放在主语后、谓语前或句首。本句 The nervousness apparently subsided 是作者根据1969年的事故统计推断出来的，视频译为“似乎”。考研阅读中，带 apparently、seemingly、reportedly 的内容属于推测或转述，答题时不能当作确定的事实。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The tourists apparently ignored the warning signs.",
+            "zh": "这些游客似乎没有理会警示标志。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "subside",
+        "explain": "平息，减退，主语多为情绪、风暴、疼痛、洪水等，如 The storm subsided、The pain gradually subsided。本句视频译为“逐渐平息”。"
+      },
+      {
+        "term": "revert to",
+        "explain": "回到（原先的状态、习惯），如 revert to old habits。视频说明为“回到原先的状态”，译为“已回到”。"
+      },
+      {
+        "term": "fatality rate",
+        "explain": "死亡率，fatality 指事故、战争、疾病等造成的死亡，可数，如 road fatalities（交通事故死亡人数）。本句 fatality rates 指交通事故造成的死亡率。"
+      },
+      {
+        "term": "baseline",
+        "explain": "基准，基线，指用于比较的原始水平，常见 a baseline for comparison。本句 their baseline 指事故率和死亡率在改制前的正常水平，视频译为“原来的基准水平”。"
+      },
+      {
+        "term": "prudent",
+        "explain": "谨慎的，审慎的，常形容决定、做法，如 a prudent decision；名词 prudence。本句 prudent habits 与第14句的 heightened care 呼应。"
+      }
+    ],
+    "translation_tip": "视频译文“紧张情绪似乎逐渐平息，谨慎的习惯也慢慢消退，到1969年，事故率和死亡率已回到原来的基准水平。”的处理：①subsided、faded 分别增补“逐渐”“慢慢”，体现情绪和习惯是一点点消失的；and 不单独译出，而是在第二个分句中用“也”衔接。②连词 for 没有译成“因为”，而是直接接出“到1969年……”，后句的数据自然成为前句推断的依据。③并列的名词定语 accident and fatality 拆成“事故率和死亡率”。④had reverted to 译为“已回到”，“已”体现过去完成时；their 译为“原来的”，baseline 增补为“基准水平”。"
+  }
+]

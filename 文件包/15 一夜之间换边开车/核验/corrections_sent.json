@@ -1,0 +1,72 @@
+[
+  {
+    "key": 4,
+    "field": "knowledge.3.explain",
+    "before": "挪威在瑞典西面，芬兰在瑞典东北面，两国都与瑞典有陆地边界",
+    "after": "挪威在瑞典西面，芬兰在瑞典东面（两国在北部接壤），两国都与瑞典有陆地边界",
+    "reason": "地理事实：芬兰整体位于瑞典东面，只是陆地边界在北部，写“东北面”不准确。"
+  },
+  {
+    "key": 7,
+    "field": "grammar.0.examples.0.zh",
+    "before": "长达25米以上的鲸鱼骨架",
+    "after": "长度超过25米的鲸鱼骨架",
+    "reason": "“长达……以上”语义重复，按 over 25 metres long 译为“长度超过25米”。"
+  },
+  {
+    "key": 8,
+    "field": "grammar.0.examples.0.en",
+    "before": "is now translated into thirty languages",
+    "after": "has now been translated into thirty languages",
+    "reason": "以作家作主语说作品被译成多种语言，地道说法是现在完成时 has been translated。"
+  },
+  {
+    "key": 9,
+    "field": "structure",
+    "before": "都省略了动作执行者，因为执行者显然是上文负责准备工作的国家机关。",
+    "after": "都省略了动作执行者：句子关注的是更换和购置的规模，执行者不必说出；这些工作都属于第7句所说由国家机关操办的准备工作。",
+    "reason": "原文没有说明标识由谁更换、公交车由谁购置，不能断言执行者“显然是”国家机关，改为有据的表述。"
+  },
+  {
+    "key": 9,
+    "field": "grammar.0.explain",
+    "before": "fleet、group、series、collection 等名词后接 of + 复数名词作主语时，谓语一般与中心词保持一致，用单数，",
+    "after": "fleet、series、collection 等表示“一批，一组”的名词后接 of + 复数名词作主语时，语法上的中心词是前面的单数名词，谓语一般与它保持一致，用单数，",
+    "reason": "a group of + 复数名词在英式英语中谓语常用复数，不宜与 fleet 一并说“一般用单数”，删去 group。"
+  },
+  {
+    "key": 9,
+    "field": "grammar.0.explain",
+    "before": "它的中心意义在后面的名词上，谓语用复数。",
+    "after": "它的中心意义在后面的名词上，谓语用复数；a group of 等后接复数名词时，英式英语中谓语也常用复数。",
+    "reason": "补充 a group of 的例外，使规则完整准确。"
+  },
+  {
+    "key": 13,
+    "field": "grammar.1.explain",
+    "before": "是与上一句全国范围的宵禁时段相比",
+    "after": "是与第11句凌晨1点至6点的宵禁时段相比",
+    "reason": "宵禁出现在第11句，不是上一句（第12句）；指明具体时段。"
+  },
+  {
+    "key": 13,
+    "field": "knowledge.2.explain",
+    "before": "a road crew（筑路工人队伍）",
+    "after": "a repair crew（维修队）",
+    "reason": "road crew 常指乐队巡演的随行工作人员，释为“筑路工人队伍”易误导，换成无歧义的 repair crew。"
+  },
+  {
+    "key": 14,
+    "field": "components.3.role",
+    "before": "介词（表示对比，意为“与……相比”），引出比较的数据",
+    "after": "状语（介词 against 与后面的 130 to 198 on earlier Mondays 构成介词短语作状语，表示对比，意为“与……相比”）",
+    "reason": "role 应写成分，与 structure ② 的“介词短语作状语”一致。"
+  },
+  {
+    "key": 15,
+    "field": "components.9.role",
+    "before": "宾语（介词 to 的宾语）",
+    "after": "宾语（revert to 的宾语）",
+    "reason": "主干已把 had reverted to 作为短语动词谓语，成分说明应与主干一致。"
+  }
+]

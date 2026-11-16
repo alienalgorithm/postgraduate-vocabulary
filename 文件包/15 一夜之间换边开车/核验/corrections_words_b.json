@@ -1,0 +1,44 @@
+[
+  {
+    "key": 31,
+    "field": "usage_detail",
+    "before": "单数 lyric 可指一首抒情诗，也可指一句歌词。",
+    "after": "单数 lyric 多指抒情诗。",
+    "reason": "“单数 lyric 指一句歌词”无法从 Oxford/Cambridge 证实，删去不确定说法。"
+  },
+  {
+    "key": 32,
+    "field": "context_usage",
+    "before": "说明这次宣传很受欢迎",
+    "after": "说明这首宣传歌曲颇受欢迎",
+    "reason": "登上排行榜只能说明歌曲受欢迎，不能推出整个宣传受欢迎。"
+  },
+  {
+    "key": 42,
+    "field": "etymology",
+    "before": "中古英语 crawlen，来源不详，词源词典认为可能与古诺尔斯语 krafla（用手抓、爬）有关。",
+    "after": "中古英语 creulen，可能来自斯堪的纳维亚语，可比较古诺尔斯语 krafla（爬，用手扒）和丹麦语 kravle（爬）。",
+    "reason": "按 Etymonline 改正：中古英语形式为 creulen，词源“可能来自斯堪的纳维亚语”，原文“来源不详”又说“可能有关”自相矛盾。"
+  },
+  {
+    "key": 50,
+    "field": "usage_detail",
+    "before": "语气偏口语化，正式写作中可用 attribute sth to sth、ascribe sth to sth。",
+    "after": "语气比 attribute sth to sth 随意一些，学术写作中多用 attribute sth to sth、ascribe sth to sth。",
+    "reason": "put sth down to sth 在词典中无口语标签，外刊中常用（如本文），说“偏口语化”不准确。"
+  },
+  {
+    "key": 50,
+    "field": "distinction",
+    "before": "put down to 较口语，",
+    "after": "put down to 语气较随意，",
+    "reason": "同上，与 usage_detail 保持一致。"
+  },
+  {
+    "key": 53,
+    "field": "etymology",
+    "before": "英语中原义“强健的”，18世纪起引申为“神经质的，容易紧张的”。",
+    "after": "英语中最初指“筋腱的，与神经有关的”，17世纪有“强健有力的”之义，18世纪起引申为“神经质的，容易紧张的”。",
+    "reason": "按 Etymonline：nervous 14世纪末义为“含筋腱的”，“强健”义始于17世纪，原文把“强健的”说成原义不准确。"
+  }
+]
