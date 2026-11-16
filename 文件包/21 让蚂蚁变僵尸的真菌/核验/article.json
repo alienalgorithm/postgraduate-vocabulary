@@ -1,0 +1,1594 @@
+{
+ "no": "21",
+ "title_en": "The Fungus That Turns Ants into Zombies",
+ "title_zh": "让蚂蚁变僵尸的真菌",
+ "source_id": "14",
+ "source_hashes": {
+  "JSON": "d5107413953cf10f03bd62ca22f25048b0309c19d579f127ec2da92ace2c38e6",
+  "GEN": "d5107413953cf10f03bd62ca22f25048b0309c19d579f127ec2da92ace2c38e6",
+  "MD": "7986e467ad2b4e2219acfd40068cdf5b2c96e136cb7426efc35c79715bc64cd6",
+  "illustration": "72da9b2ddff27237427658478a4692b2d64bfef146a72965ab65de9dbde1f4a8"
+ },
+ "summary": [
+  [
+   "感染",
+   "泰国木匠蚁感染一种寄生真菌后离群，正午咬住离地约25厘米的叶背主脉，到黄昏死去。"
+  ],
+  [
+   "传播",
+   "真菌破坏控制咬合的肌肉，使下颚无法松开，蚂蚁死后仍咬紧叶子；两三天后，▹蚁尸头部长出真菌细柄，向蚂蚁觅食的地面释放孢子，也就是可传播感染的微小颗粒。"
+  ],
+  [
+   "环境",
+   "咬痕多在温湿度适宜的植物西北侧；把感染蚂蚁移高，真菌生长反常，把蚁尸放到地面，尸体则消失。"
+  ],
+  [
+   "机制",
+   "2017年三维成像显示，真菌在腿和颚部肌肉周围织成网络，却没有侵入蚂蚁大脑。"
+  ],
+  [
+   "边界",
+   "4800万年前的叶化石已有同类咬痕；▹记录这种现象的纪录片启发了游戏《最后生还者》，但游戏中真菌感染人类的情节是虚构的。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "Deep in a Thai rainforest, a carpenter ant breaks from its colony's column in the lofty canopy.",
+   "zh": "在泰国雨林深处，一只木匠蚁脱离了它的蚁群队列，在高耸的树冠上（前行）。",
+   "en_markup": "Deep in a Thai **rainforest**, a **carpenter** ant breaks from its **colony**'s **column** in the **lofty** **canopy**.",
+   "zh_markup": "在泰国**雨林**(rainforest)深处，一只**木匠**(carpenter)蚁脱离了它的蚁**群**(colony)**队列**(column)，在**高耸的**(lofty)**树冠**(canopy)上（前行）。",
+   "video_notes": [
+    "（break from：脱离（群体、队伍）；in the lofty canopy：后置定语，修饰 column）"
+   ],
+   "chunks": [
+    {
+     "en": "Deep in a Thai rainforest,",
+     "zh": "在泰国雨林深处，"
+    },
+    {
+     "en": "a carpenter ant breaks from its colony's column in the lofty canopy.",
+     "zh": "一只木匠蚁脱离了它的蚁群队列，在高耸的树冠上（前行）。"
+    }
+   ],
+   "align": [
+    [
+     "Deep in a Thai rainforest,",
+     "在泰国雨林深处，"
+    ],
+    [
+     "a",
+     "一只"
+    ],
+    [
+     "carpenter",
+     "木匠"
+    ],
+    [
+     "ant",
+     "蚁"
+    ],
+    [
+     "breaks from",
+     "脱离了"
+    ],
+    [
+     "its",
+     "它的"
+    ],
+    [
+     "colony's",
+     "蚁群"
+    ],
+    [
+     "column",
+     "队列，"
+    ],
+    [
+     "in",
+     "在"
+    ],
+    [
+     "the lofty",
+     "高耸的"
+    ],
+    [
+     "canopy.",
+     "树冠上（前行）。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "Swaying on unsteady legs, it wanders downward, as if intoxicated, into leafy undergrowth.",
+   "zh": "摇摇晃晃，腿脚不稳，它向下游荡，好像喝醉了一样，进入枝叶茂密的林下植被。",
+   "en_markup": "**Swaying** on **unsteady** legs, it **wanders** **downward**, **as if** **intoxicated**, into **leafy** **undergrowth**.",
+   "zh_markup": "**摇摇晃晃**(Swaying)，腿脚**不稳**(unsteady)，它**向下**(downward)**游荡**(wanders)，**好像**(as if)**喝醉了**(intoxicated)一样，进入**枝叶茂密的**(leafy)**林下植被**(undergrowth)。",
+   "video_notes": [
+    "（Swaying…：现在分词短语作伴随状语；as if intoxicated：as if 后省略了 it were）"
+   ],
+   "chunks": [
+    {
+     "en": "Swaying on unsteady legs,",
+     "zh": "摇摇晃晃，腿脚不稳，"
+    },
+    {
+     "en": "it wanders downward, as if intoxicated, into leafy undergrowth.",
+     "zh": "它向下游荡，好像喝醉了一样，进入枝叶茂密的林下植被。"
+    }
+   ],
+   "align": [
+    [
+     "Swaying",
+     "摇摇晃晃，"
+    ],
+    [
+     "on unsteady legs,",
+     "腿脚不稳，"
+    ],
+    [
+     "it",
+     "它"
+    ],
+    [
+     "wanders downward,",
+     "向下游荡，"
+    ],
+    [
+     "as if",
+     "好像"
+    ],
+    [
+     "intoxicated,",
+     "喝醉了一样，"
+    ],
+    [
+     "into",
+     "进入"
+    ],
+    [
+     "leafy",
+     "枝叶茂密的"
+    ],
+    [
+     "undergrowth.",
+     "林下植被。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "Around midday it clenches its jaws on a major vein underneath a leaf, about 25 centimetres above the ground.",
+   "zh": "正午前后，它将双颚紧咬在一片叶子下方的一条主叶脉上，离地面约25厘米。",
+   "en_markup": "Around **midday** it **clenches** its **jaws** on a major **vein** underneath a leaf, about 25 centimetres above the ground.",
+   "zh_markup": "**正午**(midday)前后，它将**双颚**(jaws)**紧咬**(clenches)在一片叶子下方的一条主**叶脉**(vein)上，离地面约25厘米。",
+   "video_notes": [
+    "（clench A on B：把A咬紧在B上；underneath a leaf：后置定语，修饰 vein）"
+   ],
+   "chunks": [
+    {
+     "en": "Around midday it clenches its jaws",
+     "zh": "正午前后，它将双颚紧咬"
+    },
+    {
+     "en": "on a major vein underneath a leaf, about 25 centimetres above the ground.",
+     "zh": "在一片叶子下方的一条主叶脉上，离地面约25厘米。"
+    }
+   ],
+   "align": [
+    [
+     "Around midday",
+     "正午前后，"
+    ],
+    [
+     "it",
+     "它"
+    ],
+    [
+     "clenches its jaws",
+     "将双颚紧咬"
+    ],
+    [
+     "on a major vein underneath a leaf,",
+     "在一片叶子下方的一条主叶脉上，"
+    ],
+    [
+     "about 25 centimetres above the ground.",
+     "离地面约25厘米。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "By dusk the insect is lifeless, yet the bite holds rigidly.",
+   "zh": "到黄昏时，这只昆虫已无生命，那一口却仍牢牢地咬着。",
+   "en_markup": "By **dusk** the insect is **lifeless**, yet the bite holds **rigidly**.",
+   "zh_markup": "到**黄昏**(dusk)时，这只昆虫已**无生命**(lifeless)，那一口却仍**牢牢地**(rigidly)咬着。",
+   "video_notes": [
+    "（by + 时间：到……时；yet：却，表转折）"
+   ],
+   "chunks": [
+    {
+     "en": "By dusk the insect is lifeless,",
+     "zh": "到黄昏时，这只昆虫已无生命，"
+    },
+    {
+     "en": "yet the bite holds rigidly.",
+     "zh": "那一口却仍牢牢地咬着。"
+    }
+   ],
+   "align": [
+    [
+     "By dusk",
+     "到黄昏时，"
+    ],
+    [
+     "the insect",
+     "这只昆虫"
+    ],
+    [
+     "is lifeless,",
+     "已无生命，"
+    ],
+    [
+     "yet the bite",
+     "那一口却"
+    ],
+    [
+     "holds rigidly.",
+     "仍牢牢地咬着。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "A fungus has destroyed its jaw muscles, so they cannot loosen.",
+   "zh": "一种真菌摧毁了它的颚部肌肉，因此它们无法松开。",
+   "en_markup": "A **fungus** has destroyed its jaw **muscles**, so they cannot **loosen**.",
+   "zh_markup": "一种**真菌**(fungus)摧毁了它的颚部**肌肉**(muscles)，因此它们无法**松开**(loosen)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "A fungus has destroyed its jaw muscles,",
+     "zh": "一种真菌摧毁了它的颚部肌肉，"
+    },
+    {
+     "en": "so they cannot loosen.",
+     "zh": "因此它们无法松开。"
+    }
+   ],
+   "align": [
+    [
+     "A",
+     "一种"
+    ],
+    [
+     "fungus",
+     "真菌"
+    ],
+    [
+     "has destroyed",
+     "摧毁了"
+    ],
+    [
+     "its",
+     "它的"
+    ],
+    [
+     "jaw",
+     "颚部"
+    ],
+    [
+     "muscles,",
+     "肌肉，"
+    ],
+    [
+     "so",
+     "因此"
+    ],
+    [
+     "they",
+     "它们"
+    ],
+    [
+     "cannot",
+     "无法"
+    ],
+    [
+     "loosen.",
+     "松开。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "Two or three days later a fungal stalk pushes from its head and releases infectious spores on to the ground below, where foraging ants tread.",
+   "zh": "两三天后，一根真菌的菌柄从它头部顶出，将具有传染性的孢子释放到下方的地面上，那里有觅食的蚂蚁行走。",
+   "en_markup": "Two or three days later a **fungal** stalk pushes from its head and releases **infectious** **spores** on to the ground below, where **foraging** ants **tread**.",
+   "zh_markup": "两三天后，一根**真菌的**(fungal)菌柄从它头部顶出，将**具有传染性的**(infectious)**孢子**(spores)释放到下方的地面上，那里有**觅食的**(foraging)蚂蚁**行走**(tread)。",
+   "video_notes": [
+    "（push from：从……长出；where…：非限制性定语从句，修饰 the ground below）"
+   ],
+   "chunks": [
+    {
+     "en": "Two or three days later a fungal stalk pushes from its head",
+     "zh": "两三天后，一根真菌的菌柄从它头部顶出，"
+    },
+    {
+     "en": "and releases infectious spores on to the ground below,",
+     "zh": "将具有传染性的孢子释放到下方的地面上，"
+    },
+    {
+     "en": "where foraging ants tread.",
+     "zh": "那里有觅食的蚂蚁行走。"
+    }
+   ],
+   "align": [
+    [
+     "Two or three days",
+     "两三天"
+    ],
+    [
+     "later",
+     "后，"
+    ],
+    [
+     "a",
+     "一根"
+    ],
+    [
+     "fungal",
+     "真菌的"
+    ],
+    [
+     "stalk",
+     "菌柄"
+    ],
+    [
+     "pushes from its head",
+     "从它头部顶出，"
+    ],
+    [
+     "and releases",
+     "将"
+    ],
+    [
+     "infectious",
+     "具有传染性的"
+    ],
+    [
+     "spores",
+     "孢子释放"
+    ],
+    [
+     "on to",
+     "到"
+    ],
+    [
+     "the ground below,",
+     "下方的地面上，"
+    ],
+    [
+     "where",
+     "那里有"
+    ],
+    [
+     "foraging",
+     "觅食的"
+    ],
+    [
+     "ants",
+     "蚂蚁"
+    ],
+    [
+     "tread.",
+     "行走。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "en": "The invader, Ophiocordyceps unilateralis, is fussy about location.",
+   "zh": "这个入侵者，也就是偏侧蛇虫草菌，对位置很挑剔。",
+   "en_markup": "The **invader**, Ophiocordyceps unilateralis, is **fussy** about **location**.",
+   "zh_markup": "这个**入侵者**(invader)，也就是偏侧蛇虫草菌，对**位置**(location)很**挑剔**(fussy)。",
+   "video_notes": [
+    "（Ophiocordyceps unilateralis：同位语，即 the invader；be fussy about：对……挑剔）"
+   ],
+   "chunks": [
+    {
+     "en": "The invader, Ophiocordyceps unilateralis,",
+     "zh": "这个入侵者，也就是偏侧蛇虫草菌，"
+    },
+    {
+     "en": "is fussy about location.",
+     "zh": "对位置很挑剔。"
+    }
+   ],
+   "align": [
+    [
+     "The invader,",
+     "这个入侵者，"
+    ],
+    [
+     "Ophiocordyceps unilateralis,",
+     "也就是偏侧蛇虫草菌，"
+    ],
+    [
+     "is fussy about location.",
+     "对位置很挑剔。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "David Hughes and colleagues found the bites mostly on the north-west side of plants, where the air is humid and the temperature suits the fungus.",
+   "zh": "戴维·休斯和同事发现，这些咬合点大多在植物的西北侧，那里空气潮湿，且温度适宜真菌。",
+   "en_markup": "David Hughes and colleagues found the **bites** mostly on the **north-west** side of plants, where the air is **humid** and the temperature suits the fungus.",
+   "zh_markup": "戴维·休斯和同事发现，这些**咬合点**(bites)大多在植物的**西北**(north-west)侧，那里空气**潮湿**(humid)，且温度适宜真菌。",
+   "video_notes": [
+    "（find A on B：发现A在B上；where…：非限制性定语从句，修饰 the north-west side of plants）"
+   ],
+   "chunks": [
+    {
+     "en": "David Hughes and colleagues found",
+     "zh": "戴维·休斯和同事发现，"
+    },
+    {
+     "en": "the bites mostly on the north-west side of plants,",
+     "zh": "这些咬合点大多在植物的西北侧，"
+    },
+    {
+     "en": "where the air is humid and the temperature suits the fungus.",
+     "zh": "那里空气潮湿，且温度适宜真菌。"
+    }
+   ],
+   "align": [
+    [
+     "David Hughes",
+     "戴维·休斯"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "colleagues",
+     "同事"
+    ],
+    [
+     "found",
+     "发现，"
+    ],
+    [
+     "the bites",
+     "这些咬合点"
+    ],
+    [
+     "mostly",
+     "大多"
+    ],
+    [
+     "on",
+     "在"
+    ],
+    [
+     "the north-west side of plants,",
+     "植物的西北侧，"
+    ],
+    [
+     "where",
+     "那里"
+    ],
+    [
+     "the air",
+     "空气"
+    ],
+    [
+     "is humid",
+     "潮湿，"
+    ],
+    [
+     "and",
+     "且"
+    ],
+    [
+     "the temperature",
+     "温度"
+    ],
+    [
+     "suits",
+     "适宜"
+    ],
+    [
+     "the fungus.",
+     "真菌。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "When researchers moved infected ants higher, the fungus grew abnormally.",
+   "zh": "研究人员把受感染的蚂蚁移到更高处时，真菌长得很反常。",
+   "en_markup": "When researchers moved infected ants higher, the fungus grew **abnormally**.",
+   "zh_markup": "研究人员把受感染的蚂蚁移到更高处时，真菌长得很**反常**(abnormally)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "When researchers moved infected ants higher,",
+     "zh": "研究人员把受感染的蚂蚁移到更高处时，"
+    },
+    {
+     "en": "the fungus grew abnormally.",
+     "zh": "真菌长得很反常。"
+    }
+   ],
+   "align": [
+    [
+     "When researchers moved infected ants higher,",
+     "研究人员把受感染的蚂蚁移到更高处时，"
+    ],
+    [
+     "the fungus",
+     "真菌"
+    ],
+    [
+     "grew abnormally.",
+     "长得很反常。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "Placed on the ground, the bodies disappeared.",
+   "zh": "放在地面上，尸体则不见了。",
+   "en_markup": "Placed on the ground, the bodies **disappeared**.",
+   "zh_markup": "放在地面上，尸体则**不见了**(disappeared)。",
+   "video_notes": [
+    "（Placed…：过去分词短语作状语，= When they were placed on the ground）"
+   ],
+   "chunks": [
+    {
+     "en": "Placed on the ground, the bodies disappeared.",
+     "zh": "放在地面上，尸体则不见了。"
+    }
+   ],
+   "align": [
+    [
+     "Placed",
+     "放"
+    ],
+    [
+     "on the ground,",
+     "在地面上，"
+    ],
+    [
+     "the bodies",
+     "尸体则"
+    ],
+    [
+     "disappeared.",
+     "不见了。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "In 2017 a Penn State team examined infected ants with three-dimensional microscope imaging.",
+   "zh": "2017年，宾夕法尼亚州立大学的一个团队检查了受感染的蚂蚁，用的是三维显微镜成像。",
+   "en_markup": "In 2017 a Penn State team examined infected ants with **three-dimensional** **microscope** **imaging**.",
+   "zh_markup": "2017年，宾夕法尼亚州立大学的一个团队检查了受感染的蚂蚁，用的是**三维**(three-dimensional)**显微镜**(microscope)**成像**(imaging)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "In 2017 a Penn State team examined infected ants",
+     "zh": "2017年，宾夕法尼亚州立大学的一个团队检查了受感染的蚂蚁，"
+    },
+    {
+     "en": "with three-dimensional microscope imaging.",
+     "zh": "用的是三维显微镜成像。"
+    }
+   ],
+   "align": [
+    [
+     "In 2017",
+     "2017年，"
+    ],
+    [
+     "a Penn State team",
+     "宾夕法尼亚州立大学的一个团队"
+    ],
+    [
+     "examined",
+     "检查了"
+    ],
+    [
+     "infected ants",
+     "受感染的蚂蚁，"
+    ],
+    [
+     "with",
+     "用的是"
+    ],
+    [
+     "three-dimensional",
+     "三维"
+    ],
+    [
+     "microscope",
+     "显微镜"
+    ],
+    [
+     "imaging.",
+     "成像。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "Fungal cells had formed an intertwined lattice around muscle fibres in the legs and jaw, a picture that evokes the strings of a puppet.",
+   "zh": "真菌细胞形成了相互交织的网格，围在腿部和颚部的肌肉纤维周围，一幅使人想起木偶的提线的画面。",
+   "en_markup": "Fungal cells had formed an **intertwined** **lattice** around **muscle fibres** in the legs and jaw, a picture that **evokes** the strings of a **puppet**.",
+   "zh_markup": "真菌细胞形成了**相互交织的**(intertwined)**网格**(lattice)，围在腿部和颚部的**肌肉纤维**(muscle fibres)周围，一幅**使人想起**(evokes)**木偶**(puppet)的提线的画面。",
+   "video_notes": [
+    "（a picture that…：同位语，概括前面描述的景象；that 引导定语从句，修饰 picture）"
+   ],
+   "chunks": [
+    {
+     "en": "Fungal cells had formed an intertwined lattice",
+     "zh": "真菌细胞形成了相互交织的网格，"
+    },
+    {
+     "en": "around muscle fibres in the legs and jaw,",
+     "zh": "围在腿部和颚部的肌肉纤维周围，"
+    },
+    {
+     "en": "a picture that evokes the strings of a puppet.",
+     "zh": "一幅使人想起木偶的提线的画面。"
+    }
+   ],
+   "align": [
+    [
+     "Fungal",
+     "真菌"
+    ],
+    [
+     "cells",
+     "细胞"
+    ],
+    [
+     "had formed",
+     "形成了"
+    ],
+    [
+     "an intertwined",
+     "相互交织的"
+    ],
+    [
+     "lattice",
+     "网格，"
+    ],
+    [
+     "around muscle fibres in the legs and jaw,",
+     "围在腿部和颚部的肌肉纤维周围，"
+    ],
+    [
+     "a picture that evokes",
+     "一幅使人想起"
+    ],
+    [
+     "the strings of a puppet.",
+     "木偶的提线的画面。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "Yet the fungus had not infiltrated the brain.",
+   "zh": "不过，真菌尚未渗入大脑。",
+   "en_markup": "Yet the fungus had not **infiltrated** the brain.",
+   "zh_markup": "不过，真菌尚未**渗入**(infiltrated)大脑。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Yet the fungus had not infiltrated the brain.",
+     "zh": "不过，真菌尚未渗入大脑。"
+    }
+   ],
+   "align": [
+    [
+     "Yet",
+     "不过，"
+    ],
+    [
+     "the fungus",
+     "真菌"
+    ],
+    [
+     "had not",
+     "尚未"
+    ],
+    [
+     "infiltrated",
+     "渗入"
+    ],
+    [
+     "the brain.",
+     "大脑。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 5,
+   "en": "A Planet Earth episode, with David Attenborough's narration, showed one such ant.",
+   "zh": "《地球脉动》的一集，伴随着戴维·阿滕伯勒的解说，就展示了这样一只蚂蚁。",
+   "en_markup": "A Planet Earth **episode**, with David Attenborough's **narration**, showed one such ant.",
+   "zh_markup": "《地球脉动》的**一集**(episode)，伴随着戴维·阿滕伯勒的**解说**(narration)，就展示了这样一只蚂蚁。",
+   "video_notes": [
+    "（with David Attenborough's narration：插入语，补充说明这一集）"
+   ],
+   "chunks": [
+    {
+     "en": "A Planet Earth episode, with David Attenborough's narration,",
+     "zh": "《地球脉动》的一集，伴随着戴维·阿滕伯勒的解说，"
+    },
+    {
+     "en": "showed one such ant.",
+     "zh": "就展示了这样一只蚂蚁。"
+    }
+   ],
+   "align": [
+    [
+     "A Planet Earth episode,",
+     "《地球脉动》的一集，"
+    ],
+    [
+     "with",
+     "伴随着"
+    ],
+    [
+     "David Attenborough's",
+     "戴维·阿滕伯勒的"
+    ],
+    [
+     "narration,",
+     "解说，"
+    ],
+    [
+     "showed",
+     "就展示了"
+    ],
+    [
+     "one such ant.",
+     "这样一只蚂蚁。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "It helped inspire The Last of Us, a 2013 video game whose makers envisioned the parasite jumping to humans.",
+   "zh": "它帮助启发了2013年的电子游戏《最后生还者》，游戏的制作者们设想这种寄生菌跳到了人类身上。",
+   "en_markup": "It helped **inspire** The Last of Us, a 2013 video game whose **makers** **envisioned** the **parasite** jumping to humans.",
+   "zh_markup": "它帮助**启发了**(inspire)2013年的电子游戏《最后生还者》，游戏的**制作者**(makers)们**设想**(envisioned)这种**寄生菌**(parasite)跳到了人类身上。",
+   "video_notes": [
+    "（help (to) do：帮助做……，to 可省；whose…：定语从句，修饰 a 2013 video game；envision sb/sth doing：设想……做某事）（parasite：泛指寄生生物，包括寄生虫、寄生菌和寄生植物；本文特指寄生真菌，所以译为寄生菌。）"
+   ],
+   "chunks": [
+    {
+     "en": "It helped inspire The Last of Us, a 2013 video game",
+     "zh": "它帮助启发了2013年的电子游戏《最后生还者》，"
+    },
+    {
+     "en": "whose makers envisioned the parasite jumping to humans.",
+     "zh": "游戏的制作者们设想这种寄生菌跳到了人类身上。"
+    }
+   ],
+   "align": [
+    [
+     "It",
+     "它"
+    ],
+    [
+     "helped inspire",
+     "帮助启发了"
+    ],
+    [
+     "The Last of Us, a 2013 video game",
+     "2013年的电子游戏《最后生还者》，"
+    ],
+    [
+     "whose makers",
+     "游戏的制作者们"
+    ],
+    [
+     "envisioned",
+     "设想"
+    ],
+    [
+     "the parasite",
+     "这种寄生菌"
+    ],
+    [
+     "jumping to",
+     "跳到了"
+    ],
+    [
+     "humans.",
+     "人类身上。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "The hypothetical scenario gave gamers a fictional nightmare.",
+   "zh": "这个假想的情景给玩家带来了一场虚构的噩梦。",
+   "en_markup": "The **hypothetical** **scenario** gave **gamers** a **fictional** nightmare.",
+   "zh_markup": "这个**假想的**(hypothetical)**情景**(scenario)给**玩家**(gamers)带来了一场**虚构的**(fictional)噩梦。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The hypothetical scenario gave gamers a fictional nightmare.",
+     "zh": "这个假想的情景给玩家带来了一场虚构的噩梦。"
+    }
+   ],
+   "align": [
+    [
+     "The",
+     "这个"
+    ],
+    [
+     "hypothetical",
+     "假想的"
+    ],
+    [
+     "scenario",
+     "情景"
+    ],
+    [
+     "gave gamers",
+     "给玩家带来了"
+    ],
+    [
+     "a",
+     "一场"
+    ],
+    [
+     "fictional",
+     "虚构的"
+    ],
+    [
+     "nightmare.",
+     "噩梦。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 6,
+   "en": "The real parasite's roots run far deeper, into the geological record.",
+   "zh": "现实中的寄生菌，其根源要深得多，一直延伸到地质记录之中。",
+   "en_markup": "The real **parasite**'s roots run far deeper, into the **geological** record.",
+   "zh_markup": "现实中的**寄生菌**(parasite)，其根源要深得多，一直延伸到**地质**(geological)记录之中。",
+   "video_notes": [
+    "（roots run deep：根源深远；far + 比较级：……得多）"
+   ],
+   "chunks": [
+    {
+     "en": "The real parasite's roots run far deeper,",
+     "zh": "现实中的寄生菌，其根源要深得多，"
+    },
+    {
+     "en": "into the geological record.",
+     "zh": "一直延伸到地质记录之中。"
+    }
+   ],
+   "align": [
+    [
+     "The real",
+     "现实中的"
+    ],
+    [
+     "parasite's",
+     "寄生菌，"
+    ],
+    [
+     "roots",
+     "其根源"
+    ],
+    [
+     "run far deeper,",
+     "要深得多，"
+    ],
+    [
+     "into",
+     "一直延伸到"
+    ],
+    [
+     "the geological",
+     "地质"
+    ],
+    [
+     "record.",
+     "记录之中。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 6,
+   "en": "A 48-million-year-old fossil leaf from Messel, in Germany, bears the same characteristic bite scars.",
+   "zh": "一片4800万年前的叶子化石，出土于德国梅塞尔，上面带有同样典型的咬合疤痕。",
+   "en_markup": "A 48-million-year-old **fossil** leaf from Messel, in Germany, bears the same **characteristic** bite **scars**.",
+   "zh_markup": "一片4800万年前的叶子**化石**(fossil)，出土于德国梅塞尔，上面带有同样**典型的**(characteristic)咬合**疤痕**(scars)。",
+   "video_notes": [
+    "（bear：带有（痕迹、标记）；48-million-year-old：复合形容词，4800万年前的）"
+   ],
+   "chunks": [
+    {
+     "en": "A 48-million-year-old fossil leaf from Messel, in Germany,",
+     "zh": "一片4800万年前的叶子化石，出土于德国梅塞尔，"
+    },
+    {
+     "en": "bears the same characteristic bite scars.",
+     "zh": "上面带有同样典型的咬合疤痕。"
+    }
+   ],
+   "align": [
+    [
+     "A",
+     "一片"
+    ],
+    [
+     "48-million-year-old",
+     "4800万年前的"
+    ],
+    [
+     "fossil leaf",
+     "叶子化石，"
+    ],
+    [
+     "from Messel, in Germany,",
+     "出土于德国梅塞尔，"
+    ],
+    [
+     "bears",
+     "上面带有"
+    ],
+    [
+     "the same",
+     "同样"
+    ],
+    [
+     "characteristic",
+     "典型的"
+    ],
+    [
+     "bite",
+     "咬合"
+    ],
+    [
+     "scars.",
+     "疤痕。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "rainforest",
+   "zh_video": "雨林",
+   "headword": "rainforest",
+   "pos": "n.",
+   "table_definition": "本文：雨林；n. 雨林（tropical rainforest）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "carpenter",
+   "zh_video": "木匠",
+   "headword": "carpenter",
+   "pos": "n.",
+   "table_definition": "本文：木匠；n. 木匠（carpenter ant 木匠蚁；a skilled carpenter）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "colony",
+   "zh_video": "群",
+   "headword": "colony",
+   "pos": "n.",
+   "table_definition": "本文：群；n. （蚂蚁等的）群体；殖民地（an ant colony）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 1,
+   "en": "column",
+   "zh_video": "队列",
+   "headword": "column",
+   "pos": "n.",
+   "table_definition": "本文：队列；n. 纵队，队列；柱子（a column of soldiers/ants）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 1,
+   "en": "lofty",
+   "zh_video": "高耸的",
+   "headword": "lofty",
+   "pos": "adj.",
+   "table_definition": "本文：高耸的；adj. 高耸的；崇高的（lofty mountains；lofty ideals）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 1,
+   "en": "canopy",
+   "zh_video": "树冠",
+   "headword": "canopy",
+   "pos": "n.",
+   "table_definition": "本文：树冠；n. 树冠层；顶篷（the forest canopy）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "swaying",
+   "zh_video": "摇摇晃晃",
+   "headword": "sway",
+   "pos": "v.",
+   "table_definition": "本文：摇摇晃晃；v. (sway) 摇摆（trees swaying in the wind）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "unsteady",
+   "zh_video": "不稳",
+   "headword": "unsteady",
+   "pos": "adj.",
+   "table_definition": "本文：不稳；adj. 不稳的（unsteady on one's feet）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 2,
+   "en": "wanders",
+   "zh_video": "游荡",
+   "headword": "wander",
+   "pos": "v.",
+   "table_definition": "本文：游荡；v. (wander) 闲逛，游荡（wander around town）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 2,
+   "en": "downward",
+   "zh_video": "向下",
+   "headword": "downward",
+   "pos": "adv.",
+   "table_definition": "本文：向下；adv./adj. 向下（slope downward）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 2,
+   "en": "as if",
+   "zh_video": "好像",
+   "headword": "as if",
+   "pos": "连词短语",
+   "table_definition": "本文：好像；短语. 好像，仿佛（He acted as if nothing had happened）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 2,
+   "en": "intoxicated",
+   "zh_video": "喝醉了",
+   "headword": "intoxicated",
+   "pos": "adj.",
+   "table_definition": "本文：喝醉了；adj. 喝醉的；陶醉的（intoxicated drivers）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 2,
+   "en": "leafy",
+   "zh_video": "枝叶茂密的",
+   "headword": "leafy",
+   "pos": "adj.",
+   "table_definition": "本文：枝叶茂密的；adj. 枝叶茂密的（a leafy suburb）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": 2,
+   "en": "undergrowth",
+   "zh_video": "林下植被",
+   "headword": "undergrowth",
+   "pos": "n.",
+   "table_definition": "本文：林下植被；n. 林下灌丛（thick undergrowth）"
+  },
+  {
+   "id": 15,
+   "para": 1,
+   "sentence": 3,
+   "en": "midday",
+   "zh_video": "正午",
+   "headword": "midday",
+   "pos": "n.",
+   "table_definition": "本文：正午；n. 正午（the midday sun）"
+  },
+  {
+   "id": 16,
+   "para": 1,
+   "sentence": 3,
+   "en": "clenches",
+   "zh_video": "紧咬",
+   "headword": "clench",
+   "pos": "v.",
+   "table_definition": "本文：紧咬；v. (clench) 咬紧，攥紧（clench one's teeth/fist）"
+  },
+  {
+   "id": 17,
+   "para": 1,
+   "sentence": 3,
+   "en": "jaws",
+   "zh_video": "双颚",
+   "headword": "jaw",
+   "pos": "n.",
+   "table_definition": "本文：双颚；n. (jaw) 颚，下巴（a broken jaw）"
+  },
+  {
+   "id": 18,
+   "para": 1,
+   "sentence": 3,
+   "en": "vein",
+   "zh_video": "叶脉",
+   "headword": "vein",
+   "pos": "n.",
+   "table_definition": "本文：叶脉；n. 叶脉；静脉（the veins of a leaf）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 4,
+   "en": "dusk",
+   "zh_video": "黄昏",
+   "headword": "dusk",
+   "pos": "n.",
+   "table_definition": "本文：黄昏；n. 黄昏（at dusk）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 4,
+   "en": "lifeless",
+   "zh_video": "无生命",
+   "headword": "lifeless",
+   "pos": "adj.",
+   "table_definition": "本文：无生命；adj. 无生命的，死的（a lifeless body）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 4,
+   "en": "rigidly",
+   "zh_video": "牢牢地",
+   "headword": "rigidly",
+   "pos": "adv.",
+   "table_definition": "本文：牢牢地；adv. 僵硬地，严格地（stand rigidly；rigidly controlled）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 5,
+   "en": "fungus",
+   "zh_video": "真菌",
+   "headword": "fungus",
+   "pos": "n.",
+   "table_definition": "本文：真菌；n. 真菌（a fungus）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 5,
+   "en": "muscles",
+   "zh_video": "肌肉",
+   "headword": "muscle",
+   "pos": "n.",
+   "table_definition": "本文：肌肉；n. (muscle) 肌肉（pull a muscle）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 5,
+   "en": "loosen",
+   "zh_video": "松开",
+   "headword": "loosen",
+   "pos": "v.",
+   "table_definition": "本文：松开；v. 松开（loosen one's grip/tie）"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 6,
+   "en": "fungal",
+   "zh_video": "真菌的",
+   "headword": "fungal",
+   "pos": "adj.",
+   "table_definition": "本文：真菌的；adj. 真菌的（a fungal infection）"
+  },
+  {
+   "id": 26,
+   "para": 2,
+   "sentence": 6,
+   "en": "infectious",
+   "zh_video": "具有传染性的",
+   "headword": "infectious",
+   "pos": "adj.",
+   "table_definition": "本文：具有传染性的；adj. 传染性的（an infectious disease）"
+  },
+  {
+   "id": 27,
+   "para": 2,
+   "sentence": 6,
+   "en": "spores",
+   "zh_video": "孢子",
+   "headword": "spores",
+   "pos": "n.",
+   "table_definition": "本文：孢子；n. (spore) 孢子（fungal spores）"
+  },
+  {
+   "id": 28,
+   "para": 2,
+   "sentence": 6,
+   "en": "foraging",
+   "zh_video": "觅食的",
+   "headword": "foraging",
+   "pos": "v.",
+   "table_definition": "本文：觅食的；v. (forage) 觅食；此处为现在分词作定语（foraging ants）"
+  },
+  {
+   "id": 29,
+   "para": 2,
+   "sentence": 6,
+   "en": "tread",
+   "zh_video": "行走",
+   "headword": "tread",
+   "pos": "v.",
+   "table_definition": "本文：行走；v. 踩，踏（tread on sb's toes）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 7,
+   "en": "invader",
+   "zh_video": "入侵者",
+   "headword": "invader",
+   "pos": "n.",
+   "table_definition": "本文：入侵者；n. 入侵者（foreign invaders）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 7,
+   "en": "fussy",
+   "zh_video": "挑剔",
+   "headword": "fussy",
+   "pos": "adj.",
+   "table_definition": "本文：挑剔；adj. 挑剔的（a fussy eater）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 7,
+   "en": "location",
+   "zh_video": "位置",
+   "headword": "location",
+   "pos": "n.",
+   "table_definition": "本文：位置；n. 位置，地点（an ideal location）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 8,
+   "en": "bites",
+   "zh_video": "咬合点",
+   "headword": "bite",
+   "pos": "n.",
+   "table_definition": "本文：咬合点；n. (bite) 咬，咬合点；咬伤（insect bites；take a bite）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 8,
+   "en": "north-west",
+   "zh_video": "西北",
+   "headword": "north-west",
+   "pos": "n.",
+   "table_definition": "本文：西北；n./adj. 西北（的）（the north-west coast）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 8,
+   "en": "humid",
+   "zh_video": "潮湿",
+   "headword": "humid",
+   "pos": "adj.",
+   "table_definition": "本文：潮湿；adj. 潮湿的（hot and humid）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 9,
+   "en": "abnormally",
+   "zh_video": "反常",
+   "headword": "abnormally",
+   "pos": "adv.",
+   "table_definition": "本文：反常；adv. 反常地（abnormally high）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 10,
+   "en": "disappeared",
+   "zh_video": "不见了",
+   "headword": "disappear",
+   "pos": "v.",
+   "table_definition": "本文：不见了；v. (disappear) 不见，消失（disappear without trace）"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 11,
+   "en": "three-dimensional",
+   "zh_video": "三维",
+   "headword": "three-dimensional",
+   "pos": "adj.",
+   "table_definition": "本文：三维；adj. 三维的，立体的（a three-dimensional image）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 11,
+   "en": "microscope",
+   "zh_video": "显微镜",
+   "headword": "microscope",
+   "pos": "n.",
+   "table_definition": "本文：显微镜；n. 显微镜（under a microscope）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 11,
+   "en": "imaging",
+   "zh_video": "成像",
+   "headword": "imaging",
+   "pos": "n.",
+   "table_definition": "本文：成像；n. 成像（microscope imaging）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 12,
+   "en": "intertwined",
+   "zh_video": "相互交织的",
+   "headword": "intertwined",
+   "pos": "adj.",
+   "table_definition": "本文：相互交织的；adj. 交织的（intertwined branches）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 12,
+   "en": "lattice",
+   "zh_video": "网格",
+   "headword": "lattice",
+   "pos": "n.",
+   "table_definition": "本文：网格；n. 网格，格子结构（a lattice of beams）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 12,
+   "en": "muscle fibres",
+   "zh_video": "肌肉纤维",
+   "headword": "muscle fibres",
+   "pos": "n.",
+   "table_definition": "本文：肌肉纤维；n. pl. 肌肉纤维（muscle fibre 的复数）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 12,
+   "en": "evokes",
+   "zh_video": "使人想起",
+   "headword": "evoke",
+   "pos": "v.",
+   "table_definition": "本文：使人想起；v. (evoke) 唤起，使想起（evoke memories）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 12,
+   "en": "puppet",
+   "zh_video": "木偶",
+   "headword": "puppet",
+   "pos": "n.",
+   "table_definition": "本文：木偶；n. 木偶，傀儡（a puppet show；a puppet government）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 13,
+   "en": "infiltrated",
+   "zh_video": "渗入",
+   "headword": "infiltrate",
+   "pos": "v.",
+   "table_definition": "本文：渗入；v. (infiltrate) 渗入，潜入（infiltrate an organisation）"
+  },
+  {
+   "id": 47,
+   "para": 5,
+   "sentence": 14,
+   "en": "episode",
+   "zh_video": "一集",
+   "headword": "episode",
+   "pos": "n.",
+   "table_definition": "本文：一集；n. （电视剧、纪录片等的）一集（a Planet Earth episode）"
+  },
+  {
+   "id": 48,
+   "para": 5,
+   "sentence": 14,
+   "en": "narration",
+   "zh_video": "解说",
+   "headword": "narration",
+   "pos": "n.",
+   "table_definition": "本文：解说；n. 解说，旁白（a documentary with narration by…）"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 15,
+   "en": "inspire",
+   "zh_video": "启发了",
+   "headword": "inspire",
+   "pos": "v.",
+   "table_definition": "本文：启发了；v. 启发，激励（inspire a novel/sb）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "makers",
+   "zh_video": "制作者",
+   "headword": "maker",
+   "pos": "n.",
+   "table_definition": "本文：制作者；n. (maker) 制作者（film makers）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 15,
+   "en": "envisioned",
+   "zh_video": "设想",
+   "headword": "envision",
+   "pos": "v.",
+   "table_definition": "本文：设想；v. (envision) 设想（envision a better future）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 15,
+   "en": "parasite",
+   "zh_video": "寄生菌",
+   "headword": "parasite",
+   "pos": "n.",
+   "table_definition": "本文：寄生菌；n. 寄生生物，包括寄生虫、寄生菌和寄生植物；本文特指寄生真菌"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 16,
+   "en": "hypothetical",
+   "zh_video": "假想的",
+   "headword": "hypothetical",
+   "pos": "adj.",
+   "table_definition": "本文：假想的；adj. 假设的（a hypothetical question）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 16,
+   "en": "scenario",
+   "zh_video": "情景",
+   "headword": "scenario",
+   "pos": "n.",
+   "table_definition": "本文：情景；n. 设想的情景（a worst-case scenario）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 16,
+   "en": "gamers",
+   "zh_video": "玩家",
+   "headword": "gamer",
+   "pos": "n.",
+   "table_definition": "本文：玩家；n. (gamer) 电子游戏玩家（online gamers）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 16,
+   "en": "fictional",
+   "zh_video": "虚构的",
+   "headword": "fictional",
+   "pos": "adj.",
+   "table_definition": "本文：虚构的；adj. 虚构的（a fictional character）"
+  },
+  {
+   "id": 57,
+   "para": 6,
+   "sentence": 17,
+   "en": "geological",
+   "zh_video": "地质",
+   "headword": "geological",
+   "pos": "adj.",
+   "table_definition": "本文：地质；adj. 地质的（geological time/survey）"
+  },
+  {
+   "id": 58,
+   "para": 6,
+   "sentence": 18,
+   "en": "fossil",
+   "zh_video": "化石",
+   "headword": "fossil",
+   "pos": "n.",
+   "table_definition": "本文：化石；n. 化石（fossil fuels；a dinosaur fossil）"
+  },
+  {
+   "id": 59,
+   "para": 6,
+   "sentence": 18,
+   "en": "characteristic",
+   "zh_video": "典型的",
+   "headword": "characteristic",
+   "pos": "adj.",
+   "table_definition": "本文：典型的；adj. 典型的，独特的（a characteristic feature）"
+  },
+  {
+   "id": 60,
+   "para": 6,
+   "sentence": 18,
+   "en": "scars",
+   "zh_video": "疤痕",
+   "headword": "scar",
+   "pos": "n.",
+   "table_definition": "本文：疤痕；n. (scar) 疤痕（leave a scar）"
+  }
+ ]
+}

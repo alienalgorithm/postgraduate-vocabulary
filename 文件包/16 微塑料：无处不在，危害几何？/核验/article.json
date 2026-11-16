@@ -1,0 +1,1376 @@
+{
+ "no": "16",
+ "title_en": "Microplastics: Everywhere, but How Harmful?",
+ "title_zh": "微塑料：无处不在，危害几何？",
+ "source_id": "50",
+ "source_hashes": {
+  "JSON": "26bb24c876b1da903c55594870efe99a82b39d3ad03026d2b2d055ab422a0c07",
+  "GEN": "26bb24c876b1da903c55594870efe99a82b39d3ad03026d2b2d055ab422a0c07",
+  "MD": "5439589bacf1abb2abbb184eb658492bc02bcc5bdd8dfd8ababcd80ab93621cb",
+  "illustration": "4e062648569b75a94d41fa27d4c866ebafde26de550f7585e969edf3d86ac8ff"
+ },
+ "summary": [
+  [
+   "来历",
+   "2004年，汤普森团队发现海洋样本中微小塑料碎片和合成纤维增多，▹称其为微塑料。如今从深海到北极都能找到它们。"
+  ],
+  [
+   "检出",
+   "2022年一项小研究在22名健康献血者中，约四分之三的人血中检出塑料。检出颗粒，不能直接证明它已造成疾病。"
+  ],
+  [
+   "风险",
+   "2024年研究发现，颈部血管内脂肪沉积物含塑料的患者，▹心梗、中风或死亡风险更高；但这只是关联，尚不能证明塑料就是病因。"
+  ],
+  [
+   "争议",
+   "每周吞下“一张信用卡”塑料的估算被批高估；2025年脑组织研究被媒体换算为“一勺”，▹这是含量估算，不能当作人人脑内的确定含量，测量方法也受质疑。"
+  ],
+  [
+   "判断",
+   "世卫2019年据有限证据，认为饮水微塑料在当时含量下无明显风险。▹这不等于所有接触都无害；对人体的危害仍需更可靠的研究确认。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "In May 2004 Richard Thompson, a marine biologist at the University of Plymouth, and colleagues described an overlooked pollutant in the journal Science.",
+   "zh": "2004年5月，理查德·汤普森，一位海洋的生物学家，任职于普利茅斯大学，在《科学》杂志上，他和同事们描述了一种被忽视的污染物。",
+   "en_markup": "In May 2004 Richard Thompson, a **marine** **biologist** at the University of Plymouth, and colleagues described an overlooked **pollutant** in the journal Science.",
+   "zh_markup": "2004年5月，理查德·汤普森，一位**海洋的**(marine)**生物学家**(biologist)，任职于普利茅斯大学，在《科学》杂志上，他和同事们描述了一种被忽视的**污染物**(pollutant)。",
+   "video_notes": [
+    "（a marine biologist at the University of Plymouth：同位语，补充说明 Richard Thompson）",
+    "（overlooked：被忽视的，此前少有人注意的）"
+   ],
+   "chunks": [
+    {
+     "en": "In May 2004 Richard Thompson, a marine biologist at the University of Plymouth,",
+     "zh": "2004年5月，理查德·汤普森，一位海洋的生物学家，任职于普利茅斯大学，"
+    },
+    {
+     "en": "and colleagues described an overlooked pollutant in the journal Science.",
+     "zh": "在《科学》杂志上，他和同事们描述了一种被忽视的污染物。"
+    }
+   ],
+   "align": [
+    [
+     "In May 2004",
+     "2004年5月，"
+    ],
+    [
+     "Richard Thompson,",
+     "理查德·汤普森，"
+    ],
+    [
+     "a marine",
+     "一位海洋的"
+    ],
+    [
+     "biologist",
+     "生物学家，"
+    ],
+    [
+     "at the University of Plymouth,",
+     "任职于普利茅斯大学，"
+    ],
+    [
+     "and colleagues described an overlooked pollutant in the journal Science.",
+     "在《科学》杂志上，他和同事们描述了一种被忽视的污染物。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "Sifting through plankton samples kept since the 1960s, they found that microscopic plastic fragments and synthetic fibres had grown more abundant.",
+   "zh": "细细筛查自20世纪60年代起保存下来的浮游生物样本，他们发现，极其微小的塑料碎片和合成纤维变得越来越多。",
+   "en_markup": "**Sifting through** **plankton** samples kept since the 1960s, they found that **microscopic** plastic **fragments** and **synthetic** **fibres** had grown more **abundant**.",
+   "zh_markup": "**细细筛查**(Sifting through)自20世纪60年代起保存下来的**浮游生物**(plankton)样本，他们发现，**极其微小的**(microscopic)塑料**碎片**(fragments)和**合成**(synthetic)**纤维**(fibres)变得越来越**多**(abundant)。",
+   "video_notes": [
+    "（Sifting through…：现在分词短语作状语，逻辑主语是 they；kept since the 1960s：过去分词短语作后置定语，修饰 samples）",
+    "（grow＋形容词：变得……）"
+   ],
+   "chunks": [
+    {
+     "en": "Sifting through plankton samples kept since the 1960s,",
+     "zh": "细细筛查自20世纪60年代起保存下来的浮游生物样本，"
+    },
+    {
+     "en": "they found that microscopic plastic fragments and synthetic fibres had grown more abundant.",
+     "zh": "他们发现，极其微小的塑料碎片和合成纤维变得越来越多。"
+    }
+   ],
+   "align": [
+    [
+     "Sifting through",
+     "细细筛查"
+    ],
+    [
+     "plankton samples kept since the 1960s,",
+     "自20世纪60年代起保存下来的浮游生物样本，"
+    ],
+    [
+     "they found that",
+     "他们发现，"
+    ],
+    [
+     "microscopic",
+     "极其微小的"
+    ],
+    [
+     "plastic",
+     "塑料"
+    ],
+    [
+     "fragments",
+     "碎片"
+    ],
+    [
+     "and synthetic",
+     "和合成"
+    ],
+    [
+     "fibres",
+     "纤维"
+    ],
+    [
+     "had grown",
+     "变得"
+    ],
+    [
+     "more abundant.",
+     "越来越多。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "They labelled the particles microplastics.",
+   "zh": "他们把这些颗粒称为微塑料。",
+   "en_markup": "They **labelled** the **particles** microplastics.",
+   "zh_markup": "他们**把**(labelled)这些**颗粒**(particles)**称为**(labelled)微塑料。",
+   "video_notes": [
+    "（label A B：把 A 称为 B）"
+   ],
+   "chunks": [
+    {
+     "en": "They labelled the particles microplastics.",
+     "zh": "他们把这些颗粒称为微塑料。"
+    }
+   ],
+   "align": [
+    [
+     "They",
+     "他们"
+    ],
+    [
+     "labelled",
+     "把"
+    ],
+    [
+     "the particles",
+     "这些颗粒"
+    ],
+    [
+     "microplastics.",
+     "称为微塑料。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "Since then the durable debris has proved ubiquitous, turning up on shorelines, in deep-sea sediment, in rainfall, and in Arctic ice.",
+   "zh": "此后，这些经久不烂的碎屑被证明无所不在，出现在海岸线上、深海沉积物里、雨水中，以及北极的冰层中。",
+   "en_markup": "Since then the **durable** **debris** has proved **ubiquitous**, **turning up** on **shorelines**, in deep-sea **sediment**, in **rainfall**, and in Arctic ice.",
+   "zh_markup": "此后，这些**经久不烂的**(durable)**碎屑**(debris)被证明**无所不在**(ubiquitous)，**出现**(turning up)在**海岸线**(shorelines)上、深海**沉积物**(sediment)里、**雨水**(rainfall)中，以及北极的冰层中。",
+   "video_notes": [
+    "（prove＋形容词：结果是……，事实证明……）",
+    "（turning up…：现在分词短语作状语，补充说明结果；turn up：出现）"
+   ],
+   "chunks": [
+    {
+     "en": "Since then the durable debris has proved ubiquitous,",
+     "zh": "此后，这些经久不烂的碎屑被证明无所不在，"
+    },
+    {
+     "en": "turning up on shorelines, in deep-sea sediment, in rainfall, and in Arctic ice.",
+     "zh": "出现在海岸线上、深海沉积物里、雨水中，以及北极的冰层中。"
+    }
+   ],
+   "align": [
+    [
+     "Since then",
+     "此后，"
+    ],
+    [
+     "the durable",
+     "这些经久不烂的"
+    ],
+    [
+     "debris",
+     "碎屑"
+    ],
+    [
+     "has proved",
+     "被证明"
+    ],
+    [
+     "ubiquitous,",
+     "无所不在，"
+    ],
+    [
+     "turning up",
+     "出现在"
+    ],
+    [
+     "on shorelines,",
+     "海岸线上、"
+    ],
+    [
+     "in deep-sea sediment,",
+     "深海沉积物里、"
+    ],
+    [
+     "in rainfall,",
+     "雨水中，"
+    ],
+    [
+     "and in Arctic ice.",
+     "以及北极的冰层中。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "Regulation came before proof of harm to people: in December 2015 America passed a law banning plastic microbeads from scrubs and other cosmetics rinsed down drains.",
+   "zh": "监管先于人体受害的证据出现：2015年12月，美国通过了一项法律，禁止把塑料微珠用在磨砂膏等化妆品里，这类产品用后会被冲进下水道。",
+   "en_markup": "**Regulation** came before proof of harm to people: in December 2015 America **passed a law** banning plastic microbeads from **scrubs** and other **cosmetics** **rinsed down** drains.",
+   "zh_markup": "**监管**(Regulation)先于人体受害的证据出现：2015年12月，美国**通过了一项法律**(passed a law)，禁止把塑料微珠用在**磨砂膏**(scrubs)等**化妆品**(cosmetics)里，这类产品用后会被**冲进**(rinsed down)下水道。",
+   "video_notes": [
+    "（come before…：先于……到来；proof of harm to people：人体受害的证据）",
+    "（banning…：现在分词短语作后置定语，修饰 law；ban A from B：禁止在 B 中使用 A；rinsed down drains：过去分词短语作后置定语，修饰 cosmetics）"
+   ],
+   "chunks": [
+    {
+     "en": "Regulation came before proof of harm to people:",
+     "zh": "监管先于人体受害的证据出现："
+    },
+    {
+     "en": "in December 2015 America passed a law banning plastic microbeads from scrubs and other cosmetics rinsed down drains.",
+     "zh": "2015年12月，美国通过了一项法律，禁止把塑料微珠用在磨砂膏等化妆品里，这类产品用后会被冲进下水道。"
+    }
+   ],
+   "align": [
+    [
+     "Regulation",
+     "监管"
+    ],
+    [
+     "came before",
+     "先于"
+    ],
+    [
+     "proof of harm to people:",
+     "人体受害的证据出现："
+    ],
+    [
+     "in December 2015",
+     "2015年12月，"
+    ],
+    [
+     "America",
+     "美国"
+    ],
+    [
+     "passed a law",
+     "通过了一项法律，"
+    ],
+    [
+     "banning",
+     "禁止把"
+    ],
+    [
+     "plastic",
+     "塑料"
+    ],
+    [
+     "microbeads",
+     "微珠"
+    ],
+    [
+     "from scrubs",
+     "用在磨砂膏"
+    ],
+    [
+     "and other cosmetics",
+     "等化妆品里，"
+    ],
+    [
+     "rinsed down drains.",
+     "这类产品用后会被冲进下水道。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "en": "The search turned inward.",
+   "zh": "人们的搜寻随后转向了体内。",
+   "en_markup": "The search **turned inward**.",
+   "zh_markup": "人们的搜寻随后**转向了体内**(turned inward)。",
+   "video_notes": [
+    "（turn inward：转向内部，这里指转向人体内部）"
+   ],
+   "chunks": [
+    {
+     "en": "The search turned inward.",
+     "zh": "人们的搜寻随后转向了体内。"
+    }
+   ],
+   "align": [
+    [
+     "The search",
+     "人们的搜寻随后"
+    ],
+    [
+     "turned inward.",
+     "转向了体内。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "en": "In March 2022 a small Dutch study found plastic in the blood of about three-quarters of 22 healthy donors.",
+   "zh": "2022年3月，一项小规模的荷兰研究发现，22名健康献血者中，约四分之三的人血液里有塑料。",
+   "en_markup": "In March 2022 a small Dutch study found plastic in the blood of about three-quarters of 22 healthy **donors**.",
+   "zh_markup": "2022年3月，一项小规模的荷兰研究发现，22名健康**献血者**(donors)中，约四分之三的人血液里有塑料。",
+   "video_notes": [
+    "（about three-quarters of 22 healthy donors：22名健康献血者中的约四分之三，即17人）"
+   ],
+   "chunks": [
+    {
+     "en": "In March 2022 a small Dutch study found plastic in the blood of about three-quarters of 22 healthy donors.",
+     "zh": "2022年3月，一项小规模的荷兰研究发现，22名健康献血者中，约四分之三的人血液里有塑料。"
+    }
+   ],
+   "align": [
+    [
+     "In March 2022",
+     "2022年3月，"
+    ],
+    [
+     "a small",
+     "一项小规模的"
+    ],
+    [
+     "Dutch",
+     "荷兰"
+    ],
+    [
+     "study",
+     "研究"
+    ],
+    [
+     "found",
+     "发现，"
+    ],
+    [
+     "plastic in the blood of about three-quarters of 22 healthy donors.",
+     "22名健康献血者中，约四分之三的人血液里有塑料。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "In March 2024 a study in the New England Journal of Medicine linked plastic in the fatty plaque of neck arteries to a higher risk of heart attack, stroke, or death.",
+   "zh": "2024年3月，《新英格兰医学杂志》上的一项研究，将颈部动脉脂肪性斑块中的塑料，与心脏病发作、中风或死亡的更高风险联系了起来。",
+   "en_markup": "In March 2024 a study in the New England Journal of Medicine linked plastic in the **fatty** **plaque** of neck **arteries** to a higher risk of heart attack, **stroke**, or death.",
+   "zh_markup": "2024年3月，《新英格兰医学杂志》上的一项研究，将颈部**动脉**(arteries)**脂肪性**(fatty)**斑块**(plaque)中的塑料，与心脏病发作、**中风**(stroke)或死亡的更高风险联系了起来。",
+   "video_notes": [
+    "（in the New England Journal of Medicine：后置定语，修饰 study）",
+    "（link A to B：把 A 与 B 联系起来；of neck arteries：of 结构作后置定语，修饰 plaque）"
+   ],
+   "chunks": [
+    {
+     "en": "In March 2024 a study in the New England Journal of Medicine",
+     "zh": "2024年3月，《新英格兰医学杂志》上的一项研究，"
+    },
+    {
+     "en": "linked plastic in the fatty plaque of neck arteries to a higher risk of heart attack, stroke, or death.",
+     "zh": "将颈部动脉脂肪性斑块中的塑料，与心脏病发作、中风或死亡的更高风险联系了起来。"
+    }
+   ],
+   "align": [
+    [
+     "In March 2024",
+     "2024年3月，"
+    ],
+    [
+     "a study in the New England Journal of Medicine",
+     "《新英格兰医学杂志》上的一项研究，"
+    ],
+    [
+     "linked",
+     "将"
+    ],
+    [
+     "plastic in the fatty plaque of neck arteries",
+     "颈部动脉脂肪性斑块中的塑料，"
+    ],
+    [
+     "to a higher risk of",
+     "与"
+    ],
+    [
+     "heart",
+     "心脏病"
+    ],
+    [
+     "attack,",
+     "发作、"
+    ],
+    [
+     "stroke,",
+     "中风"
+    ],
+    [
+     "or death.",
+     "或死亡的更高风险联系了起来。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Its authors cautioned that correlation is not causation.",
+   "zh": "该研究的作者警告称，相关性并不等于因果关系。",
+   "en_markup": "Its authors **cautioned** that **correlation** is not **causation**.",
+   "zh_markup": "该研究的作者**警告**(cautioned)称，**相关性**(correlation)并不等于**因果关系**(causation)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Its authors cautioned that correlation is not causation.",
+     "zh": "该研究的作者警告称，相关性并不等于因果关系。"
+    }
+   ],
+   "align": [
+    [
+     "Its authors",
+     "该研究的作者"
+    ],
+    [
+     "cautioned",
+     "警告"
+    ],
+    [
+     "that",
+     "称，"
+    ],
+    [
+     "correlation",
+     "相关性"
+    ],
+    [
+     "is not",
+     "并不等于"
+    ],
+    [
+     "causation.",
+     "因果关系。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 4,
+   "en": "The most sensational figures are the shakiest.",
+   "zh": "最耸人听闻的数字，就是最不可靠的。",
+   "en_markup": "The most **sensational** figures are the **shakiest**.",
+   "zh_markup": "最**耸人听闻的**(sensational)数字，就是**最不可靠的**(shakiest)。",
+   "video_notes": [
+    "（the shakiest：shaky 的最高级，最不可靠的）"
+   ],
+   "chunks": [
+    {
+     "en": "The most sensational figures are the shakiest.",
+     "zh": "最耸人听闻的数字，就是最不可靠的。"
+    }
+   ],
+   "align": [
+    [
+     "The most sensational",
+     "最耸人听闻的"
+    ],
+    [
+     "figures",
+     "数字，"
+    ],
+    [
+     "are the",
+     "就是"
+    ],
+    [
+     "shakiest.",
+     "最不可靠的。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "In June 2019 a report for WWF, a conservation group, reckoned people might swallow a credit card's worth of plastic a week; critics call that an overestimate.",
+   "zh": "2019年6月，一份和自然保护组织 WWF 有关的报告估算，人们每周可能吞下相当于一张信用卡分量的塑料；批评者称其高估了。",
+   "en_markup": "In June 2019 a report for WWF, a **conservation** group, **reckoned** people might **swallow** a credit card's worth of plastic a week; critics call that an **overestimate**.",
+   "zh_markup": "2019年6月，一份和**自然保护**(conservation)组织 WWF 有关的报告**估算**(reckoned)，人们每周可能**吞下**(swallow)相当于一张信用卡分量的塑料；批评者称其**高估了**(overestimate)。",
+   "video_notes": [
+    "（WWF：世界自然基金会）",
+    "（a credit card's worth of…：相当于一张信用卡（重量）的……）",
+    "（call A B：把 A 称作 B）"
+   ],
+   "chunks": [
+    {
+     "en": "In June 2019 a report for WWF, a conservation group, reckoned",
+     "zh": "2019年6月，一份和自然保护组织 WWF 有关的报告估算，"
+    },
+    {
+     "en": "people might swallow a credit card's worth of plastic a week;",
+     "zh": "人们每周可能吞下相当于一张信用卡分量的塑料；"
+    },
+    {
+     "en": "critics call that an overestimate.",
+     "zh": "批评者称其高估了。"
+    }
+   ],
+   "align": [
+    [
+     "In June 2019",
+     "2019年6月，"
+    ],
+    [
+     "a report for WWF, a conservation group,",
+     "一份和自然保护组织 WWF 有关的报告"
+    ],
+    [
+     "reckoned",
+     "估算，"
+    ],
+    [
+     "people",
+     "人们"
+    ],
+    [
+     "might swallow",
+     "每周可能吞下"
+    ],
+    [
+     "a credit card's worth of plastic a week;",
+     "相当于一张信用卡分量的塑料；"
+    ],
+    [
+     "critics",
+     "批评者"
+    ],
+    [
+     "call that",
+     "称其"
+    ],
+    [
+     "an overestimate.",
+     "高估了。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "Two months later the World Health Organization was reassuring but tentative: on limited evidence, microplastics in drinking water posed no apparent risk at current levels.",
+   "zh": "两个月后，世界卫生组织的表态令人安心，但只是试探性的：基于有限的证据，饮用水中的微塑料，按照当前的含量，并未构成明显风险。",
+   "en_markup": "Two months later the World Health Organization was **reassuring** but **tentative**: on limited evidence, microplastics in drinking water posed no **apparent** risk at current levels.",
+   "zh_markup": "两个月后，世界卫生组织的表态**令人安心**(reassuring)，但只是**试探性的**(tentative)：基于有限的证据，饮用水中的微塑料，按照当前的含量，并未构成**明显**(apparent)风险。",
+   "video_notes": [
+    "（on limited evidence：依据有限的证据；pose a risk：构成风险）"
+   ],
+   "chunks": [
+    {
+     "en": "Two months later the World Health Organization was reassuring but tentative:",
+     "zh": "两个月后，世界卫生组织的表态令人安心，但只是试探性的："
+    },
+    {
+     "en": "on limited evidence, microplastics in drinking water posed no apparent risk at current levels.",
+     "zh": "基于有限的证据，饮用水中的微塑料，按照当前的含量，并未构成明显风险。"
+    }
+   ],
+   "align": [
+    [
+     "Two months",
+     "两个月"
+    ],
+    [
+     "later",
+     "后，"
+    ],
+    [
+     "the World Health Organization",
+     "世界卫生组织的表态"
+    ],
+    [
+     "was reassuring",
+     "令人安心，"
+    ],
+    [
+     "but tentative:",
+     "但只是试探性的："
+    ],
+    [
+     "on",
+     "基于"
+    ],
+    [
+     "limited",
+     "有限的"
+    ],
+    [
+     "evidence,",
+     "证据，"
+    ],
+    [
+     "microplastics in drinking water",
+     "饮用水中的微塑料，"
+    ],
+    [
+     "posed no apparent risk at current levels.",
+     "按照当前的含量，并未构成明显风险。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "In February 2025 a study in Nature Medicine reported plastic in brain tissue in an amount popularised as a spoonful; others queried its methodology.",
+   "zh": "2025年2月，《自然·医学》上的一项研究报告了脑组织中的塑料，其含量被大众传作“一勺”；其他人则质疑了其研究方法。",
+   "en_markup": "In February 2025 a study in Nature Medicine reported plastic in brain **tissue** in an amount **popularised as** a **spoonful**; others **queried** its **methodology**.",
+   "zh_markup": "2025年2月，《自然·医学》上的一项研究报告了脑**组织**(tissue)中的塑料，其含量**被大众传作**(popularised as)“**一勺**(spoonful)”；其他人则**质疑了**(queried)其**研究方法**(methodology)。",
+   "video_notes": [
+    "（popularised as…：过去分词短语作后置定语，修饰 amount，被广泛传成……）"
+   ],
+   "chunks": [
+    {
+     "en": "In February 2025 a study in Nature Medicine reported plastic in brain tissue",
+     "zh": "2025年2月，《自然·医学》上的一项研究报告了脑组织中的塑料，"
+    },
+    {
+     "en": "in an amount popularised as a spoonful;",
+     "zh": "其含量被大众传作“一勺”；"
+    },
+    {
+     "en": "others queried its methodology.",
+     "zh": "其他人则质疑了其研究方法。"
+    }
+   ],
+   "align": [
+    [
+     "In February 2025",
+     "2025年2月，"
+    ],
+    [
+     "a study in Nature Medicine",
+     "《自然·医学》上的一项研究"
+    ],
+    [
+     "reported",
+     "报告了"
+    ],
+    [
+     "plastic in brain tissue",
+     "脑组织中的塑料，"
+    ],
+    [
+     "in an amount",
+     "其含量"
+    ],
+    [
+     "popularised as",
+     "被大众传作"
+    ],
+    [
+     "a spoonful;",
+     "“一勺”；"
+    ],
+    [
+     "others",
+     "其他人则"
+    ],
+    [
+     "queried",
+     "质疑了"
+    ],
+    [
+     "its methodology.",
+     "其研究方法。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 5,
+   "en": "Detection has outrun understanding; human studies remain small or observational.",
+   "zh": "检测走在了认识前面；针对人体的研究仍然规模较小，或只是观察性的。",
+   "en_markup": "**Detection** has outrun understanding; human studies remain small or **observational**.",
+   "zh_markup": "**检测**(Detection)走在了认识前面；针对人体的研究仍然规模较小，或只是**观察性的**(observational)。",
+   "video_notes": [
+    "（outrun：跑得比……快，这里指超过；remain＋形容词：仍然……）"
+   ],
+   "chunks": [
+    {
+     "en": "Detection has outrun understanding; human studies remain small or observational.",
+     "zh": "检测走在了认识前面；针对人体的研究仍然规模较小，或只是观察性的。"
+    }
+   ],
+   "align": [
+    [
+     "Detection",
+     "检测"
+    ],
+    [
+     "has outrun",
+     "走在了"
+    ],
+    [
+     "understanding;",
+     "认识前面；"
+    ],
+    [
+     "human",
+     "针对人体的"
+    ],
+    [
+     "studies",
+     "研究"
+    ],
+    [
+     "remain",
+     "仍然"
+    ],
+    [
+     "small",
+     "规模较小，"
+    ],
+    [
+     "or observational.",
+     "或只是观察性的。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "Harm is plausible but unproven, and until the verdict is in, better measurement may guide policy more safely than panic.",
+   "zh": "说它有害合乎情理，却尚未证实；而在定论出来之前，依据更好的测量来指导政策，或许会更稳妥，胜过任由恐慌左右。",
+   "en_markup": "Harm is **plausible** but **unproven**, and until the **verdict** is in, better **measurement** may guide policy more safely than **panic**.",
+   "zh_markup": "说它有害**合乎情理**(plausible)，却**尚未证实**(unproven)；而在**定论**(verdict)出来之前，依据更好的**测量**(measurement)来指导政策，或许会更稳妥，胜过任由**恐慌**(panic)左右。",
+   "video_notes": [
+    "（the verdict is in：定论已出；than panic：比较的是 panic 指导政策）"
+   ],
+   "chunks": [
+    {
+     "en": "Harm is plausible but unproven,",
+     "zh": "说它有害合乎情理，却尚未证实；"
+    },
+    {
+     "en": "and until the verdict is in, better measurement may guide policy more safely than panic.",
+     "zh": "而在定论出来之前，依据更好的测量来指导政策，或许会更稳妥，胜过任由恐慌左右。"
+    }
+   ],
+   "align": [
+    [
+     "Harm",
+     "说它有害"
+    ],
+    [
+     "is plausible",
+     "合乎情理，"
+    ],
+    [
+     "but unproven,",
+     "却尚未证实；"
+    ],
+    [
+     "and until",
+     "而在"
+    ],
+    [
+     "the verdict is in,",
+     "定论出来之前，"
+    ],
+    [
+     "better measurement",
+     "依据更好的测量"
+    ],
+    [
+     "may guide",
+     "来指导"
+    ],
+    [
+     "policy",
+     "政策，"
+    ],
+    [
+     "more safely",
+     "或许会更稳妥，"
+    ],
+    [
+     "than panic.",
+     "胜过任由恐慌左右。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "marine",
+   "zh_video": "海洋的",
+   "headword": "marine",
+   "pos": "adj.",
+   "table_definition": "本文：海洋的；adj. 海洋的，海生的（marine life/biology/pollution）；海运的；n. 海军陆战队士兵"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "biologist",
+   "zh_video": "生物学家",
+   "headword": "biologist",
+   "pos": "n.",
+   "table_definition": "本文：生物学家；n. 生物学家（a marine/wildlife biologist）；biology n. 生物学；biological adj. 生物的"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "pollutant",
+   "zh_video": "污染物",
+   "headword": "pollutant",
+   "pos": "n.",
+   "table_definition": "本文：污染物；n. 污染物，污染物质（air/water pollutants；release pollutants）；pollute v. 污染；pollution n. 污染"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "Sifting through",
+   "zh_video": "细细筛查",
+   "headword": "sift through",
+   "pos": "v.",
+   "table_definition": "本文：细细筛查；v. (sift) 细查，筛查（sift through evidence/records 仔细审查）；筛，过筛（sift flour）；sift out 筛出，剔除"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "plankton",
+   "zh_video": "浮游生物",
+   "headword": "plankton",
+   "pos": "n.",
+   "table_definition": "本文：浮游生物；n. 浮游生物（海洋、湖泊中随水漂流的微小生物，是鱼类等的食物）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "microscopic",
+   "zh_video": "极其微小的",
+   "headword": "microscopic",
+   "pos": "adj.",
+   "table_definition": "本文：极其微小的；adj. 极小的，微小的（microscopic organisms/particles）；显微镜的，用显微镜可见的；microscope n. 显微镜"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "fragments",
+   "zh_video": "碎片",
+   "headword": "fragment",
+   "pos": "n.",
+   "table_definition": "本文：碎片；n. (fragment) 碎片，碎块（fragments of glass/bone）；片段，一部分（a fragment of a conversation）；v. 使成碎片，使分裂；fragmentary adj. 不完整的"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "synthetic",
+   "zh_video": "合成",
+   "headword": "synthetic",
+   "pos": "adj.",
+   "table_definition": "本文：合成；adj. 合成的，人造的（synthetic fibres/materials/drugs）；n. 合成物，合成纤维；synthesis n. 合成；综合"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 2,
+   "en": "fibres",
+   "zh_video": "纤维",
+   "headword": "fibre",
+   "pos": "n.",
+   "table_definition": "本文：纤维；n. (fibre, 美 fiber) 纤维（synthetic/natural fibres；muscle fibres）；（食物中的）膳食纤维（a high-fibre diet）；品格，骨气（moral fibre）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 2,
+   "en": "abundant",
+   "zh_video": "多",
+   "headword": "abundant",
+   "pos": "adj.",
+   "table_definition": "本文：多；adj. 大量的，丰富的，充足的（abundant evidence/resources；be abundant in 富含）；abundance n. 丰富，充足（in abundance 大量）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "labelled",
+   "zh_video": "把……称为",
+   "headword": "label",
+   "pos": "v.",
+   "table_definition": "本文：把……称为；v. (label, 美 labeled) 把……称为，给……贴上标签（label sb/sth (as) sth；be labelled a liar）；n. 标签，标记；（唱片）品牌，公司"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "particles",
+   "zh_video": "颗粒",
+   "headword": "particle",
+   "pos": "n.",
+   "table_definition": "本文：颗粒；n. (particle) 颗粒，微粒（dust particles；particles of plastic）；极少量（not a particle of truth）；（物理）粒子；（语法）小品词"
+  },
+  {
+   "id": 13,
+   "para": 2,
+   "sentence": 4,
+   "en": "durable",
+   "zh_video": "经久不烂的",
+   "headword": "durable",
+   "pos": "adj.",
+   "table_definition": "本文：经久不烂的；adj. 耐用的，经久的（durable materials/goods 耐用品）；持久的（a durable peace）；durability n. 耐久性"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 4,
+   "en": "debris",
+   "zh_video": "碎屑",
+   "headword": "debris",
+   "pos": "n.",
+   "table_definition": "本文：碎屑；n. 碎片，残骸，垃圾（plastic/marine debris；debris from the crash）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "ubiquitous",
+   "zh_video": "无所不在",
+   "headword": "ubiquitous",
+   "pos": "adj.",
+   "table_definition": "本文：无所不在；adj. 无所不在的，随处可见的（the ubiquitous mobile phone）；ubiquity n. 普遍存在"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 4,
+   "en": "turning up",
+   "zh_video": "出现",
+   "headword": "turn up",
+   "pos": "v.",
+   "table_definition": "本文：出现；v. (turn up) 出现，露面（turn up in/on…；plastic turns up everywhere 到处都能见到塑料）；（东西）被找到；把（音量、温度）调高"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 4,
+   "en": "shorelines",
+   "zh_video": "海岸线",
+   "headword": "shoreline",
+   "pos": "n.",
+   "table_definition": "本文：海岸线；n. (shoreline) 海岸线，湖岸线（along the shoreline）；shore n. 岸，海滨"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 4,
+   "en": "sediment",
+   "zh_video": "沉积物",
+   "headword": "sediment",
+   "pos": "n.",
+   "table_definition": "本文：沉积物；n. 沉积物，沉淀物（river/ocean sediment；layers of sediment）；sedimentary adj. 沉积的"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 4,
+   "en": "rainfall",
+   "zh_video": "雨水",
+   "headword": "rainfall",
+   "pos": "n.",
+   "table_definition": "本文：雨水；n. 降雨，降雨量（heavy/annual rainfall）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 5,
+   "en": "regulation",
+   "zh_video": "监管",
+   "headword": "regulation",
+   "pos": "n.",
+   "table_definition": "本文：监管；n. 监管，管理（government regulation；the regulation of sth）；规章，条例（safety/environmental regulations）；regulate v. 管理，调控；regulator n. 监管机构"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 5,
+   "en": "passed a law",
+   "zh_video": "通过了一项法律",
+   "headword": "pass a law",
+   "pos": "v.",
+   "table_definition": "本文：通过了一项法律；v. (pass a law) 通过一项法律（pass a law banning sth 通过法律禁止某物）；pass v. 通过（法案、考试）；经过；传递"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 5,
+   "en": "scrubs",
+   "zh_video": "磨砂膏",
+   "headword": "scrub",
+   "pos": "n.",
+   "table_definition": "本文：磨砂膏；n. (scrub) 磨砂膏，去角质膏（a face/body scrub）；擦洗（give sth a good scrub）；灌木丛；scrubs（医护人员的）手术服；v. 擦洗，刷洗"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 5,
+   "en": "cosmetics",
+   "zh_video": "化妆品",
+   "headword": "cosmetic",
+   "pos": "n.",
+   "table_definition": "本文：化妆品；n. (cosmetic) 化妆品（the cosmetics industry）；adj. 表面的，装点门面的（cosmetic changes）；美容的（cosmetic surgery 整容手术）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 5,
+   "en": "rinsed down",
+   "zh_video": "冲进",
+   "headword": "rinse down",
+   "pos": "v.",
+   "table_definition": "本文：冲进；v. (rinse) 冲洗，冲掉（rinse sth off/out；rinse the dishes 冲洗碗碟；be rinsed down the drain 被冲进下水道）；漂洗；n. 冲洗；rinse-off adj. 用后需冲洗掉的"
+  },
+  {
+   "id": 25,
+   "para": 3,
+   "sentence": 6,
+   "en": "turned inward",
+   "zh_video": "转向了体内",
+   "headword": "turn inward",
+   "pos": "adv.",
+   "table_definition": "本文：转向了体内；adv. (亦作 inwards) 向内，向里（turn inward 转向内部；look inward 反省自身）；adj. 向内的；内心的（inward thoughts/feelings）；反义 outward"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 7,
+   "en": "donors",
+   "zh_video": "献血者",
+   "headword": "donor",
+   "pos": "n.",
+   "table_definition": "本文：献血者；n. (donor) （血液、器官的）献者，供体（a blood/organ donor）；捐赠人，捐助国（an anonymous donor）；donate v. 捐赠；donation n."
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 8,
+   "en": "fatty",
+   "zh_video": "脂肪性",
+   "headword": "fatty",
+   "pos": "adj.",
+   "table_definition": "本文：脂肪性；adj. 脂肪的，多脂肪的（fatty foods/tissue/deposits；fatty acids 脂肪酸）；fat n. 脂肪"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "plaque",
+   "zh_video": "斑块",
+   "headword": "plaque",
+   "pos": "n.",
+   "table_definition": "本文：斑块；n. （动脉中的）斑块（arterial plaque）；牙菌斑（dental plaque）；（刻字的）匾，饰板（a commemorative plaque）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "arteries",
+   "zh_video": "动脉",
+   "headword": "artery",
+   "pos": "n.",
+   "table_definition": "本文：动脉；n. (artery) 动脉（blocked/clogged arteries 堵塞的动脉）；干线，要道（a main traffic artery）；比较 vein 静脉"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "stroke",
+   "zh_video": "中风",
+   "headword": "stroke",
+   "pos": "n.",
+   "table_definition": "本文：中风；n. 中风（have/suffer a stroke）；一击，一下（a stroke of luck 一次好运；at a stroke 一下子）；（游泳、划船的）划水动作；笔画；v. 抚摸"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 9,
+   "en": "cautioned",
+   "zh_video": "警告",
+   "headword": "caution",
+   "pos": "v.",
+   "table_definition": "本文：警告；v. (caution) 告诫，提醒（caution that…；caution sb against doing sth）；n. 谨慎，小心（with caution；treat sth with caution）；cautious adj. 谨慎的"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "correlation",
+   "zh_video": "相关性",
+   "headword": "correlation",
+   "pos": "n.",
+   "table_definition": "本文：相关性；n. 相关性，相互关系（a correlation between A and B；a strong/positive correlation）；correlate v. 相关，有关联（correlate with）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 9,
+   "en": "causation",
+   "zh_video": "因果关系",
+   "headword": "causation",
+   "pos": "n.",
+   "table_definition": "本文：因果关系；n. 因果关系，起因（correlation is not causation 相关不等于因果）；cause v./n.；causal adj. 因果的"
+  },
+  {
+   "id": 34,
+   "para": 4,
+   "sentence": 10,
+   "en": "sensational",
+   "zh_video": "耸人听闻的",
+   "headword": "sensational",
+   "pos": "adj.",
+   "table_definition": "本文：耸人听闻的；adj. 耸人听闻的，哗众取宠的（sensational headlines/claims）；引起轰动的；极好的（口语）；sensation n. 轰动；感觉"
+  },
+  {
+   "id": 35,
+   "para": 4,
+   "sentence": 10,
+   "en": "shakiest",
+   "zh_video": "最不可靠的",
+   "headword": "shaky",
+   "pos": "adj.",
+   "table_definition": "本文：最不可靠的；adj. (shaky 最高级) 不可靠的，站不住脚的（shaky evidence/argument）；摇晃的，不稳的；（身体）发抖的；shake v."
+  },
+  {
+   "id": 36,
+   "para": 4,
+   "sentence": 11,
+   "en": "conservation",
+   "zh_video": "自然保护",
+   "headword": "conservation",
+   "pos": "n.",
+   "table_definition": "本文：自然保护；n. （自然、文物的）保护（wildlife/nature conservation；a conservation group）；节约，节省（energy conservation）；（物理）守恒（the conservation of energy）；conserve v."
+  },
+  {
+   "id": 37,
+   "para": 4,
+   "sentence": 11,
+   "en": "reckoned",
+   "zh_video": "估算",
+   "headword": "reckon",
+   "pos": "v.",
+   "table_definition": "本文：估算；v. (reckon) 估算，测算（reckon sth at…；be reckoned to be…）；认为，料想（I reckon that…）；reckon with 对付，考虑到；reckon on 指望；reckoning n. 估算"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 11,
+   "en": "swallow",
+   "zh_video": "吞下",
+   "headword": "swallow",
+   "pos": "v.",
+   "table_definition": "本文：吞下；v. 吞下，咽下（swallow food/pills）；轻信（swallow a story）；忍住，抑制（swallow one's pride）；n. 燕子"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 11,
+   "en": "overestimate",
+   "zh_video": "高估了",
+   "headword": "overestimate",
+   "pos": "n.",
+   "table_definition": "本文：高估了；n./v. 高估，估计过高（overestimate the cost/risk）；反义 underestimate 低估"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 12,
+   "en": "reassuring",
+   "zh_video": "令人安心",
+   "headword": "reassuring",
+   "pos": "adj.",
+   "table_definition": "本文：令人安心；adj. 令人安心的，使人宽慰的（a reassuring smile/message；it is reassuring to know…）；reassure v. 使安心；reassurance n."
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 12,
+   "en": "tentative",
+   "zh_video": "试探性的",
+   "headword": "tentative",
+   "pos": "adj.",
+   "table_definition": "本文：试探性的；adj. 初步的，试探性的，暂定的（a tentative conclusion/agreement）；犹豫的，不确定的（a tentative smile）；tentatively adv."
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 12,
+   "en": "apparent",
+   "zh_video": "明显",
+   "headword": "apparent",
+   "pos": "adj.",
+   "table_definition": "本文：明显；adj. 明显的，显而易见的（for no apparent reason 无明显原因；it is apparent that…）；表面上的，看似的（his apparent calm）；apparently adv. 看来，似乎"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 13,
+   "en": "tissue",
+   "zh_video": "组织",
+   "headword": "tissue",
+   "pos": "n.",
+   "table_definition": "本文：组织；n. （生物的）组织（brain/muscle/fatty tissue）；纸巾，面巾纸；薄纸（tissue paper）；a tissue of lies 一派谎言"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 13,
+   "en": "popularised as",
+   "zh_video": "被大众传作",
+   "headword": "popularised as",
+   "pos": "v.",
+   "table_definition": "本文：被大众传作；v. (popularise as) 广泛称作，把……宣传为（be popularised as sth）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 13,
+   "en": "spoonful",
+   "zh_video": "一勺",
+   "headword": "spoonful",
+   "pos": "n.",
+   "table_definition": "本文：一勺；n. 一匙，一勺（的量）（a spoonful of sugar）；spoon n. 勺子"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 13,
+   "en": "queried",
+   "zh_video": "质疑了",
+   "headword": "query",
+   "pos": "v.",
+   "table_definition": "本文：质疑了；v. (query) 质疑，对……表示怀疑（query a decision/figure）；询问；n. 疑问，询问（raise a query 提出疑问）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 13,
+   "en": "methodology",
+   "zh_video": "研究方法",
+   "headword": "methodology",
+   "pos": "n.",
+   "table_definition": "本文：研究方法；n. 研究方法，方法论（research methodology；flaws in the methodology）；method n. 方法"
+  },
+  {
+   "id": 48,
+   "para": 5,
+   "sentence": 14,
+   "en": "detection",
+   "zh_video": "检测",
+   "headword": "detection",
+   "pos": "n.",
+   "table_definition": "本文：检测；n. 检测，探测，发现（early detection of cancer；escape detection 未被发现）；detect v. 检测，察觉；detective n. 侦探"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 14,
+   "en": "observational",
+   "zh_video": "观察性的",
+   "headword": "observational",
+   "pos": "adj.",
+   "table_definition": "本文：观察性的；adj. 观察性的，基于观察的（an observational study 观察性研究，只能显示关联）；observation n. 观察；observe v. 观察"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "plausible",
+   "zh_video": "合乎情理",
+   "headword": "plausible",
+   "pos": "adj.",
+   "table_definition": "本文：合乎情理；adj. 貌似合理的，说得通的（a plausible explanation/excuse）；（人）花言巧语的；反义 implausible；plausibility n."
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 15,
+   "en": "unproven",
+   "zh_video": "尚未证实",
+   "headword": "unproven",
+   "pos": "adj.",
+   "table_definition": "本文：尚未证实；adj. 未经证实的，未证明的（unproven claims/theories）；prove v. 证明；proven adj. 已证实的"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 15,
+   "en": "verdict",
+   "zh_video": "定论",
+   "headword": "verdict",
+   "pos": "n.",
+   "table_definition": "本文：定论；n. （最终）结论，判断（give one's verdict on…；the verdict is in 结论已出）；（陪审团的）裁决，判决（a guilty verdict）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 15,
+   "en": "measurement",
+   "zh_video": "测量",
+   "headword": "measurement",
+   "pos": "n.",
+   "table_definition": "本文：测量；n. 测量，计量（accurate/better measurement）；尺寸，量度（take sb's measurements 量尺寸）；measure v. 测量；n. 措施"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 15,
+   "en": "panic",
+   "zh_video": "恐慌",
+   "headword": "panic",
+   "pos": "n.",
+   "table_definition": "本文：恐慌；n. 恐慌，惊慌（in a panic；panic buying 恐慌性抢购）；v. (panicked, panicking) （使）惊慌失措（Don't panic.）"
+  }
+ ]
+}

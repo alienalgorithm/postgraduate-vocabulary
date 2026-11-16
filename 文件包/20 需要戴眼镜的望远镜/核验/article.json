@@ -1,0 +1,1425 @@
+{
+ "no": "20",
+ "title_en": "The Telescope That Needed Glasses",
+ "title_zh": "需要戴眼镜的望远镜",
+ "source_id": "42",
+ "source_hashes": {
+  "JSON": "bf6b6e56d97fb9646091e8d4c7822d48fdc8b14f59e5f313a714215117f96a77",
+  "GEN": "bf6b6e56d97fb9646091e8d4c7822d48fdc8b14f59e5f313a714215117f96a77",
+  "MD": "2696677b44bcb64eacba6bb9e7808cfe6e0038a82f795223154b59477b1cce52",
+  "illustration": "69bfb69a0c8d72afb5c349b9fc7b66391efd699cf6c6ccea4b59286e8b041860"
+ },
+ "summary": [
+  [
+   "失焦",
+   "1990年，耗资约15亿美元的哈勃望远镜升空，传回的照片却模糊。主镜边缘磨得过平，▹误差只有2.2微米，约为头发宽度的五十分之一，却让光线无法形成清晰的焦点。"
+  ],
+  [
+   "错检",
+   "地面检测装置里一块透镜错位约1.3毫米，主镜因此按错误的曲线打磨。▹另一项独立测试早给出不同结果，但工程师和美国航天局管理者认为它不够可靠，没有继续追查。"
+  ],
+  [
+   "办法",
+   "主镜无法在轨道上修复，工程师便给哈勃配“眼镜”：▹冰箱大小的COSTAR箱体伸出机械臂，用小镜子截住主镜反射的光，抵消畸变，让光线进入观测仪器。"
+  ],
+  [
+   "维修",
+   "1993年12月，七名宇航员乘奋进号升空，通过五次太空行走，▹协同工作约35个半小时，装上COSTAR和一台新的主相机。"
+  ],
+  [
+   "结果",
+   "照片恢复清晰，哈勃重新具备观察宇宙的能力；但原主镜没有被重磨，▹2.2微米的缺陷仍在。修复的关键，是让光线离开主镜后、进入仪器前得到矫正。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "On 24 April 1990 the space shuttle Discovery lofted the Hubble Space Telescope into orbit.",
+   "zh": "1990年4月24日，发现号航天飞机把哈勃空间望远镜送上轨道。",
+   "en_markup": "On 24 April 1990 the space shuttle Discovery **lofted** the Hubble Space **Telescope** **into** orbit.",
+   "zh_markup": "1990年4月24日，发现号航天飞机**把**(lofted into)哈勃空间**望远镜**(Telescope)**送上**(lofted into)轨道。",
+   "video_notes": [
+    "（loft A into orbit：把 A 送上轨道）"
+   ],
+   "chunks": [
+    {
+     "en": "On 24 April 1990 the space shuttle Discovery lofted the Hubble Space Telescope into orbit.",
+     "zh": "1990年4月24日，发现号航天飞机把哈勃空间望远镜送上轨道。"
+    }
+   ],
+   "align": [
+    [
+     "On 24 April 1990",
+     "1990年4月24日，"
+    ],
+    [
+     "the space shuttle Discovery",
+     "发现号航天飞机"
+    ],
+    [
+     "lofted the Hubble Space Telescope into orbit.",
+     "把哈勃空间望远镜送上轨道。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "The observatory cradled in the payload bay had cost about $1.5 billion, a lavish investment meant to fix its gaze on the cosmos and its galaxies.",
+   "zh": "这座安放在有效载荷舱里的天文台耗资约15亿美元，是一笔巨大的/奢侈的投资，旨在把目光投向宇宙及其中的星系。",
+   "en_markup": "The **observatory** **cradled** in the **payload** bay had cost about $1.5 billion, a **lavish** **investment** meant to fix its **gaze** on the **cosmos** and its **galaxies**.",
+   "zh_markup": "这座**安放**(cradled)在**有效载荷**(payload)舱里的**天文台**(observatory)耗资约15亿美元，是一笔**巨大的/奢侈的**(lavish)**投资**(investment)，旨在把**目光**(gaze)投向**宇宙**(cosmos)及其中的**星系**(galaxies)。",
+   "video_notes": [
+    "（cradle：像双手或摇篮一样，温柔地托着、兜住或护住某物）",
+    "（a lavish investment…：同位语，补充说明前面这笔钱；meant to…：过去分词短语作后置定语，修饰 investment；fix one's gaze on…：把目光投向……）"
+   ],
+   "chunks": [
+    {
+     "en": "The observatory cradled in the payload bay had cost about $1.5 billion,",
+     "zh": "这座安放在有效载荷舱里的天文台耗资约15亿美元，"
+    },
+    {
+     "en": "a lavish investment meant to fix its gaze on the cosmos and its galaxies.",
+     "zh": "是一笔巨大的/奢侈的投资，旨在把目光投向宇宙及其中的星系。"
+    }
+   ],
+   "align": [
+    [
+     "The observatory cradled in the payload bay",
+     "这座安放在有效载荷舱里的天文台"
+    ],
+    [
+     "had cost",
+     "耗资"
+    ],
+    [
+     "about",
+     "约"
+    ],
+    [
+     "$1.5 billion,",
+     "15亿美元，"
+    ],
+    [
+     "a lavish",
+     "是一笔巨大的/奢侈的"
+    ],
+    [
+     "investment",
+     "投资，"
+    ],
+    [
+     "meant to",
+     "旨在"
+    ],
+    [
+     "fix its gaze on",
+     "把目光投向"
+    ],
+    [
+     "the cosmos",
+     "宇宙"
+    ],
+    [
+     "and its galaxies.",
+     "及其中的星系。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "Money, it soon emerged, could not buy clarity.",
+   "zh": "人们很快发现，金钱买不来清晰度。",
+   "en_markup": "Money, it soon emerged, could not buy **clarity**.",
+   "zh_markup": "人们很快发现，金钱买不来**清晰度**(clarity)。",
+   "video_notes": [
+    "（it soon emerged：插入语，人们很快发现）"
+   ],
+   "chunks": [
+    {
+     "en": "Money, it soon emerged, could not buy clarity.",
+     "zh": "人们很快发现，金钱买不来清晰度。"
+    }
+   ],
+   "align": [
+    [
+     "Money, it soon emerged,",
+     "人们很快发现，金钱"
+    ],
+    [
+     "could not buy clarity.",
+     "买不来清晰度。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "Its first snapshots came back blurred and fuzzy.",
+   "zh": "它最初的快照传回来时模糊不清、很不清楚。",
+   "en_markup": "Its first **snapshots** came back **blurred** and **fuzzy**.",
+   "zh_markup": "它最初的**快照**(snapshots)传回来时**模糊不清**(blurred)、**很不清楚**(fuzzy)。",
+   "video_notes": [
+    "（come back＋形容词：传回来时是……的样子）"
+   ],
+   "chunks": [
+    {
+     "en": "Its first snapshots came back blurred and fuzzy.",
+     "zh": "它最初的快照传回来时模糊不清、很不清楚。"
+    }
+   ],
+   "align": [
+    [
+     "Its first snapshots",
+     "它最初的快照"
+    ],
+    [
+     "came back",
+     "传回来时"
+    ],
+    [
+     "blurred",
+     "模糊不清、"
+    ],
+    [
+     "and fuzzy.",
+     "很不清楚。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "In June 1990 NASA announced a flaw in the main mirror: its outer rim had been flattened by 2.2 micrometres, roughly a fiftieth of the width of a hair.",
+   "zh": "1990年6月，美国航天局宣布主镜的一个缺陷，主镜外侧的边缘被磨平了2.2微米，大约相当于头发丝宽度的五十分之一。",
+   "en_markup": "In June 1990 NASA announced a **flaw** in the main mirror: its **outer** **rim** had been **flattened** by 2.2 micrometres, roughly a fiftieth of the **width** of a hair.",
+   "zh_markup": "1990年6月，美国航天局宣布主镜的一个**缺陷**(flaw)，主镜**外侧的**(outer)**边缘**(rim)被**磨平了**(flattened)2.2微米，大约相当于头发丝**宽度**(width)的五十分之一。",
+   "video_notes": [
+    "（in the main mirror：介词短语作后置定语，修饰 flaw；冒号后面具体说明缺陷）",
+    "（by：表示相差的量）",
+    "（a fiftieth：五十分之一；roughly a fiftieth of…：同位语，补充说明 2.2 micrometres）"
+   ],
+   "chunks": [
+    {
+     "en": "In June 1990 NASA announced a flaw in the main mirror:",
+     "zh": "1990年6月，美国航天局宣布主镜的一个缺陷，"
+    },
+    {
+     "en": "its outer rim had been flattened by 2.2 micrometres,",
+     "zh": "主镜外侧的边缘被磨平了2.2微米，"
+    },
+    {
+     "en": "roughly a fiftieth of the width of a hair.",
+     "zh": "大约相当于头发丝宽度的五十分之一。"
+    }
+   ],
+   "align": [
+    [
+     "In June 1990",
+     "1990年6月，"
+    ],
+    [
+     "NASA",
+     "美国航天局"
+    ],
+    [
+     "announced",
+     "宣布"
+    ],
+    [
+     "a flaw in the main mirror:",
+     "主镜的一个缺陷，"
+    ],
+    [
+     "its",
+     "主镜"
+    ],
+    [
+     "outer",
+     "外侧的"
+    ],
+    [
+     "rim",
+     "边缘"
+    ],
+    [
+     "had been flattened",
+     "被磨平了"
+    ],
+    [
+     "by 2.2 micrometres,",
+     "2.2微米，"
+    ],
+    [
+     "roughly",
+     "大约相当于"
+    ],
+    [
+     "a fiftieth of the width of a hair.",
+     "头发丝宽度的五十分之一。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "That deviation marred the optics, leaving light without a sharp focus.",
+   "zh": "这一偏差损害了光学系统，使光线无法形成锐利的焦点。",
+   "en_markup": "That **deviation** **marred** the **optics**, leaving light without a **sharp** focus.",
+   "zh_markup": "这一**偏差**(deviation)**损害了**(marred)**光学系统**(optics)，使光线无法形成**锐利的**(sharp)焦点。",
+   "video_notes": [
+    "（leaving…：现在分词短语作结果状语；leave A without B：使 A 没有 B）"
+   ],
+   "chunks": [
+    {
+     "en": "That deviation marred the optics,",
+     "zh": "这一偏差损害了光学系统，"
+    },
+    {
+     "en": "leaving light without a sharp focus.",
+     "zh": "使光线无法形成锐利的焦点。"
+    }
+   ],
+   "align": [
+    [
+     "That deviation",
+     "这一偏差"
+    ],
+    [
+     "marred",
+     "损害了"
+    ],
+    [
+     "the optics,",
+     "光学系统，"
+    ],
+    [
+     "leaving",
+     "使"
+    ],
+    [
+     "light",
+     "光线"
+    ],
+    [
+     "without",
+     "无法形成"
+    ],
+    [
+     "a sharp focus.",
+     "锐利的焦点。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "en": "The trouble began with calibration.",
+   "zh": "问题始于校准。",
+   "en_markup": "The trouble began with **calibration**.",
+   "zh_markup": "问题始于**校准**(calibration)。",
+   "video_notes": [
+    "（begin with…：始于……）"
+   ],
+   "chunks": [
+    {
+     "en": "The trouble began with calibration.",
+     "zh": "问题始于校准。"
+    }
+   ],
+   "align": [
+    [
+     "The trouble",
+     "问题"
+    ],
+    [
+     "began with calibration.",
+     "始于校准。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "A lens in the assembly that checked the mirror's shape had been offset by about 1.3 millimetres, so the mirror was ground to the wrong curve.",
+   "zh": "检测主镜形状的那套组件中，一块透镜错位了/偏离了约1.3毫米，主镜因此被磨成了错误的曲面。",
+   "en_markup": "A **lens** in the **assembly** that checked the mirror's shape had been **offset** by about 1.3 **millimetres**, so the mirror **was ground to** the wrong **curve**.",
+   "zh_markup": "检测主镜形状的那套**组件**(assembly)中，一块**透镜**(lens)**错位了/偏离了**(offset)约1.3**毫米**(millimetres)，主镜因此**被磨成了**(was ground to)错误的**曲面**(curve)。",
+   "video_notes": [
+    "（in the assembly…：介词短语作后置定语，修饰 lens；that checked…：定语从句，修饰 assembly）",
+    "（ground：grind 的过去分词，研磨；be ground to…：被磨成……）"
+   ],
+   "chunks": [
+    {
+     "en": "A lens in the assembly that checked the mirror's shape had been offset by about 1.3 millimetres,",
+     "zh": "检测主镜形状的那套组件中，一块透镜错位了/偏离了约1.3毫米，"
+    },
+    {
+     "en": "so the mirror was ground to the wrong curve.",
+     "zh": "主镜因此被磨成了错误的曲面。"
+    }
+   ],
+   "align": [
+    [
+     "A lens in the assembly that checked the mirror's shape",
+     "检测主镜形状的那套组件中，一块透镜"
+    ],
+    [
+     "had been offset",
+     "错位了/偏离了"
+    ],
+    [
+     "by about",
+     "约"
+    ],
+    [
+     "1.3 millimetres,",
+     "1.3毫米，"
+    ],
+    [
+     "so the mirror",
+     "主镜因此"
+    ],
+    [
+     "was ground to",
+     "被磨成了"
+    ],
+    [
+     "the wrong curve.",
+     "错误的曲面。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "A second, independent test by the contractor, Perkin-Elmer, gave a divergent result, but engineers and NASA managers judged it less reliable and left the contradictory reading unexplored.",
+   "zh": "承包商珀金-埃尔默公司做的第二次独立测试给出了不同的结果，但工程师和美国航天局的管理人员认为它不太可靠，这一相互矛盾的读数也就无人深究。",
+   "en_markup": "A second, **independent test** by the **contractor**, Perkin-Elmer, gave a **divergent** result, but engineers and NASA managers judged it less **reliable** and left the **contradictory** reading **unexplored**.",
+   "zh_markup": "**承包商**(contractor)珀金-埃尔默公司做的第二次**独立测试**(independent test)给出了**不同的**(divergent)结果，但工程师和美国航天局的管理人员认为它不太**可靠**(reliable)，这一**相互矛盾的**(contradictory)读数也就**无人深究**(unexplored)。",
+   "video_notes": [
+    "（by the contractor：介词短语作后置定语，修饰 test；Perkin-Elmer：同位语，补充说明 the contractor）",
+    "（judge A＋形容词：认为 A……）",
+    "（leave A＋形容词：使 A 处于某种状态）"
+   ],
+   "chunks": [
+    {
+     "en": "A second, independent test by the contractor, Perkin-Elmer, gave a divergent result,",
+     "zh": "承包商珀金-埃尔默公司做的第二次独立测试给出了不同的结果，"
+    },
+    {
+     "en": "but engineers and NASA managers judged it less reliable",
+     "zh": "但工程师和美国航天局的管理人员认为它不太可靠，"
+    },
+    {
+     "en": "and left the contradictory reading unexplored.",
+     "zh": "这一相互矛盾的读数也就无人深究。"
+    }
+   ],
+   "align": [
+    [
+     "A second, independent test by the contractor, Perkin-Elmer,",
+     "承包商珀金-埃尔默公司做的第二次独立测试"
+    ],
+    [
+     "gave",
+     "给出了"
+    ],
+    [
+     "a divergent result,",
+     "不同的结果，"
+    ],
+    [
+     "but",
+     "但"
+    ],
+    [
+     "engineers",
+     "工程师"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "NASA",
+     "美国航天局的"
+    ],
+    [
+     "managers",
+     "管理人员"
+    ],
+    [
+     "judged",
+     "认为"
+    ],
+    [
+     "it",
+     "它"
+    ],
+    [
+     "less reliable",
+     "不太可靠，"
+    ],
+    [
+     "and left the contradictory reading",
+     "这一相互矛盾的读数也就"
+    ],
+    [
+     "unexplored.",
+     "无人深究。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 4,
+   "en": "The mirror could not be repaired in orbit, so engineers prescribed tailored glasses.",
+   "zh": "主镜无法在轨道上修复，于是工程师开出了一副量身定制的眼镜。",
+   "en_markup": "The mirror could not be repaired in orbit, so engineers **prescribed** **tailored** glasses.",
+   "zh_markup": "主镜无法在轨道上修复，于是工程师**开出了**(prescribed)一副**量身定制的**(tailored)眼镜。",
+   "video_notes": [
+    "（in orbit：在轨道上）",
+    "（prescribe：开（药方），这里把矫正装置比作眼镜）"
+   ],
+   "chunks": [
+    {
+     "en": "The mirror could not be repaired in orbit,",
+     "zh": "主镜无法在轨道上修复，"
+    },
+    {
+     "en": "so engineers prescribed tailored glasses.",
+     "zh": "于是工程师开出了一副量身定制的眼镜。"
+    }
+   ],
+   "align": [
+    [
+     "The mirror",
+     "主镜"
+    ],
+    [
+     "could not be repaired in orbit,",
+     "无法在轨道上修复，"
+    ],
+    [
+     "so",
+     "于是"
+    ],
+    [
+     "engineers",
+     "工程师"
+    ],
+    [
+     "prescribed",
+     "开出了"
+    ],
+    [
+     "tailored glasses.",
+     "一副量身定制的眼镜。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "COSTAR, a corrective cabinet the size of a refrigerator, carried small mirrors on adjustable arms that intercepted the light and compensated for the imperfect mirror's distortion before the light reached the instruments.",
+   "zh": "COSTAR 是一个冰箱大小的矫正箱体，可调节的机械臂上装着小镜子，截住光线，抵消有缺陷的主镜造成的畸变，这些都需要在光线到达仪器之前完成。",
+   "en_markup": "{{一行}}COSTAR, a **corrective** **cabinet** the size of a **refrigerator**, carried small mirrors on **adjustable** arms that **intercepted** the light and **compensated for** the **imperfect** mirror's **distortion** before the light reached the **instruments**.",
+   "zh_markup": "COSTAR 是一个**冰箱**(refrigerator)大小的**矫正**(corrective)**箱体**(cabinet)，**可调节的**(adjustable)机械臂上装着小镜子，**截住**(intercepted)光线，**抵消**(compensated for)**有缺陷的**(imperfect)主镜造成的**畸变**(distortion)，这些都需要在光线到达**仪器**(instruments)之前完成。",
+   "video_notes": [
+    "（a corrective cabinet…：同位语，补充说明 COSTAR；the size of…：……那么大）",
+    "（on adjustable arms：介词短语作后置定语，修饰 mirrors）",
+    "（that intercepted…and compensated for…：定语从句，修饰 small mirrors；compensate for…：抵消，弥补……；before…：时间状语从句）"
+   ],
+   "chunks": [
+    {
+     "en": "COSTAR, a corrective cabinet the size of a refrigerator,",
+     "zh": "COSTAR 是一个冰箱大小的矫正箱体，"
+    },
+    {
+     "en": "carried small mirrors on adjustable arms",
+     "zh": "可调节的机械臂上装着小镜子，"
+    },
+    {
+     "en": "that intercepted the light and compensated for the imperfect mirror's distortion before the light reached the instruments.",
+     "zh": "截住光线，抵消有缺陷的主镜造成的畸变，这些都需要在光线到达仪器之前完成。"
+    }
+   ],
+   "align": [
+    [
+     "COSTAR,",
+     "COSTAR"
+    ],
+    [
+     "a corrective cabinet the size of a refrigerator,",
+     "是一个冰箱大小的矫正箱体，"
+    ],
+    [
+     "carried small mirrors on adjustable arms",
+     "可调节的机械臂上装着小镜子，"
+    ],
+    [
+     "that intercepted the light",
+     "截住光线，"
+    ],
+    [
+     "and compensated for",
+     "抵消"
+    ],
+    [
+     "the imperfect",
+     "有缺陷的"
+    ],
+    [
+     "mirror's",
+     "主镜造成的"
+    ],
+    [
+     "distortion",
+     "畸变，"
+    ],
+    [
+     "before the light reached the instruments.",
+     "这些都需要在光线到达仪器之前完成。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "The mirror itself would stay untouched, and a new main camera was prepared.",
+   "zh": "主镜本身将保持原封不动，一台新的主相机也已准备就绪。",
+   "en_markup": "The mirror itself would stay **untouched**, and a new main camera was prepared.",
+   "zh_markup": "主镜本身将保持**原封不动**(untouched)，一台新的主相机也已准备就绪。",
+   "video_notes": [
+    "（stay＋形容词：保持某种状态）（untouched：未被碰过的，因而保持原样、未受任何影响或改变）"
+   ],
+   "chunks": [
+    {
+     "en": "The mirror itself would stay untouched,",
+     "zh": "主镜本身将保持原封不动，"
+    },
+    {
+     "en": "and a new main camera was prepared.",
+     "zh": "一台新的主相机也已准备就绪。"
+    }
+   ],
+   "align": [
+    [
+     "The mirror itself",
+     "主镜本身"
+    ],
+    [
+     "would stay untouched,",
+     "将保持原封不动，"
+    ],
+    [
+     "and a new",
+     "一台新的"
+    ],
+    [
+     "main",
+     "主"
+    ],
+    [
+     "camera",
+     "相机"
+    ],
+    [
+     "was prepared.",
+     "也已准备就绪。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 5,
+   "en": "On 2 December 1993 Endeavour ascended with seven astronauts.",
+   "zh": "1993年12月2日，奋进号载着七名宇航员升空。",
+   "en_markup": "On 2 December 1993 Endeavour **ascended** with seven astronauts.",
+   "zh_markup": "1993年12月2日，奋进号载着七名宇航员**升空**(ascended)。",
+   "video_notes": [
+    "（with seven astronauts：伴随状语）"
+   ],
+   "chunks": [
+    {
+     "en": "On 2 December 1993 Endeavour ascended with seven astronauts.",
+     "zh": "1993年12月2日，奋进号载着七名宇航员升空。"
+    }
+   ],
+   "align": [
+    [
+     "On 2 December 1993",
+     "1993年12月2日，"
+    ],
+    [
+     "Endeavour",
+     "奋进号"
+    ],
+    [
+     "ascended with seven astronauts.",
+     "载着七名宇航员升空。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 5,
+   "en": "After a rendezvous, they worked in tandem across five spacewalks, about 35 and a half hours of exertion, installing COSTAR and the new camera.",
+   "zh": "完成交会后，他们协同进行了五次太空行走，辛苦作业共约35个半小时，安装了COSTAR 和新相机。",
+   "en_markup": "After a **rendezvous**, they worked **in tandem** across five **spacewalks**, about 35 and a half hours of **exertion**, **installing** COSTAR and the new camera.",
+   "zh_markup": "完成**交会**(rendezvous)后，他们**协同**(in tandem)进行了五次**太空行走**(spacewalks)，**辛苦作业**(exertion)共约35个半小时，**安装了**(installing)COSTAR 和新相机。",
+   "video_notes": [
+    "（rendezvous：航天器在轨道上会合）",
+    "（in tandem：协力，配合；across five spacewalks：在五次太空行走中）",
+    "（exertion 核心的意思：发力、用力（或体力的消耗/付出）。它不是单纯指“工作（work）”，也不是指“辛苦（tired）”，而是特指你为了让某件事发生，实实在在使出去的那股劲儿（体力或脑力））",
+    "（installing…：现在分词短语作伴随状语）"
+   ],
+   "chunks": [
+    {
+     "en": "After a rendezvous,",
+     "zh": "完成交会后，"
+    },
+    {
+     "en": "they worked in tandem across five spacewalks,",
+     "zh": "他们协同进行了五次太空行走，"
+    },
+    {
+     "en": "about 35 and a half hours of exertion,",
+     "zh": "辛苦作业共约35个半小时，"
+    },
+    {
+     "en": "installing COSTAR and the new camera.",
+     "zh": "安装了COSTAR 和新相机。"
+    }
+   ],
+   "align": [
+    [
+     "After a rendezvous,",
+     "完成交会后，"
+    ],
+    [
+     "they",
+     "他们"
+    ],
+    [
+     "worked in tandem",
+     "协同进行了"
+    ],
+    [
+     "across five",
+     "五次"
+    ],
+    [
+     "spacewalks,",
+     "太空行走，"
+    ],
+    [
+     "about 35 and a half hours of exertion,",
+     "辛苦作业共约35个半小时，"
+    ],
+    [
+     "installing",
+     "安装了"
+    ],
+    [
+     "COSTAR",
+     "COSTAR"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "the new",
+     "新"
+    ],
+    [
+     "camera.",
+     "相机。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "The imagery turned crisp, Hubble's vision renewed.",
+   "zh": "影像变得清楚分明，哈勃的视力得以恢复。",
+   "en_markup": "The **imagery** turned **crisp**, Hubble's **vision** **renewed**.",
+   "zh_markup": "**影像**(imagery)变得**清楚分明**(crisp)，哈勃的**视力**(vision)得以**恢复**(renewed)。",
+   "video_notes": [
+    "（turn＋形容词：变得……）",
+    "（Hubble's vision renewed：独立主格结构，相当于and Hubble's vision was renewed）"
+   ],
+   "chunks": [
+    {
+     "en": "The imagery turned crisp,",
+     "zh": "影像变得清楚分明，"
+    },
+    {
+     "en": "Hubble's vision renewed.",
+     "zh": "哈勃的视力得以恢复。"
+    }
+   ],
+   "align": [
+    [
+     "The imagery",
+     "影像"
+    ],
+    [
+     "turned crisp,",
+     "变得清楚分明，"
+    ],
+    [
+     "Hubble's vision",
+     "哈勃的视力"
+    ],
+    [
+     "renewed.",
+     "得以恢复。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "The mirror still carries that 2.2-micrometre flaw, and the light it gathers is corrected only after leaving it.",
+   "zh": "主镜至今仍带着那2.2微米的缺陷，它收集的光要离开镜面之后才会被矫正。",
+   "en_markup": "The mirror still carries that 2.2-micrometre flaw, and the light it **gathers** is corrected only after leaving it.",
+   "zh_markup": "主镜至今仍带着那2.2微米的缺陷，它**收集**(gathers)的光要离开镜面之后才会被矫正。",
+   "video_notes": [
+    "（it gathers：定语从句，省略了关系代词，修饰 light；only after…：只有在……之后才）"
+   ],
+   "chunks": [
+    {
+     "en": "The mirror still carries that 2.2-micrometre flaw,",
+     "zh": "主镜至今仍带着那2.2微米的缺陷，"
+    },
+    {
+     "en": "and the light it gathers is corrected only after leaving it.",
+     "zh": "它收集的光要离开镜面之后才会被矫正。"
+    }
+   ],
+   "align": [
+    [
+     "The mirror",
+     "主镜"
+    ],
+    [
+     "still carries",
+     "至今仍带着"
+    ],
+    [
+     "that 2.2-micrometre",
+     "那2.2微米的"
+    ],
+    [
+     "flaw,",
+     "缺陷，"
+    ],
+    [
+     "and the light it gathers",
+     "它收集的光"
+    ],
+    [
+     "is corrected only after leaving it.",
+     "要离开镜面之后才会被矫正。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": null,
+   "en": "lofted into",
+   "zh_video": "把……送上",
+   "headword": "lofted into",
+   "pos": "v.",
+   "table_definition": "本文：把……送上；v. (loft … into) 把……送入（loft a satellite into orbit；loft a ball into the air）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "Telescope",
+   "zh_video": "望远镜",
+   "headword": "telescope",
+   "pos": "n.",
+   "table_definition": "本文：望远镜；n. (telescope) 望远镜（a space telescope；look through a telescope）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 2,
+   "en": "observatory",
+   "zh_video": "天文台",
+   "headword": "observatory",
+   "pos": "n.",
+   "table_definition": "本文：天文台；n. 天文台，观测站（an astronomical observatory）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "cradled",
+   "zh_video": "安放",
+   "headword": "cradle",
+   "pos": "v.",
+   "table_definition": "本文：安放；v. (cradle) 轻轻抱着，稳妥安放（cradle a baby in one's arms）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "payload",
+   "zh_video": "有效载荷",
+   "headword": "payload",
+   "pos": "n.",
+   "table_definition": "本文：有效载荷；n. 有效载荷（a satellite's payload；payload capacity）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "lavish",
+   "zh_video": "巨大的/奢侈的",
+   "headword": "lavish",
+   "pos": "adj.",
+   "table_definition": "本文：巨大的/奢侈的；adj. 奢华的，大手笔的（a lavish party；lavish spending）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "investment",
+   "zh_video": "投资",
+   "headword": "investment",
+   "pos": "n.",
+   "table_definition": "本文：投资；n. 投资（a sound investment；foreign investment）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "gaze",
+   "zh_video": "目光",
+   "headword": "gaze",
+   "pos": "n.",
+   "table_definition": "本文：目光；n./v. 凝视，注视（a steady gaze；gaze at the stars）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 2,
+   "en": "cosmos",
+   "zh_video": "宇宙",
+   "headword": "cosmos",
+   "pos": "n.",
+   "table_definition": "本文：宇宙；n. 宇宙（the origins of the cosmos）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 2,
+   "en": "galaxies",
+   "zh_video": "星系",
+   "headword": "galaxy",
+   "pos": "n.",
+   "table_definition": "本文：星系；n. (galaxy) 星系（distant galaxies；the Milky Way galaxy）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "clarity",
+   "zh_video": "清晰度",
+   "headword": "clarity",
+   "pos": "n.",
+   "table_definition": "本文：清晰度；n. 清晰度，清晰，明确（clarity of thought；picture clarity）"
+  },
+  {
+   "id": 12,
+   "para": 2,
+   "sentence": 4,
+   "en": "snapshots",
+   "zh_video": "快照",
+   "headword": "snapshot",
+   "pos": "n.",
+   "table_definition": "本文：快照；n. (snapshot) 快照；简要印象（holiday snapshots；a snapshot of life）"
+  },
+  {
+   "id": 13,
+   "para": 2,
+   "sentence": 4,
+   "en": "blurred",
+   "zh_video": "模糊不清",
+   "headword": "blurred",
+   "pos": "adj.",
+   "table_definition": "本文：模糊不清；adj. 模糊的（blurred vision/photos）"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 4,
+   "en": "fuzzy",
+   "zh_video": "很不清楚",
+   "headword": "fuzzy",
+   "pos": "adj.",
+   "table_definition": "本文：很不清楚；adj. 模糊的，不清楚的；毛茸茸的（a fuzzy picture；fuzzy logic）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 5,
+   "en": "flaw",
+   "zh_video": "缺陷",
+   "headword": "flaw",
+   "pos": "n.",
+   "table_definition": "本文：缺陷；n. 缺陷，瑕疵（a flaw in the design；a fatal flaw）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 5,
+   "en": "outer",
+   "zh_video": "外侧的",
+   "headword": "outer",
+   "pos": "adj.",
+   "table_definition": "本文：外侧的；adj. 外侧的，外部的（the outer edge；outer space）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 5,
+   "en": "rim",
+   "zh_video": "边缘",
+   "headword": "rim",
+   "pos": "n.",
+   "table_definition": "本文：边缘；n. 边缘，边沿（the rim of a cup/glass）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "flattened",
+   "zh_video": "磨平了",
+   "headword": "flatten",
+   "pos": "v.",
+   "table_definition": "本文：磨平了；v. (flatten) 使变平，压平（flatten the dough）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "width",
+   "zh_video": "宽度",
+   "headword": "width",
+   "pos": "n.",
+   "table_definition": "本文：宽度；n. 宽度（the width of the road；2 metres in width）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 6,
+   "en": "deviation",
+   "zh_video": "偏差",
+   "headword": "deviation",
+   "pos": "n.",
+   "table_definition": "本文：偏差；n. 偏差，偏离（a standard deviation；deviation from the plan）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "marred",
+   "zh_video": "损害了",
+   "headword": "mar",
+   "pos": "v.",
+   "table_definition": "本文：损害了；v. (mar) 损坏，破坏（an occasion marred by violence）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "optics",
+   "zh_video": "光学系统",
+   "headword": "optics",
+   "pos": "n.",
+   "table_definition": "本文：光学系统；n. 光学；光学系统（fibre optics；the camera's optics）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "sharp",
+   "zh_video": "锐利的",
+   "headword": "sharp",
+   "pos": "adj.",
+   "table_definition": "本文：锐利的；adj. 清晰的，锐利的（a sharp image；a sharp knife）"
+  },
+  {
+   "id": 24,
+   "para": 3,
+   "sentence": 7,
+   "en": "calibration",
+   "zh_video": "校准",
+   "headword": "calibration",
+   "pos": "n.",
+   "table_definition": "本文：校准；n. 校准，标定（the calibration of instruments）"
+  },
+  {
+   "id": 25,
+   "para": 3,
+   "sentence": 8,
+   "en": "lens",
+   "zh_video": "透镜",
+   "headword": "lens",
+   "pos": "n.",
+   "table_definition": "本文：透镜；n. 透镜，镜头（a camera lens；contact lenses）"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 8,
+   "en": "assembly",
+   "zh_video": "组件",
+   "headword": "assembly",
+   "pos": "n.",
+   "table_definition": "本文：组件；n. 组件，装配；集会（a gearbox assembly；a school assembly）"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 8,
+   "en": "offset",
+   "zh_video": "错位了/偏离了",
+   "headword": "offset",
+   "pos": "v.",
+   "table_definition": "本文：错位了/偏离了；v./n. 使偏移；抵消，弥补（offset losses；be offset by a few degrees）"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "millimetres",
+   "zh_video": "毫米",
+   "headword": "millimetre",
+   "pos": "n.",
+   "table_definition": "本文：毫米；n. (millimetre) 毫米（a few millimetres thick）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "was ground to",
+   "zh_video": "被磨成了",
+   "headword": "be ground to",
+   "pos": "v.",
+   "table_definition": "本文：被磨成了……；v. (be ground to，grind 的过去分词) 被磨成……（be ground to a fine powder）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "curve",
+   "zh_video": "曲面",
+   "headword": "curve",
+   "pos": "n.",
+   "table_definition": "本文：曲面；n. 曲线，曲面（a sharp curve in the road；a learning curve）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 9,
+   "en": "independent test",
+   "zh_video": "独立测试",
+   "headword": "independent test",
+   "pos": "n.",
+   "table_definition": "本文：独立测试；n. 独立测试（an independent test/review）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "contractor",
+   "zh_video": "承包商",
+   "headword": "contractor",
+   "pos": "n.",
+   "table_definition": "本文：承包商；n. 承包商，承包人（a building contractor；a defence contractor）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 9,
+   "en": "divergent",
+   "zh_video": "不同的",
+   "headword": "divergent",
+   "pos": "adj.",
+   "table_definition": "本文：不同的；adj. 不同的，有分歧的（divergent views/interests）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 9,
+   "en": "reliable",
+   "zh_video": "可靠",
+   "headword": "reliable",
+   "pos": "adj.",
+   "table_definition": "本文：可靠；adj. 可靠的（reliable data/sources）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 9,
+   "en": "contradictory",
+   "zh_video": "相互矛盾的",
+   "headword": "contradictory",
+   "pos": "adj.",
+   "table_definition": "本文：相互矛盾的；adj. 相互矛盾的（contradictory evidence/statements）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 9,
+   "en": "unexplored",
+   "zh_video": "无人深究",
+   "headword": "unexplored",
+   "pos": "adj.",
+   "table_definition": "本文：无人深究；adj. 未被探究的，未勘探的（unexplored territory/possibilities）"
+  },
+  {
+   "id": 37,
+   "para": 4,
+   "sentence": 10,
+   "en": "prescribed",
+   "zh_video": "开出了",
+   "headword": "prescribe",
+   "pos": "v.",
+   "table_definition": "本文：开出了；v. (prescribe) 开（药方），规定（prescribe antibiotics；prescribed by law）"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 10,
+   "en": "tailored",
+   "zh_video": "量身定制的",
+   "headword": "tailored",
+   "pos": "adj.",
+   "table_definition": "本文：量身定制的；adj. 量身定做的，特制的（tailored advice；a tailored suit）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 11,
+   "en": "corrective",
+   "zh_video": "矫正",
+   "headword": "corrective",
+   "pos": "adj.",
+   "table_definition": "本文：矫正；adj. 矫正的，纠正的（corrective lenses/action）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 11,
+   "en": "cabinet",
+   "zh_video": "箱体",
+   "headword": "cabinet",
+   "pos": "n.",
+   "table_definition": "本文：箱体；n. 柜子，箱体；内阁（a filing cabinet；a cabinet minister）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 11,
+   "en": "refrigerator",
+   "zh_video": "冰箱",
+   "headword": "refrigerator",
+   "pos": "n.",
+   "table_definition": "本文：冰箱；n. 冰箱（a fridge-freezer；keep food in the refrigerator）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 11,
+   "en": "adjustable",
+   "zh_video": "可调节的",
+   "headword": "adjustable",
+   "pos": "adj.",
+   "table_definition": "本文：可调节的；adj. 可调节的（an adjustable seat/strap）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 11,
+   "en": "intercepted",
+   "zh_video": "截住",
+   "headword": "intercept",
+   "pos": "v.",
+   "table_definition": "本文：截住；v. (intercept) 拦截，截住（intercept a pass/message）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 11,
+   "en": "compensated for",
+   "zh_video": "抵消",
+   "headword": "compensate for",
+   "pos": "v.",
+   "table_definition": "本文：抵消；v. (compensate) 补偿，抵消（compensate for a loss/weakness）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 11,
+   "en": "imperfect",
+   "zh_video": "有缺陷的",
+   "headword": "imperfect",
+   "pos": "adj.",
+   "table_definition": "本文：有缺陷的；adj. 有缺陷的，不完美的（an imperfect world/understanding）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 11,
+   "en": "distortion",
+   "zh_video": "畸变",
+   "headword": "distortion",
+   "pos": "n.",
+   "table_definition": "本文：畸变；n. 变形，畸变；歪曲（image distortion；a distortion of the facts）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 11,
+   "en": "instruments",
+   "zh_video": "仪器",
+   "headword": "instruments",
+   "pos": "n.",
+   "table_definition": "本文：仪器；n. pl. (instrument) 仪器（此处指哈勃的精密观测仪器）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 12,
+   "en": "untouched",
+   "zh_video": "原封不动",
+   "headword": "untouched",
+   "pos": "adj.",
+   "table_definition": "本文：原封不动；adj. 原封未动的，未受影响的（leave food untouched）"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 13,
+   "en": "ascended",
+   "zh_video": "升空",
+   "headword": "ascend",
+   "pos": "v.",
+   "table_definition": "本文：升空；v. (ascend) 上升，登上（ascend a staircase；the plane ascended）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 14,
+   "en": "rendezvous",
+   "zh_video": "交会",
+   "headword": "rendezvous",
+   "pos": "n.",
+   "table_definition": "本文：交会；n. （航天器）交会；约会（a secret rendezvous；orbital rendezvous）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 14,
+   "en": "in tandem",
+   "zh_video": "协同",
+   "headword": "in tandem",
+   "pos": "n.",
+   "table_definition": "本文：协同；n. 协力，配合；双人自行车（work in tandem with sb）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 14,
+   "en": "spacewalks",
+   "zh_video": "太空行走",
+   "headword": "spacewalk",
+   "pos": "n.",
+   "table_definition": "本文：太空行走；n. (spacewalk) 太空行走（make a spacewalk；a seven-hour spacewalk）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 14,
+   "en": "exertion",
+   "zh_video": "辛苦作业",
+   "headword": "exertion",
+   "pos": "n.",
+   "table_definition": "本文：辛苦作业；n. 费力，劳累（physical exertion；breathless from exertion）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 14,
+   "en": "installing",
+   "zh_video": "安装了",
+   "headword": "install",
+   "pos": "v.",
+   "table_definition": "本文：安装了；v. (install) 安装（install software/a heating system）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 15,
+   "en": "imagery",
+   "zh_video": "影像",
+   "headword": "imagery",
+   "pos": "n.",
+   "table_definition": "本文：影像；n. 影像，图像（总称）；意象（satellite imagery；poetic imagery）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 15,
+   "en": "crisp",
+   "zh_video": "清楚分明",
+   "headword": "crisp",
+   "pos": "adj.",
+   "table_definition": "本文：清楚分明；adj. 清晰分明的；脆的（crisp photos；crisp autumn air）"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 15,
+   "en": "vision",
+   "zh_video": "视力",
+   "headword": "vision",
+   "pos": "n.",
+   "table_definition": "本文：视力；n. 视力；远见（have good vision；a leader with vision）"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 15,
+   "en": "renewed",
+   "zh_video": "恢复",
+   "headword": "renew",
+   "pos": "v.",
+   "table_definition": "本文：恢复；v./adj. (renew) 恢复，更新（renew a passport；renewed interest）"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 16,
+   "en": "gathers",
+   "zh_video": "收集",
+   "headword": "gather",
+   "pos": "v.",
+   "table_definition": "本文：收集；v. (gather) 收集，聚集（gather information/firewood）"
+  }
+ ]
+}
