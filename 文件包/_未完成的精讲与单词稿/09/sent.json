@@ -1,0 +1,1814 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "six scrap-metal traders",
+   "predicate": "met",
+   "object_or_complement": "",
+   "explain": "主干是 six scrap-metal traders met，主谓结构；meet 在此是不及物动词，表示“会面，碰头”，不带宾语。谓语 met 是 meet 的过去式，一般过去时，主动语态，叙述1925年发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "In 1925",
+    "role": "时间状语（介词短语）",
+    "zh": "1925年"
+   },
+   {
+    "text": "six scrap-metal traders",
+    "role": "主语（中心词 traders，数词 six 和复合名词 scrap-metal 作前置定语）",
+    "zh": "六名经营废金属的商人"
+   },
+   {
+    "text": "met",
+    "role": "谓语（不及物动词）",
+    "zh": "会面了"
+   },
+   {
+    "text": "secretly",
+    "role": "方式状语（副词），修饰 met",
+    "zh": "秘密地"
+   },
+   {
+    "text": "at the Hôtel de Crillon",
+    "role": "地点状语（介词短语）",
+    "zh": "在……克里雍酒店"
+   },
+   {
+    "text": "in Paris.",
+    "role": "后置定语（介词短语），修饰 the Hôtel de Crillon",
+    "zh": "巴黎的"
+   }
+  ],
+  "structure": "①主句是 six scrap-metal traders met secretly：主语中心词 traders，数词 six 和 scrap-metal 作前置定语；谓语 met 是不及物动词，secretly 作方式状语，说明会面的方式。\n②句首 In 1925 是时间状语，交代故事发生的年份。这个介词短语很短，后面没有加逗号，主语紧接着出现。\n③at the Hôtel de Crillon 是地点状语，in Paris 作 the Hôtel de Crillon 的后置定语，说明酒店所在的城市。英语按“谁、做什么、怎样、在哪里”的顺序展开，地点放在句末；视频说明指出，中文把这个地点状语提到动词前。\n④scrap-metal 是名词短语 scrap metal 加连字符后作定语，交代这些商人经营的货物；下一句的 sold for scrap 与之呼应，说明卢斯蒂格为什么偏偏召集废金属商人。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词短语加连字符作前置定语",
+    "explain": "两个词构成的名词短语（scrap metal、civil service、high school）放在另一个名词前作定语时，常加连字符连成一个复合词，表明它们作为一个整体修饰后面的名词，避免误读：scrap-metal traders 是“经营废金属的商人”，不是“废弃的金属商人”。作定语的名词一般用单数形式，如 a ten-year plan，不说 a ten-years plan。本文第9句的 civil-service remuneration 也是同样的写法。考研翻译中遇到这种结构，要先找出连字符连起来的整体，再确定它与中心词的关系，必要时像视频译文那样增补“经营”等动词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city council approved a five-year plan to rebuild the waterfront.",
+      "zh": "市议会批准了一项重建滨水区的五年计划。"
+     },
+     {
+      "en": "Several high-school teachers signed the open letter.",
+      "zh": "几位高中教师在这封公开信上签了名。"
+     }
+    ]
+   },
+   {
+    "title": "句首时间状语与逗号",
+    "explain": "介词短语作时间状语放在句首时，如果短语很短、不会引起误读，后面的逗号可以省略，外刊中十分常见，本句 In 1925 six scrap-metal traders met… 即是如此；较长的状语，尤其是状语从句，后面一般要用逗号。年份前用介词 in，具体某一天用 on，如 on 15 May 1925。考研写作中句首状语后加逗号更稳妥。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In 2019 the company moved its headquarters to Berlin.",
+      "zh": "2019年，该公司把总部迁到了柏林。"
+     }
+    ]
+   },
+   {
+    "title": "meet 作不及物动词",
+    "explain": "meet 作及物动词时意为“遇见，与……见面”，直接接宾语，如 meet a friend；作不及物动词时主语一般是复数名词或并列名词，表示“（彼此）见面，会面，开会”，如 The committee meets twice a year。本句 six traders met 就是不及物用法，后面直接跟方式状语和地点状语。表示与某人正式会谈时，也可用 meet with sb。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The two leaders met privately before the summit opened.",
+      "zh": "峰会开幕前，两位领导人私下会面。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Hôtel de Crillon",
+    "explain": "巴黎协和广场（Place de la Concorde）旁一家历史悠久的豪华酒店，视频译为“克里雍酒店”。Hôtel 是法语，字母 o 上的符号是法语的长音符（accent circonflexe）；法语 hôtel 既可指旅馆，也可指城市里的大宅邸，de 相当于英语的 of。英文报刊引用法语专名时通常保留原有的变音符号。"
+   },
+   {
+    "term": "scrap metal",
+    "explain": "scrap 作名词指可回收再利用的废料，scrap metal 即废金属，scrap-metal traders 是做废金属买卖的商人。第2句 sold for scrap（作为废铁出售）中的 scrap 也是这个意思。scrap 作动词意为“废弃，取消”，如 scrap a plan（取消计划），考研阅读中常见。"
+   },
+   {
+    "term": "trader 与 dealer",
+    "explain": "trader 指做买卖的人、商人，金融语境中也指交易员；第3句用 each dealer 指同一批人，dealer 侧重经营某类商品的商人，如 an art dealer（艺术品商人）。前后换词指同一对象，是英文常用的同义替换。"
+   },
+   {
+    "term": "secretly",
+    "explain": "副词，秘密地，相当于 in secret。秘密会面与第2句的 confidentially、第3句的 vow secrecy 前后呼应，层层强调保密，这是骗局得以实施的前提。"
+   }
+  ],
+  "translation_tip": "视频译文“1925年，六名经营废金属的商人在巴黎的克里雍酒店秘密地会面了。”的处理：①句首时间状语 In 1925 照原位置译出，后加逗号。②复合名词定语 scrap-metal 译为“经营废金属的”，增补“经营”，说明商人与废金属的关系；six 译为“六名”，补出量词。③按视频说明，地点状语 at the Hôtel de Crillon in Paris 提到动词前，后置定语 in Paris 前移，译为“在巴黎的克里雍酒店”，地名由大到小排列。④secretly 译为“秘密地”放在“会面了”之前，“了”表示动作已经发生。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "A deputy director-general",
+   "predicate": "shared",
+   "object_or_complement": "the momentous news",
+   "explain": "主干是 A deputy director-general shared the momentous news，主谓宾结构；that 引导的同位语从句说明 news 的具体内容。谓语 shared 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A deputy director-general",
+    "role": "主语（中心词 director-general，deputy 作前置定语，表示“副的”）",
+    "zh": "一位副的总负责人"
+   },
+   {
+    "text": "of the Ministry of Posts and Telegraphs",
+    "role": "后置定语（介词短语），修饰 director-general",
+    "zh": "邮电部的"
+   },
+   {
+    "text": "shared",
+    "role": "谓语",
+    "zh": "分享了"
+   },
+   {
+    "text": "the momentous news,",
+    "role": "宾语",
+    "zh": "一个重大的消息"
+   },
+   {
+    "text": "confidentially,",
+    "role": "插入的方式状语（副词），修饰 shared",
+    "zh": "私下地"
+   },
+   {
+    "text": "that the Eiffel Tower was to be sold for scrap.",
+    "role": "同位语从句，说明 news 的内容（that 不作成分）",
+    "zh": "埃菲尔铁塔将作为废铁出售"
+   }
+  ],
+  "structure": "①主句是 A deputy director-general … shared the momentous news：主语中心词 director-general，deputy 作前置定语表示“副的”，of the Ministry of Posts and Telegraphs 是介词短语作后置定语（视频说明），说明是哪个部门的官员。谓语 shared，宾语 the momentous news。\n②confidentially 是插入的副词，修饰 shared（视频说明），前后用逗号隔开，夹在宾语和同位语从句之间，说明消息是私下透露的。\n③that the Eiffel Tower was to be sold for scrap 是同位语从句，说明 news 的内容（视频说明）。that 只起连接作用，在从句中不作任何成分；从句主语 the Eiffel Tower，谓语 was to be sold 是 be to do 的被动形式，表示按安排“将要被出售”；for scrap 意为“作为废料”。\n④由于插入了 confidentially，同位语从句与它说明的 news 被隔开，阅读时要越过插入语，把 that 从句与 news 连起来。\n⑤本句按受骗商人眼中的表面身份叙述，称这个人为邮电部的副总负责人；直到第6句才揭穿，他其实是骗子维克多·卢斯蒂格。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语从句（that 不作成分）",
+    "explain": "同位语从句跟在 news、fact、idea、belief、hope、claim、promise 等抽象名词之后，说明这个名词的具体内容，that 只起连接作用，在从句中不作成分，一般不能省略。区分同位语从句与定语从句：定语从句中的 that 在从句里作主语或宾语，如 the news that he brought us（that 作 brought 的宾语）；同位语从句本身是一个完整的句子，如本句 the Eiffel Tower was to be sold for scrap 主谓齐全，that 不作成分。考研阅读和翻译常考这种区分，翻译时同位语从句常译成逗号或冒号后的独立分句，也可译成“……的消息”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The news that the factory would close shocked the whole town.",
+      "zh": "工厂即将关闭的消息震惊了全镇。"
+     },
+     {
+      "en": "There is growing evidence that regular exercise improves memory.",
+      "zh": "越来越多的证据表明，经常锻炼能改善记忆力。"
+     }
+    ]
+   },
+   {
+    "title": "名词与同位语从句被隔开",
+    "explain": "为了平衡句子、避免头重脚轻，英语常把较长的同位语从句放在句末，使它与所说明的名词被谓语或插入成分隔开。本句 confidentially 插在 news 和 that 从句之间；又如 A rumour spread that the minister would resign 中，同位语从句与 rumour 被谓语 spread 隔开。阅读时遇到句末突然出现的 that 从句，要往前找它说明的抽象名词，不能误当成宾语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A report appeared last week that the bank was planning to cut 2,000 jobs.",
+      "zh": "上周有报道称，这家银行正计划裁员2000人。"
+     }
+    ]
+   },
+   {
+    "title": "be to do 及其被动形式 be to be done",
+    "explain": "be to do 表示按计划、安排或命令将要发生的事，常见于新闻和正式文体，如 The president is to visit Japan next month；被动形式为 be to be done。用过去时 was/were to do 表示从过去看将要发生的事；was/were to have done 表示原计划要做但实际没有做成。本句 was to be sold 表示“（按安排）将要被出售”，视频说明译为“将要被……”，译文中处理为“将作为废铁出售”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new bridge is to be completed by the end of next year.",
+      "zh": "新桥将于明年年底前完工。"
+     },
+     {
+      "en": "All passengers were to be screened before boarding.",
+      "zh": "所有乘客登机前都要接受安检。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "director-general",
+    "explain": "多用于政府部门、大型机构或国际组织的最高行政负责人，如 the Director-General of the WHO（世界卫生组织总干事）。视频译为“总负责人”，A deputy director-general 即“一位副的总负责人”。"
+   },
+   {
+    "term": "the Ministry of Posts and Telegraphs",
+    "explain": "邮电部。ministry 指政府的“部”，首字母大写构成机构名称；posts 指邮政，telegraphs 指电报。视频把这个后置定语译为“邮电部的”。"
+   },
+   {
+    "term": "momentous",
+    "explain": "形容词，重大的、关系重大的，多修饰 decision、event、occasion、news 等；与名词 moment 的书面义“重要性”（of great moment）相关。"
+   },
+   {
+    "term": "sell sth for scrap",
+    "explain": "把某物当作废料卖掉，for 表示“作为”。视频译为“作为废铁出售”，scrap 在本句指拆塔后得到的废铁。"
+   },
+   {
+    "term": "the Eiffel Tower",
+    "explain": "埃菲尔铁塔，位于巴黎，以工程师古斯塔夫·埃菲尔（Gustave Eiffel）的名字命名，他的公司设计并建造了这座铁塔。"
+   }
+  ],
+  "translation_tip": "视频译文“邮电部的一位副的总负责人向他们私下地分享了一个重大的消息，埃菲尔铁塔将作为废铁出售。”的处理：①后置定语 of the Ministry of Posts and Telegraphs 前移为“邮电部的”，放在最前面；不定冠词 A 译为“一位”。②增补“向他们”，交代消息是分享给上一句的六名商人，句意更完整。③插入的 confidentially 提到动词前，译为状语“私下地”。④同位语从句不译成“……的消息”这样的长定语，而是放到逗号后单独成句，直接说出消息内容；was to be sold 译为“将……出售”，for scrap 译为“作为废铁”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "He",
+   "predicate": "invited … and made",
+   "object_or_complement": "tenders（invited 的宾语）；each dealer（made 的宾语），vow secrecy 作宾语补足语",
+   "explain": "一个主语带两个并列谓语：He invited tenders（主谓宾）and made each dealer solemnly vow secrecy（主谓宾宾补）。两个谓语都是一般过去时，主动语态；句末不定式短语作目的状语。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指上句那位副的总负责人）",
+    "zh": "他"
+   },
+   {
+    "text": "invited",
+    "role": "谓语一",
+    "zh": "请他们"
+   },
+   {
+    "text": "tenders",
+    "role": "宾语（invited 的宾语）",
+    "zh": "投标"
+   },
+   {
+    "text": "and made",
+    "role": "并列连词 and + 谓语二（使役动词 make）",
+    "zh": "并让"
+   },
+   {
+    "text": "each dealer",
+    "role": "宾语（made 的宾语）",
+    "zh": "每位商人"
+   },
+   {
+    "text": "solemnly",
+    "role": "方式状语（副词），修饰 vow",
+    "zh": "郑重地"
+   },
+   {
+    "text": "vow",
+    "role": "宾语补足语（不带 to 的不定式）",
+    "zh": "发誓"
+   },
+   {
+    "text": "secrecy,",
+    "role": "宾语（vow 的宾语）",
+    "zh": "要保密"
+   },
+   {
+    "text": "ostensibly",
+    "role": "评注性状语，修饰后面的目的状语，表示“表面上”",
+    "zh": "表面上"
+   },
+   {
+    "text": "to spare",
+    "role": "目的状语（不定式短语）的动词部分",
+    "zh": "是为了避免引起"
+   },
+   {
+    "text": "the public indignation.",
+    "role": "spare 的双宾语：the public 为间接宾语，indignation 为直接宾语（spare sb sth）",
+    "zh": "公愤"
+   }
+  ],
+  "structure": "①主句是 He invited tenders and made each dealer solemnly vow secrecy：一个主语 He 带两个并列谓语，用 and 连接。He 指上句的副的总负责人。\n②第一个谓语 invited tenders 是主谓宾结构，invite tenders 意为“邀请投标，招标”。\n③第二个谓语是“make + 宾语 + 不带 to 的不定式”的使役结构（视频说明 make sb do）：each dealer 是 made 的宾语，vow secrecy 是宾语补足语，vow 是不带 to 的不定式，secrecy 是 vow 的宾语（视频说明 vow secrecy：发誓保密）；solemnly 修饰 vow，说明发誓时郑重其事。\n④ostensibly to spare the public indignation 是不定式短语作目的状语（视频说明），说明要求保密的理由；ostensibly 修饰这个目的状语，表示这只是表面上的理由。spare 带双宾语，构成 spare sb sth（使某人免受……，视频说明），the public 是间接宾语，indignation 是直接宾语。\n⑤ostensibly 暗示另有不便明说的真实意图，下一句用 pretext（借口）直接点明这一点。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "使役动词 make + 宾语 + 不带 to 的不定式",
+    "explain": "make、let、have 作使役动词时，宾语补足语用不带 to 的不定式：make sb do sth（让某人做某事）。本句 made each dealer solemnly vow secrecy 中，vow 前不能加 to。变为被动语态时要还原 to：Each dealer was made to vow secrecy。考研完形和写作中常考这一“主动不带 to、被动带 to”的区别；let 一般不用于被动语态，被动意义可改用 be allowed to do。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The manager made every employee sign a confidentiality agreement.",
+      "zh": "经理让每位员工都签了一份保密协议。"
+     },
+     {
+      "en": "The students were made to rewrite the essay from scratch.",
+      "zh": "学生们被要求从头重写那篇文章。"
+     }
+    ]
+   },
+   {
+    "title": "spare 的双宾语用法 spare sb sth",
+    "explain": "spare 可带双宾语，spare sb sth 意为“使某人免受（麻烦、痛苦、尴尬等）”，如 spare sb the trouble、spare sb the embarrassment，间接宾语 sb 在前，直接宾语 sth 在后。本句 spare the public indignation 中，the public 是间接宾语，indignation 是直接宾语（视频说明：spare sb sth 使某人免受……）。spare 还有“抽出，匀出”之义，如 Can you spare me a few minutes? 两种用法都带双宾语，要靠语境区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She wrote the report herself to spare her colleagues the extra work.",
+      "zh": "她亲自写了那份报告，免得同事们多干活。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作目的状语与 ostensibly",
+    "explain": "不定式短语可放在句末作目的状语，说明主句动作的目的，相当于 in order to do 或 so as to do。本句 to spare the public indignation 说明为什么要求保密，ostensibly 修饰这个目的状语，表明这只是表面上的目的。ostensibly、supposedly、allegedly 这类副词提示读者：说话人给出的理由或说法未必是真的。考研阅读中，它们常是推断作者态度的线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The factory was closed, ostensibly to cut costs, although many workers suspected other motives.",
+      "zh": "工厂被关闭了，表面上是为了削减成本，但许多工人怀疑另有动机。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "invite tenders",
+    "explain": "招标，邀请各方投标。tender 作名词指投标、标书，常见搭配有 put sth out to tender（就某事招标）、submit a tender（投标）、win a tender（中标）。第8句的 won 和第14句的 the winner 都与这次招标相呼应。"
+   },
+   {
+    "term": "vow secrecy",
+    "explain": "发誓保密（视频说明）。类似说法有 swear sb to secrecy（让某人发誓保密）、be sworn to secrecy（被要求发誓保密）。vow 也可接不定式或 that 从句：vow to do sth、vow that…。"
+   },
+   {
+    "term": "dealer",
+    "explain": "经营某类商品的商人，如 an art dealer、a car dealer。本句 each dealer 指第1句的六名 scrap-metal traders，是同义替换，视频译为“每位商人”。"
+   },
+   {
+    "term": "the public",
+    "explain": "公众，民众，作主语时谓语可用单数也可用复数。本句 the public 作 spare 的间接宾语，视频把它与 indignation 合译为“公愤”。"
+   }
+  ],
+  "translation_tip": "视频译文“他请他们投标，并让每位商人郑重地发誓要保密，表面上是为了避免引起公愤。”的处理：①invited tenders 译为“请他们投标”，增补“他们”，并把名词 tenders 转译为动词“投标”，句子更顺。②使役结构 made each dealer vow secrecy 译为“让每位商人……发誓要保密”，增补“要”，说明发誓的内容；solemnly 译为状语“郑重地”。③目的状语 ostensibly to spare… 单独成为分句“表面上是为了……”，增补“是”。④spare the public indignation 本义是“使公众免于愤慨”，视频转换为“避免引起公愤”，把双宾语 the public 和 indignation 合译为“公愤”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The pretext",
+   "predicate": "was not",
+   "object_or_complement": "absurd",
+   "explain": "主系表结构：系动词 was 加否定词 not，形容词 absurd 作表语。一般过去时，叙述当时的情况。"
+  },
+  "components": [
+   {
+    "text": "The pretext",
+    "role": "主语（the 回指上句给出的保密理由）",
+    "zh": "这个借口"
+   },
+   {
+    "text": "was not",
+    "role": "系动词 was + 否定词 not（系动词不单独译出）",
+    "zh": "并不"
+   },
+   {
+    "text": "absurd.",
+    "role": "表语（形容词）",
+    "zh": "荒唐"
+   }
+  ],
+  "structure": "①本句是简单的主系表结构：主语 The pretext，系动词 was 加 not 构成否定，形容词 absurd 作表语。\n②The pretext 中的定冠词 the 回指上文：第3句中卢斯蒂格以避免引起公愤为由要求商人保密，ostensibly 已经暗示这只是对外的说法，本句直接用 pretext（借口）给它定性。\n③本句是第二段的主题句，先下判断“这个借口并不荒唐”，接着第5句（铁塔原本注定在二十年后拆除）和第7句（当局哀叹铁塔维护费用高昂）给出依据，说明骗局利用了真实的背景。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "not + 否定意义的形容词：委婉的肯定",
+    "explain": "系动词 be 后接形容词作表语，否定时 not 直接放在 be 之后：was not absurd。用 not 否定一个贬义或否定意义的形容词，语气比直接用褒义词更有分寸：本句并不是说这个借口完全合理，只是说它不离谱、有一定可信度。常见的有 not unreasonable、not uncommon、not without merit。考研阅读中，这种“否定 + 否定”的说法常用来表达作者克制、谨慎的肯定态度，做态度题时不能把它理解成强烈赞同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Given the limited budget, the plan was not unreasonable.",
+      "zh": "考虑到预算有限，这个计划并非不合理。"
+     },
+     {
+      "en": "Her fears about the merger were not groundless.",
+      "zh": "她对这次合并的担忧并非毫无根据。"
+     }
+    ]
+   },
+   {
+    "title": "定冠词 the 加概括性名词回指前文",
+    "explain": "名词第一次出现时多用不定冠词，再次提到时用定冠词 the；the 加一个概括性的名词，还可以回指前文描述的一件事或一个说法。本句 The pretext 回指第3句中“避免引起公愤”的保密理由；第6句的 The high-ranking deputy 回指第2句的 A deputy director-general。考研阅读的指代题常要求找出这类名词所指的具体内容，答案往往在前一两句中。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Officials blamed the delay on bad weather. The explanation satisfied few passengers.",
+      "zh": "官员们把延误归咎于天气恶劣，这个解释几乎没有让乘客满意。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pretext",
+    "explain": "名词，借口、托词，指为了掩盖真实目的而给出的理由。常见搭配 on/under the pretext of (doing) sth（以……为借口）、a pretext for (doing) sth（……的借口）。"
+   },
+   {
+    "term": "absurd",
+    "explain": "形容词，荒唐的、荒谬的、不合常理的；名词 absurdity，副词 absurdly。本句 not absurd 视频译为“并不荒唐”。"
+   }
+  ],
+  "translation_tip": "视频译文“这个借口并不荒唐。”的处理：①The pretext 中的 the 回指上文，译为“这个借口”。②系动词 was 不单独译出，not 译为“并不”，比单用“不”语气更委婉，也暗含“与人们的预想不同”。③形容词 absurd 作表语，直接译为“荒唐”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "the monument",
+   "predicate": "had originally been",
+   "object_or_complement": "destined to come down after twenty years",
+   "explain": "主系表结构：形容词 destined 作表语，后接不定式构成 be destined to do（注定要……）。系动词 had been 为过去完成时，表示在故事发生的1925年之前，铁塔的去留早已定下。"
+  },
+  "components": [
+   {
+    "text": "Built for the 1889 World's Fair,",
+    "role": "过去分词短语，补充说明 the monument（逻辑主语为 the monument，表被动）",
+    "zh": "为1889年世博会而建的"
+   },
+   {
+    "text": "the monument",
+    "role": "主语（指埃菲尔铁塔）",
+    "zh": "这座……纪念建筑"
+   },
+   {
+    "text": "had originally been",
+    "role": "系动词（过去完成时 had been），originally 为插在其中的时间状语",
+    "zh": "原本就"
+   },
+   {
+    "text": "destined",
+    "role": "表语（形容词）",
+    "zh": "注定"
+   },
+   {
+    "text": "to come down",
+    "role": "不定式，与 destined 构成 be destined to do；come down 意为“被拆除”",
+    "zh": "要……拆除"
+   },
+   {
+    "text": "after twenty years.",
+    "role": "时间状语（介词短语）",
+    "zh": "在二十年后"
+   }
+  ],
+  "structure": "①主句是 the monument had originally been destined to come down after twenty years：主语 the monument 指埃菲尔铁塔；系动词 had been 用过去完成时，destined 作表语，与不定式 to come down 构成 be destined to do（注定要……，视频说明）；come down 在这里意为“被拆除”（视频说明）。originally 插在 had 和 been 之间，意为“原本，最初”；after twenty years 是时间状语。\n②句首 Built for the 1889 World's Fair 是过去分词短语，补充说明 the monument（视频说明），交代铁塔是为1889年世博会建造的。它的逻辑主语是主句主语 the monument，铁塔是“被建造”的一方，所以用过去分词。\n③全文叙事的时间点是1925年，本句追溯更早的安排：铁塔建成时就定下了二十年后拆除，所以用过去完成时。originally 也提示这是最初的打算，后来并没有实现。\n④本句为第4句 The pretext was not absurd 提供第一条依据：既然铁塔原本就该拆除，“卖废铁”的说法就有几分可信。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语置于句首",
+    "explain": "过去分词短语可以放在句首，用逗号与主句隔开，补充说明主句主语的背景、原因或状态。它的逻辑主语必须是主句的主语，而且二者是被动关系。本句 Built for the 1889 World's Fair 的逻辑主语是 the monument：铁塔被建造。常见错误是主句主语与分词的逻辑主语不一致，如 Built in 1889, tourists still flock to the tower（游客不是被建造的）就是悬垂结构。翻译时，这种分词短语常可处理为前置定语，如本句译为“为1889年世博会而建的纪念建筑”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Written in plain language, the guide is easy for beginners to follow.",
+      "zh": "这本指南用浅显的语言写成，初学者很容易看懂。"
+     },
+     {
+      "en": "Founded in 1851, the newspaper is one of the oldest in the country.",
+      "zh": "这家报纸创办于1851年，是该国历史最悠久的报纸之一。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时追溯“过去的过去”",
+    "explain": "叙述过去的事件时，如果要交代在此之前就已存在的情况或安排，用过去完成时。本句故事时间是1925年，而“二十年后拆除”是1889年建塔时就定下的，所以用 had been destined。考研阅读中，叙述性文字由一般过去时转为过去完成时，往往是在插入背景或倒叙，读的时候要据此理清事件的先后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the rescue team arrived, the climbers had been missing for three days.",
+      "zh": "救援队赶到时，登山者已经失踪三天了。"
+     },
+     {
+      "en": "The village had been abandoned long before the dam was built.",
+      "zh": "早在大坝修建之前，这个村子就已经荒废了。"
+     }
+    ]
+   },
+   {
+    "title": "be destined to do / be destined for",
+    "explain": "destined 作形容词，be destined to do sth 表示“注定要做某事”，be destined for sth 表示“注定得到某物”或“预定运往某地”，如 a young player destined for stardom（注定成为明星的年轻球员）、goods destined for export（准备出口的货物）。它常含命运早已安排的意味，本句指铁塔建造之初定下的拆除期限。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The project seemed destined to fail from the start.",
+      "zh": "这个项目似乎从一开始就注定要失败。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the 1889 World's Fair",
+    "explain": "1889年巴黎世界博览会（法语 Exposition Universelle），为纪念法国大革命一百周年而举办，埃菲尔铁塔就是为这届博览会修建的。World's Fair 是美式英语对世界博览会的叫法，也常说 world exhibition 或 Expo。视频译为“世博会”。"
+   },
+   {
+    "term": "come down",
+    "explain": "短语动词，本句指建筑物被拆除，视频译为“拆除”；也可指价格、温度下降，雨雪落下，飞机降落等。以拆除者为主语的“拆除”要用及物的 pull down、tear down、knock down。"
+   },
+   {
+    "term": "monument",
+    "explain": "名词，纪念碑、纪念性建筑，也指古迹，如 an ancient monument。本句用 the monument 指上文的 the Eiffel Tower，第7句又用 the tower 指代，是英文避免重复的常用手法。"
+   },
+   {
+    "term": "originally",
+    "explain": "副词，原本、最初，常暗示后来情况有所改变。铁塔最初只获准保留二十年，后来因用作无线电报天线等用途而得以保留。"
+   }
+  ],
+  "translation_tip": "视频译文“这座为1889年世博会而建的纪念建筑，原本就注定要在二十年后拆除。”的处理：①句首的过去分词短语 Built for the 1889 World's Fair 转为前置定语“为1889年世博会而建的”，修饰“纪念建筑”，并用“这座”回指上文的铁塔。②主语较长，后面用逗号断开。③originally 译为“原本就”，“就”强调早已如此；be destined to 译为“注定要”。④时间状语 after twenty years 提到“拆除”之前，译为“在二十年后”；come down 在此译为“拆除”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The high-ranking deputy",
+   "predicate": "was",
+   "object_or_complement": "Victor Lustig",
+   "explain": "主系表结构：系动词 was 后接专有名词 Victor Lustig 作表语，表明主语的真实身份。一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The high-ranking",
+    "role": "限定词 The + 前置定语（复合形容词 high-ranking）",
+    "zh": "那位位高权重的"
+   },
+   {
+    "text": "deputy",
+    "role": "主语中心词（回指第2句的 A deputy director-general）",
+    "zh": "副总长"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "正是"
+   },
+   {
+    "text": "Victor Lustig,",
+    "role": "表语（专有名词）",
+    "zh": "维克多·卢斯蒂格"
+   },
+   {
+    "text": "a crook",
+    "role": "同位语，说明 Victor Lustig",
+    "zh": "一个骗子"
+   },
+   {
+    "text": "whose ministerial stationery was a forgery.",
+    "role": "定语从句，修饰 crook（whose 在从句中作定语，修饰 stationery）",
+    "zh": "他的那些部长的信笺都是伪造品"
+   }
+  ],
+  "structure": "①主句是 The high-ranking deputy was Victor Lustig，主系表结构。主语 The high-ranking deputy 回指第2句的 A deputy director-general，用 the 表示前文提到过的那个人；high-ranking 是复合形容词，意为“级别高的”，作前置定语。\n②a crook 是同位语，说明 Victor Lustig（视频说明）。前面几句一直按受骗商人看到的样子称他为部里的官员，本句才揭开真相。\n③whose ministerial stationery was a forgery 是定语从句，修饰 crook（视频说明）。whose 在从句中作定语，修饰 ministerial stationery，相当于 the crook's ministerial stationery；从句是主系表结构，a forgery 作表语。ministerial stationery 指印有部里抬头的公文信笺，他正是靠伪造的信笺冒充官员。\n④high-ranking 与 crook 形成反差：表面上位高权重，实际上是个骗子。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whose 引导的定语从句",
+    "explain": "whose 是关系代词的所有格形式，在从句中作定语，后面紧跟它修饰的名词，先行词可以是人也可以是物。本句先行词是 crook，whose ministerial stationery 相当于 the crook's ministerial stationery。识别方法：whose 后面一定先接名词，再接从句谓语，本句是 whose + ministerial stationery + was a forgery。考研易错点：把 whose 与 who's（who is 或 who has 的缩写）混淆；翻译时常把定语从句拆成独立分句，用“他的”“其”回指先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She interviewed a farmer whose crops had been destroyed by the flood.",
+      "zh": "她采访了一位农民，他的庄稼被洪水毁了。"
+     },
+     {
+      "en": "The museum, whose collection includes over 5,000 paintings, reopens next week.",
+      "zh": "这家博物馆下周重新开放，其藏品包括5000多幅画作。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语对前面的名词作进一步说明，与它指同一个人或事物，常用逗号隔开。本句 a crook 是 Victor Lustig 的同位语，说明他的身份。同位语后面还可以再带定语从句，如 a crook whose…，这时定语从句修饰的是同位语中的名词 crook。新闻和传记中，“人名 + 逗号 + a/an + 名词”是介绍人物身份的常见写法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The award went to Maria Lopez, a nurse who had worked in the village for thirty years.",
+      "zh": "这个奖颁给了玛丽亚·洛佩斯，一位在村里工作了三十年的护士。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Victor Lustig",
+    "explain": "维克多·卢斯蒂格，历史上著名的诈骗犯，以冒充官员“出售”埃菲尔铁塔而出名，本文标题称他为 The Man Who Sold the Eiffel Tower Twice。"
+   },
+   {
+    "term": "stationery 与 stationary",
+    "explain": "stationery 是不可数名词，指文具，也指信纸、信封等书写用品，本句指印有部里抬头的公文信笺，视频译为“信笺”。stationary 是形容词，意为“静止的，不动的”，如 a stationary car。两词读音相同，拼写只差一个字母，考研写作中容易写错，可借 stationery 中的 e 联想 envelope（信封）。"
+   },
+   {
+    "term": "forgery",
+    "explain": "名词，伪造品、赝品，也指伪造行为；动词 forge 意为“伪造”，伪造者是 forger。本句 was a forgery 视频译为“都是伪造品”。"
+   },
+   {
+    "term": "high-ranking",
+    "explain": "复合形容词，级别高的、高级的，如 a high-ranking official（高级官员）；反义词 low-ranking。"
+   },
+   {
+    "term": "crook",
+    "explain": "口语词，骗子、坏人；本义是钩状物、牧羊人的曲柄杖，形容词 crooked 意为“弯曲的；不诚实的”。"
+   }
+  ],
+  "translation_tip": "视频译文“那位位高权重的副总长正是维克多·卢斯蒂格，一个骗子，他的那些部长的信笺都是伪造品。”的处理：①The 译为“那位”，回指第2句的人物；deputy 在此译为“副总长”，指前文那位副的总负责人。②系动词 was 译为“正是”，突出揭示真相的语气。③同位语 a crook 保留在原位置，用逗号隔开，译为“一个骗子”。④定语从句不前置，而是拆成独立分句，用“他的”对应 whose；增补“那些”和“都”，表示这些信笺全部是伪造的。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "He",
+   "predicate": "had read",
+   "object_or_complement": "a newspaper article",
+   "explain": "主谓宾结构，in which 引导的定语从句修饰宾语 article。谓语 had read 为过去完成时，主动语态，表示读到这篇文章发生在他召集商人行骗之前。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指卢斯蒂格）",
+    "zh": "他"
+   },
+   {
+    "text": "had read",
+    "role": "谓语（过去完成时）",
+    "zh": "曾读到过"
+   },
+   {
+    "text": "a newspaper article",
+    "role": "宾语（newspaper 作前置定语）",
+    "zh": "报纸上的一篇文章"
+   },
+   {
+    "text": "in which",
+    "role": "介词 + 关系代词，引导定语从句，修饰 article；in which 在从句中作地点状语",
+    "zh": "文中"
+   },
+   {
+    "text": "the authorities",
+    "role": "定语从句的主语",
+    "zh": "当局"
+   },
+   {
+    "text": "lamented",
+    "role": "定语从句的谓语",
+    "zh": "哀叹"
+   },
+   {
+    "text": "the hefty cost",
+    "role": "定语从句的宾语",
+    "zh": "高昂费用"
+   },
+   {
+    "text": "of the tower's upkeep.",
+    "role": "后置定语（介词短语），修饰 cost",
+    "zh": "铁塔维护的"
+   }
+  ],
+  "structure": "①主句 He had read a newspaper article 是主谓宾结构，He 指卢斯蒂格。谓语用过去完成时 had read，表示读到这篇文章发生在他召集商人之前，交代他想出这个骗局的由来。\n②in which 引导定语从句，修饰 article（视频说明）。which 指代先行词 article，在从句中作介词 in 的宾语，in which 整体作地点状语，意为“在这篇文章中”。从句主语 the authorities，谓语 lamented，宾语 the hefty cost。\n③of the tower's upkeep 作 cost 的后置定语，说明是什么方面的费用；the tower's 是名词所有格，作 upkeep 的定语。hefty 意为“（数目，数量）相当大的”（视频说明），the hefty cost 即高昂的费用。\n④本句为第4句 The pretext was not absurd 提供第二条依据：当局确实为铁塔高昂的维护费发愁，“卖掉铁塔”的说法因此更显可信。卢斯蒂格的骗局建立在真实的新闻报道之上。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 + which 引导定语从句",
+    "explain": "关系代词 which 在定语从句中作介词的宾语时，介词可以放在 which 前面，构成“介词 + which”，整体在从句中作状语。介词的选择取决于从句中的搭配或它与先行词的关系：in the article 变为 in which，the method by which…，the speed at which…。本句 in which 意为“在这篇文章里”，相当于 where。介词后指物只能用 which，指人用 whom，不能用 that。考研长难句中 in which、by which、through which 很常见，阅读时把介词和先行词放回从句，就能还原结构：the authorities lamented the hefty cost in the article。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The study, in which more than 2,000 adults took part, lasted ten years.",
+      "zh": "这项研究有2000多名成年人参加，持续了十年。"
+     },
+     {
+      "en": "This is the process by which the water is purified.",
+      "zh": "这就是净化水的过程。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时交代先前的经历",
+    "explain": "叙述过去的事件时，用过去完成时交代在此之前已经发生的事，说明前因。本句 had read 表示卢斯蒂格先读到了报道，然后才策划骗局；如果用 read（一般过去时），就看不出这件事发生在召集商人之前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She had studied French for years before she moved to Paris.",
+      "zh": "她搬到巴黎之前已经学了多年法语。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与 of 结构连用",
+    "explain": "表示所属关系时，有生命的名词多用 's，无生命的名词多用 of 结构；但表示国家、城市、机构、建筑等的名词也常用 's，如 the tower's upkeep、the city's population、the company's profits。本句 the hefty cost of the tower's upkeep 中两种形式连用：of 结构表示费用的内容，'s 表示维护的对象，避免了 the cost of the upkeep of the tower 这样连用两个 of 的笨重说法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum's roof needs urgent repairs.",
+      "zh": "博物馆的屋顶急需修缮。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the authorities",
+    "explain": "当局、官方，指有权管理某事的政府部门或机构，表示此义时总用复数，前面加 the，如 the local authorities（地方当局）、the health authorities（卫生部门）。"
+   },
+   {
+    "term": "lament",
+    "explain": "动词，哀叹、痛惜，也表示对某事惋惜、不满，如 lament the decline of…；名词同形，意为“哀叹；挽歌”。书面语，考研阅读中常用来表示某人对某种现象的惋惜或批评态度。"
+   },
+   {
+    "term": "hefty",
+    "explain": "形容词，口语色彩较强，指数目、数量相当大的（视频说明），常修饰 bill、fine、price、fee、cost 等，如 a hefty fine（高额罚款）；也可指人或物体又大又重。"
+   },
+   {
+    "term": "upkeep",
+    "explain": "不可数名词，指房屋、建筑等的维护保养，也指维护保养的费用，如 the upkeep of a castle。"
+   }
+  ],
+  "translation_tip": "视频译文“他曾读到过报纸上的一篇文章，文中当局哀叹铁塔维护的高昂费用。”的处理：①过去完成时 had read 译为“曾读到过”，“曾”和“过”表示先前的经历。②名词作定语的 a newspaper article 译为“报纸上的一篇文章”。③in which 引导的定语从句不前置，拆成独立分句，in which 译为“文中”，既回指 article，又交代地点。④后置定语 of the tower's upkeep 前移为“铁塔维护的”，hefty 译为“高昂”，与“费用”搭配。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "André Poisson",
+   "predicate": "won",
+   "object_or_complement": "",
+   "explain": "主谓结构：win 在此为不及物动词，意为“胜出”，在招标语境中即“中标”，不带宾语。一般过去时，主动语态。主语和谓语之间插入了较长的同位语。"
+  },
+  "components": [
+   {
+    "text": "André Poisson,",
+    "role": "主语",
+    "zh": "安德烈·普瓦松"
+   },
+   {
+    "text": "a businessman",
+    "role": "同位语，说明 André Poisson",
+    "zh": "一个生意人"
+   },
+   {
+    "text": "impatient",
+    "role": "后置定语（形容词短语的中心词），修饰 businessman",
+    "zh": "迫不及待地"
+   },
+   {
+    "text": "to gain a foothold in Paris,",
+    "role": "不定式，与 impatient 构成 impatient to do（急于做……）",
+    "zh": "想在巴黎拥有一席之地"
+   },
+   {
+    "text": "won.",
+    "role": "谓语（不及物动词）",
+    "zh": "中标了"
+   }
+  ],
+  "structure": "①主干只有 André Poisson … won，不及物动词 won 意为“胜出”，在招标的语境中就是“中标了”，与第3句的 invited tenders 呼应。\n②a businessman impatient to gain a foothold in Paris 是同位语，说明 André Poisson（视频说明），用两个逗号隔在主语和谓语之间。\n③同位语内部，impatient to gain a foothold in Paris 是形容词短语作后置定语，修饰 businessman（视频说明）；impatient to do 意为“急于做……”，不定式 to gain a foothold 补充说明 impatient 的内容；gain a foothold 意为“站稳脚跟”（视频说明），in Paris 说明地点。\n④同位语交代了普瓦松的处境和心态：他在巴黎还没有站稳脚跟，急于找机会，这与后文他付贿赂、受骗后又羞于报警的情节前后呼应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语插在主语和谓语之间",
+    "explain": "同位语可以紧跟在主语后面，用两个逗号隔开，进一步介绍主语。同位语较长时，主语和谓语被远远隔开，阅读时要先跳过两个逗号之间的成分，找到真正的谓语。本句主语 André Poisson 后的同位语有九个词，谓语 won 直到句末才出现。判断方法是：逗号后的名词短语与前面的名词指同一个人或事物。考研阅读的长难句常用这种结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Dr Chen, a historian who has studied the region for decades, rejects this view.",
+      "zh": "陈博士，一位研究该地区数十年的历史学家，并不认同这一观点。"
+     },
+     {
+      "en": "The company's founder, a former engineer eager to cut costs, rejected the proposal.",
+      "zh": "公司创始人曾是一名工程师，一心想削减成本，他否决了这项提议。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "单个形容词作定语时一般放在名词前，如 an impatient businessman；形容词带上不定式、介词短语等补足成分后构成形容词短语，要放在名词后面作后置定语，如 a businessman impatient to gain a foothold、a country rich in oil。可以把它看成省略了“关系代词 + be”的定语从句：a businessman (who was) impatient to gain a foothold in Paris。考研翻译中，后置的形容词短语一般前移译成“……的”，也可像本句视频译文那样拆成独立分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Investors anxious to avoid risk moved their money into government bonds.",
+      "zh": "急于规避风险的投资者把资金转入了政府债券。"
+     },
+     {
+      "en": "It is a city famous for its canals and bridges.",
+      "zh": "这是一座以运河和桥梁闻名的城市。"
+     }
+    ]
+   },
+   {
+    "title": "win 的不及物用法",
+    "explain": "win 作及物动词时，宾语是比赛、奖项、合同等，如 win a contract、win the election；作不及物动词时意为“获胜，赢”。本句 won 后面不带宾语，结合上文招标的语境，意思是“中标”。注意 win 后接比赛或奖项，beat 后接对手：可以说 beat the other bidders，不能说 win the other bidders。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Three firms bid for the contract, and the smallest one won.",
+      "zh": "三家公司竞标这份合同，最后规模最小的一家中标了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gain a foothold",
+    "explain": "foothold 本义是攀爬时的立足点、踏脚处，比喻在某个领域或地方站稳脚跟，常接 in，如 gain/establish/secure a foothold in the market。视频说明译为“站稳脚跟”，本句译为“拥有一席之地”。"
+   },
+   {
+    "term": "impatient to do",
+    "explain": "impatient to do sth 意为“急于做某事，迫不及待要做某事”；be impatient with sb 意为“对某人不耐烦”；be impatient for sth 意为“急切盼望某事”。本句视频译为“迫不及待地”。"
+   },
+   {
+    "term": "André Poisson",
+    "explain": "安德烈·普瓦松，法国人名。André 中字母 e 上的符号是法语的尖音符（accent aigu），英文报刊引用时通常保留。"
+   }
+  ],
+  "translation_tip": "视频译文“安德烈·普瓦松，一个生意人，迫不及待地想在巴黎拥有一席之地，中标了。”的处理：①保留英文语序，主语后用逗号隔出同位语，译为“一个生意人”。②后置的形容词短语 impatient to gain a foothold in Paris 没有前置成长定语，而是拆成独立分句，impatient 转译为状语“迫不及待地”，增补“想”，与不定式 to gain 对应。③谓语 won 放在句末，根据招标语境译为“中标了”，与开头的主语遥相呼应。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Lustig；Poisson",
+   "predicate": "intimated；paid",
+   "object_or_complement": "that 引导的宾语从句（intimated 的宾语）；an additional bribe（paid 的宾语）",
+   "explain": "由 and 连接的两个并列分句：Lustig intimated that…（主谓宾，宾语是从句）和 Poisson paid an additional bribe（主谓宾）。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Lustig",
+    "role": "第一个分句的主语",
+    "zh": "卢斯蒂格"
+   },
+   {
+    "text": "intimated",
+    "role": "第一个分句的谓语",
+    "zh": "暗示"
+   },
+   {
+    "text": "that his modest",
+    "role": "that 引导宾语从句（that 不作成分）；his 和 modest 作 remuneration 的前置定语",
+    "zh": "他那份微薄的"
+   },
+   {
+    "text": "civil-service",
+    "role": "前置定语（名词短语加连字符作定语）",
+    "zh": "公务员"
+   },
+   {
+    "text": "remuneration",
+    "role": "宾语从句的主语中心词",
+    "zh": "薪酬"
+   },
+   {
+    "text": "needed",
+    "role": "宾语从句的谓语",
+    "zh": "需要"
+   },
+   {
+    "text": "supplementing,",
+    "role": "need 的宾语（动名词，主动形式表被动）",
+    "zh": "补贴"
+   },
+   {
+    "text": "and Poisson",
+    "role": "并列连词 and + 第二个分句的主语",
+    "zh": "普瓦松然后"
+   },
+   {
+    "text": "paid",
+    "role": "第二个分句的谓语",
+    "zh": "付了"
+   },
+   {
+    "text": "an additional",
+    "role": "前置定语，修饰 bribe",
+    "zh": "一笔额外的"
+   },
+   {
+    "text": "bribe.",
+    "role": "宾语",
+    "zh": "贿赂"
+   }
+  ],
+  "structure": "①全句是由 and 连接的并列句。第一个分句 Lustig intimated that…：intimated 意为“暗示”，that 引导宾语从句（视频说明），作 intimated 的宾语。\n②宾语从句中，主语中心词是 remuneration，前面有三个定语：物主代词 his，形容词 modest（微薄的），名词短语 civil-service（公务员的，加连字符作定语）。谓语 needed 后接动名词 supplementing，need doing 表示“需要被……”，主动形式表被动（视频说明），相当于 needed to be supplemented。\n③第二个分句 Poisson paid an additional bribe 是主谓宾结构。and 连接的两个分句有先后和因果关系：卢斯蒂格先暗示，普瓦松随即领会，付了贿赂，视频译文用“然后”体现这一点。\n④卢斯蒂格没有直接索贿，而是暗示自己薪酬微薄，让对方主动掏钱；additional 说明这笔贿赂是在购塔款之外另付的。普瓦松肯行贿，说明他完全相信对方是真官员。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "need doing：主动形式表被动",
+    "explain": "need、want、require 后接动名词时，动名词用主动形式表示被动意义，need doing = need to be done，主语是动作的承受者。本句 his remuneration needed supplementing 即 his remuneration needed to be supplemented，薪酬“需要被补贴”。注意不说 need being done；need to do 的主语则是动作的执行者，如 He needed to supplement his income。be worth doing 也有类似的主动表被动现象，如 The book is worth reading。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The roof needs repairing before winter.",
+      "zh": "屋顶在入冬前需要修一修。"
+     },
+     {
+      "en": "These figures need checking again.",
+      "zh": "这些数字需要再核对一遍。"
+     }
+    ]
+   },
+   {
+    "title": "that 引导的宾语从句",
+    "explain": "及物动词后可用 that 引导的从句作宾语，表示所说、所想、所暗示的内容，常见动词有 say、claim、suggest、imply、intimate、hint 等。that 在宾语从句中不作成分，口语中常省略，正式文体中多保留。本句 intimated that… 中，that 后的从句主谓齐全。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The spokesman hinted that the talks might resume next month.",
+      "zh": "发言人暗示，会谈可能在下个月恢复。"
+     }
+    ]
+   },
+   {
+    "title": "and 连接的并列句暗含因果",
+    "explain": "and 连接两个分句时，除了表示并列，还常暗含时间先后或因果关系，相当于 and then、and so。本句卢斯蒂格的暗示在前，普瓦松付贿赂在后，后者是对前者的回应。翻译时可以根据逻辑增补“于是”“然后”等词，视频译文用了“然后”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The price of fuel rose sharply, and airlines raised their fares.",
+      "zh": "燃油价格大幅上涨，航空公司随即提高了票价。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "intimate 的两种读音",
+    "explain": "intimate 作动词意为“暗示，透露”，读 /ˈɪntɪmeɪt/，比 hint 正式；作形容词意为“亲密的，私密的”，读 /ˈɪntɪmət/。本句是动词，视频译为“暗示”。"
+   },
+   {
+    "term": "modest",
+    "explain": "熟词僻义：modest 常义是“谦虚的”，修饰收入、数量、规模时意为“不多的，不大的”，如 a modest salary、a modest increase。本句视频译为“微薄的”。"
+   },
+   {
+    "term": "civil service",
+    "explain": "指一国政府的文职系统及其工作人员，civil servant 即公务员。civil-service remuneration 指公务员的薪酬，视频译为“公务员薪酬”。"
+   },
+   {
+    "term": "remuneration",
+    "explain": "正式用语，指工作报酬、薪酬，常见于合同、公司年报等文件，日常说 pay 或 salary。"
+   },
+   {
+    "term": "bribe",
+    "explain": "名词，贿赂；动词意为“向……行贿”，如 bribe sb to do sth；名词 bribery 指行贿受贿行为。"
+   }
+  ],
+  "translation_tip": "视频译文“卢斯蒂格暗示，他那份微薄的公务员薪酬需要补贴，普瓦松然后付了一笔额外的贿赂。”的处理：①intimated 后加逗号，宾语从句单独成句，that 不译出。②宾语从句中的三个前置定语按“他那份 + 微薄的 + 公务员”的顺序译出，增补量词“那份”。③need supplementing 译为“需要补贴”，主动形式表被动，汉语也不必译出“被”字。④and 根据前后逻辑译为“然后”，放在第二个分句的主语后面；不定冠词 an 译为“一笔”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Lustig",
+   "predicate": "left",
+   "object_or_complement": "",
+   "explain": "主谓结构：leave 在此为不及物动词，意为“动身，离开”，for Vienna 说明目的地，with the takings 作伴随状语。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Lustig",
+    "role": "主语",
+    "zh": "卢斯蒂格"
+   },
+   {
+    "text": "left for Vienna",
+    "role": "谓语 left + 目的地状语 for Vienna（leave for：动身前往）",
+    "zh": "去了维也纳"
+   },
+   {
+    "text": "with the takings.",
+    "role": "伴随状语（介词短语）",
+    "zh": "带着这笔进账"
+   }
+  ],
+  "structure": "①主干是 Lustig left，leave for 意为“动身前往”（视频说明），for Vienna 说明去的地方。\n②with the takings 是介词短语作伴随状语，说明他离开时带着什么。the takings 指他从这次骗局中得到的钱，即购塔款和贿赂。\n③本句很短，交代骗局得手后卢斯蒂格随即离开巴黎，与下一段普瓦松默默咽下损失形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "leave 与 leave for",
+    "explain": "leave + 地点表示“离开某地”，如 leave Paris；leave for + 地点表示“动身去某地”，for 引出目的地；两者合起来是 leave A for B（离开 A 去 B）。易错：leave Vienna 是离开维也纳，leave for Vienna 是前往维也纳，意思正好相反。类似的 head for、set off for、depart for 中，for 也表示目的地。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The delegation left London for Geneva early on Monday morning.",
+      "zh": "代表团周一清晨离开伦敦，前往日内瓦。"
+     },
+     {
+      "en": "She will leave for Shanghai as soon as the meeting ends.",
+      "zh": "会议一结束，她就动身去上海。"
+     }
+    ]
+   },
+   {
+    "title": "with 短语作伴随状语",
+    "explain": "介词 with + 名词可以作状语，表示动作发生时伴随的物品或情况，如 leave with the money（带着钱离开）。with + 宾语 + 补足语（分词、形容词、介词短语）构成的复合结构也常作伴随状语，如 with the door open、with his hands in his pockets。翻译时这类状语一般提到动词前，译成“带着……”“……着”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He walked out of the bank with a bag full of cash.",
+      "zh": "他拎着装满现金的包走出了银行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "takings",
+    "explain": "名词，总用复数，指商店、剧院等的进款、营业收入，如 the day's takings（当天的进账）。作者用这个商业用语指卢斯蒂格骗来的钱，仿佛他做成了一笔买卖，语带讽刺；视频译为“这笔进账”。"
+   },
+   {
+    "term": "Vienna",
+    "explain": "维也纳，奥地利首都，德语名称为 Wien。"
+   }
+  ],
+  "translation_tip": "视频译文“卢斯蒂格带着这笔进账去了维也纳。”的处理：①伴随状语 with the takings 提到动词前，译为“带着这笔进账”，符合汉语状语在前的习惯；定冠词 the 译为“这笔”，回指上文他得到的钱。②left for Vienna 译为“去了维也纳”，“了”表示动作已完成。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Poisson",
+   "predicate": "swallowed",
+   "object_or_complement": "the loss",
+   "explain": "主谓宾结构，quietly 作方式状语；句首是过去分词与形容词短语并列构成的状语。谓语 swallowed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Fleeced",
+    "role": "状语（过去分词，逻辑主语为 Poisson，表被动）",
+    "zh": "被骗走钱财"
+   },
+   {
+    "text": "and too ashamed",
+    "role": "并列连词 and + 形容词短语，与 Fleeced 并列作状语",
+    "zh": "又实在太丢人"
+   },
+   {
+    "text": "to go to the police,",
+    "role": "不定式，与 too 构成 too…to…（太……而不能……）",
+    "zh": "没脸去报警"
+   },
+   {
+    "text": "Poisson",
+    "role": "主语",
+    "zh": "普瓦松"
+   },
+   {
+    "text": "swallowed",
+    "role": "谓语",
+    "zh": "只能……咽下"
+   },
+   {
+    "text": "the loss",
+    "role": "宾语",
+    "zh": "这笔损失"
+   },
+   {
+    "text": "quietly.",
+    "role": "方式状语（副词），修饰 swallowed",
+    "zh": "默默地"
+   }
+  ],
+  "structure": "①主句是 Poisson swallowed the loss quietly，主谓宾结构，quietly 作方式状语。swallow the loss 用“吞咽”比喻默默忍受损失。\n②句首 Fleeced and too ashamed to go to the police 是过去分词与形容词并列作状语（视频说明），逻辑主语都是主句主语 Poisson：Fleeced 是过去分词，表示普瓦松“被骗走钱财”；too ashamed to go to the police 是形容词短语，表示他的心理状态。两者共同说明他为什么只能默默认栽。\n③too ashamed to go to the police 是 too…to… 结构（视频说明），意为“太丢人而不能去报警”，形式肯定，意义否定。go to the police 意为“报警”（视频说明）。\n④本句解释了骗局为什么没有败露：受害者羞于报警，卢斯蒂格才得以从容离开，也才敢在一个月后故技重施。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "分词与形容词并列作状语",
+    "explain": "过去分词、形容词（短语）都可以放在句首作状语，说明主语的状态、原因等，而且可以用 and 并列。它们的逻辑主语必须是主句主语。本句 Fleeced 和 too ashamed to go to the police 的逻辑主语都是 Poisson，相当于 Because he had been fleeced and was too ashamed to go to the police。考研阅读中，句首逗号前没有主语和谓语的成分，往往就是这种状语，要到逗号后找它的逻辑主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Tired and hungry, the hikers finally reached the village.",
+      "zh": "徒步者们又累又饿，终于到达了村子。"
+     },
+     {
+      "en": "Shocked and unable to speak, she stared at the letter.",
+      "zh": "她震惊得说不出话来，呆呆地盯着那封信。"
+     }
+    ]
+   },
+   {
+    "title": "too…to… 表否定及其例外",
+    "explain": "too + 形容词或副词 + to do 意为“太……而不能……”，形式肯定，意义否定，相当于 so…that…not…，如 too ashamed to go to the police = so ashamed that he did not go to the police。易错点：too 前有 only、but、all 等词，或 too 后接 eager、ready、willing、glad、happy 等表示心情的形容词时，常表示肯定，如 I'm only too glad to help（我非常乐意帮忙）。考研完形和翻译中要据此判断句子是肯定还是否定。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The print is too small to read without glasses.",
+      "zh": "字太小，不戴眼镜看不清。"
+     },
+     {
+      "en": "She was only too happy to accept the offer.",
+      "zh": "她非常乐意接受这个提议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fleece",
+    "explain": "名词常义是“羊毛；抓绒（衣物）”，动词为熟词僻义，口语中指“诈骗（某人）钱财，敲竹杠”，如 be fleeced by con men。本句过去分词 Fleeced 视频译为“被骗走钱财”。"
+   },
+   {
+    "term": "swallow the loss",
+    "explain": "swallow 本义是“吞下”，引申为“默默忍受（损失、侮辱等）”或“轻信（说法）”，如 swallow one's pride（放下自尊）、swallow a story（轻信一个说法）。本句视频译为“咽下这笔损失”，保留了原文的比喻。"
+   },
+   {
+    "term": "go to the police",
+    "explain": "报警，指去找警方报案，也可说 report sth to the police、call the police。第14句和第19句也用了这个短语，三处前后对照。"
+   },
+   {
+    "term": "be ashamed to do",
+    "explain": "因羞愧而不愿意做某事；be ashamed of sth 表示为某事感到羞愧。本句 ashamed 视频拆成“丢人”和“没脸”两处译出。"
+   }
+  ],
+  "translation_tip": "视频译文“被骗走钱财，又实在太丢人、没脸去报警，普瓦松只能默默地咽下这笔损失。”的处理：①句首两个并列状语保留在主语之前：过去分词 Fleeced 译为带“被”字的“被骗走钱财”，体现被动；and 译为“又”。②too ashamed to go to the police 拆成“实在太丢人”和“没脸去报警”两层，用顿号连接，too…to… 的否定意义由“没脸”译出。③增补“只能”，体现他别无选择的处境；quietly 提到动词前译为“默默地”，swallowed the loss 直译为“咽下这笔损失”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Not a whisper of the deceit",
+   "predicate": "appeared",
+   "object_or_complement": "",
+   "explain": "主谓结构：appear 在此为不及物动词，in print 作状语。否定词 Not 在主语中，构成全部否定。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Not a whisper",
+    "role": "主语（Not a + 单数名词，表示“一点……都没有”）",
+    "zh": "半点风声……没有"
+   },
+   {
+    "text": "of the deceit",
+    "role": "后置定语（介词短语），修饰 whisper",
+    "zh": "关于这场骗局的"
+   },
+   {
+    "text": "appeared",
+    "role": "谓语（不及物动词）",
+    "zh": "出现"
+   },
+   {
+    "text": "in print.",
+    "role": "地点状语（介词短语 in print：见报，在报刊上）",
+    "zh": "报纸上"
+   }
+  ],
+  "structure": "①本句主干是 Not a whisper … appeared，主谓结构。主语中心词是 whisper，前面的 Not a 表示“一点……都没有”（视频说明），否定整个主语，全句因此是全部否定。\n②of the deceit 是介词短语作后置定语，说明是关于什么的风声；the deceit 指上文卢斯蒂格的骗局。\n③in print 是介词短语作状语，意为“见报，在报刊上”（视频说明），说明“出现”的范围。\n④否定词 Not 虽然在句首，但它否定的是主语，而不是句首的状语或宾语，所以句子不倒装，仍是“主语 + 谓语”的正常语序。\n⑤本句承接上句：受害者不报警，报纸上就没有任何报道，骗局完全没有暴露。这为第13句卢斯蒂格再次行骗作了铺垫，也与第15句 The affair made the papers 形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "not a + 单数可数名词：强调全部否定",
+    "explain": "not a + 单数可数名词相当于 no + 名词，但语气更强，意为“连一个……都没有”，常加 single 进一步强调：not a single word。本句 Not a whisper of the deceit 字面意思是“连一句关于骗局的低语都没有”，强调消息被捂得严严实实。no 可以直接修饰主语，如 No word came；not 修饰主语时，后面要接 a、an、one 等，如 Not a sound was heard。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Not a single complaint was received during the trial period.",
+      "zh": "试用期间，没有收到一条投诉。"
+     },
+     {
+      "en": "Not a word of the agreement was made public.",
+      "zh": "协议的内容一个字都没有公开。"
+     }
+    ]
+   },
+   {
+    "title": "否定词在句首时是否倒装",
+    "explain": "否定词或含否定意义的词放在句首，修饰状语或前置的宾语时，句子要部分倒装，如 Not once did he complain、Never have I seen such a crowd、Not a word did she say（not a word 是前置的宾语）。否定词修饰的如果是主语，句子保持正常语序，不倒装，如本句 Not a whisper of the deceit appeared in print 和 Not a sound was heard。考研阅读和写作中，判断句首否定是否倒装，关键看否定词修饰的是不是主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Not once did the manager admit his mistake.",
+      "zh": "经理一次也没有承认过自己的错误。"
+     },
+     {
+      "en": "Not a single student failed the exam.",
+      "zh": "没有一个学生考试不及格。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "whisper",
+    "explain": "熟词僻义：whisper 本义是“耳语，低语”，引申为“传闻，风声”，如 whispers of a merger（关于合并的传闻）。本句视频译为“风声”，Not a whisper 即“半点风声都没有”。"
+   },
+   {
+    "term": "deceit",
+    "explain": "名词，欺骗、欺诈行为，本句指这场骗局，视频译为“骗局”。动词 deceive，形容词 deceitful（欺诈的）；deception 也指欺骗。"
+   },
+   {
+    "term": "in print",
+    "explain": "见报，在报刊上（视频说明）；也指书籍仍在印刷发行，反义 out of print 指“绝版的”。appear in print 意为“刊登出来，见诸报端”。"
+   }
+  ],
+  "translation_tip": "视频译文“关于这场骗局的半点风声报纸上没有出现。”的处理：①后置定语 of the deceit 前移，译为“关于这场骗局的”，the 译为“这场”。②Not a whisper 中的否定拆开处理：a whisper 译为“半点风声”，强调极少的量；否定词 not 落到谓语上，译为“没有出现”。③状语 in print 提到谓语前，译为“报纸上”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Lustig",
+   "predicate": "had",
+   "object_or_complement": "the gall（不定式 to reappear… 作 gall 的后置定语）",
+   "explain": "主谓宾结构：had 是谓语，the gall 是宾语，不定式 to reappear 修饰 gall，整体构成 have the gall to do（竟厚着脸皮做……）。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "About a month later",
+    "role": "时间状语",
+    "zh": "大约一个月后"
+   },
+   {
+    "text": "Lustig",
+    "role": "主语",
+    "zh": "卢斯蒂格"
+   },
+   {
+    "text": "had the gall to",
+    "role": "谓语 had + 宾语 the gall + 不定式符号 to，构成 have the gall to do",
+    "zh": "厚颜无耻地去"
+   },
+   {
+    "text": "reappear",
+    "role": "不定式 to reappear 的动词部分，作 gall 的后置定语",
+    "zh": "再一次出现"
+   },
+   {
+    "text": "with an encore",
+    "role": "方式状语（介词短语），说明他以什么方式再度出现",
+    "zh": "重演"
+   },
+   {
+    "text": "of his script",
+    "role": "后置定语（介词短语），修饰 encore",
+    "zh": "他那套剧本"
+   },
+   {
+    "text": "for new dealers.",
+    "role": "后置定语（介词短语），修饰 an encore，说明重演的对象",
+    "zh": "对新的一批商人"
+   }
+  ],
+  "structure": "①主干是 Lustig had the gall to reappear，have the gall to do 意为“竟厚着脸皮做……”（视频说明）。gall 是名词，意为“厚颜无耻”，不定式 to reappear 作 gall 的后置定语，说明他厚着脸皮做了什么。\n②句首 About a month later 是时间状语，later 以上文的骗局为参照，表示“在那之后大约一个月”。短语后没有逗号，与第1句 In 1925 six… 的写法一样。\n③with an encore of his script for new dealers 是介词短语作方式状语，说明他是怎样再度出现的。an encore of… 意为“……的重演”（视频说明），of his script 修饰 encore，说明重演的是他那套剧本；for new dealers 说明重演给谁看，即新的一批商人。\n④encore 和 script 都是戏剧用语：script 是剧本，encore 是应观众要求的返场加演。作者把行骗比作演戏，卢斯蒂格像演员一样把同一出戏再演给新的观众，语带讽刺。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "时间段 + later 与 ago",
+    "explain": "时间段 + later 表示“（从过去某一时间算起）……之后”，以过去的事件为参照，用于叙述过去，如本句 About a month later 和第17句的 27 days later；时间段 + ago 表示“（从现在算起）……以前”，以说话的现在为参照；in + 时间段 用于将来，表示“……之后”，如 I'll be back in a week。考研写作中叙述过去的经历时，“几年后”要用 later，不要误用 in 或 ago。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She left the company in 2015 and, two years later, started her own business.",
+      "zh": "她2015年离开公司，两年后自己创业。"
+     },
+     {
+      "en": "The bridge was opened in May; three weeks later, cracks appeared in the deck.",
+      "zh": "大桥于5月通车，三周后，桥面出现了裂缝。"
+     }
+    ]
+   },
+   {
+    "title": "have the gall to do 与不定式作后置定语",
+    "explain": "have the gall to do sth 意为“竟然厚着脸皮做某事”，带有强烈的贬义和愤慨语气，与 have the nerve to do、have the cheek to do（英式口语）意思相近。结构上，不定式 to do 作名词 gall 的后置定语，说明“厚颜”的具体表现，类似的结构还有 have the courage to do、have the right to do、have the ability to do。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He had the nerve to ask for a pay rise after missing three deadlines.",
+      "zh": "他三次误了期限，竟然还有脸要求加薪。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gall",
+    "explain": "名词，口语中意为“厚颜无耻，放肆”，常用于 have the gall to do；本义是“胆汁”，也指“怨恨”。"
+   },
+   {
+    "term": "encore",
+    "explain": "源自法语，意为“再一次”。在演出中，观众喊 Encore! 要求演员返场，名词 encore 指返场、加演的节目。本句比喻卢斯蒂格把同一场骗局又演了一遍，视频说明译为“……的重演”。"
+   },
+   {
+    "term": "script",
+    "explain": "剧本、讲稿；本句比喻卢斯蒂格事先设计好的一整套行骗说辞和步骤，视频译为“他那套剧本”。"
+   },
+   {
+    "term": "reappear",
+    "explain": "前缀 re-（再，重新）+ appear（出现），意为“再次出现”，视频译为“再一次出现”。"
+   },
+   {
+    "term": "new dealers",
+    "explain": "与第1句的 traders、第3句的 each dealer 呼应，new dealers 指另一批废金属商人，视频译为“新的一批商人”。"
+   }
+  ],
+  "translation_tip": "视频译文“大约一个月后，卢斯蒂格厚颜无耻地去再一次出现，对新的一批商人重演他那套剧本。”的处理：①句首时间状语照原位置译出，后加逗号。②have the gall to 转译为状语“厚颜无耻地去”，直接修饰“再一次出现”。③介词短语 with an encore of his script for new dealers 拆成独立分句：名词 encore 转译为动词“重演”，for new dealers 提前译为“对新的一批商人”，of his script 译为“重演”的宾语“他那套剧本”。④“那套”带贬义色彩，配合 script 的比喻，体现原文的讽刺意味。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "the winner",
+   "predicate": "grew … and went",
+   "object_or_complement": "distrustful（grew 的表语）",
+   "explain": "一个主语带两个并列谓语：grew distrustful 是系表结构，grow 为系动词，意为“变得”；went to the police 是谓语加方向状语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "This time",
+    "role": "时间状语（名词短语直接作状语）",
+    "zh": "这一次"
+   },
+   {
+    "text": "the winner",
+    "role": "主语（指第二轮骗局的中标者）",
+    "zh": "那位中标者"
+   },
+   {
+    "text": "grew distrustful",
+    "role": "谓语一（系动词 grew + 表语 distrustful）",
+    "zh": "起了疑心"
+   },
+   {
+    "text": "and went to the police.",
+    "role": "并列连词 and + 谓语二（go to the police：报警）",
+    "zh": "报了警"
+   }
+  ],
+  "structure": "①主句是 the winner grew distrustful and went to the police，一个主语带两个并列谓语。grew distrustful 是系表结构，grow 作系动词，意为“变得”，形容词 distrustful 作表语，意为“不信任的，起疑心的”；went to the police 意为“报警”。\n②句首 This time 是名词短语直接作时间状语，与上一次骗局形成对比。\n③the winner 指第二轮招标的中标者，与第8句 André Poisson … won 呼应：上一次的中标者付了钱又不敢报警，这一次的中标者起了疑心，直接报了警。两个中标者的不同反应，正是第19句总结的内容。\n④视频说明 distrustful 常与 of 连用，表示对……不信任或怀疑；本句没有写出对象，从上下文可知是对卢斯蒂格及其说法起了疑心。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "grow 作系动词",
+    "explain": "grow 后接形容词作表语时是系动词，意为“逐渐变得”，强调变化是一个过程，如 grow old、grow impatient、grow dark。同类的变化系动词还有 become、get、turn、go、fall 等：turn red、go bad、fall asleep。系动词后接形容词，不能用副词，不能说 grew distrustfully。考研完形中常考这类系动词与形容词的搭配。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the meeting dragged on, the audience grew restless.",
+      "zh": "会议拖得越来越长，听众渐渐坐不住了。"
+     },
+     {
+      "en": "Over the years, the villagers grew suspicious of outsiders.",
+      "zh": "这些年来，村民们对外来者渐渐起了戒心。"
+     }
+    ]
+   },
+   {
+    "title": "this time / next time 直接作状语",
+    "explain": "this、that、next、last、every 等修饰 time 时，名词短语可以直接作状语，不加介词，如 this time、next time、every time。every time、the first time、next time 还可以像连词一样引导时间状语从句，如 Every time I call, he is out。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Last time the shop was closed, so this time we phoned ahead.",
+      "zh": "上次那家店关门了，所以这次我们提前打了电话。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "distrustful (of)",
+    "explain": "形容词，不信任的、有疑心的，常与 of 连用，表示对……不信任或怀疑（视频说明），如 be distrustful of strangers。动词和名词都是 distrust。"
+   },
+   {
+    "term": "the winner",
+    "explain": "winner 本指获胜者，在本文的招标语境中指中标者，视频译为“那位中标者”，the 表示特指第二次骗局中的那个人。"
+   },
+   {
+    "term": "go to the police",
+    "explain": "报警。第11句普瓦松是 too ashamed to go to the police，本句的中标者则 went to the police，两句用同一短语形成对照。"
+   }
+  ],
+  "translation_tip": "视频译文“这一次，那位中标者起了疑心，报了警。”的处理：①This time 放在句首，译为“这一次”，后加逗号。②the winner 译为“那位中标者”，the 译为“那位”。③grew distrustful 没有直译为“变得不信任”，而是译为“起了疑心”，用动宾结构表现心理变化，更符合汉语习惯。④and 不译出，两个动作用逗号隔开，短促有力。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The affair；Lustig",
+   "predicate": "made；made",
+   "object_or_complement": "the papers；his getaway",
+   "explain": "由 and 连接的两个并列分句，都是主谓宾结构，谓语都是 made，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The affair",
+    "role": "第一个分句的主语",
+    "zh": "这桩事件"
+   },
+   {
+    "text": "made the papers,",
+    "role": "谓语 + 宾语（make the papers：上报纸）",
+    "zh": "上了报纸"
+   },
+   {
+    "text": "and Lustig",
+    "role": "并列连词 and + 第二个分句的主语",
+    "zh": "卢斯蒂格"
+   },
+   {
+    "text": "made his getaway.",
+    "role": "谓语 + 宾语（make one's getaway：逃走）",
+    "zh": "逃之夭夭"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句，两个分句结构相同，都是“主语 + made + 宾语”。\n②第一个分句 The affair made the papers：make the papers 意为“上报纸”（视频说明），make 在此表示“登上，出现在”，the papers 指报纸。The affair 指第二次行骗被举报这件事。\n③第二个分句 Lustig made his getaway：make one's getaway 意为“逃走”（视频说明），getaway 是名词，意为“逃跑”。\n④两个分句用同一个动词 made 构成工整的平行结构，节奏明快：事情一见报，卢斯蒂格就逃之夭夭。与第12句 Not a whisper of the deceit appeared in print 相对照，这一次骗局终于见报。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "make 的“登上，达到”义",
+    "explain": "make 除了“制造，使”之外，还可表示“达到，赶上，登上”，宾语常是一个目标或名单，如 make the papers / the headlines（上报纸 / 上头条）、make the team（入选球队）、make the final（进入决赛）、make the train（赶上火车）。这种用法在新闻英语中很常见，不能按“制造”去理解。make one's getaway、make one's escape 中的 make 则表示“做出（某个动作）”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The scandal made the front pages of every national newspaper.",
+      "zh": "这桩丑闻登上了各家全国性报纸的头版。"
+     },
+     {
+      "en": "Only two of the six runners made the final.",
+      "zh": "六名选手中只有两人进入了决赛。"
+     }
+    ]
+   },
+   {
+    "title": "并列句中的平行结构",
+    "explain": "几个分句结构相同、用词相同时，构成平行结构，可以突出对比或先后，使句子紧凑有力。本句两个分句都是“主语 + made + 宾语”，前一个动作引出后一个动作。考研写作中用平行结构列举或对比，能使句子更有节奏感；三项及以上并列时，末项前用 and，并在 and 前加逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Prices rose, wages stagnated, and savings shrank.",
+      "zh": "物价上涨，工资停滞，储蓄缩水。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the papers",
+    "explain": "the papers 是 the newspapers 的口语说法，指各家报纸。make the papers 视频译为“上了报纸”。"
+   },
+   {
+    "term": "getaway",
+    "explain": "名词，逃跑，尤指作案后逃走，如 make one's getaway、a getaway car（作案后逃跑用的汽车）；也指短期度假，如 a weekend getaway。动词短语写作 get away（逃脱）。"
+   },
+   {
+    "term": "affair",
+    "explain": "名词，事件、事情，常指引起公众关注的事件或丑闻，如 the Watergate affair（水门事件）。本句指第二次行骗被举报的事，视频译为“这桩事件”。"
+   }
+  ],
+  "translation_tip": "视频译文“这桩事件上了报纸，卢斯蒂格逃之夭夭。”的处理：①The affair 译为“这桩事件”，“桩”是事件的量词，the 译为“这”。②两个 made 分别按搭配译出：make the papers 译为“上了报纸”，make his getaway 用成语“逃之夭夭”译出，生动且带诙谐色彩。③and 不译，两个分句用逗号隔开，保留原文紧凑的节奏。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The much-repeated second sale",
+   "predicate": "is",
+   "object_or_complement": "a fairy tale",
+   "explain": "主系表结构，名词短语 a fairy tale 作表语。谓语 is 用一般现在时，表达作者对这个流传说法的判断。"
+  },
+  "components": [
+   {
+    "text": "The much-repeated",
+    "role": "限定词 The + 前置定语（复合形容词 much-repeated）",
+    "zh": "那个被反复提及的"
+   },
+   {
+    "text": "second sale",
+    "role": "主语中心词（second 作前置定语）",
+    "zh": "第二次出售"
+   },
+   {
+    "text": "is",
+    "role": "系动词",
+    "zh": "只是"
+   },
+   {
+    "text": "a fairy tale.",
+    "role": "表语（名词短语）",
+    "zh": "个童话"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 The much-repeated second sale，系动词 is，表语 a fairy tale。\n②much-repeated 是“副词 + 过去分词”构成的复合形容词，作前置定语，意为“被反复提及的”；过去分词 repeated 表示被动，即这个说法被人一再讲述。\n③谓语 is 用一般现在时，与全文叙事所用的一般过去时不同：前面讲的是历史事件，本句是作者站在现在对流传说法下的判断。\n④the second sale 指“卢斯蒂格第二次也成功卖掉了铁塔”的说法。上文已经交代，第二次的中标者起了疑心并报了警，所以作者断定这个流传甚广的说法是虚构的。本文标题 The Man Who Sold the Eiffel Tower Twice 用的正是这个流传的说法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "“副词 + 过去分词”构成的复合形容词",
+    "explain": "副词与过去分词用连字符连接，可构成复合形容词作前置定语，表示被动或完成，如 much-repeated（被反复提及的）、well-known（著名的）、long-awaited（期待已久的）、ill-prepared（准备不足的）。以 -ly 结尾的副词与分词连用时一般不加连字符，如 a widely used method。这类复合形容词作表语时通常分开写，如 The story has been much repeated。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The long-awaited report was finally published on Monday.",
+      "zh": "期待已久的报告终于在周一发布了。"
+     },
+     {
+      "en": "Ill-prepared candidates often run out of time in the exam.",
+      "zh": "准备不足的考生在考试中常常时间不够用。"
+     }
+    ]
+   },
+   {
+    "title": "时态转换：一般现在时表达作者的判断",
+    "explain": "叙述历史事件用一般过去时，作者对事件发表评论、作出判断时常改用一般现在时，表示这一判断在现在仍然成立。本句 is 与前后句的 made、went 等过去时形成对比，标志着从叙事转为评论。考研阅读中留意这类时态变化，常能找到作者的观点句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The letter was written in 1820; the signature at the bottom is a later addition.",
+      "zh": "这封信写于1820年，信末的签名是后来加上去的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fairy tale",
+    "explain": "名词，童话；比喻义指虚构的、不真实的说法或故事，本句即此义，视频译为“童话”。作定语时常加连字符，如 a fairy-tale ending（童话般的结局）。"
+   },
+   {
+    "term": "second sale",
+    "explain": "sale 是 sell 的名词形式，the second sale 指第二次出售，与标题中的 Twice 对应。"
+   }
+  ],
+  "translation_tip": "视频译文“那个被反复提及的第二次出售，只是个童话。”的处理：①The 译为“那个”，复合形容词 much-repeated 译为“被反复提及的”，用“被”体现过去分词的被动意义。②主语较长，后面加逗号断开。③系动词 is 译为“只是”，增补“只”，带出“不过是虚构的”这一语气。④a fairy tale 中的 a 译为“个”，省去“一”，口语色彩更浓。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Lustig",
+   "predicate": "broke out of … was recaptured … and served time",
+   "object_or_complement": "detention（介词 out of 的宾语）",
+   "explain": "一个主语带三个并列谓语：broke out of detention（主动）、was recaptured（被动）、served time（主动）。三个谓语都是一般过去时，按事件先后排列；句首是过去分词短语作状语。"
+  },
+  "components": [
+   {
+    "text": "Later",
+    "role": "时间状语，修饰后面的过去分词短语",
+    "zh": "后来"
+   },
+   {
+    "text": "arrested in the United States",
+    "role": "过去分词短语作状语（逻辑主语为 Lustig，表被动），in the United States 为地点状语",
+    "zh": "在美国被捕"
+   },
+   {
+    "text": "for making",
+    "role": "原因状语（介词 for + 动名词 making）",
+    "zh": "因为制造"
+   },
+   {
+    "text": "fake money,",
+    "role": "动名词 making 的宾语",
+    "zh": "假币"
+   },
+   {
+    "text": "Lustig",
+    "role": "主语",
+    "zh": "卢斯蒂格……他"
+   },
+   {
+    "text": "broke out of detention,",
+    "role": "谓语一（break out of：从……逃出），detention 为介词 out of 的宾语",
+    "zh": "在关押（期间）越狱"
+   },
+   {
+    "text": "was recaptured",
+    "role": "谓语二（一般过去时，被动语态）",
+    "zh": "又被抓回"
+   },
+   {
+    "text": "27 days later",
+    "role": "时间状语",
+    "zh": "27天后"
+   },
+   {
+    "text": "and served time",
+    "role": "并列连词 and + 谓语三（serve time：服刑）",
+    "zh": "并……服刑"
+   },
+   {
+    "text": "on the penal island",
+    "role": "地点状语（介词短语）",
+    "zh": "在……这座“刑罚之岛”上"
+   },
+   {
+    "text": "of Alcatraz.",
+    "role": "后置定语（of 表同位关系，说明 island 的名称）",
+    "zh": "恶魔岛"
+   }
+  ],
+  "structure": "①主句是 Lustig broke out of detention, was recaptured 27 days later and served time on the penal island of Alcatraz：一个主语带三个并列谓语（视频说明），按时间先后排列：越狱、被抓回、服刑。break out of 意为“从……逃出”，serve time 意为“服刑”（视频说明）；第二个谓语 was recaptured 是被动语态，27 days later 作时间状语。\n②句首 Later arrested in the United States for making fake money 是过去分词短语作状语，主语是 Lustig（视频说明）。arrested 与 Lustig 是被动关系，相当于 After he was later arrested in the United States…；Later 修饰这个分词短语，in the United States 是地点状语，for making fake money 说明被捕的原因，for 后接动名词短语。\n③on the penal island of Alcatraz 是地点状语。penal 意为“刑罚的”，of Alcatraz 与 the penal island 是同位关系，说明这座岛的名称，与 the city of Paris 结构相同。\n④本句是全文最长的一句，把卢斯蒂格后来的经历压缩在一句话里：分词短语交代被捕，三个并列谓语交代越狱、再次被捕和服刑，节奏紧凑。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "句首过去分词短语作状语",
+    "explain": "过去分词短语作状语时，逻辑主语必须是主句主语，二者为被动关系。本句 arrested 的逻辑主语是 Lustig，即“卢斯蒂格被捕”，相当于 After he was arrested…。分词前可以加 later、once、when、if 等词，使时间或条件关系更明确，如 Once approved, the plan will…；本句的 Later 表示被捕发生在前文的骗局之后。阅读时，逗号前以分词开头、没有主语的部分，一般就是这种状语，主句主语往往紧跟在逗号后面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Once approved by the board, the plan will take effect immediately.",
+      "zh": "该计划一经董事会批准，将立即生效。"
+     },
+     {
+      "en": "Later diagnosed with a rare illness, the singer cancelled her world tour.",
+      "zh": "后来，这位歌手被诊断出患有一种罕见疾病，取消了她的世界巡演。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语中的主动与被动",
+    "explain": "同一个主语带几个并列谓语时，各谓语可以有不同的语态。本句 broke out of 和 served time 是主动语态，was recaptured 是被动语态，主语都是 Lustig。被动语态的谓语要带上自己的助动词 was，不能与前面的主动谓语共用。三项并列时本句原文在 and 前没有加逗号；考研写作中三项及以上并列，建议在 and 前加逗号（牛津逗号），层次更清楚。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The suspect fled the country, was arrested in Spain, and was returned to Britain a month later.",
+      "zh": "嫌疑人逃离了该国，在西班牙被捕，一个月后被遣返英国。"
+     }
+    ]
+   },
+   {
+    "title": "for 表示原因 + 动名词",
+    "explain": "介词 for 可以表示原因、理由，常与表示奖惩、褒贬的动词连用：arrest、punish、fine、blame sb for doing sth，praise、thank sb for sth。介词后的动词要用动名词形式，如本句 for making fake money。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company was fined for failing to protect customer data.",
+      "zh": "这家公司因未能保护客户数据而被罚款。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Alcatraz",
+    "explain": "恶魔岛，美国旧金山湾内的一座小岛，1934年至1963年设有联邦监狱，以关押重刑犯、戒备森严著称，现为旅游景点。视频译为“恶魔岛”，并用“刑罚之岛”对应 penal island。"
+   },
+   {
+    "term": "the penal island of Alcatraz",
+    "explain": "of 表示同位关系：the + 普通名词 + of + 专有名词，前后指同一事物，如 the city of Paris、the island of Alcatraz。penal 意为“刑罚的”，penal island 指关押犯人的岛。"
+   },
+   {
+    "term": "break out of",
+    "explain": "从……逃出，常指越狱，如 break out of prison；名词 breakout 意为“越狱”。"
+   },
+   {
+    "term": "serve time",
+    "explain": "服刑，也说 serve a sentence，如 serve time in prison、serve a ten-year sentence。"
+   },
+   {
+    "term": "fake money",
+    "explain": "假币，正式说法是 counterfeit money 或 counterfeit currency。"
+   }
+  ],
+  "translation_tip": "视频译文“后来，卢斯蒂格在美国被捕，因为制造假币，他在关押（期间）越狱，27天后又被抓回，并在恶魔岛这座“刑罚之岛”上服刑。”的处理：①句首分词短语的逻辑主语 Lustig 提前，译成完整的分句“卢斯蒂格在美国被捕”，Later 译为“后来”单独放在句首。②原因状语 for making fake money 译成独立的短句“因为制造假币”，放在被捕之后。③主句主语改用代词“他”回指，三个并列谓语依次译为“在关押（期间）越狱”“27天后又被抓回”“并在……服刑”，括号补出“期间”，“又”体现 re- 的“再次”。④the penal island of Alcatraz 先译出专名“恶魔岛”，再用“这座‘刑罚之岛’”说明 penal island。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "He",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主谓结构：die 为不及物动词，of pneumonia 说明死因，in 1947 作时间状语。一般过去时。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指卢斯蒂格）",
+    "zh": "他"
+   },
+   {
+    "text": "died of",
+    "role": "谓语（die of：死于，of 引出死因）",
+    "zh": "死于"
+   },
+   {
+    "text": "pneumonia",
+    "role": "介词 of 的宾语",
+    "zh": "肺炎"
+   },
+   {
+    "text": "in 1947.",
+    "role": "时间状语（介词短语）",
+    "zh": "1947年"
+   }
+  ],
+  "structure": "①本句是简单的主谓结构：主语 He 指卢斯蒂格，谓语 died，介词短语 of pneumonia 说明死因，in 1947 是时间状语。\n②本句交代卢斯蒂格的结局：从行骗、被捕、越狱到服刑，最后死于肺炎。最后一段（第19句）再回到两个受骗者身上作总结。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "die of 与 die from",
+    "explain": "die of 和 die from 都表示“死于……”。传统上 die of 多接疾病、饥饿、衰老等，如 die of cancer、die of hunger；die from 多接受伤、事故等外部原因，如 die from injuries。现代英语中两者常可互换，接疾病名称时 die of 最常见。表示死于事故、战争等事件，用 die in，如 die in a car crash。die 是不及物动词，没有被动语态。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Thousands died of cholera during the epidemic.",
+      "zh": "疫情期间，数千人死于霍乱。"
+     },
+     {
+      "en": "Two workers died from injuries sustained in the explosion.",
+      "zh": "两名工人因在爆炸中受伤而死亡。"
+     }
+    ]
+   },
+   {
+    "title": "时间状语的位置",
+    "explain": "英语中时间状语常放在句末，按“主语 + 谓语 + 其他成分 + 时间”排列；汉语时间状语一般放在主语前或谓语前。本句 in 1947 在句末，视频译文把它提到句首。考研翻译中要注意这种语序调整。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum first opened to the public in 1902.",
+      "zh": "这座博物馆于1902年首次对公众开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pneumonia",
+    "explain": "名词，肺炎。词首的 p 不发音，英式读 /njuːˈməʊniə/，美式读 /nuːˈmoʊniə/；pneumo- 来自希腊语，与“肺”有关，如 pneumonic（肺炎的）。"
+   },
+   {
+    "term": "die",
+    "explain": "不及物动词，名词 death，形容词 dead（死的）、dying（垂死的）。表示“死了多少年”用 have been dead for…，不说 have died for…。"
+   }
+  ],
+  "translation_tip": "视频译文“1947年，他死于肺炎。”的处理：①句末的时间状语 in 1947 提到句首，后加逗号，符合汉语先交代时间的习惯。②died of 译为书面的“死于”，直接与“肺炎”搭配，简洁明了。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "the one who paid；the one who kept his money",
+   "predicate": "kept；went",
+   "object_or_complement": "mum（kept 的表语）",
+   "explain": "由 and 连接的两个并列分句：the one who paid kept mum（主系表，keep 作系动词，mum 作表语）和 the one who kept his money went to the police（谓语加方向状语）。两个分句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Of Lustig's two marks,",
+    "role": "范围状语（介词短语，of 表“在……之中”）",
+    "zh": "卢斯蒂格的两个目标中"
+   },
+   {
+    "text": "the one",
+    "role": "第一个分句的主语（one 代替 mark）",
+    "zh": "那个"
+   },
+   {
+    "text": "who paid",
+    "role": "限制性定语从句，修饰 the one（who 在从句中作主语）",
+    "zh": "付了钱的"
+   },
+   {
+    "text": "kept mum",
+    "role": "谓语（系动词 kept + 表语 mum；keep mum：闭口不言）",
+    "zh": "守口如瓶"
+   },
+   {
+    "text": "and the one",
+    "role": "并列连词 and + 第二个分句的主语",
+    "zh": "那个则"
+   },
+   {
+    "text": "who kept his money",
+    "role": "限制性定语从句，修饰 the one（who 在从句中作主语）",
+    "zh": "保住了钱的"
+   },
+   {
+    "text": "went to the police.",
+    "role": "谓语 + 方向状语（go to the police：报警）",
+    "zh": "去报了警"
+   }
+  ],
+  "structure": "①句首 Of Lustig's two marks 是介词短语作状语，of 意为“在……之中”（视频说明），说明后面两个分句的范围；marks 意为“行骗对象”（视频说明），two marks 指第一次的普瓦松和第二次的那位中标者。\n②第一个分句 the one who paid kept mum：主语 the one，one 代替 mark，who paid 是限制性定语从句，who 在从句中作主语；谓语 kept mum，keep 作系动词，mum 是形容词作表语，keep mum 意为“闭口不言”（视频说明）。\n③第二个分句 the one who kept his money went to the police：结构与前一分句相同，who kept his money 修饰 the one，谓语 went to the police 意为“报警”。\n④两个分句构成对照，并带有文字游戏：前一个 kept mum，后一个 kept his money，同一个 kept 意思不同。付了钱的人反而不吭声，没付钱的人却去报了警，全文以这一反讽收尾，呼应第11句普瓦松羞于报警的情节。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 of 表示“在……之中”",
+    "explain": "of + 复数名词或表示群体的名词放在句首，可以表示范围，意为“在……之中”，相当于 among，后面通常是对其中个体的比较或说明，如 Of the three candidates, she is the most experienced。这种用法多见于正式文体，常与最高级或 the one…the other… 等对举结构连用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Of all the proposals submitted, only two were considered practical.",
+      "zh": "在提交的所有提案中，只有两项被认为可行。"
+     },
+     {
+      "en": "Of the four survivors, three were children.",
+      "zh": "四名幸存者中，有三名是儿童。"
+     }
+    ]
+   },
+   {
+    "title": "代词 one 与 the one who…",
+    "explain": "one 可以代替前文出现过的单数可数名词，the one 表示特指，常后接定语从句或介词短语，如本句 the one who paid = the mark who paid。前后两个 the one who… 对举，分别指两个不同的对象。代替复数名词用 the ones，代替不可数名词或特指的事物常用 that，如 The climate here is milder than that of the north。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Of the two applicants, the one who had worked abroad got the job.",
+      "zh": "两位应聘者中，有海外工作经历的那位得到了这份工作。"
+     }
+    ]
+   },
+   {
+    "title": "keep 的系动词用法与一词多义",
+    "explain": "keep 作系动词时后接形容词作表语，表示“保持某种状态”，如 keep quiet、keep calm、keep mum；作及物动词时意为“保留，保住”，如 keep his money。本句两个分句分别用了 keep 的这两种用法，形成文字上的对照。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The witness kept silent, but she kept a copy of every letter.",
+      "zh": "这位证人一直保持沉默，但她把每封信都留了一份副本。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mark",
+    "explain": "熟词僻义：mark 常义是“记号，分数”，口语中还可指“诈骗或捉弄的对象，容易上当的人”，本句即此义，视频说明为“行骗对象”，译文译为“目标”。"
+   },
+   {
+    "term": "keep mum",
+    "explain": "口语，意为“保持沉默，守口如瓶”，常说 keep mum about sth；mum 在这里是形容词，意为“沉默的”。Mum's the word 意为“别说出去”。"
+   },
+   {
+    "term": "the one who paid / the one who kept his money",
+    "explain": "前一个指付了钱、被骗的普瓦松，后一个指第二次骗局中起了疑心、保住了钱并去报警的中标者。"
+   }
+  ],
+  "translation_tip": "视频译文“卢斯蒂格的两个目标中，付了钱的那个守口如瓶，保住了钱的那个则去报了警。”的处理：①Of Lustig's two marks 译为“卢斯蒂格的两个目标中”，marks 取“目标”一义，“中”对应 of 的范围义。②两个定语从句 who paid、who kept his money 都前置，译为“付了钱的那个”“保住了钱的那个”，one 译为“那个”。③kept mum 用成语“守口如瓶”译出；第二个分句增补“则”，突出前后对照，and 不单独译出。"
+ }
+]

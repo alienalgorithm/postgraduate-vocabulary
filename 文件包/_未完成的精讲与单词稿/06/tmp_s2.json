@@ -1,0 +1,305 @@
+[
+{
+ "n": 8,
+ "trunk": {
+  "subject": "they",
+  "predicate": "found",
+  "object_or_complement": "no deception",
+  "explain": "主谓宾结构，否定词 no 放在宾语前，相当于 did not find any deception。谓语 found 为一般过去时、主动语态；句末的现在分词短语作结果状语。"
+ },
+ "components": [
+  {"text": "In September 1904", "zh": "1904年9月", "role": "时间状语（介词短语）"},
+  {"text": "they", "zh": "他们", "role": "主语（指委员们）"},
+  {"text": "found", "zh": "发现", "role": "谓语"},
+  {"text": "no deception,", "zh": "没有……任何骗局", "role": "宾语（no 否定宾语，使全句为否定句）"},
+  {"text": "in effect", "zh": "这实际上等于", "role": "状语（介词短语，意为“实际上”），修饰后面的分词短语"},
+  {"text": "certifying", "zh": "证实了", "role": "结果状语（现在分词，逻辑主语是 they）"},
+  {"text": "the act", "zh": "这场表演", "role": "certifying 的宾语"},
+  {"text": "authentic.", "zh": "真实可信", "role": "宾语补足语（形容词），说明 the act"}
+ ],
+ "structure": "①主句是 they found no deception：主语 they 指委员会成员，谓语 found，宾语 no deception。In September 1904 作时间状语放在句首，英文月份在前、年份在后，前面用介词 in。\n②no 是否定限定词，修饰 deception，否定意义落在宾语上，相当于 they did not find any deception，视频译为“没有发现任何骗局”。\n③逗号后的 certifying the act authentic 是现在分词短语作结果状语（视频说明），说明“没有发现骗局”带来的结果，分词的逻辑主语是 they。\n④certify sth + 形容词意为“证明某物……”（视频说明），本句 the act 是宾语，authentic 是宾语补足语，说明表演被证明为真实可信。\n⑤in effect 意为“实际上”（视频说明），表示从实际效果看如此：没有发现骗局，就相当于证实了表演是真的。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "现在分词短语作结果状语",
+   "explain": "现在分词短语放在句末、用逗号与主句隔开时，可以表示前面动作自然带来的结果，常见的有 making、leaving、causing 等，前面有时加 thus。分词的逻辑主语一般是主句主语，有时是整个主句的内容。本句 certifying the act authentic 是“没有发现骗局”所带来的结果。考研易错点：表示出乎意料的结果常用不定式 only to do（如 He hurried to the station, only to find the train had left），表示顺理成章的结果用现在分词。",
+   "difficult": true,
+   "examples": [
+    {"en": "The storm knocked down power lines across the region, leaving thousands of homes without electricity.", "zh": "暴风雨刮倒了整个地区的电线，导致数千户家庭断电。"},
+    {"en": "Prices fell sharply in the first quarter, making the company's targets almost impossible to reach.", "zh": "第一季度价格大幅下跌，使公司的目标几乎无法实现。"}
+   ]
+  },
+  {
+   "title": "certify + 宾语 + 形容词：宾语补足语",
+   "explain": "certify 意为“（正式）证明，证实”，可以构成 certify sth/sb + 形容词，或 certify sth/sb (as) + 名词，后面的形容词或名词作宾语补足语，说明宾语被证明为什么样，如 certify sb dead（证明某人死亡）。被动形式是 sth be certified + 形容词。本句 certifying the act authentic 中，authentic 补充说明 the act，即证实“表演是真实可信的”。同类动词有 declare、find、prove，如 The jury found him guilty（陪审团裁定他有罪）。",
+   "difficult": true,
+   "examples": [
+    {"en": "A doctor must certify the patient fit to travel before the flight.", "zh": "飞行前必须由医生证明病人适合出行。"},
+    {"en": "The painting was certified authentic by two independent experts.", "zh": "这幅画经两位独立专家鉴定为真迹。"}
+   ]
+  },
+  {
+   "title": "no + 名词表示否定",
+   "explain": "no 作限定词放在名词前，相当于 not any 或 not a，把否定落在名词上，如 found no deception = did not find any deception。这种写法比 did not find 更简洁，语气也更肯定。考研阅读中，否定词不一定出现在谓语上，要留意 no、none、nothing、never 等否定词的位置，不要把否定句读成肯定句。",
+   "difficult": false,
+   "examples": [
+    {"en": "The survey found no link between screen time and exam results.", "zh": "调查没有发现看屏幕时间与考试成绩之间有联系。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "in effect", "explain": "介词短语，意为“实际上，事实上”，强调实际效果，而不是表面或名义上的情况，视频说明“（in effect：实际上）”。另一个意思是（法律、规定）“有效，在实施中”，如 The rule is still in effect。易混：take effect（生效）。"},
+  {"term": "deception", "explain": "名词，欺骗，骗局；动词 deceive，形容词 deceptive（欺骗性的，使人误解的）。视频译为“骗局”。"},
+  {"term": "authentic", "explain": "形容词，真的，真实可信的，非伪造的，如 an authentic signature（真实的签名）；也指地道的，如 authentic Italian food。视频译为“真实可信”。名词 authenticity，动词 authenticate（鉴定……为真）。"}
+ ],
+ "translation_tip": "视频译文“1904年9月，他们没有发现任何骗局，这实际上等于证实了这场表演真实可信。”的处理：①时间状语按汉语习惯写成“1904年9月”，年份在前、月份在后，放在句首并用逗号断开。②no deception 的否定移到动词上，译成“没有发现任何骗局”，“任何”体现 no 的完全否定。③结果状语 certifying... 拆成独立分句，用“这”回指前面“没有发现骗局”这一情况。④in effect 译为“实际上等于”，“等于”点明这是由结果推出的效果；宾语补足语 authentic 放在宾语之后，译为“这场表演真实可信”。"
+},
+{
+ "n": 9,
+ "trunk": {
+  "subject": "the psychologist Oskar Pfungst",
+  "predicate": "tested",
+  "object_or_complement": "the act",
+  "explain": "主谓宾结构，谓语 tested 为一般过去时、主动语态；systematically 作方式状语，句末现在分词短语作伴随状语。"
+ },
+ "components": [
+  {"text": "In 1907", "zh": "1907年", "role": "时间状语（介词短语）"},
+  {"text": "the psychologist", "zh": "心理学家", "role": "主语的一部分（身份名词，与 Oskar Pfungst 构成紧密同位关系）"},
+  {"text": "Oskar Pfungst", "zh": "奥斯卡·普丰斯特", "role": "主语（人名）"},
+  {"text": "tested", "zh": "检验了", "role": "谓语"},
+  {"text": "the act", "zh": "这场表演", "role": "宾语"},
+  {"text": "systematically,", "zh": "系统地", "role": "方式状语（副词），修饰 tested"},
+  {"text": "altering one variable after another.", "zh": "一个接一个地改变了变量", "role": "伴随状语（现在分词短语）"}
+ ],
+ "structure": "①主句是 the psychologist Oskar Pfungst tested the act systematically：主语 the psychologist Oskar Pfungst，谓语 tested，宾语 the act，副词 systematically 作方式状语，放在宾语后面。\n②the psychologist Oskar Pfungst 中，表示身份的名词 the psychologist 和人名 Oskar Pfungst 之间不加逗号，二者构成紧密同位关系，整体作主语。\n③逗号后的 altering one variable after another 是现在分词短语作伴随状语（视频说明），逻辑主语是 Pfungst，说明他检验的具体做法；altering 与 tested 同时进行，是检验的方式。\n④one variable after another 意为“一个接一个的变量”（视频说明：one … after another 一个接一个），作 altering 的宾语，表示他依次改变一个又一个条件。下一句列出了他改变的具体条件。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "现在分词短语作伴随状语",
+   "explain": "现在分词短语放在句末并用逗号隔开时，可以表示与谓语动作同时发生的动作或方式，逻辑主语是主句主语，两者是主动关系。本句 altering one variable after another 说明普丰斯特用什么方法检验表演。伴随状语和结果状语都可以放在句末，区别在于：伴随状语与谓语同时发生或说明方式；结果状语是谓语动作造成的后果（见第8句 certifying...）。翻译时伴随状语常译成并列的短句，或译成“……地”。",
+   "difficult": true,
+   "examples": [
+    {"en": "The researchers studied the data carefully, comparing each year's figures with the national average.", "zh": "研究人员仔细研究了数据，把每年的数字与全国平均水平作比较。"},
+    {"en": "She walked into the room, carrying a pile of exam papers.", "zh": "她走进房间，手里抱着一摞试卷。"}
+   ]
+  },
+  {
+   "title": "one ... after another",
+   "explain": "one + 单数名词 + after another 意为“一个接一个的……”，强调依次、连续，可作主语、宾语或状语；作主语时谓语用单数。类似结构有 one by one、day after day、year after year。本句 one variable after another 作 altering 的宾语。",
+   "difficult": false,
+   "examples": [
+    {"en": "One company after another has announced job cuts this year.", "zh": "今年，一家又一家公司宣布裁员。"}
+   ]
+  },
+  {
+   "title": "紧密同位语",
+   "explain": "表示身份、职务的名词与人名连用，中间不加逗号时构成紧密同位语，如 the psychologist Oskar Pfungst、the poet Li Bai。用逗号隔开则是非紧密同位语，如第1句 Wilhelm von Osten, a mathematics teacher...。紧密同位语前一般有 the，翻译时直接合成“心理学家奥斯卡·普丰斯特”。",
+   "difficult": false,
+   "examples": [
+    {"en": "The British economist John Maynard Keynes argued that governments should spend more during recessions.", "zh": "英国经济学家约翰·梅纳德·凯恩斯主张，政府在经济衰退时期应当增加支出。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "variable", "explain": "名词，（实验中的）变量，可变因素。实验中研究者有意改变的是自变量（independent variable），随之变化、被测量的是因变量（dependent variable）。视频译为“变量”。形容词 variable 意为“多变的，可变的”。"},
+  {"term": "systematically", "explain": "副词，系统地，有条理地，指按一定方法逐步进行；形容词 systematic，名词 system。视频译为“系统地”。"},
+  {"term": "psychologist", "explain": "心理学家，词首 p 不发音，psych- 读 /saɪk/。"},
+  {"term": "test", "explain": "动词，检验，测试，如 test a theory（检验一种理论）、test a hypothesis（检验假设）。本句视频译为“检验了”。"}
+ ],
+ "translation_tip": "视频译文“1907年，心理学家奥斯卡·普丰斯特系统地检验了这场表演，一个接一个地改变了变量。”的处理：①紧密同位语 the psychologist Oskar Pfungst 合译为“心理学家奥斯卡·普丰斯特”。②方式状语 systematically 从宾语后移到动词前，译为“系统地检验了”。③伴随状语 altering one variable after another 译成独立的短句，one ... after another 译为“一个接一个地”，作“改变”的状语，合乎汉语语序。"
+},
+{
+ "n": 10,
+ "trunk": {
+  "subject": "He",
+  "predicate": "kept, rotated, fitted, and used",
+  "object_or_complement": "onlookers（kept 的宾语，away 作宾语补足语）；questioners（rotated 的宾语）；blinders（fitted 的宾语）；people（used 的宾语）",
+  "explain": "一个主语带四个并列谓语，各有宾语，格式为 A, B, C, and D。四个谓语都是一般过去时、主动语态，列举普丰斯特改变的条件。"
+ },
+ "components": [
+  {"text": "He", "zh": "他", "role": "主语（指 Pfungst）"},
+  {"text": "kept", "zh": "不让……靠近", "role": "谓语一（keep sb away 结构）"},
+  {"text": "onlookers", "zh": "围观者", "role": "宾语"},
+  {"text": "away,", "zh": "（副词作宾语补足语，与 kept 合译为“不让……靠近”）", "role": "宾语补足语（副词）"},
+  {"text": "rotated", "zh": "轮换", "role": "谓语二"},
+  {"text": "questioners,", "zh": "提问者", "role": "宾语"},
+  {"text": "fitted", "zh": "（给马）戴上", "role": "谓语三"},
+  {"text": "blinders,", "zh": "眼罩", "role": "宾语"},
+  {"text": "and sometimes", "zh": "有时还", "role": "并列连词 and + 频度状语 sometimes"},
+  {"text": "used", "zh": "使用", "role": "谓语四"},
+  {"text": "people", "zh": "人（当提问者）", "role": "宾语"},
+  {"text": "ignorant of the answer.", "zh": "对答案一无所知的", "role": "后置定语（形容词短语），修饰 people"}
+ ],
+ "structure": "①全句一个主语 He 带四个并列谓语：kept onlookers away、rotated questioners、fitted blinders、sometimes used people...，格式为 A, B, C, and D，and 前有牛津逗号。这四项就是上句 one variable after another 的具体内容。\n②kept onlookers away 是 keep sb away 结构，onlookers 是宾语，副词 away 作宾语补足语，意为“使某人远离”，视频译为“不让围观者靠近”。\n③fitted blinders 中 fit 意为“安装，装上”，句中没有说给谁戴，视频用括号增补“（给马）”。blinders 是马眼罩，用来挡住马向两侧和后方的视线。\n④sometimes 是频度副词，只修饰最后一个谓语 used，表示这种做法并非每次都用。people ignorant of the answer 中，形容词短语 ignorant of the answer 作后置定语，修饰 people（视频说明），相当于 people who were ignorant of the answer。用不知道答案的人提问，可以检验答案是不是从提问者那里来的。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "形容词短语作后置定语",
+   "explain": "单个形容词通常放在名词前，但形容词带有补足成分（如介词短语、不定式）构成形容词短语时，要放在名词后面作定语，相当于省略了“关系代词 + be”的定语从句。本句 people ignorant of the answer = people who were ignorant of the answer，ignorant 带着 of the answer，只能后置。类似的有 a box full of books、students eager to learn。考研长难句中，名词后面紧跟形容词短语时，要想到这是后置定语，不要误以为是表语。",
+   "difficult": true,
+   "examples": [
+    {"en": "Parents anxious about their children's safety have asked the school to install more cameras.", "zh": "担心孩子安全的家长要求学校安装更多摄像头。"},
+    {"en": "The report lists several regions rich in rare minerals.", "zh": "报告列出了几个富含稀有矿物的地区。"}
+   ]
+  },
+  {
+   "title": "keep + 宾语 + 副词：宾语补足语",
+   "explain": "keep sb/sth + 副词、形容词或介词短语，表示“使某人或某物保持某种状态或位置”，后面的成分作宾语补足语，如 keep the door open、keep sb waiting。本句 kept onlookers away 意为“使围观者离得远远的”。keep away from sth（远离某物）是不及物用法，keep sb away from sth 才带宾语。",
+   "difficult": false,
+   "examples": [
+    {"en": "Fences were built to keep wild animals away from the crops.", "zh": "人们修建了围栏，不让野生动物靠近庄稼。"}
+   ]
+  },
+  {
+   "title": "并列谓语与频度副词的位置",
+   "explain": "频度副词（always、often、sometimes、never 等）一般放在实义动词之前、be 动词和助动词之后。本句 sometimes 放在第四个谓语 used 前，只修饰这一个动作。四个谓语共用主语 He，读长句时要逐个找出并列的动词，才能看清作者列举了几项措施。",
+   "difficult": false,
+   "examples": [
+    {"en": "During the exam season, the students revised late, skipped meals, and sometimes slept in the library.", "zh": "考试季期间，学生们复习到很晚，顾不上吃饭，有时还睡在图书馆里。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "onlooker", "explain": "名词，旁观者，围观者，指在一旁观看而不参与的人，与动词短语 look on（旁观）相关。近义词有 bystander、spectator。视频译为“围观者”。"},
+  {"term": "rotate", "explain": "熟词僻义：rotate 常见义是“旋转”，本句指“轮换，轮流担任”，如 rotate duties（轮流值班）、rotate crops（轮种庄稼）。视频译为“轮换”。"},
+  {"term": "blinders", "explain": "马眼罩，美式英语说 blinders，英式英语说 blinkers，常用复数。比喻义指使人只看到一面、看不到全局的东西。视频译为“眼罩”。"},
+  {"term": "ignorant of sth", "explain": "不知道某事（视频说明），这里是中性的“不知情”，不是贬义的“无知”。ignorant 作“无知的，愚昧的”讲时带贬义，如 an ignorant remark。"}
+ ],
+ "translation_tip": "视频译文“他不让围观者靠近，轮换提问者，（给马）戴上眼罩，有时还使用对答案一无所知的人（当提问者）。”的处理：①四个并列谓语照原顺序译成四个短句，最后一项的 and 和 sometimes 合译为“有时还”。②kept onlookers away 用否定的说法“不让围观者靠近”，比直译“使围观者远离”自然。③fitted blinders 没有说明给谁戴，视频用括号增补“（给马）”；used people... 没有说出用途，用括号增补“（当提问者）”。④后置定语 ignorant of the answer 前移，译为“对答案一无所知的人”。"
+},
+{
+ "n": 11,
+ "trunk": {
+  "subject": "he",
+  "predicate": "answered",
+  "object_or_complement": "",
+  "explain": "主句 he answered correctly 是主谓结构，answer 在这里不带宾语；谓语为一般过去时、主动语态。句首是 When 引导的时间状语从句。"
+ },
+ "components": [
+  {"text": "When Hans could see the questioner,", "zh": "当汉斯能看见提问者时", "role": "时间状语从句（When 引导）"},
+  {"text": "he", "zh": "它", "role": "主语（he 指汉斯）"},
+  {"text": "answered", "zh": "作答", "role": "谓语（不及物）"},
+  {"text": "correctly", "zh": "正确地", "role": "方式状语（副词）"},
+  {"text": "50 times in 56.", "zh": "在56次里有50次", "role": "频度状语（X times in Y 表示比例）"}
+ ],
+ "structure": "①主句是 he answered correctly 50 times in 56：主语 he 指汉斯，谓语 answered 不带宾语，correctly 作方式状语，50 times in 56 说明次数和比例。\n②When 引导时间状语从句，带有条件意味：在汉斯能看见提问者的情况下。从句主语 Hans，谓语 could see，could 是 can 的过去式，表示当时能够；宾语 the questioner。\n③50 times in 56 意为“56次中有50次”，in 表示“在……之中”，用来表达比例，与下句的 two in 35 形成对比。\n④主句用代词 he 指马，延续上文用 he、his 指称汉斯的写法。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "X in Y 表示比例",
+   "explain": "数词 + (times) + in + 数词表示“在多少次（个）中有多少次（个）”，用来说明比例或频率，如 one in five（五分之一）、nine times in ten（十次里有九次）。这种表达在考研阅读的数据描述中常见，常与 out of 互换：50 times out of 56。翻译时一般先说总数：“56次里有50次”。",
+   "difficult": true,
+   "examples": [
+    {"en": "One in four adults in the city now works from home at least once a week.", "zh": "该市现在有四分之一的成年人每周至少在家工作一天。"},
+    {"en": "The new test identified the disease correctly nine times out of ten.", "zh": "新的检测方法十次里有九次能正确识别出这种疾病。"}
+   ]
+  },
+  {
+   "title": "when 从句表示条件",
+   "explain": "when 引导的时间状语从句除表示“在……时候”外，还常带条件意味，相当于“在……的情况下”。本句 When Hans could see the questioner 与下句 With the questioner invisible 构成对照：一个是能看见，一个是看不见，两种条件下的结果相差悬殊。",
+   "difficult": false,
+   "examples": [
+    {"en": "When the temperature drops below zero, water turns into ice.", "zh": "当温度降到零度以下时，水就会结冰。"}
+   ]
+  },
+  {
+   "title": "could 表示过去的能力",
+   "explain": "could 是 can 的过去式，可以表示过去具有的一般能力，如 She could read at four。表示过去某一次成功做成某事时，一般用 was able to 或 managed to，不用肯定的 could；但 see、hear 等感官动词例外，常用 could see、could hear 表示当时能看见、听见。本句 could see 指在某些实验条件下汉斯能看见提问者。",
+   "difficult": false,
+   "examples": [
+    {"en": "From the window we could see the whole valley.", "zh": "从窗口我们能看到整个山谷。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "questioner", "explain": "提问者，由 question 加 -er 构成。第三、四段 questioner 和 questioners 反复出现：上句是普丰斯特轮换的提问者，本句是单次实验中的那位提问者。视频译为“提问者”。"},
+  {"term": "answer correctly", "explain": "副词 correctly 修饰不及物的 answer，意为“正确地作答”；形容词 correct（正确的），名词 correctness。"}
+ ],
+ "translation_tip": "视频译文“当汉斯能看见提问者时，它在56次里有50次正确地作答。”的处理：①When 从句照原位置放在句首，译为“当……时”。②主句代词 he 指马，译为“它”。③比例 50 times in 56 按汉语习惯先说总数，译为“在56次里有50次”，并移到谓语前；answered correctly 译为“正确地作答”。"
+},
+{
+ "n": 12,
+ "trunk": {
+  "subject": "his accuracy",
+  "predicate": "fell",
+  "object_or_complement": "",
+  "explain": "主句 his accuracy fell 是主谓结构，fall 是不及物动词，to two in 35 说明降到的程度；谓语为一般过去时、主动语态。句首是 with 复合结构作状语。"
+ },
+ "components": [
+  {"text": "With", "zh": "当……时", "role": "介词，引出 with 复合结构"},
+  {"text": "the questioner", "zh": "提问者", "role": "with 的宾语"},
+  {"text": "invisible,", "zh": "不可见", "role": "宾语补足语（形容词），说明 the questioner 的状态"},
+  {"text": "his accuracy", "zh": "它的准确率", "role": "主语"},
+  {"text": "fell to", "zh": "降到了", "role": "谓语 fell + 介词 to（引出下降后达到的数值）"},
+  {"text": "two in 35.", "zh": "35次里只对两次", "role": "介词 to 的宾语（比例表达）"}
+ ],
+ "structure": "①主句是 his accuracy fell to two in 35：主语 his accuracy，谓语 fell，to two in 35 是介词短语，表示下降后达到的数值。\n②句首 With the questioner invisible 是 with 复合结构作状语，构成是 with + 名词 + 形容词（视频说明：在……的情况下）。the questioner 是 with 的宾语，invisible 作宾语补足语，说明提问者处于“看不见”的状态。它与上句的 When Hans could see the questioner 形成对比。\n③invisible 本义是“看不见的”，这里指汉斯看不见提问者（视频说明），视频译为“不可见”。\n④fall to 与 fall by 不同：fall to 后接下降后的结果，fall by 后接下降的幅度。two in 35 即35次里只对了两次，与上句的56次对50次相比，准确率急剧下降。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "with 复合结构",
+   "explain": "with + 宾语 + 宾语补足语构成的复合结构常作状语，表示伴随、原因或条件。宾语补足语可以是形容词（with the door open）、副词（with the lights on）、介词短语（with a book in her hand）、现在分词（with prices rising）、过去分词（with the work done）或不定式（with a lot of work to do）。本句 with the questioner invisible 表示条件，相当于 when the questioner was invisible。考研阅读和写作常用这一结构，翻译时常译为“在……的情况下”“由于……”或“当……时”。",
+   "difficult": true,
+   "examples": [
+    {"en": "With interest rates rising, many young couples have put off buying a home.", "zh": "由于利率不断上升，许多年轻夫妇推迟了买房。"},
+    {"en": "He sat at the desk with his eyes closed, trying to remember the number.", "zh": "他闭着眼睛坐在桌前，努力回想那个号码。"}
+   ]
+  },
+  {
+   "title": "fall to 与 fall by",
+   "explain": "表示数量变化时，to 引出变化后达到的数值，by 引出变化的幅度：fall to 10% 是“降到10%”，fall by 10% 是“下降了10%”。rise、increase、drop、decline 等表示升降的词都遵循这一规则。考研英语写作中的图表作文和阅读中的数据题常考这一区别。本句 fell to two in 35 是降到“35次中对两次”这一水平。",
+   "difficult": true,
+   "examples": [
+    {"en": "Unemployment fell to 4.5 percent last month.", "zh": "上个月失业率降到了4.5%。"},
+    {"en": "Sales rose by 12 percent compared with the same period last year.", "zh": "销售额比去年同期增长了12%。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "accuracy", "explain": "名词，准确，精确，准确性；本句指答对的比例，视频译为“准确率”。形容词 accurate，反义词 inaccuracy。with accuracy 意为“准确地”。"},
+  {"term": "invisible", "explain": "形容词，看不见的，由否定前缀 in- 加 visible（看得见的）构成，常接 to：invisible to the naked eye（肉眼看不见的）。本句视频说明：指汉斯看不见提问者。"},
+  {"term": "his", "explain": "his 仍指汉斯，his accuracy 即汉斯答题的准确率，视频译为“它的准确率”。"}
+ ],
+ "translation_tip": "视频译文“当提问者不可见时，它的准确率降到了35次里只对两次。”的处理：①with 复合结构译成“当……时”，与上句“当汉斯能看见提问者时”对仗。②his accuracy 译为“它的准确率”。③fell to 译为“降到了”；比例 two in 35 先说总数，并增补“只对”，译成“35次里只对两次”，突出准确率之低。"
+},
+{
+ "n": 13,
+ "trunk": {
+  "subject": "The cues",
+  "predicate": "came",
+  "object_or_complement": "",
+  "explain": "主谓结构，come 是不及物动词，from the questioners 是介词短语，表示来源；谓语为一般过去时、主动语态。"
+ },
+ "components": [
+  {"text": "The cues", "zh": "（看来）这些提示", "role": "主语"},
+  {"text": "came from", "zh": "来自", "role": "谓语 came + 介词 from（表示来源）"},
+  {"text": "the questioners.", "zh": "提问者", "role": "介词 from 的宾语"}
+ ],
+ "structure": "①句子是主谓结构：主语 The cues，谓语 came，from the questioners 表示提示的来源。\n②The cues 用定冠词 the。前文没有出现过 cues 一词，这里的 the 指上段实验所暴露出的、让汉斯答对的那些提示，读者可以从上下文推知所指。\n③本句是第四段的主题句，也是对第三段实验结果的结论：汉斯看得见提问者时几乎都答对，看不见时几乎都答错，可见答案的线索来自提问者。后面三句具体说明提示的方式。\n④视频译文增补了“（看来）”，表明这是根据实验数据推断出的结论。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "不及物动词没有被动语态",
+   "explain": "come 是不及物动词，后面不能直接接宾语，也没有被动语态；表示来源时用 come from。不能写成 The cues were come from the questioners。类似的不及物动词和短语还有 happen、occur、arise、appear、belong to 等，如 The accident happened，不能说 was happened。这是考研写作中的常见错误。",
+   "difficult": true,
+   "examples": [
+    {"en": "Most of the funding comes from private donors.", "zh": "大部分资金来自私人捐助者。"},
+    {"en": "The problem arose from a simple misunderstanding.", "zh": "这个问题源于一个简单的误会。"}
+   ]
+  },
+  {
+   "title": "定冠词 the 表示上下文可推知的特指",
+   "explain": "the 不仅用于前文已经提到的名词，也可以用于从上下文能推知所指的名词。本句 cues 第一次出现，但读者从上段实验可以推知是指“让汉斯答对的那些提示”，所以用 The cues。同理，第15句 At the right tap 中，the right tap 指敲到正确数字的那一下。",
+   "difficult": false,
+   "examples": [
+    {"en": "We took a taxi to the airport, but the driver got lost on the way.", "zh": "我们打车去机场，可司机在路上迷了路。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "cue", "explain": "名词，提示，暗示，信号，指促使某人做某事的动作或话语；原指提示演员上场或说台词的信号。视频译为“提示”。常见搭配有 take one's cue from sb（学某人的样）、on cue（恰在此时）、a visual cue（视觉提示）。"},
+  {"term": "come from", "explain": "来自，源于，后接人、地点或来源，如 Where does the money come from? 本句说明提示的来源是提问者，视频译为“来自”。"}
+ ],
+ "translation_tip": "视频译文“（看来）这些提示来自提问者。”的处理：①The cues 译为“这些提示”，用“这些”体现 the 的特指和复数。②用括号增补“（看来）”，说明这是从上段实验结果推出的结论，使上下文衔接更顺。③came from 译为“来自”，简洁对应。"
+}
+]

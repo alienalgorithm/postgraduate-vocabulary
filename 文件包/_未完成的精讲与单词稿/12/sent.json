@@ -1,0 +1,1718 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "a 15-year-old girl；the homicide",
+   "predicate": "was murdered；went",
+   "object_or_complement": "unsolved（went 的表语）",
+   "explain": "本句是 and 连接的并列句。第一个分句主干 a 15-year-old girl was murdered 是主谓结构，谓语为一般过去时的被动语态；第二个分句 the homicide went unsolved 是主系表结构，went 作系动词，形容词 unsolved 作表语。"
+  },
+  "components": [
+   {
+    "text": "In November 1983",
+    "role": "时间状语（介词短语，月份和年份前用 in）",
+    "zh": "1983年11月"
+   },
+   {
+    "text": "a 15-year-old girl",
+    "role": "第一个分句的主语（15-year-old 是复合形容词，作前置定语）",
+    "zh": "一名15岁的女孩"
+   },
+   {
+    "text": "was murdered",
+    "role": "第一个分句的谓语（一般过去时，被动语态）",
+    "zh": "遇害"
+   },
+   {
+    "text": "in the Leicestershire village",
+    "role": "地点状语（介词短语，名词 Leicestershire 作 village 的前置定语）",
+    "zh": "在莱斯特郡的……村"
+   },
+   {
+    "text": "of Narborough,",
+    "role": "后置定语（同位性 of 短语，说明 village 的名称）",
+    "zh": "纳伯勒"
+   },
+   {
+    "text": "and the homicide",
+    "role": "并列连词 and + 第二个分句的主语（homicide 回指前一分句的谋杀事件）",
+    "zh": "这起凶杀案"
+   },
+   {
+    "text": "went",
+    "role": "第二个分句的系动词（go 的过去式，表示保持某种状态）",
+    "zh": "一直"
+   },
+   {
+    "text": "unsolved.",
+    "role": "表语（带否定前缀 un- 的过去分词形容词）",
+    "zh": "未能侦破"
+   }
+  ],
+  "structure": "①本句是由 and 连接的并列句：前一分句交代案件发生的时间、地点和受害人，后一分句交代案件的结果。\n②第一个分句：句首 In November 1983 是时间状语。主语 a 15-year-old girl 中，15-year-old 是“数词 + 名词 + 形容词”构成的复合形容词，作前置定语，用连字符连接，中间的 year 用单数。谓语 was murdered 是一般过去时的被动语态，凶手当时不明，所以没有 by 短语。in the Leicestershire village of Narborough 是地点状语，Leicestershire 是名词作前置定语，of Narborough 是同位性的 of 结构，village 就是 Narborough。\n③第二个分句：the homicide 用同义名词回指前面的 was murdered，避免重复；went 是系动词，unsolved 是带否定前缀 un- 的过去分词形容词，作表语。视频说明：go + un-类形容词，表示一直处于这种状态，如 go unnoticed。\n④went unsolved 交代了案件悬而未决，后文的 DNA 技术正是在这一背景下登场的。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "go + un-类形容词：一直处于未被……的状态",
+    "explain": "go 作系动词时，除了表示“变得”（go bad、go wrong），还常与 un- 开头的过去分词形容词连用，表示“一直没有被……，始终处于未……的状态”，如 go unnoticed（未被注意）、go unpunished（未受惩罚）、go unanswered（无人回应）、go unreported（未被报道）、go unchallenged（无人质疑）。本句 the homicide went unsolved 即“这起凶杀案一直未能侦破”，视频把 went 译为“一直”。这一结构形式是主动的，意义是被动的。考研阅读中它常用来指出某种问题被忽视、未被处理；写作中也可以用它代替被动句，如 Many problems go unnoticed。易错：不能写成 was gone unsolved。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many of the early warning signs went unnoticed until it was too late.",
+      "zh": "许多早期预警信号一直无人察觉，等到发现时已为时太晚。"
+     },
+     {
+      "en": "Her repeated complaints about the noise went unanswered for months.",
+      "zh": "她多次投诉噪音，几个月来一直没有得到答复。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词：数词 + 名词 + 形容词",
+    "explain": "15-year-old 用连字符把数词、名词、形容词连成一个复合形容词，放在名词前作定语，其中的名词用单数：a 15-year-old girl，不说 a 15-years-old girl。不用连字符、作表语时，名词要用复数：The girl was 15 years old。同类结构有 a ten-minute walk、a five-day trip、a two-hour meeting。考研写作中常用这种结构压缩信息，要注意连字符和单数名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hotel is only a ten-minute walk from the main station.",
+      "zh": "酒店离火车总站只有十分钟的步行路程。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态不带施动者",
+    "explain": "施动者未知、不重要或不言自明时，被动句通常不带 by 短语。新闻报道犯罪事件时常用这种被动句，把受害人放在主语位置，突出受害者。本句 was murdered 没有 by 短语，因为当时凶手身份不明，直到第5段才查清。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Two valuable paintings were stolen from the gallery last night.",
+      "zh": "昨晚美术馆有两幅名贵画作被盗。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Leicestershire",
+    "explain": "莱斯特郡，英格兰中部的一个郡，首府莱斯特（Leicester）。读音为 /ˈlestəʃə(r)/，Leicester 读作 /ˈlestə(r)/，与人名 Lester 同音，拼写中的 ice 不发音。"
+   },
+   {
+    "term": "the + 地区名 + village of + 地名",
+    "explain": "英语新闻介绍小地方时的常见写法，如 the Leicestershire village of Narborough、the Welsh town of Hay-on-Wye，表示“某地区的某村（镇）”。of 引出的是 village 的名称，二者是同位关系。汉语按由大到小排列，译为“莱斯特郡的纳伯勒村”。"
+   },
+   {
+    "term": "homicide",
+    "explain": "法律和警方用语，泛指杀人行为，包括谋杀（murder）和过失杀人（manslaughter）等；murder 专指蓄意谋杀。本句用 homicide 回指前面的 was murdered，属于同义替换，视频译为“凶杀案”。美国警方的凶杀案调查部门也叫 homicide。"
+   },
+   {
+    "term": "unsolved",
+    "explain": "未解决的，未侦破的，常与 crime、murder、case、mystery 搭配，如 an unsolved murder（一桩悬而未决的谋杀案）。本句视频译为“未能侦破”。"
+   }
+  ],
+  "translation_tip": "视频译文“1983年11月，一名15岁的女孩在莱斯特郡的纳伯勒村遇害，这起凶杀案一直未能侦破。”的处理：①时间状语 In November 1983 放在句首，按汉语习惯先年后月，译为“1983年11月，”。②被动谓语 was murdered 不译成“被谋杀”，而用本身含被动意义的“遇害”，简洁自然。③地点状语 in the Leicestershire village of Narborough 移到谓语前，按“郡、村”由大到小译成“在莱斯特郡的纳伯勒村”。④第二个分句的 and 不译，homicide 前补出“这起”回指上文；系动词 went 译为“一直”，与“未能侦破”连用，表现案件长期没有破的状态。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "a second 15-year-old",
+   "predicate": "was slain",
+   "object_or_complement": "",
+   "explain": "主谓结构，谓语 was slain 由 was 加 slay 的过去分词 slain 构成，一般过去时的被动语态；句首是时间状语，句尾 near neighbouring Enderby 是地点状语。"
+  },
+  "components": [
+   {
+    "text": "In the summer of 1986",
+    "role": "时间状语（介词短语，季节后用 of 引出年份）",
+    "zh": "1986年夏天"
+   },
+   {
+    "text": "a second 15-year-old",
+    "role": "主语（a second 表示“又一个”；15-year-old 转作名词，指15岁的人）",
+    "zh": "又一名15岁的女孩"
+   },
+   {
+    "text": "was slain",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "被杀害"
+   },
+   {
+    "text": "near neighbouring Enderby.",
+    "role": "地点状语（介词短语，neighbouring 作 Enderby 的前置定语）",
+    "zh": "在邻近的恩德比附近"
+   }
+  ],
+  "structure": "①主干 a second 15-year-old was slain，主谓结构，谓语是被动语态。句首 In the summer of 1986 是时间状语，句尾 near neighbouring Enderby 是地点状语。\n②主语 a second 15-year-old 中，15-year-old 本是复合形容词，这里转作名词，指“15岁的人”，后面省略了 girl。a second 不表示排序上的“第二个”，而表示“又一个”，即在第1句的受害者之外又多了一名受害者。\n③谓语 was slain 由 was 加 slay 的过去分词 slain 构成，与第1句的 was murdered 意思相同，作者换用动词以免重复。\n④near neighbouring Enderby 中，neighbouring 作前置定语，说明恩德比与第1句的纳伯勒相邻，暗示两起命案发生在同一带。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "a + 序数词：表示“又一，再一”",
+    "explain": "序数词前一般用定冠词 the，表示确定次序中的第几个，如 the second chapter。序数词前用不定冠词 a/an 时，不强调确定的次序，而表示“又一个，再一个”，相当于 another，如 a second chance（又一次机会）、a third attempt（再一次尝试）。本句 a second 15-year-old 指继第一名受害者之后又一名15岁的受害者，视频译为“又一名”；第3句 the second killing 用 the，则指已知两起命案中的第二起。考研阅读中，a second 常用来引出新的例子或论据。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "After the first experiment failed, the team decided to make a second attempt.",
+      "zh": "第一次实验失败后，研究小组决定再试一次。"
+     },
+     {
+      "en": "He finished his meal and ordered a second cup of coffee.",
+      "zh": "他吃完饭，又点了一杯咖啡。"
+     }
+    ]
+   },
+   {
+    "title": "表示年龄的复合形容词转作名词",
+    "explain": "x-year-old 除了作前置定语，还可以直接作可数名词，指“x岁的人（或动物）”，可加冠词、序数词，复数在词尾加 s，如 a 15-year-old、two 15-year-olds、today's 20-year-olds。本句 a second 15-year-old 即 a second 15-year-old girl，视频据上文补出“女孩”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey asked more than 2,000 16-year-olds about their plans after school.",
+      "zh": "这项调查询问了2,000多名16岁的青少年毕业后的打算。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "slay (slew, slain)",
+    "explain": "不规则动词，过去式 slew，过去分词 slain，意为“杀害”，书面、文学色彩浓；在美式英语中尤其用于新闻报道指谋杀，标题里常见，因为词短。本句 was slain 与第1句 was murdered 同义，视频译为“被杀害”。"
+   },
+   {
+    "term": "Enderby",
+    "explain": "恩德比，莱斯特郡的一个村庄。neighbouring 说明它与第1句的纳伯勒相邻。"
+   },
+   {
+    "term": "in the summer of 1986",
+    "explain": "季节前用介词 in；季节后接具体年份时，季节前加 the，用 of 连接年份，如 in the spring of 2020。汉语年份在前，译为“1986年夏天”。"
+   },
+   {
+    "term": "neighbouring",
+    "explain": "形容词，邻近的，相邻的，英式拼写；美式拼写为 neighboring。常与 countries、towns、villages 等名词搭配。"
+   }
+  ],
+  "translation_tip": "视频译文“1986年夏天，又一名15岁的女孩在邻近的恩德比附近被杀害。”的处理：①时间状语 In the summer of 1986 照原位译出，年份在前、季节在后，符合汉语由大到小的习惯。②主语 a second 15-year-old 省略了 girl，视频结合第1句补出“女孩”，a second 译为“又一名”，体现与第一起命案的联系。③地点状语 near neighbouring Enderby 移到谓语前，near 译为“附近”放在地名之后，neighbouring 译为“邻近的”。④被动谓语 was slain 保留“被”字，译为“被杀害”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "A 17-year-old local youth；the perplexing investigation",
+   "predicate": "confessed to；was seemingly resolved",
+   "object_or_complement": "the second killing（confessed to 的宾语）",
+   "explain": "本句是 and 连接的并列句。第一个分句是主谓宾结构，confess to 整体相当于及物动词；第二个分句谓语 was resolved 是一般过去时的被动语态，这里侧重“已经了结”的状态，seemingly 插在 was 和 resolved 之间。"
+  },
+  "components": [
+   {
+    "text": "A 17-year-old local youth",
+    "role": "第一个分句的主语（17-year-old 和 local 作前置定语）",
+    "zh": "一名17岁的当地青年"
+   },
+   {
+    "text": "confessed to",
+    "role": "第一个分句的谓语（confess to 供认，一般过去时）",
+    "zh": "供认了"
+   },
+   {
+    "text": "the second killing,",
+    "role": "宾语（介词 to 的宾语）",
+    "zh": "第二起命案"
+   },
+   {
+    "text": "and to detectives",
+    "role": "并列连词 and + 状语（介词短语 to sb，表示“在某人看来”）",
+    "zh": "在警探看来"
+   },
+   {
+    "text": "the perplexing investigation",
+    "role": "第二个分句的主语（perplexing 是现在分词形容词，作前置定语）",
+    "zh": "这场扑朔迷离的调查"
+   },
+   {
+    "text": "was",
+    "role": "助动词（与 resolved 构成被动语态）",
+    "zh": "（助动词，与 resolved 构成被动语态，不单独译出）"
+   },
+   {
+    "text": "seemingly",
+    "role": "评注性状语（副词，插在助动词和过去分词之间）",
+    "zh": "似乎"
+   },
+   {
+    "text": "resolved.",
+    "role": "谓语主体（过去分词，与 was 构成被动语态）",
+    "zh": "已经了结"
+   }
+  ],
+  "structure": "①本句由 and 连接两个分句：前一分句讲青年认罪，后一分句讲警方因此作出的判断。\n②第一个分句：主语 A 17-year-old local youth 有两个前置定语，复合形容词 17-year-old 说明年龄，local 说明是本地人。confess to 意为“供认”，the second killing 是介词 to 的宾语；定冠词 the 表示前文两起命案中的第二起，即第2句恩德比附近的命案。\n③第二个分句：句首 to detectives 是介词短语作状语，视频说明：to sb，在某人看来。它交代后面的判断是警探的看法。主语 the perplexing investigation 中，perplexing 是现在分词形容词，意为“令人困惑的”。谓语 was resolved 是被动语态，seemingly 插在中间，作评注性状语，表明“已经了结”只是表面上的情况。\n④to detectives 和 seemingly 两处都在提示：认罪和结案只是警探当时的看法，并非事实。这为第8句 DNA 检测推翻供词埋下伏笔。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 to 表示“在某人看来”",
+    "explain": "to + 人 可以作状语，表示某个判断或感受属于谁，相当于 in sb's opinion 或 as far as sb is concerned，常与 seem、appear、sound、look 以及表示评价的形容词连用，如 It seems to me that…、To most economists, the result was no surprise。本句 to detectives 提到句首，强调“调查似乎已经了结”只是警探的判断。阅读时不要把这种 to sb 误解为“向某人，给某人”；看到“to + 人 + 判断”，要留意作者是否在暗示这种看法与事实不符。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "To most observers, the outcome of the election seemed certain weeks in advance.",
+      "zh": "在大多数观察人士看来，选举结果似乎在几周前就已成定局。"
+     },
+     {
+      "en": "To a small child, a single year can feel like an eternity.",
+      "zh": "在小孩子看来，一年可能就像永远那样漫长。"
+     }
+    ]
+   },
+   {
+    "title": "confess to + 名词或动名词",
+    "explain": "confess 表示“供认，坦白”时，可以直接接 that 从句或名词，也常用 confess to + 名词或动名词，如 confess to the murder、confess to stealing the money。这里的 to 是介词，后面不能接动词原形。本句 confessed to the second killing，视频译为“供认了第二起命案”。名词形式 confession 见第8句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The suspect later confessed to setting fire to the warehouse.",
+      "zh": "嫌疑人后来供认是他放火烧了仓库。"
+     }
+    ]
+   },
+   {
+    "title": "-ing 形容词与 -ed 形容词",
+    "explain": "由动词变来的形容词中，-ing 形式修饰引起某种感受的事物，-ed 形式修饰产生这种感受的人：perplexing（令人困惑的）、perplexed（感到困惑的），同类的还有 confusing/confused、puzzling/puzzled、surprising/surprised。本句 the perplexing investigation 指案情让人困惑，视频译为“扑朔迷离的”。写作中混用两种形式是常见错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The investigators were perplexed by the lack of any obvious motive.",
+      "zh": "由于看不出任何明显的动机，调查人员感到困惑不解。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "youth",
+    "explain": "作可数名词指人时，意为“青年，小伙子”，新闻中多指十几岁的男青年，常带轻微贬义，如 a gang of youths；作不可数名词时指“青春时期”（in my youth）或“青年人（总称）”（the youth of today）。本句 A 17-year-old local youth 视频译为“一名17岁的当地青年”。"
+   },
+   {
+    "term": "killing",
+    "explain": "可数名词，杀人事件，命案，如 a series of killings。本句 the second killing 与第1句的 homicide、第2句的 was slain 指同一类事件，作者不断换词，视频译为“命案”。"
+   },
+   {
+    "term": "seemingly",
+    "explain": "副词，意为“表面上看，似乎”，常暗示实际情况可能并非如此，如 a seemingly simple question（一个看似简单的问题）。本句修饰 was resolved，视频译为“似乎”。"
+   },
+   {
+    "term": "detective",
+    "explain": "侦探，警探。英国警察系统中 detective 指刑事调查部门的便衣警官，与穿制服的巡警相对；private detective 指私家侦探。本句视频译为“警探”。"
+   }
+  ],
+  "translation_tip": "视频译文“一名17岁的当地青年供认了第二起命案，在警探看来，这场扑朔迷离的调查似乎已经了结。”的处理：①第一个分句照原序译出，两个前置定语合成“一名17岁的当地青年”，confessed to 合译为“供认了”。②第二个分句的 and 不译；to detectives 译为“在警探看来，”，放在分句开头并用逗号隔开，点明判断者。③the perplexing investigation 中 the 译为“这场”，perplexing 用四字词“扑朔迷离的”，与案情相符。④被动谓语 was resolved 不译成“被解决”，而译为“已经了结”，“已经”体现完成的状态；seemingly 译为“似乎”，放在前面。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The revelation",
+   "predicate": "had come",
+   "object_or_complement": "",
+   "explain": "主谓结构，come 是不及物动词，谓语用过去完成时，主动语态；two years previously 作时间状语。"
+  },
+  "components": [
+   {
+    "text": "The revelation",
+    "role": "主语（指下文杰弗里斯的发现）",
+    "zh": "这个意外发现"
+   },
+   {
+    "text": "had come",
+    "role": "谓语（过去完成时，不及物动词 come 表示“出现”）",
+    "zh": "就已经出现了"
+   },
+   {
+    "text": "two years previously.",
+    "role": "时间状语（名词短语 two years 修饰副词 previously，表示“在那之前两年”）",
+    "zh": "早在两年以前"
+   }
+  ],
+  "structure": "①全句只有主语、谓语和时间状语，结构简单，难点在时态和时间参照。\n②谓语 had come 是过去完成时。视频说明：had come 是过去完成时，比上一段1986年的事更早。第1段已经叙述到1986年的命案和随后的认罪，本句用过去完成时把时间往前推，开始倒叙。\n③two years previously 以过去某一时间为参照，意为“在那之前两年”。参照点是上一段的1986年，所以这一发现出现在1984年，与下一句的 On 10 September 1984 吻合。\n④The revelation 先概括地点出“有一个意外发现”，下两句再具体说明是什么发现、如何命名，属于先总后分的写法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时用于倒叙",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经发生的事。叙事文本通常用一般过去时按时间顺序推进，作者要插入更早发生的事件时，常改用过去完成时，提示读者时间往回跳。本句 had come 表示这一发现早于第1段的1986年。倒叙一开始，时间参照已经交代清楚，接下来的第5至7句就改回一般过去时（discerned、called、carried）。考研阅读中，叙述里突然出现 had done，往往是在交代背景或前因。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the firefighters arrived, the roof had already collapsed.",
+      "zh": "消防员赶到时，屋顶已经塌了。"
+     },
+     {
+      "en": "By the time the report was published, the company had quietly changed its policy.",
+      "zh": "报告发表时，公司已经悄悄改变了政策。"
+     }
+    ]
+   },
+   {
+    "title": "ago 与 previously、before、earlier",
+    "explain": "ago 以说话的此刻为参照，与一般过去时连用，two years ago 意为“（从现在算起）两年前”；previously、before、earlier 以过去某一时间为参照，表示“（在那时）之前”，常与过去完成时连用，two years previously 意为“在那之前两年”。本句参照点是1986年，不是现在，所以不能用 ago。直接引语变间接引语时，ago 也要相应改成 before。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He told me that he had met her ten years earlier at a conference in Berlin.",
+      "zh": "他告诉我，早在十年前他就在柏林的一次会议上认识了她。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "revelation",
+    "explain": "名词，指令人吃惊的揭示、披露，或意外的发现，如 a startling revelation（惊人的揭露）、come as a revelation to sb（让某人大开眼界）。动词是 reveal（揭示，透露）。本句视频译为“意外发现”，指下文杰弗里斯在X光片上的发现。"
+   },
+   {
+    "term": "come",
+    "explain": "本句是不及物动词，表示消息、发现、变化等“出现，到来”，如 The news came as a shock to everyone（这个消息让所有人震惊）。视频译为“出现”。"
+   },
+   {
+    "term": "previously",
+    "explain": "副词，以前，先前，如 as previously mentioned（如前所述）；数量词 + previously 表示“在那之前多久”，如 three days previously。"
+   }
+  ],
+  "translation_tip": "视频译文“这个意外发现，早在两年以前就已经出现了。”的处理：①主语 The revelation 译为“这个意外发现，”，后加逗号，把主语单独提出，句子节奏更清楚。②时间状语 two years previously 从句尾移到谓语前，译为“早在两年以前”。③过去完成时 had come 用“就已经……了”表达，与“早在”前后呼应，突出这件事比上文的命案更早。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Alec Jeffreys",
+   "predicate": "discerned",
+   "object_or_complement": "molecular markers",
+   "explain": "主谓宾结构，谓语为一般过去时，主动语态。主语后有同位语，谓语和宾语之间插入了地点状语 on an X-ray film，宾语后接 whose 引导的定语从句。"
+  },
+  "components": [
+   {
+    "text": "On 10 September 1984",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1984年9月10日"
+   },
+   {
+    "text": "Alec Jeffreys,",
+    "role": "主语",
+    "zh": "亚历克·杰弗里斯"
+   },
+   {
+    "text": "a geneticist",
+    "role": "同位语，说明 Alec Jeffreys 的身份",
+    "zh": "一位遗传学家"
+   },
+   {
+    "text": "at the University of Leicester,",
+    "role": "后置定语（介词短语），修饰 a geneticist",
+    "zh": "在莱斯特大学（任职）"
+   },
+   {
+    "text": "discerned",
+    "role": "谓语",
+    "zh": "辨认出"
+   },
+   {
+    "text": "on an X-ray film",
+    "role": "地点状语（介词短语，插在谓语和宾语之间）",
+    "zh": "在一张X光片上"
+   },
+   {
+    "text": "molecular markers",
+    "role": "宾语（后置于状语之后）",
+    "zh": "一些分子标记"
+   },
+   {
+    "text": "whose layout varied considerably from person to person.",
+    "role": "限制性定语从句，修饰 molecular markers",
+    "zh": "这些标记的排布在人与人之间相差相当大"
+   }
+  ],
+  "structure": "①主干是 Alec Jeffreys discerned molecular markers。句首 On 10 September 1984 是时间状语，具体日期前用介词 on。\n②a geneticist at the University of Leicester 是 Alec Jeffreys 的同位语，前后用逗号隔开，说明他的身份；其中 at the University of Leicester 是介词短语作后置定语，修饰 a geneticist，说明他在哪里任职。\n③谓语 discerned 后先出现地点状语 on an X-ray film，再出现宾语 molecular markers。常规语序是“谓语 + 宾语 + 状语”，这里宾语带着较长的 whose 从句，移到短状语之后，从句就能紧挨着它修饰的名词，句子也不会头重脚轻。视频说明：宾语 molecular markers 带着 whose 从句，所以放到了状语后面。\n④whose 引导限制性定语从句，修饰 molecular markers。whose 在从句中作定语，修饰 layout，whose layout 相当于 the markers' layout。从句谓语 varied 是不及物动词，considerably 是程度状语，from person to person 表示“在人与人之间”，即因人而异。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "长宾语后置：宾语移到状语之后",
+    "explain": "英语句子一般按“谓语 + 宾语 + 状语”排列。宾语很长（带定语从句、同位语等）而状语很短时，常把宾语移到状语后面，使句子前轻后重、结构平衡，这叫尾重原则。本句 discerned on an X-ray film molecular markers whose…，谓语后先接短的地点状语，再接带从句的长宾语。阅读时，如果动词后面紧跟的是介词短语，要继续往后找真正的宾语；考研翻译遇到这种结构，要先把宾语找回来，再按汉语语序组织译文。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee rejected without explanation every proposal that the union had put forward.",
+      "zh": "委员会未作任何解释，就否决了工会提出的每一项建议。"
+     },
+     {
+      "en": "She explained to the students the reasons why the exam had been postponed.",
+      "zh": "她向学生们解释了考试推迟的原因。"
+     }
+    ]
+   },
+   {
+    "title": "whose 引导定语从句（先行词指物）",
+    "explain": "whose 是关系代词的所有格形式，在从句中作定语，后面紧跟它修饰的名词，先行词既可以是人，也可以是物。先行词指物时，whose + 名词 可以改写为 the + 名词 + of which。本句 whose layout 中 whose 指 molecular markers，相当于 the layout of which，即“这些标记的排布”。从句前没有逗号，是限制性定语从句，限定所说的是哪一类标记：排布因人而异的那些。易错：不要把 whose 与 who's（who is 或 who has 的缩写）混淆。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Scientists are studying a plant whose leaves can change colour within minutes.",
+      "zh": "科学家正在研究一种叶子能在几分钟内变色的植物。"
+     }
+    ]
+   },
+   {
+    "title": "from + 名词 + to + 同一名词",
+    "explain": "from A to A 结构中，同一个可数名词重复出现，不加冠词，表示“在各个……之间，逐一”，如 from person to person（因人而异）、from country to country（各国不同）、from place to place（到处）、from day to day（一天天地）。这一结构常与 vary、differ、change 连用，表示差异。本句 varied considerably from person to person，视频译为“在人与人之间相差相当大”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Attitudes toward tipping vary widely from country to country.",
+      "zh": "各国对给小费的态度差异很大。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Alec Jeffreys",
+    "explain": "亚历克·杰弗里斯，英国遗传学家，在莱斯特大学工作期间发现了DNA指纹技术，后来获封爵士，常称 Sir Alec Jeffreys。"
+   },
+   {
+    "term": "the University of Leicester",
+    "explain": "莱斯特大学，位于英格兰莱斯特市，即第1句莱斯特郡的首府。大学名称中常用 the University of + 地名 的格式。"
+   },
+   {
+    "term": "X-ray film",
+    "explain": "X光胶片，经射线感光后显影，能显示出图像。本句指杰弗里斯实验中用来记录DNA图样的胶片，视频译为“X光片”。X-ray 中的 X 要大写，并用连字符连接。"
+   },
+   {
+    "term": "molecular marker",
+    "explain": "分子标记，指DNA中可以识别、能用来区分个体或追踪遗传特征的片段，也说 genetic marker（遗传标记）。本句视频译为“分子标记”。"
+   },
+   {
+    "term": "discern",
+    "explain": "书面用词，指（费力地）看出、辨别出，宾语常是形状、模式、差别等，如 discern a pattern。比 see 正式，强调辨认的难度。"
+   }
+  ],
+  "translation_tip": "视频译文“1984年9月10日，亚历克·杰弗里斯，一位遗传学家在莱斯特大学（任职），在一张X光片上辨认出一些分子标记，这些标记的排布在人与人之间相差相当大。”的处理：①日期按年、月、日排列，译为“1984年9月10日，”。②同位语 a geneticist at the University of Leicester 保留在主语后，译为“一位遗传学家在莱斯特大学（任职）”，括号中的“任职”是增补，补出介词 at 隐含的工作关系。③地点状语 on an X-ray film 按汉语习惯放到动词前，与谓语合译为“在一张X光片上辨认出”；an 译为量词“一张”，复数宾语补出“一些”。④whose 从句不前置，拆成独立分句，用“这些标记的排布”回指先行词，相当于把 whose 译成“这些标记的”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "He",
+   "predicate": "called",
+   "object_or_complement": "them（宾语）；DNA fingerprints（宾语补足语）",
+   "explain": "主谓宾宾补结构（call + 宾语 + 名词），谓语为一般过去时，主动语态；since 引导原因状语从句。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指杰弗里斯）",
+    "zh": "他"
+   },
+   {
+    "text": "called",
+    "role": "谓语",
+    "zh": "把……称为"
+   },
+   {
+    "text": "them",
+    "role": "宾语（指上句的 molecular markers）",
+    "zh": "这些标记"
+   },
+   {
+    "text": "DNA fingerprints,",
+    "role": "宾语补足语（名词短语）",
+    "zh": "DNA指纹"
+   },
+   {
+    "text": "since,",
+    "role": "引导原因状语从句的连词",
+    "zh": "因为"
+   },
+   {
+    "text": "like fingerprints,",
+    "role": "从句中的插入成分（介词短语作方式状语，表示比较）",
+    "zh": "像指纹一样"
+   },
+   {
+    "text": "they differentiated individuals.",
+    "role": "原因状语从句的主干（主谓宾，they 指这些标记）",
+    "zh": "它们能把不同的人区分开来"
+   }
+  ],
+  "structure": "①主句 He called them DNA fingerprints 是“call + 宾语 + 宾语补足语”结构：them 指上一句的 molecular markers，DNA fingerprints 是名词作宾补，说明给这些标记起的名字。\n②since 引导原因状语从句。视频说明：since 在这里是“因为”，不是“自从”。判断依据：主句是一般过去时而不是完成时，从句讲的是命名的理由，不是时间起点。\n③like fingerprints 是插入成分，前后用逗号隔开，夹在 since 和从句主语 they 之间；like 是介词，表示“像……一样”，在从句中作方式状语，把这些DNA标记与真正的指纹相比。\n④从句主干 they differentiated individuals：they 指这些标记，differentiate 作及物动词，意为“区分”，individuals 是宾语。整句解释了术语 DNA fingerprint 的由来：这些标记和指纹一样，能把不同的人区分开来。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "since 的两种用法：“因为”与“自从”",
+    "explain": "since 引导时间状语从句时意为“自从”，主句多用现在完成时，如 I have lived here since I was ten；引导原因状语从句时意为“因为，既然”，表示对方已知或显而易见的原因，语气比 because 弱，可放在句首，也可放在主句后。判断时看主句时态和句意：主句不是完成时、从句说明理由时，since 一般是“因为”。本句主句 He called them… 是一般过去时，since 从句解释命名的理由，所以是“因为”。考研阅读中把表原因的 since 误读成“自从”，会导致因果关系判断错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Since the museum was closed for renovation, we spent the afternoon in the park.",
+      "zh": "由于博物馆闭馆整修，我们在公园里度过了下午。"
+     },
+     {
+      "en": "Since nobody raised any objection, the proposal was adopted.",
+      "zh": "既然没有人提出异议，这项提议就通过了。"
+     }
+    ]
+   },
+   {
+    "title": "call + 宾语 + 名词（宾语补足语）",
+    "explain": "call、name、elect、appoint、consider、make 等动词可以接“宾语 + 名词”，名词作宾语补足语，说明宾语的名称或身份。本句 called them DNA fingerprints，宾语是 them，宾补是 DNA fingerprints。改为被动语态时，宾补留在动词后：They were called DNA fingerprints。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The board appointed her chief financial officer last spring.",
+      "zh": "董事会去年春天任命她为首席财务官。"
+     }
+    ]
+   },
+   {
+    "title": "插入成分 like + 名词",
+    "explain": "插入成分用逗号与句子其他部分隔开，去掉后句子结构仍然完整。阅读时可以先略过插入成分抓住主干（since they differentiated individuals），再把它放回去补足意思。like 作介词，后接名词或代词，表示“像……一样”；要接从句时用连词 as，如 as fingerprints do。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "His new novel, like his earlier works, is set in a small fishing village.",
+      "zh": "他的新小说和他早期的作品一样，故事发生在一个小渔村。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "DNA fingerprint",
+    "explain": "DNA指纹，指DNA中因人而异、可用来识别个人的图样；这项技术叫 DNA fingerprinting，也叫 DNA profiling，第16句的 DNA profile（DNA图谱）就是这一说法。"
+   },
+   {
+    "term": "DNA",
+    "explain": "deoxyribonucleic acid（脱氧核糖核酸）的缩写，按字母读作 /ˌdiː en ˈeɪ/，是携带遗传信息的物质。"
+   },
+   {
+    "term": "individual",
+    "explain": "名词，个人，个体，常与社会、集体相对，如 the rights of the individual（个人权利）。本句 individuals 视频译为“不同的人”。"
+   },
+   {
+    "term": "fingerprint",
+    "explain": "名词，指纹；也可作动词，指采集某人的指纹，如 The suspect was photographed and fingerprinted。"
+   }
+  ],
+  "translation_tip": "视频译文“他把这些标记称为DNA指纹，因为像指纹一样，它们能把不同的人区分开来。”的处理：①call + 宾语 + 宾补用“把……称为……”译出，宾语 them 译为“这些标记”，避免“它们”指代不清。②since 译为“因为”，从句照原序放在主句之后，说明命名理由。③插入成分 like fingerprints 译为“像指纹一样，”，紧跟在“因为”之后，与英文位置一致。④differentiated individuals 译为“能把不同的人区分开来”：增补“能”，表明这是标记具备的能力；用“把”字句，individuals 译为“不同的人”，突出个体之间的差别。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The journal Nature",
+   "predicate": "carried",
+   "object_or_complement": "his paper",
+   "explain": "主谓宾结构，谓语为一般过去时，主动语态。promptly 是状语，修饰 carried；in March 1985 是时间状语。"
+  },
+  "components": [
+   {
+    "text": "The journal Nature",
+    "role": "主语（journal 与刊名 Nature 构成同位关系）",
+    "zh": "《自然》期刊"
+   },
+   {
+    "text": "promptly",
+    "role": "状语（副词，修饰 carried，表示迅速）",
+    "zh": "很快就"
+   },
+   {
+    "text": "carried",
+    "role": "谓语（carry 指报刊刊登）",
+    "zh": "刊登了"
+   },
+   {
+    "text": "his paper",
+    "role": "宾语",
+    "zh": "他的论文"
+   },
+   {
+    "text": "in March 1985.",
+    "role": "时间状语（介词短语）",
+    "zh": "在1985年3月"
+   }
+  ],
+  "structure": "①主干 The journal Nature carried his paper，主谓宾结构。The journal 与 Nature 指同一事物，构成同位关系，Nature 是刊名。\n②promptly 是副词作状语，放在主语和谓语之间，修饰 carried，说明刊登得很快：发现是在1984年9月，论文1985年3月就已发表，前后约半年。\n③carried 用的是熟词僻义，视频说明：carry 指报刊刊登、登载。his paper 中 paper 指学术论文，his 指杰弗里斯。\n④in March 1985 是时间状语，月份加年份前用介词 in。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "紧密同位语：普通名词 + 专有名词",
+    "explain": "普通名词与专有名词并列、指同一对象时，构成紧密同位关系，中间不用逗号，如 the journal Nature、the novelist Charles Dickens、my friend Tom。定冠词 the 属于整个短语。这种结构先用普通名词交代类别，再给出名称，读者即使不熟悉专名也能明白所指。刊名、书名在英文中通常用斜体，汉语译文加书名号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The economist John Maynard Keynes argued that governments should spend more during recessions.",
+      "zh": "经济学家约翰·梅纳德·凯恩斯主张，政府应在经济衰退期间扩大支出。"
+     }
+    ]
+   },
+   {
+    "title": "时间介词 in 与 on",
+    "explain": "年份、月份、季节前用 in，如 in 1984、in March 1985、in the summer of 1986；具体某一天前用 on，如 on 10 September 1984。英式写法日在月前（10 September 1984），美式常写作 September 10, 1984。本篇各句的时间状语正好示范了这两种用法，写作中注意不要混用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The agreement was signed on 3 May 2019 and took effect in January 2020.",
+      "zh": "该协议于2019年5月3日签署，2020年1月生效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Nature",
+    "explain": "《自然》，英国出版的综合性科学周刊，创刊于1869年，是世界上影响最大的科学期刊之一。"
+   },
+   {
+    "term": "carry",
+    "explain": "熟词僻义：指报纸、杂志、广播等“刊登，播出”新闻或文章，如 All the major newspapers carried the story（各大报纸都刊登了这则消息）。视频说明为“指报刊刊登、登载”，译为“刊登了”。"
+   },
+   {
+    "term": "paper",
+    "explain": "作可数名词时可指学术论文，如 publish a paper（发表论文）、present a paper（宣读论文），也可指报纸；作不可数名词指纸。本句 his paper 视频译为“他的论文”。"
+   },
+   {
+    "term": "promptly",
+    "explain": "副词，迅速地，立即；也可表示“准时地”，如 The meeting began promptly at nine。本句视频译为“很快”。"
+   }
+  ],
+  "translation_tip": "视频译文“《自然》期刊很快就在1985年3月刊登了他的论文。”的处理：①同位语结构 The journal Nature 按汉语习惯把刊名放在前面，译为“《自然》期刊”，刊名加书名号。②promptly 译为“很快就”，增补“就”字，强调发表之快。③时间状语 in March 1985 移到谓语前，译为“在1985年3月”；carried 按报刊语境译为“刊登了”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Police；his genetic tests",
+   "predicate": "enlisted；overturned",
+   "object_or_complement": "Jeffreys（enlisted 的宾语）；the erroneous confession（overturned 的宾语）",
+   "explain": "本句是 and 连接的并列句，两个分句都是主谓宾结构，谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Police",
+    "role": "第一个分句的主语（集合名词，新闻中常省略 the）",
+    "zh": "警方"
+   },
+   {
+    "text": "enlisted",
+    "role": "第一个分句的谓语",
+    "zh": "请来了"
+   },
+   {
+    "text": "Jeffreys,",
+    "role": "第一个分句的宾语",
+    "zh": "杰弗里斯"
+   },
+   {
+    "text": "and his genetic tests",
+    "role": "并列连词 and + 第二个分句的主语（genetic 作前置定语）",
+    "zh": "他的基因检测"
+   },
+   {
+    "text": "overturned",
+    "role": "第二个分句的谓语",
+    "zh": "推翻了"
+   },
+   {
+    "text": "the erroneous confession.",
+    "role": "第二个分句的宾语（erroneous 作前置定语）",
+    "zh": "那份错误的供词"
+   }
+  ],
+  "structure": "①本句由 and 连接两个主谓宾分句，按先后和因果排列：警方先请来杰弗里斯，他的检测随后推翻了供词。\n②第一个分句 Police enlisted Jeffreys：police 是集合名词，表示“警方”，新闻中前面常不加 the，谓语按复数理解。enlist 本义是“征募入伍”，视频说明：enlist 指请来帮忙、争取帮助。\n③第二个分句 his genetic tests overturned the erroneous confession：his 指杰弗里斯；genetic 修饰 tests；overturn 本义是“使翻倒”，这里指推翻结论、判决之类；erroneous 修饰 confession，说明供词与事实不符。\n④the erroneous confession 中的定冠词 the 回指第3句 A 17-year-old local youth confessed to the second killing 中那份认罪供述，confess 与 confession 前后呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "集合名词 police 作主语",
+    "explain": "police 是集合名词，指警方、警察（总称），总是作复数用，谓语用复数形式，如 The police are investigating the case。它不能说 a police，表示一名警察要用 a police officer、a policeman 或 a policewoman。新闻语体中 police 前常省略定冠词，如 Police said…、Police arrested two men。本句 Police enlisted Jeffreys 就是这种写法。同样只作复数用的集合名词还有 people、cattle。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Police have arrested three people in connection with the robbery.",
+      "zh": "警方已逮捕三名与这起抢劫案有关的人。"
+     },
+     {
+      "en": "The police are appealing for witnesses to come forward.",
+      "zh": "警方正在呼吁目击者出面提供线索。"
+     }
+    ]
+   },
+   {
+    "title": "and 连接的并列句暗含先后和因果",
+    "explain": "and 连接两个分句时，除了单纯并列，还常暗含先后或因果：前一分句是先发生的事或原因，后一分句是随之而来的结果。本句“警方请来杰弗里斯”在前，“检测推翻供词”是结果。翻译时 and 往往不必译出，靠语序体现先后；考研阅读中也要根据上下文判断 and 前后的逻辑关系。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The heavy rain continued for a week, and several roads had to be closed.",
+      "zh": "大雨连下了一周，好几条道路不得不封闭。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "enlist sb / enlist sb's help",
+    "explain": "请某人帮忙，争取某人的帮助或支持，如 enlist the help of experts（请专家帮忙）、enlist public support（争取公众支持）。本义是“征募（入伍）”或“参军”，如 enlist in the army。本句视频译为“请来了”。"
+   },
+   {
+    "term": "overturn",
+    "explain": "推翻（判决、决定、结论等），如 overturn a verdict（推翻裁决）、overturn a ban（撤销禁令）；本义是“（使）翻倒”，如 The lorry overturned on the motorway。本句视频译为“推翻了”。"
+   },
+   {
+    "term": "erroneous",
+    "explain": "正式用词，错误的，不正确的，多指建立在错误信息或推理上的观点、结论、信息，如 erroneous assumptions（错误的假设）。比 wrong 正式。本句视频译为“错误的”。"
+   },
+   {
+    "term": "genetic test",
+    "explain": "基因检测，通过分析DNA获取遗传信息的检测。本句 his genetic tests 指杰弗里斯用DNA指纹技术所做的检测。"
+   }
+  ],
+  "translation_tip": "视频译文“警方请来了杰弗里斯，他的基因检测推翻了那份错误的供词。”的处理：①两个分句照原序译出，and 不译，靠语序体现先后和因果。②enlisted 结合语境译为“请来了”，不用“征募”这一本义。③the erroneous confession 中 the 译为“那份”，补出量词“份”与“供词”搭配，同时回指第3句青年的认罪。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "The youth；the same attacker",
+   "predicate": "was not；had killed",
+   "object_or_complement": "the perpetrator（表语）；both girls（had killed 的宾语）",
+   "explain": "本句是 and 连接的并列句。第一个分句是主系表结构，系动词 was 带否定词 not，一般过去时；第二个分句是主谓宾结构，谓语 had killed 是过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The youth",
+    "role": "第一个分句的主语（回指第3句的那名青年）",
+    "zh": "那名青年"
+   },
+   {
+    "text": "was not",
+    "role": "系动词 + 否定词",
+    "zh": "不是"
+   },
+   {
+    "text": "the perpetrator,",
+    "role": "表语",
+    "zh": "行凶者"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，表示递进",
+    "zh": "而且"
+   },
+   {
+    "text": "the same attacker",
+    "role": "第二个分句的主语（the same 修饰 attacker）",
+    "zh": "同一个袭击者"
+   },
+   {
+    "text": "had killed",
+    "role": "第二个分句的谓语（过去完成时）",
+    "zh": "杀害了"
+   },
+   {
+    "text": "both girls.",
+    "role": "宾语（指第1、2句的两名受害者）",
+    "zh": "这两名女孩"
+   }
+  ],
+  "structure": "①本句是并列句，陈述DNA检测得出的两个结论：认罪的青年不是凶手；两起命案出自同一人之手。\n②第一个分句 The youth was not the perpetrator 是主系表结构，the perpetrator 作表语，定冠词 the 指“那个真正作案的人”。The youth 回指第3句的 A 17-year-old local youth：首次出现用不定冠词，再次出现用定冠词。\n③第二个分句 the same attacker had killed both girls：the same 修饰 attacker，表示“同一个”；谓语 had killed 用过去完成时，因为两起命案发生在检测得出结论之前，是“过去的过去”。\n④both girls 指第1、2句两名15岁的受害者。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一般过去时与过去完成时并用",
+    "explain": "叙述过去的事时，一般过去时表示叙事时间点上的情况，过去完成时表示在那之前已经发生的事。本句 was not 说的是检测之时确认的事实（他不是凶手），had killed 说的是更早发生的两起命案。两种时态并用，把“检测结论”和“作案经过”的先后区分开来。考研完形填空中常考这种时态对比，要根据上下文的时间参照选择时态。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The investigators concluded that the fire had started in the kitchen.",
+      "zh": "调查人员得出结论：火是从厨房烧起来的。"
+     },
+     {
+      "en": "When she checked the account, she found that someone had withdrawn all the money.",
+      "zh": "她查看账户时，发现有人已经把钱全部取走了。"
+     }
+    ]
+   },
+   {
+    "title": "the same + 名词",
+    "explain": "same 前一般要用定冠词 the，表示“同一个，相同的”，比较对象用 as 引出，如 the same age as me。本句 the same attacker 表示两起命案的袭击者是同一个人。易错：不说 a same，也不能漏掉 the 只写 same attacker。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The two companies were founded in the same year by the same engineer.",
+      "zh": "这两家公司由同一位工程师在同一年创办。"
+     }
+    ]
+   },
+   {
+    "title": "both + 复数名词",
+    "explain": "both 表示“两者都”，后接复数名词，可直接说 both girls，也可说 both the girls 或 both of the girls。表示“两者都不”时一般不用 both … not（容易理解成部分否定），而用 neither。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Both candidates promised to cut taxes, but neither explained how.",
+      "zh": "两位候选人都承诺减税，但谁也没有说明如何做到。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "perpetrator",
+    "explain": "正式用词，指犯罪、暴力等恶行的实施者，如 the perpetrators of the attack（袭击的实施者）。动词是 perpetrate（犯下罪行）。本句视频译为“行凶者”。"
+   },
+   {
+    "term": "attacker",
+    "explain": "袭击者，由 attack 加表示人的后缀 -er 构成。本句 attacker 与前一分句的 perpetrator 指同一类人，作者换词避免重复，视频译为“袭击者”。"
+   }
+  ],
+  "translation_tip": "视频译文“那名青年不是行凶者，而且是同一个袭击者杀害了这两名女孩。”的处理：①第一个分句照原序译出，The youth 中 The 译为“那名”。②and 译为“而且”，表示递进：检测不仅排除了青年，还揭示了两案出自一人。③第二个分句加“是”字，译成“是同一个袭击者杀害了这两名女孩”，强调 the same attacker；had killed 译为“杀害了”，先后关系由上下文体现，不必加“已经”。④both girls 译为“这两名女孩”，“这”回指前文两名受害者。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The youth",
+   "predicate": "became",
+   "object_or_complement": "the first person（表语）",
+   "explain": "主系表结构，became 是系动词，一般过去时；表语 the first person 后接过去分词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "The youth",
+    "role": "主语",
+    "zh": "这名青年"
+   },
+   {
+    "text": "became",
+    "role": "系动词（谓语）",
+    "zh": "成为"
+   },
+   {
+    "text": "the first person",
+    "role": "表语（中心词）",
+    "zh": "第一个……的人"
+   },
+   {
+    "text": "known to be cleared by DNA evidence.",
+    "role": "后置定语（过去分词短语，内含被动不定式），修饰 the first person",
+    "zh": "已知……凭DNA证据被证明清白"
+   }
+  ],
+  "structure": "①主干 The youth became the first person，became 是系动词，the first person 是表语。\n②known to be cleared by DNA evidence 是后置定语，视频说明：known to be cleared… 是后置定语，修饰 the first person。它相当于定语从句 who is known to have been cleared by DNA evidence，来自 sb is known to do 结构，意为“据知某人……”。\n③短语内部，to be cleared 是不定式的被动式，clear 在这里意为“证明……无罪”，青年是被证明清白的一方；by DNA evidence 引出所凭借的证据。\n④the first person 后接不定式，本是“the first + 名词 + to do”（第一个做……的人）结构；插入 known 后，表示“第一个”只是就目前所知而言。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语 known to do 作后置定语",
+    "explain": "过去分词短语放在名词后作定语，相当于省略了“关系代词 + be”的定语从句。known to be/do 来自 sb/sth is known to be/do（已知、据知某人或某物……），作后置定语时写成“名词 + known to do”，如 the only species known to use tools（已知唯一会使用工具的物种）。本句 the first person known to be cleared by DNA evidence 相当于 the first person who is known to have been cleared by DNA evidence。翻译时 known 常译为“已知”，放在整个定语的最前面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers have identified a gene known to increase the risk of heart disease.",
+      "zh": "研究人员找到了一种已知会增加心脏病风险的基因。"
+     },
+     {
+      "en": "She was the first woman known to have crossed the desert alone.",
+      "zh": "她是已知第一个独自穿越这片沙漠的女性。"
+     }
+    ]
+   },
+   {
+    "title": "the first / last / only + 名词 + 不定式",
+    "explain": "名词前有序数词、最高级或 the only、the last 修饰时，后面常用不定式作定语，表示“第一个、最后一个、唯一一个做……的人或物”，如 the first person to reach the summit、the last man to leave。不定式与被修饰名词是被动关系时用 to be done，如 the first patient to be treated with the new drug。本句 to be cleared 是被动式，青年是被证明无罪的一方。写作中用这一结构代替定语从句，句子更紧凑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He was the last passenger to be rescued from the sinking ship.",
+      "zh": "他是最后一名从下沉的船上被救出来的乘客。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "clear sb (of sth)",
+    "explain": "熟词僻义：证明某人无罪，洗清某人的嫌疑，如 He was cleared of all charges（他被裁定所有指控均不成立）。本句 to be cleared by DNA evidence 视频译为“凭DNA证据被证明清白”。"
+   },
+   {
+    "term": "DNA evidence",
+    "explain": "DNA证据，指警方或法庭依据DNA比对结果得出的证据。evidence 是不可数名词，不说 an evidence，“一条证据”说 a piece of evidence。"
+   }
+  ],
+  "translation_tip": "视频译文“这名青年成为已知第一个凭DNA证据被证明清白的人。”的处理：①后置定语 known to be cleared by DNA evidence 整体前移到“人”字之前，known 放在最前，译为“已知”，限定“第一个”的范围。②by DNA evidence 译为“凭DNA证据”，用“凭”表示依据，避免与后面被动的“被”字重复。③被动不定式 to be cleared 译为“被证明清白”，补出“证明”，把 clear 的法律含义说清楚。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The forensic innovation",
+   "predicate": "had freed",
+   "object_or_complement": "an innocent",
+   "explain": "主谓宾结构，谓语 had freed 是过去完成时，主动语态；before 引导时间状语从句，从句谓语 implicated 是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The forensic innovation",
+    "role": "主语（指DNA指纹技术，forensic 作前置定语）",
+    "zh": "这项法医学创新"
+   },
+   {
+    "text": "had freed",
+    "role": "谓语（过去完成时）",
+    "zh": "早已让……重获自由"
+   },
+   {
+    "text": "an innocent",
+    "role": "宾语（形容词 innocent 用作可数名词）",
+    "zh": "一名无辜者"
+   },
+   {
+    "text": "before it implicated anyone.",
+    "role": "时间状语从句（before 引导，it 指 the forensic innovation）",
+    "zh": "在它牵连到任何人之前"
+   }
+  ],
+  "structure": "①主干 The forensic innovation had freed an innocent。主语 The forensic innovation 指DNA指纹技术，forensic 作前置定语，意为“法医学的，用于刑侦的”；innovation 用定冠词 the，回指前文介绍的新技术。\n②an innocent 中，innocent 本是形容词，这里加不定冠词作可数名词，指“无辜者”，即那名被冤枉的青年。\n③before 引导时间状语从句，it 指 the forensic innovation，implicated anyone 意为“牵连到任何人”。视频说明：A before B，先 A 后 B；implicate 意为牵连，表明……涉案。即这项技术先让无辜者获得自由，后来才把人牵连进案件。\n④主句用过去完成时 had freed，从句用一般过去时 implicated，过去完成时强调释放无辜者在先。anyone 用在 before 从句这种带否定意味的语境中，暗含“当时还没有任何人被牵连”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "before 从句与主句的过去完成时",
+    "explain": "before 本身已经表明先后，主句用一般过去时也可以；主句用过去完成时，则强调主句动作在从句动作发生时已经完成。本句 had freed an innocent before it implicated anyone：在这项技术牵连到任何人之前，它已经让一名无辜者重获自由。翻译时可以按时间顺序先译 before 从句，视频译文保留了英文语序，把“在……之前”放在后面，并用“早已”体现过去完成时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The thieves had disappeared long before the alarm went off.",
+      "zh": "警报响起之前，窃贼早已逃得无影无踪。"
+     },
+     {
+      "en": "Most of the guests had left before the speeches began.",
+      "zh": "致辞开始之前，大多数客人就已经离开了。"
+     }
+    ]
+   },
+   {
+    "title": "形容词用作可数名词：an innocent",
+    "explain": "部分形容词可以加冠词或复数词尾，直接作可数名词指人，如 an innocent（一个无辜者）、innocents（无辜的人们）、a native、a criminal、a liberal。这与“the + 形容词”表示一类人不同：the innocent、the rich 指一类人的总称，谓语用复数。本句 an innocent 指第10句那名被证明清白的青年。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new law aims to protect innocents from wrongful prosecution.",
+      "zh": "这项新法律旨在保护无辜者免遭错误起诉。"
+     }
+    ]
+   },
+   {
+    "title": "anyone 用于带否定意味的语境",
+    "explain": "any 及其复合词 anyone、anything 常用于否定句、疑问句、条件句，也用于 before、without、too…to 等带否定意味的结构，表示“任何一个”。本句 before it implicated anyone 意为“在它牵连到任何人之前”，暗含当时还没有人被牵连。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She left the room before anyone could ask her a question.",
+      "zh": "还没等任何人向她提问，她就离开了房间。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "forensic",
+    "explain": "形容词，法医的，刑侦的，与法庭调查有关的，如 forensic science（刑侦科学）、forensic evidence（法医证据）、forensic medicine（法医学）。本句视频译为“法医学”。"
+   },
+   {
+    "term": "implicate sb (in sth)",
+    "explain": "表明某人与（罪行、丑闻等）有牵连，常用被动 be implicated in sth，如 Several officials were implicated in the scandal。视频说明：implicate 意为牵连，表明……涉案。名词 implication 有“牵连”和“含义”两个意思。"
+   },
+   {
+    "term": "free",
+    "explain": "动词，释放，使获得自由，如 free the hostages（释放人质）。本句 had freed an innocent 视频译为“让一名无辜者重获自由”。"
+   },
+   {
+    "term": "innovation",
+    "explain": "名词，可数时指新技术、新方法、新发明，不可数时指创新这一行为。本句 The forensic innovation 指DNA指纹技术，视频译为“这项法医学创新”。"
+   }
+  ],
+  "translation_tip": "视频译文“这项法医学创新早已让一名无辜者重获自由，在它牵连到任何人之前。”的处理：①过去完成时 had freed 译为“早已……”，freed an innocent 译为“让一名无辜者重获自由”，增补“让”和“重获”。②before 从句保留英文语序，放在主句后，译为“在它牵连到任何人之前”，用逗号隔开，像补充说明一样突出先后对比。③The forensic innovation 中 The 译为“这项”，回指DNA指纹技术。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "police",
+   "predicate": "commenced",
+   "object_or_complement": "the world's first large-scale DNA screening",
+   "explain": "主谓宾结构，谓语为一般过去时，主动语态；句末现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "In January 1987",
+    "role": "时间状语（介词短语）",
+    "zh": "1987年1月"
+   },
+   {
+    "text": "police",
+    "role": "主语（集合名词，前面省略 the）",
+    "zh": "警方"
+   },
+   {
+    "text": "commenced",
+    "role": "谓语",
+    "zh": "开始了"
+   },
+   {
+    "text": "the world's first",
+    "role": "宾语的前置限定成分（名词所有格 + 序数词）",
+    "zh": "世界上首次"
+   },
+   {
+    "text": "large-scale",
+    "role": "宾语的前置定语（复合形容词）",
+    "zh": "大规模的"
+   },
+   {
+    "text": "DNA screening,",
+    "role": "宾语中心部分（名词 DNA 作 screening 的前置定语）",
+    "zh": "DNA筛查"
+   },
+   {
+    "text": "asking",
+    "role": "伴随状语（现在分词短语）的中心词，逻辑主语是 police",
+    "zh": "请"
+   },
+   {
+    "text": "more than 5,000 men",
+    "role": "asking 的宾语（ask sb for sth 中的 sb）",
+    "zh": "5,000多名男子"
+   },
+   {
+    "text": "in three villages",
+    "role": "后置定语（介词短语），修饰 men",
+    "zh": "三个村庄的"
+   },
+   {
+    "text": "for blood or saliva.",
+    "role": "介词短语（ask sb for sth 中的 for sth），说明请对方提供什么",
+    "zh": "提供血液或唾液"
+   }
+  ],
+  "structure": "①句首 In January 1987 是时间状语。主干 police commenced the world's first large-scale DNA screening，宾语中心词是 screening，前面依次有名词所有格 the world's、序数词 first、复合形容词 large-scale 和名词 DNA 四层修饰。\n②asking more than 5,000 men in three villages for blood or saliva 是现在分词短语作伴随状语，视频说明：asking… 是伴随状语。它的逻辑主语是 police，说明这次筛查具体是怎么做的。\n③分词短语内部是 ask sb for sth 结构，视频说明：ask sb for sth，请某人提供某物。more than 5,000 men 是 asking 的宾语，in three villages 是介词短语作后置定语，修饰 men；for blood or saliva 引出请对方提供的东西。\n④more than 5,000 意为“5,000多”，数字中的逗号是千位分隔符。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，常作伴随状语，补充说明主句动作的具体方式或同时发生的情况。它的逻辑主语必须是主句主语，并且与主语是主动关系。本句 asking … 的逻辑主语是 police，说明“开始筛查”的具体做法：请男子们提供血液或唾液。翻译时一般译成并列的分句，主语承前省略。易错：分词的逻辑主语与主句主语不一致，会形成“悬垂分词”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government launched a nationwide campaign, urging citizens to save water.",
+      "zh": "政府发起了一场全国性运动，号召市民节约用水。"
+     },
+     {
+      "en": "The researchers visited 300 families, asking parents how much time their children spent online.",
+      "zh": "研究人员走访了300个家庭，询问家长孩子每天上网多长时间。"
+     }
+    ]
+   },
+   {
+    "title": "ask sb for sth",
+    "explain": "ask sb for sth 意为“向某人要某物，请某人提供某物”；ask sb to do sth 意为“请某人做某事”；ask sb about sth 意为“向某人询问某事”。三者介词和结构不同，意思也不同。本句 asking more than 5,000 men … for blood or saliva，视频译为“请……男子提供血液或唾液”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The charity asked local businesses for donations of food and clothing.",
+      "zh": "这家慈善机构请当地企业捐赠食物和衣物。"
+     }
+    ]
+   },
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有多个定语时，一般顺序是：限定成分（冠词、所有格、序数词）+ 描述性形容词 + 名词性修饰语 + 中心词。本句 the world's first large-scale DNA screening 中，the world's 和 first 是限定成分，large-scale 描述规模，DNA 是名词修饰语，紧挨中心词 screening，说明筛查的对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city opened its first large public library in 1902.",
+      "zh": "这座城市在1902年开设了第一座大型公共图书馆。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "commence",
+    "explain": "正式用词，开始，相当于 begin、start，多用于法律、公文和正式场合，如 commence proceedings（提起诉讼）、commence work。本句视频译为“开始了”。"
+   },
+   {
+    "term": "DNA screening",
+    "explain": "DNA筛查，指对一大批人采集样本、逐一做DNA比对。screening 还常指疾病筛查，如 cancer screening（癌症筛查）。"
+   },
+   {
+    "term": "saliva",
+    "explain": "唾液，不可数名词。唾液和血液都能提取DNA，所以警方请男子们提供二者之一。"
+   },
+   {
+    "term": "more than + 数字",
+    "explain": "多于，……多，如 more than 5,000 men（5,000多名男子）。英文数字每三位用逗号分隔，读作 five thousand。"
+   }
+  ],
+  "translation_tip": "视频译文“1987年1月，警方开始了世界上首次大规模的DNA筛查，请三个村庄的5,000多名男子提供血液或唾液。”的处理：①时间状语 In January 1987 照原位译出。②宾语前的多层修饰按汉语习惯排成“世界上首次大规模的DNA筛查”，the world's 译为“世界上”。③伴随状语 asking … 拆成并列分句，承前省略主语“警方”；asking 译为“请”，for blood or saliva 译为“提供血液或唾液”，补出动词“提供”。④后置定语 in three villages 前移，译为“三个村庄的5,000多名男子”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "None",
+   "predicate": "matched",
+   "object_or_complement": "",
+   "explain": "主谓结构，match 在此为不及物动词，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "None",
+    "role": "主语（不定代词，指 none of the samples）",
+    "zh": "没有一份样本"
+   },
+   {
+    "text": "matched.",
+    "role": "谓语（不及物动词，比较对象承前省略）",
+    "zh": "吻合"
+   }
+  ],
+  "structure": "①全句只有两个词：主语 None，谓语 matched。\n②None 是不定代词，承前省略了 of 短语，完整的意思是 None of the samples matched，视频补出“样本”，译为“没有一份样本吻合”。\n③match 在此是不及物动词，意为“相符，吻合”，比较对象（凶手的DNA）承前省略。\n④这个两词短句紧跟在上一句的长句之后，节奏骤然变化，突出大规模筛查落空的结果，也为下一句交代原因作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "none 作主语",
+    "explain": "none 是不定代词，意为“没有一个，一点也没有”，可以单独作主语，也可以接 of 短语，如 none of the samples。指可数名词时，谓语可用单数也可用复数，正式文体传统上多用单数；指不可数名词时谓语用单数，如 None of the money was found。none 回答 how many 或 how much，no one 只指人，回答 who。本句谓语 matched 是过去式，单复数同形。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "None of the witnesses was willing to testify in court.",
+      "zh": "没有一名证人愿意出庭作证。"
+     },
+     {
+      "en": "We interviewed twenty applicants, but none had the experience we needed.",
+      "zh": "我们面试了二十名申请人，但没有一个具备我们需要的经验。"
+     }
+    ]
+   },
+   {
+    "title": "不及物动词 match",
+    "explain": "match 作及物动词时意为“与……相符，与……相配”，如 Her DNA matched the sample；作不及物动词时，主语本身表示“相符，吻合”，比较对象可以省略，也可以用 with 引出。本句 None matched 省略了比较对象；第16句 his DNA profile matched 用法相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The signature on the cheque and the one on file did not match.",
+      "zh": "支票上的签名与存档的签名不一致。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "match",
+    "explain": "名词也可指“相符的人或物，匹配”，DNA比对一致说 a DNA match，如 The sample produced a perfect match（样本完全吻合）。本句作动词，视频译为“吻合”。"
+   }
+  ],
+  "translation_tip": "视频译文“没有一份样本吻合。”的处理：①None 补出所指对象，译为“没有一份样本”，量词“一份”加强了否定语气。②matched 译为“吻合”，与第16句 his DNA profile matched 的译法一致。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "The elusive killer",
+   "predicate": "had induced",
+   "object_or_complement": "a co-worker（宾语）；to give a sample（宾语补足语）",
+   "explain": "主谓宾宾补结构（induce sb to do sth），谓语 had induced 是过去完成时，主动语态；句末现在分词短语作结果状语。"
+  },
+  "components": [
+   {
+    "text": "The elusive killer,",
+    "role": "主语（elusive 作前置定语）",
+    "zh": "这个难以找到的凶手"
+   },
+   {
+    "text": "a local baker,",
+    "role": "同位语，说明凶手的身份",
+    "zh": "一名当地的面包师"
+   },
+   {
+    "text": "had induced",
+    "role": "谓语（过去完成时）",
+    "zh": "事先诱使"
+   },
+   {
+    "text": "a co-worker",
+    "role": "宾语",
+    "zh": "一名同事"
+   },
+   {
+    "text": "to give a sample",
+    "role": "宾语补足语（不定式短语）",
+    "zh": "提供了样本"
+   },
+   {
+    "text": "in his name,",
+    "role": "方式状语（介词短语，修饰 give；his 指凶手）",
+    "zh": "冒他的名字"
+   },
+   {
+    "text": "evading suspicion.",
+    "role": "结果状语（现在分词短语，逻辑主语是凶手）",
+    "zh": "躲过了怀疑"
+   }
+  ],
+  "structure": "①主干 The elusive killer had induced a co-worker to give a sample。induce sb to do sth 意为“诱使某人做某事”，a co-worker 是宾语，不定式 to give a sample 是宾语补足语。视频说明：induce sb to do sth，诱使某人做某事。\n②a local baker 是主语的同位语，前后用逗号隔开，交代凶手的身份。\n③in his name 是介词短语作方式状语，修饰 give，视频说明：in his name，以他的名义。his 指凶手，不指同事：同事以凶手的名义提供了样本。\n④evading suspicion 是现在分词短语作结果状语，视频说明：分词作结果状语，逻辑主语是凶手，不是同事。冒名送样的结果是凶手本人躲过了怀疑。\n⑤谓语 had induced 用过去完成时：诱使同事冒名送样发生在上一句“没有一份样本吻合”之前，本句是回头交代筛查落空的原因。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，可以表示主句动作自然带来的结果，常译为“从而……，结果……”，有时前面加 thus 或 thereby。它的逻辑主语一般是主句主语。本句 evading suspicion 的逻辑主语是主句主语 The elusive killer，而不是离它最近的 a co-worker：凶手让同事替自己提供样本，结果自己躲过了怀疑。分析句末分词时，要先找主句主语，不能就近找名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river burst its banks, flooding hundreds of homes.",
+      "zh": "河水决堤，淹没了数百户人家。"
+     },
+     {
+      "en": "Food prices rose sharply in the spring, forcing many families to cut back on spending.",
+      "zh": "春季食品价格大幅上涨，迫使许多家庭削减开支。"
+     }
+    ]
+   },
+   {
+    "title": "动词 + 宾语 + 不定式（宾语补足语）",
+    "explain": "induce、persuade、cause、force、encourage、urge、allow 等动词常接“宾语 + 不定式”，不定式作宾语补足语，说明宾语要做的事，宾语就是不定式的逻辑主语。本句 had induced a co-worker to give a sample，提供样本的是同事。induce 强调通过劝说、利诱等手段让人去做某事，书面色彩较浓。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nothing could induce me to sign such a contract.",
+      "zh": "无论如何我也不会签这样的合同。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in sb's name / in the name of sb",
+    "explain": "以某人的名义，如 The flat was rented in her name（公寓是以她的名义租的）。in the name of 还可表示“以……为借口，打着……的旗号”，如 in the name of progress。视频说明为“以他的名义”，译文用“冒他的名字”，“冒”字点出顶替的性质。"
+   },
+   {
+    "term": "elusive",
+    "explain": "形容词，难以找到的，难以捉住的，难以捉摸的，如 an elusive criminal、an elusive goal。本句修饰凶手，视频译为“难以找到的”，指警方一直没能找到他。"
+   },
+   {
+    "term": "co-worker",
+    "explain": "同事，美式也写作 coworker，与 colleague 意思相近。本句的 a co-worker 是凶手在面包店的同事。"
+   },
+   {
+    "term": "give a sample",
+    "explain": "提供样本，如 give a blood sample。sample 指供检验的少量样品。"
+   }
+  ],
+  "translation_tip": "视频译文“这个难以找到的凶手，一名当地的面包师，事先诱使一名同事冒他的名字提供了样本，躲过了怀疑。”的处理：①主语和同位语照原序译出，同位语 a local baker 用逗号隔开，译为“一名当地的面包师”。②过去完成时 had induced 加“事先”二字，点明冒名送样发生在筛查落空之前。③方式状语 in his name 移到动词前，译为“冒他的名字提供了样本”。④结果状语 evading suspicion 译为独立的分句“躲过了怀疑”，主语承前省略，指凶手。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "someone",
+   "predicate": "overheard；notified",
+   "object_or_complement": "the co-worker（overheard 的宾语）；discussing the substitution（宾语补足语）；police（notified 的宾语）",
+   "explain": "一个主语带两个由 and 连接的并列谓语，都是一般过去时，主动语态；overheard 后接“宾语 + 现在分词”的复合结构。"
+  },
+  "components": [
+   {
+    "text": "In August 1987",
+    "role": "时间状语（介词短语）",
+    "zh": "1987年8月"
+   },
+   {
+    "text": "someone",
+    "role": "主语（不定代词）",
+    "zh": "有人"
+   },
+   {
+    "text": "overheard",
+    "role": "谓语一",
+    "zh": "无意中听到"
+   },
+   {
+    "text": "the co-worker",
+    "role": "overheard 的宾语",
+    "zh": "这名同事"
+   },
+   {
+    "text": "discussing",
+    "role": "宾语补足语（现在分词，表示正在进行）",
+    "zh": "在谈论"
+   },
+   {
+    "text": "the substitution",
+    "role": "discussing 的宾语（回指上句的冒名顶替）",
+    "zh": "冒名顶替的事"
+   },
+   {
+    "text": "and notified police.",
+    "role": "并列连词 and + 谓语二 + 宾语",
+    "zh": "并通知了警方"
+   }
+  ],
+  "structure": "①句首 In August 1987 是时间状语。主语 someone 带两个由 and 连接的谓语：overheard … 和 notified police。\n②overheard the co-worker discussing the substitution 是“感官动词 + 宾语 + 现在分词”结构：the co-worker 是宾语，现在分词短语 discussing the substitution 作宾语补足语，表示被听到时动作正在进行。\n③the substitution 用定冠词，回指上一句同事替凶手提供样本这件事。\n④notified 是过去式，与 overheard 并列，主语都是 someone，不与 discussing 并列；police 前省略了 the，是新闻语体的常见写法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "感官动词 + 宾语 + doing / do",
+    "explain": "hear、see、watch、notice、feel、overhear 等感官动词后，宾语补足语用现在分词时，表示动作正在进行，感知到的只是其中一段，如 overheard the co-worker discussing…；用不带 to 的不定式时，表示感知到动作的全过程，如 I heard him leave the house。本句用 discussing，说明有人碰巧听到同事正在谈论此事。变为被动语态时，不定式要加 to（He was heard to leave），现在分词不变（The co-worker was overheard discussing…）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "I overheard two passengers complaining about the delay.",
+      "zh": "我无意中听到两名乘客在抱怨航班延误。"
+     },
+     {
+      "en": "Neighbours saw a man climb over the fence and run off.",
+      "zh": "邻居们看见一个男人翻过篱笆跑掉了。"
+     }
+    ]
+   },
+   {
+    "title": "一个主语带两个并列谓语",
+    "explain": "同一主语先后发出两个动作时，可以用 and 连接两个谓语，后一个谓语前不重复主语。本句 someone overheard … and notified police。阅读时要看清 and 连接的是哪两个成分：notified 是过去式，与 overheard 形式一致，二者都是 someone 的谓语，而不是与现在分词 discussing 并列。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The manager read the complaint and replied the same day.",
+      "zh": "经理看了投诉，当天就作了答复。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "overhear",
+    "explain": "无意中听到（别人的谈话），如 overhear a conversation；与 eavesdrop（故意偷听）不同。过去式和过去分词都是 overheard。本句视频译为“无意中听到”。"
+   },
+   {
+    "term": "substitution",
+    "explain": "替换，顶替，常用 the substitution of A for B（用 A 代替 B）。本句指同事冒充凶手提供样本，视频译为“冒名顶替”。"
+   },
+   {
+    "term": "notify sb (of sth)",
+    "explain": "正式告知，通知，如 notify the police of the theft（向警方报告失窃）。本句 notified police 视频译为“通知了警方”。"
+   }
+  ],
+  "translation_tip": "视频译文“1987年8月，有人无意中听到这名同事在谈论冒名顶替的事，并通知了警方。”的处理：①时间状语照原位译出。②overheard 译为“无意中听到”，突出偶然性。③宾语补足语 discussing the substitution 译为“在谈论冒名顶替的事”，“在”体现现在分词的进行意义，“的事”是增补，使宾语完整。④第二个谓语 and notified police 译为“并通知了警方”，用“并”连接两个动作。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Colin Pitchfork；his DNA profile",
+   "predicate": "was detained；matched",
+   "object_or_complement": "",
+   "explain": "本句是 and 连接的并列句。第一个分句是主谓结构，谓语为一般过去时的被动语态；第二个分句也是主谓结构，match 为不及物动词，一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Colin Pitchfork",
+    "role": "第一个分句的主语",
+    "zh": "科林·皮奇福克"
+   },
+   {
+    "text": "was detained",
+    "role": "第一个分句的谓语（一般过去时，被动语态）",
+    "zh": "被拘留"
+   },
+   {
+    "text": "on 19 September 1987,",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "在1987年9月19日"
+   },
+   {
+    "text": "and his DNA profile",
+    "role": "并列连词 and + 第二个分句的主语",
+    "zh": "他的DNA图谱"
+   },
+   {
+    "text": "matched.",
+    "role": "第二个分句的谓语（不及物动词，比较对象承前省略）",
+    "zh": "（与凶手的）吻合"
+   }
+  ],
+  "structure": "①本句是并列句，前一分句交代凶手被拘留的时间，后一分句交代DNA比对的结果。\n②第一个分句 Colin Pitchfork was detained on 19 September 1987：was detained 是被动语态，施动者显然是警方，所以省略；on 19 September 1987 是时间状语，具体日期前用介词 on。\n③第二个分句 his DNA profile matched：his 指 Pitchfork；matched 是不及物动词，比较对象省略，指此前检测确定的凶手DNA图谱，视频补出“（与凶手的）”。\n④本句与第13句前后呼应：None matched 说的是大规模筛查无一吻合，his DNA profile matched 说的是真凶本人的图谱一经比对就吻合了。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "司法动词的被动语态",
+    "explain": "动作执行者显而易见或不重要时，被动句不带 by 短语。detain、arrest、charge、convict、jail 这类司法动词的执行者是警方或法院，新闻中多用被动语态并省略 by 短语，把当事人放在主语位置。本篇 was murdered、was slain、was detained、was jailed 都属于这种用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The suspect was arrested at the airport and charged with fraud.",
+      "zh": "嫌疑人在机场被捕，并被控犯有诈骗罪。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Colin Pitchfork",
+    "explain": "科林·皮奇福克，本案凶手，即第14句提到的那名当地面包师。"
+   },
+   {
+    "term": "detain",
+    "explain": "拘留，扣押，尤指警方把人留置问话，如 be detained for questioning（被拘留问话）；名词 detention。arrest 意为“逮捕”，二者常连用。本句视频译为“拘留”。"
+   },
+   {
+    "term": "DNA profile",
+    "explain": "DNA图谱，指一个人特有的DNA特征组合，可用来识别身份；DNA profiling 是DNA指纹技术的另一种叫法。profile 常见义是“简介，概况”，这里视频译为“图谱”。"
+   }
+  ],
+  "translation_tip": "视频译文“科林·皮奇福克在1987年9月19日被拘留，他的DNA图谱（与凶手的）吻合。”的处理：①时间状语 on 19 September 1987 移到谓语前，译为“在1987年9月19日被拘留”，保留被动的“被”字。②and 不译，两个分句用逗号隔开。③matched 前补出“（与凶手的）”，把英文省略的比较对象写出来，括号表明这是增补的内容。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "he",
+   "predicate": "pleaded；was jailed",
+   "object_or_complement": "guilty（pleaded 的主语补足语）",
+   "explain": "一个主语带两个并列谓语：pleaded guilty 为一般过去时主动语态，guilty 是形容词作主语补足语；was jailed 为一般过去时被动语态。句末名词短语是 he 的同位语。"
+  },
+  "components": [
+   {
+    "text": "In January 1988",
+    "role": "时间状语（介词短语）",
+    "zh": "1988年1月"
+   },
+   {
+    "text": "he",
+    "role": "主语（指皮奇福克）",
+    "zh": "他"
+   },
+   {
+    "text": "pleaded guilty",
+    "role": "谓语一 + 主语补足语（plead guilty 认罪）",
+    "zh": "承认有罪"
+   },
+   {
+    "text": "and was jailed",
+    "role": "并列连词 and + 谓语二（一般过去时，被动语态）",
+    "zh": "并被……监禁"
+   },
+   {
+    "text": "for life,",
+    "role": "时间状语（介词短语，表示“终身”）",
+    "zh": "终身"
+   },
+   {
+    "text": "the first person",
+    "role": "同位语（中心词），复指主语 he",
+    "zh": "（成为）第一个……的人"
+   },
+   {
+    "text": "convicted of murder",
+    "role": "后置定语（过去分词短语），修饰 the first person",
+    "zh": "被判谋杀罪"
+   },
+   {
+    "text": "on the basis of DNA evidence.",
+    "role": "依据状语（介词短语），修饰 convicted",
+    "zh": "依据DNA证据"
+   }
+  ],
+  "structure": "①句首 In January 1988 是时间状语。主干是 he pleaded guilty and was jailed for life：同一个主语 he 带两个并列谓语，前一个是主动语态，后一个是被动语态。\n②pleaded guilty 是固定搭配，意为“（在法庭上）认罪”，guilty 是形容词，作主语补足语；反义是 plead not guilty（不认罪）。\n③was jailed for life 是被动语态，for life 意为“终身”，jailed for life 即被判终身监禁。\n④the first person convicted of murder on the basis of DNA evidence 是 he 的同位语，视频说明：the first person… 是 he 的同位语；convicted of 意为被判……罪。其中 convicted of murder 是过去分词短语作后置定语，修饰 the first person；on the basis of DNA evidence 意为“依据DNA证据”，修饰 convicted。\n⑤这个同位语放在句末，离它所指的 he 较远，阅读时要越过两个谓语回头找到 he，不能把它当作 life 的同位语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "句末同位语",
+    "explain": "同位语一般紧跟在被说明的名词后面。当主语很短而同位语很长时，可以把同位语放到句末，用逗号隔开，对主语作总结性、评价性的补充，这样主句的主谓结构不会被打断。本句 the first person … 复指主语 he，而不是离它最近的 life。考研阅读中，句末逗号后出现的名词短语，要先判断它与句中哪个名词指同一对象。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In 1969 Neil Armstrong stepped onto the Moon, the first human to walk on its surface.",
+      "zh": "1969年，尼尔·阿姆斯特朗踏上月球，成为第一个在月面上行走的人。"
+     },
+     {
+      "en": "She won the award at the age of nineteen, the youngest winner in its history.",
+      "zh": "她19岁就获得了这个奖项，是该奖历史上最年轻的得主。"
+     }
+    ]
+   },
+   {
+    "title": "plead guilty：形容词作主语补足语",
+    "explain": "plead guilty / not guilty 中，guilty 是形容词，说明主语自身的状态，作主语补足语，类似的还有 die young、sit still、stand firm。plead 的过去式和过去分词在英式英语中用 pleaded，美式英语也用 pled。本句 pleaded guilty 视频译为“承认有罪”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Both defendants pleaded not guilty to all the charges.",
+      "zh": "两名被告对所有指控均不认罪。"
+     }
+    ]
+   },
+   {
+    "title": "be convicted of 与 be accused of、be charged with",
+    "explain": "convict sb of sth 意为“判定某人犯有某罪”，被动形式 be convicted of sth 意为“被判……罪”；过去分词短语 convicted of murder 作后置定语，相当于 who was convicted of murder。be accused of（被指控）和 be charged with（被控告）只表示受到指控，不等于有罪；be convicted of 表示法院已判定有罪。考研阅读中这几个说法常用来区分案件所处的阶段。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A man convicted of fraud last year has been released early.",
+      "zh": "一名去年被判诈骗罪的男子已获提前释放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be jailed for life",
+    "explain": "被判终身监禁，也说 be sentenced to life imprisonment；life sentence 指无期徒刑。jail 在英式英语中旧时拼作 gaol，读音相同。本句视频译为“被终身监禁”。"
+   },
+   {
+    "term": "on the basis of",
+    "explain": "依据，根据，正式短语，如 on the basis of the evidence（根据证据）、on the basis of merit（根据才能）。本句视频译为“依据”。"
+   },
+   {
+    "term": "convict",
+    "explain": "作动词意为“判定有罪”，重音在第二音节 /kənˈvɪkt/；作名词意为“已决犯，囚犯”，重音在第一音节。名词 conviction 意为“定罪”，也指“坚定的信念”。"
+   }
+  ],
+  "translation_tip": "视频译文“1988年1月，他承认有罪并被终身监禁，（成为）第一个依据DNA证据被判谋杀罪的人。”的处理：①两个并列谓语照原序译出，pleaded guilty 译为“承认有罪”，was jailed for life 译为“被终身监禁”，for life 前移作“监禁”的状语，用“并”连接。②句末同位语单独成一个分句，补出“（成为）”，说明它与主语的关系，括号表明是增补。③过去分词短语和依据状语都前移，译为“第一个依据DNA证据被判谋杀罪的人”，convicted of 拆成“被判……罪”，把 murder 嵌入中间。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "A tip-off",
+   "predicate": "had unmasked",
+   "object_or_complement": "him",
+   "explain": "主谓宾结构，谓语 had unmasked 是过去完成时，主动语态；not the screening 是插在主语和谓语之间的否定对比成分。"
+  },
+  "components": [
+   {
+    "text": "A tip-off,",
+    "role": "主语",
+    "zh": "是一条举报"
+   },
+   {
+    "text": "not the screening,",
+    "role": "插入的否定对比成分（与主语 A tip-off 对照）",
+    "zh": "而不是那次筛查"
+   },
+   {
+    "text": "had unmasked",
+    "role": "谓语（过去完成时）",
+    "zh": "揭穿了"
+   },
+   {
+    "text": "him.",
+    "role": "宾语（指皮奇福克）",
+    "zh": "他的真面目"
+   }
+  ],
+  "structure": "①主干 A tip-off had unmasked him，主谓宾结构。\n②not the screening 插在主语和谓语之间，前后用逗号隔开，与主语 A tip-off 形成对比。视频说明：A, not B, had done，即“是 A 而不是 B 做了……”。谓语与 A 保持一致，不受 not B 影响。\n③谓语 had unmasked 用过去完成时：上一句已经叙述到1988年1月的认罪和判刑，本句回头总结此前的破案经过。A tip-off 指第15句有人听到同事谈论冒名顶替并报告警方。\n④the screening 用定冠词，回指第12句那次大规模DNA筛查。本句纠正了一种可能的误解：抓到凶手靠的是举报，不是筛查本身。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "A, not B：插入式否定对比",
+    "explain": "A, not B 把否定的 B 插在 A 后面，相当于 A rather than B 或 not B but A，强调真正起作用的是 A，不是 B。作主语时谓语与 A 保持一致，如 The manager, not the employees, is to blame，因为 not B 只是插入成分。本句强调揭穿凶手的是举报，不是筛查。考研阅读中，这种结构常出现在作者纠正一般看法的地方，往往对应细节题或推理题的答案。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The manager, not the employees, is to blame for the delay.",
+      "zh": "该为延误负责的是经理，而不是员工。"
+     },
+     {
+      "en": "Economic pressure, not personal preference, drives many young people to leave rural areas.",
+      "zh": "是经济压力，而不是个人喜好，促使许多年轻人离开农村。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时用于回顾总结",
+    "explain": "叙事时间已经推进到某一点后，作者回过头总结此前发生的事，常用过去完成时。本句叙事时间在上一句的1988年1月，had unmasked 说明揭穿凶手发生在认罪和判刑之前，是对整个破案经过的回顾。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the trial began, the evidence against him had become overwhelming.",
+      "zh": "到审判开始时，对他不利的证据已经确凿无疑。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tip-off",
+    "explain": "名词，（向警方等提供的）密报，举报，来自短语动词 tip off（向……通风报信，暗中告知），如 act on a tip-off（根据举报采取行动）、an anonymous tip-off（匿名举报）。由短语动词转来的名词常用连字符，如 break-in、cover-up、check-up。本句视频译为“举报”。"
+   },
+   {
+    "term": "unmask",
+    "explain": "由 un-（去除）加 mask（面具）构成，字面义是“摘下面具”，引申为“揭穿真面目，揭露”，如 unmask a spy（揭露间谍）。本句视频译为“揭穿了他的真面目”，与字面义相呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“是一条举报，而不是那次筛查，揭穿了他的真面目。”的处理：①用“是……而不是……”把 A, not B 的对比译出，“是一条举报”放在句首，突出真正起作用的主语。②插入成分 not the screening 译为“而不是那次筛查”，the 译为“那次”。③him 译为“他的真面目”，与 unmask（摘下面具）的字面义呼应。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "The test's first beneficiary",
+   "predicate": "had been",
+   "object_or_complement": "a blameless juvenile（表语）",
+   "explain": "主系表结构，系动词 had been 是过去完成时；表语后接 who 引导的定语从句，从句谓语 had admitted 也是过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The test's first beneficiary",
+    "role": "主语（The test's 是名词所有格，first 是序数词，都作 beneficiary 的定语）",
+    "zh": "这项检测的第一个受益者"
+   },
+   {
+    "text": "had been",
+    "role": "系动词（过去完成时）",
+    "zh": "是"
+   },
+   {
+    "text": "a blameless juvenile",
+    "role": "表语",
+    "zh": "一名清白的少年"
+   },
+   {
+    "text": "who had falsely admitted the offence.",
+    "role": "限制性定语从句，修饰 a blameless juvenile（who 在从句中作主语）",
+    "zh": "他曾虚假地认下这项罪行"
+   }
+  ],
+  "structure": "①主干 The test's first beneficiary had been a blameless juvenile，主系表结构。The test's 是名词所有格，表示“这项检测的”；first beneficiary 指第一个受益者。\n②who had falsely admitted the offence 是定语从句，修饰 a blameless juvenile，who 在从句中作主语；falsely 是方式状语，修饰 admitted；the offence 指第3句中他供认的第二起命案。\n③主句和从句都用过去完成时：全文结尾回到开头，回顾比皮奇福克定罪更早的事，即那名少年被DNA检测证明清白（第10句），而他的虚假认罪又发生在这之前。\n④本句与第11句、第17句呼应：这项检测的第一个受益者是无辜的少年，第一个被它定罪的才是真凶，先洗冤、后定罪。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "who 引导的定语从句及其时态",
+    "explain": "who 指人，在定语从句中作主语或宾语（作宾语时，正式文体用 whom）。本句 who 指 a blameless juvenile，在从句中作主语。定语从句的时态按它自身的时间来定：主句 had been 回顾少年受益，从句 had admitted 说的是他更早作出的虚假认罪，两件事都在上文1988年之前，所以都用过去完成时。翻译时，修饰表语的定语从句常拆成后面的分句，用“他”回指先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The prize went to a young engineer who had designed a low-cost water filter.",
+      "zh": "这个奖项授予了一位年轻工程师，他曾设计出一种低成本的净水器。"
+     },
+     {
+      "en": "The only witness was a cyclist who had stopped to repair a puncture.",
+      "zh": "唯一的目击者是一名骑车人，他当时停下来修补被扎破的车胎。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格 's 用于无生命名词",
+    "explain": "名词所有格 's 多用于人和动物，也常用于时间、地点、机构以及与人类活动密切相关的事物，如 the company's profits、today's newspaper、the world's first（第12句）。本句 The test's first beneficiary 相当于 the first beneficiary of the test，用 's 使主语更紧凑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan's main weakness is its high cost.",
+      "zh": "这项计划的主要缺点是成本太高。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "beneficiary",
+    "explain": "受益者，受惠人；法律上指遗嘱、保险、信托的受益人，如 the main beneficiary of the will。本句视频译为“受益者”。"
+   },
+   {
+    "term": "juvenile",
+    "explain": "名词，少年，未成年人，多用于法律和官方语境，如 juvenile court（少年法庭）、juvenile crime（青少年犯罪）。本句指第3句那名17岁的青年，视频译为“少年”。"
+   },
+   {
+    "term": "offence",
+    "explain": "罪行，违法行为，英式拼写，美式为 offense，如 commit an offence（犯罪）、a criminal offence（刑事罪行）。本句 the offence 视频译为“这项罪行”。"
+   },
+   {
+    "term": "admit",
+    "explain": "承认，可接名词、动名词或 that 从句，如 admit the offence、admit stealing the car；也常说 admit to sth。falsely admit 指虚假认罪。"
+   }
+  ],
+  "translation_tip": "视频译文“这项检测的第一个受益者是一名清白的少年，他曾虚假地认下这项罪行。”的处理：①主句照原序译出，系动词 had been 译为“是”，过去完成时不另加时间词。②定语从句 who had falsely admitted the offence 不前置，拆成后面的分句，用“他”回指 juvenile，had 译为“曾”，表明动作发生在更早的时候。③admitted the offence 译为“认下这项罪行”，“认下”与 falsely（虚假地）配合，表现这是一份不实的供认；the 译为“这项”。"
+ }
+]
