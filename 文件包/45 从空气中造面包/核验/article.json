@@ -1,0 +1,1460 @@
+{
+ "no": "45",
+ "title_en": "The Bread Made from Air",
+ "title_zh": "从空气中造面包",
+ "source_id": "16",
+ "source_hashes": {
+  "JSON": "1de7662e4da814c231bebce19fafbe9454d32b64b4830e84c188e714457f50c8",
+  "GEN": "1de7662e4da814c231bebce19fafbe9454d32b64b4830e84c188e714457f50c8",
+  "MD": "8daaa64f90b22a0f6f31637d303be5e68fa390130252d7d22d18f5ddbeecf3e7",
+  "illustration": "cd8fa9a10617051bb1dfad9c52ce5a7b95ecde8f224d75a83848f5c2416859e4"
+ },
+ "summary": [
+  [
+   "突破",
+   "1909年，哈伯把空气中的氮与氢在高温高压下合成氨；博施将这套方法扩大到工厂，1913年实现大量生产。"
+  ],
+  [
+   "养育",
+   "氨制成化肥，帮助粮食增产；到2008年，▹靠这种方法生产的化肥已养活近半人类，人体蛋白质和DNA中约一半的氮也经此工艺而来。"
+  ],
+  [
+   "战争",
+   "合成氨也为德国弹药提供原料；哈伯还在1915年组织首次大规模毒气攻击，他的妻子反对这类战争工作。"
+  ],
+  [
+   "命运",
+   "妻子后来开枪自杀，哈伯次日仍赴前线；▹他虽获1918年诺奖，却因犹太血统遭纳粹排斥，1934年死于流亡中。"
+  ],
+  [
+   "余波",
+   "哈伯研究所研制的杀虫剂齐克隆，后来衍生出齐克隆B，▹被纳粹用于死亡营；他的一些亲属也死在这些营中。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "In July 1909, BASF envoys gathered round a squat machine on a bench in Fritz Haber's Karlsruhe laboratory.",
+   "zh": "1909年7月，BASF的代表们聚集在一台矮胖的机器周围，机器就放在弗里茨·哈伯位于卡尔斯鲁厄的实验室里的一张工作台上。",
+   "en_markup": "In July 1909, BASF **envoys** gathered round a **squat** machine on a **bench** in Fritz Haber's Karlsruhe laboratory.",
+   "zh_markup": "1909年7月，BASF的**代表**(envoys)们聚集在一台**矮胖的**(squat)机器周围，机器就放在弗里茨·哈伯位于卡尔斯鲁厄的实验室里的一张**工作台**(bench)上。",
+   "video_notes": [
+    "（on a bench…：介词短语作后置定语，修饰 machine；gather round：围拢在……周围）"
+   ],
+   "chunks": [
+    {
+     "en": "In July 1909, BASF envoys gathered round a squat machine",
+     "zh": "1909年7月，BASF的代表们聚集在一台矮胖的机器周围，"
+    },
+    {
+     "en": "on a bench in Fritz Haber's Karlsruhe laboratory.",
+     "zh": "机器就放在弗里茨·哈伯位于卡尔斯鲁厄的实验室里的一张工作台上。"
+    }
+   ],
+   "align": [
+    [
+     "In July 1909,",
+     "1909年7月，"
+    ],
+    [
+     "BASF envoys",
+     "BASF的代表们"
+    ],
+    [
+     "gathered round",
+     "聚集在"
+    ],
+    [
+     "a squat machine",
+     "一台矮胖的机器周围，"
+    ],
+    [
+     "on a bench in Fritz Haber's Karlsruhe laboratory.",
+     "机器就放在弗里茨·哈伯位于卡尔斯鲁厄的实验室里的一张工作台上。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "Behind its gleaming, bolted valves, nitrogen and hydrogen met at crushing pressure and furnace heat, and transparent beads of ammonia began to drip slowly.",
+   "zh": "在它闪闪发亮、用螺栓紧固的阀门后面，氮和氢在压碎般的压力和熔炉般的高温下相遇，透明的氨（凝成的）液体小滴开始缓缓地滴落。",
+   "en_markup": "Behind its **gleaming**, **bolted** **valves**, nitrogen and hydrogen met at **crushing** pressure and **furnace** heat, and **transparent** **beads** of **ammonia** began to **drip** **slowly**.",
+   "zh_markup": "在它**闪闪发亮**(gleaming)、**用螺栓紧固的**(bolted)**阀门**(valves)后面，氮和氢在**压碎般的**(crushing)压力和**熔炉**(furnace)般的高温下相遇，**透明的**(transparent)**氨**(ammonia)（凝成的）**液体小滴**(beads)开始**缓缓地**(slowly)**滴落**(drip)。",
+   "video_notes": [
+    "（at crushing pressure and furnace heat：介词短语作状语，说明相遇的条件；furnace heat：熔炉般的高温）",
+    "（beads of ammonia：氨凝成的液珠，of 引出液珠的成分）"
+   ],
+   "chunks": [
+    {
+     "en": "Behind its gleaming, bolted valves,",
+     "zh": "在它闪闪发亮、用螺栓紧固的阀门后面，"
+    },
+    {
+     "en": "nitrogen and hydrogen met at crushing pressure and furnace heat,",
+     "zh": "氮和氢在压碎般的压力和熔炉般的高温下相遇，"
+    },
+    {
+     "en": "and transparent beads of ammonia began to drip slowly.",
+     "zh": "透明的氨（凝成的）液体小滴开始缓缓地滴落。"
+    }
+   ],
+   "align": [
+    [
+     "Behind its",
+     "在它"
+    ],
+    [
+     "gleaming,",
+     "闪闪发亮、"
+    ],
+    [
+     "bolted",
+     "用螺栓紧固的"
+    ],
+    [
+     "valves,",
+     "阀门后面，"
+    ],
+    [
+     "nitrogen and hydrogen",
+     "氮和氢"
+    ],
+    [
+     "met at crushing pressure",
+     "在压碎般的压力"
+    ],
+    [
+     "and furnace heat,",
+     "和熔炉般的高温下相遇，"
+    ],
+    [
+     "and transparent",
+     "透明的"
+    ],
+    [
+     "beads of ammonia",
+     "氨（凝成的）液体小滴"
+    ],
+    [
+     "began to",
+     "开始"
+    ],
+    [
+     "drip slowly.",
+     "缓缓地滴落。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "Haber had pried nourishment from the air.",
+   "zh": "哈伯从空气中撬出了养分。",
+   "en_markup": "Haber had **pried** **nourishment** **from** the air.",
+   "zh_markup": "哈伯**从**(pried from)空气中**撬出了**(pried from)**养分**(nourishment)。",
+   "video_notes": [
+    "（pry A from B：从B中费力取出A）"
+   ],
+   "chunks": [
+    {
+     "en": "Haber had pried nourishment from the air.",
+     "zh": "哈伯从空气中撬出了养分。"
+    }
+   ],
+   "align": [
+    [
+     "Haber",
+     "哈伯"
+    ],
+    [
+     "had pried nourishment from the air.",
+     "从空气中撬出了养分。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "BASF's Carl Bosch scaled the method up, and from 1913 a gigantic plant at Oppau mass-produced ammonia.",
+   "zh": "BASF的卡尔·博施扩大了该方法的规模，自1913年起，奥保的一座庞大的工厂大批量生产氨。",
+   "en_markup": "BASF's Carl Bosch **scaled** the method **up**, and from 1913 a **gigantic** plant at Oppau **mass-produced** ammonia.",
+   "zh_markup": "BASF的卡尔·博施**扩大了**(scaled up)该方法的**规模**(scaled up)，自1913年起，奥保的一座**庞大的**(gigantic)工厂**大批量生产**(mass-produced)氨。",
+   "video_notes": [
+    "（scale up：扩大规模，宾语 the method 夹在中间）"
+   ],
+   "chunks": [
+    {
+     "en": "BASF's Carl Bosch scaled the method up,",
+     "zh": "BASF的卡尔·博施扩大了该方法的规模，"
+    },
+    {
+     "en": "and from 1913 a gigantic plant at Oppau mass-produced ammonia.",
+     "zh": "自1913年起，奥保的一座庞大的工厂大批量生产氨。"
+    }
+   ],
+   "align": [
+    [
+     "BASF's Carl Bosch",
+     "BASF的卡尔·博施"
+    ],
+    [
+     "scaled",
+     "扩大了"
+    ],
+    [
+     "the method up,",
+     "该方法的规模，"
+    ],
+    [
+     "and from 1913",
+     "自1913年起，"
+    ],
+    [
+     "a gigantic plant at Oppau",
+     "奥保的一座庞大的工厂"
+    ],
+    [
+     "mass-produced",
+     "大批量生产"
+    ],
+    [
+     "ammonia.",
+     "氨。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "Hailed for making bread from air, Haber won the coveted 1918 Nobel Prize.",
+   "zh": "因“从空气中造面包”而广受赞誉，哈伯赢得了人人梦寐以求的令人垂涎的1918年诺贝尔奖。",
+   "en_markup": "**Hailed for** making bread from air, Haber won the **coveted** 1918 Nobel Prize.",
+   "zh_markup": "**因**(Hailed for)“从空气中造面包”而**广受赞誉**(Hailed for)，哈伯赢得了**人人梦寐以求的**(coveted)\n**令人垂涎的**(coveted)1918年诺贝尔奖。",
+   "video_notes": [
+    "（Hailed for…：过去分词短语作状语，说明原因；hail sb for sth：因某事称赞某人）"
+   ],
+   "chunks": [
+    {
+     "en": "Hailed for making bread from air, Haber won the coveted 1918 Nobel Prize.",
+     "zh": "因“从空气中造面包”而广受赞誉，哈伯赢得了人人梦寐以求的令人垂涎的1918年诺贝尔奖。"
+    }
+   ],
+   "align": [
+    [
+     "Hailed for making bread from air,",
+     "因“从空气中造面包”而广受赞誉，"
+    ],
+    [
+     "Haber",
+     "哈伯"
+    ],
+    [
+     "won the",
+     "赢得了"
+    ],
+    [
+     "coveted",
+     "人人梦寐以求的令人垂涎的"
+    ],
+    [
+     "1918 Nobel Prize.",
+     "1918年诺贝尔奖。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "Ploughed into stony soils as fertiliser, ammonia wards off famine as no manure heap could, bringing abundance.",
+   "zh": "被翻耕进多石的土壤，作为化肥，氨抵御着饥荒，这是任何粪肥垒成的肥堆都做不到的，并带来丰饶。",
+   "en_markup": "**Ploughed into** **stony** **soils** as **fertiliser**, ammonia **wards off** **famine** as no **manure** **heap** could, bringing **abundance**.",
+   "zh_markup": "被**翻耕进**(Ploughed into)**多石的**(stony)**土壤**(soils)，作为**化肥**(fertiliser)，氨**抵御**(wards off)着**饥荒**(famine)，这是任何**粪肥**(manure)垒成的**肥堆**(heap)都做不到的，并带来**丰饶**(abundance)。",
+   "video_notes": [
+    "（Ploughed into…：过去分词短语作状语，逻辑主语是 ammonia；plough A into B：把A翻耕进B）",
+    "（as no manure heap could：比较结构，没有哪个粪肥堆能像它这样；ward off：抵御，防止）",
+    "（bringing…：现在分词短语作结果状语）"
+   ],
+   "chunks": [
+    {
+     "en": "Ploughed into stony soils as fertiliser,",
+     "zh": "被翻耕进多石的土壤，作为化肥，"
+    },
+    {
+     "en": "ammonia wards off famine as no manure heap could,",
+     "zh": "氨抵御着饥荒，这是任何粪肥垒成的肥堆都做不到的，"
+    },
+    {
+     "en": "bringing abundance.",
+     "zh": "并带来丰饶。"
+    }
+   ],
+   "align": [
+    [
+     "Ploughed into",
+     "被翻耕进"
+    ],
+    [
+     "stony",
+     "多石的"
+    ],
+    [
+     "soils",
+     "土壤，"
+    ],
+    [
+     "as fertiliser,",
+     "作为化肥，"
+    ],
+    [
+     "ammonia",
+     "氨"
+    ],
+    [
+     "wards off",
+     "抵御着"
+    ],
+    [
+     "famine",
+     "饥荒，"
+    ],
+    [
+     "as no",
+     "这是任何"
+    ],
+    [
+     "manure",
+     "粪肥垒成的"
+    ],
+    [
+     "heap",
+     "肥堆"
+    ],
+    [
+     "could,",
+     "都做不到的，"
+    ],
+    [
+     "bringing",
+     "并带来"
+    ],
+    [
+     "abundance.",
+     "丰饶。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "By 2008 it was feeding nearly half of mankind.",
+   "zh": "到2008年，它养活了将近一半的人类。",
+   "en_markup": "By 2008 it was feeding nearly half of **mankind**.",
+   "zh_markup": "到2008年，它养活了将近一半的**人类**(mankind)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "By 2008 it was feeding nearly half of mankind.",
+     "zh": "到2008年，它养活了将近一半的人类。"
+    }
+   ],
+   "align": [
+    [
+     "By 2008",
+     "到2008年，"
+    ],
+    [
+     "it",
+     "它"
+    ],
+    [
+     "was feeding",
+     "养活了"
+    ],
+    [
+     "nearly half",
+     "将近一半的"
+    ],
+    [
+     "of mankind.",
+     "人类。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "Haber's ambition had a sinister side.",
+   "zh": "哈伯的雄心也有险恶的/邪恶的一面。",
+   "en_markup": "Haber's **ambition** had a **sinister** side.",
+   "zh_markup": "哈伯的**雄心**(ambition)也有**险恶的/邪恶的**(sinister)一面。",
+   "video_notes": [
+    "（@sinister 邪恶的、凶险的或不祥的，@sinister|形容人或动机时，常偏向“阴险、心怀恶意”。）"
+   ],
+   "chunks": [
+    {
+     "en": "Haber's ambition had a sinister side.",
+     "zh": "哈伯的雄心也有险恶的/邪恶的一面。"
+    }
+   ],
+   "align": [
+    [
+     "Haber's ambition",
+     "哈伯的雄心"
+    ],
+    [
+     "had",
+     "也有"
+    ],
+    [
+     "a sinister side.",
+     "险恶的/邪恶的一面。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Ammonia stocked Germany's arsenal with nitrates for munitions despite a British blockade, and Captain Haber marshalled chemical warfare.",
+   "zh": "氨用（制造）弹药所需的硝酸盐充实了德国的军火库，尽管有英国封锁，而哈伯上尉则组织调度了化学战。",
+   "en_markup": "Ammonia **stocked** Germany's **arsenal** **with** nitrates for **munitions** despite a British **blockade**, and Captain Haber **marshalled** chemical warfare.",
+   "zh_markup": "氨**用**(stocked with)（制造）**弹药**(munitions)所需的硝酸盐**充实了**(stocked with)德国的**军火库**(arsenal)，尽管有英国**封锁**(blockade)，而哈伯上尉则**组织调度了**(marshalled)化学战。",
+   "video_notes": [
+    "（stock A with B：用B充实A；nitrates for munitions：制造弹药所需的硝酸盐）（氨能用来生产硝酸和硝酸盐，使德国的军火工业摆脱了对进口天然硝石的依赖。）",
+    "（@marshal 为某个目标组织并调动人、力量、资源或论据）"
+   ],
+   "chunks": [
+    {
+     "en": "Ammonia stocked Germany's arsenal with nitrates for munitions",
+     "zh": "氨用（制造）弹药所需的硝酸盐充实了德国的军火库，"
+    },
+    {
+     "en": "despite a British blockade,",
+     "zh": "尽管有英国封锁，"
+    },
+    {
+     "en": "and Captain Haber marshalled chemical warfare.",
+     "zh": "而哈伯上尉则组织调度了化学战。"
+    }
+   ],
+   "align": [
+    [
+     "Ammonia",
+     "氨"
+    ],
+    [
+     "stocked Germany's arsenal with nitrates for munitions",
+     "用（制造）弹药所需的硝酸盐充实了德国的军火库，"
+    ],
+    [
+     "despite",
+     "尽管有"
+    ],
+    [
+     "a British blockade,",
+     "英国封锁，"
+    ],
+    [
+     "and Captain Haber",
+     "而哈伯上尉则"
+    ],
+    [
+     "marshalled",
+     "组织调度了"
+    ],
+    [
+     "chemical warfare.",
+     "化学战。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "On 22 April 1915 at Ypres, troops vented about 168 tonnes of greenish, poisonous chlorine towards the Allied trenches, the first large-scale gas onslaught.",
+   "zh": "1915年4月22日，在伊普尔，（德国）部队朝协约国战壕方向排放了约168吨黄绿色、有毒的氯气——首次大规模毒气猛攻。",
+   "en_markup": "On 22 April 1915 at Ypres, troops **vented** about 168 tonnes of **greenish**, **poisonous** chlorine towards the Allied **trenches**, the first large-scale gas **onslaught**.",
+   "zh_markup": "1915年4月22日，在伊普尔，（德国）部队朝协约国**战壕**(trenches)方向**排放了**(vented)约168吨**黄绿色**(greenish)、**有毒的**(poisonous)氯气——首次大规模毒气**猛攻**(onslaught)。",
+   "video_notes": [
+    "（towards…：介词短语作状语，说明释放的方向）",
+    "（@onslaught 猛烈而持续的攻击，@onslaught|或大量事物接连不断地袭来。它既可以描述真实的军事进攻，@onslaught|也可以用于批评、问题、投诉等抽象事物）"
+   ],
+   "chunks": [
+    {
+     "en": "On 22 April 1915 at Ypres,",
+     "zh": "1915年4月22日，在伊普尔，"
+    },
+    {
+     "en": "troops vented about 168 tonnes of greenish, poisonous chlorine towards the Allied trenches,",
+     "zh": "（德国）部队朝协约国战壕方向排放了约168吨黄绿色、有毒的氯气——"
+    },
+    {
+     "en": "the first large-scale gas onslaught.",
+     "zh": "首次大规模毒气猛攻。"
+    }
+   ],
+   "align": [
+    [
+     "On 22 April 1915",
+     "1915年4月22日，"
+    ],
+    [
+     "at Ypres,",
+     "在伊普尔，"
+    ],
+    [
+     "troops",
+     "（德国）部队"
+    ],
+    [
+     "vented about 168 tonnes of greenish, poisonous chlorine towards the Allied trenches,",
+     "朝协约国战壕方向排放了约168吨黄绿色、有毒的氯气——"
+    ],
+    [
+     "the first",
+     "首次"
+    ],
+    [
+     "large-scale",
+     "大规模"
+    ],
+    [
+     "gas onslaught.",
+     "毒气猛攻。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "Haber's wife, Clara Immerwahr, Germany's first woman with a doctoral degree in chemistry, voiced objections to his work.",
+   "zh": "哈伯的妻子克拉拉·伊梅瓦尔，是德国第一位获得化学博士学位的女性，她曾对他的工作表达了反对。",
+   "en_markup": "Haber's wife, Clara Immerwahr, Germany's first woman with a **doctoral** degree in chemistry, voiced **objections to** his work.",
+   "zh_markup": "哈伯的妻子克拉拉·伊梅瓦尔，是德国第一位获得化学**博士**(doctoral)学位的女性，她曾**对**(objections to)他的工作表达了**反对**(objections to)。",
+   "video_notes": [
+    "（Germany's first woman…：同位语，说明克拉拉的身份）",
+    "（objection to sth：对某事的反对）"
+   ],
+   "chunks": [
+    {
+     "en": "Haber's wife, Clara Immerwahr,",
+     "zh": "哈伯的妻子克拉拉·伊梅瓦尔，"
+    },
+    {
+     "en": "Germany's first woman with a doctoral degree in chemistry,",
+     "zh": "是德国第一位获得化学博士学位的女性，"
+    },
+    {
+     "en": "voiced objections to his work.",
+     "zh": "她曾对他的工作表达了反对。"
+    }
+   ],
+   "align": [
+    [
+     "Haber's wife,",
+     "哈伯的妻子"
+    ],
+    [
+     "Clara Immerwahr,",
+     "克拉拉·伊梅瓦尔，"
+    ],
+    [
+     "Germany's first",
+     "是德国第一位"
+    ],
+    [
+     "woman with a doctoral degree in chemistry,",
+     "获得化学博士学位的女性，"
+    ],
+    [
+     "voiced objections to his work.",
+     "她曾对他的工作表达了反对。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "On 2 May 1915, after festivities in his honour, she shot herself in the garden with his service pistol.",
+   "zh": "1915年5月2日，在为他致敬的庆祝活动之后，她在花园里用他的军用手枪自尽了。",
+   "en_markup": "On 2 May 1915, after **festivities** in his honour, she shot herself in the garden with his service **pistol**.",
+   "zh_markup": "1915年5月2日，在为他致敬的**庆祝活动**(festivities)之后，她在花园里用他的军用**手枪**(pistol)自尽了。",
+   "video_notes": [
+    "（in his honour：为了向他表示敬意，这里指为他庆功）"
+   ],
+   "chunks": [
+    {
+     "en": "On 2 May 1915, after festivities in his honour,",
+     "zh": "1915年5月2日，在为他致敬的庆祝活动之后，"
+    },
+    {
+     "en": "she shot herself in the garden with his service pistol.",
+     "zh": "她在花园里用他的军用手枪自尽了。"
+    }
+   ],
+   "align": [
+    [
+     "On 2 May 1915,",
+     "1915年5月2日，"
+    ],
+    [
+     "after",
+     "在"
+    ],
+    [
+     "festivities in his honour,",
+     "为他致敬的庆祝活动之后，"
+    ],
+    [
+     "she",
+     "她"
+    ],
+    [
+     "shot herself in the garden with his service pistol.",
+     "在花园里用他的军用手枪自尽了。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "The next day the widower left for the Eastern Front.",
+   "zh": "第二天，这位丧妻之人动身前往东线。",
+   "en_markup": "The next day the **widower** left for the Eastern Front.",
+   "zh_markup": "第二天，这位**丧妻之人**(widower)动身前往东线。",
+   "video_notes": [
+    "（leave for：动身前往）"
+   ],
+   "chunks": [
+    {
+     "en": "The next day the widower left for the Eastern Front.",
+     "zh": "第二天，这位丧妻之人动身前往东线。"
+    }
+   ],
+   "align": [
+    [
+     "The next day",
+     "第二天，"
+    ],
+    [
+     "the widower",
+     "这位丧妻之人"
+    ],
+    [
+     "left for",
+     "动身前往"
+    ],
+    [
+     "the Eastern Front.",
+     "东线。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 5,
+   "en": "Prestige offered no sanctuary.",
+   "zh": "声望没有提供（给他）庇护。",
+   "en_markup": "**Prestige** offered no **sanctuary**.",
+   "zh_markup": "**声望**(Prestige)没有提供（给他）**庇护**(sanctuary)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Prestige offered no sanctuary.",
+     "zh": "声望没有提供（给他）庇护。"
+    }
+   ],
+   "align": [
+    [
+     "Prestige",
+     "声望"
+    ],
+    [
+     "offered no",
+     "没有提供（给他）"
+    ],
+    [
+     "sanctuary.",
+     "庇护。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "Of Jewish origin, Haber left Germany an outcast after Hitler's regime seized power, dying in Basel in 1934.",
+   "zh": "身为犹太裔，哈伯在希特勒政权夺取了权力之后，作为一个被驱逐的人离开了德国，并于1934年死于巴塞尔。",
+   "en_markup": "Of **Jewish** origin, Haber left Germany an **outcast** {{换行}}after Hitler's **regime** **seized** power, dying in Basel in 1934.",
+   "zh_markup": "身为**犹太**(Jewish)裔，哈伯在希特勒**政权**(regime)**夺取了**(seized)权力之后，\n作为一个**被驱逐的人**(outcast)离开了德国，并于1934年死于巴塞尔。",
+   "video_notes": [
+    "（an outcast：补充说明他离开时的身份；after…：时间状语从句）",
+    "（dying…：现在分词短语作结果状语，补充说明后来的事）"
+   ],
+   "chunks": [
+    {
+     "en": "Of Jewish origin, Haber",
+     "zh": "身为犹太裔，哈伯"
+    },
+    {
+     "en": "left Germany an outcast after Hitler's regime seized power,",
+     "zh": "在希特勒政权夺取了权力之后，作为一个被驱逐的人离开了德国，"
+    },
+    {
+     "en": "dying in Basel in 1934.",
+     "zh": "并于1934年死于巴塞尔。"
+    }
+   ],
+   "align": [
+    [
+     "Of",
+     "身为"
+    ],
+    [
+     "Jewish",
+     "犹太"
+    ],
+    [
+     "origin,",
+     "裔，"
+    ],
+    [
+     "Haber",
+     "哈伯"
+    ],
+    [
+     "left Germany an outcast after Hitler's regime seized power,",
+     "在希特勒政权夺取了权力之后，作为一个被驱逐的人离开了德国，"
+    ],
+    [
+     "dying in Basel in 1934.",
+     "并于1934年死于巴塞尔。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "His institute's pesticide research had produced Zyklon.",
+   "zh": "他研究所的杀虫剂研究曾催生了齐克隆。",
+   "en_markup": "His institute's **pesticide** research had produced Zyklon.",
+   "zh_markup": "他研究所的**杀虫剂**(pesticide)研究曾催生了齐克隆。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "His institute's pesticide research had produced Zyklon.",
+     "zh": "他研究所的杀虫剂研究曾催生了齐克隆。"
+    }
+   ],
+   "align": [
+    [
+     "His institute's",
+     "他研究所的"
+    ],
+    [
+     "pesticide research",
+     "杀虫剂研究"
+    ],
+    [
+     "had produced",
+     "曾催生了"
+    ],
+    [
+     "Zyklon.",
+     "齐克隆。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "A later variant, Zyklon B, was used in Nazi death camps, where relatives of his died.",
+   "zh": "后来的变体齐克隆B被用于纳粹死亡营，他的一些亲属就死在那里。",
+   "en_markup": "A later **variant**, Zyklon B, was used in Nazi death camps, where **relatives** of his died.",
+   "zh_markup": "后来的**变体**(variant)齐克隆B被用于纳粹死亡营，他的一些**亲属**(relatives)就死在那里。",
+   "video_notes": [
+    "（where：非限制性定语从句，指在这些死亡营里；relatives of his：他的亲属）"
+   ],
+   "chunks": [
+    {
+     "en": "A later variant, Zyklon B, was used in Nazi death camps,",
+     "zh": "后来的变体齐克隆B被用于纳粹死亡营，"
+    },
+    {
+     "en": "where relatives of his died.",
+     "zh": "他的一些亲属就死在那里。"
+    }
+   ],
+   "align": [
+    [
+     "A later variant,",
+     "后来的变体"
+    ],
+    [
+     "Zyklon B,",
+     "齐克隆B"
+    ],
+    [
+     "was used",
+     "被用于"
+    ],
+    [
+     "in Nazi death camps,",
+     "纳粹死亡营，"
+    ],
+    [
+     "where relatives of his died.",
+     "他的一些亲属就死在那里。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 6,
+   "en": "About half the nitrogen in our proteins and DNA has passed through a Haber-Bosch factory, so each of us carries a little of Haber's chemistry.",
+   "zh": "我们蛋白质和DNA中约有一半的氮，都经过了哈伯-博施工厂；因此，我们每个人体内都携带着一点哈伯的化学。",
+   "en_markup": "About half the **nitrogen** in our **proteins** and DNA has **passed through** a Haber-Bosch factory, so each of us carries a little of Haber's chemistry.",
+   "zh_markup": "我们**蛋白质**(proteins)和DNA中约有一半的**氮**(nitrogen)，都**经过了**(passed through)哈伯-博施工厂；因此，我们每个人体内都携带着一点哈伯的化学。",
+   "video_notes": [
+    "（in our proteins and DNA：介词短语作后置定语，修饰 nitrogen）",
+    "（a little of Haber's chemistry：一点哈伯的化学，指经哈伯-博施工艺合成的氮）"
+   ],
+   "chunks": [
+    {
+     "en": "About half the nitrogen in our proteins and DNA has passed through a Haber-Bosch factory,",
+     "zh": "我们蛋白质和DNA中约有一半的氮，都经过了哈伯-博施工厂；"
+    },
+    {
+     "en": "so each of us carries a little of Haber's chemistry.",
+     "zh": "因此，我们每个人体内都携带着一点哈伯的化学。"
+    }
+   ],
+   "align": [
+    [
+     "About half the nitrogen in our proteins and DNA",
+     "我们蛋白质和DNA中约有一半的氮，"
+    ],
+    [
+     "has passed through",
+     "都经过了"
+    ],
+    [
+     "a Haber-Bosch factory,",
+     "哈伯-博施工厂；"
+    ],
+    [
+     "so",
+     "因此，"
+    ],
+    [
+     "each of us",
+     "我们每个人"
+    ],
+    [
+     "carries",
+     "体内都携带着"
+    ],
+    [
+     "a little",
+     "一点"
+    ],
+    [
+     "of Haber's chemistry.",
+     "哈伯的化学。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "envoys",
+   "zh_video": "代表",
+   "headword": "envoy",
+   "pos": "n.",
+   "table_definition": "本文：代表；n. (envoy) 使者，特使（a special envoy）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "squat",
+   "zh_video": "矮胖的",
+   "headword": "squat",
+   "pos": "adj.",
+   "table_definition": "本文：矮胖的；adj. 矮胖的，矮墩墩的（a squat building）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "bench",
+   "zh_video": "工作台",
+   "headword": "bench",
+   "pos": "n.",
+   "table_definition": "本文：工作台；n. 工作台；长凳（a work bench）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "gleaming",
+   "zh_video": "闪闪发亮",
+   "headword": "gleaming",
+   "pos": "adj.",
+   "table_definition": "本文：闪闪发亮；adj. 闪闪发亮的（gleaming white teeth）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "bolted",
+   "zh_video": "用螺栓紧固的",
+   "headword": "bolted",
+   "pos": "adj.",
+   "table_definition": "本文：用螺栓紧固的；adj./v. (bolt) 用螺栓固定的（bolted to the floor）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "valves",
+   "zh_video": "阀门",
+   "headword": "valve",
+   "pos": "n.",
+   "table_definition": "本文：阀门；n. (valve) 阀门（a safety valve）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "crushing",
+   "zh_video": "压碎般的",
+   "headword": "crushing",
+   "pos": "adj.",
+   "table_definition": "本文：压碎般的；adj. 压倒性的，巨大的（a crushing defeat/weight）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "furnace",
+   "zh_video": "熔炉",
+   "headword": "furnace",
+   "pos": "n.",
+   "table_definition": "本文：熔炉；n. 熔炉，炉子（a blast furnace）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 2,
+   "en": "transparent",
+   "zh_video": "透明的",
+   "headword": "transparent",
+   "pos": "adj.",
+   "table_definition": "本文：透明的；adj. 透明的（transparent glass/plastic）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 2,
+   "en": "beads",
+   "zh_video": "液体小滴",
+   "headword": "bead",
+   "pos": "n.",
+   "table_definition": "本文：液体小滴；n. (bead) 珠子；液滴（beads of sweat）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 2,
+   "en": "ammonia",
+   "zh_video": "氨",
+   "headword": "ammonia",
+   "pos": "n.",
+   "table_definition": "本文：氨；n. 氨（liquid ammonia）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 2,
+   "en": "drip",
+   "zh_video": "滴落",
+   "headword": "drip",
+   "pos": "v.",
+   "table_definition": "本文：滴落；v. 滴落（water dripping from the tap）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 2,
+   "en": "slowly",
+   "zh_video": "缓缓地",
+   "headword": "slowly",
+   "pos": "adv.",
+   "table_definition": "本文：缓缓地；adv. 缓慢地（walk slowly）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": null,
+   "en": "pried from",
+   "zh_video": "从……撬出了",
+   "headword": "pried from",
+   "pos": "v.",
+   "table_definition": "本文：从……撬出了；v. (pry) 撬开；费力获取（pry a lid off；pry information out of sb）"
+  },
+  {
+   "id": 15,
+   "para": 1,
+   "sentence": 3,
+   "en": "nourishment",
+   "zh_video": "养分",
+   "headword": "nourishment",
+   "pos": "n.",
+   "table_definition": "本文：养分；n. 营养，养料（provide nourishment）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": null,
+   "en": "scaled up",
+   "zh_video": "扩大了……规模",
+   "headword": "scaled up",
+   "pos": "表达",
+   "table_definition": "本文：扩大了……规模；短语. (scale up) 扩大……的规模（scale up production）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 4,
+   "en": "gigantic",
+   "zh_video": "庞大的",
+   "headword": "gigantic",
+   "pos": "adj.",
+   "table_definition": "本文：庞大的；adj. 巨大的，庞大的（a gigantic building/task）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 4,
+   "en": "mass-produced",
+   "zh_video": "大批量生产",
+   "headword": "mass-produce",
+   "pos": "v.",
+   "table_definition": "本文：大批量生产；v. (mass-produce) 大批量生产（mass-produced cars）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "Hailed for",
+   "zh_video": "因……广受赞誉",
+   "headword": "hail for",
+   "pos": "动词短语",
+   "table_definition": "本文：因……广受赞誉；短语. (be hailed for) 因……受到称赞（be hailed for her courage）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 5,
+   "en": "coveted",
+   "zh_video": "人人梦寐以求的……令人垂涎的",
+   "headword": "coveted",
+   "pos": "adj.",
+   "table_definition": "本文：人人梦寐以求的……令人垂涎的；adj. 令人垂涎的（a coveted prize）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "Ploughed into",
+   "zh_video": "翻耕进",
+   "headword": "plough into",
+   "pos": "v.",
+   "table_definition": "本文：翻耕进；v. (plough) 犁，耕；把……翻进土里（plough a field；plough manure into the soil）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "stony",
+   "zh_video": "多石的",
+   "headword": "stony",
+   "pos": "adj.",
+   "table_definition": "本文：多石的；adj. 多石的；冷漠的（stony ground；a stony silence）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "soils",
+   "zh_video": "土壤",
+   "headword": "soil",
+   "pos": "n.",
+   "table_definition": "本文：土壤；n. (soil) 土壤（fertile soils）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 6,
+   "en": "fertiliser",
+   "zh_video": "化肥",
+   "headword": "fertiliser",
+   "pos": "n.",
+   "table_definition": "本文：化肥；n. 肥料（chemical fertiliser）"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 6,
+   "en": "wards off",
+   "zh_video": "抵御",
+   "headword": "ward off",
+   "pos": "v.",
+   "table_definition": "本文：抵御；v. (ward off) 防止，抵御（ward off disease）"
+  },
+  {
+   "id": 26,
+   "para": 2,
+   "sentence": 6,
+   "en": "famine",
+   "zh_video": "饥荒",
+   "headword": "famine",
+   "pos": "n.",
+   "table_definition": "本文：饥荒；n. 饥荒（a severe famine）"
+  },
+  {
+   "id": 27,
+   "para": 2,
+   "sentence": 6,
+   "en": "manure",
+   "zh_video": "粪肥",
+   "headword": "manure",
+   "pos": "n.",
+   "table_definition": "本文：粪肥；n. 粪肥（spread manure）"
+  },
+  {
+   "id": 28,
+   "para": 2,
+   "sentence": 6,
+   "en": "heap",
+   "zh_video": "肥堆",
+   "headword": "heap",
+   "pos": "n.",
+   "table_definition": "本文：肥堆；n. 堆（a heap of rubbish；a compost heap）"
+  },
+  {
+   "id": 29,
+   "para": 2,
+   "sentence": 6,
+   "en": "abundance",
+   "zh_video": "丰饶",
+   "headword": "abundance",
+   "pos": "n.",
+   "table_definition": "本文：丰饶；n. 丰富，充裕（an abundance of food；in abundance）"
+  },
+  {
+   "id": 30,
+   "para": 2,
+   "sentence": 7,
+   "en": "mankind",
+   "zh_video": "人类",
+   "headword": "mankind",
+   "pos": "n.",
+   "table_definition": "本文：人类；n. 人类（the history of mankind）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 8,
+   "en": "ambition",
+   "zh_video": "雄心",
+   "headword": "ambition",
+   "pos": "n.",
+   "table_definition": "本文：雄心；n. 雄心，抱负（achieve one's ambition）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 8,
+   "en": "sinister",
+   "zh_video": "险恶的/邪恶的",
+   "headword": "sinister",
+   "pos": "adj.",
+   "table_definition": "本文：险恶的/邪恶的；adj. 阴险的，邪恶的（a sinister motive）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": null,
+   "en": "stocked with",
+   "zh_video": "用……充实了",
+   "headword": "stocked with",
+   "pos": "v.",
+   "table_definition": "本文：用……充实了；v. (stock) 储备，充实（a well-stocked shop）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 9,
+   "en": "arsenal",
+   "zh_video": "军火库",
+   "headword": "arsenal",
+   "pos": "n.",
+   "table_definition": "本文：军火库；n. 军火库；武器（a nuclear arsenal）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 9,
+   "en": "munitions",
+   "zh_video": "弹药",
+   "headword": "munitions",
+   "pos": "n.",
+   "table_definition": "本文：弹药；n. 军火，弹药（a munitions factory）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 9,
+   "en": "blockade",
+   "zh_video": "封锁",
+   "headword": "blockade",
+   "pos": "n.",
+   "table_definition": "本文：封锁；n. 封锁（impose/lift a blockade）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 9,
+   "en": "marshalled",
+   "zh_video": "组织调度了",
+   "headword": "marshal",
+   "pos": "v.",
+   "table_definition": "本文：组织调度了；v. (marshal) 统筹，调集（marshal resources/arguments）"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 10,
+   "en": "vented",
+   "zh_video": "排放了",
+   "headword": "vent",
+   "pos": "v.",
+   "table_definition": "本文：排放了；v. (vent) 排放；发泄（vent gas；vent one's anger）"
+  },
+  {
+   "id": 39,
+   "para": 3,
+   "sentence": 10,
+   "en": "greenish",
+   "zh_video": "黄绿色",
+   "headword": "greenish",
+   "pos": "adj.",
+   "table_definition": "本文：黄绿色；adj. 带绿色的（a greenish tint）"
+  },
+  {
+   "id": 40,
+   "para": 3,
+   "sentence": 10,
+   "en": "poisonous",
+   "zh_video": "有毒的",
+   "headword": "poisonous",
+   "pos": "adj.",
+   "table_definition": "本文：有毒的；adj. 有毒的（poisonous gas/snakes）"
+  },
+  {
+   "id": 41,
+   "para": 3,
+   "sentence": 10,
+   "en": "trenches",
+   "zh_video": "战壕",
+   "headword": "trench",
+   "pos": "n.",
+   "table_definition": "本文：战壕；n. (trench) 战壕；沟渠（dig trenches）"
+  },
+  {
+   "id": 42,
+   "para": 3,
+   "sentence": 10,
+   "en": "onslaught",
+   "zh_video": "猛攻",
+   "headword": "onslaught",
+   "pos": "n.",
+   "table_definition": "本文：猛攻；n. 猛攻（launch an onslaught）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 11,
+   "en": "doctoral",
+   "zh_video": "博士",
+   "headword": "doctoral",
+   "pos": "adj.",
+   "table_definition": "本文：博士；adj. 博士的（a doctoral thesis）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 11,
+   "en": "objections to",
+   "zh_video": "对……反对",
+   "headword": "objection to",
+   "pos": "n.",
+   "table_definition": "本文：对……反对；n. (objection) 反对，异议（raise objections）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 12,
+   "en": "festivities",
+   "zh_video": "庆祝活动",
+   "headword": "festivity",
+   "pos": "n.",
+   "table_definition": "本文：庆祝活动；n. (festivity) 庆祝活动（Christmas festivities）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 12,
+   "en": "pistol",
+   "zh_video": "手枪",
+   "headword": "pistol",
+   "pos": "n.",
+   "table_definition": "本文：手枪；n. 手枪（fire a pistol）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 13,
+   "en": "widower",
+   "zh_video": "丧妻之人",
+   "headword": "widower",
+   "pos": "n.",
+   "table_definition": "本文：丧妻之人；n. 鳏夫，丧妻的男人（a lonely widower）"
+  },
+  {
+   "id": 48,
+   "para": 5,
+   "sentence": 14,
+   "en": "prestige",
+   "zh_video": "声望",
+   "headword": "prestige",
+   "pos": "n.",
+   "table_definition": "本文：声望；n. 声望，威望（national prestige）"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 14,
+   "en": "sanctuary",
+   "zh_video": "庇护",
+   "headword": "sanctuary",
+   "pos": "n.",
+   "table_definition": "本文：庇护；n. 庇护，避难所（seek sanctuary）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "Jewish",
+   "zh_video": "犹太",
+   "headword": "Jewish",
+   "pos": "adj.",
+   "table_definition": "本文：犹太；adj. 犹太人的，犹太民族的，犹太教的（of Jewish origin 犹太裔的）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 15,
+   "en": "outcast",
+   "zh_video": "被驱逐的人",
+   "headword": "outcast",
+   "pos": "n.",
+   "table_definition": "本文：被驱逐的人；n. 被排斥者，被放逐者（a social outcast）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 15,
+   "en": "regime",
+   "zh_video": "政权",
+   "headword": "regime",
+   "pos": "n.",
+   "table_definition": "本文：政权；n. 政权，政体（a military regime）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 15,
+   "en": "seized",
+   "zh_video": "夺取了",
+   "headword": "seize",
+   "pos": "v.",
+   "table_definition": "本文：夺取了；v. (seize) 夺取，抓住（seize power/control）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 16,
+   "en": "pesticide",
+   "zh_video": "杀虫剂",
+   "headword": "pesticide",
+   "pos": "n.",
+   "table_definition": "本文：杀虫剂；n. 杀虫剂，农药（spray pesticide on crops）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 17,
+   "en": "variant",
+   "zh_video": "变体",
+   "headword": "variant",
+   "pos": "n.",
+   "table_definition": "本文：变体；n. 变体，变种（a new variant of the virus）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 17,
+   "en": "relatives",
+   "zh_video": "亲属",
+   "headword": "relatives",
+   "pos": "n.",
+   "table_definition": "本文：亲属；n. (relative) 亲属，亲戚（复数 relatives）；relative 也可作形容词：相对的，相关的"
+  },
+  {
+   "id": 57,
+   "para": 6,
+   "sentence": 18,
+   "en": "nitrogen",
+   "zh_video": "氮",
+   "headword": "nitrogen",
+   "pos": "n.",
+   "table_definition": "本文：氮；n. 氮，氮气（liquid nitrogen）"
+  },
+  {
+   "id": 58,
+   "para": 6,
+   "sentence": 18,
+   "en": "proteins",
+   "zh_video": "蛋白质",
+   "headword": "protein",
+   "pos": "n.",
+   "table_definition": "本文：蛋白质；n. (protein) 蛋白质（a diet rich in protein）"
+  },
+  {
+   "id": 59,
+   "para": 6,
+   "sentence": 18,
+   "en": "passed through",
+   "zh_video": "经过了",
+   "headword": "pass through",
+   "pos": "动词短语",
+   "table_definition": "本文：经过了；短语. (pass through) 经过，穿过（pass through the town）"
+  }
+ ]
+}
