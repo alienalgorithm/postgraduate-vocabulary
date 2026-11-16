@@ -1,0 +1,1610 @@
+{
+ "no": "68",
+ "title_en": "Apollo 13: The Successful Failure",
+ "title_zh": "阿波罗13号：成功的失败",
+ "source_id": "25",
+ "source_hashes": {
+  "JSON": "4754878dc91a933f4150607b6d8312900e998ccffeaa1d370dbf383da8c4d743",
+  "GEN": "4754878dc91a933f4150607b6d8312900e998ccffeaa1d370dbf383da8c4d743",
+  "MD": "b6b7d55fe66e6e32116431ea955778fab779b8bda622df0ba1036c2f40a3969f",
+  "illustration": "979d6c852060b7ea97338b662d4a8252a0e4f71b328f83365039f271df9ccd55"
+ },
+ "summary": [
+  [
+   "事故",
+   "1970年，阿波罗13号服务舱的氧气罐爆炸，登月取消。三名宇航员躲进原本只供两人使用约两天的登月舱。"
+  ],
+  [
+   "险情",
+   "他们缺水缺电、忍受严寒，舱内二氧化碳还不断积聚；能清除它的方形滤芯，却接不上登月舱的圆形接口。"
+  ],
+  [
+   "救急",
+   "地面工程师用船上已有的塑料袋、纸板和胶带设计转接器，再指导机组装好，解决滤芯不匹配的问题。"
+  ],
+  [
+   "根源",
+   "氧气罐加热器的规格已改为兼容发射场的65伏电源，罐内温控开关却仍按飞船的28伏电源设计。▹发射前长时间加热时，开关可能失灵，烧伤电线绝缘层，后来在飞行中起火。"
+  ],
+  [
+   "返航",
+   "机组用登月舱发动机调整路线，借月球引力绕回地球，▹爆炸四天后安全溅落。没登成月，却救回三人，故称“成功的失败”。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "On April 11th 1970 NASA launched Apollo 13, meant for the third crewed lunar landing.",
+   "zh": "1970年4月11日，NASA发射了阿波罗13号，原本是要完成第三次载人的登月。",
+   "en_markup": "On April 11th 1970 NASA **launched** Apollo 13, meant for the third **crewed** **lunar landing**.",
+   "zh_markup": "1970年4月11日，NASA**发射了**(launched)阿波罗13号，原本是要完成第三次**载人的**(crewed)**登月**(lunar landing)。",
+   "video_notes": [
+    "（meant for…：过去分词短语，补充说明 Apollo 13；lunar：月亮的，月球的；阴历的，如 the lunar calendar 农历、the Lunar New Year 农历新年）"
+   ],
+   "chunks": [
+    {
+     "en": "On April 11th 1970 NASA launched Apollo 13, meant for the third crewed lunar landing.",
+     "zh": "1970年4月11日，NASA发射了阿波罗13号，原本是要完成第三次载人的登月。"
+    }
+   ],
+   "align": [
+    [
+     "On April 11th 1970",
+     "1970年4月11日，"
+    ],
+    [
+     "NASA",
+     "NASA"
+    ],
+    [
+     "launched",
+     "发射了"
+    ],
+    [
+     "Apollo 13,",
+     "阿波罗13号，"
+    ],
+    [
+     "meant for",
+     "原本是要完成"
+    ],
+    [
+     "the third",
+     "第三次"
+    ],
+    [
+     "crewed",
+     "载人的"
+    ],
+    [
+     "lunar landing.",
+     "登月。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "On April 13th, some 200,000 miles out, an oxygen tank exploded in the service module, home to most of the ship's oxygen and power.",
+   "zh": "4月13日，大约离地球200,000英里远的地方，一个氧气罐爆炸了，发生在服务舱段里面，存储着大部分飞船的氧气和电力。",
+   "en_markup": "On April 13th, some 200,000 miles out, an **oxygen tank** **exploded** in the **service module**, home to most of the ship's oxygen and power.",
+   "zh_markup": "4月13日，大约离地球200,000英里远的地方，一个**氧气罐**(oxygen tank)**爆炸了**(exploded)，发生在**服务舱段**(service module)里面，存储着大部分飞船的氧气和电力。",
+   "video_notes": [
+    "（some：修饰数字，表示“大约”；out：（离地球）在远处）",
+    "（home to…：同位语，说明 the service module）"
+   ],
+   "chunks": [
+    {
+     "en": "On April 13th, some 200,000 miles out, an oxygen tank exploded",
+     "zh": "4月13日，大约离地球200,000英里远的地方，一个氧气罐爆炸了，"
+    },
+    {
+     "en": "in the service module, home to most of the ship's oxygen and power.",
+     "zh": "发生在服务舱段里面，存储着大部分飞船的氧气和电力。"
+    }
+   ],
+   "align": [
+    [
+     "On April 13th,",
+     "4月13日，"
+    ],
+    [
+     "some 200,000 miles",
+     "大约离地球200,000英里"
+    ],
+    [
+     "out,",
+     "远的地方，"
+    ],
+    [
+     "an oxygen tank",
+     "一个氧气罐"
+    ],
+    [
+     "exploded",
+     "爆炸了，"
+    ],
+    [
+     "in the service module,",
+     "发生在服务舱段里面，"
+    ],
+    [
+     "home to",
+     "存储着"
+    ],
+    [
+     "most of",
+     "大部分"
+    ],
+    [
+     "the ship's",
+     "飞船的"
+    ],
+    [
+     "oxygen and power.",
+     "氧气和电力。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "The blast crippled the spacecraft; the landing was aborted.",
+   "zh": "这股爆炸气浪严重毁坏了宇宙飞船；登月被终止了。",
+   "en_markup": "The **blast** **crippled** the **spacecraft**; the landing was **aborted**.",
+   "zh_markup": "这股**爆炸气浪**(blast)**严重毁坏了**(crippled)**宇宙飞船**(spacecraft)；登月被**终止了**(aborted)。",
+   "video_notes": [
+    "（blast 侧重于描绘爆炸瞬间产生的物理冲击、震耳巨响以及摧毁效应；而 explosion 则更为中立，通常单纯指代“爆炸”这一客观事实。）"
+   ],
+   "chunks": [
+    {
+     "en": "The blast crippled the spacecraft; the landing was aborted.",
+     "zh": "这股爆炸气浪严重毁坏了宇宙飞船；登月被终止了。"
+    }
+   ],
+   "align": [
+    [
+     "The blast",
+     "这股爆炸气浪"
+    ],
+    [
+     "crippled",
+     "严重毁坏了"
+    ],
+    [
+     "the spacecraft;",
+     "宇宙飞船；"
+    ],
+    [
+     "the landing",
+     "登月"
+    ],
+    [
+     "was",
+     "被"
+    ],
+    [
+     "aborted.",
+     "终止了。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "The astronauts took refuge in the lunar module, Aquarius, built to support two men for about two days.",
+   "zh": "宇航员们躲进登月舱水瓶座号避难，它被建造出来原本是为了支持两个人生存大约两天左右。",
+   "en_markup": "The **astronauts** **took** **refuge** **in** the **lunar module**, Aquarius, built to support two men for about two days.",
+   "zh_markup": "**宇航员**(astronauts)们**躲进**(took refuge in)**登月舱**(lunar module)水瓶座号**避难**(took refuge in)，它被建造出来原本是为了支持两个人生存大约两天左右。",
+   "video_notes": [
+    "（take refuge in…：躲进……避难；Aquarius：同位语，说明 the lunar module）",
+    "（built to…：过去分词短语，补充说明 Aquarius）"
+   ],
+   "chunks": [
+    {
+     "en": "The astronauts took refuge in the lunar module, Aquarius,",
+     "zh": "宇航员们躲进登月舱水瓶座号避难，"
+    },
+    {
+     "en": "built to support two men for about two days.",
+     "zh": "它被建造出来原本是为了支持两个人生存大约两天左右。"
+    }
+   ],
+   "align": [
+    [
+     "The astronauts",
+     "宇航员们"
+    ],
+    [
+     "took refuge in",
+     "躲进"
+    ],
+    [
+     "the lunar module,",
+     "登月舱"
+    ],
+    [
+     "Aquarius,",
+     "水瓶座号避难，"
+    ],
+    [
+     "built",
+     "它被建造出来"
+    ],
+    [
+     "to support",
+     "原本是为了支持"
+    ],
+    [
+     "two men",
+     "两个人"
+    ],
+    [
+     "for",
+     "生存"
+    ],
+    [
+     "about two days.",
+     "大约两天左右。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "Using its engine, the crew steered the craft onto a trajectory around the Moon, whose gravity swung it home.",
+   "zh": "使用它的发动机/引擎，机组操纵航天器驶入一条绕月轨迹，月球的引力把它甩回了地球。",
+   "en_markup": "Using its **engine**, the crew **steered** the **craft** **onto** a **trajectory** around the Moon, whose gravity **swung** it home.",
+   "zh_markup": "使用它的**发动机/引擎**(engine)，机组**操纵**(steered onto)**航天器**(craft)**驶入**(steered onto)一条绕月**轨迹**(trajectory)，月球的引力把它**甩回了**(swung)地球。",
+   "video_notes": [
+    "（steer A onto B：操纵 A 驶入 B；around the Moon：介词短语作后置定语，修饰 trajectory）",
+    "（whose gravity…：非限制性定语从句，whose 指 the Moon；swing：使物体做弧线运动，转弯，转动；这里对应意思“甩回”）"
+   ],
+   "chunks": [
+    {
+     "en": "Using its engine, the crew steered the craft onto a trajectory around the Moon,",
+     "zh": "使用它的发动机/引擎，机组操纵航天器驶入一条绕月轨迹，"
+    },
+    {
+     "en": "whose gravity swung it home.",
+     "zh": "月球的引力把它甩回了地球。"
+    }
+   ],
+   "align": [
+    [
+     "Using its engine,",
+     "使用它的发动机/引擎，"
+    ],
+    [
+     "the crew",
+     "机组"
+    ],
+    [
+     "steered",
+     "操纵"
+    ],
+    [
+     "the craft",
+     "航天器"
+    ],
+    [
+     "onto",
+     "驶入"
+    ],
+    [
+     "a trajectory around the Moon,",
+     "一条绕月轨迹，"
+    ],
+    [
+     "whose gravity",
+     "月球的引力"
+    ],
+    [
+     "swung it home.",
+     "把它甩回了地球。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "They rationed water, conserved power, and shivered in a bitterly cold cabin.",
+   "zh": "他们限定用水量，节约用电，并且不停地打哆嗦，身处极其寒冷的舱室里。",
+   "en_markup": "They **rationed** water, **conserved power**, and **shivered** in a **bitterly** cold **cabin**.",
+   "zh_markup": "他们**限定**(rationed)用水**量**(rationed)，**节约用电**(conserved power)，并且不停地**打哆嗦**(shivered)，身处**极其**(bitterly)寒冷的**舱室**(cabin)里。",
+   "video_notes": [
+    "（bitterly cold：刺骨的冷；cabin：一种简陋的居住用房；亦指飞机、轮船等舱体内专供乘客使用的隔间或封闭舱室）"
+   ],
+   "chunks": [
+    {
+     "en": "They rationed water, conserved power, and shivered in a bitterly cold cabin.",
+     "zh": "他们限定用水量，节约用电，并且不停地打哆嗦，身处极其寒冷的舱室里。"
+    }
+   ],
+   "align": [
+    [
+     "They",
+     "他们"
+    ],
+    [
+     "rationed water,",
+     "限定用水量，"
+    ],
+    [
+     "conserved power,",
+     "节约用电，"
+    ],
+    [
+     "and shivered",
+     "并且不停地打哆嗦，"
+    ],
+    [
+     "in a bitterly",
+     "身处极其"
+    ],
+    [
+     "cold cabin.",
+     "寒冷的舱室里。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "en": "A quieter hazard emerged: with a third man aboard, carbon dioxide was accumulating.",
+   "zh": "一个悄无声息的隐患出现了：随着第三个人登舱，二氧化碳正在积聚。",
+   "en_markup": "A quieter **hazard** **emerged**: with a third man aboard, **carbon dioxide** was **accumulating**.",
+   "zh_markup": "一个悄无声息的**隐患**(hazard)**出现了**(emerged)：随着第三个人登舱，**二氧化碳**(carbon dioxide)正在**积聚**(accumulating)。",
+   "video_notes": [
+    "（with a third man aboard：with 复合结构，说明原因；aboard：“在（船、机、车）上”或“登乘”。多用于强调已置身于某种交通工具内部，或完成了登载的动作。）"
+   ],
+   "chunks": [
+    {
+     "en": "A quieter hazard emerged: with a third man aboard, carbon dioxide was accumulating.",
+     "zh": "一个悄无声息的隐患出现了：随着第三个人登舱，二氧化碳正在积聚。"
+    }
+   ],
+   "align": [
+    [
+     "A quieter hazard",
+     "一个悄无声息的隐患"
+    ],
+    [
+     "emerged:",
+     "出现了："
+    ],
+    [
+     "with a third man aboard,",
+     "随着第三个人登舱，"
+    ],
+    [
+     "carbon dioxide",
+     "二氧化碳"
+    ],
+    [
+     "was accumulating.",
+     "正在积聚。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "The command module, the crew's capsule, used square filter cartridges; Aquarius's sockets were round.",
+   "zh": "指令舱，即机组太空舱，用的是方形的过滤器滤芯；然而水瓶座号的插槽却是圆的。",
+   "en_markup": "The command module, the crew's **capsule**, used square **filter** **cartridges**; Aquarius's **sockets** were round.",
+   "zh_markup": "指令舱，即机组**太空舱**(capsule)，用的是方形的**过滤器**(filter)**滤芯**(cartridges)；然而水瓶座号的**插槽**(sockets)却是圆的。",
+   "video_notes": [
+    "（一个极其致命的物理乌龙，直接引发了接下来最著名的太空救援行动。因为“方形的滤芯，插不进圆形的凹槽。”）"
+   ],
+   "chunks": [
+    {
+     "en": "The command module, the crew's capsule, used square filter cartridges; Aquarius's sockets were round.",
+     "zh": "指令舱，即机组太空舱，用的是方形的过滤器滤芯；然而水瓶座号的插槽却是圆的。"
+    }
+   ],
+   "align": [
+    [
+     "The command module,",
+     "指令舱，"
+    ],
+    [
+     "the crew's capsule,",
+     "即机组太空舱，"
+    ],
+    [
+     "used",
+     "用的是"
+    ],
+    [
+     "square",
+     "方形的"
+    ],
+    [
+     "filter",
+     "过滤器"
+    ],
+    [
+     "cartridges;",
+     "滤芯；"
+    ],
+    [
+     "Aquarius's",
+     "然而水瓶座号的"
+    ],
+    [
+     "sockets",
+     "插槽"
+    ],
+    [
+     "were round.",
+     "却是圆的。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "From plastic bags, cardboard, and tape on board, ground engineers devised an adapter, then talked the crew through assembling it.",
+   "zh": "用飞船上现有的塑料袋、硬纸板和胶带，地面工程师构思设计出一个转接器/转换插头，然后一步步指导机组把它组装起来。",
+   "en_markup": "From plastic bags, **cardboard**, and **tape** on board, ground engineers **devised** an **adapter**, then **talked** the crew **through** **assembling** it.",
+   "zh_markup": "用飞船上现有的塑料袋、**硬纸板**(cardboard)和**胶带**(tape)，地面工程师**构思设计出**(devised)一个**转接器/转换插头**(adapter)，然后**一步步指导**(talked through)机组把它**组装**(assembling)起来。",
+   "video_notes": [
+    "（on board：在飞船上，修饰前面三样东西）",
+    "（talk sb through sth：一步步指导某人做某事）"
+   ],
+   "chunks": [
+    {
+     "en": "From plastic bags, cardboard, and tape on board, ground engineers devised an adapter,",
+     "zh": "用飞船上现有的塑料袋、硬纸板和胶带，地面工程师构思设计出一个转接器/转换插头，"
+    },
+    {
+     "en": "then talked the crew through assembling it.",
+     "zh": "然后一步步指导机组把它组装起来。"
+    }
+   ],
+   "align": [
+    [
+     "From plastic bags,",
+     "用飞船上现有的塑料袋、"
+    ],
+    [
+     "cardboard,",
+     "硬纸板"
+    ],
+    [
+     "and tape on board,",
+     "和胶带，"
+    ],
+    [
+     "ground engineers",
+     "地面工程师"
+    ],
+    [
+     "devised",
+     "构思设计出"
+    ],
+    [
+     "an adapter,",
+     "一个转接器/转换插头，"
+    ],
+    [
+     "then",
+     "然后"
+    ],
+    [
+     "talked the crew through",
+     "一步步指导机组"
+    ],
+    [
+     "assembling it.",
+     "把它组装起来。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "On April 17th the capsule splashed down in the Pacific.",
+   "zh": "4月17日，太空舱水上降落在太平洋。",
+   "en_markup": "On April 17th the capsule **splashed down** in the Pacific.",
+   "zh_markup": "4月17日，太空舱**水上降落**(splashed down)在太平洋。",
+   "video_notes": [
+    "（splash down：“溅落”或“水面降落”。特指载人航天器或返回舱在重返大气层后，降落于海洋的特定过程。）"
+   ],
+   "chunks": [
+    {
+     "en": "On April 17th the capsule splashed down in the Pacific.",
+     "zh": "4月17日，太空舱水上降落在太平洋。"
+    }
+   ],
+   "align": [
+    [
+     "On April 17th",
+     "4月17日，"
+    ],
+    [
+     "the capsule",
+     "太空舱"
+    ],
+    [
+     "splashed down",
+     "水上降落"
+    ],
+    [
+     "in the Pacific.",
+     "在太平洋。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "Yet the fault had been built in on Earth.",
+   "zh": "然而，这个缺陷早在地球上就被内置了/埋下了。",
+   "en_markup": "Yet the **fault** had been **built in** on Earth.",
+   "zh_markup": "然而，这个**缺陷**(fault)早在地球上就被**内置了/埋下了**(built in)。",
+   "video_notes": [
+    "（build in：（建造时）使成为固有的一部分；fault：经常用来指代机器或者设备的故障和缺陷。）"
+   ],
+   "chunks": [
+    {
+     "en": "Yet the fault had been built in on Earth.",
+     "zh": "然而，这个缺陷早在地球上就被内置了/埋下了。"
+    }
+   ],
+   "align": [
+    [
+     "Yet",
+     "然而，"
+    ],
+    [
+     "the fault",
+     "这个缺陷"
+    ],
+    [
+     "had been built in on Earth.",
+     "早在地球上就被内置了/埋下了。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "A NASA review board traced the explosion to the tank's thermostat switches, designed for the ship's 28-volt supply.",
+   "zh": "一个NASA的审查委员会查明了这次爆炸源自于（液氧）罐的恒温器开关上，这些开关是按飞船的28伏电源设计的。",
+   "en_markup": "A NASA **review board** **traced** the **explosion** **to** the tank's **thermostat** **switches**, designed for the ship's 28-**volt** supply.",
+   "zh_markup": "一个NASA的**审查委员会**(review board)**查明了**(traced to)这次**爆炸**(explosion)**源自于**(traced to)（液氧）罐的**恒温器**(thermostat)**开关**(switches)上，这些开关是按飞船的28**伏**(volt)电源设计的。",
+   "video_notes": [
+    "（trace A to B：追溯到 A 的来源为 B、查明 A 源于 B）",
+    "（designed for…：过去分词短语作后置定语，修饰 switches）"
+   ],
+   "chunks": [
+    {
+     "en": "A NASA review board traced the explosion to the tank's thermostat switches,",
+     "zh": "一个NASA的审查委员会查明了这次爆炸源自于（液氧）罐的恒温器开关上，"
+    },
+    {
+     "en": "designed for the ship's 28-volt supply.",
+     "zh": "这些开关是按飞船的28伏电源设计的。"
+    }
+   ],
+   "align": [
+    [
+     "A",
+     "一个"
+    ],
+    [
+     "NASA",
+     "NASA的"
+    ],
+    [
+     "review board",
+     "审查委员会"
+    ],
+    [
+     "traced",
+     "查明了"
+    ],
+    [
+     "the explosion",
+     "这次爆炸"
+    ],
+    [
+     "to the tank's",
+     "源自于（液氧）罐的"
+    ],
+    [
+     "thermostat",
+     "恒温器"
+    ],
+    [
+     "switches,",
+     "开关上，"
+    ],
+    [
+     "designed for",
+     "这些开关是按"
+    ],
+    [
+     "the ship's 28-volt supply.",
+     "飞船的28伏电源设计的。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "In 1965 the spacecraft's builder rewrote the specification to let the heaters run on 65-volt launch-site power; the switches were never upgraded, a mismatch neither that contractor nor NASA detected.",
+   "zh": "在1965年，飞船承建商就改写了技术规格，允许加热器使用发射场65伏的电源来运行；开关却始终没有升级，这处不匹配，无论是那家承包商还是NASA都没有发现。",
+   "en_markup": "In 1965 the spacecraft's **builder** **rewrote** the **specification** to let the **heaters** **run on** 65-volt launch-site power; the switches were never **upgraded**, a **mismatch** neither that **contractor** nor NASA **detected**.",
+   "zh_markup": "在1965年，飞船**承建商**(builder)就**改写了**(rewrote)**技术规格**(specification)，允许**加热器**(heaters)**使用**(run on)发射场65伏**的电源来运行**(run on)；开关却始终没有**升级**(upgraded)，这处**不匹配**(mismatch)，无论是那家**承包商**(contractor)还是NASA都没有**发现**(detected)。",
+   "video_notes": [
+    "（to let…：不定式表目的；run on…：靠……运行；使用……电能/燃料来运行）",
+    "（a mismatch…：同位语，概括前一句；neither…detected：省略 which 的定语从句，修饰 mismatch；neither A nor B：A 和 B 都不）"
+   ],
+   "chunks": [
+    {
+     "en": "In 1965 the spacecraft's builder rewrote the specification to let the heaters run on 65-volt launch-site power;",
+     "zh": "在1965年，飞船承建商就改写了技术规格，允许加热器使用发射场65伏的电源来运行；"
+    },
+    {
+     "en": "the switches were never upgraded, a mismatch neither that contractor nor NASA detected.",
+     "zh": "开关却始终没有升级，这处不匹配，无论是那家承包商还是NASA都没有发现。"
+    }
+   ],
+   "align": [
+    [
+     "In 1965",
+     "在1965年，"
+    ],
+    [
+     "the spacecraft's",
+     "飞船"
+    ],
+    [
+     "builder",
+     "承建商"
+    ],
+    [
+     "rewrote",
+     "就改写了"
+    ],
+    [
+     "the specification",
+     "技术规格，"
+    ],
+    [
+     "to let",
+     "允许"
+    ],
+    [
+     "the heaters",
+     "加热器"
+    ],
+    [
+     "run on",
+     "使用"
+    ],
+    [
+     "65-volt launch-site power;",
+     "发射场65伏的电源来运行；"
+    ],
+    [
+     "the switches",
+     "开关"
+    ],
+    [
+     "were never upgraded,",
+     "却始终没有升级，"
+    ],
+    [
+     "a mismatch",
+     "这处不匹配，"
+    ],
+    [
+     "neither that contractor",
+     "无论是那家承包商"
+    ],
+    [
+     "nor NASA",
+     "还是NASA"
+    ],
+    [
+     "detected.",
+     "都没有发现。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "Weeks before launch, to drain the stubborn tank, a heater ran about eight hours.",
+   "zh": "发射前几周，为了排空那个难以排空的储罐，一台加热器连续工作了约八个小时。",
+   "en_markup": "Weeks before launch, to **drain** the **stubborn** tank, a **heater** ran about eight hours.",
+   "zh_markup": "发射前几周，为了**排空**(drain)那个**难以排空的**(stubborn)储罐，一台**加热器**(heater)连续工作了约八个小时。",
+   "video_notes": [
+    "（stubborn：难以去除的；难以排空的。表示污渍或者残留物难以去除或者排空。to drain…：不定式表目的）"
+   ],
+   "chunks": [
+    {
+     "en": "Weeks before launch, to drain the stubborn tank, a heater ran about eight hours.",
+     "zh": "发射前几周，为了排空那个难以排空的储罐，一台加热器连续工作了约八个小时。"
+    }
+   ],
+   "align": [
+    [
+     "Weeks before launch,",
+     "发射前几周，"
+    ],
+    [
+     "to drain",
+     "为了排空"
+    ],
+    [
+     "the",
+     "那个"
+    ],
+    [
+     "stubborn",
+     "难以排空的"
+    ],
+    [
+     "tank,",
+     "储罐，"
+    ],
+    [
+     "a heater",
+     "一台加热器"
+    ],
+    [
+     "ran",
+     "连续工作了"
+    ],
+    [
+     "about eight hours.",
+     "约八个小时。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 4,
+   "en": "The switches probably malfunctioned; unchecked heat scorched the insulation on the tank's wiring; in flight, that insulation ignited.",
+   "zh": "开关很可能失灵了；无人管控的高温烧焦了罐内线路上的绝缘层；在飞行途中，这层绝缘材料燃烧起来了/着火了。",
+   "en_markup": "The switches probably **malfunctioned**; **unchecked** heat **scorched** the **insulation** on the tank's **wiring**; in flight, that insulation **ignited**.",
+   "zh_markup": "开关很可能**失灵了**(malfunctioned)；**无人管控的**(unchecked)高温**烧焦了**(scorched)罐内**线路**(wiring)上的**绝缘层**(insulation)；在飞行途中，这层绝缘材料**燃烧起来了/着火了**(ignited)。",
+   "video_notes": [
+    "（unchecked：指事情的发展不受限制，完全被放任无视。没有人去控制这件事。on the tank's wiring：介词短语作后置定语，修饰 insulation）"
+   ],
+   "chunks": [
+    {
+     "en": "The switches probably malfunctioned; unchecked heat scorched the insulation on the tank's wiring;",
+     "zh": "开关很可能失灵了；无人管控的高温烧焦了罐内线路上的绝缘层；"
+    },
+    {
+     "en": "in flight, that insulation ignited.",
+     "zh": "在飞行途中，这层绝缘材料燃烧起来了/着火了。"
+    }
+   ],
+   "align": [
+    [
+     "The switches",
+     "开关"
+    ],
+    [
+     "probably",
+     "很可能"
+    ],
+    [
+     "malfunctioned;",
+     "失灵了；"
+    ],
+    [
+     "unchecked heat",
+     "无人管控的高温"
+    ],
+    [
+     "scorched",
+     "烧焦了"
+    ],
+    [
+     "the insulation on the tank's wiring;",
+     "罐内线路上的绝缘层；"
+    ],
+    [
+     "in flight,",
+     "在飞行途中，"
+    ],
+    [
+     "that insulation",
+     "这层绝缘材料"
+    ],
+    [
+     "ignited.",
+     "燃烧起来了/着火了。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "NASA called Apollo 13 a \"successful failure\".",
+   "zh": "NASA把阿波罗13号称作“成功的失败”。",
+   "en_markup": "NASA called Apollo 13 a \"successful failure\".",
+   "zh_markup": "NASA把阿波罗13号称作“成功的失败”。",
+   "video_notes": [
+    "（call A B：把 A 称作 B）"
+   ],
+   "chunks": [
+    {
+     "en": "NASA called Apollo 13 a \"successful failure\".",
+     "zh": "NASA把阿波罗13号称作“成功的失败”。"
+    }
+   ],
+   "align": [
+    [
+     "NASA",
+     "NASA"
+    ],
+    [
+     "called Apollo 13",
+     "把阿波罗13号称作"
+    ],
+    [
+     "a \"successful failure\".",
+     "“成功的失败”。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "The paradox holds: a flight undone by a five-year-old engineering oversight was salvaged within four days by ingenuity on the ground.",
+   "zh": "这个悖论站得住脚：一次飞行，毁于五年前的一处工程疏忽，却在四天之内得以挽救，靠的是地面上的巧思/足智多谋。",
+   "en_markup": "The **paradox** holds: a flight **undone by** a five-year-old engineering **oversight** was **salvaged** within four days by **ingenuity** on the ground.",
+   "zh_markup": "这个**悖论**(paradox)站得住脚：一次飞行，**毁于**(undone by)五年前的一处工程**疏忽**(oversight)，却在四天之内得以**挽救**(salvaged)，靠的是地面上的**巧思/足智多谋**(ingenuity)。",
+   "video_notes": [
+    "（hold：（论点、理论等）站得住脚；undone by…：被……毁掉）",
+    "（ingenuity：巧思；足智多谋；独创性。手巧脑子活：意思是哪怕条件特别烂、限制特别多，这人也能靠自己的小聪明和奇思妙想，愣是找出办法把难题给解决了。）"
+   ],
+   "chunks": [
+    {
+     "en": "The paradox holds: a flight undone by a five-year-old engineering oversight",
+     "zh": "这个悖论站得住脚：一次飞行，毁于五年前的一处工程疏忽，"
+    },
+    {
+     "en": "was salvaged within four days by ingenuity on the ground.",
+     "zh": "却在四天之内得以挽救，靠的是地面上的巧思/足智多谋。"
+    }
+   ],
+   "align": [
+    [
+     "The paradox",
+     "这个悖论"
+    ],
+    [
+     "holds:",
+     "站得住脚："
+    ],
+    [
+     "a flight",
+     "一次飞行，"
+    ],
+    [
+     "undone by",
+     "毁于"
+    ],
+    [
+     "a five-year-old",
+     "五年前的"
+    ],
+    [
+     "engineering oversight",
+     "一处工程疏忽，"
+    ],
+    [
+     "was salvaged within four days",
+     "却在四天之内得以挽救，"
+    ],
+    [
+     "by ingenuity on the ground.",
+     "靠的是地面上的巧思/足智多谋。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "launched",
+   "zh_video": "发射了",
+   "headword": "launch",
+   "pos": "v.",
+   "table_definition": "本文：发射了；v. (launch) 发射（火箭、卫星等）；发起，推出（launch a satellite）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "crewed",
+   "zh_video": "载人的",
+   "headword": "crewed",
+   "pos": "adj.",
+   "table_definition": "本文：载人的；adj. 载人的，有人驾驶的（a crewed mission）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "lunar landing",
+   "zh_video": "登月",
+   "headword": "lunar landing",
+   "pos": "adj.",
+   "table_definition": "本文：登月；adj. 月球的，月亮的（a lunar landing 登月；a lunar eclipse 月食）；阴历的（the lunar calendar 农历）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "oxygen tank",
+   "zh_video": "氧气罐",
+   "headword": "oxygen tank",
+   "pos": "n.",
+   "table_definition": "本文：氧气罐；n. 氧，氧气（an oxygen tank/mask 氧气罐／氧气面罩）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "exploded",
+   "zh_video": "爆炸了",
+   "headword": "explode",
+   "pos": "v.",
+   "table_definition": "本文：爆炸了；v. (explode) 爆炸，使爆炸（a bomb/tank exploded）；（情绪）爆发（explode with anger）；（数量）激增（population explosion 人口激增）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "service module",
+   "zh_video": "服务舱段",
+   "headword": "service module",
+   "pos": "n.",
+   "table_definition": "本文：服务舱段；n. （航天器的）舱，舱段（the lunar/service module 登月舱／服务舱）；（课程的）单元，模块；（机器、软件的）组件"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 3,
+   "en": "blast",
+   "zh_video": "爆炸气浪",
+   "headword": "blast",
+   "pos": "n.",
+   "table_definition": "本文：爆炸气浪；n. 爆炸气浪，冲击波；爆炸（a bomb blast）；一阵（强风、气流）（a blast of cold air）；v. 炸开，爆破；（音乐等）大声播放；猛烈抨击"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 3,
+   "en": "crippled",
+   "zh_video": "严重毁坏了",
+   "headword": "cripple",
+   "pos": "v.",
+   "table_definition": "本文：严重毁坏了；v. (cripple) 严重损坏，使陷入瘫痪（crippled by debt/strikes）；使残疾，使跛"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "spacecraft",
+   "zh_video": "宇宙飞船",
+   "headword": "spacecraft",
+   "pos": "n.",
+   "table_definition": "本文：宇宙飞船；n. 航天器，宇宙飞船（复数同形）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "aborted",
+   "zh_video": "终止了",
+   "headword": "abort",
+   "pos": "v.",
+   "table_definition": "本文：终止了；v. (abort) 中止，使（计划、任务）夭折（abort a mission/launch）；流产，堕胎；n. （计划等的）中止；abortion n."
+  },
+  {
+   "id": 11,
+   "para": 2,
+   "sentence": 4,
+   "en": "astronauts",
+   "zh_video": "宇航员",
+   "headword": "astronaut",
+   "pos": "n.",
+   "table_definition": "本文：宇航员；n. (astronaut) 宇航员，航天员"
+  },
+  {
+   "id": 12,
+   "para": 2,
+   "sentence": null,
+   "en": "took refuge in",
+   "zh_video": "躲进……避难",
+   "headword": "took refuge in",
+   "pos": "n.",
+   "table_definition": "本文：躲进……避难；n. 避难，庇护（take/seek refuge in/from 躲进／躲避）；避难所，庇护所（a wildlife refuge）；refugee n. 难民"
+  },
+  {
+   "id": 13,
+   "para": 2,
+   "sentence": 4,
+   "en": "lunar module",
+   "zh_video": "登月舱",
+   "headword": "lunar module",
+   "pos": "adj.",
+   "table_definition": "本文：登月舱；adj. 月球的，月亮的（a lunar landing 登月；a lunar eclipse 月食）；阴历的（the lunar calendar 农历）"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 5,
+   "en": "engine",
+   "zh_video": "发动机/引擎",
+   "headword": "engine",
+   "pos": "n.",
+   "table_definition": "本文：发动机/引擎；n. 发动机，引擎（a rocket engine）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": null,
+   "en": "steered onto",
+   "zh_video": "操纵……驶入",
+   "headword": "steered onto",
+   "pos": "v.",
+   "table_definition": "本文：操纵……驶入；v. (steer) 驾驶，操纵（船、车等）的方向（steer a car/ship）；引导，带领（steer sb towards sth；steer the conversation）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 5,
+   "en": "craft",
+   "zh_video": "航天器",
+   "headword": "craft",
+   "pos": "n.",
+   "table_definition": "本文：航天器；n. （单复数同形）飞行器，航天器，船只（aircraft, spacecraft；small craft 小船）；手艺，工艺（arts and crafts 手工艺）；技巧，技能；v. 精心制作（a carefully crafted speech）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 5,
+   "en": "trajectory",
+   "zh_video": "轨迹",
+   "headword": "trajectory",
+   "pos": "n.",
+   "table_definition": "本文：轨迹；n. （飞行物的）轨迹，弹道；（事业、发展的）轨迹，走向（career trajectory）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "swung",
+   "zh_video": "甩回了",
+   "headword": "swing",
+   "pos": "v.",
+   "table_definition": "本文：甩回了；v. (swing) 摆动；转向，绕行（swing around the Moon）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 6,
+   "en": "rationed",
+   "zh_video": "限定……量",
+   "headword": "ration",
+   "pos": "v.",
+   "table_definition": "本文：限定……量；v. (ration) 定量供应，限量分配（ration food/water）；n. 配给量，定量（a daily ration）；rations 口粮"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 6,
+   "en": "conserved power",
+   "zh_video": "节约用电",
+   "headword": "conserve power",
+   "pos": "v.",
+   "table_definition": "本文：节约用电；v. (conserve) 节约，节省（conserve energy/water/power）；保护，保存（conserve wildlife）；conservation n."
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "shivered",
+   "zh_video": "打哆嗦",
+   "headword": "shiver",
+   "pos": "v.",
+   "table_definition": "本文：打哆嗦；v. (shiver) （因寒冷、恐惧）颤抖，发抖（shiver with cold）；n. 颤抖，寒战（send shivers down one's spine 令人不寒而栗）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "bitterly",
+   "zh_video": "极其",
+   "headword": "bitterly",
+   "pos": "adv.",
+   "table_definition": "本文：极其；adv. 刺骨地，严寒地（bitterly cold 冷得刺骨）；痛苦地，愤恨地（complain bitterly）；激烈地（bitterly opposed）；bitter adj."
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "cabin",
+   "zh_video": "舱室",
+   "headword": "cabin",
+   "pos": "n.",
+   "table_definition": "本文：舱室；n. （飞机、飞船的）舱，客舱（the cabin crew 机组乘务员）；（船上的）客舱，船舱；小木屋（a log cabin）"
+  },
+  {
+   "id": 24,
+   "para": 3,
+   "sentence": 7,
+   "en": "hazard",
+   "zh_video": "隐患",
+   "headword": "hazard",
+   "pos": "n.",
+   "table_definition": "本文：隐患；n. 危险，隐患，危害物（a health/fire hazard；a hazard to…）；v. 冒……风险；大胆提出（hazard a guess 斗胆一猜）；hazardous adj."
+  },
+  {
+   "id": 25,
+   "para": 3,
+   "sentence": 7,
+   "en": "emerged",
+   "zh_video": "出现了",
+   "headword": "emerge",
+   "pos": "v.",
+   "table_definition": "本文：出现了；v. (emerge) 显现，浮现，暴露（problems/facts emerged）；出现，露出（emerge from the water）；摆脱（困境）（emerge from a crisis）；emergence n."
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 7,
+   "en": "carbon dioxide",
+   "zh_video": "二氧化碳",
+   "headword": "carbon dioxide",
+   "pos": "n.",
+   "table_definition": "本文：二氧化碳；n. 二氧化碳（carbon dioxide emissions 二氧化碳排放）；carbon n. 碳"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 7,
+   "en": "accumulating",
+   "zh_video": "积聚",
+   "headword": "accumulate",
+   "pos": "v.",
+   "table_definition": "本文：积聚；v. (accumulate) 积聚，积累，逐渐增加（dust/debt/evidence accumulates）；accumulation n."
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "capsule",
+   "zh_video": "太空舱",
+   "headword": "capsule",
+   "pos": "n.",
+   "table_definition": "本文：太空舱；n. 太空舱，航天舱（a space capsule）；胶囊（take a capsule）；time capsule 时间胶囊；adj. 简短的，概括的（a capsule summary 内容提要）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "filter",
+   "zh_video": "过滤器",
+   "headword": "filter",
+   "pos": "n.",
+   "table_definition": "本文：过滤器；n. 过滤器，滤网，滤芯（an air/water filter）；（照相机的）滤光镜；v. 过滤（filter water）；筛选（filter out 滤除）；慢慢传开（news filtered out）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "cartridges",
+   "zh_video": "滤芯",
+   "headword": "cartridge",
+   "pos": "n.",
+   "table_definition": "本文：滤芯；n. (cartridge) （可替换的）筒，芯，盒（a filter/ink cartridge 滤芯／墨盒）；子弹，弹药筒"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 8,
+   "en": "sockets",
+   "zh_video": "插槽",
+   "headword": "socket",
+   "pos": "n.",
+   "table_definition": "本文：插槽；n. (socket) 插座，插口，承口（a power socket；plug sth into a socket）；（眼、关节的）窝，臼（eye socket 眼窝）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "cardboard",
+   "zh_video": "硬纸板",
+   "headword": "cardboard",
+   "pos": "n.",
+   "table_definition": "本文：硬纸板；n. 硬纸板（a cardboard box 纸板箱）；adj. 硬纸板做的；（人物）刻板的，不真实的"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 9,
+   "en": "tape",
+   "zh_video": "胶带",
+   "headword": "tape",
+   "pos": "n.",
+   "table_definition": "本文：胶带；n. 胶带，带子；磁带（duct tape）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 9,
+   "en": "devised",
+   "zh_video": "构思设计出",
+   "headword": "devise",
+   "pos": "v.",
+   "table_definition": "本文：构思设计出；v. (devise) 设计，发明，想出（devise a plan/method/system）；device n. 装置，设备"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 9,
+   "en": "adapter",
+   "zh_video": "转接器/转换插头",
+   "headword": "adapter",
+   "pos": "n.",
+   "table_definition": "本文：转接器/转换插头；n. 转接器，适配器，转换插头（a travel adapter）；改编者；adapt v. 使适应，改编"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": null,
+   "en": "talked through",
+   "zh_video": "一步步指导",
+   "headword": "talked through",
+   "pos": "v.",
+   "table_definition": "本文：一步步指导；v. (talk through) 一步步指导（某人做某事）；详细讨论（talk sb through a procedure）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 9,
+   "en": "assembling",
+   "zh_video": "组装",
+   "headword": "assemble",
+   "pos": "v.",
+   "table_definition": "本文：组装；v. (assemble) 组装，装配（assemble furniture/a machine）；集合，聚集（assemble in the hall）；assembly n. 组装；集会；（立法）议会"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 10,
+   "en": "splashed down",
+   "zh_video": "水上降落",
+   "headword": "splash down",
+   "pos": "v.",
+   "table_definition": "本文：水上降落；v. (splash down)（宇宙飞船）溅落；splash v. 溅，泼（splash water on one's face）；n. 溅泼声；make a splash 引起轰动"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 11,
+   "en": "fault",
+   "zh_video": "缺陷",
+   "headword": "fault",
+   "pos": "n.",
+   "table_definition": "本文：缺陷；n. 缺陷，故障；过错（an electrical fault）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 11,
+   "en": "built in",
+   "zh_video": "内置了/埋下了",
+   "headword": "build in",
+   "pos": "v.",
+   "table_definition": "本文：内置了/埋下了；v. (build in) 把……做进去，内置；使成为固有部分（build in a safety margin）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 12,
+   "en": "review board",
+   "zh_video": "审查委员会",
+   "headword": "review board",
+   "pos": "n.",
+   "table_definition": "本文：审查委员会；n. 审查委员会（an accident review board）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": null,
+   "en": "traced to",
+   "zh_video": "查明了……源自于",
+   "headword": "traced to",
+   "pos": "v.",
+   "table_definition": "本文：查明了……源自于；v. (trace) 追溯，查出……的根源（trace sth to/back to…）；追踪，查找（trace a missing person）；描摹；n. 痕迹，踪迹（without trace）；微量"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 12,
+   "en": "explosion",
+   "zh_video": "爆炸",
+   "headword": "explosion",
+   "pos": "n.",
+   "table_definition": "本文：爆炸；n. 爆炸，爆炸声（a gas explosion）；（数量）激增（population explosion）；（情绪）爆发；explode v.；explosive adj./n."
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 12,
+   "en": "thermostat",
+   "zh_video": "恒温器",
+   "headword": "thermostat",
+   "pos": "n.",
+   "table_definition": "本文：恒温器；n. 恒温器，温度调节器（turn the thermostat up/down）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 12,
+   "en": "switches",
+   "zh_video": "开关",
+   "headword": "switch",
+   "pos": "n.",
+   "table_definition": "本文：开关；n. (switch) 开关；转换（a light switch）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 12,
+   "en": "volt",
+   "zh_video": "伏",
+   "headword": "volt",
+   "pos": "n.",
+   "table_definition": "本文：伏；n. 伏特，伏（电压单位，缩写 V）；voltage n. 电压"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 13,
+   "en": "builder",
+   "zh_video": "承建商",
+   "headword": "builder",
+   "pos": "n.",
+   "table_definition": "本文：承建商；n. 建造者，承建商（a house builder）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 13,
+   "en": "rewrote",
+   "zh_video": "改写了",
+   "headword": "rewrite",
+   "pos": "v.",
+   "table_definition": "本文：改写了；v. (rewrite) 改写，重写（rewrite the rules）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 13,
+   "en": "specification",
+   "zh_video": "技术规格",
+   "headword": "specification",
+   "pos": "n.",
+   "table_definition": "本文：技术规格；n. 规格，规范，技术要求（常用复数 specifications；meet the specifications 符合规格；built to specification）；详述，明确说明；specify v."
+  },
+  {
+   "id": 50,
+   "para": 4,
+   "sentence": 13,
+   "en": "heaters",
+   "zh_video": "加热器",
+   "headword": "heater",
+   "pos": "n.",
+   "table_definition": "本文：加热器；n. (heater) 加热器，暖气装置（an electric/water heater 电暖器／热水器）"
+  },
+  {
+   "id": 51,
+   "para": 4,
+   "sentence": 13,
+   "en": "run on",
+   "zh_video": "使用……的电源来运行",
+   "headword": "run on",
+   "pos": "v.",
+   "table_definition": "本文：使用……的电源来运行；v. (run on) 靠……运行，以……为动力（run on batteries）"
+  },
+  {
+   "id": 52,
+   "para": 4,
+   "sentence": 13,
+   "en": "upgraded",
+   "zh_video": "升级",
+   "headword": "upgrade",
+   "pos": "v.",
+   "table_definition": "本文：升级；v. (upgrade) 升级，改进（upgrade software/equipment）；提升（职位、等级）（be upgraded to business class 升舱）；n. 升级"
+  },
+  {
+   "id": 53,
+   "para": 4,
+   "sentence": 13,
+   "en": "mismatch",
+   "zh_video": "不匹配",
+   "headword": "mismatch",
+   "pos": "n.",
+   "table_definition": "本文：不匹配；n. 不匹配，不协调（a mismatch between A and B）；v. 使不相配（mismatched socks）"
+  },
+  {
+   "id": 54,
+   "para": 4,
+   "sentence": 13,
+   "en": "contractor",
+   "zh_video": "承包商",
+   "headword": "contractor",
+   "pos": "n.",
+   "table_definition": "本文：承包商；n. 承包商，承包人（a building/defence contractor）；contract n. 合同；v. 订合同；收缩；感染"
+  },
+  {
+   "id": 55,
+   "para": 4,
+   "sentence": 13,
+   "en": "detected",
+   "zh_video": "发现",
+   "headword": "detect",
+   "pos": "v.",
+   "table_definition": "本文：发现；v. (detect) 发现，察觉（detect a change/an error）；探测，检测出（detect radiation）；detection n.；detective n. 侦探"
+  },
+  {
+   "id": 56,
+   "para": 4,
+   "sentence": 14,
+   "en": "drain",
+   "zh_video": "排空",
+   "headword": "drain",
+   "pos": "v.",
+   "table_definition": "本文：排空；v. 排空，排出（液体）（drain the tank/water）；耗尽（精力、资源）（feel drained 精疲力竭）；n. 下水道，排水管；消耗（a drain on resources）；brain drain 人才外流"
+  },
+  {
+   "id": 57,
+   "para": 4,
+   "sentence": 14,
+   "en": "stubborn",
+   "zh_video": "难以排空的",
+   "headword": "stubborn",
+   "pos": "adj.",
+   "table_definition": "本文：难以排空的；adj. 顽固的，倔强的；难以去除的（a stubborn stain）"
+  },
+  {
+   "id": 58,
+   "para": 4,
+   "sentence": 14,
+   "en": "heater",
+   "zh_video": "加热器",
+   "headword": "heater",
+   "pos": "n.",
+   "table_definition": "本文：加热器；n. 加热器，取暖器（a water heater）"
+  },
+  {
+   "id": 59,
+   "para": 4,
+   "sentence": 15,
+   "en": "malfunctioned",
+   "zh_video": "失灵了",
+   "headword": "malfunction",
+   "pos": "v.",
+   "table_definition": "本文：失灵了；v. (malfunction) （机器）发生故障，失灵；n. 故障，失灵（an equipment malfunction）"
+  },
+  {
+   "id": 60,
+   "para": 4,
+   "sentence": 15,
+   "en": "unchecked",
+   "zh_video": "无人管控的",
+   "headword": "unchecked",
+   "pos": "adj.",
+   "table_definition": "本文：无人管控的；adj. 未受控制的，不受约束的；未经检查的（go unchecked）"
+  },
+  {
+   "id": 61,
+   "para": 4,
+   "sentence": 15,
+   "en": "scorched",
+   "zh_video": "烧焦了",
+   "headword": "scorch",
+   "pos": "v.",
+   "table_definition": "本文：烧焦了；v. (scorch) 烧焦，烤焦（scorch the grass/a shirt）；scorching adj. 酷热的（a scorching day）；（批评）尖锐的"
+  },
+  {
+   "id": 62,
+   "para": 4,
+   "sentence": 15,
+   "en": "insulation",
+   "zh_video": "绝缘层",
+   "headword": "insulation",
+   "pos": "n.",
+   "table_definition": "本文：绝缘层；n. 绝缘，绝缘材料（wire insulation）；隔热，隔音（材料）（home insulation）；隔离；insulate v."
+  },
+  {
+   "id": 63,
+   "para": 4,
+   "sentence": 15,
+   "en": "wiring",
+   "zh_video": "线路",
+   "headword": "wiring",
+   "pos": "n.",
+   "table_definition": "本文：线路；n. 电线，线路，布线（faulty wiring 线路故障）；wire n. 电线，金属丝；v. 给……接电线"
+  },
+  {
+   "id": 64,
+   "para": 4,
+   "sentence": 15,
+   "en": "ignited",
+   "zh_video": "燃烧起来了/着火了",
+   "headword": "ignite",
+   "pos": "v.",
+   "table_definition": "本文：燃烧起来了/着火了；v. (ignite) 点燃，（使）着火（ignite a fire；the fuel ignited）；激起，引发（ignite a debate/passion）；ignition n. 点火"
+  },
+  {
+   "id": 65,
+   "para": 5,
+   "sentence": 17,
+   "en": "paradox",
+   "zh_video": "悖论",
+   "headword": "paradox",
+   "pos": "n.",
+   "table_definition": "本文：悖论；n. 悖论，看似矛盾而实际可能正确的说法；自相矛盾的人或事；paradoxical adj."
+  },
+  {
+   "id": 66,
+   "para": 5,
+   "sentence": 17,
+   "en": "undone by",
+   "zh_video": "毁于",
+   "headword": "be undone by",
+   "pos": "v.",
+   "table_definition": "本文：毁于；v. (be undone by) 被……毁掉，毁于（be undone by a small mistake）"
+  },
+  {
+   "id": 67,
+   "para": 5,
+   "sentence": 17,
+   "en": "oversight",
+   "zh_video": "疏忽",
+   "headword": "oversight",
+   "pos": "n.",
+   "table_definition": "本文：疏忽；n. 疏忽，失察（an oversight on sb's part；through an oversight 因疏忽）；监督，监管（oversight of banks）；源自 oversee v. 监督；勿与 overlook v. 忽视 混淆"
+  },
+  {
+   "id": 68,
+   "para": 5,
+   "sentence": 17,
+   "en": "salvaged",
+   "zh_video": "挽救",
+   "headword": "salvage",
+   "pos": "v.",
+   "table_definition": "本文：挽救；v. (salvage) 挽救，挽回（salvage a mission/one's reputation）；（从事故、灾难中）抢救（财物）；n. 打捞，抢救（a salvage operation）；可回收利用的物资"
+  },
+  {
+   "id": 69,
+   "para": 5,
+   "sentence": 17,
+   "en": "ingenuity",
+   "zh_video": "巧思/足智多谋",
+   "headword": "ingenuity",
+   "pos": "n.",
+   "table_definition": "本文：巧思/足智多谋；n. 独创力，巧思，心灵手巧（human ingenuity；show great ingenuity）；ingenious adj. 巧妙的"
+  }
+ ]
+}
