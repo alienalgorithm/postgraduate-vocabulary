@@ -1,0 +1,65 @@
+[
+ {
+  "key": "n=4",
+  "field": "knowledge[3].explain",
+  "before": "单复数同形，本句指",
+  "after": "复数通常与单数同形（也可写作 elks），本句指",
+  "reason": "Oxford 等词典标 elk 的复数为 elk 或 elks，说“单复数同形”不完整。"
+ },
+ {
+  "key": "n=6",
+  "field": "translation_tip",
+  "before": "③分号前后分开，句末的过去分词短语 depleted by… 单独译成一个分句",
+  "after": "③原文这里没有分号，视频在句末的过去分词短语 depleted by… 前加了分号，把它单独译成一个分句",
+  "reason": "原句 arrived 与 depleted 之间是逗号，不是分号，“分号前后分开”与原文不符；分号是视频译文加的。"
+ },
+ {
+  "key": "n=7",
+  "field": "trunk.object_or_complement",
+  "before": "that 引导的宾语从句（found 的宾语）",
+  "after": "that collared elk east of the park kept grazing unless wolves ventured within half a mile（found 的宾语从句）",
+  "reason": "规范要求 object_or_complement 填原文，原稿只写了描述。"
+ },
+ {
+  "key": "n=8",
+  "field": "trunk.object_or_complement",
+  "before": "无（fared 为不及物动词，no better 作状语）；that 引导的宾语从句（showed 的宾语）",
+  "after": "冒号前无宾语（fared 为不及物动词，no better 作状语）；that sampling only the tallest aspens overstated regrowth four- to sevenfold（showed 的宾语从句）",
+  "reason": "规范要求 object_or_complement 填原文，原稿只写了描述。"
+ },
+ {
+  "key": "n=11",
+  "field": "trunk.object_or_complement",
+  "before": "冒号后的分句是 reported 报告的内容；",
+  "after": "eroding streams had cut so deep that stunted willows no longer reached water（冒号后的分句，reported 报告的内容）；",
+  "reason": "规范要求 object_or_complement 填原文，原稿只写了描述。"
+ },
+ {
+  "key": "n=8",
+  "field": "grammar[1].explain",
+  "before": "考研阅读中 no more than、no less than 等结构也要按这个规律判断褒贬。",
+  "after": "考研阅读中 no more than（只不过，强调少）、no less than（多达，强调多）也是这一类结构，no 否定的是整个比较，要据此判断作者是在强调少还是强调多。",
+  "reason": "原句“按这个规律判断褒贬”空泛且不准确，补出两个结构的具体含义。"
+ },
+ {
+  "key": "n=9",
+  "field": "structure",
+  "before": "比较对象是上文已指出的数据问题和抽样问题，",
+  "after": "比较对象是上文已指出的几处问题：普查数据动摇了数量说，项圈数据削弱了恐惧说，只测最高的山杨夸大了恢复程度；",
+  "reason": "上文指出的是三处问题（含第7句的恐惧说），原稿漏了一处，也与本句语法点的说法不一致。"
+ },
+ {
+  "key": "n=7",
+  "field": "components[5].role",
+  "before": "主语（University of Wyoming 是名词作定语，修饰 team）",
+  "after": "主语的中心部分（中心词是 team；University of Wyoming 是名词短语作定语，修饰 team）",
+  "reason": "主语是 Arthur Middleton's University of Wyoming team 整体，这一段只是其中心部分，原标注不精确。"
+ },
+ {
+  "key": "n=14",
+  "field": "translation_tip",
+  "before": "ever 的强调意味用“本身”体现。",
+  "after": "ever 没有逐字译出，“本身”突出比较的对象就是那个谣传。",
+  "reason": "“本身”并不对应 ever 的“在任何时候”，原说法把译文与原文的对应关系讲错了。"
+ }
+]
