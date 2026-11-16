@@ -1,0 +1,50 @@
+[
+  {
+    "key": 39,
+    "field": "collocations[1]",
+    "before": {
+      "en": "an unintended by-product",
+      "zh": "意料之外的副作用"
+    },
+    "after": {
+      "en": "an unintended by-product",
+      "zh": "意料之外的附带结果"
+    },
+    "reason": "by-product 是中性的“附带结果”，译为“副作用”带上了负面含义，与本条 distinction 的说明矛盾。"
+  },
+  {
+    "key": 43,
+    "field": "etymology",
+    "before": "来源不完全确定，一般认为与古英语 sipian（浸透）有关。",
+    "after": "来源不完全确定，可能是古英语 sipian（浸透）在方言中的遗留。",
+    "reason": "Etymonline 用的是 perhaps，“一般认为”说得过满。"
+  },
+  {
+    "key": 49,
+    "field": "context_usage",
+    "before": "视频把句末的 within weeks 前移",
+    "after": "视频把第一个分句末尾的 within weeks 前移",
+    "reason": "within weeks 位于 but 之前的第一个分句末尾，不在全句句末。"
+  },
+  {
+    "key": 55,
+    "field": "etymology",
+    "before": "最初指“手工制作”，工业革命后转指“大规模机器生产”。",
+    "after": "最初指“手工制品，手工制作”，后来泛指“（尤指大规模的）生产，制造”。",
+    "reason": "“工业革命后才转义”的时间点无法核实，改为稳妥说法。"
+  },
+  {
+    "key": 56,
+    "field": "usage_detail",
+    "before": "及物短语动词，不用于进行时。",
+    "after": "及物短语动词，表示“占”时一般不用进行时。",
+    "reason": "account for 表“解释、负责”时可用进行时，“不用于进行时”只适用于表比例的用法。"
+  },
+  {
+    "key": 57,
+    "field": "usage_detail",
+    "before": "表示“发出”这一过程时可不可数，如 the emission of light。",
+    "after": "表示“发出”这一过程时常作不可数名词，如 the emission of light。",
+    "reason": "“可不可数”表述含混，改为明确说法。"
+  }
+]

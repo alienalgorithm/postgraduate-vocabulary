@@ -1,0 +1,1657 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "the Pantheon's dome",
+   "predicate": "crowns",
+   "object_or_complement": "the vast chamber below",
+   "explain": "主干是 the Pantheon's dome still crowns the vast chamber below，主谓宾结构。crown 在此是及物动词，意为“位于……的顶部”，宾语是 the vast chamber below。谓语 crowns 为一般现在时，主动语态，描述至今仍然存在的状态，still 强调这种状态在近1,900年后依然延续。"
+  },
+  "components": [
+   {
+    "text": "Nearly 1,900 years after its completion,",
+    "role": "时间状语（名词短语 Nearly 1,900 years 放在介词短语 after its completion 前，表示“在……之后多久”）",
+    "zh": "在其竣工近1,900年后"
+   },
+   {
+    "text": "in about AD 125–128,",
+    "role": "插入语（介词短语，补充说明竣工的年代）",
+    "zh": "约于公元125至128年"
+   },
+   {
+    "text": "the Pantheon's",
+    "role": "定语（名词所有格），修饰 dome",
+    "zh": "它的"
+   },
+   {
+    "text": "dome",
+    "role": "主语",
+    "zh": "穹顶"
+   },
+   {
+    "text": "still",
+    "role": "状语（副词，表示状态延续）",
+    "zh": "依然"
+   },
+   {
+    "text": "crowns",
+    "role": "谓语",
+    "zh": "位于……顶部"
+   },
+   {
+    "text": "the vast chamber",
+    "role": "宾语",
+    "zh": "宏大的殿堂"
+   },
+   {
+    "text": "below.",
+    "role": "后置定语（副词），修饰 chamber",
+    "zh": "下方"
+   }
+  ],
+  "structure": "①主句是 the Pantheon's dome still crowns the vast chamber below：主语 the Pantheon's dome，谓语 crowns，宾语 the vast chamber below。主语前有两个用逗号隔开的成分，读的时候要越过它们找到主语。\n②句首 Nearly 1,900 years after its completion 是时间状语，结构是“时间段 + after + 名词”，表示“在……之后多久”。Nearly 修饰 1,900 years，表示“将近”。its 指后文的 the Pantheon：代词出现在它所指的名词之前，这种用法在句首状语中很常见。\n③in about AD 125–128 是插入语，补充说明竣工的大致年代。about 放在年份前表示“大约”；AD 是“公元”，放在年份之前。\n④句末 below 是副词，放在名词 chamber 之后作后置定语，the chamber below 即“下方的殿堂”。整句以穹顶为主语，用 crown 描述它高踞殿堂之上的位置关系。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "“时间段 + after/before + 名词”表示在某事之后或之前多久",
+    "explain": "英语表示“在某事之后多久”，把表示时间长度的名词短语直接放在 after 前面，构成“时间段 + after + 名词/从句”；表示“之前多久”则用 before。时间段在这里修饰整个介词短语，说明相隔的距离。本句 Nearly 1,900 years after its completion 即“竣工将近1,900年之后”。汉语语序与之相反，要先说“某事之后”，再说“多久”，视频译为“在其竣工近1,900年后”。考研阅读中常见 decades after the war、shortly before his death 等，翻译时要把时间段放到后面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Two weeks after the election, the results were still being disputed in court.",
+      "zh": "选举结束两周后，结果仍在法庭上存在争议。"
+     },
+     {
+      "en": "Only three years after its launch, the app had attracted more than ten million users.",
+      "zh": "这款应用推出仅三年，就吸引了超过一千万用户。"
+     }
+    ]
+   },
+   {
+    "title": "副词作后置定语",
+    "explain": "表示方位的副词 below、above、upstairs、downstairs、nearby、abroad 等可以直接放在名词后面作定语，如 the flat above（楼上的公寓）、the people upstairs（楼上的人）、a trip abroad（出国旅行）。这类副词不能放在名词前作定语。本句 the vast chamber below 指“下方宏大的殿堂”，below 说明殿堂在穹顶的下方，视频译为“下方”并前置。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The noise from the flat above kept us awake for most of the night.",
+      "zh": "楼上公寓传来的噪音吵得我们大半夜都没睡着。"
+     }
+    ]
+   },
+   {
+    "title": "代词先于所指名词出现",
+    "explain": "一般情况下代词回指前文已出现的名词，但当句子以状语开头时，状语中的代词可以指代后面主句里的名词，读者要往后找所指对象。本句句首 its completion 中的 its，指的是后面主句中的 the Pantheon。翻译时汉语通常先交代名词，再用代词或“其”回指，所以视频在句首先补出“万神殿”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In its first year of operation, the new library attracted more than 200,000 visitors.",
+      "zh": "新图书馆开放的第一年就吸引了20多万名读者。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Pantheon",
+    "explain": "罗马万神殿，位于意大利罗马，现存建筑建于罗马皇帝哈德良（Hadrian）在位时期。pantheon 来自希腊语 pantheion，由 pan（所有的）和 theos（神）构成，原指供奉众神的神殿；作普通名词时还可指一个宗教的所有神祇，或比喻某一领域的名人群体，如 the pantheon of great scientists。"
+   },
+   {
+    "term": "AD",
+    "explain": "拉丁语 Anno Domini 的缩写，意为“公元”，一般写在年份前，如 AD 125；“公元前”用 BC，写在年份后，如 300 BC。学术文章中也常用 CE（Common Era，公元）和 BCE（公元前），都写在年份后。"
+   },
+   {
+    "term": "crown",
+    "explain": "熟词僻义：crown 常见义是名词“王冠”、动词“为……加冕”；本句作动词，指建筑物或自然物“位于……的顶部”，如 A castle crowns the hill（山顶上坐落着一座城堡）。还可比喻“使圆满，成为……的顶峰”，如 crown a long career。视频译为“位于……的顶部”。"
+   },
+   {
+    "term": "1,900",
+    "explain": "英语数字从右往左每三位用逗号分隔，1,900 即一千九百。“近1,900年”说明万神殿穹顶已有将近两千年的历史。"
+   }
+  ],
+  "translation_tip": "视频译文“万神殿约于公元125至128年竣工，在其竣工近1,900年后，它的穹顶依然位于下方宏大的殿堂的顶部。”做了这几处处理：①把插入语 in about AD 125–128 提到句首，补出主语“万神殿”和谓语“竣工”，单独译成一个分句，先交代建成年代。②时间状语 Nearly 1,900 years after its completion 按汉语习惯先说事件后说时长，译成“在其竣工近1,900年后”，“其”对应 its。③句首已出现“万神殿”，主句的 the Pantheon's 便译为“它的”，避免重复。④crowns 转译为“位于……的顶部”，宾语“殿堂”嵌在中间；副词定语 below 前置译为“下方”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "it",
+   "predicate": "remains",
+   "object_or_complement": "the world's largest unreinforced concrete dome",
+   "explain": "主干是 it remains the world's largest unreinforced concrete dome，主系表结构。remain 是系动词，意为“仍然是”，名词短语作表语。谓语为一般现在时，表示至今仍然成立的事实。"
+  },
+  "components": [
+   {
+    "text": "About 43 metres in diameter,",
+    "role": "状语（形容词短语，说明主语 it 的大小）",
+    "zh": "直径约43米"
+   },
+   {
+    "text": "it",
+    "role": "主语（指上句的 the Pantheon's dome）",
+    "zh": "穹顶"
+   },
+   {
+    "text": "remains",
+    "role": "系动词（谓语）",
+    "zh": "至今仍是"
+   },
+   {
+    "text": "the world's",
+    "role": "定语（名词所有格），修饰 dome",
+    "zh": "世界上"
+   },
+   {
+    "text": "largest",
+    "role": "定语（形容词最高级），修饰 dome",
+    "zh": "最大的"
+   },
+   {
+    "text": "unreinforced concrete",
+    "role": "定语（名词短语作前置定语，说明穹顶的材料）",
+    "zh": "无钢筋混凝土"
+   },
+   {
+    "text": "dome.",
+    "role": "表语的中心词",
+    "zh": "穹顶"
+   }
+  ],
+  "structure": "①主句是 it remains the world's largest unreinforced concrete dome，主系表结构，it 指上句的 the Pantheon's dome。\n②句首 About 43 metres in diameter 是形容词短语作状语，前面没有连词，也没有动词，说明主语 it 的大小，相当于 Being about 43 metres in diameter。它的逻辑主语就是主句的主语 it，即穹顶。“数字 + 单位 + in diameter”是表示尺寸的固定格式，About 修饰数字，表示“大约”。\n③表语 the world's largest unreinforced concrete dome 中，中心词是 dome，前面有三层定语：the world's（世界上的）、largest（最大的）、unreinforced concrete（无钢筋混凝土的）。unreinforced concrete 是名词短语作前置定语，说明穹顶的材料。\n④本句与上句衔接：上句说穹顶屹立近1,900年，本句补充它的尺寸和地位，并用 unreinforced 一词为下一段讨论现代钢筋混凝土埋下伏笔。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "形容词短语作状语",
+    "explain": "形容词或形容词短语可以单独放在句首或句末，用逗号与主句隔开，作状语，补充说明主语的状态或特征，相当于省略了 being 的分词短语。它的逻辑主语必须是主句的主语，否则就是错误的“悬垂结构”。本句 About 43 metres in diameter 说明主语 it（穹顶）的大小，与视频说明“形容词短语作状语，说明穹顶的大小”一致。考研阅读中常见 Tired and hungry, they...、Unable to pay, he... 这类句首形容词短语，读时要把它和主句主语联系起来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Roughly two kilometres long, the bridge took six years to build.",
+      "zh": "这座桥长约两公里，建造花了六年时间。"
+     },
+     {
+      "en": "Unable to afford the rent, many young graduates move back in with their parents.",
+      "zh": "许多年轻毕业生付不起房租，只好搬回父母家住。"
+     }
+    ]
+   },
+   {
+    "title": "尺寸的两种表达",
+    "explain": "英语表示尺寸常用两种格式：一是“数词 + 单位 + 形容词”，如 3 metres wide、10 metres high、50 metres deep；二是“数词 + 单位 + in + 名词”，如 3 metres in width、43 metres in diameter。diameter（直径）没有对应的形容词可以这样用，所以只能说 in diameter。汉语习惯把维度放在数字前，说“直径约43米”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The crater is about 1.2 kilometres in diameter and 170 metres deep.",
+      "zh": "这个陨石坑直径约1.2公里，深170米。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与最高级连用",
+    "explain": "the world's largest 相当于 the largest ... in the world，名词所有格 the world's 取代了最高级前的定冠词 the，不能写成 the world's the largest。同类表达有 the country's biggest employer、the city's oldest building。写作中用这种格式表达“……之最”比 in the world 放在句末更紧凑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Within a decade, the company had become the country's largest private employer.",
+      "zh": "不到十年，这家公司就成了全国最大的私营雇主。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in diameter",
+    "explain": "直径为……，用在尺寸后面，如 a pipe 5 centimetres in diameter（直径5厘米的管子）。diameter 本身是“直径”，“半径”是 radius。视频译为“直径”。"
+   },
+   {
+    "term": "unreinforced concrete",
+    "explain": "无钢筋混凝土，指没有用钢筋加固的混凝土，与 reinforced concrete（钢筋混凝土）相对。unreinforced 由否定前缀 un- 加过去分词 reinforced 构成，意为“未加固的”。视频说明：没有用钢筋加固的。"
+   },
+   {
+    "term": "remain",
+    "explain": "系动词，意为“仍然是，依然处于（某种状态）”，后接名词或形容词作表语，如 remain a mystery、remain unchanged。视频译为“至今仍是”，“至今”体现了 remain 所含的“到现在还”的意思。"
+   },
+   {
+    "term": "metres",
+    "explain": "metre 的复数，英式拼写，美式拼写为 meter。本文用英式拼写，下文的 recrystallises、per cent 等也是英式写法。"
+   }
+  ],
+  "translation_tip": "视频译文“穹顶直径约43米，至今仍是世界上最大的无钢筋混凝土穹顶。”的处理：①把主语 it 提到句首，明确译为“穹顶”，作全句的话题；原文作状语的形容词短语 About 43 metres in diameter 随之变成对话题的说明“直径约43米”，汉语读来是“主题 + 说明”的流水句。②系动词 remains 译为“至今仍是”，增“至今”表达持续到现在。③三层前置定语按“世界上、最大的、无钢筋混凝土”的顺序排列，与英文顺序一致。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "It",
+   "predicate": "is",
+   "object_or_complement": "an astonishing feat of architecture, and a stubborn puzzle",
+   "explain": "主干是 It is an astonishing feat of architecture, and a stubborn puzzle，主系表结构，两个名词短语由 and 连接，共同作表语。谓语为一般现在时，表示作者的评价。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "role": "主语（指万神殿的穹顶）",
+    "zh": "它"
+   },
+   {
+    "text": "is",
+    "role": "系动词（谓语）",
+    "zh": "是"
+   },
+   {
+    "text": "an astonishing feat",
+    "role": "表语一",
+    "zh": "令人惊叹的壮举"
+   },
+   {
+    "text": "of architecture,",
+    "role": "后置定语（介词短语），修饰 feat",
+    "zh": "建筑史上"
+   },
+   {
+    "text": "and a stubborn puzzle.",
+    "role": "表语二（and 连接的并列表语）",
+    "zh": "也是一道难以解开的谜题"
+   }
+  ],
+  "structure": "①主干是 It is A, and B：主语 It，系动词 is，两个并列表语 an astonishing feat of architecture 和 a stubborn puzzle。It 承接上两句，指万神殿的穹顶。\n②第一个表语中，中心词是 feat，astonishing 是前置定语，of architecture 是介词短语作后置定语，a feat of architecture 即“建筑上的壮举”（视频说明）。\n③and 前加了逗号，使第二个表语与前面隔开，读起来有停顿，起强调作用：穹顶既是壮举，又是难解之谜，后一层意思是全文要讨论的问题。stubborn 原指人“固执的”，这里修饰 puzzle，指问题“难以解决的”。\n④本句是第一段的收束句，由“壮举”转到“谜题”，引出下文对罗马混凝土为何如此耐久的探讨。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "-ing 形容词与 -ed 形容词",
+    "explain": "由动词变来的形容词，-ing 形式表示“令人……的”，多修饰引起这种感受的事物；-ed 形式表示“感到……的”，多修饰人。astonishing 意为“令人惊叹的”，修饰 feat；如果说人“感到惊讶”，要用 astonished。同类词有 surprising/surprised、disappointing/disappointed、interesting/interested。考研写作和完形中常考这组区别，写成 I was very interesting 是典型错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The results were astonishing, even to the researchers who designed the experiment.",
+      "zh": "这些结果令人惊叹，就连设计实验的研究人员也感到意外。"
+     },
+     {
+      "en": "Visitors were astonished at how well the ancient frescoes had survived.",
+      "zh": "游客们惊讶于这些古代壁画竟保存得如此完好。"
+     }
+    ]
+   },
+   {
+    "title": "并列表语与 and 前的逗号",
+    "explain": "系动词后可以跟两个或多个并列的表语，用 and、but、or 连接。两项并列时一般不加逗号；本句在 and 前加逗号，是有意制造停顿，把第二项单独突出，相当于“而且还是”。翻译时常在第二项前重复系动词，用“也是”“又是”把并列关系说清楚。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new museum is a triumph of design, and a headache for its neighbours.",
+      "zh": "这座新博物馆是设计上的杰作，也让周边居民头疼不已。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a feat of architecture",
+    "explain": "建筑上的壮举。feat 指需要非凡技能、力量或勇气才能完成的成就，常见搭配有 a feat of engineering（工程壮举）、no mean feat（了不起的成就）、an impressive feat。视频译为“壮举”。"
+   },
+   {
+    "term": "stubborn",
+    "explain": "熟词僻义：stubborn 常用来形容人“固执的，倔强的”；形容事物时指“难以去除的，难以解决的”，如 a stubborn stain（难以去除的污渍）、stubborn inflation（顽固的通货膨胀）。本句修饰 puzzle，视频译为“难以解开的”。"
+   },
+   {
+    "term": "puzzle",
+    "explain": "名词，谜，难题，常见搭配 remain a puzzle（仍然是个谜）、solve a puzzle；作动词意为“使困惑”，形容词 puzzled（困惑的）、puzzling（令人费解的）。视频译为“谜题”。"
+   },
+   {
+    "term": "architecture",
+    "explain": "不可数名词，既指建筑学，也指某种建筑风格或建筑物的总称，如 Gothic architecture（哥特式建筑）。计算机领域还指系统的“架构”。视频译为“建筑”，加“史上”表示在建筑史范围内。"
+   }
+  ],
+  "translation_tip": "视频译文“它是建筑史上令人惊叹的壮举，也是一道难以解开的谜题。”的处理：①后置定语 of architecture 前置，增译为“建筑史上”，点明这是在整个建筑历史中堪称壮举。②第二个表语前重复系动词，译为“也是”，把 and 的并列关系和逗号带来的强调都体现出来。③stubborn 按与 puzzle 的搭配译为“难以解开的”；不定冠词 a 译为量词“一道”，与“谜题”搭配。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Modern concrete",
+   "predicate": "is usually reinforced",
+   "object_or_complement": "",
+   "explain": "主干是 Modern concrete is usually reinforced，主谓结构，谓语是一般现在时的被动语态，usually 是频度副词，插在助动词 is 和过去分词之间。with embedded steel bars 是介词短语作方式状语，说明用什么加固。一般现在时表示现代建筑中的普遍做法。"
+  },
+  "components": [
+   {
+    "text": "Modern concrete",
+    "role": "主语",
+    "zh": "现代混凝土"
+   },
+   {
+    "text": "is usually reinforced",
+    "role": "谓语（一般现在时被动语态，usually 为频度状语）",
+    "zh": "通常……加固"
+   },
+   {
+    "text": "with embedded steel bars,",
+    "role": "方式状语（介词短语，with 引出加固所用的材料）",
+    "zh": "靠嵌入其中的钢筋"
+   },
+   {
+    "text": "which are prone to corrosion.",
+    "role": "非限制性定语从句，修饰 steel bars",
+    "zh": "而钢筋容易发生锈蚀"
+   }
+  ],
+  "structure": "①主句是 Modern concrete is usually reinforced with embedded steel bars：被动语态，be reinforced with 意为“用……加固”（视频说明）。施动者没有说出，因为重点在混凝土的加固方式，而不在由谁加固。\n②with embedded steel bars 中，embedded 是过去分词作前置定语，修饰 steel bars，表示被动和完成，即“被嵌入（混凝土）的”钢筋。\n③which 引导非限制性定语从句，先行词是 steel bars，which 在从句中作主语；从句谓语 are 用复数，与先行词 steel bars 一致。be prone to 后接名词 corrosion，意为“容易发生锈蚀”。\n④本句开启第二段，从古罗马转到现代：先说现代混凝土的通行做法，再用定语从句点出它的弱点，为下句“钢筋生锈膨胀、混凝土断裂”作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "which 引导非限制性定语从句",
+    "explain": "非限制性定语从句用逗号与先行词隔开，对先行词作补充说明，去掉后主句意思仍然完整；引导词用 which（指物）或 who（指人），不能用 that。which 在从句中可作主语或宾语，本句 which 作主语，指 steel bars，所以从句谓语用复数 are。考研翻译中，非限制性定语从句常拆成独立分句，并重复先行词或用“这”“其”回指，视频即译为“而钢筋容易发生锈蚀”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many older houses still have lead pipes, which can contaminate drinking water.",
+      "zh": "许多老房子仍在使用铅管，而铅管会污染饮用水。"
+     },
+     {
+      "en": "The museum relies heavily on volunteers, who make up nearly half of its staff.",
+      "zh": "这家博物馆在很大程度上依靠志愿者，他们占工作人员的近一半。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时的被动语态",
+    "explain": "一般现在时的被动语态由 am/is/are + 过去分词构成，常用于说明普遍做法、工艺流程或客观事实，施动者不重要或不言自明时省略 by 短语。频度副词 usually、often、always 放在 be 动词之后、过去分词之前。科技类文章大量使用这种结构，翻译时常转为主动或用“靠”“经”“由”等词表达，不一定译出“被”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In many countries, tap water is treated with chlorine to kill bacteria.",
+      "zh": "在许多国家，自来水要用氯处理来杀灭细菌。"
+     }
+    ]
+   },
+   {
+    "title": "单个过去分词作前置定语",
+    "explain": "单个分词作定语通常放在名词前，过去分词表示被动或完成，如 a broken window、frozen food；分词短语作定语则放在名词后。本句 embedded steel bars 中，embedded 表示钢筋“被嵌入”混凝土之中，视频译为“嵌入其中的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Investigators found a hidden camera in the ceiling of the hotel room.",
+      "zh": "调查人员在酒店房间的天花板里发现了一个隐藏的摄像头。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be reinforced with",
+    "explain": "用……加固，视频说明“be reinforced with…：用……加固”，本句译为“靠……加固”。reinforce 意为“加固，加强”，也可用于抽象意义，如 reinforce a stereotype（强化刻板印象）。reinforced concrete 即“钢筋混凝土”。"
+   },
+   {
+    "term": "be prone to",
+    "explain": "容易发生（不好的事），后接名词或动名词，也可接不定式 be prone to do，如 be prone to injury、be prone to flooding。prone 还可与名词构成复合形容词，如 accident-prone（容易出事故的）、flood-prone（易受洪水侵袭的）。视频译为“容易”。"
+   },
+   {
+    "term": "steel bars",
+    "explain": "钢筋，建筑行业也称 rebar（reinforcing bar 的缩写）。视频译为“钢筋”。"
+   },
+   {
+    "term": "corrosion",
+    "explain": "名词，腐蚀，锈蚀，指金属等因化学作用逐渐损坏；动词 corrode，形容词 corrosive（腐蚀性的）。视频译为“锈蚀”。"
+   }
+  ],
+  "translation_tip": "视频译文“现代混凝土通常靠嵌入其中的钢筋加固，而钢筋容易发生锈蚀。”的处理：①被动语态 is reinforced with 没有译成“被……加固”，而是用“靠……加固”表达，方式状语提到动词“加固”之前，符合汉语习惯。②embedded 译为“嵌入其中的”，增“其中”说明钢筋嵌在混凝土里。③非限制性定语从句拆成后一分句，重复先行词“钢筋”代替 which，并加“而”承接，体现“加固材料本身有弱点”的转折意味。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "it（第一分句）；many structures（第二分句）",
+   "predicate": "swells and fractures（第一分句）；are designed（第二分句）",
+   "object_or_complement": "the concrete around it（fractures 的宾语）",
+   "explain": "全句是 and 连接的两个并列分句。第一分句主语 it 带两个并列谓语：swells 是不及物动词，fractures 是及物动词，宾语为 the concrete around it；第二分句 many structures are designed for...，谓语是一般现在时的被动语态。两个分句都用一般现在时，陈述普遍现象。"
+  },
+  "components": [
+   {
+    "text": "As the steel rusts,",
+    "role": "时间状语从句（As 引导，表示“随着”）",
+    "zh": "随着钢筋生锈"
+   },
+   {
+    "text": "it",
+    "role": "主语（指 the steel）",
+    "zh": "它"
+   },
+   {
+    "text": "swells",
+    "role": "谓语一（不及物动词）",
+    "zh": "会膨胀"
+   },
+   {
+    "text": "and fractures",
+    "role": "并列连词 and + 谓语二（及物动词）",
+    "zh": "并使……断裂"
+   },
+   {
+    "text": "the concrete",
+    "role": "宾语（fractures 的宾语）",
+    "zh": "混凝土"
+   },
+   {
+    "text": "around it,",
+    "role": "后置定语（介词短语），修饰 concrete",
+    "zh": "周围的"
+   },
+   {
+    "text": "and many structures",
+    "role": "并列连词 and + 第二分句主语",
+    "zh": "而且许多建筑"
+   },
+   {
+    "text": "are designed for",
+    "role": "谓语（一般现在时被动语态）+ 介词 for",
+    "zh": "被设计为"
+   },
+   {
+    "text": "a lifespan of around 50 years.",
+    "role": "介词宾语（of around 50 years 作后置定语，修饰 lifespan）",
+    "zh": "约50年的使用寿命"
+   }
+  ],
+  "structure": "①句首 As the steel rusts 是 As 引导的时间状语从句（视频说明“当……时”），表示两件事同步发生、逐渐变化，译为“随着”。the steel 回指上句的 steel bars。\n②第一分句主语 it 指 the steel，带两个并列谓语：swells（膨胀，不及物）和 fractures the concrete around it（使周围的混凝土断裂，及物）。around it 是介词短语作后置定语，修饰 concrete，其中 it 也指 the steel（视频说明）。两个动作有因果关系：钢筋生锈后体积膨胀，从内部撑裂混凝土。\n③第二分句 many structures are designed for a lifespan of around 50 years，be designed for 意为“被设计为（满足某种要求）”；a lifespan of around 50 years 中 of 短语说明寿命的长度，around 相当于 about。\n④两个分句由 and 连接，但第二分句不是第一分句的直接结果，而是补充现代建筑的另一个事实：设计寿命只有约50年，与第1句万神殿的近1,900年形成鲜明对比。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "as 引导时间状语从句表示“随着”",
+    "explain": "as 引导时间状语从句时，既可表示“当……时”，也可表示两个变化同步进行，译为“随着”，这时主从句常含有表示变化的动词或比较级，如 rust、grow、rise、become older。as 还可引导原因状语从句（因为）、方式状语从句（正如）和倒装的让步状语从句（Young as he is...），考研阅读和翻译中要根据上下文判断。本句 As the steel rusts 与主句的 swells 同步发生，视频译为“随着钢筋生锈”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the population ages, demand for long-term care will continue to rise.",
+      "zh": "随着人口老龄化，对长期护理的需求将持续上升。"
+     },
+     {
+      "en": "As the ice sheets melt, sea levels rise and coastal towns face more frequent flooding.",
+      "zh": "随着冰盖融化，海平面上升，沿海城镇面临更频繁的洪水。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语中的及物动词与不及物动词",
+    "explain": "同一个主语可以带几个并列谓语，它们的及物性可以不同：不及物动词后不带宾语，及物动词后必须带宾语。本句 swells 不及物，fractures 及物，宾语 the concrete around it 只属于 fractures。swell 不能直接带宾语说“使混凝土膨胀”；fracture 作及物动词意为“使断裂”，视频用“使……断裂”译出它的使动意义。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The river rose overnight and flooded several villages downstream.",
+      "zh": "河水一夜之间上涨，淹没了下游的几个村庄。"
+     }
+    ]
+   },
+   {
+    "title": "be designed for 与 be designed to do",
+    "explain": "be designed for + 名词，表示“为……而设计，设计成满足……”；be designed to do 表示“设计用来做某事”。两种结构都是被动语态，施动者（设计者）一般不说出。本句 be designed for a lifespan of around 50 years 即按约50年的使用寿命来设计，视频说明“be designed for…：被设计为……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new stadium is designed for crowds of up to 60,000.",
+      "zh": "新体育场按最多容纳6万名观众设计。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "rust",
+    "explain": "动词，生锈；名词，铁锈。形容词 rusty 意为“生锈的”，也可比喻技能“生疏的”，如 My French is a bit rusty。视频译为“生锈”。"
+   },
+   {
+    "term": "swell",
+    "explain": "不及物动词，膨胀，肿胀，过去式 swelled，过去分词 swollen 或 swelled；也可指数量“增加”，如 The population swelled to two million。视频译为“膨胀”。"
+   },
+   {
+    "term": "fracture",
+    "explain": "动词，使断裂，使破裂；名词，骨折，裂缝。医学上常用，如 fracture a bone（骨折）。本句视频译为“使……断裂”。"
+   },
+   {
+    "term": "lifespan",
+    "explain": "名词，寿命；指物品时为“使用寿命”，常见搭配 extend the lifespan of、a lifespan of 50 years。视频译为“使用寿命”。"
+   },
+   {
+    "term": "around",
+    "explain": "放在数字前表示“大约”，相当于 about，如 around 50 years。本句前面已有 About、about，作者换用 around 避免重复。"
+   }
+  ],
+  "translation_tip": "视频译文“随着钢筋生锈，它会膨胀，并使周围的混凝土断裂；而且许多建筑被设计为约50年的使用寿命。”的处理：①As 从句保留在句首，译为“随着……”。②两个并列谓语拆成两个短句，swells 加“会”译为“会膨胀”，fractures 用使动句式“并使……断裂”，宾语夹在中间。③后置定语 around it 前置为“周围的”，省去 it，因为“周围”所指已很清楚。④两个分句之间用分号断开，第二分句加“而且”对应 and，表示补充另一个事实；被动语态保留“被”字，译为“被设计为”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Roman concrete（前一分句）；its merit（后一分句）",
+   "predicate": "is not（前一分句）；lies（后一分句）",
+   "object_or_complement": "stronger than its modern counterpart（前一分句的表语）",
+   "explain": "全句是分号连接的两个并列分句。前一分句主系表结构，表语是形容词比较级 stronger，than 短语引出比较对象，not 否定比较；后一分句主谓结构，lie 是不及物动词，in durability 说明长处所在。两个分句都是一般现在时，陈述客观事实。"
+  },
+  "components": [
+   {
+    "text": "Roman concrete",
+    "role": "主语",
+    "zh": "罗马混凝土"
+   },
+   {
+    "text": "is not",
+    "role": "系动词 + 否定词",
+    "zh": "并不"
+   },
+   {
+    "text": "stronger",
+    "role": "表语（形容词比较级）",
+    "zh": "更坚固"
+   },
+   {
+    "text": "than its modern counterpart;",
+    "role": "比较状语（than 引出比较对象）",
+    "zh": "比现代的同等对应物"
+   },
+   {
+    "text": "its merit",
+    "role": "后一分句主语",
+    "zh": "它的长处"
+   },
+   {
+    "text": "lies in",
+    "role": "谓语（lie in：在于）",
+    "zh": "在于"
+   },
+   {
+    "text": "durability.",
+    "role": "介词宾语",
+    "zh": "耐久性"
+   }
+  ],
+  "structure": "①前一分句 Roman concrete is not stronger than its modern counterpart：否定的比较结构，表示两者相比，罗马混凝土并不占优。its modern counterpart 指现代混凝土（视频说明），its 指 Roman concrete。\n②分号后的分句 its merit lies in durability：主语 its merit，谓语 lies，in durability 引出长处所在；lie in 意为“在于”（视频说明）。its 仍指 Roman concrete。\n③两个分句之间用分号连接，没有连词，但语义上是“不在于此，而在于彼”的对照关系：先否定强度，再肯定耐久性。读这类句子时，要把分号后的部分看作作者真正要强调的观点。\n④本句收束第二段：前两句讲现代钢筋混凝土容易锈蚀、寿命短，本句点明罗马混凝土的优势恰恰在耐久性，引出下文对其耐久原因的探究。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号可以连接两个意思紧密相关的独立分句，不用连词；两个分句之间常是对照、解释或补充关系，分号的停顿比句号短。本句前一分句否定“更坚固”，后一分句肯定“耐久性”，相当于 Roman concrete is not stronger..., but its merit lies in durability。考研阅读中，作者常用“A 不是……；B 才是……”的结构表达观点，分号后的内容往往是答题关键。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The film was not a commercial success; its reputation grew only decades later.",
+      "zh": "这部电影在商业上并不成功；它的声誉直到几十年后才逐渐提升。"
+     },
+     {
+      "en": "The new rules did not reduce costs; they merely shifted them to local governments.",
+      "zh": "新规并没有降低成本，只是把成本转嫁给了地方政府。"
+     }
+    ]
+   },
+   {
+    "title": "比较级的否定",
+    "explain": "not + 比较级 + than 表示“并不比……更……”，只否定“更”，不等于“更差”。Roman concrete is not stronger than its modern counterpart 的意思是罗马混凝土并不比现代混凝土更坚固，可能相当，也可能更弱，作者不作判断。考研阅读的细节题常在这里设陷阱，把 not stronger 偷换成 weaker。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Organic vegetables are not necessarily more nutritious than conventionally grown ones.",
+      "zh": "有机蔬菜不一定比普通种植的蔬菜更有营养。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "counterpart",
+    "explain": "名词，指在另一个体系中地位、作用相当的人或物，常用于比较，如 the French minister and her British counterpart（法国部长和她的英国同行）。its modern counterpart 用 counterpart 代替 concrete，避免重复，视频译为“同等对应物”。"
+   },
+   {
+    "term": "merit",
+    "explain": "名词，长处，优点，常用复数，如 the merits of a plan、merits and demerits（优点和缺点）；judge sth on its merits 意为“根据事物本身的优劣来判断”。作动词意为“值得”，如 merit attention。视频译为“长处”。"
+   },
+   {
+    "term": "lie in",
+    "explain": "在于，存在于，主语多为 problem、difficulty、answer、strength 等抽象名词，如 The problem lies in poor management。lie 在此是不及物动词，过去式 lay，过去分词 lain，不能与及物动词 lay（放置，过去式 laid）混淆。"
+   },
+   {
+    "term": "durability",
+    "explain": "名词，耐久性，经久性；形容词 durable（耐用的，持久的）。耐久性指长期抵抗损耗的能力，与 strength（强度）不是一回事。视频译为“耐久性”。"
+   }
+  ],
+  "translation_tip": "视频译文“罗马混凝土并不比现代的同等对应物更坚固；它的长处在于耐久性。”的处理：①否定比较 is not stronger than 译为“并不比……更坚固”，“并”加强否定语气，比较对象放在“比”之后、形容词之前，符合汉语比较句语序。②counterpart 按视频审定译为“同等对应物”，加 modern 译出的“现代的”。③分号照原文保留，后一分句 its merit lies in durability 直译为“它的长处在于耐久性”，与前一分句形成对照。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "the ancient material",
+   "predicate": "seemed to have",
+   "object_or_complement": "a shortcoming",
+   "explain": "主干是 the ancient material seemed to have a shortcoming，主谓宾结构，seem to do 作谓语，have 的宾语是 a shortcoming。谓语为一般过去时，表示过去人们看来是这样，暗示这种看法后来被修正。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "连接副词（表示转折，连接上一段）",
+    "zh": "然而"
+   },
+   {
+    "text": "the ancient material",
+    "role": "主语（指罗马混凝土）",
+    "zh": "这种古代材料"
+   },
+   {
+    "text": "seemed to have",
+    "role": "谓语（seem + 不定式）",
+    "zh": "似乎有"
+   },
+   {
+    "text": "a shortcoming.",
+    "role": "宾语",
+    "zh": "个缺点"
+   }
+  ],
+  "structure": "①句首 Yet 是连接副词，表示转折：上一段刚说罗马混凝土的长处在于耐久性，这里笔锋一转，说它似乎有缺点。\n②the ancient material 是主语，用 material 和 ancient 指代上文的 Roman concrete，属于同义替换，避免重复。\n③seemed to have 是“seem + 不定式”结构，表示从表面看来如此，相当于 It seemed that the ancient material had a shortcoming。\n④谓语用一般过去时 seemed，与上一段的一般现在时形成对比：说的是过去专家们的看法。第三段由此进入“疑点”，下文第9句交代专家过去的解释，第四段再用新研究推翻它。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "seem to do 与 seem to have done",
+    "explain": "seem + 不定式表示“看起来，似乎”，带有说话人的推测或不确定语气。seem to do 表示与 seem 同时的状态，seem to have done 表示在 seem 之前已经发生的事。这个结构可以与 It seems that... 互换：The material seemed to have a flaw = It seemed that the material had a flaw。考研阅读中，seem、appear 等词表明作者在陈述表面现象或他人看法，往往暗示下文会出现转折，做推理题时要留意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The two companies seem to share the same long-term goal.",
+      "zh": "这两家公司似乎有着相同的长期目标。"
+     },
+     {
+      "en": "The suspect seems to have left the country before the warrant was issued.",
+      "zh": "嫌疑人似乎在逮捕令签发之前就已离境。"
+     }
+    ]
+   },
+   {
+    "title": "Yet 作连接副词表示转折",
+    "explain": "yet 放在句首时是连接副词，意为“然而，可是”，与 however 相近，语气比 but 正式，常用于连接两个句子或段落，引出与前文相反或出人意料的内容。yet 还可作副词，用于否定句和疑问句，意为“还，尚”，如 not yet。考研阅读中，句首的 Yet、However、But 常标志作者观点的转折，是定位论点的信号词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked perfect on paper. Yet it collapsed within months of its launch.",
+      "zh": "这个计划在纸面上看起来完美无缺，然而推出不到几个月就失败了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "shortcoming",
+    "explain": "名词，缺点，短处，常用复数，如 have shortcomings、overcome one's shortcomings；近义词有 flaw、defect、weakness。视频译为“缺点”。"
+   },
+   {
+    "term": "the ancient material",
+    "explain": "指罗马混凝土。英语文章为避免重复同一名词，常用上义词或描述性短语替换，如这里用 material（材料）替换 concrete，用 ancient（古代的）与上一段的 modern 对照。阅读时要把这类替换词与原词对应起来，第9句的 these lumps 与第8句的 white chunks of lime 也是这样。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，这种古代材料似乎有个缺点。”的处理：①Yet 译为“然而”，后加逗号，保留转折语气。②the ancient material 译为“这种古代材料”，增“这种”回指罗马混凝土，使上下文衔接。③seemed to have 译为“似乎有”，不定冠词 a 译为口语化的量词“个”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "It",
+   "predicate": "is dotted",
+   "object_or_complement": "",
+   "explain": "主干是 It is dotted with white chunks of lime，is dotted 是一般现在时的被动形式，dot A with B 意为“在 A 上点缀 B”，用于被动时 be dotted with 表示“散布着，布满”，描述状态，with 引出散布的东西。known as lime clasts 是过去分词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "role": "主语（指 the ancient material，即罗马混凝土）",
+    "zh": "它的内部"
+   },
+   {
+    "text": "is dotted with",
+    "role": "谓语（be dotted with：散布着），with 引出散布的东西",
+    "zh": "散布着"
+   },
+   {
+    "text": "white chunks of lime,",
+    "role": "介词 with 的宾语",
+    "zh": "白色的石灰小块"
+   },
+   {
+    "text": "known as lime clasts.",
+    "role": "后置定语（过去分词短语），修饰 chunks",
+    "zh": "称为石灰碎屑"
+   }
+  ],
+  "structure": "①主句 It is dotted with white chunks of lime：It 指上句的 the ancient material；be dotted with 意为“散布着，布满”（视频说明），是被动形式，但表示的是状态，不强调动作。\n②white chunks of lime 中，中心词是 chunks，white 作前置定语，of lime 说明小块的材料。\n③known as lime clasts 是过去分词短语，修饰 chunks（视频说明），相当于定语从句 which are known as lime clasts，用来引出专业术语。名词和分词短语之间有逗号，表示补充说明。\n④本句具体说明上句所说的“缺点”：混凝土中有白色的石灰小块。lime clasts 这一术语在下文反复出现，第9句改称 these lumps，第11句又用 The clasts。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "known as 引出名称的过去分词短语",
+    "explain": "known as 意为“被称为，叫作”，是过去分词短语，常放在名词后作定语，相当于 which is/are known as，用于引出术语、别名或正式名称；前面加逗号时属于补充说明。不要与 be known for（因……而出名）混淆。考研科普类文章常用 known as、called、termed 引出专业名词，读到这里就知道后面是一个需要记住的概念。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Tiny fragments of plastic, known as microplastics, have been found in drinking water around the world.",
+      "zh": "被称为微塑料的微小塑料碎片已在世界各地的饮用水中被发现。"
+     },
+     {
+      "en": "The phenomenon, known as the urban heat island effect, makes cities warmer than the surrounding countryside.",
+      "zh": "这种被称为城市热岛效应的现象使城市比周边乡村更热。"
+     }
+    ]
+   },
+   {
+    "title": "be dotted with 表示状态的被动结构",
+    "explain": "有些被动结构描述的是状态而非动作，be dotted with、be covered with、be filled with、be lined with 等都属于这一类，后接 with 引出构成这种状态的事物。翻译时常译成主动的“散布着”“布满”“排列着”，不必译出“被”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hillside is dotted with small stone cottages and grazing sheep.",
+      "zh": "山坡上散布着小石屋和吃草的羊群。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "lime",
+    "explain": "熟词僻义：lime 常见义是“酸橙，青柠”；本文指“石灰”，是石灰石经煅烧等方法制成的建筑材料，下文的 quicklime（生石灰）也属于石灰。视频译为“石灰”。"
+   },
+   {
+    "term": "chunk",
+    "explain": "名词，厚块，大块，如 chunks of ice、a chunk of rock；口语中 a chunk of 也可表示“相当大的一部分”，如 a large chunk of the budget。视频译为“小块”。"
+   },
+   {
+    "term": "clast",
+    "explain": "地质学术语，指岩石或矿物的碎屑、碎块。lime clasts 即“石灰碎屑”，视频译为“碎屑”。"
+   },
+   {
+    "term": "known as 与 known for",
+    "explain": "known as 后接名称，意为“被称为”；known for 后接原因，意为“因……而出名”，如 The region is known for its wine。"
+   }
+  ],
+  "translation_tip": "视频译文“它的内部散布着白色的石灰小块，称为石灰碎屑。”的处理：①主语 It 增译为“它的内部”，说明石灰块是分布在混凝土内部的。②被动的 is dotted with 译为主动的“散布着”，不用“被”字。③过去分词短语 known as lime clasts 没有前置成定语，而是拆成后一个短句“称为石灰碎屑”，避免“被称为石灰碎屑的白色的石灰小块”这样的长定语。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Experts",
+   "predicate": "ascribed",
+   "object_or_complement": "these lumps（ascribe A to B 中的 A）",
+   "explain": "主干是 Experts long ascribed these lumps to sloppy mixing or inferior raw ingredients，结构是 ascribe A to B（把 A 归因于 B），these lumps 是宾语，to 引出原因。谓语为一般过去时，与副词 long 连用，表示过去长期持有的看法，暗示这种看法现在已被质疑。"
+  },
+  "components": [
+   {
+    "text": "Experts",
+    "role": "主语",
+    "zh": "专家"
+   },
+   {
+    "text": "long",
+    "role": "时间状语（副词，意为“长期以来”）",
+    "zh": "长期以来"
+   },
+   {
+    "text": "ascribed",
+    "role": "谓语（ascribe A to B 结构）",
+    "zh": "把……归因于"
+   },
+   {
+    "text": "these lumps",
+    "role": "宾语（ascribe A to B 中的 A）",
+    "zh": "这些块状物"
+   },
+   {
+    "text": "to sloppy mixing or inferior raw ingredients,",
+    "role": "介词短语（ascribe A to B 中的 to B，引出原因；or 连接两个并列的介词宾语）",
+    "zh": "马马虎虎的搅拌或者是比较次的原材料"
+   },
+   {
+    "text": "a defect",
+    "role": "同位语（概括说明前面所说的情况）",
+    "zh": "这种缺陷"
+   },
+   {
+    "text": "that,",
+    "role": "关系代词，引导限制性定语从句修饰 a defect，在从句中作 avoided 的宾语",
+    "zh": "（关系代词，指代 a defect，不单独译出）"
+   },
+   {
+    "text": "they assumed,",
+    "role": "插入语（插在定语从句中）",
+    "zh": "他们认为"
+   },
+   {
+    "text": "a more conscientious builder would have avoided.",
+    "role": "定语从句的主语和谓语（would have avoided 为虚拟语气）",
+    "zh": "换一个更加认真负责的建筑工就能避免"
+   }
+  ],
+  "structure": "①主干 Experts long ascribed these lumps to sloppy mixing or inferior raw ingredients：ascribe A to B 意为“把 A 归因于 B”（视频说明）。these lumps 回指上句的 white chunks of lime；or 连接两个并列的原因：sloppy mixing（马虎的搅拌）和 inferior raw ingredients（劣质的原材料）。long 是副词，放在谓语前，意为“长期以来”。\n②逗号后的 a defect 是名词短语作同位语，补充说明前面说的情况（视频说明），把“块状物源于搅拌马虎或原料低劣”概括为“一种缺陷”。\n③that 引导限制性定语从句，修饰 a defect，that 在从句中作 avoided 的宾语。从句的正常语序是 a more conscientious builder would have avoided (it)，they assumed 是插入语，插在关系代词 that 之后，表示这是专家们的看法。\n④would have avoided 是虚拟语气，表示与过去事实相反的假设：条件没有用 if 从句说出，而是隐含在主语 a more conscientious builder 中，相当于 if the builder had been more conscientious, he would have avoided it。\n⑤本句交代旧观点：专家把石灰块看作施工质量问题。第四段的新研究将推翻这一看法，所以作者用 long、they assumed 表明这只是他们过去的认定。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "含蓄虚拟条件句",
+    "explain": "虚拟语气的条件不一定用 if 从句表达，也可以隐含在主语、介词短语（without、but for）、副词（otherwise）或上下文中，这叫含蓄条件句。与过去事实相反时，主句用 would/could/might have done。本句 a more conscientious builder would have avoided 中，条件藏在主语里：如果建筑工更认真负责，就能避免。视频译为“换一个更加认真负责的建筑工就能避免”，把隐含条件译了出来。考研阅读和翻译常考这种没有 if 的虚拟语气，要能识别 would have done 背后的假设。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A more careful editor would have caught the error before the book went to print.",
+      "zh": "要是编辑更细心一些，就能在书付印前发现这个错误。"
+     },
+     {
+      "en": "Without the volunteers' help, the festival would have been cancelled.",
+      "zh": "要是没有志愿者的帮助，这次节日活动早就取消了。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句中的插入语",
+    "explain": "they think、I believe、he said、they assumed 这类插入语可以放在关系代词后面，用逗号隔开，表示从句内容是某人的看法。去掉插入语后，从句结构完整：a defect that a more conscientious builder would have avoided。分析时要先拿掉插入语，再判断关系代词在从句中的成分，本句 that 作 avoided 的宾语。考研语法和完形中常见 who I think、which I believe 等结构，关系代词的选择由从句本身决定，不受插入语影响。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The council hired a consultant who, it believed, could cut costs without closing any libraries.",
+      "zh": "市议会聘请了一位顾问，认为他能在不关闭任何图书馆的情况下削减开支。"
+     },
+     {
+      "en": "The bridge was designed by engineers who, critics argued, had ignored repeated safety warnings.",
+      "zh": "批评者认为，设计这座桥的工程师无视了一再发出的安全警告。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语概括前文",
+    "explain": "句末用逗号引出一个名词短语，概括、评价前面整句话所说的情况，后面常跟定语从句展开说明，这是外刊中很常见的结构，如 ..., a decision that...、..., a move that...。这个名词短语不是修饰某一个词，而是对前面整件事的总结，翻译时常拆开另起一句，用“这”“这种”开头。本句 a defect that... 即把前面所说的情况概括为“这种缺陷”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Prices rose by 12 per cent in a single year, an increase that few economists had predicted.",
+      "zh": "物价在一年之内上涨了12%，这一涨幅几乎没有经济学家预料到。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ascribe A to B",
+    "explain": "把 A 归因于 B，认为 A 是由 B 造成的（视频说明）；常用被动 A is ascribed to B。近义表达有 attribute A to B、put A down to B。ascribe 还可表示“认为某作品出自某人之手”，如 a poem ascribed to Shakespeare。"
+   },
+   {
+    "term": "sloppy",
+    "explain": "形容词，马虎的，草率的，多为口语，如 sloppy work、sloppy thinking；本义是“湿漉漉、稀稀拉拉的”。视频译为“马马虎虎的”。"
+   },
+   {
+    "term": "inferior",
+    "explain": "形容词，较差的，次的，如 inferior goods、inferior quality；比较时说 be inferior to，不用 than，反义词 superior to。视频译为“比较次的”。"
+   },
+   {
+    "term": "raw ingredients",
+    "explain": "原材料。raw 意为“未加工的”，ingredient 指配料、组成成分；本文指制作混凝土的原料。视频译为“原材料”。"
+   },
+   {
+    "term": "conscientious",
+    "explain": "形容词，认真负责的，一丝不苟的，如 a conscientious worker；名词 conscientiousness。易与 conscious（意识到的）混淆，拼写和发音都要注意。视频译为“认真负责的”。"
+   },
+   {
+    "term": "long",
+    "explain": "熟词僻义：long 作副词放在谓语动词前，意为“长期以来，很久”，如 It has long been believed that...。本句视频译为“长期以来”。"
+   }
+  ],
+  "translation_tip": "视频译文“专家长期以来把这些块状物归因于马马虎虎的搅拌或者是比较次的原材料。这种缺陷，他们认为，换一个更加认真负责的建筑工就能避免。”的处理：①原文是一个长句，视频在同位语处断开，拆成两句：第一句是主干，第二句以同位语“这种缺陷”开头，作为话题，“这种”起回指作用。②ascribe A to B 用“把 A 归因于 B”的把字句译出；or 译为“或者是”。③插入语 they assumed 保留在原位置，译为“他们认为”，前后用逗号隔开，保持专家看法的转述语气。④定语从句没有前置，而是译成话题后的说明；虚拟语气 would have avoided 中隐含的条件用“换一个……就能……”译出。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "A study",
+   "predicate": "offered",
+   "object_or_complement": "a different interpretation",
+   "explain": "主干是 A study offered a different interpretation，主谓宾结构。谓语 offered 为一般过去时，主动语态，叙述过去发表的研究。published in Science Advances in January 2023 是过去分词短语作后置定语，修饰 study。"
+  },
+  "components": [
+   {
+    "text": "A study",
+    "role": "主语",
+    "zh": "一项研究"
+   },
+   {
+    "text": "published in Science Advances in January 2023",
+    "role": "后置定语（过去分词短语），修饰 study",
+    "zh": "2023年1月发表于《科学进展》（Science Advances）的"
+   },
+   {
+    "text": "offered",
+    "role": "谓语",
+    "zh": "提出了"
+   },
+   {
+    "text": "a different interpretation.",
+    "role": "宾语",
+    "zh": "不同的解释"
+   }
+  ],
+  "structure": "①主干 A study offered a different interpretation：主语 A study 与谓语 offered 之间隔着一个较长的过去分词短语，阅读时要越过它找到谓语。\n②published in Science Advances in January 2023 是过去分词短语作后置定语，修饰 study（视频说明），相当于 which was published in Science Advances in January 2023。研究是“被发表”的，所以用过去分词。短语内部有两个状语：in Science Advances 说明发表的期刊，in January 2023 说明时间。\n③a different interpretation 中，different 表示与上一段专家的旧看法不同，本句因此成为全文的转折点，第四段以下都在介绍这一新解释。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词后作定语，表示被动或完成，相当于一个省略了“关系代词 + be”的定语从句。本句 A study published in... 相当于 A study which was published in...。长难句中，名词后紧跟 -ed 形式时，要判断它是谓语还是定语：本句真正的谓语是后面的 offered，published 只能作定语。考研阅读中“主语 + 过去分词短语 + 谓语”的结构非常常见，主语和谓语常被隔开很远。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A survey conducted among 2,000 teachers last spring found widespread signs of burnout.",
+      "zh": "去年春天在2,000名教师中开展的一项调查发现，职业倦怠的迹象相当普遍。"
+     },
+     {
+      "en": "Most of the paintings stolen from the gallery have never been recovered.",
+      "zh": "从这家美术馆被盗的画作大部分一直没有找回。"
+     }
+    ]
+   },
+   {
+    "title": "月份和年份前的介词",
+    "explain": "月份、年份或“月份 + 年份”前用 in，如 in January、in 2023、in January 2023；具体某一天前用 on，如 on 6 January 2023。英式英语日期多写成“日 + 月 + 年”，美式多写成“月 + 日 + 年”。汉语按“年、月”从大到小排列，视频译为“2023年1月”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum reopened to the public in March 2021 after a lengthy renovation.",
+      "zh": "经过长时间的翻修，这座博物馆于2021年3月重新向公众开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Science Advances",
+    "explain": "美国科学促进会（AAAS）主办的开放获取学术期刊，与 Science 同属一个期刊系列。英文中期刊名一般用斜体，中文用书名号，视频译为“《科学进展》”，并在括号中保留英文原名。"
+   },
+   {
+    "term": "offer an interpretation",
+    "explain": "提出一种解释。interpretation 意为“解释，诠释”，常见搭配还有 a new interpretation、open to interpretation（可作不同解释）；动词 interpret 还有“口译”之义，interpreter 即“口译员”。视频译为“解释”。"
+   }
+  ],
+  "translation_tip": "视频译文“2023年1月发表于《科学进展》（Science Advances）的一项研究提出了不同的解释。”的处理：①后置的过去分词短语整体前置为定语，以“的”收尾修饰“一项研究”。②短语内部的时间状语 in January 2023 移到最前，按汉语“时间、动作、地点”的顺序译为“2023年1月发表于《科学进展》”。③A study 译为“一项研究”，补出量词“项”；offered 译为“提出了”，与“解释”搭配。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The clasts",
+   "predicate": "were",
+   "object_or_complement": "a by-product of \"hot mixing\" with quicklime",
+   "explain": "主干是 The clasts were a by-product of \"hot mixing\" with quicklime，主系表结构。it suggested 是插入语，说明这是研究的观点。were 为一般过去时，与插入语中的 suggested 保持时态呼应。"
+  },
+  "components": [
+   {
+    "text": "The clasts,",
+    "role": "主语",
+    "zh": "这些碎屑"
+   },
+   {
+    "text": "it suggested,",
+    "role": "插入语（it 指上句的研究）",
+    "zh": "该研究认为"
+   },
+   {
+    "text": "were",
+    "role": "系动词（谓语）",
+    "zh": "是"
+   },
+   {
+    "text": "a by-product",
+    "role": "表语",
+    "zh": "副产品"
+   },
+   {
+    "text": "of \"hot mixing\"",
+    "role": "后置定语（介词短语），修饰 by-product",
+    "zh": "“热混合”的"
+   },
+   {
+    "text": "with quicklime,",
+    "role": "后置定语（介词短语），修饰 hot mixing",
+    "zh": "与生石灰"
+   },
+   {
+    "text": "a reactive lime",
+    "role": "同位语，补充说明 quicklime",
+    "zh": "一种……活性强的石灰"
+   },
+   {
+    "text": "that heats up in water.",
+    "role": "限制性定语从句，修饰 lime（that 在从句中作主语）",
+    "zh": "遇水会变热的"
+   }
+  ],
+  "structure": "①主干是 The clasts were a by-product：主语 The clasts，系动词 were，表语 a by-product。插入语 it suggested 夹在主语和系动词之间，it 指上句的研究（视频说明），表明这是该研究的观点，相当于 It suggested that the clasts were a by-product...。\n②a by-product of \"hot mixing\" with quicklime 中，of \"hot mixing\" 修饰 by-product，说明是什么过程的副产品；with quicklime 修饰 hot mixing，说明与什么混合。hot mixing 加引号，表示这是研究中使用的专门术语。\n③逗号后的 a reactive lime 是同位语，补充说明 quicklime 是什么（视频说明）；that heats up in water 是限制性定语从句，修饰 lime，that 在从句中作主语。\n④本句是新解释的核心：石灰碎屑不是施工缺陷，而是“热混合”工艺的副产品，直接否定了第9句的旧观点。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "转述动词构成的插入语",
+    "explain": "it suggested、experts say、the report claimed 这类“主语 + 转述动词”可以插在句中，用逗号隔开，表示信息来源，相当于把 It suggested that... 中的主句移到句子中间。插入语不影响句子主干，分析时可以先拿掉。本句插入语用过去时 suggested，主干也用过去时 were，这是时态呼应。考研阅读中，插入语往往标明观点的归属：是作者本人的观点，还是转述他人的观点，做观点题时要分清。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy, the minister claimed, would create thousands of jobs.",
+      "zh": "这位部长声称，新政策将创造数千个就业岗位。"
+     },
+     {
+      "en": "Most of the damage, investigators said, had been caused by poor maintenance.",
+      "zh": "调查人员说，大部分损坏是由维护不善造成的。"
+     }
+    ]
+   },
+   {
+    "title": "同位语后接定语从句解释专业名词",
+    "explain": "科技类文章介绍专业名词时，常在名词后用逗号引出一个“a/an + 类别名词 + 定语从句”的同位语，说明它属于哪一类、有什么特点，如 quicklime, a reactive lime that heats up in water。同位语中的类别名词（lime）是中心，定语从句修饰它。翻译时可以用冒号或括号引出解释，也可以把同位语改成前置定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team used graphene, a material that is both extremely thin and remarkably strong.",
+      "zh": "研究团队使用了石墨烯，这是一种极薄而又非常坚固的材料。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "by-product",
+    "explain": "名词，副产品，指生产某种东西时附带产生的东西，如 a by-product of oil refining；也可指某事带来的附带结果，常有意料之外的含义。也写作 byproduct。视频译为“副产品”。"
+   },
+   {
+    "term": "quicklime",
+    "explain": "生石灰，即氧化钙，与水反应时放出大量热。quick 在这里用的是古义“活的”，与 the quick and the dead（生者与死者）中的 quick 相同。视频译为“生石灰”。"
+   },
+   {
+    "term": "reactive",
+    "explain": "形容词，在化学中指“易发生反应的，活性强的”，如 a highly reactive metal；一般语境中指“被动应对的”，与 proactive（积极主动的）相对。视频译为“活性强的”。"
+   },
+   {
+    "term": "heat up",
+    "explain": "变热，升温，不及物；也可作及物动词，意为“加热”，如 heat up the soup；还可比喻局势“变得激烈”，如 The debate is heating up。视频译为“变热”。"
+   },
+   {
+    "term": "suggest",
+    "explain": "本句 suggest 意为“表明，认为”，表示陈述观点，后面的从句用陈述语气；suggest 表示“建议”时，that 从句才用 should + 动词原形。考研完形和语法题常考这一区别。"
+   }
+  ],
+  "translation_tip": "视频译文“这些碎屑，该研究认为，是与生石灰“热混合”的副产品：一种遇水会变热的活性强的石灰。”的处理：①插入语保留在主语之后，it 明确译为“该研究”，与上句衔接，前后用逗号隔开。②两层后置定语前置：with quicklime 译为“与生石灰”，of \"hot mixing\" 译为““热混合”的”，引号照原文保留。③同位语没有前置，用冒号引出放在句末，解释“生石灰”是什么；同位语中的定语从句 that heats up in water 前置为“遇水会变热的”，reactive 译为“活性强的”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "the clasts（前一分句）；their calcium（后一分句）",
+   "predicate": "dissolve（前一分句）；recrystallises（后一分句）",
+   "object_or_complement": "",
+   "explain": "主句是 and 连接的两个并列分句：the clasts dissolve 和 their calcium recrystallises as calcium carbonate，都是主谓结构，dissolve 和 recrystallise 都是不及物动词，as calcium carbonate 说明结晶后的形态。两个分句都用一般现在时，描述普遍发生的化学过程。"
+  },
+  "components": [
+   {
+    "text": "When water seeps into a crack,",
+    "role": "时间状语从句（When 引导）",
+    "zh": "当水渗入裂缝时"
+   },
+   {
+    "text": "the clasts",
+    "role": "前一分句主语",
+    "zh": "碎屑"
+   },
+   {
+    "text": "dissolve",
+    "role": "前一分句谓语（不及物动词）",
+    "zh": "会溶解"
+   },
+   {
+    "text": "and their calcium",
+    "role": "并列连词 and + 后一分句主语（their 指 the clasts）",
+    "zh": "它们的钙"
+   },
+   {
+    "text": "recrystallises as",
+    "role": "后一分句谓语（recrystallise as：重新结晶为）",
+    "zh": "会重新结晶为"
+   },
+   {
+    "text": "calcium carbonate,",
+    "role": "介词 as 的宾语",
+    "zh": "碳酸钙"
+   },
+   {
+    "text": "plugging the gap.",
+    "role": "结果状语（现在分词短语）",
+    "zh": "从而堵住缝隙"
+   }
+  ],
+  "structure": "①句首 When water seeps into a crack 是时间状语从句（视频说明），seep into 意为“渗入”。\n②主句由 and 连接两个并列分句：the clasts dissolve（碎屑溶解）和 their calcium recrystallises as calcium carbonate（它们的钙重新结晶为碳酸钙）。their 指 the clasts；recrystallise as 意为“重新结晶为”（视频说明）。\n③句末 plugging the gap 是现在分词短语作状语，表示结果（视频说明），说明前面这一过程带来的结果：缝隙被堵住。the gap 回指前面的 a crack，换词避免重复。\n④整句按时间顺序描述“自愈”过程：水渗入裂缝，石灰碎屑溶解，钙重新结晶，裂缝被堵住，解释了罗马混凝土为什么耐久。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，用逗号与主句隔开，可以表示主句动作自然带来的结果，相当于 and + 谓语，常译为“从而”“结果”“使得”。它的逻辑主语是前面的主语或整个主句所述的事情。表示意料之中的结果用现在分词，表示出乎意料的结果则多用 only to do。本句 plugging the gap 表示钙重新结晶的结果是堵住了缝隙。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm knocked down power lines across the region, leaving thousands of homes without electricity.",
+      "zh": "暴风雨刮倒了整个地区的电线，导致数千户家庭断电。"
+     },
+     {
+      "en": "Fuel prices rose sharply last winter, forcing many families to cut back on heating.",
+      "zh": "去年冬天燃料价格大涨，迫使许多家庭减少取暖开支。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时描述客观规律和过程",
+    "explain": "描述自然规律、科学原理或反复发生的过程时，主句和 when 从句都用一般现在时，表示“每当……就……”。本句描述的是石灰碎屑遇水后的化学反应，不是某一次具体事件，所以 seeps、dissolve、recrystallises 都用一般现在时。视频译文加“会”，体现这种规律性。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When water freezes, it expands by about nine per cent.",
+      "zh": "水结冰时，体积会膨胀约9%。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "seep into",
+    "explain": "（液体、气体）渗入，慢慢流入，如 Water seeped into the basement；seep through 意为“渗过”。比喻义可指思想、情绪等“渐渐渗透”。视频译为“渗入”。"
+   },
+   {
+    "term": "calcium carbonate",
+    "explain": "碳酸钙，化学式 CaCO3，是石灰石、大理石和白垩的主要成分。calcium 意为“钙”，carbonate 意为“碳酸盐”。"
+   },
+   {
+    "term": "recrystallise",
+    "explain": "动词，重新结晶，由前缀 re-（再，重新）加 crystallise（结晶）构成。-ise 是英式拼写，美式拼写为 recrystallize。crystallise 还有比喻义“（想法、计划）变得明确”。"
+   },
+   {
+    "term": "dissolve",
+    "explain": "动词，溶解，如 Sugar dissolves in water；还可指“解散（议会、组织）”“结束（婚姻、合伙关系）”，如 dissolve parliament。视频译为“溶解”。"
+   },
+   {
+    "term": "plug the gap",
+    "explain": "堵住缝隙；plug 作动词意为“堵塞，塞住”，名词意为“插头，塞子”。plug a gap 还常用于比喻义“弥补缺口、填补空白”，如 plug a gap in the budget。视频译为“堵住”。"
+   }
+  ],
+  "translation_tip": "视频译文“当水渗入裂缝时，碎屑会溶解，它们的钙会重新结晶为碳酸钙，从而堵住缝隙。”的处理：①When 从句保留在句首，译为“当……时”。②两个并列分句按原顺序译成两个短句，都加“会”表示规律性的结果；their 译为“它们的”，回指碎屑。③结果状语 plugging the gap 加“从而”译出，点明前后的因果关系；the gap 译为“缝隙”，与前面的“裂缝”换词，与原文的 crack、gap 对应。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "water",
+   "predicate": "ceased（谓语一）；kept（谓语二）",
+   "object_or_complement": "to trickle（ceased 的宾语）；flowing（kept 后接的现在分词）",
+   "explain": "主干是 water ceased to trickle... but kept flowing...，一个主语带两个由 but 连接的并列谓语：cease to do（不再做某事）和 keep doing（一直做某事）。两个谓语都是一般过去时，主动语态，叙述试验中观察到的结果。"
+  },
+  "components": [
+   {
+    "text": "In tests,",
+    "role": "状语（介词短语，说明情况发生的范围）",
+    "zh": "在试验中"
+   },
+   {
+    "text": "water",
+    "role": "主语",
+    "zh": "水"
+   },
+   {
+    "text": "ceased to",
+    "role": "谓语一（cease to do，to 为不定式符号）",
+    "zh": "便不再"
+   },
+   {
+    "text": "trickle",
+    "role": "不定式 to trickle 的动词部分，作 ceased 的宾语",
+    "zh": "细细流过"
+   },
+   {
+    "text": "through cracked hot-mixed samples",
+    "role": "地点状语（介词短语，cracked 和 hot-mixed 都修饰 samples）",
+    "zh": "开裂的热混合样本"
+   },
+   {
+    "text": "within weeks,",
+    "role": "时间状语（介词短语）",
+    "zh": "在几周之内"
+   },
+   {
+    "text": "but kept flowing",
+    "role": "并列连词 but + 谓语二（keep doing）",
+    "zh": "但却持续流过"
+   },
+   {
+    "text": "through samples without quicklime.",
+    "role": "地点状语（介词短语；without quicklime 作后置定语，修饰 samples）",
+    "zh": "不含生石灰的样本"
+   }
+  ],
+  "structure": "①主语 water 带两个并列谓语，由 but 连接，形成对比：ceased to trickle through cracked hot-mixed samples within weeks（几周内便不再流过开裂的热混合样本）和 kept flowing through samples without quicklime（持续流过不含生石灰的样本）。\n②第一个谓语中，cease to do 意为“不再做……”（视频说明），to trickle 作 ceased 的宾语；through 引出水流经的对象；cracked 和 hot-mixed 是两个并列的前置定语，修饰 samples；within weeks 意为“几周之内”（视频说明），作时间状语。\n③第二个谓语 kept flowing 中，keep doing 意为“一直做……”（视频说明）；without quicklime 是介词短语作后置定语，修饰 samples（视频说明）。\n④句首 In tests 交代这是试验结果。两组样本形成对照：热混合样本开裂后能自行止水，不含生石灰的样本则一直漏水，为上句所说的自愈机制提供了证据。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "cease to do 与 keep doing",
+    "explain": "cease 意为“停止”，后接不定式或动名词都可以，cease to do 常指逐渐不再处于某种状态或不再发生，cease doing 更强调停止正在进行的动作，两者区别不大，cease 比 stop 正式。keep 表示“一直，持续”时只能接动名词，keep doing，不能说 keep to do；keep on doing 则强调反复或坚持。本句 ceased to trickle 与 kept flowing 一停一续，正好形成对照。考研完形常考 keep、stop、cease、quit 等动词后接不定式还是动名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "After the factory closed, the town's population ceased to grow.",
+      "zh": "工厂关闭后，小镇的人口便不再增长。"
+     },
+     {
+      "en": "Despite repeated warnings, the company kept dumping waste into the river.",
+      "zh": "尽管一再受到警告，这家公司仍持续向河里倾倒废料。"
+     }
+    ]
+   },
+   {
+    "title": "but 连接并列谓语表示对比",
+    "explain": "but 可以连接同一主语的两个谓语，表示前后两种情况形成对比或转折。科技类文章描述试验时，常用这种结构对比试验组和对照组的结果。翻译时常在 but 后加“却”，强调反差。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The drug reduced pain in most patients but had little effect on swelling.",
+      "zh": "这种药减轻了大多数患者的疼痛，但对肿胀几乎没有效果。"
+     }
+    ]
+   },
+   {
+    "title": "“副词/形容词 + 过去分词”构成的复合形容词",
+    "explain": "英语常用连字符把副词或形容词与过去分词连成复合形容词，放在名词前作定语，如 well-known、home-made、hot-mixed，表示“以某种方式被处理过的”。本句 hot-mixed samples 即“用热混合方法制成的样本”。以 -ly 结尾的副词与分词连用时一般不加连字符，如 a carefully planned trip。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many shoppers are willing to pay more for home-grown vegetables.",
+      "zh": "许多顾客愿意花更多的钱买自家种的蔬菜。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "trickle",
+    "explain": "动词，（液体）细细地流，滴流，常接 down、through、into，如 Tears trickled down her face；名词 a trickle of water（涓涓细流）。比喻义指人或物“陆续地少量来去”，如 Visitors trickled in。视频译为“细细流过”。"
+   },
+   {
+    "term": "within weeks",
+    "explain": "在几周之内，不到几周，强调时间短；同类表达有 within days、within months、within hours。within 表示“在……之内，不超过”。视频译为“在几周之内”。"
+   },
+   {
+    "term": "cracked",
+    "explain": "形容词，有裂缝的，开裂的，由动词 crack 的过去分词转化而来，如 a cracked mirror。视频译为“开裂的”。"
+   },
+   {
+    "term": "samples without quicklime",
+    "explain": "不含生石灰的样本，在试验中起对照作用：与热混合样本只差生石灰这一条件，结果的不同就能说明生石灰的作用。"
+   }
+  ],
+  "translation_tip": "视频译文“在试验中，水在几周之内便不再细细流过开裂的热混合样本，但却持续流过不含生石灰的样本。”的处理：①句末的时间状语 within weeks 前移，与 ceased to 合译为“在几周之内便不再”，“便”强调时间之短。②trickle through 合译为“细细流过”，through 融入动词“流过”。③两处后置成分都前置为定语：cracked hot-mixed samples 译为“开裂的热混合样本”，samples without quicklime 译为“不含生石灰的样本”。④but 译为“但却”，加强两组结果的对比；kept flowing 译为“持续流过”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "The implications",
+   "predicate": "extend",
+   "object_or_complement": "",
+   "explain": "主干是 The implications extend beyond archaeology，主谓结构。extend 在此是不及物动词，beyond archaeology 是介词短语，说明影响所及的范围。谓语为一般现在时，表示作者对现状的判断。"
+  },
+  "components": [
+   {
+    "text": "The implications",
+    "role": "主语",
+    "zh": "这项发现的意义"
+   },
+   {
+    "text": "extend beyond",
+    "role": "谓语（不及物动词 extend）+ 介词 beyond",
+    "zh": "超出了……的范围"
+   },
+   {
+    "text": "archaeology.",
+    "role": "介词 beyond 的宾语",
+    "zh": "考古学"
+   }
+  ],
+  "structure": "①本句是主谓结构，主语 The implications，谓语 extend，beyond archaeology 是介词短语作状语，extend beyond 意为“超出……的范围”（视频说明）。\n②The implications 中的定冠词 the 表示特指，指上一段所介绍的新发现带来的影响，相当于 the implications of the finding，所以视频增译为“这项发现的意义”。\n③本句是第五段的主题句，起过渡作用：前文讲考古和材料研究，本句宣布其意义不限于考古学，下文转入水泥生产的碳排放和建筑寿命等现实问题。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物动词 + 介词短语表示范围",
+    "explain": "extend 作不及物动词时意为“延伸，扩展”，常接 beyond、to、into、over 等介词，说明延伸到的范围，如 extend beyond the city、extend into the night。本句 extend beyond archaeology 后面没有宾语，archaeology 是介词 beyond 的宾语。extend 作及物动词则意为“延长，扩大，给予”，如 extend a deadline、extend an invitation。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The influence of the movement extended well beyond the art world.",
+      "zh": "这场运动的影响远远超出了艺术界。"
+     }
+    ]
+   },
+   {
+    "title": "定冠词 the 表示承前特指",
+    "explain": "名词前的 the 可以表示“上文所说的那个”，即使上文没有出现完全相同的名词，只要读者能从语境中推知所指，就可以用 the。本句 The implications 指的是新发现的意义，虽然前文没有提到 implications 一词。翻译时常需把 the 隐含的所指补出来，视频译为“这项发现的意义”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The trial involved only 40 patients, but the results were striking.",
+      "zh": "这项试验只有40名患者参加，但结果非常引人注目。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "implications",
+    "explain": "implication 常用复数，指某事可能带来的影响、后果或意义，常见搭配 have implications for（对……有影响）、serious implications；单数还可表示“含意，暗示”。动词 imply（暗示，意味着）。本句视频译为“意义”。"
+   },
+   {
+    "term": "archaeology",
+    "explain": "名词，考古学，英式拼写；美式也写作 archeology。archaeologist 意为“考古学家”，archaeological 意为“考古的”。"
+   },
+   {
+    "term": "extend beyond",
+    "explain": "超出……的范围，延伸到……之外，视频说明“extend beyond…：超出……的范围”，如 The problem extends beyond the classroom。"
+   }
+  ],
+  "translation_tip": "视频译文“这项发现的意义超出了考古学的范围。”的处理：①The implications 增译为“这项发现的意义”，把定冠词 the 隐含的所指明确说出，使本段与上一段衔接。②extend beyond 译为“超出了……的范围”，增“范围”一词，使“超出考古学”的说法在汉语中更完整；“了”表示这种影响已经成立。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Cement manufacture",
+   "predicate": "accounts for",
+   "object_or_complement": "about 8 per cent of global carbon dioxide emissions",
+   "explain": "主干是 Cement manufacture accounts for about 8 per cent of global carbon dioxide emissions，主谓宾结构，account for 在此意为“（在数量上）占”。句末 the think-tank Chatham House reported in June 2018 是后置的转述分句，说明数据来源。accounts 用一般现在时，表示报告发布时仍然成立的现状；reported 用一般过去时，表示报告发布这一过去的动作。"
+  },
+  "components": [
+   {
+    "text": "Cement",
+    "role": "定语（名词作前置定语），修饰 manufacture",
+    "zh": "水泥"
+   },
+   {
+    "text": "manufacture",
+    "role": "主语",
+    "zh": "生产"
+   },
+   {
+    "text": "accounts for",
+    "role": "谓语（account for：占）",
+    "zh": "占据"
+   },
+   {
+    "text": "about 8 per cent of global carbon dioxide emissions,",
+    "role": "宾语",
+    "zh": "全球二氧化碳排放量的约8%"
+   },
+   {
+    "text": "the think-tank Chatham House",
+    "role": "转述分句的主语（the think-tank 与 Chatham House 为同位关系）",
+    "zh": "智囊团查塔姆研究所"
+   },
+   {
+    "text": "reported in June 2018.",
+    "role": "转述分句的谓语 + 时间状语",
+    "zh": "于2018年6月报告说"
+   }
+  ],
+  "structure": "①句子前半部分 Cement manufacture accounts for about 8 per cent of global carbon dioxide emissions 是转述的内容，主谓宾结构。Cement manufacture 是名词作定语修饰名词，“水泥的生产”；account for 意为“（在数量上）占……”（视频说明）。\n②宾语中，about 修饰 8 per cent，of global carbon dioxide emissions 说明是哪个总量的8%；global 和 carbon dioxide 都是 emissions 的前置定语。\n③逗号后的 the think-tank Chatham House reported in June 2018 是后置的转述分句，相当于把 Chatham House reported that... 中的主句移到句末，交代信息来源。the think-tank 与 Chatham House 是同位关系，先说类别，再说名称。\n④本句用具体数据说明上句的 implications：水泥生产是重要的碳排放源，所以能延长寿命的混凝土具有环保意义。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "转述分句后置",
+    "explain": "新闻和外刊常把转述的内容放在句首，把“信息来源 + 转述动词”放在句末，用逗号隔开，如 ..., the government announced、..., officials said。这样先给出最重要的信息，再交代出处。句末的转述分句有时还会主谓倒装，如 ..., said the minister。本句 the think-tank Chatham House reported in June 2018 就是后置的转述分句。翻译时可以保持原顺序，在句末译出“……说”，也可以把来源提前译为“据……报告”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Unemployment fell to its lowest level in a decade, the government announced on Friday.",
+      "zh": "政府周五宣布，失业率降至十年来的最低水平。"
+     },
+     {
+      "en": "The bridge will remain closed until the end of the year, officials said.",
+      "zh": "官员称，这座桥将关闭到年底。"
+     }
+    ]
+   },
+   {
+    "title": "account for 表示所占比例",
+    "explain": "account for 后接百分比、分数或份额时，意为“（在数量上）占”，如 account for 30 per cent of sales；主语是部分，宾语是“比例 + of + 总体”。account for 还常表示“解释，说明”，如 account for the delay；以及“是……的原因”。考研图表作文描述比例时常用 account for、make up、constitute，阅读中则要根据宾语判断是哪个意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Women now account for nearly half of the company's workforce.",
+      "zh": "女性如今占该公司员工总数的近一半。"
+     }
+    ]
+   },
+   {
+    "title": "转述动词为过去时，内容仍用一般现在时",
+    "explain": "转述动词用过去时，被转述的内容一般要相应后移时态；但如果转述的是在说话时仍然成立的事实或现状，可以保留一般现在时。本句 reported 是过去时，accounts for 仍用一般现在时，表示水泥生产占排放量约8%是报告所描述的现状，并非已经过去的事。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The study found that people who sleep less than six hours a night are more likely to catch colds.",
+      "zh": "这项研究发现，每晚睡眠不足六小时的人更容易感冒。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Chatham House",
+    "explain": "查塔姆研究所，位于英国伦敦的国际事务智库，正式名称为皇家国际事务研究所（Royal Institute of International Affairs），Chatham House 是其所在建筑的名称。国际会议中常说的“查塔姆研究所规则”（Chatham House Rule）就以它命名，指与会者可以使用会上获得的信息，但不得透露发言者的身份。"
+   },
+   {
+    "term": "cement 与 concrete",
+    "explain": "cement 是水泥，是混凝土的胶结材料；concrete 是混凝土，由水泥、砂、石子和水等混合而成。本文前四段讲 concrete，本句讲 cement manufacture，即制造混凝土所需的水泥的生产过程。"
+   },
+   {
+    "term": "think-tank",
+    "explain": "名词，智囊团，智库，指研究政策等问题并提出建议的机构；英式常带连字符，也写作 think tank。视频译为“智囊团”。"
+   },
+   {
+    "term": "per cent",
+    "explain": "百分之……，英式多写作两个词 per cent，美式写作 percent；与数字连用时也常写作符号 %。"
+   },
+   {
+    "term": "emissions",
+    "explain": "emission 的复数，指排放物、排放量，常见搭配 carbon emissions、greenhouse gas emissions、cut emissions。视频译为“排放”。"
+   }
+  ],
+  "translation_tip": "视频译文“水泥生产占据全球二氧化碳排放量的约8%，智囊团查塔姆研究所于2018年6月报告说。”的处理：①保持原文语序，先译数据，再在句末用“……报告说”译出后置的转述分句，与原文的信息安排一致。②同位关系 the think-tank Chatham House 译为“智囊团查塔姆研究所”，类别在前，名称在后。③about 8 per cent of... 译为“……的约8%”，“约”紧贴数字；emissions 译为“排放量”，accounts for 译为“占据”。④时间状语 in June 2018 前移到动词前，译为“于2018年6月报告说”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Concrete",
+   "predicate": "could last",
+   "object_or_complement": "",
+   "explain": "主干是 Concrete could last longer，主谓结构。last 在此是不及物动词，意为“持久，耐用”，longer 是副词比较级作状语。could 表示可能性，是对未来的推测，不表示过去。that mends its cracks 是定语从句，修饰 Concrete。"
+  },
+  "components": [
+   {
+    "text": "Concrete",
+    "role": "主语",
+    "zh": "混凝土"
+   },
+   {
+    "text": "that mends its cracks",
+    "role": "限制性定语从句，修饰 Concrete（that 在从句中作主语）",
+    "zh": "能自行修补裂缝的"
+   },
+   {
+    "text": "could",
+    "role": "情态动词（表示可能性）",
+    "zh": "可能"
+   },
+   {
+    "text": "last longer,",
+    "role": "谓语动词 + 状语（副词比较级）",
+    "zh": "更经久耐用"
+   },
+   {
+    "text": "making",
+    "role": "结果状语一（现在分词短语开头）",
+    "zh": "从而使"
+   },
+   {
+    "text": "demolition and rebuilding",
+    "role": "making 的宾语（名词与动名词并列）",
+    "zh": "拆除与重建"
+   },
+   {
+    "text": "rarer",
+    "role": "宾语补足语（形容词比较级）",
+    "zh": "减少"
+   },
+   {
+    "text": "and trimming emissions.",
+    "role": "并列连词 and + 结果状语二（现在分词短语）",
+    "zh": "并削减排放"
+   }
+  ],
+  "structure": "①主干 Concrete could last longer：Concrete 是主语，that mends its cracks 是限制性定语从句，修饰 Concrete（视频说明），that 在从句中作主语，its 指 Concrete。could 表示可能性，last 是不及物动词，意为“持久，耐用”。\n②逗号后是两个由 and 连接的现在分词短语，作结果状语（视频说明）：making demolition and rebuilding rarer 和 trimming emissions。它们的逻辑主语是前面整件事，即混凝土更耐用。\n③making demolition and rebuilding rarer 是“make + 宾语 + 宾语补足语”结构：demolition and rebuilding 是宾语，形容词比较级 rarer 是宾语补足语，make A rarer 意为“使 A 更少见”（视频说明）。\n④两个结果形成因果链：混凝土更耐用，建筑就不必频繁拆除重建，水泥用量减少，排放也随之减少，呼应上句的碳排放数据。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "make + 宾语 + 形容词作宾语补足语",
+    "explain": "make 表示“使……变得”时，后接“宾语 + 宾语补足语”，宾补常是形容词或形容词比较级，说明宾语因此处于的状态，如 make the process faster、make life easier。宾补不能用副词，不能说 make it more rarely。本句 making demolition and rebuilding rarer 中，rarer 说明拆除与重建变得更少见。视频把形容词比较级 rarer 转译为动词“减少”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Remote work has made long daily commutes far less common.",
+      "zh": "远程办公让每天长途通勤的情况少了很多。"
+     },
+     {
+      "en": "The new software makes the approval process faster and cheaper.",
+      "zh": "新软件使审批流程更快、成本更低。"
+     }
+    ]
+   },
+   {
+    "title": "并列的现在分词短语作结果状语",
+    "explain": "句末可以用两个或多个现在分词短语并列，作结果状语，说明主句带来的一连串结果，用 and 连接，结构上要保持平行，都用 -ing 形式。本句 making... and trimming... 并列，说明更耐用的混凝土带来的两个结果。翻译时常用“从而……，并……”“使……，也……”表达。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rail line will cut journey times in half, boosting tourism and creating hundreds of local jobs.",
+      "zh": "这条新铁路将使行程时间缩短一半，从而带动旅游业发展，并创造数百个当地就业岗位。"
+     }
+    ]
+   },
+   {
+    "title": "could 表示推测和可能性",
+    "explain": "could 不只是 can 的过去式，也常用来表示现在或将来的可能性，语气比 can 委婉、不确定，与 might、may 相近。本句 could last longer 是对未来的推测：这样的混凝土有可能更耐用，作者没有把它说成既成事实。考研阅读中，could、may、might 表明作者的语气留有余地，做推理题时不能把可能性当成定论。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A shorter working week could improve both productivity and well-being.",
+      "zh": "缩短每周工作时间可能会同时提高工作效率和幸福感。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mend",
+    "explain": "动词，修补，修理，如 mend a fence、mend shoes；还可比喻“改善，修复（关系）”，如 mend relations。mend one's ways 意为“改过自新”。本句视频译为“修补”，加“能自行”说明是混凝土自己修补。"
+   },
+   {
+    "term": "last",
+    "explain": "熟词僻义：last 作不及物动词，意为“持续，耐用，维持”，如 The meeting lasted two hours、These shoes will last for years。形容词 lasting 意为“持久的”。视频译为“经久耐用”。"
+   },
+   {
+    "term": "demolition",
+    "explain": "名词，拆除，拆毁；动词 demolish。常见搭配 the demolition of old buildings、a demolition order（拆除令）。视频译为“拆除”。"
+   },
+   {
+    "term": "trim",
+    "explain": "动词，本义是“修剪”，如 trim a hedge；引申为“削减，缩减”，如 trim costs、trim the budget，语气上比 cut 更强调小幅削减。视频译为“削减”。"
+   },
+   {
+    "term": "rebuilding",
+    "explain": "动名词，重建，与名词 demolition 并列，共同作 making 的宾语。rebuild 由前缀 re-（再，重新）加 build 构成。"
+   }
+  ],
+  "translation_tip": "视频译文“能自行修补裂缝的混凝土可能更经久耐用，从而使拆除与重建减少，并削减排放。”的处理：①定语从句 that mends its cracks 前置为“能自行修补裂缝的”，增“能自行”体现混凝土自我修补的能力，its 不译。②could 译为“可能”，保留推测语气；last longer 译为“更经久耐用”。③两个结果状语分别用“从而使……”和“并……”译出，体现因果和递进。④宾语补足语 rarer 是形容词比较级，转译为动词“减少”，比“更少见”更通顺。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The white lumps",
+   "predicate": "have prompted",
+   "object_or_complement": "a rethink of construction",
+   "explain": "主干是 The white lumps have prompted a rethink of construction，主谓宾结构。谓语 have prompted 为现在完成时，主动语态，表示过去发生的事对现在产生的影响。once scorned as signs of clumsy workmanship 是过去分词短语作后置定语，修饰 lumps。"
+  },
+  "components": [
+   {
+    "text": "The white lumps",
+    "role": "主语",
+    "zh": "这些白色块状物"
+   },
+   {
+    "text": "once scorned as",
+    "role": "后置定语（过去分词短语）的开头部分，修饰 lumps；scorn A as B 的被动形式",
+    "zh": "曾被轻视为"
+   },
+   {
+    "text": "signs of clumsy workmanship",
+    "role": "as 的宾语（of clumsy workmanship 作后置定语，修饰 signs）",
+    "zh": "拙劣的手艺的标志"
+   },
+   {
+    "text": "have prompted",
+    "role": "谓语（现在完成时）",
+    "zh": "如今却促使人们"
+   },
+   {
+    "text": "a rethink",
+    "role": "宾语",
+    "zh": "重新思考"
+   },
+   {
+    "text": "of construction.",
+    "role": "后置定语（介词短语），修饰 rethink",
+    "zh": "建造之道"
+   }
+  ],
+  "structure": "①主干 The white lumps have prompted a rethink of construction：主语 The white lumps，谓语 have prompted，宾语 a rethink of construction。主语和谓语之间隔着一个过去分词短语。\n②once scorned as signs of clumsy workmanship 是过去分词短语作后置定语，修饰 lumps（视频说明），相当于 which were once scorned as...。scorn A as B 意为“把 A 轻视为 B”（视频说明），这里是被动意义；once 意为“曾经”，与谓语的现在完成时形成“过去被轻视，如今却引发反思”的对比。\n③a rethink of construction 中，rethink 是名词，意为“重新思考”，of 引出思考的对象（视频说明）。\n④本句是全文结尾，The white lumps 回扣第8句的 white chunks of lime 和第9句的 these lumps；signs of clumsy workmanship 回扣第9句的 sloppy mixing 和 a defect，首尾呼应，概括全文：曾被当作缺陷的东西，如今成了启发未来建筑的关键。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "带 once 的过去分词短语作后置定语",
+    "explain": "过去分词短语作后置定语时，前面可以加 once、long、widely 等副词，如 a theory once considered absurd、a method long regarded as outdated，表示名词过去被如何看待；与谓语的现在时或现在完成时搭配，常形成“过去如何，现在却如何”的对比。识别时要注意：名词后的 once scorned 是定语，真正的谓语是后面的 have prompted。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Ideas once dismissed as fantasy are now being tested in laboratories.",
+      "zh": "一些曾被当作空想的想法，如今正在实验室中接受检验。"
+     },
+     {
+      "en": "A drug once used mainly to treat malaria is now being studied as a cancer therapy.",
+      "zh": "一种曾主要用于治疗疟疾的药物，如今正被作为癌症疗法进行研究。"
+     }
+    ]
+   },
+   {
+    "title": "现在完成时表示对现在的影响",
+    "explain": "现在完成时（have/has done）表示过去发生的动作对现在造成的影响或结果，不与 yesterday、in 2023 这类明确的过去时间连用。本句 have prompted 表示石灰块的新解释已经引起反思，这种影响持续到现在。与 once 所示的过去对照，视频译为“如今却促使”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The internet has transformed the way people shop and pay for goods.",
+      "zh": "互联网改变了人们购物和付款的方式。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "scorn A as B",
+    "explain": "把 A 轻视为 B，视频说明“scorn A as B：把 A 轻视为 B”；scorn 作名词意为“蔑视”，pour scorn on 意为“对……嗤之以鼻”；形容词 scornful（轻蔑的）。"
+   },
+   {
+    "term": "workmanship",
+    "explain": "不可数名词，手艺，工艺，做工，如 fine workmanship、poor workmanship。视频译为“手艺”。"
+   },
+   {
+    "term": "clumsy",
+    "explain": "形容词，原义是动作“笨手笨脚的”，引申为“拙劣的，不得体的”，如 a clumsy attempt、a clumsy apology。视频译为“拙劣的”。"
+   },
+   {
+    "term": "prompt",
+    "explain": "动词，促使，引起，如 prompt a debate、prompt sb to do sth；作形容词意为“迅速的，及时的”，如 a prompt reply。视频译为“促使”。"
+   },
+   {
+    "term": "a rethink",
+    "explain": "动词 rethink 转化为名词，意为“重新考虑”，常用于 a rethink of/on sth、prompt/force a rethink，如 The scandal forced a rethink of the hiring policy。视频说明“a rethink of…：对……的重新思考”。"
+   }
+  ],
+  "translation_tip": "视频译文“这些白色块状物曾被轻视为拙劣的手艺的标志，如今却促使人们重新思考建造之道。”的处理：①过去分词短语 once scorned as... 没有前置成定语，而是译成主语后的第一个谓语“曾被轻视为……”，原谓语 have prompted 译成第二个谓语，汉语形成“曾……，如今却……”的对比句式。②“如今却”是增译，对应 once 与现在完成时之间的时间对比和转折意味。③prompted a rethink 译为“促使人们重新思考”，补出“人们”作为“重新思考”的主体；名词 rethink 转译为动词。④of construction 译为“建造之道”，比“建造的重新思考”更凝练。"
+ }
+]

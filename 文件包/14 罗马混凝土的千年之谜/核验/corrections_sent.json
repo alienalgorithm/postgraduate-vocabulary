@@ -1,0 +1,100 @@
+[
+  {
+    "key": "n=1",
+    "field": "grammar[1].explain",
+    "before": "这类副词不能放在名词前作定语。",
+    "after": "其中 below、abroad 作定语时只能后置，不说 the below chamber；above、nearby、upstairs、downstairs 则兼作形容词，也可前置，如 the above example、a nearby town。",
+    "reason": "原说法“这类副词不能放在名词前作定语”不成立：nearby、upstairs、downstairs、above 都可前置（a nearby town、the upstairs room），改为区分说明。"
+  },
+  {
+    "key": "n=1",
+    "field": "knowledge[0].explain",
+    "before": "现存建筑建于罗马皇帝哈德良（Hadrian）在位时期。",
+    "after": "现存建筑在罗马皇帝哈德良（Hadrian）在位时期建成。",
+    "reason": "现存万神殿的始建年代学界有争议（砖印显示或始于图拉真时期），能确定的是在哈德良在位时（117至138年）建成，与原文竣工年代一致，改为稳妥说法。"
+  },
+  {
+    "key": "n=5",
+    "field": "grammar[1].explain",
+    "before": "swell 不能直接带宾语说“使混凝土膨胀”；fracture 作及物动词意为“使断裂”",
+    "after": "swell 在本句是不及物用法，指钢筋自身膨胀；它虽然也有及物用法，但意思是“使（数量）增加”，如 swell the ranks of the unemployed，不表示“使混凝土膨胀”。fracture 作及物动词意为“使断裂”",
+    "reason": "swell 并非只能不及物（Oxford 收有及物用法 swell sth），原说法“swell 不能直接带宾语”错误，改为说明本句用法。"
+  },
+  {
+    "key": "n=5",
+    "field": "knowledge[1].explain",
+    "before": "不及物动词，膨胀，肿胀，",
+    "after": "本句作不及物动词，意为膨胀，肿胀，",
+    "reason": "swell 也有及物用法（如 swell the ranks of），不能笼统定为不及物动词，限定为本句用法。"
+  },
+  {
+    "key": "n=5",
+    "field": "knowledge[4].explain",
+    "before": "本句前面已有 About、about，作者换用 around 避免重复。",
+    "after": "第1、2句表示约数用的是 about，本句用 around，两者在数字前可以互换。",
+    "reason": "“作者为避免重复而换词”是对写作意图的推测，无法证实，改为客观说明。"
+  },
+  {
+    "key": "n=9",
+    "field": "components[4].role",
+    "before": "介词短语（ascribe A to B 中的 to B，引出原因；or 连接两个并列的介词宾语）",
+    "after": "状语（介词短语，ascribe A to B 中的 to B，引出原因；or 连接两个并列的介词宾语）",
+    "reason": "role 只写了“介词短语”，没有说明成分，补出“状语”。"
+  },
+  {
+    "key": "n=9",
+    "field": "knowledge[1].explain",
+    "before": "本义是“湿漉漉、稀稀拉拉的”。",
+    "after": "最早（18世纪初）意为“湿漉漉的，泥泞的”，现在还可形容混合物“太稀的”。",
+    "reason": "“稀稀拉拉”意为稀疏，与 sloppy 的早期义不符；据 Etymonline，sloppy 18世纪初义为“湿漉漉的，泥泞的”，改正。"
+  },
+  {
+    "key": "n=10",
+    "field": "structure",
+    "before": "第四段以下都在介绍这一新解释。",
+    "after": "第四段都在介绍这一新解释，第五段再谈它的意义。",
+    "reason": "第五段讲的是新发现的意义（碳排放、建筑寿命），不是介绍新解释本身，原说法不准确。"
+  },
+  {
+    "key": "n=11",
+    "field": "knowledge[4].explain",
+    "before": "that 从句才用 should + 动词原形。",
+    "after": "that 从句才用（should）+ 动词原形，should 可以省略。",
+    "reason": "suggest 表“建议”时 that 从句的 should 可省略，原说法容易误导成必须用 should。"
+  },
+  {
+    "key": "n=12",
+    "field": "trunk.explain",
+    "before": "dissolve 和 recrystallise 都是不及物动词",
+    "after": "dissolve 和 recrystallise 在本句都作不及物动词",
+    "reason": "dissolve 也可作及物动词（dissolve the sugar in water），限定为本句用法。"
+  },
+  {
+    "key": "n=13",
+    "field": "trunk.object_or_complement",
+    "before": "flowing（kept 后接的现在分词）",
+    "after": "flowing（kept 的宾语，动名词）",
+    "reason": "与本句 grammar 中“keep 只能接动名词”的说法统一，避免同一篇内术语矛盾。"
+  },
+  {
+    "key": "n=13",
+    "field": "knowledge[3].explain",
+    "before": "在试验中起对照作用：与热混合样本只差生石灰这一条件，结果的不同就能说明生石灰的作用。",
+    "after": "在试验中起对照作用：它们开裂后一直漏水，与热混合样本几周内止水形成对比，说明裂缝能自行堵住与生石灰有关。",
+    "reason": "原文没有交代两组样本“只差生石灰这一条件”，属于无法证实的推断，改为只依据原文的说明。"
+  },
+  {
+    "key": "n=13",
+    "field": "translation_tip",
+    "before": "①句末的时间状语 within weeks 前移",
+    "after": "①第一个分句末尾的时间状语 within weeks 前移",
+    "reason": "within weeks 位于 but 之前的第一个分句末尾，不在全句句末。"
+  },
+  {
+    "key": "n=17",
+    "field": "structure",
+    "before": "首尾呼应，概括全文：曾被当作缺陷的东西，如今成了启发未来建筑的关键。",
+    "after": "与第三段的旧看法前后呼应，收束全文：曾被当作缺陷的东西，如今促使人们重新思考建造之道。",
+    "reason": "“成了启发未来建筑的关键”夸大了原文 have prompted a rethink of construction 的意思；呼应的是第三段而非全文开头，改为与原文一致的说法。"
+  }
+]

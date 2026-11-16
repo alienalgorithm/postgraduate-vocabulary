@@ -1,0 +1,78 @@
+[
+  {
+    "key": 2,
+    "field": "etymology",
+    "before": "最终来自拉丁语 domus（房屋），原指“上帝之家”，即教堂。",
+    "after": "最终来自拉丁语 domus（房屋），duomo 源自 domus ecclesiae（教会之屋），指城市的主教堂。",
+    "reason": "据 Etymonline，duomo 来自拉丁语 domus (ecclesiae)“教会之屋”，原写“上帝之家”不准确。"
+  },
+  {
+    "key": 3,
+    "field": "usage_detail",
+    "before": "如 crown achievement（最高成就）",
+    "after": "如 crowning achievement（最高成就）",
+    "reason": "“最高成就”的固定说法是 crowning achievement，crown achievement 不是地道搭配。"
+  },
+  {
+    "key": 6,
+    "field": "collocations[2]",
+    "before": {
+      "en": "measure sth in diameter",
+      "zh": "测量某物的直径"
+    },
+    "after": {
+      "en": "measure 2 metres in diameter",
+      "zh": "直径为2米"
+    },
+    "reason": "measure sth in diameter 不是地道搭配；in diameter 与不及物动词 measure 连用时说 measure + 尺寸 + in diameter。"
+  },
+  {
+    "key": 6,
+    "field": "usage_detail",
+    "before": "形容词 diametrical 常用于 diametrically opposed（截然相反的）",
+    "after": "副词 diametrically 常用于 diametrically opposed（截然相反的）",
+    "reason": "diametrically opposed 中用的是副词 diametrically，原文写成“形容词 diametrical”自相矛盾。"
+  },
+  {
+    "key": 11,
+    "field": "etymology",
+    "before": "来源不确定，一般认为可能与 stub（树桩）有关，取树桩难以拔除之意。",
+    "after": "来源不确定，可能与古英语 stybb（树桩，即 stub 的前身）有关。",
+    "reason": "Etymonline 只说“或与古英语 stybb 有关”，“取树桩难以拔除之意”是无法证实的解释，删去。"
+  },
+  {
+    "key": 13,
+    "field": "usage_detail",
+    "before": "reinforced glass（强化玻璃）",
+    "after": "glass-reinforced plastic（玻璃钢）",
+    "reason": "reinforced glass 不是“强化玻璃”的通行说法（钢化玻璃是 toughened/tempered glass），换成确实常用的术语。"
+  },
+  {
+    "key": 15,
+    "field": "usage_detail",
+    "before": "nerves of steel 意为“钢铁般的意志”。",
+    "after": "nerves of steel 意为“临危不乱，胆量过人”。",
+    "reason": "nerves of steel 指在危险或压力下非常镇定，不是“钢铁般的意志”。"
+  },
+  {
+    "key": 27,
+    "field": "etymology",
+    "before": "dot 在古英语中写作 dott，指疖子的顶端；“小圆点”的意思16世纪才出现。",
+    "after": "dot 在古英语中写作 dott，指疖子的顶端，后来才有“小圆点”的意思。",
+    "reason": "“小圆点”一义的出现年代无法可靠核实，删去具体世纪。"
+  },
+  {
+    "key": 28,
+    "field": "etymology",
+    "before": "一般认为是 chuck（块，木块）的变体",
+    "after": "可能是 chuck（块，木块）的变体",
+    "reason": "Etymonline 用的是 perhaps，“一般认为”说得过满。"
+  },
+  {
+    "key": 30,
+    "field": "usage_detail",
+    "before": "作者用 ascribe 时往往并不认同这种归因，需结合上下文判断态度。",
+    "after": "ascribe 本身是中性词，作者是否认同这种归因要看上下文：本文用 long 和过去时转述专家旧说，下文新研究随即推翻了它。",
+    "reason": "ascribe 不含“作者不认同”的意味，原说法以偏概全，改为结合本文说明。"
+  }
+]
