@@ -1,0 +1,58 @@
+[
+ {
+  "key": 31,
+  "field": "usage_detail",
+  "before": "指人时意为“犯人，犯错的人”，较口语，如",
+  "after": "指人时意为“犯人，犯错的人”，如",
+  "reason": "Oxford、Cambridge 均未把 culprit 标为口语，删去“较口语”"
+ },
+ {
+  "key": 34,
+  "field": "ipa_uk",
+  "before": "/ˈɡreɪ mætə(r)/",
+  "after": "/ˌɡreɪ ˈmætə(r)/",
+  "reason": "Oxford/Cambridge：grey matter 主重音在 matter，grey 为次重音"
+ },
+ {
+  "key": 34,
+  "field": "ipa_us",
+  "before": "/ˈɡreɪ mætər/",
+  "after": "/ˌɡreɪ ˈmætər/",
+  "reason": "Oxford/Cambridge：gray matter 主重音在 matter，gray 为次重音"
+ },
+ {
+  "key": 39,
+  "field": "context_usage",
+  "before": "两组人其他条件相当，只在是否需要灵活认路这一点上不同",
+  "after": "两组人驾驶经验和压力相当，关键区别在于是否需要灵活认路",
+  "reason": "原文只说经验和压力相当，“其他条件相当、只在一点上不同”说过头"
+ },
+ {
+  "key": 41,
+  "field": "etymology",
+  "before": "动词“抓住，揪住”由此发展而来，后来用于橄榄球、足球中的“擒抱，抢断”，并引申为“对付，处理（难题）”。",
+  "after": "动词“揪住，与……较量”由此发展而来，一方面引申为“对付，处理（难题）”，另一方面用于橄榄球、足球中的“擒抱，抢断”。",
+  "reason": "据 Etymonline，“处理难题”义并非由体育义引申，改正引申关系"
+ },
+ {
+  "key": 44,
+  "field": "context_usage",
+  "before": "这一结果否定了“先天差异”的推测",
+  "after": "这一结果不支持“先天差异”的推测",
+  "reason": "原文用 suggests 表推断，“否定了”语气过强"
+ },
+ {
+  "key": 58,
+  "field": "etymology",
+  "before": "由 intense（强烈的）加后缀 -ive 构成。intense 经法语来自拉丁语 intensus（拉紧的，紧张的），是 intendere（伸展，拉紧）的过去分词，由 in- 和 tendere（伸展）构成。同源词有 intend（打算）、tension（紧张）、extend（延伸）。",
+  "after": "来自中世纪拉丁语 intensivus（也经法语 intensif），源于拉丁语 intensus（拉紧的，紧张的），即 intendere（伸展，拉紧）的过去分词，intendere 由 in- 和 tendere（伸展）构成。intensive 与 intense（强烈的）同源，并非在英语中由 intense 加 -ive 构成；同源词还有 intend（打算）、tension（紧张）、extend（延伸）。",
+  "reason": "据 Etymonline，intensive 来自中世纪拉丁语 intensivus，不是英语中 intense + -ive 构成"
+ },
+ {
+  "key": 58,
+  "field": "context_usage",
+  "before": "限定词 intensive 说明",
+  "after": "修饰语 intensive 说明",
+  "reason": "intensive 是形容词，不是语法意义上的“限定词”，术语误用"
+ }
+]

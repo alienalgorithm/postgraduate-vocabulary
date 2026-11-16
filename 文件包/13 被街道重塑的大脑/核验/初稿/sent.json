@@ -1,0 +1,1670 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "（祈使句省略主语 you）；a London cabbie",
+   "predicate": "Name；will rattle off",
+   "object_or_complement": "two addresses（Name 的宾语）；the quickest route（rattle off 的宾语）",
+   "explain": "全句是“祈使句 + and + 陈述句”结构：前半句 Name two addresses 是省略主语 you 的祈使句，主谓宾结构；后半句 a London cabbie will rattle off the quickest route 也是主谓宾结构，谓语 will rattle off 为一般将来时，主动语态。前一分句在意义上相当于条件状语从句，即 If you name two addresses, a London cabbie will rattle off the quickest route。"
+  },
+  "components": [
+   {
+    "text": "Name",
+    "zh": "随便说出",
+    "role": "谓语（祈使句，省略主语 you；name 作及物动词，意为“说出”）"
+   },
+   {
+    "text": "two addresses",
+    "zh": "两个地址",
+    "role": "宾语"
+   },
+   {
+    "text": "and",
+    "zh": "就",
+    "role": "并列连词，连接祈使句和陈述句，表示条件与结果（只要……就……）"
+   },
+   {
+    "text": "a London cabbie",
+    "zh": "伦敦的出租车司机",
+    "role": "主语（London 是名词作前置定语）"
+   },
+   {
+    "text": "will rattle off",
+    "zh": "能脱口说出",
+    "role": "谓语（will + 短语动词 rattle off）"
+   },
+   {
+    "text": "the quickest route.",
+    "zh": "最快的路线",
+    "role": "宾语（quick 的最高级作前置定语）"
+   }
+  ],
+  "structure": "①前半句 Name two addresses 是祈使句，省略了主语 you。这里的 you 不是指某一个具体的人，而是泛指任何人。name 在此是及物动词，意为“说出（名称）”，two addresses 作宾语。\n②and 连接前后两个分句，但不是简单的并列，而是表示条件和结果：前面是假设的条件，后面是满足条件后必然出现的结果，相当于 If you name two addresses, ...。视频说明“祈使句 + and：只要……就……”指的就是这种关系。\n③后半句主语 a London cabbie，London 是名词作前置定语，说明是伦敦的出租车司机；不定冠词 a 表示“任何一位”。谓语 will rattle off 由 will 加短语动词构成，will 表示在上述条件下必然出现的情况；the quickest route 作宾语。\n④the quickest route 中 quickest 是 quick 的最高级，前面加定冠词 the。全句作为开篇，用一个日常场景展示伦敦出租车司机对道路的熟悉，下一句用 That prowess 概括这种能力。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "祈使句 + and/or + 陈述句表示条件",
+    "explain": "“祈使句 + and + 陈述句（多含 will）”在意义上等于“If you do..., ... will...”，表示只要满足前面的条件，就会出现后面的结果；“祈使句 + or + 陈述句”则表示“否则”，相当于 If you don't..., ...。本句 Name two addresses and a London cabbie will rattle off the quickest route = If you name two addresses, a London cabbie will rattle off the quickest route。翻译时常译成“只要……就……”“一……就……”。易错点：and 后面的分句是陈述句，不能再用祈使句；把前半句改成 If 从句后，就不能再保留 and。考研写作中用这种句式可以使表达简洁有力。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Read the instructions carefully, and you will avoid most common mistakes.",
+      "zh": "仔细阅读说明，你就能避免大多数常见错误。"
+     },
+     {
+      "en": "Leave now, or you will miss the last train.",
+      "zh": "现在就走，否则你会赶不上末班车。"
+     }
+    ]
+   },
+   {
+    "title": "will 表示必然结果或惯常特征",
+    "explain": "will 除了表示将来，还可以表示在某种条件下根据经验必然会发生的事，或人和事物的惯常特征，如 Oil will float on water。本句不是预言某一位司机将来会做什么，而是说伦敦出租车司机普遍具备的能力：只要说出地址，他们就会说出路线。视频把 will 译为“能”，体现的正是这种稳定的能力和必然的结果。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Water will boil at a lower temperature at high altitude.",
+      "zh": "在高海拔地区，水的沸点会更低。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cabbie",
+    "explain": "口语用词，指出租车司机，相当于 cab driver、taxi driver，视频译为“出租车司机”。cab 是 cabriolet（一种轻便马车）的缩略，后来指出租车。本文第5、7、11句的复数 cabbies 都指出租车司机。"
+   },
+   {
+    "term": "rattle off",
+    "explain": "短语动词，意为“一口气说出，流利地报出（名单、数字、事实等）”，如 rattle off a list of names。rattle 本义是“发出咔哒声”。视频译为“脱口说出”，突出不假思索、张口就来。"
+   },
+   {
+    "term": "name（动词）",
+    "explain": "熟词僻义：name 作动词可以表示“说出……的名称，列举”，如 Name three countries in Africa（说出三个非洲国家）；还可以表示“任命”，如 name sb (as) chairman。本句 Name two addresses 意为“说出两个地址”，视频译为“随便说出两个地址”。"
+   },
+   {
+    "term": "London cabbie",
+    "explain": "指伦敦持照出租车的司机。第3句说明，他们要拿到执照，必须先通过名为 the Knowledge 的考试。"
+   }
+  ],
+  "translation_tip": "视频译文“随便说出两个地址，伦敦的出租车司机就能脱口说出最快的路线。”的处理：①“祈使句 + and”的条件关系按视频说明译出，译文没有出现“只要”，而是用后半句的“就”表达条件和结果，前后两个分句紧凑相连。②Name 译为“随便说出”，“随便”是增译，表示任意两个地址都可以，突出司机的熟练。③will 译为“能”，表达能力和必然结果；rattle off 译为“脱口说出”。④名词定语 London 前置为“伦敦的”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "That prowess",
+   "predicate": "is",
+   "object_or_complement": "hard-won（表语）",
+   "explain": "主系表结构。is 是系动词，复合形容词 hard-won 作表语。谓语为一般现在时，陈述一个普遍成立的事实。"
+  },
+  "components": [
+   {
+    "text": "That prowess",
+    "zh": "这份本领",
+    "role": "主语（That 回指上句描述的能力）"
+   },
+   {
+    "text": "is",
+    "zh": "（系动词，与 hard-won 合译为“来之不易”）",
+    "role": "系动词（谓语）"
+   },
+   {
+    "text": "hard-won.",
+    "zh": "来之不易",
+    "role": "表语（复合形容词）"
+   }
+  ],
+  "structure": "①主语 That prowess：that 是指示限定词，回指上句描述的能力，即随便说出两个地址，司机就能脱口说出最快路线。prowess 是不可数名词，意为“高超的本领”。\n②系动词 is 加表语 hard-won。hard-won 由副词 hard（艰难地）和 win 的过去分词 won 构成，意为“经过艰苦努力才赢得的”（视频说明：费尽辛苦才得来的）。过去分词 won 带有被动和完成的意味：本领是被“赢得”的。\n③篇章上，本句是承上启下的过渡句：上句写能力的表现，本句点出它得来不易，第3、4句再用考试范围、准备年限和通过率具体说明难在哪里。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "复合形容词：副词/形容词 + 过去分词",
+    "explain": "英语常用“副词或形容词 + 过去分词”构成复合形容词，中间加连字符，含有被动意味，如 hard-won（艰难赢得的）、hard-earned（辛苦挣来的）、well-known（众所周知的）、long-awaited（期待已久的）。这类词既可以作前置定语（a hard-won victory），也可以作表语（The victory was hard-won）。本句 hard 是副词，意为“努力地，艰难地”，不是形容词“坚硬的”。考研写作中恰当使用这类复合形容词，可以使表达更紧凑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The team celebrated its hard-won victory over the defending champions.",
+      "zh": "球队为战胜卫冕冠军这场来之不易的胜利而欢庆。"
+     },
+     {
+      "en": "Many workers spend their hard-earned savings on housing.",
+      "zh": "许多工人把辛苦攒下的积蓄花在了住房上。"
+     }
+    ]
+   },
+   {
+    "title": "指示限定词 that 回指上文",
+    "explain": "this、that 加名词，可以概括回指前文的一整段内容，而不只是某一个名词。本句 That prowess 把上句描述的整个场景概括为“这份本领”。考研阅读中的代词指代题和上下文衔接题常考这种回指，答案要到前文去找具体所指。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company cut its prices by half. That decision doubled its sales within a year.",
+      "zh": "公司把价格降了一半。这一决定使其销量在一年内翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "prowess",
+    "explain": "正式用词，意为“高超的技艺，非凡的本领”，常与 athletic、military、academic、technical 等形容词搭配；原指战场上的英勇。视频译为“本领”。"
+   },
+   {
+    "term": "hard-won",
+    "explain": "形容词，意为“来之不易的，费尽辛苦才得来的”，视频说明为“费尽辛苦才得来的”。won 是 win 的过去分词，读 /wʌn/，与 one 同音。"
+   }
+  ],
+  "translation_tip": "视频译文“这份本领来之不易。”的处理：①That 译为“这份”：英语用 that 回指前文，汉语习惯用“这”；“份”是根据 prowess 补出的量词。②系动词 is 不单独译出，表语 hard-won 用四字成语“来之不易”译出，与原文简短有力的语气一致。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "aspiring drivers",
+   "predicate": "must conquer",
+   "object_or_complement": "\"the Knowledge\"（宾语）",
+   "explain": "主谓宾结构。谓语 must conquer 由情态动词 must 加动词原形构成，表示必须，一般现在时，主动语态。句首不定式短语作目的状语，宾语后接一个较长的同位语。"
+  },
+  "components": [
+   {
+    "text": "To earn a licence,",
+    "zh": "要拿到执照",
+    "role": "目的状语（不定式短语，置于句首）"
+   },
+   {
+    "text": "aspiring drivers",
+    "zh": "有志向的司机",
+    "role": "主语（aspiring 作前置定语）"
+   },
+   {
+    "text": "must conquer",
+    "zh": "必须攻克",
+    "role": "谓语（情态动词 must + 动词原形）"
+   },
+   {
+    "text": "\"the Knowledge\",",
+    "zh": "“知识大考”",
+    "role": "宾语（专名，加引号）"
+   },
+   {
+    "text": "an arduous examination",
+    "zh": "这是一场艰巨的考试",
+    "role": "同位语，解释说明 the Knowledge"
+   },
+   {
+    "text": "on about 25,000 streets",
+    "zh": "考的是约25,000条街道",
+    "role": "后置定语（介词短语，on 表示考试内容），修饰 examination"
+   },
+   {
+    "text": "within six miles of Charing Cross.",
+    "zh": "都在查令十字周边6英里以内",
+    "role": "后置定语（介词短语），修饰 streets"
+   }
+  ],
+  "structure": "①句首 To earn a licence 是动词不定式短语作目的状语，交代“攻克考试”的目的，放在句首起强调作用，后面用逗号隔开。不定式的逻辑主语与主句主语 aspiring drivers 一致。\n②主句 aspiring drivers must conquer \"the Knowledge\"：aspiring 是由现在分词转化来的形容词，作前置定语，意为“有志成为……的”，aspiring drivers 指想当伦敦出租车司机、还没拿到执照的人。conquer 原义“征服”，这里指攻克一项难关。\n③an arduous examination on about 25,000 streets within six miles of Charing Cross 是 \"the Knowledge\" 的同位语，用逗号隔开，解释这项考试是什么。同位语内部：中心词 examination，arduous 作前置定语；介词短语 on about 25,000 streets 作后置定语，on 表示“以……为内容”，说明考什么；within six miles of Charing Cross 又作 streets 的后置定语，限定街道的范围。\n④引号表明 the Knowledge 是专门名称，不是一般意义上的“知识”。about 是副词，修饰数词 25,000，意为“大约”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "不定式短语作目的状语置于句首",
+    "explain": "不定式表示目的时可以放在句尾，也可以放在句首；放在句首时更强调目的，后面一般加逗号，也可以写成 In order to do。易错点：句首不定式的逻辑主语必须与主句主语一致。本句 earn a licence 的执行者就是主语 aspiring drivers；如果写成 To earn a licence, the exam must be passed，不定式的逻辑主语就成了 the exam，属于语法错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "To reduce emissions, the city has expanded its network of bus lanes.",
+      "zh": "为了减少排放，该市扩建了公交专用道网络。"
+     },
+     {
+      "en": "To qualify for the scholarship, applicants must maintain a high grade average.",
+      "zh": "要获得这项奖学金，申请人必须保持较高的平均成绩。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是对前面名词的进一步说明，与它指同一事物，常用逗号隔开。本句 an arduous examination... 补充说明 \"the Knowledge\" 是什么。同位语常出现在专有名称、术语、缩写后面，考研阅读中遇到陌生的名称，紧跟其后的同位语往往就是作者给出的解释。翻译时可以加“这是”“即”等词，视频译为“这是一场艰巨的考试”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The project is led by Dr Chen, a marine biologist with twenty years of field experience.",
+      "zh": "该项目由陈博士主持，这位海洋生物学家有二十年的野外工作经验。"
+     }
+    ]
+   },
+   {
+    "title": "within + 距离 + of + 地点",
+    "explain": "“within + 距离或时间 + of + 某处或某事”表示“距某处……以内”或“某事发生后……之内”，如 within walking distance of the station（离车站步行可到）、within a week of the accident（事故发生后一周内）。本句 within six miles of Charing Cross 即“查令十字周边6英里以内”，这一结构中通常用 of。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the hotels are within a short walk of the beach.",
+      "zh": "大多数酒店离海滩只有几步路。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Knowledge",
+    "explain": "全称 the Knowledge of London，是伦敦持照出租车（俗称 black cab，即“黑色出租车”）司机必须通过的考试，视频说明为“伦敦出租车执照考试的俗称”。考生要熟记查令十字周边6英里内的街道和沿途地标，并在考官面前口头说出两点之间的路线。"
+   },
+   {
+    "term": "Charing Cross",
+    "explain": "查令十字，伦敦市中心威斯敏斯特区的一处路口，紧邻特拉法加广场（Trafalgar Square）。视频说明：伦敦市中心的地标，常被当作伦敦的中心点。传统上从伦敦起算的道路里程以这里为准。"
+   },
+   {
+    "term": "licence 与 license",
+    "explain": "英式英语中名词拼作 licence，动词拼作 license；美式英语中名词和动词都拼作 license。earn/obtain/get a licence 意为“取得执照”，driving licence 是“驾驶执照”（美式 driver's license）。本文采用英式拼写。"
+   },
+   {
+    "term": "conquer",
+    "explain": "熟词僻义：本义是“征服（国家、民族）”，也可以指“克服（困难、恐惧）”“攻克（难关）”。本句 conquer \"the Knowledge\" 视频译为“攻克”，把考试比作一座要攻占的堡垒，突出其难度。"
+   },
+   {
+    "term": "six miles",
+    "explain": "1英里约合1.6公里，6英里约为9.7公里。"
+   }
+  ],
+  "translation_tip": "视频译文“要拿到执照，有志向的司机必须攻克“知识大考”，这是一场艰巨的考试，考的是约25,000条街道，都在查令十字周边6英里以内。”的处理：①句首目的状语 To earn a licence 保留在句首，译为“要拿到执照”，“要”表达目的。②专名 the Knowledge 译为“知识大考”，加引号保留专名色彩。③同位语不前置，单独译成“这是一场艰巨的考试”，加“这是”回指；后置定语 on about 25,000 streets 转为动词结构“考的是约25,000条街道”；within six miles of Charing Cross 再拆成独立短句“都在查令十字周边6英里以内”，用“都”总括。英文一连串后置修饰被拆成几个短句，符合汉语多用短句的习惯。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Hopefuls；only about half",
+   "predicate": "spend；qualify",
+   "object_or_complement": "three to four years（spend 的宾语）；qualify 为不及物动词，不带宾语",
+   "explain": "由 and 连接的并列句。前一分句为主谓宾结构，后接现在分词短语，构成 spend time doing sth；后一分句为主谓结构。两个谓语都是一般现在时，表示经常性、规律性的情况。"
+  },
+  "components": [
+   {
+    "text": "Hopefuls",
+    "zh": "考生们",
+    "role": "主语（名词复数，零冠词，泛指参加考试的人）"
+   },
+   {
+    "text": "typically",
+    "zh": "通常",
+    "role": "频度状语"
+   },
+   {
+    "text": "spend",
+    "zh": "要花",
+    "role": "谓语"
+   },
+   {
+    "text": "three to four years",
+    "zh": "三到四年",
+    "role": "宾语"
+   },
+   {
+    "text": "committing this labyrinth to memory,",
+    "zh": "把这座迷宫记在脑子里",
+    "role": "现在分词短语，与 spend 构成 spend time (in) doing sth，说明时间花在什么事上"
+   },
+   {
+    "text": "and",
+    "zh": "并且",
+    "role": "并列连词"
+   },
+   {
+    "text": "only about half",
+    "zh": "只有大约一半",
+    "role": "主语（half 是代词，后面省略了 of them）"
+   },
+   {
+    "text": "qualify.",
+    "zh": "最终会合格",
+    "role": "谓语（不及物动词）"
+   }
+  ],
+  "structure": "①第一个分句 Hopefuls typically spend three to four years committing this labyrinth to memory：hopefuls 是名词复数，指报考的人；typically 是频度副词，作状语，位于主语和实义动词之间；spend 是谓语，three to four years 是宾语；committing this labyrinth to memory 是现在分词短语，与 spend 构成 spend time (in) doing sth 结构，说明时间花在什么事情上。\n②commit this labyrinth to memory 是固定搭配 commit sth to memory（视频说明：把……牢牢记住）。this labyrinth 是比喻，回指上句查令十字周边约25,000条街道组成的路网，this 表示回指。\n③第二个分句 only about half qualify：only about half 作主语，half 是代词，后面省略了 of them（即 of the hopefuls）；only 和 about 都修饰 half。qualify 是不及物动词，意为“取得资格，合格”。half 指的是复数的考生，所以谓语用复数形式 qualify。\n④两个分句由 and 连接，前句讲付出的时间，后句讲通过的比例，共同说明第2句的 hard-won。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "spend + 时间 + (in) doing sth",
+    "explain": "spend 表示“花费（时间、金钱）”时，主语必须是人，常用结构有 spend time/money (in) doing sth 和 spend time/money on sth，前者的 in 通常省略。本句 spend three to four years committing this labyrinth to memory 即此结构。易错点：不能写成 spend three years to commit；表示“花费”时，take 的主语常是 it 或事情（It takes three years to...），cost 的主语是物，而且只用于金钱。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many graduates spend months searching for a job that matches their skills.",
+      "zh": "许多毕业生要花好几个月寻找与自己技能相匹配的工作。"
+     },
+     {
+      "en": "The government plans to spend more on rural schools.",
+      "zh": "政府计划在农村学校上投入更多资金。"
+     }
+    ]
+   },
+   {
+    "title": "half 作主语的主谓一致",
+    "explain": "half、most、some、all、the rest 以及分数、百分数作主语时，谓语的单复数由它所指代的名词决定：指可数名词复数时用复数，指不可数名词或单数名词时用单数。本句 half 指 half of the hopefuls，所以用 qualify 而不是 qualifies。考研完形和写作中，“百分数 + of + 名词”作主语时也照此判断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Half of the respondents say they have never visited a museum.",
+      "zh": "一半的受访者说他们从未参观过博物馆。"
+     },
+     {
+      "en": "Half of the money was spent on advertising.",
+      "zh": "一半的钱花在了广告上。"
+     }
+    ]
+   },
+   {
+    "title": "频度副词的位置",
+    "explain": "typically、usually、often、always 等频度副词一般放在实义动词之前、be 动词和助动词之后。本句 typically 位于主语 Hopefuls 和实义动词 spend 之间。typically 表示一般情况，不等于 always，考研阅读中这类限定词常影响选项的正误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Symptoms typically appear within two weeks of infection.",
+      "zh": "症状通常在感染后两周内出现。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hopeful（名词）",
+    "explain": "熟词僻义：hopeful 常作形容词，意为“抱有希望的”；作可数名词时指“有望成功的人，怀揣希望的人”，多指候选人、参赛者、应试者，如 presidential hopefuls（总统候选人）、Olympic hopefuls（有望参加奥运会的选手）。视频说明为“种子选手/有望成功的人”，本句视频译为“考生们”。"
+   },
+   {
+    "term": "commit sth to memory",
+    "explain": "把……牢牢记住，比 memorize 正式；视频说明为“把……牢牢记住”。commit 的基本义是“把……交托给”，commit sth to memory 字面意思就是“把……交给记忆”。类似结构有 commit sth to paper（把……写下来）。"
+   },
+   {
+    "term": "labyrinth",
+    "explain": "迷宫。本句是比喻，指伦敦错综复杂的街道网。这个词源于希腊神话中克里特国王米诺斯用来囚禁牛头怪的迷宫。"
+   },
+   {
+    "term": "three to four years",
+    "explain": "“数词 + to + 数词 + 名词”表示数量范围，即“三到四年”。第12句 three to four years later 也是这一用法。"
+   }
+  ],
+  "translation_tip": "视频译文“考生们通常要花三到四年把这座迷宫记在脑子里，并且只有大约一半，最终会合格。”的处理：①hopefuls 结合语境译为“考生们”，指参加 the Knowledge 的人。②现在分词短语 committing this labyrinth to memory 用“把”字句译出，放在“要花三到四年”之后，符合汉语“花时间做某事”的语序；commit... to memory 译为“记在脑子里”，比喻 labyrinth 保留为“这座迷宫”。③and 译为“并且”；only about half qualify 增补“最终”，点明合格是三四年苦学之后的结果；“只有大约一半”后用逗号断开，突出比例之低。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "A study",
+   "predicate": "scanned",
+   "object_or_complement": "16 male cabbies and 50 other men",
+   "explain": "主谓宾结构。谓语 scanned 为一般过去时，主动语态；宾语是由 and 连接的两个并列名词短语。主语后面带一个过去分词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "A study",
+    "zh": "一项研究",
+    "role": "主语"
+   },
+   {
+    "text": "published in PNAS",
+    "zh": "发表于《美国国家科学院院刊》",
+    "role": "后置定语（过去分词短语），修饰 A study"
+   },
+   {
+    "text": "in April 2000",
+    "zh": "（2000年4月）",
+    "role": "时间状语（介词短语），修饰 published"
+   },
+   {
+    "text": "scanned",
+    "zh": "扫描了",
+    "role": "谓语"
+   },
+   {
+    "text": "16 male cabbies",
+    "zh": "16名男性出租车司机",
+    "role": "宾语一"
+   },
+   {
+    "text": "and 50 other men.",
+    "zh": "和50名其他男性（的大脑）",
+    "role": "并列连词 and + 宾语二"
+   }
+  ],
+  "structure": "①主干是 A study scanned 16 male cabbies and 50 other men。主语 A study 后紧跟过去分词短语 published in PNAS in April 2000 作后置定语，相当于 which was published in PNAS in April 2000。句子真正的谓语是 scanned，published 是过去分词，不是谓语。\n②后置定语内部：in PNAS 说明发表在哪本期刊上，in April 2000 说明发表的时间，两个介词短语都修饰 published。\n③宾语 16 male cabbies and 50 other men 是两个并列的名词短语。male 作前置定语，说明受试者都是男性；other 表示出租车司机以外的其他男性，他们是用来对比的对照组。\n④主语 A study 是无生命名词，与动作动词 scanned 搭配，这是英语学术和新闻写作的常见说法，实际执行扫描的是研究人员。视频译文增补“（的大脑）”，说明扫描的对象是大脑。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语与谓语的区分",
+    "explain": "名词后面紧跟 -ed 形式时，要判断它是谓语还是过去分词作定语。方法：看句中还有没有别的谓语动词，看 -ed 形式后面有没有宾语。本句 published 后面没有宾语，后面又出现了真正的谓语 scanned，所以 published in PNAS in April 2000 是后置定语，修饰 A study，相当于 which was published...。考研长难句中这类“伪谓语”很常见，误判会导致整句理解错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A report released last week warns that sea levels are rising faster than expected.",
+      "zh": "上周发布的一份报告警告说，海平面上升的速度比预期更快。"
+     },
+     {
+      "en": "The vaccine developed by the team proved effective in older patients.",
+      "zh": "该团队研发的疫苗被证明对老年患者有效。"
+     }
+    ]
+   },
+   {
+    "title": "无生命主语 + 动作动词",
+    "explain": "英语学术和新闻文章常让 study、research、survey、report 等无生命名词作主语，后接 show、find、suggest、examine、scan 等动词，如 A study found that...。本句 A study scanned... 实际是研究人员进行扫描。翻译时可以保留“一项研究……”的说法，视频译文即如此。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A recent survey found that most commuters would pay more for faster trains.",
+      "zh": "最近一项调查发现，大多数通勤者愿意为更快的列车多付钱。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "PNAS",
+    "explain": "Proceedings of the National Academy of Sciences of the United States of America 的缩写，即《美国国家科学院院刊》，是一份综合性学术期刊。"
+   },
+   {
+    "term": "这项研究",
+    "explain": "2000年发表的这项研究由伦敦大学学院（UCL）神经科学家埃莉诺·马圭尔（Eleanor Maguire）的团队完成，研究人员用磁共振成像扫描受试者的大脑，比较海马体的结构。"
+   },
+   {
+    "term": "scan",
+    "explain": "本句指用医学成像设备扫描（大脑），视频译为“扫描了”。scan 还有“细看，审视”和“浏览”的意思，阅读技巧中的 scanning 指“扫读”，即快速查找特定信息。"
+   },
+   {
+    "term": "male",
+    "explain": "作形容词意为“男性的，雄性的”，作名词意为“男性；雄性动物”，反义词为 female。第16句 exclusively male 指出这些研究的受试者全是男性。"
+   }
+  ],
+  "translation_tip": "视频译文“一项研究发表于《美国国家科学院院刊》（2000年4月），扫描了16名男性出租车司机和50名其他男性（的大脑）。”的处理：①过去分词短语 published in PNAS 按原文顺序译出，“一项研究发表于……”之后接“扫描了……”，顺着英文语序推进，避免主语前堆积过长的定语。②时间状语 in April 2000 放在括号里，作为补充信息，不打断主要信息。③期刊缩写 PNAS 译出中文全称并加书名号。④宾语后增补“（的大脑）”，点明扫描的对象。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The hippocampus",
+   "predicate": "is",
+   "object_or_complement": "a seahorse-shaped structure（表语）",
+   "explain": "主系表结构。is 是系动词，一般现在时，陈述客观的科学事实；形容词短语 vital to memory and navigation 作后置定语，修饰表语中的 structure。"
+  },
+  "components": [
+   {
+    "text": "The hippocampus",
+    "zh": "海马体",
+    "role": "主语"
+   },
+   {
+    "text": "is",
+    "zh": "是",
+    "role": "系动词（谓语）"
+   },
+   {
+    "text": "a seahorse-shaped structure",
+    "zh": "一个形似海马的结构",
+    "role": "表语（seahorse-shaped 是复合形容词，作前置定语）"
+   },
+   {
+    "text": "vital to memory and navigation.",
+    "zh": "对记忆和导航都是至关重要的",
+    "role": "后置定语（形容词短语），修饰 structure"
+   }
+  ],
+  "structure": "①主干 The hippocampus is a seahorse-shaped structure：主语 The hippocampus 是解剖学术语（视频说明：大脑深处负责记忆的区域）；表语 a seahorse-shaped structure 中，seahorse-shaped 是“名词 + -shaped”构成的复合形容词，作前置定语，说明形状像海马。\n②vital to memory and navigation 是形容词短语作后置定语，修饰 structure，相当于 which is vital to memory and navigation。形容词带上介词短语等补充成分时，要放在名词后面。memory 和 navigation 由 and 连接，共同作介词 to 的宾语。\n③本句是定义句：上句说研究扫描了大脑，本句交代被测量的结构是什么、有什么功能，为下句的测量结果作铺垫。navigation 在本文中指认路（视频说明），与出租车司机的工作直接相关。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "单个形容词一般放在名词前；形容词带上介词短语、不定式等补充成分，构成形容词短语时，要放在名词后，相当于省略了“which/that + be”的定语从句。本句 a structure vital to memory and navigation = a structure which is vital to memory and navigation。常见形式有 a city rich in history、students eager to learn。考研翻译中，这类后置定语可以前置译成“……的”，较长时也可以拆成单独的分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Wetlands are ecosystems rich in plant and animal life.",
+      "zh": "湿地是动植物资源丰富的生态系统。"
+     },
+     {
+      "en": "The council approved a plan acceptable to both sides.",
+      "zh": "委员会批准了一项双方都能接受的方案。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + -shaped 构成复合形容词",
+    "explain": "“名词 + -shaped”表示“形状像……的”，如 heart-shaped（心形的）、L-shaped（L形的）、star-shaped（星形的）。本句 seahorse-shaped 说明海马体的形状像海马，这也是 hippocampus 得名的原因。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The children made star-shaped biscuits for the party.",
+      "zh": "孩子们为聚会做了星形饼干。"
+     }
+    ]
+   },
+   {
+    "title": "vital 的常用结构",
+    "explain": "vital 意为“至关重要的”，常用 be vital to/for sth、It is vital to do sth 和 It is vital that sb (should) do sth；在 It is vital that 结构中，从句常用（should）+ 动词原形。play a vital role in 是考研写作中的常用表达。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It is vital that patients be told about the risks before surgery.",
+      "zh": "患者在手术前必须被告知风险，这一点至关重要。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hippocampus",
+    "explain": "海马体，位于大脑颞叶内侧深处，与记忆形成和空间导航有关，左右半脑各有一个，复数为 hippocampi。名称来自希腊语，意为“海马”，因形状相似而得名。视频说明：大脑深处负责记忆的区域。"
+   },
+   {
+    "term": "seahorse",
+    "explain": "海马，一种形状像马头的小型海鱼。seahorse-shaped 即“形似海马的”。"
+   },
+   {
+    "term": "navigation",
+    "explain": "本义“航行，导航”；本句指人在空间中找路、认路，视频说明为“认路”，译文作“导航”。"
+   },
+   {
+    "term": "structure",
+    "explain": "在解剖学中指身体或大脑中的某个组织结构，本句指海马体这一脑部结构。"
+   }
+  ],
+  "translation_tip": "视频译文“海马体是一个形似海马的结构，对记忆和导航都是至关重要的。”的处理：①表语中的复合形容词 seahorse-shaped 前置译为“形似海马的”，不定冠词 a 译为“一个”。②后置定语 vital to memory and navigation 没有前置，而是拆成独立分句“对记忆和导航都是至关重要的”，避免名词前定语过长。③增补“都”，表示对两方面都很重要。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "its rear, or posterior, portion；its front, or anterior, portion",
+   "predicate": "was；（第二个分句承前省略了 was）",
+   "object_or_complement": "larger（表语）；smaller（表语）",
+   "explain": "由 and 连接的并列句，两个分句都是主系表结构。系动词 was 为一般过去时，叙述研究结果；第二个分句承前省略了系动词 was 和比较对象 than in the other men。"
+  },
+  "components": [
+   {
+    "text": "In the cabbies,",
+    "zh": "在出租车司机身上",
+    "role": "状语（介词短语，限定比较的范围）"
+   },
+   {
+    "text": "its rear, or posterior, portion",
+    "zh": "海马体靠后的（也就是后面的）部分",
+    "role": "主语（its 指 the hippocampus；or posterior 是对 rear 的同义解释）"
+   },
+   {
+    "text": "was larger",
+    "zh": "更大",
+    "role": "系动词 + 表语（比较级）"
+   },
+   {
+    "text": "than in the other men,",
+    "zh": "比其他男性的",
+    "role": "比较状语（than + 介词短语，与句首 In the cabbies 对应）"
+   },
+   {
+    "text": "and",
+    "zh": "而",
+    "role": "并列连词，表示对比"
+   },
+   {
+    "text": "its front, or anterior, portion",
+    "zh": "靠前的（也就是前面的）部分",
+    "role": "主语（or anterior 是对 front 的同义解释）"
+   },
+   {
+    "text": "smaller.",
+    "zh": "则较小",
+    "role": "表语（前面承前省略了系动词 was，后面省略了 than in the other men）"
+   }
+  ],
+  "structure": "①句首 In the cabbies 是介词短语作状语，限定比较的范围：在出租车司机身上。\n②第一个分句：主语 its rear, or posterior, portion，its 指上句的 the hippocampus；rear 是日常用词，posterior 是解剖学术语，or posterior 用逗号隔开插入，意为“或者说，也就是”，用术语解释前面的日常词，不是二选一。系动词 was，表语 larger，than in the other men 是比较状语。\n③比较的对象是 in the other men，而不是 the other men：比较的是“出租车司机身上的海马体后部”和“其他男性身上的海马体后部”，介词 in 与句首的 In the cabbies 对应，保证同类相比。\n④第二个分句 its front, or anterior, portion smaller 承前省略了 was 和 than in the other men，完整形式是 its front, or anterior, portion was smaller than in the other men。and 前后两个分句结构对称，后部更大、前部较小，形成对比。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列句中的承前省略",
+    "explain": "并列句中，后一个分句与前一个分句谓语相同时，常省略后一个分句的谓语动词（有时连同其他相同成分），只保留不同的部分，形成对比。本句 and its front, or anterior, portion smaller 省略了 was 和 than in the other men。阅读时要根据前一分句把省略的成分补出来；有时省略处还会用逗号标出。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first experiment took three weeks, and the second, almost a year.",
+      "zh": "第一个实验用了三周，第二个则用了将近一年。"
+     },
+     {
+      "en": "Some students prefer to study in the morning, others at night.",
+      "zh": "有些学生喜欢在早上学习，有些则喜欢在晚上学习。"
+     }
+    ]
+   },
+   {
+    "title": "比较对象要对等",
+    "explain": "比较的两项必须属于同一类，than 后面的成分要与前面被比较的成分在结构上对应。本句比较的是“在出租车司机身上”和“在其他男性身上”的海马体后部，所以用 than in the other men，介词 in 与 In the cabbies 呼应。写作中常用 that of、those of 代替被比较的名词，如 The population of Tokyo is larger than that of London，不能写成 larger than London。这是考研写作和完形中的常见易错点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Prices in the capital are much higher than in the rest of the country.",
+      "zh": "首都的物价比全国其他地方高得多。"
+     }
+    ]
+   },
+   {
+    "title": "or 表示同义解释",
+    "explain": "or 除了表示选择，还可以引出对前面词语的解释或换一种说法，意为“或者说，即”，常用逗号把 or 引出的部分隔开。本句 rear, or posterior 和 front, or anterior 都是用解剖学术语解释日常用词。阅读中如果 or 后面接一个更专业或更通俗的同义词，通常是同义解释，而不是两个不同的选项。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The study focused on insomnia, or chronic sleeplessness.",
+      "zh": "这项研究关注的是失眠症，也就是长期睡不着觉。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "rear 与 posterior",
+    "explain": "两者都表示“后部的”。rear 是日常用词，如 the rear seat（后座）；posterior 是正式的学术用词，常用于解剖学，如 the posterior hippocampus（海马体后部）。"
+   },
+   {
+    "term": "front 与 anterior",
+    "explain": "front 是日常用词；anterior 是解剖学术语，意为“前部的”。posterior 和 anterior 是一对反义词。"
+   },
+   {
+    "term": "its",
+    "explain": "物主代词，指代上句的主语 the hippocampus，视频译文把它译出为“海马体”。"
+   }
+  ],
+  "translation_tip": "视频译文“在出租车司机身上，海马体靠后的（也就是后面的）部分比其他男性的更大，而靠前的（也就是前面的）部分则较小。”的处理：①its 译出所指“海马体”，避免指代不清。②or posterior、or anterior 放进括号，译为“（也就是后面的）”“（也就是前面的）”，体现 or 的同义解释作用，没有译成“或”。③比较状语 than in the other men 前移，译为“比其他男性的”，符合汉语“比……更……”的语序。④第二个分句省略的成分不必补出，用“而……则较小”与前一分句形成对比，and 译为“而”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Longer service",
+   "predicate": "went with",
+   "object_or_complement": "a larger rear portion",
+   "explain": "主谓宾结构。went with 是短语动词 go with 的过去式，一般过去时，主动语态，意为“与……相伴”，说明两个变量同时变化。"
+  },
+  "components": [
+   {
+    "text": "Longer service",
+    "zh": "从业时间越长",
+    "role": "主语（longer 是比较级，作前置定语）"
+   },
+   {
+    "text": "went with",
+    "zh": "（谓语，意为“与……相伴”；视频把前后两个比较级的对应关系译为“越……越……”，went with 不单独译出）",
+    "role": "谓语（短语动词）"
+   },
+   {
+    "text": "a larger rear portion.",
+    "zh": "后部也越大",
+    "role": "宾语（larger 是比较级，rear 作前置定语）"
+   }
+  ],
+  "structure": "①主语 Longer service：service 在这里指“服务年限”，即当出租车司机的时间；longer 是 long 的比较级，作前置定语。\n②谓语 went with：go with 在此意为“与……同时存在，与……相伴”，视频说明“此处指两者相关，不是因果”。\n③宾语 a larger rear portion：larger 是比较级，rear 作前置定语，portion 承上句指海马体的部分。\n④主语和宾语各含一个比较级，表示两个量同时变化：从业越久，海马体后部越大，相当于 The longer the service, the larger the rear portion。本句陈述的是相关关系，为第3段讨论“谁导致谁”埋下伏笔。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "用比较级表达“越……越……”",
+    "explain": "英语表示两个量一起变化，最常用“the + 比较级..., the + 比较级...”，如 The more you read, the faster you learn。本句换用了更简洁的写法：两个含比较级的名词短语分别作主语和宾语，用 go with 连接，表示 A 越大，B 也越大。翻译时可以译成“越……越……”，视频译为“从业时间越长，后部也越大”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The longer the negotiations drag on, the harder it becomes to reach a deal.",
+      "zh": "谈判拖得越久，达成协议就越难。"
+     },
+     {
+      "en": "Higher income tends to go with better health.",
+      "zh": "收入越高，健康状况往往越好。"
+     }
+    ]
+   },
+   {
+    "title": "go with 等词表示相关而非因果",
+    "explain": "go with 有多种意思：“与……相配”（This tie goes with your shirt）、“伴随……出现”（the responsibilities that go with the job）、“接受，选择”（go with the plan）。本句是“与……相伴”，强调两种现象同时出现。科学文章常用 go with、be associated with、be linked to、correlate with 表示相关关系，它们不等于因果关系（cause、lead to、result in）。考研阅读的选项常把相关说成因果来设置干扰。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Poor sleep is often associated with a higher risk of depression.",
+      "zh": "睡眠不足常常与更高的抑郁风险相关。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "service",
+    "explain": "熟词僻义：本句不是“服务”，而是“工作年限，服务期”，即 length of service，如 ten years' service（十年工龄）。视频译为“从业时间”。"
+   },
+   {
+    "term": "相关与因果",
+    "explain": "本句只说明从业时间和海马体后部大小同时变化，没有说明谁导致谁，视频说明“此处指两者相关，不是因果”。下一句 Yet the link left the cause uncertain 紧接着点明了这一点。"
+   }
+  ],
+  "translation_tip": "视频译文“从业时间越长，后部也越大。”的处理：①主语和宾语中的两个比较级转换为“越……越……”句式：Longer service 译为“从业时间越长”，a larger rear portion 译为“后部也越大”。②谓语 went with 没有直接译成“与……相伴”，其含义通过“越……越……”的对应关系体现出来。③service 按语境译为“从业时间”，rear portion 承上句译为“后部”；“也”表示两者同步变化。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "the link",
+   "predicate": "left",
+   "object_or_complement": "the cause uncertain（宾语 the cause + 宾语补足语 uncertain）",
+   "explain": "主谓宾宾补结构。left 是 leave 的过去式，一般过去时，主动语态；形容词 uncertain 作宾语补足语，说明宾语 the cause 所处的状态。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "zh": "然而",
+    "role": "转折连词"
+   },
+   {
+    "text": "the link",
+    "zh": "这种关联",
+    "role": "主语（the 回指上句所说的关系）"
+   },
+   {
+    "text": "left",
+    "zh": "让……仍然是",
+    "role": "谓语"
+   },
+   {
+    "text": "the cause",
+    "zh": "原因",
+    "role": "宾语"
+   },
+   {
+    "text": "uncertain.",
+    "zh": "不确定的",
+    "role": "宾语补足语（形容词）"
+   }
+  ],
+  "structure": "①Yet 是表示转折的连词，放在句首，相当于 However 或 But，与上一段形成转折：上一段发现了关联，本句指出原因仍然不明。\n②主语 the link 指上一段发现的关联：出租车司机的海马体后部更大，而且从业越久后部越大。定冠词 the 表示回指。\n③left the cause uncertain 是“leave + 宾语 + 形容词”结构，形容词 uncertain 作宾语补足语，说明 the cause 处于“不确定”的状态。视频说明：使……处于某种状态；这里指只看出两者相关，看不出谁导致谁。\n④本句是第3段的主题句，下一句提出两种可能的原因，第11句和第12至14句再分别检验。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "leave + 宾语 + 宾语补足语",
+    "explain": "leave 可以接复合宾语，表示“使……处于某种状态”，宾语补足语可以是形容词（leave the door open）、现在分词（leave sb waiting）、过去分词（leave the problem unsolved）或介词短语（leave sb in tears）。本句 left the cause uncertain 用形容词作宾补。考研阅读中常见 leave sth unanswered/unclear/open，意为“使……悬而未决”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report left many key questions unanswered.",
+      "zh": "这份报告让许多关键问题悬而未决。"
+     },
+     {
+      "en": "The sudden resignation left the company without a clear leader.",
+      "zh": "突然的辞职让公司没有了明确的领导者。"
+     }
+    ]
+   },
+   {
+    "title": "yet 作连词表示转折",
+    "explain": "yet 作连词时意为“然而，但是”，语气比 but 稍强，可以放在句首，也可以用于“..., yet ...”；作副词时意为“还，仍然”，多用于否定句和疑问句，如 not yet。本句句首的 Yet 是连词用法，第16句 ..., yet the studies imply... 也是。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan was simple, yet it worked remarkably well.",
+      "zh": "这个计划很简单，却非常奏效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "link",
+    "explain": "名词，意为“联系，关联”，常用 a link between A and B。the link 回指第7、8句所说的出租车司机身份及从业时间与海马体后部大小之间的关系，视频译为“这种关联”。"
+   },
+   {
+    "term": "相关不等于因果",
+    "explain": "统计学常说 correlation does not imply causation（相关不等于因果）。本句的意思是：只看到两件事一起出现，还不能判断是天生的空间能力使人选择当出租车司机，还是开出租车改变了大脑。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，这种关联让原因仍然是不确定的。”的处理：①Yet 译为“然而”，放在句首并用逗号隔开。②“leave + 宾语 + 形容词”译为“让……仍然是……的”，“仍然”体现 leave 所含的“保持原状”之意。③宾补 uncertain 译为“不确定的”，用“是……的”结构说明状态；the link 译为“这种关联”，“这种”体现 the 的回指。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "an innate flair for spatial tasks；stressful driving",
+   "predicate": "lured；was",
+   "object_or_complement": "people（lured 的宾语）；the culprit（was 的表语）",
+   "explain": "由 or 连接的并列句。前一分句为主谓宾结构，后接介词短语 to the occupation 表示方向；后一分句为主系表结构。两个谓语都是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Perhaps",
+    "zh": "也许",
+    "role": "评注性状语（表示推测）"
+   },
+   {
+    "text": "an innate flair",
+    "zh": "一种天生的……天赋",
+    "role": "主语（innate 作前置定语）"
+   },
+   {
+    "text": "for spatial tasks",
+    "zh": "擅长空间任务的",
+    "role": "后置定语（介词短语），修饰 flair"
+   },
+   {
+    "text": "lured",
+    "zh": "把……吸引",
+    "role": "谓语"
+   },
+   {
+    "text": "people",
+    "zh": "人们",
+    "role": "宾语"
+   },
+   {
+    "text": "to the occupation,",
+    "zh": "到了这个职业里",
+    "role": "方向状语（介词短语），与 lure 构成 lure sb to sth"
+   },
+   {
+    "text": "or perhaps",
+    "zh": "又或许",
+    "role": "并列连词 or + 评注性状语 perhaps"
+   },
+   {
+    "text": "stressful driving",
+    "zh": "紧张的驾驶",
+    "role": "主语"
+   },
+   {
+    "text": "was",
+    "zh": "才是",
+    "role": "系动词（谓语）"
+   },
+   {
+    "text": "the culprit.",
+    "zh": "罪魁祸首",
+    "role": "表语"
+   }
+  ],
+  "structure": "①第一个分句 Perhaps an innate flair for spatial tasks lured people to the occupation：Perhaps 是表示推测的状语；主语中心词是 flair，innate 作前置定语，介词短语 for spatial tasks 作后置定语，flair for sth 意为“擅长某事的天赋”；谓语 lured，宾语 people，to the occupation 表示方向，与 lure 构成 lure sb to sth（把某人吸引到某处）。the occupation 指出租车司机这一职业。\n②or 连接两个可能的解释。第二个分句 perhaps stressful driving was the culprit 是主系表结构，stressful driving 作主语，the culprit 作表语。\n③两个 perhaps 都表示推测，说明这只是两种假设：第一种认为先天能力在先，大脑差异使人选择了这一行；第二种认为工作在先，紧张的驾驶造成了大脑差异。后文分别检验：第11句检验第二种，第12至14句检验第一种。\n④culprit 本义是“罪犯”，这里指造成大脑差异的原因（视频说明），带有拟人色彩，像在破案时锁定嫌疑人。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "Perhaps..., or perhaps... 并列两种推测",
+    "explain": "or 连接两个分句，表示“或者……或者……”，常与 perhaps、either 配合使用。本句用 Perhaps..., or perhaps... 并列两种推测，作者并未断定哪一种正确。阅读中凡是带 perhaps、maybe、possibly、may/might 的句子都表示推测，做题时不能把它们当成作者确认的结论。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Perhaps the letter was lost in the post, or perhaps it was never sent.",
+      "zh": "也许信在邮寄途中丢了，又或许它根本就没寄出。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + for 短语作后置定语",
+    "explain": "表示才能、兴趣、需求的名词常用介词 for 引出对象，构成后置定语，如 a flair/talent/gift for sth（……方面的天赋）、a passion for sth（对……的热爱）、a demand for sth（对……的需求）。本句 an innate flair for spatial tasks 即“天生的、擅长空间任务的天赋”。翻译时 for 短语通常前置，译成“擅长……的”“对……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She has a remarkable gift for languages.",
+      "zh": "她有非凡的语言天赋。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "flair for sth",
+    "explain": "某方面的天赋、才能，多指天生的敏锐和本领，如 a flair for languages、a flair for design；flair 还可以指“格调，风格”，如 with flair（有格调地）。视频译为“天赋”。"
+   },
+   {
+    "term": "innate",
+    "explain": "天生的，与生俱来的，正式用词，如 innate ability，与 acquired（后天获得的）相对。视频译为“天生的”。"
+   },
+   {
+    "term": "spatial tasks",
+    "explain": "空间任务，指判断方位、距离、空间关系的任务；spatial 是 space 的形容词。"
+   },
+   {
+    "term": "lure sb to/into sth",
+    "explain": "吸引、诱使某人到某处或去做某事，常含有用好处吸引的意味；本句是中性用法，视频译为“吸引”。"
+   },
+   {
+    "term": "culprit",
+    "explain": "熟词僻义：本义是“罪犯，肇事者”，在新闻和科普文章中常指“问题的根源”。视频说明：本义“罪犯”，这里指造成大脑差异的原因；译文作“罪魁祸首”。"
+   }
+  ],
+  "translation_tip": "视频译文“也许是一种天生的、擅长空间任务的天赋把人们吸引到了这个职业里，又或许紧张的驾驶才是罪魁祸首。”的处理：①第一个分句的主语前增补“是”，形成“也许是……把人们吸引到了……”的判断句式，突出这是推测出的原因。②主语带有前后两个定语，都前置，用顿号隔开：“天生的、擅长空间任务的天赋”。③lured people to the occupation 用“把”字句译出：“把人们吸引到了这个职业里”。④or perhaps 译为“又或许”；the culprit 按视频说明译为“罪魁祸首”，系动词 was 译为“才是”，加强对比和强调。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "A December 2006 study",
+   "predicate": "dispelled",
+   "object_or_complement": "the second notion",
+   "explain": "主谓宾结构，一般过去时，主动语态。冒号后是一个完整的句子，主谓宾结构，谓语 had 为一般过去时，具体说明研究发现了什么，即这项研究为什么能打消第二种想法。"
+  },
+  "components": [
+   {
+    "text": "A December 2006 study",
+    "zh": "2006年12月的一项研究",
+    "role": "主语（时间名词 December 2006 作前置定语）"
+   },
+   {
+    "text": "dispelled",
+    "zh": "打消了",
+    "role": "谓语"
+   },
+   {
+    "text": "the second notion:",
+    "zh": "第二种想法",
+    "role": "宾语（指第10句的第二种推测）"
+   },
+   {
+    "text": "cabbies",
+    "zh": "出租车司机",
+    "role": "冒号后分句的主语"
+   },
+   {
+    "text": "had",
+    "zh": "（谓语，与 more 合译为“更多”）",
+    "role": "冒号后分句的谓语"
+   },
+   {
+    "text": "more rear grey matter,",
+    "zh": "后部的灰质更多",
+    "role": "宾语（more 与后面的 than 构成比较）"
+   },
+   {
+    "text": "the tissue dense with nerve cells,",
+    "zh": "灰质即密布神经细胞的组织",
+    "role": "同位语，解释 grey matter（dense with nerve cells 是形容词短语，作 tissue 的后置定语）"
+   },
+   {
+    "text": "than bus drivers,",
+    "zh": "比公交司机的多",
+    "role": "比较状语（than 引出比较对象）"
+   },
+   {
+    "text": "confined to predetermined routes,",
+    "zh": "这些公交司机局限于预先确定的线路",
+    "role": "后置定语（过去分词短语），修饰 bus drivers"
+   },
+   {
+    "text": "of equivalent experience and stress.",
+    "zh": "经验和压力（与出租车司机）都是相当的",
+    "role": "后置定语（of + 名词短语，表示特征），修饰 bus drivers"
+   }
+  ],
+  "structure": "①冒号前：A December 2006 study dispelled the second notion。A December 2006 study 中，December 2006 是时间名词作前置定语，说明研究发表的时间；the second notion 指第10句的第二种想法，即紧张的驾驶造成了大脑差异。\n②冒号后：主干是 cabbies had more rear grey matter than bus drivers，比较结构 more... than... 被中间插入的同位语拆开（视频说明：more … than bus drivers 中间插入了对灰质的解释）。\n③the tissue dense with nerve cells 是 grey matter 的同位语，解释灰质是什么；其中 dense with nerve cells 是形容词短语作后置定语，修饰 tissue，dense with 意为“密布着……”。\n④than bus drivers 之后的两个成分都修饰 bus drivers（视频说明）：confined to predetermined routes 是过去分词短语，说明公交司机只走预先确定的线路；of equivalent experience and stress 是“of + 名词”结构，说明他们的经验和压力与出租车司机相当。\n⑤推理过程：公交司机和出租车司机的驾驶经验和压力相当，区别在于公交司机只走固定线路，不需要灵活认路。如果紧张驾驶是原因，两组人的后部灰质应该相近；结果出租车司机的更多，所以“紧张驾驶造成差异”的想法被打消。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "比较结构被插入成分隔开",
+    "explain": "more... than... 等比较结构中，than 之前可以插入同位语、定语、插入语等，使 more 与 than 相隔很远。阅读时要先找到 more，再往后找 than，把两部分连起来看主干：本句是 cabbies had more rear grey matter than bus drivers，中间的 the tissue dense with nerve cells 是对 grey matter 的解释。比较的两项要对等：这里比的是出租车司机和公交司机所拥有的灰质。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Women now earn more degrees, at both undergraduate and graduate levels, than men do.",
+      "zh": "如今，女性获得的学位比男性多，本科和研究生阶段都是如此。"
+     },
+     {
+      "en": "The city spends more money on roads, many of which are already in good condition, than on public transport.",
+      "zh": "这座城市花在道路上的钱比花在公共交通上的多，而许多道路本来就状况良好。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "confined to predetermined routes 是过去分词短语，修饰 bus drivers，相当于 who are confined to predetermined routes；be confined to 意为“局限于，被限制在”。用逗号隔开的过去分词短语多为补充说明。本句 bus drivers 后面接连两个用逗号隔开的后置定语，都修饰 bus drivers，阅读时不要把 of equivalent experience and stress 误认为修饰 routes。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Patients confined to bed for long periods often lose muscle strength.",
+      "zh": "长期卧床的病人常会出现肌肉力量下降。"
+     }
+    ]
+   },
+   {
+    "title": "of + 名词作后置定语表示特征",
+    "explain": "“of + 名词”可以表示人或物的性质、特征，作用相当于形容词，如 a man of courage（勇敢的人）、a matter of great importance（非常重要的事）、two people of the same age（同龄的两个人）。本句 bus drivers of equivalent experience and stress 指“经验和压力相当的公交司机”，equivalent 的比较对象出租车司机没有说出，视频用括号补出。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Applicants of similar age and background were assigned to the two groups.",
+      "zh": "年龄和背景相近的申请人被分配到两个组。"
+     }
+    ]
+   },
+   {
+    "title": "冒号表示解释说明",
+    "explain": "冒号后的内容用来解释、说明或举例，回答“具体是怎么回事”。本句冒号后交代研究结果，说明这项研究是如何打消第二种想法的；第15句的冒号也是同样的用法。考研阅读中，冒号后往往是对前面观点的具体论证。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The results were clear: the drug had no effect on memory.",
+      "zh": "结果很明确：这种药对记忆没有任何影响。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "grey matter",
+    "explain": "灰质，指脑和脊髓中主要由神经细胞胞体构成的组织，因颜色呈灰色而得名；与之相对的 white matter（白质）主要由神经纤维构成。grey 是英式拼写，美式拼作 gray。口语中 grey matter 还可以指“头脑，智力”。"
+   },
+   {
+    "term": "dispel a notion",
+    "explain": "打消一种想法。dispel 常与 myth、fears、doubts、rumours 等搭配，视频译为“打消了”。"
+   },
+   {
+    "term": "the second notion",
+    "explain": "指第10句的第二种推测 stressful driving was the culprit（紧张的驾驶才是罪魁祸首）。"
+   },
+   {
+    "term": "对照组的设计",
+    "explain": "公交司机与出租车司机的驾驶经验和压力相当，区别只在于是否需要灵活认路。让两组人只在一个关键因素上不同，再比较结果，是科学研究排除干扰因素的常用方法。"
+   },
+   {
+    "term": "A December 2006 study",
+    "explain": "时间名词作前置定语，是新闻写作中的压缩说法，意思相当于 a study published in December 2006。第12句 A December 2011 longitudinal study 也是如此。"
+   }
+  ],
+  "translation_tip": "视频译文“2006年12月的一项研究打消了第二种想法：出租车司机后部的灰质更多，灰质即密布神经细胞的组织，比公交司机的多；这些公交司机局限于预先确定的线路，经验和压力（与出租车司机）都是相当的。”的处理：①冒号前按原顺序译出，时间名词定语译为“2006年12月的一项研究”。②冒号后的比较句被同位语隔开，译文顺着英文语序拆成短句：先说“出租车司机后部的灰质更多”，再用“灰质即……”译出同位语，然后用“比公交司机的多”补出比较对象。③than bus drivers 后的两个后置定语没有前置，而是拆成独立分句，以“这些公交司机”回指，分别译出“局限于预先确定的线路”和“经验和压力（与出租车司机）都是相当的”，括号增补比较对象。④“比公交司机的多”后用分号，把比较结果和对公交司机的说明分开。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "A December 2011 longitudinal study",
+   "predicate": "tackled",
+   "object_or_complement": "the first（the first notion 的省略）",
+   "explain": "主谓宾结构，一般过去时，主动语态；句尾的现在分词短语 scanning... 作方式状语，说明这项研究是如何处理第一种想法的。"
+  },
+  "components": [
+   {
+    "text": "A December 2011 longitudinal study",
+    "zh": "2011年12月的一项纵向的研究",
+    "role": "主语（December 2011 和 longitudinal 都作前置定语）"
+   },
+   {
+    "text": "tackled",
+    "zh": "（着手）处理",
+    "role": "谓语"
+   },
+   {
+    "text": "the first,",
+    "zh": "第一种想法（即天赋把人吸引到这一行）",
+    "role": "宾语（the first 后省略了 notion）"
+   },
+   {
+    "text": "scanning",
+    "zh": "扫描了",
+    "role": "方式状语（现在分词短语）的中心词"
+   },
+   {
+    "text": "79 trainees and 31 non-trainees",
+    "zh": "79名学员和31名非学员",
+    "role": "scanning 的宾语"
+   },
+   {
+    "text": "at enrolment",
+    "zh": "分别在入学时",
+    "role": "时间状语一"
+   },
+   {
+    "text": "and three to four years later.",
+    "zh": "和三到四年后（各扫描一次）",
+    "role": "并列连词 and + 时间状语二"
+   }
+  ],
+  "structure": "①主语 A December 2011 longitudinal study：December 2011 是时间名词作前置定语，longitudinal 也作前置定语，说明这是一项纵向研究（视频说明：长期追踪同一批人）。\n②谓语 tackled，宾语 the first。first 后省略了 notion，承接上句的 the second notion，指第10句的第一种想法：天生的空间天赋把人吸引到出租车行业。视频在括号里补出了这一所指。\n③scanning 79 trainees and 31 non-trainees at enrolment and three to four years later 是现在分词短语作方式状语，逻辑主语是 study，说明研究的做法。79 trainees and 31 non-trainees 是 scanning 的宾语；at enrolment 和 three to four years later 是由 and 连接的两个并列时间状语，表示两次扫描的时间。\n④推理过程：同一批人在入学时扫描一次，三四年后再扫描一次，就能看出大脑差异是原来就有，还是学习之后才出现。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作方式状语",
+    "explain": "现在分词短语放在句尾、用逗号隔开时，常作方式、伴随或结果状语。它的逻辑主语一般就是句子的主语，二者是主动关系。本句 scanning... 的逻辑主语是 A December 2011 longitudinal study，说明研究“通过扫描……”来处理问题。易错点：分词的逻辑主语必须与句子主语一致，否则就成了“垂悬分词”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The researchers tracked 500 families for a decade, interviewing each household twice a year.",
+      "zh": "研究人员对500个家庭进行了十年的追踪，每年对每户访谈两次。"
+     },
+     {
+      "en": "The storm swept across the coast, destroying hundreds of homes.",
+      "zh": "风暴席卷了沿海地区，摧毁了数百座房屋。"
+     }
+    ]
+   },
+   {
+    "title": "序数词后省略名词",
+    "explain": "为了避免重复，前文出现过的名词在序数词、形容词最高级等后面可以省略，如 the first、the second、the latter、the former。本句 the first 承接上句的 the second notion，省略了 notion，意为“第一种想法”。阅读时要回到前文找出具体内容：第10句的第一种推测。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Two explanations were offered; the first was rejected almost immediately.",
+      "zh": "有人提出了两种解释，第一种几乎立刻就被否定了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "longitudinal study",
+    "explain": "纵向研究，指在较长时间内多次观察同一批对象，追踪其变化，视频说明为“长期追踪同一批人”；与之相对的是 cross-sectional study（横断面研究），即在同一时间点比较不同的人群。本文前两项研究都是在一个时间点比较不同人群。"
+   },
+   {
+    "term": "tackle",
+    "explain": "熟词僻义：原指体育比赛中的“抢断，擒抱”，引申为“着手处理，解决（难题）”，如 tackle a problem。视频译为“（着手）处理”。"
+   },
+   {
+    "term": "trainee 与 non-trainee",
+    "explain": "trainee 指受训者、学员；non- 是否定前缀，non-trainees 指没有参加培训的人，即对照组，视频译为“非学员”。"
+   },
+   {
+    "term": "enrolment",
+    "explain": "入学，注册。enrolment 是英式拼写，美式拼作 enrollment。at enrolment 意为“入学时”。"
+   }
+  ],
+  "translation_tip": "视频译文“2011年12月的一项纵向的研究（着手）处理第一种想法（即天赋把人吸引到这一行），扫描了79名学员和31名非学员，分别在入学时和三到四年后（各扫描一次）。”的处理：①tackled 译为“（着手）处理”，括号里的“着手”点出研究是专门针对这一想法展开的。②省略形式 the first 补全为“第一种想法”，再用括号说明其内容，把省略的名词和所指都交代清楚。③现在分词短语 scanning... 按原顺序译成后续分句“扫描了……”。④两个并列时间状语没有前置，放在句末译为“分别在入学时和三到四年后（各扫描一次）”，增补“分别”和“各扫描一次”，说明同一批人被扫描了两次。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Their brains",
+   "predicate": "began",
+   "object_or_complement": "alike（表语）",
+   "explain": "主系表结构。began 在这里起系动词作用，表示“开始时处于某种状态”，形容词 alike 作表语；谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Their brains",
+    "zh": "他们的大脑",
+    "role": "主语（Their 指上句的学员和非学员）"
+   },
+   {
+    "text": "began",
+    "zh": "一开始",
+    "role": "谓语（起系动词作用）"
+   },
+   {
+    "text": "alike.",
+    "zh": "都一样",
+    "role": "表语（表语形容词）"
+   }
+  ],
+  "structure": "①主语 Their brains，Their 指上句的 79 trainees and 31 non-trainees。\n②began 本义“开始”，在这里后接形容词，表示“一开始处于某种状态”，相当于 Their brains were alike at the beginning。\n③alike 是表语形容词，意为“相像的，相同的”，只能作表语，不能放在名词前作定语，不能说 alike brains（应说 similar brains）。\n④本句很短，交代纵向研究的起点：入学时两组人的大脑没有差别。如果天生的空间天赋把人吸引到这一行，学员入学时的大脑就应该与众不同，所以这一结果否定了第一种想法，也为下句的结论提供了前提。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "表语形容词 alike",
+    "explain": "一些以 a- 开头的形容词通常只作表语，不作前置定语，如 alike、alive、asleep、awake、alone、afraid。表示“相似的大脑”要说 similar brains，不能说 alike brains。alike 还可以作副词，意为“同样地”，如 treat everyone alike；A and B alike 意为“A 和 B 都”，如 students and teachers alike，这一结构在考研阅读中很常见。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The twins look so alike that even their teachers confuse them.",
+      "zh": "这对双胞胎长得太像了，连老师都会认错。"
+     },
+     {
+      "en": "The new rules affect large and small firms alike.",
+      "zh": "新规定对大公司和小公司都有影响。"
+     }
+    ]
+   },
+   {
+    "title": "begin/start + 形容词",
+    "explain": "begin、start 一般后接名词、不定式或动名词，但也可以后接形容词，表示“起初处于某种状态”，起系动词的作用，如 start small（从小规模起步）。本句 began alike 即“一开始都一样”，强调的是起点状态。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many successful companies started small.",
+      "zh": "许多成功的公司都是从小规模起步的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "alike",
+    "explain": "形容词，意为“相像的，相同的”，视频译为“一样”。本句指入学时学员和非学员两组人的大脑没有明显差别。"
+   },
+   {
+    "term": "Their",
+    "explain": "回指第12句的79名学员和31名非学员，视频译为“他们的”。"
+   }
+  ],
+  "translation_tip": "视频译文“他们的大脑一开始都一样。”的处理：①began 没有译成“开始”，而是转换为时间状语“一开始”，放在谓语前。②表语 alike 译为“都一样”，“都”体现主语是复数，涵盖学员和非学员两组人。③全句短小，与原文一样简洁。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Only the 39 who qualified；the sequence",
+   "predicate": "exhibited；suggests",
+   "object_or_complement": "an expansion of rear grey matter；（that）learning preceded the enlargement（宾语从句）",
+   "explain": "由 so 连接的并列句。前一分句为主谓宾结构，谓语 exhibited 为一般过去时，叙述研究结果；后一分句也是主谓宾结构，谓语 suggests 为一般现在时，表示作者现在的推断，宾语是省略了 that 的宾语从句，从句谓语 preceded 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Only the 39",
+    "zh": "只有……39人",
+    "role": "主语（only 修饰主语，限定范围）"
+   },
+   {
+    "text": "who qualified",
+    "zh": "最终合格的",
+    "role": "限制性定语从句，修饰 the 39"
+   },
+   {
+    "text": "exhibited",
+    "zh": "表现出",
+    "role": "谓语"
+   },
+   {
+    "text": "an expansion of rear grey matter,",
+    "zh": "后部灰质的扩大",
+    "role": "宾语（of rear grey matter 作 expansion 的后置定语）"
+   },
+   {
+    "text": "so",
+    "zh": "因此",
+    "role": "并列连词，表示结果"
+   },
+   {
+    "text": "the sequence",
+    "zh": "这一先后顺序",
+    "role": "主语"
+   },
+   {
+    "text": "suggests",
+    "zh": "表明",
+    "role": "谓语"
+   },
+   {
+    "text": "learning",
+    "zh": "学习",
+    "role": "宾语从句（省略 that）的主语"
+   },
+   {
+    "text": "preceded",
+    "zh": "先于",
+    "role": "宾语从句的谓语"
+   },
+   {
+    "text": "the enlargement.",
+    "zh": "（灰质的）增大发生",
+    "role": "宾语从句的宾语（回指 an expansion of rear grey matter）"
+   }
+  ],
+  "structure": "①第一个分句：主语 the 39，“the + 数词”指前文提到的特定的39个人；only 修饰主语，限定范围。who qualified 是限制性定语从句，修饰 the 39，who 在从句中作主语。谓语 exhibited，宾语 an expansion of rear grey matter，of rear grey matter 作 expansion 的后置定语，说明是什么扩大了。\n②so 连接表示结果的分句 the sequence suggests learning preceded the enlargement。the sequence 指研究中观察到的先后顺序：入学时大脑一样，学习三四年并合格之后，后部灰质才扩大。suggests 后面是省略了 that 的宾语从句，从句主语 learning，谓语 preceded，宾语 the enlargement。\n③suggest 在这里意为“表明”，不是“建议”，所以从句用陈述语气，谓语用一般过去时 preceded。\n④the enlargement 回指前面的 an expansion of rear grey matter，用同义词替换以避免重复，定冠词 the 表示回指；视频增补“（灰质的）”点明所指。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "only 修饰主语时不倒装",
+    "explain": "only 加状语（副词、介词短语、状语从句）放在句首时，主句要部分倒装，如 Only then did I realise the truth；但 only 修饰的是主语时，句子不倒装，因为 only 并没有修饰状语。本句 Only the 39 who qualified exhibited... 中 only 修饰主语 the 39，所以用正常语序。考研完形和翻译中常考这一区别。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only in the past decade have scientists begun to map the brain in such detail.",
+      "zh": "直到最近十年，科学家才开始如此细致地绘制大脑图谱。"
+     },
+     {
+      "en": "Only members of staff may use this entrance.",
+      "zh": "只有工作人员可以使用这个入口。"
+     }
+    ]
+   },
+   {
+    "title": "suggest 的两种意思与从句语气",
+    "explain": "suggest 意为“建议”时，that 从句用（should）+ 动词原形，如 He suggested that we (should) leave early；意为“表明，暗示”时，从句用陈述语气，时态按实际情况而定。本句 the sequence suggests learning preceded the enlargement 是“表明”的意思，所以从句用一般过去时 preceded。insist 也有类似区别：“坚持要求”时从句用虚拟语气，“坚持认为”时用陈述语气。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The data suggest that the drug is less effective in older patients.",
+      "zh": "数据表明，这种药对老年患者效果较差。"
+     },
+     {
+      "en": "The doctor suggested that she take a week off work.",
+      "zh": "医生建议她休一周假。"
+     }
+    ]
+   },
+   {
+    "title": "宾语从句省略 that",
+    "explain": "动词后的宾语从句中，引导词 that 常可省略，在 say、think、believe、suggest 等常用动词后尤其如此，如本句 suggests (that) learning preceded...。阅读时，如果动词后面直接出现“主语 + 谓语”，就是省略了 that 的宾语从句。第16句 imply 后面也省略了 that。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most experts believe the economy will recover next year.",
+      "zh": "大多数专家认为经济明年会复苏。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the 39",
+    "explain": "“the + 基数词”可以指前文提到的特定的人或物，这里指79名学员中最终合格的39人。79人中39人合格，约为一半，与第4句 only about half qualify 一致。"
+   },
+   {
+    "term": "exhibit",
+    "explain": "本句意为“表现出，显示出（特征、迹象）”，常见搭配有 exhibit symptoms、exhibit signs；也可以指“展出”。视频译为“表现出”。"
+   },
+   {
+    "term": "precede",
+    "explain": "意为“在……之前发生”，A precedes B 即 A 先于 B；形容词 preceding 意为“前面的，之前的”，反义词是 follow。视频译为“先于”。"
+   },
+   {
+    "term": "expansion 与 enlargement",
+    "explain": "两词都表示“增大”。本句先用 expansion，再用 enlargement 回指同一现象，以避免重复，是英语写作中常见的同义替换。"
+   }
+  ],
+  "translation_tip": "视频译文“只有最终合格的39人表现出后部灰质的扩大，因此这一先后顺序表明，学习先于（灰质的）增大发生。”的处理：①定语从句 who qualified 前置，译为“最终合格的39人”，增补“最终”，表明合格是三四年后的结果；only 译为“只有”。②so 译为“因此”；the sequence 译为“这一先后顺序”，“这一”体现 the 的回指。③宾语从句按原顺序译出，preceded 译为“先于”，句末增补“发生”，使“学习先于……增大发生”语意完整；括号增补“（灰质的）”，说明 enlargement 的所指。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The gain",
+   "predicate": "appeared to entail",
+   "object_or_complement": "a trade-off",
+   "explain": "主谓宾结构。谓语 appeared to entail 是“appear + 不定式”，表示推测，一般过去时，主动语态。冒号后是一个完整的主谓宾句，谓语 trailed 为一般过去时，说明代价是什么。"
+  },
+  "components": [
+   {
+    "text": "The gain",
+    "zh": "这种收获",
+    "role": "主语（回指上文后部灰质的增加）"
+   },
+   {
+    "text": "appeared to entail",
+    "zh": "似乎必然带来",
+    "role": "谓语（appear + 不定式，表示推测）"
+   },
+   {
+    "text": "a trade-off:",
+    "zh": "某种代价",
+    "role": "宾语"
+   },
+   {
+    "text": "qualified drivers",
+    "zh": "合格的司机",
+    "role": "冒号后分句的主语（qualified 是过去分词作前置定语）"
+   },
+   {
+    "text": "trailed",
+    "zh": "落后于",
+    "role": "冒号后分句的谓语"
+   },
+   {
+    "text": "the non-trainees",
+    "zh": "非学员",
+    "role": "宾语"
+   },
+   {
+    "text": "on one test",
+    "zh": "是在……这项测试上",
+    "role": "状语（介词短语，说明在哪方面落后）"
+   },
+   {
+    "text": "of recalling an intricate figure.",
+    "zh": "“回忆一幅复杂的图形”",
+    "role": "后置定语（of + 动名词短语），修饰 test"
+   }
+  ],
+  "structure": "①冒号前：主语 The gain 回指上句所说的后部灰质的增加；appeared to entail 中，appear 后接不定式表示“似乎……”，entail 意为“必然带来”；a trade-off 作宾语，视频说明为“权衡取舍、此消彼长；这里指有得必有失”。\n②冒号后具体说明代价：主语 qualified drivers，qualified 是过去分词作前置定语，意为“合格的”，指通过考试的司机；谓语 trailed 意为“落后于”，宾语 the non-trainees。\n③on one test 是介词短语作状语，说明在哪方面落后；of recalling an intricate figure 是“of + 动名词短语”作后置定语，修饰 test，说明测试的内容。recalling 是动名词，作介词 of 的宾语，an intricate figure 是 recalling 的宾语。\n④one test 中的 one 强调只是一项测试，配合 appeared to，作者措辞谨慎。视频说明：认路能力提高了，另一类记忆表现却可能较弱，并不是所有记忆能力都一起变好了。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "appear/seem + 不定式表示推测",
+    "explain": "appear 和 seem 后接不定式，表示“似乎，看起来”，带有推测语气，可以与“It appears/seems that + 从句”互换：The gain appeared to entail a trade-off = It appeared that the gain entailed a trade-off。不定式还可以用完成式和进行式：appear to have done（似乎已经……）、appear to be doing（似乎正在……）。考研阅读中，appear to、seem to 表明作者没有下定论，态度题和推断题常考。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy appears to have reduced traffic in the city centre.",
+      "zh": "新政策似乎减少了市中心的交通流量。"
+     },
+     {
+      "en": "Consumers seem to be losing confidence in online reviews.",
+      "zh": "消费者似乎正在对网上评论失去信心。"
+     }
+    ]
+   },
+   {
+    "title": "of + 动名词短语作后置定语",
+    "explain": "动名词可以作介词的宾语，“名词 + of + 动名词短语”说明名词的具体内容，如 the cost of living（生活费用）、the habit of reading（阅读的习惯）。本句 one test of recalling an intricate figure 即“回忆一幅复杂的图形这项测试”。介词后面要用动名词，不能用动词原形或不定式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The idea of working from home appeals to many parents.",
+      "zh": "居家办公这一想法吸引了许多家长。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "trade-off",
+    "explain": "权衡取舍，此消彼长，指为了得到一样东西而不得不放弃另一样东西，常用 a trade-off between A and B。视频说明：权衡取舍、此消彼长；这里指有得必有失。本句视频译为“代价”。"
+   },
+   {
+    "term": "entail",
+    "explain": "正式用词，意为“必然带来，使成为必要”，如 The job entails a lot of travel。视频译为“必然带来”。"
+   },
+   {
+    "term": "trail",
+    "explain": "熟词僻义：常见义为“小路，踪迹”；作动词时可以表示在比赛、选举中“落后于”，如 trail in the polls（民调落后）。视频译为“落后于”。"
+   },
+   {
+    "term": "intricate figure",
+    "explain": "复杂的图形。figure 在这里不是“数字”或“人物”，而是“图形，图案”。"
+   },
+   {
+    "term": "gain",
+    "explain": "名词，意为“收获，增加”。The gain 回指上文出租车司机后部灰质的增加，视频译为“这种收获”。"
+   }
+  ],
+  "translation_tip": "视频译文“这种收获似乎必然带来某种代价：合格的司机落后于非学员，是在“回忆一幅复杂的图形”这项测试上。”的处理：①The gain 译为“这种收获”，体现 the 的回指。②a trade-off 结合语境译为“某种代价”，“某种”对应不定冠词 a，措辞留有余地。③冒号后的状语 on one test of... 没有前置，而是放到句末单独译成“是在……这项测试上”：先说结果“落后于非学员”，再补充在哪项测试上，信息层次清楚；测试内容加引号，作为测试名称。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The cohorts；the studies",
+   "predicate": "were；imply",
+   "object_or_complement": "small and exclusively male（表语）；（that）the healthy adult brain can remodel itself through intensive learning（宾语从句）",
+   "explain": "由 yet 连接的并列句。前一分句为主系表结构，系动词 were 为一般过去时；后一分句为主谓宾结构，谓语 imply 为一般现在时，表示研究得出的结论，宾语是省略了 that 的宾语从句，从句谓语 can remodel 由情态动词加动词原形构成。"
+  },
+  "components": [
+   {
+    "text": "The cohorts",
+    "zh": "这些研究的样本群体",
+    "role": "主语"
+   },
+   {
+    "text": "were",
+    "zh": "（系动词，不单独译出）",
+    "role": "系动词（谓语）"
+   },
+   {
+    "text": "small",
+    "zh": "规模小",
+    "role": "表语一"
+   },
+   {
+    "text": "and exclusively male,",
+    "zh": "而且专门都是男性",
+    "role": "并列连词 and + 表语二（副词 exclusively 修饰形容词 male）"
+   },
+   {
+    "text": "yet",
+    "zh": "但",
+    "role": "并列连词，表示转折"
+   },
+   {
+    "text": "the studies",
+    "zh": "这些研究",
+    "role": "主语"
+   },
+   {
+    "text": "imply",
+    "zh": "暗示/意味着",
+    "role": "谓语"
+   },
+   {
+    "text": "the healthy adult brain",
+    "zh": "健康的成人大脑",
+    "role": "宾语从句（省略 that）的主语"
+   },
+   {
+    "text": "can remodel itself",
+    "zh": "可以重塑自身",
+    "role": "宾语从句的谓语 + 宾语（反身代词 itself）"
+   },
+   {
+    "text": "through intensive learning.",
+    "zh": "靠的是高强度的学习",
+    "role": "方式状语（介词短语）"
+   }
+  ],
+  "structure": "①前一分句 The cohorts were small and exclusively male：cohorts 指几项研究中的受试群体（视频说明：被一起追踪研究的一组人）；small 和 exclusively male 是由 and 连接的并列表语，exclusively 是副词，修饰形容词 male，意为“全部都是男性”。\n②yet 是表示转折的并列连词：前面承认研究的局限（样本小，全是男性），后面仍然给出结论。\n③后一分句 the studies imply the healthy adult brain can remodel itself through intensive learning：imply 后是省略了 that 的宾语从句。从句主语 the healthy adult brain，healthy 和 adult 都作前置定语；谓语 can remodel，itself 是反身代词作宾语，指大脑本身；through intensive learning 是介词短语作方式状语。\n④先让步、后结论，是学术写作常见的论证方式：作者先承认研究的不足，再给出结论，并且用 imply 而不用 prove，语气有所保留。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "imply 与 infer 的区别",
+    "explain": "imply 的主语是说话人、证据或研究，意为“暗示，意味着”，信息由主语“发出”；infer 的主语是听话人或读者，意为“推断出”，常用 infer sth from sth。本句主语是 the studies，所以用 imply，视频译为“暗示/意味着”；imply 后接宾语从句时 that 可以省略。考研阅读推断题的题干常用 It can be inferred from the passage that... 和 The author implies that...，两者分别对应读者的推断和作者的暗示。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "His silence implied that he disagreed with the decision.",
+      "zh": "他的沉默暗示他不同意这个决定。"
+     },
+     {
+      "en": "From her tone, I inferred that she was unhappy with the result.",
+      "zh": "从她的语气中，我推断出她对结果不满意。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作宾语",
+    "explain": "动作的承受者就是主语本身时，宾语要用反身代词，如 The brain can remodel itself，不能用 it，否则 it 会被理解为另一个事物。常见的还有 protect oneself、express oneself、devote oneself to sth。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Damaged coral reefs can repair themselves if the water stays clean.",
+      "zh": "如果水质保持清洁，受损的珊瑚礁可以自我修复。"
+     }
+    ]
+   },
+   {
+    "title": "副词修饰形容词作表语",
+    "explain": "副词放在形容词前面，可以修饰形容词，如 exclusively male、entirely new、highly effective。exclusively 意为“只，全部”，exclusively male 表示没有一个女性。本句 small 和 exclusively male 是并列表语，都跟在系动词 were 后面。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The club was once exclusively male but now admits women.",
+      "zh": "这个俱乐部过去只接纳男性，现在也接纳女性了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cohort",
+    "explain": "视频说明：被一起追踪研究的一组人。在统计和医学研究中，cohort 指具有某种共同特征的一组研究对象，cohort study 即“队列研究”。复数 cohorts 指本文几项研究各自的受试群体，视频译为“这些研究的样本群体”。"
+   },
+   {
+    "term": "神经可塑性",
+    "explain": "神经科学把大脑随经验和学习改变自身结构和功能的能力称为神经可塑性（neuroplasticity）。本句 the healthy adult brain can remodel itself 说的就是成人大脑的这种可塑性。"
+   },
+   {
+    "term": "intensive 与 intense",
+    "explain": "intensive 意为“高强度的，密集的”，多修饰有组织、有计划的活动，如 intensive training、intensive care（重症监护）；intense 意为“强烈的”，如 intense heat。视频把 intensive 译为“高强度的”。"
+   },
+   {
+    "term": "研究的局限",
+    "explain": "样本小、全为男性，结论能否推广到女性和其他人群还有待验证。考研阅读中，作者指出研究局限之后用 yet、but、still 引出结论，常是出题点。"
+   }
+  ],
+  "translation_tip": "视频译文“这些研究的样本群体规模小，而且专门都是男性，但这些研究暗示/意味着，健康的成人大脑可以重塑自身，靠的是高强度的学习。”的处理：①主语 The cohorts 增补为“这些研究的样本群体”，交代群体所属。②两个并列表语拆成“规模小”“而且专门都是男性”两个短句，exclusively 译为“专门”，加“都”强调全部。③yet 译为“但”；imply 按视频保留“暗示/意味着”两种译法。④宾语从句中的方式状语 through intensive learning 没有前置，而是放在句末单独译出“靠的是高强度的学习”，突出重塑的途径。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Every street learned",
+   "predicate": "occupied",
+   "object_or_complement": "room",
+   "explain": "主谓宾结构。谓语 occupied 为一般过去时，主动语态；it seems 是插入语，表示推测；宾语 room 后接过去分词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "Every street",
+    "zh": "每……一条街道",
+    "role": "主语"
+   },
+   {
+    "text": "learned,",
+    "zh": "记住",
+    "role": "后置定语（过去分词），修饰 Every street"
+   },
+   {
+    "text": "it seems,",
+    "zh": "看来",
+    "role": "插入语，表示推测"
+   },
+   {
+    "text": "occupied",
+    "zh": "都占据了",
+    "role": "谓语"
+   },
+   {
+    "text": "room",
+    "zh": "一块空间",
+    "role": "宾语（不可数名词，意为“空间”）"
+   },
+   {
+    "text": "once claimed by something else.",
+    "zh": "这块空间原本被别的东西占用着",
+    "role": "后置定语（过去分词短语），修饰 room"
+   }
+  ],
+  "structure": "①主语 Every street learned：learned 是过去分词作后置定语，修饰 Every street，相当于 every street that was learned，即“每一条被记住的街道”。every 修饰单数可数名词，作主语时谓语用单数。\n②it seems 是插入语，用逗号隔开，表示说话人的推测，相当于 It seems that every street learned occupied room...。\n③谓语 occupied，宾语 room。room 在这里是不可数名词，意为“空间”，不是“房间”，所以前面没有冠词。\n④once claimed by something else 是过去分词短语作后置定语，修饰 room，相当于 which had once been claimed by something else。once 是副词，意为“曾经，原本”；claimed 意为“占用”；by something else 引出动作的执行者。\n⑤本句是全文的结尾，呼应第15句的 trade-off：作者用 it seems 推测，每记住一条街道，就占用了大脑中原本属于别的东西的空间。这是带有比喻色彩的推测性总结，并非定论。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "单个过去分词作后置定语",
+    "explain": "单个分词作定语一般放在名词前，如 a broken window；但名词前有 every、all、the only、最高级等限定词，或分词表示具体的一次性动作时，单个分词也常放在名词后，如 the money spent、the problems solved。本句 every street learned 中 learned 后置，意为“学过、记住的每一条街道”。once claimed by something else 带有修饰成分，作定语时必须后置。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The only person injured was a passer-by.",
+      "zh": "唯一受伤的是一名路人。"
+     },
+     {
+      "en": "Every dollar saved today is a dollar available for future investment.",
+      "zh": "今天省下的每一美元，都是将来可用于投资的一美元。"
+     }
+    ]
+   },
+   {
+    "title": "插入语 it seems",
+    "explain": "it seems、I think、it is said 等可以作插入语，放在句中，用逗号隔开，表示说话人的态度或推测；去掉插入语，句子结构仍然完整。本句 it seems 插在主语和谓语之间，相当于 It seems that every street learned occupied room...。考研阅读中，带这类插入语的内容是作者的推测，不能当作确定的事实。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The decision, it seems, was made before the meeting even began.",
+      "zh": "看来，这个决定在会议开始之前就已经作出了。"
+     }
+    ]
+   },
+   {
+    "title": "room 作不可数名词",
+    "explain": "room 作可数名词意为“房间”；作不可数名词意为“空间，地方”或“余地”，如 make room for（为……腾出地方）、There is no room for doubt（毫无疑问的余地）。本句 occupied room 中 room 前没有冠词，是不可数名词“空间”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new sofa takes up too much room in the living room.",
+      "zh": "新沙发在客厅里占了太多空间。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "claim",
+    "explain": "熟词僻义：常见义为“声称，要求”，本句意为“占用”，指那块空间原本已被别的东西用上；claim 还可以指灾难、疾病“夺去（生命）”，如 The earthquake claimed more than 200 lives。视频译为“占用”。"
+   },
+   {
+    "term": "occupy",
+    "explain": "占据（空间、时间），视频译为“占据了”；也可以表示“占领”和“使忙于”（occupy oneself with sth）。第10句的名词 occupation（职业）与它同根。"
+   },
+   {
+    "term": "once",
+    "explain": "副词，意为“曾经，原本”，本句 once claimed 即“原本被占用”；once 作连词时意为“一旦”。"
+   },
+   {
+    "term": "篇章作用",
+    "explain": "本句是全文的收尾句，用带比喻色彩的推测呼应第15句的 trade-off（代价）。视频说明的简述最后一句“认路能力增强，未必等于各种记忆都增强”正是对这一层意思的概括。"
+   }
+  ],
+  "translation_tip": "视频译文“看来，每记住一条街道，都占据了一块空间，这块空间原本被别的东西占用着。”的处理：①插入语 it seems 提到句首，译为“看来”，统领全句。②主语 Every street learned 转换为动词结构“每记住一条街道”，后置定语 learned 译为动词“记住”。③room 增补量词，译为“一块空间”；后置定语 once claimed by something else 没有前置，而是拆成独立分句，用“这块空间”回指，再译出“原本被别的东西占用着”，保留被动意味。④增补“都”，与 Every 对应。"
+ }
+]

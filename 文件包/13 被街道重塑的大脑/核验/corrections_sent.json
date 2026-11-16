@@ -1,0 +1,58 @@
+[
+ {
+  "key": 1,
+  "field": "trunk.explain",
+  "before": "谓语 will rattle off 为一般将来时，主动语态。",
+  "after": "谓语 will rattle off 形式上是一般将来时，主动语态，这里表示满足条件后必然出现的结果（见语法点“will 表示必然结果或惯常特征”）。",
+  "reason": "trunk 说一般将来时、语法点说 will 不表预言，前后不一致；改为“形式上”并点明实际含义"
+ },
+ {
+  "key": 4,
+  "field": "grammar.0.explain",
+  "before": "cost 的主语是物，而且只用于金钱。",
+  "after": "cost 的主语是物，多指花费金钱，也可以指使人付出代价，如 The mistake cost him his job。",
+  "reason": "“cost 只用于金钱”不准确，cost 还可表示使失去、付出代价"
+ },
+ {
+  "key": 4,
+  "field": "knowledge.2.explain",
+  "before": "这个词源于希腊神话中克里特国王米诺斯用来囚禁牛头怪的迷宫。",
+  "after": "这个词经拉丁语来自希腊语 labyrinthos，在希腊神话中特指代达罗斯为克里特国王米诺斯修建、用来囚禁牛头怪的迷宫。",
+  "reason": "“词源于神话中的迷宫”表述不准，按 Etymonline 改为来自希腊语 labyrinthos、在神话中特指该迷宫"
+ },
+ {
+  "key": 11,
+  "field": "knowledge.3.explain",
+  "before": "区别只在于是否需要灵活认路。让两组人只在一个关键因素上不同，再比较结果",
+  "after": "关键区别在于是否需要灵活认路。让两组人在主要条件上相当、只在关键因素上不同，再比较结果",
+  "reason": "原文只说经验和压力相当，“区别只在于”说过头，改为“关键区别在于”"
+ },
+ {
+  "key": 12,
+  "field": "knowledge.1.explain",
+  "before": "熟词僻义：原指体育比赛中的“抢断，擒抱”，引申为“着手处理，解决（难题）”，如 tackle a problem。",
+  "after": "tackle 作动词既可以指橄榄球、足球中的“擒抱，抢断”，也常表示“着手处理，设法解决（难题）”，如 tackle a problem、tackle climate change，后者是考研阅读和写作中的高频义。",
+  "reason": "“处理难题”义并非由体育义引申（据 Etymonline 两义各自由“揪住、较量”发展而来，且处理义出现更早），删去错误的引申关系"
+ },
+ {
+  "key": 12,
+  "field": "grammar.0.examples.1.en",
+  "before": "The storm swept across the coast, destroying hundreds of homes.",
+  "after": "The scientists examined the fossils, comparing each one with specimens from nearby sites.",
+  "reason": "原例句的分词短语是结果状语，不示范标题中的方式状语，换成方式状语例句"
+ },
+ {
+  "key": 12,
+  "field": "grammar.0.examples.1.zh",
+  "before": "风暴席卷了沿海地区，摧毁了数百座房屋。",
+  "after": "科学家们研究了这些化石，把每一块都与附近遗址出土的标本进行比对。",
+  "reason": "随例句更换译文"
+ },
+ {
+  "key": 13,
+  "field": "structure",
+  "before": "所以这一结果否定了第一种想法",
+  "after": "所以这一结果不支持第一种想法",
+  "reason": "原文用 suggests 表推断，“否定了”语气过强，改为“不支持”"
+ }
+]
