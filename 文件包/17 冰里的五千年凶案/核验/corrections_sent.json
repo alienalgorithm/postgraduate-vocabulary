@@ -1,0 +1,30 @@
+[
+ {
+  "key": "n=1",
+  "field": "grammar.2.explain",
+  "before": "beside 也表示“在旁边”，多用于人或较小的物体。",
+  "after": "beside 也表示“在……旁边”，与表示位置的 by 意思相近，如 a house beside the river。",
+  "reason": "“beside 多用于人或较小的物体”没有词典依据，是编造的规则，改为准确说明"
+ },
+ {
+  "key": "n=12",
+  "field": "grammar.2.explain",
+  "before": "from 也能引出距离，但要与 away 连用，如 from 30 metres away。",
+  "after": "from 也能引出距离，表示从多远处发出动作，如 shoot from 30 metres、from 30 metres away。",
+  "reason": "from 表距离并非必须与 away 连用（如 scored from 30 metres），原规则说得过死"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar.1.explain",
+  "before": "unaware 常作形容词，",
+  "after": "unaware 是形容词，",
+  "reason": "unaware 只有形容词词性，“常作”不准确"
+ },
+ {
+  "key": "n=11",
+  "field": "structure",
+  "before": "表示这是人们普遍接受的推断",
+  "after": "表示这是一般的推断",
+  "reason": "it is thought 只表示“据认为”，不能说成“普遍接受”，避免夸大原文的推测语气"
+ }
+]

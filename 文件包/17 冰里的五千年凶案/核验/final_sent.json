@@ -1,0 +1,1621 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "two German hikers",
+   "predicate": "found",
+   "object_or_complement": "a corpse",
+   "explain": "主干是 two German hikers found a corpse，主谓宾结构。谓语 found 是 find 的过去式，一般过去时，主动语态，叙述1991年发生的一件具体的事。"
+  },
+  "components": [
+   {
+    "text": "On 19 September 1991",
+    "zh": "1991年9月19日",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "two German hikers",
+    "zh": "两名德国徒步者",
+    "role": "主语"
+   },
+   {
+    "text": "on a trek in the Ötztal Alps",
+    "zh": "在奥茨塔尔阿尔卑斯山远足时",
+    "role": "后置定语（介词短语），修饰 hikers；in the Ötztal Alps 又修饰 trek，交代远足的地点"
+   },
+   {
+    "text": "found",
+    "zh": "发现了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "a corpse",
+    "zh": "一具尸体",
+    "role": "宾语"
+   },
+   {
+    "text": "by a glacier.",
+    "zh": "在一条冰川旁",
+    "role": "地点状语（介词短语，by 意为“在……旁边”）"
+   }
+  ],
+  "structure": "①主句是 two German hikers found a corpse：主语 two German hikers，谓语 found，宾语 a corpse。句首 On 19 September 1991 是时间状语，具体到某一天，所以用介词 on。\n②主语后的 on a trek in the Ötztal Alps 是介词短语作后置定语，修饰 hikers（视频说明），说明这两名徒步者当时正处在远足途中：on a trek 意为“在远足途中”，in the Ötztal Alps 又作 trek 的后置定语，交代远足的地点。\n③句末 by a glacier 是介词短语作地点状语，by 意为“在……旁边”，说明发现尸体的位置。\n④全句只有一个谓语 found。主语和谓语之间隔着一个较长的介词短语，读的时候先越过 on a trek in the Ötztal Alps，找到 found，主干就清楚了。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词短语作后置定语，隔开主语和谓语",
+    "explain": "介词短语修饰名词时放在名词之后，汉语则把定语放在名词前。本句 on a trek in the Ötztal Alps 紧跟在主语 hikers 之后，说明他们当时在做什么，使主语和谓语 found 相隔较远。on 后接表示活动的名词，可表示“处于某项活动之中”，如 on a trip、on holiday、on duty、on strike。考研长难句常在主语后插入介词短语、分词短语或从句，做题时先找出真正的谓语动词，再回头看修饰成分，才不会把定语中的名词误当成主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Tourists on a guided tour of the castle were asked to stay together.",
+      "zh": "参加城堡导览游的游客被要求不要走散。"
+     },
+     {
+      "en": "Two reporters on assignment in the region were stopped at a checkpoint.",
+      "zh": "在该地区执行采访任务的两名记者在一个检查站被拦了下来。"
+     }
+    ]
+   },
+   {
+    "title": "具体日期的介词和英式写法",
+    "explain": "年份、月份前用 in（in 1991、in September），具体到某一天用 on（on 19 September 1991、on Monday）。英式英语习惯“日、月、年”的顺序，写作 19 September 1991，读作 the nineteenth of September, nineteen ninety-one；美式英语多写作 September 19, 1991。本句是英式写法。汉语日期按“年、月、日”由大到小排列，翻译时要调整顺序。写作中常见错误是把 on 和 in 混用，如误写成 in 19 September。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new bridge will open to traffic on 1 July 2027, according to the city council.",
+      "zh": "据市议会称，这座新桥将于2027年7月1日通车。"
+     }
+    ]
+   },
+   {
+    "title": "介词 by 表示“在……旁边”",
+    "explain": "by 表示位置时意为“在……旁边，靠近”，如 by the window、by the river，强调紧挨着某物。near 只表示距离不远，不一定紧挨；beside 也表示“在……旁边”，与表示位置的 by 意思相近，如 a house beside the river。本句 by a glacier 说明尸体就在冰川边上。by 还有表示方式、手段、被动动作执行者等多种用法，阅读时要结合后面的名词判断。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "They pitched their tent by a small lake at the foot of the mountain.",
+      "zh": "他们把帐篷搭在山脚下一个小湖旁边。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Ötztal Alps",
+    "explain": "奥茨塔尔阿尔卑斯山，阿尔卑斯山脉东段的一部分，位于奥地利与意大利交界地带。Ötztal 是奥地利蒂罗尔州的一条山谷，德语 Tal 意为“山谷”。后文的 Ötzi（奥茨）这个名字就取自这一地名。山脉名称用复数并加 the，如 the Alps、the Andes。"
+   },
+   {
+    "term": "on a trek",
+    "explain": "trek 指艰苦的长途跋涉、徒步远行，on a trek 意为“在远足途中”。on 表示正处于某项活动中，同类表达有 on a trip、on a tour、on holiday、on business。视频把这一后置定语译为“在……远足时”。"
+   },
+   {
+    "term": "hiker",
+    "explain": "由 hike（徒步旅行）加后缀 -er 构成，指徒步旅行者。go hiking 意为“去徒步”。同句的 trek 比 hike 更强调路途长、艰苦。"
+   },
+   {
+    "term": "corpse",
+    "explain": "指人的尸体，用词直接，多用于发现尸体、辨认尸体等场合。body 更常用、更中性；动物的尸体多用 carcass。"
+   }
+  ],
+  "translation_tip": "视频译文按汉语“时间、主语、状语、谓语、宾语”的习惯排列：①日期按汉语“年、月、日”的顺序译为“1991年9月19日”。②后置定语 on a trek in the Ötztal Alps 转成时间状语，译为“在奥茨塔尔阿尔卑斯山远足时”，放在主语之后，交代发现尸体时的情境，避免在“徒步者”前堆一个长定语。③句末地点状语 by a glacier 提到谓语之前，译为“在一条冰川旁”，符合汉语状语在动词前的习惯。④不定冠词和数词按名词配上量词：two German hikers 译为“两名德国徒步者”，a glacier 译为“一条冰川”，a corpse 译为“一具尸体”；found 译为“发现了”，“了”表示动作已经完成。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "It",
+   "predicate": "lay",
+   "object_or_complement": "",
+   "explain": "主干是 It lay，主谓结构；lie 意为“躺，位于”，是不及物动词，不带宾语，后面的介词短语说明位置。谓语 lay 是 lie 的过去式，一般过去时，主动语态。It 指上句的 a corpse。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "zh": "它",
+    "role": "主语（指上句的 a corpse）"
+   },
+   {
+    "text": "lay",
+    "zh": "躺",
+    "role": "谓语（lie 的过去式，不及物动词）"
+   },
+   {
+    "text": "on a ridge",
+    "zh": "在一道山脊上",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "at about 3,210 metres,",
+    "zh": "海拔约3,210米",
+    "role": "地点状语（介词短语），补充说明所在位置的海拔高度"
+   },
+   {
+    "text": "on the border between Austria and Italy.",
+    "zh": "位于奥地利与意大利交界处",
+    "role": "地点状语（介词短语），说明所在位置属于哪两国的交界处；between Austria and Italy 作 border 的后置定语"
+   }
+  ],
+  "structure": "①主句 It lay：主语 It 指上句发现的那具尸体，谓语 lay 是不及物动词 lie 的过去式，没有宾语。\n②后面三个介词短语都说明尸体所在的位置，从不同角度交代：on a ridge 说明地形（在山脊上），at about 3,210 metres 说明海拔高度，on the border between Austria and Italy 说明在两国国界上的位置。\n③at about 3,210 metres 中，at 用于表示高度、海拔的数值，about 是副词，意为“大约”，修饰数词。\n④between Austria and Italy 是介词短语作后置定语，修饰 border，between A and B 表示“A与B之间”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "lie 与 lay 的区分",
+    "explain": "lie 作“躺；位于”讲是不及物动词，变化为 lie, lay, lain, lying；lay 作“放置；产（卵）”讲是及物动词，变化为 lay, laid, laid, laying；lie 作“说谎”讲是规则动词，变化为 lie, lied, lied, lying。本句 lay 后面没有宾语，接的是地点状语，所以是 lie 的过去式，意为“躺”，不是“放置”。这是考研完形和写作中的高频易错点：lie 的过去式 lay 与 lay 的原形同形，要看后面有没有宾语来判断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The village lies at the foot of a steep hill.",
+      "zh": "这个村庄坐落在一座陡峭的山脚下。"
+     },
+     {
+      "en": "She laid the documents on the desk before the meeting began.",
+      "zh": "会议开始前，她把文件放在了桌上。"
+     }
+    ]
+   },
+   {
+    "title": "介词 at 表示海拔、高度",
+    "explain": "表示处在某一高度、海拔、速度、温度等数值上时用 at，如 at 3,000 metres、at an altitude of 4,000 metres、at sea level、at 60 kilometres an hour。本句 at about 3,210 metres 说明尸体所处位置的海拔，about 插在介词和数词之间表示约数。写作中“在海拔……米处”可写成 at an altitude of … metres 或 at … metres above sea level。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The research station sits at about 4,000 metres above sea level.",
+      "zh": "这个科考站位于海拔约4,000米处。"
+     }
+    ]
+   },
+   {
+    "title": "between 与 among",
+    "explain": "一般说来，表示两者之间用 between，常构成 between A and B；表示在三者及以上的群体之中用 among。不过当表示多方之间一一对应的关系时，三方以上也可用 between，如 a treaty between three countries。本句 the border between Austria and Italy 指两国之间的边界，用 between。考研完形常在这两个词之间设题，判断时看是“两者之间”还是“置身于一群之中”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The river forms a natural border between the two provinces.",
+      "zh": "这条河构成了两省之间的天然分界线。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ridge",
+    "explain": "山脊，指山峰之间或山顶上狭长的高地；也可指屋脊、鼻梁等长条形隆起部分。a mountain ridge 意为“山脊”。"
+   },
+   {
+    "term": "metres",
+    "explain": "metre 的复数，英式拼写；美式拼写为 meter。数字 3,210 中的逗号是千位分隔符，读作 three thousand two hundred and ten。"
+   },
+   {
+    "term": "on the border",
+    "explain": "在边境上，在交界处；the border between A and B 意为“A与B之间的边界”，cross the border 意为“越过边境”。视频把 border 译为“交界处”。"
+   },
+   {
+    "term": "发现地点的归属",
+    "explain": "遗体发现处紧挨奥地利与意大利的国界。后来的测量确定发现地点位于意大利一侧，所以遗体如今存放在意大利的博尔扎诺（见第15句）。"
+   }
+  ],
+  "translation_tip": "①It 承上文译为“它”，指那具尸体。②lie 在这里译为“躺”，保留尸体横卧在山脊上的画面。③三个介词短语拆开译成三个短句：on a ridge 与谓语合译为“躺在一道山脊上”；at about 3,210 metres 单独成句，增补“海拔”点明数字所指，译为“海拔约3,210米”；on the border… 增补动词“位于”，译为“位于奥地利与意大利交界处”，使后半句成为独立的短句。④英式拼写 metres 译为“米”，数字保留千位分隔的写法。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The assumption",
+   "predicate": "was",
+   "object_or_complement": "that a modern-day climber had died on an alpine slope",
+   "explain": "主干是 The assumption was that…，主系表结构，that 引导的表语从句说明 assumption 的内容。系动词 was 为一般过去时；表语从句的谓语 had died 是过去完成时，表示登山者死亡发生在人们作出这一假设之前。"
+  },
+  "components": [
+   {
+    "text": "The assumption",
+    "zh": "当时的假设",
+    "role": "主语"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "that a modern-day climber had died on an alpine slope,",
+    "zh": "一名现代登山者死在了高山的山坡上",
+    "role": "表语从句（that 引导，说明 assumption 的内容）"
+   },
+   {
+    "text": "since glaciers sometimes yield frozen remains.",
+    "zh": "因为冰川有时会产出冰冻的遗体",
+    "role": "原因状语从句（since 引导），说明作出这一假设的理由"
+   }
+  ],
+  "structure": "①主句是主系表结构：主语 The assumption，系动词 was，that 引导的从句作表语，说明 assumption 的内容（视频说明）。that 在表语从句中不充当任何成分，只起连接作用，正式文体中一般不省略。\n②表语从句：主语 a modern-day climber，谓语 had died，on an alpine slope 作地点状语。had died 是过去完成时：人们是在发现遗体后作出假设的，假设中的“死亡”发生在这之前，是“过去的过去”。\n③since 引导原因状语从句（视频说明：since 意为“因为”），说明人们为什么会这样推测：冰川有时会把冰封的遗体交还地表。从句谓语 yield 用一般现在时，因为陈述的是冰川的一般规律，不随主句的过去时变化。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导的表语从句",
+    "explain": "从句放在系动词之后作表语，就是表语从句。assumption、belief、fact、problem、reason、truth 等抽象名词作主语时，常用“名词 + be + that 从句”说明其内容。that 在从句中不作成分，但正式文体中一般不省略。本句 The assumption was that… 说明当时假设的内容。要与同位语从句区分：The assumption that a climber had died proved wrong 中，that 从句紧跟在名词后，是同位语从句；本句 that 从句在 was 之后，是表语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The general belief was that the drought would end by spring.",
+      "zh": "人们普遍认为干旱会在春天之前结束。"
+     },
+     {
+      "en": "The trouble is that nobody has checked the figures.",
+      "zh": "问题在于没有人核对过这些数字。"
+     }
+    ]
+   },
+   {
+    "title": "since 的两种含义：“因为”与“自从”",
+    "explain": "since 作连词有两种意思：表示时间时意为“自从”，主句通常用完成时；表示原因时意为“因为，既然”，所说的原因往往是对方已知或显而易见的，语气比 because 弱。本句主句是 The assumption was…，since 从句说明作出假设的依据，意为“因为”（视频说明）。阅读时要根据主句时态和上下文判断：主句用完成时并且 since 后接过去的时间或事件，多为“自从”；说明理由时为“因为”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Since the museum is closed on Mondays, we will visit it on Tuesday.",
+      "zh": "因为博物馆周一闭馆，我们周二再去参观。"
+     },
+     {
+      "en": "She has worked at the hospital since she graduated.",
+      "zh": "她自从毕业以来一直在这家医院工作。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时表示客观规律",
+    "explain": "陈述客观规律、自然现象或普遍事实时用一般现在时，即使主句是过去时，从句也可以保持现在时。本句主句用过去时 was，since 从句 glaciers sometimes yield frozen remains 讲冰川的一般现象，用现在时 yield；sometimes 也表明这是时常发生的情况。考研写作中引用普遍事实时，注意不要机械地改成过去时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Sailors in ancient times knew that the moon affects the tides.",
+      "zh": "古代的航海者就知道月球会影响潮汐。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "yield",
+    "explain": "熟词僻义。常见意思是“产生（收益、结果）”和“屈服，让步”。视频说明：在考古与地质发现报道中，yield 是标准用词，意为“产出/交出”，描绘冰川消融时把封存的遗体交还地表的过程，视频取“产出”。类似用法如 The excavation yielded hundreds of coins（这次发掘出土了数百枚硬币）。"
+   },
+   {
+    "term": "remains",
+    "explain": "作“遗体，遗骸”讲时总用复数，如 human remains；也可指遗迹、残余物，如 Roman remains（古罗马遗迹）。本句 frozen remains 指冰冻的遗体。"
+   },
+   {
+    "term": "modern-day",
+    "explain": "形容词，意为“现代的，当今的”，一般只作前置定语，常与古代的事物对照，如 modern-day Rome。本句的“现代登山者”与后文的“史前人工制品”形成对照，正是这一误判被推翻的关键。"
+   },
+   {
+    "term": "alpine",
+    "explain": "小写时意为“高山的”，指高山地带的，如 alpine plants（高山植物）；首字母大写的 Alpine 专指“阿尔卑斯山的”。视频取“高山的”。"
+   },
+   {
+    "term": "assumption",
+    "explain": "假定，假设，指未经证实就认为是真的看法。常见搭配 make an assumption（作出假设）、on the assumption that…（假定……）。本句的假设后来被证明是错的。"
+   }
+  ],
+  "translation_tip": "①增补“当时的”：英文用过去时 was 表明这是发现之初的看法，汉语没有时态变化，用“当时的假设”体现时间，也为后文推翻这一看法作铺垫。②表语从句接在“是，”之后，译成一个完整的分句。③had died on an alpine slope 译为“死在了高山的山坡上”，地点状语与动词合成“死在了……上”，“了”体现动作已经完成；alpine 作定语译为“高山的”。④since 从句保留在句末，译为“因为……”，与英文先说结论、后说原因的顺序一致。⑤yield 依视频说明取“产出”，frozen remains 译为“冰冻的遗体”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "rescuers",
+   "predicate": "used",
+   "object_or_complement": "a jackhammer",
+   "explain": "主干是 rescuers used a jackhammer，主谓宾结构。谓语 used 为一般过去时，主动语态。句首的现在分词短语交代原因，句末的 that 定语从句交代使用风钻造成的后果。"
+  },
+  "components": [
+   {
+    "text": "Taking it for a recent death,",
+    "zh": "因为误以为死者刚死不久",
+    "role": "原因状语（现在分词短语，逻辑主语是 rescuers；take A for B 意为“把A误认为B”）"
+   },
+   {
+    "text": "rescuers",
+    "zh": "救援人员",
+    "role": "主语"
+   },
+   {
+    "text": "used",
+    "zh": "使用",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "a jackhammer",
+    "zh": "风钻",
+    "role": "宾语"
+   },
+   {
+    "text": "that ripped flesh from his left hip.",
+    "zh": "（结果）风钻撕下来/扯下了他左侧髋骨的皮肉",
+    "role": "限制性定语从句，修饰 a jackhammer；that 在从句中作主语"
+   }
+  ],
+  "structure": "①主句 rescuers used a jackhammer：主语 rescuers，谓语 used，宾语 a jackhammer。\n②句首 Taking it for a recent death 是现在分词短语作状语（视频说明），表示原因，逻辑主语就是主句主语 rescuers。take A for B 意为“把A误认为B”（视频说明）；it 指那具尸体，a recent death 字面意思是“一起新近发生的死亡”。taking 用主动形式，因为“误认为”是救援人员发出的动作。\n③that 引导定语从句，修饰 a jackhammer（视频说明）。that 在从句中作主语，不能省略；从句谓语 ripped 为一般过去时，宾语 flesh，from his left hip 说明从哪里撕下。\n④这个定语从句在意思上表示结果：救援人员用风钻凿冰取尸，却撕下了遗体左侧髋骨的皮肉，视频补出“（结果）”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作原因状语",
+    "explain": "现在分词短语放在句首可作原因状语，相当于一个省略了连词和主语的原因从句。分词的逻辑主语必须与主句主语一致，否则就是“垂悬分词”错误。本句 Taking it for a recent death 相当于 Because they took it for a recent death，逻辑主语是 rescuers。分词用主动形式 taking，因为救援人员是动作的发出者。考研写作中用分词短语开头可以使句式紧凑，但一定要检查主句主语能否发出分词的动作。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Believing the storm had passed, the fishermen set out before dawn.",
+      "zh": "渔民们以为暴风雨已经过去，天没亮就出海了。"
+     },
+     {
+      "en": "Not knowing the local language, the travellers relied on hand gestures.",
+      "zh": "由于不懂当地语言，这些旅行者只能靠手势交流。"
+     }
+    ]
+   },
+   {
+    "title": "that 引导的定语从句（that 作主语，不可省略）",
+    "explain": "关系代词 that 在定语从句中作主语时不能省略，作宾语时才可以省略。本句 that ripped flesh from his left hip 中，that 指 a jackhammer，作从句主语，不能去掉。定语从句除了限定先行词，有时在意思上还表示结果或补充情况；本句说明风钻造成了什么后果，翻译时宜拆成后一分句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The storm brought down a tree that blocked the only road out of the village.",
+      "zh": "暴风雨刮倒了一棵树，把出村的唯一道路堵住了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take A for B",
+    "explain": "把A误认为B，强调认错了，与 mistake A for B 同义，如 I took him for his brother（我把他错当成他哥哥了）。注意与 take A as B（把A当作B来看待）和 take sth for granted（认为某事理所当然）区分。"
+   },
+   {
+    "term": "a recent death",
+    "explain": "death 作可数名词时可指“一例死亡，一起死亡事件”。a recent death 指新近发生的死亡，即死者刚死不久，视频据语境译为“死者刚死不久”。"
+   },
+   {
+    "term": "jackhammer",
+    "explain": "风钻，手提凿岩机，用压缩空气驱动、用来凿开坚硬路面或岩石的工具。jackhammer 多用于北美英语，英式英语常说 pneumatic drill。"
+   },
+   {
+    "term": "rip … from …",
+    "explain": "rip 意为“猛地撕、扯”，rip sth from/off sth 指把某物从另一物上用力扯下来，动作粗暴。rip off 在口语中还有“敲竹杠，宰客”的意思。视频把 ripped 译为“撕下来/扯下了”。"
+   },
+   {
+    "term": "hip",
+    "explain": "髋部，指腰部以下、大腿以上身体两侧的部位；hip bone 意为“髋骨”，hip replacement 意为“髋关节置换术”。视频取“髋骨”。"
+   }
+  ],
+  "translation_tip": "①分词短语译成“因为误以为……”，把隐含的原因关系明确说出来，“误以为”对应 take A for B 中“认错”的意思；a recent death 按语境转为“死者刚死不久”。②主句译为“救援人员使用风钻”，增补“（凿冰）”交代用风钻做什么。③定语从句不前置，拆成后一分句，增补“（结果）”点明前后的因果，并重复先行词“风钻”作分句主语。④ripped 视频给出两种译法“撕下来/扯下了”，his left hip 译为“他左侧髋骨”，flesh 译为“皮肉”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "His possessions",
+   "predicate": "told",
+   "object_or_complement": "another story",
+   "explain": "主干是 His possessions told another story，主谓宾结构，谓语 told 为一般过去时，主动语态。冒号后列举的内容具体说明这些随身物品是什么，句末 all prehistoric artefacts 加以概括。"
+  },
+  "components": [
+   {
+    "text": "His possessions",
+    "zh": "他的随身物品",
+    "role": "主语"
+   },
+   {
+    "text": "told",
+    "zh": "却说明了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "another story:",
+    "zh": "另一回事",
+    "role": "宾语（tell another story：说明另一回事）"
+   },
+   {
+    "text": "leather and grass clothing,",
+    "zh": "皮革和草编的衣物",
+    "role": "冒号后列举的第一项，具体说明 His possessions 有什么；leather 和 grass 两个名词并列作定语，修饰 clothing"
+   },
+   {
+    "text": "a copper axe,",
+    "zh": "一把铜制斧子",
+    "role": "列举的第二项；copper 是名词作定语，表示材料"
+   },
+   {
+    "text": "a bow and arrows,",
+    "zh": "一张弓和几支箭",
+    "role": "列举的第三项"
+   },
+   {
+    "text": "all prehistoric artefacts.",
+    "zh": "全是史前人工制品",
+    "role": "同位语，概括冒号后列出的这些东西"
+   }
+  ],
+  "structure": "①主句 His possessions told another story：tell another story 意为“说明另一回事”，即说明的情况与前面的判断不同（视频说明）。前文以为是现代登山者，随身物品却指向完全不同的结论。\n②冒号引出具体列举：leather and grass clothing、a copper axe、a bow and arrows 三项并列，逐一说明他的随身物品是什么，在意思上与主语 His possessions 同指，起解释作用。\n③句末 all prehistoric artefacts 是同位语，概括冒号后列出的这些东西（视频说明）。all 意为“全部，都”，直接点出结论：这些东西都来自史前，推翻了“现代登山者”的假设。\n④列举项内部：leather and grass 两个名词并列作定语，修饰 clothing，表示衣物的材料；copper 作 axe 的定语，同样表示材料；a bow and arrows 中 arrows 用复数，表示不止一支箭。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词作定语表示材料",
+    "explain": "英语中名词可以直接放在另一个名词前作定语，表示材料、用途、地点等，如 leather shoes、a stone wall、copper wire。作定语的名词一般用单数。本句 leather and grass clothing、a copper axe 中，leather、grass、copper 都是名词作定语，表示用什么材料制成。有些材料名词另有 -en 形容词，用法不尽相同：表示木制通常说 a wooden chair；表示金制多说 a gold ring，golden 多指金色或用于比喻，如 a golden opportunity（绝好的机会），要靠搭配记忆。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum displays stone tools, bone needles, and clay pots found at the site.",
+      "zh": "博物馆展出了在该遗址出土的石器、骨针和陶罐。"
+     },
+     {
+      "en": "Workers replaced the old lead pipes with plastic ones.",
+      "zh": "工人们用塑料管换掉了旧铅管。"
+     }
+    ]
+   },
+   {
+    "title": "列举之后用 all 引出的同位语加以概括",
+    "explain": "列举若干事物后，可以接一个由 all、both、each 等引出的名词短语，作同位语对前面的内容加以概括或评价。本句 all prehistoric artefacts 把衣物、斧子、弓箭统称为“史前人工制品”。阅读中这种总括性的同位语往往就是作者要表达的结论，是理解段落主旨的关键。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The team brought back soil samples, plant specimens, and insect eggs, all valuable evidence of the island's ecology.",
+      "zh": "考察队带回了土壤样本、植物标本和昆虫卵，这些都是研究该岛生态的宝贵证据。"
+     },
+     {
+      "en": "She speaks Spanish, Portuguese, and Italian, all languages she learned as an adult.",
+      "zh": "她会说西班牙语、葡萄牙语和意大利语，这些都是她成年后学会的。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释和列举",
+    "explain": "冒号用来引出对前文的解释、说明或具体列举，冒号后的内容回答“是什么”。本句 told another story 只说结论，冒号后列出具体物品作为证据。阅读中冒号后的内容常是论据或细节，可以帮助定位答案；写作中可用冒号先概括、后举例，使论证更清楚。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey revealed a worrying trend: fewer young people are reading for pleasure.",
+      "zh": "调查揭示了一个令人担忧的趋势：为消遣而读书的年轻人越来越少了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tell another story",
+    "explain": "说明另一回事，表示实际情况与先前的说法或表象不同（视频说明）。同类说法有 tell a different story，如 The figures tell a different story（数据显示的情况却不同）。这里主语是物（possessions），用“物品会说话”的方式表达证据。"
+   },
+   {
+    "term": "possessions",
+    "explain": "possession 作“财物，所有物”讲时常用复数，personal possessions 意为“个人财物”。不可数时意为“拥有，占有”，如 in possession of（拥有）。视频取“随身物品”，指他随身带着的东西。"
+   },
+   {
+    "term": "artefact",
+    "explain": "英式拼写，美式拼写为 artifact，指人工制品，尤其指有历史或考古价值的器物，如 ancient artefacts。与天然物品相对。"
+   },
+   {
+    "term": "bow",
+    "explain": "作“弓”讲时读 /bəʊ/（美 /boʊ/），a bow and arrows 意为“一张弓和几支箭”；作“鞠躬；船头”讲时读 /baʊ/。同形异音，朗读时要注意。"
+   }
+  ],
+  "translation_tip": "①增补“却”：tell another story 本身含有“与先前判断不同”的转折意味，视频译为“却说明了另一回事”，把转折明示出来。②列举部分保留冒号，三项之间用逗号隔开：leather and grass clothing 译为“皮革和草编的衣物”，增补“编”字说明 grass 是编织用的材料；名词定语 copper 译为“铜制”。③量词按物品配：“一把”斧子、“一张”弓、“几支”箭，arrows 的复数用“几支”体现。④同位语 all prehistoric artefacts 增补判断词“是”，译为“全是史前人工制品”，作为句末的总结。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "the natural mummy",
+   "predicate": "was",
+   "object_or_complement": "a man",
+   "explain": "主干是 the natural mummy was a man，主系表结构，系动词 was 为一般过去时；句首过去分词短语补充说明主语，who 引导的定语从句修饰表语 a man。"
+  },
+  "components": [
+   {
+    "text": "Known as Ötzi,",
+    "zh": "被称为奥茨的",
+    "role": "过去分词短语，补充说明主语 the natural mummy"
+   },
+   {
+    "text": "the natural mummy",
+    "zh": "这具天然木乃伊",
+    "role": "主语"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "a man",
+    "zh": "一名男子",
+    "role": "表语"
+   },
+   {
+    "text": "who lived about 5,300 years ago,",
+    "zh": "生活在约5,300年前",
+    "role": "限制性定语从句，修饰 a man；who 在从句中作主语"
+   },
+   {
+    "text": "between 3350 and 3105 BC.",
+    "zh": "也就是公元前3350年至前3105年之间",
+    "role": "时间状语（介词短语），属于 who 从句，补充说明 about 5,300 years ago 的具体年代"
+   }
+  ],
+  "structure": "①主句 the natural mummy was a man：主系表结构。the natural mummy 指前文那具尸体，natural 说明它是在自然条件下形成的木乃伊，不是人工防腐制成的。\n②句首 Known as Ötzi 是过去分词短语，补充说明 the natural mummy（视频说明）。木乃伊是“被称为”的对象，所以用过去分词，相当于 which is known as Ötzi。\n③who 引导定语从句，修饰表语 a man（视频说明），who 在从句中作主语；about 5,300 years ago 作时间状语。\n④between 3350 and 3105 BC 补充说明具体年代（视频说明），把笼统的“约5,300年前”落实为一个年代区间。公元前的年份数字越大越早，所以先写3350，再写3105。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "句首的过去分词短语",
+    "explain": "过去分词短语放在句首，逻辑主语是主句主语，表示被动或完成，可以补充说明主语的身份、特征，也可以表示时间、原因等。本句 Known as Ötzi 补充说明 the natural mummy 的名称，相当于 which is known as Ötzi；木乃伊是“被人称为”奥茨，所以用过去分词 known，不能用 knowing。考研阅读中这类句首分词短语较长时，要先找到逗号后的主句主语，再确定分词与主语的关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Built in the twelfth century, the church has survived two major earthquakes.",
+      "zh": "这座教堂建于12世纪，经历了两次大地震仍保存了下来。"
+     },
+     {
+      "en": "Known for its harsh winters, the region attracts few tourists before May.",
+      "zh": "该地区以冬季严寒著称，5月之前很少有游客前往。"
+     }
+    ]
+   },
+   {
+    "title": "who 引导定语从句修饰表语",
+    "explain": "定语从句的先行词可以是句子的任何名词成分，包括表语。本句 who lived about 5,300 years ago 修饰表语 a man，who 指人，在从句中作主语。先行词是人、关系词作主语时用 who 或 that，作宾语时用 who、whom 或 that，也可省略。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The winner was a teacher who had trained for the race in her spare time.",
+      "zh": "获胜者是一位利用业余时间为这次比赛做训练的教师。"
+     }
+    ]
+   },
+   {
+    "title": "BC、AD 与 years ago 的年代表达",
+    "explain": "BC（before Christ）意为“公元前”，放在年份后面，如 3350 BC；AD 意为“公元”，传统上放在年份前面，如 AD 1066。学术文章中也用 BCE 和 CE 表示公元前和公元。公元前的年份数字越大越早，所以 between 3350 and 3105 BC 是从早到晚排列的。years ago 以现在为参照点往前推算，本句 about 5,300 years ago 与 between 3350 and 3105 BC 指的是同一段时间。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city was founded around 750 BC and reached its peak in the second century AD.",
+      "zh": "这座城市大约建于公元前750年，在公元2世纪达到鼎盛。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Ötzi",
+    "explain": "奥茨，这具冰川古尸的名字，取自发现地奥茨塔尔阿尔卑斯山（Ötztal Alps）；英语中也常称他为 the Iceman（冰人）。"
+   },
+   {
+    "term": "natural mummy",
+    "explain": "天然木乃伊，指在低温、干燥等自然条件下保存下来的遗体，与古埃及人用防腐技术人工制作的木乃伊相对。奥茨的遗体因冰雪封存而保存下来。"
+   },
+   {
+    "term": "be known as",
+    "explain": "被称为，以……的名字为人所知，后接名称或身份。区分 be known for（因……而出名）和 be known to（为……所知），如 The town is known for its cheese（这个小镇以奶酪闻名）。"
+   }
+  ],
+  "translation_tip": "①句首过去分词短语前置作定语，译为“被称为奥茨的这具天然木乃伊”，与主语合成一个名词短语。②定语从句 who lived… 不前置，接在“是一名男子，”之后，译为“生活在约5,300年前”，避免“男子”前面的定语过长。③between 3350 and 3105 BC 是补充说明，视频增补“也就是”，点明它与“约5,300年前”是同一时间的两种说法；BC 译为“公元前”，第二个年份写作“前3105年”，承前省略“公元”二字。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "X-rays",
+   "predicate": "revealed",
+   "object_or_complement": "a flint arrowhead",
+   "explain": "主干是 X-rays revealed a flint arrowhead，主谓宾结构，谓语 revealed 为一般过去时，主动语态。宾语后面接两个分词短语，分别说明箭头所在的位置和十年前未被发现的情况。"
+  },
+  "components": [
+   {
+    "text": "In 2001,",
+    "zh": "2001年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "X-rays",
+    "zh": "X 光片",
+    "role": "主语（X-ray 的复数，指X光片）"
+   },
+   {
+    "text": "revealed",
+    "zh": "显示",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "a flint arrowhead",
+    "zh": "一枚燧石箭头",
+    "role": "宾语"
+   },
+   {
+    "text": "lodged in his left shoulder,",
+    "zh": "被卡在了他的左肩里",
+    "role": "后置定语（过去分词短语），修饰 a flint arrowhead"
+   },
+   {
+    "text": "unseen by examiners a decade earlier.",
+    "zh": "却未被十年前的检查人员发现",
+    "role": "过去分词短语，补充说明箭头；by examiners 引出动作的发出者，a decade earlier 作时间状语"
+   }
+  ],
+  "structure": "①主句 X-rays revealed a flint arrowhead：主语 X-rays，谓语 revealed，宾语 a flint arrowhead；In 2001 是时间状语。\n②lodged in his left shoulder 是过去分词短语作后置定语，修饰 arrowhead（视频说明）。lodge 意为“卡住，嵌入”，箭头是被卡住的一方，用过去分词表示被动，相当于 which was lodged in his left shoulder。\n③unseen by examiners a decade earlier 是过去分词短语，补充说明箭头（视频说明）。unseen 由否定前缀 un- 加 see 的过去分词 seen 构成，by examiners 引出动作的发出者，意思相当于 which had not been seen by examiners a decade earlier。前面有逗号隔开，是对箭头的附加说明，带有“竟然一直没被发现”的意味。\n④a decade earlier 意为“十年前”（视频说明），以2001年为参照点往前推十年，即1991年遗体刚被发现、接受检查的时候。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语，与谓语动词的区分",
+    "explain": "及物动词的过去分词放在名词后作定语，表示被动或完成。句中出现 -ed 形式时，要判断它是谓语还是非谓语：本句谓语已经是 revealed，lodged 前面没有连词也没有新的主语，只能是过去分词作定语，修饰 arrowhead。unseen 由 un- 加过去分词 seen 构成，同样表示被动意义，补充说明箭头。考研长难句中，一个句子出现多个 -ed 形式时，先确定唯一的谓语，其余的通常就是非谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Investigators found a note hidden inside the book's cover.",
+      "zh": "调查人员发现了一张藏在书皮里的纸条。"
+     },
+     {
+      "en": "The report lists several bridges damaged in last winter's floods.",
+      "zh": "报告列出了几座在去年冬天的洪水中受损的桥梁。"
+     }
+    ]
+   },
+   {
+    "title": "earlier、before 与 ago",
+    "explain": "ago 以说话的现在为参照点，表示“若干时间以前”，通常与一般过去时连用，如 three years ago。earlier 或 before 以过去某一时间为参照点，表示“在那之前若干时间”，如 a decade earlier、two days before。本句叙述的参照点是2001年，a decade earlier 指1991年，所以用 earlier，不用 ago。考研翻译和写作中叙述过去的事件时，要按参照点选择用词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When she moved to Berlin in 2015, she had visited the city only once, five years earlier.",
+      "zh": "2015年她搬到柏林时，此前只在五年前去过这座城市一次。"
+     },
+     {
+      "en": "The factory closed three years ago and has stood empty ever since.",
+      "zh": "这家工厂三年前关闭，此后一直空置。"
+     }
+    ]
+   },
+   {
+    "title": "带否定前缀 un- 的过去分词",
+    "explain": "un- 加在过去分词前表示“未被……的”，如 unseen（未被看见的）、unnoticed（未被注意到的）、unexplored（未被勘探的）、unanswered（未被回答的）。这类词常与 go、remain 连用，如 go unnoticed、remain unanswered，也可像本句一样带 by 短语作补充说明。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The error went unnoticed for months until an auditor checked the accounts.",
+      "zh": "这个错误几个月都没人发现，直到一名审计员查账时才被发现。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "X-ray",
+    "explain": "可数名词，可指X射线，也可指X光片或X光检查，如 take an X-ray（拍X光片）、a chest X-ray（胸部X光片）；也可作动词，意为“用X光检查”。X 大写，中间有连字符。本句复数 X-rays 指X光片。"
+   },
+   {
+    "term": "flint",
+    "explain": "燧石，一种很坚硬的石头，敲击可以打出火花，碎裂后边缘锋利，史前人类常用它制作工具和箭头。a flint arrowhead 中 flint 是名词作定语，表示材料。"
+   },
+   {
+    "term": "arrowhead",
+    "explain": "箭头，由 arrow（箭）和 head（头部）组成的合成词，指箭的尖端部分。汉语里“箭头”也指符号“→”，英语中这个符号通常叫 arrow。"
+   },
+   {
+    "term": "lodge",
+    "explain": "动词，意为“卡住，嵌入”，常用 be lodged in 或 lodge in，如 A fish bone lodged in his throat（一根鱼刺卡在了他喉咙里）。熟词僻义：lodge a complaint 意为“提出投诉”，考研阅读中也会出现。"
+   },
+   {
+    "term": "examiner",
+    "explain": "检查者，审查人；也指考官。本句指1991年检查遗体的人员。medical examiner 在美国指“法医”。"
+   }
+  ],
+  "translation_tip": "①In 2001 译为“2001年，”放在句首。②revealed 译为“显示，”，后面的宾语和后置定语合成一个完整的小句“一枚燧石箭头被卡在了他的左肩里”，过去分词 lodged 的被动意义用“被”字体现。③unseen by… 拆出来单独成句，增补“却”体现“竟然没发现”的转折；by examiners 译为“被……检查人员”，a decade earlier 前置作“检查人员”的定语，译为“十年前的检查人员”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "A scanner",
+   "predicate": "showed",
+   "object_or_complement": "that the puncture had ruptured an artery, a mortal injury causing heavy bleeding, and left a large clot",
+   "explain": "主干是 A scanner showed + that 引导的宾语从句，主谓宾结构，谓语 showed 为一般过去时。宾语从句中有两个并列谓语 had ruptured 和 left（共用助动词 had），为过去完成时，表示穿刺伤造成的后果发生在扫描之前。"
+  },
+  "components": [
+   {
+    "text": "A scanner",
+    "zh": "扫描仪",
+    "role": "主语"
+   },
+   {
+    "text": "showed",
+    "zh": "显示",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "that the puncture had ruptured an artery,",
+    "zh": "这处穿刺伤撕裂了一条动脉",
+    "role": "宾语从句（that 引导）的前半部分：从句主语 the puncture，谓语 had ruptured，宾语 an artery"
+   },
+   {
+    "text": "a mortal injury causing heavy bleeding,",
+    "zh": "这是会引起大量出血的致命伤",
+    "role": "同位语（宾语从句内），说明动脉撕裂的后果；causing heavy bleeding 作后置定语，修饰 injury"
+   },
+   {
+    "text": "and left a large clot.",
+    "zh": "伤处还留下了一大块血块",
+    "role": "宾语从句内与 had ruptured 并列的谓语部分，主语都是 the puncture，left 承前共用助动词 had"
+   }
+  ],
+  "structure": "①主句 A scanner showed + 宾语从句，that 在宾语从句中不作成分，只起引导作用。\n②宾语从句的主干是 the puncture had ruptured an artery and left a large clot：and 连接两个并列的谓语部分，主语都是 the puncture（视频说明）。left 承前共用助动词 had，即 had left，同样是过去完成时，表示这些后果发生在扫描之前。\n③插在两个并列谓语之间的 a mortal injury causing heavy bleeding 是同位语，说明动脉撕裂的后果（视频说明）。它说明的是前面“撕裂一条动脉”这件事，而不是单指 artery 这个名词。\n④同位语内部，causing heavy bleeding 是现在分词短语作后置定语，修饰 injury（视频说明）；致命伤“引起”大量出血，是主动关系，所以用现在分词。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语，概括前面所说的整件事",
+    "explain": "英语中可以在一个分句后面加一个名词短语，用来概括或评价前面所说的整件事，而不是只说明前一个名词。常见的有 a move…、a decision…、a sign that…、a mortal injury… 等。本句 a mortal injury causing heavy bleeding 说明的是“穿刺伤撕裂了一条动脉”这件事的性质和后果（视频说明：说明动脉撕裂的后果）。阅读时要判断这个名词短语指的是前一个名词还是前面的整件事，翻译时常增补“这是”“此举”等词回指。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its prices by a third, a move that surprised its competitors.",
+      "zh": "这家公司把价格降低了三分之一，此举令竞争对手大感意外。"
+     },
+     {
+      "en": "Several students failed the safety test, a sign that the training had been too brief.",
+      "zh": "好几名学生没有通过安全测试，这表明培训时间太短了。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语共用助动词",
+    "explain": "两个或多个谓语共用同一个主语和助动词时，后面的助动词通常省略，如 have done A and (have) done B。本句 had ruptured an artery … and left a large clot 中，left 承前省略了 had，即 had left，两者都是过去完成时，主语都是 the puncture。中间插入同位语后，and 与 had ruptured 相隔较远，阅读时要越过插入成分，把 and left 和前面的 had ruptured 对应起来，不要误以为 left 的主语是 scanner。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By noon the volunteers had cleared the beach and collected over forty bags of litter.",
+      "zh": "到中午，志愿者们已经清理完海滩，收集了四十多袋垃圾。"
+     },
+     {
+      "en": "The police have arrested two suspects and seized a large quantity of cash.",
+      "zh": "警方已逮捕两名嫌疑人，并缴获了大量现金。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词之后作定语，表示主动或正在进行，相当于一个定语从句。本句 causing heavy bleeding 修饰 injury，相当于 which caused heavy bleeding，伤口是“引起”出血的一方，所以用现在分词。若名词是动作的承受者，则用过去分词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The clinic treats patients suffering from chronic pain.",
+      "zh": "这家诊所为患有慢性疼痛的病人提供治疗。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "puncture",
+    "explain": "刺孔，穿孔；本句指箭头刺入造成的穿刺伤，视频取“穿刺伤”。英式英语中也指轮胎被扎破的孔，如 have a puncture（车胎被扎破）。puncture 也可作动词，意为“刺破”。"
+   },
+   {
+    "term": "rupture",
+    "explain": "动词，意为“使破裂，撕裂”，医学上常指血管、器官等破裂，如 a ruptured appendix（阑尾破裂）；名词也可比喻关系破裂。视频把 had ruptured 译为“撕裂了”。"
+   },
+   {
+    "term": "artery",
+    "explain": "动脉，把血液从心脏输送到全身；与 vein（静脉）相对。比喻义指交通干线，如 a main traffic artery。"
+   },
+   {
+    "term": "mortal",
+    "explain": "a mortal injury/wound 意为“致命伤”。mortal 的基本义是“终有一死的”，反义词 immortal（不朽的）；名词 mortality 意为“死亡率”或“必死性”。"
+   },
+   {
+    "term": "heavy bleeding",
+    "explain": "heavy 在这里意为“大量的，严重的”，同类搭配有 heavy rain（大雨）、heavy traffic（交通拥堵）、heavy losses（惨重损失）。视频译为“大量出血”。"
+   },
+   {
+    "term": "clot",
+    "explain": "凝块，blood clot 意为“血块，血栓”；也可作动词，意为“凝结”。本句 a large clot 指伤处留下的一大块血块。"
+   }
+  ],
+  "translation_tip": "①主句 A scanner showed 译为“扫描仪显示，”，宾语从句接在后面，译成完整的句子。②宾语从句中 had ruptured an artery 译为“撕裂了一条动脉”，不定冠词配量词“一条”。③同位语不前置，单独成句，增补“这是”回指前面动脉撕裂这件事；分词定语 causing heavy bleeding 前置，译为“会引起大量出血的致命伤”。④and left a large clot 与前一谓语相隔较远，视频补出主语“伤处”，加“还”体现并列递进，译为“伤处还留下了一大块血块”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Researchers",
+   "predicate": "believe",
+   "object_or_complement": "he died within minutes",
+   "explain": "主干是 Researchers believe + 省略 that 的宾语从句，主谓宾结构。主句谓语 believe 用一般现在时，表示研究者现在的看法；从句谓语 died 用一般过去时，陈述过去发生的事。"
+  },
+  "components": [
+   {
+    "text": "Researchers",
+    "zh": "研究者",
+    "role": "主语"
+   },
+   {
+    "text": "believe",
+    "zh": "认为",
+    "role": "谓语（一般现在时）"
+   },
+   {
+    "text": "he died within minutes.",
+    "zh": "他在几分钟内就死了",
+    "role": "宾语从句（省略引导词 that）；within minutes 作从句的时间状语"
+   }
+  ],
+  "structure": "①主句 Researchers believe，believe 后接宾语从句，引导词 that 省略。\n②宾语从句 he died within minutes：主语 he，谓语 died，within minutes 作时间状语，意为“在几分钟之内”。\n③主句和从句的时态各按自己的时间确定：believe 是研究者现在的看法，用现在时；died 是5,000多年前发生的事，用过去时。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that 及主从句时态",
+    "explain": "believe、think、say、find、suggest 等动词后接宾语从句时，引导词 that 常常省略，口语和新闻语体中尤其普遍。主句用一般现在时，从句可以根据实际时间使用任何时态。本句 Researchers believe（现在的看法）+ he died（过去的事）。主句是过去时时，从句一般要相应用过去的某种时态，但陈述客观真理时除外。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Historians believe the fire started in a bakery near the river.",
+      "zh": "历史学家认为，那场大火是从河边的一家面包店烧起来的。"
+     }
+    ]
+   },
+   {
+    "title": "within + 时间段",
+    "explain": "within 后接时间段，表示“在……之内，不超过……”，强调时间短，如 within an hour、within a week。不带数词和冠词的复数时间名词，如 within minutes、within hours、within days，泛指“几分钟、几小时、几天之内”，突出事情发生得很快。本句 within minutes 说明他死得很快。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Tickets for the concert sold out within hours.",
+      "zh": "音乐会的门票几小时之内就卖光了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Researchers believe…",
+    "explain": "新闻和科普文章常用 researchers believe/think/suggest 引出研究者的推断，表明这是基于证据的看法，而不是作者确认的事实。考研阅读中区分事实和观点时，这类引述标记很重要。"
+   },
+   {
+    "term": "within minutes",
+    "explain": "几分钟之内，强调时间极短。同类说法有 within seconds、within hours、within days。"
+   }
+  ],
+  "translation_tip": "①主句 Researchers believe 译为“研究者认为，”，用逗号与宾语从句隔开。②从句中 within minutes 提到谓语之前，译为“在几分钟内”，增补“就”字，体现死亡来得很快，与 within 强调的“不超过”相呼应。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "He",
+   "predicate": "was",
+   "object_or_complement": "about 46",
+   "explain": "主干是 He was about 46，主系表结构，about 46 作表语，是 about 46 years old 的省略说法。系动词 was 为一般过去时，紧接上句“他在几分钟内就死了”，指他死时的年龄。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "zh": "他",
+    "role": "主语（指奥茨）"
+   },
+   {
+    "text": "was",
+    "zh": "（系动词，视频增补“死时”，点明这是他死亡时的年龄）",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "about 46.",
+    "zh": "约46岁",
+    "role": "表语（about 46 years old 的省略；about 是副词，修饰数词，表示约数）"
+   }
+  ],
+  "structure": "①主系表结构：主语 He 指奥茨，系动词 was，表语 about 46。表示年龄时，be 后可以直接接数字，years old 常常省略。\n②about 是副词，修饰数词 46，意为“大约”，说明这是估算出来的年龄。\n③was 是一般过去时。本句紧接在“他在几分钟内就死了”之后，说的是他死的时候多大年纪；英文靠时态和上下文表达这层意思，汉语没有时态变化，视频增补“死时”把它说出来。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "年龄的几种表达",
+    "explain": "表示某人多大年纪，常见说法有：be + 数字（He was 46）；be + 数字 + years old（He was 46 years old）；be aged + 数字（较正式）；at the age of + 数字（作状语）；a 46-year-old man（复合形容词作前置定语）。复合形容词中的名词用单数，各部分用连字符连接，不能写成 a 46-years-old man，也不能写成 a 46 years old man。本句用最简洁的 be + 数字，about 修饰数字表示约数。考研写作描述人物时，at the age of 与 aged 都很常用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She left school at the age of sixteen and started her own business at twenty-two.",
+      "zh": "她十六岁离开学校，二十二岁创办了自己的公司。"
+     },
+     {
+      "en": "A 70-year-old man was rescued after spending two nights on the mountain.",
+      "zh": "一名70岁的男子在山上度过两夜后获救。"
+     }
+    ]
+   },
+   {
+    "title": "about、around 等表示约数",
+    "explain": "about、around、roughly、approximately、some 放在数词前都表示“大约”，其中 approximately 最正式，some 表示约数时多见于书面语，如 some 200 people（大约200人）。本文多处用 about 表示约数：about 3,210 metres、about 5,300 years ago、about 46、about 30 metres，说明这些数字都是测量或推算的结果，翻译时都要译出“约”字，不能写成确数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Roughly a third of the town's residents commute to the capital every day.",
+      "zh": "这个镇上大约三分之一的居民每天通勤到首都。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be about + 数字",
+    "explain": "be 后直接接数字表示年龄，是最常用的口语和新闻说法，如 He is 30；前面加 about、around 表示约数。相近的模糊说法有 in his forties（四十多岁）、in his mid-forties（四十五岁上下），about 46 比这些说法更具体。"
+   },
+   {
+    "term": "was 指死时的年龄",
+    "explain": "叙述已故之人时，用一般过去时 was 加年龄，表示此人去世时的岁数，如 She was 82 when she died。本句前文刚说到他的死，所以省略了 when he died。"
+   }
+  ],
+  "translation_tip": "①增补“死时”：英文靠过去时 was 和上句的内容表明这是他死的时候的年龄，汉语没有时态变化，视频增补“死时”把时间点说清楚。②about 译为“约”，数字后增补“岁”：英文省略了 years old，汉语表示年龄必须带量词“岁”，译为“约46岁”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Another person",
+   "predicate": "killed",
+   "object_or_complement": "him",
+   "explain": "主干是 Another person killed him，主谓宾结构，谓语 killed 为一般过去时，主动语态。it is thought 是插入语，夹在主语和谓语之间，表示这是一般的看法。"
+  },
+  "components": [
+   {
+    "text": "Another person,",
+    "zh": "是另一个人",
+    "role": "主语（视频用“是……”突出主语）"
+   },
+   {
+    "text": "it is thought,",
+    "zh": "据认为",
+    "role": "插入语，表示这是一般的看法（视频说明）"
+   },
+   {
+    "text": "killed",
+    "zh": "杀死了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "him.",
+    "zh": "他",
+    "role": "宾语（指奥茨）"
+   }
+  ],
+  "structure": "①主干 Another person killed him：主语 Another person，谓语 killed，宾语 him（指奥茨）。\n②it is thought 是插入语（视频说明），用两个逗号与句子主干隔开，去掉后句子依然完整。it 是形式主语，thought 是 think 的过去分词，it is thought 不点明是谁的看法，意为“据认为”，表示这是一般的推断，不是确证的事实。\n③插入语放在主语和谓语之间，使主语 Another person 先出现，句子的重点落在“另一个人”上：奥茨是被别人杀死的。全句相当于 It is thought that another person killed him，也可以说 Another person is thought to have killed him。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插入语 it is thought",
+    "explain": "插入语是插在句中、对全句加以说明的成分，与句子其他部分没有语法关系，常用逗号隔开，可以放在句首、句中或句末。常见的有 it is thought、it is believed、it is said、it seems、I think、I believe 等。本句 it is thought 插在主语和谓语之间，意为“据认为”。考研阅读长难句中，先把插入语拿掉找出主干，再把它的意思加回去；it is thought、it seems 这类插入语还表明所说内容是推测或转述，做题时不能把它当成确定的事实。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The painting, it is believed, was hidden in a cellar during the war.",
+      "zh": "据信，这幅画在战争期间被藏在一个地窖里。"
+     },
+     {
+      "en": "The bridge, experts say, could collapse within a decade.",
+      "zh": "专家称，这座桥可能在十年内坍塌。"
+     }
+    ]
+   },
+   {
+    "title": "It is thought that… 与 sb is thought to have done",
+    "explain": "表示“据认为”有两种被动句型：It is thought that + 从句，以及 sb/sth is thought to do/to have done。所认为的事发生在过去时，后一种要用不定式完成式 to have done。本句的意思可以改写成 It is thought that another person killed him，或 Another person is thought to have killed him。同类动词有 believe、say、report、consider、expect 等。考研翻译常考这一句型，一般译为“据认为”“据说”“据报道”，不必译出“被”字。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The fire is thought to have started in the kitchen.",
+      "zh": "据认为，大火是从厨房烧起来的。"
+     },
+     {
+      "en": "It is reported that the two companies are discussing a merger.",
+      "zh": "据报道，两家公司正在商谈合并事宜。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "another person",
+    "explain": "another 意为“另一个（人或物）”，后接单数可数名词。本句 another person 与奥茨本人相对，说明他的死是别人造成的。"
+   },
+   {
+    "term": "it is thought",
+    "explain": "插入语中的 it 是形式主语，thought 是 think 的过去分词。与 people think 相比，被动说法不点明是谁的看法，语气客观，是新闻和学术写作的常用说法；同类的 it is believed 译为“据信”，it is said 译为“据说”。"
+   }
+  ],
+  "translation_tip": "①插入语 it is thought 提到句首，译为“据认为，”，符合汉语先交代信息来源的习惯。②主语 Another person 前增补“是”，构成“是另一个人杀死了他”的强调说法，突出凶手是别人。③killed 译为“杀死了”，“了”表示动作已经完成。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "researchers",
+   "predicate": "inferred",
+   "object_or_complement": "that an archer shot him from the rear, at about 30 metres",
+   "explain": "主干是 researchers inferred + that 引导的宾语从句，主谓宾结构。谓语 inferred 为一般过去时，主动语态；句首的 From the wound's depth 说明推断的依据。"
+  },
+  "components": [
+   {
+    "text": "From the wound's depth",
+    "zh": "根据伤口的深度",
+    "role": "状语（介词短语，说明推断的依据；infer A from B 中的 from B 提到了句首）"
+   },
+   {
+    "text": "researchers",
+    "zh": "研究者",
+    "role": "主语"
+   },
+   {
+    "text": "inferred",
+    "zh": "推断",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "that an archer shot him from the rear, at about 30 metres.",
+    "zh": "一名弓箭手从背后约30米处向他射了箭",
+    "role": "宾语从句（that 引导）；from the rear 和 at about 30 metres 是从句中的状语"
+   }
+  ],
+  "structure": "①主干 researchers inferred that…：主语 researchers，谓语 inferred，that 引导宾语从句作 inferred 的宾语，that 在从句中不作成分。\n②infer A from B 意为“根据B推断A”，本句把 from B 部分 From the wound's depth 提到了句首（视频说明），先交代推断的依据。句首介词短语较短，后面没有用逗号与主语隔开，阅读时要看出 researchers 才是主语。\n③the wound's depth 是名词所有格，相当于 the depth of the wound。\n④宾语从句：主语 an archer，谓语 shot，宾语 him；from the rear 说明射箭的方向（从背后），at about 30 metres 说明距离（约30米处），逗号把距离作为补充信息隔开。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "infer A from B 与介词短语前置",
+    "explain": "infer 意为“推断，推论”，指根据已有的事实或证据得出结论，常用 infer sth from sth 或 infer from sth that…。本句的常规语序是 Researchers inferred from the wound's depth that…，作者把 from 短语提到句首，既突出推断的依据，又使宾语从句紧跟在谓语后面，不被隔断。考研阅读推理题的题干常用 infer，如 It can be inferred from the passage that…，正确答案必须能由原文推出，不能是原文没有依据的引申。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "From the dates on the letters, historians inferred that the two writers had met in Paris.",
+      "zh": "历史学家根据信上的日期推断，这两位作家曾在巴黎见过面。"
+     },
+     {
+      "en": "What can we infer from these figures about consumer confidence?",
+      "zh": "关于消费者信心，我们能从这些数字中推断出什么？"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格用于无生命名词",
+    "explain": "'s 所有格多用于人和动物；表示无生命事物的所属关系，一般用 of 结构，如 the depth of the wound。但新闻和科普文体为求简洁，也常把 's 用于无生命名词，尤其是与时间、国家、机构、自然界等有关的名词，如 today's news、the company's profits、the earth's surface。本句 the wound's depth 就是这种用法，相当于 the depth of the wound。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The building's roof was badly damaged in the storm.",
+      "zh": "这栋楼的屋顶在暴风雨中严重受损。"
+     }
+    ]
+   },
+   {
+    "title": "at 表示距离",
+    "explain": "at + 距离 可以表示“在多远处”，如 at a distance of 30 metres、at close range（在近距离）。本句 at about 30 metres 说明弓箭手射箭时离奥茨约30米，about 插在介词和数词之间表示约数。from 也能引出距离，表示从多远处发出动作，如 shoot from 30 metres、from 30 metres away。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bird can spot a mouse at a distance of over 100 metres.",
+      "zh": "这种鸟能发现100多米外的一只老鼠。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "infer 与 imply",
+    "explain": "infer 是听者或读者根据证据“推断”出结论；imply 是说话人或事实本身“暗示，意味着”。如 The data imply that prices will rise（数据意味着价格将上涨），We infer from the data that prices will rise（我们根据数据推断价格将上涨）。这两个词都是考研阅读高频词，不要混用。"
+   },
+   {
+    "term": "from the rear",
+    "explain": "从后面，从背后，相当于 from behind。rear 作名词指后部，at the rear of 意为“在……的后部”；作形容词意为“后面的”，如 the rear door（后门）、a rear-view mirror（后视镜）。视频把 rear 译为“背后”。"
+   },
+   {
+    "term": "archer",
+    "explain": "弓箭手，指射箭的人；archery 指射箭（运动）。下一句改用 the shooter 指同一个人，第16句又用回 the archer，这是英语避免重复的同义替换。"
+   },
+   {
+    "term": "shoot sb",
+    "explain": "shoot sb 意为“射中某人，向某人射击”，过去式和过去分词都是 shot；shoot at sb 强调朝某人射击，不一定射中。视频把 shot him 译为“向他射了箭”。"
+   }
+  ],
+  "translation_tip": "①句首 From the wound's depth 保留在句首，译为“根据伤口的深度，”，名词所有格 the wound's 译为“伤口的”。②主句 researchers inferred 译为“研究者推断，”，宾语从句译成后面的完整分句。③从句末尾的两个状语 from the rear 和 at about 30 metres 合并后提到谓语之前，译为“从背后约30米处”，符合汉语状语在动词前的习惯。④shot him 译为“向他射了箭”，增补“箭”字，把射击的方式说具体。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "The shooter",
+   "predicate": "caught",
+   "object_or_complement": "him unawares（him 为宾语，unawares 为宾语补足语）",
+   "explain": "主干是 The shooter caught him unawares，主谓宾宾补结构。catch sb unawares 是固定搭配，意为“趁某人毫无防备时出手，冷不防地袭击某人”（视频说明）。谓语 caught 是 catch 的过去式，一般过去时，主动语态；probably 表示推测。"
+  },
+  "components": [
+   {
+    "text": "The shooter",
+    "zh": "射手",
+    "role": "主语（指上句的 an archer）"
+   },
+   {
+    "text": "probably",
+    "zh": "很可能",
+    "role": "状语（副词，表示推测）"
+   },
+   {
+    "text": "caught",
+    "zh": "趁……时出手",
+    "role": "谓语（catch 的过去式；catch sb unawares 是固定搭配）"
+   },
+   {
+    "text": "him",
+    "zh": "他",
+    "role": "宾语"
+   },
+   {
+    "text": "unawares.",
+    "zh": "毫无防备",
+    "role": "宾语补足语（副词，说明 him 当时所处的状态）"
+   }
+  ],
+  "structure": "①主干 The shooter caught him unawares：主语 The shooter，谓语 caught，宾语 him，unawares 作宾语补足语，说明他遇袭时的状态。catch sb unawares 意为“趁某人毫无防备时出手，冷不防地袭击某人，打了某人一个措手不及”（视频说明）。\n②The shooter 指上句的 an archer，同一个人换了一种说法，避免重复。\n③probably 是表示推测的副词，放在实义动词 caught 之前，说明这是可能性较大的推断，不是确定的事实。上句根据伤口推断出箭是从背后射来的，本句据此进一步推测他当时没有防备。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "catch sb + 宾语补足语",
+    "explain": "catch 后接宾语，再接表示状态的宾语补足语，表示“在某种状态下撞见、逮住或袭击某人”。宾补可以是现在分词（catch sb stealing，撞见某人偷东西）、副词或介词短语（catch sb unawares、catch sb off guard，趁某人不备；catch sb in the act，当场抓住某人）、形容词（catch sb red-handed，当场抓获）。本句 unawares 是副词，作 him 的宾语补足语。考研完形中常考 catch sb doing：宾补用现在分词，表示动作正在进行时被人发现。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A guard caught two teenagers climbing over the fence.",
+      "zh": "一名保安撞见两个少年正在翻越围栏。"
+     },
+     {
+      "en": "The sudden storm caught the climbers off guard.",
+      "zh": "这场突如其来的暴风雨让登山者们措手不及。"
+     }
+    ]
+   },
+   {
+    "title": "unawares 与 unaware",
+    "explain": "unaware 是形容词，意为“不知道的，没察觉到的”，多作表语，接 of 或 that 从句，如 be unaware of the danger；unawares 只作副词，意为“冷不防地，出其不意地”，主要用于 catch/take sb unawares 这一搭配。be unaware of 中的 unaware 不能换成 unawares。两词只差一个 s，词性和用法不同，写作时要注意区分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many residents were unaware that the river had burst its banks.",
+      "zh": "许多居民不知道河水已经决堤。"
+     }
+    ]
+   },
+   {
+    "title": "表示推测的副词 probably",
+    "explain": "probably、possibly、perhaps、certainly 等副词表示说话人对事情可能性的判断：certainly 最肯定，probably 表示可能性很大，possibly 和 perhaps 表示有可能。probably 通常放在实义动词之前、be 动词和助动词之后，如 He probably knows、He is probably right、He will probably come。本句 probably 说明“趁他毫无防备时出手”只是推断，视频译为“很可能”。考研阅读中这类副词体现作者的确信程度，做细节题时不能把推测当成事实。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The repairs will probably take longer than the council expects.",
+      "zh": "维修工作很可能会比市议会预计的时间更长。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "catch sb unawares",
+    "explain": "趁某人毫无防备时出手，冷不防地袭击某人，打了某人一个措手不及（视频说明）；也可说 take sb unawares，意思相近的有 catch sb off guard、take sb by surprise。"
+   },
+   {
+    "term": "shooter",
+    "explain": "由 shoot 加表示人的后缀 -er 构成，泛指射击的人；现代新闻中多指持枪行凶的枪手。本句指射箭的人，视频译为“射手”，与上句的 archer 指同一个人。"
+   }
+  ],
+  "translation_tip": "①probably 译为“很可能”，保留原文的推测语气。②catch sb unawares 不按字面译成“抓住”，按视频说明意译为“趁他毫无防备时出手”：宾语补足语 unawares 转成“趁……时”的结构，谓语 caught 译为“出手”，表示发起袭击。③主语 The shooter 译为“射手”，与上句的“弓箭手”前后呼应。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "A 2018 study",
+   "predicate": "found",
+   "object_or_complement": "he had dined on dried ibex meat and fat, red deer, and einkorn wheat",
+   "explain": "主干是 A 2018 study found + 省略 that 的宾语从句，主谓宾结构。谓语 found 为一般过去时；宾语从句的谓语 had dined on 为过去完成时，表示进餐发生在 found 所指的时间之前。句末 a hearty, nourishing meal… 是同位语，概括列出的食物。"
+  },
+  "components": [
+   {
+    "text": "A 2018 study",
+    "zh": "2018年的一项研究",
+    "role": "主语（年份 2018 作前置定语，说明研究的年份）"
+   },
+   {
+    "text": "found",
+    "zh": "发现",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "he had dined on dried ibex meat and fat, red deer, and einkorn wheat,",
+    "zh": "他吃了干野山羊肉和脂肪、马鹿肉和单粒小麦",
+    "role": "宾语从句（省略引导词 that）；dined on 后接三个并列宾语"
+   },
+   {
+    "text": "a hearty, nourishing meal",
+    "zh": "一顿丰盛而有营养的饭",
+    "role": "同位语，概括宾语从句中列出的食物"
+   },
+   {
+    "text": "reportedly consumed within two hours of his death.",
+    "zh": "据报道是在他死前两小时内吃下的",
+    "role": "后置定语（过去分词短语），修饰 meal；reportedly 表示信息来自报道"
+   }
+  ],
+  "structure": "①主干 A 2018 study found + 宾语从句，found 后省略了引导词 that。“研究发现”是科普和新闻中常见的说法，以研究本身作主语。\n②宾语从句：主语 he，谓语 had dined on，后接三个并列宾语 dried ibex meat and fat、red deer、einkorn wheat，最后一项前有牛津逗号。第一项内部 ibex meat and fat 已经用了 and，所以三项之间用逗号分清界限，最后一项前再用 and。dine on 意为“正餐吃的是……”，它不是日常的“吃（eat）”，而是特指“正餐吃了什么（好东西）”（视频说明）。had dined on 是过去完成时，进餐发生在 found 所指的时间之前。\n③a hearty, nourishing meal 是同位语，把前面列出的食物概括为“一顿丰盛而有营养的饭”。hearty 和 nourishing 两个形容词并列修饰 meal，中间用逗号隔开。\n④reportedly consumed within two hours of his death 是过去分词短语作后置定语，修饰 meal，相当于 which was reportedly consumed…。饭是被吃的，所以用过去分词 consumed；reportedly 意为“据报道”，作者只是转述，不作确定的判断；within two hours of his death 表示与他的死亡相隔不超过两小时，结合语境指死前两小时内。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "reportedly 等表示信息来源的副词",
+    "explain": "reportedly（据报道）、allegedly（据称）、apparently（看来，据说）、supposedly（据说，按理说）等副词表示所说内容来自他人，说话人不对其真实性作保证。本句 reportedly 修饰 consumed，表示“死前两小时内吃下”是转述的报道内容，作者并不直接断言。考研阅读中，这类词是区分作者观点与他人说法的标志，做态度题和细节题时要特别留意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The singer reportedly earned more than ten million dollars from the tour.",
+      "zh": "据报道，这位歌手从巡演中赚了一千多万美元。"
+     },
+     {
+      "en": "The suspect allegedly entered the building through a back window.",
+      "zh": "据称，嫌疑人是从后窗进入大楼的。"
+     }
+    ]
+   },
+   {
+    "title": "within + 时间段 + of + 事件",
+    "explain": "within 后接时间段，再用 of 引出参照的事件或时间点，表示与该事件相隔不超过多长时间，如 within a week of the accident（事故发生后一周内）、within minutes of arriving（到达后几分钟内）。是在事件之前还是之后，要看语境：本句吃饭只能发生在死亡之前，所以视频译为“死前两小时内”。注意 in two hours 一般指“两小时以后”，与 within two hours（两小时之内）意思不同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Most of the tickets were sold within an hour of going on sale.",
+      "zh": "大部分门票在开售后一小时内就卖出去了。"
+     },
+     {
+      "en": "Symptoms usually appear within three days of infection.",
+      "zh": "症状通常在感染后三天内出现。"
+     }
+    ]
+   },
+   {
+    "title": "年份作前置定语",
+    "explain": "表示年份的数字可以直接放在名词前作定语，如 a 2018 study（2018年的一项研究）、the 2008 financial crisis（2008年金融危机），新闻语体常用，比 a study published in 2018 简洁。数字与名词构成复合形容词作定语时，名词用单数并加连字符，如 a two-hour meeting、a ten-year-old girl。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A 2020 survey found that most employees wanted to work from home at least two days a week.",
+      "zh": "2020年的一项调查发现，大多数员工希望每周至少有两天在家办公。"
+     }
+    ]
+   },
+   {
+    "title": "并列形容词之间的逗号",
+    "explain": "两个形容词同等地修饰一个名词时，中间用逗号隔开，如 a hearty, nourishing meal。判断方法是看能否用 and 连接、能否调换顺序：a hearty and nourishing meal、a nourishing, hearty meal 都成立，就用逗号。如果前一个形容词修饰的是“后一个形容词 + 名词”这个整体，就不加逗号，如 a large wooden table。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It was a long, exhausting journey across the mountains.",
+      "zh": "那是一次翻山越岭的漫长而疲惫的旅程。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dine on",
+    "explain": "正餐吃的是……；它不是日常的“吃（eat）”，而是特指“正餐吃了什么（好东西）”（视频说明）。dine 本身是正式用词，意为“进餐，用餐”，如 dine out（在外就餐）、dine with friends（与朋友一起吃饭）。视频把 had dined on 译为“吃了”。"
+   },
+   {
+    "term": "ibex",
+    "explain": "野山羊，一种生活在高山地区、长着弯曲长角的野生山羊。视频把 dried ibex meat 译为“干野山羊肉”。"
+   },
+   {
+    "term": "red deer",
+    "explain": "马鹿，一种体形较大的鹿，分布于欧洲和亚洲等地。本句作为食物出现，视频译为“马鹿肉”。鹿肉在英语中通常叫 venison。"
+   },
+   {
+    "term": "einkorn wheat",
+    "explain": "单粒小麦，一种早期栽培的小麦，每个小穗通常只结一粒麦粒。einkorn 来自德语，由 ein（一）和 Korn（谷粒）构成，字面意思是“一粒”。"
+   },
+   {
+    "term": "hearty",
+    "explain": "形容饭菜时意为“丰盛的，量多的”，如 a hearty breakfast；形容人的态度时意为“热情的，衷心的”，如 a hearty welcome。视频取“丰盛”。"
+   }
+  ],
+  "translation_tip": "①主语 A 2018 study 中作定语的年份前置，译为“2018年的一项研究”，不定冠词 a 译为“一项”。②found 后省略的 that 不影响翻译，宾语从句译成“发现，”后面的完整分句；had dined on 依视频说明取“吃了”。③三项并列的食物用顿号和“和”连接，译为“干野山羊肉和脂肪、马鹿肉和单粒小麦”；red deer 增补“肉”字，说明吃的是马鹿的肉。④同位语 a hearty, nourishing meal 紧接在列举之后，译为“一顿丰盛而有营养的饭”，两个并列形容词用“而”连接。⑤后置的过去分词短语拆成后一分句，reportedly 译为“据报道是”，用“是……的”句式突出时间，within two hours of his death 译为“在他死前两小时内”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Curators",
+   "predicate": "keep",
+   "object_or_complement": "Ötzi",
+   "explain": "主干是 Curators keep Ötzi，主谓宾结构。谓语 keep 为一般现在时，主动语态，与 now 连用，描述现在的状况。whose 引导的非限制性定语从句补充说明 Ötzi。"
+  },
+  "components": [
+   {
+    "text": "Curators",
+    "zh": "博物馆馆长",
+    "role": "主语"
+   },
+   {
+    "text": "in Bolzano",
+    "zh": "博尔扎诺的",
+    "role": "后置定语（介词短语），修饰 Curators"
+   },
+   {
+    "text": "now",
+    "zh": "如今",
+    "role": "时间状语（副词）"
+   },
+   {
+    "text": "keep",
+    "zh": "保管着",
+    "role": "谓语（一般现在时）"
+   },
+   {
+    "text": "Ötzi,",
+    "zh": "奥茨",
+    "role": "宾语"
+   },
+   {
+    "text": "whose 61 tattoos on joints and spine were perhaps an early form of acupuncture.",
+    "zh": "他身上的61处文身位于关节和脊柱，也许是一种早期的针灸形式",
+    "role": "非限制性定语从句，修饰 Ötzi；whose 在从句中作定语，修饰 61 tattoos"
+   }
+  ],
+  "structure": "①主句 Curators in Bolzano now keep Ötzi：主语 Curators，in Bolzano 是介词短语作后置定语，说明是哪里的馆长；now 作时间状语；谓语 keep 意为“保管，存放”；宾语 Ötzi。\n②whose 引导非限制性定语从句，修饰 Ötzi（视频说明）。whose 在从句中作定语，修饰 61 tattoos，相当于 his。\n③从句内部：主语 61 tattoos，on joints and spine 是介词短语作后置定语，说明文身的位置；系动词 were，perhaps 表示推测，表语 an early form of acupuncture（……的一种早期形式，视频说明）。\n④从句用过去时 were，说的是这些文身在奥茨生前的作用；perhaps 说明这只是一种可能的解释，不是定论。joints and spine 前没有冠词或物主代词，是新闻语体求简洁的写法。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whose 引导定语从句",
+    "explain": "whose 是关系代词的所有格形式，在定语从句中作定语，修饰紧跟其后的名词，表示“……的”。先行词可以是人，也可以是物，如 a house whose roof leaks（一座屋顶漏雨的房子）。本句 whose 61 tattoos 相当于 his 61 tattoos，whose 指代先行词 Ötzi，修饰 tattoos。判断方法：把 whose 换成“先行词 + 's”或相应的物主代词，从句能成立，就用 whose。考研翻译中，whose 从句常拆成独立分句，用“他的”“其”回指先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The scheme helps families whose children have special educational needs.",
+      "zh": "这项计划为孩子有特殊教育需求的家庭提供帮助。"
+     },
+     {
+      "en": "The novelist, whose first book was rejected by twelve publishers, now sells millions of copies.",
+      "zh": "这位小说家的第一本书曾被十二家出版社拒绝，如今他的书销量达数百万册。"
+     }
+    ]
+   },
+   {
+    "title": "专有名词作先行词时用非限制性定语从句",
+    "explain": "先行词是专有名词（人名、地名等）时，所指已经唯一确定，定语从句只能起补充说明作用，要用非限制性定语从句，前面加逗号，引导词不能用 that。本句 Ötzi 是人名，所以 whose 从句前有逗号。翻译时非限制性定语从句常拆成独立分句，用代词回指先行词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team flew to Reykjavik, where the conference was being held.",
+      "zh": "团队飞往雷克雅未克，会议正在那里举行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "curator",
+    "explain": "（博物馆、美术馆等的）馆长，负责藏品的管理人员，视频译为“博物馆馆长”。动词 curate 意为“策划（展览），管理（藏品）”，现在也引申为“精选、整理（内容）”，如 curate a playlist。"
+   },
+   {
+    "term": "keep",
+    "explain": "熟词僻义：keep 在这里意为“保管，存放”，指博物馆收藏并照管奥茨的遗体，视频译为“保管着”，“着”体现现在的持续状态。"
+   },
+   {
+    "term": "Bolzano",
+    "explain": "博尔扎诺，意大利北部城市，位于南蒂罗尔（South Tyrol）地区，德语名为 Bozen。奥茨的遗体现存放在当地的南蒂罗尔考古博物馆（South Tyrol Museum of Archaeology）。"
+   },
+   {
+    "term": "an early form of",
+    "explain": "……的一种早期形式（视频说明）；form 在此意为“类型，形式”，如 a form of transport（一种交通方式）、an art form（一种艺术形式）。"
+   },
+   {
+    "term": "acupuncture",
+    "explain": "针灸（针刺疗法），由拉丁语 acus（针）和 puncture（刺）构成。本句用 perhaps 说明“这些文身是早期针灸”只是一种推测。"
+   }
+  ],
+  "translation_tip": "①Curators in Bolzano 的后置定语前置，译为“博尔扎诺的博物馆馆长”，增补“博物馆”交代馆长所在的机构。②now keep 译为“如今保管着”，“着”体现现在的状态。③非限制性定语从句拆成独立分句，whose 61 tattoos 译为“他身上的61处文身”，用“他”回指 Ötzi，增补“身上”。④从句中的后置定语 on joints and spine 转译为谓语“位于关节和脊柱”，再用“也许是”接表语，一个从句拆成两个小句，避免“文身”前定语过长。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The archer's identity（分句一）；any motive（分句二）",
+   "predicate": "is（分句一）；is（分句二）",
+   "object_or_complement": "an enigma（分句一的表语）；conjecture（分句二的表语）",
+   "explain": "由 and 连接的并列句，两个分句都是主系表结构，系动词 is 为一般现在时，说明直到今天仍是这样的状况。"
+  },
+  "components": [
+   {
+    "text": "The archer's identity",
+    "zh": "那名弓箭手的身份",
+    "role": "分句一的主语"
+   },
+   {
+    "text": "is",
+    "zh": "是",
+    "role": "系动词（一般现在时）"
+   },
+   {
+    "text": "an enigma,",
+    "zh": "个谜团",
+    "role": "表语"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，视频未单独译出，两个分句用逗号连接）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "any motive",
+    "zh": "任何动机",
+    "role": "分句二的主语"
+   },
+   {
+    "text": "is",
+    "zh": "（系动词，与 conjecture 合译为“都只是猜测”）",
+    "role": "系动词（一般现在时）"
+   },
+   {
+    "text": "conjecture.",
+    "zh": "猜测",
+    "role": "表语（不可数名词，前面不加冠词）"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句，前后两个分句结构相同，都是主系表结构。\n②分句一 The archer's identity is an enigma：主语 The archer's identity，archer's 是名词所有格；表语 an enigma，意为“谜团”。\n③分句二 any motive is conjecture：any 用在肯定句中，意为“任何（一个）”，any motive 指人们提出的任何一种动机；表语 conjecture 意为“猜测”，用作不可数名词，前面不加冠词。\n④两个分句都用一般现在时，说明直到今天，凶手是谁、为什么杀他仍然没有定论。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "and 连接的并列句",
+    "explain": "两个意思相关、结构完整的分句可以用并列连词 and、but、or、so 等连接，构成并列句；两个分句各有主语时，连词前通常加逗号。本句两个分句各有主语和系动词，and 前用了逗号。注意：不能只用逗号连接两个完整的句子，这是“逗号粘连”错误，考研写作中会被扣分；要么加连词，要么改用分号或句号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first experiment failed, and the team had to start again.",
+      "zh": "第一次实验失败了，团队只好从头再来。"
+     },
+     {
+      "en": "Prices have risen sharply, but wages have barely changed.",
+      "zh": "物价大幅上涨，而工资几乎没有变化。"
+     }
+    ]
+   },
+   {
+    "title": "any 用于肯定句",
+    "explain": "any 通常用于否定句和疑问句，但用在肯定句中时，意为“任何（一个），无论哪个”，强调没有例外，后接单数可数名词或不可数名词，如 Any student can apply（任何学生都可以申请）。本句 any motive is conjecture 意为“任何动机都只是猜测”，视频增补“都”字，体现 any 的“没有例外”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Any change to the timetable will be announced on the website.",
+      "zh": "时刻表如有任何变动，都会在网站上公布。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词作表语时的冠词",
+    "explain": "抽象名词作表语时，可数用法要加不定冠词，不可数用法不加冠词。enigma 是可数名词，所以说 an enigma；conjecture 表示“猜测”这类没有根据的看法时常作不可数名词，如 pure conjecture（纯属猜测）、a matter of conjecture（只能猜测的事），本句不加冠词。同类的还有 It is a mystery（这是个谜）与 It is speculation（这是推测）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Whether the plan will work is still a matter of conjecture.",
+      "zh": "这个计划能否奏效，目前仍然只能猜测。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "enigma",
+    "explain": "谜，难以理解的人或事，比 mystery 正式，常说 remain an enigma（仍然是个谜）；形容词 enigmatic 意为“神秘的，令人费解的”。"
+   },
+   {
+    "term": "conjecture",
+    "explain": "推测，猜想，指没有确凿证据的判断，pure conjecture 意为“纯属猜测”；也可作动词，意为“推测”。数学中的“猜想”也用 conjecture，如 Goldbach's conjecture（哥德巴赫猜想）。"
+   },
+   {
+    "term": "motive",
+    "explain": "动机，尤指犯罪的动机，常说 a motive for sth、the motive behind sth；与 motivation（积极性，动力）用法不同。"
+   },
+   {
+    "term": "identity",
+    "explain": "身份，reveal/conceal one's identity 意为“暴露/隐瞒身份”；也指认同感、特性，如 national identity（民族认同）。"
+   }
+  ],
+  "translation_tip": "①名词所有格 The archer's identity 译为“那名弓箭手的身份”，增补“那名”回指前文的弓箭手。②an enigma 译为“是个谜团”，省略数词“一”，语气自然。③并列连词 and 不译，两个分句用逗号直接连接，汉语靠意合，前后关系依然清楚。④is conjecture 增补“都只是”：“都”对应 any 表示的“没有例外”，“只是”体现 conjecture 缺乏证据支撑的意思。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Ötzi",
+   "predicate": "has",
+   "object_or_complement": "a name, a last meal, and a cause of death",
+   "explain": "主干是 Ötzi has a name, a last meal, and a cause of death，主谓宾结构，三个名词短语并列作宾语。谓语 has 为一般现在时。while 连接后一个与之对比的分句。"
+  },
+  "components": [
+   {
+    "text": "Ötzi",
+    "zh": "奥茨",
+    "role": "主语"
+   },
+   {
+    "text": "has",
+    "zh": "有",
+    "role": "谓语（一般现在时）"
+   },
+   {
+    "text": "a name,",
+    "zh": "名字",
+    "role": "第一个并列宾语"
+   },
+   {
+    "text": "a last meal,",
+    "zh": "最后一餐",
+    "role": "第二个并列宾语"
+   },
+   {
+    "text": "and",
+    "zh": "也有",
+    "role": "并列连词，引出最后一个宾语（and 前是牛津逗号）；视频译为“也有”，重复“有”字构成排比"
+   },
+   {
+    "text": "a cause of death,",
+    "zh": "死因",
+    "role": "第三个并列宾语"
+   },
+   {
+    "text": "while his anonymous killer has none.",
+    "zh": "而杀他的那个不知姓名的凶手这些都没有",
+    "role": "while 引导的分句，表对比（视频说明）；none 指代前面的三样东西"
+   }
+  ],
+  "structure": "①主句 Ötzi has a name, a last meal, and a cause of death：主语 Ötzi，谓语 has，三个名词短语并列作宾语，最后一项前用了牛津逗号。三项分别呼应前文：名字（第6句 Known as Ötzi）、最后一餐（第14句的食物）、死因（第8句的动脉撕裂）。\n②while 表对比（视频说明），意为“而”，连接后一个分句，把奥茨与凶手对照。\n③while 分句：主语 his anonymous killer，his 指奥茨，his killer 意为“杀他的人”；anonymous 意为“不知姓名的”。谓语 has，宾语 none。none 是代词，指名字、最后一餐和死因，一样也没有（视频说明）。\n④全句一边是“有”，一边是“没有”，用对比收尾，呼应上一句“弓箭手的身份是个谜团”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "while 表对比",
+    "explain": "while 除了表示“当……的时候”，还可以表示对比，意为“而，然而”，连接两个形成对照的分句，说明两者的差异，如 Some people like coffee, while others prefer tea；还可以表示让步，意为“虽然”，此时多放在句首，如 While I understand your point, I cannot agree。本句 while 连接“奥茨有……”和“凶手没有……”，表对比（视频说明）。考研阅读中，while 后常常是作者要强调的差异，翻译时据上下文选“而”或“虽然”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The north of the country is wet and green, while the south is mostly desert.",
+      "zh": "这个国家北部湿润葱绿，而南部大多是沙漠。"
+     },
+     {
+      "en": "While the plan has some merits, it is far too expensive.",
+      "zh": "这个计划虽然有一些优点，但成本太高了。"
+     }
+    ]
+   },
+   {
+    "title": "代词 none 的用法",
+    "explain": "none 是代词，意为“一个也没有，一点也没有”，可以替代前文提到的可数名词或不可数名词，单独作主语或宾语，如 I wanted some tickets, but there were none left。no 是限定词，必须后接名词，不能单独使用，所以本句不能说 has no，只能说 has none。none 用于三者或三者以上，指两者时用 neither。本句 none 指代前面的名字、最后一餐和死因（视频说明）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Several witnesses were questioned, but none could describe the driver.",
+      "zh": "警方询问了几名目击者，但没有一个人能说出司机的样子。"
+     },
+     {
+      "en": "We looked for fresh bread, but the shop had none.",
+      "zh": "我们想买新鲜面包，但那家店已经没有了。"
+     }
+    ]
+   },
+   {
+    "title": "牛津逗号",
+    "explain": "三项或三项以上并列时，最后一个 and 或 or 前加的逗号叫牛津逗号（Oxford comma，也叫 serial comma）。本句 a name, a last meal, and a cause of death 就用了牛津逗号。它能使各项界限清楚，避免歧义；不少出版物和学术写作规范要求使用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The course covers grammar, vocabulary, and academic writing.",
+      "zh": "这门课程涵盖语法、词汇和学术写作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a cause of death",
+    "explain": "死因，cause of death 是医学和新闻中的固定说法，如 The cause of death was heart failure（死因是心力衰竭）。cause 后接 of 引出结果。"
+   },
+   {
+    "term": "last meal",
+    "explain": "最后一餐，指死前吃的最后一顿饭；首字母大写的 the Last Supper 指《圣经》中的“最后的晚餐”。"
+   },
+   {
+    "term": "anonymous",
+    "explain": "匿名的，不知姓名的，如 an anonymous letter（匿名信）、an anonymous donor（匿名捐赠者）；名词为 anonymity。本句指至今没有人知道凶手是谁。"
+   },
+   {
+    "term": "killer",
+    "explain": "凶手，杀手；也可指致命的疾病等，如 Heart disease is a major killer（心脏病是一大致死疾病）。"
+   }
+  ],
+  "translation_tip": "①三个并列宾语都配上动词“有”，译为“有名字，有最后一餐，也有死因”，形成排比，“也”对应 and；不定冠词 a 都不译。②while 依视频说明译为“而”，表示对比。③his anonymous killer 增补说明并前置修饰：his 在这里表示“杀他的”这层关系，anonymous 译为“不知姓名的”，合成“杀他的那个不知姓名的凶手”。④none 不只译为“没有”，增补“这些都”，译为“这些都没有”，“这些”回指前面的三样东西。"
+ }
+]
