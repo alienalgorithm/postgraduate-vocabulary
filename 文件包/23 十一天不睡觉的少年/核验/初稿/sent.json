@@ -1,0 +1,1665 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Randy Gardner",
+   "predicate": "set out to forgo",
+   "object_or_complement": "slumber",
+   "explain": "主干是 Randy Gardner set out to forgo slumber，主谓宾结构。set out to do 意为“着手做，开始尝试做”（视频说明），set out 与不定式 to forgo 合起来表达谓语意义，slumber 是 forgo 的宾语。谓语为一般过去时，主动语态，叙述过去发生的事。"
+  },
+  "components": [
+   {
+    "text": "On 28 December 1963",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1963年12月28日"
+   },
+   {
+    "text": "Randy Gardner,",
+    "role": "主语",
+    "zh": "兰迪·加德纳"
+   },
+   {
+    "text": "a 17-year-old science enthusiast",
+    "role": "同位语（名词短语），说明 Randy Gardner 的身份；17-year-old 和 science 作前置定语",
+    "zh": "一名17岁的……科学爱好者"
+   },
+   {
+    "text": "at a San Diego high school,",
+    "role": "后置定语（介词短语），修饰 enthusiast；San Diego 作 high school 的定语",
+    "zh": "圣迭戈……高中"
+   },
+   {
+    "text": "set out to forgo",
+    "role": "谓语（set out to do 结构，意为“着手做，开始尝试做”）",
+    "zh": "开始尝试放弃"
+   },
+   {
+    "text": "slumber",
+    "role": "宾语（forgo 的宾语）",
+    "zh": "睡眠"
+   },
+   {
+    "text": "for a regional science fair.",
+    "role": "目的状语（介词短语，for 表示“为了”）",
+    "zh": "为了参加一场地区性的科学展"
+   }
+  ],
+  "structure": "①主句是 Randy Gardner set out to forgo slumber。主语 Randy Gardner 后面紧跟一个由逗号隔开的长同位语，谓语 set out 直到第二个逗号之后才出现，读的时候要越过同位语去找谓语。\n②a 17-year-old science enthusiast at a San Diego high school 是同位语，说明 Randy Gardner 的身份（视频说明）。中心词是 enthusiast；17-year-old 是用连字符连成的复合形容词，作前置定语，其中 year 用单数；science 是名词作前置定语，表示爱好的领域；at a San Diego high school 是介词短语作后置定语，修饰 enthusiast，San Diego 又作 high school 的定语，说明学校所在的城市。\n③set out to forgo slumber 中，set out to do 意为“着手做，开始尝试做”（视频说明），强调带着明确的目的开始做某事；forgo slumber 意为“放弃睡眠”，slumber 是 forgo 的宾语。\n④句首 On 28 December 1963 是时间状语，具体日期前用介词 on；句尾 for a regional science fair 是目的状语，for 表示“为了”，交代放弃睡眠的目的是参加科学展。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是对前面的名词作进一步解释、说明的名词或名词短语，与被说明的名词指同一对象，通常用逗号隔开。新闻和人物介绍常用“人名 + 逗号 + 身份 + 逗号”的格式，如本句 Randy Gardner, a 17-year-old science enthusiast at a San Diego high school,。同位语只起补充作用，去掉后句子主干不变。长难句中主语后接长同位语时，谓语会被推得很远，阅读时要先找出两个逗号之间的插入成分，再去找谓语。本文第3、4、5句也用了同样的结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Mr Lee, a retired engineer from Seoul, now spends most of his time restoring old radios.",
+      "zh": "李先生是一位来自首尔的退休工程师，如今他把大部分时间花在修复旧收音机上。"
+     },
+     {
+      "en": "The report, a 300-page study of rural poverty, will be published next month.",
+      "zh": "这份长达300页、研究农村贫困问题的报告将于下月发布。"
+     }
+    ]
+   },
+   {
+    "title": "连字符复合形容词中的名词用单数",
+    "explain": "“数词 + 名词 + 形容词”或“数词 + 名词”用连字符连成复合形容词作前置定语时，其中的名词用单数：a 17-year-old boy、a ten-minute walk、a 300-page report。不用连字符时名词要用复数，多作表语：The boy is 17 years old。17-year-old 还可以直接作名词，意为“17岁的人”，复数为 17-year-olds。考研写作中的常见错误是写成 a 17-years-old boy。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city plans to build a five-kilometre cycle path along the river.",
+      "zh": "该市计划沿河修建一条五公里长的自行车道。"
+     }
+    ]
+   },
+   {
+    "title": "set out to do 的用法",
+    "explain": "set out to do sth 表示带着明确的目的开始做某事，相当于 begin to do 或 aim to do，常用于交代计划、研究或尝试的出发点，如 set out to prove、set out to change。set out 单用或接 for、on 时多指“出发，启程”，如 set out for London；set out sth 还可以指“陈述，阐明”，如 set out the reasons。本句 set out to forgo slumber 强调加德纳是有意、有计划地开始不睡觉。考研阅读中，set out to 常出现在交代研究目的的句子里。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The study set out to measure how screen time affects children's sleep.",
+      "zh": "这项研究旨在测量屏幕使用时间如何影响儿童的睡眠。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "On 28 December 1963",
+    "explain": "日期的英式写法是“日 月 年”，美式多写成 December 28, 1963。具体某一天前用介词 on，单独的月份、年份前用 in，如 in December、in 1963。视频译为“1963年12月28日”，按汉语“年 月 日”的顺序排列。"
+   },
+   {
+    "term": "San Diego",
+    "explain": "美国加利福尼亚州南部的海滨城市，靠近美墨边境，视频译为“圣迭戈”。San Diego 在本句中作 high school 的前置定语，地名直接修饰名词。"
+   },
+   {
+    "term": "science fair",
+    "explain": "科学展，学生展示自己的科学项目并参加评比的活动，在美国中学很常见；a regional science fair 指地区性的科学展，视频译为“一场地区性的科学展”。"
+   },
+   {
+    "term": "forgo slumber",
+    "explain": "forgo 意为“放弃，舍弃（想要的东西）”，是正式用词；slumber 是带文学色彩的“睡眠”。用 forgo slumber 而不说 give up sleep，语体更正式、更书面，也避免与全文反复出现的 sleep 重复。"
+   }
+  ],
+  "translation_tip": "视频译文“1963年12月28日，圣迭戈一名17岁的高中科学爱好者兰迪·加德纳，为了参加一场地区性的科学展，开始尝试放弃睡眠。”的处理：①同位语没有拆开单译，而是前置为主语的定语，“圣迭戈一名17岁的高中科学爱好者”直接修饰“兰迪·加德纳”，符合汉语定语在前的习惯；后置定语 at a San Diego high school 拆开译，地名“圣迭戈”放在最前，“高中”放进定语内部。②句尾的目的状语 for a regional science fair 前移到谓语前，译成“为了参加一场地区性的科学展”，增补动词“参加”使搭配完整；不定冠词 a 译成量词“一场”。③set out to 按视频说明译为“开始尝试”，forgo slumber 译为“放弃睡眠”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Two companions",
+   "predicate": "jolted and logged",
+   "object_or_complement": "him（jolted 的宾语），awake（宾语补足语）；his mood（logged 的宾语）",
+   "explain": "一个主语带两个并列谓语：Two companions jolted him awake（主谓宾宾补）和 logged his mood（主谓宾）。两个谓语都是一般过去时，主动语态，叙述实验期间同伴反复做的事。"
+  },
+  "components": [
+   {
+    "text": "Two companions",
+    "role": "主语",
+    "zh": "两名同伴"
+   },
+   {
+    "text": "diligently",
+    "role": "方式状语（副词），修饰后面的谓语",
+    "zh": "尽心尽力"
+   },
+   {
+    "text": "jolted",
+    "role": "谓语一（jolt sb awake 结构）",
+    "zh": "让……猛然"
+   },
+   {
+    "text": "him",
+    "role": "宾语",
+    "zh": "他"
+   },
+   {
+    "text": "awake",
+    "role": "宾语补足语（形容词），说明动作使宾语进入的状态",
+    "zh": "清醒过来"
+   },
+   {
+    "text": "whenever his alertness waned",
+    "role": "时间状语从句（whenever 引导），修饰 jolted him awake",
+    "zh": "每当他的警觉减弱"
+   },
+   {
+    "text": "and logged",
+    "role": "并列连词 and + 谓语二",
+    "zh": "并记录了"
+   },
+   {
+    "text": "his mood.",
+    "role": "宾语（logged 的宾语）",
+    "zh": "他的情绪"
+   }
+  ],
+  "structure": "①主句是 Two companions jolted him awake… and logged his mood，主语 Two companions 带两个由 and 连接的并列谓语。diligently 是方式状语，放在主语和谓语之间，修饰后面的谓语动作，说明两名同伴做事尽心尽力。\n②jolted him awake 是“动词 + 宾语 + 宾语补足语”结构：him 是宾语，形容词 awake 作宾语补足语，说明动作的结果。jolt sb awake 意为“使某人猛然清醒”（视频说明）。\n③whenever his alertness waned 是 whenever 引导的时间状语从句（视频说明），紧跟在 jolted him awake 之后，意为“每当……”。从句主语是 his alertness，谓语 waned 是不及物动词，意为“减弱”。\n④and logged his mood 是第二个谓语，与 jolted 共用主语 Two companions，交代同伴的另一项任务：记录他的情绪。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "形容词作宾语补足语",
+    "explain": "某些动词后可以接“宾语 + 形容词”，形容词作宾语补足语，说明动作使宾语产生的结果或所处的状态，如 keep sb awake、make sb angry、leave the door open、shake sb awake。本句 jolted him awake 即“猛地一震使他醒来”，awake 表示 jolt 这一动作的结果。awake 是以 a- 开头的表语形容词，只能作表语、宾语补足语或后置定语，不能放在名词前作前置定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The noise of the traffic kept her awake most of the night.",
+      "zh": "车流的噪音让她大半夜都没睡着。"
+     },
+     {
+      "en": "Their mother gently shook the children awake before dawn.",
+      "zh": "天亮前，妈妈轻轻把孩子们摇醒。"
+     }
+    ]
+   },
+   {
+    "title": "whenever 引导时间状语从句",
+    "explain": "whenever 引导时间状语从句，意为“每当……，无论何时……”，相当于 every time 或 each time，强调动作反复发生，主从句常用一般现在时或一般过去时描述习惯性、反复性的情况。本句说明每当加德纳的警觉减弱，同伴就把他弄醒，这是实验期间反复出现的情况。whenever 也可引导让步状语从句，相当于 no matter when。易错点：whenever、wherever、however 只能引导状语从句，而 whoever、whatever、whichever 还可以引导名词性从句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Whenever the river floods, the villagers move their livestock to higher ground.",
+      "zh": "每当河水泛滥，村民们就把牲畜转移到高处。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "companion",
+    "explain": "同伴，伙伴，指陪伴某人或与其一起做事的人；本句指陪着加德纳、负责让他保持清醒并记录情况的两个人，视频译为“同伴”。"
+   },
+   {
+    "term": "alertness",
+    "explain": "名词，警觉，清醒，指头脑保持清醒、能迅速作出反应的状态，形容词是 alert（警觉的）。睡眠研究中常说 mental alertness（头脑的清醒程度），视频译为“警觉”。"
+   },
+   {
+    "term": "wane",
+    "explain": "不及物动词，减弱，衰退，原指月亮由圆变缺，常用于兴趣、影响力、热情等抽象事物；wax and wane 意为“盛衰消长”。视频译为“减弱”。"
+   },
+   {
+    "term": "log",
+    "explain": "熟词僻义：log 常见义是“原木”，作动词意为“（正式地）记录，记载”，常用于记录数据、观察结果，如 log data；log in/on 指“登录”。本句视频译为“记录了”。"
+   }
+  ],
+  "translation_tip": "视频译文“两名同伴尽心尽力，每当他的警觉减弱，就让他猛然清醒过来，并记录了他的情绪。”的处理：①方式状语 diligently 译成四字短语“尽心尽力”，放在主语后，用逗号断开，读起来紧凑有力。②whenever 从句在英文中位于动作之后，译文把它提到动作前，译成“每当……，就……”，符合汉语先条件后结果的顺序。③jolted him awake 中，宾语补足语 awake 译成“清醒过来”，jolt 的猛烈义译为“猛然”，用“让他”体现使动关系。④第二个谓语 logged his mood 前用“并”译出 and，与前面的动作并列。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The project",
+   "predicate": "went on to take",
+   "object_or_complement": "first place",
+   "explain": "主干是 The project went on to take first place，主谓宾结构。go on to do 意为“后来接着做成……”（视频说明），went on 与不定式 to take 合起来表达谓语意义，first place 是 take 的宾语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The project,",
+    "role": "主语（指加德纳为科学展做的不睡觉项目）",
+    "zh": "这个项目"
+   },
+   {
+    "text": "a voluntary",
+    "role": "同位语的一部分：不定冠词 a + 前置定语 voluntary",
+    "zh": "一次自愿的"
+   },
+   {
+    "text": "endeavour,",
+    "role": "同位语的中心词，补充说明 the project",
+    "zh": "尝试"
+   },
+   {
+    "text": "went on to",
+    "role": "谓语的一部分（go on to do 结构，表示后来接着做成）",
+    "zh": "继而"
+   },
+   {
+    "text": "take first place.",
+    "role": "谓语的另一部分及宾语（take 与 went on to 构成谓语，first place 作 take 的宾语）",
+    "zh": "夺得了第一名"
+   }
+  ],
+  "structure": "①主句是 The project went on to take first place，主语 The project 指上句加德纳为科学展做的不睡觉项目。\n②a voluntary endeavour 是同位语，补充说明 the project（视频说明），点明这个项目是一次自愿进行的尝试；voluntary 作前置定语，修饰 endeavour。\n③went on to take first place 中，go on to do 意为“后来接着做成……”（视频说明），表示在前一件事之后接着发生另一件事；本句指这个项目后来在科学展上夺得第一名。take first place 是固定搭配，意为“夺得第一名”，first place 前不加冠词。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "go on to do 与 go on doing",
+    "explain": "go on to do sth 表示做完一件事之后接着做另一件事，或某人、某事后来取得了某种结果，叙事中常用来交代后续发展，如 She went on to become a famous lawyer。go on doing sth 表示继续做同一件事，如 He went on talking。本句 went on to take first place 指这个项目后来夺得第一名，属于前一种用法。stop、remember、forget、try 等动词后接不定式和接动名词时意思也不同，是考研完形的常考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "After finishing her degree in physics, she went on to study law.",
+      "zh": "她拿到物理学学位后，又接着去学了法律。"
+     },
+     {
+      "en": "Despite the warnings, the company went on expanding into new markets.",
+      "zh": "尽管有人发出警告，该公司仍继续向新市场扩张。"
+     }
+    ]
+   },
+   {
+    "title": "表示名次的 first place 前不加冠词",
+    "explain": "表示比赛名次时，first、second、third place 前通常不加冠词：take/win first place、finish in second place；也可以说 come first、finish third。这与“序数词前一般加 the”的规则不同，写作中不要写成 take the first place。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team finished in second place after losing the final match.",
+      "zh": "该队输掉最后一场比赛后，最终获得第二名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "endeavour",
+    "explain": "名词，努力，尝试，正式用词，常指需要付出很大努力的事业或尝试，如 scientific endeavour（科学探索）、human endeavour（人类的奋斗）。endeavour 是英式拼写，美式拼写为 endeavor。本句视频译为“尝试”。"
+   },
+   {
+    "term": "voluntary",
+    "explain": "自愿的，主动的，与 compulsory（强制的，义务的）相对；a voluntary endeavour 强调这次尝试出于本人意愿，没有人强迫。"
+   },
+   {
+    "term": "take first place",
+    "explain": "夺得第一名，名列第一，也可说 win first place、come first。视频译为“夺得了第一名”。"
+   }
+  ],
+  "translation_tip": "视频译文“这个项目，一次自愿的尝试，继而夺得了第一名。”的处理：①同位语 a voluntary endeavour 保留在原位，夹在两个逗号之间译成“一次自愿的尝试”，与英文结构一一对应；不定冠词 a 译成量词“一次”。②went on to 按视频说明译为“继而”，表示在前一件事之后接着发生。③take first place 译为“夺得了第一名”，用“了”表示动作已经完成。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "William Dement",
+   "predicate": "read and was intrigued",
+   "object_or_complement": "press coverage of the attempt（read 的宾语）；intrigued（was 的表语）",
+   "explain": "一个主语带两个并列谓语：William Dement read press coverage of the attempt（主谓宾）和 was intrigued（主系表）。两个谓语都是一般过去时；read 的过去式与原形拼写相同，读作 /red/。intrigued 是分词形容词，was intrigued 按系表结构分析。"
+  },
+  "components": [
+   {
+    "text": "William Dement,",
+    "role": "主语",
+    "zh": "威廉·德门特"
+   },
+   {
+    "text": "a sleep researcher",
+    "role": "同位语，说明 William Dement 的身份",
+    "zh": "睡眠研究者"
+   },
+   {
+    "text": "at Stanford,",
+    "role": "后置定语（介词短语），修饰 researcher",
+    "zh": "斯坦福大学的"
+   },
+   {
+    "text": "read",
+    "role": "谓语一",
+    "zh": "读到了"
+   },
+   {
+    "text": "press coverage",
+    "role": "宾语（press 是名词作前置定语）",
+    "zh": "媒体……的报道"
+   },
+   {
+    "text": "of the attempt",
+    "role": "后置定语（介词短语），修饰 coverage，说明报道的内容",
+    "zh": "对这次尝试"
+   },
+   {
+    "text": "and was",
+    "role": "并列连词 and + 系动词 was（谓语二的系动词部分）",
+    "zh": "并且"
+   },
+   {
+    "text": "intrigued.",
+    "role": "表语（分词形容词）",
+    "zh": "非常感兴趣"
+   }
+  ],
+  "structure": "①主语 William Dement 后接同位语 a sleep researcher at Stanford，说明他的身份；at Stanford 是介词短语作后置定语，修饰 researcher。\n②主语带两个由 and 连接的并列谓语：read press coverage of the attempt 是主谓宾结构；was intrigued 是系表结构，intrigued 作表语，意为“很感兴趣的，好奇的”。两个动作有先后和因果关系：先读到报道，进而产生浓厚兴趣。\n③press coverage of the attempt 中，press 是名词作前置定语，意为“新闻界，报刊”；coverage 意为“（新闻）报道”；of the attempt 作后置定语，说明报道的内容。the attempt 回指第1段加德纳不睡觉的尝试。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "-ed 形容词与 -ing 形容词",
+    "explain": "由动词 intrigue（激起好奇心）变来的分词形容词有两种形式：intrigued 描述人自身的感受，意为“很感兴趣的，好奇的”；intriguing 描述事物的特点，意为“引人入胜的，耐人寻味的”。同类的还有 interested/interesting、surprised/surprising、bored/boring、exhausted/exhausting。本句主语是人，说的是他本人产生了兴趣，所以用 intrigued。be intrigued 后常接 by sth 或不定式，如 be intrigued to learn that…。考研写作和翻译中常见的错误是用 -ing 形式描述人的感受。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many visitors were intrigued by the museum's collection of ancient maps.",
+      "zh": "许多参观者对博物馆收藏的古代地图很感兴趣。"
+     },
+     {
+      "en": "The findings are intriguing, but they need to be confirmed by larger studies.",
+      "zh": "这些发现很耐人寻味，但还需要更大规模的研究来证实。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "press 原义是“新闻界，报刊”，在 press coverage 中作前置定语修饰 coverage，说明报道的来源。类似的还有 media coverage、press release（新闻稿）、press conference（新闻发布会）。作定语的名词一般用单数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The scandal received wide media coverage across Europe.",
+      "zh": "这起丑闻在整个欧洲受到了媒体的广泛报道。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Stanford",
+    "explain": "指斯坦福大学（Stanford University），位于美国加利福尼亚州，英语中常用 Stanford 一词简称该校，视频译为“斯坦福大学”。"
+   },
+   {
+    "term": "William Dement",
+    "explain": "威廉·德门特，美国睡眠研究的先驱之一，长期在斯坦福大学任教，视频译为“威廉·德门特”。"
+   },
+   {
+    "term": "press coverage of sth",
+    "explain": "媒体对某事的报道；coverage 是不可数名词，指报道的总体，不说 a coverage。常用 receive/attract press coverage（受到媒体报道）。"
+   }
+  ],
+  "translation_tip": "视频译文“威廉·德门特，斯坦福大学的睡眠研究者，读到了媒体对这次尝试的报道，并且非常感兴趣。”的处理：①同位语 a sleep researcher at Stanford 保留在原位，后置定语 at Stanford 前移译为“斯坦福大学的”，修饰“睡眠研究者”。②press coverage of the attempt 中，后置定语 of the attempt 前移，译成“媒体对这次尝试的报道”，增补介词“对”引出报道的对象，press 译为“媒体”。③read 译为“读到了”，“到”表示看到了。④was intrigued 译为“非常感兴趣”，增补程度副词“非常”，体现 intrigued 中被激起强烈好奇心的意味；and 译为“并且”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "He",
+   "predicate": "drove and assisted",
+   "object_or_complement": "John J. Ross（assisted 的宾语）",
+   "explain": "一个主语带两个并列谓语：He drove to San Diego（主谓，drive 在此为不及物动词，to San Diego 作方向状语）和 assisted John J. Ross… in monitoring…（主谓宾，构成 assist sb in doing 结构）。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指上句的 William Dement）",
+    "zh": "他"
+   },
+   {
+    "text": "drove",
+    "role": "谓语一（drive 作不及物动词）",
+    "zh": "驾车"
+   },
+   {
+    "text": "to San Diego",
+    "role": "方向状语（介词短语）",
+    "zh": "前往圣迭戈"
+   },
+   {
+    "text": "and assisted",
+    "role": "并列连词 and + 谓语二",
+    "zh": "协助"
+   },
+   {
+    "text": "John J. Ross,",
+    "role": "宾语（assisted 的宾语）",
+    "zh": "约翰·J·罗斯"
+   },
+   {
+    "text": "a Navy researcher,",
+    "role": "同位语，说明 Ross 的身份",
+    "zh": "一位海军研究员"
+   },
+   {
+    "text": "in monitoring the sleepless boy",
+    "role": "介词短语，与 assisted 构成 assist sb in doing，说明协助的内容（动名词短语作介词 in 的宾语）",
+    "zh": "去……监视这个不眠的少年"
+   },
+   {
+    "text": "closely.",
+    "role": "方式状语（副词），修饰 monitoring",
+    "zh": "密切"
+   }
+  ],
+  "structure": "①主语 He 指上句的 William Dement，带两个并列谓语：drove to San Diego 和 assisted John J. Ross… in monitoring…，按时间顺序先驾车前往圣迭戈，再协助罗斯。\n②assist sb in doing 意为“协助某人做……”（视频说明）。宾语 John J. Ross 后接同位语 a Navy researcher，说明他的身份（视频说明）；同位语把 assisted 和 in 隔开，读的时候要把 in monitoring 与前面的 assisted 联系起来。\n③in monitoring the sleepless boy closely 中，monitoring 是动名词，作介词 in 的宾语；the sleepless boy 是 monitoring 的宾语，指加德纳；closely 是方式状语，修饰 monitoring。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "assist sb in doing sth",
+    "explain": "assist 作及物动词时常用 assist sb in doing sth 或 assist sb with sth，意为“协助某人做某事”；也可以省去人，说 assist in/with sth；assist sb to do sth 也成立，但较少见。介词 in 后要接动名词，不能接动词原形。本句宾语后插入了同位语，in 离 assisted 较远，阅读时要把两者连起来。assist 比 help 正式，多用于工作和专业场合。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Volunteers assisted the nurses in caring for the elderly patients.",
+      "zh": "志愿者协助护士照料年长的病人。"
+     },
+     {
+      "en": "The software assists teachers with marking and record-keeping.",
+      "zh": "这款软件协助教师批改作业和记录成绩。"
+     }
+    ]
+   },
+   {
+    "title": "动名词作介词宾语",
+    "explain": "介词后接动词时要用动名词（-ing 形式），动名词可以带自己的宾语和状语。本句 in monitoring the sleepless boy closely 中，monitoring 作 in 的宾语，the sleepless boy 是 monitoring 的宾语，closely 是修饰 monitoring 的状语。考研易错点：to 作介词时同样要接动名词，如 look forward to hearing、be committed to improving，不能接动词原形。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The committee is committed to improving access to clean water in rural areas.",
+      "zh": "委员会致力于改善农村地区的清洁用水供应。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "drive to + 地点",
+    "explain": "drive 作不及物动词表示“开车（去某地）”，drove to San Diego 即“驾车前往圣迭戈”。斯坦福大学在加州北部，圣迭戈在加州南部，两地相距数百英里。"
+   },
+   {
+    "term": "a Navy researcher",
+    "explain": "Navy 首字母大写，指（美国）海军这一机构；a Navy researcher 即海军的研究人员，视频译为“一位海军研究员”。"
+   },
+   {
+    "term": "sleepless",
+    "explain": "形容词，不眠的，由 sleep + 表示“没有”的后缀 -less 构成；a sleepless night 指不眠之夜。the sleepless boy 指加德纳，用 sleepless 概括他此时的状态，视频译为“不眠的”。"
+   },
+   {
+    "term": "monitor",
+    "explain": "动词，监视，监测，指在一段时间内持续观察、检查某事物的变化，如 monitor patients' heart rates（监测病人的心率）。视频译为“监视”。"
+   }
+  ],
+  "translation_tip": "视频译文“他驾车前往圣迭戈，协助约翰·J·罗斯，一位海军研究员，去密切监视这个不眠的少年。”的处理：①drove to San Diego 译为“驾车前往圣迭戈”，“驾车”交代 drive 所含的方式。②同位语 a Navy researcher 保留在原位，用逗号隔开译成“一位海军研究员”，与英文结构对应。③assist sb in doing 拆成“协助……，去……”，用“去”引出协助的内容；and 不单独译出。④方式状语 closely 前移到动词前，译为“密切监视”；the sleepless boy 译为“这个不眠的少年”，定语 sleepless 放在名词前。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The two investigators",
+   "predicate": "noted",
+   "object_or_complement": "the fluctuations in his state",
+   "explain": "主干是 The two investigators noted the fluctuations，主谓宾结构，后接 as 引导的时间状语从句。主句谓语 noted 和从句谓语 deepened 都是一般过去时，主动语态，两个过程同时进行。"
+  },
+  "components": [
+   {
+    "text": "The two investigators",
+    "role": "主语（指德门特和罗斯）",
+    "zh": "两位研究人员"
+   },
+   {
+    "text": "attentively",
+    "role": "方式状语（副词），修饰 noted",
+    "zh": "专心地"
+   },
+   {
+    "text": "noted",
+    "role": "谓语",
+    "zh": "记下了"
+   },
+   {
+    "text": "the fluctuations",
+    "role": "宾语",
+    "zh": "种种波动"
+   },
+   {
+    "text": "in his state",
+    "role": "后置定语（介词短语），修饰 fluctuations",
+    "zh": "他状态的"
+   },
+   {
+    "text": "as",
+    "role": "从属连词，引导时间状语从句（在……的过程中）",
+    "zh": "其间"
+   },
+   {
+    "text": "the deprivation",
+    "role": "从句主语（承上文省去 sleep，指睡眠剥夺）",
+    "zh": "睡眠剥夺"
+   },
+   {
+    "text": "progressively",
+    "role": "从句的方式状语，修饰 deepened",
+    "zh": "逐步"
+   },
+   {
+    "text": "deepened.",
+    "role": "从句谓语（不及物动词）",
+    "zh": "加深"
+   }
+  ],
+  "structure": "①主句是 The two investigators attentively noted the fluctuations in his state，主谓宾结构。The two investigators 指上句的德门特和罗斯；attentively 是方式状语，放在主语和谓语之间；in his state 是介词短语作后置定语，修饰 fluctuations，说明是他状态的波动。\n②as the deprivation progressively deepened 是 as 引导的时间状语从句，意为“在……的过程中”（视频说明），表示主句动作与从句动作同时发生、同步推进。从句主语 the deprivation 指睡眠剥夺（sleep deprivation）；上文已说明是不睡觉的实验，所以省去 sleep。谓语 deepened 是不及物动词，progressively 修饰它，表示“逐步”。\n③fluctuations 用复数，表示多次、多方面的起伏变化，视频用“种种波动”译出复数的含义。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "as 引导时间状语从句",
+    "explain": "as 引导时间状语从句时，表示主句和从句的动作同时发生，意为“当……时，在……的过程中”；从句谓语是 deepen、grow、increase、rise 等表示变化的动词时，as 常译为“随着”，表示两个变化同步推进。本句 as the deprivation progressively deepened 说明记录工作贯穿睡眠剥夺逐步加深的整个过程。as 还可引导原因、方式、让步、比较状语从句，阅读时要根据从句内容判断：从句描述持续变化的过程，多表示时间；从句陈述已知事实，常表示原因。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the economy slowed, many firms postponed their hiring plans.",
+      "zh": "随着经济放缓，许多公司推迟了招聘计划。"
+     },
+     {
+      "en": "As temperatures rise, the glacier is retreating faster each year.",
+      "zh": "随着气温升高，这座冰川每年都在加速消退。"
+     }
+    ]
+   },
+   {
+    "title": "名词复数表示多次或多种",
+    "explain": "表示变化、状态的名词用复数时，常表示多次、多种的具体表现，如 fluctuations（多次波动）、changes（种种变化）、difficulties（种种困难）。本句 the fluctuations in his state 用复数，表示他的状态多次起伏，译文用“种种波动”体现。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Farmers have struggled to cope with sharp fluctuations in grain prices.",
+      "zh": "农民们一直难以应对粮价的剧烈波动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sleep deprivation",
+    "explain": "睡眠剥夺，日常也常说“睡眠不足”，指睡眠时间不足、睡眠被反复打断或完全缺乏睡眠，进而影响身心功能的状态（视频说明）。本句 the deprivation 承上文省去 sleep，视频译为“睡眠剥夺”。deprivation 来自动词 deprive，deprive sb of sth 意为“剥夺某人的某物”。"
+   },
+   {
+    "term": "investigator",
+    "explain": "调查者，研究者；在科研语境中指参与研究的人员，临床研究中 principal investigator 指项目负责人。本句用 investigators 指德门特和罗斯，视频译为“研究人员”。"
+   },
+   {
+    "term": "note",
+    "explain": "熟词僻义：note 作动词意为“记下，记录”，也可表示“注意到，指出”。本句与 attentively 连用，视频译为“记下了”。"
+   }
+  ],
+  "translation_tip": "视频译文“两位研究人员专心地记下了他状态的种种波动，其间睡眠剥夺逐步加深。”的处理：①方式状语 attentively 保留在动词前，译为“专心地记下了”。②后置定语 in his state 前移，译成“他状态的”；复数 fluctuations 译成“种种波动”。③as 引导的时间状语从句没有提到句首，而是保留在句尾，用“其间”承接，表示记录和睡眠剥夺加深同时进行；从句中的 the deprivation 补足为“睡眠剥夺”，progressively deepened 译为“逐步加深”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The consequences",
+   "predicate": "mounted",
+   "object_or_complement": "",
+   "explain": "主谓结构，mount 在此是不及物动词，意为“不断加剧”，不带宾语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The consequences",
+    "role": "主语",
+    "zh": "后果"
+   },
+   {
+    "text": "soon",
+    "role": "时间状语（副词）",
+    "zh": "很快便"
+   },
+   {
+    "text": "mounted.",
+    "role": "谓语（不及物动词）",
+    "zh": "开始不断加剧"
+   }
+  ],
+  "structure": "①本句是简单的主谓结构，soon 是时间状语，放在主语和谓语之间。\n②The consequences 指加德纳长时间不睡觉带来的后果，用复数表示后果不止一种，下文第8至10句逐一列出：情绪、注意力、记忆、多疑、偏执、幻觉和妄想。\n③mount 在此是不及物动词，表示数量逐渐增加、程度不断加剧、不断累积（视频说明），常用 tension、costs、pressure 等抽象名词作主语。\n④本句是第3段的主题句，用一个短句概括，下文再展开具体症状。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "同一动词的及物与不及物用法",
+    "explain": "mount 作及物动词时意为“登上，骑上”或“组织，发起”，如 mount a horse、mount a campaign；作不及物动词时意为“逐渐增加，加剧”，主语多为 tension、pressure、costs、concern、evidence 等，如 Pressure is mounting on the government。同一个动词的及物和不及物用法意义可能相差很大，考研阅读中遇到熟词要先看它后面有没有宾语，再判断词义。本句 mounted 后没有宾语，取“不断加剧”之义。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Concern is mounting over the safety of the new vaccine.",
+      "zh": "人们对这种新疫苗安全性的担忧日益加剧。"
+     },
+     {
+      "en": "The opposition mounted a fierce campaign against the tax increase.",
+      "zh": "反对派发起了一场反对增税的激烈运动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "consequence",
+    "explain": "名词，后果，结果，多指不好的结果，常用复数，如 face the consequences（承担后果）、serious consequences（严重后果）；as a consequence 意为“因此”。视频译为“后果”。"
+   },
+   {
+    "term": "mounting",
+    "explain": "形容词，日益增加的，常作前置定语，如 mounting pressure（日益增大的压力）、mounting evidence（越来越多的证据），是考研阅读中描述问题日益严重的常见表达。"
+   }
+  ],
+  "translation_tip": "视频译文“后果很快便开始不断加剧。”的处理：①soon 译为“很快便”。②mounted 按视频说明译为“不断加剧”，前面增补“开始”，点出后果从此时起逐渐显现、加重，与下文的一系列症状衔接。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Gardner",
+   "predicate": "grew, lost, and found",
+   "object_or_complement": "moody（grew 的表语）；concentration（lost 的宾语）；his short-term memory（found 的宾语），impaired（宾语补足语）",
+   "explain": "一个主语带三个并列谓语：grew moody（主系表，grow 作系动词），lost concentration（主谓宾），found his short-term memory impaired（主谓宾宾补）。三个谓语都是一般过去时，按 A, B, and C 的格式并列，and 前是牛津逗号。"
+  },
+  "components": [
+   {
+    "text": "Gardner",
+    "role": "主语",
+    "zh": "加德纳"
+   },
+   {
+    "text": "grew",
+    "role": "谓语一（系动词，意为“变得”）",
+    "zh": "变得"
+   },
+   {
+    "text": "moody,",
+    "role": "表语",
+    "zh": "喜怒无常"
+   },
+   {
+    "text": "lost",
+    "role": "谓语二",
+    "zh": "难以集中"
+   },
+   {
+    "text": "concentration,",
+    "role": "宾语（lost 的宾语）",
+    "zh": "注意力"
+   },
+   {
+    "text": "and found",
+    "role": "并列连词 and + 谓语三",
+    "zh": "（and found 不单独译出，and 表示的又一项变化由后文的“也”体现）"
+   },
+   {
+    "text": "his short-term memory",
+    "role": "宾语（found 的宾语）",
+    "zh": "他的短时记忆"
+   },
+   {
+    "text": "impaired.",
+    "role": "宾语补足语（过去分词形容词）",
+    "zh": "受损了"
+   }
+  ],
+  "structure": "①主语 Gardner 带三个并列谓语，按 A, B, and C 的格式排列，依次描述情绪、注意力、记忆三方面的变化。\n②grew moody 中 grow 是系动词，意为“变得”，moody 作表语（视频说明：grow + 形容词，变得……）。\n③lost concentration 是主谓宾结构，concentration 作宾语，lose concentration 意为“无法集中注意力”。\n④found his short-term memory impaired 是“find + 宾语 + 过去分词”结构，意为“发现……处于某种状态”（视频说明）：his short-term memory 是宾语，过去分词 impaired 作宾语补足语，说明记忆所处的状态，它与 memory 是被动关系，即记忆受到损害。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "系动词 grow 表示“变得”",
+    "explain": "grow、become、get、go、turn、fall 等都可以作系动词，表示“变得”，后接形容词作表语。grow 多用于逐渐发生的变化，较书面，如 grow old、grow impatient、grow dark；get 更口语化；go 多用于变坏，如 go bad；turn 多用于颜色或性质的明显变化，如 turn red。本句 grew moody 表示加德纳的情绪逐渐变得喜怒无常。系动词后接形容词，不接副词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the meeting dragged on, the audience grew restless.",
+      "zh": "会议拖得越来越久，听众渐渐坐不住了。"
+     },
+     {
+      "en": "Without regular maintenance, the old bridge grew increasingly unsafe.",
+      "zh": "由于缺乏定期维护，这座老桥变得越来越不安全。"
+     }
+    ]
+   },
+   {
+    "title": "find + 宾语 + 过去分词",
+    "explain": "find、keep、leave、have、get 等动词后可接“宾语 + 宾语补足语”，宾补可以是形容词、现在分词或过去分词。过去分词表示宾语处于被动或完成的状态，现在分词表示宾语主动进行的动作，如 find the door locked（发现门锁着）与 find him waiting（发现他在等）。本句 found his short-term memory impaired 中，记忆是被损害的一方，所以用过去分词。这里的 found 表示“发现（自己）处于某种状况”，不是有意去寻找。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When she returned from holiday, she found her flat broken into.",
+      "zh": "她度假回来，发现公寓被人撬了。"
+     },
+     {
+      "en": "The inspectors found the safety equipment poorly maintained.",
+      "zh": "检查人员发现安全设备维护不善。"
+     }
+    ]
+   },
+   {
+    "title": "三个并列谓语与牛津逗号",
+    "explain": "同一个主语连续发出几个动作或出现几种变化时，可以把几个谓语并列；三项及以上写成 A, B, and C，and 前的逗号叫牛津逗号。本句 grew、lost、found 共用主语 Gardner，第一个谓语是系动词，后两个是实义动词，并列时不要求结构完全相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The storm uprooted trees, flooded basements, and cut power to thousands of homes.",
+      "zh": "暴风雨连根拔起树木，淹没了地下室，还造成数千户家庭停电。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "short-term memory",
+    "explain": "短时记忆，心理学术语，指对信息的短暂保持，与 long-term memory（长时记忆）相对。视频译为“短时记忆”。"
+   },
+   {
+    "term": "impaired",
+    "explain": "视频说明：impaired 几乎是一个医疗和科研专属词汇，经常用来描述人的感官、认知或身体机能出现障碍，如 hearing impaired（听力受损，听障）、visually impaired（视力受损，视障）、cognitively impaired（认知受损，认知障碍）；这类说法不能换成 damaged 或 injured。"
+   },
+   {
+    "term": "lose concentration",
+    "explain": "注意力不集中，无法专注；相反的说法是 keep/maintain concentration。熟词僻义：concentration 在科技文中还指“浓度”，如 the concentration of carbon dioxide（二氧化碳浓度）。"
+   },
+   {
+    "term": "moody",
+    "explain": "喜怒无常的，情绪多变的；也可指“郁郁寡欢的”。视频译为“喜怒无常”。"
+   }
+  ],
+  "translation_tip": "视频译文“加德纳变得喜怒无常，注意力难以集中，他的短时记忆也受损了。”的处理：①grew moody 译为“变得喜怒无常”。②lost concentration 不直译为“失去注意力”，而是把宾语 concentration 转成主语，译为“注意力难以集中”，更符合汉语表达。③found his short-term memory impaired 中的 found 不译出，宾语 his short-term memory 转成主语，宾语补足语 impaired 转成谓语，译为“他的短时记忆也受损了”；增补“也”，体现 and 引出的又一项变化。三个短句并列，与英文的三个并列谓语对应。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "He",
+   "predicate": "became and began",
+   "object_or_complement": "suspicious、paranoid（became 的表语）；to hallucinate（began 的宾语）",
+   "explain": "一个主语带两个并列谓语：became suspicious, at times paranoid（主系表，两个形容词作表语）和 began to hallucinate（主谓宾，不定式作宾语）。谓语都是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "became",
+    "role": "谓语一（系动词）",
+    "zh": "变得"
+   },
+   {
+    "text": "suspicious,",
+    "role": "表语一",
+    "zh": "多疑"
+   },
+   {
+    "text": "at times",
+    "role": "频度状语（介词短语），修饰 paranoid",
+    "zh": "有时"
+   },
+   {
+    "text": "paranoid,",
+    "role": "表语二（前面承前省略 became）",
+    "zh": "偏执/妄想性的"
+   },
+   {
+    "text": "and began",
+    "role": "并列连词 and + 谓语二",
+    "zh": "还开始"
+   },
+   {
+    "text": "to hallucinate.",
+    "role": "宾语（不定式）",
+    "zh": "出现幻觉"
+   }
+  ],
+  "structure": "①主语 He 带两个由 and 连接的并列谓语：became… 和 began…。\n②became 是系动词，后接两个表语 suspicious 和 paranoid。at times paranoid 前承前省略了 became，完整形式是 became suspicious, (became) at times paranoid；at times 意为“有时”，作状语修饰 paranoid，说明偏执是间歇出现的。从 suspicious 到 paranoid 程度递进，视频用“甚至”译出这种递进。\n③began to hallucinate 中，不定式 to hallucinate 作 began 的宾语；hallucinate 是不及物动词，意为“出现幻觉”。\n④本句与上句一样采用并列结构，症状从情绪、注意力、记忆加重到多疑、偏执和幻觉，具体体现了上文 The consequences soon mounted 中的“不断加剧”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "并列结构中的承前省略",
+    "explain": "并列结构中，与前文相同的成分常承前省略，使句子紧凑。本句 at times paranoid 前省略了 became，两个表语共用一个系动词。读到逗号后直接出现形容词或名词时，要回到前文找它共用的动词。考研长难句中，省略常出现在并列结构和比较结构中，翻译时往往要把省略的部分补出来或作相应处理。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The speech was long, at times repetitive, but never dull.",
+      "zh": "这篇演讲很长，有时还有些重复，但从不乏味。"
+     },
+     {
+      "en": "Some students chose history; others, economics.",
+      "zh": "一些学生选了历史，另一些学生选了经济学。"
+     }
+    ]
+   },
+   {
+    "title": "at times 表示“有时”",
+    "explain": "at times、from time to time、now and then、occasionally 都表示“有时，偶尔”；at times 较书面，可放在句首、句中或句尾，也可以像本句一样直接修饰形容词，说明某种状态间歇出现。注意区分 at times（有时）与 at a time（一次，每次）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The negotiations were tense and at times hostile.",
+      "zh": "谈判气氛紧张，有时甚至充满敌意。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "suspicious",
+    "explain": "用于人时意为“多疑的，疑心重的”，be suspicious of sb/sth 意为“怀疑某人或某事”；用于事物时意为“可疑的”，如 suspicious behaviour。本句描述人的心理状态，视频译为“多疑”。"
+   },
+   {
+    "term": "paranoid",
+    "explain": "偏执的，妄想性的；在精神医学中与 paranoia（偏执症，妄想症）相关，日常口语中也泛指“疑神疑鬼的”。视频译为“偏执/妄想性的”。"
+   },
+   {
+    "term": "hallucinate",
+    "explain": "不及物动词，出现幻觉，指看到、听到实际不存在的东西；名词 hallucination（幻觉）。近年来也用于人工智能，指模型编造不存在的信息。"
+   }
+  ],
+  "translation_tip": "视频译文“他变得多疑，有时甚至偏执/妄想性的，还开始出现幻觉。”的处理：①became suspicious 译为“变得多疑”。②承前省略 became 的 at times paranoid 不再补出“变得”，直接译为“有时甚至偏执/妄想性的”，增补“甚至”体现由多疑到偏执的递进；paranoid 并列给出“偏执”和“妄想性的”两种释义。③and began to hallucinate 译为“还开始出现幻觉”，用“还”译出 and，表示又多了一种症状。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "he",
+   "predicate": "was gripped",
+   "object_or_complement": "",
+   "explain": "主谓结构，谓语 was gripped 是一般过去时的被动语态，by the delusion 引出动作的执行者；delusion 后接 that 引导的同位语从句。"
+  },
+  "components": [
+   {
+    "text": "On the fourth day",
+    "role": "时间状语（介词短语）",
+    "zh": "第四天"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "was gripped",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "被……攫住了"
+   },
+   {
+    "text": "by the delusion",
+    "role": "介词短语，引出动作的执行者",
+    "zh": "一种妄想/错觉"
+   },
+   {
+    "text": "that he was a professional American football player.",
+    "role": "同位语从句（that 引导），说明 delusion 的内容",
+    "zh": "以为自己是一名美式橄榄球职业球员"
+   }
+  ],
+  "structure": "①主句是 he was gripped by the delusion，被动语态，be gripped by 意为“被……攫住”（视频说明），by 引出动作的执行者 the delusion。用被动语态，突出加德纳是被妄想控制、身不由己的一方。\n②that he was a professional American football player 是 that 引导的同位语从句，说明 delusion 的内容（视频说明）。that 在从句中不作任何成分，只起连接作用，不能省略。从句本身是主系表结构：he 是主语，was 是系动词，a professional American football player 作表语。\n③句首 On the fourth day 是时间状语，序数词前用定冠词 the，具体某一天前用介词 on。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语从句与定语从句的区别",
+    "explain": "that 引导的同位语从句跟在 fact、idea、belief、news、hope、evidence、delusion 等抽象名词后，说明该名词的具体内容；that 在从句中不作成分，不能省略，也不能换成 which。定语从句中的 that 则在从句中充当主语或宾语等成分，作宾语时可以省略。判断方法：去掉 that 后，剩下的部分如果是一个成分完整的句子，就是同位语从句；如果缺主语或宾语，就是定语从句。本句 he was a professional American football player 成分完整，所以是同位语从句。考研翻译中，同位语从句常译成“……，即……”，或用“以为”“认为”等词引出。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "There is growing evidence that regular exercise improves memory in older adults.",
+      "zh": "越来越多的证据表明，经常锻炼能改善老年人的记忆力。"
+     },
+     {
+      "en": "The news that the factory would close shocked the whole town.",
+      "zh": "工厂将要关闭的消息震惊了整个小镇。"
+     }
+    ]
+   },
+   {
+    "title": "be gripped by 的被动结构",
+    "explain": "grip 本义是“紧握，抓牢”，用于被动语态 be gripped by 时，表示被某种强烈的情绪、观念或局势控制，by 后常接 fear、panic、fever、delusion、drought 等，主语可以是人，也可以是地区，如 The country was gripped by a severe drought。被动结构强调主语处于被支配的地位。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town was gripped by panic after news of the explosion spread.",
+      "zh": "爆炸的消息传开后，小镇陷入一片恐慌。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "delusion",
+    "explain": "名词，妄想，错觉，指坚信不疑的错误想法，在精神医学中称“妄想”。常用 be under the delusion that…（错误地以为……）、delusions of grandeur（夸大妄想）。视频译为“妄想/错觉”。"
+   },
+   {
+    "term": "American football",
+    "explain": "美式橄榄球。在英国等地，football 一般指足球，所以要加 American 区分；在美国，football 指美式橄榄球，足球则称 soccer。视频译为“美式橄榄球”。"
+   },
+   {
+    "term": "professional",
+    "explain": "形容词，职业的，专业的，此处指以运动为职业的，与 amateur（业余的）相对。视频译为“职业”。"
+   }
+  ],
+  "translation_tip": "视频译文“第四天，他被一种妄想/错觉攫住了，以为自己是一名美式橄榄球职业球员。”的处理：①被动语态 was gripped by 保留为汉语的“被”字句，译为“被……攫住了”，突出他身不由己。②the delusion 译为“一种妄想/错觉”：英文用 the 是因为后面有同位语从句限定内容，汉语用“一种”更自然。③同位语从句没有前置作定语，而是拆成后面的独立短句，增补“以为”引出妄想的内容，从句主语 he 译为“自己”。④professional American football player 按汉语习惯调整语序，译为“美式橄榄球职业球员”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Gardner",
+   "predicate": "ended",
+   "object_or_complement": "the wearying attempt",
+   "explain": "主干是 Gardner ended the wearying attempt，主谓宾结构，谓语为一般过去时，主动语态。句子后半部分是两个补充时间信息的成分。"
+  },
+  "components": [
+   {
+    "text": "Gardner",
+    "role": "主语",
+    "zh": "加德纳"
+   },
+   {
+    "text": "ended",
+    "role": "谓语",
+    "zh": "结束了"
+   },
+   {
+    "text": "the wearying attempt",
+    "role": "宾语（wearying 作前置定语）",
+    "zh": "这场令人疲惫的尝试"
+   },
+   {
+    "text": "on 8 January 1964,",
+    "role": "时间状语（介词短语，说明结束的日期）",
+    "zh": "于1964年1月8日"
+   },
+   {
+    "text": "after 264.4 hours,",
+    "role": "时间状语（介词短语，after + 时间段，表示经过这段时间之后）",
+    "zh": "共历时264.4小时"
+   },
+   {
+    "text": "about 11 days and 25 minutes.",
+    "role": "同位语（名词短语），换算说明 264.4 hours；about 意为“大约”",
+    "zh": "约合11天零25分钟"
+   }
+  ],
+  "structure": "①主句 Gardner ended the wearying attempt 是主谓宾结构；wearying 是由现在分词转化来的形容词，作前置定语，修饰 attempt，表示这场尝试“令人疲惫”。\n②on 8 January 1964 是时间状语，说明结束的日期。\n③after 264.4 hours 是介词短语作时间状语，after 后接一段时间，表示“经过……之后”，说明尝试持续了多久。\n④about 11 days and 25 minutes 是名词短语作同位语，把 264.4 hours 换算成天和分钟；about 修饰整个数量，意为“大约”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "after + 时间段 与 in + 时间段",
+    "explain": "after + 一段时间表示“经过……之后”，多用于叙述过去的事，如本句 after 264.4 hours；in + 一段时间常与将来时连用，表示“（从现在起）……之后”，如 I'll be back in two hours。叙述过去的事时也常用“时间段 + later”，如 two days later。考研完形中，in + 时间段与将来时的搭配是常考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After three days of talks, the two sides finally reached an agreement.",
+      "zh": "经过三天的谈判，双方终于达成了协议。"
+     },
+     {
+      "en": "The results will be announced in two weeks.",
+      "zh": "结果将在两周后公布。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语补充说明数量",
+    "explain": "数字后面可以用名词短语作同位语，给出换算或解释，常用 about、roughly、or 等引出，如 264.4 hours, about 11 days。新闻和科普文章常用这种写法，让读者对数据有直观的印象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The tunnel stretches 5,000 metres, or about three miles.",
+      "zh": "这条隧道长5000米，约合三英里。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "wearying",
+    "explain": "形容词，令人疲惫的，由动词 weary（使疲倦）的现在分词转化而来，描述事物给人带来的感受，如 a long, wearying journey。视频译为“令人疲惫的”。"
+   },
+   {
+    "term": "8 January 1964",
+    "explain": "日期按英式“日 月 年”书写，前用介词 on。从1963年12月28日到1964年1月8日共11天，与后文的 about 11 days 一致。"
+   },
+   {
+    "term": "264.4 hours",
+    "explain": "小数点读作 point，264.4 读作 two hundred and sixty-four point four（美式常省去 and）。hours 用复数。"
+   }
+  ],
+  "translation_tip": "视频译文“加德纳于1964年1月8日结束了这场令人疲惫的尝试，共历时264.4小时，约合11天零25分钟。”的处理：①时间状语 on 8 January 1964 前移到谓语前，译为“于1964年1月8日”，日期按汉语“年 月 日”的顺序排列。②after 264.4 hours 不直译为“在264.4小时之后”，而是按汉语习惯译为“共历时264.4小时”，强调持续的总时长。③同位语 about 11 days and 25 minutes 译为“约合11天零25分钟”，“约合”表示换算，“零”连接天数和分钟数。④定语 wearying 译为“令人疲惫的”，the 译成“这场”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "He",
+   "predicate": "slept and woke",
+   "object_or_complement": "refreshed（woke 后的主语补足语）",
+   "explain": "一个主语带两个并列谓语：slept soundly for about 14 hours（主谓，sleep 为不及物动词）和 woke apparently refreshed（主谓 + 主语补足语）。谓语都是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "then",
+    "role": "时间状语（副词，意为“随后”）",
+    "zh": "随后"
+   },
+   {
+    "text": "slept",
+    "role": "谓语一（不及物动词）",
+    "zh": "睡了"
+   },
+   {
+    "text": "soundly",
+    "role": "方式状语（副词），修饰 slept",
+    "zh": "酣畅地/深度地"
+   },
+   {
+    "text": "for about 14 hours",
+    "role": "时间状语（介词短语，说明持续时间）",
+    "zh": "约14小时"
+   },
+   {
+    "text": "and woke",
+    "role": "并列连词 and + 谓语二",
+    "zh": "醒来时"
+   },
+   {
+    "text": "apparently",
+    "role": "评注性状语（副词），修饰 refreshed，表示“看起来，似乎”",
+    "zh": "似乎"
+   },
+   {
+    "text": "refreshed.",
+    "role": "主语补足语（过去分词形容词），说明他醒来时的状态",
+    "zh": "神清气爽/恢复精神的"
+   }
+  ],
+  "structure": "①主语 He 带两个由 and 连接的并列谓语：slept soundly for about 14 hours 和 woke apparently refreshed。then 是时间副词，意为“随后”，承接上句结束尝试的时间。\n②slept soundly 中，soundly 修饰 slept，专门用来表示睡眠非常酣畅、深沉（视频说明）；for about 14 hours 是时间状语，说明睡了多久。\n③woke apparently refreshed 中，woke 是不及物动词 wake 的过去式；refreshed 是由过去分词转化来的形容词，作主语补足语，说明他醒来时的状态；apparently 修饰 refreshed，意为“看起来，似乎”，表示这只是从外表看到的情况。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "形容词或分词作主语补足语",
+    "explain": "某些不及物动词后可以直接接形容词或分词，说明主语在动作发生时或动作结束后的状态，这种成分叫主语补足语，如 He died young、She returned home exhausted、They sat silent。本句 woke apparently refreshed 中，refreshed 说明 he 醒来时的状态。这类句子中的形容词描述的是主语，而不是修饰动词，所以不能换成副词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The climbers returned to the camp exhausted but triumphant.",
+      "zh": "登山者们回到营地时精疲力竭，却满怀成功的喜悦。"
+     },
+     {
+      "en": "Most of the passengers walked away from the crash unharmed.",
+      "zh": "大多数乘客从事故中脱身，毫发无伤。"
+     }
+    ]
+   },
+   {
+    "title": "apparently 的两种用法",
+    "explain": "apparently 常见两种用法：一是表示“看起来，似乎”，说明是从外表判断，未必属实，如本句 apparently refreshed；二是表示“据说，听说”，说明信息是转述来的，如 Apparently, the meeting has been cancelled。现代英语中 apparently 一般不表示“显然”，“显然”要用 obviously、clearly。考研阅读中，apparently 提示作者对所述内容有所保留；本句的“似乎”与第17句的 had seemed to bounce back 相呼应。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The two leaders apparently agreed on the need for further talks.",
+      "zh": "两位领导人似乎在有必要进一步会谈这一点上达成了一致。"
+     },
+     {
+      "en": "Apparently, the museum will close for renovation next spring.",
+      "zh": "据说博物馆明年春天将闭馆翻修。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sleep soundly",
+    "explain": "睡得很沉，睡得香；视频说明：soundly 是专门用来表示睡眠非常酣畅、深度的。也可以说 be sound asleep（酣睡）。soundly 另有“彻底地”之义，如 be soundly beaten（被彻底击败）。"
+   },
+   {
+    "term": "refreshed",
+    "explain": "形容词，神清气爽的，恢复精神的，常与 feel、wake、look 连用，如 feel refreshed after a nap。视频译为“神清气爽/恢复精神的”。"
+   },
+   {
+    "term": "wake (woke, woken)",
+    "explain": "不规则动词，过去式 woke，过去分词 woken；wake 和 wake up 都可以作不及物动词，表示“醒来”。"
+   }
+  ],
+  "translation_tip": "视频译文“随后他酣畅地/深度地睡了约14小时，醒来时似乎神清气爽/恢复精神的。”的处理：①then 提到主语前，译为“随后”，承接上句。②soundly 前移到动词前作状语，并列给出“酣畅地”“深度地”两种译法；时间状语 for about 14 hours 放在动词后，译为“睡了约14小时”，符合汉语“动词 + 时量”的表达。③woke 译为“醒来时”，主语补足语 refreshed 转为后面的描述部分，apparently 译为“似乎”，保留原文的不确定语气。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Researchers",
+   "predicate": "probed",
+   "object_or_complement": "the case",
+   "explain": "主干是 Researchers probed the case，主谓宾结构，谓语为一般过去时，主动语态。句子后半部分是 which 引导的非限制性定语从句，从句中又带同位语和现在分词短语。"
+  },
+  "components": [
+   {
+    "text": "Researchers",
+    "role": "主语",
+    "zh": "研究者们"
+   },
+   {
+    "text": "probed",
+    "role": "谓语",
+    "zh": "探究了/深入研究"
+   },
+   {
+    "text": "the case",
+    "role": "宾语（指加德纳的案例）",
+    "zh": "这一案例"
+   },
+   {
+    "text": "in a 1965 scholarly paper,",
+    "role": "地点状语（介词短语，说明在哪里进行探究）",
+    "zh": "在1965年的一篇学术论文中"
+   },
+   {
+    "text": "which",
+    "role": "关系代词，引导非限制性定语从句，指 a 1965 scholarly paper，在从句中作主语",
+    "zh": "该论文"
+   },
+   {
+    "text": "helped",
+    "role": "从句谓语",
+    "zh": "有助于"
+   },
+   {
+    "text": "highlight",
+    "role": "宾语（省略 to 的不定式），作 helped 的宾语",
+    "zh": "凸显"
+   },
+   {
+    "text": "microsleeps,",
+    "role": "highlight 的宾语",
+    "zh": "微睡眠"
+   },
+   {
+    "text": "involuntary",
+    "role": "前置定语，修饰 lapses",
+    "zh": "指不由自主地"
+   },
+   {
+    "text": "lapses into",
+    "role": "同位语的中心词 lapses（解释 microsleeps）+ 介词 into",
+    "zh": "陷入"
+   },
+   {
+    "text": "sleep",
+    "role": "介词 into 的宾语",
+    "zh": "睡眠的状态"
+   },
+   {
+    "text": "lasting a few seconds.",
+    "role": "后置定语（现在分词短语），紧跟在 sleep 之后",
+    "zh": "持续几秒钟"
+   }
+  ],
+  "structure": "①主句 Researchers probed the case in a 1965 scholarly paper 是主谓宾结构，the case 指加德纳的案例；in a 1965 scholarly paper 是介词短语作状语，说明探究成果发表在哪里。年份 1965 和形容词 scholarly 都作前置定语，修饰 paper。\n②which helped highlight microsleeps 是 which 引导的非限制性定语从句，指这篇论文（视频说明）。which 在从句中作主语；谓语 helped 后接省略 to 的不定式 highlight，microsleeps 是 highlight 的宾语。\n③involuntary lapses into sleep lasting a few seconds 是名词短语作同位语，解释 microsleeps（视频说明）。中心词是 lapses，involuntary 作前置定语，into sleep 说明陷入的状态。lapse into 意为“不知不觉地陷入（某种状态）”，尤指无意识的、非自愿的，或者不太好的状态（视频说明）。\n④lasting a few seconds 是现在分词短语作后置定语（视频说明），紧跟在 sleep 之后，说明这种睡眠只持续几秒钟，也就是每次陷入睡眠的时长。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "which 引导非限制性定语从句",
+    "explain": "非限制性定语从句用逗号与主句隔开，对先行词作补充说明，关系代词指物用 which、指人用 who，不能用 that。which 还可以指代前面整个主句的内容，阅读时要根据从句谓语判断先行词。本句 which helped highlight microsleeps 中，能“有助于凸显微睡眠”的是论文，所以先行词是 a 1965 scholarly paper（视频说明）。翻译时常拆成独立分句，用“该”“这”等词回指先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee published its final report, which called for stricter rules on data collection.",
+      "zh": "委员会发布了最终报告，该报告呼吁对数据收集实行更严格的规定。"
+     },
+     {
+      "en": "The train was delayed by two hours, which meant we missed our connection.",
+      "zh": "火车晚点了两个小时，这意味着我们错过了换乘。"
+     }
+    ]
+   },
+   {
+    "title": "help 后接省略 to 的不定式",
+    "explain": "help 后接不定式时，to 可以省略：help (to) do sth、help sb (to) do sth，新闻语体和美式英语中省略 to 更常见。本句 helped highlight microsleeps 就省去了 to。考研阅读中，help 后面紧跟动词原形时，要知道它是省略 to 的不定式，不是另一个谓语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Regular reading can help improve a child's vocabulary.",
+      "zh": "经常阅读有助于扩大孩子的词汇量。"
+     }
+    ]
+   },
+   {
+    "title": "术语后接同位语给出定义",
+    "explain": "科技和科普文章引入专业术语时，常在术语后用逗号接一个名词短语作同位语，给出定义，相当于“即……，指……”。本句 microsleeps, involuntary lapses into sleep lasting a few seconds 就是这种写法。考研阅读中，术语后的同位语往往就是该词的定义，词义题和细节题常据此设题。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The study focused on circadian rhythms, the internal cycles that regulate sleep and waking.",
+      "zh": "这项研究关注昼夜节律，即调节睡眠和清醒的体内周期。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示主动或持续的状态，相当于一个定语从句。本句 sleep lasting a few seconds 相当于 sleep that lasts a few seconds。阅读时要分清 -ing 短语是作定语、状语还是动名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Passengers waiting for the delayed flight were offered free meals.",
+      "zh": "等候延误航班的乘客获得了免费餐食。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "microsleep",
+    "explain": "微睡眠，按本文的解释，指不由自主地陷入只持续几秒钟的短暂睡眠。micro- 是表示“微小”的前缀，如 microscope（显微镜）、microchip（微芯片）。本句用复数 microsleeps，表示一次次的发作。"
+   },
+   {
+    "term": "probe",
+    "explain": "动词，探究，深入调查，新闻中很常见，如 probe the causes of the accident；名词 probe 指“调查”或“探测器”，如 a space probe（太空探测器）。视频译为“探究了/深入研究”。"
+   },
+   {
+    "term": "scholarly",
+    "explain": "形容词，学术的，学者的，如 a scholarly journal（学术期刊）。scholarly 虽以 -ly 结尾，却是形容词，类似的还有 friendly、lovely、costly、timely。"
+   },
+   {
+    "term": "a 1965 scholarly paper",
+    "explain": "年份可以直接作前置定语，如 a 1965 paper、the 2008 financial crisis，相当于 a paper published in 1965。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①in a 1965 scholarly paper 前移到谓语前，译为“在1965年的一篇学术论文中”，年份和 scholarly 两个前置定语都放在“论文”前。②probed 并列给出“探究了”“深入研究”两种译法，the case 译为“这一案例”。③非限制性定语从句没有前置，而是拆成独立分句，用“该论文”回指先行词，与 which 指这篇论文对应（视频说明）；helped 译为“有助于”。④同位语 involuntary lapses into sleep lasting a few seconds 放在“微睡眠”之后，用“指”引出定义；后置定语 lasting a few seconds 前移，译为“持续几秒钟”，并增补“短暂”“的状态”，使定义完整。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Gardner",
+   "predicate": "may have had",
+   "object_or_complement": "such momentary bouts",
+   "explain": "主谓宾结构。谓语 may have had 是“情态动词 may + have done”，表示对过去情况的推测（视频说明），意为“可能已经……”，语气并不确定。"
+  },
+  "components": [
+   {
+    "text": "Gardner",
+    "role": "主语",
+    "zh": "加德纳"
+   },
+   {
+    "text": "may have had",
+    "role": "谓语（may have done，对过去情况的推测）",
+    "zh": "可能经历过"
+   },
+   {
+    "text": "such",
+    "role": "限定词，修饰 bouts，回指上句的 microsleeps",
+    "zh": "这种"
+   },
+   {
+    "text": "momentary",
+    "role": "前置定语，修饰 bouts",
+    "zh": "短暂的"
+   },
+   {
+    "text": "bouts",
+    "role": "宾语",
+    "zh": "发作"
+   },
+   {
+    "text": "without noticing.",
+    "role": "伴随状语（介词 without + 动名词）",
+    "zh": "而未曾察觉"
+   }
+  ],
+  "structure": "①主句是 Gardner may have had such momentary bouts，主谓宾结构。may have had 表示对过去情况的推测（视频说明）：作者并不能确定加德纳当时是否出现过微睡眠，只是认为有这种可能。\n②such momentary bouts 中，such 回指上句所说的微睡眠，momentary 修饰 bouts，强调发作极为短暂；bout 意为“一阵、一次发作”（视频说明），通常指疾病、情绪或活动的阵发性发作。\n③without noticing 是“介词 without + 动名词”构成的介词短语，作伴随状语，意为“没有察觉”；noticing 的逻辑主语是 Gardner，宾语承前省略，即没有察觉到自己出现过这种发作。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "情态动词 + have done 表示对过去的推测",
+    "explain": "“情态动词 + have done”表示对过去情况的推测或评价：must have done 表示“一定做过”，把握最大；may/might have done 表示“可能做过”，把握较小；can't/couldn't have done 表示“不可能做过”；should have done 表示“本应做而没做”，含责备或遗憾。本句 may have had 表示推测加德纳可能经历过微睡眠，并非确定的事实。考研阅读中，这类结构说明作者在推测，做题时不能把它当作已证实的结论。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The fire may have started in the kitchen, but investigators are still examining the evidence.",
+      "zh": "火可能是从厨房烧起来的，但调查人员仍在检查证据。"
+     },
+     {
+      "en": "She must have left early; her coat is no longer on the hook.",
+      "zh": "她一定是早走了，她的外套已经不在挂钩上了。"
+     }
+    ]
+   },
+   {
+    "title": "without + 动名词",
+    "explain": "without + 动名词表示“没有做……”，作伴随状语或方式状语，动名词的逻辑主语通常就是句子的主语。本句 without noticing 说明加德纳在经历短暂发作时自己并没有察觉。without 是介词，后面不能接不定式或动词原形。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He left the meeting without saying a word.",
+      "zh": "他一句话也没说就离开了会议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "bout",
+    "explain": "名词，一阵，一回，一次发作，通常指疾病、情绪或活动的阵发性发作，如 a bout of fever（一阵发烧）（视频说明）；在拳击、摔跤中还指“一场比赛”。视频译为“发作”。"
+   },
+   {
+    "term": "momentary",
+    "explain": "形容词，短暂的，片刻的，如 a momentary pause（短暂的停顿）。与 momentous（重大的）拼写相近、意思完全不同，是考研常见的易混词。视频译为“短暂的”。"
+   },
+   {
+    "term": "such",
+    "explain": "限定词，指代前文提到的同类事物，such momentary bouts 回指上句的 microsleeps，视频译为“这种”。such 与 a 连用时语序为 such a + 形容词 + 名词。"
+   }
+  ],
+  "translation_tip": "视频译文“加德纳可能经历过这种短暂的发作而未曾察觉。”的处理：①may have had 译为“可能经历过”，“可能”体现推测，“过”体现发生在过去；had 根据语境译为“经历”。②without noticing 放在句末，用“而未曾察觉”承接，“而”连接前后两种同时存在的情况，“未曾”体现过去。③such momentary bouts 译为“这种短暂的发作”，such 译为“这种”，与上句的微睡眠呼应。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Guinness World Records（第一分句）；others（第二分句）",
+   "predicate": "discontinued（第一分句）；have since alleged（第二分句）",
+   "object_or_complement": "monitoring such attempts（discontinued 的宾语）；longer stints awake（alleged 的宾语）",
+   "explain": "由 and 连接的并列句。第一分句谓语 discontinued 为一般过去时，后接动名词短语作宾语；第二分句谓语 have since alleged 为现在完成时，副词 since 意为“从那以后”，表示从1997年到现在的情况。"
+  },
+  "components": [
+   {
+    "text": "In 1997",
+    "role": "时间状语（介词短语）",
+    "zh": "1997年"
+   },
+   {
+    "text": "Guinness World Records",
+    "role": "第一分句主语",
+    "zh": "吉尼斯世界纪录"
+   },
+   {
+    "text": "discontinued",
+    "role": "第一分句谓语",
+    "zh": "停止了"
+   },
+   {
+    "text": "monitoring such attempts",
+    "role": "宾语（动名词短语，discontinue doing 结构）",
+    "zh": "监测此类尝试"
+   },
+   {
+    "text": "because of the health perils,",
+    "role": "原因状语（介词短语）",
+    "zh": "因健康风险"
+   },
+   {
+    "text": "and others",
+    "role": "并列连词 and + 第二分句主语",
+    "zh": "其他人"
+   },
+   {
+    "text": "have since alleged",
+    "role": "第二分句谓语（现在完成时，副词 since 插在 have 与过去分词之间）",
+    "zh": "此后……声称/宣称"
+   },
+   {
+    "text": "longer stints awake.",
+    "role": "宾语（awake 作后置定语，修饰 stints）",
+    "zh": "有过更长的清醒时段"
+   }
+  ],
+  "structure": "①本句是由 and 连接的并列句。第一分句：In 1997 是时间状语，主语是 Guinness World Records，谓语 discontinued 后接动名词短语 monitoring such attempts 作宾语（视频说明：discontinue doing，停止做……），because of the health perils 是原因状语。such attempts 指像加德纳这样长时间不睡觉的尝试。\n②第二分句：主语 others 指其他人，谓语 have since alleged 是现在完成时（视频说明：have since done，从那以后已经……），副词 since 插在 have 和过去分词之间，指1997年以来；宾语是 longer stints awake。\n③longer stints awake 中，stints 是中心词，longer 作前置定语，形容词 awake 作后置定语，stints awake 意为“清醒的时段”（视频说明）。awake 这类表语形容词修饰名词时要放在名词后。\n④allege 意为“声称”，暗示这些说法未经证实。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "have since done：副词 since 与现在完成时",
+    "explain": "since 作副词时意为“从那以后”，常放在助动词 have/has 与过去分词之间，构成 have since done，表示从过去某个时间点（通常前文已提到）到现在的情况。本句的时间点是前一分句的 In 1997，所以第二分句用现在完成时 have since alleged。since 还可作介词（since 1997）和连词（since he left），引导的时间状语都常与现在完成时连用。考研阅读中，have since done 常用于交代事件的后续发展。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The factory closed in 2009, and the site has since been turned into a park.",
+      "zh": "这家工厂于2009年关闭，此后厂址被改建成了公园。"
+     },
+     {
+      "en": "He moved to Berlin after graduating and has since written three novels.",
+      "zh": "他毕业后搬到了柏林，此后写了三部小说。"
+     }
+    ]
+   },
+   {
+    "title": "discontinue doing：动名词作宾语",
+    "explain": "discontinue、stop、finish、avoid、quit 等动词后可接动名词作宾语。discontinue 比 stop 正式，多用于停止提供服务、生产产品或进行某项活动，后接名词或动名词，如 discontinue a product line、discontinue treatment。注意 stop doing（停止做某事）与 stop to do（停下来去做另一件事）意思不同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bank will discontinue charging fees for online transfers next year.",
+      "zh": "该银行明年将停止收取网上转账手续费。"
+     }
+    ]
+   },
+   {
+    "title": "表语形容词作后置定语",
+    "explain": "awake、asleep、alive、alone、afraid 等以 a- 开头的形容词一般只作表语，修饰名词时要放在名词后作后置定语，如 the only person awake、the greatest writer alive。本句 longer stints awake 即“更长的清醒时段”，不能写成 longer awake stints。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She was the only person awake when the fire alarm went off.",
+      "zh": "火警响起时，她是唯一醒着的人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Guinness World Records",
+    "explain": "吉尼斯世界纪录，收录和认证各项世界纪录的机构，也是其出版的同名纪录集的名称，前身是1955年首次出版的 The Guinness Book of Records（《吉尼斯世界纪录大全》）。视频译为“吉尼斯世界纪录”。"
+   },
+   {
+    "term": "peril",
+    "explain": "名词，（严重的）危险，书面用词，常用复数表示某事带来的种种危险，如 the perils of the sea。health perils 即“健康风险”。"
+   },
+   {
+    "term": "allege",
+    "explain": "动词，声称，宣称，指在没有提供证据的情况下断言某事属实；形容词 alleged（被指称的，所谓的）和副词 allegedly（据称）在新闻中极常见，如 the alleged victim。"
+   },
+   {
+    "term": "stint",
+    "explain": "名词，一段时间（的工作或活动），如 a two-year stint in the army（在部队服役两年）。本句 stints awake 指连续保持清醒的时段。"
+   }
+  ],
+  "translation_tip": "视频译文“1997年，吉尼斯世界纪录因健康风险停止了监测此类尝试；此后，其他人声称/宣称有过更长的清醒时段。”的处理：①句末的原因状语 because of the health perils 前移到谓语前，译为“因健康风险”，符合汉语状语在前的语序。②两个分句之间用分号隔开，and 不单独译出。③have since alleged 中的副词 since 译为“此后”，提到第二分句句首，单独用逗号隔开，点明时间的转换。④alleged 并列给出“声称/宣称”；宾语 longer stints awake 前增补“有过”，使动宾搭配完整，后置定语 awake 前移，译为“清醒的”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Gardner（第一分句）；he himself（第二分句）",
+   "predicate": "said（第一分句）；pinned（第二分句）",
+   "object_or_complement": "severe insomnia had tormented him for about a decade（said 的宾语从句）；the blame（pinned 的宾语）",
+   "explain": "由 and 连接的并列句。第一分句谓语 said 后接省略 that 的宾语从句，从句谓语 had tormented 是过去完成时；第二分句谓语 pinned 为一般过去时，与 the blame 和 on 构成 pin the blame on 的固定搭配。"
+  },
+  "components": [
+   {
+    "text": "In a 2017 interview",
+    "role": "时间状语（介词短语）",
+    "zh": "在2017年的一次采访中"
+   },
+   {
+    "text": "Gardner",
+    "role": "第一分句主语",
+    "zh": "加德纳"
+   },
+   {
+    "text": "said",
+    "role": "第一分句谓语",
+    "zh": "说"
+   },
+   {
+    "text": "severe insomnia",
+    "role": "宾语从句（省略 that）的主语",
+    "zh": "严重的失眠"
+   },
+   {
+    "text": "had tormented",
+    "role": "宾语从句的谓语（过去完成时）",
+    "zh": "折磨了"
+   },
+   {
+    "text": "him",
+    "role": "宾语从句的宾语",
+    "zh": "他"
+   },
+   {
+    "text": "for about a decade,",
+    "role": "宾语从句中的时间状语（说明持续时间）",
+    "zh": "约十年"
+   },
+   {
+    "text": "and he himself",
+    "role": "并列连词 and + 第二分句主语 he，反身代词 himself 作同位语，表示强调",
+    "zh": "他本人"
+   },
+   {
+    "text": "pinned the blame on",
+    "role": "第二分句谓语部分（pinned 为谓语，the blame 为宾语，on 引出归咎的对象）",
+    "zh": "把它归咎于"
+   },
+   {
+    "text": "the experiment.",
+    "role": "介词 on 的宾语",
+    "zh": "这次实验"
+   }
+  ],
+  "structure": "①本句是由 and 连接的并列句。第一分句：In a 2017 interview 是时间状语，主语是 Gardner，谓语是 said，后面是省略 that 的宾语从句 severe insomnia had tormented him for about a decade。\n②宾语从句的主语是 severe insomnia，谓语 had tormented 用过去完成时：说话发生在2017年，失眠的折磨发生在说话之前，并持续了约十年，属于“过去的过去”；for about a decade 是时间状语，说明持续的时间。\n③第二分句：he himself 中的 himself 是反身代词作同位语，强调是他本人（视频说明），即把失眠归咎于实验是加德纳自己的看法。pin the blame on… 意为“把责任归到……身上，归咎于……”（视频说明），the blame 是 pinned 的宾语，on the experiment 引出归咎的对象；被归咎的就是前一分句所说的失眠。\n④第二分句用一般过去时 pinned，与 said 时间一致，可以理解为作者转述的另一件事，也可以理解为 said 所说内容的一部分；两种分析意思一致：认为失眠源于当年实验的是加德纳本人。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句中的时态呼应",
+    "explain": "主句谓语是过去时（said、claimed、explained 等）时，宾语从句的时态一般要相应后移：从句动作发生在主句动作之前，用过去完成时；与主句动作同时，用一般过去时；在主句动作之后，用过去将来时。本句 said 发生在2017年，失眠折磨他是此前的事，所以用 had tormented。引导宾语从句的 that 在新闻和口语中常省略，本句 said 后直接接从句主语 severe insomnia。考研翻译中要注意从句的时间先后，必要时增补“曾”“已”等词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The witness said she had seen the suspect near the bank that morning.",
+      "zh": "证人说，那天早上她在银行附近见过嫌疑人。"
+     },
+     {
+      "en": "The company admitted it had underestimated the cost of the project.",
+      "zh": "该公司承认，它低估了这个项目的成本。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作同位语表示强调",
+    "explain": "反身代词（myself、himself、themselves 等）紧跟在名词或代词之后，或放在句末，可以作同位语，强调“本人，亲自”，去掉后句子结构仍然完整，如 The president himself attended the ceremony、I'll do it myself。本句 he himself 强调把失眠归咎于实验的是加德纳本人（视频说明），而不是别人的推测。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The author herself admits that the evidence is limited.",
+      "zh": "作者本人也承认证据有限。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pin the blame on",
+    "explain": "把责任归到……身上，归咎于……（视频说明）。pin 原义是“用别针别住”，比喻把责任、罪名“钉”在某人或某事上。同义表达有 blame sth on sb/sth、put the blame on。"
+   },
+   {
+    "term": "insomnia",
+    "explain": "名词，失眠（症），不可数，常说 suffer from insomnia；患失眠的人叫 insomniac。视频译为“失眠”。"
+   },
+   {
+    "term": "torment",
+    "explain": "动词，折磨，使痛苦，常指身心长期受苦，如 be tormented by guilt。作名词时重音在第一个音节，作动词时重音在第二个音节。视频译为“折磨了”。"
+   }
+  ],
+  "translation_tip": "视频译文“在2017年的一次采访中，加德纳说严重的失眠折磨了他约十年，他本人把它归咎于这次实验。”的处理：①时间状语 In a 2017 interview 保留在句首，译为“在2017年的一次采访中”，不定冠词 a 译成“一次”。②宾语从句直接接在“说”后面，过去完成时 had tormented 译为“折磨了”，时间状语 for about a decade 放在宾语后，译为“约十年”。③and 不单独译出，两个分句用逗号连接。④pinned the blame on the experiment 用“把”字句译为“把它归咎于这次实验”，增补代词“它”指代前文的失眠，使归咎的内容更明确；he himself 译为“他本人”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The boy",
+   "predicate": "would barely doze off",
+   "object_or_complement": "",
+   "explain": "主谓结构，主语 The boy 后接 who 引导的定语从句。谓语 would doze off 是过去将来时，would 表示从过去某一时间看将来发生的事；barely 是带否定意义的副词，意为“几乎不”。"
+  },
+  "components": [
+   {
+    "text": "The boy",
+    "role": "主语",
+    "zh": "那个……少年"
+   },
+   {
+    "text": "who had seemed to bounce back from exhaustion with one long rest",
+    "role": "限制性定语从句（who 引导），修饰 the boy",
+    "zh": "曾看似只要睡个长觉，就能从精疲力竭中迅速恢复的"
+   },
+   {
+    "text": "would,",
+    "role": "谓语的助动词部分（would 表示过去将来）",
+    "zh": "（would 表示从过去看将来，不单独译出）"
+   },
+   {
+    "text": "decades later,",
+    "role": "时间状语（插入在 would 与实义动词之间）",
+    "zh": "几十年后"
+   },
+   {
+    "text": "barely",
+    "role": "否定意义的程度副词，修饰 doze off",
+    "zh": "却几乎连……都费劲"
+   },
+   {
+    "text": "doze off.",
+    "role": "谓语的实义动词部分（短语动词）",
+    "zh": "打个盹"
+   }
+  ],
+  "structure": "①主句骨架是 The boy would barely doze off。主语 The boy 后接一个较长的定语从句，谓语 would 直到从句结束后才出现，而且 would 与 doze off 之间又插入了时间状语 decades later 和否定副词 barely，读的时候要把 would 和 doze off 连起来。\n②who had seemed to bounce back from exhaustion with one long rest 是 who 引导的限制性定语从句，修饰 the boy（视频说明）。who 在从句中作主语；谓语 had seemed 用过去完成时，表示“看似恢复”发生在后来失眠之前；seem to do 意为“似乎……”；bounce back from 意为“从……中恢复过来”（视频说明），from exhaustion 说明从什么状态中恢复；with one long rest 是方式状语，说明凭什么恢复，one 强调“只一次”。\n③would 在这里表示过去将来：站在1964年的时间点看几十年后的情况，带有“后来竟会……”的意味。decades later 是插入的时间状语。barely 意为“几乎不”，修饰 doze off，否定意味很强。\n④本句是全文的结尾句，用 had seemed（看似）和 would barely（几乎不能）形成对比：当年睡一个长觉似乎就恢复了，几十年后却连打个盹都难，呼应第12句的 apparently refreshed。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "would 表示过去将来",
+    "explain": "would 是 will 的过去式，可以表示从过去某一时间看将要发生的事，即过去将来时。叙事文中，作者站在过去的时间点，用 would 交代人物后来的经历，常与 later、decades later、eventually、one day 等连用，带有“后来竟会，最终会”的意味，如 He would later become president。本句站在加德纳完成实验的1964年来看几十年后的情况，所以用 would barely doze off。这种 would 不表示意愿或过去的习惯，阅读时要借助 later 等时间词判断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The young clerk who sorted letters in that office would one day run the entire company.",
+      "zh": "当年在那间办公室分拣信件的年轻职员，有朝一日竟会执掌整个公司。"
+     },
+     {
+      "en": "In 1990 she left her village for the city; she would not return for twenty years.",
+      "zh": "1990年，她离开村子去了城市，此后二十年都没有回来。"
+     }
+    ]
+   },
+   {
+    "title": "barely 等带否定意义的副词",
+    "explain": "barely、hardly、scarcely、seldom、rarely 等副词本身带否定意义，意为“几乎不，很少”，句中不再用 not，反意疑问句要用肯定形式，如 He can barely walk, can he?。barely 侧重“勉强，刚刚够”，如 barely enough money；本句 barely doze off 表示几乎无法入睡。这些词放在句首时句子要部分倒装，如 Hardly had the meeting begun when…。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old printer barely works, and repairs would cost more than a new one.",
+      "zh": "这台旧打印机几乎没法用了，修理费比买台新的还贵。"
+     },
+     {
+      "en": "Hardly had the meeting begun when the fire alarm went off.",
+      "zh": "会议刚开始，火警就响了。"
+     }
+    ]
+   },
+   {
+    "title": "seem to do 与过去完成时",
+    "explain": "seem to do sth 表示“似乎……”，带有只是表面如此、未必属实的意味，与 apparently 意思相近。本句 had seemed to bounce back 用过去完成时，表示“看似恢复”发生在后来失眠之前；“看似”暗示真实情况并非如此，与主句的 would barely doze off 形成对比。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan seemed to work at first, but problems soon emerged.",
+      "zh": "这个计划起初似乎奏效，但问题很快就出现了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "bounce back from",
+    "explain": "从……中恢复过来（视频说明）。bounce 原义是“弹起，反弹”，比喻遭受疾病、打击或挫折后像球一样迅速弹回原状，如 bounce back from illness/defeat。视频译为“从……中迅速恢复”，“迅速”体现了 bounce 弹回之快。"
+   },
+   {
+    "term": "doze off",
+    "explain": "打盹，打瞌睡，凑合着短睡一下（视频说明）。doze 本身指小睡、打盹，off 表示进入睡眠状态；同类表达有 nod off、drop off。视频译为“打个盹”。"
+   },
+   {
+    "term": "decades later",
+    "explain": "几十年后；decades 是 decade（十年）的复数，泛指“几十年”。“时间段 + later”用于叙述过去的事，表示“……之后”，如 two years later。"
+   },
+   {
+    "term": "exhaustion",
+    "explain": "名词，精疲力竭，极度疲劳，如 physical exhaustion；形容词 exhausted（精疲力竭的）、exhausting（令人精疲力竭的）。视频译为“精疲力竭”。"
+   }
+  ],
+  "translation_tip": "视频译文“那个曾看似只要睡个长觉，就能从精疲力竭中迅速恢复的少年，几十年后，却几乎连打个盹都费劲。”的处理：①定语从句较长，仍前置作“少年”的定语，内部按汉语逻辑重新排列：with one long rest 译成条件“只要睡个长觉”，bounce back from exhaustion 译成结果“就能从精疲力竭中迅速恢复”；had seemed 译为“曾看似”，“曾”体现过去完成时。②The boy 译为“那个……少年”，用“那个”回指前文的加德纳。③插入的时间状语 decades later 单独用逗号隔开，译为“几十年后”。④barely doze off 增补“却”体现转折，用“几乎连打个盹都费劲”译出 barely 的否定意味；would 不单独译出。"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "key": "n=2",
+  "field": "knowledge[wane].explain",
+  "before": "原指月亮由圆变缺，常用于兴趣、影响力、热情等抽象事物",
+  "after": "本义是“减少，变小”（古英语 wanian），也特指月亮由圆变缺（月亏），常用于兴趣、影响力、热情等抽象事物",
+  "reason": "据 Etymonline，古英语 wanian 本义即“减少，变小”，月亏只是其中一个用法，“原指月亮”不确"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar[名词作前置定语].explain",
+  "before": "press 原义是“新闻界，报刊”",
+  "after": "press 在这里意为“新闻界，报刊”（其本义是“压，按”，由印刷机引申而来）",
+  "reason": "press 的本义是“压，按”，“新闻界”是引申义，不能说“原义”"
+ },
+ {
+  "key": "n=7",
+  "field": "structure",
+  "before": "常用 tension、costs、pressure 等抽象名词作主语",
+  "after": "常用 tension、costs、pressure 等名词作主语",
+  "reason": "costs 不是抽象名词，去掉不准确的限定"
+ },
+ {
+  "key": "n=12",
+  "field": "components[apparently].role",
+  "before": "评注性状语（副词），修饰 refreshed",
+  "after": "状语（副词），修饰 refreshed",
+  "reason": "评注性状语修饰整个句子，而此处 apparently 只修饰 refreshed，术语自相矛盾"
+ },
+ {
+  "key": "n=13",
+  "field": "components[lasting a few seconds.].role",
+  "before": "后置定语（现在分词短语），紧跟在 sleep 之后",
+  "after": "后置定语（现在分词短语），修饰 sleep，说明每次短暂睡眠持续的时长",
+  "reason": "原写法未说明修饰对象，补具体，与 structure ④和视频译文一致"
+ },
+ {
+  "key": "n=17",
+  "field": "grammar[seem to do 与过去完成时].explain",
+  "before": "“看似”暗示真实情况并非如此，与主句的 would barely doze off 形成对比",
+  "after": "“看似”说明这只是当时看上去的情况，与主句的 would barely doze off 形成对比",
+  "reason": "原文只说 had seemed，未断言真实情况相反；讲解不能把推测写成确定的事实（通用规矩5）"
+ }
+]

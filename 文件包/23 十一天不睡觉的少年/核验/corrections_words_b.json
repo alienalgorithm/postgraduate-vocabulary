@@ -1,0 +1,30 @@
+[
+ {
+  "key": "id=39",
+  "field": "context_usage",
+  "before": "apparently 表明这只是表面现象，与第5段他后来长期失眠形成对照",
+  "after": "apparently 说明这是从外表看到的情况，与第5段他后来长期失眠形成对照",
+  "reason": "原文只用 apparently 表示“似乎”，讲解不能断言“只是表面现象”（通用规矩5）"
+ },
+ {
+  "key": "id=40",
+  "field": "etymology",
+  "before": "名词 probe 16世纪时指外科医生探查伤口的探针，17世纪起有动词用法",
+  "after": "名词 probe 最初指外科医生探查伤口的探针，动词由名词而来",
+  "reason": "具体年代无法从权威词源词典确证，删去，只保留可证实的词义发展"
+ },
+ {
+  "key": "id=55",
+  "field": "context_usage",
+  "before": "bounce 原义是“弹回”",
+  "after": "bounce 的常用义是“弹起，弹回”",
+  "reason": "与本词条词源一致：bounce 原义是“重击”，“弹回”是后起义"
+ },
+ {
+  "key": "id=55",
+  "field": "context_usage",
+  "before": "had seemed 表明这只是表面现象。",
+  "after": "had seemed 说明这只是当时看上去的情况。",
+  "reason": "原文用 seemed，讲解不能断言为“表面现象”（通用规矩5）"
+ }
+]
