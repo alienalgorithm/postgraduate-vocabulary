@@ -111,7 +111,7 @@
     "missing_or_pending_items_are_production_pending_not_legacy_fillers": true
   },
   "all70_latest_complete": false,
-  "latest_requested_revision_completed_count": 67,
+  "latest_requested_revision_completed_count": 68,
   "articles": [
     {
       "source_id": "07",
@@ -4432,14 +4432,14 @@
       "pending_newer_request_blocks_old_fallback": true,
       "older_accepted_archive_is_history_until_newest_request_qualified": true,
       "previously_accepted_cloud_final": {
-        "asset_commit": "5a12253e8e78c50fe44dc376b85e4b322033a2ea",
-        "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4",
-        "bytes": 17043857,
-        "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a"
+        "asset_commit": "f3dd2cb17260c0a21e8677182cb4491f7212a9b7",
+        "video_repo_path": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/65 一封信惊醒了达尔文.mp4",
+        "bytes": 17160827,
+        "sha256": "d4e56261c64f3fd8f0fa710d126c254c2007f53b54df16a9718b59cee272dd7d"
       },
-      "status": "latest_authorized_revision_in_production",
-      "latest_requested_revision_complete": false,
-      "actual_complete_validation_passed": false,
+      "status": "latest_qualified_cloud_final",
+      "latest_requested_revision_complete": true,
+      "actual_complete_validation_passed": true,
       "actual_dual_permanent_archive_passed": false,
       "newest_user_revision_records": [
         "assistant-derived-record-key-final-book65-source56-7eda217cbd99"
@@ -4460,7 +4460,24 @@
         "authority_record_key": "assistant-derived-record-key-final-book65-source56-7eda217cbd99",
         "latest_qualified_full_H_and_complete_dual_permanent_archive_still_required": true,
         "no_new_media_or_source_or_complete_pass_claimed": true
-      }
+      },
+      "primary_permanent_archive_passed": true,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "no access from the 2026-11-16 session",
+        "action": "mirror this archive folder, then set actual_dual_permanent_archive_passed=true"
+      },
+      "latest_revision_final": {
+        "asset_commit": "f3dd2cb17260c0a21e8677182cb4491f7212a9b7",
+        "video_repo_path": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/65 一封信惊醒了达尔文.mp4",
+        "bytes": 17160827,
+        "sha256": "d4e56261c64f3fd8f0fa710d126c254c2007f53b54df16a9718b59cee272dd7d"
+      },
+      "validation_report_sha256": "240b7501bdc9cea058d5348506711ea644acf44709c6e87593f8505e40ea194e",
+      "post_reading_pause_seconds": 0.6,
+      "illustration_seconds": 2,
+      "summary_card_seconds": 2,
+      "source_roles_preserved": true
     },
     {
       "source_id": "41",

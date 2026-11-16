@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-11-16T08:15:22.303876+00:00",
+  "updated_utc": "2026-11-16T08:21:26.247885+00:00",
   "requested_total": 70,
   "archived_passed_count": 69,
   "remaining_not_claimed_passed": 1,
@@ -4628,16 +4628,73 @@
       "new_id": "65",
       "title_zh": "一封信惊醒了达尔文",
       "title_en": "The Letter That Startled Darwin",
-      "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4",
-      "bytes": 17043857,
-      "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+      "video_repo_path": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/65 一封信惊醒了达尔文.mp4",
+      "bytes": 17160827,
+      "sha256": "d4e56261c64f3fd8f0fa710d126c254c2007f53b54df16a9718b59cee272dd7d",
       "passed_per_article": true,
       "source_run": 43533004625,
-      "GEN_origin": "derived_after_final_QC",
-      "MD_origin": "request_manuscript_with_verified_final_source_equivalence",
-      "runtime_GEN_observed": false,
-      "asset_commit": "5a12253e8e78c50fe44dc376b85e4b322033a2ea",
-      "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56"
+      "production_delivery_eligible": true,
+      "preview_only": false,
+      "media_origin": "actual_validated_normal18_local_tail_derivative_of_original_native_source",
+      "actual_runtime_GEN_or_voice_rerun_claimed": false,
+      "canonical_audio_basis": "actual_official_audio_gates_plus_exact_accepted_AAC_packet_identity",
+      "audio_reverification_20261116": {
+        "official_audio_gates_passed": true,
+        "repair_applied": false,
+        "accepted_prior_aac_identical": true,
+        "peak_dBFS": -0.95,
+        "clipped_samples": 0,
+        "resynthesis_needed": false
+      },
+      "local_tail_postprocessing_audio_repair_applied": false,
+      "local_postprocessing_only": true,
+      "post_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "measured_voice_to_picture_seconds": 0.6,
+      "postprocessing_report_sha256": "240b7501bdc9cea058d5348506711ea644acf44709c6e87593f8505e40ea194e",
+      "source_native_video": {
+        "bytes": 17043857,
+        "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+        "native_run": 43533004625,
+        "archived_copy": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4"
+      },
+      "actual_source_QA_records_read_in_this_session": true,
+      "source_QA_pass_basis": [
+        "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/V3逐项核验/56/actual-qc-v3.json native_official_audio_gates passed",
+        "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/官方原产物解包/56/56-status.json passed, all voice checks 0 problems"
+      ],
+      "source_native_audio_lossless_copy": {
+        "aac_packet_payload_and_absolute_timings_identical": true,
+        "aac_packet_count": 7327,
+        "aac_adts_sha256": "7ce83312d1f3db9474c16dc4dfa1434ca4e388ed1cd77aab865c1111667aca3c"
+      },
+      "primary_permanent_archive_passed": true,
+      "actual_dual_permanent_archive_passed": false,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "no access from the 2026-11-16 session"
+      },
+      "asset_commit": "f3dd2cb17260c0a21e8677182cb4491f7212a9b7",
+      "archive_prefix": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1",
+      "previous_versions": [
+        {
+          "source_id": "56",
+          "new_id": "65",
+          "title_zh": "一封信惊醒了达尔文",
+          "title_en": "The Letter That Startled Darwin",
+          "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4",
+          "bytes": 17043857,
+          "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+          "passed_per_article": true,
+          "source_run": 43533004625,
+          "GEN_origin": "derived_after_final_QC",
+          "MD_origin": "request_manuscript_with_verified_final_source_equivalence",
+          "asset_commit": "5a12253e8e78c50fe44dc376b85e4b322033a2ea",
+          "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56",
+          "post_reading_pause_seconds_measured": 0.0,
+          "meets_0p6_hold_rule": false
+        }
+      ]
     },
     {
       "source_id": "41",
