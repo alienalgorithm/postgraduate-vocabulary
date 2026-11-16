@@ -6,8 +6,8 @@ fs=json.load(open(S+'/book/final_sources.json')); md=json.load(open(S+'/book/fin
 b2v={x['source_id']:x['book_no'] for x in json.load(open(S+'/book/book_to_video.json'))}; b2v.setdefault('60','36')
 extra={'56':('视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/V3逐项核验/final-source','current final video source'),
        '23':('视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23/V3逐项核验/final-source','PREVIOUS accepted source; new native 43755903301 text not in repo'),
-       '24':('视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24/V3逐项核验/final-source','current video source; revision pending'),
-       '68':('/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/src68/实际最终源码','current review source; revision pending')}
+       '24':('/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/src4953new','2026-11-16 final video source (commit d0f7d583: 视频/脚本/24.json, 新版定稿/24-*.md)'),
+       '68':('/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/src4953new','2026-11-16 final video source (commit d0f7d583: 视频/脚本/68.json, 新版定稿/68-*.md)')}
 order=json.load(open(R+'/视频修订定稿/最终定稿/视频顺序.json'))['video_order']
 L.INPUTS={}; status={}
 for row in order:
