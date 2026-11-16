@@ -1,0 +1,59 @@
+[
+ {
+  "key": "1",
+  "field": "related",
+  "before": [
+   {
+    "en": "senior",
+    "pos": "adj./n.",
+    "zh": "年长的；级别高的；上级"
+   },
+   {
+    "en": "juvenile",
+    "pos": "adj./n.",
+    "zh": "青少年的；青少年"
+   }
+  ],
+  "after": [
+   {
+    "en": "juvenile",
+    "pos": "adj./n.",
+    "zh": "青少年的；青少年"
+   },
+   {
+    "en": "rejuvenate",
+    "pos": "v.",
+    "zh": "使恢复活力，使显得年轻"
+   }
+  ],
+  "reason": "senior 是反义词（来自拉丁语 senex），不是同根词；换成同出拉丁语 iuvenis 的 rejuvenate"
+ },
+ {
+  "key": "15",
+  "field": "etymology",
+  "before": "18世纪从法语 élite（精选出来的人）进入英语，源自古法语 eslite，是动词 elire（挑选）的过去分词阴性形式，再往前来自拉丁语 eligere（挑选），与 elect（选举）同源。",
+  "after": "19世纪初从法语 élite（精选、精选出来的人）进入英语，源自古法语 eslite，是动词 eslire（挑选）的过去分词阴性形式，再往前来自拉丁语 eligere（挑选），与 elect（选举）同源。",
+  "reason": "Etymonline 记 elite 首见于1823年，不是18世纪；古法语动词拼作 eslire"
+ },
+ {
+  "key": "20",
+  "field": "etymology",
+  "before": "由动词 enter 加名词后缀 -ance 构成，经古法语进入英语。另有动词 entrance（使着迷），由 en-（使）和 trance（出神）构成，与名词同形异音。",
+  "after": "16世纪源自中古法语 entrance，由法语动词 entrer（进入，与英语 enter 同源）加名词后缀 -ance 构成。另有动词 entrance（使着迷），由 en-（使）和 trance（出神）构成，与名词同形异音。",
+  "reason": "entrance 是在法语中由 entrer 加 -ance 构成后借入英语的，不是英语 enter 加 -ance"
+ },
+ {
+  "key": "21",
+  "field": "etymology",
+  "before": "16世纪后期出现，最初意为“藏起来”，来源不详，可能与低地德语有关；后来引申为“挤成一团”。",
+  "after": "16世纪后期出现，来源不详，可能与低地德语有关；早期就有“杂乱地挤在一起”的意思，现代主要指人或动物因寒冷、害怕等挤成一团。",
+  "reason": "Etymonline 记 huddle 1570s 起就有“杂乱地挤在一起”义，“最初意为藏起来、后来才引申为挤成一团”的说法不准确"
+ },
+ {
+  "key": "30",
+  "field": "etymology",
+  "before": "由名词 treachery（背叛）加 -ous 构成。treachery 源自古法语 trecherie，来自 trechier（欺骗、耍花招）。",
+  "after": "源自古法语 trecheros（奸诈的），来自 trecheor（叛徒、骗子），再往前是动词 trechier（欺骗、耍花招）。名词 treachery（背叛）来自古法语 trecherie，与它同源。",
+  "reason": "treacherous 直接借自古法语 trecheros，不是英语 treachery 加 -ous 构成"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "key": "3",
+  "field": "components",
+  "before": [
+   {
+    "text": "the rising",
+    "role": "前置定语（现在分词 rising），修饰 water",
+    "zh": "上涨的"
+   },
+   {
+    "text": "water",
+    "role": "主语（后一分句）",
+    "zh": "水"
+   }
+  ],
+  "after": {
+   "text": "the rising water",
+   "role": "主语（后一分句；现在分词 rising 作前置定语，修饰 water）",
+   "zh": "上涨的水"
+  },
+  "reason": "the rising 含限定词 the，单独标为前置定语不准确；主语 the rising water 应作一个整体成分，rising 作前置定语在 role 中说明"
+ },
+ {
+  "key": "3",
+  "field": "grammar[0].explain",
+  "before": "单个分词常放在名词前作定语。不及物动词的现在分词表示正在进行或主动，如 rising water（正在上涨的水）、a developing country（发展中国家）；过去分词表示已经完成或被动，如 fallen leaves（落叶）、a developed country（发达国家）。本句 the rising water 强调水位在不断上涨，写成 the risen water 则表示已经涨起来的水，语义不同。考研阅读中 rising costs、rising inflation、a growing number of 等表达很常见。",
+  "after": "单个分词常放在名词前作定语。不及物动词的现在分词表示正在进行或主动，如 rising water（正在上涨的水）、a developing country（发展中国家）；过去分词表示已经完成或被动，如 fallen leaves（落叶）、a developed country（发达国家）。本句 the rising water 强调水位在不断上涨，rising 表示“正在上涨”，突出险情仍在加剧。考研阅读中 rising costs、rising inflation、a growing number of 等表达很常见。",
+  "reason": "the risen water 不是地道搭配，不宜作对比示例；改为直接说明 rising 的含义"
+ },
+ {
+  "key": "10",
+  "field": "grammar[0].explain",
+  "before": "介词 in 加复数名词可以表示“以……的方式、成……”，如 in batches（分批）、in groups（成群地）、in pairs（两人一组）、in turns（轮流）。本句 in batches 说明男孩们是一批一批出来的，不是同时出来的。",
+  "after": "介词 in 加复数名词可以表示“以……的方式、成……”，如 in batches（分批）、in groups（成群地）、in pairs（两人一组）、in rows（成排地）。本句 in batches 说明男孩们是一批一批出来的，不是同时出来的。",
+  "reason": "“轮流”的常用说法是 in turn 或 take it in turns，单独的 in turns 作示例不规范，换成 in rows"
+ },
+ {
+  "key": "11",
+  "field": "trunk.object_or_complement",
+  "before": "doses of sedative（was given 的保留宾语）；motionless（补充说明被包裹时的状态）",
+  "after": "doses of sedative（was given 的保留宾语）；motionless（主语补足语，补充说明被包裹时的状态）",
+  "reason": "补出成分名称：被动句中补充说明主语状态的形容词是主语补足语，与第16句 alive 的分析一致"
+ },
+ {
+  "key": "11",
+  "field": "components[motionless].role",
+  "before": "形容词，补充说明 Each 被包裹时的状态",
+  "after": "主语补足语（形容词），补充说明 Each 被包裹时的状态",
+  "reason": "role 只写“形容词”不是成分名称，改为主语补足语"
+ },
+ {
+  "key": "11",
+  "field": "structure",
+  "before": "①主干是 Each was given…, wrapped…, and passed…，视频说明“三个被动谓语并列”。Each 是代词，指上句分批出洞的每个男孩，谓语用单数 was。\n②第一个谓语 was given doses of sedative：give sb sth 变被动时，间接宾语作主语，直接宾语 doses of sedative 保留在动词后，叫作保留宾语；of sedative 作 doses 的后置定语，视频说明“doses of sedative：数剂镇静药”。\n③第二个谓语 wrapped motionless in a stretcher：motionless 是形容词，视频说明“形容词补充说明状态，一动不动的”；in a stretcher 作地点状语。\n④第三个谓语 passed from diver to diver：视频说明“from diver to diver：从一名潜水员到另一名潜水员”，即依次传递。\n⑤句末 with medics stationed along the route 是 with 复合结构作伴随状语：medics 是 with 的宾语，过去分词 stationed 作宾语补足语，视频说明“stationed 是过去分词，表示被安排驻守”；along the route 说明驻守的位置。",
+  "after": "①主干是 Each was given…, wrapped…, and passed…，视频说明“三个被动谓语并列”。Each 是代词，指上句分批出洞的每个男孩，谓语用单数 was。\n②第一个谓语 was given doses of sedative：give sb sth 变被动时，间接宾语作主语，直接宾语 doses of sedative 保留在动词后，叫作保留宾语；of sedative 作 doses 的后置定语，视频说明“doses of sedative：数剂镇静药”。\n③第二个谓语 wrapped motionless in a stretcher：motionless 是形容词作主语补足语，视频说明“形容词补充说明状态，一动不动的”；in a stretcher 作地点状语。\n④第三个谓语 passed from diver to diver：视频说明“from diver to diver：从一名潜水员到另一名潜水员”，即依次传递。\n⑤句末 with medics stationed along the route 是 with 复合结构作伴随状语：medics 是 with 的宾语，过去分词 stationed 作宾语补足语，视频说明“stationed 是过去分词，表示被安排驻守”；along the route 说明驻守的位置。",
+  "reason": "补出 motionless 的句子成分"
+ },
+ {
+  "key": "14",
+  "field": "components[with teams].role",
+  "before": "with 复合结构（with + 宾语），作补充说明",
+  "after": "with 复合结构（with + 宾语），作伴随状语，补充说明人员来源",
+  "reason": "“作补充说明”不是成分名称，补出伴随状语，与第11句同类结构的分析一致"
+ }
+]
