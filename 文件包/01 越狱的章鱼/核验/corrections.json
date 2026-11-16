@@ -1,0 +1,490 @@
+[
+ {
+  "kind": "sent",
+  "id": 1,
+  "field": "grammar[1].explain",
+  "before": "过去分词表示被动或完成，与被修饰的名词是动宾关系",
+  "after": "及物动词的过去分词表示被动，与被修饰的名词是动宾关系（不及物动词的过去分词表示完成，如 fallen leaves）",
+  "reason": "原说法把“完成”义也归入动宾关系，不准确；只有及物动词的过去分词与被修饰名词构成动宾（被动）关系。"
+ },
+ {
+  "kind": "sent",
+  "id": 4,
+  "field": "knowledge[crayfish pot].explain",
+  "before": "也可指海里的龙虾（spiny lobster，见 Merriam-Webster 第二义项）",
+  "after": "也可指海里的龙虾（spiny lobster），Merriam-Webster 收录了这一义项；新西兰和澳大利亚英语中 crayfish 通常就指这种海产龙虾",
+  "reason": "去掉无法保证的义项编号引用；补充本文语境（新西兰）下 crayfish 的通行所指，说明视频译“捕龙虾的笼子”的依据。"
+ },
+ {
+  "kind": "sent",
+  "id": 6,
+  "field": "grammar[0].explain",
+  "before": "分词短语作状语时，它的逻辑主语必须是主句的主语。",
+  "after": "……必须是主句的主语（独立主格结构和 generally speaking 这类固定说法除外）。",
+  "reason": "规则表述过于绝对，补上考研常考的例外，避免与独立主格知识点冲突。"
+ },
+ {
+  "kind": "sent",
+  "id": 7,
+  "field": "structure",
+  "before": "Such agility 回指前两段 Inky 钻出网罩开口、挤进排水管道的表现",
+  "after": "Such agility 回指第1、2句 Inky 钻出网罩开口、挤进排水管道的表现",
+  "reason": "钻出网罩、挤进管道都在第1段（第1、2句），第2段讲的是还原路线、来历和报道，“前两段”不准确。"
+ },
+ {
+  "kind": "sent",
+  "id": 7,
+  "field": "structure",
+  "before": "第1至6句叙述2016年前后发生的具体事件",
+  "after": "第1至6句叙述2014年至2016年发生的具体事件",
+  "reason": "第4句回溯到2014年，按原文实际时间范围表述更准确。"
+ },
+ {
+  "kind": "sent",
+  "id": 9,
+  "field": "grammar[0].explain",
+  "before": "分母用序数词，分子大于 1 时分母加 s，如 one-third、two-thirds、three-quarters",
+  "after": "补充：四分之几常用 quarter 表示，如 three-quarters",
+  "reason": "three-quarters 的分母不是序数词，原说法与所举例子不符"
+ },
+ {
+  "kind": "sent",
+  "id": 9,
+  "field": "knowledge[with some autonomy].explain",
+  "before": "some 修饰不可数名词时表示“一定程度的”，不是“一些”",
+  "after": "此处 some 修饰抽象名词 autonomy，表示“一定程度的”，不宜理解成数量上的“一些”",
+  "reason": "some 修饰不可数名词也常表“一些”（some water），原句概括过度"
+ },
+ {
+  "kind": "sent",
+  "id": 10,
+  "field": "structure",
+  "before": "wits 用复数形式，表示“头脑，才智”",
+  "after": "wits 用复数形式，指“头脑，才智”，视频译为“机智/智慧”",
+  "reason": "与视频审定释义对齐"
+ },
+ {
+  "kind": "sent",
+  "id": 10,
+  "field": "knowledge[wits].explain",
+  "before": "wit 表“风趣，机智”时多用单数",
+  "after": "wit 表“风趣，机智”时是不可数名词",
+  "reason": "该义项为不可数名词，“多用单数”暗示可数，表述不准确"
+ },
+ {
+  "kind": "sent",
+  "id": 11,
+  "field": "structure",
+  "before": "完整形式为 (needing) about two (minutes) later",
+  "after": "完整形式为 later (needing) about two (minutes)",
+  "reason": "与 components 中的“= later needing about two minutes”及原文语序保持一致"
+ },
+ {
+  "kind": "sent",
+  "id": 12,
+  "field": "trunk.explain",
+  "before": "主谓宾结构的变体：discriminate 在此是不及物动词……作用相当于宾语",
+  "after": "主谓结构：discriminate 为不及物动词，介词短语 between two strangers 引出区分对象，discriminate between 整体相当于及物动词“区分”",
+  "reason": "不及物动词不带宾语，称“主谓宾结构的变体”术语不严谨"
+ },
+ {
+  "kind": "sent",
+  "id": 13,
+  "field": "grammar[0].examples[1]",
+  "before": "The data collected over the past decade point to a steady rise in sea levels.（过去分词）",
+  "after": "Residents living near the airport have complained about the noise for years.（现在分词）",
+  "reason": "该条标题是现在分词短语作后置定语，原例句示范的是过去分词，未真正示范该语法点"
+ },
+ {
+  "kind": "sent",
+  "id": 13,
+  "field": "knowledge[the Cambridge Declaration on Consciousness].explain",
+  "before": "在英国剑桥大学的一次学术会议上公开发表",
+  "after": "在英国剑桥大学举行的弗朗西斯·克里克纪念会议（Francis Crick Memorial Conference）上公开发表",
+  "reason": "补充具体、可查证的会议名称，内容更具体"
+ },
+ {
+  "kind": "sent",
+  "id": 13,
+  "field": "translation_tip",
+  "before": "拆出另起一句",
+  "after": "拆出另起一个分句",
+  "reason": "视频译文用逗号相连，是分句而不是另起一句"
+ },
+ {
+  "kind": "sent",
+  "id": 14,
+  "field": "structure / grammar[1].explain",
+  "before": "相当于 a review by the UK government in November 2021",
+  "after": "相当于 a review published by the UK government in November 2021",
+  "reason": "该报告由政府委托 LSE 完成、由政府发布，改为 published by 与 knowledge 中的事实一致"
+ },
+ {
+  "kind": "sent",
+  "id": 14,
+  "field": "grammar[0].explain",
+  "before": "不能直接说 recommend to do sth",
+  "after": "补充：不能说不带宾语的 recommend to do sth；recommend sb to do sth 在英式英语中可用，但较正式",
+  "reason": "Oxford 收录 recommend sb to do sth，原说法容易让学生误以为该结构也错误"
+ },
+ {
+  "kind": "sent",
+  "id": 14,
+  "field": "knowledge[UK government review].explain",
+  "before": "指英国政府委托伦敦政治经济学院（LSE）研究团队完成的评估报告",
+  "after": "指英国环境、食品和农村事务部（Defra）委托伦敦政治经济学院（LSE）研究团队完成的评估报告",
+  "reason": "补充委托机构，内容更具体，可查证"
+ },
+ {
+  "kind": "sent",
+  "id": 15,
+  "field": "knowledge[inner life].explain",
+  "before": "inner life 指内在的感受……视频译为“内心世界”",
+  "after": "视频把 inner 释为“内心”，inner life 在译文中为“内心世界”",
+  "reason": "重点词是 inner（zh_video 为“内心”），原说法与视频释义对应不准确"
+ },
+ {
+  "kind": "word",
+  "id": 1,
+  "field": "context_usage",
+  "before": "用复数且不加冠词，泛指馆里的这些工作人员。",
+  "after": "用零冠词复数，指该馆的饲养员这一群体，并非泛指所有饲养员。",
+  "reason": "after 从句说的是这家水族馆的饲养员，说“泛指”有误导"
+ },
+ {
+  "kind": "word",
+  "id": 1,
+  "field": "context_usage",
+  "before": "为后文的“越狱”作铺垫。语气中性。",
+  "after": "为后文的“越狱”作铺垫。",
+  "reason": "删去空话“语气中性”"
+ },
+ {
+  "kind": "word",
+  "id": 2,
+  "field": "example",
+  "before": "to evolve without mammal predators.",
+  "after": "to evolve without mammalian predators.",
+  "reason": "mammalian predators 是更地道的说法"
+ },
+ {
+  "kind": "word",
+  "id": 3,
+  "field": "etymology",
+  "before": "terrarium（陆生动物饲养箱）",
+  "after": "terrarium（饲养陆生动物或栽培植物的玻璃箱）",
+  "reason": "terrarium 也用于栽培植物，原释义过窄"
+ },
+ {
+  "kind": "word",
+  "id": 5,
+  "field": "context_usage",
+  "before": "creep 指身体贴近地面、缓慢而无声地移动，",
+  "after": "creep 指缓慢、轻声、小心地移动，以免被人看见或听见，也可指贴着地面爬行；",
+  "reason": "Oxford 释义核心是缓慢、悄声、不被察觉地移动，贴地只属爬行义，原说法混淆义项"
+ },
+ {
+  "kind": "word",
+  "id": 5,
+  "field": "context_usage",
+  "before": "“爬”对应章鱼贴着网罩移动的动作，",
+  "after": "“爬”对应 creep 的爬行义和章鱼的移动方式，",
+  "reason": "原文没有说章鱼贴着网罩移动，删去臆测细节"
+ },
+ {
+  "kind": "word",
+  "id": 5,
+  "field": "example",
+  "before": "猫沿着篱笆悄悄爬行，",
+  "after": "猫沿着篱笆悄悄向前挪动，",
+  "reason": "猫在篱笆上是行走而非爬行，原译不准确"
+ },
+ {
+  "kind": "word",
+  "id": 11,
+  "field": "senses",
+  "before": "敷布（读 /ˈkɒmpres/，重音在第一音节）",
+  "after": "敷布（英 /ˈkɒmpres/，美 /ˈkɑːmpres/，重音在第一音节）",
+  "reason": "补上名词的美式读音"
+ },
+ {
+  "kind": "word",
+  "id": 11,
+  "field": "example",
+  "before": "Engineers compress the natural gas into",
+  "after": "Engineers compress natural gas into",
+  "reason": "泛指天然气不加定冠词，原句冠词使用不当"
+ },
+ {
+  "kind": "word",
+  "id": 12,
+  "field": "context_usage",
+  "before": "从“能挤进去”过渡到“为什么能”。语气客观，属描写性用词。",
+  "after": "从“能挤进去”过渡到“为什么能”。",
+  "reason": "删去空话"
+ },
+ {
+  "kind": "word",
+  "id": 14,
+  "field": "context_usage",
+  "before": "这一细节交代了逃生通道的长度和去向，让读者知道 Inky 最终回到了大海。",
+  "after": "这一细节交代了逃生通道的长度和去向，暗示 Inky 很可能由此回到了大海。",
+  "reason": "原文只说管道通往太平洋，并未确证 Inky 入海（第2句用 presumably，结尾也只说 somewhere beyond the pipe），不能说成定论"
+ },
+ {
+  "kind": "word",
+  "id": 15,
+  "field": "context_usage",
+  "before": "交代了 Inky 的去向：它离开圈养环境，回到了大海。",
+  "after": "暗示了 Inky 的去向：它很可能离开圈养环境，回到了大海。",
+  "reason": "同上，原文没有确证 Inky 入海，改为推测语气"
+ },
+ {
+  "kind": "word",
+  "id": 15,
+  "field": "etymology",
+  "before": "Pacific 源自拉丁语 pacificus（带来和平的、平静的）",
+  "after": "Pacific 源自拉丁语 pacificus（使和平的，和平的）",
+  "reason": "拉丁语 pacificus 本义是“使和平的”，“平静的”是英语后来的用法"
+ },
+ {
+  "kind": "word",
+  "id": 15,
+  "field": "etymology",
+  "before": "便称它为“平静的海”（西班牙语 Mar Pacífico）",
+  "after": "便称它为 Mar Pacífico（平静的海）",
+  "reason": "Mar Pacífico 西班牙语、葡萄牙语同形，麦哲伦是葡萄牙人，删去不确切的语种标注"
+ },
+ {
+  "kind": "word",
+  "id": 19,
+  "field": "etymology",
+  "before": "ponere 还见于 position（位置）、compose（组成）、expose（暴露）、impose（强加）。",
+  "after": "ponere 还见于 position（位置）、component（组成部分）、opponent（对手）、postpone（推迟）。",
+  "reason": "Etymonline 记载 compose、expose、impose 经古法语 poser（来自晚期拉丁语 pausare）进入英语，只是受 ponere 影响，不能直接算 ponere 的派生词；换成确实来自 ponere 的词"
+ },
+ {
+  "kind": "word",
+  "id": 20,
+  "field": "distinction",
+  "before": "reside 正式，强调在某地合法、长期居住；",
+  "after": "reside 正式，多用于官方、法律文书，指在某地长期居住；",
+  "reason": "词典释义没有“合法”的含义，原说法过度引申"
+ },
+ {
+  "kind": "word",
+  "id": 21,
+  "field": "etymology",
+  "before": "14世纪末经古法语进入英语，源自拉丁语 captivitas（被俘状态）",
+  "after": "14世纪末进入英语，源自拉丁语 captivitas（被俘状态）",
+  "reason": "Etymonline 只记其源自拉丁语 captivitas，“经古法语”无据，删去"
+ },
+ {
+  "kind": "word",
+  "id": 22,
+  "field": "etymology",
+  "before": "源自古法语 retreuver（再次找到），由 re-（再）和 trouver（找到）构成",
+  "after": "源自古法语 retrover 的变位形式 retreuv-（再次找到），由 re-（再）和 trover（找到，现代法语作 trouver）构成",
+  "reason": "Etymonline 记作古法语 retrover，词干 retreuv-；trouver 是现代法语拼写"
+ },
+ {
+  "kind": "word",
+  "id": 23,
+  "field": "etymology",
+  "before": "词尾本与“鱼”无关，后来英国人按读音把它附会成 fish，写成 crayfish。",
+  "after": "词尾本与“鱼”无关，16世纪前后英语使用者按读音把它附会成 fish，写成 crayfish。",
+  "reason": "补上 Etymonline 所记的时间，改正“英国人”这一不严谨说法"
+ },
+ {
+  "kind": "word",
+  "id": 29,
+  "field": "etymology",
+  "before": "15世纪末进入英语，来自法语 pliable（可弯曲的），源自古法语 plier（弯曲，折叠），后者又来自拉丁语 plicare（折叠）。",
+  "after": "来自古法语 pliable（可弯曲的），由动词 plier（弯曲，折叠）派生，plier 又来自拉丁语 plicare（折叠）。",
+  "reason": "进入英语的年代没有把握，删去；改为直接来自古法语"
+ },
+ {
+  "kind": "word",
+  "id": 35,
+  "field": "context_usage",
+  "before": "Roughly two-thirds of its 500 million neurons 是全句主语，neurons 是 of 后面的名词中心词",
+  "after": "主语中心词是 two-thirds，neurons 是介词 of 的宾语",
+  "reason": "原说法把 neurons 称作中心词，与“分数 + of + 名词”的主语结构分析不符，易误导"
+ },
+ {
+  "kind": "word",
+  "id": 35,
+  "field": "etymology",
+  "before": "1891年…采用为术语；前缀 neuro-（神经）也由 neuron 而来",
+  "after": "1891年…创用（德语 Neuron）；前缀 neuro- 同样来自希腊语 neuron，neurology 一词17世纪就已出现",
+  "reason": "Etymonline：neuro- 来自希腊语 neuron，不是由1891年的英语术语 neuron 派生；neurology 早在17世纪就有"
+ },
+ {
+  "kind": "word",
+  "id": 36,
+  "field": "senses",
+  "before": "（动物的）肢体，如腿、翅膀、章鱼的腕（本文）",
+  "after": "（动物的）肢体，如腿、翅膀；章鱼的腕足（本文）",
+  "reason": "本文义项与视频中文“腕足”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 37,
+  "field": "example",
+  "before": "Babies learn about the world largely through sensory input, touching, tasting, and listening to everything around them.",
+  "after": "Babies learn about the world largely through sensory input: they touch, taste, and listen to everything around them.",
+  "reason": "原句逗号后接分词串，读起来像 sensory input 与 touching 等四项并列，结构有歧义；改用冒号加完整分句，与中文译文结构一致"
+ },
+ {
+  "kind": "word",
+  "id": 37,
+  "field": "etymology",
+  "before": "18世纪出现时指“投入的款项”，20世纪中期起随着计算机普及，常指输入系统的数据和信息",
+  "after": "18世纪中期出现时指“投入的款项”，20世纪中期起用于计算机领域，指输入系统的数据和信息；sens- 注明为过去分词词干",
+  "reason": "按 Etymonline 表述收紧（computing sense 约1948年），删去“随着计算机普及”这一无据的因果说法"
+ },
+ {
+  "kind": "word",
+  "id": 38,
+  "field": "form_note",
+  "before": "文中为原形，是一般现在时复数形式",
+  "after": "文中为原形，一般现在时；主语 which 指复数名词 the limbs，react 与 handle 并列作谓语",
+  "reason": "“原形”和“复数形式”混为一谈，表述不准确"
+ },
+ {
+  "kind": "word",
+  "id": 46,
+  "field": "context_usage",
+  "before": "discriminate between 后接比较对象 two strangers…discriminate between A and B 是固定结构",
+  "after": "between 后直接接复数名词 two strangers，再由同位语说明 A、B；discriminate between A and B 或 between + 复数名词",
+  "reason": "文中并非 between A and B 形式，补充说明 between + 复数名词的用法，与原句结构对得上"
+ },
+ {
+  "kind": "word",
+  "id": 47,
+  "field": "senses",
+  "before": "n.（作定语）支线的，输送用的（feeder road/school）",
+  "after": "n. 支线（与主干相连的道路、河流、航线等）；（作定语）输送用的",
+  "reason": "词性标为 n.，中文却只给了形容词式释义，与词性不符"
+ },
+ {
+  "kind": "word",
+  "id": 48,
+  "field": "context_usage",
+  "before": "所以这个词暗含“令人不快”的意味",
+  "after": "bristly 本身是中性的描写词；放在本句里，这根棍子给章鱼带来不舒服的刺激",
+  "reason": "bristly 词义本身并不含“令人不快”，不适感来自语境，原说法误导"
+ },
+ {
+  "kind": "word",
+  "id": 48,
+  "field": "form_note",
+  "before": "由名词 bristle 加形容词后缀 -y 构成",
+  "after": "由名词 bristle 去掉词尾 e 加形容词后缀 -y 构成",
+  "reason": "补全拼写变化"
+ },
+ {
+  "kind": "word",
+  "id": 51,
+  "field": "distinction",
+  "before": "shade 指同一种颜色的深浅变化（a darker shade of blue），尤指加深",
+  "after": "shade 指同一种颜色的深浅变化（a darker shade of blue、a pale shade of pink）",
+  "reason": "Oxford/Cambridge：shade 指颜色深浅，可深可浅，“尤指加深”属于绘画调色术语，用于一般词义辨析会误导"
+ },
+ {
+  "kind": "word",
+  "id": 58,
+  "field": "usage_detail",
+  "before": "aware 作前置定语时多为“有见识的，懂行的”，如 politically aware",
+  "after": "aware 还可表示“有见识的，懂行的”，常与副词连用，如 politically aware、environmentally aware",
+  "reason": "politically aware 多作表语，原说法把这一义项限定在前置定语不准确"
+ },
+ {
+  "kind": "word",
+  "id": 59,
+  "field": "context_usage",
+  "before": "treat sb/sth as + 形容词表示“把……看作……”",
+  "after": "在此后加上：视频译为“认定它们有感知力”",
+  "reason": "与视频审定译文挂钩，说明译法来由"
+ },
+ {
+  "kind": "word",
+  "id": 60,
+  "field": "distinction",
+  "before": "cover 表示“涉及，涵盖（某些话题）”，较口语",
+  "after": "cover 表示“涉及，涵盖（某些话题、范围）”，语体中性，日常和正式场合都常用",
+  "reason": "cover 在词典中并无口语标签，正式文本中也很常用，原说法不准确"
+ },
+ {
+  "kind": "word",
+  "id": 60,
+  "field": "senses",
+  "before": "包含，包括，涵盖（本文）",
+  "after": "包含，包括，涵盖；把……纳入（本文）",
+  "reason": "本文义项与视频中文“纳入了/包括”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 50,
+  "field": "senses",
+  "before": "呈现，摆出（姿势、表情、语气）（本文）",
+  "after": "采用，呈现，摆出（姿势、颜色、表情、语气）（本文）",
+  "reason": "本文义项要与视频中文“采用”一致，并包含文中的宾语 hue"
+ },
+ {
+  "kind": "word",
+  "id": 52,
+  "field": "senses",
+  "before": "姿势，体态（本文）",
+  "after": "姿势，姿态，体态（本文）",
+  "reason": "本文义项与视频中文“姿态”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 48,
+  "field": "senses",
+  "before": "长满硬毛的，有刚毛的（本文）",
+  "after": "长满硬毛的，有刚毛的，带刺毛的（本文）",
+  "reason": "本文义项与视频中文“带刺毛的”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 40,
+  "field": "senses",
+  "before": "（wits）头脑，才智，理智（本文）",
+  "after": "（wits）头脑，才智，机智，智慧（本文）",
+  "reason": "本文义项与视频中文“机智/智慧”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 34,
+  "field": "senses",
+  "before": "容纳，装得下（本文）",
+  "after": "容纳，容得下，装得下（本文）",
+  "reason": "本文义项与视频中文“容得下”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 42,
+  "field": "senses",
+  "before": "（动植物的）身体结构，解剖结构（本文）",
+  "after": "（动植物的）身体结构，身体构造，解剖结构（本文）",
+  "reason": "本文义项与视频中文“身体构造”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 45,
+  "field": "senses",
+  "before": "起初，开始时（本文）",
+  "after": "起初，开始时，最开始的时候（本文）",
+  "reason": "本文义项与视频中文“起初/最开始的时候”保持一致"
+ },
+ {
+  "kind": "word",
+  "id": 49,
+  "field": "senses",
+  "before": "棍，棒；枝条（本文）",
+  "after": "棍，棒，棍子；枝条（本文）",
+  "reason": "本文义项与视频中文“棍子”保持一致"
+ }
+]
