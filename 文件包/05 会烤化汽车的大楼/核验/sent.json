@@ -1,0 +1,1714 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "the news",
+   "predicate": "broke",
+   "object_or_complement": "",
+   "explain": "主干是 the news broke，主谓结构；break 在此是不及物动词，意为（消息）传开、被公开，不带宾语。谓语 broke 是 break 的过去式，一般过去时，主动语态。说明 news 内容的同位语从句被谓语隔开，移到了句末。"
+  },
+  "components": [
+   {
+    "text": "On 2 September 2013",
+    "zh": "2013年9月2日",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "the news",
+    "zh": "一则新闻",
+    "role": "主语"
+   },
+   {
+    "text": "broke",
+    "zh": "传开",
+    "role": "谓语（不及物动词，消息传开）"
+   },
+   {
+    "text": "that",
+    "zh": "说",
+    "role": "同位语从句的引导词（在从句中不作成分）"
+   },
+   {
+    "text": "a London skyscraper",
+    "zh": "伦敦一座……摩天大楼",
+    "role": "同位语从句的主语（London 是名词作前置定语）"
+   },
+   {
+    "text": "under construction",
+    "zh": "正在建设中的",
+    "role": "后置定语（介词短语），修饰 skyscraper"
+   },
+   {
+    "text": "had damaged",
+    "zh": "损坏了",
+    "role": "同位语从句的谓语（过去完成时）"
+   },
+   {
+    "text": "a Jaguar.",
+    "zh": "一辆捷豹车",
+    "role": "同位语从句的宾语"
+   }
+  ],
+  "structure": "①主句是 the news broke：主语 the news，谓语 broke 是不及物动词，意为“消息传开”。句首 On 2 September 2013 是介词短语作时间状语，具体到某一天的日期前用介词 on。\n②that 引导同位语从句，说明 news 的具体内容（视频说明：同位语从句，说明 news 的内容，被谓语 broke 隔开）。从句本应紧跟在 news 后面，但主句谓语只有 broke 一个词，若把长从句放在 news 后，主语长、谓语短，句子头重脚轻，所以把从句移到谓语之后，形成“名词 + 谓语 + 同位语从句”的分隔结构。that 在同位语从句中不作任何成分，只起连接作用，不能省略。\n③从句主语是 a London skyscraper，London 是名词作前置定语，说明大楼所在的城市；under construction 是介词短语作后置定语，修饰 skyscraper，意为“在建的”。从句谓语 had damaged 用过去完成时，因为大楼损坏汽车发生在新闻传开之前；宾语 a Jaguar 指一辆捷豹牌汽车。\n④本句是全文开头，按新闻报道的方式交代时间、地点和事件：一座还没建成的大楼竟然“损坏”了一辆车，制造悬念，下文才解释原因。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语从句被谓语隔开",
+    "explain": "同位语从句用来说明抽象名词的具体内容，常见的先行名词有 news、fact、idea、belief、evidence、hope、possibility、rumour 等。that 在同位语从句中不充当任何成分，后面是一个完整的句子；定语从句中的 that 则在从句里充当主语、宾语等成分，这是两者最可靠的区分方法。主语带同位语从句而谓语很短时，英语常把从句移到谓语之后，避免头重脚轻，如本句 the news broke that…，又如 A rumour spread that…、Word came that…。考研阅读中遇到 that 从句与前面的名词被谓语隔开，要回头找它所说明的名词，不能把它误判为宾语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Word came that the negotiations had collapsed.",
+      "zh": "消息传来，说谈判已经破裂。"
+     },
+     {
+      "en": "A rumour spread that the company was about to close its factory in the north.",
+      "zh": "有传言说，这家公司即将关闭它在北部的工厂。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经发生的事。本句主句 the news broke 发生在过去，大楼损坏汽车又在新闻传开之前，所以从句谓语用 had damaged。阅读叙事性文章时，可以借助过去完成时理清事件的先后顺序：第2句的 had left 同样表示车主停车在他回来之前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the ambulance arrived, the injured man had already lost a lot of blood.",
+      "zh": "救护车赶到时，那名伤者已经失血很多。"
+     }
+    ]
+   },
+   {
+    "title": "under + 名词 表示“正在……中”",
+    "explain": "介词 under 后接某些动作名词，表示事物正处于某一过程之中，常见的有 under construction（在建）、under discussion（在讨论中）、under review（在审查中）、under investigation（在调查中）、under repair（在维修中）、under way（在进行中）。这类介词短语常放在名词后作后置定语，也可作表语，如 The bridge is under repair。本句 a London skyscraper under construction 即“一座在建的摩天大楼”，翻译时前移为定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several bridges under repair have been closed to heavy vehicles.",
+      "zh": "几座正在维修的桥梁已禁止重型车辆通行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the news broke",
+    "explain": "熟词僻义：break 作不及物动词，指消息、新闻被公开、传开，如 The scandal broke in May（丑闻在五月曝光）。相关搭配有 breaking news（突发新闻）、break the news to sb（把消息，多为坏消息，告诉某人）。news 是不可数名词，谓语用单数，表示“一则新闻”要说 a piece of news。"
+   },
+   {
+    "term": "Jaguar",
+    "explain": "首字母大写时指英国汽车品牌捷豹，a Jaguar 即一辆捷豹牌汽车，品牌名可以直接指该品牌的产品；首字母小写的 jaguar 是动物美洲豹。视频译为“一辆捷豹车”。"
+   },
+   {
+    "term": "On 2 September 2013",
+    "explain": "英式日期写法是“日 月 年”（2 September 2013），美式常写成“月 日, 年”（September 2, 2013）。具体某一天前用介词 on，只有月份或年份时用 in，如第18句 In September 2015。"
+   },
+   {
+    "term": "skyscraper",
+    "explain": "由 sky（天空）和 scraper（刮擦的东西）构成，字面义是“刮擦天空的东西”，指摩天大楼。本句 a London skyscraper 中，London 是名词作定语，说明大楼在伦敦。"
+   }
+  ],
+  "translation_tip": "视频译文“2013年9月2日，一则新闻传开，说伦敦一座正在建设中的摩天大楼损坏了一辆捷豹车。”的处理：①时间状语按汉语习惯写成“2013年9月2日”，年月日由大到小排列。②主句 the news broke 译成短句“一则新闻传开”，news 是不可数名词，增补量词“一则”。③同位语从句没有译成“……的新闻”这样的长定语，而是用“说”引出，独立成句，既保留英文先交代“消息传开”、再说明内容的顺序，又避免主语过长。④后置定语 under construction 前移，译为“正在建设中的”；a London skyscraper 中的 London 和不定冠词分别译为“伦敦”“一座”；a Jaguar 增补“车”字，译为“一辆捷豹车”，点明这是汽车品牌。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Martin Lindsay",
+   "predicate": "had left",
+   "object_or_complement": "the saloon",
+   "explain": "主谓宾结构，后接地点状语。leave 在此意为“把……留在、停放在某处”，构成 leave sth + 地点。谓语 had left 为过去完成时、主动语态，表示停车发生在下句 returned（回来）之前。"
+  },
+  "components": [
+   {
+    "text": "Martin Lindsay",
+    "zh": "马丁·林赛",
+    "role": "主语"
+   },
+   {
+    "text": "had left",
+    "zh": "把……停在",
+    "role": "谓语（过去完成时，leave sth somewhere 意为把某物停放在某处）"
+   },
+   {
+    "text": "the saloon",
+    "zh": "这辆轿车",
+    "role": "宾语（the 回指上句的 a Jaguar）"
+   },
+   {
+    "text": "by the pavement",
+    "zh": "人行道旁边",
+    "role": "地点状语（介词短语，by 意为在……旁边）"
+   },
+   {
+    "text": "on Eastcheap,",
+    "zh": "伊斯特奇普街的",
+    "role": "后置定语（介词短语），修饰 the pavement"
+   },
+   {
+    "text": "opposite the tower's frontage.",
+    "zh": "正对着这座高楼的正面",
+    "role": "地点状语（介词短语），补充说明停车位置"
+   }
+  ],
+  "structure": "①主句 Martin Lindsay had left the saloon：主语是车主马丁·林赛，谓语 had left，宾语 the saloon 指上句的那辆捷豹车，定冠词 the 表示回指。leave sth somewhere 意为“把某物停放在某处”（视频说明）。\n②by the pavement 是介词短语作地点状语，by 意为“在……旁边”；on Eastcheap 是介词短语作后置定语，修饰 pavement，说明是哪条街的人行道，表示“在某条街上”用介词 on。\n③逗号后 opposite the tower's frontage 是第二个地点状语，opposite 是介词，意为“在……对面”，补充说明汽车停放的位置正对着大楼正面（视频说明：介词短语，补充说明位置）。the tower 回指第1句的 skyscraper，换词避免重复。这一位置交代为后文大楼反光烤坏汽车埋下伏笔。\n④过去完成时 had left 与下句的 returned 构成先后关系：先停车离开，后回来发现车已受损。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "leave sth + 地点：把某物留在、停在某处",
+    "explain": "leave 最常见的意思是“离开”，作及物动词时还可表示“把某物留在某处”，后接地点状语，如 leave the keys on the table、leave the car outside。本句 had left the saloon by the pavement 即“把车停在人行道旁”。易错点：“把东西忘在某处”要用 leave，不能用 forget，如 I left my umbrella on the bus，不说 I forgot my umbrella on the bus；forget 后面一般不接地点状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He left his laptop in a taxi and only noticed when he got home.",
+      "zh": "他把笔记本电脑落在了出租车上，回到家才发现。"
+     },
+     {
+      "en": "Visitors are asked to leave their bags at the entrance.",
+      "zh": "参观者须将包寄存在入口处。"
+     }
+    ]
+   },
+   {
+    "title": "opposite 作介词",
+    "explain": "opposite 作介词意为“在……对面”，后面直接接名词，不加 to，如 opposite the bank；作形容词意为“对面的；相反的”，表示“对面的”时可以放在名词后，如 the house opposite（对面的房子）；表示“与……相反”时常用 the opposite of sth。本句 opposite the tower's frontage 中 opposite 是介词，引出地点状语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bus stop is directly opposite the town hall.",
+      "zh": "公交车站就在市政厅正对面。"
+     }
+    ]
+   },
+   {
+    "title": "无生命名词的所有格",
+    "explain": "名词所有格 's 主要用于人和动物，但新闻语体中，表示建筑、机构、国家、城市以及时间的名词也常用 's，如 the city's population、the company's profits、today's newspaper。本句 the tower's frontage 也可写成 the frontage of the tower，用 's 更简洁。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The building's main entrance faces a busy road.",
+      "zh": "这栋楼的正门朝向一条繁忙的马路。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "saloon",
+    "explain": "英式英语指轿车（尤指四门的普通轿车），美式英语说 sedan；另一个意思是“酒馆”，美国西部片里的 saloon 就是酒馆。本句指上句的捷豹车，视频译为“轿车”。"
+   },
+   {
+    "term": "pavement",
+    "explain": "英式英语指人行道，美式英语说 sidewalk；在美式英语中 pavement 多指铺过的路面。视频译为“人行道”。"
+   },
+   {
+    "term": "Eastcheap",
+    "explain": "伦敦金融城（the City of London）的一条街道，视频音译为“伊斯特奇普街”。cheap 的古英语形式 cēap 原义是“交易，买卖”，伦敦的 Eastcheap、Cheapside 都是历史上的集市街，街名中的 cheap 与“便宜”无关。"
+   },
+   {
+    "term": "frontage",
+    "explain": "名词，指建筑物临街的正面，由 front（前面）加名词后缀 -age 构成。视频译为“正面”。"
+   }
+  ],
+  "translation_tip": "视频译文“马丁·林赛把这辆轿车停在伊斯特奇普街的人行道旁边，正对着这座高楼的正面。”的处理：①leave sth by… 没有直译为“留下”，按停车的语境译为“停在”，并用“把”字句把宾语“这辆轿车”提到动词前，句子更紧凑。②the saloon 中的 the 回指上文的捷豹车，译为“这辆”。③on Eastcheap 是 pavement 的后置定语，前移为“伊斯特奇普街的人行道”；by 译为“旁边”，放在名词之后。④opposite 短语保留在句末，单独成为分句“正对着这座高楼的正面”，the tower 译为“这座高楼”。⑤过去完成时没有专门的词译出，汉语靠上下文体现先后。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "He",
+   "predicate": "returned",
+   "object_or_complement": "",
+   "explain": "主干是 He returned，主谓结构，return 在此是不及物动词，谓语为一般过去时、主动语态。后面的 to find… 是不定式短语作结果状语，find 带三组“宾语 + 宾语补足语”。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "zh": "他",
+    "role": "主语（指车主马丁·林赛）"
+   },
+   {
+    "text": "returned",
+    "zh": "回来时",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "to find",
+    "zh": "发现",
+    "role": "结果状语（不定式），find 带三组复合宾语"
+   },
+   {
+    "text": "its wing mirror",
+    "zh": "车的后视镜",
+    "role": "find 的宾语一"
+   },
+   {
+    "text": "warped,",
+    "zh": "已经翘曲",
+    "role": "宾语补足语一（过去分词，表示状态）"
+   },
+   {
+    "text": "its panels",
+    "zh": "车身板",
+    "role": "find 的宾语二"
+   },
+   {
+    "text": "deformed",
+    "zh": "变形",
+    "role": "宾语补足语二（过去分词，表示状态）"
+   },
+   {
+    "text": "and",
+    "zh": "并且",
+    "role": "并列连词，连接第三组复合宾语"
+   },
+   {
+    "text": "its badge",
+    "zh": "车标",
+    "role": "find 的宾语三"
+   },
+   {
+    "text": "distorted.",
+    "zh": "也扭曲了",
+    "role": "宾语补足语三（过去分词，表示状态）"
+   }
+  ],
+  "structure": "①主句 He returned，主语 He 指上句的车主马丁·林赛，谓语 returned 是不及物动词。\n②to find… 是不定式短语作结果状语，表示“回来后发现”（视频说明：不定式表结果）。return to find、wake up to find、arrive to find 这类结构中，不定式不表目的，而表示主语随后发现的、往往出乎意料的情况。\n③find 后接三组复合宾语，结构都是“宾语 + 过去分词作宾语补足语”：its wing mirror warped、its panels deformed、its badge distorted（视频说明：find sth done，发现某物处于……状态，三组并列）。三个 its 都指那辆车。过去分词表示宾语已处于被损坏后的状态：后视镜翘曲，车身板变形，车标扭曲。\n④三组复合宾语结构相同，最后一组前用 and 连接，句式整齐；warped、deformed、distorted 三个意思相近的词分别对应不同部件，逐项列举受损情况，为下句揭示原因作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "不定式作结果状语",
+    "explain": "不定式通常表示目的，但在 return、wake (up)、arrive、grow up 等动词后，以及 only to do 结构中，可以表示随之而来的、常常出乎意料的结果，意为“结果却……”。比较：He went to the station to meet his friend（目的）；He hurried to the station, only to find the train had left（结果，常含失望）。本句 returned to find 即“回来后发现”。考研翻译中，这类不定式要译成“……时/后发现”，不能译成“为了发现”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She woke up to find the whole street covered in snow.",
+      "zh": "她醒来时发现整条街都被雪覆盖了。"
+     },
+     {
+      "en": "They rushed to the airport, only to find that their flight had been cancelled.",
+      "zh": "他们匆匆赶到机场，结果发现航班已被取消。"
+     }
+    ]
+   },
+   {
+    "title": "find + 宾语 + 宾语补足语",
+    "explain": "find 可接复合宾语，宾补可以是形容词、过去分词、现在分词、名词或介词短语，如 find the door locked（发现门锁着）、find him waiting（发现他正在等）、find the task easy（觉得任务容易）。宾补用过去分词时，表示宾语处于被动或完成后的状态；用现在分词时，表示宾语正在主动做某事。本句三个过去分词 warped、deformed、distorted 都说明车的部件已经损坏的状态。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the inspectors arrived, they found the factory abandoned and its machinery stripped.",
+      "zh": "检查人员到达时，发现工厂已被废弃，机器也被拆走了。"
+     },
+     {
+      "en": "I found the children playing quietly in the garden.",
+      "zh": "我发现孩子们正在花园里安静地玩耍。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "wing mirror",
+    "explain": "英式英语，指装在汽车车门外侧的后视镜，美式英语说 side mirror 或 side-view mirror；车内中间的后视镜叫 rear-view mirror。英式英语中 wing 可指汽车车轮上方的翼子板（美式说 fender）。视频译为“后视镜”。"
+   },
+   {
+    "term": "panel",
+    "explain": "指一块平板，用于汽车时指车身的板件，如 body panels（车身面板）。本句视频译为“车身板”。"
+   },
+   {
+    "term": "badge",
+    "explain": "常见义是“徽章”，用于汽车指车上的品牌标志，视频译为“车标”。"
+   },
+   {
+    "term": "warped / deformed / distorted",
+    "explain": "三个词都表示变形：warp 多指木板、金属等受热或受潮后弯曲、翘起；deform 指形状被改变、变得不正常；distort 指被扭曲、走样，也常用于比喻“歪曲事实”。视频分别译为“翘曲”“变形”“扭曲”。"
+   }
+  ],
+  "translation_tip": "视频译文“他回来时发现，车的后视镜已经翘曲，车身板变形，并且车标也扭曲了。”的处理：①return to find 译为“他回来时发现”，不定式的结果义用“回来时……发现”表达，没有译成“为了发现”，并在“发现”后加逗号，后面的三组内容依次展开。②三组复合宾语都译成主谓结构的小句：“车的后视镜已经翘曲”“车身板变形”“车标也扭曲了”，宾补译成谓语。③its 只在第一组译为“车的”，后两组承前省略。④“已经”“了”体现过去分词所含的完成状态；最后一组前的 and 译为“并且”，再加“也”，表示损坏一项接一项。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The glazed facade above",
+   "predicate": "was",
+   "object_or_complement": "to blame",
+   "explain": "主系表结构，系动词 was 为一般过去时；表语是不定式 to blame，be to blame 是固定说法，意为“应负责任，是……的原因”。"
+  },
+  "components": [
+   {
+    "text": "The glazed facade",
+    "zh": "那面镶玻璃的正面墙",
+    "role": "主语（glazed 是形容词作前置定语）"
+   },
+   {
+    "text": "above",
+    "zh": "上方",
+    "role": "后置定语（副词），修饰 facade"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词"
+   },
+   {
+    "text": "to blame.",
+    "zh": "罪魁祸首",
+    "role": "表语（不定式，be to blame 固定结构）"
+   }
+  ],
+  "structure": "①主语 The glazed facade above：中心词 facade 指建筑物的正面、外立面；glazed 是形容词作前置定语，意为“镶玻璃的”；above 是副词作后置定语，意为“上方的”，指停车处上方的大楼外墙。\n②谓语部分 was to blame：be to blame 是固定结构，意为“应负责任，是……的原因”（视频说明），用主动形式的不定式表达被动意义。若要说明对什么负责，用 be to blame for sth，本句承上文省略了 for the damage。\n③本句回答上文的悬念：汽车受损的原因在于大楼的玻璃外墙。视频说明补充了原理：这面玻璃外墙向内弯曲，像凹面镜一样，把阳光反射并集中到街面，造成局部高温。第5至7句具体展开这一原理。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be to blame：主动形式表被动意义",
+    "explain": "be to blame 意为“应受责备，应负责任”，不定式用主动形式 to blame，却表示“被责备”，不能写成 be to be blamed。说明原因时接 for sth，如 Who is to blame for the accident?。也可以用 blame 作及物动词改写：blame A for B、blame B on A。考研写作分析问题成因时常用，如 Parents are partly to blame for…（父母对……负有部分责任）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Investigators concluded that faulty wiring was to blame for the fire.",
+      "zh": "调查人员认定，线路故障是这场火灾的起因。"
+     },
+     {
+      "en": "Neither side is entirely to blame for the breakdown of the talks.",
+      "zh": "谈判破裂，双方都不应负全部责任。"
+     }
+    ]
+   },
+   {
+    "title": "副词作后置定语",
+    "explain": "表示地点、方位的副词，如 above、below、here、there、upstairs、downstairs、abroad，可以放在名词后作定语，如 the flat above（楼上的公寓）、the example below（下面的例子）、people here（这里的人）、a trip abroad（出国旅行）。本句 the glazed facade above 即“上方那面镶玻璃的外墙”，翻译时要前移。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The noise from the flat above kept me awake all night.",
+      "zh": "楼上那套公寓传来的噪音让我整夜没睡着。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "facade",
+    "explain": "来自法语，也写作 façade，指建筑物的正面、外立面；比喻义是“假象，表面”，如 behind a facade of calm（在平静的外表下）。视频译为“正面墙”。"
+   },
+   {
+    "term": "glazed",
+    "explain": "glaze 作动词意为“给（窗户、门）装玻璃”或“给陶瓷上釉”，glazed 即“镶玻璃的；上了釉的”。相关的 double glazing 指双层玻璃窗。本句视频译为“镶玻璃的”。"
+   }
+  ],
+  "translation_tip": "视频译文“上方那面镶玻璃的正面墙是罪魁祸首。”的处理：①后置定语 above 前移，译为“上方”，再加指示词和量词“那面”，回指停车处正上方的外墙。②glazed 作前置定语，按原位置译为“镶玻璃的”。③be to blame 没有直译为“应受责备”，而译为“是罪魁祸首”，点明外墙是汽车受损的根源，语气生动，与新闻的诙谐口吻一致。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Rafael Viñoly",
+   "predicate": "curved",
+   "object_or_complement": "the south face of 20 Fenchurch Street",
+   "explain": "主谓宾结构，curve sth inward 意为“使……向内弯曲”，inward 是方向副词。谓语 curved 为一般过去时、主动语态。句末带现在分词短语作结果状语，其中又含一个非限制性定语从句。"
+  },
+  "components": [
+   {
+    "text": "Rafael Viñoly",
+    "zh": "拉斐尔·维诺利",
+    "role": "主语"
+   },
+   {
+    "text": "curved",
+    "zh": "将……弯曲",
+    "role": "谓语（及物动词，curve sth inward）"
+   },
+   {
+    "text": "the south face",
+    "zh": "南立面",
+    "role": "宾语"
+   },
+   {
+    "text": "of 20 Fenchurch Street",
+    "zh": "芬丘奇街20号的",
+    "role": "后置定语（介词短语），修饰 the south face"
+   },
+   {
+    "text": "inward,",
+    "zh": "向内",
+    "role": "方向状语（副词）"
+   },
+   {
+    "text": "enlarging",
+    "zh": "扩大了",
+    "role": "结果状语（现在分词短语）的中心词"
+   },
+   {
+    "text": "the upper storeys,",
+    "zh": "上部楼层",
+    "role": "enlarging 的宾语"
+   },
+   {
+    "text": "where tenants pay a premium.",
+    "zh": "那里的租户支付着溢价",
+    "role": "非限制性定语从句，修饰 the upper storeys"
+   }
+  ],
+  "structure": "①主句 Rafael Viñoly curved the south face of 20 Fenchurch Street inward：主语是建筑师拉斐尔·维诺利，谓语 curved 是及物动词，宾语 the south face，of 20 Fenchurch Street 作后置定语，说明是哪栋楼的南立面；inward 是副词，放在宾语后作方向状语（视频说明：curve sth inward，使……向内弯曲）。建筑师并没有亲手弯曲墙面，curved 指他把南立面设计成向内凹的弧形，所以视频增补“（在设计中）”。\n②逗号后 enlarging the upper storeys 是现在分词短语作结果状语（视频说明），表示主句动作带来的结果：南立面向内弯曲，使上部楼层的面积扩大，也就是越往上楼层越大。\n③where 引导非限制性定语从句，先行词是 the upper storeys（视频说明：修饰 storeys），where 在从句中作地点状语，相当于 on which。从句 tenants pay a premium 说明这些楼层的租户付的租金更高，交代了这种设计的商业动机：扩大租金更高的上层面积。\n④从句谓语 pay 用一般现在时，表示现在仍然如此的情况，与主句的一般过去时不冲突。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末并用逗号隔开时，常表示前面动作带来的自然结果，相当于 and + 谓语，或 which 引导的、指代整个主句的定语从句。常见的有 …, causing…、…, leading to…、…, making…、…, leaving…。本句 enlarging the upper storeys 相当于 and this enlarged the upper storeys。与不定式表结果不同，分词表示的是顺理成章的结果，only to do 则多表示意外的结果。考研阅读和写作中常见 …, resulting in…、…, making it possible to… 等结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river burst its banks, flooding hundreds of homes.",
+      "zh": "河水决堤，淹没了数百户人家。"
+     },
+     {
+      "en": "Interest rates rose sharply, making mortgages unaffordable for many young buyers.",
+      "zh": "利率急剧上升，许多年轻购房者因此负担不起房贷。"
+     }
+    ]
+   },
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "where 是关系副词，先行词是表示地点的名词（也可以是表示场合、情况的抽象名词），在从句中作地点状语，相当于“介词 + which”。本句先行词 the upper storeys，where = on which。用 where 还是 which，要看从句缺什么成分：tenants pay a premium 主谓宾齐全，缺的是地点状语，所以用 where；如果从句缺宾语，如 the floors which tenants rent，就要用 which 或 that。非限制性定语从句前有逗号，对先行词作补充说明。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The conference was held in Geneva, where the organisation has its headquarters.",
+      "zh": "会议在日内瓦举行，该组织的总部就设在那里。"
+     },
+     {
+      "en": "They moved to the coast, where house prices were still affordable.",
+      "zh": "他们搬到了海边，那里的房价还负担得起。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "20 Fenchurch Street",
+    "explain": "伦敦金融城的一座摩天大楼，以所在街道和门牌号命名，视频译为“芬丘奇街20号”；因外形像对讲机，俗称 the Walkie-Talkie（见第11句）。英国地址中门牌号写在街名前面。"
+   },
+   {
+    "term": "Rafael Viñoly",
+    "explain": "拉斐尔·维诺利，生于乌拉圭、在纽约执业的建筑师，芬丘奇街20号的设计者。姓氏中的 ñ 是西班牙语字母。"
+   },
+   {
+    "term": "the south face",
+    "explain": "熟词僻义：face 指建筑物、山体等的一个面，如 the north face of the mountain（山的北壁）。视频译为“南立面”，“立面”是建筑术语，指建筑物的外墙面。伦敦位于北半球，太阳大部分时间在南方天空，所以朝南的内凹立面会接收并反射大量阳光。"
+   },
+   {
+    "term": "storey",
+    "explain": "英式拼写，美式拼写为 story，指楼层，如 a 30-storey building（一栋30层的大楼）。本句复数 storeys 视频译为“楼层”。"
+   },
+   {
+    "term": "pay a premium",
+    "explain": "premium 指在正常价格之外多付的钱，pay a premium (for sth) 意为“（为某物）支付溢价”，本句指上层租户支付更高的租金。相关说法有 at a premium（溢价；稀缺）。"
+   }
+  ],
+  "translation_tip": "视频译文“拉斐尔·维诺利（在设计中）将芬丘奇街20号的南立面向内弯曲，扩大了上部楼层，那里的租户支付着溢价（更高的租金）。”的处理：①主句用“将”字句把宾语“南立面”提到动词前，译为“将……南立面向内弯曲”；增补“（在设计中）”，说明 curved 指设计上的处理。②of 短语前移，译为“芬丘奇街20号的南立面”。③结果状语 enlarging… 译成并列短句“扩大了上部楼层”，紧跟主句，体现因果先后。④非限制性定语从句没有前置，单独成句，用“那里的”回指上部楼层，与 where 的地点含义对应；premium 译为“溢价”，并在括号中注明“更高的租金”，“支付着”体现一般现在时所表示的持续状态。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "That geometry",
+   "predicate": "acted",
+   "object_or_complement": "",
+   "explain": "主谓结构，act 为不及物动词，like a magnifying glass 是介词短语，说明这种几何形状起作用的方式（像放大镜一样）。谓语 acted 为一般过去时、主动语态。句末是现在分词短语作结果状语。"
+  },
+  "components": [
+   {
+    "text": "That geometry",
+    "zh": "这种几何形状",
+    "role": "主语（that 回指上句向内弯曲的南立面）"
+   },
+   {
+    "text": "acted like",
+    "zh": "就像",
+    "role": "谓语 acted + 介词 like（act like：像……一样起作用）"
+   },
+   {
+    "text": "a magnifying glass,",
+    "zh": "一面放大镜",
+    "role": "介词 like 的宾语"
+   },
+   {
+    "text": "focusing sunlight",
+    "zh": "把阳光汇聚",
+    "role": "结果状语（现在分词短语），sunlight 是 focusing 的宾语"
+   },
+   {
+    "text": "into a beam",
+    "zh": "成一道光束",
+    "role": "介词短语，与 focusing 构成 focus A into B"
+   },
+   {
+    "text": "up to six times brighter than direct sun.",
+    "zh": "亮度可达直射阳光的六倍",
+    "role": "后置定语（形容词短语），修饰 a beam"
+   }
+  ],
+  "structure": "①主句 That geometry acted like a magnifying glass：主语 That geometry 中 that 回指上句描述的形状，即向内弯曲的南立面；谓语 acted 后接 like 引导的介词短语，act like 意为“起……的作用”（视频说明）。\n②focusing sunlight into a beam 是现在分词短语作结果状语（视频说明），逻辑主语是 That geometry；focus A into B 意为“把 A 汇聚成 B”。\n③up to six times brighter than direct sun 是形容词短语作后置定语，修饰 a beam（视频说明）。中心词是比较级 brighter，前面的 up to six times 表示倍数的上限，than direct sun 引出比较对象。形容词带上修饰语和比较成分后变长，只能放在被修饰的名词之后。\n④放大镜靠透镜折射聚光，这面外墙靠内凹的镜面反射聚光，原理不同，聚光的效果相同。原文借大家熟悉的放大镜作比方，第4句的视频说明则用“凹面镜”点明了反射聚光的原理。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "倍数的表达：倍数 + 比较级 + than",
+    "explain": "英语表示倍数常用三种结构：A is N times as + 原级 + as B；A is N times + 比较级 + than B；A is N times the size/length/amount of B。按国内通行的译法，三种结构都可以译为“A 是 B 的 N 倍”。本句 up to six times brighter than direct sun 视频译为“亮度可达直射阳光的六倍”；up to 表示上限，意为“最多达到”。考研阅读数字题中要看清倍数修饰的是哪个比较对象。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new processor is three times faster than the previous model.",
+      "zh": "新处理器的速度是上一代型号的三倍。"
+     },
+     {
+      "en": "Housing in the capital costs roughly twice as much as in the rest of the country.",
+      "zh": "首都的住房价格大约是全国其他地区的两倍。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "单个形容词一般放在名词前；形容词带有修饰语或补足成分构成短语时，通常放在名词之后，如 a box full of books、a city famous for its bridges、a problem difficult to solve。本句 a beam up to six times brighter than direct sun 中，以 brighter 为中心的形容词短语后置修饰 beam，相当于 a beam which was up to six times brighter than direct sun。考研长难句中要能识别这种后置；翻译时可前置，也可以像本句视频译文那样拆成分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "They found a cave large enough to shelter the whole group.",
+      "zh": "他们找到了一个大到足以让全队人躲避的山洞。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "act like / act as",
+    "explain": "act like 意为“像……一样起作用；表现得像……”，like 是介词，后接比较的对象；act as 意为“充当，担任”，后接身份、角色或功能，如 act as an interpreter（担任翻译）。本句 acted like a magnifying glass，视频译为“就像一面放大镜”。"
+   },
+   {
+    "term": "magnifying glass",
+    "explain": "放大镜。magnifying 是 magnify（放大）的 -ing 形式，作前置定语说明镜片的功能，即“用来放大的镜片”；-ing 形式作定语表示用途的还有 a reading lamp（阅读灯）。"
+   },
+   {
+    "term": "focus A into B",
+    "explain": "focus 作及物动词，指把光线、射线等汇聚起来，focus A into B 即“把 A 汇聚成 B”。更常见的 focus on 意为“集中注意力于”。"
+   },
+   {
+    "term": "up to",
+    "explain": "用在数字前表示上限，意为“最多达，多达”，如 up to 50 people。本句 up to six times 视频译为“可达……六倍”。"
+   },
+   {
+    "term": "direct sun",
+    "explain": "直射的阳光，与 direct sunlight 同义，视频译为“直射阳光”。sun 在这里指阳光，如 sit in the sun（坐在阳光下）。"
+   }
+  ],
+  "translation_tip": "视频译文“这种几何形状就像一面放大镜，把阳光汇聚成一道光束，亮度可达直射阳光的六倍。”的处理：①acted like 译为“就像”，主句处理成比喻句，补出量词“一面”；that 译为“这种”。②现在分词短语 focusing sunlight into a beam 译成并列短句，用“把”字句：“把阳光汇聚成一道光束”。③后置的形容词短语没有前置成冗长的定语，而是拆成短句“亮度可达直射阳光的六倍”，增补“亮度”，点明 brighter 比较的是什么；up to 译为“可达”，倍数按“是……的六倍”的格式译出。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "It；a reporter",
+   "predicate": "was measured；fried",
+   "object_or_complement": "an egg（fried 的宾语）",
+   "explain": "由 and 连接的并列句。第一个分句是被动语态，be measured at 意为“测得为……”；第二个分句是主谓宾结构，主动语态。两个谓语都是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "zh": "（代词，指上句光束照射处的温度，与 was measured 合译为“测得的温度”）",
+    "role": "第一个分句的主语"
+   },
+   {
+    "text": "was measured",
+    "zh": "测得的",
+    "role": "第一个分句的谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "at about 110 degrees Celsius,",
+    "zh": "约为110摄氏度",
+    "role": "介词短语，与 measured 构成 be measured at，表示测得的数值"
+   },
+   {
+    "text": "and",
+    "zh": "还",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "a reporter",
+    "zh": "一名记者",
+    "role": "第二个分句的主语"
+   },
+   {
+    "text": "fried",
+    "zh": "煎熟了",
+    "role": "第二个分句的谓语"
+   },
+   {
+    "text": "an egg",
+    "zh": "一个鸡蛋",
+    "role": "宾语"
+   },
+   {
+    "text": "in a pan",
+    "zh": "在平底锅里",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "using the reflection.",
+    "zh": "利用反射光",
+    "role": "方式状语（现在分词短语），逻辑主语是 a reporter"
+   }
+  ],
+  "structure": "①第一个分句 It was measured at about 110 degrees Celsius：It 指上句的光束，即光束照射处的温度；谓语 was measured 是一般过去时被动语态，没有说出测量者，因为重要的是测量结果。at about 110 degrees Celsius 是介词短语，与 measured 构成 be measured at（视频说明：测得为……），表示测得的数值。\n②and 连接第二个分句：主语 a reporter，谓语 fried，宾语 an egg；in a pan 是地点状语；using the reflection 是现在分词短语作方式状语（视频说明），逻辑主语是 a reporter，说明他靠什么煎蛋。\n③两个分句一个给出温度数据，一个举出生动的事例，共同说明反射光的热度之高。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be measured at + 数值；measure 作系动词",
+    "explain": "measure 作及物动词意为“测量”，被动形式 be measured at + 数值 表示“测得为……”，如本句 was measured at about 110 degrees Celsius。measure 还可作系动词，直接接尺寸、数值，表示“长、宽、高为……”，如 The room measures five metres by four metres，此时没有被动语态，不说 is measured five metres。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The earthquake was measured at 6.2 on the Richter scale.",
+      "zh": "这次地震测得为里氏6.2级。"
+     },
+     {
+      "en": "The kitchen measures four metres by three.",
+      "zh": "厨房长四米、宽三米。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作方式状语",
+    "explain": "现在分词短语可以说明主语做某事的方式、手段，常见的有 using…、relying on…、drawing on…。分词的逻辑主语必须是句子的主语，本句 using the reflection 的逻辑主语是 a reporter。如果分词的逻辑主语与句子主语不一致，就成了语法上的错误，叫“垂悬分词”，考研写作要避免。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers estimated the age of the trees using satellite images and ground surveys.",
+      "zh": "研究人员利用卫星图像和实地调查估算了这些树的树龄。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "degrees Celsius",
+    "explain": "摄氏度，110 degrees Celsius 可写作 110°C，名称来自瑞典天文学家摄尔修斯（Anders Celsius）。美国日常多用华氏度（degrees Fahrenheit）。"
+   },
+   {
+    "term": "fry an egg in a pan",
+    "explain": "fry 意为“油煎，油炸”，fry an egg 即煎鸡蛋，煎好的蛋叫 fried egg；pan 指平底锅，煎锅也叫 frying pan。视频把 fried 译为“煎熟了”。"
+   },
+   {
+    "term": "reflection",
+    "explain": "本句指反射出来的光，视频译为“反射光”；它也可指“反射”这一现象，或镜中、水中的影像（倒影）。"
+   }
+  ],
+  "translation_tip": "视频译文“测得的温度约为110摄氏度，一名记者还在平底锅里利用反射光煎熟了一个鸡蛋。”的处理：①第一个分句没有译成“它被测量为……”，而是把被动结构转为名词性短语“测得的温度”作主语，增补“温度”点明 It 所指，后接“约为110摄氏度”，成为汉语习惯的判断句。②and 没有译成“并且”，而在“一名记者”后加“还”，表示递进。③地点状语 in a pan 和方式状语 using the reflection 都提到谓语前，译为“在平底锅里利用反射光”；fried 译为“煎熟了”，增补“熟”说明结果。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The developers",
+   "predicate": "issued；reimbursed",
+   "object_or_complement": "an apology（issued 的宾语）；almost 1,000 pounds（reimbursed 的宾语）",
+   "explain": "一个主语带两个由 and 连接的并列谓语，各接宾语，均为一般过去时、主动语态。"
+  },
+  "components": [
+   {
+    "text": "The developers",
+    "zh": "开发商",
+    "role": "主语"
+   },
+   {
+    "text": "issued",
+    "zh": "作出了",
+    "role": "谓语一"
+   },
+   {
+    "text": "an apology",
+    "zh": "道歉",
+    "role": "宾语一"
+   },
+   {
+    "text": "and reimbursed",
+    "zh": "并赔付了",
+    "role": "并列连词 and + 谓语二"
+   },
+   {
+    "text": "almost 1,000 pounds",
+    "zh": "近1,000英镑",
+    "role": "宾语二（almost 修饰数词）"
+   },
+   {
+    "text": "for repairs.",
+    "zh": "修理费",
+    "role": "介词短语，与 reimburse 构成 reimburse… for…，说明赔付的用途"
+   }
+  ],
+  "structure": "①主语 The developers 指这座大楼的开发商，用复数形式。\n②两个并列谓语由 and 连接：issued an apology（公开道歉）和 reimbursed almost 1,000 pounds（赔付近1,000英镑），视频说明：issue an apology，公开道歉；reimburse…for…，赔付……的费用。\n③for repairs 是介词短语，说明赔付的是修理费用；almost 修饰数词 1,000，表示“接近，差一点达到”。\n④本句开启第3段，转向事件发生后的应对：先写道歉和赔偿，下一句写现场的安全措施。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "almost / nearly 修饰数词",
+    "explain": "almost 和 nearly 放在数词前，表示“接近、差一点达到”，实际数量略少于该数；about、around、roughly 表示“大约”，实际数量可多可少；over、more than 表示“超过”。本句 almost 1,000 pounds 说明赔付金额不到1,000英镑，视频译为“近1,000英镑”。两者的区别：almost 可与 no、nothing、never 等否定词连用（almost nothing），nearly 一般不这样用；not nearly 意为“远远不”。考研阅读的数字细节题常在这些修饰词上设干扰。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Almost 40 percent of the respondents said they had never used the service.",
+      "zh": "近40%的受访者表示从未使用过这项服务。"
+     },
+     {
+      "en": "The repairs took nearly three months, far longer than expected.",
+      "zh": "维修花了将近三个月，比预期长得多。"
+     }
+    ]
+   },
+   {
+    "title": "一个主语带两个并列谓语",
+    "explain": "同一主语发出两个动作时，可以用 and 连接两个谓语，第二个谓语前不重复主语。本句 issued an apology and reimbursed almost 1,000 pounds 共用主语 The developers。翻译时第二个谓语前常加“并”“还”等词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The airline apologised to passengers and offered them free meal vouchers.",
+      "zh": "航空公司向乘客道歉，并向他们提供了免费餐券。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "issue an apology",
+    "explain": "熟词僻义：issue 作动词意为“发布，发表”，常与 statement、warning、apology、guidelines 搭配，如 issue a statement（发表声明）。issue an apology 指以正式、公开的方式道歉（视频说明），视频译为“作出了道歉”。"
+   },
+   {
+    "term": "reimburse… for…",
+    "explain": "reimburse 意为“偿还，补偿，报销”，常用 reimburse sb (for sth)，也可以金额作宾语，如本句 reimbursed almost 1,000 pounds for repairs。被动形式 be reimbursed for travel expenses（报销差旅费）很常见。"
+   },
+   {
+    "term": "developer",
+    "explain": "本句指房地产开发商（property developer），视频译为“开发商”；在 IT 语境中指软件开发者。"
+   },
+   {
+    "term": "1,000 pounds",
+    "explain": "pound 指英镑，符号是 £。英文数字每三位用逗号分隔，1,000 读作 one thousand。"
+   }
+  ],
+  "translation_tip": "视频译文“开发商作出了道歉，并赔付了近1,000英镑的修理费。”的处理：①issued an apology 按汉语搭配译为“作出了道歉”。②第二个谓语前加“并”，与 and 对应。③for repairs 与宾语合并成偏正结构“近1,000英镑的修理费”，比“为修理赔付近1,000英镑”更紧凑；almost 译为“近”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Parking bays；a provisional barrier",
+   "predicate": "were suspended；was erected",
+   "object_or_complement": "",
+   "explain": "由 and 连接的两个并列分句，都是一般过去时被动语态，均未出现动作执行者。"
+  },
+  "components": [
+   {
+    "text": "Parking bays",
+    "zh": "路边停车位",
+    "role": "第一个分句的主语（parking 是动名词作前置定语）"
+   },
+   {
+    "text": "were suspended",
+    "zh": "暂停使用",
+    "role": "第一个分句的谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "and",
+    "zh": "并且",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "a provisional barrier",
+    "zh": "一道临时的屏障",
+    "role": "第二个分句的主语（provisional 是前置定语）"
+   },
+   {
+    "text": "was erected.",
+    "zh": "被搭建了起来",
+    "role": "第二个分句的谓语（一般过去时被动语态）"
+   }
+  ],
+  "structure": "①第一个分句 Parking bays were suspended：主语 Parking bays，parking 是动名词作前置定语，说明 bays 的用途；谓语 were suspended 是被动语态，suspend 在这里意为“暂停使用”。\n②and 连接第二个分句 a provisional barrier was erected：主语 a provisional barrier，provisional 意为“临时的”；谓语 was erected 是被动语态，erect 意为“搭建，竖立”。\n③两个分句都用被动语态、不提执行者：原文的重点是采取了什么措施，而不是谁采取的。从上下文看，这两项措施是为了让车辆和行人避开反光照射的区域。provisional barrier（临时屏障）与第17句的 permanent fixture（永久性装置）前后呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "省略施动者的被动语态",
+    "explain": "动作执行者不言自明、不重要或不便说出时，被动语态通常省略 by 短语。新闻报道常用这种被动句，把重点放在措施或结果上。本句两个分句都是这样。汉语少用“被”字，翻译时常译成主动形式，如“路边停车位暂停使用”；必要时也可保留“被”，如第二个分句视频译为“被搭建了起来”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The road was closed for three hours while the damaged lorry was removed.",
+      "zh": "移走受损卡车期间，道路封闭了三个小时。"
+     },
+     {
+      "en": "Extra staff have been hired to deal with the backlog.",
+      "zh": "已经增聘了人手来处理积压的工作。"
+     }
+    ]
+   },
+   {
+    "title": "动名词作前置定语",
+    "explain": "动名词放在名词前，表示该名词的用途，如 parking bay（停车位）、swimming pool（游泳池）、waiting room（候车室）；现在分词作前置定语则表示名词正在进行的动作，如 a sleeping child（正在睡觉的孩子）。比较 a sleeping bag（睡袋，动名词表用途）。本句 parking bays 中 parking 是动名词，表示“用于停车的位置”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hospital has opened a new waiting area for visitors.",
+      "zh": "医院为探视者新开辟了一个等候区。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "parking bay",
+    "explain": "英式英语，指地面上划线标出的停车位；这里的 bay 不是“海湾”，而是指划出作特定用途的一块区域，如 loading bay（装卸区）；它与表示“海湾”的 bay 词源不同，并非由“海湾”引申而来。视频译为“路边停车位”，“路边”根据第2句车停在人行道旁的情境增补。"
+   },
+   {
+    "term": "suspend",
+    "explain": "熟词僻义：本义“悬挂”，常用义“暂停，中止”，如 suspend services（暂停服务）、suspend trading（暂停交易），还可指“暂令停职、停学”。本句视频译为“暂停使用”。"
+   },
+   {
+    "term": "erect",
+    "explain": "作动词是正式用词，意为“搭建，竖立”，相当于 put up；作形容词意为“直立的”。本句视频译为“搭建”。"
+   },
+   {
+    "term": "provisional",
+    "explain": "形容词，意为“临时的，暂定的”，如 a provisional government（临时政府）、provisional results（初步结果）。"
+   }
+  ],
+  "translation_tip": "视频译文“路边停车位暂停使用，并且一道临时的屏障被搭建了起来。”的处理：①第一个被动分句没有译成“停车位被暂停”，而是译为主动形式的“路边停车位暂停使用”，增补“使用”使搭配完整，增补“路边”点明位置。②第二个分句保留被动，译为“被搭建了起来”，“起来”表示屏障竖立的结果。③and 译为“并且”；a provisional barrier 补出量词，译为“一道临时的屏障”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The beam",
+   "predicate": "struck",
+   "object_or_complement": "",
+   "explain": "主谓结构，strike 在此为不及物动词，意为（光）照射。谓语 struck 是 strike 的过去式，一般过去时、主动语态。句中有两个并列的时间状语和一个原因状语。"
+  },
+  "components": [
+   {
+    "text": "The beam",
+    "zh": "这道光束",
+    "role": "主语（回指第6句的 beam）"
+   },
+   {
+    "text": "struck",
+    "zh": "照射",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "for about two hours a day,",
+    "zh": "每天约……两小时",
+    "role": "时间状语一（介词短语，表示每天持续的时间）"
+   },
+   {
+    "text": "two to three weeks annually,",
+    "zh": "每年……两到三周",
+    "role": "时间状语二（名词短语直接作状语，与前一状语并列）"
+   },
+   {
+    "text": "because of the sun's angle of elevation.",
+    "zh": "因为这是太阳的仰角",
+    "role": "原因状语（复合介词 because of 引导的介词短语）"
+   }
+  ],
+  "structure": "①主句 The beam struck：The beam 回指第6句的光束；strike 作不及物动词，指光束照射过来。\n②两个时间状语并列（视频说明：两个时间状语并列）：for about two hours a day 是介词短语，表示每天持续的时长，a day 中的 a 意为“每”；two to three weeks annually 是名词短语直接作时间状语，annually 意为“每年”。两个状语用逗号隔开，后一个对前一个作补充。\n③because of the sun's angle of elevation 是原因状语，because of 是复合介词，后接名词短语，不接从句。the sun's angle of elevation 即太阳的仰角，也就是太阳的高度角（视频说明：angle，角度）。只有当太阳处在特定高度时，反射光才会汇聚到街面，所以强光只在每年特定的几周、每天特定的时段出现。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "because of 与 because",
+    "explain": "because of 是复合介词，后接名词、代词或动名词；because 是从属连词，后接从句。本句 because of the sun's angle of elevation 后面是名词短语。意思相近的介词短语还有 due to、owing to、on account of、thanks to（多指好的原因，也可反讽）。易错：不能写成 because of the sun was low。考研写作中，due to 作表语最规范，如 The delay was due to fog。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The match was postponed because of heavy rain.",
+      "zh": "比赛因大雨而推迟。"
+     },
+     {
+      "en": "The match was postponed because the pitch was flooded.",
+      "zh": "因为场地被水淹了，比赛推迟了。"
+     }
+    ]
+   },
+   {
+    "title": "频率和时长的表达",
+    "explain": "表示“每……多长时间”可用“时长 + a/per + 时间单位”，如 eight hours a day、twice a week、£500 a month，其中 a 相当于 per。annually（每年）、daily、weekly、monthly 等副词也可表示频率。本句两个时间状语由小到大：先说每天，再说每年；汉语习惯由大到小，视频译文把顺序调换为“每年……、每天……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the volunteers work about four hours a day, three days a week.",
+      "zh": "大多数志愿者每周工作三天，每天工作约四小时。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "strike",
+    "explain": "熟词僻义：strike 可指光线照射、照到，如 Sunlight struck the windows。常见义有“打，击”“罢工”“（灾难、疾病）突然发生”。本句视频译为“照射”。"
+   },
+   {
+    "term": "angle of elevation",
+    "explain": "仰角，几何中指视线在水平线上方时与水平线所成的角，与 angle of depression（俯角）相对；the sun's angle of elevation 指太阳的高度角，视频译为“仰角”。"
+   },
+   {
+    "term": "annually",
+    "explain": "副词，意为“每年，一年一次”，形容词是 annual，如 an annual report（年度报告）。"
+   }
+  ],
+  "translation_tip": "视频译文“这道光束每年会照射两到三周、每天约照射两小时，因为这是太阳的仰角。”的处理：①两个并列的时间状语调换顺序，先年后天，符合汉语由大到小的习惯；谓语“照射”在两个分句中各出现一次，使每个时长都有动词支撑，中间用顿号连接；“会”表示这是反复出现的规律。②原因状语保留在句末，because of 译为“因为这是”，补出“这是”，与名词短语“太阳的仰角”连成完整分句。③the beam 译为“这道光束”，补出指示词和量词。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Newspapers",
+   "predicate": "dubbed",
+   "object_or_complement": "the Walkie-Talkie（宾语）；the Walkie-Scorchie（宾语补足语）",
+   "explain": "主谓宾宾补结构，dub sb/sth + 名词 意为“给……起绰号叫……”。谓语 dubbed 为一般过去时、主动语态。句末的 a taunt 是同位语。"
+  },
+  "components": [
+   {
+    "text": "Newspapers",
+    "zh": "报纸",
+    "role": "主语（零冠词复数，泛指多家报纸）"
+   },
+   {
+    "text": "dubbed",
+    "zh": "把……戏称为",
+    "role": "谓语（dub sb/sth + 名词）"
+   },
+   {
+    "text": "the Walkie-Talkie",
+    "zh": "对讲机大楼",
+    "role": "宾语（大楼的俗称）"
+   },
+   {
+    "text": "the Walkie-Scorchie,",
+    "zh": "“烤焦机大楼”",
+    "role": "宾语补足语（名词）"
+   },
+   {
+    "text": "a taunt.",
+    "zh": "这是一句嘲讽",
+    "role": "同位语，说明 the Walkie-Scorchie 这个绰号"
+   }
+  ],
+  "structure": "①主句 Newspapers dubbed the Walkie-Talkie the Walkie-Scorchie：主语 Newspapers 用零冠词复数，泛指当时的多家报纸；谓语 dubbed；宾语 the Walkie-Talkie 是这座大楼的俗称，原意是对讲机（视频说明）；the Walkie-Scorchie 是名词作宾语补足语，说明给它起的新绰号，宾语和宾补之间是逻辑上的主表关系。\n②a taunt 是名词短语作同位语，说明这个绰号（视频说明），点出它的性质：这是一句嘲讽。\n③Scorchie 由 scorch（烤焦）改字而来（视频说明），沿用 Talkie 的构词方式，形成文字游戏，嘲讽大楼反光烤坏汽车。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词作宾语补足语",
+    "explain": "dub、call、name、elect、appoint、make、consider 等动词可接“宾语 + 名词”构成复合宾语，宾补说明宾语的名称或身份，宾语与宾补是逻辑上的主表关系。本句 dubbed the Walkie-Talkie the Walkie-Scorchie 中，the Walkie-Scorchie 是宾补。变成被动语态时，宾补成为主语补足语，如 The tower was dubbed the Walkie-Scorchie。新闻中常用 be dubbed + 名称 引出绰号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The press dubbed the young pianist a prodigy after her first concert.",
+      "zh": "那位年轻的钢琴家首场音乐会之后，媒体就称她为神童。"
+     },
+     {
+      "en": "The scheme, dubbed a tax on the poor by its opponents, was eventually abandoned.",
+      "zh": "这项计划被反对者称为“向穷人征税”，最终被放弃了。"
+     }
+    ]
+   },
+   {
+    "title": "句末名词短语作同位语",
+    "explain": "名词短语可以放在另一个名词后作同位语，对它进行解释或评价，常用逗号隔开；放在句末时，还可以对前面的整件事作总结性评价，如 …, a move that angered the unions。本句 a taunt 说明 the Walkie-Scorchie 这个绰号是一句嘲讽。翻译时常拆成“这是……”的独立分句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company cut its workforce by half, a move that angered the unions.",
+      "zh": "公司裁员一半，此举激怒了工会。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dub",
+    "explain": "熟词僻义：dub 意为“给……起绰号，把……戏称为”（视频说明），常带调侃意味；另一个常见义是“给影片配音”，如 a film dubbed into Chinese（译制成中文的影片）。"
+   },
+   {
+    "term": "Walkie-Talkie",
+    "explain": "walkie-talkie 原意是便携式对讲机（视频说明）。芬丘奇街20号因外形像对讲机而得名 the Walkie-Talkie，视频译为“对讲机大楼”。"
+   },
+   {
+    "term": "Walkie-Scorchie",
+    "explain": "把 Talkie 换成由 scorch（烤焦，烧焦）变来的 Scorchie（视频说明），两词结构相同、读音相近，嘲讽大楼反光“烤”坏汽车。视频译为“烤焦机大楼”，保留了这种对仗。"
+   },
+   {
+    "term": "taunt",
+    "explain": "名词，指嘲讽、奚落的话；也可作动词，taunt sb about/with sth（拿某事嘲弄某人）。视频译为“嘲讽”。"
+   }
+  ],
+  "translation_tip": "视频译文“报纸把对讲机大楼戏称为“烤焦机大楼”，这是一句嘲讽。”的处理：①dub A B 用“把”字句译为“把……戏称为……”，“戏称”传达 dub 的调侃意味。②两个绰号都增补“大楼”二字：the Walkie-Talkie 译为“对讲机大楼”，the Walkie-Scorchie 译为“烤焦机大楼”并加引号，“烤焦机”与“对讲机”对仗，保留了原文的文字游戏。③句末同位语 a taunt 拆成独立分句“这是一句嘲讽”，用“这”回指前面的绰号，补出量词“一句”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "The architect",
+   "predicate": "was",
+   "object_or_complement": "candid",
+   "explain": "主系表结构，系动词 was 为一般过去时；后接现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "The architect",
+    "zh": "这位建筑师",
+    "role": "主语（指维诺利）"
+   },
+   {
+    "text": "was",
+    "zh": "（系动词，不单独译出）",
+    "role": "系动词"
+   },
+   {
+    "text": "candid,",
+    "zh": "很坦率",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "admitting",
+    "zh": "承认犯了",
+    "role": "伴随状语（现在分词短语）的中心词"
+   },
+   {
+    "text": "many mistakes.",
+    "zh": "很多错误",
+    "role": "admitting 的宾语"
+   }
+  ],
+  "structure": "①主句 The architect was candid：The architect 指设计这座楼的拉斐尔·维诺利，用职业名称回指前文的人名，避免重复；candid 是形容词作表语，意为“坦率的”。\n②admitting many mistakes 是现在分词短语作伴随状语（视频说明），逻辑主语是 The architect，具体说明他怎样坦率：承认了很多错误。\n③本句开启第4段，转向建筑师本人的反应，后面三句分别写他承认的失误、据报道被删的遮阳设计和他以前的类似失误。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末，可以表示与谓语同时存在的伴随动作，或对前面的内容作具体说明，逻辑主语是句子的主语。本句 admitting many mistakes 具体说明了 candid 的表现。它与第5句的 enlarging the upper storeys 不同：结果状语表示前一动作带来的后果，伴随状语表示与主句同时存在的情况，二者没有因果先后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister was unusually frank, conceding that the policy had failed.",
+      "zh": "这位部长异常坦率，承认这项政策失败了。"
+     },
+     {
+      "en": "She sat by the window, reading a letter from her son.",
+      "zh": "她坐在窗边，读着儿子寄来的信。"
+     }
+    ]
+   },
+   {
+    "title": "admit 的用法",
+    "explain": "admit 意为“承认”，后接名词、动名词或 that 从句，如 admit mistakes、admit making a mistake、admit that he was wrong；也可用 admit to sth/doing sth。admit 后不接不定式，不能说 admit to make a mistake 表示“承认犯错”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He admitted making a serious error of judgement.",
+      "zh": "他承认自己在判断上犯了严重错误。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "candid",
+    "explain": "形容词，意为“坦率的，直言的”，指说话不隐瞒、敢说出令人不快的事实，如 a candid admission（坦率的承认）、be candid about sth。名词 candour（英）/ candor（美）。视频译为“坦率”。"
+   },
+   {
+    "term": "admit mistakes",
+    "explain": "承认错误，常见搭配还有 admit defeat（认输）、admit responsibility（承认负有责任）。视频把 admitting many mistakes 译为“承认犯了很多错误”。"
+   }
+  ],
+  "translation_tip": "视频译文“这位建筑师很坦率，承认犯了很多错误。”的处理：①The architect 译为“这位建筑师”，the 译为“这位”，回指维诺利。②系动词 was 不单独译出，表语 candid 前加副词“很”，译为“很坦率”，汉语形容词作谓语时常加程度副词。③伴随状语 admitting many mistakes 译成并列短句“承认犯了很多错误”，增补动词“犯了”与“错误”搭配。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Viñoly",
+   "predicate": "had anticipated",
+   "object_or_complement": "the focusing",
+   "explain": "主谓宾结构，he said 是插入语；谓语 had anticipated 为过去完成时、主动语态，表示在事故发生之前就已预料到。but not its intensity 是省略句。"
+  },
+  "components": [
+   {
+    "text": "Viñoly",
+    "zh": "他",
+    "role": "主语（译文把人名移到插入语处，作“维诺利说”）"
+   },
+   {
+    "text": "had anticipated",
+    "zh": "预料到了",
+    "role": "谓语（过去完成时）"
+   },
+   {
+    "text": "the focusing,",
+    "zh": "外墙会聚光",
+    "role": "宾语（动名词）"
+   },
+   {
+    "text": "he said,",
+    "zh": "维诺利说",
+    "role": "插入语，表明这是维诺利本人的说法"
+   },
+   {
+    "text": "but not",
+    "zh": "却没想到",
+    "role": "并列连词 but + 否定词 not（省略句，= but he had not anticipated）"
+   },
+   {
+    "text": "its intensity.",
+    "zh": "聚光的强度会这么大",
+    "role": "省略句中 anticipated 的宾语"
+   }
+  ],
+  "structure": "①主句 Viñoly had anticipated the focusing：宾语 the focusing 是动名词，前面加定冠词，指上文所说的聚光现象。过去完成时 had anticipated 表示他在设计阶段、事故发生之前就预料到了。\n②he said 是插入语（视频说明），用逗号隔开，表明这是维诺利本人的说法；完整的说法是 He said (that) he had anticipated the focusing。转述动词插在句中，是新闻报道的常见写法。\n③but not its intensity 是省略句，完整形式是 but he had not anticipated its intensity（视频说明），省略了与前面相同的主语和谓语，只保留否定词 not 和宾语。its 指 the focusing，its intensity 即聚光的强度。\n④前后形成对比：预料到了聚光，却没预料到强度。这是第12句 admitting many mistakes 的具体内容之一。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "表示信息来源的插入语",
+    "explain": "he said、she added、officials say、the report claims 等可以插在句中，用逗号隔开，作插入语，不影响句子主干。去掉插入语，本句主干是 Viñoly had anticipated the focusing, but not its intensity。考研阅读中遇到这类插入语，要先拿掉它理清主干，再判断观点属于谁：这类句子表达的是被引述者的看法，不一定是作者的看法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules, officials say, will take effect next spring.",
+      "zh": "官员们说，新规定将于明年春天生效。"
+     },
+     {
+      "en": "The delay, the company admitted, had cost it several major clients.",
+      "zh": "公司承认，这次延误使它失去了几个大客户。"
+     }
+    ]
+   },
+   {
+    "title": "省略：but not + 名词",
+    "explain": "并列句中，后一个分句与前一个分句结构相同时，可以省略重复的部分，只保留不同的成分，如 I like tea but not coffee。本句 but not its intensity = but he had not anticipated its intensity。遇到省略句要回到前一个分句补全，才能确定 not 否定的是什么。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee approved the budget, but not the new hiring plan.",
+      "zh": "委员会批准了预算，但没有批准新的招聘计划。"
+     }
+    ]
+   },
+   {
+    "title": "间接引语中的时态后移",
+    "explain": "转述动词是过去时（如 said）时，被转述内容的时态一般要后移：一般现在时变为一般过去时，一般过去时和现在完成时变为过去完成时。本句的预料发生在说话之前，又在事故之前，所以用 had anticipated。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She said she had already sent the documents.",
+      "zh": "她说她已经把文件寄出去了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "anticipate",
+    "explain": "意为“预料，预期”，后接名词、动名词或 that 从句，如 anticipate problems、anticipate that…；不接不定式。视频译为“预料到了”。"
+   },
+   {
+    "term": "the focusing",
+    "explain": "动名词前加 the，名词性更强，指“聚光”这一现象，与第6句 focusing sunlight into a beam 相呼应。视频译为“外墙会聚光”。"
+   },
+   {
+    "term": "intensity",
+    "explain": "名词，意为“强度，强烈”，形容词是 intense。its intensity 指聚光的强度，视频译为“聚光的强度会这么大”。"
+   }
+  ],
+  "translation_tip": "视频译文“维诺利说，他预料到了外墙会聚光，却没想到聚光的强度会这么大。”的处理：①插入语 he said 提到句首，人名和代词调换位置：先交代说话人“维诺利说”，宾语部分用代词“他”，符合汉语先说明谁说的习惯。②动名词 the focusing 译成小句“外墙会聚光”，增补主语“外墙”。③省略句 but not its intensity 补全后译出：“却没想到聚光的强度会这么大”，用“却”表示转折，its 译为“聚光的”，增补“会这么大”使意思完整。④anticipated 在前后两处分别译为“预料到了”和“没想到”，避免重复。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Sun louvres",
+   "predicate": "were reportedly removed",
+   "object_or_complement": "",
+   "explain": "被动语态的主谓结构，谓语为一般过去时被动语态，助动词 were 与过去分词 removed 之间插入了副词 reportedly。"
+  },
+  "components": [
+   {
+    "text": "Sun louvres",
+    "zh": "遮阳百叶",
+    "role": "主语（sun 是名词作前置定语）"
+   },
+   {
+    "text": "in the original design",
+    "zh": "原设计中的",
+    "role": "后置定语（介词短语），修饰 Sun louvres"
+   },
+   {
+    "text": "were",
+    "zh": "（助动词，与 removed 构成被动语态，不单独译出）",
+    "role": "谓语的助动词部分"
+   },
+   {
+    "text": "reportedly",
+    "zh": "据报道",
+    "role": "评注性状语（副词，插在助动词和过去分词之间）"
+   },
+   {
+    "text": "removed",
+    "zh": "被删掉了",
+    "role": "谓语的过去分词部分"
+   },
+   {
+    "text": "in cost-cutting.",
+    "zh": "在削减成本时",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①主语 Sun louvres：sun 是名词作前置定语，说明 louvres 的用途是遮挡阳光；视频说明：遮阳百叶，外墙上成排的斜板，用来遮挡直射阳光、减少强光和热量。in the original design 是介词短语作后置定语，修饰 Sun louvres，说明是原设计中的百叶。\n②谓语 were removed 是被动语态，没有说是谁删掉的。reportedly 插在助动词和过去分词之间，是评注性状语，意为“据报道”（视频说明：插入的副词），说明这一信息来自报道。\n③in cost-cutting 是介词短语作时间状语，cost-cutting 是复合名词，意为“削减成本”，视频译为“在削减成本时”，交代删掉百叶的背景。\n④本句补充又一个失误的原因：据报道，原设计中本有遮阳百叶，后来为了省钱被删掉。reportedly 表明这是转述，读者不能把它当作已经证实的事实。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "reportedly 等评注性状语",
+    "explain": "reportedly、allegedly、apparently、supposedly 等副词说明信息的来源或可靠程度。reportedly 意为“据报道”，相当于 it is reported that；allegedly 意为“据称”，多用于未经证实的指控。这类副词位置灵活，常放在助动词之后、实义动词之前，如本句 were reportedly removed。考研阅读中，带这类词的内容是转述，不是作者确认的事实；第17句的 reportedly costing 也是如此。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The singer is reportedly planning a world tour next year.",
+      "zh": "据报道，这位歌手正在筹划明年的世界巡演。"
+     },
+     {
+      "en": "The company reportedly lost more than ten million dollars on the deal.",
+      "zh": "据报道，该公司在这笔交易中损失超过一千万美元。"
+     }
+    ]
+   },
+   {
+    "title": "be reported to have done 结构",
+    "explain": "It is reported that… 可以改写成“主语 + be reported + 不定式”：不定式一般式表示与报道同时或之后的动作，完成式 to have done 表示报道之前已发生的动作。同类结构有 be said to、be believed to、be thought to。本句可改写为 Sun louvres in the original design were reported to have been removed in cost-cutting。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The painting is believed to have been stolen in the 1970s.",
+      "zh": "人们认为这幅画是在20世纪70年代被盗的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "louvre",
+    "explain": "英式拼写，美式拼写为 louver，指百叶，即成排倾斜的板条，可遮阳、通风。sun louvres 视频译为“遮阳百叶”。"
+   },
+   {
+    "term": "cost-cutting",
+    "explain": "复合名词，也可作形容词，意为“削减成本（的）”，如 cost-cutting measures（削减成本的措施）。由动词短语 cut costs 变来。"
+   },
+   {
+    "term": "remove",
+    "explain": "常见义是“移走，去掉”，在设计、文件语境中指从方案里删去，本句视频译为“删掉”。"
+   }
+  ],
+  "translation_tip": "视频译文“据报道，原设计中的遮阳百叶在削减成本时被删掉了。”的处理：①reportedly 提到句首，译为“据报道”，用逗号隔开，统领全句。②后置定语 in the original design 前移，译为“原设计中的遮阳百叶”。③被动语态保留“被”字，译为“被删掉了”，remove 按设计语境译为“删掉”。④in cost-cutting 译为时间状语“在削减成本时”，放在谓语前。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "this",
+   "predicate": "was",
+   "object_or_complement": "his first architectural miscalculation",
+   "explain": "主系表结构，否定副词 Nor 置于句首，引起部分倒装，系动词 was 提到主语 this 之前。时态为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Nor",
+    "zh": "也不",
+    "role": "否定副词（置于句首，引起部分倒装）"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词（提到主语之前）"
+   },
+   {
+    "text": "this",
+    "zh": "这",
+    "role": "主语（指芬丘奇街20号的设计失误）"
+   },
+   {
+    "text": "his first architectural miscalculation.",
+    "zh": "他第一次出现建筑上的失算",
+    "role": "表语"
+   }
+  ],
+  "structure": "①正常语序是 This was not his first architectural miscalculation either。Nor 放在句首，意为“也不”，同时起否定和承接上文的作用，句子要部分倒装：系动词 was 提到主语 this 前面（视频说明：Nor 放句首，主谓倒装）。\n②主语 this 指上文所说的芬丘奇街20号的设计失误：低估了聚光的强度，遮阳百叶据报道被删。\n③表语 his first architectural miscalculation：his 指维诺利，first 和 architectural 都是前置定语，中心词 miscalculation 意为“失算，误判”。\n④本句引出下一句的例子：2010年拉斯维加斯维达拉酒店的反光事件，说明类似的失误他以前就犯过。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "Nor 置于句首引起部分倒装",
+    "explain": "否定副词 nor、neither 放在句首时，句子要部分倒装：把 be 动词、助动词或情态动词提到主语前，如 Nor was this…、Nor did he…、Neither can I。nor 引出又一个否定的情况，相当于 and… not… either。其他放在句首会引起部分倒装的否定词或短语有 never、seldom、hardly、little、not only、not until 等。考研写作和翻译中，句首用了否定词却忘记倒装，是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report did not explain the delay. Nor did it suggest how such problems could be avoided.",
+      "zh": "报告没有解释延误的原因，也没有说明如何避免这类问题。"
+     },
+     {
+      "en": "Never before had the city seen such a large protest.",
+      "zh": "这座城市以前从未出现过如此大规模的抗议活动。"
+     }
+    ]
+   },
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有多个定语时，一般按“限定词（冠词、物主代词等）→ 序数词 → 基数词 → 描述性形容词 → 类别形容词 → 中心名词”的顺序排列。本句 his（物主代词）+ first（序数词）+ architectural（类别形容词）+ miscalculation。类别形容词表示所属领域或类型，紧挨中心名词，一般不能用 very 修饰，也没有比较级。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her first two scientific papers were published in the same year.",
+      "zh": "她的前两篇科学论文是在同一年发表的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "miscalculation",
+    "explain": "由前缀 mis-（错误地）加 calculation（计算）构成，意为“误算；失算，判断失误”。视频译为“失算”。"
+   },
+   {
+    "term": "architectural",
+    "explain": "architecture（建筑；建筑学）的形容词，意为“建筑的，建筑上的”，视频译为“建筑上的”。"
+   }
+  ],
+  "translation_tip": "视频译文“这也不是他第一次出现建筑上的失算。”的处理：①倒装句按正常语序译出，Nor 译为“也不”，放在“是”前面：“这也不是……”。②名词短语 his first architectural miscalculation 转成动宾结构，增补动词“出现”，译为“他第一次出现建筑上的失算”；first 译为“第一次”，architectural 译为“建筑上的”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "the infamous glare",
+   "predicate": "burned",
+   "object_or_complement": "a guest's scalp",
+   "explain": "主谓宾结构，谓语 burned 为一般过去时、主动语态；主语带一个较长的介词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "In 2010",
+    "zh": "2010年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "the infamous glare",
+    "zh": "臭名昭著的强光",
+    "role": "主语（infamous 是前置定语）"
+   },
+   {
+    "text": "from his curved, reflective Vdara hotel",
+    "zh": "他那座……弯曲反光的维达拉酒店反射出",
+    "role": "后置定语（介词短语），修饰 glare"
+   },
+   {
+    "text": "in Las Vegas",
+    "zh": "位于拉斯维加斯",
+    "role": "后置定语（介词短语），修饰 Vdara hotel"
+   },
+   {
+    "text": "burned",
+    "zh": "灼伤了",
+    "role": "谓语"
+   },
+   {
+    "text": "a guest's scalp",
+    "zh": "一位客人的头皮",
+    "role": "宾语"
+   },
+   {
+    "text": "by the pool.",
+    "zh": "在泳池边",
+    "role": "地点状语（介词短语）"
+   }
+  ],
+  "structure": "①句首 In 2010 是时间状语。\n②主语 the infamous glare 的中心词是 glare（强光，刺眼的光），infamous 是前置定语，意为“臭名昭著的”，说明这次强光事件广为人知且名声很坏。\n③from his curved, reflective Vdara hotel in Las Vegas 是介词短语作后置定语，修饰 glare（视频说明），说明强光的来源。his 指维诺利；curved 和 reflective 是两个并列的前置定语，用逗号隔开，分别说明酒店外墙弯曲、表面反光；in Las Vegas 又修饰 Vdara hotel，说明酒店所在城市。\n④谓语 burned，宾语 a guest's scalp；by the pool 是地点状语，说明事发地点在泳池边。\n⑤主语从 the 到 Las Vegas 共12个词，谓语 burned 到句子后半才出现，读时要先找到中心词 glare，再找谓语。本句是上句的例证：curved（弯曲）、reflective（反光）两个词点出了与芬丘奇街20号相同的问题。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "长主语中的介词短语后置定语",
+    "explain": "介词短语作后置定语时可以层层套叠，使主语很长，谓语远离主语。分析时先找中心名词，再看后面的介词短语分别修饰谁：本句 from 短语修饰 glare，in Las Vegas 修饰 hotel。考研长难句中常见“名词 + 介词短语 + 介词短语 + 谓语”的结构，要防止把后置定语里的名词（如本句的 hotel、Las Vegas）误当作主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The smoke from a small fire in the library basement set off the alarm.",
+      "zh": "图书馆地下室一场小火冒出的烟触发了警报。"
+     },
+     {
+      "en": "The noise from the construction site across the road woke the whole street.",
+      "zh": "马路对面工地传来的噪音把整条街的人都吵醒了。"
+     }
+    ]
+   },
+   {
+    "title": "并列形容词之间的逗号",
+    "explain": "两个或几个形容词从不同方面描述同一名词、地位平等时，中间用逗号隔开，也可以用 and 连接，顺序一般可以互换，如 a long, tiring journey。如果前一个形容词修饰的是“后一个形容词 + 名词”这一整体，就不加逗号，如 a famous French writer。本句 curved, reflective 是并列形容词，相当于 curved and reflective。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It was a cold, wet morning in early March.",
+      "zh": "那是三月初一个又冷又湿的早晨。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "infamous",
+    "explain": "infamous 不是 famous 的反义词，而是“因坏事而出名的，臭名昭著的”。读音也要注意：infamous 读 /ˈɪnfəməs/，其中 fa 弱读为 /fə/，不读 famous 中的 /feɪ/。视频译为“臭名昭著的”。"
+   },
+   {
+    "term": "glare",
+    "explain": "名词，指刺眼的强光，如 the glare of the sun；也可指怒视，作动词 glare at sb 意为“怒视某人”。视频译为“强光”。"
+   },
+   {
+    "term": "Vdara hotel in Las Vegas",
+    "explain": "维达拉酒店，位于美国内华达州的拉斯维加斯，原文用 his 表明它也是维诺利设计的。它的外墙同样弯曲、反光，与芬丘奇街20号的问题相似。"
+   },
+   {
+    "term": "scalp",
+    "explain": "名词，头皮，如 an itchy scalp（发痒的头皮）。视频译为“头皮”。"
+   }
+  ],
+  "translation_tip": "视频译文“2010年，他那座位于拉斯维加斯、弯曲反光的维达拉酒店反射出臭名昭著的强光，在泳池边灼伤了一位客人的头皮。”的处理：①主语的后置定语 from his curved, reflective Vdara hotel in Las Vegas 没有简单前置成长定语，而是把 from 转译为动词“反射出”，变成“酒店反射出……强光”，酒店作小句主语，强光作宾语，句子更通顺。②in Las Vegas 译为“位于拉斯维加斯”，与“弯曲反光”并列作定语，中间用顿号；curved, reflective 合译为“弯曲反光的”；his 译为“他那座”。③地点状语 by the pool 提到谓语前，译为“在泳池边灼伤了一位客人的头皮”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "a permanent fixture",
+   "predicate": "was announced",
+   "object_or_complement": "",
+   "explain": "被动语态的主谓结构，谓语为一般过去时被动语态；冒号后的名词短语补充说明 fixture 的具体内容。"
+  },
+  "components": [
+   {
+    "text": "On 12 February 2014",
+    "zh": "2014年2月12日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "a permanent fixture",
+    "zh": "一项永久性的固定装置方案",
+    "role": "主语"
+   },
+   {
+    "text": "was announced:",
+    "zh": "公布",
+    "role": "谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "horizontal aluminium fins",
+    "zh": "那就是在外墙加装水平的铝制散光鳍片",
+    "role": "同位语（冒号后的名词短语），说明 fixture 的内容"
+   },
+   {
+    "text": "to diffuse the brightness,",
+    "zh": "来散射光线、减弱亮度",
+    "role": "后置定语（不定式短语，表目的），修饰 fins，说明加装鳍片的用途"
+   },
+   {
+    "text": "reportedly costing several million pounds.",
+    "zh": "据报道花费达数百万英镑",
+    "role": "非限制性后置定语（现在分词短语），补充说明这项方案的花费（reportedly 是评注性状语）"
+   }
+  ],
+  "structure": "①句首 On 12 February 2014 是时间状语。主句 a permanent fixture was announced 是被动语态，未说明宣布者；fixture 指固定在建筑上的装置，permanent 说明这是永久性的，与第9句的 provisional barrier（临时屏障）形成对照。\n②冒号后补充说明 fixture 的内容（视频说明）：horizontal aluminium fins 是名词短语作同位语，horizontal 和 aluminium 都是前置定语，aluminium 是名词作定语，表示材料。\n③to diffuse the brightness 是不定式短语表目的（视频说明），说明加装鳍片的用途：散射光线、减弱亮度。\n④reportedly costing several million pounds 是现在分词短语，补充说明花费（视频说明），逻辑上说明的是整个加装方案；reportedly 表示这个数字来自报道。several million pounds 中，million 前有 several，不加 -s。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号可以引出对前面某个名词或整句话的具体解释、列举，冒号后可以是名词短语，也可以是完整的句子。本句冒号后的 horizontal aluminium fins… 说明 fixture 的内容，作同位语。考研阅读中，冒号后的内容常是前面概括说法的具体化，是定位答案的重要线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan has one obvious weakness: it depends entirely on public funding.",
+      "zh": "这个计划有一个明显的弱点：它完全依赖公共资金。"
+     }
+    ]
+   },
+   {
+    "title": "hundred、thousand、million 的单复数",
+    "explain": "hundred、thousand、million、billion 前有具体数词或 several、a few 时，用单数，不加 -s，后面直接接名词：several million pounds、three thousand people；表示不确定的“成百上千”时用复数并接 of：millions of pounds、hundreds of people。本句 several million pounds 视频译为“数百万英镑”。易错：不能写成 several millions pounds。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new hospital wing cost several million pounds to build.",
+      "zh": "医院新侧楼的建造花费了数百万英镑。"
+     },
+     {
+      "en": "Thousands of fans waited outside the stadium for hours.",
+      "zh": "数以千计的球迷在体育场外等了好几个小时。"
+     }
+    ]
+   },
+   {
+    "title": "不定式表目的",
+    "explain": "不定式短语可以表示目的，说明某事物的用途或某动作的意图。本句 to diffuse the brightness 说明加装铝制鳍片是为了散射光线、减弱亮度（视频说明：不定式表目的）。表示目的时也可用 in order to 或 so as to 加以强调。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council installed speed bumps near the school to slow down traffic.",
+      "zh": "市政府在学校附近安装了减速带，以降低车速。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fixture",
+    "explain": "指固定在建筑物上的装置或设施，如 light fixtures（灯具）；a permanent fixture 还可比喻“常驻的人或事物”。本句视频译为“固定装置方案”。"
+   },
+   {
+    "term": "aluminium",
+    "explain": "英式拼写，美式拼写为 aluminum，两者读音和重音不同。本句作定语表示材料，视频译为“铝制”。"
+   },
+   {
+    "term": "fin",
+    "explain": "本义是鱼鳍，引申为鳍状的凸出薄片，如散热片 cooling fins。本句 fins 视频译为“鳍片”。"
+   },
+   {
+    "term": "diffuse",
+    "explain": "作动词意为“使（光、热、气体等）扩散、散射”，与 focus（汇聚）相对：外墙把阳光汇聚起来，鳍片再把它散开。视频译为“散射”。"
+   }
+  ],
+  "translation_tip": "视频译文“2014年2月12日，一项永久性的固定装置方案公布，那就是在外墙加装水平的铝制散光鳍片，来散射光线、减弱亮度，据报道花费达数百万英镑。”的处理：①fixture 译为“固定装置方案”，增补“方案”，因为当时公布的是计划；被动的 was announced 译为主动形式的“公布”。②冒号译为“那就是”，引出同位语；增补“在外墙加装”，补出鳍片安装的位置和动作；horizontal aluminium fins 译为“水平的铝制散光鳍片”，“散光”预先点出鳍片的作用。③不定式表目的译为“来……”，diffuse the brightness 拆译为“散射光线、减弱亮度”，把 diffuse 的效果说完整。④reportedly costing 译为“据报道花费达……”，“达”突出金额之高。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Building Design's critics",
+   "predicate": "gave",
+   "object_or_complement": "the notorious tower（间接宾语）；the Carbuncle Cup（直接宾语）",
+   "explain": "主谓双宾结构，give sb sth 意为“授予某人某物”（视频说明），谓语 gave 为一般过去时、主动语态；句末 a trophy… 是同位语。"
+  },
+  "components": [
+   {
+    "text": "In September 2015",
+    "zh": "2015年9月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Building Design's critics",
+    "zh": "《建筑设计》杂志的评论家们",
+    "role": "主语"
+   },
+   {
+    "text": "gave",
+    "zh": "将……颁给了",
+    "role": "谓语（give sb sth）"
+   },
+   {
+    "text": "the notorious tower",
+    "zh": "这座声名狼藉的/臭名远扬的大楼",
+    "role": "间接宾语"
+   },
+   {
+    "text": "the Carbuncle Cup,",
+    "zh": "“烂疮杯”",
+    "role": "直接宾语"
+   },
+   {
+    "text": "a trophy for the UK's worst new building.",
+    "zh": "这是一个专门颁给英国最糟糕新建筑的奖杯",
+    "role": "同位语，说明 the Carbuncle Cup"
+   }
+  ],
+  "structure": "①句首 In September 2015 是时间状语，只有月份和年份时用介词 in。\n②主语 Building Design's critics：Building Design 是英国一份建筑业刊物的名称，用所有格修饰 critics，指该刊的评论家们。\n③谓语 gave 带双宾语（视频说明：give sb sth，授予某人某物）：间接宾语 the notorious tower 指芬丘奇街20号，notorious 意为“声名狼藉的”；直接宾语 the Carbuncle Cup 是奖项名称。\n④a trophy for the UK's worst new building 是名词短语作同位语，说明 the Carbuncle Cup（视频说明）；for the UK's worst new building 是介词短语作后置定语，修饰 trophy，说明奖杯颁给什么样的建筑。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "双宾语结构",
+    "explain": "give、award、hand、send、offer、show 等动词可接双宾语：give sb sth，间接宾语（接受者）在前，直接宾语（事物）在后；也可改为 give sth to sb。直接宾语是代词时，一般说 give it to sb，不说 give sb it。本句 gave the notorious tower the Carbuncle Cup 中，tower 是间接宾语，Cup 是直接宾语。变被动时常以间接宾语作主语，如 The tower was given the Carbuncle Cup。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The judges awarded the young director the top prize.",
+      "zh": "评委们把最高奖授予了这位年轻导演。"
+     },
+     {
+      "en": "The university offered her a full scholarship.",
+      "zh": "这所大学为她提供了全额奖学金。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语解释专有名词",
+    "explain": "专有名词后面常跟一个名词短语作同位语，向不熟悉的读者说明它是什么，用逗号隔开。本句 the Carbuncle Cup 后的 a trophy for the UK's worst new building 就起这种解释作用。翻译时常拆成“这是……”的独立分句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The prize went to Ellen Hart, a retired teacher from Leeds.",
+      "zh": "这个奖颁给了埃伦·哈特，一位来自利兹的退休教师。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Carbuncle Cup",
+    "explain": "英国《建筑设计》杂志曾每年评出的一个讽刺性“奖项”，颁给英国当年最糟糕的新建筑，视频译为“烂疮杯”。carbuncle 本义是“痈，疔疮”；这个名称典出1984年查尔斯王子（今英国国王查尔斯三世）的一次演讲，他把伦敦国家美术馆的一个扩建方案比作 a monstrous carbuncle（一个丑陋的大疮）。此后 carbuncle 在英式英语中常用来贬称难看的建筑。"
+   },
+   {
+    "term": "Building Design",
+    "explain": "英国一份建筑业刊物，常简称 BD，视频译为“《建筑设计》杂志”。"
+   },
+   {
+    "term": "notorious",
+    "explain": "形容词，意为“声名狼藉的，臭名远扬的”，常用 be notorious for sth（因……而臭名昭著）。与第16句的 infamous 意思相近，都指因坏事出名。"
+   },
+   {
+    "term": "the UK",
+    "explain": "the United Kingdom 的缩写，前面要加定冠词 the。"
+   }
+  ],
+  "translation_tip": "视频译文“2015年9月，《建筑设计》杂志的评论家们将“烂疮杯”颁给了这座声名狼藉的/臭名远扬的大楼，这是一个专门颁给英国最糟糕新建筑的奖杯。”的处理：①主语 Building Design's critics 译为“《建筑设计》杂志的评论家们”，刊物名加书名号并增补“杂志”，critics 用“们”体现复数。②双宾语结构改用“将……颁给……”的句式：先说奖项“烂疮杯”，再说获奖对象，give 按语境译为“颁给”。③notorious 给出两种译法“声名狼藉的/臭名远扬的”。④句末同位语拆成独立分句“这是一个专门颁给英国最糟糕新建筑的奖杯”，增补“专门”，突出这是为最差建筑而设的奖。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "The ballot",
+   "predicate": "was",
+   "object_or_complement": "unanimous",
+   "explain": "主系表结构，系动词 was 为一般过去时，形容词 unanimous 作表语。"
+  },
+  "components": [
+   {
+    "text": "The ballot",
+    "zh": "这次投票",
+    "role": "主语（指评选烂疮杯的投票）"
+   },
+   {
+    "text": "was",
+    "zh": "（系动词，不单独译出）",
+    "role": "系动词"
+   },
+   {
+    "text": "unanimous.",
+    "zh": "全体一致",
+    "role": "表语（形容词）"
+   }
+  ],
+  "structure": "①主语 The ballot 指上句评选烂疮杯时的投票，定冠词 the 表示特指；系动词 was；表语 unanimous 意为“全体一致的”。\n②全文以这个四词短句收尾：评委一致投票选中这座楼，进一步坐实了它最差建筑的名声，语气简洁，带有讽刺意味。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "unanimous 的用法",
+    "explain": "unanimous 既可以说明投票、决定本身，如 a unanimous vote、The ballot was unanimous；也可以说明作决定的人，如 The committee was unanimous in its support，后接 in doing sth 或 that 从句。副词 unanimously 常修饰 vote、approve、agree 等动词，如 be approved unanimously（获一致通过）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The board voted unanimously to accept the offer.",
+      "zh": "董事会一致投票同意接受这一报价。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ballot",
+    "explain": "名词，指（通常为无记名的）投票，如 a secret ballot（无记名投票）、hold a ballot（举行投票）；ballot box 是投票箱。视频译为“投票”。"
+   },
+   {
+    "term": "unanimous",
+    "explain": "形容词，意为“全体一致的，一致同意的”，视频译为“全体一致”。它由拉丁语表示“一”的 unus 和表示“心意”的 animus 构成，字面义是“同一个心意”。"
+   }
+  ],
+  "translation_tip": "视频译文“这次投票全体一致。”的处理：①The ballot 译为“这次投票”，the 回指评选烂疮杯的那次投票，补出“这次”。②系动词 was 不单独译出，表语 unanimous 译为“全体一致”，形成汉语的主谓结构。"
+ }
+]

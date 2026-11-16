@@ -1,0 +1,58 @@
+[
+ {
+  "key": 1,
+  "field": "grammar[0].explain",
+  "before": "同位语从句用来说明抽象名词的具体内容，常见的先行名词有 news、fact、idea、belief、evidence、hope、possibility、rumour 等。that 在同位语从句中不充当任何成分，后面是一个完整的句子；定语从句中的 that 则在从句里作主语或宾语，这是两者最可靠的区分方法。主语带同位语从句而谓语很短时，英语常把从句移到谓语之后，避免头重脚轻，如本句 the news broke that…，又如 A rumour spread that…、Word came that…。考研阅读中遇到 that 从句与前面的名词被谓语隔开，要回头找它所说明的名词，不能把它误判为宾语从句。",
+  "after": "同位语从句用来说明抽象名词的具体内容，常见的先行名词有 news、fact、idea、belief、evidence、hope、possibility、rumour 等。that 在同位语从句中不充当任何成分，后面是一个完整的句子；定语从句中的 that 则在从句里充当主语、宾语等成分，这是两者最可靠的区分方法。主语带同位语从句而谓语很短时，英语常把从句移到谓语之后，避免头重脚轻，如本句 the news broke that…，又如 A rumour spread that…、Word came that…。考研阅读中遇到 that 从句与前面的名词被谓语隔开，要回头找它所说明的名词，不能把它误判为宾语从句。",
+  "reason": "关系代词 that 在定语从句中还可作表语等，原说法“作主语或宾语”不全。"
+ },
+ {
+  "key": 6,
+  "field": "knowledge[magnifying glass].explain",
+  "before": "放大镜。magnifying 是 magnify（放大）的现在分词，作定语表示用途，类似的有 a reading lamp。",
+  "after": "放大镜。magnifying 是 magnify（放大）的 -ing 形式，作前置定语说明镜片的功能，即“用来放大的镜片”；-ing 形式作定语表示用途的还有 a reading lamp（阅读灯）。",
+  "reason": "原文把“现在分词”与“表示用途”混用；按国内通行说法，表用途的 -ing 定语是动名词，改为中性的“-ing 形式”并说清作用。"
+ },
+ {
+  "key": 9,
+  "field": "knowledge[parking bay].explain",
+  "before": "英式英语，指地面上划线标出的停车位；bay 本义“海湾”，引申为划出作特定用途的一块区域，如 loading bay（装卸区）。视频译为“路边停车位”，“路边”根据第2句车停在人行道旁的情境增补。",
+  "after": "英式英语，指地面上划线标出的停车位；这里的 bay 不是“海湾”，而是指划出作特定用途的一块区域，如 loading bay（装卸区）；它与表示“海湾”的 bay 词源不同，并非由“海湾”引申而来。视频译为“路边停车位”，“路边”根据第2句车停在人行道旁的情境增补。",
+  "reason": "词源错误：据 Etymonline，表示“隔间、区域”的 bay 与表示“海湾”的 bay 是来源不同的两个词。"
+ },
+ {
+  "key": 9,
+  "field": "grammar[0].examples[0].zh",
+  "before": "道路封闭了三个小时，以便移走受损的卡车。",
+  "after": "移走受损卡车期间，道路封闭了三个小时。",
+  "reason": "while 意为“在……期间”，原译“以便”把它误译成目的。"
+ },
+ {
+  "key": 16,
+  "field": "structure",
+  "before": "①句首 In 2010 是时间状语。\n②主语 the infamous glare 的中心词是 glare（强光，刺眼的光），infamous 是前置定语，意为“臭名昭著的”，说明这次强光事件广为人知且名声很坏。\n③from his curved, reflective Vdara hotel in Las Vegas 是介词短语作后置定语，修饰 glare（视频说明），说明强光的来源。his 指维诺利；curved 和 reflective 是两个并列的前置定语，用逗号隔开，分别说明酒店外墙弯曲、表面反光；in Las Vegas 又修饰 Vdara hotel，说明酒店所在城市。\n④谓语 burned，宾语 a guest's scalp；by the pool 是地点状语，说明事发地点在泳池边。\n⑤主语从 the 到 Las Vegas 共11个词，谓语 burned 到句子后半才出现，读时要先找到中心词 glare，再找谓语。本句是上句的例证：curved（弯曲）、reflective（反光）两个词点出了与芬丘奇街20号相同的问题。",
+  "after": "①句首 In 2010 是时间状语。\n②主语 the infamous glare 的中心词是 glare（强光，刺眼的光），infamous 是前置定语，意为“臭名昭著的”，说明这次强光事件广为人知且名声很坏。\n③from his curved, reflective Vdara hotel in Las Vegas 是介词短语作后置定语，修饰 glare（视频说明），说明强光的来源。his 指维诺利；curved 和 reflective 是两个并列的前置定语，用逗号隔开，分别说明酒店外墙弯曲、表面反光；in Las Vegas 又修饰 Vdara hotel，说明酒店所在城市。\n④谓语 burned，宾语 a guest's scalp；by the pool 是地点状语，说明事发地点在泳池边。\n⑤主语从 the 到 Las Vegas 共12个词，谓语 burned 到句子后半才出现，读时要先找到中心词 glare，再找谓语。本句是上句的例证：curved（弯曲）、reflective（反光）两个词点出了与芬丘奇街20号相同的问题。",
+  "reason": "数错：the infamous glare from his curved, reflective Vdara hotel in Las Vegas 共12个词。"
+ },
+ {
+  "key": 17,
+  "field": "components[to diffuse the brightness,].role",
+  "before": "不定式短语表目的，说明加装鳍片的用途",
+  "after": "后置定语（不定式短语，表目的），修饰 fins，说明加装鳍片的用途",
+  "reason": "冒号后是不带谓语的名词短语，不定式在其中修饰 fins；原 role 未写明成分。"
+ },
+ {
+  "key": 17,
+  "field": "components[reportedly costing several million pounds.].role",
+  "before": "现在分词短语，补充说明这项方案的花费（reportedly 是评注性状语）",
+  "after": "非限制性后置定语（现在分词短语），补充说明这项方案的花费（reportedly 是评注性状语）",
+  "reason": "原 role 未写明成分，补出具体成分名称。"
+ },
+ {
+  "key": 18,
+  "field": "knowledge[the Carbuncle Cup].explain",
+  "before": "英国《建筑设计》杂志每年评出的一个讽刺性“奖项”，颁给英国当年最糟糕的新建筑，视频译为“烂疮杯”。carbuncle 本义是“痈，疔疮”；这个名称典出1984年查尔斯王子（今英国国王查尔斯三世）的一次演讲，他把伦敦国家美术馆的一个扩建方案比作 a monstrous carbuncle（一个丑陋的大疮）。此后 carbuncle 在英式英语中常用来贬称难看的建筑。",
+  "after": "英国《建筑设计》杂志曾每年评出的一个讽刺性“奖项”，颁给英国当年最糟糕的新建筑，视频译为“烂疮杯”。carbuncle 本义是“痈，疔疮”；这个名称典出1984年查尔斯王子（今英国国王查尔斯三世）的一次演讲，他把伦敦国家美术馆的一个扩建方案比作 a monstrous carbuncle（一个丑陋的大疮）。此后 carbuncle 在英式英语中常用来贬称难看的建筑。",
+  "reason": "该奖并非至今仍由该刊每年评选，加“曾”避免把过去的事实写成现状。"
+ }
+]
