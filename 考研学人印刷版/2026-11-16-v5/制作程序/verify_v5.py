@@ -28,7 +28,7 @@ for i,(t,pg) in enumerate(ch):
     txt=norm(''.join(doc[k].get_text() for k in range(pg-1,end)))
     for para in d['english_paragraphs']+d['chinese_paragraphs']:
         if norm(para) not in txt: missing_text.append((n,para[:40]))
-    x=doc[pg-1].get_images(full=True)[0][0]; pix=pymupdf.Pixmap(doc,x); im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples)
+    x=[im for im in doc[pg-1].get_images(full=True) if (im[2],im[3])!=(1040,1477)][0][0]; pix=pymupdf.Pixmap(doc,x); im=Image.frombytes('RGB',(pix.width,pix.height),pix.samples)   # first image that is not the parchment background
     sc={k:score(im,v) for k,v in vids.items()}; best=min(sc,key=sc.get)
     if best!=n or sc[n]>12: img_bad.append((n,best,round(sc[n],1)))
     src=json.load(open(R+'/'+json.load(open(S+'/book/final_sources.json'))[d['source_id']])) if d['source_id'] in json.load(open(S+'/book/final_sources.json')) else None

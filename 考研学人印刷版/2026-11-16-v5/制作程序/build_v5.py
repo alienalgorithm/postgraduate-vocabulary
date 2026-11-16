@@ -32,6 +32,23 @@ W, H = 176 * MM, 250 * MM
 INNER, OUTER, TOP, BOTTOM = 21 * MM, 16 * MM, 23 * MM, 22 * MM
 TW = W - INNER - OUTER
 INK = '#1F2B27'; ACCENT = '#2A6B57'; MUTED = '#86918A'; RULE = '#C9D3CC'
+import os
+THEME = os.environ.get('KAOYAN_THEME', 'plain')   # 'parchment' = 羊皮纸古书版 (user 2026-11-16); same text, same layout
+if THEME == 'parchment':
+    INK = '#2E2216'; ACCENT = '#7E3B1E'; MUTED = '#7C6650'; RULE = '#B39A73'
+
+def diamond(c, cx, cy, r, color=None):
+    c.setFillColor(colors.HexColor(color or ACCENT))
+    p = c.beginPath(); p.moveTo(cx, cy + r); p.lineTo(cx + r * 0.62, cy); p.lineTo(cx, cy - r); p.lineTo(cx - r * 0.62, cy); p.close()
+    c.drawPath(p, stroke=0, fill=1)
+
+def parchment_page(c, page):
+    """Aged-paper background (procedural, 制作程序/parchment.py; spine shade on the binding side) + double rule frame."""
+    c.drawImage(str(S / '插图JPEG' / ('parchment-recto.jpg' if page % 2 else 'parchment-verso.jpg')), 0, 0, width=W, height=H)
+    c.setStrokeColor(colors.HexColor(RULE)); c.setLineWidth(0.9); c.rect(9 * MM, 9 * MM, W - 18 * MM, H - 18 * MM, stroke=1, fill=0)
+    c.setLineWidth(0.35); c.rect(10.4 * MM, 10.4 * MM, W - 20.8 * MM, H - 20.8 * MM, stroke=1, fill=0)
+    for (x, y) in [(9, 9), (W / MM - 9, 9), (9, H / MM - 9), (W / MM - 9, H / MM - 9)]:
+        diamond(c, x * MM, y * MM, 2.3, RULE)
 for name, f in [('EN', 'SourceSerif4Text-Regular.ttf'), ('ENI', 'SourceSerif4Text-Italic.ttf'),
                 ('END', 'SourceSerif4Display-Regular.ttf'), ('ENDI', 'SourceSerif4Display-Italic.ttf'),
                 ('ZH', 'NotoSerifSC-Regular.ttf')]:
@@ -150,16 +167,23 @@ class Book:
     def new_page(self, head=None, opener=False):
         if self.page: self.end_page()
         self.page += 1; self.head = head; self.opener = opener; self.y = H - TOP
+        if THEME == 'parchment': parchment_page(self.c, self.page)
     def end_page(self):
         c = self.c
+        old = THEME == 'parchment'
+        hy, fy = (H - 16 * MM, 14.6 * MM) if old else (H - 13 * MM, 12 * MM)
         if self.head and not self.opener:
             c.setFont('ZHS', 7.6); c.setFillColor(colors.HexColor(MUTED))
-            if self.page % 2 == 0: c.drawString(OUTER, H - 13 * MM, '考研学人')
-            else: c.drawRightString(W - OUTER, H - 13 * MM, self.head)
+            if old: c.drawCentredString(W / 2, hy, '考研学人' if self.page % 2 == 0 else self.head)
+            elif self.page % 2 == 0: c.drawString(OUTER, hy, '考研学人')
+            else: c.drawRightString(W - OUTER, hy, self.head)
         if self.head:
             c.setFont('EN', 8.6); c.setFillColor(colors.HexColor(MUTED))
-            if self.page % 2 == 0: c.drawString(OUTER, 12 * MM, str(self.page))
-            else: c.drawRightString(W - OUTER, 12 * MM, str(self.page))
+            if old:                                   # centred folio between two small diamonds
+                c.drawCentredString(W / 2, fy, str(self.page)); w2 = pdfmetrics.stringWidth(str(self.page), 'EN', 8.6) / 2
+                diamond(c, W / 2 - w2 - 7, fy + 3, 1.9, RULE); diamond(c, W / 2 + w2 + 7, fy + 3, 1.9, RULE)
+            elif self.page % 2 == 0: c.drawString(OUTER, fy, str(self.page))
+            else: c.drawRightString(W - OUTER, fy, str(self.page))
         c.showPage()
     def mark(self, title, level):
         key = f'k{self.outline_keys}'; self.outline_keys += 1
@@ -201,14 +225,19 @@ def opener(b, d, img):
     spare = max(0.0, (H - TOP - BOTTOM) - block)
     y = H - 21 * MM - spare * 0.38                       # optical centre, slightly above middle
     c.setFont('END', 30); c.setFillColor(colors.HexColor(ACCENT)); c.drawString(x, y - 26, d['id'])
-    c.setStrokeColor(colors.HexColor(RULE)); c.setLineWidth(0.6); c.line(x + 44, y - 16, x + TW, y - 16)
+    c.setStrokeColor(colors.HexColor(RULE)); c.setLineWidth(0.6); c.line(x + 44, y - 16, x + TW - (8 if THEME == 'parchment' else 0), y - 16)
+    if THEME == 'parchment': diamond(c, x + TW - 3, y - 16, 2.8)
     y -= 52
     t = CJKPara([(d['title_zh'], 'ZH', INK)], 21, 29); t.size = 21; t.runs = [(d['title_zh'], 'ZH', INK)]
     t.wrap(TW, 400); t.last_is_end = True; t.draw(c, x, y); y -= len(t.lines) * 29 + 2
     st = ParagraphStyle('ent', fontName='ENDI', fontSize=13.5, leading=17.5, textColor=colors.HexColor(MUTED))
     p = Paragraph(escape(d['title_en']), st); _, h = p.wrap(TW, 200); p.drawOn(c, x, y - h); y -= h + 16
     ih = TW * 1024 / 1536
-    c.drawImage(str(img), x, y - ih, width=TW, height=ih); y -= ih + 22
+    c.drawImage(str(img), x, y - ih, width=TW, height=ih)
+    if THEME == 'parchment':                         # framed like a tipped-in plate
+        c.setStrokeColor(colors.HexColor(RULE)); c.setLineWidth(0.6); c.rect(x - 3, y - ih - 3, TW + 6, ih + 6, stroke=1, fill=0)
+        c.setLineWidth(0.3); c.rect(x - 5.5, y - ih - 5.5, TW + 11, ih + 11, stroke=1, fill=0)
+    y -= ih + 22
     c.setFillColor(colors.HexColor(ACCENT)); c.rect(x, y - 30, 2.2, 30, stroke=0, fill=1)
     q = CJKPara([(d['cover_question'], 'ZH', INK)], 12, 19); q.wrap(TW - 14, 200); q.draw(c, x + 12, y - 1)
     # user 2026-11-16: no word counts / key-word counts on the opener
@@ -295,6 +324,10 @@ def chapter(b, d, img):
     b.y -= 12
     b.mark('词汇与表达', 1); vocabulary(b, d)
     b.mark('文章简述', 1); summary(b, d)
+    if THEME == 'parchment' and b.avail() > 34:      # end-of-story fleuron
+        cx = b.x0() + TW / 2; cy = b.y - 20
+        diamond(b.c, cx, cy, 3.4); diamond(b.c, cx - 11, cy, 2.1); diamond(b.c, cx + 11, cy, 2.1)
+        b.y -= 34
 
 # ------------------------------------------------------------------ front / back matter
 def front(b, meta, chapters, cover_img, n_vocab):
@@ -350,7 +383,7 @@ def build(out, data_dir, img_dir, meta, cover, backc, only=None, toc_pages=None)
     n_vocab = sum(len(i) for d in every for _, i in vocab_by_paragraph(d))      # entries actually listed in the book
     b = Book(out, toc_pages)
     c = b.c
-    c.setTitle('考研学人｜70篇趣味英语阅读'); c.setAuthor('朋克英语'); c.setSubject('70篇故事 · 中英双语 · 重点词与短语 · 文章简述'); c.setCreator('朋克英语'); c.setKeywords('考研英语, 阅读, 词汇')
+    c.setTitle('考研学人｜70篇趣味英语阅读' + ('（羊皮纸版）' if THEME == 'parchment' else '')); c.setAuthor('朋克英语'); c.setSubject('70篇故事 · 中英双语 · 重点词与短语 · 文章简述'); c.setCreator('朋克英语'); c.setKeywords('考研英语, 阅读, 词汇')
     front(b, meta, chapters, cover, n_vocab)
     for d in chapters:
         chapter(b, d, Path(img_dir) / f'{d["id"]}.jpg'); print('chapter', d['id'], 'page', b.page, flush=True)
