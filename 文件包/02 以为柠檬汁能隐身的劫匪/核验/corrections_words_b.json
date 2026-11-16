@@ -1,0 +1,51 @@
+[
+ {
+  "key": "id=31 discernment",
+  "field": "usage_detail",
+  "before": "discern 中的 s 读 /s/，不读 /z/。",
+  "after": "discern 中的 s，Oxford 和 Cambridge 都标作 /s/（/dɪˈsɜːn/）。",
+  "reason": "Merriam-Webster 也收 /z/ 读法，“不读 /z/”过于绝对，改为按 Oxford、Cambridge 的标音说明。"
+ },
+ {
+  "key": "id=33 paper",
+  "field": "context_usage",
+  "before": "后文第13句的 the authors、第14句的 the paper 都指它。",
+  "after": "后文第13句的 the authors 指这篇论文的两位作者，第14句的 the paper 指的就是这篇论文。",
+  "reason": "the authors 指论文作者，不是指论文本身，原说法“都指它”不准确。"
+ },
+ {
+  "key": "id=33 paper",
+  "field": "usage_detail",
+  "before": "“关于……的论文”用 a paper on sth，不用 about；",
+  "after": "“关于……的论文”一般用 a paper on sth；",
+  "reason": "a paper about sth 也有人用，只是 on 更规范，“不用 about”过于绝对。"
+ },
+ {
+  "key": "id=37 scorer",
+  "field": "etymology",
+  "before": "古人在木签上刻痕计数，每数到二十刻一道，因此 score 既指“刻痕，记录”，又指“二十”",
+  "after": "一般认为这与古人计数的方式有关：数大批牲畜等时，每数到二十就在木签上刻一道痕，所以 score 既指“刻痕，记录”，又指“二十”",
+  "reason": "Etymonline 对“刻痕计数”只作推测（probably），原文写成确定事实，改为推测语气。"
+ },
+ {
+  "key": "id=43 dual",
+  "field": "usage_detail",
+  "before": "duel 来自拉丁语 duellum（战争），与 duo 无关。",
+  "after": "duel 来自拉丁语 duellum（bellum“战争”的古体），本与 duo 无关，中世纪拉丁语受 duo 的联想影响，才有了“两人决斗”的意思。",
+  "reason": "据 Etymonline，duel 的“两人决斗”义正是中世纪受 duo 联想影响而来，“与 duo 无关”的说法不完整。"
+ },
+ {
+  "key": "id=45 call for",
+  "field": "usage_detail",
+  "before": "及物短语动词，后接名词，不直接接 to do。",
+  "after": "及物短语动词，后接名词，不直接接 to do；表示“呼吁某人做某事”用 call for sb to do sth，如 They called for the minister to resign。",
+  "reason": "补出常用结构 call for sb to do sth，避免学生把“不直接接 to do”误解为不能接不定式结构。"
+ },
+ {
+  "key": "id=54 empirically",
+  "field": "context_usage",
+  "before": "也呼应了邓宁的观点：能力不足的人连检验自己的方法也是错的。",
+  "after": "也呼应了邓宁的观点：能力不足的人，往往也缺少看出自己错误的能力。惠勒没做好自拍测试，又把没拍到自己误当成“隐身”成功，正是如此。",
+  "reason": "原文把邓宁的观点概括为“连检验方法也是错的”，与第10句和视频说明（缺少发现自己错误的能力）不符，改为与之一致的表述。"
+ }
+]

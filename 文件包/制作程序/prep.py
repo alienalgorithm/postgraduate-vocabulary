@@ -4,14 +4,14 @@ import importlib.util, json, re, sys
 from pathlib import Path
 S = Path('/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad')
 spec = importlib.util.spec_from_file_location('b5', S / 'v5/build_v5.py'); B5 = importlib.util.module_from_spec(spec)
-sys.argv = ['x']; spec.loader.exec_module(B5)
+_argv = sys.argv; sys.argv = ['x']; spec.loader.exec_module(B5); sys.argv = _argv   # build_v5 parses argv on import
 
 def zh_plain(m):
     m = re.sub(r'\{\{[^{}]*\}\}', '', m)
     m = re.sub(r'\*\*([^*]+)\*\*\([^)]*\)', r'\1', m)
     return m.replace('**', '').replace('\n', '')
 
-def en_plain(m): return m.replace('**', '')
+def en_plain(m): return re.sub(r'\s{2,}', ' ', re.sub(r'\{\{[^{}]*\}\}', '', m)).replace('**', '').strip()   # {{一行}} etc. are layout hints
 
 def prep(no):
     d = json.loads((S / f'v5/data/{no}.json').read_text())
@@ -26,7 +26,8 @@ def prep(no):
                       'zh_markup': ''.join(c['zh'] for c in ch),
                       'video_notes': [c['note'].split('\n（简述')[0].replace('\n', '') for c in ch if c.get('note')] +
                                      [g for c in ch for g in re.findall(r'\{\{([^|{}]*)\|[^{}]*\}\}', c['zh'])],
-                      'chunks': [{'en': en_plain(c['en']), 'zh': zh_plain(c['zh'])} for c in ch]})
+                      'chunks': [{'en': en_plain(c['en']), 'zh': zh_plain(c['zh'])} for c in ch],
+                      'align': [[en_plain(e).strip(), zh_plain(z).strip()] for c in ch for e, z in c.get('align', [])]})
     # consistency with the book text
     for p, txt in enumerate(d['english_paragraphs'], 1):
         joined = ' '.join(s['en'] for s in sents if s['para'] == p)

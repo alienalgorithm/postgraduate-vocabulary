@@ -10,7 +10,9 @@ def build(no, out):
     b = B.Book(out); c = b.c
     c.setTitle(f'{no} {d["title_zh"]}｜阅读版'); c.setAuthor('朋克英语'); c.setCreator('朋克英语')
     c.setSubject('英文原文 · 中文译文 · 词汇与表达 · 文章简述')
-    B.chapter(b, d, V5 / f'插图JPEG/{no}.jpg'); b.end_page(); c.save()
+    img = V5 / f'插图JPEG/{no}.jpg'
+    if not img.exists(): img = Path('/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/v5/jpg') / f'{no}.jpg'   # same bytes; the sparse checkout may hide media
+    B.chapter(b, d, img); b.end_page(); c.save()
     return b.page
 
 if __name__ == '__main__':

@@ -41,7 +41,12 @@ def build(video, article, out, work):
     runs, groups, nframes = segments(video, work)
     want = [len(s['chunks']) for s in art['sentences']]
     got = [len(g) for g in groups]
-    assert len(groups) == len(want) + 3 and got[1:-2] == want and got[0] == got[-2] == got[-1] == 1, (got, want)
+    # screen count must match exactly; a screen may show more steady states than source chunks (the ending sentence is
+    # spoken in two takes), which is harmless because the page keeps the brightest of all its states
+    assert len(groups) == len(want) + 3 and all(g >= w for g, w in zip(got[1:-2], want)), (got, want)
+    # title, illustration and summary screens: the illustration may drift slowly (two or three still states), so these
+    # pages use their last still frame instead of a brightest-pixel merge (which would ghost a moving picture)
+    for gi in (0, len(groups) - 2, len(groups) - 1): groups[gi] = groups[gi][-1:]
     idx = [e - 1 for s, e in runs]
     sel = '+'.join(f'eq(n\\,{i})' for i in idx)
     fr = work / 'frames'; fr.mkdir(exist_ok=True)

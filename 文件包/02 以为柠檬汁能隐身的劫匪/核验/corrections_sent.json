@@ -1,0 +1,51 @@
+[
+ {
+  "key": "n=1",
+  "field": "grammar[0].explain",
+  "before": "放在名词后作表语时不用连字符，名词用复数，如 The plan lasts five years。",
+  "after": "不作前置定语时不用连字符，名词照常用复数，如 The plan will last five years。",
+  "reason": "The plan lasts five years 中 five years 是时间状语，不是“名词后的表语”，原说法术语有误，改为“不作前置定语时”。"
+ },
+ {
+  "key": "n=2",
+  "field": "trunk.explain",
+  "before": "主干之后的过去分词短语 rubbed on 和 that 从句都用来补充说明柠檬汁。",
+  "after": "主干之后，过去分词短语 rubbed on 补充说明柠檬汁，介词短语 in the earnest conviction 交代涂抹时的心态，that 从句再说明 conviction 的具体内容。",
+  "reason": "that 从句是 conviction 的同位语从句，并不直接说明柠檬汁；原句与本句 components 和 structure 的分析矛盾。"
+ },
+ {
+  "key": "n=8",
+  "field": "knowledge[wear].explain",
+  "before": "本句 he had worn the juice 指他脸上抹了柠檬汁",
+  "after": "本句 he had worn the juice 指他身上抹了柠檬汁",
+  "reason": "原文 rubbed on 未说部位，视频译为“涂抹在身上”，讲解应与视频一致，不写“脸上”。"
+ },
+ {
+  "key": "n=13",
+  "field": "structure",
+  "before": "since 从句说明了第二重负担的原因：评估自己用的技能与做事用的技能相同。",
+  "after": "since 从句说明负担为什么是双重的：评估自己用的技能与做事用的技能相同，缺了这套技能，既做不好事，也看不出自己没做好。",
+  "reason": "since 从句解释的是两重负担为何同时存在，不只是第二重负担的原因，原说法不准确。"
+ },
+ {
+  "key": "n=16",
+  "field": "grammar[0].examples[0].en",
+  "before": "The museum's summer exhibition schedule has been delayed.",
+  "after": "The hospital has launched a new staff training programme.",
+  "reason": "原例句 schedule has been delayed 搭配不自然，且混入名词所有格 museum's，示范名词连用作定语不纯；换成地道例句。"
+ },
+ {
+  "key": "n=16",
+  "field": "grammar[0].examples[0].zh",
+  "before": "博物馆的夏季展览日程已推迟。",
+  "after": "这家医院推出了一项新的员工培训计划。",
+  "reason": "随例句更换中文翻译。"
+ },
+ {
+  "key": "n=17",
+  "field": "structure",
+  "before": "；it 回指 his method。视频说明“（他自拍时其实没拍到自己，却误以为是柠檬汁让自己“隐身”了，便冒着坐牢的风险去抢银行。）”交代了他押上自由的是这次抢劫。",
+  "after": "；it 在语法上回指 his method。把自由押在这套办法上，就是相信它有效、靠它去抢银行，所以视频译文把 it 落实为“抢劫”；视频说明“（他自拍时其实没拍到自己，却误以为是柠檬汁让自己“隐身”了，便冒着坐牢的风险去抢银行。）”也交代了这一点。",
+  "reason": "原文只说 it 回指 his method，又说押上自由的是抢劫，两句之间缺少衔接，读者会以为与视频译文“赌在抢劫上”矛盾；补出二者的关系。"
+ }
+]

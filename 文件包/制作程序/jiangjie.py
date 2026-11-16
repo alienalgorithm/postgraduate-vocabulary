@@ -7,6 +7,7 @@ from pathlib import Path
 from doc import *
 
 IND = 12 * MM; CW = TW - IND
+ZHC = '#56645C'   # constituent Chinese: a little lighter than body text
 
 def zh_markup_runs(m):
     return B.zh_runs(re.sub(r'\{\{[^{}]*\}\}', '', m))
@@ -53,8 +54,8 @@ def build(article, content, out):
         d.flow(en, 5, IND); d.flow(zh, 10, IND)
         # ---- trunk
         tr = it['trunk']; lab = trunk_label(it)
-        runs = [('主语  ', 'ZHS', MUTED), (tr['subject'], 'EN', INK), ('     谓语  ', 'ZHS', MUTED), (tr['predicate'], 'EN', INK)]
-        if lab: runs += [(f'     {lab}  ', 'ZHS', MUTED), (tr['object_or_complement'], 'EN', INK)]
+        runs = [('主语  ', 'ZHS', MUTED)] + mixed(tr['subject']) + [('     谓语  ', 'ZHS', MUTED)] + mixed(tr['predicate'])
+        if lab: runs += [(f'     {lab}  ', 'ZHS', MUTED)] + mixed(tr['object_or_complement'])
         d.label('句子主干', IND, 40); d.flow(CJKPara(runs, 10.6, 17), 3, IND)
         d.flow(CJKPara(mixed(tr['explain']), 10, 16.6), 8, IND)
         # ---- constituents
@@ -62,9 +63,10 @@ def build(article, content, out):
         lw = CW * 0.50; rw = CW - lw - 8
         for comp in it['components']:
             lp = en_markup(comp['text'], 10.4, 15); _, lh = lp.wrap(lw, 1e6)
-            rp = CJKPara(mixed(comp['role'], ACCENT), 9.6, 15); _, rh = rp.wrap(rw, 1e6)
-            h = max(lh, rh) + 6; d.need(h)
-            lp.w = lw; lp.draw(c, L + IND, d.y - 2); rp.draw(c, L + IND + lw + 8, d.y - 2)
+            zp = CJKPara(mixed(comp.get('zh', ''), ZHC), 9.8, 14.6); zp.ragged = True; _, zh_ = zp.wrap(lw, 1e6)   # user 2026-11-16: every constituent with its Chinese (the video's wording)
+            rp = CJKPara(mixed(comp['role'], ACCENT), 9.6, 15); rp.ragged = True; _, rh = rp.wrap(rw, 1e6)
+            h = max(lh + 1 + zh_, rh) + 7; d.need(h)
+            lp.w = lw; lp.draw(c, L + IND, d.y - 2); zp.draw(c, L + IND, d.y - 3 - lh); rp.draw(c, L + IND + lw + 8, d.y - 2)
             c.setStrokeColor(C(RULE)); c.setLineWidth(0.3); c.line(L + IND, d.y - h + 1, L + TW, d.y - h + 1)
             d.y -= h
         d.y -= 8

@@ -10,35 +10,43 @@
   "components": [
    {
     "text": "One night in early 2016,",
-    "role": "时间状语（名词短语 One night 直接作状语，in early 2016 作其后置定语）"
+    "role": "时间状语（名词短语 One night 直接作状语，in early 2016 作其后置定语）",
+    "zh": "2016年初的一个夜晚"
    },
    {
     "text": "after keepers at New Zealand's National Aquarium in Napier had left,",
-    "role": "时间状语从句（after 引导）"
+    "role": "时间状语从句（after 引导）",
+    "zh": "在新西兰内皮尔国家水族馆的饲养员离开之后"
    },
    {
     "text": "an octopus",
-    "role": "主语"
+    "role": "主语",
+    "zh": "一只……章鱼"
    },
    {
     "text": "named Inky",
-    "role": "后置定语（过去分词短语），修饰 an octopus"
+    "role": "后置定语（过去分词短语），修饰 an octopus",
+    "zh": "名叫Inky的"
    },
    {
     "text": "crept",
-    "role": "谓语"
+    "role": "谓语",
+    "zh": "悄悄爬了出去"
    },
    {
     "text": "through an aperture",
-    "role": "地点状语（介词短语，表示爬行穿过的路径）"
+    "role": "地点状语（介词短语，表示爬行穿过的路径）",
+    "zh": "从……一道开口"
    },
    {
     "text": "in the mesh",
-    "role": "后置定语（介词短语），修饰 an aperture"
+    "role": "后置定语（介词短语），修饰 an aperture",
+    "zh": "网罩上的"
    },
    {
     "text": "atop its tank.",
-    "role": "后置定语（介词短语），修饰 the mesh"
+    "role": "后置定语（介词短语），修饰 the mesh",
+    "zh": "水箱顶部"
    }
   ],
   "structure": "①主句是 an octopus crept through an aperture：主语 an octopus，谓语 crept，through an aperture 作地点状语，交代爬出的路径。主句前面有两个状语，主语直到句子中部才出现，读的时候要越过前两个逗号找到真正的主语。主语后的 named Inky 是过去分词短语作后置定语，相当于 which was named Inky，章鱼是“被命名”的一方，所以用过去分词。\n②句首 One night in early 2016 是时间状语。One night 是名词短语，前面不加介词即可作状语；in early 2016 是介词短语，作 One night 的后置定语，说明是哪一年哪段时间的夜晚。\n③after 引导时间状语从句。从句主语是 keepers，at New Zealand's National Aquarium 作 keepers 的后置定语，说明是哪里的饲养员；in Napier 又修饰 National Aquarium，说明水族馆所在的城市。从句谓语 had left 用过去完成时，表示饲养员离开发生在章鱼爬出之前。\n④句尾是三层介词短语：through an aperture 说明穿过一道开口，in the mesh 修饰 aperture（网罩上的开口），atop its tank 修饰 mesh（水箱顶部的网罩）。每个介词短语都修饰紧挨在它前面的名词，层层向后递进。",
@@ -132,43 +140,53 @@
   "components": [
    {
     "text": "The fugitive",
-    "role": "主语（指上句的章鱼 Inky）"
+    "role": "主语（指上句的章鱼 Inky）",
+    "zh": "这名逃犯"
    },
    {
     "text": "presumably",
-    "role": "评注性状语（表示作者的推测），修饰后面三个并列谓语"
+    "role": "评注性状语（表示作者的推测），修饰后面三个并列谓语",
+    "zh": "想必"
    },
    {
     "text": "dropped",
-    "role": "谓语一"
+    "role": "谓语一",
+    "zh": "落到了"
    },
    {
     "text": "to the floor,",
-    "role": "方向状语（介词短语），说明落到哪里"
+    "role": "方向状语（介词短语），说明落到哪里",
+    "zh": "地上"
    },
    {
     "text": "crossed",
-    "role": "谓语二"
+    "role": "谓语二",
+    "zh": "穿过了"
    },
    {
     "text": "the room,",
-    "role": "宾语（crossed 的宾语）"
+    "role": "宾语（crossed 的宾语）",
+    "zh": "房间"
    },
    {
     "text": "and compressed",
-    "role": "并列连词 and + 谓语三"
+    "role": "并列连词 and + 谓语三",
+    "zh": "然后……挤"
    },
    {
     "text": "its elastic body",
-    "role": "宾语（compressed 的宾语）"
+    "role": "宾语（compressed 的宾语）",
+    "zh": "它有弹性的身体"
    },
    {
     "text": "into a drain,",
-    "role": "方向状语（介词短语），与 compress 构成 compress sth into sth"
+    "role": "方向状语（介词短语），与 compress 构成 compress sth into sth",
+    "zh": "进了一个排水管道"
    },
    {
     "text": "whose pipe stretched some 50 metres to the Pacific.",
-    "role": "非限制性定语从句，修饰 a drain"
+    "role": "非限制性定语从句，修饰 a drain",
+    "zh": "其管道延伸约50米，通到太平洋"
    }
   ],
   "structure": "①主句是 The fugitive dropped…, crossed…, and compressed…，一个主语带三个并列谓语，按“落到地上、穿过房间、挤进排水管道”的时间顺序排列，用 A, B, and C 的格式连接，and 前的逗号是牛津逗号。三个 -ed 形式都是谓语动词的过去式，不是过去分词作定语，判断依据是它们共用主语 The fugitive，句中没有别的谓语。\n②presumably 是评注性状语，放在主语和谓语之间，管辖后面全部三个动作，表明这条路线是推测出来的，没有人亲眼看到；下一句 Staff reconstructed that route from the slime residue it deposited 交代了推测的依据。\n③whose 引导非限制性定语从句，先行词是 a drain。whose 在从句中作定语，修饰 pipe，whose pipe = the drain's pipe，即这个排水管道的管子。从句主语是 whose pipe，谓语是 stretched（不及物，意为“延伸”）；some 50 metres 是名词短语作距离状语，some 用在数字前表示“大约”；to the Pacific 表示延伸的终点。\n④主语 The fugitive 用“逃犯”指代章鱼，是同义替换，避免重复 Inky 或 the octopus，同时带拟人和诙谐色彩，与标题中的 Escaped 和第5句的 breakout 相呼应。",
@@ -251,23 +269,28 @@
   "components": [
    {
     "text": "Staff",
-    "role": "主语（集合名词，指水族馆的工作人员）"
+    "role": "主语（集合名词，指水族馆的工作人员）",
+    "zh": "工作人员"
    },
    {
     "text": "reconstructed",
-    "role": "谓语"
+    "role": "谓语",
+    "zh": "还原了"
    },
    {
     "text": "that route",
-    "role": "宾语（that 回指上句描述的逃跑路线）"
+    "role": "宾语（that 回指上句描述的逃跑路线）",
+    "zh": "这条路线"
    },
    {
     "text": "from the slime residue",
-    "role": "依据状语（介词短语，from 表示依据）"
+    "role": "依据状语（介词短语，from 表示依据）",
+    "zh": "根据……黏液残迹"
    },
    {
     "text": "it deposited.",
-    "role": "限制性定语从句（省略关系代词 that/which），修饰 the slime residue"
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 the slime residue",
+    "zh": "它留下的"
    }
   ],
   "structure": "①主句 Staff reconstructed that route 是主谓宾结构。that route 回指第2句描述的路线：落到地上、穿过房间、挤进排水管道。\n②from the slime residue 是介词短语作状语，from 表示判断的依据，意为“根据……”。slime residue 是名词修饰名词，slime 作 residue 的前置定语，意为“黏液的残迹”。\n③it deposited 是省略了关系代词的限制性定语从句，完整形式是 the slime residue (that/which) it deposited。被省略的关系代词在从句中作 deposited 的宾语，所以可以省略；从句主语 it 指章鱼 Inky。\n④本句与上句的 presumably 相互照应：路线没有人目击，是工作人员根据黏液残迹推断还原的，这也是上句用“想必”的原因。",
@@ -346,23 +369,28 @@
   "components": [
    {
     "text": "Inky",
-    "role": "主语"
+    "role": "主语",
+    "zh": "Inky"
    },
    {
     "text": "had resided",
-    "role": "谓语（过去完成时）"
+    "role": "谓语（过去完成时）",
+    "zh": "一直居住"
    },
    {
     "text": "in captivity",
-    "role": "地点状语（介词短语，说明居住的环境）"
+    "role": "地点状语（介词短语，说明居住的环境）",
+    "zh": "在圈养环境中"
    },
    {
     "text": "since 2014,",
-    "role": "时间状语（介词短语，since 表示持续的起点）"
+    "role": "时间状语（介词短语，since 表示持续的起点）",
+    "zh": "从2014年起"
    },
    {
     "text": "when a fisherman retrieved it from a crayfish pot off Napier.",
-    "role": "非限制性定语从句，修饰 2014"
+    "role": "非限制性定语从句，修饰 2014",
+    "zh": "那一年，一名渔民从内皮尔附近海域的一个捕龙虾的笼子里取出了它"
    }
   ],
   "structure": "①主句 Inky had resided in captivity since 2014 是主谓结构，in captivity 说明居住的环境，since 2014 说明持续的起点。前三句叙述2016年的出逃，用一般过去时；本句回溯到更早的2014年，用过去完成时，表示从2014年持续到出逃那时的状态。\n②when 引导非限制性定语从句，先行词是年份 2014（视频说明：when 引出非限制性定语从句，说明2014年发生的事）。when 在从句中作时间状语，相当于 in which，即 in 2014。\n③从句内部：主语 a fisherman，谓语 retrieved（一般过去时），宾语 it（指 Inky）；from a crayfish pot 说明从哪里取出；off Napier 是介词短语作后置定语，修饰 a crayfish pot，说明笼子位于内皮尔附近的海域。",
@@ -441,19 +469,23 @@
   "components": [
    {
     "text": "The breakout",
-    "role": "主语"
+    "role": "主语",
+    "zh": "这次越狱"
    },
    {
     "text": "went",
-    "role": "系动词（go 表示处于某种状态）"
+    "role": "系动词（go 表示处于某种状态）",
+    "zh": "（系动词，与 unreported 合译为“没有被报道”）"
    },
    {
     "text": "unreported",
-    "role": "表语（形容词）"
+    "role": "表语（形容词）",
+    "zh": "没有被报道"
    },
    {
     "text": "for about three months.",
-    "role": "时间状语（介词短语，表示状态持续的时间段）"
+    "role": "时间状语（介词短语，表示状态持续的时间段）",
+    "zh": "大约三个月"
    }
   ],
   "structure": "①本句是主系表结构。go 不是“去”，而是系动词，go + 形容词表示处于某种状态（视频说明：go + 形容词：处于某种状态；go unreported：没有被报道）。unreported 由否定前缀 un- 加过去分词 reported 构成，作表语，同时带有否定和被动意义。\n②for about three months 是 for + 时间段 作时间状语，表示“没有被报道”这一状态持续了大约三个月，about 修饰数量。\n③语义上，本句说的是这次逃脱发生后约三个月才被媒体报道；“未被报道”不等于“尚未被发现”，第3句已经交代工作人员根据黏液残迹还原了逃跑路线。\n④The breakout 是名词化表达，用一个名词概括前文的整个出逃过程，作本句主语。",
@@ -513,19 +545,23 @@
   "components": [
    {
     "text": "Made public in April 2016,",
-    "role": "时间状语（过去分词短语，相当于 After it was made public in April 2016）"
+    "role": "时间状语（过去分词短语，相当于 After it was made public in April 2016）",
+    "zh": "2016年4月被公开之后"
    },
    {
     "text": "the story",
-    "role": "主语"
+    "role": "主语",
+    "zh": "这个故事"
    },
    {
     "text": "travelled",
-    "role": "谓语"
+    "role": "谓语",
+    "zh": "传遍了"
    },
    {
     "text": "the globe.",
-    "role": "宾语"
+    "role": "宾语",
+    "zh": "全球"
    }
   ],
   "structure": "①主句 the story travelled the globe 是主谓宾结构。travel 通常作不及物动词（travel to a place），本句作及物动词，后接 the globe，意为“走遍、传遍”；主语是 the story，指这个故事在全球传播开来，是 travel 的引申用法。\n②句首 Made public in April 2016 是过去分词短语作时间状语（视频说明：过去分词短语作状语，= After it was made public…）。它的逻辑主语是主句主语 the story：故事是“被公开”的，二者是被动关系，所以用过去分词 made。\n③分词短语内部：make sth public（使某事公开）是“make + 宾语 + 宾语补足语”结构，变成被动 be made public 后，public 作主语补足语；省去 After it was 就得到 Made public。in April 2016 作时间状语，月份前用 in。",
@@ -600,19 +636,23 @@
   "components": [
    {
     "text": "Such agility",
-    "role": "主语（such 回指前文 Inky 出逃时表现出的灵巧）"
+    "role": "主语（such 回指前文 Inky 出逃时表现出的灵巧）",
+    "zh": "这样灵巧的身手"
    },
    {
     "text": "stems from",
-    "role": "谓语（短语动词，表示“源于”）"
+    "role": "谓语（短语动词，表示“源于”）",
+    "zh": "源于"
    },
    {
     "text": "an octopus's pliable body,",
-    "role": "宾语"
+    "role": "宾语",
+    "zh": "章鱼柔韧的身体"
    },
    {
     "text": "which has no skeleton or shell.",
-    "role": "非限制性定语从句，修饰 an octopus's pliable body"
+    "role": "非限制性定语从句，修饰 an octopus's pliable body",
+    "zh": "这种身体没有骨骼，也没有外壳"
    }
   ],
   "structure": "①主句 Such agility stems from an octopus's pliable body 是主谓宾结构。Such agility 回指第1、2句 Inky 钻出网罩开口、挤进排水管道的表现，承上启下，把文章从讲述事件转到解释原因。\n②时态由前文的一般过去时转为一般现在时：第1至6句叙述2014年至2016年发生的具体事件，本句起陈述章鱼这一物种的普遍特征。an octopus's 中的 an 表示类指，泛指任何一只章鱼，不专指 Inky。\n③which 引导非限制性定语从句，先行词是 an octopus's pliable body，which 在从句中作主语。从句谓语是 has，宾语是 no skeleton or shell：no 同时否定 skeleton 和 shell 两个名词，即既没有骨骼也没有外壳，补充说明这种身体为什么柔韧。",
@@ -695,31 +735,38 @@
   "components": [
    {
     "text": "Its only hard part",
-    "role": "主语（前一分句）"
+    "role": "主语（前一分句）",
+    "zh": "它唯一坚硬的部位"
    },
    {
     "text": "is",
-    "role": "系动词"
+    "role": "系动词",
+    "zh": "是"
    },
    {
     "text": "its beak,",
-    "role": "表语"
+    "role": "表语",
+    "zh": "喙"
    },
    {
     "text": "so",
-    "role": "并列连词，表示结果"
+    "role": "并列连词，表示结果",
+    "zh": "所以"
    },
    {
     "text": "any crevice",
-    "role": "主语（后一分句）"
+    "role": "主语（后一分句）",
+    "zh": "任何……缝隙"
    },
    {
     "text": "that accommodates the beak",
-    "role": "限制性定语从句，修饰 any crevice"
+    "role": "限制性定语从句，修饰 any crevice",
+    "zh": "容得下喙的"
    },
    {
     "text": "will do.",
-    "role": "谓语（will do：行得通，够用）"
+    "role": "谓语（will do：行得通，够用）",
+    "zh": "都行"
    }
   ],
   "structure": "①全句由并列连词 so 连接两个分句，前一分句说原因，后一分句说结果。\n②前一分句 Its only hard part is its beak 是主系表结构。Its 指章鱼；only 是形容词，意为“唯一的”，放在限定词 its 之后、名词之前；its beak 作表语。\n③后一分句的主语是 any crevice，后接 that 引导的限制性定语从句。that 指代 crevice，在从句中作主语，所以不能省略；从句谓语 accommodates 用第三人称单数，与先行词 crevice 保持一致；the beak 是从句的宾语。主句谓语 will do 中，do 是不及物动词，意为“行、够用”，will 表示一般情况下的必然结果。\n④逻辑上，any + 名词 + 定语从句 带有条件意味：任何容得下喙的缝隙都行，等于说只要喙能通过，身体就能挤过去。上一句说章鱼身体柔软，本句补上唯一的限制：坚硬的喙。",
@@ -798,19 +845,23 @@
   "components": [
    {
     "text": "Roughly two-thirds of its 500 million neurons",
-    "role": "主语（分数 + of 短语；roughly 修饰数量 two-thirds）"
+    "role": "主语（分数 + of 短语；roughly 修饰数量 two-thirds）",
+    "zh": "它的5亿个神经元中，大约三分之二"
    },
    {
     "text": "lie",
-    "role": "谓语（不及物动词，意为“位于”）"
+    "role": "谓语（不及物动词，意为“位于”）",
+    "zh": "位于"
    },
    {
     "text": "in the limbs,",
-    "role": "地点状语（介词短语）"
+    "role": "地点状语（介词短语）",
+    "zh": "腕足里"
    },
    {
     "text": "which handle sensory input and react with some autonomy.",
-    "role": "非限制性定语从句，修饰 the limbs"
+    "role": "非限制性定语从句，修饰 the limbs",
+    "zh": "腕足处理感官输入，并且在做出反应时有一定的自主性"
    }
   ],
   "structure": "① 主句是 Roughly two-thirds of its 500 million neurons lie in the limbs，句型为主谓结构加地点状语。主语的中心是分数 two-thirds，of its 500 million neurons 说明“整体”是什么，its 回指上文的 an octopus。分数作主语时，谓语的单复数看 of 后面的名词：neurons 是复数，所以谓语用 lie 而不用 lies。\n② which handle sensory input and react with some autonomy 是非限制性定语从句，用逗号与主句隔开，先行词是紧挨着它的 the limbs，视频译文“腕足处理感官输入”也是以 the limbs 为先行词。which 在从句中作主语；从句谓语是由 and 连接的两个并列动词 handle 和 react，二者共用主语 which。handle 是及物动词，sensory input 作它的宾语；react 是不及物动词，后面的介词短语 with some autonomy 作方式状语。从句谓语用复数形式 handle、react，与复数先行词 the limbs 保持一致。\n③ 全句信息分两层：主句给出神经元的分布（约三分之二在腕足里），定语从句补充腕足的功能（处理感官信息、反应时有一定自主性）。",
@@ -893,19 +944,23 @@
   "components": [
    {
     "text": "Its wits",
-    "role": "主语"
+    "role": "主语",
+    "zh": "它的机智/智慧"
    },
    {
     "text": "are",
-    "role": "系动词（谓语）"
+    "role": "系动词（谓语）",
+    "zh": "（系动词，不单独译出）"
    },
    {
     "text": "as versatile",
-    "role": "表语（第一个 as 是程度副词，修饰形容词 versatile）"
+    "role": "表语（第一个 as 是程度副词，修饰形容词 versatile）",
+    "zh": "一样用途广泛"
    },
    {
     "text": "as its anatomy.",
-    "role": "比较状语从句（第二个 as 是连词，从句为省略形式，= as its anatomy is versatile）"
+    "role": "比较状语从句（第二个 as 是连词，从句为省略形式，= as its anatomy is versatile）",
+    "zh": "和它的身体构造"
    }
   ],
   "structure": "① 主干是 Its wits are versatile，主系表结构。its 指章鱼，wits 用复数形式，指“头脑，才智”，视频译为“机智/智慧”。\n② as ... as 构成同级比较。第一个 as 是副词，修饰 versatile，表示“同样地”；第二个 as 是连词，引导比较状语从句。从句完整形式是 as its anatomy is (versatile)，与主句相同的系动词和表语被省略，只保留比较对象 its anatomy。\n③ 比较双方是 its wits 和 its anatomy，都由物主代词 its 修饰，是同一主体（章鱼）的两个方面，结构对称。\n④ 篇章上，本句是第四段的主题句：as its anatomy 回扣第三段讲的身体构造（没有骨骼和外壳、只有喙是硬的、神经元多在腕足里），wits 引出本段后两句的两个实例（学会开罐、区分陌生人）。",
@@ -969,27 +1024,33 @@
   "components": [
    {
     "text": "A giant Pacific octopus",
-    "role": "主语"
+    "role": "主语",
+    "zh": "一只巨型太平洋章鱼"
    },
    {
     "text": "in Seattle",
-    "role": "后置定语（介词短语），修饰 octopus"
+    "role": "后置定语（介词短语），修饰 octopus",
+    "zh": "西雅图的"
    },
    {
     "text": "learned",
-    "role": "谓语"
+    "role": "谓语",
+    "zh": "学会了"
    },
    {
     "text": "to open screw-top jars,",
-    "role": "宾语（动词不定式短语）"
+    "role": "宾语（动词不定式短语）",
+    "zh": "打开螺旋盖的罐子"
    },
    {
     "text": "needing 15 minutes at the outset,",
-    "role": "伴随状语（现在分词短语，at the outset 在短语内作时间状语）"
+    "role": "伴随状语（现在分词短语，at the outset 在短语内作时间状语）",
+    "zh": "起初/最开始的时候需要15分钟"
    },
    {
     "text": "later about two.",
-    "role": "省略结构（= later needing about two minutes），与前面的分词短语并列"
+    "role": "省略结构（= later needing about two minutes），与前面的分词短语并列",
+    "zh": "后来大约要两分钟"
    }
   ],
   "structure": "① 主句 A giant Pacific octopus in Seattle learned to open screw-top jars 是主谓宾结构。主语中心词 octopus 前有 giant、Pacific 两个前置定语（giant Pacific octopus 是一个章鱼物种的英文名），后有介词短语 in Seattle 作后置定语；不定式短语 to open screw-top jars 作 learned 的宾语，其中 screw-top 是复合形容词，作 jars 的前置定语。\n② needing 15 minutes at the outset 是现在分词短语作伴随状语，逻辑主语是主句主语 octopus：章鱼“需要”15分钟，是主动关系，所以用现在分词。at the outset 是分词短语内部的时间状语。\n③ later about two 是省略结构，完整形式为 later (needing) about two (minutes)，与前一分词短语相同的 needing 和 minutes 都被省略，只留下表示对比的新信息 later 和 about two。at the outset 与 later 前后呼应，形成“起初……后来……”的时间对比，用具体数字说明本段主题句中的 wits。",
@@ -1065,27 +1126,33 @@
   "components": [
    {
     "text": "In a 2010 study,",
-    "role": "状语（介词短语，交代信息出处）"
+    "role": "状语（介词短语，交代信息出处）",
+    "zh": "在2010年的一项研究中"
    },
    {
     "text": "octopuses",
-    "role": "主语"
+    "role": "主语",
+    "zh": "章鱼"
    },
    {
     "text": "came to discriminate",
-    "role": "谓语（come to do 结构）"
+    "role": "谓语（come to do 结构）",
+    "zh": "逐渐能够区分"
    },
    {
     "text": "between two strangers,",
-    "role": "介词短语，说明 discriminate 的对象（two strangers 是 between 的宾语）"
+    "role": "介词短语，说明 discriminate 的对象（two strangers 是 between 的宾语）",
+    "zh": "两个陌生人"
    },
    {
     "text": "a feeder and one who touched them with a bristly stick,",
-    "role": "同位语，解释 two strangers"
+    "role": "同位语，解释 two strangers",
+    "zh": "一个是喂食者，另一个用带刺毛的棍子碰它们"
    },
    {
     "text": "adopting a different hue and posture for each.",
-    "role": "伴随状语（现在分词短语）"
+    "role": "伴随状语（现在分词短语）",
+    "zh": "章鱼对每个人采用不同的颜色和姿态"
    }
   ],
   "structure": "① 句首 In a 2010 study 是介词短语作状语，交代信息出处；数字 2010 作前置定语，相当于 a study conducted in 2010。\n② 主干是 octopuses came to discriminate between two strangers。come to do 表示“逐渐达到某种状态或能力”；discriminate between ... 意为“区分”，between 引出区分的对象 two strangers。\n③ a feeder and one who touched them with a bristly stick 是同位语，用逗号隔开，具体说明 two strangers 是哪两个人。它由 and 连接两个并列名词短语 a feeder 和 one。one 是代词，替代前文的可数名词 stranger，相当于 a stranger；它后接 who 引导的限制性定语从句，who 在从句中作主语，touched 是从句谓语，them 指 octopuses，with a bristly stick 是方式状语，说明用什么东西碰。\n④ adopting a different hue and posture for each 是现在分词短语作伴随状语，逻辑主语是主句主语 octopuses，说明章鱼区分两人时的表现。a different 同时修饰 hue 和 posture；for each 中的 each 是代词，指每一个陌生人。\n阅读时可先略去中间的同位语，把主句和句末分词短语连起来读：章鱼逐渐能区分两个陌生人，并对每个人采用不同的颜色和姿态。",
@@ -1164,23 +1231,28 @@
   "components": [
    {
     "text": "In July 2012",
-    "role": "时间状语（介词短语）"
+    "role": "时间状语（介词短语）",
+    "zh": "2012年7月"
    },
    {
     "text": "the Cambridge Declaration on Consciousness",
-    "role": "主语（文件名称，on Consciousness 为后置定语）"
+    "role": "主语（文件名称，on Consciousness 为后置定语）",
+    "zh": "《剑桥意识宣言》"
    },
    {
     "text": "listed",
-    "role": "谓语"
+    "role": "谓语",
+    "zh": "列入了"
    },
    {
     "text": "octopuses",
-    "role": "宾语"
+    "role": "宾语",
+    "zh": "章鱼"
    },
    {
     "text": "among animals possessing the neurological substrates for conscious awareness.",
-    "role": "宾语补足语（介词短语，说明宾语所属类别；其中 possessing ... 为现在分词短语作后置定语，修饰 animals）"
+    "role": "宾语补足语（介词短语，说明宾语所属类别；其中 possessing ... 为现在分词短语作后置定语，修饰 animals）",
+    "zh": "具备神经基质的动物之列，这种神经基质专门用来有意识的认识"
    }
   ],
   "structure": "① 句首 In July 2012 是时间状语。句首状语较短时可以不加逗号，本句即是如此，阅读时要自己在 2012 后面断开，看出主语从 the Cambridge Declaration 开始。\n② 主语 the Cambridge Declaration on Consciousness 是一份文件的名称，中心词是 Declaration，on Consciousness 是后置定语，on 意为“关于”。\n③ 谓语 listed 与宾语 octopuses 构成 list A among B（把 A 列入 B 之中）的结构。among animals ... 说明章鱼被归入哪一类动物，与宾语之间是“章鱼属于这类动物”的逻辑关系，作宾语补足语。\n④ among 后面的 animals 带一个较长的后置定语：possessing the neurological substrates for conscious awareness 是现在分词短语作后置定语，相当于定语从句 that possess ...。possess 是表示状态的动词，作谓语时一般不用进行时，但它的现在分词可以作定语，表示“具有……的”。\n⑤ 分词短语内部，substrates 是 possessing 的宾语，前有形容词 neurological 作前置定语，后有介词短语 for conscious awareness 作后置定语，for 表示用途、对象，conscious 修饰 awareness。整个宾补部分是“介词 + 名词 + 分词短语 + 介词短语”的层层后置修饰，是考研长难句中常见的名词后接一串修饰语的写法。",
@@ -1248,35 +1320,43 @@
   "components": [
    {
     "text": "A November 2021 UK government review",
-    "role": "第一分句主语（November 2021、UK、government 均为前置定语，修饰 review）"
+    "role": "第一分句主语（November 2021、UK、government 均为前置定语，修饰 review）",
+    "zh": "2021年11月，英国政府的一份评估报告"
    },
    {
     "text": "recommended",
-    "role": "第一分句谓语"
+    "role": "第一分句谓语",
+    "zh": "建议"
    },
    {
     "text": "treating them as sentient,",
-    "role": "第一分句宾语（动名词短语；them 是 treating 的宾语，as sentient 是宾语补足语）"
+    "role": "第一分句宾语（动名词短语；them 是 treating 的宾语，as sentient 是宾语补足语）",
+    "zh": "认定它们有感知力"
    },
    {
     "text": "and",
-    "role": "并列连词，连接两个分句"
+    "role": "并列连词，连接两个分句",
+    "zh": "并且"
    },
    {
     "text": "the Animal Welfare (Sentience) Act",
-    "role": "第二分句主语（法律名称）"
+    "role": "第二分句主语（法律名称）",
+    "zh": "《动物福利（感知）法》"
    },
    {
     "text": "encompassed",
-    "role": "第二分句谓语"
+    "role": "第二分句谓语",
+    "zh": "纳入了/包括其中"
    },
    {
     "text": "them",
-    "role": "第二分句宾语"
+    "role": "第二分句宾语",
+    "zh": "它们"
    },
    {
     "text": "in April 2022.",
-    "role": "时间状语（介词短语）"
+    "role": "时间状语（介词短语）",
+    "zh": "于2022年4月"
    }
   ],
   "structure": "① 全句是 and 连接的并列句，前后两个分句按时间顺序叙述：先是评估报告提出建议，后是法律把章鱼纳入。and 前加逗号，是连接两个完整分句的规范写法。\n② 第一分句主语 A November 2021 UK government review 的中心词是 review，前面堆叠了三个前置定语：November 2021（时间）、UK（国家）、government（机构），相当于 a review published by the UK government in November 2021。这种名词连用作定语的压缩写法在新闻、外刊中很常见。谓语 recommended 后接动名词短语 treating them as sentient 作宾语；在这个动名词短语里，them 是 treating 的宾语，as sentient 是宾语补足语，treat A as B 意为“把 A 当作 B，认定 A 为 B”。them 回指上一句的 octopuses。\n③ 第二分句 the Animal Welfare (Sentience) Act encompassed them in April 2022 是主谓宾加时间状语。主语是一部法律的名称，括号里的 (Sentience) 是正式名称的一部分；encompassed 意为“包括，涵盖”，them 仍指章鱼。",
@@ -1351,15 +1431,18 @@
   "components": [
    {
     "text": "None of this",
-    "role": "主语（否定代词 none + of 短语，this 概括指代前文的观察与认定）"
+    "role": "主语（否定代词 none + of 短语，this 概括指代前文的观察与认定）",
+    "zh": "这些都不能"
    },
    {
     "text": "proves",
-    "role": "谓语"
+    "role": "谓语",
+    "zh": "证明"
    },
    {
     "text": "an inner life.",
-    "role": "宾语"
+    "role": "宾语",
+    "zh": "（章鱼）有内心世界"
    }
   ],
   "structure": "① 句子是简单的主谓宾结构，难点在主语。none 是否定代词，意为“没有一个，全都不”；of this 说明范围，this 概括指代前文列举的观察结果和官方认定，如学会开罐、区分陌生人、《剑桥意识宣言》以及英国的评估报告和立法。\n② this 在这里表示一个整体概念，none of this 按单数处理，所以谓语用 proves。\n③ 否定词在主语里，全句是全部否定：前面这些事实没有任何一项能证明章鱼有内心世界。\n④ 篇章上，本句是作者的观点句：前文列出种种证据，本句用一个短句收住，没有用 but、however 等转折词，却在语义上形成转折，显示作者谨慎、不轻下结论的立场。",
@@ -1426,19 +1509,23 @@
   "components": [
    {
     "text": "Inky,",
-    "role": "主语"
+    "role": "主语",
+    "zh": "Inky"
    },
    {
     "text": "somewhere beyond the pipe,",
-    "role": "地点状语（插入在主语和谓语之间，用逗号隔开）"
+    "role": "地点状语（插入在主语和谓语之间，用逗号隔开）",
+    "zh": "在管道另一头的某个地方"
    },
    {
     "text": "remained",
-    "role": "系动词（谓语）"
+    "role": "系动词（谓语）",
+    "zh": "始终"
    },
    {
     "text": "wholly oblivious to the debate.",
-    "role": "表语（形容词短语；wholly 修饰 oblivious，to the debate 引出对象）"
+    "role": "表语（形容词短语；wholly 修饰 oblivious，to the debate 引出对象）",
+    "zh": "对这场争论全然不知"
    }
   ],
   "structure": "① 主干是 Inky remained wholly oblivious to the debate，主系表结构。remain 是表示“保持某种状态”的系动词，后接形容词作表语。\n② somewhere beyond the pipe 插在主语和谓语之间，前后用逗号隔开，作地点状语。somewhere 是地点副词“某处”，beyond the pipe 是介词短语，修饰 somewhere，说明是“管道另一头的某处”；beyond 意为“在……的另一边，在……之外”。the pipe 回指第2句那条通往太平洋的排水管道。这个插入成分把主谓隔开，阅读时要跳过它，把 Inky 与 remained 连起来。\n③ 表语 wholly oblivious to the debate 中，wholly 是程度副词，修饰 oblivious；oblivious to sth 意为“对……毫无察觉”，to the debate 说明不知道的对象。the debate 用定冠词，回指第五段关于章鱼是否有意识、有无内心世界的讨论。\n④ 篇章上，结尾回到第一段逃进排水管的 Inky，与开头呼应：人们在争论章鱼有没有内心世界，当事的章鱼却对此毫不知情，以轻松的笔调收束全文。",

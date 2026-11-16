@@ -30,7 +30,7 @@ class MixPara(B.CJKPara):
             gaps = [j for j in range(1, len(line)) if CJK.whitespace(line[j - 1]) or (not CJK.whitespace(line[j]) and (
                     re.match(r'[　-鿿＀-￯]', CJK.first(line[j])) or re.match(r'[　-鿿＀-￯]', CJK.last(line[j - 1]))))]
             last = (i == len(self.lines) - 1) and self.last_is_end
-            extra = 0 if last or not gaps else (self.width - indent - natural) / len(gaps)
+            extra = 0 if last or not gaps or getattr(self, 'ragged', False) else (self.width - indent - natural) / len(gaps)
             if extra > self.size * 0.24: extra = 0
             xx = x + indent
             for j, tok in enumerate(line):

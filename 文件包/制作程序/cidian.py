@@ -61,14 +61,14 @@ def build(article, content, out):
         if it['collocations']:
             runs = []
             for k, col in enumerate(it['collocations']):
-                runs += ([('；', 'ZH', INK)] if k else []) + [(col['en'], 'EN', ACCENT)] + mixed('（' + col['zh'] + '）')
+                runs += ([('；', 'ZH', INK)] if k else []) + mixed(col['en'], ACCENT) + mixed('（' + col['zh'] + '）')
             sect('常见搭配', runs)
         for name, key in [('用法详解', 'usage_detail'), ('近义辨析', 'distinction')]:
             if it[key].strip(): sect(name, mixed(it[key]))
         if it['related']:
             runs = []
             for k, r in enumerate(it['related']):
-                runs += ([('；', 'ZH', INK)] if k else []) + [(r['en'], 'EN', INK)] + mixed(' ' + r['pos'] + ' ', MUTED, en='ENI') + mixed(r['zh'])
+                runs += ([('；', 'ZH', INK)] if k else []) + mixed(r['en']) + mixed(' ' + r['pos'] + ' ', MUTED, en='ENI') + mixed(r['zh'])
             sect('同根词', runs)
         # ---- examples: one from the article (with the video's Chinese), one from outside
         d.need(64)
