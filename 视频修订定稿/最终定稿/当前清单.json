@@ -2,19 +2,17 @@
   "kind": "validated-video-final-alias-plan-v1",
   "schema_version": 1,
   "requested_total": 70,
-  "current_count": 68,
-  "archived_passed_count": 69,
+  "current_count": 69,
+  "archived_passed_count": 70,
   "complete": false,
   "selection": "user146_latest_requests_bound_current_only",
   "validation_scope": "Existing canonical Git blob identity, mode and size; no new media validation or production",
   "catalog_validated": true,
   "missing_source_ids": [
-    "24",
-    "68"
+    "24"
   ],
   "missing_new_ids": [
-    "49",
-    "53"
+    "49"
   ],
   "managed_text_files": [
     "README.md",
@@ -71,6 +69,7 @@
     "修改记录/50 一枚邮票改变通信.md",
     "修改记录/51 林下之网.md",
     "修改记录/52 向鸸鹋宣战.md",
+    "修改记录/53 兴登堡号的 34 秒.md",
     "修改记录/54 比信先到家的鸟.md",
     "修改记录/55 大恶臭逼出了下水道.md",
     "修改记录/56 原子弹之父的审判.md",
@@ -6617,6 +6616,117 @@
       "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
     },
     {
+      "source_id": "68",
+      "new_id": "53",
+      "title_zh": "兴登堡号的 34 秒",
+      "bytes": 15801101,
+      "sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9",
+      "source_run": null,
+      "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+      "original_path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+      "alias_path": "最终定稿/视频/53 兴登堡号的 34 秒.mp4",
+      "git_blob_sha": "b302515d56d5125ee9d5a80f396eb21910b075b9",
+      "previous_versions": [
+        {
+          "source_id": "68",
+          "new_id": "53",
+          "title_zh": "兴登堡号的 34 秒",
+          "title_en": "The Last Flight of the Hindenburg",
+          "video_repo_path": "审核样片/2026-11-14-用户102-书53-源68-最新0.6秒审核非定稿/视频/53-source68-latest-user102-review-only-4K.mp4",
+          "bytes": 16000776,
+          "sha256": "df900c7b5ef1f68dd24b4701a2e3cf655430b42497711b3ebdc0b5569c9926ed",
+          "asset_commit": "523e903afecc71a06d834ba7f4e4070e7a93e98c",
+          "role": "user102_review_only_not_final",
+          "passed_per_article": false,
+          "user_feedback_after_review": "book53-finalization-after-exactly-layout-and-illustration-20261115",
+          "S2_pause_after_and_comma_seconds_measured": 0.4
+        }
+      ],
+      "missing_metadata_fields": [],
+      "evidence_pointers": {
+        "original_video_repo_path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+        "archive_prefix": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1",
+        "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+        "existing_archive_evidence_files": [
+          "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/archive-manifest.json",
+          "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/verify53.json",
+          "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/出片前.log",
+          "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/核验/出片后.log",
+          "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/归档说明.md",
+          "视频/制作记录/68_样本一致.json"
+        ]
+      },
+      "current_inventory_row": {
+        "source_id": "68",
+        "new_id": "53",
+        "title_zh": "兴登堡号的 34 秒",
+        "title_en": "The Last Flight of the Hindenburg",
+        "video_repo_path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+        "bytes": 15801101,
+        "sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9",
+        "passed_per_article": true,
+        "source_run": null,
+        "production_delivery_eligible": true,
+        "preview_only": false,
+        "media_origin": "actual_local_do_sh_and_final_sh_4K_with_normal18_hold_illustration60_summary60",
+        "actual_runtime_GEN_or_voice_rerun_claimed": true,
+        "resynthesized_sentences": [
+          "S2"
+        ],
+        "other_sentences_sample_identical_to_reviewed_audio": true,
+        "canonical_audio_basis": "do_sh_and_final_sh_all_voice_checks_passed_plus_exact_sample_identity_outside_S2",
+        "audio_verification_20261116": {
+          "all_voice_checks_passed": true,
+          "final_sh_pre_and_post_failures": 0,
+          "machine_listening_two_engines_passed": true,
+          "S2_spoken": "Its amenities included a lounge and that year, a grand piano.",
+          "S2_display": "Its amenities included a lounge and, that year, a grand piano.",
+          "S2_pause_after_and_seconds_old": 0.4,
+          "S2_pause_after_and_seconds_new": 0.0,
+          "S2_pause_after_year_seconds_new": 0.415,
+          "context_pronunciation": "lounge and that year: and /ˈænd/",
+          "peak_dBFS": -0.36,
+          "sample_identity_record": "视频/制作记录/68_样本一致.json"
+        },
+        "post_reading_pause_seconds": 0.6,
+        "nominal_extra_hold_frames_at_30fps": 18,
+        "measured_voice_end_seconds": 140.205,
+        "measured_voice_to_picture_seconds": 0.6283,
+        "illustration_seconds": 2,
+        "summary_card_seconds": 2,
+        "postprocessing_report_sha256": "8f1410ea93d607df5ce1580eedf7f58caee348bba0635f9c9d1329a3c985c921",
+        "primary_permanent_archive_passed": true,
+        "actual_dual_permanent_archive_passed": false,
+        "backup_mirror_pending": {
+          "repository": "AlienCodes/literate-enigma",
+          "reason": "user decided main repository only; backup not synced"
+        },
+        "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+        "archive_prefix": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1",
+        "previous_versions": [
+          {
+            "source_id": "68",
+            "new_id": "53",
+            "title_zh": "兴登堡号的 34 秒",
+            "title_en": "The Last Flight of the Hindenburg",
+            "video_repo_path": "审核样片/2026-11-14-用户102-书53-源68-最新0.6秒审核非定稿/视频/53-source68-latest-user102-review-only-4K.mp4",
+            "bytes": 16000776,
+            "sha256": "df900c7b5ef1f68dd24b4701a2e3cf655430b42497711b3ebdc0b5569c9926ed",
+            "asset_commit": "523e903afecc71a06d834ba7f4e4070e7a93e98c",
+            "role": "user102_review_only_not_final",
+            "passed_per_article": false,
+            "user_feedback_after_review": "book53-finalization-after-exactly-layout-and-illustration-20261115",
+            "S2_pause_after_and_comma_seconds_measured": 0.4
+          }
+        ]
+      },
+      "title_en": "The Last Flight of the Hindenburg",
+      "current_video_order": "53",
+      "original_book_order": "53",
+      "quality_book_order_unchanged": true,
+      "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
+    },
+    {
       "source_id": "35",
       "new_id": "54",
       "title_zh": "比信先到家的鸟",
@@ -9057,10 +9167,9 @@
   "new_id_role_in_this_video_manifest": "current_video_order",
   "original_book_order_field": "original_book_order",
   "missing_frozen_book_orders": [
-    "49",
-    "53"
+    "49"
   ],
-  "latest_deliverable_count": 68,
+  "latest_deliverable_count": 69,
   "latest_final_directory_policy": {
     "kind": "explicit-user146-unique-latest-final-video-directory",
     "authority_review_sha256": "e759548c0f1889fed996d8fd627e69eae26fe3c4ce0013a911a9f61ac61dd772",
@@ -9072,7 +9181,7 @@
     "new_current_and_raw_pending_updates_sync_directory_same_commit": true,
     "video_order090_and_frozen_quality_book_order_preserved": true
   },
-  "latest_requests_canonical_json_sha256": "8a5d03178bf8e22ed23556c95c55f5f1ef8413444f0f73765a8d7d0753923347",
+  "latest_requests_canonical_json_sha256": "dda5befaa51eab1c97dee3986af6bb6048676ed733c5949a52dedde230a9a0cf",
   "excluded_older_accepted": [
     {
       "source_id": "24",
@@ -9104,22 +9213,8 @@
         "book49-source24-add-ordeal-small-note-feedback",
         "book49-finalization-after-and-spoken-comma-20261115"
       ]
-    },
-    {
-      "source_id": "68",
-      "current_video_order": "53",
-      "original_book_order": "53",
-      "title_zh": "兴登堡号的 34 秒",
-      "status": "latest_authorized_revision_in_production",
-      "latest_user_records": [
-        "book53-finalization-after-exactly-layout-and-illustration-20261115"
-      ]
     }
   ],
-  "archived_missing_source_ids": [
-    "68"
-  ],
-  "archived_missing_frozen_book_orders": [
-    "53"
-  ]
+  "archived_missing_source_ids": [],
+  "archived_missing_frozen_book_orders": []
 }

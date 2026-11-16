@@ -147,7 +147,7 @@ def sentence_items(d):
         sent = ' '.join(re.sub(r'\*\*', '', R.strip_gloss(c['en'])).strip() for c in s['chunks'])
         lst = list_commas(sent)   # 列举逗号与出片程序同一个函数（make_video.list_commas）
         pieces = []; p0 = 0; gaps = []
-        for mm in re.finditer(r'[,;:](?=\s)', sent): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
+        for mm in 停顿标点(sent): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
         pieces.append((p0, len(sent)))
         clips, _ = sentence_audio(sent, pieces, gaps); out = np.concatenate(clips); ln = [len(c) for c in clips]
         starts = [sum(ln[:2 * g + 1]) for g in range(len(LAST['cuts']))] + [len(out)]
@@ -165,7 +165,7 @@ def nograft_items(d):
             else:
                 si = next(i for i, s in enumerate(d['sentences'], 1) if key == ' '.join(re.sub(r'\*\*', '', R.strip_gloss(c['en'])).strip() for c in s['chunks']))
                 lst = list_commas(key); pieces = []; p0 = 0; gaps = []
-                for mm in re.finditer(r'[,;:](?=\s)', key): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
+                for mm in 停顿标点(key): pieces.append((p0, mm.end())); p0 = mm.end() + 1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
                 pieces.append((p0, len(key)))
                 clips, _ = sentence_audio(key, pieces, gaps); o = np.concatenate(clips); ln = [len(c) for c in clips]
                 res[f'S{si}'] = (o, [sum(ln[:2 * g + 1]) for g in range(len(LAST['cuts']))] + [len(o)])

@@ -93,7 +93,7 @@ def 窗口自检():
     return f
 def 句中标点(sent_, no_):
     """最后一句里句中标点的位置；没有句中标点的结尾句不用接点（停）"""
-    puncts_ = [m.end() for m in re.finditer(r'[,;:](?=\s)', sent_)]
+    puncts_ = [m.end() for m in globals().get('停顿标点', lambda x_: re.finditer(r'[,;:](?=\s)', x_))(sent_)]   # G57b：合成时删掉的 and 后逗号不算（自检时还没载入出片程序，按原标点）
     if not puncts_: sys.exit(f'第{no_}篇最后一句没有句中标点：用 {{"整句语速": 0.80}}（01、02 的写法），不用接点')
     return puncts_
 def 模型标点(ts_, speed):

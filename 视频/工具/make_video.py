@@ -148,14 +148,37 @@ def _合成标点可收(a_,b_):
     51 S10：逗号、分号、句号可以在原位置互换（个数、位置不变）"""
     if re.sub(r'[,;.]','',a_)==re.sub(r'[,;.]','',b_) and len(re.findall(r'[,;.]',a_))==len(re.findall(r'[,;.]',b_)) and [m.start() for m in re.finditer(r'[,;.]',a_)]==[m.start() for m in re.finditer(r'[,;.]',b_)]: return True   # 51 S10 Kinderhook'.：逗号、分号、句号原位互换（字不改、个数和位置不变），让模型在停顿前自己发出带闭塞的词尾塞音
     return re.sub(r'[,;]','',_ini(a_))==re.sub(r'[,;]','',_ini(b_)) and b_.count('.')<=a_.count('.') and a_.count(',')+a_.count(';')==b_.count(',')+b_.count(';')
-for _p_ in sorted(__import__('glob').glob('scripts/*.json')):
-    try: _d_=json.load(open(_p_))
-    except Exception: continue
+def _合成删and逗号(a_,b_):
+    """G57b（2026-11-15 书49 原24 S18 “and, a century on,”；书53 原68 S2 “a lounge and, that year,”）：用户要屏幕和文章保留 and 后面的逗号，
+    朗读时不停（原话：“我们在真正读的时候，这个and后面就不要有逗号，但是我们在在这个屏幕里面显示这个and and后面还是有逗号”）。
+    只许删紧跟在 and 后面的那一个逗号（"and," → "and"）：字不改、其他标点不动、a_ 里只能有一处 and,；还要脚本 "合成标点依据" 引用户原话（见 _合成标点依据有原话）"""
+    ms_=list(re.finditer(r'(?<![A-Za-z])[Aa]nd,',a_))
+    return len(ms_)==1 and b_==a_[:ms_[0].end()-1]+a_[ms_[0].end():]
+def _合成标点依据有原话(t_):
+    """依据里引的“……”（去标点后 ≥4 字）是 用户同意记录.json 某条用户原话的一段（与 踩坑核查 KZ_有原话 同一判法）"""
+    p_=os.path.join(os.environ.get('XG_TOOLS') or '/home/user/postgraduate-vocabulary/视频/工具','用户同意记录.json')
+    if not os.path.exists(p_): return False
+    ns_=lambda x: re.sub(r'[\s，。、；：:,.;!?！？…“”"\'（）()—\-]','',x); ys_=[ns_(r['原话']) for r in json.load(open(p_))['记录']]
+    return any(len(ns_(q_))>=4 and any(ns_(q_)[:30] in y_ for y_ in ys_) for q_ in re.findall(r'“([^”]+)”',str(t_)))
+SYNTH_DEL={}   # G57b：显示句 → 合成时删掉的 and 后逗号在显示句里的字符位置（停顿、切点、高亮等全部按“合成时这个逗号不存在”算，见 停顿标点）
+def _收合成标点(_p_,_d_):
+    """一个脚本的 合成标点 收进 SYNTH_PUNCT / SYNTH_DEL（不合规就停）；出片守门自检 用假脚本直接调它"""
     for _k_,_v_ in _d_.get('合成标点',{}).items():
         _s_=_d_['sentences'][int(_k_[1:])-1]; _disp_=' '.join(re.sub(r'\*\*','',re.sub(r'\{\{.*?\}\}','',c['en'])).strip() for c in _s_['chunks'])   # 与 R.strip_gloss 同一写法（独立复核没有 render）
         for a_,b_ in _v_:
-            if not _合成标点可收(a_,b_): raise SystemExit(f'【停止】合成标点只许把逗号换成分号、去掉人名首字母后的点（G57）：{_p_} {_k_} {a_} → {b_}')
+            if _合成删and逗号(a_,b_):
+                if not _合成标点依据有原话(_d_.get('合成标点依据',{}).get(_k_,'')): raise SystemExit(f'【停止】合成标点删 and 后的逗号要有用户原话（G57b）：{_p_} "合成标点依据" {_k_} 引“用户原话”，且原话已记进 用户同意记录.json')
+                if _disp_.count(a_)!=1: raise SystemExit(f'【停止】合成标点删逗号写的“{a_}”在这一句里不是恰好一处（G57b）：{_p_} {_k_}')
+                SYNTH_DEL.setdefault(_disp_,set()).add(_disp_.index(a_)+re.search(r'(?<![A-Za-z])[Aa]nd,',a_).end()-1); continue
+            if not _合成标点可收(a_,b_): raise SystemExit(f'【停止】合成标点只许把逗号换成分号、去掉人名首字母后的点（G57），删逗号只许删 and 后面那一个且要用户原话（G57b）：{_p_} {_k_} {a_} → {b_}')
         SYNTH_PUNCT[(_p_,_k_)]=(_disp_,[tuple(x) for x in _v_])
+for _p_ in sorted(__import__('glob').glob('scripts/*.json')):
+    try: _d_=json.load(open(_p_))
+    except Exception: continue
+    _收合成标点(_p_,_d_)
+def 停顿标点(sent):
+    """句中停顿的标点（, ; : 后接空格）；G57b 合成时删掉的 and 后逗号不算（出片和所有停顿核查都用这一个）"""
+    dl_=SYNTH_DEL.get(sent,()); return [m_ for m_ in re.finditer(r'[,;:](?=\s)',sent) if m_.start() not in dl_]
 _SP_CACHE={}
 def _synth_punct(text):
     for (p_,k_),(disp_,pairs_) in SYNTH_PUNCT.items():
@@ -625,7 +648,7 @@ def _ending_front(sent):
     """结尾句“前段单独合成”（2026-10-10 10 S17 用户：“这个if so它可以稍微拉长一些。就这个so这个音太短了……那种意味深长的语气……有点反讽”）：
     前段（到最后一个句中标点为止，如“If so,”）单独合成——放在整句里合成时，前段语速从 0.86 调到 0.70，so 只从 360 ms 变到 380 ms（慢下来的时间都给了 If）；
     单独合成时 so 是这一段的最后一个词，自然拖长、音调落下（0.80：so 的元音 470 ms，音高 175 → 100 Hz）。最后一段照旧取整句那一遍。不设就和原来完全一样，01–09 声音不变"""
-    return sent[:list(re.finditer(r'[,;:](?=\s)',sent))[-1].end()]
+    return sent[:停顿标点(sent)[-1].end()]
 def _ending_toks(sent,e):
     """结尾句每个音的时刻（接起来的声音里的秒）：接点前取前段那遍的，接点后取最后一段那遍的（平移过来）"""
     import types as _ty
@@ -1127,7 +1150,7 @@ def build(js,out):
         # 牛津逗号列举 A, B, and C / A, B, or C：列举内部的逗号只停 P_LIST
         lst=list_commas(sent)   # 列举逗号（见 list_commas）
         pieces=[];p0=0;gaps=[]
-        for mm in re.finditer(r'[,;:](?=\s)',sent):
+        for mm in 停顿标点(sent):
             pieces.append((p0,mm.end())); p0=mm.end()+1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
         pieces.append((p0,len(sent)))
         # 整句一次合成（2026-10-05 用户定：分段合成会让逗号后的开头发闷），再把模型在逗号处的自然停顿拉长到标准时长

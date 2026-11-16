@@ -86,7 +86,7 @@ for no in sys.argv[1:]:
     d = json.load(open(f'scripts/{no}.json'))
     for si, s in enumerate(d['sentences'], 1):
         sent = ' '.join(re.sub(r'\*\*', '', R.strip_gloss(c['en'])).strip() for c in s['chunks'])
-        ms = list(re.finditer(r'[,;:](?=\s)', sent))
+        ms = list(停顿标点(sent))
         if not ms: continue
         pieces = []; p0 = 0
         for mm in ms: pieces.append((p0, mm.end())); p0 = mm.end() + 1

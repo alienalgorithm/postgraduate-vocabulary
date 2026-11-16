@@ -88,7 +88,7 @@ def _标点数(MV):   # 带时长模型少报一个标点（模型行为变了�
     def ct(*a, **k):
         r = f0(*a, **k); return (r[0], r[1], [x for x in r[2] if x.phoneme not in ',;:'])
     ps, p0, gs = [], 0, []
-    for mm in re.finditer(r'[,;:](?=\s)', s): ps.append((p0, mm.end())); p0 = mm.end() + 1; gs.append(MV.P_COMMA)
+    for mm in MV.停顿标点(s): ps.append((p0, mm.end())); p0 = mm.end() + 1; gs.append(MV.P_COMMA)
     ps.append((p0, len(s)))
     return _在(lambda: MV.sentence_audio(s, ps, gs), _换(MV.KT, create_timed=ct))
 def _擦音(MV):
@@ -108,7 +108,7 @@ def _普通句(MV):   # 20 里一句有逗号、不是结尾句、没写人工�
         s = _句(MV, '20', i)
         if re.search(r'[,;:](?=\s)', s) and s not in MV.ENDING and not any(s in X for X in (MV.INSERT_AT, MV.DEL_AT, MV.GRAFT, MV.PGRAFT, MV.NONVOICE, MV.BOOST)): break
     ps, p0, gs = [], 0, []
-    for mm in re.finditer(r'[,;:](?=\s)', s): ps.append((p0, mm.end())); p0 = mm.end() + 1; gs.append(MV.P_COMMA)
+    for mm in MV.停顿标点(s): ps.append((p0, mm.end())); p0 = mm.end() + 1; gs.append(MV.P_COMMA)
     ps.append((p0, len(s))); return s, ps, gs
 def _叠压(MV, g):   # 自动调平给第 1 段 -4 dB，再手写分段增益 g：句增益 合起来低于 -5.5 必须停（K133）
     import numpy as np
@@ -154,7 +154,7 @@ def _音调改响(MV):
     s, e = _结尾(MV); return _在(lambda: MV._ending_raw(s, e), _换(MV, _tone_shape=lambda rF, a_, b_, cfg: np.full(len(rF), 0.5, np.float32)))
 def _接点挪(MV, 插入=False, no='10'):
     s, e = _结尾(MV, no); SR = MV.SR; gs = []; ps, p0 = [], 0
-    for mm in re.finditer(r'[,;:](?=\s)', s): ps.append((p0, mm.end())); p0 = mm.end() + 1; gs.append(MV.P_COMMA)
+    for mm in MV.停顿标点(s): ps.append((p0, mm.end())); p0 = mm.end() + 1; gs.append(MV.P_COMMA)
     ps.append((p0, len(s)))
     class D(dict):
         def get(s_, k_, d_=None): v_ = dict.get(s_, k_, d_); return None if v_ is None else v_ + int(0.45 * SR)
@@ -261,6 +261,30 @@ def main():
         bad_ = [f'{a}→{b}' for a, b, want in cs_ if MV._合成标点可收(a, b) != want]
         print(f"{'✔' if not bad_ else '✘'} K155合成标点：{len(cs_)} 个样本" + ('全对' if not bad_ else f'判错 {bad_}'))
         if bad_: fails.append(f'合成标点判错（K155）：{bad_}')
+    if not only or 'G57b删and逗号' in only:   # G57b（书49 原24 S18 “and, a century on,”、书53 原68 S2）：合成时只许删 and 后面那一个逗号，要用户原话；停顿按“合成时这个逗号不存在”算
+        sys.path.insert(0, W); import make_video as MV
+        cs_ = [('help and, a century on,', 'help and a century on,', True), ('a lounge and, that year,', 'a lounge and that year,', True), ('And, then', 'And then', True),
+               ('birds, and', 'birds and', False), ('and, a century on,', 'and, a century on', False), ('and, a century on,', 'and a century on', False), ('band, a', 'band a', False),
+               ('and, x and, y', 'and x and, y', False), ('and, a', 'an, a', False), ('and, a', 'and a.', False), ('and; a', 'and a', False)]
+        bad_ = [f'{a}→{b}' for a, b, want in cs_ if MV._合成删and逗号(a, b) != want]
+        if MV._合成标点可收('help and, a', 'help and a'): bad_.append('G57 旧判法放过了删逗号')
+        sent_ = 'Precision put six ashore within reach of help and, a century on, brought their ship back into view.'
+        fake_ = lambda yj_: {'sentences': [{'chunks': [{'en': 'Precision put six ashore within reach of help'}, {'en': 'and,'}, {'en': 'a century on, **brought** their ship back into view.'}]}],
+                             '合成标点': {'S1': [['help and, a century', 'help and a century']]}, **({'合成标点依据': {'S1': yj_}} if yj_ is not None else {})}
+        sv_ = (dict(MV.SYNTH_PUNCT), {k: set(v) for k, v in MV.SYNTH_DEL.items()})
+        for 名, yj_, want in (('没写依据', None, False), ('依据是编的', '用户 2026-11-15：“我编的一句话不在记录里呀”', False),
+                             ('依据引用户原话', '用户 2026-11-15：“我们在真正读的时候，这个and后面就不要有逗号”', True)):
+            try: MV._收合成标点('scripts/假.json', fake_(yj_)); got_ = True
+            except SystemExit: got_ = False
+            if got_ != want: bad_.append(f'{名}：{"放过" if got_ else "拦下"}')
+            if got_:
+                ps_ = [m.start() for m in MV.停顿标点(sent_)]
+                if ps_ != [sent_.index('on,') + 2]: bad_.append(f'停顿标点没去掉 and 后的逗号：{ps_}')
+                if MV._ending_front(sent_) != sent_[:sent_.index('on,') + 3]: bad_.append('结尾句前段没按合成时的标点算')
+            MV.SYNTH_PUNCT.clear(); MV.SYNTH_PUNCT.update(sv_[0]); MV.SYNTH_DEL.clear(); MV.SYNTH_DEL.update({k: set(v) for k, v in sv_[1].items()})
+        if [m.start() for m in MV.停顿标点('x, y and, z')] != [1, 8]: bad_.append('没写合成标点的句子，and 后逗号照常停顿（不许被删）')
+        print(f"{'✔' if not bad_ else '✘'} G57b删and逗号：{len(cs_)} 个判法样本 + 依据坏/好样本 + 停顿标点" + ('全对' if not bad_ else f'判错 {bad_}'))
+        if bad_: fails.append(f'合成标点删 and 后逗号判错（G57b）：{bad_}')
     if not only or 'K154擦音压低' in only:   # K154（44 S14 statistical 的 /s/ 发尖）：负增益只许罩住擦音（重心 ≥3 kHz、10–150 ms、-6～0 dB）；罩到元音、超过 -6 dB 都要停
         sys.path.insert(0, W); import make_video as MV, numpy as np_, scipy.signal as ss_
         SR_ = MV.SR; rg_ = np_.random.default_rng(11); tt_ = np_.arange(int(0.3 * SR_)) / SR_
