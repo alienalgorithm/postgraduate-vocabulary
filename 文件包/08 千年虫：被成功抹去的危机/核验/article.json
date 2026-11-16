@@ -1,0 +1,1542 @@
+{
+ "no": "08",
+ "title_en": "Y2K: The Crisis That Success Erased",
+ "title_zh": "千年虫：被成功抹去的危机",
+ "source_id": "39",
+ "source_hashes": {
+  "JSON": "6c3e9539f624b192335312912572a05fba2c7bcfb821b44c3c1dbb21b42527a7",
+  "GEN": "6c3e9539f624b192335312912572a05fba2c7bcfb821b44c3c1dbb21b42527a7",
+  "MD": "abbc9804661126aa006595031ed8f201ce55e8eb5fd9e1ad5669c0c6fcdb80ab",
+  "illustration": "ef33f8575f44c501b69f6069a1f45ee40efb93b7f91bb0be47f51270680160ff"
+ },
+ "summary": [
+  [
+   "隐患",
+   "早期电脑为省内存，把1999年只记成“99”。跨入2000年时，“00”可能被当成1900年，导致年龄、利息和截止日期算错，这就是“千年虫”。"
+  ],
+  [
+   "修补",
+   "各国政府和企业提前排查旧系统、修正日期处理。美国估算本国政府和企业总共要花约1000亿美元，全球预计数千亿美元。"
+  ],
+  [
+   "跨年",
+   "2000年到来后，故障大多零星轻微。美国参议院委员会认为投入值得，也有人因此认为先前警告夸大，甚至是骗局。"
+  ],
+  [
+   "反差",
+   "很多问题已提前修好，可能正是没出大事的重要原因；修得越成功，危险越不显眼，反而像原本不存在，这叫“防备悖论”。"
+  ],
+  [
+   "权衡",
+   "不能只因灾难没发生就说钱白花了，要比较修复费用与不修可能造成的损失。▹但也不能据此断言每笔支出都必要；哪些钱确有用、哪些花多了，仍难逐笔确定。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "The Y2K bug, or millennium bug, began as a shortcut.",
+   "zh": "Y2K 漏洞，又称千年虫，起初只是一条捷径。",
+   "en_markup": "The Y2K **bug**, or **millennium** bug, began as a **shortcut**.",
+   "zh_markup": "Y2K **漏洞**(bug)，又称**千年**(millennium)虫，起初只是一条**捷径**(shortcut)。",
+   "video_notes": [
+    "（Y2K：Year 2000 的缩写，K 代表“千”；or：或者说，引出另一个名称）"
+   ],
+   "chunks": [
+    {
+     "en": "The Y2K bug, or millennium bug,",
+     "zh": "Y2K 漏洞，又称千年虫，"
+    },
+    {
+     "en": "began as a shortcut.",
+     "zh": "起初只是一条捷径。"
+    }
+   ],
+   "align": [
+    [
+     "The Y2K bug,",
+     "Y2K 漏洞，"
+    ],
+    [
+     "or millennium bug,",
+     "又称千年虫，"
+    ],
+    [
+     "began as a shortcut.",
+     "起初只是一条捷径。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "When memory and hardware were costly, programmers stored years as two digits, writing \"99\" for 1999.",
+   "zh": "当年内存和硬件都很昂贵，程序员便把年份存成两位数字，用“99”表示1999年。",
+   "en_markup": "When **memory** and **hardware** were **costly**, **programmers** stored years as two **digits**, writing \"99\" for 1999.",
+   "zh_markup": "当年**内存**(memory)和**硬件**(hardware)都很**昂贵**(costly)，**程序员**(programmers)便把年份存成两位**数字**(digits)，用“99”表示1999年。",
+   "video_notes": [
+    "（When…：时间状语从句）",
+    "（store A as B：以 B 的形式存储 A；writing…：现在分词短语作伴随状语）"
+   ],
+   "chunks": [
+    {
+     "en": "When memory and hardware were costly,",
+     "zh": "当年内存和硬件都很昂贵，"
+    },
+    {
+     "en": "programmers stored years as two digits, writing \"99\" for 1999.",
+     "zh": "程序员便把年份存成两位数字，用“99”表示1999年。"
+    }
+   ],
+   "align": [
+    [
+     "When",
+     "当年"
+    ],
+    [
+     "memory",
+     "内存"
+    ],
+    [
+     "and hardware",
+     "和硬件"
+    ],
+    [
+     "were costly,",
+     "都很昂贵，"
+    ],
+    [
+     "programmers",
+     "程序员"
+    ],
+    [
+     "stored years",
+     "便把年份存成"
+    ],
+    [
+     "as two digits,",
+     "两位数字，"
+    ],
+    [
+     "writing",
+     "用"
+    ],
+    [
+     "\"99\"",
+     "“99”"
+    ],
+    [
+     "for 1999.",
+     "表示1999年。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "That compact code hid an ambiguity: a machine might read \"00\" as 1900, corrupting calculations of interest, ages, or deadlines.",
+   "zh": "这种小而紧凑的代码暗藏着一种歧义：机器可能把“00”读成1900年，从而搞错利息、年龄或截止日期的计算。",
+   "en_markup": "That **compact** **code** hid an **ambiguity**: a machine might read \"00\" as 1900, **corrupting** calculations of interest, ages, or **deadlines**.",
+   "zh_markup": "这种**小而紧凑的**(compact)**代码**(code)暗藏着一种**歧义**(ambiguity)：机器可能把“00”读成1900年，从而**搞错**(corrupting)利息、年龄或**截止日期**(deadlines)的计算。",
+   "video_notes": [
+    "（read A as B：把 A 读成 B）",
+    "（corrupting…：现在分词短语作结果状语；corrupt：引起（计算机文件等的）错误；破坏）"
+   ],
+   "chunks": [
+    {
+     "en": "That compact code hid an ambiguity:",
+     "zh": "这种小而紧凑的代码暗藏着一种歧义："
+    },
+    {
+     "en": "a machine might read \"00\" as 1900,",
+     "zh": "机器可能把“00”读成1900年，"
+    },
+    {
+     "en": "corrupting calculations of interest, ages, or deadlines.",
+     "zh": "从而搞错利息、年龄或截止日期的计算。"
+    }
+   ],
+   "align": [
+    [
+     "That",
+     "这种"
+    ],
+    [
+     "compact",
+     "小而紧凑的"
+    ],
+    [
+     "code",
+     "代码"
+    ],
+    [
+     "hid",
+     "暗藏着"
+    ],
+    [
+     "an ambiguity:",
+     "一种歧义："
+    ],
+    [
+     "a machine",
+     "机器"
+    ],
+    [
+     "might read \"00\" as 1900,",
+     "可能把“00”读成1900年，"
+    ],
+    [
+     "corrupting",
+     "从而搞错"
+    ],
+    [
+     "calculations of interest, ages, or deadlines.",
+     "利息、年龄或截止日期的计算。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "Governments and firms braced for chaos.",
+   "zh": "各国政府和企业都在严阵以待，准备迎接一场混乱。",
+   "en_markup": "Governments and firms **braced for** **chaos**.",
+   "zh_markup": "各国政府和企业都在**严阵以待**(braced for)，**准备迎接**(braced for)一场**混乱**(chaos)。",
+   "video_notes": [
+    "（brace for sth：准备应对（不好的事））"
+   ],
+   "chunks": [
+    {
+     "en": "Governments and firms",
+     "zh": "各国政府和企业"
+    },
+    {
+     "en": "braced for",
+     "zh": "都在严阵以待，准备迎接"
+    },
+    {
+     "en": "chaos.",
+     "zh": "一场混乱。"
+    }
+   ],
+   "align": [
+    [
+     "Governments and firms",
+     "各国政府和企业"
+    ],
+    [
+     "braced for",
+     "都在严阵以待，准备迎接"
+    ],
+    [
+     "chaos.",
+     "一场混乱。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "In February 1998 President Clinton created a council to coordinate America's effort.",
+   "zh": "1998年2月，美国总统克林顿设立了一个委员会来协调全美的应对工作。",
+   "en_markup": "In February 1998 **President** Clinton created a **council** to **coordinate** America's effort.",
+   "zh_markup": "1998年2月，美国**总统**(President)克林顿设立了一个**委员会**(council)来**协调**(coordinate)全美的应对工作。",
+   "video_notes": [
+    "（to coordinate…：不定式作目的状语）"
+   ],
+   "chunks": [
+    {
+     "en": "In February 1998 President Clinton created a council to coordinate America's effort.",
+     "zh": "1998年2月，美国总统克林顿设立了一个委员会来协调全美的应对工作。"
+    }
+   ],
+   "align": [
+    [
+     "In February 1998",
+     "1998年2月，"
+    ],
+    [
+     "President",
+     "美国总统"
+    ],
+    [
+     "Clinton",
+     "克林顿"
+    ],
+    [
+     "created",
+     "设立了"
+    ],
+    [
+     "a council",
+     "一个委员会"
+    ],
+    [
+     "to coordinate",
+     "来协调"
+    ],
+    [
+     "America's effort.",
+     "全美的应对工作。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "Consultants audited legacy systems and patched faulty date logic.",
+   "zh": "顾问们审查了遗留系统，并给有缺陷的日期处理逻辑打上补丁。",
+   "en_markup": "**Consultants** **audited** **legacy** systems and **patched** **faulty** date logic.",
+   "zh_markup": "**顾问**(Consultants)们**审查了**(audited)**遗留**(legacy)系统，并**给**(patched)**有缺陷的**(faulty)日期处理逻辑**打上补丁**(patched)。",
+   "video_notes": [
+    "（legacy systems：遗留系统，指仍在使用的旧计算机系统）",
+    "（patch A：给 A 打补丁）"
+   ],
+   "chunks": [
+    {
+     "en": "Consultants audited legacy systems",
+     "zh": "顾问们审查了遗留系统，"
+    },
+    {
+     "en": "and patched faulty date logic.",
+     "zh": "并给有缺陷的日期处理逻辑打上补丁。"
+    }
+   ],
+   "align": [
+    [
+     "Consultants",
+     "顾问们"
+    ],
+    [
+     "audited",
+     "审查了"
+    ],
+    [
+     "legacy systems",
+     "遗留系统，"
+    ],
+    [
+     "and patched faulty date logic.",
+     "并给有缺陷的日期处理逻辑打上补丁。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "In November 1999 the Commerce Department estimated American governments and enterprises would spend about $100bn; projections of the global bill ran to hundreds of billions.",
+   "zh": "1999年11月，美国商务部估算，美国各级政府和企业将为此花费约1,000亿美元；对全球总账单的各种预测则高达数千亿美元。",
+   "en_markup": "In November 1999 the **Commerce Department** estimated American governments and **enterprises** would spend about $100bn; **projections** of the **global** bill ran to hundreds of billions.",
+   "zh_markup": "1999年11月，**美国商务部**(Commerce Department)估算，美国各级政府和**企业**(enterprises)将为此花费约1,000亿美元；对**全球**(global)总账单的各种**预测**(projections)则高达数千亿美元。",
+   "video_notes": [
+    "（estimated 后省略了 that，引出宾语从句；$100bn：100 billion dollars，1,000亿美元）",
+    "（projections of A：对 A 的预测；run to：（数量）达到）"
+   ],
+   "chunks": [
+    {
+     "en": "In November 1999 the Commerce Department estimated American governments and enterprises would spend about $100bn;",
+     "zh": "1999年11月，美国商务部估算，美国各级政府和企业将为此花费约1,000亿美元；"
+    },
+    {
+     "en": "projections of the global bill ran to hundreds of billions.",
+     "zh": "对全球总账单的各种预测则高达数千亿美元。"
+    }
+   ],
+   "align": [
+    [
+     "In November 1999",
+     "1999年11月，"
+    ],
+    [
+     "the Commerce Department",
+     "美国商务部"
+    ],
+    [
+     "estimated",
+     "估算，"
+    ],
+    [
+     "American governments",
+     "美国各级政府"
+    ],
+    [
+     "and enterprises",
+     "和企业"
+    ],
+    [
+     "would spend",
+     "将为此花费"
+    ],
+    [
+     "about $100bn;",
+     "约1,000亿美元；"
+    ],
+    [
+     "projections of the global bill",
+     "对全球总账单的各种预测"
+    ],
+    [
+     "ran to",
+     "则高达"
+    ],
+    [
+     "hundreds of billions.",
+     "数千亿美元。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "Then midnight struck on 31 December 1999, and little went wrong.",
+   "zh": "随后，1999年12月31日的午夜钟声敲响，几乎没出什么问题。",
+   "en_markup": "Then **midnight** **struck** on 31 December 1999, and little went wrong.",
+   "zh_markup": "随后，1999年12月31日的**午夜**(midnight)钟声**敲响**(struck)，几乎没出什么问题。",
+   "video_notes": [
+    "（strike：（钟）敲响，过去式 struck）",
+    "（little：几乎没有，表否定）"
+   ],
+   "chunks": [
+    {
+     "en": "Then midnight struck on 31 December 1999,",
+     "zh": "随后，1999年12月31日的午夜钟声敲响，"
+    },
+    {
+     "en": "and little went wrong.",
+     "zh": "几乎没出什么问题。"
+    }
+   ],
+   "align": [
+    [
+     "Then",
+     "随后，"
+    ],
+    [
+     "midnight",
+     "1999年12月31日的午夜钟声"
+    ],
+    [
+     "struck on 31 December 1999,",
+     "敲响，"
+    ],
+    [
+     "and little",
+     "几乎没"
+    ],
+    [
+     "went wrong.",
+     "出什么问题。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Glitches that did crop up were sporadic and mostly minor.",
+   "zh": "确实意外出现的小故障/小毛病也是零星的/偶发的，而且大多轻微。",
+   "en_markup": "**Glitches** that did **crop up** were **sporadic** and mostly **minor**.",
+   "zh_markup": "确实**意外出现**(crop up)的**小故障/小毛病**(Glitches)也是**零星的/偶发的**(sporadic)，而且大多**轻微**(minor)。",
+   "video_notes": [
+    "（that did crop up：定语从句修饰 Glitches，did 加强语气，意为“确实”）"
+   ],
+   "chunks": [
+    {
+     "en": "Glitches that did crop up were sporadic and mostly minor.",
+     "zh": "确实意外出现的小故障/小毛病也是零星的/偶发的，而且大多轻微。"
+    }
+   ],
+   "align": [
+    [
+     "Glitches that did crop up",
+     "确实意外出现的小故障/小毛病"
+    ],
+    [
+     "were sporadic",
+     "也是零星的/偶发的，"
+    ],
+    [
+     "and mostly minor.",
+     "而且大多轻微。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "Radiation-monitoring equipment faltered at Japan's Shika nuclear plant without any threat to safety, and a Pentagon ground system that processes spy-satellite data failed.",
+   "zh": "日本志贺核电站的辐射监测设备出了故障，但并未威胁安全；美国国防部一套处理间谍卫星数据的地面系统也曾失灵。",
+   "en_markup": "{{=}}Radiation-monitoring equipment **faltered** at Japan's Shika nuclear plant without any threat to safety, and a Pentagon ground system that processes **spy**-satellite data failed.",
+   "zh_markup": "日本志贺核电站的辐射监测设备**出了故障**(faltered)，但并未威胁安全；美国国防部一套处理**间谍**(spy)卫星数据的地面系统也曾失灵。",
+   "video_notes": [
+    "（falter：失去动力或效力，运行不稳定；可以理解为设备在“打摆子”，时好时坏，运转不顺畅；与 break down（彻底坏掉）不同，faltered 强调的是一种衰退、不稳定的运行状态）",
+    "（Pentagon：五角大楼，美国国防部的代称；that processes…：定语从句修饰 ground system）"
+   ],
+   "chunks": [
+    {
+     "en": "Radiation-monitoring equipment faltered at Japan's Shika nuclear plant without any threat to safety,",
+     "zh": "日本志贺核电站的辐射监测设备出了故障，但并未威胁安全；"
+    },
+    {
+     "en": "and a Pentagon ground system that processes spy-satellite data failed.",
+     "zh": "美国国防部一套处理间谍卫星数据的地面系统也曾失灵。"
+    }
+   ],
+   "align": [
+    [
+     "Radiation-monitoring equipment faltered at Japan's Shika nuclear plant",
+     "日本志贺核电站的辐射监测设备出了故障，"
+    ],
+    [
+     "without any threat",
+     "但并未威胁"
+    ],
+    [
+     "to safety,",
+     "安全；"
+    ],
+    [
+     "and a Pentagon",
+     "美国国防部"
+    ],
+    [
+     "ground system that processes spy-satellite data",
+     "一套处理间谍卫星数据的地面系统"
+    ],
+    [
+     "failed.",
+     "也曾失灵。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 3,
+   "en": "In February 2000 a Senate committee concluded that the expenditure had been justified.",
+   "zh": "2000年2月，美国参议院的一个委员会得出结论，认定这笔开支是合理的。",
+   "en_markup": "In February 2000 a Senate committee **concluded** that the **expenditure** had been **justified**.",
+   "zh_markup": "2000年2月，美国参议院的一个委员会**得出结论**(concluded)，认定这笔**开支**(expenditure)是**合理的**(justified)。",
+   "video_notes": [
+    "（that…：宾语从句；had been justified：过去完成时的被动语态）"
+   ],
+   "chunks": [
+    {
+     "en": "In February 2000 a Senate committee concluded that the expenditure had been justified.",
+     "zh": "2000年2月，美国参议院的一个委员会得出结论，认定这笔开支是合理的。"
+    }
+   ],
+   "align": [
+    [
+     "In February 2000",
+     "2000年2月，"
+    ],
+    [
+     "a Senate committee",
+     "美国参议院的一个委员会"
+    ],
+    [
+     "concluded",
+     "得出结论，"
+    ],
+    [
+     "that the expenditure",
+     "认定这笔开支"
+    ],
+    [
+     "had been justified.",
+     "是合理的。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "Many saw it differently: the threat had been exaggerated, even a hoax.",
+   "zh": "许多人却不这么看：在他们眼里，这一威胁被夸大了，甚至是一场骗局。",
+   "en_markup": "Many saw it differently: the threat had been **exaggerated**, even a **hoax**.",
+   "zh_markup": "许多人却不这么看：在他们眼里，这一威胁被**夸大了**(exaggerated)，甚至是一场**骗局**(hoax)。",
+   "video_notes": [
+    "（see A differently：对 A 看法不同；even a hoax：前面省略了 had been）"
+   ],
+   "chunks": [
+    {
+     "en": "Many saw it differently: the threat had been exaggerated, even a hoax.",
+     "zh": "许多人却不这么看：在他们眼里，这一威胁被夸大了，甚至是一场骗局。"
+    }
+   ],
+   "align": [
+    [
+     "Many",
+     "许多人"
+    ],
+    [
+     "saw it differently:",
+     "却不这么看："
+    ],
+    [
+     "the threat",
+     "在他们眼里，这一威胁"
+    ],
+    [
+     "had been exaggerated,",
+     "被夸大了，"
+    ],
+    [
+     "even a hoax.",
+     "甚至是一场骗局。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "Yet calm prevailed largely because so much had been fixed.",
+   "zh": "然而，平静之所以占据上风，很大程度上正是因为大量问题早已修好。",
+   "en_markup": "Yet calm **prevailed** **largely** because so much had been fixed.",
+   "zh_markup": "然而，平静之所以**占据上风**(prevailed)，**很大程度上**(largely)正是因为大量问题早已修好。",
+   "video_notes": [
+    "（prevail：冲突中“占上风”，环境中“盛行”，劝人时“成功说服”）"
+   ],
+   "chunks": [
+    {
+     "en": "Yet calm prevailed largely because so much had been fixed.",
+     "zh": "然而，平静之所以占据上风，很大程度上正是因为大量问题早已修好。"
+    }
+   ],
+   "align": [
+    [
+     "Yet",
+     "然而，"
+    ],
+    [
+     "calm prevailed",
+     "平静之所以占据上风，"
+    ],
+    [
+     "largely because",
+     "很大程度上正是因为"
+    ],
+    [
+     "so much",
+     "大量问题"
+    ],
+    [
+     "had been fixed.",
+     "早已修好。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "This is the preparedness paradox: when precautions work, the danger they ward off never appears, so it looks imaginary.",
+   "zh": "这就是防备悖论：预防措施一旦奏效，它们所抵御的危险就永远不会出现，于是看起来像是虚构的。",
+   "en_markup": "This is the **preparedness paradox**: when **precautions** work, the danger they **ward off** never appears, so it looks **imaginary**.",
+   "zh_markup": "这就是**防备悖论**(preparedness paradox)：**预防措施**(precautions)一旦奏效，它们所**抵御**(ward off)的危险就永远不会出现，于是看起来像是**虚构的**(imaginary)。",
+   "video_notes": [
+    "（they ward off：定语从句，省略了关系代词，修饰 the danger）",
+    "（look＋形容词：看起来……）"
+   ],
+   "chunks": [
+    {
+     "en": "This is the preparedness paradox:",
+     "zh": "这就是防备悖论："
+    },
+    {
+     "en": "when precautions work, the danger they ward off never appears,",
+     "zh": "预防措施一旦奏效，它们所抵御的危险就永远不会出现，"
+    },
+    {
+     "en": "so it looks imaginary.",
+     "zh": "于是看起来像是虚构的。"
+    }
+   ],
+   "align": [
+    [
+     "This is",
+     "这就是"
+    ],
+    [
+     "the preparedness paradox:",
+     "防备悖论："
+    ],
+    [
+     "when precautions work,",
+     "预防措施一旦奏效，"
+    ],
+    [
+     "the danger they ward off",
+     "它们所抵御的危险"
+    ],
+    [
+     "never",
+     "就永远不会"
+    ],
+    [
+     "appears,",
+     "出现，"
+    ],
+    [
+     "so it looks imaginary.",
+     "于是看起来像是虚构的。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 4,
+   "en": "Tedious repairs earned mockery rather than gratitude.",
+   "zh": "那些枯燥乏味的修复工作换来的是嘲笑，而不是感激。",
+   "en_markup": "**Tedious** repairs earned **mockery** rather than **gratitude**.",
+   "zh_markup": "那些**枯燥乏味的**(Tedious)修复工作换来的是**嘲笑**(mockery)，而不是**感激**(gratitude)。",
+   "video_notes": [
+    "（A rather than B：是 A 而不是 B；因为你防范得太好，啥事都没发生，结果别人反而觉得你在瞎操心、无事生非。这就是防备悖论）"
+   ],
+   "chunks": [
+    {
+     "en": "Tedious repairs earned mockery rather than gratitude.",
+     "zh": "那些枯燥乏味的修复工作换来的是嘲笑，而不是感激。"
+    }
+   ],
+   "align": [
+    [
+     "Tedious repairs",
+     "那些枯燥乏味的修复工作"
+    ],
+    [
+     "earned mockery",
+     "换来的是嘲笑，"
+    ],
+    [
+     "rather than gratitude.",
+     "而不是感激。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "Critics noted that Italy and South Korea spent far less yet fared no worse.",
+   "zh": "批评者指出，意大利和韩国花得少得多，结果也不比别国差。",
+   "en_markup": "Critics noted that Italy and **South Korea** spent far less yet **fared no worse**.",
+   "zh_markup": "批评者指出，意大利和**韩国**(South Korea)花得少得多，结果也**不比别国差**(fared no worse)。",
+   "video_notes": [
+    "（that…：宾语从句；fare no worse：情况不比别人差）"
+   ],
+   "chunks": [
+    {
+     "en": "Critics noted that Italy and South Korea spent far less yet fared no worse.",
+     "zh": "批评者指出，意大利和韩国花得少得多，结果也不比别国差。"
+    }
+   ],
+   "align": [
+    [
+     "Critics noted",
+     "批评者指出，"
+    ],
+    [
+     "that Italy",
+     "意大利"
+    ],
+    [
+     "and South Korea",
+     "和韩国"
+    ],
+    [
+     "spent",
+     "花得"
+    ],
+    [
+     "far less",
+     "少得多，"
+    ],
+    [
+     "yet",
+     "结果"
+    ],
+    [
+     "fared no worse.",
+     "也不比别国差。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "The comparison misleads: those low figures often omitted what firms spent, and much of the remedial work replaced obsolete systems overdue for upgrading.",
+   "zh": "但这种比较具有误导性：那些低支出数字往往遗漏了企业自己的花费，而且很大一部分补救工作替换了早该升级的过时的/淘汰的系统。",
+   "en_markup": "The **comparison** **misleads**: those low figures often **omitted** what firms spent, and much of the **remedial** work replaced **obsolete** systems **overdue for** upgrading.",
+   "zh_markup": "但这种**比较**(comparison)**具有误导性**(misleads)：那些低支出数字往往**遗漏了**(omitted)企业自己的花费，而且很大一部分**补救**(remedial)工作替换了**早该**(overdue for)升级的**过时的/淘汰的**(obsolete)系统。",
+   "video_notes": [
+    "（what firms spent：what 引导宾语从句，企业花的钱）",
+    "（overdue for upgrading：后置定语修饰 systems，早该升级的）"
+   ],
+   "chunks": [
+    {
+     "en": "The comparison misleads: those low figures often omitted what firms spent,",
+     "zh": "但这种比较具有误导性：那些低支出数字往往遗漏了企业自己的花费，"
+    },
+    {
+     "en": "and much of the remedial work replaced obsolete systems overdue for upgrading.",
+     "zh": "而且很大一部分补救工作替换了早该升级的过时的/淘汰的系统。"
+    }
+   ],
+   "align": [
+    [
+     "The comparison",
+     "但这种比较"
+    ],
+    [
+     "misleads:",
+     "具有误导性："
+    ],
+    [
+     "those",
+     "那些"
+    ],
+    [
+     "low",
+     "低"
+    ],
+    [
+     "figures",
+     "支出数字"
+    ],
+    [
+     "often omitted",
+     "往往遗漏了"
+    ],
+    [
+     "what firms",
+     "企业自己"
+    ],
+    [
+     "spent,",
+     "的花费，"
+    ],
+    [
+     "and much of",
+     "而且很大一部分"
+    ],
+    [
+     "the remedial work",
+     "补救工作"
+    ],
+    [
+     "replaced",
+     "替换了"
+    ],
+    [
+     "obsolete systems overdue for upgrading.",
+     "早该升级的过时的/淘汰的系统。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 5,
+   "en": "Nobody can say which dollars were essential and which excessive.",
+   "zh": "谁也说不清哪些钱是必不可少的，哪些是过度花费的。",
+   "en_markup": "Nobody can say which dollars were **essential** and which **excessive**.",
+   "zh_markup": "谁也说不清哪些钱是**必不可少的**(essential)，哪些是**过度花费的**(excessive)。",
+   "video_notes": [
+    "（and which excessive：省略了 dollars were；excessive：指“过度的、过多的”，即超出了合理或必要的限度；过度消费（excessive spending）、超速（excessive speed）、过度压力（excessive pressure）都属于超出了合理的限度）"
+   ],
+   "chunks": [
+    {
+     "en": "Nobody can say which dollars were essential and which excessive.",
+     "zh": "谁也说不清哪些钱是必不可少的，哪些是过度花费的。"
+    }
+   ],
+   "align": [
+    [
+     "Nobody can say",
+     "谁也说不清"
+    ],
+    [
+     "which dollars were essential",
+     "哪些钱是必不可少的，"
+    ],
+    [
+     "and which excessive.",
+     "哪些是过度花费的。"
+    ]
+   ]
+  },
+  {
+   "n": 19,
+   "para": 5,
+   "en": "Prevention that works may leave nothing but an invoice, to be weighed against a catastrophe that might have been.",
+   "zh": "奏效的预防，可能只会留下一张账单，用来与一场本可能发生的灾难相权衡。",
+   "en_markup": "**Prevention** that works may leave nothing but an **invoice**, to **be weighed against** a **catastrophe** that might have been.",
+   "zh_markup": "奏效的**预防**(Prevention)，可能只会留下一张**账单**(invoice)，用来**与**(be weighed against)一场本可能发生的**灾难**(catastrophe)**相权衡**(be weighed against)。",
+   "video_notes": [
+    "（that works：定语从句修饰 Prevention；nothing but：只有）",
+    "（be weighed against A：与 A 相权衡；that might have been：本可能发生的）（提前花钱修系统，可能正是后来没出大事的原因。不能因为灾难没发生，就说钱白花了；要看这笔费用与不修系统可能造成的损失相比，值不值得。）"
+   ],
+   "chunks": [
+    {
+     "en": "Prevention that works may leave nothing but an invoice,",
+     "zh": "奏效的预防，可能只会留下一张账单，"
+    },
+    {
+     "en": "to be weighed against a catastrophe that might have been.",
+     "zh": "用来与一场本可能发生的灾难相权衡。"
+    }
+   ],
+   "align": [
+    [
+     "Prevention that works",
+     "奏效的预防，"
+    ],
+    [
+     "may leave",
+     "可能"
+    ],
+    [
+     "nothing but",
+     "只会留下"
+    ],
+    [
+     "an invoice,",
+     "一张账单，"
+    ],
+    [
+     "to be weighed against a catastrophe that might have been.",
+     "用来与一场本可能发生的灾难相权衡。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "bug",
+   "zh_video": "漏洞",
+   "headword": "bug",
+   "pos": "n.",
+   "table_definition": "本文：漏洞；n. （计算机程序的）缺陷，漏洞（fix a bug 修复漏洞）；虫子；病菌；v. 窃听；烦扰"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "millennium",
+   "zh_video": "千年",
+   "headword": "millennium",
+   "pos": "n.",
+   "table_definition": "本文：千年；n. (复数 millennia) 一千年，千年期；（the millennium）千禧年（the millennium bug 千年虫）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "shortcut",
+   "zh_video": "捷径",
+   "headword": "shortcut",
+   "pos": "n.",
+   "table_definition": "本文：捷径；n. 捷径，近路（take a shortcut）；（喻）省事的办法（there are no shortcuts to success）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "memory",
+   "zh_video": "内存",
+   "headword": "memory",
+   "pos": "n.",
+   "table_definition": "本文：内存；n. （计算机）内存，存储器；记忆，记忆力（have a good memory）；回忆（childhood memories）；in memory of 纪念……"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "hardware",
+   "zh_video": "硬件",
+   "headword": "hardware",
+   "pos": "n.",
+   "table_definition": "本文：硬件；n. （计算机）硬件（与 software 相对）；五金器具；（军事）装备"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "costly",
+   "zh_video": "昂贵",
+   "headword": "costly",
+   "pos": "adj.",
+   "table_definition": "本文：昂贵；adj. 昂贵的，花钱多的（a costly mistake 代价高昂的错误）；造成损失的"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "programmers",
+   "zh_video": "程序员",
+   "headword": "programmer",
+   "pos": "n.",
+   "table_definition": "本文：程序员；n. (programmer) 程序员，编程者；program v. 编程"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "digits",
+   "zh_video": "数字",
+   "headword": "digit",
+   "pos": "n.",
+   "table_definition": "本文：数字；n. (digit) 数字，位数（a two-digit number 两位数）；手指，脚趾；digital adj. 数字的"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "compact",
+   "zh_video": "小而紧凑的",
+   "headword": "compact",
+   "pos": "adj.",
+   "table_definition": "本文：小而紧凑的；adj. 紧凑的，简洁的（a compact car/design）；密实的；v. 压紧；n. 协定，契约"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "code",
+   "zh_video": "代码",
+   "headword": "code",
+   "pos": "n.",
+   "table_definition": "本文：代码；n. 代码，程序（computer code）；密码，代号；法典，规范（a dress code）；v. 编码"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "ambiguity",
+   "zh_video": "歧义",
+   "headword": "ambiguity",
+   "pos": "n.",
+   "table_definition": "本文：歧义；n. 歧义，模棱两可（avoid ambiguity）；ambiguous adj. 模棱两可的"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "corrupting",
+   "zh_video": "搞错",
+   "headword": "corrupt",
+   "pos": "v.",
+   "table_definition": "本文：搞错；v. (corrupt) （数据）损坏，使出错（corrupt a file）；使腐化，使堕落；adj. 腐败的；corruption n. 腐败"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "deadlines",
+   "zh_video": "截止日期",
+   "headword": "deadline",
+   "pos": "n.",
+   "table_definition": "本文：截止日期；n. (deadline) 截止日期，最后期限（meet/miss a deadline）"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 4,
+   "en": "braced for",
+   "zh_video": "严阵以待……准备迎接",
+   "headword": "brace for",
+   "pos": "v.",
+   "table_definition": "本文：严阵以待……准备迎接；v. (brace) 准备应对（不好的事）（brace (oneself) for sth）；支撑，加固；n. 支架；牙箍"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "chaos",
+   "zh_video": "混乱",
+   "headword": "chaos",
+   "pos": "n.",
+   "table_definition": "本文：混乱；n. 混乱，紊乱（in chaos；cause chaos）；chaotic adj. 混乱的"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 5,
+   "en": "President",
+   "zh_video": "总统",
+   "headword": "president",
+   "pos": "n.",
+   "table_definition": "本文：总统；n. 总统；（机构的）主席，会长，校长（the president of a company/university）；presidential adj. 总统的"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 5,
+   "en": "council",
+   "zh_video": "委员会",
+   "headword": "council",
+   "pos": "n.",
+   "table_definition": "本文：委员会；n. 委员会，理事会（a city council 市议会；the Security Council）；注意与 counsel 区分"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "coordinate",
+   "zh_video": "协调",
+   "headword": "coordinate",
+   "pos": "v.",
+   "table_definition": "本文：协调；v. 协调，使配合（coordinate efforts/policies）；n. 坐标；coordination n. 协调"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 6,
+   "en": "consultants",
+   "zh_video": "顾问",
+   "headword": "consultant",
+   "pos": "n.",
+   "table_definition": "本文：顾问；n. (consultant) 顾问，咨询师（a management consultant）；（英）会诊医生；consult v. 咨询"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 6,
+   "en": "audited",
+   "zh_video": "审查了",
+   "headword": "audit",
+   "pos": "v.",
+   "table_definition": "本文：审查了；v. (audit) 审查，检查（系统、账目）（audit the accounts）；旁听（课程）；n. 审计，审查"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "legacy",
+   "zh_video": "遗留",
+   "headword": "legacy",
+   "pos": "adj.",
+   "table_definition": "本文：遗留；adj. 遗留的（legacy systems 遗留系统，指仍在使用的旧计算机系统）；n. 遗产，遗赠；（历史）留下的影响"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "patched",
+   "zh_video": "给……打上补丁",
+   "headword": "patch",
+   "pos": "v.",
+   "table_definition": "本文：给……打上补丁；v. (patch) 给（软件）打补丁（patch a bug）；修补（patch up 草草修补；调解）；n. 补丁；小块地"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "faulty",
+   "zh_video": "有缺陷的",
+   "headword": "faulty",
+   "pos": "adj.",
+   "table_definition": "本文：有缺陷的；adj. 有缺陷的，有毛病的（faulty wiring/goods）；（推理）错误的；fault n. 缺点，过错"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 7,
+   "en": "Commerce Department",
+   "zh_video": "美国商务部",
+   "headword": "Commerce Department",
+   "pos": "n.",
+   "table_definition": "本文：美国商务部；n. （美国）商务部；commerce n. 商业，贸易（e-commerce 电子商务）；department n. （政府的）部，部门"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 7,
+   "en": "enterprises",
+   "zh_video": "企业",
+   "headword": "enterprise",
+   "pos": "n.",
+   "table_definition": "本文：企业；n. (enterprise) 企业，公司（state-owned enterprises 国有企业）；事业；进取心（show enterprise）"
+  },
+  {
+   "id": 26,
+   "para": 2,
+   "sentence": 7,
+   "en": "projections",
+   "zh_video": "预测",
+   "headword": "projection",
+   "pos": "n.",
+   "table_definition": "本文：预测；n. (projection) 预测，估算（sales projections）；投影，放映；突出物；project v. 预计；投射"
+  },
+  {
+   "id": 27,
+   "para": 2,
+   "sentence": 7,
+   "en": "global",
+   "zh_video": "全球",
+   "headword": "global",
+   "pos": "adj.",
+   "table_definition": "本文：全球；adj. 全球的，全世界的（global warming）；全面的，整体的；globe n. 地球"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "midnight",
+   "zh_video": "午夜",
+   "headword": "midnight",
+   "pos": "n.",
+   "table_definition": "本文：午夜；n. 午夜，子夜（at midnight）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "struck",
+   "zh_video": "敲响",
+   "headword": "strike",
+   "pos": "v.",
+   "table_definition": "本文：敲响；v. (strike 的过去式) （钟）敲响，报时（the clock struck twelve）；打，击；（灾难、疾病）突然发生；n. strike 罢工"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 9,
+   "en": "glitches",
+   "zh_video": "小故障/小毛病",
+   "headword": "glitch",
+   "pos": "n.",
+   "table_definition": "本文：小故障/小毛病；n. (glitch) （机器、系统的）小故障，小毛病（a technical/computer glitch）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 9,
+   "en": "crop up",
+   "zh_video": "意外出现",
+   "headword": "crop up",
+   "pos": "phr.",
+   "table_definition": "本文：意外出现；phr. v. 突然出现，冒出来（problems crop up）；crop n. 庄稼，收成"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "sporadic",
+   "zh_video": "零星的/偶发的",
+   "headword": "sporadic",
+   "pos": "adj.",
+   "table_definition": "本文：零星的/偶发的；adj. 零星的，偶尔发生的，分散的（sporadic fighting/outbreaks）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 9,
+   "en": "minor",
+   "zh_video": "轻微",
+   "headword": "minor",
+   "pos": "adj.",
+   "table_definition": "本文：轻微；adj. 次要的，轻微的（a minor problem/injury）；n. 未成年人；（大学）辅修科目；minority n. 少数"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 10,
+   "en": "faltered",
+   "zh_video": "出了故障",
+   "headword": "falter",
+   "pos": "v.",
+   "table_definition": "本文：出了故障；v. (falter) （机器、系统等）出故障，运转不灵；（经济、力量）衰退，减弱；（说话）支吾，（行动）犹豫"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 10,
+   "en": "spy",
+   "zh_video": "间谍",
+   "headword": "spy",
+   "pos": "n.",
+   "table_definition": "本文：间谍；n. 间谍（spy satellite 间谍卫星，侦察卫星）；v. 侦察，暗中监视（spy on sb）；发现"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 11,
+   "en": "concluded",
+   "zh_video": "得出结论",
+   "headword": "conclude",
+   "pos": "v.",
+   "table_definition": "本文：得出结论；v. (conclude) 得出结论，断定（conclude that…）；结束；缔结（conclude a treaty）；conclusion n."
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 11,
+   "en": "expenditure",
+   "zh_video": "开支",
+   "headword": "expenditure",
+   "pos": "n.",
+   "table_definition": "本文：开支；n. 开支，支出，花费（public/government expenditure；expenditure on sth）"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 11,
+   "en": "justified",
+   "zh_video": "合理的",
+   "headword": "justified",
+   "pos": "adj.",
+   "table_definition": "本文：合理的；adj./v. (justify) 有理由的，合理的（be justified in doing sth）；证明……正当（justify one's decision）；justification n. 理由"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 12,
+   "en": "exaggerated",
+   "zh_video": "夸大了",
+   "headword": "exaggerate",
+   "pos": "adj.",
+   "table_definition": "本文：夸大了；adj./v. (exaggerate) 夸大的；夸大，夸张（exaggerate the danger）；exaggeration n."
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 12,
+   "en": "hoax",
+   "zh_video": "骗局",
+   "headword": "hoax",
+   "pos": "n.",
+   "table_definition": "本文：骗局；n. 骗局，恶作剧（a bomb hoax 虚假炸弹警报）；v. 欺骗"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 13,
+   "en": "prevailed",
+   "zh_video": "占据上风",
+   "headword": "prevail",
+   "pos": "v.",
+   "table_definition": "本文：占据上风；v. (prevail) 占上风，盛行（calm prevailed 局面保持平静）；获胜（prevail over/against）；prevail on sb to do 劝说；prevailing adj. 盛行的"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 13,
+   "en": "largely",
+   "zh_video": "很大程度上",
+   "headword": "largely",
+   "pos": "adv.",
+   "table_definition": "本文：很大程度上；adv. 在很大程度上，主要地（largely because… 主要因为……）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 14,
+   "en": "preparedness paradox",
+   "zh_video": "防备悖论",
+   "headword": "preparedness paradox",
+   "pos": "n.",
+   "table_definition": "本文：防备悖论；n. 防备悖论（防备越成功，危险越显得不存在）；preparedness n. 准备，防备（emergency preparedness 应急准备）；paradox n. 悖论"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 14,
+   "en": "precautions",
+   "zh_video": "预防措施",
+   "headword": "precaution",
+   "pos": "n.",
+   "table_definition": "本文：预防措施；n. (precaution) 预防措施（take precautions against sth）；precautionary adj."
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 14,
+   "en": "ward off",
+   "zh_video": "抵御",
+   "headword": "ward off",
+   "pos": "phr.",
+   "table_definition": "本文：抵御；phr. v. 防止，避开，抵御（ward off danger/disease/an attack）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 14,
+   "en": "imaginary",
+   "zh_video": "虚构的",
+   "headword": "imaginary",
+   "pos": "adj.",
+   "table_definition": "本文：虚构的；adj. 想象中的，虚构的（an imaginary enemy）；注意与 imaginative（富有想象力的）区分"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 15,
+   "en": "tedious",
+   "zh_video": "枯燥乏味的",
+   "headword": "tedious",
+   "pos": "adj.",
+   "table_definition": "本文：枯燥乏味的；adj. 冗长乏味的，单调的（a tedious task/job）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 15,
+   "en": "mockery",
+   "zh_video": "嘲笑",
+   "headword": "mockery",
+   "pos": "n.",
+   "table_definition": "本文：嘲笑；n. 嘲笑，嘲弄（an object of mockery）；徒具形式的东西（make a mockery of 使显得荒唐）；mock v. 嘲笑；adj. 模拟的（a mock exam）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 15,
+   "en": "gratitude",
+   "zh_video": "感激",
+   "headword": "gratitude",
+   "pos": "n.",
+   "table_definition": "本文：感激；n. 感激，感谢（express gratitude to sb for sth）；反义 ingratitude"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 16,
+   "en": "South Korea",
+   "zh_video": "韩国",
+   "headword": "South Korea",
+   "pos": "n.",
+   "table_definition": "本文：韩国；n. 韩国（Korea 朝鲜半岛；Korean adj./n. 韩国的，韩国人，韩语）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 16,
+   "en": "fared no worse",
+   "zh_video": "不比别国差",
+   "headword": "fare no worse",
+   "pos": "phr.",
+   "table_definition": "本文：不比别国差；phr. 情况不比……差（fare v. 过得，进展：fare well/badly；fare n. 车费）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 17,
+   "en": "comparison",
+   "zh_video": "比较",
+   "headword": "comparison",
+   "pos": "n.",
+   "table_definition": "本文：比较；n. 比较，对比（in comparison with 与……相比；by comparison）；compare v."
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 17,
+   "en": "misleads",
+   "zh_video": "具有误导性",
+   "headword": "mislead",
+   "pos": "v.",
+   "table_definition": "本文：具有误导性；v. (mislead) 误导，使产生错误印象（be misled into doing）；misleading adj. 误导性的"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 17,
+   "en": "omitted",
+   "zh_video": "遗漏了",
+   "headword": "omit",
+   "pos": "v.",
+   "table_definition": "本文：遗漏了；v. (omit) 遗漏，省略（omit sth from a list）；omit to do 忘了做；omission n. 遗漏"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 17,
+   "en": "remedial",
+   "zh_video": "补救",
+   "headword": "remedial",
+   "pos": "adj.",
+   "table_definition": "本文：补救；adj. 补救的，纠正的（remedial work/action 补救工作/措施）；（教学）补习的；remedy n. 补救办法"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 17,
+   "en": "obsolete",
+   "zh_video": "过时的/淘汰的",
+   "headword": "obsolete",
+   "pos": "adj.",
+   "table_definition": "本文：过时的/淘汰的；adj. 过时的，淘汰的，废弃的（obsolete technology/equipment）"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 17,
+   "en": "overdue for",
+   "zh_video": "早该",
+   "headword": "overdue for",
+   "pos": "adj.",
+   "table_definition": "本文：早该；adj. 早该有（做）的（overdue for sth 早该……）；过期的，逾期未付的（an overdue bill/library book）"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 18,
+   "en": "essential",
+   "zh_video": "必不可少的",
+   "headword": "essential",
+   "pos": "adj.",
+   "table_definition": "本文：必不可少的；adj. 必不可少的，极其重要的（be essential to/for）；本质的，基本的；n. (pl.) 要素，必需品"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 18,
+   "en": "excessive",
+   "zh_video": "过度花费的",
+   "headword": "excessive",
+   "pos": "adj.",
+   "table_definition": "本文：过度花费的；adj. 过度的，过多的（excessive spending/force）；excess n. 过量"
+  },
+  {
+   "id": 60,
+   "para": 5,
+   "sentence": 19,
+   "en": "prevention",
+   "zh_video": "预防",
+   "headword": "prevention",
+   "pos": "n.",
+   "table_definition": "本文：预防；n. 预防，防止（disease prevention；Prevention is better than cure. 预防胜于治疗）；prevent v."
+  },
+  {
+   "id": 61,
+   "para": 5,
+   "sentence": 19,
+   "en": "invoice",
+   "zh_video": "账单",
+   "headword": "invoice",
+   "pos": "n.",
+   "table_definition": "本文：账单；n. 发票，账单（issue/send an invoice）；v. 开发票，开账单"
+  },
+  {
+   "id": 62,
+   "para": 5,
+   "sentence": 19,
+   "en": "be weighed against",
+   "zh_video": "与……相权衡",
+   "headword": "be weighed against",
+   "pos": "phr.",
+   "table_definition": "本文：与……相权衡；phr. 与……相权衡，与……相比较（weigh A against B 权衡 A 与 B）；weigh v. 称重；权衡"
+  },
+  {
+   "id": 63,
+   "para": 5,
+   "sentence": 19,
+   "en": "catastrophe",
+   "zh_video": "灾难",
+   "headword": "catastrophe",
+   "pos": "n.",
+   "table_definition": "本文：灾难；n. 灾难，大祸（an environmental catastrophe；avert a catastrophe 避免灾难）；catastrophic adj. 灾难性的"
+  }
+ ]
+}

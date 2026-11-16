@@ -1,0 +1,1406 @@
+{
+ "no": "13",
+ "title_en": "The Brain That Learned London",
+ "title_zh": "被街道重塑的大脑",
+ "source_id": "04",
+ "source_hashes": {
+  "JSON": "95038ac0aa3fc59cf02acd7d44cc89d483d97e3b9de581d484be888d989b5ad6",
+  "GEN": "95038ac0aa3fc59cf02acd7d44cc89d483d97e3b9de581d484be888d989b5ad6",
+  "MD": "a925165c1d0705ca07209db18abad9725aca2a02287b7e51281d67ebf0503cde",
+  "illustration": "418677855f6c2982c4fadd6de69b2871658c8ae44cc69c65811c2c71c6298cbc"
+ },
+ "summary": [
+  [
+   "训练",
+   "伦敦出租车司机通常花三四年记住约2.5万条街道，只有约一半学员通过执照考试。"
+  ],
+  [
+   "差异",
+   "海马体是参与记忆和认路的脑结构；出租车司机的海马体后部比其他男性大、▹前部小，但最初不知道这是天生差异还是工作造成的。"
+  ],
+  [
+   "排查",
+   "公交司机也要长期驾驶，却只走固定路线；▹与经验和压力相近的公交司机比较，出租车司机后部富含神经细胞的灰质仍更多。"
+  ],
+  [
+   "追踪",
+   "学员与未参训者起初脑部相似，三四年后只有考过者的后部灰质增加，▹说明学习发生在大脑变化之前，支持训练可能改变成人大脑。"
+  ],
+  [
+   "取舍",
+   "样本小且全为男性，考过者在一项复杂图形记忆测试中还落后于未参训者；▹认路能力增强，未必等于各种记忆都增强。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "Name two addresses and a London cabbie will rattle off the quickest route.",
+   "zh": "随便说出两个地址，伦敦的出租车司机就能脱口说出最快的路线。",
+   "en_markup": "Name two addresses and a London **cabbie** will **rattle off** the **quickest route**.",
+   "zh_markup": "随便说出两个地址，伦敦的**出租车司机**(cabbie)就能**脱口说出**(rattle off)**最快的路线**(quickest route)。",
+   "video_notes": [
+    "（祈使句 + and：只要……就……）"
+   ],
+   "chunks": [
+    {
+     "en": "Name two addresses",
+     "zh": "随便说出两个地址，"
+    },
+    {
+     "en": "and a London cabbie will rattle off the quickest route.",
+     "zh": "伦敦的出租车司机就能脱口说出最快的路线。"
+    }
+   ],
+   "align": [
+    [
+     "Name two addresses",
+     "随便说出两个地址，"
+    ],
+    [
+     "and a London cabbie",
+     "伦敦的出租车司机就能"
+    ],
+    [
+     "will rattle off",
+     "脱口说出"
+    ],
+    [
+     "the quickest route.",
+     "最快的路线。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "That prowess is hard-won.",
+   "zh": "这份本领来之不易。",
+   "en_markup": "That **prowess** is **hard-won**.",
+   "zh_markup": "这份**本领**(prowess)**来之不易**(hard-won)。",
+   "video_notes": [
+    "（hard-won：费尽辛苦才得来的）"
+   ],
+   "chunks": [
+    {
+     "en": "That prowess is hard-won.",
+     "zh": "这份本领来之不易。"
+    }
+   ],
+   "align": [
+    [
+     "That prowess",
+     "这份本领"
+    ],
+    [
+     "is hard-won.",
+     "来之不易。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "To earn a licence, aspiring drivers must conquer \"the Knowledge\", an arduous examination on about 25,000 streets within six miles of Charing Cross.",
+   "zh": "要拿到执照，有志向的司机必须攻克“知识大考”，这是一场艰巨的考试，考的是约25,000条街道，都在查令十字周边6英里以内。",
+   "en_markup": "To earn a **licence**, **aspiring** drivers must **conquer** \"the Knowledge\", an **arduous** **examination** on about 25,000 streets within six miles of Charing Cross.",
+   "zh_markup": "要拿到**执照**(licence)，**有志向的**(aspiring)司机必须**攻克**(conquer)“知识大考”，这是一场**艰巨的**(arduous)**考试**(examination)，考的是约25,000条街道，都在查令十字周边6英里以内。",
+   "video_notes": [
+    "（The Knowledge：伦敦出租车执照考试的俗称）",
+    "（查令十字：伦敦市中心的地标，常被当作伦敦的中心点）"
+   ],
+   "chunks": [
+    {
+     "en": "To earn a licence,",
+     "zh": "要拿到执照，"
+    },
+    {
+     "en": "aspiring drivers must conquer \"the Knowledge\",",
+     "zh": "有志向的司机必须攻克“知识大考”，"
+    },
+    {
+     "en": "an arduous examination",
+     "zh": "这是一场艰巨的考试，"
+    },
+    {
+     "en": "on about 25,000 streets within six miles of Charing Cross.",
+     "zh": "考的是约25,000条街道，都在查令十字周边6英里以内。"
+    }
+   ],
+   "align": [
+    [
+     "To earn a licence,",
+     "要拿到执照，"
+    ],
+    [
+     "aspiring drivers",
+     "有志向的司机"
+    ],
+    [
+     "must conquer",
+     "必须攻克"
+    ],
+    [
+     "\"the Knowledge\",",
+     "“知识大考”，"
+    ],
+    [
+     "an arduous examination",
+     "这是一场艰巨的考试，"
+    ],
+    [
+     "on about 25,000 streets",
+     "考的是约25,000条街道，"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "within six miles of Charing Cross.",
+     "都在查令十字周边6英里以内。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "en": "Hopefuls typically spend three to four years committing this labyrinth to memory, and only about half qualify.",
+   "zh": "考生们通常要花三到四年把这座迷宫记在脑子里，并且只有大约一半，最终会合格。",
+   "en_markup": "**Hopefuls** **typically** spend three to four years **committing** this **labyrinth** to memory, and only about half **qualify**.",
+   "zh_markup": "**考生们**(Hopefuls){{（种子选手/有望成功的人）|Hopefuls}}**通常**(typically)要花三到四年把这座**迷宫**(labyrinth)**记**(committing)在脑子里，并且只有大约一半，最终会**合格**(qualify)。",
+   "video_notes": [
+    "（commit sth to memory：把……牢牢记住）",
+    "（种子选手/有望成功的人）"
+   ],
+   "chunks": [
+    {
+     "en": "Hopefuls typically spend three to four years",
+     "zh": "考生们通常要花三到四年"
+    },
+    {
+     "en": "committing this labyrinth to memory,",
+     "zh": "把这座迷宫记在脑子里，"
+    },
+    {
+     "en": "and only about half qualify.",
+     "zh": "并且只有大约一半，最终会合格。"
+    }
+   ],
+   "align": [
+    [
+     "Hopefuls",
+     "考生们"
+    ],
+    [
+     "typically",
+     "通常"
+    ],
+    [
+     "spend three to four years",
+     "要花三到四年"
+    ],
+    [
+     "committing this labyrinth to memory,",
+     "把这座迷宫记在脑子里，"
+    ],
+    [
+     "and",
+     "并且"
+    ],
+    [
+     "only about half",
+     "只有大约一半，"
+    ],
+    [
+     "qualify.",
+     "最终会合格。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "A study published in PNAS in April 2000 scanned 16 male cabbies and 50 other men.",
+   "zh": "一项研究发表于《美国国家科学院院刊》（2000年4月），扫描了16名男性出租车司机和50名其他男性（的大脑）。",
+   "en_markup": "A study published in PNAS in April 2000 **scanned** 16 male cabbies and 50 other men.",
+   "zh_markup": "一项研究发表于《美国国家科学院院刊》（2000年4月），**扫描了**(scanned)16名男性出租车司机和50名其他男性（的大脑）。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "A study published in PNAS in April 2000",
+     "zh": "一项研究发表于《美国国家科学院院刊》（2000年4月），"
+    },
+    {
+     "en": "scanned 16 male cabbies and 50 other men.",
+     "zh": "扫描了16名男性出租车司机和50名其他男性（的大脑）。"
+    }
+   ],
+   "align": [
+    [
+     "A study",
+     "一项研究"
+    ],
+    [
+     "published in PNAS",
+     "发表于《美国国家科学院院刊》"
+    ],
+    [
+     "in April 2000",
+     "（2000年4月），"
+    ],
+    [
+     "scanned",
+     "扫描了"
+    ],
+    [
+     "16 male cabbies",
+     "16名男性出租车司机"
+    ],
+    [
+     "and 50 other men.",
+     "和50名其他男性（的大脑）。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "The hippocampus is a seahorse-shaped structure vital to memory and navigation.",
+   "zh": "海马体是一个形似海马的结构，对记忆和导航都是至关重要的。",
+   "en_markup": "The **hippocampus** is a seahorse-shaped structure **vital** to memory and **navigation**.",
+   "zh_markup": "**海马体**(hippocampus)是一个形似海马的结构，对记忆和**导航**(navigation){{（认路）|navigation}}都是**至关重要的**(vital)。",
+   "video_notes": [
+    "（海马体：大脑深处负责记忆的区域）",
+    "（认路）"
+   ],
+   "chunks": [
+    {
+     "en": "The hippocampus is a seahorse-shaped structure",
+     "zh": "海马体是一个形似海马的结构，"
+    },
+    {
+     "en": "vital to memory and navigation.",
+     "zh": "对记忆和导航都是至关重要的。"
+    }
+   ],
+   "align": [
+    [
+     "The hippocampus",
+     "海马体"
+    ],
+    [
+     "is a seahorse-shaped structure",
+     "是一个形似海马的结构，"
+    ],
+    [
+     "vital to memory and navigation.",
+     "对记忆和导航都是至关重要的。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "In the cabbies, its rear, or posterior, portion was larger than in the other men, and its front, or anterior, portion smaller.",
+   "zh": "在出租车司机身上，海马体靠后的（也就是后面的）部分比其他男性的更大，而靠前的（也就是前面的）部分则较小。",
+   "en_markup": "In the cabbies, its **rear**, or **posterior**, **portion** was larger than in the other men, and its front, or **anterior**, portion smaller.",
+   "zh_markup": "在出租车司机身上，海马体**靠后的**(rear)（也就是**后面的**(posterior)）**部分**(portion)比其他男性的更大，而靠前的（也就是**前面的**(anterior)）部分则较小。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "In the cabbies,",
+     "zh": "在出租车司机身上，"
+    },
+    {
+     "en": "its rear, or posterior, portion",
+     "zh": "海马体靠后的（也就是后面的）部分"
+    },
+    {
+     "en": "was larger than in the other men,",
+     "zh": "比其他男性的更大，"
+    },
+    {
+     "en": "and its front, or anterior, portion smaller.",
+     "zh": "而靠前的（也就是前面的）部分则较小。"
+    }
+   ],
+   "align": [
+    [
+     "In the cabbies,",
+     "在出租车司机身上，"
+    ],
+    [
+     "its rear, or posterior, portion",
+     "海马体靠后的（也就是后面的）部分"
+    ],
+    [
+     "was larger than in the other men,",
+     "比其他男性的更大，"
+    ],
+    [
+     "and its front, or anterior, portion",
+     "而靠前的（也就是前面的）部分"
+    ],
+    [
+     "smaller.",
+     "则较小。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 2,
+   "en": "Longer service went with a larger rear portion.",
+   "zh": "从业时间越长，后部也越大。",
+   "en_markup": "Longer service went with a larger rear portion.",
+   "zh_markup": "从业时间越长，后部也越大。",
+   "video_notes": [
+    "（go with：与……相伴；此处指两者相关，不是因果）"
+   ],
+   "chunks": [
+    {
+     "en": "Longer service went with a larger rear portion.",
+     "zh": "从业时间越长，后部也越大。"
+    }
+   ],
+   "align": [
+    [
+     "Longer service",
+     "从业时间越长，"
+    ],
+    [
+     "went with a larger rear portion.",
+     "后部也越大。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Yet the link left the cause uncertain.",
+   "zh": "然而，这种关联让原因仍然是不确定的。",
+   "en_markup": "Yet the link left the cause **uncertain**.",
+   "zh_markup": "然而，这种关联让原因仍然是**不确定的**(uncertain)。",
+   "video_notes": [
+    "（leave + 宾语 + 形容词：使……处于某种状态；这里指只看出两者相关，看不出谁导致谁）"
+   ],
+   "chunks": [
+    {
+     "en": "Yet the link left the cause uncertain.",
+     "zh": "然而，这种关联让原因仍然是不确定的。"
+    }
+   ],
+   "align": [
+    [
+     "Yet",
+     "然而，"
+    ],
+    [
+     "the link",
+     "这种关联"
+    ],
+    [
+     "left the cause uncertain.",
+     "让原因仍然是不确定的。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "Perhaps an innate flair for spatial tasks lured people to the occupation, or perhaps stressful driving was the culprit.",
+   "zh": "也许是一种天生的、擅长空间任务的天赋把人们吸引到了这个职业里，又或许紧张的驾驶才是罪魁祸首。",
+   "en_markup": "Perhaps an **innate** **flair** for **spatial** tasks **lured** people to the **occupation**, or perhaps **stressful** driving was the **culprit**.",
+   "zh_markup": "也许是一种**天生的**(innate)、擅长**空间**(spatial)任务的**天赋**(flair)把人们**吸引**(lured)到了这个**职业**(occupation)里，又或许**紧张的**(stressful)驾驶才是**罪魁祸首**(culprit)。",
+   "video_notes": [
+    "（culprit：本义“罪犯”，这里指造成大脑差异的原因）"
+   ],
+   "chunks": [
+    {
+     "en": "Perhaps an innate flair for spatial tasks",
+     "zh": "也许是一种天生的、擅长空间任务的天赋"
+    },
+    {
+     "en": "lured people to the occupation,",
+     "zh": "把人们吸引到了这个职业里，"
+    },
+    {
+     "en": "or perhaps stressful driving was the culprit.",
+     "zh": "又或许紧张的驾驶才是罪魁祸首。"
+    }
+   ],
+   "align": [
+    [
+     "Perhaps",
+     "也许"
+    ],
+    [
+     "an innate flair for spatial tasks",
+     "是一种天生的、擅长空间任务的天赋"
+    ],
+    [
+     "lured people",
+     "把人们吸引"
+    ],
+    [
+     "to the occupation,",
+     "到了这个职业里，"
+    ],
+    [
+     "or perhaps",
+     "又或许"
+    ],
+    [
+     "stressful driving",
+     "紧张的驾驶"
+    ],
+    [
+     "was the culprit.",
+     "才是罪魁祸首。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 3,
+   "en": "A December 2006 study dispelled the second notion: cabbies had more rear grey matter, the tissue dense with nerve cells, than bus drivers, confined to predetermined routes, of equivalent experience and stress.",
+   "zh": "2006年12月的一项研究打消了第二种想法：出租车司机后部的灰质更多，灰质即密布神经细胞的组织，比公交司机的多；这些公交司机局限于预先确定的线路，经验和压力（与出租车司机）都是相当的。",
+   "en_markup": "A December 2006 study **dispelled** the second **notion**: cabbies had more rear **grey matter**, the tissue **dense** with **nerve** cells, than bus drivers, **confined** to **predetermined** routes, of **equivalent** experience and stress.",
+   "zh_markup": "2006年12月的一项研究**打消了**(dispelled)第二种**想法**(notion)：出租车司机后部的**灰质**(grey matter)更多，灰质即**密布**(dense)**神经**(nerve)细胞的组织，比公交司机的多；这些公交司机**局限于**(confined)**预先确定的**(predetermined)线路，经验和压力（与出租车司机）都是**相当的**(equivalent)。",
+   "video_notes": [
+    "（dense with：密布着……）",
+    "（more … than bus drivers 中间插入了对灰质的解释；confined to… 和 of equivalent… 都修饰 bus drivers）"
+   ],
+   "chunks": [
+    {
+     "en": "A December 2006 study dispelled the second notion:",
+     "zh": "2006年12月的一项研究打消了第二种想法："
+    },
+    {
+     "en": "cabbies had more rear grey matter,",
+     "zh": "出租车司机后部的灰质更多，"
+    },
+    {
+     "en": "the tissue dense with nerve cells,",
+     "zh": "灰质即密布神经细胞的组织，"
+    },
+    {
+     "en": "than bus drivers, confined to predetermined routes, of equivalent experience and stress.",
+     "zh": "比公交司机的多；这些公交司机局限于预先确定的线路，经验和压力（与出租车司机）都是相当的。"
+    }
+   ],
+   "align": [
+    [
+     "A December 2006 study",
+     "2006年12月的一项研究"
+    ],
+    [
+     "dispelled the second notion:",
+     "打消了第二种想法："
+    ],
+    [
+     "cabbies had more rear grey matter,",
+     "出租车司机后部的灰质更多，"
+    ],
+    [
+     "the tissue dense with nerve cells,",
+     "灰质即密布神经细胞的组织，"
+    ],
+    [
+     "than bus drivers,",
+     "比公交司机的多；"
+    ],
+    [
+     "confined to predetermined routes,",
+     "这些公交司机局限于预先确定的线路，"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "of equivalent experience and stress.",
+     "经验和压力（与出租车司机）都是相当的。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "A December 2011 longitudinal study tackled the first, scanning 79 trainees and 31 non-trainees at enrolment and three to four years later.",
+   "zh": "2011年12月的一项纵向的研究（着手）处理第一种想法（即天赋把人吸引到这一行），扫描了79名学员和31名非学员，分别在入学时和三到四年后（各扫描一次）。",
+   "en_markup": "A December 2011 **longitudinal** study **tackled** the first, scanning 79 **trainees** and 31 non-trainees at **enrolment** and three to four years later.",
+   "zh_markup": "2011年12月的一项**纵向的**(longitudinal)研究（着手）**处理**(tackled)第一种想法（即天赋把人吸引到这一行），扫描了79名**学员**(trainees)和31名非学员，分别在**入学**(enrolment)时和三到四年后（各扫描一次）。",
+   "video_notes": [
+    "（纵向研究：长期追踪同一批人）"
+   ],
+   "chunks": [
+    {
+     "en": "A December 2011 longitudinal study tackled the first,",
+     "zh": "2011年12月的一项纵向的研究（着手）处理第一种想法（即天赋把人吸引到这一行），"
+    },
+    {
+     "en": "scanning 79 trainees and 31 non-trainees",
+     "zh": "扫描了79名学员和31名非学员，"
+    },
+    {
+     "en": "at enrolment and three to four years later.",
+     "zh": "分别在入学时和三到四年后（各扫描一次）。"
+    }
+   ],
+   "align": [
+    [
+     "A December 2011 longitudinal study",
+     "2011年12月的一项纵向的研究"
+    ],
+    [
+     "tackled the first,",
+     "（着手）处理第一种想法（即天赋把人吸引到这一行），"
+    ],
+    [
+     "scanning 79 trainees and 31 non-trainees",
+     "扫描了79名学员和31名非学员，"
+    ],
+    [
+     "at enrolment",
+     "分别在入学时"
+    ],
+    [
+     "and three to four years later.",
+     "和三到四年后（各扫描一次）。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "Their brains began alike.",
+   "zh": "他们的大脑一开始都一样。",
+   "en_markup": "Their brains began **alike**.",
+   "zh_markup": "他们的大脑一开始都**一样**(alike)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Their brains began alike.",
+     "zh": "他们的大脑一开始都一样。"
+    }
+   ],
+   "align": [
+    [
+     "Their brains",
+     "他们的大脑"
+    ],
+    [
+     "began alike.",
+     "一开始都一样。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "Only the 39 who qualified exhibited an expansion of rear grey matter, so the sequence suggests learning preceded the enlargement.",
+   "zh": "只有最终合格的39人表现出后部灰质的扩大，因此这一先后顺序表明，学习先于（灰质的）增大发生。",
+   "en_markup": "Only the 39 who qualified **exhibited** an **expansion** of rear grey matter, so the **sequence** suggests learning **preceded** the **enlargement**.",
+   "zh_markup": "只有最终合格的39人**表现出**(exhibited)后部灰质的**扩大**(expansion)，因此这一**先后顺序**(sequence)表明，学习**先于**(preceded)（灰质的）**增大**(enlargement)发生。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Only the 39 who qualified exhibited an expansion of rear grey matter,",
+     "zh": "只有最终合格的39人表现出后部灰质的扩大，"
+    },
+    {
+     "en": "so the sequence suggests",
+     "zh": "因此这一先后顺序表明，"
+    },
+    {
+     "en": "learning preceded the enlargement.",
+     "zh": "学习先于（灰质的）增大发生。"
+    }
+   ],
+   "align": [
+    [
+     "Only the 39 who qualified",
+     "只有最终合格的39人"
+    ],
+    [
+     "exhibited",
+     "表现出"
+    ],
+    [
+     "an expansion of rear grey matter,",
+     "后部灰质的扩大，"
+    ],
+    [
+     "so the sequence suggests",
+     "因此这一先后顺序表明，"
+    ],
+    [
+     "learning",
+     "学习"
+    ],
+    [
+     "preceded",
+     "先于"
+    ],
+    [
+     "the enlargement.",
+     "（灰质的）增大发生。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "The gain appeared to entail a trade-off: qualified drivers trailed the non-trainees on one test of recalling an intricate figure.",
+   "zh": "这种收获似乎必然带来某种代价：合格的司机落后于非学员，是在“回忆一幅复杂的图形”这项测试上。",
+   "en_markup": "The gain appeared to **entail** a **trade-off**: qualified drivers **trailed** the non-trainees on one test of recalling an **intricate** figure.",
+   "zh_markup": "这种收获似乎**必然带来**(entail)某种**代价**(trade-off)：合格的司机**落后于**(trailed)非学员，是在“回忆一幅**复杂的**(intricate)图形”这项测试上。",
+   "video_notes": [
+    "（trade-off：权衡取舍、此消彼长；这里指有得必有失）",
+    "（通过考试的出租车司机更擅长记住街道，却在回忆复杂图形的测试中，不如没参加训练的人。这就是这里说的“代价”：认路能力提高了，另一类记忆表现却可能较弱，并不是所有记忆能力都一起变好了。）"
+   ],
+   "chunks": [
+    {
+     "en": "The gain appeared to entail a trade-off:",
+     "zh": "这种收获似乎必然带来某种代价："
+    },
+    {
+     "en": "qualified drivers trailed the non-trainees",
+     "zh": "合格的司机落后于非学员，"
+    },
+    {
+     "en": "on one test of recalling an intricate figure.",
+     "zh": "是在“回忆一幅复杂的图形”这项测试上。"
+    }
+   ],
+   "align": [
+    [
+     "The gain",
+     "这种收获"
+    ],
+    [
+     "appeared to entail",
+     "似乎必然带来"
+    ],
+    [
+     "a trade-off:",
+     "某种代价："
+    ],
+    [
+     "qualified drivers",
+     "合格的司机"
+    ],
+    [
+     "trailed the non-trainees",
+     "落后于非学员，"
+    ],
+    [
+     "on one test of recalling an intricate figure.",
+     "是在“回忆一幅复杂的图形”这项测试上。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "The cohorts were small and exclusively male, yet the studies imply the healthy adult brain can remodel itself through intensive learning.",
+   "zh": "这些研究的样本群体规模小，而且专门都是男性，但这些研究暗示/意味着，健康的成人大脑可以重塑自身，靠的是高强度的学习。",
+   "en_markup": "The **cohorts** were small and **exclusively** male, yet the studies **imply** the healthy adult brain can **remodel** itself through **intensive** learning.",
+   "zh_markup": "这些研究的**样本群体**(cohorts)规模小，而且**专门**(exclusively)都是男性，但这些研究**暗示/意味着**(imply)，健康的成人大脑可以**重塑**(remodel)自身，靠的是**高强度的**(intensive)学习。",
+   "video_notes": [
+    "（cohort：被一起追踪研究的一组人）"
+   ],
+   "chunks": [
+    {
+     "en": "The cohorts were small and exclusively male,",
+     "zh": "这些研究的样本群体规模小，而且专门都是男性，"
+    },
+    {
+     "en": "yet the studies imply",
+     "zh": "但这些研究暗示/意味着，"
+    },
+    {
+     "en": "the healthy adult brain can remodel itself",
+     "zh": "健康的成人大脑可以重塑自身，"
+    },
+    {
+     "en": "through intensive learning.",
+     "zh": "靠的是高强度的学习。"
+    }
+   ],
+   "align": [
+    [
+     "The cohorts",
+     "这些研究的样本群体"
+    ],
+    [
+     "were small",
+     "规模小，"
+    ],
+    [
+     "and exclusively male,",
+     "而且专门都是男性，"
+    ],
+    [
+     "yet the studies imply",
+     "但这些研究暗示/意味着，"
+    ],
+    [
+     "the healthy adult brain",
+     "健康的成人大脑"
+    ],
+    [
+     "can remodel itself",
+     "可以重塑自身，"
+    ],
+    [
+     "through intensive learning.",
+     "靠的是高强度的学习。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "Every street learned, it seems, occupied room once claimed by something else.",
+   "zh": "看来，每记住一条街道，都占据了一块空间，这块空间原本被别的东西占用着。",
+   "en_markup": "Every street learned, it seems, **occupied** room once **claimed** by something else.",
+   "zh_markup": "看来，每记住一条街道，都**占据了**(occupied)一块空间，这块空间原本被别的东西**占用**(claimed)着。",
+   "video_notes": [
+    "（简述：▸训练：伦敦出租车司机通常花三四年记住约2.5万条街道，只有约一半学员通过执照考试。▸差异：海马体是参与记忆和认路的脑结构；出租车司机的海马体后部比其他男性大、▹前部小，但最初不知道这是天生差异还是工作造成的。▸排查：公交司机也要长期驾驶，却只走固定路线；▹与经验和压力相近的公交司机比较，出租车司机后部富含神经细胞的灰质仍更多。▸追踪：学员与未参训者起初脑部相似，三四年后只有考过者的后部灰质增加，▹说明学习发生在大脑变化之前，支持训练可能改变成人大脑。▸取舍：样本小且全为男性，考过者在一项复杂图形记忆测试中还落后于未参训者；▹认路能力增强，未必等于各种记忆都增强。）"
+   ],
+   "chunks": [
+    {
+     "en": "Every street learned, it seems,",
+     "zh": "看来，每记住一条街道，"
+    },
+    {
+     "en": "occupied room",
+     "zh": "都占据了一块空间，"
+    },
+    {
+     "en": "once claimed by something else.",
+     "zh": "这块空间原本被别的东西占用着。"
+    }
+   ],
+   "align": [
+    [
+     "Every street learned, it seems,",
+     "看来，每记住一条街道，"
+    ],
+    [
+     "occupied room",
+     "都占据了一块空间，"
+    ],
+    [
+     "once claimed by something else.",
+     "这块空间原本被别的东西占用着。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "cabbie",
+   "zh_video": "出租车司机",
+   "headword": "cabbie",
+   "pos": "n.",
+   "table_definition": "本文：出租车司机；n. 〈口语〉出租车司机"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "rattle off",
+   "zh_video": "脱口说出",
+   "headword": "rattle off",
+   "pos": "phr.",
+   "table_definition": "本文：脱口说出；phr. v. 一口气说出，脱口而出（rattle off names/figures/a list）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "quickest route",
+   "zh_video": "最快的路线",
+   "headword": "quickest route",
+   "pos": "n.",
+   "table_definition": "本文：最快的路线；n. 短语，最快的路线"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "prowess",
+   "zh_video": "本领",
+   "headword": "prowess",
+   "pos": "n.",
+   "table_definition": "本文：本领；n. 高超技艺，本领（navigational/athletic prowess）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "hard-won",
+   "zh_video": "来之不易",
+   "headword": "hard-won",
+   "pos": "adj.",
+   "table_definition": "本文：来之不易；adj. 来之不易的，艰苦得来的（hard-won skills/victory）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 3,
+   "en": "licence",
+   "zh_video": "执照",
+   "headword": "licence",
+   "pos": "n.",
+   "table_definition": "本文：执照；n. 执照，许可证（英式拼写；earn/obtain a licence；driving licence）；license v. 发许可证"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 3,
+   "en": "aspiring",
+   "zh_video": "有志向的",
+   "headword": "aspiring",
+   "pos": "adj.",
+   "table_definition": "本文：有志向的；adj. 有志成为……的，有抱负的（aspiring drivers/writers）；aspire to v. 渴望"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 3,
+   "en": "conquer",
+   "zh_video": "攻克",
+   "headword": "conquer",
+   "pos": "v.",
+   "table_definition": "本文：攻克；v. 攻克，克服；征服（conquer a fear/a mountain/a country）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "arduous",
+   "zh_video": "艰巨的",
+   "headword": "arduous",
+   "pos": "adj.",
+   "table_definition": "本文：艰巨的；adj. 艰巨的，费力的（an arduous task/journey/exam）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "examination",
+   "zh_video": "考试",
+   "headword": "examination",
+   "pos": "n.",
+   "table_definition": "本文：考试；n. 考试；检查（pass/sit an examination；medical examination）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 4,
+   "en": "hopefuls",
+   "zh_video": "考生们",
+   "headword": "hopeful",
+   "pos": "n.",
+   "table_definition": "本文：考生们；n. (hopeful) 有望成功者，怀揣希望的人（presidential hopefuls；Olympic hopefuls）；adj. 抱有希望的"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 4,
+   "en": "typically",
+   "zh_video": "通常",
+   "headword": "typically",
+   "pos": "adv.",
+   "table_definition": "本文：通常；adv. 通常，一般；典型地（typically take/cost…）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 4,
+   "en": "committing",
+   "zh_video": "记",
+   "headword": "commit",
+   "pos": "v.",
+   "table_definition": "本文：记；v. (commit) commit sth to memory 把……记住；承诺；犯（罪）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": 4,
+   "en": "labyrinth",
+   "zh_video": "迷宫",
+   "headword": "labyrinth",
+   "pos": "n.",
+   "table_definition": "本文：迷宫；n. 迷宫；错综复杂的事物（a labyrinth of streets/rules）"
+  },
+  {
+   "id": 15,
+   "para": 1,
+   "sentence": 4,
+   "en": "qualify",
+   "zh_video": "合格",
+   "headword": "qualify",
+   "pos": "v.",
+   "table_definition": "本文：合格；v. 取得资格，合格（qualify as a driver；qualify for）；qualified adj. 合格的"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 5,
+   "en": "scanned",
+   "zh_video": "扫描了",
+   "headword": "scan",
+   "pos": "v.",
+   "table_definition": "本文：扫描了；v. (scan) 扫描（scan the brain）；浏览，细看（scan a page）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 6,
+   "en": "hippocampus",
+   "zh_video": "海马体",
+   "headword": "hippocampus",
+   "pos": "n.",
+   "table_definition": "本文：海马体；n. 海马体（大脑中与记忆、空间导航有关的结构；复数 hippocampi）（the hippocampus is vital to memory）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 6,
+   "en": "vital",
+   "zh_video": "至关重要的",
+   "headword": "vital",
+   "pos": "adj.",
+   "table_definition": "本文：至关重要的；adj. 至关重要的（be vital to/for sth）；生命的（vital signs）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 6,
+   "en": "navigation",
+   "zh_video": "导航",
+   "headword": "navigation",
+   "pos": "n.",
+   "table_definition": "本文：导航；n. 导航，航行，找路（satellite navigation）；navigate v."
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 7,
+   "en": "rear",
+   "zh_video": "靠后的",
+   "headword": "rear",
+   "pos": "adj.",
+   "table_definition": "本文：靠后的；adj. 后部的，靠后的"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 7,
+   "en": "posterior",
+   "zh_video": "后面的",
+   "headword": "posterior",
+   "pos": "adj.",
+   "table_definition": "本文：后面的；adj. 后部的（posterior hippocampus）；反义 anterior"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 7,
+   "en": "portion",
+   "zh_video": "部分",
+   "headword": "portion",
+   "pos": "n.",
+   "table_definition": "本文：部分；n. 部分，一份（a portion of sth；a large portion of the budget）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 7,
+   "en": "anterior",
+   "zh_video": "前面的",
+   "headword": "anterior",
+   "pos": "adj.",
+   "table_definition": "本文：前面的；adj. 前部的（anterior portion）；（时间上）先前的"
+  },
+  {
+   "id": 24,
+   "para": 3,
+   "sentence": 9,
+   "en": "uncertain",
+   "zh_video": "不确定的",
+   "headword": "uncertain",
+   "pos": "adj.",
+   "table_definition": "本文：不确定的；adj. 不确定的，未定的（remain uncertain；be uncertain about）"
+  },
+  {
+   "id": 25,
+   "para": 3,
+   "sentence": 10,
+   "en": "innate",
+   "zh_video": "天生的",
+   "headword": "innate",
+   "pos": "adj.",
+   "table_definition": "本文：天生的；adj. 天生的，固有的（innate ability/talent）"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 10,
+   "en": "flair",
+   "zh_video": "天赋",
+   "headword": "flair",
+   "pos": "n.",
+   "table_definition": "本文：天赋；n. 天赋，天分（have a flair for sth）；格调"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 10,
+   "en": "spatial",
+   "zh_video": "空间",
+   "headword": "spatial",
+   "pos": "adj.",
+   "table_definition": "本文：空间；adj. 空间的（spatial awareness/memory/tasks）"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 10,
+   "en": "lured",
+   "zh_video": "吸引",
+   "headword": "lure",
+   "pos": "v.",
+   "table_definition": "本文：吸引；v. (lure) 吸引，诱使（lure sb to/into sth）；n. 诱惑，诱饵"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 10,
+   "en": "occupation",
+   "zh_video": "职业",
+   "headword": "occupation",
+   "pos": "n.",
+   "table_definition": "本文：职业；n. 职业（by occupation）；占领；占用"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 10,
+   "en": "stressful",
+   "zh_video": "紧张的",
+   "headword": "stressful",
+   "pos": "adj.",
+   "table_definition": "本文：紧张的；adj. 紧张的，压力大的（a stressful job/journey）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 10,
+   "en": "culprit",
+   "zh_video": "罪魁祸首",
+   "headword": "culprit",
+   "pos": "n.",
+   "table_definition": "本文：罪魁祸首；n. 罪魁祸首，（问题的）根源；犯人（the main/real culprit）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 11,
+   "en": "dispelled",
+   "zh_video": "打消了",
+   "headword": "dispel",
+   "pos": "v.",
+   "table_definition": "本文：打消了；v. (dispel) 打消，驱散（dispel a notion/myth/fears）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 11,
+   "en": "notion",
+   "zh_video": "想法",
+   "headword": "notion",
+   "pos": "n.",
+   "table_definition": "本文：想法；n. 想法，观念（the notion that…；reject a notion）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 11,
+   "en": "grey matter",
+   "zh_video": "灰质",
+   "headword": "grey matter",
+   "pos": "n.",
+   "table_definition": "本文：灰质；n. 灰质（脑组织）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 11,
+   "en": "dense",
+   "zh_video": "密布",
+   "headword": "dense",
+   "pos": "adj.",
+   "table_definition": "本文：密布；adj. 密集的，稠密的（be dense with sth；dense forest/fog）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 11,
+   "en": "nerve",
+   "zh_video": "神经",
+   "headword": "nerve",
+   "pos": "n.",
+   "table_definition": "本文：神经；n. 神经（nerve cells 神经细胞）；勇气（lose one's nerve）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 11,
+   "en": "confined",
+   "zh_video": "局限于",
+   "headword": "confine",
+   "pos": "adj.",
+   "table_definition": "本文：局限于；adj./v. (confine) 局限于，限制（be confined to sth）"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 11,
+   "en": "predetermined",
+   "zh_video": "预先确定的",
+   "headword": "predetermined",
+   "pos": "adj.",
+   "table_definition": "本文：预先确定的；adj. 预先确定的（a predetermined route/order）"
+  },
+  {
+   "id": 39,
+   "para": 3,
+   "sentence": 11,
+   "en": "equivalent",
+   "zh_video": "相当的",
+   "headword": "equivalent",
+   "pos": "adj.",
+   "table_definition": "本文：相当的；adj. 相当的，等同的（be equivalent to；of equivalent value）；n. 对应物"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 12,
+   "en": "longitudinal",
+   "zh_video": "纵向的",
+   "headword": "longitudinal",
+   "pos": "adj.",
+   "table_definition": "本文：纵向的；adj. 纵向的，长期追踪的（a longitudinal study）；经度的"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 12,
+   "en": "tackled",
+   "zh_video": "处理",
+   "headword": "tackle",
+   "pos": "v.",
+   "table_definition": "本文：处理；v. (tackle) 着手处理，解决（tackle a problem/question）；（足球）抢断"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 12,
+   "en": "trainees",
+   "zh_video": "学员",
+   "headword": "trainee",
+   "pos": "n.",
+   "table_definition": "本文：学员；n. (trainee) 受训者，学员（a trainee teacher）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 12,
+   "en": "enrolment",
+   "zh_video": "入学",
+   "headword": "enrolment",
+   "pos": "n.",
+   "table_definition": "本文：入学；n. 入学，注册（英式拼写；at enrolment；enrol v.）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 13,
+   "en": "alike",
+   "zh_video": "一样",
+   "headword": "alike",
+   "pos": "adj.",
+   "table_definition": "本文：一样；adj. 相似的，相同的"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 14,
+   "en": "exhibited",
+   "zh_video": "表现出",
+   "headword": "exhibit",
+   "pos": "v.",
+   "table_definition": "本文：表现出；v. (exhibit) 显示出，表现出（exhibit signs/symptoms）；展出"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 14,
+   "en": "expansion",
+   "zh_video": "扩大",
+   "headword": "expansion",
+   "pos": "n.",
+   "table_definition": "本文：扩大；n. 增长，扩大，扩张（economic expansion；the expansion of grey matter）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 14,
+   "en": "sequence",
+   "zh_video": "先后顺序",
+   "headword": "sequence",
+   "pos": "n.",
+   "table_definition": "本文：先后顺序；n. 顺序，先后次序（in sequence；a sequence of events）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 14,
+   "en": "preceded",
+   "zh_video": "先于",
+   "headword": "precede",
+   "pos": "v.",
+   "table_definition": "本文：先于；v. (precede) 先于，在……之前（precede sth；preceding adj.）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 14,
+   "en": "enlargement",
+   "zh_video": "增大",
+   "headword": "enlargement",
+   "pos": "n.",
+   "table_definition": "本文：增大；n. 增大，放大（enlargement of the heart；a photo enlargement）；enlarge v."
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "entail",
+   "zh_video": "必然带来",
+   "headword": "entail",
+   "pos": "v.",
+   "table_definition": "本文：必然带来；v. 必然带来，牵涉（entail risks/costs）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 15,
+   "en": "trade-off",
+   "zh_video": "代价",
+   "headword": "trade-off",
+   "pos": "n.",
+   "table_definition": "本文：代价；n. 权衡，此消彼长的取舍（a trade-off between A and B）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 15,
+   "en": "trailed",
+   "zh_video": "落后于",
+   "headword": "trail",
+   "pos": "v.",
+   "table_definition": "本文：落后于；v. (trail) 落后于，输给（trail sb by…；trail in the polls）；拖，拖曳"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 15,
+   "en": "intricate",
+   "zh_video": "复杂的",
+   "headword": "intricate",
+   "pos": "adj.",
+   "table_definition": "本文：复杂的；adj. 复杂的，错综的（an intricate pattern/design）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 16,
+   "en": "cohorts",
+   "zh_video": "样本群体",
+   "headword": "cohort",
+   "pos": "n.",
+   "table_definition": "本文：样本群体；n. (cohort) （研究中的）一组人，群体（a cohort study 队列研究）；同伙"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 16,
+   "en": "exclusively",
+   "zh_video": "专门",
+   "headword": "exclusively",
+   "pos": "adv.",
+   "table_definition": "本文：专门；adv. 仅仅，专门地；清一色地（exclusively male；exclusively for members）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 16,
+   "en": "imply",
+   "zh_video": "暗示/意味着",
+   "headword": "imply",
+   "pos": "v.",
+   "table_definition": "本文：暗示/意味着；v. 意味着，暗示（imply that…）；implication n."
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 16,
+   "en": "remodel",
+   "zh_video": "重塑",
+   "headword": "remodel",
+   "pos": "v.",
+   "table_definition": "本文：重塑；v. 重塑，改造（remodel a house/itself）"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 16,
+   "en": "intensive",
+   "zh_video": "高强度的",
+   "headword": "intensive",
+   "pos": "adj.",
+   "table_definition": "本文：高强度的；adj. 高强度的，密集的（intensive training/care）"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 17,
+   "en": "occupied",
+   "zh_video": "占据了",
+   "headword": "occupy",
+   "pos": "v.",
+   "table_definition": "本文：占据了；v. (occupy) 占据（occupy space/time）；占领；使忙于"
+  },
+  {
+   "id": 60,
+   "para": 5,
+   "sentence": 17,
+   "en": "claimed",
+   "zh_video": "占用",
+   "headword": "claim",
+   "pos": "v.",
+   "table_definition": "本文：占用；v. (claim) 占用，夺去（claim space/lives）；声称；索取"
+  }
+ ]
+}
