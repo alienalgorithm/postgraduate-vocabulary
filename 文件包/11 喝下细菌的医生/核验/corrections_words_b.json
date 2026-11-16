@@ -1,0 +1,58 @@
+[
+ {
+  "key": 34,
+  "field": "context_usage",
+  "before": "它交代了评审给论文打低分的态度：并非仔细审查后否定，而是根本不当回事。",
+  "after": "它交代了评审给论文打低分的原因：他们对这项研究没什么好印象，觉得不值得重视。",
+  "reason": "原文没有说评审未仔细审查，“根本不当回事”是无据推断，改为与视频说明一致的表述。"
+ },
+ {
+  "key": 40,
+  "field": "example.en",
+  "before": "The first trial produced no clear result, and the second was likewise inconclusive.",
+  "after": "Several European countries have banned the pesticide, and Canada is likely to do likewise.",
+  "reason": "原例句与逐句精讲第11句语法例句完全重复，换成示范 do likewise 的新例句。"
+ },
+ {
+  "key": 40,
+  "field": "example.zh",
+  "before": "第一次试验没有得出明确的结果，第二次同样没有定论。",
+  "after": "几个欧洲国家已经禁用这种农药，加拿大很可能也会这样做。",
+  "reason": "例句改后同步更新译文。"
+ },
+ {
+  "key": 47,
+  "field": "collocations[1].zh",
+  "before": "伤口开始感染",
+  "after": "开始出现感染",
+  "reason": "infection sets in 不限于伤口，原译过窄。"
+ },
+ {
+  "key": 47,
+  "field": "example.zh",
+  "before": "我们得在冬季雨季到来之前把屋顶修好。",
+  "after": "我们得赶在冬季多雨的时节到来之前把屋顶修好。",
+  "reason": "“冬季雨季”叠用不通顺。"
+ },
+ {
+  "key": 51,
+  "field": "distinction",
+  "before": "forerunner 与 precursor 意思接近，略口语。",
+  "after": "forerunner 与 precursor 意思接近，precursor 更正式，多用于科技、医学语境。",
+  "reason": "forerunner 并非口语词，原辨析不准确。"
+ },
+ {
+  "key": 52,
+  "field": "example.en",
+  "before": "The economy is growing again, albeit more slowly than most analysts had predicted.",
+  "after": "Her condition has improved, albeit only slightly, since she started the new treatment.",
+  "reason": "原例句与逐句精讲第14句例句（The economy is growing, albeit ...）几乎重复，换成示范 albeit 插入句中的新例句。"
+ },
+ {
+  "key": 52,
+  "field": "example.zh",
+  "before": "经济再度增长，尽管增速比大多数分析人士预测的要慢。",
+  "after": "自从开始新疗法以来，她的病情有所好转，尽管只是略有起色。",
+  "reason": "例句改后同步更新译文。"
+ }
+]

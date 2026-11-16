@@ -1,0 +1,58 @@
+[
+ {
+  "key": 7,
+  "field": "grammar[2].explain",
+  "before": "bottle（装瓶）、shelve（搁置）",
+  "after": "bottle（装瓶）、chair（主持）",
+  "reason": "shelve 由 shelf 变 f 为 v 构成，词形有变化，不是“不加词缀、词形不变”的转化，换成典型的零派生词 chair。"
+ },
+ {
+  "key": 7,
+  "field": "grammar[2].examples[0].en",
+  "before": "The council decided to shelve the proposal until next year.",
+  "after": "A retired judge will chair the public inquiry.",
+  "reason": "例句随讲解改为真正示范名词直接转用作动词的 chair。"
+ },
+ {
+  "key": 7,
+  "field": "grammar[2].examples[0].zh",
+  "before": "委员会决定把这项提议搁置到明年。",
+  "after": "一位退休法官将主持这次公开调查。",
+  "reason": "例句改后同步更新译文。"
+ },
+ {
+  "key": 9,
+  "field": "grammar[0].explain",
+  "before": "name、call、elect、appoint 后的名词补足语前不加 as；regard、see、describe 后则要用 as",
+  "after": "name、call 后的名词补足语前不加 as；elect、appoint 后 as 可加可省（He was appointed (as) head of the team）；regard、see、describe 后则必须用 as",
+  "reason": "Oxford 收 appoint/elect sb (as) sth，as 可以出现，原文说“不加 as”不准确。"
+ },
+ {
+  "key": 11,
+  "field": "translation_tip",
+  "before": "②infect 的宾语和感染源都用括号增补：“（专门用来实验）”说明猪的用途",
+  "after": "②宾语 swine 的用途和 infect 省去的感染源都用括号增补：“（专门用来实验）”说明猪的用途",
+  "reason": "宾语“猪”本身已译出，括号增补的是猪的用途，原表述“infect 的宾语用括号增补”与视频译文不符。"
+ },
+ {
+  "key": 12,
+  "field": "grammar[0].explain",
+  "before": "同类动词还有 appoint、elect、name、call。",
+  "after": "能接名词作宾补的动词还有 appoint、elect、name、call 等，其中 appoint、elect 后也可以加 as。",
+  "reason": "与第9句改正一致：appoint、elect 后 as 可加可省，避免读者误以为这些动词后都不能用 as。"
+ },
+ {
+  "key": 13,
+  "field": "grammar[0].explain",
+  "before": "三个以上分句并列时",
+  "after": "三个或更多分句并列时",
+  "reason": "“三个以上”易理解为不含三个，本句恰是三个分句，改为准确说法。"
+ },
+ {
+  "key": 15,
+  "field": "knowledge[0].explain",
+  "before": "之前在培养皿里培养这种细菌屡屡失败，这次直接从马歇尔胃里取样培养了出来。",
+  "after": "当初这种细菌屡次培养失败，直到1982年复活节才首次培养成功；这一次则是直接从马歇尔本人的胃里取样培养了出来。",
+  "reason": "原文暗示自体实验时才首次培养成功，与第6至8句（1982年已培养成功）矛盾，改正时间线。"
+ }
+]

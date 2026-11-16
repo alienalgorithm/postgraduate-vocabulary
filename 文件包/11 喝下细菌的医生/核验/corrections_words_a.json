@@ -1,0 +1,65 @@
+[
+ {
+  "key": 1,
+  "field": "example.en",
+  "before": "Rising food prices, falling wages, and widespread corruption created a volatile brew of public anger.",
+  "after": "Rising food prices, falling wages, and widespread corruption formed a volatile brew that eventually boiled over into street protests.",
+  "reason": "a brew of 后通常列出几种混合成分，a brew of public anger 只有一项，搭配不地道；改为把三项因素本身称作 a volatile brew。"
+ },
+ {
+  "key": 1,
+  "field": "example.zh",
+  "before": "食品价格上涨、工资下降以及腐败盛行，酝酿出一股一触即发的民怨。",
+  "after": "食品价格上涨、工资下降以及腐败盛行交织在一起，形成一触即发的局面，最终演变成街头抗议。",
+  "reason": "例句改后同步更新译文。"
+ },
+ {
+  "key": 3,
+  "field": "context_usage",
+  "before": "说 microbial 而不直接说 bacterial，是因为培养皿里长出的东西此时只是“微生物”这一大类，下文才明确为细菌。",
+  "after": "microbial 比 bacterial 范围宽，文章开头先笼统地说“微生物”，到第3、4句才用 bacterium、bacteria 点明是细菌。",
+  "reason": "1984年时培养物早已确认是细菌，原说法“此时只是微生物这一大类”与事实不符，改为只描述文本本身的用词顺序。"
+ },
+ {
+  "key": 4,
+  "field": "etymology",
+  "before": "中古英语从古诺尔斯语 skrapa（刮，擦去）借入，同时受古英语 scrapian（刮，挠）影响。",
+  "after": "中古英语时期借自古诺尔斯语 skrapa（刮，擦去），也可能来自中古荷兰语 schrapen；古英语有同源词 scrapian（刮，挠）。",
+  "reason": "按 Etymonline：来源为古诺尔斯语 skrapa 或中古荷兰语 schrapen，古英语 scrapian 是同源词，“同时受其影响”无据。"
+ },
+ {
+  "key": 6,
+  "field": "etymology",
+  "before": "document（原义“教导的凭据”）",
+  "after": "document（拉丁语 documentum 原义“教训，范例，证据”）",
+  "reason": "按 Etymonline，documentum 义为 lesson, example, proof，原释“教导的凭据”不准确。"
+ },
+ {
+  "key": 12,
+  "field": "usage_detail",
+  "before": "形容词 professional 既指“职业的，专业的”，也指“职业人士”。",
+  "after": "professional 作形容词指“职业的，专业的”，作名词指“专业人士”。",
+  "reason": "“职业人士”是名词义，原文把它归在形容词下，词性说错。"
+ },
+ {
+  "key": 18,
+  "field": "usage_detail",
+  "before": "注意 -path 作后缀时多指“患者”或“疗法”，如 psychopath（精神变态者）、osteopath（整骨医师）。",
+  "after": "注意 -path 作后缀时多指“患者”或“某种疗法的从业者”，如 psychopath（精神变态者）、osteopath（整骨医师）。",
+  "reason": "osteopath 指从业者而非疗法，原释与所举例词不符。"
+ },
+ {
+  "key": 22,
+  "field": "context_usage",
+  "before": "病理学家沃伦发现细菌，医生马歇尔接手做临床研究",
+  "after": "病理学家沃伦先发现细菌，医生马歇尔随后加入，开展临床研究",
+  "reason": "马歇尔是加入沃伦的研究，并非“接手”，原措辞与第5句“开始与他合作”不符。"
+ },
+ {
+  "key": 26,
+  "field": "form_note",
+  "before": "由形容词 invariable 去掉 e 再加 -ly 构成。",
+  "after": "由形容词 invariable 把词尾 -le 改为 -ly 构成（-able 结尾的形容词变副词时 e 改为 y）。",
+  "reason": "invariable 去 e 再加 -ly 会得到 invariablly，构词说明错误。"
+ }
+]
