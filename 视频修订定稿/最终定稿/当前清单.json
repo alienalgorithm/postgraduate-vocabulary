@@ -2,18 +2,14 @@
   "kind": "validated-video-final-alias-plan-v1",
   "schema_version": 1,
   "requested_total": 70,
-  "current_count": 69,
+  "current_count": 70,
   "archived_passed_count": 70,
-  "complete": false,
+  "complete": true,
   "selection": "user146_latest_requests_bound_current_only",
   "validation_scope": "Existing canonical Git blob identity, mode and size; no new media validation or production",
   "catalog_validated": true,
-  "missing_source_ids": [
-    "24"
-  ],
-  "missing_new_ids": [
-    "49"
-  ],
+  "missing_source_ids": [],
+  "missing_new_ids": [],
   "managed_text_files": [
     "README.md",
     "当前清单.json",
@@ -86,7 +82,8 @@
     "修改记录/67 从一道划痕到天花绝迹.md",
     "修改记录/68 阿波罗13号：成功的失败.md",
     "修改记录/69 拯救天空.md",
-    "修改记录/70 写给外星人的一张唱片.md"
+    "修改记录/70 写给外星人的一张唱片.md",
+    "修改记录/49 冰海求生：坚忍号传奇.md"
   ],
   "videos": [
     {
@@ -6277,6 +6274,122 @@
       "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
     },
     {
+      "source_id": "24",
+      "new_id": "49",
+      "title_zh": "冰海求生：坚忍号传奇",
+      "bytes": 15762599,
+      "sha256": "4e95b70864e2283eec6d145ab72e07c50d1151f7e33b56b8e3bd140dfce65883",
+      "source_run": null,
+      "asset_commit": "d74e93c02116404b13c1b12644721baf1ac89546",
+      "original_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/视频/49 冰海求生：坚忍号传奇.mp4",
+      "alias_path": "最终定稿/视频/49 冰海求生：坚忍号传奇.mp4",
+      "git_blob_sha": "4d0cc28e2b0a90727b46c681f6ac2b0cbc4399ac",
+      "previous_versions": [
+        {
+          "source_id": "24",
+          "new_id": "49",
+          "title_zh": "冰海求生：坚忍号传奇",
+          "title_en": "Survival in the Ice: The Legend of Endurance",
+          "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24/视频/49 冰海求生：坚忍号传奇.mp4",
+          "bytes": 16447685,
+          "sha256": "f64e6b1293b2078bd9f685dc027abb9d65c2e91f3c335b1cf2b119480c930d19",
+          "passed_per_article": true,
+          "source_run": 43543967031,
+          "GEN_origin": "derived_after_final_QC",
+          "MD_origin": "actual_working_manuscript",
+          "final_GEN_claimed_as_runtime": false,
+          "source_notes": "Native inline final preserved byte-for-byte. Original collector usedGEN/workingMD/source/request/diff and execution_observed are retained. Derived final GEN is separate and actual fullJSON-roundtripped, never relabeled as the executed generator.",
+          "original_outer_job_preserved_as_failed": null,
+          "asset_commit": "00166282e40e3b587fdfd34f779d0ad3a3605f05",
+          "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24",
+          "superseded_by_user_feedback": "2026-11-15 四条反馈、S18 and 后不停顿；2026-11-16 简述“大象岛”统一"
+        }
+      ],
+      "missing_metadata_fields": [],
+      "evidence_pointers": {
+        "original_video_repo_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/视频/49 冰海求生：坚忍号传奇.mp4",
+        "archive_prefix": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2",
+        "asset_commit": "d74e93c02116404b13c1b12644721baf1ac89546",
+        "existing_archive_evidence_files": [
+          "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/archive-manifest.json",
+          "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/核验记录/report.json",
+          "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/核验记录/出片前.log",
+          "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/核验记录/出片后.log",
+          "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/归档说明.md"
+        ]
+      },
+      "current_inventory_row": {
+        "source_id": "24",
+        "new_id": "49",
+        "title_zh": "冰海求生：坚忍号传奇",
+        "title_en": "Survival in the Ice: The Legend of Endurance",
+        "video_repo_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/视频/49 冰海求生：坚忍号传奇.mp4",
+        "bytes": 15762599,
+        "sha256": "4e95b70864e2283eec6d145ab72e07c50d1151f7e33b56b8e3bd140dfce65883",
+        "passed_per_article": true,
+        "source_run": null,
+        "production_delivery_eligible": true,
+        "preview_only": false,
+        "media_origin": "actual_local_做sh_定稿sh_4K_remake_with_user_20261115_20261116_feedback_plus_local_tail",
+        "actual_runtime_GEN_or_voice_rerun_claimed": true,
+        "voice_rerun_scope": "S18 only (spoken comma after and removed per user 2026-11-15); S1–S17 decoded audio identical to previous accepted final before 142.255 s",
+        "official_checks": "出片前核查、出片后核查全部通过（纯人声核对 0、独立复核 0 未确认、标点停顿/停顿位置/句间停顿/词尾辅音/高亮同步通过）",
+        "post_reading_pause_seconds": 0.6,
+        "nominal_extra_hold_frames_at_30fps": 18,
+        "measured_voice_to_picture_seconds": 0.6,
+        "illustration_seconds": 2,
+        "summary_card_seconds": 2,
+        "postprocessing_report_sha256": "6596da738841e8532b1589a68380b427a811955743e03b167eb7a215bd8d554c",
+        "peak_dBFS": -0.41,
+        "clipped_samples": 0,
+        "primary_permanent_archive_passed": true,
+        "actual_dual_permanent_archive_passed": false,
+        "backup_mirror_pending": {
+          "repository": "AlienCodes/literate-enigma",
+          "reason": "user decided to keep only the primary repository"
+        },
+        "asset_commit": "d74e93c02116404b13c1b12644721baf1ac89546",
+        "archive_prefix": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2",
+        "superseded_unaccepted_local_versions": [
+          {
+            "video_repo_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v1/视频/49 冰海求生：坚忍号传奇.mp4",
+            "bytes": 15759944,
+            "sha256": "a79418ea9bbb03b8204d28a5d59ee83dd6c5234b328c79491c9ad9a4f5b0d398",
+            "archive_prefix": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v1",
+            "asset_commit": "ce1da29c0e26f6c02bb8d07a86af8849accc135d",
+            "status": "superseded_same_day_never_delivered",
+            "reason": "简述仍是“象岛”；用户 2026-11-16 说“统一”后出 v2"
+          }
+        ],
+        "previous_versions": [
+          {
+            "source_id": "24",
+            "new_id": "49",
+            "title_zh": "冰海求生：坚忍号传奇",
+            "title_en": "Survival in the Ice: The Legend of Endurance",
+            "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24/视频/49 冰海求生：坚忍号传奇.mp4",
+            "bytes": 16447685,
+            "sha256": "f64e6b1293b2078bd9f685dc027abb9d65c2e91f3c335b1cf2b119480c930d19",
+            "passed_per_article": true,
+            "source_run": 43543967031,
+            "GEN_origin": "derived_after_final_QC",
+            "MD_origin": "actual_working_manuscript",
+            "final_GEN_claimed_as_runtime": false,
+            "source_notes": "Native inline final preserved byte-for-byte. Original collector usedGEN/workingMD/source/request/diff and execution_observed are retained. Derived final GEN is separate and actual fullJSON-roundtripped, never relabeled as the executed generator.",
+            "original_outer_job_preserved_as_failed": null,
+            "asset_commit": "00166282e40e3b587fdfd34f779d0ad3a3605f05",
+            "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24",
+            "superseded_by_user_feedback": "2026-11-15 四条反馈、S18 and 后不停顿；2026-11-16 简述“大象岛”统一"
+          }
+        ]
+      },
+      "title_en": "Survival in the Ice: The Legend of Endurance",
+      "current_video_order": "49",
+      "original_book_order": "49",
+      "quality_book_order_unchanged": true,
+      "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
+    },
+    {
       "source_id": "70",
       "new_id": "50",
       "title_zh": "一枚邮票改变通信",
@@ -9166,10 +9279,8 @@
   },
   "new_id_role_in_this_video_manifest": "current_video_order",
   "original_book_order_field": "original_book_order",
-  "missing_frozen_book_orders": [
-    "49"
-  ],
-  "latest_deliverable_count": 69,
+  "missing_frozen_book_orders": [],
+  "latest_deliverable_count": 70,
   "latest_final_directory_policy": {
     "kind": "explicit-user146-unique-latest-final-video-directory",
     "authority_review_sha256": "e759548c0f1889fed996d8fd627e69eae26fe3c4ce0013a911a9f61ac61dd772",
@@ -9181,40 +9292,9 @@
     "new_current_and_raw_pending_updates_sync_directory_same_commit": true,
     "video_order090_and_frozen_quality_book_order_preserved": true
   },
-  "latest_requests_canonical_json_sha256": "dda5befaa51eab1c97dee3986af6bb6048676ed733c5949a52dedde230a9a0cf",
-  "excluded_older_accepted": [
-    {
-      "source_id": "24",
-      "current_video_order": "49",
-      "original_book_order": "49",
-      "title_zh": "冰海求生：坚忍号传奇",
-      "latest_user_records": [
-        "book49-source24-focus-meaning-and-alignment-feedback",
-        "book49-source24-identity-confirmation",
-        "book49-source24-remove-danbo-from-fragile-lifeboat-feedback",
-        "book49-source24-add-ordeal-small-note-feedback",
-        "book49-finalization-after-and-spoken-comma-20261115"
-      ],
-      "status": "latest_authorized_revision_in_production",
-      "reason": "newer_article_revision_pending_old_accepted_is_history_only"
-    }
-  ],
-  "pending_latest_user_requests": [
-    {
-      "source_id": "24",
-      "current_video_order": "49",
-      "original_book_order": "49",
-      "title_zh": "冰海求生：坚忍号传奇",
-      "status": "latest_authorized_revision_in_production",
-      "latest_user_records": [
-        "book49-source24-focus-meaning-and-alignment-feedback",
-        "book49-source24-identity-confirmation",
-        "book49-source24-remove-danbo-from-fragile-lifeboat-feedback",
-        "book49-source24-add-ordeal-small-note-feedback",
-        "book49-finalization-after-and-spoken-comma-20261115"
-      ]
-    }
-  ],
+  "latest_requests_canonical_json_sha256": "3109583ed6f7563c7cb2357fe4a84af3a60a78f7baeeb5edef98c2a901595cfb",
+  "excluded_older_accepted": [],
+  "pending_latest_user_requests": [],
   "archived_missing_source_ids": [],
   "archived_missing_frozen_book_orders": []
 }

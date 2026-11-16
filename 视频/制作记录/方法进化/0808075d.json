@@ -1,0 +1,36 @@
+{
+ "会话": "0808075d",
+ "篇": "24",
+ "角色": "",
+ "更新": "2026-11-16T11:35",
+ "等效": 4.74,
+ "调用": 175,
+ "平均上下文": 229,
+ "最后上下文": 332,
+ "按步骤": {
+  "make_video.py": 1.17,
+  "开工前": 1.03,
+  "读音核对.py": 0.64,
+  "纯人声核对.py": 0.55,
+  "快测.py": 0.52,
+  "印章.py": 0.44,
+  "踩坑核查.py": 0.12,
+  "画面哈希.py": 0.1,
+  "同步自检.py": 0.09,
+  "sync_article.py": 0.08
+ },
+ "手工重复": [
+  [
+   "S=/tmp/claude-#/-home-user-postgraduate-vocabulary/#d-#e-#c#-b#d-#ee#e#dcd#/scra",
+   2
+  ],
+  [
+   "S=/tmp/claude-#/-home-user-postgraduate-vocabulary/#d-#e-#c#-b#d-#ee#e#dcd#/scra",
+   3
+  ],
+  [
+   "W=/tmp/claude-#/-home-user-postgraduate-vocabulary/#d-#e-#c#-b#d-#ee#e#dcd#/scra",
+   2
+  ]
+ ]
+}
