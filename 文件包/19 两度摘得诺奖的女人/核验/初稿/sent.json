@@ -1,0 +1,1715 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Marie Curie",
+   "predicate": "was born",
+   "object_or_complement": "Maria Skłodowska（主语补足语，说明出生时的名字）",
+   "explain": "主干是 Marie Curie was born Maria Skłodowska。be born 形式上是被动结构，意为“出生”，后面直接跟名字作主语补足语，说明她出生时叫什么。谓语 was born 为一般过去时，叙述过去的事实。"
+  },
+  "components": [
+   {
+    "text": "Marie Curie",
+    "role": "主语",
+    "zh": "玛丽·居里"
+   },
+   {
+    "text": "was born",
+    "role": "谓语（be born 意为“出生”，一般过去时）",
+    "zh": "原名……生于"
+   },
+   {
+    "text": "Maria Skłodowska",
+    "role": "主语补足语（名词，说明出生时的名字）",
+    "zh": "玛丽亚·斯克沃多夫斯卡"
+   },
+   {
+    "text": "on 7 November 1867",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1867年11月7日"
+   },
+   {
+    "text": "in Warsaw,",
+    "role": "地点状语（介词短语）",
+    "zh": "华沙"
+   },
+   {
+    "text": "then under Russian dominion,",
+    "role": "插入语（副词 then + 介词短语，相当于省略了 which was 的非限制性定语从句），补充说明 Warsaw 当时的处境",
+    "zh": "当时华沙处于俄国的统治之下"
+   },
+   {
+    "text": "where women were denied university admission.",
+    "role": "非限制性定语从句（关系副词 where 引导），修饰 Warsaw",
+    "zh": "在那里，女性被剥夺了大学的入学资格"
+   }
+  ],
+  "structure": "①主句是 Marie Curie was born Maria Skłodowska：主语 Marie Curie，谓语 was born，Maria Skłodowska 作主语补足语，表示“出生时名叫……”，视频译为“原名”。on 7 November 1867 是时间状语，in Warsaw 是地点状语，交代出生的日期和地点。\n②then under Russian dominion 是插入语（视频说明：插入语，补充说明华沙当时的处境），前后用逗号隔开。它没有谓语动词，相当于省略了 which was 的非限制性定语从句（which was then under Russian dominion）；then 意为“当时”，under Russian dominion 是介词短语，表示处于俄国统治之下。\n③where 引导非限制性定语从句，先行词是 Warsaw。where 是关系副词，在从句中作地点状语，相当于 in which（在华沙）。从句主语 women，谓语 were denied，university admission 是保留宾语：主动形式是 deny women university admission（不给女性大学入学资格），变成被动后间接宾语 women 作主语，直接宾语 university admission 留在动词之后。\n④整句按“出生、当时处境、女性受限”的顺序推进，最后的从句交代女性不能上大学，为下一句她远赴巴黎求学埋下伏笔。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "be born + 名字：主语补足语",
+    "explain": "be born 后面除了接时间、地点状语，还可以直接接名词作主语补足语，表示出生时的名字或身份，如 was born Maria Skłodowska（出生时名叫玛丽亚·斯克沃多夫斯卡）。这种结构多用于介绍后来改名、婚后改姓或使用笔名、艺名的人：本句的 Marie 是 Maria 的法语形式，Curie 是婚后随的夫姓。名字后面常紧跟时间、地点状语，阅读时不要把 Maria Skłodowska 误当成宾语。be born 还可接形容词或名词表示出生时的状态，如 be born blind（生来失明）、be born a slave（生为奴隶）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "George Eliot was born Mary Ann Evans but published her novels under a male pen name.",
+      "zh": "乔治·艾略特原名玛丽·安·埃文斯，但她用一个男性笔名出版小说。"
+     },
+     {
+      "en": "He was born a farmer's son and died one of the richest men in the country.",
+      "zh": "他生来是农民的儿子，去世时却是全国最富有的人之一。"
+     }
+    ]
+   },
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "where 是关系副词，先行词表示地点，在从句中作地点状语，相当于 in which 或 at which。用 where 还是 which，要看从句缺什么成分：缺地点状语用 where，缺主语或宾语用 which。本句从句 women were denied university admission 主谓宾齐全，缺的是“在那里”这一地点状语，所以用 where = in which。逗号表明是非限制性定语从句，对 Warsaw 作补充说明，翻译时常拆成独立分句，视频译为“在那里，……”。易错点：先行词是地点名词不等于一定用 where，如 the city which I visited last year，visited 缺宾语，只能用 which 或 that。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She grew up in Lyon, where her father ran a small bookshop.",
+      "zh": "她在里昂长大，她父亲在那里经营一家小书店。"
+     },
+     {
+      "en": "The delegates returned to Geneva, where the talks had begun three years earlier.",
+      "zh": "代表们回到了日内瓦，三年前谈判正是在那里开始的。"
+     }
+    ]
+   },
+   {
+    "title": "双宾语动词的被动语态：保留宾语",
+    "explain": "deny、give、offer、grant、refuse、award 等动词可以带双宾语，如 deny sb sth（不给某人某物）。变被动语态时，通常把间接宾语（人）变为主语，直接宾语（物）保留在谓语之后，称为保留宾语：deny women university admission → women were denied university admission。视频说明：be denied = 被拒绝给予/被剥夺，本句结合语境译为“被剥夺了”。考研阅读中 be denied access、be denied entry、be denied the right to vote 等结构很常见，看到 be denied 后面跟名词，要读出“某人没有得到某物”的意思。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Several foreign journalists were denied entry to the country last week.",
+      "zh": "上周，几名外国记者被拒绝入境。"
+     },
+     {
+      "en": "Patients should not be denied access to their own medical records.",
+      "zh": "不应剥夺患者查阅本人病历的权利。"
+     }
+    ]
+   },
+   {
+    "title": "无谓语的插入语：then + 介词短语",
+    "explain": "插入语可以不含谓语动词，由副词、形容词短语、名词短语或介词短语构成，用逗号与句子其他部分隔开，补充背景信息。本句 then under Russian dominion 相当于 which was then under Russian dominion，省去了关系代词和系动词，结构紧凑，新闻和传记文体中很常见。then 在这里不表示“然后”，而表示“当时”，作定语时也是这个意思，如 the then president（当时的总统）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed in Vienna, then the capital of a vast empire.",
+      "zh": "条约在维也纳签署，维也纳当时是一个庞大帝国的首都。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Maria Skłodowska",
+    "explain": "玛丽·居里的波兰原名。Skłodowska 是父姓 Skłodowski 的女性形式，波兰语以 -ski 结尾的姓氏，女性用 -ska；字母 ł 的读音接近英语的 w，所以视频音译为“斯克沃多夫斯卡”。到法国后她使用法语形式的名字 Marie，婚后随夫姓 Curie，全名常写作 Marie Skłodowska Curie。"
+   },
+   {
+    "term": "under Russian dominion",
+    "explain": "18世纪末，波兰被俄国、普鲁士和奥地利三国瓜分，华沙划归俄国控制的区域，所以说华沙当时处于俄国的统治之下。under sb's dominion 意为“在某人的统治之下”，dominion 比 rule 书面。"
+   },
+   {
+    "term": "deny",
+    "explain": "熟词僻义：deny 常见义是“否认”（deny the charge 否认指控），本句是“拒绝给予”，deny sb sth 意为不给某人某物，被动形式 be denied sth，视频译为“被剥夺了”。"
+   },
+   {
+    "term": "university admission",
+    "explain": "university 是名词作定语，整个短语意为“大学的入学资格”。admission 有“准许进入，入学资格”“入场费”“承认”等义，如 gain admission to a university（获准进入大学）、an admission of guilt（认罪）。"
+   },
+   {
+    "term": "be born",
+    "explain": "born 是 bear（生育）的过去分词，be born 表示“出生”时总用被动形式。具体日期前用 on（on 7 November 1867），只有年份或月份时用 in（in 1867、in November），城市前用 in。"
+   }
+  ],
+  "translation_tip": "视频译文“玛丽·居里原名玛丽亚·斯克沃多夫斯卡，1867年11月7日生于华沙。当时华沙处于俄国的统治之下，在那里，女性被剥夺了大学的入学资格。”的处理：①was born Maria Skłodowska 不直译为“出生为”，而译为“原名”，交代她出生时的名字；was born 的“出生”义另用“生于”译出，与时间、地点状语合成“1867年11月7日生于华沙”，时间状语按汉语习惯放在动词前。②插入语 then under Russian dominion 拆出来另起一句，补出主语“华沙”，译为“当时华沙处于俄国的统治之下”。③非限制性定语从句不前置，拆成分句，where 译为“在那里”。④被动结构 were denied university admission 保留被动语气，译为“被剥夺了大学的入学资格”，突出女性受到的限制。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "she",
+   "predicate": "emigrated",
+   "object_or_complement": "",
+   "explain": "主干是 she emigrated，主谓结构；emigrate 是不及物动词，to Paris 说明移居的目的地。谓语 emigrated 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Eager to pursue formal study,",
+    "role": "状语（形容词短语，说明主语 she 的心理状态，兼有原因意味）",
+    "zh": "渴望追求正规的学习"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "emigrated",
+    "role": "谓语（不及物动词）",
+    "zh": "移居"
+   },
+   {
+    "text": "to Paris",
+    "role": "方向状语（介词短语，表示移居的目的地）",
+    "zh": "巴黎"
+   },
+   {
+    "text": "in 1891,",
+    "role": "时间状语（介词短语）",
+    "zh": "于1891年"
+   },
+   {
+    "text": "enrolling at the Sorbonne.",
+    "role": "状语（现在分词短语，表示接着发生的动作）",
+    "zh": "注册入读索邦大学"
+   }
+  ],
+  "structure": "①主句是 she emigrated to Paris in 1891：主语 she，谓语 emigrated（不及物），to Paris 表示移居的目的地，in 1891 是时间状语。\n②句首 Eager to pursue formal study 是形容词短语作状语（视频说明：eager to do：渴望做……，形容词短语作状语），逻辑主语是主句主语 she，说明她当时的心态，也交代了移居巴黎的原因，可以还原为 Because she was eager to pursue formal study。eager 后接不定式 to pursue formal study，不定式说明渴望的内容。\n③句末 enrolling at the Sorbonne 是现在分词短语作状语（视频说明：现在分词短语作状语，表接着发生的动作），逻辑主语也是 she，相当于 and enrolled at the Sorbonne，表示移居巴黎之后接着注册入学。\n④本句与第1句构成因果衔接：华沙的大学不收女性，她渴望接受正规教育，于是远赴巴黎。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词短语作状语",
+    "explain": "形容词或形容词短语可以放在句首或句末作状语，说明主语的状态、心情，常带原因或伴随意味，逻辑主语必须是句子的主语。本句 Eager to pursue formal study 的逻辑主语是 she，说明她渴望求学的心态，并交代移居的原因。常见的有 Eager to…、Anxious to…、Unable to…、Afraid of… 等。考研长难句中，句首出现以形容词开头、后接逗号的短语时，要把它当作状语，向后找真正的主语；写作中可以用它把两个简单句合并，如 He was nervous. He kept checking his notes. 合并为 Nervous, he kept checking his notes.",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Anxious to avoid another strike, the company agreed to most of the union's demands.",
+      "zh": "公司急于避免再次罢工，同意了工会的大部分要求。"
+     },
+     {
+      "en": "Unable to find work at home, many young graduates moved abroad.",
+      "zh": "许多年轻毕业生在国内找不到工作，便去了国外。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作状语，表示接着发生的动作",
+    "explain": "现在分词短语放在句末，可以表示紧接着主句动作发生的另一个动作，逻辑主语与主句主语一致，相当于 and + 谓语动词。本句 enrolling at the Sorbonne 相当于 and enrolled at the Sorbonne：先移居巴黎，再注册入学。这类分词表示的也是已经发生的事，不能误读为“正在注册”。如果分词动作明显先于主句动作完成，要用完成式 having done，如 Having finished the report, she went home。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He left school at sixteen, joining his father's firm as an apprentice.",
+      "zh": "他十六岁离开学校，进了父亲的公司当学徒。"
+     },
+     {
+      "en": "The train pulled out of the station at noon, arriving in Edinburgh four hours later.",
+      "zh": "火车中午驶出车站，四小时后抵达爱丁堡。"
+     }
+    ]
+   },
+   {
+    "title": "eager to do 与 eager for sth",
+    "explain": "eager 后接不定式表示“渴望做某事”（eager to learn），后接 for + 名词表示“渴望得到某物”（eager for news）。本句 eager to pursue formal study 用的是不定式结构，不定式作形容词的补足成分，说明渴望的内容。eager 着重积极、热切的心情，anxious to do 也表示“急于做”，但常带担心的意味。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Investors are eager for clear signals on interest rates.",
+      "zh": "投资者渴望得到有关利率的明确信号。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Sorbonne",
+    "explain": "原指13世纪由罗伯尔·德·索邦（Robert de Sorbon）创办的一所学院，后来成为巴黎大学的代称，英语中常加定冠词 the。视频译为“索邦大学”。"
+   },
+   {
+    "term": "emigrate to",
+    "explain": "emigrate 指离开本国移居他国，强调“出”，后接 from（离开哪国）和 to（去往哪里）；immigrate 强调“入”，指移入某国。本句她从波兰移居法国，所以用 emigrate to Paris。"
+   },
+   {
+    "term": "pursue formal study",
+    "explain": "pursue 意为“从事，追求”，常与 study、career、degree、goal 等搭配；formal study 指在正规学校接受的系统学习，与自学、非正规的学习相对。她在华沙时曾参加秘密开办的“流动大学”（Flying University），formal 正与这种非正规的学习相对。"
+   },
+   {
+    "term": "enrol at",
+    "explain": "enrol 意为“注册，入学”，英式拼写为 enrol，美式拼写为 enroll；在某校注册用 enrol at 或 enrol in a university，报名参加某门课程用 enrol in 或 enrol on a course。"
+   }
+  ],
+  "translation_tip": "视频译文“渴望追求正规的学习，她于1891年移居巴黎，注册入读索邦大学。”的处理：①句首形容词短语保留在句首，直接译为“渴望追求正规的学习”，没有补出“因为”，读者从语序上就能看出因果。②时间状语 in 1891 提到谓语前，译为“于1891年移居巴黎”，“于”字较书面，与传记文体一致。③句末现在分词短语译成并列的短句“注册入读索邦大学”，与英文的先后顺序一致；enrol 译为“注册入读”，把注册和就读两层意思都译了出来。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "she",
+   "predicate": "wed",
+   "object_or_complement": "the physicist Pierre Curie",
+   "explain": "主干是 she wed the physicist Pierre Curie，主谓宾结构。wed 在此为及物动词，意为“与……结婚”，过去式与原形同形（也可用 wedded）；谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 26 July 1895",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1895年7月26日"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "wed",
+    "role": "谓语（及物动词，意为“与……结婚”）",
+    "zh": "与……成婚"
+   },
+   {
+    "text": "the physicist Pierre Curie,",
+    "role": "宾语（the physicist 与 Pierre Curie 构成同位关系）",
+    "zh": "物理学家皮埃尔·居里"
+   },
+   {
+    "text": "forging a research partnership.",
+    "role": "结果状语（现在分词短语）",
+    "zh": "两人建立起研究上的合作关系"
+   }
+  ],
+  "structure": "①主句是 she wed the physicist Pierre Curie，主谓宾结构。wed 直接接宾语，不说 wed with。宾语中 the physicist 和 Pierre Curie 是同位关系：表示职业的普通名词放在人名前，前加 the，这是新闻和传记中常见的介绍人物的方式。\n②On 26 July 1895 是时间状语，具体某一天前用介词 on。\n③forging a research partnership 是现在分词短语作结果状语（视频说明：forging…：现在分词短语作状语，表结果），说明结婚带来的结果。分词的逻辑主语是主句主语 she，结合语义，建立合作关系的是她和皮埃尔两人，视频据此补出“两人”。\n④research partnership 中 research 是名词作定语，说明是研究方面的合作关系。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，可以表示主句动作自然带来的结果，相当于 and so 或 and thus + 谓语。本句 forging a research partnership 表示结婚的结果是建立起研究上的合作关系。这类结果多是顺理成章、预料之中的；表示出乎意料的结果常用不定式 only to do（结果却……）。考研阅读中 thus/thereby + doing 也常表示结果，如 thereby reducing costs（从而降低了成本）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell all night, flooding several streets in the town centre.",
+      "zh": "大雨下了一整夜，淹没了市中心的几条街道。"
+     },
+     {
+      "en": "The two firms merged in 2019, creating the largest retailer in the region.",
+      "zh": "这两家公司于2019年合并，组成了该地区最大的零售商。"
+     }
+    ]
+   },
+   {
+    "title": "身份名词 + 人名 构成同位关系",
+    "explain": "介绍人物时，英语常把职业、身份名词放在人名前，与人名构成同位关系，前面一般加 the，如 the physicist Pierre Curie、the novelist Charles Dickens。也可以把人名放在前面，用逗号隔开身份：Pierre Curie, a physicist。前一种写法把身份当作读者应当了解的背景，后一种是补充说明。翻译时把身份译成定语，如“物理学家皮埃尔·居里”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The architect Zaha Hadid designed the aquatics centre for the 2012 London Olympics.",
+      "zh": "建筑师扎哈·哈迪德设计了2012年伦敦奥运会的水上运动中心。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "wed",
+    "explain": "动词，意为“结婚，与……结婚”，可作及物动词（wed sb）也可作不及物动词（the couple wed in June），过去式和过去分词为 wed 或 wedded；比 marry 简短，多见于新闻标题和书面语。视频译为“成婚”。"
+   },
+   {
+    "term": "forge",
+    "explain": "本义“锻造（金属）”，引申为“打造，建立”（视频说明：forge 常用来表示“打造、建立”。比如 forge a friendship 就是建立友谊，forge an alliance 是结盟；如果是 forge a path，意思就是硬生生“开辟/闯出一条路”）。另有“伪造”义，如 forge a signature（伪造签名）。"
+   },
+   {
+    "term": "research partnership",
+    "explain": "研究上的合作关系。partnership 意为“合作关系，伙伴关系”，常用 form/forge a partnership、in partnership with sb（与某人合作）。"
+   },
+   {
+    "term": "Pierre Curie",
+    "explain": "皮埃尔·居里，法国物理学家，婚前已在晶体和磁学研究上取得成就，1880年与哥哥雅克（Jacques Curie）一起发现了压电效应。"
+   }
+  ],
+  "translation_tip": "视频译文“1895年7月26日，她与物理学家皮埃尔·居里成婚，两人建立起研究上的合作关系。”的处理：①英文日期按“日、月、年”排列，汉语按“年、月、日”排列。②及物动词 wed 加宾语译成“与……成婚”，汉语“成婚”不带宾语，用“与”引出对象。③同位关系 the physicist Pierre Curie 译为“物理学家皮埃尔·居里”。④结果状语 forging… 拆成独立分句，补出主语“两人”，“建立起”的“起”表示合作关系从此开始；作定语的 research 译为“研究上的”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Henri Becquerel；she",
+   "predicate": "found；named",
+   "object_or_complement": "that uranium emitted rays（found 的宾语从句）；this property of certain elements（named 的宾语），radioactivity（宾语补足语）",
+   "explain": "分号连接两个并列的独立分句。前一分句 Henri Becquerel found that…，主谓宾结构，宾语是 that 引导的宾语从句；后一分句 she named this property… radioactivity，主谓宾宾补结构，name A B 意为“把 A 命名为 B”。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Henri Becquerel",
+    "role": "主语（分句一）",
+    "zh": "亨利·贝克勒尔"
+   },
+   {
+    "text": "found",
+    "role": "谓语（分句一）",
+    "zh": "发现"
+   },
+   {
+    "text": "that uranium emitted rays;",
+    "role": "宾语从句（that 引导，that 在从句中不作成分）",
+    "zh": "铀会发出射线"
+   },
+   {
+    "text": "she",
+    "role": "主语（分句二）",
+    "zh": "她"
+   },
+   {
+    "text": "named",
+    "role": "谓语（分句二，name A B 结构）",
+    "zh": "把……命名为"
+   },
+   {
+    "text": "this property",
+    "role": "宾语",
+    "zh": "这种性质/属性"
+   },
+   {
+    "text": "of certain elements",
+    "role": "后置定语（介词短语），修饰 property",
+    "zh": "某些元素的"
+   },
+   {
+    "text": "radioactivity.",
+    "role": "宾语补足语（名词）",
+    "zh": "放射性"
+   }
+  ],
+  "structure": "①分号把两个独立分句连在一起：前一句交代贝克勒尔的发现，后一句交代她的命名，两件事在逻辑上紧密相关，所以用分号而不用句号。\n②前一分句：主语 Henri Becquerel，谓语 found，that uranium emitted rays 是 that 引导的宾语从句（视频说明：that 引导宾语从句）。that 在从句中不作任何成分，只起连接作用；从句主语 uranium，谓语 emitted，宾语 rays。主句是过去时，从句随之用一般过去时 emitted。\n③后一分句是“name + 宾语 + 宾语补足语”结构（视频说明：name A B：把 A 命名为 B）。宾语是 this property，of certain elements 是后置定语，修饰 property（视频说明：of certain elements：后置定语，修饰 property）；radioactivity 是宾语补足语，说明命名的结果。this property 回指前一分句所说的“发出射线”这种性质。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "name + 宾语 + 宾语补足语",
+    "explain": "name、call、elect、appoint、make 等动词可以接“宾语 + 名词”，名词作宾语补足语，说明宾语的名称或身份：name A B 即“把 A 命名为 B”。宾补与宾语指同一事物，name 和 call 后的宾补前不加 as，而 regard、see、describe 后要用 as。本句宾语带后置定语 of certain elements，宾补 radioactivity 被推到句末，阅读时要找准两部分的分界。变被动语态时，宾补变为主语补足语：This property was named radioactivity。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The board named her the new director of the research institute.",
+      "zh": "董事会任命她为该研究所的新所长。"
+     },
+     {
+      "en": "Local people call the mountain the Sleeping Giant because of its shape.",
+      "zh": "因为这座山的形状，当地人称它为“沉睡的巨人”。"
+     }
+    ]
+   },
+   {
+    "title": "宾语从句的时态呼应",
+    "explain": "主句谓语是过去时，宾语从句一般也用相应的过去时态，这叫时态呼应，如 found that uranium emitted rays。从句内容如果是客观真理或现在仍然成立的事实，也可以用一般现在时，如 found that uranium emits rays；作者用过去时，是按叙事时间讲述当时的发现。视频译为“会发出”，用“会”体现这是铀本身具有的性质。考研写作中引述过去的研究发现时，两种时态都可以用，要看是否强调结论至今成立。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Galileo argued that the Earth moves around the Sun.",
+      "zh": "伽利略认为地球绕着太阳转。"
+     },
+     {
+      "en": "The researchers found that the drug reduced the risk of heart attack by a third.",
+      "zh": "研究人员发现，这种药物使心脏病发作的风险降低了三分之一。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接独立分句",
+    "explain": "分号可以连接两个意义紧密相关的独立分句，作用介于逗号和句号之间。两个独立分句不能只用逗号连接（逗号粘连是英语写作的常见错误），要用分号、句号或并列连词。本句分号前后分别讲发现和命名，视频也用分号保留了这种关系。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first experiment failed; the second produced the expected results.",
+      "zh": "第一次实验失败了；第二次得出了预期的结果。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Henri Becquerel",
+    "explain": "亨利·贝克勒尔，法国物理学家，1896年发现铀盐能自发发出射线，这是人类首次发现放射现象；1903年他与居里夫妇共同获得诺贝尔物理学奖。"
+   },
+   {
+    "term": "radioactivity",
+    "explain": "放射性，由 radio-（射线，辐射）和 activity（活性）构成。这个术语由玛丽·居里提出（法语 radioactivité）。形容词 radioactive（有放射性的）见第16句。"
+   },
+   {
+    "term": "property",
+    "explain": "熟词僻义：property 常见义是“财产，房产”，在科技文章中指物质的“性质，属性”，常用复数，如 the chemical properties of water（水的化学性质）、healing properties（疗效）。视频译为“性质/属性”。"
+   },
+   {
+    "term": "certain elements",
+    "explain": "element 此处指化学元素；certain 放在名词前意为“某些”，不表示“确定的”。element 还可指“要素，成分”，如 a key element of success（成功的关键要素）。"
+   },
+   {
+    "term": "uranium",
+    "explain": "铀，化学元素，1789年被发现，以不久前发现的天王星（Uranus）命名。"
+   },
+   {
+    "term": "emit rays",
+    "explain": "emit 意为“发出，放射（光、热、气体、辐射等）”，名词 emission，如 carbon emissions（碳排放）。视频将 emitted rays 译为“会发出射线”。"
+   }
+  ],
+  "translation_tip": "视频译文“亨利·贝克勒尔发现，铀会发出射线；她把某些元素的这种性质/属性命名为放射性。”的处理：①宾语从句保留在 found 之后，“发现”后加逗号，使句子节奏清楚。②emitted 译为“会发出”，用“会”表示铀本身具有的特性。③name A B 用“把”字句译出：“把……命名为……”，宾语提到动词前；后置定语 of certain elements 前置为“某些元素的”，this 译为“这种”，回指前文的射线现象。④property 视频给出“性质/属性”两个对应译法，两者在此意思相同。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "the Curies",
+   "predicate": "announced",
+   "object_or_complement": "polonium；radium（省略句中保留的宾语）",
+   "explain": "主干是 the Curies announced polonium… and… radium，主谓宾结构。and 后的 on 26 December, radium 省略了与前面相同的主语和谓语 the Curies announced。谓语 announced 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In July 1898",
+    "role": "时间状语（介词短语）",
+    "zh": "1898年7月"
+   },
+   {
+    "text": "the Curies",
+    "role": "主语（the + 姓氏复数，指居里夫妇）",
+    "zh": "居里夫妇"
+   },
+   {
+    "text": "announced",
+    "role": "谓语（announce 加元素名，指宣布发现该元素）",
+    "zh": "宣布发现了"
+   },
+   {
+    "text": "polonium,",
+    "role": "宾语",
+    "zh": "钋"
+   },
+   {
+    "text": "a tribute to her motherland,",
+    "role": "同位语（名词短语），补充说明 polonium",
+    "zh": "以此致敬她的祖国"
+   },
+   {
+    "text": "and on 26 December,",
+    "role": "并列连词 and + 时间状语；其后省略了 the Curies announced（视频补译为“他们又宣布发现了”）",
+    "zh": "12月26日，他们又宣布发现了"
+   },
+   {
+    "text": "radium.",
+    "role": "宾语（省略句中保留下来的宾语）",
+    "zh": "镭"
+   }
+  ],
+  "structure": "①主句是 the Curies announced polonium：the Curies 指居里夫妇，announced 后直接接元素名称，意为宣布发现了这种元素，视频译为“宣布发现了”。In July 1898 是时间状语。\n②a tribute to her motherland 是名词短语作同位语，补充说明 polonium（视频说明：a tribute to…：对……的致敬，同位语，补充说明 polonium）。钋的名称来自波兰，这个命名本身就是对她祖国的致敬。\n③and on 26 December, radium 是省略句（视频说明：on 26 December, radium：省略句，省去了 the Curies announced）。完整形式是 and on 26 December the Curies announced radium：与前一分句相同的主语和谓语被省去，只留下不同的部分，即时间状语 on 26 December 和宾语 radium，中间的逗号标示省略的位置。\n④前后两部分结构平行，都是“时间 + 宣布发现 + 元素”：七月是钋，十二月是镭，省略之后句子更简洁，节奏更紧凑。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列句中的省略",
+    "explain": "并列句中，后一分句与前一分句相同的部分可以省略，常省去主语和谓语，只留下不同的成分，并常用逗号标示省略的位置。本句 and on 26 December, radium 省略了 the Curies announced。阅读时要根据前一分句把省略部分补全，否则会觉得句子缺少谓语。考研阅读和翻译中，比较结构和并列结构常有这类省略，翻译时一般要把省略的部分补译出来，视频补出了“他们又宣布发现了”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some students chose history; others, economics.",
+      "zh": "一些学生选了历史，另一些学生选了经济学。"
+     },
+     {
+      "en": "The first prize went to a team from Oslo, and the second, to one from Madrid.",
+      "zh": "一等奖由一支来自奥斯陆的队伍获得，二等奖则由一支来自马德里的队伍获得。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语，表示评价",
+    "explain": "名词短语放在另一个名词后面，用逗号隔开，可以作同位语补充说明前面的名词。本句 a tribute to her motherland 补充说明 polonium，但它说的不是钋是什么，而是这个命名意味着什么，带有作者的评价。这类同位语常以“a + 名词”开头，如 a sign of…、a reminder of…、a testament to…。翻译时常补出“以此”“这是”等词衔接，视频译为“以此致敬她的祖国”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town opened a new public library, a symbol of its commitment to education.",
+      "zh": "小镇新开了一座公共图书馆，这象征着它对教育的重视。"
+     }
+    ]
+   },
+   {
+    "title": "the + 姓氏复数",
+    "explain": "“the + 姓氏复数”表示一对夫妇或一家人，如 the Curies（居里夫妇）、the Smiths（史密斯一家），作主语时谓语用复数。具体指夫妇还是全家，要看上下文；本句指玛丽和皮埃尔夫妇。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The Johnsons have lived next door for nearly twenty years.",
+      "zh": "约翰逊一家在隔壁住了将近二十年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "polonium",
+    "explain": "钋，化学元素，名称来自波兰的拉丁文名称 Polonia，加上化学元素常用的后缀 -ium。1898年波兰仍处于被瓜分的状态，不是独立国家，用祖国的名字为新元素命名，因此有“致敬”之意。"
+   },
+   {
+    "term": "radium",
+    "explain": "镭，化学元素，名称来自拉丁语 radius（射线），因为它的放射性极强。"
+   },
+   {
+    "term": "a tribute to",
+    "explain": "tribute 意为“致敬，颂扬”，常用 a tribute to sb/sth（对……的致敬）、pay tribute to sb（向某人致敬）；还可表示某事物证明了某种品质，如 a tribute to her courage（足见她的勇气）。"
+   },
+   {
+    "term": "announce",
+    "explain": "announce 一般接 that 从句或表示消息的名词，本句直接接元素名，是“宣布发现”的简洁说法，视频译为“宣布发现了”。"
+   },
+   {
+    "term": "motherland",
+    "explain": "祖国，带有对出生之地的感情色彩，与 homeland 意思相近；country 是中性说法。"
+   }
+  ],
+  "translation_tip": "视频译文“1898年7月，居里夫妇宣布发现了钋，以此致敬她的祖国；12月26日，他们又宣布发现了镭。”的处理：①announced 增译“发现”，译为“宣布发现了”，交代宣布的内容是新元素的发现。②同位语 a tribute to her motherland 转译为分句“以此致敬她的祖国”，用“以此”表明命名与致敬的关系。③省略句补全：and 后省去的主语和谓语补译为“他们又宣布发现了”，“又”体现这是第二项发现；英文的 and 在视频中用分号代替。④the Curies 译为“居里夫妇”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "they；she",
+   "predicate": "processed；had recovered",
+   "object_or_complement": "tonnes of pitchblende；about a tenth of a gram of radium chloride",
+   "explain": "分号连接两个独立分句，都是主谓宾结构。前一分句谓语 processed 为一般过去时；后一分句谓语 had recovered 为过去完成时（视频说明：到1902年为止已完成）。两者都是主动语态。"
+  },
+  "components": [
+   {
+    "text": "In a leaky shed",
+    "role": "地点状语（介词短语）",
+    "zh": "在一间漏雨的棚屋里"
+   },
+   {
+    "text": "they",
+    "role": "主语（分句一，指居里夫妇）",
+    "zh": "他们"
+   },
+   {
+    "text": "painstakingly",
+    "role": "方式状语（副词，修饰 processed）",
+    "zh": "费尽心力地"
+   },
+   {
+    "text": "processed",
+    "role": "谓语（分句一）",
+    "zh": "处理了"
+   },
+   {
+    "text": "tonnes of pitchblende,",
+    "role": "宾语（tonnes of 表示数量）",
+    "zh": "成吨的沥青铀矿"
+   },
+   {
+    "text": "a uranium ore;",
+    "role": "同位语（名词短语），补充说明 pitchblende",
+    "zh": "这是一种铀矿石"
+   },
+   {
+    "text": "by 1902",
+    "role": "时间状语（by + 过去时间点，表示“到……为止”）",
+    "zh": "到1902年"
+   },
+   {
+    "text": "she",
+    "role": "主语（分句二）",
+    "zh": "她"
+   },
+   {
+    "text": "had recovered",
+    "role": "谓语（分句二，过去完成时）",
+    "zh": "已提取出"
+   },
+   {
+    "text": "about a tenth of a gram of radium chloride.",
+    "role": "宾语（“数量 + of + 物质名词”结构）",
+    "zh": "约十分之一克的氯化镭"
+   }
+  ],
+  "structure": "①前一分句：In a leaky shed 是地点状语，交代工作条件的简陋；主语 they 指居里夫妇；painstakingly 是方式状语，修饰谓语 processed；宾语 tonnes of pitchblende，tonnes of 表示数量很大（视频说明：tonnes of…：成吨的……）。\n②a uranium ore 是同位语，补充说明 pitchblende 是什么（视频说明：a uranium ore：同位语，补充说明 pitchblende）。\n③后一分句：by 1902 是时间状语，by + 过去时间点 表示“到那时为止”，所以谓语用过去完成时 had recovered（视频说明：had recovered：过去完成时，到1902年为止已完成）。宾语 about a tenth of a gram of radium chloride 是“数量 + of + 物质”结构，about 修饰数量，a tenth of a gram 意为十分之一克（视频说明：a tenth of a gram：十分之一克），of radium chloride 说明是什么物质。\n④分号前后形成鲜明对比：投入的是成吨的矿石，得到的只有约0.1克氯化镭，突出了提炼工作的艰巨。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "by + 过去时间点 与过去完成时",
+    "explain": "by + 过去的时间点（by 1902、by the end of last year）或 by the time + 一般过去时从句，表示“到那时为止”，主句谓语通常用过去完成时，表示动作在那个时间点之前已经完成。本句 by 1902 she had recovered…：到1902年，她已提取出约十分之一克的氯化镭。如果时间点在将来，主句用将来完成时，如 by 2030 we will have built…。考研完形和翻译中，by 引导的时间状语是判断时态的重要线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the war, more than half of the city had been destroyed.",
+      "zh": "到战争结束时，这座城市一半以上的地方已被摧毁。"
+     },
+     {
+      "en": "By the time the ambulance arrived, the injured man had already lost consciousness.",
+      "zh": "救护车到达时，伤者已经失去了意识。"
+     }
+    ]
+   },
+   {
+    "title": "分数的表达",
+    "explain": "英语分数的分子用基数词，分母用序数词：a tenth 或 one tenth（十分之一）、a third（三分之一）；分子大于一时分母加 -s，如 two-thirds、three-quarters。“二分之一”通常说 a half，“四分之一”可说 a quarter。“分数 + of + 名词”作主语时，谓语与 of 后的名词保持一致：Two-thirds of the land is desert；Two-thirds of the students are girls。本句 a tenth of a gram 意为“十分之一克”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Roughly a third of the country's electricity now comes from wind and solar power.",
+      "zh": "该国目前约三分之一的电力来自风能和太阳能。"
+     }
+    ]
+   },
+   {
+    "title": "同位语解释专业名词",
+    "explain": "科技、科普文章中出现读者可能不熟悉的专业名词时，常紧接一个同位语加以解释，如本句 pitchblende, a uranium ore。阅读时，这类同位语提供了现成的释义，即使不认识前面的专业词，也能读懂句意；考研阅读的词义猜测题常利用这一点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The patient was treated with heparin, a drug that prevents blood from clotting.",
+      "zh": "病人接受了肝素治疗，这是一种防止血液凝固的药物。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pitchblende",
+    "explain": "沥青铀矿，一种富含铀的黑色矿石；英语借自德语 Pechblende，Pech 意为“沥青”。视频译为“沥青铀矿”。"
+   },
+   {
+    "term": "recover",
+    "explain": "熟词僻义：recover 常见义是“恢复，康复”，本句指从矿石等原料中“提取，回收”某种物质，如 recover metal from scrap（从废料中回收金属），视频译为“提取”。"
+   },
+   {
+    "term": "radium chloride",
+    "explain": "氯化镭，镭与氯形成的化合物。1902年她提取的是镭的化合物，纯金属镭直到1910年才由她与德比埃尔（André-Louis Debierne）分离出来。"
+   },
+   {
+    "term": "tonne",
+    "explain": "英式拼写，指公吨，等于1000千克；ton 在英国和美国分别指不同的重量单位。tonnes of 也可泛指“大量的”。本文使用英式拼写，后文的 recognised、mobilised 也是如此。"
+   },
+   {
+    "term": "leaky shed",
+    "explain": "leaky 由 leak（漏）加 -y 构成，意为“漏水的，漏雨的”，如 a leaky roof；shed 指简陋的棚屋、小屋，如 a garden shed（花园里的工具棚）。"
+   },
+   {
+    "term": "painstakingly",
+    "explain": "形容词 painstaking 来自 take pains（下苦功，尽力），意为“极其仔细的，煞费苦心的”，加 -ly 构成副词，视频译为“费尽心力地”。"
+   }
+  ],
+  "translation_tip": "视频译文“在一间漏雨的棚屋里，他们费尽心力地处理了成吨的沥青铀矿，这是一种铀矿石。到1902年，她已提取出约十分之一克的氯化镭。”的处理：①地点状语保留在句首，不定冠词 a 译为量词“一间”。②同位语 a uranium ore 拆成独立分句，加“这是”引出，译为“这是一种铀矿石”。③英文分号在视频中改为句号，后一部分单独成句。④had recovered 用“已”体现过去完成时的“已经完成”，recovered 译为“提取出”，“出”补足从矿石中得到的意思。⑤of radium chloride 前置为“氯化镭”，数量“约十分之一克的”放在前面修饰。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "she",
+   "predicate": "won",
+   "object_or_complement": "the physics Nobel",
+   "explain": "主干是 she won the physics Nobel，主谓宾结构，谓语 won 为一般过去时，主动语态。句末 the first woman so recognised 是同位语，补充说明主语 she。"
+  },
+  "components": [
+   {
+    "text": "On 10 December 1903",
+    "role": "时间状语（介词短语）",
+    "zh": "1903年12月10日"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "jointly",
+    "role": "方式状语（副词，修饰 won）",
+    "zh": "共同"
+   },
+   {
+    "text": "won",
+    "role": "谓语",
+    "zh": "获得"
+   },
+   {
+    "text": "the physics Nobel",
+    "role": "宾语（the Nobel Prize in Physics 的简称）",
+    "zh": "诺贝尔物理学奖"
+   },
+   {
+    "text": "with Pierre and Becquerel,",
+    "role": "伴随状语（介词短语，说明共同获奖者，与 jointly 呼应）",
+    "zh": "与皮埃尔和贝克勒尔"
+   },
+   {
+    "text": "the first woman",
+    "role": "同位语，补充说明主语 she",
+    "zh": "第一位……女性"
+   },
+   {
+    "text": "so recognised.",
+    "role": "后置定语（so + 过去分词），修饰 the first woman",
+    "zh": "获此认可的"
+   }
+  ],
+  "structure": "①主句是 she won the physics Nobel：主语 she，谓语 won，宾语 the physics Nobel。jointly 修饰 won，with Pierre and Becquerel 说明与谁共同获奖，两者意思呼应。On 10 December 1903 是时间状语。\n②the first woman so recognised 是同位语，补充说明主语 she（视频说明：the first woman so recognised：同位语，补充说明 she）。同位语离主语较远，放在句末，用逗号隔开，把重点落在“第一位女性”上。\n③so recognised 是过去分词短语作后置定语，修饰 the first woman，相当于 who was so recognised。so 意为“如此，这样”，指获得诺贝尔奖这件事（视频说明：so：指获得诺贝尔奖这件事），so recognised 即“以这种方式获得认可”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "句末同位语补充说明主语",
+    "explain": "同位语一般紧跟在它说明的名词后面，但当同位语较长，或作者想把重点放在句末时，同位语可以放到句子末尾，用逗号隔开，补充说明主语。本句 the first woman so recognised 说明的是句首的 she，而不是紧挨着的 Becquerel，依据是语义：第一位获奖女性只能是她。考研长难句中，句末出现“逗号 + 名词短语”时，要根据语义判断它说明哪个名词，不能机械地认为它修饰离得最近的名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In 1969 Neil Armstrong stepped onto the Moon, the first person ever to do so.",
+      "zh": "1969年，尼尔·阿姆斯特朗踏上月球，成为有史以来第一个登上月球的人。"
+     },
+     {
+      "en": "She finished the marathon in under three hours, the youngest runner to achieve that time.",
+      "zh": "她以不到三小时的成绩跑完马拉松，是跑出这一成绩的最年轻选手。"
+     }
+    ]
+   },
+   {
+    "title": "so + 过去分词 作后置定语",
+    "explain": "so 可以作副词，意为“如此，这样”，指代前文提到的情况，常构成“so + 过去分词”放在名词后作定语，如 so named（如此命名的）、so described、so honoured。本句 the first woman so recognised 中，so 回指获得诺贝尔物理学奖，recognised 意为“获得认可、表彰”，整体即“第一位获此认可的女性”。the first + 名词 后也常接不定式作定语，表达同样的意思：the first woman to be so recognised。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He was knighted in 1990, the first scientist from the island so honoured.",
+      "zh": "他于1990年被封为爵士，是该岛第一位获此殊荣的科学家。"
+     }
+    ]
+   },
+   {
+    "title": "学科名作定语：the physics Nobel",
+    "explain": "the physics Nobel 是 the Nobel Prize in Physics 的简化说法，新闻中常把学科名放在 Nobel 前作定语，如 the chemistry Nobel、the peace Nobel，也可以说 the Nobel for physics。第12句的 the chemistry Nobel 结构相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She was widely tipped to win this year's chemistry Nobel.",
+      "zh": "很多人看好她获得今年的诺贝尔化学奖。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "1903年诺贝尔物理学奖",
+    "explain": "这一年的物理学奖一半授予贝克勒尔，表彰他发现自发放射性；另一半由皮埃尔·居里和玛丽·居里共同获得，表彰他们对贝克勒尔所发现的辐射现象的共同研究。玛丽·居里由此成为第一位获得诺贝尔奖的女性。"
+   },
+   {
+    "term": "10 December",
+    "explain": "每年12月10日是诺贝尔奖颁奖日，这一天是阿尔弗雷德·诺贝尔的忌日，他于1896年12月10日去世。第12句的 on 10 December 也是这个日子。"
+   },
+   {
+    "term": "recognise",
+    "explain": "英式拼写，美式为 recognize。常见义是“认出”，本句指“认可，表彰（成就）”，如 be recognised for one's work（工作获得认可），视频译为“获此认可的”。"
+   },
+   {
+    "term": "jointly",
+    "explain": "副词，共同地，联合地；形容词 joint（共同的），如 joint research（联合研究）、a joint statement（联合声明）。"
+   }
+  ],
+  "translation_tip": "视频译文“1903年12月10日，她与皮埃尔和贝克勒尔共同获得诺贝尔物理学奖，第一位获此认可的女性。”的处理：①with Pierre and Becquerel 提到谓语前，与 jointly 合译为“与皮埃尔和贝克勒尔共同获得”，符合汉语状语前置的习惯。②the physics Nobel 译为全称“诺贝尔物理学奖”。③句末同位语保留在句末，单独成为一个短语，与英文语序一致；so recognised 前置为“获此认可的”，“此”对应 so，回指获奖这件事。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The nomination；the omission",
+   "predicate": "had initially left … out；was rectified",
+   "object_or_complement": "her（left out 的宾语）；无",
+   "explain": "分号连接两个独立分句。前一分句 The nomination had left her out，主谓宾结构，谓语 had left out 为过去完成时，主动语态；后一分句 the omission was rectified，谓语为一般过去时被动语态。"
+  },
+  "components": [
+   {
+    "text": "The nomination",
+    "role": "主语（分句一）",
+    "zh": "提名"
+   },
+   {
+    "text": "had initially",
+    "role": "谓语的助动词部分 had（与 left 构成过去完成时）+ 时间状语 initially（插在助动词和实义动词之间）",
+    "zh": "最初"
+   },
+   {
+    "text": "left her out;",
+    "role": "谓语动词短语 leave sb out，her 是宾语，插在 left 与 out 之间",
+    "zh": "把她排除在外了"
+   },
+   {
+    "text": "at Pierre's insistence,",
+    "role": "原因状语（介词短语）",
+    "zh": "在皮埃尔的坚持下"
+   },
+   {
+    "text": "the omission",
+    "role": "主语（分句二，回指前一分句漏掉她这件事）",
+    "zh": "这一疏漏"
+   },
+   {
+    "text": "was rectified.",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "得到了纠正"
+   }
+  ],
+  "structure": "①前一分句主语 The nomination，谓语 had left out，宾语 her。leave sb out 意为“把某人排除在外”（视频说明：leave sb out：把某人排除在外），宾语是代词时必须放在 left 和 out 之间。initially 是时间状语，插在助动词 had 和过去分词 left 之间。had left 用过去完成时，表示提名漏掉她发生在上句获奖之前，是对前事的追叙。\n②后一分句：at Pierre's insistence 是介词短语作状语（视频说明：at one's insistence：在某人的坚持下），交代纠正的原因；主语 the omission，谓语 was rectified，被动语态，没有说出动作的执行者。\n③the omission 是名词回指，概括前一分句 left her out 这件事：“遗漏”这一动作的名词就是 omission，用一个名词承接前文，使两个分句衔接紧密。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示追叙",
+    "explain": "叙述过去的事件时，如果要补充交代更早发生的事，就用过去完成时，这叫追叙。本句提名漏掉她发生在上一句的获奖之前，所以用 had left her out；后一分句的纠正发生在提名之后，按时间顺序叙述，用一般过去时即可。考研阅读中，过去完成时往往标志着时间线往回跳，梳理事件顺序时要特别留意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new manager discovered that his predecessor had signed the contract without reading it.",
+      "zh": "新经理发现，他的前任没读合同就签了字。"
+     },
+     {
+      "en": "When the report was finally published, the minister had already resigned.",
+      "zh": "报告最终发表时，那位部长已经辞职了。"
+     }
+    ]
+   },
+   {
+    "title": "短语动词中代词宾语的位置",
+    "explain": "由“动词 + 副词”构成的及物短语动词，如 leave out、give up、put off、turn down，名词作宾语时可放在副词前或后（leave out the details 或 leave the details out），代词作宾语时只能放在动词和副词之间（leave her out，不能说 leave out her）。由“动词 + 介词”构成的短语动词，如 look after、deal with，宾语一律放在介词之后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "They offered him the job, but he turned it down.",
+      "zh": "他们给了他这份工作，但他拒绝了。"
+     },
+     {
+      "en": "If you don't know a word, look it up in a dictionary.",
+      "zh": "如果你不认识某个词，就查一查词典。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词回指前文",
+    "explain": "英语常用一个抽象名词概括前文叙述的事件，起承上启下的作用，前面多加 the 或 this，如 the omission、this decision、the move、the change。本句 the omission 概括的是 left her out。阅读时要把这类名词和前文的具体内容对应起来，考研阅读的指代题常考这一点。翻译时常加“这一”“此”等词，视频译为“这一疏漏”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The government cut funding for public libraries last year. The decision drew sharp criticism from writers.",
+      "zh": "去年政府削减了公共图书馆的经费，这一决定招致作家们的强烈批评。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "at sb's insistence",
+    "explain": "在某人的坚持下，表示因为某人坚决要求才这样做，如 at her doctor's insistence（在医生的坚持下）。动词形式是 insist on sth 或 insist that…。"
+   },
+   {
+    "term": "omission",
+    "explain": "名词，遗漏，疏漏，动词 omit（遗漏，省略）。本句指提名时漏掉了她，视频译为“疏漏”。"
+   },
+   {
+    "term": "rectify",
+    "explain": "动词，纠正，矫正，常与 mistake、error、situation、problem 搭配，比 correct 正式。"
+   },
+   {
+    "term": "nomination",
+    "explain": "名词，提名，动词 nominate（提名）。诺贝尔奖不接受个人自荐，候选人须由有资格的提名人提名。"
+   }
+  ],
+  "translation_tip": "视频译文“提名最初把她排除在外了；在皮埃尔的坚持下，这一疏漏得到了纠正。”的处理：①leave sb out 用“把”字句译为“把她排除在外了”，“了”体现动作已经完成。②at Pierre's insistence 译为“在……的坚持下”，名词 insistence 仍译为名词“坚持”。③被动语态 was rectified 译为“得到了纠正”，用“得到”表达被动，比“被纠正”更符合汉语习惯，也带有积极色彩。④the omission 加“这一”译为“这一疏漏”，突出它回指前文。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "a horse-drawn wagon",
+   "predicate": "struck",
+   "object_or_complement": "Pierre",
+   "explain": "主干是 a horse-drawn wagon struck Pierre，主谓宾结构。谓语 struck 是 strike 的过去式，一般过去时，主动语态；fatally 说明撞击的后果。"
+  },
+  "components": [
+   {
+    "text": "On 19 April 1906",
+    "role": "时间状语（介词短语）",
+    "zh": "1906年4月19日"
+   },
+   {
+    "text": "a horse-drawn wagon",
+    "role": "主语（复合形容词 horse-drawn 作前置定语）",
+    "zh": "一辆马拉的货车"
+   },
+   {
+    "text": "fatally",
+    "role": "状语（副词，修饰 struck，说明撞击的后果）",
+    "zh": "致命地"
+   },
+   {
+    "text": "struck",
+    "role": "谓语",
+    "zh": "撞上了"
+   },
+   {
+    "text": "Pierre.",
+    "role": "宾语",
+    "zh": "皮埃尔"
+   }
+  ],
+  "structure": "①本句是简单句，主谓宾结构：主语 a horse-drawn wagon，谓语 struck，宾语 Pierre，句首 On 19 April 1906 是时间状语。\n②horse-drawn 是“名词 + 过去分词”构成的复合形容词，作 wagon 的前置定语（视频说明：horse-drawn：马拉的）；horse 与 drawn 之间是被动关系，车是被马拉着的，相当于 drawn by horses。\n③fatally 是副词作状语，放在谓语前，修饰 struck，说明这次撞击是致命的。英文没有直接写 died，而用 fatally struck 简洁地交代了皮埃尔因此丧生。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词 + 过去分词 构成复合形容词",
+    "explain": "名词和过去分词用连字符连接，可以构成复合形容词，作前置定语。名词通常是过去分词所表示动作的执行者或手段，整体带被动意义：horse-drawn（马拉的，= drawn by horses）、man-made（人造的）、sun-dried（晒干的）、state-owned（国有的）、hand-written（手写的）。第16句的 lead-lined（衬铅的）也是这种构词。考研阅读中 government-funded、evidence-based 一类复合词很常见，理解时可以还原成 by 短语或 with 短语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum displays a collection of hand-written letters from the eighteenth century.",
+      "zh": "博物馆展出了一批18世纪的手写信件。"
+     },
+     {
+      "en": "Researchers warned that man-made chemicals are building up in the oceans.",
+      "zh": "研究人员警告说，人造化学物质正在海洋中不断积累。"
+     }
+    ]
+   },
+   {
+    "title": "副词修饰谓语，表示动作的后果",
+    "explain": "fatally、seriously、slightly、badly 等副词修饰动词，可以说明动作造成的后果或程度，如 be fatally injured（受致命伤）、be badly damaged（严重受损）。fatally 意为“致命地”，fatally struck 意味着被撞后死亡；形容词是 fatal，如 a fatal accident（致命事故）。新闻报道常用“fatally + 动词”简洁交代死亡，如 fatally shot、fatally wounded。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Two climbers were fatally injured when the ice bridge collapsed.",
+      "zh": "冰桥坍塌，两名登山者伤重身亡。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "strike (struck, struck)",
+    "explain": "strike 的过去式和过去分词都是 struck，过去分词另有 stricken，多用于遭受疾病、灾难等，如 grief-stricken（悲痛欲绝的）。本句 strike 意为“撞击”，常用于车辆撞人、雷电击中等，如 be struck by lightning（遭雷击）。视频译为“撞上了”。"
+   },
+   {
+    "term": "wagon",
+    "explain": "四轮运货马车，在英式英语中也指铁路货车车厢，英式也可拼作 waggon；美式 station wagon 指旅行车。视频译为“货车”。"
+   },
+   {
+    "term": "皮埃尔之死",
+    "explain": "1906年4月19日，皮埃尔·居里在巴黎街头横穿马路时被一辆马车撞倒，不幸身亡，终年46岁。"
+   }
+  ],
+  "translation_tip": "视频译文“1906年4月19日，一辆马拉的货车致命地撞上了皮埃尔。”的处理：①英文日期“日、月、年”改为汉语的“年、月、日”。②复合形容词 horse-drawn 译为“马拉的”，作“货车”的定语；不定冠词 a 译为量词“一辆”。③fatally 直译为“致命地”，保留在谓语前，struck 译为“撞上了”；英文没有直接说死亡，视频也照原文的语气，不另加“身亡”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "she",
+   "predicate": "gave",
+   "object_or_complement": "her inaugural lecture",
+   "explain": "主干是 she gave her inaugural lecture，主谓宾结构，give a lecture 意为“发表演讲，讲课”。谓语 gave 为一般过去时，主动语态。句末 the Sorbonne's first woman professor 是同位语，补充说明 she。"
+  },
+  "components": [
+   {
+    "text": "On 5 November",
+    "role": "时间状语（介词短语）",
+    "zh": "11月5日"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "gave",
+    "role": "谓语（与宾语构成 give a lecture）",
+    "zh": "发表了"
+   },
+   {
+    "text": "her inaugural lecture",
+    "role": "宾语",
+    "zh": "就职演讲"
+   },
+   {
+    "text": "as his successor,",
+    "role": "状语（介词 as 表示身份）",
+    "zh": "作为他的继任者"
+   },
+   {
+    "text": "the Sorbonne's first woman professor.",
+    "role": "同位语，补充说明主语 she",
+    "zh": "成为索邦大学第一位女教授"
+   }
+  ],
+  "structure": "①主句是 she gave her inaugural lecture，主谓宾结构，give a lecture 意为“发表演讲”。On 5 November 是时间状语，承接上句，指1906年11月5日，即皮埃尔去世半年多之后。\n②as his successor 是介词短语作状语，as 表示身份，意为“作为”（视频说明：as his successor：as 表身份，作为他的继任者）。his 指上句的 Pierre，说明她接替了皮埃尔在索邦的教职。\n③the Sorbonne's first woman professor 是同位语，补充说明 she（视频说明：同位语，补充说明 she）。the Sorbonne's 是名词所有格，表示所属；woman 作定语修饰 professor，表示性别；first 说明她是第一位。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 as 表示身份",
+    "explain": "as 作介词，后接名词，表示“作为，以……的身份”，说明主语在动作发生时的身份、职位或角色，如 work as a teacher、speak as a parent。本句 as his successor 说明她以皮埃尔继任者的身份发表就职演讲。要与 like 区分：as 表示确实具有这个身份，like 表示“像……一样”。As a doctor, I advise you to rest 说话人就是医生；Like a doctor, he examined the wound 他只是像医生那样检查伤口，不一定是医生。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As chair of the committee, she has the final say on the budget.",
+      "zh": "作为委员会主席，她对预算有最终决定权。"
+     },
+     {
+      "en": "He joined the company as an intern and left it as its chief executive.",
+      "zh": "他以实习生的身份进入公司，离开时已是公司的首席执行官。"
+     }
+    ]
+   },
+   {
+    "title": "woman / man 作定语及其复数",
+    "explain": "表示性别时，woman、man 可以放在名词前作定语，如 a woman professor（女教授）、a man nurse（男护士）。变复数时，作定语的 woman、man 要和中心名词一起变复数：women professors、men nurses，这与一般名词作定语时保持单数（a bus stop → bus stops）不同。现代英语中也常用 female、male 作定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The number of women engineers in the industry has doubled over the past decade.",
+      "zh": "过去十年间，该行业的女工程师人数翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "inaugural lecture",
+    "explain": "就职演讲。在欧洲的大学传统中，新任教授上任后要发表一场公开讲座，称为 inaugural lecture。inaugural 与动词 inaugurate（为……举行就职典礼）同源，如 the president's inaugural address（总统就职演说）。"
+   },
+   {
+    "term": "successor",
+    "explain": "继任者，接班人，动词 succeed（接替，继任），反义词 predecessor（前任）。"
+   },
+   {
+    "term": "give a lecture",
+    "explain": "发表演讲，讲课；也说 deliver a lecture，后者更正式。lecture 作动词还可表示“训斥，说教”，如 lecture sb about sth。"
+   },
+   {
+    "term": "the Sorbonne's",
+    "explain": "名词所有格，表示所属。机构名称也可以用 's 表示所属，如 the university's president；也可以说 the first woman professor at the Sorbonne。"
+   }
+  ],
+  "translation_tip": "视频译文“11月5日，她作为他的继任者发表了就职演讲，成为索邦大学第一位女教授。”的处理：①状语 as his successor 提到谓语前，译为“作为他的继任者发表了……”，符合汉语状语在动词前的语序。②her inaugural lecture 省去物主代词 her，只译“就职演讲”，汉语中意思已经清楚。③句末同位语增译动词“成为”，转成一个短的谓语成分，交代她的新身份；woman professor 译为“女教授”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "a press scandal；she",
+   "predicate": "erupted；was urged",
+   "object_or_complement": "无；to stay away（不定式作主语补足语）",
+   "explain": "分号连接两个独立分句。前一分句 a press scandal… erupted 是主谓结构，erupt 为不及物动词，一般过去时；后一分句 she was urged to stay away 是 urge sb to do 的被动形式，一般过去时被动语态，不定式 to stay away 作主语补足语。"
+  },
+  "components": [
+   {
+    "text": "In November 1911",
+    "role": "时间状语（介词短语）",
+    "zh": "1911年11月"
+   },
+   {
+    "text": "a press scandal",
+    "role": "主语（press 为名词作定语）",
+    "zh": "一场……媒体丑闻"
+   },
+   {
+    "text": "about her private life",
+    "role": "后置定语（介词短语），修饰 scandal",
+    "zh": "关于她私生活的"
+   },
+   {
+    "text": "erupted;",
+    "role": "谓语（不及物动词）",
+    "zh": "爆发"
+   },
+   {
+    "text": "she",
+    "role": "主语（分句二）",
+    "zh": "她"
+   },
+   {
+    "text": "was urged",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "有人劝"
+   },
+   {
+    "text": "to stay away.",
+    "role": "主语补足语（不定式短语）",
+    "zh": "不要前往"
+   }
+  ],
+  "structure": "①前一分句：主语 a press scandal，press 是名词作定语，表示“媒体的”；about her private life 是介词短语作后置定语，修饰 scandal（视频说明：about her private life：后置定语，修饰 scandal）。谓语 erupted 是不及物动词，本义指火山喷发，这里比喻丑闻突然爆发。主语较长、谓语只有一个词，读的时候要找到句末的谓语。\n②后一分句是 urge sb to do 的被动形式 be urged to do（视频说明：be urged to do：被劝做……；stay away：不去，不到场）。主动形式是 someone urged her to stay away，劝她的人没有说出；不定式 to stay away 在被动句中作主语补足语。\n③结合下一句，stay away 指不去现场领取诺贝尔化学奖。两个分句之间是因果关系：丑闻爆发，所以有人劝她不要前往。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "urge sb to do 的被动语态",
+    "explain": "ask、tell、urge、advise、encourage、force、allow 等动词常用“动词 + 宾语 + 不定式”结构，不定式作宾语补足语。变为被动语态时，宾语变为主语，不定式保留在谓语之后，改作主语补足语：Someone urged her to stay away → She was urged to stay away。不说出动作执行者，往往是因为执行者不重要、不便说出或不言自明。翻译时常转为主动句，补出“有人”等泛指主语，视频译为“有人劝她”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Residents were urged to stay indoors until the smoke had cleared.",
+      "zh": "居民们被敦促待在室内，直到烟雾散尽。"
+     },
+     {
+      "en": "Students are encouraged to read widely outside their own field.",
+      "zh": "学校鼓励学生广泛阅读本专业以外的书籍。"
+     }
+    ]
+   },
+   {
+    "title": "名词作定语：press scandal",
+    "explain": "press 作定语意为“新闻界的，媒体的”，如 press conference（新闻发布会）、press release（新闻稿）、press freedom（新闻自由）。the press 指新闻界、报刊，是集合名词。本句 press scandal 指经报刊报道而闹得沸沸扬扬的丑闻，视频译为“媒体丑闻”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister refused to answer questions at the press conference.",
+      "zh": "这位部长在新闻发布会上拒绝回答提问。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "erupt",
+    "explain": "本义指火山“喷发”，常比喻暴力、争吵、丑闻等突然“爆发”，如 violence erupted、a row erupted；名词 eruption。视频译为“爆发”。"
+   },
+   {
+    "term": "stay away",
+    "explain": "不去，不到场（视频说明），也可接 from，表示远离某地或某事物，如 stay away from the edge（离边缘远一点）。"
+   },
+   {
+    "term": "1911年的丑闻",
+    "explain": "这场丑闻与她和已婚物理学家保罗·朗之万（Paul Langevin）的关系有关，法国报刊对此大肆报道。同年她获得诺贝尔化学奖，本句的 stay away 即劝她不要前往领奖。"
+   },
+   {
+    "term": "private life",
+    "explain": "私生活，与 public life（公共生活）相对。"
+   }
+  ],
+  "translation_tip": "视频译文“1911年11月，一场关于她私生活的媒体丑闻爆发，有人劝她不要前往。”的处理：①主语的后置定语 about her private life 前置为“关于她私生活的”，与“一场”“媒体”一起放在“丑闻”前，不定冠词 a 译为量词“一场”。②英文分号改为逗号，前后两件事连成一句，体现因果。③被动句 she was urged to stay away 转为主动句，补出泛指的主语“有人”，译为“有人劝她……”，避免生硬的“她被劝”。④stay away 按语境译为“不要前往”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "she",
+   "predicate": "collected",
+   "object_or_complement": "the chemistry Nobel",
+   "explain": "主干是 she collected the chemistry Nobel，主谓宾结构，谓语 collected 为一般过去时，主动语态。句首 Undeterred 作状语，宾语后的 won outright 是插入语。"
+  },
+  "components": [
+   {
+    "text": "Undeterred,",
+    "role": "状语（形容词，说明 she 的状态，带让步意味）",
+    "zh": "并没有被吓住"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "collected",
+    "role": "谓语",
+    "zh": "领取了"
+   },
+   {
+    "text": "the chemistry Nobel,",
+    "role": "宾语",
+    "zh": "诺贝尔化学奖"
+   },
+   {
+    "text": "won outright,",
+    "role": "插入语（过去分词短语），修饰 the chemistry Nobel",
+    "zh": "完全属于她的"
+   },
+   {
+    "text": "on 10 December.",
+    "role": "时间状语（介词短语）",
+    "zh": "于12月10日"
+   }
+  ],
+  "structure": "①主句是 she collected the chemistry Nobel… on 10 December：主语 she，谓语 collected（领取），宾语 the chemistry Nobel，句末 on 10 December 是时间状语。\n②句首 Undeterred 是形容词作状语（视频说明：Undeterred：形容词作状语，说明 she 的状态），逻辑主语是 she，相当于 She was undeterred，带有让步意味，承接上句：有人劝她不要前往，她却没有被吓住。\n③won outright 是过去分词短语作插入语，修饰 the chemistry Nobel（视频说明：won outright：过去分词短语作插入语，修饰 Nobel；win outright：完全赢得），相当于 which she had won outright。outright 是副词，修饰 won，意为“完全地”，指这次奖由她一人独得，与第7句的 jointly（共同）形成对照。\n④插入语把时间状语 on 10 December 隔到了句末，阅读时要把 on 10 December 和谓语 collected 联系起来。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "un- + 过去分词 构成的形容词作状语",
+    "explain": "un- 加过去分词构成的形容词，如 undeterred、unharmed、unnoticed，可以放在句首作状语，用逗号隔开，说明主语的状态，逻辑主语必须与句子主语一致。本句 Undeterred 相当于 She was undeterred，带有让步意味：尽管有人劝阻，她并没有被吓住。常见搭配 undeterred by…（不因……而却步），如 undeterred by the cost。考研阅读中，句首单个形容词或分词后接逗号时，要把它和句子主语联系起来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Undeterred by two failed attempts, the team tried the experiment a third time.",
+      "zh": "两次尝试失败并没有让团队却步，他们第三次做了这个实验。"
+     },
+     {
+      "en": "Unharmed but badly shaken, the passengers were led off the train.",
+      "zh": "乘客们没有受伤，但都受了很大惊吓，被带下了火车。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作插入语",
+    "explain": "过去分词短语可以放在名词后，用逗号隔开，作插入语，补充说明前面的名词，含被动意义，相当于一个省略了关系代词和 be 动词的非限制性定语从句。本句 won outright 相当于 which was won outright，说明这次诺贝尔化学奖是她独得的。插入语去掉后句子结构完整：she collected the chemistry Nobel on 10 December。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report, published last week, has already caused a heated debate.",
+      "zh": "这份报告上周发表，已经引发了激烈的争论。"
+     },
+     {
+      "en": "His first novel, written when he was only nineteen, became a bestseller.",
+      "zh": "他的第一部小说写于他年仅十九岁时，后来成了畅销书。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "collect",
+    "explain": "熟词僻义：collect 常见义是“收集”，本句指“领取（奖项、物品）”，如 collect a prize、collect a parcel，视频译为“领取了”。"
+   },
+   {
+    "term": "win outright",
+    "explain": "outright 是副词，意为“完全地，彻底地”，win outright 指独自赢得、完全赢得（视频说明：win outright：完全赢得），本句指诺贝尔化学奖由她一人独得，视频译为“完全属于她的”。outright 还可表示“断然地”（refuse outright 断然拒绝）。"
+   },
+   {
+    "term": "1911年诺贝尔化学奖",
+    "explain": "由玛丽·居里一人获得，表彰她发现镭和钋两种元素、分离出镭，并研究了镭的性质及其化合物。"
+   },
+   {
+    "term": "deter",
+    "explain": "动词，阻止，使却步，名词 deterrent（威慑因素）；undeterred 由否定前缀 un- 加过去分词 deterred 构成，意为“没有被吓住的，不气馁的”。"
+   }
+  ],
+  "translation_tip": "视频译文“她并没有被吓住，于12月10日，领取了完全属于她的诺贝尔化学奖。”的处理：①句首形容词 Undeterred 译成独立分句，补出主语“她”，并加“并”字加强语气，与上句有人劝阻形成转折。②时间状语 on 10 December 从句末提到谓语前，译为“于12月10日”。③插入语 won outright 前置为定语“完全属于她的”，修饰“诺贝尔化学奖”，突出这次是她一人独得。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Her distinction",
+   "predicate": "remains",
+   "object_or_complement": "unmatched（表语）",
+   "explain": "主干是 Her distinction remains unmatched，主系表结构，remain 是系动词，unmatched 作表语。谓语 remains 为一般现在时，表示至今仍然如此的状态。"
+  },
+  "components": [
+   {
+    "text": "Her distinction",
+    "role": "主语",
+    "zh": "她……这份荣誉"
+   },
+   {
+    "text": "in two sciences",
+    "role": "后置定语（介词短语），修饰 distinction",
+    "zh": "在两门科学中双双获得诺贝尔奖"
+   },
+   {
+    "text": "remains",
+    "role": "系动词（remain 表示“仍然是”）",
+    "zh": "至今仍"
+   },
+   {
+    "text": "unmatched.",
+    "role": "表语（un- + 过去分词构成的形容词）",
+    "zh": "无人企及"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 Her distinction，系动词 remains，表语 unmatched。in two sciences 是介词短语作后置定语，修饰 distinction（视频说明：in two sciences：后置定语，修饰 distinction）。\n②distinction 在这里不是“区别”，而是“殊荣，荣誉”；in two sciences 指她在物理学和化学两门科学中都获得了诺贝尔奖，视频据此译为“在两门科学中双双获得诺贝尔奖”。\n③remain 是系动词，表示“仍然处于某种状态”；unmatched 由否定前缀 un- 加过去分词 matched 构成，意为“没有被赶上的，无人企及的”。一般现在时 remains 表示从当时一直到现在都是如此，视频译为“至今仍”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "系动词 remain + 形容词",
+    "explain": "remain 作系动词，后接形容词、名词或分词作表语，表示“仍然是，保持某种状态”，如 remain silent、remain a mystery、remain unchanged。与 become、get 等表示变化的系动词不同，remain 强调状态没有改变。本句 remains unmatched 用一般现在时，表示到现在仍然成立。考研阅读中 remain unclear、remain unknown、remain controversial 常用来表示问题尚无定论，是判断作者态度的重要信号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The cause of the fire remains unclear.",
+      "zh": "火灾的原因仍不清楚。"
+     },
+     {
+      "en": "Despite years of research, the origin of the disease remains a mystery.",
+      "zh": "尽管经过多年研究，这种疾病的起源仍然是个谜。"
+     }
+    ]
+   },
+   {
+    "title": "un- + 过去分词 构成的形容词",
+    "explain": "un- 加过去分词构成的形容词，表示“未被……的”，同时带有否定和被动意义，如 unmatched（无人企及的）、unchanged（未改变的）、unexplained（无法解释的）、unnoticed（未被注意的）。本句 unmatched 相当于 has not been matched（没有被别人赶上）。上一句的 undeterred 也是这种构词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her record in the 400 metres has stood unbroken for over thirty years.",
+      "zh": "她的400米纪录三十多年来一直无人打破。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "distinction",
+    "explain": "熟词僻义：distinction 常见义是“区别”（make a distinction between A and B），本句指“殊荣，荣誉”，如 have the distinction of being the first…（享有第一个……的殊荣）；graduate with distinction 指以优异成绩毕业。视频译为“荣誉”。"
+   },
+   {
+    "term": "two sciences",
+    "explain": "她1903年获物理学奖，1911年获化学奖，至今仍是唯一在两门不同科学领域获得诺贝尔奖的人。两次获得诺贝尔奖的还有几位，但都不是在两门科学中：鲍林（Linus Pauling）获得的是化学奖与和平奖，巴丁（John Bardeen）两次获得物理学奖，桑格（Frederick Sanger）两次获得化学奖。"
+   },
+   {
+    "term": "unmatched",
+    "explain": "形容词，无与伦比的，无人企及的，如 unmatched skill；动词 match 意为“比得上，与……相当”。"
+   }
+  ],
+  "translation_tip": "视频译文“她在两门科学中双双获得诺贝尔奖，这份荣誉至今仍无人企及。”的处理：①主语 Her distinction in two sciences 信息量大，视频把它展开成一个分句“她在两门科学中双双获得诺贝尔奖”，补出 distinction 的具体内容，再用“这份荣誉”回指，作后一分句的主语。②remains 增译“至今”，体现一般现在时“到现在仍然如此”的意思。③unmatched 译为四字词“无人企及”，简洁有力。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "she",
+   "predicate": "mobilised",
+   "object_or_complement": "X-ray vans and stationary posts",
+   "explain": "主干是 she mobilised X-ray vans and stationary posts，主谓宾结构，宾语是两个并列的名词短语。谓语 mobilised 为一般过去时，主动语态；that 引导的定语从句修饰两个并列宾语。"
+  },
+  "components": [
+   {
+    "text": "In the First World War",
+    "role": "时间状语（介词短语）",
+    "zh": "第一次世界大战期间"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "mobilised",
+    "role": "谓语",
+    "zh": "动员/调用了"
+   },
+   {
+    "text": "X-ray vans",
+    "role": "宾语一",
+    "zh": "X光面包车"
+   },
+   {
+    "text": "and stationary posts",
+    "role": "并列连词 and + 宾语二",
+    "zh": "和固定站点"
+   },
+   {
+    "text": "that examined over a million casualties.",
+    "role": "限制性定语从句（that 引导），修饰 vans and stationary posts",
+    "zh": "这些设施检查了超过一百万伤亡人员"
+   }
+  ],
+  "structure": "①主句是 she mobilised X-ray vans and stationary posts：主语 she，谓语 mobilised，宾语是由 and 连接的 X-ray vans 和 stationary posts。In the First World War 是时间状语。mobilise 原指调动军队，这里指调动、组织设备和人员投入战时救治，视频译为“动员/调用了”。\n②that examined over a million casualties 是 that 引导的限制性定语从句，修饰 vans and stationary posts（视频说明：that 引导定语从句，修饰 vans and stationary posts）。that 在从句中作主语，不能省略；从句谓语 examined，宾语 over a million casualties，over 意为“超过”。\n③X-ray vans 指装载X光设备的车辆（视频说明：vans：医疗式面包车，载有X光设备，类似于医院的救护车），可以开到前线附近；stationary posts 指设在固定地点的X光站，两者一动一静。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导定语从句，先行词为并列名词",
+    "explain": "关系代词 that 在定语从句中可作主语或宾语，作主语时不能省略。先行词是由 and 连接的两个名词时，从句可以修饰整个并列结构，从句谓语按复数处理。本句 that examined over a million casualties 修饰 vans and stationary posts，that 作从句主语。判断定语从句修饰哪个名词要看语义：检查伤员的是X光车和固定站点两者，不只是 posts。视频把从句拆开，用“这些设施”回指两者。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city built new schools and clinics that serve thousands of families.",
+      "zh": "这座城市新建了学校和诊所，为成千上万个家庭提供服务。"
+     },
+     {
+      "en": "Volunteers set up tents and kitchens that fed hundreds of refugees every day.",
+      "zh": "志愿者搭起了帐篷和厨房，每天为数百名难民提供饭食。"
+     }
+    ]
+   },
+   {
+    "title": "over / more than + 数词",
+    "explain": "over、more than 放在数词前表示“超过”，under、fewer than 表示“少于”，about、around、roughly 表示“大约”。over a million casualties 即“超过一百万伤亡人员”。注意 a million 前用不定冠词；确切的数百万用 two million，million 不加 s；不确指的“数以百万计”用 millions of。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Over two million people visited the exhibition in its first year.",
+      "zh": "这个展览开放第一年就吸引了两百多万人参观。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mobilise",
+    "explain": "英式拼写，美式为 mobilize。由 mobile（可移动的）加 -ise 构成，原指动员军队，泛指调动人员、资源、支持，如 mobilise resources、mobilise support。视频给出“动员/调用了”两种译法。"
+   },
+   {
+    "term": "X-ray",
+    "explain": "X射线，1895年由德国物理学家伦琴（Wilhelm Röntgen）发现，因当时性质未知，用代表未知数的 X 命名。X光能显示骨折和体内异物，战时可以帮助医生找到伤员体内的弹片。"
+   },
+   {
+    "term": "petites Curies",
+    "explain": "一战期间，这些装有X光设备的车辆被人们称为“小居里”（法语 petites Curies）。她的女儿伊雷娜（Irène）也参与了这项工作。"
+   },
+   {
+    "term": "stationary",
+    "explain": "形容词，固定的，静止的，如 a stationary vehicle；注意与 stationery（文具）只差一个字母，读音相同，考研写作中容易拼错。"
+   },
+   {
+    "term": "casualty",
+    "explain": "战争、事故中的伤亡人员，常用复数，包括死者和伤者，如 heavy casualties（伤亡惨重）。视频译为“伤亡人员”。"
+   }
+  ],
+  "translation_tip": "视频译文“第一次世界大战期间，她动员/调用了X光面包车和固定站点，这些设施检查了超过一百万伤亡人员。”的处理：①In the First World War 译为“第一次世界大战期间”，用“期间”表示时间段。②限制性定语从句较长，没有前置，而是拆成独立分句，用“这些设施”回指 vans and stationary posts，概括两类设备。③stationary posts 译为“固定站点”，与可以移动的X光车相对。④over a million 译为“超过一百万”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "She",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主干是 She died，主谓结构；die 是不及物动词，of a blood disorder 说明死因。谓语 died 为一般过去时；句末 probably caused by… 是过去分词短语，补充说明 a blood disorder。"
+  },
+  "components": [
+   {
+    "text": "She",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "died",
+    "role": "谓语（不及物动词，与后面的 of 构成 die of）",
+    "zh": "死于"
+   },
+   {
+    "text": "on 4 July 1934",
+    "role": "时间状语（介词短语）",
+    "zh": "1934年7月4日"
+   },
+   {
+    "text": "of a blood disorder,",
+    "role": "原因状语（介词短语，说明死因）",
+    "zh": "一种血液疾病"
+   },
+   {
+    "text": "probably caused by prolonged exposure to radiation.",
+    "role": "后置定语（过去分词短语），修饰 a blood disorder",
+    "zh": "这很可能是由长期暴露于辐射所导致的"
+   }
+  ],
+  "structure": "①主句是 She died… of a blood disorder：die of 意为“死于”（视频说明：die of…：死于……），时间状语 on 4 July 1934 插在 died 和 of 短语之间。\n②probably caused by prolonged exposure to radiation 是过去分词短语作后置定语，修饰 disorder（视频说明：probably caused by…：过去分词短语作后置定语，修饰 disorder），相当于 which was probably caused by…。caused 与 disorder 是被动关系，疾病是被导致的；by 引出原因 prolonged exposure to radiation。\n③exposure to radiation 是固定搭配（视频说明：exposure to…：暴露于……），prolonged 修饰 exposure，意为“长期的”。\n④probably 是表示推测的副词，说明辐射导致这种疾病只是很可能，并非确定的结论，理解和翻译时都要保留这一语气。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语（逗号隔开）",
+    "explain": "过去分词短语可以放在名词后作定语，与被修饰名词是被动关系；前面有逗号时起补充说明作用，相当于非限制性定语从句。本句 probably caused by prolonged exposure to radiation 修饰 a blood disorder，相当于 which was probably caused by…。分词短语中可以带 probably、widely、apparently 等副词，表示推测、程度等。翻译时可以前置为定语，定语太长时拆成分句，视频用“这很可能是……”拆译。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He suffered from a lung disease, probably caused by years of working in the mines.",
+      "zh": "他患有一种肺病，很可能是多年在矿井里工作所致。"
+     },
+     {
+      "en": "Officials blamed the power cut on a faulty cable, apparently damaged during recent building work.",
+      "zh": "官员们把停电归咎于一条故障电缆，这条电缆显然是在最近的施工中受损的。"
+     }
+    ]
+   },
+   {
+    "title": "die of 与 die from",
+    "explain": "die of 和 die from 都表示“死于”。传统用法中，die of 多接疾病、饥饿、衰老等直接原因（die of cancer、die of hunger），die from 多接伤口、事故、外部因素等（die from injuries、die from overwork）；现代英语中两者的界限已不严格。本句 died of a blood disorder 用 of 接疾病。注意 die for 意为“为……而死”，如 die for one's country。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Hundreds of thousands of people still die of malaria every year.",
+      "zh": "每年仍有数十万人死于疟疾。"
+     }
+    ]
+   },
+   {
+    "title": "推测副词与语气",
+    "explain": "probably、possibly、perhaps 等副词表示推测，可能性大小不同：probably 表示可能性较大（很可能），possibly、perhaps 表示可能性一般（可能，或许）。考研阅读中，原文用 probably、may 等推测语气的内容，选项若写成确定的事实，往往是干扰项。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The painting was probably completed in the artist's final years.",
+      "zh": "这幅画很可能完成于画家的晚年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "blood disorder",
+    "explain": "血液疾病。disorder 在医学上指身体或精神机能的失调、疾病，如 a genetic disorder（遗传病）、an eating disorder（进食障碍）；其常见义是“混乱，无秩序”。视频译为“疾病”。"
+   },
+   {
+    "term": "exposure to",
+    "explain": "暴露于，接触（有害物质、辐射等），如 exposure to the sun、exposure to radiation；动词形式是 expose sb to sth。"
+   },
+   {
+    "term": "prolonged",
+    "explain": "形容词，长期的，持续很久的，常修饰 period、illness、exposure 等；动词 prolong（延长）。"
+   },
+   {
+    "term": "radiation",
+    "explain": "辐射，不可数名词；动词 radiate（辐射，散发）。radiation 泛指辐射，radioactivity 指物质发出辐射的性质，即放射性。"
+   }
+  ],
+  "translation_tip": "视频译文“1934年7月4日，她死于一种血液疾病，这很可能是由长期暴露于辐射所导致的。”的处理：①时间状语 on 4 July 1934 从句中提到句首，按汉语“年、月、日”排列。②died of a blood disorder 合译为“死于一种血液疾病”，a 译为“一种”。③过去分词短语如果前置，定语过长，视频把它拆成独立分句，用“这”回指前面的疾病，“由……所导致的”体现过去分词的被动意义。④probably 译为“很可能”，保留原文的推测语气。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Her notebooks；readers",
+   "predicate": "are preserved；sign, don",
+   "object_or_complement": "无；a liability waiver（sign 的宾语），protective garments（don 的宾语）",
+   "explain": "分号连接两个独立分句。前一分句 Her notebooks are preserved，一般现在时被动语态，in lead-lined boxes 说明保存地点；后一分句 readers sign… and don…，一个主语带两个并列谓语，一般现在时，主动语态，表示现行的惯常做法。"
+  },
+  "components": [
+   {
+    "text": "Her notebooks,",
+    "role": "主语（分句一）",
+    "zh": "她的笔记本"
+   },
+   {
+    "text": "still radioactive,",
+    "role": "插入语（形容词短语），补充说明 notebooks",
+    "zh": "至今仍有放射性"
+   },
+   {
+    "text": "are preserved",
+    "role": "谓语（一般现在时被动语态）",
+    "zh": "保存"
+   },
+   {
+    "text": "in lead-lined boxes",
+    "role": "地点状语（介词短语）",
+    "zh": "在……铅衬的盒子里"
+   },
+   {
+    "text": "at the National Library of France;",
+    "role": "后置定语（介词短语），修饰 boxes",
+    "zh": "法国国家图书馆的"
+   },
+   {
+    "text": "readers",
+    "role": "主语（分句二）",
+    "zh": "读者"
+   },
+   {
+    "text": "sign",
+    "role": "谓语一",
+    "zh": "须签署"
+   },
+   {
+    "text": "a liability waiver",
+    "role": "宾语（sign 的宾语）",
+    "zh": "免责协议"
+   },
+   {
+    "text": "and don",
+    "role": "并列连词 and + 谓语二",
+    "zh": "并穿上"
+   },
+   {
+    "text": "protective garments.",
+    "role": "宾语（don 的宾语）",
+    "zh": "防护服装"
+   }
+  ],
+  "structure": "①前一分句主语 Her notebooks，谓语 are preserved，一般现在时被动语态，表示现在的保存状态。still radioactive 是形容词短语作插入语，补充说明 notebooks（视频说明：still radioactive：形容词短语作插入语，补充说明 notebooks），相当于 which are still radioactive。\n②in lead-lined boxes 是地点状语，at the National Library of France 是后置定语，修饰 boxes（视频说明：at the National Library of France：后置定语，修饰 boxes）。lead-lined 是“名词 + 过去分词”构成的复合形容词，意为“衬了铅的”；用铅衬盒子是为了防止辐射，把笔记封存起来（视频说明：铅衬的盒子目的是为了防止辐射，封印这本笔记）。\n③后一分句主语 readers，带两个并列谓语 sign 和 don，分别接宾语 a liability waiver 和 protective garments。一般现在时表示图书馆现行的规定和惯常做法，视频增译“须”体现规定的意味。\n④分号前后是因果关系：笔记本至今有放射性，所以读者查阅前要签免责协议、穿防护服。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词短语作插入语",
+    "explain": "形容词短语可以放在名词后，用逗号隔开，作插入语补充说明该名词的状态，相当于省略了 which/who + be 的非限制性定语从句。本句 Her notebooks, still radioactive, are preserved… 中，still radioactive = which are still radioactive。插入语隔开了主语和谓语，阅读时要越过两个逗号之间的部分，把主语 Her notebooks 和谓语 are preserved 连起来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old castle, empty for decades, is now being turned into a hotel.",
+      "zh": "这座古堡空置了几十年，如今正被改造成酒店。"
+     },
+     {
+      "en": "The witness, nervous and pale, could barely answer the first question.",
+      "zh": "证人神情紧张，脸色苍白，几乎答不上第一个问题。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时表示现状和惯常做法",
+    "explain": "一般现在时可以表示现在的状态（are preserved）和经常性、规定性的做法（readers sign… and don…）。本文前面都用过去时叙述居里夫人的生平，到这一句换成现在时，表示笔记本现在的保存方式和读者现在必须遵守的规定，时态的变化标志着叙述从历史回到现在。视频增译“须”，把规定的意味译了出来。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Visitors to the laboratory wear masks and gloves at all times.",
+      "zh": "参观该实验室的人始终要戴口罩和手套。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the National Library of France",
+    "explain": "法国国家图书馆，法语名 Bibliothèque nationale de France，简称 BnF，位于巴黎。"
+   },
+   {
+    "term": "lead",
+    "explain": "名词“铅”读 /led/，与动词 lead（引导，读 /liːd/）拼写相同、读音不同。铅的密度大，常用来屏蔽辐射，如拍X光片时穿的铅衣。"
+   },
+   {
+    "term": "liability waiver",
+    "explain": "免责协议。liability 意为“（法律上的）责任”，waiver 意为“弃权声明”，来自 waive（放弃权利）；签署 liability waiver 即表示自愿承担风险，放弃追究对方的责任。"
+   },
+   {
+    "term": "don",
+    "explain": "动词，穿上，戴上，书面用语，如 don a coat、don a helmet。don 原是 do on 的缩合，与之相对的 doff（脱下）来自 do off。"
+   },
+   {
+    "term": "protective garments",
+    "explain": "防护服装。garment 是正式用词，指一件衣服，多用于商业或正式语境，如 a garment factory（服装厂）；protective clothing 也指防护服。"
+   }
+  ],
+  "translation_tip": "视频译文“她的笔记本至今仍有放射性，保存在法国国家图书馆的铅衬的盒子里；读者须签署免责协议，并穿上防护服装。”的处理：①插入语 still radioactive 译为分句“至今仍有放射性”，紧接在主语后，still 译为“至今仍”。②被动语态 are preserved 译为“保存在……”，汉语不必用“被”字。③后置定语 at the National Library of France 前置，与地点状语 in lead-lined boxes 合译为“在法国国家图书馆的铅衬的盒子里”，lead-lined 译为“铅衬的”。④一般现在时表示的规定增译“须”，第二个谓语 don 前加“并”，体现两个动作的先后。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The pages",
+   "predicate": "retain",
+   "object_or_complement": "her handwriting and her radium",
+   "explain": "主干是 The pages retain her handwriting and her radium，主谓宾结构，一个谓语带两个由 and 连接的并列宾语。谓语 retain 为一般现在时，主动语态，表示现在的状态。"
+  },
+  "components": [
+   {
+    "text": "The pages",
+    "role": "主语（指上句笔记本的书页）",
+    "zh": "这些书页"
+   },
+   {
+    "text": "retain",
+    "role": "谓语",
+    "zh": "留存着"
+   },
+   {
+    "text": "her handwriting",
+    "role": "宾语一",
+    "zh": "她的笔迹"
+   },
+   {
+    "text": "and her radium.",
+    "role": "并列连词 and + 宾语二",
+    "zh": "同样也留存着她所发现的镭"
+   }
+  ],
+  "structure": "①本句是简单句，主谓宾结构：主语 The pages，谓语 retain，宾语是由 and 连接的 her handwriting 和 her radium。The pages 中的 The 表示特指，指上句笔记本的书页。\n②两个宾语性质截然不同：handwriting 是看得见的文字痕迹，radium 是至今仍有放射性的物质。同一个谓语 retain 同时支配这两个宾语，形成出人意料的并置，带有轭式搭配（zeugma）的修辞效果。\n③her radium 中的 her 不表示镭归她所有，而表示“她发现、她研究的”，视频据此增译为“她所发现的镭”。\n④全文以这个短句收尾，呼应第2段镭的发现和上句笔记本的放射性。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一个谓语带两个并列宾语（轭式搭配）",
+    "explain": "一个动词可以同时支配几个并列的宾语。如果这几个宾语在意义上差别很大，动词对每个宾语的含义也随之有所不同，就形成轭式搭配（zeugma），常用来制造幽默或发人深省的效果，如 She lost her keys and her temper（她丢了钥匙，也发了脾气）。本句 retain her handwriting and her radium 中，retain 对笔迹是“保留下来”，对镭则是“残留着”，两层意思由一个动词串起来。汉语往往要重复动词，视频译为“留存着……，同样也留存着……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He caught a cold and the last train home.",
+      "zh": "他染上了感冒，也赶上了回家的末班车。"
+     },
+     {
+      "en": "The flood destroyed the bridge and the town's hopes of a quick recovery.",
+      "zh": "洪水冲毁了大桥，也冲垮了小镇尽快复苏的希望。"
+     }
+    ]
+   },
+   {
+    "title": "物主代词的引申含义",
+    "explain": "物主代词 my、her、his 等除了表示“属于某人”，还可以表示与某人有某种关系，如 her novel（她写的小说）、his discovery（他的发现）、her radium（她发现的镭）。阅读和翻译时要按语境补出具体关系，视频把 her radium 译为“她所发现的镭”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Readers queued for hours to get the author to sign her latest novel.",
+      "zh": "读者排了几个小时的队，请这位作家在她的新小说上签名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "retain",
+    "explain": "动词，保留，保持，比 keep 正式，如 retain heat（保温）、retain control（保持控制）；名词 retention。视频译为“留存着”。"
+   },
+   {
+    "term": "镭-226的半衰期",
+    "explain": "镭最常见的同位素镭-226半衰期约为1600年，即约1600年后其中的镭才衰变掉一半，所以一百多年后笔记本仍有放射性。"
+   },
+   {
+    "term": "handwriting",
+    "explain": "笔迹，书写，由 hand 和 writing 构成，不可数名词，如 neat handwriting（字迹工整）。"
+   }
+  ],
+  "translation_tip": "视频译文“这些书页留存着她的笔迹，同样也留存着她所发现的镭。”的处理：①The pages 译为“这些书页”，体现 The 对上句笔记本的特指。②一个谓语带两个宾语，汉语难以用一个动词同时搭配“笔迹”和“镭”，视频重复谓语，译为“留存着……，同样也留存着……”，加“同样也”突出两者的对照。③her radium 增译为“她所发现的镭”，补出物主代词表示的具体关系。"
+ }
+]

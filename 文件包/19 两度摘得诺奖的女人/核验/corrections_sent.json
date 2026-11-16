@@ -1,0 +1,44 @@
+[
+ {
+  "key": "n=1",
+  "field": "knowledge[under Russian dominion].explain",
+  "before": "18世纪末，波兰被俄国、普鲁士和奥地利三国瓜分，华沙划归俄国控制的区域，所以说华沙当时处于俄国的统治之下。",
+  "after": "18世纪末，波兰被俄国、普鲁士和奥地利三国瓜分而亡国（1795年第三次瓜分时华沙其实划给了普鲁士）；1815年维也纳会议后，华沙成为由俄国沙皇兼任国王的波兰王国的首都，实际受俄国控制，所以1867年华沙处于俄国的统治之下。",
+  "reason": "史实错误：1795年第三次瓜分时华沙归普鲁士，1815年维也纳会议后才归入俄国控制的波兰王国，原文“18世纪末华沙划归俄国”不准确。"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar[name + 宾语 + 宾语补足语].explain",
+  "before": "宾补与宾语指同一事物，name 和 call 后的宾补前不加 as，而 regard、see、describe 后要用 as。",
+  "after": "宾补与宾语指同一事物，call 后的宾补前不加 as；name 作“命名”讲时一般不加 as，作“任命”讲时 as 可加可不加（She was named (as) the new director），而 regard、see、describe 后必须用 as。",
+  "reason": "规则说得过死：Cambridge 词典 name 作“任命”义时为 name sb (as) sth，as 可省可加，不能说 name 后一律不加 as。"
+ },
+ {
+  "key": "n=9",
+  "field": "grammar[名词 + 过去分词 构成复合形容词].explain",
+  "before": "state-owned（国有的）、hand-written（手写的）。",
+  "after": "state-owned（国有的）、solar-powered（太阳能驱动的）。",
+  "reason": "“手写的”在 Oxford/Cambridge/Merriam-Webster 中的标准写法是一个词 handwritten，hand-written 不是规范拼写，换成规范的复合形容词 solar-powered。"
+ },
+ {
+  "key": "n=9",
+  "field": "grammar[名词 + 过去分词 构成复合形容词].examples[0]",
+  "before": "The museum displays a collection of hand-written letters from the eighteenth century. / 博物馆展出了一批18世纪的手写信件。",
+  "after": "The city plans to replace its diesel buses with battery-powered ones by 2030. / 该市计划到2030年用电池驱动的公交车取代柴油公交车。",
+  "reason": "例句用了非规范拼写 hand-written（规范为 handwritten），且这个词连写后已不能示范“名词 + 过去分词 + 连字符”，改用地道的 battery-powered。"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar[过去分词短语作后置定语（逗号隔开）].examples[1].zh",
+  "before": "官员们把停电归咎于一条故障电缆，这条电缆显然是在最近的施工中受损的。",
+  "after": "官员们把停电归咎于一条故障电缆，这条电缆似乎是在最近的施工中受损的。",
+  "reason": "apparently 意为“看来，似乎，据说”，表推测，不是“显然”（obviously）；这正是本句语法点（推测副词）的要害，误译会误导学生。"
+ },
+ {
+  "key": "n=16",
+  "field": "translation_tip",
+  "before": "第二个谓语 don 前加“并”，体现两个动作的先后。",
+  "after": "第二个谓语 don 前加“并”，对应 and，把签署协议和穿上防护服两项规定连在一起。",
+  "reason": "“并”表示并列、追加，不表示先后顺序，原说明不准确。"
+ }
+]
