@@ -300,12 +300,7 @@ def chapter(b, d, img):
 def front(b, meta, chapters, cover_img, n_vocab):
     c = b.c
     b.new_page(None, opener=True); c.drawImage(str(cover_img), 0, 0, width=W, height=H); b.mark('封面', 0)
-    b.new_page(None, opener=True); b.mark('扉页', 0)
-    c.setFillColor(colors.HexColor(INK)); c.setFont('ZH', 40); c.drawCentredString(W / 2, H * 0.62, meta['title'])
-    c.setFont('ZH', 14); c.setFillColor(colors.HexColor(ACCENT)); c.drawCentredString(W / 2, H * 0.62 - 38, meta['subtitle'])
-    c.setStrokeColor(colors.HexColor(RULE)); c.line(W / 2 - 40, H * 0.62 - 56, W / 2 + 40, H * 0.62 - 56)
-    c.setFont('ZHS', 9.5); c.setFillColor(colors.HexColor(MUTED)); c.drawCentredString(W / 2, H * 0.62 - 76, '中英双语 · 重点词与短语 · 文章简述')
-    c.setFont('ZHS', 10); c.setFillColor(colors.HexColor(INK)); c.drawCentredString(W / 2, 30 * MM, '朋克英语')
+    # user 2026-11-16: no title page (扉页) — preface follows the cover
     b.new_page('前言'); b.mark('前言', 0)
     pf = meta['preface_v5']                          # user 2026-11-16: more engaging preface, "4300"
     assert 4200 < n_vocab <= 4300, n_vocab           # keeps the wording “近4300” true
