@@ -1,0 +1,1646 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Chernobyl（分句一）；it（分句二）",
+   "predicate": "is（分句一，系动词）；holds（分句二）",
+   "object_or_complement": "synonymous with disaster（分句一的表语）；a startling amount of wildlife（分句二的宾语）",
+   "explain": "本句是 yet 连接的并列句。前一分句 Chernobyl is synonymous with disaster 是主系表结构，后一分句 it holds a startling amount of wildlife 是主谓宾结构。两个谓语都用一般现在时，陈述切尔诺贝利现在的名声和现状。"
+  },
+  "components": [
+   {
+    "text": "Chernobyl",
+    "role": "主语（分句一，地名）",
+    "zh": "切尔诺贝利"
+   },
+   {
+    "text": "is",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "synonymous with disaster,",
+    "role": "表语（形容词短语，synonymous 后接 with 引出等同的对象）",
+    "zh": "灾难的代名词"
+   },
+   {
+    "text": "yet",
+    "role": "并列连词，表示转折，连接两个分句",
+    "zh": "但是"
+   },
+   {
+    "text": "it",
+    "role": "主语（分句二，代词，指代 Chernobyl 这个地方）",
+    "zh": "这里"
+   },
+   {
+    "text": "holds",
+    "role": "谓语（分句二）",
+    "zh": "却容纳着"
+   },
+   {
+    "text": "a startling amount of",
+    "role": "宾语中心词的数量修饰语（a startling amount of 修饰不可数名词）",
+    "zh": "数量惊人的"
+   },
+   {
+    "text": "wildlife.",
+    "role": "宾语（不可数名词）",
+    "zh": "野生动物"
+   }
+  ],
+  "structure": "①全句由并列连词 yet 连接两个分句，yet 前用逗号隔开。yet 作连词时意为“然而，但是”，语气比 but 更强调出人意料，前后两层意思形成反差：切尔诺贝利以灾难闻名，那里却有大量野生动物。\n②前一分句是主系表结构：Chernobyl 作主语，is 作系动词，形容词短语 synonymous with disaster 作表语。synonymous 原义“同义的”，be synonymous with sth 指某物与另一事物紧密相连，一提起前者就想到后者，视频说明为“是……的代名词，等同于……”。\n③后一分句是主谓宾结构：it 指代 Chernobyl 这个地方，holds 作谓语，a startling amount of wildlife 作宾语。wildlife 是不可数名词，所以数量用 amount 表达；startling 是现在分词转化来的形容词，意为“令人吃惊的”。\n④本句是全文的总起句，前半句交代人人皆知的背景，后半句用 yet 引出反常的现象，后面几段分别交代证据、原因和代价。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "yet 作并列连词表示转折",
+    "explain": "yet 作连词时意为“然而，但是”，可以连接两个分句（A, yet B），也可以连接两个并列的形容词或短语（simple yet effective 简单而有效）。它和 but 都表示转折，但 yet 更强调后一部分出人意料、与前一部分形成反差。本句 yet 前面是“灾难的代名词”，后面是“数量惊人的野生动物”，反差正是本文要讨论的问题。易错点：yet 还可以作副词，用于否定句和疑问句，意为“还，尚”（I haven't finished yet），要根据位置和句型区分；and yet 连用也很常见，表示“然而”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan sounded simple, yet it took the team three years to carry out.",
+      "zh": "这个计划听起来很简单，然而团队花了三年时间才把它完成。"
+     }
+    ]
+   },
+   {
+    "title": "an amount of 与 a number of 的区别",
+    "explain": "amount 修饰不可数名词，number 修饰可数名词复数：a large amount of money、a large number of students。前面常加 large、small、huge、startling 等形容词表示数量的大小或说话人的态度。wildlife 是不可数名词，指野生动物这个整体，所以本句用 a startling amount of wildlife。注意 a number of + 复数名词作主语时谓语用复数（A number of students are absent），the number of + 复数名词作主语时谓语用单数（The number of students is rising）；an amount of + 不可数名词作主语时谓语用单数。考研写作中用 a great deal of、a large amount of 搭配不可数名词，用 a large number of 搭配可数名词，不要混用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A large amount of plastic waste ends up in the ocean every year.",
+      "zh": "每年都有大量塑料垃圾最终流入海洋。"
+     },
+     {
+      "en": "A growing number of graduates are choosing to work in smaller cities.",
+      "zh": "越来越多的毕业生选择到较小的城市工作。"
+     }
+    ]
+   },
+   {
+    "title": "代词 it 指代地点",
+    "explain": "it 可以指代前文出现的地名、国家、城市、机构等。本句 it 指 Chernobyl，视频译为“这里”，而不是“它”，因为汉语回指地点时习惯用“这里”“那里”。下一句的 its reactors 也指切尔诺贝利的反应堆。阅读长篇文章时，要随时确认 it、its、they 等代词指代的对象，这是考研阅读细节题和推理题的常见考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Venice draws millions of tourists a year, yet it is slowly sinking.",
+      "zh": "威尼斯每年吸引数百万游客，但这座城市正在慢慢下沉。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be synonymous with",
+    "explain": "固定搭配，“是……的代名词，等同于……”。synonymous 本义是“同义的”，如 synonymous words（同义词）；在 be synonymous with sth 中，指两者联系极其紧密，一提到一个就想到另一个，如 The brand is synonymous with quality（这个品牌就是品质的代名词）。名词 synonym 意为“同义词；代名词”。"
+   },
+   {
+    "term": "a startling amount of",
+    "explain": "“数量惊人的”。startling 由动词 startle（使吃惊，使吓一跳）的现在分词转化而来，表示令人吃惊的性质；描述人自己的感受用过去分词 startled（受惊的）。"
+   },
+   {
+    "term": "hold",
+    "explain": "熟词僻义：hold 常见义是“拿着，握住”，这里指一个地方“容纳，有”某些东西，视频译为“容纳着”。类似用法如 The stadium holds 50,000 people（这座体育场能容纳五万人）。"
+   },
+   {
+    "term": "Chernobyl",
+    "explain": "切尔诺贝利，位于乌克兰北部，靠近与白俄罗斯的边界；1986年那里的核电站发生事故，此后这个名字常被用来指代严重的核灾难。乌克兰语名称的拉丁字母转写为 Chornobyl。"
+   }
+  ],
+  "translation_tip": "视频译文“切尔诺贝利，（虽然）是灾难的代名词，但是这里却容纳着数量惊人的野生动物。”做了这几处处理：①主语“切尔诺贝利”后加逗号，补出“（虽然）”，与 yet 译出的“但是”构成“虽然……但是”的关联，突出前后反差；括号表示原文没有对应的词。②代词 it 译为“这里”，汉语回指地点时比“它”自然。③谓语 holds 前增补“却”，与“但是”配合，加强出乎意料的语气。④a startling amount of 译成前置定语“数量惊人的”，放在“野生动物”前面。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "one of its reactors",
+   "predicate": "exploded",
+   "object_or_complement": "",
+   "explain": "主干是 one of its reactors exploded，主谓结构；explode 在此是不及物动词，不带宾语。谓语 exploded 是一般过去时，主动语态，叙述过去发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "Early on 26 April 1986,",
+    "role": "时间状语（介词短语 on 26 April 1986，副词 early 修饰该介词短语）",
+    "zh": "1986年4月26日凌晨"
+   },
+   {
+    "text": "one of its reactors",
+    "role": "主语（one of + 复数名词，its 指切尔诺贝利）",
+    "zh": "它的一座反应堆"
+   },
+   {
+    "text": "exploded",
+    "role": "谓语",
+    "zh": "爆炸"
+   },
+   {
+    "text": "in Soviet Ukraine,",
+    "role": "地点状语（介词短语）",
+    "zh": "于苏联乌克兰"
+   },
+   {
+    "text": "dispersing",
+    "role": "结果状语（现在分词短语）中的分词",
+    "zh": "扩散"
+   },
+   {
+    "text": "radioactive fallout",
+    "role": "分词 dispersing 的宾语",
+    "zh": "放射性的尘降物"
+   },
+   {
+    "text": "across Europe.",
+    "role": "地点状语（介词短语，表示扩散的范围），在分词短语内部修饰 dispersing",
+    "zh": "遍及整个欧洲"
+   }
+  ],
+  "structure": "①主句是 one of its reactors exploded：主语 one of its reactors，谓语 exploded，explode 为不及物动词。视频说明 its 指切尔诺贝利，one of its reactors 即“它的其中一座反应堆”。one of + 复数名词作主语时，中心词是 one，谓语按单数处理。\n②句首 Early on 26 April 1986 是时间状语：on 26 April 1986 是介词短语，具体日期前用 on；early 是副词，修饰整个介词短语，表示“当天很早的时候”，视频译为“凌晨”。这里不是固定短语 early on（在早期）。\n③in Soviet Ukraine 是地点状语，Soviet 作定语，表示当时的乌克兰是苏联的一部分。\n④dispersing radioactive fallout across Europe 是现在分词短语，视频说明它作结果状语，表示爆炸造成的结果。分词的逻辑主语是前面的爆炸事件；radioactive fallout 是 dispersing 的宾语，across Europe 说明扩散的范围。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "放在句末、用逗号隔开的现在分词短语，常表示主句动作自然带来的结果，相当于 and + 谓语，或 which + 谓语（指代前面整件事）。本句 dispersing radioactive fallout across Europe 说明反应堆爆炸造成的后果，相当于 and dispersed radioactive fallout across Europe。常见的这类分词有 causing、leading to、resulting in、making、leaving 等。区分：结果状语表示由主句动作引起的、随后出现的情况；伴随状语表示与主句动作同时存在的情况。考研翻译中，这类分词短语通常译成后续的并列分句，必要时可加“从而”“导致”等词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell for three days, flooding hundreds of homes in the valley.",
+      "zh": "大雨连下了三天，淹没了山谷中的数百户房屋。"
+     },
+     {
+      "en": "The factory closed suddenly, leaving more than 2,000 workers without jobs.",
+      "zh": "工厂突然关闭，导致两千多名工人失业。"
+     }
+    ]
+   },
+   {
+    "title": "one of + 复数名词作主语",
+    "explain": "one of + 复数名词表示“……之一”，作主语时中心词是 one，谓语用单数，如 One of the bridges was closed。of 后面必须用复数名词，one of the reactor 是错误的。本句谓语 exploded 是过去式，看不出单复数，但若换成现在完成时就要写 has exploded。易错点：one of the + 复数名词 + who/that 引导的定语从句中，从句谓语一般与复数先行词一致，如 one of the students who were selected。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "One of the reasons for the delay was a shortage of skilled workers.",
+      "zh": "延误的原因之一是缺乏熟练工人。"
+     }
+    ]
+   },
+   {
+    "title": "日期前的介词与英式日期写法",
+    "explain": "具体某一天前用 on（on 26 April、on Monday），月份、年份前用 in（in April、in 1986），具体时刻前用 at（at midnight）。表示“某天的早些时候”可以在 on 短语前加副词 early 或 late，如 early on Monday、late on Friday。本句 26 April 1986 是英式写法，按“日、月、年”排列；美式通常写作 April 26, 1986。汉语译成“1986年4月26日”，按“年、月、日”由大到小排列。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The agreement was signed late on 9 November, after talks that lasted all day.",
+      "zh": "谈判进行了一整天，协议在11月9日深夜签署。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "early on 与 early + on 短语",
+    "explain": "固定短语 early on 意为“早期，一开始”，如 Early on, I realized the job was not for me。本句的 Early on 26 April 1986 不是这个短语：on 与后面的日期构成介词短语，early 修饰整个短语，意为“在1986年4月26日这天的早些时候”，视频译为“凌晨”。"
+   },
+   {
+    "term": "Soviet Ukraine",
+    "explain": "指苏联时期的乌克兰，即乌克兰苏维埃社会主义共和国，当时是苏联的加盟共和国之一。1991年乌克兰宣布独立，同年苏联解体。Soviet 意为“苏联的”。"
+   },
+   {
+    "term": "radioactive fallout",
+    "explain": "放射性尘降物，核爆炸或核事故后散布到大气中、随后落到地面的放射性微粒，视频说明 fallout 为“放射性沉降物”，本句译为“尘降物”。fallout 还常用于比喻义“（不良事件的）后果，余波”，如 the political fallout from the scandal（丑闻带来的政治余波）。"
+   },
+   {
+    "term": "disperse",
+    "explain": "视频说明：disperse 指向四面八方散开、扩散，人群散开、雾气消散、放射性物质弥漫都可以用它，核心画面是一个整体向四面八方分散开来。及物和不及物用法都有：The crowd dispersed（人群散开了）；Police dispersed the crowd（警察驱散了人群）。"
+   }
+  ],
+  "translation_tip": "视频译文“1986年4月26日凌晨，它的一座反应堆爆炸于苏联乌克兰，扩散放射性的尘降物遍及整个欧洲。”的处理：①时间状语放在句首，日期按汉语习惯改成“年、月、日”，early 译为“凌晨”。②its 译为“它的”，回指上句的切尔诺贝利；one of its reactors 译为“它的一座反应堆”，补出量词“座”。③地点状语 in Soviet Ukraine 译为“于苏联乌克兰”，放在动词后面，保留了英文语序，带书面色彩。④分词短语作结果状语，译成后续分句“扩散放射性的尘降物遍及整个欧洲”，across 译为“遍及整个”，突出范围之广。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Pripyat",
+   "predicate": "was emptied",
+   "object_or_complement": "",
+   "explain": "主干是 Pripyat was emptied，被动语态，一般过去时；of about 45,000 inhabitants 由主动结构 empty A of B（把 A 中的 B 清空）变来，of 引出被清空的内容。"
+  },
+  "components": [
+   {
+    "text": "On 27 April,",
+    "role": "时间状语（介词短语）",
+    "zh": "在4月27日"
+   },
+   {
+    "text": "nearby",
+    "role": "前置定语（形容词），修饰 Pripyat",
+    "zh": "附近的"
+   },
+   {
+    "text": "Pripyat",
+    "role": "主语（地名）",
+    "zh": "普里皮亚季"
+   },
+   {
+    "text": "was emptied of",
+    "role": "谓语（被动语态）+ 介词 of，构成 be emptied of 结构",
+    "zh": "被清空了"
+   },
+   {
+    "text": "about 45,000 inhabitants",
+    "role": "介词 of 的宾语，表示被清空的对象",
+    "zh": "约45,000名居民"
+   },
+   {
+    "text": "within hours.",
+    "role": "时间状语（介词短语）",
+    "zh": "发生在数小时内"
+   }
+  ],
+  "structure": "①主干是 Pripyat was emptied of about 45,000 inhabitants，被动语态。主动形式是 empty Pripyat of its inhabitants（把普里皮亚季的居民清空），变被动时 Pripyat 作主语，of 短语保留在谓语之后。视频说明：be emptied of… 意为“被清空……”。\n②nearby 是形容词，放在地名前作前置定语，意为“附近的”，即离切尔诺贝利核电站不远的普里皮亚季。\n③句首 On 27 April 是时间状语，与上句的 26 April 1986 衔接，说明撤离发生在爆炸的第二天，年份承前省略。\n④句末 within hours 是时间状语，视频说明为“几小时之内”，强调撤离之快。about 是副词，意为“大约”，修饰数词 45,000。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "empty / clear / rob / deprive A of B 及其被动结构",
+    "explain": "一组动词可以构成“动词 + A + of + B”的结构，表示“使 A 失去 B，把 B 从 A 中去除”：empty a room of furniture（把房间里的家具搬空）、clear the road of snow（清除路上的积雪）、rob sb of sth（抢走某人的某物）、deprive sb of sth（剥夺某人的某物）、rid sth of sth（使摆脱）。变成被动语态时，A 作主语，of B 留在谓语后：The room was emptied of furniture。本句 Pripyat was emptied of about 45,000 inhabitants 就是这种被动结构。易错点：rob 的宾语是受损失的人或地方（rob sb of sth、rob a bank），被拿走的东西要用 steal 表达：steal sth from sb，不能说 rob sth from sb。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Within a week, the shelves were emptied of bottled water and canned food.",
+      "zh": "不到一周，货架上的瓶装水和罐头食品就被买空了。"
+     },
+     {
+      "en": "Many children in the region are deprived of a basic education.",
+      "zh": "这个地区的许多孩子被剥夺了接受基础教育的机会。"
+     }
+    ]
+   },
+   {
+    "title": "nearby 的两种位置",
+    "explain": "nearby 既可以作形容词，也可以作副词。作形容词时一般放在名词前作前置定语，如 a nearby village、nearby Pripyat；作副词时放在动词或名词后，如 They live nearby、a village nearby。near 也可表示“附近的”，但作定语时多用于比较级或固定说法，“附近的村庄”通常说 a nearby village。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Residents of nearby towns were told to keep their windows closed.",
+      "zh": "附近几个城镇的居民被告知要关好窗户。"
+     }
+    ]
+   },
+   {
+    "title": "within + 时间段",
+    "explain": "within + 时间段 表示“在……之内”，强调不超过这个期限，如 within hours（几小时之内）、within a week。in + 时间段 用于将来时，常表示“在……之后”，如 I'll be back in an hour（一小时后回来）。hours、days、weeks 不带数词时表示概数，within hours 即“数小时之内”，强调速度快。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The video had been viewed millions of times within days of its release.",
+      "zh": "这段视频发布后几天之内就被观看了数百万次。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Pripyat",
+    "explain": "普里皮亚季，乌克兰北部城市，为切尔诺贝利核电站的员工及其家属兴建，离核电站很近。1986年事故后居民全部撤离，此后一直无人定居，成为一座空城。"
+   },
+   {
+    "term": "inhabitant",
+    "explain": "居民，指长期居住在某地的人或动物，常用复数，如 the inhabitants of the island（岛上的居民）。动词 inhabit 是及物动词，直接接地点（inhabit the forest），不说 inhabit in。"
+   },
+   {
+    "term": "45,000",
+    "explain": "英语书写四位以上的数字时，常用逗号分隔千位，45,000 读作 forty-five thousand；视频沿用了这种写法，译为“约45,000名居民”。"
+   }
+  ],
+  "translation_tip": "视频译文“在4月27日，附近的普里皮亚季被清空了约45,000名居民，发生在数小时内。”的处理：①时间状语 On 27 April 译为“在4月27日”，放在句首。②nearby 译为前置定语“附近的”。③被动结构 was emptied of 保留被动，译为“被清空了”，of 后的宾语紧接其后，译成“约45,000名居民”，补出量词“名”。④within hours 没有塞进句中，而是放在句末单独成分句，补出“发生在”，译为“发生在数小时内”，既保留英文的信息顺序，又突出撤离之快。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "A zone（分句一）；Belarus（分句二）",
+   "predicate": "became（分句一，系动词）；fenced off（分句二）",
+   "object_or_complement": "off-limits（分句一的表语）；adjoining terrain（分句二的宾语）",
+   "explain": "本句是 and 连接的并列句。前一分句 A zone … became off-limits 是主系表结构，become 是系动词，形容词 off-limits 作表语；后一分句 Belarus fenced off adjoining terrain 是主谓宾结构，短语动词 fence off 作谓语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A zone",
+    "role": "主语（分句一）",
+    "zh": "一片……的区域"
+   },
+   {
+    "text": "some 30 kilometres in radius",
+    "role": "后置定语，修饰 zone（some 表示“大约”）",
+    "zh": "半径约30公里"
+   },
+   {
+    "text": "became",
+    "role": "系动词（分句一）",
+    "zh": "变成了"
+   },
+   {
+    "text": "off-limits,",
+    "role": "表语（形容词）",
+    "zh": "禁区"
+   },
+   {
+    "text": "and Belarus",
+    "role": "并列连词 and + 主语（分句二）",
+    "zh": "白俄罗斯也"
+   },
+   {
+    "text": "fenced off",
+    "role": "谓语（分句二，短语动词）",
+    "zh": "用栅栏隔开了"
+   },
+   {
+    "text": "adjoining terrain.",
+    "role": "宾语（adjoining 作前置定语）",
+    "zh": "相邻的地带"
+   }
+  ],
+  "structure": "①全句由 and 连接两个并列分句，交代事故后两国分别采取的封锁措施。\n②前一分句的主语是 A zone，后面紧跟 some 30 kilometres in radius 作后置定语。视频说明：这是后置定语，修饰 zone，some 表示“大约”。这种“数词 + 单位 + in + 维度名词”的结构说明尺寸，相当于 with a radius of some 30 kilometres。became 是系动词，off-limits 是形容词作表语，视频说明为“不准进入的；禁止入内的”。\n③后一分句是主谓宾结构：Belarus 作主语，短语动词 fence off（用栅栏隔开，围起来）作谓语，adjoining terrain 作宾语。adjoining 是现在分词转化来的形容词，意为“相邻的”，这里指与乌克兰一侧禁区相邻的白俄罗斯土地。\n④两个分句的主语一个是区域、一个是国家，and 在视频中译为“也”，表示白俄罗斯采取了同样的封锁措施。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "数词 + 单位 + in + 维度名词 作后置定语",
+    "explain": "英语描述物体的长、宽、高、深、半径等尺寸时，常用“数词 + 单位 + in + length/width/height/depth/radius/diameter”的结构，放在名词后作后置定语，或放在系动词后作表语，如 a wall three metres in height、The lake is 50 metres in depth。也可以换成“数词 + 单位 + 形容词”（a wall three metres high）或 with a … of 结构（a wall with a height of three metres）。radius、diameter 没有像 long、high、deep 那样可以直接放在数量后面表示尺寸的形容词，只能用 in radius、in diameter 或 with a radius of。本句 A zone some 30 kilometres in radius 即“一片半径约30公里的区域”，翻译时要把后置的尺寸前移作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Archaeologists uncovered a circular pit about four metres in diameter.",
+      "zh": "考古学家发掘出一个直径约四米的圆形坑。"
+     },
+     {
+      "en": "The fire destroyed an area roughly ten kilometres in length.",
+      "zh": "大火烧毁了一片长约十公里的区域。"
+     }
+    ]
+   },
+   {
+    "title": "短语动词 fence off 的宾语位置",
+    "explain": "fence off 是“动词 + 副词”构成的短语动词，可以拆开使用。宾语是名词时，可以放在 off 之后（fence off the area），也可以放在 fence 和 off 之间（fence the area off）；宾语是代词时，必须放在中间（fence it off），不能说 fence off it。同类的短语动词还有 seal off（封锁）、cordon off（用警戒线隔开）、close off（封闭）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Police sealed off the street after a suspicious package was found.",
+      "zh": "发现可疑包裹后，警方封锁了这条街道。"
+     }
+    ]
+   },
+   {
+    "title": "some + 数词 表示“大约”",
+    "explain": "some 放在数词前时是副词，意为“大约”，相当于 about、approximately、roughly，语气比较正式，多见于书面语和新闻报道，如 some 200 people（大约200人）。本句 some 30 kilometres 即“约30公里”。阅读时不要把它理解成“一些”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some 3,000 volunteers took part in the clean-up.",
+      "zh": "大约3000名志愿者参加了这次清理活动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "off-limits",
+    "explain": "形容词，“禁止进入的，不准入内的”，常说 be off-limits to sb（不准某人进入），如 The area is off-limits to visitors；也可比喻“不许谈论的，不得触碰的”，如 Politics is off-limits at dinner。本句作表语，视频译为“禁区”，became off-limits 即“变成了禁区”。"
+   },
+   {
+    "term": "fence off",
+    "explain": "“用栅栏隔开，围起来”（视频说明）。fence 作名词意为“栅栏，篱笆”，作动词意为“用栅栏围住”；加副词 off 表示把某一片地方与外界隔离开。"
+   },
+   {
+    "term": "Belarus",
+    "explain": "白俄罗斯，东欧国家，位于乌克兰北面。切尔诺贝利靠近乌克兰与白俄罗斯的边界，所以白俄罗斯一侧也有大片受污染的土地被封锁。"
+   },
+   {
+    "term": "kilometres",
+    "explain": "kilometre 的复数，英式拼写；美式拼写为 kilometer。本文采用英式拼写，第14句的 per cent（美式多写作 percent）也是如此。"
+   }
+  ],
+  "translation_tip": "视频译文“一片半径约30公里的区域变成了禁区，白俄罗斯也用栅栏隔开了相邻的地带。”的处理：①后置定语 some 30 kilometres in radius 前移，译为“半径约30公里的”，放在“区域”前面；不定冠词 A 译为“一片”，与“区域”搭配。②形容词表语 off-limits 转译为名词“禁区”，became off-limits 译为“变成了禁区”。③连词 and 译为副词“也”，放在第二个主语之后，表明白俄罗斯采取了同样的措施。④fence off 把 fence 的“栅栏”义和 off 的“隔离”义都译出，成为“用栅栏隔开了”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "a study",
+   "predicate": "combined",
+   "object_or_complement": "aerial surveys",
+   "explain": "主干是 a study combined aerial surveys，主谓宾结构，with footprint counts 与谓语构成 combine A with B。谓语 combined 为一般过去时，主动语态；主语是“研究”而不是人，是英语常见的无灵主语句。"
+  },
+  "components": [
+   {
+    "text": "In October 2015,",
+    "role": "时间状语（介词短语）",
+    "zh": "2015年10月"
+   },
+   {
+    "text": "a study",
+    "role": "主语",
+    "zh": "一项研究"
+   },
+   {
+    "text": "in Current Biology",
+    "role": "后置定语（介词短语），修饰 a study，说明研究发表在哪份期刊上",
+    "zh": "《当代生物学》上的"
+   },
+   {
+    "text": "combined",
+    "role": "谓语",
+    "zh": "结合了"
+   },
+   {
+    "text": "aerial surveys",
+    "role": "宾语（combine A with B 中的 A）",
+    "zh": "空中的调查"
+   },
+   {
+    "text": "with footprint counts",
+    "role": "介词短语，与 combined 构成 combine A with B，引出 B",
+    "zh": "与足迹计数"
+   },
+   {
+    "text": "on the Belarusian side.",
+    "role": "地点状语（介词短语），交代两类数据的采集范围",
+    "zh": "这些数据都在白俄罗斯一侧"
+   }
+  ],
+  "structure": "①主干是 a study combined aerial surveys with footprint counts，视频说明：combine A with B 意为“把 A 与 B 结合起来”。A 是 aerial surveys（空中调查，航测），B 是 footprint counts（足迹计数），两种方法一个从空中看，一个在地面查足迹。\n②a study 后的 in Current Biology 是介词短语作后置定语，说明这项研究刊登在《当代生物学》上。英语常用 a study in + 期刊名 表示“发表在某刊上的研究”。\n③footprint counts 是名词修饰名词，footprint 作 counts 的定语，表示“对足迹的计数”。\n④句末 on the Belarusian side 是地点状语，交代这些调查都是在白俄罗斯一侧的禁区里做的，与上句 Belarus fenced off adjoining terrain 呼应。\n⑤本句是第二段的开头，引出科学证据，下一句交代这项研究的具体发现。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "combine A with B",
+    "explain": "combine A with B 意为“把 A 与 B 结合起来”，被动形式是 A is combined with B；也可以说 combine A and B。不及物用法 combine with sth 表示“与……结合”，如 Hydrogen combines with oxygen to form water。名词 combination 常构成 in combination with（与……结合）。考研写作中描述“理论与实践相结合”可写 combine theory with practice。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The course combines classroom teaching with hands-on experience in local businesses.",
+      "zh": "这门课程把课堂教学与在当地企业的实践经验结合起来。"
+     }
+    ]
+   },
+   {
+    "title": "无灵主语：study、survey、report 作主语",
+    "explain": "英语学术和新闻文体常用 study、research、survey、report、data 等无生命的名词作主语，后接 find、show、suggest、reveal、combine 等本来由人发出的动作，如 A recent study found that…。汉语通常把这类句子译成“研究发现……”，或补出动作的执行者“研究人员发现……”。本句 a study … combined aerial surveys with footprint counts 实际是研究人员把两种方法结合起来，视频直接译为“一项研究结合了……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A survey of 2,000 parents revealed widespread concern about screen time.",
+      "zh": "一项针对2000名家长的调查显示，人们普遍担心孩子使用电子屏幕的时间。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Current Biology",
+    "explain": "《当代生物学》，英文生物学学术期刊，由细胞出版社（Cell Press）出版。英文中期刊名通常用斜体，汉语译名加书名号。a study in Current Biology 即“发表在《当代生物学》上的一项研究”。"
+   },
+   {
+    "term": "aerial survey",
+    "explain": "视频说明：空中调查，航测，指从飞机或直升机上进行观察、拍照或计数。aerial 意为“空中的，从飞机上的”，如 aerial photographs（航拍照片）。第7句的 helicopter counts 就是一种空中调查。"
+   },
+   {
+    "term": "footprint counts",
+    "explain": "足迹计数，按动物留下的足迹统计数量，雪地上的足迹最容易辨认。footprint 本义“脚印，足迹”，常见比喻义如 carbon footprint（碳足迹）。"
+   },
+   {
+    "term": "Belarusian",
+    "explain": "形容词“白俄罗斯的”，也可作名词，指白俄罗斯人或白俄罗斯语；on the Belarusian side 即“在白俄罗斯一侧”。"
+   }
+  ],
+  "translation_tip": "视频译文“2015年10月，《当代生物学》上的一项研究结合了空中的调查与足迹计数，这些数据都在白俄罗斯一侧。”的处理：①时间状语 In October 2015 去掉介词，直接译为“2015年10月”放在句首，这是汉语时间状语的常见处理。②后置定语 in Current Biology 前移，译为“《当代生物学》上的”，期刊名加书名号。③combine A with B 译为“结合了 A 与 B”。④句末地点状语 on the Belarusian side 没有塞进前面的长定语里，而是拆出来单独成句，补出主语“这些数据都”，译为“这些数据都在白俄罗斯一侧”，使前半句保持简短。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Elk, roe deer, red deer, and wild boar（分句一）；wolves（分句二）",
+   "predicate": "were（分句一，系动词）；were（分句二，系动词）",
+   "object_or_complement": "comparable in density to those…（分句一的表语）；over seven times as numerous（分句二的表语）",
+   "explain": "本句是 and 连接的并列句，两个分句都是主系表结构：前一分句的表语是形容词 comparable 及其后的修饰成分，后一分句的表语是倍数结构 over seven times as numerous。谓语都是一般过去时，陈述研究得出的结果。"
+  },
+  "components": [
+   {
+    "text": "Elk, roe deer, red deer, and wild boar",
+    "role": "主语（分句一，四个并列名词）",
+    "zh": "驼鹿、狍、马鹿和野猪"
+   },
+   {
+    "text": "were",
+    "role": "系动词（分句一）",
+    "zh": "（系动词，与 comparable 合译为“相当”）"
+   },
+   {
+    "text": "comparable",
+    "role": "表语（形容词）",
+    "zh": "相当"
+   },
+   {
+    "text": "in density",
+    "role": "状语（介词短语），限定比较的方面",
+    "zh": "在数量密度方面"
+   },
+   {
+    "text": "to those",
+    "role": "介词短语，与 comparable 构成 comparable to，引出比较对象；those 指代前面几种动物",
+    "zh": "于……的同类"
+   },
+   {
+    "text": "in four reserves",
+    "role": "后置定语（介词短语），修饰 those",
+    "zh": "四个……保护区里"
+   },
+   {
+    "text": "free of contamination,",
+    "role": "后置定语（形容词短语），修饰 reserves",
+    "zh": "未受污染的"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句，表示对照",
+    "zh": "而"
+   },
+   {
+    "text": "wolves",
+    "role": "主语（分句二）",
+    "zh": "狼"
+   },
+   {
+    "text": "were",
+    "role": "系动词（分句二）",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "over seven times as numerous.",
+    "role": "表语（倍数结构，省略了 as those in the reserves）",
+    "zh": "的数量非常多……是那些保护区里的同类的七倍之多"
+   }
+  ],
+  "structure": "①全句由 and 连接两个主系表结构的分句，前一分句说四种有蹄类动物与对照区“相当”，后一分句说狼“多得多”，层层推进。\n②前一分句的主语是四个并列名词 Elk, roe deer, red deer, and wild boar，and 前用了牛津逗号。表语部分是 comparable in density to those in four reserves free of contamination：视频说明 be comparable to… 意为“与……相当”，in density 意为“在密度方面”，插在 comparable 和 to 之间，限定比较的方面。\n③those 是指示代词，视频说明它指代前面几种动物，即 the elk, roe deer, red deer, and wild boar；in four reserves 作 those 的后置定语，说明是哪里的这些动物；free of contamination 是形容词短语作后置定语，修饰 reserves，视频说明为“未受污染的”。\n④后一分句 wolves were over seven times as numerous 是倍数结构，视频说明 X times as numerous 意为“数量是……的 X 倍”。完整形式是 over seven times as numerous as those (wolves) in the reserves，后一个 as 及比较对象因上文已经交代而省略。over 意为“超过”，修饰 seven times。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "倍数表达：X times as + 形容词 + as",
+    "explain": "英语表达“是……的 X 倍”最常用的结构是“倍数 + as + 形容词/副词原级 + as + 比较对象”，如 This room is three times as large as that one。也可以用“倍数 + 比较级 + than”（three times larger than）或“倍数 + the + 名词 + of”（three times the size of）。比较对象在上下文中已经清楚时，后一个 as 及其宾语可以省略，本句 over seven times as numerous 就省略了 as those in the reserves。翻译时要补出比较对象，视频译为“是那些保护区里的同类的七倍之多”。考研阅读中常在倍数前加 over、nearly、roughly 等词，读题时要留意这些限定。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Electric cars in the city are now nearly twice as common as they were three years ago.",
+      "zh": "这座城市的电动汽车数量如今几乎是三年前的两倍。"
+     },
+     {
+      "en": "The new reservoir holds four times as much water as the old one.",
+      "zh": "新水库的蓄水量是旧水库的四倍。"
+     }
+    ]
+   },
+   {
+    "title": "be comparable to / with + in 方面",
+    "explain": "comparable 意为“相当的，可比较的”，接 to 或 with 引出比较对象；说明在哪一方面相当，用 in + 名词，可以放在 comparable 后面，也可以放在句末：A is comparable in size to B，或 A is comparable to B in size。本句 comparable in density to those… 就是第一种语序，in density 插在中间。注意重音：comparable 的主重音通常在第一个音节 com 上。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Salaries in the sector are now comparable to those in banking.",
+      "zh": "这个行业的薪资现在已与银行业相当。"
+     }
+    ]
+   },
+   {
+    "title": "that / those 替代前文名词",
+    "explain": "比较结构中，为避免重复前面的名词，单数名词或不可数名词用 that 替代，复数名词用 those 替代，后面通常带定语，如 The climate here is milder than that of the north。本句 those in four reserves 中的 those 替代前文四种复数动物，指“四个保护区里的这些动物”。易错点：比较的对象必须同类，不能拿“驼鹿”和“保护区”比，所以必须用 those 补出“保护区里的同类”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "House prices in the suburbs have risen faster than those in the city centre.",
+      "zh": "郊区的房价比市中心的房价涨得更快。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语后置作定语",
+    "explain": "单个形容词作定语一般放在名词前；形容词带有自己的介词短语、不定式等补充成分时，构成形容词短语，要放在名词后作后置定语，相当于省略了 that are 的定语从句。本句 reserves free of contamination 相当于 reserves that are free of contamination。类似的有 a box full of books、a city rich in history。翻译时一般把后置的形容词短语前移，译成“……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The charity provides meals to families unable to afford fresh food.",
+      "zh": "这家慈善机构为买不起新鲜食物的家庭提供餐食。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "elk、roe deer、red deer、wild boar",
+    "explain": "四种动物的中文名：elk 驼鹿，roe deer 狍，red deer 马鹿，wild boar 野猪。elk 在英式英语中指驼鹿，北美英语中驼鹿叫 moose，而 elk 在北美指另一种大型鹿（马鹿的近亲）。deer 单复数同形；elk 和 boar 的复数可以与单数同形，也可以加 s。"
+   },
+   {
+    "term": "free of",
+    "explain": "“没有……的，不含……的”，常接不受欢迎的东西，如 free of charge（免费）、free of pollution（无污染）、free of contamination（未受污染）。free from 意思相近，也表示“免于……”。"
+   },
+   {
+    "term": "density",
+    "explain": "密度。本文指单位面积内动物的数量，即种群密度，视频译为“数量密度”；population density 则指人口密度。"
+   },
+   {
+    "term": "over seven times",
+    "explain": "over 用在数字前作副词或介词，意为“超过，多于”，相当于 more than。over seven times 即“七倍多”，视频译为“七倍之多”，强调数量之多。"
+   }
+  ],
+  "translation_tip": "视频译文“驼鹿、狍、马鹿和野猪在数量密度方面，相当于四个未受污染的保护区里的同类，而狼的数量非常多，是那些保护区里的同类的七倍之多。”的处理：①方面状语 in density 前移到“相当”之前，译为“在数量密度方面”，并用逗号断开，使句子节奏清楚。②comparable to 译为“相当于”；后置定语 free of contamination 和 in four reserves 都前移，由后向前译成“四个未受污染的保护区里的”。③those 补全为“同类”，明确比较的是保护区里的同种动物。④and 译为“而”，表示前后对照；倍数结构拆成两层：先用“数量非常多”译出 numerous，再补出被省略的比较对象，译为“是那些保护区里的同类的七倍之多”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Earlier helicopter counts",
+   "predicate": "showed",
+   "object_or_complement": "elk, roe deer, and boar（宾语）surging in the post-disaster decade（宾语补足语）",
+   "explain": "主谓宾宾补结构：elk, roe deer, and boar 是 showed 的宾语，现在分词短语 surging in the post-disaster decade 作宾语补足语，说明宾语的状态。谓语 showed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Earlier",
+    "role": "前置定语（比较级形容词），修饰 helicopter counts",
+    "zh": "更早的"
+   },
+   {
+    "text": "helicopter counts",
+    "role": "主语（helicopter 作 counts 的定语）",
+    "zh": "直升机计数（空中盘点）"
+   },
+   {
+    "text": "showed",
+    "role": "谓语",
+    "zh": "显示"
+   },
+   {
+    "text": "elk, roe deer, and boar",
+    "role": "宾语（三个并列名词）",
+    "zh": "驼鹿、狍和野猪"
+   },
+   {
+    "text": "surging",
+    "role": "宾语补足语（现在分词）",
+    "zh": "数量激增"
+   },
+   {
+    "text": "in the post-disaster decade.",
+    "role": "时间状语（介词短语），在宾补内部修饰 surging",
+    "zh": "在灾后的那十年里"
+   }
+  ],
+  "structure": "①主干是 Earlier helicopter counts showed elk, roe deer, and boar surging，视频说明 show sth doing 意为“显示……正在怎样”，elk, roe deer, and boar 是宾语，surging 是现在分词作宾语补足语，宾语和宾补之间是逻辑上的主谓关系：这些动物的数量在激增。\n②主语中心词是 counts，helicopter 作定语。视频说明 helicopter counts 指坐在直升机上向下清点动物的数量；Earlier 是比较级，意思是比第5句介绍的2015年那项研究更早。\n③in the post-disaster decade 是时间状语，修饰 surging；post-disaster 是由前缀 post-（在……之后）构成的复合形容词，视频说明为“灾后的”。the post-disaster decade 指灾难发生后的那十年。\n④本句的 boar 承接上句的 wild boar，省去了 wild。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "show / find / see + 宾语 + 现在分词（复合宾语）",
+    "explain": "show、find、see、notice、watch、catch、leave 等动词后面可以接“宾语 + 现在分词”构成复合宾语，现在分词作宾语补足语，表示宾语正在进行或持续的主动动作。本句 showed elk, roe deer, and boar surging 中，surging 的逻辑主语是 elk, roe deer, and boar，即“动物数量在激增”。与接动词不定式或 that 从句相比，这种结构更强调过程和状态。第14句 found leaves decomposing… 也是同样的结构。易错点：宾语与宾补是被动关系时要用过去分词，如 The survey showed many houses damaged。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Satellite images showed the glacier retreating faster than predicted.",
+      "zh": "卫星图像显示，这条冰川退缩的速度比预测的更快。"
+     },
+     {
+      "en": "The inspectors found several workers operating machines without protective gear.",
+      "zh": "检查人员发现有几名工人在没有防护装备的情况下操作机器。"
+     }
+    ]
+   },
+   {
+    "title": "比较级 earlier / later 作定语",
+    "explain": "early、late 的比较级 earlier、later 可以直接放在名词前作定语，表示“更早的、此前的”和“后来的、之后的”，比较对象是上下文中提到的时间点，常常不出现 than。本句 Earlier helicopter counts 相对于第5、6句介绍的2015年那项研究而言；下一段第8句 Later fieldwork 则相对于这些研究而言。阅读时根据这类比较级可以理清研究的先后顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Earlier versions of the software crashed frequently.",
+      "zh": "这个软件的早期版本经常崩溃。"
+     }
+    ]
+   },
+   {
+    "title": "前缀 post- 构成复合形容词",
+    "explain": "前缀 post- 意为“在……之后”，加在名词前构成形容词，作前置定语，常用连字符连接，如 post-war（战后的）、post-election（选举后的）、post-pandemic（疫情后的）、post-disaster（灾后的）。与之相对的是 pre-（在……之前），如 pre-war（战前的）。这类复合词一般只作前置定语，很少作表语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The post-war years brought rapid growth to the region's cities.",
+      "zh": "战后的那些年里，这个地区的城市迅速发展。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "helicopter counts",
+    "explain": "视频说明：直升机计数，坐在直升机上向下清点动物的数量，盘点动物有多少。视频在“计数”后加括号补充“空中盘点”。"
+   },
+   {
+    "term": "surge",
+    "explain": "动词“激增，猛增”，也可指人群、水流等“涌动”；名词 a surge in sth 意为“……的激增”，如 a surge in demand（需求激增）。本句 surging 指动物数量快速增长，视频译为“数量激增”。"
+   },
+   {
+    "term": "the post-disaster decade",
+    "explain": "灾后的那十年。decade 指十年，the 表示特指，即1986年核灾难发生后的那十年。"
+   },
+   {
+    "term": "boar",
+    "explain": "上句写作 wild boar（野猪），本句省去 wild。boar 单用时既可指野猪，也可指公猪，要根据上下文判断，这里承接上文，指野猪。"
+   }
+  ],
+  "translation_tip": "视频译文“更早的直升机计数（空中盘点）显示，驼鹿、狍和野猪在灾后的那十年里数量激增。”的处理：①主语 Earlier helicopter counts 译为“更早的直升机计数”，括号中补充“空中盘点”，帮助读者明白这种调查方法。②showed 译为“显示”，后加逗号，把后面的复合宾语译成一个完整的小句。③宾语和宾补译为主谓关系：“驼鹿、狍和野猪……数量激增”，surging 增补“数量”二字，说明激增的是数量。④时间状语 in the post-disaster decade 前移到“数量激增”之前，译为“在灾后的那十年里”，符合汉语状语在前的语序。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Later fieldwork",
+   "predicate": "bolstered",
+   "object_or_complement": "these findings",
+   "explain": "主干是 Later fieldwork bolstered these findings，主谓宾结构。谓语 bolstered 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Later",
+    "role": "前置定语（比较级形容词），修饰 fieldwork",
+    "zh": "后来的"
+   },
+   {
+    "text": "fieldwork",
+    "role": "主语（不可数名词）",
+    "zh": "实地考察"
+   },
+   {
+    "text": "bolstered",
+    "role": "谓语",
+    "zh": "佐证了"
+   },
+   {
+    "text": "these findings.",
+    "role": "宾语（these 回指上一段的研究结果）",
+    "zh": "这些发现"
+   }
+  ],
+  "structure": "①本句是简单句，主谓宾结构：Later fieldwork 作主语，bolstered 作谓语，these findings 作宾语。\n②Later 是 late 的比较级，作定语，意为“后来的”，相对于上一段的研究而言，与第7句的 Earlier 形成时间上的对照。\n③these findings 回指上一段两项调查的结果：动物密度与未受污染的保护区相当、狼的数量是那些保护区的七倍多、灾后十年兽类数量激增。\n④本句是第三段的主题句，先概括“后来的考察佐证了这些发现”，下一句再举相机陷阱的具体证据。视频说明 bolster 意为“支持/加强”，这里译为“佐证了”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "later、latter 与 late 的区别",
+    "explain": "later 是 late 的比较级，表示时间上“后来的、较晚的”，作定语（later fieldwork）或副词（three years later）。latter 意为“（两者中的）后者的”，常用 the latter 指前面提到的两者中的第二个，与 the former（前者）相对。late 作定语有时表示“已故的”，如 the late president。考研阅读中 the former … the latter 常用于指代，要根据前文准确对应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Later studies confirmed the link between sleep and memory.",
+      "zh": "后来的研究证实了睡眠和记忆之间的联系。"
+     }
+    ]
+   },
+   {
+    "title": "these + 概括性名词 回指前文",
+    "explain": "英语常用 this / these + 概括性名词（finding、trend、problem、view、change 等）回指前文的一段内容，起承上启下的作用。本句 these findings 概括了上一段的研究结果，使第三段与第二段自然衔接。阅读时遇到这类词，要回到前文找到它具体指的是什么，这是考研阅读指代题和段落主旨题的常见考点。写作中也可以用 This trend、These changes 开头，连接上下段落。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Sales of e-books fell for a third year in a row. This trend has surprised many publishers.",
+      "zh": "电子书销量连续第三年下降，这一趋势令许多出版商感到意外。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "bolster",
+    "explain": "视频说明：bolster 意为“支持/加强”。本句指新的证据支持、印证了原来的结论，视频译为“佐证了”。常见搭配有 bolster an argument（支持某个论点）、bolster confidence（增强信心）、bolster the economy（提振经济）。名词 bolster 原指长枕头。"
+   },
+   {
+    "term": "fieldwork",
+    "explain": "实地考察，野外调查，指研究人员到实地（而不是在实验室或办公室）收集数据，常说 do / carry out fieldwork。不可数名词。"
+   },
+   {
+    "term": "findings",
+    "explain": "研究结果，调查发现，常用复数，如 The findings were published in a leading journal。动词 find 在学术语境中意为“（通过研究）发现”。"
+   }
+  ],
+  "translation_tip": "视频译文“后来的实地考察佐证了这些发现。”与原文语序完全一致：Later 译为“后来的”，作“实地考察”的定语；bolstered 在视频说明“支持/加强”的基础上译为“佐证了”，突出新证据与旧结论相互印证；these findings 译为“这些发现”，保留回指作用。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "camera traps",
+   "predicate": "snapped",
+   "object_or_complement": "wolves, boar, and raccoon dogs",
+   "explain": "主干是 camera traps snapped wolves, boar, and raccoon dogs，主谓宾结构，宾语是三个并列名词。谓语 snapped 为一般过去时，主动语态；句末 with 短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "In April 2016,",
+    "role": "时间状语（介词短语）",
+    "zh": "2016年4月"
+   },
+   {
+    "text": "camera traps",
+    "role": "主语",
+    "zh": "相机陷阱"
+   },
+   {
+    "text": "snapped",
+    "role": "谓语",
+    "zh": "拍到了"
+   },
+   {
+    "text": "wolves, boar, and raccoon dogs",
+    "role": "宾语（三个并列名词）",
+    "zh": "狼、野猪和貉"
+   },
+   {
+    "text": "near the most hazardous spots,",
+    "role": "地点状语（介词短语）",
+    "zh": "在最危险的几个地点附近"
+   },
+   {
+    "text": "with no sign of",
+    "role": "伴随状语（with + 名词短语）的前半部分",
+    "zh": "没有迹象表明"
+   },
+   {
+    "text": "suppressed numbers.",
+    "role": "介词 of 的宾语（suppressed 作前置定语）",
+    "zh": "动物的数量被抑制"
+   }
+  ],
+  "structure": "①主干是 camera traps snapped wolves, boar, and raccoon dogs，主谓宾结构。视频说明 camera trap 是“相机陷阱，自动拍摄的相机”，raccoon dog 是“貉”。snap 在这里意为“抓拍，拍摄”。三个并列宾语之间用了牛津逗号。\n②near the most hazardous spots 是地点状语，hazardous 用最高级，the most hazardous spots 指辐射最强、最危险的几个地点。\n③句末 with no sign of suppressed numbers 是 with 引导的介词短语作伴随状语，视频说明 with no sign of… 意为“没有……的迹象”，补充说明拍摄结果：这些地点的动物数量没有受到压制。\n④suppressed numbers 中，suppressed 是过去分词作前置定语，表示被动，numbers 是“被抑制的”一方，即动物数量被辐射压低。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with + 名词短语作伴随状语",
+    "explain": "with 引导的介词短语放在句末，用逗号隔开，可以补充说明主句动作发生时的情况或结果，相当于一个并列分句。with no sign of… 相当于 and there was no sign of…，表示“却没有……的迹象”。with 后还常接“名词 + 现在分词/过去分词/形容词/介词短语”构成复合结构，如 with prices rising（物价上涨的同时）。翻译时这类短语一般译成独立的分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The talks ended late last night, with no sign of a deal on trade.",
+      "zh": "谈判于昨夜很晚才结束，没有迹象表明双方会达成贸易协议。"
+     },
+     {
+      "en": "The storm passed quickly, with little damage to buildings in the town.",
+      "zh": "暴风雨很快过去了，镇上的建筑物几乎没有受损。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词作前置定语",
+    "explain": "单个及物动词的过去分词可以放在名词前作定语，表示被动或完成，如 a broken window（被打破的窗户）、suppressed numbers（被抑制的数量）。本句 suppressed numbers 相当于 numbers that were suppressed。现在分词作前置定语则表示主动或进行，如 a growing population。区分两者的关键是被修饰的名词是动作的承受者还是执行者。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Investigators recovered several deleted files from the laptop.",
+      "zh": "调查人员从这台笔记本电脑中恢复了几个已删除的文件。"
+     }
+    ]
+   },
+   {
+    "title": "the most + 形容词 + 复数名词",
+    "explain": "最高级后接复数名词，表示“最……的那些”，指符合条件的一组对象，而不是唯一的一个。本句 the most hazardous spots 指危险程度最高的那几个地点，视频译为“最危险的几个地点”。英语最高级前一般加 the，汉语翻译时可以用“几个”“那些”体现复数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The charity focuses on the most vulnerable families in the city.",
+      "zh": "这家慈善机构关注的是这座城市里最弱势的那些家庭。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "camera trap",
+    "explain": "视频说明：相机陷阱，自动拍摄的相机。它装在野外，动物经过时由感应装置触发自动拍照或录像，常用于野生动物调查。"
+   },
+   {
+    "term": "raccoon dog",
+    "explain": "视频说明：貉。它是犬科动物，外形和面部斑纹有点像浣熊（raccoon），但并不是浣熊。"
+   },
+   {
+    "term": "snap",
+    "explain": "熟词僻义：snap 常见义是“啪地折断”“厉声说”，在口语和新闻中还可指“抓拍，拍摄”，如 snap a photo；名词 snapshot 意为“快照”。本句主语是相机陷阱，snapped 视频译为“拍到了”。"
+   },
+   {
+    "term": "hazardous",
+    "explain": "“危险的，有害的”，常用于说明对健康或安全有危害的东西，如 hazardous waste（危险废物）、hazardous chemicals（危险化学品）。名词 hazard 意为“危险，危害”。"
+   }
+  ],
+  "translation_tip": "视频译文“2016年4月，相机陷阱在最危险的几个地点附近，拍到了狼、野猪和貉，没有迹象表明动物的数量被抑制。”的处理：①地点状语 near the most hazardous spots 前移到谓语之前，译为“在最危险的几个地点附近”，用逗号与后面隔开。②with no sign of 译成独立的分句“没有迹象表明”。③名词短语 suppressed numbers 转译成主谓结构“动物的数量被抑制”，补出“动物的”，过去分词的被动意义用“被”字体现。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The probable reason",
+   "predicate": "is",
+   "object_or_complement": "mundane",
+   "explain": "主干是 The probable reason is mundane，主系表结构，形容词 mundane 作表语；冒号后的名词短语对 reason 作具体说明。谓语 is 为一般现在时，陈述作者现在的判断；推断语气来自 probable（很可能的），不是来自时态。"
+  },
+  "components": [
+   {
+    "text": "The probable reason",
+    "role": "主语",
+    "zh": "可能的原因"
+   },
+   {
+    "text": "is",
+    "role": "系动词",
+    "zh": "（系动词，与 mundane 合译为“很平常”）"
+   },
+   {
+    "text": "mundane:",
+    "role": "表语（形容词）",
+    "zh": "很平常"
+   },
+   {
+    "text": "the absence of",
+    "role": "同位语（名词短语）的中心部分，解释 reason 的具体内容",
+    "zh": "没有"
+   },
+   {
+    "text": "agriculture, forestry, and hunting.",
+    "role": "介词 of 的宾语（三个并列名词）",
+    "zh": "农耕、伐木和狩猎"
+   }
+  ],
+  "structure": "①主干是 The probable reason is mundane，主系表结构。probable 意为“很可能的”，说明这是作者的推断，不是已经证实的结论。\n②冒号后的 the absence of agriculture, forestry, and hunting 是名词短语，作 reason 的同位语，具体说明这个“很平常”的原因是什么。视频说明 the absence of… 意为“没有……，缺乏……”。\n③agriculture, forestry, and hunting 是介词 of 的宾语，三个并列名词，and 前用了牛津逗号，代表三种主要的人类活动。\n④本句解释了第1句提出的反常现象：灾难之地为什么会有大量野生动物。作者推测，人类撤离后，农耕、伐木和狩猎都停止了，动物因而受到的干扰少了。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号常用来引出对前文的解释、说明或列举。冒号后面可以是一个完整的句子，也可以是名词短语。本句冒号后的 the absence of agriculture, forestry, and hunting 是名词短语，具体说明 reason 的内容，作用相当于同位语。考研阅读中，冒号后面往往是作者真正要表达的观点或答案，命题人常在这里设题；写作中也可以用冒号引出总结或例子。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town has one great advantage: its location near the sea.",
+      "zh": "这个小镇有一个很大的优势：靠近大海。"
+     }
+    ]
+   },
+   {
+    "title": "the absence of：用名词表达否定",
+    "explain": "英语常用 absence、lack、failure、refusal 等名词表达否定意义，如 the absence of evidence（缺乏证据）、in the absence of a deal（在没有达成协议的情况下）。这是英语名词化表达的特点，语气正式、简洁。翻译时通常把这类名词转译成动词或否定词，本句 the absence of 视频译为“没有”。其反义词是 presence，如 the presence of water（有水）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In the absence of clear rules, each school made its own decisions.",
+      "zh": "在没有明确规定的情况下，各所学校自行作出决定。"
+     },
+     {
+      "en": "The absence of street lights made the road dangerous at night.",
+      "zh": "这条路没有路灯，夜里很危险。"
+     }
+    ]
+   },
+   {
+    "title": "probable、possible 与 likely",
+    "explain": "三者都表示“可能的”，程度不同：possible 只表示有可能，可能性可大可小；probable 表示很可能，有较充分的理由；likely 意思接近 probable，但用法更灵活，可以说 sb/sth is likely to do，probable 不能这样用。It is probable that… 与 It is likely that… 都可以。本句 The probable reason 表明作者认为这是最可能的原因，但仍是推断。考研阅读中，这类词决定了作者态度的确定程度，做题时不能把推测当成定论。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Engineers say the most probable cause of the collapse was poor maintenance.",
+      "zh": "工程师们说，坍塌最可能的原因是维护不善。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mundane",
+    "explain": "“平常的，平淡无奇的”，常用来形容日常琐事，如 mundane tasks（日常琐事）。本句说原因“很平常”，与人们对辐射的想象形成对比：动物多不是因为辐射有什么特殊作用，而很可能只是人走了。"
+   },
+   {
+    "term": "forestry",
+    "explain": "林业，包括造林、管理和采伐森林。本句与 agriculture、hunting 并列，指人类在森林中的经营和采伐活动，视频译为“伐木”。"
+   },
+   {
+    "term": "agriculture",
+    "explain": "农业，泛指种植庄稼和饲养牲畜，本句视频译为“农耕”。形容词 agricultural（农业的）。"
+   }
+  ],
+  "translation_tip": "视频译文“可能的原因很平常：没有农耕、伐木和狩猎。”的处理：①系动词 is 不单独译出，表语 mundane 前增补程度副词“很”，译为“很平常”，符合汉语形容词作谓语的习惯。②保留冒号，冒号后的名词短语 the absence of… 转译为动词性的“没有……”，比“……的缺失”更简洁自然。③三个并列名词译为“农耕、伐木和狩猎”，用顿号和“和”连接。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Smaller organisms",
+   "predicate": "fared",
+   "object_or_complement": "",
+   "explain": "主干是 Smaller organisms fared，主谓结构；fare 在此是不及物动词，意为“过得，进展”，后面的副词比较级 worse 作方式状语。谓语 fared 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Smaller organisms",
+    "role": "主语（smaller 是比较级形容词作定语）",
+    "zh": "更小的生物"
+   },
+   {
+    "text": "fared",
+    "role": "谓语（不及物动词）",
+    "zh": "过得"
+   },
+   {
+    "text": "worse",
+    "role": "方式状语（副词比较级），修饰 fared",
+    "zh": "更差"
+   },
+   {
+    "text": "in some studies.",
+    "role": "范围状语（介词短语），说明结论出自哪些研究",
+    "zh": "在一些研究中"
+   }
+  ],
+  "structure": "①本句是简单句，主谓结构：Smaller organisms 作主语，fared 作谓语，worse 是副词 badly 的比较级，作方式状语，修饰 fared。视频说明：fare 意为“过得，进展”，fare worse 即“过得更差”。\n②Smaller 和 worse 都是比较级，比较对象没有写出，要从上文推断：与前两段提到的驼鹿、野猪、狼等大型动物相比，体型更小的生物情况更差。\n③in some studies 是状语，说明这一结论只来自一部分研究，语气有所保留。\n④本句是第四段的主题句，用比较级引出转折：前面讲动物多，这里开始讲辐射的代价，后面三句分别列举三项研究。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "fare 作不及物动词 + 副词",
+    "explain": "fare 作动词时是不及物动词，意为“（在某种情况下）过得，进展”，后面接副词说明结果的好坏：fare well / badly / better / worse。常与 how 连用提问，如 How did you fare in the exam?（你考得怎么样？）。因为 fare 是不及物动词，后面接的是副词 worse（badly 的比较级），不能用形容词。考研阅读中 fare 常出现在比较不同群体境况的句子里，如 Women fared better than men in the survey。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Small businesses fared worse than large firms during the recession.",
+      "zh": "经济衰退期间，小企业的处境比大公司更艰难。"
+     },
+     {
+      "en": "How did the new players fare in their first match?",
+      "zh": "新球员在第一场比赛中表现如何？"
+     }
+    ]
+   },
+   {
+    "title": "比较级省略比较对象",
+    "explain": "比较级的比较对象在上下文中清楚时，than 及其后面的部分常常省略。本句 Smaller organisms fared worse 没有写 than 短语，结合前文可知，比较的是前文提到的大型哺乳动物。阅读时要主动补出省略的比较对象，才能准确把握作者的逻辑；考研阅读的推理题常考这一点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The second edition is much easier to read.",
+      "zh": "第二版读起来容易得多。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fare",
+    "explain": "熟词僻义：fare 作名词常见义是“车费，船费”，如 bus fare；作动词意为“过得，进展”（视频说明），fare worse 即“过得更差”。告别用语 farewell（再见）就来自 fare well（过得好）。"
+   },
+   {
+    "term": "organism",
+    "explain": "视频说明：organism 指任何有生命的个体，也就是生物体或有机体，如人类（a human organism）、树木（a plant organism）、细菌（a single-celled organism，单细胞生物）。本句 smaller organisms 指体型较小的生物，如下文的鸟类、昆虫、蜘蛛。"
+   },
+   {
+    "term": "段落的转折",
+    "explain": "前三段讲大型动物数量多，本句用 Smaller 和 worse 两个比较级把话题转到辐射的负面影响上。考研阅读中，段首出现对比或转折，往往意味着作者要提出另一面的证据，下文的细节都为这一句服务。"
+   }
+  ],
+  "translation_tip": "视频译文“在一些研究中，更小的生物过得更差。”的处理：①状语 in some studies 从句末移到句首，译为“在一些研究中”，符合汉语状语前置的习惯。②两个比较级分别译为“更小的”和“更差”，比较对象原文没有写出，译文也不补，读者可以从上文领会。③fared worse 译为“过得更差”，保留 fare 原有的“过日子”的意味。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "One",
+   "predicate": "found",
+   "object_or_complement": "fewer nesting birds, and fewer species",
+   "explain": "主干是 One found fewer nesting birds, and fewer species，主谓宾结构，宾语是两个并列的名词短语。谓语 found 为一般过去时，主动语态；where 引导地点状语从句。"
+  },
+  "components": [
+   {
+    "text": "One,",
+    "role": "主语（代词，指一项研究）",
+    "zh": "一项研究"
+   },
+   {
+    "text": "in March 2007,",
+    "role": "时间状语（插入主语和谓语之间）",
+    "zh": "于2007年3月"
+   },
+   {
+    "text": "found",
+    "role": "谓语",
+    "zh": "发现了"
+   },
+   {
+    "text": "fewer nesting birds,",
+    "role": "宾语一（nesting 作前置定语）",
+    "zh": "更少的筑巢的鸟类"
+   },
+   {
+    "text": "and fewer species,",
+    "role": "并列连词 and + 宾语二",
+    "zh": "以及更少的种类"
+   },
+   {
+    "text": "where radiation was more intense.",
+    "role": "地点状语从句（where 引导），修饰谓语 found",
+    "zh": "在这里辐射更加强烈"
+   }
+  ],
+  "structure": "①视频说明：One 指一项研究。One 是代词，替代上句 in some studies 中的 study，即 one study；第13句的 Another、第14句的 A third 与它构成“一项……另一项……第三项……”的列举。\n②in March 2007 是时间状语，插在主语和谓语之间，用逗号隔开，交代这项研究的时间。\n③主干是 One found fewer nesting birds, and fewer species：两个并列宾语都用 fewer 修饰。and fewer species 前用逗号隔开，表示在“鸟少了”之外再补充一层：种类也少了。species 单复数同形，这里是复数。\n④where radiation was more intense 是 where 引导的地点状语从句，视频说明为“在……的地方”。where 前没有表示地点的先行词，所以不是定语从句；从句中 radiation 作主语，was 作系动词，more intense 作表语，比较级表示辐射越强的地方，鸟就越少。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "where 引导地点状语从句",
+    "explain": "where 可以引导地点状语从句，意为“在……的地方”，修饰主句谓语，相当于 in the place where 或 wherever。它与 where 引导的定语从句的区别是：定语从句前有表示地点的先行词（the town where I grew up），状语从句前没有先行词。本句 where radiation was more intense 前面是名词 species，但 species 不是地点，从句说明的是“在哪里发现鸟少”，所以是状语从句。从句中常用比较级，表示条件与结果同步变化，如 where exposure was greater（第13句）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Crops grew poorly where the soil had been heavily treated with chemicals.",
+      "zh": "在土壤被大量施用化学品的地方，庄稼长得很差。"
+     },
+     {
+      "en": "Where public transport is cheap and reliable, fewer people drive to work.",
+      "zh": "在公共交通便宜又可靠的地方，开车上班的人就少一些。"
+     }
+    ]
+   },
+   {
+    "title": "fewer 与 less",
+    "explain": "fewer 是 few 的比较级，修饰可数名词复数；less 是 little 的比较级，修饰不可数名词：fewer birds、fewer species、less water、less time。本句 birds 和 species 都是可数名词复数，所以用 fewer。考研写作中“更少的人”要写 fewer people，不要写 less people；第13句的 less plentiful 中 less 修饰的是形容词，表示“没那么……”，是另一种用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fewer students applied this year, and less money was available for scholarships.",
+      "zh": "今年申请的学生更少了，可用于奖学金的钱也更少了。"
+     }
+    ]
+   },
+   {
+    "title": "one / another / a third 列举",
+    "explain": "列举同类事物时，英语常用 one … another … a third …，表示“一个……另一个……第三个……”，如果只有两个则用 one … the other …。one、another 在这里是代词，替代前面提到的名词（本句替代 study），避免重复。本段的三项研究正是用 One、Another、A third 依次引出的。阅读时抓住这些词，可以迅速理清段落层次。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Three explanations have been offered. One blames the weather, another blames poor planning, and a third blames bad luck.",
+      "zh": "人们提出了三种解释：一种归咎于天气，另一种归咎于计划不周，第三种归咎于运气不好。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "nesting birds",
+    "explain": "筑巢的鸟类，指正在筑巢繁殖的鸟。nesting 是动词 nest（筑巢）的现在分词，作前置定语，表示主动和进行；常见搭配还有 nesting season（筑巢季节）、nesting sites（筑巢地点）。"
+   },
+   {
+    "term": "species",
+    "explain": "物种，种类，单复数同形：one species、many species，不要写成 specie。本句 fewer species 指鸟的种类更少，视频译为“更少的种类”。"
+   },
+   {
+    "term": "intense",
+    "explain": "视频说明：强烈的、极度集中的，如强光 intense light、剧痛 intense pain、激烈的竞争 intense competition。本句 radiation was more intense 指辐射更强，视频译为“辐射更加强烈”。"
+   }
+  ],
+  "translation_tip": "视频译文“一项研究于2007年3月发现了更少的筑巢的鸟类，以及更少的种类，在这里辐射更加强烈。”的处理：①代词 One 补全为“一项研究”。②插入的时间状语译为“于2007年3月”，紧跟在主语后，保留原文位置，“于”带书面色彩。③两个并列宾语按原顺序译出，and 译为“以及”，前后都用逗号，保留原文的停顿。④地点状语从句没有前移，而是放在句末单独成句，用“在这里”引出，交代这些现象出现的地点。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Another",
+   "predicate": "found",
+   "object_or_complement": "pollinators and spiders（宾语）less plentiful（宾语补足语）",
+   "explain": "主谓宾宾补结构：pollinators and spiders 是 found 的宾语，形容词短语 less plentiful 作宾语补足语。谓语 found 为一般过去时，主动语态；where 引导地点状语从句。"
+  },
+  "components": [
+   {
+    "text": "Another,",
+    "role": "主语（代词，指另一项研究）",
+    "zh": "另一项研究"
+   },
+   {
+    "text": "in March 2009,",
+    "role": "时间状语（插入主语和谓语之间）",
+    "zh": "于2009年3月"
+   },
+   {
+    "text": "found",
+    "role": "谓语",
+    "zh": "发现"
+   },
+   {
+    "text": "pollinators and spiders",
+    "role": "宾语（两个并列名词）",
+    "zh": "传粉昆虫和蜘蛛"
+   },
+   {
+    "text": "less plentiful",
+    "role": "宾语补足语（形容词短语，less 表示“没那么”）",
+    "zh": "没那么丰富/数量众多"
+   },
+   {
+    "text": "where exposure was greater.",
+    "role": "地点状语从句（where 引导），修饰谓语 found",
+    "zh": "在这些地方，辐射接触更大"
+   }
+  ],
+  "structure": "①Another 是代词，指另一项研究（another study），与上句的 One 和下句的 A third 构成列举。in March 2009 是插入的时间状语。\n②主干是 Another found pollinators and spiders less plentiful。视频说明：find A less plentiful 意为“发现 A 没那么多”，是复合宾语，pollinators and spiders 是宾语，less plentiful 是宾语补足语，两者之间是逻辑上的主表关系：传粉昆虫和蜘蛛没那么多。\n③where exposure was greater 是地点状语从句，结构与上句的 where radiation was more intense 相同：辐射接触越多的地方，传粉昆虫和蜘蛛越少。exposure 后省略了 to radiation，视频说明 exposure to radiation 即“受到辐射照射”。\n④本句和上句句式平行，都是“代词主语 + 插入的时间 + found + 结果 + where 从句”，便于读者对照。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "find + 宾语 + 形容词（复合宾语）",
+    "explain": "find、consider、make、keep、leave、think 等动词后可以接“宾语 + 形容词”构成复合宾语，形容词作宾语补足语，说明宾语的性质或状态。find + 宾语 + 形容词 意为“发现……是……的”，如 I found the book interesting。这种结构可以改写成 that 从句：found that pollinators and spiders were less plentiful。本句的宾补是 less plentiful。易错点：宾补位置要用形容词，不能用副词，不能说 found the book interestingly。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers found the water in several wells unsafe to drink.",
+      "zh": "研究人员发现，好几口井里的水不能安全饮用。"
+     },
+     {
+      "en": "Many readers found the new translation less elegant than the old one.",
+      "zh": "许多读者觉得新译本不如旧译本优美。"
+     }
+    ]
+   },
+   {
+    "title": "less + 形容词原级：劣势比较",
+    "explain": "less + 形容词/副词原级 表示“没那么……，不如……”，是 more + 原级 的反面，比较对象用 than 引出：less expensive than、less often than。单音节形容词也用这种形式，如 less hot。汉语翻译时常译成“没那么……”“不如……”，本句 less plentiful 视频译为“没那么丰富/数量众多”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Trains are often less convenient than cars in rural areas.",
+      "zh": "在农村地区，火车往往不如汽车方便。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pollinator",
+    "explain": "传粉者，指在花之间传播花粉、帮助植物授粉的动物，最常见的是蜜蜂、蝴蝶等昆虫，本句视频译为“传粉昆虫”。动词 pollinate（授粉），名词 pollen（花粉）。"
+   },
+   {
+    "term": "spider",
+    "explain": "蜘蛛。蜘蛛有八条腿，属于蛛形纲，不属于昆虫，所以原文把它与 pollinators（视频译为“传粉昆虫”）分开列出。"
+   },
+   {
+    "term": "exposure",
+    "explain": "视频说明：exposure 指“暴露”或“接触”，即毫无遮挡地处在某种环境（尤其是有害环境）中；exposure to radiation 就是“暴露于辐射中”，即受到辐射照射。本句 exposure was greater 承上省略了 to radiation，视频译为“辐射接触更大”。"
+   },
+   {
+    "term": "plentiful",
+    "explain": "“丰富的，大量的”，如 plentiful supplies（充足的供应）、Fish were plentiful in the river（河里鱼很多）。本句视频译为“丰富/数量众多”。"
+   }
+  ],
+  "translation_tip": "视频译文“另一项研究于2009年3月发现，传粉昆虫和蜘蛛没那么丰富/数量众多，在这些地方，辐射接触更大。”的处理：①Another 补全为“另一项研究”，时间状语紧跟在主语后，与上句译法一致。②found 后加逗号，把复合宾语译成主谓结构的小句“传粉昆虫和蜘蛛没那么丰富/数量众多”，less plentiful 译成“没那么……”。③地点状语从句放在句末单独译出，用“在这些地方”引出，exposure 补出“辐射”，译为“辐射接触更大”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "A third",
+   "predicate": "found",
+   "object_or_complement": "leaves（宾语）decomposing about 40 per cent less（宾语补足语）",
+   "explain": "主谓宾宾补结构：leaves 是 found 的宾语，现在分词短语 decomposing about 40 per cent less 作宾语补足语。谓语 found 为一般过去时，主动语态；句末现在分词短语 impeding… 作结果状语。"
+  },
+  "components": [
+   {
+    "text": "A third,",
+    "role": "主语（不定冠词 + 序数词，指第三项研究）",
+    "zh": "第三项研究"
+   },
+   {
+    "text": "in March 2014,",
+    "role": "时间状语（插入主语和谓语之间）",
+    "zh": "于2014年3月"
+   },
+   {
+    "text": "found",
+    "role": "谓语",
+    "zh": "发现"
+   },
+   {
+    "text": "leaves",
+    "role": "宾语",
+    "zh": "落叶"
+   },
+   {
+    "text": "decomposing",
+    "role": "宾语补足语（现在分词）",
+    "zh": "分解"
+   },
+   {
+    "text": "about 40 per cent less",
+    "role": "程度状语，在宾补内部修饰 decomposing",
+    "zh": "少了约40%"
+   },
+   {
+    "text": "at the most polluted sites,",
+    "role": "地点状语（介词短语）",
+    "zh": "在最严重被污染的地点"
+   },
+   {
+    "text": "impeding",
+    "role": "结果状语（现在分词短语）中的分词",
+    "zh": "阻碍了"
+   },
+   {
+    "text": "the return of nutrients to the soil.",
+    "role": "分词 impeding 的宾语（the return of A to B 结构）",
+    "zh": "养分回归土壤"
+   }
+  ],
+  "structure": "①A third 指第三项研究（a third study），与前两句的 One、Another 构成列举。in March 2014 是插入的时间状语。\n②主干是 A third found leaves decomposing…，视频说明 find sth doing 意为“发现……在怎样”。leaves 是宾语，现在分词 decomposing 作宾语补足语，about 40 per cent less 修饰 decomposing，说明分解的程度比正常情况少约40%。leaves 在这里指地上的落叶。\n③at the most polluted sites 是地点状语，most polluted 是最高级，指污染最严重的几个地点。\n④句末 impeding the return of nutrients to the soil 是现在分词短语，视频说明它作结果状语，表示落叶分解变慢带来的后果：落叶中的养分回不到土壤里。the return of A to B 意为“A 回到 B”，nutrients 是 A，the soil 是 B。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "不定冠词 + 序数词：又一个",
+    "explain": "序数词前一般用定冠词 the，表示顺序上确定的“第几个”，如 the third chapter。序数词前用不定冠词 a / an 时，表示“又一个，再一个”，不强调严格的排序，如 a second chance（再一次机会）、try a third time（再试一次）。本句 A third 承接 One、Another，意为“又一项，第三项研究”，视频译为“第三项研究”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After two failed attempts, the climbers decided to make a third.",
+      "zh": "两次尝试失败后，登山者们决定再试第三次。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语（逻辑上承接整个事件）",
+    "explain": "句末用逗号隔开的现在分词短语常表示前面情况造成的结果。这类分词有时不是只承接主句主语，而是承接前面描述的整个情况。本句 impeding the return of nutrients to the soil 的意思是“落叶分解变慢”阻碍了养分回归土壤，而不是“研究”阻碍了养分回归。翻译时一般译成后续分句，必要时可加“从而”“进而”。第2句的 dispersing radioactive fallout across Europe 也是结果状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Prices for imported goods rose sharply, pushing inflation to its highest level in a decade.",
+      "zh": "进口商品价格大幅上涨，把通货膨胀率推到了十年来的最高水平。"
+     },
+     {
+      "en": "The river burst its banks overnight, cutting off several villages.",
+      "zh": "河水一夜之间漫过河岸，使几个村庄与外界隔绝。"
+     }
+    ]
+   },
+   {
+    "title": "数量 + 比较级：表示差额",
+    "explain": "在比较级前加上表示数量或百分比的词，可以精确说明差额：about 40 per cent less（少了约40%）、three years older（大三岁）、twice as many 则表示倍数。也可以用 by 引出差额：fell by 40 per cent。本句 decomposing about 40 per cent less 表示分解量比正常情况少约40%，视频译为“少了约40%”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new engine uses about 20 per cent less fuel than the old one.",
+      "zh": "新发动机比旧发动机省油约20%。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the return of A to B",
+    "explain": "视频说明：A 回到 B。the return of nutrients to the soil 即“养分回归土壤”。动词形式是 return to，如 Nutrients return to the soil when leaves rot（树叶腐烂时养分回归土壤）。"
+   },
+   {
+    "term": "decompose",
+    "explain": "“分解，腐烂”，指动植物遗体在微生物等作用下分解，常用作不及物动词，如 Leaves decompose slowly in cold weather。名词 decomposition（分解），decomposer 指分解者（如细菌、真菌）。"
+   },
+   {
+    "term": "per cent",
+    "explain": "“百分之……”，英式英语常拼作两个词 per cent，美式英语多拼作 percent；符号是 %。40 per cent 视频译为“40%”。"
+   },
+   {
+    "term": "nutrient",
+    "explain": "养分，营养物质，常用复数 nutrients；植物生长需要从土壤中吸收养分，落叶分解后把养分还给土壤，形成循环。"
+   }
+  ],
+  "translation_tip": "视频译文“第三项研究于2014年3月发现，在最严重被污染的地点，落叶的分解少了约40%，阻碍了养分回归土壤。”的处理：①A third 译为“第三项研究”，时间状语紧跟其后，与前两句译法一致。②地点状语 at the most polluted sites 从后面前移，放在宾语之前，译为“在最严重被污染的地点”，先交代地点再说现象。③复合宾语 leaves decomposing about 40 per cent less 译成主谓结构“落叶的分解少了约40%”，动词 decomposing 转为名词“分解”。④结果状语 impeding… 译为后续分句“阻碍了养分回归土壤”，名词短语 the return of nutrients to the soil 转译为主谓结构“养分回归土壤”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Counting heads（分句一）；how much damage low but continual doses inflict（分句二，主语从句）",
+   "predicate": "cannot guarantee（分句一）；remains（分句二，系动词）",
+   "object_or_complement": "the health of individual animals（分句一的宾语）；contentious（分句二的表语）",
+   "explain": "本句是 and 连接的并列复合句。前一分句是主谓宾结构，动名词短语 Counting heads 作主语；后一分句是主系表结构，主语是 how much 引导的主语从句，remains 作系动词，contentious 作表语，句末 as 引导原因状语从句。谓语都是一般现在时。"
+  },
+  "components": [
+   {
+    "text": "Counting heads",
+    "role": "主语（动名词短语）",
+    "zh": "仅靠清点动物的数量"
+   },
+   {
+    "text": "cannot guarantee",
+    "role": "谓语（情态动词否定式 + 动词原形）",
+    "zh": "无法确保"
+   },
+   {
+    "text": "the health of individual animals,",
+    "role": "宾语",
+    "zh": "动物个体就是健康的"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "并且"
+   },
+   {
+    "text": "how much damage low but continual doses inflict",
+    "role": "主语从句（how much 引导，damage 是从句谓语 inflict 的宾语）",
+    "zh": "较低但是却一直持续的辐射剂量究竟会（对生物）造成多大伤害"
+   },
+   {
+    "text": "remains",
+    "role": "系动词",
+    "zh": "目前仍然"
+   },
+   {
+    "text": "contentious,",
+    "role": "表语（形容词）",
+    "zh": "存在争议"
+   },
+   {
+    "text": "as studies clash over methods.",
+    "role": "原因状语从句（as 引导）",
+    "zh": "因为各项研究在方法上存在冲突"
+   }
+  ],
+  "structure": "①全句由 and 连接两个分句。前一分句 Counting heads cannot guarantee the health of individual animals 中，动名词短语 Counting heads 作主语，cannot guarantee 作谓语，the health of individual animals 作宾语。视频说明：切尔诺贝利这里的动物数量比较多，不一定就说明这里的环境更加健康和适合这群动物。\n②后一分句的主语是 how much damage low but continual doses inflict。视频说明这是主语从句，damage 是 inflict 的宾语，提到了前面。从句用陈述语序：主语 low but continual doses，谓语 inflict，宾语 how much damage 放在从句开头。low but continual 是两个由 but 连接的形容词，共同修饰 doses。\n③主语从句较长，后面的谓语很短：remains 是系动词，contentious 是表语。视频说明 remain + 形容词 意为“仍然……”。\n④句末 as studies clash over methods 是 as 引导的原因状语从句，说明争议存在的原因。视频说明 clash over… 意为“在……上冲突”。\n⑤本段是全文的结论，作者提醒读者：动物数量多不等于辐射无害。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "how much 引导主语从句",
+    "explain": "how、what、why 等疑问词和连词 whether 可以引导主语从句，从句必须用陈述语序；主语从句作主语时，主句谓语动词一般用单数。how much + 名词 放在从句开头时，这个名词仍是从句中的成分，本句 damage 是 inflict 的宾语：低剂量造成 how much damage。还原成正常语序就是 low but continual doses inflict how much damage。主语从句较长时，英语常用 it 作形式主语后置，如 It remains contentious how much damage…；本句没有这样处理，主语很长、谓语很短，阅读时要找准主语从句的终点：动词 inflict 之后的 remains 才是主句谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "How much the new tax will raise is still unclear.",
+      "zh": "这项新税能带来多少收入目前尚不清楚。"
+     },
+     {
+      "en": "Whether the project can be finished on time depends on the weather.",
+      "zh": "项目能否按时完工取决于天气。"
+     }
+    ]
+   },
+   {
+    "title": "动名词短语作主语",
+    "explain": "动名词（doing）可以带宾语、状语构成动名词短语，作主语，谓语动词用单数。本句 Counting heads 意为“数头数”，即清点动物数量。动名词作主语表示一般性、抽象的行为；不定式作主语多用 it 作形式主语后置（It is difficult to count heads）。考研写作中用动名词作主语可以使句子简洁，如 Reading widely broadens one's horizons。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Raising the minimum wage cannot by itself solve the problem of poverty.",
+      "zh": "仅仅提高最低工资并不能解决贫困问题。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 remain + 形容词",
+    "explain": "remain 作系动词时意为“仍然是，保持”，后接形容词、名词或介词短语作表语，如 remain silent、remain a mystery、remain in doubt。它强调某种状态持续不变，常用于学术和新闻语体描述尚未解决的问题：The cause remains unknown、The question remains open。本句 remains contentious 即“仍然存在争议”。易错点：remain 作系动词时没有被动语态，表语不能用副词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The long-term effects of the drug remain unclear.",
+      "zh": "这种药物的长期影响仍不清楚。"
+     }
+    ]
+   },
+   {
+    "title": "as 引导原因状语从句",
+    "explain": "as 可以引导原因状语从句，意为“因为，由于”，表示的原因多是对方已知或比较明显的，语气比 because 弱。as 从句可以放在主句前，也可以放在句末。as 还能表示时间（当……时）、方式（像……一样）、让步（尽管）等，要根据上下文判断。本句 as studies clash over methods 说明争议存在的原因，视频译为“因为”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "As the museum was closed for repairs, the tour group visited the old harbour instead.",
+      "zh": "由于博物馆闭馆维修，旅游团改去参观了老港口。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "count heads",
+    "explain": "“清点人数（或动物数量）”，字面义是“数头数”，head 在这里作计数单位。牲畜计数时 head 单复数同形，如 fifty head of cattle（五十头牛）。本句 Counting heads 视频译为“仅靠清点动物的数量”，增补“仅靠”，突出只看数量是不够的。"
+   },
+   {
+    "term": "inflict damage (on sb/sth)",
+    "explain": "“（对……）造成损害”，inflict 常接 damage、harm、pain、suffering、losses 等不好的东西，受害对象用 on 引出。本句承上省略了受害对象，视频用括号补出“（对生物）”。"
+   },
+   {
+    "term": "dose",
+    "explain": "剂量，原指药物一次服用的量，也可指人或生物受到的辐射量。low but continual doses 指剂量较低但一直持续的辐射。"
+   },
+   {
+    "term": "clash over",
+    "explain": "视频说明：在……上冲突。clash 原指撞击的声音，引申为意见、利益的冲突，clash over sth 指在某个问题上发生冲突，clash with sb 指与某人冲突。本句指各项研究在研究方法上互相矛盾，得出的结论不一致。"
+   },
+   {
+    "term": "contentious",
+    "explain": "“有争议的，引起争论的”，如 a contentious issue（有争议的问题）。本句 remains contentious 视频译为“目前仍然存在争议”。"
+   }
+  ],
+  "translation_tip": "视频译文“仅靠清点动物的数量无法确保动物个体就是健康的；并且较低但是却一直持续的辐射剂量究竟会（对生物）造成多大伤害，目前仍然存在争议，因为各项研究在方法上存在冲突。”的处理：①Counting heads 意译为“清点动物的数量”，增补“仅靠”，点明只看数量的局限。②宾语 the health of individual animals 转译为小句“动物个体就是健康的”。③两个分句之间用分号，and 译为“并且”。④主语从句保留在前：“较低但是却一直持续的”译出 low but continual 的转折，增补“辐射”说明剂量的性质，增补“究竟”体现疑问语气，用括号补出受害对象“（对生物）”。⑤remains contentious 译为“目前仍然存在争议”，as 从句放在句末，译为“因为……”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The burgeoning herds（分句一）；the sluggish rot of fallen leaves（分句二）",
+   "predicate": "may trumpet（分句一）；keeps（分句二）",
+   "object_or_complement": "the dividend of human departure（分句一的宾语）；a quieter ledger of radiation's cost（分句二的宾语）",
+   "explain": "本句是 but 连接的并列句，两个分句都是主谓宾结构。前一分句的谓语 may trumpet 由情态动词 may 加动词原形构成，表示推测；后一分句的谓语 keeps 是一般现在时。两个分句都是拟人化的比喻。"
+  },
+  "components": [
+   {
+    "text": "The burgeoning herds",
+    "role": "主语（分句一，burgeoning 作前置定语）",
+    "zh": "迅速增长的兽群"
+   },
+   {
+    "text": "may trumpet",
+    "role": "谓语（情态动词 may + 动词原形，表示推测）",
+    "zh": "或许在宣扬"
+   },
+   {
+    "text": "the dividend of human departure,",
+    "role": "宾语（of 短语作 dividend 的后置定语）",
+    "zh": "人类离开所带来的红利"
+   },
+   {
+    "text": "but",
+    "role": "并列连词，表示转折",
+    "zh": "但"
+   },
+   {
+    "text": "the sluggish rot",
+    "role": "主语（分句二，sluggish 作前置定语）",
+    "zh": "迟缓的腐烂"
+   },
+   {
+    "text": "of fallen leaves",
+    "role": "后置定语（介词短语），修饰 rot",
+    "zh": "落叶"
+   },
+   {
+    "text": "keeps",
+    "role": "谓语（分句二）",
+    "zh": "记着"
+   },
+   {
+    "text": "a quieter ledger",
+    "role": "宾语（分句二）",
+    "zh": "一笔更安静的账"
+   },
+   {
+    "text": "of radiation's cost.",
+    "role": "后置定语（介词短语），修饰 ledger，说明账上记的内容",
+    "zh": "辐射的代价"
+   }
+  ],
+  "structure": "①全句由 but 连接两个主谓宾分句，前后对比，是全文的收尾句。\n②前一分句 The burgeoning herds may trumpet the dividend of human departure：burgeoning 意为“迅速增长的”，修饰 herds；may trumpet 表示推测。视频说明 trumpet 意为“大肆宣扬”，与后面的 quieter 对比；the dividend of… 意为“……带来的红利”，human departure 指人类离开，红利即动物因人类撤离而得到的好处。\n③后一分句 the sluggish rot of fallen leaves keeps a quieter ledger of radiation's cost：主语中心词是 rot（腐烂），sluggish 作前置定语，of fallen leaves 作后置定语；keeps 作谓语，a quieter ledger 作宾语，of radiation's cost 说明账上记的是什么。视频说明 keep a ledger of… 意为“记下……的账”，这里比喻记录代价。\n④两个分句都用了拟人：兽群像在吹号宣扬（trumpet 的名词义是“小号”），落叶像在默默记账。quieter 与 trumpet 一响一静形成对比：动物数量多一眼就能看到，辐射的代价藏在落叶分解变慢这样不起眼的地方。fallen leaves 和 sluggish rot 回扣第14句落叶分解少了约40%的研究。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "may …, but …：先让步后转折",
+    "explain": "情态动词 may 表示可能性，“或许，可能”。may 用在前一分句、后面接 but 时，常构成“先让步、后转折”的结构：前一分句承认某一面的事实或看法，后一分句说出作者真正强调的观点，意思相当于“虽然……可能……，但是……”。本句前一分句承认兽群增长显示了人类离开的好处，后一分句强调辐射的代价。考研阅读中，这种结构的重点在 but 之后，作者态度题和主旨题常据此设题。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy may please voters in the short term, but it will burden the next generation with debt.",
+      "zh": "新政策或许能在短期内讨好选民，但它会让下一代背上债务。"
+     },
+     {
+      "en": "Online courses may be cheap and flexible, but they cannot fully replace face-to-face teaching.",
+      "zh": "网络课程或许便宜又灵活，但无法完全取代面对面的教学。"
+     }
+    ]
+   },
+   {
+    "title": "不及物动词的过去分词作定语：表示完成",
+    "explain": "及物动词的过去分词作定语表示被动，不及物动词的过去分词作定语则表示动作已经完成，没有被动意义。fall 是不及物动词，fallen leaves 意为“已经落下的叶子”，即落叶。类似的有 retired workers（退休工人）、a grown man（成年男子）、escaped prisoners（越狱的犯人）、vanished civilizations（已经消失的文明）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Volunteers cleared fallen branches from the path after the storm.",
+      "zh": "暴风雨过后，志愿者们清理了小路上掉落的树枝。"
+     }
+    ]
+   },
+   {
+    "title": "拟人化的比喻",
+    "explain": "本句用“人”的动作描写动物和落叶：trumpet 原义是“吹小号”，引申为“大肆宣扬”；keep a ledger 原义是“记账”。主语都不是人，却发出人的动作，这是拟人。英文报刊常在段尾或文末用这类修辞，使抽象结论更形象。阅读时要从比喻义理解：兽群数量多，好比在高调宣扬人类撤离带来的好处；落叶分解缓慢，好比在悄悄记录辐射造成的损失。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising sea levels quietly rewrite the map of the coast every year.",
+      "zh": "不断上升的海平面每年都在悄悄改写海岸线的地图。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "trumpet",
+    "explain": "视频说明：大肆宣扬，与后面的 quieter 对比。trumpet 作名词是“小号”，作动词指像吹号一样高声宣告，常含高调炫耀的意味，如 trumpet one's achievements（大肆宣扬自己的成就）。"
+   },
+   {
+    "term": "dividend",
+    "explain": "视频说明：the dividend of… 意为“……带来的红利”。dividend 本义是“股息，红利”，引申为某种行为带来的好处，如 peace dividend（和平红利）、demographic dividend（人口红利）。pay dividends 意为“带来好处，产生回报”。"
+   },
+   {
+    "term": "keep a ledger of",
+    "explain": "视频说明：记下……的账，这里比喻记录代价。ledger 是账本、分类账，keep a ledger 即记账。"
+   },
+   {
+    "term": "human departure",
+    "explain": "名词化表达，相当于 humans' departure 或 the departure of humans，即人类离开。名词 human 作定语表示“人类的”。"
+   },
+   {
+    "term": "radiation's cost",
+    "explain": "名词所有格一般用于人和动物，也常用于时间、地点、机构以及拟人化的事物。radiation's cost 即 the cost of radiation，辐射的代价。"
+   }
+  ],
+  "translation_tip": "视频译文“迅速增长的兽群或许在宣扬人类离开所带来的红利，但落叶迟缓的腐烂，记着一笔更安静的账：辐射的代价。”的处理：①may 译为“或许”，trumpet 前加“在”，表示这种“宣扬”是正在呈现的状态。②the dividend of human departure 中 of 表示来源，译为“人类离开所带来的红利”，增补“所带来的”把关系说清楚。③the sluggish rot of fallen leaves 的后置定语 of fallen leaves 前移，译为“落叶迟缓的腐烂”，后面加逗号停顿。④a quieter ledger of radiation's cost 拆成两部分：先译“一笔更安静的账”，再用冒号引出账的内容“辐射的代价”，保留了原文记账的比喻，也让结尾落在“代价”上。"
+ }
+]

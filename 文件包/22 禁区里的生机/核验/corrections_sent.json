@@ -1,0 +1,72 @@
+[
+ {
+  "key": 4,
+  "field": "grammar.0.explain",
+  "before": "radius、diameter 没有对应的形容词，只能用 in radius、in diameter 或 with a radius of。",
+  "after": "radius、diameter 没有像 long、high、deep 那样可以直接放在数量后面表示尺寸的形容词，只能用 in radius、in diameter 或 with a radius of。",
+  "reason": "radius 有形容词 radial，说“没有对应的形容词”不准确；准确的说法是没有可直接放在数量后表示尺寸的形容词。"
+ },
+ {
+  "key": 7,
+  "field": "structure",
+  "before": "Earlier 是比较级，意思是比上一句2015年的研究更早。",
+  "after": "Earlier 是比较级，意思是比第5句介绍的2015年那项研究更早。",
+  "reason": "2015年的研究出现在第5句，不是上一句（第6句）。"
+ },
+ {
+  "key": 7,
+  "field": "grammar.1.explain",
+  "before": "本句 Earlier helicopter counts 相对于上一句2015年的研究而言",
+  "after": "本句 Earlier helicopter counts 相对于第5、6句介绍的2015年那项研究而言",
+  "reason": "2015年的研究在第5句提出、第6句给出结果，指代要准确。"
+ },
+ {
+  "key": 7,
+  "field": "grammar.2.explain",
+  "before": "这类复合词只作定语，不能作表语。",
+  "after": "这类复合词一般只作前置定语，很少作表语。",
+  "reason": "post-war 等词词典标注为 usually before noun，说“不能作表语”过于绝对。"
+ },
+ {
+  "key": 8,
+  "field": "structure",
+  "before": "动物密度与未受污染的保护区相当、狼的数量多出七倍以上、灾后十年兽类数量激增。",
+  "after": "动物密度与未受污染的保护区相当、狼的数量是那些保护区的七倍多、灾后十年兽类数量激增。",
+  "reason": "原文 over seven times as numerous 是“七倍多”，写成“多出七倍以上”是常见的倍数误译（多出七倍即八倍），与视频译文“七倍之多”不一致。"
+ },
+ {
+  "key": 10,
+  "field": "trunk.explain",
+  "before": "谓语 is 为一般现在时，表达作者对原因的推断。",
+  "after": "谓语 is 为一般现在时，陈述作者现在的判断；推断语气来自 probable（很可能的），不是来自时态。",
+  "reason": "一般现在时本身不表示推断，推测意味来自 probable，原说法把时态和情态混为一谈。"
+ },
+ {
+  "key": 12,
+  "field": "structure",
+  "before": "交代这项研究发表的时间。",
+  "after": "交代这项研究的时间。",
+  "reason": "原文只说 in March 2007，没有说是发表时间，讲解不能把推断写成确定事实。"
+ },
+ {
+  "key": 13,
+  "field": "knowledge.1.explain",
+  "before": "不属于昆虫，所以原文把 pollinators 和 spiders 并列。",
+  "after": "不属于昆虫，所以原文把它与 pollinators（视频译为“传粉昆虫”）分开列出。",
+  "reason": "原因与结论的逻辑不对：蜘蛛不是昆虫，所以单独列出，而不是“所以并列”。"
+ },
+ {
+  "key": 15,
+  "field": "grammar.0.explain",
+  "before": "how、what、whether、why 等疑问词可以引导主语从句，从句必须用陈述语序，谓语动词用单数。",
+  "after": "how、what、why 等疑问词和连词 whether 可以引导主语从句，从句必须用陈述语序；主语从句作主语时，主句谓语动词一般用单数。",
+  "reason": "whether 是连词，不是疑问词；“谓语动词用单数”指的是主句谓语，原文表述含糊，容易误解为从句谓语。"
+ },
+ {
+  "key": 16,
+  "field": "grammar.1.explain",
+  "before": "escaped prisoners（越狱的犯人）、risen prices（已经上涨的物价）。",
+  "after": "escaped prisoners（越狱的犯人）、vanished civilizations（已经消失的文明）。",
+  "reason": "risen prices 不是地道搭配，换成不及物动词过去分词作定语的常见例子 vanished civilizations。"
+ }
+]
