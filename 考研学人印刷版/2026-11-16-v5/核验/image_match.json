@@ -1,0 +1,562 @@
+[
+ {
+  "book": "01",
+  "expected_video": "02",
+  "score_expected": 2.2,
+  "best_video": "02",
+  "best_score": 2.2,
+  "second_best": 39.8
+ },
+ {
+  "book": "02",
+  "expected_video": "05",
+  "score_expected": 2.1,
+  "best_video": "05",
+  "best_score": 2.1,
+  "second_best": 35.6
+ },
+ {
+  "book": "03",
+  "expected_video": "01",
+  "score_expected": 1.6,
+  "best_video": "01",
+  "best_score": 1.6,
+  "second_best": 27.5
+ },
+ {
+  "book": "04",
+  "expected_video": "11",
+  "score_expected": 1.9,
+  "best_video": "11",
+  "best_score": 1.9,
+  "second_best": 33.7
+ },
+ {
+  "book": "05",
+  "expected_video": "03",
+  "score_expected": 2.0,
+  "best_video": "03",
+  "best_score": 2.0,
+  "second_best": 32.6
+ },
+ {
+  "book": "06",
+  "expected_video": "04",
+  "score_expected": 3.3,
+  "best_video": "04",
+  "best_score": 3.3,
+  "second_best": 33.4
+ },
+ {
+  "book": "07",
+  "expected_video": "06",
+  "score_expected": 2.0,
+  "best_video": "06",
+  "best_score": 2.0,
+  "second_best": 37.5
+ },
+ {
+  "book": "08",
+  "expected_video": "10",
+  "score_expected": 2.2,
+  "best_video": "10",
+  "best_score": 2.2,
+  "second_best": 38.4
+ },
+ {
+  "book": "09",
+  "expected_video": "12",
+  "score_expected": 1.8,
+  "best_video": "12",
+  "best_score": 1.8,
+  "second_best": 37.4
+ },
+ {
+  "book": "10",
+  "expected_video": "07",
+  "score_expected": 1.7,
+  "best_video": "07",
+  "best_score": 1.7,
+  "second_best": 36.1
+ },
+ {
+  "book": "11",
+  "expected_video": "08",
+  "score_expected": 5.0,
+  "best_video": "08",
+  "best_score": 5.0,
+  "second_best": 38.8
+ },
+ {
+  "book": "12",
+  "expected_video": "13",
+  "score_expected": 2.1,
+  "best_video": "13",
+  "best_score": 2.1,
+  "second_best": 38.1
+ },
+ {
+  "book": "13",
+  "expected_video": "09",
+  "score_expected": 2.2,
+  "best_video": "09",
+  "best_score": 2.2,
+  "second_best": 46.0
+ },
+ {
+  "book": "14",
+  "expected_video": "14",
+  "score_expected": 1.8,
+  "best_video": "14",
+  "best_score": 1.8,
+  "second_best": 35.6
+ },
+ {
+  "book": "15",
+  "expected_video": "15",
+  "score_expected": 2.4,
+  "best_video": "15",
+  "best_score": 2.4,
+  "second_best": 33.8
+ },
+ {
+  "book": "16",
+  "expected_video": "16",
+  "score_expected": 1.8,
+  "best_video": "16",
+  "best_score": 1.8,
+  "second_best": 38.6
+ },
+ {
+  "book": "17",
+  "expected_video": "17",
+  "score_expected": 1.8,
+  "best_video": "17",
+  "best_score": 1.8,
+  "second_best": 34.8
+ },
+ {
+  "book": "18",
+  "expected_video": "18",
+  "score_expected": 1.7,
+  "best_video": "18",
+  "best_score": 1.7,
+  "second_best": 34.7
+ },
+ {
+  "book": "19",
+  "expected_video": "19",
+  "score_expected": 2.0,
+  "best_video": "19",
+  "best_score": 2.0,
+  "second_best": 40.0
+ },
+ {
+  "book": "20",
+  "expected_video": "20",
+  "score_expected": 1.9,
+  "best_video": "20",
+  "best_score": 1.9,
+  "second_best": 29.8
+ },
+ {
+  "book": "21",
+  "expected_video": "21",
+  "score_expected": 1.8,
+  "best_video": "21",
+  "best_score": 1.8,
+  "second_best": 29.9
+ },
+ {
+  "book": "22",
+  "expected_video": "22",
+  "score_expected": 7.2,
+  "best_video": "22",
+  "best_score": 7.2,
+  "second_best": 33.6
+ },
+ {
+  "book": "23",
+  "expected_video": "23",
+  "score_expected": 2.0,
+  "best_video": "23",
+  "best_score": 2.0,
+  "second_best": 32.7
+ },
+ {
+  "book": "24",
+  "expected_video": "24",
+  "score_expected": 2.3,
+  "best_video": "24",
+  "best_score": 2.3,
+  "second_best": 39.5
+ },
+ {
+  "book": "25",
+  "expected_video": "25",
+  "score_expected": 2.3,
+  "best_video": "25",
+  "best_score": 2.3,
+  "second_best": 43.5
+ },
+ {
+  "book": "26",
+  "expected_video": "26",
+  "score_expected": 1.9,
+  "best_video": "26",
+  "best_score": 1.9,
+  "second_best": 32.3
+ },
+ {
+  "book": "27",
+  "expected_video": "27",
+  "score_expected": 2.4,
+  "best_video": "27",
+  "best_score": 2.4,
+  "second_best": 41.7
+ },
+ {
+  "book": "28",
+  "expected_video": "28",
+  "score_expected": 2.1,
+  "best_video": "28",
+  "best_score": 2.1,
+  "second_best": 36.7
+ },
+ {
+  "book": "29",
+  "expected_video": "29",
+  "score_expected": 2.0,
+  "best_video": "29",
+  "best_score": 2.0,
+  "second_best": 35.0
+ },
+ {
+  "book": "30",
+  "expected_video": "30",
+  "score_expected": 2.3,
+  "best_video": "30",
+  "best_score": 2.3,
+  "second_best": 38.3
+ },
+ {
+  "book": "31",
+  "expected_video": "31",
+  "score_expected": 1.9,
+  "best_video": "31",
+  "best_score": 1.9,
+  "second_best": 32.9
+ },
+ {
+  "book": "32",
+  "expected_video": "32",
+  "score_expected": 2.6,
+  "best_video": "32",
+  "best_score": 2.6,
+  "second_best": 33.1
+ },
+ {
+  "book": "33",
+  "expected_video": "33",
+  "score_expected": 2.0,
+  "best_video": "33",
+  "best_score": 2.0,
+  "second_best": 39.7
+ },
+ {
+  "book": "34",
+  "expected_video": "34",
+  "score_expected": 6.4,
+  "best_video": "34",
+  "best_score": 6.4,
+  "second_best": 36.3
+ },
+ {
+  "book": "35",
+  "expected_video": "35",
+  "score_expected": 2.0,
+  "best_video": "35",
+  "best_score": 2.0,
+  "second_best": 33.5
+ },
+ {
+  "book": "36",
+  "expected_video": "36",
+  "score_expected": 1.8,
+  "best_video": "36",
+  "best_score": 1.8,
+  "second_best": 36.1
+ },
+ {
+  "book": "37",
+  "expected_video": "37",
+  "score_expected": 2.1,
+  "best_video": "37",
+  "best_score": 2.1,
+  "second_best": 36.3
+ },
+ {
+  "book": "38",
+  "expected_video": "38",
+  "score_expected": 2.2,
+  "best_video": "38",
+  "best_score": 2.2,
+  "second_best": 45.8
+ },
+ {
+  "book": "39",
+  "expected_video": "39",
+  "score_expected": 2.1,
+  "best_video": "39",
+  "best_score": 2.1,
+  "second_best": 36.8
+ },
+ {
+  "book": "40",
+  "expected_video": "40",
+  "score_expected": 5.8,
+  "best_video": "40",
+  "best_score": 5.8,
+  "second_best": 43.6
+ },
+ {
+  "book": "41",
+  "expected_video": "41",
+  "score_expected": 1.8,
+  "best_video": "41",
+  "best_score": 1.8,
+  "second_best": 29.7
+ },
+ {
+  "book": "42",
+  "expected_video": "42",
+  "score_expected": 2.4,
+  "best_video": "42",
+  "best_score": 2.4,
+  "second_best": 39.8
+ },
+ {
+  "book": "43",
+  "expected_video": "43",
+  "score_expected": 5.3,
+  "best_video": "43",
+  "best_score": 5.3,
+  "second_best": 35.8
+ },
+ {
+  "book": "44",
+  "expected_video": "44",
+  "score_expected": 2.4,
+  "best_video": "44",
+  "best_score": 2.4,
+  "second_best": 43.2
+ },
+ {
+  "book": "45",
+  "expected_video": "45",
+  "score_expected": 2.4,
+  "best_video": "45",
+  "best_score": 2.4,
+  "second_best": 37.3
+ },
+ {
+  "book": "46",
+  "expected_video": "46",
+  "score_expected": 8.3,
+  "best_video": "46",
+  "best_score": 8.3,
+  "second_best": 37.1
+ },
+ {
+  "book": "47",
+  "expected_video": "47",
+  "score_expected": 2.0,
+  "best_video": "47",
+  "best_score": 2.0,
+  "second_best": 36.7
+ },
+ {
+  "book": "48",
+  "expected_video": "48",
+  "score_expected": 1.3,
+  "best_video": "48",
+  "best_score": 1.3,
+  "second_best": 30.5
+ },
+ {
+  "book": "49",
+  "expected_video": "49",
+  "score_expected": 2.0,
+  "best_video": "49",
+  "best_score": 2.0,
+  "second_best": 34.6
+ },
+ {
+  "book": "50",
+  "expected_video": "50",
+  "score_expected": 2.1,
+  "best_video": "50",
+  "best_score": 2.1,
+  "second_best": 45.0
+ },
+ {
+  "book": "51",
+  "expected_video": "51",
+  "score_expected": 2.6,
+  "best_video": "51",
+  "best_score": 2.6,
+  "second_best": 34.6
+ },
+ {
+  "book": "52",
+  "expected_video": "52",
+  "score_expected": 6.8,
+  "best_video": "52",
+  "best_score": 6.8,
+  "second_best": 29.4
+ },
+ {
+  "book": "53",
+  "expected_video": "53",
+  "score_expected": 1.7,
+  "best_video": "53",
+  "best_score": 1.7,
+  "second_best": 32.2
+ },
+ {
+  "book": "54",
+  "expected_video": "54",
+  "score_expected": 6.4,
+  "best_video": "54",
+  "best_score": 6.4,
+  "second_best": 32.4
+ },
+ {
+  "book": "55",
+  "expected_video": "55",
+  "score_expected": 2.1,
+  "best_video": "55",
+  "best_score": 2.1,
+  "second_best": 39.7
+ },
+ {
+  "book": "56",
+  "expected_video": "56",
+  "score_expected": 2.0,
+  "best_video": "56",
+  "best_score": 2.0,
+  "second_best": 39.6
+ },
+ {
+  "book": "57",
+  "expected_video": "57",
+  "score_expected": 1.9,
+  "best_video": "57",
+  "best_score": 1.9,
+  "second_best": 35.1
+ },
+ {
+  "book": "58",
+  "expected_video": "58",
+  "score_expected": 2.4,
+  "best_video": "58",
+  "best_score": 2.4,
+  "second_best": 39.6
+ },
+ {
+  "book": "59",
+  "expected_video": "59",
+  "score_expected": 1.6,
+  "best_video": "59",
+  "best_score": 1.6,
+  "second_best": 28.4
+ },
+ {
+  "book": "60",
+  "expected_video": "60",
+  "score_expected": 1.6,
+  "best_video": "60",
+  "best_score": 1.6,
+  "second_best": 33.0
+ },
+ {
+  "book": "61",
+  "expected_video": "61",
+  "score_expected": 1.6,
+  "best_video": "61",
+  "best_score": 1.6,
+  "second_best": 28.4
+ },
+ {
+  "book": "62",
+  "expected_video": "62",
+  "score_expected": 2.4,
+  "best_video": "62",
+  "best_score": 2.4,
+  "second_best": 41.2
+ },
+ {
+  "book": "63",
+  "expected_video": "63",
+  "score_expected": 2.2,
+  "best_video": "63",
+  "best_score": 2.2,
+  "second_best": 34.1
+ },
+ {
+  "book": "64",
+  "expected_video": "64",
+  "score_expected": 1.9,
+  "best_video": "64",
+  "best_score": 1.9,
+  "second_best": 33.5
+ },
+ {
+  "book": "65",
+  "expected_video": "65",
+  "score_expected": 2.0,
+  "best_video": "65",
+  "best_score": 2.0,
+  "second_best": 38.1
+ },
+ {
+  "book": "66",
+  "expected_video": "66",
+  "score_expected": 1.4,
+  "best_video": "66",
+  "best_score": 1.4,
+  "second_best": 34.7
+ },
+ {
+  "book": "67",
+  "expected_video": "67",
+  "score_expected": 2.2,
+  "best_video": "67",
+  "best_score": 2.2,
+  "second_best": 36.7
+ },
+ {
+  "book": "68",
+  "expected_video": "68",
+  "score_expected": 1.9,
+  "best_video": "68",
+  "best_score": 1.9,
+  "second_best": 36.5
+ },
+ {
+  "book": "69",
+  "expected_video": "69",
+  "score_expected": 1.8,
+  "best_video": "69",
+  "best_score": 1.8,
+  "second_best": 34.3
+ },
+ {
+  "book": "70",
+  "expected_video": "70",
+  "score_expected": 1.8,
+  "best_video": "70",
+  "best_score": 1.8,
+  "second_best": 31.8
+ }
+]
