@@ -1,0 +1,43 @@
+第68篇 出片前核查：
+✔ 踩坑核查（核查程序自检、踩坑对照记录、逐条程序核查、换行比对）
+✔ 数字读法、引号自检（A11/A37/A17：年份、年代、日期、时刻、小数读法；引号不读、撇号保留）
+✔ 数字读法清单（请人工逐个确认读法）
+              1936  →  In nineteen thirty-six the colossa
+                17  →  enburg made 17 Atlantic ro
+                 3  →  rankfurt on the third of May nineteen thirty-seven.
+             1937.  →  rt on the third of May nineteen thirty-seven.
+              7:25  →  At about seven twenty-five PM on the sixth of May
+                 6  →   seven twenty-five PM on the sixth of May, flames
+                97  →  Of the 97 aboard, 62 
+                62  →   97 aboard, 62 survived, a
+                35  →  minority of 35 died, as di
+       14-year-old  →  A 14-year-old cabin boy w
+              1933  →  The nineteen thirty-three crash of US
+                73  →  kron killed 73 yet won les
+                 6  →  ad begun on the sixth of May nineteen thirty-six, e
+             1936,  →  un on the sixth of May nineteen thirty-six, exactly a y
+✔ 引号不停顿（A17）：0 句带引号，配音时都不读引号
+✔ A19 自检：In 1936 the colossal Hindenbur… 原样 0.000s（不报）、插入假吸气声 0.185s（必须报）
+✔ 标点停顿核对（A9/A10：停顿时长、不切词；A19：停顿后不留吸气声）
+✔ 句首句尾核对 自检：68 S1 原剪点 0.020s 不报；挪进起音 10 ms（0.045s）报出；句尾原样不报，剪进听得见的词尾 20 ms 并淡出报出
+✔ 句首句尾核对（clean_tail 修剪掉的部分没有剪到词：基准本句最响 5 ms 帧；剪掉的能听见的声音不得与词相连，句尾不得剪掉能听见的声音）
+✔ 读音核对 自检：68 把 colossal 的重音挪成 /kˈəlɔsəl/报出；关掉读音改正（Akron、Zeppelin）报出；去掉多音词核对记录（68 S8 minute）报出；登记的不是罗马数字只放那一个词组报出；“King Francis I.”没转成序数词报出；“Lascaux II/IV”读基数词、没登记的“Montignac II”照报报出；“6 and 9 August”两个日子都读序数（单个“6 January”照旧）报出；“7:25 pm”带空格也读成 seven twenty-five PM报出
+✔ 读音核对（A23：每个词的读音与独立发音词典一致；人名、地名、机构名、缩写逐个查证权威读音）
+✔ 词尾辅音核对 自检：68 原样 5 处全部合格；逐处把除阻换成静音、压低 20 dB，共 10 次全部报出
+✔ 词尾辅音核对（A21：停顿前和句末的词尾 t/k 听得清除阻，2 kHz 以上 ≥ -36 dB；/p/ 全频 ≥ -33 dB）
+    
+    参考 68 S9 第1个标点 ɐbˈɔːɹd（浊塞音，不判）没有除阻  ← 偏弱，需试听：剪成试听交用户确认
+    参考 68 S18 第1个标点 sˈaʊɚd（浊塞音，不判）没有除阻  ← 偏弱，需试听：剪成试听交用户确认
+    → 浊塞音偏弱处不判，但要剪成试听交用户确认（01 两处用户已确认）
+✔ 停顿位置核对（A9/A15：停顿正好落在标点处两个词之间）
+    68 S9 OK（已用实际声音核实） 插入 「aboard, | 62」 段长比 前 0.90 后 1.12 ｜ 前词末音素起 1.426s 后词开头 1.636s ｜ 停顿 1.465–1.465s（离前词末音素起点 +39 ms，离后词 +171 ms）对齐代价 1.90
+    68 S18 OK（已用实际声音核实） 插入 「withdrawn, | later」 段长比 前 1.09 后 0.77 ｜ 前词末音素起 3.773s 后词开头 3.898s ｜ 停顿 3.865–3.865s（离前词末音素起点 +92 ms，离后词 +33 ms）对齐代价 1.66
+✔ 词头渐强核对 自检：通过（10 ms 擦音被 15 ms 渐强吃掉必抓；90 ms、22 ms 擦音配 8 ms 交界渐强、5 ms 擦音残尾、直接元音必放）
+✔ 词头渐强核对（K131：停顿后的短辅音不被渐强吃掉）
+    68 OK S18 raw 3.9250 切点后没有辅音（直接元音或静音）
+68 词头渐强核对 问题数 0
+✔ 无标点停顿核对 自检：68 S1 原样不报、插入 0.25 秒静音报出（A4）；0.18+碎声+0.17 秒报出（K146，不并碎声时不报）、中间是真辅音不报、碎声贴着词不报
+✔ 无标点处停顿 ≤ 0.22 秒
+✔ 音频体检 自检：8 项各造一种毛病全部报出、原样不误报
+✔ 音频体检（与 01–24 最差比）：音频体检 8 项：超过 01–24 最差的 0 处
+全部通过

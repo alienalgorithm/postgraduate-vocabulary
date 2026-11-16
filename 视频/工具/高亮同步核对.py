@@ -120,7 +120,7 @@ for no in sys.argv[1:]:
             ref['乙'] = a0 + mpb[min(len(mpb) - 1, onset_frame(cat, bnd[ci]))] / 100
             j = js[ci]; i = j - 1
             while i >= 0 and toks[i].phoneme in 'ˈˌ': i -= 1
-            punct = bool(re.search(r'[,;:]$', texts[ci - 1]))
+            punct = bool(re.search(r'[,;:]$', texts[ci - 1])) and (len(' '.join(texts[:ci])) - 1) not in SYNTH_DEL.get(sent, ())   # G57b：合成时删掉的 and 后逗号处没有停顿
             t_ = toks[i].start if not punct and i >= 0 and toks[i].phoneme == ' ' else toks[j].start
             ref['甲'] = a0 + mpa[min(len(mpa) - 1, int(round(t_ * 100)))] / 100
             key = f'S{si + 1} 第{ci + 1}块'; cf = conf.get(key)

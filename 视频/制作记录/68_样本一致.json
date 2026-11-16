@@ -1,0 +1,270 @@
+{
+ "S1": {
+  "old": [
+   3.05,
+   11.145
+  ],
+  "new": [
+   3.05,
+   11.145
+  ],
+  "samples_old": 194280,
+  "samples_new": 194280,
+  "identical": true
+ },
+ "S2": {
+  "old": [
+   12.145,
+   16.785
+  ],
+  "new": [
+   12.145,
+   16.385
+  ],
+  "samples_old": 111360,
+  "samples_new": 101760,
+  "identical": false
+ },
+ "S3": {
+  "old": [
+   17.785,
+   23.21
+  ],
+  "new": [
+   17.385,
+   22.81
+  ],
+  "samples_old": 130200,
+  "samples_new": 130200,
+  "identical": true
+ },
+ "S4": {
+  "old": [
+   24.21,
+   30.005
+  ],
+  "new": [
+   23.81,
+   29.605
+  ],
+  "samples_old": 139080,
+  "samples_new": 139080,
+  "identical": true
+ },
+ "S5": {
+  "old": [
+   31.205,
+   35.315
+  ],
+  "new": [
+   30.805,
+   34.915
+  ],
+  "samples_old": 98640,
+  "samples_new": 98640,
+  "identical": true
+ },
+ "S6": {
+  "old": [
+   36.315,
+   45.245
+  ],
+  "new": [
+   35.915,
+   44.845
+  ],
+  "samples_old": 214320,
+  "samples_new": 214320,
+  "identical": true
+ },
+ "S7": {
+  "old": [
+   46.245,
+   51.635
+  ],
+  "new": [
+   45.845,
+   51.235
+  ],
+  "samples_old": 129360,
+  "samples_new": 129360,
+  "identical": true
+ },
+ "S8": {
+  "old": [
+   52.635,
+   57.85
+  ],
+  "new": [
+   52.235,
+   57.45
+  ],
+  "samples_old": 125160,
+  "samples_new": 125160,
+  "identical": true
+ },
+ "S9": {
+  "old": [
+   59.05,
+   70.135
+  ],
+  "new": [
+   58.65,
+   69.735
+  ],
+  "samples_old": 266040,
+  "samples_new": 266040,
+  "identical": true
+ },
+ "S10": {
+  "old": [
+   71.135,
+   78.035
+  ],
+  "new": [
+   70.735,
+   77.635
+  ],
+  "samples_old": 165600,
+  "samples_new": 165600,
+  "identical": true
+ },
+ "S11": {
+  "old": [
+   79.035,
+   83.385
+  ],
+  "new": [
+   78.635,
+   82.985
+  ],
+  "samples_old": 104400,
+  "samples_new": 104400,
+  "identical": true
+ },
+ "S12": {
+  "old": [
+   84.585,
+   87.86
+  ],
+  "new": [
+   84.185,
+   87.46
+  ],
+  "samples_old": 78600,
+  "samples_new": 78600,
+  "identical": true
+ },
+ "S13": {
+  "old": [
+   88.86,
+   95.055
+  ],
+  "new": [
+   88.46,
+   94.655
+  ],
+  "samples_old": 148680,
+  "samples_new": 148680,
+  "identical": true
+ },
+ "S14": {
+  "old": [
+   96.055,
+   104.395
+  ],
+  "new": [
+   95.655,
+   103.995
+  ],
+  "samples_old": 200160,
+  "samples_new": 200160,
+  "identical": true
+ },
+ "S15": {
+  "old": [
+   105.395,
+   108.485
+  ],
+  "new": [
+   104.995,
+   108.085
+  ],
+  "samples_old": 74160,
+  "samples_new": 74160,
+  "identical": true
+ },
+ "S16": {
+  "old": [
+   109.685,
+   116.01
+  ],
+  "new": [
+   109.285,
+   115.61
+  ],
+  "samples_old": 151800,
+  "samples_new": 151800,
+  "identical": true
+ },
+ "S17": {
+  "old": [
+   117.01,
+   121.29
+  ],
+  "new": [
+   116.61,
+   120.89
+  ],
+  "samples_old": 102720,
+  "samples_new": 102720,
+  "identical": true
+ },
+ "S18": {
+  "old": [
+   122.29,
+   129.915
+  ],
+  "new": [
+   121.89,
+   129.515
+  ],
+  "samples_old": 183000,
+  "samples_new": 183000,
+  "identical": true
+ },
+ "S19": {
+  "old": [
+   130.915,
+   140.58
+  ],
+  "new": [
+   130.515,
+   140.18
+  ],
+  "samples_old": 231960,
+  "samples_new": 231960,
+  "identical": true
+ },
+ "_outside_S2": {
+  "before_identical": true,
+  "after_identical": true,
+  "before_samples": 291480,
+  "after_samples": 3019080,
+  "sr": 24000,
+  "S2_old": [
+   12.145,
+   16.785
+  ],
+  "S2_new": [
+   12.145,
+   16.385
+  ]
+ },
+ "_说明": {
+  "旧版a.wav": "用 523e903a 审核版源稿 视频/脚本/68.json 以现行出片程序 AUDIO_ONLY 重建，md5 前12位 a4f76dab45bd（与 2026-11-10 各确认里的 配音指纹 一致）",
+  "旧版与审核成片": "审核成片 审核样片/2026-11-14-用户102-书53-源68-最新0.6秒审核非定稿/实际原生底片/68-4K-读完即转简述2秒.mp4（523e903a）的 AAC 解码（48 kHz 单声道 6844416 个样本）与上述旧版 a.wav 经同一 AF+AAC 出的声音解码逐样本完全相同（最大差 0.0）",
+  "审核成片SHA256": "bf93593792694f09979dfe88a968ec51c94fb79b0825237369d65ddf82eeb4ec",
+  "新版": "新版 a.wav 只重合成 S2（合成标点删 and 后逗号 + 按语境读音 lounge and that year → ˈænd），S2 以外逐样本相同，见上表 identical 与 _outside_S2"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "video_sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9",
+ "bytes": 15801101,
+ "frames": 4345,
+ "size": [
+  3840,
+  2160
+ ],
+ "fps": "30/1",
+ "audio": {
+  "codec": "aac",
+  "sample_rate": "48000"
+ },
+ "voice_end": 140.205,
+ "voice_end_ends": {
+  "-60": 140.165,
+  "-70": 140.205,
+  "-80": 140.205
+ },
+ "voice_end_passed4K": 140.205,
+ "geometry": {
+  "speech_ceiling_frame": 4207,
+  "hold_start_frame": 4207,
+  "hold_end_frame_inclusive": 4224,
+  "held_body_end_frame_exclusive": 4225,
+  "frozen_reference_frame": 4206,
+  "extra_body_frames": 18,
+  "voice_to_picture_seconds": 0.6283333333333333
+ },
+ "hold_mae": [
+  0.0,
+  0.0,
+  0.0,
+  2.4112654320987653e-05,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0
+ ],
+ "hold_mae_max": 2.4112654320987653e-05,
+ "hold_ref_vs_last_body_png_mae": 0.014809188528806584,
+ "illustration_mae_max": 0.07236609439300412,
+ "summary_mae_max": 0.04515496399176955,
+ "frame4224_is_body_not_art_mae_vs_art": 135.8711580504115,
+ "body_frames_vs_passed4K_mae": {
+  "0": 0.0,
+  "300": 0.0,
+  "1500": 0.0,
+  "3000": 0.0,
+  "4100": 0.0,
+  "4204": 18.59401523919753
+ },
+ "audio_decoded_samples_new": 6952960,
+ "audio_decoded_samples_passed4K": 6824960,
+ "first_differing_sample": null,
+ "first_diff_seconds": null,
+ "identical_through_seconds": 142.18666666666667,
+ "extra_tail_max_abs": 0.0,
+ "peak_dBFS": -0.36063387989997864,
+ "passed4K_sha256": "ac1b232a0497daf34e1e067405a55f5d328396142e2d15d48051451b9fd9e330",
+ "passed4K_frames": 4265
+}

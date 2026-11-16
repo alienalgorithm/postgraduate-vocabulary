@@ -82,8 +82,8 @@ key = lambda d, i: " ".join(p[0] for c in d["sentences"][i]["chunks"] for p in c
 bad = []
 a = copy.deepcopy(d27); a.pop("说明放宽特批", None); R.apply_script(a)
 if R.NOTE_WIDE.get(key(a, -1)) != "整屏": bad.append("没抓到：27 去掉特批后结尾简述不整屏")
-R.apply_script(d24)
-if R.NOTE_WIDE.get(key(d24, -1)) == "整屏": bad.append("误放：24（25 前）没特批也整屏了")
+d24o = copy.deepcopy(d24); d24o["sentences"][-1]["chunks"][-1]["note"] = "（简述：甲乙丙丁戊己庚辛壬癸。）"; R.apply_script(d24o)   # 24 的简述已改成 ▸ 新样子（L21 整屏），坏样本用旧样子
+if R.NOTE_WIDE.get(key(d24o, -1)) == "整屏": bad.append("误放：24（25 前）旧样子简述没特批也整屏了")
 b = copy.deepcopy(d27); b.pop("说明放宽特批", None); b["sentences"][-1]["chunks"][-1]["note"] = "（结局：x）"; R.apply_script(b)
 if R.NOTE_WIDE.get(key(b, -1)) == "整屏": bad.append("误放：最后一句不是简述也整屏了")
 e = copy.deepcopy(d24); e["sentences"][-1]["chunks"][-1]["note"] = "（简述：▸起因：甲乙丙丁戊己庚辛。▸经过：壬癸子丑寅卯辰巳午未申酉戌亥，甲乙丙丁戊己庚辛壬癸。▸结果：子丑寅卯。）"; R.apply_script(e)
@@ -230,7 +230,7 @@ exec(src)
 d=json.load(open(os.environ.get('K123_JS','scripts/46.json'))); no=d['no']; R.apply_script(d); si=int(os.environ.get('K123_SI','3')); s=d['sentences'][si]
 texts=[re.sub(r'\*\*','',R.strip_gloss(c['en'])).strip() for c in s['chunks']]; sent=' '.join(texts)
 lst=list_commas(sent); pieces=[];p0=0;gaps=[]
-for mm in re.finditer(r'[,;:](?=\s)',sent):
+for mm in 停顿标点(sent):
     pieces.append((p0,mm.end())); p0=mm.end()+1; gaps.append(P_LIST if mm.start() in lst else P_COMMA)
 pieces.append((p0,len(sent)))
 clips,tmap=sentence_audio(sent,pieces,gaps); a=np.concatenate(clips)

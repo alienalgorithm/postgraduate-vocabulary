@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-11-16T08:21:26.247885+00:00",
+  "updated_utc": "2026-11-16T13:11:25.105817+00:00",
   "requested_total": 70,
-  "archived_passed_count": 69,
-  "remaining_not_claimed_passed": 1,
+  "archived_passed_count": 70,
+  "remaining_not_claimed_passed": 0,
   "release_created": false,
   "articles": [
     {
@@ -3522,18 +3522,65 @@
       "new_id": "49",
       "title_zh": "冰海求生：坚忍号传奇",
       "title_en": "Survival in the Ice: The Legend of Endurance",
-      "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24/视频/49 冰海求生：坚忍号传奇.mp4",
-      "bytes": 16447685,
-      "sha256": "f64e6b1293b2078bd9f685dc027abb9d65c2e91f3c335b1cf2b119480c930d19",
+      "video_repo_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2/视频/49 冰海求生：坚忍号传奇.mp4",
+      "bytes": 15762599,
+      "sha256": "4e95b70864e2283eec6d145ab72e07c50d1151f7e33b56b8e3bd140dfce65883",
       "passed_per_article": true,
-      "source_run": 43543967031,
-      "GEN_origin": "derived_after_final_QC",
-      "MD_origin": "actual_working_manuscript",
-      "final_GEN_claimed_as_runtime": false,
-      "source_notes": "Native inline final preserved byte-for-byte. Original collector usedGEN/workingMD/source/request/diff and execution_observed are retained. Derived final GEN is separate and actual fullJSON-roundtripped, never relabeled as the executed generator.",
-      "original_outer_job_preserved_as_failed": null,
-      "asset_commit": "00166282e40e3b587fdfd34f779d0ad3a3605f05",
-      "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24"
+      "source_run": null,
+      "production_delivery_eligible": true,
+      "preview_only": false,
+      "media_origin": "actual_local_做sh_定稿sh_4K_remake_with_user_20261115_20261116_feedback_plus_local_tail",
+      "actual_runtime_GEN_or_voice_rerun_claimed": true,
+      "voice_rerun_scope": "S18 only (spoken comma after and removed per user 2026-11-15); S1–S17 decoded audio identical to previous accepted final before 142.255 s",
+      "official_checks": "出片前核查、出片后核查全部通过（纯人声核对 0、独立复核 0 未确认、标点停顿/停顿位置/句间停顿/词尾辅音/高亮同步通过）",
+      "post_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "measured_voice_to_picture_seconds": 0.6,
+      "illustration_seconds": 2,
+      "summary_card_seconds": 2,
+      "postprocessing_report_sha256": "6596da738841e8532b1589a68380b427a811955743e03b167eb7a215bd8d554c",
+      "peak_dBFS": -0.41,
+      "clipped_samples": 0,
+      "primary_permanent_archive_passed": true,
+      "actual_dual_permanent_archive_passed": false,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "user decided to keep only the primary repository"
+      },
+      "asset_commit": "d74e93c02116404b13c1b12644721baf1ac89546",
+      "archive_prefix": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v2",
+      "superseded_unaccepted_local_versions": [
+        {
+          "video_repo_path": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v1/视频/49 冰海求生：坚忍号传奇.mp4",
+          "bytes": 15759944,
+          "sha256": "a79418ea9bbb03b8204d28a5d59ee83dd6c5234b328c79491c9ad9a4f5b0d398",
+          "archive_prefix": "视频修订定稿/2026-11-16-书49原24-四条反馈重制4K定稿-本地尾段v1",
+          "asset_commit": "ce1da29c0e26f6c02bb8d07a86af8849accc135d",
+          "status": "superseded_same_day_never_delivered",
+          "reason": "简述仍是“象岛”；用户 2026-11-16 说“统一”后出 v2"
+        }
+      ],
+      "previous_versions": [
+        {
+          "source_id": "24",
+          "new_id": "49",
+          "title_zh": "冰海求生：坚忍号传奇",
+          "title_en": "Survival in the Ice: The Legend of Endurance",
+          "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24/视频/49 冰海求生：坚忍号传奇.mp4",
+          "bytes": 16447685,
+          "sha256": "f64e6b1293b2078bd9f685dc027abb9d65c2e91f3c335b1cf2b119480c930d19",
+          "passed_per_article": true,
+          "source_run": 43543967031,
+          "GEN_origin": "derived_after_final_QC",
+          "MD_origin": "actual_working_manuscript",
+          "final_GEN_claimed_as_runtime": false,
+          "source_notes": "Native inline final preserved byte-for-byte. Original collector usedGEN/workingMD/source/request/diff and execution_observed are retained. Derived final GEN is separate and actual fullJSON-roundtripped, never relabeled as the executed generator.",
+          "original_outer_job_preserved_as_failed": null,
+          "asset_commit": "00166282e40e3b587fdfd34f779d0ad3a3605f05",
+          "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原24",
+          "superseded_by_user_feedback": "2026-11-15 四条反馈、S18 and 后不停顿；2026-11-16 简述“大象岛”统一"
+        }
+      ]
     },
     {
       "source_id": "70",
@@ -5041,6 +5088,70 @@
         "previous_source_run": 43533004625,
         "unique_article_count_increased": false
       }
+    },
+    {
+      "source_id": "68",
+      "new_id": "53",
+      "title_zh": "兴登堡号的 34 秒",
+      "title_en": "The Last Flight of the Hindenburg",
+      "video_repo_path": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1/视频/53 兴登堡号的 34 秒.mp4",
+      "bytes": 15801101,
+      "sha256": "000f001d408ed3bd5f4c60ad0a9cbc001984f78507b499bbe1ced3f4322e95b9",
+      "passed_per_article": true,
+      "source_run": null,
+      "production_delivery_eligible": true,
+      "preview_only": false,
+      "media_origin": "actual_local_do_sh_and_final_sh_4K_with_normal18_hold_illustration60_summary60",
+      "actual_runtime_GEN_or_voice_rerun_claimed": true,
+      "resynthesized_sentences": [
+        "S2"
+      ],
+      "other_sentences_sample_identical_to_reviewed_audio": true,
+      "canonical_audio_basis": "do_sh_and_final_sh_all_voice_checks_passed_plus_exact_sample_identity_outside_S2",
+      "audio_verification_20261116": {
+        "all_voice_checks_passed": true,
+        "final_sh_pre_and_post_failures": 0,
+        "machine_listening_two_engines_passed": true,
+        "S2_spoken": "Its amenities included a lounge and that year, a grand piano.",
+        "S2_display": "Its amenities included a lounge and, that year, a grand piano.",
+        "S2_pause_after_and_seconds_old": 0.4,
+        "S2_pause_after_and_seconds_new": 0.0,
+        "S2_pause_after_year_seconds_new": 0.415,
+        "context_pronunciation": "lounge and that year: and /ˈænd/",
+        "peak_dBFS": -0.36,
+        "sample_identity_record": "视频/制作记录/68_样本一致.json"
+      },
+      "post_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "measured_voice_end_seconds": 140.205,
+      "measured_voice_to_picture_seconds": 0.6283,
+      "illustration_seconds": 2,
+      "summary_card_seconds": 2,
+      "postprocessing_report_sha256": "8f1410ea93d607df5ce1580eedf7f58caee348bba0635f9c9d1329a3c985c921",
+      "primary_permanent_archive_passed": true,
+      "actual_dual_permanent_archive_passed": false,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "user decided main repository only; backup not synced"
+      },
+      "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+      "archive_prefix": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1",
+      "previous_versions": [
+        {
+          "source_id": "68",
+          "new_id": "53",
+          "title_zh": "兴登堡号的 34 秒",
+          "title_en": "The Last Flight of the Hindenburg",
+          "video_repo_path": "审核样片/2026-11-14-用户102-书53-源68-最新0.6秒审核非定稿/视频/53-source68-latest-user102-review-only-4K.mp4",
+          "bytes": 16000776,
+          "sha256": "df900c7b5ef1f68dd24b4701a2e3cf655430b42497711b3ebdc0b5569c9926ed",
+          "asset_commit": "523e903afecc71a06d834ba7f4e4070e7a93e98c",
+          "role": "user102_review_only_not_final",
+          "passed_per_article": false,
+          "user_feedback_after_review": "book53-finalization-after-exactly-layout-and-illustration-20261115",
+          "S2_pause_after_and_comma_seconds_measured": 0.4
+        }
+      ]
     }
   ],
   "batches": [
@@ -5946,6 +6057,13 @@
       "asset_commit": "528efc5bd7a28ab16a6ba136871218e91fa46f1d",
       "source_ids": [
         "35"
+      ]
+    },
+    {
+      "prefix": "视频修订定稿/2026-11-16-书53原68-0.6秒4K定稿-本地定稿v1",
+      "asset_commit": "4eb22f3f8e5a163047c23113d485ecfb26b9524b",
+      "source_ids": [
+        "68"
       ]
     }
   ],
