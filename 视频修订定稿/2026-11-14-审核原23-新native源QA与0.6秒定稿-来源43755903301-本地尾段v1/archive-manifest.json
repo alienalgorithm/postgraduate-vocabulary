@@ -1,0 +1,101 @@
+{
+  "kind": "book62-source23-normal18-final-archive-manifest",
+  "source_id": "23",
+  "book_order": "62",
+  "current_video_order": "62",
+  "source_native_run": 43755903301,
+  "final_video": {
+    "path": "视频/62 为机器点燃思想的人.mp4",
+    "bytes": 15966119,
+    "sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb"
+  },
+  "primary_permanent_archive_passed": true,
+  "actual_dual_permanent_archive_passed": false,
+  "backup_mirror_pending": {
+    "repository": "AlienCodes/literate-enigma",
+    "reason": "not accessible from the 2026-11-16 session"
+  },
+  "file_count": 16,
+  "files": [
+    {
+      "path": "原生来源native43755903301/62-source23-existing-native-4K.mp4",
+      "bytes": 15842318,
+      "sha256": "77781feaffbe3dd18057968167923d7b00564a92017f490e56539d95f2a01fcc"
+    },
+    {
+      "path": "原生来源native43755903301/DELIVERY-ROLE.json",
+      "bytes": 452,
+      "sha256": "52d35eb784b9ce0d53b6d4f9e1e8337017ec232292f288807e9bf7aece13db79"
+    },
+    {
+      "path": "实际当前成片解码帧/62-body-last.jpg",
+      "bytes": 248381,
+      "sha256": "144cdee11761d9f35a079382b3a89a5a7e11749547cfc6b674868d54fbcf9bd6"
+    },
+    {
+      "path": "实际当前成片解码帧/62-hold-first.jpg",
+      "bytes": 248417,
+      "sha256": "f8a829ad3aa0ebf8937fa81fb9f97e045cd959d121389579fcc8767f5eaf1c01"
+    },
+    {
+      "path": "实际当前成片解码帧/62-illustration-first.jpg",
+      "bytes": 1255824,
+      "sha256": "9b15b63860680e3b121695173009c11cfce54bbe1f9e274c520e1204049b8763"
+    },
+    {
+      "path": "实际当前成片解码帧/62-illustration-last.jpg",
+      "bytes": 1256512,
+      "sha256": "e224ffcb39c4c6826dd75a2b62dc79de142a6ff98e5268a23125a3b512e4e265"
+    },
+    {
+      "path": "实际当前成片解码帧/62-summary-first.jpg",
+      "bytes": 766213,
+      "sha256": "d2cdef58eaef26727bb55339f9d4f4ae7cb0b2065cc0aa2e448aed242cc9cafb"
+    },
+    {
+      "path": "实际当前成片解码帧/62-summary-last.jpg",
+      "bytes": 766307,
+      "sha256": "9eb2b42e0e8c8c2798424afaec15f91c61d7f53aecf4e6315a90c96d42edd04e"
+    },
+    {
+      "path": "归档程序/build_hold18.py",
+      "bytes": 14591,
+      "sha256": "2f69ce2b5973534b8e923bca3b013f54f7279876a340dd96cf8cc082c533b801"
+    },
+    {
+      "path": "归档程序/hold18_geometry.py",
+      "bytes": 3973,
+      "sha256": "f962e9a2173b36c22f2bd7fa1ab1d70d418eaa416baa005c68547225fcf18f2c"
+    },
+    {
+      "path": "归档程序/voice_end.py",
+      "bytes": 1092,
+      "sha256": "71d8561e0344516f734085710962fa78d745360eb49ca7e205b0e51976b402b8"
+    },
+    {
+      "path": "归档说明.md",
+      "bytes": 3731,
+      "sha256": "f1aeb9c465caf3523155f67ee95909df792e42c2ad74ac240217bf94fb04e125"
+    },
+    {
+      "path": "本轮实际normal18完整核验/endpoint-checks.jsonl",
+      "bytes": 436,
+      "sha256": "94d46582ed5e06be27dadb63c91c749ffe9331a18a581ac5f256538e13739b08"
+    },
+    {
+      "path": "本轮实际normal18完整核验/old-vs-new-comparison.json",
+      "bytes": 921,
+      "sha256": "685e2d6e95860cff65d886df919a9818e8dda66083ed27bedc096dfe493471eb"
+    },
+    {
+      "path": "本轮实际normal18完整核验/report.json",
+      "bytes": 2638,
+      "sha256": "2315fbe339cb2603d4c265e8dd32df54c95f74e9cf6539f53b87b9d59e489815"
+    },
+    {
+      "path": "视频/62 为机器点燃思想的人.mp4",
+      "bytes": 15966119,
+      "sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb"
+    }
+  ]
+}

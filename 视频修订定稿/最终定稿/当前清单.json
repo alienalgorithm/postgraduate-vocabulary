@@ -2,27 +2,24 @@
   "kind": "validated-video-final-alias-plan-v1",
   "schema_version": 1,
   "requested_total": 70,
-  "current_count": 66,
+  "current_count": 68,
   "archived_passed_count": 69,
   "complete": false,
   "selection": "user146_latest_requests_bound_current_only",
   "validation_scope": "Existing canonical Git blob identity, mode and size; no new media validation or production",
   "catalog_validated": true,
   "missing_source_ids": [
-    "23",
     "24",
-    "56",
     "68"
   ],
   "missing_new_ids": [
     "49",
-    "53",
-    "62",
-    "65"
+    "53"
   ],
   "managed_text_files": [
     "README.md",
     "当前清单.json",
+    "视频顺序.json",
     "修改记录/01 越狱的章鱼.md",
     "修改记录/02 以为柠檬汁能隐身的劫匪.md",
     "修改记录/03 新可乐的 79 天.md",
@@ -82,14 +79,15 @@
     "修改记录/59 拥挤的苍穹.md",
     "修改记录/60 被降级的冥王星.md",
     "修改记录/61 鲸歌易帜.md",
+    "修改记录/62 为机器点燃思想的人.md",
     "修改记录/63 没有到来的零日.md",
     "修改记录/64 改变人类命运的霉菌.md",
+    "修改记录/65 一封信惊醒了达尔文.md",
     "修改记录/66 入侵澳洲的毒蟾.md",
     "修改记录/67 从一道划痕到天花绝迹.md",
     "修改记录/68 阿波罗13号：成功的失败.md",
     "修改记录/69 拯救天空.md",
-    "修改记录/70 写给外星人的一张唱片.md",
-    "视频顺序.json"
+    "修改记录/70 写给外星人的一张唱片.md"
   ],
   "videos": [
     {
@@ -7621,6 +7619,125 @@
       "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
     },
     {
+      "source_id": "23",
+      "new_id": "62",
+      "title_zh": "为机器点燃思想的人",
+      "bytes": 15966119,
+      "sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb",
+      "source_run": 43755903301,
+      "asset_commit": "dff1b082f002361e4d5ff863807263a3368cbc67",
+      "original_path": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/视频/62 为机器点燃思想的人.mp4",
+      "alias_path": "最终定稿/视频/62 为机器点燃思想的人.mp4",
+      "git_blob_sha": "22b7fe55ef7d24afca21d0ebe4c6fedbf235392d",
+      "previous_versions": [
+        {
+          "source_id": "23",
+          "new_id": "62",
+          "title_zh": "为机器点燃思想的人",
+          "title_en": "The Man Who Gave Machines a Mind",
+          "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23/视频/62 为机器点燃思想的人.mp4",
+          "bytes": 15822512,
+          "sha256": "931da3f453066883983d069120969d89f8512ea35eb6801f1d929b37ed3c6067",
+          "passed_per_article": true,
+          "source_run": 43543967031,
+          "GEN_origin": "derived_after_final_QC",
+          "MD_origin": "actual_working_manuscript",
+          "final_GEN_claimed_as_runtime": false,
+          "asset_commit": "7e736c2315c8b66aeef77b0343b2076a9e9c1b05",
+          "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23",
+          "post_reading_pause_seconds_measured": 0.006667,
+          "meets_0p6_hold_rule": false
+        }
+      ],
+      "missing_metadata_fields": [],
+      "evidence_pointers": {
+        "original_video_repo_path": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/视频/62 为机器点燃思想的人.mp4",
+        "archive_prefix": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1",
+        "asset_commit": "dff1b082f002361e4d5ff863807263a3368cbc67",
+        "existing_archive_evidence_files": [
+          "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/archive-manifest.json",
+          "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/本轮实际normal18完整核验/report.json",
+          "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/本轮实际normal18完整核验/endpoint-checks.jsonl",
+          "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/本轮实际normal18完整核验/old-vs-new-comparison.json",
+          "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/归档说明.md",
+          "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/原生来源native43755903301/DELIVERY-ROLE.json"
+        ]
+      },
+      "current_inventory_row": {
+        "source_id": "23",
+        "new_id": "62",
+        "title_zh": "为机器点燃思想的人",
+        "title_en": "The Man Who Gave Machines a Mind",
+        "video_repo_path": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/视频/62 为机器点燃思想的人.mp4",
+        "bytes": 15966119,
+        "sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb",
+        "passed_per_article": true,
+        "source_run": 43755903301,
+        "production_delivery_eligible": true,
+        "preview_only": false,
+        "media_origin": "actual_validated_normal18_local_tail_derivative_of_original_native_source",
+        "actual_runtime_GEN_or_voice_rerun_claimed": false,
+        "canonical_audio_basis": "native43755903301_sourceQA_passed_AAC_packet_identity",
+        "local_tail_postprocessing_audio_repair_applied": false,
+        "local_postprocessing_only": true,
+        "post_reading_pause_seconds": 0.6,
+        "nominal_extra_hold_frames_at_30fps": 18,
+        "measured_voice_to_picture_seconds": 0.6066666666666667,
+        "postprocessing_report_sha256": "2315fbe339cb2603d4c265e8dd32df54c95f74e9cf6539f53b87b9d59e489815",
+        "source_native_video": {
+          "bytes": 15842318,
+          "sha256": "77781feaffbe3dd18057968167923d7b00564a92017f490e56539d95f2a01fcc",
+          "native_run": 43755903301,
+          "repository_branch": "codex/all70-immediate-delivery-source23-native-20261115",
+          "archived_copy": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/原生来源native43755903301/62-source23-existing-native-4K.mp4"
+        },
+        "actual_new_native_source_QA_observed_in_this_session": false,
+        "source_QA_pass_basis": [
+          "user statement 2026-11-16: 第62篇的源视频核验已经通过，包括音频、字幕往返和关键画面检查",
+          "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/原生来源native43755903301/DELIVERY-ROLE.json source_QA_passed=true"
+        ],
+        "source_QA_raw_records_location": "AlienCodes/literate-enigma Actions run 43755903301 (not readable from this session; to be copied when access is granted)",
+        "source_native_audio_lossless_copy": {
+          "aac_packet_payload_and_absolute_timings_identical": true,
+          "aac_packet_count": 7480,
+          "aac_adts_sha256": "9cc7990de08cb60629791557e0ca85c63156aa005c7b53960bbe9b8c03557c52"
+        },
+        "primary_permanent_archive_passed": true,
+        "actual_dual_permanent_archive_passed": false,
+        "backup_mirror_pending": {
+          "repository": "AlienCodes/literate-enigma",
+          "reason": "no access from the 2026-11-16 session"
+        },
+        "asset_commit": "dff1b082f002361e4d5ff863807263a3368cbc67",
+        "archive_prefix": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1",
+        "previous_versions": [
+          {
+            "source_id": "23",
+            "new_id": "62",
+            "title_zh": "为机器点燃思想的人",
+            "title_en": "The Man Who Gave Machines a Mind",
+            "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23/视频/62 为机器点燃思想的人.mp4",
+            "bytes": 15822512,
+            "sha256": "931da3f453066883983d069120969d89f8512ea35eb6801f1d929b37ed3c6067",
+            "passed_per_article": true,
+            "source_run": 43543967031,
+            "GEN_origin": "derived_after_final_QC",
+            "MD_origin": "actual_working_manuscript",
+            "final_GEN_claimed_as_runtime": false,
+            "asset_commit": "7e736c2315c8b66aeef77b0343b2076a9e9c1b05",
+            "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23",
+            "post_reading_pause_seconds_measured": 0.006667,
+            "meets_0p6_hold_rule": false
+          }
+        ]
+      },
+      "title_en": "The Man Who Gave Machines a Mind",
+      "current_video_order": "62",
+      "original_book_order": "62",
+      "quality_book_order_unchanged": true,
+      "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
+    },
+    {
       "source_id": "64",
       "new_id": "63",
       "title_zh": "没有到来的零日",
@@ -7845,6 +7962,129 @@
       "title_en": "The Mould That Changed the World",
       "current_video_order": "64",
       "original_book_order": "64",
+      "quality_book_order_unchanged": true,
+      "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
+    },
+    {
+      "source_id": "56",
+      "new_id": "65",
+      "title_zh": "一封信惊醒了达尔文",
+      "bytes": 17160827,
+      "sha256": "d4e56261c64f3fd8f0fa710d126c254c2007f53b54df16a9718b59cee272dd7d",
+      "source_run": 43533004625,
+      "asset_commit": "f3dd2cb17260c0a21e8677182cb4491f7212a9b7",
+      "original_path": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/65 一封信惊醒了达尔文.mp4",
+      "alias_path": "最终定稿/视频/65 一封信惊醒了达尔文.mp4",
+      "git_blob_sha": "40a01ce7c58114448db454b96e1fe11ef9c20fd5",
+      "previous_versions": [
+        {
+          "source_id": "56",
+          "new_id": "65",
+          "title_zh": "一封信惊醒了达尔文",
+          "title_en": "The Letter That Startled Darwin",
+          "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4",
+          "bytes": 17043857,
+          "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+          "passed_per_article": true,
+          "source_run": 43533004625,
+          "GEN_origin": "derived_after_final_QC",
+          "MD_origin": "request_manuscript_with_verified_final_source_equivalence",
+          "asset_commit": "5a12253e8e78c50fe44dc376b85e4b322033a2ea",
+          "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56",
+          "post_reading_pause_seconds_measured": 0.0,
+          "meets_0p6_hold_rule": false
+        }
+      ],
+      "missing_metadata_fields": [],
+      "evidence_pointers": {
+        "original_video_repo_path": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/65 一封信惊醒了达尔文.mp4",
+        "archive_prefix": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1",
+        "asset_commit": "f3dd2cb17260c0a21e8677182cb4491f7212a9b7",
+        "existing_archive_evidence_files": [
+          "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/archive-manifest.json",
+          "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/本轮实际normal18完整核验/report.json",
+          "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/本轮实际normal18完整核验/endpoint-checks.jsonl",
+          "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/归档说明.md",
+          "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/V3逐项核验/56/actual-qc-v3.json",
+          "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/官方原产物解包/56/56-status.json"
+        ]
+      },
+      "current_inventory_row": {
+        "source_id": "56",
+        "new_id": "65",
+        "title_zh": "一封信惊醒了达尔文",
+        "title_en": "The Letter That Startled Darwin",
+        "video_repo_path": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1/视频/65 一封信惊醒了达尔文.mp4",
+        "bytes": 17160827,
+        "sha256": "d4e56261c64f3fd8f0fa710d126c254c2007f53b54df16a9718b59cee272dd7d",
+        "passed_per_article": true,
+        "source_run": 43533004625,
+        "production_delivery_eligible": true,
+        "preview_only": false,
+        "media_origin": "actual_validated_normal18_local_tail_derivative_of_original_native_source",
+        "actual_runtime_GEN_or_voice_rerun_claimed": false,
+        "canonical_audio_basis": "actual_official_audio_gates_plus_exact_accepted_AAC_packet_identity",
+        "audio_reverification_20261116": {
+          "official_audio_gates_passed": true,
+          "repair_applied": false,
+          "accepted_prior_aac_identical": true,
+          "peak_dBFS": -0.95,
+          "clipped_samples": 0,
+          "resynthesis_needed": false
+        },
+        "local_tail_postprocessing_audio_repair_applied": false,
+        "local_postprocessing_only": true,
+        "post_reading_pause_seconds": 0.6,
+        "nominal_extra_hold_frames_at_30fps": 18,
+        "measured_voice_to_picture_seconds": 0.6,
+        "postprocessing_report_sha256": "240b7501bdc9cea058d5348506711ea644acf44709c6e87593f8505e40ea194e",
+        "source_native_video": {
+          "bytes": 17043857,
+          "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+          "native_run": 43533004625,
+          "archived_copy": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4"
+        },
+        "actual_source_QA_records_read_in_this_session": true,
+        "source_QA_pass_basis": [
+          "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/V3逐项核验/56/actual-qc-v3.json native_official_audio_gates passed",
+          "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/官方原产物解包/56/56-status.json passed, all voice checks 0 problems"
+        ],
+        "source_native_audio_lossless_copy": {
+          "aac_packet_payload_and_absolute_timings_identical": true,
+          "aac_packet_count": 7327,
+          "aac_adts_sha256": "7ce83312d1f3db9474c16dc4dfa1434ca4e388ed1cd77aab865c1111667aca3c"
+        },
+        "primary_permanent_archive_passed": true,
+        "actual_dual_permanent_archive_passed": false,
+        "backup_mirror_pending": {
+          "repository": "AlienCodes/literate-enigma",
+          "reason": "no access from the 2026-11-16 session"
+        },
+        "asset_commit": "f3dd2cb17260c0a21e8677182cb4491f7212a9b7",
+        "archive_prefix": "视频修订定稿/2026-11-14-审核原56-0.6秒定稿-原生来源43533004625-本地尾段v1",
+        "previous_versions": [
+          {
+            "source_id": "56",
+            "new_id": "65",
+            "title_zh": "一封信惊醒了达尔文",
+            "title_en": "The Letter That Startled Darwin",
+            "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4",
+            "bytes": 17043857,
+            "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a",
+            "passed_per_article": true,
+            "source_run": 43533004625,
+            "GEN_origin": "derived_after_final_QC",
+            "MD_origin": "request_manuscript_with_verified_final_source_equivalence",
+            "asset_commit": "5a12253e8e78c50fe44dc376b85e4b322033a2ea",
+            "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56",
+            "post_reading_pause_seconds_measured": 0.0,
+            "meets_0p6_hold_rule": false
+          }
+        ]
+      },
+      "title_en": "The Letter That Startled Darwin",
+      "current_video_order": "65",
+      "original_book_order": "65",
       "quality_book_order_unchanged": true,
       "video_order_authority_review_sha256": "3120efc6893981436cb81458ce57f6aca7601edc5e7326cce1388b68de959001"
     },
@@ -8818,11 +9058,9 @@
   "original_book_order_field": "original_book_order",
   "missing_frozen_book_orders": [
     "49",
-    "53",
-    "62",
-    "65"
+    "53"
   ],
-  "latest_deliverable_count": 66,
+  "latest_deliverable_count": 68,
   "latest_final_directory_policy": {
     "kind": "explicit-user146-unique-latest-final-video-directory",
     "authority_review_sha256": "e759548c0f1889fed996d8fd627e69eae26fe3c4ce0013a911a9f61ac61dd772",
@@ -8834,7 +9072,7 @@
     "new_current_and_raw_pending_updates_sync_directory_same_commit": true,
     "video_order090_and_frozen_quality_book_order_preserved": true
   },
-  "latest_requests_canonical_json_sha256": "f9b9540edfd632a34c52820fc39ee4a935e619306f1339a165a3508e448fcfb0",
+  "latest_requests_canonical_json_sha256": "8a5d03178bf8e22ed23556c95c55f5f1ef8413444f0f73765a8d7d0753923347",
   "excluded_older_accepted": [
     {
       "source_id": "24",
@@ -8847,28 +9085,6 @@
         "book49-source24-remove-danbo-from-fragile-lifeboat-feedback",
         "book49-source24-add-ordeal-small-note-feedback",
         "book49-finalization-after-and-spoken-comma-20261115"
-      ],
-      "status": "latest_authorized_revision_in_production",
-      "reason": "newer_article_revision_pending_old_accepted_is_history_only"
-    },
-    {
-      "source_id": "23",
-      "current_video_order": "62",
-      "original_book_order": "62",
-      "title_zh": "为机器点燃思想的人",
-      "latest_user_records": [
-        "assistant-derived-record-key-final-book62-source23-b5741a1f9e9c"
-      ],
-      "status": "latest_authorized_revision_in_production",
-      "reason": "newer_article_revision_pending_old_accepted_is_history_only"
-    },
-    {
-      "source_id": "56",
-      "current_video_order": "65",
-      "original_book_order": "65",
-      "title_zh": "一封信惊醒了达尔文",
-      "latest_user_records": [
-        "assistant-derived-record-key-final-book65-source56-7eda217cbd99"
       ],
       "status": "latest_authorized_revision_in_production",
       "reason": "newer_article_revision_pending_old_accepted_is_history_only"
@@ -8897,26 +9113,6 @@
       "status": "latest_authorized_revision_in_production",
       "latest_user_records": [
         "book53-finalization-after-exactly-layout-and-illustration-20261115"
-      ]
-    },
-    {
-      "source_id": "23",
-      "current_video_order": "62",
-      "original_book_order": "62",
-      "title_zh": "为机器点燃思想的人",
-      "status": "latest_authorized_revision_in_production",
-      "latest_user_records": [
-        "assistant-derived-record-key-final-book62-source23-b5741a1f9e9c"
-      ]
-    },
-    {
-      "source_id": "56",
-      "current_video_order": "65",
-      "original_book_order": "65",
-      "title_zh": "一封信惊醒了达尔文",
-      "status": "latest_authorized_revision_in_production",
-      "latest_user_records": [
-        "assistant-derived-record-key-final-book65-source56-7eda217cbd99"
       ]
     }
   ],

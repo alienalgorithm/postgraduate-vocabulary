@@ -1,0 +1,91 @@
+{
+  "kind": "book65-source56-normal18-final-archive-manifest",
+  "source_id": "56",
+  "book_order": "65",
+  "current_video_order": "65",
+  "source_native_run": 43533004625,
+  "source_video": {
+    "path": "视频修订定稿/2026-11-14-已验收1篇-run43533004625-原56/视频/65 一封信惊醒了达尔文.mp4",
+    "bytes": 17043857,
+    "sha256": "93989655c980539d1f9813b5e0769606abd4e47a986625126155833abb98832a"
+  },
+  "final_video": {
+    "path": "视频/65 一封信惊醒了达尔文.mp4",
+    "bytes": 17160827,
+    "sha256": "d4e56261c64f3fd8f0fa710d126c254c2007f53b54df16a9718b59cee272dd7d"
+  },
+  "primary_permanent_archive_passed": true,
+  "actual_dual_permanent_archive_passed": false,
+  "backup_mirror_pending": {
+    "repository": "AlienCodes/literate-enigma",
+    "reason": "not accessible from the 2026-11-16 session"
+  },
+  "file_count": 13,
+  "files": [
+    {
+      "path": "实际当前成片解码帧/65-body-last.jpg",
+      "bytes": 228124,
+      "sha256": "2e2754b28856e7a5405c0c93aad4d5054c98b912592c13ed93f1b2347553704d"
+    },
+    {
+      "path": "实际当前成片解码帧/65-hold-first.jpg",
+      "bytes": 228159,
+      "sha256": "480d067fa8c00ded2d7203adc56a732fc43284eda4e5573a63b4dc75e7734ca3"
+    },
+    {
+      "path": "实际当前成片解码帧/65-illustration-first.jpg",
+      "bytes": 1214310,
+      "sha256": "ba8c980626e49a8d63506b3751b3446da1419b4021c2bfdf862ba0ac4a40d1a8"
+    },
+    {
+      "path": "实际当前成片解码帧/65-illustration-last.jpg",
+      "bytes": 1214793,
+      "sha256": "755695cdacf5a5e315ec0a09c330066a3af9529fa7dd16b8fd451a175ca131d5"
+    },
+    {
+      "path": "实际当前成片解码帧/65-summary-first.jpg",
+      "bytes": 702136,
+      "sha256": "ca5bcbad6ccde7796c4c0a95afe1be534c2ddb3311ca354f08630ec2d871da62"
+    },
+    {
+      "path": "实际当前成片解码帧/65-summary-last.jpg",
+      "bytes": 702053,
+      "sha256": "a89739ed3132c5ac4c6a775726dc5b20508ec3ed53037d4b246bf6d9dae7c7ec"
+    },
+    {
+      "path": "归档程序/build_hold18.py",
+      "bytes": 14591,
+      "sha256": "2f69ce2b5973534b8e923bca3b013f54f7279876a340dd96cf8cc082c533b801"
+    },
+    {
+      "path": "归档程序/hold18_geometry.py",
+      "bytes": 3973,
+      "sha256": "f962e9a2173b36c22f2bd7fa1ab1d70d418eaa416baa005c68547225fcf18f2c"
+    },
+    {
+      "path": "归档程序/voice_end.py",
+      "bytes": 1092,
+      "sha256": "71d8561e0344516f734085710962fa78d745360eb49ca7e205b0e51976b402b8"
+    },
+    {
+      "path": "归档说明.md",
+      "bytes": 2642,
+      "sha256": "a96a11bb50394c8f29849caaae4568a2dc68c0115270d1d4450e74e242439dd4"
+    },
+    {
+      "path": "本轮实际normal18完整核验/endpoint-checks.jsonl",
+      "bytes": 284,
+      "sha256": "edd4eff9514a53c83f8e2bf34429190ad9d524b3ac15411d047e6b1a4e405a51"
+    },
+    {
+      "path": "本轮实际normal18完整核验/report.json",
+      "bytes": 2573,
+      "sha256": "240b7501bdc9cea058d5348506711ea644acf44709c6e87593f8505e40ea194e"
+    },
+    {
+      "path": "视频/65 一封信惊醒了达尔文.mp4",
+      "bytes": 17160827,
+      "sha256": "d4e56261c64f3fd8f0fa710d126c254c2007f53b54df16a9718b59cee272dd7d"
+    }
+  ]
+}
