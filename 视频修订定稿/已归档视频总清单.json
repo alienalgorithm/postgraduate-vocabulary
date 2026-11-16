@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-11-15T22:51:05.275359+00:00",
+  "updated_utc": "2026-11-16T08:15:22.303876+00:00",
   "requested_total": 70,
   "archived_passed_count": 69,
   "remaining_not_claimed_passed": 1,
@@ -4411,18 +4411,68 @@
       "new_id": "62",
       "title_zh": "为机器点燃思想的人",
       "title_en": "The Man Who Gave Machines a Mind",
-      "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23/视频/62 为机器点燃思想的人.mp4",
-      "bytes": 15822512,
-      "sha256": "931da3f453066883983d069120969d89f8512ea35eb6801f1d929b37ed3c6067",
+      "video_repo_path": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/视频/62 为机器点燃思想的人.mp4",
+      "bytes": 15966119,
+      "sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb",
       "passed_per_article": true,
-      "source_run": 43543967031,
-      "GEN_origin": "derived_after_final_QC",
-      "MD_origin": "actual_working_manuscript",
-      "final_GEN_claimed_as_runtime": false,
-      "source_notes": "Native inline final preserved byte-for-byte. Original collector usedGEN/workingMD/source/request/diff and execution_observed are retained. Derived final GEN is separate and actual fullJSON-roundtripped, never relabeled as the executed generator.",
-      "original_outer_job_preserved_as_failed": null,
-      "asset_commit": "7e736c2315c8b66aeef77b0343b2076a9e9c1b05",
-      "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23"
+      "source_run": 43755903301,
+      "production_delivery_eligible": true,
+      "preview_only": false,
+      "media_origin": "actual_validated_normal18_local_tail_derivative_of_original_native_source",
+      "actual_runtime_GEN_or_voice_rerun_claimed": false,
+      "canonical_audio_basis": "native43755903301_sourceQA_passed_AAC_packet_identity",
+      "local_tail_postprocessing_audio_repair_applied": false,
+      "local_postprocessing_only": true,
+      "post_reading_pause_seconds": 0.6,
+      "nominal_extra_hold_frames_at_30fps": 18,
+      "measured_voice_to_picture_seconds": 0.6066666666666667,
+      "postprocessing_report_sha256": "2315fbe339cb2603d4c265e8dd32df54c95f74e9cf6539f53b87b9d59e489815",
+      "source_native_video": {
+        "bytes": 15842318,
+        "sha256": "77781feaffbe3dd18057968167923d7b00564a92017f490e56539d95f2a01fcc",
+        "native_run": 43755903301,
+        "repository_branch": "codex/all70-immediate-delivery-source23-native-20261115",
+        "archived_copy": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/原生来源native43755903301/62-source23-existing-native-4K.mp4"
+      },
+      "actual_new_native_source_QA_observed_in_this_session": false,
+      "source_QA_pass_basis": [
+        "user statement 2026-11-16: 第62篇的源视频核验已经通过，包括音频、字幕往返和关键画面检查",
+        "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/原生来源native43755903301/DELIVERY-ROLE.json source_QA_passed=true"
+      ],
+      "source_QA_raw_records_location": "AlienCodes/literate-enigma Actions run 43755903301 (not readable from this session; to be copied when access is granted)",
+      "source_native_audio_lossless_copy": {
+        "aac_packet_payload_and_absolute_timings_identical": true,
+        "aac_packet_count": 7480,
+        "aac_adts_sha256": "9cc7990de08cb60629791557e0ca85c63156aa005c7b53960bbe9b8c03557c52"
+      },
+      "primary_permanent_archive_passed": true,
+      "actual_dual_permanent_archive_passed": false,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "no access from the 2026-11-16 session"
+      },
+      "asset_commit": "dff1b082f002361e4d5ff863807263a3368cbc67",
+      "archive_prefix": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1",
+      "previous_versions": [
+        {
+          "source_id": "23",
+          "new_id": "62",
+          "title_zh": "为机器点燃思想的人",
+          "title_en": "The Man Who Gave Machines a Mind",
+          "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23/视频/62 为机器点燃思想的人.mp4",
+          "bytes": 15822512,
+          "sha256": "931da3f453066883983d069120969d89f8512ea35eb6801f1d929b37ed3c6067",
+          "passed_per_article": true,
+          "source_run": 43543967031,
+          "GEN_origin": "derived_after_final_QC",
+          "MD_origin": "actual_working_manuscript",
+          "final_GEN_claimed_as_runtime": false,
+          "asset_commit": "7e736c2315c8b66aeef77b0343b2076a9e9c1b05",
+          "archive_prefix": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23",
+          "post_reading_pause_seconds_measured": 0.006667,
+          "meets_0p6_hold_rule": false
+        }
+      ]
     },
     {
       "source_id": "64",

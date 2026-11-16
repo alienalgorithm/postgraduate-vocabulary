@@ -111,7 +111,7 @@
     "missing_or_pending_items_are_production_pending_not_legacy_fillers": true
   },
   "all70_latest_complete": false,
-  "latest_requested_revision_completed_count": 66,
+  "latest_requested_revision_completed_count": 67,
   "articles": [
     {
       "source_id": "07",
@@ -4240,14 +4240,14 @@
       "pending_newer_request_blocks_old_fallback": true,
       "older_accepted_archive_is_history_until_newest_request_qualified": true,
       "previously_accepted_cloud_final": {
-        "asset_commit": "7e736c2315c8b66aeef77b0343b2076a9e9c1b05",
-        "video_repo_path": "视频修订定稿/2026-11-14-已验收1篇-native-inline-run43543967031-原23/视频/62 为机器点燃思想的人.mp4",
-        "bytes": 15822512,
-        "sha256": "931da3f453066883983d069120969d89f8512ea35eb6801f1d929b37ed3c6067"
+        "asset_commit": "dff1b082f002361e4d5ff863807263a3368cbc67",
+        "video_repo_path": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/视频/62 为机器点燃思想的人.mp4",
+        "bytes": 15966119,
+        "sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb"
       },
-      "status": "latest_authorized_revision_in_production",
-      "latest_requested_revision_complete": false,
-      "actual_complete_validation_passed": false,
+      "status": "latest_qualified_cloud_final",
+      "latest_requested_revision_complete": true,
+      "actual_complete_validation_passed": true,
       "actual_dual_permanent_archive_passed": false,
       "newest_user_revision_records": [
         "assistant-derived-record-key-final-book62-source23-b5741a1f9e9c"
@@ -4268,7 +4268,24 @@
         "authority_record_key": "assistant-derived-record-key-final-book62-source23-b5741a1f9e9c",
         "latest_qualified_full_H_and_complete_dual_permanent_archive_still_required": true,
         "no_new_media_or_source_or_complete_pass_claimed": true
-      }
+      },
+      "primary_permanent_archive_passed": true,
+      "backup_mirror_pending": {
+        "repository": "AlienCodes/literate-enigma",
+        "reason": "no access from the 2026-11-16 session",
+        "action": "mirror this archive folder, then set actual_dual_permanent_archive_passed=true"
+      },
+      "latest_revision_final": {
+        "asset_commit": "dff1b082f002361e4d5ff863807263a3368cbc67",
+        "video_repo_path": "视频修订定稿/2026-11-14-审核原23-新native源QA与0.6秒定稿-来源43755903301-本地尾段v1/视频/62 为机器点燃思想的人.mp4",
+        "bytes": 15966119,
+        "sha256": "026c39d4564e299f908d949e99ac5efb6ac3ab5303ac2f3c838d5028f139d1cb"
+      },
+      "validation_report_sha256": "2315fbe339cb2603d4c265e8dd32df54c95f74e9cf6539f53b87b9d59e489815",
+      "post_reading_pause_seconds": 0.6,
+      "illustration_seconds": 2,
+      "summary_card_seconds": 2,
+      "source_roles_preserved": true
     },
     {
       "source_id": "64",
