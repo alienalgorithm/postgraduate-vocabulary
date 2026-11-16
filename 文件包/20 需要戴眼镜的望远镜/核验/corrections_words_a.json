@@ -1,0 +1,51 @@
+[
+ {
+  "key": 1,
+  "field": "etymology",
+  "before": "loft 来自古斯堪的纳维亚语 lopt（空中；楼上的房间），中古英语借入后指“上层的房间”，现代名词义“阁楼”即由此而来。动词义“把（球等）高高打起、抛起”是由“空中、高处”的意思引申出来的。",
+  "after": "loft 在晚期古英语中从古斯堪的纳维亚语 lopt（空气，天空；楼上的房间）借入，最初指“空中，高处”，约1300年起指“上层的房间，阁楼”。动词义“把（球）高高打起”19世纪中叶出现，最初是高尔夫球用语，由“空中、高处”的意思引申而来。",
+  "reason": "据 Etymonline，loft 晚期古英语已借入，最初义是“空中，天空”，阁楼义约始于1300年，动词义1857年起见于高尔夫球；原说法“中古英语借入后指上层的房间”不准确。"
+ },
+ {
+  "key": 3,
+  "field": "etymology",
+  "before": "17世纪末出现，由动词 observe（观察）加表示“场所”的后缀 -atory 构成，与法语 observatoire 同源。",
+  "after": "17世纪90年代出现，来自法语 observatoire，由 observer（观察）加表示场所的后缀构成，相当于英语动词 observe 加后缀 -atory。",
+  "reason": "据 Etymonline，observatory 直接借自法语 observatoire，不是英语自行构词后与法语“同源”。"
+ },
+ {
+  "key": 13,
+  "field": "etymology",
+  "before": "动词 blur 出现于16世纪中叶，最初意为“弄脏，涂污”",
+  "after": "blur 出现于16世纪，最初作名词指（字迹上的）污迹，作动词意为“弄脏，涂污”",
+  "reason": "据 Etymonline，blur 先作名词（1540年代，污迹），动词晚至1580年代，原说法“动词出现于16世纪中叶”不准确。"
+ },
+ {
+  "key": 21,
+  "field": "form_note",
+  "before": "marred 是 mar 的过去式，重读闭音节结尾，双写 r 再加 -ed。",
+  "after": "marred 是 mar 的过去式；mar 是以“单个元音字母 + 单个辅音字母”结尾的重读单音节词，按拼写规则双写 r 再加 -ed。",
+  "reason": "mar 读 /mɑː(r)/，不是严格意义上的“重读闭音节”，双写 r 的依据是拼写规则，改为准确表述。"
+ },
+ {
+  "key": 25,
+  "field": "related.0",
+  "before": "{\"en\": \"lenses\", \"pos\": \"n.\", \"zh\": \"（lens 的复数）透镜，镜片\"}",
+  "after": "{\"en\": \"lenticular\", \"pos\": \"adj.\", \"zh\": \"透镜状的；双凸的\"}",
+  "reason": "lenses 只是 lens 的复数形式，不是同根词或派生词，换成真实存在的同根形容词 lenticular。"
+ },
+ {
+  "key": 28,
+  "field": "context_usage",
+  "before": "1.3 大于1，单位用复数。",
+  "after": "数字不是恰好为1，所以单位用复数。",
+  "reason": "原说法暗示“大于1才用复数”，不准确：小于1的小数后面单位同样用复数。"
+ },
+ {
+  "key": 28,
+  "field": "usage_detail",
+  "before": "数字大于1时用复数，如 1.3 millimetres",
+  "after": "除数字恰好为1（one millimetre）外，一般用复数，小数也不例外，如 0.5 millimetres、1.3 millimetres",
+  "reason": "“数字大于1时用复数”不准确，0.5 millimetres 等小于1的小数也用复数。"
+ }
+]

@@ -1,0 +1,1634 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "the space shuttle Discovery",
+   "predicate": "lofted",
+   "object_or_complement": "the Hubble Space Telescope",
+   "explain": "主干是 the space shuttle Discovery lofted the Hubble Space Telescope，主谓宾结构；句末 into orbit 说明宾语被送到的位置，与 lofted 构成 loft A into orbit（把 A 送上轨道）。谓语 lofted 是一般过去时，主动语态，叙述过去某一天发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "On 24 April 1990",
+    "zh": "1990年4月24日",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "the space shuttle Discovery",
+    "zh": "发现号航天飞机",
+    "role": "主语（类名 the space shuttle 与专名 Discovery 构成同位关系）"
+   },
+   {
+    "text": "lofted",
+    "zh": "把……送上",
+    "role": "谓语（与句末 into 构成 loft A into B）"
+   },
+   {
+    "text": "the Hubble Space Telescope",
+    "zh": "哈勃空间望远镜",
+    "role": "宾语"
+   },
+   {
+    "text": "into orbit.",
+    "zh": "轨道",
+    "role": "方向状语（介词短语），说明宾语被送到的位置"
+   }
+  ],
+  "structure": "①句首 On 24 April 1990 是时间状语，具体日期前用介词 on。日期是英式写法“日 月 年”，中间不加逗号；状语很短，后面也没有用逗号隔开，主语紧接着出现。\n②主语 the space shuttle Discovery 中，Discovery 是这架航天飞机的名字，与前面的类名 the space shuttle 指同一事物，构成紧密同位语，类名在前、专名在后，中间不加逗号。\n③谓语 lofted 带宾语 the Hubble Space Telescope；into orbit 是介词短语，说明宾语被送到哪里，loft A into orbit 意为“把 A 送上轨道”（视频说明）。orbit 在 into orbit、in orbit 中不加冠词。\n④本句是全文开篇，交代时间、运载工具和被送上太空的对象，为第2句的造价和第3句的转折作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "具体日期前用介词 on",
+    "explain": "表示时间时，具体某一天（日期、星期几、某一天的上午或晚上）前用 on，月份、年份、季节前用 in，钟点前用 at。本句 On 24 April 1990 是具体日期，所以用 on；第5句 In June 1990 只有月份和年份，所以用 in。日期写法有英式和美式两种：英式 24 April 1990（日 月 年），美式 April 24, 1990（月 日, 年），本文用英式。考研写作中日期前易错写成 in。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new museum will open to the public on 3 March next year.",
+      "zh": "这座新博物馆将于明年3月3日向公众开放。"
+     }
+    ]
+   },
+   {
+    "title": "动词 + 宾语 + 介词短语：loft A into B",
+    "explain": "有些动词带宾语后，要用介词短语说明宾语被移到哪里或进入什么状态，这个介词短语在意思上不可缺少，如 put a plan into practice、launch a satellite into orbit。本句 lofted the Hubble Space Telescope into orbit 中，into orbit 说明望远镜被送到的位置，与 lofted 合起来才是完整的意思（视频说明“loft A into orbit：把 A 送上轨道”）。翻译时常用汉语的“把”字句，把宾语提到动词前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The rocket carried two navigation satellites into orbit on Friday.",
+      "zh": "这枚火箭周五把两颗导航卫星送入了轨道。"
+     }
+    ]
+   },
+   {
+    "title": "类名与专名构成的紧密同位语",
+    "explain": "the space shuttle Discovery 中，the space shuttle 是类名，Discovery 是专名，两者指同一事物，构成紧密同位语，中间不加逗号，定冠词 the 放在类名前。同类说法有 the novelist Charles Dickens、the river Thames。汉语习惯专名在前、类名在后，所以译成“发现号航天飞机”；第13句的 Endeavour 也是一架航天飞机，译为“奋进号”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The container ship Ever Given blocked the Suez Canal for six days in March 2021.",
+      "zh": "2021年3月，长赐号集装箱船堵塞苏伊士运河长达六天。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "space shuttle",
+    "explain": "航天飞机，美国研制的可重复使用的航天器，像火箭一样垂直发射，返回时像飞机一样滑翔着陆。Discovery（发现号）和第13句的 Endeavour（奋进号）都是航天飞机的名字。航天器、船舶的名称在正式出版物中常用斜体。"
+   },
+   {
+    "term": "Hubble Space Telescope",
+    "explain": "哈勃空间望远镜，以美国天文学家埃德温·哈勃（Edwin Hubble）的名字命名，常简称 Hubble。第15句 Hubble's vision 中的 Hubble 即指这台望远镜。"
+   },
+   {
+    "term": "into orbit / in orbit",
+    "explain": "orbit 意为“轨道”，into orbit 表示“进入轨道”，in orbit 表示“在轨道上”，两者都不加冠词：send/launch sth into orbit（把……送入轨道），a satellite in orbit（在轨卫星）。第10句 could not be repaired in orbit 用的就是 in orbit。orbit 也可作动词，意为“绕……运行”，如 The moon orbits the earth。"
+   },
+   {
+    "term": "loft",
+    "explain": "动词 loft 指把东西高高抛起、送上高处，体育报道中常见，如 loft the ball over the goalkeeper（把球高高挑过守门员）；名词 loft 指阁楼。本句用它表现航天飞机把望远镜托举上太空的画面。"
+   }
+  ],
+  "translation_tip": "视频译文“1990年4月24日，发现号航天飞机把哈勃空间望远镜送上轨道。”的处理：①英式日期 24 April 1990 按汉语“年月日”的顺序改写为“1990年4月24日”，放在句首，后加逗号。②the space shuttle Discovery 按汉语习惯专名在前、类名在后，译成“发现号航天飞机”，Discovery 意译后加“号”。③lofted … into orbit 用“把”字句，宾语“哈勃空间望远镜”提到动词前，lofted 与 into orbit 合译为“送上轨道”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "The observatory",
+   "predicate": "had cost",
+   "object_or_complement": "about $1.5 billion",
+   "explain": "主干是 The observatory had cost about $1.5 billion，主谓宾结构，cost 后直接接表示金额的宾语。谓语 had cost 是过去完成时，主动语态，表示到第1句发射的时候，这座天文台已经花费了这么多钱。"
+  },
+  "components": [
+   {
+    "text": "The observatory",
+    "zh": "这座……天文台",
+    "role": "主语（指上句的哈勃空间望远镜）"
+   },
+   {
+    "text": "cradled in the payload bay",
+    "zh": "安放在有效载荷舱里的",
+    "role": "后置定语（过去分词短语），修饰 The observatory"
+   },
+   {
+    "text": "had cost",
+    "zh": "耗资",
+    "role": "谓语（过去完成时，主动语态）"
+   },
+   {
+    "text": "about $1.5 billion,",
+    "zh": "约15亿美元",
+    "role": "宾语（表示金额，about 修饰数字）"
+   },
+   {
+    "text": "a lavish investment",
+    "zh": "是一笔巨大的/奢侈的投资",
+    "role": "同位语（名词短语），补充说明前面这笔钱"
+   },
+   {
+    "text": "meant to fix its gaze on",
+    "zh": "旨在把目光投向",
+    "role": "后置定语（过去分词短语 meant to do），修饰 investment"
+   },
+   {
+    "text": "the cosmos and its galaxies.",
+    "zh": "宇宙及其中的星系",
+    "role": "介词 on 的宾语（and 连接的两个并列名词短语）"
+   }
+  ],
+  "structure": "①主句是 The observatory had cost about $1.5 billion。主语 The observatory 指上一句的哈勃空间望远镜，换用“天文台”，避免重复。\n②cradled in the payload bay 是过去分词短语作后置定语，修饰 The observatory，相当于 which was cradled in the payload bay；望远镜是“被安放”的一方，所以用过去分词。视频说明 cradle 指“像双手或摇篮一样，温柔地托着、兜住或护住某物”。\n③逗号后的 a lavish investment 是名词短语作同位语，补充说明前面这笔钱（视频说明），对 $1.5 billion 作出评价。\n④meant to fix its gaze on the cosmos and its galaxies 是过去分词短语作后置定语，修饰 investment（视频说明），相当于 which was meant to…，be meant to do 表示“旨在，目的是”。fix its gaze on 意为“把目光投向”，第一个 its 指这座天文台，把望远镜比作一只注视宇宙的眼睛；the cosmos and its galaxies 是 on 的宾语，第二个 its 指 the cosmos，所以译为“及其中的星系”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "及物动词的过去分词短语放在名词后作定语，表示被动或完成，相当于省略了“关系代词 + be”的定语从句。本句有两处：cradled in the payload bay 修饰 The observatory，等于 which was cradled in the payload bay；meant to fix its gaze on… 修饰 investment，等于 which was meant to…。考研长难句中，名词后紧跟 -ed 形式时，先判断它是谓语还是后置定语：本句真正的谓语是 had cost，cradled 后面没有宾语，又紧跟在主语之后，只能是定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The vaccines stored in the old warehouse had to be destroyed after the power failure.",
+      "zh": "停电之后，存放在旧仓库里的疫苗不得不被销毁。"
+     },
+     {
+      "en": "The funds raised at the concert will go to families affected by the flood.",
+      "zh": "音乐会上募集的善款将用于帮助受洪灾影响的家庭。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语，补充说明前面的内容",
+    "explain": "句末用逗号隔开的名词短语，可以对前面的名词或数量作补充说明、加以评价，属于同位语，新闻和评论文体中很常见。本句 a lavish investment 补充说明前面的 $1.5 billion（视频说明“同位语，补充说明前面这笔钱”），点明这是一笔巨大的投资。识别方法：逗号后是一个不带谓语的名词短语，它与前面某个成分指同一事物。翻译时常增补“是”“这是”，译成判断句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut 3,000 jobs last year, almost a fifth of its workforce.",
+      "zh": "该公司去年裁员3000人，几乎占其员工总数的五分之一。"
+     },
+     {
+      "en": "The city spent $2 billion on the new airport, a sum many residents considered wasteful.",
+      "zh": "该市在新机场上花了20亿美元，很多居民认为这笔钱花得很浪费。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时 had cost",
+    "explain": "过去完成时表示在过去某一时间之前已经发生或完成的动作。本句的参照点是第1句的发射日期1990年4月24日：望远镜被送上轨道时，已经耗资约15亿美元，花钱发生在发射之前，所以用 had cost。cost 的过去式和过去分词都是 cost，要靠 had 判断时态。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the stadium opened, its budget had doubled.",
+      "zh": "到体育场开放时，它的预算已经翻了一番。"
+     }
+    ]
+   },
+   {
+    "title": "be meant to do：旨在，目的是",
+    "explain": "mean 的过去分词 meant 常用于 be meant to do sth，表示“目的是，旨在，本应”；去掉 be，meant to do 可直接作后置定语。本句 a lavish investment meant to fix its gaze on… 即“一笔旨在……的投资”，视频译为“旨在”。易混：mean doing sth 表示“意味着……”，如 Missing the train means waiting another hour。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new rules are meant to protect consumers from hidden fees.",
+      "zh": "新规旨在保护消费者免受隐性收费之害。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "payload bay",
+    "explain": "航天飞机的有效载荷舱，即机身中部装运卫星、望远镜等货物的舱段。payload 指运载工具真正要送达的载荷（卫星、仪器等），区别于燃料和运载器本身；bay 指飞机、船只上的隔舱或建筑中的特定区域，如 bomb bay（炸弹舱）、loading bay（装卸区）。"
+   },
+   {
+    "term": "cradle",
+    "explain": "名词是“摇篮”，作动词指像抱婴儿一样小心地托着、抱着，如 cradle a baby in one's arms。视频说明为“像双手或摇篮一样，温柔地托着、兜住或护住某物”，本句译为“安放”。"
+   },
+   {
+    "term": "$1.5 billion",
+    "explain": "读作 one point five billion dollars。billion 是“十亿”，1.5 billion 即15亿，汉语以“亿”为单位换算。billion 前有具体数字时不加 -s（two billion），表示“数十亿”时才用 billions of。"
+   },
+   {
+    "term": "fix one's gaze on",
+    "explain": "把目光投向，凝视（视频说明）。fix 在这里意为“使（目光、注意力）固定在某处”，类似说法有 fix one's eyes on、fix one's attention on。本句把天文台拟人化，仿佛它有一双眼睛。"
+   },
+   {
+    "term": "lavish",
+    "explain": "形容词，形容花钱、给予时毫不吝惜，常带“奢华、过分”的意味，如 a lavish party、lavish spending；视频取“巨大的/奢侈的”两层意思。"
+   }
+  ],
+  "translation_tip": "视频译文“这座安放在有效载荷舱里的天文台耗资约15亿美元，是一笔巨大的/奢侈的投资，旨在把目光投向宇宙及其中的星系。”的处理：①过去分词短语 cradled in the payload bay 前置为“安放在有效载荷舱里的”，修饰“天文台”；The 译为“这座”，增补量词。②had cost 译为“耗资”，前文已交代时间，不再加“已经”。③同位语 a lavish investment 增补“是”，译为判断句“是一笔……投资”。④后置定语 meant to… 如果前置，定语过长，视频把它拆成独立小句“旨在……”。⑤$1.5 billion 按汉语计数习惯换算为“15亿美元”；the cosmos and its galaxies 中的 its 译为“其中的”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Money",
+   "predicate": "could not buy",
+   "object_or_complement": "clarity",
+   "explain": "主干是 Money could not buy clarity，主谓宾结构。谓语 could not buy 由情态动词 could 的否定式加动词原形构成，表示过去“不能”，主动语态。主语和谓语之间插入了 it soon emerged。"
+  },
+  "components": [
+   {
+    "text": "Money,",
+    "zh": "金钱",
+    "role": "主语"
+   },
+   {
+    "text": "it soon emerged,",
+    "zh": "人们很快发现",
+    "role": "插入语（it 为形式主语，相当于 it soon emerged that…）"
+   },
+   {
+    "text": "could not buy",
+    "zh": "买不来",
+    "role": "谓语（情态动词 could 的否定式 + 动词原形）"
+   },
+   {
+    "text": "clarity.",
+    "zh": "清晰度",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①主句是 Money could not buy clarity，主语 Money 与谓语 could not buy 之间插入了 it soon emerged，前后用逗号隔开。\n②it soon emerged 是插入语（视频说明“人们很快发现”），由 It soon emerged that money could not buy clarity 变来：原句中 it 是形式主语，that 从句是真正的主语。把 it soon emerged 插到句中后，that 省略，句子的核心信息 Money could not buy clarity 被突出出来。\n③本句上承第2句的巨额投资，下启第4句的模糊照片：花了15亿美元，换来的却是不清晰的图像。Money 与上句的 $1.5 billion 呼应，clarity 指望远镜成像的清晰度。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插入语 it emerged",
+    "explain": "It emerged that… 意为“人们发现，事实显示”，it 是形式主语，that 从句是真正的主语。这类“it + 动词”结构可以压缩后插入句中，用逗号隔开，作插入语，如 it seems、it appears、it turned out、it later emerged。插入语不影响句子主干，阅读时先越过两个逗号之间的内容，把 Money 和 could not buy 连起来找主干。翻译时插入语一般提到句首，并补出主语“人们”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister, it later emerged, had known about the problem for months.",
+      "zh": "后来人们发现，这位部长几个月前就已经知道这个问题。"
+     },
+     {
+      "en": "The painting, it turned out, was a skilful forgery.",
+      "zh": "结果发现，这幅画是一件手法高明的赝品。"
+     }
+    ]
+   },
+   {
+    "title": "could not 表示过去不能",
+    "explain": "could 是 can 的过去式，could not do 表示过去没有能力或不可能做某事。本句叙述1990年的事，所以用 could not buy，而不用 cannot buy。表示过去某一次具体做成了某事，一般用 was able to 或 managed to，不用 could；否定句则 could not 和 was not able to 都可以。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Even the most experienced surgeons could not save the patient.",
+      "zh": "就连最有经验的外科医生也没能救活这位病人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "emerge",
+    "explain": "熟词僻义：常见义是“出现，浮现”；在 it emerged that… 中指事实、消息“被人知道，显露出来”，新闻中很常见，如 It has emerged that the company knew about the defect。名词 emergence（出现），形容词 emerging（新兴的，如 emerging markets 新兴市场）。"
+   },
+   {
+    "term": "Money could not buy clarity",
+    "explain": "句式令人联想到英语俗语 Money can't buy happiness（金钱买不来幸福）。作者把 happiness 换成 clarity，用一句俏皮话点出巨额投资没能换来清晰的图像。"
+   },
+   {
+    "term": "clarity",
+    "explain": "名词，清晰，清楚；既可指图像、声音的清晰度，如 the clarity of the picture，也可指思维、表达清楚明白，如 clarity of thought（思路清晰）。形容词 clear，动词 clarify（澄清，阐明）。"
+   }
+  ],
+  "translation_tip": "视频译文“人们很快发现，金钱买不来清晰度。”的处理：①插入语 it soon emerged 提到句首，it 是形式主语，没有具体所指，视频补出主语“人们”，emerged 译为“发现”。②could not buy 译为动补结构“买不来”，简短有力，保留了原句俏皮的语气。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Its first snapshots",
+   "predicate": "came back",
+   "object_or_complement": "blurred and fuzzy（主语补足语）",
+   "explain": "主干是 Its first snapshots came back blurred and fuzzy。came back 是不及物的动词短语，后面的两个形容词 blurred and fuzzy 作主语补足语，说明快照传回来时的状态（视频说明“come back＋形容词：传回来时是……的样子”）。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Its first snapshots",
+    "zh": "它最初的快照",
+    "role": "主语（Its 指哈勃空间望远镜）"
+   },
+   {
+    "text": "came back",
+    "zh": "传回来时",
+    "role": "谓语（不及物动词短语）"
+   },
+   {
+    "text": "blurred",
+    "zh": "模糊不清",
+    "role": "主语补足语（形容词），说明快照传回时的状态"
+   },
+   {
+    "text": "and fuzzy.",
+    "zh": "很不清楚",
+    "role": "并列连词 and + 主语补足语（形容词），与 blurred 并列"
+   }
+  ],
+  "structure": "①主语 Its first snapshots 中，Its 指哈勃空间望远镜，first 是序数词，snapshots 是复数名词；物主代词在前，序数词在后。\n②谓语 came back 意为“（照片等）传回来”，come back 本身意思完整，后面不带宾语。\n③blurred and fuzzy 是两个并列的形容词，作主语补足语，说明主语 snapshots 传回时的状态（视频说明）。blurred 由过去分词转化而来，fuzzy 是普通形容词，两词意思相近，叠用加深了“模糊”的印象。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物动词 + 形容词作主语补足语",
+    "explain": "一些表示动作的不及物动词（come、return、arrive、die、marry 等）后面可以接形容词或分词，说明动作发生或结束时主语所处的状态，这个形容词作主语补足语。本句 came back blurred and fuzzy 即“传回来时是模糊不清的”。这里不能改用副词，因为 blurred 和 fuzzy 描述的是快照本身，而不是“传回”这个动作的方式。考研完形常考：描述主语状态用形容词，描述动作方式用副词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The climbers returned exhausted but safe after three days on the mountain.",
+      "zh": "登山者在山上待了三天，回来时精疲力竭，但都平安无事。"
+     },
+     {
+      "en": "The test results came back negative, to everyone's relief.",
+      "zh": "检测结果是阴性，大家都松了一口气。"
+     }
+    ]
+   },
+   {
+    "title": "限定词的排列顺序",
+    "explain": "名词前有几个限定词时，一般顺序是：冠词或物主代词在前，序数词其次，基数词再次，然后才是描述性形容词，如 its first snapshots、the first three chapters、my last two weeks。本句 Its first snapshots 不能写成 first its snapshots。写作中“头两年”说 the first two years，不说 the two first years。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her first two novels sold poorly, but the third became a bestseller.",
+      "zh": "她的头两部小说卖得不好，第三部却成了畅销书。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "snapshot",
+    "explain": "名词，快照，指随手快速拍下的照片；也常用比喻义，指对某一时刻情况的简要反映，如 a snapshot of public opinion（民意的一个侧面）。本句指哈勃最初拍回的照片，视频译为“快照”。"
+   },
+   {
+    "term": "come back",
+    "explain": "本句指照片、数据等“被送回来”，同样的用法如 The results came back positive（结果呈阳性）。哈勃在太空中拍摄，图像要传回地面，所以视频译为“传回来时”。"
+   },
+   {
+    "term": "blurred and fuzzy",
+    "explain": "两个近义形容词并列。blurred 强调轮廓、边缘看不清，如 blurred vision（视力模糊）；fuzzy 指不清晰、不分明，也可指毛茸茸的。视频分别译为“模糊不清”“很不清楚”，两个说法叠用，强调图像质量之差。"
+   }
+  ],
+  "translation_tip": "视频译文“它最初的快照传回来时模糊不清、很不清楚。”的处理：①Its 译为“它”，first 译为“最初的”，语序与英文一致。②came back 增补“时”，译为“传回来时”，把主语补足语表示的“传回时的状态”交代清楚。③两个并列形容词译为“模糊不清、很不清楚”，用顿号隔开，保留英文近义词叠用的强调效果。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "announced",
+   "object_or_complement": "a flaw",
+   "explain": "主干是 NASA announced a flaw，主谓宾结构，谓语为一般过去时，主动语态。冒号后面是一个完整的分句 its outer rim had been flattened by 2.2 micrometres，具体说明这个缺陷，谓语 had been flattened 是过去完成时的被动语态。"
+  },
+  "components": [
+   {
+    "text": "In June 1990",
+    "zh": "1990年6月",
+    "role": "时间状语（介词短语，月份和年份前用 in）"
+   },
+   {
+    "text": "NASA",
+    "zh": "美国航天局",
+    "role": "主语"
+   },
+   {
+    "text": "announced",
+    "zh": "宣布",
+    "role": "谓语"
+   },
+   {
+    "text": "a flaw",
+    "zh": "一个缺陷",
+    "role": "宾语"
+   },
+   {
+    "text": "in the main mirror:",
+    "zh": "主镜的",
+    "role": "后置定语（介词短语），修饰 a flaw"
+   },
+   {
+    "text": "its outer rim",
+    "zh": "主镜外侧的边缘",
+    "role": "冒号后分句的主语（its 指 the main mirror）"
+   },
+   {
+    "text": "had been flattened",
+    "zh": "被磨平了",
+    "role": "冒号后分句的谓语（过去完成时，被动语态）"
+   },
+   {
+    "text": "by 2.2 micrometres,",
+    "zh": "2.2微米",
+    "role": "程度状语（介词短语，by 表示相差的量）"
+   },
+   {
+    "text": "roughly",
+    "zh": "大约相当于",
+    "role": "状语（副词），修饰后面的同位语，表示约数"
+   },
+   {
+    "text": "a fiftieth of the width of a hair.",
+    "zh": "头发丝宽度的五十分之一",
+    "role": "同位语（名词短语），补充说明 2.2 micrometres"
+   }
+  ],
+  "structure": "①句首 In June 1990 是时间状语，只有月份和年份，所以介词用 in。\n②主句 NASA announced a flaw 中，in the main mirror 是介词短语作后置定语，修饰 flaw（视频说明），说明缺陷所在的位置。\n③冒号后的分句具体说明缺陷是什么（视频说明“冒号后面具体说明缺陷”）：主语 its outer rim 中 its 指 the main mirror；谓语 had been flattened 是过去完成时的被动语态，磨平发生在宣布之前；by 2.2 micrometres 中的 by 表示相差的量（视频说明），即被磨平的幅度是2.2微米。\n④roughly a fiftieth of the width of a hair 是同位语，补充说明 2.2 micrometres（视频说明），用头发丝作比，显示误差之小。roughly 意为“大约”；a fiftieth 是分数“五十分之一”；of the width of a hair 中有两层 of 结构，后一层修饰前一层。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "冒号引出具体说明",
+    "explain": "冒号的常见作用之一是引出对前文的解释、具体说明或举例，冒号后面的内容比前面更具体。本句冒号前说“宣布了一个缺陷”，冒号后具体说明缺陷是什么：主镜外边缘被磨平了2.2微米。考研阅读中，冒号后的内容常常就是细节题要找的依据，读到冒号要把前后两部分对应起来。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan had one obvious weakness: nobody knew how to pay for it.",
+      "zh": "这个计划有一个明显的缺陷，没人知道钱从哪里来。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时的被动语态",
+    "explain": "过去完成时的被动语态是 had been done，表示在过去某一时间之前已经完成、且主语是动作承受者的动作。本句 its outer rim had been flattened：边缘被磨平发生在1990年6月宣布之前，而且边缘是被磨的一方，所以用 had been flattened。第8句的 had been offset 是同样的结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the firefighters arrived, most of the residents had already been evacuated.",
+      "zh": "消防员赶到时，大部分居民已经被疏散了。"
+     },
+     {
+      "en": "The museum announced that the painting had been damaged during transport.",
+      "zh": "博物馆宣布，这幅画在运输途中受到了损坏。"
+     }
+    ]
+   },
+   {
+    "title": "介词 by 表示相差的量",
+    "explain": "by 后接数量，表示增减、相差、超出的幅度，如 rise by 10%（上涨了10%）、win by two points（以两分优势获胜）。本句 had been flattened by 2.2 micrometres 表示被磨平的幅度是2.2微米（视频说明“by：表示相差的量”）。考研图表作文易错：increase by 20% 是“增加了20%”，increase to 20% 是“增加到20%”，意思不同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Sales of electric cars rose by 35 percent last year.",
+      "zh": "去年电动汽车的销量增长了35%。"
+     },
+     {
+      "en": "The sprinter missed the world record by just two hundredths of a second.",
+      "zh": "这名短跑运动员只差百分之二秒就打破了世界纪录。"
+     }
+    ]
+   },
+   {
+    "title": "分数的表达",
+    "explain": "英语分数用“基数词作分子、序数词作分母”，如 a fiftieth（五十分之一）、one third（三分之一）；分子大于1时，分母加 -s，如 two fifths（五分之二）、three quarters（四分之三）。本句 a fiftieth of the width of a hair 意为“头发丝宽度的五十分之一”，分数后接 of 结构，翻译时把 of 后面的部分提到前面。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Roughly two thirds of the respondents said they would pay more for greener products.",
+      "zh": "大约三分之二的受访者表示，他们愿意为更环保的产品多付钱。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NASA",
+    "explain": "美国国家航空航天局（National Aeronautics and Space Administration）的缩写，视频译为“美国航天局”。NASA 是首字母缩略词，按一个单词来读，前面不加冠词。"
+   },
+   {
+    "term": "the main mirror",
+    "explain": "主镜，即反射式望远镜中收集光线的大反射镜，也叫 primary mirror。哈勃空间望远镜的主镜直径约2.4米。"
+   },
+   {
+    "term": "spherical aberration",
+    "explain": "主镜边缘磨得过平，会使镜面边缘和中心反射的光不能会聚到同一个焦点上，这种光学缺陷叫球面像差（spherical aberration）。这正是下一句 leaving light without a sharp focus 所说的结果。"
+   },
+   {
+    "term": "micrometres",
+    "explain": "micrometre 的复数，微米，即百万分之一米，符号 μm；英式拼写，美式拼写为 micrometer。2.2 大于1，所以单位用复数。"
+   },
+   {
+    "term": "a hair",
+    "explain": "hair 指“一根头发”时是可数名词，如 a hair、two hairs；指“（全部）头发”时不可数，如 She has long hair。本句 the width of a hair 指一根头发丝的宽度。"
+   }
+  ],
+  "translation_tip": "视频译文“1990年6月，美国航天局宣布主镜的一个缺陷，主镜外侧的边缘被磨平了2.2微米，大约相当于头发丝宽度的五十分之一。”的处理：①后置定语 in the main mirror 前置为“主镜的”，修饰“一个缺陷”。②冒号改为逗号，后面的分句接着译出；its 不译成“它的”，而是译出所指的“主镜”，避免指代不清。③had been flattened by 2.2 micrometres 译为“被磨平了2.2微米”，by 表示的幅度直接放在动词后。④同位语 roughly a fiftieth of… 增补“相当于”，译为“大约相当于……”；两层 of 结构由后往前译，成为“头发丝宽度的五十分之一”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "That deviation",
+   "predicate": "marred",
+   "object_or_complement": "the optics",
+   "explain": "主干是 That deviation marred the optics，主谓宾结构，谓语 marred 为一般过去时，主动语态。逗号后的 leaving light without a sharp focus 是现在分词短语，作结果状语（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "That deviation",
+    "zh": "这一偏差",
+    "role": "主语（That 回指上句所说的缺陷）"
+   },
+   {
+    "text": "marred",
+    "zh": "损害了",
+    "role": "谓语"
+   },
+   {
+    "text": "the optics,",
+    "zh": "光学系统",
+    "role": "宾语"
+   },
+   {
+    "text": "leaving",
+    "zh": "使",
+    "role": "结果状语（现在分词短语）的核心动词，构成 leave A without B"
+   },
+   {
+    "text": "light",
+    "zh": "光线",
+    "role": "leaving 的宾语"
+   },
+   {
+    "text": "without a sharp focus.",
+    "zh": "无法形成锐利的焦点",
+    "role": "宾语补足语（介词短语），说明 light 所处的状态"
+   }
+  ],
+  "structure": "①主句 That deviation marred the optics：That deviation 回指上一句的缺陷，即主镜外边缘被磨平的2.2微米；deviation 意为“偏差”，指镜面形状偏离了设计要求。\n②leaving light without a sharp focus 是现在分词短语作结果状语（视频说明），表示损害光学系统带来的结果；分词的逻辑主语是前面主句所说的整件事。\n③分词短语内部是 leave A without B 结构（视频说明“使 A 没有 B”）：light 是 leaving 的宾语，without a sharp focus 是介词短语作宾语补足语，说明光线所处的状态。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号隔开时，常表示前面动作自然带来的结果，相当于 and + 谓语。本句 leaving light without a sharp focus 相当于 and left light without a sharp focus。常作结果状语的分词有 leaving、making、causing、resulting in 等。考研长难句中，句末的 -ing 短语要判断它与主句是结果关系还是伴随关系：本句是结果状语，第14句的 installing… 则是伴随状语（视频说明）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The factory closed suddenly, putting 800 people out of work.",
+      "zh": "工厂突然倒闭，致使800人失业。"
+     },
+     {
+      "en": "Heavy rain fell for three days, causing the river to burst its banks.",
+      "zh": "大雨连下三天，导致河水决堤。"
+     }
+    ]
+   },
+   {
+    "title": "leave + 宾语 + 宾语补足语",
+    "explain": "leave 带复合宾语，表示“使某人或某物处于某种状态”，宾语补足语可以是形容词、分词或介词短语。leave A without B 意为“使 A 没有 B”（视频说明），如 leave sb without a job（使某人失业）。第9句 left the contradictory reading unexplored 也是 leave 带宾补，宾补是形容词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm left thousands of homes without electricity.",
+      "zh": "这场暴风雨导致数千户家庭断电。"
+     },
+     {
+      "en": "Years of neglect had left the old theatre unsafe.",
+      "zh": "多年无人维护，那座老剧院已经不安全了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "deviation",
+    "explain": "名词，偏离，偏差，常接 from，如 deviation from the norm（偏离常规）；统计学中 standard deviation 是“标准差”。本句 That deviation 回指上句的 flattened by 2.2 micrometres，是对同一件事的换词复述。动词 deviate（偏离）。"
+   },
+   {
+    "term": "mar",
+    "explain": "动词，损害，破坏（外观、质量或气氛），较正式，常用被动，如 The ceremony was marred by heavy rain（典礼因大雨而大为逊色）。过去式 marred 双写 r。视频译为“损害了”。"
+   },
+   {
+    "term": "optics",
+    "explain": "以 -s 结尾的名词。指“光学”这门学科时作单数用；本句指望远镜中透镜、反射镜等组成的光学系统，视频译为“光学系统”。新闻中 optics 还可指某件事给公众留下的观感，如 the optics of the decision。"
+   },
+   {
+    "term": "sharp focus",
+    "explain": "focus 指焦点，in focus 指（图像）清晰、对准了焦点，out of focus 指模糊、没对准焦点。sharp 形容图像时意为“清晰的，轮廓分明的”，视频译为“锐利的”。光线不能聚成锐利的焦点，成像自然模糊，与第4句的 blurred and fuzzy 前后呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“这一偏差损害了光学系统，使光线无法形成锐利的焦点。”的处理：①That 回指上文，译为“这一”。②现在分词短语作结果状语，译成独立小句，leaving 译为“使”，把因果关系表达出来。③without a sharp focus 若直译为“没有锐利的焦点”不够通顺，视频把介词 without 转译为“无法形成”，增补动词“形成”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The trouble",
+   "predicate": "began",
+   "object_or_complement": "",
+   "explain": "主干是 The trouble began，主谓结构；began 是不及物动词，with calibration 是介词短语作状语，begin with 意为“始于”（视频说明）。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The trouble",
+    "zh": "问题",
+    "role": "主语（the 表示特指前文的成像问题）"
+   },
+   {
+    "text": "began",
+    "zh": "始于",
+    "role": "谓语（不及物动词，与 with 构成 begin with）"
+   },
+   {
+    "text": "with calibration.",
+    "zh": "校准",
+    "role": "状语（介词短语），说明问题从哪一环节开始"
+   }
+  ],
+  "structure": "①主语 The trouble 指前两段描述的问题：主镜的缺陷和由此导致的模糊成像，the 表示特指。\n②谓语 began 与 with calibration 搭配，begin with sth 表示“从某事开始，始于某事”（视频说明）。\n③本句是第3段的首句，作主题句：先用一句话点明问题的根源在校准，后面两句再具体说明校准如何出了错、为什么没人发现。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "begin with：始于",
+    "explain": "begin 作不及物动词时，常接 with 表示从某事开始、以某事为起点，如 The story begins with a murder。本句 The trouble began with calibration 即“问题始于校准”。注意区分：begin with sth 指以某事开始；to begin with 是独立的插入语，意为“首先，第一”，常用于列举理由，如 To begin with, the plan is too expensive。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most great discoveries begin with a simple question.",
+      "zh": "大多数伟大的发现都始于一个简单的问题。"
+     }
+    ]
+   },
+   {
+    "title": "trouble 的可数性",
+    "explain": "trouble 表示“麻烦，问题”时通常是不可数名词，如 have trouble doing sth（做某事有困难）；the trouble 特指某个具体问题，常用句型 The trouble is (that)… 或 The trouble with sth is that…。表示种种烦心事时可用复数 troubles，如 money troubles。本句 The trouble 指望远镜成像模糊这个具体问题。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The trouble with cheap shoes is that they rarely last more than a season.",
+      "zh": "便宜鞋子的问题在于，它们很少能穿过一个季节。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "calibration",
+    "explain": "名词，校准，标定，指用标准检验、调整仪器的刻度或读数，使其准确，如 the calibration of instruments。动词 calibrate。本句指检测主镜形状所用装置的校准，下一句具体说明。"
+   },
+   {
+    "term": "主题句",
+    "explain": "本句是第3段的主题句，只有五个词，先给出结论“问题始于校准”，再由第8、9句展开。考研阅读做段落主旨题时，段首的短句往往就是重要线索。"
+   }
+  ],
+  "translation_tip": "视频译文“问题始于校准。”与原句一样简短：The trouble 译为“问题”，began with 合译为书面语“始于”，比“是从……开始的”更紧凑，保留了原文主题句干脆利落的语气。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "A lens（前一分句）；the mirror（后一分句）",
+   "predicate": "had been offset（前一分句）；was ground to（后一分句）",
+   "object_or_complement": "the wrong curve（to 的宾语，表示磨成的结果）",
+   "explain": "全句是 so 连接的并列复合句，前一分句表示原因，后一分句表示结果。前一分句主干 A lens had been offset，谓语是过去完成时的被动语态；后一分句主干 the mirror was ground to the wrong curve，谓语 was ground 是一般过去时的被动语态，to the wrong curve 表示磨成的结果。"
+  },
+  "components": [
+   {
+    "text": "A lens",
+    "zh": "一块透镜",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "in the assembly",
+    "zh": "那套组件中",
+    "role": "后置定语（介词短语），修饰 A lens"
+   },
+   {
+    "text": "that checked the mirror's shape",
+    "zh": "检测主镜形状的",
+    "role": "限制性定语从句，修饰 the assembly（that 在从句中作主语）"
+   },
+   {
+    "text": "had been offset",
+    "zh": "错位了/偏离了",
+    "role": "前一分句的谓语（过去完成时，被动语态）"
+   },
+   {
+    "text": "by about 1.3 millimetres,",
+    "zh": "约1.3毫米",
+    "role": "程度状语（介词短语，by 表示偏离的幅度）"
+   },
+   {
+    "text": "so",
+    "zh": "因此",
+    "role": "并列连词，引出结果"
+   },
+   {
+    "text": "the mirror",
+    "zh": "主镜",
+    "role": "后一分句的主语"
+   },
+   {
+    "text": "was ground to",
+    "zh": "被磨成了",
+    "role": "后一分句的谓语（一般过去时，被动语态，be ground to 表示被磨成）"
+   },
+   {
+    "text": "the wrong curve.",
+    "zh": "错误的曲面",
+    "role": "介词 to 的宾语，表示研磨的结果"
+   }
+  ],
+  "structure": "①前一分句的主语 A lens 后面有一个介词短语作后置定语：in the assembly，修饰 lens（视频说明），说明透镜所在的位置。\n②that checked the mirror's shape 是限制性定语从句，修饰 the assembly（视频说明），不修饰 lens：检测主镜形状的是整套组件，不是那一块透镜。that 在从句中作主语。\n③谓语 had been offset 是过去完成时的被动语态，透镜错位发生在研磨主镜之前；by about 1.3 millimetres 中的 by 表示偏离的幅度。offset 的过去式和过去分词都是 offset，要靠 had been 判断。\n④so 是并列连词，引出结果 the mirror was ground to the wrong curve。ground 是 grind 的过去分词（视频说明），be ground to… 意为“被磨成……”，to 表示研磨的结果。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "定语从句先行词的判断",
+    "explain": "名词后面接“介词短语 + 定语从句”时，定语从句可能修饰紧挨着的名词，也可能修饰更前面的名词，要根据意思判断。本句 A lens in the assembly that checked the mirror's shape 中，that 从句修饰 the assembly（视频说明）：检测主镜形状的是整套组件，一块透镜单独做不到。考研翻译遇到这种结构，先判断修饰关系，再安排中文语序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The lid of the box that contains the samples must be sealed before shipping.",
+      "zh": "装样品的那个盒子，盒盖在运输前必须封好。"
+     },
+     {
+      "en": "She interviewed the director of the charity that had received the largest donation.",
+      "zh": "她采访了获得最大一笔捐款的那家慈善机构的负责人。"
+     }
+    ]
+   },
+   {
+    "title": "so 连接表示结果的并列句",
+    "explain": "so 作并列连词时，引出前一分句造成的结果，意为“所以，因此”，前面通常有逗号。英语中 because 和 so 不在同一句中连用，说 Because A, B 或 A, so B。注意区分 so that：so that 多引导目的状语从句（以便），本句的 so 只表示结果。第10句 so engineers prescribed tailored glasses 也是同样的用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The last train had already left, so we had to take a taxi.",
+      "zh": "末班火车已经开走了，所以我们只好打车。"
+     }
+    ]
+   },
+   {
+    "title": "不规则动词 grind 和 offset",
+    "explain": "grind 的过去式和过去分词都是 ground，与名词 ground（地面）同形；offset 的过去式和过去分词与原形相同。本句 had been offset 和 was ground to 中的 offset、ground 都是过去分词，与 be 构成被动语态。阅读时遇到 was ground，不要误解为“地面”，要想到 grind 的过去分词（视频说明）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The coffee beans were ground just before brewing.",
+      "zh": "咖啡豆是在冲泡前现磨的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "offset",
+    "explain": "熟词僻义：offset 最常见的意思是“抵消，弥补”，如 offset the cost（抵消成本）；本句是“使偏离原位”的意思，be offset by + 距离 表示“偏离了多少”，视频译为“错位了/偏离了”。"
+   },
+   {
+    "term": "assembly",
+    "explain": "熟词僻义：常见义是“集会，议会”，如 the General Assembly（联合国大会）；在工程技术中指由多个零件组装成的组件、装置，本句指检测主镜形状用的一套光学组件，视频译为“组件”。动词 assemble 有“组装”之义，assembly line 是“装配线”。"
+   },
+   {
+    "term": "lens",
+    "explain": "透镜，镜头，复数 lenses。透镜靠折射使光线会聚或发散，望远镜的主镜则靠反射收集光线，两者不同。contact lenses 是隐形眼镜。"
+   },
+   {
+    "term": "millimetres",
+    "explain": "millimetre 的复数，毫米，英式拼写；美式拼写为 millimeter。检测装置中1.3毫米的错位，使主镜按错误的标准被磨成了错误的曲面。"
+   },
+   {
+    "term": "curve",
+    "explain": "名词，曲线；本句指镜面的弯曲形状，视频译为“曲面”。望远镜的反射镜要按精确设计的曲面研磨，曲面稍有偏差，光线就不能会聚到一点。"
+   }
+  ],
+  "translation_tip": "视频译文“检测主镜形状的那套组件中，一块透镜错位了/偏离了约1.3毫米，主镜因此被磨成了错误的曲面。”的处理：①主语 A lens 带的后置定语较长，视频把 in the assembly that checked the mirror's shape 提到句首，译为“检测主镜形状的那套组件中”，定语从句前置修饰“组件”，the 译为“那套”；主语只剩“一块透镜”，句子更清楚。②had been offset 译为“错位了/偏离了”，给出两种说法；by about 1.3 millimetres 译为“约1.3毫米”，紧跟在动词后。③so 译为“因此”，放在后一分句的主语“主镜”之后，符合汉语习惯。④was ground to 译为“被磨成了”，保留被动。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "A second, independent test（前一分句）；engineers and NASA managers（后一分句）",
+   "predicate": "gave（前一分句）；judged … and left（后一分句）",
+   "object_or_complement": "a divergent result（前一分句宾语）；it less reliable、the contradictory reading unexplored（后一分句的两个复合宾语）",
+   "explain": "全句是 but 连接的并列复合句。前一分句主干 A second, independent test gave a divergent result，主谓宾结构；后一分句主干 engineers and NASA managers judged it less reliable and left the contradictory reading unexplored，两个并列谓语各带“宾语 + 宾语补足语”。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A second, independent test",
+    "zh": "第二次独立测试",
+    "role": "前一分句的主语（second 与 independent 都是前置定语，中间用逗号隔开）"
+   },
+   {
+    "text": "by the contractor,",
+    "zh": "承包商……做的",
+    "role": "后置定语（介词短语），修饰 test，说明测试由谁来做"
+   },
+   {
+    "text": "Perkin-Elmer,",
+    "zh": "珀金-埃尔默公司",
+    "role": "同位语（专有名词），补充说明 the contractor"
+   },
+   {
+    "text": "gave",
+    "zh": "给出了",
+    "role": "前一分句的谓语"
+   },
+   {
+    "text": "a divergent result,",
+    "zh": "不同的结果",
+    "role": "前一分句的宾语"
+   },
+   {
+    "text": "but",
+    "zh": "但",
+    "role": "并列连词，表示转折"
+   },
+   {
+    "text": "engineers and NASA managers",
+    "zh": "工程师和美国航天局的管理人员",
+    "role": "后一分句的主语（and 连接两个并列名词，NASA 作 managers 的前置定语）"
+   },
+   {
+    "text": "judged",
+    "zh": "认为",
+    "role": "后一分句的第一个谓语，构成 judge A + 形容词"
+   },
+   {
+    "text": "it",
+    "zh": "它",
+    "role": "judged 的宾语（it 回指前一分句的第二次独立测试）"
+   },
+   {
+    "text": "less reliable",
+    "zh": "不太可靠",
+    "role": "宾语补足语（形容词短语，less + 形容词原级）"
+   },
+   {
+    "text": "and left",
+    "zh": "（and 对应“也就”；left 与 unexplored 合译为“无人深究”）",
+    "role": "并列连词 + 后一分句的第二个谓语，构成 leave A + 形容词"
+   },
+   {
+    "text": "the contradictory reading",
+    "zh": "这一相互矛盾的读数",
+    "role": "left 的宾语"
+   },
+   {
+    "text": "unexplored.",
+    "zh": "无人深究",
+    "role": "宾语补足语（形容词），说明读数所处的状态"
+   }
+  ],
+  "structure": "①全句由 but 连接两个并列分句：前一分句说第二次测试给出了不同结果，后一分句说这一结果被搁置，前后是转折关系。\n②前一分句的主语较长：A second, independent test 中，second 表示“第二次”，independent 说明这次测试独立于检测主镜形状的那套组件；by the contractor 是介词短语作后置定语，修饰 test（视频说明）；Perkin-Elmer 是同位语，补充说明 the contractor（视频说明）。主语后才是谓语 gave 和宾语 a divergent result。\n③后一分句的主语 engineers and NASA managers 带两个并列谓语，共用这一主语：judged it less reliable 是 judge A＋形容词（视频说明“认为 A……”），it 作宾语，less reliable 作宾语补足语；left the contradictory reading unexplored 是 leave A＋形容词（视频说明“使 A 处于某种状态”），unexplored 作宾语补足语。\n④less reliable 是比较级，比较对象没有说出，按上下文是与检测主镜形状的那套组件相比；a divergent result 与 the contradictory reading 指同一个测试结果，后者换词复述，并用 the 特指。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动词 + 宾语 + 形容词作宾语补足语",
+    "explain": "judge、consider、find、think、leave、keep、make 等动词可以带复合宾语，即“宾语 + 宾语补足语”，形容词作宾补说明宾语的性质或状态。本句有两处：judged it less reliable 中 less reliable 说明 it 被认为怎样（视频说明“judge A＋形容词：认为 A……”）；left the contradictory reading unexplored 中 unexplored 说明读数被置于什么状态（视频说明“leave A＋形容词：使 A 处于某种状态”）。考研阅读中，宾语较长时宾补常被推到后面，要把宾补和前面的宾语对应起来，不要把形容词误当成修饰下一个名词的定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The inspectors judged the bridge unsafe and ordered it closed.",
+      "zh": "检查人员认定这座桥不安全，下令将其封闭。"
+     },
+     {
+      "en": "The new tax rules left many small firms confused about what they owed.",
+      "zh": "新的税收规定让许多小企业搞不清自己该交多少税。"
+     }
+    ]
+   },
+   {
+    "title": "less + 形容词原级：比较对象省略的比较级",
+    "explain": "less 加形容词原级构成比较级，表示“不如……那么……”，与 more 的方向相反，如 less expensive、less reliable。比较级后面的 than 部分常因上下文清楚而省略，阅读时要从上文找出比较对象。本句 judged it less reliable 没有写 than…，比较对象是检测主镜形状的那套组件，视频译为“不太可靠”。less 修饰的形容词用原级，不能说 less more reliable 或 less reliabler。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Online surveys are cheaper, but many researchers consider them less accurate.",
+      "zh": "网上调查成本更低，但许多研究人员认为它们没那么准确。"
+     }
+    ]
+   },
+   {
+    "title": "专有名词作同位语",
+    "explain": "普通名词后面用逗号隔开、再接一个专有名词，专有名词作同位语，点明前面的普通名词具体指谁，如 the contractor, Perkin-Elmer（承包商珀金-埃尔默公司）。同位语如果在句中，前后都要有逗号，所以 Perkin-Elmer 后面还有一个逗号，之后才是谓语 gave。阅读时把两个逗号之间的同位语暂时跳过，主语 test 和谓语 gave 就连上了。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report was written by the regulator, the Financial Conduct Authority, after a two-year inquiry.",
+      "zh": "这份报告由监管机构英国金融行为监管局在历时两年的调查之后撰写。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reading",
+    "explain": "熟词僻义：常见义是“阅读”；本句指仪器、测试显示的读数，可数名词，如 take a reading（读取读数）、a temperature reading（温度读数）、meter readings（电表读数）。视频译为“读数”。"
+   },
+   {
+    "term": "divergent / contradictory",
+    "explain": "divergent 意为“不同的，有分歧的”，强调彼此偏离、方向不一致，动词 diverge（分岔，偏离）；contradictory 意为“相互矛盾的”，强调两者不能同时成立，动词 contradict（与……相矛盾）。本句先用 divergent 说结果不同，再用 contradictory 点明它与主测试相互矛盾。"
+   },
+   {
+    "term": "contractor",
+    "explain": "承包商，指按合同为政府机构或企业承担工程、生产任务的公司或个人，如 a defence contractor（国防承包商）。动词 contract 有“订立合同，承包”之义。本句的承包商是珀金-埃尔默公司（Perkin-Elmer），即负责制造哈勃主镜的公司。"
+   },
+   {
+    "term": "independent test",
+    "explain": "独立测试，指与另一项测试互不依赖、用不同方法进行的测试。independent 在这里意为“不依赖其他的，单独进行的”，又如 an independent inquiry（独立调查）、independent evidence（独立的证据）。"
+   },
+   {
+    "term": "unexplored",
+    "explain": "由否定前缀 un- 加 explored 构成，意为“未被探究的，未经勘探的”，如 unexplored territory（未经勘探的地区）。本句指相互矛盾的读数没人去追查，视频译为“无人深究”。"
+   }
+  ],
+  "translation_tip": "视频译文“承包商珀金-埃尔默公司做的第二次独立测试给出了不同的结果，但工程师和美国航天局的管理人员认为它不太可靠，这一相互矛盾的读数也就无人深究。”的处理：①主语带后置定语和同位语，视频把 by the contractor, Perkin-Elmer 前置，同位语与 the contractor 合并为“承包商珀金-埃尔默公司”，增补“公司”和动词“做的”，修饰“第二次独立测试”。②NASA managers 中名词作定语，译为“美国航天局的管理人员”。③less reliable 不译成“不那么可靠”，视频译为“不太可靠”。④left the contradictory reading unexplored 不按“使……处于未被探究的状态”直译，视频把宾语“这一相互矛盾的读数”提到前面作话题，unexplored 译为“无人深究”，and 译为“也就”，表示顺势而来的结果；the 译为“这一”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The mirror（前一分句）；engineers（后一分句）",
+   "predicate": "could not be repaired（前一分句）；prescribed（后一分句）",
+   "object_or_complement": "tailored glasses（后一分句宾语）",
+   "explain": "全句是 so 连接的并列复合句，前因后果。前一分句 The mirror could not be repaired in orbit，谓语是“情态动词否定式 + be + 过去分词”，被动语态；后一分句 engineers prescribed tailored glasses 是主谓宾结构，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The mirror",
+    "zh": "主镜",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "could not be repaired",
+    "zh": "无法……修复",
+    "role": "前一分句的谓语（情态动词否定式 + 被动语态）"
+   },
+   {
+    "text": "in orbit,",
+    "zh": "在轨道上",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "so",
+    "zh": "于是",
+    "role": "并列连词，引出结果"
+   },
+   {
+    "text": "engineers",
+    "zh": "工程师",
+    "role": "后一分句的主语"
+   },
+   {
+    "text": "prescribed",
+    "zh": "开出了",
+    "role": "后一分句的谓语"
+   },
+   {
+    "text": "tailored glasses.",
+    "zh": "一副量身定制的眼镜",
+    "role": "宾语（tailored 是过去分词转化来的形容词，作前置定语）"
+   }
+  ],
+  "structure": "①全句由 so 连接两个并列分句，前一分句是原因，后一分句是结果。\n②前一分句 The mirror could not be repaired in orbit：主镜是“被修复”的对象，所以用被动语态；could not 表示过去没有可能；in orbit 是介词短语作地点状语（视频说明“在轨道上”）。\n③后一分句 engineers prescribed tailored glasses：prescribe 本指医生开药方，这里把矫正装置比作眼镜（视频说明），工程师像医生给近视的人配眼镜一样，为望远镜开出“处方”。tailored 意为“量身定制的”，作 glasses 的前置定语，表示这副“眼镜”是专门针对主镜的缺陷设计的。\n④本句承上启下：上一段讲缺陷的来源，本句提出解决办法，下一句具体介绍这副“眼镜”COSTAR；glasses 也呼应了标题 The Telescope That Needed Glasses。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "含情态动词的被动语态",
+    "explain": "情态动词的被动语态是“情态动词 + be + 过去分词”，否定式把 not 放在情态动词后面，如 can be done、could not be repaired、must be checked。本句 could not be repaired 表示主镜在当时“无法被修复”。考研写作中常用这一结构表达客观可能性，如 This problem cannot be solved overnight。易错：不要漏掉 be，写成 could not repaired。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The damage to the coral reef cannot be reversed within a single generation.",
+      "zh": "珊瑚礁受到的破坏在一代人的时间内无法逆转。"
+     },
+     {
+      "en": "The results could not be confirmed until the samples were tested again.",
+      "zh": "样本重新检测之后，结果才能得到确认。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词转化的形容词作前置定语",
+    "explain": "一些过去分词已经转化为形容词，可以单独放在名词前作定语，带有被动或完成的意味，如 tailored glasses（量身定制的眼镜）、a trained nurse（受过训练的护士）、frozen food（冷冻食品）。本句 tailored 来自动词 tailor（按需要定制），表示眼镜是“被量身定做的”。单个分词一般前置，分词短语则一般后置，如第2句的 cradled in the payload bay。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Patients now receive tailored treatment plans based on their genetic profiles.",
+      "zh": "如今，病人会根据自己的基因特征获得量身定制的治疗方案。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "prescribe",
+    "explain": "动词，（医生）开（药），开处方，如 prescribe antibiotics（开抗生素）；配眼镜也可以说 prescribe glasses。另一义是“规定”，如 the procedures prescribed by law（法律规定的程序）。名词 prescription（处方；规定）。本句视频说明为“开（药方），这里把矫正装置比作眼镜”，译为“开出了”。"
+   },
+   {
+    "term": "tailored",
+    "explain": "来自 tailor（裁缝；按需要定制），原指按顾客身材裁制的衣服，如 a tailored suit；现在常用于比喻，指按具体需要专门设计，如 tailored advice、be tailored to sb's needs（根据某人的需要量身定制）。视频译为“量身定制的”。"
+   },
+   {
+    "term": "glasses",
+    "explain": "表示“眼镜”时总用复数，因为有两片镜片；计数说 a pair of glasses，所以视频增补量词“一副”。glass 作不可数名词时是“玻璃”。"
+   },
+   {
+    "term": "in orbit",
+    "explain": "在轨道上（视频说明），orbit 前不加冠词。第1句 lofted … into orbit 用 into 表示进入轨道，本句用 in 表示所处的位置。"
+   }
+  ],
+  "translation_tip": "视频译文“主镜无法在轨道上修复，于是工程师开出了一副量身定制的眼镜。”的处理：①被动语态 could not be repaired 不译成“不能被修复”，而是用汉语的意义被动，“主镜无法在轨道上修复”，地点状语 in orbit 放到动词前。②so 译为“于是”，表示顺承的结果。③prescribed 保留比喻，译为“开出了”；glasses 增补量词“一副”，tailored 前置译为“量身定制的”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "COSTAR",
+   "predicate": "carried",
+   "object_or_complement": "small mirrors",
+   "explain": "主干是 COSTAR carried small mirrors，主谓宾结构，谓语为一般过去时，主动语态。主语后插入同位语 a corrective cabinet the size of a refrigerator，宾语后有介词短语作后置定语和一个较长的定语从句，定语从句里又带一个时间状语从句。"
+  },
+  "components": [
+   {
+    "text": "COSTAR,",
+    "zh": "COSTAR",
+    "role": "主语（专有名词，矫正装置的名称）"
+   },
+   {
+    "text": "a corrective cabinet",
+    "zh": "是一个……矫正箱体",
+    "role": "同位语（名词短语），补充说明 COSTAR"
+   },
+   {
+    "text": "the size of a refrigerator,",
+    "zh": "冰箱大小的",
+    "role": "后置定语（名词短语 the size of…），修饰 cabinet"
+   },
+   {
+    "text": "carried",
+    "zh": "装着",
+    "role": "谓语"
+   },
+   {
+    "text": "small mirrors",
+    "zh": "小镜子",
+    "role": "宾语"
+   },
+   {
+    "text": "on adjustable arms",
+    "zh": "可调节的机械臂上",
+    "role": "后置定语（介词短语），修饰 mirrors"
+   },
+   {
+    "text": "that intercepted the light",
+    "zh": "截住光线",
+    "role": "限制性定语从句（第一个谓语部分），修饰 small mirrors，that 在从句中作主语"
+   },
+   {
+    "text": "and compensated for",
+    "zh": "抵消",
+    "role": "定语从句的第二个谓语（and 连接，compensate for 意为“抵消”）"
+   },
+   {
+    "text": "the imperfect mirror's distortion",
+    "zh": "有缺陷的主镜造成的畸变",
+    "role": "compensated for 的宾语（the imperfect mirror's 是名词所有格作定语）"
+   },
+   {
+    "text": "before the light reached the instruments.",
+    "zh": "这些都需要在光线到达仪器之前完成",
+    "role": "时间状语从句（before 引导），修饰定语从句中的 intercepted 和 compensated for"
+   }
+  ],
+  "structure": "①主干是 COSTAR carried small mirrors。\n②主语 COSTAR 后面，两个逗号之间是同位语 a corrective cabinet the size of a refrigerator，补充说明 COSTAR（视频说明）；其中 the size of a refrigerator 是名词短语作后置定语，修饰 cabinet，表示“冰箱那么大”（视频说明“the size of…：……那么大”）。\n③宾语 small mirrors 后面先是介词短语 on adjustable arms，作后置定语修饰 mirrors（视频说明），说明小镜子装在哪里。\n④再往后是 that intercepted the light and compensated for the imperfect mirror's distortion，定语从句修饰 small mirrors（视频说明），不修饰紧挨着的 arms：截住光线、抵消畸变的是小镜子。that 在从句中作主语，带两个并列谓语 intercepted 和 compensated for。the imperfect mirror's distortion 中，所有格表示畸变的来源，the imperfect mirror 指有缺陷的主镜。\n⑤句末 before the light reached the instruments 是时间状语从句（视频说明），修饰定语从句中的两个动作，说明它们发生在光线到达仪器之前。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "the size of… 作后置定语",
+    "explain": "the size of、the length of、the height of、the weight of 等名词短语可以直接放在名词后面，表示“有……那么大（长、高、重）”，相当于省略了 which is 或 that is，如 a stone the size of a fist（拳头大小的石头）。本句 a corrective cabinet the size of a refrigerator 即“冰箱大小的矫正箱体”（视频说明“the size of…：……那么大”）。这种结构前面不加介词，不能写成 a cabinet of the size of a refrigerator。翻译时前置为“……大小的”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Hailstones the size of golf balls smashed car windows across the town.",
+      "zh": "高尔夫球大小的冰雹砸碎了全镇的汽车车窗。"
+     },
+     {
+      "en": "Engineers are testing a satellite the size of a shoebox.",
+      "zh": "工程师们正在测试一颗鞋盒大小的卫星。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句的先行词：跨过介词短语找名词",
+    "explain": "先行词后面如果先接了介词短语，定语从句可能修饰介词短语里的名词，也可能修饰更前面的名词，要看从句的动作由谁发出。本句 small mirrors on adjustable arms that intercepted the light… 中，截住光线、抵消畸变的是小镜子，不是机械臂，所以 that 从句修饰 small mirrors（视频说明）。从句的谓语用一般过去时，也与主句 carried 保持一致。第8句的 that 从句则修饰介词短语里的 the assembly，两句方向正好相反，判断都要靠意思。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum displays ancient coins from Greek cities that were minted more than two thousand years ago.",
+      "zh": "博物馆展出了来自古希腊城邦的古钱币，这些钱币铸造于两千多年前。"
+     }
+    ]
+   },
+   {
+    "title": "compensate for：抵消，弥补",
+    "explain": "compensate 表示“抵消，弥补”时是不及物动词，要加 for 才能接宾语，即 compensate for sth；表示“赔偿某人”时说 compensate sb for sth。本句 compensated for the imperfect mirror's distortion 意为“抵消有缺陷的主镜造成的畸变”（视频说明“compensate for…：抵消，弥补……”）。考研写作易错：不能写成 compensate the loss，要写 compensate for the loss；名词搭配是 compensation for sth。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Higher wages did not fully compensate for the rising cost of housing.",
+      "zh": "工资上涨并没有完全抵消住房成本的上升。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格表示来源",
+    "explain": "名词所有格 's 除了表示“谁的”，还能表示动作或现象的来源、发出者，如 the government's decision（政府作出的决定）。本句 the imperfect mirror's distortion 中，畸变由有缺陷的主镜造成，所以视频译为“有缺陷的主镜造成的畸变”，增补了“造成的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The storm's impact on local farms was worse than expected.",
+      "zh": "这场风暴对当地农场造成的影响比预想的更严重。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "COSTAR",
+    "explain": "全称 Corrective Optics Space Telescope Axial Replacement，直译为“空间望远镜轴向置换矫正光学装置”，是专门为矫正哈勃主镜缺陷而制造的装置，1993年由宇航员安装。名称中的 Corrective 与本句 corrective cabinet 相呼应。"
+   },
+   {
+    "term": "cabinet",
+    "explain": "熟词僻义：常见义是“内阁”或“柜子”，如 the Cabinet（内阁）、a filing cabinet（文件柜）；本句指装仪器的箱形外壳，视频译为“箱体”。"
+   },
+   {
+    "term": "intercept",
+    "explain": "动词，拦截，截住（中途经过的东西），如 intercept a message（截获信息）、intercept a missile（拦截导弹）。本句指小镜子在光线射向仪器的途中把它截住，视频译为“截住”。名词 interception。"
+   },
+   {
+    "term": "distortion",
+    "explain": "名词，变形，失真；在光学中指图像变形，视频译为“畸变”。另一常见义是“歪曲”，如 a distortion of the facts（歪曲事实）。动词 distort。"
+   },
+   {
+    "term": "instruments",
+    "explain": "instrument 的复数，本句指哈勃上的科学观测仪器，如相机和光谱仪，视频译为“仪器”。instrument 也可指乐器，如 a musical instrument。"
+   }
+  ],
+  "translation_tip": "视频译文“COSTAR 是一个冰箱大小的矫正箱体，可调节的机械臂上装着小镜子，截住光线，抵消有缺陷的主镜造成的畸变，这些都需要在光线到达仪器之前完成。”的处理：①同位语 a corrective cabinet… 增补“是”，译成判断句；后置定语 the size of a refrigerator 前置为“冰箱大小的”。②on adjustable arms 提到“装着”之前，译为“可调节的机械臂上”，arms 增补“机械”二字，carried 译为“装着”，成为汉语“某处装着某物”的说法。③定语从句 that intercepted… and compensated for… 太长，不前置，拆成两个短句“截住光线，抵消……”，接在“小镜子”后面。④所有格 the imperfect mirror's distortion 增补“造成的”。⑤时间状语从句 before… 放在全句末尾，增补“这些都需要……完成”，单独成句，总括前面两个动作。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "The mirror itself（前一分句）；a new main camera（后一分句）",
+   "predicate": "would stay（前一分句）；was prepared（后一分句）",
+   "object_or_complement": "untouched（前一分句表语）",
+   "explain": "全句是 and 连接的并列复合句。前一分句是主系表结构，stay 是系动词，untouched 作表语，would 表示过去将来；后一分句 a new main camera was prepared 是一般过去时的被动语态。"
+  },
+  "components": [
+   {
+    "text": "The mirror itself",
+    "zh": "主镜本身",
+    "role": "前一分句的主语（itself 是反身代词，作同位语，强调 mirror）"
+   },
+   {
+    "text": "would stay",
+    "zh": "将保持",
+    "role": "前一分句的谓语（would + 系动词 stay，表示过去将来）"
+   },
+   {
+    "text": "untouched,",
+    "zh": "原封不动",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，不单独译出，后一分句用“也”承接）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "a new main camera",
+    "zh": "一台新的主相机",
+    "role": "后一分句的主语"
+   },
+   {
+    "text": "was prepared.",
+    "zh": "已准备就绪",
+    "role": "后一分句的谓语（一般过去时，被动语态）"
+   }
+  ],
+  "structure": "①全句由 and 连接两个并列分句，分别交代维修方案中不动的部分和新准备的部分。\n②前一分句 The mirror itself would stay untouched：itself 是反身代词，紧跟在 The mirror 后面作同位语，强调“主镜本身”，与上一句的 COSTAR 形成对照，矫正靠外加的装置，主镜不动。stay 是系动词，untouched 作表语（视频说明“stay＋形容词：保持某种状态”）；would 是 will 的过去式，站在当时制订方案的时间点说“将来会怎样”，表示过去将来。\n③后一分句 a new main camera was prepared 是一般过去时的被动语态，相机是“被准备”的对象。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "would 表示过去将来",
+    "explain": "叙述过去的事情时，从过去某一时间点看以后要发生的事，用 would + 动词原形，即过去将来时。本句叙述1993年维修前的方案，从那时看，主镜“将”保持原样，所以用 would stay，视频译为“将保持”。考研阅读中，这种 would 常出现在讲述历史、计划和预测的段落里，要和表示虚拟、委婉的 would 区分开：前者描述的是过去的打算或之后真实发生的事。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In 1969 few people guessed that the computer would transform ordinary homes within thirty years.",
+      "zh": "1969年，很少有人料到计算机会在三十年内改变普通家庭。"
+     },
+     {
+      "en": "The architect promised that the bridge would open before the end of the year.",
+      "zh": "建筑师承诺，这座桥将在年底前通车。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 stay + 形容词",
+    "explain": "stay、remain、keep 都可以作系动词，后接形容词作表语，表示“保持某种状态”（视频说明“stay＋形容词：保持某种状态”）。本句 stay untouched 中，untouched 是由 un- 加过去分词 touched 构成的形容词，意为“未被碰过的”。易错：系动词后接形容词，不接副词，不能说 stay calmly。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Interest rates are expected to stay unchanged until next spring.",
+      "zh": "预计利率在明年春天之前将保持不变。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作同位语表示强调",
+    "explain": "反身代词（myself、itself、themselves 等）紧跟在名词后面，可以作同位语，强调“本身，自己”，去掉后句子结构仍然完整。本句 The mirror itself 强调“主镜本身”，与外加的矫正装置区分开。反身代词作同位语与作宾语不同：作宾语时不能去掉，如 The machine can repair itself。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The building itself is ordinary, but the gardens around it are remarkable.",
+      "zh": "这座建筑本身很普通，但周围的花园非常出色。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "untouched",
+    "explain": "形容词，未被碰过的，原封未动的；也可指未受影响的，如 a region untouched by the war（未受战争影响的地区）、leave the food untouched（一口没吃）。本句视频说明为“未被碰过的，因而保持原样、未受任何影响或改变”，译为“原封不动”。"
+   },
+   {
+    "term": "a new main camera",
+    "explain": "这台新的主相机是第二代广域和行星照相机（Wide Field and Planetary Camera 2，简称 WFPC2），1993年与 COSTAR 一起在维修任务中装上哈勃，替换原来的第一代相机。main 在这里意为“主要的”，视频译为“主”。"
+   },
+   {
+    "term": "prepare",
+    "explain": "prepare 意为“准备”，be prepared 在本句是被动语态，表示“被准备好”，视频译为“已准备就绪”。be prepared 还可作形容词短语，意为“准备好的；愿意的”，如 be prepared to do sth（愿意做某事）。"
+   }
+  ],
+  "translation_tip": "视频译文“主镜本身将保持原封不动，一台新的主相机也已准备就绪。”的处理：①itself 译为“本身”，紧跟在“主镜”后面，保留强调。②would 译为“将”，表达过去将来的意味；stay untouched 译为“保持原封不动”。③and 不单独译出，后一分句加“也”承接。④被动语态 was prepared 不用“被”，译为“已准备就绪”，“已”体现动作已经完成；a new main camera 增补量词“一台”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Endeavour",
+   "predicate": "ascended",
+   "object_or_complement": "",
+   "explain": "主干是 Endeavour ascended，主谓结构，ascend 在这里是不及物动词；句首是时间状语，句末 with seven astronauts 是伴随状语（视频说明）。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 2 December 1993",
+    "zh": "1993年12月2日",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "Endeavour",
+    "zh": "奋进号",
+    "role": "主语（航天飞机的名字）"
+   },
+   {
+    "text": "ascended",
+    "zh": "升空",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "with seven astronauts.",
+    "zh": "载着七名宇航员",
+    "role": "伴随状语（介词短语）"
+   }
+  ],
+  "structure": "①句首 On 2 December 1993 是时间状语，具体日期前用 on，日期按英式“日 月 年”书写，与第1句 On 24 April 1990 写法相同。\n②主语 Endeavour 是航天飞机的名字，与第1句的 Discovery 一样，前面不加 the；谓语 ascended 是不及物动词，意为“上升，升空”。\n③with seven astronauts 是介词短语作伴随状语（视频说明），说明升空时的情况：航天飞机载着七名宇航员。\n④本句是最后一段的首句，开头与第1句的日期句式相呼应，标志着故事从发射、发现缺陷转到维修。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "with 介词短语作伴随状语",
+    "explain": "with + 名词短语放在句末，可以作伴随状语，说明主语做某事时同时具备的情况，如 The ship left port with 300 passengers on board。本句 ascended with seven astronauts 意为“载着七名宇航员升空”（视频说明“with seven astronauts：伴随状语”）。with 后面的名词还可以再带补足成分，构成 with 复合结构，如 with the window open。翻译时常把伴随状语放在动词前，译成“带着……”“载着……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The lifeboat returned to shore with all twelve fishermen safely on board.",
+      "zh": "救生艇载着全部十二名渔民安全返回岸边。"
+     }
+    ]
+   },
+   {
+    "title": "ascend 的及物与不及物用法",
+    "explain": "ascend 作不及物动词时，意为“上升，升高”，如 The plane ascended rapidly；作及物动词时，意为“登上，攀登”，直接接宾语，如 ascend the stairs、ascend the throne（登上王位）。本句 Endeavour ascended 是不及物用法，指航天飞机升空，视频译为“升空”。反义词是 descend（下降）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The balloon ascended slowly until it disappeared into the clouds.",
+      "zh": "气球缓缓上升，直到消失在云层里。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Endeavour",
+    "explain": "奋进号，美国航天飞机之一，名字取自英国航海家库克船长（James Cook）的船“奋进号”（HMS Endeavour），所以采用英式拼写 Endeavour，而不是美式拼写 Endeavor。普通名词 endeavour 意为“努力，尝试”。"
+   },
+   {
+    "term": "astronaut",
+    "explain": "宇航员，由希腊语词根 astro-（星）和 -naut（航行者）构成。同根的 astronomy（天文学）、astronomer（天文学家）在天文类文章中常见。"
+   },
+   {
+    "term": "1993年的维修任务",
+    "explain": "这次飞行是哈勃空间望远镜的第一次维修任务，宇航员在轨道上为它安装了 COSTAR 和新的主相机，第14句具体叙述。"
+   }
+  ],
+  "translation_tip": "视频译文“1993年12月2日，奋进号载着七名宇航员升空。”的处理：①英式日期按汉语顺序改为“1993年12月2日”，放在句首，后加逗号。②Endeavour 意译为“奋进号”。③伴随状语 with seven astronauts 前置到动词前，with 译为动词“载着”，astronauts 增补量词“名”；ascended 译为“升空”，放在句末。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "they",
+   "predicate": "worked",
+   "object_or_complement": "",
+   "explain": "主干是 they worked，主谓结构，work 为不及物动词；in tandem 是方式状语，across five spacewalks 说明工作是在五次太空行走中进行的。谓语为一般过去时，主动语态。句末 installing… 是现在分词短语作伴随状语（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "After a rendezvous,",
+    "zh": "完成交会后",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "they",
+    "zh": "他们",
+    "role": "主语（指上句的七名宇航员）"
+   },
+   {
+    "text": "worked",
+    "zh": "进行了",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "in tandem",
+    "zh": "协同",
+    "role": "方式状语（介词短语），表示协力配合"
+   },
+   {
+    "text": "across five spacewalks,",
+    "zh": "五次太空行走",
+    "role": "状语（介词短语），across 表示“在……之中”"
+   },
+   {
+    "text": "about 35 and a half hours of exertion,",
+    "zh": "辛苦作业共约35个半小时",
+    "role": "同位语（名词短语），补充说明五次太空行走的总时长"
+   },
+   {
+    "text": "installing COSTAR and the new camera.",
+    "zh": "安装了COSTAR 和新相机",
+    "role": "伴随状语（现在分词短语）"
+   }
+  ],
+  "structure": "①句首 After a rendezvous 是时间状语，rendezvous 指航天器在轨道上会合（视频说明），这里指奋进号与哈勃会合。\n②主干 they worked，they 指上一句的七名宇航员。in tandem 是方式状语（视频说明“协力，配合”）；across five spacewalks 说明工作在五次太空行走中进行（视频说明“在五次太空行走中”）。\n③about 35 and a half hours of exertion 是名词短语，用逗号隔开，作同位语，补充说明五次太空行走一共用了多长时间；exertion 指实实在在使出去的体力和脑力（视频说明），强调作业之艰苦。\n④句末 installing COSTAR and the new camera 是现在分词短语作伴随状语（视频说明），逻辑主语是 they，说明宇航员在这些太空行走中做了什么；COSTAR 和 the new camera 是 installing 的两个并列宾语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末、用逗号隔开时，可以作伴随状语，表示与谓语动作同时进行或对谓语动作加以具体说明，逻辑主语是句子的主语。本句 installing COSTAR and the new camera 的逻辑主语是 they，具体说明宇航员工作的内容（视频说明“installing…：现在分词短语作伴随状语”）。与第6句 leaving… 对比：leaving 表示主句造成的结果，installing 是主语同时在做的事。考研阅读中，分词作状语时，它的逻辑主语一定要和句子主语一致，否则就是写作中的“垂悬分词”错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Volunteers worked through the night, filling sandbags and clearing the drains.",
+      "zh": "志愿者们干了一整夜，装沙袋，清理排水沟。"
+     },
+     {
+      "en": "The researchers spent two years in the Arctic, collecting ice samples from dozens of sites.",
+      "zh": "研究人员在北极待了两年，从几十个地点采集冰样。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语，概括数量",
+    "explain": "句中用逗号隔开的名词短语，可以对前面的内容作数量上的概括或补充，相当于一个省略的“that is…”。本句 about 35 and a half hours of exertion 补充说明 five spacewalks：五次太空行走加在一起，约是35个半小时的辛苦作业。识别时看它与前面哪个成分所指相同，再把它放回原位理解，不要把它误当成主语或宾语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team completed four field trips, nearly two months of work in remote villages.",
+      "zh": "团队完成了四次实地考察，在偏远村庄工作了将近两个月。"
+     }
+    ]
+   },
+   {
+    "title": "and a half 的数量表达",
+    "explain": "“整数 + and a half + 名词”表示“……又二分之一”，名词用复数，如 two and a half years（两年半）、35 and a half hours（35个半小时）。也可以说 35.5 hours，读作 thirty-five point five hours。只有“一个半”时可说 one and a half hours，也可说 an hour and a half，后者名词用单数 hour。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The negotiations dragged on for two and a half years before an agreement was reached.",
+      "zh": "谈判拖了两年半，才终于达成协议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "rendezvous",
+    "explain": "源自法语，原义“约会，会面”，复数形式不变；在航天领域指两个航天器在轨道上会合（视频说明），视频译为“交会”。读音中末尾的 s 不发音。"
+   },
+   {
+    "term": "in tandem",
+    "explain": "tandem 原指双人自行车，in tandem 意为“协力，配合，同时进行”（视频说明），常说 work in tandem with sb（与某人协同工作）。视频译为“协同”。"
+   },
+   {
+    "term": "spacewalk",
+    "explain": "太空行走，指宇航员离开航天器、在太空中进行的舱外活动，常说 make/perform a spacewalk。由 space 和 walk 合成，写成一个词。"
+   },
+   {
+    "term": "exertion",
+    "explain": "视频说明：exertion 核心的意思是发力、用力（或体力的消耗/付出），不单纯指“工作”，也不指“辛苦”，而是特指为了让某件事发生而实实在在使出去的那股劲儿。本句视频译为“辛苦作业”。动词 exert（用力，施加），如 exert pressure on sb（对某人施加压力）。"
+   },
+   {
+    "term": "across",
+    "explain": "across 除表示“横过”外，还可表示“在……的整个范围内，遍及”，如 across the country（全国各地）、across five spacewalks（在五次太空行走中）。"
+   }
+  ],
+  "translation_tip": "视频译文“完成交会后，他们协同进行了五次太空行走，辛苦作业共约35个半小时，安装了COSTAR 和新相机。”的处理：①After a rendezvous 增补动词“完成”，译为“完成交会后”。②worked in tandem across five spacewalks 改换说法，把 spacewalks 变成动词的宾语，译为“协同进行了五次太空行走”，worked 译为“进行了”。③同位语 about 35 and a half hours of exertion 译成独立小句“辛苦作业共约35个半小时”，exertion 译为“辛苦作业”，增补“共”字表示总计。④伴随状语 installing… 译成并列的动词短语“安装了……”，按动作顺序放在句末。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The imagery",
+   "predicate": "turned",
+   "object_or_complement": "crisp（表语）",
+   "explain": "主干是 The imagery turned crisp，主系表结构，turn 是表示变化的系动词，crisp 作表语（视频说明“turn＋形容词：变得……”）。谓语为一般过去时。逗号后的 Hubble's vision renewed 是独立主格结构（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "The imagery",
+    "zh": "影像",
+    "role": "主语"
+   },
+   {
+    "text": "turned",
+    "zh": "变得",
+    "role": "谓语（系动词）"
+   },
+   {
+    "text": "crisp,",
+    "zh": "清楚分明",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "Hubble's vision",
+    "zh": "哈勃的视力",
+    "role": "独立主格结构的逻辑主语"
+   },
+   {
+    "text": "renewed.",
+    "zh": "得以恢复",
+    "role": "独立主格结构中的过去分词，与 Hubble's vision 是被动关系"
+   }
+  ],
+  "structure": "①主句 The imagery turned crisp 是主系表结构：turn 是系动词，表示从一种状态变为另一种状态，crisp 作表语（视频说明）。imagery 指哈勃拍回的影像，与第4句的 snapshots 相呼应，crisp 与当时的 blurred and fuzzy 正好相反。\n②逗号后的 Hubble's vision renewed 没有谓语动词，是独立主格结构（视频说明），由“名词短语 Hubble's vision + 过去分词 renewed”构成，相当于 and Hubble's vision was renewed（视频说明）。视力是“被恢复”的一方，所以用过去分词。\n③vision 延续全文的拟人比喻：望远镜有“视力”，第10句给它配了“眼镜”，本句它的“视力”得以恢复。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "独立主格结构",
+    "explain": "独立主格结构由“名词或代词 + 非谓语动词（或形容词、副词、介词短语）”构成，它有自己的逻辑主语，与主句主语不同，所以叫“独立”；它没有谓语动词，不能单独成句，前后用逗号与主句隔开。逻辑主语与动词是被动关系用过去分词，主动关系用现在分词。本句 Hubble's vision renewed 中，视力是被恢复的，用过去分词 renewed，相当于 and Hubble's vision was renewed（视频说明）。考研阅读中，逗号后出现“名词 + 分词”而没有连词时，就要想到独立主格。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The decision made, the committee moved on to the next item on the agenda.",
+      "zh": "决定作出后，委员会接着讨论议程上的下一项。"
+     },
+     {
+      "en": "The ceremony ended at noon, the guests heading to a nearby hotel for lunch.",
+      "zh": "仪式在中午结束，来宾们前往附近一家酒店用午餐。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 turn + 形容词",
+    "explain": "turn 作系动词时，后接形容词作表语，表示“变得……”，多指颜色、天气或状态发生明显变化，如 turn red、turn cold、turn sour（视频说明“turn＋形容词：变得……”）。本句 turned crisp 意为“变得清楚分明”。turn 后接名词作表语时，名词前不加冠词，如 He turned traitor（他成了叛徒）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Public opinion turned hostile after the scandal was exposed.",
+      "zh": "丑闻曝光后，舆论转向了敌对。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "imagery",
+    "explain": "不可数名词，指图像、影像的总称，如 satellite imagery（卫星图像）；在文学中指“意象”，如 poetic imagery（诗歌意象）。本句视频译为“影像”。"
+   },
+   {
+    "term": "crisp",
+    "explain": "熟词僻义：常见义是“（食物）脆的”或“（空气）清新寒冷的”；形容图像、声音时意为“清晰分明的”，如 crisp images、crisp sound。视频译为“清楚分明”。"
+   },
+   {
+    "term": "vision",
+    "explain": "名词，视力，视觉，如 have good vision（视力好）；还可指远见、愿景，如 a leader with vision（有远见的领导者）。本句把望远镜拟人化，视频译为“视力”。"
+   },
+   {
+    "term": "renew",
+    "explain": "动词，由前缀 re-（再，重新）加 new 构成，常见义是“更新，续签”，如 renew a passport（更换护照）、renew a contract（续签合同）；也指“恢复，重新开始”，如 renewed interest（重新燃起的兴趣）。本句视频译为“恢复”。"
+   }
+  ],
+  "translation_tip": "视频译文“影像变得清楚分明，哈勃的视力得以恢复。”的处理：①系动词 turned 译为“变得”，crisp 译为四字结构“清楚分明”。②独立主格结构 Hubble's vision renewed 译成独立的小句，与前一句并列；renewed 表示被动，不用“被”，而用“得以恢复”，带有“终于实现”的意味。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The mirror（前一分句）；the light（后一分句）",
+   "predicate": "still carries（前一分句）；is corrected（后一分句）",
+   "object_or_complement": "that 2.2-micrometre flaw（前一分句宾语）",
+   "explain": "全句是 and 连接的并列复合句。前一分句 The mirror still carries that 2.2-micrometre flaw 是主谓宾结构，一般现在时，主动语态，说明现在的情况；后一分句 the light is corrected 是一般现在时的被动语态，主语 the light 带省略关系代词的定语从句 it gathers，句末 only after leaving it 是时间状语。"
+  },
+  "components": [
+   {
+    "text": "The mirror",
+    "zh": "主镜",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "still carries",
+    "zh": "至今仍带着",
+    "role": "前一分句的谓语（一般现在时，still 是副词）"
+   },
+   {
+    "text": "that 2.2-micrometre flaw,",
+    "zh": "那2.2微米的缺陷",
+    "role": "宾语（2.2-micrometre 是带连字符的复合形容词，作前置定语）"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，不单独译出）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "the light",
+    "zh": "光",
+    "role": "后一分句的主语"
+   },
+   {
+    "text": "it gathers",
+    "zh": "它收集的",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 the light"
+   },
+   {
+    "text": "is corrected",
+    "zh": "被矫正",
+    "role": "后一分句的谓语（一般现在时，被动语态）"
+   },
+   {
+    "text": "only after leaving it.",
+    "zh": "要离开镜面之后才会",
+    "role": "时间状语（only 修饰介词短语 after leaving it，after 后接动名词短语）"
+   }
+  ],
+  "structure": "①全句由 and 连接两个并列分句，是全文的结尾句，总结修复的实质：缺陷还在，矫正发生在光离开主镜之后。\n②前一分句 The mirror still carries that 2.2-micrometre flaw 用一般现在时，说明至今的情况；that 回指第5句所说的2.2微米缺陷，2.2-micrometre 是“数词 + 单位”构成的复合形容词，作 flaw 的前置定语。\n③后一分句主语 the light 后面的 it gathers 是定语从句，省略了关系代词（视频说明），修饰 light；关系代词在从句中作 gathers 的宾语，所以可以省略，从句主语 it 指 the mirror。\n④谓语 is corrected 是一般现在时的被动语态；only after leaving it 是时间状语，意为“只有在……之后才”（视频说明），after 后接动名词短语 leaving it，leaving 的逻辑主语是 the light，宾语 it 也指 the mirror。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词在限制性定语从句中作宾语时可以省略。识别方法：名词后面直接跟着“主语 + 谓语”，而这个谓语后面缺宾语，所缺的宾语就是前面的名词。本句 the light it gathers 中，gathers 后缺宾语，缺的就是 the light，完整形式是 the light (that/which) it gathers（视频说明“it gathers：定语从句，省略了关系代词，修饰 light”）。阅读时不要把 it 当成新分句的主语，后一分句真正的谓语是 is corrected。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The data the satellite collects are sent to ground stations every ninety minutes.",
+      "zh": "这颗卫星收集的数据每九十分钟发送一次到地面站。"
+     },
+     {
+      "en": "Most of the advice the experts gave was ignored by the government.",
+      "zh": "专家们提出的大部分建议都被政府忽视了。"
+     }
+    ]
+   },
+   {
+    "title": "only + 时间状语与倒装",
+    "explain": "only 修饰时间状语（only after…、only when…、only then 等），表示“只有在……时候才”（视频说明“only after…：只有在……之后才”）。only 加状语放在句末时，语序不变，如本句 is corrected only after leaving it；放在句首时，主句要部分倒装，如 Only after leaving the mirror is the light corrected。考研阅读和翻译常考这种倒装，看到句首 only + 状语，要在后面找到被提前的助动词或系动词，再还原成正常语序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The drug should be prescribed only after other treatments have failed.",
+      "zh": "只有在其他疗法都无效之后，才应开这种药。"
+     },
+     {
+      "en": "Only after the accident did the authorities install traffic lights at the junction.",
+      "zh": "直到发生了事故，当局才在那个路口安装了红绿灯。"
+     }
+    ]
+   },
+   {
+    "title": "带连字符的复合形容词",
+    "explain": "“数词 + 单位名词”用连字符连成复合形容词，放在名词前作定语，其中的单位名词用单数，如 a five-year plan（五年计划）、a 10-kilometre race（10公里赛跑）。本句 2.2-micrometre flaw 中 micrometre 不加 s，而第5句 by 2.2 micrometres 中，micrometres 是名词，作介词宾语，所以用复数。写作中常见错误是写成 a five-years plan。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council approved a three-year plan to rebuild the harbour.",
+      "zh": "市议会批准了一项重建港口的三年计划。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "carry",
+    "explain": "carry 常见义是“携带，搬运”；本句指“带有（某种特征、缺陷）”，如 carry a risk（带有风险）、carry a gene（携带某种基因）。视频译为“带着”，与 still 合为“至今仍带着”。"
+   },
+   {
+    "term": "gather",
+    "explain": "动词，收集，聚集，如 gather information（收集信息）。望远镜主镜的作用就是收集来自天体的光，镜面越大，收集的光越多。视频译为“收集”。"
+   },
+   {
+    "term": "correct",
+    "explain": "作动词意为“纠正，矫正”，如 correct mistakes（改正错误）；形容词 corrective（矫正的），第11句 a corrective cabinet 即“矫正箱体”。本句 is corrected 指光线的偏差被 COSTAR 等矫正光学部件抵消，视频译为“被矫正”。"
+   }
+  ],
+  "translation_tip": "视频译文“主镜至今仍带着那2.2微米的缺陷，它收集的光要离开镜面之后才会被矫正。”的处理：①still 译为“至今仍”，突出一般现在时所说的现状；that 译为“那”，回指前文。②and 不单独译出。③省略关系代词的定语从句 it gathers 前置为“它收集的”，修饰“光”。④only after leaving it 译为“要……之后才会”，放在谓语前；leaving 的宾语 it 不译成“它”，而是译出所指的“镜面”，避免与前面的“它”重复指代。"
+ }
+]

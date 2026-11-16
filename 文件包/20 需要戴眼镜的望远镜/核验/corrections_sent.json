@@ -1,0 +1,86 @@
+[
+ {
+  "key": 1,
+  "field": "grammar.2.explain",
+  "before": "同类说法有 the novelist Charles Dickens、the river Thames。",
+  "after": "同类说法有 the novelist Charles Dickens、the poet John Keats。",
+  "reason": "the River Thames 中 River 通常大写，属于专名本身的一部分，不是典型的“类名 + 专名”紧密同位语，换成更典型的例子。"
+ },
+ {
+  "key": 3,
+  "field": "knowledge.1.explain",
+  "before": "作者把 happiness 换成 clarity，用一句俏皮话点出巨额投资没能换来清晰的图像。",
+  "after": "可以看作把 happiness 换成了 clarity，读来像一句俏皮话：巨额投资没能换来清晰的图像。",
+  "reason": "作者是否有意化用俗语无法证实，改为不作断言的说法（通用规矩5）。"
+ },
+ {
+  "key": 5,
+  "field": "structure",
+  "before": "of the width of a hair 中有两层 of 结构，后一层修饰前一层。",
+  "after": "a fiftieth of the width of a hair 中有两层 of 结构：of a hair 修饰 the width，of the width of a hair 又修饰 a fiftieth。",
+  "reason": "原说法把两层 of 都归入 of the width of a hair，层次不清，改为逐层说明修饰关系。"
+ },
+ {
+  "key": 5,
+  "field": "knowledge.3.explain",
+  "before": "2.2 大于1，所以单位用复数。",
+  "after": "除了数字恰好是1（one micrometre）之外，单位一般用复数，小数也不例外，如 0.5 micrometres、2.2 micrometres。",
+  "reason": "原说法暗示“大于1才用复数”，不准确：0.5 等小于1的小数后面单位同样用复数。"
+ },
+ {
+  "key": 6,
+  "field": "structure",
+  "before": "分词的逻辑主语是前面主句所说的整件事。",
+  "after": "分词的逻辑主语可看作主句主语 That deviation，也可理解为主句所说的整件事（表示结果的 leaving 常以整个主句为逻辑主语）。",
+  "reason": "补全逻辑主语的分析，并与第14句关于分词逻辑主语的说明保持一致。"
+ },
+ {
+  "key": 9,
+  "field": "translation_tip",
+  "before": "③less reliable 不译成“不那么可靠”，视频译为“不太可靠”。",
+  "after": "③less reliable 是省略了比较对象的比较级，视频不把比较意味硬译出来，译为“不太可靠”，语气委婉，符合汉语习惯。",
+  "reason": "原说法只列出另一种译法，没有解释视频译法的处理；改为说明现有译文。"
+ },
+ {
+  "key": 10,
+  "field": "structure",
+  "before": "工程师像医生给近视的人配眼镜一样",
+  "after": "工程师像医生给视力有缺陷的人配眼镜一样",
+  "reason": "哈勃的问题是主镜形状误差造成的球面像差，并非“近视”，避免误导。"
+ },
+ {
+  "key": 11,
+  "field": "grammar.0.explain",
+  "before": "这种结构前面不加介词，不能写成 a cabinet of the size of a refrigerator。",
+  "after": "这种结构通常直接放在名词后面，前面一般不再加介词 of。",
+  "reason": "of the size of 也合乎语法，“不能写成”说得过于绝对，改为“通常、一般”。"
+ },
+ {
+  "key": 14,
+  "field": "grammar.0.explain",
+  "before": "考研阅读中，分词作状语时，它的逻辑主语一定要和句子主语一致，否则就是写作中的“垂悬分词”错误。",
+  "after": "分词作状语时，逻辑主语一般应与句子主语一致，否则就成了写作中要避免的“垂悬分词”；表示结果的 leaving、causing 等有时以整个主句为逻辑主语，是常见的例外。",
+  "reason": "原说法“一定要”过于绝对，且与第6句 leaving 以整个主句为逻辑主语的分析相矛盾。"
+ },
+ {
+  "key": 14,
+  "field": "knowledge.0.explain",
+  "before": "源自法语，原义“约会，会面”，复数形式不变",
+  "after": "源自法语 rendez-vous，字面义是“（你们）到场，前来报到”，最初指部队集结的地点，后来指约定的会面或会面地点；复数拼写不变",
+  "reason": "据 Etymonline，rendezvous 原是法语命令式“到场”，英语最早指部队集结地，原义并非“约会”。"
+ },
+ {
+  "key": 14,
+  "field": "knowledge.1.explain",
+  "before": "tandem 原指双人自行车，in tandem 意为",
+  "after": "tandem 源自拉丁语副词 tandem（终于，最后），18世纪英语用它戏称两匹马前后纵列拉的双轮马车，19世纪后期又指双人自行车；in tandem 由“一前一后”引申为",
+  "reason": "据 Etymonline，tandem 最早（1785年）指前后纵列套马的马车，双人自行车义晚至19世纪80年代，原说法“原指双人自行车”有误。"
+ },
+ {
+  "key": 15,
+  "field": "grammar.1.examples.0.zh",
+  "before": "丑闻曝光后，舆论转向了敌对。",
+  "after": "丑闻曝光后，舆论变得充满敌意。",
+  "reason": "原译“转向了敌对”不通顺，改为准确通顺的译文。"
+ }
+]

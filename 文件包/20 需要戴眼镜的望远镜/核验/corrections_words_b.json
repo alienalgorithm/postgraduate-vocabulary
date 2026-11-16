@@ -1,0 +1,51 @@
+[
+ {
+  "key": 31,
+  "field": "usage_detail",
+  "before": "independent 常接 of，be independent of sb/sth 表示“不依赖，不受……影响”，不要误用 from。",
+  "after": "independent 常接 of，be independent of sb/sth 表示“不依赖，不受……影响”；词典也收 independent from，但 of 更常见。",
+  "reason": "Oxford、Cambridge 都收 independent from，说 from 是“误用”不准确。"
+ },
+ {
+  "key": 35,
+  "field": "related.2",
+  "before": "{\"en\": \"contrary\", \"pos\": \"adj.\", \"zh\": \"相反的\"}",
+  "after": "{\"en\": \"self-contradictory\", \"pos\": \"adj.\", \"zh\": \"自相矛盾的\"}",
+  "reason": "contrary 与 contradictory 只共享前缀 contra-，词根不同，不算同根词；换成真实存在的派生词 self-contradictory。"
+ },
+ {
+  "key": 37,
+  "field": "context_usage",
+  "before": "为“近视”的望远镜",
+  "after": "为“视力有缺陷”的望远镜",
+  "reason": "哈勃的问题是主镜形状误差造成的球面像差，并非“近视”，避免误导。"
+ },
+ {
+  "key": 38,
+  "field": "usage_detail",
+  "before": "同义的合成形容词有 tailor-made（量身定做的），语气更口语化。",
+  "after": "同义的合成形容词有 tailor-made（量身定做的），也很常用。",
+  "reason": "词典未把 tailor-made 标为口语词，“语气更口语化”没有依据。"
+ },
+ {
+  "key": 45,
+  "field": "context_usage",
+  "before": "用 imperfect 而不重复 flawed，换词避免重复。",
+  "after": "前文用过名词 flaw，这里换用 imperfect，避免重复。",
+  "reason": "原文没有出现 flawed，只出现过名词 flaw（第5句），改为与原文一致的说法。"
+ },
+ {
+  "key": 50,
+  "field": "etymology",
+  "before": "字面义“你们去吧，到场”",
+  "after": "字面义“（你们）到场，前来报到”",
+  "reason": "法语 rendez-vous 是 se rendre 的命令式，意为“到场，报到”（present yourselves），“你们去吧”不准确。"
+ },
+ {
+  "key": 55,
+  "field": "etymology",
+  "before": "与 imitate（模仿）有关。",
+  "after": "可能与 imitate（模仿）同源。",
+  "reason": "Etymonline 只说 imago 可能与 imitari 同源，原说法写成了确定的事实。"
+ }
+]
