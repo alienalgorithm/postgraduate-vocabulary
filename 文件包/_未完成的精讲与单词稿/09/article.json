@@ -1,0 +1,1427 @@
+{
+ "no": "09",
+ "title_en": "The Man Who Sold the Eiffel Tower Twice",
+ "title_zh": "两次卖掉埃菲尔铁塔的骗子",
+ "source_id": "21",
+ "source_hashes": {
+  "JSON": "79148437ac0c62e3a9cdcf2579b389ad5ae2822996da6da253d5971b917d1c5a",
+  "GEN": "79148437ac0c62e3a9cdcf2579b389ad5ae2822996da6da253d5971b917d1c5a",
+  "MD": "51ccf92096fd50ff07601b4b0f4bdcea77ab8cf3616cc23670ac08cfcdfadd07",
+  "illustration": "f94161e2036fe22b8c0f985185c8ade1d88122dfeb35ae299f33d1fef06f0483"
+ },
+ "summary": [
+  [
+   "冒充",
+   "1925年，卢斯蒂格伪造公文、冒充邮电部官员，▹邀六名废金属商秘密投标，谎称埃菲尔铁塔要卖废铁。"
+  ],
+  [
+   "借口",
+   "铁塔原拟在世博会20年后拆除，维护费又高；▹卢斯蒂格利用这些真背景，并以免引公愤为由要求保密。"
+  ],
+  [
+   "得手",
+   "急于在巴黎立足的普瓦松付了购塔款和贿赂，受骗后却羞于报警，让卢斯蒂格带钱逃走。"
+  ],
+  [
+   "再骗",
+   "约一月后，卢斯蒂格重演骗局，▹新买家起疑报警且未付款；所谓第二次卖成铁塔的故事并不成立。"
+  ],
+  [
+   "下场",
+   "卢斯蒂格后来在美国因造假币被捕，▹越狱27天后再落网，在恶魔岛监狱服刑，1947年死于肺炎。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "In 1925 six scrap-metal traders met secretly at the Hôtel de Crillon in Paris.",
+   "zh": "1925年，六名经营废金属的商人在巴黎的克里雍酒店秘密地会面了。",
+   "en_markup": "In 1925 six **scrap-metal** **traders** met **secretly** at the Hôtel de Crillon in Paris.",
+   "zh_markup": "1925年，六名经营**废金属**(scrap-metal)的**商人**(traders)在巴黎的克里雍酒店**秘密地**(secretly)会面了。",
+   "video_notes": [
+    "（at the Hôtel de Crillon in Paris：地点状语，中文提到动词前）"
+   ],
+   "chunks": [
+    {
+     "en": "In 1925 six scrap-metal traders met secretly at the Hôtel de Crillon in Paris.",
+     "zh": "1925年，六名经营废金属的商人在巴黎的克里雍酒店秘密地会面了。"
+    }
+   ],
+   "align": [
+    [
+     "In 1925",
+     "1925年，"
+    ],
+    [
+     "six",
+     "六名"
+    ],
+    [
+     "scrap-metal",
+     "经营废金属的"
+    ],
+    [
+     "traders",
+     "商人"
+    ],
+    [
+     "met secretly at the Hôtel de Crillon in Paris.",
+     "在巴黎的克里雍酒店秘密地会面了。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "A deputy director-general of the Ministry of Posts and Telegraphs shared the momentous news, confidentially, that the Eiffel Tower was to be sold for scrap.",
+   "zh": "邮电部的一位副的总负责人向他们私下地分享了一个重大的消息，埃菲尔铁塔将作为废铁出售。",
+   "en_markup": "A **deputy** **director-general** of the Ministry of Posts and Telegraphs shared the **momentous** news, **confidentially**, that the Eiffel Tower was to be sold for **scrap**.",
+   "zh_markup": "邮电部的一位**副的**(deputy)**总负责人**(director-general)向他们**私下地**(confidentially)分享了一个**重大的**(momentous)消息，埃菲尔铁塔将作为**废铁**(scrap)出售。",
+   "video_notes": [
+    "（of the Ministry…：介词短语作后置定语；confidentially：插入的副词，修饰 shared）",
+    "（that…：同位语从句，说明 news 的内容；be to be done：将要被……）"
+   ],
+   "chunks": [
+    {
+     "en": "A deputy director-general of the Ministry of Posts and Telegraphs shared the momentous news, confidentially,",
+     "zh": "邮电部的一位副的总负责人向他们私下地分享了一个重大的消息，"
+    },
+    {
+     "en": "that the Eiffel Tower was to be sold for scrap.",
+     "zh": "埃菲尔铁塔将作为废铁出售。"
+    }
+   ],
+   "align": [
+    [
+     "A deputy",
+     "邮电部的一位副的"
+    ],
+    [
+     "director-general of the Ministry of Posts and Telegraphs",
+     "总负责人"
+    ],
+    [
+     "shared the momentous news, confidentially,",
+     "向他们私下地分享了一个重大的消息，"
+    ],
+    [
+     "that the Eiffel Tower was to be sold for scrap.",
+     "埃菲尔铁塔将作为废铁出售。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "He invited tenders and made each dealer solemnly vow secrecy, ostensibly to spare the public indignation.",
+   "zh": "他请他们投标，并让每位商人郑重地发誓要保密，表面上是为了避免引起公愤。",
+   "en_markup": "He invited **tenders** and made each dealer **solemnly** **vow** **secrecy**, **ostensibly** to spare the **public indignation**.",
+   "zh_markup": "他请他们**投标**(tenders)，并让每位商人**郑重地**(solemnly)**发誓**(vow)要**保密**(secrecy)，**表面上**(ostensibly)是为了避免引起**公愤**(public indignation)。",
+   "video_notes": [
+    "（make sb do：让某人做……；vow secrecy：发誓保密）",
+    "（to spare…：不定式表目的；spare sb sth：使某人免受……）"
+   ],
+   "chunks": [
+    {
+     "en": "He invited tenders and made each dealer solemnly vow secrecy,",
+     "zh": "他请他们投标，并让每位商人郑重地发誓要保密，"
+    },
+    {
+     "en": "ostensibly to spare the public indignation.",
+     "zh": "表面上是为了避免引起公愤。"
+    }
+   ],
+   "align": [
+    [
+     "He",
+     "他"
+    ],
+    [
+     "invited",
+     "请他们"
+    ],
+    [
+     "tenders",
+     "投标，"
+    ],
+    [
+     "and made",
+     "并让"
+    ],
+    [
+     "each dealer",
+     "每位商人"
+    ],
+    [
+     "solemnly",
+     "郑重地"
+    ],
+    [
+     "vow",
+     "发誓"
+    ],
+    [
+     "secrecy,",
+     "要保密，"
+    ],
+    [
+     "ostensibly",
+     "表面上"
+    ],
+    [
+     "to spare",
+     "是为了避免引起"
+    ],
+    [
+     "the public indignation.",
+     "公愤。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "The pretext was not absurd.",
+   "zh": "这个借口并不荒唐。",
+   "en_markup": "The **pretext** was not **absurd**.",
+   "zh_markup": "这个**借口**(pretext)并不**荒唐**(absurd)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The pretext was not absurd.",
+     "zh": "这个借口并不荒唐。"
+    }
+   ],
+   "align": [
+    [
+     "The pretext",
+     "这个借口"
+    ],
+    [
+     "was not",
+     "并不"
+    ],
+    [
+     "absurd.",
+     "荒唐。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "Built for the 1889 World's Fair, the monument had originally been destined to come down after twenty years.",
+   "zh": "这座为1889年世博会而建的纪念建筑，原本就注定要在二十年后拆除。",
+   "en_markup": "Built for the 1889 World's Fair, the **monument** had **originally** been **destined** to **come down** after twenty years.",
+   "zh_markup": "这座为1889年世博会而建的**纪念建筑**(monument)，**原本**(originally)就**注定**(destined)要在二十年后**拆除**(come down)。",
+   "video_notes": [
+    "（Built for…：过去分词短语，补充说明 the monument）",
+    "（be destined to do：注定要……；come down：被拆除）"
+   ],
+   "chunks": [
+    {
+     "en": "Built for the 1889 World's Fair, the monument",
+     "zh": "这座为1889年世博会而建的纪念建筑，"
+    },
+    {
+     "en": "had originally been destined to come down after twenty years.",
+     "zh": "原本就注定要在二十年后拆除。"
+    }
+   ],
+   "align": [
+    [
+     "Built",
+     "这座"
+    ],
+    [
+     "for the 1889 World's Fair,",
+     "为1889年世博会而建的"
+    ],
+    [
+     "the monument",
+     "纪念建筑，"
+    ],
+    [
+     "had originally",
+     "原本就"
+    ],
+    [
+     "been destined",
+     "注定"
+    ],
+    [
+     "to come down after twenty years.",
+     "要在二十年后拆除。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "The high-ranking deputy was Victor Lustig, a crook whose ministerial stationery was a forgery.",
+   "zh": "那位位高权重的副总长正是维克多·卢斯蒂格，一个骗子，他的那些部长的信笺都是伪造品。",
+   "en_markup": "The **high-ranking** deputy was Victor Lustig, a **crook** whose **ministerial** **stationery** was a **forgery**.",
+   "zh_markup": "那位**位高权重的**(high-ranking)副总长正是维克多·卢斯蒂格，一个**骗子**(crook)，他的那些**部长的**(ministerial)**信笺**(stationery)都是**伪造品**(forgery)。",
+   "video_notes": [
+    "（a crook：同位语，说明 Victor Lustig；whose…：定语从句，修饰 crook）"
+   ],
+   "chunks": [
+    {
+     "en": "The high-ranking deputy was Victor Lustig,",
+     "zh": "那位位高权重的副总长正是维克多·卢斯蒂格，"
+    },
+    {
+     "en": "a crook whose ministerial stationery was a forgery.",
+     "zh": "一个骗子，他的那些部长的信笺都是伪造品。"
+    }
+   ],
+   "align": [
+    [
+     "The high-ranking",
+     "那位位高权重的"
+    ],
+    [
+     "deputy",
+     "副总长"
+    ],
+    [
+     "was",
+     "正是"
+    ],
+    [
+     "Victor Lustig,",
+     "维克多·卢斯蒂格，"
+    ],
+    [
+     "a crook",
+     "一个骗子，"
+    ],
+    [
+     "whose",
+     "他的那些"
+    ],
+    [
+     "ministerial",
+     "部长的"
+    ],
+    [
+     "stationery",
+     "信笺"
+    ],
+    [
+     "was a forgery.",
+     "都是伪造品。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "He had read a newspaper article in which the authorities lamented the hefty cost of the tower's upkeep.",
+   "zh": "他曾读到过报纸上的一篇文章，文中当局哀叹铁塔维护的高昂费用。",
+   "en_markup": "He had read a newspaper article in which the authorities **lamented** the **hefty cost** of the tower's **upkeep**.",
+   "zh_markup": "他曾读到过报纸上的一篇文章，文中当局**哀叹**(lamented)铁塔**维护**(upkeep)的**高昂费用**(hefty cost)。",
+   "video_notes": [
+    "（in which…：定语从句，修饰 article）",
+    "（hefty：（数目，数量）相当大的）"
+   ],
+   "chunks": [
+    {
+     "en": "He had read a newspaper article in which the authorities lamented",
+     "zh": "他曾读到过报纸上的一篇文章，文中当局哀叹"
+    },
+    {
+     "en": "the hefty cost of the tower's upkeep.",
+     "zh": "铁塔维护的高昂费用。"
+    }
+   ],
+   "align": [
+    [
+     "He had read",
+     "他曾读到过"
+    ],
+    [
+     "a newspaper article",
+     "报纸上的一篇文章，"
+    ],
+    [
+     "in which",
+     "文中"
+    ],
+    [
+     "the authorities",
+     "当局"
+    ],
+    [
+     "lamented",
+     "哀叹"
+    ],
+    [
+     "the hefty cost of the tower's upkeep.",
+     "铁塔维护的高昂费用。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "André Poisson, a businessman impatient to gain a foothold in Paris, won.",
+   "zh": "安德烈·普瓦松，一个生意人，迫不及待地想在巴黎拥有一席之地，中标了。",
+   "en_markup": "André Poisson, a **businessman** **impatient** to **gain a foothold** in Paris, won.",
+   "zh_markup": "安德烈·普瓦松，一个**生意人**(businessman)，**迫不及待地**(impatient)想在巴黎**拥有一席之地**(gain a foothold)，中标了。",
+   "video_notes": [
+    "（a businessman…：同位语，说明 André Poisson；impatient to do：急于做……，形容词短语作后置定语；gain a foothold：站稳脚跟）"
+   ],
+   "chunks": [
+    {
+     "en": "André Poisson, a businessman impatient to gain a foothold in Paris, won.",
+     "zh": "安德烈·普瓦松，一个生意人，迫不及待地想在巴黎拥有一席之地，中标了。"
+    }
+   ],
+   "align": [
+    [
+     "André Poisson,",
+     "安德烈·普瓦松，"
+    ],
+    [
+     "a businessman",
+     "一个生意人，"
+    ],
+    [
+     "impatient",
+     "迫不及待地"
+    ],
+    [
+     "to gain a foothold in Paris,",
+     "想在巴黎拥有一席之地，"
+    ],
+    [
+     "won.",
+     "中标了。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Lustig intimated that his modest civil-service remuneration needed supplementing, and Poisson paid an additional bribe.",
+   "zh": "卢斯蒂格暗示，他那份微薄的公务员薪酬需要补贴，普瓦松然后付了一笔额外的贿赂。",
+   "en_markup": "Lustig **intimated** that his modest **civil-service** **remuneration** needed **supplementing**, and Poisson paid an **additional** **bribe**.",
+   "zh_markup": "卢斯蒂格**暗示**(intimated)，他那份微薄的**公务员**(civil-service)**薪酬**(remuneration)需要**补贴**(supplementing)，普瓦松然后付了一笔**额外的**(additional)**贿赂**(bribe)。",
+   "video_notes": [
+    "（that…：宾语从句；need doing：需要被……，主动形式表被动）"
+   ],
+   "chunks": [
+    {
+     "en": "Lustig intimated that his modest civil-service remuneration needed supplementing,",
+     "zh": "卢斯蒂格暗示，他那份微薄的公务员薪酬需要补贴，"
+    },
+    {
+     "en": "and Poisson paid an additional bribe.",
+     "zh": "普瓦松然后付了一笔额外的贿赂。"
+    }
+   ],
+   "align": [
+    [
+     "Lustig",
+     "卢斯蒂格"
+    ],
+    [
+     "intimated",
+     "暗示，"
+    ],
+    [
+     "that his modest",
+     "他那份微薄的"
+    ],
+    [
+     "civil-service",
+     "公务员"
+    ],
+    [
+     "remuneration",
+     "薪酬"
+    ],
+    [
+     "needed",
+     "需要"
+    ],
+    [
+     "supplementing,",
+     "补贴，"
+    ],
+    [
+     "and Poisson",
+     "普瓦松然后"
+    ],
+    [
+     "paid",
+     "付了"
+    ],
+    [
+     "an additional",
+     "一笔额外的"
+    ],
+    [
+     "bribe.",
+     "贿赂。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "Lustig left for Vienna with the takings.",
+   "zh": "卢斯蒂格带着这笔进账去了维也纳。",
+   "en_markup": "Lustig left for Vienna with the **takings**.",
+   "zh_markup": "卢斯蒂格带着这笔**进账**(takings)去了维也纳。",
+   "video_notes": [
+    "（leave for：动身前往）"
+   ],
+   "chunks": [
+    {
+     "en": "Lustig left for Vienna with the takings.",
+     "zh": "卢斯蒂格带着这笔进账去了维也纳。"
+    }
+   ],
+   "align": [
+    [
+     "Lustig",
+     "卢斯蒂格"
+    ],
+    [
+     "left for Vienna with the takings.",
+     "带着这笔进账去了维也纳。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "Fleeced and too ashamed to go to the police, Poisson swallowed the loss quietly.",
+   "zh": "被骗走钱财，又实在太丢人、没脸去报警，普瓦松只能默默地咽下这笔损失。",
+   "en_markup": "**Fleeced** and too **ashamed** to go to the police, Poisson swallowed the loss **quietly**.",
+   "zh_markup": "被**骗走**(Fleeced)钱财，又实在太**丢人**(ashamed)、**没脸**(ashamed)去报警，普瓦松只能**默默地**(quietly)咽下这笔损失。",
+   "video_notes": [
+    "（Fleeced and too ashamed…：过去分词与形容词并列作状语；too…to…：太……而不能……；go to the police：报警）"
+   ],
+   "chunks": [
+    {
+     "en": "Fleeced and too ashamed to go to the police,",
+     "zh": "被骗走钱财，又实在太丢人、没脸去报警，"
+    },
+    {
+     "en": "Poisson swallowed the loss quietly.",
+     "zh": "普瓦松只能默默地咽下这笔损失。"
+    }
+   ],
+   "align": [
+    [
+     "Fleeced",
+     "被骗走钱财，"
+    ],
+    [
+     "and too ashamed",
+     "又实在太丢人、"
+    ],
+    [
+     "to go to the police,",
+     "没脸去报警，"
+    ],
+    [
+     "Poisson",
+     "普瓦松"
+    ],
+    [
+     "swallowed the loss quietly.",
+     "只能默默地咽下这笔损失。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "Not a whisper of the deceit appeared in print.",
+   "zh": "关于这场骗局的半点风声报纸上没有出现。",
+   "en_markup": "Not a **whisper** of the **deceit** appeared in print.",
+   "zh_markup": "关于这场**骗局**(deceit)的半点**风声**(whisper)报纸上没有出现。",
+   "video_notes": [
+    "（Not a…：一点……都没有；in print：见报，在报刊上）"
+   ],
+   "chunks": [
+    {
+     "en": "Not a whisper of the deceit appeared in print.",
+     "zh": "关于这场骗局的半点风声报纸上没有出现。"
+    }
+   ],
+   "align": [
+    [
+     "Not a whisper of the deceit",
+     "关于这场骗局的半点风声"
+    ],
+    [
+     "appeared in print.",
+     "报纸上没有出现。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 5,
+   "en": "About a month later Lustig had the gall to reappear with an encore of his script for new dealers.",
+   "zh": "大约一个月后，卢斯蒂格厚颜无耻地去再一次出现，对新的一批商人重演他那套剧本。",
+   "en_markup": "About a month later Lustig **had the gall to** **reappear** with an **encore** of his **script** for new dealers.",
+   "zh_markup": "大约一个月后，卢斯蒂格**厚颜无耻地去**(had the gall to)**再一次出现**(reappear)，对新的一批商人**重演**(encore)他那套**剧本**(script)。",
+   "video_notes": [
+    "（have the gall to do：竟厚着脸皮做……）",
+    "（an encore of…：……的重演）"
+   ],
+   "chunks": [
+    {
+     "en": "About a month later Lustig had the gall to reappear",
+     "zh": "大约一个月后，卢斯蒂格厚颜无耻地去再一次出现，"
+    },
+    {
+     "en": "with an encore of his script for new dealers.",
+     "zh": "对新的一批商人重演他那套剧本。"
+    }
+   ],
+   "align": [
+    [
+     "About a month later",
+     "大约一个月后，"
+    ],
+    [
+     "Lustig",
+     "卢斯蒂格"
+    ],
+    [
+     "had the gall to",
+     "厚颜无耻地去"
+    ],
+    [
+     "reappear",
+     "再一次出现，"
+    ],
+    [
+     "with an encore",
+     "对新的一批商人重演"
+    ],
+    [
+     "of his",
+     "他那套"
+    ],
+    [
+     "script for new dealers.",
+     "剧本。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 5,
+   "en": "This time the winner grew distrustful and went to the police.",
+   "zh": "这一次，那位中标者起了疑心，报了警。",
+   "en_markup": "This time the winner **grew distrustful** and went to the police.",
+   "zh_markup": "这一次，那位中标者**起了疑心**(grew distrustful)，报了警。",
+   "video_notes": [
+    "（distrustful of：怀疑…，对…不相信，认为…靠不住）（常与 of 连用，表示对……不信任或怀疑）"
+   ],
+   "chunks": [
+    {
+     "en": "This time the winner grew distrustful and went to the police.",
+     "zh": "这一次，那位中标者起了疑心，报了警。"
+    }
+   ],
+   "align": [
+    [
+     "This time",
+     "这一次，"
+    ],
+    [
+     "the winner",
+     "那位中标者"
+    ],
+    [
+     "grew distrustful",
+     "起了疑心，"
+    ],
+    [
+     "and went to the police.",
+     "报了警。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "The affair made the papers, and Lustig made his getaway.",
+   "zh": "这桩事件上了报纸，卢斯蒂格逃之夭夭。",
+   "en_markup": "The **affair** made the papers, and Lustig made his **getaway**.",
+   "zh_markup": "这桩**事件**(affair)上了报纸，卢斯蒂格**逃之夭夭**(getaway)。",
+   "video_notes": [
+    "（make the papers：上报纸；make one's getaway：逃走）"
+   ],
+   "chunks": [
+    {
+     "en": "The affair made the papers, and Lustig made his getaway.",
+     "zh": "这桩事件上了报纸，卢斯蒂格逃之夭夭。"
+    }
+   ],
+   "align": [
+    [
+     "The affair",
+     "这桩事件"
+    ],
+    [
+     "made the papers,",
+     "上了报纸，"
+    ],
+    [
+     "and Lustig",
+     "卢斯蒂格"
+    ],
+    [
+     "made his getaway.",
+     "逃之夭夭。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "The much-repeated second sale is a fairy tale.",
+   "zh": "那个被反复提及的第二次出售，只是个童话。",
+   "en_markup": "The **much-repeated** second sale is a **fairy tale**.",
+   "zh_markup": "那个**被反复提及的**(much-repeated)第二次出售，只是个**童话**(fairy tale)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The much-repeated second sale is a fairy tale.",
+     "zh": "那个被反复提及的第二次出售，只是个童话。"
+    }
+   ],
+   "align": [
+    [
+     "The much-repeated",
+     "那个被反复提及的"
+    ],
+    [
+     "second sale",
+     "第二次出售，"
+    ],
+    [
+     "is",
+     "只是"
+    ],
+    [
+     "a fairy tale.",
+     "个童话。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 6,
+   "en": "Later arrested in the United States for making fake money, Lustig broke out of detention, was recaptured 27 days later and served time on the penal island of Alcatraz.",
+   "zh": "后来，卢斯蒂格在美国被捕，因为制造假币，他在关押（期间）越狱，27天后又被抓回，并在恶魔岛这座“刑罚之岛”上服刑。",
+   "en_markup": "Later arrested in the United States for making **fake** money, Lustig broke out of **detention**, was **recaptured** 27 days later and **served time** on the **penal** island of Alcatraz.",
+   "zh_markup": "后来，卢斯蒂格在美国被捕，因为制造**假**(fake)币，他在**关押**(detention)（期间）越狱，27天后又被**抓回**(recaptured)，并在恶魔岛这座“**刑罚**(penal)之岛”上**服刑**(served time)。",
+   "video_notes": [
+    "（Later arrested…：过去分词短语作状语，主语是 Lustig）",
+    "（broke out of、was recaptured、served time：三个并列谓语；break out of：从……逃出；serve time：服刑）"
+   ],
+   "chunks": [
+    {
+     "en": "Later arrested in the United States for making fake money,",
+     "zh": "后来，卢斯蒂格在美国被捕，因为制造假币，"
+    },
+    {
+     "en": "Lustig broke out of detention, was recaptured 27 days later and served time on the penal island of Alcatraz.",
+     "zh": "他在关押（期间）越狱，27天后又被抓回，并在恶魔岛这座“刑罚之岛”上服刑。"
+    }
+   ],
+   "align": [
+    [
+     "Later",
+     "后来，"
+    ],
+    [
+     "arrested in the United States",
+     "卢斯蒂格在美国被捕，"
+    ],
+    [
+     "for making",
+     "因为制造"
+    ],
+    [
+     "fake money,",
+     "假币，"
+    ],
+    [
+     "Lustig",
+     "他"
+    ],
+    [
+     "broke out of detention,",
+     "在关押（期间）越狱，"
+    ],
+    [
+     "was recaptured 27 days later",
+     "27天后又被抓回，"
+    ],
+    [
+     "and served time on the penal island of Alcatraz.",
+     "并在恶魔岛这座“刑罚之岛”上服刑。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 6,
+   "en": "He died of pneumonia in 1947.",
+   "zh": "1947年，他死于肺炎。",
+   "en_markup": "He died of pneumonia in 1947.",
+   "zh_markup": "1947年，他死于肺炎。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "He died of pneumonia in 1947.",
+     "zh": "1947年，他死于肺炎。"
+    }
+   ],
+   "align": [
+    [
+     "He died of pneumonia in 1947.",
+     "1947年，他死于肺炎。"
+    ]
+   ]
+  },
+  {
+   "n": 19,
+   "para": 7,
+   "en": "Of Lustig's two marks, the one who paid kept mum and the one who kept his money went to the police.",
+   "zh": "卢斯蒂格的两个目标中，付了钱的那个守口如瓶，保住了钱的那个则去报了警。",
+   "en_markup": "Of Lustig's two marks, the one who paid **kept mum** and the one who kept his money went to the police.",
+   "zh_markup": "卢斯蒂格的两个目标中，付了钱的那个**守口如瓶**(kept mum)，保住了钱的那个则去报了警。",
+   "video_notes": [
+    "（Of…：在……之中；marks：行骗对象；keep mum：闭口不言）"
+   ],
+   "chunks": [
+    {
+     "en": "Of Lustig's two marks, the one who paid kept mum",
+     "zh": "卢斯蒂格的两个目标中，付了钱的那个守口如瓶，"
+    },
+    {
+     "en": "and the one who kept his money went to the police.",
+     "zh": "保住了钱的那个则去报了警。"
+    }
+   ],
+   "align": [
+    [
+     "Of Lustig's two marks,",
+     "卢斯蒂格的两个目标中，"
+    ],
+    [
+     "the one who paid",
+     "付了钱的那个"
+    ],
+    [
+     "kept mum",
+     "守口如瓶，"
+    ],
+    [
+     "and the one who kept his money",
+     "保住了钱的那个则"
+    ],
+    [
+     "went to the police.",
+     "去报了警。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "scrap-metal",
+   "zh_video": "废金属",
+   "headword": "scrap-metal",
+   "pos": "n.",
+   "table_definition": "本文：废金属；n. (scrap metal) 废金属（a scrap-metal dealer；连字符用于定语）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "traders",
+   "zh_video": "商人",
+   "headword": "trader",
+   "pos": "n.",
+   "table_definition": "本文：商人；n. (trader) 商人，交易者（market traders）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "secretly",
+   "zh_video": "秘密地",
+   "headword": "secretly",
+   "pos": "adv.",
+   "table_definition": "本文：秘密地；adv. 秘密地（meet secretly）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "deputy",
+   "zh_video": "副的",
+   "headword": "deputy",
+   "pos": "adj.",
+   "table_definition": "本文：副的；adj. 副的（a deputy director 副主任）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "director-general",
+   "zh_video": "总负责人",
+   "headword": "director-general",
+   "pos": "n.",
+   "table_definition": "本文：总负责人；n. 总负责人，总干事（the director-general of the BBC）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "momentous",
+   "zh_video": "重大的",
+   "headword": "momentous",
+   "pos": "adj.",
+   "table_definition": "本文：重大的；adj. 重大的（a momentous decision）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "confidentially",
+   "zh_video": "私下地",
+   "headword": "confidentially",
+   "pos": "adv.",
+   "table_definition": "本文：私下地；adv. 私下地，秘密地（speak confidentially）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 1,
+   "en": "scrap",
+   "zh_video": "废铁",
+   "headword": "scrap",
+   "pos": "n.",
+   "table_definition": "本文：废铁；n. 废铁，废金属；废料（sell sth for scrap 把某物当废料出售）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "tenders",
+   "zh_video": "投标",
+   "headword": "tender",
+   "pos": "n.",
+   "table_definition": "本文：投标；n. (tender) 投标（invite tenders for a contract）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "solemnly",
+   "zh_video": "郑重地",
+   "headword": "solemnly",
+   "pos": "adv.",
+   "table_definition": "本文：郑重地；adv. 郑重地，严肃地（solemnly promise）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "vow",
+   "zh_video": "发誓",
+   "headword": "vow",
+   "pos": "n.",
+   "table_definition": "本文：发誓；n./v. 誓言；发誓（make a vow；vow to return）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "secrecy",
+   "zh_video": "保密",
+   "headword": "secrecy",
+   "pos": "n.",
+   "table_definition": "本文：保密；n. 保密（swear sb to secrecy）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "ostensibly",
+   "zh_video": "表面上",
+   "headword": "ostensibly",
+   "pos": "adv.",
+   "table_definition": "本文：表面上；adv. 表面上，名义上（ostensibly for health reasons）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": 3,
+   "en": "public indignation",
+   "zh_video": "公愤",
+   "headword": "public indignation",
+   "pos": "n.",
+   "table_definition": "本文：公愤；n. 公愤（arouse public indignation 引起公愤）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "pretext",
+   "zh_video": "借口",
+   "headword": "pretext",
+   "pos": "n.",
+   "table_definition": "本文：借口；n. 借口（on the pretext of illness）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 4,
+   "en": "absurd",
+   "zh_video": "荒唐",
+   "headword": "absurd",
+   "pos": "adj.",
+   "table_definition": "本文：荒唐；adj. 荒唐的（an absurd idea）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 5,
+   "en": "monument",
+   "zh_video": "纪念建筑",
+   "headword": "monument",
+   "pos": "n.",
+   "table_definition": "本文：纪念建筑；n. 纪念碑，纪念建筑（an ancient monument）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "originally",
+   "zh_video": "原本",
+   "headword": "originally",
+   "pos": "adv.",
+   "table_definition": "本文：原本；adv. 原本，最初（originally planned）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "destined",
+   "zh_video": "注定",
+   "headword": "destined",
+   "pos": "adj.",
+   "table_definition": "本文：注定；adj. 注定的（destined to fail）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 5,
+   "en": "come down",
+   "zh_video": "拆除",
+   "headword": "come down",
+   "pos": "v.",
+   "table_definition": "本文：拆除；v. 被拆除，倒塌（the old bridge came down）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "high-ranking",
+   "zh_video": "位高权重的",
+   "headword": "high-ranking",
+   "pos": "adj.",
+   "table_definition": "本文：位高权重的；adj. 高级的，位高的（a high-ranking official）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "crook",
+   "zh_video": "骗子",
+   "headword": "crook",
+   "pos": "n.",
+   "table_definition": "本文：骗子；n. 骗子，坏蛋（a small-time crook）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "ministerial",
+   "zh_video": "部长的",
+   "headword": "ministerial",
+   "pos": "adj.",
+   "table_definition": "本文：部长的；adj. 部长的，部门的（ministerial duties）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 6,
+   "en": "stationery",
+   "zh_video": "信笺",
+   "headword": "stationery",
+   "pos": "n.",
+   "table_definition": "本文：信笺；n. 信笺，信纸；文具（hotel stationery）"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 6,
+   "en": "forgery",
+   "zh_video": "伪造品",
+   "headword": "forgery",
+   "pos": "n.",
+   "table_definition": "本文：伪造品；n. 伪造品；伪造（a clever forgery）"
+  },
+  {
+   "id": 26,
+   "para": 2,
+   "sentence": 7,
+   "en": "lamented",
+   "zh_video": "哀叹",
+   "headword": "lament",
+   "pos": "v.",
+   "table_definition": "本文：哀叹；v. (lament) 哀叹，抱怨（lament the loss of sth）"
+  },
+  {
+   "id": 27,
+   "para": 2,
+   "sentence": 7,
+   "en": "hefty cost",
+   "zh_video": "高昂费用",
+   "headword": "hefty cost",
+   "pos": "n.",
+   "table_definition": "本文：高昂费用；n. 高昂费用；hefty adj.（数目，数量）相当大的（a hefty bill）"
+  },
+  {
+   "id": 28,
+   "para": 2,
+   "sentence": 7,
+   "en": "upkeep",
+   "zh_video": "维护",
+   "headword": "upkeep",
+   "pos": "n.",
+   "table_definition": "本文：维护；n. 维护（费）（the upkeep of a house）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "businessman",
+   "zh_video": "生意人",
+   "headword": "businessman",
+   "pos": "n.",
+   "table_definition": "本文：生意人；n. 商人，生意人（a successful businessman）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "impatient",
+   "zh_video": "迫不及待地",
+   "headword": "impatient",
+   "pos": "adj.",
+   "table_definition": "本文：迫不及待地；adj. 急切的，不耐烦的（impatient to begin）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 8,
+   "en": "gain a foothold",
+   "zh_video": "拥有一席之地",
+   "headword": "gain a foothold",
+   "pos": "v.",
+   "table_definition": "本文：拥有一席之地；v. 获得立足点，拥有一席之地（gain a foothold in the market）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "intimated",
+   "zh_video": "暗示",
+   "headword": "intimate",
+   "pos": "v.",
+   "table_definition": "本文：暗示；v. (intimate) 暗示（intimate that…）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 9,
+   "en": "civil-service",
+   "zh_video": "公务员",
+   "headword": "civil-service",
+   "pos": "adj.",
+   "table_definition": "本文：公务员；adj. 公务员的（a civil-service job）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 9,
+   "en": "remuneration",
+   "zh_video": "薪酬",
+   "headword": "remuneration",
+   "pos": "n.",
+   "table_definition": "本文：薪酬；n. 报酬，薪酬（remuneration for work）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 9,
+   "en": "supplementing",
+   "zh_video": "补贴",
+   "headword": "supplement",
+   "pos": "v.",
+   "table_definition": "本文：补贴；v. (supplement) 补充，增补（supplement one's income）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 9,
+   "en": "additional",
+   "zh_video": "额外的",
+   "headword": "additional",
+   "pos": "adj.",
+   "table_definition": "本文：额外的；adj. 额外的（an additional fee）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 9,
+   "en": "bribe",
+   "zh_video": "贿赂",
+   "headword": "bribe",
+   "pos": "n.",
+   "table_definition": "本文：贿赂；n./v. 贿赂（accept a bribe）"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 10,
+   "en": "takings",
+   "zh_video": "进账",
+   "headword": "takings",
+   "pos": "n.",
+   "table_definition": "本文：进账；n. 进账，收入（the day's takings）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 11,
+   "en": "fleeced",
+   "zh_video": "骗走",
+   "headword": "fleece",
+   "pos": "v.",
+   "table_definition": "本文：骗走；v. (fleece) 诈骗钱财（be fleeced by a con man）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 11,
+   "en": "ashamed",
+   "zh_video": "丢人……没脸",
+   "headword": "ashamed",
+   "pos": "adj.",
+   "table_definition": "本文：丢人……没脸；adj. 羞愧的，丢人的，没脸（做某事）（ashamed of oneself）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 11,
+   "en": "quietly",
+   "zh_video": "默默地",
+   "headword": "quietly",
+   "pos": "adv.",
+   "table_definition": "本文：默默地；adv. 默默地，悄悄地（quietly leave）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 12,
+   "en": "whisper",
+   "zh_video": "风声",
+   "headword": "whisper",
+   "pos": "n.",
+   "table_definition": "本文：风声；n. 耳语；传闻，风声（a whisper of scandal）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 12,
+   "en": "deceit",
+   "zh_video": "骗局",
+   "headword": "deceit",
+   "pos": "n.",
+   "table_definition": "本文：骗局；n. 欺骗，骗局（lies and deceit）"
+  },
+  {
+   "id": 44,
+   "para": 5,
+   "sentence": 13,
+   "en": "had the gall to",
+   "zh_video": "厚颜无耻地去",
+   "headword": "have the gall to",
+   "pos": "v.",
+   "table_definition": "本文：厚颜无耻地去；v. (have the gall to) 厚颜无耻地（做某事）（have the gall to ask for more）"
+  },
+  {
+   "id": 45,
+   "para": 5,
+   "sentence": 13,
+   "en": "reappear",
+   "zh_video": "再一次出现",
+   "headword": "reappear",
+   "pos": "v.",
+   "table_definition": "本文：再一次出现；v. 再一次出现，再次出现（reappear after years）"
+  },
+  {
+   "id": 46,
+   "para": 5,
+   "sentence": 13,
+   "en": "encore",
+   "zh_video": "重演",
+   "headword": "encore",
+   "pos": "n.",
+   "table_definition": "本文：重演；n. 加演，重演（play an encore）"
+  },
+  {
+   "id": 47,
+   "para": 5,
+   "sentence": 13,
+   "en": "script",
+   "zh_video": "剧本",
+   "headword": "script",
+   "pos": "n.",
+   "table_definition": "本文：剧本；n. 剧本；文字（a film script）"
+  },
+  {
+   "id": 48,
+   "para": 5,
+   "sentence": 14,
+   "en": "grew distrustful",
+   "zh_video": "起了疑心",
+   "headword": "grow distrustful",
+   "pos": "v.",
+   "table_definition": "本文：起了疑心；v. (grow distrustful) 起了疑心，变得不信任（grow distrustful of sb）"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 15,
+   "en": "affair",
+   "zh_video": "事件",
+   "headword": "affair",
+   "pos": "n.",
+   "table_definition": "本文：事件；n. 事件；事情（a strange affair）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "getaway",
+   "zh_video": "逃之夭夭",
+   "headword": "getaway",
+   "pos": "n.",
+   "table_definition": "本文：逃之夭夭；n. 逃跑（make one's getaway）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 16,
+   "en": "much-repeated",
+   "zh_video": "被反复提及的",
+   "headword": "much-repeated",
+   "pos": "adj.",
+   "table_definition": "本文：被反复提及的；adj. 被反复提及的，一再重复的（a much-repeated story）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 16,
+   "en": "fairy tale",
+   "zh_video": "童话",
+   "headword": "fairy tale",
+   "pos": "n.",
+   "table_definition": "本文：童话；n. 童话；虚构的故事（a fairy-tale ending 中连字符作定语）"
+  },
+  {
+   "id": 53,
+   "para": 6,
+   "sentence": 17,
+   "en": "fake",
+   "zh_video": "假",
+   "headword": "fake",
+   "pos": "adj.",
+   "table_definition": "本文：假；adj. 假的，伪造的（fake money/passport）"
+  },
+  {
+   "id": 54,
+   "para": 6,
+   "sentence": 17,
+   "en": "detention",
+   "zh_video": "关押",
+   "headword": "detention",
+   "pos": "n.",
+   "table_definition": "本文：关押；n. 拘留，关押（in police detention）"
+  },
+  {
+   "id": 55,
+   "para": 6,
+   "sentence": 17,
+   "en": "recaptured",
+   "zh_video": "抓回",
+   "headword": "recapture",
+   "pos": "v.",
+   "table_definition": "本文：抓回；v. (recapture) 再次抓获（be recaptured after escaping）"
+  },
+  {
+   "id": 56,
+   "para": 6,
+   "sentence": 17,
+   "en": "served time",
+   "zh_video": "服刑",
+   "headword": "serve time",
+   "pos": "v.",
+   "table_definition": "本文：服刑；v. (serve time) 服刑（serve time in prison）"
+  },
+  {
+   "id": 57,
+   "para": 6,
+   "sentence": 17,
+   "en": "penal",
+   "zh_video": "刑罚",
+   "headword": "penal",
+   "pos": "adj.",
+   "table_definition": "本文：刑罚；adj. 刑罚的，关押犯人的（a penal colony）"
+  },
+  {
+   "id": 58,
+   "para": 7,
+   "sentence": 19,
+   "en": "kept mum",
+   "zh_video": "守口如瓶",
+   "headword": "keep mum",
+   "pos": "v.",
+   "table_definition": "本文：守口如瓶；v. (keep mum) 守口如瓶，闭口不言（keep mum about sth）"
+  }
+ ]
+}

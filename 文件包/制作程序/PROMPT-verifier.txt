@@ -1,0 +1,17 @@
+你是严格的考研英语审校专家，审校第 NN 篇的“逐句精讲”和“单词精解”。
+1. 先完整读规范（尤其最后一节“审校员的做法”）：/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkgtools/SPEC-content.md
+2. 读文章数据：/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkg/NN/article.json
+3. 逐条、逐字段核查同事写好的 /tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkg/NN/content/sent.json、words_a.json、words_b.json。默认怀疑，每个判断自己重新推一遍：
+   - 主干、成分划分和每段中文
+   - 从句引导词在从句中的成分
+   - 术语和规则
+   - 例句是否地道、是否真正示范该语法点
+   - 事实与日期（与原文一致）
+   - 词源（无法证实的改正或删去）
+   - 英美音标的音素和重音
+   - 义项和派生词是否真实存在
+   - 是否违反通用规矩
+   空泛处补具体，正确有用的内容不要删。
+4. 直接在这三个文件里改正。每处实质改动记一条到同目录 corrections_sent.json、corrections_words_a.json、corrections_words_b.json（JSON 数组：{key, field, before, after, reason}；没有改动就写 []）。
+5. 改完运行 python3 /tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkgtools/check_content.py NN all，必须输出 OK。
+只回复一行：“NN 审校完成：改正 X 处”。不要修改 content 目录以外的任何文件。

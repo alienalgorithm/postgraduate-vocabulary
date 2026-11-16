@@ -1,0 +1,371 @@
+[
+{
+ "n": 1,
+ "trunk": {
+  "subject": "Wilhelm von Osten",
+  "predicate": "owned",
+  "object_or_complement": "a stallion",
+  "explain": "主干是 Wilhelm von Osten owned a stallion，主谓宾结构。谓语 owned 为一般过去时、主动语态，交代故事开始时的背景事实；主语和宾语后面各带一个同位语。"
+ },
+ "components": [
+  {"text": "Wilhelm von Osten,", "zh": "威廉·冯·奥斯滕", "role": "主语（人名）"},
+  {"text": "a mathematics teacher and trainer", "zh": "一位数学教师兼驯兽师", "role": "同位语，说明 Wilhelm von Osten 的身份（teacher 和 trainer 共用一个冠词 a，指同一个人）"},
+  {"text": "in Berlin,", "zh": "在柏林（任职）", "role": "后置定语（介词短语），修饰 teacher and trainer，说明任职地点"},
+  {"text": "owned", "zh": "拥有", "role": "谓语"},
+  {"text": "a stallion,", "zh": "一匹公马", "role": "宾语"},
+  {"text": "Hans.", "zh": "名叫汉斯", "role": "同位语，说明 a stallion 的名字"}
+ ],
+ "structure": "①主句是 Wilhelm von Osten owned a stallion：主语 Wilhelm von Osten，谓语 owned，宾语 a stallion。主语和谓语之间插入了两个逗号隔开的 a mathematics teacher and trainer in Berlin，读的时候要越过这一段，把主语和谓语 owned 连起来。\n②a mathematics teacher and trainer in Berlin 是主语的同位语，用名词短语说明主语的身份。mathematics 是名词作前置定语，修饰 teacher；teacher and trainer 前只有一个不定冠词 a，表示“教师”和“驯兽师”是同一个人的两种身份，视频说明“（驯马）”点明他训练的是马。in Berlin 是介词短语作后置定语，说明他在哪里任职。\n③句末 Hans 是 a stallion 的同位语，补充这匹马的名字。专有名词常用“普通名词, 专名”的格式作同位语。\n④本句是全文第一句，用一个简单的主谓宾句交代人物、身份、地点和这匹马，主干之外的信息全部用同位语补进来，结构紧凑，是外刊叙事开头的常见写法。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "同位语：用名词短语补充说明另一个名词",
+   "explain": "同位语对前面的名词作补充说明，与它指同一个人或物，通常用逗号隔开，可以紧跟在主语后面（把主语和谓语隔开），也可以放在句末。本句有两个同位语：a mathematics teacher and trainer in Berlin 说明 Wilhelm von Osten 是谁，Hans 说明 a stallion 叫什么。判断方法：去掉同位语，句子主干仍然完整；同位语与前面的名词可以用 be 连成一句，如 Wilhelm von Osten was a mathematics teacher and trainer。考研长难句中，主语后的同位语常常很长，容易让人在同位语里找谓语；找主干时应先把两个逗号之间的同位语整体括起来。",
+   "difficult": true,
+   "examples": [
+    {"en": "The town's oldest resident, a retired fisherman, celebrated his hundredth birthday last week.", "zh": "镇上最年长的居民是一位退休渔民，他上周庆祝了自己的百岁生日。"},
+    {"en": "The company launched its first product, a solar-powered lamp, in 2015.", "zh": "这家公司在2015年推出了第一款产品，一盏太阳能灯。"}
+   ]
+  },
+  {
+   "title": "a + 名词 + and + 名词：共用一个冠词表示同一个人",
+   "explain": "两个表示身份的名词由 and 连接，只在第一个名词前用冠词时，指同一个人兼有两种身份；两个名词前各用一个冠词，则指两个人。本句 a mathematics teacher and trainer 只有一个 a，说明冯·奥斯滕既是数学教师，又是驯兽师，视频译成“兼”。作主语时，这种结构指一个人，谓语用单数，如 The poet and novelist is coming to give a talk；The poet and the novelist are coming 则是两个人。考研翻译遇到这种结构，要分清是“兼”还是“和”。",
+   "difficult": true,
+   "examples": [
+    {"en": "The director and producer of the film was once a newspaper reporter.", "zh": "这部电影的导演兼制片人曾是一名报社记者。"},
+    {"en": "As a writer and translator, she has introduced dozens of foreign novels to Chinese readers.", "zh": "她身兼作家和译者，已把几十部外国小说介绍给中国读者。"}
+   ]
+  },
+  {
+   "title": "名词作前置定语：mathematics teacher",
+   "explain": "mathematics 是名词，直接放在 teacher 前作定语，说明教的科目。以 -s 结尾的学科名词（mathematics、physics、economics）作定语时保持原形，不去掉 s，如 a physics lesson、an economics degree；一般名词作定语时多用单数，如 a horse trainer，不说 horses trainer。",
+   "difficult": false,
+   "examples": [
+    {"en": "She has been a physics teacher at the same school for twenty years.", "zh": "她在同一所学校当了二十年物理老师。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "von", "explain": "德语介词，意为“……的，来自……”，用在德语姓氏前，常见于贵族姓氏。在姓名中间时 von 小写；中文一般音译为“冯”，用间隔号与前后隔开，视频译为“威廉·冯·奥斯滕”。"},
+  {"term": "trainer", "explain": "本句指训练动物的人，视频说明“（驯马）”，译为“驯兽师”。trainer 在体育语境中指教练，如 a personal trainer（私人教练）；复数 trainers 在英式英语中还指运动鞋。"},
+  {"term": "stallion", "explain": "未阉割的成年公马，常用于配种，所以也译“种马”；母马是 mare，阉割过的公马是 gelding，小马驹是 foal。视频译为“公马”。"},
+  {"term": "Berlin", "explain": "柏林，德国首都。故事发生的20世纪初，德国处于德意志帝国时期（1871年至1918年），柏林是帝国首都。"}
+ ],
+ "translation_tip": "视频译文“威廉·冯·奥斯滕，一位数学教师兼驯兽师在柏林（任职），拥有一匹公马，名叫汉斯。”基本保留了英文语序：①主语后的同位语没有前置成定语，而是照原位置译出，用逗号隔开，读者先知道人名，再知道身份。②a ... teacher and trainer 只用一个冠词，译成“一位……兼……”，表示一人两职。③介词短语 in Berlin 译成“在柏林”，用括号增补“（任职）”，补出地点与身份之间的关系。④句末同位语 Hans 译成独立的短句“名叫汉斯”，没有把它塞到“公马”前面作定语。"
+},
+{
+ "n": 2,
+ "trunk": {
+  "subject": "Hans",
+  "predicate": "tapped out",
+  "object_or_complement": "the answer",
+  "explain": "主干是 Hans tapped out the answer，主谓宾结构。谓语 tapped out 是短语动词 tap out 的一般过去时，主动语态；这里叙述的是过去反复出现的情况，视频用“就会”译出这种习惯性。"
+ },
+ "components": [
+  {"text": "Asked to", "zh": "当（这匹马）被要求", "role": "句首时间状语的开头：过去分词 Asked 表示被动，to 是不定式符号，后接三个并列的动词原形"},
+  {"text": "calculate a sum,", "zh": "计算一道算术题", "role": "不定式动词一 + 宾语"},
+  {"text": "attempt subtraction,", "zh": "试着做减法", "role": "不定式动词二 + 宾语（共用前面的 to）"},
+  {"text": "or name a date,", "zh": "或说出一个日期时", "role": "or + 不定式动词三 + 宾语（共用前面的 to）"},
+  {"text": "Hans", "zh": "汉斯", "role": "主语"},
+  {"text": "tapped out", "zh": "就会……敲出来", "role": "谓语（短语动词 tap out）"},
+  {"text": "the answer", "zh": "答案", "role": "宾语"},
+  {"text": "with a hoof.", "zh": "用一只蹄子", "role": "方式状语（介词短语，with 表示所用的工具或身体部位）"}
+ ],
+ "structure": "①主句是 Hans tapped out the answer with a hoof：主语 Hans，谓语 tapped out，宾语 the answer，with a hoof 作方式状语，说明用什么敲。\n②句首 Asked to calculate a sum, attempt subtraction, or name a date 是过去分词短语作时间状语，相当于 When he was asked to...（视频说明）。分词短语的逻辑主语就是主句主语 Hans：汉斯是“被要求”的一方，所以用过去分词 asked，不用 asking。\n③ask sb to do sth 变成被动是 sb be asked to do sth，分词短语省去了 he was，只剩 Asked to。to 后面是三个并列的动词原形 calculate、attempt、name，各带一个宾语，格式是 A, B, or C，共用一个 to，or 前有牛津逗号。\n④三项任务涵盖计算和日期，表明汉斯似乎能应付不同类型的问题；下一句用 Such aptitude 概括这种表现。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "过去分词短语作时间状语",
+   "explain": "过去分词短语放在句首作状语时，它的逻辑主语必须是主句的主语，并且与主语是被动关系。本句 Asked to... 的逻辑主语是 Hans，相当于 When he was asked to...，汉斯是被提问的一方。如果主语与分词是主动关系，要用现在分词，如 Hearing the question, Hans began to tap。考研易错点是“悬垂分词”：分词的逻辑主语和主句主语不一致，如 Asked a question, the answer was tapped out 就是错句，因为“被问”的不是 answer。阅读时遇到句首分词，先到主句里找主语，再判断主动还是被动。",
+   "difficult": true,
+   "examples": [
+    {"en": "Asked about the delay, the spokesman said the company was still waiting for parts.", "zh": "当被问及延误一事时，发言人说公司仍在等零部件。"},
+    {"en": "Left alone in the house, the dog chewed through two cushions.", "zh": "被单独留在家里时，那条狗咬破了两个靠垫。"}
+   ]
+  },
+  {
+   "title": "并列的不定式共用一个 to",
+   "explain": "几个不定式并列时，通常只在第一个动词前写 to，后面的 to 省略，如 asked to calculate, attempt, or name。只有在需要强调、或并列成分相隔较远时，才在每个动词前重复 to。阅读时要看清 or name 中的 name 是动词“说出”，与 calculate、attempt 并列，而不是名词“名字”。",
+   "difficult": false,
+   "examples": [
+    {"en": "Students are encouraged to read widely, think critically, and write regularly.", "zh": "学生们被鼓励广泛阅读、批判性地思考并经常写作。"}
+   ]
+  },
+  {
+   "title": "一般过去时表示过去的习惯性动作",
+   "explain": "一般过去时既可以表示一次性的动作，也可以表示过去经常发生的动作，句中常有 when、whenever、every time 等引出的时间或条件。本句每当汉斯被提问，它就用蹄子敲出答案，这是反复出现的表演，所以视频用“就会”译出。表示过去的习惯还可以用 used to do 或 would do，如第14句的 Each would lean forward。",
+   "difficult": false,
+   "examples": [
+    {"en": "Whenever visitors arrived, the old dog barked twice and then lay down again.", "zh": "每当有客人来，那条老狗就会叫两声，然后又趴下。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "sum", "explain": "熟词僻义：sum 常见义是“金额”“总和”，本句 calculate a sum 中指算术题，视频译为“一道算术题”。英式英语里 do sums 指做算术题，如 He was good at sums（他算术很好）。"},
+  {"term": "name", "explain": "动词用法：说出……的名称，说出（具体的日期、价格等），如 name a price（开个价）。本句 name a date 是说出一个日期，视频译为“说出”。"},
+  {"term": "tap out", "explain": "短语动词，用手指、脚、蹄子等轻敲出（节奏、信号或数字），如 tap out a rhythm（敲出节奏）。本句汉斯敲几下就代表答案是几，视频译为“敲出来”。"},
+  {"term": "attempt", "explain": "动词，尝试，试图，比 try 正式，可直接接名词或不定式（attempt to do）。本句 attempt subtraction 视频译为“试着做减法”。"},
+  {"term": "with a hoof", "explain": "with 表示使用的工具或身体部位。a hoof 用不定冠词，指用一只蹄子敲，视频译为“用一只蹄子”。hoof 的复数是 hooves 或 hoofs。"}
+ ],
+ "translation_tip": "视频译文“当（这匹马）被要求计算一道算术题、试着做减法或说出一个日期时，汉斯就会用一只蹄子把答案敲出来。”的处理：①句首过去分词短语按视频说明还原成时间状语从句，译为“当……被要求……时”，并用括号补出逻辑主语“（这匹马）”，让读者明白被提问的是马。②三个并列的不定式用顿号和“或”连接，与英文的 A, B, or C 对应。③谓语 tapped out 用“把”字句译出，“把答案敲出来”突出动作的结果；方式状语 with a hoof 前移到动词前，译为“用一只蹄子”。④一般过去时表示的反复行为用“就会”体现。"
+},
+{
+ "n": 3,
+ "trunk": {
+  "subject": "Such aptitude（第一分句）；demonstrations（第二分句）",
+  "predicate": "suggested；made",
+  "object_or_complement": "brilliance（suggested 的宾语）；him seem intelligent（him 是 made 的宾语，seem intelligent 是宾语补足语）",
+  "explain": "and 连接两个并列分句：第一分句 Such aptitude suggested brilliance 是主谓宾结构；第二分句 demonstrations made him seem intelligent 是主谓宾加宾语补足语结构。两个谓语都是一般过去时、主动语态。"
+ },
+ "components": [
+  {"text": "Such aptitude", "zh": "这样的天资", "role": "第一分句主语（such 回指上句汉斯的表现）"},
+  {"text": "suggested", "zh": "暗示着", "role": "第一分句谓语"},
+  {"text": "brilliance,", "zh": "过人的才智", "role": "第一分句宾语"},
+  {"text": "and demonstrations", "zh": "演示/展示", "role": "并列连词 and + 第二分句主语"},
+  {"text": "in his owner's courtyard", "zh": "在它主人庭院里的", "role": "后置定语（介词短语），修饰 demonstrations"},
+  {"text": "made", "zh": "也让", "role": "第二分句谓语（使役动词）"},
+  {"text": "him", "zh": "它", "role": "宾语（him 指汉斯）"},
+  {"text": "seem intelligent.", "zh": "显得很聪明", "role": "宾语补足语（不带 to 的不定式 seem + 表语 intelligent）"}
+ ],
+ "structure": "①全句是 and 连接的并列句，前后各有一套完整的主谓结构，所以 and 前用逗号。\n②第一分句 Such aptitude suggested brilliance：such 是限定词，回指上句汉斯会计算、做减法、说日期的表现，aptitude 把这些表现概括为“天资”；suggested 意为“暗示，表明”，后接名词 brilliance 作宾语。\n③第二分句 demonstrations in his owner's courtyard made him seem intelligent：主语 demonstrations 后跟介词短语 in his owner's courtyard 作后置定语，说明演示地点；谓语是使役动词 made，him 是宾语，seem intelligent 是不带 to 的不定式作宾语补足语，seem 是系动词，intelligent 是它的表语。\n④his、him 都指马汉斯，his owner 即冯·奥斯滕。英语指称动物一般用 it，动物有名字、被当作个体看待时也常用 he 或 she，视频统一译为“它”。\n⑤两个谓语 suggested 和 made ... seem 都只表示“看起来如此”，并不等于事实，为后文揭穿真相埋下伏笔。",
+ "long_difficult": true,
+ "grammar": [
+  {
+   "title": "make + 宾语 + 不带 to 的不定式",
+   "explain": "使役动词 make、let、have 后接不定式作宾语补足语时，不定式不带 to：make sb do sth。本句 made him seem intelligent 中，seem 前没有 to。变成被动语态时 to 要还原：He was made to seem intelligent。make 后也可以直接接形容词作宾补，如 make him happy；本句用 seem intelligent 而不是 intelligent，突出“显得”，只是表面印象。考研写作和翻译中，写成 make sb to do 是常见错误。",
+   "difficult": true,
+   "examples": [
+    {"en": "The new evidence made the original theory seem far less convincing.", "zh": "新的证据使原来的理论显得远没有那么有说服力。"},
+    {"en": "The workers were made to sign a new contract before the deadline.", "zh": "工人们被迫在截止日期前签了一份新合同。"}
+   ]
+  },
+  {
+   "title": "suggest 的两种意思",
+   "explain": "suggest 意为“暗示，表明”时，主语多为事物，后接名词或 that 从句，从句用陈述语气，如 The evidence suggests that he is innocent；意为“建议”时，主语多为人，that 从句用（should）+ 动词原形，如 She suggested that we (should) leave early。本句主语 Such aptitude 是事物，suggested brilliance 意为“暗示着过人的才智”。考研阅读常用 suggest 表达研究结果，与 indicate、imply 意思接近，此时不能误用虚拟语气。",
+   "difficult": true,
+   "examples": [
+    {"en": "Early results suggest that the vaccine is safe for children.", "zh": "早期结果表明，这种疫苗对儿童是安全的。"}
+   ]
+  },
+  {
+   "title": "并列句与连词前的逗号",
+   "explain": "两个完整的分句（各有主语和谓语）用 and、but、or、so 等并列连词连接时，连词前通常加逗号；如果 and 只连接两个谓语或两个宾语，一般不加逗号。本句 and 后面有新主语 demonstrations 和新谓语 made，所以是并列句。阅读时看到“逗号 + and”，先看后面有没有新的主谓结构，以免把 demonstrations 误当成 suggested 的第二个宾语。",
+   "difficult": false,
+   "examples": [
+    {"en": "Prices rose sharply in the spring, and many families cut back on spending.", "zh": "春季物价大幅上涨，许多家庭削减了开支。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "such", "explain": "限定词，意为“这样的，这种”，常回指上文刚描述过的情况；后接不可数名词或复数名词时不加冠词（such aptitude、such animals），接单数可数名词时用 such a/an（such a horse）。本句 such aptitude 概括上句的表演，第19句 such animals 指像汉斯这样的动物。"},
+  {"term": "aptitude", "explain": "天资，才能，常接 for，如 an aptitude for languages（语言天赋）；aptitude test 指能力倾向测试。视频译为“天资”。"},
+  {"term": "brilliance", "explain": "brilliant（才华横溢的；明亮的）的名词形式，既指光辉、明亮，也指才华出众。本句指才智，视频译为“过人的才智”。"},
+  {"term": "demonstration", "explain": "名词，演示，展示；也指示威游行。本句指在主人庭院里当众展示汉斯的本领，视频译为“演示/展示”。动词是 demonstrate。"}
+ ],
+ "translation_tip": "视频译文“这样的天资暗示着过人的才智，在它主人庭院里的演示/展示也让它显得很聪明。”的处理：①两个并列分句照原顺序译出，中间用逗号；and 没有译成“和”，而是在第二分句里用“也”表示递进。②后置定语 in his owner's courtyard 前移到 demonstrations 前，译成“在它主人庭院里的”。③使役结构 made him seem intelligent 译成“让它显得很聪明”，seem 对应“显得”，保留了“只是看起来聪明”的语气。④his、him 指马，统一译为“它”；demonstrations 给出“演示/展示”两个对应词。"
+},
+{
+ "n": 4,
+ "trunk": {
+  "subject": "The New York Times",
+  "predicate": "reported",
+  "object_or_complement": "the stunning act",
+  "explain": "主谓宾结构，句末 in 1904 作时间状语。谓语 reported 为一般过去时、主动语态。"
+ },
+ "components": [
+  {"text": "The New York Times", "zh": "《纽约时报》", "role": "主语（报纸名称）"},
+  {"text": "reported", "zh": "报道了", "role": "谓语"},
+  {"text": "the stunning act", "zh": "这场令人惊叹的表演", "role": "宾语（the 回指前文汉斯的表演）"},
+  {"text": "in 1904.", "zh": "在1904年", "role": "时间状语（介词短语）"}
+ ],
+ "structure": "①句子是简单的主谓宾结构：主语 The New York Times，谓语 reported，宾语 the stunning act，in 1904 作时间状语，放在句末。\n②the stunning act 中，the 表示特指，指前文描述的汉斯的表演；stunning 是 -ing 形式的形容词，作前置定语，意为“令人惊叹的”。act 在这里指一场表演、一个节目，与第8、9句的 the act 指同一件事。\n③本句交代汉斯的表演引起了美国大报的关注，说明它当时已广为人知，为下一段成立委员会调查作铺垫。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "-ing 形容词与 -ed 形容词",
+   "explain": "由动词变来的形容词中，-ing 形式表示“令人……的”，修饰引起这种感受的事物；-ed 形式表示“感到……的”，多修饰人。本句 stunning 修饰 act，意为“令人惊叹的”；看了表演的观众则是 stunned（惊呆的）。同类的有 amazing 与 amazed、surprising 与 surprised、convincing 与 convinced（第19句的 still convinced 就是 -ed 形式，修饰人）。考研写作中把 I am interested 写成 I am interesting 是常见错误。",
+   "difficult": true,
+   "examples": [
+    {"en": "The view from the top of the mountain was stunning.", "zh": "从山顶望去的景色令人惊叹。"},
+    {"en": "The audience sat in stunned silence as the verdict was read out.", "zh": "宣读判决时，听众都惊呆了，全场一片寂静。"}
+   ]
+  },
+  {
+   "title": "报刊名称的冠词与主谓一致",
+   "explain": "不少报刊名称带定冠词 the，如 The New York Times、The Guardian；书面上报刊名称常用斜体，汉语译名加书名号。Times 形式上是复数，但报纸名称作主语时谓语用单数，如 The New York Times has reported...。",
+   "difficult": false,
+   "examples": [
+    {"en": "The Economist has published a special report on ageing populations.", "zh": "《经济学人》发表了一篇关于人口老龄化的特别报道。"}
+   ]
+  },
+  {
+   "title": "时间状语的位置",
+   "explain": "英语的时间状语常放在句末，如 reported the stunning act in 1904；汉语的时间状语一般放在谓语之前或句首。翻译时要把句末的时间状语前移，译成“在1904年报道了……”。年份前用介词 in，具体日期前用 on，如 on 4 September 1904。",
+   "difficult": false,
+   "examples": [
+    {"en": "The museum reopened to the public in 2019.", "zh": "这座博物馆在2019年重新对公众开放。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "The New York Times", "explain": "美国报纸《纽约时报》，1851年创刊，总部在纽约，是美国影响最大的报纸之一，也是考研英语阅读的常见选材来源。"},
+  {"term": "act", "explain": "熟词僻义：act 作名词除“行为”外，还指马戏、杂技、歌舞等的一个节目、一场表演，如 a circus act（马戏节目）；也指戏剧的“一幕”，如 Act One。本句指汉斯的计算表演，视频译为“表演”。put on an act 意为“装模作样”。"},
+  {"term": "stunning", "explain": "令人惊叹的，极美的，如 a stunning view（绝美的景色）、a stunning victory（惊人的胜利）。视频译为“令人惊叹的”。"}
+ ],
+ "translation_tip": "视频译文“《纽约时报》在1904年报道了这场令人惊叹的表演。”的处理：①报纸名称加书名号。②句末时间状语 in 1904 移到谓语前，符合汉语“时间在动词前”的语序。③the 译成“这场”，补出量词“场”，回指前文的表演；-ing 形容词 stunning 译为“令人惊叹的”。"
+},
+{
+ "n": 5,
+ "trunk": {
+  "subject": "A commission",
+  "predicate": "was formed",
+  "object_or_complement": "",
+  "explain": "主谓结构，谓语 was formed 为一般过去时的被动语态；不定式 to investigate 作目的状语。"
+ },
+ "components": [
+  {"text": "A commission", "zh": "一个……委员会", "role": "主语"},
+  {"text": "of thirteen", "zh": "由十三人组成的", "role": "后置定语（介词短语），修饰 commission，说明人数"},
+  {"text": "was formed", "zh": "成立了", "role": "谓语（一般过去时的被动语态）"},
+  {"text": "to investigate.", "zh": "负责调查", "role": "目的状语（不定式）"}
+ ],
+ "structure": "①主句 A commission of thirteen was formed 是被动句：主语 A commission，谓语 was formed，动作的执行者没有说出，重点在“委员会成立”这件事。\n②of thirteen 是介词短语作后置定语，修饰 commission，表示委员会由十三个人构成。thirteen 后省略了 members，数词在这里相当于名词。\n③to investigate 是不定式作目的状语，说明成立委员会的目的。investigate 在这里没有带宾语，调查的对象就是前文的表演，读者从上下文可以知道。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "一般过去时的被动语态",
+   "explain": "被动语态由 be + 过去分词构成，一般过去时用 was/were + done。不知道或不必说出动作执行者时常用被动，本句没有交代是谁组建了委员会，重点在委员会成立这件事。被动语态译成汉语时，常不用“被”字，而用主动形式表达，如 was formed 译为“成立了”。",
+   "difficult": false,
+   "examples": [
+    {"en": "A new committee was set up to review the safety rules.", "zh": "成立了一个新委员会来审查安全规定。"}
+   ]
+  },
+  {
+   "title": "不定式作目的状语",
+   "explain": "不定式放在谓语之后，可以说明动作的目的，相当于 in order to do。本句 to investigate 说明成立委员会是为了调查。目的不定式也可以放在句首，此时它的逻辑主语必须是主句主语，如 To find the truth, the commission questioned every witness。考研翻译中，目的不定式常译为“为了……”，也可以像本句视频一样，拆成后面的短句“负责调查”。",
+   "difficult": true,
+   "examples": [
+    {"en": "The government borrowed heavily to fund the new railway.", "zh": "政府大举借债，为新铁路筹措资金。"},
+    {"en": "To reduce costs, the factory switched to cheaper materials.", "zh": "为了降低成本，工厂改用了更便宜的材料。"}
+   ]
+  },
+  {
+   "title": "名词 + of + 数词：表示由多少人或物构成",
+   "explain": "名词 + of + 数词可以表示一个集体由多少人或物构成，如 a family of five（五口之家）、a team of twelve（十二人的团队）。本句 a commission of thirteen 即十三人的委员会，视频译为“由十三人组成的委员会”。",
+   "difficult": false,
+   "examples": [
+    {"en": "A family of five moved into the house next door last month.", "zh": "上个月，一个五口之家搬进了隔壁的房子。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "commission", "explain": "可数名词，（为调查某事而成立的）委员会，常与 set up、form、appoint 搭配，如 set up a commission to investigate the accident。另一个常见义是“佣金”，如 earn commission on sales（赚取销售佣金）。视频译为“委员会”。"},
+  {"term": "investigate", "explain": "可作及物动词（investigate a complaint），也可不带宾语（The police are investigating）。名词 investigation，investigator 指调查人员。视频译为“调查”。"}
+ ],
+ "translation_tip": "视频译文“一个由十三人组成的委员会成立了，负责调查。”的处理：①后置定语 of thirteen 前移，并补出“人组成”，译成“由十三人组成的”。②被动语态 was formed 译成主动形式“成立了”，不用“被”字。③目的不定式 to investigate 没有译成“为了调查”，而是拆成后面的短句“负责调查”，交代委员会的职责，语气更自然。"
+},
+{
+ "n": 6,
+ "trunk": {
+  "subject": "It",
+  "predicate": "included",
+  "object_or_complement": "a veterinarian, a circus manager, a cavalry officer, schoolteachers, and the director of the Berlin zoological garden",
+  "explain": "主谓宾结构，宾语是五项并列的名词短语。It 指上句的 commission，谓语 included 为一般过去时、主动语态。"
+ },
+ "components": [
+  {"text": "It", "zh": "委员会成员", "role": "主语（It 指上句的 commission）"},
+  {"text": "included", "zh": "包括", "role": "谓语"},
+  {"text": "a veterinarian,", "zh": "一名兽医", "role": "宾语一"},
+  {"text": "a circus manager,", "zh": "一名马戏团经理", "role": "宾语二（circus 是名词作定语）"},
+  {"text": "a cavalry officer,", "zh": "一名骑兵军官", "role": "宾语三（cavalry 是名词作定语）"},
+  {"text": "schoolteachers,", "zh": "几名中小学教师", "role": "宾语四（零冠词复数）"},
+  {"text": "and", "zh": "以及", "role": "并列连词"},
+  {"text": "the director", "zh": "园长", "role": "宾语五"},
+  {"text": "of the Berlin zoological garden.", "zh": "柏林动物园的", "role": "后置定语（of 短语），修饰 the director"}
+ ],
+ "structure": "①主干是 It included...，It 指代上句的 A commission of thirteen，included 后接五项并列宾语，格式为 A, B, C, D, and E，and 前有牛津逗号。\n②前三项都是“a + 名词作定语 + 名词”：circus manager 中 circus 修饰 manager，cavalry officer 中 cavalry 修饰 officer。第四项 schoolteachers 用零冠词复数，表示不止一名教师，视频译为“几名中小学教师”。\n③第五项 the director of the Berlin zoological garden 用定冠词 the，因为一座动物园只有一位园长；of the Berlin zoological garden 作后置定语，其中 Berlin 是名词作定语，说明是柏林的动物园。\n④成员来自与马、动物表演、教学和动物管理相关的不同行业，从职业构成可以看出，委员会想从多个方面检查这场表演。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "多项并列与牛津逗号",
+   "explain": "三项及以上的成分并列时，写成 A, B, and C，最后一项前用 and 或 or；and 前的逗号叫牛津逗号（serial comma），能避免最后两项被误读成一组。本句五项宾语并列，and 前有逗号，表明 schoolteachers 和 the director 是两类人。读长句时要逐个确认并列成分：每个逗号后的名词短语都与 included 构成动宾关系。",
+   "difficult": false,
+   "examples": [
+    {"en": "The festival attracted writers, musicians, filmmakers, and thousands of ordinary visitors.", "zh": "这个节日吸引了作家、音乐人、电影人以及成千上万的普通游客。"}
+   ]
+  },
+  {
+   "title": "名词作定语",
+   "explain": "名词可以直接修饰名词，说明后者的类别或所属：circus manager（马戏团的经理）、cavalry officer（骑兵部队的军官）、Berlin zoological garden（柏林的动物园）。作定语的名词一般用单数；地名作定语时可以不加 's，如 the Berlin zoo。翻译时一般加“的”，或直接合成一个词。",
+   "difficult": false,
+   "examples": [
+    {"en": "The city council plans to build a new bus station near the river.", "zh": "市议会计划在河边新建一座公交车站。"}
+   ]
+  },
+  {
+   "title": "不定冠词、零冠词复数与定冠词",
+   "explain": "a/an + 单数名词指“一个”；复数名词前不加冠词（零冠词）时，表示数量不确定的“一些”；the 表示特指，说话双方都知道是哪一个。本句 a veterinarian 是一名兽医，schoolteachers 是几名教师，the director 是那座动物园唯一的园长。视频据此分别译为“一名”“几名”和“园长”。",
+   "difficult": false,
+   "examples": [
+    {"en": "The panel consisted of a judge, lawyers, and the head of the local police.", "zh": "评审小组由一名法官、几名律师和当地警察局局长组成。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "zoological garden", "explain": "“动物园”的正式说法，日常用的 zoo 就是 zoological garden 的缩略形式。视频把 zoological 译为“动物”，the Berlin zoological garden 即“柏林动物园”。"},
+  {"term": "veterinarian", "explain": "兽医，美式英语常用；英式英语正式说法是 veterinary surgeon，口语中英美都说 vet。"},
+  {"term": "cavalry", "explain": "集合名词，骑兵（部队），作主语时谓语可单可复；常作定语，如 a cavalry officer（骑兵军官）、a cavalry regiment（骑兵团）。注意与 Calvary（耶稣受难地）拼写不同。"},
+  {"term": "schoolteacher", "explain": "中小学教师，区别于大学教师（lecturer、professor），所以视频译为“中小学教师”。"},
+  {"term": "director", "explain": "本句指机构负责人，the director of a zoo 即动物园园长；在电影语境中指导演，在公司中指董事或主管。"}
+ ],
+ "translation_tip": "视频译文“委员会成员包括一名兽医、一名马戏团经理、一名骑兵军官、几名中小学教师以及柏林动物园的园长。”的处理：①主语 It 指委员会，译为“委员会成员”，点明包括的是人。②五项并列宾语用顿号隔开，最后一项前的 and 译成“以及”。③冠词按数量译出：a 译“一名”，零冠词复数 schoolteachers 译“几名”，the director 直接译“园长”。④后置定语 of the Berlin zoological garden 前移，译成“柏林动物园的园长”。"
+},
+{
+ "n": 7,
+ "trunk": {
+  "subject": "Its members",
+  "predicate": "looked for",
+  "object_or_complement": "trickery and collusion",
+  "explain": "主谓宾结构。look for 是动词短语，相当于一个及物动词，后接宾语 trickery and collusion；谓语为一般过去时、主动语态。"
+ },
+ "components": [
+  {"text": "Its members", "zh": "委员们", "role": "主语（Its 指委员会）"},
+  {"text": "looked for", "zh": "查看有没有", "role": "谓语（动词短语 look for）"},
+  {"text": "trickery", "zh": "诡计", "role": "宾语一"},
+  {"text": "and collusion.", "zh": "和串通", "role": "and + 宾语二"}
+ ],
+ "structure": "①句子是主谓宾结构：主语 Its members，谓语 looked for，宾语是 and 连接的两个抽象名词 trickery 和 collusion。\n②Its 是 it 的所有格，指上句的 commission，Its members 即委员会的成员，视频译为“委员们”。\n③trickery 侧重用把戏骗人，collusion 侧重几个人暗中合谋，两者涵盖了作弊的两种可能。\n④look for 本义“寻找”，本句宾语是可能存在、也可能不存在的东西，所以视频译为“查看有没有”；下一句交代了结果：没有发现骗局。",
+ "long_difficult": false,
+ "grammar": [
+  {
+   "title": "its 与 it's",
+   "explain": "its 是 it 的形容词性物主代词，意为“它的”，后接名词；it's 是 it is 或 it has 的缩写。本句 Its members 意为“它（委员会）的成员”。写作中把 its 写成 it's 是常见拼写错误。集合名词 commission 用单数代词 it 指代，强调委员会是一个整体。",
+   "difficult": false,
+   "examples": [
+    {"en": "The company has moved its headquarters to Shanghai.", "zh": "这家公司已把总部迁到上海。"}
+   ]
+  },
+  {
+   "title": "动词短语 look for：只表示“找”，不表示“找到”",
+   "explain": "look for 由动词 + 介词构成，相当于一个及物动词，宾语放在介词后面，不能说 look trickery for。它可以变被动语态，此时介词不能丢：Trickery was looked for。look for 只表示“寻找”的动作，不表示找到；“找到”要用 find，下一句的 found no deception 就是寻找的结果。同类的动词短语有 look into（调查）、look at、look after。",
+   "difficult": true,
+   "examples": [
+    {"en": "Investigators are still looking for the cause of the fire.", "zh": "调查人员仍在寻找起火原因。"},
+    {"en": "The missing documents were looked for everywhere but never found.", "zh": "丢失的文件到处都找过了，却始终没有找到。"}
+   ]
+  },
+  {
+   "title": "抽象名词作宾语用零冠词",
+   "explain": "trickery、collusion 是不可数的抽象名词，泛指一类行为时前面不加冠词，也没有复数形式。本句 looked for trickery and collusion 泛指一切诡计和串通。考研写作中，给不可数抽象名词加 a 或 -s（如 an evidence、informations）是常见错误。",
+   "difficult": false,
+   "examples": [
+    {"en": "The report found no evidence of fraud or corruption.", "zh": "报告没有发现欺诈或腐败的证据。"}
+   ]
+  }
+ ],
+ "knowledge": [
+  {"term": "trickery", "explain": "不可数名词，诡计，欺骗手段，带贬义，如 by trickery（用诡计）。由 trick 加后缀 -ery 构成，-ery 可表示行为或性质，如 bribery（行贿）。视频译为“诡计”。"},
+  {"term": "collusion", "explain": "不可数名词，（为欺骗他人的）串通，共谋，如 in collusion with sb（与某人串通）。动词是 collude（串通）。视频译为“串通”。"}
+ ],
+ "translation_tip": "视频译文“委员们查看有没有诡计和串通。”的处理：①Its members 不直译为“它的成员”，结合上文译为“委员们”。②look for 不译“寻找”，而译“查看有没有”，表明委员们事先不知道有没有作弊，是在检查。③两个并列的抽象名词照原样译出，用“和”连接。"
+}
+]

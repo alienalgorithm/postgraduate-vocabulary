@@ -1,0 +1,1557 @@
+{
+ "no": "69",
+ "title_en": "Saving the Sky",
+ "title_zh": "拯救天空",
+ "source_id": "59",
+ "source_hashes": {
+  "JSON": "3613da297c9ccd9af9a7e2dc1c6bc9e868546e25487736dac1b6c12b02803379",
+  "GEN": "3613da297c9ccd9af9a7e2dc1c6bc9e868546e25487736dac1b6c12b02803379",
+  "MD": "502ec9adcdd81cb8f576e45928476788a6627d912d6d35871ebc9efd27c9eb1f",
+  "illustration": "425557b67fd98b701ab76e5d0b55a3fd69d9d47aaa5b6e06ef4ea287adefb7ab"
+ },
+ "summary": [
+  [
+   "预警",
+   "臭氧层能挡住大量紫外线。1974年，化学家警告：▹冰箱和喷罐中使用的氯氟烃会飘到高空，释放氯，持续破坏臭氧。"
+  ],
+  [
+   "发现",
+   "1985年，南极地面观测人员报告，哈雷湾臭氧自70年代中期起，每逢南半球春季便骤降。"
+  ],
+  [
+   "误判",
+   "卫星也测到同样低值，软件却因数值太罕见而标为可疑；▹NASA称当时尚在核实。仪器没有失灵，人的预期才出了错。"
+  ],
+  [
+   "合作",
+   "各国1987年签署《蒙特利尔议定书》，限制氯氟烃；1990年富国承诺2000年前淘汰，议定书2009年获普遍批准。"
+  ],
+  [
+   "恢复",
+   "2023年评估预测，臭氧恢复至1980年水平还需时间：其他地区约2040年、北极约2045年、南极约2066年。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "A layer of ozone shields Earth from much of the sun's ultraviolet radiation.",
+   "zh": "一层臭氧为地球遮挡了太阳的大部分紫外线辐射。",
+   "en_markup": "A **layer** of **ozone** **shields** Earth **from** much of the sun's **ultraviolet** **radiation**.",
+   "zh_markup": "一**层**(layer)**臭氧**(ozone)**为**(shields from)地球**遮挡了**(shields from)太阳的大部分**紫外线**(ultraviolet)**辐射**(radiation)。",
+   "video_notes": [
+    "（shield A from B：为 A 遮挡 B，保护 A 不受 B 的伤害）"
+   ],
+   "chunks": [
+    {
+     "en": "A layer of ozone shields Earth from much of the sun's ultraviolet radiation.",
+     "zh": "一层臭氧为地球遮挡了太阳的大部分紫外线辐射。"
+    }
+   ],
+   "align": [
+    [
+     "A layer",
+     "一层"
+    ],
+    [
+     "of ozone",
+     "臭氧"
+    ],
+    [
+     "shields Earth from",
+     "为地球遮挡了"
+    ],
+    [
+     "much of the sun's",
+     "太阳的大部分"
+    ],
+    [
+     "ultraviolet",
+     "紫外线"
+    ],
+    [
+     "radiation.",
+     "辐射。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "In June 1974 Mario Molina and Sherwood Rowland, chemists in California, warned in Nature of a menace in fridges and spray cans.",
+   "zh": "1974年6月，马里奥·莫利纳和舍伍德·罗兰，两位化学家，在加州工作，在《自然》杂志上撰文警告，有一种威胁藏在冰箱和喷雾罐里。",
+   "en_markup": "In June 1974 Mario Molina and Sherwood Rowland, **chemists** in California, warned in Nature of a **menace** in fridges and **spray** cans.",
+   "zh_markup": "1974年6月，马里奥·莫利纳和舍伍德·罗兰，两位**化学家**(chemists)，在加州工作，在《自然》杂志上撰文警告，有一种**威胁**(menace)藏在冰箱和**喷雾**(spray)罐里。",
+   "video_notes": [
+    "（chemists in California：同位语，补充说明两人）",
+    "（warn of…：警告……；in fridges and spray cans：后置定语，修饰 menace）"
+   ],
+   "chunks": [
+    {
+     "en": "In June 1974 Mario Molina and Sherwood Rowland, chemists in California,",
+     "zh": "1974年6月，马里奥·莫利纳和舍伍德·罗兰，两位化学家，在加州工作，"
+    },
+    {
+     "en": "warned in Nature of a menace in fridges and spray cans.",
+     "zh": "在《自然》杂志上撰文警告，有一种威胁藏在冰箱和喷雾罐里。"
+    }
+   ],
+   "align": [
+    [
+     "In June 1974",
+     "1974年6月，"
+    ],
+    [
+     "Mario Molina and Sherwood Rowland,",
+     "马里奥·莫利纳和舍伍德·罗兰，"
+    ],
+    [
+     "chemists",
+     "两位化学家，"
+    ],
+    [
+     "in California,",
+     "在加州工作，"
+    ],
+    [
+     "warned in Nature",
+     "在《自然》杂志上撰文警告，"
+    ],
+    [
+     "of a menace",
+     "有一种威胁"
+    ],
+    [
+     "in fridges",
+     "藏在冰箱"
+    ],
+    [
+     "and spray cans.",
+     "和喷雾罐里。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "Chlorofluorocarbons (CFCs) are so inert that they drift intact into the stratosphere, high in the atmosphere, where they can liberate chlorine, a catalyst that destroys ozone molecule after molecule.",
+   "zh": "氯氟烃（CFCs）如此惰性，以至于它们能完好无损地飘入到平流层中，也就是高层大气中，在那里，它们可能释放出氯，氯是一种催化剂，会把臭氧分子一个接一个地破坏掉。",
+   "en_markup": "Chlorofluorocarbons (CFCs) are so **inert** that they drift **intact** into the stratosphere, high in the **atmosphere**, where they can **liberate** **chlorine**, a **catalyst** that destroys ozone **molecule** after molecule.",
+   "zh_markup": "氯氟烃（CFCs）如此**惰性**(inert)，以至于它们能**完好无损地**(intact)飘入到平流层中，也就是高层**大气**(atmosphere)中，在那里，它们可能**释放**(liberate)出**氯**(chlorine)，氯是一种**催化剂**(catalyst)，会把臭氧**分子**(molecule)一个接一个地破坏掉。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Chlorofluorocarbons (CFCs) are so inert that they drift intact into the stratosphere,",
+     "zh": "氯氟烃（CFCs）如此惰性，以至于它们能完好无损地飘入到平流层中，"
+    },
+    {
+     "en": "high in the atmosphere,",
+     "zh": "也就是高层大气中，"
+    },
+    {
+     "en": "where they can liberate chlorine,",
+     "zh": "在那里，它们可能释放出氯，"
+    },
+    {
+     "en": "a catalyst that destroys ozone molecule after molecule.",
+     "zh": "氯是一种催化剂，会把臭氧分子一个接一个地破坏掉。"
+    }
+   ],
+   "align": [
+    [
+     "Chlorofluorocarbons (CFCs)",
+     "氯氟烃（CFCs）"
+    ],
+    [
+     "are so inert",
+     "如此惰性，"
+    ],
+    [
+     "that they",
+     "以至于它们"
+    ],
+    [
+     "drift intact",
+     "能完好无损地飘"
+    ],
+    [
+     "into the stratosphere,",
+     "入到平流层中，"
+    ],
+    [
+     "high in the atmosphere,",
+     "也就是高层大气中，"
+    ],
+    [
+     "where they can",
+     "在那里，它们可能"
+    ],
+    [
+     "liberate",
+     "释放出"
+    ],
+    [
+     "chlorine,",
+     "氯，"
+    ],
+    [
+     "a catalyst",
+     "氯是一种催化剂，"
+    ],
+    [
+     "that destroys ozone molecule after molecule.",
+     "会把臭氧分子一个接一个地破坏掉。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "en": "The pair foresaw gradual erosion.",
+   "zh": "两人预料到的，是一场渐进式的侵蚀。",
+   "en_markup": "The pair foresaw **gradual** **erosion**.",
+   "zh_markup": "两人预料到的，是一场**渐进式的**(gradual)**侵蚀**(erosion)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The pair foresaw gradual erosion.",
+     "zh": "两人预料到的，是一场渐进式的侵蚀。"
+    }
+   ],
+   "align": [
+    [
+     "The pair",
+     "两人"
+    ],
+    [
+     "foresaw",
+     "预料到的，是"
+    ],
+    [
+     "gradual",
+     "一场渐进式的"
+    ],
+    [
+     "erosion.",
+     "侵蚀。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "The alarm, when it sounded, was abrupt.",
+   "zh": "警报真的拉响时，却来得十分突然。",
+   "en_markup": "The **alarm**, when it sounded, was **abrupt**.",
+   "zh_markup": "**警报**(alarm)真的拉响时，却来得十分**突然**(abrupt)。",
+   "video_notes": [
+    "（when it sounded：插入的时间状语从句；sound：（警报）响起）"
+   ],
+   "chunks": [
+    {
+     "en": "The alarm, when it sounded, was abrupt.",
+     "zh": "警报真的拉响时，却来得十分突然。"
+    }
+   ],
+   "align": [
+    [
+     "The alarm,",
+     "警报"
+    ],
+    [
+     "when it sounded,",
+     "真的拉响时，"
+    ],
+    [
+     "was abrupt.",
+     "却来得十分突然。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "In May 1985 Joseph Farman and colleagues at the British Antarctic Survey reported that ozone over Halley Bay, their Antarctic station, had plummeted each southern spring since the mid-1970s.",
+   "zh": "1985年5月，约瑟夫·法曼和英国南极调查局的同事报告称，哈雷湾上空的臭氧，那是他们的南极考察站，自20世纪70年代中期起，每到南半球春季就骤降。",
+   "en_markup": "In May 1985 Joseph Farman and colleagues at the British **Antarctic** Survey reported that **ozone** over Halley Bay, their Antarctic station, had **plummeted** each southern spring since the mid-1970s.",
+   "zh_markup": "1985年5月，约瑟夫·法曼和英国**南极**(Antarctic)调查局的同事报告称，哈雷湾上空的**臭氧**(ozone)，那是他们的南极考察站，自20世纪70年代中期起，每到南半球春季就**骤降**(plummeted)。",
+   "video_notes": [
+    "（at the British Antarctic Survey：后置定语，修饰 colleagues）",
+    "（their Antarctic station：同位语，补充说明 Halley Bay；had plummeted：过去完成时，表示到报告时为止一直在骤降）"
+   ],
+   "chunks": [
+    {
+     "en": "In May 1985 Joseph Farman and colleagues at the British Antarctic Survey reported that",
+     "zh": "1985年5月，约瑟夫·法曼和英国南极调查局的同事报告称，"
+    },
+    {
+     "en": "ozone over Halley Bay, their Antarctic station, had plummeted each southern spring since the mid-1970s.",
+     "zh": "哈雷湾上空的臭氧，那是他们的南极考察站，自20世纪70年代中期起，每到南半球春季就骤降。"
+    }
+   ],
+   "align": [
+    [
+     "In May 1985",
+     "1985年5月，"
+    ],
+    [
+     "Joseph Farman",
+     "约瑟夫·法曼"
+    ],
+    [
+     "and colleagues at the British Antarctic Survey",
+     "和英国南极调查局的同事"
+    ],
+    [
+     "reported that",
+     "报告称，"
+    ],
+    [
+     "ozone over Halley Bay,",
+     "哈雷湾上空的臭氧，"
+    ],
+    [
+     "their",
+     "那是他们的"
+    ],
+    [
+     "Antarctic",
+     "南极"
+    ],
+    [
+     "station,",
+     "考察站，"
+    ],
+    [
+     "had plummeted each southern spring since the mid-1970s.",
+     "自20世纪70年代中期起，每到南半球春季就骤降。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "Their humble Dobson spectrophotometer gauged ozone from the ground.",
+   "zh": "他们那台不起眼的多布森分光光度计，从地面测量臭氧。",
+   "en_markup": "Their **humble** Dobson spectrophotometer **gauged** ozone from the ground.",
+   "zh_markup": "他们那台**不起眼的**(humble)多布森分光光度计，从地面**测量**(gauged)臭氧。",
+   "video_notes": [
+    "（spectrophotometer：分光光度计，测量光谱的仪器）"
+   ],
+   "chunks": [
+    {
+     "en": "Their humble Dobson spectrophotometer gauged ozone from the ground.",
+     "zh": "他们那台不起眼的多布森分光光度计，从地面测量臭氧。"
+    }
+   ],
+   "align": [
+    [
+     "Their",
+     "他们那台"
+    ],
+    [
+     "humble",
+     "不起眼的"
+    ],
+    [
+     "Dobson",
+     "多布森"
+    ],
+    [
+     "spectrophotometer",
+     "分光光度计，"
+    ],
+    [
+     "gauged ozone from the ground.",
+     "从地面测量臭氧。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 2,
+   "en": "The staff were persistent, reading it in a painstaking routine of manual observation.",
+   "zh": "工作人员持之以恒，读数时遵循一套一丝不苟的例行规程，全靠人工观测。",
+   "en_markup": "The staff were **persistent**, reading it in a **painstaking** **routine** of **manual** **observation**.",
+   "zh_markup": "工作人员**持之以恒**(persistent)，读数时遵循一套**一丝不苟的**(painstaking)**例行**(routine)规程，全靠**人工**(manual)**观测**(observation)。",
+   "video_notes": [
+    "（reading it…：现在分词短语作伴随状语，it 指分光光度计；a routine of…：……的例行规程）（painstaking：形容做事极度仔细、费尽心血（需要下苦功夫的）。1. painstaking attention to detail（一丝不苟的细节把控）2. a painstaking process（一个极其费神的过程））"
+   ],
+   "chunks": [
+    {
+     "en": "The staff were persistent, reading it in a painstaking routine of manual observation.",
+     "zh": "工作人员持之以恒，读数时遵循一套一丝不苟的例行规程，全靠人工观测。"
+    }
+   ],
+   "align": [
+    [
+     "The staff",
+     "工作人员"
+    ],
+    [
+     "were persistent,",
+     "持之以恒，"
+    ],
+    [
+     "reading it",
+     "读数时遵循"
+    ],
+    [
+     "in a painstaking",
+     "一套一丝不苟的"
+    ],
+    [
+     "routine",
+     "例行规程，"
+    ],
+    [
+     "of manual",
+     "全靠人工"
+    ],
+    [
+     "observation.",
+     "观测。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Yet NASA's Nimbus-7 satellite, a sophisticated eye in orbit, had recorded the same lows.",
+   "zh": "然而，美国国家航空航天局（NASA）的雨云7号卫星，这只精密的眼睛在轨道上运行，也记录到了同样的低值。",
+   "en_markup": "Yet NASA's Nimbus-7 **satellite**, a **sophisticated** eye **in orbit**, had recorded the same lows.",
+   "zh_markup": "然而，美国国家航空航天局（NASA）的雨云7号**卫星**(satellite)，这只**精密的**(sophisticated)眼睛**在轨道上运行**(in orbit)，也记录到了同样的低值。",
+   "video_notes": [
+    "（a sophisticated eye in orbit：同位语，补充说明卫星）",
+    "（lows：名词复数，低值）"
+   ],
+   "chunks": [
+    {
+     "en": "Yet NASA's Nimbus-7 satellite,",
+     "zh": "然而，美国国家航空航天局（NASA）的雨云7号卫星，"
+    },
+    {
+     "en": "a sophisticated eye in orbit,",
+     "zh": "这只精密的眼睛在轨道上运行，"
+    },
+    {
+     "en": "had recorded the same lows.",
+     "zh": "也记录到了同样的低值。"
+    }
+   ],
+   "align": [
+    [
+     "Yet",
+     "然而，"
+    ],
+    [
+     "NASA's",
+     "美国国家航空航天局（NASA）的"
+    ],
+    [
+     "Nimbus-7",
+     "雨云7号"
+    ],
+    [
+     "satellite,",
+     "卫星，"
+    ],
+    [
+     "a sophisticated eye",
+     "这只精密的眼睛"
+    ],
+    [
+     "in orbit,",
+     "在轨道上运行，"
+    ],
+    [
+     "had recorded",
+     "也记录到了"
+    ],
+    [
+     "the same",
+     "同样的"
+    ],
+    [
+     "lows.",
+     "低值。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "Its software flagged them as dubious, since ozone that low had never been reliably measured.",
+   "zh": "它的软件把这些读数标记为可疑，因为这么低的臭氧此前从没有被可靠地测到过。",
+   "en_markup": "Its software **flagged** them **as** **dubious**, since ozone that low had never been **reliably** measured.",
+   "zh_markup": "它的软件**把**(flagged as)这些读数**标记为**(flagged as)**可疑**(dubious)，因为这么低的臭氧此前从没有被**可靠地**(reliably)测到过。",
+   "video_notes": [
+    "（flag A as B：把 A 标记为 B）",
+    "（that low：that 作副词，这么低，ozone that low 即这么低的臭氧）"
+   ],
+   "chunks": [
+    {
+     "en": "Its software flagged them as dubious,",
+     "zh": "它的软件把这些读数标记为可疑，"
+    },
+    {
+     "en": "since ozone that low had never been reliably measured.",
+     "zh": "因为这么低的臭氧此前从没有被可靠地测到过。"
+    }
+   ],
+   "align": [
+    [
+     "Its software",
+     "它的软件"
+    ],
+    [
+     "flagged them as",
+     "把这些读数标记为"
+    ],
+    [
+     "dubious,",
+     "可疑，"
+    ],
+    [
+     "since",
+     "因为"
+    ],
+    [
+     "ozone that low",
+     "这么低的臭氧"
+    ],
+    [
+     "had never been",
+     "此前从没有"
+    ],
+    [
+     "reliably measured.",
+     "被可靠地测到过。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 3,
+   "en": "NASA says it was still verifying them when Farman published.",
+   "zh": "据NASA的说法，它还在核实这些读数，就在法曼发表论文的时候。",
+   "en_markup": "NASA says it was still **verifying** them when Farman published.",
+   "zh_markup": "据NASA的说法，它还在**核实**(verifying)这些读数，就在法曼发表论文的时候。",
+   "video_notes": [
+    "（NASA says…：注明是 NASA 一方的说法；when Farman published：时间状语从句）"
+   ],
+   "chunks": [
+    {
+     "en": "NASA says it was still verifying them when Farman published.",
+     "zh": "据NASA的说法，它还在核实这些读数，就在法曼发表论文的时候。"
+    }
+   ],
+   "align": [
+    [
+     "NASA says",
+     "据NASA的说法，"
+    ],
+    [
+     "it was still",
+     "它还在"
+    ],
+    [
+     "verifying them",
+     "核实这些读数，"
+    ],
+    [
+     "when Farman published.",
+     "就在法曼发表论文的时候。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 3,
+   "en": "The sensor had worked; expectation had not.",
+   "zh": "传感器并没有出问题；预期却出了问题。",
+   "en_markup": "The **sensor** had worked; **expectation** had not.",
+   "zh_markup": "**传感器**(sensor)并没有出问题；**预期**(expectation)却出了问题。",
+   "video_notes": [
+    "（had not：省略了 worked，即 expectation had not worked）"
+   ],
+   "chunks": [
+    {
+     "en": "The sensor had worked; expectation had not.",
+     "zh": "传感器并没有出问题；预期却出了问题。"
+    }
+   ],
+   "align": [
+    [
+     "The sensor",
+     "传感器"
+    ],
+    [
+     "had worked;",
+     "并没有出问题；"
+    ],
+    [
+     "expectation",
+     "预期"
+    ],
+    [
+     "had not.",
+     "却出了问题。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "Remarkably, the response was swift.",
+   "zh": "引人注目的是，各国的反应十分迅速。",
+   "en_markup": "**Remarkably**, the response was **swift**.",
+   "zh_markup": "**引人注目的是**(Remarkably)，各国的反应十分**迅速**(swift)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Remarkably, the response was swift.",
+     "zh": "引人注目的是，各国的反应十分迅速。"
+    }
+   ],
+   "align": [
+    [
+     "Remarkably,",
+     "引人注目的是，"
+    ],
+    [
+     "the response",
+     "各国的反应"
+    ],
+    [
+     "was swift.",
+     "十分迅速。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "In September 1987 diplomats signed the Montreal Protocol, a binding accord to curb CFCs.",
+   "zh": "1987年9月，外交官们签署了《蒙特利尔议定书》，这是一项具有约束力的协定，用来限制CFCs。",
+   "en_markup": "In September 1987 **diplomats** signed the Montreal **Protocol**, a **binding** **accord** to **curb** CFCs.",
+   "zh_markup": "1987年9月，**外交官**(diplomats)们签署了《蒙特利尔**议定书**(Protocol)》，这是一项具有**约束力的**(binding)**协定**(accord)，用来**限制**(curb)CFCs。",
+   "video_notes": [
+    "（a binding accord…：同位语，补充说明议定书；to curb CFCs：不定式作后置定语，修饰 accord）"
+   ],
+   "chunks": [
+    {
+     "en": "In September 1987 diplomats signed the Montreal Protocol,",
+     "zh": "1987年9月，外交官们签署了《蒙特利尔议定书》，"
+    },
+    {
+     "en": "a binding accord to curb CFCs.",
+     "zh": "这是一项具有约束力的协定，用来限制CFCs。"
+    }
+   ],
+   "align": [
+    [
+     "In September 1987",
+     "1987年9月，"
+    ],
+    [
+     "diplomats",
+     "外交官们"
+    ],
+    [
+     "signed",
+     "签署了"
+    ],
+    [
+     "the Montreal Protocol,",
+     "《蒙特利尔议定书》，"
+    ],
+    [
+     "a binding",
+     "这是一项具有约束力的"
+    ],
+    [
+     "accord",
+     "协定，"
+    ],
+    [
+     "to curb CFCs.",
+     "用来限制CFCs。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 4,
+   "en": "Amendments tightened it: in June 1990 affluent countries pledged to phase out CFCs by 2000.",
+   "zh": "此后的修正案又收紧了它的管控：1990年6月，富裕的国家承诺在2000年前逐步淘汰CFCs。",
+   "en_markup": "**Amendments** **tightened** it: in June 1990 **affluent** countries **pledged** to **phase out** CFCs by 2000.",
+   "zh_markup": "此后的**修正案**(Amendments)又**收紧了**(tightened)它的管控：1990年6月，**富裕的**(affluent)国家**承诺**(pledged)在2000年前**逐步淘汰**(phase out)CFCs。",
+   "video_notes": [
+    "（pledge to do：承诺做……；phase out：逐步淘汰）"
+   ],
+   "chunks": [
+    {
+     "en": "Amendments tightened it:",
+     "zh": "此后的修正案又收紧了它的管控："
+    },
+    {
+     "en": "in June 1990 affluent countries pledged to phase out CFCs by 2000.",
+     "zh": "1990年6月，富裕的国家承诺在2000年前逐步淘汰CFCs。"
+    }
+   ],
+   "align": [
+    [
+     "Amendments",
+     "此后的修正案"
+    ],
+    [
+     "tightened it:",
+     "又收紧了它的管控："
+    ],
+    [
+     "in June 1990",
+     "1990年6月，"
+    ],
+    [
+     "affluent",
+     "富裕的"
+    ],
+    [
+     "countries",
+     "国家"
+    ],
+    [
+     "pledged to",
+     "承诺"
+    ],
+    [
+     "phase out CFCs by 2000.",
+     "在2000年前逐步淘汰CFCs。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 4,
+   "en": "In September 2009 the Protocol and its parent Vienna Convention became the UN's first treaties to win universal ratification.",
+   "zh": "2009年9月，该议定书与其所依据的《维也纳公约》一道，成为联合国首批获得普遍批准的条约。",
+   "en_markup": "In September 2009 the Protocol and its parent Vienna Convention became the UN's first **treaties** to win **universal** **ratification**.",
+   "zh_markup": "2009年9月，该议定书与其所依据的《维也纳公约》一道，成为联合国首批获得**普遍**(universal)**批准**(ratification)的**条约**(treaties)。",
+   "video_notes": [
+    "（its parent Vienna Convention：议定书所依据的母公约《维也纳公约》）",
+    "（to win…：不定式作后置定语，修饰 treaties）"
+   ],
+   "chunks": [
+    {
+     "en": "In September 2009 the Protocol and its parent Vienna Convention",
+     "zh": "2009年9月，该议定书与其所依据的《维也纳公约》一道，"
+    },
+    {
+     "en": "became the UN's first treaties to win universal ratification.",
+     "zh": "成为联合国首批获得普遍批准的条约。"
+    }
+   ],
+   "align": [
+    [
+     "In September 2009",
+     "2009年9月，"
+    ],
+    [
+     "the Protocol",
+     "该议定书"
+    ],
+    [
+     "and its parent Vienna Convention",
+     "与其所依据的《维也纳公约》一道，"
+    ],
+    [
+     "became",
+     "成为"
+    ],
+    [
+     "the UN's first treaties to win universal ratification.",
+     "联合国首批获得普遍批准的条约。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "In January 2023 a UN-backed assessment forecast recovery to 1980 levels around 2066 over Antarctica, 2045 over the Arctic, and 2040 elsewhere.",
+   "zh": "2023年1月，一份由联合国支持的评估报告预测，臭氧层将恢复到1980年的水平：约2066年在南极上空，2045年在北极上空，其他地区则在2040年。",
+   "en_markup": "In January 2023 a UN-backed **assessment** **forecast** **recovery** to 1980 levels around 2066 over **Antarctica**, 2045 over the **Arctic**, and 2040 elsewhere.",
+   "zh_markup": "2023年1月，一份由联合国支持的**评估**(assessment)报告**预测**(forecast)，臭氧层将**恢复**(recovery)到1980年的水平：约2066年在**南极**(Antarctica)上空，2045年在**北极**(Arctic)上空，其他地区则在2040年。",
+   "video_notes": [
+    "（UN-backed：由联合国支持的；forecast：过去式与原形同形）",
+    "（recovery to 1980 levels：恢复到1980年的水平）"
+   ],
+   "chunks": [
+    {
+     "en": "In January 2023 a UN-backed assessment forecast",
+     "zh": "2023年1月，一份由联合国支持的评估报告预测，"
+    },
+    {
+     "en": "recovery to 1980 levels",
+     "zh": "臭氧层将恢复到1980年的水平："
+    },
+    {
+     "en": "around 2066 over Antarctica, 2045 over the Arctic, and 2040 elsewhere.",
+     "zh": "约2066年在南极上空，2045年在北极上空，其他地区则在2040年。"
+    }
+   ],
+   "align": [
+    [
+     "In January 2023",
+     "2023年1月，"
+    ],
+    [
+     "a UN-backed assessment",
+     "一份由联合国支持的评估报告"
+    ],
+    [
+     "forecast",
+     "预测，"
+    ],
+    [
+     "recovery",
+     "臭氧层将恢复"
+    ],
+    [
+     "to 1980 levels",
+     "到1980年的水平："
+    ],
+    [
+     "around 2066",
+     "约2066年"
+    ],
+    [
+     "over Antarctica,",
+     "在南极上空，"
+    ],
+    [
+     "2045",
+     "2045年"
+    ],
+    [
+     "over the Arctic,",
+     "在北极上空，"
+    ],
+    [
+     "and 2040",
+     "其他地区"
+    ],
+    [
+     "elsewhere.",
+     "则在2040年。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 5,
+   "en": "Healing will take decades.",
+   "zh": "臭氧层的愈合还需要数十年。",
+   "en_markup": "**Healing** will take decades.",
+   "zh_markup": "臭氧层的**愈合**(Healing)还需要数十年。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Healing will take decades.",
+     "zh": "臭氧层的愈合还需要数十年。"
+    }
+   ],
+   "align": [
+    [
+     "Healing",
+     "臭氧层的愈合"
+    ],
+    [
+     "will take",
+     "还需要"
+    ],
+    [
+     "decades.",
+     "数十年。"
+    ]
+   ]
+  },
+  {
+   "n": 19,
+   "para": 5,
+   "en": "The sky's rescue began with diligent observers who trusted that a baffling number was no glitch, and published it.",
+   "zh": "天空得以拯救，始于一群勤勉的观测者，他们相信，一个令人费解的数字并不是小故障，于是把它发表了出来。",
+   "en_markup": "The sky's **rescue** began with **diligent** observers who trusted that a **baffling** number was no **glitch**, and published it.",
+   "zh_markup": "天空得以**拯救**(rescue)，始于一群**勤勉的**(diligent)观测者，他们相信，一个**令人费解的**(baffling)数字并不是**小故障**(glitch)，于是把它发表了出来。",
+   "video_notes": [
+    "（who…：定语从句，修饰 observers；was no glitch：并不是小故障；and published it：与 trusted 并列，it 指那个数字）"
+   ],
+   "chunks": [
+    {
+     "en": "The sky's rescue began with diligent observers",
+     "zh": "天空得以拯救，始于一群勤勉的观测者，"
+    },
+    {
+     "en": "who trusted that a baffling number was no glitch, and published it.",
+     "zh": "他们相信，一个令人费解的数字并不是小故障，于是把它发表了出来。"
+    }
+   ],
+   "align": [
+    [
+     "The sky's",
+     "天空得以"
+    ],
+    [
+     "rescue",
+     "拯救，"
+    ],
+    [
+     "began with",
+     "始于"
+    ],
+    [
+     "diligent observers",
+     "一群勤勉的观测者，"
+    ],
+    [
+     "who trusted that",
+     "他们相信，"
+    ],
+    [
+     "a baffling number",
+     "一个令人费解的数字"
+    ],
+    [
+     "was no glitch,",
+     "并不是小故障，"
+    ],
+    [
+     "and published it.",
+     "于是把它发表了出来。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "layer",
+   "zh_video": "层",
+   "headword": "layer",
+   "pos": "n.",
+   "table_definition": "本文：层；n. 层，层次（the ozone layer 臭氧层；a layer of dust/ice）；阶层；v. 把……分层堆放"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "ozone",
+   "zh_video": "臭氧",
+   "headword": "ozone",
+   "pos": "n.",
+   "table_definition": "本文：臭氧；n. 臭氧（the ozone layer；ozone depletion 臭氧消耗）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": null,
+   "en": "shields from",
+   "zh_video": "为……遮挡了",
+   "headword": "shields from",
+   "pos": "v.",
+   "table_definition": "本文：为……遮挡了；v. (shield) 保护，遮挡（shield sb/sth from sth）；包庇；n. 盾，盾牌；保护物，屏障（a shield against…）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 1,
+   "en": "ultraviolet",
+   "zh_video": "紫外线",
+   "headword": "ultraviolet",
+   "pos": "adj.",
+   "table_definition": "本文：紫外线；adj. 紫外线的（ultraviolet radiation/light，缩写 UV）；n. 紫外线辐射"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 1,
+   "en": "radiation",
+   "zh_video": "辐射",
+   "headword": "radiation",
+   "pos": "n.",
+   "table_definition": "本文：辐射；n. 辐射（nuclear/solar radiation；exposure to radiation）；放射物；radiate v. 辐射，散发"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "chemists",
+   "zh_video": "化学家",
+   "headword": "chemists",
+   "pos": "n.",
+   "table_definition": "本文：化学家；n. chemist 的复数，化学家"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "menace",
+   "zh_video": "威胁",
+   "headword": "menace",
+   "pos": "n.",
+   "table_definition": "本文：威胁；n. 威胁，危险的人或物（a menace to public health）；威胁的意味（a hint of menace）；v. 威胁，危及"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "spray",
+   "zh_video": "喷雾",
+   "headword": "spray",
+   "pos": "n.",
+   "table_definition": "本文：喷雾；n. 喷雾，喷剂（a spray can 喷雾罐；hair spray）；浪花，飞沫；v. 喷，喷洒（spray A on B / spray B with A）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "inert",
+   "zh_video": "惰性",
+   "headword": "inert",
+   "pos": "adj.",
+   "table_definition": "本文：惰性；adj. （化学）惰性的，不起化学反应的（inert gases 惰性气体）；无活力的，迟钝的；不动的"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "intact",
+   "zh_video": "完好无损地",
+   "headword": "intact",
+   "pos": "adj.",
+   "table_definition": "本文：完好无损地；adj. 完好无损的，完整的（drift intact 完好无损地飘：形容词作状语）；an intact building / remain intact 保持完好"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "atmosphere",
+   "zh_video": "大气",
+   "headword": "atmosphere",
+   "pos": "n.",
+   "table_definition": "本文：大气；n. 大气，大气层（the upper atmosphere 高层大气）；气氛，氛围（a relaxed atmosphere）；atmospheric adj."
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "liberate",
+   "zh_video": "释放",
+   "headword": "liberate",
+   "pos": "v.",
+   "table_definition": "本文：释放；v. 解放，使获自由（liberate a city；liberate sb from sth）；（化学）释放，使游离（liberate chlorine）；liberation n."
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "chlorine",
+   "zh_video": "氯",
+   "headword": "chlorine",
+   "pos": "n.",
+   "table_definition": "本文：氯；n. 氯，氯气（化学元素 Cl）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": 3,
+   "en": "catalyst",
+   "zh_video": "催化剂",
+   "headword": "catalyst",
+   "pos": "n.",
+   "table_definition": "本文：催化剂；n. 催化剂；促使变化的人或事，诱因（a catalyst for change）；catalyse/catalyze v."
+  },
+  {
+   "id": 15,
+   "para": 1,
+   "sentence": 3,
+   "en": "molecule",
+   "zh_video": "分子",
+   "headword": "molecule",
+   "pos": "n.",
+   "table_definition": "本文：分子；n. 分子（a molecule of water）；molecular adj."
+  },
+  {
+   "id": 16,
+   "para": 1,
+   "sentence": 4,
+   "en": "gradual",
+   "zh_video": "渐进式的",
+   "headword": "gradual",
+   "pos": "adj.",
+   "table_definition": "本文：渐进式的；adj. 逐渐的，逐步的，缓慢的（a gradual change/decline）；（坡度）平缓的；gradually adv."
+  },
+  {
+   "id": 17,
+   "para": 1,
+   "sentence": 4,
+   "en": "erosion",
+   "zh_video": "侵蚀",
+   "headword": "erosion",
+   "pos": "n.",
+   "table_definition": "本文：侵蚀；n. 侵蚀，腐蚀（soil/coastal erosion）；（权力、价值等的）削弱，逐渐丧失（the erosion of trust）；erode v."
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "alarm",
+   "zh_video": "警报",
+   "headword": "alarm",
+   "pos": "n.",
+   "table_definition": "本文：警报；n. 警报，警报器（raise/sound the alarm 发出警报；a fire alarm）；惊恐，担忧（in alarm）；v. 使惊恐，使担心；alarming adj."
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "abrupt",
+   "zh_video": "突然",
+   "headword": "abrupt",
+   "pos": "adj.",
+   "table_definition": "本文：突然；adj. 突然的，意外的（an abrupt change/end）；（言行）唐突的，生硬的；abruptly adv."
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 6,
+   "en": "Antarctic",
+   "zh_video": "南极",
+   "headword": "Antarctic",
+   "pos": "adj.",
+   "table_definition": "本文：南极；adj. 南极的，南极洲的（the British Antarctic Survey 英国南极调查局；an Antarctic station 南极考察站）；n. the Antarctic 南极地区"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "plummeted",
+   "zh_video": "骤降",
+   "headword": "plummet",
+   "pos": "v.",
+   "table_definition": "本文：骤降；v. (plummet) 骤然下跌，暴跌（prices/temperatures plummeted）；（从高处）垂直落下"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 7,
+   "en": "humble",
+   "zh_video": "不起眼的",
+   "headword": "humble",
+   "pos": "adj.",
+   "table_definition": "本文：不起眼的；adj. 简陋的，不起眼的（a humble device）；卑微的（of humble origins 出身卑微）；谦逊的，谦卑的；v. 使谦卑；使（强者）落败"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 7,
+   "en": "gauged",
+   "zh_video": "测量",
+   "headword": "gauge",
+   "pos": "v.",
+   "table_definition": "本文：测量；v. (gauge) 测量，计量（gauge rainfall/wind speed）；判断，估计（gauge public opinion）；n. 测量仪表（a fuel/pressure gauge）；（铁轨）轨距"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 8,
+   "en": "persistent",
+   "zh_video": "持之以恒",
+   "headword": "persistent",
+   "pos": "adj.",
+   "table_definition": "本文：持之以恒；adj. 坚持不懈的，执着的（persistent efforts）；持续的，反复出现的（persistent rain/cough）；persistence n.；persist v."
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 8,
+   "en": "painstaking",
+   "zh_video": "一丝不苟的",
+   "headword": "painstaking",
+   "pos": "adj.",
+   "table_definition": "本文：一丝不苟的；adj. 一丝不苟的，煞费苦心的（painstaking research/care）；painstakingly adv."
+  },
+  {
+   "id": 26,
+   "para": 2,
+   "sentence": 8,
+   "en": "routine",
+   "zh_video": "例行",
+   "headword": "routine",
+   "pos": "n.",
+   "table_definition": "本文：例行；n. 常规，例行程序，惯例（daily routine；as a matter of routine）；adj. 常规的，例行的（a routine check）；平淡的"
+  },
+  {
+   "id": 27,
+   "para": 2,
+   "sentence": 8,
+   "en": "manual",
+   "zh_video": "人工",
+   "headword": "manual",
+   "pos": "adj.",
+   "table_definition": "本文：人工；adj. 手工的，人工的，手动的（manual labour 体力劳动；manual observation）；n. 使用手册，说明书（a user manual）"
+  },
+  {
+   "id": 28,
+   "para": 2,
+   "sentence": 8,
+   "en": "observation",
+   "zh_video": "观测",
+   "headword": "observation",
+   "pos": "n.",
+   "table_definition": "本文：观测；n. 观察，观测（under observation 在观察中；careful observation）；评论，意见（make an observation about）；observe v."
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 9,
+   "en": "satellite",
+   "zh_video": "卫星",
+   "headword": "satellite",
+   "pos": "n.",
+   "table_definition": "本文：卫星；n. 人造卫星（a weather/communications satellite；via satellite）；卫星；卫星国，附属机构（satellite town 卫星城）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 9,
+   "en": "sophisticated",
+   "zh_video": "精密的",
+   "headword": "sophisticated",
+   "pos": "adj.",
+   "table_definition": "本文：精密的；adj. 精密的，复杂先进的（sophisticated equipment/technology）；（人）老练的，见多识广的，有品位的；sophistication n."
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 9,
+   "en": "in orbit",
+   "zh_video": "在轨道上运行",
+   "headword": "in orbit",
+   "pos": "n.",
+   "table_definition": "本文：在轨道上运行；n. （天体、卫星的）运行轨道（in orbit 在轨道上运行；go into orbit）；（影响、活动的）范围；v. 绕……运行"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": null,
+   "en": "flagged as",
+   "zh_video": "把……标记为",
+   "headword": "flagged as",
+   "pos": "phr.",
+   "table_definition": "本文：把……标记为；phr. v. (flag sb/sth as) 把……标记为，把……标为（flag A as B）；flag v. 标出，标记；n. 旗，旗帜"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 10,
+   "en": "dubious",
+   "zh_video": "可疑",
+   "headword": "dubious",
+   "pos": "adj.",
+   "table_definition": "本文：可疑；adj. 可疑的，靠不住的（dubious data/claims）；（对某事）怀疑的，拿不准的（be dubious about）；名声不好的"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 10,
+   "en": "reliably",
+   "zh_video": "可靠地",
+   "headword": "reliably",
+   "pos": "adv.",
+   "table_definition": "本文：可靠地；adv. 可靠地"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 11,
+   "en": "verifying",
+   "zh_video": "核实",
+   "headword": "verify",
+   "pos": "v.",
+   "table_definition": "本文：核实；v. (verify) 核实，查证（verify data/a claim）；证明，证实（verify that…）；verification n."
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 12,
+   "en": "sensor",
+   "zh_video": "传感器",
+   "headword": "sensor",
+   "pos": "n.",
+   "table_definition": "本文：传感器；n. 传感器，感应器（a motion/heat sensor）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 12,
+   "en": "expectation",
+   "zh_video": "预期",
+   "headword": "expectation",
+   "pos": "n.",
+   "table_definition": "本文：预期；n. 预期，期望（against/contrary to expectation 出乎意料；live up to expectations 不负所望；beyond expectation）"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 13,
+   "en": "remarkably",
+   "zh_video": "引人注目的是",
+   "headword": "remarkably",
+   "pos": "adv.",
+   "table_definition": "本文：引人注目的是；adv. 非常，格外（remarkably similar）；（句首）令人惊奇的是，值得注意的是；remarkable adj. 非凡的，值得注意的"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 13,
+   "en": "swift",
+   "zh_video": "迅速",
+   "headword": "swift",
+   "pos": "adj.",
+   "table_definition": "本文：迅速；adj. 迅速的，快捷的（a swift response/recovery）；（动作）敏捷的；swiftly adv."
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 14,
+   "en": "diplomats",
+   "zh_video": "外交官",
+   "headword": "diplomat",
+   "pos": "n.",
+   "table_definition": "本文：外交官；n. (diplomat) 外交官；善于交际的人；diplomatic adj.；diplomacy n."
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 14,
+   "en": "Protocol",
+   "zh_video": "议定书",
+   "headword": "protocol",
+   "pos": "n.",
+   "table_definition": "本文：议定书；n. 议定书，（条约的）草案（the Montreal Protocol；the Kyoto Protocol）；礼仪，礼节（diplomatic protocol）；（科研、医疗）方案；（计算机）协议"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 14,
+   "en": "binding",
+   "zh_video": "约束力的",
+   "headword": "binding",
+   "pos": "adj.",
+   "table_definition": "本文：约束力的；adj. 有约束力的，必须遵守的（a legally binding agreement；be binding on sb）；n. （书的）装订，封皮；bind v."
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 14,
+   "en": "accord",
+   "zh_video": "协定",
+   "headword": "accord",
+   "pos": "n.",
+   "table_definition": "本文：协定；n. （国家间的）协议，协定（a peace accord；reach an accord）；一致，符合（in accord with；of one's own accord 自愿地）；v. 给予（accord sb sth）；与……一致（accord with）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 14,
+   "en": "curb",
+   "zh_video": "限制",
+   "headword": "curb",
+   "pos": "v.",
+   "table_definition": "本文：限制；v. 限制，控制，抑制（curb emissions/inflation/spending）；n. 起控制作用的事物（a curb on sth）；（美）路缘（= 英 kerb）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 15,
+   "en": "amendments",
+   "zh_video": "修正案",
+   "headword": "amendment",
+   "pos": "n.",
+   "table_definition": "本文：修正案；n. (amendment) （法律、条约的）修正案，修正（an amendment to the constitution）；amend v. 修改，修正"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 15,
+   "en": "tightened",
+   "zh_video": "收紧了",
+   "headword": "tighten",
+   "pos": "v.",
+   "table_definition": "本文：收紧了；v. (tighten) 使（规定等）更严格（tighten rules/controls/security）；拉紧，绷紧，使牢固（tighten a screw）；tight adj."
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 15,
+   "en": "affluent",
+   "zh_video": "富裕的",
+   "headword": "affluent",
+   "pos": "adj.",
+   "table_definition": "本文：富裕的；adj. 富裕的，富足的（an affluent society/area；affluent countries）；affluence n."
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 15,
+   "en": "pledged",
+   "zh_video": "承诺",
+   "headword": "pledge",
+   "pos": "v.",
+   "table_definition": "本文：承诺；v. (pledge) 承诺，保证（pledge to do sth；pledge support/money）；抵押；n. 誓言，承诺（make a pledge）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 15,
+   "en": "phase out",
+   "zh_video": "逐步淘汰",
+   "headword": "phase out",
+   "pos": "phr.",
+   "table_definition": "本文：逐步淘汰；phr. v. 逐步淘汰，逐步停止使用（phase out leaded petrol/CFCs）；对比 phase in 逐步采用；phase n. 阶段，时期"
+  },
+  {
+   "id": 50,
+   "para": 4,
+   "sentence": 16,
+   "en": "treaties",
+   "zh_video": "条约",
+   "headword": "treaty",
+   "pos": "n.",
+   "table_definition": "本文：条约；n. (treaty 的复数) 条约，协定（sign/ratify a treaty 签署/批准条约；peace treaty 和约）"
+  },
+  {
+   "id": 51,
+   "para": 4,
+   "sentence": 16,
+   "en": "universal",
+   "zh_video": "普遍",
+   "headword": "universal",
+   "pos": "adj.",
+   "table_definition": "本文：普遍；adj. 普遍的，全体的（universal ratification/suffrage 普遍批准／普选权）；通用的，万能的（a universal remedy）；全世界的；universally adv."
+  },
+  {
+   "id": 52,
+   "para": 4,
+   "sentence": 16,
+   "en": "ratification",
+   "zh_video": "批准",
+   "headword": "ratification",
+   "pos": "n.",
+   "table_definition": "本文：批准；n. （条约等的）正式批准，认可（universal ratification 普遍批准）；ratify v. 批准"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 17,
+   "en": "assessment",
+   "zh_video": "评估",
+   "headword": "assessment",
+   "pos": "n.",
+   "table_definition": "本文：评估；n. 评估，评价（make an assessment of；risk assessment 风险评估）；（应付金额的）核定；assess v."
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 17,
+   "en": "forecast",
+   "zh_video": "预测",
+   "headword": "forecast",
+   "pos": "v.",
+   "table_definition": "本文：预测；v. （forecast/forecasted）预测，预报（forecast rain/growth）；n. 预测，预报（weather forecast）；forecaster n."
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 17,
+   "en": "recovery",
+   "zh_video": "恢复",
+   "headword": "recovery",
+   "pos": "n.",
+   "table_definition": "本文：恢复；n. 恢复，复原（make a full recovery 完全康复；economic recovery 经济复苏）；找回，收回（the recovery of stolen goods）；recover v."
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 17,
+   "en": "Antarctica",
+   "zh_video": "南极",
+   "headword": "Antarctica",
+   "pos": "n.",
+   "table_definition": "本文：南极；n. 南极洲，南极大陆（over Antarctica 在南极上空）；Antarctic adj. 南极的"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 17,
+   "en": "Arctic",
+   "zh_video": "北极",
+   "headword": "Arctic",
+   "pos": "n.",
+   "table_definition": "本文：北极；n. the Arctic 北极地区（over the Arctic 在北极上空）；adj. 北极的（Arctic ice 北极冰）；Antarctic adj. 南极的"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 18,
+   "en": "healing",
+   "zh_video": "愈合",
+   "headword": "healing",
+   "pos": "n.",
+   "table_definition": "本文：愈合；n. 愈合，治愈，康复（the healing process）；adj. 有疗效的；heal v. 治愈；（伤口）愈合；（分歧）弥合"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 19,
+   "en": "rescue",
+   "zh_video": "拯救",
+   "headword": "rescue",
+   "pos": "n.",
+   "table_definition": "本文：拯救；n./v. 营救，救援，挽救（come to sb's rescue 救助某人；rescue sb from sth；a rescue team）"
+  },
+  {
+   "id": 60,
+   "para": 5,
+   "sentence": 19,
+   "en": "diligent",
+   "zh_video": "勤勉的",
+   "headword": "diligent",
+   "pos": "adj.",
+   "table_definition": "本文：勤勉的；adj. 勤奋的，勤勉的；尽心尽力的（diligent in one's work）；diligence n."
+  },
+  {
+   "id": 61,
+   "para": 5,
+   "sentence": 19,
+   "en": "baffling",
+   "zh_video": "令人费解的",
+   "headword": "baffling",
+   "pos": "adj.",
+   "table_definition": "本文：令人费解的；adj. 令人费解的，令人困惑的（a baffling problem/result）；baffle v. 使困惑，难倒"
+  },
+  {
+   "id": 62,
+   "para": 5,
+   "sentence": 19,
+   "en": "glitch",
+   "zh_video": "小故障",
+   "headword": "glitch",
+   "pos": "n.",
+   "table_definition": "本文：小故障；n. （设备、计划中的）小故障，小毛病（a technical/software glitch）"
+  }
+ ]
+}

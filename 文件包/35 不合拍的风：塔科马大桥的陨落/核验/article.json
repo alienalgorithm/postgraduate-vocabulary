@@ -1,0 +1,1555 @@
+{
+ "no": "35",
+ "title_en": "The Wind That Kept No Time: The Fall of Galloping Gertie",
+ "title_zh": "不合拍的风：塔科马大桥的陨落",
+ "source_id": "53",
+ "source_hashes": {
+  "JSON": "7a2a5e1b8168abbe74f90ee72bcb4301a21b8214b955ba598917dedf9dd98b18",
+  "GEN": "7a2a5e1b8168abbe74f90ee72bcb4301a21b8214b955ba598917dedf9dd98b18",
+  "MD": "5d8007a8c953bc0dd47bfb2536e6f3b3308c0bcf93ca607d6f1c6d02dcac457f",
+  "illustration": "b0fe39f63403f8d02547f6fba3339a4c7e629d8552fe831bfcceb51b8624895a"
+ },
+ "summary": [
+  [
+   "事故",
+   "1940年，刚通车数月的塔科马大桥在持续大风中剧烈扭转，最终断裂坍塌，无人遇难。"
+  ],
+  [
+   "隐患",
+   "加固桥面的梁较浅，虽然轻巧、省钱，抵抗变形的能力却不足；连微风都能使桥起伏，早有“奔腾的格蒂”之名。"
+  ],
+  [
+   "纠误",
+   "课本常用共振解释事故，好比按秋千的节拍反复推它；但当天的风相当平稳，并未按桥的节拍吹。"
+  ],
+  [
+   "机制",
+   "桥每扭一下就改变周围气流，气流又推动它扭得更厉害，形成越扭越大的循环；这叫颤振，与课本的解释不同。"
+  ],
+  [
+   "后续",
+   "事故推动悬索桥用缩小模型做风洞试验成为惯例，检验桥在风中是否稳定；更坚固的新桥于1950年通车。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "On the morning of 7 November 1940, a sustained wind of about 40 miles an hour set the Tacoma Narrows Bridge twisting.",
+   "zh": "1940年11月7日上午，一股时速约40英里的持续大风使塔科马海峡大桥扭动起来。",
+   "en_markup": "On the morning of 7 November 1940, a **sustained** wind of about 40 miles an hour set the Tacoma Narrows Bridge **twisting**.",
+   "zh_markup": "1940年11月7日上午，一股时速约40英里的**持续**(sustained)大风使塔科马海峡大桥**扭动**(twisting)起来。",
+   "video_notes": [
+    "（of about 40 miles an hour：后置定语，修饰 wind；set sth doing：使……（不停地）做某事）"
+   ],
+   "chunks": [
+    {
+     "en": "On the morning of 7 November 1940, a sustained wind of about 40 miles an hour set the Tacoma Narrows Bridge twisting.",
+     "zh": "1940年11月7日上午，一股时速约40英里的持续大风使塔科马海峡大桥扭动起来。"
+    }
+   ],
+   "align": [
+    [
+     "On the morning of 7 November 1940,",
+     "1940年11月7日上午，"
+    ],
+    [
+     "a sustained wind of about 40 miles an hour",
+     "一股时速约40英里的持续大风"
+    ],
+    [
+     "set",
+     "使"
+    ],
+    [
+     "the Tacoma Narrows Bridge",
+     "塔科马海峡大桥"
+    ],
+    [
+     "twisting.",
+     "扭动起来。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "Its deck tilted from side to side in ever more violent oscillations until most of the main span tore apart and tumbled into the water.",
+   "zh": "它的桥面左右倾侧，振荡愈发剧烈，直到主跨大部分断裂、并且跌落到水中。",
+   "en_markup": "Its **deck** **tilted** from side to side in ever more **violent** **oscillations** until most of the main span **tore apart** and **tumbled** into the water.",
+   "zh_markup": "它的**桥面**(deck)左右**倾侧**(tilted)，**振荡**(oscillations)愈发**剧烈**(violent)，直到主跨大部分**断裂**(tore apart)、并且**跌落**(tumbled)到水中。",
+   "video_notes": [
+    "（ever more＋形容词：越来越……）",
+    "（until…：时间状语从句，直到……）"
+   ],
+   "chunks": [
+    {
+     "en": "Its deck tilted from side to side in ever more violent oscillations",
+     "zh": "它的桥面左右倾侧，振荡愈发剧烈，"
+    },
+    {
+     "en": "until most of the main span tore apart and tumbled into the water.",
+     "zh": "直到主跨大部分断裂、并且跌落到水中。"
+    }
+   ],
+   "align": [
+    [
+     "Its",
+     "它的"
+    ],
+    [
+     "deck",
+     "桥面"
+    ],
+    [
+     "tilted from side to side",
+     "左右倾侧，"
+    ],
+    [
+     "in ever more violent oscillations",
+     "振荡愈发剧烈，"
+    ],
+    [
+     "until",
+     "直到"
+    ],
+    [
+     "most of the main span",
+     "主跨大部分"
+    ],
+    [
+     "tore apart",
+     "断裂、"
+    ],
+    [
+     "and",
+     "并且"
+    ],
+    [
+     "tumbled",
+     "跌落"
+    ],
+    [
+     "into the water.",
+     "到水中。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "No one died.",
+   "zh": "无人丧生。",
+   "en_markup": "No one died.",
+   "zh_markup": "无人丧生。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "No one died.",
+     "zh": "无人丧生。"
+    }
+   ],
+   "align": [
+    [
+     "No one died.",
+     "无人丧生。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "en": "Footage of the spectacle would later fascinate students worldwide.",
+   "zh": "这一奇观的影像后来吸引了世界各地的学生。",
+   "en_markup": "**Footage** of the **spectacle** would later **fascinate** students worldwide.",
+   "zh_markup": "这一**奇观**(spectacle)的**影像**(Footage)后来**吸引了**(fascinate)世界各地的学生。",
+   "video_notes": [
+    "（would later do：过去将来，后来会……）"
+   ],
+   "chunks": [
+    {
+     "en": "Footage of the spectacle would later fascinate students worldwide.",
+     "zh": "这一奇观的影像后来吸引了世界各地的学生。"
+    }
+   ],
+   "align": [
+    [
+     "Footage of the spectacle",
+     "这一奇观的影像"
+    ],
+    [
+     "would later",
+     "后来"
+    ],
+    [
+     "fascinate",
+     "吸引了"
+    ],
+    [
+     "students worldwide.",
+     "世界各地的学生。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "The bridge had opened in July 1940 as the third-longest suspension span in the world at the time, its roadway hung from steel cables.",
+   "zh": "这座桥于1940年7月通车，作为当时世界上第三长的悬索桥跨径，其路面悬挂在钢缆上。",
+   "en_markup": "The bridge had opened in July 1940 as the third-longest **suspension** **span** in the world at the time, its roadway **hung from** steel cables.",
+   "zh_markup": "这座桥于1940年7月通车，作为当时世界上第三长的**悬索**(suspension)桥**跨径**(span)，其路面**悬挂在**(hung from)钢缆**上**(hung from)。",
+   "video_notes": [
+    "（had opened：过去完成时，通车早于坍塌）",
+    "（as…：作为……；at the time：在当时）",
+    "（its roadway hung from…：独立主格结构，补充说明桥的结构）"
+   ],
+   "chunks": [
+    {
+     "en": "The bridge had opened in July 1940",
+     "zh": "这座桥于1940年7月通车，"
+    },
+    {
+     "en": "as the third-longest suspension span in the world at the time,",
+     "zh": "作为当时世界上第三长的悬索桥跨径，"
+    },
+    {
+     "en": "its roadway hung from steel cables.",
+     "zh": "其路面悬挂在钢缆上。"
+    }
+   ],
+   "align": [
+    [
+     "The bridge",
+     "这座桥"
+    ],
+    [
+     "had opened in July 1940",
+     "于1940年7月通车，"
+    ],
+    [
+     "as",
+     "作为"
+    ],
+    [
+     "the third-longest",
+     "当时世界上第三长的"
+    ],
+    [
+     "suspension",
+     "悬索桥"
+    ],
+    [
+     "span in the world at the time,",
+     "跨径，"
+    ],
+    [
+     "its roadway",
+     "其路面"
+    ],
+    [
+     "hung from",
+     "悬挂在"
+    ],
+    [
+     "steel",
+     "钢"
+    ],
+    [
+     "cables.",
+     "缆上。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "Girders only eight feet deep stiffened the deck, making it slender, elegant, and economical, but far from rigid.",
+   "zh": "仅八英尺深的钢梁加固了桥面，使其变得纤细、优雅且经济，但远非刚硬。",
+   "en_markup": "**Girders** only eight feet deep **stiffened** the deck, making it **slender**, **elegant**, and **economical**, but far from **rigid**.",
+   "zh_markup": "仅八英尺深的**钢梁**(Girders)**加固了**(stiffened)桥面，使其变得**纤细**(slender)、**优雅**(elegant)且**经济**(economical)，但远非**刚硬**(rigid)。",
+   "video_notes": [
+    "（only eight feet deep：后置定语，修饰 Girders）",
+    "（making it…：现在分词短语作结果状语；far from：远非）"
+   ],
+   "chunks": [
+    {
+     "en": "Girders only eight feet deep stiffened the deck,",
+     "zh": "仅八英尺深的钢梁加固了桥面，"
+    },
+    {
+     "en": "making it slender, elegant, and economical, but far from rigid.",
+     "zh": "使其变得纤细、优雅且经济，但远非刚硬。"
+    }
+   ],
+   "align": [
+    [
+     "Girders only eight feet deep",
+     "仅八英尺深的钢梁"
+    ],
+    [
+     "stiffened",
+     "加固了"
+    ],
+    [
+     "the deck,",
+     "桥面，"
+    ],
+    [
+     "making it",
+     "使其变得"
+    ],
+    [
+     "slender,",
+     "纤细、"
+    ],
+    [
+     "elegant,",
+     "优雅"
+    ],
+    [
+     "and",
+     "且"
+    ],
+    [
+     "economical,",
+     "经济，"
+    ],
+    [
+     "but",
+     "但"
+    ],
+    [
+     "far from",
+     "远非"
+    ],
+    [
+     "rigid.",
+     "刚硬。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "Even faint breezes made it heave, earning the nickname Galloping Gertie.",
+   "zh": "哪怕轻微的微风也会让它起伏，从而赢得了一个绰号：“奔腾的格蒂”。",
+   "en_markup": "Even **faint** **breezes** made it **heave**, earning the **nickname** Galloping Gertie.",
+   "zh_markup": "哪怕**轻微的**(faint)**微风**(breezes)也会让它**起伏**(heave)，从而赢得了一个**绰号**(nickname)：“奔腾的格蒂”。",
+   "video_notes": [
+    "（make sth do：使……做）",
+    "（earning…：现在分词短语作结果状语）"
+   ],
+   "chunks": [
+    {
+     "en": "Even faint breezes made it heave,",
+     "zh": "哪怕轻微的微风也会让它起伏，"
+    },
+    {
+     "en": "earning the nickname Galloping Gertie.",
+     "zh": "从而赢得了一个绰号：“奔腾的格蒂”。"
+    }
+   ],
+   "align": [
+    [
+     "Even",
+     "哪怕"
+    ],
+    [
+     "faint",
+     "轻微的"
+    ],
+    [
+     "breezes",
+     "微风"
+    ],
+    [
+     "made it",
+     "也会让它"
+    ],
+    [
+     "heave,",
+     "起伏，"
+    ],
+    [
+     "earning",
+     "从而赢得了"
+    ],
+    [
+     "the nickname",
+     "一个绰号："
+    ],
+    [
+     "Galloping Gertie.",
+     "“奔腾的格蒂”。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "Textbooks have long invoked resonance: a periodic push that matches an object's natural frequency can amplify its motion, as when well-timed shoves propel a child on a swing.",
+   "zh": "教科书长期以来一直援引共振来解释：与物体固有频率相匹配的周期性的推力能放大其运动，就像时机恰到好处的一次次猛推推动秋千上的孩子一样。",
+   "en_markup": "**Textbooks** have long **invoked** **resonance**: {{=}}a **periodic** push that matches an object's natural **frequency** can **amplify** its motion, as when **well-timed** **shoves** **propel** a child on a swing.",
+   "zh_markup": "**教科书**(Textbooks)长期以来一直**援引**(invoked)**共振**(resonance)来解释：与物体固有**频率**(frequency)相匹配的**周期性的**(periodic)推力能**放大**(amplify)其运动，就像**时机恰到好处的**(well-timed)一次次**猛推**(shoves)**推动**(propel)秋千上的孩子一样。",
+   "video_notes": [
+    "（have long done：现在完成时，长期以来一直……）",
+    "（that matches…：定语从句，修饰 push）",
+    "（as when…：就像……的时候那样）"
+   ],
+   "chunks": [
+    {
+     "en": "Textbooks have long invoked resonance:",
+     "zh": "教科书长期以来一直援引共振来解释："
+    },
+    {
+     "en": "a periodic push that matches an object's natural frequency can amplify its motion,",
+     "zh": "与物体固有频率相匹配的周期性的推力能放大其运动，"
+    },
+    {
+     "en": "as when well-timed shoves propel a child on a swing.",
+     "zh": "就像时机恰到好处的一次次猛推推动秋千上的孩子一样。"
+    }
+   ],
+   "align": [
+    [
+     "Textbooks",
+     "教科书"
+    ],
+    [
+     "have long",
+     "长期以来一直"
+    ],
+    [
+     "invoked",
+     "援引"
+    ],
+    [
+     "resonance:",
+     "共振来解释："
+    ],
+    [
+     "a periodic push that matches an object's natural frequency",
+     "与物体固有频率相匹配的周期性的推力"
+    ],
+    [
+     "can",
+     "能"
+    ],
+    [
+     "amplify",
+     "放大"
+    ],
+    [
+     "its motion,",
+     "其运动，"
+    ],
+    [
+     "as when",
+     "就像"
+    ],
+    [
+     "well-timed",
+     "时机恰到好处的"
+    ],
+    [
+     "shoves",
+     "一次次猛推"
+    ],
+    [
+     "propel",
+     "推动"
+    ],
+    [
+     "a child on a swing.",
+     "秋千上的孩子一样。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "The analogy is intuitive but deceptive.",
+   "zh": "这个类比直观却具有迷惑性。",
+   "en_markup": "The **analogy** is **intuitive** but **deceptive**.",
+   "zh_markup": "这个**类比**(analogy)**直观**(intuitive)却**具有迷惑性**(deceptive)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The analogy is intuitive but deceptive.",
+     "zh": "这个类比直观却具有迷惑性。"
+    }
+   ],
+   "align": [
+    [
+     "The analogy",
+     "这个类比"
+    ],
+    [
+     "is intuitive",
+     "直观"
+    ],
+    [
+     "but",
+     "却"
+    ],
+    [
+     "deceptive.",
+     "具有迷惑性。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "That morning's wind did not pulse in time with the bridge; it blew fairly steadily.",
+   "zh": "那天上午的风没有与大桥有节奏地跳动；它吹得相当平稳。",
+   "en_markup": "That morning's wind did not **pulse** in time with the bridge; it blew fairly **steadily**.",
+   "zh_markup": "那天上午的风没有与大桥**有节奏地跳动**(pulse)；它吹得相当**平稳**(steadily)。",
+   "video_notes": [
+    "（in time with：合着……的节拍）"
+   ],
+   "chunks": [
+    {
+     "en": "That morning's wind did not pulse in time with the bridge;",
+     "zh": "那天上午的风没有与大桥有节奏地跳动；"
+    },
+    {
+     "en": "it blew fairly steadily.",
+     "zh": "它吹得相当平稳。"
+    }
+   ],
+   "align": [
+    [
+     "That morning's",
+     "那天上午的"
+    ],
+    [
+     "wind",
+     "风"
+    ],
+    [
+     "did not pulse in time with the bridge;",
+     "没有与大桥有节奏地跳动；"
+    ],
+    [
+     "it blew",
+     "它吹得"
+    ],
+    [
+     "fairly",
+     "相当"
+    ],
+    [
+     "steadily.",
+     "平稳。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "The mechanism was subtler.",
+   "zh": "其机理要更为微妙。",
+   "en_markup": "The **mechanism** was **subtler**.",
+   "zh_markup": "其**机理**(mechanism)要**更为微妙**(subtler)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The mechanism was subtler.",
+     "zh": "其机理要更为微妙。"
+    }
+   ],
+   "align": [
+    [
+     "The",
+     "其"
+    ],
+    [
+     "mechanism",
+     "机理"
+    ],
+    [
+     "was subtler.",
+     "要更为微妙。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "Each twist altered the passing airflow, which reinforced the next twist: a feedback loop that kept tapping the wind for energy.",
+   "zh": "每一次扭动都改变了掠过的气流，而气流又加强了下一次扭动：这是一个不断从风中汲取能量的反馈回路。",
+   "en_markup": "Each twist **altered** the passing airflow, which **reinforced** the next twist: a **feedback** loop that kept **tapping** the wind for energy.",
+   "zh_markup": "每一次扭动都**改变了**(altered)掠过的气流，而气流又**加强了**(reinforced)下一次扭动：这是一个不断从风中**汲取**(tapping)能量的**反馈**(feedback)回路。",
+   "video_notes": [
+    "（which…：非限制性定语从句，指代 the passing airflow）",
+    "（a feedback loop：同位语，概括前面的过程；keep doing：不断做；tap A for B：从 A 汲取 B）"
+   ],
+   "chunks": [
+    {
+     "en": "Each twist altered the passing airflow,",
+     "zh": "每一次扭动都改变了掠过的气流，"
+    },
+    {
+     "en": "which reinforced the next twist:",
+     "zh": "而气流又加强了下一次扭动："
+    },
+    {
+     "en": "a feedback loop that kept tapping the wind for energy.",
+     "zh": "这是一个不断从风中汲取能量的反馈回路。"
+    }
+   ],
+   "align": [
+    [
+     "Each twist",
+     "每一次扭动都"
+    ],
+    [
+     "altered",
+     "改变了"
+    ],
+    [
+     "the passing",
+     "掠过的"
+    ],
+    [
+     "airflow,",
+     "气流，"
+    ],
+    [
+     "which",
+     "而气流又"
+    ],
+    [
+     "reinforced",
+     "加强了"
+    ],
+    [
+     "the next",
+     "下一次"
+    ],
+    [
+     "twist:",
+     "扭动："
+    ],
+    [
+     "a feedback loop that kept tapping the wind for energy.",
+     "这是一个不断从风中汲取能量的反馈回路。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "In March 1941 a federal panel blamed the deck's flexibility and wing-like lift.",
+   "zh": "1941年3月，一个联邦调查委员会把原因归于桥面的柔性和类似机翼的升力。",
+   "en_markup": "In March 1941 a federal **panel** blamed the deck's **flexibility** and wing-like lift.",
+   "zh_markup": "1941年3月，一个联邦**调查委员会**(panel)把原因归于桥面的**柔性**(flexibility)和类似机翼的升力。",
+   "video_notes": [
+    "（blame…：把（事故）归咎于……）"
+   ],
+   "chunks": [
+    {
+     "en": "In March 1941 a federal panel blamed the deck's flexibility and wing-like lift.",
+     "zh": "1941年3月，一个联邦调查委员会把原因归于桥面的柔性和类似机翼的升力。"
+    }
+   ],
+   "align": [
+    [
+     "In March 1941",
+     "1941年3月，"
+    ],
+    [
+     "a",
+     "一个"
+    ],
+    [
+     "federal",
+     "联邦"
+    ],
+    [
+     "panel",
+     "调查委员会"
+    ],
+    [
+     "blamed",
+     "把原因归于"
+    ],
+    [
+     "the deck's",
+     "桥面的"
+    ],
+    [
+     "flexibility",
+     "柔性"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "wing-like",
+     "类似机翼的"
+    ],
+    [
+     "lift.",
+     "升力。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "Later analysis called the mechanism flutter; in February 1991 two engineers asserted in a physics journal that textbooks had erred.",
+   "zh": "后来的分析把这一机理称为颤振；1991年2月，两位工程师在一份物理学期刊上断言，教科书出错了。",
+   "en_markup": "Later **analysis** called the **mechanism** flutter; in February 1991 two engineers **asserted** in a physics journal that textbooks had **erred**.",
+   "zh_markup": "后来的**分析**(analysis)把这一**机理**(mechanism)称为颤振；1991年2月，两位工程师在一份物理学期刊上**断言**(asserted)，教科书**出错了**(erred)。",
+   "video_notes": [
+    "（call A B：把 A 称为 B）",
+    "（that…：宾语从句，作 asserted 的宾语；had erred：过去完成时）"
+   ],
+   "chunks": [
+    {
+     "en": "Later analysis called the mechanism flutter;",
+     "zh": "后来的分析把这一机理称为颤振；"
+    },
+    {
+     "en": "in February 1991 two engineers asserted in a physics journal that textbooks had erred.",
+     "zh": "1991年2月，两位工程师在一份物理学期刊上断言，教科书出错了。"
+    }
+   ],
+   "align": [
+    [
+     "Later analysis",
+     "后来的分析"
+    ],
+    [
+     "called the mechanism",
+     "把这一机理称为"
+    ],
+    [
+     "flutter;",
+     "颤振；"
+    ],
+    [
+     "in February 1991",
+     "1991年2月，"
+    ],
+    [
+     "two",
+     "两位"
+    ],
+    [
+     "engineers",
+     "工程师"
+    ],
+    [
+     "asserted in a physics journal that",
+     "在一份物理学期刊上断言，"
+    ],
+    [
+     "textbooks",
+     "教科书"
+    ],
+    [
+     "had erred.",
+     "出错了。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "The panel urged wind-tunnel tests, and trials on scaled-down replicas gradually became customary for suspension bridges.",
+   "zh": "该委员会敦促进行风洞试验，并且对按比例缩小的复制品进行试验，对于悬索桥而言也渐渐成为了惯例。",
+   "en_markup": "The panel urged **wind-tunnel** tests, and trials on **scaled-down** **replicas** **gradually** became **customary** for suspension bridges.",
+   "zh_markup": "该委员会敦促进行**风洞**(wind-tunnel)试验，并且对**按比例缩小的**(scaled-down)**复制品**(replicas)进行试验，对于悬索桥而言也**渐渐**(gradually)成为了**惯例**(customary)。",
+   "video_notes": [
+    "（trials on…：对……进行的试验；become customary：成为惯例）"
+   ],
+   "chunks": [
+    {
+     "en": "The panel urged wind-tunnel tests,",
+     "zh": "该委员会敦促进行风洞试验，"
+    },
+    {
+     "en": "and trials on scaled-down replicas gradually became customary for suspension bridges.",
+     "zh": "并且对按比例缩小的复制品进行试验，对于悬索桥而言也渐渐成为了惯例。"
+    }
+   ],
+   "align": [
+    [
+     "The panel",
+     "该委员会"
+    ],
+    [
+     "urged",
+     "敦促进行"
+    ],
+    [
+     "wind-tunnel",
+     "风洞"
+    ],
+    [
+     "tests,",
+     "试验，"
+    ],
+    [
+     "and",
+     "并且"
+    ],
+    [
+     "trials on",
+     "对"
+    ],
+    [
+     "scaled-down",
+     "按比例缩小的"
+    ],
+    [
+     "replicas",
+     "复制品进行试验，"
+    ],
+    [
+     "gradually",
+     "对于悬索桥而言也渐渐"
+    ],
+    [
+     "became",
+     "成为了"
+    ],
+    [
+     "customary for suspension bridges.",
+     "惯例。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "A sturdier replacement opened in October 1950.",
+   "zh": "一个更坚固的替代品于1950年10月通车（开放）。",
+   "en_markup": "A **sturdier** **replacement** opened in October 1950.",
+   "zh_markup": "一个**更坚固的**(sturdier)**替代品**(replacement)于1950年10月通车（开放）。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "A sturdier replacement opened in October 1950.",
+     "zh": "一个更坚固的替代品于1950年10月通车（开放）。"
+    }
+   ],
+   "align": [
+    [
+     "A",
+     "一个"
+    ],
+    [
+     "sturdier",
+     "更坚固的"
+    ],
+    [
+     "replacement",
+     "替代品"
+    ],
+    [
+     "opened in October 1950.",
+     "于1950年10月通车（开放）。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "Gertie's fall may still instruct engineers, if read accurately: the wind never kept time with the bridge, the bridge's own motion turned a sustained wind destructive.",
+   "zh": "格蒂的倒塌或许仍能指导着工程师，如果解读得精准：风从未与大桥合拍，是大桥自身的运动使一股持续的风具有了破坏力。",
+   "en_markup": "Gertie's fall may still **instruct** engineers, if read **accurately**: the wind never **kept time with** the bridge, the bridge's own motion turned a sustained wind **destructive**.",
+   "zh_markup": "格蒂的倒塌或许仍能**指导着**(instruct)工程师，如果解读得**精准**(accurately)：风从未**与**(kept time with)大桥**合拍**(kept time with)，是大桥自身的运动使一股持续的风**具有了破坏力**(destructive)。",
+   "video_notes": [
+    "（if read accurately：省略形式，= if it is read accurately）",
+    "（keep time with：与……合拍；turn A＋形容词：使 A 变得……）"
+   ],
+   "chunks": [
+    {
+     "en": "Gertie's fall may still instruct engineers, if read accurately:",
+     "zh": "格蒂的倒塌或许仍能指导着工程师，如果解读得精准："
+    },
+    {
+     "en": "the wind never kept time with the bridge, the bridge's own motion turned a sustained wind destructive.",
+     "zh": "风从未与大桥合拍，是大桥自身的运动使一股持续的风具有了破坏力。"
+    }
+   ],
+   "align": [
+    [
+     "Gertie's fall",
+     "格蒂的倒塌"
+    ],
+    [
+     "may still",
+     "或许仍能"
+    ],
+    [
+     "instruct",
+     "指导着"
+    ],
+    [
+     "engineers,",
+     "工程师，"
+    ],
+    [
+     "if",
+     "如果"
+    ],
+    [
+     "read",
+     "解读得"
+    ],
+    [
+     "accurately:",
+     "精准："
+    ],
+    [
+     "the wind",
+     "风"
+    ],
+    [
+     "never",
+     "从未"
+    ],
+    [
+     "kept time with the bridge,",
+     "与大桥合拍，"
+    ],
+    [
+     "the bridge's",
+     "是大桥"
+    ],
+    [
+     "own",
+     "自身的"
+    ],
+    [
+     "motion",
+     "运动"
+    ],
+    [
+     "turned",
+     "使"
+    ],
+    [
+     "a sustained",
+     "一股持续的"
+    ],
+    [
+     "wind",
+     "风"
+    ],
+    [
+     "destructive.",
+     "具有了破坏力。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "sustained",
+   "zh_video": "持续",
+   "headword": "sustained",
+   "pos": "adj.",
+   "table_definition": "本文：持续；adj. 持续的，持久的（sustained growth/effort）；sustain v. 维持，支撑；遭受（sustain losses）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "twisting",
+   "zh_video": "扭动",
+   "headword": "twist",
+   "pos": "v.",
+   "table_definition": "本文：扭动；v. (twist) 扭动，扭转（set sth twisting 使……扭动起来）；歪曲（twist the facts）；n. 转折"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 2,
+   "en": "deck",
+   "zh_video": "桥面",
+   "headword": "deck",
+   "pos": "n.",
+   "table_definition": "本文：桥面；n. （桥的）桥面；（船的）甲板（on deck）；（公共汽车的）层；一副（纸牌）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "tilted",
+   "zh_video": "倾侧",
+   "headword": "tilt",
+   "pos": "v.",
+   "table_definition": "本文：倾侧；v. (tilt) 倾斜，倾侧（tilt from side to side 左右摇摆）；使倾向于；n. 倾斜"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "violent",
+   "zh_video": "剧烈",
+   "headword": "violent",
+   "pos": "adj.",
+   "table_definition": "本文：剧烈；adj. 剧烈的，猛烈的（violent oscillations/storms）；暴力的（violent crime）；violence n."
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "oscillations",
+   "zh_video": "振荡",
+   "headword": "oscillation",
+   "pos": "n.",
+   "table_definition": "本文：振荡；n. (oscillation) 振荡，摆动（in ever more violent oscillations）；（观点等的）摇摆；oscillate v."
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "tore apart",
+   "zh_video": "断裂",
+   "headword": "tear apart",
+   "pos": "phr.",
+   "table_definition": "本文：断裂；phr. v. (tear apart) 撕裂，扯碎；使（国家、家庭）分裂；痛批"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "tumbled",
+   "zh_video": "跌落",
+   "headword": "tumble",
+   "pos": "v.",
+   "table_definition": "本文：跌落；v. (tumble) 跌落，坠落（tumble into the water）；（价格）暴跌；n. 跌倒"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 4,
+   "en": "footage",
+   "zh_video": "影像",
+   "headword": "footage",
+   "pos": "n.",
+   "table_definition": "本文：影像；n. （影片的）片段，影像资料（news/film footage）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 4,
+   "en": "spectacle",
+   "zh_video": "奇观",
+   "headword": "spectacle",
+   "pos": "n.",
+   "table_definition": "本文：奇观；n. 奇观，壮观景象（a sad spectacle）；场面；(pl.) 眼镜；spectacular adj. 壮观的"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 4,
+   "en": "fascinate",
+   "zh_video": "吸引了",
+   "headword": "fascinate",
+   "pos": "v.",
+   "table_definition": "本文：吸引了；v. 深深吸引，使着迷（be fascinated by/with）；fascinating adj. 迷人的；fascination n."
+  },
+  {
+   "id": 12,
+   "para": 2,
+   "sentence": 5,
+   "en": "suspension",
+   "zh_video": "悬索",
+   "headword": "suspension",
+   "pos": "n.",
+   "table_definition": "本文：悬索；n. 悬挂（a suspension bridge 悬索桥）；暂停，中止（suspension of payments）；停职；suspend v."
+  },
+  {
+   "id": 13,
+   "para": 2,
+   "sentence": 5,
+   "en": "span",
+   "zh_video": "跨径",
+   "headword": "span",
+   "pos": "n.",
+   "table_definition": "本文：跨径；n. （桥的）跨径，跨度（the main span 主跨）；一段时间（attention span 注意力持续时间）；v. 横跨；持续"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 5,
+   "en": "hung from",
+   "zh_video": "悬挂在……上",
+   "headword": "hang from",
+   "pos": "phr.",
+   "table_definition": "本文：悬挂在……上；phr. v. (hang from) 悬挂在……上，从……垂下（hang from the ceiling/cables）；hang v. 悬挂（过去式 hung）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 6,
+   "en": "girders",
+   "zh_video": "钢梁",
+   "headword": "girder",
+   "pos": "n.",
+   "table_definition": "本文：钢梁；n. (girder) （桥梁、建筑的）大梁，钢梁（steel girders）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 6,
+   "en": "stiffened",
+   "zh_video": "加固了",
+   "headword": "stiffen",
+   "pos": "v.",
+   "table_definition": "本文：加固了；v. (stiffen) 使变硬，加固（stiffen the deck/structure）；（态度）变强硬；stiff adj. 硬的"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 6,
+   "en": "slender",
+   "zh_video": "纤细",
+   "headword": "slender",
+   "pos": "adj.",
+   "table_definition": "本文：纤细；adj. 纤细的，细长的（a slender deck/waist）；微薄的（a slender majority 微弱多数）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 6,
+   "en": "elegant",
+   "zh_video": "优雅",
+   "headword": "elegant",
+   "pos": "adj.",
+   "table_definition": "本文：优雅；adj. 优雅的，精美的（an elegant design）；（方案）简洁巧妙的；elegance n."
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 6,
+   "en": "economical",
+   "zh_video": "经济",
+   "headword": "economical",
+   "pos": "adj.",
+   "table_definition": "本文：经济；adj. 节省的，经济的（economical design/use of resources）；注意与 economic（经济上的）区分"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 6,
+   "en": "rigid",
+   "zh_video": "刚硬",
+   "headword": "rigid",
+   "pos": "adj.",
+   "table_definition": "本文：刚硬；adj. 刚硬的，不易弯曲的（a rigid structure）；（规则）严格的，死板的（rigid rules）；rigidity n."
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 7,
+   "en": "faint",
+   "zh_video": "轻微的",
+   "headword": "faint",
+   "pos": "adj.",
+   "table_definition": "本文：轻微的；adj. 微弱的，模糊的（a faint breeze/sound；a faint hope）；头晕的；v. 晕倒"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 7,
+   "en": "breezes",
+   "zh_video": "微风",
+   "headword": "breeze",
+   "pos": "n.",
+   "table_definition": "本文：微风；n. (breeze) 微风，和风（a gentle breeze）；（口）轻而易举的事（It's a breeze.）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 7,
+   "en": "heave",
+   "zh_video": "起伏",
+   "headword": "heave",
+   "pos": "v.",
+   "table_definition": "本文：起伏；v. 起伏，隆起（the deck heaved 桥面上下起伏）；（用力）举起，拖动；heave a sigh 长叹一声"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 7,
+   "en": "nickname",
+   "zh_video": "绰号",
+   "headword": "nickname",
+   "pos": "n.",
+   "table_definition": "本文：绰号；n. 绰号，昵称（earn/give sb a nickname）；v. 给……起绰号"
+  },
+  {
+   "id": 25,
+   "para": 3,
+   "sentence": 8,
+   "en": "textbooks",
+   "zh_video": "教科书",
+   "headword": "textbook",
+   "pos": "n.",
+   "table_definition": "本文：教科书；n. (textbook) 教科书，课本；adj. 典型的，标准的（a textbook example 范例）"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 8,
+   "en": "invoked",
+   "zh_video": "援引",
+   "headword": "invoke",
+   "pos": "v.",
+   "table_definition": "本文：援引；v. (invoke) 援引，引用（理论、法律）（invoke a principle/law）；行使（权利）；唤起"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 8,
+   "en": "resonance",
+   "zh_video": "共振",
+   "headword": "resonance",
+   "pos": "n.",
+   "table_definition": "本文：共振；n. 共振，共鸣；（喻）引起共鸣的力量（have resonance for sb）；resonate v.；resonant adj."
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "periodic",
+   "zh_video": "周期性的",
+   "headword": "periodic",
+   "pos": "adj.",
+   "table_definition": "本文：周期性的；adj. 周期性的，定期的（periodic checks/payments）；periodical n. 期刊"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "frequency",
+   "zh_video": "频率",
+   "headword": "frequency",
+   "pos": "n.",
+   "table_definition": "本文：频率；n. 频率（natural frequency 固有频率）；频繁，发生次数（with increasing frequency 越来越频繁）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "amplify",
+   "zh_video": "放大",
+   "headword": "amplify",
+   "pos": "v.",
+   "table_definition": "本文：放大；v. 放大，增强（amplify sound/motion）；详述（amplify a statement）；amplifier n. 扩音器"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 8,
+   "en": "well-timed",
+   "zh_video": "时机恰到好处的",
+   "headword": "well-timed",
+   "pos": "adj.",
+   "table_definition": "本文：时机恰到好处的；adj. 时机恰当的，适时的（a well-timed remark/push）；timing n. 时机"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 8,
+   "en": "shoves",
+   "zh_video": "猛推",
+   "headword": "shove",
+   "pos": "n.",
+   "table_definition": "本文：猛推；n. (shove) 猛推，用力推（give sb a shove）；v. 猛推，乱塞"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 8,
+   "en": "propel",
+   "zh_video": "推动",
+   "headword": "propel",
+   "pos": "v.",
+   "table_definition": "本文：推动；v. 推动，推进（propel sb/sth forward；propel sb to fame 使某人成名）；propeller n. 螺旋桨"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 9,
+   "en": "analogy",
+   "zh_video": "类比",
+   "headword": "analogy",
+   "pos": "n.",
+   "table_definition": "本文：类比；n. 类比，比拟（draw an analogy between A and B；by analogy）；analogous adj. 类似的"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 9,
+   "en": "intuitive",
+   "zh_video": "直观",
+   "headword": "intuitive",
+   "pos": "adj.",
+   "table_definition": "本文：直观；adj. 直观的，凭直觉的（an intuitive explanation/interface）；intuition n. 直觉"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 9,
+   "en": "deceptive",
+   "zh_video": "具有迷惑性",
+   "headword": "deceptive",
+   "pos": "adj.",
+   "table_definition": "本文：具有迷惑性；adj. 迷惑人的，具有欺骗性的，造成假象的（Appearances can be deceptive. 人不可貌相）；deceive v."
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 10,
+   "en": "pulse",
+   "zh_video": "有节奏地跳动",
+   "headword": "pulse",
+   "pos": "v.",
+   "table_definition": "本文：有节奏地跳动；v. 有节奏地涌动，搏动（pulse in time with 合着节拍起伏）；n. 脉搏（take sb's pulse）；节奏"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 10,
+   "en": "steadily",
+   "zh_video": "平稳",
+   "headword": "steadily",
+   "pos": "adv.",
+   "table_definition": "本文：平稳；adv. 平稳地，持续地（blow/grow steadily）；steady adj. 稳定的"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 11,
+   "en": "mechanism",
+   "zh_video": "机理",
+   "headword": "mechanism",
+   "pos": "n.",
+   "table_definition": "本文：机理；n. 机理，机制（the mechanism of/behind sth）；机械装置（a defence mechanism 防御机制）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 11,
+   "en": "subtler",
+   "zh_video": "更为微妙",
+   "headword": "subtle",
+   "pos": "adj.",
+   "table_definition": "本文：更为微妙；adj. (subtle 比较级) 更微妙的，不易察觉的（subtle differences）；巧妙的；subtlety n."
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 12,
+   "en": "altered",
+   "zh_video": "改变了",
+   "headword": "alter",
+   "pos": "v.",
+   "table_definition": "本文：改变了；v. (alter) 改变，更改（alter the airflow/plans）；修改（衣服）；alteration n."
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 12,
+   "en": "reinforced",
+   "zh_video": "加强了",
+   "headword": "reinforce",
+   "pos": "v.",
+   "table_definition": "本文：加强了；v. (reinforce) 加强，强化（reinforce a view/trend）；加固（reinforced concrete 钢筋混凝土）；增援"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 12,
+   "en": "feedback",
+   "zh_video": "反馈",
+   "headword": "feedback",
+   "pos": "n.",
+   "table_definition": "本文：反馈；n. 反馈（a feedback loop 反馈回路；positive feedback 正反馈）；反馈意见（give feedback on sth）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 12,
+   "en": "tapping",
+   "zh_video": "汲取",
+   "headword": "tap",
+   "pos": "v.",
+   "table_definition": "本文：汲取；v. (tap) 汲取，利用（资源、能量）（tap (into) energy/talent/a market）；轻敲；窃听（电话）；n. 水龙头"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 13,
+   "en": "panel",
+   "zh_video": "调查委员会",
+   "headword": "panel",
+   "pos": "n.",
+   "table_definition": "本文：调查委员会；n. 专家小组，委员会（an expert/advisory panel）；（嵌）板（solar panel）；控制面板"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 13,
+   "en": "flexibility",
+   "zh_video": "柔性",
+   "headword": "flexibility",
+   "pos": "n.",
+   "table_definition": "本文：柔性；n. 柔性，可弯曲性；灵活性，弹性（flexibility in working hours）；flexible adj."
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 14,
+   "en": "analysis",
+   "zh_video": "分析",
+   "headword": "analysis",
+   "pos": "n.",
+   "table_definition": "本文：分析；n. 分析，分析结果（an analysis of sth）；复数 analyses；analyse v. 分析"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 14,
+   "en": "asserted",
+   "zh_video": "断言",
+   "headword": "assert",
+   "pos": "v.",
+   "table_definition": "本文：断言；v. (assert) 断言，坚称（assert that…）；维护，坚持（权利）（assert oneself 坚持己见）；assertion n."
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 14,
+   "en": "erred",
+   "zh_video": "出错了",
+   "headword": "err",
+   "pos": "v.",
+   "table_definition": "本文：出错了；v. (err) 犯错，出错（err on the side of caution 宁可过于谨慎）；To err is human. 人非圣贤"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "wind-tunnel",
+   "zh_video": "风洞",
+   "headword": "wind-tunnel",
+   "pos": "n.",
+   "table_definition": "本文：风洞；n./adj. (wind tunnel) 风洞（的）（wind-tunnel tests 风洞试验）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 15,
+   "en": "scaled-down",
+   "zh_video": "按比例缩小的",
+   "headword": "scaled-down",
+   "pos": "adj.",
+   "table_definition": "本文：按比例缩小的；adj. 按比例缩小的（a scaled-down model/version）；scale down v. 缩减规模"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 15,
+   "en": "replicas",
+   "zh_video": "复制品",
+   "headword": "replica",
+   "pos": "n.",
+   "table_definition": "本文：复制品；n. (replica) 复制品，模型（an exact replica of sth）；replicate v. 复制，重复（实验）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 15,
+   "en": "gradually",
+   "zh_video": "渐渐",
+   "headword": "gradually",
+   "pos": "adv.",
+   "table_definition": "本文：渐渐；adv. 逐渐地，逐步地（gradually become/improve）；gradual adj."
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 15,
+   "en": "customary",
+   "zh_video": "惯例",
+   "headword": "customary",
+   "pos": "adj.",
+   "table_definition": "本文：惯例；adj. 惯常的，习惯的（it is customary to do sth；become customary 成为惯例）；custom n. 习俗"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 16,
+   "en": "sturdier",
+   "zh_video": "更坚固的",
+   "headword": "sturdy",
+   "pos": "adj.",
+   "table_definition": "本文：更坚固的；adj. (sturdy 比较级) 更坚固的，更结实的（a sturdy bridge/table）；（人）健壮的；坚定的"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 16,
+   "en": "replacement",
+   "zh_video": "替代品",
+   "headword": "replacement",
+   "pos": "n.",
+   "table_definition": "本文：替代品；n. 替代物，替换者（a replacement for sth）；替换，更换（hip replacement 髋关节置换）；replace v."
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 17,
+   "en": "instruct",
+   "zh_video": "指导着",
+   "headword": "instruct",
+   "pos": "v.",
+   "table_definition": "本文：指导着；v. 教导，给以教益；指示，命令（instruct sb to do sth）；instruction n.；instructive adj. 有教育意义的"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 17,
+   "en": "accurately",
+   "zh_video": "精准",
+   "headword": "accurately",
+   "pos": "adv.",
+   "table_definition": "本文：精准；adv. 准确地，精确地（read/measure accurately）；accurate adj.；accuracy n."
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 17,
+   "en": "kept time with",
+   "zh_video": "与……合拍",
+   "headword": "kept time with",
+   "pos": "v.",
+   "table_definition": "本文：与……合拍；v. (keep time with) 与……合拍，跟上……的节奏；kept 是 keep 的过去式"
+  },
+  {
+   "id": 60,
+   "para": 5,
+   "sentence": 17,
+   "en": "destructive",
+   "zh_video": "具有了破坏力",
+   "headword": "destructive",
+   "pos": "adj.",
+   "table_definition": "本文：具有了破坏力；adj. 破坏性的，毁灭性的（a destructive storm/force）；destruction n.；destroy v."
+  }
+ ]
+}

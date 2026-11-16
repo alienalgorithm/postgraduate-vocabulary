@@ -1,0 +1,2008 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Pepsi",
+   "predicate": "had set up",
+   "object_or_complement": "booths",
+   "explain": "主干是 Pepsi had set up booths，主谓宾结构，set up 是及物短语动词，意为“设置、搭建”。谓语 had set up 是过去完成时，主动语态，交代在后文所述可口可乐改配方之前就已发生的事，视频用“曾”译出。"
+  },
+  "components": [
+   {
+    "text": "Pepsi",
+    "role": "主语",
+    "zh": "百事可乐"
+   },
+   {
+    "text": "had set up",
+    "role": "谓语（过去完成时，短语动词 set up）",
+    "zh": "曾……设置了"
+   },
+   {
+    "text": "booths",
+    "role": "宾语",
+    "zh": "摊位"
+   },
+   {
+    "text": "in shopping centres",
+    "role": "地点状语（介词短语）",
+    "zh": "在……购物中心"
+   },
+   {
+    "text": "across the US,",
+    "role": "后置定语（介词短语），修饰 shopping centres，说明分布范围",
+    "zh": "全美各地的"
+   },
+   {
+    "text": "inviting",
+    "role": "现在分词短语作状语的核心词，补充说明设摊位的做法，逻辑主语是 Pepsi",
+    "zh": "邀请"
+   },
+   {
+    "text": "shoppers",
+    "role": "inviting 的宾语",
+    "zh": "购物者"
+   },
+   {
+    "text": "to sip",
+    "role": "宾语补足语（不定式），与后面的 state 并列",
+    "zh": "啜饮"
+   },
+   {
+    "text": "two unmarked beverages",
+    "role": "sip 的宾语（unmarked 作前置定语）",
+    "zh": "两种未标品牌的饮料"
+   },
+   {
+    "text": "and state",
+    "role": "并列连词 and + 第二个不定式（承前省略 to），同作宾语补足语",
+    "zh": "并说出"
+   },
+   {
+    "text": "a preference.",
+    "role": "state 的宾语",
+    "zh": "自己的偏好"
+   }
+  ],
+  "structure": "①主句是 Pepsi had set up booths in shopping centres across the US：主语 Pepsi，谓语 had set up，宾语 booths。in shopping centres 是地点状语，说明摊位设在哪里；across the US 是介词短语作后置定语，修饰 shopping centres，说明这些购物中心遍布全美。\n②逗号后的 inviting shoppers to sip… and state… 是现在分词短语作状语，补充说明设摊位的做法（视频说明）。它的逻辑主语是主句主语 Pepsi，百事主动“邀请”，所以用现在分词。\n③分词短语内部是 invite sb to do sth 结构：shoppers 是 inviting 的宾语，to sip two unmarked beverages 和 (to) state a preference 是两个由 and 并列的不定式，共同作宾语补足语，第二个不定式承前省略了 to。sip 的宾语是 two unmarked beverages，state 的宾语是 a preference。\n④饮料“未标品牌”，购物者只凭口味“说出偏好”，交代的正是盲测的做法；第5句的 blind taste tests 和第21句的 The tests had hidden the brand from every taster 都与此呼应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作状语（补充说明主句动作）",
+    "explain": "现在分词短语可以放在主句之后、用逗号隔开，补充说明主句动作的具体做法、伴随情况或结果。分词的逻辑主语必须是主句主语，二者是主动关系时用现在分词。本句 inviting… 的逻辑主语是 Pepsi，说明百事设摊位的具体做法，意思接近 and invited shoppers to…。考研长难句中，逗号后的 -ing 短语不是谓语，读时先找主句谓语 had set up，再把分词短语当作补充说明；写作中常用这种结构把两个相关动作合成一句，避免句子零碎。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The charity set up stalls outside railway stations, asking commuters to donate their spare change.",
+      "zh": "这家慈善机构在火车站外设立了摊位，请通勤者捐出零钱。"
+     },
+     {
+      "en": "The ministry published the new rules online, giving companies six months to comply.",
+      "zh": "该部门在网上公布了新规，给各公司六个月的时间来遵守。"
+     }
+    ]
+   },
+   {
+    "title": "invite sb to do sth 与并列不定式省略 to",
+    "explain": "invite、ask、allow、encourage、persuade、urge 等动词常接“宾语 + 带 to 的不定式”，不定式作宾语补足语，说明宾语要做的事。两个或多个不定式由 and、or 并列时，从第二个起的 to 通常可以省略，本句即 invite shoppers to sip… and (to) state…。阅读时看到 and 后面直接跟动词原形，要往前找它与哪个不定式并列，不要误当作主句的谓语。注意 let、make 等使役动词后的宾补不带 to，不能套用 invite 的用法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum invites visitors to touch the exhibits and share their impressions online.",
+      "zh": "博物馆邀请参观者触摸展品，并在网上分享自己的感受。"
+     },
+     {
+      "en": "Researchers asked participants to read a short passage and summarise it in one sentence.",
+      "zh": "研究人员请参与者阅读一段短文，并用一句话加以概括。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时交代背景",
+    "explain": "过去完成时表示在过去某一时间或事件之前已经发生的动作。文章叙述1985年的新可乐事件，第一段先用 had set up 交代此前百事已经做过的事，作为背景；视频用“曾”体现这层“在此之前”的意思。第2、3句接着用一般过去时，是因为背景时间已由本句确立，后面不必每句都用过去完成时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town had banned cars from its centre long before other cities considered the idea.",
+      "zh": "早在其他城市考虑这一想法之前，这个小镇就已禁止汽车进入市中心。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "set up",
+    "explain": "短语动词，本句意为“设置、搭建”（摊位、设备等），视频译为“设置了”。set up 还常表示“建立、创办”，如 set up a company（创办公司）、set up a committee（成立委员会）。"
+   },
+   {
+    "term": "booth",
+    "explain": "名词，（集市、展会等处的）摊位、货摊，也指小隔间，如 a phone booth（电话亭）、a voting booth（投票间）。本句视频译为“摊位”；第3句的 stall 是它的同义替换，视频译为“摊点”。"
+   },
+   {
+    "term": "shopping centres",
+    "explain": "购物中心。centre 是英式拼写，美式拼写为 center；本文用的是英式拼写，第8句的 flavour、第11句的 organised 也是英式拼写（美式为 flavor、organized）。"
+   },
+   {
+    "term": "unmarked",
+    "explain": "形容词，由否定前缀 un- 加 marked（有标记的）构成，意为“没有标记的”，如 an unmarked police car（没有警察标志的警车）。本句结合盲测语境，视频译为“未标品牌的”。"
+   },
+   {
+    "term": "sip",
+    "explain": "动词，小口地喝、啜饮（视频说明：小口喝；抿），与 gulp（大口吞咽）相对；也可作名词，如 take a sip of water（喝一小口水）。"
+   },
+   {
+    "term": "state a preference",
+    "explain": "state 作动词，意为“（正式地）说明、陈述”，如 state one's opinion（陈述观点）。preference 意为“偏好”，常用 a preference for sth（对某物的偏爱）。视频把 state a preference 译为“说出自己的偏好”。"
+   },
+   {
+    "term": "Pepsi Challenge（背景）",
+    "explain": "百事可乐这种在公共场所请人试饮、比较两种未标品牌饮料的营销活动，以“百事挑战”（Pepsi Challenge）闻名，始于1975年。"
+   }
+  ],
+  "translation_tip": "视频译文“百事可乐曾在全美各地的购物中心设置了摊位，邀请购物者啜饮两种未标品牌的饮料，并说出自己的偏好。”的处理：①谓语中的 had 译为“曾”，体现过去完成时“在此之前”的意味。②地点状语 in shopping centres across the US 提到谓语前，后置定语 across the US 前移译为“全美各地的”，“各地”体现 across 的遍布范围。③现在分词短语不另起一句，顺着主句译成第二个动作“邀请……”，与英文语序一致。④两个并列不定式按原顺序译出，and 译为“并”；a preference 增译“自己的”，点明是品尝者本人的偏好。⑤unmarked 结合盲测语境具体化为“未标品牌的”，数词 two 加量词译为“两种”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Figures（分句一）；tasters（分句二）",
+   "predicate": "varied（分句一）；picked（分句二）",
+   "object_or_complement": "Pepsi（picked 的宾语）",
+   "explain": "本句是 but 连接的并列句。分句一 Figures varied 是主谓结构，vary 为不及物动词；分句二 tasters picked Pepsi 是主谓宾结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Figures",
+    "role": "分句一主语",
+    "zh": "数据"
+   },
+   {
+    "text": "varied",
+    "role": "分句一谓语（不及物动词）",
+    "zh": "会……而出现差异"
+   },
+   {
+    "text": "by region,",
+    "role": "状语（介词短语，by 表示依照……而变化）",
+    "zh": "因为地区不同"
+   },
+   {
+    "text": "but",
+    "role": "并列连词，表示转折",
+    "zh": "虽然……但"
+   },
+   {
+    "text": "tasters",
+    "role": "分句二主语",
+    "zh": "品尝者"
+   },
+   {
+    "text": "generally",
+    "role": "状语（副词，表示总体情况）",
+    "zh": "总体上"
+   },
+   {
+    "text": "picked",
+    "role": "分句二谓语",
+    "zh": "选"
+   },
+   {
+    "text": "Pepsi",
+    "role": "宾语",
+    "zh": "百事"
+   },
+   {
+    "text": "more often.",
+    "role": "频度状语（副词比较级，比较对象承上省略）",
+    "zh": "更常"
+   }
+  ],
+  "structure": "①but 连接两个并列分句：前一分句承认数据有地区差异，后一分句转折，指出总体结果，语义重点在 but 之后。视频在前一分句加“虽然”，与“但”呼应，把并列句处理成汉语的让步转折复句。\n②分句一 Figures varied by region：Figures 指试饮的统计数据；vary 是不及物动词，意为“变化、有差异”；by region 说明差异的依据，即按地区不同而不同。\n③分句二 tasters generally picked Pepsi more often：tasters 指参加试饮的购物者；generally 表示总体情况，并不排除个别地区例外；more often 是 often 的比较级，比较对象承上省略，即比选另一种饮料更常选百事。\n④本句交代第1句试饮活动的结果：品尝者不知道品牌，却总体上更常选百事。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "but 连接的并列句与汉语“虽然……但”",
+    "explain": "but 是并列连词，连接两个语法地位相同的分句，表示转折，语义重点通常落在 but 之后。汉语习惯用“虽然……但（是）”成对表达让步转折，翻译时可在前一分句增补“虽然”。英语则不同：although、though 与 but 不能在同一句中连用，写作中 Although…, but… 是常见错误，二者只能保留一个。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Prices differ from shop to shop, but the quality is much the same.",
+      "zh": "虽然各家店的价格不同，但质量大致相同。"
+     },
+     {
+      "en": "Although the plan was expensive, it proved popular with voters.",
+      "zh": "虽然这项计划花费很大，但它很受选民欢迎。"
+     }
+    ]
+   },
+   {
+    "title": "比较级省略比较对象",
+    "explain": "比较级后面的 than 部分在上下文清楚时常常省略。本句 picked Pepsi more often 没有写出 than，比较对象由第1句两种饮料的对比可知，即比另一种饮料被选中的次数更多。考研阅读中遇到没有 than 的比较级，要从上下文补出比较对象，判断是谁和谁比，这常是细节题的考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Both routes lead to the airport, but drivers use the coastal road more often.",
+      "zh": "两条路线都通往机场，但司机们更常走沿海公路。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "figures",
+    "explain": "名词，本句指数字、统计数据，常用复数，如 sales figures（销售数据）、official figures（官方数据）。figure 的常见义还有“人物”“身材”“图表”，阅读中要按语境判断。视频译为“数据”。"
+   },
+   {
+    "term": "vary by",
+    "explain": "vary 意为“（因……而）不同、变化”，vary by + 名词 表示按某一因素而不同，如 Prices vary by season（价格随季节而变化）。相关表达有 vary from A to B（从A到B各不相同）、vary with（随……而变化）。视频把 varied by region 译为“会因为地区不同而出现差异”。"
+   },
+   {
+    "term": "taster",
+    "explain": "名词，品尝者、试吃（试饮）的人，由 taste 加 -er 构成；也可指专业的品酒师、品茶师，如 a wine taster。视频译为“品尝者”。"
+   },
+   {
+    "term": "pick",
+    "explain": "动词，挑选、选择，相当于 choose，较口语化，如 pick a winner（选出获胜者）。视频译为“选”。"
+   },
+   {
+    "term": "Pepsi",
+    "explain": "百事可乐（Pepsi-Cola）的简称，本句视频译为“百事”，第1句译为“百事可乐”。"
+   }
+  ],
+  "translation_tip": "视频译文“虽然数据会因为地区不同而出现差异，但品尝者总体上更常选百事。”的处理：①英文只用 but 表示转折，译文在前一分句增补“虽然”，与“但”配成汉语习惯的让步转折复句。②varied by region 把 by region 译成原因“因为地区不同而”，放在谓语前；增补“会”，表示这种差异是常有的情况。③generally 译为“总体上”，放在谓语前作状语。④more often 译为“更常”，比较对象承上省略，译文也不补出。⑤Pepsi 采用简称“百事”，与第1句“百事可乐”指同一品牌。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Each stall",
+   "predicate": "doubled as",
+   "object_or_complement": "publicity（as 的宾语）",
+   "explain": "主干是 Each stall doubled as publicity。double as 是不及物动词 double 加介词 as 构成的短语动词，意为“兼作、同时充当”，publicity 作 as 的宾语，说明主语兼有的另一种作用。谓语为一般过去时，主动语态；each 修饰单数可数名词，作主语时谓语用单数。"
+  },
+  "components": [
+   {
+    "text": "Each stall,",
+    "role": "主语",
+    "zh": "每个摊点"
+   },
+   {
+    "text": "letting",
+    "role": "插入语（现在分词短语）的核心词，逻辑主语是 Each stall",
+    "zh": "让"
+   },
+   {
+    "text": "consumers",
+    "role": "letting 的宾语",
+    "zh": "消费者"
+   },
+   {
+    "text": "judge by palate alone,",
+    "role": "宾语补足语（不带 to 的不定式短语），by palate alone 说明判断的依据",
+    "zh": "仅凭味觉作出判断"
+   },
+   {
+    "text": "doubled as",
+    "role": "谓语（短语动词）",
+    "zh": "同时也成了"
+   },
+   {
+    "text": "publicity.",
+    "role": "as 的宾语",
+    "zh": "一种宣传"
+   }
+  ],
+  "structure": "①主干是 Each stall doubled as publicity，主语和谓语被插入语隔开，读的时候要越过两个逗号，把 Each stall 和 doubled as 连起来。\n②letting consumers judge by palate alone 是现在分词短语作插入语，说明摊点的做法（视频说明）。逻辑主语是 Each stall，摊点“让”消费者判断，是主动关系，所以用现在分词。\n③分词短语内部是 let sb do 结构：consumers 是 letting 的宾语，judge 是不带 to 的不定式作宾语补足语；by palate 说明判断的依据，alone 放在 by palate 之后，意为“仅仅、单凭”，强调不看品牌，只靠味觉。\n④doubled as publicity 是本句的落脚点：摊点本来用于试饮，同时也成了宣传，因为上句交代了试饮结果总体上对百事有利。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "分词短语作插入语，分隔主语和谓语",
+    "explain": "分词短语可以插在主语和谓语之间，前后用逗号隔开，补充说明主语的情况或做法。本句 letting consumers judge by palate alone 插在 Each stall 和 doubled as 之间，逻辑主语就是前面的 Each stall。考研长难句常用这种结构把主谓隔开，阅读时先跳过两个逗号之间的内容，找出真正的谓语，再回头看插入部分修饰谁；还要注意插入语里的 judge 不是谓语，而是 let 后面的宾补。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy, allowing staff to work from home two days a week, has proved popular.",
+      "zh": "这项新政策允许员工每周在家工作两天，结果很受欢迎。"
+     },
+     {
+      "en": "The bridge, linking the island to the mainland, opened to traffic in 2019.",
+      "zh": "这座桥连接岛屿和大陆，于2019年通车。"
+     }
+    ]
+   },
+   {
+    "title": "let 后接不带 to 的不定式作宾补",
+    "explain": "let、make、have 等使役动词后接“宾语 + 不带 to 的不定式”，表示让某人做某事，如 let sb do、make sb do。本句 letting consumers judge 中，judge 是不带 to 的不定式作宾语补足语。易错点：make 用于被动语态时要补出 to，如 be made to do；let 一般不用被动，表示“被允许”时改用 be allowed to do。可与第1句 invite shoppers to sip 对比：invite 后的不定式要带 to。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new software lets users edit the same document at the same time.",
+      "zh": "这款新软件让用户可以同时编辑同一份文档。"
+     },
+     {
+      "en": "The students were made to rewrite the essay.",
+      "zh": "学生们被迫重写了这篇文章。"
+     }
+    ]
+   },
+   {
+    "title": "alone 后置表示“仅仅、单凭”",
+    "explain": "alone 放在名词、代词或介词短语之后，意为“仅仅、单单”，相当于 only，但位置不同：only 放在被修饰成分之前，alone 放在其后。本句 by palate alone 等于 only by palate，强调消费者只靠味觉判断。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Talent alone is not enough to succeed in business.",
+      "zh": "仅有天赋不足以在商界取得成功。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stall",
+    "explain": "名词，摊位、货摊，如 a market stall（市场摊位）；与第1句的 booth 是同义替换，视频译为“摊点”。stall 作动词时意为“拖延”或“（发动机）熄火”，如 stall for time（拖延时间），属于阅读中常见的熟词僻义。"
+   },
+   {
+    "term": "palate",
+    "explain": "名词，本句指味觉、品尝能力，视频译为“味觉”；本义是“上腭”。palate 与 palette（调色板）、pallet（货盘）读音相同，拼写不同，要注意区分。"
+   },
+   {
+    "term": "judge by",
+    "explain": "judge by/from sth 意为“根据……作出判断”，如 judging by his accent（从他的口音判断）。视频把 judge by palate alone 译为“仅凭味觉作出判断”。"
+   },
+   {
+    "term": "double as",
+    "explain": "短语动词，兼作、同时充当（视频说明），如 The sofa doubles as a bed（这张沙发也可以当床用）。主语原有一种功能，又同时具有 as 后面的身份。"
+   },
+   {
+    "term": "publicity",
+    "explain": "名词，不可数，宣传、广告，也指公众的关注，如 a publicity campaign（宣传活动）、attract publicity（引起公众关注）。注意与 public（公众，公共的）、publication（出版物）区分。视频译为“宣传”。"
+   }
+  ],
+  "translation_tip": "视频译文“每个摊点让消费者仅凭味觉作出判断，同时也成了一种宣传。”的处理：①插入语 letting… 不移到句末，按英文原顺序紧接主语译出，“每个摊点让消费者……”与后面的“同时也成了”构成连续的两个说明。②alone 译为“仅”，提到“凭味觉”之前，符合汉语副词前置的习惯。③judge 增补“作出”，译为“作出判断”，语义更完整。④doubled as 中 double 的“兼”意译为“同时也”，as 译为“成了”。⑤publicity 是不可数的抽象名词，增加量词译为“一种宣传”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Coca-Cola's testing",
+   "predicate": "was",
+   "object_or_complement": "thorough and extensive",
+   "explain": "主干是 Coca-Cola's testing was thorough and extensive，主系表结构，两个形容词由 and 并列作表语。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Coca-Cola's",
+    "role": "定语（名词所有格），修饰 testing",
+    "zh": "可口可乐的"
+   },
+   {
+    "text": "testing",
+    "role": "主语（名词，指测试活动）",
+    "zh": "测试"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "thorough",
+    "role": "表语一（形容词）",
+    "zh": "既深入透彻"
+   },
+   {
+    "text": "and extensive.",
+    "role": "并列连词 and + 表语二（形容词）",
+    "zh": "又覆盖面广"
+   }
+  ],
+  "structure": "①本句是主系表结构，两个形容词 thorough 和 extensive 并列作表语，分别从深度和广度评价可口可乐的测试：thorough 说测试做得彻底、深入、细致，extensive 说测试范围广、规模大。\n②主语 Coca-Cola's testing 中，Coca-Cola's 是名词所有格，表示测试由可口可乐公司进行；testing 在这里作名词，指一整套测试活动，不可数。\n③本句是第二段的主题句，从第一段的百事可乐转到可口可乐；下一句 Nearly 200,000 blind taste tests 给出具体数字，说明测试规模之大，正是对 extensive 的印证。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "两个形容词并列作表语",
+    "explain": "系动词后可以用 and 连接两个或多个形容词作表语，从不同角度描述主语。本句 thorough 和 extensive 一个说深度，一个说广度，互为补充。翻译时常用“既……又……”“又……又……”把两个表语串起来，视频即译为“既深入透彻，又覆盖面广”。两个形容词语义相对时用 but 连接，如 small but comfortable。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hotel room was small but spotless.",
+      "zh": "酒店房间虽小，却一尘不染。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格用于机构名称",
+    "explain": "表示所属关系时，指人的名词常用 's，指物的名词常用 of 结构；但国家、城市、公司、机构等名称也常用 's，如 China's economy、the company's profits。本句 Coca-Cola's testing 表示“可口可乐（公司）的测试”，所有格既表示所属，也表示 testing 这一动作的执行者，相当于 the testing that Coca-Cola carried out。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The university's research budget has doubled since 2010.",
+      "zh": "这所大学的科研预算自2010年以来翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "thorough",
+    "explain": "形容词，彻底的、深入细致的（视频说明：彻底的；完全的；深入的；细致的），如 a thorough investigation（彻底的调查）；副词 thoroughly。拼写容易与 through（穿过）、though（虽然）、throughout（遍及）混淆。视频译为“深入透彻”。"
+   },
+   {
+    "term": "extensive",
+    "explain": "形容词，范围广的、大量的（视频说明：可根据语境译为“广泛的、大量的、丰富的、全面的”），如 extensive research（广泛的研究）、extensive damage（大面积的损坏）。本句指测试覆盖的范围广、次数多，视频译为“覆盖面广”。注意与 intensive（密集的、集中的）区分。"
+   },
+   {
+    "term": "Coca-Cola",
+    "explain": "可口可乐，Coke 是它的简称，两者都是可口可乐公司的注册商标；本文第7句的 New Coke、第14句的 Coke's 都用简称。"
+   }
+  ],
+  "translation_tip": "视频译文“可口可乐的测试既深入透彻，又覆盖面广。”的处理：①两个并列表语用“既……又……”串联，系动词 was 不单独译出。②thorough 译为四字结构“深入透彻”，extensive 按语境译为“覆盖面广”（视频说明：可根据语境译为“广泛的、大量的、丰富的、全面的”），两项之间用逗号断开，节奏更清楚。③名词所有格 Coca-Cola's 直接译为“可口可乐的”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Nearly 200,000 blind taste tests",
+   "predicate": "showed",
+   "object_or_complement": "a sweeter formula（宾语）beating the original and Pepsi（宾语补足语）",
+   "explain": "主干是 tests showed a sweeter formula beating…，主谓宾宾补结构：show sth doing，现在分词短语 beating the original and Pepsi 作宾语补足语，说明宾语 a sweeter formula 的表现（视频说明：show sth doing：显示某物在……）。谓语 showed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Nearly 200,000",
+    "role": "主语的前置定语（数词，Nearly 修饰数词）",
+    "zh": "近20万次"
+   },
+   {
+    "text": "blind taste tests",
+    "role": "主语中心语（blind taste 作 tests 的前置定语）",
+    "zh": "盲测"
+   },
+   {
+    "text": "showed",
+    "role": "谓语",
+    "zh": "显示"
+   },
+   {
+    "text": "a sweeter formula",
+    "role": "宾语",
+    "zh": "一种更甜的配方"
+   },
+   {
+    "text": "beating",
+    "role": "宾语补足语（现在分词短语）的核心词",
+    "zh": "胜过"
+   },
+   {
+    "text": "the original",
+    "role": "beating 的宾语之一（指原版可乐）",
+    "zh": "原版可乐"
+   },
+   {
+    "text": "and Pepsi.",
+    "role": "并列连词 and + beating 的宾语之二",
+    "zh": "和百事可乐"
+   }
+  ],
+  "structure": "①主句是 tests showed a sweeter formula beating the original and Pepsi，show 后面接复合宾语：a sweeter formula 是宾语，现在分词短语 beating the original and Pepsi 是宾语补足语，二者是逻辑上的主谓关系，即“更甜的配方胜过了……”。这一结构的意思相当于宾语从句 showed that a sweeter formula beat the original and Pepsi。\n②主语 Nearly 200,000 blind taste tests：Nearly 修饰数词，表示“接近、不到”；blind taste 作 tests 的前置定语，blind 在这里指不让品尝者知道品牌，即“盲”测。\n③sweeter 是 sweet 的比较级，比较的对象就是后面被它胜过的两种饮料：原版可乐和百事可乐。\n④the original 指原版可乐（视频说明），即可口可乐原有配方的可乐，与 a sweeter formula 相对；第11句的 the original 也是这个意思。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "show、find、catch 等动词 + 宾语 + 现在分词",
+    "explain": "show、see、hear、find、catch、leave 等动词可以接“宾语 + 现在分词”，现在分词作宾语补足语，表示宾语正在做的事或所处的状态，宾语与分词是逻辑上的主谓关系。本句 showed a sweeter formula beating the original and Pepsi，即测试显示更甜的配方胜过另两种饮料。阅读时要看出 beating 不是修饰 formula 的定语，而是说明宾语的情况；写作中描述数据时可以用 The figures show prices rising 这类表达。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The latest figures show prices rising for the third month in a row.",
+      "zh": "最新数据显示，物价连续第三个月上涨。"
+     },
+     {
+      "en": "Security cameras caught the thief climbing through a window.",
+      "zh": "监控摄像头拍到小偷正从一扇窗户爬进去。"
+     }
+    ]
+   },
+   {
+    "title": "nearly、almost 修饰数词与大数字换算",
+    "explain": "nearly、almost 放在数词前，表示“接近、差一点达到”，实际数量略少于该数；over、more than 表示“超过”，around、about 表示“大约”，上下都有可能。英语数字每三位加一个逗号，按 thousand、million、billion 计数，汉语以万、亿为单位：200,000 读作 two hundred thousand，换算为“20万”。考研阅读和翻译常考这种换算，如 1.5 million 是“150万”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city now has nearly 1,200,000 residents.",
+      "zh": "这座城市现在有近120万居民。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "blind taste test",
+    "explain": "盲测，指品尝者在不知道品牌的情况下品尝并比较产品，以排除品牌对判断的影响。blind 在这里不是“失明的”，而是“不让当事人知情的”，类似用法如 blind review（盲审）。视频译为“盲测”。"
+   },
+   {
+    "term": "formula",
+    "explain": "名词，本句指（饮料、药品等的）配方，视频译为“配方”；在数学、化学中指公式、分子式。复数形式有 formulas 和 formulae 两种。"
+   },
+   {
+    "term": "the original",
+    "explain": "original 在这里作名词，意为“原物、原版”，与复制品、改动后的版本相对，视频把 the original 译为“原版可乐”。"
+   },
+   {
+    "term": "beat",
+    "explain": "动词，本句意为“胜过、战胜”，过去式 beat，过去分词 beaten，如 beat the competition（战胜竞争对手）。视频译为“胜过”。"
+   }
+  ],
+  "translation_tip": "视频译文“近20万次盲测显示，一种更甜的配方胜过原版可乐和百事可乐。”的处理：①Nearly 200,000 按汉语以万为单位的习惯换算为“近20万”，并增加量词“次”。②showed 后加逗号，把复合宾语 a sweeter formula beating… 译成完整的小句“一种更甜的配方胜过……”，宾语成为小句的主语，现在分词 beating 成为小句的谓语“胜过”。③the original 增补为“原版可乐”，Pepsi 译出全称“百事可乐”，与“原版可乐”并列对称。④不定冠词 a 译为量词“一种”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "the company",
+   "predicate": "announced",
+   "object_or_complement": "it would replace its 99-year-old syrup（宾语从句，省略 that）",
+   "explain": "主干是 the company announced + 宾语从句，主谓宾结构，宾语从句省略了引导词 that。主句谓语 announced 为一般过去时，从句谓语 would replace 是过去将来时，表示从宣布时看将要发生的事；两者都是主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 23 April 1985",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1985年4月23日"
+   },
+   {
+    "text": "the company",
+    "role": "主语（指可口可乐公司）",
+    "zh": "公司"
+   },
+   {
+    "text": "announced",
+    "role": "谓语",
+    "zh": "宣布"
+   },
+   {
+    "text": "it would replace its 99-year-old syrup,",
+    "role": "宾语从句（省略 that），it 指 the company，would replace 为从句谓语",
+    "zh": "将替换它那已有99年历史的糖浆"
+   },
+   {
+    "text": "a year short of its centenary.",
+    "role": "补充说明成分（形容词短语，a year 说明 short of 相差的量），补充说明前面整件事",
+    "zh": "此时距百年只差一年"
+   }
+  ],
+  "structure": "①主句是 the company announced…，句首 On 23 April 1985 是时间状语，短状语后可以不加逗号。\n②announced 后是省略 that 的宾语从句 it would replace its 99-year-old syrup：从句主语 it 指 the company（公司作单数看待，用 it 指代），谓语 would replace，宾语 its 99-year-old syrup。主句用一般过去时，从句用 would 表示“过去将来”，这是宾语从句的时态呼应。\n③99-year-old 是用连字符连成的复合形容词，作 syrup 的前置定语，其中的 year 用单数。syrup 指可乐的糖浆，替换糖浆就是更换配方。\n④句末 a year short of its centenary 补充说明前面整件事（视频说明）：short of 意为“距……还差”，a year 说明差多少；its centenary 与 99-year-old 呼应，已有99年，再过一年就满百年。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that 与过去将来时",
+    "explain": "say、announce、think、believe 等动词后的宾语从句，引导词 that 常可省略，本句 announced (that) it would replace… 即是。主句谓语是过去时，宾语从句一般也用相应的过去时态；表示从过去某时看将要发生的事，用 would + 动词原形，即过去将来时。如果从句内容在说话时仍属于将来，也可以用 will，但叙述历史事件时用 would。阅读时看到动词后直接跟“主语 + 谓语”，要意识到中间省略了 that。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The airline announced it would cut 500 jobs by the end of the year.",
+      "zh": "这家航空公司宣布，将在年底前裁减500个工作岗位。"
+     },
+     {
+      "en": "She told reporters she would not seek a second term.",
+      "zh": "她告诉记者，她不会寻求连任。"
+     }
+    ]
+   },
+   {
+    "title": "连字符复合形容词：数词 + 名词 + 形容词",
+    "explain": "数词、名词、形容词可以用连字符连成复合形容词，放在名词前作定语，其中的名词一律用单数，如 a 99-year-old syrup、a ten-minute walk、a five-star hotel。作表语时不用连字符，名词恢复复数，如 The syrup was 99 years old。写作中 a three-years-old child 是常见错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The 30-year-old engineer leads a team of twelve.",
+      "zh": "这位30岁的工程师带领着一个12人的团队。"
+     }
+    ]
+   },
+   {
+    "title": "句末补充说明成分：数量 + short of",
+    "explain": "short of 意为“不足、距……还差”，前面加上数量短语表示差多少，如 two votes short of a majority（距多数还差两票）。本句 a year short of its centenary 放在句末，用逗号与前文隔开，补充说明前面整件事发生的时间点（视频说明），不修饰前面的某一个词。这类句末补充成分在外刊中很常见，翻译时通常拆成独立小句，并补出“此时”“这时”等词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The factory closed in 1999, a few months short of its fiftieth anniversary.",
+      "zh": "这家工厂于1999年关闭，此时距建厂五十周年只差几个月。"
+     },
+     {
+      "en": "Her final jump was just two centimetres short of the world record.",
+      "zh": "她最后一跳的成绩距世界纪录只差两厘米。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "23 April 1985",
+    "explain": "英式日期写法，按“日、月、年”排列；美式写作 April 23, 1985。具体日期前用介词 on。汉语按“年、月、日”排列，视频译为“1985年4月23日”。"
+   },
+   {
+    "term": "syrup",
+    "explain": "名词，糖浆、糖汁，如 maple syrup（枫糖浆）、cough syrup（止咳糖浆）。本句指可乐的糖浆，视频译为“糖浆”。"
+   },
+   {
+    "term": "centenary",
+    "explain": "名词，一百周年（纪念），英式多用 centenary，美式多用 centennial；相关词有 century（世纪）、bicentenary（二百周年）。视频译为“百年”。"
+   },
+   {
+    "term": "99-year-old（背景）",
+    "explain": "可口可乐诞生于1886年，到1985年是99年，所以文中说糖浆“已有99年历史”，距百年只差一年。"
+   }
+  ],
+  "translation_tip": "视频译文“1985年4月23日，公司宣布，将替换它那已有99年历史的糖浆，此时距百年只差一年。”的处理：①日期按汉语“年、月、日”的顺序译出，句首加逗号。②announced 后加逗号，引出宣布的内容；宾语从句的主语 it 与主句主语同指公司，承前省略不译，would 译为“将”。③its 译为“它那”，带有指点意味；复合形容词 99-year-old 译为“已有99年历史的”，“已有”突出时间之长。④句末补充成分 a year short of its centenary 拆成独立小句，增补“此时”点明是宣布的时间点，short of 译为“只差”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The public",
+   "predicate": "called",
+   "object_or_complement": "the soda（宾语）New Coke（宾语补足语）",
+   "explain": "主干是 The public called the soda New Coke，主谓宾宾补结构：call + 宾语 + 名词，名词 New Coke 作宾语补足语，说明宾语被称作什么。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The public",
+    "role": "主语（集合名词，指公众）",
+    "zh": "公众"
+   },
+   {
+    "text": "called",
+    "role": "谓语",
+    "zh": "把……称为"
+   },
+   {
+    "text": "the soda",
+    "role": "宾语",
+    "zh": "这种汽水"
+   },
+   {
+    "text": "New Coke.",
+    "role": "宾语补足语（名词）",
+    "zh": "新可乐"
+   }
+  ],
+  "structure": "①本句是 call sb/sth + 名词 的结构：the soda 是宾语，New Coke 是宾语补足语，二者指同一事物，即“这种汽水 = 新可乐”。\n②The public 是集合名词，指公众、民众，前面要加定冠词。\n③the soda 用定冠词，回指上句公司宣布推出的新配方饮料；文章用 soda 指代这款饮料，避免重复 formula、syrup，也从“配方”“糖浆”落到消费者实际喝到的汽水。\n④New Coke 中 Coke 是 Coca-Cola 的简称，New Coke 是公众对新配方可乐的叫法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词作宾语补足语",
+    "explain": "call、name、elect、appoint、consider、make 等动词可以接“宾语 + 名词”，名词作宾语补足语，与宾语指同一人或事物，说明宾语的名称、身份或被认为是什么。本句 called the soda New Coke 中，New Coke 是 the soda 的名称。补足语表示独一无二的职位时，前面常不加冠词，如 elect her chairperson。变成被动语态时，宾补变成主语补足语：The soda was called New Coke。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee elected her chairperson last year.",
+      "zh": "委员会去年选她为主席。"
+     },
+     {
+      "en": "Critics called the film a masterpiece.",
+      "zh": "评论家称这部电影为杰作。"
+     }
+    ]
+   },
+   {
+    "title": "集合名词 the public 作主语",
+    "explain": "the public、the staff、the audience、the government 等集合名词作主语时，看作整体则谓语用单数，强调其中的成员时（英式英语中较常见）谓语可用复数。本句谓语 called 是过去式，看不出单复数。指公众时 public 前要加 the，in public 则意为“公开地”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The public has a right to know how its money is spent.",
+      "zh": "公众有权知道自己的钱是怎么花的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "soda",
+    "explain": "名词，本句指碳酸软饮料，美国英语中常用，视频译为“汽水”；英国英语多说 fizzy drink。soda 还可指苏打水（soda water）或小苏打（baking soda）。"
+   },
+   {
+    "term": "New Coke",
+    "explain": "公众对可口可乐1985年新配方的叫法，视频译为“新可乐”。Coke 是 Coca-Cola 的简称；第15句提到原配方以 Coca-Cola Classic 的名称重新上市。"
+   },
+   {
+    "term": "the public",
+    "explain": "公众、民众，the general public 指普通大众；public 作形容词意为“公共的、公开的”，如 public opinion（舆论）。视频译为“公众”。"
+   }
+  ],
+  "translation_tip": "视频译文“公众把这种汽水称为新可乐。”的处理：①call A B 用“把A称为B”的把字句译出，宾语“这种汽水”提到动词前，宾补“新可乐”放在“称为”之后。②定冠词 the 译为“这种”，回指上句公司推出的新配方饮料。③New Coke 按字面译为“新可乐”，简洁上口。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Its sweetness（分句一）；launching the concoction（分句二）",
+   "predicate": "had given（分句一）；was（分句二）",
+   "object_or_complement": "it（间接宾语）、a winning flavour（直接宾语）；a wager（分句二的表语）",
+   "explain": "本句是 but 连接的并列句。分句一是主谓双宾结构 give sb sth，谓语 had given 是过去完成时，主动语态；分句二是主系表结构，主语是动名词短语，系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Its",
+    "role": "定语（物主代词，指新可乐）",
+    "zh": "它的"
+   },
+   {
+    "text": "sweetness",
+    "role": "分句一主语",
+    "zh": "甜味"
+   },
+   {
+    "text": "had given it",
+    "role": "谓语 had given + 间接宾语 it",
+    "zh": "让它拥有了"
+   },
+   {
+    "text": "a winning",
+    "role": "直接宾语的前置定语（winning 为形容词，意为获胜的）",
+    "zh": "能（在盲测中）胜出的"
+   },
+   {
+    "text": "flavour,",
+    "role": "直接宾语",
+    "zh": "口味"
+   },
+   {
+    "text": "but",
+    "role": "并列连词，表示转折",
+    "zh": "但"
+   },
+   {
+    "text": "launching",
+    "role": "分句二主语（动名词短语）的核心词",
+    "zh": "推出"
+   },
+   {
+    "text": "the concoction",
+    "role": "launching 的宾语",
+    "zh": "这款调制（饮）品"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "a wager.",
+    "role": "表语",
+    "zh": "一场赌注"
+   }
+  ],
+  "structure": "①but 连接两个并列分句：前一分句肯定新配方的优势，后一分句转折，指出推出它的风险。\n②分句一 Its sweetness had given it a winning flavour 是 give sb sth 双宾语结构：it（新可乐）是间接宾语，a winning flavour 是直接宾语。had given 用过去完成时，表示这种优势在推出之前的测试阶段就已形成。winning 作前置定语，意为“获胜的”，指在盲测中胜出，视频用括号增补“（在盲测中）”。\n③分句二 launching the concoction was a wager：launching the concoction 是动名词短语作主语（视频说明），launching 带宾语 the concoction；系动词 was 后接名词表语 a wager，用“赌注”比喻推出新可乐的风险。\n④the concoction 指代新可乐，是对 a sweeter formula、the soda 的又一次同义替换；concoction 指由几种东西调配成的饮料或食物，突出新可乐是重新调配出来的。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动名词短语作主语",
+    "explain": "动名词具有名词性，可以带宾语、状语构成动名词短语，在句中作主语，谓语动词用单数。本句 launching the concoction 作主语（视频说明），launching 后接宾语 the concoction。同样的意思也可以改用形式主语 it，把真正的主语换成不定式放到句末，如 It was a wager to launch the concoction。阅读时注意区分句首的 -ing 短语：后面紧跟谓语（如本句的 was）时是动名词作主语；后面有逗号、再接完整主句时，多是现在分词作状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Building a strong brand takes years.",
+      "zh": "打造一个强大的品牌需要多年时间。"
+     },
+     {
+      "en": "Changing a product that people love is always risky.",
+      "zh": "改变人们喜爱的产品总是有风险的。"
+     }
+    ]
+   },
+   {
+    "title": "give sb sth 双宾语结构",
+    "explain": "give、offer、bring、show、send 等动词可以带两个宾语：间接宾语表示给谁，放在前面；直接宾语表示给什么，放在后面；也可以改写为 give sth to sb。本句 had given it a winning flavour 中，it 是间接宾语，a winning flavour 是直接宾语。主语是事物时，give sb sth 常不译为“给”，而是译为“使……拥有、让……获得”，视频即译为“让它拥有了”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The award gave the young director international recognition.",
+      "zh": "这个奖项让这位年轻导演获得了国际认可。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时与一般过去时并用",
+    "explain": "过去完成时表示在过去某一参照时间之前已经发生或形成的情况。本句前一分句用 had given，后一分句用一般过去时 was：甜味带来的口味优势在推出新可乐之前就已在测试中显现，推出则是后来的事。考研阅读中，同一句里过去完成时和一般过去时并用，往往提示两件事的先后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the film was released, the trailer had already attracted millions of views.",
+      "zh": "电影上映时，预告片早已吸引了数百万次观看。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sweetness",
+    "explain": "名词，甜味、甜度，由形容词 sweet 加名词后缀 -ness 构成；类似的有 bitterness（苦味）、freshness（新鲜）。视频译为“甜味”。"
+   },
+   {
+    "term": "winning",
+    "explain": "形容词，获胜的、制胜的，如 the winning team（获胜队）；也可意为“迷人的、讨人喜欢的”，如 a winning smile（迷人的微笑）。本句视频译为“能（在盲测中）胜出的”。"
+   },
+   {
+    "term": "flavour",
+    "explain": "名词，味道、风味，英式拼写，美式为 flavor；与 taste 相比，flavour 更强调食物或饮料特有的风味。视频译为“口味”。"
+   },
+   {
+    "term": "launch",
+    "explain": "动词，本句指推出（新产品），视频译为“推出”；还可表示发射（火箭、卫星）、发起（运动、调查），如 launch a campaign（发起运动）。第15句的 relaunch 意为“重新推出、重新上市”。"
+   },
+   {
+    "term": "concoction",
+    "explain": "名词，调制品、混合物，多指由几种东西调配成的饮料或食物；动词 concoct 意为“调制”，也可指“编造（故事、借口）”。视频译为“调制（饮）品”。"
+   },
+   {
+    "term": "wager",
+    "explain": "名词，赌注、打赌，比 bet 正式；也可作动词，意为“下赌注、敢断定”，如 I'd wager that…（我敢说……）。本句视频译为“赌注”，比喻推出新可乐有风险。"
+   }
+  ],
+  "translation_tip": "视频译文“它的甜味让它拥有了能（在盲测中）胜出的口味，但推出这款调制（饮）品是一场赌注。”的处理：①主语是事物 sweetness，give it a winning flavour 不译成“给它”，而是转译为“让它拥有了”。②winning 增补出胜出的场合“（在盲测中）”，括号表示原文没有、为帮助理解而补出的内容，“能”字表示具备胜出的实力。③动名词短语主语 launching the concoction 译为动宾短语“推出这款调制（饮）品”，the 译为“这款”，括号中的“饮”同样是增补，点明调制品是饮料。④a wager 加量词译为“一场赌注”，保留比喻。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "The backlash",
+   "predicate": "was",
+   "object_or_complement": "a grassroots outcry",
+   "explain": "主干是 The backlash was a grassroots outcry，主系表结构，名词短语作表语，说明这场反弹的性质。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The backlash",
+    "role": "主语",
+    "zh": "这场反噬"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "a grassroots",
+    "role": "表语的前置定语（grassroots 作定语，修饰 outcry）",
+    "zh": "来自基层民众的"
+   },
+   {
+    "text": "outcry.",
+    "role": "表语中心词",
+    "zh": "强烈抗议"
+   }
+  ],
+  "structure": "①本句是主系表结构，表语 a grassroots outcry 给主语 The backlash 定性：这场反弹来自普通民众，是他们的强烈抗议。\n②backlash 指针对某种行为、观点或变化而出现的强烈反对或负面反应（视频说明），这里指公众对可口可乐换配方的反应；定冠词 The 表示特指，指推出新可乐所引发的反应。\n③grassroots 作前置定语，修饰 outcry，意为“基层民众的、草根的”；它源自名词 the grass roots（基层民众），放在名词前的这种用法，Cambridge 等词典标为形容词。\n④本句是第三段的主题句，概括反弹的性质；后面几句依次列出具体表现：热线投诉激增、抗议团体成立、忠实饮用者囤货、有人提起诉讼。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，作定语的名词一般用单数，如 a shoe shop、a taxi driver；但有些以 -s 结尾的名词本身就以这种形式作定语，如 sports car、savings account。grassroots 原是名词 the grass roots（基层民众），常直接放在名词前作定语，如 grassroots movement，词典把这种用法标为形容词；本句 grassroots 修饰 outcry，表示抗议来自基层民众。翻译时常需要增补动词或介词把关系说清楚，视频把 a grassroots outcry 译为“来自基层民众的强烈抗议”，增补了“来自”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The campaign began as a grassroots movement and grew into a national organisation.",
+      "zh": "这场运动起初是一场基层民众运动，后来发展成一个全国性组织。"
+     }
+    ]
+   },
+   {
+    "title": "定冠词表示特指（回指上文）",
+    "explain": "定冠词 the 可以表示说话双方都知道的特定事物，包括上文已经提到或可以推知的事物。本句 The backlash 第一次出现就用 the，是因为读者可以从上一段推知它指推出新可乐引发的反弹，视频译为“这场反噬”。阅读中，段首以“the + 抽象名词”开头的句子常概括上文事件的后果，是理解段落主旨的关键。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A storm hit the coast last night. The damage is still being assessed.",
+      "zh": "昨晚一场风暴袭击了海岸，损失仍在评估中。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "backlash",
+    "explain": "名词，强烈反对、负面反应（视频说明：针对某种行为、观点或变化而出现的强烈反对或负面反应），常用 a backlash against sth，如 a public backlash against the new tax（公众对新税的强烈反对）。视频译为“反噬”。"
+   },
+   {
+    "term": "grassroots",
+    "explain": "原为名词（the grassroots），指（社会或组织中的）基层、普通民众，与领导层相对；常放在名词前作定语，词典标为形容词，如 grassroots support（基层民众的支持）、a grassroots campaign（草根运动）。视频译为“来自基层民众的”。"
+   },
+   {
+    "term": "outcry",
+    "explain": "名词，（公众的）强烈抗议、强烈反对，常用 a public outcry over/about sth，如 The decision caused a public outcry（这个决定引起了公众的强烈抗议）。视频译为“强烈抗议”。"
+   }
+  ],
+  "translation_tip": "视频译文“这场反噬，是来自基层民众的强烈抗议。”的处理：①The backlash 译为“这场反噬”，定冠词译为“这场”，表明指上文换配方引起的反应；主语后加逗号停顿，突出后面的定性。②名词定语 grassroots 增补“来自”，译为“来自基层民众的”，说清抗议的来源。③outcry 本身含有程度强烈的意思，译为“强烈抗议”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Consumer hotline calls",
+   "predicate": "rose",
+   "object_or_complement": "",
+   "explain": "主干是 Consumer hotline calls rose，主谓结构，rise 是不及物动词，后面用 from… to… 说明变化的起点和终点。谓语 rose 是 rise 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Consumer",
+    "role": "主语的前置定语（名词作定语）",
+    "zh": "消费者"
+   },
+   {
+    "text": "hotline",
+    "role": "主语的前置定语（名词作定语）",
+    "zh": "热线"
+   },
+   {
+    "text": "calls",
+    "role": "主语中心词",
+    "zh": "来电"
+   },
+   {
+    "text": "rose",
+    "role": "谓语（不及物动词）",
+    "zh": "激增"
+   },
+   {
+    "text": "from about 400 a day",
+    "role": "状语（介词短语，表示变化的起点），a day 意为“每天”",
+    "zh": "从每天约400通"
+   },
+   {
+    "text": "to about 1,500,",
+    "role": "状语（介词短语，表示变化的终点），后面承前省略 a day",
+    "zh": "到约1,500通"
+   },
+   {
+    "text": "almost all furious complaints.",
+    "role": "补充说明成分（名词短语），说明这些来电的性质",
+    "zh": "几乎全都是暴怒的投诉"
+   }
+  ],
+  "structure": "①主句 Consumer hotline calls rose from about 400 a day to about 1,500：主语是三个名词连用，Consumer 和 hotline 都作 calls 的前置定语；谓语 rose 不带宾语，from… to… 说明数量变化的起点和终点（视频说明：rise from A to B：从A增加到B）。a day 意为“每天”，to about 1,500 后承前省略了 a day。\n②句末 almost all furious complaints 是名词短语，用逗号与主句隔开，补充说明这些电话（视频说明），相当于 almost all of them were furious complaints；almost 修饰 all，furious 修饰 complaints。\n③来电从约400通升到约1,500通，变为原来的三倍多，视频用“激增”体现增幅之大。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "rise/fall from A to B 与 by 的区别",
+    "explain": "描述数量变化时，rise、fall、increase、decrease 等动词常接 from A to B，from 表示起点，to 表示变化后达到的数值；by 表示变化的差额。本句 rose from about 400 a day to about 1,500 是从约400升到约1,500。考研阅读和图表作文中常考 to 与 by 的区别：rise to 20% 是“升至20%”，rise by 20% 是“增加了20%”，数值含义完全不同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Unemployment fell from 8 per cent to 5 per cent over three years.",
+      "zh": "三年间，失业率从8%降到了5%。"
+     },
+     {
+      "en": "Sales rose by 20 per cent last year.",
+      "zh": "去年销量增长了20%。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语在句末作补充说明",
+    "explain": "句末用逗号隔开的名词短语可以补充说明前面的名词，常以 almost all、most、many、mostly 等开头，意思相当于一个省略了 of them were 的分句。本句 almost all furious complaints 补充说明主语 calls 的性质，即 almost all of the calls were furious complaints。这种结构没有谓语动词，阅读时不要把它当成主句的宾语；翻译时通常拆成独立小句，补出“是”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Over 300 people applied for the job, nearly all recent graduates.",
+      "zh": "300多人申请了这份工作，几乎全都是应届毕业生。"
+     },
+     {
+      "en": "The island has around 50 houses, almost all holiday homes.",
+      "zh": "这座岛上约有50栋房子，几乎全都是度假屋。"
+     }
+    ]
+   },
+   {
+    "title": "a + 时间单位 表示“每”",
+    "explain": "不定冠词 a/an 放在 day、week、hour、year 等时间单位前，意为“每”，相当于 per，常用于频率、速度和价格，如 three times a week、60 miles an hour。本句 400 a day 即“每天400通”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The tablets should be taken twice a day.",
+      "zh": "这种药片应每天服用两次。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hotline",
+    "explain": "名词，热线电话，指供公众咨询、投诉或求助的专线，如 a customer service hotline（客服热线）。视频译为“热线”。"
+   },
+   {
+    "term": "calls",
+    "explain": "call 作名词，指打来或打出的电话，可数，如 make a call（打电话）、receive calls（接电话）。视频译为“来电”。"
+   },
+   {
+    "term": "furious",
+    "explain": "形容词，暴怒的、狂怒的，语气比 angry 强得多，常用 be furious with sb / about sth；名词为 fury。也可形容速度或强度猛烈，如 at a furious pace（以飞快的速度）。视频译为“暴怒的”。"
+   },
+   {
+    "term": "complaint",
+    "explain": "名词，投诉、抱怨，可数，常用 make a complaint about sth；动词 complain（complain about/of）。视频译为“投诉”。"
+   }
+  ],
+  "translation_tip": "视频译文“消费者热线来电从每天约400通激增到约1,500通，几乎全都是暴怒的投诉。”的处理：①三个名词连用的主语 Consumer hotline calls 按原顺序译为“消费者热线来电”，汉语也习惯名词直接修饰名词。②rise from A to B 译为“从……激增到……”，谓语放在两个数字之间；“激”字体现数量增长之大。③a day 译为“每天”，前移到数字前；两个数字后都增补量词“通”，about 译为“约”。④句末名词短语拆成独立小句“几乎全都是暴怒的投诉”，补出判断词“是”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Protest groups（分句一）；some faithful drinkers（分句二）",
+   "predicate": "were organised（分句一）；stocked up on（分句二）",
+   "object_or_complement": "the original（stocked up on 的宾语）",
+   "explain": "本句是 and 连接的并列句。分句一 Protest groups were organised 是一般过去时的被动语态，没有出现动作的执行者；分句二 some faithful drinkers stocked up on the original 是主谓宾结构，stock up on 是短语动词，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Protest groups",
+    "role": "分句一主语（Protest 作 groups 的前置定语）",
+    "zh": "抗议团体"
+   },
+   {
+    "text": "were organised,",
+    "role": "分句一谓语（一般过去时被动语态）",
+    "zh": "组织了起来"
+   },
+   {
+    "text": "and",
+    "role": "并列连词",
+    "zh": "（并列连词，译文用逗号连接，不单独译出）"
+   },
+   {
+    "text": "some faithful drinkers",
+    "role": "分句二主语",
+    "zh": "一些忠实的饮用者"
+   },
+   {
+    "text": "stocked up on",
+    "role": "分句二谓语（短语动词）",
+    "zh": "囤积了"
+   },
+   {
+    "text": "the original.",
+    "role": "宾语（指原版可乐）",
+    "zh": "原版可乐"
+   }
+  ],
+  "structure": "①and 连接两个并列分句，列举反弹的两种表现：一是成立抗议团体，二是囤积原版可乐。\n②分句一 Protest groups were organised 用被动语态，没有 by 短语，因为重点在抗议团体成立这件事，组织者是谁并不重要；Protest 是名词作 groups 的前置定语。视频把被动语态译为“组织了起来”，用“起来”表示结果，不用“被”字。\n③分句二 some faithful drinkers stocked up on the original：stock up on 意为“大量储备、囤积”（视频说明），on 引出囤积的对象；the original 指原版可乐，与第5句相同；drinkers 在这里指可乐的饮用者。\n④faithful 与第16句的 loyalists、第21句的 loyal 意思相近，都指对原版可乐忠诚的人，文章用不同的词反复描写这群人。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不带施动者的被动语态及其汉译",
+    "explain": "被动语态常用于动作执行者不清楚、不重要或不言而喻的情况，此时省略 by 短语。本句 Protest groups were organised 强调抗议团体成立了，不交代由谁组织。汉语的“被”字多用于不如意的事，英语被动句常译成主动形式或意义上的被动句，如本句译为“组织了起来”，第15句 was relaunched 译为“重新上市了”。考研翻译中，把英文被动句一律译成“被……”会显得生硬。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A new hospital was built on the edge of town.",
+      "zh": "镇子边上建起了一座新医院。"
+     },
+     {
+      "en": "The meeting has been postponed until next week.",
+      "zh": "会议推迟到了下周。"
+     }
+    ]
+   },
+   {
+    "title": "三词短语动词：动词 + 副词 + 介词",
+    "explain": "stock up on 由动词 stock、副词 up 和介词 on 构成，整体相当于一个及物动词，宾语放在介词 on 之后，不能拆开。类似的还有 come up with（想出）、put up with（忍受）、look forward to（期待）、catch up with（赶上）。考研完形和阅读中，这类短语动词的意思往往不能从单个词推出，需要整体记忆。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team came up with a cheaper solution.",
+      "zh": "团队想出了一个更便宜的解决方案。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "protest group",
+    "explain": "抗议团体，protest 是名词作定语；protest 作动词意为“抗议”，美式英语中可直接带宾语，如 protest the decision，英式英语多用 protest against/about sth。第12句的 protester 意为“抗议者”。"
+   },
+   {
+    "term": "organise",
+    "explain": "英式拼写，美式为 organize；动词，组织、筹办，如 organise a meeting。名词 organisation（组织、机构）。视频译为“组织了起来”。"
+   },
+   {
+    "term": "faithful",
+    "explain": "形容词，忠实的、忠诚的，常用 be faithful to sb/sth；也可指（译文、复制品等）忠实于原作的，如 a faithful translation（忠实的译文）。视频译为“忠实的”。"
+   },
+   {
+    "term": "stock up on",
+    "explain": "短语动词，大量储备、囤积（视频说明），如 stock up on food before a storm（暴风雨来临前储备食物）。stock 作名词意为“存货、库存”，如 in stock（有货）、out of stock（缺货）。"
+   },
+   {
+    "term": "drinker",
+    "explain": "名词，饮用者；单独使用时常指“喝酒的人”，如 a heavy drinker（酗酒者），但上下文明确或前面有饮料名时，指喝某种饮料的人，如 coffee drinkers。本句指可乐饮用者，视频译为“饮用者”。"
+   }
+  ],
+  "translation_tip": "视频译文“抗议团体组织了起来，一些忠实的饮用者囤积了原版可乐。”的处理：①被动语态 were organised 不译成“被组织”，而是译为“组织了起来”，“起来”表示团体从无到有。②并列连词 and 不单独译出，两个分句用逗号连接，汉语靠意合，读起来更紧凑。③stocked up on 整体译为“囤积了”；the original 增补为“原版可乐”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "one protester",
+   "predicate": "filed",
+   "object_or_complement": "a lawsuit",
+   "explain": "主干是 one protester filed a lawsuit，主谓宾结构。谓语 filed 为一般过去时，主动语态。主语后的 Gay Mullins 是同位语，句末 to keep… 是不定式短语作目的状语。"
+  },
+  "components": [
+   {
+    "text": "In June 1985",
+    "role": "时间状语（介词短语，月份、年份前用 in）",
+    "zh": "1985年6月"
+   },
+   {
+    "text": "one protester,",
+    "role": "主语",
+    "zh": "一位抗议者"
+   },
+   {
+    "text": "Gay Mullins,",
+    "role": "同位语，说明 one protester 是谁",
+    "zh": "盖伊·马林斯"
+   },
+   {
+    "text": "filed",
+    "role": "谓语",
+    "zh": "提起了"
+   },
+   {
+    "text": "a lawsuit",
+    "role": "宾语",
+    "zh": "诉讼"
+   },
+   {
+    "text": "to keep",
+    "role": "目的状语（不定式短语）的核心词",
+    "zh": "要求禁止"
+   },
+   {
+    "text": "New Coke",
+    "role": "keep 的宾语",
+    "zh": "新可乐"
+   },
+   {
+    "text": "out of packaging like the original's.",
+    "role": "宾语补足语（介词短语，与 keep 构成 keep A out of B），其中 like the original's 作 packaging 的后置定语",
+    "zh": "使用与原版相似的包装"
+   }
+  ],
+  "structure": "①主句 one protester filed a lawsuit，主语 one protester 后面紧跟同位语 Gay Mullins，用逗号隔开，具体说明这位抗议者是谁。\n②句首 In June 1985 是时间状语，月份和年份前用 in。\n③to keep New Coke out of packaging like the original's 是不定式短语作目的状语，说明提起诉讼的目的。keep A out of B 意为“不让A用上B”（视频说明），A 是 New Coke，B 是 packaging like the original's。\n④like the original's 是介词短语作后置定语，修饰 packaging；the original's 是名词所有格，后面省略了 packaging（视频说明：the original's = the original's packaging），即与原版可乐的包装相似的包装。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词所有格后省略被修饰的名词",
+    "explain": "为避免重复，名词所有格后面的名词如果前文已经出现，可以省略，如本句 the original's = the original's packaging。这种省略在比较结构中最常见，写作时要保证比较对象一致：比较两人的工资应写 My salary is lower than my colleague's，不能写成 than my colleague（把工资和人相比）。考研阅读中看到所有格后面没有名词，要从前文找出被省略的名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "This year's results are better than last year's.",
+      "zh": "今年的成绩比去年的好。"
+     },
+     {
+      "en": "Her handwriting is much neater than her brother's.",
+      "zh": "她的字比她哥哥的工整得多。"
+     }
+    ]
+   },
+   {
+    "title": "同位语",
+    "explain": "同位语是对前面名词的进一步说明，与之指同一人或事物，常用逗号隔开。本句 one protester, Gay Mullins, 中，Gay Mullins 就是那位抗议者。同位语可以是专有名词、名词短语，也可以是从句（同位语从句）。翻译时人名作同位语常直接与前面的名词连在一起，不加逗号，如视频译为“一位抗议者盖伊·马林斯”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Our neighbour, a retired teacher, volunteers at the local library.",
+      "zh": "我们的邻居是一位退休教师，在当地图书馆做志愿者。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作目的状语",
+    "explain": "不定式短语放在句末，可以说明主句动作的目的，相当于 in order to do。本句 to keep New Coke out of packaging like the original's 说明提起诉讼的目的。目的状语也可放在句首，此时常用逗号隔开，如 To reduce costs, the firm closed two factories。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council raised parking fees to reduce traffic in the city centre.",
+      "zh": "市议会提高了停车费，以减少市中心的车流量。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "file a lawsuit",
+    "explain": "提起诉讼。file 在这里是熟词僻义，指正式提交（申请、诉讼等），如 file a complaint（提出投诉）、file for bankruptcy（申请破产）。lawsuit 也可简称 suit，动词“起诉”用 sue。视频把 filed a lawsuit 译为“提起了诉讼”。"
+   },
+   {
+    "term": "keep A out of B",
+    "explain": "不让A进入或用上B（视频说明：不让A用上B），如 keep children out of the kitchen（不让孩子进厨房）。本句视频根据诉讼语境译为“禁止……使用……”。"
+   },
+   {
+    "term": "packaging",
+    "explain": "名词，不可数，指商品的包装（材料、设计），由 package 加 -ing 构成，如 plastic packaging（塑料包装）。package 是可数名词，指包裹、一揽子计划。视频译为“包装”。"
+   },
+   {
+    "term": "protester",
+    "explain": "名词，抗议者，也拼作 protestor，由动词 protest 加 -er 构成。视频译为“抗议者”。"
+   },
+   {
+    "term": "Gay Mullins",
+    "explain": "人名，视频音译为“盖伊·马林斯”。英文人名名在前、姓在后，中文音译时名和姓之间用间隔号“·”隔开。"
+   }
+  ],
+  "translation_tip": "视频译文“1985年6月，一位抗议者盖伊·马林斯提起了诉讼，要求禁止新可乐使用与原版相似的包装。”的处理：①时间状语译为“1985年6月”，后加逗号。②同位语 Gay Mullins 直接接在“一位抗议者”之后，去掉逗号，汉语读起来更连贯；one 译为“一位”。③不定式目的状语另起小句，增补“要求”点明这是诉讼提出的请求；keep A out of B 译为“禁止A使用B”。④后置定语 like the original's 前移，译为“与原版相似的”，省略的 packaging 由后面的“包装”承担。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Its dismissal",
+   "predicate": "came",
+   "object_or_complement": "",
+   "explain": "主干是 Its dismissal came，主谓结构，come 是不及物动词，意为“（事情）发生、到来”；a week later 作时间状语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Its dismissal",
+    "role": "主语（名词化结构，Its 指上句的 a lawsuit）",
+    "zh": "这起诉讼被驳回"
+   },
+   {
+    "text": "came",
+    "role": "谓语（不及物动词，表示事情发生）",
+    "zh": "是在"
+   },
+   {
+    "text": "a week later.",
+    "role": "时间状语（名词短语 a week 修饰副词 later）",
+    "zh": "一周之后"
+   }
+  ],
+  "structure": "①本句是主谓结构加时间状语：Its dismissal came a week later。\n②主语 Its dismissal 是名词化结构：Its 指上句的 a lawsuit，dismissal 是动词 dismiss 的名词形式，指（法律上）驳回案件或指控（视频说明）。Its dismissal 相当于 the lawsuit was dismissed，把一个被动事件浓缩成名词短语作主语。\n③came 表示事情发生、到来，不是“来”这一具体动作；a week later 意为“一周之后”，以上句提起诉讼的时间为参照。\n④本句很短，要与上句连读：诉讼提起后仅一周就被驳回。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词化结构作主语",
+    "explain": "名词化是把动词或形容词表达的动作、状态变成名词，用名词短语承担原来一个句子的意思。本句 Its dismissal = the lawsuit was dismissed，所有格 Its 表示动作的承受者。名词化让句子更紧凑、正式，是外刊和学术文章的典型特点。考研阅读中要能把名词化结构还原成“谁做了什么”或“什么被怎么样了”；翻译时也常把它还原为主谓结构，视频即把 Its dismissal 译为“这起诉讼被驳回”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government's refusal to comment fuelled further speculation.",
+      "zh": "政府拒绝置评，这进一步加剧了外界的猜测。"
+     },
+     {
+      "en": "The closure of the factory came as a shock to the town.",
+      "zh": "工厂关闭，令全镇震惊。"
+     }
+    ]
+   },
+   {
+    "title": "时间段 + later 与 ago、in 的区别",
+    "explain": "时间段 + later 表示以过去或将来某一时间为参照的“……之后”，叙述过去的事时常用；时间段 + ago 表示以现在为参照的“……以前”；in + 时间段 用于将来时，表示从现在起“……之后”。本句 a week later 以提起诉讼的时间为参照，指一周之后。写作中叙述过去的事件，“五年后”应写 five years later，不能写 in five years。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He left the company in 2010 and returned five years later.",
+      "zh": "他于2010年离开公司，五年后又回来了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dismissal",
+    "explain": "名词，本句指（法律上）驳回案件或指控（视频说明），视频译为“驳回”；常见义还有“解雇、开除”，如 unfair dismissal（不公平解雇），以及“对……不予理会”。动词 dismiss：dismiss a case（驳回案件）、dismiss an idea（对某想法不予考虑）。"
+   },
+   {
+    "term": "come",
+    "explain": "熟词僻义：come 可表示事情发生、到来，常与时间状语连用，如 The announcement came on Monday（这份声明是在周一发布的）。本句视频把 came a week later 译为“是在一周之后”。"
+   }
+  ],
+  "translation_tip": "视频译文“这起诉讼被驳回，是在一周之后。”的处理：①名词化主语 Its dismissal 还原为主谓结构“这起诉讼被驳回”：Its 具体化为“这起诉讼”，dismissal 译为被动的“被驳回”，驳回对原告不利，用“被”字自然。②谓语 came 与时间状语合译为“是在一周之后”，用“……，是在……”的判断句式突出时间之短。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Pepsi's chief executive",
+   "predicate": "gave",
+   "object_or_complement": "his employees（间接宾语）a day off（直接宾语）",
+   "explain": "主干是 Pepsi's chief executive gave his employees a day off，主谓双宾结构 give sb sth。谓语 gave 为一般过去时，主动语态；句末 treating… 是现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "Pepsi's",
+    "role": "定语（名词所有格），修饰 chief executive",
+    "zh": "百事可乐"
+   },
+   {
+    "text": "chief executive",
+    "role": "主语中心词",
+    "zh": "首席执行官"
+   },
+   {
+    "text": "gave",
+    "role": "谓语",
+    "zh": "给"
+   },
+   {
+    "text": "his employees",
+    "role": "间接宾语",
+    "zh": "他的员工"
+   },
+   {
+    "text": "a day off,",
+    "role": "直接宾语",
+    "zh": "放了一天假"
+   },
+   {
+    "text": "treating the change",
+    "role": "伴随状语（现在分词短语），the change 是 treating 的宾语",
+    "zh": "把这次改变"
+   },
+   {
+    "text": "as",
+    "role": "介词，与 treat 构成 treat A as B",
+    "zh": "看作"
+   },
+   {
+    "text": "Coke's",
+    "role": "定语（名词所有格，表示让步的一方），修饰 concession",
+    "zh": "可口可乐的"
+   },
+   {
+    "text": "concession.",
+    "role": "as 的宾语",
+    "zh": "让步"
+   }
+  ],
+  "structure": "①主句 Pepsi's chief executive gave his employees a day off：主语中心词是 chief executive，Pepsi's 是名词所有格作定语；gave 带双宾语，his employees 是间接宾语，a day off 是直接宾语。\n②treating the change as Coke's concession 是现在分词短语作伴随状语（视频说明），逻辑主语是 chief executive，说明他放假时对这件事的看法。treat A as B 意为“把A看作B”，A 是 the change（可口可乐换配方），B 是 Coke's concession。\n③Coke's concession 中所有格表示让步的一方：是可口可乐作出了让步，相当于 Coke conceded。\n④背景（视频说明）：盲测中，百事赢了老版可口可乐，可口可乐于是改用更甜、更接近百事口味的新配方。百事借机嘲讽，把这一改变说成可口可乐承认百事更好喝，并放假一天庆祝。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在主句后，可以表示与主句动作同时发生的动作或状态，即伴随状语；它的逻辑主语必须与主句主语一致。本句 treating the change as Coke's concession 的逻辑主语是 Pepsi's chief executive，说明他放假的同时把这件事看作对方的让步。写作中的常见错误是分词的逻辑主语与主句主语不一致（悬垂分词），如 Walking along the street, the rain began，应改为 Walking along the street, she was caught in the rain。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister left the room, refusing to answer any questions.",
+      "zh": "部长离开了房间，拒绝回答任何问题。"
+     },
+     {
+      "en": "Walking along the street, she was caught in the rain.",
+      "zh": "她走在街上时淋了雨。"
+     }
+    ]
+   },
+   {
+    "title": "treat/regard/see A as B",
+    "explain": "treat A as B、regard A as B、see A as B、view A as B 都表示“把A看作B”，as 后可接名词、形容词或分词。本句 treating the change as Coke's concession 即“把这次改变看作可口可乐的让步”。注意 consider 更常说 consider A (to be) B，加 as 的用法较少见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many economists regard the decision as a serious mistake.",
+      "zh": "许多经济学家把这个决定看作一个严重的错误。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格表示动作的发出者",
+    "explain": "所有格加上由动词变来的名词时，所有格常表示动作的发出者，相当于句子的主语，如 the president's resignation = the president resigned。本句 Coke's concession 相当于 Coke conceded，即可口可乐作出让步。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The president's resignation came as no surprise.",
+      "zh": "总统辞职并不令人意外。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "chief executive",
+    "explain": "首席执行官，公司的最高管理者，也称 chief executive officer，缩写 CEO。视频译为“首席执行官”。"
+   },
+   {
+    "term": "a day off",
+    "explain": "休假一天，off 表示不工作，如 take a day off（请一天假）、have the weekend off（周末休息）；复数为 days off。视频把 gave his employees a day off 译为“给他的员工放了一天假”。"
+   },
+   {
+    "term": "concession",
+    "explain": "名词，让步，常用 make a concession to sb（对某人让步）；动词 concede（承认、让步）。在英式英语中还可指对学生、老人等的优惠票价。视频译为“让步”。"
+   },
+   {
+    "term": "Coke",
+    "explain": "Coca-Cola 的简称，本句视频译为“可口可乐”。"
+   }
+  ],
+  "translation_tip": "视频译文“百事可乐首席执行官给他的员工放了一天假，把这次改变看作可口可乐的让步。”的处理：①所有格 Pepsi's 译为“百事可乐”，不加“的”，与“首席执行官”直接连成称谓。②双宾语 gave his employees a day off 译为“给他的员工放了一天假”，把名词短语 a day off 转为动宾短语“放了一天假”。③伴随状语按原顺序译成后一个动作，用把字句“把这次改变看作……”译出 treat A as B；the change 译为“这次改变”。④Coke's 译出全称“可口可乐的”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "the original formula",
+   "predicate": "was relaunched",
+   "object_or_complement": "",
+   "explain": "主干是 the original formula was relaunched，主谓结构，谓语为一般过去时的被动语态；as Coca-Cola Classic 是介词短语作状语，说明以什么名义重新上市。"
+  },
+  "components": [
+   {
+    "text": "After 79 days,",
+    "role": "时间状语一（介词短语）",
+    "zh": "79天后"
+   },
+   {
+    "text": "on 11 July 1985,",
+    "role": "时间状语二（介词短语），具体说明79天后是哪一天",
+    "zh": "1985年7月11日"
+   },
+   {
+    "text": "the original formula",
+    "role": "主语",
+    "zh": "原配方"
+   },
+   {
+    "text": "was relaunched",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "重新上市了"
+   },
+   {
+    "text": "as Coca-Cola Classic.",
+    "role": "状语（介词短语，as 表示以……身份或名义）",
+    "zh": "以可口可乐经典之名"
+   }
+  ],
+  "structure": "①主句 the original formula was relaunched as Coca-Cola Classic 是被动语态，动作执行者可口可乐公司不言自明，所以不出现 by 短语。\n②句首两个时间状语连用：After 79 days 说明经过的时间，on 11 July 1985 给出具体日期，后者是对前者的具体说明。从第6句的1985年4月23日算到7月11日正好79天，与标题 The 79 Days of New Coke 相呼应。\n③relaunched 由前缀 re-（再，重新）加 launch 构成，与第8句的 launching 呼应：推出新可乐是一场赌注，79天后原配方又重新上市。\n④as Coca-Cola Classic 中 as 是介词，意为“作为、以……的身份”，说明原配方回归时用的名称。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "两个时间状语连用",
+    "explain": "英语可以连用两个时间状语，先给出相对时间，再给出具体日期，后一个是对前一个的具体说明，两者之间用逗号隔开。本句 After 79 days, on 11 July 1985, 即“79天后，也就是1985年7月11日”。介词选用要注意：after + 时间段表示过去某时之后；具体日期前用 on，月份、年份前用 in。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Three weeks later, on 2 March, the bridge reopened to traffic.",
+      "zh": "三周后，3月2日，这座桥重新通车。"
+     }
+    ]
+   },
+   {
+    "title": "介词 as 表示身份、名义",
+    "explain": "as 作介词，意为“作为、以……的身份或名义”，后接名词，如 work as a teacher、be known as。本句 was relaunched as Coca-Cola Classic 说明原配方以“可口可乐经典”的名义重新上市。注意与 like 区分：as 表示实际的身份，like 表示“像”，不是同一事物。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The old power station was reopened as an art gallery.",
+      "zh": "这座旧发电站改作美术馆重新开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "relaunch",
+    "explain": "动词，重新推出、重新上市，由 re- 加 launch 构成；也可作名词，如 the relaunch of the magazine（杂志的重新发行）。视频译为“重新上市了”。"
+   },
+   {
+    "term": "Coca-Cola Classic",
+    "explain": "原配方可口可乐回归时使用的名称，视频译为“可口可乐经典”。classic 作形容词意为“经典的、传统的”，注意与 classical（古典的，如 classical music）区分。"
+   },
+   {
+    "term": "the original formula",
+    "explain": "原来的配方，formula 在第5句已出现，视频译为“原配方”，与第5句的 a sweeter formula（一种更甜的配方）相对。"
+   }
+  ],
+  "translation_tip": "视频译文“79天后，1985年7月11日，原配方以可口可乐经典之名重新上市了。”的处理：①两个时间状语按原顺序译出，各自后加逗号。②被动语态 was relaunched 不译成“被重新推出”，而是译为“重新上市了”，汉语意义上的被动更自然。③as Coca-Cola Classic 前移到谓语前，译为“以……之名”，Classic 译为“经典”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The U-turn",
+   "predicate": "was",
+   "object_or_complement": "a vindication（for loyalists 作其后置定语）",
+   "explain": "主干是 The U-turn was a vindication，主系表结构，抽象名词 vindication 作表语，for loyalists 说明证明了谁是对的。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The U-turn",
+    "role": "主语（指可口可乐恢复原配方）",
+    "zh": "这种180度大反转"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 a vindication 合译为“证明了……是正确的”）"
+   },
+   {
+    "text": "a vindication",
+    "role": "表语（抽象名词）",
+    "zh": "证明了……是正确的"
+   },
+   {
+    "text": "for loyalists.",
+    "role": "后置定语（介词短语），修饰 a vindication，说明被证明正确的人",
+    "zh": "这群忠诚拥护者"
+   }
+  ],
+  "structure": "①本句是主系表结构，表语是抽象名词 a vindication，for loyalists 修饰它，a vindication for loyalists 意为“证明忠诚拥护者是对的”（视频说明：vindication：证明……是对的，这里指拥趸坚持原版可乐是对的）。\n②主语 The U-turn 本指车辆掉头，这里比喻可口可乐的决策大转弯：从改用新配方到恢复原配方，指上句原配方重新上市这件事。\n③loyalists 指一直坚持原版可乐的人，与第11句的 faithful drinkers、第21句的 fiercely loyal drinkers 指同一群人。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "抽象名词作表语，汉译转为动词",
+    "explain": "英语常用“be + a + 抽象名词 + for/to + 名词”表达一个动作或判断，抽象名词承担了谓语的意义：The U-turn was a vindication for loyalists 相当于 The U-turn vindicated loyalists。汉语少用这种名词结构，翻译时常把抽象名词还原为动词，视频把 was a vindication 译为“证明了……是正确的”。类似的有 be a blow to（对……是打击）、be a relief to（让……松了口气）。考研翻译中，遇到 be + 抽象名词作表语，先想它对应的动词，再组织汉语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The verdict was a vindication for the journalist.",
+      "zh": "这一裁决证明了这名记者是对的。"
+     },
+     {
+      "en": "The decision was a relief to parents.",
+      "zh": "这一决定让家长们松了一口气。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "U-turn",
+    "explain": "名词，本义是车辆的U形掉头，如 make a U-turn（掉头）；比喻（政策、计划的）彻底转变，常见于新闻，如 a government U-turn on taxes（政府在税收问题上的大转弯）。视频译为“180度大反转”。"
+   },
+   {
+    "term": "vindication",
+    "explain": "名词，证明（某人或某观点）正确（视频说明：证明……是对的）；动词 vindicate 意为“证明……正确”，如 The results vindicated her decision（结果证明她的决定是对的）。"
+   },
+   {
+    "term": "loyalist",
+    "explain": "名词，忠诚拥护者，由 loyal 加表示人的后缀 -ist 构成，多指对政党、领导人或政府保持忠诚的人；本句指坚持原版可乐的人，视频译为“忠诚拥护者”。"
+   }
+  ],
+  "translation_tip": "视频译文“这种180度大反转，证明了这群忠诚拥护者是正确的。”的处理：①U-turn 不直译为“U形掉头”，而用汉语常见的说法“180度大反转”表达彻底转变；The 译为“这种”，主语后加逗号停顿。②名词表语 a vindication for loyalists 转译为动词结构“证明了……是正确的”，for 的宾语 loyalists 成为“证明”的对象。③loyalists 增补“这群”，回指前文那些坚持原版可乐的人。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "ABC",
+   "predicate": "interrupted",
+   "object_or_complement": "a soap opera",
+   "explain": "主干是 ABC interrupted a soap opera，主谓宾结构，谓语为一般过去时，主动语态；to broadcast the comeback 是不定式短语作目的状语，句末 which 引导非限制性定语从句。"
+  },
+  "components": [
+   {
+    "text": "ABC",
+    "role": "主语",
+    "zh": "ABC 电视台"
+   },
+   {
+    "text": "interrupted",
+    "role": "谓语",
+    "zh": "中断了"
+   },
+   {
+    "text": "a soap opera",
+    "role": "宾语",
+    "zh": "一部肥皂剧"
+   },
+   {
+    "text": "to broadcast",
+    "role": "目的状语（不定式短语）的核心词",
+    "zh": "播出"
+   },
+   {
+    "text": "the comeback,",
+    "role": "broadcast 的宾语",
+    "zh": "可口可乐回归的消息"
+   },
+   {
+    "text": "which led two network news bulletins.",
+    "role": "非限制性定语从句，修饰 the comeback（这条回归的消息）；which 在从句中作主语",
+    "zh": "此事还领衔了两大电视网的新闻快报"
+   }
+  ],
+  "structure": "①主句 ABC interrupted a soap opera：ABC 中断了一部正在播出的肥皂剧。\n②to broadcast the comeback 是不定式短语作目的状语，说明中断节目是为了播出可口可乐回归的消息；the comeback 指原版可乐的回归。\n③which led two network news bulletins 是非限制性定语从句，先行词是 the comeback，指这条消息（视频说明）；which 在从句中作主语，led 是从句谓语，two network news bulletins 是宾语。lead 在这里意为“在……中居首位”，即这条消息成了两大电视网新闻快报的头条。\n④two network news bulletins 中，network 和 news 都是名词作前置定语，修饰 bulletins，network 指电视网。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "which 引导非限制性定语从句",
+    "explain": "which 引导非限制性定语从句时，前面用逗号隔开，对先行词作补充说明，which 在从句中可作主语或宾语，不能换成 that。先行词可以是前面的一个名词，也可以是整个主句。本句 which 指前面的名词 the comeback（这条消息），在从句中作主语。翻译时非限制性定语从句常拆成独立分句，用“此事”“这”等词回指，视频即译为“此事还领衔了……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The novel, which was published in 1960, has sold over 40 million copies.",
+      "zh": "这部小说于1960年出版，已售出4,000多万册。"
+     },
+     {
+      "en": "He failed the driving test twice, which surprised everyone.",
+      "zh": "他两次没有通过驾照考试，这让所有人都很意外。"
+     }
+    ]
+   },
+   {
+    "title": "多个名词连用作定语",
+    "explain": "英语可以连用几个名词修饰最后一个名词，越靠近中心词的关系越紧密。本句 two network news bulletins 中，news bulletins 是“新闻快报”，network 进一步说明是电视网的新闻快报，two 是数词。翻译时一般从后往前理清修饰关系，再按汉语习惯补出“的”，视频译为“两大电视网的新闻快报”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city launched a road safety campaign aimed at young drivers.",
+      "zh": "该市发起了一项针对年轻司机的道路安全宣传活动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ABC",
+    "explain": "American Broadcasting Company 的缩写，即美国广播公司，与 CBS、NBC 并称美国三大传统电视网，视频译为“ABC 电视台”。"
+   },
+   {
+    "term": "soap opera",
+    "explain": "肥皂剧，指情节连续、多以家庭生活和情感纠葛为题材的电视或广播连续剧；这一名称源于早期的广播连续剧多由肥皂制造商赞助。视频译为“肥皂剧”。"
+   },
+   {
+    "term": "comeback",
+    "explain": "名词，回归、东山再起，常用 make a comeback（复出、重新流行）；本句指原版可乐的回归，视频增补为“可口可乐回归的消息”。"
+   },
+   {
+    "term": "lead",
+    "explain": "熟词僻义：lead 作及物动词，可表示“在……中居首位”（视频说明），lead the news 即成为新闻头条，如 Her film led the box office that weekend（她的电影那个周末票房居首）。视频译为“领衔了”。"
+   },
+   {
+    "term": "network / bulletin",
+    "explain": "network 本义是网络，这里指电视网，即由多家电视台组成的广播网；news bulletin 指简短的新闻报道、新闻快报，bulletin 也可指公告。"
+   }
+  ],
+  "translation_tip": "视频译文“ABC 电视台中断了一部肥皂剧，播出可口可乐回归的消息，此事还领衔了两大电视网的新闻快报。”的处理：①ABC 增补“电视台”，说明其身份。②不定式目的状语不译成“为了……”，而是顺接为后一个动作“播出……”，用逗号与前面连接，目的关系由先后顺序体现。③the comeback 增补为“可口可乐回归的消息”，交代回归的主体和报道的内容。④非限制性定语从句拆成独立分句，which 译为“此事”，增补“还”表示递进；led 译为“领衔了”。⑤two network 译为“两大电视网的”，“大”字表明这是主要电视网。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Coca-Cola",
+   "predicate": "had misjudged",
+   "object_or_complement": "what the tests measured（宾语从句）",
+   "explain": "主干是 Coca-Cola had misjudged + 宾语从句，主谓宾结构，what 引导的名词性从句作 misjudged 的宾语。谓语 had misjudged 是过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Coca-Cola",
+    "role": "主语",
+    "zh": "可口可乐"
+   },
+   {
+    "text": "had misjudged",
+    "role": "谓语（过去完成时）",
+    "zh": "误判了"
+   },
+   {
+    "text": "what the tests measured.",
+    "role": "宾语从句（what 引导，what 在从句中作 measured 的宾语）",
+    "zh": "这些测试衡量的是什么"
+   }
+  ],
+  "structure": "①主句 Coca-Cola had misjudged…，宾语是 what 引导的宾语从句。\n②宾语从句 what the tests measured 用陈述语序：从句主语 the tests，谓语 measured，what 作 measured 的宾语，意为“测试衡量的东西”。\n③had misjudged 用过去完成时，表示误判发生在前文所述的推出新可乐、遭到反对、恢复原配方之前，即决定换配方时就已误判；本句从叙事转入分析，回头解释失败的原因。\n④本句是第五段的主题句，后面三句具体说明测试衡量的是什么、没有衡量什么。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "what 引导宾语从句",
+    "explain": "what 引导名词性从句时，本身在从句中充当成分（主语、宾语或表语），意为“……的东西、什么”；that 引导宾语从句时只起连接作用，不作成分。本句 what the tests measured 中，what 作 measured 的宾语。宾语从句要用陈述语序，不能写成 what did the tests measure。考研语法填空和改错中，判断用 what 还是 that，就看从句是否缺成分：缺成分用 what，不缺用 that。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Nobody knew what the letter contained.",
+      "zh": "没人知道信里写的是什么。"
+     },
+     {
+      "en": "Scientists are still debating what caused the sudden decline.",
+      "zh": "科学家们仍在争论是什么导致了这次骤降。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时回溯原因",
+    "explain": "叙述过去事件之后，用过去完成时回头说明更早发生的情况，常用来交代原因。本句之前，文章已经叙述了新可乐推出、遭到反对、原配方回归，本句用 had misjudged 指出在这一切发生之前公司就已误判。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The project failed because the team had underestimated the costs.",
+      "zh": "这个项目失败了，因为团队低估了成本。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "misjudge",
+    "explain": "动词，判断错误、误判，由前缀 mis-（错误地）加 judge 构成；同类的词有 misunderstand（误解）、misinterpret（曲解）、mislead（误导）。视频译为“误判了”。"
+   },
+   {
+    "term": "measure",
+    "explain": "动词，本句指衡量、评估，视频译为“衡量”；也有“测量”之义，如 measure the temperature。名词 measure 还可指措施，如 take measures（采取措施），是阅读中的高频义。"
+   },
+   {
+    "term": "the tests",
+    "explain": "指第二段的近20万次盲测，视频译为“这些测试”。"
+   }
+  ],
+  "translation_tip": "视频译文“可口可乐误判了这些测试衡量的是什么。”的处理：①宾语从句 what the tests measured 译为“这些测试衡量的是什么”，用“……的是什么”的结构译出 what，整个从句作“误判了”的宾语。②the tests 译为“这些测试”，指前文的盲测。③过去完成时 had misjudged 译为“误判了”。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "They",
+   "predicate": "captured",
+   "object_or_complement": "a mouthful, not the emotional attachment",
+   "explain": "主干是 They captured a mouthful, not the emotional attachment，主谓宾结构，宾语是“A, not B”的对比结构：肯定 a mouthful，否定 the emotional attachment。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "They",
+    "role": "主语（指上句的 the tests）",
+    "zh": "测试"
+   },
+   {
+    "text": "captured",
+    "role": "谓语",
+    "zh": "捕捉到的只是"
+   },
+   {
+    "text": "a mouthful,",
+    "role": "宾语（肯定部分）",
+    "zh": "一小口的味道"
+   },
+   {
+    "text": "not the emotional attachment",
+    "role": "与 a mouthful 并列的否定宾语（A, not B 结构）",
+    "zh": "而不是……情感依恋"
+   },
+   {
+    "text": "that nearly a century of familiarity had built.",
+    "role": "限制性定语从句，修饰 attachment；that 在从句中作 built 的宾语",
+    "zh": "近一个世纪的熟悉所建立起来的"
+   }
+  ],
+  "structure": "①主句 They captured a mouthful, not the emotional attachment：They 指上句的 the tests；宾语用“A, not B”结构，肯定测试捕捉到的是 a mouthful（一小口的味道），否定的是 the emotional attachment（情感依恋）。\n②that nearly a century of familiarity had built 是限制性定语从句，修饰 attachment（视频说明）。that 在从句中作 built 的宾语，可以省略；从句主语是 nearly a century of familiarity（近一个世纪的熟悉），谓语是 had built。\n③从句用过去完成时 had built，表示这种情感依恋在测试之前的近百年里早已形成。\n④a mouthful 本指一口的量，这里借指测试只考察喝一小口时的味道，与需要长期积累的 emotional attachment 形成对比。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "A, not B 对比结构",
+    "explain": "“A, not B”表示“是A，而不是B”，用逗号把肯定部分和否定部分隔开，A 和 B 在语法上地位相同，如本句两个宾语 a mouthful 和 the emotional attachment。它与 not B but A 意思相同，但先说肯定的一方。阅读中这类对比结构往往点出作者真正想强调的内容，常是主旨题和细节题的依据。翻译时常加“只是”“而是”“而不是”等词把对比关系译清楚。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The problem is the price, not the quality.",
+      "zh": "问题在于价格，而不是质量。"
+     },
+     {
+      "en": "Voters want action, not promises.",
+      "zh": "选民想要的是行动，而不是承诺。"
+     }
+    ]
+   },
+   {
+    "title": "that 引导限制性定语从句（关系代词作宾语）",
+    "explain": "that 引导限制性定语从句时，在从句中可作主语或宾语；作宾语时可以省略。本句 that nearly a century of familiarity had built 中，that 作 built 的宾语，从句主语较长，是 nearly a century of familiarity。阅读时要看出 built 后面缺宾语，缺的就是先行词 attachment，即“熟悉建立起了依恋”。翻译时把定语从句前置，常用“所”字结构，如“……所建立起来的”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The trust that years of honest service had earned disappeared overnight.",
+      "zh": "多年诚信经营所赢得的信任一夜之间消失了。"
+     },
+     {
+      "en": "Few could match the skill that decades of practice had given her.",
+      "zh": "她几十年的练习所造就的技艺，很少有人能比得上。"
+     }
+    ]
+   },
+   {
+    "title": "a + 时间名词 + of + 名词",
+    "explain": "a century of、a decade of、years of 等加名词，表示某种状态或行为持续了这么长的时间，如 years of hard work（多年的努力）。本句 nearly a century of familiarity 意为“近一个世纪的熟悉”，nearly 修饰 a century。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After a decade of rapid growth, the economy began to slow.",
+      "zh": "经历了十年的快速增长之后，经济开始放缓。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "capture",
+    "explain": "动词，本句意为“捕捉到、反映出”，视频译为“捕捉到”；常见搭配有 capture the mood（捕捉氛围）、capture sb's attention（吸引某人的注意）。本义是“俘获、捕获”。"
+   },
+   {
+    "term": "mouthful",
+    "explain": "名词，一口（的量），如 a mouthful of water（一口水），由 mouth 加 -ful 构成；口语中还可指很长、很难念的词或名称。视频译为“一小口的味道”。"
+   },
+   {
+    "term": "emotional attachment",
+    "explain": "情感依恋。attachment 意为“依恋、喜爱”，常用 attachment to sb/sth；也可指电子邮件的附件。emotional 意为“情感的、情绪的”。视频译为“情感依恋”。"
+   },
+   {
+    "term": "familiarity",
+    "explain": "名词，熟悉、了解，常用 familiarity with sth（对……的熟悉），形容词 familiar。谚语 Familiarity breeds contempt 意为“熟悉生轻视”；本文说的恰好相反，长期的熟悉建立起了情感依恋。"
+   }
+  ],
+  "translation_tip": "视频译文“测试捕捉到的只是一小口的味道，而不是近一个世纪的熟悉所建立起来的情感依恋。”的处理：①代词 They 还原为名词“测试”，指代更清楚。②“A, not B”结构译为“……的只是A，而不是B”：把 captured 转成“捕捉到的”，增补“只是”突出对比；a mouthful 增补“的味道”，说明一小口指的是口味。③限制性定语从句前置，用“所”字结构译为“近一个世纪的熟悉所建立起来的”，修饰“情感依恋”。"
+ },
+ {
+  "n": 20,
+  "trunk": {
+   "subject": "the old taste",
+   "predicate": "carried",
+   "object_or_complement": "nostalgia and heritage",
+   "explain": "主干是 the old taste carried nostalgia and heritage，主谓宾结构，两个抽象名词由 and 并列作宾语。谓语为一般过去时，主动语态；句首 To many 是状语。"
+  },
+  "components": [
+   {
+    "text": "To many,",
+    "role": "状语（介词短语，表示“对……来说”）",
+    "zh": "对许多人来说"
+   },
+   {
+    "text": "the old taste",
+    "role": "主语",
+    "zh": "老味道"
+   },
+   {
+    "text": "carried",
+    "role": "谓语",
+    "zh": "承载着"
+   },
+   {
+    "text": "nostalgia",
+    "role": "宾语一",
+    "zh": "怀旧"
+   },
+   {
+    "text": "and heritage.",
+    "role": "并列连词 and + 宾语二",
+    "zh": "与传统"
+   }
+  ],
+  "structure": "①主句 the old taste carried nostalgia and heritage：主语 the old taste 指原版可乐的味道；carried 在这里是抽象用法，意为“承载、带有（某种意义或感情）”；两个抽象名词 nostalgia 和 heritage 并列作宾语。\n②句首 To many 是介词短语作状语，to 表示“在……看来、对……来说”；many 是代词，相当于 many people。\n③本句承接上句的 emotional attachment，具体说明这种依恋的内容：老味道里有怀旧之情，也有从前人那里继承下来的传统。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "to + 人 表示“对……来说”",
+    "explain": "介词 to 加人，可以表示某种看法、感受或意义所属的对象，意为“对……来说、在……看来”，如 To me, it was a mistake。本句 To many 说明后面的判断只针对许多人，而不是所有人。阅读中这类限定范围的状语不能忽略，它决定了观点适用的对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "To most voters, the economy matters more than foreign policy.",
+      "zh": "对大多数选民来说，经济比外交政策更重要。"
+     }
+    ]
+   },
+   {
+    "title": "many、few 等作代词指人",
+    "explain": "many、few、some、most 等词可以单独作代词，指“许多人”“很少有人”等，相当于省略了 people。本句 To many = to many people。这种用法简洁正式，外刊中很常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many have tried to climb the mountain in winter, but few have succeeded.",
+      "zh": "许多人曾尝试在冬季攀登这座山，但成功的人很少。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "carry",
+    "explain": "熟词僻义：carry 除了“携带、搬运”，还可表示带有、承载（意义、感情、分量），如 carry meaning（具有意义）、carry weight（有分量、有影响力）。视频译为“承载着”。"
+   },
+   {
+    "term": "nostalgia",
+    "explain": "名词，怀旧、怀念（视频说明：对过去的人、事、时代或生活状态产生的带有感伤意味的向往与怀念），常用 nostalgia for sth；形容词 nostalgic。源自希腊语 nostos（回家）和 algos（痛苦）。视频译为“怀旧”。"
+   },
+   {
+    "term": "heritage",
+    "explain": "名词，指从前人或历史中继承下来、并传给后代的财产、传统、文化或身份特征（视频说明），如 cultural heritage（文化遗产）、a heritage site（遗产地）。视频译为“传统”。"
+   }
+  ],
+  "translation_tip": "视频译文“对许多人来说，老味道承载着怀旧与传统。”的处理：①To many 译为“对许多人来说”，补出代词 many 所指的“人”。②the old taste 译为“老味道”，口语化的说法带出亲切感。③carried 译为“承载着”，“着”表示持续的状态；and 译为“与”，两个抽象名词直接译为“怀旧”“传统”。"
+ },
+ {
+  "n": 21,
+  "trunk": {
+   "subject": "The tests（分句一）；they（分句二）",
+   "predicate": "had hidden（分句一）；could not quantify（分句二）",
+   "object_or_complement": "the brand（分句一的宾语）；what it meant to fiercely loyal drinkers（分句二的宾语从句）",
+   "explain": "本句是 so 连接的并列句，前因后果。分句一是主谓宾结构，谓语 had hidden 是过去完成时，主动语态；分句二谓语 could not quantify 由情态动词 could 加否定词 not 和动词原形构成，宾语是 what 引导的宾语从句。"
+  },
+  "components": [
+   {
+    "text": "The tests",
+    "role": "分句一主语",
+    "zh": "测试"
+   },
+   {
+    "text": "had hidden",
+    "role": "分句一谓语（过去完成时）",
+    "zh": "遮住了"
+   },
+   {
+    "text": "the brand",
+    "role": "宾语",
+    "zh": "品牌"
+   },
+   {
+    "text": "from every taster,",
+    "role": "状语（介词短语，与 hide 构成 hide A from B）",
+    "zh": "对每位品尝者都"
+   },
+   {
+    "text": "so",
+    "role": "并列连词，表示结果",
+    "zh": "所以"
+   },
+   {
+    "text": "they",
+    "role": "分句二主语（指 the tests）",
+    "zh": "它们"
+   },
+   {
+    "text": "could not quantify",
+    "role": "分句二谓语（情态动词 + not + 动词原形）",
+    "zh": "无法量化"
+   },
+   {
+    "text": "what it meant to fiercely loyal drinkers.",
+    "role": "宾语从句（what 作从句中 meant 的宾语，it 指 the brand）",
+    "zh": "品牌对那些极其忠诚的饮用者意味着什么"
+   }
+  ],
+  "structure": "①so 连接两个并列分句，前一分句是原因，后一分句是结果。\n②分句一 The tests had hidden the brand from every taster：hide A from B 意为“不让B看到A”（视频说明），A 是 the brand，B 是 every taster，这正是盲测的做法。had hidden 用过去完成时，与第18、19句的 had misjudged、had built 一样，用于回顾此前的情况、分析原因。\n③分句二 they could not quantify what it meant to fiercely loyal drinkers：they 指 the tests；what 引导宾语从句（视频说明），what 在从句中作 meant 的宾语，it 指 the brand，mean sth to sb 意为“对某人意味着……”。fiercely 是副词，修饰形容词 loyal，表示忠诚的程度极高。\n④背景（视频说明）：盲测只比味道，不告诉人喝的是什么牌子，所以测不出老顾客对可口可乐这个品牌的感情；新配方即使更受试饮者欢迎，也不代表老顾客愿意放弃熟悉的老可乐。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "mean sth to sb 与 what 宾语从句",
+    "explain": "mean sth to sb 表示“对某人意味着……、对某人很重要”，如 It means a lot to me（这对我很重要）。用在 what 引导的从句中，what it means to sb 意为“它对某人意味着什么”，what 作 mean 的宾语。本句 what it meant to fiercely loyal drinkers 中 it 指 the brand。阅读时注意这里的 to 是介词，后接对象，不是不定式符号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few outsiders understand what the land means to the farmers who work it.",
+      "zh": "很少有外人明白，这片土地对耕种它的农民意味着什么。"
+     },
+     {
+      "en": "Winning the award meant a great deal to her.",
+      "zh": "获得这个奖项对她意义重大。"
+     }
+    ]
+   },
+   {
+    "title": "hide A from B 类结构",
+    "explain": "hide A from B（不让B看到或知道A）中，A 是被隐藏的事物，B 是被瞒着的人；类似结构有 keep sth from sb（对某人隐瞒某事）、conceal A from B（向B隐瞒A）。本句 had hidden the brand from every taster，被遮住的是品牌，被瞒着的是品尝者，二者顺序不能颠倒。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The doctor hid the seriousness of the illness from the patient's family.",
+      "zh": "医生向病人家属隐瞒了病情的严重程度。"
+     }
+    ]
+   },
+   {
+    "title": "so 连接因果并列句",
+    "explain": "so 作并列连词，表示结果，意为“所以、因此”，前面通常有逗号。英语中 because 与 so 不能在同一句中连用，写作中 Because…, so… 是常见错误，二者只能保留一个；汉语则常说“因为……所以……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The roads were icy, so the school closed early.",
+      "zh": "路面结冰，所以学校提前放学了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "quantify",
+    "explain": "动词，量化，即用数量表示或衡量，与 quantity（数量）同源，形容词 quantifiable（可量化的）。考研阅读中常见 hard to quantify（难以量化）。视频译为“量化”。"
+   },
+   {
+    "term": "fiercely",
+    "explain": "副词，本义为凶猛地、激烈地，修饰形容词时表示程度极高，常见搭配有 fiercely loyal（极其忠诚）、fiercely competitive（竞争极其激烈）、fiercely independent（极其独立）。视频译为“极其”。"
+   },
+   {
+    "term": "loyal",
+    "explain": "形容词，忠诚的，常用 be loyal to sb/sth；名词 loyalty。本句 fiercely loyal drinkers 与第11句 faithful drinkers、第16句 loyalists 指同一群人。视频译为“忠诚的”。"
+   },
+   {
+    "term": "brand",
+    "explain": "名词，品牌，如 brand loyalty（品牌忠诚度）、brand image（品牌形象）。本句的 brand 与第1句的 unmarked、第5句的 blind 呼应：测试特意不让品尝者知道品牌。视频译为“品牌”。"
+   }
+  ],
+  "translation_tip": "视频译文“测试对每位品尝者都遮住了品牌，所以它们无法量化品牌对那些极其忠诚的饮用者意味着什么。”的处理：①hide A from B 中的 from every taster 前移到谓语前，译为“对每位品尝者都”，every 译为“每位……都”。②so 译为“所以”，they 译为“它们”，指测试。③宾语从句中的 it 还原为名词“品牌”，避免指代不清；mean sth to sb 译为“对……意味着什么”。④fiercely 译为“极其”，loyal drinkers 译为“忠诚的饮用者”，增补“那些”指明这一群人。"
+ }
+]

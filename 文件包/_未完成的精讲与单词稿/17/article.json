@@ -1,0 +1,1397 @@
+{
+ "no": "17",
+ "title_en": "The 5,000-Year-Old Murder in the Ice",
+ "title_zh": "冰里的五千年凶案",
+ "source_id": "20",
+ "source_hashes": {
+  "JSON": "7229c5bdad16ae49c8e8edefc805ccb73de2d5fced622d5548a3ae3f29d18c19",
+  "GEN": "7229c5bdad16ae49c8e8edefc805ccb73de2d5fced622d5548a3ae3f29d18c19",
+  "MD": "4eb5601825f98a2ceff1d91a59e8e53056597bb363c407cfe3501caf0682e424",
+  "illustration": "2f0f0ffce9bd6653c0808127b31636193dd3fc5577067fd65b05d76c2c5c029a"
+ },
+ "summary": [
+  [
+   "误判",
+   "1991年，两名徒步者在阿尔卑斯山发现冰冻遗体；▹救援者以为是近期遇难的登山者，使用风钻时还损伤了遗体左侧髋部。"
+  ],
+  [
+   "身份",
+   "皮革和草编衣物、铜斧与弓箭显示他来自史前；▹这位被称为奥茨的冰人生活于约5300年前，死时约46岁。"
+  ],
+  [
+   "死因",
+   "2001年发现他左肩内有箭头，扫描显示箭伤撕裂动脉；▹研究者认为他因大量失血，在几分钟内死亡。"
+  ],
+  [
+   "重建",
+   "据伤口推测，射手从背后约30米外放箭；▹胃中有野山羊肉和脂肪、鹿肉与小麦，据报道是死前两小时内吃下的。"
+  ],
+  [
+   "未解",
+   "他关节和脊柱上的61处文身，可能与早期针灸有关；▹如今已知道他的最后一餐和死因，射手是谁、为何杀他，却仍无定论。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "On 19 September 1991 two German hikers on a trek in the Ötztal Alps found a corpse by a glacier.",
+   "zh": "1991年9月19日，两名德国徒步者在奥茨塔尔阿尔卑斯山远足时，在一条冰川旁发现了一具尸体。",
+   "en_markup": "On 19 September 1991 two German **hikers** on a **trek** in the Ötztal Alps found a **corpse** by a **glacier**.",
+   "zh_markup": "1991年9月19日，两名德国**徒步者**(hikers)在奥茨塔尔阿尔卑斯山**远足**(trek)时，在一条**冰川**(glacier)旁发现了一具**尸体**(corpse)。",
+   "video_notes": [
+    "（on a trek in…：介词短语作后置定语，修饰 hikers）"
+   ],
+   "chunks": [
+    {
+     "en": "On 19 September 1991 two German hikers on a trek in the Ötztal Alps",
+     "zh": "1991年9月19日，两名德国徒步者在奥茨塔尔阿尔卑斯山远足时，"
+    },
+    {
+     "en": "found a corpse by a glacier.",
+     "zh": "在一条冰川旁发现了一具尸体。"
+    }
+   ],
+   "align": [
+    [
+     "On 19 September 1991",
+     "1991年9月19日，"
+    ],
+    [
+     "two German hikers",
+     "两名德国徒步者"
+    ],
+    [
+     "on a trek in the Ötztal Alps",
+     "在奥茨塔尔阿尔卑斯山远足时，"
+    ],
+    [
+     "found a corpse by a glacier.",
+     "在一条冰川旁发现了一具尸体。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "It lay on a ridge at about 3,210 metres, on the border between Austria and Italy.",
+   "zh": "它躺在一道山脊上，海拔约3,210米，位于奥地利与意大利交界处。",
+   "en_markup": "It lay on a **ridge** at about 3,210 metres, on the **border** between Austria and Italy.",
+   "zh_markup": "它躺在一道**山脊**(ridge)上，海拔约3,210米，位于奥地利与意大利**交界处**(border)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "It lay on a ridge at about 3,210 metres, on the border between Austria and Italy.",
+     "zh": "它躺在一道山脊上，海拔约3,210米，位于奥地利与意大利交界处。"
+    }
+   ],
+   "align": [
+    [
+     "It lay",
+     "它躺"
+    ],
+    [
+     "on a ridge",
+     "在一道山脊上，"
+    ],
+    [
+     "at about",
+     "海拔约"
+    ],
+    [
+     "3,210 metres,",
+     "3,210米，"
+    ],
+    [
+     "on",
+     "位于"
+    ],
+    [
+     "the border between Austria and Italy.",
+     "奥地利与意大利交界处。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "The assumption was that a modern-day climber had died on an alpine slope, since glaciers sometimes yield frozen remains.",
+   "zh": "当时的假设是，一名现代登山者死在了高山的山坡上，因为冰川有时会产出冰冻的遗体。",
+   "en_markup": "The **assumption** was that a **modern-day** **climber** had died on an **alpine** **slope**, since glaciers sometimes yield frozen remains.",
+   "zh_markup": "当时的**假设**(assumption)是，一名**现代**(modern-day)**登山者**(climber)死在了**高山的**(alpine)**山坡**(slope)上，因为冰川有时会产出冰冻的遗体。",
+   "video_notes": [
+    "（that…：表语从句，说明 assumption 的内容）",
+    "（since：因为，引出原因状语从句）（yield 在考古与地质发现报道中，该词是标准术语，意为“产出/交出”。它精准描绘了冰川消融时将封存遗体“交还”地表的动态过程。）"
+   ],
+   "chunks": [
+    {
+     "en": "The assumption was that a modern-day climber had died on an alpine slope,",
+     "zh": "当时的假设是，一名现代登山者死在了高山的山坡上，"
+    },
+    {
+     "en": "since glaciers sometimes yield frozen remains.",
+     "zh": "因为冰川有时会产出冰冻的遗体。"
+    }
+   ],
+   "align": [
+    [
+     "The assumption",
+     "当时的假设"
+    ],
+    [
+     "was",
+     "是，"
+    ],
+    [
+     "that a modern-day",
+     "一名现代"
+    ],
+    [
+     "climber",
+     "登山者"
+    ],
+    [
+     "had died on",
+     "死在了"
+    ],
+    [
+     "an alpine",
+     "高山的"
+    ],
+    [
+     "slope,",
+     "山坡上，"
+    ],
+    [
+     "since glaciers",
+     "因为冰川"
+    ],
+    [
+     "sometimes yield",
+     "有时会产出"
+    ],
+    [
+     "frozen remains.",
+     "冰冻的遗体。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "Taking it for a recent death, rescuers used a jackhammer that ripped flesh from his left hip.",
+   "zh": "因为误以为死者刚死不久，救援人员使用风钻（凿冰），（结果）风钻撕下来/扯下了他左侧髋骨的皮肉。",
+   "en_markup": "Taking it for a recent death, rescuers used a **jackhammer** that **ripped** **flesh** from his left **hip**.",
+   "zh_markup": "因为误以为死者刚死不久，救援人员使用**风钻**(jackhammer)（凿冰），（结果）风钻**撕下来/扯下了**(ripped)他左侧**髋骨**(hip)的**皮肉**(flesh)。",
+   "video_notes": [
+    "（take A for B：把A误认为B；Taking…：现在分词短语作状语）",
+    "（that…：定语从句，修饰 jackhammer）"
+   ],
+   "chunks": [
+    {
+     "en": "Taking it for a recent death, rescuers used a jackhammer",
+     "zh": "因为误以为死者刚死不久，救援人员使用风钻（凿冰），"
+    },
+    {
+     "en": "that ripped flesh from his left hip.",
+     "zh": "（结果）风钻撕下来/扯下了他左侧髋骨的皮肉。"
+    }
+   ],
+   "align": [
+    [
+     "Taking it for",
+     "因为误以为"
+    ],
+    [
+     "a recent death,",
+     "死者刚死不久，"
+    ],
+    [
+     "rescuers used",
+     "救援人员使用"
+    ],
+    [
+     "a jackhammer",
+     "风钻（凿冰），"
+    ],
+    [
+     "that ripped",
+     "（结果）风钻撕下来/扯下了"
+    ],
+    [
+     "flesh from his left hip.",
+     "他左侧髋骨的皮肉。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "His possessions told another story: leather and grass clothing, a copper axe, a bow and arrows, all prehistoric artefacts.",
+   "zh": "他的随身物品却说明了另一回事：皮革和草编的衣物，一把铜制斧子，一张弓和几支箭，全是史前人工制品。",
+   "en_markup": "His **possessions** told another story: **leather** and grass clothing, a **copper** **axe**, a bow and arrows, all **prehistoric** **artefacts**.",
+   "zh_markup": "他的**随身物品**(possessions)却说明了另一回事：**皮革**(leather)和草编的衣物，一把**铜制**(copper)**斧子**(axe)，一张弓和几支箭，全是**史前**(prehistoric)**人工制品**(artefacts)。",
+   "video_notes": [
+    "（tell another story：说明另一回事，与前面的判断不同）",
+    "（all prehistoric artefacts：同位语，概括冒号后列出的这些东西）"
+   ],
+   "chunks": [
+    {
+     "en": "His possessions told another story:",
+     "zh": "他的随身物品却说明了另一回事："
+    },
+    {
+     "en": "leather and grass clothing, a copper axe, a bow and arrows,",
+     "zh": "皮革和草编的衣物，一把铜制斧子，一张弓和几支箭，"
+    },
+    {
+     "en": "all prehistoric artefacts.",
+     "zh": "全是史前人工制品。"
+    }
+   ],
+   "align": [
+    [
+     "His possessions",
+     "他的随身物品"
+    ],
+    [
+     "told another story:",
+     "却说明了另一回事："
+    ],
+    [
+     "leather",
+     "皮革"
+    ],
+    [
+     "and grass clothing,",
+     "和草编的衣物，"
+    ],
+    [
+     "a",
+     "一把"
+    ],
+    [
+     "copper",
+     "铜制"
+    ],
+    [
+     "axe,",
+     "斧子，"
+    ],
+    [
+     "a bow and arrows,",
+     "一张弓和几支箭，"
+    ],
+    [
+     "all",
+     "全是"
+    ],
+    [
+     "prehistoric",
+     "史前"
+    ],
+    [
+     "artefacts.",
+     "人工制品。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "Known as Ötzi, the natural mummy was a man who lived about 5,300 years ago, between 3350 and 3105 BC.",
+   "zh": "被称为奥茨的这具天然木乃伊是一名男子，生活在约5,300年前，也就是公元前3350年至前3105年之间。",
+   "en_markup": "Known as Ötzi, the natural **mummy** was a man who lived about 5,300 years ago, between 3350 and 3105 BC.",
+   "zh_markup": "被称为奥茨的这具天然**木乃伊**(mummy)是一名男子，生活在约5,300年前，也就是公元前3350年至前3105年之间。",
+   "video_notes": [
+    "（Known as Ötzi：过去分词短语，补充说明 the natural mummy）",
+    "（who…：定语从句，修饰 a man；between…BC：补充说明具体年代）"
+   ],
+   "chunks": [
+    {
+     "en": "Known as Ötzi, the natural mummy was a man",
+     "zh": "被称为奥茨的这具天然木乃伊是一名男子，"
+    },
+    {
+     "en": "who lived about 5,300 years ago, between 3350 and 3105 BC.",
+     "zh": "生活在约5,300年前，也就是公元前3350年至前3105年之间。"
+    }
+   ],
+   "align": [
+    [
+     "Known as Ötzi,",
+     "被称为奥茨的"
+    ],
+    [
+     "the natural mummy",
+     "这具天然木乃伊"
+    ],
+    [
+     "was a man",
+     "是一名男子，"
+    ],
+    [
+     "who lived",
+     "生活在"
+    ],
+    [
+     "about 5,300 years ago,",
+     "约5,300年前，"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "between 3350 and 3105 BC.",
+     "也就是公元前3350年至前3105年之间。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "en": "In 2001, X-rays revealed a flint arrowhead lodged in his left shoulder, unseen by examiners a decade earlier.",
+   "zh": "2001年，X 光片显示，一枚燧石箭头被卡在了他的左肩里，却未被十年前的检查人员发现。",
+   "en_markup": "In 2001, X-rays revealed a **flint** arrowhead **lodged** in his left shoulder, **unseen** **by** **examiners** a decade earlier.",
+   "zh_markup": "2001年，X 光片显示，一枚**燧石**(flint)箭头**被卡在了**(lodged)他的左肩里，却**未被**(unseen by)十年前的**检查人员**(examiners)**发现**(unseen by)。",
+   "video_notes": [
+    "（lodged in…：过去分词短语作后置定语，修饰 arrowhead）",
+    "（unseen by…：未被……发现/看见；过去分词短语，补充说明箭头；a decade earlier：十年前）"
+   ],
+   "chunks": [
+    {
+     "en": "In 2001, X-rays revealed",
+     "zh": "2001年，X 光片显示，"
+    },
+    {
+     "en": "a flint arrowhead lodged in his left shoulder,",
+     "zh": "一枚燧石箭头被卡在了他的左肩里，"
+    },
+    {
+     "en": "unseen by examiners a decade earlier.",
+     "zh": "却未被十年前的检查人员发现。"
+    }
+   ],
+   "align": [
+    [
+     "In 2001,",
+     "2001年，"
+    ],
+    [
+     "X-rays revealed",
+     "X 光片显示，"
+    ],
+    [
+     "a flint arrowhead",
+     "一枚燧石箭头"
+    ],
+    [
+     "lodged",
+     "被卡在了"
+    ],
+    [
+     "in his left shoulder,",
+     "他的左肩里，"
+    ],
+    [
+     "unseen by examiners a decade earlier.",
+     "却未被十年前的检查人员发现。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "A scanner showed that the puncture had ruptured an artery, a mortal injury causing heavy bleeding, and left a large clot.",
+   "zh": "扫描仪显示，这处穿刺伤撕裂了一条动脉，这是会引起大量出血的致命伤，伤处还留下了一大块血块。",
+   "en_markup": "A **scanner** showed that the **puncture** had **ruptured** an **artery**, a **mortal** injury causing heavy **bleeding**, and left a large **clot**.",
+   "zh_markup": "**扫描仪**(scanner)显示，这处**穿刺伤**(puncture)**撕裂了**(ruptured)一条**动脉**(artery)，这是会引起大量**出血**(bleeding)的**致命**(mortal)伤，伤处还留下了一大块**血块**(clot)。",
+   "video_notes": [
+    "（a mortal injury…：同位语，说明动脉撕裂的后果；causing…：现在分词短语作后置定语，修饰 injury）",
+    "（and left…：与 had ruptured 并列，主语都是 the puncture）"
+   ],
+   "chunks": [
+    {
+     "en": "A scanner showed that the puncture had ruptured an artery,",
+     "zh": "扫描仪显示，这处穿刺伤撕裂了一条动脉，"
+    },
+    {
+     "en": "a mortal injury causing heavy bleeding,",
+     "zh": "这是会引起大量出血的致命伤，"
+    },
+    {
+     "en": "and left a large clot.",
+     "zh": "伤处还留下了一大块血块。"
+    }
+   ],
+   "align": [
+    [
+     "A scanner showed",
+     "扫描仪显示，"
+    ],
+    [
+     "that the puncture",
+     "这处穿刺伤"
+    ],
+    [
+     "had ruptured",
+     "撕裂了"
+    ],
+    [
+     "an",
+     "一条"
+    ],
+    [
+     "artery,",
+     "动脉，"
+    ],
+    [
+     "a mortal injury causing heavy bleeding,",
+     "这是会引起大量出血的致命伤，"
+    ],
+    [
+     "and left",
+     "伤处还留下了"
+    ],
+    [
+     "a large clot.",
+     "一大块血块。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Researchers believe he died within minutes.",
+   "zh": "研究者认为，他在几分钟内就死了。",
+   "en_markup": "Researchers believe he died within minutes.",
+   "zh_markup": "研究者认为，他在几分钟内就死了。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Researchers believe he died within minutes.",
+     "zh": "研究者认为，他在几分钟内就死了。"
+    }
+   ],
+   "align": [
+    [
+     "Researchers believe",
+     "研究者认为，"
+    ],
+    [
+     "he died within minutes.",
+     "他在几分钟内就死了。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "He was about 46.",
+   "zh": "他死时约46岁。",
+   "en_markup": "He was about 46.",
+   "zh_markup": "他死时约46岁。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "He was about 46.",
+     "zh": "他死时约46岁。"
+    }
+   ],
+   "align": [
+    [
+     "He was",
+     "他死时"
+    ],
+    [
+     "about 46.",
+     "约46岁。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "Another person, it is thought, killed him.",
+   "zh": "据认为，是另一个人杀死了他。",
+   "en_markup": "Another person, **it is thought**, killed him.",
+   "zh_markup": "**据认为**(it is thought)，是另一个人杀死了他。",
+   "video_notes": [
+    "（it is thought：插入语，据认为）"
+   ],
+   "chunks": [
+    {
+     "en": "Another person, it is thought, killed him.",
+     "zh": "据认为，是另一个人杀死了他。"
+    }
+   ],
+   "align": [
+    [
+     "Another person, it is thought,",
+     "据认为，是另一个人"
+    ],
+    [
+     "killed him.",
+     "杀死了他。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "From the wound's depth researchers inferred that an archer shot him from the rear, at about 30 metres.",
+   "zh": "根据伤口的深度，研究者推断，一名弓箭手从背后约30米处向他射了箭。",
+   "en_markup": "From the wound's depth researchers **inferred** that an **archer** shot him from the **rear**, at about 30 metres.",
+   "zh_markup": "根据伤口的深度，研究者**推断**(inferred)，一名**弓箭手**(archer)从**背后**(rear)约30米处向他射了箭。",
+   "video_notes": [
+    "（infer A from B：根据B推断A，这里 From… 提到了句首；that…：宾语从句）"
+   ],
+   "chunks": [
+    {
+     "en": "From the wound's depth researchers inferred",
+     "zh": "根据伤口的深度，研究者推断，"
+    },
+    {
+     "en": "that an archer shot him from the rear, at about 30 metres.",
+     "zh": "一名弓箭手从背后约30米处向他射了箭。"
+    }
+   ],
+   "align": [
+    [
+     "From",
+     "根据"
+    ],
+    [
+     "the wound's depth",
+     "伤口的深度，"
+    ],
+    [
+     "researchers inferred",
+     "研究者推断，"
+    ],
+    [
+     "that an archer",
+     "一名弓箭手"
+    ],
+    [
+     "shot him from the rear, at about 30 metres.",
+     "从背后约30米处向他射了箭。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "The shooter probably caught him unawares.",
+   "zh": "射手很可能趁他毫无防备时出手。",
+   "en_markup": "The **shooter** probably **caught** him **unawares**.",
+   "zh_markup": "**射手**(shooter)很可能**趁**(caught unawares)他**毫无防备时出手**(caught unawares)。",
+   "video_notes": [
+    "（catch sb unawares：趁某人毫无防备时出手，冷不防地袭击某人）（打了某人一个措手不及）"
+   ],
+   "chunks": [
+    {
+     "en": "The shooter probably caught him unawares.",
+     "zh": "射手很可能趁他毫无防备时出手。"
+    }
+   ],
+   "align": [
+    [
+     "The shooter",
+     "射手"
+    ],
+    [
+     "probably",
+     "很可能"
+    ],
+    [
+     "caught him unawares.",
+     "趁他毫无防备时出手。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "A 2018 study found he had dined on dried ibex meat and fat, red deer, and einkorn wheat, a hearty, nourishing meal reportedly consumed within two hours of his death.",
+   "zh": "2018年的一项研究发现，他吃了干野山羊肉和脂肪、马鹿肉和单粒小麦——一顿丰盛而有营养的饭，据报道是在他死前两小时内吃下的。",
+   "en_markup": "A 2018 study found he had **dined on** dried ibex meat and fat, **red deer**, and einkorn wheat, a **hearty**, **nourishing** meal reportedly **consumed** within two hours of his death.",
+   "zh_markup": "2018年的一项研究发现，他**吃了**(dined on)干野山羊肉和脂肪、**马鹿**(red deer)肉和单粒小麦——一顿**丰盛**(hearty)而**有营养的**(nourishing)饭，据报道是在他死前两小时内**吃下的**(consumed)。",
+   "video_notes": [
+    "（dine on：正餐吃的是……；它不是日常的“吃（eat）”，而是特指“正餐吃了什么（好东西）”。）"
+   ],
+   "chunks": [
+    {
+     "en": "A 2018 study found he had dined on",
+     "zh": "2018年的一项研究发现，他吃了"
+    },
+    {
+     "en": "dried ibex meat and fat, red deer, and einkorn wheat,",
+     "zh": "干野山羊肉和脂肪、马鹿肉和单粒小麦——"
+    },
+    {
+     "en": "a hearty, nourishing meal reportedly consumed within two hours of his death.",
+     "zh": "一顿丰盛而有营养的饭，据报道是在他死前两小时内吃下的。"
+    }
+   ],
+   "align": [
+    [
+     "A 2018 study found",
+     "2018年的一项研究发现，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "had dined on",
+     "吃了"
+    ],
+    [
+     "dried ibex meat",
+     "干野山羊肉"
+    ],
+    [
+     "and fat,",
+     "和脂肪、"
+    ],
+    [
+     "red deer,",
+     "马鹿肉"
+    ],
+    [
+     "and einkorn wheat,",
+     "和单粒小麦——"
+    ],
+    [
+     "a",
+     "一顿"
+    ],
+    [
+     "hearty,",
+     "丰盛而"
+    ],
+    [
+     "nourishing meal",
+     "有营养的饭，"
+    ],
+    [
+     "reportedly",
+     "据报道是"
+    ],
+    [
+     "consumed within two hours of his death.",
+     "在他死前两小时内吃下的。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "Curators in Bolzano now keep Ötzi, whose 61 tattoos on joints and spine were perhaps an early form of acupuncture.",
+   "zh": "博尔扎诺的博物馆馆长如今保管着奥茨，他身上的61处文身位于关节和脊柱，也许是一种早期的针灸形式。",
+   "en_markup": "**Curators** in Bolzano now keep Ötzi, whose 61 **tattoos** on **joints** and **spine** were perhaps an early form of **acupuncture**.",
+   "zh_markup": "博尔扎诺的博物馆**馆长**(Curators)如今保管着奥茨，他身上的61处**文身**(tattoos)位于**关节**(joints)和**脊柱**(spine)，也许是一种早期的**针灸**(acupuncture)形式。",
+   "video_notes": [
+    "（whose…：非限制性定语从句，修饰 Ötzi；an early form of…：……的一种早期形式）"
+   ],
+   "chunks": [
+    {
+     "en": "Curators in Bolzano now keep Ötzi,",
+     "zh": "博尔扎诺的博物馆馆长如今保管着奥茨，"
+    },
+    {
+     "en": "whose 61 tattoos on joints and spine were perhaps an early form of acupuncture.",
+     "zh": "他身上的61处文身位于关节和脊柱，也许是一种早期的针灸形式。"
+    }
+   ],
+   "align": [
+    [
+     "Curators in Bolzano",
+     "博尔扎诺的博物馆馆长"
+    ],
+    [
+     "now keep",
+     "如今保管着"
+    ],
+    [
+     "Ötzi,",
+     "奥茨，"
+    ],
+    [
+     "whose 61 tattoos",
+     "他身上的61处文身"
+    ],
+    [
+     "on",
+     "位于"
+    ],
+    [
+     "joints",
+     "关节"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "spine",
+     "脊柱，"
+    ],
+    [
+     "were perhaps",
+     "也许是"
+    ],
+    [
+     "an early form of acupuncture.",
+     "一种早期的针灸形式。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "The archer's identity is an enigma, and any motive is conjecture.",
+   "zh": "那名弓箭手的身份是个谜团，任何动机都只是猜测。",
+   "en_markup": "The archer's **identity** is an **enigma**, and any **motive** is **conjecture**.",
+   "zh_markup": "那名弓箭手的**身份**(identity)是个**谜团**(enigma)，任何**动机**(motive)都只是**猜测**(conjecture)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The archer's identity is an enigma,",
+     "zh": "那名弓箭手的身份是个谜团，"
+    },
+    {
+     "en": "and any motive is conjecture.",
+     "zh": "任何动机都只是猜测。"
+    }
+   ],
+   "align": [
+    [
+     "The archer's identity",
+     "那名弓箭手的身份"
+    ],
+    [
+     "is an enigma,",
+     "是个谜团，"
+    ],
+    [
+     "and any motive",
+     "任何动机"
+    ],
+    [
+     "is conjecture.",
+     "都只是猜测。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "Ötzi has a name, a last meal, and a cause of death, while his anonymous killer has none.",
+   "zh": "奥茨有名字，有最后一餐，也有死因，而杀他的那个不知姓名的凶手这些都没有。",
+   "en_markup": "Ötzi has a name, a last meal, and a cause of death, while his **anonymous** **killer** has none.",
+   "zh_markup": "奥茨有名字，有最后一餐，也有死因，而杀他的那个**不知姓名的**(anonymous)**凶手**(killer)这些都没有。",
+   "video_notes": [
+    "（while：而，表对比；none：指名字、最后一餐和死因，一样也没有）"
+   ],
+   "chunks": [
+    {
+     "en": "Ötzi has a name, a last meal, and a cause of death,",
+     "zh": "奥茨有名字，有最后一餐，也有死因，"
+    },
+    {
+     "en": "while his anonymous killer has none.",
+     "zh": "而杀他的那个不知姓名的凶手这些都没有。"
+    }
+   ],
+   "align": [
+    [
+     "Ötzi has a name,",
+     "奥茨有名字，"
+    ],
+    [
+     "a last meal,",
+     "有最后一餐，"
+    ],
+    [
+     "and",
+     "也有"
+    ],
+    [
+     "a cause of death,",
+     "死因，"
+    ],
+    [
+     "while",
+     "而"
+    ],
+    [
+     "his anonymous",
+     "杀他的那个不知姓名的"
+    ],
+    [
+     "killer",
+     "凶手"
+    ],
+    [
+     "has none.",
+     "这些都没有。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "hikers",
+   "zh_video": "徒步者",
+   "headword": "hiker",
+   "pos": "n.",
+   "table_definition": "本文：徒步者；n. (hiker) 徒步旅行者（experienced hikers）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "trek",
+   "zh_video": "远足",
+   "headword": "trek",
+   "pos": "n.",
+   "table_definition": "本文：远足；n./v. 艰苦的长途跋涉，远足（a trek through the jungle；trek across the desert）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "corpse",
+   "zh_video": "尸体",
+   "headword": "corpse",
+   "pos": "n.",
+   "table_definition": "本文：尸体；n. 尸体（identify a corpse）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 1,
+   "en": "glacier",
+   "zh_video": "冰川",
+   "headword": "glacier",
+   "pos": "n.",
+   "table_definition": "本文：冰川；n. 冰川（a retreating glacier）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "ridge",
+   "zh_video": "山脊",
+   "headword": "ridge",
+   "pos": "n.",
+   "table_definition": "本文：山脊；n. 山脊，脊状突起（walk along the ridge）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "border",
+   "zh_video": "交界处",
+   "headword": "border",
+   "pos": "n.",
+   "table_definition": "本文：交界处；n. 边界，边境；交界处（the border between Austria and Italy）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 3,
+   "en": "assumption",
+   "zh_video": "假设",
+   "headword": "assumption",
+   "pos": "n.",
+   "table_definition": "本文：假设；n. 假定，推测（a reasonable assumption；on the assumption that…）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 3,
+   "en": "modern-day",
+   "zh_video": "现代",
+   "headword": "modern-day",
+   "pos": "adj.",
+   "table_definition": "本文：现代；adj. 现代的，当今的（modern-day Britain；a modern-day hero）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "climber",
+   "zh_video": "登山者",
+   "headword": "climber",
+   "pos": "n.",
+   "table_definition": "本文：登山者；n. 登山者（a rock climber）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "alpine",
+   "zh_video": "高山的",
+   "headword": "alpine",
+   "pos": "adj.",
+   "table_definition": "本文：高山的；adj. 高山的，阿尔卑斯山的（alpine plants/meadows）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "slope",
+   "zh_video": "山坡",
+   "headword": "slope",
+   "pos": "n.",
+   "table_definition": "本文：山坡；n. 斜坡，山坡（a steep slope；ski slopes）"
+  },
+  {
+   "id": 12,
+   "para": 2,
+   "sentence": 4,
+   "en": "jackhammer",
+   "zh_video": "风钻",
+   "headword": "jackhammer",
+   "pos": "n.",
+   "table_definition": "本文：风钻；n. 风钻，手提凿岩机（the noise of a jackhammer）"
+  },
+  {
+   "id": 13,
+   "para": 2,
+   "sentence": 4,
+   "en": "ripped",
+   "zh_video": "撕下来/扯下了",
+   "headword": "rip",
+   "pos": "v.",
+   "table_definition": "本文：撕下来/扯下了；v. (rip) 撕，扯；撕破（rip open a letter；rip one's shirt）"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 4,
+   "en": "flesh",
+   "zh_video": "皮肉",
+   "headword": "flesh",
+   "pos": "n.",
+   "table_definition": "本文：皮肉；n. 肉，皮肉（flesh and blood；the flesh of a fruit）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "hip",
+   "zh_video": "髋骨",
+   "headword": "hip",
+   "pos": "n.",
+   "table_definition": "本文：髋骨；n. 髋部，臀部（a hip replacement；hands on hips）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 5,
+   "en": "possessions",
+   "zh_video": "随身物品",
+   "headword": "possession",
+   "pos": "n.",
+   "table_definition": "本文：随身物品；n. (possession) 财物，随身物品（personal possessions）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 5,
+   "en": "leather",
+   "zh_video": "皮革",
+   "headword": "leather",
+   "pos": "n.",
+   "table_definition": "本文：皮革；n. 皮革（a leather jacket/sofa）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "copper",
+   "zh_video": "铜制",
+   "headword": "copper",
+   "pos": "n.",
+   "table_definition": "本文：铜制；n./adj. 铜；铜制的（copper wire/pots）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "axe",
+   "zh_video": "斧子",
+   "headword": "axe",
+   "pos": "n.",
+   "table_definition": "本文：斧子；n. 斧子（chop wood with an axe）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 5,
+   "en": "prehistoric",
+   "zh_video": "史前",
+   "headword": "prehistoric",
+   "pos": "adj.",
+   "table_definition": "本文：史前；adj. 史前的（prehistoric times/animals）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 5,
+   "en": "artefacts",
+   "zh_video": "人工制品",
+   "headword": "artefact",
+   "pos": "n.",
+   "table_definition": "本文：人工制品；n. (artefact) 手工制品，器物（ancient artefacts）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "mummy",
+   "zh_video": "木乃伊",
+   "headword": "mummy",
+   "pos": "n.",
+   "table_definition": "本文：木乃伊；n. 木乃伊（an Egyptian mummy）"
+  },
+  {
+   "id": 23,
+   "para": 3,
+   "sentence": 7,
+   "en": "flint",
+   "zh_video": "燧石",
+   "headword": "flint",
+   "pos": "n.",
+   "table_definition": "本文：燧石；n. 燧石，打火石（flint tools）"
+  },
+  {
+   "id": 24,
+   "para": 3,
+   "sentence": 7,
+   "en": "lodged",
+   "zh_video": "被卡在了",
+   "headword": "lodge",
+   "pos": "v.",
+   "table_definition": "本文：被卡在了；v. (lodge) 卡住，嵌入（a bone lodged in his throat）"
+  },
+  {
+   "id": 25,
+   "para": 3,
+   "sentence": null,
+   "en": "unseen by",
+   "zh_video": "未被……发现",
+   "headword": "unseen by",
+   "pos": "adj.",
+   "table_definition": "本文：未被……发现；adj. 未被看见的（remain unseen；unseen dangers）"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 7,
+   "en": "examiners",
+   "zh_video": "检查人员",
+   "headword": "examiner",
+   "pos": "n.",
+   "table_definition": "本文：检查人员；n. (examiner) 检查者；考官（a medical examiner；exam examiners）"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 8,
+   "en": "scanner",
+   "zh_video": "扫描仪",
+   "headword": "scanner",
+   "pos": "n.",
+   "table_definition": "本文：扫描仪；n. 扫描仪（a CT scanner；a barcode scanner）"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "puncture",
+   "zh_video": "穿刺伤",
+   "headword": "puncture",
+   "pos": "n.",
+   "table_definition": "本文：穿刺伤；n. 刺孔，穿刺伤；（轮胎）扎孔（a puncture wound；fix a puncture）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "ruptured",
+   "zh_video": "撕裂了",
+   "headword": "rupture",
+   "pos": "v.",
+   "table_definition": "本文：撕裂了；v. (rupture) 使破裂，撕裂（a ruptured appendix/pipe）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "artery",
+   "zh_video": "动脉",
+   "headword": "artery",
+   "pos": "n.",
+   "table_definition": "本文：动脉；n. 动脉（a ruptured artery；carry blood away from the heart）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 8,
+   "en": "mortal",
+   "zh_video": "致命",
+   "headword": "mortal",
+   "pos": "adj.",
+   "table_definition": "本文：致命；adj. 致命的；终将死亡的（a mortal wound；all men are mortal）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 8,
+   "en": "bleeding",
+   "zh_video": "出血",
+   "headword": "bleeding",
+   "pos": "n.",
+   "table_definition": "本文：出血；n. 出血（stop the bleeding；internal bleeding）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 8,
+   "en": "clot",
+   "zh_video": "血块",
+   "headword": "clot",
+   "pos": "n.",
+   "table_definition": "本文：血块；n. 血块，凝块（a blood clot）"
+  },
+  {
+   "id": 34,
+   "para": 4,
+   "sentence": 11,
+   "en": "it is thought",
+   "zh_video": "据认为",
+   "headword": "it is thought",
+   "pos": "插入语",
+   "table_definition": "本文：据认为；短语. 据认为，人们认为（it is thought that …）"
+  },
+  {
+   "id": 35,
+   "para": 4,
+   "sentence": 12,
+   "en": "inferred",
+   "zh_video": "推断",
+   "headword": "infer",
+   "pos": "v.",
+   "table_definition": "本文：推断；v. (infer) 推断（infer sth from the evidence）"
+  },
+  {
+   "id": 36,
+   "para": 4,
+   "sentence": 12,
+   "en": "archer",
+   "zh_video": "弓箭手",
+   "headword": "archer",
+   "pos": "n.",
+   "table_definition": "本文：弓箭手；n. 弓箭手（a skilled archer）"
+  },
+  {
+   "id": 37,
+   "para": 4,
+   "sentence": 12,
+   "en": "rear",
+   "zh_video": "背后",
+   "headword": "rear",
+   "pos": "n.",
+   "table_definition": "本文：背后；n. 后部，背后（at the rear of the house；attack from the rear）"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 13,
+   "en": "shooter",
+   "zh_video": "射手",
+   "headword": "shooter",
+   "pos": "n.",
+   "table_definition": "本文：射手；n. 射手；枪手（a sharp shooter；the gunman/shooter）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": null,
+   "en": "caught unawares",
+   "zh_video": "趁……毫无防备时出手",
+   "headword": "caught unawares",
+   "pos": "adv.",
+   "table_definition": "本文：趁……毫无防备时出手；adv. 不知不觉地，冷不防（catch/take sb unawares）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 14,
+   "en": "dined on",
+   "zh_video": "吃了",
+   "headword": "dine on",
+   "pos": "v.",
+   "table_definition": "本文：吃了；v. (dine) 进餐，用餐（dine out；dine on fish）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 14,
+   "en": "red deer",
+   "zh_video": "马鹿",
+   "headword": "red deer",
+   "pos": "n.",
+   "table_definition": "本文：马鹿；n. 鹿（a herd of deer；red deer）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 14,
+   "en": "hearty",
+   "zh_video": "丰盛",
+   "headword": "hearty",
+   "pos": "adj.",
+   "table_definition": "本文：丰盛；adj. 丰盛的；热情的（a hearty breakfast；a hearty welcome）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 14,
+   "en": "nourishing",
+   "zh_video": "有营养的",
+   "headword": "nourishing",
+   "pos": "adj.",
+   "table_definition": "本文：有营养的；adj. 有营养的（a nourishing soup）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 14,
+   "en": "consumed",
+   "zh_video": "吃下的",
+   "headword": "consume",
+   "pos": "v.",
+   "table_definition": "本文：吃下的；v. (consume) 吃，喝；消耗（consume alcohol；consume energy）"
+  },
+  {
+   "id": 45,
+   "para": 5,
+   "sentence": 15,
+   "en": "curators",
+   "zh_video": "馆长",
+   "headword": "curator",
+   "pos": "n.",
+   "table_definition": "本文：馆长；n. (curator) （博物馆等的）馆长，管理员（a museum curator）"
+  },
+  {
+   "id": 46,
+   "para": 5,
+   "sentence": 15,
+   "en": "tattoos",
+   "zh_video": "文身",
+   "headword": "tattoo",
+   "pos": "n.",
+   "table_definition": "本文：文身；n. (tattoo) 文身（have a tattoo done）"
+  },
+  {
+   "id": 47,
+   "para": 5,
+   "sentence": 15,
+   "en": "joints",
+   "zh_video": "关节",
+   "headword": "joints",
+   "pos": "n.",
+   "table_definition": "本文：关节；n. (joint) 关节（knee joints；joint pain）"
+  },
+  {
+   "id": 48,
+   "para": 5,
+   "sentence": 15,
+   "en": "spine",
+   "zh_video": "脊柱",
+   "headword": "spine",
+   "pos": "n.",
+   "table_definition": "本文：脊柱；n. 脊柱，脊梁（a curved spine；the spine of a book）"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 15,
+   "en": "acupuncture",
+   "zh_video": "针灸",
+   "headword": "acupuncture",
+   "pos": "n.",
+   "table_definition": "本文：针灸；n. 针灸（treat back pain with acupuncture）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 16,
+   "en": "identity",
+   "zh_video": "身份",
+   "headword": "identity",
+   "pos": "n.",
+   "table_definition": "本文：身份；n. 身份；特性（reveal sb's identity；national identity）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 16,
+   "en": "enigma",
+   "zh_video": "谜团",
+   "headword": "enigma",
+   "pos": "n.",
+   "table_definition": "本文：谜团；n. 谜，难以理解的人或事（remain an enigma）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 16,
+   "en": "motive",
+   "zh_video": "动机",
+   "headword": "motive",
+   "pos": "n.",
+   "table_definition": "本文：动机；n. 动机（a motive for the crime；an ulterior motive）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 16,
+   "en": "conjecture",
+   "zh_video": "猜测",
+   "headword": "conjecture",
+   "pos": "n.",
+   "table_definition": "本文：猜测；n. 推测，猜想（pure conjecture；a matter of conjecture）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 17,
+   "en": "anonymous",
+   "zh_video": "不知姓名的",
+   "headword": "anonymous",
+   "pos": "adj.",
+   "table_definition": "本文：不知姓名的；adj. 匿名的，不知名的（an anonymous donor/letter）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 17,
+   "en": "killer",
+   "zh_video": "凶手",
+   "headword": "killer",
+   "pos": "n.",
+   "table_definition": "本文：凶手；n. 杀手，凶手（a serial killer；hunt for the killer）"
+  }
+ ]
+}

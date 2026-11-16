@@ -1,0 +1,1592 @@
+{
+ "no": "24",
+ "title_en": "The Steel Box That Remade the World",
+ "title_zh": "集装箱：重塑世界的铁盒子",
+ "source_id": "61",
+ "source_hashes": {
+  "JSON": "e1cfaa71553aa30b0d3e2abc4c13642b511e666272e1b80e14eb85ca3dbb4ac6",
+  "GEN": "e1cfaa71553aa30b0d3e2abc4c13642b511e666272e1b80e14eb85ca3dbb4ac6",
+  "MD": "48881d3cf07296b45ef45ceb3a35a2fd1578f3f66a2d397a9140e84117f38d65",
+  "illustration": "314e920ef5867382273fac6f00cb995bfb98a6969ce7713dc8e6b3babcac7de2"
+ },
+ "summary": [
+  [
+   "启航",
+   "过去码头逐件搬散货，船常久停；1956年，理想X号载58个集装箱启航。"
+  ],
+  [
+   "降本",
+   "据运营方估算，该船每吨装船费约0.16美元，远低于当时散货的5.83美元。"
+  ],
+  [
+   "互通",
+   "各家箱型原不兼容；运营方海陆公司免费开放专利，▹推动标准统一，箱子可在船、卡车和火车间转运。"
+  ],
+  [
+   "转移",
+   "货运转向新港，老码头和工人生计受冲击；▹1963至1976年，纽约滨水区就业缩减约四分之三。"
+  ],
+  [
+   "回报",
+   "2016年一项研究估计，集装箱化在20年间使工业化国家间贸易累计增加约700%。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "On 26 April 1956 a converted Second World War tanker, the Ideal X, slipped out of Port Newark, New Jersey, for Houston.",
+   "zh": "1956年4月26日，一艘改造过的二战油轮“理想X号”，悄然驶离新泽西州纽瓦克港，开往休斯敦。",
+   "en_markup": "On 26 April 1956 a **converted** Second World War **tanker**, the Ideal X, **slipped out of** Port Newark, New Jersey, for Houston.",
+   "zh_markup": "1956年4月26日，一艘**改造过的**(converted)二战**油轮**(tanker)“理想X号”，**悄然驶离**(slipped out of)新泽西州纽瓦克港，开往休斯敦。",
+   "video_notes": [
+    "（a converted…tanker：主语；the Ideal X：同位语，补充说明 tanker）",
+    "（slip out of：悄悄离开；for：表示去向，开往）"
+   ],
+   "chunks": [
+    {
+     "en": "On 26 April 1956 a converted Second World War tanker, the Ideal X,",
+     "zh": "1956年4月26日，一艘改造过的二战油轮“理想X号”，"
+    },
+    {
+     "en": "slipped out of Port Newark, New Jersey, for Houston.",
+     "zh": "悄然驶离新泽西州纽瓦克港，开往休斯敦。"
+    }
+   ],
+   "align": [
+    [
+     "On 26 April 1956",
+     "1956年4月26日，"
+    ],
+    [
+     "a",
+     "一艘"
+    ],
+    [
+     "converted",
+     "改造过的"
+    ],
+    [
+     "Second World War",
+     "二战"
+    ],
+    [
+     "tanker,",
+     "油轮"
+    ],
+    [
+     "the Ideal X,",
+     "“理想X号”，"
+    ],
+    [
+     "slipped out of",
+     "悄然驶离"
+    ],
+    [
+     "Port Newark, New Jersey,",
+     "新泽西州纽瓦克港，"
+    ],
+    [
+     "for Houston.",
+     "开往休斯敦。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "Clamped to her deck were 58 containers, trailer bodies detached from their wheels and chassis.",
+   "zh": "固定在她甲板上的是58个集装箱，其实就是从车轮和底盘上拆卸下来的挂车车厢。",
+   "en_markup": "**Clamped** to her deck were 58 **containers**, **trailer** bodies **detached from** their **wheels** and **chassis**.",
+   "zh_markup": "**固定**(clamped)在她甲板上的是58个**集装箱**(containers)，其实就是**从**(detached from)**车轮**(wheels)和**底盘**(chassis)**上拆卸下来的**(detached from)**挂车**(trailer)车厢。",
+   "video_notes": [
+    "（倒装句：表语 Clamped to her deck 提前，主语是 58 containers；clamp A to B：把 A 固定在 B 上；her 指船）",
+    "（trailer bodies 挂车车厢：同位语，补充说明 containers；detached from…：过去分词短语作后置定语，修饰 bodies；detach from：指将某物从原本附着、连接或所属的主体上分离或拆卸下来）"
+   ],
+   "chunks": [
+    {
+     "en": "Clamped to her deck were 58 containers,",
+     "zh": "固定在她甲板上的是58个集装箱，"
+    },
+    {
+     "en": "trailer bodies detached from their wheels and chassis.",
+     "zh": "其实就是从车轮和底盘上拆卸下来的挂车车厢。"
+    }
+   ],
+   "align": [
+    [
+     "Clamped",
+     "固定"
+    ],
+    [
+     "to her deck",
+     "在她甲板上的"
+    ],
+    [
+     "were",
+     "是"
+    ],
+    [
+     "58",
+     "58个"
+    ],
+    [
+     "containers,",
+     "集装箱，"
+    ],
+    [
+     "trailer bodies detached from their wheels and chassis.",
+     "其实就是从车轮和底盘上拆卸下来的挂车车厢。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "Few spectators would have taken so unremarkable a cargo for a landmark.",
+   "zh": "极少数旁观者会把一批如此平淡无奇的货物当作一个里程碑。",
+   "en_markup": "Few **spectators** would have taken so **unremarkable** a **cargo** for a **landmark**.",
+   "zh_markup": "极少数**旁观者**(spectators)会把一批如此**平淡无奇的**(unremarkable)**货物**(cargo)当作一个**里程碑**(landmark)。",
+   "video_notes": [
+    "（take A for B：把 A 当作 B；so＋形容词＋a＋名词：这样……的一个；would have done：对过去情况的推测）"
+   ],
+   "chunks": [
+    {
+     "en": "Few spectators would have taken so unremarkable a cargo for a landmark.",
+     "zh": "极少数旁观者会把一批如此平淡无奇的货物当作一个里程碑。"
+    }
+   ],
+   "align": [
+    [
+     "Few",
+     "极少数"
+    ],
+    [
+     "spectators",
+     "旁观者"
+    ],
+    [
+     "would have taken",
+     "会把"
+    ],
+    [
+     "so",
+     "一批如此"
+    ],
+    [
+     "unremarkable",
+     "平淡无奇的"
+    ],
+    [
+     "a cargo",
+     "货物"
+    ],
+    [
+     "for a landmark.",
+     "当作一个里程碑。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "At the time, freight travelled loose.",
+   "zh": "那时，货物都是散装运输。",
+   "en_markup": "At the time, **freight** travelled **loose**.",
+   "zh_markup": "那时，**货物**(freight)都是**散装**(loose)运输。",
+   "video_notes": [
+    "（travelled loose：loose 作补语，说明货物运输时的状态）"
+   ],
+   "chunks": [
+    {
+     "en": "At the time, freight travelled loose.",
+     "zh": "那时，货物都是散装运输。"
+    }
+   ],
+   "align": [
+    [
+     "At the time,",
+     "那时，"
+    ],
+    [
+     "freight",
+     "货物"
+    ],
+    [
+     "travelled loose.",
+     "都是散装运输。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "Gangs of twenty or more dockworkers carried sacks, barrels, and crates piece by piece.",
+   "zh": "一帮二十多名或更多的码头工人，一件件地搬运麻袋、桶和板条箱。",
+   "en_markup": "**Gangs** of twenty or more **dockworkers** carried **sacks**, **barrels**, and **crates** piece by piece.",
+   "zh_markup": "一**帮**(gangs)二十多名或更多的**码头工人**(dockworkers)，一件件地搬运**麻袋**(sacks)、**桶**(barrels)和**板条箱**(crates)。",
+   "video_notes": [
+    "（of twenty or more dockworkers：of 结构作后置定语，修饰 Gangs）",
+    "（piece by piece：一件一件地）"
+   ],
+   "chunks": [
+    {
+     "en": "Gangs of twenty or more dockworkers",
+     "zh": "一帮二十多名或更多的码头工人，"
+    },
+    {
+     "en": "carried sacks, barrels, and crates piece by piece.",
+     "zh": "一件件地搬运麻袋、桶和板条箱。"
+    }
+   ],
+   "align": [
+    [
+     "Gangs",
+     "一帮"
+    ],
+    [
+     "of twenty or more",
+     "二十多名或更多的"
+    ],
+    [
+     "dockworkers",
+     "码头工人，"
+    ],
+    [
+     "carried",
+     "一件件地搬运"
+    ],
+    [
+     "sacks,",
+     "麻袋、"
+    ],
+    [
+     "barrels,",
+     "桶"
+    ],
+    [
+     "and crates piece by piece.",
+     "和板条箱。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "It was strenuous drudgery.",
+   "zh": "这是繁重的/费力的苦差事。",
+   "en_markup": "It was **strenuous** **drudgery**.",
+   "zh_markup": "这是**繁重的/费力的**(strenuous)**苦差事**(drudgery)。",
+   "video_notes": [
+    "（strenuous：形容需要耗费大量体力或精力的，多用于体力活、运动或努力，如 strenuous work 繁重的工作、strenuous exercise 剧烈运动、make strenuous efforts 尽力）"
+   ],
+   "chunks": [
+    {
+     "en": "It was strenuous drudgery.",
+     "zh": "这是繁重的/费力的苦差事。"
+    }
+   ],
+   "align": [
+    [
+     "It was",
+     "这是"
+    ],
+    [
+     "strenuous",
+     "繁重的/费力的"
+    ],
+    [
+     "drudgery.",
+     "苦差事。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "Ships could spend up to half their time berthed, and theft was rampant.",
+   "zh": "船舶可能会花多达一半的时间停泊在港，而且偷窃猖獗。",
+   "en_markup": "Ships could spend **up to** half their time **berthed**, and **theft** was **rampant**.",
+   "zh_markup": "船舶可能会花**多达**(up to)一半的时间**停泊**(berthed)在港，而且**偷窃**(theft)**猖獗**(rampant)。",
+   "video_notes": [
+    "（spend time＋过去分词：花时间处于……状态；up to：多达）"
+   ],
+   "chunks": [
+    {
+     "en": "Ships could spend up to half their time berthed,",
+     "zh": "船舶可能会花多达一半的时间停泊在港，"
+    },
+    {
+     "en": "and theft was rampant.",
+     "zh": "而且偷窃猖獗。"
+    }
+   ],
+   "align": [
+    [
+     "Ships",
+     "船舶"
+    ],
+    [
+     "could",
+     "可能会"
+    ],
+    [
+     "spend",
+     "花"
+    ],
+    [
+     "up to",
+     "多达"
+    ],
+    [
+     "half their time",
+     "一半的时间"
+    ],
+    [
+     "berthed,",
+     "停泊在港，"
+    ],
+    [
+     "and",
+     "而且"
+    ],
+    [
+     "theft",
+     "偷窃"
+    ],
+    [
+     "was rampant.",
+     "猖獗。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 2,
+   "en": "In 1956 loading loose cargo cost about $5.83 a ton; loading the Ideal X cost, by the company's reckoning, about 16 cents.",
+   "zh": "1956年，装载散货每吨花费约5.83美元；据公司估算，装载理想X号花费约16美分。",
+   "en_markup": "In 1956 **loading** loose cargo cost about $5.83 a ton; loading the Ideal X cost, **by** the company's **reckoning**, about 16 cents.",
+   "zh_markup": "1956年，**装载**(loading)散货每吨花费约5.83美元；**据**(by reckoning)公司**估算**(by reckoning)，装载理想X号花费约16美分。",
+   "video_notes": [
+    "（loading loose cargo：动名词短语作主语）",
+    "（by one's reckoning：根据某人的估算；by the company's reckoning 是插入语）"
+   ],
+   "chunks": [
+    {
+     "en": "In 1956 loading loose cargo cost about $5.83 a ton;",
+     "zh": "1956年，装载散货每吨花费约5.83美元；"
+    },
+    {
+     "en": "loading the Ideal X cost, by the company's reckoning, about 16 cents.",
+     "zh": "据公司估算，装载理想X号花费约16美分。"
+    }
+   ],
+   "align": [
+    [
+     "In 1956",
+     "1956年，"
+    ],
+    [
+     "loading",
+     "装载"
+    ],
+    [
+     "loose cargo",
+     "散货"
+    ],
+    [
+     "cost about $5.83 a ton;",
+     "每吨花费约5.83美元；"
+    ],
+    [
+     "loading the Ideal X cost, by the company's reckoning,",
+     "据公司估算，装载理想X号花费"
+    ],
+    [
+     "about 16 cents.",
+     "约16美分。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Containers were not new.",
+   "zh": "集装箱并不新鲜。",
+   "en_markup": "Containers were not new.",
+   "zh_markup": "集装箱并不新鲜。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Containers were not new.",
+     "zh": "集装箱并不新鲜。"
+    }
+   ],
+   "align": [
+    [
+     "Containers",
+     "集装箱"
+    ],
+    [
+     "were not new.",
+     "并不新鲜。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "The hurdle was consensus: rival firms' boxes had incompatible dimensions and latches.",
+   "zh": "障碍在于共识：竞争对手公司的箱子有互不兼容的尺寸和门闩/锁扣。",
+   "en_markup": "The **hurdle** was **consensus**: **rival** firms' boxes had **incompatible** **dimensions** and **latches**.",
+   "zh_markup": "**障碍**(hurdle)在于**共识**(consensus)：**竞争对手**(rival)公司的箱子有**互不兼容的**(incompatible)**尺寸**(dimensions)和**门闩/锁扣**(latches)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The hurdle was consensus:",
+     "zh": "障碍在于共识："
+    },
+    {
+     "en": "rival firms' boxes had incompatible dimensions and latches.",
+     "zh": "竞争对手公司的箱子有互不兼容的尺寸和门闩/锁扣。"
+    }
+   ],
+   "align": [
+    [
+     "The hurdle",
+     "障碍"
+    ],
+    [
+     "was consensus:",
+     "在于共识："
+    ],
+    [
+     "rival",
+     "竞争对手"
+    ],
+    [
+     "firms'",
+     "公司的"
+    ],
+    [
+     "boxes",
+     "箱子"
+    ],
+    [
+     "had",
+     "有"
+    ],
+    [
+     "incompatible",
+     "互不兼容的"
+    ],
+    [
+     "dimensions",
+     "尺寸"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "latches.",
+     "门闩/锁扣。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 3,
+   "en": "An international standards committee formed in 1961.",
+   "zh": "1961年，一个国际标准委员会成立。",
+   "en_markup": "An **international standards** committee formed in 1961.",
+   "zh_markup": "1961年，一个**国际标准**(international standards)委员会成立。",
+   "video_notes": [
+    "（form：（组织）成立）"
+   ],
+   "chunks": [
+    {
+     "en": "An international standards committee formed in 1961.",
+     "zh": "1961年，一个国际标准委员会成立。"
+    }
+   ],
+   "align": [
+    [
+     "An",
+     "1961年，一个"
+    ],
+    [
+     "international standards",
+     "国际标准"
+    ],
+    [
+     "committee",
+     "委员会"
+    ],
+    [
+     "formed in 1961.",
+     "成立。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 3,
+   "en": "In January 1963 Sea-Land, the Ideal X's renamed operator, let the committee use its patents free of royalties, including those on corner fittings for hoisting.",
+   "zh": "1963年1月，海陆公司，即理想X号更名后的运营方，允许该委员会使用其专利，不收取专利费，包括用于吊装的角配件上的那些专利。",
+   "en_markup": "In January 1963 Sea-Land, the Ideal X's renamed operator, let the committee use its **patents** free of **royalties**, including those on corner **fittings** for **hoisting**.",
+   "zh_markup": "1963年1月，海陆公司，即理想X号更名后的运营方，允许该委员会使用其**专利**(patents)，不收取**专利费**(royalties)，包括用于**吊装**(hoisting)的角**配件**(fittings)上的那些专利。",
+   "video_notes": [
+    "（let sb do：让某人做；free of：免除，不收）",
+    "（corner fittings：集装箱八个角上的金属件，专门用来让吊车吊起箱子，并把箱子上下左右死死锁在一起）"
+   ],
+   "chunks": [
+    {
+     "en": "In January 1963 Sea-Land, the Ideal X's renamed operator,",
+     "zh": "1963年1月，海陆公司，即理想X号更名后的运营方，"
+    },
+    {
+     "en": "let the committee use its patents free of royalties,",
+     "zh": "允许该委员会使用其专利，不收取专利费，"
+    },
+    {
+     "en": "including those on corner fittings for hoisting.",
+     "zh": "包括用于吊装的角配件上的那些专利。"
+    }
+   ],
+   "align": [
+    [
+     "In January 1963",
+     "1963年1月，"
+    ],
+    [
+     "Sea-Land,",
+     "海陆公司，"
+    ],
+    [
+     "the Ideal X's",
+     "即理想X号"
+    ],
+    [
+     "renamed",
+     "更名后的"
+    ],
+    [
+     "operator,",
+     "运营方，"
+    ],
+    [
+     "let",
+     "允许"
+    ],
+    [
+     "the committee",
+     "该委员会"
+    ],
+    [
+     "use",
+     "使用"
+    ],
+    [
+     "its patents",
+     "其专利，"
+    ],
+    [
+     "free of",
+     "不收取"
+    ],
+    [
+     "royalties,",
+     "专利费，"
+    ],
+    [
+     "including",
+     "包括"
+    ],
+    [
+     "those on corner fittings for hoisting.",
+     "用于吊装的角配件上的那些专利。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 3,
+   "en": "Lifted by crane, a box could be transferred smoothly between ship, lorry, and train.",
+   "zh": "由吊机吊起，一只箱子便能在船舶、卡车和火车之间顺畅地转运。",
+   "en_markup": "Lifted by **crane**, a box could be **transferred** **smoothly** between ship, **lorry**, and train.",
+   "zh_markup": "由**吊机**(crane)吊起，一只箱子便能在船舶、**卡车**(lorry)和火车之间**顺畅地**(smoothly)**转运**(transferred)。",
+   "video_notes": [
+    "（Lifted by crane：过去分词短语作状语）",
+    "（between A, B, and C：在 A、B 和 C 之间，中文状语提前）"
+   ],
+   "chunks": [
+    {
+     "en": "Lifted by crane, a box",
+     "zh": "由吊机吊起，一只箱子"
+    },
+    {
+     "en": "could be transferred smoothly between ship, lorry, and train.",
+     "zh": "便能在船舶、卡车和火车之间顺畅地转运。"
+    }
+   ],
+   "align": [
+    [
+     "Lifted by crane,",
+     "由吊机吊起，"
+    ],
+    [
+     "a box",
+     "一只箱子"
+    ],
+    [
+     "could be",
+     "便能"
+    ],
+    [
+     "transferred smoothly between ship, lorry, and train.",
+     "在船舶、卡车和火车之间顺畅地转运。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "This efficiency came at the expense of livelihoods.",
+   "zh": "这种效率是以生计为代价换来的。",
+   "en_markup": "This **efficiency** came **at the expense of** **livelihoods**.",
+   "zh_markup": "这种**效率**(efficiency)是**以**(at the expense of)**生计**(livelihoods)**为代价**(at the expense of)换来的。",
+   "video_notes": [
+    "（come at the expense of：以……为代价换来；at the expense of：以牺牲……为代价，后面接付出代价的人或物，用于“得到了一样东西，却损害了另一样”，如 at the expense of quality 以牺牲质量为代价、at the expense of others 让别人受损）"
+   ],
+   "chunks": [
+    {
+     "en": "This efficiency came at the expense of livelihoods.",
+     "zh": "这种效率是以生计为代价换来的。"
+    }
+   ],
+   "align": [
+    [
+     "This efficiency",
+     "这种效率"
+    ],
+    [
+     "came at the expense of livelihoods.",
+     "是以生计为代价换来的。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 4,
+   "en": "New York's waterfront employment shrank by about three quarters between 1963 and 1976.",
+   "zh": "纽约海滨区的就业人数在1963年至1976年间缩减了约四分之三。",
+   "en_markup": "New York's **waterfront** **employment** **shrank** by about three quarters between 1963 and 1976.",
+   "zh_markup": "纽约**海滨区**(waterfront)的**就业人数**(employment)在1963年至1976年间**缩减了**(shrank)约四分之三。",
+   "video_notes": [
+    "（shrink by：缩减了（幅度）；between 1963 and 1976：中文时间状语提前）"
+   ],
+   "chunks": [
+    {
+     "en": "New York's waterfront employment shrank by about three quarters between 1963 and 1976.",
+     "zh": "纽约海滨区的就业人数在1963年至1976年间缩减了约四分之三。"
+    }
+   ],
+   "align": [
+    [
+     "New York's",
+     "纽约"
+    ],
+    [
+     "waterfront",
+     "海滨区的"
+    ],
+    [
+     "employment",
+     "就业人数"
+    ],
+    [
+     "shrank",
+     "在1963年至1976年间缩减了"
+    ],
+    [
+     "by about three quarters between 1963 and 1976.",
+     "约四分之三。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 4,
+   "en": "Much of the cargo crossed the harbour to a new terminal at Elizabeth, inaugurated in August 1962.",
+   "zh": "大量货物穿过港湾，前往伊丽莎白一处于1962年8月启用的新码头/港区。",
+   "en_markup": "Much of the cargo crossed the harbour to a new **terminal** at Elizabeth, **inaugurated** in August 1962.",
+   "zh_markup": "大量货物穿过港湾，前往伊丽莎白一处于1962年8月**启用**(inaugurated)的新**码头/港区**(terminal)。",
+   "video_notes": [
+    "（inaugurated in August 1962：过去分词短语作后置定语，修饰 terminal）"
+   ],
+   "chunks": [
+    {
+     "en": "Much of the cargo crossed the harbour",
+     "zh": "大量货物穿过港湾，"
+    },
+    {
+     "en": "to a new terminal at Elizabeth, inaugurated in August 1962.",
+     "zh": "前往伊丽莎白一处于1962年8月启用的新码头/港区。"
+    }
+   ],
+   "align": [
+    [
+     "Much of the cargo",
+     "大量货物"
+    ],
+    [
+     "crossed",
+     "穿过"
+    ],
+    [
+     "the harbour",
+     "港湾，"
+    ],
+    [
+     "to",
+     "前往"
+    ],
+    [
+     "a new terminal at Elizabeth, inaugurated in August 1962.",
+     "伊丽莎白一处于1962年8月启用的新码头/港区。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 4,
+   "en": "Most of London's historic docks closed one after another from 1967 to 1980, while Felixstowe, on the Suffolk coast, expanded.",
+   "zh": "1967年到1980年，伦敦历史悠久的码头一个接一个地关闭，而位于萨福克海岸的费利克斯托则扩张了。",
+   "en_markup": "Most of London's **historic** **docks** closed one after another from 1967 to 1980, while Felixstowe, on the Suffolk coast, **expanded**.",
+   "zh_markup": "1967年到1980年，伦敦**历史悠久的**(historic)**码头**(docks)一个接一个地关闭，而位于萨福克海岸的费利克斯托则**扩张了**(expanded)。",
+   "video_notes": [
+    "（one after another：一个接一个地；from 1967 to 1980：中文时间状语提前）",
+    "（while：表示对比，而；on the Suffolk coast：插入语，补充说明 Felixstowe）"
+   ],
+   "chunks": [
+    {
+     "en": "Most of London's historic docks closed one after another from 1967 to 1980,",
+     "zh": "1967年到1980年，伦敦历史悠久的码头一个接一个地关闭，"
+    },
+    {
+     "en": "while Felixstowe, on the Suffolk coast, expanded.",
+     "zh": "而位于萨福克海岸的费利克斯托则扩张了。"
+    }
+   ],
+   "align": [
+    [
+     "Most of London's",
+     "1967年到1980年，伦敦"
+    ],
+    [
+     "historic",
+     "历史悠久的"
+    ],
+    [
+     "docks",
+     "码头"
+    ],
+    [
+     "closed one after another from 1967 to 1980,",
+     "一个接一个地关闭，"
+    ],
+    [
+     "while",
+     "而"
+    ],
+    [
+     "Felixstowe, on the Suffolk coast,",
+     "位于萨福克海岸的费利克斯托"
+    ],
+    [
+     "expanded.",
+     "则扩张了。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 5,
+   "en": "The rewards were substantial.",
+   "zh": "回报相当可观。",
+   "en_markup": "The **rewards** were **substantial**.",
+   "zh_markup": "**回报**(rewards)相当**可观**(substantial)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The rewards were substantial.",
+     "zh": "回报相当可观。"
+    }
+   ],
+   "align": [
+    [
+     "The rewards",
+     "回报"
+    ],
+    [
+     "were substantial.",
+     "相当可观。"
+    ]
+   ]
+  },
+  {
+   "n": 19,
+   "para": 5,
+   "en": "A study published in the Journal of International Economics in 2016 estimated that containerisation had lifted trade between industrialised countries by a cumulative 700 per cent over 20 years.",
+   "zh": "一项2016年发表于《国际经济学杂志》的研究估计，集装箱化在20年间使工业化国家之间的贸易提高了累计700%。",
+   "en_markup": "A study published in the Journal of International **Economics** in 2016 estimated that containerisation had lifted trade between **industrialised** countries by a **cumulative** 700 per cent over 20 years.",
+   "zh_markup": "一项2016年发表于《国际**经济学**(Economics)杂志》的研究估计，集装箱化在20年间使**工业化**(industrialised)国家之间的贸易提高了**累计**(cumulative)700%。",
+   "video_notes": [
+    "（published in…：过去分词短语作后置定语，修饰 study）",
+    "（that…：宾语从句；lift A by B：使 A 增长 B；over 20 years：20年间）"
+   ],
+   "chunks": [
+    {
+     "en": "A study published in the Journal of International Economics in 2016 estimated",
+     "zh": "一项2016年发表于《国际经济学杂志》的研究估计，"
+    },
+    {
+     "en": "that containerisation had lifted trade between industrialised countries by a cumulative 700 per cent over 20 years.",
+     "zh": "集装箱化在20年间使工业化国家之间的贸易提高了累计700%。"
+    }
+   ],
+   "align": [
+    [
+     "A study published in the Journal of International Economics in 2016",
+     "一项2016年发表于《国际经济学杂志》的研究"
+    ],
+    [
+     "estimated",
+     "估计，"
+    ],
+    [
+     "that containerisation",
+     "集装箱化在20年间"
+    ],
+    [
+     "had lifted trade between",
+     "使"
+    ],
+    [
+     "industrialised",
+     "工业化"
+    ],
+    [
+     "countries",
+     "国家之间的贸易"
+    ],
+    [
+     "by a cumulative",
+     "提高了累计"
+    ],
+    [
+     "700 per cent over 20 years.",
+     "700%。"
+    ]
+   ]
+  },
+  {
+   "n": 20,
+   "para": 5,
+   "en": "Tireless cranes now lift identical containers into orderly, immense stacks.",
+   "zh": "如今，不知疲倦的吊机把一模一样的集装箱吊起，码成整齐的、巨大的箱垛。",
+   "en_markup": "**Tireless** cranes now lift **identical** containers into **orderly**, **immense** **stacks**.",
+   "zh_markup": "如今，**不知疲倦的**(tireless)吊机把**一模一样的**(identical)集装箱吊起，码成**整齐的**(orderly)、**巨大的**(immense)**箱垛**(stacks)。",
+   "video_notes": [
+    "（lift A into B：把 A 吊起码成 B）"
+   ],
+   "chunks": [
+    {
+     "en": "Tireless cranes now lift identical containers into orderly, immense stacks.",
+     "zh": "如今，不知疲倦的吊机把一模一样的集装箱吊起，码成整齐的、巨大的箱垛。"
+    }
+   ],
+   "align": [
+    [
+     "Tireless",
+     "如今，不知疲倦的"
+    ],
+    [
+     "cranes now",
+     "吊机"
+    ],
+    [
+     "lift",
+     "把"
+    ],
+    [
+     "identical",
+     "一模一样的"
+    ],
+    [
+     "containers",
+     "集装箱吊起，"
+    ],
+    [
+     "into",
+     "码成"
+    ],
+    [
+     "orderly,",
+     "整齐的、"
+    ],
+    [
+     "immense",
+     "巨大的"
+    ],
+    [
+     "stacks.",
+     "箱垛。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "converted",
+   "zh_video": "改造过的",
+   "headword": "convert",
+   "pos": "adj.",
+   "table_definition": "本文：改造过的；adj. 改造过的，改装的（a converted barn/warehouse）；v. (convert) 转换，改造；使皈依（convert A into B）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "tanker",
+   "zh_video": "油轮",
+   "headword": "tanker",
+   "pos": "n.",
+   "table_definition": "本文：油轮；n. 油轮；罐车（an oil tanker；a tanker lorry）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "slipped out of",
+   "zh_video": "悄然驶离",
+   "headword": "slip out of",
+   "pos": "v.",
+   "table_definition": "本文：悄然驶离；v. (slip) 悄悄溜走，悄然离开（slip out/away；slip into the room）；滑倒"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "clamped",
+   "zh_video": "固定",
+   "headword": "clamp",
+   "pos": "v.",
+   "table_definition": "本文：固定；v. (clamp) 夹紧，固定（clamp sth to sth）；clamp down on 严厉打击；n. 夹钳"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "containers",
+   "zh_video": "集装箱",
+   "headword": "container",
+   "pos": "n.",
+   "table_definition": "本文：集装箱；n. (container) 集装箱；容器（a shipping container；container ship）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "trailer",
+   "zh_video": "挂车",
+   "headword": "trailer",
+   "pos": "n.",
+   "table_definition": "本文：挂车；n. 挂车，拖车（a trailer truck）；（电影）预告片"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "detached from",
+   "zh_video": "从……上拆卸下来的",
+   "headword": "detach from",
+   "pos": "v.",
+   "table_definition": "本文：从……上拆卸下来的；v. (detach) 拆下，分离（detach A from B）；adj. 超然的；独立式的（a detached house）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "wheels",
+   "zh_video": "车轮",
+   "headword": "wheel",
+   "pos": "n.",
+   "table_definition": "本文：车轮；n. (wheel) 车轮，轮子（steering wheel 方向盘；on wheels 带轮子的）；v. 推动（有轮的东西）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 2,
+   "en": "chassis",
+   "zh_video": "底盘",
+   "headword": "chassis",
+   "pos": "n.",
+   "table_definition": "本文：底盘；n. 底盘，车架（a car/truck chassis；复数同形）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "spectators",
+   "zh_video": "旁观者",
+   "headword": "spectator",
+   "pos": "n.",
+   "table_definition": "本文：旁观者；n. (spectator) 旁观者，观众（spectator sport）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "unremarkable",
+   "zh_video": "平淡无奇的",
+   "headword": "unremarkable",
+   "pos": "adj.",
+   "table_definition": "本文：平淡无奇的；adj. 平淡无奇的，不起眼的（an unremarkable life/building）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "cargo",
+   "zh_video": "货物",
+   "headword": "cargo",
+   "pos": "n.",
+   "table_definition": "本文：货物；n. 货物（a cargo ship/plane；carry/load cargo）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "landmark",
+   "zh_video": "里程碑",
+   "headword": "landmark",
+   "pos": "n.",
+   "table_definition": "本文：里程碑；n. 里程碑，划时代的事件（a landmark decision/case）；地标"
+  },
+  {
+   "id": 14,
+   "para": 2,
+   "sentence": 4,
+   "en": "freight",
+   "zh_video": "货物",
+   "headword": "freight",
+   "pos": "n.",
+   "table_definition": "本文：货物；n. 货物，货运（freight train；by air freight）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "loose",
+   "zh_video": "散装",
+   "headword": "loose",
+   "pos": "adj.",
+   "table_definition": "本文：散装；adj. 散装的，未包装的（loose tea；sold loose 散装出售）；松的；break loose 挣脱"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 5,
+   "en": "gangs",
+   "zh_video": "帮",
+   "headword": "gang",
+   "pos": "n.",
+   "table_definition": "本文：帮；n. (gang) （工人）一帮，一班；帮派（a gang of workers；criminal gangs）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 5,
+   "en": "dockworkers",
+   "zh_video": "码头工人",
+   "headword": "dockworker",
+   "pos": "n.",
+   "table_definition": "本文：码头工人；n. (dockworker) 码头工人（= docker, longshoreman）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "sacks",
+   "zh_video": "麻袋",
+   "headword": "sack",
+   "pos": "n.",
+   "table_definition": "本文：麻袋；n. (sack) 麻袋（a sack of flour/potatoes）；get the sack 被解雇"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "barrels",
+   "zh_video": "桶",
+   "headword": "barrel",
+   "pos": "n.",
+   "table_definition": "本文：桶；n. (barrel) 桶，木桶；（石油）桶（a barrel of oil/beer）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 5,
+   "en": "crates",
+   "zh_video": "板条箱",
+   "headword": "crate",
+   "pos": "n.",
+   "table_definition": "本文：板条箱；n. (crate) 板条箱，大木箱（a crate of beer/apples）；v. 把……装箱"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "strenuous",
+   "zh_video": "繁重的/费力的",
+   "headword": "strenuous",
+   "pos": "adj.",
+   "table_definition": "本文：繁重的/费力的；adj. 繁重的，费力的（strenuous exercise/efforts）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "drudgery",
+   "zh_video": "苦差事",
+   "headword": "drudgery",
+   "pos": "n.",
+   "table_definition": "本文：苦差事；n. 苦差事，单调乏味的苦活（the drudgery of housework）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 7,
+   "en": "up to",
+   "zh_video": "多达",
+   "headword": "up to",
+   "pos": "prep.",
+   "table_definition": "本文：多达；prep. 多达，至多（up to 50 people）；直到（up to now）；be up to sb 由某人决定"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 7,
+   "en": "berthed",
+   "zh_video": "停泊",
+   "headword": "berth",
+   "pos": "v.",
+   "table_definition": "本文：停泊；v. (berth) 停泊（be berthed at a quay）；n. 泊位；卧铺"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 7,
+   "en": "theft",
+   "zh_video": "偷窃",
+   "headword": "theft",
+   "pos": "n.",
+   "table_definition": "本文：偷窃；n. 偷窃，盗窃（car theft；identity theft）"
+  },
+  {
+   "id": 26,
+   "para": 2,
+   "sentence": 7,
+   "en": "rampant",
+   "zh_video": "猖獗",
+   "headword": "rampant",
+   "pos": "adj.",
+   "table_definition": "本文：猖獗；adj. 猖獗的，泛滥的（rampant inflation/corruption）"
+  },
+  {
+   "id": 27,
+   "para": 2,
+   "sentence": 8,
+   "en": "loading",
+   "zh_video": "装载",
+   "headword": "load",
+   "pos": "n.",
+   "table_definition": "本文：装载；n./v. (load) 装载，装货（loading and unloading 装卸；load A onto B）"
+  },
+  {
+   "id": 28,
+   "para": 2,
+   "sentence": null,
+   "en": "by reckoning",
+   "zh_video": "据……估算",
+   "headword": "by reckoning",
+   "pos": "phr.",
+   "table_definition": "本文：据……估算；phr. 据……估算（by one's reckoning 根据某人的估算；by my reckoning；reckon v. 估算；认为）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 10,
+   "en": "hurdle",
+   "zh_video": "障碍",
+   "headword": "hurdle",
+   "pos": "n.",
+   "table_definition": "本文：障碍；n. 障碍，难关（clear/overcome a hurdle）；跨栏"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 10,
+   "en": "consensus",
+   "zh_video": "共识",
+   "headword": "consensus",
+   "pos": "n.",
+   "table_definition": "本文：共识；n. 共识，一致意见（reach a consensus；a broad consensus）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 10,
+   "en": "rival",
+   "zh_video": "竞争对手",
+   "headword": "rival",
+   "pos": "adj.",
+   "table_definition": "本文：竞争对手；adj. 相互竞争的，对立的（rival firms/teams）；n. 对手；v. 与……匹敌"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 10,
+   "en": "incompatible",
+   "zh_video": "互不兼容的",
+   "headword": "incompatible",
+   "pos": "adj.",
+   "table_definition": "本文：互不兼容的；adj. 不兼容的，不相容的（incompatible with；incompatible systems）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 10,
+   "en": "dimensions",
+   "zh_video": "尺寸",
+   "headword": "dimension",
+   "pos": "n.",
+   "table_definition": "本文：尺寸；n. (dimension) 尺寸，大小；方面（the dimensions of a room；a new dimension）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 10,
+   "en": "latches",
+   "zh_video": "门闩/锁扣",
+   "headword": "latch",
+   "pos": "n.",
+   "table_definition": "本文：门闩/锁扣；n. (latch) 门闩，锁扣（on the latch 闩上）；v. latch onto 抓住"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 11,
+   "en": "international standards",
+   "zh_video": "国际标准",
+   "headword": "international standard",
+   "pos": "n.",
+   "table_definition": "本文：国际标准；n. 国际标准（set/meet international standards；an international standards body）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 12,
+   "en": "patents",
+   "zh_video": "专利",
+   "headword": "patent",
+   "pos": "n.",
+   "table_definition": "本文：专利；n. (patent) 专利（take out/hold a patent；patent on sth）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 12,
+   "en": "royalties",
+   "zh_video": "专利费",
+   "headword": "royalty",
+   "pos": "n.",
+   "table_definition": "本文：专利费；n. (royalty) 专利使用费，版税（pay royalties on）；王室成员"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 12,
+   "en": "fittings",
+   "zh_video": "配件",
+   "headword": "fitting",
+   "pos": "n.",
+   "table_definition": "本文：配件；n. (fitting) 配件，零件（pipe/light fittings）；试衣"
+  },
+  {
+   "id": 39,
+   "para": 3,
+   "sentence": 12,
+   "en": "hoisting",
+   "zh_video": "吊装",
+   "headword": "hoist",
+   "pos": "v.",
+   "table_definition": "本文：吊装；v. (hoist) 吊起，升起（hoist a flag/sail；hoist sth onto）；n. 起重机"
+  },
+  {
+   "id": 40,
+   "para": 3,
+   "sentence": 13,
+   "en": "crane",
+   "zh_video": "吊机",
+   "headword": "crane",
+   "pos": "n.",
+   "table_definition": "本文：吊机；n. 起重机，吊机（a tower/dockside crane）；鹤；v. 伸长脖子"
+  },
+  {
+   "id": 41,
+   "para": 3,
+   "sentence": 13,
+   "en": "transferred",
+   "zh_video": "转运",
+   "headword": "transfer",
+   "pos": "v.",
+   "table_definition": "本文：转运；v. (transfer) 转移，转运（transfer A from B to C；be transferred to）；n. 转让，换乘"
+  },
+  {
+   "id": 42,
+   "para": 3,
+   "sentence": 13,
+   "en": "smoothly",
+   "zh_video": "顺畅地",
+   "headword": "smoothly",
+   "pos": "adv.",
+   "table_definition": "本文：顺畅地；adv. 顺利地，顺畅地（go/run smoothly）"
+  },
+  {
+   "id": 43,
+   "para": 3,
+   "sentence": 13,
+   "en": "lorry",
+   "zh_video": "卡车",
+   "headword": "lorry",
+   "pos": "n.",
+   "table_definition": "本文：卡车；n. 〈英〉卡车，货车（a lorry driver；by lorry）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 14,
+   "en": "efficiency",
+   "zh_video": "效率",
+   "headword": "efficiency",
+   "pos": "n.",
+   "table_definition": "本文：效率；n. 效率（energy efficiency；improve efficiency）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 14,
+   "en": "at the expense of",
+   "zh_video": "以……为代价",
+   "headword": "at the expense of",
+   "pos": "n.",
+   "table_definition": "本文：以……为代价；n. 代价；费用（at the expense of 以……为代价；at great expense）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 14,
+   "en": "livelihoods",
+   "zh_video": "生计",
+   "headword": "livelihood",
+   "pos": "n.",
+   "table_definition": "本文：生计；n. (livelihood) 生计（earn a livelihood；threaten livelihoods）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 15,
+   "en": "waterfront",
+   "zh_video": "海滨区",
+   "headword": "waterfront",
+   "pos": "n.",
+   "table_definition": "本文：海滨区；n. 海滨区，滨水区，码头区（on the waterfront；waterfront property）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 15,
+   "en": "employment",
+   "zh_video": "就业人数",
+   "headword": "employment",
+   "pos": "n.",
+   "table_definition": "本文：就业人数；n. 就业；就业人数；雇用（full employment 充分就业；employment rate 就业率）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 15,
+   "en": "shrank",
+   "zh_video": "缩减了",
+   "headword": "shrink",
+   "pos": "v.",
+   "table_definition": "本文：缩减了；v. (shrink) 缩减，缩小（shrink by half；shrink from 退缩）"
+  },
+  {
+   "id": 50,
+   "para": 4,
+   "sentence": 16,
+   "en": "terminal",
+   "zh_video": "码头/港区",
+   "headword": "terminal",
+   "pos": "n.",
+   "table_definition": "本文：码头/港区；n. 码头，港区；终点站，（货运/客运）站（a container/ferry terminal）；终端；adj. 晚期的"
+  },
+  {
+   "id": 51,
+   "para": 4,
+   "sentence": 16,
+   "en": "inaugurated",
+   "zh_video": "启用",
+   "headword": "inaugurate",
+   "pos": "v.",
+   "table_definition": "本文：启用；v. (inaugurate) 启用，开幕；为……举行就职典礼（be inaugurated as president）"
+  },
+  {
+   "id": 52,
+   "para": 4,
+   "sentence": 17,
+   "en": "historic",
+   "zh_video": "历史悠久的",
+   "headword": "historic",
+   "pos": "adj.",
+   "table_definition": "本文：历史悠久的；adj. 历史悠久的，有历史意义的（a historic building/moment）"
+  },
+  {
+   "id": 53,
+   "para": 4,
+   "sentence": 17,
+   "en": "docks",
+   "zh_video": "码头",
+   "headword": "dock",
+   "pos": "n.",
+   "table_definition": "本文：码头；n. (dock) 码头，船坞（the docks；in dock）；被告席；v. 停靠"
+  },
+  {
+   "id": 54,
+   "para": 4,
+   "sentence": 17,
+   "en": "expanded",
+   "zh_video": "扩张了",
+   "headword": "expand",
+   "pos": "v.",
+   "table_definition": "本文：扩张了；v. (expand) 扩张，扩大（expand rapidly；expand into new markets）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 18,
+   "en": "rewards",
+   "zh_video": "回报",
+   "headword": "reward",
+   "pos": "n.",
+   "table_definition": "本文：回报；n. (reward) 回报，报酬（reap the rewards；reward for）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 18,
+   "en": "substantial",
+   "zh_video": "可观",
+   "headword": "substantial",
+   "pos": "adj.",
+   "table_definition": "本文：可观；adj. 可观的，大量的（a substantial amount/increase）"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 19,
+   "en": "Economics",
+   "zh_video": "经济学",
+   "headword": "economics",
+   "pos": "n.",
+   "table_definition": "本文：经济学；n. 经济学；经济情况（home economics 家政学；the economics of sth 某事的经济效益）"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 19,
+   "en": "industrialised",
+   "zh_video": "工业化",
+   "headword": "industrialised",
+   "pos": "adj.",
+   "table_definition": "本文：工业化；adj. 〈英〉工业化的（industrialised countries/nations）；v. (industrialise) 使工业化"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 19,
+   "en": "cumulative",
+   "zh_video": "累计",
+   "headword": "cumulative",
+   "pos": "adj.",
+   "table_definition": "本文：累计；adj. 累计的，累积的（cumulative effect/total）"
+  },
+  {
+   "id": 60,
+   "para": 5,
+   "sentence": 20,
+   "en": "tireless",
+   "zh_video": "不知疲倦的",
+   "headword": "tireless",
+   "pos": "adj.",
+   "table_definition": "本文：不知疲倦的；adj. 不知疲倦的，孜孜不倦的（tireless efforts；a tireless campaigner）"
+  },
+  {
+   "id": 61,
+   "para": 5,
+   "sentence": 20,
+   "en": "identical",
+   "zh_video": "一模一样的",
+   "headword": "identical",
+   "pos": "adj.",
+   "table_definition": "本文：一模一样的；adj. 一模一样的，完全相同的（identical twins 同卵双胞胎；be identical to/with）"
+  },
+  {
+   "id": 62,
+   "para": 5,
+   "sentence": 20,
+   "en": "orderly",
+   "zh_video": "整齐的",
+   "headword": "orderly",
+   "pos": "adj.",
+   "table_definition": "本文：整齐的；adj. 整齐的，有秩序的（an orderly queue/manner）；n. 勤务员"
+  },
+  {
+   "id": 63,
+   "para": 5,
+   "sentence": 20,
+   "en": "immense",
+   "zh_video": "巨大的",
+   "headword": "immense",
+   "pos": "adj.",
+   "table_definition": "本文：巨大的；adj. 巨大的，极大的（immense pressure/size）"
+  },
+  {
+   "id": 64,
+   "para": 5,
+   "sentence": 20,
+   "en": "stacks",
+   "zh_video": "箱垛",
+   "headword": "stack",
+   "pos": "n.",
+   "table_definition": "本文：箱垛；n. (stack) 堆，垛（a stack of boxes/papers）；v. 堆叠"
+  }
+ ]
+}

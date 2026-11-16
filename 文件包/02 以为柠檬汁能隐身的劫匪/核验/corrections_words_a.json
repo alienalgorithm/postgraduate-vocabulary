@@ -1,0 +1,44 @@
+[
+ {
+  "key": "id=16 self-portrait",
+  "field": "context_usage",
+  "before": "devoid of its subject 作表语，说明照片洗出来的结果",
+  "after": "devoid of its subject 作主语补足语，说明照片洗出来的结果",
+  "reason": "与逐句精讲第5句（主干和 components 均定为主语补足语）统一成分说法。"
+ },
+ {
+  "key": "id=17 devoid of",
+  "field": "context_usage",
+  "before": "devoid of its subject 作表语，说明照片出来时的状态",
+  "after": "devoid of its subject 作主语补足语，说明照片出来时的状态",
+  "reason": "与逐句精讲第5句（主干和 components 均定为主语补足语）统一成分说法。"
+ },
+ {
+  "key": "id=23 sheer",
+  "field": "context_usage",
+  "before": "说明他抗议时的心理状态",
+  "after": "说明他坚决表示时的心理状态",
+  "reason": "protest 本句义为“坚称，坚决表示”（视频译“坚决表示”，逐句精讲第8句也特别指出不是“抗议”），不能说“抗议时”。"
+ },
+ {
+  "key": "id=23 sheer",
+  "field": "etymology",
+  "before": "可能来自古英语 scīr（明亮的，清澈的，纯净的）。",
+  "after": "来源说法不一：可能来自古诺尔斯语 skærr（明亮的，纯净的），也可能是古英语 scīr（明亮的，清澈的）的延续。",
+  "reason": "Etymonline、Merriam-Webster 均把古诺尔斯语 skærr 列为可能来源（与古英语 scīr 同源），原文只写古英语一说，不完整。"
+ },
+ {
+  "key": "id=24 disbelief",
+  "field": "context_usage",
+  "before": "因为“抹柠檬汁”发生在“抗议”之前",
+  "after": "因为“抹柠檬汁”发生在“坚决表示”之前",
+  "reason": "protest 本句义为“坚称，坚决表示”，不是“抗议”，与视频译文和逐句精讲统一。"
+ },
+ {
+  "key": "id=26 disquieting",
+  "field": "context_usage",
+  "before": "观点的内容在下一句：也许，无能会掩藏住它自己，剥夺人们的识别能力，让人注意不到自身的不足。",
+  "after": "观点的内容在下一句：“也许，无能（这种东西）会掩藏住它自己，剥夺人们的识别能力，去注意到他们自身的不足。”",
+  "reason": "原文转述下一句时改动了视频审定译文（“让人注意不到自身的不足”），改为照录视频中文。"
+ }
+]

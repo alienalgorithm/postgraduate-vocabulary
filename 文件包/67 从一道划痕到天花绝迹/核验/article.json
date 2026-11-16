@@ -1,0 +1,1524 @@
+{
+ "no": "67",
+ "title_en": "From a Scratch to a World Without Smallpox",
+ "title_zh": "从一道划痕到天花绝迹",
+ "source_id": "58",
+ "source_hashes": {
+  "JSON": "a0edaa079982b73e9c391eaa8d4d391af927a627eb22f7a414711e059a46d652",
+  "GEN": "a0edaa079982b73e9c391eaa8d4d391af927a627eb22f7a414711e059a46d652",
+  "MD": "fe0b6b5ee5a45d054649865653b781e4f3efeb93c6cc6a7a0d32b3f268e53fe1",
+  "illustration": "133a7763601a160b3c609c6f2d724e3f2f65e8c825c09ea5792f9a74fab7d5a3"
+ },
+ "summary": [
+  [
+   "背景",
+   "天花约致三成患者死亡；早期人痘术把天花疮中物质接种给健康人作预防，▹风险虽低于自然染病，仍可能致重病或死亡。"
+  ],
+  [
+   "先例",
+   "乡间传牛痘可防天花；农夫杰斯蒂1774年已用牛痘保护家人，詹纳并非首创。"
+  ],
+  [
+   "试验",
+   "詹纳1796年给男孩种牛痘，再让他接触天花而未发病；▹无知情同意的儿童试验按今天标准不合伦理。"
+  ],
+  [
+   "推广",
+   "皇家学会嫌证据不足拒稿后，▹詹纳自费公布试验和补充病例，使其他医生能够重复验证、传播技术。"
+  ],
+  [
+   "根除",
+   "世卫1967年强化行动，1977年出现最后自然病例；▹1980年世界卫生大会宣布根除天花，迄今唯一被根除的人类疾病。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "Smallpox, a contagious affliction, killed about three in ten of its sufferers and an estimated 300 million in the 20th century.",
+   "zh": "天花，一种传染性的疾病，夺去了约三成患者的生命，并且估计有3亿人在20世纪丧命。",
+   "en_markup": "**Smallpox**, a **contagious** **affliction**, killed about three in ten of its **sufferers** and an estimated 300 million in the 20th century.",
+   "zh_markup": "**天花**(Smallpox)，一种**传染性的**(contagious)**疾病**(affliction)，夺去了约三成**患者**(sufferers)的生命，并且估计有3亿人在20世纪丧命。",
+   "video_notes": [
+    "（a contagious affliction：同位语，补充说明 Smallpox）",
+    "（three in ten：十分之三，即约三成；killed 的宾语有两个：three in ten of its sufferers 和 300 million）"
+   ],
+   "chunks": [
+    {
+     "en": "Smallpox, a contagious affliction,",
+     "zh": "天花，一种传染性的疾病，"
+    },
+    {
+     "en": "killed about three in ten of its sufferers and an estimated 300 million in the 20th century.",
+     "zh": "夺去了约三成患者的生命，并且估计有3亿人在20世纪丧命。"
+    }
+   ],
+   "align": [
+    [
+     "Smallpox,",
+     "天花，"
+    ],
+    [
+     "a contagious",
+     "一种传染性的"
+    ],
+    [
+     "affliction,",
+     "疾病，"
+    ],
+    [
+     "killed",
+     "夺去了"
+    ],
+    [
+     "about",
+     "约"
+    ],
+    [
+     "three in ten",
+     "三成"
+    ],
+    [
+     "of its sufferers",
+     "患者的生命，"
+    ],
+    [
+     "and",
+     "并且"
+    ],
+    [
+     "an estimated",
+     "估计有"
+    ],
+    [
+     "300 million",
+     "3亿人"
+    ],
+    [
+     "in the 20th century.",
+     "在20世纪丧命。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "An early safeguard, deliberately implanting matter from its sores in the healthy, was practised in China by the 16th century and reached England in 1721.",
+   "zh": "一种早期的防护手段，是有意把天花脓疮中的物质植入健康人体内，到16世纪，中国已在施行这种方法，1721年又传入英国。",
+   "en_markup": "An early **safeguard**, **deliberately** **implanting** **matter** from its **sores** in the healthy, was **practised** in China by the 16th century and reached England in 1721.",
+   "zh_markup": "一种早期的**防护手段**(safeguard)，是**有意**(deliberately)把天花**脓疮**(sores)中的**物质**(matter)**植入**(implanting)健康人体内，到16世纪，中国已在**施行**(practised)这种方法，1721年又传入英国。",
+   "video_notes": [
+    "（deliberately implanting…：现在分词短语作同位语，说明 safeguard 的内容；implant A in B：把 A 植入 B；the healthy：健康的人）",
+    "（by the 16th century：到16世纪时（已经））"
+   ],
+   "chunks": [
+    {
+     "en": "An early safeguard, deliberately implanting matter from its sores in the healthy,",
+     "zh": "一种早期的防护手段，是有意把天花脓疮中的物质植入健康人体内，"
+    },
+    {
+     "en": "was practised in China by the 16th century and reached England in 1721.",
+     "zh": "到16世纪，中国已在施行这种方法，1721年又传入英国。"
+    }
+   ],
+   "align": [
+    [
+     "An early",
+     "一种早期的"
+    ],
+    [
+     "safeguard,",
+     "防护手段，"
+    ],
+    [
+     "deliberately",
+     "是有意"
+    ],
+    [
+     "implanting matter from its sores in the healthy,",
+     "把天花脓疮中的物质植入健康人体内，"
+    ],
+    [
+     "was practised in China by the 16th century",
+     "到16世纪，中国已在施行这种方法，"
+    ],
+    [
+     "and reached England in 1721.",
+     "1721年又传入英国。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "The procedure itself could cause grave sickness or death, if less frequently than natural smallpox.",
+   "zh": "这种做法本身可能导致严重的疾病或死亡，尽管不如自然天花那样频繁。",
+   "en_markup": "The **procedure** itself could cause **grave** **sickness** or death, if less **frequently** than natural smallpox.",
+   "zh_markup": "这种**做法**(procedure)本身可能导致**严重的**(grave)**疾病**(sickness)或死亡，尽管不如自然天花那样**频繁**(frequently)。",
+   "video_notes": [
+    "（if less frequently than…：= though less frequently than…，虽然不如……频繁）"
+   ],
+   "chunks": [
+    {
+     "en": "The procedure itself could cause grave sickness or death,",
+     "zh": "这种做法本身可能导致严重的疾病或死亡，"
+    },
+    {
+     "en": "if less frequently than natural smallpox.",
+     "zh": "尽管不如自然天花那样频繁。"
+    }
+   ],
+   "align": [
+    [
+     "The procedure",
+     "这种做法"
+    ],
+    [
+     "itself",
+     "本身"
+    ],
+    [
+     "could cause",
+     "可能导致"
+    ],
+    [
+     "grave",
+     "严重的"
+    ],
+    [
+     "sickness",
+     "疾病"
+    ],
+    [
+     "or death,",
+     "或死亡，"
+    ],
+    [
+     "if less",
+     "尽管不如"
+    ],
+    [
+     "frequently than natural smallpox.",
+     "自然天花那样频繁。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "Rustic lore held that milkmaids with cowpox, a mild ailment of livestock, were immune to smallpox.",
+   "zh": "乡间传说认为，挤奶女工若得过牛痘这种牲畜的轻微病症，就对天花免疫。",
+   "en_markup": "**Rustic** **lore** held that milkmaids with cowpox, a **mild** **ailment** of **livestock**, were **immune to** smallpox.",
+   "zh_markup": "**乡间**(Rustic)**传说**(lore)认为，挤奶女工若得过牛痘这种**牲畜**(livestock)的**轻微**(mild)**病症**(ailment)，\n{{（一般指牛的牛痘，轻微病症）|ailment}}就**对**(immune to)天花**免疫**(immune to)。",
+   "video_notes": [
+    "（hold that…：认为……）",
+    "（a mild ailment of livestock：同位语，补充说明 cowpox）",
+    "（一般指牛的牛痘，轻微病症）"
+   ],
+   "chunks": [
+    {
+     "en": "Rustic lore held that",
+     "zh": "乡间传说认为，"
+    },
+    {
+     "en": "milkmaids with cowpox, a mild ailment of livestock, were immune to smallpox.",
+     "zh": "挤奶女工若得过牛痘这种牲畜的轻微病症，就对天花免疫。"
+    }
+   ],
+   "align": [
+    [
+     "Rustic",
+     "乡间"
+    ],
+    [
+     "lore",
+     "传说"
+    ],
+    [
+     "held that",
+     "认为，"
+    ],
+    [
+     "milkmaids",
+     "挤奶女工"
+    ],
+    [
+     "with cowpox,",
+     "若得过牛痘"
+    ],
+    [
+     "a mild ailment of livestock,",
+     "这种牲畜的轻微病症，"
+    ],
+    [
+     "were immune to smallpox.",
+     "就对天花免疫。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "In 1774 Benjamin Jesty, a Dorset farmer, employed cowpox to protect his wife and two sons.",
+   "zh": "1774年，本杰明·杰斯蒂，一位多塞特郡农夫，使用牛痘来保护他的妻子和两个儿子。",
+   "en_markup": "In 1774 Benjamin Jesty, a Dorset farmer, **employed** cowpox to protect his wife and two sons.",
+   "zh_markup": "1774年，本杰明·杰斯蒂，一位多塞特郡农夫，**使用**(employed)牛痘来保护他的妻子和两个儿子。",
+   "video_notes": [
+    "（a Dorset farmer：同位语，补充说明 Benjamin Jesty；Dorset：多塞特郡，在英格兰西南部）"
+   ],
+   "chunks": [
+    {
+     "en": "In 1774 Benjamin Jesty, a Dorset farmer,",
+     "zh": "1774年，本杰明·杰斯蒂，一位多塞特郡农夫，"
+    },
+    {
+     "en": "employed cowpox to protect his wife and two sons.",
+     "zh": "使用牛痘来保护他的妻子和两个儿子。"
+    }
+   ],
+   "align": [
+    [
+     "In 1774",
+     "1774年，"
+    ],
+    [
+     "Benjamin Jesty,",
+     "本杰明·杰斯蒂，"
+    ],
+    [
+     "a Dorset",
+     "一位多塞特郡"
+    ],
+    [
+     "farmer,",
+     "农夫，"
+    ],
+    [
+     "employed",
+     "使用"
+    ],
+    [
+     "cowpox",
+     "牛痘"
+    ],
+    [
+     "to protect",
+     "来保护"
+    ],
+    [
+     "his wife",
+     "他的妻子"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "two sons.",
+     "两个儿子。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "On 14 May 1796 Edward Jenner, a provincial practitioner, inserted fluid from a milkmaid's cowpox sore into a scratch on eight-year-old James Phipps.",
+   "zh": "1796年5月14日，爱德华·詹纳，一位地方执业医师，将取自一名挤奶女工牛痘疮的液体，注入8岁的詹姆斯·菲普斯身上的一道伤痕/划痕中。",
+   "en_markup": "On 14 May 1796 Edward Jenner, a **provincial** **practitioner**, **inserted** **fluid** from a milkmaid's cowpox sore into a **scratch** on eight-year-old James Phipps.",
+   "zh_markup": "1796年5月14日，爱德华·詹纳，一位**地方**(provincial)**执业医师**(practitioner)，将取自一名挤奶女工牛痘疮的**液体**(fluid)，**注入**(inserted)8岁的詹姆斯·菲普斯身上的一道**伤痕/划痕**(scratch)中。",
+   "video_notes": [
+    "（a provincial practitioner：同位语，补充说明 Edward Jenner）",
+    "（insert A into B：把 A 注入 B；on eight-year-old James Phipps：后置定语，修饰 scratch）"
+   ],
+   "chunks": [
+    {
+     "en": "On 14 May 1796 Edward Jenner, a provincial practitioner,",
+     "zh": "1796年5月14日，爱德华·詹纳，一位地方执业医师，"
+    },
+    {
+     "en": "inserted fluid from a milkmaid's cowpox sore into a scratch on eight-year-old James Phipps.",
+     "zh": "将取自一名挤奶女工牛痘疮的液体，注入8岁的詹姆斯·菲普斯身上的一道伤痕/划痕中。"
+    }
+   ],
+   "align": [
+    [
+     "On 14 May 1796",
+     "1796年5月14日，"
+    ],
+    [
+     "Edward Jenner,",
+     "爱德华·詹纳，"
+    ],
+    [
+     "a provincial",
+     "一位地方"
+    ],
+    [
+     "practitioner,",
+     "执业医师，"
+    ],
+    [
+     "inserted fluid from a milkmaid's cowpox sore",
+     "将取自一名挤奶女工牛痘疮的液体，注入"
+    ],
+    [
+     "into a scratch on eight-year-old James Phipps.",
+     "8岁的詹姆斯·菲普斯身上的一道伤痕/划痕中。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "en": "On 1 July 1796 Jenner exposed the boy to smallpox; no symptoms ensued.",
+   "zh": "1796年7月1日，詹纳让这个男孩接触天花；任何症状都没有随之出现。",
+   "en_markup": "On 1 July 1796 Jenner **exposed** the boy **to** smallpox; no **symptoms** **ensued**.",
+   "zh_markup": "1796年7月1日，詹纳**让**(exposed to)这个男孩**接触**(exposed to)天花；任何**症状**(symptoms)都没有**随之出现**(ensued)。",
+   "video_notes": [
+    "（expose A to B：使 A 接触 B）"
+   ],
+   "chunks": [
+    {
+     "en": "On 1 July 1796 Jenner exposed the boy to smallpox;",
+     "zh": "1796年7月1日，詹纳让这个男孩接触天花；"
+    },
+    {
+     "en": "no symptoms ensued.",
+     "zh": "任何症状都没有随之出现。"
+    }
+   ],
+   "align": [
+    [
+     "On 1 July 1796",
+     "1796年7月1日，"
+    ],
+    [
+     "Jenner",
+     "詹纳"
+    ],
+    [
+     "exposed the boy to smallpox;",
+     "让这个男孩接触天花；"
+    ],
+    [
+     "no symptoms",
+     "任何症状都没有"
+    ],
+    [
+     "ensued.",
+     "随之出现。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "In 1797 the Royal Society declined to publish his paper, judging his evidence unconvincing.",
+   "zh": "1797年，皇家学会拒绝去发表他的论文，认为他的证据缺乏说服力。",
+   "en_markup": "In 1797 the Royal Society declined to **publish** his paper, judging his evidence **unconvincing**.",
+   "zh_markup": "1797年，皇家学会拒绝去**发表**(publish)他的论文，认为他的证据**缺乏说服力**(unconvincing)。",
+   "video_notes": [
+    "（judging his evidence unconvincing：现在分词短语作原因状语；judge＋宾语＋形容词：认为……）"
+   ],
+   "chunks": [
+    {
+     "en": "In 1797 the Royal Society declined to publish his paper,",
+     "zh": "1797年，皇家学会拒绝去发表他的论文，"
+    },
+    {
+     "en": "judging his evidence unconvincing.",
+     "zh": "认为他的证据缺乏说服力。"
+    }
+   ],
+   "align": [
+    [
+     "In 1797",
+     "1797年，"
+    ],
+    [
+     "the Royal Society",
+     "皇家学会"
+    ],
+    [
+     "declined",
+     "拒绝"
+    ],
+    [
+     "to",
+     "去"
+    ],
+    [
+     "publish",
+     "发表"
+    ],
+    [
+     "his paper,",
+     "他的论文，"
+    ],
+    [
+     "judging",
+     "认为"
+    ],
+    [
+     "his evidence",
+     "他的证据"
+    ],
+    [
+     "unconvincing.",
+     "缺乏说服力。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "In June 1798 he privately funded his book, the Inquiry, with supplementary cases.",
+   "zh": "1798年6月，他私人出资出版了他的著作《探究》，书中附上了补充病例。",
+   "en_markup": "In June 1798 he **privately** **funded** his book, the Inquiry, with **supplementary** cases.",
+   "zh_markup": "1798年6月，他**私人**(privately)**出资**(funded)出版了他的著作《探究》，书中附上了**补充**(supplementary)病例。",
+   "video_notes": [
+    "（the Inquiry：同位语，补充说明 his book，全名《关于牛痘的原因与效果的探究》）"
+   ],
+   "chunks": [
+    {
+     "en": "In June 1798 he privately funded his book, the Inquiry,",
+     "zh": "1798年6月，他私人出资出版了他的著作《探究》，"
+    },
+    {
+     "en": "with supplementary cases.",
+     "zh": "书中附上了补充病例。"
+    }
+   ],
+   "align": [
+    [
+     "In June 1798",
+     "1798年6月，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "privately",
+     "私人"
+    ],
+    [
+     "funded",
+     "出资出版了"
+    ],
+    [
+     "his book,",
+     "他的著作"
+    ],
+    [
+     "the Inquiry,",
+     "《探究》，"
+    ],
+    [
+     "with",
+     "书中附上了"
+    ],
+    [
+     "supplementary",
+     "补充"
+    ],
+    [
+     "cases.",
+     "病例。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "The word vaccine derives from the Latin vacca, cow.",
+   "zh": "表示疫苗的英文词源自拉丁语的vacca，意思是牛。",
+   "en_markup": "The word **vaccine** **derives from** the **Latin** vacca, cow.",
+   "zh_markup": "表示**疫苗**(vaccine)的英文词**源自**(derives from)**拉丁语**(Latin)的vacca，意思是牛。",
+   "video_notes": [
+    "（vacca, cow：cow 是 vacca 的同位语，说明词义）"
+   ],
+   "chunks": [
+    {
+     "en": "The word vaccine derives from the Latin vacca, cow.",
+     "zh": "表示疫苗的英文词源自拉丁语的vacca，意思是牛。"
+    }
+   ],
+   "align": [
+    [
+     "The word vaccine",
+     "表示疫苗的英文词"
+    ],
+    [
+     "derives from",
+     "源自"
+    ],
+    [
+     "the Latin",
+     "拉丁语的"
+    ],
+    [
+     "vacca,",
+     "vacca，"
+    ],
+    [
+     "cow.",
+     "意思是牛。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "en": "Jenner was not the idea's originator.",
+   "zh": "詹纳并不是这一想法的首创者。",
+   "en_markup": "Jenner was not the idea's **originator**.",
+   "zh_markup": "詹纳并不是这一想法的**首创者**(originator)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Jenner was not the idea's originator.",
+     "zh": "詹纳并不是这一想法的首创者。"
+    }
+   ],
+   "align": [
+    [
+     "Jenner",
+     "詹纳"
+    ],
+    [
+     "was not",
+     "并不是"
+    ],
+    [
+     "the idea's",
+     "这一想法的"
+    ],
+    [
+     "originator.",
+     "首创者。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "His contribution was a test, with results accessible in print, so other doctors could replicate and disseminate the technique.",
+   "zh": "他的贡献是一项试验，其结果在已出版的书籍中可以获得，以便其他医生能够复制并传播这项技术。",
+   "en_markup": "His contribution was a test, with results **accessible** in print, so other doctors could **replicate** and **disseminate** the **technique**.",
+   "zh_markup": "他的贡献是一项试验，其结果在已出版的书籍中**可以获得**(accessible)，以便其他医生能够**复制**(replicate)并**传播**(disseminate)这项**技术**(technique)。",
+   "video_notes": [
+    "（with results accessible in print：with 复合结构，结果印成书、人人可以查阅）"
+   ],
+   "chunks": [
+    {
+     "en": "His contribution was a test, with results accessible in print,",
+     "zh": "他的贡献是一项试验，其结果在已出版的书籍中可以获得，"
+    },
+    {
+     "en": "so other doctors could replicate and disseminate the technique.",
+     "zh": "以便其他医生能够复制并传播这项技术。"
+    }
+   ],
+   "align": [
+    [
+     "His contribution",
+     "他的贡献"
+    ],
+    [
+     "was",
+     "是"
+    ],
+    [
+     "a test,",
+     "一项试验，"
+    ],
+    [
+     "with results",
+     "其结果"
+    ],
+    [
+     "accessible in print,",
+     "在已出版的书籍中可以获得，"
+    ],
+    [
+     "so",
+     "以便"
+    ],
+    [
+     "other",
+     "其他"
+    ],
+    [
+     "doctors",
+     "医生"
+    ],
+    [
+     "could replicate",
+     "能够复制"
+    ],
+    [
+     "and disseminate",
+     "并传播"
+    ],
+    [
+     "the technique.",
+     "这项技术。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "By today's standards, experimentation on a child without informed consent would be unethical.",
+   "zh": "按今天的标准，拿孩子做实验在没有取得知情同意的情况下，属于不道德行为。",
+   "en_markup": "By today's standards, **experimentation** on a child without **informed** **consent** would be **unethical**.",
+   "zh_markup": "按今天的标准，拿孩子做**实验**(experimentation)在没有取得**知情**(informed)**同意**(consent)的情况下，属于**不道德**(unethical)行为。",
+   "video_notes": [
+    "（informed consent：知情同意，医学伦理术语）"
+   ],
+   "chunks": [
+    {
+     "en": "By today's standards, experimentation on a child without informed consent",
+     "zh": "按今天的标准，拿孩子做实验在没有取得知情同意的情况下，"
+    },
+    {
+     "en": "would be unethical.",
+     "zh": "属于不道德行为。"
+    }
+   ],
+   "align": [
+    [
+     "By",
+     "按"
+    ],
+    [
+     "today's",
+     "今天的"
+    ],
+    [
+     "standards,",
+     "标准，"
+    ],
+    [
+     "experimentation on a child",
+     "拿孩子做实验"
+    ],
+    [
+     "without",
+     "在没有取得"
+    ],
+    [
+     "informed",
+     "知情"
+    ],
+    [
+     "consent",
+     "同意的情况下，"
+    ],
+    [
+     "would be",
+     "属于"
+    ],
+    [
+     "unethical.",
+     "不道德行为。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "Jenner died on 26 January 1823, with smallpox far from eliminated.",
+   "zh": "詹纳于1823年1月26日去世，那时天花还远未被消除。",
+   "en_markup": "Jenner died on 26 January 1823, with smallpox far from **eliminated**.",
+   "zh_markup": "詹纳于1823年1月26日去世，那时天花还远未被**消除**(eliminated)。",
+   "video_notes": [
+    "（with smallpox far from eliminated：with 复合结构作伴随状语；far from…：远未……）"
+   ],
+   "chunks": [
+    {
+     "en": "Jenner died on 26 January 1823,",
+     "zh": "詹纳于1823年1月26日去世，"
+    },
+    {
+     "en": "with smallpox far from eliminated.",
+     "zh": "那时天花还远未被消除。"
+    }
+   ],
+   "align": [
+    [
+     "Jenner",
+     "詹纳"
+    ],
+    [
+     "died on 26 January 1823,",
+     "于1823年1月26日去世，"
+    ],
+    [
+     "with smallpox",
+     "那时天花"
+    ],
+    [
+     "far from",
+     "还远未被"
+    ],
+    [
+     "eliminated.",
+     "消除。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "In 1967 the WHO launched an intensified, concerted campaign to eradicate smallpox.",
+   "zh": "1967年，世界卫生组织发起了一场强化、共同筹划的运动，要根除天花。",
+   "en_markup": "In 1967 the WHO launched an **intensified**, **concerted** campaign to **eradicate** smallpox.",
+   "zh_markup": "1967年，世界卫生组织发起了一场**强化**(intensified)、**共同筹划的**(concerted)运动，要**根除**(eradicate)天花。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "In 1967 the WHO launched an intensified, concerted campaign to eradicate smallpox.",
+     "zh": "1967年，世界卫生组织发起了一场强化、共同筹划的运动，要根除天花。"
+    }
+   ],
+   "align": [
+    [
+     "In 1967",
+     "1967年，"
+    ],
+    [
+     "the WHO",
+     "世界卫生组织"
+    ],
+    [
+     "launched",
+     "发起了"
+    ],
+    [
+     "an intensified,",
+     "一场强化、"
+    ],
+    [
+     "concerted",
+     "共同筹划的"
+    ],
+    [
+     "campaign",
+     "运动，"
+    ],
+    [
+     "to eradicate",
+     "要根除"
+    ],
+    [
+     "smallpox.",
+     "天花。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "The last naturally occurring case was diagnosed in Somalia on 26 October 1977.",
+   "zh": "最后一例自然发生的病例于1977年10月26日在索马里确诊。",
+   "en_markup": "The last **naturally** **occurring** case was **diagnosed** in Somalia on 26 October 1977.",
+   "zh_markup": "最后一例**自然**(naturally)**发生**(occurring)的病例于1977年10月26日在索马里**确诊**(diagnosed)。",
+   "video_notes": [
+    "（naturally occurring：自然发生的，区别于后来的实验室感染）"
+   ],
+   "chunks": [
+    {
+     "en": "The last naturally occurring case",
+     "zh": "最后一例自然发生的病例"
+    },
+    {
+     "en": "was diagnosed in Somalia on 26 October 1977.",
+     "zh": "于1977年10月26日在索马里确诊。"
+    }
+   ],
+   "align": [
+    [
+     "The last",
+     "最后一例"
+    ],
+    [
+     "naturally",
+     "自然"
+    ],
+    [
+     "occurring",
+     "发生的"
+    ],
+    [
+     "case",
+     "病例"
+    ],
+    [
+     "was diagnosed in Somalia on 26 October 1977.",
+     "于1977年10月26日在索马里确诊。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "On 8 May 1980 the World Health Assembly formally declared the world free of smallpox, the only human disease ever wiped out.",
+   "zh": "1980年5月8日，世界卫生大会正式宣布全世界已摆脱天花，天花也成为迄今唯一被彻底消灭的人类疾病。",
+   "en_markup": "On 8 May 1980 the World Health Assembly **formally** declared the world free of smallpox, the only human disease ever **wiped out**.",
+   "zh_markup": "1980年5月8日，世界卫生大会**正式**(formally)宣布全世界已摆脱天花，天花也成为迄今唯一被**彻底消灭**(wiped out)的人类疾病。",
+   "video_notes": [
+    "（declare A free of B：宣布 A 已摆脱 B）",
+    "（the only human disease ever wiped out：同位语，补充说明 smallpox；wipe out：彻底消灭）"
+   ],
+   "chunks": [
+    {
+     "en": "On 8 May 1980 the World Health Assembly formally declared the world free of smallpox,",
+     "zh": "1980年5月8日，世界卫生大会正式宣布全世界已摆脱天花，"
+    },
+    {
+     "en": "the only human disease ever wiped out.",
+     "zh": "天花也成为迄今唯一被彻底消灭的人类疾病。"
+    }
+   ],
+   "align": [
+    [
+     "On 8 May 1980",
+     "1980年5月8日，"
+    ],
+    [
+     "the World Health Assembly",
+     "世界卫生大会"
+    ],
+    [
+     "formally",
+     "正式"
+    ],
+    [
+     "declared",
+     "宣布"
+    ],
+    [
+     "the world",
+     "全世界"
+    ],
+    [
+     "free of",
+     "已摆脱"
+    ],
+    [
+     "smallpox,",
+     "天花，"
+    ],
+    [
+     "the only human disease ever wiped out.",
+     "天花也成为迄今唯一被彻底消灭的人类疾病。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 5,
+   "en": "That pronouncement came almost 184 years after Phipps was vaccinated.",
+   "zh": "那一宣告，出现在菲普斯接种疫苗之后的近184年。",
+   "en_markup": "That **pronouncement** came almost 184 years after Phipps was **vaccinated**.",
+   "zh_markup": "那一**宣告**(pronouncement)，出现在菲普斯**接种疫苗**(vaccinated)之后的近184年。",
+   "video_notes": [
+    "（after Phipps was vaccinated：时间状语从句）"
+   ],
+   "chunks": [
+    {
+     "en": "That pronouncement came almost 184 years after Phipps was vaccinated.",
+     "zh": "那一宣告，出现在菲普斯接种疫苗之后的近184年。"
+    }
+   ],
+   "align": [
+    [
+     "That pronouncement",
+     "那一宣告，"
+    ],
+    [
+     "came",
+     "出现在"
+    ],
+    [
+     "almost 184 years after Phipps was vaccinated.",
+     "菲普斯接种疫苗之后的近184年。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "smallpox",
+   "zh_video": "天花",
+   "headword": "smallpox",
+   "pos": "n.",
+   "table_definition": "本文：天花；n. 天花（smallpox vaccine；eradicate smallpox）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "contagious",
+   "zh_video": "传染性的",
+   "headword": "contagious",
+   "pos": "adj.",
+   "table_definition": "本文：传染性的；adj. 传染性的，接触传染的（a contagious disease；highly contagious）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "affliction",
+   "zh_video": "疾病",
+   "headword": "affliction",
+   "pos": "n.",
+   "table_definition": "本文：疾病；n. 病痛，苦难（a painful affliction；suffer from an affliction）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 1,
+   "en": "sufferers",
+   "zh_video": "患者",
+   "headword": "sufferer",
+   "pos": "n.",
+   "table_definition": "本文：患者；n. (sufferer) 患者，受害者（asthma sufferers；hay fever sufferers）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "safeguard",
+   "zh_video": "防护手段",
+   "headword": "safeguard",
+   "pos": "n.",
+   "table_definition": "本文：防护手段；n. 保护措施，防护手段（a safeguard against fraud；legal safeguards）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "deliberately",
+   "zh_video": "有意",
+   "headword": "deliberately",
+   "pos": "adv.",
+   "table_definition": "本文：有意；adv. 故意地，有意地（deliberately mislead；act deliberately）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "implanting",
+   "zh_video": "植入",
+   "headword": "implant",
+   "pos": "v.",
+   "table_definition": "本文：植入；v. (implant) 植入，移植（implant a device/an embryo）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "matter",
+   "zh_video": "物质",
+   "headword": "matter",
+   "pos": "n.",
+   "table_definition": "本文：物质；n. 物质，东西；事情，问题（organic matter 有机物；a matter of time 迟早的事）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 2,
+   "en": "sores",
+   "zh_video": "脓疮",
+   "headword": "sore",
+   "pos": "n.",
+   "table_definition": "本文：脓疮；n. (sore) 疮，溃疡（a cold sore；open sores）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 2,
+   "en": "practised",
+   "zh_video": "施行",
+   "headword": "practise",
+   "pos": "v.",
+   "table_definition": "本文：施行；v. (practise) 施行，实践（practise medicine/law；widely practised）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "procedure",
+   "zh_video": "做法",
+   "headword": "procedure",
+   "pos": "n.",
+   "table_definition": "本文：做法；n. 做法，程序；手术（a surgical procedure；follow the correct procedure）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "grave",
+   "zh_video": "严重的",
+   "headword": "grave",
+   "pos": "adj.",
+   "table_definition": "本文：严重的；adj. 严重的，严峻的（grave danger；a grave mistake）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "sickness",
+   "zh_video": "疾病",
+   "headword": "sickness",
+   "pos": "n.",
+   "table_definition": "本文：疾病；n. 疾病，生病（travel sickness；sickness benefit）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": 3,
+   "en": "frequently",
+   "zh_video": "频繁",
+   "headword": "frequently",
+   "pos": "adv.",
+   "table_definition": "本文：频繁；adv. 频繁地，经常（frequently asked questions；occur frequently）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "rustic",
+   "zh_video": "乡间",
+   "headword": "rustic",
+   "pos": "adj.",
+   "table_definition": "本文：乡间；adj. 乡村的，质朴的（rustic charm；a rustic cottage）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 4,
+   "en": "lore",
+   "zh_video": "传说",
+   "headword": "lore",
+   "pos": "n.",
+   "table_definition": "本文：传说；n. 传说，民间知识（local lore；according to popular lore）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 4,
+   "en": "mild",
+   "zh_video": "轻微",
+   "headword": "mild",
+   "pos": "adj.",
+   "table_definition": "本文：轻微；adj. 轻微的，温和的（a mild fever/winter；mild symptoms）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 4,
+   "en": "ailment",
+   "zh_video": "病症",
+   "headword": "ailment",
+   "pos": "n.",
+   "table_definition": "本文：病症；n. 小病，病症（minor ailments；a common ailment）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 4,
+   "en": "livestock",
+   "zh_video": "牲畜",
+   "headword": "livestock",
+   "pos": "n.",
+   "table_definition": "本文：牲畜；n. 牲畜，家畜（raise/keep livestock；livestock farming）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 4,
+   "en": "immune to",
+   "zh_video": "对……免疫",
+   "headword": "immune to",
+   "pos": "adj.",
+   "table_definition": "本文：对……免疫；adj. 免疫的；不受影响的（immune to measles；the immune system）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 5,
+   "en": "employed",
+   "zh_video": "使用",
+   "headword": "employ",
+   "pos": "v.",
+   "table_definition": "本文：使用；v. (employ) 使用，运用；雇用（employ a method/technique）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "provincial",
+   "zh_video": "地方",
+   "headword": "provincial",
+   "pos": "adj.",
+   "table_definition": "本文：地方；adj. 地方的，外省的（a provincial town/newspaper）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "practitioner",
+   "zh_video": "执业医师",
+   "headword": "practitioner",
+   "pos": "n.",
+   "table_definition": "本文：执业医师；n. 从业者，（尤指）开业医生（a general practitioner；medical practitioners）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 6,
+   "en": "inserted",
+   "zh_video": "注入",
+   "headword": "insert",
+   "pos": "v.",
+   "table_definition": "本文：注入；v. (insert) 插入，注入（insert a coin/key；insert a needle into a vein）"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 6,
+   "en": "fluid",
+   "zh_video": "液体",
+   "headword": "fluid",
+   "pos": "n.",
+   "table_definition": "本文：液体；n. 液体，流体（drink plenty of fluids；body fluids）"
+  },
+  {
+   "id": 26,
+   "para": 2,
+   "sentence": 6,
+   "en": "scratch",
+   "zh_video": "伤痕/划痕",
+   "headword": "scratch",
+   "pos": "n.",
+   "table_definition": "本文：伤痕/划痕；n. 划痕，抓痕（a scratch on the car；escape without a scratch）"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": null,
+   "en": "exposed to",
+   "zh_video": "让……接触",
+   "headword": "exposed to",
+   "pos": "v.",
+   "table_definition": "本文：让……接触；v. 使暴露，使接触（be exposed to 暴露于；expose sb to risk 使某人面临风险）"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 7,
+   "en": "symptoms",
+   "zh_video": "症状",
+   "headword": "symptom",
+   "pos": "n.",
+   "table_definition": "本文：症状；n. (symptom) 症状（flu symptoms；show symptoms of stress）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 7,
+   "en": "ensued",
+   "zh_video": "随之出现",
+   "headword": "ensue",
+   "pos": "v.",
+   "table_definition": "本文：随之出现；v. (ensue) 随之发生（a long silence ensued；in the ensuing chaos）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 8,
+   "en": "publish",
+   "zh_video": "发表",
+   "headword": "publish",
+   "pos": "v.",
+   "table_definition": "本文：发表；v. 发表，出版（publish a novel/findings；be published in a journal）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 8,
+   "en": "unconvincing",
+   "zh_video": "缺乏说服力",
+   "headword": "unconvincing",
+   "pos": "adj.",
+   "table_definition": "本文：缺乏说服力；adj. 缺乏说服力的，难以令人信服的（an unconvincing excuse/argument）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "privately",
+   "zh_video": "私人",
+   "headword": "privately",
+   "pos": "adv.",
+   "table_definition": "本文：私人；adv. 私下地；以私人身份，非公费地（privately owned；privately educated；speak privately）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 9,
+   "en": "funded",
+   "zh_video": "出资",
+   "headword": "fund",
+   "pos": "v.",
+   "table_definition": "本文：出资；v. (fund) 为……出资（publicly funded；fund a project/research）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 9,
+   "en": "supplementary",
+   "zh_video": "补充",
+   "headword": "supplementary",
+   "pos": "adj.",
+   "table_definition": "本文：补充；adj. 补充的，附加的（supplementary questions/materials）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 10,
+   "en": "vaccine",
+   "zh_video": "疫苗",
+   "headword": "vaccine",
+   "pos": "n.",
+   "table_definition": "本文：疫苗；n. 疫苗（a flu vaccine；develop/administer a vaccine）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 10,
+   "en": "derives from",
+   "zh_video": "源自",
+   "headword": "derive from",
+   "pos": "v.",
+   "table_definition": "本文：源自；v. (derive) 源自，起源于（derive from Greek；derive pleasure from sth）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 10,
+   "en": "Latin",
+   "zh_video": "拉丁语",
+   "headword": "Latin",
+   "pos": "n.",
+   "table_definition": "本文：拉丁语；n./adj. (Latin) 拉丁语（的）（study Latin；a Latin phrase）"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 11,
+   "en": "originator",
+   "zh_video": "首创者",
+   "headword": "originator",
+   "pos": "n.",
+   "table_definition": "本文：首创者；n. 创始人，首创者（the originator of the scheme/idea）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 12,
+   "en": "accessible",
+   "zh_video": "可以获得",
+   "headword": "accessible",
+   "pos": "adj.",
+   "table_definition": "本文：可以获得；adj. 可获取的，易理解的（accessible to the public；an accessible style）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 12,
+   "en": "replicate",
+   "zh_video": "复制",
+   "headword": "replicate",
+   "pos": "v.",
+   "table_definition": "本文：复制；v. 重复（实验等），复制（replicate the results/a study）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 12,
+   "en": "disseminate",
+   "zh_video": "传播",
+   "headword": "disseminate",
+   "pos": "v.",
+   "table_definition": "本文：传播；v. 传播，推广（disseminate information/knowledge）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 12,
+   "en": "technique",
+   "zh_video": "技术",
+   "headword": "technique",
+   "pos": "n.",
+   "table_definition": "本文：技术；n. 技术，技巧（a new surgical technique；develop a technique）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 13,
+   "en": "experimentation",
+   "zh_video": "实验",
+   "headword": "experimentation",
+   "pos": "n.",
+   "table_definition": "本文：实验；n. 实验，试验（animal experimentation；a period of experimentation）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 13,
+   "en": "informed",
+   "zh_video": "知情",
+   "headword": "informed",
+   "pos": "adj.",
+   "table_definition": "本文：知情；adj. 知情的，有根据的（informed consent；an informed choice）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 13,
+   "en": "consent",
+   "zh_video": "同意",
+   "headword": "consent",
+   "pos": "n.",
+   "table_definition": "本文：同意；n. 同意，许可（give/withhold consent；without sb's consent）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 13,
+   "en": "unethical",
+   "zh_video": "不道德",
+   "headword": "unethical",
+   "pos": "adj.",
+   "table_definition": "本文：不道德；adj. 不道德的，违反职业道德的（unethical conduct/practices）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 14,
+   "en": "eliminated",
+   "zh_video": "消除",
+   "headword": "eliminate",
+   "pos": "v.",
+   "table_definition": "本文：消除；v. (eliminate) 消除，根除（eliminate poverty/waste；be eliminated from a contest）"
+  },
+  {
+   "id": 48,
+   "para": 5,
+   "sentence": 15,
+   "en": "intensified",
+   "zh_video": "强化",
+   "headword": "intensified",
+   "pos": "adj.",
+   "table_definition": "本文：强化；adj./v. (intensify) 加强（的），强化（的）（intensify efforts；intensified fighting）"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 15,
+   "en": "concerted",
+   "zh_video": "共同筹划的",
+   "headword": "concerted",
+   "pos": "adj.",
+   "table_definition": "本文：共同筹划的；adj. 齐心协力的，协同的（a concerted effort/attack）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "eradicate",
+   "zh_video": "根除",
+   "headword": "eradicate",
+   "pos": "v.",
+   "table_definition": "本文：根除；v. 根除，消灭（eradicate a disease/corruption）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 16,
+   "en": "naturally",
+   "zh_video": "自然",
+   "headword": "naturally",
+   "pos": "adv.",
+   "table_definition": "本文：自然；adv. 自然地，天然地（behave naturally；curly hair that grows naturally）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 16,
+   "en": "occurring",
+   "zh_video": "发生",
+   "headword": "occur",
+   "pos": "v.",
+   "table_definition": "本文：发生；v. (occur) 发生，出现（accidents occur daily；the problem occurred last week）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 16,
+   "en": "diagnosed",
+   "zh_video": "确诊",
+   "headword": "diagnose",
+   "pos": "v.",
+   "table_definition": "本文：确诊；v. (diagnose) 诊断，确诊（be diagnosed with diabetes；diagnose a fault）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 17,
+   "en": "formally",
+   "zh_video": "正式",
+   "headword": "formally",
+   "pos": "adv.",
+   "table_definition": "本文：正式；adv. 正式地（formally announce/recognise；formally dressed）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 17,
+   "en": "wiped out",
+   "zh_video": "彻底消灭",
+   "headword": "wipe out",
+   "pos": "phr.",
+   "table_definition": "本文：彻底消灭；phr. v. (wipe out) 彻底消灭，摧毁（wipe out a species/a village；be wiped out by disease）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 18,
+   "en": "pronouncement",
+   "zh_video": "宣告",
+   "headword": "pronouncement",
+   "pos": "n.",
+   "table_definition": "本文：宣告；n. 宣告，声明（an official pronouncement；make pronouncements on policy）"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 18,
+   "en": "vaccinated",
+   "zh_video": "接种疫苗",
+   "headword": "vaccinate",
+   "pos": "v.",
+   "table_definition": "本文：接种疫苗；v. (vaccinate) 给……接种疫苗（be vaccinated against measles）"
+  }
+ ]
+}

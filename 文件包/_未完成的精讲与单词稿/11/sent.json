@@ -1,0 +1,1741 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Barry Marshall",
+   "predicate": "drank",
+   "object_or_complement": "a brew of beef broth",
+   "explain": "主干是 Barry Marshall drank a brew of beef broth，主谓宾结构。谓语 drank 是 drink 的过去式，一般过去时，主动语态；主语后的 a 32-year-old doctor at Fremantle Hospital 是同位语，宾语后的 into which 从句是定语从句，都不影响主干。"
+  },
+  "components": [
+   {
+    "text": "In 1984",
+    "role": "时间状语（介词短语）",
+    "zh": "1984年"
+   },
+   {
+    "text": "Barry Marshall,",
+    "role": "主语",
+    "zh": "巴里·马歇尔"
+   },
+   {
+    "text": "a 32-year-old doctor",
+    "role": "同位语，补充说明 Barry Marshall 的身份",
+    "zh": "一位32岁的医生"
+   },
+   {
+    "text": "at Fremantle Hospital,",
+    "role": "后置定语（介词短语），修饰 doctor，与前面合为同位语",
+    "zh": "在弗里曼特尔医院（任职）"
+   },
+   {
+    "text": "drank",
+    "role": "谓语",
+    "zh": "喝下了"
+   },
+   {
+    "text": "a brew of beef broth",
+    "role": "宾语（of beef broth 作 brew 的后置定语）",
+    "zh": "一份牛肉清汤混合液"
+   },
+   {
+    "text": "into which the microbial growth of two Petri dishes had been scraped.",
+    "role": "限制性定语从句（介词 + 关系代词 into which 引导），修饰 a brew",
+    "zh": "两个培养皿里的微生物培养物早已被（从上面）刮了下来（并放进了这混合液里）"
+   }
+  ],
+  "structure": "①主句是 Barry Marshall drank a brew of beef broth：主语 Barry Marshall，谓语 drank，宾语 a brew of beef broth。句首 In 1984 是时间状语，年份前用介词 in。\n②a 32-year-old doctor at Fremantle Hospital 是 Barry Marshall 的同位语，前后用逗号隔开，补充说明他的年龄和身份。32-year-old 是带连字符的复合形容词，作前置定语，其中 year 用单数；at Fremantle Hospital 是介词短语，作 doctor 的后置定语，说明他在哪家医院工作。\n③宾语 a brew of beef broth 中，brew 是中心词，of beef broth 说明这份混合液以牛肉清汤为基底。\n④into which 引导限制性定语从句，先行词是 a brew（视频说明：which = the brew），which 在从句中作介词 into 的宾语，into which 整体在从句中作地点状语。还原成正常语序是 the microbial growth of two Petri dishes had been scraped into the brew，所以视频说明“真正的顺序在 scraped 后面”。从句主语是 the microbial growth，of two Petri dishes 作它的后置定语；谓语 had been scraped 是过去完成时的被动语态，表示“刮入”发生在“喝下”之前。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 + which 引导定语从句",
+    "explain": "关系代词在定语从句中作介词的宾语时，介词可以提到关系代词前，构成“介词 + which/whom”，这种写法比把介词留在从句末尾更正式。介词由从句中的动词或与先行词的搭配决定：本句从句动词是 scrape sth into sth（把某物刮进某处），所以用 into which。介词后只能用 which 或 whom，不能用 that。阅读时把先行词代回 which，再把介词短语放回动词后面，就能还原语序：the microbial growth ... had been scraped into the brew。考研翻译中这类从句较长时，常拆成独立分句来译。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee examined the conditions under which the experiment had been carried out.",
+      "zh": "委员会审查了进行这项实验的条件。"
+     },
+     {
+      "en": "She kept a small notebook in which she recorded every bird she saw.",
+      "zh": "她有一个小笔记本，用来记下她看到的每一只鸟。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时的被动语态",
+    "explain": "过去完成时被动语态的构成是 had been + 过去分词，表示在过去某一时间或动作之前已经被完成的动作。本句主句动作 drank 发生在过去，培养物被刮进汤里又在喝之前，所以从句用 had been scraped；培养物是被刮的一方，所以用被动。视频译为“早已被……刮了下来”，“早已”体现先后，“被”体现被动。考研阅读中，叙述过去事件时出现 had been done，往往是在交代此前已经准备好的东西或已经发生的情况。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the inspectors arrived, most of the documents had been destroyed.",
+      "zh": "等检查人员赶到时，大部分文件已经被销毁了。"
+     }
+    ]
+   },
+   {
+    "title": "同位语交代人物身份",
+    "explain": "名词短语紧跟在另一个名词之后、用逗号隔开，对它加以解释说明，叫同位语。新闻和人物报道第一次提到某人时，常用“人名, 身份短语,”的格式交代身份，如本句 Barry Marshall, a 32-year-old doctor at Fremantle Hospital。同位语中的不定冠词 a 表示“……中的一位”，即弗里曼特尔医院的一名医生。阅读时把两个逗号之间的同位语暂时跳过，就能找到主语后面真正的谓语 drank。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Jane Goodall, a British primatologist, spent decades studying chimpanzees in Tanzania.",
+      "zh": "英国灵长类动物学家简·古道尔花了几十年时间在坦桑尼亚研究黑猩猩。"
+     }
+    ]
+   },
+   {
+    "title": "带连字符的复合形容词：数词 + 名词 + 形容词",
+    "explain": "“数词 + 名词 + 形容词/名词”用连字符连成复合形容词，放在名词前作定语时，其中的名词用单数，如 a 32-year-old doctor、a ten-minute walk、a five-day course。不用连字符、放在系动词后作表语时，名词才用复数：The doctor was 32 years old。写作中常见的错误是写成 a 32-years-old doctor。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company offers a two-week training course for new employees.",
+      "zh": "公司为新员工提供为期两周的培训课程。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Petri dish",
+    "explain": "培养皿，实验室里培养细菌等微生物用的带盖浅圆皿，名称来自德国细菌学家佩特里（Julius Richard Petri）。Petri 是人名，通常大写，也有词典写作小写 petri dish。two Petri dishes 即“两个培养皿”。"
+   },
+   {
+    "term": "microbial growth",
+    "explain": "growth 在这里不是“增长”，而是指长出来的东西；microbial growth 指培养皿里长出的微生物，视频译为“微生物培养物”。microbial 是 microbe（微生物）的形容词。"
+   },
+   {
+    "term": "a brew of beef broth",
+    "explain": "broth 指用肉、鱼或蔬菜煮成的清汤，beef broth 即“牛肉清汤”；brew 原指酿成的啤酒或泡好的茶，也可泛指调制而成的混合液体。本句指以牛肉清汤为基底、混入培养物的液体，视频译为“牛肉清汤混合液”，并用括号说明清汤是“（培养基底）”。"
+   },
+   {
+    "term": "scrape sth into/off sth",
+    "explain": "scrape 意为“刮，擦”，常与 off、from、into 等介词连用，如 scrape the mud off one's boots（刮掉靴子上的泥）。本句 scraped into the brew 指把培养皿上长出的培养物刮下来放进汤里，视频因此增补“（从上面）”和“（并放进了这混合液里）”。"
+   },
+   {
+    "term": "Fremantle Hospital",
+    "explain": "弗里曼特尔医院，位于西澳大利亚州的港口城市弗里曼特尔（Fremantle），这座城市在珀斯附近。"
+   }
+  ],
+  "translation_tip": "视频译文基本按英文语序顺译，做了这几处处理：①同位语 a 32-year-old doctor at Fremantle Hospital 仍放在“巴里·马歇尔”之后，用逗号隔开，译成“一位32岁的医生在弗里曼特尔医院（任职）”，括号里的“（任职）”是增补，交代医生与医院的关系。②宾语 a brew of beef broth 中后置的 of beef broth 前移，译成“一份牛肉清汤混合液”，不定冠词 a 译成量词“一份”，括号增补“（培养基底）”说明清汤的用途。③into which 定语从句较长，没有前置成定语，而是放在主句后面单独成一个分句；从句主语中的后置定语 of two Petri dishes 前移，译成“两个培养皿里的微生物培养物”。④过去完成时被动语态 had been scraped 译成“早已被……刮了下来”；scrape into 所含的“刮下、放入”两个动作和先行词 brew，用括号增补为“（从上面）”和“（并放进了这混合液里）”，把 into which 的意思交代清楚。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "The prevalent doctrine",
+   "predicate": "blamed",
+   "object_or_complement": "ulcers",
+   "explain": "主干是 The prevalent doctrine blamed ulcers，主谓宾结构，on 引出的介词短语与谓语构成 blame A on B（把 A 归咎于 B）。谓语 blamed 为一般过去时，主动语态，交代当时的主流观点。"
+  },
+  "components": [
+   {
+    "text": "The prevalent doctrine",
+    "role": "主语（prevalent 作前置定语，修饰 doctrine）",
+    "zh": "当时盛行的（主流的）学说"
+   },
+   {
+    "text": "blamed",
+    "role": "谓语（blame A on B 的动词部分）",
+    "zh": "把……归咎于"
+   },
+   {
+    "text": "ulcers",
+    "role": "宾语（blame A on B 中的 A）",
+    "zh": "溃疡"
+   },
+   {
+    "text": "on stress, spicy food, and excess acid secretion.",
+    "role": "介词短语，与谓语构成 blame A on B，引出归咎的原因（三个并列名词短语作 on 的宾语）",
+    "zh": "压力、辛辣的食物以及过多的胃酸分泌"
+   }
+  ],
+  "structure": "①主干是 The prevalent doctrine blamed ulcers on ...，blame A on B 意为“把 A 归咎于 B”（视频说明），A 是 ulcers，B 是 on 后面的三项。\n②on 的宾语由三个名词短语并列构成：stress、spicy food、excess acid secretion，最后一项前用 and 连接，and 前有牛津逗号。第三项中，excess 是形容词，意为“过多的”，修饰 acid secretion；acid 是名词作前置定语，修饰 secretion，表示“酸的分泌”，本句指胃酸。\n③主语 The prevalent doctrine 中，prevalent 意为“盛行的，流行的”，说明这一学说当时在医学界占主导地位。\n④篇章上，本句交代旧说，为下文马歇尔和沃伦的发现树立对立面。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "blame A on B 与 blame B for A",
+    "explain": "blame 有两种常见结构：blame sth on sb/sth（把某事归咎于某人或某事），blame sb/sth for sth（因某事责怪某人，认为某人或某事应对某事负责）。两种结构中 A、B 的位置相反：本句 blamed ulcers on stress ... 也可以改写成 blamed stress ... for ulcers，意思不变。另有 be to blame for sth（应对某事负责），注意用主动形式 to blame。考研阅读中 blame 常出现在讲原因和责任的段落，答题时要分清哪一方是原因，哪一方是结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many economists blame the slowdown on weak consumer spending.",
+      "zh": "许多经济学家把经济放缓归咎于消费支出疲软。"
+     },
+     {
+      "en": "Critics blamed the government for the delay in publishing the report.",
+      "zh": "批评者指责政府推迟发布这份报告。"
+     }
+    ]
+   },
+   {
+    "title": "三项并列与牛津逗号",
+    "explain": "三项或三项以上的成分并列时，英语写成 A, B, and C 或 A, B and C；最后一个 and 前的逗号叫牛津逗号，能避免把后两项误读成一组。本句 stress, spicy food, and excess acid secretion 是三个名词短语并列，同作介词 on 的宾语。并列的各项在语法上应属于同一类成分，写作中把名词和动词短语、名词和从句混在一起并列，是常见错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new policy aims to cut costs, reduce waste, and improve efficiency.",
+      "zh": "新政策旨在削减成本、减少浪费并提高效率。"
+     }
+    ]
+   },
+   {
+    "title": "形容词 + 名词 + 名词 的修饰层次",
+    "explain": "名词可以直接放在另一个名词前作定语，说明其类别、内容或来源，作定语的名词一般用单数，如 acid secretion（酸的分泌）。前面再加形容词时，形容词通常修饰后面整个名词组合：excess acid secretion 是“过多的胃酸分泌”，excess 修饰 acid secretion，而不是只修饰 acid。翻译时要先找到最后一个名词这个中心词，再由近及远往前加修饰语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising energy prices have forced many families to cut back on heating.",
+      "zh": "能源价格上涨迫使许多家庭减少取暖开支。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "prevalent",
+    "explain": "形容词，意为“流行的，普遍存在的”，多修饰观点、疾病、现象，如 a prevalent view、be prevalent among young people；名词为 prevalence（流行，普遍）。本句修饰 doctrine，视频译为“盛行的（主流的）”，指当时被广泛接受的观点。"
+   },
+   {
+    "term": "doctrine",
+    "explain": "原指宗教、政治方面的教义、主义，也可指某一领域公认的学说、理论。本句指当时医学界关于溃疡成因的公认看法，视频译为“学说”。"
+   },
+   {
+    "term": "excess",
+    "explain": "作形容词时意为“过多的，过量的”，放在名词前，如 excess weight、excess baggage（超重行李）；作名词时常见 in excess of（超过）、to excess（过度）。本句 excess acid secretion 即“过多的胃酸分泌”。"
+   },
+   {
+    "term": "acid",
+    "explain": "本义是“酸”，本句指胃里分泌的酸（stomach acid），视频译为“胃酸”。"
+   }
+  ],
+  "translation_tip": "①主语 The prevalent doctrine 中的定冠词 The 在视频中对应“当时”：句子用一般过去时叙述过去流行的观点，增补时间词“当时”，点明这是当年的学说；括号里的“（主流的）”进一步解释 prevalent。②blame A on B 译成汉语的“把”字句“把 A 归咎于 B”，A、B 的顺序与英文一致。③三个并列项用顿号和“以及”连接，名词短语中的定语都放在中心词前：spicy food 译为“辛辣的食物”，excess acid secretion 译为“过多的胃酸分泌”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "No bacterium",
+   "predicate": "could withstand",
+   "object_or_complement": "so caustic and hostile a habitat",
+   "explain": "主干是 No bacterium could withstand so caustic and hostile a habitat，主谓宾结构。谓语由情态动词 could 加实义动词 withstand 构成；否定词 no 在主语中，全句是全部否定。插入语 the profession firmly held 用一般过去时，主句随之用过去形式 could。"
+  },
+  "components": [
+   {
+    "text": "No bacterium,",
+    "role": "主语（否定限定词 no + 单数可数名词）",
+    "zh": "没有哪种细菌"
+   },
+   {
+    "text": "the profession firmly held,",
+    "role": "插入语（主谓结构，firmly 作方式状语，交代主句是谁的看法）",
+    "zh": "医学界坚定地认为"
+   },
+   {
+    "text": "could withstand",
+    "role": "谓语（情态动词 could + 动词原形）",
+    "zh": "能经受住"
+   },
+   {
+    "text": "so caustic and hostile a habitat.",
+    "role": "宾语（so + 形容词 + a + 名词 结构）",
+    "zh": "如此具有腐蚀性又不利的栖息环境"
+   }
+  ],
+  "structure": "①主句是 No bacterium could withstand so caustic and hostile a habitat：主语 No bacterium，谓语 could withstand，宾语 so caustic and hostile a habitat。\n②the profession firmly held 是插入语，前后用逗号与主句隔开（视频说明：the profession firmly held 是插入语；profession 此处指医学界全体从业者）。它交代主句内容是谁的看法，意思相当于 The profession firmly held that no bacterium could withstand ...，hold 在这里意为“认为，持有（某种观点）”。插入语夹在主语和谓语之间，阅读时先跳过它，把 No bacterium 和 could withstand 连起来。\n③宾语用了 so + 形容词 + a + 名词 的结构：两个形容词 caustic 和 hostile 用 and 连接，一起放在不定冠词 a 之前，意为“如此……的一个……”，指胃里的强酸环境（视频说明）。\n④否定词 no 在主语中，全句是全部否定：任何细菌都不能在胃里存活。这是第2句旧说的延续，也是下文要被推翻的观点。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "插入语交代观点来源",
+    "explain": "插入语是插在句中、与句子其他成分没有语法关系的词、短语或小句，常用逗号隔开。“主语 + 表示看法的动词”构成的小句（如 experts believe、the report says、critics argue）常插在句中或放在句末，说明观点出自谁，相当于把全句改成它的宾语从句：No bacterium, the profession firmly held, could ... = The profession firmly held that no bacterium could ...。这类插入语中的动词后面缺宾语，缺的正是全句其余部分。考研阅读中，这种插入语往往提示“这是某一方的观点，不一定是作者的观点”，做态度题时要分清。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules, critics argue, will do little to protect consumers.",
+      "zh": "批评者认为，新规定对保护消费者作用不大。"
+     },
+     {
+      "en": "Such a plan, the minister insisted, was neither costly nor risky.",
+      "zh": "部长坚称，这样的计划既不昂贵也没有风险。"
+     }
+    ]
+   },
+   {
+    "title": "so + 形容词 + a/an + 名词",
+    "explain": "so、too、as、how 修饰“形容词 + 单数可数名词”时，形容词要提到不定冠词之前，构成 so + adj. + a/an + n.，如 so difficult a task，等于 such a difficult task。用 such 时语序是 such + a/an + adj. + n.，两种语序不能混用：so a difficult task 和 such difficult a task 都是错的。本句 so caustic and hostile a habitat 中有两个形容词，一起移到 a 之前。这一结构书面色彩较浓，考研阅读和翻译中遇到时要先找到中心词 habitat。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She had never faced so difficult a decision.",
+      "zh": "她从未面临过如此艰难的抉择。"
+     },
+     {
+      "en": "It was too good an opportunity to miss.",
+      "zh": "这是一个绝好的机会，不容错过。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词作主语表示全部否定",
+    "explain": "no + 名词作主语时，否定作用于全句，表示“没有任何一个……能/会……”。not any 不能放在句首作主语，不能说 Not any bacterium could ...，只能用 no 或 none of。no 后接单数可数名词时，强调“连一个都没有”；也可以接复数或不可数名词，如 No students were absent。翻译时一般译成“没有哪种/没有任何……能……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "No country can solve the problem of climate change on its own.",
+      "zh": "没有哪个国家能独自解决气候变化问题。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hold 的熟词僻义",
+    "explain": "hold 常见义是“拿着，举行”，本句意为“认为，持有（观点）”，多用于正式文体，常接 that 从句或 hold sth to be ...，如 Many scientists hold that the theory is flawed。视频译为“认为”，firmly held 即“坚定地认为”。"
+   },
+   {
+    "term": "the profession",
+    "explain": "profession 本义是需要专门训练的职业，加定冠词 the 可指某一行业的全体从业者，如 the medical profession（医学界）、the legal profession（法律界）。本句上下文讲溃疡的成因，the profession 指医学界，视频译为“医学界”。"
+   },
+   {
+    "term": "caustic",
+    "explain": "本义是“腐蚀性的”，指能烧伤、腐蚀皮肤等组织，如 caustic soda（烧碱）；比喻义是“尖刻的，挖苦的”，如 caustic remarks。本句指胃酸的强腐蚀性，视频译为“具有腐蚀性”。"
+   },
+   {
+    "term": "hostile habitat",
+    "explain": "hostile 常见义是“敌对的”，修饰环境、条件时意为“恶劣的，不利的”；habitat 指生物的栖息地。本句把胃当作细菌的栖息环境，说它对细菌极不友好，视频译为“不利的栖息环境”。"
+   }
+  ],
+  "translation_tip": "①插入语 the profession firmly held 提到句首，译成“医学界坚定地认为，”，把英文的插入结构还原成汉语习惯的“谁认为什么”，后面接主句内容。②否定主语 No bacterium 译为“没有哪种细菌”，否定仍落在主语上，与英文一致。③so caustic and hostile a habitat 中的两个形容词译成“如此具有腐蚀性又不利的”，and 译为“又”，表示两种性质兼而有之；不定冠词 a 不单独译出。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Robin Warren",
+   "predicate": "had seen",
+   "object_or_complement": "curved, coiled bacteria",
+   "explain": "主干是 Robin Warren had seen curved, coiled bacteria，主谓宾结构。谓语 had seen 是过去完成时，主动语态，表示沃伦看到这些细菌发生在下文马歇尔与他合作之前。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "转折连词，承接上文，引出与旧说相反的事实",
+    "zh": "然而"
+   },
+   {
+    "text": "Robin Warren,",
+    "role": "主语",
+    "zh": "罗宾·沃伦"
+   },
+   {
+    "text": "a pathologist at Royal Perth Hospital,",
+    "role": "同位语，说明 Robin Warren 的身份（at Royal Perth Hospital 作 pathologist 的后置定语）",
+    "zh": "皇家珀斯医院的病理学家"
+   },
+   {
+    "text": "had seen",
+    "role": "谓语（过去完成时）",
+    "zh": "早已……看到过"
+   },
+   {
+    "text": "curved, coiled bacteria",
+    "role": "宾语（两个并列形容词作前置定语）",
+    "zh": "弯曲、盘绕的细菌"
+   },
+   {
+    "text": "in gastric biopsies",
+    "role": "地点状语（介词短语）",
+    "zh": "在胃部的活检样本中"
+   },
+   {
+    "text": "from patients",
+    "role": "后置定语（介词短语），修饰 gastric biopsies，说明样本来源",
+    "zh": "这些样本取自……病人"
+   },
+   {
+    "text": "with gastritis.",
+    "role": "后置定语（介词短语），修饰 patients",
+    "zh": "胃炎"
+   }
+  ],
+  "structure": "①句首 Yet 是转折连词，与上文形成对比：医学界认为没有细菌能在胃里存活，沃伦却在胃部样本里看到了细菌。\n②主句是 Robin Warren had seen curved, coiled bacteria：主语 Robin Warren，谓语 had seen，宾语 curved, coiled bacteria。a pathologist at Royal Perth Hospital 是 Robin Warren 的同位语，前后用逗号隔开；at Royal Perth Hospital 作 pathologist 的后置定语。\n③宾语中 curved 和 coiled 是两个并列的形容词，用逗号隔开，共同修饰 bacteria，描述细菌的形态：弯曲、盘绕。\n④in gastric biopsies 是地点状语，说明在哪里看到细菌；from patients 作 gastric biopsies 的后置定语，说明样本来自病人；with gastritis 又作 patients 的后置定语，说明是什么样的病人。几个介词短语层层修饰，每一个都修饰紧挨在它前面的名词。\n⑤谓语用过去完成时 had seen，表示这一观察发生在下一句马歇尔与他合作之前。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "yet 作转折连词",
+    "explain": "yet 作连词时意为“然而，但是”，可以放在句首，也可以用在 and yet 中，常引出出乎意料或与前文相反的事实。本句 Yet 引出与第3句“没有细菌能在胃里存活”相反的事实，是全文从旧说转入新发现的转折点。yet 作副词时多用于否定句和疑问句，意为“还，仍”，如 have not yet decided，要注意区分。考研阅读中，句首的 yet、however、but 往往标志文章方向的转变，是定位答案的重要信号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The plan looked perfect on paper. Yet within weeks it had collapsed.",
+      "zh": "这个计划在纸面上看起来完美无缺。然而短短几周内它就失败了。"
+     },
+     {
+      "en": "The town is small, yet it attracts thousands of tourists every summer.",
+      "zh": "这个小镇不大，但每年夏天都吸引成千上万的游客。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时回溯背景",
+    "explain": "过去完成时（had done）以过去某个时间或动作为参照，表示在此之前已经发生的动作，即“过去的过去”。本句没有直接写出参照时间，但叙事背景是下一句马歇尔开始与他合作；沃伦看到细菌在此之前，所以用 had seen，视频用“早已……看到过”体现先后。作者按时间叙事时改用过去完成时，常常是在回溯背景，交代某件事的来由，阅读时要据此理清事件顺序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the new manager arrived, the team had already finished most of the project.",
+      "zh": "新经理到任时，团队已经完成了项目的大部分工作。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语层层作后置定语",
+    "explain": "名词后面可以接连出现几个介词短语，每个介词短语通常修饰紧挨在它前面的名词：biopsies from patients with gastritis 中，from patients 修饰 biopsies，with gastritis 修饰 patients。with 在这里表示“患有”，patients with gastritis 即“胃炎病人”，类似的有 people with disabilities（残疾人）、children with asthma（哮喘患儿）。翻译时后置定语一般前移，层次多时也可以拆出来单独成句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Doctors collected blood samples from adults with diabetes.",
+      "zh": "医生采集了成年糖尿病患者的血样。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pathologist",
+    "explain": "病理学家，研究疾病成因和病变、通过检查组织样本作出诊断的医生。构词成分 path(o)- 表示“疾病”，如 pathology（病理学）、pathogen（病原体）。"
+   },
+   {
+    "term": "Royal Perth Hospital",
+    "explain": "皇家珀斯医院，位于西澳大利亚州首府珀斯（Perth）。"
+   },
+   {
+    "term": "gastric biopsies",
+    "explain": "gastric 意为“胃的”；biopsy 指从病人身上取下一小块组织做检查（视频说明），也可指取下的组织样本。gastric biopsies 指胃部组织活检样本，视频译为“胃部的活检样本”。"
+   },
+   {
+    "term": "curved, coiled",
+    "explain": "curved 意为“弯曲的”，coiled 意为“盘绕的，螺旋状的”，两个词描述细菌的形态，与第9句学名 Helicobacter 中表示“螺旋”的 helico- 相呼应。"
+   }
+  ],
+  "translation_tip": "①Yet 单独译为“然而，”放在句首，保留转折。②同位语 a pathologist at Royal Perth Hospital 前移作定语，译成“皇家珀斯医院的病理学家罗宾·沃伦”，汉语把身份放在人名前更紧凑。③地点状语 in gastric biopsies 提到动词前，译成“在胃部的活检样本中看到过”，符合汉语状语在谓语前的语序；过去完成时用“早已”和“过”来体现。④from patients with gastritis 层次较多，视频没有前置，而是拆出来另起一个分句“这些样本取自胃炎病人”，增补主语“这些样本”承接上文。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Marshall",
+   "predicate": "began",
+   "object_or_complement": "to collaborate with him",
+   "explain": "主谓宾结构，动词不定式短语 to collaborate with him 作 began 的宾语。谓语 began 是 begin 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Marshall",
+    "role": "主语",
+    "zh": "马歇尔"
+   },
+   {
+    "text": "began",
+    "role": "谓语",
+    "zh": "开始"
+   },
+   {
+    "text": "to collaborate with him.",
+    "role": "宾语（动词不定式短语，with him 引出合作对象）",
+    "zh": "与他合作"
+   }
+  ],
+  "structure": "①句子是简单的主谓宾结构：主语 Marshall，谓语 began，动词不定式短语 to collaborate with him 作宾语。\n②collaborate 是不及物动词，合作的对象用 with 引出；him 指上一句的 Robin Warren。\n③篇章上，本句很短，承上启下：上一句交代沃伦的观察，本句引出两人的合作，下文转入培养细菌的过程。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "begin to do 与 begin doing",
+    "explain": "begin 后接不定式或动名词作宾语，多数情况下意思差别不大。以下情况通常用不定式：begin 本身用进行时，如 It is beginning to rain，不说 beginning raining；后接表示认知、心理状态的动词，如 begin to understand、begin to realize。本句 began to collaborate 表示合作关系的开始。start 的用法与 begin 基本相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "As the evidence piled up, investors began to question the company's figures.",
+      "zh": "随着证据越来越多，投资者开始质疑这家公司的数据。"
+     }
+    ]
+   },
+   {
+    "title": "collaborate with sb on sth",
+    "explain": "collaborate 是不及物动词，合作对象用 with sb，合作的事项用 on sth 或 in doing sth，如 collaborate with colleagues on a research project，不能直接接宾语说 collaborate sb。名词 collaboration 常见于 in collaboration with（与……合作）；collaborator 意为“合作者”，在战争语境中还指“通敌者”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The two universities collaborated on a study of air pollution in the region.",
+      "zh": "这两所大学合作开展了一项关于该地区空气污染的研究。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "him 的指代",
+    "explain": "him 指上一句的 Robin Warren。主语 Marshall 和宾语 him 不是同一个人，所以用 him，不用反身代词 himself；对比第12句 Marshall made himself the guinea pig，那里主宾同指，才用 himself。"
+   },
+   {
+    "term": "collaborate",
+    "explain": "源自拉丁语 collaborare，由 com-（共同）和 laborare（劳动）构成，字面义“一起劳动”，与 labour（劳动）同源。"
+   }
+  ],
+  "translation_tip": "本句与英文语序基本一致，直接顺译：不定式 to collaborate with him 译为“与他合作”，介词短语 with him 提到动词“合作”之前，符合汉语“与某人合作”的说法。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Attempts",
+   "predicate": "were",
+   "object_or_complement": "unsuccessful",
+   "explain": "主干是 Attempts were unsuccessful，主系表结构。系动词 were 为一般过去时；invariably 作状语修饰表语，until 引出时间状语，when 引导的非限制性定语从句修饰 Easter 1982。"
+  },
+  "components": [
+   {
+    "text": "Attempts",
+    "role": "主语（复数，表示多次尝试）",
+    "zh": "尝试"
+   },
+   {
+    "text": "to culture the germ",
+    "role": "后置定语（动词不定式短语），修饰 Attempts",
+    "zh": "培养这种病菌的"
+   },
+   {
+    "text": "were",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "invariably",
+    "role": "状语（频度副词），修饰 unsuccessful",
+    "zh": "无一例外地"
+   },
+   {
+    "text": "unsuccessful",
+    "role": "表语",
+    "zh": "未能成功"
+   },
+   {
+    "text": "until Easter 1982,",
+    "role": "时间状语（介词短语）",
+    "zh": "直到1982年复活节"
+   },
+   {
+    "text": "when plates sat undisturbed in the incubator for about five days.",
+    "role": "非限制性定语从句（关系副词 when 引导），修饰 Easter 1982",
+    "zh": "当时培养皿原封不动的在培养箱里放了约五天"
+   }
+  ],
+  "structure": "①主句是 Attempts to culture the germ were invariably unsuccessful：主语 Attempts，动词不定式短语 to culture the germ 作后置定语，说明是什么尝试；were 是系动词，unsuccessful 作表语，invariably 修饰 unsuccessful，强调每一次都失败。\n②until Easter 1982 是时间状语。表语 unsuccessful 带否定意义，与 until 连用相当于 not ... until 结构：一直没有成功，直到1982年复活节才出现转机。\n③when 引导非限制性定语从句，先行词是 Easter 1982，when 在从句中作时间状语，相当于 at which time。从句主语是 plates（培养皿），谓语是 sat，形容词 undisturbed 作主语补足语，说明培养皿所处的状态；in the incubator 是地点状语，for about five days 是时间状语。\n④从句交代转机出现的条件：培养皿这次放了约五天，下一句说平时两天后就扔掉。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "否定意义的词与 until 连用",
+    "explain": "until 表示“直到……为止”。主句是延续性的肯定动作时，until 表示动作一直持续到某个时间；主句是否定或含否定意义时，表示“直到……才”。本句 were invariably unsuccessful until Easter 1982 中，unsuccessful 带否定前缀 un-，整体相当于 not ... until：此前每次都失败，直到1982年复活节才成功。阅读时要读出言外之意：until 后的时间点就是转折点。强调句型 It was not until ... that ...（直到……才）是考研翻译和写作中的常用句型。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It was not until the 1990s that the internet became widely available to the public.",
+      "zh": "直到20世纪90年代，互联网才开始向公众普及。"
+     },
+     {
+      "en": "The patient remained unconscious until the following morning.",
+      "zh": "病人一直昏迷到第二天早上。"
+     }
+    ]
+   },
+   {
+    "title": "关系副词 when 引导非限制性定语从句",
+    "explain": "先行词是表示时间的名词时，可用关系副词 when 引导定语从句，when 在从句中作时间状语，相当于“介词 + which”（at which time、during which）。先行词是具体的年份、日期或节日时，从句只能是非限制性的，前面加逗号，对先行词作补充说明。本句 Easter 1982, when ... 中，when 指1982年复活节那段时间。注意区分：when 引导时间状语从句时修饰整个主句，引导定语从句时修饰前面的时间名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The law was passed in 1998, when public concern about food safety was at its height.",
+      "zh": "这项法律于1998年通过，当时公众对食品安全的担忧达到了顶点。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + 不定式作后置定语",
+    "explain": "attempt、effort、decision、plan、ability、chance 等名词常接动词不定式作后置定语，说明其内容：attempts to culture the germ 即“培养这种病菌的尝试”。这些名词多与可接不定式的动词或形容词对应，如 attempt to do、decide to do、able to do。第11句 Efforts to infect swine 结构相同。翻译时不定式前移，译成“……的尝试/努力”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Repeated attempts to contact the owner of the vehicle have failed.",
+      "zh": "联系车主的多次尝试均告失败。"
+     }
+    ]
+   },
+   {
+    "title": "sit + 形容词表示处于某种状态",
+    "explain": "sit 除表示“坐”外，还可以用于物品，表示“放在某处，处于某种状态”，后接形容词时多指一直没人动、没被使用，如 The house sat empty for years。本句 plates sat undisturbed in the incubator 中，undisturbed 是形容词，作主语补足语，说明培养皿原封不动。类似的有 lie idle（闲置）、remain unchanged（保持不变）、stand empty（空置）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new equipment sat unused in a warehouse for months.",
+      "zh": "新设备在仓库里闲置了好几个月。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "culture 的熟词僻义",
+    "explain": "culture 常见义是“文化”，在生物、医学语境中作动词指在实验室里培养（细菌、细胞等），作名词指培养物，如 a bacterial culture（细菌培养物）。本句 to culture the germ 即“培养这种病菌”。"
+   },
+   {
+    "term": "germ",
+    "explain": "germ 指病菌、细菌，多用于日常语言，泛指能致病的微生物；the germ 回指上文的 bacteria，视频译为“这种病菌”。"
+   },
+   {
+    "term": "plate",
+    "explain": "熟词僻义：plate 常指盘子，在微生物学中可指培养皿，本句 plates 与第1句的 Petri dishes 指同一类器皿，视频译为“培养皿”。"
+   },
+   {
+    "term": "Easter",
+    "explain": "复活节，基督教纪念耶稣复活的节日，日期每年不同，在3月下旬到4月下旬之间的某个星期日。许多西方国家在复活节前后放假。"
+   },
+   {
+    "term": "incubator",
+    "explain": "培养箱，能保持恒定温度、供微生物或细胞生长的设备；也指早产儿保育箱，引申指创业孵化器（business incubator）。"
+   }
+  ],
+  "translation_tip": "①主语 Attempts to culture the germ 中的不定式后置定语前移，译成“培养这种病菌的尝试”。②系动词 were 不单独译出，invariably unsuccessful 译为“无一例外地未能成功”，状语在前，表语在后。③until Easter 1982 顺译为“直到1982年复活节”，与前面的否定配合，表达“此前一直失败，这时才有转机”。④when 引导的非限制性定语从句没有前置，而是放在后面单独成一个分句，when 译为“当时”承接时间；从句的地点状语 in the incubator 移到动词前，sat 与时间状语 for about five days 合译为“放了约五天”，形成“在培养箱里放了约五天”的汉语语序。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "They",
+   "predicate": "were binned",
+   "object_or_complement": "",
+   "explain": "主谓结构的被动句，谓语 were binned 是一般过去时的被动语态，表示过去的惯常做法；ordinarily 插在助动词和过去分词之间作频度状语。"
+  },
+  "components": [
+   {
+    "text": "They",
+    "role": "主语（指上句的 plates）",
+    "zh": "这些培养皿"
+   },
+   {
+    "text": "were ordinarily binned",
+    "role": "谓语（一般过去时被动语态 were binned，频度副词 ordinarily 插在中间作状语）",
+    "zh": "通常……被扔掉"
+   },
+   {
+    "text": "after two.",
+    "role": "时间状语（介词短语，two 后省略了 days）",
+    "zh": "两天后"
+   }
+  ],
+  "structure": "①句子是主谓结构的被动句：主语 They，谓语 were binned，后面没有宾语，after two 是时间状语。\n②They 回指上句的 plates（培养皿），不是指研究人员；被动语态 were binned 说明培养皿是被扔掉的一方，执行者没有说出。\n③ordinarily 是频度副词，放在助动词 were 和过去分词 binned 之间，意为“通常”。一般过去时在这里表示过去反复发生的惯常做法，不是某一次的动作。\n④after two 是省略结构：承接上句 for about five days 省去了 days，完整形式是 after two days（视频说明：after two：两天后）。\n⑤本句与上句对照：平时两天就扔，这次放了约五天，交代了细菌终于长出来的条件。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "承前省略名词",
+    "explain": "为避免重复，英语常省略前文已经出现的名词，只保留数词、形容词或限定词。本句 after two 承接上句 for about five days，省去 days；类似的有 The first experiment failed, but the second succeeded（second 后省略 experiment）。考研阅读中，数词或形容词后面缺中心词时，要回到前文找被省略的名词。翻译时一般要把省略部分补出来，本句视频译为“两天后”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Most patients recover within a week, though a few take three or four.",
+      "zh": "大多数病人一周内就能康复，不过也有少数人需要三四周。"
+     },
+     {
+      "en": "Some of the samples were contaminated, but most were usable.",
+      "zh": "有些样本受到了污染，但大部分样本还能用。"
+     }
+    ]
+   },
+   {
+    "title": "一般过去时被动语态表示过去的习惯",
+    "explain": "一般过去时除表示过去某一次的动作外，还能与 usually、ordinarily、often 等频度副词连用，表示过去经常发生的动作，意思接近 used to。本句 were ordinarily binned 交代当时实验室的惯例：培养皿通常两天就被扔掉，视频用“通常……就会”体现惯常意义。频度副词在被动语态中一般放在助动词 be 之后、过去分词之前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In those days, letters were usually delivered twice a day.",
+      "zh": "那时信件通常一天送两次。"
+     }
+    ]
+   },
+   {
+    "title": "名词直接转用作动词",
+    "explain": "英语中不少名词可以不加词缀直接用作动词，叫“转化”。bin 本是名词“垃圾箱”，作动词意为“把……扔进垃圾箱，扔掉”，属于英式非正式用法；类似的有 email（发电子邮件）、bottle（装瓶）、shelve（搁置）。阅读时遇到熟悉的名词出现在谓语位置，要想到它的动词义。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council decided to shelve the proposal until next year.",
+      "zh": "委员会决定把这项提议搁置到明年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "bin",
+    "explain": "名词，英式英语里指垃圾箱（美式多说 trash can、garbage can）；作动词意为“扔掉”，非正式，如 bin old papers。本句 were binned 意为“被扔掉”。"
+   },
+   {
+    "term": "ordinarily",
+    "explain": "副词，意为“通常，平常”，相当于 usually，略正式，常用来与特殊情况对比。本句的“通常两天”与上句的“约五天”对照，突出这次是例外。"
+   },
+   {
+    "term": "They 的指代",
+    "explain": "They 指上句的 plates。判断依据是谓语 binned（被扔掉）：能被扔掉的是培养皿，不是人。考研阅读的代词指代题常设在这种位置。"
+   }
+  ],
+  "translation_tip": "①They 译为“这些培养皿”，把代词还原为所指的名词，避免歧义。②省略结构 after two 补出“天”，译为“两天后”，提到谓语之前。③被动语态保留为“被扔掉”；一般过去时表示惯常做法，视频用“通常……就会”体现，“就”强调时间之短。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Colonies",
+   "predicate": "blossomed",
+   "object_or_complement": "",
+   "explain": "主谓结构，blossomed 是不及物动词，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Colonies",
+    "role": "主语（复数名词，零冠词）",
+    "zh": "菌落"
+   },
+   {
+    "text": "blossomed.",
+    "role": "谓语（不及物动词，比喻用法）",
+    "zh": "蓬勃生长起来"
+   }
+  ],
+  "structure": "①句子只有主语和谓语两个成分：主语 Colonies，谓语 blossomed，不及物动词后面不带宾语。\n②colony 在微生物学中指菌落，即细菌在培养基上繁殖形成的、肉眼可见的群体。blossom 本义是“开花”，这里用比喻义，形容菌落像花一样迅速长出来、铺开来。\n③篇章上，本句紧接前两句：培养皿这次放了约五天，比平常的两天久，菌落终于长了出来。两个词的短句和前面的长句形成对比，突出这一转折。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物动词构成的主谓句",
+    "explain": "不及物动词本身意义完整，后面不需要宾语，最简单的句子只有主语和谓语，如 Prices rose、The meeting ended。不及物动词没有被动语态，不能说 Colonies were blossomed。考研写作中要注意动词是否及物：rise、happen、occur、emerge、appear 等常被误用成被动或误接宾语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Within a decade, the small town flourished.",
+      "zh": "不到十年，这个小镇就繁荣起来了。"
+     }
+    ]
+   },
+   {
+    "title": "零冠词复数名词表示不确定的若干",
+    "explain": "复数可数名词前不加冠词，可以泛指一类事物，也可以表示数量不确定的若干个。本句 Colonies 不是泛指所有菌落，而是指这次培养皿上长出的若干菌落，相当于 some colonies。复数名词前是否加 the，取决于是否特指前文提到的或读者已知的那些事物。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Cracks appeared in the walls after the earthquake.",
+      "zh": "地震后墙上出现了裂缝。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "colony 的熟词僻义",
+    "explain": "colony 常见义是“殖民地”，也指同一处聚居的一群动物，如 a colony of ants（一窝蚂蚁）；在微生物学中指“菌落”，视频译为“菌落”。"
+   },
+   {
+    "term": "blossom",
+    "explain": "名词指（果树的）花，动词本义是“开花”，比喻义是“繁荣，发展成熟”，如 Their friendship blossomed into love。本句用比喻义，视频译为“蓬勃生长起来”。"
+   }
+  ],
+  "translation_tip": "①Colonies 直接译为“菌落”，零冠词不译出。②blossomed 是比喻用法，视频没有直译成“开花”，而是译成“蓬勃生长起来”，“起来”表示动作开始并持续，体现菌落由无到有、迅速增多的过程。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "The organism",
+   "predicate": "was later named",
+   "object_or_complement": "Helicobacter pylori",
+   "explain": "主谓结构加主语补足语。谓语 was named 是一般过去时的被动语态，later 是时间状语，插在助动词和过去分词之间；Helicobacter pylori 是主动句 name sth sth 中的宾语补足语，变成被动后作主语补足语。"
+  },
+  "components": [
+   {
+    "text": "The organism",
+    "role": "主语（回指前文的细菌）",
+    "zh": "这种微生物"
+   },
+   {
+    "text": "was later named",
+    "role": "谓语（一般过去时被动语态，later 作时间状语插在 was 与 named 之间）",
+    "zh": "后来被命名为"
+   },
+   {
+    "text": "Helicobacter pylori.",
+    "role": "主语补足语（名词，说明主语被命名的名称）",
+    "zh": "幽门螺杆菌"
+   }
+  ],
+  "structure": "①本句的主动形式是 (Scientists) later named the organism Helicobacter pylori：name 后接宾语 the organism 和宾语补足语 Helicobacter pylori。变成被动句后，原来的宾语作主语，宾语补足语留在谓语后，改作主语补足语。\n②The organism 回指前文的 bacteria、the germ 和长成菌落的细菌，作者用不同的名词指同一对象，避免重复；定冠词 The 表示就是前面说的那种。\n③later 是时间副词，放在助动词 was 和过去分词 named 之间，说明命名发生在培养成功之后。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "带宾语补足语的句子变被动",
+    "explain": "name、call、elect、appoint、consider、make 等动词后可接“宾语 + 宾语补足语”。变为被动语态时，宾语提到主语位置，宾语补足语留在动词后，改称主语补足语：They named the ship Endeavour → The ship was named Endeavour。name、call、elect、appoint 后的名词补足语前不加 as；regard、see、describe 后则要用 as，如 He was regarded as a genius。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She was elected president of the society in 2019.",
+      "zh": "她于2019年当选该学会会长。"
+     },
+     {
+      "en": "He was appointed head of the research team last year.",
+      "zh": "他去年被任命为研究团队负责人。"
+     }
+    ]
+   },
+   {
+    "title": "用概括性名词回指前文",
+    "explain": "英语行文忌重复，常用同义词或概括性更强的词回指前文提到的事物。本文中同一种细菌先后被称为 bacteria、the germ、the organism，本句再给出学名 Helicobacter pylori。考研阅读的指代题和同义替换题常考这种关系，找出同一对象的不同说法，有助于理清句与句之间的联系。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A bear was spotted near the school on Monday. The animal was later captured and released into the forest.",
+      "zh": "周一有人在学校附近发现了一头熊。这头动物后来被捕获，并被放归森林。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Helicobacter pylori",
+    "explain": "幽门螺杆菌的学名，常缩写为 H. pylori。按生物学的双名法，学名由属名和种加词组成，属名首字母大写，种加词小写，印刷时用斜体。Helicobacter 由希腊语 helix（螺旋）和表示“杆菌”的 -bacter 组合而成；pylori 是拉丁语 pylorus（幽门，胃通向十二指肠的出口）的属格，意为“幽门的”。汉语名“幽门螺杆菌”的“幽门”“螺”“杆菌”正好对应这几部分。"
+   },
+   {
+    "term": "organism",
+    "explain": "organism 指生物体，可以是动物、植物或微生物；本句指这种细菌，视频译为“微生物”。microorganism 专指微生物。"
+   },
+   {
+    "term": "later named",
+    "explain": "这种细菌最初被归入弯曲杆菌属（Campylobacter），1989年才归入新设立的螺杆菌属，得到现在的学名，所以本句说 later named。"
+   }
+  ],
+  "translation_tip": "①The organism 译为“这种微生物”，定冠词 The 译为“这种”，表示回指前文的细菌。②被动语态 was named 译为“被命名为”，later 译为“后来”放在前面。③学名 Helicobacter pylori 采用通行的中文名“幽门螺杆菌”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "unimpressed assessors",
+   "predicate": "relegated",
+   "object_or_complement": "the pair's paper",
+   "explain": "主干是 unimpressed assessors relegated the pair's paper，主谓宾结构，to 引出的介词短语与谓语构成 relegate A to B（把 A 降级到 B）。谓语 relegated 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1983",
+    "role": "时间状语（介词短语）",
+    "zh": "1983年"
+   },
+   {
+    "text": "unimpressed assessors",
+    "role": "主语（unimpressed 作前置定语）",
+    "zh": "那些不以为然的评审"
+   },
+   {
+    "text": "at the Gastroenterological Society of Australia",
+    "role": "后置定语（介词短语），修饰 assessors",
+    "zh": "澳大利亚胃肠病学会"
+   },
+   {
+    "text": "relegated",
+    "role": "谓语（relegate A to B 的动词部分）",
+    "zh": "把……贬入"
+   },
+   {
+    "text": "the pair's paper",
+    "role": "宾语（the pair's 是名词所有格）",
+    "zh": "两人的论文"
+   },
+   {
+    "text": "to the bottom tenth",
+    "role": "介词短语，与谓语构成 relegate A to B，表示被贬到的位置",
+    "zh": "最差的10%"
+   },
+   {
+    "text": "of that year's submissions.",
+    "role": "后置定语（介词短语），修饰 the bottom tenth，表示范围",
+    "zh": "当年投稿中"
+   }
+  ],
+  "structure": "①主句是 unimpressed assessors relegated the pair's paper to the bottom tenth：主语 assessors，谓语 relegated，宾语 the pair's paper，to the bottom tenth 与 relegate 构成 relegate A to B（视频说明：relegate A to B：把A降级到B）。\n②主语 assessors 前有形容词 unimpressed 作前置定语，视频说明为“（对他们的研究没什么印象）”；后有介词短语 at the Gastroenterological Society of Australia 作后置定语，说明是哪个机构的评审（视频说明：评审研究和论文）。句首 In 1983 是时间状语，后面没有逗号，阅读时要分清时间状语到 1983 为止，主语从 unimpressed 开始。\n③the pair's paper 中，the pair 指马歇尔和沃伦两人，用名词所有格表示论文是他们的。\n④the bottom tenth 意为“排名最末的十分之一”（视频说明），tenth 在这里是名词“十分之一”；of that year's submissions 作它的后置定语，表示比较范围：当年的全部投稿。that year's 是时间名词的所有格，指1983年。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "relegate A to B",
+    "explain": "relegate 意为“把……降到较低的地位或位置”，常用结构是 relegate sb/sth to sth，被动式 be relegated to sth 更常见，如 be relegated to a minor role（被降为次要角色）。本句主动形式 relegated the pair's paper to the bottom tenth 表示评审把论文归入最差的一档。relegate 带有“不受重视、被边缘化”的意味，考研阅读中常用来表现某人或某事遭到冷落，可作为判断作者态度的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "After the scandal, the minister was relegated to a junior post.",
+      "zh": "丑闻曝光后，这位部长被降到一个级别较低的职位。"
+     },
+     {
+      "en": "Once the new model arrived, the old printers were relegated to the storeroom.",
+      "zh": "新型号一到，旧打印机就被打发进了储藏室。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格：the pair's 与 that year's",
+    "explain": "名词所有格 's 主要表示人或动物的所属，如 the pair's paper（两人的论文）；也可用于时间、距离、国家、机构等名词，如 that year's submissions（当年的投稿）、today's newspaper、a week's holiday。以 -s 结尾的复数名词只加撇号，如 ten minutes' walk。本句同时出现了两种用法：前者表示人的所属，后者表示时间范围。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Last year's results were far better than expected.",
+      "zh": "去年的成绩远远好于预期。"
+     }
+    ]
+   },
+   {
+    "title": "分数的表达",
+    "explain": "英语分数用基数词作分子、序数词作分母，分子大于一时分母加 -s，如 one tenth、three tenths、two thirds。序数词本身也可以作名词表示分数，前面加 a 或 the，如 a tenth of the population。the bottom tenth 意为“排名最末的十分之一”，即“最差的10%”；相对的说法是 the top tenth。考研阅读的数据题常考分数和百分比的换算。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nearly two thirds of the respondents said they would support the plan.",
+      "zh": "近三分之二的受访者表示会支持这项计划。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Gastroenterological Society of Australia",
+    "explain": "澳大利亚胃肠病学会。gastroenterology 意为“胃肠病学”，由 gastro-（胃）、entero-（肠）和 -logy（学科）构成，gastroenterological 是它的形容词。"
+   },
+   {
+    "term": "unimpressed",
+    "explain": "由否定前缀 un- 加 impressed（印象深刻的）构成，意为“不以为然的，没有好印象的”，常接 by 或 with，如 be unimpressed by the argument。本句修饰 assessors，视频译为“不以为然的”。"
+   },
+   {
+    "term": "assessor",
+    "explain": "评估人，评审员；动词 assess 意为“评估，评定”。本句指学会里评审研究和论文的人，视频译为“评审”。"
+   },
+   {
+    "term": "submission",
+    "explain": "动词 submit（提交）的名词形式，可指提交的稿件、材料，如 the deadline for submissions（截稿日期）；另有“服从，屈服”之义。本句 that year's submissions 指当年提交给学会的论文，视频译为“投稿”。"
+   },
+   {
+    "term": "relegate 的体育用法",
+    "explain": "英式英语中 relegate 常用于体育，指把球队降到较低级别的联赛，反义词是 promote（升级）。"
+   }
+  ],
+  "translation_tip": "①句首时间状语 In 1983 译为“1983年，”，加逗号断开。②主语的前置定语 unimpressed 和后置定语 at the Gastroenterological Society of Australia 都放在“评审”之前，译成“澳大利亚胃肠病学会那些不以为然的评审”，机构名在前，评价在后，增补“那些”使语气连贯。③relegate A to B 译成“把”字句“把两人的论文贬入……”，the pair 译为“两人”。④后置定语 of that year's submissions 前移为“当年投稿中”，the bottom tenth 译为“最差的10%”，把分数换成汉语读者更熟悉的百分比。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Efforts",
+   "predicate": "were",
+   "object_or_complement": "in vain",
+   "explain": "主干是 Efforts were in vain，主系表结构，介词短语 in vain 作表语。系动词 were 为一般过去时；likewise 作状语，表示与前文情况相同。"
+  },
+  "components": [
+   {
+    "text": "Efforts",
+    "role": "主语（复数，表示多次努力）",
+    "zh": "多番努力"
+   },
+   {
+    "text": "to infect swine",
+    "role": "后置定语（动词不定式短语），修饰 Efforts",
+    "zh": "让猪（专门用来实验）感染（这种细菌）的"
+   },
+   {
+    "text": "were",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "likewise",
+    "role": "状语（副词，表示与前文情况相同）",
+    "zh": "同样"
+   },
+   {
+    "text": "in vain.",
+    "role": "表语（介词短语）",
+    "zh": "徒劳无功"
+   }
+  ],
+  "structure": "①主句是 Efforts were in vain：主语 Efforts，系动词 were，介词短语 in vain 作表语，意为“徒劳的，没有结果的”。\n②to infect swine 是动词不定式短语，作 Efforts 的后置定语，说明是什么努力；infect 是及物动词，swine 作它的宾语，意为“使猪感染”。感染什么没有说出，从上下文可知是这种细菌。\n③likewise 是副词，意为“同样地”，把本句和上句联系起来：论文被评审贬低，动物实验也同样没有结果。它放在系动词 were 之后、表语之前。\n④本句与第6句 Attempts to culture the germ were invariably unsuccessful 结构相同：名词 + 不定式后置定语作主语，系动词后接表示失败的表语。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词短语作表语",
+    "explain": "系动词后的表语除了名词、形容词，还可以是介词短语，表示状态、位置等，如 in danger、out of date、under control、in vain。in vain 作表语时意为“徒劳的”，与形容词 futile、unsuccessful 意思相近；它更常作状语，放在动词后，如 They tried in vain to rescue him。考研写作中可以用 in vain 替换 useless、fail 等词，使表达更多样。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The search for survivors continued through the night, but it was in vain.",
+      "zh": "搜寻幸存者的工作持续了一整夜，但徒劳无功。"
+     }
+    ]
+   },
+   {
+    "title": "likewise 表示类同",
+    "explain": "likewise 是副词，意为“同样地，也”，可以修饰谓语，如 do likewise（照着做）；也可以放在句首作连接副词，相当于 similarly，引出与前文相似的情况。本句 likewise 放在系动词 were 之后，表示动物实验与上句论文的遭遇一样不顺利。考研阅读中 likewise、similarly、in the same way 提示并列和类比关系，前后两句的方向一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first trial produced no clear result, and the second was likewise inconclusive.",
+      "zh": "第一次试验没有得出明确结果，第二次同样没有定论。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "swine",
+    "explain": "意为“猪”，单复同形，比 pig 正式，多用于农业、医学和科研语境，如 swine fever（猪瘟）、swine flu（猪流感）；用作骂人话时意为“讨厌的家伙”。本句 swine 是复数，指实验用的猪，视频译为“猪”，并增补“（专门用来实验）”说明用途。"
+   },
+   {
+    "term": "infect",
+    "explain": "及物动词，意为“使感染”，常用结构 infect sb/sth with sth，被动式 be infected with sth（感染某种病菌）；名词 infection，形容词 infectious（传染性的）。本句只说 infect swine，省去了 with 引出的病菌，视频增补“（这种细菌）”。"
+   },
+   {
+    "term": "in vain",
+    "explain": "介词短语，意为“徒劳，无结果”；vain 作形容词意为“徒劳的”或“自负的”，如 a vain attempt（徒劳的尝试）。"
+   }
+  ],
+  "translation_tip": "①不定式后置定语 to infect swine 前移，译成“让猪感染……的多番努力”，复数 Efforts 译为“多番努力”，体现不止一次。②infect 的宾语和感染源都用括号增补：“（专门用来实验）”说明猪的用途，“（这种细菌）”补出英文省略的感染源。③系动词 were 不译，likewise 译为“同样”放在表语前，in vain 译为“徒劳无功”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Marshall",
+   "predicate": "made",
+   "object_or_complement": "himself（宾语）the guinea pig（宾语补足语）",
+   "explain": "主谓宾宾补结构：反身代词 himself 作宾语，名词短语 the guinea pig 作宾语补足语。谓语 made 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Marshall",
+    "role": "主语",
+    "zh": "马歇尔"
+   },
+   {
+    "text": "made",
+    "role": "谓语",
+    "zh": "把……当成了"
+   },
+   {
+    "text": "himself",
+    "role": "宾语（反身代词，与主语同指）",
+    "zh": "自己"
+   },
+   {
+    "text": "the guinea pig.",
+    "role": "宾语补足语（名词短语）",
+    "zh": "小白鼠"
+   }
+  ],
+  "structure": "①句子是主谓宾宾补结构：主语 Marshall，谓语 made，宾语 himself，宾语补足语 the guinea pig。make sb sth 意为“使某人成为……”，这里指马歇尔让自己充当实验对象。\n②宾语用反身代词 himself，因为它与主语 Marshall 是同一个人。\n③guinea pig 原指豚鼠，喻指实验对象（视频说明）。定冠词 the 表示这项实验中的那个实验对象：前面用猪做的实验失败了，马歇尔就让自己来担任这个角色。\n④篇章上，本句是第四段的结尾，承接上文论文受冷遇、动物实验失败两件事，引出下一段马歇尔喝下菌液后的反应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "make + 宾语 + 名词作宾语补足语",
+    "explain": "make 后接复合宾语时，宾语补足语可以是形容词（make sb happy）、动词原形（make sb laugh）、过去分词（make oneself understood），也可以是名词（make sb captain）。名词作宾补时说明宾语成为什么身份或角色，前面不加 as，如 The board made her chair。本句 made himself the guinea pig 即“使自己成为实验对象”。同类动词还有 appoint、elect、name、call。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee made him its spokesman.",
+      "zh": "委员会让他担任发言人。"
+     },
+     {
+      "en": "Her research made her a leading authority on the subject.",
+      "zh": "她的研究使她成为该领域的权威。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作宾语",
+    "explain": "宾语与主语指同一人或物时，宾语要用反身代词：Marshall made himself ...，不能写成 made him，那样 him 指的是另一个人。对比第5句 Marshall began to collaborate with him，那里的 him 指沃伦，与主语不是同一人，所以不用反身代词。第19句 the illness Marshall had willingly given himself 也是这一用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The author describes herself as a cautious optimist.",
+      "zh": "这位作者称自己是一个谨慎的乐观主义者。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "guinea pig",
+    "explain": "原指豚鼠，过去常用作实验动物，因此喻指“实验对象，试验品”（视频说明）。汉语习惯说“小白鼠”，视频译为“小白鼠”。常见搭配 act as a guinea pig、be used as guinea pigs。"
+   },
+   {
+    "term": "make oneself + 名词/形容词",
+    "explain": "表示主动让自己成为某种角色或处于某种状态，如 make oneself useful（让自己派上用场）、make oneself comfortable（随意，别拘束）。"
+   }
+  ],
+  "translation_tip": "①make sb sth 译为“把……当成了”，用汉语“把”字句把宾语“自己”提到动词前。②guinea pig 不直译为“豚鼠”，而是换成汉语里表示实验对象的通行说法“小白鼠”。③定冠词 the 不译出。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Marshall（分句一）；his breath（分句二）；weariness（分句三）",
+   "predicate": "was vomiting（分句一）；had（分句二）；set in（分句三）",
+   "object_or_complement": "a disagreeable odour（分句二的宾语）",
+   "explain": "并列句，由三个分句构成：Marshall was vomiting（主谓，过去进行时）、his breath had a disagreeable odour（主谓宾，一般过去时）、weariness set in（主谓，不及物短语动词 set in，一般过去时），均为主动语态。三个分句共用句首时间状语 Within days。"
+  },
+  "components": [
+   {
+    "text": "Within days",
+    "role": "时间状语（介词短语），作用于三个分句",
+    "zh": "几天之内"
+   },
+   {
+    "text": "Marshall",
+    "role": "分句一的主语",
+    "zh": "马歇尔"
+   },
+   {
+    "text": "was vomiting,",
+    "role": "分句一的谓语（过去进行时）",
+    "zh": "就呕吐起来"
+   },
+   {
+    "text": "his breath",
+    "role": "分句二的主语",
+    "zh": "他呼出的气"
+   },
+   {
+    "text": "had",
+    "role": "分句二的谓语",
+    "zh": "带着"
+   },
+   {
+    "text": "a disagreeable odour",
+    "role": "分句二的宾语",
+    "zh": "难闻的气味"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，引出分句三",
+    "zh": "也"
+   },
+   {
+    "text": "weariness",
+    "role": "分句三的主语",
+    "zh": "疲倦感"
+   },
+   {
+    "text": "set in.",
+    "role": "分句三的谓语（不及物短语动词）",
+    "zh": "出现了（不好的事到来且持续）"
+   }
+  ],
+  "structure": "①本句是三个分句构成的并列句，格式是“分句一, 分句二 and 分句三”：前两个分句用逗号隔开，最后一个分句前用 and 连接。句首 Within days 是时间状语，管三个分句：几天之内先后出现三种症状。\n②分句一 Marshall was vomiting：谓语用过去进行时，描写那几天里反复呕吐的状态。\n③分句二 his breath had a disagreeable odour：主谓宾结构，his breath 作主语，had 作谓语，a disagreeable odour 作宾语。\n④分句三 weariness set in：weariness 作主语，set in 是不及物短语动词，作谓语。and 后的 weariness 不是 had 的第二个宾语：如果把 odour and weariness 当成并列宾语，后面的 set in 就没有主语，句子讲不通。\n⑤set in 指不好的事情开始出现并持续下去，视频用括号说明为“（不好的事到来且持续）”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列句中 and 连接的是什么",
+    "explain": "并列句由两个或多个独立分句构成，分句之间用并列连词（and、but、or、so 等）或分号连接；三个以上分句并列时，常写成“分句, 分句(,) and 分句”。本句 and 前没有逗号，容易把 odour and weariness 误看成并列宾语，判断方法是看 and 后面有没有自己的谓语：set in 说明 weariness 是新分句的主语。考研长难句中遇到 and，要先判断它连接的是词、短语还是分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By evening the wind had dropped, the rain had stopped, and the streets were filling with people again.",
+      "zh": "到了傍晚，风停了，雨也停了，街上又渐渐挤满了人。"
+     },
+     {
+      "en": "The museum kept the painting and the letter remained in private hands.",
+      "zh": "博物馆保留了那幅画，那封信则仍归私人所有。"
+     }
+    ]
+   },
+   {
+    "title": "过去进行时描写过去的状态",
+    "explain": "过去进行时（was/were doing）表示过去某段时间正在进行或反复发生的动作。本句 was vomiting 不是指吐了一次，而是描写那几天里不断呕吐的情形，比一般过去时 vomited 更有画面感。叙事中，作者常用过去进行时描写背景和持续状态，用一般过去时交代具体事件：后面的 had 和 set in 就用了一般过去时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the third day of the voyage, half the passengers were feeling seasick.",
+      "zh": "航行到第三天，一半乘客都感到晕船。"
+     }
+    ]
+   },
+   {
+    "title": "不及物短语动词 set in",
+    "explain": "set in 是不及物短语动词，意为（坏天气、疾病、不好的情况）开始出现并持续，主语多是 winter、rain、panic、fatigue、infection 等，如 Winter set in early that year。它不带宾语，也没有被动语态，不能说 weariness was set in。考研阅读中描写经济衰退、情绪蔓延时常见 Panic set in、Pessimism has set in 等说法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Doubts began to set in once the costs started to rise.",
+      "zh": "成本一开始上涨，人们就开始产生疑虑。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "within days",
+    "explain": "within + 时间段意为“在……之内”，within days 强调时间之短，即“几天之内”；类似的有 within hours、within weeks。"
+   },
+   {
+    "term": "odour",
+    "explain": "英式拼写，美式拼写为 odor，意为“气味”，多指难闻的气味，比 smell 正式；body odour 指体味。"
+   },
+   {
+    "term": "disagreeable",
+    "explain": "由否定前缀 dis- 加 agreeable（令人愉快的）构成，意为“令人不快的”；修饰气味时视频译为“难闻的”。"
+   },
+   {
+    "term": "weariness",
+    "explain": "名词，意为“疲倦，厌倦”，形容词为 weary。视频译为“疲倦感”。"
+   }
+  ],
+  "translation_tip": "①时间状语 Within days 译为“几天之内，”放在句首，后面三个分句依次顺译。②过去进行时 was vomiting 译为“就呕吐起来”，“就”体现 within days 所含的“很快”，“起来”表示动作开始并持续。③his breath 译为“他呼出的气”，比“他的呼吸”更具体；had 译为“带着”，与“气味”搭配自然。④and 用“也”体现并列；set in 译为“出现了”，括号说明其含义；weariness 译为“疲倦感”，增补“感”字，使抽象名词更符合汉语表达。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "an endoscopy",
+   "predicate": "revealed",
+   "object_or_complement": "gastritis",
+   "explain": "主干是 an endoscopy revealed gastritis，主谓宾结构。谓语 revealed 为一般过去时，主动语态；宾语后的两个名词短语是同位语，albeit 引出省略形式的让步状语。"
+  },
+  "components": [
+   {
+    "text": "About ten days later",
+    "role": "时间状语（名词短语 + 副词 later）",
+    "zh": "约十天后"
+   },
+   {
+    "text": "an endoscopy",
+    "role": "主语",
+    "zh": "胃镜检查"
+   },
+   {
+    "text": "revealed",
+    "role": "谓语",
+    "zh": "显示出"
+   },
+   {
+    "text": "gastritis,",
+    "role": "宾语",
+    "zh": "胃炎"
+   },
+   {
+    "text": "an inflammation of the stomach's mucous membrane",
+    "role": "同位语一，说明 gastritis 是什么病（of 短语作 inflammation 的后置定语）",
+    "zh": "也就是胃黏膜的炎症"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个同位语",
+    "zh": "也是"
+   },
+   {
+    "text": "a precursor to ulcers,",
+    "role": "同位语二，说明 gastritis 与溃疡的关系",
+    "zh": "溃疡的前兆"
+   },
+   {
+    "text": "albeit",
+    "role": "让步连词，引出省略形式的让步状语",
+    "zh": "尽管"
+   },
+   {
+    "text": "not an ulcer itself.",
+    "role": "让步状语的主体（省略了 it was，相当于 although it was not an ulcer itself）",
+    "zh": "它本身还不是溃疡"
+   }
+  ],
+  "structure": "①主句是 an endoscopy revealed gastritis：主语 an endoscopy（内窥镜检查，本句指胃镜检查），谓语 revealed，宾语 gastritis。句首 About ten days later 是时间状语，later 放在时间段之后，表示“……之后”。\n②gastritis 后面是两个用 and 连接的名词短语，都作 gastritis 的同位语：an inflammation of the stomach's mucous membrane 说明胃炎是什么（胃黏膜的炎症），a precursor to ulcers 说明胃炎与溃疡的关系（溃疡的前兆）。前一个同位语中，of the stomach's mucous membrane 作 inflammation 的后置定语，the stomach's 是名词所有格，修饰 mucous membrane。\n③albeit not an ulcer itself 是让步状语，albeit 意为“尽管”，后面省略了主语和系动词，完整形式是 although it was not an ulcer itself，it 指 gastritis。itself 是反身代词，作同位语表示强调：胃炎本身并不是溃疡。\n④这一层意思与全文呼应：马歇尔喝下菌液后得的是胃炎，不是溃疡，但胃炎是溃疡的前兆；最后一句又提到诺贝尔奖颁奖词写进了胃炎。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "albeit 引导省略式让步",
+    "explain": "albeit 是连词，意为“尽管，虽然”，比 although 正式，后面不接完整的从句，只接形容词、副词、名词短语或介词短语，如 a small, albeit important, change（一个虽小却重要的变化）、He agreed, albeit reluctantly。本句 albeit not an ulcer itself 相当于 although it was not an ulcer itself。albeit 常用来对前文的说法加以限定，考研阅读中它后面的内容往往是作者的保留或补充，做细节题时要留意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The economy is growing, albeit at a slower pace than last year.",
+      "zh": "经济在增长，尽管增速比去年慢。"
+     },
+     {
+      "en": "The plan was approved, albeit by a narrow margin.",
+      "zh": "这项计划获得通过，尽管优势微弱。"
+     }
+    ]
+   },
+   {
+    "title": "并列名词短语作同位语",
+    "explain": "同位语可以是一个名词短语，也可以是几个用 and 连接的名词短语，紧跟在被解释的名词后，用逗号隔开。本句 gastritis 后有两个同位语：前一个下定义，后一个说明它与溃疡的关系。科普文章常在专业术语第一次出现时用同位语给出解释，考研阅读的词义猜测题常利用这一点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The patient had anaemia, a shortage of red blood cells in the body.",
+      "zh": "这名病人患有贫血，也就是体内红细胞不足。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作同位语表示强调",
+    "explain": "反身代词可以放在名词或代词后面，或放在句末，作同位语，强调“本身，亲自”，如 The house itself is small、She did it herself。去掉它，句子结构依然完整。本句 not an ulcer itself 中 itself 强调胃炎本身，与前面的 a precursor to ulcers 形成对比：它是溃疡的前兆，但本身还不是溃疡。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The building itself is modern, but the gardens date back to the 18th century.",
+      "zh": "这座建筑本身很现代，但花园可以追溯到18世纪。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "endoscopy",
+    "explain": "内窥镜检查，用带摄像头的细管伸入体内观察器官内部。本句检查的是胃，视频译为“胃镜检查”。构词上 endo- 意为“内部的”，-scopy 意为“观察，检查”。"
+   },
+   {
+    "term": "gastritis 与后缀 -itis",
+    "explain": "gastritis 意为“胃炎”，gastr- 表示“胃”，-itis 表示“炎症”，同类词有 arthritis（关节炎）、bronchitis（支气管炎）、hepatitis（肝炎）。"
+   },
+   {
+    "term": "mucous membrane",
+    "explain": "黏膜，覆盖消化道、呼吸道等器官内壁并分泌黏液的组织。mucous 是形容词“黏液的”，名词“黏液”是 mucus，两者读音相同，拼写不同。"
+   },
+   {
+    "term": "precursor to/of",
+    "explain": "precursor 意为“前兆，先驱，前身”，常接 to 或 of，如 a precursor to war、the precursor of the modern computer。本句 a precursor to ulcers 即“溃疡的前兆”。"
+   }
+  ],
+  "translation_tip": "①时间状语 About ten days later 译为“约十天后，”放在句首。②an endoscopy 结合语境译为“胃镜检查”，revealed 译为“显示出”。③两个同位语没有前置，而是顺着英文语序放在“胃炎”之后：第一个用“也就是”引出，表示解释；and 译为“也是”，引出第二个同位语“溃疡的前兆”。④省略式让步 albeit not an ulcer itself 补出主语，译为“尽管它本身还不是溃疡”，“它”指胃炎，“还”强调胃炎尚未发展成溃疡。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The germ",
+   "predicate": "was cultured",
+   "object_or_complement": "",
+   "explain": "主谓结构的被动句，谓语 was cultured 为一般过去时的被动语态，动作执行者没有说出；directly from his stomach 作状语。"
+  },
+  "components": [
+   {
+    "text": "The germ",
+    "role": "主语",
+    "zh": "这种病菌"
+   },
+   {
+    "text": "was cultured",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "是……培养出来的"
+   },
+   {
+    "text": "directly",
+    "role": "状语（副词），修饰后面的介词短语",
+    "zh": "直接"
+   },
+   {
+    "text": "from his stomach.",
+    "role": "来源状语（介词短语）",
+    "zh": "从他胃里"
+   }
+  ],
+  "structure": "①句子是被动语态的主谓结构：主语 The germ，谓语 was cultured，没有 by 短语，因为执行者（研究人员）不言自明，也不是信息重点。\n②from his stomach 是介词短语作状语，说明培养物的来源；副词 directly 修饰 from his stomach，强调细菌是从他胃里直接取样培养出来的。\n③The germ 指马歇尔喝下的那种细菌，定冠词表示特指。本句说明他胃里确实有这种细菌，与上句的胃炎联系起来，指向细菌与胃病的关系。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "被动语态省略 by 短语",
+    "explain": "执行者不明、不言自明或不重要，或者需要把动作的承受者当作话题时，常用被动语态并省略 by 短语。科技文章和实验报告大量使用这种被动句，以突出研究对象和结果，如 The samples were analysed、The germ was cultured。译成汉语时不必都用“被”，可以用“是……的”句式、主动句或无主句，本句视频译为“是……培养出来的”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The results were published in a leading medical journal last month.",
+      "zh": "这些结果上个月发表在一份权威医学期刊上。"
+     },
+     {
+      "en": "Thousands of samples are tested in the laboratory every week.",
+      "zh": "实验室每周要检测数千份样本。"
+     }
+    ]
+   },
+   {
+    "title": "副词修饰介词短语",
+    "explain": "副词除修饰动词、形容词外，还可以修饰介词短语，起限定或强调作用，如 directly from the source、right behind the door、shortly after midnight、well within the limit。本句 directly 修饰 from his stomach，说明来源是直接的。翻译时副词一般放在介词短语前面，如“直接从他胃里”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire broke out shortly after midnight.",
+      "zh": "大火在午夜过后不久燃起。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "culture 作动词",
+    "explain": "本句 was cultured 是 culture 的被动式，意为“被培养”，与第6句 to culture the germ 呼应：之前在培养皿里培养这种细菌屡屡失败，这次直接从马歇尔胃里取样培养了出来。cultured 作形容词时另有“有教养的”“人工培养的”之义，如 cultured pearls（养殖珍珠）。"
+   },
+   {
+    "term": "directly 的熟词僻义",
+    "explain": "directly 常见义是“直接地”；在英式英语中还可作连词，意为“一……就”，如 Directly I saw him, I knew something was wrong。"
+   }
+  ],
+  "translation_tip": "①被动语态 was cultured 用“是……的”句式译为“是……培养出来的”，强调细菌的来源，比用“被”字更符合汉语习惯。②状语 directly from his stomach 提到动词前，译为“直接从他胃里”，stomach 后增补方位词“里”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Marshall",
+   "predicate": "took",
+   "object_or_complement": "antibiotics",
+   "explain": "主干是 Marshall took antibiotics，主谓宾结构。谓语 took 为一般过去时，主动语态；句首过去分词短语作原因状语，句尾 which 引导非限制性定语从句。"
+  },
+  "components": [
+   {
+    "text": "Spurred on by his insistent spouse,",
+    "role": "原因状语（过去分词短语，逻辑主语是 Marshall）",
+    "zh": "被他态度坚决的妻子（不断）催促"
+   },
+   {
+    "text": "Marshall",
+    "role": "主语",
+    "zh": "马歇尔"
+   },
+   {
+    "text": "took",
+    "role": "谓语",
+    "zh": "（终于）服用了"
+   },
+   {
+    "text": "antibiotics,",
+    "role": "宾语",
+    "zh": "抗生素"
+   },
+   {
+    "text": "which cleared the infection.",
+    "role": "非限制性定语从句，修饰 antibiotics（which 在从句中作主语）",
+    "zh": "并且清除了感染"
+   }
+  ],
+  "structure": "①主句是 Marshall took antibiotics：主语 Marshall，谓语 took，宾语 antibiotics。take 后接药物时意为“服用”。\n②句首 Spurred on by his insistent spouse 是过去分词短语，作原因状语，逻辑主语是主句主语 Marshall：马歇尔是被催促的一方，所以用过去分词。spur sb on 意为“激励、催促某人”（视频说明），变成被动是 be spurred on by sb，by 引出催促的人。\n③which 引导非限制性定语从句，修饰 antibiotics，which 在从句中作主语；cleared 是从句谓语，the infection 是宾语。\n④全句按因果顺序展开：妻子催促，他服用抗生素，抗生素清除了感染。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作原因状语",
+    "explain": "过去分词短语可以放在句首作状语，表示原因、时间、条件或伴随，它的逻辑主语必须是主句主语，并且与之构成被动关系。本句 Spurred on by his insistent spouse 的逻辑主语是 Marshall，马歇尔被妻子催促，相当于 Because he was spurred on by his insistent spouse。如果逻辑主语与主句主语不一致，就成了“垂悬分词”，是写作中的常见错误，如 Spurred on by his wife, the antibiotics were taken 就是错句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Encouraged by the early results, the team decided to expand the trial.",
+      "zh": "受早期结果鼓舞，团队决定扩大试验规模。"
+     },
+     {
+      "en": "Shocked by the news, she sat in silence for a long time.",
+      "zh": "这个消息让她震惊不已，她默默地坐了很久。"
+     }
+    ]
+   },
+   {
+    "title": "非限制性定语从句与先行词的判断",
+    "explain": "非限制性定语从句用逗号与主句隔开，对先行词补充说明，关系代词不能用 that，也不能省略。which 引导的非限制性定语从句可以修饰前面的名词，也可以指代前面整个主句的内容，要看从句谓语与谁搭配：本句 cleared the infection 的执行者自然是药物，which 指 antibiotics。考研翻译中，表示结果或补充情况的非限制性定语从句常译成并列分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company introduced flexible working hours, which greatly improved staff morale.",
+      "zh": "公司实行了弹性工作时间，这大大提高了员工的士气。"
+     },
+     {
+      "en": "She recommended a new textbook, which most of the class found useful.",
+      "zh": "她推荐了一本新教材，班上大多数人都觉得它很有用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "spur sb on",
+    "explain": "spur 名词本义是“马刺”，骑手用它刺马使其加速；动词 spur 意为“激励，促进”，spur sb on 意为“激励、催促某人”（视频说明），spur sth 意为“刺激，促进”，如 spur economic growth。常见短语 on the spur of the moment（一时冲动，心血来潮）。"
+   },
+   {
+    "term": "insistent",
+    "explain": "形容词，意为“坚持的，坚决的”，常见结构 be insistent on/about sth、be insistent that ...，动词是 insist。本句修饰 spouse，视频译为“态度坚决的”。"
+   },
+   {
+    "term": "spouse",
+    "explain": "配偶，正式用词，不分男女，多见于法律和行政文件；本句指马歇尔的妻子，视频译为“妻子”。"
+   },
+   {
+    "term": "take 与 clear",
+    "explain": "take 后接药物意为“服用”，如 take antibiotics、take two tablets a day，“吃药”不说 eat medicine。clear 在这里是熟词僻义“清除，消除”，clear the infection 即“清除感染”。"
+   }
+  ],
+  "translation_tip": "①过去分词短语 Spurred on by his insistent spouse 保留在句首，用“被”字体现被动，译为“被他态度坚决的妻子（不断）催促，”，括号增补“（不断）”体现 spur on 的持续催促。②主句增补“（终于）”，表示马歇尔是在妻子再三催促之后才服药。③非限制性定语从句 which cleared the infection 没有译成定语，而是译成并列分句“并且清除了感染”，交代服药的结果。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Ulcers",
+   "predicate": "came to be treated",
+   "object_or_complement": "",
+   "explain": "主谓结构，谓语 came to be treated 由 come to do（逐渐开始做）加不定式的被动式构成，一般过去时，表示被动意义；with such medication 作方式状语。"
+  },
+  "components": [
+   {
+    "text": "Ulcers",
+    "role": "主语",
+    "zh": "溃疡"
+   },
+   {
+    "text": "came to be treated",
+    "role": "谓语（come to do 结构，不定式用被动式 to be treated）",
+    "zh": "后来逐渐开始……治疗"
+   },
+   {
+    "text": "with such medication.",
+    "role": "方式状语（介词短语）",
+    "zh": "用这类药物"
+   }
+  ],
+  "structure": "①句子是主谓结构：主语 Ulcers，谓语 came to be treated，后接方式状语 with such medication。\n②come to do 意为“逐渐开始做”（视频说明），表示经过一段过程后发生的变化，不是“来做某事”。不定式用被动式 to be treated，因为溃疡是被治疗的对象。\n③with such medication 中，with 表示方式、手段，即“用……”；such medication 指上一句的 antibiotics（抗生素），such 意为“这类”。\n④本句把马歇尔个人的经历扩展到溃疡治疗的整体变化：此后溃疡逐渐开始用抗生素来治疗。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "come to do 表示逐渐变化",
+    "explain": "come to do 意为“逐渐开始，终于”，后面常接 know、realize、believe、understand、accept、be regarded 等表示认识、看法的动词，强调经过一段时间后形成的状态，如 She came to realize that she had been wrong。要与表示目的的 come to do（来做某事）区分，如 He came to see me，需根据语境判断。考研阅读中 come to be seen as、come to be accepted 常用来描述观念的转变。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Over time, the town came to depend heavily on tourism.",
+      "zh": "随着时间推移，这个小镇逐渐严重依赖旅游业。"
+     },
+     {
+      "en": "The once radical idea has come to be widely accepted.",
+      "zh": "这个曾经激进的观点已逐渐被广泛接受。"
+     }
+    ]
+   },
+   {
+    "title": "不定式的被动式",
+    "explain": "不定式的逻辑主语是动作的承受者时，用被动式 to be done。本句 came to be treated 中，溃疡是被治疗的，所以不用 came to treat。类似的有 expect to be invited、hope to be chosen、seem to be ignored。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many young graduates expect to be promoted within two years.",
+      "zh": "许多年轻毕业生期望两年内获得晋升。"
+     }
+    ]
+   },
+   {
+    "title": "such + 不可数名词",
+    "explain": "such 修饰单数可数名词时要加 a/an，如 such a drug；修饰不可数名词或复数名词时不加冠词，如 such medication、such drugs。such 在此表示“这类，此类”，回指前文提到的事物，本句指上一句的抗生素。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Such equipment is expensive to maintain.",
+      "zh": "这类设备维护起来费用很高。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "medication",
+    "explain": "指药物、药剂，多用于医学语境，可作不可数名词，也可数，指某一种药，如 be on medication（正在服药）。medicine 也指药，但还有“医学”之义。"
+   },
+   {
+    "term": "such medication 的指代",
+    "explain": "such medication 回指第16句的 antibiotics，作者换用概括性更强的 medication，避免重复。"
+   },
+   {
+    "term": "treat sth with sth",
+    "explain": "treat sb/sth with sth 意为“用……治疗”，如 treat an infection with antibiotics；本句是被动式 be treated with such medication。"
+   }
+  ],
+  "translation_tip": "①came to be treated 拆开处理：come to 译为“后来逐渐开始”，增补“后来”交代时间先后；被动意义没有用“被”，而是把方式状语 with such medication 与动词合译为“用这类药物来治疗”，汉语用主动形式表达被动意义更自然。②such medication 译为“这类药物”，指前文的抗生素。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Marshall and Warren",
+   "predicate": "shared",
+   "object_or_complement": "the Nobel Prize in Physiology or Medicine",
+   "explain": "主干是 Marshall and Warren shared the Nobel Prize in Physiology or Medicine，主谓宾结构，主语是 and 连接的两个人名。谓语 shared 为一般过去时，主动语态；for 引出获奖原因。"
+  },
+  "components": [
+   {
+    "text": "In 2005",
+    "role": "时间状语（介词短语）",
+    "zh": "2005年"
+   },
+   {
+    "text": "Marshall and Warren",
+    "role": "主语（两个人名并列）",
+    "zh": "马歇尔与沃伦"
+   },
+   {
+    "text": "shared",
+    "role": "谓语",
+    "zh": "共同获得了"
+   },
+   {
+    "text": "the Nobel Prize in Physiology or Medicine",
+    "role": "宾语（奖项的正式名称）",
+    "zh": "诺贝尔生理学或医学奖"
+   },
+   {
+    "text": "for",
+    "role": "介词，引出原因状语（for + 动名词短语）",
+    "zh": "以表彰他们"
+   },
+   {
+    "text": "discovering",
+    "role": "介词 for 的宾语（动名词），带两个并列宾语",
+    "zh": "发现了"
+   },
+   {
+    "text": "Helicobacter pylori",
+    "role": "动名词 discovering 的宾语之一",
+    "zh": "幽门螺杆菌"
+   },
+   {
+    "text": "and its role in gastritis and peptic ulcer disease.",
+    "role": "动名词 discovering 的宾语之二（in 短语作 role 的后置定语）",
+    "zh": "及其在胃炎和消化性溃疡中的作用"
+   }
+  ],
+  "structure": "①主句是 Marshall and Warren shared the Nobel Prize in Physiology or Medicine：主语是两个并列的人名，谓语 shared 意为“共同获得”，宾语是奖项的正式名称。句首 In 2005 是时间状语。\n②for discovering ... 是介词短语，作原因状语，说明获奖原因；for 后接动名词 discovering，其逻辑主语是两位获奖者。\n③discovering 带两个并列宾语：Helicobacter pylori 和 its role in gastritis and peptic ulcer disease，用 and 连接。its 指 Helicobacter pylori；in gastritis and peptic ulcer disease 作 role 的后置定语，里面又用 and 连接两种疾病。句中三个 and 分别连接两个人名、两个宾语和两种疾病，阅读时要分清层次。\n④奖项名称中的 or 是正式名称的一部分，指颁给生理学或医学领域的同一个奖，不是两个奖。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 for 表示原因",
+    "explain": "for 可以表示原因、理由，常与表示奖惩、褒贬、感谢、道歉的词搭配：win/receive a prize for sth、thank sb for sth、blame sb for sth、apologize for sth、be famous for sth。for 后接动作时用动名词，如 for discovering。本句 shared the Nobel Prize ... for discovering ... 即“因发现……而共同获得诺贝尔奖”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She received an award for her work on renewable energy.",
+      "zh": "她因在可再生能源方面的研究获奖。"
+     },
+     {
+      "en": "The company was fined for failing to protect customer data.",
+      "zh": "这家公司因未能保护客户数据而被罚款。"
+     }
+    ]
+   },
+   {
+    "title": "动名词带并列宾语",
+    "explain": "动名词保留动词的特点，可以带宾语，也可以带几个用 and 连接的并列宾语。本句 discovering Helicobacter pylori and its role in ... 中，and 连接的两个名词短语都是 discovering 的宾语：既发现了这种细菌，也发现了它在疾病中的作用。阅读时要判断 and 后面的成分与谁并列：its role 与 Helicobacter pylori 并列，不是与 the Nobel Prize 并列。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report focuses on identifying the risks and their likely impact on small businesses.",
+      "zh": "这份报告着重找出这些风险及其对小企业可能产生的影响。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Nobel Prize in Physiology or Medicine",
+    "explain": "诺贝尔生理学或医学奖，由瑞典卡罗琳医学院（Karolinska Institutet）的诺贝尔大会评选，正式名称中用 or。2005年该奖授予 Barry J. Marshall 和 J. Robin Warren，表彰他们发现幽门螺杆菌及其在胃炎和消化性溃疡中的作用。"
+   },
+   {
+    "term": "share a prize",
+    "explain": "share 意为“共同拥有，分享”，share a prize/an award 指几个人共同获得同一奖项，视频译为“共同获得了”。"
+   },
+   {
+    "term": "role in sth",
+    "explain": "role 意为“作用，角色”，常见搭配 play a role in sth（在……中起作用）、a key role。its role in gastritis 即“它在胃炎中的作用”，视频译为“作用”。"
+   },
+   {
+    "term": "peptic ulcer",
+    "explain": "消化性溃疡，指胃或十二指肠内壁出现的溃疡，包括胃溃疡（gastric ulcer）和十二指肠溃疡（duodenal ulcer）；peptic 意为“消化的”。"
+   }
+  ],
+  "translation_tip": "①主语和谓语顺译，shared 译为“共同获得了”。②for 引出的原因状语没有译成“因为……”，而是放在主句之后，译为“以表彰他们发现了……”：“以表彰”符合颁奖类文字的习惯，“他们”补出动名词的逻辑主语。③its 译为“其”，与“及”连用为“及其”；后置定语 in gastritis and peptic ulcer disease 前移，译成“在胃炎和消化性溃疡中的作用”，peptic ulcer disease 译为“消化性溃疡”。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "Gastritis",
+   "predicate": "is named",
+   "object_or_complement": "",
+   "explain": "主谓结构的被动句，谓语 is named 为一般现在时的被动语态；主语后的 the illness Marshall had willingly given himself 是同位语，in the prize citation 是地点状语。"
+  },
+  "components": [
+   {
+    "text": "Gastritis,",
+    "role": "主语",
+    "zh": "胃炎"
+   },
+   {
+    "text": "the illness",
+    "role": "同位语的中心词，说明 Gastritis",
+    "zh": "病"
+   },
+   {
+    "text": "Marshall had willingly given himself,",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 the illness",
+    "zh": "马歇尔当年心甘情愿地让自己染上的"
+   },
+   {
+    "text": "is named",
+    "role": "谓语（一般现在时被动语态）",
+    "zh": "被写进了"
+   },
+   {
+    "text": "in the prize citation.",
+    "role": "地点状语（介词短语）",
+    "zh": "奖项颁奖词（获奖评语）"
+   }
+  ],
+  "structure": "①主句是 Gastritis is named in the prize citation：主语 Gastritis，谓语 is named（被动语态），in the prize citation 作地点状语。name 在这里意为“提到……的名字，列出”，is named in the citation 即胃炎被写进了颁奖词。\n②the illness Marshall had willingly given himself 是 Gastritis 的同位语（视频说明），前后用逗号隔开。同位语的中心词是 the illness，Marshall had willingly given himself 是省略了关系代词 that/which 的限制性定语从句，修饰 the illness。\n③从句还原为 Marshall had willingly given himself the illness：give 是双宾语动词，himself 是间接宾语，the illness 是直接宾语；被省略的关系代词在从句中作 given 的直接宾语，所以可以省略。willingly 作方式状语，意为“心甘情愿地”。\n④时态对比：从句用过去完成时 had given，指当年的自体实验，发生在上句获奖之前；主句用一般现在时 is named，因为颁奖词的内容至今仍是如此，是现在依然成立的事实。\n⑤篇章上，本句是全文结尾，与第14句呼应：马歇尔亲身染上的是胃炎，而诺贝尔奖颁奖词恰好写到了胃炎，作者以这一细节收束全文。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语中的省略式定语从句",
+    "explain": "同位语本身可以带定语从句，如本句 the illness (that) Marshall had willingly given himself。关系代词在从句中作宾语时可以省略，识别方法是名词后直接跟“主语 + 谓语”，而谓语后缺少一个成分：given himself 后缺直接宾语，缺的就是先行词 the illness。考研长难句中，同位语加省略式定语从句插在主语和谓语之间，容易打断阅读，要先找到主句谓语 is named，再回头分析中间部分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Penicillin, the drug Fleming discovered almost by accident, transformed modern medicine.",
+      "zh": "青霉素，这种弗莱明几乎是偶然发现的药物，改变了现代医学。"
+     },
+     {
+      "en": "Her first novel, the book critics had dismissed as too long, became a bestseller.",
+      "zh": "她的第一部小说，也就是那本被评论家批评篇幅过长的书，后来成了畅销书。"
+     }
+    ]
+   },
+   {
+    "title": "双宾语动词在定语从句中的还原",
+    "explain": "give、send、show、offer、bring 等双宾语动词后接间接宾语（人）和直接宾语（物）：give sb sth。直接宾语被提到前面作先行词时，从句里只剩间接宾语，如 the illness Marshall had given himself = Marshall had given himself the illness。give oneself an illness 字面意思是“给自己一种病”，即“让自己染上病”，视频译为“让自己染上的病”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The advice my teacher gave me that day has stayed with me ever since.",
+      "zh": "那天老师给我的建议，我一直铭记至今。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时与一般现在时同句对照",
+    "explain": "同一句中可以出现不同时态，各自以不同的时间为参照。本句主句 is named 用一般现在时，说明颁奖词的内容是现在依然成立的事实；从句 had given 用过去完成时，表示自体实验发生在2005年获奖之前，是“过去的过去”。叙事文章的结尾常用一般现在时，把读者拉回现在。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By 1990 the factory had closed, and the site is now a park.",
+      "zh": "到1990年，这家工厂已经关闭，原址如今是一座公园。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "citation",
+    "explain": "citation 常见义是“引用，引文”；本句 prize citation 指颁奖时宣读的获奖理由（视频说明），即“颁奖词，获奖评语”；在军队、政府中也指嘉奖令。动词 cite 意为“引用”，也有“（正式）表彰”之义。"
+   },
+   {
+    "term": "name 的熟词僻义",
+    "explain": "name 作动词除了“给……命名”（如第9句 was later named），还可以表示“说出……的名字，提到，列出”，如 name the winners（公布获奖者名单）。本句 is named in the prize citation 意为“在颁奖词中被提到”，视频译为“被写进了”。"
+   },
+   {
+    "term": "willingly",
+    "explain": "副词，意为“心甘情愿地，主动地”，形容词为 willing，反义词有 unwillingly、reluctantly。本句强调马歇尔是主动让自己染病的，与第12句 made himself the guinea pig 呼应。"
+   }
+  ],
+  "translation_tip": "①英文的同位语插在主语和谓语之间，视频保留这一语序，在“胃炎”之后用一对破折号把同位语插入，不改变英文的叙述顺序。②同位语中的省略式定语从句前置，译成“马歇尔当年心甘情愿地让自己染上的病”；过去完成时 had given 用增补的“当年”体现，与主句的现在时形成时间对照；given himself 译为“让自己染上”。③被动语态 is named 译为“被写进了”，prize citation 译为“奖项颁奖词”，括号补充“（获奖评语）”。"
+ }
+]

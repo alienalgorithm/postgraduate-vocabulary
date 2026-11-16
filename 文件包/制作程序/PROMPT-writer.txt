@@ -1,0 +1,7 @@
+为第 NN 篇写“逐句精讲”和“单词精解”的全部内容，共三部分：sent（全部句子）、words_a（前一半单词）、words_b（后一半单词）。
+1. 先完整读规范：/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkgtools/SPEC-content.md
+2. 读文章数据：/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkg/NN/article.json
+3. 看范本里的几项，了解深度和格式：/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkg/01/content/ 下的 sent.json、words_a.json
+4. 按顺序完成三部分，分别写进 /tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkg/NN/content/sent.json、words_a.json、words_b.json（JSON 数组）。内容多时可先分批写成临时文件，再用 python 合并。每完成一部分，就运行 python3 /tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/pkgtools/check_content.py NN 部分名 ，按提示改到 OK（单词部分先运行一次，它会告诉你要写哪些 id；NOTE 行的音标按 Oxford/Cambridge 复核）。
+5. 最后运行 check_content.py NN all，必须输出 OK。
+只回复一行：“NN 全部 OK：X 句，Y 词”。不要修改 content 目录以外的任何文件。

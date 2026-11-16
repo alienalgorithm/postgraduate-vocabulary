@@ -1,0 +1,1465 @@
+{
+ "no": "65",
+ "title_en": "The Letter That Startled Darwin",
+ "title_zh": "一封信惊醒了达尔文",
+ "source_id": "56",
+ "source_hashes": {
+  "JSON": "c1af03c1aaf2d6630fa0e8bf6876f55c6d9ff47ba83b13dccd30a4d73b492d7c",
+  "GEN": "c1af03c1aaf2d6630fa0e8bf6876f55c6d9ff47ba83b13dccd30a4d73b492d7c",
+  "MD": "aad1e2aab9ff28f534a510362e807ef401e0b502475240f4b2531e9e518a8d7a",
+  "illustration": "f62b5f103540ed2e0e055c3e94e0a8b6effe24cce0b71ebd034cd818945953d1"
+ },
+ "summary": [
+  [
+   "酝酿",
+   "达尔文1838年构想自然选择：更适应环境的生物较容易存活，▹并把自身特征传给后代。1844年他已写成230页手稿，仍继续搜集证据，没有发表。"
+  ],
+  [
+   "来信",
+   "华莱士独立想出同一原理，▹1858年寄来的文章几乎与达尔文一致，令达尔文担心自己的首创地位。"
+  ],
+  [
+   "折中",
+   "莱尔、胡克安排两人成果于1858年7月同场宣读；▹两位作者都未出席，华莱士也未参与商定办法。"
+  ],
+  [
+   "反响",
+   "论文发表初期反响冷淡；▹1859年《物种起源》引起轰动，首印1250册已被书商全部订购。"
+  ],
+  [
+   "认可",
+   "华莱士1858年10月事后致信认可安排；▹1889年又以《达尔文主义》阐述自然选择，未用自己名字命名理论。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "Charles Darwin disembarked from HMS Beagle in October 1836.",
+   "zh": "1836年10月，查尔斯·达尔文从小猎犬号上登岸。",
+   "en_markup": "Charles Darwin **disembarked** from HMS Beagle in October 1836.",
+   "zh_markup": "1836年10月，查尔斯·达尔文从小猎犬号上**登岸**(disembarked)。",
+   "video_notes": [
+    "（disembark from…：从（船、飞机）上下来；HMS Beagle：英国皇家海军舰船小猎犬号）"
+   ],
+   "chunks": [
+    {
+     "en": "Charles Darwin disembarked from HMS Beagle in October 1836.",
+     "zh": "1836年10月，查尔斯·达尔文从小猎犬号上登岸。"
+    }
+   ],
+   "align": [
+    [
+     "Charles Darwin disembarked from HMS Beagle in October 1836.",
+     "1836年10月，查尔斯·达尔文从小猎犬号上登岸。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "In September 1838 he began formulating the principle of natural selection: individuals better adapted to their surroundings survive and pass on their hereditary traits.",
+   "zh": "1838年9月，他开始构想并明确表述自然选择的原理：对周围环境适应得更好的个体存活下来，并将传递他们自身遗传的性状（给后代）。",
+   "en_markup": "In September 1838 he began **formulating** the **principle** of natural **selection**: individuals better **adapted to** their **surroundings** survive and **pass on** their **hereditary** **traits**.",
+   "zh_markup": "1838年9月，他开始**构想并明确表述**(formulating)自然**选择**(selection)的**原理**(principle)：**对**(adapted to)**周围环境**(surroundings)**适应**(adapted to)得更好的个体存活下来，并将**传递**(pass on)他们自身**遗传的**(hereditary)**性状**(traits)（给后代）。",
+   "video_notes": [
+    "（began formulating：begin doing，开始做某事；the principle of natural selection：of 结构，自然选择的原理）",
+    "（better adapted to…：过去分词短语作后置定语，修饰 individuals；be adapted to…：适应……；pass on：传递）"
+   ],
+   "chunks": [
+    {
+     "en": "In September 1838 he began formulating the principle of natural selection:",
+     "zh": "1838年9月，他开始构想并明确表述自然选择的原理："
+    },
+    {
+     "en": "individuals better adapted to their surroundings survive and pass on their hereditary traits.",
+     "zh": "对周围环境适应得更好的个体存活下来，并将传递他们自身遗传的性状（给后代）。"
+    }
+   ],
+   "align": [
+    [
+     "In September 1838",
+     "1838年9月，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "began",
+     "开始"
+    ],
+    [
+     "formulating",
+     "构想并明确表述"
+    ],
+    [
+     "the principle of natural selection:",
+     "自然选择的原理："
+    ],
+    [
+     "individuals better adapted to their surroundings",
+     "对周围环境适应得更好的个体"
+    ],
+    [
+     "survive",
+     "存活下来，"
+    ],
+    [
+     "and",
+     "并"
+    ],
+    [
+     "pass on",
+     "将传递"
+    ],
+    [
+     "their",
+     "他们自身"
+    ],
+    [
+     "hereditary",
+     "遗传的"
+    ],
+    [
+     "traits.",
+     "性状（给后代）。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "By 1844 he had composed a 230-page manuscript, yet kept it unpublished, cautiously amassing evidence.",
+   "zh": "到1844年，他已撰写了一份230页的手稿，却一直未予发表，谨慎地积累着证据。",
+   "en_markup": "By 1844 he had **composed** a 230-page **manuscript**, yet kept it **unpublished**, **cautiously** **amassing** evidence.",
+   "zh_markup": "到1844年，他已**撰写了**(composed)一份230页的**手稿**(manuscript)，却一直**未予发表**(unpublished)，**谨慎地**(cautiously)**积累着**(amassing)证据。",
+   "video_notes": [
+    "（By 1844：到1844年为止；had composed：过去完成时，表示到那时已经完成）",
+    "（keep it unpublished：keep + 宾语 + 补语，使它保持未发表；cautiously amassing evidence：现在分词短语作伴随状语）"
+   ],
+   "chunks": [
+    {
+     "en": "By 1844 he had composed a 230-page manuscript,",
+     "zh": "到1844年，他已撰写了一份230页的手稿，"
+    },
+    {
+     "en": "yet kept it unpublished, cautiously amassing evidence.",
+     "zh": "却一直未予发表，谨慎地积累着证据。"
+    }
+   ],
+   "align": [
+    [
+     "By 1844",
+     "到1844年，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "had composed",
+     "已撰写了"
+    ],
+    [
+     "a 230-page",
+     "一份230页的"
+    ],
+    [
+     "manuscript,",
+     "手稿，"
+    ],
+    [
+     "yet",
+     "却"
+    ],
+    [
+     "kept it",
+     "一直"
+    ],
+    [
+     "unpublished,",
+     "未予发表，"
+    ],
+    [
+     "cautiously",
+     "谨慎地"
+    ],
+    [
+     "amassing",
+     "积累着"
+    ],
+    [
+     "evidence.",
+     "证据。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "In February 1858, two decades after Darwin's first insight, Alfred Russel Wallace, a naturalist afflicted by fever in the Malay Archipelago, independently conceived the same idea.",
+   "zh": "1858年2月，达尔文最初的洞察出现后的二十年，博物学家阿尔弗雷德·拉塞尔·华莱士在马来群岛饱受热病的折磨，独自一人构想出了同一个想法。",
+   "en_markup": "In February 1858, two decades after Darwin's first insight, Alfred Russel Wallace, a **naturalist** **afflicted by** fever in the Malay Archipelago, **independently** **conceived** the same idea.",
+   "zh_markup": "1858年2月，达尔文最初的洞察出现后的二十年，**博物学家**(naturalist)阿尔弗雷德·拉塞尔·华莱士在马来群岛**饱受**(afflicted by)热病**的折磨**(afflicted by)，**独自一人**(independently)**构想出**(conceived)了同一个想法。",
+   "video_notes": [
+    "（two decades after…：插入的时间说明，补充这时离达尔文最初的洞察已有多久）",
+    "（a naturalist…：同位语，说明 Wallace；afflicted by…：过去分词短语作后置定语，be afflicted by：饱受……的折磨）"
+   ],
+   "chunks": [
+    {
+     "en": "In February 1858, two decades after Darwin's first insight,",
+     "zh": "1858年2月，达尔文最初的洞察出现后的二十年，"
+    },
+    {
+     "en": "Alfred Russel Wallace, a naturalist afflicted by fever in the Malay Archipelago,",
+     "zh": "博物学家阿尔弗雷德·拉塞尔·华莱士在马来群岛饱受热病的折磨，"
+    },
+    {
+     "en": "independently conceived the same idea.",
+     "zh": "独自一人构想出了同一个想法。"
+    }
+   ],
+   "align": [
+    [
+     "In February 1858,",
+     "1858年2月，"
+    ],
+    [
+     "two decades after Darwin's first insight,",
+     "达尔文最初的洞察出现后的二十年，"
+    ],
+    [
+     "Alfred Russel Wallace, a naturalist",
+     "博物学家阿尔弗雷德·拉塞尔·华莱士"
+    ],
+    [
+     "afflicted by fever in the Malay Archipelago,",
+     "在马来群岛饱受热病的折磨，"
+    ],
+    [
+     "independently",
+     "独自一人"
+    ],
+    [
+     "conceived",
+     "构想出了"
+    ],
+    [
+     "the same",
+     "同一个"
+    ],
+    [
+     "idea.",
+     "想法。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "His concise essay reached Darwin on 18 June 1858.",
+   "zh": "华莱士这篇简明的文章于1858年6月18日到达了达尔文的手里。",
+   "en_markup": "His **concise** essay reached Darwin on 18 June 1858.",
+   "zh_markup": "华莱士这篇**简明的**(concise)文章于1858年6月18日到达了达尔文的手里。",
+   "video_notes": [
+    "（His：指华莱士；reach sb：送到某人手中）"
+   ],
+   "chunks": [
+    {
+     "en": "His concise essay reached Darwin on 18 June 1858.",
+     "zh": "华莱士这篇简明的文章于1858年6月18日到达了达尔文的手里。"
+    }
+   ],
+   "align": [
+    [
+     "His",
+     "华莱士这篇"
+    ],
+    [
+     "concise",
+     "简明的"
+    ],
+    [
+     "essay",
+     "文章"
+    ],
+    [
+     "reached Darwin on 18 June 1858.",
+     "于1858年6月18日到达了达尔文的手里。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "Its argument paralleled Darwin's own almost precisely; he told Charles Lyell he had never seen a more remarkable coincidence.",
+   "zh": "文中的论证与达尔文自己的几乎完全一样；达尔文告诉查尔斯·莱尔，自己从未见过比这更惊人的巧合。",
+   "en_markup": "Its argument **paralleled** Darwin's own almost **precisely**; he told Charles Lyell he had never seen a more **remarkable** **coincidence**.",
+   "zh_markup": "文中的论证**与**(paralleled)达尔文自己的几乎**完全**(precisely)**一样**(paralleled)；达尔文告诉查尔斯·莱尔，自己从未见过比这更**惊人的**(remarkable)**巧合**(coincidence)。",
+   "video_notes": [
+    "（Its：指华莱士的文章；paralleled：与……极其相似；Darwin's own：达尔文自己的论证，own 后面省略了 argument）",
+    "（he had never seen…：宾语从句，省略了 that；had never seen：过去完成时）"
+   ],
+   "chunks": [
+    {
+     "en": "Its argument paralleled Darwin's own almost precisely;",
+     "zh": "文中的论证与达尔文自己的几乎完全一样；"
+    },
+    {
+     "en": "he told Charles Lyell he had never seen a more remarkable coincidence.",
+     "zh": "达尔文告诉查尔斯·莱尔，自己从未见过比这更惊人的巧合。"
+    }
+   ],
+   "align": [
+    [
+     "Its",
+     "文中的"
+    ],
+    [
+     "argument",
+     "论证"
+    ],
+    [
+     "paralleled Darwin's own almost precisely;",
+     "与达尔文自己的几乎完全一样；"
+    ],
+    [
+     "he told",
+     "达尔文告诉"
+    ],
+    [
+     "Charles Lyell",
+     "查尔斯·莱尔，"
+    ],
+    [
+     "he",
+     "自己"
+    ],
+    [
+     "had never",
+     "从未"
+    ],
+    [
+     "seen",
+     "见过"
+    ],
+    [
+     "a more",
+     "比这更"
+    ],
+    [
+     "remarkable",
+     "惊人的"
+    ],
+    [
+     "coincidence.",
+     "巧合。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "His claim to priority seemed threatened.",
+   "zh": "他对优先权的主张似乎受到了威胁。",
+   "en_markup": "His claim to **priority** seemed **threatened**.",
+   "zh_markup": "他对**优先权**(priority)的主张似乎**受到了威胁**(threatened)。",
+   "video_notes": [
+    "（claim to…：对……的主张、要求；seem + 过去分词：似乎被……）"
+   ],
+   "chunks": [
+    {
+     "en": "His claim to priority seemed threatened.",
+     "zh": "他对优先权的主张似乎受到了威胁。"
+    }
+   ],
+   "align": [
+    [
+     "His claim to priority",
+     "他对优先权的主张"
+    ],
+    [
+     "seemed",
+     "似乎"
+    ],
+    [
+     "threatened.",
+     "受到了威胁。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "Lyell and the botanist Joseph Hooker arranged for both papers to be read simultaneously at the Linnean Society, a scientific institution in London, on 1 July 1858.",
+   "zh": "莱尔和植物学家约瑟夫·胡克安排这两篇论文，于1858年7月1日在伦敦的科学机构林奈学会上被同时宣读。",
+   "en_markup": "Lyell and the **botanist** Joseph Hooker **arranged for** both papers to be read **simultaneously** at the Linnean Society, a scientific **institution** in London, on 1 July 1858.",
+   "zh_markup": "莱尔和**植物学家**(botanist)约瑟夫·胡克**安排**(arranged for)这两篇论文，于1858年7月1日在伦敦的科学**机构**(institution)林奈学会上被**同时**(simultaneously)宣读。",
+   "video_notes": [
+    "（arrange for sth to be done：安排、促成某事被做）",
+    "（to be read：不定式的被动式；a scientific institution in London：同位语，说明 the Linnean Society）"
+   ],
+   "chunks": [
+    {
+     "en": "Lyell and the botanist Joseph Hooker arranged for both papers",
+     "zh": "莱尔和植物学家约瑟夫·胡克安排这两篇论文，"
+    },
+    {
+     "en": "to be read simultaneously at the Linnean Society, a scientific institution in London, on 1 July 1858.",
+     "zh": "于1858年7月1日在伦敦的科学机构林奈学会上被同时宣读。"
+    }
+   ],
+   "align": [
+    [
+     "Lyell",
+     "莱尔"
+    ],
+    [
+     "and",
+     "和"
+    ],
+    [
+     "the botanist",
+     "植物学家"
+    ],
+    [
+     "Joseph Hooker",
+     "约瑟夫·胡克"
+    ],
+    [
+     "arranged for",
+     "安排"
+    ],
+    [
+     "both",
+     "这两篇"
+    ],
+    [
+     "papers",
+     "论文，"
+    ],
+    [
+     "to be read simultaneously at the Linnean Society, a scientific institution in London, on 1 July 1858.",
+     "于1858年7月1日在伦敦的科学机构林奈学会上被同时宣读。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "Neither author attended the proceedings.",
+   "zh": "两位作者都没有出席这场会议。",
+   "en_markup": "Neither author attended the **proceedings**.",
+   "zh_markup": "两位作者都没有出席这场**会议**(proceedings)。",
+   "video_notes": [
+    "（Neither…：两者都不；proceedings：在学术语境下，特指学会的会议、活动议程或会议记录）"
+   ],
+   "chunks": [
+    {
+     "en": "Neither author attended the proceedings.",
+     "zh": "两位作者都没有出席这场会议。"
+    }
+   ],
+   "align": [
+    [
+     "Neither author",
+     "两位作者都没有"
+    ],
+    [
+     "attended",
+     "出席"
+    ],
+    [
+     "the proceedings.",
+     "这场会议。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "Wallace was abroad, and Darwin was grieving: scarlet fever had killed his infant son on 28 June.",
+   "zh": "华莱士身在海外，达尔文则处于哀痛之中：猩红热在6月28日夺去了他幼子的生命。",
+   "en_markup": "Wallace was abroad, and Darwin was **grieving**: **scarlet** fever had killed his **infant** son on 28 June.",
+   "zh_markup": "华莱士身在海外，达尔文则处于**哀痛**(grieving)之中：**猩红**(scarlet)热在6月28日夺去了他**幼子**(infant)的生命。",
+   "video_notes": [
+    "（was grieving：过去进行时，当时正处于悲痛中；grieve 指因失去某人（尤指亲人离世）而承受极度的悲伤与痛苦（即哀悼））",
+    "（scarlet fever：猩红热；had killed：过去完成时，发生在会议之前）"
+   ],
+   "chunks": [
+    {
+     "en": "Wallace was abroad, and Darwin was grieving:",
+     "zh": "华莱士身在海外，达尔文则处于哀痛之中："
+    },
+    {
+     "en": "scarlet fever had killed his infant son on 28 June.",
+     "zh": "猩红热在6月28日夺去了他幼子的生命。"
+    }
+   ],
+   "align": [
+    [
+     "Wallace",
+     "华莱士"
+    ],
+    [
+     "was abroad,",
+     "身在海外，"
+    ],
+    [
+     "and Darwin",
+     "达尔文则"
+    ],
+    [
+     "was grieving:",
+     "处于哀痛之中："
+    ],
+    [
+     "scarlet",
+     "猩红"
+    ],
+    [
+     "fever",
+     "热"
+    ],
+    [
+     "had killed his infant son on 28 June.",
+     "在6月28日夺去了他幼子的生命。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 3,
+   "en": "The compromise, struck without Wallace, may have kept rivalry over precedence at bay.",
+   "zh": "这一折中办法在华莱士未参与的情况下达成，或许避免了围绕先后次序的竞争。",
+   "en_markup": "The **compromise**, struck without Wallace, may have kept **rivalry** over **precedence** at bay.",
+   "zh_markup": "这一**折中办法**(compromise)在华莱士未参与的情况下达成，或许避免了围绕**先后次序**(precedence)的**竞争**(rivalry)。",
+   "video_notes": [
+    "（struck without Wallace：过去分词短语作后置定语，修饰 compromise；strike a compromise：达成折中办法）",
+    "（may have done：对过去的推测；keep sth at bay：使……无法逼近，避免……；rivalry over…：围绕……的竞争）"
+   ],
+   "chunks": [
+    {
+     "en": "The compromise, struck without Wallace,",
+     "zh": "这一折中办法在华莱士未参与的情况下达成，"
+    },
+    {
+     "en": "may have kept rivalry over precedence at bay.",
+     "zh": "或许避免了围绕先后次序的竞争。"
+    }
+   ],
+   "align": [
+    [
+     "The compromise,",
+     "这一折中办法"
+    ],
+    [
+     "struck without Wallace,",
+     "在华莱士未参与的情况下达成，"
+    ],
+    [
+     "may have kept rivalry over precedence at bay.",
+     "或许避免了围绕先后次序的竞争。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "The papers' publication on 20 August 1858 met a muted reception.",
+   "zh": "这些论文于1858年8月20日的发表，遭遇了一个很不热烈的反响。",
+   "en_markup": "The papers' **publication** on 20 August 1858 met a **muted** **reception**.",
+   "zh_markup": "这些论文于1858年8月20日的**发表**(publication)，遭遇了一个**很不热烈的**(muted)**反响**(reception)。",
+   "video_notes": [
+    "（The papers' publication：名词化结构，相当于 the papers were published；meet a … reception：遭遇……的反响）"
+   ],
+   "chunks": [
+    {
+     "en": "The papers' publication on 20 August 1858 met a muted reception.",
+     "zh": "这些论文于1858年8月20日的发表，遭遇了一个很不热烈的反响。"
+    }
+   ],
+   "align": [
+    [
+     "The papers'",
+     "这些论文"
+    ],
+    [
+     "publication on 20 August 1858",
+     "于1858年8月20日的发表，"
+    ],
+    [
+     "met",
+     "遭遇了"
+    ],
+    [
+     "a muted",
+     "一个很不热烈的"
+    ],
+    [
+     "reception.",
+     "反响。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "In May 1859 the Society's president remarked in his yearly address that the year had been barren of revolutionary discoveries.",
+   "zh": "1859年5月，学会会长在年度致辞中评论说，这一年一直毫无革命性的发现。",
+   "en_markup": "In May 1859 the Society's president **remarked** in his **yearly** address that the year had been **barren of** **revolutionary** discoveries.",
+   "zh_markup": "1859年5月，学会会长在**年度**(yearly)致辞中**评论**(remarked)说，这一年一直**毫无**(barren of)**革命性的**(revolutionary)发现。",
+   "video_notes": [
+    "（the Society：指林奈学会；remark that…：说到、评论……）",
+    "（that…：宾语从句，作 remarked 的宾语；be barren of…：缺乏……，毫无……）"
+   ],
+   "chunks": [
+    {
+     "en": "In May 1859 the Society's president remarked in his yearly address",
+     "zh": "1859年5月，学会会长在年度致辞中评论说，"
+    },
+    {
+     "en": "that the year had been barren of revolutionary discoveries.",
+     "zh": "这一年一直毫无革命性的发现。"
+    }
+   ],
+   "align": [
+    [
+     "In May 1859",
+     "1859年5月，"
+    ],
+    [
+     "the Society's",
+     "学会"
+    ],
+    [
+     "president",
+     "会长"
+    ],
+    [
+     "remarked in his yearly address",
+     "在年度致辞中评论说，"
+    ],
+    [
+     "that the year",
+     "这一年"
+    ],
+    [
+     "had been",
+     "一直"
+    ],
+    [
+     "barren of",
+     "毫无"
+    ],
+    [
+     "revolutionary",
+     "革命性的"
+    ],
+    [
+     "discoveries.",
+     "发现。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "The sensation came on 24 November 1859 with Darwin's treatise, On the Origin of Species: booksellers had subscribed for every copy of its first impression, 1,250 in all.",
+   "zh": "这场轰动于1859年11月24日随着达尔文的专著《物种起源》到来：书商们已订购了该书首次印刷的每一册，总计1,250册。",
+   "en_markup": "The **sensation** came on 24 November 1859 with Darwin's **treatise**, **On the Origin of Species**: booksellers had **subscribed for** every copy of its first **impression**, 1,250 in all.",
+   "zh_markup": "这场**轰动**(sensation)于1859年11月24日随着达尔文的**专著**(treatise)**《物种起源》**(On the Origin of Species)到来：书商们已**订购了**(subscribed for)该书首**次印刷**(impression)的每一册，总计1,250册。",
+   "video_notes": [
+    "（The sensation came with…：轰动随着……到来；On the Origin of Species：同位语，说明 treatise，即书名《物种起源》）",
+    "（subscribe for…：订购……；its first impression：该书的首次印刷；in all：总计）"
+   ],
+   "chunks": [
+    {
+     "en": "The sensation came on 24 November 1859 with Darwin's treatise, On the Origin of Species:",
+     "zh": "这场轰动于1859年11月24日随着达尔文的专著《物种起源》到来："
+    },
+    {
+     "en": "booksellers had subscribed for every copy of its first impression, 1,250 in all.",
+     "zh": "书商们已订购了该书首次印刷的每一册，总计1,250册。"
+    }
+   ],
+   "align": [
+    [
+     "The sensation",
+     "这场轰动"
+    ],
+    [
+     "came on 24 November 1859",
+     "于1859年11月24日"
+    ],
+    [
+     "with Darwin's",
+     "随着达尔文的"
+    ],
+    [
+     "treatise,",
+     "专著"
+    ],
+    [
+     "On the Origin of Species:",
+     "《物种起源》到来："
+    ],
+    [
+     "booksellers",
+     "书商们"
+    ],
+    [
+     "had",
+     "已"
+    ],
+    [
+     "subscribed for",
+     "订购了"
+    ],
+    [
+     "every copy of its first impression,",
+     "该书首次印刷的每一册，"
+    ],
+    [
+     "1,250 in all.",
+     "总计1,250册。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 5,
+   "en": "Wallace had readily signified his acceptance in October 1858, assuring Hooker in a cordial letter of his satisfaction with the arrangement.",
+   "zh": "华莱士早已欣然表明了接受的态度，那是在1858年10月；他在一封亲切的信中向胡克保证，自己对这一安排感到满意。",
+   "en_markup": "Wallace had **readily** **signified** his **acceptance** in October 1858, **assuring** Hooker in a **cordial** letter of his **satisfaction** with the **arrangement**.",
+   "zh_markup": "华莱士早已**欣然**(readily)**表明了**(signified)**接受**(acceptance)的态度，那是在1858年10月；他在一封**亲切的**(cordial)信中**向**(assuring)胡克**保证**(assuring)，自己对这一**安排**(arrangement)感到**满意**(satisfaction)。",
+   "video_notes": [
+    "（had signified：过去完成时，表示早在那之前；signify one's acceptance：表示接受）",
+    "（assuring…：现在分词短语作伴随状语；assure sb of sth：向某人保证某事；satisfaction with…：对……满意）"
+   ],
+   "chunks": [
+    {
+     "en": "Wallace had readily signified his acceptance in October 1858,",
+     "zh": "华莱士早已欣然表明了接受的态度，那是在1858年10月；"
+    },
+    {
+     "en": "assuring Hooker in a cordial letter of his satisfaction with the arrangement.",
+     "zh": "他在一封亲切的信中向胡克保证，自己对这一安排感到满意。"
+    }
+   ],
+   "align": [
+    [
+     "Wallace",
+     "华莱士"
+    ],
+    [
+     "had readily",
+     "早已欣然"
+    ],
+    [
+     "signified",
+     "表明了"
+    ],
+    [
+     "his acceptance",
+     "接受的态度，"
+    ],
+    [
+     "in October 1858,",
+     "那是在1858年10月；"
+    ],
+    [
+     "assuring Hooker in a cordial letter",
+     "他在一封亲切的信中向胡克保证，"
+    ],
+    [
+     "of his",
+     "自己"
+    ],
+    [
+     "satisfaction with the arrangement.",
+     "对这一安排感到满意。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "In 1889 he published a lengthy exposition of the idea and entitled it Darwinism.",
+   "zh": "1889年，他出版了一部长篇的阐述解释这一思想，并将其命名为《达尔文主义》。",
+   "en_markup": "In 1889 he published a **lengthy** **exposition** of the idea and **entitled** it Darwinism.",
+   "zh_markup": "1889年，他出版了一部**长篇的**(lengthy)**阐述**(exposition)解释这一思想，并**将**(entitled)其**命名为**(entitled)《达尔文主义》。",
+   "video_notes": [
+    "（an exposition of…：对……的阐述；entitle A B：将 A 命名为 B）"
+   ],
+   "chunks": [
+    {
+     "en": "In 1889 he published a lengthy exposition of the idea and entitled it Darwinism.",
+     "zh": "1889年，他出版了一部长篇的阐述解释这一思想，并将其命名为《达尔文主义》。"
+    }
+   ],
+   "align": [
+    [
+     "In 1889",
+     "1889年，"
+    ],
+    [
+     "he",
+     "他"
+    ],
+    [
+     "published",
+     "出版了"
+    ],
+    [
+     "a lengthy",
+     "一部长篇的"
+    ],
+    [
+     "exposition",
+     "阐述"
+    ],
+    [
+     "of the idea",
+     "解释这一思想，"
+    ],
+    [
+     "and",
+     "并"
+    ],
+    [
+     "entitled it",
+     "将其命名为"
+    ],
+    [
+     "Darwinism.",
+     "《达尔文主义》。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "Wallace never named the theory after himself.",
+   "zh": "华莱士从未用自己的名字为这一理论命名。",
+   "en_markup": "Wallace never **named** the theory **after** himself.",
+   "zh_markup": "华莱士从未**用**(named after)自己的名字**为**(named after)这一理论**命名**(named after)。",
+   "video_notes": [
+    "（name A after B：以 B 的名字给 A 命名）"
+   ],
+   "chunks": [
+    {
+     "en": "Wallace never named the theory after himself.",
+     "zh": "华莱士从未用自己的名字为这一理论命名。"
+    }
+   ],
+   "align": [
+    [
+     "Wallace",
+     "华莱士"
+    ],
+    [
+     "never",
+     "从未"
+    ],
+    [
+     "named the theory after himself.",
+     "用自己的名字为这一理论命名。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "disembarked",
+   "zh_video": "登岸",
+   "headword": "disembark",
+   "pos": "v.",
+   "table_definition": "本文：登岸；v. (disembark) 下船，登岸（disembark from a ship/plane；passengers disembark at Dover）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 2,
+   "en": "formulating",
+   "zh_video": "构想并明确表述",
+   "headword": "formulate",
+   "pos": "v.",
+   "table_definition": "本文：构想并明确表述；v. (formulate) 构想，系统地提出（formulate a theory/plan/policy）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 2,
+   "en": "principle",
+   "zh_video": "原理",
+   "headword": "principle",
+   "pos": "n.",
+   "table_definition": "本文：原理；n. 原理，法则（the principle of gravity；basic scientific principles）；原则"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 2,
+   "en": "selection",
+   "zh_video": "选择",
+   "headword": "selection",
+   "pos": "n.",
+   "table_definition": "本文：选择；n. 选择，挑选（natural selection 自然选择；a careful selection process）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 2,
+   "en": "adapted to",
+   "zh_video": "对……适应",
+   "headword": "adapted to",
+   "pos": "v.",
+   "table_definition": "本文：对……适应；v. phr. (adapt to) 适应（be well adapted to cold climates；adapt to a new school）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "surroundings",
+   "zh_video": "周围环境",
+   "headword": "surroundings",
+   "pos": "n.",
+   "table_definition": "本文：周围环境；n. 环境，周围事物（familiar/pleasant surroundings；adjust to new surroundings）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "pass on",
+   "zh_video": "传递",
+   "headword": "pass on",
+   "pos": "v.",
+   "table_definition": "本文：传递；v. phr. 传递，传给（pass on genes/traits to offspring；pass on a message）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "hereditary",
+   "zh_video": "遗传的",
+   "headword": "hereditary",
+   "pos": "adj.",
+   "table_definition": "本文：遗传的；adj. 遗传的；世袭的（a hereditary disease；a hereditary title）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 2,
+   "en": "traits",
+   "zh_video": "性状",
+   "headword": "trait",
+   "pos": "n.",
+   "table_definition": "本文：性状；n. (trait) 性状，特征（genetic traits；personality traits）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "composed",
+   "zh_video": "撰写了",
+   "headword": "compose",
+   "pos": "v.",
+   "table_definition": "本文：撰写了；v. (compose) 撰写，创作（compose a letter/poem/symphony）；组成"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "manuscript",
+   "zh_video": "手稿",
+   "headword": "manuscript",
+   "pos": "n.",
+   "table_definition": "本文：手稿；n. 手稿，原稿（an unpublished manuscript；submit a manuscript to a publisher）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "unpublished",
+   "zh_video": "未予发表",
+   "headword": "unpublished",
+   "pos": "adj.",
+   "table_definition": "本文：未予发表；adj. 未发表的，未出版的（an unpublished novel/thesis；unpublished data）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "cautiously",
+   "zh_video": "谨慎地",
+   "headword": "cautiously",
+   "pos": "adv.",
+   "table_definition": "本文：谨慎地；adv. 谨慎地，小心地（proceed cautiously；cautiously optimistic）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": 3,
+   "en": "amassing",
+   "zh_video": "积累着",
+   "headword": "amass",
+   "pos": "v.",
+   "table_definition": "本文：积累着；v. (amass) 积累，聚集（amass a fortune/wealth/data）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "naturalist",
+   "zh_video": "博物学家",
+   "headword": "naturalist",
+   "pos": "n.",
+   "table_definition": "本文：博物学家；n. 博物学家（an amateur naturalist；a keen naturalist）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 4,
+   "en": "afflicted by",
+   "zh_video": "饱受……的折磨",
+   "headword": "afflicted by",
+   "pos": "v.",
+   "table_definition": "本文：饱受……的折磨；v. phr. (be afflicted by) 饱受……的折磨，使苦恼（be afflicted by/with arthritis；a region afflicted by drought）"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 4,
+   "en": "independently",
+   "zh_video": "独自一人",
+   "headword": "independently",
+   "pos": "adv.",
+   "table_definition": "本文：独自一人；adv. 独立地，各自地（work independently；two teams independently reached the same result）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 4,
+   "en": "conceived",
+   "zh_video": "构想出",
+   "headword": "conceive",
+   "pos": "v.",
+   "table_definition": "本文：构想出；v. (conceive) 构想，想出（conceive a plan/an idea；conceive of a world without cars）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "concise",
+   "zh_video": "简明的",
+   "headword": "concise",
+   "pos": "adj.",
+   "table_definition": "本文：简明的；adj. 简明的，简洁的（a concise summary/answer；clear and concise）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 6,
+   "en": "paralleled",
+   "zh_video": "与……一样",
+   "headword": "parallel",
+   "pos": "v.",
+   "table_definition": "本文：与……一样；v. (parallel) 与……相似，与……平行（her career paralleled her sister's；growth that parallels inflation）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "precisely",
+   "zh_video": "完全",
+   "headword": "precisely",
+   "pos": "adv.",
+   "table_definition": "本文：完全；adv. 精确地，恰好（at precisely 9 o'clock；describe precisely）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "remarkable",
+   "zh_video": "惊人的",
+   "headword": "remarkable",
+   "pos": "adj.",
+   "table_definition": "本文：惊人的；adj. 引人注目的，非凡的（a remarkable achievement；it is remarkable that…）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "coincidence",
+   "zh_video": "巧合",
+   "headword": "coincidence",
+   "pos": "n.",
+   "table_definition": "本文：巧合；n. 巧合（by coincidence；a remarkable/pure coincidence）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 7,
+   "en": "priority",
+   "zh_video": "优先权",
+   "headword": "priority",
+   "pos": "n.",
+   "table_definition": "本文：优先权；n. 优先权；（发现等的）首创权（claim priority；take/have priority over sth）"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 7,
+   "en": "threatened",
+   "zh_video": "受到了威胁",
+   "headword": "threaten",
+   "pos": "v.",
+   "table_definition": "本文：受到了威胁；v. (threaten) 威胁，危及（threaten jobs/peace；feel threatened）"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 8,
+   "en": "botanist",
+   "zh_video": "植物学家",
+   "headword": "botanist",
+   "pos": "n.",
+   "table_definition": "本文：植物学家；n. 植物学家（a famous botanist；botanists study plants）"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 8,
+   "en": "arranged for",
+   "zh_video": "安排",
+   "headword": "arrange for",
+   "pos": "v.",
+   "table_definition": "本文：安排；v. (arrange) 安排，筹划（arrange a meeting；arrange for a taxi to collect sb）"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 8,
+   "en": "simultaneously",
+   "zh_video": "同时",
+   "headword": "simultaneously",
+   "pos": "adv.",
+   "table_definition": "本文：同时；adv. 同时地（broadcast simultaneously；happen simultaneously）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 8,
+   "en": "institution",
+   "zh_video": "机构",
+   "headword": "institution",
+   "pos": "n.",
+   "table_definition": "本文：机构；n. 机构，团体（a financial/academic institution；research institutions）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 9,
+   "en": "proceedings",
+   "zh_video": "会议",
+   "headword": "proceedings",
+   "pos": "n.",
+   "table_definition": "本文：会议；n. 会议，会议过程；诉讼（open the proceedings；legal proceedings）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 10,
+   "en": "grieving",
+   "zh_video": "哀痛",
+   "headword": "grieve",
+   "pos": "v.",
+   "table_definition": "本文：哀痛；v. (grieve) 悲痛，哀悼（grieve for/over a friend；a grieving widow）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 10,
+   "en": "scarlet",
+   "zh_video": "猩红",
+   "headword": "scarlet",
+   "pos": "adj.",
+   "table_definition": "本文：猩红；adj. 猩红色的（scarlet fever 猩红热；a scarlet coat）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 10,
+   "en": "infant",
+   "zh_video": "幼子",
+   "headword": "infant",
+   "pos": "adj.",
+   "table_definition": "本文：幼子；adj./n. 婴儿（的），幼儿（的）（an infant daughter；infant mortality）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 11,
+   "en": "compromise",
+   "zh_video": "折中办法",
+   "headword": "compromise",
+   "pos": "n.",
+   "table_definition": "本文：折中办法；n. 折中，妥协（reach a compromise；a compromise solution）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 11,
+   "en": "rivalry",
+   "zh_video": "竞争",
+   "headword": "rivalry",
+   "pos": "n.",
+   "table_definition": "本文：竞争；n. 竞争，对立（a fierce rivalry；sibling rivalry）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 11,
+   "en": "precedence",
+   "zh_video": "先后次序",
+   "headword": "precedence",
+   "pos": "n.",
+   "table_definition": "本文：先后次序；n. 优先，在先（take precedence over sth；in order of precedence）"
+  },
+  {
+   "id": 37,
+   "para": 4,
+   "sentence": 12,
+   "en": "publication",
+   "zh_video": "发表",
+   "headword": "publication",
+   "pos": "n.",
+   "table_definition": "本文：发表；n. 发表，出版（the date of publication；publication of the results）；出版物"
+  },
+  {
+   "id": 38,
+   "para": 4,
+   "sentence": 12,
+   "en": "muted",
+   "zh_video": "很不热烈的",
+   "headword": "muted",
+   "pos": "adj.",
+   "table_definition": "本文：很不热烈的；adj. 不热烈的，克制的（a muted response/reaction；muted colours）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 12,
+   "en": "reception",
+   "zh_video": "反响",
+   "headword": "reception",
+   "pos": "n.",
+   "table_definition": "本文：反响；n. 反响，接受态度（a warm/cool reception；get a hostile reception）；招待会"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 13,
+   "en": "remarked",
+   "zh_video": "评论",
+   "headword": "remark",
+   "pos": "v.",
+   "table_definition": "本文：评论；v. (remark) 说，评论（remark on sb's appearance；remark that it was late）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 13,
+   "en": "yearly",
+   "zh_video": "年度",
+   "headword": "yearly",
+   "pos": "adj.",
+   "table_definition": "本文：年度；adj. 每年的，一年一度的（a yearly meeting/subscription）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 13,
+   "en": "barren of",
+   "zh_video": "毫无",
+   "headword": "barren of",
+   "pos": "adj.",
+   "table_definition": "本文：毫无；adj. 缺乏……的（barren of ideas/interest）；贫瘠的（barren land）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 13,
+   "en": "revolutionary",
+   "zh_video": "革命性的",
+   "headword": "revolutionary",
+   "pos": "adj.",
+   "table_definition": "本文：革命性的；adj. 革命性的，彻底变革的（a revolutionary idea/technique）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": 14,
+   "en": "sensation",
+   "zh_video": "轰动",
+   "headword": "sensation",
+   "pos": "n.",
+   "table_definition": "本文：轰动；n. 轰动，引起轰动的事物（cause/create a sensation；an overnight sensation）；感觉"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 14,
+   "en": "treatise",
+   "zh_video": "专著",
+   "headword": "treatise",
+   "pos": "n.",
+   "table_definition": "本文：专著；n. 专著，论文（a treatise on economics/grammar）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 14,
+   "en": "On the Origin of Species",
+   "zh_video": "《物种起源》",
+   "headword": "On the Origin of Species",
+   "pos": "n.",
+   "table_definition": "本文：《物种起源》；n. 《物种起源》（书名，达尔文 1859 年出版的著作）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 14,
+   "en": "subscribed for",
+   "zh_video": "订购了",
+   "headword": "subscribe for",
+   "pos": "v.",
+   "table_definition": "本文：订购了；v. (subscribe) 预订，认购（subscribe for shares；subscribe to a magazine）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 14,
+   "en": "impression",
+   "zh_video": "次印刷",
+   "headword": "impression",
+   "pos": "n.",
+   "table_definition": "本文：次印刷；n. （书的）一次印刷，印次（the second impression of the first edition）；印象"
+  },
+  {
+   "id": 49,
+   "para": 5,
+   "sentence": 15,
+   "en": "readily",
+   "zh_video": "欣然",
+   "headword": "readily",
+   "pos": "adv.",
+   "table_definition": "本文：欣然；adv. 欣然，乐意地（readily agree/admit）；容易地（readily available）"
+  },
+  {
+   "id": 50,
+   "para": 5,
+   "sentence": 15,
+   "en": "signified",
+   "zh_video": "表明了",
+   "headword": "signify",
+   "pos": "v.",
+   "table_definition": "本文：表明了；v. (signify) 表示，表明（signify approval/consent by nodding）"
+  },
+  {
+   "id": 51,
+   "para": 5,
+   "sentence": 15,
+   "en": "acceptance",
+   "zh_video": "接受",
+   "headword": "acceptance",
+   "pos": "n.",
+   "table_definition": "本文：接受；n. 接受，认可（gain/win acceptance；acceptance of an offer）"
+  },
+  {
+   "id": 52,
+   "para": 5,
+   "sentence": 15,
+   "en": "assuring",
+   "zh_video": "向……保证",
+   "headword": "assure",
+   "pos": "v.",
+   "table_definition": "本文：向……保证；v. (assure) 向……保证，使确信（assure sb of one's support；I can assure you that…）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 15,
+   "en": "cordial",
+   "zh_video": "亲切的",
+   "headword": "cordial",
+   "pos": "adj.",
+   "table_definition": "本文：亲切的；adj. 热情友好的，亲切的（a cordial welcome/relationship）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 15,
+   "en": "satisfaction",
+   "zh_video": "满意",
+   "headword": "satisfaction",
+   "pos": "n.",
+   "table_definition": "本文：满意；n. 满意，满足（express satisfaction with sth；job satisfaction）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 15,
+   "en": "arrangement",
+   "zh_video": "安排",
+   "headword": "arrangement",
+   "pos": "n.",
+   "table_definition": "本文：安排；n. 安排，约定（make arrangements；a financial arrangement）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 16,
+   "en": "lengthy",
+   "zh_video": "长篇的",
+   "headword": "lengthy",
+   "pos": "adj.",
+   "table_definition": "本文：长篇的；adj. 长的，长时间的（常含过长之意）（after lengthy negotiations；a lengthy delay）"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 16,
+   "en": "exposition",
+   "zh_video": "阐述",
+   "headword": "exposition",
+   "pos": "n.",
+   "table_definition": "本文：阐述；n. 阐述，详细说明（a clear exposition of the theory）；博览会"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 16,
+   "en": "entitled",
+   "zh_video": "将……命名为",
+   "headword": "entitle",
+   "pos": "v.",
+   "table_definition": "本文：将……命名为；v. (entitle) 给（书等）题名（a poem entitled \"Spring\"）；使有权"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": null,
+   "en": "named after",
+   "zh_video": "用……为……命名",
+   "headword": "named after",
+   "pos": "v.",
+   "table_definition": "本文：用……为……命名；v. phr. (name A after B) 用 B 的名字为 A 命名（be named after his grandfather）"
+  }
+ ]
+}

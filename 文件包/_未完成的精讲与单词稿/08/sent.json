@@ -1,0 +1,1769 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "The Y2K bug",
+   "predicate": "began",
+   "object_or_complement": "",
+   "explain": "主干是 The Y2K bug began，主谓结构；begin 在此是不及物动词，as a shortcut 说明它起初的性质，begin as sth 意为“起初是……”。谓语 began 是 begin 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The Y2K bug,",
+    "zh": "Y2K 漏洞",
+    "role": "主语（Y2K 作前置定语，修饰 bug）"
+   },
+   {
+    "text": "or millennium bug,",
+    "zh": "又称千年虫",
+    "role": "同位语（or 引出主语的另一个名称），两边用逗号隔开"
+   },
+   {
+    "text": "began",
+    "zh": "起初",
+    "role": "谓语（begin 不及物，与后面的 as 短语构成 begin as：起初是）"
+   },
+   {
+    "text": "as a shortcut.",
+    "zh": "只是一条捷径",
+    "role": "状语（as 引导的介词短语，说明主语起初的身份、性质）"
+   }
+  ],
+  "structure": "①主句是 The Y2K bug began as a shortcut：主语 The Y2K bug，谓语 began，as a shortcut 是介词短语作状语，说明千年虫最初以什么面目出现。\n②or millennium bug 夹在主语和谓语之间，两边用逗号隔开，是主语的同位语。这里的 or 不表示二选一的“或者”，而是“又称，也就是”，引出同一事物的另一个名称（视频说明“or：或者说，引出另一个名称”）。or 引出别名时，别名前通常不再重复冠词，所以写作 or millennium bug。\n③Y2K 是 Year 2000 的缩写（视频说明）：Y 代表 Year，2 就是数字2，K 代表“千”，2K 即2000。\n④本句是全文的总起句。began as a shortcut 点出千年虫的来历：它起初只是一种省事的做法，下一句随即解释这条“捷径”是什么，第3句再说明它暗藏的隐患。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "or 引出同位语（别名）",
+    "explain": "or 除了表示选择，还可以引出同一事物的另一个名称或另一种说法，相当于 that is、in other words，意为“又称，即”。这种 or 前后指同一对象，or 引出的部分常用逗号隔开，作前面名词的同位语。本句 The Y2K bug, or millennium bug 中，两个名称都指千年虫，视频译为“又称千年虫”。考研阅读中，科技、医学类文章常用这种 or 先给术语、再给通俗说法，读到时不要误解为两样东西二选一，它往往正是理解生词的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Hypertension, or high blood pressure, raises the risk of heart attacks and strokes.",
+      "zh": "高血压症，即血压过高，会增加心脏病发作和中风的风险。"
+     },
+     {
+      "en": "The aubergine, or eggplant, is widely used in Mediterranean cooking.",
+      "zh": "茄子（英式英语叫 aubergine，美式英语叫 eggplant）在地中海菜肴中用得很广。"
+     }
+    ]
+   },
+   {
+    "title": "begin as sth：起初是……",
+    "explain": "begin 作不及物动词时，可接 as 引出的介词短语，表示某事物最初的身份、形式或性质，常暗示后来发生了变化，相当于 start as、start out as。as 在这里是介词，意为“作为，以……身份”，后接名词。本句 began as a shortcut 意为“起初只是一条捷径”，言外之意是后来演变成了一场危机。写作中描述事物演变时很有用，如 began as a hobby、began as a small family business。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "What began as a weekend hobby eventually grew into a thriving business.",
+      "zh": "起初只是周末爱好的事情，最终发展成了一门兴旺的生意。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Y2K",
+    "explain": "Year 2000 的缩写，K 表示“千”，2K 即2000。英语中数字加 K 表示“千”很常见，如 a salary of 50K（年薪5万）。Y2K 常作定语，如 the Y2K problem（千年虫问题）、Y2K-compliant（能正确处理2000年及以后日期的）。"
+   },
+   {
+    "term": "bug",
+    "explain": "计算机领域指程序中的错误、缺陷，视频译为“漏洞”；fix a bug（修复漏洞），debug（调试，排除程序错误）。bug 的本义是“虫子”，所以 millennium bug 汉语叫“千年虫”，保留了“虫”的字面形象。"
+   },
+   {
+    "term": "millennium",
+    "explain": "一千年，复数 millennia 或 millenniums；the millennium 常特指公元2000年前后的千年之交。the millennium bug 指因跨入2000年而暴露出来的程序错误。"
+   },
+   {
+    "term": "shortcut",
+    "explain": "本义是“近路，捷径”，引申为省事的办法，常带“省事但可能留下后患”的意味，如 There are no shortcuts to success（成功没有捷径）。本文指用两位数字记年份这种节省存储空间的做法。"
+   }
+  ],
+  "translation_tip": "视频译文“Y2K 漏洞，又称千年虫，起初只是一条捷径。”的处理：①同位语 or millennium bug 保留在原位，用逗号隔开，or 译为“又称”，表明两个名称指同一事物，不能译成“或者”。②Y2K 直接保留，视频说明另行交代它是 Year 2000 的缩写；bug 译为“漏洞”，millennium bug 按通行说法译为“千年虫”。③began as 译为“起初……是”，并增补“只是”，突出最初的小事与后来大危机的反差；不定冠词 a 译为量词“一条”，与“捷径”搭配。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "programmers",
+   "predicate": "stored",
+   "object_or_complement": "years",
+   "explain": "主干是 programmers stored years，主谓宾结构，as two digits 与 stored 构成 store A as B（以 B 的形式存储 A）。谓语 stored 为一般过去时，主动语态，叙述过去普遍的做法。"
+  },
+  "components": [
+   {
+    "text": "When",
+    "zh": "当年",
+    "role": "时间状语从句的引导词"
+   },
+   {
+    "text": "memory and hardware",
+    "zh": "内存和硬件",
+    "role": "从句主语（两个并列的不可数名词）"
+   },
+   {
+    "text": "were costly,",
+    "zh": "都很昂贵",
+    "role": "从句的系动词 were + 表语 costly"
+   },
+   {
+    "text": "programmers",
+    "zh": "程序员",
+    "role": "主句主语（零冠词复数，泛指当时的程序员）"
+   },
+   {
+    "text": "stored",
+    "zh": "便把……存成",
+    "role": "主句谓语（与后面的 as 短语构成 store A as B）"
+   },
+   {
+    "text": "years",
+    "zh": "年份",
+    "role": "宾语"
+   },
+   {
+    "text": "as two digits,",
+    "zh": "两位数字",
+    "role": "状语（as 介词短语，说明存储的形式）"
+   },
+   {
+    "text": "writing",
+    "zh": "用",
+    "role": "伴随状语（现在分词短语）中的分词，逻辑主语是 programmers"
+   },
+   {
+    "text": "\"99\"",
+    "zh": "“99”",
+    "role": "writing 的宾语"
+   },
+   {
+    "text": "for 1999.",
+    "zh": "表示1999年",
+    "role": "介词短语，与 writing 构成 write A for B（用 A 表示 B）"
+   }
+  ],
+  "structure": "①句首 When memory and hardware were costly 是 when 引导的时间状语从句（视频说明），交代背景：从句主语是并列的 memory and hardware，were 是系动词，costly 作表语。\n②主句 programmers stored years as two digits：主语 programmers 用零冠词复数，泛指当时的程序员；stored years as two digits 是 store A as B 结构（视频说明），as two digits 说明年份以什么形式存储。\n③writing \"99\" for 1999 是现在分词短语作伴随状语（视频说明），逻辑主语是 programmers，对“存成两位数字”举例说明。write A for B 意为“用 A 表示 B”，for 在此表示“代表”。\n④时间状语里隐含着原因：正因为当时内存和硬件昂贵，程序员才省掉年份的前两位，这就是上句所说的 shortcut。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在主句之后、用逗号隔开时，常作伴随状语，对主句动作加以补充、说明或举例。分词的逻辑主语必须是主句主语，并与它构成主动关系。本句 writing \"99\" for 1999 的逻辑主语是 programmers，是程序员把1999年写成99，所以用现在分词；它具体说明 stored years as two digits 是怎么做的。翻译时常译成并列的短句。考研写作易错点：分词的逻辑主语与主句主语不一致，形成所谓“悬垂分词”，如 Walking into the room, the lights went out 就是错误的。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She left the office early, hoping to catch the last train home.",
+      "zh": "她提早离开办公室，希望能赶上回家的末班火车。"
+     },
+     {
+      "en": "The report lists the main risks, ranking them from most to least likely.",
+      "zh": "报告列出了主要风险，并按可能性从高到低排序。"
+     }
+    ]
+   },
+   {
+    "title": "when 引导的时间状语从句交代背景",
+    "explain": "when 引导时间状语从句，既可表示某一时刻，也可表示一段时期，意为“在……的时候”。本句 When memory and hardware were costly 指过去一段时期的状况，为主句提供背景，同时隐含原因：正因为昂贵，程序员才这样做。视频把 When 译为“当年”，点出这是过去一个时期的情况。考研阅读中，when 从句常兼有原因或条件的意味，要结合上下文判断逻辑关系。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When computers filled entire rooms, few people imagined owning one at home.",
+      "zh": "当年计算机要占满整个房间，很少有人想到家里也能有一台。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "store A as B",
+    "explain": "以 B 的形式存储 A（视频说明）。store 作动词意为“存储，储存”，计算机领域常说 store data、store files；as 引出存储的形式，如 store numbers as text（把数字存成文本）。"
+   },
+   {
+    "term": "write A for B",
+    "explain": "用 A 表示 B，for 在此表示“代表”，相当于 stand for。本句 writing \"99\" for 1999 即用两位数99代表1999年。"
+   },
+   {
+    "term": "digit",
+    "explain": "数字（0到9中的任何一个），也指数位，two digits 即“两位数字”；a two-digit number（两位数），double-digit growth（两位数的增长）。形容词 digital（数字的，数码的）。"
+   },
+   {
+    "term": "memory and hardware",
+    "explain": "memory 在计算机语境中指“内存，存储器”，属于熟词僻义，视频译为“内存”；hardware 指“硬件”，与 software（软件）相对，不可数。"
+   },
+   {
+    "term": "costly",
+    "explain": "形容词，昂贵的，代价高的，不是副词；a costly mistake（代价高昂的错误）。与 expensive 意思相近，costly 还常指造成重大损失的。"
+   }
+  ],
+  "translation_tip": "视频译文“当年内存和硬件都很昂贵，程序员便把年份存成两位数字，用“99”表示1999年。”的处理：①时间状语从句放在句首，When 译为“当年”，既交代时间，又点明是过去的情况。②从句增补“都”，统括并列的内存和硬件。③主句增补“便”，体现从句与主句之间隐含的因果关系：因为昂贵，程序员便这样做。④store A as B 用“把”字句译为“把年份存成两位数字”。⑤伴随状语 writing…for… 译成独立短句，write A for B 译为“用 A 表示 B”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "That compact code",
+   "predicate": "hid",
+   "object_or_complement": "an ambiguity",
+   "explain": "主干是 That compact code hid an ambiguity，主谓宾结构；hid 是 hide 的过去式，一般过去时，主动语态。冒号后的分句具体说明这一歧义是什么。"
+  },
+  "components": [
+   {
+    "text": "That compact code",
+    "zh": "这种小而紧凑的代码",
+    "role": "主语（That 回指上句的做法，compact 作前置定语）"
+   },
+   {
+    "text": "hid",
+    "zh": "暗藏着",
+    "role": "谓语"
+   },
+   {
+    "text": "an ambiguity:",
+    "zh": "一种歧义",
+    "role": "宾语（冒号引出对它的具体解释）"
+   },
+   {
+    "text": "a machine",
+    "zh": "机器",
+    "role": "冒号后分句的主语"
+   },
+   {
+    "text": "might read",
+    "zh": "可能把……读成",
+    "role": "谓语（情态动词 might + read，与后面的 as 短语构成 read A as B）"
+   },
+   {
+    "text": "\"00\"",
+    "zh": "“00”",
+    "role": "宾语"
+   },
+   {
+    "text": "as 1900,",
+    "zh": "1900年",
+    "role": "状语（as 介词短语，说明读成什么）"
+   },
+   {
+    "text": "corrupting",
+    "zh": "从而搞错",
+    "role": "结果状语（现在分词短语）中的分词"
+   },
+   {
+    "text": "calculations of interest, ages, or deadlines.",
+    "zh": "利息、年龄或截止日期的计算",
+    "role": "corrupting 的宾语（of 带三个并列宾语，作 calculations 的后置定语）"
+   }
+  ],
+  "structure": "①冒号前是主句 That compact code hid an ambiguity：That 回指上句所说的两位数记年法，compact 作前置定语，视频译为“小而紧凑的”；hid 的宾语是 an ambiguity。\n②冒号后的分句 a machine might read \"00\" as 1900 解释 ambiguity 的具体内容：主语 a machine，谓语 might read，read A as B 意为“把 A 读成 B”（视频说明）。might 表示可能性，语气较弱，说明这是一种风险，不是必然发生。\n③corrupting calculations of interest, ages, or deadlines 是现在分词短语作结果状语（视频说明），表示机器误读带来的后果，逻辑主语是 a machine。calculations 后的 of 带三个并列宾语 interest, ages, or deadlines，or 前用了牛津逗号。\n④歧义的实质：两位数“00”既可以指2000年，也可以指1900年；机器如果把它当成1900年，与日期有关的计算就会相差一百年，利息、年龄、截止日期都会算错。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号隔开，可以表示前面动作自然产生的结果，常译为“从而……”“导致……”，常见的有 causing、leading to、resulting in、leaving、making 等。本句 corrupting calculations of interest, ages, or deadlines 表示机器误读年份的后果，视频译为“从而搞错……”。现在分词作结果状语，表示顺理成章、意料之中的结果；出乎意料的结果多用 only to do。考研阅读中，句末的 -ing 结构常是作者真正想强调的后果，要特别留意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain flooded the main road, cutting the village off for two days.",
+      "zh": "大雨淹没了主路，致使村子与外界隔绝了两天。"
+     },
+     {
+      "en": "The factory closed suddenly, leaving hundreds of workers without jobs.",
+      "zh": "工厂突然倒闭，导致数百名工人失业。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释",
+    "explain": "冒号常用来引出对前文的解释、具体化或举例，冒号后的内容说明冒号前的抽象概念。本句冒号前说代码暗藏 an ambiguity，冒号后具体说明歧义是什么。本文第12、14、17句也用冒号，分别引出看法、悖论的内容和误导的原因。考研阅读中，冒号前常是论点或概括，冒号后是解释或证据，读到冒号要把前后对应起来。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan had one obvious flaw: nobody had asked how much it would cost.",
+      "zh": "这个计划有一个明显的缺陷：没有人问过它要花多少钱。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "read A as B",
+    "explain": "把 A 读成 B，把 A 当作 B（视频说明）。同类结构还有 see A as B、regard A as B、treat A as B，as 后接的是对 A 的认定。"
+   },
+   {
+    "term": "corrupt",
+    "explain": "常见义是“腐败的；使腐化”，计算机语境中指使数据、文件出错或损坏（视频说明“引起（计算机文件等的）错误；破坏”），如 a corrupted file（损坏的文件），属于熟词僻义。本句视频译为“搞错”。"
+   },
+   {
+    "term": "interest",
+    "explain": "熟词僻义：本句指“利息”，不是“兴趣”，与 ages、deadlines 并列，都是要按日期计算的数值；interest rate（利率），pay interest on a loan（支付贷款利息）。"
+   },
+   {
+    "term": "compact",
+    "explain": "形容词，小巧的，紧凑的，视频译为“小而紧凑的”；本句指代码只用两位数字记年份，占用空间小。a compact car（小型轿车）。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①That compact code 中 That 译为“这种”，指上句所说的做法，不是某一段具体代码；compact 前置译为“小而紧凑的”。②hid 译为“暗藏着”，突出歧义平时不显露、到时才暴露。③冒号保留，冒号后的分句按原语序译出，read A as B 用“把”字句译为“把 A 读成 B”，1900 增补“年”。④结果状语 corrupting… 译为“从而搞错……”，用“从而”体现因果；calculations of interest, ages, or deadlines 中 of 短语前置，译为“利息、年龄或截止日期的计算”，三个并列项用顿号和“或”连接。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Governments and firms",
+   "predicate": "braced for",
+   "object_or_complement": "chaos",
+   "explain": "主干就是全句，主谓宾结构；brace for 是“动词 + 介词”构成的短语动词，chaos 是介词 for 的宾语，也可把 braced for 整体看作谓语、chaos 看作宾语。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Governments and firms",
+    "zh": "各国政府和企业",
+    "role": "主语（两个并列的复数名词，零冠词表示泛指）"
+   },
+   {
+    "text": "braced for",
+    "zh": "都在严阵以待，准备迎接",
+    "role": "谓语（短语动词 brace for：准备应对不好的事）"
+   },
+   {
+    "text": "chaos.",
+    "zh": "一场混乱",
+    "role": "宾语（介词 for 的宾语）"
+   }
+  ],
+  "structure": "①主语 Governments and firms 是两个并列的复数名词，零冠词，泛指当时的政府和企业，视频增补“各国”体现复数和泛指。\n②谓语 braced for 意为“准备应对（不好的事）”（视频说明）。brace 本义是“支撑，绷紧身体”，brace for 就是为迎接冲击而做好准备，后面多接 the worst、impact、a storm 等负面事物。\n③宾语 chaos 是不可数名词，指人们预想中千年虫可能造成的大混乱。\n④本句很短，承上启下：第一段讲隐患，本句开启第二段的应对措施，下文依次讲美国政府、顾问和各方的花费。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "brace (oneself) for sth",
+    "explain": "brace 作动词，本义是用支架撑住或绷紧身体以承受冲击，引申为“为不好的事做好准备”。常见结构有 brace for sth、brace oneself for sth、be braced for sth、brace (oneself) to do sth。宾语多是负面事物，如 brace for a storm、brace for job cuts、brace for the worst。本句 braced for chaos 视频译为“都在严阵以待，准备迎接一场混乱”，“严阵以待”体现紧张戒备的气氛。外刊经济、灾害新闻中常用，如 Markets are bracing for another rate rise。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Residents along the coast are bracing for the strongest storm in a decade.",
+      "zh": "沿海居民正严阵以待，准备迎接十年来最强的风暴。"
+     }
+    ]
+   },
+   {
+    "title": "零冠词复数名词表示泛指",
+    "explain": "可数名词复数前不加冠词，表示泛指某一类人或物，而不是特指某几个。本句 Governments and firms 泛指当时的政府和企业，不是某几个具体的政府或公司。下文第6句的 Consultants、第16句的 Critics 也是这种用法。翻译时常增补“各国”“许多”“们”等词体现复数含义。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Employers increasingly value practical skills over formal qualifications.",
+      "zh": "雇主们越来越看重实际技能，而不是正式学历。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "firm",
+    "explain": "名词，公司，商行，与 company 近义，外刊中很常用；本句与 Governments 并列，视频译为“企业”。形容词 firm 意为“坚定的，结实的”，注意区分。"
+   },
+   {
+    "term": "chaos",
+    "explain": "不可数名词，混乱，紊乱，常见 in chaos（处于混乱中）、cause chaos（造成混乱）；形容词 chaotic（混乱的）。本句视频增补量词，译为“一场混乱”。"
+   }
+  ],
+  "translation_tip": "视频译文“各国政府和企业都在严阵以待，准备迎接一场混乱。”的处理：①主语 Governments and firms 增补“各国”，体现复数泛指，并加“都”统括。②braced for 拆成两个短语“严阵以待，准备迎接”，既译出 brace 的戒备姿态，又译出 for 指向的对象；“在”体现当时持续的状态。③chaos 增补量词，译为“一场混乱”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "President Clinton",
+   "predicate": "created",
+   "object_or_complement": "a council",
+   "explain": "主干是 President Clinton created a council，主谓宾结构；不定式 to coordinate America's effort 作目的状语。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 1998",
+    "zh": "1998年2月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "President Clinton",
+    "zh": "美国总统克林顿",
+    "role": "主语（职务名 President 作称号，放在人名前）"
+   },
+   {
+    "text": "created",
+    "zh": "设立了",
+    "role": "谓语"
+   },
+   {
+    "text": "a council",
+    "zh": "一个委员会",
+    "role": "宾语"
+   },
+   {
+    "text": "to coordinate",
+    "zh": "来协调",
+    "role": "目的状语（不定式短语）"
+   },
+   {
+    "text": "America's effort.",
+    "zh": "全美的应对工作",
+    "role": "不定式 to coordinate 的宾语"
+   }
+  ],
+  "structure": "①句首 In February 1998 是时间状语，月份和年份连用时前面用 in；句首的短介词短语后可以不加逗号，本句即直接接主语。\n②主语 President Clinton：职务名 President 直接放在人名前作称号，首字母大写，不加冠词，指当时的美国总统比尔·克林顿（Bill Clinton）。\n③谓语 created，宾语 a council。\n④to coordinate America's effort 是不定式短语作目的状语（视频说明），说明设立委员会的目的；coordinate 的宾语是 America's effort，指全美为解决千年虫问题而进行的工作。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不定式作目的状语",
+    "explain": "不定式短语放在句末，可以表示主句动作的目的，意为“为了……，来……”，需要强调时可在前面加 in order 或 so as。本句 to coordinate America's effort 说明 created a council 的目的，视频说明把它分析为目的状语，译为“来协调”。不定式紧跟在名词之后时，也可能是后置定语，阅读时要根据意思判断；本句两种读法意思相近，按视频说明作目的状语处理。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city hired extra staff to handle the surge in applications.",
+      "zh": "市政府增聘了人手来处理激增的申请。"
+     }
+    ]
+   },
+   {
+    "title": "职务名 + 人名作称号",
+    "explain": "表示职务、头衔的名词直接放在人名前作称号时，首字母大写，不加冠词，如 President Clinton、Prime Minister Blair、Professor Smith。职务名不放在人名前，而是单独出现或放在人名后作同位语时，一般要加冠词，如 the president of the company。考研写作中写“某某教授”“某某总统”时，不要写成 the Professor Smith。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Senator Collins questioned the bank's chief executive for nearly an hour.",
+      "zh": "参议员柯林斯对这家银行的首席执行官质询了近一个小时。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "President's Council on Year 2000 Conversion",
+    "explain": "本句所说的委员会，英文名称是 President's Council on Year 2000 Conversion（总统2000年转换委员会），由克林顿总统于1998年2月以行政命令设立，负责协调美国应对千年虫问题的工作。"
+   },
+   {
+    "term": "council",
+    "explain": "名词，委员会，理事会，指为某一目的设立、负责咨询、协调或管理的机构，如 the UN Security Council（联合国安理会）、a city council（市议会）。注意与 counsel（劝告；律师）、consul（领事）区分。"
+   },
+   {
+    "term": "coordinate",
+    "explain": "动词，协调，使配合，指让多方的行动步调一致，常接 efforts、policies、activities 作宾语。名词 coordination（协调）。"
+   },
+   {
+    "term": "effort",
+    "explain": "名词，努力；这里指为达成某个目标而进行的有组织的行动，单数 effort 可指一项整体工作，视频译为“应对工作”，如 the relief effort（救援工作）。"
+   }
+  ],
+  "translation_tip": "视频译文“1998年2月，美国总统克林顿设立了一个委员会来协调全美的应对工作。”的处理：①时间状语 In February 1998 置于句首，按汉语习惯先年后月，后加逗号。②President Clinton 增补“美国”，译为“美国总统克林顿”，交代国别。③不定式目的状语 to coordinate 译为“来协调”，紧接在“设立了一个委员会”之后，形成连动式。④America's effort 结合语境，effort 译为“应对工作”，America's 译为“全美的”，突出全国范围。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Consultants",
+   "predicate": "audited；patched",
+   "object_or_complement": "legacy systems（audited 的宾语）；faulty date logic（patched 的宾语）",
+   "explain": "主干是一个主语带两个并列谓语：Consultants audited legacy systems and patched faulty date logic，两个谓语都带宾语，用 and 连接。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Consultants",
+    "zh": "顾问们",
+    "role": "主语（零冠词复数，泛指参与排查的顾问）"
+   },
+   {
+    "text": "audited",
+    "zh": "审查了",
+    "role": "谓语一"
+   },
+   {
+    "text": "legacy systems",
+    "zh": "遗留系统",
+    "role": "宾语一（legacy 作前置定语）"
+   },
+   {
+    "text": "and patched",
+    "zh": "并给……打上补丁",
+    "role": "并列连词 and + 谓语二"
+   },
+   {
+    "text": "faulty date logic.",
+    "zh": "有缺陷的日期处理逻辑",
+    "role": "宾语二（faulty 和 date 都是前置定语）"
+   }
+  ],
+  "structure": "①主语 Consultants 零冠词复数，泛指受雇参与排查的顾问，视频译为“顾问们”。\n②第一个谓语 audited 意为“审查”，宾语 legacy systems 指仍在使用的旧计算机系统（视频说明），legacy 作前置定语。\n③and 连接第二个谓语 patched（视频说明“patch A：给 A 打补丁”），宾语 faulty date logic：date 是名词作定语，修饰 logic，date logic 指程序中处理日期的逻辑；faulty 再修饰 date logic。\n④两个动作有先后：先审查，找出问题，再打补丁修正，与第2、3句所说的两位数记年隐患相对应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "and 连接并列谓语",
+    "explain": "同一个主语发出两个动作时，可以用 and 把两个谓语连接起来，第二个谓语前不重复主语。本句 audited…and patched… 共用主语 Consultants，按“先审查、后修补”的顺序排列。阅读时要找准每个谓语各自的宾语：audited 的宾语是 legacy systems，patched 的宾语是 faulty date logic。两个谓语的时态通常保持一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The engineers inspected the bridge and repaired the damaged cables.",
+      "zh": "工程师们检查了这座桥，并修复了受损的缆索。"
+     }
+    ]
+   },
+   {
+    "title": "多个前置定语的修饰层次",
+    "explain": "名词前有几个定语时，离中心词最近的定语与它关系最紧，理解时从里往外读。faulty date logic 中，名词 date 先修饰 logic，构成“日期处理逻辑”，faulty 再修饰整个 date logic，意为“有缺陷的日期处理逻辑”，而不是“有缺陷的日期”。名词作定语时一般用单数，如 date logic、a date field。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company replaced its outdated customer database last year.",
+      "zh": "该公司去年更换了过时的客户数据库。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "legacy systems",
+    "explain": "计算机术语，遗留系统，指仍在使用、但技术已经过时的旧计算机系统（视频说明）。legacy 的常见义是“遗产，遗留下来的影响”，作计算机术语时用作形容词，属于熟词僻义。"
+   },
+   {
+    "term": "audit",
+    "explain": "动词，审查，检查；常见义是“审计（账目）”，本句指系统地检查计算机系统，视频译为“审查了”。名词 audit（审计），auditor（审计员）。"
+   },
+   {
+    "term": "patch",
+    "explain": "动词，打补丁，修补；软件领域指用一小段修正程序修复漏洞（视频说明“patch A：给 A 打补丁”）。名词 patch 指补丁，如 a security patch（安全补丁）。"
+   },
+   {
+    "term": "consultant",
+    "explain": "顾问，咨询师，如 a management consultant（管理顾问）、an IT consultant（信息技术顾问）。动词 consult（咨询，请教）。"
+   }
+  ],
+  "translation_tip": "视频译文“顾问们审查了遗留系统，并给有缺陷的日期处理逻辑打上补丁。”的处理：①主语 Consultants 增补“们”，体现复数。②两个并列谓语分别译出，第二个谓语前用“并”与 and 对应，中间用逗号断开。③patched faulty date logic 用“给”字结构把宾语提前，译为“给有缺陷的日期处理逻辑打上补丁”；date logic 增补“处理”，译为“日期处理逻辑”，意思更清楚。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "the Commerce Department（前一分句）；projections（后一分句）",
+   "predicate": "estimated；ran to",
+   "object_or_complement": "American governments and enterprises would spend about $100bn（estimated 的宾语从句）；hundreds of billions（ran to 的宾语）",
+   "explain": "本句是由分号连接的两个并列分句。前一分句主干是 the Commerce Department estimated + 省略 that 的宾语从句，主谓宾结构；后一分句主干是 projections ran to hundreds of billions。两个谓语都是一般过去时，主动语态；宾语从句的谓语 would spend 是过去将来时，表示从过去某时看将要发生的事。"
+  },
+  "components": [
+   {
+    "text": "In November 1999",
+    "zh": "1999年11月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "the Commerce Department",
+    "zh": "美国商务部",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "estimated",
+    "zh": "估算",
+    "role": "前一分句的谓语（后接省略 that 的宾语从句）"
+   },
+   {
+    "text": "American governments and enterprises",
+    "zh": "美国各级政府和企业",
+    "role": "宾语从句的主语"
+   },
+   {
+    "text": "would spend",
+    "zh": "将为此花费",
+    "role": "宾语从句的谓语（过去将来时）"
+   },
+   {
+    "text": "about $100bn;",
+    "zh": "约1,000亿美元",
+    "role": "宾语从句的宾语；分号连接后一分句"
+   },
+   {
+    "text": "projections of the global bill",
+    "zh": "对全球总账单的各种预测",
+    "role": "后一分句的主语（of 短语作后置定语）"
+   },
+   {
+    "text": "ran to",
+    "zh": "则高达",
+    "role": "后一分句的谓语（run to：（数量）达到）"
+   },
+   {
+    "text": "hundreds of billions.",
+    "zh": "数千亿美元",
+    "role": "ran to 的宾语（后面省略了 of dollars）"
+   }
+  ],
+  "structure": "①前一分句：In November 1999 作时间状语；主语 the Commerce Department 指美国商务部；谓语 estimated 后省略了 that，引出宾语从句（视频说明）。\n②宾语从句 American governments and enterprises would spend about $100bn：主语是并列的 American governments and enterprises，谓语 would spend，about $100bn 作宾语，about 意为“大约”。$100bn 即 100 billion dollars（视频说明），读作 a hundred billion dollars，bn 是 billion 的缩写。\n③分号连接后一分句：主语 projections，of the global bill 作后置定语，说明预测的对象（视频说明“projections of A：对 A 的预测”）；谓语 ran to 意为“（数量）达到”（视频说明）；hundreds of billions 作宾语，后面省略了 of dollars。\n④两个分句一个说美国的估算，一个说全球的预测，由小到大，突出应对千年虫的花费之巨。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that",
+    "explain": "think、say、believe、estimate、suggest 等动词后接宾语从句时，引导词 that 常可省略，新闻和口语中尤其常见。本句 estimated 后直接接 American governments and enterprises would spend…，省略了 that（视频说明）。识别方法：及物动词后面紧跟一个完整的“主语 + 谓语”结构，这个结构就是宾语从句。两个宾语从句并列时，第二个从句的 that 一般不省略，否则容易误读。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Analysts believe the merger will be approved by the end of the year.",
+      "zh": "分析人士认为，这项合并将在年底前获得批准。"
+     },
+     {
+      "en": "The survey suggested most commuters would accept higher fares for faster trains.",
+      "zh": "调查显示，大多数通勤者愿意为更快的列车接受更高的票价。"
+     }
+    ]
+   },
+   {
+    "title": "过去将来时 would do",
+    "explain": "主句谓语是过去时，宾语从句要表示从过去某一时间看将来发生的动作时，用 would + 动词原形，即过去将来时。本句 estimated 发生在1999年11月，would spend 指那时预计将要花的钱，视频译为“将为此花费”。这是主从句时态呼应的典型情况，考研翻译和写作中把间接引语、宾语从句的时态写错是常见失分点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In 2010 the agency predicted that the world's population would reach nine billion by 2050.",
+      "zh": "2010年，该机构预测世界人口到2050年将达到90亿。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号用来连接两个语法上各自完整、意思联系紧密的分句，停顿比逗号长、比句号短。本句分号前说美国的估算，分号后说全球的预测，两者形成递进。视频保留分号，后一分句用“则”承接。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Domestic sales fell by 5 percent; exports, however, rose sharply.",
+      "zh": "国内销量下降了5%；出口却大幅增长。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Commerce Department",
+    "explain": "美国商务部，正式名称是 the Department of Commerce，主管贸易、经济统计等事务。外刊常把 the Department of X 写成 the X Department，如 the State Department（美国国务院）、the Justice Department（美国司法部）。"
+   },
+   {
+    "term": "$100bn",
+    "explain": "bn 是 billion（十亿）的缩写，$100bn 即1,000亿美元（视频说明）。英语以“千”为单位分节，汉语以“万”为单位：1 billion 是10亿，100 billion 是1,000亿，1 trillion 是1万亿。外刊中还常见 m（million，百万）、tn（trillion，万亿）。"
+   },
+   {
+    "term": "run to",
+    "explain": "（数量、费用、篇幅等）达到，如 The report runs to 300 pages（报告长达300页）、Repair costs could run to millions（修理费可能达到数百万）。本句视频译为“则高达”。"
+   },
+   {
+    "term": "projection",
+    "explain": "预测，估算，指根据现有情况对未来数字的推算，如 sales projections（销售预测）、population projections（人口预测）；动词 project（预计）。"
+   },
+   {
+    "term": "bill",
+    "explain": "本句 the global bill 指全球应对千年虫的总花费，bill 由“账单”引申为某事的总费用，视频译为“全球总账单”；foot the bill 意为“买单，承担费用”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①时间状语 In November 1999 置于句首。②省略 that 的宾语从句在“估算”后用逗号隔开，按原语序译出；American governments 用复数，指联邦、州、地方各级政府，译为“美国各级政府”。③would spend 译为“将……花费”，并增补“为此”，点明这笔钱是为解决千年虫问题而花的。④$100bn 换算成以“亿”为单位的“1,000亿美元”。⑤分号保留；后一分句的 projections 增补“各种”体现复数，of 短语前置为“对全球总账单的”；ran to 译为“则高达”，“则”承接前一分句，“高”强调数额之大；hundreds of billions 补出单位，译为“数千亿美元”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "midnight（前一分句）；little（后一分句）",
+   "predicate": "struck；went",
+   "object_or_complement": "wrong（went 的表语）",
+   "explain": "本句是 and 连接的并列句。前一分句主干是 midnight struck，主谓结构，strike 在此为不及物动词，意为“（钟）敲响”；后一分句主干是 little went wrong，go 为系动词，wrong 作表语，go wrong 意为“出问题”。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Then",
+    "zh": "随后",
+    "role": "时间状语（副词，承接上文）"
+   },
+   {
+    "text": "midnight",
+    "zh": "午夜钟声",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "struck",
+    "zh": "敲响",
+    "role": "前一分句的谓语（strike 的过去式）"
+   },
+   {
+    "text": "on 31 December 1999,",
+    "zh": "1999年12月31日的",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "and little",
+    "zh": "几乎没",
+    "role": "并列连词 and + 后一分句的主语 little（代词，几乎没有什么）"
+   },
+   {
+    "text": "went wrong.",
+    "zh": "出什么问题",
+    "role": "后一分句的系表结构（went 为系动词，wrong 为表语）"
+   }
+  ],
+  "structure": "①Then 是副词作时间状语，承接上一段的种种准备，意为“随后”。\n②前一分句 midnight struck on 31 December 1999：主语 midnight，谓语 struck（strike 的过去式，视频说明“（钟）敲响”），on 31 December 1999 作时间状语，具体日期前用介词 on。31 December 1999 是英式写法，日在月前，美式常写作 December 31, 1999。\n③and 连接后一分句 little went wrong：little 是代词作主语，意为“几乎没有什么（事）”，表示否定（视频说明）；went wrong 是系表结构，意为“出问题”。\n④midnight struck 字面上是午夜钟声敲响，用钟声标出从1999年跨入2000年的那一刻；little went wrong 与上一段的大规模准备形成鲜明对比，是全文的转折点。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "little 表示否定",
+    "explain": "little 不带 a 时表示否定，意为“几乎没有”，修饰不可数名词或单独作代词；a little 表示肯定，意为“有一点”。可数名词对应的是 few 与 a few。本句 little 作代词，充当主语，意为“几乎没有什么事”，little went wrong 即“几乎没出什么问题”（视频说明“little：几乎没有，表否定”）。考研阅读中 little、few、hardly、seldom 等词带否定意义，容易被忽略而把意思读反，细节题常在这里设陷阱。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "There was little evidence that the new policy had reduced crime.",
+      "zh": "几乎没有证据表明新政策降低了犯罪率。"
+     },
+     {
+      "en": "Little is known about the long-term effects of the drug.",
+      "zh": "人们对这种药物的长期影响知之甚少。"
+     }
+    ]
+   },
+   {
+    "title": "go 作系动词：go wrong",
+    "explain": "go 可作系动词，后接形容词作表语，多表示变成某种不好的状态，如 go wrong（出问题）、go bad（变质）、go bankrupt（破产）、go missing（失踪）。本句 went wrong 意为“出问题”，与 little 搭配就是“几乎没出问题”。注意 go wrong 中的 wrong 是形容词作表语，不能换成副词 wrongly。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "If anything goes wrong during the test, the system shuts down automatically.",
+      "zh": "测试过程中一旦出了任何问题，系统就会自动关闭。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "strike (struck, struck)",
+    "explain": "不规则动词，过去式和过去分词都是 struck。本句指钟敲响报时，如 The clock struck twelve（钟敲了十二下），视频说明“（钟）敲响”。strike 还可表示“（灾难、疾病）突然侵袭”“打击”，名词 strike 还指“罢工”。"
+   },
+   {
+    "term": "31 December 1999",
+    "explain": "英式日期写法，日在前、月在后；美式通常写作 December 31, 1999。读法：英式常读作 the thirty-first of December，美式常读作 December thirty-first。千年虫问题的关键时刻就是这一天的午夜，日期从1999年跨入2000年。"
+   },
+   {
+    "term": "go wrong",
+    "explain": "出问题，出差错，主语可以是事情、计划或机器，如 Something has gone wrong with the engine（发动机出了点问题）。"
+   }
+  ],
+  "translation_tip": "视频译文“随后，1999年12月31日的午夜钟声敲响，几乎没出什么问题。”的处理：①Then 译为“随后”，单独用逗号断开。②时间状语 on 31 December 1999 前置作定语，译成“1999年12月31日的”，按汉语习惯先年、再月、后日。③midnight 增补“钟声”，把 struck 的“敲响”落到实处。④and little went wrong 不译出 and，直接译为“几乎没出什么问题”，little 的否定义用“几乎没”表达，增补“什么”使语气自然。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Glitches",
+   "predicate": "were",
+   "object_or_complement": "sporadic and mostly minor",
+   "explain": "主干是 Glitches were sporadic and mostly minor，主系表结构，表语是由 and 连接的两个形容词 sporadic 和 mostly minor。系动词 were 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Glitches",
+    "zh": "小故障/小毛病",
+    "role": "主语"
+   },
+   {
+    "text": "that did crop up",
+    "zh": "确实意外出现的",
+    "role": "限制性定语从句，修饰 Glitches（that 在从句中作主语，did 加强语气）"
+   },
+   {
+    "text": "were sporadic",
+    "zh": "也是零星的/偶发的",
+    "role": "系动词 were + 表语一 sporadic"
+   },
+   {
+    "text": "and mostly minor.",
+    "zh": "而且大多轻微",
+    "role": "并列表语二（mostly 修饰 minor）"
+   }
+  ],
+  "structure": "①主语 Glitches 后紧跟 that did crop up，是限制性定语从句（视频说明），修饰 Glitches；that 在从句中作主语，不能省略。\n②从句谓语 did crop up 中，did 是助动词，放在实义动词原形前加强语气，意为“确实”（视频说明）；crop up 是短语动词，意为“（意外地）出现”。did 强调：虽然总体上几乎没出问题，但故障也确实出现过。\n③系动词 were 后接两个并列表语：sporadic（零星的，偶发的）和 mostly minor（大多轻微的），mostly 修饰 minor。\n④本句承接上句 little went wrong，说明确实出现的问题是什么性质：零星、轻微；下一句再举两个具体例子。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "助动词 did 加强语气",
+    "explain": "在肯定句中，把助动词 do、does、did 放在实义动词原形前，可以加强语气，意为“确实，的确”，读时要重读。本句 Glitches that did crop up 中，did 强调这些故障确实出现了，与上句 little went wrong 形成让步呼应：几乎没出问题，但确实出现的那些故障……。did 后的动词必须用原形 crop，不能写成 did cropped。考研阅读中，强调助动词常出现在让步或转折的语境中，提示作者在修正或补充前面的说法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few people attended the meeting, but those who did come asked excellent questions.",
+      "zh": "来开会的人很少，但确实到场的人提了很好的问题。"
+     },
+     {
+      "en": "The new drug does reduce pain, although its effects wear off quickly.",
+      "zh": "这种新药确实能减轻疼痛，尽管药效消退得很快。"
+     }
+    ]
+   },
+   {
+    "title": "that 在定语从句中作主语",
+    "explain": "关系代词 that 在限制性定语从句中作主语时不能省略。本句 that did crop up 修饰 Glitches，限定范围：不是人们事先设想的所有故障，而是确实出现了的那些。限制性定语从句与先行词之间不用逗号，翻译时通常前置，译为“……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Problems that arise during installation should be reported to the technical team.",
+      "zh": "安装过程中出现的问题应报告给技术团队。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "glitch",
+    "explain": "名词，（机器、系统的）小故障，小毛病，多指短暂、不严重的技术问题，如 a technical glitch、a computer glitch。视频译为“小故障/小毛病”。"
+   },
+   {
+    "term": "crop up",
+    "explain": "短语动词，（意外地、突然地）出现，主语多为问题、困难等，如 Problems cropped up almost immediately（问题几乎马上就冒了出来）。比 appear、arise 更口语化。"
+   },
+   {
+    "term": "sporadic",
+    "explain": "形容词，零星的，偶发的，指不连续、不规律地时有发生，如 sporadic fighting（零星的战斗）、sporadic outbreaks（零星暴发）。"
+   }
+  ],
+  "translation_tip": "视频译文“确实意外出现的小故障/小毛病也是零星的/偶发的，而且大多轻微。”的处理：①定语从句 that did crop up 前置，译为“确实意外出现的”，did 的强调义译为“确实”，crop up 的“突然、意外”义译为“意外出现”。②表语 sporadic 前增补“也”，承接上句“几乎没出什么问题”：即便出了问题，也只是零星的。③并列表语 and mostly minor 中，and 译为“而且”，mostly 译为“大多”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Radiation-monitoring equipment（前一分句）；a Pentagon ground system（后一分句）",
+   "predicate": "faltered；failed",
+   "object_or_complement": "",
+   "explain": "本句是 and 连接的并列句，两个分句都是主谓结构，falter 和 fail 在此都是不及物动词，不带宾语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Radiation-monitoring equipment",
+    "zh": "辐射监测设备",
+    "role": "前一分句的主语（Radiation-monitoring 是复合形容词作前置定语）"
+   },
+   {
+    "text": "faltered",
+    "zh": "出了故障",
+    "role": "前一分句的谓语"
+   },
+   {
+    "text": "at Japan's Shika nuclear plant",
+    "zh": "日本志贺核电站的",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "without any threat",
+    "zh": "但并未威胁",
+    "role": "伴随状语（without 介词短语）"
+   },
+   {
+    "text": "to safety,",
+    "zh": "安全",
+    "role": "介词短语作 threat 的后置定语（threat to sth：对……的威胁）"
+   },
+   {
+    "text": "and a Pentagon ground system",
+    "zh": "美国国防部一套……地面系统",
+    "role": "并列连词 and + 后一分句的主语（Pentagon、ground 都是名词作定语）"
+   },
+   {
+    "text": "that processes spy-satellite data",
+    "zh": "处理间谍卫星数据的",
+    "role": "限制性定语从句，修饰 ground system（that 在从句中作主语）"
+   },
+   {
+    "text": "failed.",
+    "zh": "也曾失灵",
+    "role": "后一分句的谓语"
+   }
+  ],
+  "structure": "①前一分句：主语 Radiation-monitoring equipment，Radiation-monitoring 是“名词 + 现在分词”构成的复合形容词，作前置定语，意为“监测辐射的”；equipment 是不可数名词。谓语 faltered，视频说明 falter 指运行不稳定、时好时坏，与彻底坏掉不同。at Japan's Shika nuclear plant 作地点状语；without any threat to safety 是介词短语作伴随状语，补充说明这次故障没有威胁安全。\n②后一分句：主语 a Pentagon ground system，Pentagon 作名词定语，指美国国防部（视频说明），ground 也是名词作定语，ground system 指卫星的地面系统；that processes spy-satellite data 是限制性定语从句（视频说明），that 在从句中作主语；谓语 failed，意为“失灵”。\n③两个例子一民一军，一个在日本，一个在美国，具体说明上句的 sporadic and mostly minor：故障确实出现过，但影响有限。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "复合形容词与名词作前置定语",
+    "explain": "英语常用连字符把两个词连成复合形容词放在名词前。“名词 + 现在分词”表示主动关系，前面的名词是分词的宾语：radiation-monitoring equipment 即 equipment that monitors radiation（监测辐射的设备），同类还有 energy-saving（节能的）、record-breaking（破纪录的）。spy-satellite data 则是复合名词作定语，意为“间谍卫星的数据”；a Pentagon ground system 中 Pentagon 和 ground 都是名词作定语。翻译时把这类前置定语还原成“……的”结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city installed energy-saving lights along its main roads.",
+      "zh": "这座城市在主要道路沿线安装了节能灯。"
+     }
+    ]
+   },
+   {
+    "title": "without 介词短语作伴随状语",
+    "explain": "without + 名词（或动名词）可作状语，表示“在没有……的情况下”，说明伴随情况或补充一个否定的事实。本句 without any threat to safety 说明设备出故障时并没有威胁安全，视频译为“但并未威胁安全”，用“但”体现让步。any 用在 without 后，加强“完全没有”的意味。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival ended without any serious incidents.",
+      "zh": "节日活动顺利结束，没有发生任何严重事件。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句用一般现在时说明长期功能",
+    "explain": "主句用过去时，定语从句如果描述的是先行词长期不变的性质或功能，可以用一般现在时，不必与主句时态一致。本句 that processes spy-satellite data 说明这套地面系统的用途是处理间谍卫星数据，这是它一贯的功能，所以用 processes；主句 failed 则是过去发生的具体事件。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Last year the company acquired a startup that develops software for hospitals.",
+      "zh": "去年这家公司收购了一家为医院开发软件的初创企业。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Shika nuclear plant",
+    "explain": "志贺核电站，位于日本石川县，由北陆电力公司运营。Japan's 是名词所有格，表示所属国家。"
+   },
+   {
+    "term": "Pentagon",
+    "explain": "五角大楼，美国国防部总部大楼，因建筑呈五边形得名，常用来代指美国国防部（视频说明）。用建筑或地名代指机构是新闻常用手法，如 the White House 指美国总统及其行政班子，Downing Street 指英国首相府。"
+   },
+   {
+    "term": "falter",
+    "explain": "动词，本义是（脚步）踉跄、（声音）发颤、（行动）犹豫，引申为（机器、经济、力量等）运转不稳、减弱。视频说明强调 falter 指时好时坏、运转不顺畅，与 break down（彻底坏掉）不同；本句视频译为“出了故障”。"
+   },
+   {
+    "term": "spy satellite",
+    "explain": "间谍卫星，即侦察卫星，用于从太空获取军事情报；spy 是名词作定语。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①前一分句中，地点状语 at Japan's Shika nuclear plant 前置作定语，译为“日本志贺核电站的辐射监测设备”；复合形容词 Radiation-monitoring 译为“辐射监测”。②without any threat to safety 拆成短句“但并未威胁安全”，增补“但”表示让步。③两个分句之间用分号断开，与英文的 and 对应。④a Pentagon ground system 中 Pentagon 按所指译为“美国国防部”；定语从句 that processes spy-satellite data 前置，译为“一套处理间谍卫星数据的地面系统”，a 译为量词“一套”。⑤failed 译为“也曾失灵”，增补“也”与前一分句呼应，“曾”交代这是过去发生的事。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "a Senate committee",
+   "predicate": "concluded",
+   "object_or_complement": "that the expenditure had been justified（宾语从句）",
+   "explain": "主干是 a Senate committee concluded + that 引导的宾语从句，主谓宾结构。主句谓语 concluded 是一般过去时，主动语态；从句谓语 had been justified 是过去完成时的被动语态（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "In February 2000",
+    "zh": "2000年2月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "a Senate committee",
+    "zh": "美国参议院的一个委员会",
+    "role": "主语（Senate 是名词作定语）"
+   },
+   {
+    "text": "concluded",
+    "zh": "得出结论",
+    "role": "谓语"
+   },
+   {
+    "text": "that the expenditure had been justified.",
+    "zh": "认定这笔开支是合理的",
+    "role": "宾语从句（that 引导，不充当成分；从句谓语为过去完成时被动语态）"
+   }
+  ],
+  "structure": "①In February 2000 是时间状语，指跨年之后约两个月。\n②主语 a Senate committee，Senate 作名词定语，指美国参议院；谓语 concluded 意为“得出结论”。\n③that the expenditure had been justified 是宾语从句（视频说明），that 只起连接作用，在从句中不充当成分。从句主语 the expenditure 指前文所说应对千年虫的开支；had been justified 是过去完成时被动语态，开支发生在委员会得出结论之前，所以用过去完成时；justify 意为“证明……正当、合理”，开支是被证明的一方，所以用被动。\n④本句代表官方的评价：钱花得值。下一句 Many saw it differently 引出相反的看法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时的被动语态",
+    "explain": "过去完成时被动语态的结构是 had been + 过去分词，表示在过去某一时间之前已经完成的被动动作或已经成立的状态。本句主句谓语 concluded 发生在2000年2月，开支发生在此之前，所以从句用 had been justified。考研翻译中，被动语态常不译成“被”字句，视频把 had been justified 译为“是合理的”，更符合汉语习惯。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the fire engines arrived, most of the residents had been evacuated.",
+      "zh": "消防车赶到时，大部分居民已被疏散。"
+     },
+     {
+      "en": "The inspectors found that the safety checks had not been carried out properly.",
+      "zh": "检查人员发现，安全检查没有得到恰当执行。"
+     }
+    ]
+   },
+   {
+    "title": "conclude that 引出结论",
+    "explain": "that 引导宾语从句时只起连接作用，不在从句中充当成分，也没有词义。conclude、find、argue、claim、note 等动词后常接 that 从句，表示得出的结论或提出的观点，正式语体中 that 一般保留。conclude that… 是考研阅读中表达研究者或机构结论的高频结构，常是推断题的依据。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The researchers concluded that the treatment was both safe and effective.",
+      "zh": "研究人员得出结论，这种疗法既安全又有效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Senate",
+    "explain": "美国参议院，与众议院（the House of Representatives）共同组成国会（Congress），每个州有两名参议员（senator）。a Senate committee 指参议院下设的一个委员会。"
+   },
+   {
+    "term": "expenditure",
+    "explain": "名词，开支，支出，比 spending 正式，多指政府、机构的支出，如 public expenditure（公共开支）、expenditure on education（教育开支）。动词 expend。"
+   },
+   {
+    "term": "justified",
+    "explain": "justify 意为“证明……正当、有理”，如 justify a decision；形容词 justified 意为“有正当理由的，合理的”，be justified in doing sth 意为“做某事是有道理的”。名词 justification（理由）。"
+   }
+  ],
+  "translation_tip": "视频译文“2000年2月，美国参议院的一个委员会得出结论，认定这笔开支是合理的。”的处理：①时间状语 In February 2000 置于句首。②a Senate committee 中 Senate 增补“美国”，名词定语译成“……的”，a 译为“一个”，放在中心词前，得到“美国参议院的一个委员会”。③concluded 译为“得出结论”，宾语从句用逗号隔开，并增补“认定”引出结论内容，使句子通顺。④the expenditure 译为“这笔开支”，指前文所说的花费；被动语态 had been justified 不用“被”字，译为“是合理的”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Many",
+   "predicate": "saw",
+   "object_or_complement": "it",
+   "explain": "主干是 Many saw it differently，主谓宾结构，differently 作方式状语，see A differently 意为“对 A 看法不同”（视频说明）。一般过去时，主动语态。冒号后的分句说明这些人的看法。"
+  },
+  "components": [
+   {
+    "text": "Many",
+    "zh": "许多人",
+    "role": "主语（代词，相当于 many people）"
+   },
+   {
+    "text": "saw it differently:",
+    "zh": "却不这么看",
+    "role": "谓语 saw + 宾语 it + 方式状语 differently（see A differently）"
+   },
+   {
+    "text": "the threat",
+    "zh": "在他们眼里，这一威胁",
+    "role": "冒号后分句的主语（“在他们眼里”为译文增补）"
+   },
+   {
+    "text": "had been exaggerated,",
+    "zh": "被夸大了",
+    "role": "冒号后分句的谓语（过去完成时被动语态）"
+   },
+   {
+    "text": "even a hoax.",
+    "zh": "甚至是一场骗局",
+    "role": "省略结构（前面省略 had been），a hoax 作表语，even 表示递进"
+   }
+  ],
+  "structure": "①冒号前：主语 Many 是代词，相当于 many people；谓语 saw，宾语 it 指上句的情况，即应对千年虫的巨额开支是否值得；differently 作方式状语。\n②冒号后的分句陈述 Many 的看法：主语 the threat 指千年虫的威胁；had been exaggerated 是过去完成时被动语态，表示在他们看来，此前的威胁被夸大了。\n③even a hoax 是省略结构，前面省略了 had been（视频说明），补全是 the threat had been even a hoax；a hoax 作表语，even 表示递进，语气更重：不仅被夸大，甚至是一场骗局。\n④Many 与上句的 a Senate committee 形成对比，引出关于千年虫的另一种看法；下一句用 Yet 加以反驳。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "承前省略",
+    "explain": "英语中前文已出现的成分，后文常省略以避免重复。本句 even a hoax 前省略了 had been（视频说明），补全是 the threat had been even a hoax。读省略句时，要回到前面的分句，找到与它结构平行的部分，补出被省略的成分。考研长难句中，并列结构、比较结构里的省略非常多，本文第18句 and which excessive 也是省略。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some of the claims were misleading, and a few outright false.",
+      "zh": "其中一些说法具有误导性，还有几条完全是假的。"
+     },
+     {
+      "en": "The first test was easy, but the second much harder.",
+      "zh": "第一次测试很简单，但第二次难得多。"
+     }
+    ]
+   },
+   {
+    "title": "even 表示递进",
+    "explain": "even 作副词，引出比前面更进一步、更出人意料的内容，意为“甚至”。本句 had been exaggerated, even a hoax 从“被夸大”推进到“骗局”，语气层层加重。考研阅读中，even 后面的内容通常是某方观点中最强烈的部分，做态度题时要留意。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new rules are confusing, even contradictory.",
+      "zh": "这些新规定令人困惑，甚至自相矛盾。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "see A differently",
+    "explain": "对 A 看法不同（视频说明）；see 意为“看待，认为”，常见 see A as B（把 A 看作 B）。"
+   },
+   {
+    "term": "exaggerate",
+    "explain": "动词，夸大，夸张，如 exaggerate the danger（夸大危险）；名词 exaggeration。本句用被动 had been exaggerated，视频译为“被夸大了”。"
+   },
+   {
+    "term": "hoax",
+    "explain": "名词，骗局，恶作剧，指故意编造来骗人的假消息或假事件，如 a bomb hoax（虚假炸弹警报）。"
+   }
+  ],
+  "translation_tip": "视频译文“许多人却不这么看：在他们眼里，这一威胁被夸大了，甚至是一场骗局。”的处理：①Many 译为“许多人”，并增补“却”，体现与上句参议院结论的对立；saw it differently 译为“不这么看”，it 融入“这么”之中。②冒号后的分句前增补“在他们眼里”，明确这是 Many 的看法，而不是作者的判断。③had been exaggerated 保留被动，译为“被夸大了”。④省略结构 even a hoax 补出“是”，译为“甚至是一场骗局”，a 译为量词“一场”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "calm",
+   "predicate": "prevailed",
+   "object_or_complement": "",
+   "explain": "主干是 calm prevailed，主谓结构，prevail 在此是不及物动词，意为“占上风”；largely because 引导原因状语从句。主句一般过去时，主动语态；从句 had been fixed 是过去完成时被动语态。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "zh": "然而",
+    "role": "转折连词，承接上句"
+   },
+   {
+    "text": "calm",
+    "zh": "平静",
+    "role": "主语（名词）"
+   },
+   {
+    "text": "prevailed",
+    "zh": "占据上风",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "largely because",
+    "zh": "之所以……很大程度上正是因为",
+    "role": "原因状语从句的引导词 because，largely 修饰整个从句"
+   },
+   {
+    "text": "so much",
+    "zh": "大量问题",
+    "role": "原因状语从句的主语（代词性短语，相当于 so many things）"
+   },
+   {
+    "text": "had been fixed.",
+    "zh": "早已修好",
+    "role": "原因状语从句的谓语（过去完成时被动语态）"
+   }
+  ],
+  "structure": "①Yet 是转折连词，相当于 but，针对上句“威胁被夸大”的看法提出反驳。\n②主句 calm prevailed：主语 calm 是名词，指跨年时的平静局面；谓语 prevailed，视频说明 prevail 在冲突中指“占上风”，在环境中指“盛行”，本句视频译为“占据上风”，即平静压过了预想中的混乱。\n③largely because so much had been fixed 是原因状语从句，largely 修饰整个 because 从句，说明这是主要原因，但作者没有说是唯一原因。从句主语 so much 相当于 so many things，指大量问题；谓语 had been fixed 是过去完成时被动语态，表示修复在跨年之前就已完成。\n④本句是全文的转折核心：平静不是因为威胁不存在，而是因为问题已提前修好；下一句由此引出“防备悖论”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "副词修饰原因状语从句",
+    "explain": "because 从句前可以加 largely、mainly、partly、simply、only 等副词，说明原因的程度或范围：largely because 意为“很大程度上是因为”，partly because 意为“部分是因为”，simply because 意为“仅仅因为”。本句 largely because 表明“问题已修好”是平静的主要原因，用词留有余地。考研阅读中，这类限定词决定了原因的强弱，选项把 largely 换成 only 或 entirely，往往就是干扰项。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The project failed largely because its budget was cut halfway through.",
+      "zh": "这个项目失败，很大程度上是因为预算在中途被削减。"
+     },
+     {
+      "en": "House prices have risen partly because interest rates remain low.",
+      "zh": "房价上涨，部分原因是利率一直很低。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时被动语态表示先发生",
+    "explain": "had been + 过去分词 表示在过去某一时间之前已经完成的被动动作。本句修复在前、平静在后，所以从句用 had been fixed，视频译为“早已修好”，“早已”体现了动作的先后关系。主语 so much 指的问题是“被修好”的一方，所以用被动。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The road reopened on Monday because the damaged section had been repaired over the weekend.",
+      "zh": "这条路周一重新开通，因为受损路段已在周末修好。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "prevail",
+    "explain": "视频说明：在冲突中指“占上风”，在环境中指“盛行”，劝人时指“成功说服”（prevail on/upon sb to do sth）。常见 prevail over/against（战胜）、Common sense prevailed（理智占了上风）。形容词 prevailing（盛行的，占优势的）。"
+   },
+   {
+    "term": "Yet",
+    "explain": "作连词时意为“然而，可是”，与 but 相近，语气更正式，常放在句首表示转折。"
+   },
+   {
+    "term": "so much",
+    "explain": "代词性用法，相当于 so many things，指大量的事物；本句指大量的问题，视频译为“大量问题”。"
+   },
+   {
+    "term": "calm",
+    "explain": "本句作名词，意为“平静，安宁”，指跨年时风平浪静的局面；也常作形容词“平静的”和动词“使平静”（calm down）。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，平静之所以占据上风，很大程度上正是因为大量问题早已修好。”的处理：①Yet 译为“然而”，单独断开。②英文是“主句 + because 从句”，视频用“之所以……是因为……”句式，先说结果“平静之所以占据上风”，再说原因，强调原因。③largely 译为“很大程度上”，并增补“正是”加强语气。④so much 补出所指，译为“大量问题”；被动 had been fixed 不用“被”字，译为“早已修好”，“早已”体现过去完成时的先后关系。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "This",
+   "predicate": "is",
+   "object_or_complement": "the preparedness paradox",
+   "explain": "主干是 This is the preparedness paradox，主系表结构，一般现在时，表示普遍道理。冒号后由 so 连接的两个分句解释这一悖论。"
+  },
+  "components": [
+   {
+    "text": "This",
+    "zh": "这",
+    "role": "主语（指上句所说的现象）"
+   },
+   {
+    "text": "is",
+    "zh": "就是",
+    "role": "系动词"
+   },
+   {
+    "text": "the preparedness paradox:",
+    "zh": "防备悖论",
+    "role": "表语（冒号引出对悖论的解释）"
+   },
+   {
+    "text": "when precautions work,",
+    "zh": "预防措施一旦奏效",
+    "role": "when 引导的状语从句（兼有时间和条件意味）"
+   },
+   {
+    "text": "the danger",
+    "zh": "危险",
+    "role": "冒号后主句的主语"
+   },
+   {
+    "text": "they ward off",
+    "zh": "它们所抵御的",
+    "role": "限制性定语从句（省略关系代词），修饰 the danger"
+   },
+   {
+    "text": "never appears,",
+    "zh": "就永远不会出现",
+    "role": "谓语（never 是否定副词）"
+   },
+   {
+    "text": "so it looks imaginary.",
+    "zh": "于是看起来像是虚构的",
+    "role": "so 引导的并列分句，表结果（looks 为系动词，imaginary 为表语）"
+   }
+  ],
+  "structure": "①冒号前：主语 This 指上句所说的现象（问题早已修好，结果风平浪静，反被认为威胁夸大）；is 是系动词，the preparedness paradox 作表语，意为“防备悖论”。\n②冒号后是对悖论的解释。第一部分是主从复合句：when precautions work 是 when 引导的状语从句，兼有时间和条件意味，意为“一旦……”；主句 the danger they ward off never appears，主语 the danger 后接 they ward off，是省略了关系代词的限制性定语从句（视频说明），被省略的 that/which 在从句中作 ward off 的宾语，they 指 precautions；谓语 never appears。\n③so it looks imaginary 是 so 连接的并列分句，表示结果；it 指 the danger；looks 是系动词，imaginary 作表语（视频说明“look + 形容词：看起来……”）。\n④冒号后用一般现在时，说明这是一条普遍规律，不只适用于千年虫这一件事。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词在限制性定语从句中作宾语时可以省略。识别方法：名词后直接跟“主语 + 谓语”，而谓语后缺宾语。the danger they ward off 中，ward off 后缺的宾语正是先行词 the danger，补全是 the danger (that/which) they ward off。短语动词的小品词（off、up 等）留在从句末尾，读到这里从句才结束。阅读时可在先行词后补出 that 来还原结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The risks we choose to ignore are often the ones that hurt us most.",
+      "zh": "我们选择忽视的风险，往往正是伤害我们最深的那些。"
+     },
+     {
+      "en": "Most of the problems the team had worried about never materialized.",
+      "zh": "团队曾担心的大多数问题都没有出现。"
+     }
+    ]
+   },
+   {
+    "title": "when 从句兼表条件，一般现在时表规律",
+    "explain": "when 引导的状语从句除表示时间外，还可以带条件意味，相当于 whenever、if，意为“一旦……就……”。主从句都用一般现在时，表示普遍规律或必然结果。本句 when precautions work, the danger…never appears 描述的是一条普遍规律，视频把 when 译为“一旦”，主句用“就”呼应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When demand rises faster than supply, prices go up.",
+      "zh": "一旦需求增长快于供给，价格就会上涨。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 look + 形容词",
+    "explain": "look 作系动词，意为“看起来”，后接形容词作表语，不能接副词：looks imaginary，不能写成 looks imaginarily。同类系动词还有 seem、appear、sound、feel、remain 等。本句 it looks imaginary 意为“看起来像是虚构的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "From a distance, the old building looks almost new.",
+      "zh": "远远看去，这座老建筑几乎像新的一样。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "preparedness paradox",
+    "explain": "防备悖论：防备措施越成功，本应发生的危害越看不见，人们反而觉得防备是多余的（全文第4段的核心概念）。preparedness 意为“防备，准备就绪”，paradox 意为“悖论，似乎自相矛盾的现象”。"
+   },
+   {
+    "term": "ward off",
+    "explain": "短语动词，防止，避开，抵御（危险、疾病、攻击等），如 ward off disease、ward off an attack。视频译为“抵御”。"
+   },
+   {
+    "term": "precaution",
+    "explain": "名词，预防措施，常用复数，如 take precautions against fire（采取防火措施）；as a precaution（作为预防措施）。"
+   },
+   {
+    "term": "work",
+    "explain": "熟词僻义：本句 precautions work 中 work 是不及物动词，意为“奏效，起作用”，如 The medicine worked quickly（药很快起了作用）。"
+   },
+   {
+    "term": "imaginary",
+    "explain": "形容词，想象中的，虚构的；注意与 imaginative（富有想象力的）、imaginable（可以想象的）区分。"
+   }
+  ],
+  "translation_tip": "视频译文“这就是防备悖论：预防措施一旦奏效，它们所抵御的危险就永远不会出现，于是看起来像是虚构的。”的处理：①This is 译为“这就是”，加“就”加强判断语气。②when precautions work 译为“预防措施一旦奏效”，when 译为“一旦”，体现条件关系；work 译为“奏效”。③省略关系代词的定语从句 they ward off 前置，用“所”字结构译为“它们所抵御的”，表示动宾关系。④never appears 译为“就永远不会出现”，“就”与“一旦”呼应。⑤so it looks imaginary 译为“于是看起来像是虚构的”，主语 it 承前省略，so 译为“于是”，增补“像是”使语气更自然。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Tedious repairs",
+   "predicate": "earned",
+   "object_or_complement": "mockery rather than gratitude",
+   "explain": "主干是 Tedious repairs earned mockery，主谓宾结构，rather than gratitude 与 mockery 构成“A rather than B”（是 A 而不是 B）的结构（视频说明）。一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Tedious repairs",
+    "zh": "那些枯燥乏味的修复工作",
+    "role": "主语（tedious 作前置定语）"
+   },
+   {
+    "text": "earned",
+    "zh": "换来的是",
+    "role": "谓语"
+   },
+   {
+    "text": "mockery",
+    "zh": "嘲笑",
+    "role": "宾语"
+   },
+   {
+    "text": "rather than gratitude.",
+    "zh": "而不是感激",
+    "role": "rather than 连接的被否定一方，与 mockery 并列"
+   }
+  ],
+  "structure": "①主语 Tedious repairs：tedious 作前置定语，意为“冗长乏味的”；repairs 用复数，指一项项具体的修复工作。\n②谓语 earned，本义是“挣得”，这里指“招致，换来”，宾语是 mockery。\n③rather than gratitude 中，rather than 连接两个名词 mockery 和 gratitude，肯定前者，否定后者，意为“是 A 而不是 B”。\n④本句是防备悖论带来的结果：防范做得太好，什么事都没发生，别人反而觉得是在瞎操心、无事生非（视频说明）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "A rather than B",
+    "explain": "rather than 意为“而不是”，连接两个语法地位相同的成分（名词、形容词、动词、介词短语等），肯定 A、否定 B。本句连接两个名词 mockery 和 gratitude，都作 earned 的宾语。rather than 连接动词时，前后动词形式一般保持一致，如 She chose to walk rather than take the bus。考研阅读中，rather than 后面的内容是被否定的一方，题目常把肯定与否定颠倒，设置干扰项。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The decision was based on short-term politics rather than long-term planning.",
+      "zh": "这项决定基于短期的政治考量，而不是长远规划。"
+     },
+     {
+      "en": "Many young people now rent rather than buy their homes.",
+      "zh": "如今许多年轻人租房住，而不是买房。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "earn",
+    "explain": "本义“挣（钱）”，引申为“赢得，博得，招致”，宾语可以是正面的 respect、praise、a reputation，也可以是负面的 criticism、mockery。本句 earned mockery 视频译为“换来的是嘲笑”。"
+   },
+   {
+    "term": "tedious",
+    "explain": "冗长乏味的，单调的，如 a tedious task；近义词 boring、dull、monotonous。"
+   },
+   {
+    "term": "mockery",
+    "explain": "嘲笑，嘲弄；make a mockery of sth 意为“使某事显得荒唐可笑”。动词 mock（嘲笑）；mock 作形容词意为“模拟的”，如 a mock exam（模拟考试）。"
+   },
+   {
+    "term": "gratitude",
+    "explain": "感激，感谢，不可数名词，如 express gratitude to sb for sth；反义词 ingratitude（忘恩负义）。"
+   }
+  ],
+  "translation_tip": "视频译文“那些枯燥乏味的修复工作换来的是嘲笑，而不是感激。”的处理：①主语 Tedious repairs 增补“那些”，回指前文所说的修复；tedious 译为“枯燥乏味的”，repairs 增补“工作”。②earned mockery 译为“换来的是嘲笑”，“换来”体现付出与回报的反差，“的是”突出宾语。③rather than gratitude 译为“而不是感激”，用逗号断开，突出对比。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Critics",
+   "predicate": "noted",
+   "object_or_complement": "that Italy and South Korea spent far less yet fared no worse（宾语从句）",
+   "explain": "主干是 Critics noted + that 引导的宾语从句（视频说明），主谓宾结构。主句和从句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Critics noted",
+    "zh": "批评者指出",
+    "role": "主语 Critics + 谓语 noted"
+   },
+   {
+    "text": "that Italy and South Korea",
+    "zh": "意大利和韩国",
+    "role": "宾语从句的引导词 that + 从句主语（两个并列的国名）"
+   },
+   {
+    "text": "spent",
+    "zh": "花得",
+    "role": "从句谓语一"
+   },
+   {
+    "text": "far less",
+    "zh": "少得多",
+    "role": "spent 的宾语（less 是代词，far 修饰比较级）"
+   },
+   {
+    "text": "yet",
+    "zh": "结果",
+    "role": "转折连词，连接两个并列谓语"
+   },
+   {
+    "text": "fared no worse.",
+    "zh": "也不比别国差",
+    "role": "从句谓语二（fare 不及物，no worse 作状语）"
+   }
+  ],
+  "structure": "①主语 Critics 零冠词复数，泛指批评千年虫开支过高的人；谓语 noted 意为“指出”。\n②that 引导宾语从句（视频说明）：从句主语是并列的 Italy and South Korea；从句有两个并列谓语，由 yet 连接：spent far less 和 fared no worse。\n③spent far less 中，less 是代词，相当于 less money，作 spent 的宾语；far 修饰比较级 less，意为“少得多”。比较对象没有说出，指投入巨大的美国等国家。\n④fared no worse 中 fare 是不及物动词，意为“进展，过得”；no worse 是比较级作状语，意为“一点也不比……差”（视频说明“fare no worse：情况不比别人差”）。yet 表示转折：花钱少，结果却并不更差。\n⑤本句摆出批评者的论据，下一句 The comparison misleads 随即反驳。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "no + 比较级：fare no worse",
+    "explain": "no + 比较级 表示完全否定比较的差距，fare no worse 意为“情况一点也不比……差”，即至少一样好。比较对象省略时要从上下文补出：本句是与花钱多的国家比较，视频增补“别国”，译为“也不比别国差”。同类表达有 no better（并不更好）、no more than（仅仅）。考研阅读中，no + 比较级 容易被误读为普通比较，要读出它表达的是“并不更……”，而不是“更……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Patients who received the cheaper drug fared no worse than those given the expensive one.",
+      "zh": "服用较便宜药物的病人，情况一点也不比服用昂贵药物的病人差。"
+     },
+     {
+      "en": "Schools with smaller budgets performed no worse in the national tests.",
+      "zh": "预算较少的学校在全国统考中的表现并不更差。"
+     }
+    ]
+   },
+   {
+    "title": "far 修饰比较级",
+    "explain": "far、much、a lot、even、still 等可以修饰比较级，加强程度，意为“……得多”“更……”；very 不能修饰比较级。本句 far less 意为“少得多”。less 在这里是代词，作 spent 的宾语，相当于 less money。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new model uses far less fuel than its predecessor.",
+      "zh": "新款车型的耗油量比上一代少得多。"
+     }
+    ]
+   },
+   {
+    "title": "yet 连接并列谓语表转折",
+    "explain": "yet 作连词，意为“然而，但是”，强调后面的情况与前面所说的相反、出人意料，可以连接两个并列谓语、形容词或分句。本句 spent far less yet fared no worse：花得少，结果并不更差，视频把 yet 译为“结果”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hotel was small yet surprisingly comfortable.",
+      "zh": "这家酒店不大，却出奇地舒适。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fare",
+    "explain": "动词，进展，过得（怎么样），常与 well、badly、better、worse 连用，如 How did you fare in the exam?（你考得怎么样？）。名词 fare 意为“车费，票价”，是另一个常见义。"
+   },
+   {
+    "term": "critic",
+    "explain": "批评者，评论家；本句指认为千年虫开支过高的人。形容词 critical（批评的；关键的），名词 criticism（批评）。"
+   },
+   {
+    "term": "note",
+    "explain": "动词，指出，提到（note that…），也表示“注意到”。外刊中 note、point out、observe 常用来引出某方观点。"
+   }
+  ],
+  "translation_tip": "视频译文“批评者指出，意大利和韩国花得少得多，结果也不比别国差。”的处理：①Critics noted 译为“批评者指出”，宾语从句用逗号隔开，that 不译。②spent far less 译为“花得少得多”，用“动词 + 得 + 补语”的结构表达比较，比较对象未译出。③yet 译为“结果”，fared no worse 译为“也不比别国差”，增补比较对象“别国”，“也”体现与花钱多的国家相比的意思。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The comparison；those low figures；much of the remedial work",
+   "predicate": "misleads；omitted；replaced",
+   "object_or_complement": "misleads 不带宾语；what firms spent（omitted 的宾语从句）；obsolete systems（replaced 的宾语）",
+   "explain": "冒号前是简单句 The comparison misleads，主谓结构，mislead 在此不带宾语，意为“具有误导性”，一般现在时，表示作者对这种比较的评价。冒号后是 and 连接的两个并列分句，主干分别是 those low figures omitted what firms spent 和 much of the remedial work replaced obsolete systems，都是主谓宾结构，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The comparison",
+    "zh": "这种比较",
+    "role": "主语（指上句批评者所作的比较）"
+   },
+   {
+    "text": "misleads:",
+    "zh": "具有误导性",
+    "role": "谓语（mislead 不带宾语）；冒号引出原因"
+   },
+   {
+    "text": "those low figures",
+    "zh": "那些低支出数字",
+    "role": "冒号后第一个分句的主语"
+   },
+   {
+    "text": "often omitted",
+    "zh": "往往遗漏了",
+    "role": "谓语（often 作频度状语）"
+   },
+   {
+    "text": "what firms spent,",
+    "zh": "企业自己的花费",
+    "role": "宾语从句（what 在从句中作 spent 的宾语）"
+   },
+   {
+    "text": "and much of the remedial work",
+    "zh": "而且很大一部分补救工作",
+    "role": "并列连词 and + 第二个分句的主语"
+   },
+   {
+    "text": "replaced",
+    "zh": "替换了",
+    "role": "谓语"
+   },
+   {
+    "text": "obsolete systems",
+    "zh": "过时的/淘汰的系统",
+    "role": "宾语"
+   },
+   {
+    "text": "overdue for upgrading.",
+    "zh": "早该升级的",
+    "role": "后置定语（形容词短语），修饰 systems"
+   }
+  ],
+  "structure": "①冒号前 The comparison misleads：The comparison 指上句批评者把意大利、韩国与花钱多的国家所作的比较；mislead 通常是及物动词，这里不带宾语，意为“具有误导性”。\n②冒号后的第一个分句说明第一个原因：主语 those low figures 指意大利、韩国那些较低的支出数字；谓语 often omitted；what firms spent 是 what 引导的宾语从句（视频说明），what 在从句中作 spent 的宾语，相当于 the money that firms spent。\n③and 连接第二个分句，说明第二个原因：主语 much of the remedial work，much of 意为“……的很大一部分”；谓语 replaced；宾语 obsolete systems；overdue for upgrading 是形容词短语作后置定语，修饰 systems（视频说明），意为“早该升级的”。\n④两个原因的逻辑：一是低支出数字没把企业的花费算进去，比较的基数本身偏低；二是很大一部分补救工作其实是在更换早该升级的旧系统，这部分花费不完全是千年虫带来的额外开支。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "what 引导宾语从句",
+    "explain": "what 引导名词性从句时，本身在从句中充当成分（主语、宾语或表语），相当于 the thing(s) that，意为“……的东西/事情”。本句 what firms spent 中，what 作 spent 的宾语，相当于 the money that firms spent，视频译为“企业自己的花费”。与 that 的区别：that 引导宾语从句时不充当成分，从句结构完整；what 引导时，从句缺少一个成分。考研完形和翻译常考 what 与 that 的区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report failed to mention what the government had promised before the election.",
+      "zh": "报告没有提及政府在选举前做出的承诺。"
+     },
+     {
+      "en": "Investors want to know what the company plans to do with the extra cash.",
+      "zh": "投资者想知道公司打算如何使用这笔额外的现金。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "形容词带上自己的补足成分（介词短语、不定式等）构成形容词短语时，通常放在名词之后作后置定语，相当于一个省略了“which are”的定语从句。本句 obsolete systems overdue for upgrading 即 obsolete systems which were overdue for upgrading，overdue for upgrading 修饰 systems，意为“早该升级的”。类似的有 a room full of people、a decision likely to cause controversy。翻译时一般前置为“……的”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Workers eager to learn new skills will find plenty of opportunities in the industry.",
+      "zh": "渴望学习新技能的员工会在这个行业找到很多机会。"
+     },
+     {
+      "en": "Engineers have identified several bridges unsafe for heavy traffic.",
+      "zh": "工程师们已查出几座不适合重型车辆通行的桥梁。"
+     }
+    ]
+   },
+   {
+    "title": "much of + 不可数名词",
+    "explain": "much of 后接带限定词的不可数名词或单数名词，表示“……的很大一部分”，作主语时谓语用单数；可数名词复数用 many of。本句 much of the remedial work 意为“很大一部分补救工作”，work 在这里是不可数名词，指工作、劳动。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Much of the city's water supply comes from underground sources.",
+      "zh": "这座城市的大部分供水来自地下水源。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mislead",
+    "explain": "动词，误导，使产生错误印象，过去式和过去分词是 misled；be misled into doing sth（被误导去做某事）。形容词 misleading（误导性的）。本句 misleads 不带宾语，视频译为“具有误导性”。"
+   },
+   {
+    "term": "figure",
+    "explain": "熟词僻义：本句指“数字，数据”，不是“人物、身材”；low figures 指较低的统计数字，视频结合上下文译为“低支出数字”。"
+   },
+   {
+    "term": "remedial",
+    "explain": "形容词，补救的，纠正的，如 remedial work（补救工作）、remedial action（补救措施）；也指教学上的“补习的”，如 remedial classes（补习班）。名词 remedy。"
+   },
+   {
+    "term": "overdue for",
+    "explain": "早该……的（视频说明“早该升级的”）；overdue 本义是“过期的，逾期的”，如 an overdue library book（逾期未还的图书）、overdue bills（逾期未付的账单）。"
+   },
+   {
+    "term": "obsolete",
+    "explain": "过时的，淘汰的，指因有了更新的东西而不再使用，如 obsolete technology、obsolete equipment。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①The comparison misleads 前增补“但”，体现对上句批评的反驳；misleads 用“具有……性”的结构译为“具有误导性”。②those low figures 增补“支出”，译为“那些低支出数字”，明确是什么数字。③what 宾语从句 what firms spent 译为名词短语“企业自己的花费”，增补“自己”，强调由企业承担、未计入统计的部分。④and 译为“而且”，much of 译为“很大一部分”。⑤后置定语 overdue for upgrading 前置，与 obsolete 一起放在“系统”前，译为“早该升级的过时的/淘汰的系统”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Nobody",
+   "predicate": "can say",
+   "object_or_complement": "which dollars were essential and which excessive（两个并列的宾语从句）",
+   "explain": "主干是 Nobody can say + 两个由 which 引导的并列宾语从句，主谓宾结构。can say 是情态动词 + 动词原形，一般现在时；否定意义由主语 Nobody 表达。"
+  },
+  "components": [
+   {
+    "text": "Nobody",
+    "zh": "谁也",
+    "role": "主语（否定代词）"
+   },
+   {
+    "text": "can say",
+    "zh": "说不清",
+    "role": "谓语（情态动词 can + say）"
+   },
+   {
+    "text": "which dollars were essential",
+    "zh": "哪些钱是必不可少的",
+    "role": "宾语从句一（which 作限定词，修饰 dollars）"
+   },
+   {
+    "text": "and which excessive.",
+    "zh": "哪些是过度花费的",
+    "role": "宾语从句二（省略了 dollars were）"
+   }
+  ],
+  "structure": "①主语 Nobody 是否定代词，表示全部否定，意为“没有人”；谓语 can say，say 在这里表示“说清，断定”。\n②第一个宾语从句 which dollars were essential：which 作限定词，修饰 dollars，which dollars 在从句中作主语；were 是系动词，essential 作表语。dollars 用具体的“美元”代指钱，视频译为“钱”。\n③第二个宾语从句 and which excessive 是省略结构，省略了 dollars were（视频说明），补全是 which dollars were excessive。省去与前一个从句相同的部分，只留下不同的 which 和 excessive，两个从句对仗紧凑。\n④本句在上句反驳批评者之后，又不走向另一个极端：不能说钱全白花了，也无法断定每一笔都必要，哪些必要、哪些过度，已无法逐笔分清。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "which 引导宾语从句",
+    "explain": "which 可作疑问限定词，后接名词引导宾语从句，意为“哪一个/哪些……”，在从句中与名词一起充当成分。本句 which dollars 在从句中作主语。宾语从句要用陈述语序：which dollars were essential，而不是疑问语序。say、know、tell、decide 等动词后常接 wh- 宾语从句，Nobody can say 或 It is hard to say 表示无法确定。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Doctors still cannot tell which patients will respond to the treatment.",
+      "zh": "医生仍然无法判断哪些病人会对这种疗法有反应。"
+     },
+     {
+      "en": "It is too early to say which candidate will win the election.",
+      "zh": "现在说哪位候选人会赢得选举还为时过早。"
+     }
+    ]
+   },
+   {
+    "title": "并列结构中的省略",
+    "explain": "两个结构平行的分句或从句并列时，后一个常省略与前一个相同的成分，只保留不同的部分。本句 and which excessive 省略了 dollars were，只保留 which 和表语 excessive，与前一从句的 which、essential 形成对照。补全省略时，要找与它平行的前一个结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some of the students chose history, and others economics.",
+      "zh": "一些学生选了历史，另一些选了经济学。"
+     }
+    ]
+   },
+   {
+    "title": "否定代词作主语",
+    "explain": "nobody、nothing、none、no one、neither 等否定词作主语时，否定意义由主语表达，谓语用肯定形式：Nobody can say，不能写成 Nobody can't say。翻译时常把否定移到谓语上，视频译为“谁也说不清”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nobody knows exactly how many species live in the deep ocean.",
+      "zh": "没有人确切知道深海里生活着多少物种。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "essential",
+    "explain": "形容词，必不可少的，极其重要的，be essential to/for sth；It is essential that… 后的从句谓语常用（should）+ 动词原形。"
+   },
+   {
+    "term": "excessive",
+    "explain": "形容词，过度的，过多的，指超出了合理或必要的限度（视频说明），如 excessive spending（过度消费）、excessive speed（超速）、excessive pressure（过度压力）。名词 excess。"
+   },
+   {
+    "term": "dollars",
+    "explain": "本句用可数名词 dollars（美元）代指一笔笔开支，which dollars 即“哪些钱”，比说 which spending 更具体形象。"
+   }
+  ],
+  "translation_tip": "视频译文“谁也说不清哪些钱是必不可少的，哪些是过度花费的。”的处理：①Nobody can say 译为“谁也说不清”，否定由主语转到谓语“说不清”上，符合汉语习惯。②两个并列的宾语从句译成对仗的两个短句“哪些钱是……，哪些是……”，dollars 译为“钱”。③省略结构 which excessive 补出“是”，译为“哪些是过度花费的”，excessive 结合开支的语境增补“花费”。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "Prevention",
+   "predicate": "may leave",
+   "object_or_complement": "nothing but an invoice",
+   "explain": "主干是 Prevention may leave nothing but an invoice，主谓宾结构；may 是情态动词，表示可能。一般现在时，主动语态，陈述普遍道理。"
+  },
+  "components": [
+   {
+    "text": "Prevention",
+    "zh": "预防",
+    "role": "主语"
+   },
+   {
+    "text": "that works",
+    "zh": "奏效的",
+    "role": "限制性定语从句，修饰 Prevention（that 在从句中作主语）"
+   },
+   {
+    "text": "may leave",
+    "zh": "可能……留下",
+    "role": "谓语（情态动词 may + leave）"
+   },
+   {
+    "text": "nothing but",
+    "zh": "只会",
+    "role": "宾语 nothing + 介词 but（除了），nothing but 意为“只有”"
+   },
+   {
+    "text": "an invoice,",
+    "zh": "一张账单",
+    "role": "介词 but 的宾语，与 nothing but 一起构成 leave 的宾语"
+   },
+   {
+    "text": "to be weighed against a catastrophe",
+    "zh": "用来与一场……灾难相权衡",
+    "role": "后置定语（不定式被动式），补充说明 an invoice"
+   },
+   {
+    "text": "that might have been.",
+    "zh": "本可能发生的",
+    "role": "限制性定语从句，修饰 a catastrophe（that 在从句中作主语）"
+   }
+  ],
+  "structure": "①主语 Prevention 后紧跟 that works，是限制性定语从句（视频说明），修饰 Prevention，that 在从句中作主语；work 意为“奏效，起作用”。\n②谓语 may leave，宾语 nothing but an invoice：nothing but 意为“只有”（视频说明），but 是介词，意为“除了”，字面义是“除了一张账单，什么也不留下”。\n③逗号后的 to be weighed against a catastrophe 是不定式的被动式，补充说明 an invoice：这张账单要拿来与一场灾难相权衡；invoice 与 weigh 是被动关系，所以用 to be weighed。be weighed against A 意为“与 A 相权衡”（视频说明）。\n④句末 that might have been 是限制性定语从句，修饰 a catastrophe，that 作从句主语；be 在这里表示“存在，发生”，might have been 指过去本可能发生、实际没有发生的情况，视频译为“本可能发生的”。\n⑤全句收束全文：成功的预防留下的只有账单，判断值不值，要把这笔费用与不修系统可能造成的损失放在一起比较（视频说明）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "might have done：过去本可能发生而未发生",
+    "explain": "“情态动词 + have + 过去分词”用来谈论过去的情况；might have done、could have done 还可以表示过去本有可能发生、实际却没有发生的事，带虚拟意味。本句 a catastrophe that might have been 中，be 意为“存在，发生”，might have been 即“本可能发生的”，暗示灾难因预防而没有发生。考研阅读中常见 could have been avoided（本可以避免）、might have been worse（本可能更糟），要读出“实际没有发生”这层意思。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Without the warning system, the flood might have killed hundreds of people.",
+      "zh": "要不是有预警系统，这场洪水可能会造成数百人死亡。"
+     },
+     {
+      "en": "The accident could have been avoided if the brakes had been checked.",
+      "zh": "如果事先检查过刹车，这场事故本可以避免。"
+     }
+    ]
+   },
+   {
+    "title": "不定式被动式作后置定语",
+    "explain": "不定式与它修饰的名词存在被动关系时，用 to be done 形式。本句 an invoice, to be weighed against a catastrophe 中，账单是“被拿来权衡”的对象，所以用被动式；逗号把它与 invoice 隔开，作补充说明，视频译为“用来与……相权衡”。不定式作定语常带有“将要、有待”的意味，如 the problems to be solved（有待解决的问题）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "There are still several issues to be resolved before the agreement can be signed.",
+      "zh": "在协议签署之前，仍有几个问题有待解决。"
+     },
+     {
+      "en": "The committee produced a long list of recommendations, to be reviewed at its next meeting.",
+      "zh": "委员会提出了一长串建议，将在下次会议上审议。"
+     }
+    ]
+   },
+   {
+    "title": "nothing but 与 anything but",
+    "explain": "nothing but 意为“只有，仅仅”，相当于 only，but 是介词，意为“除了”。注意与 anything but 区分：anything but 意为“根本不，绝不”，如 The task was anything but easy（这项任务一点也不容易）。两者意思几乎相反，考研阅读常利用这一点设置干扰。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After the storm, nothing but the chimney was left standing.",
+      "zh": "暴风雨过后，只剩下烟囱还立着。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "weigh A against B",
+    "explain": "权衡 A 与 B，把两者放在一起比较得失，如 weigh the costs against the benefits（权衡成本与收益）；本句为被动式 be weighed against（视频说明“与 A 相权衡”）。"
+   },
+   {
+    "term": "invoice",
+    "explain": "名词，发票，账单，指卖方开给买方的付款凭证，如 issue an invoice、send an invoice。本句视频译为“账单”，指预防所花的费用。"
+   },
+   {
+    "term": "catastrophe",
+    "explain": "名词，灾难，大祸，语气比 disaster 更重，如 avert a catastrophe（避免灾难）；形容词 catastrophic（灾难性的）。"
+   },
+   {
+    "term": "prevention",
+    "explain": "预防，防止；谚语 Prevention is better than cure（预防胜于治疗）。动词 prevent，形容词 preventive 或 preventative。"
+   }
+  ],
+  "translation_tip": "视频译文“奏效的预防，可能只会留下一张账单，用来与一场本可能发生的灾难相权衡。”的处理：①主语 Prevention 带定语从句 that works，前置译为“奏效的预防”，用逗号断开。②may leave nothing but an invoice 译为“可能只会留下一张账单”，nothing but 的“只有”义译为“只会”，an 译为量词“一张”。③逗号后的不定式被动式 to be weighed against 译为“用来与……相权衡”，体现账单的用途，没有译成“被”字句。④定语从句 that might have been 前置，译为“本可能发生的灾难”，“本”字传达了 might have been 的虚拟意味，a 译为量词“一场”。"
+ }
+]

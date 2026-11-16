@@ -1,0 +1,1695 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "OK",
+   "predicate": "began",
+   "object_or_complement": "",
+   "explain": "主干是 OK began，主谓结构；begin 在此是不及物动词，as a newspaper gag 是介词短语作状语，说明 OK 起初以什么身份出现。谓语 began 是 begin 的过去式，一般过去时，主动语态，叙述 OK 起源这一过去的事实。"
+  },
+  "components": [
+   {
+    "text": "OK,",
+    "role": "主语",
+    "zh": "OK"
+   },
+   {
+    "text": "often said to be",
+    "role": "插入语（过去分词短语）的前半部分：often 修饰 said，said to be 相当于 which is said to be",
+    "zh": "常被说成是"
+   },
+   {
+    "text": "the planet's most frequently spoken word,",
+    "role": "不定式 to be 的表语；the planet's 是名词所有格，most frequently 修饰过去分词 spoken，一起作 word 的前置定语",
+    "zh": "全世界最常说出的词"
+   },
+   {
+    "text": "began as",
+    "role": "谓语 began + 介词 as（意为“作为，以……身份”）",
+    "zh": "起初只是"
+   },
+   {
+    "text": "a newspaper gag.",
+    "role": "介词 as 的宾语，as a newspaper gag 整体作状语；名词 newspaper 作 gag 的定语",
+    "zh": "报纸上的一个噱头"
+   }
+  ],
+  "structure": "①主句是 OK began as a newspaper gag：主语 OK，谓语 began，as a newspaper gag 说明它起初的身份。begin as 意为“起初是……”（视频说明），与 end up as（最终成为……）意思相对，暗示 OK 后来的地位与起点相差很大。\n②两个逗号之间的 often said to be the planet's most frequently spoken word 是过去分词短语作插入语，补充说明 OK（视频说明）。它相当于非限制性定语从句 which is often said to be…，省去了 which is；OK 与 say 是被动关系，所以用过去分词 said。插入语把主语 OK 和谓语 began 隔开，读的时候要越过两个逗号找到谓语。\n③插入语内部：said to be 后接表语 the planet's most frequently spoken word。中心词是 word，前面有三层修饰：the planet's 是名词所有格，表示范围；most frequently 是副词最高级，修饰过去分词 spoken；spoken 作前置定语，表示“被说出的”。\n④often said 意为“常有人说”，表明这是流行的说法，作者只是转述，并未断言 OK 就是全世界最常说的词；阅读时要区分作者本人的判断和转述的说法。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "sb/sth is said to be 结构",
+    "explain": "表示“据说……”有两种常见句型：It is said that + 从句，和 主语 + be said + 不定式。后者把从句的主语提到句首，谓语用被动的 be said，后接不定式。不定式的形式表示时间关系：to be、to do 表示与 said 同时或在其后，to have done 表示在其之前已经发生，如 He is said to have left the country。本句 often said to be… 是这一结构省去 be 后作插入语，相当于 which is often said to be…。同类动词还有 believe、report、think、consider、know 等，如 be believed to、be reported to。考研翻译常要求把它译成“据说、据报道、人们认为”，也可以像视频这样保留被动，译为“被说成是”；写作中可用它客观转述他人观点，避免武断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The castle is said to be the oldest building in the county.",
+      "zh": "据说这座城堡是该郡最古老的建筑。"
+     },
+     {
+      "en": "The painter is believed to have destroyed many of his early works.",
+      "zh": "人们认为这位画家毁掉了自己的许多早期作品。"
+     }
+    ]
+   },
+   {
+    "title": "副词最高级修饰分词作前置定语",
+    "explain": "副词可以修饰作定语的分词，构成“副词 + 分词 + 名词”的结构，如 a well-known writer、a widely read newspaper。副词的比较级、最高级也可以这样用：the most frequently spoken word 中，most frequently 修饰 spoken，spoken 修饰 word，意为“最常被说出的词”。most 修饰的是副词 frequently，不是名词 word，不能理解成“大多数词”。这类结构在新闻和学术文章中很常见，翻译时按“最常 + 说出的 + 词”的顺序前置即可。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Spanish is one of the most widely spoken languages in the Americas.",
+      "zh": "西班牙语是美洲使用最广泛的语言之一。"
+     }
+    ]
+   },
+   {
+    "title": "begin as：起初是……",
+    "explain": "begin 作不及物动词时，后接 as + 名词，表示事物最初的身份或形态，常与后来的变化形成对比，如 The company began as a small family workshop。同类结构有 start as、start out as、end up as。as 是介词，意为“作为”，后接名词或名词短语。本句 began as a newspaper gag 用“起初只是噱头”与插入语中“最常说出的词”形成反差，引出全文要讲的 OK 的来历。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "What began as a weekend hobby eventually became her full-time job.",
+      "zh": "起初只是周末爱好的事，最终成了她的全职工作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gag",
+    "explain": "名词，指笑话、噱头，尤指为逗人发笑而专门设计的笑料，如 a running gag（反复出现的笑料）。gag 还指塞在嘴里的东西，作动词意为“堵住……的嘴；（恶心得）作呕”；gag order 指法院发出的禁言令。本句 a newspaper gag 指报纸上的玩笑，视频译为“噱头”。"
+   },
+   {
+    "term": "the planet",
+    "explain": "the planet 在新闻和杂志文章中常代指地球、全世界，如 the planet's largest economies（全世界最大的经济体）。the planet's most frequently spoken word 即“全世界最常说出的词”，视频译为“全世界”。"
+   },
+   {
+    "term": "OK 的写法",
+    "explain": "OK 也写作 O.K. 或 okay。本文第5句的最早用例写作小写的 o.k.，后文竞选口号和杰克逊传闻中写作 O.K.，都是同一个词的不同写法。"
+   }
+  ],
+  "translation_tip": "视频译文“OK，常被说成是全世界最常说出的词，起初只是报纸上的一个噱头。”做了这几处处理：①插入语保留在原位，用两个逗号隔开，译作“常被说成是……”，保留了英文先点出 OK、再补充说明的节奏。②said 的被动意义译为“被说成是”，often 译为“常”。③the planet's 不直译为“这颗星球的”，而译成“全世界”，符合汉语习惯；most frequently spoken 按“最常 + 说出的”顺序前置修饰“词”。④began as 译为“起初只是”，增补“只是”，突出起点之低，与插入语中的“最常说出的词”形成对照；名词定语 newspaper 译成“报纸上的”，不定冠词 a 译成“一个”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "abbreviations；the craze",
+   "predicate": "were；turned",
+   "object_or_complement": "all the vogue（were 的表语）；comic（turned 的表语）",
+   "explain": "本句是 and 连接的并列句。第一个分句主干 abbreviations were all the vogue，主系表结构；第二个分句主干 the craze turned comic，turn 作系动词，形容词 comic 作表语。两个谓语都是一般过去时，叙述1838年以后的情况。"
+  },
+  "components": [
+   {
+    "text": "From 1838",
+    "role": "时间状语（介词短语，表示起点）",
+    "zh": "从1838年起"
+   },
+   {
+    "text": "abbreviations",
+    "role": "第一个分句的主语",
+    "zh": "缩写"
+   },
+   {
+    "text": "were all the vogue",
+    "role": "系表结构：系动词 were + 表语 all the vogue（习语 be all the vogue）",
+    "zh": "风靡"
+   },
+   {
+    "text": "in Boston's papers,",
+    "role": "地点状语（介词短语）",
+    "zh": "于波士顿各大报纸"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而且"
+   },
+   {
+    "text": "the craze",
+    "role": "第二个分句的主语，回指第一个分句所说的缩写热",
+    "zh": "这股狂热"
+   },
+   {
+    "text": "turned comic",
+    "role": "系表结构：系动词 turned + 形容词表语 comic",
+    "zh": "变得滑稽起来"
+   },
+   {
+    "text": "through deliberate misspellings:",
+    "role": "方式状语（介词短语），说明借助什么变得滑稽",
+    "zh": "通过故意的错误拼写"
+   },
+   {
+    "text": "O.W. for 'oll wright',",
+    "role": "同位语（举例说明 misspellings，O.W. for… 相当于 O.W. standing for…）",
+    "zh": "用 O.W. 代表 'oll wright'"
+   },
+   {
+    "text": "K.Y. for 'know yuse'.",
+    "role": "同位语（第二个例子，结构同上）",
+    "zh": "用 K.Y. 代表 'know yuse'"
+   }
+  ],
+  "structure": "①全句由 and 连接两个分句。第一个分句 abbreviations were all the vogue in Boston's papers：From 1838 是时间状语，in Boston's papers 是地点状语；be all the vogue 意为“风靡一时，非常流行”（视频说明）。\n②第二个分句 the craze turned comic through deliberate misspellings：the craze 回指第一个分句所说的缩写热，用“狂热”一词带出这股风气之盛；turned comic 是“turn + 形容词”，意为“变得……”；through 引出方式状语，意为“借助……”（视频说明）。\n③冒号后是两个例子：O.W. for 'oll wright' 和 K.Y. for 'know yuse'，都是省略结构，补全为 O.W. (standing) for 'oll wright'，具体说明 misspellings 是什么样子。'oll wright' 是故意拼错的 all right，'know yuse' 是故意拼错的 no use（视频说明）：先把短语故意拼错，再按错拼取首字母，所以 all right 缩写成 O.W. 而不是 A.R.，笑点正在这里。\n④从“缩写风靡”到“故意错拼再缩写”，本句交代了 OK 诞生前的报界风气，为第5、6句的 o.k.（oll korrect）做铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "from 与 since 引出时间起点时的时态区别",
+    "explain": "since + 过去时间点 表示“自……以来一直”，谓语通常用完成时，持续到现在或过去某个参照时间。from + 时间点 只说明起点，本身不要求完成时，常与一般过去时连用，叙述过去一段时期的情况，也常与 to、until 搭配，如 from 1838 to 1840。本句 From 1838 abbreviations were all the vogue 叙述1838年以后一段时间的风气，用一般过去时；如果改用 since，就要写成 had been。考研完形填空中，看到 since 先想到完成时，看到 from 则要依据上下文确定时态。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "From 1995 the town grew rapidly as new factories moved in.",
+      "zh": "从1995年起，随着新工厂的迁入，这座小镇迅速发展起来。"
+     },
+     {
+      "en": "She has worked at the hospital since 2010.",
+      "zh": "她从2010年起一直在这家医院工作。"
+     }
+    ]
+   },
+   {
+    "title": "turn 作系动词",
+    "explain": "turn 可作系动词，后接形容词作表语，表示性质、状态发生了变化，常用于颜色、天气、态度等方面，如 turn red、turn cold、turn hostile。turn 后接表示职业或身份的名词时，名词前通常不加冠词，如 turn professional（转为职业选手）、turn traitor（变节）。本句 the craze turned comic 意为“这股狂热变得滑稽起来”。become、grow、go、get 也可作这类系动词，turn 更强调出现了与先前不同的转变。考研写作中可以用 turn + 形容词替换反复出现的 become。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The debate turned bitter when the candidates began discussing taxes.",
+      "zh": "候选人一谈到税收，辩论就变得尖刻起来。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出举例与省略结构",
+    "explain": "冒号常用来引出对前文的解释、列举或举例。本句冒号前提到 deliberate misspellings，冒号后给出两个具体例子。例子采用省略写法：O.W. for 'oll wright' 省去了 standing，for 意为“代表”，与 stand for 中的 for 同义。这种简洁的列举在新闻和说明文中很常见，阅读时要把冒号后的内容与冒号前的名词对应起来。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report used two abbreviations throughout: GDP for gross domestic product and CPI for consumer price index.",
+      "zh": "这份报告通篇使用两个缩写：GDP 代表国内生产总值，CPI 代表消费者价格指数。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "be all the vogue",
+    "explain": "意为“风靡一时，非常流行”（视频说明），与 be all the rage 意思相近。vogue 指时尚、风气，常见搭配还有 be in vogue（正在流行）、come into vogue（开始流行）、go out of vogue（不再流行）、a vogue for sth（……之风）。本句视频译为“风靡”。"
+   },
+   {
+    "term": "craze",
+    "explain": "可数名词，指一时的狂热、热潮，多为短暂的流行，如 the latest craze、a craze for skateboarding。本句 the craze 回指缩写热，视频译为“这股狂热”。"
+   },
+   {
+    "term": "'oll wright' 与 'know yuse'",
+    "explain": "视频说明：'oll wright' 是故意拼错的 all right，'know yuse' 是故意拼错的 no use。缩写取的是错拼形式的首字母，所以 all right 成了 O.W.，no use 成了 K.Y.。"
+   },
+   {
+    "term": "papers",
+    "explain": "paper 作“报纸”讲时是可数名词，是 newspaper 的简称，复数 papers；作“纸”讲时不可数。Boston's papers 指当时波士顿的各家报纸，视频译为“波士顿各大报纸”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①From 1838 置于句首，译为“从1838年起”。②be all the vogue in Boston's papers 译为“风靡于波士顿各大报纸”，用“于”引出地点，比“在……中很流行”更紧凑；复数 papers 译为“各大报纸”。③and 译为“而且”，第二个分句增补“也”，表示风气在原有基础上又进了一步。④through deliberate misspellings 保留在句末，译为“通过故意的错误拼写”，没有提到动词前，保持了英文先说结果、再说手段的顺序，也让它紧贴冒号后的例子。⑤两个例子增补动词，译为“用 O.W. 代表 'oll wright'”，把省略的 standing for 译成“代表”；例子保留英文原貌，因为笑点就在拼写上。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The humour",
+   "predicate": "lay in",
+   "object_or_complement": "the persona of an uneducated bumpkin",
+   "explain": "主干是 The humour lay in the persona，lie in 意为“在于”，相当于一个及物的短语动词，the persona of an uneducated bumpkin 作其宾语。lay 是不及物动词 lie 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The humour",
+    "role": "主语",
+    "zh": "幽默"
+   },
+   {
+    "text": "lay in",
+    "role": "谓语（短语动词 lie in 的过去式）",
+    "zh": "在于"
+   },
+   {
+    "text": "the persona",
+    "role": "宾语（lie in 的宾语）",
+    "zh": "人物角色"
+   },
+   {
+    "text": "of an uneducated bumpkin.",
+    "role": "后置定语（of 短语），修饰 the persona，说明是什么样的人物角色",
+    "zh": "一个没受过教育的乡巴佬"
+   }
+  ],
+  "structure": "①本句是简单句，主干 The humour lay in the persona。lie in 意为“在于”（视频说明），说明幽默从何而来。\n②the persona of an uneducated bumpkin 是 of 结构（视频说明），of 后的名词短语说明 persona 的内容：这个人物角色就是一个没受过教育的乡巴佬。of 前后指同一对象，属于同位性质的 of 结构，类似 the city of Rome。\n③an uneducated bumpkin 中，形容词 uneducated 修饰 bumpkin；bumpkin 本身就含“土气、没见识”的意思，uneducated 进一步强调此人没受过教育，所以不会拼写。\n④本句解释上一句：故意拼错之所以好笑，是因为这些拼法模仿的是一个没受过教育的乡巴佬的口吻。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "lie 与 lay 的区分",
+    "explain": "lie（躺；位于；在于）是不及物动词，变化为 lie、lay、lain、lying；lay（放置；产卵）是及物动词，变化为 lay、laid、laid、laying。lie 表示“说谎”时是规则动词：lie、lied、lied、lying。本句 lay 是 lie 的过去式，构成 lay in，意为“在于”，不是及物动词 lay 的原形。lie in 常用来说明原因或关键所在，如 The problem lies in…、Its strength lies in…，考研阅读和写作中都很常见。看到 lay 时，要先看后面有没有宾语、全句是不是过去时，再判断它是哪个词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The real difficulty lay in persuading the villagers to leave their homes.",
+      "zh": "真正的难处在于说服村民离开家园。"
+     },
+     {
+      "en": "She laid the documents on the table and sat down.",
+      "zh": "她把文件放在桌上，坐了下来。"
+     }
+    ]
+   },
+   {
+    "title": "同位性质的 of 结构",
+    "explain": "“名词 A + of + 名词 B”中，B 有时不是 A 的所属者，而是说明 A 的具体内容，A 和 B 指同一事物，如 the city of Rome（罗马城）、the idea of moving abroad（出国的想法）。本句 the persona of an uneducated bumpkin 中，人物角色就是乡巴佬本身，视频说明称之为 of 结构，译为“……的人物角色”。翻译这种 of 结构时，常译成“B 这一 A”或“B（的）A”，不能理解为“属于 B 的 A”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He never gave up the dream of becoming a pilot.",
+      "zh": "他从未放弃成为飞行员的梦想。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "persona",
+    "explain": "指一个人在公众面前或作品中呈现的形象、人设，复数 personas 或 personae，如 a public persona（公众形象）、adopt a persona（采用某种人设）。本句指报纸文章中借用的说话人形象，视频译为“人物角色”。"
+   },
+   {
+    "term": "bumpkin",
+    "explain": "贬义，指土里土气、没见过世面的乡下人，最常见的说法是 a country bumpkin。视频译为“乡巴佬”。"
+   },
+   {
+    "term": "humour",
+    "explain": "英式拼写，美式拼写为 humor；a sense of humour（幽默感）是最常见的搭配。本文用的是英式拼写，第17句的 favoured 也是英式拼写（美式为 favored）。"
+   }
+  ],
+  "translation_tip": "视频译文“幽默在于一个没受过教育的乡巴佬人物角色。”的处理：①主谓结构按原文顺序译出，lay in 译为“在于”。②of 结构中的后置成分 of an uneducated bumpkin 前移，直接放在“人物角色”前作修饰，译成“乡巴佬人物角色”，体现两者指同一对象的同位关系。③不定冠词 an 译为“一个”，uneducated 译为“没受过教育的”。④定冠词 The 不译，“幽默”指上一句所说的拼写玩笑的笑点。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "a Boston Morning Post satire",
+   "predicate": "took a swipe at",
+   "object_or_complement": "a contemporary",
+   "explain": "主干是 a Boston Morning Post satire took a swipe at a contemporary，主谓宾结构；take a swipe at 是习语，相当于一个及物动词，意为“抨击”。谓语 took 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 23 March 1839",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1839年3月23日"
+   },
+   {
+    "text": "a Boston Morning Post satire",
+    "role": "主语（报纸名 Boston Morning Post 作定语，修饰 satire）",
+    "zh": "《波士顿晨邮报》的一篇讽刺文章"
+   },
+   {
+    "text": "took a swipe at",
+    "role": "谓语（习语 take a swipe at）",
+    "zh": "抨击了"
+   },
+   {
+    "text": "a contemporary,",
+    "role": "宾语",
+    "zh": "一个同时期的报纸"
+   },
+   {
+    "text": "the Providence Journal,",
+    "role": "同位语，补充说明 a contemporary",
+    "zh": "《普罗维登斯日报》"
+   },
+   {
+    "text": "over a mock society",
+    "role": "状语（介词短语，over 意为“就……，关于……”，说明抨击围绕的话题）",
+    "zh": "话题是一个恶搞的社团"
+   },
+   {
+    "text": "parodying",
+    "role": "后置定语（现在分词短语）中的分词，修饰 a mock society",
+    "zh": "它戏仿"
+   },
+   {
+    "text": "an ordinance",
+    "role": "parodying 的宾语",
+    "zh": "一项……法令"
+   },
+   {
+    "text": "against ringing dinner bells.",
+    "role": "后置定语（介词短语，against 后接动名词短语 ringing dinner bells），修饰 an ordinance",
+    "zh": "禁止敲开饭铃的"
+   }
+  ],
+  "structure": "①主句 a Boston Morning Post satire took a swipe at a contemporary：主语 satire 前有报纸名 Boston Morning Post 作定语，说明文章刊登在哪家报纸上；take a swipe at 意为“抨击”（视频说明）；宾语 a contemporary 指同时期的另一家报纸。\n②the Providence Journal 是同位语，补充说明 a contemporary（视频说明），点出被抨击的是哪家报纸。\n③over a mock society 是介词短语作状语，over 意为“就……，关于……”（视频说明），说明抨击是围绕什么展开的。\n④parodying an ordinance against ringing dinner bells 是现在分词短语作后置定语，修饰 society（视频说明），社团与 parody 是主动关系，相当于 which parodied…。分词短语内部，an ordinance 是 parodying 的宾语，against ringing dinner bells 作 ordinance 的后置定语，against 后接动名词短语 ringing dinner bells，表示法令所禁止的行为。\n⑤句子信息层层后置：讽刺文章抨击一家报纸，报纸后接同位语，抨击的话题是一个社团，社团带分词定语，法令再带介词短语定语。阅读时先抓主干，再顺着修饰关系往后理。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语可以放在名词之后作定语，表示被修饰的名词主动发出该动作，相当于一个定语从句，如 a man standing at the door = a man who is standing at the door。本句 a mock society parodying an ordinance… 中，社团是戏仿法令的一方，所以用现在分词，相当于 which parodied an ordinance…。要与现在分词作状语区分：作定语的分词短语紧跟在名词之后，说明这个名词；作状语的分词短语常用逗号与主句隔开，逻辑主语是句子的主语。本句 parodying 紧跟 society，逻辑主语是 society，不是 satire。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government has introduced a law banning smoking in restaurants.",
+      "zh": "政府出台了一项禁止在餐馆吸烟的法律。"
+     },
+     {
+      "en": "Researchers interviewed hundreds of families living near the airport.",
+      "zh": "研究人员走访了住在机场附近的数百个家庭。"
+     }
+    ]
+   },
+   {
+    "title": "介词 over 表示争论或批评的话题",
+    "explain": "over 除了表示方位（在……上方），还常用在 argue、quarrel、clash、criticize 等表示争执、批评的词之后，引出争执的焦点，意为“就……，因为……”，如 a dispute over land（土地纠纷）、resign over a scandal（因丑闻辞职）。本句 took a swipe at a contemporary over a mock society 中，over 引出抨击所针对的话题，视频译为“话题是……”。新闻报道和考研阅读中，over 的这一用法极为常见。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The two neighbours have been arguing over the boundary fence for years.",
+      "zh": "两家邻居为了分界的篱笆已经争吵了好几年。"
+     },
+     {
+      "en": "The minister resigned over his handling of the crisis.",
+      "zh": "这位部长因处理危机不当而辞职。"
+     }
+    ]
+   },
+   {
+    "title": "同位语",
+    "explain": "同位语是对前面名词作进一步说明的名词或名词短语，与前面的名词指同一对象，常用逗号隔开。本句 a contemporary 意思较泛，同位语 the Providence Journal 具体点明是哪一家报纸。英语新闻常先用一个泛称引出，再用同位语补出专名，阅读时要把两者对应起来，同位语不是句子中新增的宾语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The prize went to a newcomer, a 23-year-old nurse from Manchester.",
+      "zh": "奖项颁给了一位新人，一名来自曼彻斯特的23岁护士。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take a swipe at",
+    "explain": "习语，意为“抨击，挖苦”，多指言辞上的攻击，常带顺手一击的意味，如 take a swipe at the government。swipe 本义是挥击、猛击，也指刷卡（swipe a card）。视频译为“抨击了”。"
+   },
+   {
+    "term": "contemporary",
+    "explain": "作形容词意为“当代的；同时代的”，如 contemporary art（当代艺术）；作名词指同时代的人或物，如 Shakespeare's contemporaries（与莎士比亚同时代的人）。本句是名词用法，指与《波士顿晨邮报》同时期的另一家报纸，视频译为“一个同时期的报纸”。"
+   },
+   {
+    "term": "mock",
+    "explain": "作形容词意为“模拟的，假装的”，如 a mock exam（模拟考试）、a mock trial（模拟审判）；作动词意为“嘲笑，嘲弄”。本句 a mock society 指为开玩笑而虚构的社团，视频译为“恶搞的社团”。"
+   },
+   {
+    "term": "ordinance",
+    "explain": "正式用语，多指市镇等地方政府颁布的法令、条例，如 a city ordinance。本句 an ordinance against ringing dinner bells 指禁止敲开饭铃的法令，视频译为“法令”。"
+   },
+   {
+    "term": "Providence Journal",
+    "explain": "Providence（普罗维登斯）是美国罗得岛州的首府，Providence Journal 即《普罗维登斯日报》。英文报刊名在中文里加书名号。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①日期按汉语习惯写成“1839年3月23日”，置于句首。②主语中作定语的报纸名译成“《波士顿晨邮报》的”，不定冠词 a 译为量词“一篇”，satire 译为“讽刺文章”。③a contemporary 增补“报纸”，译为“一个同时期的报纸”，同位语“《普罗维登斯日报》”紧跟其后。④over a mock society 不译成介词结构，而是另起分句“话题是一个恶搞的社团”，避免把“关于……”塞进主句形成冗长的修饰。⑤现在分词短语 parodying… 拆成独立分句“它戏仿一项禁止敲开饭铃的法令”，用“它”回指社团；against ringing dinner bells 前置为“禁止敲开饭铃的”，修饰“法令”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "It",
+   "predicate": "carried",
+   "object_or_complement": "the first known 'o.k.'",
+   "explain": "主干是 It carried the first known 'o.k.'，主谓宾结构。It 指上一句的讽刺文章；carry 在此意为“（报刊）刊载”。谓语 carried 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "role": "主语（指上一句的 satire）",
+    "zh": "它"
+   },
+   {
+    "text": "carried",
+    "role": "谓语",
+    "zh": "刊载了"
+   },
+   {
+    "text": "the first known 'o.k.',",
+    "role": "宾语（序数词 first 和过去分词 known 共同作前置定语）",
+    "zh": "已知最早的“o.k.”"
+   },
+   {
+    "text": "glossed as 'all correct'.",
+    "role": "后置定语（过去分词短语），修饰 'o.k.'",
+    "zh": "被注释为“all correct”（完全正确）"
+   }
+  ],
+  "structure": "①主句 It carried the first known 'o.k.'：It 回指第4句的讽刺文章，carry 意为“刊载”。宾语中心词是引号里的 'o.k.'，first 和 known 都修饰它：known 是过去分词作定语，意为“已知的”，first known 即“已知最早的”，说明这是目前能找到的最早用例，作者并没有说不可能有更早的用法。\n②glossed as 'all correct' 是过去分词短语作后置定语，修饰 'o.k.'（视频说明），相当于 which was glossed as 'all correct'；o.k. 与 gloss 是被动关系，所以用过去分词。gloss A as B 意为“把 A 注释为 B”，即原文在 o.k. 旁边注明了它的意思。\n③本句交代全文的关键事实：已知最早的 o.k. 见于1839年3月23日《波士顿晨邮报》的这篇讽刺文章，当时注明的意思是 all correct。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词后作定语，表示被修饰的名词是动作的承受者，或动作已经完成，相当于一个被动的定语从句。本句 'o.k.', glossed as 'all correct' 中，o.k. 是“被注释”的对象，相当于 which was glossed as 'all correct'。与上一句的 parodying 对比：现在分词表示主动（社团戏仿法令），过去分词表示被动（缩写被注释）。考研翻译中，后置的过去分词短语可以前置译成“被……的”，也可以像视频这样拆成后续分句“被注释为……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum displays several letters written by the poet during the war.",
+      "zh": "博物馆展出了这位诗人在战争期间写的几封信。"
+     },
+     {
+      "en": "Most of the goods produced in the region are exported to Asia.",
+      "zh": "该地区生产的商品大多出口到亚洲。"
+     }
+    ]
+   },
+   {
+    "title": "the first known：已知最早的",
+    "explain": "the first known + 名词 意为“已知最早的……”，常见于历史、考古、科学类文章，如 the first known use、the earliest known example。known 是过去分词作定语，限定了 first 的范围：只是“目前已知的”最早，表达严谨。同类说法有 the oldest surviving manuscript（现存最古老的手稿）。考研阅读中，这类限定语常是判断选项是否绝对化的依据：原文说“已知最早”，选项写成“最早”就扩大了范围。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The cave contains the earliest known paintings of animals in the region.",
+      "zh": "这个洞穴里有该地区已知最早的动物壁画。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "carry",
+    "explain": "熟词僻义：carry 用于报刊、广播时，意为“刊登，播出”，如 The newspaper carried a full report of the trial。本句视频译为“刊载了”。"
+   },
+   {
+    "term": "gloss",
+    "explain": "名词指（页边或行间的）注释，动词 gloss 意为“注释，加注”，常用 gloss A as B（把 A 注释为 B）。gloss over 意为“掩饰，轻描淡写地带过”；表示“光泽”的 gloss 是另一个同形词，如 lip gloss（唇彩）。本句视频译为“被注释为”。"
+   },
+   {
+    "term": "o.k.",
+    "explain": "本句用小写字母加句点的 o.k.，这是已知最早用例的写法；后文竞选口号和杰克逊传闻中写作 O.K.。"
+   }
+  ],
+  "translation_tip": "视频译文“它刊载了已知最早的“o.k.”，被注释为“all correct”（完全正确）。”的处理：①It 直译为“它”，承接上句的讽刺文章。②the first known 译为“已知最早的”，first 在这里指时间上最早，不译作“第一个”。③后置的过去分词短语 glossed as 'all correct' 没有前置，而是拆成后续分句“被注释为……”，保留“被”字体现被动关系，也避免定语过长。④注释语 all correct 保留原文，用括号补出中文意思“完全正确”，方便观众把 o.k. 和 all correct 对应起来。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The letters",
+   "predicate": "stood for",
+   "object_or_complement": "a knowingly illiterate 'oll korrect'",
+   "explain": "主干是 The letters stood for 'oll korrect'，主谓宾结构，stand for 是及物的短语动词，意为“代表”。谓语 stood for 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The letters",
+    "role": "主语（指 o.k. 这两个字母）",
+    "zh": "这两个字母"
+   },
+   {
+    "text": "stood for",
+    "role": "谓语（短语动词 stand for 的过去式）",
+    "zh": "代表的是"
+   },
+   {
+    "text": "a knowingly illiterate",
+    "role": "前置定语（副词 knowingly 修饰形容词 illiterate，一起修饰 'oll korrect'）",
+    "zh": "有意写成文盲拼法的"
+   },
+   {
+    "text": "'oll korrect'.",
+    "role": "宾语中心词",
+    "zh": "'oll korrect'"
+   }
+  ],
+  "structure": "①主干 The letters stood for 'oll korrect'：The letters 指 o.k. 这两个字母，stand for 意为“代表”（视频说明），说明缩写对应的原词。\n②宾语前有两层修饰：形容词 illiterate 意为“文盲的”，这里形容拼法像文盲写的；副词 knowingly（有意地，明知地）修饰 illiterate，说明这种文盲式拼写是作者有意为之，与第2句的 deliberate misspellings 呼应。\n③'oll korrect' 是故意拼错的 all correct（视频说明）：all 拼成 oll，correct 拼成 korrect，取首字母正好是 o.k.。不定冠词 a 用在带引号的词语前，表示“一个……的写法”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "副词修饰形容词作定语",
+    "explain": "副词可以修饰形容词，二者一起作前置定语，构成“副词 + 形容词 + 名词”，如 a remarkably simple solution、a deeply moving film。副词通常说明形容词的程度，也可以说明方式或态度。本句 knowingly illiterate 中，knowingly 不表程度，而是说明 illiterate 这种状态是怎样形成的：明知正确拼法却故意写错。翻译时可以把副词转成动词，视频就把 knowingly 译为“有意写成”，再接“文盲拼法的”。考研翻译中常见这种词性转换。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It was a deliberately vague answer designed to avoid controversy.",
+      "zh": "这是一个故意含糊其辞的回答，为的是避免争议。"
+     }
+    ]
+   },
+   {
+    "title": "stand for 表示缩写代表的内容",
+    "explain": "stand for 意为“代表，是……的缩写”，主语是缩写或符号，宾语是完整说法，如 BBC stands for British Broadcasting Corporation；问缩写的意思可以说 What does UN stand for?。stand for 还可表示“主张，支持”，如 The party stands for lower taxes；用于否定句时表示“容忍”，如 I won't stand for such rudeness。表示“代表”时不用被动语态，也不用进行时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The letters NGO stand for non-governmental organization.",
+      "zh": "NGO 这几个字母代表非政府组织。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "illiterate",
+    "explain": "基本义是“文盲的，不识字的”；熟词僻义指文字“错误百出的，不合规范的”，如 an illiterate letter。本句用来形容拼法像文盲写出来的，视频译为“文盲拼法的”。反义词 literate，名词 illiteracy（文盲状态）。"
+   },
+   {
+    "term": "knowingly",
+    "explain": "意为“故意地，明知地”，如 knowingly break the law（明知故犯）；另一义是“会意地，心照不宣地”，如 smile knowingly。本句取前一义，视频译为“有意”。"
+   },
+   {
+    "term": "'oll korrect'",
+    "explain": "视频说明：故意拼错的 all correct。all 拼成 oll，correct 拼成 korrect，首字母正好是 o 和 k。"
+   }
+  ],
+  "translation_tip": "视频译文“这两个字母代表的是有意写成文盲拼法的'oll korrect'。”的处理：①The letters 增补数量，译为“这两个字母”，明确指 o.k.。②stood for 译为“代表的是”，加“的是”构成判断语气，突出后面的答案。③副词 knowingly 转译为动词“有意写成”，形容词 illiterate 增补“拼法”，译为“文盲拼法的”，把“故意写错”的意思说清楚。④'oll korrect' 保留原文拼写，因为笑点在拼写本身。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The presumed writer",
+   "predicate": "was",
+   "object_or_complement": "the editor（表语）",
+   "explain": "主干是 The presumed writer was the editor，主系表结构，Charles Gordon Greene 是表语 the editor 的同位语。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The presumed writer",
+    "role": "主语（过去分词 presumed 作前置定语）",
+    "zh": "推定的作者"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "the editor,",
+    "role": "表语",
+    "zh": "该报纸的编辑"
+   },
+   {
+    "text": "Charles Gordon Greene.",
+    "role": "同位语，补充说明 the editor",
+    "zh": "查尔斯·戈登·格林"
+   }
+  ],
+  "structure": "①主系表结构 The presumed writer was the editor。主语 writer 前有 presumed 作定语，意为“推定的”，表示作者身份是推断出来的，原文并没有署名可以确证；视频译为“推定的作者”。\n②the editor 指《波士顿晨邮报》的编辑，定冠词 the 表示上文提到的那家报纸的编辑。\n③Charles Gordon Greene 是同位语，补充说明 the editor（视频说明）。\n④本句承接第5、6句，交代最早的 o.k. 出自谁手，但用 presumed 保留了推测语气，讲解和理解时都不能把它说成确定无疑的事实。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词作前置定语表示推测",
+    "explain": "presumed、alleged、supposed、reputed 等过去分词作前置定语，表示“被认为是、据称是”，说话人不担保其为事实，如 the alleged killer（被指控的凶手）、the supposed cure（所谓的疗法）。本句 the presumed writer 就是“推定的作者”。这类词是新闻和学术文章措辞严谨的标志。考研阅读做细节题时，原文用 presumed、alleged 等词，选项若写成确定的事实就是错的。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The alleged thief was released after the police found no evidence.",
+      "zh": "警方没找到证据，这名被指为小偷的人获释了。"
+     },
+     {
+      "en": "The presumed cause of the fire was a faulty heater.",
+      "zh": "火灾的推定原因是一台出了故障的取暖器。"
+     }
+    ]
+   },
+   {
+    "title": "表语带同位语",
+    "explain": "同位语可以说明句中任何位置的名词，包括表语。本句 Charles Gordon Greene 说明表语 the editor，先给出职务，再给出姓名。英语中“职务 + 逗号 + 姓名”和“姓名 + 逗号 + 职务”两种顺序都很常见，译成汉语时一般合并为“职务 + 姓名”，中间不停顿。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The speaker was the head of the school, Margaret Hughes.",
+      "zh": "演讲人是校长玛格丽特·休斯。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "presumed",
+    "explain": "presume 意为“推定，假定”，常用被动结构 be presumed (to be) + 形容词，如 Everyone is presumed innocent until proven guilty（未经证明有罪，人人都被推定无罪）。presumed 作形容词意为“推定的”。本句视频译为“推定的”。"
+   },
+   {
+    "term": "editor",
+    "explain": "editor 指报刊的编辑，单说 the editor 常指一家报刊的主编；editor-in-chief 专指总编辑。editorial 作名词意为“社论”。本句的 the editor 指该报编辑，视频增补“该报纸的”。"
+   },
+   {
+    "term": "Charles Gordon Greene",
+    "explain": "查尔斯·戈登·格林，当时是《波士顿晨邮报》的编辑，本句说他被推定为写下最早的 o.k. 的人。"
+   }
+  ],
+  "translation_tip": "视频译文“推定的作者是该报纸的编辑查尔斯·戈登·格林。”的处理：①presumed 译为“推定的”，保留原文的推测语气。②the editor 增补“该报纸的”，点明是《波士顿晨邮报》的编辑，避免指代不清。③同位语 Charles Gordon Greene 与表语合并为“编辑查尔斯·戈登·格林”，去掉逗号，符合汉语“职务 + 姓名”的习惯；人名音译，姓与名之间加间隔号。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Partisan politics",
+   "predicate": "propagated",
+   "object_or_complement": "the letters",
+   "explain": "主干是 Partisan politics propagated the letters，主谓宾结构，nationwide 是副词作状语。谓语 propagated 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Partisan politics",
+    "role": "主语（形容词 partisan 修饰 politics）",
+    "zh": "党派政治"
+   },
+   {
+    "text": "propagated",
+    "role": "谓语",
+    "zh": "宣传了"
+   },
+   {
+    "text": "the letters",
+    "role": "宾语（指 O.K. 这两个字母）",
+    "zh": "这些字母"
+   },
+   {
+    "text": "nationwide.",
+    "role": "地点状语（副词，表示范围）",
+    "zh": "在全国"
+   }
+  ],
+  "structure": "①本句是简单句：Partisan politics 作主语，propagated 作谓语，the letters 作宾语，副词 nationwide 作状语，说明传播范围遍及全国。\n②主语是抽象名词 politics，却发出 propagate 这一具体动作，属于英语常见的无灵主语句，意思是“正是党派政治让这些字母传遍了全国”。\n③本句是第三段的主题句，总领下文。视频说明：当时正值美国大选，总统候选人范布伦的外号叫“老金德胡克（Old Kinderhook）”，缩写刚好是 O.K.；党派报纸疯狂传播这两个字母，就是搞政治营销，暗示“选他，就是完全正确（all correct）”。第9到11句具体展开这一过程。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "politics 作主语时谓语的单复数",
+    "explain": "politics 虽以 -s 结尾，表示“政治、政治活动、政治学”时通常看作单数，如 Politics is a dirty game；表示某人的“政治观点”时常看作复数，如 His politics are rather conservative。同类以 -s 结尾的学科名词 economics、physics、mathematics 作学科讲时也接单数谓语。本句谓语用过去式 propagated，看不出单复数，改成现在时则要写 Partisan politics propagates…。考研完形和写作的主谓一致常考这一点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Politics is often described as the art of the possible.",
+      "zh": "政治常被称为可能的艺术。"
+     },
+     {
+      "en": "Economics was her favourite subject at university.",
+      "zh": "经济学是她大学时最喜欢的科目。"
+     }
+    ]
+   },
+   {
+    "title": "无灵主语句",
+    "explain": "英语常用抽象名词、事物名词作主语，后接表示具体动作的动词，如 The news brought tears to her eyes、The 1990s saw rapid growth。汉语多用人作主语，或把这种主语转译成原因、时间状语。本句 Partisan politics propagated the letters 用抽象的“党派政治”作主语，视频直译为“党派政治在全国宣传了这些字母”，保留了原句的主谓关系。考研翻译遇到无灵主语时，可以直译，也可以转译为“由于……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The scandal cost the minister his job.",
+      "zh": "这起丑闻让这位部长丢了工作。"
+     }
+    ]
+   },
+   {
+    "title": "nationwide 兼作形容词和副词",
+    "explain": "-wide 是构词后缀，加在名词后表示“遍及……的，在整个……范围内”，构成的词大多既能作形容词，也能作副词：作形容词放在名词前，如 a nationwide survey（全国性调查）；作副词放在动词或宾语之后，如 spread nationwide。同类词有 worldwide、citywide、industry-wide。本句 nationwide 是副词，作状语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The film will be shown in cinemas nationwide from next Friday.",
+      "zh": "这部电影将于下周五起在全国各地影院上映。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "partisan",
+    "explain": "形容词意为“党派的；偏袒某一方的”，常带贬义，如 partisan politics（党派政治）、a partisan press（党派报刊）；bipartisan 意为“两党的”，如 bipartisan support（两党支持）。名词还可指游击队员。本句视频译为“党派”。"
+   },
+   {
+    "term": "propagate",
+    "explain": "意为“传播，宣传（思想、信息等）”，如 propagate ideas、propagate rumours；本义是“繁殖（植物）”，比喻义由此而来。本句视频译为“宣传了”。"
+   }
+  ],
+  "translation_tip": "视频译文“党派政治在全国宣传了这些字母。”的处理：①保留无灵主语结构，“党派政治”直接作主语，简洁有力。②句末的副词 nationwide 提到谓语前，译为“在全国”，符合汉语状语在动词前的习惯。③propagated 译为“宣传了”，突出政治宣传的意味，与视频说明中的“政治营销”一致。④the letters 译为“这些字母”，指 O.K. 这两个字母。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Martin Van Buren",
+   "predicate": "sought",
+   "object_or_complement": "re-election",
+   "explain": "主干是 Martin Van Buren sought re-election，主谓宾结构。sought 是 seek 的过去式，一般过去时，主动语态；the incumbent president 是主语的同位语。"
+  },
+  "components": [
+   {
+    "text": "In 1840",
+    "role": "时间状语（介词短语，年份前用 in）",
+    "zh": "1840年"
+   },
+   {
+    "text": "Martin Van Buren,",
+    "role": "主语",
+    "zh": "马丁·范布伦"
+   },
+   {
+    "text": "the incumbent president,",
+    "role": "同位语，补充说明 Martin Van Buren",
+    "zh": "在任总统"
+   },
+   {
+    "text": "sought",
+    "role": "谓语（seek 的过去式）",
+    "zh": "寻求"
+   },
+   {
+    "text": "re-election.",
+    "role": "宾语",
+    "zh": "连任"
+   }
+  ],
+  "structure": "①主干 Martin Van Buren sought re-election，In 1840 是时间状语。\n②the incumbent president 是同位语，补充说明 Martin Van Buren（视频说明），用两个逗号隔开，插在主语和谓语之间。\n③seek re-election 意为“寻求连任”，re-election 中前缀 re- 表示“再次”。本句交代大选的年份和范布伦现任总统的身份，与第8句的“党派政治”衔接，引出下文他的支持者如何利用 O.K. 拉票。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "同位语插在主语和谓语之间",
+    "explain": "同位语紧跟在被说明的名词之后，若这个名词是主语，同位语就会把主语和谓语隔开，用一对逗号标出，如 Mr Smith, our new manager, will arrive tomorrow。本句 Martin Van Buren, the incumbent president, sought re-election，去掉同位语后主干仍然完整，阅读时可以先跳过两个逗号之间的内容找到谓语。翻译时，这类说明身份的同位语通常前置，与人名合为一个名词短语，视频就译为“在任总统马丁·范布伦”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Dr Patel, the hospital's chief surgeon, performed the operation herself.",
+      "zh": "医院首席外科医生帕特尔医生亲自做了这台手术。"
+     }
+    ]
+   },
+   {
+    "title": "seek 的不规则变化及常见搭配",
+    "explain": "seek 是不规则动词，变化为 seek、sought、sought，不能写成 seeked。seek 比 look for 正式，常接抽象名词作宾语：seek re-election（寻求连任）、seek advice（征求意见）、seek asylum（寻求庇护）、seek compensation（要求赔偿）；seek to do sth 意为“试图做某事”，如 The bill seeks to protect consumers。考研阅读中 seek to do 很常见，常译作“力图，试图”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company sought legal advice before signing the contract.",
+      "zh": "这家公司在签合同前征求了法律意见。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "incumbent",
+    "explain": "形容词意为“在任的，现任的”，如 the incumbent president；名词指在职者、现任者，如 The incumbent won easily。it is incumbent on/upon sb to do sth 是正式表达，意为“某人有责任做某事”。本句视频译为“在任”。"
+   },
+   {
+    "term": "re-election",
+    "explain": "名词，意为“连任，再次当选”，常见 seek re-election、stand/run for re-election、win re-election。动词 re-elect，如 She was re-elected for a second term。本句视频译为“连任”。"
+   },
+   {
+    "term": "Martin Van Buren",
+    "explain": "马丁·范布伦，美国第八任总统，1837年至1841年在任，出生于纽约州的金德胡克（Kinderhook），绰号 Old Kinderhook 由此而来（见第10句）。"
+   }
+  ],
+  "translation_tip": "视频译文“1840年，在任总统马丁·范布伦寻求连任。”的处理：①同位语 the incumbent president 前置，与主语合为“在任总统马丁·范布伦”，去掉英文的两个逗号，句子更紧凑。②In 1840 置于句首，译为“1840年”，省去介词。③sought re-election 译为“寻求连任”：re-election 在大选语境中指现任者再次当选，所以译为“连任”，而不是“再次选举”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "His New York backers",
+   "predicate": "formed",
+   "object_or_complement": "the Democratic O.K. Club",
+   "explain": "主干是 His New York backers formed the Democratic O.K. Club，主谓宾结构。主语后插入现在分词短语 punning on…，句末又有现在分词短语 making… 作结果状语。谓语 formed 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His New York backers,",
+    "role": "主语（His 指范布伦，地名 New York 作定语）",
+    "zh": "他在纽约的拥护者"
+   },
+   {
+    "text": "punning on his nickname 'Old Kinderhook',",
+    "role": "状语（现在分词短语），逻辑主语是 backers，表示伴随的做法",
+    "zh": "拿他的绰号 'Old Kinderhook' 玩双关"
+   },
+   {
+    "text": "after his birthplace,",
+    "role": "后置定语（介词短语，相当于 named after his birthplace），修饰 his nickname 'Old Kinderhook'",
+    "zh": "这个绰号得名于他的出生地"
+   },
+   {
+    "text": "formed",
+    "role": "谓语",
+    "zh": "他们成立了"
+   },
+   {
+    "text": "the Democratic O.K. Club,",
+    "role": "宾语",
+    "zh": "民主党 O.K. 俱乐部"
+   },
+   {
+    "text": "making",
+    "role": "结果状语（现在分词短语）中的分词",
+    "zh": "让"
+   },
+   {
+    "text": "the letters",
+    "role": "making 的宾语",
+    "zh": "这两个字母"
+   },
+   {
+    "text": "a double-meaning slogan.",
+    "role": "宾语补足语（make A B 中的 B）",
+    "zh": "成了一句一语双关的口号"
+   }
+  ],
+  "structure": "①主干 His New York backers formed the Democratic O.K. Club：His 指范布伦，地名 New York 作定语，说明是纽约的支持者。\n②punning on his nickname 'Old Kinderhook' 是现在分词短语作状语（视频说明），逻辑主语是 backers，说明他们的做法：拿范布伦的绰号玩双关。pun on sth 意为“拿……玩双关”。\n③after his birthplace 补充说明绰号的来历，相当于 named after his birthplace，即以他的出生地金德胡克命名（视频说明）。\n④making the letters a double-meaning slogan 是现在分词短语作状语，表示结果（视频说明），逻辑主语仍是 backers，表示成立俱乐部带来的结果。make A B 意为“让 A 成为 B”（视频说明），the letters 是 making 的宾语，a double-meaning slogan 是宾语补足语。\n⑤双关的两层意思：O.K. 既是 Old Kinderhook 的首字母，指范布伦本人；又是 oll korrect 的缩写，意为“完全正确”。俱乐部名称里的 O.K. 因此一语双关。\n⑥主语和谓语之间隔着两个插入成分，阅读时要先找到 backers 的谓语 formed，再回头处理插入的内容。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语和结果状语",
+    "explain": "现在分词短语作状语时，逻辑主语一般是句子的主语，可以表示伴随、方式、原因、结果等。表结果的分词短语多放在句末，用逗号与主句隔开，表示主句动作自然带来的结果，常用的有 making、leaving、causing、bringing 等，如 The storm knocked down power lines, leaving thousands without electricity。本句前一个分词短语 punning on… 插在主语之后，说明拥护者的做法；句末的 making the letters a double-meaning slogan 说明成立俱乐部的结果。表示出乎意料的结果时，通常用不定式 only to do，而不用现在分词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell all night, flooding the lower part of the town.",
+      "zh": "大雨下了一整夜，淹没了镇子的低洼地段。"
+     },
+     {
+      "en": "The coach sat on the bench, watching the players warm up.",
+      "zh": "教练坐在长椅上，看着球员们热身。"
+     }
+    ]
+   },
+   {
+    "title": "make + 宾语 + 名词作宾语补足语",
+    "explain": "make 后接复合宾语时，宾语补足语可以是名词，表示“使……成为……”，如 The book made her a household name。宾补名词表示独一无二的职务、头衔时，前面常不加冠词，如 They made him captain。本句 making the letters a double-meaning slogan 中，the letters 是宾语，a double-meaning slogan 是宾补，二者是“字母成为口号”的关系。make 的宾补也可以是形容词（make it clear）或不带 to 的不定式（make sb laugh）；变成被动句时，不定式要补出 to，如 He was made to wait。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The discovery made him one of the most famous scientists of his day.",
+      "zh": "这一发现使他成为当时最著名的科学家之一。"
+     },
+     {
+      "en": "The committee made her chair of the new working group.",
+      "zh": "委员会任命她为新工作组的主席。"
+     }
+    ]
+   },
+   {
+    "title": "介词 after 表示“以……命名”",
+    "explain": "after 除表示时间“在……之后”，还可表示“依照，仿照”，最常见的是 name sb/sth after sb/sth（以……的名字命名，美式也说 name for），如 The street was named after a local poet。本句 after his birthplace 省去了 named，补全为 his nickname 'Old Kinderhook', named after his birthplace，说明绰号来自他的出生地。人物、地名介绍中常见这一用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new bridge was named after the engineer who designed it.",
+      "zh": "这座新桥以设计它的工程师的名字命名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pun on",
+    "explain": "pun 作名词指双关语，如 make a pun；作动词常接 on，意为“用……玩双关”，如 pun on a name。本句视频译为“拿……玩双关”。"
+   },
+   {
+    "term": "Old Kinderhook",
+    "explain": "范布伦的绰号。Kinderhook（金德胡克）是他的出生地，位于纽约州；O.K. 正是 Old Kinderhook 的首字母。"
+   },
+   {
+    "term": "the Democratic O.K. Club",
+    "explain": "范布伦是民主党（Democratic Party）人，他在纽约的支持者成立的这个俱乐部叫民主党 O.K. 俱乐部，名称里的 O.K. 一语双关。"
+   },
+   {
+    "term": "backer",
+    "explain": "指支持者、赞助者，常指提供资金或政治支持的人，如 financial backers；动词 back 意为“支持”，如 back a candidate。本句视频译为“拥护者”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①主语 His New York backers 中的地名定语译为“在纽约的”，前置为“他在纽约的拥护者”。②插在主语后的分词短语 punning on… 按原文顺序译出，紧跟主语，译为“拿他的绰号 'Old Kinderhook' 玩双关”；绰号保留英文，因为双关的关键在首字母。③after his birthplace 另起一个分句，增补“这个绰号得名于”，把省略的 named 补出来。④由于前面插入的内容较长，谓语前增补主语“他们”，译为“他们成立了民主党 O.K. 俱乐部”，理清主谓关系。⑤结果状语 making… 译为“让这两个字母成了一句一语双关的口号”，“让……成了……”对应 make A B，量词“一句”对应不定冠词 a。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "William Henry Harrison",
+   "predicate": "unseated",
+   "object_or_complement": "him",
+   "explain": "主干是 William Henry Harrison unseated him，主谓宾结构，unseat 意为“使（在职者）下台”。谓语 unseated 是一般过去时，主动语态。句末名词短语 234 electoral votes to 60 补充说明胜负的票数。"
+  },
+  "components": [
+   {
+    "text": "That November",
+    "role": "时间状语（名词短语直接作状语，不加介词）",
+    "zh": "那年11月"
+   },
+   {
+    "text": "William Henry Harrison",
+    "role": "主语",
+    "zh": "威廉·亨利·哈里森"
+   },
+   {
+    "text": "unseated",
+    "role": "谓语",
+    "zh": "把……赶下台"
+   },
+   {
+    "text": "him,",
+    "role": "宾语（指时任总统范布伦）",
+    "zh": "他"
+   },
+   {
+    "text": "234 electoral votes to 60.",
+    "role": "补充说明成分（名词短语，说明选举人票的比分，相当于 by 234 electoral votes to 60）",
+    "zh": "选举人票为234张对60张"
+   }
+  ],
+  "structure": "①主干 William Henry Harrison unseated him，That November 是名词短语直接作时间状语，指1840年11月。\n②him 指时任总统范布伦（视频说明）。unseat 字面义是“使离开座位”，在政治语境中指把在职者赶下台。\n③句末 234 electoral votes to 60 是名词短语，补充说明胜负的票数，相当于 by 234 electoral votes to 60，意为“选举人票234张对60张”（视频说明）。数字 60 后省略了 electoral votes，避免重复。\n④视频说明：1840年总统大选，哈里森拿到234张选举人票，范布伦只有60张，哈里森因此获胜，范布伦没能连任。可见 O.K. 口号虽然流行，却没能帮范布伦赢得选举。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "that、this、last、next 加时间名词直接作状语",
+    "explain": "时间名词前有 that、this、last、next、every 等词修饰时，不加介词，直接作时间状语，如 that November、this morning、next week；单独的月份前则要用 in，如 in November。本句 That November 指上一句所说的1840年的11月，that 起回指作用，视频译为“那年11月”。写作中常见的错误是写成 in that November、in last year。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "That winter the river froze for the first time in decades.",
+      "zh": "那年冬天，这条河几十年来第一次封冻。"
+     }
+    ]
+   },
+   {
+    "title": "票数、比分的表达：A to B",
+    "explain": "英语用“数字 + to + 数字”表示比分、票数、比例，to 意为“对”，如 win by three goals to one、The motion passed by 300 votes to 250。这样的名词短语可以直接附在句末，补充说明胜负的悬殊；第二个数字后通常省略重复的名词，本句 234 electoral votes to 60 就省略了 60 后的 electoral votes。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The committee rejected the proposal by nine votes to four.",
+      "zh": "委员会以九票对四票否决了这项提案。"
+     }
+    ]
+   },
+   {
+    "title": "前缀 un- 加名词构成动词，表示“去除，使脱离”",
+    "explain": "un- 加在形容词前表示否定，如 unhappy、uneducated；加在动词前表示相反的动作，如 unlock（开锁）、unpack（打开行李）；加在名词前构成动词时，常表示“去掉，使脱离”，如 unmask（揭下面具，揭露）。unseat 由 un- + seat（座位）构成，字面义是“使离开座位”，引申为“使（在职者）下台，使落选”，也指“把（骑手）从马背上摔下”。本句 unseated him 指哈里森在选举中击败在任的范布伦。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The opposition party hopes to unseat the mayor at the next election.",
+      "zh": "反对党希望在下次选举中把市长赶下台。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "electoral vote",
+    "explain": "选举人票。美国总统不是由选民直接选出，而是由各州选出的选举人投票选出，选举人所投的票即 electoral votes；选民直接投出的票叫 popular vote（普选票）。本句视频译为“选举人票”。"
+   },
+   {
+    "term": "William Henry Harrison",
+    "explain": "威廉·亨利·哈里森，辉格党（Whig Party）候选人，在1840年大选中击败范布伦，成为美国第九任总统。"
+   }
+  ],
+  "translation_tip": "视频译文“那年11月，威廉·亨利·哈里森把他赶下台，选举人票为234张对60张。”的处理：①That November 增补“那年”，译为“那年11月”，表明是上文所说的1840年。②unseated him 用“把”字句译为“把他赶下台”，突出在任者被击败。③句末名词短语译成独立分句“选举人票为234张对60张”，增补“为”和量词“张”，并补出 60 后省略的内容，使两个数字对称。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "the New York Morning Herald",
+   "predicate": "printed",
+   "object_or_complement": "a fabricated smear",
+   "explain": "主干是 the New York Morning Herald printed a fabricated smear，主谓宾结构，谓语 printed 是一般过去时，主动语态。冒号后是一个完整的分句，说明抹黑的内容，其谓语 had marked 是过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 30 March 1840",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1840年3月30日"
+   },
+   {
+    "text": "the New York Morning Herald",
+    "role": "主语",
+    "zh": "《纽约先驱晨报》"
+   },
+   {
+    "text": "printed",
+    "role": "谓语",
+    "zh": "刊登了"
+   },
+   {
+    "text": "a fabricated smear:",
+    "role": "宾语（过去分词 fabricated 作前置定语）",
+    "zh": "一则捏造的抹黑"
+   },
+   {
+    "text": "the former president Andrew Jackson,",
+    "role": "冒号后分句的主语（the former president 与 Andrew Jackson 构成紧密同位关系）",
+    "zh": "前总统安德鲁·杰克逊"
+   },
+   {
+    "text": "a supposedly inept speller,",
+    "role": "同位语，补充说明 Andrew Jackson",
+    "zh": "一个据称拼写笨拙的人"
+   },
+   {
+    "text": "had marked",
+    "role": "冒号后分句的谓语（过去完成时）",
+    "zh": "曾……标注"
+   },
+   {
+    "text": "paperwork",
+    "role": "宾语（mark A B 中的 A）",
+    "zh": "在公文上"
+   },
+   {
+    "text": "O.K.,",
+    "role": "宾语补足语（mark A B 中的 B）",
+    "zh": "O.K."
+   },
+   {
+    "text": "for 'Ole Kurrek'.",
+    "role": "状语（介词短语，for 意为“代表”，说明 O.K. 代表什么）",
+    "zh": "用以代表“Ole Kurrek”"
+   }
+  ],
+  "structure": "①冒号前是主句 the New York Morning Herald printed a fabricated smear，On 30 March 1840 作时间状语。fabricated 意为“捏造的”，作者一开始就把这则报道定性为编造的抹黑。\n②冒号后的分句说明抹黑的具体内容，与 a fabricated smear 是解释说明关系。分句主语 the former president Andrew Jackson 中，the former president 与人名构成紧密同位关系，中间不加逗号。\n③a supposedly inept speller 是同位语，补充说明 Andrew Jackson（视频说明）。supposedly 意为“据称”，表示“拼写笨拙”只是一种说法，为下一句的澄清埋下伏笔。\n④谓语 had marked 用过去完成时，表示所报道的批注行为发生在报纸刊登之前。mark A B 意为“在 A 上标注 B”（视频说明），paperwork 是宾语，O.K. 是宾语补足语。\n⑤for 'Ole Kurrek' 说明 O.K. 代表什么，'Ole Kurrek' 是故意拼错的 all correct（视频说明）。抹黑的意思是：杰克逊连 all correct 都拼不对，才写出了 O.K.。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时用于转述此前发生的事",
+    "explain": "叙述过去某个时间之前已经发生的事，用过去完成时 had done。转述报道、传闻的内容时，所述事件如果发生在报道之前，常用过去完成时，即使前面没有 said 一类的动词。本句报纸刊登抹黑是在1840年3月30日，抹黑所说的杰克逊批注公文发生在此之前，所以用 had marked。考研阅读中，过去完成时常是理清事件先后的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The newspaper printed a startling claim: the mayor had accepted bribes from a builder.",
+      "zh": "这家报纸刊登了一则惊人的说法：市长曾收受一名建筑商的贿赂。"
+     },
+     {
+      "en": "By the time the ambulance arrived, the injured man had already lost a lot of blood.",
+      "zh": "救护车赶到时，伤者已经失血很多。"
+     }
+    ]
+   },
+   {
+    "title": "mark + 宾语 + 宾语补足语",
+    "explain": "mark 可以接复合宾语，即 mark sth + 名词或形容词，意为“在某物上标注……”，宾补通常就是写上去的字样，如 mark a letter urgent（在信上标注“急件”）。本句 had marked paperwork O.K. 中，paperwork 是宾语，O.K. 是宾补（视频说明：mark A B，在 A 上标注 B）。label、stamp 也可用于这一结构，如 stamp a document approved。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Please mark the envelope confidential before you post it.",
+      "zh": "寄出前请在信封上标注“机密”。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释说明的分句",
+    "explain": "冒号后可以接一个完整的分句，具体说明冒号前的名词或概括性内容。本句冒号前是笼统的 a fabricated smear，冒号后是抹黑的具体内容：前面是概括，后面是展开。阅读时要把冒号前后的内容对应起来；翻译时冒号通常可以保留。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report reached a simple conclusion: the bridge was no longer safe.",
+      "zh": "报告得出了一个简单的结论：这座桥已经不安全了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fabricated smear",
+    "explain": "fabricate 意为“捏造，编造”，如 fabricate evidence（伪造证据），本义是“制造，装配”。smear 作名词意为“诽谤，抹黑”，如 a smear campaign（抹黑运动）；作动词意为“涂抹；诋毁”。视频分别译为“捏造的”和“抹黑”。"
+   },
+   {
+    "term": "Andrew Jackson",
+    "explain": "安德鲁·杰克逊，美国第七任总统，1829年至1837年在任；范布伦曾任他的副总统，并在他之后接任总统。"
+   },
+   {
+    "term": "supposedly inept speller",
+    "explain": "supposedly 意为“据称，据说”，表示说话人不担保其真实；inept 意为“笨拙的，无能的”；speller 指拼写的人，a poor speller 即拼写差的人。视频译为“一个据称拼写笨拙的人”。"
+   },
+   {
+    "term": "'Ole Kurrek'",
+    "explain": "视频说明：故意拼错的 all correct。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①日期置于句首，报刊名加书名号。②a fabricated smear 译为“一则捏造的抹黑”，量词“一则”适合新闻、传闻。③冒号保留，冒号后的分句按原顺序译出：主语“前总统安德鲁·杰克逊”，同位语用逗号隔开，译为“一个据称拼写笨拙的人”，保留了英文插入说明的节奏。④inept speller 中的名词 speller 转译为“拼写笨拙的人”。⑤过去完成时 had marked 用“曾”体现，mark A B 译为“在 A 上标注 B”，即“曾在公文上标注 O.K.”。⑥for 'Ole Kurrek' 增补“用以代表”，把 for 的含义说清楚。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Jackson",
+   "predicate": "spelled；never marked",
+   "object_or_complement": "documents（marked 的宾语）；O.K.（宾语补足语）",
+   "explain": "本句是一个主语带两个并列谓语：Jackson spelled reasonably well（主谓，spell 在此为不及物动词，reasonably well 作状语）和 never marked documents O.K.（主谓宾加宾补）。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Jackson",
+    "role": "主语",
+    "zh": "杰克逊"
+   },
+   {
+    "text": "spelled",
+    "role": "谓语一",
+    "zh": "拼写得"
+   },
+   {
+    "text": "reasonably",
+    "role": "程度状语（副词，修饰 well）",
+    "zh": "还算/尚且"
+   },
+   {
+    "text": "well",
+    "role": "方式状语（副词，修饰 spelled）",
+    "zh": "不错"
+   },
+   {
+    "text": "and never",
+    "role": "并列连词 and + 否定副词 never",
+    "zh": "并且从没"
+   },
+   {
+    "text": "marked",
+    "role": "谓语二",
+    "zh": "批注过"
+   },
+   {
+    "text": "documents",
+    "role": "宾语（mark A B 中的 A）",
+    "zh": "在文件上"
+   },
+   {
+    "text": "O.K.",
+    "role": "宾语补足语（mark A B 中的 B）",
+    "zh": "O.K."
+   }
+  ],
+  "structure": "①本句是一个主语带两个并列谓语的简单句，用来驳斥上一句的抹黑。\n②第一个谓语 spelled reasonably well：spell 作不及物动词，意为“拼写”；well 是方式副词，修饰 spelled；reasonably 是程度副词，修饰 well，意为“还算，相当”。这一部分反驳 a supposedly inept speller。\n③第二个谓语 never marked documents O.K.：与上一句同样是 mark A B 结构，documents 是宾语，O.K. 是宾补；never 否定这一动作，反驳 had marked paperwork O.K.。\n④本句用陈述事实的语气，与上一句的 fabricated、supposedly 呼应，说明那则报道纯属捏造。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "程度副词修饰副词",
+    "explain": "副词可以修饰另一个副词，表示程度，常见的有 very、quite、rather、fairly、reasonably、remarkably 等，如 very carefully、fairly quickly。本句 reasonably well 中，reasonably 修饰 well，意为“还算好，相当不错”，语气比 very well 温和，表示达到了说得过去的水平。reasonably 也可修饰形容词，如 reasonably priced（价格公道的）。考研阅读中，reasonably、fairly 这类词表示程度有限，选项如果改成 extremely、perfectly，就夸大了原文。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new system works reasonably well, although it is still rather slow.",
+      "zh": "新系统运行得还算不错，只是仍然有些慢。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语中的否定",
+    "explain": "and 连接两个谓语时，否定词只否定它所在的那个谓语。本句 never 只否定 marked documents O.K.，不否定 spelled reasonably well。never 放在实义动词之前、助动词之后；本句是一般过去时，没有助动词，所以直接放在 marked 前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She studied hard and never missed a class.",
+      "zh": "她学习刻苦，从没缺过一节课。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "spell 的过去式",
+    "explain": "spell 的过去式和过去分词有 spelled 和 spelt 两种形式，美式英语多用 spelled，英式英语两种都用。本句用 spelled。"
+   },
+   {
+    "term": "spell 作不及物动词",
+    "explain": "spell 可作及物动词，如 spell a word；也可作不及物动词，表示拼写能力，如 He can't spell。本句 Jackson spelled reasonably well 即“杰克逊拼写得还算不错”。"
+   },
+   {
+    "term": "documents 与 paperwork",
+    "explain": "上一句说 paperwork，本句换成 documents，是同义替换，避免重复；视频分别译为“公文”和“文件”。"
+   }
+  ],
+  "translation_tip": "视频译文“杰克逊拼写得还算/尚且不错，并且从没在文件上批注过 O.K.。”的处理：①spelled reasonably well 译为“拼写得还算/尚且不错”，用“得”字补语对应方式副词 well；视频给出“还算/尚且”两种措辞，都表示程度适中、说得过去。②and never 译为“并且从没”。③marked documents O.K. 按 mark A B 的结构译为“在文件上批注过 O.K.”：宾语 documents 转成介词短语“在文件上”放到动词前，“过”字体现 never 所否定的经历。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "people",
+   "predicate": "did so",
+   "object_or_complement": "",
+   "explain": "主干是 people did so，do so 是代动词结构，替代上文的 marked documents O.K.，避免重复。谓语 did 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Within about twenty years,",
+    "role": "时间状语（介词短语，within 意为“在……之内”）",
+    "zh": "在大约二十年内"
+   },
+   {
+    "text": "people",
+    "role": "主语",
+    "zh": "人们"
+   },
+   {
+    "text": "did so",
+    "role": "谓语（代动词 do so，替代 marked documents O.K.）",
+    "zh": "这样做了"
+   },
+   {
+    "text": "in earnest.",
+    "role": "方式状语（介词短语）",
+    "zh": "认真地"
+   }
+  ],
+  "structure": "①主干 people did so，Within about twenty years 是时间状语，in earnest 是方式状语。\n②do so 意为“这样做”，指在文件上批 O.K.（视频说明），替代上一句的 marked documents O.K.。英语常用 do so 避免重复前文的谓语部分。\n③Within about twenty years 指杰克逊传闻（1840年）之后的大约二十年内；about 修饰数词 twenty，表示约数。\n④in earnest 意为“认真地，当真地”，与上文的捏造形成对比：传闻里的做法是假的，后来人们却真的在文件上这样批注了。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "代动词 do so",
+    "explain": "do so 用来替代前文出现过的“动词 + 宾语或补足语”，避免重复，如 He promised to call, and he did so the next day。本句 did so 替代 marked documents O.K.。do so 一般替代表示动作的谓语，不用来替代 be、know、like 等表示状态的动词。考研阅读的指代题常考 do so、do it、the same 所指的内容，答案要回到前文找出完整的动作。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister was asked to apologize, but he refused to do so.",
+      "zh": "有人要求这位部长道歉，但他拒绝这样做。"
+     },
+     {
+      "en": "Few students chose to study abroad, though many could afford to do so.",
+      "zh": "很少有学生选择出国留学，尽管许多人负担得起。"
+     }
+    ]
+   },
+   {
+    "title": "within + 时间段",
+    "explain": "within + 时间段 意为“在……之内”，强调不超过这一期限，如 within a week、within ten minutes of the announcement。与 in + 时间段 不同：in 用在将来时的句子里多表示“……之后”，如 I'll be back in an hour（一小时后回来）；within 强调期限之内的任何时间。本句 Within about twenty years 表示在大约二十年之内，人们就真的这样批注了。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the tickets were sold within two hours.",
+      "zh": "大部分门票在两小时内就卖完了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in earnest",
+    "explain": "介词短语，作状语意为“认真地，当真地”，也可表示“正式地，大规模地”，如 Work on the project began in earnest in May（项目五月才全面展开）；be in earnest 意为“是认真的，不是开玩笑”。本句视频译为“认真地”。"
+   },
+   {
+    "term": "about",
+    "explain": "about 放在数词前表示“大约”，相当于 around、roughly、approximately，如 about twenty years。"
+   }
+  ],
+  "translation_tip": "视频译文“在大约二十年内，人们就认真地这样做了。”的处理：①时间状语置于句首，about 译为“大约”，放在数词前。②增补“就”，强调时间不长，与下一句的“过早”相呼应。③方式状语 in earnest 译为“认真地”，放在动词前。④did so 译为“这样做了”，所指内容由上文承接，不必重复“在文件上批注 O.K.”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The bogus notation",
+   "predicate": "was",
+   "object_or_complement": "premature（表语）",
+   "explain": "主干是 The bogus notation was premature，主系表结构，merely 是副词作状语。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The bogus notation",
+    "role": "主语（形容词 bogus 作前置定语）",
+    "zh": "这个伪造的批注"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 merely premature 合译为“不过是出现过早而已”）"
+   },
+   {
+    "text": "merely",
+    "role": "状语（副词，意为“只不过”，修饰表语 premature）",
+    "zh": "不过是……而已"
+   },
+   {
+    "text": "premature.",
+    "role": "表语",
+    "zh": "出现过早"
+   }
+  ],
+  "structure": "①主系表结构 The bogus notation was premature，merely 修饰表语 premature，意为“只不过，仅仅”。\n②The bogus notation 回指第12句报道中杰克逊批注 O.K. 一事：bogus 意为“伪造的”，与 fabricated 呼应；notation 意为“批注”，回指 had marked paperwork O.K. 这一做法。\n③premature 意为“过早的”。全句的意思是：那个伪造的批注本身并不离谱，只是出现得太早，大约二十年后人们真的这样批注了。这是作者对前两句事实的诙谐评论。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "merely 表示“只不过”",
+    "explain": "merely 是副词，意为“只是，仅仅”，比 only 正式，强调事情没有更多含义，常放在被修饰的成分之前，如 It was merely a suggestion。not merely… but also… 相当于 not only… but also…。本句 was merely premature 表示伪造的批注只不过是出现得早了，带有调侃意味。翻译 merely 常用“不过……而已”“只是……罢了”，视频译为“不过是……而已”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The delay was merely a technical problem and was fixed within an hour.",
+      "zh": "这次延误只是一个技术问题，一小时内就解决了。"
+     }
+    ]
+   },
+   {
+    "title": "用不同词语回指前文",
+    "explain": "英语文章常用意思相近的不同词语回指前文，避免重复。本句 The bogus notation 回指第12句所说的杰克逊批注 O.K.：bogus 对应 fabricated，notation 对应 had marked paperwork O.K.。考研阅读的指代题和句子衔接题常考这种回指，要能看出不同的词语说的是同一件事。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company denied the rumour, but the false story had already spread online.",
+      "zh": "公司否认了这一传言，但这则不实消息已在网上传开。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "bogus",
+    "explain": "形容词，意为“假的，伪造的”，含贬义，如 a bogus claim（虚假的说法）、a bogus doctor（冒牌医生）。本句视频译为“伪造的”。"
+   },
+   {
+    "term": "notation",
+    "explain": "常指一套符号体系，如 musical notation（记谱法）、scientific notation（科学记数法）；也可指书面的记录、批注，如 a notation in the margin（页边的批注）。本句取后一义，视频译为“批注”。"
+   },
+   {
+    "term": "premature",
+    "explain": "意为“过早的，提前的”，如 a premature birth（早产）、a premature decision（仓促的决定）。本句视频译为“过早”。"
+   }
+  ],
+  "translation_tip": "视频译文“这个伪造的批注，不过是出现过早而已。”的处理：①定冠词 The 译为“这个”，回指上文杰克逊的传闻。②主语后加逗号停顿，突出话题。③merely 译为“不过是……而已”，把调侃的语气译出来。④形容词表语 premature 增补动词“出现”，译为“出现过早”，使意思完整，系动词 was 不单独译出。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Rival stories",
+   "predicate": "offered",
+   "object_or_complement": "exotic pedigrees",
+   "explain": "主干是 Rival stories offered exotic pedigrees，主谓宾结构。冒号后的两个名词短语举例说明 pedigrees。谓语 offered 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Rival stories",
+    "role": "主语（rival 作前置定语）",
+    "zh": "与之竞争的说法"
+   },
+   {
+    "text": "offered",
+    "role": "谓语",
+    "zh": "给出了"
+   },
+   {
+    "text": "exotic pedigrees:",
+    "role": "宾语（形容词 exotic 作前置定语）",
+    "zh": "种种异域的来历"
+   },
+   {
+    "text": "Choctaw 'okeh'",
+    "role": "同位语（举例说明 pedigrees，Choctaw 作定语）",
+    "zh": "比如乔克托语的 'okeh'"
+   },
+   {
+    "text": "and Greek 'ola kala'.",
+    "role": "并列连词 and + 同位语（第二个例子，Greek 作定语）",
+    "zh": "和希腊语的 'ola kala'"
+   }
+  ],
+  "structure": "①主干 Rival stories offered exotic pedigrees。rival 意为“与之竞争的”，指与波士顿错拼缩写说相竞争的其他词源说法；pedigree 本义是血统、家谱，这里比喻词的来历。\n②冒号后的 Choctaw 'okeh' 和 Greek 'ola kala' 是两个名词短语，举例说明 exotic pedigrees，与之构成同位关系。Choctaw 和 Greek 作定语，说明是哪种语言的词。\n③exotic 意为“异域的，外来的”，这两种说法都把 OK 归到英语以外的语言，与本土的错拼缩写说形成对比，也与最后一句所说的“错误拼写和开饭铃讽刺文”这一朴素来历相对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "冒号后列举作同位语",
+    "explain": "冒号前是概括性的复数名词，冒号后列出具体例子，例子与前面的名词构成同位关系。本句 exotic pedigrees 后用冒号引出 Choctaw 'okeh' 和 Greek 'ola kala'。两项并列用 and 连接，三项及以上写作 A, B, and C。翻译时可以增补“比如”“即”等词，视频增补了“比如”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival celebrates three local crafts: weaving, pottery, and woodcarving.",
+      "zh": "这个节日展示三种本地手艺：编织、制陶和木雕。"
+     }
+    ]
+   },
+   {
+    "title": "语言名作定语",
+    "explain": "表示国家、民族的词既可作名词指语言，也可作形容词，如 Greek 可指希腊语，也可意为“希腊的”。本句 Choctaw 'okeh'、Greek 'ola kala' 中，语言名放在引号中的词语前作定语，表示“某种语言中的某个词”，相当于 the Choctaw word 'okeh'。词源说明中常见这种简洁写法，如 Latin 'aqua'（拉丁语的 aqua）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The English word 'piano' is a shortening of Italian 'pianoforte'.",
+      "zh": "英语单词 piano 是意大利语 pianoforte 的简称。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Choctaw 'okeh'",
+    "explain": "乔克托语是美国原住民乔克托人的语言。按这一旧说，OK 来自乔克托语中表示“是的”的 okeh。"
+   },
+   {
+    "term": "Greek 'ola kala'",
+    "explain": "希腊语 ola kala 意为“一切都好”，这一说法认为 OK 是它的首字母缩写。"
+   },
+   {
+    "term": "rival",
+    "explain": "形容词意为“竞争的，对立的”，如 rival companies（相互竞争的公司）；名词指竞争对手。本句视频译为“与之竞争的”。"
+   },
+   {
+    "term": "exotic",
+    "explain": "意为“来自异国的，有异域情调的”，如 exotic fruits（外国水果）。本句视频译为“异域的”。"
+   }
+  ],
+  "translation_tip": "视频译文“与之竞争的说法给出了种种异域的来历，比如乔克托语的 'okeh'和希腊语的 'ola kala'。”的处理：①rival 译为“与之竞争的”，增补“与之”，点明是与前文波士顿一说相竞争。②复数 pedigrees 译为“种种……来历”，用“种种”体现复数。③冒号改为逗号，增补“比如”引出例子。④语言名作定语，译为“乔克托语的”“希腊语的”，所举词语保留原文。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Authoritative dictionaries",
+   "predicate": "favoured",
+   "object_or_complement": "Choctaw",
+   "explain": "主干是 Authoritative dictionaries favoured Choctaw，主谓宾结构，as late as 1961 作时间状语。谓语 favoured 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Authoritative dictionaries",
+    "role": "主语（形容词 authoritative 作前置定语）",
+    "zh": "权威词典"
+   },
+   {
+    "text": "favoured",
+    "role": "谓语",
+    "zh": "倾向于"
+   },
+   {
+    "text": "Choctaw",
+    "role": "宾语（以语言名代指乔克托语词源说）",
+    "zh": "乔克托语一说"
+   },
+   {
+    "text": "as late as 1961.",
+    "role": "时间状语（as late as + 时间，强调时间之晚）",
+    "zh": "直到1961年还"
+   }
+  ],
+  "structure": "①主干 Authoritative dictionaries favoured Choctaw。Choctaw 在此不是指语言本身，而是指上一句的乔克托语词源说，以语言名代指整个说法，是一种简略的表达。\n②as late as 1961 意为“直到……还”（视频说明），强调时间之晚：权威词典直到1961年还采纳乔克托语一说。\n③本句与下一句对照：1961年词典仍偏向乔克托语说，两三年后里德的研究才扭转了局面。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "as late as 与 as early as",
+    "explain": "as late as + 时间 意为“直到……还”，强调某种情况一直持续到较晚的时候，含有“这么晚了还……”的意味；as early as + 时间 意为“早在……”，强调时间之早，如 as early as the 15th century。翻译时要把“还”“就”的语气译出来。本句 as late as 1961 暗示乔克托语说本该早被取代，却一直延续到1961年。考研阅读中，这类强调时间的结构常暗含作者的态度。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As late as the 1950s, many homes in the area had no running water.",
+      "zh": "直到20世纪50年代，这一地区还有许多家庭没有自来水。"
+     },
+     {
+      "en": "The disease was described as early as the fifth century BC.",
+      "zh": "早在公元前5世纪，这种疾病就已有记载。"
+     }
+    ]
+   },
+   {
+    "title": "favour 表示“倾向于，赞同”",
+    "explain": "favour（美式拼写 favor）作动词，除“偏袒，优待”外，还表示“倾向于，赞同（某种观点、方案）”，如 Most experts favour a gradual approach。本句 favoured Choctaw 即词典倾向于乔克托语一说。相关词有形容词 favourable（有利的，赞成的）、favourite（最喜欢的）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the committee favoured postponing the vote.",
+      "zh": "委员会多数成员赞成推迟表决。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "authoritative",
+    "explain": "意为“权威的，可信的”，如 an authoritative source；也可指“专断的，命令式的”，如 an authoritative tone。要与 authoritarian（独裁的，专制的）区分。本句视频译为“权威”。"
+   },
+   {
+    "term": "favoured",
+    "explain": "英式拼写，美式拼写为 favored；本文第3句的 humour 也是英式拼写。"
+   }
+  ],
+  "translation_tip": "视频译文“权威词典直到1961年还倾向于乔克托语一说。”的处理：①时间状语 as late as 1961 提到谓语前，译为“直到1961年还”，“还”字体现 as late as 的强调。②宾语 Choctaw 增补“一说”，译为“乔克托语一说”，把以语言名代指词源说的简略表达说清楚。③favoured 译为“倾向于”，表示词典在几种说法中的取舍。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "the linguist Allen Walker Read",
+   "predicate": "excavated",
+   "object_or_complement": "the neglected Boston provenance",
+   "explain": "主干是 the linguist Allen Walker Read excavated the neglected Boston provenance，主谓宾结构，excavate A from B 意为“从 B 中发掘出 A”。谓语 excavated 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1963–64",
+    "role": "时间状语（介词短语，表示年份跨度）",
+    "zh": "1963至1964年"
+   },
+   {
+    "text": "the linguist Allen Walker Read",
+    "role": "主语（the linguist 与人名构成紧密同位关系）",
+    "zh": "语言学家艾伦·沃克·里德"
+   },
+   {
+    "text": "excavated",
+    "role": "谓语",
+    "zh": "发掘出"
+   },
+   {
+    "text": "the neglected Boston provenance",
+    "role": "宾语（过去分词 neglected 和地名 Boston 作前置定语）",
+    "zh": "长期被忽视的波士顿起源"
+   },
+   {
+    "text": "from archival newspapers",
+    "role": "状语（介词短语，与 excavated 构成 excavate A from B）",
+    "zh": "从档案报纸中"
+   },
+   {
+    "text": "in six influential American Speech articles.",
+    "role": "状语（介词短语，指成果发表在六篇文章中）",
+    "zh": "这些发现发表在《美国语言》杂志的六篇影响深远的文章里"
+   }
+  ],
+  "structure": "①主干 the linguist Allen Walker Read excavated the neglected Boston provenance。主语中 the linguist 说明身份，与人名构成紧密同位关系，中间不加逗号。句首时间状语表示年份跨度，即1963年到1964年，后一个年份只写末两位。\n②excavate A from B 意为“从 B 中发掘出 A”（视频说明）。excavate 本义是考古发掘，这里比喻从旧报纸中查出被遗忘的史料：A 是 the neglected Boston provenance，B 是 archival newspapers。\n③宾语 the neglected Boston provenance 中，neglected 是过去分词作前置定语，意为“被忽视的”；Boston 是地名作定语，说明起源之地；provenance 意为“起源，出处”。\n④in six influential American Speech articles 是 in 结构作状语，指成果发表在六篇文章中（视频说明）。American Speech 是刊名，与 six、influential 一起修饰 articles。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，表示地点、来源、类别等，如 city council、Boston provenance、newspaper archive。本句有两处：Boston provenance 中，地名 Boston 说明起源的地点；American Speech articles 中，刊名 American Speech 说明文章发表在哪份刊物上。几个修饰语同时出现时，顺序一般是“数词 + 描述性形容词 + 名词定语 + 中心词”，如 six influential American Speech articles。翻译时要把名词定语与中心词的关系译清楚，如“发表在《美国语言》上的文章”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city council approved two new bicycle lanes last month.",
+      "zh": "市议会上个月批准了两条新的自行车道。"
+     },
+     {
+      "en": "She has published several widely cited climate change studies.",
+      "zh": "她发表了数篇被广泛引用的气候变化研究。"
+     }
+    ]
+   },
+   {
+    "title": "紧密同位语：身份名词 + 人名",
+    "explain": "表示职业、身份的名词与人名连用时，可以不加逗号，构成紧密同位语，如 the novelist Jane Austen、the physicist Marie Curie，人名是关键信息，前面的名词说明身份；加逗号时则成为非限制性同位语，如 Jane Austen, the novelist。本句 the linguist Allen Walker Read 就是紧密同位语，第12句的 the former president Andrew Jackson 也是。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The architect Zaha Hadid designed the aquatics centre for the 2012 London Olympics.",
+      "zh": "建筑师扎哈·哈迪德设计了2012年伦敦奥运会的水上运动中心。"
+     }
+    ]
+   },
+   {
+    "title": "介词 in 表示发表的载体",
+    "explain": "in 可以引出信息出现的载体，如 in a newspaper、in an article、in a report，表示“在……中（发表、写到）”。本句 in six influential American Speech articles 作状语，指里德的成果发表在六篇文章中。publish、report、describe、argue 等动词后常接这种 in 短语，如 The findings were published in a leading journal。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The study was first described in a short article in a medical journal.",
+      "zh": "这项研究最早在一份医学期刊的一篇短文中介绍过。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Allen Walker Read",
+    "explain": "艾伦·沃克·里德，美国语言学家，以考证 OK 的起源闻名。"
+   },
+   {
+    "term": "American Speech",
+    "explain": "《美国语言》，美国方言学会（American Dialect Society）主办的学术期刊，专门研究美国英语。英文刊名中文加书名号。"
+   },
+   {
+    "term": "excavate",
+    "explain": "本义是“挖掘，发掘（遗址等）”，如 excavate a site；本句是比喻用法，指从旧报纸中查出资料，视频译为“发掘出”。名词 excavation。"
+   },
+   {
+    "term": "archival newspapers",
+    "explain": "archival 是 archive（档案，档案馆）的形容词，意为“档案的，存档的”；archival newspapers 指存档的旧报纸，视频译为“档案报纸”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①年份跨度译为“1963至1964年”，置于句首。②紧密同位语 the linguist Allen Walker Read 译为“语言学家艾伦·沃克·里德”。③excavate A from B 译为“从 B 中发掘出 A”，状语“从档案报纸中”提到动词前。④neglected 增补“长期”，译为“长期被忽视的”，突出这一起源被埋没之久；provenance 译为“起源”。⑤句末 in 短语拆成独立分句，增补主语“这些发现”，译为“这些发现发表在《美国语言》杂志的六篇影响深远的文章里”；刊名加书名号，并增补“杂志”。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "Most dictionaries",
+   "predicate": "embrace",
+   "object_or_complement": "his derivation",
+   "explain": "主干是 Most dictionaries embrace his derivation，主谓宾结构，a pedigree of… 是 derivation 的同位语。谓语 embrace 是一般现在时，主动语态，与 now 呼应，说明当今的情况。"
+  },
+  "components": [
+   {
+    "text": "Most dictionaries",
+    "role": "主语",
+    "zh": "大多数词典都"
+   },
+   {
+    "text": "now",
+    "role": "时间状语（副词）",
+    "zh": "如今"
+   },
+   {
+    "text": "embrace",
+    "role": "谓语（一般现在时）",
+    "zh": "采纳了"
+   },
+   {
+    "text": "his derivation,",
+    "role": "宾语（his 指里德）",
+    "zh": "他的词源解释"
+   },
+   {
+    "text": "a pedigree",
+    "role": "同位语，补充说明 derivation",
+    "zh": "那是一段……来历"
+   },
+   {
+    "text": "of bad spelling and dinner-bell satire.",
+    "role": "后置定语（of 短语），修饰 a pedigree，说明来历的内容",
+    "zh": "由错误拼写和开饭铃讽刺文构成的"
+   }
+  ],
+  "structure": "①主干 Most dictionaries embrace his derivation，now 是时间状语，放在主语和谓语之间。embrace 本义是“拥抱”，这里指“采纳，接受（观点）”；his 指里德。谓语用一般现在时，表示现状，与第17句的过去时 favoured 形成今昔对比。\n②a pedigree of bad spelling and dinner-bell satire 是同位语，补充说明 derivation（视频说明），概括里德考证出的来历。\n③同位语内部：of 短语作 pedigree 的后置定语，bad spelling 回应第2、6句的故意错拼，dinner-bell satire 回应第4句戏仿开饭铃法令的讽刺文章。dinner-bell 是带连字符的名词作定语。\n④pedigree 与第16句的 exotic pedigrees 呼应：其他说法给出的是异域的来历，真正的来历却是错误拼写和讽刺文章，平凡又滑稽，呼应标题 The Joke That Became OK。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "同位语概括前文内容",
+    "explain": "同位语除了补充身份，还常用来对前面的名词作概括或评价，多见于句末，用逗号隔开，如 He passed the exam, an achievement nobody expected。本句 a pedigree of bad spelling and dinner-bell satire 补充说明 derivation，概括里德考证出的来历。翻译时，这类句末同位语常拆成独立分句，用“那是……”“这是……”引出，视频译为“那是一段……来历”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She was elected president of the society, a position her mother had held decades earlier.",
+      "zh": "她当选为学会会长，几十年前她母亲也担任过这一职位。"
+     },
+     {
+      "en": "The town is known for its cheese, a tradition that goes back to the Middle Ages.",
+      "zh": "这座小镇以奶酪闻名，这一传统可以追溯到中世纪。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时表示现状",
+    "explain": "一般现在时用来描述当前的状态和普遍情况，常与 now、today、nowadays 等连用。本句 Most dictionaries now embrace his derivation 叙述词典如今的做法，与第17句 favoured Choctaw as late as 1961 的过去时对照，体现观点的变化。考研阅读中，时态由过去时转为现在时，往往标志着从历史叙述转到对现状的说明。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fifty years ago the town relied on coal; today it depends on tourism.",
+      "zh": "五十年前这座小镇靠煤炭为生，如今则依赖旅游业。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "embrace",
+    "explain": "本义是“拥抱”，比喻义为“欣然接受，采纳（观点、变化）”，如 embrace new technology、embrace an idea。本句视频译为“采纳了”。"
+   },
+   {
+    "term": "derivation",
+    "explain": "意为“词源，来源；派生”，动词 derive（derive from 源自）。the derivation of a word 指一个词的来源。本句视频译为“词源解释”。"
+   },
+   {
+    "term": "pedigree",
+    "explain": "本义是动物的血统、家谱，如 a dog with a pedigree；比喻人或事物的来历、出身。本句视频译为“来历”。"
+   }
+  ],
+  "translation_tip": "视频译文“如今大多数词典都采纳了他的词源解释，那是一段由错误拼写和开饭铃讽刺文构成的来历。”的处理：①now 提到句首，译为“如今”。②增补“都”，强调大多数词典态度一致。③embrace 译为“采纳了”，用“了”表示这种接受已成定局。④derivation 增补“解释”，译为“词源解释”，指里德对词源的考证结论。⑤句末同位语拆成独立分句，以“那是”引出；of 短语前置，增补“构成”，译为“由错误拼写和开饭铃讽刺文构成的来历”；dinner-bell satire 译为“开饭铃讽刺文”，回指第4句的讽刺文章。"
+ }
+]

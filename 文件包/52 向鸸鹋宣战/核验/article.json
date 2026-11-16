@@ -1,0 +1,1498 @@
+{
+ "no": "52",
+ "title_en": "The Great Emu War",
+ "title_zh": "向鸸鹋宣战",
+ "source_id": "09",
+ "source_hashes": {
+  "JSON": "853ef50e634a69190838f10361978caf9477811a217453511a35f626f0d7881e",
+  "GEN": "853ef50e634a69190838f10361978caf9477811a217453511a35f626f0d7881e",
+  "MD": "e69ea540344ae5415cc0ff08a3e681da6285313546531cf23ee8f521544b3ed1",
+  "illustration": "4154754ecb0eecf76076c0b1e17f3c019f6d3764060a457bb1a7f2deafab6bb9"
+ },
+ "summary": [
+  [
+   "困境",
+   "1932年旱灾后，约两万只鸸鹋涌入西澳农田、践踏小麦；当地许多农户是退伍军人，向军方求助。"
+  ],
+  [
+   "出兵",
+   "军方派一名少校和两名士兵，携两挺机枪、一万发子弹，试图射杀侵入农田的鸸鹋。"
+  ],
+  [
+   "受挫",
+   "伏击时机枪卡壳，鸟群又分散成灵活小群，卡车上的机枪也没奏效；媒体嘲讽这场行动，议会提出质询。"
+  ],
+  [
+   "撤军",
+   "部队一度撤离又恢复射击，约五周后被召回；▹报告登记消耗9860发子弹、击杀986只，平均约十发子弹一只，鸟患仍未解决。"
+  ],
+  [
+   "转向",
+   "政府拒绝增援，改为农民每杀一只鸟就可申领一笔赏金；▹1934年半年内申领逾5.7万笔，按只计的数量远超军方登记战果。"
+  ]
+ ],
+ "sentences": [
+  {
+   "n": 1,
+   "para": 1,
+   "en": "Around Campion, Western Australia, most farmers were First World War veterans, settlers placed by a government scheme on marginal parcels of farmland.",
+   "zh": "在西澳大利亚州坎皮恩一带，大多数农民是第一次世界大战的退伍军人，他们作为定居者，由政府计划安置在贫瘠的/边缘的小块土地上，以这些农地为生。",
+   "en_markup": "Around Campion, Western Australia, most farmers were First World War **veterans**, **settlers** placed by a government scheme on **marginal** **parcels** of **farmland**.",
+   "zh_markup": "在西澳大利亚州坎皮恩一带，大多数农民是第一次世界大战的**退伍军人**(veterans)，他们作为**定居者**(settlers)，由政府计划安置在**贫瘠的/边缘的**(marginal)**小块土地**(parcels)上，以这些**农地**(farmland)为生。",
+   "video_notes": [
+    "（settlers…：同位语，说明 veterans；placed…：过去分词短语作后置定语，placed = who were placed，省略了 who were）"
+   ],
+   "chunks": [
+    {
+     "en": "Around Campion, Western Australia,",
+     "zh": "在西澳大利亚州坎皮恩一带，"
+    },
+    {
+     "en": "most farmers were First World War veterans,",
+     "zh": "大多数农民是第一次世界大战的退伍军人，"
+    },
+    {
+     "en": "settlers placed by a government scheme on marginal parcels of farmland.",
+     "zh": "他们作为定居者，由政府计划安置在贫瘠的/边缘的小块土地上，以这些农地为生。"
+    }
+   ],
+   "align": [
+    [
+     "Around Campion, Western Australia,",
+     "在西澳大利亚州坎皮恩一带，"
+    ],
+    [
+     "most farmers",
+     "大多数农民"
+    ],
+    [
+     "were",
+     "是"
+    ],
+    [
+     "First World War",
+     "第一次世界大战的"
+    ],
+    [
+     "veterans,",
+     "退伍军人，"
+    ],
+    [
+     "settlers",
+     "他们作为定居者，"
+    ],
+    [
+     "placed by a government scheme",
+     "由政府计划安置"
+    ],
+    [
+     "on marginal parcels",
+     "在贫瘠的/边缘的小块土地上，"
+    ],
+    [
+     "of farmland.",
+     "以这些农地为生。"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "en": "They were inexperienced growers, and a quarter had already quit.",
+   "zh": "他们是缺乏经验的种植者，已有四分之一的人放弃了土地。",
+   "en_markup": "They were **inexperienced** **growers**, and **a quarter** had already quit.",
+   "zh_markup": "他们是**缺乏经验的**(inexperienced)**种植者**(growers)，已有**四分之一**(a quarter)的人放弃了土地。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "They were inexperienced growers,",
+     "zh": "他们是缺乏经验的种植者，"
+    },
+    {
+     "en": "and a quarter had already quit.",
+     "zh": "已有四分之一的人放弃了土地。"
+    }
+   ],
+   "align": [
+    [
+     "They",
+     "他们"
+    ],
+    [
+     "were",
+     "是"
+    ],
+    [
+     "inexperienced growers,",
+     "缺乏经验的种植者，"
+    ],
+    [
+     "and a quarter had already quit.",
+     "已有四分之一的人放弃了土地。"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "en": "In 1932, after drought, roughly 20,000 emus swarmed in from arid country in flocks and trampled the wheat crops.",
+   "zh": "1932年，旱灾过后，约2万只鸸鹋成群地从干旱地区蜂拥而至，践踏了（指动物破坏）小麦庄稼。",
+   "en_markup": "In 1932, after **drought**, roughly 20,000 emus **swarmed** in from **arid** country **in flocks** and **trampled** the wheat **crops**.",
+   "zh_markup": "1932年，**旱灾**(drought)过后，约2万只鸸鹋**成群地**(in flocks)从**干旱**(arid)地区**蜂拥而至**(swarmed)，**践踏了**(trampled)（指动物破坏）小麦**庄稼**(crops)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "In 1932, after drought,",
+     "zh": "1932年，旱灾过后，"
+    },
+    {
+     "en": "roughly 20,000 emus swarmed in from arid country in flocks",
+     "zh": "约2万只鸸鹋成群地从干旱地区蜂拥而至，"
+    },
+    {
+     "en": "and trampled the wheat crops.",
+     "zh": "践踏了（指动物破坏）小麦庄稼。"
+    }
+   ],
+   "align": [
+    [
+     "In 1932,",
+     "1932年，"
+    ],
+    [
+     "after drought,",
+     "旱灾过后，"
+    ],
+    [
+     "roughly 20,000 emus",
+     "约2万只鸸鹋"
+    ],
+    [
+     "swarmed in from arid country in flocks",
+     "成群地从干旱地区蜂拥而至，"
+    ],
+    [
+     "and trampled",
+     "践踏了（指动物破坏）"
+    ],
+    [
+     "the wheat crops.",
+     "小麦庄稼。"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "en": "The farmers' plight took a military turn.",
+   "zh": "农民的困境由此走向了军事手段。",
+   "en_markup": "The farmers' **plight** took a military turn.",
+   "zh_markup": "农民的**困境**(plight)由此走向了军事手段。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The farmers' plight took a military turn.",
+     "zh": "农民的困境由此走向了军事手段。"
+    }
+   ],
+   "align": [
+    [
+     "The farmers'",
+     "农民的"
+    ],
+    [
+     "plight",
+     "困境"
+    ],
+    [
+     "took a military turn.",
+     "由此走向了军事手段。"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "en": "In desperation, a delegation of ex-soldiers aired their grievances and asked the Defence Minister for machine-guns.",
+   "zh": "绝望之中，一个由退伍士兵组成的代表团公开表达了他们的不满/委屈，请求国防部长提供机枪。",
+   "en_markup": "**In desperation**, a **delegation** of ex-soldiers **aired** their **grievances** and asked the Defence Minister for **machine-guns**.",
+   "zh_markup": "**绝望之中**(In desperation)，一个由退伍士兵组成的**代表团**(delegation)**公开表达了**(aired)他们的**不满/委屈**(grievances)，请求国防部长提供**机枪**(machine-guns)。",
+   "video_notes": [
+    "（air：作动词，公开说出；ask sb for sth：向某人要某物）"
+   ],
+   "chunks": [
+    {
+     "en": "In desperation,",
+     "zh": "绝望之中，"
+    },
+    {
+     "en": "a delegation of ex-soldiers aired their grievances",
+     "zh": "一个由退伍士兵组成的代表团公开表达了他们的不满/委屈，"
+    },
+    {
+     "en": "and asked the Defence Minister for machine-guns.",
+     "zh": "请求国防部长提供机枪。"
+    }
+   ],
+   "align": [
+    [
+     "In desperation,",
+     "绝望之中，"
+    ],
+    [
+     "a delegation of ex-soldiers",
+     "一个由退伍士兵组成的代表团"
+    ],
+    [
+     "aired",
+     "公开表达了"
+    ],
+    [
+     "their grievances",
+     "他们的不满/委屈，"
+    ],
+    [
+     "and asked",
+     "请求"
+    ],
+    [
+     "the Defence Minister",
+     "国防部长"
+    ],
+    [
+     "for machine-guns.",
+     "提供机枪。"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "en": "He agreed, sending not a battalion but a detachment: Major Meredith, an artillery officer, with two soldiers, two Lewis guns, and 10,000 rounds of ammunition.",
+   "zh": "部长同意了，但派出的不是一个营，而是一支小分队：梅雷迪思少校，一名炮兵军官，带着两名士兵、两挺刘易斯机枪和1万发弹药。",
+   "en_markup": "He agreed, sending not a **battalion** but a **detachment**: Major Meredith, an **artillery** officer, with two soldiers, two Lewis guns, and 10,000 rounds of **ammunition**.",
+   "zh_markup": "部长同意了，但派出的不是**一个营**(battalion)，而是一支**小分队**(detachment)：梅雷迪思少校，一名**炮兵**(artillery)军官，带着两名士兵、两挺刘易斯机枪和1万发**弹药**(ammunition)。",
+   "video_notes": [
+    "（sending…：现在分词短语作伴随状语；not A but B：不是A而是B；冒号后具体说明 detachment）"
+   ],
+   "chunks": [
+    {
+     "en": "He agreed, sending not a battalion but a detachment:",
+     "zh": "部长同意了，但派出的不是一个营，而是一支小分队："
+    },
+    {
+     "en": "Major Meredith, an artillery officer,",
+     "zh": "梅雷迪思少校，一名炮兵军官，"
+    },
+    {
+     "en": "with two soldiers, two Lewis guns, and 10,000 rounds of ammunition.",
+     "zh": "带着两名士兵、两挺刘易斯机枪和1万发弹药。"
+    }
+   ],
+   "align": [
+    [
+     "He agreed,",
+     "部长同意了，"
+    ],
+    [
+     "sending",
+     "但派出的"
+    ],
+    [
+     "not a battalion",
+     "不是一个营，"
+    ],
+    [
+     "but a detachment:",
+     "而是一支小分队："
+    ],
+    [
+     "Major Meredith,",
+     "梅雷迪思少校，"
+    ],
+    [
+     "an artillery officer,",
+     "一名炮兵军官，"
+    ],
+    [
+     "with",
+     "带着"
+    ],
+    [
+     "two soldiers,",
+     "两名士兵、"
+    ],
+    [
+     "two Lewis guns,",
+     "两挺刘易斯机枪"
+    ],
+    [
+     "and 10,000 rounds",
+     "和1万发"
+    ],
+    [
+     "of ammunition.",
+     "弹药。"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "para": 2,
+   "en": "The offensive began on 2 November 1932.",
+   "zh": "这场（军事）进攻开始于1932年11月2日。",
+   "en_markup": "The **offensive** began on 2 November 1932.",
+   "zh_markup": "这场**（军事）进攻**(offensive)开始于1932年11月2日。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "The offensive began on 2 November 1932.",
+     "zh": "这场（军事）进攻开始于1932年11月2日。"
+    }
+   ],
+   "align": [
+    [
+     "The offensive",
+     "这场（军事）进攻"
+    ],
+    [
+     "began on 2 November 1932.",
+     "开始于1932年11月2日。"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "en": "At a dam, about a thousand birds approached an ambush, but a gun jammed after a dozen fell.",
+   "zh": "在一处水坝，约一千只鸟靠近了埋伏/伏击范围，但打倒十来只后，一挺机枪就卡壳了。",
+   "en_markup": "At a dam, about a thousand birds approached an **ambush**, but a gun **jammed** after a dozen fell.",
+   "zh_markup": "在一处水坝，约一千只鸟靠近了**埋伏/伏击范围**(ambush)，但打倒十来只后，一挺机枪就**卡壳了**(jammed)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "At a dam, about a thousand birds approached an ambush,",
+     "zh": "在一处水坝，约一千只鸟靠近了埋伏/伏击范围，"
+    },
+    {
+     "en": "but a gun jammed after a dozen fell.",
+     "zh": "但打倒十来只后，一挺机枪就卡壳了。"
+    }
+   ],
+   "align": [
+    [
+     "At a dam,",
+     "在一处水坝，"
+    ],
+    [
+     "about a thousand birds",
+     "约一千只鸟"
+    ],
+    [
+     "approached",
+     "靠近了"
+    ],
+    [
+     "an ambush,",
+     "埋伏/伏击范围，"
+    ],
+    [
+     "but",
+     "但"
+    ],
+    [
+     "a gun jammed after a dozen fell.",
+     "打倒十来只后，一挺机枪就卡壳了。"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "en": "The flocks broke formation into small, agile groups, frustrating each tactical plan, and a truck-mounted gun proved futile.",
+   "zh": "鸟群打乱了（它们自己的）队形，（它们）分成了灵活的小群体，挫败了每一个战术计划；装在卡车上的机枪也徒劳无功。",
+   "en_markup": "The flocks broke **formation** into small, **agile** groups, **frustrating** each **tactical** plan, and a truck-mounted gun proved **futile**.",
+   "zh_markup": "鸟群打乱了（它们自己的）**队形**(formation)，（它们）分成了**灵活的**(agile)小群体，**挫败了**(frustrating)每一个**战术**(tactical)计划；装在卡车上的机枪也**徒劳无功**(futile)。",
+   "video_notes": [
+    "（frustrating…：现在分词短语作结果状语；prove + 形容词：结果是……）"
+   ],
+   "chunks": [
+    {
+     "en": "The flocks broke formation into small, agile groups,",
+     "zh": "鸟群打乱了（它们自己的）队形，（它们）分成了灵活的小群体，"
+    },
+    {
+     "en": "frustrating each tactical plan,",
+     "zh": "挫败了每一个战术计划；"
+    },
+    {
+     "en": "and a truck-mounted gun proved futile.",
+     "zh": "装在卡车上的机枪也徒劳无功。"
+    }
+   ],
+   "align": [
+    [
+     "The flocks",
+     "鸟群"
+    ],
+    [
+     "broke",
+     "打乱了"
+    ],
+    [
+     "formation",
+     "（它们自己的）队形，"
+    ],
+    [
+     "into",
+     "（它们）分成了"
+    ],
+    [
+     "small, agile groups,",
+     "灵活的小群体，"
+    ],
+    [
+     "frustrating",
+     "挫败了"
+    ],
+    [
+     "each tactical plan,",
+     "每一个战术计划；"
+    ],
+    [
+     "and a truck-mounted gun",
+     "装在卡车上的机枪"
+    ],
+    [
+     "proved futile.",
+     "也徒劳无功。"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "para": 3,
+   "en": "Six days of wasteful firing spent 2,500 rounds on perhaps 50 to 200 birds, a ludicrous return.",
+   "zh": "六天的浪费的射击花费了/消耗了2,500发，只打死大约50至200只鸟，这是一个荒唐可笑的回报。",
+   "en_markup": "Six days of **wasteful** firing spent 2,500 rounds on perhaps 50 to 200 birds, a **ludicrous** return.",
+   "zh_markup": "六天的**浪费的**(wasteful)射击花费了/消耗了2,500发，只打死大约50至200只鸟，这是一个**荒唐可笑的**(ludicrous)回报。",
+   "video_notes": [
+    "（spend A on B：在B上花掉A；a ludicrous return：同位语，评价前面这件事）"
+   ],
+   "chunks": [
+    {
+     "en": "Six days of wasteful firing spent 2,500 rounds on perhaps 50 to 200 birds,",
+     "zh": "六天的浪费的射击花费了/消耗了2,500发，只打死大约50至200只鸟，"
+    },
+    {
+     "en": "a ludicrous return.",
+     "zh": "这是一个荒唐可笑的回报。"
+    }
+   ],
+   "align": [
+    [
+     "Six days of",
+     "六天的"
+    ],
+    [
+     "wasteful firing",
+     "浪费的射击"
+    ],
+    [
+     "spent",
+     "花费了/消耗了"
+    ],
+    [
+     "2,500 rounds",
+     "2,500发，"
+    ],
+    [
+     "on perhaps 50 to 200 birds,",
+     "只打死大约50至200只鸟，"
+    ],
+    [
+     "a ludicrous return.",
+     "这是一个荒唐可笑的回报。"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "para": 3,
+   "en": "After parliamentary questions and press ridicule, an embarrassing withdrawal came on 8 November, though shooting restarted within days.",
+   "zh": "在议会质询和报界嘲笑/嘲讽之后，一场尴尬的撤退发生在11月8日；不过没过几天，射击又重新开始了。",
+   "en_markup": "After **parliamentary** questions and press **ridicule**, an **embarrassing** **withdrawal** came on 8 November, though shooting restarted within days.",
+   "zh_markup": "在**议会**(parliamentary)质询和报界**嘲笑/嘲讽**(ridicule)之后，一场**尴尬的**(embarrassing)**撤退**(withdrawal)发生在11月8日；不过没过几天，射击又重新开始了。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "After parliamentary questions and press ridicule,",
+     "zh": "在议会质询和报界嘲笑/嘲讽之后，"
+    },
+    {
+     "en": "an embarrassing withdrawal came on 8 November,",
+     "zh": "一场尴尬的撤退发生在11月8日；"
+    },
+    {
+     "en": "though shooting restarted within days.",
+     "zh": "不过没过几天，射击又重新开始了。"
+    }
+   ],
+   "align": [
+    [
+     "After parliamentary questions",
+     "在议会质询"
+    ],
+    [
+     "and press ridicule,",
+     "和报界嘲笑/嘲讽之后，"
+    ],
+    [
+     "an embarrassing withdrawal",
+     "一场尴尬的撤退"
+    ],
+    [
+     "came",
+     "发生在"
+    ],
+    [
+     "on 8 November,",
+     "11月8日；"
+    ],
+    [
+     "though",
+     "不过"
+    ],
+    [
+     "shooting restarted within days.",
+     "没过几天，射击又重新开始了。"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "para": 4,
+   "en": "Meredith was recalled on 10 December.",
+   "zh": "梅雷迪思于12月10日被召回。",
+   "en_markup": "Meredith **was recalled** on 10 December.",
+   "zh_markup": "梅雷迪思于12月10日**被召回**(was recalled)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "Meredith was recalled on 10 December.",
+     "zh": "梅雷迪思于12月10日被召回。"
+    }
+   ],
+   "align": [
+    [
+     "Meredith",
+     "梅雷迪思"
+    ],
+    [
+     "was recalled on 10 December.",
+     "于12月10日被召回。"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "para": 4,
+   "en": "His memo's inventory counted 986 kills from 9,860 rounds, a ratio of ten bullets to one bird.",
+   "zh": "他在备忘录里开列的清单计数（显示），9,860发打死了986只，比例是十发子弹对一只鸟。",
+   "en_markup": "His **memo**'s **inventory** counted 986 kills from 9,860 rounds, a **ratio** of ten **bullets** to one bird.",
+   "zh_markup": "他在**备忘录**(memo)里开列的**清单**(inventory)计数（显示），9,860发打死了986只，**比例**(ratio)是十发**子弹**(bullets)对一只鸟。",
+   "video_notes": [
+    "（a ratio of A to B：A比B的比例；a ratio…：同位语，说明前面的数字）"
+   ],
+   "chunks": [
+    {
+     "en": "His memo's inventory counted 986 kills from 9,860 rounds,",
+     "zh": "他在备忘录里开列的清单计数（显示），9,860发打死了986只，"
+    },
+    {
+     "en": "a ratio of ten bullets to one bird.",
+     "zh": "比例是十发子弹对一只鸟。"
+    }
+   ],
+   "align": [
+    [
+     "His memo's",
+     "他在备忘录里开列的"
+    ],
+    [
+     "inventory",
+     "清单"
+    ],
+    [
+     "counted",
+     "计数（显示），"
+    ],
+    [
+     "986 kills from 9,860 rounds,",
+     "9,860发打死了986只，"
+    ],
+    [
+     "a ratio",
+     "比例是"
+    ],
+    [
+     "of ten bullets",
+     "十发子弹"
+    ],
+    [
+     "to one bird.",
+     "对一只鸟。"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "para": 4,
+   "en": "He likened the resilient birds' toughness to the armour of tanks.",
+   "zh": "他把这些耐打的鸟的坚韧比作坦克的装甲。",
+   "en_markup": "He **likened** the **resilient** birds' **toughness** **to** the **armour** of tanks.",
+   "zh_markup": "他**把**(likened to)这些**耐打的**(resilient)鸟的\n{{（人或动物）对困境|resilient}}\n{{有承受力的，有复原力的|resilient}}**坚韧**(toughness)**比作**(likened to)坦克的**装甲**(armour)。",
+   "video_notes": [
+    "（liken A to B：把A比作B）",
+    "（人或动物）对困境",
+    "有承受力的，有复原力的"
+   ],
+   "chunks": [
+    {
+     "en": "He likened the resilient birds' toughness to the armour of tanks.",
+     "zh": "他把这些耐打的鸟的坚韧比作坦克的装甲。"
+    }
+   ],
+   "align": [
+    [
+     "He",
+     "他"
+    ],
+    [
+     "likened",
+     "把"
+    ],
+    [
+     "the resilient birds'",
+     "这些耐打的鸟的"
+    ],
+    [
+     "toughness",
+     "坚韧"
+    ],
+    [
+     "to",
+     "比作"
+    ],
+    [
+     "the armour of tanks.",
+     "坦克的装甲。"
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "para": 4,
+   "en": "Five weeks of warfare had barely dented the hardy flocks' endurance.",
+   "zh": "五个星期的战事几乎没削弱这些顽强的鸟群的耐受力/抗造力。",
+   "en_markup": "Five weeks of **warfare** had **barely** **dented** the **hardy** flocks' **endurance**.",
+   "zh_markup": "五个星期的**战事**(warfare)**几乎没**(barely)**削弱**(dented)这些**顽强的**(hardy)鸟群的**耐受力/抗造力**(endurance)。",
+   "video_notes": [
+    "（dent：本义压出凹痕，这里指削弱）"
+   ],
+   "chunks": [
+    {
+     "en": "Five weeks of warfare had barely dented the hardy flocks' endurance.",
+     "zh": "五个星期的战事几乎没削弱这些顽强的鸟群的耐受力/抗造力。"
+    }
+   ],
+   "align": [
+    [
+     "Five weeks of",
+     "五个星期的"
+    ],
+    [
+     "warfare",
+     "战事"
+    ],
+    [
+     "had barely",
+     "几乎没"
+    ],
+    [
+     "dented",
+     "削弱"
+    ],
+    [
+     "the hardy flocks'",
+     "这些顽强的鸟群的"
+    ],
+    [
+     "endurance.",
+     "耐受力/抗造力。"
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "para": 5,
+   "en": "Later pleas for reinforcements were refused, and intervention gave way to a bounty sanctioned by the government.",
+   "zh": "后来请求增援的恳求都遭到拒绝，干预转变为（让步于）政府批准的悬赏。",
+   "en_markup": "Later **pleas** for **reinforcements** were refused, and **intervention** **gave way to** a **bounty** **sanctioned** by the government.",
+   "zh_markup": "后来请求**增援**(reinforcements)的**恳求**(pleas)都遭到拒绝，**干预**(intervention)**转变为**(gave way to)（让步于）政府**批准**(sanctioned)的**悬赏**(bounty)。",
+   "video_notes": [
+    "（give way to：转变为，让步于；sanctioned…：过去分词短语作后置定语，sanctioned = which was sanctioned，省略了 which was）"
+   ],
+   "chunks": [
+    {
+     "en": "Later pleas for reinforcements were refused,",
+     "zh": "后来请求增援的恳求都遭到拒绝，"
+    },
+    {
+     "en": "and intervention gave way to a bounty sanctioned by the government.",
+     "zh": "干预转变为（让步于）政府批准的悬赏。"
+    }
+   ],
+   "align": [
+    [
+     "Later",
+     "后来"
+    ],
+    [
+     "pleas for reinforcements",
+     "请求增援的恳求"
+    ],
+    [
+     "were refused,",
+     "都遭到拒绝，"
+    ],
+    [
+     "and intervention",
+     "干预"
+    ],
+    [
+     "gave way to",
+     "转变为（让步于）"
+    ],
+    [
+     "a bounty sanctioned by the government.",
+     "政府批准的悬赏。"
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "para": 5,
+   "en": "This payout per bird gave farmers compensation and an incentive for extermination.",
+   "zh": "这种按只计算的钱款支出（赏金）给了农民补偿，也成为彻底消灭鸸鹋的激励。",
+   "en_markup": "This **payout** per bird gave farmers **compensation** and an **incentive** for **extermination**.",
+   "zh_markup": "这种按只计算的**钱款支出**(payout)（赏金）给了农民**补偿**(compensation)，也成为**彻底消灭**(extermination)鸸鹋的**激励**(incentive)。",
+   "video_notes": [],
+   "chunks": [
+    {
+     "en": "This payout per bird gave farmers compensation",
+     "zh": "这种按只计算的钱款支出（赏金）给了农民补偿，"
+    },
+    {
+     "en": "and an incentive for extermination.",
+     "zh": "也成为彻底消灭鸸鹋的激励。"
+    }
+   ],
+   "align": [
+    [
+     "This payout per bird",
+     "这种按只计算的钱款支出（赏金）"
+    ],
+    [
+     "gave farmers",
+     "给了农民"
+    ],
+    [
+     "compensation",
+     "补偿，"
+    ],
+    [
+     "and an incentive for extermination.",
+     "也成为彻底消灭鸸鹋的激励。"
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "para": 5,
+   "en": "Farmers claimed over 57,000 payments in six months of 1934, more than fifty-seven times Meredith's 986 kills.",
+   "zh": "在1934年的六个月里，农民们申领了超过5.7万 笔 款项 （政府赏金），是梅雷迪思986次击杀数的五十多倍。",
+   "en_markup": "Farmers **claimed** over 57,000 **payments** in six months of 1934, more than fifty-seven times Meredith's 986 kills.",
+   "zh_markup": "在1934年的六个月里，农民们**申领**(claimed)了超过5.7万 笔 **款项**(payments) （政府赏金），是梅雷迪思986次击杀数的五十多倍。",
+   "video_notes": [
+    "（claim 凭资格或规定向官方正式“申领、索要”（钱财或物品）；fifty-seven times + 名词：是……的五十七倍）"
+   ],
+   "chunks": [
+    {
+     "en": "Farmers claimed over 57,000 payments in six months of 1934,",
+     "zh": "在1934年的六个月里，农民们申领了超过5.7万 笔 款项 （政府赏金），"
+    },
+    {
+     "en": "more than fifty-seven times Meredith's 986 kills.",
+     "zh": "是梅雷迪思986次击杀数的五十多倍。"
+    }
+   ],
+   "align": [
+    [
+     "Farmers claimed",
+     "在1934年的六个月里，农民们申领了"
+    ],
+    [
+     "over 57,000 payments in six months of 1934,",
+     "超过5.7万 笔 款项 （政府赏金），"
+    ],
+    [
+     "more than fifty-seven times Meredith's 986 kills.",
+     "是梅雷迪思986次击杀数的五十多倍。"
+    ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "id": 1,
+   "para": 1,
+   "sentence": 1,
+   "en": "veterans",
+   "zh_video": "退伍军人",
+   "headword": "veteran",
+   "pos": "n.",
+   "table_definition": "本文：退伍军人；n. (veteran) 退伍军人；老手（war veterans；a veteran of politics）"
+  },
+  {
+   "id": 2,
+   "para": 1,
+   "sentence": 1,
+   "en": "settlers",
+   "zh_video": "定居者",
+   "headword": "settler",
+   "pos": "n.",
+   "table_definition": "本文：定居者；n. (settler) 定居者，移民（early settlers）"
+  },
+  {
+   "id": 3,
+   "para": 1,
+   "sentence": 1,
+   "en": "marginal",
+   "zh_video": "贫瘠的/边缘的",
+   "headword": "marginal",
+   "pos": "adj.",
+   "table_definition": "本文：贫瘠的/边缘的；adj. 贫瘠的（土地）；边缘的，微小的（marginal land；a marginal difference）"
+  },
+  {
+   "id": 4,
+   "para": 1,
+   "sentence": 1,
+   "en": "parcels",
+   "zh_video": "小块土地",
+   "headword": "parcel",
+   "pos": "n.",
+   "table_definition": "本文：小块土地；n. (parcel) 一块（土地）；包裹（a parcel of land）"
+  },
+  {
+   "id": 5,
+   "para": 1,
+   "sentence": 1,
+   "en": "farmland",
+   "zh_video": "农地",
+   "headword": "farmland",
+   "pos": "n.",
+   "table_definition": "本文：农地；n. 农田（fertile farmland）"
+  },
+  {
+   "id": 6,
+   "para": 1,
+   "sentence": 2,
+   "en": "inexperienced",
+   "zh_video": "缺乏经验的",
+   "headword": "inexperienced",
+   "pos": "adj.",
+   "table_definition": "本文：缺乏经验的；adj. 缺乏经验的（an inexperienced driver）"
+  },
+  {
+   "id": 7,
+   "para": 1,
+   "sentence": 2,
+   "en": "growers",
+   "zh_video": "种植者",
+   "headword": "grower",
+   "pos": "n.",
+   "table_definition": "本文：种植者；n. (grower) 种植者（coffee growers）"
+  },
+  {
+   "id": 8,
+   "para": 1,
+   "sentence": 2,
+   "en": "a quarter",
+   "zh_video": "四分之一",
+   "headword": "a quarter",
+   "pos": "phr.",
+   "table_definition": "本文：四分之一（1/4）；phr. 四分之一（a quarter of the farmers）"
+  },
+  {
+   "id": 9,
+   "para": 1,
+   "sentence": 3,
+   "en": "drought",
+   "zh_video": "旱灾",
+   "headword": "drought",
+   "pos": "n.",
+   "table_definition": "本文：旱灾；n. 旱灾，干旱（a severe drought）"
+  },
+  {
+   "id": 10,
+   "para": 1,
+   "sentence": 3,
+   "en": "swarmed",
+   "zh_video": "蜂拥而至",
+   "headword": "swarm",
+   "pos": "v.",
+   "table_definition": "本文：蜂拥而至；v. (swarm) 蜂拥，成群移动（fans swarmed onto the pitch）"
+  },
+  {
+   "id": 11,
+   "para": 1,
+   "sentence": 3,
+   "en": "arid",
+   "zh_video": "干旱",
+   "headword": "arid",
+   "pos": "adj.",
+   "table_definition": "本文：干旱；adj. 干旱的（an arid climate/region）"
+  },
+  {
+   "id": 12,
+   "para": 1,
+   "sentence": 3,
+   "en": "in flocks",
+   "zh_video": "成群地",
+   "headword": "in flocks",
+   "pos": "n.",
+   "table_definition": "本文：成群地；短语. 成群地，一群群地（birds flying in flocks）；flock n. （鸟、羊）群（a flock of sheep/birds）"
+  },
+  {
+   "id": 13,
+   "para": 1,
+   "sentence": 3,
+   "en": "trampled",
+   "zh_video": "践踏了",
+   "headword": "trample",
+   "pos": "v.",
+   "table_definition": "本文：践踏了（指动物破坏）；v. (trample) 踩坏，践踏（trample the flowers）"
+  },
+  {
+   "id": 14,
+   "para": 1,
+   "sentence": 3,
+   "en": "crops",
+   "zh_video": "庄稼",
+   "headword": "crop",
+   "pos": "n.",
+   "table_definition": "本文：庄稼；n. (crop) 庄稼，作物（harvest the crops；crop failure）"
+  },
+  {
+   "id": 15,
+   "para": 2,
+   "sentence": 4,
+   "en": "plight",
+   "zh_video": "困境",
+   "headword": "plight",
+   "pos": "n.",
+   "table_definition": "本文：困境；n. 困境（the plight of refugees）"
+  },
+  {
+   "id": 16,
+   "para": 2,
+   "sentence": 5,
+   "en": "In desperation",
+   "zh_video": "绝望之中",
+   "headword": "in desperation",
+   "pos": "n.",
+   "table_definition": "本文：绝望之中；短语. 在绝望中，走投无路之下（in desperation）；desperation n. 绝望，走投无路"
+  },
+  {
+   "id": 17,
+   "para": 2,
+   "sentence": 5,
+   "en": "delegation",
+   "zh_video": "代表团",
+   "headword": "delegation",
+   "pos": "n.",
+   "table_definition": "本文：代表团；n. 代表团（a trade delegation）"
+  },
+  {
+   "id": 18,
+   "para": 2,
+   "sentence": 5,
+   "en": "aired",
+   "zh_video": "公开表达了",
+   "headword": "air",
+   "pos": "v.",
+   "table_definition": "本文：公开表达了；v. (air) 公开表达，公开发表（air one's grievances/views）"
+  },
+  {
+   "id": 19,
+   "para": 2,
+   "sentence": 5,
+   "en": "grievances",
+   "zh_video": "不满/委屈",
+   "headword": "grievance",
+   "pos": "n.",
+   "table_definition": "本文：不满/委屈；n. (grievance) 不满，委屈（air/voice grievances）"
+  },
+  {
+   "id": 20,
+   "para": 2,
+   "sentence": 5,
+   "en": "machine-guns",
+   "zh_video": "机枪",
+   "headword": "machine-gun",
+   "pos": "n.",
+   "table_definition": "本文：机枪；n. (machine-gun) 机枪（fire a machine-gun）"
+  },
+  {
+   "id": 21,
+   "para": 2,
+   "sentence": 6,
+   "en": "battalion",
+   "zh_video": "一个营",
+   "headword": "battalion",
+   "pos": "n.",
+   "table_definition": "本文：一个营；n. （军队的）营（an infantry battalion）"
+  },
+  {
+   "id": 22,
+   "para": 2,
+   "sentence": 6,
+   "en": "detachment",
+   "zh_video": "小分队",
+   "headword": "detachment",
+   "pos": "n.",
+   "table_definition": "本文：小分队；n. 小分队，支队；超然（a detachment of soldiers）"
+  },
+  {
+   "id": 23,
+   "para": 2,
+   "sentence": 6,
+   "en": "artillery",
+   "zh_video": "炮兵",
+   "headword": "artillery",
+   "pos": "n.",
+   "table_definition": "本文：炮兵；n. 炮兵；大炮（an artillery regiment）"
+  },
+  {
+   "id": 24,
+   "para": 2,
+   "sentence": 6,
+   "en": "ammunition",
+   "zh_video": "弹药",
+   "headword": "ammunition",
+   "pos": "n.",
+   "table_definition": "本文：弹药；n. 弹药（run out of ammunition）"
+  },
+  {
+   "id": 25,
+   "para": 2,
+   "sentence": 7,
+   "en": "offensive",
+   "zh_video": "（军事）进攻",
+   "headword": "offensive",
+   "pos": "n.",
+   "table_definition": "本文：（军事）进攻；n./adj. 攻势，进攻；冒犯的（launch an offensive；offensive remarks）"
+  },
+  {
+   "id": 26,
+   "para": 3,
+   "sentence": 8,
+   "en": "ambush",
+   "zh_video": "埋伏/伏击范围",
+   "headword": "ambush",
+   "pos": "n.",
+   "table_definition": "本文：埋伏/伏击范围；n./v. 埋伏，伏击（lie in ambush；be ambushed）"
+  },
+  {
+   "id": 27,
+   "para": 3,
+   "sentence": 8,
+   "en": "jammed",
+   "zh_video": "卡壳了",
+   "headword": "jam",
+   "pos": "v.",
+   "table_definition": "本文：卡壳了；v. (jam) 卡住；塞满（the printer jammed；roads jammed with cars）"
+  },
+  {
+   "id": 28,
+   "para": 3,
+   "sentence": 9,
+   "en": "formation",
+   "zh_video": "队形",
+   "headword": "formation",
+   "pos": "n.",
+   "table_definition": "本文：队形；n. 队形，编队；形成（fly in formation）"
+  },
+  {
+   "id": 29,
+   "para": 3,
+   "sentence": 9,
+   "en": "agile",
+   "zh_video": "灵活的",
+   "headword": "agile",
+   "pos": "adj.",
+   "table_definition": "本文：灵活的；adj. 敏捷的，灵活的（an agile climber/mind）"
+  },
+  {
+   "id": 30,
+   "para": 3,
+   "sentence": 9,
+   "en": "frustrating",
+   "zh_video": "挫败了",
+   "headword": "frustrate",
+   "pos": "v.",
+   "table_definition": "本文：挫败了；v. (frustrate) 挫败，使落空；使沮丧（frustrate sb's plans/efforts）"
+  },
+  {
+   "id": 31,
+   "para": 3,
+   "sentence": 9,
+   "en": "tactical",
+   "zh_video": "战术",
+   "headword": "tactical",
+   "pos": "adj.",
+   "table_definition": "本文：战术；adj. 战术的（a tactical error/advantage）"
+  },
+  {
+   "id": 32,
+   "para": 3,
+   "sentence": 9,
+   "en": "futile",
+   "zh_video": "徒劳无功",
+   "headword": "futile",
+   "pos": "adj.",
+   "table_definition": "本文：徒劳无功；adj. 徒劳的，无效的（a futile attempt）"
+  },
+  {
+   "id": 33,
+   "para": 3,
+   "sentence": 10,
+   "en": "wasteful",
+   "zh_video": "浪费的",
+   "headword": "wasteful",
+   "pos": "adj.",
+   "table_definition": "本文：浪费的；adj. 浪费的（wasteful spending）"
+  },
+  {
+   "id": 34,
+   "para": 3,
+   "sentence": 10,
+   "en": "ludicrous",
+   "zh_video": "荒唐可笑的",
+   "headword": "ludicrous",
+   "pos": "adj.",
+   "table_definition": "本文：荒唐可笑的；adj. 荒唐可笑的（a ludicrous idea/price）"
+  },
+  {
+   "id": 35,
+   "para": 3,
+   "sentence": 11,
+   "en": "parliamentary",
+   "zh_video": "议会",
+   "headword": "parliamentary",
+   "pos": "adj.",
+   "table_definition": "本文：议会；adj. 议会的（a parliamentary debate/question）"
+  },
+  {
+   "id": 36,
+   "para": 3,
+   "sentence": 11,
+   "en": "ridicule",
+   "zh_video": "嘲笑/嘲讽",
+   "headword": "ridicule",
+   "pos": "n.",
+   "table_definition": "本文：嘲笑/嘲讽；n./v. 嘲笑，奚落（an object of ridicule）"
+  },
+  {
+   "id": 37,
+   "para": 3,
+   "sentence": 11,
+   "en": "embarrassing",
+   "zh_video": "尴尬的",
+   "headword": "embarrassing",
+   "pos": "adj.",
+   "table_definition": "本文：尴尬的；adj. 令人尴尬的（an embarrassing mistake）"
+  },
+  {
+   "id": 38,
+   "para": 3,
+   "sentence": 11,
+   "en": "withdrawal",
+   "zh_video": "撤退",
+   "headword": "withdrawal",
+   "pos": "n.",
+   "table_definition": "本文：撤退；n. 撤退，撤出；取款（troop withdrawal；cash withdrawal）"
+  },
+  {
+   "id": 39,
+   "para": 4,
+   "sentence": 12,
+   "en": "was recalled",
+   "zh_video": "被召回",
+   "headword": "was recalled",
+   "pos": "v.",
+   "table_definition": "本文：被召回；v. (recall) 召回（be recalled）"
+  },
+  {
+   "id": 40,
+   "para": 4,
+   "sentence": 13,
+   "en": "memo",
+   "zh_video": "备忘录",
+   "headword": "memo",
+   "pos": "n.",
+   "table_definition": "本文：备忘录；n. 备忘录（send a memo to all staff）"
+  },
+  {
+   "id": 41,
+   "para": 4,
+   "sentence": 13,
+   "en": "inventory",
+   "zh_video": "清单",
+   "headword": "inventory",
+   "pos": "n.",
+   "table_definition": "本文：清单；n. 清单，存货清单（make/take an inventory of sth）"
+  },
+  {
+   "id": 42,
+   "para": 4,
+   "sentence": 13,
+   "en": "ratio",
+   "zh_video": "比例",
+   "headword": "ratio",
+   "pos": "n.",
+   "table_definition": "本文：比例；n. 比例，比率（a ratio of three to one）"
+  },
+  {
+   "id": 43,
+   "para": 4,
+   "sentence": 13,
+   "en": "bullets",
+   "zh_video": "子弹",
+   "headword": "bullet",
+   "pos": "n.",
+   "table_definition": "本文：子弹；n. (bullet) 子弹（a bullet wound）"
+  },
+  {
+   "id": 44,
+   "para": 4,
+   "sentence": null,
+   "en": "likened to",
+   "zh_video": "把……比作",
+   "headword": "likened to",
+   "pos": "表达",
+   "table_definition": "本文：把……比作；短语. (liken A to B) 把A比作B（liken life to a journey）"
+  },
+  {
+   "id": 45,
+   "para": 4,
+   "sentence": 14,
+   "en": "resilient",
+   "zh_video": "耐打的",
+   "headword": "resilient",
+   "pos": "adj.",
+   "table_definition": "本文：耐打的；（人或动物）对困境有承受力的，有复原力的；adj. 能承受打击的，有韧性的；适应力强的（a resilient material；resilient children）"
+  },
+  {
+   "id": 46,
+   "para": 4,
+   "sentence": 14,
+   "en": "toughness",
+   "zh_video": "坚韧",
+   "headword": "toughness",
+   "pos": "n.",
+   "table_definition": "本文：坚韧；n. 坚韧，强硬（mental toughness）"
+  },
+  {
+   "id": 47,
+   "para": 4,
+   "sentence": 14,
+   "en": "armour",
+   "zh_video": "装甲",
+   "headword": "armour",
+   "pos": "n.",
+   "table_definition": "本文：装甲；n. 装甲；盔甲（a suit of armour；tank armour）"
+  },
+  {
+   "id": 48,
+   "para": 4,
+   "sentence": 15,
+   "en": "warfare",
+   "zh_video": "战事",
+   "headword": "warfare",
+   "pos": "n.",
+   "table_definition": "本文：战事；n. 战争，作战（modern/guerrilla warfare）"
+  },
+  {
+   "id": 49,
+   "para": 4,
+   "sentence": 15,
+   "en": "barely",
+   "zh_video": "几乎没",
+   "headword": "barely",
+   "pos": "adv.",
+   "table_definition": "本文：几乎没；adv. 几乎不，勉强（barely dented）"
+  },
+  {
+   "id": 50,
+   "para": 4,
+   "sentence": 15,
+   "en": "dented",
+   "zh_video": "削弱",
+   "headword": "dented",
+   "pos": "v.",
+   "table_definition": "本文：削弱；v. (dent) 削弱，损害；本义压出凹痕（dent confidence）"
+  },
+  {
+   "id": 51,
+   "para": 4,
+   "sentence": 15,
+   "en": "hardy",
+   "zh_video": "顽强的",
+   "headword": "hardy",
+   "pos": "adj.",
+   "table_definition": "本文：顽强的；adj. 耐寒的，顽强的（hardy plants；a hardy breed）"
+  },
+  {
+   "id": 52,
+   "para": 4,
+   "sentence": 15,
+   "en": "endurance",
+   "zh_video": "耐受力/抗造力",
+   "headword": "endurance",
+   "pos": "n.",
+   "table_definition": "本文：耐受力/抗造力；n. 耐力，耐受力，忍耐（a test of endurance）"
+  },
+  {
+   "id": 53,
+   "para": 5,
+   "sentence": 16,
+   "en": "pleas",
+   "zh_video": "恳求",
+   "headword": "plea",
+   "pos": "n.",
+   "table_definition": "本文：恳求；n. (plea) 恳求，请求（a plea for help）"
+  },
+  {
+   "id": 54,
+   "para": 5,
+   "sentence": 16,
+   "en": "reinforcements",
+   "zh_video": "增援",
+   "headword": "reinforcement",
+   "pos": "n.",
+   "table_definition": "本文：增援；n. (reinforcement) 援军，增援（call for reinforcements）"
+  },
+  {
+   "id": 55,
+   "para": 5,
+   "sentence": 16,
+   "en": "intervention",
+   "zh_video": "干预",
+   "headword": "intervention",
+   "pos": "n.",
+   "table_definition": "本文：干预；n. 干预，介入（military intervention）"
+  },
+  {
+   "id": 56,
+   "para": 5,
+   "sentence": 16,
+   "en": "gave way to",
+   "zh_video": "转变为",
+   "headword": "give way to",
+   "pos": "phr. v.",
+   "table_definition": "本文：转变为（让步于）；短语. (give way to) 转变为，让步于；被……取代（give way to panic）"
+  },
+  {
+   "id": 57,
+   "para": 5,
+   "sentence": 16,
+   "en": "bounty",
+   "zh_video": "悬赏",
+   "headword": "bounty",
+   "pos": "n.",
+   "table_definition": "本文：悬赏；n. 悬赏金，赏金（a bounty on sb's head）"
+  },
+  {
+   "id": 58,
+   "para": 5,
+   "sentence": 16,
+   "en": "sanctioned",
+   "zh_video": "批准",
+   "headword": "sanction",
+   "pos": "v.",
+   "table_definition": "本文：批准；v. (sanction) 批准，认可；制裁（officially sanctioned；sanction the use of force）"
+  },
+  {
+   "id": 59,
+   "para": 5,
+   "sentence": 17,
+   "en": "payout",
+   "zh_video": "钱款支出",
+   "headword": "payout",
+   "pos": "n.",
+   "table_definition": "本文：钱款支出（赏金）；n. （一笔）支付款，赔付，赏金（an insurance payout；a lottery payout）"
+  },
+  {
+   "id": 60,
+   "para": 5,
+   "sentence": 17,
+   "en": "compensation",
+   "zh_video": "补偿",
+   "headword": "compensation",
+   "pos": "n.",
+   "table_definition": "本文：补偿；n. 补偿，赔偿（claim compensation for damage）"
+  },
+  {
+   "id": 61,
+   "para": 5,
+   "sentence": 17,
+   "en": "incentive",
+   "zh_video": "激励",
+   "headword": "incentive",
+   "pos": "n.",
+   "table_definition": "本文：激励；n. 激励，动力（tax incentives；an incentive to work harder）"
+  },
+  {
+   "id": 62,
+   "para": 5,
+   "sentence": 17,
+   "en": "extermination",
+   "zh_video": "彻底消灭",
+   "headword": "extermination",
+   "pos": "n.",
+   "table_definition": "本文：彻底消灭；n. 灭绝，根除，彻底消灭（the extermination of pests）"
+  },
+  {
+   "id": 63,
+   "para": 5,
+   "sentence": 18,
+   "en": "claimed",
+   "zh_video": "申领",
+   "headword": "claimed",
+   "pos": "v.",
+   "table_definition": "本文：申领；v. (claim) 凭资格或规定向官方正式“申领、索要”（钱财或物品）（claim a bounty）"
+  },
+  {
+   "id": 64,
+   "para": 5,
+   "sentence": 18,
+   "en": "payments",
+   "zh_video": "款项",
+   "headword": "payment",
+   "pos": "n.",
+   "table_definition": "本文：款项；n. (payment) 付款，款项，支付（monthly payments）"
+  }
+ ]
+}

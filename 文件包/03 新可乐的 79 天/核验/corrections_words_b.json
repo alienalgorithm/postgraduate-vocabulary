@@ -1,0 +1,30 @@
+[
+  {
+    "key": "id=30",
+    "field": "usage_detail",
+    "before": "不及物短语动词，宾语必须放在 on 之后：stock up on sth，不说 stock sth up on。",
+    "after": "stock up 本身不及物，所储备的东西由介词 on 引出，宾语必须放在 on 之后：stock up on sth，不说 stock sth up on。",
+    "reason": "原文称不及物又说带宾语，前后矛盾，改清楚"
+  },
+  {
+    "key": "id=33",
+    "field": "context_usage",
+    "before": "新可乐不得沿用原版可乐那样的包装，以免顾客分不清。",
+    "after": "新可乐不得沿用原版可乐那样的包装。",
+    "reason": "“以免顾客分不清”是原文未说的起诉动机，删去推测"
+  },
+  {
+    "key": "id=35",
+    "field": "etymology",
+    "before": "executive 经法语 exécutif 来自中世纪拉丁语 executivus",
+    "after": "executive 来自中世纪拉丁语 executivus",
+    "reason": "Oxford、Etymonline 均记 executive 直接来自中世纪拉丁语，经法语一说无据"
+  },
+  {
+    "key": "id=49",
+    "field": "usage_detail",
+    "before": "表示“依恋”时接介词 to：attachment to sb/sth，不用 for 或 with。",
+    "after": "表示“依恋”时最常接介词 to：attachment to sb/sth，Oxford 也收 attachment for sb/sth。",
+    "reason": "Oxford 标注 attachment (to/for sb/sth)，原说“不用 for”错误"
+  }
+]

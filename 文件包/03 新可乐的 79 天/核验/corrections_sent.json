@@ -1,0 +1,65 @@
+[
+  {
+    "key": "n=6",
+    "field": "grammar.2.examples.1.en",
+    "before": "Her time was just two seconds short of the world record.",
+    "after": "Her final jump was just two centimetres short of the world record.",
+    "reason": "计时项目成绩越少越好，time ... short of the world record 语义别扭；改用跳远类成绩，才是地道的“距……还差”"
+  },
+  {
+    "key": "n=6",
+    "field": "grammar.2.examples.1.zh",
+    "before": "她的成绩距世界纪录只差两秒。",
+    "after": "她最后一跳的成绩距世界纪录只差两厘米。",
+    "reason": "随英文例句改动"
+  },
+  {
+    "key": "n=8",
+    "field": "grammar.0.explain",
+    "before": "动名词短语作主语也可以改用形式主语 it 后置，如 It was a wager to launch the concoction。",
+    "after": "同样的意思也可以改用形式主语 it，把真正的主语换成不定式放到句末，如 It was a wager to launch the concoction。",
+    "reason": "原句说动名词短语用 it 后置，例句却是不定式，表述与例句不符，改为准确说法"
+  },
+  {
+    "key": "n=9",
+    "field": "components.2.role",
+    "before": "表语的前置定语（名词 grassroots 作定语）",
+    "after": "表语的前置定语（grassroots 作定语，修饰 outcry）",
+    "reason": "grassroots 放在名词前时 Cambridge 等词典标为形容词，与单词精解 pos 一致，不再笼统称名词"
+  },
+  {
+    "key": "n=9",
+    "field": "structure",
+    "before": "③grassroots 是名词作前置定语，修饰 outcry，意为“基层民众的、草根的”。",
+    "after": "③grassroots 作前置定语，修饰 outcry，意为“基层民众的、草根的”；它源自名词 the grass roots（基层民众），放在名词前的这种用法，Cambridge 等词典标为形容词。",
+    "reason": "同上，补清 grassroots 的词性来历"
+  },
+  {
+    "key": "n=9",
+    "field": "grammar.0.explain",
+    "before": "但有些以 -s 结尾的名词本身就以这种形式作定语，如 sports car、savings account、grassroots movement。本句 grassroots 修饰 outcry，表示抗议来自基层民众。",
+    "after": "但有些以 -s 结尾的名词本身就以这种形式作定语，如 sports car、savings account。grassroots 原是名词 the grass roots（基层民众），常直接放在名词前作定语，如 grassroots movement，词典把这种用法标为形容词；本句 grassroots 修饰 outcry，表示抗议来自基层民众。",
+    "reason": "同上，准确交代 grassroots 的词性"
+  },
+  {
+    "key": "n=9",
+    "field": "knowledge.1.explain",
+    "before": "名词，（社会或组织中的）基层、普通民众，与领导层相对；常作定语，",
+    "after": "原为名词（the grassroots），指（社会或组织中的）基层、普通民众，与领导层相对；常放在名词前作定语，词典标为形容词，",
+    "reason": "同上"
+  },
+  {
+    "key": "n=12",
+    "field": "components.7.role",
+    "before": "keep A out of B 中的 out of B 部分；like the original's 作 packaging 的后置定语",
+    "after": "宾语补足语（介词短语，与 keep 构成 keep A out of B），其中 like the original's 作 packaging 的后置定语",
+    "reason": "成分标注空泛，补出具体成分：out of… 是 keep 的宾语补足语"
+  },
+  {
+    "key": "n=14",
+    "field": "grammar.1.explain",
+    "before": "注意 consider 一般不加 as，说 consider A (to be) B。",
+    "after": "注意 consider 更常说 consider A (to be) B，加 as 的用法较少见。",
+    "reason": "Oxford 收有 consider sb/sth as sth，说“一般不加 as”过于绝对"
+  }
+]
