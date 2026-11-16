@@ -1,0 +1,1748 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "labourers",
+   "predicate": "uncovered",
+   "object_or_complement": "a staircase",
+   "explain": "主干是 labourers uncovered a staircase，主谓宾结构。谓语 uncovered 是 uncover 的过去式，一般过去时，主动语态，叙述过去发生的具体事件；主语和宾语后面各带一个过去分词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "On 4 November 1922,",
+    "role": "时间状语（介词短语，on 引出具体日期）",
+    "zh": "1922年11月4日"
+   },
+   {
+    "text": "in the Valley of the Kings,",
+    "role": "地点状语（介词短语）",
+    "zh": "在帝王谷"
+   },
+   {
+    "text": "labourers",
+    "role": "主语",
+    "zh": "工人"
+   },
+   {
+    "text": "engaged by the archaeologist Howard Carter",
+    "role": "后置定语（过去分词短语），修饰 labourers",
+    "zh": "考古学家霍华德·卡特聘用的"
+   },
+   {
+    "text": "uncovered",
+    "role": "谓语",
+    "zh": "发掘出了"
+   },
+   {
+    "text": "a staircase",
+    "role": "宾语",
+    "zh": "一段……阶梯"
+   },
+   {
+    "text": "carved into the rock.",
+    "role": "后置定语（过去分词短语），修饰 a staircase",
+    "zh": "雕刻在岩石上面的"
+   }
+  ],
+  "structure": "①主干 labourers uncovered a staircase 是主谓宾结构。句首有两个状语，主语 labourers 直到第二个逗号之后才出现，读的时候要越过前面的时间和地点找到主语。\n②On 4 November 1922 是时间状语，in the Valley of the Kings 是地点状语，两个介词短语都用逗号与主句隔开。日期按“日、月、年”书写是英式写法，美式英语多写作 November 4, 1922。\n③主语 labourers 后面的 engaged by the archaeologist Howard Carter 是过去分词短语作后置定语（视频说明），相当于 who were engaged by the archaeologist Howard Carter，工人是“被聘用”的一方，by 引出动作的执行者。the archaeologist 与 Howard Carter 是同位关系，前者说明后者的身份。\n④宾语 a staircase 后面的 carved into the rock 同样是过去分词短语作后置定语（视频说明），相当于 which was carved into the rock，阶梯是在岩石上凿刻出来的。engaged 和 carved 都是过去分词，全句真正的谓语是中间的 uncovered。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "及物动词的过去分词短语放在名词后面作定语，表示被动或完成，与被修饰的名词构成逻辑上的动宾关系，相当于省略了“关系代词 + be”的定语从句。本句有两处：engaged by the archaeologist Howard Carter 修饰 labourers，carved into the rock 修饰 a staircase。考研长难句的常见陷阱是“名词 + -ed 形式”紧挨在一起，容易把过去分词误当成谓语：本句 labourers engaged by... 之后还有 uncovered，一个简单句只有一个谓语（并列谓语除外），所以 engaged 只能是定语。判断方法：看 -ed 形式后面有没有宾语，看句中是否另有谓语动词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The paintings stolen from the museum last year have never been recovered.",
+      "zh": "去年从博物馆被盗的画作至今下落不明。"
+     },
+     {
+      "en": "Most of the volunteers recruited by the charity had no medical training.",
+      "zh": "这家慈善机构招募的志愿者大多没有受过医学训练。"
+     }
+    ]
+   },
+   {
+    "title": "身份名词 + 人名：限制性同位语",
+    "explain": "表示身份的普通名词短语直接放在人名前，如 the archaeologist Howard Carter，前者说明后者的身份，二者是同位关系，中间不加逗号，称为限制性同位语；职业名词前常用定冠词 the。汉语直接把身份放在人名之前，译成“考古学家霍华德·卡特”。本文第2句 the boy king Tutankhamun、第6句 the best-selling novelist Marie Corelli 都是这种结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The economist John Maynard Keynes argued that governments should spend more during recessions.",
+      "zh": "经济学家约翰·梅纳德·凯恩斯主张，政府在经济衰退时应增加开支。"
+     }
+    ]
+   },
+   {
+    "title": "日期的写法与介词",
+    "explain": "具体某一天前用介词 on，如 on 4 November 1922、on 26 November；只有月份和年份时用 in，如 in March 1923。英式英语日期常按“日、月、年”书写，美式英语多按“月、日、年”书写，年份前加逗号。汉语按“年、月、日”由大到小排列，所以视频译为“1922年11月4日”。考研写作中写日期时，介词 on 和 in 不能混用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 28 June 1919, exactly five years after the assassination in Sarajevo.",
+      "zh": "该条约于1919年6月28日签署，恰好是萨拉热窝刺杀事件发生五年之后。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Valley of the Kings",
+    "explain": "帝王谷，位于埃及尼罗河西岸、卢克索对面，是古埃及新王国时期多位法老的墓葬地。专有地名中的实词首字母大写，前面带定冠词 the，视频译为“帝王谷”。"
+   },
+   {
+    "term": "Howard Carter",
+    "explain": "霍华德·卡特（1874年至1939年），英国考古学家，长期在埃及从事发掘，1922年在帝王谷发现图坦卡蒙墓。本文第18句交代他于1939年3月去世，终年64岁。视频译为“考古学家霍华德·卡特”。"
+   },
+   {
+    "term": "labourer",
+    "explain": "英式拼写，美式拼作 laborer；视频说明：尤指户外的体力劳动者，劳工，工人。本句指受雇挖掘墓葬的工人，视频译为“工人”。"
+   },
+   {
+    "term": "engage（聘用）",
+    "explain": "engage 作及物动词可表示“聘用，雇用”，如 engage a lawyer（聘请律师），比 hire、employ 更正式；be engaged in sth 表示“从事某事”，be engaged to sb 表示“与某人订婚”。本句 engaged by 是被动意义，视频译为“聘用”。"
+   },
+   {
+    "term": "uncover",
+    "explain": "un-（表示相反动作）+ cover（覆盖），字面义“揭开覆盖物”，常用义为“发现，发掘”（如考古发掘）和“揭露（秘密、阴谋）”，如 uncover a plot。视频译为“发掘出了”。"
+   },
+   {
+    "term": "carve into",
+    "explain": "视频说明：carved into the rock 指文字、图案或符号被雕刻在石头表面并留下刻痕。carve 意为“雕刻，切割”，into 表示刻入的材料或表面；本句视频译为“雕刻在岩石上面的”。"
+   }
+  ],
+  "translation_tip": "视频译文“1922年11月4日，在帝王谷，考古学家霍华德·卡特聘用的工人，发掘出了一段雕刻在岩石上面的阶梯。”做了这几处处理：①日期按汉语“年、月、日”顺序译出，两个状语保留在句首，与原文语序一致。②过去分词短语 engaged by the archaeologist Howard Carter 前置为“考古学家霍华德·卡特聘用的”，主语较长，译文在“工人”后加逗号断开，便于朗读。③被动意义的 engaged by 译成“……聘用的”，汉语定语里不必出现“被”字。④carved into the rock 前置为“雕刻在岩石上面的”，增补“上面”表示位置；不定冠词 a 译成量词“一段”，与“阶梯”相配。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Carter",
+   "predicate": "made … and glimpsed",
+   "object_or_complement": "a small hole（made 的宾语）；the glittering gold of the boy king Tutankhamun（glimpsed 的宾语）",
+   "explain": "主干是一个主语带两个由 and 连接的并列谓语：Carter made a small hole 与 (Carter) glimpsed the glittering gold，都是主谓宾结构。两个谓语都是一般过去时、主动语态，按动作先后排列：先开孔，后瞥见。"
+  },
+  "components": [
+   {
+    "text": "On 26 November,",
+    "role": "时间状语（介词短语）",
+    "zh": "11月26日"
+   },
+   {
+    "text": "with his wealthy sponsor Lord Carnarvon beside him,",
+    "role": "伴随状语（with 复合结构：with + 宾语 + 介词短语作宾补）",
+    "zh": "在他那富有的赞助人卡纳冯勋爵的陪同下"
+   },
+   {
+    "text": "Carter",
+    "role": "主语",
+    "zh": "卡特"
+   },
+   {
+    "text": "made",
+    "role": "谓语（并列谓语之一）",
+    "zh": "开了"
+   },
+   {
+    "text": "a small hole",
+    "role": "宾语",
+    "zh": "一个小孔"
+   },
+   {
+    "text": "in the sealed doorway",
+    "role": "地点状语（介词短语，说明开孔的位置）",
+    "zh": "在封住的门道上"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个谓语",
+    "zh": "并"
+   },
+   {
+    "text": "glimpsed",
+    "role": "谓语（并列谓语之二）",
+    "zh": "瞥见了"
+   },
+   {
+    "text": "the glittering gold",
+    "role": "宾语",
+    "zh": "闪闪发光的黄金"
+   },
+   {
+    "text": "of the boy king Tutankhamun.",
+    "role": "后置定语（介词短语），修饰 the glittering gold",
+    "zh": "少年国王图坦卡蒙"
+   }
+  ],
+  "structure": "①主句是 Carter made a small hole in the sealed doorway and glimpsed the glittering gold of the boy king Tutankhamun：主语 Carter 带两个由 and 连接的并列谓语 made 和 glimpsed，各带宾语；in the sealed doorway 作地点状语，说明小孔开在哪里。\n②句首 On 26 November 是时间状语，没有写年份，承接上句的1922年。\n③with his wealthy sponsor Lord Carnarvon beside him 是 with 复合结构，作伴随状语（视频说明）：with 的宾语是 his wealthy sponsor Lord Carnarvon，介词短语 beside him 作宾语补足语，说明宾语所处的位置。his wealthy sponsor 与 Lord Carnarvon 是同位关系；his 和 him 都指 Carter。\n④宾语 the glittering gold of the boy king Tutankhamun 中，glittering 作前置定语；of the boy king Tutankhamun 是后置定语，说明黄金的归属；the boy king 与 Tutankhamun 同位，说明图坦卡蒙是一位少年国王。sealed 是过去分词作前置定语，表示门道处于“被封住”的状态。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with 复合结构作伴随状语",
+    "explain": "with 复合结构的形式是 with + 宾语 + 宾语补足语，宾补可以是形容词、副词、介词短语、现在分词、过去分词或不定式，如 with the window open、with his hands in his pockets、with the work finished。它常作伴随、原因或条件状语，描写主句动作发生时的背景或状态；with 的宾语与宾补之间有逻辑上的主谓关系。本句 with + his wealthy sponsor Lord Carnarvon + beside him，宾补是介词短语 beside him，逻辑上相当于 Lord Carnarvon was beside him，视频译为“在……的陪同下”。考研阅读中要能识别这一结构，写作中可以用它把两个分句压缩成一句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "With her daughter beside her, the senator announced her retirement.",
+      "zh": "这位参议员在女儿的陪伴下宣布退休。"
+     },
+     {
+      "en": "He fell asleep with the television still on.",
+      "zh": "他睡着了，电视还开着。"
+     }
+    ]
+   },
+   {
+    "title": "一个主语带并列谓语",
+    "explain": "一个主语可以带两个或多个谓语，谓语之间用 and、or、but 等并列连词连接，后一个谓语前不再重复主语。本句 Carter made... and glimpsed...，两个动作先后发生。读长句时，看到 and 后面紧跟动词（glimpsed），就要回头找它的主语 Carter，不要误以为它与前面的 doorway 有关。视频把 and 译为“并”，体现两个动作的承接。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The researchers collected samples from the lake and analysed them in the laboratory.",
+      "zh": "研究人员从湖中采集了样本，并在实验室里进行了分析。"
+     }
+    ]
+   },
+   {
+    "title": "单个分词作前置定语：sealed 与 glittering",
+    "explain": "单个分词作定语一般放在名词之前。过去分词表示被动或完成，sealed doorway 指“被封住的门道”；现在分词表示主动或正在进行，glittering gold 指“闪闪发光的黄金”，glittering 已作为形容词收入词典。区分规律：被修饰的名词是动作的承受者用过去分词，是动作的发出者用现在分词，如 a boring lecture（令人厌倦的讲座）与 a bored audience（感到厌倦的听众），这是考研完形和写作的常考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When the police arrived, they found a broken window and a ringing alarm.",
+      "zh": "警察到达时，发现一扇窗户被打破，警报器响个不停。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Lord Carnarvon",
+    "explain": "第五代卡纳冯伯爵（George Herbert, 5th Earl of Carnarvon），英国贵族，出资支持卡特在帝王谷的发掘。Lord 是对英国贵族的称呼，后接爵位名，视频译为“卡纳冯勋爵”。"
+   },
+   {
+    "term": "Tutankhamun",
+    "explain": "图坦卡蒙，古埃及第十八王朝的法老，少年时即位，年纪很轻就去世，所以文中称 the boy king（少年国王），视频译为“少年国王图坦卡蒙”。"
+   },
+   {
+    "term": "sponsor",
+    "explain": "赞助人，资助者，指出钱支持某项活动的人或机构；也可作动词“赞助”。本句指出资支持发掘的卡纳冯，视频译为“赞助人”；第18句改用 patron（资助人）指同一个人。"
+   },
+   {
+    "term": "glimpse",
+    "explain": "动词“瞥见，短暂地看到”；也可作名词，catch a glimpse of sth（瞥见某物）。卡特只是透过小孔匆匆看到墓中的情形，视频译为“瞥见了”。"
+   },
+   {
+    "term": "make a hole in sth",
+    "explain": "在某物上开孔、打洞。本句 made a small hole in the sealed doorway，视频译为“在封住的门道上开了一个小孔”。"
+   }
+  ],
+  "translation_tip": "视频译文“11月26日，在他那富有的赞助人卡纳冯勋爵的陪同下，卡特在封住的门道上开了一个小孔，并瞥见了少年国王图坦卡蒙闪闪发光的黄金。”的处理：①with 复合结构译为“在……的陪同下”，把 beside him 意译为“陪同”，比直译“在他身旁”更通顺；his 译为“他那”，带出描写语气。②同位结构 his wealthy sponsor Lord Carnarvon 合译，身份在前、人名在后。③地点状语 in the sealed doorway 提到谓语前，译为“在封住的门道上”，符合汉语状语前置的习惯。④两个并列谓语用“并”连接；of 短语前置，领属成分“少年国王图坦卡蒙”在前，描写性定语“闪闪发光的”紧贴中心词“黄金”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The spectacular find",
+   "predicate": "riveted",
+   "object_or_complement": "the world",
+   "explain": "主谓宾结构。谓语 riveted 为一般过去时、主动语态；rivet 在此是及物动词，意为“牢牢吸引（注意力）”。主语中的 find 是名词，意为“发现”。"
+  },
+  "components": [
+   {
+    "text": "The spectacular find",
+    "role": "主语（find 在此是名词，spectacular 作前置定语）",
+    "zh": "这一惊人的/壮观的发现"
+   },
+   {
+    "text": "riveted",
+    "role": "谓语",
+    "zh": "牢牢吸引了……注意力"
+   },
+   {
+    "text": "the world.",
+    "role": "宾语（借指全世界的人）",
+    "zh": "全世界"
+   }
+  ],
+  "structure": "①全句是简单句，主谓宾齐全：The spectacular find（主语）riveted（谓语）the world（宾语）。\n②主语中的 find 不是动词，而是名词，指“发现，发现的东西”，前有定冠词 The 和形容词 spectacular 修饰，回指前两句发现的阶梯、墓门和黄金。\n③rivet 原指铆钉、用铆钉固定，这里用比喻义：把人的注意力像铆钉一样牢牢固定住。宾语 the world 借指全世界的人。\n④本句是第一段的总结句，用一句话交代这次发现的影响。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "无灵主语句",
+    "explain": "英语常用表示事物、抽象概念的名词作主语，搭配通常由人发出的动作或心理动词，称为无灵主语句，如 The news shocked everyone。本句主语 The spectacular find 是物，谓语 riveted 表示吸引人的注意力，宾语 the world 指全世界的人。汉语更习惯把动作的意思说完整，翻译时常要调整：本句保留“发现”作主语，把 rivet 的含义展开为“牢牢吸引了……注意力”。考研翻译中遇到无灵主语句，要检查译文是否符合汉语习惯，必要时增补成分或转换主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The sudden rise in prices alarmed consumers across the country.",
+      "zh": "价格的突然上涨让全国的消费者惊慌不安。"
+     },
+     {
+      "en": "The report's findings surprised even its authors.",
+      "zh": "这份报告的结论连作者本人都感到意外。"
+     }
+    ]
+   },
+   {
+    "title": "find 作名词：动词与名词同形",
+    "explain": "find 作名词表示“发现，发现物”，常指考古发现或有价值的意外收获，如 an archaeological find（考古发现）、a rare find（难得的发现）。英语中不少动词可以不变词形直接用作名词，如 find、catch、release、cut。判断词性要看位置：本句 find 前面有冠词 The 和形容词 spectacular，后面紧接谓语 riveted，只能是名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bronze helmet was the most important find of the whole excavation.",
+      "zh": "这顶青铜头盔是整个发掘工作中最重要的发现。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "spectacular",
+    "explain": "形容词，“壮观的，惊人的”，形容场面宏大或成就、变化引人注目，如 a spectacular view（壮观的景色）、a spectacular success（惊人的成功）。视频并列给出“惊人的/壮观的”两种译法。"
+   },
+   {
+    "term": "rivet",
+    "explain": "名词指铆钉，动词指用铆钉固定；比喻义为“牢牢吸引（注意力）”，常用被动 be riveted by sth 或 be riveted on/to sth（目光等被吸引住），形容词 riveting 意为“引人入胜的”。视频译为“牢牢吸引了……注意力”。"
+   },
+   {
+    "term": "the world",
+    "explain": "the world 可借指全世界的人，如 The world was watching（全世界都在关注）。视频译为“全世界”。"
+   }
+  ],
+  "translation_tip": "视频译文“这一惊人的/壮观的发现，牢牢吸引了全世界的注意力。”的处理：①定冠词 The 译为“这一”，回指前文的发现。②动词 riveted 含义浓缩，译文增补宾语中心词“注意力”，展开为“牢牢吸引了……注意力”，“牢牢”体现 rivet 的“铆住”本义。③the world 译为“全世界”，作“注意力”的定语。④主语后加逗号，给主语留出停顿。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Carnarvon",
+   "predicate": "sold",
+   "object_or_complement": "exclusive rights",
+   "explain": "主干是 Carnarvon sold exclusive rights，主谓宾结构，to The Times 引出出售的对象（sell sth to sb）。谓语 sold 是 sell 的过去式，一般过去时，主动语态。逗号后的 a monopoly that... 是同位语，不属于主干。"
+  },
+  "components": [
+   {
+    "text": "Carnarvon",
+    "role": "主语",
+    "zh": "卡纳冯"
+   },
+   {
+    "text": "sold",
+    "role": "谓语",
+    "zh": "卖给了"
+   },
+   {
+    "text": "exclusive rights",
+    "role": "宾语",
+    "zh": "独家的新闻报道权"
+   },
+   {
+    "text": "to The Times,",
+    "role": "状语（介词短语，引出买方）",
+    "zh": "《泰晤士报》"
+   },
+   {
+    "text": "a monopoly",
+    "role": "同位语，概括前面的独家协议",
+    "zh": "这种垄断"
+   },
+   {
+    "text": "that left competing reporters starved of news.",
+    "role": "限制性定语从句，修饰 a monopoly",
+    "zh": "让相互竞争的其他记者严重缺少新闻"
+   }
+  ],
+  "structure": "①主句 Carnarvon sold exclusive rights to The Times 是主谓宾结构，sell sth to sb 表示“把某物卖给某人”，to The Times 引出买方。\n②逗号后的 a monopoly 是同位语，概括前面的独家协议（视频说明），即用一个名词总结前面整个分句所说的事：独家权只卖给一家报纸，就形成了一种垄断。\n③that left competing reporters starved of news 是限制性定语从句，修饰 a monopoly。that 在从句中作主语，从句谓语 left 用一般过去时；competing reporters 是 left 的宾语，过去分词短语 starved of news 是宾语补足语。\n④leave sb starved of sth 意为“让某人严重缺少某物”（视频说明）。competing 作前置定语，指与《泰晤士报》竞争的其他报社的记者。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语，概括前面整个分句",
+    "explain": "同位语一般解释紧挨在前面的某个名词，但也可以放在句末，用一个名词短语总结前面整个分句的内容，常见形式是“分句, a/an + 名词 + 定语（从句）”。本句 a monopoly that... 并不是解释 The Times，而是概括“卡纳冯把独家权卖给《泰晤士报》”这件事（视频说明：同位语，概括前面的独家协议）。这种结构多见于外刊，用来对前面的事实定性或评价，考研阅读中常体现作者态度；翻译时一般独立成分句，用“这种……”“这一……”起头。第15句的 a margin not statistically significant 也是这一用法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its workforce by half, a decision that angered the unions.",
+      "zh": "公司裁员一半，这一决定激怒了工会。"
+     },
+     {
+      "en": "Prices rose by 9 percent last year, an increase not seen in decades.",
+      "zh": "去年物价上涨了9%，这样的涨幅几十年来从未有过。"
+     }
+    ]
+   },
+   {
+    "title": "leave + 宾语 + 宾语补足语",
+    "explain": "leave 意为“使处于某种状态”时，后接宾语和宾语补足语，宾补可以是形容词、过去分词、现在分词或介词短语，如 leave the door open、leave sb puzzled、leave sb waiting、leave sb in debt。宾补用过去分词表示宾语处于被动状态：本句 left competing reporters starved of news，记者处于“被断了新闻来源”的状态，be starved of sth 意为“严重缺少某物”。第19句 had left him conspicuously unharmed 是同一结构，宾补为形容词 unharmed。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The sudden announcement left employees confused about their future.",
+      "zh": "这个突如其来的消息让员工们对自己的前途感到困惑。"
+     },
+     {
+      "en": "Years of underinvestment have left many rural schools short of teachers.",
+      "zh": "多年投入不足，使许多农村学校缺少教师。"
+     }
+    ]
+   },
+   {
+    "title": "that 引导限制性定语从句并在从句中作主语",
+    "explain": "关系代词 that 可以指物或人，在定语从句中作主语或宾语；作主语时不能省略。本句 that 指先行词 a monopoly，在从句中作主语；关系代词作主语时，从句谓语的单复数要与先行词一致，本句 left 是过去式，形式上看不出单复数变化。判断 that 从句是定语从句还是同位语从句：that 在从句中充当成分的是定语从句，不充当成分、只起连接作用的是同位语从句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Scientists have developed a vaccine that protects against several strains of the virus.",
+      "zh": "科学家研制出一种疫苗，能预防这种病毒的多个毒株。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "The Times",
+    "explain": "英国伦敦出版的全国性日报，中文通译《泰晤士报》。报名中的 The 是专有名称的一部分，要大写。"
+   },
+   {
+    "term": "exclusive rights",
+    "explain": "独家权利，专有权，指只授予一方的权利；本句指独家新闻报道权，视频译为“独家的新闻报道权”。exclusive 还可作名词，指“独家新闻”，如 a newspaper exclusive。"
+   },
+   {
+    "term": "monopoly",
+    "explain": "垄断，专营权；have a monopoly on/of sth 指对某事物享有垄断。本句指一家报纸独占发掘消息的局面，视频译为“垄断”。"
+   },
+   {
+    "term": "competing",
+    "explain": "形容词，“相互竞争的”，如 competing firms（相互竞争的公司）；也可指“相互冲突的”，如 competing demands（相互冲突的要求）。视频译为“相互竞争的”。"
+   },
+   {
+    "term": "be starved of sth",
+    "explain": "严重缺少某物，如 be starved of funds（极度缺乏资金）、be starved of attention（得不到关注）；starve 原义为“挨饿，使挨饿”。视频译为“严重缺少”。"
+   }
+  ],
+  "translation_tip": "视频译文“卡纳冯将独家的新闻报道权卖给了《泰晤士报》，这种垄断让相互竞争的其他记者严重缺少新闻。”的处理：①用“将”字句把宾语提到动词前，“将……卖给了”使“卖给”与买方紧挨。②rights 根据语境增补为“新闻报道权”，说明卖的是什么权利。③同位语 a monopoly 独立成分句，用“这种垄断”起头，承接上文。④定语从句 that left... 不前置，而让先行词“垄断”直接作新分句的主语，left... starved of 译为“让……严重缺少”；competing reporters 增补“其他”，译为“相互竞争的其他记者”，点明是《泰晤士报》以外的记者。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Many",
+   "predicate": "resorted to … or sought",
+   "object_or_complement": "speculation（resorted to 的宾语）；outside commentators（sought 的宾语）",
+   "explain": "一个主语带两个由 or 连接的并列谓语：Many resorted to speculation 与 (many) sought outside commentators，都是主谓宾结构。谓语为一般过去时、主动语态；sought 是 seek 的过去式。"
+  },
+  "components": [
+   {
+    "text": "Many",
+    "role": "主语（代词，指上句的 competing reporters）",
+    "zh": "许多人"
+   },
+   {
+    "text": "resorted to",
+    "role": "谓语（并列谓语之一，短语动词）",
+    "zh": "（只能）诉诸于"
+   },
+   {
+    "text": "speculation",
+    "role": "宾语（介词 to 的宾语）",
+    "zh": "猜测"
+   },
+   {
+    "text": "or",
+    "role": "并列连词，连接两个谓语",
+    "zh": "或者是"
+   },
+   {
+    "text": "sought",
+    "role": "谓语（并列谓语之二）",
+    "zh": "找"
+   },
+   {
+    "text": "outside commentators.",
+    "role": "宾语（outside 作前置定语）",
+    "zh": "外界的评论员"
+   }
+  ],
+  "structure": "①主语 Many 是代词，相当于 many of them，指上句提到的 competing reporters（相互竞争的记者），视频译为“许多人”。\n②两个并列谓语由 or 连接：resorted to speculation（诉诸猜测）和 sought outside commentators（找外界的评论员），or 表示记者们采取的是这两种办法之一。\n③resort to 中的 to 是介词，后接名词 speculation；sought 的宾语是 outside commentators，outside 是形容词，表示“外界的，局外的”。\n④本句与上句构成因果关系：上句说其他记者严重缺少新闻，本句说他们只好另找材料，为下文玛丽·科雷利的警告作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "resort to 中的 to 是介词",
+    "explain": "resort to 意为“（不得已而）采用，诉诸于”（视频说明），to 是介词，后面接名词、代词或动名词，不能接动词原形，如 resort to violence、resort to borrowing money。同类的介词 to 结构还有 look forward to、object to、be used to、be devoted to、when it comes to，是考研完形和写作的高频易错点。本句 resorted to speculation 后接名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government may have to resort to rationing if the drought continues.",
+      "zh": "如果干旱持续，政府可能不得不实行配给制。"
+     },
+     {
+      "en": "Some patients resort to taking painkillers every day rather than seeing a doctor.",
+      "zh": "一些病人宁可天天吃止痛药，也不去看医生。"
+     }
+    ]
+   },
+   {
+    "title": "many 作代词，指代前文的名词",
+    "explain": "many、some、few、several 等词可以单独作代词，指代前文出现过的复数名词，相当于 many of them。本句 Many 指上句的 competing reporters，所以视频译为“许多人”。作主语时谓语用复数。考研阅读中，这类代词所指的对象常是细节题的考点，要回到前文找准。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Thousands of fans waited outside the stadium; many had travelled overnight.",
+      "zh": "数千名球迷在体育场外等候，许多人是连夜赶来的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "speculation",
+    "explain": "猜测，推测（尤指缺乏事实依据的），如 pure speculation（纯属猜测）、speculation about/over sth（对某事的猜测）；另有“投机”义，如 property speculation（房地产投机）。视频译为“猜测”。"
+   },
+   {
+    "term": "seek (sought, sought)",
+    "explain": "不规则动词，过去式和过去分词都是 sought，意为“寻找，寻求”，比 look for 正式，如 seek advice（征求意见）、seek help（寻求帮助）。本句 sought outside commentators 指向外界的评论员求助，视频译为“找”。"
+   },
+   {
+    "term": "commentator",
+    "explain": "评论员，评论家；也指体育赛事的解说员，如 a sports commentator。相关词有 comment（评论）、commentary（评论，解说）。视频译为“评论员”。"
+   },
+   {
+    "term": "outside（adj.）",
+    "explain": "形容词，“外部的，外界的，局外的”，如 outside help（外部援助）、outside experts（外部专家）。视频译为“外界的”。"
+   }
+  ],
+  "translation_tip": "视频译文“许多人（只能）诉诸于猜测，或者是找外界的评论员。”的处理：①代词 Many 增补为“许多人”。②括号中的“只能”点出 resort to 所含的“不得已”意味，与上句“严重缺少新闻”构成因果。③or 连接的两个谓语之间用逗号断开，译为“……，或者是……”。④outside 作定语，译为“外界的”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "the best-selling novelist Marie Corelli",
+   "predicate": "warned",
+   "object_or_complement": "that dire punishment awaited anyone who entered a sealed tomb",
+   "explain": "主谓宾结构，宾语是 that 引导的宾语从句（视频说明），publicly 作方式状语修饰 warned。谓语 warned 为一般过去时、主动语态。"
+  },
+  "components": [
+   {
+    "text": "In March 1923",
+    "role": "时间状语（介词短语）",
+    "zh": "1923年3月"
+   },
+   {
+    "text": "the best-selling novelist Marie Corelli",
+    "role": "主语（the best-selling novelist 与 Marie Corelli 是同位关系）",
+    "zh": "畅销小说家玛丽·科雷利"
+   },
+   {
+    "text": "warned",
+    "role": "谓语",
+    "zh": "警告"
+   },
+   {
+    "text": "publicly",
+    "role": "方式状语（副词），修饰 warned",
+    "zh": "公开"
+   },
+   {
+    "text": "that dire punishment awaited anyone",
+    "role": "宾语从句（that 引导，作 warned 的宾语；从句一直延续到句末，后面的 who 从句也在宾语从句之内）",
+    "zh": "极其严重的惩罚等待着任何……人"
+   },
+   {
+    "text": "who entered a sealed tomb.",
+    "role": "限制性定语从句，修饰 anyone",
+    "zh": "进入封闭陵墓的"
+   }
+  ],
+  "structure": "①主句 the best-selling novelist Marie Corelli warned publicly that... 是主谓宾结构。In March 1923 是时间状语，较短，后面没有用逗号隔开。主语中 the best-selling novelist 与 Marie Corelli 是同位关系。\n②warned 后接 that 引导的宾语从句（视频说明），副词 publicly 夹在谓语和宾语从句之间，修饰 warned。that 在宾语从句中不充当成分，只起引导作用。\n③宾语从句内部是主谓宾结构：主语 dire punishment，谓语 awaited（一般过去时，与主句的过去时呼应），宾语 anyone。\n④who entered a sealed tomb 是限制性定语从句，修饰 anyone（视频说明），who 在从句中作主语，entered 的宾语是 a sealed tomb，sealed 是过去分词作前置定语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导宾语从句与时态呼应",
+    "explain": "warn、say、report、claim 等动词后可接 that 引导的宾语从句，转述他人的话。主句谓语是过去时，宾语从句一般也用相应的过去时态，称为时态呼应：本句 warned 是过去时，从句中的 awaited、entered 都用一般过去时。从句表达客观真理时可以不变。副词 publicly 放在 warned 之后、that 之前，修饰的是“警告”这一动作，而不是从句内容。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister warned that further cuts would be needed next year.",
+      "zh": "部长警告说，明年还需要进一步削减开支。"
+     },
+     {
+      "en": "Doctors told her that the operation had been a success.",
+      "zh": "医生告诉她，手术很成功。"
+     }
+    ]
+   },
+   {
+    "title": "anyone who 引导的定语从句",
+    "explain": "anyone、everyone、someone、those 等常作先行词，后接 who 引导的限制性定语从句，表示“凡是……的人”，如 anyone who breaks the rules（任何违反规定的人）。关系代词 who 在从句中作主语。同样的意思也可以用 whoever 引导的名词性从句表达：awaited anyone who entered = awaited whoever entered。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Anyone who wishes to attend the lecture must register in advance.",
+      "zh": "凡是想听这场讲座的人都必须提前登记。"
+     }
+    ]
+   },
+   {
+    "title": "await 的及物用法",
+    "explain": "await 是及物动词，直接接宾语，意为“等待；（事情）即将降临到某人身上”，比 wait for 正式，不能说 await for。本句主语是 dire punishment，表示惩罚在“等着”闯入陵墓的人，是拟人化的说法，视频译为“等待着”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A difficult winter awaits the families who lost their homes in the flood.",
+      "zh": "等待那些在洪水中失去家园的家庭的，将是一个艰难的冬天。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Marie Corelli",
+    "explain": "玛丽·科雷利（1855年至1924年），英国小说家，她的小说在当时非常畅销，所以文中称 the best-selling novelist。她发出警告时卡纳冯尚在人世，不到两周卡纳冯就去世了（第7句、第10句）。"
+   },
+   {
+    "term": "best-selling",
+    "explain": "形容词，“畅销的”，如 a best-selling novel（畅销小说）、a best-selling author（畅销书作家）；名词 bestseller 指畅销书或畅销作家。视频译为“畅销”。"
+   },
+   {
+    "term": "dire",
+    "explain": "视频说明：情况、后果或处境极其严重，糟糕到令人担忧，通常还带有强烈的紧迫感。常见搭配 dire consequences（可怕的后果）、be in dire need of sth（急需某物）、dire warnings（严重警告）。视频译为“极其严重的”。"
+   },
+   {
+    "term": "sealed tomb",
+    "explain": "sealed 是过去分词作前置定语，表示被封住的；sealed tomb 即封闭的陵墓，视频译为“封闭陵墓”。tomb 词尾的 b 不发音。"
+   }
+  ],
+  "translation_tip": "视频译文“1923年3月，畅销小说家玛丽·科雷利公开警告，极其严重的惩罚等待着任何进入封闭陵墓的人。”的处理：①同位结构 the best-selling novelist Marie Corelli 合译为“畅销小说家玛丽·科雷利”，身份在前。②warned publicly 译为“公开警告”，副词前置。③引导词 that 不译，在“警告”后用逗号引出从句内容。④定语从句 who entered a sealed tomb 前置为“进入封闭陵墓的”，anyone 拆成“任何……的人”；awaited 译为“等待着”，“着”字表现惩罚在等着闯入者。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "her words",
+   "predicate": "would seem",
+   "object_or_complement": "uncanny",
+   "explain": "主系表结构，seem 是系动词，形容词 uncanny 作表语。would seem 是过去将来时，从1923年3月看之后发生的事（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "Within a fortnight,",
+    "role": "时间状语（介词短语，within + 时间段）",
+    "zh": "两周之内"
+   },
+   {
+    "text": "her words",
+    "role": "主语",
+    "zh": "她的话"
+   },
+   {
+    "text": "would seem",
+    "role": "谓语（would + 系动词 seem，过去将来时）",
+    "zh": "就会显得"
+   },
+   {
+    "text": "uncanny.",
+    "role": "表语（形容词）",
+    "zh": "诡异而又邪门"
+   }
+  ],
+  "structure": "①全句是主系表结构：her words（主语）would seem（系动词，过去将来时）uncanny（表语）。her words 指上句玛丽·科雷利的警告。\n②Within a fortnight 是时间状语，within + 时间段 表示“在……（时间）之内”，通常指不超过这个期限（视频说明）。两周从上句科雷利发出警告时算起。\n③would 表示过去将来（视频说明）：叙述立足于1923年3月，从那时往后看，不到两周就会发生的事。作者没有直接说发生了什么，先用 would seem uncanny 制造悬念，下一段才交代卡纳冯之死。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "would 表示过去将来",
+    "explain": "would + 动词原形可以表示从过去某一时间看将要发生的事，即过去将来时。叙事文章常用这种方式“预告”后来的结果，如 He would later become president（他后来成了总统）。本句的参照点是上句的1923年3月，would seem 表示“（到时候）就会显得”，不是虚拟语气，也不是推测。考研阅读中，人物传记和历史叙述里常见 would 的这种用法，不要误判为虚拟语气。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In 1905 Einstein was an obscure patent clerk; within two decades he would be famous around the world.",
+      "zh": "1905年，爱因斯坦还是一名默默无闻的专利局职员；不到二十年，他就将闻名世界。"
+     },
+     {
+      "en": "The young officer did not know that the decision would cost him his career.",
+      "zh": "这名年轻军官并不知道，这个决定会断送他的职业生涯。"
+     }
+    ]
+   },
+   {
+    "title": "within + 时间段 与 in + 时间段",
+    "explain": "within + 时间段 表示“在……之内”，强调不超过这个期限，可用于过去、现在和将来，如 within a week、within hours（视频说明：通常指“不超过这个期限”）。in + 时间段 与将来时连用时常表示“……之后”，如 I'll be back in an hour（一小时后回来）。本句 within a fortnight 说明科雷利的话不到两周就应验。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the tickets were sold within hours of going on sale.",
+      "zh": "大部分门票在开售后几个小时之内就卖完了。"
+     }
+    ]
+   },
+   {
+    "title": "seem 作系动词",
+    "explain": "seem 是系动词，后接形容词、名词或不定式作表语，如 seem strange、seem a good idea、seem to know。系动词后用形容词而不用副词，不能说 seem strangely。本句 would seem uncanny 中 uncanny 是形容词表语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan seemed reasonable at first, but its costs soon became clear.",
+      "zh": "这个计划起初看似合理，但成本问题很快就暴露出来了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fortnight",
+    "explain": "英式英语常用词，意为“两星期”，美式英语多说 two weeks。常见搭配 a fortnight's holiday（两周的假期）、once a fortnight（每两周一次）；派生词 fortnightly（每两周一次的）。视频译为“两周”。"
+   },
+   {
+    "term": "uncanny",
+    "explain": "视频说明：诡异、邪门、让人心里发毛（牛津释义：奇怪且难以解释）。常见搭配 an uncanny resemblance（惊人的相似）、an uncanny ability（不可思议的本领）。视频译为“诡异而又邪门”。"
+   },
+   {
+    "term": "words（某人说的话）",
+    "explain": "word 用复数 words 时可指某人说过的话，her words 指科雷利的警告；相关说法有 in other words（换句话说）、take sb at their word（相信某人的话）。"
+   }
+  ],
+  "translation_tip": "视频译文“两周之内，她的话就会显得诡异而又邪门。”的处理：①within a fortnight 译为“两周之内”，放在句首，与原文语序一致。②would 的过去将来意义用“就会”表达，“就”字表示时间短、来得快。③uncanny 译为“诡异而又邪门”，两个词叠加，表现出让人心里发毛的效果。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "a mosquito",
+   "predicate": "bit",
+   "object_or_complement": "Carnarvon",
+   "explain": "主谓宾结构，谓语 bit 是 bite 的过去式，一般过去时、主动语态。句首 That month 是名词短语直接作时间状语。"
+  },
+  "components": [
+   {
+    "text": "That month",
+    "role": "时间状语（名词短语直接作状语，不加介词）",
+    "zh": "当月"
+   },
+   {
+    "text": "a mosquito",
+    "role": "主语",
+    "zh": "一只蚊子"
+   },
+   {
+    "text": "bit",
+    "role": "谓语",
+    "zh": "叮了"
+   },
+   {
+    "text": "Carnarvon.",
+    "role": "宾语",
+    "zh": "卡纳冯"
+   }
+  ],
+  "structure": "①全句是主谓宾结构：a mosquito（主语）bit（谓语）Carnarvon（宾语）。\n②That month 是名词短语直接作时间状语，前面不加介词，回指上一段的1923年3月，也就是科雷利发出警告的那个月。\n③句子很短，紧接上段“两周之内她的话就会显得诡异”的悬念，开始交代事情的经过。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "限定词 + 时间名词直接作状语",
+    "explain": "时间名词前有 this、that、last、next、every、each 等限定词时，可以不用介词，直接作时间状语，如 that month、last year、next week、every morning；说 last year、next week 时不能加 in。本句 That month 回指上段的 March 1923，视频译为“当月”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "That winter the river froze solid for the first time in decades.",
+      "zh": "那年冬天，这条河几十年来第一次冻得结结实实。"
+     }
+    ]
+   },
+   {
+    "title": "bite 的不规则变化",
+    "explain": "bite 的过去式是 bit，过去分词是 bitten，如 He was bitten by a dog（他被狗咬了）。英语中蚊子、虱子等叮人也用 bite，汉语则说“叮”或“咬”，视频译为“叮了”。名词 bite 指“咬，叮；咬伤，叮咬处”，下一句的 the bite 就是这个意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several hikers were bitten by ticks during the trip.",
+      "zh": "好几名徒步者在旅途中被蜱虫咬了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mosquito",
+    "explain": "蚊子，复数 mosquitoes 或 mosquitos；常见搭配 a mosquito bite（蚊子叮的包）、a mosquito net（蚊帐）。视频译为“蚊子”。"
+   }
+  ],
+  "translation_tip": "视频译文“当月，一只蚊子叮了卡纳冯。”的处理：①That month 译为“当月”，简洁地回指1923年3月，后加逗号。②不定冠词 a 译为数量词“一只”。③bit 译为“叮了”，符合汉语描述蚊子的习惯说法，“了”表示动作已经完成。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "He（分句一）；it（分句二）；blood poisoning（分句三）",
+   "predicate": "nicked（分句一）；turned（分句二）；led to（分句三）",
+   "object_or_complement": "the bite（分句一的宾语）；septic（分句二的表语）；pneumonia（分句三的宾语）",
+   "explain": "由三个分句组成的并列句，形式是“A, B, and C”。分句一是主谓宾结构；分句二是主系表结构，turn 作系动词（视频说明）；分句三是主谓宾结构，短语动词 led to 作谓语。三个谓语都是一般过去时、主动语态，按先后和因果顺序排列。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（分句一）",
+    "zh": "他"
+   },
+   {
+    "text": "nicked",
+    "role": "谓语（分句一）",
+    "zh": "划破了"
+   },
+   {
+    "text": "the bite",
+    "role": "宾语（分句一），指被蚊子叮咬的地方",
+    "zh": "叮咬处"
+   },
+   {
+    "text": "with a razor",
+    "role": "方式状语（介词短语，表示工具）",
+    "zh": "用剃刀"
+   },
+   {
+    "text": "while shaving,",
+    "role": "时间状语（while + 现在分词，省略了 he was）",
+    "zh": "刮胡子时"
+   },
+   {
+    "text": "it",
+    "role": "主语（分句二），指 the bite",
+    "zh": "伤口"
+   },
+   {
+    "text": "turned septic,",
+    "role": "系表结构（分句二）：turned 为系动词，septic 为表语",
+    "zh": "感染化脓了"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，引出最后一个分句",
+    "zh": "继而"
+   },
+   {
+    "text": "blood poisoning",
+    "role": "主语（分句三）",
+    "zh": "血液中毒"
+   },
+   {
+    "text": "led to",
+    "role": "谓语（分句三，短语动词）",
+    "zh": "又引发了"
+   },
+   {
+    "text": "pneumonia.",
+    "role": "宾语（分句三）",
+    "zh": "肺炎"
+   }
+  ],
+  "structure": "①全句由三个并列分句构成，形式是“A, B, and C”：He nicked the bite...、it turned septic、blood poisoning led to pneumonia，依次叙述病情恶化的三个阶段。\n②分句一：主语 He，谓语 nicked，宾语 the bite（被蚊子叮咬的地方）；with a razor 说明使用的工具；while shaving 是时间状语从句的省略形式，相当于 while he was shaving（视频说明：在刮胡子时）。\n③分句二：it 指 the bite，turned 是系动词，septic 是表语，turn septic 意为“变得感染化脓”（视频说明）。\n④分句三：主语 blood poisoning（血液中毒），谓语 led to，宾语 pneumonia。lead to 表示“导致，引发”。三个分句之间没有用 because、so 等因果连词，因果关系靠先后顺序体现。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "while + 现在分词：状语从句的省略",
+    "explain": "when、while、if、though、unless 等连词引导的状语从句，如果从句主语与主句主语一致，并且从句谓语含 be 动词，可以省略从句的主语和 be，保留“连词 + 分词、形容词或介词短语”，如 while (he was) shaving、when (it is) necessary、if (it is) possible。本句 while shaving 的逻辑主语就是主句主语 He。省略的前提是主语一致，否则会造成垂悬修饰语错误，如 While walking home, it began to rain 是病句。考研写作中可以用这种结构让句子简洁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "While working in Paris, she learned to speak fluent French.",
+      "zh": "她在巴黎工作期间学会了一口流利的法语。"
+     },
+     {
+      "en": "When questioned by reporters, the minister refused to comment.",
+      "zh": "部长在被记者提问时拒绝发表评论。"
+     }
+    ]
+   },
+   {
+    "title": "turn 作系动词",
+    "explain": "turn 可以作系动词，后接形容词或名词，表示状态的变化，常带“变坏、变得与原来不同”的意味，如 turn red、turn sour、turn cold、turn professional。表示变化的系动词还有 become、get、go、grow，go 也能构成 go septic、go bad。本句 turned septic 意为“变得感染化脓”（视频说明：turn 作系动词）。系动词后接形容词，不能接副词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The leaves turn yellow and fall as the days grow shorter.",
+      "zh": "白天越来越短，树叶变黄飘落。"
+     }
+    ]
+   },
+   {
+    "title": "三个并列分句：A, B, and C",
+    "explain": "三个或以上的并列分句，常用“A, B, and C”的形式连接：前面的分句之间用逗号，最后一个分句前用 and，and 前的逗号即牛津逗号（序列逗号）。本句三个分句按时间和因果顺序排列，读者从顺序就能看出病情一步步恶化。视频把 and 译为“继而”，点明前后相承。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The storm knocked down power lines, the roads flooded, and thousands of homes lost electricity.",
+      "zh": "暴风雨刮倒了电线，道路被淹，数千户人家断了电。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "nick",
+    "explain": "动词，“在……上划出小口子”，如 nick one's finger（划破手指）；名词 nick 指小切口、刻痕，in the nick of time 意为“恰好及时，在紧要关头”。视频译为“划破了”。"
+   },
+   {
+    "term": "septic",
+    "explain": "形容词，（伤口）感染的，化脓的；go/turn septic（感染化脓）。相关词有 antiseptic（消毒剂；防腐的）、sepsis（脓毒症）。septic tank 指化粪池。"
+   },
+   {
+    "term": "blood poisoning",
+    "explain": "血液中毒，指细菌等进入血液引起的严重感染，医学上称 septicaemia（美式拼作 septicemia）。视频译为“血液中毒”。"
+   },
+   {
+    "term": "lead to",
+    "explain": "导致，引发，to 是介词，后接名词或动名词，如 lead to an increase in costs。lead 的过去式和过去分词都是 led。视频译为“引发了”，前加“又”。"
+   },
+   {
+    "term": "pneumonia",
+    "explain": "肺炎，词首的 p 不发音；catch/develop pneumonia（患上肺炎）。"
+   }
+  ],
+  "translation_tip": "视频译文“他刮胡子时用剃刀划破了叮咬处，伤口感染化脓了，继而血液中毒又引发了肺炎。”的处理：①while shaving 和 with a razor 都前移到谓语前，按汉语“时间、工具、动作”的顺序排列，译为“刮胡子时用剃刀划破了”。②the bite 译为“叮咬处”，指被蚊子叮的地方。③代词 it 不译成“它”，而是根据所指译为“伤口”，意思更清楚。④and 译为“继而”，再加“又”字，体现病情一步步加重。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "He",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主谓结构，die 是不及物动词，不带宾语；in Cairo 和 on 5 April 1923 分别作地点状语和时间状语。谓语 died 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "died",
+    "role": "谓语",
+    "zh": "去世"
+   },
+   {
+    "text": "in Cairo",
+    "role": "地点状语（介词短语）",
+    "zh": "在开罗"
+   },
+   {
+    "text": "on 5 April 1923.",
+    "role": "时间状语（介词短语，on 引出具体日期）",
+    "zh": "于1923年4月5日"
+   }
+  ],
+  "structure": "①全句是主谓结构，He（主语）died（谓语），不带宾语。\n②in Cairo 是地点状语，on 5 April 1923 是时间状语。英语句末同时有地点状语和时间状语时，一般地点在前、时间在后；汉语习惯时间在前、地点在后，并且都放在谓语之前，所以视频译为“于1923年4月5日在开罗去世”。\n③本句平铺直叙，交代卡纳冯去世的时间和地点；从第6句的1923年3月到4月5日，正应了第7句“两周之内”的预告。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "状语的排列：英语地点在前、时间在后",
+    "explain": "英语句末有多个状语时，常见顺序是“方式、地点、时间”，如 She studied hard in the library last night；时间状语也可以放到句首。汉语一般把时间、地点状语都放在谓语之前，时间在前、地点在后。本句 died in Cairo on 5 April 1923 译为“于1923年4月5日在开罗去世”，语序完全调换。考研翻译要按汉语习惯重新排列状语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The conference will be held in Geneva next spring.",
+      "zh": "会议将于明年春天在日内瓦举行。"
+     }
+    ]
+   },
+   {
+    "title": "die 的用法",
+    "explain": "die 是不及物动词，不能用于被动语态，也不能与表示一段时间的状语连用。常见搭配：die of 多接疾病、饥饿等内部原因，die from 多接外伤、事故等外部原因（实际使用中两者常可互换），die in 接地点或事故，如 die in a car crash。dead 是形容词，death 是名词：表示“去世十年了”要说 He has been dead for ten years，不能说 He has died for ten years。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Thousands of people died of cholera during the epidemic.",
+      "zh": "疫情期间，数千人死于霍乱。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Cairo",
+    "explain": "开罗，埃及首都，位于尼罗河畔。卡纳冯去世时身在开罗，下一句的 the city 就指开罗。"
+   },
+   {
+    "term": "on + 具体日期",
+    "explain": "具体某一天前用介词 on，如 on 5 April 1923；只有月份或年份时用 in，如 in March 1939。"
+   }
+  ],
+  "translation_tip": "视频译文“他于1923年4月5日在开罗去世。”的处理：①按汉语习惯把时间状语和地点状语都移到谓语前，时间在前、地点在后。②用书面语“于”引出时间，与“去世”的庄重语气相配。③日期按“年、月、日”的顺序译出。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Newspapers",
+   "predicate": "reported",
+   "object_or_complement": "that the city's lights failed at that instant and that his dog in England howled and died",
+   "explain": "主谓宾结构，宾语是由 and 连接的两个并列 that 宾语从句（视频说明）。谓语 reported 为一般过去时、主动语态。"
+  },
+  "components": [
+   {
+    "text": "Newspapers",
+    "role": "主语",
+    "zh": "报纸"
+   },
+   {
+    "text": "reported",
+    "role": "谓语",
+    "zh": "报道称"
+   },
+   {
+    "text": "that the city's lights failed at that instant",
+    "role": "宾语从句一（that 引导，作 reported 的宾语）",
+    "zh": "就在那一瞬间，全城（开罗）的灯都熄灭了"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个宾语从句",
+    "zh": "而"
+   },
+   {
+    "text": "that his dog in England howled and died.",
+    "role": "宾语从句二（that 引导，作 reported 的宾语）",
+    "zh": "他在英国的狗也嚎叫着死去了"
+   }
+  ],
+  "structure": "①主句 Newspapers reported... 是主谓宾结构，宾语是两个并列的 that 从句，由 and 连接（视频说明：两个 that 从句并列，都作 reported 的宾语）。\n②宾语从句一：主语 the city's lights，谓语 failed，at that instant 是时间状语。the city 指上句的开罗；fail 在此指灯光、电力中断；at that instant 指卡纳冯去世的那一刻。\n③宾语从句二：主语 his dog，in England 是介词短语作后置定语，修饰 dog；谓语是并列的 howled and died。his 指卡纳冯。\n④第二个 that 保留，清楚地表明“狗嚎叫而死”也是报纸报道的内容。本句用 reported 转述，作者并没有确认这两件事，下一句就用 Yet 加以反驳。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列宾语从句中的 that",
+    "explain": "动词后接两个或以上由 and、but、or 连接的宾语从句时，第一个 that 在非正式语体中有时可以省略，后面的 that 一般不省略，否则不易看出后面的分句也是宾语。本句 reported that... and that...，两个 that 都保留，清楚地表明“灯灭”和“狗死”都是报纸报道的内容。考研阅读中要注意这类转述结构：报道的内容不等于作者认可的事实，本句之后作者紧接着用 Yet 反驳。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The survey found that most students worked part-time and that many struggled to pay their rent.",
+      "zh": "调查发现，大多数学生在做兼职，许多人还难以支付房租。"
+     },
+     {
+      "en": "She explained that the train had been cancelled and that the next one would leave at noon.",
+      "zh": "她解释说，那趟火车已经取消，下一趟中午发车。"
+     }
+    ]
+   },
+   {
+    "title": "fail 的熟词僻义",
+    "explain": "fail 除“失败，不及格”外，还可指机器、器官、电力等出故障、停止运转，如 The brakes failed（刹车失灵了）、The power failed（停电了）、heart failure（心力衰竭）；指庄稼时表示歉收，如 The crops failed。本句 the city's lights failed 指城里的灯熄灭了，视频译为“熄灭了”。考研阅读中 fail 的这些义项常作为熟词僻义考查。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Both engines failed shortly after take-off, and the pilot had to land in a field.",
+      "zh": "起飞后不久两台发动机都失灵了，飞行员只得在一片田野里迫降。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语 howled and died",
+    "explain": "两个动词由 and 连接作并列谓语，共用一个主语 his dog。英语按先后顺序并列两个动作，汉语可以把前一个动作处理成后一个动作的方式或伴随状态：视频把 howled and died 译为“嚎叫着死去了”，用“着”把“嚎叫”变成“死去”的伴随方式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The old man smiled and waved as the train pulled away.",
+      "zh": "火车开动时，老人笑着挥手。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "at that instant",
+    "explain": "在那一瞬间，就在那时；instant 作名词指“瞬间，片刻”，常见 for an instant（片刻）、the instant (that)...（一……就……，相当于 as soon as）。视频译为“在那一瞬间”。"
+   },
+   {
+    "term": "howl",
+    "explain": "动词，（狗、狼等）嚎叫；（风）呼啸，如 The wind howled all night；（人）因痛苦、愤怒而号叫。名词 howl 指嚎叫声。视频译为“嚎叫”。"
+   },
+   {
+    "term": "the city's lights",
+    "explain": "the city 回指上句的开罗，视频用括号增补“（开罗）”加以说明。名词所有格 's 也可用于城市、国家等表示地点的名词，如 the city's lights、the country's economy。"
+   }
+  ],
+  "translation_tip": "视频译文“报纸报道称，就在那一瞬间，全城（开罗）的灯都熄灭了，而他在英国的狗也嚎叫着死去了。”的处理：①reported 译为“报道称”，带出转述语气。②时间状语 at that instant 提到从句开头，译为“就在那一瞬间”，“就”强调时间上的巧合。③the city 增补为“全城（开罗）”，再加“都”字，突出范围。④两个宾语从句之间的 and 译为“而”，后一分句加“也”字承接；并列谓语 howled and died 译为“嚎叫着死去了”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "blackouts",
+   "predicate": "were",
+   "object_or_complement": "almost a daily occurrence",
+   "explain": "主系表结构，were 是系动词，名词短语 almost a daily occurrence 作表语，in Cairo 是地点状语。谓语为一般过去时，陈述当时开罗的情况。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "转折连词（句首，承接上句）",
+    "zh": "然而"
+   },
+   {
+    "text": "blackouts",
+    "role": "主语",
+    "zh": "停电"
+   },
+   {
+    "text": "were",
+    "role": "系动词（谓语）",
+    "zh": "是"
+   },
+   {
+    "text": "almost a daily occurrence",
+    "role": "表语（名词短语，almost 修饰整个名词短语）",
+    "zh": "几乎……天天都有的事情"
+   },
+   {
+    "text": "in Cairo.",
+    "role": "地点状语（介词短语）",
+    "zh": "在当时的开罗"
+   }
+  ],
+  "structure": "①全句是主系表结构：blackouts（主语）were（系动词）almost a daily occurrence（表语），in Cairo 是地点状语。\n②句首 Yet 表示转折，与上句报纸的说法形成对照：开罗灯灭被渲染成卡纳冯之死的异兆，但停电在开罗本是常事，这个巧合并不稀奇。\n③表语中 daily 是形容词，意为“每天的”，作 occurrence 的定语；almost 修饰整个名词短语 a daily occurrence，表示“差不多是”。\n④were 用一般过去时，指当时的情况，所以视频增补“当时的”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "yet 表示转折",
+    "explain": "yet 作连词或连接副词，意为“然而，但是”，语气比 but 稍正式，可以放在句首，也可以与 and 连用（and yet）。作副词时还表示“还，仍”，多用于否定句和疑问句，如 not yet。本句 Yet 位于句首，引出与上句相反的事实。考研阅读中，yet、however、but 之后的内容往往是作者真正的观点，是解题的关键信号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked perfect on paper. Yet it failed within months.",
+      "zh": "这个计划在纸面上看起来完美无缺，然而几个月内就失败了。"
+     }
+    ]
+   },
+   {
+    "title": "almost 修饰名词短语",
+    "explain": "almost 一般修饰形容词、副词、动词或数词，也可以修饰带不定冠词的名词短语或 all、every、no 等构成的短语，如 almost a disaster、almost everyone、almost no time。本句 almost a daily occurrence 意为“几乎是天天都有的事情”。almost 不能直接修饰普通名词，不能说 almost students，要说 almost all students。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The meeting was almost a disaster: half the speakers failed to turn up.",
+      "zh": "这次会议差点成了一场灾难：一半发言人都没到场。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "blackout",
+    "explain": "停电，尤指大面积停电，如 a power blackout；另有“暂时昏厥，失去知觉”“（战时）灯火管制”“（新闻）封锁”等义，如 a news blackout。视频译为“停电”。"
+   },
+   {
+    "term": "occurrence",
+    "explain": "名词，“发生的事情”或“发生”，如 a common/rare occurrence（常见/罕见的事）、a daily occurrence（天天发生的事）。动词 occur 变名词时双写 r。视频译为“事情”。"
+   },
+   {
+    "term": "daily",
+    "explain": "形容词，“每天的，日常的”，如 daily life（日常生活）；也可作副词“每天”；作名词指日报，如 a national daily（全国性日报）。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，停电在当时的开罗几乎是天天都有的事情。”的处理：①Yet 译为“然而”，后加逗号。②地点状语 in Cairo 提到谓语前，并根据一般过去时增补“当时的”，译为“在当时的开罗”。③表语 a daily occurrence 中，形容词 daily 译为“天天都有的”，中心词 occurrence 译为“事情”，避免直译的生硬。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "No curse inscription",
+   "predicate": "was ever found",
+   "object_or_complement": "",
+   "explain": "主谓结构，谓语 was ever found 是一般过去时的被动语态。主语中的 no 否定整个句子（视频说明），ever 加强否定，no... ever 意为“从未”。"
+  },
+  "components": [
+   {
+    "text": "No curse inscription",
+    "role": "主语（no 否定主语，使全句成为否定句）",
+    "zh": "任何诅咒铭文"
+   },
+   {
+    "text": "was ever found",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "从未发现过"
+   },
+   {
+    "text": "in the tomb.",
+    "role": "地点状语（介词短语）",
+    "zh": "墓中"
+   }
+  ],
+  "structure": "①全句是被动语态的主谓结构：No curse inscription（主语）was ever found（谓语），in the tomb 是地点状语。\n②no 是否定限定词，放在主语前，否定的是整个句子（视频说明：no 否定主语，全句否定，“从未发现过任何……”）。ever 在否定句中加强语气，no... ever 相当于 never。\n③curse inscription 是名词作定语：curse 修饰 inscription，指内容为诅咒的铭文。\n④本句是第四段的第一句，先否定诅咒的直接证据，接下来两句再用统计数据否定诅咒之说。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "no + 名词作主语：全部否定",
+    "explain": "否定词 no 放在主语名词前，否定整个句子，表示“没有任何……”，如 No student passed the test（没有一个学生通过考试）。这种句子谓语用肯定形式，不再加 not。本句 No curse inscription was ever found 相当于 A curse inscription was never found。汉语习惯把否定放在谓语上，所以视频译为“从未发现过任何诅咒铭文”，把否定移到动词前。考研翻译中，英语的否定主语常要转成汉语的否定谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "No reliable evidence has ever been produced to support the claim.",
+      "zh": "从来没有人拿出过任何可靠证据来支持这一说法。"
+     },
+     {
+      "en": "No country can solve the climate crisis on its own.",
+      "zh": "任何国家都无法单独解决气候危机。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态译为汉语无主句",
+    "explain": "英语被动语态使用频繁，汉语则较少用“被”字。动作执行者不明或不重要时，被动句常译为汉语的无主句或主动句。本句 was ever found 没有交代由谁发现，视频译为无主句“墓中从未发现过任何诅咒铭文”，把地点状语“墓中”放在句首。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Traces of ancient wheat were found in the cave.",
+      "zh": "在洞穴中发现了古代小麦的痕迹。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "curse",
+    "explain": "名词，“诅咒，咒语”，也指“祸害，祸根”，如 the curse of unemployment（失业之祸）；动词“诅咒，咒骂”。本文标题 The Curse of the Pharaoh 即“法老的诅咒”。视频译为“诅咒”。"
+   },
+   {
+    "term": "inscription",
+    "explain": "铭文，题字，指刻在石头、金属上或写在书上的文字；动词 inscribe（刻，题写）。视频译为“铭文”。"
+   },
+   {
+    "term": "ever（加强否定）",
+    "explain": "ever 用于否定句、疑问句和条件句，表示“在任何时候”；no... ever、hardly ever（几乎从不）等都用来加强否定。"
+   }
+  ],
+  "translation_tip": "视频译文“墓中从未发现过任何诅咒铭文。”的处理：①被动句转为汉语无主句，地点状语 in the tomb 提到句首，译为“墓中”。②否定主语 No curse inscription 中的否定意义移到谓语上，no... ever 合译为“从未……任何”，“任何”保留了 no 的全部否定语气。③“过”字体现 ever 所含的“在任何时候”之意。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "a British Medical Journal study",
+   "predicate": "traced",
+   "object_or_complement": "the fate of 44 Westerners in Egypt at the time",
+   "explain": "主谓宾结构，谓语 traced 为一般过去时、主动语态；In December 2002 是时间状语。"
+  },
+  "components": [
+   {
+    "text": "In December 2002",
+    "role": "时间状语（介词短语）",
+    "zh": "2002年12月"
+   },
+   {
+    "text": "a British Medical Journal study",
+    "role": "主语（期刊名 British Medical Journal 作前置定语，修饰 study）",
+    "zh": "《英国医学杂志》的一项研究"
+   },
+   {
+    "text": "traced",
+    "role": "谓语",
+    "zh": "追溯了"
+   },
+   {
+    "text": "the fate",
+    "role": "宾语",
+    "zh": "命运"
+   },
+   {
+    "text": "of 44 Westerners",
+    "role": "后置定语（介词短语），修饰 the fate",
+    "zh": "44名西方人的"
+   },
+   {
+    "text": "in Egypt at the time.",
+    "role": "后置定语（介词短语），修饰 Westerners",
+    "zh": "当时身在埃及的"
+   }
+  ],
+  "structure": "①全句是主谓宾结构：a British Medical Journal study（主语）traced（谓语）the fate（宾语）。In December 2002 是时间状语。\n②主语中，期刊名 British Medical Journal 直接放在 study 前作定语，说明是在该刊发表的研究，不用 of 结构或所有格。\n③宾语 the fate 后有两层后置定语：of 44 Westerners 说明是谁的命运；in Egypt at the time 修饰 Westerners（视频说明），说明这些西方人当时身在埃及，也就是开墓的时候。\n④这44名西方人是研究的对象，第15句再把他们分成接触过陵墓的25人和其余的人进行比较。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常把名词直接放在另一个名词前作定语，说明类别、来源、用途等，如 a government report、a car factory，本句的 a British Medical Journal study 也是这样，期刊名修饰 study。作定语的名词一般用单数。专有名词作定语时，汉语常补出“的”和量词，本句译为“《英国医学杂志》的一项研究”。外刊标题和新闻导语中常见这类名词连用，阅读时要找准最后一个名词，它才是中心词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A recent Harvard Business School survey questioned more than 2,000 managers.",
+      "zh": "哈佛商学院最近的一项调查询问了两千多名经理。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语连续作后置定语",
+    "explain": "名词后可以接几个介词短语作定语，后一个常修饰紧挨在前面的名词。本句 the fate of 44 Westerners in Egypt at the time 中，of 44 Westerners 修饰 fate，in Egypt at the time 修饰 Westerners（视频说明）。at the time 不是修饰谓语 traced 的时间状语（研究是2002年做的），而是说明这些人“当时”在埃及，作时间状语讲不通，只能归入定语。汉译时要把后置定语全部前移，译为“当时身在埃及的44名西方人的命运”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The exhibition tells the stories of women in the army during the war.",
+      "zh": "这个展览讲述了战争期间在军中服役的女性的故事。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "British Medical Journal",
+    "explain": "《英国医学杂志》，英国的综合性医学期刊，现在通常简称 BMJ。视频加书名号译出。"
+   },
+   {
+    "term": "trace",
+    "explain": "动词，“追溯，追踪，查出”，如 trace the history of sth（追溯某事的历史）、trace sth back to...（把某事追溯到……）；名词指“痕迹，微量”。本句指研究人员查明这些人后来的情况，视频译为“追溯了”。"
+   },
+   {
+    "term": "fate",
+    "explain": "命运，结局；本句指每个人后来的遭遇，尤其是去世的年龄。常见搭配 decide sb's fate（决定某人的命运）、share the same fate（遭遇相同的命运）。视频译为“命运”。"
+   },
+   {
+    "term": "at the time",
+    "explain": "当时，那时。注意与 at a time（每次，一次）、at times（有时）、in time（及时）、on time（准时）区分，这几个短语是考研完形的常见干扰项。"
+   }
+  ],
+  "translation_tip": "视频译文“2002年12月，《英国医学杂志》的一项研究追溯了当时身在埃及的44名西方人的命运。”的处理：①期刊名加书名号，作定语的名词短语补出“的”，不定冠词 a 译为“一项”。②宾语的两层后置定语按汉语习惯前移：in Egypt at the time 译为“当时身在埃及的”，增补“身在”使意思完整，再接“44名西方人的命运”。③数词44后加量词“名”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The 25",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主谓结构，die 是不及物动词，at an average age of 70 作状语，说明去世时的年龄。谓语为一般过去时、主动语态。句末 a margin not statistically significant 是同位语，概括前面的差距（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "The 25",
+    "role": "主语（the + 数词，指25人）",
+    "zh": "25人"
+   },
+   {
+    "text": "exposed to the tomb",
+    "role": "后置定语（过去分词短语），修饰 The 25",
+    "zh": "其中曾接触这座陵墓的"
+   },
+   {
+    "text": "died",
+    "role": "谓语",
+    "zh": "死亡"
+   },
+   {
+    "text": "at an average age of 70,",
+    "role": "状语（介词短语，说明去世时的平均年龄）",
+    "zh": "平均……年龄为70岁"
+   },
+   {
+    "text": "versus 75 for the rest,",
+    "role": "状语（versus 引导的介词短语，表示对比；75 前省略了 an average age of，for the rest 说明75岁属于其余的人）",
+    "zh": "相比之下其余的人为75岁"
+   },
+   {
+    "text": "a margin",
+    "role": "同位语，概括前面两个年龄的差距",
+    "zh": "这一差距"
+   },
+   {
+    "text": "not statistically significant.",
+    "role": "后置定语（形容词短语），修饰 a margin",
+    "zh": "在统计上并不显著"
+   }
+  ],
+  "structure": "①主干 The 25 died 是主谓结构。The 25 是数词作名词，指上句44人中的25人；过去分词短语 exposed to the tomb 作后置定语，修饰 The 25（视频说明），相当于 who had been exposed to the tomb，即曾经接触过这座陵墓的人。\n②at an average age of 70 是介词短语作状语，说明这些人去世时的平均年龄。\n③versus 75 for the rest 是介词短语，versus 意为“与……相比”，75 前省略了 an average age of；for the rest 说明75岁这个数字属于其余的人，即44人中另外的19人。\n④句末 a margin not statistically significant 是同位语，概括前面的差距（视频说明）；not statistically significant 是形容词短语作后置定语，修饰 a margin，相当于 a margin that was not statistically significant。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "versus 引出对比，并承前省略",
+    "explain": "versus 是介词，意为“与……相比；（比赛、诉讼中）对”，常缩写为 vs 或 v.。在数据对比中，versus 后常省略与前文重复的部分：本句 versus 75 for the rest 的完整说法是 versus an average age of 75 for the rest。考研阅读的数据描述常用这种省略，如 a rise of 5% this year versus 3% last year，读的时候要把省略部分补回去，弄清两个数字分别属于谁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Unemployment stood at 4 percent in the cities versus 7 percent in rural areas.",
+      "zh": "城市失业率为4%，而农村地区为7%。"
+     },
+     {
+      "en": "Women in the study slept an average of 7.2 hours a night, versus 6.8 for men.",
+      "zh": "研究中的女性平均每晚睡7.2小时，男性则为6.8小时。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "单个形容词作定语一般放在名词前，但形容词带有修饰语或补足成分构成短语时，常放在名词之后，相当于省略了“关系代词 + be”的定语从句，如 a box full of books、a language difficult to learn。本句 a margin not statistically significant 相当于 a margin that was not statistically significant。第4句的 a monopoly that... 用定语从句修饰同位语中心词，本句用形容词短语，作用相同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Investors are looking for companies capable of steady growth.",
+      "zh": "投资者在寻找有能力稳定增长的公司。"
+     },
+     {
+      "en": "The negotiators finally reached a compromise acceptable to both sides.",
+      "zh": "谈判代表们终于达成了一个双方都能接受的折中方案。"
+     }
+    ]
+   },
+   {
+    "title": "the + 数词：指一组中的特定几个",
+    "explain": "数词前加定冠词 the，可以指上文提到的一组人或物中特定的那几个，如 the 25（那25人）、the two（那两人）。本句 The 25 指上句44名西方人中接触过陵墓的25人，后面的 the rest 指剩下的人。作主语时谓语与复数意义一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Of the 30 applicants, the 12 who passed the written test were invited to an interview.",
+      "zh": "30名申请者中，通过笔试的12人受邀参加面试。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "statistically significant",
+    "explain": "统计学术语，“在统计上显著”，指观察到的差异不太可能仅仅由偶然因素造成。not statistically significant 说明70岁与75岁之间的差距可能只是偶然，不能据此认为接触陵墓会缩短寿命。科研类阅读文章中常见这一说法。"
+   },
+   {
+    "term": "be exposed to",
+    "explain": "接触，暴露于，如 be exposed to radiation（受到辐射）、be exposed to new ideas（接触新思想）。本句指接触过陵墓，视频译为“接触”。"
+   },
+   {
+    "term": "margin",
+    "explain": "差额，差距，如 win by a narrow margin（以微弱优势获胜）、profit margin（利润率）；另指页边空白。本句指两组人平均死亡年龄相差的5岁，视频译为“差距”。"
+   },
+   {
+    "term": "the rest",
+    "explain": "其余的人或物；作主语时，指可数名词谓语用复数，指不可数名词谓语用单数。"
+   }
+  ],
+  "translation_tip": "视频译文“其中曾接触这座陵墓的25人，平均死亡年龄为70岁，相比之下其余的人为75岁；这一差距在统计上并不显著。”的处理：①增补“其中”，表明25人是上句44人中的一部分；过去分词短语 exposed to the tomb 前置，增补“曾”表示接触发生在过去，the tomb 译为“这座陵墓”。②died at an average age of 70 转换成名词性的“平均死亡年龄为70岁”，把动词 died 名词化。③versus 译为“相比之下”，补出省略的内容，译为“其余的人为75岁”。④同位语 a margin... 独立成分句，用分号隔开，以“这一差距”起头；后置的形容词短语转为谓语“在统计上并不显著”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The mortality figures",
+   "predicate": "lent",
+   "object_or_complement": "the ominous rumour（间接宾语）；no credibility（直接宾语）",
+   "explain": "主谓双宾结构，lend sth sth 相当于 lend sth to sth。谓语 lent 是 lend 的过去式，一般过去时、主动语态。"
+  },
+  "components": [
+   {
+    "text": "The mortality figures",
+    "role": "主语（mortality 作前置定语）",
+    "zh": "这些死亡数据"
+   },
+   {
+    "text": "lent",
+    "role": "谓语",
+    "zh": "让"
+   },
+   {
+    "text": "the ominous rumour",
+    "role": "间接宾语",
+    "zh": "这则不祥的传言"
+   },
+   {
+    "text": "no credibility.",
+    "role": "直接宾语（no 否定宾语，使全句成为否定句）",
+    "zh": "毫无可信度"
+   }
+  ],
+  "structure": "①全句是主谓双宾结构：The mortality figures（主语）lent（谓语）the ominous rumour（间接宾语）no credibility（直接宾语）。\n②lend sth credibility 意为“使某事显得可信”，本句用 no 否定直接宾语，lend sth no credibility 即“不让某事显得可信”（视频说明），相当于 did not lend the ominous rumour any credibility。\n③主语 The mortality figures 指上句的死亡年龄数据，mortality 作前置定语；宾语 the ominous rumour 指“进入陵墓会遭诅咒”的传言。\n④本句是第四段的结论：直接证据（铭文）和统计证据（死亡年龄）都不支持诅咒之说。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "双宾语结构：lend sth sth",
+    "explain": "lend、give、offer、bring 等动词可以带双宾语：间接宾语指接受者，直接宾语指给予的东西，形式为“动词 + 间接宾语 + 直接宾语”，也可改为“动词 + 直接宾语 + to + 间接宾语”。本句 lent the ominous rumour no credibility = lent no credibility to the ominous rumour。lend 在这里不是“借出”，而是“给予，增添”：lend credibility/weight/support to sth 分别表示“使……可信”“使……更有分量”“为……提供支持”，是外刊和考研阅读的高频表达。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new evidence lends weight to the theory that the fire was started deliberately.",
+      "zh": "新证据使火灾系人为纵火这一说法更有分量。"
+     },
+     {
+      "en": "Her calm voice lent the speech an air of authority.",
+      "zh": "她沉稳的声音让这番讲话显得颇具权威。"
+     }
+    ]
+   },
+   {
+    "title": "no 否定宾语",
+    "explain": "no 可以放在宾语名词前，否定整个句子，谓语用肯定形式：lent... no credibility 相当于 did not lend... any credibility。这种说法比 not... any 简洁，语气更强。汉语常译为“毫无”“没有任何”，视频译为“毫无可信度”。与第13句的 no 否定主语对照，两句都是“no + 名词”表示全部否定。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister gave reporters no explanation for the delay.",
+      "zh": "部长没有就延误向记者作出任何解释。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mortality",
+    "explain": "死亡率，死亡，如 infant mortality（婴儿死亡率）、mortality rate（死亡率）；也指“必死性，生命有限”，与 immortality（永生）相对。mortality figures 即“死亡数据”，视频译为“死亡”。"
+   },
+   {
+    "term": "ominous",
+    "explain": "不祥的，预示凶兆的，如 an ominous silence（不祥的沉默）、ominous signs（不祥之兆）；同源名词 omen（预兆）。视频译为“不祥的”。"
+   },
+   {
+    "term": "rumour",
+    "explain": "英式拼写，美式拼作 rumor；“传言，谣言”，如 spread a rumour（散布谣言）、Rumour has it that...（据传……）。视频译为“传言”。"
+   },
+   {
+    "term": "credibility",
+    "explain": "可信度，信誉；lose/gain credibility（失去/获得信誉）、lend credibility to sth（使某事可信）。形容词 credible（可信的），注意与 credulous（轻信的）区分。视频译为“可信度”。"
+   }
+  ],
+  "translation_tip": "视频译文“这些死亡数据让这则不祥的传言毫无可信度。”的处理：①lent 不译为“借给”，按语境译为“让”，把双宾语结构转成汉语“让……毫无……”的兼语式。②定冠词 The、the 分别译为“这些”“这则”，回指上文的数据和传言；figures 译为“数据”。③否定词 no 译为“毫无”，与“可信度”搭配。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Carnarvon's untimely demise",
+   "predicate": "had fuelled",
+   "object_or_complement": "the tale",
+   "explain": "主谓宾结构，谓语 had fuelled 为过去完成时、主动语态；句末现在分词短语 giving it impetus 作结果状语（视频说明）。"
+  },
+  "components": [
+   {
+    "text": "Carnarvon's untimely demise",
+    "role": "主语（Carnarvon's 和 untimely 都修饰 demise）",
+    "zh": "卡纳冯的过早离世"
+   },
+   {
+    "text": "had fuelled",
+    "role": "谓语（过去完成时）",
+    "zh": "助长了"
+   },
+   {
+    "text": "the tale,",
+    "role": "宾语",
+    "zh": "这一传言"
+   },
+   {
+    "text": "giving it impetus.",
+    "role": "结果状语（现在分词短语）",
+    "zh": "并为其推波助澜"
+   }
+  ],
+  "structure": "①主干 Carnarvon's untimely demise had fuelled the tale 是主谓宾结构。主语的中心词是 demise，名词所有格 Carnarvon's 和形容词 untimely 都是它的前置定语。\n②the tale 指法老诅咒的传说，与上句的 the ominous rumour 所指相同，作者换用不同的词避免重复。\n③giving it impetus 是现在分词短语作结果状语（视频说明），说明“助长传言”带来的结果；it 指 the tale，give sth impetus 意为“赋予它推动力，让它加速发展、更有势头”（视频说明），视频译为“推波助澜”。\n④谓语用过去完成时 had fuelled，表示在过去某一参照时间之前已经发生的动作：作者在全文末段回过头总结，卡纳冯之死早已助长了这个传说；第19句的 had left 也是这种回顾性的用法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，常作结果状语，说明主句动作自然引起的结果，前面一般有逗号，有时加 thus 强调，如 ..., thus causing...。分词的逻辑主语通常是主句的主语或主句所述的整件事。本句 giving it impetus 的逻辑主语是 Carnarvon's untimely demise：过早离世助长了传言，结果是给了它推动力。分词表示的是自然而然的结果；若表示出乎意料的结果，常用 only to do，如 He hurried to the station, only to find the train had left。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river burst its banks, flooding hundreds of homes.",
+      "zh": "河水决堤，淹没了数百户人家。"
+     },
+     {
+      "en": "Food prices rose sharply, thus forcing many families to cut back on meals.",
+      "zh": "食品价格急剧上涨，迫使许多家庭节衣缩食。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时的回顾用法",
+    "explain": "过去完成时（had done）表示在过去某一时间之前已经完成的动作，即“过去的过去”。叙述到后来的事件时，作者常用过去完成时回顾此前的事件及其影响。本句 had fuelled 与第19句 had left 都是这种用法：叙述到卡特去世时，回头总结卡纳冯之死早已推动了传说的流传，而传说并没有伤到卡特。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the war ended, the city had lost almost half its population.",
+      "zh": "到战争结束时，这座城市已经失去了将近一半的人口。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "untimely",
+    "explain": "形容词，“过早的（尤指死亡）；不合时宜的”，如 an untimely death（英年早逝）、an untimely remark（不合时宜的话）。untimely 虽以 -ly 结尾，却是形容词，类似的还有 friendly、lovely、costly。视频译为“过早”。"
+   },
+   {
+    "term": "demise",
+    "explain": "正式用语，“死亡”，比 death 委婉、庄重；也指机构、制度等的“终止，消亡”，如 the demise of the company（公司的倒闭）。视频译为“离世”。"
+   },
+   {
+    "term": "fuel（v.）",
+    "explain": "动词“助长，激起”，常与 speculation、inflation、anger、rumours 等搭配，如 fuel speculation（助长猜测）。英式英语过去式拼作 fuelled，美式拼作 fueled。视频译为“助长了”。"
+   },
+   {
+    "term": "impetus",
+    "explain": "视频说明：impetus 的核心词义就是冲力、推动力、促进因素；在这个语境里，就是让这个谣言传播得更猛、发展得更快。常见搭配 give (fresh) impetus to sth（为……注入（新的）动力）。视频译为“推波助澜”。"
+   },
+   {
+    "term": "rumour、tale、legend 同指",
+    "explain": "第16句的 rumour、本句的 tale、第19句的 legend 指的都是法老诅咒的说法，作者换用不同的词避免重复。这种同义替换是英语写作的常见手法，考研阅读中常据此设题，要能认出它们说的是同一件事。"
+   }
+  ],
+  "translation_tip": "视频译文“卡纳冯的过早离世助长了这一传言，并为其推波助澜。”的处理：①Carnarvon's untimely demise 译为“卡纳冯的过早离世”，demise 取正式色彩的“离世”。②过去完成时不另加“已经”等词，直接译为“助长了”。③the tale 译为“这一传言”，与上文的“传言”保持一致。④结果状语 giving it impetus 用“并”连接，it 译为“其”，名词 impetus 转换为四字成语“推波助澜”，与“助长”形成递进。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Carter",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主谓结构，die 为不及物动词，后接时间状语等补充成分。谓语 died 为一般过去时；主语后的 the excavator who... 是同位语（视频说明），不属于主干。"
+  },
+  "components": [
+   {
+    "text": "Carter,",
+    "role": "主语",
+    "zh": "卡特"
+   },
+   {
+    "text": "the excavator",
+    "role": "同位语，说明 Carter",
+    "zh": "这位……发掘者"
+   },
+   {
+    "text": "who had unsealed the burial place,",
+    "role": "限制性定语从句，修饰 the excavator",
+    "zh": "启封了这处墓葬的"
+   },
+   {
+    "text": "died",
+    "role": "谓语",
+    "zh": "去世"
+   },
+   {
+    "text": "in March 1939,",
+    "role": "时间状语（介词短语）",
+    "zh": "于1939年3月"
+   },
+   {
+    "text": "aged 64,",
+    "role": "补充说明（aged + 数词，说明去世时的年龄）",
+    "zh": "终年64岁"
+   },
+   {
+    "text": "almost sixteen years after his patron.",
+    "role": "时间状语（时间段 + after 介词短语，his patron 后省略 died）",
+    "zh": "距他的资助人去世已近十六年"
+   }
+  ],
+  "structure": "①主干 Carter died 是主谓结构，主语和谓语被同位语隔开。\n②the excavator who had unsealed the burial place 是同位语，说明 Carter（视频说明）。同位语中心词 the excavator 后接 who 引导的限制性定语从句，who 在从句中作主语；had unsealed 用过去完成时，表示启封墓葬发生在他去世之前。\n③谓语 died 后有三项补充信息：in March 1939 是时间状语；aged 64 说明去世时的年龄，aged 是形容词，意为“……岁的”；almost sixteen years after his patron 是时间状语，his patron 指卡纳冯，后面省略了 died（视频说明：在他的资助人之后近十六年）。\n④作者特意强调卡特是亲手启封墓葬的人，却比他的资助人多活了近十六年，为下一句的讽刺作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "带定语从句的同位语",
+    "explain": "同位语可以带自己的修饰成分，构成较长的插入结构。本句 Carter, the excavator who had unsealed the burial place, died... 中，同位语中心词 the excavator 后接 who 引导的限制性定语从句，整个同位语夹在主语和谓语之间，用逗号隔开。阅读时先跳过两个逗号之间的内容，把 Carter 与 died 连起来，再回头看同位语。注意 who 从句修饰的是 the excavator，而不是 Carter。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Dr Lee, the surgeon who performed the operation, answered questions from the press.",
+      "zh": "李医生，也就是做这台手术的外科医生，回答了媒体的提问。"
+     },
+     {
+      "en": "The building, a factory that once employed 2,000 people, now stands empty.",
+      "zh": "这栋建筑曾是一家雇用两千人的工厂，如今空无一人。"
+     }
+    ]
+   },
+   {
+    "title": "aged + 数词 表示年龄",
+    "explain": "aged 读作 /eɪdʒd/ 时是形容词，意为“……岁的”，aged 64 即“64岁”，常用于报道死亡、伤亡或统计人群，如 children aged 5 to 11（5至11岁的儿童）。读作 /ˈeɪdʒɪd/ 时意为“年老的”，如 the aged（老年人）。本句 aged 64 位于两个逗号之间，补充说明卡特去世时的年龄，视频译为“终年64岁”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novelist died at her home in Oxford, aged 87.",
+      "zh": "这位小说家在牛津的家中去世，享年87岁。"
+     }
+    ]
+   },
+   {
+    "title": "时间段 + after/before 表示相隔多久",
+    "explain": "“时间段 + after/before + 名词或从句”表示两件事相隔多长时间，如 two years after the war（战后两年）、a week before the election（选举前一周）。本句 almost sixteen years after his patron 省略了谓语，完整说法是 almost sixteen years after his patron died。卡纳冯死于1923年4月，卡特死于1939年3月，相隔不到十六年，所以用 almost。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge reopened just three months after the earthquake.",
+      "zh": "地震发生仅三个月后，这座桥就重新通车了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "excavator",
+    "explain": "发掘者，指从事考古发掘的人；也指挖掘机。动词 excavate（挖掘，发掘），名词 excavation（发掘，发掘现场）。视频译为“发掘者”。"
+   },
+   {
+    "term": "unseal",
+    "explain": "un-（表示相反动作）+ seal（封住），意为“启封，打开（封着的东西）”，与第2句的 sealed doorway、第6句的 sealed tomb 呼应。视频译为“启封了”。"
+   },
+   {
+    "term": "burial place",
+    "explain": "埋葬地，墓葬；burial 是 bury（埋葬）的名词形式，读作 /ˈberiəl/。the burial place 指图坦卡蒙的陵墓，与 the tomb 同指。视频译为“墓葬”。"
+   },
+   {
+    "term": "patron",
+    "explain": "资助人，赞助人，尤指支持艺术家、学者或某项事业的人，如 a patron of the arts（艺术赞助人）；也可指商店、餐馆等的顾客。本句指卡纳冯，与第2句的 sponsor 同指，视频译为“资助人”。"
+   }
+  ],
+  "translation_tip": "视频译文“卡特，这位启封了这处墓葬的发掘者，于1939年3月去世，终年64岁，距他的资助人去世已近十六年。”的处理：①同位语保留在原位，用两个逗号隔开；the excavator 译为“这位……发掘者”，定语从句前置为“启封了这处墓葬的”。②时间状语用“于”引出，放在“去世”前。③aged 64 译为讣闻常用语“终年64岁”。④almost sixteen years after his patron 补出省略的“去世”，转换为“距他的资助人去世已近十六年”，以前一事件为起点计算间隔，更符合汉语表达。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "The legend",
+   "predicate": "had left",
+   "object_or_complement": "him（宾语）；conspicuously unharmed（宾语补足语）",
+   "explain": "主谓宾宾补结构，leave sb unharmed 意为“让某人未受伤害”（视频说明），形容词 unharmed 作宾语补足语，conspicuously 修饰 unharmed。谓语 had left 为过去完成时、主动语态。"
+  },
+  "components": [
+   {
+    "text": "The legend",
+    "role": "主语",
+    "zh": "这个传说"
+   },
+   {
+    "text": "had left",
+    "role": "谓语（过去完成时）",
+    "zh": "偏偏让"
+   },
+   {
+    "text": "him",
+    "role": "宾语",
+    "zh": "他"
+   },
+   {
+    "text": "conspicuously",
+    "role": "状语（副词），修饰 unharmed",
+    "zh": "这一点格外醒目"
+   },
+   {
+    "text": "unharmed.",
+    "role": "宾语补足语（形容词）",
+    "zh": "毫发无损"
+   }
+  ],
+  "structure": "①全句是主谓宾宾补结构：The legend（主语）had left（谓语）him（宾语）unharmed（宾语补足语）。副词 conspicuously 修饰 unharmed（视频说明）。\n②him 指亲自开墓的卡特（视频说明）。按照法老诅咒的传闻，卡特本应是最容易遭殃的人，结果却又活了近16年，终年64岁。\n③conspicuously 意为“明显地，惹人注目地”，说明卡特安然无恙这一点十分显眼。作者用这种反差表达讽刺，质疑所谓诅咒的可信性（视频说明）。\n④had left 用过去完成时，回顾到卡特1939年去世为止的情况：传说中的诅咒始终没有伤到他。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "leave + 宾语 + 形容词",
+    "explain": "leave 表示“使处于某种状态”时，常接“宾语 + 形容词”，如 leave the door open、leave sb alone、leave sb speechless。形容词作宾语补足语，说明宾语所处的状态，不能用副词。本句 had left him conspicuously unharmed 中，形容词 unharmed 作宾补，副词 conspicuously 修饰 unharmed。与第4句 left competing reporters starved of news 对照，那里的宾补是过去分词短语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm passed quickly and left the village almost untouched.",
+      "zh": "暴风雨很快过去，村子几乎没有受到影响。"
+     },
+     {
+      "en": "The defeat left the coach silent for several minutes.",
+      "zh": "这场失利让主教练好几分钟说不出话来。"
+     }
+    ]
+   },
+   {
+    "title": "评价性副词修饰形容词的译法",
+    "explain": "英语常用“评价性副词 + 形容词”表达作者的态度，如 surprisingly cheap、conspicuously absent、notably silent。这类副词放在汉语形容词前往往不通顺，翻译时常把它拆出来，译为独立的评述小句。本句 conspicuously unharmed 译为“毫发无损，这一点格外醒目”，conspicuously 单独成句，放在后面。conspicuously absent（明显缺席，缺席得引人注目）是外刊常用搭配，指本该出现的人或物却没有出现。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The prime minister was conspicuously absent from the ceremony.",
+      "zh": "首相没有出席这次仪式，这一点格外引人注目。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "legend",
+    "explain": "传说，传奇；也指传奇人物，如 a football legend（足球传奇人物）。本句 the legend 指法老诅咒的传说，与第16句的 rumour、第17句的 tale 同指。视频译为“这个传说”。"
+   },
+   {
+    "term": "conspicuously",
+    "explain": "副词，“明显地，惹人注目地”，如 be conspicuously absent（明显缺席）；形容词 conspicuous（显眼的），反义词 inconspicuous（不显眼的）；conspicuous consumption（炫耀性消费）是经济类文章中的常见说法。视频译为“格外醒目”。"
+   },
+   {
+    "term": "unharmed",
+    "explain": "un-（否定）+ harm（伤害）+ -ed，“未受伤害的”，常与 escape、be released 等连用，如 escape unharmed（安然逃脱）。视频译为“毫发无损”。"
+   }
+  ],
+  "translation_tip": "视频译文“这个传说偏偏让他毫发无损，这一点格外醒目。”的处理：①had left him unharmed 译为“让他毫发无损”，unharmed 用四字成语表达。②增补“偏偏”，点出与诅咒预期相反的讽刺意味。③副词 conspicuously 拆出来，译为独立的评述小句“这一点格外醒目”，放在句末。"
+ }
+]

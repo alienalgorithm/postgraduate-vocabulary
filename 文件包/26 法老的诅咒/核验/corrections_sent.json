@@ -1,0 +1,37 @@
+[
+ {
+  "key": "1",
+  "field": "knowledge",
+  "before": "",
+  "after": "{\"term\": \"Howard Carter\", \"explain\": \"霍华德·卡特（1874年至1939年），英国考古学家，长期在埃及从事发掘，1922年在帝王谷发现图坦卡蒙墓。本文第18句交代他于1939年3月去世，终年64岁。视频译为“考古学家霍华德·卡特”。\"}",
+  "reason": "补充主人公霍华德·卡特的确切背景（生卒年、发现图坦卡蒙墓），与第18句的去世年份、年龄一致，空泛处补具体。"
+ },
+ {
+  "key": "4",
+  "field": "grammar[2].explain",
+  "before": "本句 that 指先行词 a monopoly，在从句中作主语，从句谓语 left 与单数先行词一致。",
+  "after": "本句 that 指先行词 a monopoly，在从句中作主语；关系代词作主语时，从句谓语的单复数要与先行词一致，本句 left 是过去式，形式上看不出单复数变化。",
+  "reason": "left 是过去式，没有单复数形式变化，原文说它“与单数先行词一致”无从体现，改为说明规则本身并点明本句看不出变化。"
+ },
+ {
+  "key": "6",
+  "field": "components[4].role",
+  "before": "宾语从句（that 引导，作 warned 的宾语）",
+  "after": "宾语从句（that 引导，作 warned 的宾语；从句一直延续到句末，后面的 who 从句也在宾语从句之内）",
+  "reason": "宾语从句的范围是 that 到句末，包括修饰 anyone 的 who 从句；原标注易让人误以为宾语从句到 anyone 为止。"
+ },
+ {
+  "key": "6",
+  "field": "knowledge[Marie Corelli].explain",
+  "before": "玛丽·科雷利，英国小说家，她的小说在当时非常畅销，所以文中称 the best-selling novelist。",
+  "after": "玛丽·科雷利（1855年至1924年），英国小说家，她的小说在当时非常畅销，所以文中称 the best-selling novelist。她发出警告时卡纳冯尚在人世，不到两周卡纳冯就去世了（第7句、第10句）。",
+  "reason": "补充确切生卒年，并把人物与本文时间线（警告后不到两周卡纳冯去世）联系起来，空泛处补具体。"
+ },
+ {
+  "key": "15",
+  "field": "components[4].role",
+  "before": "介词短语，与前面的年龄构成对比（75 前省略了 an average age of）",
+  "after": "状语（versus 引导的介词短语，表示对比；75 前省略了 an average age of，for the rest 说明75岁属于其余的人）",
+  "reason": "原标注只说“介词短语”，没有写出句法成分，补为状语并说明省略和 for the rest 的作用。"
+ }
+]

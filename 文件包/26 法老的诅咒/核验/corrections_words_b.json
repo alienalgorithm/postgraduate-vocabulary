@@ -1,0 +1,23 @@
+[
+ {
+  "key": "35",
+  "field": "senses",
+  "before": "[{\"pos\": \"n.\", \"zh\": \"发生的事情（本文）\"}, {\"pos\": \"n.\", \"zh\": \"发生，出现\"}, {\"pos\": \"n.\", \"zh\": \"出现率，发生频率\"}]",
+  "after": "[{\"pos\": \"n.\", \"zh\": \"发生的事情（本文）\"}, {\"pos\": \"n.\", \"zh\": \"发生，出现\"}]",
+  "reason": "occurrence 在 Oxford、Cambridge 中没有“出现率，发生频率”这一义项（频率要说 frequency/rate of occurrence），删去不存在的义项。"
+ },
+ {
+  "key": "47",
+  "field": "etymology",
+  "before": "来自古法语 rumur，",
+  "after": "来自古法语 rumor，",
+  "reason": "按 Etymonline，rumour 来自古法语 rumor（rumor, noise, uproar），改正拼写。"
+ },
+ {
+  "key": "53",
+  "field": "context_usage",
+  "before": "excavator 指从事挖掘、发掘的人，在考古语境中指主持发掘的考古学家，视频译为“发掘者”。",
+  "after": "excavator 指从事挖掘、发掘的人，在考古语境中指从事发掘工作的人，本句指主持这次发掘的卡特，视频译为“发掘者”。",
+  "reason": "词典释义是 a person who excavates，并不专指“主持发掘的考古学家”；改为一般释义，再落到本句的卡特。"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "key": "4",
+  "field": "usage_detail",
+  "before": "stairway 与 staircase 意思相近，美式英语较常用。",
+  "after": "stairway 与 staircase 意思相近，可指室内或室外的楼梯。",
+  "reason": "“stairway 美式英语较常用”在 Oxford、Cambridge 中查不到依据，改为词典释义（a set of stairs inside or outside a building）。"
+ },
+ {
+  "key": "6",
+  "field": "context_usage",
+  "before": "作者点明卡纳冯“富有”，交代他能出资支持发掘的原因，也为下一段他出售独家报道权的情节作铺垫。",
+  "after": "作者点明卡纳冯“富有”，交代他能出资支持发掘的原因，与 sponsor（赞助人）的身份相呼应。",
+  "reason": "“富有”与下一段出售独家报道权之间的铺垫关系是原文没有的推断，改为与 sponsor 呼应这一文内可证的联系。"
+ },
+ {
+  "key": "14",
+  "field": "context_usage",
+  "before": "作者用这个带贬义色彩的词为这项交易定性，暗示它让其他报纸十分不满，为下文的猜测和谣言作铺垫。",
+  "after": "作者用这个词为这项交易定性，后面的定语从句交代了它的后果：其他记者严重缺少新闻，只能诉诸猜测（第5句），为下文的谣言作铺垫。",
+  "reason": "“暗示其他报纸十分不满”原文没有依据；改为原文实际交代的后果（记者缺少新闻、转向猜测）。"
+ },
+ {
+  "key": "20",
+  "field": "context_usage",
+  "before": "作者点明科雷利是畅销作家，说明她的警告传播面广、影响大，这也是诅咒之说迅速流行的原因之一。",
+  "after": "作者点明科雷利是畅销作家，说明她拥有大量读者，她的公开警告（warned publicly）容易引起广泛关注。",
+  "reason": "“这是诅咒之说迅速流行的原因之一”是原文没有的因果断言，改为可由 best-selling 和 warned publicly 推出的说法。"
+ },
+ {
+  "key": "29",
+  "field": "etymology",
+  "before": "名词 shave（刮脸）由动词而来；a close shave 由“刮得很贴近皮肤”引申为“险些出事”。",
+  "after": "名词 shave（刮脸）由动词而来；a close shave 意为“险些出事，九死一生”。",
+  "reason": "a close shave 由“刮得贴近皮肤”引申的说法在 Etymonline 等权威词源词典中查不到，删去来源推测，只保留词义。"
+ }
+]
