@@ -1,0 +1,58 @@
+[
+ {
+  "key": "id=5",
+  "field": "etymology",
+  "before": "由名词 frost（霜，严寒）加 -ed 构成。",
+  "after": "是动词 frost（结霜，使覆盖霜）的过去分词转作形容词，17世纪中期起表示“覆盖着霜的”；动词 frost 又由名词 frost（霜，严寒）转化而来。",
+  "reason": "据 Etymonline，frosted 是动词 frost 的过去分词形容词，并非名词直接加 -ed。"
+ },
+ {
+  "key": "id=5",
+  "field": "usage_detail",
+  "before": "frost 作名词时指“霜；严寒天气”，可数，",
+  "after": "frost 作名词时指“霜；严寒天气”，可数也可不可数，如 covered in frost（覆盖着霜）、",
+  "reason": "frost 指“霜”时多为不可数，指一次霜冻天气时可数，原文只写“可数”不准确。"
+ },
+ {
+  "key": "id=14",
+  "field": "usage_detail",
+  "before": "vault 另有动词义“跳跃，撑跳”，如 pole vault（撑竿跳），与名词义来源不同。",
+  "after": "vault 另有动词义“（用手或撑竿支撑）跳跃”，如 vault over a wall（撑跳过墙），名词 pole vault 指撑竿跳；这个 vault 经法语、意大利语借入，与“拱顶”义的 vault 借入途径不同，但最终都可追溯到拉丁语 volvere（转动）。",
+  "reason": "“跳跃”义的 vault 来自意大利语 voltare（转），最终也源于拉丁语 volvere，说“来源不同”不准确；pole vault 是名词，不能用来示范动词义。"
+ },
+ {
+  "key": "id=15",
+  "field": "etymology",
+  "before": "against 来自古英语 ongegn（对着，相反）。",
+  "after": "against 由中古英语 again（来自古英语 ongegn，对着，相反）加副词性词尾 -es 构成，词尾的 -t 是后来添加的。",
+  "reason": "据 Etymonline，against 是 again 加副词性属格词尾 -es 再加赘生的 -t 形成，并非直接来自古英语 ongegn。"
+ },
+ {
+  "key": "id=18",
+  "field": "etymology",
+  "before": "来自古英语 drǣdan，是 adrǣdan、ondrǣdan（害怕）的缩略形式。",
+  "after": "中古英语 dreden（12世纪末出现），是古英语 adrǣdan、ondrǣdan（害怕）去掉前缀后的缩略形式。",
+  "reason": "古英语中不单独存在 drǣdan，Etymonline 说明 dread 是 adrǣdan、ondrǣdan 去掉前缀的缩略形式，改为可证实的表述。"
+ },
+ {
+  "key": "id=24",
+  "field": "collocations",
+  "before": "{\"en\": \"a bank vault\", \"zh\": \"银行金库\"}",
+  "after": "{\"en\": \"the contents of a safe-deposit box\", \"zh\": \"保管箱里的物品\"}",
+  "reason": "a bank vault 不含词条 safe-deposit box，不是它的搭配，换成真实搭配。"
+ },
+ {
+  "key": "id=30",
+  "field": "etymology",
+  "before": "gene 来自德语 Gen，由丹麦植物学家约翰森（Wilhelm Johannsen）于1909年创造，源于希腊语 genos（种族，后代）。",
+  "after": "gene 来自德语 Gen，是丹麦植物学家约翰森（Wilhelm Johannsen）20世纪初创造的术语，最终可追溯到希腊语中表示“出生，种族，后代”的词根 gen-。",
+  "reason": "各权威来源对创词年份（1905或1909）和具体希腊词（genos/genea）说法不一，改为可证实的概括表述。"
+ },
+ {
+  "key": "id=7",
+  "field": "senses",
+  "before": "{\"pos\": \"n.\", \"zh\": \"（美式）一条（香烟）\"}",
+  "after": "{\"pos\": \"n.\", \"zh\": \"（香烟的）一条（通常装十包）\"}",
+  "reason": "Cambridge、Merriam-Webster 的 a carton of cigarettes 均无美式限定，删去“美式”标签并补具体含义。"
+ }
+]

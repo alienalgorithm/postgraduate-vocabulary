@@ -1,0 +1,37 @@
+[
+ {
+  "key": "n=15",
+  "field": "grammar[2].explain",
+  "before": "degree 在大于1的数字后用复数 degrees",
+  "after": "degree 除了在 1 后面用单数外，在其他数字后都用复数 degrees，零和负数也一样，如 zero degrees、minus 18 degrees",
+  "reason": "原规则“大于1的数字后用复数”与本句 minus 18 degrees 矛盾；英语中除 1 以外的数字（包括零和负数）后 degree 都用复数。"
+ },
+ {
+  "key": "n=12",
+  "field": "grammar[2].explain",
+  "before": "step by step、one by one、day by day、brick by brick",
+  "after": "step by step、day by day、piece by piece、brick by brick",
+  "reason": "one 是数词而非可数名词，one by one 不符合本条“同一个可数名词单数 + by + 该名词”的规则，换成 piece by piece。"
+ },
+ {
+  "key": "n=7",
+  "field": "structure",
+  "before": "本句指出第一次取种并非因为这类天降之灾，而是因为地面上的人间冲突",
+  "after": "本句指出第一次取种并非发生在小行星撞击这样的天降之灾之后，而是发生在地面上的人间冲突之中",
+  "reason": "原文 not after… but amid… 是两个时间状语，原说明写成“因为”不准确；且“这类”可能被误解为指原子核战争等全部灾难，改为明确指小行星撞击。"
+ },
+ {
+  "key": "n=5",
+  "field": "structure",
+  "before": "前面可以补出 Being 或 As，即 As essentially the planet's ultimate backup, it …",
+  "after": "前面可以补出 Being，即 Being essentially the planet's ultimate backup, it …；也可理解为 as 短语“作为……”",
+  "reason": "As essentially the planet's ultimate backup 的还原写法别扭，改用自然的 Being 还原，as 只作意义说明。"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar[1].examples[0].en",
+  "before": "not the ones that hurt them.",
+  "after": "not the ones that actually hurt them.",
+  "reason": "中文译文有“真正”，英文补 actually 使英汉对应，语义也更清楚。"
+ }
+]
