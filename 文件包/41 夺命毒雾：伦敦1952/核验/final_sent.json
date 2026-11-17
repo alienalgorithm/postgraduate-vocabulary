@@ -1,0 +1,1733 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "cold, stagnant air",
+   "predicate": "descended on",
+   "object_or_complement": "London",
+   "explain": "主干是 cold, stagnant air descended on London。descend 本身是不及物动词，descend on 作为固定的动词短语，意为“降临，笼罩（某地）”（视频说明），相当于一个及物动词，London 是它的宾语。谓语 descended 是一般过去时，主动语态，叙述1952年那场烟雾的开端。"
+  },
+  "components": [
+   {
+    "text": "On Friday 5 December 1952,",
+    "zh": "1952年12月5日星期五",
+    "role": "时间状语（介词短语，on 用于具体日期）"
+   },
+   {
+    "text": "cold,",
+    "zh": "寒冷",
+    "role": "前置定语（形容词），修饰 air，与 stagnant 并列"
+   },
+   {
+    "text": "stagnant",
+    "zh": "凝滞的",
+    "role": "前置定语（形容词），修饰 air"
+   },
+   {
+    "text": "air",
+    "zh": "空气",
+    "role": "主语（中心词）"
+   },
+   {
+    "text": "descended on",
+    "zh": "笼罩降临了",
+    "role": "谓语（动词短语 descend on，一般过去时）"
+   },
+   {
+    "text": "London.",
+    "zh": "伦敦",
+    "role": "宾语（descend on 的宾语）"
+   }
+  ],
+  "structure": "①全句是简单句，主干为 air descended on London。主语中心词 air 前有两个并列的形容词 cold 和 stagnant 作前置定语，中间用逗号隔开，相当于 cold and stagnant air。\n②句首 On Friday 5 December 1952 是介词短语作时间状语。具体到某一天的日期前用介词 on；Friday 5 December 1952 是英式日期写法，按“星期、日、月、年”排列。\n③descend on 原指从高处下来、落到某处，这里描写冷空气从上方压下来、笼罩整座城市。开篇一句交代时间、地点和起因，下文的烟雾正是在这团不流动的冷空气中形成的。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "并列形容词作前置定语与逗号",
+    "explain": "两个或几个形容词从不同方面描写同一个名词、地位平等时，叫并列形容词，中间用逗号或 and 隔开。判断方法：能互换顺序、能在中间加 and 的就是并列关系，要加逗号。本句 cold, stagnant air 可以说成 cold and stagnant air，所以用逗号；第3句 murky, dreary winters 也是如此。如果前一个形容词修饰的是“后一个形容词 + 名词”这个整体，就不加逗号，如 a large wooden table（不说 a wooden large table）。写作中描写环境时，用两个并列形容词能让画面更具体。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The refugees spent the night in a cold, damp warehouse near the port.",
+      "zh": "难民们在港口附近一间又冷又潮的仓库里过了一夜。"
+     }
+    ]
+   },
+   {
+    "title": "日期前的介词 on 与英式日期写法",
+    "explain": "表示具体某一天（日期、星期几、某天的上午或下午）用 on，如 on 5 December、on Friday、on the morning of 5 December；只说月份、年份用 in，如 in December、in 1952；具体时刻用 at。时间越具体，介词越“小”：in 1952，in December 1952，on 5 December 1952。英式写法是“日 月 年”（5 December 1952），美式通常写成“月 日, 年”（December 5, 1952）。考研完形中常考 in the morning 与 on the morning of... 的区别：早晨一旦被具体日期限定，介词就要改用 on。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on the morning of 12 March 1999.",
+      "zh": "该条约于1999年3月12日上午签署。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "descend on/upon",
+    "explain": "动词短语，意为“降临，笼罩（某地）”（视频说明），多用于寂静、黑暗、雾气等笼罩某处，如 Silence descended on the room（屋里一下子安静下来）；也可指一大群人突然来到某处，如 Reporters descended on the village（记者们蜂拥来到村里）。本句指冷空气从上方降下、笼罩伦敦，视频译为“笼罩降临了”。"
+   },
+   {
+    "term": "stagnant",
+    "explain": "原指水或空气不流动、不新鲜，如 stagnant water（死水）；也常比喻经济、事业停滞不前，如 a stagnant economy（停滞的经济），这一比喻义在考研阅读的经济类文章中常见。本句 stagnant air 指不流动的空气，视频译为“凝滞的”。空气不流动，烟尘就无法扩散，这是下文烟雾形成的条件。"
+   },
+   {
+    "term": "伦敦烟雾事件（the Great Smog of London）",
+    "explain": "1952年12月5日至9日发生在伦敦的严重空气污染事件，是英国1956年出台《清洁空气法》的直接推动因素。本文按时间顺序叙述了这一事件的起因、经过、死亡人数的估计和立法后果。"
+   }
+  ],
+  "translation_tip": "视频译文“1952年12月5日星期五，寒冷、凝滞的空气笼罩降临了伦敦。”的处理：①时间状语 On Friday 5 December 1952 放在句首，日期按汉语习惯改为“年、月、日、星期”的顺序，介词 on 不必译出。②两个并列形容词之间的逗号译成顿号，“寒冷、凝滞的”放在“空气”前。③descended on 译为“笼罩降临了”，同时表现冷空气“从上方降下”和“覆盖全城”两层意思，London 作宾语直接放在后面。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "warmer air",
+   "predicate": "pressed down",
+   "object_or_complement": "",
+   "explain": "主干是 warmer air pressed down，主谓结构；press down 在此是不及物用法，down 是副词，表示向下的方向。谓语 pressed 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Overhead,",
+    "zh": "头顶上方",
+    "role": "地点状语（副词）"
+   },
+   {
+    "text": "warmer",
+    "zh": "较暖的",
+    "role": "前置定语（形容词比较级），修饰 air"
+   },
+   {
+    "text": "air",
+    "zh": "空气",
+    "role": "主语（中心词）"
+   },
+   {
+    "text": "pressed down",
+    "zh": "压了下来",
+    "role": "谓语（动词 press + 副词 down，一般过去时）"
+   },
+   {
+    "text": "like a lid,",
+    "zh": "像盖子一样",
+    "role": "方式状语（介词短语，表示比喻）"
+   },
+   {
+    "text": "holding",
+    "zh": "把",
+    "role": "结果状语（现在分词短语 holding the chill captive beneath 的核心动词），逻辑主语是 warmer air"
+   },
+   {
+    "text": "the chill",
+    "zh": "寒气",
+    "role": "宾语（holding 的宾语）"
+   },
+   {
+    "text": "captive",
+    "zh": "困",
+    "role": "宾语补足语（形容词），说明 the chill 被困住的状态"
+   },
+   {
+    "text": "beneath.",
+    "zh": "在下面",
+    "role": "地点状语（副词）"
+   }
+  ],
+  "structure": "①主句是 warmer air pressed down。句首 Overhead 是副词作地点状语，意为“在头顶上方”；warmer 是形容词比较级作前置定语，表示比下面的冷空气更暖。\n②like a lid 是介词短语作方式状语，用比喻说明暖空气像盖子一样压在上方。\n③holding the chill captive beneath 是现在分词短语作结果状语（视频说明：现在分词短语作状语，表结果），逻辑主语是 warmer air。其中 the chill 是 holding 的宾语，形容词 captive 是宾语补足语，构成 hold sth captive（把……困住）；beneath 是副词，意为“在下面”。\n④句首 Overhead 与句末 beneath 一上一下，交代了暖空气在上、寒气在下的空间关系。气象上把这种上层空气反而比下层暖的现象叫作逆温，它像盖子一样阻止下层空气向上扩散。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，常表示主句动作自然带来的结果，逻辑主语一般是主句主语。本句 holding the chill captive beneath 说明暖空气压下来造成的结果：寒气被困在下面。与不定式作结果状语相比，分词表示顺理成章的结果，only to do 多表示出乎意料的结果。考研长难句中，句末逗号后的 -ing 短语一般是状语，不是并列谓语，要把它和主句谓语区分开。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell throughout the night, flooding dozens of homes along the river.",
+      "zh": "大雨下了一整夜，淹没了河边的几十户人家。"
+     },
+     {
+      "en": "The company cut prices sharply, forcing several smaller rivals out of business.",
+      "zh": "这家公司大幅降价，迫使几家规模较小的竞争对手倒闭。"
+     }
+    ]
+   },
+   {
+    "title": "形容词作宾语补足语：hold sth captive",
+    "explain": "某些动词后接“宾语 + 形容词”，形容词说明宾语所处的状态或动作产生的结果，叫宾语补足语，如 keep the door open、find the book useful、leave the room empty。hold/take sb captive 意为“把某人俘虏、扣押起来”，captive 是形容词作宾补。本句把它用在天气上，带拟人色彩：暖空气像看守一样把寒气“关”在下面，视频译为“把寒气困在下面”。宾补位置上要用形容词，不能换成副词，如不能说 keep the door openly。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The rebels held three aid workers captive for nearly a month.",
+      "zh": "叛军将三名援助人员扣押了将近一个月。"
+     },
+     {
+      "en": "Thick curtains kept the room dark even at midday.",
+      "zh": "厚厚的窗帘让房间即使在正午也很暗。"
+     }
+    ]
+   },
+   {
+    "title": "副词作地点状语：overhead 与 beneath",
+    "explain": "overhead、beneath、below、above、nearby 等词除了作介词或形容词，也可以作副词单独充当地点状语，后面不接宾语。本句句首的 Overhead（在头顶上方）和句末的 beneath（在下面）都是副词。beneath 作副词较书面，日常多用 below 或 underneath；作介词时后接名词，如 beneath the surface（在表面之下）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A helicopter circled overhead as rescuers searched the hillside.",
+      "zh": "救援人员搜索山坡时，一架直升机在头顶上方盘旋。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "press down",
+    "explain": "本句为不及物用法，意为“向下压”；及物用法是 press sth down 或 press down on sth（往下按某物），如 press down on the lid（按住盖子）。视频译为“压了下来”。"
+   },
+   {
+    "term": "lid",
+    "explain": "盖子，如 the lid of a box/pan。习语 keep a lid on sth 表示“控制住，不让……扩大或泄露”，如 keep a lid on costs（控制成本），外刊中常见。本句用 like a lid 比喻上层暖空气封住下层空气，视频译为“像盖子一样”。"
+   },
+   {
+    "term": "chill",
+    "explain": "名词，寒冷，寒气，常说 a chill in the air（空气中有寒意）；也可指着凉（catch a chill）。本句 the chill 指被困在下面的冷空气，视频译为“寒气”。"
+   },
+   {
+    "term": "逆温（temperature inversion）",
+    "explain": "通常气温随高度升高而降低；逆温时上层空气反而比下层暖，下层的冷空气和其中的烟尘无法上升扩散。本句 warmer air pressed down like a lid 描写的就是这种情形。"
+   }
+  ],
+  "translation_tip": "视频译文“头顶上方，较暖的空气压了下来，像盖子一样，把寒气困在下面。”的处理：①Overhead 单独放在句首译成“头顶上方”，保留原文的停顿。②比较级 warmer 译为“较暖的”，体现与下层冷空气的比较。③方式状语 like a lid 没有前移到谓语前，而是顺着英文语序放在“压了下来”之后，单独成为短句“像盖子一样”，节奏与原文一致。④现在分词短语 holding the chill captive beneath 用“把”字句译成“把寒气困在下面”，形容词宾补 captive 转译为动词“困”，beneath 译为“在下面”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Londoners",
+   "predicate": "were",
+   "object_or_complement": "accustomed to murky, dreary winters（表语）",
+   "explain": "主系表结构：were 是系动词，形容词 accustomed 作表语，to murky, dreary winters 是介词短语，跟在 accustomed 后面说明习惯的对象，be accustomed to 意为“习惯于”（视频说明）。谓语 were 是一般过去时，表示当时长期存在的状态。"
+  },
+  "components": [
+   {
+    "text": "Londoners",
+    "zh": "伦敦人",
+    "role": "主语"
+   },
+   {
+    "text": "were accustomed to",
+    "zh": "早已习惯",
+    "role": "谓语部分（系动词 were + 表语 accustomed + 介词 to，构成 be accustomed to）"
+   },
+   {
+    "text": "murky,",
+    "zh": "昏暗的",
+    "role": "前置定语（形容词），修饰 winters，与 dreary 并列"
+   },
+   {
+    "text": "dreary",
+    "zh": "阴沉的",
+    "role": "前置定语（形容词），修饰 winters"
+   },
+   {
+    "text": "winters.",
+    "zh": "冬天",
+    "role": "介词 to 的宾语"
+   }
+  ],
+  "structure": "①全句是主系表结构的简单句：主语 Londoners，系动词 were，表语 accustomed to murky, dreary winters。be accustomed to 是固定结构，to 是介词，后面接名词 winters。\n②winters 前的 murky 和 dreary 是并列形容词作前置定语，中间用逗号隔开：murky 侧重光线昏暗，dreary 侧重天气阴沉、让人郁闷。\n③本句交代背景：伦敦的冬天一向灰暗，人们早就司空见惯。下句用 This time, though 转折，说明1952年的情况与以往不同。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be accustomed to 中的 to 是介词",
+    "explain": "be/get/grow accustomed to 意为“习惯于”，其中 to 是介词，后面接名词、代词或动名词，如 be accustomed to living alone。同类结构有 be used to doing（习惯于做）、look forward to doing、object to doing、be devoted to doing，考研写作中这些结构后面应接动名词。be accustomed to 表示状态，get/grow/become accustomed to 表示逐渐适应的过程。本句 were accustomed to murky, dreary winters 接的是名词 winters。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Having grown up on a farm, she was accustomed to getting up before dawn.",
+      "zh": "她在农场长大，习惯了天不亮就起床。"
+     },
+     {
+      "en": "It took the new staff several weeks to become accustomed to the noise of the factory floor.",
+      "zh": "新员工花了好几周才习惯车间里的噪声。"
+     }
+    ]
+   },
+   {
+    "title": "一般过去时表示过去的状态",
+    "explain": "一般过去时不仅叙述过去的单个动作，还可以描述过去一段时间里一直存在的状态或习惯。本句 were accustomed 描写的是1952年以前伦敦人长期的心理状态，而不是某一时刻发生的事。视频译为“早已习惯”，“早已”表达出这种状态在事件发生之前就已形成。叙事文章常先用一般过去时交代背景，再用 This time、But then 等词转入具体事件。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In those days most families in the village were poor and lived on what they grew.",
+      "zh": "那时村里大多数人家都很穷，靠自己种的东西过活。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "murky",
+    "explain": "原指（水）浑浊的，（天色、光线）昏暗的，如 murky water、a murky winter afternoon；也比喻事情不清不楚、不光彩，如 a murky past（不光彩的过去）、murky financial dealings（不清不楚的金钱交易）。本句视频译为“昏暗的”。"
+   },
+   {
+    "term": "dreary",
+    "explain": "形容天气阴沉，或事情沉闷乏味、让人提不起精神，如 a dreary day、a dreary routine。本句与 murky 并列，视频译为“阴沉的”。"
+   },
+   {
+    "term": "Londoner",
+    "explain": "伦敦人。地名后加 -er 表示“……地方的人”，类似的有 New Yorker（纽约人）、Icelander（冰岛人）。"
+   }
+  ],
+  "translation_tip": "视频译文“伦敦人早已习惯昏暗的、阴沉的冬天。”的处理：①be accustomed to 译为动词“习惯”，主系表结构转换成汉语的主谓宾结构。②增补“早已”，体现过去状态由来已久，也为下一句“不过这一次”的转折作铺垫。③两个并列形容词各带“的”，用顿号隔开，保留原文逗号所表示的并列关系。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "the capital's smoke",
+   "predicate": "was trapped",
+   "object_or_complement": "",
+   "explain": "主干是 the capital's smoke was trapped，一般过去时的被动语态（was + 过去分词）。trap 是及物动词，主语煤烟是被困住的一方，动作执行者没有说出，从上文看是那层像盖子一样的暖空气。"
+  },
+  "components": [
+   {
+    "text": "This time,",
+    "zh": "这一次",
+    "role": "时间状语（名词短语直接作状语）"
+   },
+   {
+    "text": "though,",
+    "zh": "不过",
+    "role": "转折副词（插入语），表示与上句情况相反"
+   },
+   {
+    "text": "the capital's",
+    "zh": "首都的",
+    "role": "定语（名词所有格），the capital 指伦敦"
+   },
+   {
+    "text": "smoke",
+    "zh": "煤烟",
+    "role": "主语（中心词）"
+   },
+   {
+    "text": "was trapped too,",
+    "zh": "也被困住了",
+    "role": "谓语（一般过去时被动语态）；too 是副词，意为“也”"
+   },
+   {
+    "text": "thickening",
+    "zh": "越积越浓",
+    "role": "结果状语（现在分词短语），逻辑主语是 the capital's smoke"
+   },
+   {
+    "text": "into a choking smog,",
+    "zh": "成了令人窒息的烟雾",
+    "role": "介词短语，与 thickening 构成 thicken into，表示变化的结果"
+   },
+   {
+    "text": "a mix of smoke and fog.",
+    "zh": "也就是烟与雾的混合物",
+    "role": "同位语（名词短语），补充说明 smog"
+   }
+  ],
+  "structure": "①主句是 the capital's smoke was trapped too，被动语态。This time 是名词短语直接作时间状语；though 是副词，插在句中表示转折，意为“不过”，与上句的“早已习惯”形成对比：以往的冬天只是灰暗，这一次煤烟也被困住了。too 承接上句：寒气被困在下面，煤烟同样被困住。\n②thickening into a choking smog 是现在分词短语作结果状语（视频说明：现在分词短语作状语，表结果），逻辑主语是 smoke；thicken into 意为“变浓而成为”。choking 是由现在分词转化来的形容词，作 smog 的前置定语，意为“令人窒息的”。\n③句末 a mix of smoke and fog 是名词短语作同位语，补充说明 smog（视频说明），解释 smog 一词由 smoke 和 fog 合成。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "副词 though 表示转折",
+    "explain": "though 除了作连词引导让步状语从句（Though it was late, ...），还可以作副词，意为“不过，可是”，放在句中或句末，用逗号隔开，如 It was hard work. I enjoyed it, though。副词 though 后面不接从句，只表示与上文意思相反，语气比 however 轻，口语和外刊中都很常见。本句 This time, though 承接上句：伦敦人早已习惯阴沉的冬天，不过这一次情况不同。考研阅读中，though、however、yet 等转折词后面往往是作者要强调的内容。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first two chapters are rather slow. The rest of the book, though, is gripping.",
+      "zh": "前两章节奏相当慢，不过书的其余部分非常引人入胜。"
+     },
+     {
+      "en": "Most analysts expected prices to fall. This year, though, they rose for the third time in a row.",
+      "zh": "大多数分析人士预计价格会下跌，不过今年价格连续第三次上涨。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是对前面名词的补充说明，与它指同一事物，常用逗号隔开，可以是名词、名词短语或从句。本句 a mix of smoke and fog 紧跟在 smog 后面，说明 smog 是什么。同位语放在句末时，要找准它说明的对象：这里说明的是紧挨着的 smog，而不是主语 smoke。翻译时常用“即”“也就是”引出，视频译为“也就是烟与雾的混合物”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The prize went to Maria Lopez, a young engineer from Madrid.",
+      "zh": "这个奖项授予了玛丽亚·洛佩斯，一位来自马德里的年轻工程师。"
+     }
+    ]
+   },
+   {
+    "title": "thicken into：into 表示变化的结果",
+    "explain": "与第2句的 holding 一样，句末逗号后的 thickening into a choking smog 是现在分词短语作结果状语，说明煤烟被困住后产生的后果。thicken 在这里是不及物动词，意为“变浓，变稠”；into 引出变化的结果，类似的有 turn into、develop into、grow into、evolve into。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The small protest grew rapidly, turning into a nationwide movement within weeks.",
+      "zh": "这场小规模抗议迅速扩大，几周之内就演变成一场全国性运动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "smog",
+    "explain": "烟雾，由 smoke 和 fog 两个词各取一部分拼合而成，这类词叫混成词，类似的有 brunch（breakfast + lunch，早午餐）、motel（motor + hotel，汽车旅馆）。本句同位语 a mix of smoke and fog 就是对这个词的解释。"
+   },
+   {
+    "term": "the capital",
+    "explain": "首都，这里指伦敦。外刊常用 the capital 替代上文已经提到的首都名称，避免重复，这种同义替换在考研阅读中很常见。"
+   },
+   {
+    "term": "choking",
+    "explain": "形容词，令人窒息的，呛人的，常修饰 smoke、fumes、dust 等，来自动词 choke（窒息，噎住）。视频译为“令人窒息的”。"
+   },
+   {
+    "term": "smoke 的两处译法",
+    "explain": "the capital's smoke 指燃煤产生的烟，视频结合语境译为“煤烟”；同位语 a mix of smoke and fog 中的 smoke 和 fog 是在解释 smog 的构成，视频分别译为“烟”和“雾”。"
+   }
+  ],
+  "translation_tip": "视频译文“不过这一次，首都的煤烟也被困住了，越积越浓，成了令人窒息的烟雾，也就是烟与雾的混合物。”的处理：①副词 though 提到句首译为“不过”，与“这一次”连在一起，转折更醒目。②smoke 结合语境增译为“煤烟”，点明烟的来源；被动语态 was trapped 保留为“被困住了”，too 译为“也”。③现在分词短语拆成两个短句，thickening 译成“越积越浓”，体现浓度逐渐增加的过程，into 译成“成了”。④句末同位语用“也就是”引出，单独成句，解释“烟雾”的含义。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "That smoke",
+   "predicate": "was",
+   "object_or_complement": "laden with soot and noxious sulphur dioxide（表语）",
+   "explain": "主系表结构：was 是系动词，laden 是形容词作表语，with 引出所充满的东西，be laden with 意为“满载……，充满……”（视频说明）。谓语是一般过去时，描述当时煤烟的状态。"
+  },
+  "components": [
+   {
+    "text": "That smoke,",
+    "zh": "这些煤烟",
+    "role": "主语"
+   },
+   {
+    "text": "from coal",
+    "zh": "来自于……煤",
+    "role": "后置定语（介词短语），修饰 smoke"
+   },
+   {
+    "text": "burned",
+    "zh": "烧的",
+    "role": "后置定语（过去分词短语 burned in... 的核心），修饰 coal"
+   },
+   {
+    "text": "in domestic fireplaces and power stations,",
+    "zh": "在家庭壁炉和发电厂里",
+    "role": "地点状语（介词短语），修饰 burned"
+   },
+   {
+    "text": "was laden with",
+    "zh": "充满了",
+    "role": "谓语部分（系动词 was + 表语 laden + 介词 with，构成 be laden with）"
+   },
+   {
+    "text": "soot",
+    "zh": "煤烟",
+    "role": "介词 with 的宾语之一"
+   },
+   {
+    "text": "and noxious sulphur dioxide.",
+    "zh": "和有毒的二氧化硫",
+    "role": "并列连词 and + 介词 with 的宾语之二，noxious 作前置定语"
+   }
+  ],
+  "structure": "①主干是 That smoke was laden with soot and noxious sulphur dioxide，主系表结构。主语 That smoke 和系动词 was 之间插入了一个较长的修饰成分，用两个逗号隔开，读的时候要越过它找到谓语 was。\n②插入部分 from coal burned in domestic fireplaces and power stations 是介词短语作后置定语，修饰 smoke，说明煤烟的来源（视频说明）。介词短语内部，burned in domestic fireplaces and power stations 是过去分词短语作后置定语，修饰 coal（视频说明），相当于 which was burned in...，煤是被燃烧的一方，所以用过去分词。分词短语里的 in domestic fireplaces and power stations 作地点状语，domestic fireplaces 和 power stations 是并列的两个地点。\n③with 的宾语是并列的 soot 和 noxious sulphur dioxide，noxious 只修饰 sulphur dioxide。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语，嵌在介词短语之中",
+    "explain": "单个过去分词一般放在名词前（burned coal），带有状语等成分的过去分词短语要放在名词后作后置定语。本句 coal burned in domestic fireplaces and power stations 中，burned 带着地点状语，所以后置，相当于 coal which was burned in...。这个分词短语又处在介词短语 from coal... 之内，整体修饰主语 smoke，形成多层修饰。考研长难句中，主语后面紧跟逗号和长修饰语时，要先找到真正的谓语（本句是 was），再回头分析修饰关系；burned 前面没有助动词，又处在介词短语里，不可能是谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The noise, from machines operated around the clock in the factory next door, kept residents awake.",
+      "zh": "噪声来自隔壁工厂里昼夜运转的机器，吵得居民无法入睡。"
+     },
+     {
+      "en": "Fruit grown without pesticides usually costs more in supermarkets.",
+      "zh": "不使用农药种植的水果在超市里通常更贵。"
+     }
+    ]
+   },
+   {
+    "title": "be laden with 与 laden 的用法",
+    "explain": "laden 是形容词，意为“满载的，充满的”，常用 be laden with sth，也可后置作定语，如 a truck laden with bricks（满载砖块的卡车），还可以构成复合形容词，如 debt-laden（负债累累的）、sugar-laden（含糖量高的）。本句 was laden with soot and noxious sulphur dioxide 是系表结构，with 引出所充满的东西。laden 比 full of、loaded with 书面，外刊中常用来强调负担沉重或含有大量有害物质。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The branches were laden with ripe apples.",
+      "zh": "树枝上挂满了成熟的苹果。"
+     }
+    ]
+   },
+   {
+    "title": "插入成分隔开主语和谓语",
+    "explain": "英语中主语后可以用一对逗号插入较长的修饰或补充成分，把主语和谓语隔开。阅读时可以先跳过逗号之间的内容，把主语和谓语连起来：That smoke ... was laden with...，主干立刻清楚，再回头分析插入成分：这里的介词短语说明煤烟来自哪里。翻译时插入成分往往单独译出，避免主语前的定语过长。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new policy, announced after months of debate, met with strong opposition.",
+      "zh": "这项新政策经过数月的辩论才宣布，却遭到了强烈反对。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "soot",
+    "explain": "名词，烟灰，煤烟子，指燃烧后留下的黑色粉末，不可数。本句视频译为“煤烟”。"
+   },
+   {
+    "term": "sulphur dioxide",
+    "explain": "二氧化硫，化学式 SO2，燃烧煤等含硫燃料时产生的有毒气体，也是形成酸雨的主要物质之一。sulphur 是英式拼写，美式拼写为 sulfur；di- 表示“二”，oxide 意为“氧化物”。"
+   },
+   {
+    "term": "domestic",
+    "explain": "形容词，“家庭的”，如 domestic appliances（家用电器）、domestic violence（家庭暴力）；另一个常用义是“国内的”，如 domestic flights（国内航班）、domestic demand（内需），考研阅读的经济类文章中常见。本句 domestic fireplaces 指家庭里的壁炉，视频译为“家庭”。"
+   },
+   {
+    "term": "power station",
+    "explain": "发电厂，英式英语说 power station，美式英语多说 power plant，如 a coal-fired power station（燃煤发电厂）。"
+   },
+   {
+    "term": "noxious",
+    "explain": "形容词，有毒的，有害的，常修饰 gases、fumes、substances，语气正式。视频译为“有毒的”。"
+   }
+  ],
+  "translation_tip": "视频译文“这些煤烟来自于烧的煤，在家庭壁炉和发电厂里，充满了煤烟和有毒的二氧化硫。”的处理：①没有把长长的后置定语全部前移到“煤烟”之前，而是按英文语序切分：from coal 译为“来自于烧的煤”，过去分词 burned 前置为“烧的”修饰“煤”；分词短语里的地点状语单独成为一个短句“在家庭壁炉和发电厂里”，与原文的逗号停顿对应。②That smoke 译为“这些煤烟”，指示词 That 回指上句的煤烟。③be laden with 译为“充满了”；soot 也译作“煤烟”，noxious 前置为“有毒的”修饰“二氧化硫”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "visibility",
+   "predicate": "fell",
+   "object_or_complement": "",
+   "explain": "主干是 visibility fell，主谓结构，fall 是不及物动词，表示数量、程度“下降”；to a few metres 说明降到的程度。谓语 fell 是 fall 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In places,",
+    "zh": "有些地方",
+    "role": "地点状语（固定短语 in places，意为“在某些地方”）"
+   },
+   {
+    "text": "visibility",
+    "zh": "能见度",
+    "role": "主语"
+   },
+   {
+    "text": "fell",
+    "zh": "降到",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "to a few metres.",
+    "zh": "只有几米",
+    "role": "程度状语（介词短语，to 引出下降后的数值）"
+   }
+  ],
+  "structure": "①全句是简单句，主干 visibility fell。句首 In places 是固定短语作地点状语，意为“在某些地方”。\n②fell to a few metres 中，to 引出下降后达到的数值；a few 表示肯定意义的“几个”，修饰复数名词 metres。\n③本句用具体数字说明烟雾之浓：能见度只有几米。下一句列举的交通、演出和农业展受到的影响，都与此有关。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "fall to 与 fall by：表示变化的介词",
+    "explain": "描述数量变化时，to 引出变化后的结果，by 引出变化的幅度：Visibility fell to a few metres（降到几米）；Sales fell by 10%（下降了10%）。rise、increase、drop、decline、grow 等动词都遵循这个规律，from 则引出变化前的数值，如 rise from 20 to 50。考研英语二的图表作文和阅读中的数据题，常因 to 与 by 混淆而误解数据。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The unemployment rate fell to 4.2 percent in March, its lowest level in a decade.",
+      "zh": "3月失业率降至4.2%，为十年来的最低水平。"
+     },
+     {
+      "en": "The price of wheat rose by nearly a third over the summer.",
+      "zh": "小麦价格在夏季上涨了近三分之一。"
+     }
+    ]
+   },
+   {
+    "title": "a few 表示肯定",
+    "explain": "a few 修饰可数名词复数，意为“几个，一些”，表示肯定；few 不带冠词时表示否定，意为“很少，几乎没有”。本句 a few metres 意为“几米”；第12句的 few thought to accuse it 则是“很少有人想到去指责它”。不可数名词用 a little 和 little，区别相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Only a few passengers were on the last train that night.",
+      "zh": "那晚末班车上只有几名乘客。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in places 与 in place",
+    "explain": "in places 意为“在某些地方，部分地方”，如 The road is flooded in places（路面有几处被淹）。它和 in place（在适当的位置；已经就绪）只差一个 s，意思完全不同：Security measures are in place 意为“安全措施已经到位”。考研阅读中 in place 出现频率很高，要注意区分。"
+   },
+   {
+    "term": "visibility",
+    "explain": "名词，能见度，常说 good/poor visibility；也指“可见性，知名度”，如 raise the visibility of a brand（提高品牌知名度），这个抽象义在考研阅读中也常见。本句视频译为“能见度”。"
+   },
+   {
+    "term": "metres",
+    "explain": "metre 的复数，英式拼写，美式拼写为 meter。本文的 sulphur、theatre、cosy 等也都是英式拼写，对应的美式拼写是 sulfur、theater、cozy。"
+   }
+  ],
+  "translation_tip": "视频译文“有些地方，能见度降到只有几米。”的处理：①In places 放在句首单独译出，译为“有些地方”。②fell 译为“降到”，介词短语 to a few metres 中增补“只有”，强调能见度之低。③a few 译为“几”，与量词“米”直接连用。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Ambulance services（分句一）；an opera（分句二）；prize cattle（分句三）",
+   "predicate": "were suspended（分句一）；was abandoned（分句二）；died or had to be slaughtered（分句三）",
+   "object_or_complement": "",
+   "explain": "这是由三个分句构成的并列句，前两个分句之间用逗号，最后一个分句前用 and，形成 A, B, and C 的结构。前两个分句都是一般过去时的被动语态；第三个分句有两个由 or 连接的并列谓语，died 是不及物动词，had to be slaughtered 是 have to 的过去式加被动不定式。"
+  },
+  "components": [
+   {
+    "text": "Ambulance services",
+    "zh": "救护车服务",
+    "role": "分句一的主语（名词 Ambulance 作定语，修饰 services）"
+   },
+   {
+    "text": "were suspended,",
+    "zh": "被暂停",
+    "role": "分句一的谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "an opera",
+    "zh": "一场歌剧",
+    "role": "分句二的主语"
+   },
+   {
+    "text": "at the Sadler's Wells theatre",
+    "zh": "萨德勒之井剧院的",
+    "role": "后置定语（介词短语），修饰 opera"
+   },
+   {
+    "text": "was abandoned",
+    "zh": "被中止",
+    "role": "分句二的谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "at the interval,",
+    "zh": "在幕间休息时",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "and",
+    "zh": "而",
+    "role": "并列连词，引出第三个分句"
+   },
+   {
+    "text": "prize cattle",
+    "zh": "获奖牛",
+    "role": "分句三的主语（名词 prize 作定语，修饰 cattle）"
+   },
+   {
+    "text": "at the Smithfield agricultural show",
+    "zh": "史密斯菲尔德农业展上的",
+    "role": "后置定语（介词短语），修饰 cattle"
+   },
+   {
+    "text": "died",
+    "zh": "则死亡",
+    "role": "分句三的谓语一（不及物动词）"
+   },
+   {
+    "text": "or had to be slaughtered.",
+    "zh": "或不得不被宰杀",
+    "role": "并列连词 or + 分句三的谓语二（had to + 被动不定式）"
+   }
+  ],
+  "structure": "①全句是并列句，三个分句列举烟雾造成的三方面后果：救护车服务暂停、歌剧演出中止、获奖牛死亡或被宰杀，按 A, B, and C 排列，and 前有牛津逗号。\n②分句一：Ambulance services were suspended，被动语态，名词 Ambulance 作定语修饰 services。\n③分句二：主语 an opera 后的 at the Sadler's Wells theatre 是介词短语作后置定语，修饰 opera（视频说明）；谓语 was abandoned 为被动语态；at the interval 作时间状语，意为“在幕间休息时”（视频说明）。\n④分句三：主语 prize cattle 中，prize 是名词作定语，意为“获奖的”；at the Smithfield agricultural show 是介词短语作后置定语，修饰 cattle（视频说明）。谓语是 or 连接的 died 和 had to be slaughtered，后者意为“不得不被宰杀”（视频说明），牛是被宰杀的一方，所以用被动不定式。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "三个分句的并列句与牛津逗号",
+    "explain": "三个及以上的并列分句可以写成“A, B, and C”，前面的分句之间用逗号，最后一个分句前用 and（或 but、or），and 前的逗号即牛津逗号。各分句结构完整、地位平等，常用于列举一连串现象或后果。本句用三个分句从医疗、文化、农业三个方面列举烟雾的影响。考研写作中这种句式适合列举论据，但只用逗号把两个完整的句子连在一起而不加连词，属于逗号粘连错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Schools were closed, flights were cancelled, and thousands of homes lost power.",
+      "zh": "学校停课，航班取消，数千户人家停电。"
+     },
+     {
+      "en": "Prices rose, wages stagnated, and many families struggled to pay their bills.",
+      "zh": "物价上涨，工资停滞，许多家庭难以支付各种账单。"
+     }
+    ]
+   },
+   {
+    "title": "had to + 被动不定式",
+    "explain": "have to 表示客观情况迫使不得不做，过去式是 had to；后接被动不定式 be done 时，表示主语不得不“被……”。本句 had to be slaughtered 意为“不得不被宰杀”。must 没有过去式形式，叙述过去被迫发生的事要用 had to。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several flights had to be diverted because of the storm.",
+      "zh": "由于暴风雨，有几趟航班不得不改飞其他机场。"
+     }
+    ]
+   },
+   {
+    "title": "集合名词 cattle",
+    "explain": "cattle 是集合名词，意为“牛（总称）”，形式上没有复数词尾，却总是作复数用，谓语用复数，如 The cattle are grazing；不能加 -s，也不能说 a cattle，单头牛说 a cow 或 a head of cattle，如 fifty head of cattle（50头牛）。people、police 作主语时谓语也用复数。本句谓语 died、had to 是过去式，看不出单复数，写作中用一般现在时就要注意用复数谓语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The cattle were moved to higher ground before the floods arrived.",
+      "zh": "洪水到来之前，牛群被转移到了地势较高的地方。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Sadler's Wells",
+    "explain": "伦敦的一家剧院，位于伊斯灵顿区。剧院名称来自17世纪在此开设娱乐场所的理查德·萨德勒（Richard Sadler）和当地的泉井（wells），视频译为“萨德勒之井剧院”。"
+   },
+   {
+    "term": "abandon",
+    "explain": "本句意为“中止（进行中的活动）”，常用被动，如 The match was abandoned because of rain（比赛因雨中止）。视频译为“被中止”。abandon 的常用义还有“抛弃，放弃”。"
+   },
+   {
+    "term": "interval",
+    "explain": "英式英语中指演出的幕间休息、比赛的中场休息，美式英语多用 intermission。at the interval 意为“在幕间休息时”（视频说明）。interval 的常用义是“间隔”，如 at regular intervals（每隔一定时间）。"
+   },
+   {
+    "term": "prize cattle",
+    "explain": "prize 是名词作定语，意为“获奖的，得过奖的”，如 a prize bull（获奖公牛）。视频译为“获奖牛”。"
+   },
+   {
+    "term": "Smithfield agricultural show",
+    "explain": "史密斯菲尔德农业展，由史密斯菲尔德俱乐部（Smithfield Club）在伦敦举办的年度展会，以展示和评比肉用牲畜为主。Smithfield 本是伦敦著名肉类市场的所在地。"
+   }
+  ],
+  "translation_tip": "视频译文“救护车服务被暂停，萨德勒之井剧院的一场歌剧在幕间休息时被中止，而史密斯菲尔德农业展上的获奖牛则死亡或不得不被宰杀。”的处理：①三个分句依次译出，保留原文的列举顺序。②前两个分句的被动语态都用“被”字译出：“被暂停”“被中止”。③两个后置定语前移：at the Sadler's Wells theatre 译为“萨德勒之井剧院的”，at the Smithfield agricultural show 译为“史密斯菲尔德农业展上的”；an 译为数量词“一场”。④at the interval 作时间状语，译为“在幕间休息时”，放在谓语前。⑤第三个分句前的 and 译为“而”，并在谓语前增补“则”，使最后一项更加醒目；or 连接的两个谓语译为“死亡或不得不被宰杀”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The smog",
+   "predicate": "dissipated",
+   "object_or_complement": "",
+   "explain": "主干是 The smog dissipated，主谓结构，dissipate 在此是不及物动词，意为“消散”；on Tuesday 9 December 作时间状语。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The smog",
+    "zh": "烟雾",
+    "role": "主语"
+   },
+   {
+    "text": "dissipated",
+    "zh": "消散于",
+    "role": "谓语（不及物动词，一般过去时）"
+   },
+   {
+    "text": "on Tuesday 9 December.",
+    "zh": "12月9日，星期二",
+    "role": "时间状语（介词短语，on 用于具体日期）"
+   }
+  ],
+  "structure": "①全句是简单句：主语 The smog，谓语 dissipated，on Tuesday 9 December 是时间状语。\n②dissipate 既可作不及物动词，表示烟雾、紧张情绪等自行“消散”，也可作及物动词，意为“驱散”，如 The wind dissipated the fog。本句是不及物用法，烟雾自行消散。\n③本句与第1句的 On Friday 5 December 1952 前后呼应，交代烟雾从12月5日星期五持续到12月9日星期二。本段接着由烟雾本身转向死亡人数的统计。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "dissipate 的及物与不及物用法",
+    "explain": "英语中许多动词既能作及物动词，也能作不及物动词，作不及物动词时主语是自行发生变化的事物，不用被动语态，如 The door opened、The ice melted。dissipate 也是这样：The fog dissipated（雾消散了，不及物）；The sun dissipated the fog（太阳驱散了雾，及物）。本句是不及物用法，表达“烟雾自行消散”不能写成 The smog was dissipated。类似的动词还有 disperse、dissolve、shrink、spread，考研写作中要注意不要误用被动。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By noon the crowd had dispersed and the square was quiet again.",
+      "zh": "到中午时，人群已经散去，广场又恢复了平静。"
+     },
+     {
+      "en": "Tensions between the two neighbours slowly dissipated after the talks.",
+      "zh": "会谈之后，两个邻国之间的紧张气氛逐渐消散。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dissipate",
+    "explain": "正式用词，意为“（雾、烟、热量等）消散”，也可指情绪、紧张气氛逐渐消失，如 His anger soon dissipated；还有“挥霍（钱财、精力）”之义，如 dissipate a fortune。视频译为“消散”。"
+   },
+   {
+    "term": "Tuesday 9 December",
+    "explain": "与第1句一样采用英式日期写法“星期 日 月”，介词用 on。视频按汉语习惯先说日期“12月9日”，再补“星期二”。"
+   }
+  ],
+  "translation_tip": "视频译文“烟雾消散于12月9日，星期二。”的处理：①保留英文“主语 + 谓语 + 时间”的语序，谓语 dissipated 加“于”译为“消散于”，引出时间，语气简洁书面。②日期部分按汉语习惯先说“12月9日”，再用逗号隔开补充“星期二”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Officials（分句一）；a 1954 Ministry of Health report（分句二）",
+   "predicate": "put（分句一）；blamed（分句二）",
+   "object_or_complement": "the excess deaths（put 的宾语）；later deaths（blamed 的宾语）",
+   "explain": "这是 but 连接的并列句，两个分句都是主谓宾结构，谓语都是一般过去时、主动语态。分句一用 put A at B（估计 A 为 B），分句二用 blame A on B（把 A 归咎于 B），两个结构中的介词短语都不能省略。"
+  },
+  "components": [
+   {
+    "text": "Officials",
+    "zh": "官员",
+    "role": "分句一的主语"
+   },
+   {
+    "text": "at the time",
+    "zh": "当时的",
+    "role": "后置定语（介词短语），修饰 Officials"
+   },
+   {
+    "text": "put",
+    "zh": "估计",
+    "role": "分句一的谓语（过去式，与 at 构成 put A at B）"
+   },
+   {
+    "text": "the excess deaths",
+    "zh": "超额死亡",
+    "role": "宾语（put 的宾语）"
+   },
+   {
+    "text": "at about 4,000,",
+    "zh": "约4,000人",
+    "role": "介词短语，与 put 构成 put A at B，表示估计的数值"
+   },
+   {
+    "text": "but",
+    "zh": "但",
+    "role": "并列连词（表转折）"
+   },
+   {
+    "text": "a 1954 Ministry of Health report",
+    "zh": "卫生部1954年的一份报告",
+    "role": "分句二的主语（中心词 report，1954 和 Ministry of Health 作前置定语）"
+   },
+   {
+    "text": "blamed",
+    "zh": "把……归咎",
+    "role": "分句二的谓语（与 on 构成 blame A on B）"
+   },
+   {
+    "text": "later deaths",
+    "zh": "后来的死亡",
+    "role": "宾语（blamed 的宾语）"
+   },
+   {
+    "text": "on influenza.",
+    "zh": "于流感",
+    "role": "介词短语，与 blamed 构成 blame A on B，引出归咎的对象"
+   }
+  ],
+  "structure": "①全句是 but 连接的并列句，前后两个分句意思转折：官员估计超额死亡约4,000人，但卫生部的报告却把后来的死亡归咎于流感，等于不承认这些死亡与烟雾有关。\n②分句一：主语 Officials 后的 at the time 是介词短语作后置定语，意为“当时的”；谓语 put 是过去式（put 的过去式和过去分词与原形相同），put the excess deaths at about 4,000 是 put A at B 结构（视频说明：估计 A 为 B）。\n③分句二：主语中心词是 report，前面的 a 1954 Ministry of Health 都是它的定语：1954 是数字作定语，表示年份；Ministry of Health 是名词作定语，表示报告的发布机构。谓语部分 blamed later deaths on influenza 是 blame A on B 结构（视频说明：把 A 归咎于 B），later 是形容词，修饰 deaths，指烟雾消散之后发生的死亡。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "put A at B：估计 A 为 B",
+    "explain": "put 除了“放”之外，还可以表示“估计，估算”，结构是 put sth at + 数字，如 put the cost at £2 million（估计费用为200万英镑），常用于新闻报道中对人数、费用、损失的估计。本句 put the excess deaths at about 4,000 即“估计超额死亡约4,000人”。put 的过去式与原形相同，本句是过去式作谓语，判断依据是主语 Officials 后面没有别的谓语动词，且全文叙述的是过去。同义表达有 estimate sth at、place sth at。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Insurers put the total damage from the floods at more than $3 billion.",
+      "zh": "保险公司估计洪灾造成的总损失超过30亿美元。"
+     },
+     {
+      "en": "Police put the size of the crowd at around 20,000.",
+      "zh": "警方估计人群规模约为两万人。"
+     }
+    ]
+   },
+   {
+    "title": "blame A on B 与 blame B for A",
+    "explain": "blame 有两种常用结构：blame sth on sb/sth（把某事归咎于某人或某物）和 blame sb/sth for sth（因某事责怪某人或某物），意思相同，宾语和介词的位置相反。本句 blamed later deaths on influenza 也可以说成 blamed influenza for later deaths。另有 sb/sth is to blame for sth（某人或某物应对某事负责），这里用主动形式的不定式 to blame。考研阅读中，blame、attribute A to B、put A down to B 都表示原因归属，常是因果类题目的答题依据。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company blamed the delay on a shortage of parts.",
+      "zh": "公司把延误归咎于零部件短缺。"
+     },
+     {
+      "en": "Many economists blame rising housing costs for the decline in birth rates.",
+      "zh": "许多经济学家把出生率下降归咎于住房成本上涨。"
+     }
+    ]
+   },
+   {
+    "title": "名词和数字作前置定语",
+    "explain": "英语中名词、数字可以直接放在另一个名词前作定语，不必变成形容词或所有格，如 a 1954 report（一份1954年的报告）、a Ministry of Health report（卫生部的报告）、ambulance services（救护车服务）。几个前置定语叠加时，中心词在最后：a 1954 Ministry of Health report 的中心词是 report。新闻英语为求简洁大量使用这种结构，翻译时要先找中心词，再把前面的定语按汉语习惯排列。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A 2019 government survey found that one in five adults rarely reads books.",
+      "zh": "政府2019年的一项调查发现，五分之一的成年人很少读书。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "excess deaths",
+    "explain": "超额死亡，统计学和公共卫生用语，指某一时期实际死亡人数超出正常情况下预期死亡人数的部分，常用来衡量灾害、疫情等造成的死亡。excess 在这里是形容词，意为“超出的，额外的”，读作 /ˈekses/。"
+   },
+   {
+    "term": "Ministry of Health",
+    "explain": "卫生部，英国当时的政府部门名称，作专有名词时首字母大写，本句中作定语修饰 report。"
+   },
+   {
+    "term": "influenza",
+    "explain": "流行性感冒，正式用语，口语中多说 flu。"
+   },
+   {
+    "term": "at the time",
+    "explain": "“当时”，指所叙述的那个过去时间，本句作 Officials 的后置定语；注意与 at a time（每次，一次）、at times（有时）区分。"
+   }
+  ],
+  "translation_tip": "视频译文“当时的官员估计超额死亡约4,000人，但卫生部1954年的一份报告把后来的死亡归咎于流感。”的处理：①后置定语 at the time 前移，译为“当时的官员”。②put A at B 译为“估计……约……”，about 译为“约”，在数字后增补量词“人”。③but 译为“但”，保留转折。④主语 a 1954 Ministry of Health report 中的前置定语按汉语习惯重新排列：先说发布机构“卫生部”，再说年份“1954年”，最后是数量词“一份”和中心词“报告”。⑤blame A on B 用“把”字句译出：“把后来的死亡归咎于流感”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "A study",
+   "predicate": "reassessed … and cast doubt on",
+   "object_or_complement": "the evidence（reassessed 的宾语）；that explanation（cast doubt on 的宾语）",
+   "explain": "主干是一个主语带两个由 and 连接的并列谓语：A study reassessed the evidence and cast doubt on that explanation。reassessed 是规则动词的过去式；cast 的过去式与原形相同，这里与 reassessed 并列，也是过去式。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A study",
+    "zh": "一项研究",
+    "role": "主语"
+   },
+   {
+    "text": "published in Environmental Health Perspectives in 2001",
+    "zh": "2001年发表于《环境健康展望》的",
+    "role": "后置定语（过去分词短语），修饰 A study"
+   },
+   {
+    "text": "reassessed",
+    "zh": "重新评估了",
+    "role": "谓语一（一般过去时）"
+   },
+   {
+    "text": "the evidence",
+    "zh": "证据",
+    "role": "宾语（reassessed 的宾语）"
+   },
+   {
+    "text": "and",
+    "zh": "并",
+    "role": "并列连词，连接两个谓语"
+   },
+   {
+    "text": "cast doubt on",
+    "zh": "对……提出了质疑",
+    "role": "谓语二（动词短语 cast doubt on，cast 为过去式）"
+   },
+   {
+    "text": "that explanation,",
+    "zh": "这一解释",
+    "role": "宾语（cast doubt on 的宾语），指上句卫生部报告把死亡归咎于流感的说法"
+   },
+   {
+    "text": "estimating",
+    "zh": "估计",
+    "role": "状语（现在分词短语 estimating... 的核心），补充说明研究结论，逻辑主语是 A study"
+   },
+   {
+    "text": "about 12,000 excess deaths",
+    "zh": "约有12,000例超额死亡",
+    "role": "宾语（estimating 的宾语）"
+   },
+   {
+    "text": "between December 1952 and February 1953.",
+    "zh": "在1952年12月至1953年2月期间",
+    "role": "后置定语（介词短语），修饰 excess deaths，说明死亡发生的时间范围"
+   }
+  ],
+  "structure": "①主句是 A study reassessed the evidence and cast doubt on that explanation，一个主语带两个并列谓语。cast 的过去式与原形相同，判断它是谓语的依据是：它与 reassessed 由 and 连接，共用主语 A study。\n②主语后的 published in Environmental Health Perspectives in 2001 是过去分词短语作后置定语，修饰 study（视频说明），相当于 which was published in...，研究是“被发表”的一方，所以用过去分词。分词短语里有两个状语：in Environmental Health Perspectives 说明发表在哪里，in 2001 说明发表时间。\n③that explanation 中的 that 是指示代词作定语，回指上句卫生部报告“把后来的死亡归咎于流感”的说法。\n④句末 estimating about 12,000 excess deaths between December 1952 and February 1953 是现在分词短语作状语，补充说明研究结论（视频说明），逻辑主语是 A study；between ... and ... 说明这些超额死亡发生的时间范围。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语：published in...",
+    "explain": "说明某项研究、报告“发表于何处、何时”，英语常用 published in... 作后置定语，如 a study published in Nature last year。分词短语较长时必须放在名词后面，主语因此被拉长，谓语要到分词短语结束后才出现。本句主语 A study 后紧跟 published，接着是两个 in 短语，到 reassessed 才是谓语。考研阅读中，“A study published in...”是引出研究发现的常见句式，抓住真正的谓语才能看清研究结论。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A report released by the World Bank last month warned of slowing growth in developing countries.",
+      "zh": "世界银行上个月发布的一份报告警告说，发展中国家的经济增长正在放缓。"
+     },
+     {
+      "en": "Research published in a leading medical journal suggests that regular walking lowers the risk of heart disease.",
+      "zh": "发表在一家权威医学期刊上的研究表明，经常散步能降低患心脏病的风险。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作状语，补充说明结论",
+    "explain": "句末用逗号隔开的现在分词短语，可以补充说明主句动作的具体内容，逻辑主语是主句主语。本句 estimating about 12,000 excess deaths 补充说明这项研究得出的具体结论（视频说明），意思相当于 and it estimated...。科研报道常用 finding that...、suggesting that...、estimating... 这类分词短语交代研究发现，句子紧凑而层次清楚。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey polled 3,000 adults, finding that most supported the new law.",
+      "zh": "该调查访问了3,000名成年人，发现大多数人支持这项新法律。"
+     }
+    ]
+   },
+   {
+    "title": "三种形式相同的不规则动词",
+    "explain": "cast、put、cut、set、hit、cost、spread 等不规则动词的原形、过去式和过去分词形式相同，在句中要根据主语、时态和上下文判断它的身份。本句 cast 与过去式 reassessed 并列，共用主语 A study，所以是过去式；上一句的 put 也是同样情况。如果把它误认为原形或过去分词，句子结构就分析错了。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister studied the report carefully and set out a new plan the following week.",
+      "zh": "部长仔细研究了这份报告，并在第二周提出了新计划。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Environmental Health Perspectives",
+    "explain": "《环境健康展望》，一份经同行评审的学术期刊，由美国国家环境卫生科学研究所（National Institute of Environmental Health Sciences）支持出版，主要发表环境因素与人类健康关系的研究。英文中期刊名一般用斜体，视频译文加了书名号。"
+   },
+   {
+    "term": "cast doubt on",
+    "explain": "固定短语，意为“对……提出质疑，使人怀疑”（视频说明），宾语多为说法、结论、证据，如 cast doubt on the official figures（使人怀疑官方数据）。同类表达有 call sth into question、throw doubt on、raise doubts about。"
+   },
+   {
+    "term": "reassess",
+    "explain": "前缀 re- 表示“重新，再”，reassess 意为“重新评估”；同类的词有 reconsider、re-examine、re-evaluate。视频译为“重新评估了”。"
+   }
+  ],
+  "translation_tip": "视频译文“2001年发表于《环境健康展望》的一项研究重新评估了证据，并对这一解释提出了质疑，估计在1952年12月至1953年2月期间约有12,000例超额死亡。”的处理：①过去分词短语作后置定语，整体前移到“一项研究”之前，时间 in 2001 放在最前，译为“2001年发表于《环境健康展望》的”，期刊名加书名号。②两个并列谓语依次译出，and 译为“并”；cast doubt on 用介词结构“对……提出了质疑”译出。③句末现在分词短语单独成句，译为“估计……约有……”；between ... and ... 这一后置定语转为时间状语“在……期间”，放在“约有”前面，超额死亡数后加量词“例”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Londoners",
+   "predicate": "had tolerated",
+   "object_or_complement": "the smoke",
+   "explain": "主谓宾结构。谓语 had tolerated 是过去完成时，主动语态，与 For decades 连用，表示在1952年那场烟雾之前的几十年里一直持续的状态。as a nuisance 说明人们把煤烟当作什么。"
+  },
+  "components": [
+   {
+    "text": "For decades",
+    "zh": "几十年来",
+    "role": "时间状语（介词短语，表示持续的时间）"
+   },
+   {
+    "text": "Londoners",
+    "zh": "伦敦人",
+    "role": "主语"
+   },
+   {
+    "text": "had tolerated",
+    "zh": "一直容忍着",
+    "role": "谓语（过去完成时）"
+   },
+   {
+    "text": "the smoke",
+    "zh": "煤烟",
+    "role": "宾语"
+   },
+   {
+    "text": "as a nuisance.",
+    "zh": "只是把它当成一种让人讨厌的事情",
+    "role": "宾语补足语（as 引导的介词短语），与宾语构成 tolerate A as B"
+   }
+  ],
+  "structure": "①全句是简单句：主语 Londoners，谓语 had tolerated，宾语 the smoke；as a nuisance 说明人们把煤烟看成什么，与宾语构成 tolerate A as B（视频说明：把 A 当作 B 来容忍）。\n②For decades 作时间状语，表示持续了几十年。谓语用过去完成时，是因为这一段在时间上退回到了1952年之前：上一段讲到2001年的研究，本段回溯烟雾事件以前人们的态度，用 had tolerated 表示这种容忍一直持续到那场烟雾为止。\n③nuisance 指让人烦恼的事情，说明伦敦人只把煤烟当作生活中的麻烦，没有意识到它的致命危害，这正是第13句 complacency（自满）所指的心态。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时与 for + 时间段",
+    "explain": "for + 时间段表示动作或状态持续的时间。持续到现在，用现在完成时（have done）；持续到过去某一时刻为止，用过去完成时（had done）。本句的参照点是1952年那场烟雾，几十年来的容忍一直持续到那时，所以用 had tolerated。与一般过去时 tolerated 相比，过去完成时强调“在那之前一直如此”，暗示那场烟雾之后情况发生了变化。考研完形中，看到 for decades、by then、until that time 等表达，要考虑是否用过去完成时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the new bridge opened, residents had relied on a ferry for more than a century.",
+      "zh": "到新桥通车时，居民们靠渡船出行已有一百多年了。"
+     },
+     {
+      "en": "For years the factory had dumped waste into the river before inspectors finally shut it down.",
+      "zh": "这家工厂多年来一直把废料倒进河里，直到检查人员最终将其关停。"
+     }
+    ]
+   },
+   {
+    "title": "动词 + 宾语 + as 短语作宾语补足语",
+    "explain": "regard、see、view、treat、describe、accept、tolerate 等动词常接“宾语 + as + 名词/形容词”，as 短语作宾语补足语，说明宾语被看作、被当作什么，如 regard the plan as unrealistic。本句 tolerated the smoke as a nuisance 意为“把煤烟当作讨厌的事情来容忍”（视频说明）。as 在这里是介词，后面接名词 a nuisance；考研写作中应写 regard A as B，不要写成 regard A to be B。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many residents see the new motorway as a threat to their quiet neighbourhood.",
+      "zh": "许多居民把这条新修的高速公路视为对他们宁静社区的威胁。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tolerate",
+    "explain": "及物动词，意为“容忍，忍受”，接名词或动名词，如 tolerate noise、will not tolerate cheating（决不容忍作弊）；名词 tolerance（容忍；耐受力），形容词 tolerant（宽容的）。视频译为“容忍”。"
+   },
+   {
+    "term": "nuisance",
+    "explain": "名词，令人讨厌的人或事物，如 What a nuisance!（真烦人！）、make a nuisance of oneself（惹人讨厌）；法律上 a public nuisance 指妨害公众的行为。视频译为“让人讨厌的事情”。"
+   },
+   {
+    "term": "for decades",
+    "explain": "“几十年来”，类似的有 for years（多年来）、for centuries（几个世纪以来），常与完成时连用。"
+   }
+  ],
+  "translation_tip": "视频译文“几十年来，伦敦人一直容忍着煤烟，只是把它当成一种让人讨厌的事情。”的处理：①For decades 译为“几十年来”放在句首，用逗号隔开。②过去完成时 had tolerated 译为“一直容忍着”，“一直”体现持续，“着”体现状态。③as a nuisance 拆成独立的短句，用“把它当成……”译出，“它”回指煤烟；增补“只是”，突出人们对煤烟危害的轻视。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "One villain",
+   "predicate": "flickered",
+   "object_or_complement": "",
+   "explain": "主干是 One villain flickered，主谓结构，flicker 是不及物动词，in their own grates 作地点状语。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "One villain",
+    "zh": "一个元凶",
+    "role": "主语"
+   },
+   {
+    "text": "flickered",
+    "zh": "闪烁",
+    "role": "谓语（不及物动词，一般过去时）"
+   },
+   {
+    "text": "in their own grates,",
+    "zh": "就在他们自家的炉栅里",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "a source of warmth and comfort",
+    "zh": "一个温暖与舒适的来源",
+    "role": "同位语（名词短语），补充说明 One villain"
+   },
+   {
+    "text": "so habitual",
+    "zh": "如此习以为常",
+    "role": "后置定语（形容词短语），修饰 a source"
+   },
+   {
+    "text": "that few thought to accuse it.",
+    "zh": "以至于很少有人想到去指责它",
+    "role": "结果状语从句（that 引导，与 so 构成 so… that…）"
+   }
+  ],
+  "structure": "①主句是 One villain flickered in their own grates，主谓结构加地点状语。villain 原指坏人、反派，这里比喻造成污染的元凶，即自家壁炉里燃烧的煤火；flickered 描写火光摇曳闪烁的样子。their 指上句的 Londoners。\n②a source of warmth and comfort 是名词短语作同位语，补充说明 villain（视频说明），点明这个元凶同时又是温暖与舒适的来源，形成反差。\n③so habitual 是形容词短语作后置定语，修饰 a source；它与后面 that 引导的结果状语从句构成 so… that…（视频说明：如此……以至于……）。引导词 that 是从属连词，在从句中不充当任何成分，只起连接作用；从句中 few 是代词作主语，意为“很少有人”，表示否定；thought to accuse it 中 think to do 意为“想到去做”，it 指那个元凶，即家里的煤火。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "so… that… 结果状语从句",
+    "explain": "so + 形容词/副词 + that 从句表示“如此……以至于……”，that 引导结果状语从句；修饰名词短语时用 such，如 such a cold winter that...。本句 so habitual that few thought to accuse it 中，so habitual 修饰 a source，结果是很少有人想到指责它。so 和 that 之间的部分可以较长，阅读时看到 so 要留意后面是否有 that 从句。考研翻译中常译为“如此……以至于……”，也可以按汉语习惯译为“太……，所以……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The instructions were so complicated that most users gave up halfway.",
+      "zh": "说明书写得太复杂，大多数用户看到一半就放弃了。"
+     },
+     {
+      "en": "It was such a persuasive argument that even the critics were won over.",
+      "zh": "这个论点非常有说服力，连批评者都被说服了。"
+     }
+    ]
+   },
+   {
+    "title": "few 与 a few 的区别",
+    "explain": "few 和 a few 都修饰可数名词复数或单独作代词：few 表示否定，意为“很少，几乎没有”；a few 表示肯定，意为“有几个”。本句 few thought to accuse it 意为“很少有人想到去指责它”，few 单独作代词，相当于 few people；第6句的 a few metres 则是“几米”。little 和 a little 用于不可数名词，区别相同。考研阅读中 few、little 带有否定含义，常是判断作者态度和解答细节题的关键。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few experts predicted that the housing market would recover so quickly.",
+      "zh": "很少有专家预料到房地产市场会恢复得这么快。"
+     },
+     {
+      "en": "A few volunteers stayed behind to clear up after the concert.",
+      "zh": "音乐会结束后，有几名志愿者留下来打扫场地。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语，形成反差",
+    "explain": "本句同位语 a source of warmth and comfort 与主语 One villain 隔着谓语和地点状语，但说明的仍是主语：元凶和温暖舒适的来源是同一样东西，即家里燃烧的煤火。作者把贬义的 villain 和褒义的 warmth and comfort 并置，说明人们为什么察觉不到它的危害。同位语远离被说明的名词时，要根据意思找回它说明的对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "One culprit sat on every bedside table, a device so convenient that few people questioned its effect on their sleep.",
+      "zh": "一个罪魁祸首就摆在每个床头柜上，那是一种非常方便的设备，以至于很少有人怀疑它对睡眠的影响。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "villain",
+    "explain": "原指小说、戏剧中的反派、坏人；the villain of the piece 指“罪魁祸首”。本句比喻造成污染的元凶，视频译为“元凶”。"
+   },
+   {
+    "term": "grate",
+    "explain": "名词，炉栅，壁炉里放煤的铁架（视频说明），视频译为“炉栅”。grate 作动词时意为“磨碎”，如 grate cheese（把奶酪磨碎）。"
+   },
+   {
+    "term": "think to do sth",
+    "explain": "意为“想到要做某事”，多用于否定或接近否定的语境，如 Nobody thought to call the police（没有人想到要报警）。本句与 few 连用，视频译为“很少有人想到去”。"
+   },
+   {
+    "term": "flicker",
+    "explain": "不及物动词，（火光、灯光）摇曳，闪烁，如 candles flickering in the dark（在黑暗中摇曳的烛光）。视频译为“闪烁”。"
+   }
+  ],
+  "translation_tip": "视频译文“一个元凶就在他们自家的炉栅里闪烁，一个温暖与舒适的来源，如此习以为常，以至于很少有人想到去指责它。”的处理：①地点状语 in their own grates 前移到谓语前，增补“就”，译为“就在他们自家的炉栅里闪烁”，own 译为“自家的”，强调元凶就在每家每户。②同位语按原文位置单独成句，译为“一个温暖与舒适的来源”，与“一个元凶”形式对称，突出反差。③so habitual 与 that 从句拆成两个短句：“如此习以为常，以至于……”；few 译为“很少有人”，think to do 译为“想到去”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Such complacency",
+   "predicate": "may help",
+   "object_or_complement": "to explain the government's grudging response（不定式作宾语）",
+   "explain": "主谓宾结构，情态动词 may 表示推测，help 后接不定式 to explain... 作宾语。谓语为“情态动词 + 动词原形”，一般现在时，表示作者现在的推断。"
+  },
+  "components": [
+   {
+    "text": "Such complacency",
+    "zh": "这种自满",
+    "role": "主语"
+   },
+   {
+    "text": "may",
+    "zh": "或许",
+    "role": "情态动词（表推测），与 help 构成谓语"
+   },
+   {
+    "text": "help to",
+    "zh": "有助于",
+    "role": "谓语动词 help + 不定式符号 to"
+   },
+   {
+    "text": "explain",
+    "zh": "解释",
+    "role": "不定式动词，to explain... 作 help 的宾语"
+   },
+   {
+    "text": "the government's",
+    "zh": "政府",
+    "role": "定语（名词所有格），修饰 response"
+   },
+   {
+    "text": "grudging",
+    "zh": "勉强的",
+    "role": "前置定语（形容词），修饰 response"
+   },
+   {
+    "text": "response.",
+    "zh": "回应",
+    "role": "宾语（explain 的宾语）"
+   }
+  ],
+  "structure": "①全句是简单句：主语 Such complacency，谓语 may help，不定式 to explain the government's grudging response 作宾语。\n②Such complacency 中的 such 回指上文：人们把煤烟当成寻常的生活麻烦，很少想到家中取暖的煤火也是污染元凶，视频说明称这种心态为“掉以轻心”。such 修饰不可数名词时直接放在名词前，不加冠词。\n③may 表示推测，作者没有把政府反应勉强的原因说成确定的事实；help to explain 意为“有助于解释”，表示这只是原因之一（视频说明：或许也是政府应对不够积极的原因之一）。\n④the government's grudging response 中，名词所有格 the government's 和形容词 grudging 都修饰 response。下一句 It withstood pressure for an inquiry 就是这种勉强回应的具体表现。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "情态动词 may 表示推测",
+    "explain": "may 可以表示可能性和推测，语气比 must（一定）弱，与 might、could 接近。本句 may help to explain 表明作者只是推断自满心态是政府反应勉强的一个原因，并非定论。考研阅读中，作者用 may、might、could、perhaps、likely 等词表达的是推测或可能，做题时不能把它当成确定的事实；选项把 may 换成 will、must 等绝对化表述时，往往是干扰项。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Rising rents may explain why so many young graduates are leaving the city.",
+      "zh": "租金上涨或许可以解释为什么这么多年轻毕业生正在离开这座城市。"
+     },
+     {
+      "en": "The findings may help doctors identify patients at risk earlier.",
+      "zh": "这些发现或许能帮助医生更早地识别出高危病人。"
+     }
+    ]
+   },
+   {
+    "title": "help (to) do sth",
+    "explain": "help 后接动词时，可以用带 to 的不定式，也可以用不带 to 的不定式：help to explain 与 help explain 意思相同。help sb (to) do sth 意为“帮助某人做某事”。本句 help to explain 中，不定式作 help 的宾语，意为“有助于解释”。注意 can't help doing 是另一个固定结构，意为“忍不住做”，不要混淆。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Regular exercise can help reduce stress and improve sleep.",
+      "zh": "经常锻炼有助于减轻压力、改善睡眠。"
+     }
+    ]
+   },
+   {
+    "title": "such 修饰不可数名词",
+    "explain": "such 意为“这样的，这种”，修饰单数可数名词时要加 a/an（such a decision），修饰不可数名词或复数名词时不加冠词（such complacency、such problems）。本句 such 回指上文描述的心态，起承上启下的作用。考研阅读中，以 such、this、these 开头的句子常对上文内容进行概括，是理解段落逻辑的重要线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Such generosity from a stranger took her completely by surprise.",
+      "zh": "一个陌生人如此慷慨，让她十分意外。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "complacency",
+    "explain": "名词，自满，自鸣得意，尤指对潜在的危险满不在乎，如 There is no room for complacency（不能有丝毫自满）。视频说明把这种心态解释为“掉以轻心”，本句视频译为“自满”。形容词为 complacent。"
+   },
+   {
+    "term": "grudging",
+    "explain": "形容词，勉强的，不情愿的，常修饰 respect、admiration、acceptance、support 等，如 grudging respect（勉强的尊重）。来自 grudge（不情愿地给；怨恨）。视频译为“勉强的”。"
+   },
+   {
+    "term": "government 用 it 指代",
+    "explain": "英式英语中 government 等集合名词可以看作一个整体用单数，也可以着眼于其成员用复数；下一句用 It 指代政府，是把它看作一个整体。"
+   }
+  ],
+  "translation_tip": "视频译文“这种自满，或许有助于解释政府勉强的回应。”的处理：①主语 Such complacency 译为“这种自满”，后加逗号停顿，突出它是承接上文的话题。②情态动词 may 译为“或许”，保留推测语气；help to 译为“有助于”。③名词所有格 the government's 译为“政府”，不加“的”，与“勉强的回应”连成“政府勉强的回应”，避免“的”字重复。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "It",
+   "predicate": "withstood",
+   "object_or_complement": "pressure",
+   "explain": "主谓宾结构，It 指代上句的 the government。谓语 withstood 是 withstand 的过去式，一般过去时，主动语态；until May 1953 说明这种抵挡持续到什么时候。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "zh": "政府",
+    "role": "主语（代词，指代上句的 the government）"
+   },
+   {
+    "text": "withstood",
+    "zh": "顶住了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "pressure",
+    "zh": "压力",
+    "role": "宾语"
+   },
+   {
+    "text": "for an inquiry",
+    "zh": "要求调查的",
+    "role": "后置定语（介词短语），修饰 pressure"
+   },
+   {
+    "text": "until May 1953.",
+    "zh": "直到1953年的5月",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①全句是简单句：主语 It，谓语 withstood，宾语 pressure，for an inquiry 是介词短语作后置定语，修饰 pressure（视频说明：要求调查的压力），for 表示压力所要求的内容。\n②until May 1953 作时间状语。withstand 表示持续地顶住、抵挡，是延续性的动作，所以可以用肯定形式与 until 连用，表示一直顶住压力到1953年5月，言外之意是到那时政府才同意调查。\n③本句是上句 grudging response（勉强的回应）的具体例证：从1952年12月烟雾发生到1953年5月，政府拖了约五个月才回应调查的要求。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "until 与延续性动词、非延续性动词",
+    "explain": "until 意为“直到……为止”。主句谓语是延续性动作或状态时用肯定形式，表示动作一直持续到那个时间，如 We waited until midnight；主句谓语是非延续性动作时要用 not... until...，表示到那个时间动作才发生，如 He didn't leave until midnight。本句 withstood pressure 表示持续地顶住压力，所以用肯定形式加 until。考研翻译中，not... until... 常译为“直到……才……”，强调句型 It was not until... that... 也常考。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government resisted calls for a referendum until the final week of the session.",
+      "zh": "政府一直抵制举行全民公投的呼声，直到会期的最后一周。"
+     },
+     {
+      "en": "It was not until the end of the meeting that the chairman revealed his decision.",
+      "zh": "直到会议结束，主席才公布了他的决定。"
+     }
+    ]
+   },
+   {
+    "title": "pressure for sth：介词 for 表示要求",
+    "explain": "pressure for sth 意为“要求某事的压力”，for 引出压力所要求的内容，如 pressure for reform（要求改革的压力）；calls for change（要求变革的呼声）、demand for higher wages（要求提高工资）中的 for 也是这个意思。表示“向某人施压要求做某事”，用 put pressure on sb to do sth 或 pressure sb into doing sth。本句 pressure for an inquiry 意为“要求调查的压力”（视频说明），作 withstood 的宾语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Pressure for tougher gun laws has grown since the shooting.",
+      "zh": "枪击事件发生以来，要求出台更严格枪支法的压力越来越大。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "withstand",
+    "explain": "及物动词，意为“经受住，顶住”，常接 pressure、criticism、attack、heat 等，如 buildings designed to withstand earthquakes（设计成能抗震的建筑）。过去式和过去分词都是 withstood。本句视频译为“顶住了”，带有政府拖延不办的意味。"
+   },
+   {
+    "term": "inquiry",
+    "explain": "名词，调查，尤指官方的正式调查，如 a public inquiry（公开调查）、launch/hold an inquiry（展开调查）；也可指询问。英式英语也拼作 enquiry，表示正式调查时多用 inquiry。视频译为“调查”。"
+   }
+  ],
+  "translation_tip": "视频译文“政府顶住了要求调查的压力，直到1953年的5月。”的处理：①代词 It 还原为它所指的名词“政府”，使句子意思独立清楚。②后置定语 for an inquiry 前移，译为“要求调查的压力”，增补“要求”体现介词 for 的含义。③时间状语 until May 1953 放在句末单独成句，译为“直到1953年的5月”，突出政府拖延时间之长。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Reform",
+   "predicate": "proved",
+   "object_or_complement": "protracted（表语）",
+   "explain": "主系表结构，prove 在此作系动词，意为“结果是，事实证明”，后接形容词 protracted 作表语（视频说明：prove＋形容词）。谓语 proved 是一般过去时，主动形式。"
+  },
+  "components": [
+   {
+    "text": "Reform",
+    "zh": "改革",
+    "role": "主语"
+   },
+   {
+    "text": "proved",
+    "zh": "被证明是",
+    "role": "系动词（prove 作系动词，后接形容词）"
+   },
+   {
+    "text": "protracted,",
+    "zh": "旷日持久的",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "slowed",
+    "zh": "并被……拖慢了",
+    "role": "状语（过去分词短语 slowed by... 的核心），逻辑主语是 Reform"
+   },
+   {
+    "text": "by official inertia.",
+    "zh": "官方的惰性",
+    "role": "介词短语，by 引出 slowed 的动作执行者"
+   }
+  ],
+  "structure": "①主句 Reform proved protracted 是主系表结构，prove 作系动词，后面直接接形容词 protracted 作表语，中间不需要 to be，也没有被动形式。\n②slowed by official inertia 是过去分词短语作状语（视频说明），逻辑主语是 Reform：改革是被拖慢的一方，所以用过去分词，by 引出拖慢改革的 official inertia。这个状语补充说明改革为什么旷日持久。\n③official 是形容词，意为“官方的”，修饰 inertia；inertia 原为物理学术语“惯性”，这里指官方机构不愿改变、行动迟缓的惰性。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "prove 作系动词",
+    "explain": "prove 除了作及物动词表示“证明”外，还可以作系动词，后接形容词或名词，意为“结果是，原来是，事实证明”，如 The task proved difficult、The new manager proved a success；也可以接 to be，如 The rumour proved to be false。作系动词时 prove 用主动形式，不能写成 was proved protracted。意思相近的有 turn out（结果是）。本句 proved protracted 意为“结果是旷日持久的”，视频译为“被证明是旷日持久的”。考研阅读中常见 prove (to be) + 形容词的结构，表示事情的最终结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The negotiations proved more difficult than either side had expected.",
+      "zh": "谈判结果比双方预想的都要艰难。"
+     },
+     {
+      "en": "His warning about the risks of the investment proved to be correct.",
+      "zh": "事实证明，他对这项投资风险的警告是正确的。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作状语",
+    "explain": "过去分词短语可以作状语，表示原因、方式、伴随等，逻辑主语一般是句子主语，并且与它是被动关系。本句 slowed by official inertia 的逻辑主语是 Reform，改革“被”官方惰性拖慢，所以用过去分词；by 引出动作的执行者。判断分词形式时，要看逻辑主语与动词的关系：主动用 -ing，被动用 -ed。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Encouraged by the early results, the team decided to expand the project.",
+      "zh": "受到初步结果的鼓舞，团队决定扩大项目规模。"
+     },
+     {
+      "en": "The rescue operation was delayed for hours, hampered by bad weather.",
+      "zh": "救援行动受到恶劣天气阻碍，被耽搁了好几个小时。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "protracted",
+    "explain": "形容词，旷日持久的，拖延的，多带贬义，常修饰 negotiations、dispute、conflict、illness，如 protracted legal battles（旷日持久的法律纠纷）。视频译为“旷日持久的”。"
+   },
+   {
+    "term": "inertia",
+    "explain": "名词，原指物理学中的“惯性”，引申为人或机构不愿改变、行动迟缓的“惰性”，常说 bureaucratic inertia（官僚惰性）、institutional inertia（体制惰性）。本句视频译为“惰性”。"
+   },
+   {
+    "term": "official",
+    "explain": "形容词“官方的，正式的”，如 official figures（官方数据）；名词“官员”，如第9句的 Officials。"
+   }
+  ],
+  "translation_tip": "视频译文“改革被证明是旷日持久的，并被官方的惰性拖慢了。”的处理：①系动词 proved 译为“被证明是”，这是汉语表达“事实证明”这层意思的习惯说法；protracted 译为“旷日持久的”。②过去分词短语 slowed by official inertia 译成并列的短句，用“并”连接；被动关系用“被……拖慢了”译出，by 引出的执行者“官方的惰性”放在“被”和“拖慢了”之间。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The Clean Air Act",
+   "predicate": "became",
+   "object_or_complement": "law（表语）",
+   "explain": "主系表结构，become 是系动词，名词 law 作表语，become law 意为“成为法律”，指法案正式通过成为法律。谓语是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The Clean Air Act",
+    "zh": "《清洁空气法》",
+    "role": "主语"
+   },
+   {
+    "text": "became",
+    "zh": "成为",
+    "role": "系动词（一般过去时）"
+   },
+   {
+    "text": "law",
+    "zh": "法律",
+    "role": "表语（名词，不加冠词）"
+   },
+   {
+    "text": "on 5 July 1956,",
+    "zh": "于1956年7月5日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "three and a half years after the smog.",
+    "zh": "此时距那场烟雾已过去三年半",
+    "role": "时间状语的补充说明（介词短语 after the smog 前加时间段 three and a half years 表示相隔多久），补充说明 on 5 July 1956"
+   }
+  ],
+  "structure": "①全句是简单句：主语 The Clean Air Act，系动词 became，表语 law，on 5 July 1956 是时间状语。law 在 become law 中不加冠词，指“法律”这一身份。\n②句末 three and a half years after the smog 是对前面时间的补充说明（视频说明），用逗号隔开。其中 three and a half years 是名词短语，修饰后面的介词短语 after the smog，表示“在烟雾之后三年半”，即从1952年12月到1956年7月。\n③这个补充说明呼应上句 Reform proved protracted：从烟雾发生到立法用了三年半，说明改革确实旷日持久。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "时间段 + after/before：表示相隔多久",
+    "explain": "表示“在某事之后或之前多久”，把时间段放在 after/before 前面：three years after the war（战后三年）、two days before the election（选举前两天），时间段修饰整个介词短语。也可以用 later、earlier 表达，如 three years later。本句 three and a half years after the smog 意为“烟雾之后三年半”。“三年半”说成 three and a half years，名词用复数，不能写成 three and a half year。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company went bankrupt only eighteen months after its stock market debut.",
+      "zh": "这家公司上市仅18个月后就破产了。"
+     },
+     {
+      "en": "She was promoted to manager two and a half years after joining the firm.",
+      "zh": "她加入公司两年半后被提升为经理。"
+     }
+    ]
+   },
+   {
+    "title": "become law：表语名词不加冠词",
+    "explain": "become、be、be elected 等后面的名词表示独一无二的职位或身份时，常不加冠词，如 He became president of the society、She was elected chair。become law（成为法律，即法案通过）中的 law 指“法律”这种身份，也不加冠词；相关表达有 come into force/effect（生效）、pass a bill（通过法案）。在英国，法案在议会审议、尚未获得御准（Royal Assent）时叫 bill，获得御准成为法律后称为 Act。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bill is expected to become law by the end of the year.",
+      "zh": "该法案预计将于年底前成为法律。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Clean Air Act 1956",
+    "explain": "英国议会1956年通过的《清洁空气法》，是对1952年伦敦烟雾事件的立法回应。下一句 It empowered municipal councils to create smokeless zones 讲的就是它的主要措施。"
+   },
+   {
+    "term": "Act",
+    "explain": "名词，法案，法令，指议会通过的法律；首字母大写时常作法律名称的一部分，如 the Clean Air Act《清洁空气法》（视频说明）。视频译为“法”。"
+   }
+  ],
+  "translation_tip": "视频译文“《清洁空气法》于1956年7月5日成为法律，此时距那场烟雾已过去三年半。”的处理：①法律名称加书名号，Act 译为“法”。②时间状语 on 5 July 1956 前移到谓语前，译为“于1956年7月5日”，语气正式，符合法律、历史叙述的语体。③句末的补充说明单独成句，增补“此时距……已过去……”，把 three and a half years after the smog 的时间关系说清楚，“那场烟雾”回指1952年的事件。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "It",
+   "predicate": "empowered",
+   "object_or_complement": "municipal councils（宾语）；to create smokeless zones（宾语补足语）",
+   "explain": "主谓宾宾补结构，empower sb to do sth 意为“授权某人做某事”（视频说明），不定式 to create smokeless zones 作宾语补足语。It 指代上句的 The Clean Air Act。谓语 empowered 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "zh": "该法",
+    "role": "主语（代词，指代 The Clean Air Act）"
+   },
+   {
+    "text": "empowered",
+    "zh": "授权",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "municipal councils",
+    "zh": "市镇议会",
+    "role": "宾语"
+   },
+   {
+    "text": "to create",
+    "zh": "设立",
+    "role": "宾语补足语（不定式），说明授权议会做什么"
+   },
+   {
+    "text": "smokeless zones,",
+    "zh": "无烟区",
+    "role": "不定式 to create 的宾语"
+   },
+   {
+    "text": "combating smoke",
+    "zh": "遏制煤烟",
+    "role": "状语（现在分词短语），说明前面措施的作用，逻辑主语是 It"
+   },
+   {
+    "text": "at its source.",
+    "zh": "从源头上",
+    "role": "方式状语（介词短语），修饰 combating"
+   }
+  ],
+  "structure": "①主句 It empowered municipal councils to create smokeless zones 是主谓宾宾补结构：主语 It 指 The Clean Air Act，谓语 empowered，宾语 municipal councils，不定式 to create smokeless zones 作宾语补足语，说明授权议会去做的事。\n②句末 combating smoke at its source 是现在分词短语作状语（视频说明），补充说明前面措施的作用：设立无烟区，就是从源头上遏制煤烟。逻辑主语是 It，即该法。\n③at its source 中的 its 指 smoke，at source 意为“从源头”（视频说明）。无烟区针对的正是第12句所说的家家户户燃煤冒烟的炉火，所以说是从源头上治理。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "empower sb to do sth：不定式作宾语补足语",
+    "explain": "empower、enable、allow、permit、authorize、encourage、force 等动词常接“宾语 + 不定式”，不定式作宾语补足语，说明宾语被授权、被允许或被迫去做的事。本句 empowered municipal councils to create smokeless zones 意为“授权市镇议会设立无烟区”（视频说明）。被动形式为 sb be empowered to do sth，如 The committee is empowered to impose fines。empower 还有“使有能力，增强权能”的含义，如 empower women，多见于社会类文章。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new law empowers local authorities to close businesses that break safety rules.",
+      "zh": "新法律授权地方政府关闭违反安全规定的企业。"
+     },
+     {
+      "en": "The scholarship enabled her to study abroad for a year.",
+      "zh": "这笔奖学金使她能够出国学习一年。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作状语，说明作用",
+    "explain": "句末现在分词短语可以补充说明主句措施所起的作用或带来的结果，逻辑主语通常是主句主语。本句 combating smoke at its source 说明该法授权设立无烟区，起到了从源头上遏制煤烟的作用。与第2句、第4句一样，这类分词短语放在逗号之后，翻译时常单独成句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city planted thousands of trees along its main roads, cutting noise and cooling the streets in summer.",
+      "zh": "这座城市在主干道两旁种了数千棵树，既降低了噪声，又让街道在夏天更凉爽。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "municipal council",
+    "explain": "市镇议会，地方政府的议事机构；municipal 意为“市政的，市镇的”，如 municipal elections（市政选举）、municipal authorities（市政当局）。视频译为“市镇议会”。"
+   },
+   {
+    "term": "smokeless zone",
+    "explain": "无烟区，指不得排放烟雾的区域。1956年《清洁空气法》中的正式名称是 smoke control area，smokeless zone 是通俗说法。视频译为“无烟区”。"
+   },
+   {
+    "term": "combat",
+    "explain": "动词，意为“与……作斗争，遏制，打击”，常接 crime、disease、pollution、inflation，如 measures to combat inflation（抑制通货膨胀的措施）。本句视频译为“遏制”。"
+   },
+   {
+    "term": "at source",
+    "explain": "从源头上，如 tackle the problem at source（从源头上解决问题）；本句写作 at its source，its 指 smoke。"
+   }
+  ],
+  "translation_tip": "视频译文“该法授权市镇议会设立无烟区，从源头上遏制煤烟。”的处理：①代词 It 译为“该法”，明确指代《清洁空气法》，语气正式。②empower sb to do sth 按原语序译为“授权……设立……”，不定式宾补直接接在宾语后。③句末现在分词短语单独成句，at its source 前移到动词前，译为“从源头上遏制煤烟”，符合汉语状语在前的习惯；smoke 结合上下文译为“煤烟”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "The cosy hearth",
+   "predicate": "had been",
+   "object_or_complement": "among the chief offenders（介词短语作表语）",
+   "explain": "主系表结构，had been 是系动词 be 的过去完成时，介词短语 among the chief offenders 作表语（视频说明：be among…：在……之列，是……之一）。助动词 had 与 been 之间插入了 all along。"
+  },
+  "components": [
+   {
+    "text": "The cosy hearth,",
+    "zh": "温馨的炉膛",
+    "role": "主语（cosy 作前置定语）"
+   },
+   {
+    "text": "beloved of British families,",
+    "zh": "英国家庭深受喜爱的",
+    "role": "后置定语（形容词短语），修饰 hearth"
+   },
+   {
+    "text": "had,",
+    "zh": "原来",
+    "role": "助动词（与 been 构成过去完成时），被插入语 all along 隔开"
+   },
+   {
+    "text": "all along,",
+    "zh": "一直",
+    "role": "插入语（时间状语）"
+   },
+   {
+    "text": "been among",
+    "zh": "都在……之列",
+    "role": "系动词 been + 介词 among，构成系表结构"
+   },
+   {
+    "text": "the chief offenders.",
+    "zh": "主要的肇事者",
+    "role": "介词 among 的宾语，among the chief offenders 整体作表语"
+   }
+  ],
+  "structure": "①主干是 The cosy hearth had been among the chief offenders，主系表结构，介词短语 among the chief offenders 作表语，意为“是主要的肇事者之一”。\n②主语后的 beloved of British families 是形容词短语作后置定语，修饰 hearth（视频说明：beloved of…：受……喜爱），两边用逗号隔开。beloved of 是书面说法，意思相当于 loved by。\n③all along 是插入语，意为“一直，始终”（视频说明），插在助动词 had 和 been 之间，前后用逗号隔开，句子因此有停顿，突出“原来一直如此”的意味。\n④谓语用过去完成时 had been，表示在《清洁空气法》出台之前，炉膛一直是污染源，人们后来才认清这一点；视频用“原来”译出这种恍然大悟的语气。chief offenders 与第12句的 villain 呼应，都把家中温馨的炉火比作“肇事者”；cosy、beloved 这样的温情字眼与 offenders 放在同一句里，形成强烈反差。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "插入语隔开助动词和主要动词",
+    "explain": "英语中副词或短语可以插在助动词与主要动词之间；插入成分较长或需要强调时，前后用逗号隔开。本句 all along 插在 had 和 been 之间，读时要把 had 和 been 连起来，才能看出谓语是过去完成时 had been。考研长难句中常见这种插入，分析时可先略去逗号之间的成分，找出完整的谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The answer had, in fact, been in front of us the whole time.",
+      "zh": "事实上，答案一直就摆在我们眼前。"
+     },
+     {
+      "en": "The missing documents had, it turned out, been locked in a drawer for years.",
+      "zh": "原来，那些丢失的文件多年来一直锁在一个抽屉里。"
+     }
+    ]
+   },
+   {
+    "title": "beloved of 作后置定语",
+    "explain": "beloved 作形容词，意为“深受喜爱的”，可以放在名词前，如 his beloved wife（他心爱的妻子，此时读 /bɪˈlʌvɪd/）；也可以放在名词后或作表语，接 by 或 of，表示“受……喜爱”，如 a singer beloved by millions（此时读 /bɪˈlʌvd/）。beloved of 比 beloved by 书面，外刊中常见。本句 beloved of British families 带着介词短语，所以放在名词 hearth 后面作后置定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The seaside town, beloved of artists and writers, attracts thousands of visitors every summer.",
+      "zh": "这座海滨小镇深受艺术家和作家的喜爱，每年夏天都吸引数以千计的游客。"
+     }
+    ]
+   },
+   {
+    "title": "be among...：是……之一",
+    "explain": "be among + 复数名词 表示“在……之列，是……之一”（视频说明），相当于 be one of...，如 She is among the best students in her class。among 后接复数名词或集合名词。本句 had been among the chief offenders 意为“一直是主要的肇事者之一”，语气比 had been the chief offender 有分寸，说明炉膛并非唯一的污染源，第5句就提到发电厂也在烧煤。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Sugary drinks are among the main causes of tooth decay in children.",
+      "zh": "含糖饮料是导致儿童蛀牙的主要原因之一。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hearth",
+    "explain": "名词，炉膛，壁炉底部生火的地方，视频译为“炉膛”。hearth 也象征家庭，如 hearth and home（家，家园）。"
+   },
+   {
+    "term": "cosy",
+    "explain": "英式拼写，美式拼写为 cozy，意为“温暖舒适的，温馨的”，如 a cosy room、a cosy chat。视频译为“温馨的”。"
+   },
+   {
+    "term": "all along",
+    "explain": "“一直，始终”（视频说明），常暗示说话人事后才发现某个一直存在的事实，如 I knew it all along（我早就知道）。"
+   },
+   {
+    "term": "offender",
+    "explain": "原指违法者，如 young offenders（青少年罪犯）；也常指造成问题的人或事物，如 the worst offenders（问题最严重的一方）。本句视频译为“肇事者”。"
+   }
+  ],
+  "translation_tip": "视频译文“英国家庭深受喜爱的、温馨的炉膛，原来一直都在主要的肇事者之列。”的处理：①主语 The cosy hearth 的前置定语 cosy 和后置定语 beloved of British families 都放到“炉膛”前，后置定语在前，前置定语在后，中间用顿号隔开。②过去完成时与 all along 合译为“原来一直”，“原来”表现后来才认清真相的语气。③be among 译为“在……之列”，增补“都”；chief offenders 译为“主要的肇事者”。"
+ }
+]

@@ -1,0 +1,43 @@
+[
+ {
+  "key": 34,
+  "field": "etymology",
+  "before": "源自古法语 nuire（伤害）",
+  "after": "源自古法语 nuisir（伤害）",
+  "reason": "nuire 是现代法语形式，古法语为 nuisir（Etymonline）"
+ },
+ {
+  "key": 39,
+  "field": "collocations.1",
+  "before": {
+   "en": "a habitual smoker",
+   "zh": "烟瘾很重的人"
+  },
+  "after": {
+   "en": "a habitual smoker",
+   "zh": "有吸烟习惯的人，经常吸烟的人"
+  },
+  "reason": "habitual smoker 指习惯性吸烟者，不一定“烟瘾很重”"
+ },
+ {
+  "key": 44,
+  "field": "context_usage",
+  "before": "这个词通常带褒义，如建筑经受住地震，本句用来写政府抵挡要求调查的压力，带有讽刺意味，说明政府顽固拖延，正是上句 grudging response 的体现。",
+  "after": "这个词常用于建筑、材料经受住地震、高温等外力，本句用来写政府抵挡要求调查的压力，突出政府长期不肯让步、一拖再拖，正是上句 grudging response 的体现。",
+  "reason": "withstand 本身为中性词，“通常带褒义”“讽刺意味”是原文没有的主观引申"
+ },
+ {
+  "key": 48,
+  "field": "usage_detail",
+  "before": "在英国，法案在通过之前叫 bill，通过后叫 act。",
+  "after": "在英国，法案在议会审议、尚未获得御准（Royal Assent）时叫 bill，获得御准成为法律后叫 Act。",
+  "reason": "英国法案须经两院通过并获御准才成为 Act，原说法不准确"
+ },
+ {
+  "key": 49,
+  "field": "etymology",
+  "before": "17世纪中期出现，原为法律用语，意为“授予权力”；“使有能力，增强权能”的用法是后来发展出来的。",
+  "after": "17世纪中期出现，原义是“授予权力，授权”；现代常见的“增强……的权能，使更自信”一义是20世纪后期才流行起来的。",
+  "reason": "Etymonline 只说原义为 invest with authority，没有“法律用语”之说；现代“增强权能”义始于1980年代"
+ }
+]

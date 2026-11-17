@@ -1,0 +1,29 @@
+[
+ {
+  "key": 8,
+  "field": "etymology",
+  "before": "murk 可能来自古诺斯语 myrkr（黑暗），也可能来自古英语 mirce（黑暗的）。",
+  "after": "murk 可能来自古诺斯语 myrkr（黑暗），与古英语 mirce（黑暗的）同源。",
+  "reason": "Etymonline 认为 murk 可能来自古诺斯语 myrkr，古英语 mirce 是同源词而非另一来源"
+ },
+ {
+  "key": 10,
+  "field": "senses.1",
+  "before": {
+   "pos": "adj.",
+   "zh": "（声音）哽咽的"
+  },
+  "after": {
+   "pos": "v.",
+   "zh": "（choke up）（因激动）哽咽，说不出话"
+  },
+  "reason": "权威词典中“（声音）哽咽的”是 choked 的义项，不是 choking 的，改为可证实的 choke up"
+ },
+ {
+  "key": 20,
+  "field": "etymology",
+  "before": "19世纪初进入英语，后来才专指运送伤病员的车辆。",
+  "after": "18世纪末进入英语，19世纪初开始指运送伤病员的车辆。",
+  "reason": "Etymonline：ambulance 1798年进入英语（野战医院义），1809年起指救护车"
+ }
+]

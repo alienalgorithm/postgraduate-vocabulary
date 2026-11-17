@@ -1,0 +1,50 @@
+[
+ {
+  "key": 3,
+  "field": "knowledge.2.explain",
+  "before": "类似的有 New Yorker（纽约人）、villager（村民）。",
+  "after": "类似的有 New Yorker（纽约人）、Icelander（冰岛人）。",
+  "reason": "village 不是地名，villager 不能作“地名后加 -er”的例子，换成 Icelander"
+ },
+ {
+  "key": 12,
+  "field": "structure",
+  "before": "从句中 few 是代词作主语，意为“很少有人”",
+  "after": "引导词 that 是从属连词，在从句中不充当任何成分，只起连接作用；从句中 few 是代词作主语，意为“很少有人”",
+  "reason": "补出结果状语从句引导词 that 在从句中的成分"
+ },
+ {
+  "key": 14,
+  "field": "grammar.0.examples.0",
+  "before": {
+   "en": "The opposition party blocked the bill until the final week of the session.",
+   "zh": "反对党一直阻挠这项法案，直到会期的最后一周。"
+  },
+  "after": {
+   "en": "The government resisted calls for a referendum until the final week of the session.",
+   "zh": "政府一直抵制举行全民公投的呼声，直到会期的最后一周。"
+  },
+  "reason": "block 多理解为一次性动作，示范“延续性动词肯定式 + until”不典型，换用延续性的 resist"
+ },
+ {
+  "key": 16,
+  "field": "components.4.role",
+  "before": "补充说明前面的时间（名词短语 three and a half years 修饰介词短语 after the smog）",
+  "after": "时间状语的补充说明（介词短语 after the smog 前加时间段 three and a half years 表示相隔多久），补充说明 on 5 July 1956",
+  "reason": "role 原文没有给出成分名称，补具体"
+ },
+ {
+  "key": 16,
+  "field": "grammar.1.explain",
+  "before": "在英国，法案在议会通过之前叫 bill，通过后称为 act。",
+  "after": "在英国，法案在议会审议、尚未获得御准（Royal Assent）时叫 bill，获得御准成为法律后称为 Act。",
+  "reason": "英国法案须经两院通过并获御准才成为 Act，原说法不准确"
+ },
+ {
+  "key": 18,
+  "field": "structure",
+  "before": "chief offenders 与第12句的 villain 呼应，把家中温馨的炉火比作“肇事者”，结尾与段首形成反差。",
+  "after": "chief offenders 与第12句的 villain 呼应，都把家中温馨的炉火比作“肇事者”；cosy、beloved 这样的温情字眼与 offenders 放在同一句里，形成强烈反差。",
+  "reason": "第12句在第4段、第18句在第5段末，“结尾与段首”不符合原文段落位置"
+ }
+]
