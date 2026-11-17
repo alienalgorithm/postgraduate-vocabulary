@@ -1,0 +1,9 @@
+[
+ {
+  "key": "2",
+  "field": "grammar[0].explain",
+  "before": "第二个逗号后的 and 连接两个分句",
+  "after": "furnace heat 后面那个逗号之后的 and 连接两个分句（句中共有三个逗号，这是第三个）",
+  "reason": "原句逗号依次在 gleaming、valves、heat 之后，连接分句的 and 在第三个逗号之后，原文说成“第二个逗号”有误"
+ }
+]

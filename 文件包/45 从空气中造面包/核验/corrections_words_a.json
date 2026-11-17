@@ -1,0 +1,44 @@
+[
+ {
+  "key": "2",
+  "field": "usage_detail",
+  "before": "在英式英语中还指擅自占用空房或空地居住，这样的人叫 squatter。",
+  "after": "还可指擅自占用空房或空地居住，这样的人叫 squatter；名词 a squat 指被擅自占住的房子，多见于英式英语。",
+  "reason": "Oxford/Cambridge 中动词 squat“擅自占用”并不限于英式英语，英式标注只适用于名词 a squat（被擅自占住的房子）"
+ },
+ {
+  "key": "7",
+  "field": "etymology",
+  "before": "crush 源自古法语 cruissir（碾碎，压碎，咬牙作响），14世纪进入英语。",
+  "after": "crush 源自古法语 cruissir（咬牙作响，碎裂），14世纪进入英语，最初意为“砸碎，粉碎”。",
+  "reason": "Etymonline 给出的古法语 cruissir 词义是“咬牙作响，碎裂”，“碾碎，压碎”是英语中的意思，不是古法语原义"
+ },
+ {
+  "key": "19",
+  "field": "example.zh",
+  "before": "这位年轻工程师因为农村设计了一种低成本净水器而广受赞誉。",
+  "after": "这位年轻工程师为农村地区设计了一种低成本净水器，因此广受赞誉。",
+  "reason": "原译“因为农村设计了”缺介词“为”，语病，改为通顺译文"
+ },
+ {
+  "key": "21",
+  "field": "etymology",
+  "before": "plough 来自古英语 plōh / plōg（犁），与其他日耳曼语中表示“犁”的词同源；",
+  "after": "plough 来自晚期古英语 plōh / plōg，与古诺尔斯语 plógr 等日耳曼语中表示“犁”的词同源（古英语里“犁”这一农具通常叫 sulh）；",
+  "reason": "据 Etymonline，plōh 见于晚期古英语，且当时多指一块耕地，农具“犁”通常叫 sulh，原文笼统写成古英语“犁”不够准确"
+ },
+ {
+  "key": "21",
+  "field": "usage_detail",
+  "before": "不带宾语的 plough into sb / sth 指车辆失控猛撞",
+  "after": "plough 与 into 之间不插宾语时，plough into sb / sth 指车辆失控猛撞",
+  "reason": "plough into sb/sth 本身带介词宾语，“不带宾语”的说法自相矛盾，改为“中间不插宾语”"
+ },
+ {
+  "key": "24",
+  "field": "senses",
+  "before": "[{\"pos\": \"n.\", \"zh\": \"肥料；化肥（本文）\"}]",
+  "after": "[{\"pos\": \"n.\", \"zh\": \"肥料（施在土里帮助植物生长的天然或化学物质）\"}, {\"pos\": \"n.\", \"zh\": \"化肥，人工合成的肥料（本文）\"}]",
+  "reason": "规范要求义项2到5条，原来只有一条且把“肥料”“化肥”混在一起；按 Cambridge 释义（natural or chemical substance）分成泛指义和本文的“化肥”义"
+ }
+]

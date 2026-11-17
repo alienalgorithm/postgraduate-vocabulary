@@ -1,0 +1,1762 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "BASF envoys",
+   "predicate": "gathered",
+   "object_or_complement": "",
+   "explain": "主干是 BASF envoys gathered，主谓结构；gather 在此作不及物动词，round a squat machine 是介词短语作地点状语，gather round 即视频说明中的“围拢在……周围”。谓语 gathered 为一般过去时，主动语态，叙述1909年7月发生的具体场景。"
+  },
+  "components": [
+   {
+    "text": "In July 1909,",
+    "role": "时间状语（介词短语，月份加年份前用 in）",
+    "zh": "1909年7月"
+   },
+   {
+    "text": "BASF envoys",
+    "role": "主语（BASF 是名词作前置定语，说明是哪家公司派来的代表）",
+    "zh": "BASF的代表们"
+   },
+   {
+    "text": "gathered",
+    "role": "谓语（不及物动词，一般过去时）",
+    "zh": "聚集在"
+   },
+   {
+    "text": "round a squat machine",
+    "role": "地点状语（介词短语，round 是介词，意为“在……周围”）",
+    "zh": "一台矮胖的机器周围"
+   },
+   {
+    "text": "on a bench",
+    "role": "后置定语（介词短语），修饰 machine",
+    "zh": "机器就放在……一张工作台上"
+   },
+   {
+    "text": "in Fritz Haber's Karlsruhe laboratory.",
+    "role": "后置定语（介词短语），修饰 bench",
+    "zh": "弗里茨·哈伯位于卡尔斯鲁厄的实验室里的"
+   }
+  ],
+  "structure": "①主句是 BASF envoys gathered round a squat machine：主语 BASF envoys，谓语 gathered（不及物），round a squat machine 是介词短语作地点状语，round 意为“围绕，在……周围”，gather round 合起来即“围拢在……周围”（视频说明）。BASF 是公司名，作 envoys 的前置定语，说明代表来自哪家公司。\n②句首 In July 1909 是时间状语，为全文的历史叙事定下时间起点。\n③句尾是两层介词短语后置定语：on a bench 修饰 machine（视频说明：介词短语作后置定语，修饰 machine），说明机器放在哪里；in Fritz Haber's Karlsruhe laboratory 修饰 bench，说明工作台在哪里。每一层都修饰紧挨在它前面的名词。on a bench 不是 gathered 的状语：代表们并不是聚集在工作台上，而是围着放在工作台上的机器。\n④laboratory 前面有两个前置定语：名词所有格 Fritz Haber's 表示实验室属于谁，地名 Karlsruhe 作定语表示实验室所在的城市，排列顺序是“所属 + 地点 + 中心词”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词短语连续作后置定语",
+    "explain": "英语常把介词短语放在名词后面作定语，几个介词短语接连出现时，后一个通常修饰紧挨在它前面的名词，形成层层递进的链条。本句 a squat machine on a bench in Fritz Haber's Karlsruhe laboratory 中，on a bench 修饰 machine，in Fritz Haber's Karlsruhe laboratory 修饰 bench。考研长难句中，判断介词短语修饰谁是理清结构的关键：如果把 on a bench 误当成 gathered 的状语，就会读成代表们聚集在工作台上。汉语定语放在名词前，链条较长时全部前置会显得臃肿，可以像视频译文那样拆出来单独成句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Investigators found a small crack in a pipe beneath the kitchen floor.",
+      "zh": "调查人员在厨房地板下面的一根管子上发现了一道小裂缝。"
+     },
+     {
+      "en": "She keeps the letters in a wooden box on a shelf in her study.",
+      "zh": "她把这些信放在书房架子上的一个木盒里。"
+     }
+    ]
+   },
+   {
+    "title": "round 作介词：gather round sth",
+    "explain": "round 可以作介词，意为“围绕，在……周围”，英式英语常用 round，美式英语多用 around，如 sit round the table / sit around the table。gather 作不及物动词表示“聚集”，后接 round、around 引出聚集的中心；gather round 后面不带宾语时，round 是副词，如 Gather round, everyone（大家围过来）。本句 round a squat machine 是介词短语作地点状语，视频译为“聚集在……周围”，“周围”对应 round。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Reporters gathered round the minister as she left the building.",
+      "zh": "部长走出大楼时，记者们围拢到她身边。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与名词定语连用",
+    "explain": "名词可以直接修饰名词，说明来源、地点、类别等，如 BASF envoys（BASF 公司的代表）、Karlsruhe laboratory（卡尔斯鲁厄的实验室）。所有格和名词定语同时出现时，所有格放在最前面，名词定语紧挨中心词：Fritz Haber's Karlsruhe laboratory，即“弗里茨·哈伯的、位于卡尔斯鲁厄的实验室”。地名作定语时形式不变。翻译时常要增补动词或“的”，视频译为“弗里茨·哈伯位于卡尔斯鲁厄的实验室”，增补了“位于”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company's Shanghai office will open next spring.",
+      "zh": "该公司的上海办事处将于明年春天开业。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "BASF",
+    "explain": "德国化工企业，1865年创立，总部在路德维希港（Ludwigshafen），全称 Badische Anilin- und Soda-Fabrik（巴登苯胺纯碱厂）。视频保留英文缩写 BASF。第4句的卡尔·博施就是 BASF 的化学家。"
+   },
+   {
+    "term": "Fritz Haber / Karlsruhe",
+    "explain": "弗里茨·哈伯（1868年至1934年），德国化学家，当时在德国西南部城市卡尔斯鲁厄（Karlsruhe）的高等技术学校任教，合成氨实验就在那里的实验室完成。"
+   },
+   {
+    "term": "envoy",
+    "explain": "名词，本义是“使节，特使”，常指国家或国际组织派出的代表，如 a special envoy（特使）、a UN envoy（联合国特使）。本句指 BASF 公司派来考察实验的代表，用词带有郑重色彩，视频译为“代表”。"
+   },
+   {
+    "term": "squat",
+    "explain": "熟词僻义：squat 常见义是动词“蹲”，本句作形容词，意为“矮胖的，矮而宽的”，形容物体时指又矮又粗，如 a squat building、a squat teapot。视频译为“矮胖的”，带有拟人色彩。"
+   },
+   {
+    "term": "bench",
+    "explain": "常见义是“长凳”，本句指实验室或车间里干活用的台子，即 workbench，视频译为“工作台”。"
+   }
+  ],
+  "translation_tip": "视频译文“1909年7月，BASF的代表们聚集在一台矮胖的机器周围，机器就放在弗里茨·哈伯位于卡尔斯鲁厄的实验室里的一张工作台上。”的处理：①时间状语 In July 1909 按汉语习惯译为“1909年7月”，年在前，月在后。②名词定语 BASF 译为“BASF的”，复数 envoys 增补“们”。③gathered round a squat machine 译为“聚集在一台矮胖的机器周围”，介词 round 拆成“在……周围”包住宾语，不定冠词 a 译成量词“一台”。④两层后置定语如果全部前置，“机器”前面的定语会过长，视频把它们拆成独立分句，重复“机器”作主语，增补“就放在”；层层修饰由后往前译成“弗里茨·哈伯位于卡尔斯鲁厄的实验室里的一张工作台上”，并增补“位于”连接人名和地名。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "nitrogen and hydrogen（前一分句）；transparent beads of ammonia（后一分句）",
+   "predicate": "met（前一分句）；began（后一分句）",
+   "object_or_complement": "to drip（不定式，作 began 的宾语）",
+   "explain": "本句是 and 连接的并列句。前一分句 nitrogen and hydrogen met 是主谓结构，meet 在此作不及物动词，意为“相遇，汇合”；后一分句 transparent beads of ammonia began to drip 是主谓宾结构，不定式 to drip 作 began 的宾语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Behind its gleaming, bolted valves,",
+    "role": "地点状语（介词短语；its 指上句的 machine，gleaming 与 bolted 并列作 valves 的前置定语）",
+    "zh": "在它闪闪发亮、用螺栓紧固的阀门后面"
+   },
+   {
+    "text": "nitrogen and hydrogen",
+    "role": "主语（前一分句，两个名词并列）",
+    "zh": "氮和氢"
+   },
+   {
+    "text": "met",
+    "role": "谓语（前一分句，不及物动词）",
+    "zh": "相遇"
+   },
+   {
+    "text": "at crushing pressure and furnace heat,",
+    "role": "条件状语（介词短语，说明相遇的条件）",
+    "zh": "在压碎般的压力和熔炉般的高温下"
+   },
+   {
+    "text": "and transparent beads of ammonia",
+    "role": "并列连词 and + 主语（后一分句；transparent 作前置定语，of ammonia 作 beads 的后置定语，说明液珠的成分）",
+    "zh": "透明的氨（凝成的）液体小滴"
+   },
+   {
+    "text": "began to drip",
+    "role": "谓语 began + 宾语（不定式 to drip）",
+    "zh": "开始……滴落"
+   },
+   {
+    "text": "slowly.",
+    "role": "方式状语，修饰 drip",
+    "zh": "缓缓地"
+   }
+  ],
+  "structure": "①本句由 and 连接两个并列分句，前一分句写反应过程，后一分句写反应结果。\n②前一分句：句首 Behind its gleaming, bolted valves 是介词短语作地点状语，its 指上句那台矮胖的机器；gleaming 和 bolted 是两个并列的前置定语，中间用逗号隔开，都修饰 valves。主语 nitrogen and hydrogen，谓语 met（不及物）；at crushing pressure and furnace heat 是介词短语作状语，说明相遇的条件（视频说明），介词 at 后接两个并列名词短语 crushing pressure 和 furnace heat。\n③后一分句：主语中心词是 beads，transparent 作前置定语，of ammonia 作后置定语，说明液珠由氨构成（视频说明：of 引出液珠的成分）；谓语 began，不定式 to drip 作宾语，slowly 修饰 drip，说明滴落的方式。\n④几个修饰语形式不同：gleaming 是现在分词形容词，表示阀门自身闪闪发亮，是主动意义；bolted 是过去分词，表示阀门被螺栓紧固，是被动意义；crushing 是 crush（压碎）的现在分词形容词，形容压力之大；furnace heat 是名词修饰名词，用熔炉比喻温度之高（视频说明：熔炉般的高温）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "and 连接的并列句",
+    "explain": "两个独立分句可以用并列连词 and、but、or、so 等连接，构成并列句；两个分句较长或主语不同时，and 前通常加逗号。本句前一分句主语是 nitrogen and hydrogen，后一分句主语是 transparent beads of ammonia，furnace heat 后面那个逗号之后的 and 连接两个分句（句中共有三个逗号，这是第三个）；前一分句内部还有两个 and，分别连接 nitrogen 与 hydrogen、crushing pressure 与 furnace heat，属于词和短语的并列。考研长难句中一句里出现几个 and 时，要先找出连接两个完整分句的那个 and，看它后面有没有新的主语和谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The engine coughed twice, and thick black smoke poured from the exhaust.",
+      "zh": "发动机咳嗽似的响了两声，浓浓的黑烟从排气管里涌了出来。"
+     },
+     {
+      "en": "Prices rose sharply in the spring, and many families cut back on spending.",
+      "zh": "春季物价大幅上涨，许多家庭削减了开支。"
+     }
+    ]
+   },
+   {
+    "title": "-ing 形容词与 -ed 形容词",
+    "explain": "由现在分词变来的形容词表示主动意义或事物自身的特性，由过去分词变来的形容词表示被动意义或完成。本句 gleaming valves 指阀门自己在发光，bolted valves 指阀门被螺栓紧固；crushing pressure 指具有压碎力量的压力，若写成 crushed pressure 就成了“被压碎的压力”，意思完全不通。考研常考 interesting / interested、disappointing / disappointed 一类区分：修饰引起某种感受的事物用 -ing 形式，修饰产生这种感受的人用 -ed 形式。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The tourists stared up at the gleaming towers of the new financial district.",
+      "zh": "游客们仰望着新金融区那些闪闪发亮的高楼。"
+     },
+     {
+      "en": "The sales figures were disappointing, and disappointed investors began selling their shares.",
+      "zh": "销售数据令人失望，失望的投资者开始抛售股票。"
+     }
+    ]
+   },
+   {
+    "title": "介词 at 表示条件、程度",
+    "explain": "at 可以接表示温度、压力、速度、价格等数值或程度的名词，说明动作在什么条件下发生，如 at high temperature、at a pressure of 200 atmospheres、at full speed、at a low price。本句 at crushing pressure and furnace heat 说明氮和氢在什么条件下相遇，视频译为“在……下”。科技类阅读描述实验条件时，这一用法非常常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "At sea level, water boils at 100 degrees Celsius.",
+      "zh": "在海平面高度，水在100摄氏度时沸腾。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "合成氨反应",
+    "explain": "本句描写的是哈伯的合成氨实验：氮气和氢气在高温、高压和催化剂作用下反应生成氨（NH3）。氨在常温常压下是有刺激性气味的无色气体，加压或冷却后可液化成无色透明的液体，所以文中说透明的氨液珠缓缓滴落。"
+   },
+   {
+    "term": "bead",
+    "explain": "熟词僻义：bead 常见义是“珠子”，如 a string of beads（一串珠子）；也指液体形成的小珠、小滴，如 beads of sweat（汗珠）、beads of dew（露珠）。本句 beads of ammonia 指氨凝成的液珠，视频译为“氨（凝成的）液体小滴”。"
+   },
+   {
+    "term": "crushing pressure / furnace heat",
+    "explain": "两个比喻性的修饰：crushing 原义是“压碎的”，形容压力大到能把东西压碎，视频译为“压碎般的压力”；名词 furnace（熔炉）作定语修饰 heat，以熔炉比喻温度极高，视频译为“熔炉般的高温”。两处都增补“般”体现比喻。"
+   },
+   {
+    "term": "bolted",
+    "explain": "bolt 作名词指螺栓、门闩，作动词意为“用螺栓固定，闩上”；bolted valves 指用螺栓紧固的阀门，突出设备结实，能承受高压。"
+   }
+  ],
+  "translation_tip": "视频译文“在它闪闪发亮、用螺栓紧固的阀门后面，氮和氢在压碎般的压力和熔炉般的高温下相遇，透明的氨（凝成的）液体小滴开始缓缓地滴落。”的处理：①地点状语保留在句首，介词 behind 译成“在……后面”包住宾语；两个并列定语之间用顿号。②条件状语 at crushing pressure and furnace heat 移到谓语 met 之前，译成“在……下相遇”，符合汉语状语在动词前的语序；crushing 和 furnace 两个比喻性定语都增补“般”。③后一分句不译出 and，用逗号直接衔接；of ammonia 前置为“氨”，增补“（凝成的）”说明液滴与氨的关系。④slowly 译为“缓缓地”，放在“滴落”之前。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Haber",
+   "predicate": "had pried",
+   "object_or_complement": "nourishment",
+   "explain": "主干是 Haber had pried nourishment，主谓宾结构，from the air 作状语，与谓语构成 pry A from B（从B中费力取出A）。谓语 had pried 为过去完成时，主动语态，表示到上文描写的那一刻，这项成果已经取得。"
+  },
+  "components": [
+   {
+    "text": "Haber",
+    "role": "主语",
+    "zh": "哈伯"
+   },
+   {
+    "text": "had pried",
+    "role": "谓语（过去完成时）",
+    "zh": "撬出了"
+   },
+   {
+    "text": "nourishment",
+    "role": "宾语",
+    "zh": "养分"
+   },
+   {
+    "text": "from the air.",
+    "role": "来源状语（介词短语，与 pry 构成 pry A from B）",
+    "zh": "从空气中"
+   }
+  ],
+  "structure": "①本句是主谓宾结构的简单句：主语 Haber，谓语 had pried，宾语 nourishment，from the air 作状语，表示来源，与谓语构成 pry A from B（视频说明：从B中费力取出A）。\n②时态：前两句用一般过去时描写1909年7月实验台前的场景，本句用过去完成时 had pried，表示到那一刻哈伯已经完成了这项突破，对前文场景作出总结。\n③pry 本义是用工具撬开、撬出，本句是比喻用法：空气中的氮不能直接被作物利用，哈伯用高温高压把它变成氨，氨再制成肥料，所以说他从空气中撬出了养分。nourishment 与第5句的 bread from air、第6句的 fertiliser 前后呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时表示到过去某时已取得的结果",
+    "explain": "过去完成时（had done）除了表示“过去的过去”，还常用来说明到过去某一时刻为止已经完成的动作或取得的结果。本句前两句已把场景定在1909年7月，had pried 表示到那时这一成就已经实现，带有总结意味。叙事文中，作者常在描写具体场景之后用一句过去完成时点明意义；考研完形中遇到这种句子，要看清它与前文时间点的关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the decade, the company had become the largest employer in the region.",
+      "zh": "到这个十年结束时，该公司已成为本地区最大的雇主。"
+     },
+     {
+      "en": "When the rescue team arrived, the villagers had already pulled most of the survivors from the rubble.",
+      "zh": "救援队赶到时，村民们已经从瓦砾中救出了大部分幸存者。"
+     }
+    ]
+   },
+   {
+    "title": "动词的比喻用法：pry A from B",
+    "explain": "pry（英式英语多用 prise）本义是用杠杆或工具撬开、撬出，如 pry the lid off a tin；引申为费力地获取某物，常见 pry sth from / out of sb / sth，如 pry information out of sb（从某人嘴里套出信息）。本句宾语不是具体物件，而是抽象的 nourishment，作者用“撬”这一具体动作比喻从空气中获取养分之难，视频保留比喻，译为“撬出了”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Journalists spent months trying to pry the documents from the ministry.",
+      "zh": "记者们花了几个月时间，想从该部门弄到这些文件。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "from the air",
+    "explain": "空气中按体积计约78%是氮气，但氮气化学性质稳定，作物不能直接吸收利用。把空气中的氮转化为可利用的含氮化合物称为固氮（nitrogen fixation），哈伯的方法就是一种人工固氮，所以本句说他从空气中撬出了养分。"
+   },
+   {
+    "term": "nourishment",
+    "explain": "名词，营养，养料，食物，较正式，如 provide nourishment for the body；动词是 nourish（滋养）。本句视频译为“养分”，指氨制成化肥后给作物提供的营养。"
+   },
+   {
+    "term": "pry 的两个意思",
+    "explain": "pry 一是“撬开，撬出”，美式英语常用，英式英语多说 prise；二是“打探，窥探（别人的私事）”，常接 into，如 pry into sb's private life。本句是第一个意思。过去式 pried 由 pry 变 y 为 i 再加 -ed 构成。"
+   }
+  ],
+  "translation_tip": "视频译文“哈伯从空气中撬出了养分。”的处理：①来源状语 from the air 移到谓语前，译成“从空气中”，符合汉语状语前置的语序。②had pried 译为“撬出了”，“了”表示动作已经完成，与过去完成时的含义对应；“撬出”保留原文的比喻。③nourishment 译为“养分”，与后文化肥增产粮食的内容衔接。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "BASF's Carl Bosch（前一分句）；a gigantic plant（后一分句）",
+   "predicate": "scaled…up（前一分句）；mass-produced（后一分句）",
+   "object_or_complement": "the method（前一分句）；ammonia（后一分句）",
+   "explain": "本句是 and 连接的并列句，两个分句都是主谓宾结构。前一分句中，短语动词 scale up 的宾语 the method 夹在 scaled 和 up 中间（视频说明）；后一分句 from 1913 作时间状语，at Oppau 作 plant 的后置定语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "BASF's Carl Bosch",
+    "role": "主语（前一分句；BASF's 是名词所有格，表示博施所属的公司）",
+    "zh": "BASF的卡尔·博施"
+   },
+   {
+    "text": "scaled",
+    "role": "谓语（前一分句，与后面的 up 构成短语动词 scale up）",
+    "zh": "扩大了……规模"
+   },
+   {
+    "text": "the method",
+    "role": "宾语（夹在 scaled 与 up 之间，指哈伯合成氨的方法）",
+    "zh": "该方法"
+   },
+   {
+    "text": "up,",
+    "role": "副词小品词，与 scaled 构成 scale up",
+    "zh": "（副词小品词，意义并入“扩大了……规模”，不单独译出）"
+   },
+   {
+    "text": "and from 1913",
+    "role": "并列连词 and + 时间状语（介词短语，表示起始时间）",
+    "zh": "自1913年起"
+   },
+   {
+    "text": "a gigantic plant",
+    "role": "主语（后一分句）",
+    "zh": "一座庞大的工厂"
+   },
+   {
+    "text": "at Oppau",
+    "role": "后置定语（介词短语），修饰 plant",
+    "zh": "奥保的"
+   },
+   {
+    "text": "mass-produced",
+    "role": "谓语（后一分句，复合动词）",
+    "zh": "大批量生产"
+   },
+   {
+    "text": "ammonia.",
+    "role": "宾语",
+    "zh": "氨"
+   }
+  ],
+  "structure": "①本句由 and 连接两个并列分句，前一分句写博施的工作，后一分句写结果，体现合成氨从实验室走向工业化的过程。\n②前一分句：主语 BASF's Carl Bosch，名词所有格 BASF's 交代博施是 BASF 公司的人；谓语是短语动词 scale up，宾语 the method 放在 scaled 和 up 之间（视频说明）；the method 回指上文哈伯合成氨的方法。\n③后一分句：from 1913 是时间状语，放在主语之前，表示从1913年开始；主语 a gigantic plant，at Oppau 作后置定语，说明工厂所在地；谓语 mass-produced 是复合动词的过去式，宾语 ammonia。\n④与第2句对照：实验台上的氨是一滴一滴缓缓落下的，奥保的工厂则大批量生产，gigantic 与第1句的 squat machine 也形成规模上的反差。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "可分短语动词的宾语位置",
+    "explain": "由动词加副词小品词构成的短语动词（如 scale up、turn down、set up、pick up），宾语是名词时可以放在小品词前面，也可以放在后面：scale up the method / scale the method up；宾语是代词时只能放在中间：scale it up，不能说 scale up it。本句 scaled the method up 把宾语夹在中间，读的时候要把 scaled 和后面的 up 连起来理解为“扩大……规模”。由动词加介词构成的短语（如 look at、stem from）则不能把宾语夹在中间。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The council turned the proposal down after a heated debate.",
+      "zh": "经过激烈辩论，市议会否决了这项提案。"
+     },
+     {
+      "en": "If the pilot scheme succeeds, the hospital plans to scale it up across the region.",
+      "zh": "如果试点计划成功，这家医院打算把它推广到整个地区。"
+     }
+    ]
+   },
+   {
+    "title": "from + 时间点 与 since + 时间点",
+    "explain": "from + 时间点 表示某一动作或状态的起点，可以单用，也可以与 to / until 连用（from 1913 to 1918）。叙述过去的事情时，from 1913 与一般过去时连用，表示从那年起开始；since 1913 则通常与现在完成时连用，强调一直延续到现在，如 The plant has operated since 1913。考研写作中，since 引导的时间状语一般不与一般过去时的主句搭配。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "From 1990 the government invested heavily in rural roads.",
+      "zh": "从1990年起，政府在农村道路上投入了大量资金。"
+     }
+    ]
+   },
+   {
+    "title": "复合动词 mass-produce",
+    "explain": "mass-produce 由名词 mass（大量）和动词 produce 用连字符连成，意为“大批量生产”；名词形式是 mass production，过去分词常作定语，如 mass-produced cars（大批量生产的汽车）。本句 mass-produced 是谓语动词的过去式，不是过去分词作定语，因为后一分句的主语 a gigantic plant 需要谓语。类似的复合动词还有 spoon-feed、test-drive、hand-wash。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Within a decade, the factory was mass-producing cheap radios for ordinary households.",
+      "zh": "不到十年，这家工厂就在为普通家庭大批量生产价格低廉的收音机。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Carl Bosch",
+    "explain": "卡尔·博施（1874年至1940年），德国化学家、工程师，任职于 BASF。他解决了高压设备等一系列工业化难题，把哈伯的实验室方法发展成大规模生产工艺，这一方法因此称为哈伯-博施法（the Haber-Bosch process）。1931年，博施因开发化学高压方法与贝吉乌斯（Friedrich Bergius）共同获得诺贝尔化学奖。"
+   },
+   {
+    "term": "plant",
+    "explain": "熟词僻义：plant 常见义是“植物”，本句指工厂，多指大型生产设施，如 a power plant（发电厂）、a chemical plant（化工厂）。视频译为“工厂”。"
+   },
+   {
+    "term": "Oppau",
+    "explain": "奥保，位于德国莱茵河畔，今属路德维希港。BASF 在这里建成第一座合成氨工厂，1913年投产。"
+   },
+   {
+    "term": "scale up / scale down",
+    "explain": "scale up 意为“按比例扩大，扩大……的规模”，反义是 scale down 或 scale back（缩小规模，缩减）。考研阅读的经济、科技类文章常见 scale up production（扩大生产）。"
+   }
+  ],
+  "translation_tip": "视频译文“BASF的卡尔·博施扩大了该方法的规模，自1913年起，奥保的一座庞大的工厂大批量生产氨。”的处理：①scaled the method up 译为“扩大了该方法的规模”：把 scale up 拆成“扩大”和“规模”，宾语 the method 转成“规模”的定语“该方法的”，the 译为“该”。②后一分句不译出 and，用逗号承接；时间状语 from 1913 保留在前，译成“自1913年起”。③后置定语 at Oppau 前置为“奥保的”，不定冠词 a 译为量词“一座”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Haber",
+   "predicate": "won",
+   "object_or_complement": "the coveted 1918 Nobel Prize",
+   "explain": "主干是 Haber won the coveted 1918 Nobel Prize，主谓宾结构。谓语 won 为一般过去时，主动语态；句首的过去分词短语作原因状语。"
+  },
+  "components": [
+   {
+    "text": "Hailed for making bread from air,",
+    "role": "原因状语（过去分词短语，逻辑主语是 Haber）",
+    "zh": "因“从空气中造面包”而广受赞誉"
+   },
+   {
+    "text": "Haber",
+    "role": "主语",
+    "zh": "哈伯"
+   },
+   {
+    "text": "won",
+    "role": "谓语",
+    "zh": "赢得了"
+   },
+   {
+    "text": "the coveted",
+    "role": "定冠词 the + 前置定语 coveted（过去分词形容词），修饰 Nobel Prize",
+    "zh": "人人梦寐以求的令人垂涎的"
+   },
+   {
+    "text": "1918 Nobel Prize.",
+    "role": "宾语中心（1918 作前置定语，说明是哪一年的奖项）",
+    "zh": "1918年诺贝尔奖"
+   }
+  ],
+  "structure": "①主句 Haber won the coveted 1918 Nobel Prize 是主谓宾结构。宾语中心词是 Nobel Prize，前面依次有定冠词 the、过去分词形容词 coveted、年份 1918 三个修饰成分。\n②句首 Hailed for making bread from air 是过去分词短语作状语，说明原因（视频说明）。逻辑主语是主句主语 Haber：哈伯是被称赞的一方，所以用过去分词，相当于 Because he was hailed for making bread from air。\n③分词短语内部：hail sb for sth 意为“因某事称赞某人”（视频说明），变成被动即 be hailed for sth；for 是介词，后接动名词短语 making bread from air，说明受赞誉的原因。making bread from air 是比喻，指用合成氨制造化肥、增产粮食，呼应第3句的 pried nourishment from the air。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语作原因状语",
+    "explain": "过去分词短语放在句首，可以表示原因、时间、条件等，逻辑主语必须是主句主语，二者是被动关系。本句 Hailed for making bread from air 相当于 Because he was hailed for making bread from air，受赞誉与获奖之间是因果关系，视频译为“因……而广受赞誉”。具体表示哪种关系要看上下文。考研写作中使用这种结构时，要确认主句主语正是分词动作的承受者，否则就会出现垂悬分词错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Praised for its clear explanations, the textbook was adopted by dozens of universities.",
+      "zh": "这本教材因讲解清晰而备受称赞，被几十所大学采用。"
+     },
+     {
+      "en": "Criticised for its slow response, the agency promised to review its procedures.",
+      "zh": "该机构因反应迟缓而受到批评，承诺将审查其工作程序。"
+     }
+    ]
+   },
+   {
+    "title": "hail sb as / for",
+    "explain": "hail 作动词常表示“赞扬，称颂”，多用被动：be hailed as + 名词 / 形容词 表示被誉为什么，如 be hailed as a hero；be hailed for + 名词 / 动名词 表示因什么受到称赞。for 是介词，后面的动词要用 -ing 形式，所以本句是 for making bread from air。新闻和考研阅读中，hail 常用来报道科学突破、政策或人物受到广泛赞誉。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new vaccine was hailed as a turning point in the fight against malaria.",
+      "zh": "这种新疫苗被誉为抗击疟疾的一个转折点。"
+     }
+    ]
+   },
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有几个修饰语时，一般按“限定词 + 表示评价或描述的形容词 + 表示时间、来源、类别等的定语 + 中心词”排列。本句 the coveted 1918 Nobel Prize 中，the 是限定词，coveted 表示评价，1918 说明年份，Nobel Prize 是中心词组，不能写成 the 1918 coveted Nobel Prize。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum recently acquired a rare 17th-century Dutch painting.",
+      "zh": "博物馆最近购得一幅罕见的17世纪荷兰画作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "making bread from air",
+    "explain": "比喻用合成氨制成的化肥增产粮食，bread 代指粮食、食物。视频加引号译为“从空气中造面包”，保留比喻。本文标题 The Bread Made from Air 也来自这一说法。"
+   },
+   {
+    "term": "1918 Nobel Prize",
+    "explain": "哈伯获得的是1918年诺贝尔化学奖，表彰他用氮、氢两种元素合成氨。"
+   },
+   {
+    "term": "coveted",
+    "explain": "covet 意为“渴望得到（尤指别人拥有的东西）”，过去分词 coveted 作形容词，形容奖项、职位等“令人垂涎的，人人想得到的”，如 a coveted award、a coveted place in the final。视频用两个并列定语译为“人人梦寐以求的令人垂涎的”。"
+   },
+   {
+    "term": "hail 的几个意思",
+    "explain": "hail 作名词常指“冰雹”；作动词可表示“招呼（出租车等）”，如 hail a taxi；还可表示“赞扬，称颂”，本句是这个意思。“冰雹”义与后两个意思来源不同。"
+   }
+  ],
+  "translation_tip": "视频译文“因“从空气中造面包”而广受赞誉，哈伯赢得了人人梦寐以求的令人垂涎的1918年诺贝尔奖。”的处理：①句首过去分词短语保留在主句前，按原因关系译成“因……而……”；被动意义没有用“被”字，而是用“广受赞誉”表达，“广受”是增补，体现赞誉之多。②making bread from air 加引号译为“从空气中造面包”，标明这是比喻性说法；状语 from air 放到动词前。③coveted 用两个并列定语译出，加强语气；年份 1918 译为“1918年”，放在“诺贝尔奖”之前。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "ammonia",
+   "predicate": "wards off",
+   "object_or_complement": "famine",
+   "explain": "主干是 ammonia wards off famine，主谓宾结构，短语动词 ward off（抵御，防止）作谓语。谓语为一般现在时，主动语态，陈述氨作为化肥的普遍作用，这一作用至今仍然存在。"
+  },
+  "components": [
+   {
+    "text": "Ploughed into stony soils",
+    "role": "状语（过去分词短语，逻辑主语是 ammonia，来自 plough A into B 的被动形式）",
+    "zh": "被翻耕进多石的土壤"
+   },
+   {
+    "text": "as fertiliser,",
+    "role": "介词短语，修饰分词 Ploughed，说明氨以化肥的身份被翻耕进土壤",
+    "zh": "作为化肥"
+   },
+   {
+    "text": "ammonia",
+    "role": "主语",
+    "zh": "氨"
+   },
+   {
+    "text": "wards off",
+    "role": "谓语（短语动词，第三人称单数）",
+    "zh": "抵御着"
+   },
+   {
+    "text": "famine",
+    "role": "宾语",
+    "zh": "饥荒"
+   },
+   {
+    "text": "as no manure heap could,",
+    "role": "比较状语从句（as 意为“像……那样”，could 后省略 ward off famine）",
+    "zh": "这是任何粪肥垒成的肥堆都做不到的"
+   },
+   {
+    "text": "bringing abundance.",
+    "role": "结果状语（现在分词短语）",
+    "zh": "并带来丰饶"
+   }
+  ],
+  "structure": "①主句是 ammonia wards off famine：主语 ammonia，谓语 wards off，宾语 famine。时态由前文的一般过去时转为一般现在时，表示氨肥抵御饥荒这一作用至今仍然存在。\n②句首 Ploughed into stony soils as fertiliser 是过去分词短语作状语（视频说明），逻辑主语是 ammonia：氨是被翻耕进土壤的，所以用过去分词，来自 plough A into B（把A翻耕进B）。as fertiliser 是介词短语，as 意为“作为”，说明氨以什么身份进入土壤。整个分词短语交代氨发挥作用的方式和条件，相当于 When it is ploughed into stony soils as fertiliser。\n③as no manure heap could 是 as 引导的比较状语从句（视频说明：没有哪个粪肥堆能像它这样），could 后面省略了与主句相同的 ward off famine。no 否定从句主语 manure heap，意为“没有哪一个粪肥堆”。\n④bringing abundance 是现在分词短语作结果状语（视频说明），逻辑主语仍是 ammonia，相当于 and it brings abundance，表示抵御饥荒带来的结果。abundance 与 famine 一正一反，形成对照。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "as 引导的比较状语从句及省略",
+    "explain": "as 可以引导比较状语从句，意为“像……那样”，从句中与主句相同的谓语部分常常省略，只留下助动词或情态动词。本句 as no manure heap could = as no manure heap could ward off famine。从句主语带 no 时，意为“没有哪一个能像这样”，暗含“只有主句主语做得到”，视频译为“这是任何粪肥垒成的肥堆都做不到的”。考研阅读中遇到“as + 主语 + 助动词 / 情态动词”的结构，要先补出省略的部分再理解。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The internet connects people as no earlier technology could.",
+      "zh": "互联网把人们连接起来，这是以往任何技术都做不到的。"
+     },
+     {
+      "en": "She grasped the problem as few of her colleagues did.",
+      "zh": "她对这个问题的把握，是同事中很少有人能做到的。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作状语",
+    "explain": "句首的过去分词短语，逻辑主语就是主句主语，二者为被动关系。本句 Ploughed into stony soils as fertiliser 的逻辑主语是 ammonia，来自 plough ammonia into stony soils（把氨翻耕进多石的土壤），变成被动后省去主语和 be 动词即得到分词短语。plough A into B 中，A 是被翻进土里的东西，B 是土壤。读这类句子时，先找到主句主语，再用它去补全分词短语的意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Mixed into the soil before planting, compost improves both drainage and fertility.",
+      "zh": "在种植前拌入土壤，堆肥既能改善排水，又能提高肥力。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，常表示主句动作自然带来的结果，逻辑主语是主句主语，相当于“and + 谓语”。本句 bringing abundance 相当于 and it brings abundance，抵御饥荒的结果是带来丰饶，视频译为“并带来丰饶”。表示意料之中的结果用现在分词，表示出乎意料的结果常用 only to do。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell for three days, flooding hundreds of homes.",
+      "zh": "大雨连下三天，淹没了数百户人家。"
+     },
+     {
+      "en": "The airline cut its fares by half, attracting thousands of new passengers.",
+      "zh": "这家航空公司把票价降了一半，吸引了数千名新乘客。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ward off",
+    "explain": "短语动词，意为“抵御，防止，避开（危险、疾病等）”，宾语常是 danger、disease、attack、hunger 等，如 ward off colds（预防感冒）。本句视频译为“抵御”。"
+   },
+   {
+    "term": "plough / plow",
+    "explain": "plough 是英式拼写，美式拼写为 plow，作名词指犁，作动词指犁地、翻耕；plough A into B 指把A翻耕进B（视频说明）。本句的 fertiliser（美式 fertilizer）和第9句的 marshalled（美式 marshaled）也是英式拼写。"
+   },
+   {
+    "term": "manure heap",
+    "explain": "manure 指粪肥，heap 指堆，manure heap 即堆放粪肥的肥堆。化肥普及之前，农业主要靠粪肥等有机肥给土壤补充养分。视频译为“粪肥垒成的肥堆”。"
+   },
+   {
+    "term": "stony soils",
+    "explain": "stony 意为“多石的”，stony soils 指石头多、贫瘠难耕的土壤。soil 一般作不可数名词，表示不同种类或不同地方的土壤时可用复数 soils。"
+   },
+   {
+    "term": "abundance",
+    "explain": "名词，丰富，充裕，常见 in abundance（大量）、an abundance of sth（大量的某物）。本句与 famine（饥荒）形成对比，视频译为“丰饶”。"
+   }
+  ],
+  "translation_tip": "视频译文“被翻耕进多石的土壤，作为化肥，氨抵御着饥荒，这是任何粪肥垒成的肥堆都做不到的，并带来丰饶。”的处理：①句首过去分词短语按原顺序译出，被动意义用“被”字体现；as fertiliser 单独译为“作为化肥”，用逗号断开。②wards off 是一般现在时，译为“抵御着”，“着”表示这种作用持续存在。③比较状语从句 as no manure heap could 没有译成“像……一样”，而是拆成独立分句，用“这”复指前面抵御饥荒一事；no 译成“任何……都做不到”，把否定落在谓语上，更符合汉语习惯。④结果状语 bringing abundance 放在句末，译为“并带来丰饶”，“并”体现递进的结果关系。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "it",
+   "predicate": "was feeding",
+   "object_or_complement": "nearly half of mankind",
+   "explain": "主干是 it was feeding nearly half of mankind，主谓宾结构，it 指上句的 ammonia。谓语 was feeding 为过去进行时，主动语态，表示到2008年这一时间点，养活近半人类的状态正在持续。"
+  },
+  "components": [
+   {
+    "text": "By 2008",
+    "role": "时间状语（介词短语，by 意为“到……的时候”）",
+    "zh": "到2008年"
+   },
+   {
+    "text": "it",
+    "role": "主语（指代上句的 ammonia）",
+    "zh": "它"
+   },
+   {
+    "text": "was feeding",
+    "role": "谓语（过去进行时）",
+    "zh": "养活了"
+   },
+   {
+    "text": "nearly half",
+    "role": "宾语（中心词 half，nearly 修饰 half）",
+    "zh": "将近一半的"
+   },
+   {
+    "text": "of mankind.",
+    "role": "介词短语，与 half 构成 half of sth（……的一半）",
+    "zh": "人类"
+   }
+  ],
+  "structure": "①本句是主谓宾结构的简单句：主语 it 回指上句的 ammonia（实际指用氨制成的化肥）；谓语 was feeding；宾语 nearly half of mankind，中心词是 half，of mankind 说明是谁的一半，nearly 修饰 half，表示“将近”。\n②By 2008 是时间状语，by 意为“到……的时候”，后接过去的时间点。\n③谓语用过去进行时，强调到2008年时这种供养作用正在持续，而不是一次性完成的动作。\n④本句用具体年份和比例，为上句氨抵御饥荒、带来丰饶的说法提供数据支撑。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "by + 过去时间 与谓语时态",
+    "explain": "by + 时间点 意为“到……为止，到……的时候”。接过去时间时，谓语常用过去完成时，强调到那时已经完成的动作，如 By 2008 the plant had produced millions of tonnes of ammonia；如果要描述到那时正在持续的状态，可以用过去进行时或一般过去时。本句 By 2008 it was feeding nearly half of mankind 强调2008年时化肥正在养活近半人类。考研写作中 by the end of last year、by 2020 等短语后面的时态，要根据“已完成”还是“正在持续”来选择。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By 2015 the city had built more than 200 kilometres of cycle lanes.",
+      "zh": "到2015年，该市已修建了200多公里的自行车道。"
+     },
+     {
+      "en": "By the late 1990s, millions of households were using the internet every day.",
+      "zh": "到20世纪90年代末，数以百万计的家庭每天都在使用互联网。"
+     }
+    ]
+   },
+   {
+    "title": "half 的用法",
+    "explain": "half 后接带有 the、my、this 等限定词的名词时，of 可以省略，如 half (of) the money、half (of) my time；后接人称代词时必须用 of，如 half of them、half of us；后接不带限定词的名词时，通常用 half of，如本句 half of mankind。half of + 名词 作主语时，谓语与 of 后的名词保持一致：Half of the cake was eaten / Half of the students were absent。第18句 About half the nitrogen 就省略了 of。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Half of the respondents said they had never used the service.",
+      "zh": "一半的受访者表示，他们从未使用过这项服务。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "feed",
+    "explain": "feed 本义是“喂养，给……食物”，本句指“养活，供养”，主语是化肥，表示它使粮食增产，从而养活了大量人口，视频译为“养活了”。常见搭配有 feed a family（养家）、feed the world（养活全世界）。"
+   },
+   {
+    "term": "mankind",
+    "explain": "名词，人类，指全体人类，作集合名词，前面不加冠词。因为含有 man，正式文体中常用 humankind 或 humanity 代替，以避免性别色彩。视频译为“人类”。"
+   },
+   {
+    "term": "nearly / almost",
+    "explain": "nearly 意为“将近，几乎”，修饰数量时与 almost 基本可以互换，如 nearly half、almost half；但 almost 可以直接用在 no、nothing、never 等否定词前（almost nothing），nearly 一般不这样用。"
+   }
+  ],
+  "translation_tip": "视频译文“到2008年，它养活了将近一半的人类。”的处理：①时间状语 By 2008 译为“到2008年”，放在句首并用逗号隔开。②过去进行时 was feeding 译为“养活了”，用“了”表示到那时已经达到的状态，比直译“正在养活”更通顺。③nearly half of mankind 的中心词是 half，视频把 half 转为定语“将近一半的”，以“人类”作中心词，符合汉语表达习惯。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Haber's ambition",
+   "predicate": "had",
+   "object_or_complement": "a sinister side",
+   "explain": "主干是 Haber's ambition had a sinister side，主谓宾结构，have 是实义动词，意为“具有”。谓语 had 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Haber's ambition",
+    "role": "主语（Haber's 是名词所有格）",
+    "zh": "哈伯的雄心"
+   },
+   {
+    "text": "had",
+    "role": "谓语（实义动词，意为“具有”）",
+    "zh": "也有"
+   },
+   {
+    "text": "a sinister side.",
+    "role": "宾语（sinister 作前置定语，修饰 side）",
+    "zh": "险恶的/邪恶的一面"
+   }
+  ],
+  "structure": "①本句是主谓宾结构的简单句：主语 Haber's ambition，谓语 had，宾语 a sinister side。\n②本句是第3段的主题句，起转折作用：第1、2段讲哈伯合成氨、获诺贝尔奖、化肥养活近半人类的光明面，本句转而引出他雄心的另一面，下文的军火原料和毒气战都是对 sinister side 的具体说明。\n③句中没有 but、however 等转折词，转折靠 sinister 一词的语义体现，视频增补“也”来表达这层意思。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "have 作实义动词：have a ... side",
+    "explain": "have 作实义动词表示“有，具有”时是静态动词，一般不用进行时，不能说 was having a sinister side。have a ... side 意为“有……的一面”，如 have a softer side、have a dark side，常用来描写人或事物性格、性质中不太显露的一面。本句主语是抽象名词 ambition，说明哈伯的雄心既有造福人类的一面，也有险恶的一面。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The cheerful comedian had a darker side that few of his fans ever saw.",
+      "zh": "这位乐呵呵的喜剧演员有着阴暗的一面，他的粉丝中很少有人见过。"
+     }
+    ]
+   },
+   {
+    "title": "段首主题句中的语义转折",
+    "explain": "考研阅读中，段首句常是主题句，概括全段内容。转折不一定靠 but、however 等连接词，也可以靠评价性词语体现。本句 sinister 与前两段的赞誉形成鲜明对比，读者据此可以判断文章由讲功绩转向讲罪责。做段落主旨题和作者态度题时，要抓住这类段首的评价性词语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The policy boosted exports. Its effect on small farmers was far less positive.",
+      "zh": "这项政策促进了出口，但它对小农户的影响却远没有那么积极。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sinister",
+    "explain": "形容词，邪恶的、凶险的或不祥的，形容人或动机时常偏向“阴险、心怀恶意”（视频说明）。它来自拉丁语 sinister（左边的），这个拉丁词在占卜中又有“不吉利”的意思，英语由此发展出“不祥、邪恶”等义。"
+   },
+   {
+    "term": "ambition",
+    "explain": "名词，雄心，抱负，本身是中性词，可褒可贬：achieve one's ambition（实现抱负）是褒义，blind ambition（盲目的野心）是贬义。本句视频译为“雄心”，后面的 sinister side 指出这份雄心的阴暗面。形容词是 ambitious。"
+   },
+   {
+    "term": "side",
+    "explain": "这里指人或事物的“一面，方面”，如 the bright side（光明的一面）、look on the bright side（往好处想）。"
+   }
+  ],
+  "translation_tip": "视频译文“哈伯的雄心也有险恶的/邪恶的一面。”的处理：①增补“也”，表明前文讲的是哈伯光明的一面，本句转向另一面，起承上启下的作用。②sinister 给出“险恶的/邪恶的”两个译法，兼顾视频说明中“邪恶的、凶险的”几层含义。③a sinister side 译为“……的一面”，不定冠词 a 并入“一面”的“一”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Ammonia（前一分句）；Captain Haber（后一分句）",
+   "predicate": "stocked（前一分句）；marshalled（后一分句）",
+   "object_or_complement": "Germany's arsenal（stocked 的宾语）；chemical warfare（marshalled 的宾语）",
+   "explain": "本句是 and 连接的并列句，两个分句都是主谓宾结构。前一分句中，with nitrates for munitions 与谓语构成 stock A with B（用B充实A），despite a British blockade 作让步状语；后一分句是 Captain Haber marshalled chemical warfare。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Ammonia",
+    "role": "主语（前一分句）",
+    "zh": "氨"
+   },
+   {
+    "text": "stocked",
+    "role": "谓语（前一分句，与后面的 with 构成 stock A with B）",
+    "zh": "充实了"
+   },
+   {
+    "text": "Germany's arsenal",
+    "role": "宾语（stock A with B 中的 A）",
+    "zh": "德国的军火库"
+   },
+   {
+    "text": "with nitrates",
+    "role": "介词短语（stock A with B 中的 B，说明用什么充实）",
+    "zh": "用……硝酸盐"
+   },
+   {
+    "text": "for munitions",
+    "role": "后置定语（介词短语），修饰 nitrates，说明硝酸盐的用途",
+    "zh": "（制造）弹药所需的"
+   },
+   {
+    "text": "despite a British blockade,",
+    "role": "让步状语（介词短语）",
+    "zh": "尽管有英国封锁"
+   },
+   {
+    "text": "and Captain Haber",
+    "role": "并列连词 and + 主语（后一分句；Captain 是军衔，放在姓氏前作称谓）",
+    "zh": "而哈伯上尉"
+   },
+   {
+    "text": "marshalled",
+    "role": "谓语（后一分句）",
+    "zh": "组织调度了"
+   },
+   {
+    "text": "chemical warfare.",
+    "role": "宾语",
+    "zh": "化学战"
+   }
+  ],
+  "structure": "①本句由 and 连接两个并列分句，分别写氨在战争中的作用和哈伯本人在战争中的作用，具体说明上句的 sinister side。\n②前一分句：主语 Ammonia，谓语 stocked，宾语 Germany's arsenal，with nitrates 与谓语构成 stock A with B（视频说明：用B充实A）；for munitions 作 nitrates 的后置定语，说明这些硝酸盐用来制造弹药（视频说明：制造弹药所需的硝酸盐）。despite a British blockade 是介词短语作让步状语，说明即使在英国封锁之下，德国的弹药原料仍有保障。\n③后一分句：主语 Captain Haber，Captain（上尉）是军衔，放在姓氏前作称谓，不加冠词；谓语 marshalled，宾语 chemical warfare。marshal 指为某个目标组织并调动人、力量、资源或论据（视频说明），表示哈伯在化学战中担任组织者。\n④背景：氨能用来生产硝酸和硝酸盐，使德国的军火工业摆脱了对进口天然硝石的依赖（视频说明）；英国的海上封锁本来会切断这类进口，所以句中用 despite 表示让步。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "stock A with B 及同类结构",
+    "explain": "stock A with B 意为“用B充实A，给A储备B”，A 是被充实的地方，B 是储备的物品，如 stock the shelves with goods。英语中“动词 + A + with + B”表示“给A提供B”的结构很常见：provide A with B、supply A with B、equip A with B、furnish A with B、fill A with B。本句 A 是 Germany's arsenal，B 是 nitrates for munitions。考研完形和写作常考这组搭配，注意 provide sb with sth 与 provide sth for sb 两种结构不能混用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Volunteers stocked the shelter with blankets, bottled water, and canned food.",
+      "zh": "志愿者们给避难所储备了毯子、瓶装水和罐头食品。"
+     },
+     {
+      "en": "The school plans to equip every classroom with a digital projector.",
+      "zh": "学校计划给每间教室配备一台数字投影仪。"
+     }
+    ]
+   },
+   {
+    "title": "despite 引导的让步状语",
+    "explain": "despite 是介词，意为“尽管”，后面接名词、代词或动名词，不接从句，也不加 of；in spite of 意思相同，其中的 of 不能省。要接从句时，用 although、though 或 despite the fact that。本句 despite a British blockade 说明英国封锁本应阻碍德国获得弹药原料，合成氨却让这一阻碍失效，视频译为“尽管有英国封锁”。考研写作中，despite of 是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Despite the heavy rain, thousands of fans waited outside the stadium.",
+      "zh": "尽管下着大雨，仍有数千名球迷在体育场外等候。"
+     },
+     {
+      "en": "The project was completed on time despite repeated cuts to its budget.",
+      "zh": "尽管预算一再被削减，该项目还是按时完成了。"
+     }
+    ]
+   },
+   {
+    "title": "称谓 + 姓名",
+    "explain": "军衔、职务、头衔放在姓名前作称谓时，首字母大写，前面不加冠词，如 Captain Haber、President Lincoln、Professor Smith。单独作普通名词时则小写并带冠词或物主代词，如 He was promoted to the rank of captain、the president of the club。本句用 Captain Haber 点明哈伯当时的军人身份，与前一分句氨的军事用途相呼应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Professor Chen will chair the panel discussion this afternoon.",
+      "zh": "陈教授将主持今天下午的小组讨论。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "nitrates for munitions",
+    "explain": "nitrate 指硝酸盐，复数 nitrates。合成氨可以进一步制成硝酸和硝酸盐，而硝酸盐是制造炸药和火药的原料。合成氨使德国的军火工业摆脱了对进口天然硝石的依赖（视频说明）。"
+   },
+   {
+    "term": "arsenal",
+    "explain": "名词，军火库，兵工厂，也可指一个国家拥有的全部武器，如 a nuclear arsenal（核武库）；比喻义是“一整套手段”，如 an arsenal of arguments。视频译为“军火库”。"
+   },
+   {
+    "term": "blockade",
+    "explain": "名词，封锁，指用军队或舰船阻止人员和物资进出某地，常见 impose a blockade（实施封锁）、lift a blockade（解除封锁）、break a blockade（突破封锁）。"
+   },
+   {
+    "term": "marshal / marshalled",
+    "explain": "marshal 作动词意为“组织，调集，部署”，宾语可以是人、力量、资源或论据，如 marshal support、marshal one's arguments（视频说明：为某个目标组织并调动人、力量、资源或论据）。marshalled 是英式拼写，双写 l，美式拼写为 marshaled。"
+   },
+   {
+    "term": "chemical warfare",
+    "explain": "化学战，指使用有毒化学物质作战。warfare 是不可数名词，指作战、战争方式，如 trench warfare（堑壕战）、guerrilla warfare（游击战）。"
+   }
+  ],
+  "translation_tip": "视频译文“氨用（制造）弹药所需的硝酸盐充实了德国的军火库，尽管有英国封锁，而哈伯上尉则组织调度了化学战。”的处理：①stock A with B 用“用B充实了A”的句式译出，with 短语移到动词前；后置定语 for munitions 前置为“（制造）弹药所需的”，增补“（制造）”，说明硝酸盐与弹药的关系。②让步状语 despite a British blockade 保留在后面，译为“尽管有英国封锁”，增补“有”，作为补充说明。③and 连接的后一分句译为“而哈伯上尉则……”，用“而……则”突出两件事的对照：物资上靠氨，组织上靠哈伯。④Captain Haber 按汉语习惯译为“哈伯上尉”，姓在前，军衔在后。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "troops",
+   "predicate": "vented",
+   "object_or_complement": "about 168 tonnes of greenish, poisonous chlorine",
+   "explain": "主干是 troops vented about 168 tonnes of greenish, poisonous chlorine，主谓宾结构。谓语 vented 为一般过去时，主动语态；句末的名词短语 the first large-scale gas onslaught 是同位语，概括前面整个事件。"
+  },
+  "components": [
+   {
+    "text": "On 22 April 1915",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1915年4月22日"
+   },
+   {
+    "text": "at Ypres,",
+    "role": "地点状语（介词短语）",
+    "zh": "在伊普尔"
+   },
+   {
+    "text": "troops",
+    "role": "主语",
+    "zh": "（德国）部队"
+   },
+   {
+    "text": "vented",
+    "role": "谓语",
+    "zh": "排放了"
+   },
+   {
+    "text": "about 168 tonnes of greenish, poisonous chlorine",
+    "role": "宾语（about 意为“大约”；greenish 与 poisonous 并列修饰 chlorine）",
+    "zh": "约168吨黄绿色、有毒的氯气"
+   },
+   {
+    "text": "towards the Allied trenches,",
+    "role": "方向状语（介词短语，说明释放的方向）",
+    "zh": "朝协约国战壕方向"
+   },
+   {
+    "text": "the first large-scale gas onslaught.",
+    "role": "同位语（名词短语），概括说明前面整个分句所述的事件",
+    "zh": "首次大规模毒气猛攻"
+   }
+  ],
+  "structure": "①主句 troops vented about 168 tonnes of greenish, poisonous chlorine 是主谓宾结构。宾语中心词是 chlorine，about 168 tonnes of 表示数量，greenish 和 poisonous 是两个并列的前置定语，用逗号隔开。\n②句首 On 22 April 1915 at Ypres 是时间状语和地点状语，交代事件发生的时间和地点。\n③towards the Allied trenches 是介词短语作状语，说明释放的方向（视频说明）；Allied 指第一次世界大战中的协约国一方。\n④句末 the first large-scale gas onslaught 是名词短语作同位语，它说明的不是前面某一个名词，而是对整个分句所述的排放毒气事件进行概括和定性：这是首次大规模毒气攻击。\n⑤主语 troops 没有说明是哪国部队，根据上下文是德国部队，视频增补“（德国）”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语，概括整个分句",
+    "explain": "同位语一般紧跟在它所说明的名词之后。外刊中还常见另一种用法：在句末用逗号引出一个名词短语，对前面整个分句所述的事件加以概括、定性或评价，作用相当于 which was the first large-scale gas onslaught。本句 the first large-scale gas onslaught 说明的不是 trenches，而是“部队排放氯气”这整件事。考研阅读中，要根据意思判断句末名词短语说明的是前面哪个部分，不能机械地挂在最近的名词上。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The central bank raised interest rates three times in six months, a pace not seen in decades.",
+      "zh": "央行在六个月内三次加息，这样的速度几十年来从未有过。"
+     },
+     {
+      "en": "More than a million people marched through the capital, the largest protest in the country's history.",
+      "zh": "一百多万人在首都游行，这是该国历史上规模最大的抗议活动。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词 large-scale",
+    "explain": "形容词与名词用连字符连成的复合形容词，作前置定语时要加连字符，如 large-scale production、long-term plans、full-time job；同样的意思用介词短语或作表语表达时不加连字符，如 on a large scale、in the long term、work full time。本句 large-scale 修饰 gas onslaught，视频译为“大规模”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Large-scale farming has transformed the landscape of the region.",
+      "zh": "大规模农业改变了该地区的面貌。"
+     }
+    ]
+   },
+   {
+    "title": "日期的写法与介词 on",
+    "explain": "具体日期前用介词 on，年份、月份前用 in。英式英语常按“日 + 月 + 年”写成 22 April 1915，美式英语常按“月 + 日 + 年”写成 April 22, 1915。本文采用英式写法，第12句 On 2 May 1915 也是如此。汉语日期按年、月、日排列，所以视频译为“1915年4月22日”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 28 June 1919 at the Palace of Versailles.",
+      "zh": "该条约于1919年6月28日在凡尔赛宫签订。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Ypres",
+    "explain": "伊普尔，比利时西部城市，第一次世界大战中多次激战的战场。1915年4月22日，德军在第二次伊普尔战役中释放氯气，文中称之为首次大规模毒气攻击。"
+   },
+   {
+    "term": "the Allied trenches",
+    "explain": "Allied 首字母大写时指盟国一方：在第一次世界大战语境中指协约国（英国、法国、俄国等），在第二次世界大战语境中指同盟国。trench 指战壕，第一次世界大战西线以堑壕战（trench warfare）为主。"
+   },
+   {
+    "term": "chlorine",
+    "explain": "氯气，常温下是黄绿色、有刺激性气味的有毒气体，比空气重，释放后会顺地面流动并沉入低洼的战壕。视频把 greenish 译为“黄绿色”，与氯气的实际颜色相符。"
+   },
+   {
+    "term": "vent",
+    "explain": "动词，本义是“排放（气体、液体）”，如 vent steam；常见引申义是“发泄（情绪）”，如 vent one's anger。本句是本义，视频译为“排放了”。名词 vent 指通风口、排气口。"
+   },
+   {
+    "term": "tonne",
+    "explain": "公吨，等于1000千克，英式拼写；ton 在英国传统上指长吨（约1016千克），在美国指短吨（约907千克）。"
+   },
+   {
+    "term": "onslaught",
+    "explain": "名词，猛烈而持续的攻击，也指大量事物接连不断地袭来，既可描述真实的军事进攻，也可用于批评、问题、投诉等抽象事物（视频说明），如 an onslaught of criticism。本句视频译为“猛攻”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①时间和地点状语保留在句首，日期按汉语习惯译为“1915年4月22日”，at Ypres 译为“在伊普尔”。②主语 troops 增补“（德国）”，交代是哪一方的部队。③方向状语 towards the Allied trenches 移到谓语前，译为“朝协约国战壕方向排放了……”；about 译为“约”，两个并列定语 greenish、poisonous 之间用顿号。④句末同位语保留在最后，译为“首次大规模毒气猛攻”，作为对整件事的补充和定性，与英文语序一致。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Haber's wife",
+   "predicate": "voiced",
+   "object_or_complement": "objections",
+   "explain": "主干是 Haber's wife voiced objections，主谓宾结构，to his work 作 objections 的后置定语。主语后面有两个同位语，使主语和谓语相隔较远。谓语 voiced 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Haber's wife,",
+    "role": "主语",
+    "zh": "哈伯的妻子"
+   },
+   {
+    "text": "Clara Immerwahr,",
+    "role": "同位语，说明 Haber's wife 的姓名",
+    "zh": "克拉拉·伊梅瓦尔"
+   },
+   {
+    "text": "Germany's first",
+    "role": "第二个同位语的前置定语，修饰 woman",
+    "zh": "是德国第一位"
+   },
+   {
+    "text": "woman with a doctoral degree in chemistry,",
+    "role": "第二个同位语的中心词 woman 及其后置定语（with 介词短语），说明克拉拉的身份",
+    "zh": "获得化学博士学位的女性"
+   },
+   {
+    "text": "voiced",
+    "role": "谓语（voice 作动词，意为“说出，表达”）",
+    "zh": "她曾……表达了"
+   },
+   {
+    "text": "objections",
+    "role": "宾语",
+    "zh": "反对"
+   },
+   {
+    "text": "to his work.",
+    "role": "后置定语（介词短语），修饰 objections",
+    "zh": "对他的工作"
+   }
+  ],
+  "structure": "①主句 Haber's wife voiced objections to his work 是主谓宾结构：主语 Haber's wife，谓语 voiced，宾语 objections，to his work 作 objections 的后置定语，构成 objection to sth（视频说明：对某事的反对）。\n②主语后面有两个同位语：Clara Immerwahr 说明妻子的姓名；Germany's first woman with a doctoral degree in chemistry 说明她的身份（视频说明）。第二个同位语的中心词是 woman，Germany's first 作前置定语，with a doctoral degree in chemistry 是介词短语作后置定语，其中 in chemistry 又修饰 degree。\n③两个同位语都用逗号隔开，主语 Haber's wife 和谓语 voiced 之间隔了十多个词，阅读时要越过同位语找到谓语。\n④his work 指哈伯从事的化学战工作，承接第9、10句的内容。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语",
+    "explain": "同位语是对前面名词的补充说明，与该名词指同一人或事物，通常用逗号隔开，可以是专有名词、名词短语等。本句有两个同位语：Clara Immerwahr 说明 Haber's wife 是谁，Germany's first woman with a doctoral degree in chemistry 说明她的身份。同位语插在主语和谓语之间时会把主谓隔开，考研长难句分析中，要先把同位语括起来，找出 Haber's wife voiced objections 这一主干。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, the first person to win two Nobel Prizes, was born in Warsaw.",
+      "zh": "玛丽·居里是第一位两次获得诺贝尔奖的人，她出生在华沙。"
+     },
+     {
+      "en": "The new director, a former journalist, has promised greater transparency.",
+      "zh": "新任主管曾当过记者，他承诺将提高透明度。"
+     }
+    ]
+   },
+   {
+    "title": "objection to + 名词 / 动名词",
+    "explain": "objection 后接介词 to 引出反对的对象，to 是介词，后面接名词、代词或动名词，如 objection to the plan、objection to being searched。同类的“名词 / 动词 + to”结构还有 object to doing、opposition to、resistance to、be opposed to doing，都是考研完形和写作的高频考点，to 后的动词不能写成原形。常见搭配有 raise / voice / make an objection（提出反对）、have no objection to sth（不反对）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Several residents raised objections to the new parking rules.",
+      "zh": "几位居民对新的停车规定提出了反对意见。"
+     },
+     {
+      "en": "I have no objection to working late if the project requires it.",
+      "zh": "如果项目需要，我不反对加班。"
+     }
+    ]
+   },
+   {
+    "title": "with 介词短语作后置定语表示“具有”",
+    "explain": "with + 名词 放在名词后面作定语，表示“具有……的，带有……的”，如 a house with a garden、a student with a strong interest in history。本句 woman with a doctoral degree in chemistry 即“拥有化学博士学位的女性”，视频译为“获得化学博士学位的女性”。the first 修饰人时，后面也常接不定式，如 the first woman to earn a doctorate in chemistry。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The firm is looking for engineers with experience in renewable energy.",
+      "zh": "这家公司在招聘具有可再生能源工作经验的工程师。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Clara Immerwahr",
+    "explain": "克拉拉·伊梅瓦尔（1870年至1915年），德国化学家，文中说她是德国第一位获得化学博士学位的女性。本句写她反对丈夫的工作。"
+   },
+   {
+    "term": "voice",
+    "explain": "熟词僻义：voice 常作名词“声音”，本句作动词，意为“说出，表达（意见、情感）”，常见 voice concerns、voice opposition、voice support。视频译为“表达了”。"
+   },
+   {
+    "term": "doctoral degree",
+    "explain": "博士学位，也说 doctorate 或 PhD；doctoral 是形容词，意为“博士的”，如 doctoral thesis（博士论文）、doctoral student（博士生）。degree in + 学科 表示某一学科的学位，如 a degree in chemistry。"
+   }
+  ],
+  "translation_tip": "视频译文“哈伯的妻子克拉拉·伊梅瓦尔，是德国第一位获得化学博士学位的女性，她曾对他的工作表达了反对。”的处理：①第一个同位语 Clara Immerwahr 直接跟在“哈伯的妻子”后面，中间不停顿。②第二个同位语译成判断句“是德国第一位……女性”，后置定语 with a doctoral degree in chemistry 前置为“获得化学博士学位的”，增补“获得”。③由于同位语较长，谓语前用代词“她”重新指出主语，并增补“曾”表示过去。④objections to his work 中的介词短语移到动词前，译为“对他的工作表达了反对”，复数 objections 不必译出。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "she",
+   "predicate": "shot",
+   "object_or_complement": "herself",
+   "explain": "主干是 she shot herself，主谓宾结构，反身代词 herself 作宾语，与主语指同一人，shoot oneself 即开枪自杀。谓语 shot 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 2 May 1915,",
+    "role": "时间状语（介词短语）",
+    "zh": "1915年5月2日"
+   },
+   {
+    "text": "after festivities",
+    "role": "时间状语（介词短语）",
+    "zh": "在……庆祝活动之后"
+   },
+   {
+    "text": "in his honour,",
+    "role": "后置定语（介词短语），修饰 festivities",
+    "zh": "为他致敬的"
+   },
+   {
+    "text": "she",
+    "role": "主语",
+    "zh": "她"
+   },
+   {
+    "text": "shot herself",
+    "role": "谓语 shot + 宾语 herself（反身代词，指主语本人）",
+    "zh": "自尽了"
+   },
+   {
+    "text": "in the garden",
+    "role": "地点状语（介词短语）",
+    "zh": "在花园里"
+   },
+   {
+    "text": "with his service pistol.",
+    "role": "方式状语（介词短语，with 表示使用的工具）",
+    "zh": "用他的军用手枪"
+   }
+  ],
+  "structure": "①主句 she shot herself 是主谓宾结构，反身代词 herself 作宾语，表示动作的对象就是主语本人。\n②句首有两个时间状语：On 2 May 1915 交代日期；after festivities in his honour 交代事件发生在庆祝活动之后，in his honour 是介词短语作 festivities 的后置定语，这里指为他庆功（视频说明）。\n③句末有两个状语：in the garden 是地点状语，with his service pistol 是方式状语，with 表示使用的工具；service pistol 中 service 作定语，指军队配发的。\n④本句与上句衔接：上句说克拉拉反对丈夫的工作，本句写她在为丈夫庆功的活动之后自尽，作者只把两件事并列陈述，没有直接下结论。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "反身代词作宾语",
+    "explain": "主语和宾语指同一人或物时，宾语要用反身代词（myself、herself、themselves 等），如 She shot herself；如果写成 She shot her，her 就指另一位女性。常见的“动词 + 反身代词”搭配有 enjoy oneself、hurt oneself、devote oneself to、pride oneself on、find oneself doing。考研写作中，devote oneself to 中的 to 是介词，后接名词或动名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The climber injured himself when he slipped on the icy rocks.",
+      "zh": "这名登山者在结冰的岩石上滑倒，受了伤。"
+     },
+     {
+      "en": "After retiring, she devoted herself to teaching children to read.",
+      "zh": "退休后，她全身心投入到教孩子们读书的工作中。"
+     }
+    ]
+   },
+   {
+    "title": "in sb's honour / in honour of sb",
+    "explain": "in sb's honour 与 in honour of sb 意思相同，表示“为了向某人表示敬意，为纪念某人”，如 a dinner in her honour、a statue in honour of the poet。honour 是英式拼写，美式拼写为 honor。本句 festivities in his honour 指为哈伯举行的庆祝活动，视频说明这里指为他庆功。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The university held a reception in honour of the retiring professor.",
+      "zh": "学校为这位即将退休的教授举行了招待会。"
+     }
+    ]
+   },
+   {
+    "title": "with 表示工具",
+    "explain": "with 后接工具或手段，表示“用……”，如 write with a pen、cut the rope with a knife；表示交通方式或通讯手段时则用 by，如 by train、by email，by 后的名词不加冠词。本句 with his service pistol 说明她用什么自尽。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The thieves forced the door open with a crowbar.",
+      "zh": "窃贼用撬棍把门撬开了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "festivities",
+    "explain": "名词，复数形式常指庆祝活动、节庆活动，如 Christmas festivities、the wedding festivities；单数 festivity 多指欢庆的气氛。视频译为“庆祝活动”。"
+   },
+   {
+    "term": "service pistol",
+    "explain": "service 作定语时可以指“军队的，服役的”，service pistol 指军队配发的手枪；类似的有 service rifle、service record（服役记录），military service 则指兵役。视频译为“军用手枪”。"
+   },
+   {
+    "term": "shoot oneself",
+    "explain": "开枪自杀。视频用较委婉的“自尽了”译出 shot herself。"
+   }
+  ],
+  "translation_tip": "视频译文“1915年5月2日，在为他致敬的庆祝活动之后，她在花园里用他的军用手枪自尽了。”的处理：①两个时间状语保留在句首，after 译为“在……之后”包住宾语；后置定语 in his honour 前置为“为他致敬的”。②句末的地点状语和方式状语都移到谓语前，译为“在花园里用他的军用手枪”，符合汉语“主语 + 状语 + 谓语”的语序。③shot herself 没有直译为“向自己开枪”，而是译为“自尽了”，语气庄重委婉。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "the widower",
+   "predicate": "left for",
+   "object_or_complement": "the Eastern Front",
+   "explain": "主干是 the widower left for the Eastern Front，主谓宾结构，leave for（动身前往）作谓语，the Eastern Front 表示目的地。谓语 left 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The next day",
+    "role": "时间状语（名词短语直接作状语）",
+    "zh": "第二天"
+   },
+   {
+    "text": "the widower",
+    "role": "主语（指哈伯）",
+    "zh": "这位丧妻之人"
+   },
+   {
+    "text": "left for",
+    "role": "谓语（leave for，动身前往）",
+    "zh": "动身前往"
+   },
+   {
+    "text": "the Eastern Front.",
+    "role": "宾语（表示目的地）",
+    "zh": "东线"
+   }
+  ],
+  "structure": "①本句是主谓宾结构的简单句：主语 the widower，谓语 left for（视频说明：leave for 动身前往），the Eastern Front 表示目的地。\n②The next day 是名词短语直接作时间状语，前面不加介词，指上句1915年5月2日的第二天。\n③主语 the widower 指哈伯。作者不说 Haber 或 he，而用“丧妻之人”这一身份称呼他，紧接着写他第二天就动身奔赴前线，两者并置，突出他在妻子死后很快重返战场。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "leave、leave for 与 leave A for B",
+    "explain": "leave 作及物动词时，宾语是离开的地方，如 leave Germany（离开德国，见第15句）；leave for + 地点 表示动身前往某地，for 引出目的地；leave A for B 表示离开A去B，如 leave London for Paris。考研中易错：leave for 后面是目的地，不是出发地；表示“到达”要用 arrive in / at 或 reach。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The delegation left for Brussels early on Monday morning.",
+      "zh": "代表团于周一一早动身前往布鲁塞尔。"
+     },
+     {
+      "en": "Thousands of young people leave the countryside for big cities every year.",
+      "zh": "每年都有成千上万的年轻人离开农村，前往大城市。"
+     }
+    ]
+   },
+   {
+    "title": "the next day 作时间状语",
+    "explain": "the next day、the following week、the day before 等名词短语可以直接作时间状语，不加介词。叙述过去的事情时，“第二天”用 the next day 或 the following day，不用 tomorrow，因为 tomorrow 以说话的当下为参照点；直接引语变为间接引语时，tomorrow 也要改为 the next day。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She sent the application on Friday, and the company replied the following day.",
+      "zh": "她周五寄出了申请，公司第二天就回复了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Eastern Front",
+    "explain": "东线，指第一次世界大战中德国、奥匈帝国一方与俄国之间的战线；与之相对的西线（the Western Front）主要在比利时和法国境内，第10句的伊普尔就在西线。front 在这里指“前线，战线”。"
+   },
+   {
+    "term": "widower",
+    "explain": "名词，鳏夫，指妻子去世的男子；对应的 widow 指寡妇。widower 是在 widow 后面加 -er 构成的。视频译为“丧妻之人”。"
+   }
+  ],
+  "translation_tip": "视频译文“第二天，这位丧妻之人动身前往东线。”的处理：①时间状语 The next day 译为“第二天”，放在句首。②the widower 中的定冠词 the 译为“这位”，回指上文的哈伯；widower 译为“丧妻之人”，保留原文用身份指代人物的写法。③left for 译为“动身前往”，体现 leave for 表示出发去某地的含义。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Prestige",
+   "predicate": "offered",
+   "object_or_complement": "no sanctuary",
+   "explain": "主干是 Prestige offered no sanctuary，主谓宾结构，否定词 no 放在宾语 sanctuary 前面，使全句成为否定句。谓语 offered 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Prestige",
+    "role": "主语（抽象名词）",
+    "zh": "声望"
+   },
+   {
+    "text": "offered",
+    "role": "谓语",
+    "zh": "提供（给他）"
+   },
+   {
+    "text": "no sanctuary.",
+    "role": "宾语（no 否定 sanctuary，相当于 not any sanctuary）",
+    "zh": "没有……庇护"
+   }
+  ],
+  "structure": "①本句是主谓宾结构的简单句：主语 Prestige，谓语 offered，宾语 no sanctuary。no 是限定词，否定宾语 sanctuary，Prestige offered no sanctuary 相当于 Prestige did not offer any sanctuary。\n②本句是第5段的主题句：哈伯虽然声名显赫，又获诺贝尔奖，但声望没能保护他，下一句写他因犹太血统被迫离开德国，就是具体说明。\n③句子只有四个词，主语和宾语都是抽象名词，用拟人手法写声望“不提供庇护”，简短有力。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "no + 名词 表示全部否定",
+    "explain": "no 作限定词放在名词前，表示“没有任何”，相当于 not any 或 not a，如 There is no time = There is not any time。否定词不在谓语上而在宾语或主语上，这种写法比 did not offer any 更简洁、语气更重。翻译成汉语时，通常要把否定移到动词前，译成“没有……”。考研阅读中，no、nothing、none、never 等否定词出现在句中任何位置，都会使整句意思变为否定，做判断题时要特别注意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report offered no evidence for its central claim.",
+      "zh": "这份报告没有为其核心观点提供任何证据。"
+     },
+     {
+      "en": "No country can tackle climate change on its own.",
+      "zh": "没有哪个国家能单独应对气候变化。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词作主语的拟人化表达",
+    "explain": "英语常用抽象名词作主语，搭配本来用于人的动词，形成拟人化表达，如 Fame brought him no happiness、History will judge us。本句 Prestige offered no sanctuary 用“声望提供庇护”表示声望保护不了他。汉语一般以人作主语，本句视频保留了原文结构，增补“（给他）”点明对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Wealth brought her no peace of mind.",
+      "zh": "财富并没有给她带来内心的安宁。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "prestige",
+    "explain": "名词，声望，威望，多指因成就、地位而获得的尊重，如 national prestige、the prestige of a university；形容词 prestigious（有声望的，一流的）。本句指哈伯作为著名化学家和诺贝尔奖得主的声望，视频译为“声望”。"
+   },
+   {
+    "term": "sanctuary",
+    "explain": "名词，庇护，避难；也指避难所、保护区，如 seek sanctuary（寻求庇护）、a wildlife sanctuary（野生动物保护区）。sanctuary 原指圣所，中世纪的教堂等圣地可以让逃亡者暂时免遭逮捕，“庇护”之义由此而来。视频译为“庇护”。"
+   }
+  ],
+  "translation_tip": "视频译文“声望没有提供（给他）庇护。”的处理：①宾语上的否定词 no 转移到动词前，译为“没有提供”，符合汉语把否定放在谓语上的习惯。②增补“（给他）”，点明受到影响的是哈伯本人。③保留原文抽象名词作主语的拟人写法，与原文简短有力的风格一致。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Haber",
+   "predicate": "left",
+   "object_or_complement": "Germany（宾语）；an outcast（补充说明主语离开时的身份）",
+   "explain": "主干是 Haber left Germany，主谓宾结构；an outcast 补充说明他离开时的身份（视频说明），可看作主语补足语。谓语 left 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Of Jewish origin,",
+    "role": "状语（介词短语，of + 名词 相当于形容词，交代出身，相当于 Being of Jewish origin）",
+    "zh": "身为犹太裔"
+   },
+   {
+    "text": "Haber",
+    "role": "主语",
+    "zh": "哈伯"
+   },
+   {
+    "text": "left",
+    "role": "谓语",
+    "zh": "离开了"
+   },
+   {
+    "text": "Germany",
+    "role": "宾语",
+    "zh": "德国"
+   },
+   {
+    "text": "an outcast",
+    "role": "主语补足语（名词短语，补充说明 Haber 离开时的身份）",
+    "zh": "作为一个被驱逐的人"
+   },
+   {
+    "text": "after Hitler's regime seized power,",
+    "role": "时间状语从句（after 引导）",
+    "zh": "在希特勒政权夺取了权力之后"
+   },
+   {
+    "text": "dying in Basel in 1934.",
+    "role": "结果状语（现在分词短语，补充说明后来的事）",
+    "zh": "并于1934年死于巴塞尔"
+   }
+  ],
+  "structure": "①主句 Haber left Germany 是主谓宾结构。宾语 Germany 后面的 an outcast 不是说明 Germany 的，而是补充说明主语 Haber 离开时的身份（视频说明），可以看作主语补足语，相当于 Haber was an outcast when he left Germany。\n②句首 Of Jewish origin 是介词短语作状语，of + 名词 相当于形容词，说明 Haber 的出身，也暗含他被迫离开的原因，相当于 Being of Jewish origin。\n③after Hitler's regime seized power 是时间状语从句（视频说明），从句主语 Hitler's regime，谓语 seized，宾语 power。\n④dying in Basel in 1934 是现在分词短语作结果状语，补充说明后来的事（视频说明），逻辑主语是 Haber，相当于 and he died in Basel in 1934。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作主语补足语",
+    "explain": "有些动词后面可以接名词或形容词，说明主语在动作发生时或结束后的身份、状态，这个成分叫主语补足语，如 He died a poor man（他死时一贫如洗）、She returned a hero（她作为英雄归来）。本句 left Germany an outcast 中，an outcast 说明的是 Haber 而不是 Germany，相当于 Haber left Germany as an outcast。读到“动词 + 宾语 + 名词”时，要根据意思判断后面的名词说明的是主语还是宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He entered politics an idealist and left it a cynic.",
+      "zh": "他从政时是个理想主义者，离开政坛时却成了愤世嫉俗的人。"
+     },
+     {
+      "en": "The soldier came home from the war a different man.",
+      "zh": "这名士兵从战场归来时已判若两人。"
+     }
+    ]
+   },
+   {
+    "title": "of + 名词 相当于形容词",
+    "explain": "of + 名词 可以表示性质、特征或出身，相当于一个形容词，如 of importance = important、of great value = very valuable、of Chinese origin（华裔的）。这种介词短语可以作表语（The matter is of great importance），也可以放在句首作状语（Of Jewish origin, Haber…），相当于 Being of Jewish origin。origin 在这里指出身、血统。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many of the scientists on the team are of Indian origin.",
+      "zh": "团队中许多科学家是印度裔。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语补充说明后来的事",
+    "explain": "句末的现在分词短语可以补充说明主句动作之后发生的事，逻辑主语是主句主语，相当于“and + 谓语”。本句 dying in Basel in 1934 相当于 and he died in Basel in 1934（视频说明：现在分词短语作结果状语，补充说明后来的事），视频用“并于……”译出。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novelist left his homeland in 1972, never returning.",
+      "zh": "这位小说家于1972年离开故土，此后再也没有回去。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Hitler's regime seized power",
+    "explain": "1933年1月，希特勒被任命为德国总理，纳粹党随即掌握政权。seize power 意为“夺取政权”，seize 带有强行夺取的意味。纳粹政权上台后颁布法令，把犹太人排挤出公职和大学等学术机构。"
+   },
+   {
+    "term": "Of Jewish origin",
+    "explain": "of ... origin 表示“……出身的，……裔的”，origin 指出身、血统。纳粹的种族法令按血统划分犹太人，所以文中强调的是 origin。"
+   },
+   {
+    "term": "regime",
+    "explain": "名词，政权，政体，常指不经民主选举、实行专制统治的政府，带贬义，如 a military regime、an authoritarian regime；也可指制度、体制，如 a tax regime。视频译为“政权”。"
+   },
+   {
+    "term": "outcast",
+    "explain": "名词，被排斥者，被驱逐的人，如 a social outcast（被社会排斥的人）。它与短语 cast out（驱逐，抛弃）相关。视频译为“被驱逐的人”。"
+   },
+   {
+    "term": "Basel",
+    "explain": "巴塞尔，瑞士城市，位于莱茵河畔，靠近德国和法国边境。哈伯于1934年在这里去世。"
+   }
+  ],
+  "translation_tip": "视频译文“身为犹太裔，哈伯在希特勒政权夺取了权力之后，作为一个被驱逐的人离开了德国，并于1934年死于巴塞尔。”的处理：①句首 Of Jewish origin 译为“身为犹太裔”，保留在句首，交代身份背景。②时间状语从句 after Hitler's regime seized power 移到谓语前，译为“在……之后”。③主语补足语 an outcast 译为“作为一个被驱逐的人”，放在“离开了德国”之前，增补“作为”，表明这是他离开时的身份。④结果状语 dying in Basel in 1934 译为“并于1934年死于巴塞尔”，增补“并”，时间状语 in 1934 移到动词前。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "His institute's pesticide research",
+   "predicate": "had produced",
+   "object_or_complement": "Zyklon",
+   "explain": "主干是 His institute's pesticide research had produced Zyklon，主谓宾结构。谓语 had produced 为过去完成时，主动语态，表示这项研究成果出现在上文所述时间之前。"
+  },
+  "components": [
+   {
+    "text": "His institute's",
+    "role": "定语（名词所有格，His 指哈伯），修饰 pesticide research",
+    "zh": "他研究所的"
+   },
+   {
+    "text": "pesticide research",
+    "role": "主语（pesticide 是名词作 research 的前置定语）",
+    "zh": "杀虫剂研究"
+   },
+   {
+    "text": "had produced",
+    "role": "谓语（过去完成时）",
+    "zh": "曾催生了"
+   },
+   {
+    "text": "Zyklon.",
+    "role": "宾语",
+    "zh": "齐克隆"
+   }
+  ],
+  "structure": "①本句是主谓宾结构的简单句：主语中心词是 research，前面有两层定语：名词所有格 His institute's 表示所属，pesticide 是名词作定语，说明研究的类别。His 指哈伯，institute 指他领导的研究所。\n②谓语 had produced 用过去完成时：上句已写到1934年哈伯去世，本句回过头补叙更早的事，用过去完成时表明齐克隆是此前研制出来的。\n③produce 在这里指研究“产生，催生”出某种成果，视频译为“催生了”。本句为下一句 Zyklon B 被纳粹用于死亡营作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时用于补叙",
+    "explain": "叙事中，作者讲到较晚的事件之后，有时会回过头补充更早发生的事，这时用过去完成时标明时间先后。本句上文已写到1934年哈伯去世，本句用 had produced 补叙研究所更早的研究成果，再引出下文。考研阅读中，句中出现 had done 往往提示时间向前回溯，要据此理清事件顺序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum finally reopened in 2019; a fire had destroyed much of its collection a decade earlier.",
+      "zh": "博物馆终于在2019年重新开放；十年前，一场大火烧毁了它的大部分藏品。"
+     },
+     {
+      "en": "When she won the award, she had already published four novels.",
+      "zh": "她获奖时，已经出版了四部小说。"
+     }
+    ]
+   },
+   {
+    "title": "名词作定语表示类别",
+    "explain": "pesticide research 中，pesticide 修饰 research，说明研究的内容和领域，相当于 research on pesticides。作定语的名词通常用单数，即使意义上是复数，如 pesticide research、price increases。前面还可以再加所有格，构成“所有格 + 名词定语 + 中心词”，如 His institute's pesticide research。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The university's climate research centre has received a major grant.",
+      "zh": "该大学的气候研究中心获得了一大笔资助。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "His institute",
+    "explain": "哈伯从1911年起担任柏林威廉皇帝物理化学和电化学研究所所长，直到1933年离职，本句的 His institute 即指这所研究所，它后来更名为弗里茨·哈伯研究所。"
+   },
+   {
+    "term": "Zyklon",
+    "explain": "齐克隆，德语词，意为“旋风”，相当于英语 cyclone，是20世纪20年代在德国开发的一种熏蒸杀虫剂的商品名。"
+   },
+   {
+    "term": "pesticide",
+    "explain": "名词，杀虫剂，农药，后缀 -cide 表示“杀”，同类词有 insecticide（杀虫剂）、herbicide（除草剂）、fungicide（杀真菌剂）。视频译为“杀虫剂”。"
+   },
+   {
+    "term": "produce",
+    "explain": "produce 常见义是“生产，制造”，也可指研究、调查、讨论等“产生（结果）”，如 produce results、produce evidence。本句视频译为“催生了”。"
+   }
+  ],
+  "translation_tip": "视频译文“他研究所的杀虫剂研究曾催生了齐克隆。”的处理：①所有格和名词定语按原顺序译为“他研究所的杀虫剂研究”。②过去完成时 had produced 译为“曾催生了”，“曾”表示这是先前发生的事，“了”表示完成，二者合起来体现补叙的时间关系。③Zyklon 音译为“齐克隆”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "A later variant",
+   "predicate": "was used",
+   "object_or_complement": "",
+   "explain": "主干是 A later variant was used，被动语态，in Nazi death camps 作地点状语。主语后的 Zyklon B 是同位语，句末 where 引导非限制性定语从句。谓语 was used 为一般过去时，被动语态。"
+  },
+  "components": [
+   {
+    "text": "A later variant,",
+    "role": "主语（later 作定语，表示后来出现的）",
+    "zh": "后来的变体"
+   },
+   {
+    "text": "Zyklon B,",
+    "role": "同位语，说明 A later variant 的名称",
+    "zh": "齐克隆B"
+   },
+   {
+    "text": "was used",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "被用于"
+   },
+   {
+    "text": "in Nazi death camps,",
+    "role": "地点状语（介词短语）",
+    "zh": "纳粹死亡营"
+   },
+   {
+    "text": "where relatives of his died.",
+    "role": "非限制性定语从句，修饰 Nazi death camps",
+    "zh": "他的一些亲属就死在那里"
+   }
+  ],
+  "structure": "①主句 A later variant was used in Nazi death camps 是被动语态：主语 A later variant，谓语 was used，in Nazi death camps 是地点状语；动作的执行者是纳粹，句中没有用 by 引出。\n②Zyklon B 是同位语，说明这种后来的变体叫什么；A later variant 回指上句的 Zyklon，later 表示它出现在 Zyklon 之后。\n③where 引导非限制性定语从句，先行词是 Nazi death camps（视频说明：指在这些死亡营里），where 在从句中作地点状语，相当于 in which。从句主语是 relatives of his，谓语是 died。\n④relatives of his 是双重所有格（视频说明：他的亲属），表示他亲属中的一部分，所以视频译为“他的一些亲属”。哈伯研究所的成果后来被用于杀害包括他亲属在内的人，本段以这一事实结束，与开头的“声望没有提供庇护”前后呼应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "where 是关系副词，先行词表示地点、从句缺地点状语时用 where 引导定语从句，相当于 in / at which。本句 Nazi death camps, where relatives of his died = Nazi death camps, in which relatives of his died。逗号表明这是非限制性定语从句，对先行词作补充说明。判断用 where 还是 which，要看从句缺什么成分：从句 relatives of his died 主谓完整，缺的是地点状语，所以用 where；如果从句缺宾语，如 the camps which the soldiers liberated，就要用 which 或 that。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The delegates met in Geneva, where the treaty had been drafted two years earlier.",
+      "zh": "代表们在日内瓦会面，两年前条约就是在那里起草的。"
+     },
+     {
+      "en": "She returned to the village, where she had spent her childhood.",
+      "zh": "她回到了那个村庄，她在那里度过了童年。"
+     }
+    ]
+   },
+   {
+    "title": "双重所有格",
+    "explain": "双重所有格的形式是“名词 + of + 名词所有格 / 名词性物主代词”，如 a friend of mine、relatives of his、a novel of Dickens's。它常表示“……中的一个或一部分”：relatives of his 指他亲属中的一些人，his relatives 则可能指他的全部亲属。of 后面的名词一般指人且所指确定，代词要用名词性物主代词，不能说 a friend of me。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A colleague of mine recommended this restaurant.",
+      "zh": "我的一位同事推荐了这家餐馆。"
+     },
+     {
+      "en": "Two cousins of hers were also on the flight.",
+      "zh": "她的两个表亲也在那架航班上。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态省略动作执行者",
+    "explain": "被动语态中，动作执行者不言自明、无关紧要或不便说出时，通常省略 by 短语。本句 was used in Nazi death camps 的执行者显然是纳粹，句中已用 Nazi 修饰 death camps，不必再说 by the Nazis。考研翻译中，英语被动句可以译成汉语的主动句，也可以保留“被”字，本句视频保留了“被用于”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge was built in 1932 and widened in the 1980s.",
+      "zh": "这座桥建于1932年，20世纪80年代进行了拓宽。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Zyklon B",
+    "explain": "齐克隆B，以氢氰酸为有效成分的熏蒸杀虫剂。第二次世界大战期间，纳粹在奥斯威辛等死亡营的毒气室中用它杀害了大批犹太人和其他受害者。"
+   },
+   {
+    "term": "death camps",
+    "explain": "死亡营，也称灭绝营（extermination camps），指纳粹专门用于大规模屠杀的营地，与一般的集中营（concentration camps）有所区别。"
+   },
+   {
+    "term": "variant",
+    "explain": "名词，变体，变种，指在原有基础上略有变化的形式，如 a variant of the virus（病毒的变异株）、spelling variants（拼写变体）。视频译为“变体”。"
+   },
+   {
+    "term": "Nazi",
+    "explain": "形容词“纳粹的”，名词“纳粹分子”，来自德语 Nationalsozialist（国家社会主义者）的缩略说法，首字母大写。"
+   }
+  ],
+  "translation_tip": "视频译文“后来的变体齐克隆B被用于纳粹死亡营，他的一些亲属就死在那里。”的处理：①主语和同位语合译为“后来的变体齐克隆B”，同位语直接跟在中心词后面，不加停顿。②被动语态 was used in 译为“被用于”，保留被动关系，地点状语直接作“用于”的宾语。③非限制性定语从句拆成独立分句，用“那里”回指死亡营，增补“就”加强语气。④双重所有格 relatives of his 译为“他的一些亲属”，“一些”体现部分之意。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "About half the nitrogen（前一分句）；each of us（后一分句）",
+   "predicate": "has passed through（前一分句）；carries（后一分句）",
+   "object_or_complement": "a Haber-Bosch factory（前一分句）；a little of Haber's chemistry（后一分句）",
+   "explain": "本句是 so 连接的并列句，前一分句表示原因，后一分句表示结果，两个分句都是主谓宾结构。前一分句谓语 has passed through 为现在完成时，后一分句谓语 carries 为一般现在时，都是主动语态。"
+  },
+  "components": [
+   {
+    "text": "About half the nitrogen",
+    "role": "主语（前一分句；half 后省略 of，about 修饰 half）",
+    "zh": "约有一半的氮"
+   },
+   {
+    "text": "in our proteins and DNA",
+    "role": "后置定语（介词短语），修饰 nitrogen",
+    "zh": "我们蛋白质和DNA中"
+   },
+   {
+    "text": "has passed through",
+    "role": "谓语（现在完成时）",
+    "zh": "都经过了"
+   },
+   {
+    "text": "a Haber-Bosch factory,",
+    "role": "宾语",
+    "zh": "哈伯-博施工厂"
+   },
+   {
+    "text": "so",
+    "role": "并列连词，引出结果",
+    "zh": "因此"
+   },
+   {
+    "text": "each of us",
+    "role": "主语（后一分句）",
+    "zh": "我们每个人"
+   },
+   {
+    "text": "carries",
+    "role": "谓语（第三人称单数，与 each 一致）",
+    "zh": "体内都携带着"
+   },
+   {
+    "text": "a little",
+    "role": "宾语",
+    "zh": "一点"
+   },
+   {
+    "text": "of Haber's chemistry.",
+    "role": "介词短语，与 a little 构成 a little of sth（某物的一点）",
+    "zh": "哈伯的化学"
+   }
+  ],
+  "structure": "①本句由 so 连接两个并列分句，前因后果。\n②前一分句：主语中心词是 nitrogen，About half the nitrogen 中 half 后面省略了 of，about 修饰 half；in our proteins and DNA 是介词短语作后置定语，修饰 nitrogen（视频说明）。谓语 has passed through 用现在完成时，表示这些氮在过去经过了哈伯-博施工厂，结果延续到现在。a Haber-Bosch factory 指采用哈伯-博施法合成氨的工厂。\n③后一分句：主语 each of us，谓语 carries 用单数，与 each 保持一致；宾语 a little of Haber's chemistry 指经哈伯-博施工艺合成的氮（视频说明），chemistry 在这里用借代手法，以“化学”指化学工艺的产物。\n④本句是全文结尾，把哈伯的发明与每个读者联系起来，呼应第7句养活近半人类的说法：无论哈伯的一生多么复杂，他的化学成果已经进入每个人的身体。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在完成时表示对现在的影响",
+    "explain": "现在完成时（have / has done）表示过去发生的动作对现在造成的影响或结果，不与 yesterday、in 1913 等明确的过去时间连用。本句 has passed through 说明这些氮在过去某个时候经过了工厂，结果是它们现在就在我们体内，所以后一分句用一般现在时 carries 说明现状。前文叙述历史事件用一般过去时，结尾转向与读者有关的现在，时态随之变化。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Much of the water we drink has passed through several treatment plants.",
+      "zh": "我们喝的水大多经过了好几座水处理厂。"
+     },
+     {
+      "en": "Smartphones have changed the way people read the news.",
+      "zh": "智能手机改变了人们阅读新闻的方式。"
+     }
+    ]
+   },
+   {
+    "title": "each of + 复数名词 / 代词 作主语",
+    "explain": "each of + 复数名词或代词（each of us、each of the students）作主语时，主语中心是 each，谓语动词用单数，如 Each of the students has a locker。本句 each of us carries 中谓语用 carries。类似的还有 every one of、either of，正式文体中都用单数谓语。考研写作中，容易受 of 后复数名词的影响而误用复数谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Each of the candidates has ten minutes to present a proposal.",
+      "zh": "每位候选人有十分钟时间陈述自己的方案。"
+     },
+     {
+      "en": "Each of us has a responsibility to protect the environment.",
+      "zh": "我们每个人都有保护环境的责任。"
+     }
+    ]
+   },
+   {
+    "title": "so 连接表示结果的并列句",
+    "explain": "so 作并列连词时连接两个分句，前一分句是原因，后一分句是结果，so 前通常用逗号，如 It was raining, so we stayed indoors。so 与 because 不能在同一个句子中同时使用，汉语“因为……所以……”的结构不能照搬到英语里。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The roads were icy, so the school opened two hours late.",
+      "zh": "路面结冰，所以学校推迟了两个小时开门。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Haber-Bosch",
+    "explain": "哈伯-博施法（the Haber-Bosch process），即用氮气和氢气在高温、高压和催化剂作用下合成氨的工业方法，以发明者哈伯和使之工业化的博施命名。a Haber-Bosch factory 指采用这种方法的工厂。"
+   },
+   {
+    "term": "nitrogen in proteins and DNA",
+    "explain": "蛋白质由氨基酸构成，氨基酸含有氮；DNA 的碱基也含有氮。人体中的氮来自食物，而相当一部分粮食是靠合成氨化肥种出来的，所以文中说我们体内约一半的氮经过了哈伯-博施工厂。"
+   },
+   {
+    "term": "a little of",
+    "explain": "a little 修饰不可数名词，表示“一点，少许”；后面接带限定词的名词时要用 of，如 a little of the money、a little of Haber's chemistry。little 不带 a 时表示“几乎没有”，带否定意味。"
+   },
+   {
+    "term": "chemistry",
+    "explain": "chemistry 常见义是“化学（学科）”，也可指物质的化学成分、化学性质，如 the chemistry of the soil；还可比喻人与人之间的默契，如 The two actors have great chemistry。本句 Haber's chemistry 指经哈伯-博施工艺合成的氮（视频说明）。"
+   }
+  ],
+  "translation_tip": "视频译文“我们蛋白质和DNA中约有一半的氮，都经过了哈伯-博施工厂；因此，我们每个人体内都携带着一点哈伯的化学。”的处理：①后置定语 in our proteins and DNA 前置为“我们蛋白质和DNA中”，About half 译为“约有一半的”，作 nitrogen 的定语。②增补“都”，强调这一半的氮全都经过了工厂；现在完成时 has passed through 译为“经过了”。③两个分句之间用分号隔开，so 译为“因此”，后面用逗号断开，突出因果关系。④each of us carries 增补“体内”和“都”，点明携带的位置；a little of Haber's chemistry 直译为“一点哈伯的化学”，保留原文的借代修辞。"
+ }
+]
