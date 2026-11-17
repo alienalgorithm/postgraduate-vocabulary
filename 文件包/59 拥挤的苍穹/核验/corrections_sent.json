@@ -1,0 +1,37 @@
+[
+ {
+  "key": 1,
+  "field": "grammar.1.explain",
+  "before": "易错点：度量名词前不要再加介词，不能写成 at nearly 790 kilometres above Siberia。",
+  "after": "易错点：句首的度量名词短语 nearly 790 kilometres 修饰的是后面的介词短语 above Siberia，说明“在西伯利亚上空多高”，它不是句子主语，也不是谓语的宾语；本句真正的主语是后面的 two satellites。",
+  "reason": "原说法称 at nearly 790 kilometres above Siberia 是错误写法，不准确（at 500 km above Earth 这类说法在英语中常见），改为讲清该度量名词短语在句中的修饰对象和主语辨认"
+ },
+ {
+  "key": 2,
+  "field": "grammar.0.examples.1.en",
+  "before": "The old lighthouse had stood empty since the war when a local couple bought it.",
+  "after": "When a local couple bought the old lighthouse, it had stood empty since the war.",
+  "reason": "原句 since the war when... 易被误读为“夫妇买下灯塔的那场战争”，产生歧义；调整语序，时间状语从句前置，与中文译文语序一致"
+ },
+ {
+  "key": 6,
+  "field": "structure",
+  "before": "collision-warning 是由名词和动名词构成的复合词",
+  "after": "collision-warning 是由名词 collision 和名词 warning 构成的复合词",
+  "reason": "warning 在词典中是独立名词（警告，预警），不是动名词，术语改准确"
+ },
+ {
+  "key": 15,
+  "field": "trunk.predicate",
+  "before": "would unfold, and is not；can be mitigated",
+  "after": "would unfold 和 is not（并列谓语）；can be mitigated",
+  "reason": "谓语字段中混入了并列连词 and 和逗号，改为只列谓语并注明二者并列"
+ },
+ {
+  "key": 15,
+  "field": "structure",
+  "before": "为第五段介绍应对措施作铺垫",
+  "after": "为本段随后介绍的应对措施（第16、17句）作铺垫",
+  "reason": "本句本身就在第五段，应对措施在同段第16、17句，原说法所指不准确"
+ }
+]
