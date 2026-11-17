@@ -14,9 +14,11 @@ body { background: linear-gradient(180deg, #eef3fb 0%, #dfe9f8 100%); }
 .sheet { position: absolute; left: 32px; width: 736px; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 12px 28px rgba(16,38,74,.16); }
 .sheet img { position: absolute; display: block; }
 .sheet::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 46px; background: linear-gradient(rgba(255,255,255,0), #fff); }
+.kick { position: absolute; left: 40px; top: 30px; display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; letter-spacing: 1px; color: var(--blue); white-space: nowrap; }
+.kick::before { content: ''; width: 5px; height: 20px; border-radius: 3px; background: var(--blue); }
 </style></head>
 <body><div class="canvas">
-  <div class="no">卖点 3</div>
+  <div class="kick">长难句，一句一句拆给你看</div>
   <div class="h">每句拆开讲，<span>每个词讲透</span></div>
   <div class="s">不只告诉你意思，还告诉你为什么 · <b>图为第 1 篇实际内页，70 篇都有</b></div>
 

@@ -24,9 +24,11 @@ body { background: linear-gradient(180deg, #fbf5ea 0%, #f3e6cd 100%); }
 .pt .d { flex: none; width: 26px; height: 26px; border-radius: 50%; background: var(--red); color: #fff; font-weight: 900; font-size: 15px; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
 .pt b { display: block; font-weight: 900; font-size: 18px; color: var(--navy); }
 .pt i { display: block; font-style: normal; font-size: 13.5px; color: var(--muted); margin-top: 2px; }
+.kick { position: absolute; left: 40px; top: 30px; display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; letter-spacing: 1px; color: var(--red); white-space: nowrap; }
+.kick::before { content: ''; width: 5px; height: 20px; border-radius: 3px; background: var(--red); }
 </style></head>
 <body><div class="canvas">
-  <div class="no">卖点 4</div>
+  <div class="kick">背了就忘？那就马上测一遍</div>
   <div class="h">学完马上测，<span>记住没有一测便知</span></div>
   <div class="s">每篇两张听写卡，词条和书里的词表一模一样</div>
   <div class="card a"><img src="../assets/card_zh2en.png"></div>

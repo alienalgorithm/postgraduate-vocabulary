@@ -16,9 +16,11 @@ body { background: radial-gradient(110% 80% at 50% 10%, #1d4a3b 0%, #0f2b22 55%,
 .thumbs { position: absolute; left: 40px; right: 40px; top: 672px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
 .thumbs img { width: 100%; display: block; border-radius: 6px; box-shadow: 0 6px 14px rgba(0,0,0,.4); }
 .cnt { position: absolute; left: 0; right: 0; text-align: center; top: 645px; font-size: 14.5px; color: var(--gold); font-weight: 700; letter-spacing: 1px; }
+.kick { position: absolute; left: 40px; top: 30px; display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 18px; letter-spacing: 1px; color: var(--gold); white-space: nowrap; }
+.kick::before { content: ''; width: 5px; height: 20px; border-radius: 3px; background: var(--gold); }
 </style></head>
 <body><div class="canvas">
-  <div class="no">卖点 2</div>
+  <div class="kick">边听边看，一句也不落下</div>
   <div class="h">4K精读视频，<span>一句一句带你读</span></div>
   <div class="s">英文朗读，中文逐块对照，重点词一眼就能看到</div>
   <div class="frame"><img src="../assets/scr02_2.png"></div>
