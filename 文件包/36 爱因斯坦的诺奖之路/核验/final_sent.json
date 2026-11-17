@@ -1,0 +1,1515 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "two British expeditions",
+   "predicate": "photographed",
+   "object_or_complement": "stars",
+   "explain": "主干是 two British expeditions photographed stars，主谓宾结构。谓语 photographed 为一般过去时，主动语态，叙述1919年那次日食期间发生的具体动作；句首的日期和 as 从句都是状语，主语要越过它们才出现。"
+  },
+  "components": [
+   {
+    "text": "On 29 May 1919,",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1919年5月29日"
+   },
+   {
+    "text": "as a total eclipse obscured the sun,",
+    "role": "时间状语从句（as 引导，意为“当……时”）",
+    "zh": "一次全日食遮蔽了太阳"
+   },
+   {
+    "text": "two British expeditions",
+    "role": "主语",
+    "zh": "两支英国考察队"
+   },
+   {
+    "text": "photographed",
+    "role": "谓语",
+    "zh": "拍摄了"
+   },
+   {
+    "text": "stars",
+    "role": "宾语",
+    "zh": "恒星"
+   },
+   {
+    "text": "in its apparent vicinity.",
+    "role": "后置定语（介词短语），修饰 stars；its 指 the sun",
+    "zh": "天空中看似位于太阳附近的"
+   }
+  ],
+  "structure": "①主句是 two British expeditions photographed stars：主语 two British expeditions，谓语 photographed，宾语 stars。主句前面有两个状语，读的时候要越过两个逗号才找到主语。\n②句首 On 29 May 1919 是时间状语，交代日期；具体到某一天的日期前用介词 on。英式写法日在前、月在后，汉语按年、月、日的顺序排列。\n③as 引导时间状语从句，意为“当……时”。从句主语 a total eclipse，谓语 obscured（一般过去时），宾语 the sun。从句与主句都用一般过去时，表示拍摄恰好发生在日食遮住太阳的那段时间里。\n④句尾 in its apparent vicinity 是介词短语作后置定语，修饰 stars；its 指前面的 the sun，its apparent vicinity 即“太阳看起来的附近”。apparent 在名词前表示“表面上的，看似的”：这些恒星实际上远在太阳之外，只是从地球上看，它们在天空中的位置靠近太阳。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "as 引导时间状语从句",
+    "explain": "as 引导时间状语从句时意为“当……时，正当……的时候”，强调两个动作或情况同时发生，常与 when、while 换用。三者区别：when 最常用，从句可以是一个时间点上的动作；while 多接延续性动作，常用进行时；as 侧重同时进行或伴随变化，还可表示“随着”，如 As time went on, ...（随着时间推移）。本句 as a total eclipse obscured the sun 说明拍摄恒星正是在日食遮住太阳的时候进行的。考研阅读中 as 可以引导时间、原因、方式、让步等多种状语从句，要靠上下文判断：本句讲的是日食与拍摄同时发生，所以是时间状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the train pulled out of the station, she waved to her parents on the platform.",
+      "zh": "火车驶出车站时，她向站台上的父母挥手告别。"
+     },
+     {
+      "en": "As prices rose, many families cut back on spending.",
+      "zh": "随着物价上涨，许多家庭削减了开支。"
+     }
+    ]
+   },
+   {
+    "title": "形容词 apparent 位置不同，意思不同",
+    "explain": "apparent 放在名词前作定语时，通常表示“表面上的，看似的”，暗示实际情况未必如此，如 an apparent contradiction（表面上的矛盾）；作表语时通常表示“明显的，显而易见的”，常用 It is apparent that ... 或 be apparent to sb。本句 its apparent vicinity 是定语用法，意为“看似的附近”，所以视频译为“看似位于太阳附近”。考研阅读中副词 apparently 也有“显然”和“看来，似乎”两种意思，后一种更常见，带有推测或转述的语气。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Despite his apparent calm, he was deeply worried about the results.",
+      "zh": "尽管他表面上很平静，其实对结果忧心忡忡。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语作后置定语",
+    "explain": "介词短语修饰名词时放在名词之后，汉语译成“……的”放在名词前。本句 stars in its apparent vicinity 中，in its apparent vicinity 修饰 stars，说明拍的是哪些恒星，不能理解为拍摄的地点；拍摄者在地面，被拍的是天空中靠近太阳位置的恒星。判断方法：看这个介词短语回答的是“哪一个”还是“在哪里做”，前者是定语，后者是状语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Residents in the vicinity of the airport have long complained about noise.",
+      "zh": "机场附近的居民长期以来一直抱怨噪音问题。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a total eclipse",
+    "explain": "全食。total eclipse 指天体被完全遮住，与 partial eclipse（偏食）相对；本句遮住的是太阳，即日全食（a total solar eclipse），视频译为“全日食”。月食是 lunar eclipse。"
+   },
+   {
+    "term": "日食与拍摄恒星",
+    "explain": "平时太阳光太强，靠近太阳方向的恒星看不见；日全食时月球挡住太阳，天空变暗，才能拍到这些恒星。把这次拍到的恒星位置与太阳不在那片天区时的位置对比，就能检验星光经过太阳附近时是否发生偏折，这正是第3句所说的检验。"
+   },
+   {
+    "term": "expedition",
+    "explain": "本义是为考察、探险而进行的远行，也可指参加远行的一队人。本句 two British expeditions 作主语，执行“拍摄”这一动作，指的是人，所以视频译为“考察队”，量词用“支”。"
+   },
+   {
+    "term": "obscure",
+    "explain": "本句是动词，意为“遮蔽，挡住”，视频译为“遮蔽了”。它更常见的是形容词用法，意为“晦涩难懂的；鲜为人知的”，考研阅读中两种词性都常见。"
+   }
+  ],
+  "translation_tip": "视频译文“1919年5月29日，一次全日食遮蔽了太阳，两支英国考察队拍摄了天空中看似位于太阳附近的恒星。”的处理：①日期按汉语习惯改为年、月、日顺序。②as 引导的时间状语从句没有译出“当……时”，而是直接译成一个短句“一次全日食遮蔽了太阳”，放在主句前，靠语序体现同时发生；不定冠词 a 译成“一次”。③后置定语 in its apparent vicinity 前移到“恒星”之前，its 还原为“太阳”，避免代词指代不清；增补“天空中”，并把 apparent 译成“看似位于”，点明这些恒星只是看起来在太阳附近。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Arthur Eddington；Crommelin and Davidson",
+   "predicate": "observed（第二个分句承前省略）",
+   "object_or_complement": "",
+   "explain": "全句是由分号连接的两个并列分句：Arthur Eddington observed，主谓结构，observe 在此作不及物动词，意为“进行观测”；第二个分句 Crommelin and Davidson (observed) from Sobral 承前省略了谓语 observed。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Arthur Eddington",
+    "role": "主语（第一个分句）",
+    "zh": "阿瑟·爱丁顿"
+   },
+   {
+    "text": "observed",
+    "role": "谓语（不及物动词，意为“进行观测”）",
+    "zh": "观测"
+   },
+   {
+    "text": "from Príncipe,",
+    "role": "地点状语（介词短语，from 表示观测时所处的位置）",
+    "zh": "于普林西比岛"
+   },
+   {
+    "text": "an island",
+    "role": "同位语，补充说明 Príncipe",
+    "zh": "这是一座岛"
+   },
+   {
+    "text": "off West Africa;",
+    "role": "后置定语（介词短语），修饰 an island",
+    "zh": "位于西非外海"
+   },
+   {
+    "text": "Crommelin and Davidson",
+    "role": "主语（第二个分句），其后承前省略了谓语 observed",
+    "zh": "克罗姆林和戴维森"
+   },
+   {
+    "text": "from Sobral,",
+    "role": "地点状语（介词短语）",
+    "zh": "在索布拉尔"
+   },
+   {
+    "text": "in north-eastern Brazil.",
+    "role": "后置定语（介词短语，用逗号隔开），补充说明 Sobral 所在的位置",
+    "zh": "位于巴西东北部"
+   }
+  ],
+  "structure": "①分号把全句分成两个并列分句，分别交代两支考察队的观测地点，结构完全对称：人物 + 观测 + from 地点 + 地点的补充说明。\n②第一个分句 Arthur Eddington observed from Príncipe：主语 Arthur Eddington，谓语 observed 是不及物用法，不带宾语；from Príncipe 作地点状语，from 在这里表示观测时所处的位置。an island 是 Príncipe 的同位语，off West Africa 是介词短语作后置定语，修饰 an island，说明这座岛位于西非外海。\n③第二个分句 Crommelin and Davidson from Sobral 中没有谓语，因为与前一分句谓语相同，承前省略了 observed，完整形式是 Crommelin and Davidson observed from Sobral。in north-eastern Brazil 用逗号隔开，补充说明 Sobral 的位置。\n④两个分句之间用分号而不用逗号：两个分句各自独立，又同属一个话题，分号把它们紧密并列在一起，也让后一分句的省略显得自然。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列分句中承前省略谓语",
+    "explain": "两个并列分句的谓语相同时，后一个分句常省略与前面重复的谓语动词，只保留主语和其他成分，有时用逗号标出省略处。本句第二个分句 Crommelin and Davidson from Sobral 省略了 observed。这种省略在正式书面语和新闻中很常见，常见于 and、but、while 或分号连接的对比结构。阅读时遇到“主语 + 介词短语”或“主语 + 宾语”却没有谓语的分句，要回到前一个分句找出被省略的动词补上。考研翻译中要把省略的动词补译出来，或用“则”“也”等词衔接。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some students chose to study economics; others, law.",
+      "zh": "一些学生选择学习经济学，另一些则选择学习法律。"
+     },
+     {
+      "en": "The first team worked in the north of the country, and the second in the south.",
+      "zh": "第一组在该国北部工作，第二组则在南部。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号用来连接两个语法上各自完整、意思上关系紧密的分句，连接的紧密程度介于句号和逗号之间：比句号连接得更紧，又能避免用逗号硬接两个完整句子造成的“逗号粘连”错误。本句用分号把两支队伍的观测地点并列，便于对照。写作中，两个独立分句之间如果不用连词，就要用分号或句号，不能只用逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The north of the island is mountainous; the south is mostly flat farmland.",
+      "zh": "这座岛的北部多山，南部则大多是平坦的农田。"
+     }
+    ]
+   },
+   {
+    "title": "同位语补充说明专有名词",
+    "explain": "专有名词后用逗号引出一个名词短语，对它作解释说明，这个名词短语就是同位语，常用于交代读者可能不熟悉的人名、地名、机构名。本句 Príncipe 对多数读者陌生，作者用 an island off West Africa 说明它是西非外海的一座岛。同位语与被说明的名词指同一事物，翻译时可以前置作定语，也可以像视频那样拆成短句，用“这是”回指。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The conference was held in Davos, a small town in the Swiss Alps.",
+      "zh": "会议在达沃斯举行，那是瑞士阿尔卑斯山区的一个小镇。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Arthur Eddington",
+    "explain": "阿瑟·爱丁顿，英国天文学家、天体物理学家，剑桥大学教授，是1919年日食观测的主要组织者之一，也是英国最早宣传广义相对论的学者之一。"
+   },
+   {
+    "term": "Príncipe",
+    "explain": "普林西比岛，位于非洲西海岸外的几内亚湾，今属岛国圣多美和普林西比。字母 í 带重音符号，是葡萄牙语拼写。"
+   },
+   {
+    "term": "Sobral",
+    "explain": "索布拉尔，巴西东北部塞阿拉州的一座城市。Crommelin 和 Davidson 是另一支英国考察队的两位天文学家，这一队在这里观测同一次日食。"
+   },
+   {
+    "term": "off + 地名",
+    "explain": "介词 off 表示“离……不远的海上，在……近海”，如 an island off the coast of Scotland（苏格兰近海的一座岛）、off West Africa（西非外海）。视频译为“位于西非外海”。"
+   },
+   {
+    "term": "observe",
+    "explain": "本句是不及物动词，意为“进行观测，进行观察”，视频译为“观测”。observe 还有“注意到”“遵守（法律、习俗）”“评论说”等义，考研阅读中都很常见。"
+   }
+  ],
+  "translation_tip": "视频译文“阿瑟·爱丁顿观测于普林西比岛，这是一座岛，位于西非外海；克罗姆林和戴维森则在索布拉尔，位于巴西东北部。”的处理：①英文人名、地名音译，名与姓之间用间隔号。②observed from Príncipe 译成“观测于普林西比岛”，用“于”字结构保留英文的语序。③同位语 an island 拆成独立短句“这是一座岛”，后置定语 off West Africa 再拆成“位于西非外海”，按英文语序顺译，句子短而清楚。④第二个分句保留分号，增补“则”表示两队的对照；省略的 observed 由“在索布拉尔”中的“在”体现，in north-eastern Brazil 同样拆成“位于巴西东北部”，与前一分句结构对称。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "They",
+   "predicate": "were testing",
+   "object_or_complement": "general relativity's bold prediction",
+   "explain": "主干是 They were testing general relativity's bold prediction，主谓宾结构。谓语 were testing 为过去进行时，主动语态，说明观测时考察队正在进行的工作。宾语 prediction 后面跟着 that 引导的同位语从句。"
+  },
+  "components": [
+   {
+    "text": "They",
+    "role": "主语（指上文的两支英国考察队）",
+    "zh": "他们"
+   },
+   {
+    "text": "were testing",
+    "role": "谓语（过去进行时）",
+    "zh": "要检验"
+   },
+   {
+    "text": "general relativity's",
+    "role": "定语（名词所有格），修饰 prediction",
+    "zh": "广义相对论的"
+   },
+   {
+    "text": "bold",
+    "role": "定语（形容词），修饰 prediction",
+    "zh": "大胆的"
+   },
+   {
+    "text": "prediction",
+    "role": "宾语（中心词）",
+    "zh": "一个……预言"
+   },
+   {
+    "text": "that the sun's gravity would deflect starlight.",
+    "role": "同位语从句（that 引导），说明 prediction 的内容",
+    "zh": "也就是太阳的引力会使星光偏折/偏离方向"
+   }
+  ],
+  "structure": "①主句是 They were testing general relativity's bold prediction：主语 They 回指第1句和第2句的两支英国考察队，谓语 were testing，宾语中心词 prediction 前有两个定语：名词所有格 general relativity's 和形容词 bold。\n②that the sun's gravity would deflect starlight 是同位语从句，说明 prediction 的具体内容。that 在从句中不作任何成分，只起连接作用；从句本身成分完整：主语 the sun's gravity，谓语 would deflect，宾语 starlight。\n③从句用 would 而不是 will：主句是过去时，预言的内容从过去的角度看是将要发生的事，would 在这里是 will 的过去式，表示预测。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "that 引导的同位语从句",
+    "explain": "同位语从句跟在 prediction、fact、idea、belief、news、hope、evidence 等抽象名词后，说明该名词的具体内容。与定语从句的区别：同位语从句中 that 只起连接作用，不作成分，从句结构完整，that 一般不能省略；定语从句中 that 作主语或宾语，从句缺成分。本句 that the sun's gravity would deflect starlight 主谓宾齐全，说明 prediction 是什么，是同位语从句。可用“prediction 的内容是……”来检验。考研翻译中同位语从句可前置译成“……的＋名词”，本句即“……的预言”；从句较长时，可以像视频那样用“也就是”“即”另起分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "There is growing evidence that regular exercise improves memory.",
+      "zh": "越来越多的证据表明，经常锻炼能改善记忆力。"
+     },
+     {
+      "en": "The idea that intelligence is fixed at birth has been widely challenged.",
+      "zh": "智力生来就固定不变的观点受到了广泛质疑。"
+     }
+    ]
+   },
+   {
+    "title": "过去进行时说明当时进行中的活动",
+    "explain": "过去进行时（was/were doing）表示过去某一时刻或某一段时间内正在进行的动作，常用来交代背景，说明当时人们在做什么、目的何在。本句 They were testing 承接前两句的观测活动，说明这些观测在当时是一项正在进行的检验工作。叙事中一般过去时推进情节，过去进行时提供背景，考研阅读中可据此区分主线事件和背景信息。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "At the time of the accident, the company was testing a new braking system.",
+      "zh": "事故发生时，该公司正在测试一套新的刹车系统。"
+     }
+    ]
+   },
+   {
+    "title": "would 表示过去将来的预测",
+    "explain": "从过去的时间点看将来，要用 would + 动词原形，即过去将来时。预言、预测、承诺等内容放进过去的叙事中时，will 要变成 would。本句的预言在1919年观测前提出，内容是“太阳的引力会使星光偏折”，所以用 would deflect；视频译为“会使”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Economists warned that the new tax would hurt small businesses.",
+      "zh": "经济学家警告说，新税会伤害小企业。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "general relativity",
+    "explain": "广义相对论，爱因斯坦于1915年提出的引力理论，把引力解释为物质使时空弯曲的结果；与之相对的是他1905年提出的狭义相对论（special relativity）。"
+   },
+   {
+    "term": "星光偏折的预言",
+    "explain": "按照广义相对论，掠过太阳边缘的星光会被太阳的引力偏折约1.75角秒，日全食时拍到的太阳附近恒星的位置因此会略微偏离平时的位置。这一预言可以被观测直接检验，结果不符就会对理论不利，所以文中称它 bold（大胆的）。"
+   },
+   {
+    "term": "deflect",
+    "explain": "使偏转、使偏离原来的方向，如 deflect a ball（把球挡偏）；也常用于比喻，如 deflect criticism（转移批评）、deflect attention（转移注意力）。本句指星光的传播方向被改变，视频译为“使……偏折/偏离方向”。"
+   },
+   {
+    "term": "starlight",
+    "explain": "由 star 和 light 合成的名词，指星光，不可数。同类合成词有 sunlight（阳光）、moonlight（月光）、daylight（日光）。"
+   }
+  ],
+  "translation_tip": "视频译文“他们要检验广义相对论的一个大胆的预言，也就是太阳的引力会使星光偏折/偏离方向。”的处理：①were testing 译为“要检验”，突出考察队观测的目的。②名词所有格 general relativity's 译为“广义相对论的”，并在 prediction 前增补量词“一个”。③同位语从句没有前置成“……的预言”，而是放在后面用“也就是”引出，避免定语过长。④would deflect 译为“会使……偏折/偏离方向”，“会”对应 would 表示的预测。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "the findings",
+   "predicate": "were hailed",
+   "object_or_complement": "as confirming it（主语补足语）",
+   "explain": "主干是 the findings were hailed as confirming it，被动句，as confirming it 作主语补足语，说明观测结果被誉为什么。谓语 were hailed 为一般过去时的被动语态，对应主动结构 hail A as B（把 A 誉为 B）。"
+  },
+  "components": [
+   {
+    "text": "On 6 November,",
+    "role": "时间状语（介词短语）",
+    "zh": "11月6日"
+   },
+   {
+    "text": "at a joint meeting",
+    "role": "地点状语（介词短语，表示宣布结果的场合）",
+    "zh": "召开联席会议"
+   },
+   {
+    "text": "of the Royal Society and the Royal Astronomical Society,",
+    "role": "后置定语（of 结构），修饰 meeting",
+    "zh": "英国皇家学会与皇家天文学会"
+   },
+   {
+    "text": "the findings",
+    "role": "主语",
+    "zh": "其观测结果"
+   },
+   {
+    "text": "were hailed as",
+    "role": "谓语（一般过去时被动语态）+ 介词 as",
+    "zh": "被盛赞为"
+   },
+   {
+    "text": "confirming it.",
+    "role": "介词 as 的宾语（动名词短语），与 as 一起作主语补足语；it 指上文的预言",
+    "zh": "证实了这一预言"
+   }
+  ],
+  "structure": "①主句是 the findings were hailed as confirming it：主语 the findings 指两支考察队的观测结果；谓语 were hailed 是被动语态；as confirming it 作主语补足语，as 是介词，后接动名词短语 confirming it。it 回指第3句的 prediction。\n②主动形式是 hail the findings as confirming it，as 短语是宾语补足语；变成被动后宾语 the findings 作主语，as 短语就成为主语补足语。句中没有 by 短语，没有交代是谁盛赞，重点在结果受到的评价。\n③句首两个状语：On 6 November 交代时间，at a joint meeting 交代场合；of the Royal Society and the Royal Astronomical Society 作 meeting 的后置定语，说明是哪两个学会的联席会议，of 后面是两个由 and 并列的机构名。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "hail A as B 及其被动式 A be hailed as B",
+    "explain": "英语中有一组“动词 + A + as + B”的结构，表示“把 A 看作、称作 B”，如 regard/see/view/describe/hail A as B，其中 as 是介词，后接名词、形容词或动名词，as B 作 A 的宾语补足语。变成被动语态 A be regarded/hailed as B 时，as B 作主语补足语。hail A as B 带有明显的赞扬色彩，意为“把 A 盛赞为 B”。本句 as 后接动名词短语 confirming it，意为“被盛赞为证实了这一预言”。考研阅读中 be hailed as 常出现在介绍新发现、新技术的语境里，后面有时接转折，作者随后指出它可能被高估了。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new vaccine was hailed as a turning point in the fight against malaria.",
+      "zh": "这种新疫苗被誉为抗击疟疾的一个转折点。"
+     },
+     {
+      "en": "Critics hailed the novel as one of the finest debuts of the decade.",
+      "zh": "评论家盛赞这部小说是十年来最出色的处女作之一。"
+     }
+    ]
+   },
+   {
+    "title": "介词后接动名词",
+    "explain": "介词后面的动词要用动名词（-ing 形式），不能用不定式或动词原形。本句介词 as 后接 confirming it；动名词保留动词的特点，可以带宾语 it。常见结构有 be hailed as doing、be seen as doing、be accused of doing、be committed to doing。易错点：be committed to、look forward to、object to 中的 to 是介词，后面也要接动名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The policy is widely seen as favouring large corporations.",
+      "zh": "这项政策普遍被认为偏袒大公司。"
+     }
+    ]
+   },
+   {
+    "title": "of 结构连接两个并列的机构名",
+    "explain": "a joint meeting of A and B 中，of 的宾语是由 and 连接的两个名词，整个 of 结构作 meeting 的后置定语。joint 说明会议由两方共同举行，所以后面必须是两个或多个主体。阅读时要看清 and 连接的是 the Royal Society 和 the Royal Astronomical Society 两个机构，而不是 Society 和 Astronomical。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bill was debated at a joint session of the House and the Senate.",
+      "zh": "该法案在众议院与参议院的联席会议上进行了辩论。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Royal Society",
+    "explain": "英国皇家学会，1660年成立，是英国的国家科学院，全称 The Royal Society of London for Improving Natural Knowledge。英文中直接说 the Royal Society 就指这一机构，视频增补“英国”二字，方便中文读者。"
+   },
+   {
+    "term": "the Royal Astronomical Society",
+    "explain": "英国皇家天文学会，1820年成立，是英国天文学与地球物理学方面的学术团体。"
+   },
+   {
+    "term": "findings",
+    "explain": "指调查、研究、观测得出的结果，常用复数，如 research findings（研究结果）、publish the findings（公布研究结果）。本句指两支考察队的观测结果，视频译为“其观测结果”。"
+   },
+   {
+    "term": "背景",
+    "explain": "据视频说明，1919年11月6日，日食观测结果在两学会的联席会议上公布，人们认为它支持了爱因斯坦的预言：太阳引力会使星光偏折。"
+   }
+  ],
+  "translation_tip": "视频译文“11月6日，英国皇家学会与皇家天文学会召开联席会议，其观测结果被盛赞为证实了这一预言。”的处理：①地点状语 at a joint meeting of ... 没有译成“在……的联席会议上”，而是转换成主谓结构“……召开联席会议”，介词短语变成小句，读起来更顺。②the Royal Society 增译“英国”。③the findings 译为“其观测结果”，“其”回指上文的考察队，增补“观测”二字点明是什么结果。④被动语态保留“被”字，译为“被盛赞为”；代词 it 还原为“这一预言”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "The Times；a New York Times headline",
+   "predicate": "proclaimed；read",
+   "object_or_complement": "a \"Revolution in Science\"（proclaimed 的宾语）；\"Lights All Askew in the Heavens\"（read 的宾语）",
+   "explain": "全句是由分号连接的两个并列分句，都是主谓宾结构：The Times proclaimed a \"Revolution in Science\"；a New York Times headline read \"Lights All Askew in the Heavens\"。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The Times",
+    "role": "主语（第一个分句；报纸名称）",
+    "zh": "《泰晤士报》"
+   },
+   {
+    "text": "proclaimed",
+    "role": "谓语",
+    "zh": "宣告了"
+   },
+   {
+    "text": "a \"Revolution in Science\";",
+    "role": "宾语（引号表示引用该报的原话）",
+    "zh": "一场“科学革命”"
+   },
+   {
+    "text": "a New York Times headline",
+    "role": "主语（第二个分句；New York Times 作 headline 的前置定语）",
+    "zh": "《纽约时报》的标题"
+   },
+   {
+    "text": "read",
+    "role": "谓语（意为“写着”）",
+    "zh": "写着"
+   },
+   {
+    "text": "\"Lights All Askew in the Heavens\".",
+    "role": "宾语（直接引用的标题原文）",
+    "zh": "“天上的光全歪了”"
+   }
+  ],
+  "structure": "①分号连接两个并列分句，分别列举英国和美国两家大报的反应，说明这一结果轰动一时。\n②第一个分句 The Times proclaimed a \"Revolution in Science\"：主语 The Times，谓语 proclaimed，宾语 a \"Revolution in Science\"。引号表示 Revolution in Science 是报上的原话，a 放在引号外，说明作者把这几个词当作一个名词短语使用。\n③第二个分句 a New York Times headline read \"Lights All Askew in the Heavens\"：主语中心词 headline，报纸名 New York Times 作前置定语；谓语 read 意为“写着”，宾语是引号中的标题原文。\n④标题 Lights All Askew in the Heavens 本身省略了系动词，完整说法是 Lights (are) All Askew in the Heavens，all 加强语气，修饰 askew。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "read 表示“写着，写的是”",
+    "explain": "read 的主语不是人，而是标志、告示、标题、信件等载有文字的东西时，意为“写着，内容是”，后面直接接引用的文字，如 The sign read \"No Entry\"（牌子上写着“禁止入内”）。这是熟词僻义，考研阅读中遇到“物 + read + 引文”时不能理解为“阅读”。本句 a New York Times headline read ... 即“《纽约时报》的标题写着……”。read 的过去式拼写不变，读作 /red/。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The note on the door read: \"Back in ten minutes.\"",
+      "zh": "门上的字条写着：“十分钟后回来。”"
+     },
+     {
+      "en": "One placard read \"There is no Planet B\".",
+      "zh": "一块标语牌上写着“没有第二个地球”。"
+     }
+    ]
+   },
+   {
+    "title": "新闻标题的省略",
+    "explain": "英语新闻标题追求简短醒目，常省略冠词、系动词 be、助动词等功能词，实词首字母大写。本句标题 Lights All Askew in the Heavens 省略了系动词 are，Revolution in Science 也只保留了核心名词。考研阅读文章常引用报刊标题，补出被省略的 be 动词和冠词，就能还原成完整的句子。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The headline \"Prices Up Again\" means that prices have risen again.",
+      "zh": "标题“物价再涨”的意思是物价又上涨了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "The Times",
+    "explain": "《泰晤士报》，英国伦敦出版的全国性日报，报名中的 The 要大写。The New York Times 是美国的《纽约时报》，本句作定语时省去了 The，说成 a New York Times headline。"
+   },
+   {
+    "term": "proclaim",
+    "explain": "公开宣告、宣布，语气郑重，如 proclaim independence（宣布独立）；也可接 that 从句，或用“宾语＋宾语补足语”结构 proclaim sb + 名词（宣告某人为……），如 proclaim him king（宣告他为国王）。本句视频译为“宣告了”，与报纸大标题的口吻相符。"
+   },
+   {
+    "term": "askew",
+    "explain": "形容词兼副词，意为“歪斜的，不正的”，常作表语或放在名词后，如 His tie was askew（他的领带歪了）。本句视频译为“歪了”。"
+   },
+   {
+    "term": "the heavens",
+    "explain": "文学用语，指天空，常用复数并带定冠词，如 The heavens opened（下起了倾盆大雨）。标题中 in the Heavens 视频译为“天上的”。"
+   }
+  ],
+  "translation_tip": "视频译文“《泰晤士报》宣告了一场“科学革命”；《纽约时报》的标题写着“天上的光全歪了”。”的处理：①报纸名加书名号，原文的引号保留为中文引号。②不定冠词 a 译为量词“一场”，与“革命”搭配；Revolution in Science 按汉语偏正结构译成“科学革命”。③a New York Times headline 中作定语的报纸名译为“《纽约时报》的”，不定冠词不译；read 译为“写着”。④标题 Lights All Askew in the Heavens 中的地点短语前移，译成“天上的光全歪了”，用口语化的“全歪了”保留原标题的醒目效果。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Einstein",
+   "predicate": "became",
+   "object_or_complement": "a global celebrity",
+   "explain": "主干是 Einstein became a global celebrity，主系表结构。became 是系动词 become 的过去式，一般过去时，表示状态的变化；a global celebrity 作表语。"
+  },
+  "components": [
+   {
+    "text": "Almost overnight,",
+    "role": "时间状语（副词短语，almost 修饰 overnight）",
+    "zh": "几乎一夜之间"
+   },
+   {
+    "text": "Einstein,",
+    "role": "主语",
+    "zh": "爱因斯坦"
+   },
+   {
+    "text": "eminent among physicists,",
+    "role": "插入语（形容词短语），补充说明 Einstein",
+    "zh": "在物理学家中卓越的"
+   },
+   {
+    "text": "became",
+    "role": "系动词（谓语）",
+    "zh": "成了"
+   },
+   {
+    "text": "a global celebrity.",
+    "role": "表语",
+    "zh": "一位全球性的名人"
+   }
+  ],
+  "structure": "①主句是 Einstein became a global celebrity：主语 Einstein，系动词 became，表语 a global celebrity，主系表结构，表示身份的变化。\n②eminent among physicists 是形容词短语，用两个逗号隔在主语和谓语之间，作插入语补充说明 Einstein，相当于 who was eminent among physicists。among physicists 是介词短语，限定 eminent 的范围：在物理学界内部他已经声望卓著。\n③句首 Almost overnight 是时间状语，almost 修饰副词 overnight，表示变化来得极快。\n④插入语与表语形成对照：eminent among physicists 是他在专业圈内的地位，a global celebrity 是在全世界公众中的名气。这一变化紧接在第4句、第5句所说的学会公布和报纸报道之后。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "形容词短语作插入语，补充说明主语",
+    "explain": "形容词短语可以用逗号隔开，放在名词后面，对它作补充说明，相当于一个省略了“关系代词 + be”的非限制性定语从句。本句 Einstein, eminent among physicists, became ... 相当于 Einstein, who was eminent among physicists, became ...。这种结构在新闻和正式文体中常见，常用的形容词有 famous for、eager to、unaware of、critical of 等带补足成分的形容词。阅读时先跳过两个逗号之间的部分，找到主语和谓语，再回头看插入成分修饰谁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister, eager to avoid controversy, declined to comment.",
+      "zh": "这位部长急于避免争议，拒绝发表评论。"
+     },
+     {
+      "en": "Many voters, unaware of the new rules, arrived without proper identification.",
+      "zh": "许多选民不知道新规定，到场时没有带合格的身份证件。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 become 与主系表结构",
+    "explain": "become 作系动词时表示“变成，成为”，后接名词或形容词作表语，说明主语状态或身份的变化。同类表示变化的系动词还有 get、grow、turn、go 等，但它们后面多接形容词，接名词作表语时最常用的是 become。本句 became a global celebrity 说明爱因斯坦身份的改变。写作中“成为……”用 become + 名词，注意 become 后面不接 to be。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Within a few years, the small start-up became a household name.",
+      "zh": "短短几年内，这家小型初创公司就变得家喻户晓。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "almost overnight",
+    "explain": "几乎一夜之间，形容变化来得非常突然、迅速，常用于描写成名、局面骤变等，如 become famous overnight（一夜成名）。overnight 本义是“在夜里，整夜”，这里用的是比喻义“突然，一下子”。"
+   },
+   {
+    "term": "eminent among",
+    "explain": "eminent 意为“卓越的，杰出的”，多用于学者、科学家、法官等专业人士；后接 among 或 in 表示在哪个群体或领域中声望卓著，如 an eminent scientist（一位杰出的科学家）、eminent in the field of genetics（在遗传学领域声望卓著）。"
+   },
+   {
+    "term": "celebrity",
+    "explain": "可数名词，指名人、明星；不可数时指名声。global celebrity 即全球知名人物，视频译为“一位全球性的名人”。"
+   }
+  ],
+  "translation_tip": "视频译文“几乎一夜之间，在物理学家中卓越的爱因斯坦成了一位全球性的名人。”的处理：①插入语 eminent among physicists 没有拆成独立分句，而是前置作定语，译成“在物理学家中卓越的爱因斯坦”，介词短语 among physicists 也随之放到“卓越的”前面。②系动词 became 译为“成了”，表语中的不定冠词 a 译为量词“一位”，global 译为“全球性的”。③时间状语 Almost overnight 保留在句首，译为“几乎一夜之间”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Stockholm",
+   "predicate": "proved",
+   "object_or_complement": "harder (to dazzle)（表语）",
+   "explain": "主干是 Stockholm proved harder，主系表结构，prove 在此作系动词，意为“结果是，证明是”；harder 是形容词比较级作表语，to dazzle 是不定式，补充说明在哪方面更难。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Stockholm",
+    "role": "主语（借代，指斯德哥尔摩的诺贝尔奖评审机构）",
+    "zh": "斯德哥尔摩"
+   },
+   {
+    "text": "proved",
+    "role": "系动词（谓语）",
+    "zh": "（系动词，意为“结果是”，与 harder 合译为“没那么容易”）"
+   },
+   {
+    "text": "harder",
+    "role": "表语（形容词比较级）",
+    "zh": "没那么容易"
+   },
+   {
+    "text": "to dazzle.",
+    "role": "状语（不定式），修饰形容词 harder，说明在哪方面不容易（主动形式表被动，逻辑宾语是主语 Stockholm）",
+    "zh": "被眩惑"
+   }
+  ],
+  "structure": "①主句是 Stockholm proved harder to dazzle：主语 Stockholm，系动词 proved，表语 harder，不定式 to dazzle 补充说明形容词 harder。\n②Stockholm 用城市名指代设在那里的诺贝尔奖评审机构，是借代用法；视频说明“（Stockholm：指斯德哥尔摩的诺贝尔奖评审机构）”。\n③hard to dazzle 属于“形容词 + 不定式”结构，句子主语 Stockholm 是 dazzle 的逻辑宾语：不是斯德哥尔摩去眩惑别人，而是别人难以眩惑它，所以视频译为“被眩惑”。不定式用主动形式 to dazzle，不用 to be dazzled。\n④比较级 harder 没有出现 than，比较对象隐含在上文：与第5句、第6句中被结果轰动的报纸和公众相比，诺贝尔奖评审机构更难被打动。这一句是全文的转折，从轰动转向诺贝尔奖评审的冷静态度。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "“形容词 + 不定式”中主动形式表被动",
+    "explain": "在 hard、easy、difficult、impossible、pleasant 等形容词后接不定式时，如果句子主语是不定式动词的逻辑宾语，不定式用主动形式表示被动意义，如 The question is easy to answer（这个问题容易回答），不说 easy to be answered。本句 Stockholm proved harder to dazzle 中，Stockholm 是 dazzle 的对象，意思是“斯德哥尔摩更难被眩惑”。判断方法：把主语放回不定式后面，It was harder to dazzle Stockholm 成立，就说明是这种结构。考研写作中容易误写成 to be done。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some of the instructions were difficult to follow.",
+      "zh": "有些说明很难看懂并照着做。"
+     },
+     {
+      "en": "Trust, once lost, is hard to rebuild.",
+      "zh": "信任一旦失去，就很难重建。"
+     }
+    ]
+   },
+   {
+    "title": "prove 作系动词",
+    "explain": "prove 除了“证明”这个及物用法外，还可作系动词，意为“结果是，最终证明是”，后接形容词、名词或不定式 to be，如 The task proved (to be) more difficult than expected。它强调经过一段时间或经过检验之后才显出的结果，与 turn out 意思相近。本句 proved harder 意为“结果更难”，视频与 harder 合译为“没那么容易”。考研阅读中 prove + 形容词很常见，要与 prove that（证明）区分开。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy proved highly unpopular with farmers.",
+      "zh": "这项新政策后来在农民中极不受欢迎。"
+     },
+     {
+      "en": "His warning proved correct.",
+      "zh": "事实证明他的警告是对的。"
+     }
+    ]
+   },
+   {
+    "title": "借代：用地名指代机构",
+    "explain": "英语新闻中常用城市或建筑名指代设在那里的机构或权力中心，如 Washington（美国政府）、Brussels（欧盟机构）、Downing Street（英国首相府）。本句 Stockholm 指在斯德哥尔摩评审诺贝尔奖的机构。阅读时要根据上下文还原它的真正所指，不能按字面理解为城市本身。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Brussels has warned London against delaying the trade talks.",
+      "zh": "欧盟警告英国政府不要拖延贸易谈判。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dazzle",
+    "explain": "本义是强光使人目眩，引申为因光环、声望使人倾倒、晕头转向，常用被动式 be dazzled by。据视频说明，此处 to dazzle 意为“被眩惑，被迷晕”，指因声望光环而让人盲目崇拜。"
+   },
+   {
+    "term": "Stockholm 与诺贝尔物理学奖",
+    "explain": "诺贝尔物理学奖由总部设在斯德哥尔摩的瑞典皇家科学院评定，颁奖典礼也在斯德哥尔摩举行，所以文中用 Stockholm 指代评审机构。第10句的 the Royal Swedish Academy of Sciences 就是这一机构。"
+   }
+  ],
+  "translation_tip": "视频译文“斯德哥尔摩却没那么容易被眩惑。”的处理：①增补“却”字，把上下文的转折关系译出：媒体和公众已被轰动，斯德哥尔摩却不然。②比较级 harder 不译成“更难”，而是从反面译成“没那么容易”，语气更自然，也隐含了与前文的比较。③不定式 to dazzle 是主动形式表被动，译成“被眩惑”，把被动意义明确表达出来。④Stockholm 保留字面译名，借代含义由上下文和视频说明交代。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The Nobel physics committee；committee member Allvar Gullstrand",
+   "predicate": "valued；deemed",
+   "object_or_complement": "rigorous experimental confirmation（valued 的宾语）；the empirical support for relativity（deemed 的宾语）+ insufficient（宾语补足语）",
+   "explain": "全句由 and 连接两个并列分句：第一个分句 The Nobel physics committee valued rigorous experimental confirmation 是主谓宾结构；第二个分句 Allvar Gullstrand deemed the empirical support for relativity insufficient 是主谓宾宾补结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The Nobel physics committee",
+    "role": "主语（第一个分句）",
+    "zh": "诺贝尔物理学委员会"
+   },
+   {
+    "text": "valued",
+    "role": "谓语",
+    "zh": "看重的是"
+   },
+   {
+    "text": "rigorous experimental confirmation,",
+    "role": "宾语（rigorous 和 experimental 都修饰 confirmation）",
+    "zh": "严格的实验证实"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "committee member Allvar Gullstrand,",
+    "role": "主语（第二个分句；committee member 是放在人名前的身份说明）",
+    "zh": "委员会成员阿尔瓦·古尔斯特兰德"
+   },
+   {
+    "text": "a Nobel-winning eye specialist,",
+    "role": "同位语，补充说明 Allvar Gullstrand",
+    "zh": "一位获得过诺贝尔奖的眼科专家"
+   },
+   {
+    "text": "deemed",
+    "role": "谓语",
+    "zh": "认定"
+   },
+   {
+    "text": "the empirical support for relativity",
+    "role": "宾语（for relativity 作后置定语，修饰 support）",
+    "zh": "相对论的实证支持"
+   },
+   {
+    "text": "insufficient.",
+    "role": "宾语补足语（形容词）",
+    "zh": "不足"
+   }
+  ],
+  "structure": "①and 连接两个并列分句，前一句讲委员会的总体标准，后一句讲一位关键委员的判断，后者是前者在相对论问题上的具体体现。\n②第一个分句 The Nobel physics committee valued rigorous experimental confirmation：主谓宾结构，宾语中心词 confirmation 前有两个形容词定语，rigorous 说明证实要严格，experimental 说明证实要靠实验。\n③第二个分句的主语是 Allvar Gullstrand，前面的 committee member 是不带冠词的身份说明，后面的 a Nobel-winning eye specialist 是同位语，两侧用逗号隔开。谓语 deemed 后接复合宾语：宾语 the empirical support for relativity，宾语补足语 insufficient。for relativity 作 support 的后置定语，说明是对哪一理论的支持。\n④deem A insufficient 是“认为 A 不足”，A 与 insufficient 之间是逻辑上的主表关系，相当于 the empirical support for relativity was insufficient。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "deem + 宾语 + 宾语补足语",
+    "explain": "deem、consider、find、think、judge 等表示“认为、判定”的动词，可以接“宾语 + 形容词或名词”的复合宾语，宾语补足语说明宾语的性质或状态，如 deem sth necessary（认为某事有必要）。deem 比 consider 正式，常见于法律、官方和学术文体，被动式 be deemed (to be) ... 很常见。本句 deemed the empirical support for relativity insufficient 中，宾语较长，宾补 insufficient 被推到句末，阅读时要把句末的形容词与前面的宾语联系起来。考研翻译常译成“认为……不足/有必要”等。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The court deemed the evidence inadmissible.",
+      "zh": "法庭认定该证据不可采信。"
+     },
+     {
+      "en": "Any building deemed unsafe will be closed immediately.",
+      "zh": "任何被认定为不安全的建筑都将立即关闭。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词：名词 + 现在分词",
+    "explain": "名词与现在分词用连字符连起来，可以构成复合形容词作前置定语，名词是现在分词的逻辑宾语，如 award-winning（获奖的）、record-breaking（破纪录的）、time-consuming（耗时的）。本句 Nobel-winning 意为“获得过诺贝尔奖的”，相当于 who had won a Nobel Prize。写作中用这类复合形容词可以把定语从句压缩成一个词，表达更紧凑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The award-winning documentary will be shown on national television next month.",
+      "zh": "这部获奖纪录片将于下个月在全国电视上播出。"
+     }
+    ]
+   },
+   {
+    "title": "人名前的身份说明不带冠词",
+    "explain": "新闻语体常把职务、身份直接放在人名前，作前置同位语，不加冠词，如 committee member Allvar Gullstrand、Prime Minister Winston Churchill、physicist Marie Curie。若身份说明放在人名后，则多用带冠词的同位语，如 Allvar Gullstrand, a committee member。本句人名前后各有一个身份说明，前面是委员会职务，后面是专业背景。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Historian Mary Beard has written widely on ancient Rome.",
+      "zh": "历史学家玛丽·比尔德写过大量有关古罗马的著作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Allvar Gullstrand",
+    "explain": "阿尔瓦·古尔斯特兰德，瑞典眼科学家，因对眼睛屈光学的研究获1911年诺贝尔生理学或医学奖，所以文中称他 a Nobel-winning eye specialist。"
+   },
+   {
+    "term": "rigorous experimental confirmation",
+    "explain": "rigorous 意为“严格的，严密的”，常与 testing、analysis、standards 等搭配；experimental 意为“实验的”；confirmation 意为“证实”。三个词合起来指经过严格实验得到的证实，视频译为“严格的实验证实”。"
+   },
+   {
+    "term": "empirical support for",
+    "explain": "empirical 意为“以观察或实验为依据的”，empirical evidence 即实证证据；support for sth 指对某观点、理论的支持，介词用 for。本句 the empirical support for relativity 视频译为“相对论的实证支持”。"
+   },
+   {
+    "term": "eye specialist",
+    "explain": "眼科专家，比 ophthalmologist（眼科医生）通俗；specialist 可指某一领域的专家，也常指专科医生，如 a heart specialist（心脏病专家）。"
+   }
+  ],
+  "translation_tip": "视频译文“诺贝尔物理学委员会看重的是严格的实验证实，而委员会成员阿尔瓦·古尔斯特兰德，一位获得过诺贝尔奖的眼科专家，认定相对论的实证支持不足。”的处理：①valued 译为“看重的是”，用“的是”结构突出宾语。②and 译为“而”，体现两个分句之间由一般到具体的递进与对照。③同位语 a Nobel-winning eye specialist 保留在原位，前后加逗号，与英文结构一致；复合形容词 Nobel-winning 译为“获得过诺贝尔奖的”。④复合宾语 the empirical support for relativity insufficient 译成主谓结构“相对论的实证支持不足”，后置定语 for relativity 前移为“相对论的”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "the 1921 prize",
+   "predicate": "was reserved",
+   "object_or_complement": "",
+   "explain": "主干是 the 1921 prize was reserved，被动句，没有宾语；for a year 作时间状语。谓语 was reserved 为一般过去时的被动语态。句首 since 引导原因状语从句，句尾 as 引导方式状语从句。"
+  },
+  "components": [
+   {
+    "text": "Since no nomination fulfilled Nobel's criteria,",
+    "role": "原因状语从句（since 引导）",
+    "zh": "由于没有一项提名符合诺贝尔定下的标准"
+   },
+   {
+    "text": "the 1921 prize",
+    "role": "主语（年份 1921 作前置定语）",
+    "zh": "1921年的奖"
+   },
+   {
+    "text": "was reserved",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "被保留"
+   },
+   {
+    "text": "for a year,",
+    "role": "时间状语（介词短语，表示时长）",
+    "zh": "一年"
+   },
+   {
+    "text": "as the statutes permit.",
+    "role": "方式状语从句（as 引导，意为“按照……”）",
+    "zh": "这是章程所允许的"
+   }
+  ],
+  "structure": "①主句是 the 1921 prize was reserved for a year：主语 the 1921 prize，年份 1921 作前置定语；谓语 was reserved 为被动语态，没有交代动作执行者；for a year 表示保留的时长。\n②Since no nomination fulfilled Nobel's criteria 是原因状语从句，说明为什么保留。从句主语 no nomination，谓语 fulfilled，宾语 Nobel's criteria；no 修饰 nomination，表示全部否定：一项符合标准的提名都没有。\n③as the statutes permit 是 as 引导的方式状语从句，据视频说明，意为“按照章程所允许的办法”。permit 后省略了宾语，完整意思是 as the statutes permit it（章程允许这样做）。\n④主句和原因从句用一般过去时，as 从句却用一般现在时 permit：章程的规定在今天仍然有效，属于客观、长期的事实，所以不随主句变成过去时。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "as 引导方式状语从句",
+    "explain": "as 引导方式状语从句时意为“按照……的方式，正如……”，常见搭配有 as the law requires（按法律要求）、as planned（按计划）、as expected（如预料的那样）、as the rules permit（按规定所允许的）。从句常省略与主句重复的宾语或其他成分，如本句 as the statutes permit 后面没有写出 it。本句从句用一般现在时，是因为章程规定是现在仍然有效的事实。考研阅读中 as 从句的类型要根据意思判断：本句讲的是保留奖项的依据和方式，不是时间或原因。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The election was postponed, as the constitution allows in a national emergency.",
+      "zh": "选举被推迟了，这是宪法在国家紧急状态下所允许的。"
+     },
+     {
+      "en": "Leave the documents exactly as you found them.",
+      "zh": "把文件按你发现时的样子原样放好。"
+     }
+    ]
+   },
+   {
+    "title": "since 引导原因状语从句",
+    "explain": "since 表示原因时意为“由于，既然”，所说的原因通常是对方已知或显而易见的，语气比 because 弱，从句常放在句首；because 强调直接原因，回答 why 时只能用 because。本句先用 since 交代没有合格提名这一前提，再说结果。注意 since 还可表示“自从”，此时主句常用现在完成时；本句主句是一般过去时，从句讲的是条件不满足，所以是原因。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Since the original budget had run out, the project was suspended.",
+      "zh": "由于原有预算已经用完，该项目被暂停。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词表示全部否定",
+    "explain": "no 放在名词前作限定词，表示“一个也没有”，语气比 not any 更强，常作主语，如 No nomination fulfilled ...。以 no 开头的主语使整个句子成为否定句，谓语动词本身不再加 not。翻译时常译为“没有一项……”“没有任何……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "No candidate met all the requirements for the position.",
+      "zh": "没有一名候选人满足这个职位的全部要求。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Nobel's criteria",
+    "explain": "指阿尔弗雷德·诺贝尔在遗嘱中为诺贝尔奖定下的标准，物理学奖授予在物理学领域作出最重要发现或发明的人。Nobel's 是所有格，视频译为“诺贝尔定下的”，增补“定下”点明标准由诺贝尔本人设定。criteria 是 criterion 的复数，后接复数谓语。"
+   },
+   {
+    "term": "fulfil the criteria",
+    "explain": "符合标准，也说 meet the criteria、satisfy the criteria。fulfil 是英式拼写，美式拼写为 fulfill；文中 fulfilled 双写 l。本句视频译为“符合”。"
+   },
+   {
+    "term": "the statutes",
+    "explain": "statute 本义是“成文法，法规”，也指机构的章程、条例。本句指诺贝尔基金会的章程，视频译为“章程”。按章程，某一年度如果没有符合要求的人选，该年度的奖可以保留到下一年再颁发。"
+   },
+   {
+    "term": "reserve",
+    "explain": "本句是动词，意为“保留，留存”，被动式 was reserved 视频译为“被保留”。常见搭配 reserve the right to do（保留做某事的权利）、reserve a table（预订餐桌）。"
+   }
+  ],
+  "translation_tip": "视频译文“由于没有一项提名符合诺贝尔定下的标准，1921年的奖被保留一年，这是章程所允许的。”的处理：①since 从句放在句首，译为“由于……”，与英文语序一致。②no nomination 译为“没有一项提名”，用否定词加量词表达全部否定。③被动语态保留为“被保留”，for a year 紧跟其后译为“一年”。④as 引导的方式状语从句没有译成“按照章程所允许的”，而是拆成独立分句“这是章程所允许的”，用“这”回指前面保留奖项一事，放在句末作补充说明。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "the Royal Swedish Academy of Sciences",
+   "predicate": "conferred",
+   "object_or_complement": "it（on Einstein 引出授予对象）",
+   "explain": "主干是 the Royal Swedish Academy of Sciences conferred it on Einstein，主谓宾结构，构成 confer A on B（把 A 授予 B）。谓语 conferred 为一般过去时，主动语态；citing 引导的现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "On 9 November 1922",
+    "role": "时间状语（介词短语）",
+    "zh": "1922年11月9日"
+   },
+   {
+    "text": "the Royal Swedish Academy of Sciences",
+    "role": "主语",
+    "zh": "瑞典皇家科学院"
+   },
+   {
+    "text": "conferred",
+    "role": "谓语",
+    "zh": "授予"
+   },
+   {
+    "text": "it",
+    "role": "宾语（指1921年的奖）",
+    "zh": "这个奖"
+   },
+   {
+    "text": "on Einstein,",
+    "role": "介词短语，引出授予的对象（confer A on B 中的 on B）",
+    "zh": "爱因斯坦"
+   },
+   {
+    "text": "citing",
+    "role": "伴随状语（现在分词短语）中的分词，逻辑主语是 the Royal Swedish Academy of Sciences",
+    "zh": "表彰"
+   },
+   {
+    "text": "his services to theoretical physics,",
+    "role": "citing 的宾语",
+    "zh": "他对理论物理学的贡献"
+   },
+   {
+    "text": "especially his discovery of the law of the photoelectric effect.",
+    "role": "补充说明 services，与之同位，用 especially 突出其中最主要的一项",
+    "zh": "尤其是他发现了光电效应定律"
+   }
+  ],
+  "structure": "①主句是 the Royal Swedish Academy of Sciences conferred it on Einstein：主语是机构名，谓语 conferred，宾语 it 指第9句中被保留的1921年的奖，on Einstein 引出接受者，构成 confer A on B。\n②citing his services to theoretical physics 是现在分词短语作伴随状语，逻辑主语与主句主语相同，都是瑞典皇家科学院：授奖的同时说明授奖理由。citing 的宾语是 his services，to theoretical physics 作 services 的后置定语，说明对哪一领域的贡献。\n③especially his discovery of the law of the photoelectric effect 补充说明 services，与之同位，especially 表示在所有贡献中特别提到的一项。discovery 后面是两层 of 结构：of the law 说明发现的对象，of the photoelectric effect 修饰 law。\n④句首日期 On 9 November 1922 后没有逗号，短的时间状语后逗号可以省略，不影响结构。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "confer A on B：把 A 授予 B",
+    "explain": "confer 表示“授予（学位、奖项、荣誉、权力）”时，用 confer A on/upon B，A 是授予的东西，B 是接受者，介词用 on 或 upon，不用 to。同类结构有 bestow A on B（赠予，授予）、impose A on B（把 A 强加于 B）。与 award 比较：award 可用双宾语 award sb sth，也可用 award sth to sb。本句宾语 it 按 confer A on B 的正常语序放在 on Einstein 之前。考研完形填空常考 confer 后的介词搭配；confer 还有“商讨”的意思，用 confer with sb，要注意区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The university conferred an honorary degree on the retired surgeon.",
+      "zh": "这所大学向那位退休外科医生授予了荣誉学位。"
+     },
+     {
+      "en": "The constitution confers broad powers on the president.",
+      "zh": "宪法赋予总统广泛的权力。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在主句之后、用逗号隔开时，常作伴随状语，表示与主句动作同时发生、对主句作补充的动作。分词的逻辑主语必须与主句主语一致，否则就是“垂悬分词”错误。本句 citing ... 的逻辑主语是瑞典皇家科学院，授奖和说明理由同时进行。翻译时一般译成并列的短句，放在主句后面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its forecast for the year, citing weak demand in Europe.",
+      "zh": "该公司下调了全年预期，理由是欧洲需求疲软。"
+     },
+     {
+      "en": "She left the meeting early, saying she felt unwell.",
+      "zh": "她提前离开了会议，说自己身体不舒服。"
+     }
+    ]
+   },
+   {
+    "title": "especially 引出补充说明",
+    "explain": "especially、particularly、notably 等副词可以放在名词短语前，引出对前面较笼统名词的具体补充，突出其中最重要的部分，结构上与前面的名词同位。本句 his services to theoretical physics 是总括，especially his discovery ... 是具体举出的一项。写作中注意 especially 不放在句首引导完整句子，可改用 In particular。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The region is known for its seafood, especially its oysters.",
+      "zh": "这个地区以海鲜闻名，尤其是牡蛎。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Royal Swedish Academy of Sciences",
+    "explain": "瑞典皇家科学院，位于斯德哥尔摩，负责评定诺贝尔物理学奖和化学奖，第7句的 Stockholm 就指它及其下属的诺贝尔物理学委员会。"
+   },
+   {
+    "term": "cite",
+    "explain": "熟词僻义：cite 常见义是“引用，援引”，在授奖、嘉奖的语境中指“（在授奖词中）表彰，嘉奖”，名词 citation 可指授奖词、嘉奖令。本句视频译为“表彰”。"
+   },
+   {
+    "term": "services to",
+    "explain": "service 的复数 services 后接 to，指对某一领域、国家或群体所作的贡献、效劳，如 services to medicine（对医学的贡献）。本句视频译为“对理论物理学的贡献”。"
+   },
+   {
+    "term": "the photoelectric effect",
+    "explain": "光电效应，指光照射到金属等物质表面时使电子逸出的现象。爱因斯坦在1905年用光量子的概念解释了这一现象，第11句讲的就是这条定律的意义。"
+   },
+   {
+    "term": "授奖理由",
+    "explain": "诺贝尔奖官方公布的爱因斯坦获奖理由正是“for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect”，本句用 citing 引出的就是这一表述。"
+   }
+  ],
+  "translation_tip": "视频译文“1922年11月9日，瑞典皇家科学院把这个奖授予爱因斯坦，表彰他对理论物理学的贡献，尤其是他发现了光电效应定律。”的处理：①confer it on Einstein 用“把”字句译成“把这个奖授予爱因斯坦”，宾语 it 还原为“这个奖”。②伴随状语 citing ... 译成独立短句“表彰……”，接在主句之后。③services to theoretical physics 中的后置成分前移，译为“他对理论物理学的贡献”。④名词短语 his discovery of the law ... 转换为主谓结构“他发现了光电效应定律”，名词 discovery 译成动词“发现了”，避免“他的对……的发现”这种生硬说法。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "That law",
+   "predicate": "helped",
+   "object_or_complement": "underpin quantum theory",
+   "explain": "主干是 That law helped underpin quantum theory，主谓宾结构，help 后接省略 to 的不定式 underpin quantum theory 作宾语。谓语 helped 为一般过去时，主动语态。主语后有 which 引导的非限制性定语从句。"
+  },
+  "components": [
+   {
+    "text": "That law,",
+    "role": "主语（指上句的光电效应定律）",
+    "zh": "这条定律"
+   },
+   {
+    "text": "which governs how light ejects electrons from metal,",
+    "role": "非限制性定语从句，修饰 That law；其中 how 引导宾语从句，作 governs 的宾语",
+    "zh": "规定了光如何把电子从金属中打出/击出"
+   },
+   {
+    "text": "helped",
+    "role": "谓语",
+    "zh": "曾帮助"
+   },
+   {
+    "text": "underpin quantum theory.",
+    "role": "宾语（省略 to 的不定式短语）",
+    "zh": "奠定量子理论的基础"
+   }
+  ],
+  "structure": "①主句是 That law helped underpin quantum theory：主语 That law 回指上句的 the law of the photoelectric effect；谓语 helped；underpin quantum theory 是不带 to 的不定式短语，作 helped 的宾语。\n②which governs how light ejects electrons from metal 是非限制性定语从句，修饰 That law，两侧用逗号隔开。which 在从句中作主语，谓语 governs 用一般现在时，因为定律所描述的规律至今成立。\n③从句内又套着一个宾语从句：how light ejects electrons from metal 作 governs 的宾语，how 在宾语从句中作方式状语，从句用陈述语序，主语 light，谓语 ejects，宾语 electrons，from metal 表示电子离开的地方。\n④主句谓语 helped 用一般过去时，讲的是这条定律在历史上的作用；定语从句用一般现在时，讲的是定律本身的内容。两个时态各有分工。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "非限制性定语从句中套宾语从句",
+    "explain": "长难句中常出现从句套从句的情况。本句非限制性定语从句 which governs ... 修饰主语 That law，从句的谓语 governs 又带了一个 how 引导的宾语从句。分析时先找主句主干 That law helped underpin quantum theory，再看逗号之间的定语从句，最后拆开从句内部的宾语从句。宾语从句一律用陈述语序：how light ejects electrons，不能写成 how does light eject electrons。考研翻译中，这类夹在主语与谓语之间的非限制性定语从句，常像视频那样译成主语后的说明性分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report, which explains how the virus spreads between species, will be published next week.",
+      "zh": "这份报告阐述了病毒如何在物种之间传播，将于下周发布。"
+     },
+     {
+      "en": "Her theory, which predicts where earthquakes are most likely to occur, has attracted wide attention.",
+      "zh": "她的理论预测了地震最可能发生的地点，引起了广泛关注。"
+     }
+    ]
+   },
+   {
+    "title": "help (to) do",
+    "explain": "help 后面接不定式时，to 可以省略，help do 和 help to do 都正确，现代英语尤其是新闻语体中多省略 to，如 help reduce costs、help explain why。也可以用 help sb (to) do。本句 helped underpin quantum theory 即“帮助奠定量子理论的基础”。考研阅读中 help + 动词原形很常见，看到 help 后直接跟动词原形不要误以为是语法错误；help 后面一般不接 -ing 形式，can't help doing 是另一个意思（忍不住做）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Regular sleep can help improve concentration.",
+      "zh": "规律的睡眠有助于提高注意力。"
+     },
+     {
+      "en": "These findings may help explain why some patients recover faster than others.",
+      "zh": "这些发现或许有助于解释为什么有些病人比其他病人康复得快。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句与主句时态不同",
+    "explain": "从句的时态取决于它所表达的内容，不一定与主句一致。描述客观规律、科学事实、至今仍然成立的情况时，即使主句是过去时，从句也可以用一般现在时。本句主句 helped 讲历史作用，用过去时；定语从句 governs 讲定律的内容，用现在时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Mendel identified the rules that govern how traits are passed from parents to offspring.",
+      "zh": "孟德尔找出了支配性状由亲代传给子代的规律。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "govern",
+    "explain": "本义是“统治，管理”，用于定律、规则时指“支配，决定，制约”，如 the laws governing motion（支配运动的定律）、rules governing the use of data（关于数据使用的规定）。本句视频译为“规定了”。"
+   },
+   {
+    "term": "eject",
+    "explain": "使喷出，使射出；驱逐。本句指光把电子从金属中打出来，视频译为“打出/击出”。飞行员从飞机中弹射逃生也用 eject。"
+   },
+   {
+    "term": "underpin",
+    "explain": "本义是从下面加固建筑，引申为“构成……的基础，支撑”，多用于理论、论点、经济等，如 the assumptions that underpin the policy（这项政策所依据的假设）。本句视频译为“奠定……的基础”。"
+   },
+   {
+    "term": "quantum theory",
+    "explain": "量子理论，研究微观粒子运动规律的物理理论，认为能量等物理量以一份一份的“量子”形式存在。爱因斯坦对光电效应的解释是量子理论早期发展中的重要一步。"
+   }
+  ],
+  "translation_tip": "视频译文“这条定律规定了光如何把电子从金属中打出/击出，曾帮助奠定量子理论的基础。”的处理：①非限制性定语从句没有前置，而是直接接在主语后，译成“这条定律规定了……”，主句谓语“曾帮助奠定……”作为后一个分句，整句变成一个主语带两个说明部分，读起来连贯。②宾语从句 how light ejects electrons from metal 用“把”字句译为“光如何把电子从金属中打出/击出”。③helped 增补“曾”字，体现过去的历史作用。④underpin 译为“奠定……的基础”，“基础”是根据汉语搭配补出的。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "A letter",
+   "predicate": "clarified",
+   "object_or_complement": "that the prize took no account of relativity",
+   "explain": "主干是 A letter clarified that ...，主谓宾结构，宾语是 that 引导的宾语从句。谓语 clarified 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A letter",
+    "role": "主语",
+    "zh": "一封信"
+   },
+   {
+    "text": "the next day",
+    "role": "后置定语（名词短语），修饰 letter",
+    "zh": "第二天的"
+   },
+   {
+    "text": "clarified",
+    "role": "谓语",
+    "zh": "澄清"
+   },
+   {
+    "text": "that the prize took no account of relativity.",
+    "role": "宾语从句（that 引导），作 clarified 的宾语",
+    "zh": "此奖并未考虑相对论"
+   }
+  ],
+  "structure": "①主句是 A letter clarified that ...：主语 A letter，谓语 clarified，宾语是 that 引导的宾语从句。\n②the next day 是名词短语，据视频说明作后置定语，修饰 letter，说明是哪一天的信；the next day 指第10句的授奖之日的第二天。\n③that the prize took no account of relativity 是宾语从句，that 只起连接作用，不作成分。从句主语 the prize 指授给爱因斯坦的奖，谓语是短语动词 took no account of，宾语 relativity。\n④本句与第10句相互照应：授奖理由只提理论物理学贡献和光电效应定律，这封信进一步说明，奖项没有把相对论计算在内。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词短语作后置定语",
+    "explain": "表示时间、地点的名词短语有时可以直接放在名词后面作定语，不用介词，如 the meeting last week（上周的会议）、the conference next month（下个月的会议）、a letter the next day（第二天的一封信）。这种结构简洁，常见于新闻语体。阅读时要注意它修饰的是前面的名词，而不是在句中充当独立的时间状语。翻译时把它前移，译成“……的”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm the night before had knocked out power across the region.",
+      "zh": "前一天晚上的暴风雨导致整个地区停电。"
+     },
+     {
+      "en": "Sales figures the following month were even worse.",
+      "zh": "下个月的销售数据甚至更糟。"
+     }
+    ]
+   },
+   {
+    "title": "clarify that 引导宾语从句",
+    "explain": "clarify、explain、confirm、state、stress 等表示说明、陈述的动词，后面常接 that 引导的宾语从句，说明澄清或陈述的内容。clarify that 意为“澄清，说明……”，用来消除误解或含混之处。宾语从句中的 that 在非正式文体中可以省略，但在正式书面语中通常保留。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The ministry later clarified that the new rules would apply only to large firms.",
+      "zh": "该部后来澄清，新规定只适用于大公司。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take no account of",
+    "explain": "不考虑，不顾及，不把……计算在内，是 take account of sth（考虑到某事）的否定说法，相当于 not take sth into account。本句视频译为“并未考虑”。同义说法还有 take no notice of（不理会）、disregard。"
+   },
+   {
+    "term": "clarify",
+    "explain": "澄清，阐明，使清楚明白，常接 that 从句或 wh- 从句，如 clarify the situation（说明情况）、clarify what the rule means（说明规定的含义）。名词形式 clarification。"
+   },
+   {
+    "term": "the next day 与 tomorrow",
+    "explain": "the next day 指过去或将来某一天的第二天，用于叙述；tomorrow 只能以说话的当天为参照。本句以第10句的授奖之日为参照，所以用 the next day。"
+   }
+  ],
+  "translation_tip": "视频译文“第二天的一封信澄清，此奖并未考虑相对论。”的处理：①后置定语 the next day 前移，译为“第二天的一封信”。②宾语从句前加逗号断开，译成“澄清，……”，不用“澄清了……这一点”之类的冗长说法。③the prize 译为“此奖”，简洁且回指上文的奖项；短语动词 took no account of 译为“并未考虑”，“并未”加强否定语气。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Einstein",
+   "predicate": "would miss",
+   "object_or_complement": "the December ceremony",
+   "explain": "主干是 Einstein would miss the December ceremony，主谓宾结构。谓语 would miss 为过去将来时，主动语态，表示从当时（1922年11月）看将要发生的事。"
+  },
+  "components": [
+   {
+    "text": "Einstein,",
+    "role": "主语",
+    "zh": "爱因斯坦"
+   },
+   {
+    "text": "then aboard a steamer",
+    "role": "插入语（介词短语，then 修饰 aboard），补充说明 Einstein 当时的处境",
+    "zh": "当时正乘一艘……轮船"
+   },
+   {
+    "text": "bound for Japan,",
+    "role": "后置定语（形容词短语），修饰 steamer",
+    "zh": "开往日本的"
+   },
+   {
+    "text": "would miss",
+    "role": "谓语（过去将来时）",
+    "zh": "将错过"
+   },
+   {
+    "text": "the December ceremony.",
+    "role": "宾语（December 作前置定语）",
+    "zh": "12月的颁奖典礼"
+   }
+  ],
+  "structure": "①主句是 Einstein would miss the December ceremony：主语 Einstein，谓语 would miss，宾语 the December ceremony，December 是名词作前置定语。\n②then aboard a steamer bound for Japan 是插入语，两侧用逗号隔开，据视频说明，作插入语补充说明 Einstein 当时的处境；它相当于 who was then aboard a steamer bound for Japan。then 是副词，意为“当时”，修饰介词短语 aboard a steamer。\n③bound for Japan 是形容词短语作后置定语，修饰 steamer，说明船的目的地，相当于 which was bound for Japan。\n④would miss 是过去将来时：叙述的时间点是第10句、第12句的1922年11月，12月的典礼在当时还没有举行，从那时看是将来的事。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "would 表示过去将来",
+    "explain": "叙述过去的事件时，如果要提到在那之后才发生的事，就用 would + 动词原形，表示“（当时看来）将要”，即过去将来时。这种用法常见于传记和历史叙述，作者站在过去某一时刻向后看，如 He would later become president（他后来成了总统）。本句 would miss 表示从1922年11月看，爱因斯坦将错过12月的典礼；视频译为“将错过”。阅读时注意这种 would 不表示虚拟或推测，讲的是后来确实发生的事。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In 1905 she moved to Paris, where she would spend the rest of her life.",
+      "zh": "1905年她搬到巴黎，此后在那里度过了余生。"
+     },
+     {
+      "en": "Nobody at the meeting knew that the decision would cost the company millions.",
+      "zh": "会上没有人知道，这一决定将让公司损失数百万。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语作插入语",
+    "explain": "介词短语可以用逗号隔开放在主语后面，作插入语补充说明主语的状态或处境，相当于省略了“关系代词 + be”的非限制性定语从句。本句 then aboard a steamer bound for Japan 前有副词 then，交代时间，相当于 who was then aboard ...。阅读时先略过插入语找主干 Einstein would miss ...，再回头补充细节。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The ambassador, then on holiday in Spain, flew back immediately.",
+      "zh": "大使当时正在西班牙度假，立即飞了回来。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语 bound for 作后置定语",
+    "explain": "bound for 意为“开往……的，驶向……的”，用来说明车、船、飞机或人的目的地，常作后置定语或表语，如 a flight bound for Tokyo（飞往东京的航班）、be bound for Europe（前往欧洲）。形容词短语带有补足成分时一般放在名词之后。注意与 be bound to do（必然会做）、be bound by（受……约束）区分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Passengers bound for London should proceed to Gate 12.",
+      "zh": "前往伦敦的乘客请到12号登机口。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "aboard",
+    "explain": "介词兼副词，意为“在（船、飞机、火车等）上”，如 aboard a ship、All aboard!（请大家上车/上船！）。本句视频译为“乘”。"
+   },
+   {
+    "term": "steamer",
+    "explain": "汽船，轮船，即 steamship，靠蒸汽机驱动；另一义是“蒸锅”。本句视频译为“轮船”。"
+   },
+   {
+    "term": "the December ceremony",
+    "explain": "指12月的诺贝尔奖颁奖典礼。诺贝尔奖颁奖典礼每年12月10日，即阿尔弗雷德·诺贝尔的逝世纪念日在斯德哥尔摩举行。视频增补“颁奖”二字，译为“12月的颁奖典礼”。"
+   },
+   {
+    "term": "miss",
+    "explain": "本句意为“错过，未能出席”，如 miss a meeting（没去开会）、miss the train（没赶上火车）。miss 还有“想念”“未击中”“漏掉”等义。"
+   }
+  ],
+  "translation_tip": "视频译文“爱因斯坦当时正乘一艘开往日本的轮船，将错过12月的颁奖典礼。”的处理：①插入语 then aboard a steamer 去掉逗号，与主语连成“爱因斯坦当时正乘一艘……轮船”，介词 aboard 转译为动词“乘”，then 译为“当时正”。②后置定语 bound for Japan 前移，译为“开往日本的轮船”；不定冠词 a 译为量词“一艘”。③would miss 译为“将错过”，“将”体现过去将来时；the December ceremony 增补“颁奖”，译为“12月的颁奖典礼”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "he",
+   "predicate": "delivered",
+   "object_or_complement": "his Nobel lecture",
+   "explain": "主干是 he delivered his Nobel lecture，主谓宾结构。谓语 delivered 为一般过去时，主动语态。主干前有时间和地点状语，后有 before 引导的介词短语和 devoting 引导的现在分词短语。"
+  },
+  "components": [
+   {
+    "text": "On 11 July 1923,",
+    "role": "时间状语（介词短语）",
+    "zh": "1923年7月11日"
+   },
+   {
+    "text": "in Gothenburg, Sweden,",
+    "role": "地点状语（介词短语；Sweden 补充说明 Gothenburg 所在的国家）",
+    "zh": "在瑞典哥德堡"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "delivered",
+    "role": "谓语",
+    "zh": "发表了"
+   },
+   {
+    "text": "his Nobel lecture",
+    "role": "宾语",
+    "zh": "他的诺贝尔演讲"
+   },
+   {
+    "text": "before a congress",
+    "role": "状语（介词短语，before 意为“在……面前”，说明演讲的听众）",
+    "zh": "面向……大会"
+   },
+   {
+    "text": "of Nordic scientists,",
+    "role": "后置定语（of 结构），修饰 congress",
+    "zh": "北欧自然科学家"
+   },
+   {
+    "text": "devoting it to",
+    "role": "伴随状语（现在分词短语）的前半部分：devoting 为分词，it 作其宾语，指 lecture",
+    "zh": "专门讲"
+   },
+   {
+    "text": "the fundamental ideas and problems of relativity.",
+    "role": "介词 to 的宾语，与前段构成 devote A to B",
+    "zh": "相对论的基本思想与问题"
+   }
+  ],
+  "structure": "①主句是 he delivered his Nobel lecture：主语 he 指爱因斯坦，谓语 delivered，宾语 his Nobel lecture。\n②主句前有两个状语：On 11 July 1923 交代时间，in Gothenburg, Sweden 交代地点。英语写地名时由小到大，城市在前、国家在后，中间用逗号隔开，国家名后也要加逗号。\n③before a congress of Nordic scientists 是介词短语作状语，据视频说明，before 意为“在……面前”，说明演讲面对的听众；of Nordic scientists 作 congress 的后置定语。\n④devoting it to the fundamental ideas and problems of relativity 是现在分词短语作伴随状语，逻辑主语是 he，构成 devote A to B，it 指 lecture，说明演讲的内容。to 后的名词短语中，fundamental 同时修饰 ideas 和 problems，of relativity 也同时修饰两者。\n⑤这一句与第12句形成对照：奖项不考虑相对论，爱因斯坦的诺贝尔演讲却专门讲相对论。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "devote A to B",
+    "explain": "devote A to B 意为“把 A（时间、精力、篇幅、资源等）专门用于 B”，to 是介词，后接名词或动名词，不能接动词原形，如 devote much time to reading，不说 devote much time to read。常见变体有 devote oneself to sth（献身于，专心于）、be devoted to sth（致力于；挚爱）。本句 devoting it to the fundamental ideas ... 意为“把演讲专门用于讲……”，视频译为“专门讲”。考研写作中 devote ... to doing 是常用表达，介词 to 后接 -ing 是常考易错点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The newspaper devoted its entire front page to the election results.",
+      "zh": "这家报纸用整个头版报道选举结果。"
+     },
+     {
+      "en": "She has devoted most of her career to improving rural healthcare.",
+      "zh": "她把职业生涯的大部分时间都用于改善农村医疗。"
+     }
+    ]
+   },
+   {
+    "title": "介词 before 表示“在……面前”",
+    "explain": "before 除了表示时间上的“在……之前”，还可表示位置上的“在……面前”，较正式，多用于 appear before the court（出庭）、speak before an audience（在听众面前讲话）、testify before Congress（在国会作证）。本句 before a congress of Nordic scientists 指在北欧科学家大会面前发表演讲，视频译为“面向……大会”。阅读时 before 后面是人或机构时，要考虑这一义项。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister will appear before a parliamentary committee next week.",
+      "zh": "这位部长下周将在议会的一个委员会面前接受质询。"
+     }
+    ]
+   },
+   {
+    "title": "并列名词共用修饰语",
+    "explain": "两个并列名词前后的修饰语可以同时修饰两者。本句 the fundamental ideas and problems of relativity 中，fundamental 和 of relativity 同时修饰 ideas 和 problems，意思是相对论的基本思想和相对论的基本问题。翻译时可以合并成“相对论的基本思想与问题”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The course covers the basic principles and methods of statistics.",
+      "zh": "这门课程讲授统计学的基本原理和方法。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Nobel lecture",
+    "explain": "诺贝尔奖获奖者按惯例发表的获奖演讲。爱因斯坦的诺贝尔演讲题为“Fundamental Ideas and Problems of the Theory of Relativity”（相对论的基本思想与问题），1923年7月11日在瑞典哥德堡发表。"
+   },
+   {
+    "term": "Gothenburg",
+    "explain": "哥德堡，瑞典第二大城市，位于瑞典西海岸，瑞典语拼作 Göteborg。"
+   },
+   {
+    "term": "Nordic",
+    "explain": "北欧的，通常指丹麦、芬兰、冰岛、挪威和瑞典等国。a congress of Nordic scientists 指北欧各国科学家的大会，视频译为“北欧自然科学家大会”。"
+   },
+   {
+    "term": "deliver a lecture",
+    "explain": "发表演讲，作讲座，比 give a lecture 正式；deliver 还可搭配 a speech、an address、a verdict（宣布裁决）。本句视频译为“发表了”。"
+   },
+   {
+    "term": "congress",
+    "explain": "小写时指（代表）大会、代表会议，如 an international congress of surgeons（国际外科医生大会）；首字母大写的 Congress 指美国国会。"
+   }
+  ],
+  "translation_tip": "视频译文“1923年7月11日，在瑞典哥德堡，他发表了他的诺贝尔演讲，面向北欧自然科学家大会，专门讲相对论的基本思想与问题。”的处理：①日期按年、月、日排列；地名按汉语由大到小的习惯，译为“瑞典哥德堡”。②主干“他发表了他的诺贝尔演讲”保留物主代词 his 的译法。③before a congress of Nordic scientists 译成独立短句“面向北欧自然科学家大会”，介词 before 转为动词“面向”，后置定语前移，scientists 译为“自然科学家”。④伴随状语 devoting it to ... 译为“专门讲……”，把 devote 的“专门用于”与演讲的内容合在一起，it 不必译出。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The theory",
+   "predicate": "reached",
+   "object_or_complement": "a Nobel podium",
+   "explain": "主干是 The theory reached a Nobel podium，主谓宾结构。谓语 reached 为一般过去时，主动语态。主语后有省略关系代词的定语从句，句尾有过去分词短语作状语。"
+  },
+  "components": [
+   {
+    "text": "The theory",
+    "role": "主语",
+    "zh": "那个理论"
+   },
+   {
+    "text": "the committee looked past",
+    "role": "定语从句（省略关系代词 that/which），修饰 The theory",
+    "zh": "委员会绕开不看的"
+   },
+   {
+    "text": "reached",
+    "role": "谓语",
+    "zh": "登上了"
+   },
+   {
+    "text": "a Nobel podium",
+    "role": "宾语",
+    "zh": "诺贝尔的讲台"
+   },
+   {
+    "text": "after all,",
+    "role": "状语（介词短语，意为“终究，到底还是”）",
+    "zh": "终究还是"
+   },
+   {
+    "text": "carried there",
+    "role": "方式状语（过去分词短语），逻辑主语是 The theory，there 指 a Nobel podium",
+    "zh": "把它带上去的"
+   },
+   {
+    "text": "by the man",
+    "role": "介词短语，by 引出 carried 的动作执行者",
+    "zh": "正是……爱因斯坦"
+   },
+   {
+    "text": "the prize had honoured.",
+    "role": "定语从句（省略关系代词 whom/that），修饰 the man",
+    "zh": "这个奖所嘉奖的"
+   }
+  ],
+  "structure": "①主句是 The theory reached a Nobel podium after all：主语 The theory 指相对论；谓语 reached；宾语 a Nobel podium；after all 意为“终究，到底还是”，表示结果与先前的预期相反。\n②the committee looked past 是省略关系代词的定语从句，修饰 The theory，完整形式是 The theory (that/which) the committee looked past。被省略的关系代词作短语动词 looked past 的宾语。据视频说明，look past 意为“忽视，绕开不看”。\n③carried there by the man ... 是过去分词短语作方式状语，逻辑主语是主句主语 The theory：理论是“被带上去”的，所以用过去分词。there 指 a Nobel podium，by the man 引出动作执行者。\n④the prize had honoured 是又一个省略关系代词的定语从句，修饰 the man，完整形式是 the man (whom/that) the prize had honoured。the man 指爱因斯坦，作者没有直接写名字，而用“这个奖所嘉奖的人”来称呼他，突出讽刺意味。\n⑤had honoured 是过去完成时：授奖（1922年11月）发生在登上讲台（1923年7月）之前。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词 that、which、whom 在限制性定语从句中作宾语时可以省略。识别方法：名词后面直接跟着“主语 + 谓语”，而谓语动词或介词后面缺宾语。本句有两处：The theory the committee looked past，looked past 后缺宾语，就是先行词 theory；the man the prize had honoured，honoured 后缺宾语，就是先行词 man。第一处定语从句夹在主语和谓语之间，容易把 the committee 误当成句子主语，要看清真正的谓语是后面的 reached。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The risks the report played down turned out to be serious.",
+      "zh": "报告轻描淡写的那些风险后来被证明很严重。"
+     },
+     {
+      "en": "The teacher the students admired most retired last year.",
+      "zh": "学生们最敬佩的那位老师去年退休了。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作状语",
+    "explain": "过去分词短语可以放在句尾、用逗号隔开，作状语补充说明主语的情况，表示被动或完成。它的逻辑主语必须是主句主语，与主语构成被动关系。本句 carried there by the man ... 的逻辑主语是 The theory，相当于 and it was carried there by the man ...。过去分词后可接 by 短语引出动作执行者。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The letter finally arrived, delivered by a neighbour to whom it had been sent by mistake.",
+      "zh": "那封信终于到了，是一位邻居送来的，它之前被误投到了他那里。"
+     },
+     {
+      "en": "The old house still stands, protected by a preservation order.",
+      "zh": "这座老房子依然矗立着，受到一项保护令的保护。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时 had done 表示在过去某一时间或动作之前已经发生的事。本句主句 reached 是过去时，指1923年的演讲；the prize had honoured 发生在1922年的授奖，早于演讲，所以用过去完成时。考研阅读中，过去完成时常提示事件的先后顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the rescue team arrived, the climbers had already reached safety.",
+      "zh": "救援队赶到时，登山者已经到达了安全地带。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "look past",
+    "explain": "短语动词，意为“忽视，不予理会，绕开……不看”，视频译为“绕开不看”；另有积极用法“不计较（缺点等），看到……背后的东西”，如 look past his rough manner（不计较他举止粗鲁）。"
+   },
+   {
+    "term": "after all",
+    "explain": "有两种常见意思：放在句末，意为“终究，到底还是”，表示结果与预期相反，如本句；放在句首或句中，意为“毕竟，别忘了”，用来补充理由。本句视频译为“终究还是”。"
+   },
+   {
+    "term": "podium",
+    "explain": "讲台，指挥台；也指颁奖时的领奖台。本句 a Nobel podium 指爱因斯坦发表诺贝尔演讲的讲台，视频译为“诺贝尔的讲台”。"
+   },
+   {
+    "term": "honour",
+    "explain": "英式拼写，美式为 honor。动词意为“授予荣誉，嘉奖，表彰”，本句视频译为“嘉奖”。"
+   },
+   {
+    "term": "全文的讽刺",
+    "explain": "委员会颁奖时绕开相对论，授奖理由只提光电效应定律，而爱因斯坦的诺贝尔演讲讲的却是相对论，被绕开的理论还是以这种方式登上了诺贝尔的讲台。视频说明称这是“狠狠打了委员会的脸”。"
+   }
+  ],
+  "translation_tip": "视频译文“委员会绕开不看的那个理论，终究还是登上了诺贝尔的讲台，把它带上去的，正是这个奖所嘉奖的爱因斯坦。”的处理：①省略关系代词的定语从句 the committee looked past 前置，译成“委员会绕开不看的那个理论”，The 译为“那个”，并在主语后加逗号，使长主语与谓语断开。②after all 前移到谓语前，译为“终究还是”。③过去分词短语 carried there by the man ... 没有译成被动句“被……带到那里”，而是转换为“把它带上去的，正是……”的强调句式，突出执行者。④the man 直接还原为“爱因斯坦”，定语从句 the prize had honoured 前置为“这个奖所嘉奖的”。"
+ }
+]

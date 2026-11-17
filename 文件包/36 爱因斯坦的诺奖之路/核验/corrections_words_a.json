@@ -1,0 +1,65 @@
+[
+ {
+  "key": "id=3",
+  "field": "etymology",
+  "before": "英语最初用它指“迅速处理”，后来指为特定目的进行的远行，再指参加远行的人员。",
+  "after": "英语中最初指“军事远征”，也有“迅速”之义；16世纪末起指为特定目的进行的远行，17世纪末又指参加远行的一队人。",
+  "reason": "据 Etymonline，英语最早义是“军事远征”（兼有“迅速”义），不是“迅速处理”"
+ },
+ {
+  "key": "id=8",
+  "field": "context_usage",
+  "before": "全文第4句的 it、第8句的 relativity、第15句的 The theory 都指相对论。",
+  "after": "全文第8句、第12句、第14句的 relativity 和第15句的 The theory 都指相对论；第4句的 it 据视频说明指上文的预言。",
+  "reason": "视频说明明确第4句 it 指预言，不指相对论"
+ },
+ {
+  "key": "id=13",
+  "field": "etymology",
+  "before": "regal（帝王般的）与它同源，是直接从拉丁语借入的形式。",
+  "after": "regal（帝王般的）与它同源，拼写更接近拉丁语 regalis。",
+  "reason": "Etymonline 称 regal 来自古法语或直接来自拉丁语，不能断言直接借自拉丁语"
+ },
+ {
+  "key": "id=15",
+  "field": "usage_detail",
+  "before": "后文往往出现 but、however",
+  "after": "后文有时出现 but、however",
+  "reason": "与逐句精讲统一，去掉无依据的“往往”"
+ },
+ {
+  "key": "id=16",
+  "field": "etymology",
+  "before": "由 pro-（向前，公开）和 clamare（呼喊）构成，经古法语进入中古英语。",
+  "after": "由 pro-（向前，公开）和 clamare（呼喊）构成，直接进入中古英语。",
+  "reason": "Merriam-Webster、Etymonline 均作中古英语直接源自拉丁语 proclamare，未经古法语"
+ },
+ {
+  "key": "id=19",
+  "field": "senses[2]",
+  "before": "{\"pos\": \"adv.\", \"zh\": \"（计划等）出差错（go askew）\"}",
+  "after": "（删除）",
+  "reason": "权威词典未收 askew“出差错”义项，删去"
+ },
+ {
+  "key": "id=19",
+  "field": "collocations.3.en",
+  "before": "go askew",
+  "after": "sit askew",
+  "reason": "go askew“出差错”无权威词典依据，换成描写歪斜的常见搭配"
+ },
+ {
+  "key": "id=19",
+  "field": "collocations.3.zh",
+  "before": "出差错，走样",
+  "after": "（眼镜、帽子等）歪戴着，歪放着",
+  "reason": "配合新搭配"
+ },
+ {
+  "key": "id=19",
+  "field": "usage_detail",
+  "before": "多用于描写帽子、领带、画框等物品歪斜，带有描写色彩；比喻用法指事情出了偏差。",
+  "after": "多用于描写帽子、领带、眼镜、画框等物品歪斜，带有描写色彩。",
+  "reason": "删去无权威依据的比喻义"
+ }
+]

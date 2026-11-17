@@ -1,0 +1,114 @@
+[
+ {
+  "key": "n=2",
+  "field": "grammar.1.explain",
+  "before": "作用相当于句号与 and 之间：比句号连接得更紧，又不像逗号那样会造成两个完整句子用逗号硬接的“逗号粘连”错误。",
+  "after": "连接的紧密程度介于句号和逗号之间：比句号连接得更紧，又能避免用逗号硬接两个完整句子造成的“逗号粘连”错误。",
+  "reason": "原句“相当于句号与 and 之间”表述不通，改为准确说法"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar.0.explain",
+  "before": "从句结构完整，去掉 that 也不能当作定语从句补出缺失成分；",
+  "after": "从句结构完整，that 一般不能省略；",
+  "reason": "原表述含混难懂，改为同位语从句的准确规则"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar.0.explain",
+  "before": "考研翻译中同位语从句常译成“……的预言”，从句较长时",
+  "after": "考研翻译中同位语从句可前置译成“……的＋名词”，本句即“……的预言”；从句较长时",
+  "reason": "原句把本句的特例当成通用译法，改为一般规则加本句示例"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar.0.explain",
+  "before": "后面往往接转折，作者可能随后指出它被高估了",
+  "after": "后面有时接转折，作者随后指出它可能被高估了",
+  "reason": "“往往”的概括无依据，改为有分寸的提示"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar.2.examples.0.en",
+  "before": "The report was based on a joint study of two leading universities.",
+  "after": "The bill was debated at a joint session of the House and the Senate.",
+  "reason": "原例 a joint study of two universities 有歧义（可理解为“对两所大学的研究”），联合研究通常用 by，不能示范 of 连接两个并列机构"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar.2.examples.0.zh",
+  "before": "这份报告基于两所顶尖大学的一项联合研究。",
+  "after": "该法案在众议院与参议院的联席会议上进行了辩论。",
+  "reason": "配合新例句的译文"
+ },
+ {
+  "key": "n=5",
+  "field": "knowledge.1.explain",
+  "before": "也可接 that 从句或双宾结构 proclaim sb sth（宣告某人为某种身份）",
+  "after": "也可接 that 从句，或用“宾语＋宾语补足语”结构 proclaim sb + 名词（宣告某人为……），如 proclaim him king（宣告他为国王）",
+  "reason": "proclaim sb king 是宾语加宾语补足语，不是双宾语结构，术语错误"
+ },
+ {
+  "key": "n=7",
+  "field": "components.3.role",
+  "before": "不定式，修饰形容词 harder",
+  "after": "状语（不定式），修饰形容词 harder",
+  "reason": "补出成分名称：不定式修饰形容词作状语"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar.0.explain",
+  "before": "本句宾语 it 很短，所以放在 on Einstein 之前。",
+  "after": "本句宾语 it 按 confer A on B 的正常语序放在 on Einstein 之前。",
+  "reason": "confer A on B 本来就是 A 在前，原说法暗示语序由宾语长短决定，有误导"
+ },
+ {
+  "key": "n=11",
+  "field": "grammar.2.examples.0.en",
+  "before": "Galileo showed that objects of different weights fall at the same rate.",
+  "after": "Mendel identified the rules that govern how traits are passed from parents to offspring.",
+  "reason": "原例是宾语从句，不能示范“定语从句与主句时态不同”，换成过去时主句带一般现在时定语从句的例句"
+ },
+ {
+  "key": "n=11",
+  "field": "grammar.2.examples.0.zh",
+  "before": "伽利略证明了不同重量的物体以相同的速度下落。",
+  "after": "孟德尔找出了支配性状由亲代传给子代的规律。",
+  "reason": "配合新例句的译文"
+ },
+ {
+  "key": "n=12",
+  "field": "grammar.0.explain",
+  "before": "the day before（前一天）",
+  "after": "the conference next month（下个月的会议）",
+  "reason": "the day before 中 before 是副词，不是名词短语作后置定语，例子不当"
+ },
+ {
+  "key": "n=12",
+  "field": "knowledge.0.explain",
+  "before": "把……不计算在内",
+  "after": "不把……计算在内",
+  "reason": "中文语序不通"
+ },
+ {
+  "key": "n=13",
+  "field": "structure",
+  "before": "补充说明 Einstein 当时的处境，据视频说明，相当于 who was then aboard a steamer bound for Japan。",
+  "after": "据视频说明，作插入语补充说明 Einstein 当时的处境；它相当于 who was then aboard a steamer bound for Japan。",
+  "reason": "视频说明只说是插入语，并未给出 who was 改写，引用来源不准确"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar.1.examples.0.en",
+  "before": "The letter finally arrived, delivered by a neighbour who had found it in his mailbox.",
+  "after": "The letter finally arrived, delivered by a neighbour to whom it had been sent by mistake.",
+  "reason": "原例英式 neighbour 与美式 mailbox 混用，换成用词统一、语义清楚的例句"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar.1.examples.0.zh",
+  "before": "那封信终于到了，是一位邻居送来的，他在自己的信箱里发现了它。",
+  "after": "那封信终于到了，是一位邻居送来的，它之前被误投到了他那里。",
+  "reason": "配合新例句的译文"
+ }
+]
