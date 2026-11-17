@@ -1,0 +1,1768 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "the astronomer Clyde Tombaugh",
+   "predicate": "perceived",
+   "object_or_complement": "a dim dot",
+   "explain": "主干是 the astronomer Clyde Tombaugh perceived a dim dot，主谓宾结构。谓语 perceived 是 perceive 的过去式，一般过去时，主动语态，叙述过去某一天发生的具体动作。"
+  },
+  "components": [
+   {
+    "text": "On 18 February 1930,",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1930年2月18日"
+   },
+   {
+    "text": "comparing photographic plates",
+    "role": "时间状语（现在分词短语），逻辑主语是主句主语 Clyde Tombaugh",
+    "zh": "在……比对照相底片时"
+   },
+   {
+    "text": "at the Lowell Observatory,",
+    "role": "地点状语（介词短语），修饰 comparing，说明比对底片的地点",
+    "zh": "洛厄尔天文台"
+   },
+   {
+    "text": "the astronomer",
+    "role": "主语（与后面的人名是同位关系）",
+    "zh": "天文学家"
+   },
+   {
+    "text": "Clyde Tombaugh",
+    "role": "同位语（与 the astronomer 是同位关系，人名限定是哪一位天文学家，中间不加逗号）",
+    "zh": "克莱德·汤博"
+   },
+   {
+    "text": "perceived",
+    "role": "谓语",
+    "zh": "察觉到"
+   },
+   {
+    "text": "a dim dot",
+    "role": "宾语（dim 作 dot 的前置定语）",
+    "zh": "一个暗淡的小点"
+   },
+   {
+    "text": "that shifted between them.",
+    "role": "限制性定语从句，修饰 a dim dot（that 在从句中作主语；them 指 plates）",
+    "zh": "它在底片之间移动过"
+   }
+  ],
+  "structure": "①主句是 the astronomer Clyde Tombaugh perceived a dim dot：主语 the astronomer Clyde Tombaugh，谓语 perceived，宾语 a dim dot。主语前有两个用逗号隔开的状语，主语到句子中部才出现，读的时候要越过两个逗号找到真正的主语。\n②句首 On 18 February 1930 是时间状语，具体某一天前用介词 on。\n③comparing photographic plates at the Lowell Observatory 是现在分词短语作时间状语（视频说明），逻辑主语是主句主语 Clyde Tombaugh，相当于 when he was comparing photographic plates at the Lowell Observatory；汤博是“比对”这一动作的发出者，是主动关系，所以用现在分词。分词短语内部，at the Lowell Observatory 作地点状语，说明在哪里比对底片。\n④the astronomer Clyde Tombaugh 中，the astronomer 和人名是同位关系（视频说明），两者之间不加逗号，人名限定是哪一位天文学家。\n⑤that shifted between them 是限制性定语从句，修饰 a dim dot（视频说明）。that 在从句中作主语，不能省略；谓语 shifted 意为“移动”；them 指前面的 plates（视频说明）。小点在先后拍摄的几张底片上位置不同，说明它在移动，这正是发现新天体的线索。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作时间状语",
+    "explain": "现在分词短语可以作时间状语，相当于 when 或 while 引导的状语从句，表示主句动作发生时正在进行的动作。使用前提是分词的逻辑主语必须与主句主语一致：本句 comparing 的动作发出者就是主句主语 Clyde Tombaugh，相当于 when he was comparing photographic plates。逻辑主语与主句主语不一致，就构成“悬垂分词”，这是写作中的典型错误，如 Walking along the street, a car hit him，应改为 Walking along the street, he was hit by a car。考研翻译中，这类分词短语常译成“在……时”“……的时候”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Reviewing the hospital's records, investigators noticed a sharp rise in infections.",
+      "zh": "在查阅医院记录时，调查人员注意到感染病例急剧增加。"
+     },
+     {
+      "en": "Walking through the old town, visitors can still see traces of the medieval walls.",
+      "zh": "在老城区漫步时，游客仍能看到中世纪城墙的遗迹。"
+     }
+    ]
+   },
+   {
+    "title": "that 在限制性定语从句中作主语",
+    "explain": "that 引导限制性定语从句时，可以在从句中作主语或宾语。作宾语时可以省略，作主语时不能省略。本句 that shifted between them 中，that 指代先行词 a dim dot，在从句中作主语，谓语是 shifted，所以 that 必须保留。限制性定语从句与先行词之间不加逗号，起限定作用：汤博察觉到的是一个“在底片之间移动过的”小点。考研长难句中，名词后紧跟 that，要先判断它引导的是定语从句还是同位语从句：that 在从句中充当成分（主语或宾语）的是定语从句，不充当成分的是同位语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers have identified a gene that controls the timing of flowering.",
+      "zh": "研究人员发现了一个控制开花时间的基因。"
+     }
+    ]
+   },
+   {
+    "title": "日期的写法与介词 on",
+    "explain": "具体某一天前用介词 on，如 on 18 February 1930、on Monday；只有月份或年份时用 in，如第4句的 in January 2005。日期写法英美不同：英式通常是“日 月 年”，如 18 February 1930；美式通常是“月 日, 年”，如 February 18, 1930。本文一律用英式写法，与第8句 neighbourhood 的英式拼写一致。汉语日期按“年、月、日”由大到小排列，翻译时要调换顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 4 March 1921 and came into force in June.",
+      "zh": "该条约于1921年3月4日签署，并于6月生效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Lowell Observatory",
+    "explain": "洛厄尔天文台（视频说明），位于美国亚利桑那州弗拉格斯塔夫（Flagstaff），由美国天文学家珀西瓦尔·洛厄尔（Percival Lowell）于1894年创建。洛厄尔生前一直在寻找海王星以外的未知行星，汤博正是在这座天文台继续这项搜寻时发现了冥王星。"
+   },
+   {
+    "term": "photographic plate",
+    "explain": "照相底片，指涂有感光乳剂的玻璃板，是胶片普及之前天文摄影的主要载体；photographic 意为“照相的，摄影的”。天文学家对同一片天区在不同日期拍摄底片再加以比对：遥远恒星的位置基本不变，太阳系内的天体则会相对恒星背景移动。所以 a dim dot that shifted between them 是判断发现新天体的关键。"
+   },
+   {
+    "term": "perceive",
+    "explain": "正式用词，意为“察觉，注意到”，多指通过感官或观察发现不易察觉的东西，视频译为“察觉到”。另一常用义是“认为，视为”，常用 be perceived as 结构，如 be perceived as a threat（被视为威胁）。"
+   },
+   {
+    "term": "dim",
+    "explain": "形容词，指光线“暗淡的，昏暗的”，本句指底片上亮度很低的光点，视频译为“暗淡的”。也可作动词，表示“使变暗”，如 dim the lights。"
+   },
+   {
+    "term": "shift",
+    "explain": "本句作不及物动词，意为“移动，转移”，指小点在先后拍摄的底片上位置不同，视频译为“移动过”。名词 shift 还有“转变；轮班”等义，如 a shift in policy（政策转变）、the night shift（夜班）。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①日期按汉语“年、月、日”的顺序译为“1930年2月18日”。②现在分词短语 comparing photographic plates at the Lowell Observatory 译成“在洛厄尔天文台比对照相底片时”，用“在……时”点明时间状语，地点状语 at the Lowell Observatory 提到动词“比对”前面。③同位关系 the astronomer Clyde Tombaugh 合译为“天文学家克莱德·汤博”，身份在前、人名在后，中间不加标点。④定语从句 that shifted between them 没有前置成“一个在底片之间移动过的暗淡小点”，而是拆成后置分句，用“它”回指小点，避免宾语前的定语过长；them 译出所指“底片”，“过”体现 shifted 所述的是已经发生的移动。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "An eleven-year-old English girl",
+   "predicate": "put forward",
+   "object_or_complement": "the name",
+   "explain": "主干是 An eleven-year-old English girl put forward the name，主谓宾结构；put forward 是短语动词，整体作谓语。谓语为一般过去时（put 的过去式与原形同形），主动语态。"
+  },
+  "components": [
+   {
+    "text": "An eleven-year-old",
+    "role": "定语（带连字符的复合形容词），修饰 girl",
+    "zh": "一名11岁的"
+   },
+   {
+    "text": "English girl",
+    "role": "主语（中心词 girl，English 作定语表示国籍）",
+    "zh": "英国女孩"
+   },
+   {
+    "text": "put forward",
+    "role": "谓语（短语动词，意为“提出，提议”）",
+    "zh": "提议了"
+   },
+   {
+    "text": "the name,",
+    "role": "宾语（指第1句发现的天体的名字）",
+    "zh": "它的名字"
+   },
+   {
+    "text": "after",
+    "role": "介词，意为“以……命名”，引出名字的来源（介词短语补充说明 the name，相当于 named after）",
+    "zh": "名字取自"
+   },
+   {
+    "text": "the Roman deity",
+    "role": "after 的宾语（Roman 作 deity 的定语）",
+    "zh": "罗马神话中的……神灵"
+   },
+   {
+    "text": "of the underworld.",
+    "role": "后置定语（介词短语），修饰 deity",
+    "zh": "冥界"
+   }
+  ],
+  "structure": "①主句是 An eleven-year-old English girl put forward the name，主谓宾结构。主语中心词是 girl，前面有两个定语：复合形容词 eleven-year-old 表示年龄，English 表示国籍。\n②put forward 是“动词 + 副词”构成的短语动词，意为“提出，提议”（视频说明），宾语 the name 放在短语动词后面。the name 指第1句发现的那个天体的名字，视频译为“它的名字”。\n③逗号后的 after the Roman deity of the underworld 是介词短语，补充说明这个名字的来源。after 意为“以……命名”（视频说明），可以看成省略了 named，即 the name, (named) after the Roman deity of the underworld。\n④the Roman deity of the underworld 意为“罗马神话中的冥界之神”（视频说明）：Roman 是前置定语，说明是罗马神话中的神；介词短语 of the underworld 是后置定语，说明是冥界之神。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "带连字符的复合形容词 eleven-year-old",
+    "explain": "“数词 + 名词 + 形容词”用连字符连成复合形容词时，只能作前置定语，其中的名词一律用单数：an eleven-year-old girl，不能写成 eleven-years-old。作表语时不加连字符，名词用复数：The girl was eleven years old。同样遵循“名词用单数”规则的“数词 + 名词”复合形容词还有 a five-minute walk、a ten-mile race、a two-week holiday。eleven 以元音音素开头，所以冠词用 an。考研写作中这类结构能使表达简洁，但单复数和连字符是常见失分点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city plans to build a three-kilometre tunnel under the river.",
+      "zh": "该市计划在河底修建一条三公里长的隧道。"
+     },
+     {
+      "en": "A twelve-year-old boy became the youngest winner in the contest's history.",
+      "zh": "一名12岁男孩成为这项比赛有史以来最年轻的获胜者。"
+     }
+    ]
+   },
+   {
+    "title": "短语动词 put forward 的宾语位置",
+    "explain": "put forward 由动词 put 和副词 forward 构成，意为“提出（建议、理论、人选等）”。这类“动词 + 副词”的短语动词，宾语是名词时可以放在副词前或后：put forward a plan 或 put a plan forward；宾语是代词时只能放在中间：put it forward，不能说 put forward it。宾语较长时通常放在副词后面。考研阅读中 put forward 常与 proposal、theory、idea、argument、suggestion 搭配。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several economists have put forward proposals to reform the pension system.",
+      "zh": "几位经济学家提出了改革养老金制度的方案。"
+     }
+    ]
+   },
+   {
+    "title": "介词 after 表示“以……命名”",
+    "explain": "after 作介词，除了表示时间、位置上的“在……之后”，还可表示“按照，仿照”，最常见的是 name A after B（以 B 的名字给 A 命名），被动形式为 A is named after B；美式英语也说 name A for B。本句 after the Roman deity of the underworld 交代名字的来源：Pluto 这个名字取自罗马神话中的冥界之神。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge was named after the engineer who designed it.",
+      "zh": "这座桥以其设计工程师的名字命名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "An eleven-year-old English girl",
+    "explain": "这名女孩是英国牛津的 Venetia Burney。1930年她得知发现新天体后，提议用 Pluto 命名，经她的祖父转告天文学界，这个名字最终被洛厄尔天文台采用。"
+   },
+   {
+    "term": "Pluto（罗马神话）",
+    "explain": "罗马神话中的冥界之神，对应希腊神话中的哈得斯（Hades）。冥王星的英文名取自这位神，汉语译名“冥王星”也与这一来源对应。"
+   },
+   {
+    "term": "deity",
+    "explain": "正式用词，指神、神灵，男神女神都可以用，如 a Hindu deity（印度教的神），复数 deities。视频译为“神灵”。"
+   },
+   {
+    "term": "underworld",
+    "explain": "由 under（在……之下）和 world（世界）构成，本义是神话中位于地下的“冥界，阴间”，视频译为“冥界”；the criminal underworld 指“黑社会”，新闻中常见。"
+   }
+  ],
+  "translation_tip": "①英文是一个简单句后接一个介词短语，视频译成两个分句：前一分句“一名11岁的英国女孩提议了它的名字”对应主句，后一分句“名字取自罗马神话中的冥界神灵”对应 after 短语。②后一分句重复“名字”作主语，把介词 after 译成动词性的“取自”，使两个分句衔接自然。③the name 译为“它的名字”，“它”回指第1句发现的天体；不定冠词 An 译成“一名”。④the Roman deity of the underworld 中，后置定语 of the underworld 前移为“冥界”，Roman 增补“神话中的”译成“罗马神话中的”，符合汉语表达习惯。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Pluto",
+   "predicate": "held",
+   "object_or_complement": "the ninth slot",
+   "explain": "主干是 Pluto held the ninth slot，主谓宾结构。谓语 held 是 hold 的过去式，一般过去时，主动语态；句首 For 76 years 表示这一状态持续的时间。"
+  },
+  "components": [
+   {
+    "text": "For 76 years",
+    "role": "时间状语（for + 时间段，表示持续多久）",
+    "zh": "此后76年里"
+   },
+   {
+    "text": "Pluto",
+    "role": "主语",
+    "zh": "冥王星"
+   },
+   {
+    "text": "held",
+    "role": "谓语（hold 意为“占据”）",
+    "zh": "一直占据"
+   },
+   {
+    "text": "the ninth slot",
+    "role": "宾语（序数词 ninth 前加 the）",
+    "zh": "第九个位置"
+   },
+   {
+    "text": "on the planetary roster.",
+    "role": "后置定语（介词短语），修饰 slot",
+    "zh": "行星名单上的"
+   }
+  ],
+  "structure": "①主句 Pluto held the ninth slot 是主谓宾结构，hold the ninth slot 意为“占据第九个位置”（视频说明）。\n②句首 For 76 years 是时间状语，for 加一段时间，表示状态持续的时长。76年指从1930年发现冥王星到2006年它被重新归类之间的时间，后者在第3段才交代。\n③on the planetary roster 是介词短语作后置定语，修饰 slot（视频说明），说明是哪份名单上的位置。planetary 是 planet 的形容词形式，作 roster 的前置定语。slot 指名单、序列或时间表上的“位置、名额”（视频说明）。\n④本句用一般过去时 held，表明这一状态已经结束：冥王星现在不再占据这个位置，为下文的降级埋下伏笔。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "for + 时间段与一般过去时",
+    "explain": "for + 时间段表示持续多久，可以与现在完成时连用，也可以与一般过去时连用，区别在于这段时间是否延续到现在。用现在完成时，表示状态从过去持续到现在，可能还会继续，如 She has lived here for ten years（她在这里住了十年，现在仍住着）；用一般过去时，表示那段时间已经完全过去，状态已经结束，如 She lived here for ten years（她曾在这里住过十年，现在不住了）。本句 held 用一般过去时，说明冥王星占据第九位的76年已经结束，读者据此可以预判下文会讲它失去这一位置。考研阅读中，时态的这种差别常是推断题的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The factory employed most of the town's residents for half a century before it closed.",
+      "zh": "这家工厂在倒闭之前的半个世纪里雇用了镇上的大部分居民。"
+     },
+     {
+      "en": "He has served on the board for six years and plans to stay on.",
+      "zh": "他已在董事会任职六年，并打算继续留任。"
+     }
+    ]
+   },
+   {
+    "title": "序数词前加定冠词 the",
+    "explain": "序数词表示顺序，前面一般加定冠词 the，如本句的 the ninth slot、第5句的 the tenth planet，因为一个序列中的“第几个”是确定的。序数词前用不定冠词 a 或 an 时，表示“又一，再一”，如 a second chance（再一次机会）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "This is the third time the council has delayed its decision.",
+      "zh": "这是市议会第三次推迟作出决定。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hold",
+    "explain": "熟词僻义：hold 常见义是“拿着，握住”，本句指“占据，拥有（位置、职位、纪录等）”，视频译为“一直占据”，“一直”对应 For 76 years 表示的持续。常见搭配有 hold a post（担任职务）、hold a record（保持纪录）、hold the lead（保持领先）。"
+   },
+   {
+    "term": "slot",
+    "explain": "名词，指名单、序列或时间表上的“位置、名额”（视频说明），如 a time slot（时间段）、a slot in the schedule（日程中的一个时段）；本义是“狭缝，投币口”，如 a coin slot。"
+   },
+   {
+    "term": "roster",
+    "explain": "名词，名单，花名册，也指值班表，如 a duty roster；美式英语中常指运动队的球员名单，如 the team roster。本句 the planetary roster 指行星名单，视频译为“行星名单”。"
+   },
+   {
+    "term": "the ninth slot",
+    "explain": "冥王星被发现之前，人们已知太阳系有八颗行星，冥王星被发现后列为第九颗。"
+   }
+  ],
+  "translation_tip": "①For 76 years 译为“此后76年里”，增补“此后”，说明这76年从上文的发现算起，使上下句衔接紧密。②谓语 held 译为“一直占据”，“一直”体现 for 引出的持续时间。③后置定语 on the planetary roster 前移，译成“行星名单上的”，放在“第九个位置”前；planetary 是形容词，汉语直接用名词“行星”作定语。④the ninth slot 译为“第九个位置”，补出量词“个”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "astronomers",
+   "predicate": "found",
+   "object_or_complement": "a far-off body",
+   "explain": "主干是 astronomers found a far-off body，主谓宾结构。谓语 found 是 find 的过去式，一般过去时，主动语态；宾语后带两个过去分词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "In January 2005,",
+    "role": "时间状语（介词短语，月份和年份前用 in）",
+    "zh": "2005年1月"
+   },
+   {
+    "text": "astronomers",
+    "role": "主语",
+    "zh": "天文学家"
+   },
+   {
+    "text": "found",
+    "role": "谓语",
+    "zh": "发现了"
+   },
+   {
+    "text": "a far-off body,",
+    "role": "宾语（body 指天体，far-off 作前置定语）",
+    "zh": "一个遥远的天体"
+   },
+   {
+    "text": "later named Eris,",
+    "role": "后置定语一（过去分词短语），修饰 a far-off body；later 作时间状语，Eris 作 named 的补足语",
+    "zh": "它后来被命名为厄里斯"
+   },
+   {
+    "text": "at first thought",
+    "role": "后置定语二（过去分词短语），修饰 a far-off body；at first 作时间状语",
+    "zh": "起初被认为"
+   },
+   {
+    "text": "larger than Pluto.",
+    "role": "thought 的主语补足语（形容词比较级短语）",
+    "zh": "比冥王星还要大"
+   }
+  ],
+  "structure": "①主句 astronomers found a far-off body 是主谓宾结构，句首 In January 2005 是时间状语。body 在这里指“天体”（视频说明）。\n②later named Eris 和 at first thought larger than Pluto 是两个过去分词短语作后置定语，都修饰 a far-off body（视频说明）。两者都用逗号隔开，对先行词作补充说明，分别相当于非限制性定语从句 which was later named Eris 和 which was at first thought (to be) larger than Pluto。\n③later named Eris 中，later 是时间状语，Eris 是 named 的补足语，即 it was later named Eris。\n④at first thought larger than Pluto 中，at first 是时间状语，形容词比较级短语 larger than Pluto 作 thought 的主语补足语，来自 people at first thought it (to be) larger than Pluto 的被动形式。\n⑤later 与 at first 两个时间词形成对照：命名在后，而“比冥王星大”只是最初的判断，暗示这一判断后来有所变化。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作非限制性后置定语",
+    "explain": "过去分词短语放在名词后面作定语，表示被动或完成，相当于一个定语从句；用逗号隔开时是非限制性的，只对先行词作补充说明。本句两个过去分词短语都修饰 a far-off body：later named Eris 相当于 which was later named Eris，at first thought larger than Pluto 相当于 which was at first thought (to be) larger than Pluto。天体是“被命名”“被认为”的一方，所以用过去分词。阅读时注意：两个短语之间没有 and，第二个短语并不修饰 Eris，而是与第一个短语并列，共同修饰 a far-off body。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The team uncovered a small statue, later dated to the fourth century, beneath the temple floor.",
+      "zh": "研究团队在神庙地面下发掘出一尊小雕像，后来经鉴定，其年代为公元4世纪。"
+     },
+     {
+      "en": "The report, published last month, has already prompted a review of safety rules.",
+      "zh": "这份报告上个月发布，已经促使有关方面重新审查安全规定。"
+     }
+    ]
+   },
+   {
+    "title": "think 的被动结构 be thought (to be) + 补足语",
+    "explain": "think 可以接复合宾语：think sth (to be) + 形容词或名词，如 They thought it larger than Pluto。变为被动语态时，原来的宾语变成主语，宾语补足语变成主语补足语：It was thought (to be) larger than Pluto，to be 常可省略。consider、believe、find 等动词也有这种用法。本句 at first thought larger than Pluto 就是这种被动结构的过去分词短语形式。考研阅读中，be thought、be believed、be said to be 等结构常引出一般看法或早期观点，后文往往会加以修正，本句的 at first 就暗示后来的判断发生了变化。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The disease was once thought incurable.",
+      "zh": "这种疾病曾被认为是无法治愈的。"
+     },
+     {
+      "en": "The painting, long believed to be a copy, turned out to be an original.",
+      "zh": "这幅长期被认为是复制品的画，结果证明是真迹。"
+     }
+    ]
+   },
+   {
+    "title": "时间介词 in 与 on",
+    "explain": "月份、年份、季节前用 in，如 in January 2005、in 2006；具体某一天前用 on，如第1句的 on 18 February 1930。本句只说到月份，所以用 in January 2005。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new law was passed in May and took effect on 1 July.",
+      "zh": "这部新法律于5月通过，7月1日起生效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "body",
+    "explain": "熟词僻义：body 常见义是“身体”，在天文学中指“天体”（视频说明），完整说法是 celestial body 或 heavenly body。本句 a far-off body 指远离太阳的天体，视频译为“一个遥远的天体”。"
+   },
+   {
+    "term": "far-off",
+    "explain": "形容词，“遥远的”，用作前置定语，如 a far-off land；作表语时一般说 far away 或 far off，如 The village is far away。"
+   },
+   {
+    "term": "Eris",
+    "explain": "厄里斯，希腊神话中司掌纷争与不和的女神。这个天体到2006年9月才正式定名，那时冥王星已被重新归类；以“纷争女神”命名，正与它在天文学界引发的争论相呼应。"
+   },
+   {
+    "term": "at first thought larger than Pluto",
+    "explain": "厄里斯起初被认为比冥王星大。后来的观测，特别是新视野号2015年的测量表明，冥王星的直径略大于厄里斯，但厄里斯的质量更大。"
+   }
+  ],
+  "translation_tip": "①时间状语 In January 2005 按汉语习惯译为“2005年1月”。②两个过去分词短语没有前置成“一个后来被命名为厄里斯、起初被认为比冥王星还要大的遥远天体”，而是拆成两个后置分句，用“它”统领，避免宾语前堆积过长的定语。③过去分词的被动意义译为“被命名为”“被认为”，later 和 at first 分别译为“后来”“起初”，保留两个时间的对照。④比较级 larger than Pluto 译为“比冥王星还要大”，“还要”加强语气，突出这一发现对冥王星地位的冲击。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "called",
+   "object_or_complement": "it（宾语）；the tenth planet（宾语补足语）",
+   "explain": "主谓宾宾补结构，call A B 意为“称 A 为 B”。谓语 called 为一般过去时，主动语态；briefly 说明这一称呼只维持了很短时间。"
+  },
+  "components": [
+   {
+    "text": "NASA",
+    "role": "主语（首字母缩略词，指美国国家航空航天局）",
+    "zh": "美国航天局"
+   },
+   {
+    "text": "briefly",
+    "role": "时间状语（副词），修饰 called",
+    "zh": "曾短暂地"
+   },
+   {
+    "text": "called",
+    "role": "谓语（call A B，称 A 为 B）",
+    "zh": "称……为"
+   },
+   {
+    "text": "it",
+    "role": "宾语（指上句的 Eris）",
+    "zh": "它"
+   },
+   {
+    "text": "the tenth planet.",
+    "role": "宾语补足语（名词短语）",
+    "zh": "第十大行星"
+   }
+  ],
+  "structure": "①本句是“主语 + 谓语 + 宾语 + 宾语补足语”结构：主语 NASA，谓语 called，宾语 it，宾语补足语 the tenth planet。call A B 意为“称 A 为 B”（视频说明），宾语与宾补之间是逻辑上的主表关系，即 it was the tenth planet。\n②it 指上句发现的天体，即后来命名的 Eris。\n③briefly 是副词作状语，放在谓语前，修饰 called，意为“短暂地”，说明这一称呼只用了很短一段时间。\n④the tenth planet 中，序数词 tenth 前加定冠词 the。当时冥王星还是第九颗行星，新天体若算作行星，自然排在第十。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词作宾语补足语（call A B）",
+    "explain": "call、name、elect、appoint、make、consider 等动词可以带复合宾语，即“宾语 + 宾语补足语”，宾补可以是名词，说明宾语的身份或名称。本句 called it the tenth planet 中，it 是宾语，the tenth planet 是宾补，两者之间是逻辑上的主表关系（it was the tenth planet）。变为被动语态时，宾补变成主语补足语：It was briefly called the tenth planet。考研长难句中，宾语与宾补之间如果插入较长的修饰语，容易看漏宾补，第13句 made \"plutoed\", playful slang for \"to devalue\", its word of 2006 就是这种情况。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The board appointed her chief executive in 2019.",
+      "zh": "董事会于2019年任命她为首席执行官。"
+     },
+     {
+      "en": "Critics called the new policy a step backwards.",
+      "zh": "批评者称这项新政策是一种倒退。"
+     }
+    ]
+   },
+   {
+    "title": "briefly 的两个义项与位置",
+    "explain": "briefly 有两个常用义：一是“短暂地，短时间地”（for a short time），如 He briefly considered quitting；二是“简要地”（in few words），如 Let me briefly explain，还可单独作句首状语 Briefly, ...（简而言之）。本句说的是 NASA 称它为第十大行星只是很短一段时间的事，取第一义。作状语时，briefly 一般放在实义动词前，也可放在句末。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister briefly visited the flooded area before returning to the capital.",
+      "zh": "部长短暂视察了受灾地区，随后返回首都。"
+     }
+    ]
+   },
+   {
+    "title": "首字母缩略词与冠词",
+    "explain": "由首字母组成、按一个单词拼读的缩略词作专有名词时，一般不加定冠词，如 NASA（读作 /ˈnæsə/）、NATO；逐个字母读的缩略词则大多要加 the，如 the UN、the EU、the FBI。本句 NASA 前没有冠词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "NATO was founded in 1949, four years after the UN.",
+      "zh": "北约成立于1949年，比联合国晚四年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NASA",
+    "explain": "National Aeronautics and Space Administration 的首字母缩略词，即美国国家航空航天局（视频说明），成立于1958年，视频简称“美国航天局”。"
+   },
+   {
+    "term": "the tenth planet",
+    "explain": "2005年7月，NASA 发布消息，称其资助的科学家发现了“第十大行星”，即后来命名的厄里斯。briefly 说明这个说法维持的时间很短：一年后国际天文学联合会通过了行星定义，厄里斯和冥王星都被归为矮行星。"
+   }
+  ],
+  "translation_tip": "①call it the tenth planet 译为“称它为第十大行星”，用“称……为”对应 call A B，宾补“第十大行星”放在“为”后面。②briefly 译为“曾短暂地”，增补“曾”，表明这是过去的事，现在已不再这样称呼。③NASA 全称是美国国家航空航天局，视频用简称“美国航天局”。④the tenth planet 译为“第十大行星”，沿用汉语“九大行星”“八大行星”的习惯说法。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The contender",
+   "predicate": "posed",
+   "object_or_complement": "an awkward dilemma",
+   "explain": "主干就是全句，主谓宾结构。谓语 posed 为一般过去时，主动语态；pose 在此是及物动词，意为“造成，引发”。"
+  },
+  "components": [
+   {
+    "text": "The contender",
+    "role": "主语（指上文的 Eris）",
+    "zh": "这个竞争者"
+   },
+   {
+    "text": "posed",
+    "role": "谓语",
+    "zh": "造成了"
+   },
+   {
+    "text": "an awkward",
+    "role": "定语（不定冠词 + 形容词），修饰 dilemma",
+    "zh": "一个尴尬的"
+   },
+   {
+    "text": "dilemma.",
+    "role": "宾语（中心词）",
+    "zh": "两难困境"
+   }
+  ],
+  "structure": "①本句是简单的主谓宾结构：主语 The contender，谓语 posed，宾语 an awkward dilemma，awkward 作 dilemma 的前置定语。\n②The contender 指上文的 Eris（视频说明）。作者没有重复 Eris 或 it，而是换用 contender（竞争者），把这个天体比作与冥王星争夺行星地位的一方，定冠词 The 表明所指对象前文已出现。\n③pose 意为“造成，引发（问题、困难）”（视频说明）。dilemma 指陷入进退维谷的境地，无论选择哪一方，都必须承受相应的损失或代价（视频说明）。从上下文看，两难在于：如果承认厄里斯是行星，日后发现的类似天体也得算作行星；如果不承认，被认为比它还小的冥王星也很难保住行星地位。下一句交代了这一困境带来的结果：必须给“行星”下精确的定义。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "用名词替换回指上文",
+    "explain": "英语避免在相邻句子中重复同一名词，常换用意义相关的名词回指前文提到的对象，这类名词往往带有作者的评价或比喻色彩。本文对厄里斯的称呼依次是 a far-off body 和 Eris（第4句）、it（第5句）、The contender（本句），定冠词 The 表明所指的是前文已出现的对象。考研阅读的指代题和细节题常考这种替换，遇到带 the 的新名词，要回到前文找它指代的对象。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company unveiled its latest phone on Tuesday. The device will go on sale next month.",
+      "zh": "该公司周二发布了最新款手机，这款设备将于下月开售。"
+     },
+     {
+      "en": "A rare orchid was found growing by a country road, and the discovery delighted local botanists.",
+      "zh": "人们在一条乡间公路旁发现了一株珍稀兰花，这一发现令当地植物学家欣喜不已。"
+     }
+    ]
+   },
+   {
+    "title": "pose 的及物与不及物用法",
+    "explain": "pose 作及物动词时意为“造成，引发（问题、困难、威胁等）”，宾语多为抽象名词：pose a threat、pose a risk、pose a challenge、pose a problem、pose a dilemma；还可表示“提出（问题）”，如 pose a question。作不及物动词时意为“摆姿势”或“冒充”：pose for a photograph（摆姿势拍照），pose as a doctor（冒充医生）。本句 posed an awkward dilemma 是及物用法。考研写作中 pose a threat to sth 和 pose a challenge to sth 是高频搭配。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising sea levels pose a serious threat to low-lying coastal cities.",
+      "zh": "海平面上升对地势低洼的沿海城市构成严重威胁。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "contender",
+    "explain": "名词，竞争者，常指比赛、评选中有获胜希望的人，如 a strong contender for the title（夺冠热门）。本句指 Eris（视频说明），视频译为“这个竞争者”；动词 contend 意为“竞争；声称”。"
+   },
+   {
+    "term": "awkward",
+    "explain": "形容词，常见义是“尴尬的，令人难堪的”，也可指“棘手的，难对付的”，如 an awkward question（令人尴尬的问题）、an awkward situation（尴尬的处境）。本句视频译为“尴尬的”。"
+   },
+   {
+    "term": "dilemma",
+    "explain": "名词，两难困境，常见搭配 face a dilemma（面临两难）、be in a dilemma（处于两难境地）、a moral dilemma（道德困境）。视频说明：指陷入“进退维谷”的境地，无论选择哪一方，都必须承受相应的损失或代价。dilemma 不等于泛泛的“困难”（difficulty），它一定涉及两个或多个都不理想的选项。"
+   }
+  ],
+  "translation_tip": "①The contender 译为“这个竞争者”，The 译为“这个”，回指上文的厄里斯。②posed 译为“造成了”，“了”表示动作已经发生。③an awkward dilemma 译为“一个尴尬的两难困境”，不定冠词 an 译成“一个”，dilemma 译成“两难困境”，把“两难”的含义明确译出。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The term \"planet\"；a precise definition",
+   "predicate": "had hitherto been used；became",
+   "object_or_complement": "a necessity（第二个分句的表语）；第一个分句是被动语态，没有宾语",
+   "explain": "and 连接的并列句。第一个分句谓语 had been used 是过去完成时的被动语态；第二个分句是主系表结构，系动词 became 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The term \"planet\"",
+    "role": "第一个分句的主语（\"planet\" 是 The term 的同位语）",
+    "zh": "“行星”一词"
+   },
+   {
+    "text": "had hitherto been used",
+    "role": "第一个分句的谓语（过去完成时被动语态，hitherto 插在 had 与 been used 之间作时间状语）",
+    "zh": "此前一直被用"
+   },
+   {
+    "text": "loosely,",
+    "role": "方式状语（副词），修饰 had been used",
+    "zh": "得很不严谨/宽泛"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "with",
+    "role": "with 复合结构的介词，整个结构作原因状语",
+    "zh": "随着"
+   },
+   {
+    "text": "more icy worlds",
+    "role": "with 的宾语",
+    "zh": "更多冰冷天体"
+   },
+   {
+    "text": "likely to be found,",
+    "role": "with 的宾语补足语（形容词 likely + 被动不定式 to be found）",
+    "zh": "很可能被发现"
+   },
+   {
+    "text": "a precise definition",
+    "role": "第二个分句的主语",
+    "zh": "一个精确的定义"
+   },
+   {
+    "text": "became",
+    "role": "第二个分句的系动词",
+    "zh": "便成了"
+   },
+   {
+    "text": "a necessity.",
+    "role": "表语",
+    "zh": "必需"
+   }
+  ],
+  "structure": "①本句是 and 连接的并列句。第一个分句 The term \"planet\" had hitherto been used loosely 中，主语是 The term \"planet\"，\"planet\" 是 The term 的同位语，说明是哪个术语；谓语 had been used 是过去完成时的被动语态（视频说明），hitherto（迄今，此前）插在助动词 had 和 been used 之间作时间状语，loosely 作方式状语。\n②第二个分句 a precise definition became a necessity 是主系表结构，系动词 became，表语 a necessity；become a necessity 意为“成为必需”（视频说明）。\n③第二个分句前的 with more icy worlds likely to be found 是 with 复合结构，作原因状语（视频说明）。with 的宾语是 more icy worlds，宾语补足语是 likely to be found，由形容词 likely 加被动不定式 to be found 构成（视频说明概括为“with + 名词 + 不定式”），相当于 because more icy worlds were likely to be found。\n④两个分句的逻辑是：过去对“行星”一词的使用不严谨，而今后又很可能发现更多类似天体，所以必须有一个精确的定义。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时的被动语态",
+    "explain": "过去完成时的被动语态由 had been + 过去分词构成，表示在过去某一时间之前已经完成或一直持续的被动动作。本句的参照时间是厄里斯被发现、行星定义被提上日程的时候，在此之前，“行星”一词一直被用得很宽泛，所以用 had been used；hitherto（此前）进一步点明“到那时为止”。副词通常放在第一个助动词之后，即 had hitherto been used。考研完形中，看到 by then、by the end of + 过去时间、until then 等表示“到过去某时为止”的词，谓语常用过去完成时；hitherto 指“到所说的那个时候为止”，叙述过去时常与过去完成时连用，以现在为参照时则与现在完成时连用，如 a problem that has hitherto been ignored。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the inspectors arrived, most of the documents had already been destroyed.",
+      "zh": "等检查人员到达时，大部分文件已经被销毁了。"
+     },
+     {
+      "en": "The site had previously been used as a military airfield.",
+      "zh": "这块地此前一直被用作军用机场。"
+     }
+    ]
+   },
+   {
+    "title": "with 复合结构作原因状语",
+    "explain": "with 复合结构的形式是 with + 宾语 + 宾语补足语，宾补可以是形容词、副词、介词短语、现在分词、过去分词或不定式，常作原因、伴随、条件状语。本句 with more icy worlds likely to be found 中，more icy worlds 是宾语，likely to be found 是宾补，宾语与宾补之间有逻辑上的主表关系（more icy worlds were likely to be found），整个结构说明“需要精确定义”的原因。宾补中的 to be found 是被动不定式，因为天体是“被发现”的对象。翻译时常译为“由于……”“随着……”“有……”等。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "With prices expected to rise further, many families are cutting back on spending.",
+      "zh": "由于预计物价会进一步上涨，许多家庭正在削减开支。"
+     },
+     {
+      "en": "With so many projects to finish, the team had to work through the weekend.",
+      "zh": "由于有那么多项目要完成，团队不得不周末加班。"
+     }
+    ]
+   },
+   {
+    "title": "be likely to do 结构",
+    "explain": "likely 是形容词，意为“很可能的”，常用 sb/sth is likely to do，主语可以是人也可以是物；也可以用 It is likely that...，如 It is likely that more objects will be found。被动形式为 be likely to be done，本句 likely to be found 是省略了 be 的形式，用在 with 结构中作宾补。易错点：probable 不能用于“人或物 + be probable to do”结构，只能说 It is probable that...。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Demand for electric cars is likely to grow rapidly over the next decade.",
+      "zh": "未来十年，电动汽车的需求很可能会迅速增长。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the term \"planet\"",
+    "explain": "the term 后接带引号的词，表示“……这个术语，……这个词”，引号里的词是 the term 的同位语。视频译为“‘行星’一词”。"
+   },
+   {
+    "term": "hitherto",
+    "explain": "正式用词，意为“迄今，此前”（视频说明），相当于 until now 或 until then，常放在形容词或过去分词前，如 a hitherto unknown species（一个此前不为人知的物种）。"
+   },
+   {
+    "term": "loosely",
+    "explain": "副词，“宽泛地，不严格地”，视频译为“不严谨/宽泛”；常见搭配 loosely defined（定义宽泛的）、loosely translated（大致翻译为）。本义是“松散地，松弛地”。"
+   },
+   {
+    "term": "icy worlds",
+    "explain": "world 熟词僻义：在天文语境中可指“天体，星球”；icy 意为“冰冷的，结冰的”。icy worlds 指远离太阳、以冰为主要成分的天体，视频译为“冰冷天体”。冥王星和厄里斯都位于海王星轨道以外，那里分布着大量这类冰质天体。"
+   },
+   {
+    "term": "become a necessity",
+    "explain": "成为必需（视频说明）。necessity 指必要的事物，常见搭配 out of necessity（出于需要）、a basic necessity（基本必需品）。"
+   }
+  ],
+  "translation_tip": "①并列连词 and 译为“而”，连接前后两个分句。②过去完成时被动 had hitherto been used 译为“此前一直被用”，“此前”对应 hitherto，“一直”体现过去完成时所表示的持续，被动意义用“被”译出；loosely 译为“得很不严谨/宽泛”，用“得”字补语说明程度。③with 复合结构译为“随着……”，把宾语和宾补连成一个小句“更多冰冷天体很可能被发现”，likely 译为“很可能”，被动不定式 to be found 译为“被发现”。④主句 a precise definition became a necessity 译为“一个精确的定义便成了必需”，增补“便”，表示承接上文原因得出的结果。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "the International Astronomical Union",
+   "predicate": "voted",
+   "object_or_complement": "that a planet must revolve around the Sun, be nearly spherical, and have cleared the neighbourhood around its orbit（宾语从句）",
+   "explain": "主谓宾结构，宾语是 that 引导的宾语从句。谓语 voted 为一般过去时，主动语态；主语和谓语之间有过去分词短语作插入语。"
+  },
+  "components": [
+   {
+    "text": "On 24 August 2006",
+    "role": "时间状语（介词短语）",
+    "zh": "2006年8月24日"
+   },
+   {
+    "text": "the International Astronomical Union,",
+    "role": "主语",
+    "zh": "国际天文学联合会"
+   },
+   {
+    "text": "convened in Prague,",
+    "role": "插入语（过去分词短语），补充说明 the International Astronomical Union",
+    "zh": "在布拉格召开会议"
+   },
+   {
+    "text": "voted",
+    "role": "谓语",
+    "zh": "投票决定"
+   },
+   {
+    "text": "that",
+    "role": "宾语从句引导词",
+    "zh": "（宾语从句引导词，在从句中不作成分，不单独译出）"
+   },
+   {
+    "text": "a planet",
+    "role": "从句主语",
+    "zh": "一颗行星"
+   },
+   {
+    "text": "must",
+    "role": "情态动词，三个并列谓语共用",
+    "zh": "必须"
+   },
+   {
+    "text": "revolve around the Sun,",
+    "role": "从句谓语一（revolve around 绕……运行，the Sun 为宾语）",
+    "zh": "围绕太阳转动"
+   },
+   {
+    "text": "be nearly spherical,",
+    "role": "从句谓语二（系表结构，nearly 修饰 spherical）",
+    "zh": "形状接近球形"
+   },
+   {
+    "text": "and have cleared",
+    "role": "并列连词 and + 从句谓语三（must 后接完成式）",
+    "zh": "并且已清空"
+   },
+   {
+    "text": "the neighbourhood around its orbit.",
+    "role": "have cleared 的宾语（around its orbit 作 neighbourhood 的后置定语）",
+    "zh": "其轨道附近的区域"
+   }
+  ],
+  "structure": "①主句是 the International Astronomical Union voted that...：主语 the International Astronomical Union，谓语 voted，that 引导宾语从句，作 voted 的宾语（视频说明），voted that 意为“投票决定”。句首 On 24 August 2006 是时间状语。\n②convened in Prague 是过去分词短语作插入语，补充说明 the International Astronomical Union（视频说明），两边用逗号隔开，相当于 which was convened in Prague，交代会议地点。读的时候先跳过插入语，把主语和谓语 voted 连起来。\n③宾语从句中，主语是 a planet，情态动词 must 后接三个并列谓语 revolve around the Sun、be nearly spherical、and have cleared the neighbourhood around its orbit，三者共用 must（视频说明）。三项按 A, B, and C 的格式并列，and 前的逗号是牛津逗号。\n④三个谓语分别是：revolve around（绕……运行，视频说明）the Sun，主谓宾；be nearly spherical，系表结构，nearly 修饰形容词 spherical；have cleared the neighbourhood around its orbit，must 后接完成式，表示“必须已经清空”，around its orbit 是介词短语作后置定语，修饰 neighbourhood。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作插入语",
+    "explain": "过去分词短语可以插在主语和谓语之间，两边用逗号隔开，对主语作补充说明，相当于一个非限制性定语从句。本句 convened in Prague 相当于 which was convened in Prague。convene 作及物动词意为“召集（会议、成员）”，联合会是被召集到布拉格开会的，所以用过去分词表示被动。阅读时要先跳过插入语，把主语 the International Astronomical Union 和谓语 voted 连起来。考研长难句常在主谓之间插入分词短语、同位语或从句，拉开主谓距离。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee, formed in 2010, has published three reports on air quality.",
+      "zh": "该委员会成立于2010年，已发布了三份空气质量报告。"
+     },
+     {
+      "en": "The findings, based on data from 40 countries, challenge earlier assumptions.",
+      "zh": "这些研究结果基于40个国家的数据，对此前的假设提出了挑战。"
+     }
+    ]
+   },
+   {
+    "title": "must have done 不表推测的情况",
+    "explain": "must have done 最常见的用法是对过去的情况作肯定推测，意为“一定已经……”，如 He must have missed the train。但在规定、要求类语境中，must 表示“必须”，have done 表示到某一时间为止已经完成，合起来是“必须已经做完”，不表推测。本句 must have cleared the neighbourhood around its orbit 是行星定义中的一项条件：一颗行星必须已经清空了其轨道附近的区域，视频译为“已清空”。判断方法看语境：叙述过去的事并带有推断色彩的是推测；表述规则、资格、条件的是要求。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Applicants must have completed at least two years of university study.",
+      "zh": "申请人必须已完成至少两年的大学学业。"
+     },
+     {
+      "en": "Candidates must have lived in the district for three years before the election.",
+      "zh": "候选人在选举前必须已在该选区居住满三年。"
+     }
+    ]
+   },
+   {
+    "title": "that 引导宾语从句",
+    "explain": "that 引导宾语从句时只起连接作用，在从句中不充当任何成分，口语中常可省略；在正式文体中，尤其是从句较长时，通常保留 that，便于读者看清从句从哪里开始。本句 voted that a planet must... 中，that 后面是一个完整的句子：主语 a planet，谓语是 must 加三个并列的动词原形。vote、decide、agree、announce 等表示决定或宣布的动词常接 that 从句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The board decided that the company would stop producing diesel engines by 2030.",
+      "zh": "董事会决定，公司将在2030年前停止生产柴油发动机。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the International Astronomical Union",
+    "explain": "国际天文学联合会，简称 IAU，成立于1919年，是国际公认的负责天体命名和天文学术语定义的组织，会员是世界各地的专业天文学家。2006年它在捷克首都布拉格（Prague）召开大会，表决通过了行星的定义。"
+   },
+   {
+    "term": "revolve around",
+    "explain": "绕……运行，绕……旋转（视频说明），常用于天体公转，如 The Earth revolves around the Sun；比喻义是“以……为中心”，如 Her life revolves around her children。注意区分 rotate，rotate 多指天体绕自身的轴“自转”。"
+   },
+   {
+    "term": "nearly spherical",
+    "explain": "spherical 意为“球形的”，名词是 sphere（球体）。这一条件的科学含义是：天体的质量要大到足以让自身引力把它拉成接近圆球的形状。"
+   },
+   {
+    "term": "clear the neighbourhood around its orbit",
+    "explain": "指天体在自己的轨道附近占据引力主导地位，附近已没有与它大小相当的其他天体（它自己的卫星除外）。这是三条标准中冥王星不符合的一条，见下句。neighbourhood 是英式拼写，美式拼写为 neighborhood；本句不是“街区，邻里”的意思，而是“附近区域”。"
+   }
+  ],
+  "translation_tip": "①插入语 convened in Prague 译成独立分句“在布拉格召开会议”，接在主语“国际天文学联合会”之后，使这个主语同时统领“召开会议”和“投票决定”两个动作。②voted that 译为“投票决定”，后加冒号引出决定的内容，宾语从句保留在后面。③从句的三个并列谓语按原顺序译出：“必须围绕太阳转动、形状接近球形，并且已清空其轨道附近的区域”，前两项用顿号隔开，第三项前用“并且”对应 and。④be nearly spherical 增补主语“形状”，译成“形状接近球形”；have cleared 用“已”体现完成式；后置定语 around its orbit 前移为“其轨道附近的”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Pluto",
+   "predicate": "failed and was reclassified",
+   "object_or_complement": "that last criterion（failed 的宾语）；a dwarf planet（as 引出的主语补足语）",
+   "explain": "一个主语带两个并列谓语：failed 是一般过去时的主动语态，was reclassified 是一般过去时的被动语态；句末 leaving eight 是现在分词短语作结果状语。"
+  },
+  "components": [
+   {
+    "text": "Pluto",
+    "role": "主语",
+    "zh": "冥王星"
+   },
+   {
+    "text": "failed",
+    "role": "谓语一（主动语态）",
+    "zh": "不符合"
+   },
+   {
+    "text": "that last criterion",
+    "role": "宾语（指上句的第三条标准）",
+    "zh": "最后一条标准"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个谓语",
+    "zh": "并"
+   },
+   {
+    "text": "was reclassified as",
+    "role": "谓语二（被动语态，reclassify A as B 的被动形式）",
+    "zh": "被重新归类为"
+   },
+   {
+    "text": "a dwarf planet,",
+    "role": "主语补足语（as 的宾语）",
+    "zh": "矮行星"
+   },
+   {
+    "text": "leaving eight.",
+    "role": "结果状语（现在分词短语，eight 后省略了 planets）",
+    "zh": "行星只剩下八颗"
+   }
+  ],
+  "structure": "①主句是一个主语带两个并列谓语：Pluto failed that last criterion（主动语态，主谓宾）and was reclassified as a dwarf planet（被动语态），由 and 连接，都是一般过去时。\n②fail a criterion 意为“不符合标准”（视频说明），that last criterion 指上句三条标准中的最后一条，即“已清空其轨道附近的区域”。\n③was reclassified as a dwarf planet 是 reclassify A as B（把 A 重新归类为 B，视频说明）的被动形式，as 引出的 a dwarf planet 作主语补足语。\n④leaving eight 是现在分词短语作结果状语（视频说明），表示冥王星被重新归类带来的结果。eight 后省略了 planets，即 leaving eight planets；前文已多次出现 planet，省略不会引起歧义。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，可以表示前面动作自然产生的结果，常见的有 leaving、making、causing、resulting in 等。本句 leaving eight 的逻辑主语是前面整件事（冥王星被重新归类），结果是行星只剩八颗。注意区分：表示意料之外的结果常用 only to do，如 He rushed to the station, only to find the train had left；表示有意的目的则用不定式 to do。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm knocked down power lines across the region, leaving thousands of homes without electricity.",
+      "zh": "暴风雨刮倒了该地区各处的电线，致使数千户家庭断电。"
+     },
+     {
+      "en": "Two members resigned last week, leaving the committee unable to reach a quorum.",
+      "zh": "上周有两名委员辞职，导致委员会达不到法定人数。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语的语态可以不同",
+    "explain": "同一个主语带的几个并列谓语，语态可以不同，主动和被动并用。本句 Pluto failed that last criterion（主动，冥王星没有达到标准）and was reclassified as a dwarf planet（被动，冥王星被天文学家重新归类），共用主语 Pluto。第二个谓语中的 was 不能省略，否则就成了 Pluto failed... and reclassified...，意思变成冥王星主动去给别的东西归类。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The suspect resisted arrest and was later charged with assault.",
+      "zh": "嫌疑人拒捕，后来被控袭击他人。"
+     }
+    ]
+   },
+   {
+    "title": "V + A + as + B 及其被动",
+    "explain": "classify、regard、see、describe、define 等动词常用“V + A + as + B”结构，表示“把 A 看作、归为 B”；被动形式为“A + be + 过去分词 + as + B”，as 后的名词作主语补足语。本句 was reclassified as a dwarf planet 即此用法，前缀 re- 表示“重新”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The drug was reclassified as a controlled substance in 2014.",
+      "zh": "这种药物于2014年被重新列为管制药物。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fail",
+    "explain": "熟词僻义：fail 常见义是“失败”，作及物动词时还可指“未通过（考试、检测），不符合（标准）”，如 fail a test、fail a safety inspection。本句 failed that last criterion 视频译为“不符合最后一条标准”（视频说明 fail a criterion：不符合标准）。"
+   },
+   {
+    "term": "criterion",
+    "explain": "名词，标准，准则，复数是 criteria，如 meet the criteria（符合标准）。易错点：criteria 是复数，不能说 a criteria 或 this criteria。"
+   },
+   {
+    "term": "dwarf planet",
+    "explain": "矮行星，2006年国际天文学联合会设立的类别，指围绕太阳运行、形状接近球形，但没有清空其轨道附近区域、且不是卫星的天体。该联合会目前认定的矮行星有五颗：谷神星（Ceres）、冥王星、厄里斯（Eris）、妊神星（Haumea）和鸟神星（Makemake）。"
+   },
+   {
+    "term": "leaving eight",
+    "explain": "冥王星被重新归类后，太阳系的行星是八颗：水星、金星、地球、火星、木星、土星、天王星、海王星。"
+   }
+  ],
+  "translation_tip": "①fail that last criterion 译为“不符合最后一条标准”，fail 不译成“失败”；that 回指上句，译文直接说“最后一条”。②and 译为“并”，被动语态 was reclassified as 用“被重新归类为”译出。③结果状语 leaving eight 译成独立分句“行星只剩下八颗”，补出省略的“行星”，并增补“只”，强调数目减少。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Pluto；the boundary",
+   "predicate": "was；had moved",
+   "object_or_complement": "unaltered（第一个分句的表语）",
+   "explain": "分号连接的两个分句：第一个是主系表结构，系动词 was 为一般过去时；第二个是主谓结构，had moved 为过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Pluto",
+    "role": "第一个分句的主语",
+    "zh": "冥王星"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 unaltered 合译为“毫无改变”）"
+   },
+   {
+    "text": "physically",
+    "role": "状语（副词），修饰 unaltered，表示方面",
+    "zh": "在物理上"
+   },
+   {
+    "text": "unaltered;",
+    "role": "表语（形容词）",
+    "zh": "毫无改变"
+   },
+   {
+    "text": "only",
+    "role": "限定副词，修饰主语 the boundary",
+    "zh": "只有"
+   },
+   {
+    "text": "the boundary",
+    "role": "第二个分句的主语",
+    "zh": "界线"
+   },
+   {
+    "text": "had moved.",
+    "role": "第二个分句的谓语（过去完成时）",
+    "zh": "移动了"
+   }
+  ],
+  "structure": "①本句由分号连接两个前后对照的分句（视频说明），中间没有连词。\n②第一个分句 Pluto was physically unaltered 是主系表结构：系动词 was，表语 unaltered（未改变的）；physically（物理上，实际上，视频说明）是副词作状语，修饰 unaltered，表示在哪个方面没有改变。\n③第二个分句 only the boundary had moved 是主谓结构，only 修饰主语 the boundary，表示“只有界线”；谓语 had moved 是过去完成时，表示到冥王星被重新归类时，界线已经移动，即2006年的表决已经改变了行星的定义。\n④the boundary 指区分行星与非行星的那条界线，即行星的定义。两个分句一个说天体本身，一个说分类标准，点明冥王星降级只是因为定义变了。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号可以连接两个意思紧密相关的独立分句，不用连词，常表示对照、并列或因果。本句 Pluto was physically unaltered; only the boundary had moved 用分号把“天体没变”和“界线变了”并置，形成对比。两个独立分句之间只用逗号而不加连词，在英语中是错误的（逗号粘连），应改用分号、句号，或加 and、but 等连词。考研写作中恰当使用分号能体现句式变化。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some critics praised the film's ambition; others found it tedious.",
+      "zh": "一些评论家称赞这部电影立意宏大，另一些人却觉得它沉闷乏味。"
+     },
+     {
+      "en": "The policy did not reduce costs; it merely shifted them to consumers.",
+      "zh": "这项政策并没有降低成本，只是把成本转嫁给了消费者。"
+     }
+    ]
+   },
+   {
+    "title": "only 修饰主语时不倒装",
+    "explain": "only 修饰放在句首的状语（副词、介词短语、状语从句）时，主句要部分倒装，如 Only then did they realise the mistake。only 修饰主语时，句子不倒装，按正常的“主语 + 谓语”语序，如本句 only the boundary had moved。考研语法和翻译常考这一区别：先看 only 后面跟的是状语还是主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only a handful of residents attended the meeting.",
+      "zh": "只有寥寥几位居民参加了会议。"
+     },
+     {
+      "en": "Only after the results were published did the public learn the truth.",
+      "zh": "直到结果公布之后，公众才得知真相。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时表示在过去某一参照时间之前已经完成的动作。本句的参照时间是第一个分句所说的冥王星被重新归类之后的情形，此时界线已经移动，所以用 had moved。叙述过去的事件时，提到更早发生的动作常用过去完成时，帮助读者理清先后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When the rescue team arrived, the floodwaters had already receded.",
+      "zh": "救援队赶到时，洪水已经退去。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "physically",
+    "explain": "副词，“物理上，实际上”（视频说明），指就物质实体本身而言，与名义上、分类上的变化相对；另一常用义是“身体上”，如 physically fit（身体健康）。physically impossible 指“实际上不可能的”。"
+   },
+   {
+    "term": "unaltered",
+    "explain": "由否定前缀 un-、动词 alter（改变）和过去分词词尾 -ed 构成，意为“未改变的”，视频译为“毫无改变”；常用 remain unaltered。alter 多指局部的改动，如 alter a dress（修改衣服）。"
+   },
+   {
+    "term": "boundary",
+    "explain": "名词，边界，界线，如 the boundary between two countries；本句用作比喻，指区分行星与非行星的分类界线，视频译为“界线”。push the boundaries 意为“突破界限”。"
+   }
+  ],
+  "translation_tip": "①分号译成逗号，两个分句之间不加连词，保留原文的对照关系。②was physically unaltered 译为“在物理上毫无改变”，副词 physically 译成介词短语“在物理上”，系动词 was 与 unaltered 合译为“毫无改变”，“毫无”比“没有”语气更强，突出冥王星本身一点没变。③only 译为“只有”，had moved 译为“移动了”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The vote；its legitimacy；only 424 of some 10,000 members",
+   "predicate": "was；drew；took part",
+   "object_or_complement": "valid（表语）；criticism（drew 的宾语）",
+   "explain": "冒号前是 yet 连接的两个转折分句（主系表、主谓宾），冒号后的分句（主谓）说明原因。三个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The vote",
+    "role": "第一个分句的主语",
+    "zh": "这次表决"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "valid,",
+    "role": "表语（形容词）",
+    "zh": "有效的"
+   },
+   {
+    "text": "yet",
+    "role": "并列连词，表示转折",
+    "zh": "但……却"
+   },
+   {
+    "text": "its legitimacy",
+    "role": "第二个分句的主语（its 指 the vote 的）",
+    "zh": "其正当性"
+   },
+   {
+    "text": "drew",
+    "role": "第二个分句的谓语",
+    "zh": "招致了"
+   },
+   {
+    "text": "criticism:",
+    "role": "宾语",
+    "zh": "批评"
+   },
+   {
+    "text": "only 424 of some 10,000 members",
+    "role": "冒号后分句的主语（some 意为“大约”，of 表示整体中的部分）",
+    "zh": "约1万名成员中仅有424人"
+   },
+   {
+    "text": "took part.",
+    "role": "冒号后分句的谓语（不及物短语）",
+    "zh": "参加"
+   }
+  ],
+  "structure": "①冒号前是 yet 连接的两个转折分句：The vote was valid（主系表），yet its legitimacy drew criticism（主谓宾）。yet 是并列连词，意为“但是，然而”。\n②its 指 the vote 的，its legitimacy 即这次表决的正当性；draw criticism 意为“招致批评”（视频说明）。\n③冒号后面说明受批评的原因（视频说明）：分句 only 424 of some 10,000 members took part 中，主语是 only 424 of some 10,000 members，谓语 took part。424 of some 10,000 members 意为“约1万名会员中的424人”，some 意为“大约”（视频说明），of 表示整体中的一部分。\n④valid 与 legitimacy 形成对照：表决按程序是有效的，但参加人数太少，结果能否代表整个学界受到质疑。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "并列连词 yet 表示转折",
+    "explain": "yet 作并列连词时意为“但是，然而”，连接两个意义相反或出人意料的分句，转折意味比 but 更强，前面常有逗号，也可以说 and yet。yet 作副词时多用于否定句或疑问句，意为“还，尚”，如 They have not decided yet。本句 The vote was valid, yet its legitimacy drew criticism 中，前一分句承认表决有效，后一分句转向批评，视频用“虽然……但……却”译出这层让步转折。考研阅读中，yet、but、however 之后往往是作者真正要强调的内容。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The plan is simple, yet it could save the city millions of dollars.",
+      "zh": "这个计划很简单，却可能为该市节省数百万美元。"
+     },
+     {
+      "en": "She had little formal training, yet she became one of the most respected architects of her generation.",
+      "zh": "她几乎没有受过正规训练，却成为同辈中最受尊敬的建筑师之一。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号可以引出对前文的解释、说明、原因或列举，冒号后的内容把前面概括性的陈述具体展开。本句冒号前说“正当性招致批评”，冒号后用数据说明原因：约1万名会员中只有424人参加。考研阅读中，冒号后面常是论据或例证，抓住冒号前的观点句就能把握主旨。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The results were disappointing: only one in five patients showed any improvement.",
+      "zh": "结果令人失望：五名患者中只有一人病情有所好转。"
+     }
+    ]
+   },
+   {
+    "title": "some + 数词；数词 + of + 整体",
+    "explain": "some 放在数词前表示“大约”，相当于 about、approximately，较正式，如 some 10,000 members。“数词 + of + 表示整体的复数名词短语”表示整体中的一部分，如 424 of some 10,000 members（约1万名会员中的424人）、three of the students（学生中的三人）。翻译时汉语习惯先说整体再说部分，所以视频译为“约1万名成员中仅有424人”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Only 12 of the 50 applicants were invited to an interview.",
+      "zh": "50名申请人中只有12人获邀参加面试。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "valid",
+    "explain": "形容词，“有效的”，指符合规定或程序、具有效力，如 a valid passport（有效护照）；也指“有根据的，合理的”，如 a valid argument。本句指这次表决合乎程序，视频译为“有效的”。"
+   },
+   {
+    "term": "legitimacy",
+    "explain": "名词，“合法性，正当性”，指被普遍认可为正当、合理，形容词是 legitimate。本句视频译为“正当性”。valid 强调符合规则，legitimacy 强调能否得到广泛认可，两者对照是本句的关键。"
+   },
+   {
+    "term": "draw criticism",
+    "explain": "招致批评（视频说明）。draw 熟词僻义：“引起，招致”，常见搭配 draw attention（引起注意）、draw criticism（招致批评）、draw fire（招致抨击）。同义说法有 attract criticism、come under criticism。"
+   },
+   {
+    "term": "take part",
+    "explain": "参加，不及物短语，要接参加的对象时加 in，如 take part in the vote；本句单独使用，参加的对象由上文可知是这次表决。"
+   },
+   {
+    "term": "some 10,000 members",
+    "explain": "国际天文学联合会的会员是专业天文学家，当时约有1万名，而参加这次表决的只有424人。"
+   }
+  ],
+  "translation_tip": "①yet 连接的两个分句译成“虽然……但……却”的让步转折复句：前一分句增补“虽然”，后一分句用“但”对应 yet，再加“却”加强转折。②its legitimacy 译为“其正当性”，“其”指这次表决。③冒号保留；冒号后先说整体再说部分，424 of some 10,000 members 译为“约1万名成员中仅有424人”，some 译为“约”，10,000 按汉语习惯写作“1万”，only 译为“仅有”。④took part 译为“参加”，不补出宾语。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Hundreds of dissenting astronomers",
+   "predicate": "signed",
+   "object_or_complement": "a petition",
+   "explain": "主干就是全句，主谓宾结构。谓语 signed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Hundreds of",
+    "role": "定语（表示概数），修饰 astronomers",
+    "zh": "数百名"
+   },
+   {
+    "text": "dissenting astronomers",
+    "role": "主语（dissenting 是现在分词作前置定语）",
+    "zh": "持异议的天文学家"
+   },
+   {
+    "text": "signed",
+    "role": "谓语",
+    "zh": "签署了"
+   },
+   {
+    "text": "a petition.",
+    "role": "宾语",
+    "zh": "一份请愿书"
+   }
+  ],
+  "structure": "①本句是简单的主谓宾结构：主语 Hundreds of dissenting astronomers，谓语 signed，宾语 a petition。\n②Hundreds of 表示概数“数百”，修饰 astronomers；dissenting 是现在分词作前置定语，意为“持异议的，持不同意见的”（视频说明），修饰 astronomers。\n③petition 指很多人联名签字、向官方或权威机构表达正式诉求的“请愿书”（或联名信）（视频说明）。从上下文看，这些天文学家反对的是第8句通过的行星定义。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "hundreds of 表示概数",
+    "explain": "hundred、thousand、million 等词前面有具体数字时用单数，后面直接接名词，如 three hundred astronomers；表示不确定的“数百、成千上万”时用复数加 of，如 hundreds of astronomers、thousands of people。易错点：three hundreds of 和 hundred of people 都是错误的。dozen 也遵守这一规则，如 two dozen eggs、dozens of eggs。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Thousands of commuters were stranded when the trains stopped running.",
+      "zh": "列车停运后，数千名通勤者被困。"
+     },
+     {
+      "en": "Two hundred volunteers helped clean up the beach after the oil spill.",
+      "zh": "石油泄漏后，两百名志愿者帮助清理海滩。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词作前置定语",
+    "explain": "单个现在分词可以放在名词前作定语，表示名词所发出的动作或所处的持续状态，如 a sleeping baby、rising prices。本句 dissenting astronomers 相当于 astronomers who dissented（持不同意见的天文学家），dissent 是不及物动词，与 astronomers 是主动关系。带宾语或状语的分词短语一般放在名词后面作定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising rents are forcing many young people out of the city centre.",
+      "zh": "不断上涨的房租正迫使许多年轻人搬离市中心。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dissent",
+    "explain": "dissenting 是动词 dissent 的现在分词，用作形容词，视频译为“持异议的”。dissent 作动词意为“持异议，不同意”，常接 from，如 dissent from the majority view；作名词指“异议”，如 voices of dissent（反对的声音）。在美国最高法院，a dissenting opinion 指少数派法官的“反对意见”。"
+   },
+   {
+    "term": "petition",
+    "explain": "名词，请愿书（视频说明），常见搭配 sign a petition（在请愿书上签名）、launch a petition（发起请愿）、a petition against sth（反对某事的请愿书）；也可作动词，如 petition the government for sth（向政府请求某事）。"
+   }
+  ],
+  "translation_tip": "①Hundreds of 译为“数百名”，补出量词“名”。②前置定语 dissenting 译为“持异议的”，放在“天文学家”前面，语序与英文一致。③signed 译为“签署了”，a petition 译为“一份请愿书”，不定冠词 a 译成数量词“一份”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "The American Dialect Society；New Mexico and Illinois lawmakers",
+   "predicate": "made；passed",
+   "object_or_complement": "\"plutoed\"（made 的宾语）+ its word of 2006（宾语补足语）；resolutions（passed 的宾语）",
+   "explain": "and 连接的并列句：第一个分句是主谓宾宾补结构，make A B 意为“把 A 评为 B”；第二个分句是主谓宾结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The American Dialect Society",
+    "role": "第一个分句的主语",
+    "zh": "美国方言学会"
+   },
+   {
+    "text": "made",
+    "role": "第一个分句的谓语（make A B，把 A 评为 B）",
+    "zh": "把……评为"
+   },
+   {
+    "text": "\"plutoed\",",
+    "role": "宾语",
+    "zh": "“plutoed”"
+   },
+   {
+    "text": "playful slang",
+    "role": "同位语（中心词 slang，playful 作定语），补充说明 plutoed",
+    "zh": "这个戏谑的俚语"
+   },
+   {
+    "text": "for \"to devalue\",",
+    "role": "后置定语（介词短语），修饰 slang，说明俚语的意思",
+    "zh": "意思是“贬低”"
+   },
+   {
+    "text": "its word of 2006,",
+    "role": "宾语补足语（its 指 The American Dialect Society 的）",
+    "zh": "2006年度词汇"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "New Mexico and Illinois lawmakers",
+    "role": "第二个分句的主语（两个州名并列作定语）",
+    "zh": "新墨西哥州和伊利诺伊州的立法者"
+   },
+   {
+    "text": "passed",
+    "role": "第二个分句的谓语",
+    "zh": "通过"
+   },
+   {
+    "text": "resolutions",
+    "role": "宾语",
+    "zh": "决议"
+   },
+   {
+    "text": "affirming that Pluto was a planet.",
+    "role": "后置定语（现在分词短语），修饰 resolutions；that 引导宾语从句作 affirming 的宾语",
+    "zh": "确认冥王星是行星"
+   }
+  ],
+  "structure": "①本句是 and 连接的并列句。\n②第一个分句：主语 The American Dialect Society，谓语 made，宾语 \"plutoed\"，宾语补足语 its word of 2006。made A B 意为“把 A 评为 B”（视频说明）。宾语和宾补之间插入了 playful slang for \"to devalue\"，它是同位语，补充说明 plutoed（视频说明），宾语和宾补因此被隔开，要越过同位语才能找到宾补 its word of 2006。its 指 The American Dialect Society 的。\n③同位语 playful slang for \"to devalue\" 中，playful 作 slang 的前置定语，介词短语 for \"to devalue\" 作后置定语，说明这个俚语的意思。\n④第二个分句：主语 New Mexico and Illinois lawmakers，两个州名并列作 lawmakers 的定语；谓语 passed，宾语 resolutions。affirming that Pluto was a planet 是现在分词短语作后置定语，修饰 resolutions（视频说明），相当于 resolutions which affirmed that Pluto was a planet；that 引导宾语从句作 affirming 的宾语，从句用 was，与主句的过去时一致。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语与宾语补足语被同位语隔开",
+    "explain": "make + 宾语 + 名词作宾补，表示“使……成为，把……评为”，如 make sb chairman。长难句中，宾语后常插入同位语或定语，把宾语和宾补隔开。本句 made \"plutoed\", playful slang for \"to devalue\", its word of 2006 中，\"plutoed\" 是宾语，两个逗号之间的 playful slang for \"to devalue\" 是同位语，its word of 2006 才是宾补。判断方法：看哪个名词短语能与宾语构成“是”的关系并补全 made 的意思（plutoed was its word of 2006）；插入成分去掉后，句子仍然完整。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee made Dr Lee, a specialist in tropical diseases, its new chair.",
+      "zh": "委员会任命热带病专家李博士为新任主席。"
+     },
+     {
+      "en": "Voters elected her, a former teacher with no political experience, mayor of the city.",
+      "zh": "选民选举这位毫无从政经验的前教师为市长。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示主动意义，相当于一个定语从句。本句 affirming that Pluto was a planet 修饰 resolutions，相当于 resolutions which affirmed that Pluto was a planet，决议与“确认”是主动关系。注意区分：分词短语紧跟在名词后、说明名词的内容时多作定语；用逗号与主句隔开、说明主语的动作时多作状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government received thousands of letters demanding stricter gun laws.",
+      "zh": "政府收到了数千封要求更严格控枪法律的信件。"
+     },
+     {
+      "en": "Scientists published a study showing that the glacier is melting faster than expected.",
+      "zh": "科学家发表了一项研究，表明这条冰川的融化速度比预想的更快。"
+     }
+    ]
+   },
+   {
+    "title": "地名作前置定语",
+    "explain": "地名、机构名等专有名词常直接放在名词前作定语，如 New York police、Oxford students。本句 New Mexico and Illinois lawmakers 中，两个州名并列，共同修饰 lawmakers，意为“新墨西哥州和伊利诺伊州的立法者”。翻译时一般加“的”，放在中心词前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "California voters approved the measure by a narrow margin.",
+      "zh": "加利福尼亚州选民以微弱优势批准了这项提案。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "The American Dialect Society",
+    "explain": "美国方言学会，成立于1889年，是研究北美英语及其方言的学术团体，从1990年起每年评选“年度词汇”（Word of the Year）。its word of 2006 即该学会评出的2006年度词汇。"
+   },
+   {
+    "term": "plutoed",
+    "explain": "由专名 Pluto 转作动词再加 -ed 构成的戏谑俚语，美国方言学会给它的释义是“降级或贬低某人某物”，就像冥王星被降级那样；文中用 to devalue（贬低）解释它。"
+   },
+   {
+    "term": "slang",
+    "explain": "名词，俚语，不可数，所以本句 playful slang 前没有冠词；一个俚语词说 a slang word 或 a slang term。playful 意为“戏谑的，开玩笑的”。"
+   },
+   {
+    "term": "New Mexico and Illinois",
+    "explain": "两州都与汤博有渊源：他出生于伊利诺伊州，后来长期在新墨西哥州生活和工作。"
+   },
+   {
+    "term": "pass a resolution",
+    "explain": "通过决议。resolution 在这里指议会、组织等的“正式决议”，不是“决心”。affirm 意为“确认，申明”，视频译为“确认”。"
+   }
+  ],
+  "translation_tip": "①第一个分句用“把”字句译出 made A B：“把‘plutoed’……评为2006年度词汇”，宾语提到动词前。②同位语 playful slang for \"to devalue\" 没有前置，而是拆成两个插入短语“这个戏谑的俚语”“意思是‘贬低’”，紧跟在“plutoed”后面，与原文语序一致；for 译成“意思是”。③its word of 2006 译为“2006年度词汇”，its 不译。④and 译为“而”；地名定语前置为“新墨西哥州和伊利诺伊州的”；现在分词短语 affirming that Pluto was a planet 拆成后置分句“确认冥王星是行星”，接在“通过决议”之后。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "an irony",
+   "predicate": "was",
+   "object_or_complement": "in transit（表语）",
+   "explain": "主系表结构，介词短语 in transit 作表语。系动词 was 为一般过去时；already 表示这一状态在当时早已存在。"
+  },
+  "components": [
+   {
+    "text": "Amid the controversy,",
+    "role": "状语（介词短语），交代背景",
+    "zh": "就在一片争议声中"
+   },
+   {
+    "text": "an irony",
+    "role": "主语",
+    "zh": "一件颇具讽刺意味的事"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 in transit 合译为“在途中”）"
+   },
+   {
+    "text": "already",
+    "role": "时间状语（副词）",
+    "zh": "早已"
+   },
+   {
+    "text": "in transit.",
+    "role": "表语（介词短语）",
+    "zh": "在途中"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 an irony，系动词 was，表语是介词短语 in transit，意为“在途中，在运送中”（视频说明）；already 是时间状语，放在系动词 was 之后。\n②句首 Amid the controversy 是介词短语作状语，交代背景：就在冥王星降级引发争议的时候。the controversy 概括上一段描述的批评、请愿和决议。\n③irony 指事情的发展与预期（或常理）完全相反，让人觉得荒诞、可笑又充满戏剧性的情况（视频说明）；an irony 是可数用法，指一件具体的、具有讽刺意味的事。\n④本句是过渡句，只说有一件讽刺的事“在途中”，没有说是什么，制造悬念；下一句揭晓：载有汤博骨灰的探测器此时已在飞往冥王星的路上。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词短语作表语",
+    "explain": "be + 介词短语可以表示主语所处的状态，介词短语作表语，如 be in danger（处于危险中）、be under way（正在进行）、be on display（在展出）、be out of control（失去控制）。本句 was already in transit 中，in transit 作表语，意为“在途中，在运送中”。这类结构简洁，考研阅读和写作中很常见，要按状态整体理解，不能逐词硬译。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules are already in force in most member states.",
+      "zh": "新规定已在大多数成员国生效。"
+     },
+     {
+      "en": "Several of the paintings were damaged while in transit to the exhibition.",
+      "zh": "有几幅画在运往展览的途中受损。"
+     }
+    ]
+   },
+   {
+    "title": "介词 amid",
+    "explain": "amid（也作 amidst）是书面语介词，意为“在……之中，在……的背景下”，后面常接表示事件或气氛的抽象名词，如 amid fears of a recession（在对经济衰退的担忧中）、amid growing criticism（在批评日益增多之际）。新闻报道常用 amid 交代事件背景，考研阅读的外刊原文中出现频率很高。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company's shares fell sharply amid concerns about its debt.",
+      "zh": "由于外界担心该公司的债务问题，其股价大幅下跌。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "irony",
+    "explain": "名词，视频说明：事情的发展与预期（或常理）完全相反，让人觉得荒诞、可笑又充满戏剧性的情况。作不可数名词时还指“反语，讽刺”；作可数名词指一件具有讽刺意味的事，如本句 an irony。常见句式 The irony is that...（讽刺的是……）；副词 ironically（具有讽刺意味的是）常作评注性状语。"
+   },
+   {
+    "term": "in transit",
+    "explain": "在途中，在运送中（视频说明），常用于货物、旅客，如 goods lost in transit（运输途中丢失的货物）。transit 作名词指“运输，通过”，public transit 在美式英语中指“公共交通”。"
+   },
+   {
+    "term": "controversy",
+    "explain": "名词，争议，争论，常见搭配 cause controversy、spark controversy（引发争议）；形容词 controversial（有争议的）。本句的 the controversy 指冥王星降级引发的争议，视频译为“争议”。"
+   }
+  ],
+  "translation_tip": "①Amid the controversy 译为“就在一片争议声中”，增补“就”“一片”和“声”，渲染争议四起的背景。②an irony 译为“一件颇具讽刺意味的事”，把抽象名词具体化为“……的事”，补出量词“件”，用“颇具”表示程度。③was already in transit 译为“早已在途中”，already 译为“早已”，强调这件事在争议发生之前就已开始；系动词 was 不单独译出。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "New Horizons",
+   "predicate": "was launched",
+   "object_or_complement": "",
+   "explain": "主谓结构，谓语 was launched 是一般过去时的被动语态，主语 New Horizons 是动作的承受者；句末现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "New Horizons",
+    "role": "主语（探测器名称）",
+    "zh": "新视野号"
+   },
+   {
+    "text": "was launched",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "被……发射"
+   },
+   {
+    "text": "on 19 January 2006,",
+    "role": "时间状语（介词短语）",
+    "zh": "于2006年1月19日"
+   },
+   {
+    "text": "seven months before the vote,",
+    "role": "时间状语，补充说明发射时间（名词短语 seven months 修饰 before the vote，表示时间差）",
+    "zh": "比那次表决早七个月"
+   },
+   {
+    "text": "carrying",
+    "role": "伴随状语（现在分词短语）中的分词，逻辑主语是 New Horizons",
+    "zh": "携带着"
+   },
+   {
+    "text": "a pinch of Tombaugh's ashes.",
+    "role": "carrying 的宾语（a pinch of 表示数量，Tombaugh's 是名词所有格）",
+    "zh": "一小撮汤博的骨灰"
+   }
+  ],
+  "structure": "①主句 New Horizons was launched 是一般过去时的被动语态，主语 New Horizons 是“被发射”的对象；on 19 January 2006 是时间状语。\n②seven months before the vote 补充说明发射的时间（视频说明）：名词短语 seven months 放在 before the vote 前，表示时间差，即“比那次表决早七个月”。the vote 指第8句国际天文学联合会的表决。\n③carrying a pinch of Tombaugh's ashes 是现在分词短语作伴随状语（视频说明），逻辑主语是 New Horizons，与 carry 是主动关系；a pinch of 意为“一小撮”（视频说明），Tombaugh's 是名词所有格。\n④本句揭晓上一句的悬念：讽刺之处在于，就在天文学家为冥王星的地位争论不休时，载着冥王星发现者骨灰的探测器早已踏上飞往冥王星的旅程。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语 + before/after 表示时间差",
+    "explain": "表示“早多长时间”“晚多长时间”时，把表示时间长度的名词短语放在 before、after、later、earlier 前面，如 two days before the election（选举前两天）、a week after the accident（事故发生一周后）、three years later。本句 seven months before the vote 意为“比那次表决早七个月”，seven months 说明 before 的程度。翻译时要把时间差译准，不能漏掉。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The bridge collapsed only two years after it was opened.",
+      "zh": "这座桥通车仅两年就倒塌了。"
+     },
+     {
+      "en": "She submitted her application a week before the deadline.",
+      "zh": "她在截止日期前一周提交了申请。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，可以表示与谓语动作同时发生或同时存在的情况，即伴随状语，逻辑主语一般是主句主语。本句 carrying a pinch of Tombaugh's ashes 的逻辑主语是 New Horizons，探测器发射时就携带着骨灰，与 carry 是主动关系，所以用现在分词。主句是被动语态并不影响分词形式的选择，关键看分词动作与逻辑主语的关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The ship left the harbour at dawn, carrying more than 2,000 tonnes of grain.",
+      "zh": "这艘船黎明时离港，载着2000多吨粮食。"
+     }
+    ]
+   },
+   {
+    "title": "一般过去时的被动语态",
+    "explain": "被动语态由 be + 过去分词构成，用于强调动作的承受者，或动作的执行者不言自明、无需说出的情况。本句 New Horizons was launched 强调探测器本身，发射方不必说出。新闻和科技文体中被动语态很常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The satellite was launched from a site in French Guiana.",
+      "zh": "这颗卫星从法属圭亚那的一处发射场发射升空。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "New Horizons",
+    "explain": "新视野号，NASA 的无人探测器，2006年1月19日从美国佛罗里达州卡纳维拉尔角发射，是第一个飞掠冥王星的探测器。它发射时冥王星还是行星，七个月后冥王星才被重新归类。"
+   },
+   {
+    "term": "Tombaugh's ashes",
+    "explain": "汤博于1997年去世，他的一部分骨灰随新视野号飞往冥王星。ashes 用复数表示“骨灰”，单数 ash 指“灰，灰烬”。"
+   },
+   {
+    "term": "a pinch of",
+    "explain": "一小撮（视频说明），指用拇指和食指捏起的量，常用于盐、调料等粉末状的东西，如 a pinch of salt。take sth with a pinch of salt（英式）意为“对……持保留态度”，美式说 with a grain of salt。"
+   },
+   {
+    "term": "launch",
+    "explain": "动词，发射（火箭、卫星、探测器等），视频译为“发射”；也可指“发起，推出”，如 launch a campaign、launch a new product。"
+   }
+  ],
+  "translation_tip": "①被动语态 was launched 译为“被发射”，时间状语 on 19 January 2006 放在动词后，译为“于2006年1月19日”，构成“被发射于……”的结构，与原文语序一致。②seven months before the vote 单独译成一个分句“比那次表决早七个月”，用比较句式把时间差说清楚；the vote 译为“那次表决”，回指上文。③伴随状语 carrying... 译为“携带着……”，“着”体现伴随；a pinch of 译为“一小撮”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "the unmanned craft",
+   "predicate": "flew",
+   "object_or_complement": "",
+   "explain": "主谓结构，fly 在此为不及物动词，past Pluto 是介词短语作状语。谓语 flew 是 fly 的过去式，一般过去时，主动语态；后面的现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "On 14 July 2015",
+    "role": "时间状语（介词短语）",
+    "zh": "2015年7月14日"
+   },
+   {
+    "text": "the unmanned craft",
+    "role": "主语（craft 指飞船，即新视野号）",
+    "zh": "这艘无人飞船"
+   },
+   {
+    "text": "flew",
+    "role": "谓语（不及物动词）",
+    "zh": "飞"
+   },
+   {
+    "text": "past Pluto,",
+    "role": "地点状语（介词短语，past 表示从旁经过）",
+    "zh": "掠过冥王星"
+   },
+   {
+    "text": "transmitting",
+    "role": "伴随状语（现在分词短语）中的分词，逻辑主语是 the unmanned craft",
+    "zh": "传回了"
+   },
+   {
+    "text": "images",
+    "role": "transmitting 的宾语",
+    "zh": "图像"
+   },
+   {
+    "text": "of an enormous heart-shaped plain,",
+    "role": "后置定语（介词短语），修饰 images",
+    "zh": "图像上是一片巨大的心形平原"
+   },
+   {
+    "text": "fittingly named Tombaugh Regio.",
+    "role": "后置定语（过去分词短语），修饰 plain；fittingly 修饰 named",
+    "zh": "这片平原恰如其分地被命名为汤博区"
+   }
+  ],
+  "structure": "①主句 the unmanned craft flew past Pluto 是主谓结构：主语 the unmanned craft，谓语 flew，past Pluto 是介词短语作地点状语，past 表示“从旁经过”；句首 On 14 July 2015 是时间状语。craft 指飞行器，这里指飞船（视频说明），即新视野号。\n②transmitting images of an enormous heart-shaped plain 是现在分词短语作伴随状语（视频说明），逻辑主语是 the unmanned craft；images 是 transmitting 的宾语，of 引导的介词短语作后置定语，修饰 images（视频说明），说明图像的内容。\n③fittingly named Tombaugh Regio 是过去分词短语作后置定语，修饰 plain（视频说明），不是修饰 images；fittingly 是副词，修饰 named，表示作者认为这个命名十分恰当。Tombaugh Regio 意为“汤博区”（视频说明）。\n④an enormous heart-shaped plain 中，plain 前有两个定语：enormous 表示大小，heart-shaped 表示形状。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "多层后置修饰语的修饰对象",
+    "explain": "名词后面可以连续出现几个后置修饰语，每一个通常修饰离它最近、意思上相符的名词。本句 images of an enormous heart-shaped plain, fittingly named Tombaugh Regio 中，of an enormous heart-shaped plain 修饰 images，fittingly named Tombaugh Regio 修饰 plain：被命名为“汤博区”的是平原，不是图像。考研长难句中，判断后置修饰语修饰谁，要结合就近原则和语义逻辑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The exhibition features drawings of a medieval castle, later destroyed in a fire.",
+      "zh": "展览展出了一座中世纪城堡的素描，这座城堡后来毁于一场大火。"
+     },
+     {
+      "en": "Researchers examined photographs of a remote valley, long used by local herders as a winter pasture.",
+      "zh": "研究人员查看了一处偏远山谷的照片，这处山谷长期被当地牧民用作冬季牧场。"
+     }
+    ]
+   },
+   {
+    "title": "评注性副词 fittingly",
+    "explain": "fittingly、ironically、unsurprisingly、appropriately 等副词可以表达说话人对事实的评价。放在句首并用逗号隔开时修饰全句，如 Fittingly, the award went to her；放在分词或形容词前时修饰这个词，如本句 fittingly named Tombaugh Regio。fittingly 意为“恰如其分地，恰当地”，表明以发现者汤博的名字命名这片区域十分合适。考研阅读中，这类副词直接透露作者态度，是态度题的重要线索。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fittingly, the new library was named after the town's first teacher.",
+      "zh": "恰如其分的是，新图书馆以镇上第一位教师的名字命名。"
+     }
+    ]
+   },
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有几个形容词作定语时，一般按“观点、大小、新旧、形状、颜色、来源、材料、用途”的顺序排列，与中心词关系越密切的越靠近中心词。本句 an enormous heart-shaped plain 中，enormous 表示大小，heart-shaped 表示形状，大小在前、形状在后。heart-shaped 是“名词 + 过去分词”构成的复合形容词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She bought a small round wooden table for the kitchen.",
+      "zh": "她为厨房买了一张小圆木桌。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "craft",
+    "explain": "名词，飞行器、船只，这里指飞船（视频说明）；作此义时单复数同形，如 two craft。常见复合词有 aircraft（飞机）、spacecraft（航天器）、hovercraft（气垫船）。craft 还有“手艺，工艺”的常用义。"
+   },
+   {
+    "term": "unmanned",
+    "explain": "形容词，无人的，无人驾驶的，如 an unmanned aircraft，视频译为“无人”；近年来航天报道也常用不涉及性别的 uncrewed。"
+   },
+   {
+    "term": "Tombaugh Regio",
+    "explain": "汤博区，冥王星表面的心形区域，以发现者汤博的名字命名。Regio 是拉丁语，意为“区域”，行星地名中用来指一片广大的区域。"
+   },
+   {
+    "term": "fly past",
+    "explain": "飞掠过。探测器从天体旁飞过，而不环绕它运行或在上面着陆，称为飞掠（flyby）。新视野号飞掠冥王星后，继续飞向更远的柯伊伯带。"
+   },
+   {
+    "term": "transmit",
+    "explain": "动词，传输，发送（信号、数据等），视频译为“传回了”，“回”体现图像从冥王星附近发回地球的方向。"
+   }
+  ],
+  "translation_tip": "①句子较长，视频按英文语序拆成四个小句：“这艘无人飞船飞掠过冥王星”“传回了图像”“图像上是一片巨大的心形平原”“这片平原恰如其分地被命名为汤博区”。②伴随状语 transmitting images 译为“传回了图像”；后置定语 of an enormous heart-shaped plain 没有前置，而是重复“图像”，译成“图像上是一片巨大的心形平原”。③过去分词短语 fittingly named Tombaugh Regio 同样后置，重复“这片平原”作主语，点明修饰对象是平原，被动意义译为“被命名为”。④flew past 译为“飞掠过”，the unmanned craft 译为“这艘无人飞船”，补出量词“艘”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The discoverer's ashes",
+   "predicate": "swept past",
+   "object_or_complement": "the heart（介词 past 的宾语，swept past 合起来相当于及物的“掠过”）",
+   "explain": "主谓结构，sweep 在此为不及物动词，past 是介词，swept past 整体意为“掠过”。谓语 swept 是 sweep 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The discoverer's",
+    "role": "定语（名词所有格），the discoverer 指汤博",
+    "zh": "这位发现者的"
+   },
+   {
+    "text": "ashes",
+    "role": "主语（复数形式表示“骨灰”）",
+    "zh": "骨灰"
+   },
+   {
+    "text": "swept past",
+    "role": "谓语（sweep 加介词 past，意为“掠过”）",
+    "zh": "掠过了"
+   },
+   {
+    "text": "the heart",
+    "role": "介词 past 的宾语（指上句的心形平原）",
+    "zh": "那颗……心"
+   },
+   {
+    "text": "that bears his name.",
+    "role": "限制性定语从句，修饰 the heart（that 在从句中作主语）",
+    "zh": "以他命名的"
+   }
+  ],
+  "structure": "①本句主干是 The discoverer's ashes swept past the heart：主语 The discoverer's ashes，谓语 swept，past 是介词，the heart 是 past 的宾语；swept past 合起来意为“掠过”。\n②The discoverer's 是名词所有格作定语，the discoverer 指汤博。\n③that bears his name 是限制性定语从句，修饰 the heart（视频说明），that 在从句中作主语；bear one's name 意为“以某人的名字命名”（视频说明），his 指汤博。the heart 回指上句的心形平原汤博区。\n④从句用一般现在时 bears，主句用一般过去时 swept：飞掠是2015年的事，而这片区域以汤博命名是现在仍然成立的事实。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "定语从句的时态不必与主句一致",
+    "explain": "定语从句的时态由从句所说的时间决定，不必与主句保持一致。主句叙述过去的事件，定语从句说的若是现在仍然成立的事实，可以用一般现在时。本句主句 swept 是一般过去时，从句 that bears his name 用一般现在时，因为这片区域至今仍以汤博命名。宾语从句通常要与主句时态呼应（如第13句 affirming that Pluto was a planet），定语从句没有这一要求。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Yesterday I met a woman who teaches at the local university.",
+      "zh": "昨天我遇到了一位在本地大学任教的女士。"
+     },
+     {
+      "en": "The ship sank near an island that is now a protected marine reserve.",
+      "zh": "那艘船在一座岛屿附近沉没，这座岛现在是海洋保护区。"
+     }
+    ]
+   },
+   {
+    "title": "bear 的熟词僻义",
+    "explain": "bear 常见义是“忍受”和名词“熊”，作及物动词还可表示“带有，具有（名字、标记、痕迹、签名等）”，如 bear a signature（带有签名）、bear the scars（留有伤疤）、bear a resemblance to（与……相似）。bear one's name 意为“以某人的名字命名”（视频说明），本句 the heart that bears his name 即“以他命名的心”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The letter bore the seal of the royal court.",
+      "zh": "这封信上盖有皇家宫廷的印章。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与回指",
+    "explain": "名词所有格 's 表示所属关系，多用于人和动物，如 The discoverer's ashes（这位发现者的骨灰），第15句的 Tombaugh's ashes 也是如此。本句用 The discoverer 回指汤博，不重复人名，突出他“发现者”的身份，与 the heart that bears his name 前后呼应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The author's latest novel has been translated into twenty languages.",
+      "zh": "这位作家的最新小说已被译成20种语言。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sweep past",
+    "explain": "掠过，从旁迅速经过，视频译为“掠过了”。sweep 本义是“扫，打扫”，引申为“迅速移动，席卷”，如 A storm swept across the region（暴风雨席卷该地区）。sweep 是不规则动词，过去式和过去分词都是 swept。"
+   },
+   {
+    "term": "the heart",
+    "explain": "回指上句的心形平原汤博区。全文以汤博发现冥王星开篇，以他的骨灰掠过以他命名的“心”结尾，首尾呼应；用 heart 指这片区域，使结尾带有温情。"
+   },
+   {
+    "term": "discoverer",
+    "explain": "由动词 discover 加表示人的后缀 -er 构成，意为“发现者”，本句指汤博，视频译为“这位发现者”。"
+   }
+  ],
+  "translation_tip": "①The discoverer's 译为“这位发现者的”，The 译为“这位”。②swept past 译为“掠过了”，“了”表示动作已经完成。③限制性定语从句 that bears his name 前置为“以他命名的”，修饰“心”；the heart 译为“那颗……心”，“那”回指上句的心形平原，并补出量词“颗”。"
+ }
+]

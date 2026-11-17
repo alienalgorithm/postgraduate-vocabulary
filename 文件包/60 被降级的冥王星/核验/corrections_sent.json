@@ -1,0 +1,30 @@
+[
+ {
+  "key": "n=2",
+  "field": "grammar[0].explain",
+  "before": "同类结构还有 a five-minute walk、a ten-mile race、a two-week holiday。",
+  "after": "同样遵循“名词用单数”规则的“数词 + 名词”复合形容词还有 a five-minute walk、a ten-mile race、a two-week holiday。",
+  "reason": "five-minute 等是“数词 + 名词”结构，没有形容词，原文称“同类结构”不准确，改为说明其共同点是名词用单数。"
+ },
+ {
+  "key": "n=6",
+  "field": "grammar[0].explain",
+  "before": "本文对厄里斯的称呼依次是 a far-off body（第4句）、Eris、it（第5句）、The contender（本句）",
+  "after": "本文对厄里斯的称呼依次是 a far-off body 和 Eris（第4句）、it（第5句）、The contender（本句）",
+  "reason": "Eris 出现在第4句（later named Eris），原写法容易被读成第5句。"
+ },
+ {
+  "key": "n=7",
+  "field": "grammar[0].explain",
+  "before": "考研完形中，看到 by then、until then、hitherto、previously 等表示“到过去某时为止”的词，谓语常用过去完成时。",
+  "after": "考研完形中，看到 by then、by the end of + 过去时间、until then 等表示“到过去某时为止”的词，谓语常用过去完成时；hitherto 指“到所说的那个时候为止”，叙述过去时常与过去完成时连用，以现在为参照时则与现在完成时连用，如 a problem that has hitherto been ignored。",
+  "reason": "previously 常与一般过去时连用，hitherto 也可与现在完成时连用，原说法把它们一律归为过去完成时的标志词，不准确。"
+ },
+ {
+  "key": "n=10",
+  "field": "structure",
+  "before": "谓语 had moved 是过去完成时，表示界线的移动在此之前（2006年的表决）已经完成。",
+  "after": "谓语 had moved 是过去完成时，表示到冥王星被重新归类时，界线已经移动，即2006年的表决已经改变了行星的定义。",
+  "reason": "原句“在此之前（2006年的表决）已经完成”易被理解为界线在表决之前就已移动，与事实不符；界线正是由这次表决移动的。"
+ }
+]

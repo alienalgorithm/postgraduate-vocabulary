@@ -1,0 +1,44 @@
+[
+ {
+  "key": "id=1",
+  "field": "related[photographically].zh",
+  "before": "用照相方法地",
+  "after": "用照相的方法；（记忆）照相般精确地",
+  "reason": "原释义“用照相方法地”不通顺，改为规范释义。"
+ },
+ {
+  "key": "id=4",
+  "field": "etymology",
+  "before": "“使变暗，变暗”的动词用法在中古英语中出现。",
+  "after": "动词用法古英语中已有（dimmian，变暗），“使变暗”的及物用法约在1300年前后出现。",
+  "reason": "据 Etymonline，不及物动词 dimmian 古英语已有，及物义约1300年出现，原说法“中古英语中出现”不准确。"
+ },
+ {
+  "key": "id=8",
+  "field": "etymology",
+  "before": "由 under（在下面）和 world（世界）构成，17世纪起使用，字面意思是“下面的世界”，指神话中位于地下的亡者世界；20世纪初引申出“黑社会，犯罪团伙”的意思。",
+  "after": "由 under（在下面）和 world（世界）构成，约1600年出现时指与天界相对的人间，17世纪末起指神话中位于地下的亡者世界，即“冥界”；约1900年引申出“黑社会，犯罪团伙”的意思。",
+  "reason": "据 Etymonline，underworld 约1600年最早指“人间”，“冥界”义始于17世纪90年代，“黑社会”义始于1900年，原写法把最早意思写成冥界。"
+ },
+ {
+  "key": "id=18",
+  "field": "related",
+  "before": "[{\"en\": \"hither\", \"pos\": \"adv.\", \"zh\": \"到这里\"}, {\"en\": \"thither\", \"pos\": \"adv.\", \"zh\": \"到那里\"}, {\"en\": \"heretofore\", \"pos\": \"adv.\", \"zh\": \"迄今，此前\"}]",
+  "after": "[{\"en\": \"hither\", \"pos\": \"adv.\", \"zh\": \"到这里\"}, {\"en\": \"thither\", \"pos\": \"adv.\", \"zh\": \"到那里（与 hither 成对使用，hither and thither 意为“到处”）\"}]",
+  "reason": "heretofore 由 here + to + fore 构成，与 hitherto 不同根，只是同义词，移到辨析中说明。"
+ },
+ {
+  "key": "id=18",
+  "field": "distinction",
+  "before": "hitherto、so far 与 previously：so far 口语常用，指到现在为止，多与现在完成时连用；previously 意为“以前，先前”，较中性；hitherto 最正式，强调到某个时间点为止的状态，参照点可以是现在，也可以是过去。",
+  "after": "hitherto、so far 与 previously：so far 口语常用，指到现在为止，多与现在完成时连用；previously 意为“以前，先前”，较中性；hitherto 最正式，强调到某个时间点为止的状态，参照点可以是现在，也可以是过去。heretofore 与 hitherto 同义，更正式，多见于法律文书。",
+  "reason": "补充同义词 heretofore 的说明（从 related 移来）。"
+ },
+ {
+  "key": "id=25",
+  "field": "usage_detail",
+  "before": "revolve 是不及物动词，后接 around（英式也用 round）引出中心。本义用于天体运行，比喻义“以……为中心”在考研阅读中更常见，如 The debate revolves around funding（争论的焦点是资金）、Her life revolves around her work。revolve 是不及物动词，没有被动语态，不能说 be revolved around。",
+  "after": "revolve 表示“绕……运行”时是不及物动词，后接 around（英式也用 round）引出中心。本义用于天体运行，比喻义“以……为中心”在考研阅读中更常见，如 The debate revolves around funding（争论的焦点是资金）、Her life revolves around her work。revolve around 这一短语没有被动语态，不能说 be revolved around；revolve 偶尔也作及物动词，表示“使旋转”。",
+  "reason": "revolve 在词典中也有及物用法（使旋转），原文说它是不及物动词、没有被动语态过于绝对；删去重复句，改为只针对 revolve around 短语。"
+ }
+]
