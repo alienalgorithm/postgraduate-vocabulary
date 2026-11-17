@@ -1,0 +1,33 @@
+name: Publish 考研学人 full materials and shop images (2026-11-17)
+on:
+  push:
+    branches: [claude/release-kaoyan-full-20261117]
+    paths: [.github/kaoyan-full-20261117/RELEASE-MANIFEST.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: kaoyan-full-20261117
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.repository == 'alienalgorithm/postgraduate-vocabulary'
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/kaoyan-full-20261117
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -u .github/kaoyan-full-20261117/publish.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: kaoyan-full-receipt-${{ github.run_id }}
+          path: release-output/RELEASE-VERIFICATION.json
+          if-no-files-found: warn
