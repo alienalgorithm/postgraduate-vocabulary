@@ -1,0 +1,51 @@
+[
+ {
+  "key": "n=1",
+  "field": "grammar.1.explain",
+  "before": "could have done 则表示过去本来可能发生而实际没有发生。",
+  "after": "could have done 则用于过去：既可表示对过去情况的推测（当时可能已经……），也可表示过去本来可能发生而实际没有发生。",
+  "reason": "could have done 不只表示“过去本可以而实际没有”，还常表示对过去情况的推测，原说法以偏概全"
+ },
+ {
+  "key": "n=2",
+  "field": "knowledge.3.explain",
+  "before": "本文用英式拼写，与 reservoirs、litres 等拼写一致。",
+  "after": "本文用英式拼写，与 litres、neighbours、meagre 等拼写一致。",
+  "reason": "reservoirs 英美拼写相同，不能作为英式拼写的例证；改举文中真正的英式拼写 litres、neighbours、meagre"
+ },
+ {
+  "key": "n=6",
+  "field": "components.3.role",
+  "before": "状语（副词，修饰 a fifth full，表示约数）",
+  "after": "状语（副词，修饰 a fifth，表示约数）",
+  "reason": "roughly 修饰的是分数 a fifth（约五分之一），a fifth 再修饰 full；与本句 grammar 中“roughly 又修饰 a fifth”的分析统一"
+ },
+ {
+  "key": "n=6",
+  "field": "structure",
+  "before": "roughly 修饰 a fifth full，表示“大约”。",
+  "after": "roughly 修饰 a fifth，表示“大约五分之一”。",
+  "reason": "同上，roughly 修饰的是 a fifth，前后分析保持一致"
+ },
+ {
+  "key": "n=16",
+  "field": "grammar.0.explain",
+  "before": "同样的意思放在名词后或作表语时，名词要用复数，且不用连字符，如 The trip lasted three weeks、The boy is ten years old。",
+  "after": "同样的意思放在名词后或作表语时，名词要用复数，且不用连字符，如 a trip of three weeks、The boy is ten years old。",
+  "reason": "The trip lasted three weeks 中 three weeks 是时间状语，既不是后置定语也不是表语，例子与规则不符；改为后置定语的例子 a trip of three weeks"
+ },
+ {
+  "key": "n=18",
+  "field": "knowledge.1.explain",
+  "before": "该词借自南非荷兰语（阿非利卡语），字面意思是“分离”。",
+  "after": "该词借自南非荷兰语（阿非利卡语），字面意思是“分离状态”（apart 分开的 + 表示状态的后缀 -heid）。",
+  "reason": "Etymonline 释为 literally 'separateness'，由 apart + 名词后缀 -heid 构成，补准字面义和构词"
+ },
+ {
+  "key": "n=20",
+  "field": "knowledge.2.explain",
+  "before": "at the sacrifice of sth（以牺牲……为代价）",
+  "after": "at great personal sacrifice（付出巨大的个人牺牲）",
+  "reason": "at the sacrifice of 不是权威词典收录的常见搭配（常用 at the expense/cost of）；改用 Oxford 收录的 at great personal sacrifice"
+ }
+]

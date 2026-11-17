@@ -1,0 +1,63 @@
+[
+ {
+  "key": "id=6",
+  "field": "usage_detail",
+  "before": "拼写要注意：中间只有一个 h，是 thresh + old，不是 threshhold。",
+  "after": "拼写要注意：中间只有一个 h，可以按 thresh-old 记拼写（这只是记忆方法，第二部分并非 old），不要写成 threshhold。",
+  "reason": "原说法“是 thresh + old”容易被当成构词，与词源中“第二部分来源说法不一”矛盾，改为明确仅是拼写记忆法"
+ },
+ {
+  "key": "id=10",
+  "field": "example.zh",
+  "before": "居民们被建议把自来水煮沸至少一分钟后再饮用。",
+  "after": "有关部门建议居民把自来水煮沸至少一分钟后再饮用。",
+  "reason": "“居民们被建议”是欧化被动句，不通顺，改为汉语习惯的主动表达"
+ },
+ {
+  "key": "id=13",
+  "field": "etymology",
+  "before": "由 de-（加强）+ signare（做记号）构成",
+  "after": "由 de-（出，向外）+ signare（做记号）构成，字面义“标出”",
+  "reason": "Etymonline 将 designare 中的 de- 释为 out（向外），字面义 mark out，不是加强义"
+ },
+ {
+  "key": "id=13",
+  "field": "collocations.3",
+  "before": {
+   "en": "the president designate",
+   "zh": "候任总统"
+  },
+  "after": {
+   "en": "the director designate",
+   "zh": "候任主任"
+  },
+  "reason": "当选未就职的总统英语通常说 president-elect，designate 多用于被任命而未就职者，Oxford 例为 the Director designate"
+ },
+ {
+  "key": "id=19",
+  "field": "collocations.3",
+  "before": {
+   "en": "a sprawling metropolis",
+   "zh": "不断向外扩张的大都市"
+  },
+  "after": {
+   "en": "a major metropolitan area",
+   "zh": "主要大都市区"
+  },
+  "reason": "a sprawling metropolis 是 metropolis 的搭配，不是 metropolitan area 的搭配，改为本词组的常见搭配"
+ },
+ {
+  "key": "id=20",
+  "field": "etymology",
+  "before": "约15世纪进入英语，可能借自中古荷兰语或中古低地德语 dam",
+  "after": "14世纪初进入英语，可能借自中古荷兰语或中古低地德语 dam",
+  "reason": "Etymonline 记 dam（水坝）始见于14世纪初（early 14c.），不是15世纪"
+ },
+ {
+  "key": "id=21",
+  "field": "context_usage",
+  "before": "roughly 修饰表语 a fifth full，表示约数",
+  "after": "roughly 修饰表语中的分数 a fifth，表示约数",
+  "reason": "roughly 修饰的是 a fifth，与逐句精讲第6句的分析统一"
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "key": "id=40",
+  "field": "example.zh",
+  "before": "学校被鼓励以其他地区同类学校的成绩为基准来衡量自己的成绩。",
+  "after": "当局鼓励各校以其他地区同类学校的成绩为基准，衡量自己的成绩。",
+  "reason": "“学校被鼓励”是欧化被动句，不通顺，改为汉语习惯的主动表达"
+ },
+ {
+  "key": "id=41",
+  "field": "related.1",
+  "before": {
+   "en": "halves",
+   "pos": "n.",
+   "zh": "half 的复数"
+  },
+  "after": {
+   "en": "halfway",
+   "pos": "adv./adj.",
+   "zh": "在中途；部分的"
+  },
+  "reason": "halves 只是 half 的复数屈折形式，不是派生词或同根词，换成真实存在的同根词 halfway"
+ },
+ {
+  "key": "id=54",
+  "field": "usage_detail",
+  "before": "读音要注意：结尾的 heid 读 /taɪt/（英式也读 /teɪt/），其中的 h 不发音。",
+  "after": "读音要注意：结尾的 -theid 读 /taɪt/（Oxford 也收 /teɪt/ 的读法），其中的 h 不发音。",
+  "reason": "/taɪt/ 中的 t 来自 apart，heid 本身不读 /taɪt/；Oxford 英美音都收 /teɪt/，并非只有英式"
+ },
+ {
+  "key": "id=57",
+  "field": "senses.3",
+  "before": {
+   "pos": "v.",
+   "zh": "浸泡（steep sth in sth）"
+  },
+  "after": {
+   "pos": "v.",
+   "zh": "浸泡（steep sth in sth；与形容词 steep 为同形异源词）"
+  },
+  "reason": "动词 steep（浸泡）来自古诺尔斯语，与形容词 steep 不同源，词典分列词条，须注明以免与本条词源混淆"
+ },
+ {
+  "key": "id=57",
+  "field": "usage_detail",
+  "before": "动词 steep 意为“浸泡”，be steeped in sth",
+  "after": "动词 steep 意为“浸泡”，与形容词 steep 词源不同，be steeped in sth",
+  "reason": "同上，注明同形异源"
+ },
+ {
+  "key": "id=59",
+  "field": "etymology",
+  "before": "约1600年出现，可能来自更早的 squise，或与古英语 cwȳsan（挤压）有关，确切来源不详。",
+  "after": "确切来源不详，可能是更早的 squise 的变体，或与古英语 cwȳsan（挤压）有关。",
+  "reason": "各权威词典对 squeeze 的始见年代记载不一（Etymonline 与 Merriam-Webster 不同），“约1600年”无法确证，删去具体年代"
+ },
+ {
+  "key": "id=60",
+  "field": "etymology",
+  "before": "alarm 来自意大利语 all'arme（拿起武器）",
+  "after": "alarm 经古法语 alarme 来自意大利语 all'arme（拿起武器）",
+  "reason": "Etymonline：alarm 经古法语 alarme 借入，并非直接来自意大利语，补全传播路径"
+ },
+ {
+  "key": "id=61",
+  "field": "related.1",
+  "before": {
+   "en": "chancellor",
+   "pos": "n.",
+   "zh": "大臣；（大学）名誉校长（同源于拉丁语 cancelli）"
+  },
+  "after": {
+   "en": "chancellor",
+   "pos": "n.",
+   "zh": "（德国等国的）总理；（英国）财政大臣；（大学）名誉校长（同源于拉丁语 cancelli）"
+  },
+  "reason": "chancellor 释为“大臣”过泛且不准，补出常用的具体义项"
+ },
+ {
+  "key": "id=63",
+  "field": "collocations.1",
+  "before": {
+   "en": "at the sacrifice of sth",
+   "zh": "以牺牲……为代价"
+  },
+  "after": {
+   "en": "at great personal sacrifice",
+   "zh": "付出巨大的个人牺牲"
+  },
+  "reason": "at the sacrifice of 不是权威词典收录的常见搭配（常用 at the expense/cost of）；改用 Oxford 收录的 at great personal sacrifice"
+ }
+]

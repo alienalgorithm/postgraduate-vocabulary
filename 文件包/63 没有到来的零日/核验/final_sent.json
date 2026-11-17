@@ -1,0 +1,1858 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Cape Town",
+   "predicate": "issued",
+   "object_or_complement": "a stark alert",
+   "explain": "主干是 Cape Town issued a stark alert，主谓宾结构。谓语 issued 为一般过去时，主动语态。冒号后的 Day Zero could arrive in April 是一个完整的句子，补充说明警报的内容。"
+  },
+  "components": [
+   {
+    "text": "In January 2018,",
+    "role": "时间状语（介词短语）",
+    "zh": "2018年1月"
+   },
+   {
+    "text": "Cape Town",
+    "role": "主语（城市名，在此指开普敦市政当局）",
+    "zh": "开普敦"
+   },
+   {
+    "text": "issued",
+    "role": "谓语",
+    "zh": "发出了"
+   },
+   {
+    "text": "a stark alert:",
+    "role": "宾语（stark 作前置定语）；冒号引出对 alert 内容的说明",
+    "zh": "一则严峻的警报"
+   },
+   {
+    "text": "Day Zero",
+    "role": "冒号后补充说明部分的主语（专有名词）",
+    "zh": "零日"
+   },
+   {
+    "text": "could arrive",
+    "role": "冒号后补充说明部分的谓语（情态动词 could 表示可能性）",
+    "zh": "可能……到来"
+   },
+   {
+    "text": "in April.",
+    "role": "时间状语（介词短语）",
+    "zh": "在4月"
+   }
+  ],
+  "structure": "①主句是 Cape Town issued a stark alert：主语 Cape Town，谓语 issued，宾语 a stark alert。城市名作主语，实际指发布警报的开普敦市政当局。\n②冒号后的 Day Zero could arrive in April 是一个完整的句子，用来补充说明 alert 的具体内容（视频说明：冒号后补充说明 alert 的内容）。冒号在这里起解释作用，相当于“即，也就是”。\n③could arrive 中的 could 表示可能性，说的是2018年1月当时对未来的预测，并不是说零日已经到来；全文后面正是围绕“零日会不会来、何时来”展开的。\n④Day Zero 是专有名词，首字母大写，第一次出现时没有解释，下一句 The term denoted… 和第3句才交代它的含义：水库水位降到临界线、大部分自来水被停供的那一天。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号可以引出对前面某个词或整句的解释、说明或具体内容，后面既可以是名词短语，也可以是完整的句子。本句冒号后的 Day Zero could arrive in April 说明 a stark alert 的内容，功能类似同位语。阅读时冒号后的内容往往是对前文的具体化，考研阅读中常常是细节题的答案所在；翻译时冒号可以保留，也可以根据语境改用“即”“称”等词衔接。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report delivered a blunt message: the economy was slowing faster than expected.",
+      "zh": "这份报告传达了一个直截了当的信息：经济放缓的速度超出预期。"
+     }
+    ]
+   },
+   {
+    "title": "情态动词 could 表示可能性",
+    "explain": "could + 动词原形 可以表示某事有可能发生，语气比 can 委婉，把握也较小；can 多表示一般的、理论上的可能性。本句叙述过去的事，could arrive 表示当时预计零日“可能”在4月到来，是推测而不是确定的事实。考研阅读中 could、may、might 引出的是可能性，做细节题时不能把它们当成已经发生的事；could have done 则用于过去：既可表示对过去情况的推测（当时可能已经……），也可表示过去本来可能发生而实际没有发生。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Forecasters warned that the heatwave could last well into September.",
+      "zh": "气象预报员警告说，这次热浪可能会一直持续到9月。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Cape Town",
+    "explain": "开普敦，南非城市，位于南非西南端，是西开普省（Western Cape）的首府，也是南非的立法首都（议会所在地）。本句以城市名作主语，指市政当局发出警报。"
+   },
+   {
+    "term": "Day Zero",
+    "explain": "本文中指开普敦供水危机中预估的“断水日”，视频译为“零日”。按第2、3句的说明，水库存水降到库容的13.5%时即到达这一天，届时大部分水龙头将被关闭，居民要到指定取水点排队取水。"
+   },
+   {
+    "term": "issue an alert",
+    "explain": "发出警报。issue 作动词表示正式发出、发布，常见搭配有 issue a warning（发出警告）、issue a statement（发表声明）、issue a ban（颁布禁令）。视频译为“发出了”。"
+   },
+   {
+    "term": "a stark alert",
+    "explain": "一则严峻的警报。stark 形容警告、提醒、对比等时，表示“严峻的，赤裸裸的，鲜明的”，常见搭配有 a stark warning、a stark reminder、a stark contrast（鲜明的对比）。"
+   }
+  ],
+  "translation_tip": "视频译文“2018年1月，开普敦发出了一则严峻的警报，称零日可能在4月到来。”的处理：①时间状语 In January 2018 保留在句首，译为“2018年1月”。②a stark alert 中不定冠词 a 译为量词“一则”，stark 译为“严峻的”放在名词前。③冒号改为逗号，并增补“称”，把冒号后的内容处理成警报所说的话，与“发出了一则……警报”自然衔接。④could arrive in April 中时间状语前移，译为“可能在4月到来”，could 译为“可能”，保留推测语气。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "The term",
+   "predicate": "denoted",
+   "object_or_complement": "a grim threshold",
+   "explain": "主干是 The term denoted a grim threshold，主谓宾结构。谓语 denoted 为一般过去时，主动语态。逗号后的 reached when… 是过去分词短语，作 threshold 的后置定语。"
+  },
+  "components": [
+   {
+    "text": "The term",
+    "role": "主语（回指上句的 Day Zero）",
+    "zh": "这个词"
+   },
+   {
+    "text": "denoted",
+    "role": "谓语",
+    "zh": "指的是"
+   },
+   {
+    "text": "a grim threshold,",
+    "role": "宾语（grim 作前置定语）",
+    "zh": "一道严酷的门槛"
+   },
+   {
+    "text": "reached",
+    "role": "后置定语（过去分词短语的核心），修饰 threshold；后面的 when 从句作它的时间状语",
+    "zh": "即……达到的门槛"
+   },
+   {
+    "text": "when water in the city's reservoirs,",
+    "role": "时间状语从句（when 引导），修饰 reached；本段为引导词和从句主语 water 及其后置定语 in the city's reservoirs",
+    "zh": "当该市水库的存水"
+   },
+   {
+    "text": "as a percentage of capacity,",
+    "role": "插入语（介词短语），说明水量的计算方式",
+    "zh": "按占水库容量的百分比"
+   },
+   {
+    "text": "fell to 13.5 per cent.",
+    "role": "时间状语从句的谓语部分（to 表示降到的数值）",
+    "zh": "降至13.5%"
+   }
+  ],
+  "structure": "①主句是 The term denoted a grim threshold：The term 回指上句的 Day Zero，denoted 意为“指的是”，宾语 a grim threshold 是“一道严酷的门槛”。\n②reached when… 是过去分词短语作后置定语，修饰 threshold（视频说明），相当于定语从句 which was reached when…。threshold 与 reach 是动宾关系，门槛是“被达到”的一方，所以用过去分词。短语前有逗号，是对 threshold 的补充说明。\n③when 引导时间状语从句，修饰 reached，说明这道门槛在什么情况下达到。从句主语是 water，in the city's reservoirs 作后置定语，说明是该市水库里的水；谓语是 fell（fall 的过去式，不及物），to 13.5 per cent 表示降到的数值。\n④as a percentage of capacity 是插入语（视频说明），夹在从句主语和谓语之间，用逗号隔开，说明 13.5 per cent 是以“占库容的百分比”计算的，即水库存水只剩总库容的13.5%，而不是某个绝对水量。阅读时可以先跳过插入语，读出 water… fell to 13.5 per cent 这一主干。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语（内含状语从句）",
+    "explain": "过去分词短语可以放在名词后作定语，表示被动或完成，相当于一个定语从句。过去分词后面还可以带自己的状语，甚至是一个完整的状语从句。本句 reached when water… fell to 13.5 per cent 修饰 threshold，when 从句是 reached 的时间状语，整个结构相当于 which was reached when…。考研长难句中，名词后面先出现过去分词、再接从句时，要先确定过去分词修饰哪个名词，再看从句修饰的是过去分词还是主句谓语：本句的 when 从句说明门槛何时“被达到”，修饰的是 reached，而不是主句的 denoted。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The project had to meet a deadline set when the funding was first approved.",
+      "zh": "这个项目必须赶上资金首次获批时定下的最后期限。"
+     },
+     {
+      "en": "Investors were nervous about a price level last seen when the financial crisis began.",
+      "zh": "投资者对这一价格水平感到紧张，上一次出现这样的价格还是在金融危机爆发时。"
+     }
+    ]
+   },
+   {
+    "title": "插入语",
+    "explain": "插入语是插在句子中间、对句子某部分加以补充说明的词、短语或分句，前后通常用逗号隔开，去掉后句子结构仍然完整。本句 as a percentage of capacity 插在从句主语 water… 和谓语 fell 之间，说明百分比的计算基础。插入语会把主语和谓语隔开，考研长难句分析中常用的方法是先把插入语括起来，找出主干，再把插入语的意思补回去。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Spending on research, as a share of national income, has barely changed in a decade.",
+      "zh": "研究支出占国民收入的比例十年来几乎没有变化。"
+     }
+    ]
+   },
+   {
+    "title": "fall to 与 fall by",
+    "explain": "描述数量变化时，fall/rise to + 数值 表示降到或升到某个数值，fall/rise by + 数值 表示下降或上升了多少。本句 fell to 13.5 per cent 指存水降到库容的13.5%，不是下降了13.5%。这是考研英语图表作文的高频表达，to 与 by 一字之差，意思完全不同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The unemployment rate fell to 4.2 per cent in June.",
+      "zh": "6月份失业率降至4.2%。"
+     },
+     {
+      "en": "Sales fell by 8 per cent in the first quarter.",
+      "zh": "第一季度销售额下降了8%。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "denote",
+    "explain": "表示，指代，常用于说明某个词、符号或说法的含义，如 The term denotes…、A red light denotes danger。注意与 connote（暗含，隐含某种意味）区分：denote 是字面所指，connote 是附带的联想意义。视频译为“指的是”。"
+   },
+   {
+    "term": "threshold",
+    "explain": "本义是门槛，引申为界限、临界点，在科学语境中译为“阈值”，常见搭配有 reach/cross a threshold（达到/越过临界点）、pain threshold（痛阈）、the poverty threshold（贫困线）。视频译为“门槛”，指存水降到13.5%这一临界线。"
+   },
+   {
+    "term": "as a percentage of",
+    "explain": "占……的百分比，如 debt as a percentage of GDP（债务占国内生产总值的百分比）。capacity 在此指水库的总容量，即库容，视频译为“水库容量”。"
+   },
+   {
+    "term": "per cent",
+    "explain": "百分之……，英式英语常分写为 per cent，美式英语多写作 percent；名词 percentage 指百分比、比例。本文用英式拼写，与 litres、neighbours、meagre 等拼写一致。"
+   }
+  ],
+  "translation_tip": "视频译文“这个词指的是一道严酷的门槛：即当该市水库的存水按占水库容量的百分比降至13.5%时达到的门槛。”的处理：①主句直译，The term 译为“这个词”，denoted 译为“指的是”，a 译为量词“一道”。②过去分词短语较长，没有整体前置到“门槛”之前，而是用冒号和“即”另起，重复中心词“门槛”，译成“……时达到的门槛”，避免中心词前堆砌过长的定语。③插入语 as a percentage of capacity 融入从句，译为“按占水库容量的百分比”，放在谓语“降至”之前作状语。④water 增译为“存水”，capacity 增译为“水库容量”，13.5 per cent 写成“13.5%”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Most taps（第一分句）；residents（第二分句）",
+   "predicate": "would be shut（第一分句，then 插在中间）；would queue（第二分句）",
+   "object_or_complement": "",
+   "explain": "本句是 and 连接的并列句。第一分句 Most taps would then be shut 为主谓结构，被动语态；第二分句 residents would queue at… 为主谓结构，queue 是不及物动词，at 引出地点状语。两个分句的 would 都表示从过去的角度看将来会发生的事。"
+  },
+  "components": [
+   {
+    "text": "Most",
+    "role": "定语（限定词，修饰 taps）",
+    "zh": "大部分"
+   },
+   {
+    "text": "taps",
+    "role": "第一分句主语",
+    "zh": "水龙头"
+   },
+   {
+    "text": "would then",
+    "role": "情态动词 would（表示过去将来）+ 时间副词 then（届时，指零日到来时）",
+    "zh": "届时将"
+   },
+   {
+    "text": "be shut,",
+    "role": "谓语主体（与 would 构成被动语态 would be shut）",
+    "zh": "被关闭"
+   },
+   {
+    "text": "and residents",
+    "role": "并列连词 and + 第二分句主语",
+    "zh": "居民"
+   },
+   {
+    "text": "would queue at",
+    "role": "第二分句谓语 would queue + 介词 at（引出地点状语）",
+    "zh": "要到……排队取水"
+   },
+   {
+    "text": "about 200",
+    "role": "数量定语（about 表示约数）",
+    "zh": "约200个"
+   },
+   {
+    "text": "designated",
+    "role": "定语（过去分词作前置定语）",
+    "zh": "指定的"
+   },
+   {
+    "text": "collection points.",
+    "role": "介词 at 的宾语，与 at 构成地点状语",
+    "zh": "取水点"
+   }
+  ],
+  "structure": "①本句是 and 连接的并列句，承接上句，描述零日到来时的情景：一是大部分水龙头被关闭，二是居民到取水点排队。\n②第一分句 Most taps would then be shut：主语 taps，Most 作定语；谓语 would be shut 是被动语态，shut 的过去分词仍为 shut；then 插在 would 与 be 之间，意为“到那时”，指上句所说的存水降到13.5%、零日到来之时。\n③would 在两个分句中都表示“过去将来”：全文以过去时叙述2018年的事，零日的情景是当时预想的将来，所以用 would 而不用 will。\n④第二分句 residents would queue at…：queue 是不及物动词，意为“排队”；at about 200 designated collection points 是地点状语。about 200 表示约数，designated 是过去分词作前置定语，表示“被指定的”；collection points 中 collection 作定语修饰 points，本文指集中领水的地点。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "would 表示过去将来",
+    "explain": "在以过去时叙述的语境中，从过去某一时间看将要发生的事，用 would + 动词原形，即过去将来时，常见于转述和对当时设想情景的描述。本句承接第1句（2018年1月发出警报）和第2句，描述零日到来后“将会”出现的情况，所以用 would be shut 和 would queue。考研阅读中，过去时语篇里的 would 往往表示当时的预测或计划，并不一定真的发生：本文后面零日就被推迟，最终没有到来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister said the new rules would take effect in March.",
+      "zh": "部长说新规定将于3月生效。"
+     },
+     {
+      "en": "Engineers warned that the bridge would have to close if repairs were delayed any further.",
+      "zh": "工程师们警告说，如果维修再拖延，这座桥将不得不关闭。"
+     }
+    ]
+   },
+   {
+    "title": "单个过去分词作前置定语",
+    "explain": "单个分词作定语时通常放在名词前，过去分词表示被动或完成，如 a designated area（指定区域）、a trained nurse（受过训练的护士）、frozen food（冷冻食品）。本句 designated collection points 即“被指定的取水点”。分词短语（带宾语或状语）作定语时才放在名词后，如上句的 reached when…。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Smoking is permitted only in designated areas.",
+      "zh": "只允许在指定区域吸烟。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tap",
+    "explain": "英式英语中指水龙头，美式英语多用 faucet，常见搭配有 turn on/off the tap（打开/关上水龙头）、tap water（自来水）。视频译为“水龙头”。"
+   },
+   {
+    "term": "shut",
+    "explain": "不规则动词，过去式和过去分词都是 shut。本句 be shut 是被动语态，指水龙头被关停，即停止供水。"
+   },
+   {
+    "term": "queue",
+    "explain": "动词，排队，英式英语常用，美式英语多说 line up 或 stand in line；queue for sth 表示为某物排队。名词 queue 指队列，如 jump the queue（插队）。视频译为“排队取水”。"
+   },
+   {
+    "term": "collection point",
+    "explain": "领取点、收集点。本文指零日后居民集中领取用水的地点，视频译为“取水点”；第20句的 the collection points 再次提到它们。"
+   },
+   {
+    "term": "then",
+    "explain": "本句意为“到那时，届时”，指前文所说零日到来的时刻，视频译为“届时”。"
+   }
+  ],
+  "translation_tip": "视频译文“大部分水龙头届时将被关闭，居民要到约200个指定的取水点排队取水。”的处理：①would then be shut 译为“届时将被关闭”，“届时”对应 then，“将”对应 would 表示的将来，保留被动“被关闭”。②并列连词 and 不译出，两个分句用逗号连接。③第二分句中地点状语 at about 200 designated collection points 移到动词前，译为“要到约200个指定的取水点”，queue 放到句末译为“排队取水”，增补“取水”点明排队的目的。④about 200 增加量词“个”，译为“约200个”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The prospect",
+   "predicate": "was",
+   "object_or_complement": "genuine",
+   "explain": "主干就是全句 The prospect was genuine，主系表结构，genuine 作表语。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The prospect",
+    "role": "主语（回指第1至3句描述的零日情景）",
+    "zh": "这一前景"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "genuine.",
+    "role": "表语（形容词）",
+    "zh": "真实存在的"
+   }
+  ],
+  "structure": "①本句是主系表结构，只有四个词，是第2段的主题句。\n②The prospect 用一个抽象名词概括第1至3句描述的情景：零日可能到来，水龙头被关闭，居民排队取水。定冠词 The 表示特指前文提到的这一前景。\n③表语 genuine 表示这种可能真实存在，不是虚张声势。后面三句用连续三年降雨稀少、水库只剩约五分之一的蓄水、倒计时等具体事实来支撑这一判断。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "抽象名词回指上文",
+    "explain": "英语常用 the/this + 抽象名词概括前文所述的一件事或一种情况，作为下一句的主语或宾语，使行文连贯，如 the decision、the move、the problem、the prospect。本句 The prospect 概括零日到来的情景。考研阅读中这类名词常常是指代题的考点，要回到上文找出它具体指什么；写作中也可以用这种方法衔接句子，避免重复。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company announced that it would cut 2,000 jobs. The decision shocked its employees.",
+      "zh": "该公司宣布将裁员2000人。这一决定令员工们震惊。"
+     }
+    ]
+   },
+   {
+    "title": "主系表结构",
+    "explain": "主系表结构由主语、系动词和表语构成，表语说明主语的性质或状态，可以由形容词、名词、介词短语等充当。本句 was 是系动词，形容词 genuine 作表语，说明 prospect 的性质。genuine 既可作表语，也可作定语，如 a genuine threat（真实存在的威胁）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The threat of flooding along the coast is real.",
+      "zh": "沿海地区发生洪灾的威胁是真实存在的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "prospect",
+    "explain": "名词，前景，可能性，指未来可能发生的事，常见用法有 the prospect of sth/doing sth（……的可能性）、bright prospects（光明的前景）；复数 prospects 还可指（事业上的）前途。本句视频译为“前景”。"
+   },
+   {
+    "term": "genuine",
+    "explain": "形容词，真实的，真正的，如 a genuine threat（真实的威胁）、a genuine concern（真正的担忧）；形容人时意为“真诚的”。本句视频译为“真实存在的”。"
+   }
+  ],
+  "translation_tip": "视频译文“这一前景是真实存在的。”的处理：①The prospect 译为“这一前景”，用“这一”译出定冠词的回指作用。②was genuine 用“是……的”结构译出，强调判断；genuine 增补“存在”，译为“真实存在的”，说明零日断水并非空谈，而是确有可能出现。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Three consecutive years of meagre rainfall",
+   "predicate": "had diminished",
+   "object_or_complement": "the reservoirs",
+   "explain": "主干是 Three consecutive years… had diminished the reservoirs，主谓宾结构。谓语 had diminished 为过去完成时，主动语态，表示到2018年初时干旱已经造成的结果。"
+  },
+  "components": [
+   {
+    "text": "Three consecutive years",
+    "role": "主语中心部分",
+    "zh": "连续三年"
+   },
+   {
+    "text": "of meagre rainfall,",
+    "role": "后置定语（介词短语），修饰 years",
+    "zh": "贫乏的降雨"
+   },
+   {
+    "text": "from 2015 to 2017,",
+    "role": "插入成分（介词短语），补充说明三年的起止年份",
+    "zh": "从2015到2017年"
+   },
+   {
+    "text": "had diminished",
+    "role": "谓语（过去完成时）",
+    "zh": "减少了"
+   },
+   {
+    "text": "the reservoirs",
+    "role": "宾语",
+    "zh": "水库的蓄水"
+   },
+   {
+    "text": "serving",
+    "role": "后置定语（现在分词短语的核心），修饰 the reservoirs",
+    "zh": "这些水库给……供水"
+   },
+   {
+    "text": "a metropolitan area",
+    "role": "serving 的宾语",
+    "zh": "一个大都市区"
+   },
+   {
+    "text": "of about four million people.",
+    "role": "后置定语（介词短语），修饰 a metropolitan area，说明人口规模",
+    "zh": "大约400万人口"
+   }
+  ],
+  "structure": "①主干是 Three consecutive years… had diminished the reservoirs。主语的语法中心词是 years，of meagre rainfall 是介词短语作后置定语；意义重心则在 rainfall 上：是三年里稀少的降雨减少了水库的水。\n②from 2015 to 2017 夹在主语和谓语之间，前后用逗号隔开，是插入的补充说明，交代“连续三年”具体是哪三年。\n③谓语 had diminished 用过去完成时。参照的过去时间是第1句和第6句所说的2018年初：干旱发生在2015至2017年，对水库的影响到2018年初已经造成，属于“过去的过去”。\n④serving a metropolitan area… 是现在分词短语作后置定语，修饰 the reservoirs（视频说明），相当于 which served a metropolitan area…。serve 在此意为“为……供水，服务于”，水库与 serve 是主动关系，所以用现在分词。of about four million people 修饰 a metropolitan area，说明这个大都市区约有400万人口。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示过去某时之前已造成的结果",
+    "explain": "过去完成时（had done）表示在过去某一时间之前已经发生或完成、并对那个时间产生影响的动作。使用过去完成时要有一个明确的过去参照点，可以是时间状语、另一个过去动作或上下文。本句的参照点是上下文中的2018年初：2015至2017年的少雨在此之前已经使水库水量减少，所以用 had diminished。考研阅读中看到 had done，要找出它参照的过去时间，理清事件先后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the rescue team arrived, the floodwaters had already begun to recede.",
+      "zh": "救援队赶到时，洪水已经开始消退。"
+     },
+     {
+      "en": "Years of underinvestment had left the railway network in poor condition.",
+      "zh": "多年投资不足已使铁路网状况糟糕。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示被修饰的名词主动发出该动作，或动作正在进行，相当于一个定语从句。本句 serving a metropolitan area… 修饰 the reservoirs，水库“为大都市区供水”，是主动关系，相当于 which served/serve…。与过去分词作定语相比，现在分词表主动，过去分词表被动，如 the people living here（住在这里的人）与 the houses built here（建在这里的房子）。考研长难句中，名词后紧跟 -ing 形式时，要先判断它是不是在修饰前面的名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The airline has cut several routes serving smaller regional airports.",
+      "zh": "这家航空公司削减了几条通往较小地区机场的航线。"
+     },
+     {
+      "en": "Researchers interviewed nurses working night shifts at three hospitals.",
+      "zh": "研究人员采访了三家医院里上夜班的护士。"
+     }
+    ]
+   },
+   {
+    "title": "consecutive 与 in a row 的表达",
+    "explain": "表示“连续……年/天/次”，可以说 基数词 + consecutive + 复数名词（three consecutive years），也可以说 序数词 + consecutive + 单数名词（the third consecutive year），或者 基数词 + 复数名词 + in a row（three years in a row）。本句 Three consecutive years of meagre rainfall 即“连续三年的少雨”。这些表达在考研写作和图表作文中描述趋势时很常用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team has won the championship for the fourth consecutive season.",
+      "zh": "这支球队已经连续第四个赛季夺得冠军。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "meagre",
+    "explain": "形容词，少量的，不足的，英式拼写，美式拼写为 meager，常见搭配有 meagre rainfall（稀少的降雨）、a meagre income（微薄的收入）、meagre resources（匮乏的资源）。视频译为“贫乏的”。"
+   },
+   {
+    "term": "diminish",
+    "explain": "动词，减少，削弱，如 diminish the risk（降低风险）。本句宾语 the reservoirs 实际指水库里的蓄水量，视频译为“减少了水库的蓄水”。"
+   },
+   {
+    "term": "serve",
+    "explain": "熟词僻义：serve 除“服务，端上（饭菜）”外，还可表示设施、交通线路等“为某地或某些人提供服务”，如 The hospital serves a population of 200,000（这家医院为20万人口提供服务）。本句指水库为大都市区供水，视频译为“给……供水”。"
+   },
+   {
+    "term": "metropolitan area",
+    "explain": "大都市区，都市圈，指一座大城市及其周边联系紧密的城镇地区。本句指开普敦所在的大都市区，人口约400万。"
+   }
+  ],
+  "translation_tip": "视频译文“连续三年贫乏的降雨，从2015到2017年，减少了水库的蓄水，这些水库给一个大都市区供水，大约400万人口。”的处理：①主语中的后置定语 of meagre rainfall 前移，译为“连续三年贫乏的降雨”。②插入成分 from 2015 to 2017 保留原位，前后用逗号隔开。③the reservoirs 增译“的蓄水”，点明减少的是水库里的水。④现在分词短语没有前置，而是拆成独立分句，用“这些水库”回指，serving 译为“给……供水”。⑤of about four million people 也单独成为短句“大约400万人口”，按英文语序顺译，避免长定语堆在“大都市区”之前。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "the dams",
+   "predicate": "were",
+   "object_or_complement": "roughly a fifth full",
+   "explain": "主干是 the dams were roughly a fifth full，主系表结构，形容词 full 作表语，a fifth 和 roughly 说明满的程度。系动词 were 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "By early 2018",
+    "role": "时间状语（by + 时间点，意为“到……时”）",
+    "zh": "到2018年初"
+   },
+   {
+    "text": "the dams",
+    "role": "主语（指水坝拦蓄而成的水库，与上句 the reservoirs 同指）",
+    "zh": "水库"
+   },
+   {
+    "text": "were",
+    "role": "系动词（视频结合表语意译为“只剩”）",
+    "zh": "只剩"
+   },
+   {
+    "text": "roughly",
+    "role": "状语（副词，修饰 a fifth，表示约数）",
+    "zh": "约"
+   },
+   {
+    "text": "a fifth full.",
+    "role": "表语（形容词 full，前面的分数 a fifth 说明满的程度）",
+    "zh": "五分之一的蓄水"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 the dams，系动词 were，表语 a fifth full，roughly 修饰 a fifth，表示“大约五分之一”。\n②By early 2018 是时间状语，by + 时间点 表示“到……时为止”，交代上句所说三年少雨造成的结果在2018年初是什么状况，与上句过去完成时的参照时间一致。句首状语较短，后面没有用逗号。\n③a fifth full 是“分数 + 形容词”的结构，分数说明满的程度，即水库只有五分之一是满的；同类说法有 half full（半满）、three-quarters full（四分之三满），第15句的 about half full 也是这一结构。\n④the dams 与上句 the reservoirs 指同一批水库，属于同义替换；dam 本义是水坝，这里指水坝拦起的蓄水，视频译为“水库”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分数的表达",
+    "explain": "英语分数的分子用基数词，分母用序数词；分子大于1时，分母序数词加 -s，如 one fifth/a fifth（五分之一）、two fifths（五分之二）、three quarters（四分之三）；二分之一用 a half 或 one half，四分之一常用 a quarter。分数后接 of + 名词作主语时，谓语的单复数与 of 后的名词一致，如 Two thirds of the land is desert、Two thirds of the students are girls。本句 a fifth 修饰形容词 full，表示满的程度。图表作文中常用这些表达描述比例。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Nearly two thirds of the respondents said they worked from home at least once a week.",
+      "zh": "近三分之二的受访者表示，他们每周至少在家办公一次。"
+     },
+     {
+      "en": "Only a quarter of the seats were taken when the concert began.",
+      "zh": "音乐会开始时只坐满了四分之一的座位。"
+     }
+    ]
+   },
+   {
+    "title": "表示程度或度量的词修饰形容词",
+    "explain": "英语中表示数量、度量的名词短语可以放在形容词前，说明程度，如 two metres tall（两米高）、ten years old（十岁）、half full（半满）、a fifth full（五分之一满）。本句 roughly a fifth full 中 roughly 又修饰 a fifth，表示约数。汉语通常把这类结构转换成“……的……”或数量表达，本句视频译为“约五分之一的蓄水”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The lecture hall was barely half full for the evening talk.",
+      "zh": "晚上那场讲座，报告厅里的人勉强坐满一半。"
+     }
+    ]
+   },
+   {
+    "title": "by + 时间点",
+    "explain": "by + 时间点 表示“到……时为止，不迟于……”，常与完成时连用，表示到那时为止已完成的动作，如 By the end of the year, we had finished the project；谓语是表示状态的系动词时，用一般时态描述那个时间的状态即可，如本句 By early 2018 the dams were roughly a fifth full。不要把 by 与 until 混淆：until 表示动作或状态一直持续到某个时间。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the end of the decade, most new cars sold in Norway were electric.",
+      "zh": "到这个十年结束时，挪威售出的新车大多是电动车。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dam",
+    "explain": "名词，本义是水坝、堤坝，常见搭配有 build a dam（修建水坝）。本文 dams 指水坝拦蓄而成的水库，视频译为“水库”；第13句的 irrigation dams 则译为“灌溉水坝”。"
+   },
+   {
+    "term": "roughly",
+    "explain": "副词，大约，大致，相当于 about、approximately，如 roughly a fifth（大约五分之一）、roughly speaking（粗略地说）。视频译为“约”。"
+   },
+   {
+    "term": "early 2018",
+    "explain": "early、mid、late 可以直接修饰年份，表示某年的初期、中期、后期，如 in early 2018、in mid-2019、in late 2020。本句前面用介词 by，表示“到2018年初”。"
+   }
+  ],
+  "translation_tip": "视频译文“到2018年初，水库只剩约五分之一的蓄水。”的处理：①By early 2018 译为“到2018年初”，放在句首并加逗号。②系表结构 were roughly a fifth full 没有直译为“约五分之一满”，而是转换成动宾结构“只剩约五分之一的蓄水”，“只剩”突出水量之少，与上句干旱减少水库蓄水衔接。③the dams 译为“水库”，与上句 the reservoirs 的译法一致。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The countdown",
+   "predicate": "turned",
+   "object_or_complement": "a chronic shortage（宾语；into an imminent deadline 表示变化的结果）",
+   "explain": "主干是 The countdown turned a chronic shortage into an imminent deadline，主谓宾结构，turn A into B 中 into 引出变化的结果。谓语 turned 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The countdown",
+    "role": "主语",
+    "zh": "倒计时"
+   },
+   {
+    "text": "turned",
+    "role": "谓语（与 into 构成 turn A into B）",
+    "zh": "把……变成了"
+   },
+   {
+    "text": "a chronic shortage",
+    "role": "宾语（turn A into B 中的 A）",
+    "zh": "一场长期的短缺"
+   },
+   {
+    "text": "into an imminent deadline.",
+    "role": "介词短语，表示变化的结果（turn A into B 中的 B）",
+    "zh": "一个迫在眉睫的最后期限"
+   }
+  ],
+  "structure": "①本句是 turn A into B 结构（视频说明：把 A 变成 B）：主语 The countdown，谓语 turned，宾语 a chronic shortage，into an imminent deadline 表示变化的结果。\n②两个名词短语构成对照：chronic（长期的）对 imminent（迫在眉睫的），shortage（短缺，一种持续的状态）对 deadline（最后期限，一个确定的时间点）。缺水本来是拖了多年的老问题，有了零日倒计时，就变成了必须在某一天之前解决的紧急问题。\n③The countdown 指围绕零日的倒计时，用无生命的名词作主语，是英语常见的表达方式。本句是第2段的结尾，总结零日倒计时带来的紧迫感。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "turn A into B 及同类结构",
+    "explain": "turn A into B 表示“把 A 变成 B”，into 引出变化的结果。同类结构有 change A into B、transform A into B、convert A into B、translate A into B（把 A 译成 B；把 A 转化为 B）。本句 turned a chronic shortage into an imminent deadline 中 A 和 B 都带形容词定语，两两形成对照。考研阅读中这类结构常用来表达事物性质的转变，A 和 B 的对比往往就是作者想强调的变化。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town turned an abandoned factory into a popular arts centre.",
+      "zh": "这座小镇把一家废弃的工厂改造成了一个很受欢迎的艺术中心。"
+     }
+    ]
+   },
+   {
+    "title": "无生命名词作主语",
+    "explain": "英语常用无生命的名词作主语，后接表示动作的及物动词，如 The countdown turned…、The pandemic forced…、The report shows…。汉语习惯用人作主语，或用“由于……”等结构。本句视频保留了原来的主语，译为“倒计时把……变成了……”，汉语也能接受；遇到不顺的情况，翻译时常要把这类主语转换成原因状语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The pandemic forced many small businesses to move their sales online.",
+      "zh": "疫情迫使许多小企业把销售转到了网上。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "countdown",
+    "explain": "名词，倒计时，常用 the countdown to sth（迈向……的倒计时），如 the countdown to the election。本句指零日倒计时。"
+   },
+   {
+    "term": "chronic",
+    "explain": "形容词，长期的，慢性的，原指疾病持续时间长，如 a chronic disease（慢性病），反义词是 acute（急性的）；引申指问题长期存在、难以根除，如 a chronic shortage（长期短缺）。视频译为“长期的”。"
+   },
+   {
+    "term": "imminent",
+    "explain": "形容词，迫在眉睫的，即将发生的，多指危险、灾难等不好的事，如 an imminent threat（迫在眉睫的威胁）。注意与形近词 eminent（著名的，杰出的）区分。"
+   },
+   {
+    "term": "shortage 与 deadline",
+    "explain": "shortage 指短缺、不足，如 a water shortage（缺水）、a shortage of doctors（医生短缺）；deadline 指最后期限、截止日期，如 meet/miss a deadline（按时完成/错过截止期限）。"
+   }
+  ],
+  "translation_tip": "视频译文“倒计时把一场长期的短缺变成了一个迫在眉睫的最后期限。”的处理：①turn A into B 用“把”字句译为“把 A 变成了 B”，宾语提到动词前，结构清楚。②两个不定冠词分别译为量词“一场”和“一个”，与“短缺”“最后期限”搭配。③无生命主语 The countdown 保留为主语“倒计时”，chronic 和 imminent 分别译为“长期的”“迫在眉睫的”，保留原文的对照。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The city",
+   "predicate": "paired",
+   "object_or_complement": "mandatory restrictions（宾语；with unprecedented transparency 表示结合的另一方）",
+   "explain": "主干是 The city paired mandatory restrictions with unprecedented transparency，主谓宾结构，pair A with B 意为“把 A 与 B 结合起来”。谓语 paired 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The city",
+    "role": "主语（回指开普敦市，指市政当局）",
+    "zh": "该市"
+   },
+   {
+    "text": "paired",
+    "role": "谓语（与 with 构成 pair A with B）",
+    "zh": "把……结合起来"
+   },
+   {
+    "text": "mandatory restrictions",
+    "role": "宾语（pair A with B 中的 A；mandatory 作前置定语）",
+    "zh": "强制性的限制措施"
+   },
+   {
+    "text": "with unprecedented transparency.",
+    "role": "介词短语（pair A with B 中的 B；unprecedented 作前置定语）",
+    "zh": "与前所未有的透明度"
+   }
+  ],
+  "structure": "①本句是 pair A with B 结构（视频说明：把 A 与 B 结合起来）：主语 The city，谓语 paired，宾语 mandatory restrictions，with unprecedented transparency 引出结合的另一方。\n②A 与 B 结构平行，都是“形容词 + 名词”：mandatory restrictions（强制性的限制措施）与 unprecedented transparency（前所未有的透明度），概括了该市应对危机的两种手段。\n③本句是第3段的主题句：第9句讲强制措施，即每人每天限用50升水；第10句讲透明度，即公开水库水位和家庭用水量；第11句讲效果，即日常用水量减少一半以上。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动词 + A + with + B 结构",
+    "explain": "英语中有一批动词构成“动词 + A + with + B”结构，表示把 A 与 B 联系、结合或替换，如 pair A with B（把 A 与 B 搭配、结合）、combine A with B（把 A 与 B 结合）、associate A with B（把 A 与 B 联系起来）、replace A with B（用 B 替换 A）、provide A with B（向 A 提供 B）。注意各个动词中 A、B 的角色不同：replace A with B 中 B 是新的，provide A with B 中 A 是接受者。本句 paired mandatory restrictions with unprecedented transparency 即“把强制性的限制措施与前所未有的透明度结合起来”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum pairs each painting with a short audio commentary.",
+      "zh": "这家博物馆为每幅画都配了一段简短的语音解说。"
+     }
+    ]
+   },
+   {
+    "title": "the + 普通名词回指专有名词",
+    "explain": "英语行文中，专有名词第一次出现后，常用 the + 表示类别的普通名词回指，避免重复，如用 the city 指 Cape Town、用 the company 指某公司。本句 The city 回指第1句的 Cape Town，视频译为“该市”。考研阅读中这种同义替换很常见，读到 the city、the firm、the country 等时，要知道它指的是前文哪个具体对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company moved its headquarters to Madrid in 2019, and the city has since become its main base in Europe.",
+      "zh": "这家公司于2019年把总部迁到马德里，此后该市就成了它在欧洲的主要基地。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mandatory",
+    "explain": "形容词，强制性的，法定的，近义词是 compulsory、obligatory，常见搭配有 mandatory restrictions（强制性限制措施）、a mandatory retirement age（法定退休年龄）、It is mandatory for sb to do sth。视频译为“强制性的”。"
+   },
+   {
+    "term": "restrictions",
+    "explain": "名词 restriction 的复数，指具体的限制措施，常见搭配有 impose restrictions on sth（对……实施限制）、ease/lift restrictions（放宽/取消限制）。本句视频译为“限制措施”，第16句讲的就是放宽其中的50升限额。"
+   },
+   {
+    "term": "unprecedented",
+    "explain": "形容词，前所未有的，史无前例的，由否定前缀 un- 加 precedented 构成，precedent 意为“先例”，常见搭配有 on an unprecedented scale（以前所未有的规模）。视频译为“前所未有的”。"
+   },
+   {
+    "term": "transparency",
+    "explain": "名词，透明度，用于政府、机构时指信息公开，如 greater transparency in government（政府更加透明）；形容词 transparent。本句指公开水库水位和用水量等信息（见第10句），视频译为“透明度”。"
+   }
+  ],
+  "translation_tip": "视频译文“该市把强制性的限制措施与前所未有的透明度结合起来。”的处理：①pair A with B 用“把”字句译为“把 A 与 B 结合起来”，结构与原文对应。②The city 译为“该市”，用“该”回指开普敦，书面而简洁。③restrictions 增译为“限制措施”，复数形式提示是多项具体措施；mandatory 和 unprecedented 分别译为“强制性的”“前所未有的”，保留两个定语的平行结构。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "each person",
+   "predicate": "was allotted",
+   "object_or_complement": "50 litres（保留宾语）",
+   "explain": "主干是 each person was allotted 50 litres，双宾语动词 allot 的被动语态：主动形式为 allot each person 50 litres，间接宾语 each person 变成主语，直接宾语 50 litres 保留在谓语后。谓语为一般过去时被动语态。"
+  },
+  "components": [
+   {
+    "text": "From 1 February 2018,",
+    "role": "时间状语（from 表示起始时间）",
+    "zh": "自2018年2月1日起"
+   },
+   {
+    "text": "each person",
+    "role": "主语（each 作限定词）",
+    "zh": "每人"
+   },
+   {
+    "text": "was allotted",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "被分配"
+   },
+   {
+    "text": "50 litres",
+    "role": "保留宾语（allot 的直接宾语）",
+    "zh": "50升水"
+   },
+   {
+    "text": "a day.",
+    "role": "频率状语（不定冠词 a 意为“每”）",
+    "zh": "每天"
+   }
+  ],
+  "structure": "①本句是双宾语动词的被动语态。allot 可以带双宾语：allot sb sth（分配给某人某物）。主动句是 The city allotted each person 50 litres a day，把间接宾语 each person 变成主语，直接宾语 50 litres 留在谓语 was allotted 后面，称为保留宾语。\n②From 1 February 2018 是时间状语，from 表示“从……起”。日期按英式写法“日 月 年”排列，美式写法通常是 February 1, 2018。\n③a day 中的不定冠词 a 表示“每”，a day = per day。50 litres 后面省略了 of water，从上下文可知指水。\n④本句是第8句 mandatory restrictions 的具体体现：每人每天限用50升水。第16句交代这一限额于2018年10月放宽。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "双宾语动词的被动语态（保留宾语）",
+    "explain": "give、offer、allow、grant、award、allot 等动词可以带双宾语：间接宾语（人）和直接宾语（物）。变被动语态时，通常把间接宾语变为主语，直接宾语保留在谓语后，称为保留宾语，如 They gave him a prize → He was given a prize；也可以把直接宾语变为主语，这时间接宾语前一般要加 to，如 A prize was given to him。本句 each person was allotted 50 litres 属于前一种。考研阅读中看到“be + 过去分词 + 名词”时，不要误以为被动语态后面不能有宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Each team was given two hours to complete the task.",
+      "zh": "每个小组都有两个小时来完成这项任务。"
+     },
+     {
+      "en": "Students who fail the exam are allowed one resit.",
+      "zh": "考试不及格的学生有一次补考机会。"
+     }
+    ]
+   },
+   {
+    "title": "不定冠词表示“每”",
+    "explain": "不定冠词 a/an 放在表示时间、数量、重量等的单位名词前，可以表示“每”，相当于 per，如 50 litres a day（每天50升）、twice a week（每周两次）、£10 an hour（每小时10英镑）、100 kilometres an hour（时速100公里）。图表作文描述频率和单价时很常用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Adults should aim for at least 150 minutes of moderate exercise a week.",
+      "zh": "成年人每周应争取进行至少150分钟的中等强度运动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "allot",
+    "explain": "动词，分配，配给，过去式和过去分词双写 t，为 allotted。常见用法有 allot sb sth、allot sth to sb、be allotted sth；allotted 作形容词意为“规定的，分配的”，如 within the allotted time（在规定时间内）。视频译为“被分配”。"
+   },
+   {
+    "term": "litre",
+    "explain": "名词，升（容量单位），英式拼写，美式拼写为 liter，缩写为 l 或 L。本句 50 litres 视频译为“50升水”，增补了“水”。"
+   },
+   {
+    "term": "日期的写法",
+    "explain": "英式英语常把日期写成“日 月 年”，如 1 February 2018；美式英语常写成“月 日，年”，如 February 1, 2018。翻译成汉语时一律按“年 月 日”排列。"
+   }
+  ],
+  "translation_tip": "视频译文“自2018年2月1日起，每人被分配每天50升水。”的处理：①From 1 February 2018 译为“自2018年2月1日起”，日期按汉语“年 月 日”的顺序排列，“自……起”对应 from。②被动语态保留为“被分配”，强调这是官方规定的配额。③a day 译为“每天”，放在数量前；50 litres 增补“水”，译为“50升水”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Officials（第一分句）；the published tallies（第二分句）",
+   "predicate": "disclosed（第一分句）；made…and let…（第二分句，两个并列谓语）",
+   "object_or_complement": "dam levels and household consumption（disclosed 的宾语）；thrift visible（made 的宾语和宾语补足语）；neighbours benchmark their use（let 的宾语和宾语补足语）",
+   "explain": "本句是分号连接的两个分句。第一分句是主谓宾结构，带两个并列宾语；第二分句一个主语带两个并列谓语，made 后接宾语和形容词宾补，let 后接宾语和不带 to 的不定式作宾补。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Officials",
+    "role": "第一分句主语",
+    "zh": "官员们"
+   },
+   {
+    "text": "disclosed",
+    "role": "谓语",
+    "zh": "公布"
+   },
+   {
+    "text": "dam levels",
+    "role": "并列宾语一（dam 作定语修饰 levels）",
+    "zh": "水库水位"
+   },
+   {
+    "text": "and household consumption;",
+    "role": "并列连词 and + 并列宾语二（household 作定语修饰 consumption）",
+    "zh": "和家庭消耗量"
+   },
+   {
+    "text": "the published tallies",
+    "role": "第二分句主语（过去分词 published 作前置定语）",
+    "zh": "公开的统计数字"
+   },
+   {
+    "text": "made",
+    "role": "谓语一（使役动词，make + 宾语 + 形容词）",
+    "zh": "让"
+   },
+   {
+    "text": "thrift",
+    "role": "made 的宾语",
+    "zh": "节俭成效"
+   },
+   {
+    "text": "visible",
+    "role": "宾语补足语（形容词）",
+    "zh": "一目了然"
+   },
+   {
+    "text": "and let",
+    "role": "并列连词 and + 谓语二（使役动词，let + 宾语 + 不带 to 的不定式）",
+    "zh": "也让"
+   },
+   {
+    "text": "neighbours",
+    "role": "let 的宾语",
+    "zh": "邻里之间得以"
+   },
+   {
+    "text": "benchmark",
+    "role": "宾语补足语（不带 to 的不定式）",
+    "zh": "对标"
+   },
+   {
+    "text": "their use.",
+    "role": "benchmark 的宾语（their 指 neighbours）",
+    "zh": "他们的用水量"
+   }
+  ],
+  "structure": "①分号连接两个意义紧密的分句：前一分句说官员公布了什么，后一分句说公布的数据起了什么作用。\n②第一分句 Officials disclosed dam levels and household consumption：主谓宾结构，and 连接两个并列宾语。dam levels 中 dam 作定语，指水库的水位；household consumption 中 household 作定语，指家庭的用水量。\n③第二分句主语是 the published tallies，published 是过去分词作前置定语，表示“被公开的”；tallies 回指第一分句公布的水位和用水量数据。这个主语带两个并列谓语：made 和 let（视频说明：let 的主语仍是 the published tallies）。\n④made thrift visible 是“make + 宾语 + 形容词”结构（视频说明：make A visible，使 A 一目了然），形容词 visible 作宾语补足语，说明公开数据使节水成效看得见。let neighbours benchmark their use 是“let + 宾语 + 不带 to 的不定式”结构（视频说明：let sb do），benchmark 作宾语补足语，their use 作 benchmark 的宾语，their 指 neighbours，use 是名词，指用水量。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "使役动词 make 和 let 的复合宾语",
+    "explain": "make 可以接“宾语 + 形容词/名词/不带 to 的不定式”作复合宾语，表示“使……处于某种状态”或“使……做某事”；let 接“宾语 + 不带 to 的不定式”，表示“让……做某事，允许……做某事”。本句 made thrift visible 中形容词 visible 作宾补，let neighbours benchmark their use 中 benchmark 是不带 to 的不定式作宾补。易错点：make sb do 变被动时要还原 to，如 He was made to apologise；let 一般不用于被动，被动意义用 be allowed to do 表达。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Clear food labels make healthy choices easier for shoppers.",
+      "zh": "清晰的食品标签让顾客更容易作出健康的选择。"
+     },
+     {
+      "en": "The new app lets users track their spending in real time.",
+      "zh": "这款新应用让用户可以实时追踪自己的开支。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号可以连接两个意义紧密、结构上各自独立的分句，不用连词。两个分句之间常有因果、对比、补充等关系，读者需要根据语境自己判断。本句前一分句讲公布数据，后一分句讲公布数据的效果，是因果关系。考研写作中适当使用分号，可以让句式更紧凑；但两个独立分句之间只用逗号而不用连词，是常见的语法错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some cities have expanded their metro systems; others have invested heavily in bus lanes.",
+      "zh": "一些城市扩建了地铁系统；另一些城市则在公交专用道上投入了大量资金。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语中名词可以直接放在另一个名词前作定语，说明其类别、所属或用途，作定语的名词一般用单数形式。本句 dam levels（水库水位）、household consumption（家庭用水量）都是这种结构。翻译时一般译成“……的……”，或直接组成汉语复合词，如“水库水位”“家庭消耗量”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The government publishes monthly energy consumption figures for each region.",
+      "zh": "政府每月公布各地区的能源消耗数据。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "disclose",
+    "explain": "动词，公开，披露，指把原本不为人知的信息公之于众，常见搭配有 disclose information/figures（公开信息/数据）；名词是 disclosure。视频译为“公布”。"
+   },
+   {
+    "term": "tally",
+    "explain": "名词，计数，记录，统计结果，如 keep a tally of sth（记录……的数目）；作动词时 tally with sth 意为“与……相符”。本句 the published tallies 指公开的统计数字。"
+   },
+   {
+    "term": "thrift",
+    "explain": "名词，节俭，节约；形容词 thrifty（节俭的）；a thrift shop/store 指二手慈善商店。本句指居民节约用水，视频译为“节俭成效”。"
+   },
+   {
+    "term": "benchmark",
+    "explain": "名词意为“基准，标杆”，如 set a benchmark（树立标杆）；动词意为“以……为基准进行比较，对标”，常用 benchmark sth against sth。本句指邻居之间相互比较用水量，视频译为“对标”。"
+   },
+   {
+    "term": "use 的读音",
+    "explain": "use 作名词读 /juːs/，作动词读 /juːz/。本句 their use 是名词，指用水量，读 /juːs/。"
+   }
+  ],
+  "translation_tip": "视频译文“官员们公布水库水位和家庭消耗量；公开的统计数字让节俭成效一目了然，也让邻里之间得以对标他们的用水量。”的处理：①保留分号，两个分句的关系与原文一致。②published tallies 译为“公开的统计数字”，过去分词作定语译为“公开的”。③make + 宾语 + visible 译为“让节俭成效一目了然”，thrift 增译“成效”，visible 意译为四字格“一目了然”。④and let 增译“也”，译为“也让”，体现两个并列谓语的递进；neighbours 增译“之间”，体现邻居之间相互比较，“得以”体现 let 的使能含义；use 增译为“用水量”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Daily use",
+   "predicate": "was more than halved",
+   "object_or_complement": "",
+   "explain": "主干是 Daily use was more than halved，主谓结构，被动语态。halve 是及物动词，意为“使减半”；more than 修饰 halved，表示减少的幅度超过一半。谓语为一般过去时被动语态。"
+  },
+  "components": [
+   {
+    "text": "Daily use",
+    "role": "主语",
+    "zh": "日常的用水量"
+   },
+   {
+    "text": "was more than halved,",
+    "role": "谓语（被动语态，more than 修饰 halved，表示超过减半的程度）",
+    "zh": "减少了一半以上"
+   },
+   {
+    "text": "from about 1.2 billion litres in 2015",
+    "role": "状语（from A to B 中的起点 A；in 2015 修饰 1.2 billion litres）",
+    "zh": "从2015年的约12亿升"
+   },
+   {
+    "text": "to about 500 million by early 2018.",
+    "role": "状语（from A to B 中的终点 B；500 million 后承前省略 litres，by early 2018 修饰它）",
+    "zh": "降至2018年初的约5亿升"
+   }
+  ],
+  "structure": "①主干是 Daily use was more than halved。Daily use 指全市每天的用水总量；was halved 是被动语态，意为“被减半”；more than 插在 was 和 halved 之间，表示减少的幅度超过一半（视频说明：减半还不止）。\n②逗号后的 from A to B 是介词短语作状语，用具体数字补充说明减少的幅度（视频说明：从 A 降到 B）。from about 1.2 billion litres in 2015 是起点，in 2015 说明是哪一年的数字；to about 500 million by early 2018 是终点，by early 2018 意为“到2018年初”。\n③500 million 后面承前省略了 litres（视频说明），避免与前面的 litres 重复。\n④数字核对：约5亿升不到约12亿升的一半，所以说 more than halved。本句是第8至10句节水措施的结果。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "more than 的几种用法",
+    "explain": "more than 后接数词表示“超过，多于”，如 more than 200 people；接动词表示程度超过，如 more than halved（减少了一半还不止）、more than doubled（增长了一倍多）；接形容词表示“非常，十分”，如 more than happy to help（非常乐意帮忙）；接名词表示“不仅仅是”，如 more than a job（不仅仅是一份工作）。本句 was more than halved 属于修饰动词的用法。图表作文中 more than doubled、more than halved 是描述变化幅度的常用表达。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company's profits more than doubled over the past five years.",
+      "zh": "过去五年里，这家公司的利润增长了一倍多。"
+     },
+     {
+      "en": "For many residents, the new library is more than a place to borrow books.",
+      "zh": "对许多居民来说，这座新图书馆不仅仅是一个借书的地方。"
+     }
+    ]
+   },
+   {
+    "title": "承前省略",
+    "explain": "为避免重复，英语常在后文省略前面已出现过的名词，读者根据上文补出。本句 from about 1.2 billion litres… to about 500 million… 中，500 million 后省略了 litres。数字对比、from A to B 和比较结构中这种省略很常见。翻译时汉语往往要把省略的单位补出来，本句视频译为“约5亿升”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Average rents rose from about 900 euros a month in 2019 to almost 1,200 by 2023.",
+      "zh": "平均租金从2019年的每月约900欧元涨到了2023年的近1200欧元。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "halve",
+    "explain": "动词，使减半，与名词 half 同源，注意拼写和读音的区别：half 读 /hɑːf/（美式 /hæf/），halve 读 /hɑːv/（美式 /hæv/）。常见用法有 halve the cost（把成本减半）、be halved（被减半）。视频将 was more than halved 译为“减少了一半以上”。"
+   },
+   {
+    "term": "billion 与 million 的换算",
+    "explain": "million 是百万，billion 是十亿。1.2 billion 即12亿，500 million 即5亿。英语按三位一组计数，汉语按四位一组计数，换算时要特别小心，考研翻译中数字错误会直接扣分。"
+   },
+   {
+    "term": "daily use",
+    "explain": "日常用量，每天的用量。use 在此是名词，读 /juːs/，本文指用水量，视频译为“日常的用水量”。"
+   }
+  ],
+  "translation_tip": "视频译文“日常的用水量减少了一半以上，从2015年的约12亿升降至2018年初的约5亿升。”的处理：①被动语态 was more than halved 转为主动表达“减少了一半以上”，汉语不必说“被减半”。②数字按汉语习惯换算，1.2 billion litres 译为“12亿升”，500 million 译为“5亿升”，并补出承前省略的单位“升”。③in 2015 和 by early 2018 分别前置为“2015年的”“2018年初的”，作数字的定语。④to 增译为“降至”，点明下降的方向。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Other forces",
+   "predicate": "intervened",
+   "object_or_complement": "",
+   "explain": "主干就是全句 Other forces intervened，主谓结构。intervene 是不及物动词，不带宾语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Other forces",
+    "role": "主语（other 作限定词，修饰复数名词 forces）",
+    "zh": "其他力量"
+   },
+   {
+    "text": "intervened.",
+    "role": "谓语（不及物动词）",
+    "zh": "介入了"
+   }
+  ],
+  "structure": "①本句是最简单的主谓结构，intervene 为不及物动词，后面没有宾语。\n②本句是第4段的主题句，承上启下：第3段讲市政府的措施和市民节水的成效，本段转而讲政府措施之外起作用的其他力量，即第13句上游农民放水、农场少用水，以及第15句的冬雨。\n③force 在此不是“武力，军队”，而是“起作用的力量，因素”。Other forces 暗示零日最终没有到来，并不只是节水措施的功劳。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物动词 intervene",
+    "explain": "intervene 是不及物动词，后面不能直接接宾语，要借助介词或不定式，常见结构有 intervene in sth（介入、干预某事）、intervene to do sth（出面做某事）、intervene between A and B（在 A 与 B 之间调解）。本句 intervened 单独作谓语，表示其他力量介入。写作中不能写成 intervene the dispute，要写 intervene in the dispute。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The central bank intervened to stop the currency from falling further.",
+      "zh": "中央银行出手干预，阻止货币进一步贬值。"
+     }
+    ]
+   },
+   {
+    "title": "other + 复数名词",
+    "explain": "other 作限定词时，后接复数名词或不可数名词，表示“其他的，别的”，泛指除已提到的以外的人或事物，如 other forces、other countries；后接单数可数名词时前面要有 the 或其他限定词，如 the other side。本句 Other forces 泛指市政府和市民之外的其他力量。第19句的 Others 则是 other 的代词用法，相当于 other people。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Other factors, such as diet and sleep, also affect how well students perform.",
+      "zh": "其他因素，如饮食和睡眠，也会影响学生的表现。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "intervene",
+    "explain": "动词，介入，干预；也可指某事意外发生而造成影响或阻碍，如 Bad weather intervened（天气不好，打乱了计划）。名词是 intervention，如 government intervention（政府干预）。视频译为“介入了”。"
+   },
+   {
+    "term": "force",
+    "explain": "熟词僻义：force 除“力，武力，军队”外，还可指起作用的力量、因素，如 market forces（市场力量）、the forces of nature（自然力量）、a driving force（推动力）。本句视频译为“力量”。"
+   }
+  ],
+  "translation_tip": "视频译文“其他力量也介入了。”的处理：①Other forces 直译为“其他力量”。②增补“也”，表明除了上文的限水措施和市民节水之外，还有别的因素在起作用，使本句与上一段衔接。③intervened 译为“介入了”，“了”表示动作已经发生。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "upstream farmers（第一分句）；Day Zero（第二分句）",
+   "predicate": "released（第一分句）；was postponed（第二分句）",
+   "object_or_complement": "water（第一分句宾语）；第二分句无宾语",
+   "explain": "本句是分号连接的两个分句。第一分句是主谓宾结构，谓语 released 为一般过去时主动语态；第二分句是主谓结构，谓语 was postponed 为一般过去时被动语态，句首的 with farms drawing less 是 with 复合结构作状语。"
+  },
+  "components": [
+   {
+    "text": "In February 2018,",
+    "role": "时间状语（介词短语）",
+    "zh": "2018年2月"
+   },
+   {
+    "text": "upstream",
+    "role": "定语（形容词，修饰 farmers）",
+    "zh": "上游的"
+   },
+   {
+    "text": "farmers",
+    "role": "第一分句主语",
+    "zh": "农民"
+   },
+   {
+    "text": "released",
+    "role": "谓语（与 from 构成 release A from B）",
+    "zh": "放出了"
+   },
+   {
+    "text": "water",
+    "role": "宾语",
+    "zh": "水"
+   },
+   {
+    "text": "from their irrigation dams;",
+    "role": "状语（介词短语，表示来源，release A from B 中的 B）",
+    "zh": "从他们的灌溉水坝中"
+   },
+   {
+    "text": "with farms",
+    "role": "with 复合结构（with + 宾语 farms），作原因状语",
+    "zh": "加上农场"
+   },
+   {
+    "text": "drawing",
+    "role": "with 复合结构中的宾语补足语（现在分词，表示主动）",
+    "zh": "用水"
+   },
+   {
+    "text": "less,",
+    "role": "drawing 的宾语（less 相当于 less water）",
+    "zh": "减少"
+   },
+   {
+    "text": "Day Zero",
+    "role": "第二分句主语",
+    "zh": "零日"
+   },
+   {
+    "text": "was postponed",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "被推迟"
+   },
+   {
+    "text": "to July.",
+    "role": "状语（介词短语，表示推迟到的时间）",
+    "zh": "到7月"
+   }
+  ],
+  "structure": "①分号连接两个分句，具体说明上句所说的“其他力量”。\n②第一分句：In February 2018 是时间状语；主语 upstream farmers，upstream 作定语，指位于河流上游的农民；谓语 released，宾语 water，from their irrigation dams 表示水的来源（视频说明：release A from B，从 B 中放出 A）。irrigation dams 是名词作定语，指用于农业灌溉的水坝。\n③第二分句句首的 with farms drawing less 是 with 复合结构作状语，表示伴随的原因（视频说明）：with 后的 farms 是复合结构的宾语，现在分词 drawing 作宾语补足语，农场与 draw 是主动关系；draw 在此意为“取（水）”，less 相当于 less water，作 drawing 的宾语。\n④第二分句的主干是 Day Zero was postponed to July，被动语态，to July 表示推迟到7月。从第1句的4月推迟到7月，原因是上游放水和农场少取水两方面。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with 复合结构作状语",
+    "explain": "with 复合结构的形式是“with + 宾语 + 宾语补足语”，宾补可以是现在分词、过去分词、不定式、形容词、副词或介词短语，整个结构在句中作状语，表示伴随、原因、条件等。宾语与动词是主动关系或动作正在进行时，用现在分词；是被动关系或动作已完成时，用过去分词。本句 with farms drawing less 中，农场主动取水，用现在分词 drawing，表示零日推迟的原因之一。考研长难句中 with 复合结构常出现在句首或句尾，分析时要把它与主句分开，判断它说明的是原因、条件还是伴随情况。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "With prices rising so quickly, many families are cutting back on non-essential spending.",
+      "zh": "由于物价上涨得太快，许多家庭正在削减非必要开支。"
+     },
+     {
+      "en": "With the exams finished, the students finally had time to relax.",
+      "zh": "考试结束了，学生们终于有时间放松了。"
+     }
+    ]
+   },
+   {
+    "title": "less、more 作代词",
+    "explain": "less 和 more 除了修饰名词、形容词外，还可以单独作代词，指上下文中可以补出的名词，如 drawing less（取用较少的水）、want more（想要更多）。本句 drawing less 相当于 drawing less water，less 作 drawing 的宾语。读这类句子时要根据上下文补出省略的名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Households that installed smart meters ended up using less.",
+      "zh": "安装了智能电表的家庭最终用电更少。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "upstream",
+    "explain": "形容词和副词，上游的，向上游，反义词是 downstream（下游的）；也可比喻产业链的上游，如 upstream suppliers（上游供应商）。本句视频译为“上游的”。"
+   },
+   {
+    "term": "irrigation dams",
+    "explain": "灌溉水坝。irrigation 是名词，灌溉，动词是 irrigate，常见搭配有 irrigation systems（灌溉系统）、irrigation water（灌溉用水）。"
+   },
+   {
+    "term": "release A from B",
+    "explain": "从 B 中放出 A。release water from a dam 指水坝开闸放水；release 还可表示释放（犯人）、发布（消息）、发行（电影、唱片）。"
+   },
+   {
+    "term": "draw",
+    "explain": "熟词僻义：draw 可以表示从水源中取水、汲水，如 draw water from a well（从井里打水）。本句 farms drawing less 指农场取用的水减少，视频译为“农场用水减少”。"
+   },
+   {
+    "term": "postpone",
+    "explain": "动词，推迟，延期，同义短语为 put off，常见用法有 postpone sth to/until + 时间、postpone doing sth（注意后接动名词，不接不定式）。本句视频译为“被推迟到7月”。"
+   }
+  ],
+  "translation_tip": "视频译文“2018年2月，上游的农民从他们的灌溉水坝中放出了水；加上农场用水减少，零日被推迟到7月。”的处理：①In February 2018 放在句首，译为“2018年2月”。②release A from B 中的来源状语前置到动词前，译为“从他们的灌溉水坝中放出了水”，their 译为“他们的”。③with 复合结构译为“加上农场用水减少”，“加上”体现 with 引出的附加原因；drawing less 转译为主谓结构“用水减少”。④第二分句保留被动“被推迟”，to July 译为“到7月”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "officials",
+   "predicate": "judged",
+   "object_or_complement": "Day Zero（宾语）unlikely（宾语补足语）",
+   "explain": "主干是 officials judged Day Zero unlikely，主谓宾宾补结构，形容词 unlikely 作宾语补足语。谓语 judged 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In March 2018,",
+    "role": "时间状语（介词短语）",
+    "zh": "2018年3月"
+   },
+   {
+    "text": "officials",
+    "role": "主语",
+    "zh": "官员们"
+   },
+   {
+    "text": "judged",
+    "role": "谓语",
+    "zh": "判断"
+   },
+   {
+    "text": "Day Zero",
+    "role": "宾语",
+    "zh": "零日"
+   },
+   {
+    "text": "unlikely",
+    "role": "宾语补足语（形容词）",
+    "zh": "不太可能……发生"
+   },
+   {
+    "text": "that year.",
+    "role": "时间状语（名词短语直接作状语）",
+    "zh": "在当年"
+   }
+  ],
+  "structure": "①本句是“judge + 宾语 + 形容词”结构（视频说明：judge A unlikely，判断 A 不太可能发生）：主语 officials，谓语 judged，宾语 Day Zero，形容词 unlikely 作宾语补足语，说明宾语的情况。\n②整句相当于 officials judged that Day Zero was unlikely to come that year，用复合宾语代替了宾语从句，表达更紧凑。\n③that year 是名词短语直接作时间状语，指2018年，前面不加介词。\n④本句与第1句前后呼应：1月时警告零日可能在4月到来，3月时官方判断当年不太可能出现零日。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动词 + 宾语 + 形容词（复合宾语）",
+    "explain": "judge、consider、find、think、believe、deem 等表示判断、认为的动词，可以接“宾语 + 形容词”构成复合宾语，形容词作宾语补足语，如 judge sth unlikely、consider sb suitable、find the book useful；宾语和形容词之间可以加 to be。宾语是不定式或从句时，要用 it 作形式宾语，把真正的宾语后置，如 find it difficult to do sth。本句 judged Day Zero unlikely 相当于 judged that Day Zero was unlikely，考研写作中用这种结构可以使句子更简洁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Doctors judged the patient fit to travel.",
+      "zh": "医生们判断这位病人的身体状况适合出行。"
+     },
+     {
+      "en": "Most economists consider a recession unlikely this year.",
+      "zh": "大多数经济学家认为今年不太可能出现经济衰退。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语直接作时间状语",
+    "explain": "带 this、that、last、next、every、each 等限定词的时间名词短语，可以不用介词直接作时间状语，如 that year、last week、every morning、this summer；其中 last、next、this、every 引导的时间短语前不能加介词，不能说 in last week。本句 that year 直接作时间状语，指2018年。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival was cancelled that summer because of the drought.",
+      "zh": "那年夏天，音乐节因为干旱被取消了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "judge",
+    "explain": "动词，判断，断定，常见结构有 judge sb/sth (to be) + 形容词、judge that…、judging from/by…（从……判断）。本句视频译为“判断”。"
+   },
+   {
+    "term": "unlikely",
+    "explain": "形容词，不太可能的，常见结构有 be unlikely to do sth、It is unlikely that…。注意 unlikely 虽以 -ly 结尾，却是形容词，不是副词。本句视频译为“不太可能”。"
+   },
+   {
+    "term": "officials",
+    "explain": "名词 official 的复数，官员，官方人员，如 city officials（市政官员）、government officials（政府官员）。本句指开普敦的官员，视频译为“官员们”。"
+   }
+  ],
+  "translation_tip": "视频译文“2018年3月，官员们判断零日不太可能在当年发生。”的处理：①In March 2018 放在句首，译为“2018年3月”。②judge A unlikely 的复合宾语展开成一个小句“零日不太可能在当年发生”，作“判断”的内容，宾语“零日”成为小句的主语。③汉语“不太可能”后需要动词，所以增补“发生”。④that year 译为“在当年”，放在“发生”之前。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Winter rains",
+   "predicate": "replenished",
+   "object_or_complement": "the reservoirs",
+   "explain": "主干是 Winter rains replenished the reservoirs，主谓宾结构。谓语 replenished 为一般过去时，主动语态。逗号后的 which were about half full by July 是非限制性定语从句。"
+  },
+  "components": [
+   {
+    "text": "Winter rains",
+    "role": "主语",
+    "zh": "冬雨"
+   },
+   {
+    "text": "subsequently",
+    "role": "时间状语（副词）",
+    "zh": "随后"
+   },
+   {
+    "text": "replenished",
+    "role": "谓语",
+    "zh": "重新装满了"
+   },
+   {
+    "text": "the reservoirs,",
+    "role": "宾语",
+    "zh": "各水库"
+   },
+   {
+    "text": "which were about half full by July.",
+    "role": "非限制性定语从句，修饰 the reservoirs",
+    "zh": "到7月时水库已约半满"
+   }
+  ],
+  "structure": "①主句 Winter rains replenished the reservoirs 是主谓宾结构；subsequently 是时间副词，放在主语和谓语之间，意为“随后”，表示冬雨是在上句官方判断之后到来的。\n②which 引导非限制性定语从句，修饰 the reservoirs（视频说明）。which 指 the reservoirs，在从句中作主语；从句为主系表结构，about half full 作表语，by July 是时间状语，意为“到7月时”。\n③replenish 意为“使重新充满，补充”，非限制性定语从句交代了补水的程度：到7月时水库约半满。about half full 与第6句的 roughly a fifth full 结构相同，可以对比：2018年初约五分之一，7月约一半。\n④Winter rains 用复数，指冬季的多场降雨。开普敦地处南半球，冬季在6月至8月前后，属于地中海气候，降雨主要集中在冬季，所以文中补水靠的是冬雨。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "which 引导非限制性定语从句",
+    "explain": "非限制性定语从句用逗号与先行词隔开，对先行词作补充说明，去掉后主句意思仍然完整；引导词可以用 which（指物）、who/whom（指人）、whose，不能用 that。which 在从句中可以作主语或宾语，本句 which 指 the reservoirs，在从句中作主语。which 还可以指代前面整个主句的内容，如 He failed the exam, which surprised everyone。翻译时，非限制性定语从句常拆成独立的分句，并重复或用代词回指先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river, which had dried up during the summer, began to flow again in October.",
+      "zh": "这条河夏天时已经干涸，到10月又重新开始流淌。"
+     },
+     {
+      "en": "The council approved the plan, which will cost about 2 million pounds.",
+      "zh": "市议会批准了这项计划，该计划将耗资约200万英镑。"
+     }
+    ]
+   },
+   {
+    "title": "副词 subsequently 的位置",
+    "explain": "subsequently 意为“随后，后来”，作时间状语时常放在实义动词之前、助动词或系动词 be 之后，也可以放在句首。本句 Winter rains subsequently replenished… 放在主语和谓语之间。被动句中常见 be subsequently + 过去分词，如 was subsequently released。它比 later 正式，考研阅读中常用来交代事件的先后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The suspect was arrested and subsequently released on bail.",
+      "zh": "嫌疑人被逮捕，随后获准保释。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "replenish",
+    "explain": "动词，补充，使重新充满，常见搭配有 replenish stocks/supplies（补充库存/供给）、replenish the reservoirs（给水库补水）。本句视频译为“重新装满了”。"
+   },
+   {
+    "term": "subsequently 与 subsequent",
+    "explain": "subsequently 是副词，随后，后来；形容词 subsequent 意为“随后的，后来的”，如 subsequent events（随后发生的事）、subsequent to sth（在……之后）。"
+   },
+   {
+    "term": "开普敦的冬雨",
+    "explain": "开普敦位于南半球，季节与北半球相反，冬季大约在6月至8月；当地属于地中海气候，夏季干燥，降雨主要集中在冬季。所以文中水库在冬雨之后才得到补充。"
+   }
+  ],
+  "translation_tip": "视频译文“冬雨随后重新装满了各水库，到7月时水库已约半满。”的处理：①subsequently 译为“随后”，放在谓语前。②replenished 译为“重新装满了”；the reservoirs 增译“各”，体现复数，指多个水库。③非限制性定语从句不前置，拆成后续分句，重复“水库”作主语，代替关系代词 which。④by July 前移到分句开头，译为“到7月时”；were about half full 译为“已约半满”，增补“已”，表示到那时已经达到的状态。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The 50-litre limit",
+   "predicate": "was eased",
+   "object_or_complement": "",
+   "explain": "主干是 The 50-litre limit was eased，主谓结构，被动语态。谓语为一般过去时被动语态，in October 2018 作时间状语。"
+  },
+  "components": [
+   {
+    "text": "The 50-litre",
+    "role": "定语（数词 + 名词构成的复合形容词，修饰 limit）",
+    "zh": "50升的"
+   },
+   {
+    "text": "limit",
+    "role": "主语",
+    "zh": "限额"
+   },
+   {
+    "text": "was eased",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "放宽"
+   },
+   {
+    "text": "in October 2018.",
+    "role": "时间状语（介词短语）",
+    "zh": "于2018年10月"
+   }
+  ],
+  "structure": "①本句是主谓结构的被动句：主语 The 50-litre limit，谓语 was eased，in October 2018 作时间状语。限额是“被放宽”的一方，执行者（市政当局）不言自明，所以用被动语态。\n②50-litre 是“数词 + 名词”用连字符连成的复合形容词，作 limit 的前置定语，其中名词用单数 litre，不能写成 50-litres。\n③本句与第9句首尾呼应：2018年2月1日起每人每天限用50升水，同年10月这一限额放宽，标志着这一轮危机缓解。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "数词 + 名词构成复合形容词",
+    "explain": "数词和名词用连字符连起来，可以构成复合形容词，放在名词前作定语，其中的名词一律用单数，如 a 50-litre limit（50升的限额）、a three-week trip（为期三周的旅行）、a ten-year-old boy（一个十岁的男孩）。同样的意思放在名词后或作表语时，名词要用复数，且不用连字符，如 a trip of three weeks、The boy is ten years old。这是考研写作中的常见错误点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She has just returned from a three-week trip to Japan.",
+      "zh": "她刚结束为期三周的日本之旅回来。"
+     },
+     {
+      "en": "The city plans to build a 20-storey office tower near the station.",
+      "zh": "该市计划在车站附近建一座20层的办公大楼。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态译为意义被动",
+    "explain": "英语被动语态比汉语用得多。汉语翻译英语被动句时，常常不用“被”字，而是用意义上的被动，直接把动词放在受事者后面，如“问题解决了”“限额放宽了”。本句 The 50-litre limit was eased 视频译为“50升的限额于2018年10月放宽”，没有用“被”。考研翻译中，滥用“被”字会使译文生硬。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Travel restrictions were lifted in the spring.",
+      "zh": "旅行限制在春季解除了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "limit",
+    "explain": "名词，限额，限度，如 a speed limit（限速）、a time limit（时间限制）、set a limit on sth（对……设定限额）。本句视频译为“限额”。"
+   },
+   {
+    "term": "ease",
+    "explain": "动词，放宽，缓和，常见搭配有 ease restrictions（放宽限制）、ease tension（缓和紧张局势）、ease the pain（减轻疼痛）。名词 ease 意为“容易，轻松”，如 with ease（轻而易举地）。本句视频译为“放宽”。"
+   }
+  ],
+  "translation_tip": "视频译文“50升的限额于2018年10月放宽。”的处理：①复合形容词 50-litre 译为“50升的”，作“限额”的定语。②被动语态 was eased 不译“被”，用意义被动“放宽”。③时间状语 in October 2018 移到谓语前，译为“于2018年10月”，“于”字简洁书面。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The burden",
+   "predicate": "fell",
+   "object_or_complement": "",
+   "explain": "主干是 The burden fell unevenly，主谓结构，fall 是不及物动词，unevenly 作方式状语。谓语 fell 为一般过去时；critics argued 是插入语。"
+  },
+  "components": [
+   {
+    "text": "The burden,",
+    "role": "主语",
+    "zh": "负担"
+   },
+   {
+    "text": "critics argued,",
+    "role": "插入语（主谓结构，说明观点的来源）",
+    "zh": "批评者认为"
+   },
+   {
+    "text": "fell",
+    "role": "谓语（不及物动词，fall 的过去式）",
+    "zh": "分配得"
+   },
+   {
+    "text": "unevenly.",
+    "role": "方式状语（副词）",
+    "zh": "并不均衡"
+   }
+  ],
+  "structure": "①主干是 The burden fell unevenly。fall 在此指负担、责任等“落在（某人身上）”，fell unevenly 表示负担落在不同人身上的轻重不一样，视频意译为“分配得并不均衡”。\n②critics argued 是插入语（视频说明），插在主语和谓语之间，前后用逗号隔开。它表明这是批评者的观点，而不是作者直接的陈述，相当于 Critics argued that the burden fell unevenly。\n③本句是第5段的主题句，从这里开始讲危机的代价和争议：第18句具体说明负担如何不均，第19句讲另一种批评，第20句总结。The burden 指全市限水节水带来的负担。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插入语 critics argued",
+    "explain": "say、argue、claim、believe、warn 等引述动词与其主语可以插在句子中间或放在句末，作插入语，这时插入语在意义上相当于主句，原句其余部分相当于它的宾语从句，如 The burden, critics argued, fell unevenly = Critics argued that the burden fell unevenly。考研阅读中，要通过这类插入语分清哪些是作者的观点、哪些是他人的观点，这往往是态度题和观点题的考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The policy, its supporters claim, will create thousands of jobs.",
+      "zh": "支持者声称，这项政策将创造数千个就业岗位。"
+     },
+     {
+      "en": "Such measures, economists warn, could push up prices for consumers.",
+      "zh": "经济学家警告说，这类措施可能会推高消费者面临的价格。"
+     }
+    ]
+   },
+   {
+    "title": "fall on 表示负担落在某人身上",
+    "explain": "fall 作不及物动词时，可以表示责任、负担、费用等“落在（某人身上）”，常用 fall on/upon sb、fall to sb（某事落到某人头上，由某人负责），如 The responsibility fell on her。本句 fell unevenly 后面没有接 on 短语，表示负担落在各人身上的轻重不一。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The cost of the repairs will fall on the tenants.",
+      "zh": "维修费用将由租户承担。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "burden",
+    "explain": "名词，负担，重担，常见搭配有 bear/share the burden（承担/分担负担）、ease the burden（减轻负担）、the tax burden（税收负担）、a burden on sb（某人的负担）。本句视频译为“负担”。"
+   },
+   {
+    "term": "critic",
+    "explain": "名词，批评者，评论家；相关词有 criticism（批评）、criticise（批评，美式拼写 criticize）、critical（批评的；关键的）。本句 critics 指批评限水措施的人。"
+   },
+   {
+    "term": "unevenly",
+    "explain": "副词，不均衡地，不均匀地，常用于 be unevenly distributed（分配不均）；形容词是 uneven。本句视频译为“并不均衡”。"
+   }
+  ],
+  "translation_tip": "视频译文“批评者认为，负担分配得并不均衡。”的处理：①插入语 critics argued 提到句首，译为“批评者认为，”，把原句其余部分作为“认为”的内容，符合汉语先交代说话人的习惯。②fell unevenly 没有直译为“落得不均衡”，而是意译为“分配得并不均衡”，用“并不”加强否定语气。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Townships（第一分句）；steeper tariffs（第二分句）",
+   "predicate": "had made do with（第一分句，long 插在中间）；squeezed（第二分句）",
+   "object_or_complement": "scant water（第一分句，with 的宾语）；them（第二分句宾语）",
+   "explain": "本句是 yet 连接的转折并列句。第一分句谓语 had long made do with 为过去完成时，make do with 相当于一个及物动词；第二分句是主谓宾结构，谓语 squeezed 为一般过去时，hardest 作程度状语。"
+  },
+  "components": [
+   {
+    "text": "Townships,",
+    "role": "第一分句主语",
+    "zh": "城镇区"
+   },
+   {
+    "text": "poor areas segregated by race under apartheid,",
+    "role": "同位语，补充说明 Townships；其中 segregated by race under apartheid 是过去分词短语作后置定语，修饰 areas",
+    "zh": "在种族隔离制度下按种族被隔离出来的贫困地区"
+   },
+   {
+    "text": "had long",
+    "role": "助动词 had（构成过去完成时）+ 时间副词 long",
+    "zh": "长期以来就"
+   },
+   {
+    "text": "made do with",
+    "role": "谓语主体（与 had 构成过去完成时；make do with 意为“靠……勉强凑合”）",
+    "zh": "靠……勉强对付"
+   },
+   {
+    "text": "scant water,",
+    "role": "介词 with 的宾语",
+    "zh": "很少的水"
+   },
+   {
+    "text": "yet",
+    "role": "并列连词（表示转折）",
+    "zh": "然而"
+   },
+   {
+    "text": "steeper tariffs",
+    "role": "第二分句主语（steeper 为 steep 的比较级，作定语）",
+    "zh": "更高的水价"
+   },
+   {
+    "text": "squeezed",
+    "role": "谓语",
+    "zh": "压榨了"
+   },
+   {
+    "text": "them",
+    "role": "宾语（指 Townships）",
+    "zh": "他们"
+   },
+   {
+    "text": "hardest.",
+    "role": "程度状语（副词最高级）",
+    "zh": "最大程度地"
+   }
+  ],
+  "structure": "①yet 连接两个转折关系的分句：前一分句说城镇区一直用水很少，后一分句说涨价对它们的打击却最重，具体说明上句的“负担分配不均”。\n②第一分句主语是 Townships，后面的 poor areas segregated by race under apartheid 是同位语，补充说明 Townships（视频说明），交代南非语境中 township 的含义。同位语内部，segregated by race 是过去分词短语作后置定语，修饰 areas（视频说明），by race 表示依据，意为“按种族”；under apartheid 是状语，说明是在种族隔离制度下被隔离的。\n③第一分句谓语是 had long made do with scant water：had made do with 是过去完成时，表示在2018年危机之前很长一段时间里一直如此；副词 long 插在助动词 had 和 made 之间，意为“长期”。make do with + 名词 意为“靠……勉强凑合，将就着用”（视频说明），scant water 是 with 的宾语。\n④第二分句 steeper tariffs squeezed them hardest：steeper 是 steep 的比较级，指水价比以前更高；them 指 Townships（视频说明），实际指住在城镇区的居民；hardest 是副词 hard 的最高级，作程度状语，表示受到的挤压最大。\n⑤两个分句的转折在于：城镇区本来就用水少，没有多少可节省的余地，却要承受最重的涨价压力。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是紧跟在名词后面、对其作进一步解释说明的成分，与前面的名词指同一事物，常用逗号隔开，可以由名词短语、从句等充当。本句 poor areas segregated by race under apartheid 是 Townships 的同位语，向读者解释这个带有南非特色的词。同位语内部还可以带自己的定语，本句 segregated by race under apartheid 修饰 areas。考研阅读中，同位语常用来解释专有名词或术语，是理解生词的重要线索；分析长难句时，主语后用逗号隔开的名词短语往往是同位语，不要把它误当成谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Kyoto, the former imperial capital of Japan, attracts millions of visitors each year.",
+      "zh": "京都，日本昔日的皇都，每年吸引数以百万计的游客。"
+     },
+     {
+      "en": "The study was led by Maria Lopez, a professor of urban planning at the university.",
+      "zh": "这项研究由该大学的城市规划教授玛丽亚·洛佩斯领导。"
+     }
+    ]
+   },
+   {
+    "title": "had long done 表示过去长期持续的状态",
+    "explain": "过去完成时可以表示到过去某一时间为止一直持续的动作或状态，常与 long、for years、since 等连用。副词 long 放在助动词 had 和过去分词之间，意为“长期以来”，如 had long suspected、had long been known。本句 had long made do with scant water 表示在2018年危机之前，城镇区一直用很少的水勉强度日。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Scientists had long suspected a link between the two diseases before it was finally confirmed.",
+      "zh": "在这两种疾病之间的关联最终得到证实之前，科学家们早就怀疑二者有关。"
+     }
+    ]
+   },
+   {
+    "title": "副词最高级 hardest",
+    "explain": "副词最高级表示在三者或三者以上中程度最高，副词最高级前的 the 常可省略，如 squeezed them hardest、hit hardest。新闻报道中常用 be hit hardest、be the hardest hit 表示“受打击最严重”。本句 hardest 修饰 squeezed，说明城镇区受到的挤压最大，与第20句的 weighed heaviest 相呼应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Small businesses were hit hardest by the rise in energy prices.",
+      "zh": "能源价格上涨对小企业的打击最为严重。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "township",
+    "explain": "在南非语境中，township 指种族隔离时期划给黑人等非白人居住的城镇区，通常位于城市边缘，条件较差；在美国等地则指镇区（县以下的行政区划）。本句的同位语 poor areas segregated by race under apartheid 正是对这一含义的解释，视频译为“城镇区”。"
+   },
+   {
+    "term": "apartheid",
+    "explain": "种族隔离制度，特指南非从1948年起实行、直到20世纪90年代初才废除的种族隔离政策，常用 under apartheid（在种族隔离制度下）。该词借自南非荷兰语（阿非利卡语），字面意思是“分离状态”（apart 分开的 + 表示状态的后缀 -heid）。"
+   },
+   {
+    "term": "make do with",
+    "explain": "靠……勉强凑合，将就着用（视频说明），指在条件不足的情况下设法应付，如 make do with an old computer（将就着用一台旧电脑）。也可以单用 make do，如 We'll have to make do。视频译为“靠……勉强对付”。"
+   },
+   {
+    "term": "scant",
+    "explain": "形容词，很少的，不足的，较正式，常用于不可数名词前，如 scant attention（很少的关注）、scant evidence（证据不足）、pay scant regard to sth（对……不太重视）。视频译为“很少的”。"
+   },
+   {
+    "term": "steep tariffs",
+    "explain": "steep 本义“陡峭的”，用于价格、费用时表示“过高的”，如 steep prices；用于升降时表示“急剧的”，如 a steep rise。tariff 指水电等公用事业的收费标准，也指关税，本句视频译为“水价”。"
+   },
+   {
+    "term": "squeeze",
+    "explain": "动词，本义“挤压”，引申为使（人或预算）拮据、压榨，如 Households are being squeezed by rising costs（家庭因成本上涨而手头拮据）。本句视频译为“压榨了”。"
+   }
+  ],
+  "translation_tip": "视频译文“城镇区，在种族隔离制度下按种族被隔离出来的贫困地区，长期以来就靠很少的水勉强对付，然而更高的水价最大程度地压榨了他们。”的处理：①同位语保留在原位，前后用逗号隔开；同位语内部的过去分词短语和介词短语都前置，译为“在种族隔离制度下按种族被隔离出来的”，修饰“贫困地区”。②had long 译为“长期以来就”，make do with scant water 译为“靠很少的水勉强对付”。③yet 译为“然而”，体现转折。④steeper 译为“更高的”，tariffs 结合语境译为“水价”；hardest 译为状语“最大程度地”，放在“压榨了”之前；them 译为“他们”，指城镇区的居民。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "Others",
+   "predicate": "blamed",
+   "object_or_complement": "alarmist warnings（宾语；for tourist cancellations 表示被归咎的事）",
+   "explain": "主干是 Others blamed alarmist warnings for tourist cancellations，主谓宾结构，blame A for B 意为“把 B 归咎于 A”。谓语 blamed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Others",
+    "role": "主语（代词，相当于 other people，与上文的 critics 相对）",
+    "zh": "另一些人"
+   },
+   {
+    "text": "blamed",
+    "role": "谓语（与 for 构成 blame A for B）",
+    "zh": "责备"
+   },
+   {
+    "text": "alarmist warnings",
+    "role": "宾语（blame A for B 中的 A；alarmist 作前置定语）",
+    "zh": "危言耸听的警告"
+   },
+   {
+    "text": "for tourist cancellations.",
+    "role": "原因状语（介词短语，blame A for B 中的 B；tourist 作定语修饰 cancellations）",
+    "zh": "因为这些警告造成了游客取消行程"
+   }
+  ],
+  "structure": "①本句是 blame A for B 结构（视频说明：把 B 归咎于 A）：主语 Others，谓语 blamed，宾语 alarmist warnings 是被指责的对象，for tourist cancellations 说明被归咎的坏结果。\n②Others 是代词，相当于 other people，与第17句的 critics 相对：一部分批评者指出负担分配不均，另一些人则批评警告危言耸听。\n③alarmist warnings 指零日之类的警告，alarmist 带贬义，表示过分夸大危险、制造恐慌；tourist cancellations 中 tourist 作定语，指游客取消行程。这是批评者的看法，作者只是转述，并没有表态。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "blame A for B 与 blame B on A",
+    "explain": "blame A for B 表示“因 B 而责备 A，把 B 归咎于 A”，A 是责任方，B 是坏结果；同样的意思可以说成 blame B on A，介词变了，两个宾语的位置也互换。另一个常用结构是 A is to blame for B（A 应为 B 负责），注意这里用主动形式 to blame，不说 to be blamed。本句 blamed alarmist warnings for tourist cancellations 也可说成 blamed tourist cancellations on alarmist warnings。考研阅读中，这类结构常用来表达因果关系和责任归属，要分清谁是原因、谁是结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Residents blamed the council for the delays in rubbish collection.",
+      "zh": "居民们把垃圾清运的延误归咎于市议会。"
+     },
+     {
+      "en": "Residents blamed the delays in rubbish collection on the council.",
+      "zh": "居民们把垃圾清运的延误归咎于市议会。"
+     }
+    ]
+   },
+   {
+    "title": "others 作代词",
+    "explain": "others 是 other 的复数代词形式，相当于 other people 或 other things，泛指其余的人或物中的一部分，常与 some 呼应，构成 some…others…（一些……另一些……）。the others 则指一定范围内其余的全部；another 指三者或以上中的另一个。本句 Others 与上文的 critics 呼应，指另一部分批评者。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some students prefer online classes; others find them isolating.",
+      "zh": "一些学生更喜欢网课，另一些学生则觉得上网课很孤单。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "alarmist",
+    "explain": "形容词，危言耸听的，制造恐慌的，带贬义，如 alarmist warnings/reports（危言耸听的警告/报道）；作名词指危言耸听的人。由 alarm（惊恐，警报）加 -ist 构成。视频译为“危言耸听的”。"
+   },
+   {
+    "term": "cancellation",
+    "explain": "名词，取消，如 booking cancellations（预订取消）、a cancellation fee（取消费用）；动词是 cancel，英式英语过去式写作 cancelled，美式写作 canceled，但名词 cancellation 英美都双写 l。本句 tourist cancellations 视频译为“游客取消行程”。"
+   },
+   {
+    "term": "blame",
+    "explain": "动词，责备，归咎；名词意为“责任，责备”，如 take/accept the blame（承担责任）、put the blame on sb（把责任推给某人）。本句视频译为“责备”。"
+   }
+  ],
+  "translation_tip": "视频译文“另一些人则责备危言耸听的警告，因为这些警告造成了游客取消行程。”的处理：①blame A for B 拆成两个分句：前一分句“责备危言耸听的警告”，后一分句用“因为”把 for 隐含的因果关系明确译出。②增补“则”，体现与上文批评者观点的对照；后一分句增补“这些警告”回指 A。③名词短语 tourist cancellations 展开为主谓结构“游客取消行程”，并增补“造成了”，交代警告与取消行程之间的因果关系。"
+ },
+ {
+  "n": 20,
+  "trunk": {
+   "subject": "Households, farmers, and rain（第一分句）；the sacrifice（第二分句）",
+   "predicate": "kept（第一分句）；weighed（第二分句）",
+   "object_or_complement": "the collection points（宾语）idle（宾语补足语）（第一分句）；第二分句无宾语",
+   "explain": "本句是 but 连接的转折并列句。第一分句三个并列主语带一个谓语，keep + 宾语 + 形容词构成复合宾语；第二分句是主谓结构，weigh on 意为“压在……身上”，heaviest 作程度状语。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Households,",
+    "role": "并列主语一",
+    "zh": "家庭"
+   },
+   {
+    "text": "farmers,",
+    "role": "并列主语二",
+    "zh": "农民"
+   },
+   {
+    "text": "and rain",
+    "role": "并列连词 and + 并列主语三",
+    "zh": "和雨水"
+   },
+   {
+    "text": "kept",
+    "role": "谓语（keep + 宾语 + 形容词）",
+    "zh": "让……一直"
+   },
+   {
+    "text": "the collection points",
+    "role": "宾语",
+    "zh": "取水点"
+   },
+   {
+    "text": "idle,",
+    "role": "宾语补足语（形容词）",
+    "zh": "闲置"
+   },
+   {
+    "text": "but",
+    "role": "并列连词（表示转折）",
+    "zh": "但"
+   },
+   {
+    "text": "the sacrifice",
+    "role": "第二分句主语",
+    "zh": "这份牺牲"
+   },
+   {
+    "text": "weighed heaviest",
+    "role": "谓语 weighed（与 on 构成 weigh on）+ 程度状语 heaviest（副词最高级）",
+    "zh": "最沉重地落在了"
+   },
+   {
+    "text": "on those",
+    "role": "介词 on + 宾语 those（those 指“……的人”）",
+    "zh": "那些……人身上"
+   },
+   {
+    "text": "with the least to give.",
+    "role": "后置定语（介词短语），修饰 those；其中不定式 to give 作 the least 的后置定语",
+    "zh": "最没有能力付出的"
+   }
+  ],
+  "structure": "①but 连接两个转折关系的分句：前一分句总结结果，零日没有到来；后一分句话锋一转，指出代价分配不公，呼应第17句的 The burden… fell unevenly。本句是全文的总结。\n②第一分句有三个并列主语 Households, farmers, and rain，用 A, B, and C 的格式连接，and 前的逗号是牛津逗号。三者分别对应前文：家庭节水（第10、11句）、农民放水和少取水（第13句）、冬雨补水（第15句）。\n③kept the collection points idle 是“keep + 宾语 + 形容词”结构，形容词 idle 作宾语补足语，表示使取水点一直处于闲置状态（视频说明：因为省水成功没断水，取水点没用上，一直闲置）。the collection points 回指第3句中约200个指定的取水点。\n④第二分句 the sacrifice weighed heaviest on those…：weigh on 意为“压在……身上”（视频说明），heaviest 是 heavy 的最高级，在此作副词用，插在 weighed 和 on 之间，表示压得最重。the sacrifice 概括全城为节水付出的代价。\n⑤those with the least to give 中，those 指“那些人”，with the least to give 是介词短语作后置定语，修饰 those（视频说明）；the least 是代词，意为“最少的东西”，不定式 to give 作它的后置定语。字面意思是“可以付出的东西最少的人”，即最没有能力付出的人，结合第18句，主要指城镇区的贫困居民。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "keep + 宾语 + 宾语补足语",
+    "explain": "keep 可以接“宾语 + 形容词/现在分词/过去分词/介词短语”构成复合宾语，表示使某人或某物保持某种状态，如 keep the door open、keep sb waiting、keep the room locked、keep sb in suspense。本句 kept the collection points idle 中形容词 idle 作宾补，表示取水点一直没有派上用场。注意区分：keep sb doing 表示使某人一直做某事，keep sb from doing 表示阻止某人做某事，二者意思相反。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy snow kept the schools closed for three days.",
+      "zh": "大雪使学校停课了三天。"
+     },
+     {
+      "en": "The coach kept the players waiting for nearly an hour.",
+      "zh": "教练让队员们等了将近一个小时。"
+     }
+    ]
+   },
+   {
+    "title": "those + 后置定语 表示“……的人”",
+    "explain": "those 可以泛指“那些人”，后面常接定语从句、介词短语、分词短语等作后置定语，如 those who…、those with…、those living nearby、those in need。这里的 those 不能换成 them，因为 them 后面不能接定语。本句 those with the least to give 中，介词短语 with the least to give 修饰 those。考研阅读和写作中这一结构很常用，如 those who disagree（持不同意见的人）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Free meals will be offered to those in need.",
+      "zh": "将为有需要的人提供免费餐食。"
+     },
+     {
+      "en": "Those living near the airport have long complained about the noise.",
+      "zh": "住在机场附近的人长期以来一直抱怨噪音问题。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作后置定语",
+    "explain": "不定式可以放在名词或不定代词后作定语，表示将要做或可以做的事，被修饰词与不定式之间常是动宾关系，如 a lot to learn（有很多要学）、nothing to lose（没什么可失去的）、little to offer（没什么可提供的）。本句 the least to give 中，to give 修饰代词 the least，the least 是 give 的逻辑宾语，意为“可以付出的最少的东西”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Young people with little to lose are often more willing to take risks.",
+      "zh": "没什么可失去的年轻人往往更愿意冒险。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "weigh on",
+    "explain": "压在……身上，使……感到负担沉重，常说 weigh heavily on sb（沉重地压在某人身上），如 The decision weighed heavily on him（这个决定使他心情沉重）。本句视频译为“最沉重地落在了……身上”。"
+   },
+   {
+    "term": "idle",
+    "explain": "形容词，闲置的，未被使用的，如 lie idle（闲置）、idle machines（闲置的机器）；用于人时意为“无所事事的，懒散的”。本句视频译为“闲置”。"
+   },
+   {
+    "term": "sacrifice",
+    "explain": "本句是名词，牺牲，代价，常见搭配有 make sacrifices（作出牺牲）、at great personal sacrifice（付出巨大的个人牺牲）；也可作动词，sacrifice A for B（为了 B 牺牲 A）。视频译为“这份牺牲”。"
+   },
+   {
+    "term": "the least",
+    "explain": "little 的最高级，本句作代词，意为“最少的东西”。the least to give 指能拿出来付出的东西最少，视频意译为“最没有能力付出”。"
+   }
+  ],
+  "translation_tip": "视频译文“家庭、农民和雨水让取水点一直闲置，但这份牺牲最沉重地落在了那些最没有能力付出的人身上。”的处理：①三个并列主语译为“家庭、农民和雨水”，前两项之间用顿号。②keep + 宾语 + idle 译为“让取水点一直闲置”，“一直”体现 keep 表示的状态持续。③weighed heaviest on 译为“最沉重地落在了……身上”，副词最高级 heaviest 译为状语“最沉重地”。④介词短语后置定语前移，those with the least to give 译为“那些最没有能力付出的人”，the least to give 意译为“最没有能力付出”。⑤the sacrifice 译为“这份牺牲”，用“这份”回指全城付出的代价。"
+ }
+]
