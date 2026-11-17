@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><link rel="stylesheet" href="style.css">
+<style>
+body { background: radial-gradient(100% 80% at 50% 30%, #4a3622 0%, #2b1f14 70%, #1f160e 100%); color: #f7ead2; }
+.no { position: absolute; left: 40px; top: 34px; font-weight: 900; font-size: 15px; color: #2b1f14; background: #e8c27a; padding: 5px 12px; border-radius: 8px; letter-spacing: 1px; }
+.h { position: absolute; left: 40px; top: 70px; font-family: 'SERIFSC'; font-weight: 900; font-size: 48px; letter-spacing: 2px; line-height: 1.15; }
+.h span { color: #e8c27a; }
+.s { position: absolute; left: 42px; top: 136px; font-size: 18px; color: #d9c4a0; letter-spacing: 1px; }
+.spread { position: absolute; display: flex; box-shadow: 0 26px 50px rgba(0,0,0,.55); }
+.spread img { display: block; }
+.big { left: 70px; top: 190px; }
+.big img { width: 330px; height: 469px; }
+.big img:first-child { border-radius: 4px 0 0 4px; } .big img:last-child { border-radius: 0 4px 4px 0; }
+.big::after { content: ''; position: absolute; left: 50%; top: 0; bottom: 0; width: 26px; transform: translateX(-50%); background: linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0,.22), rgba(0,0,0,0)); }
+.small { right: 34px; top: 452px; transform: rotate(4deg); border: 4px solid #fff; border-radius: 4px; }
+.small img { width: 120px; height: 171px; }
+.tagA { position: absolute; left: 70px; top: 672px; font-family: 'SERIFSC'; font-weight: 600; font-size: 20px; color: #f7ead2; }
+.tagA b { color: #e8c27a; font-weight: 900; }
+.tagB { position: absolute; right: 40px; top: 672px; font-size: 14px; color: #d9c4a0; }
+.facts { position: absolute; left: 70px; top: 712px; display: flex; gap: 10px; }
+.facts span { font-size: 14.5px; font-weight: 700; color: #2b1f14; background: #e8c27a; border-radius: 999px; padding: 5px 12px; }
+</style></head>
+<body><div class="canvas">
+  <div class="no">加送 · 两种版式</div>
+  <div class="h">像翻开一本<span>古书</span></div>
+  <div class="s">《考研学人》电子书，羊皮纸古书版和普通版都给你</div>
+  <div class="spread big"><img src="../assets/parch_5.png"><img src="../assets/parch_6.png"></div>
+  <div class="spread small"><img src="../assets/book_5.png"><img src="../assets/book_6.png"></div>
+  <div class="tagA"><b>羊皮纸古书版</b>　做旧纸张 · 双线边框 · 赭红重点词</div>
+  <div class="facts"><span>356 页</span><span>70 篇中英对照</span><span>文后词表：原形 ＋ 词性 ＋ 语境义</span></div>
+  <div class="tagB">右边小图：普通版，干净清爽</div>
+</div></body></html>

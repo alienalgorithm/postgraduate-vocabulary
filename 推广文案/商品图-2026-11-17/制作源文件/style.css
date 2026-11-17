@@ -1,0 +1,30 @@
+@font-face { font-family: 'SC'; font-weight: 500; src: url(../fonts/NotoSansSC-500.ttf); }
+@font-face { font-family: 'SC'; font-weight: 700; src: url(../fonts/NotoSansSC-700.ttf); }
+@font-face { font-family: 'SC'; font-weight: 900; src: url(../fonts/NotoSansSC-900.ttf); }
+@font-face { font-family: 'SERIFSC'; font-weight: 600; src: url(../fonts/NotoSerifSC-600.ttf); }
+@font-face { font-family: 'SERIFSC'; font-weight: 900; src: url(../fonts/NotoSerifSC-900.ttf); }
+@font-face { font-family: 'EN'; font-style: normal; src: url(../fonts/SourceSerif4Display-Regular.ttf); }
+@font-face { font-family: 'EN'; font-style: italic; src: url(../fonts/SourceSerif4Display-Italic.ttf); }
+
+:root {
+  --navy: #10264a;
+  --blue: #1f4fa3;
+  --sky: #dbe8fb;
+  --gold: #f2b544;
+  --gold-deep: #c98a12;
+  --cream: #fbf5ea;
+  --paper: #fffdf8;
+  --ink: #1d2433;
+  --muted: #5b6577;
+  --red: #e4572e;
+  --green: #0f3b2e;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 800px; height: 800px; overflow: hidden; }
+body { font-family: 'SC', sans-serif; font-weight: 500; color: var(--ink); background: var(--cream); position: relative; }
+.canvas { position: absolute; inset: 0; overflow: hidden; }
+.en { font-family: 'EN', serif; }
+.shadow { box-shadow: 0 18px 40px rgba(16, 38, 74, .28), 0 4px 10px rgba(16, 38, 74, .18); }
+.pill { display: inline-flex; align-items: center; gap: 8px; padding: 7px 16px; border-radius: 999px; font-weight: 700; font-size: 17px; letter-spacing: .5px; }
+.hl { color: var(--gold); }
+.brand { position: absolute; font-weight: 700; font-size: 15px; letter-spacing: 1px; color: var(--muted); }

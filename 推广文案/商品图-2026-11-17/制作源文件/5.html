@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><link rel="stylesheet" href="style.css">
+<style>
+body { background: linear-gradient(180deg, #fbf5ea 0%, #f3e6cd 100%); }
+.no { position: absolute; left: 40px; top: 34px; font-weight: 900; font-size: 15px; color: #fff; background: var(--red); padding: 5px 12px; border-radius: 8px; letter-spacing: 1px; }
+.h { position: absolute; left: 40px; top: 70px; font-weight: 900; font-size: 50px; color: var(--navy); letter-spacing: 1px; line-height: 1.15; }
+.h span { color: var(--red); }
+.s { position: absolute; left: 42px; top: 136px; font-size: 18px; color: var(--muted); letter-spacing: 1px; }
+.card { position: absolute; width: 300px; height: 424px; background: #fff; border-radius: 6px; overflow: hidden; box-shadow: 0 18px 36px rgba(16,38,74,.25); }
+.card img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.a { left: 44px; top: 200px; transform: rotate(-5deg); z-index: 2; }
+.b { left: 208px; top: 214px; transform: rotate(4deg); z-index: 3; }
+.ans { position: absolute; left: 92px; top: 600px; width: 250px; height: 150px; display: none; }
+.zoom { position: absolute; right: 28px; top: 196px; width: 344px; background: #fff; border-radius: 16px; box-shadow: 0 12px 28px rgba(16,38,74,.16); padding: 16px 18px; z-index: 4; }
+.zoom .t { font-weight: 900; font-size: 15px; color: var(--muted); letter-spacing: 1px; margin-bottom: 8px; }
+.row { display: flex; align-items: baseline; gap: 7px; white-space: nowrap; padding: 8px 0; border-bottom: 1px dashed #e3d8c3; font-size: 16px; }
+.row:last-child { border-bottom: none; }
+.row .n { font-family: 'EN'; color: var(--gold-deep); width: 16px; text-align: right; font-size: 15px; }
+.row .p { font-family: 'EN'; font-style: italic; color: #8a93a3; font-size: 15px; }
+.row .w { font-family: 'EN'; font-size: 18px; color: var(--navy); }
+.row .z { color: var(--ink); }
+.pts { position: absolute; right: 28px; top: 480px; width: 330px; z-index: 4; }
+.pt { display: flex; gap: 10px; align-items: flex-start; margin-bottom: 14px; }
+.pt .d { flex: none; width: 26px; height: 26px; border-radius: 50%; background: var(--red); color: #fff; font-weight: 900; font-size: 15px; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
+.pt b { display: block; font-weight: 900; font-size: 18px; color: var(--navy); }
+.pt i { display: block; font-style: normal; font-size: 13.5px; color: var(--muted); margin-top: 2px; }
+</style></head>
+<body><div class="canvas">
+  <div class="no">卖点 4</div>
+  <div class="h">学完马上测，<span>记住没有一测便知</span></div>
+  <div class="s">每篇两张听写卡，词条和书里的词表一模一样</div>
+  <div class="card a"><img src="../assets/card_zh2en.png"></div>
+  <div class="card b"><img src="../assets/card_en2zh.png"></div>
+  <div class="zoom">
+    <div class="t">每条都写原形 ＋ 词性 ＋ 本文意思</div>
+    <div class="row"><span class="n">5</span><span class="w">creep</span><span class="p">vi.</span><span class="z">悄悄爬行；缓慢移动</span></div>
+    <div class="row"><span class="n">8</span><span class="w">atop</span><span class="p">prep.</span><span class="z">在……顶上</span></div>
+    <div class="row"><span class="n">11</span><span class="w">compress</span><span class="p">vt.</span><span class="z">压缩；挤压</span></div>
+    <div class="row"><span class="n">28</span><span class="w">stem from</span><span class="p">phr.</span><span class="z">源于；由……引起</span></div>
+  </div>
+  <div class="pts">
+    <div class="pt"><div class="d">1</div><div><b>汉译英</b><i>看词性和中文，写出英文原形</i></div></div>
+    <div class="pt"><div class="d">2</div><div><b>英译汉</b><i>看原形和词性，写出本文意思</i></div></div>
+    <div class="pt"><div class="d">3</div><div><b>答案单独一页</b><i>可以打印，自己批改</i></div></div>
+  </div>
+</div></body></html>
