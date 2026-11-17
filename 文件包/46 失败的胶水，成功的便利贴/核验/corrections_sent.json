@@ -1,0 +1,119 @@
+[
+ {
+  "key": "n=1",
+  "field": "grammar[1].explain",
+  "before": "它常暗示结果未必如愿，叙述中常与后文的“结果却……”形成对照",
+  "after": "它本身只交代初衷，不说明结果如何，叙述中常与后文的实际结果形成对照",
+  "reason": "set out to do 词典释义只表示带着目标开始做某事，并不暗示结果未必如愿，原说法不准确"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar[1].explain",
+  "before": "第13句的 showed little enthusiasm 也表示“几乎没有热情”。",
+  "after": "第13句的 showed little enthusiasm 也强调热情极少，视频译为“极少的热情”。",
+  "reason": "讲解须与视频译文一致，不另立译法"
+ },
+ {
+  "key": "n=5",
+  "field": "grammar[1].explain",
+  "before": "本句说 in informal chats（在闲谈中）和 at seminars（在研讨会上），介词不同，不能写成 in informal chats and seminars。",
+  "after": "本句 in informal chats（在闲谈中）和 at seminars（在研讨会上）各用与自身名词搭配的介词，介词不同，所以两个都保留。",
+  "reason": "in seminars 本身也合乎语法，原说“不能写成 in informal chats and seminars”过于绝对"
+ },
+ {
+  "key": "n=5",
+  "field": "translation_tip",
+  "before": "③句末两个并列的场合状语单独成句",
+  "after": "③句末两个并列的场合状语单独译成一个分句",
+  "reason": "视频译文仍是一句话，两个状语译成的是分句而非独立的句子"
+ },
+ {
+  "key": "n=6",
+  "field": "knowledge[1].explain",
+  "before": "如 a solution to the problem、find a solution to…，不用 for 或 of。",
+  "after": "如 a solution to the problem、find a solution to…，这是最标准的搭配，写作中优先用 to。",
+  "reason": "原说“不用 for 或 of”过于绝对（solution for 在实际使用中可见，数学中有 the solution of an equation）"
+ },
+ {
+  "key": "n=9",
+  "field": "grammar[2].explain",
+  "before": "at school（在上学）；",
+  "after": "at school（在上学）、in hospital（住院，英式；美式多说 in the hospital）；",
+  "reason": "补充 hospital 零冠词用法的英美差异，避免误导"
+ },
+ {
+  "key": "n=11",
+  "field": "grammar[0].explain",
+  "before": "直接宾语是代词时一般用后一种，说 give it to him，不说 give him it。",
+  "after": "直接宾语是代词时一般用后一种，通常说 give it to him，一般不说 give him it。",
+  "reason": "give him it 在英式口语中偶见，原说法过于绝对"
+ },
+ {
+  "key": "n=11",
+  "field": "grammar[1].explain",
+  "before": "也可以把原因转成状语，如“因为懊恼，弗莱想到了一个主意”。",
+  "after": "也可以把原因转成状语，如 Curiosity led him to the cave 可译为“出于好奇，他走进了那个山洞”。",
+  "reason": "原文给本句另拟译文，违反“讲解与视频译文一致、不另立译法”，改用文外句子说明"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar[0].explain",
+  "before": "如本句 where = in which cities。",
+  "after": "如本句 where = in which，即 in these cities。",
+  "reason": "“in which cities”不是 where 的正确等价改写"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar[0].examples[0]",
+  "before": {
+   "en": "The festival is held in Edinburgh, where it attracts visitors from all over the world.",
+   "zh": "这个艺术节在爱丁堡举行，在那里它吸引着来自世界各地的游客。"
+  },
+  "after": {
+   "en": "The conference will be held in Geneva, where the organisation has its headquarters.",
+   "zh": "会议将在日内瓦举行，该组织的总部就设在那里。"
+  },
+  "reason": "原例句语义别扭（艺术节“在那里吸引游客”），译文欧化，换成更地道的例句"
+ },
+ {
+  "key": "n=13",
+  "field": "knowledge[2].explain",
+  "before": "如 first-time purchasers（首次购房者）",
+  "after": "如 first-time purchasers（首次购买者，常指首次购房者）",
+  "reason": "first-time purchasers 本义是首次购买者，原注释把词义窄化"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar[1].examples[1]",
+  "before": {
+   "en": "Nearly 40 per cent of the graduates found jobs abroad within a year.",
+   "zh": "近40%的毕业生在一年之内找到了海外工作。"
+  },
+  "after": {
+   "en": "Nearly 40 per cent of the graduates are now working abroad.",
+   "zh": "近40%的毕业生目前在海外工作。"
+  },
+  "reason": "原例句谓语是过去式 found，看不出单复数，不能示范“百分数作主语时谓语单复数”这一语法点"
+ },
+ {
+  "key": "n=18",
+  "field": "grammar[0].explain",
+  "before": "宾语 A 较长时，也可以写成 owe to B A。",
+  "after": "",
+  "reason": "owe to B A 的语序极少见，作为规则讲给考生易误导，删去"
+ },
+ {
+  "key": "n=18",
+  "field": "grammar[0].explain",
+  "before": "注意不要与 owing to（由于）混淆，后者是介词短语。",
+  "after": "注意不要与 owing to（由于）混淆，后者是短语介词。",
+  "reason": "owing to 是短语介词（复合介词），不是介词短语"
+ },
+ {
+  "key": "n=18",
+  "field": "grammar[1].explain",
+  "before": "本句 stationery staple 中 stationery 修饰 staple，signature canary tone 中 signature 和 canary 都修饰 tone。",
+  "after": "本句 stationery staple 中 stationery 修饰 staple；signature canary tone 中 signature（本义“签名”）和 canary（本义“金丝雀”）也是名词出身，在这里作前置定语修饰 tone，分别表示“标志性的”和颜色，词典也把这种用法列为形容词。",
+  "reason": "与单词精解把 signature、canary 标为 adj. 的处理协调，说明两种归类的关系"
+ }
+]

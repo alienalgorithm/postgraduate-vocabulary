@@ -1,0 +1,1787 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Spencer Silver",
+   "predicate": "set out to make",
+   "object_or_complement": "a super-strong adhesive",
+   "explain": "主干是 Spencer Silver set out to make a super-strong adhesive，主谓宾结构。set out to do sth 是固定结构，意为“着手做某事”，与不定式中的 make 一起构成谓语部分，a super-strong adhesive 是 make 的宾语。谓语为一般过去时，主动语态，叙述过去的具体事件。"
+  },
+  "components": [
+   {
+    "text": "In 1968",
+    "zh": "1968年",
+    "role": "时间状语（介词短语，年份前用 in）"
+   },
+   {
+    "text": "Spencer Silver,",
+    "zh": "斯潘塞·西尔弗",
+    "role": "主语"
+   },
+   {
+    "text": "a scientist at 3M,",
+    "zh": "3M公司的一位科学家",
+    "role": "同位语，补充说明 Spencer Silver 的身份；at 3M 作 scientist 的后置定语"
+   },
+   {
+    "text": "set out to make",
+    "zh": "着手研制",
+    "role": "谓语（set out to do 着手做某事，to make 表示着手要做的事）"
+   },
+   {
+    "text": "a super-strong adhesive.",
+    "zh": "一种超强黏合剂",
+    "role": "宾语（make 的宾语）"
+   }
+  ],
+  "structure": "①主句是 Spencer Silver set out to make a super-strong adhesive：主语 Spencer Silver，谓语 set out to make，宾语 a super-strong adhesive。set out to do 表示带着明确目标开始做某事，交代西尔弗最初的研究目标是“超强”的黏合剂，为下文研制结果与目标相反埋下伏笔。\n②a scientist at 3M 是名词短语作同位语，前后用逗号隔开，补充说明 Spencer Silver 的身份（视频说明：同位语，补充说明 Spencer Silver）。同位语内部，at 3M 是介词短语作后置定语，修饰 scientist，说明他在哪家公司任职。\n③句首 In 1968 是时间状语，因为很短，与主语之间没有用逗号隔开。\n④super-strong 是由前缀 super- 和形容词 strong 构成的复合形容词，作 adhesive 的前置定语。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是紧跟在名词后面、对它的身份或内容作补充说明的名词性成分，与前面的名词指同一个人或物，通常用逗号隔开。本句 a scientist at 3M 就是 Spencer Silver，去掉后句子结构仍然完整。新闻和人物叙述中常用“人名, 身份,”的格式首次介绍人物，第9句的 Art Fry, a colleague who…, 也是这种写法。考研阅读中，同位语前后的两个逗号容易被误读为并列成分，要看逗号中间的名词是否与前面的名词指同一对象；找主干时可先跳过同位语，直接把主语和谓语连起来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, a physicist born in Warsaw, was the first woman to win a Nobel Prize.",
+      "zh": "玛丽·居里，一位出生于华沙的物理学家，是第一位获得诺贝尔奖的女性。"
+     },
+     {
+      "en": "The report was written by Dr Lee, an economist at the central bank.",
+      "zh": "这份报告由中央银行的经济学家李博士撰写。"
+     }
+    ]
+   },
+   {
+    "title": "set out to do sth：动词短语接不定式表示意图",
+    "explain": "set out to do sth 意为“着手做某事，开始做某事（带有明确目的）”，后面接动词不定式，表示要实现的目标。它本身只交代初衷，不说明结果如何，叙述中常与后文的实际结果形成对照，本句与下一句 The polymer he produced did something else 就是这样衔接的。注意区分 set out for/from 某地（出发去某地、从某地出发）和及物用法 set out sth（陈述、阐明；摆放）。考研阅读中，set out to 引出的往往是人物的初衷，下文多半出现转折。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team set out to build a cheaper battery and ended up discovering a new material.",
+      "zh": "这个团队着手研制一种更便宜的电池，结果却发现了一种新材料。"
+     }
+    ]
+   },
+   {
+    "title": "句首短状语后的逗号可以省略",
+    "explain": "句首的介词短语状语较短时（如 In 1968、In 2010、At first），后面的逗号常常省略，直接接主语；状语较长或容易造成误读时才加逗号。本句 In 1968 Spencer Silver… 没有逗号，读的时候要自己断开：In 1968 是状语，Spencer Silver 才是主语。本文第9句 In 1974 Art Fry、第13句 In 1977 the notes 都是同样的写法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In 2019 the city banned single-use plastic bags.",
+      "zh": "2019年，这座城市禁止使用一次性塑料袋。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "set out to do sth",
+    "explain": "着手做某事（视频说明：set out to do：着手做……），强调带着目标开始行动。同义表达有 set about doing sth、undertake to do sth。注意 set about 后接动名词，set out 后接不定式。"
+   },
+   {
+    "term": "3M",
+    "explain": "美国企业，原名 Minnesota Mining and Manufacturing Company（明尼苏达矿业及制造公司），三个以 M 开头的单词构成简称 3M。视频译为“3M公司”，增补了“公司”。"
+   },
+   {
+    "term": "super-strong",
+    "explain": "前缀 super- 意为“超级的，特别的”，加在形容词前表示程度极高，如 super-rich、super-fast；加在名词前表示“超级……”，如 supermarket、superpower。super-strong 即“超强的”。"
+   },
+   {
+    "term": "adhesive",
+    "explain": "名词，黏合剂、胶黏剂，比 glue 正式，多用于技术和产品说明；也可作形容词，意为“有黏性的”，如 adhesive tape（胶带）。动词是 adhere（粘附），本文第3句出现。"
+   },
+   {
+    "term": "make",
+    "explain": "make 的基本义是“做，制造”，宾语是产品、材料时，可根据语境译成“研制、制造”。本句宾语是一种新型黏合剂，视频译为“研制”。"
+   }
+  ],
+  "translation_tip": "视频译文“1968年，斯潘塞·西尔弗，3M公司的一位科学家，着手研制一种超强黏合剂。”的处理：①同位语 a scientist at 3M 保留在原位，前后用逗号隔开，译成插入成分，与英文结构一致。②同位语内部的后置定语 at 3M 前移，译成“3M公司的”，增补“公司”说明 3M 是一家企业。③不定冠词 a 根据中心词分别译成量词“一位”“一种”。④make 结合宾语 adhesive 译为“研制”，与 set out to 合起来译为“着手研制”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "The polymer",
+   "predicate": "did",
+   "object_or_complement": "something else",
+   "explain": "主干是 The polymer did something else，主谓宾结构；he produced 是省略了关系代词的定语从句，修饰 polymer。谓语 did 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The polymer",
+    "zh": "聚合物",
+    "role": "主语"
+   },
+   {
+    "text": "he produced",
+    "zh": "他制成的",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 The polymer"
+   },
+   {
+    "text": "did",
+    "zh": "却做了",
+    "role": "谓语"
+   },
+   {
+    "text": "something else.",
+    "zh": "其他的事情",
+    "role": "宾语（不定代词 something 加后置修饰语 else）"
+   }
+  ],
+  "structure": "①主句是 The polymer did something else：主语 The polymer，谓语 did，宾语 something else。\n②he produced 是省略了关系代词的限制性定语从句（视频说明：定语从句，省略了关系代词，修饰 polymer），完整形式是 The polymer (that/which) he produced。被省略的关系代词在从句中作 produced 的宾语，所以可以省略；从句主语 he 指上句的 Spencer Silver。\n③something else 中，else 修饰不定代词 something，放在它的后面，意为“别的事情”。句子字面上没有转折词，但“做了别的事情”与上句 set out to make a super-strong adhesive 的目标相对：研制出的聚合物没有成为超强黏合剂，而是表现出另一种性质，具体是什么由下一句交代。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "省略关系代词的限制性定语从句",
+    "explain": "关系代词 that、which、whom 在限制性定语从句中作宾语时可以省略，作主语时不能省略。识别方法：名词后面直接跟着另一个“主语 + 谓语”，且这个谓语缺宾语，所缺的宾语就是前面的名词。本句 The polymer he produced 中，produced 后面缺宾语，所缺的正是 polymer。考研长难句中，这种结构容易让人把从句的谓语 produced 当成全句的谓语；本句真正的谓语是后面的 did。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The theory she proposed in 2005 is now widely accepted.",
+      "zh": "她在2005年提出的理论如今已被广泛接受。"
+     },
+     {
+      "en": "Most of the money the charity raised went to local schools.",
+      "zh": "这家慈善机构筹集的大部分资金都用于当地学校。"
+     }
+    ]
+   },
+   {
+    "title": "else 后置修饰不定代词",
+    "explain": "else 意为“别的，其他的”，修饰 something、anything、nothing、everything、someone、somebody 等不定代词，以及 what、who、where 等疑问词时，要放在它们后面，如 something else、anyone else、what else。不能说 else something。else 的所有格加在 else 上，如 someone else's book。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "If this method fails, we will have to try something else.",
+      "zh": "如果这个方法不行，我们就得另想办法。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "polymer",
+    "explain": "名词，聚合物，指由许多相同或相似的小分子单元重复连接而成的大分子物质，塑料、橡胶和许多胶黏剂都属于聚合物。视频译为“聚合物”。相关词 monomer（单体）。"
+   },
+   {
+    "term": "produce",
+    "explain": "本句意为“制成，制造出”，宾语是西尔弗研制出的材料，视频译为“制成”。produce 作名词时重音在第一音节，指农产品。"
+   },
+   {
+    "term": "do something else",
+    "explain": "字面义是“做了别的事情”。本句以物作主语，指这种聚合物表现出的不是预期中的超强黏性，而是另一种性质。视频直译为“做了其他的事情”，并用“然而”“却”点明与预期相反。"
+   }
+  ],
+  "translation_tip": "视频译文“然而他制成的聚合物却做了其他的事情。”的处理：①省略关系代词的定语从句 he produced 前置，译成“他制成的”，修饰“聚合物”。②原文没有转折词，但本句的结果与上句“着手研制一种超强黏合剂”的目标相反，视频增补“然而”和“却”，把隐含的转折关系明确表达出来。③something else 直译为“其他的事情”，保留原文以物作主语的说法，具体是什么事情由下一句揭示。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Its tiny spheres",
+   "predicate": "formed",
+   "object_or_complement": "a layer",
+   "explain": "主干是 Its tiny spheres formed a layer，主谓宾结构，谓语 formed 为一般过去时，主动语态；with little tack 修饰 layer，giving… 是现在分词短语作结果状语，so 引出表示结果的分句。"
+  },
+  "components": [
+   {
+    "text": "Its tiny spheres",
+    "zh": "它的微小的球状颗粒",
+    "role": "主语（Its 指上句的 The polymer）"
+   },
+   {
+    "text": "formed",
+    "zh": "形成",
+    "role": "谓语"
+   },
+   {
+    "text": "a layer",
+    "zh": "一层……涂层",
+    "role": "宾语"
+   },
+   {
+    "text": "with little tack,",
+    "zh": "黏着力很小的",
+    "role": "后置定语（介词短语），修饰 a layer"
+   },
+   {
+    "text": "giving",
+    "zh": "让",
+    "role": "结果状语（现在分词短语）的核心动词，逻辑主语是前面主句所说的情况"
+   },
+   {
+    "text": "paper",
+    "zh": "纸张",
+    "role": "giving 的间接宾语"
+   },
+   {
+    "text": "a temporary hold,",
+    "zh": "获得暂时的黏着",
+    "role": "giving 的直接宾语（give sb/sth sth 双宾语结构）"
+   },
+   {
+    "text": "so",
+    "zh": "因此",
+    "role": "连词，引出表示结果的分句"
+   },
+   {
+    "text": "it",
+    "zh": "纸张",
+    "role": "结果分句的主语（it 指 paper）"
+   },
+   {
+    "text": "would adhere,",
+    "zh": "能粘附上去",
+    "role": "结果分句谓语一（would 后接动词原形，表示过去情形下具有的能力或特性）"
+   },
+   {
+    "text": "peel off,",
+    "zh": "揭下后",
+    "role": "结果分句谓语二（短语动词，与 adhere 共用 would）"
+   },
+   {
+    "text": "and be reapplied.",
+    "zh": "还能重新贴上",
+    "role": "结果分句谓语三（被动语态 be reapplied，同样共用 would）"
+   }
+  ],
+  "structure": "①主句是 Its tiny spheres formed a layer with little tack：主语 Its tiny spheres，Its 指上句的 The polymer；谓语 formed；宾语 a layer。with little tack 是介词短语作后置定语，修饰 layer（视频说明：介词短语作后置定语，修饰 layer），说明这层涂层黏着力很小。\n②giving paper a temporary hold 是现在分词短语作结果状语（视频说明：现在分词短语作结果状语），表示前面主句所述情况自然带来的结果。giving 的逻辑主语是“这些球状颗粒形成一层低黏涂层”这件事；give paper a temporary hold 是双宾语结构，paper 是间接宾语，a temporary hold 是直接宾语。\n③so 引出表示结果的分句 it would adhere, peel off, and be reapplied。主语 it 指 paper；would 同时管辖三个并列谓语 adhere、peel off、be reapplied，用 A, B, and C 的格式连接，and 前是牛津逗号。前两个是主动形式的不及物动词（短语），第三个 be reapplied 是被动语态（视频说明：被重新贴上，被动语态），因为纸张是被人重新贴上的。\n④全句的逻辑链条是：形成低黏涂层，带来暂时的黏着，所以纸张能贴、能揭、能再贴。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，可以表示主句动作或情况自然引起的结果，相当于 and this gave…。它的逻辑主语可以是主句的主语，也可以是主句所述的整件事。本句 giving paper a temporary hold 说明低黏涂层带来的结果。注意区分：表示意料之外的结果常用不定式 only to do（如 only to find…），表示自然而然的结果用现在分词。考研翻译中，这类分词短语常译成“从而……”“使……”，视频译为“让纸张获得暂时的黏着”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell for three days, causing widespread flooding in the valley.",
+      "zh": "大雨连下了三天，造成山谷里大范围洪涝。"
+     },
+     {
+      "en": "The factory closed in 2015, leaving hundreds of workers without jobs.",
+      "zh": "这家工厂于2015年关闭，使数百名工人失业。"
+     }
+    ]
+   },
+   {
+    "title": "little 与 a little：否定意味",
+    "explain": "little 修饰不可数名词时意为“很少的，几乎没有”，带否定意味，强调不足；a little 意为“一点儿”，带肯定意味。可数名词对应 few 与 a few。本句 with little tack 强调黏性很弱，正是这种胶与“超强”目标相反之处；第13句的 showed little enthusiasm 也强调热情极少，视频译为“极少的热情”。考研阅读中，little、few 常是判断作者态度的关键词，不能当成“有一些”来理解。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government has shown little interest in reforming the tax system.",
+      "zh": "政府对改革税制兴趣寥寥。"
+     },
+     {
+      "en": "There is still a little hope that the missing climbers will be found alive.",
+      "zh": "人们仍抱有一点希望，失踪的登山者能被活着找到。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语共用情态动词，主动与被动并存",
+    "explain": "几个并列谓语可以共用同一个情态动词或助动词，后面的谓语省略情态动词，直接用动词原形；如果某个动作对主语来说是被动的，就用 be + 过去分词。本句 would 管辖 adhere、peel off 和 be reapplied：纸张自己粘附、自己脱落，但“重新贴上”是被人贴，所以用被动。阅读时看到 and be done，要往前找它共用的情态动词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new seats can fold flat, slide forward, and be removed entirely.",
+      "zh": "新座椅可以放平，可以向前滑动，还可以整个拆下。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tack",
+    "explain": "熟词僻义：tack 常见义是“平头钉，图钉”，本句指胶黏剂的黏性、初黏力，视频译为“黏着力”。形容词 tacky 意为“（胶、油漆等）黏的，未干的”。"
+   },
+   {
+    "term": "hold",
+    "explain": "本句作名词，指“附着，固定”，a temporary hold 即“暂时的黏着”。hold 作名词还常指“抓，握”，如 get hold of sth（抓住，得到）、lose one's hold（松手）。"
+   },
+   {
+    "term": "adhere",
+    "explain": "不及物动词，意为“粘附，粘着”，常接 to，如 adhere to the surface；抽象义为“坚持，遵守”，如 adhere to the rules。本句视频译为“粘附”。名词 adhesion，形容词兼名词 adhesive。"
+   },
+   {
+    "term": "peel off",
+    "explain": "本句作不及物短语动词，指贴着的东西“脱落，被揭下来”；及物用法 peel sth off 意为“把某物揭下、剥下”，如 peel off the label。视频译为“揭下”。"
+   },
+   {
+    "term": "sphere",
+    "explain": "本句指微小的球体，视频译为“球状颗粒”。sphere 还可指“领域，范围”，如 the political sphere、sphere of influence（势力范围）。"
+   }
+  ],
+  "translation_tip": "视频译文“它的微小的球状颗粒形成一层黏着力很小的涂层，让纸张获得暂时的黏着，因此纸张能粘附上去，揭下后还能重新贴上。”的处理：①后置定语 with little tack 前移，译成“黏着力很小的”，修饰“涂层”；a layer 增补中心词，译成“一层……涂层”。②现在分词短语 giving paper a temporary hold 作结果状语，译成“让纸张获得暂时的黏着”，双宾语结构用“让……获得……”表达。③so 译为“因此”；代词 it 译成名词“纸张”，避免指代不清。④三个并列谓语按动作先后译成“能粘附上去，揭下后还能重新贴上”：增补“上去”“后”“还”，把粘、揭、再贴的过程连贯起来；被动的 be reapplied 译成主动形式“重新贴上”，符合汉语习惯。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "the formulation",
+   "predicate": "was",
+   "object_or_complement": "a setback",
+   "explain": "主干是 the formulation was a setback，主系表结构，was 是系动词，a setback 作表语。谓语为一般过去时；句首 To an inventor chasing strength 是状语，表示作出判断的立场。"
+  },
+  "components": [
+   {
+    "text": "To an inventor",
+    "zh": "对一个……发明者来说",
+    "role": "状语（介词短语 to sb，表示“对某人来说”）"
+   },
+   {
+    "text": "chasing strength,",
+    "zh": "追求强度的",
+    "role": "后置定语（现在分词短语），修饰 an inventor"
+   },
+   {
+    "text": "the formulation",
+    "zh": "这种配方",
+    "role": "主语（指上文所说的聚合物）"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词"
+   },
+   {
+    "text": "a setback.",
+    "zh": "一次挫折",
+    "role": "表语"
+   }
+  ],
+  "structure": "①主句是 the formulation was a setback：主语 the formulation，系动词 was，表语 a setback。the formulation 回指第2、3句描述的聚合物，换用“配方”一词，避免重复 polymer。\n②句首 To an inventor chasing strength 是介词短语作状语，to sb 表示“对某人来说”（视频说明：to sb：对某人来说），限定后面判断成立的立场：只有从追求强度的发明者的角度看，它才是挫折。\n③chasing strength 是现在分词短语作后置定语，修饰 inventor（视频说明：现在分词短语作后置定语，修饰 inventor），相当于定语从句 who was chasing strength；inventor 与 chase 是主动关系，所以用现在分词。\n④本句为第一段作结：目标是超强，结果却黏性很弱，所以在当时看来是失败。句首的 To an inventor chasing strength 也暗示，换一个角度看，这种配方未必没有价值，与标题 The Glue That Failed Its Way to Success 相呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语修饰名词时放在名词后面，表示主动或正在进行，与被修饰名词是主谓关系，相当于一个定语从句。本句 an inventor chasing strength = an inventor who was chasing strength，发明者是“追求”的发出者。与之相对，过去分词作定语表示被动或完成，如本文第10句 bookmarks wedged in…（被夹着的书签）。考研长难句中，名词后紧跟 -ing 短语时，要判断它是定语还是状语：本句 chasing strength 紧贴 inventor，说明的是哪种发明者，是定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Students applying for the scholarship must submit two letters of recommendation.",
+      "zh": "申请该奖学金的学生必须提交两封推荐信。"
+     },
+     {
+      "en": "Companies chasing short-term profits often neglect long-term research.",
+      "zh": "追逐短期利润的公司往往忽视长期研究。"
+     }
+    ]
+   },
+   {
+    "title": "to sb 表示判断的立场",
+    "explain": "介词 to 后接人，放在句首或句末，可以表示“在某人看来，对某人来说”，说明后面的判断是从谁的角度作出的，如 To me, the plan seems risky。常与 seem、appear、be 等搭配，也可以说 to sb's mind（依某人看来）。这类状语提示判断是相对的：换一个人、换一个角度，结论可能不同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "To a child, a cardboard box can be a castle, a ship, or a spacecraft.",
+      "zh": "对孩子来说，一个纸箱可以是城堡、船，也可以是宇宙飞船。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "chase",
+    "explain": "本义是“追赶，追逐”，引申为“追求（目标、成功等）”，如 chase a dream、chase profits。本句 chasing strength 指追求黏合强度，视频译为“追求强度的”。"
+   },
+   {
+    "term": "formulation",
+    "explain": "本句指（化学品、药品、化妆品等的）配方，视频译为“配方”；也可指“制定，构想”，如 the formulation of policy（政策的制定），或“表述方式”。动词 formulate，名词 formula（配方；公式）。"
+   },
+   {
+    "term": "setback",
+    "explain": "名词，挫折、阻碍，常见搭配有 suffer a setback（遭受挫折）、a major setback、a temporary setback。来自短语动词 set back（阻碍，使推迟）。视频译为“挫折”。"
+   },
+   {
+    "term": "inventor",
+    "explain": "名词，发明者、发明家，动词 invent，名词 invention（发明物）。本句泛指追求强度的发明者，实际指的是西尔弗本人。"
+   }
+  ],
+  "translation_tip": "视频译文“对一个追求强度的发明者来说，这种配方是一次挫折。”的处理：①To an inventor 译成汉语固定格式“对……来说”，放在句首，与原文语序一致。②现在分词短语 chasing strength 作后置定语，前移译成“追求强度的”，嵌入“一个……发明者”之间。③the formulation 译为“这种配方”，用“这种”回指上文的聚合物。④a setback 中的 a 译成量词“一次”，表语“一次挫折”与系动词“是”构成判断句。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Silver",
+   "predicate": "acted as",
+   "object_or_complement": "its promoter",
+   "explain": "主干是 Silver acted as its promoter，主谓宾结构，短语动词 act as 作谓语，its promoter 作它的宾语。谓语为一般过去时，主动语态，配合 For five years 表示过去持续了五年、已经结束的行为。"
+  },
+  "components": [
+   {
+    "text": "For five years",
+    "zh": "五年间",
+    "role": "时间状语（介词短语，for + 时间段，表示动作持续的时间）"
+   },
+   {
+    "text": "Silver",
+    "zh": "西尔弗",
+    "role": "主语"
+   },
+   {
+    "text": "acted as",
+    "zh": "充当",
+    "role": "谓语（短语动词 act as，意为“充当，担任”）"
+   },
+   {
+    "text": "its promoter",
+    "zh": "它的推广者",
+    "role": "宾语（act as 的宾语），its 指这种聚合物"
+   },
+   {
+    "text": "within 3M's corporate ranks,",
+    "zh": "在3M的企业上下",
+    "role": "地点状语（介词短语），说明推广的范围"
+   },
+   {
+    "text": "in informal chats",
+    "zh": "在非正式的闲谈中",
+    "role": "场合状语（介词短语）"
+   },
+   {
+    "text": "and at seminars.",
+    "zh": "也在研讨会上",
+    "role": "场合状语（介词短语），与 in informal chats 并列"
+   }
+  ],
+  "structure": "①主句是 Silver acted as its promoter：主语 Silver，谓语 acted as（视频说明：act as：充当），宾语 its promoter。its 指第2至4句所说的聚合物，即这种黏性很弱的胶。\n②For five years 是时间状语，for 加时间段表示动作持续的时间；谓语用一般过去时，说明这五年的推广发生在过去、早已结束。\n③within 3M's corporate ranks 是地点状语，within 意为“在……内部”，corporate ranks 指公司的全体成员和各个层级（视频说明：within…ranks：在……内部上下），说明西尔弗是在公司内部推广，对象是同事，而不是市场上的顾客。\n④in informal chats and at seminars 是两个并列的介词短语，说明推广的场合：私下的闲谈和正式的研讨会。两个短语介词不同（in chats、at seminars），所以都要保留，不能合并。下文第9句的 one of those talks 就回指这些场合中的讲座。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "for + 时间段与一般过去时",
+    "explain": "for + 时间段表示动作或状态持续了多长时间。它与现在完成时连用，表示从过去持续到现在、可能还在继续，如 He has worked here for five years；与一般过去时连用，表示过去某段时间内持续、现已结束的情况，如本句 For five years Silver acted as its promoter。考研写作和翻译中，要根据动作是否延续到现在来选择时态，不能见到 for 就用现在完成时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She lived in Paris for ten years before returning to London.",
+      "zh": "她在巴黎住了十年，后来回到了伦敦。"
+     },
+     {
+      "en": "The museum has been closed for renovation for two years.",
+      "zh": "这座博物馆因翻修已经闭馆两年了。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语并列作状语",
+    "explain": "两个或多个介词短语可以用 and 并列，共同修饰同一个谓语。如果并列的介词相同，后面的介词可以省略；介词不同时都必须保留，因为介词由各自的名词决定。本句 in informal chats（在闲谈中）和 at seminars（在研讨会上）各用与自身名词搭配的介词，介词不同，所以两个都保留。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The idea was discussed in the newspapers and on television.",
+      "zh": "这个想法在报纸上和电视上都有讨论。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "act as",
+    "explain": "充当，担任（某角色），常接表示身份、作用的名词，如 act as a guide、act as an interpreter；主语也可以是物，如 The trees act as a windbreak（这些树起防风作用）。注意 act like 意为“表现得像……”。视频译为“充当”。"
+   },
+   {
+    "term": "promoter",
+    "explain": "推广者、倡导者；也可指演出、体育比赛的“主办人，承办人”。本句指在公司内部宣传这种胶的人，视频译为“推广者”。动词 promote（推广；促进；提升）。"
+   },
+   {
+    "term": "ranks",
+    "explain": "the ranks 指某一团体或组织的成员，如 the ranks of the unemployed（失业大军）、join the ranks of…（成为……中的一员）；rise through the ranks 指从基层一步步晋升。本句 3M's corporate ranks 指3M公司上上下下的员工，视频译为“3M的企业上下”。"
+   },
+   {
+    "term": "corporate",
+    "explain": "形容词，公司的、企业的，如 corporate culture（企业文化）、corporate headquarters（公司总部）。本句修饰 ranks，视频译为“企业”。"
+   },
+   {
+    "term": "seminar",
+    "explain": "研讨会，研讨课，指人数不多、以讨论为主的会议或课程，如 attend a seminar on marketing。视频译为“研讨会”。"
+   }
+  ],
+  "translation_tip": "视频译文“五年间，西尔弗在3M的企业上下充当它的推广者，在非正式的闲谈中、也在研讨会上介绍它。”的处理：①For five years 译成“五年间”，置于句首。②地点状语 within 3M's corporate ranks 前移到谓语前，译成“在3M的企业上下”，符合汉语状语在动词前的习惯。③句末两个并列的场合状语单独译成一个分句，增补动词“介绍它”，并用顿号和“也”连接，避免状语堆在谓语前显得冗长。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "it",
+   "predicate": "was",
+   "object_or_complement": "a solution without a problem",
+   "explain": "主干是 it was a solution，主系表结构，without a problem 是介词短语作后置定语，修饰 solution。谓语为一般过去时；句首 In his own summary 是状语，交代这一说法出自西尔弗本人。"
+  },
+  "components": [
+   {
+    "text": "In his own summary,",
+    "zh": "用他自己的话总结",
+    "role": "状语（介词短语，说明这一评价的出处）"
+   },
+   {
+    "text": "it",
+    "zh": "这",
+    "role": "主语（指西尔弗发明的这种胶）"
+   },
+   {
+    "text": "was",
+    "zh": "完全是",
+    "role": "系动词（视频增补“完全”加强语气）"
+   },
+   {
+    "text": "a solution",
+    "zh": "一个……方案",
+    "role": "表语"
+   },
+   {
+    "text": "without a problem.",
+    "zh": "解决“不存在的问题”的",
+    "role": "后置定语（介词短语），修饰 a solution"
+   }
+  ],
+  "structure": "①主句是 it was a solution without a problem：主语 it，指西尔弗发明的这种胶；系动词 was；表语 a solution，without a problem 是介词短语作后置定语，修饰 solution。\n②In his own summary 是介词短语作状语，his 指西尔弗，own 强调是他本人的概括，不是旁人的评价。\n③a solution without a problem 字面义是“没有问题的解决方案”。solution 通常是针对某个问题的，这里却“没有问题”：发明已经有了，却找不到需要它来解决的实际问题（视频说明：他发明的这种胶当时还找不到合适的用途。“有方案却没问题”，是说发明已经有了，实际用途却还没找到）。这句话概括了第5句五年推广无果的原因。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "without 引导的介词短语作后置定语",
+    "explain": "介词短语修饰名词时放在名词后面。without + 名词 作后置定语表示“没有……的”，与 with + 名词（有……的）相对，如 a room without windows（没有窗户的房间）、a layer with little tack（本文第3句，黏着力很小的涂层）。翻译时通常前置为“没有……的”或“不带……的”；本句视频结合 solution 的含义，译为“解决“不存在的问题”的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A city without parks is a city without a place to breathe.",
+      "zh": "没有公园的城市，就是没有地方透气的城市。"
+     }
+    ]
+   },
+   {
+    "title": "one's own + 名词：强调“本人的”",
+    "explain": "own 用在物主代词或名词所有格之后，强调“自己的，本人的”，不能单独放在冠词后，不说 an own summary。表示“某人自己的一个……”用 a … of one's own，如 a room of her own。本句 In his own summary 强调这是西尔弗本人的说法；类似表达有 in his own words（用他自己的话说）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In her own words, the experiment was a beautiful failure.",
+      "zh": "用她自己的话说，这次实验是一次美丽的失败。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a solution without a problem",
+    "explain": "字面义是“没有问题的解决方案”，指先做出了发明或技术，却找不到它能解决的实际需求。视频译为“一个解决“不存在的问题”的方案”，并在说明中解释：发明已经有了，实际用途却还没找到。"
+   },
+   {
+    "term": "solution",
+    "explain": "本句意为“解决方案，解决办法”，常接 to，如 a solution to the problem、find a solution to…，这是最标准的搭配，写作中优先用 to。solution 在化学中还指“溶液”，动词 solve（解决）。"
+   },
+   {
+    "term": "summary",
+    "explain": "名词，总结、概括、摘要，常见搭配有 in summary（概括地说，简言之）、a brief summary。本句 In his own summary 视频译为“用他自己的话总结”。"
+   }
+  ],
+  "translation_tip": "视频译文“用他自己的话总结，这完全是一个解决“不存在的问题”的方案。”的处理：①In his own summary 不直译为“在他自己的总结中”，而是译成“用他自己的话总结”，own 的强调意味用“自己的话”体现。②it 译为“这”，系动词前增补“完全”加强语气。③a solution without a problem 若直译为“没有问题的方案”，容易被误解为“方案没有毛病”；视频把 solution 的含义展开为“解决……的方案”，把 without a problem 译成“不存在的问题”并加引号，准确传达“有方案却没问题”的意思。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "His perseverance",
+   "predicate": "met",
+   "object_or_complement": "indifference",
+   "explain": "主干是 His perseverance met indifference，主谓宾结构，以抽象名词作主语和宾语。谓语 met 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His perseverance",
+    "zh": "他的坚持不懈",
+    "role": "主语"
+   },
+   {
+    "text": "met",
+    "zh": "换来的是",
+    "role": "谓语（meet 意为“遭遇，得到（某种反应）”）"
+   },
+   {
+    "text": "indifference.",
+    "zh": "冷漠",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①本句是简单的主谓宾结构：主语 His perseverance，谓语 met，宾语 indifference。His 指西尔弗。\n②meet 本义是“遇见”，这里主语和宾语都是抽象名词，表示某种努力“遭遇到”某种反应，即他的坚持换来的只是别人的冷漠。perseverance 概括第5句五年的推广，indifference 概括同事们的反应。\n③本句只有四个词，用两个抽象名词形成对比，一边是坚持，一边是冷漠，节奏简短，突出推广的徒劳。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "meet 表示“遭遇，得到（某种反应）”",
+    "explain": "meet 除“遇见，会面”外，还可以接 opposition、criticism、resistance、indifference、approval 等表示反应的抽象名词，意为“遭遇，受到”；常用 meet with 和被动形式 be met with，如 The proposal met with fierce opposition、The news was met with silence。本句主语是 His perseverance，宾语是 indifference，表示坚持得到的反应是冷漠。考研阅读中，这类结构常用来交代某个提议、政策受到的反响，是判断态度的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The plan to close the library met strong resistance from local residents.",
+      "zh": "关闭图书馆的计划遭到了当地居民的强烈反对。"
+     },
+     {
+      "en": "Her suggestion was met with polite silence.",
+      "zh": "她的建议换来的是礼貌的沉默。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词作主语和宾语（物称表达）",
+    "explain": "英语常用抽象名词作主语和宾语，把“谁做了什么、结果怎样”压缩进名词里，句子简短紧凑，这种写法常称为物称表达。本句不说 He persevered, but people were indifferent，而说 His perseverance met indifference。汉语多用人作主语，翻译时常要把抽象名词还原成动作或状态，或改用判断句；视频译成“他的坚持不懈换来的是冷漠”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her arrival brought an end to the argument.",
+      "zh": "她一到，争吵就停止了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "perseverance",
+    "explain": "名词，坚持不懈、毅力，指遇到困难仍坚持下去，褒义，如 show great perseverance。动词 persevere（坚持），常接 with 或 in，如 persevere with one's studies。视频译为“坚持不懈”。"
+   },
+   {
+    "term": "indifference",
+    "explain": "名词，冷漠、漠不关心，常接 to/towards，如 indifference to the suffering of others。形容词 indifferent（漠不关心的；一般的）。视频译为“冷漠”。"
+   }
+  ],
+  "translation_tip": "视频译文“他的坚持不懈换来的是冷漠。”的处理：①谓语 met 不直译为“遇到了”，而是译成“换来的是”，把主谓宾结构改为“……换来的是……”的判断句，突出付出与回报的落差。②两个抽象名词保留名词形式，分别译为“坚持不懈”和“冷漠”，与原文的简洁对比相对应。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The unconventional material（第一分句）；the pursuit（第二分句）",
+   "predicate": "found（第一分句）；proved（第二分句）",
+   "object_or_complement": "no use（found 的宾语）；fruitless（proved 的表语）",
+   "explain": "本句是 and 连接的并列句：第一分句 The unconventional material found no use 是主谓宾结构；第二分句 the pursuit proved fruitless 是主系表结构，prove 作系动词。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The unconventional material",
+    "zh": "这种非常规的材料",
+    "role": "第一分句主语"
+   },
+   {
+    "text": "found",
+    "zh": "找不到",
+    "role": "第一分句谓语（no 的否定意义在汉语中落到动词上）"
+   },
+   {
+    "text": "no use,",
+    "zh": "用途",
+    "role": "第一分句宾语（no 作限定词，否定 use）"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，连接两个分句，不单独译出）",
+    "role": "并列连词"
+   },
+   {
+    "text": "the pursuit",
+    "zh": "这番追求",
+    "role": "第二分句主语"
+   },
+   {
+    "text": "proved",
+    "zh": "终究",
+    "role": "第二分句系动词（prove + 形容词，表示“结果是”）"
+   },
+   {
+    "text": "fruitless.",
+    "zh": "一无所获",
+    "role": "第二分句表语（形容词）"
+   }
+  ],
+  "structure": "①本句是由 and 连接的两个并列分句，逗号加 and 是并列句的常见标点。\n②第一分句 The unconventional material found no use：主语 The unconventional material 指西尔弗的聚合物，换用 material 一词避免重复；谓语 found；宾语 no use，no 否定 use，found no use 相当于 did not find any use，即找不到用途。\n③第二分句 the pursuit proved fruitless：主语 the pursuit 指西尔弗五年来为这种胶寻找用途、四处推广的努力；proved 是系动词（视频说明：prove＋形容词：结果是……）；fruitless 是形容词作表语。\n④两个分句一前一后，先说材料没有用途，再说努力没有结果，为第二段的推广经历作结。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "prove 作系动词：结果是，证明是",
+    "explain": "prove 作系动词时后接形容词或名词作表语，意为“结果是，后来证明是”，强调经过一段时间或尝试之后才显现出来的结果，如 prove useful、prove difficult、prove (to be) a success。它没有被动语态，不说 was proved fruitless 来表达这个意思。同类的系动词还有 turn out（to be）。考研阅读和翻译中，prove 后面接形容词时要识别出它是系动词，译成“结果……”“最终……”，视频译为“终究”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new drug proved effective in only a small number of patients.",
+      "zh": "这种新药结果只对少数患者有效。"
+     },
+     {
+      "en": "Finding a parking space in the city centre proved impossible.",
+      "zh": "在市中心找个停车位，结果根本办不到。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词 表示完全否定",
+    "explain": "no 作限定词放在名词前，表示“没有任何……”，相当于 not any 或 not a，否定意义比 not 更强，如 find no use = not find any use、have no time = not have any time。no 后接可数名词单数、复数或不可数名词均可。翻译时否定意义通常转移到动词上，译成“找不到……”“没有……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The investigation found no evidence of fraud.",
+      "zh": "调查没有发现任何欺诈的证据。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "find no use",
+    "explain": "找不到用途。肯定说法是 find a use for sth（为某物找到用途），如 We found a use for the old boxes。本句以物作主语，the material found no use 即“这种材料找不到用途”。另有 have no use for sth/sb，意为“不需要；讨厌”。"
+   },
+   {
+    "term": "unconventional",
+    "explain": "形容词，非常规的、不落俗套的，由 un- 加 conventional（常规的，传统的）构成，如 unconventional methods。本句指这种胶的性质与常见的强力胶不同，视频译为“非常规的”。"
+   },
+   {
+    "term": "pursuit",
+    "explain": "名词，追求、寻找，常见短语 in pursuit of sth（追求某物）、the pursuit of happiness；还可指“追赶”和“消遣，爱好”。动词 pursue。本句视频译为“追求”。"
+   },
+   {
+    "term": "fruitless",
+    "explain": "形容词，没有结果的、徒劳的，如 a fruitless search、fruitless efforts。fruit 引申指“成果”，加 -less 表示“没有成果”；反义词 fruitful（富有成果的）。视频译为“一无所获”。"
+   }
+  ],
+  "translation_tip": "视频译文“这种非常规的材料找不到用途，这番追求终究一无所获。”的处理：①found no use 中 no 的否定意义转移到动词上，译成“找不到用途”。②并列连词 and 不单独译出，两个分句用逗号连接，汉语靠意思自然衔接。③the pursuit 译为“这番追求”，用“这番”回指上文五年的努力。④系动词 proved 译成副词“终究”，表示经过努力之后的最终结果；表语 fruitless 译成四字词“一无所获”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Art Fry",
+   "predicate": "faced",
+   "object_or_complement": "a small annoyance",
+   "explain": "主干是 Art Fry faced a small annoyance，主谓宾结构；a colleague who… 是同位语，其中含 who 引导的定语从句。谓语 faced 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1974",
+    "zh": "1974年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Art Fry,",
+    "zh": "阿特·弗莱",
+    "role": "主语"
+   },
+   {
+    "text": "a colleague",
+    "zh": "一位……同事",
+    "role": "同位语，补充说明 Art Fry 的身份"
+   },
+   {
+    "text": "who had heard one of those talks,",
+    "zh": "听过其中一次讲座的",
+    "role": "限制性定语从句，修饰 a colleague（who 在从句中作主语）"
+   },
+   {
+    "text": "faced",
+    "zh": "遇到了",
+    "role": "谓语"
+   },
+   {
+    "text": "a small annoyance",
+    "zh": "一件小小的烦心事",
+    "role": "宾语"
+   },
+   {
+    "text": "at church.",
+    "zh": "在教堂里",
+    "role": "地点状语（介词短语）"
+   }
+  ],
+  "structure": "①主句是 Art Fry faced a small annoyance at church：主语 Art Fry，谓语 faced，宾语 a small annoyance，at church 作地点状语。\n②a colleague who had heard one of those talks 是同位语，补充说明 Art Fry（视频说明：同位语，补充说明 Art Fry）。colleague 指西尔弗在3M的同事。\n③同位语内部，who 引导定语从句，修饰 colleague（视频说明：定语从句，修饰 colleague），who 在从句中作主语。从句谓语 had heard 是过去完成时，表示听讲座发生在1974年之前；one of those talks 中的 those 回指第5句西尔弗在闲谈和研讨会上所作的介绍。\n④本句与第1句结构相同：时间状语 + 人名 + 同位语 + 谓语，开启故事的新阶段；had heard 把第二段的推广和第三段的转机连接起来，说明西尔弗的推广并非全无作用。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经发生的事。本句主句动作 faced 发生在1974年，弗莱听讲座在此之前，所以用 had heard。叙述文中，过去完成时常用来交代背景或回溯前情，把前文发生的事与眼下的情节连接起来。考研阅读中，遇到 had done 要据此理清事件先后；完形填空中，常根据上下文时间线判断该用一般过去时还是过去完成时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the police arrived, the thieves had already escaped.",
+      "zh": "警察赶到时，小偷已经逃走了。"
+     },
+     {
+      "en": "She recognised the man at once because she had met him at a conference years before.",
+      "zh": "她一眼就认出了那个人，因为几年前她在一次会议上见过他。"
+     }
+    ]
+   },
+   {
+    "title": "同位语中含定语从句",
+    "explain": "同位语本身可以带定语从句，形成“名词, a/an + 名词 + who/which…,”的结构，对人物作较详细的介绍。本句 a colleague who had heard one of those talks 中，同位语的中心词是 colleague，who 从句修饰 colleague。分析时先跳过两个逗号之间的同位语找到主干 Art Fry faced…，再看同位语内部的从句修饰谁。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Dr Patel, a surgeon who has worked in war zones, will speak at the event.",
+      "zh": "帕特尔医生，一位曾在战区工作的外科医生，将在活动上发言。"
+     }
+    ]
+   },
+   {
+    "title": "at church 中的零冠词",
+    "explain": "church、school、college、hospital、prison、bed 等名词表示其主要功能（做礼拜、上学、看病、服刑、睡觉）时，前面不加冠词，如 go to church（去做礼拜）、at school（在上学）、in hospital（住院，英式；美式多说 in the hospital）；只是指那座建筑时要加冠词，如 the church on the hill。本句 at church 指弗莱在教堂参加礼拜活动时，所以不用冠词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her parents met at church more than forty years ago.",
+      "zh": "她的父母四十多年前在教堂做礼拜时相识。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "one of those talks",
+    "explain": "one of + 限定词 + 复数名词，表示“其中的一个”，名词必须用复数。those 回指第5句西尔弗在 informal chats and at seminars 中的介绍，talk 在此作可数名词，指讲座、演讲，视频译为“其中一次讲座”。"
+   },
+   {
+    "term": "face",
+    "explain": "动词，面对、遇到（困难、问题等），如 face a challenge、face criticism；也常用被动 be faced with。本句视频译为“遇到了”。"
+   },
+   {
+    "term": "annoyance",
+    "explain": "名词，可数时指令人烦恼的事，不可数时指烦恼、恼怒，如 to sb's annoyance（令某人恼火的是）。动词 annoy，形容词 annoying（令人恼火的）、annoyed（感到恼火的）。本句 a small annoyance 视频译为“一件小小的烦心事”。"
+   },
+   {
+    "term": "colleague",
+    "explain": "名词，同事，指同一单位或同一职业的人，比 co-worker 正式。本句指弗莱是西尔弗在3M的同事。"
+   }
+  ],
+  "translation_tip": "视频译文“1974年，阿特·弗莱，一位听过其中一次讲座的同事，在教堂里遇到了一件小小的烦心事。”的处理：①与第1句一样，同位语保留在原位，用逗号隔开，译成插入成分。②同位语中的定语从句 who had heard one of those talks 前置，译成“听过其中一次讲座的”，过去完成时用“过”体现。③地点状语 at church 前移到谓语前，译成“在教堂里”。④a small annoyance 译为“一件小小的烦心事”，叠词“小小的”体现 small 的轻描淡写，与后文由此带来的重要发明形成对照。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The paper bookmarks",
+   "predicate": "kept",
+   "object_or_complement": "getting dislodged and falling out",
+   "explain": "主干是 The paper bookmarks kept getting dislodged and falling out，keep doing 结构，两个并列的动名词短语作 kept 的宾语。谓语为一般过去时，keep doing 表示动作反复发生；wedged in… 是过去分词短语作后置定语。"
+  },
+  "components": [
+   {
+    "text": "The paper bookmarks",
+    "zh": "纸书签",
+    "role": "主语（paper 作定语，表示材料）"
+   },
+   {
+    "text": "wedged in his choir's hymn book",
+    "zh": "他所在唱诗班的赞美诗集里夹着的",
+    "role": "后置定语（过去分词短语），修饰 The paper bookmarks"
+   },
+   {
+    "text": "kept",
+    "zh": "总是",
+    "role": "谓语（keep doing，表示动作反复发生）"
+   },
+   {
+    "text": "getting dislodged",
+    "zh": "移位",
+    "role": "kept 的宾语一（get + 过去分词，表示被动）"
+   },
+   {
+    "text": "and falling out.",
+    "zh": "掉出来",
+    "role": "kept 的宾语二（动名词短语，与 getting dislodged 并列）"
+   }
+  ],
+  "structure": "①主句是 The paper bookmarks kept getting dislodged and falling out：主语 The paper bookmarks；谓语 kept；getting dislodged 和 falling out 是两个并列的动名词短语，作 kept 的宾语。keep doing 表示“一直，总是”（视频说明：keep doing：一直，总是），这里带有抱怨的语气，说明这是反复出现的烦恼，即上句的 a small annoyance。\n②wedged in his choir's hymn book 是过去分词短语作后置定语，修饰 bookmarks（视频说明：过去分词短语作后置定语，修饰 bookmarks），相当于 which were wedged in his choir's hymn book，书签是“被夹进”书里的，所以用过去分词。\n③定语内部，his choir's hymn book 是两层所有关系：his choir（他所在的唱诗班），choir's hymn book（唱诗班用的赞美诗集）。\n④getting dislodged 是 get + 过去分词 构成的被动结构（视频说明：get＋过去分词：被……），表示书签被碰得移了位；falling out 是主动形式，表示书签自己掉出来，两个动作一前一后。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "及物动词的过去分词短语放在名词后面作定语，表示被动或完成，与被修饰的名词是动宾关系，相当于一个被动的定语从句。本句 bookmarks wedged in his choir's hymn book = bookmarks which were wedged in his choir's hymn book。考研长难句中，名词后紧跟 -ed 形式时要判断它是谓语还是定语：本句真正的谓语是后面的 kept，wedged 只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The letters found in the attic shed new light on the poet's early life.",
+      "zh": "在阁楼里发现的信件为了解这位诗人的早年生活提供了新的线索。"
+     },
+     {
+      "en": "Products made from recycled plastic are becoming more popular.",
+      "zh": "用回收塑料制成的产品越来越受欢迎。"
+     }
+    ]
+   },
+   {
+    "title": "keep doing 表示反复或持续",
+    "explain": "keep (on) doing sth 表示某个动作反复发生或一直持续，常带有说话人不满、无奈的语气，如 The phone kept ringing。注意区分 keep sb/sth doing（让某人或某物一直处于某种状态），如 keep the engine running。本句 kept getting dislodged and falling out 两个动名词并列，共用 kept，表示书签一次又一次地移位、掉落。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The printer kept jamming, so we had to send the documents by email.",
+      "zh": "打印机老是卡纸，所以我们只好用电子邮件发送文件。"
+     }
+    ]
+   },
+   {
+    "title": "get + 过去分词 表示被动",
+    "explain": "get + 过去分词 可以代替 be + 过去分词 构成被动语态，多用于口语和非正式文体，常表示意外的、不如意的或突然发生的变化，如 get hurt、get lost、get broken、get caught in the rain。本句 getting dislodged 表示书签被碰得移了位，强调这是意外发生、令人烦恼的事。get 被动多用于动作性动词，不用于 know、believe 等状态动词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Two passengers got injured when the bus braked suddenly.",
+      "zh": "公共汽车急刹车时，有两名乘客受了伤。"
+     },
+     {
+      "en": "Important emails sometimes get deleted by mistake.",
+      "zh": "重要的电子邮件有时会被误删。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "wedge",
+    "explain": "名词指楔子；动词意为“把……塞进，楔入，挤进（狭窄的空间）”，如 wedge a door open（用楔子把门抵住使其开着）、be wedged between two people（被夹在两人之间）。本句 wedged in… 指书签夹在诗集里，视频译为“夹着的”。"
+   },
+   {
+    "term": "choir / hymn",
+    "explain": "choir 指唱诗班、合唱团，发音 /ˈkwaɪə(r)/，拼写与读音差别大；hymn 指赞美诗，发音 /hɪm/，词尾的 n 不发音。hymn book 即赞美诗集，教会礼拜时唱诗用。"
+   },
+   {
+    "term": "dislodge",
+    "explain": "动词，使移位、使松动，把卡住或固定的东西弄出来，如 dislodge a stone；由 dis-（表示分离）加 lodge（卡住，嵌入）构成。本句视频译为“移位”。"
+   },
+   {
+    "term": "fall out",
+    "explain": "本句意为“掉出来，脱落”，如 The page fell out of the book；另一个常见义是“吵架，闹翻”，常接 with sb，如 fall out with a friend。名词 fallout 指（核爆炸后的）放射性尘埃，引申为“不良后果”。视频译为“掉出来”。"
+   },
+   {
+    "term": "paper bookmarks",
+    "explain": "paper 作定语，表示材料“纸做的”，作定语时用单数，不加 s。书签之所以容易掉落，正因为它只是夹在书页之间，没有任何黏性。"
+   }
+  ],
+  "translation_tip": "视频译文“他所在唱诗班的赞美诗集里夹着的纸书签总是移位，掉出来。”的处理：①过去分词短语 wedged in his choir's hymn book 前置，译成“……里夹着的”，修饰“纸书签”；his choir 增补“所在”，译成“他所在唱诗班”，说明弗莱是唱诗班成员。②kept 译成副词“总是”，体现动作的反复。③被动的 getting dislodged 译成主动形式“移位”，与“掉出来”用逗号隔开，按先后顺序排列。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The frustration",
+   "predicate": "gave",
+   "object_or_complement": "Fry（间接宾语）；an idea（直接宾语）",
+   "explain": "主干是 The frustration gave Fry an idea，主谓双宾结构，Fry 是间接宾语，an idea 是直接宾语。谓语 gave 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The frustration",
+    "zh": "这种懊恼",
+    "role": "主语（the 回指上句书签总是掉落带来的烦恼）"
+   },
+   {
+    "text": "gave",
+    "zh": "给了",
+    "role": "谓语"
+   },
+   {
+    "text": "Fry",
+    "zh": "弗莱",
+    "role": "间接宾语"
+   },
+   {
+    "text": "an idea.",
+    "zh": "一个主意",
+    "role": "直接宾语"
+   }
+  ],
+  "structure": "①本句是主谓双宾结构：主语 The frustration，谓语 gave，间接宾语 Fry，直接宾语 an idea。\n②The frustration 回指第9、10句所说的烦心事：书签总是移位、掉出来。抽象名词作主语，表示烦恼本身促成了灵感（视频说明：give sb an idea：让某人想到一个主意）。\n③本句承上启下：前两句交代问题，下一句交代弗莱想到的办法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "双宾语结构 give sb sth",
+    "explain": "give、show、send、bring、offer 等动词可以带两个宾语：间接宾语（通常是人）在前，直接宾语（通常是物）在后，即 give sb sth；也可以改为 give sth to sb。直接宾语是代词时一般用后一种，通常说 give it to him，一般不说 give him it。本句 gave Fry an idea 中，Fry 是间接宾语，an idea 是直接宾语。第3句的 giving paper a temporary hold 也是这一结构，只是间接宾语是物。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A walk in the park gave her a chance to think things over.",
+      "zh": "在公园散步让她有机会把事情好好想一想。"
+     }
+    ]
+   },
+   {
+    "title": "原因作主语的物称句",
+    "explain": "英语常让表示原因的抽象名词作主语，用 give、bring、lead、make 等动词引出结果，如 The frustration gave Fry an idea、Curiosity led him to the cave。汉语习惯以人作主语，翻译时可直译为“……给了某人……”，也可以把原因转成状语，如 Curiosity led him to the cave 可译为“出于好奇，他走进了那个山洞”。视频保留了原文结构，译为“这种懊恼给了弗莱一个主意”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A shortage of funds forced the museum to cut its opening hours.",
+      "zh": "资金短缺迫使博物馆缩短了开放时间。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "frustration",
+    "explain": "名词，懊恼、沮丧，指因受阻、无法达成目的而产生的烦恼，如 shout in frustration、a sense of frustration。动词 frustrate（使沮丧；挫败），形容词 frustrated（感到沮丧的）、frustrating（令人沮丧的）。视频译为“懊恼”。"
+   },
+   {
+    "term": "give sb an idea",
+    "explain": "让某人想到一个主意，启发某人（视频说明）。类似表达有 sth gives sb food for thought（让某人深思）。"
+   }
+  ],
+  "translation_tip": "视频译文“这种懊恼给了弗莱一个主意。”的处理：①保留原文以抽象名词作主语的结构，直译为“……给了弗莱一个主意”，简洁地交代因果。②The frustration 译为“这种懊恼”，用“这种”回指上句书签掉落带来的烦恼。③an idea 中的 an 译成量词“一个”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "The unwanted adhesive",
+   "predicate": "could make",
+   "object_or_complement": "a marker",
+   "explain": "主干是 The unwanted adhesive could make a marker，主谓宾结构，could 表示可能性；that 引导的定语从句修饰 marker，从句中 would 带三个并列谓语。"
+  },
+  "components": [
+   {
+    "text": "The unwanted adhesive",
+    "zh": "这种没人要的黏合剂",
+    "role": "主语"
+   },
+   {
+    "text": "could make",
+    "zh": "可以做成",
+    "role": "谓语（could 表示可能性）"
+   },
+   {
+    "text": "a marker",
+    "zh": "一种书签",
+    "role": "宾语"
+   },
+   {
+    "text": "that",
+    "zh": "（关系代词，不单独译出）",
+    "role": "引导限制性定语从句，修饰 a marker，在从句中作主语"
+   },
+   {
+    "text": "would cling to",
+    "zh": "附着在",
+    "role": "从句谓语一（would + 短语动词 cling to）"
+   },
+   {
+    "text": "a page,",
+    "zh": "书页上",
+    "role": "cling to 的宾语"
+   },
+   {
+    "text": "stay put,",
+    "zh": "不会移动",
+    "role": "从句谓语二（stay put 待在原处不动，共用 would）"
+   },
+   {
+    "text": "and leave",
+    "zh": "还能让",
+    "role": "并列连词 and + 从句谓语三（共用 would）"
+   },
+   {
+    "text": "it",
+    "zh": "书页",
+    "role": "leave 的宾语（it 指 a page）"
+   },
+   {
+    "text": "undamaged.",
+    "zh": "完好无损",
+    "role": "宾语补足语（形容词）"
+   }
+  ],
+  "structure": "①主句是 The unwanted adhesive could make a marker：主语 The unwanted adhesive，谓语 could make，宾语 a marker。could 表示可能性，交代弗莱当时的设想。make 在此意为“做成，制成”，主语是材料，宾语是用它做成的东西。\n②that 引导限制性定语从句，修饰 marker（视频说明：定语从句，修饰 marker），that 在从句中作主语。从句的情态动词 would 管辖三个并列谓语：cling to a page（附着在书页上）、stay put（待在原处不动）、leave it undamaged（让书页完好无损），用 A, B, and C 的格式连接，and 前是牛津逗号。\n③leave it undamaged 是 leave + 宾语 + 形容词 结构，it 指 a page，形容词 undamaged 作宾语补足语，说明书页被揭下书签后保持的状态（视频说明：leave it＋形容词：让它保持……）。\n④三个谓语正好对应上句的烦恼：纸书签容易掉，这种书签能粘住；纸书签会移位，这种书签不会动；而低黏性又保证揭下时不伤书页。The unwanted 与第4句的 setback、第8句的 found no use 相呼应：没人要的东西，在这里找到了用途。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "leave + 宾语 + 形容词（宾语补足语）",
+    "explain": "leave 可以接“宾语 + 宾语补足语”，表示“使某人或某物处于某种状态”，宾补可以是形容词、分词或介词短语，如 leave the door open、leave sb confused、leave the work unfinished。本句 leave it undamaged 中 undamaged 作 it 的宾补，表示书页保持完好。宾补是形容词时不能换成副词。考研写作中可用 leave sb + 形容词 表达某事带来的结果，如 The news left her speechless。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm left thousands of homes without power.",
+      "zh": "这场暴风雨使数千户人家断了电。"
+     },
+     {
+      "en": "Please do not leave your belongings unattended.",
+      "zh": "请勿让您的随身物品无人看管。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句中的并列谓语",
+    "explain": "定语从句的关系代词作主语时，可以带几个并列谓语，共用同一个关系代词和情态动词。本句 that would cling to a page, stay put, and leave it undamaged 中，that 同时作三个谓语的主语，would 也同时管辖三个动词。阅读时要看到 and 后面的 leave 仍属于定语从句，不是主句的谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "We need a manager who can listen to staff, make quick decisions, and take responsibility for mistakes.",
+      "zh": "我们需要一位能倾听员工意见、迅速作出决定、并为失误承担责任的经理。"
+     }
+    ]
+   },
+   {
+    "title": "could 表示可能性",
+    "explain": "could 除表示过去的能力外，还可以表示可能性，语气比 can 委婉、不确定，意为“可能，可以”。本句 could make 表达弗莱的设想：这种胶有可能做成书签，此时尚未付诸实践。考研阅读中，could、might、may 引出的是可能性或推测，不是已经发生的事实。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising sea levels could threaten millions of people living in coastal cities.",
+      "zh": "海平面上升可能威胁到居住在沿海城市的数百万人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cling to",
+    "explain": "附着在、紧贴在……上（视频说明：附着在……上），如 Wet clothes cling to the body；也可指紧紧抓住，或抽象义“坚持，不肯放弃”，如 cling to hope、cling to old habits。cling 的过去式和过去分词都是 clung。"
+   },
+   {
+    "term": "stay put",
+    "explain": "口语短语，待在原处不动（视频说明），如 Stay put until I come back。put 在这里作形容词，意为“固定不动的”。视频译为“不会移动”。"
+   },
+   {
+    "term": "marker",
+    "explain": "本句指标记位置的东西，即书签，与第10句的 bookmarks 是同义替换，视频译为“书签”。marker 还常指马克笔、记号笔，以及标志、标记。"
+   },
+   {
+    "term": "unwanted",
+    "explain": "形容词，没人要的、不需要的，如 unwanted gifts。本句指这种胶在3M内部无人问津，视频译为“没人要的”。"
+   },
+   {
+    "term": "undamaged",
+    "explain": "形容词，未受损的、完好无损的，un- 加 damaged 构成，如 The parcel arrived undamaged。视频译为“完好无损”。"
+   }
+  ],
+  "translation_tip": "视频译文“这种没人要的黏合剂可以做成一种书签，附着在书页上不会移动，还能让书页完好无损。”的处理：①定语从句较长，不前置，而是拆到主句之后，作为对“书签”的补充说明，省去关系代词 that。②从句的前两个谓语 cling to a page 和 stay put 合成一句“附着在书页上不会移动”，第三个谓语用“还能”引出，层次分明。③代词 it 译成名词“书页”，避免指代不清；leave it undamaged 译成“让书页完好无损”，宾补 undamaged 译为四字词“完好无损”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "the notes",
+   "predicate": "were test-marketed",
+   "object_or_complement": "",
+   "explain": "主干是 the notes were test-marketed，主谓结构，谓语为一般过去时的被动语态；as Press 'n Peel 和 in four American cities 是状语，where 引导非限制性定语从句，修饰 four American cities。"
+  },
+  "components": [
+   {
+    "text": "In 1977",
+    "zh": "1977年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "the notes",
+    "zh": "这种便条",
+    "role": "主语"
+   },
+   {
+    "text": "were test-marketed",
+    "zh": "试销",
+    "role": "谓语（一般过去时的被动语态）"
+   },
+   {
+    "text": "as Press 'n Peel",
+    "zh": "以 Press 'n Peel 之名",
+    "role": "方式状语（介词短语，as 意为“以……的名义，作为”）"
+   },
+   {
+    "text": "in four American cities,",
+    "zh": "在美国四个城市",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "where",
+    "zh": "然而在这四个城市",
+    "role": "关系副词，引导非限制性定语从句，修饰 four American cities，在从句中作地点状语"
+   },
+   {
+    "text": "purchasers",
+    "zh": "购买者",
+    "role": "从句主语"
+   },
+   {
+    "text": "showed",
+    "zh": "展示出",
+    "role": "从句谓语"
+   },
+   {
+    "text": "little enthusiasm.",
+    "zh": "极少的热情",
+    "role": "从句宾语（little 修饰不可数名词，含否定意味）"
+   }
+  ],
+  "structure": "①主句是 the notes were test-marketed as Press 'n Peel in four American cities：主语 the notes 指用这种胶做成的便条；谓语 were test-marketed 是被动语态，便条是“被试销”的；as Press 'n Peel 说明试销时用的名称（视频说明：be test-marketed as…：以……之名试销）；in four American cities 是地点状语。\n②where 引导非限制性定语从句，修饰 four American cities（视频说明：非限制性定语从句，修饰 four American cities）。where 是关系副词，在从句中作地点状语，相当于 in these cities。从句主语 purchasers，谓语 showed，宾语 little enthusiasm。\n③little 修饰不可数名词 enthusiasm，意为“几乎没有”，带否定意味，说明试销反响冷淡。主句说试销，从句说结果不佳，前后有转折意味，下文第16句用 the coolness 概括这一冷遇。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "where 是关系副词，先行词是表示地点的名词，在从句中作地点状语，相当于“介词 + which”，如本句 where = in which，即 in these cities。用逗号隔开的是非限制性定语从句，对先行词作补充说明。判断该用 where 还是 which，要看从句缺什么：缺地点状语用 where，缺主语或宾语用 which，如 the cities which we visited。翻译时非限制性定语从句常拆成独立分句，重复先行词，视频译为“在这四个城市”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The conference will be held in Geneva, where the organisation has its headquarters.",
+      "zh": "会议将在日内瓦举行，该组织的总部就设在那里。"
+     },
+     {
+      "en": "He grew up in a small fishing village, where few people owned a car.",
+      "zh": "他在一个小渔村长大，那里很少有人有汽车。"
+     }
+    ]
+   },
+   {
+    "title": "复合动词的被动语态",
+    "explain": "test-market 是由名词 test 和动词 market 构成的复合动词，意为“试销”，被动语态和一般动词一样，用 be + 过去分词，把词尾的动词变成过去分词：be test-marketed。同类的复合动词还有 mass-produce（大批量生产）、spoon-feed（填鸭式灌输）等，被动分别是 be mass-produced、be spoon-fed。本句产品是被试销的，用被动语态，施动者3M公司没有说出，因为它在上下文中不言自明。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new flavour was test-marketed in three regions before its national launch.",
+      "zh": "这种新口味在全国上市之前先在三个地区试销。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "test-market",
+    "explain": "动词，试销，指新产品正式推出前，先在有限地区销售以观察市场反应；名词形式 test market（试销市场）。视频译为“试销”。"
+   },
+   {
+    "term": "Press 'n Peel",
+    "explain": "便利贴试销时用的名称，字面义是“按一按、揭一揭”。'n 是 and 的缩略写法，常见于品牌名和口语化的名称中，如 rock 'n' roll，朗读时 and 弱读。视频保留英文原名。"
+   },
+   {
+    "term": "purchaser",
+    "explain": "名词，购买者、买主，比 buyer 正式，多用于商业和法律语境，如 first-time purchasers（首次购买者，常指首次购房者）。动词兼名词 purchase。视频译为“购买者”。"
+   },
+   {
+    "term": "show little enthusiasm",
+    "explain": "表现出极少的热情，几乎不感兴趣。enthusiasm 是不可数名词，常见搭配有 with enthusiasm（热情地）、enthusiasm for sth（对某事的热情）；形容词 enthusiastic。"
+   },
+   {
+    "term": "notes",
+    "explain": "note 本句指便条、短笺，如 leave a note（留个便条）；note 还可指笔记（take notes）、纸币（a ten-pound note，英式）、音符等。"
+   }
+  ],
+  "translation_tip": "视频译文“1977年，这种便条以 Press 'n Peel 之名在美国四个城市试销，然而在这四个城市，购买者展示出极少的热情。”的处理：①被动语态 were test-marketed 译成主动形式“试销”，汉语以物作主语时常省去“被”。②两个状语 as Press 'n Peel 和 in four American cities 前移到谓语前，译成“以……之名在美国四个城市试销”，产品名保留英文。③非限制性定语从句拆成独立分句，where 译成“在这四个城市”，重复先行词；并增补“然而”，点出试销与市场反应之间的转折。④little enthusiasm 译为“极少的热情”，保留 little 的否定意味。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "3M's marketers",
+   "predicate": "staged…and dispensed",
+   "object_or_complement": "a blitz（staged 的宾语）；complimentary packets of notes（dispensed 的宾语）",
+   "explain": "主干是一个主语带两个并列谓语：3M's marketers staged a blitz and dispensed complimentary packets of notes，两个部分都是主谓宾结构。谓语为一般过去时，主动语态；dispense A to B 表示把 A 分发给 B。"
+  },
+  "components": [
+   {
+    "text": "In 1978",
+    "zh": "1978年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "3M's marketers",
+    "zh": "3M的营销人员",
+    "role": "主语"
+   },
+   {
+    "text": "staged",
+    "zh": "发起",
+    "role": "谓语一"
+   },
+   {
+    "text": "a blitz",
+    "zh": "一场闪电攻势",
+    "role": "宾语（staged 的宾语）"
+   },
+   {
+    "text": "in Boise, Idaho,",
+    "zh": "在爱达荷州博伊西",
+    "role": "地点状语（介词短语），Boise, Idaho 按“城市, 州”的顺序书写"
+   },
+   {
+    "text": "and dispensed",
+    "zh": "分发",
+    "role": "并列连词 and + 谓语二"
+   },
+   {
+    "text": "complimentary packets of notes",
+    "zh": "免费的一小包一小包的便条",
+    "role": "宾语（dispensed 的宾语），complimentary 修饰 packets"
+   },
+   {
+    "text": "to offices.",
+    "zh": "向很多办公室",
+    "role": "状语（介词短语），与 dispense 构成 dispense A to B，表示分发的对象"
+   }
+  ],
+  "structure": "①主句是 3M's marketers staged a blitz… and dispensed complimentary packets of notes to offices：主语 3M's marketers，两个并列谓语 staged 和 dispensed，各带宾语 a blitz 和 complimentary packets of notes。\n②staged a blitz 中，stage 意为“发起，组织”（视频说明：stage：发起，组织），blitz 指集中力量在短时间内开展的大规模推广，视频译为“闪电攻势”。in Boise, Idaho 是地点状语，美国地名按“城市, 州”的顺序书写（视频说明：Boise, Idaho：城市在前、州在后），州名后面的逗号也不能省。\n③dispensed complimentary packets of notes to offices 是 dispense A to B 结构（视频说明：dispense A to B：把 A 分发给 B），A 是 complimentary packets of notes，B 是 offices。packets of notes 是“量词 + of + 名词”的结构，complimentary 修饰 packets，意为“免费赠送的”。\n④句首 In 1978 后紧接 3M's，两个数字相邻，阅读时要分清：In 1978 是状语，3M's marketers 才是主语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "dispense A to B：动词 + 宾语 + to 表示对象",
+    "explain": "dispense、distribute、hand out、give out 等表示“分发”的动词，常用“动词 + 物 + to + 人或机构”的结构，to 引出接受的一方，如 distribute leaflets to passers-by。本句 dispensed complimentary packets of notes to offices，宾语较长，to offices 放在句末。dispense 还常用于 dispense medicine（配药）、dispense with sth（省去，免除某物）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Volunteers dispensed food and blankets to families displaced by the flood.",
+      "zh": "志愿者向因洪水流离失所的家庭分发食物和毯子。"
+     }
+    ]
+   },
+   {
+    "title": "美国地名“城市, 州”的书写",
+    "explain": "英语写美国地址时，城市在前、州在后，中间用逗号隔开，如 Boise, Idaho、Austin, Texas；地名出现在句中时，州名后面还要再加一个逗号，把整个地名与后文隔开，本句 in Boise, Idaho, and dispensed… 就是这样。汉语地名由大到小排列，翻译时要倒过来，译成“爱达荷州博伊西”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company moved its headquarters from Austin, Texas, to Denver, Colorado, in 2021.",
+      "zh": "2021年，这家公司把总部从得克萨斯州奥斯汀迁到了科罗拉多州丹佛。"
+     }
+    ]
+   },
+   {
+    "title": "一个主语带两个并列谓语",
+    "explain": "同一个主语连续发出两个动作时，可以用 and 连接两个谓语，后一个谓语前不必重复主语。两个并列谓语之间一般不加逗号；本句 Idaho 后的逗号是地名书写要求的，并不是并列谓语之间的逗号。阅读时，看到 and 后紧跟过去式动词 dispensed，要往前找到它的主语 3M's marketers。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The researchers collected soil samples from twelve sites and tested them for heavy metals.",
+      "zh": "研究人员从十二个地点采集了土壤样本，并检测了其中的重金属含量。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stage",
+    "explain": "熟词僻义：stage 常见义是名词“舞台；阶段”，本句作动词，意为“组织，发起（活动）”，如 stage a protest（举行抗议）、stage a comeback（东山再起）。视频译为“发起”。"
+   },
+   {
+    "term": "blitz",
+    "explain": "名词，闪电式行动、集中的宣传攻势，如 a media blitz、an advertising blitz。来自德语 Blitz（闪电），是 Blitzkrieg（闪电战）的缩略，二战期间英语中指德国对英国的空袭，后来引申指集中力量的突击行动。视频译为“闪电攻势”。"
+   },
+   {
+    "term": "complimentary",
+    "explain": "形容词，免费赠送的，如 complimentary tickets（赠票）；也有“赞美的”之义，如 complimentary remarks。注意与 complementary（互补的）区分，两词读音相同，只差一个字母。视频译为“免费的”。"
+   },
+   {
+    "term": "Boise, Idaho",
+    "explain": "博伊西是美国爱达荷州的首府和最大城市。视频说明：城市在前、州在后，译成汉语时按由大到小的顺序译为“爱达荷州博伊西”。"
+   },
+   {
+    "term": "marketer",
+    "explain": "名词，营销人员、市场营销者，由 market（推销）加 -er 构成。本句 3M's marketers 视频译为“3M的营销人员”。"
+   }
+  ],
+  "translation_tip": "视频译文“1978年，3M的营销人员在爱达荷州博伊西发起一场闪电攻势，向很多办公室分发免费的一小包一小包的便条。”的处理：①地点状语 in Boise, Idaho 前移到谓语前，地名按汉语习惯由大到小排列为“爱达荷州博伊西”。②dispense A to B 中的 to offices 前移，译成“向很多办公室分发……”，复数 offices 增补“很多”体现数量。③packets of notes 译为叠用量词“一小包一小包的便条”，表现分发数量之多、包装之小；complimentary 译为“免费的”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "More than 90 per cent of respondents",
+   "predicate": "said",
+   "object_or_complement": "they would buy",
+   "explain": "主干是 More than 90 per cent of respondents said (that) they would buy，主谓宾结构，宾语是省略了 that 的宾语从句。谓语 said 为一般过去时，宾语从句用过去将来时 would buy，与主句时态呼应。"
+  },
+  "components": [
+   {
+    "text": "More than 90 per cent",
+    "zh": "超过90%",
+    "role": "主语（百分数短语，more than 意为“超过”）"
+   },
+   {
+    "text": "of respondents",
+    "zh": "受访者中",
+    "role": "后置定语（of 短语表示整体范围）"
+   },
+   {
+    "text": "who tried them",
+    "zh": "试用过的",
+    "role": "限制性定语从句，修饰 respondents（who 在从句中作主语）"
+   },
+   {
+    "text": "said",
+    "zh": "表示",
+    "role": "谓语"
+   },
+   {
+    "text": "they would buy.",
+    "zh": "会购买",
+    "role": "宾语从句（省略引导词 that），they 指这些受访者"
+   }
+  ],
+  "structure": "①主句是 More than 90 per cent of respondents said they would buy：主语 More than 90 per cent of respondents，中心是百分数；谓语 said；宾语是从句 they would buy。\n②who tried them 是限制性定语从句，修饰 respondents（视频说明：定语从句，修饰 respondents），who 在从句中作主语；them 指上句免费分发的便条。这个从句限定了统计范围：只算试用过的受访者。\n③they would buy 是省略 that 的宾语从句，they 指这些受访者。主句谓语是过去时 said，从句用 would + 动词原形 表示过去将来，即受访者当时表示将来会购买。buy 后面省去了宾语 them。\n④本句用数据说明博伊西的推广效果，与第13句试销时的 little enthusiasm 形成鲜明对比。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that 及时态呼应",
+    "explain": "say、think、believe、know 等动词后的宾语从句，引导词 that 常可省略，口语和新闻中尤其常见。主句谓语是过去时，从句一般也用相应的过去时态：表示过去将来用 would do，表示更早发生的用 had done。本句 said they would buy 中，would buy 表示受访者当时所说的“将来会购买”。考研翻译和写作中转述别人的话时要注意这种时态呼应；从句陈述的是客观真理时，仍用一般现在时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Most of the employees said they would support the new working hours.",
+      "zh": "大多数员工表示会支持新的工作时间安排。"
+     },
+     {
+      "en": "The minister insisted the project had been approved months earlier.",
+      "zh": "部长坚称这个项目几个月前就已获批准。"
+     }
+    ]
+   },
+   {
+    "title": "百分数作主语时谓语的单复数",
+    "explain": "“百分数 + of + 名词”作主语时，谓语的单复数由 of 后面的名词决定：接复数名词，谓语用复数；接单数或不可数名词，谓语用单数，如 Sixty per cent of the students are women、Sixty per cent of the land is desert。本句 of 后是复数 respondents，所以后文用复数代词 they。分数、a lot of、most of、half of 等作主语时也遵循这一规则，考研写作描述图表数据时常用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "About 70 per cent of the Earth's surface is covered by water.",
+      "zh": "地球表面约70%被水覆盖。"
+     },
+     {
+      "en": "Nearly 40 per cent of the graduates are now working abroad.",
+      "zh": "近40%的毕业生目前在海外工作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "per cent",
+    "explain": "百分之……，英式英语多写作两个词 per cent，美式英语多写作 percent。名词 percentage（百分比），如 a high percentage of…（很大比例的……）。"
+   },
+   {
+    "term": "respondent",
+    "explain": "名词，受访者、调查对象、答卷人，常见于调查报告，如 survey respondents。考研阅读中描述调查结果时常用 respondents，与 participants（参与者）、subjects（受试者）意思相近。视频译为“受访者”。"
+   },
+   {
+    "term": "more than",
+    "explain": "放在数词前意为“超过，多于”，如 more than 90 per cent，视频译为“超过90%”。注意 more than 90 不包括 90 本身。"
+   },
+   {
+    "term": "try",
+    "explain": "本句意为“试用”，宾语 them 指免费分发的便条。try sth 指尝试使用、品尝某物，try to do sth 指努力做某事，try doing sth 指试着做某事，三者意思不同。"
+   }
+  ],
+  "translation_tip": "视频译文“试用过的受访者中，超过90%表示会购买。”的处理：①把限定统计范围的部分 of respondents who tried them 提到句首，译成“试用过的受访者中”，先交代范围再给出比例，符合汉语表述数据的习惯。②定语从句 who tried them 前置，译成“试用过的”，them 省略不译。③said 译为“表示”，宾语从句 they would buy 中的主语 they 承前省略，译成“会购买”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "a turnaround",
+   "predicate": "came",
+   "object_or_complement": "",
+   "explain": "本句是完全倒装句，正常语序是 A turnaround came after the coolness。主语 a turnaround，谓语 came（不及物动词），时间状语 After the coolness 提到句首，主语放在谓语之后。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "After the coolness",
+    "zh": "冷遇之后",
+    "role": "时间状语（介词短语），置于句首引起倒装"
+   },
+   {
+    "text": "came",
+    "zh": "迎来了",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "a turnaround.",
+    "zh": "转机",
+    "role": "主语（倒装后位于谓语之后）"
+   }
+  ],
+  "structure": "①本句是完全倒装：时间状语 After the coolness 放在句首，谓语 came 提到主语 a turnaround 之前（视频说明：倒装句，主语 a turnaround 放在 came 后）。还原为正常语序是 A turnaround came after the coolness。\n②the coolness 概括第13句试销时购买者 little enthusiasm 的冷淡反应，a turnaround 概括第14、15句博伊西推广带来的好转，本句用一个短句为第四段作结。\n③倒装把新信息 a turnaround 放到句末，形成句末重心，同时让 the coolness 紧接上文，衔接自然。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "状语前置引起的完全倒装",
+    "explain": "表示地点、方向、时间的状语（如介词短语或 here、there、out、away 等副词）放在句首，谓语是 come、go、lie、stand、sit 等不及物动词时，常把整个谓语放到主语之前，形成完全倒装，如 On the hill stands an old church、Here comes the bus。主语是代词时不倒装，如 Here it comes。这种倒装多用于书面叙述，作用是承接上文、把主语这一新信息放到句末加以强调。考研阅读中遇到句首是介词短语、紧接着是动词的句子，要到动词后面去找主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Beyond the river lay a vast stretch of farmland.",
+      "zh": "河那边是一大片农田。"
+     },
+     {
+      "en": "After years of decline came a sudden revival of interest in vinyl records.",
+      "zh": "经过多年的衰落之后，黑胶唱片突然重新受到人们的青睐。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "coolness",
+    "explain": "熟词僻义：coolness 常见义是“凉爽”，本句指（态度上的）冷淡、冷遇，视频译为“冷遇”。形容词 cool 也有“冷淡的”之义，如 a cool reception（冷淡的接待）。"
+   },
+   {
+    "term": "turnaround",
+    "explain": "名词，好转、转机，指局势由坏变好，如 a dramatic turnaround in sales（销售额的大幅好转）；也可指（工作的）周转、处理时间。来自短语动词 turn around（扭转局面）。视频译为“转机”。"
+   }
+  ],
+  "translation_tip": "视频译文“冷遇之后，迎来了转机。”的处理：①倒装句按原文语序译出：时间状语 After the coolness 在前，译成“冷遇之后”；主语 a turnaround 在后，译成“转机”，作“迎来了”的宾语，变成汉语的无主句。②came 不直译为“来了”，而是译成“迎来了”，带有期盼已久、终于等到的语气。③the coolness 和 a turnaround 两个抽象名词分别译为“冷遇”和“转机”，形成对比。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "the pads（第一分句）；Canada and Europe（第二分句）",
+   "predicate": "went on sale（第一分句）；followed（第二分句）",
+   "object_or_complement": "",
+   "explain": "本句是 and 连接的并列句：第一分句 the pads went on sale，主谓结构，go on sale 意为“上市”；第二分句 Canada and Europe followed，主谓结构，follow 作不及物动词。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 6 April 1980",
+    "zh": "1980年4月6日",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "the pads,",
+    "zh": "这种便笺本",
+    "role": "第一分句主语"
+   },
+   {
+    "text": "rebranded as",
+    "zh": "更名为",
+    "role": "插入语（过去分词短语）的核心，补充说明 the pads"
+   },
+   {
+    "text": "Post-it Notes,",
+    "zh": "便利贴",
+    "role": "as 的宾语（专有名词，3M 的注册商标）"
+   },
+   {
+    "text": "went on sale",
+    "zh": "上市",
+    "role": "第一分句谓语（go on sale 上市，开始出售）"
+   },
+   {
+    "text": "nationally",
+    "zh": "全国",
+    "role": "范围状语（副词）"
+   },
+   {
+    "text": "in the US,",
+    "zh": "在美国",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "and",
+    "zh": "（并列连词，视频以分号断开两个分句）",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "Canada and Europe",
+    "zh": "加拿大和欧洲",
+    "role": "第二分句主语"
+   },
+   {
+    "text": "followed",
+    "zh": "便利贴又进入",
+    "role": "第二分句谓语（follow 不及物，意为“随后跟进”）"
+   },
+   {
+    "text": "in 1981.",
+    "zh": "1981年",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①本句是由 and 连接的两个并列分句。第一分句 the pads went on sale nationally in the US：主语 the pads，谓语 went on sale（视频说明：go on sale：上市），nationally 和 in the US 说明上市的范围和地点。\n②rebranded as Post-it Notes 是过去分词短语作插入语，补充说明 the pads（视频说明：过去分词短语作插入语，补充说明 the pads），相当于 which had been rebranded as Post-it Notes。便笺本是“被更名”的，所以用过去分词；它夹在主语和谓语之间，用逗号隔开，找主干时可以先跳过。\n③第二分句 Canada and Europe followed in 1981：主语 Canada and Europe，谓语 followed 是不及物动词，意为“随后跟进”，省去了 went on sale 的内容，指便利贴1981年也在加拿大和欧洲上市。\n④On 6 April 1980 是英式“日、月、年”的日期写法，具体日期前用介词 on；年份前用 in，如 in 1981。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作插入语（非限制性后置定语）",
+    "explain": "过去分词短语可以用两个逗号隔开，插在主语和谓语之间，补充说明主语，相当于一个非限制性定语从句，表示被动或完成。本句 the pads, rebranded as Post-it Notes, went on sale… 中，rebranded as Post-it Notes = which had been rebranded as Post-it Notes。分析时先跳过两个逗号之间的分词短语，把主语 the pads 和谓语 went on sale 连起来；翻译时常把它拆开译成一个独立的短句，视频译为“这种便笺本更名为便利贴，在美国全国上市”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old factory, converted into flats in 2010, now houses more than 200 families.",
+      "zh": "这座旧工厂于2010年改建成公寓，现在住着200多户人家。"
+     },
+     {
+      "en": "The novel, first published in 1925, has never gone out of print.",
+      "zh": "这部小说于1925年首次出版，此后从未绝版。"
+     }
+    ]
+   },
+   {
+    "title": "follow 表示“随后跟进”，承前省略",
+    "explain": "follow 作不及物动词时意为“随后发生，接着来”，常用来表示后者做了与前者相同的事，以免重复前文的谓语，如 Germany cut interest rates, and France soon followed。本句 Canada and Europe followed in 1981 即 the pads went on sale in Canada and Europe in 1981。阅读时要根据上文补出 follow 所省略的内容。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "One airline lowered its fares, and its competitors quickly followed.",
+      "zh": "一家航空公司降低了票价，其竞争对手很快也跟着降价。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "go on sale",
+    "explain": "上市，开始出售（视频说明），如 Tickets go on sale next Monday。注意区分 for sale（待售，出售）和 on sale（上市；美式英语中也指减价出售）。"
+   },
+   {
+    "term": "rebrand",
+    "explain": "动词，更换品牌名称或品牌形象，常用 rebrand sth as sth 的结构，如 The company was rebranded as…。由 re-（重新）加 brand（品牌）构成。本句视频译为“更名为”。"
+   },
+   {
+    "term": "Post-it Notes",
+    "explain": "便利贴，是3M公司的注册商标，Post-it 现在也常泛指这类可反复粘贴的便条。视频译为“便利贴”。"
+   },
+   {
+    "term": "pad",
+    "explain": "本句指便笺本，即一叠粘在一起、可逐张撕下的纸，如 a writing pad、a notepad；pad 还可指垫子、护垫，如 knee pads（护膝）。视频译为“便笺本”。"
+   },
+   {
+    "term": "nationally",
+    "explain": "副词，在全国范围内，如 a nationally televised speech（全国电视转播的演讲）。形容词 national。视频译为“全国”。"
+   }
+  ],
+  "translation_tip": "视频译文“1980年4月6日，这种便笺本更名为便利贴，在美国全国上市；1981年，便利贴又进入加拿大和欧洲。”的处理：①英式日期 6 April 1980 按汉语“年、月、日”的顺序译为“1980年4月6日”。②过去分词插入语 rebranded as Post-it Notes 拆成短句“更名为便利贴”，与谓语“在美国全国上市”依次排列，被动意义不用“被”字。③nationally 和 in the US 合译为“在美国全国”，置于“上市”之前。④两个分句之间用分号断开，第二分句的时间状语 in 1981 提到句首；原文以 Canada and Europe 作主语，视频改以“便利贴”作主语，把 followed 译为“又进入”，补出 follow 所省略的内容，加拿大和欧洲则变成宾语。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "The stationery staple",
+   "predicate": "owes",
+   "object_or_complement": "its signature canary tone（owe A to B 中的 A）",
+   "explain": "主干是 The stationery staple owes its signature canary tone to an unplanned twist，owe A to B 结构，意为“A 源于 B”。谓语 owes 为一般现在时，主动语态，陈述便利贴颜色至今的由来。"
+  },
+  "components": [
+   {
+    "text": "The stationery staple",
+    "zh": "这款文具的必备品",
+    "role": "主语（stationery 为名词作定语，修饰中心词 staple，指便利贴）"
+   },
+   {
+    "text": "owes",
+    "zh": "源于",
+    "role": "谓语（owe A to B 结构的谓语动词）"
+   },
+   {
+    "text": "its signature canary tone",
+    "zh": "那标志性的金丝雀黄色调",
+    "role": "宾语（owe A to B 中的 A），its 指 The stationery staple"
+   },
+   {
+    "text": "to an unplanned twist.",
+    "zh": "一次计划外的转折",
+    "role": "介词短语（owe A to B 中的 to B），表示 A 的来源"
+   }
+  ],
+  "structure": "①本句主干是 The stationery staple owes its signature canary tone to an unplanned twist，用 owe A to B 结构（视频说明：owe A to B：A 源于 B），A 是 its signature canary tone，B 是 an unplanned twist。\n②主语 The stationery staple 是对便利贴的同义替换：stationery（文具）作定语，staple 指“必备品，常用品”，即便利贴已成为办公文具中不可缺少的东西。\n③宾语 its signature canary tone 中，its 指便利贴本身，signature 和 canary 都是前置定语，分别表示“标志性的”和“金丝雀黄的”，修饰中心词 tone（色调）。\n④an unplanned twist 指一次计划之外的转折，具体内容由下一句交代。时态由前文叙述历史的一般过去时转为一般现在时，因为便利贴的黄色至今仍是它的标志。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "owe A to B：A 归功于 B，A 源于 B",
+    "explain": "owe 除“欠（钱）”外，还常用于 owe A to B 结构，表示“A 归功于 B，A 是由于 B”，A 是某种成就、特点或现状，B 是它的原因或来源，如 She owes her success to hard work。考研阅读中这一结构常用来说明因果关系，要分清哪个是结果（A）、哪个是原因（B）。注意不要与 owing to（由于）混淆，后者是短语介词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The town owes its prosperity to the discovery of oil in the 1950s.",
+      "zh": "这座小镇的繁荣源于20世纪50年代石油的发现。"
+     },
+     {
+      "en": "She owes her fluency in French to the years she spent in Lyon.",
+      "zh": "她法语说得流利，得益于在里昂度过的那些年。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，说明后者的类别、材料、用途或特征，作定语的名词一般用单数。本句 stationery staple 中 stationery 修饰 staple；signature canary tone 中 signature（本义“签名”）和 canary（本义“金丝雀”）也是名词出身，在这里作前置定语修饰 tone，分别表示“标志性的”和颜色，词典也把这种用法列为形容词。翻译时一般译成“……的……”，视频译为“这款文具的必备品”“标志性的金丝雀黄色调”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hotel's signature dessert is a lemon tart with fresh cream.",
+      "zh": "这家酒店的招牌甜点是配鲜奶油的柠檬挞。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stationery",
+    "explain": "名词，文具，不可数，如 a stationery shop（文具店）。注意与 stationary（静止的）区分，两词读音相同，拼写只差一个字母；可借 stationery 中的 e 联想 envelope（信封）。视频译为“文具的”。"
+   },
+   {
+    "term": "staple",
+    "explain": "熟词僻义：staple 常见义是“订书钉”，本句意为“主要产品，必备品，常用品”，如 a staple of the diet（日常主食）；作形容词意为“主要的，基本的”，如 staple foods（主食）。视频译为“必备品”。"
+   },
+   {
+    "term": "signature",
+    "explain": "熟词僻义：signature 常见义是“签名”，作定语时意为“标志性的，招牌的”，如 a signature dish（招牌菜）、signature style。视频译为“标志性的”。"
+   },
+   {
+    "term": "canary",
+    "explain": "名词，金丝雀；canary yellow 或 canary 指金丝雀那样明亮的黄色，即淡黄色、鲜黄色。本句 canary tone 视频译为“金丝雀黄色调”。"
+   },
+   {
+    "term": "twist",
+    "explain": "名词，本义是“扭，拧”，引申为（事情、故事的）意外转折，如 a twist of fate（命运的捉弄）、an unexpected twist。视频译为“转折”。"
+   }
+  ],
+  "translation_tip": "视频译文“这款文具的必备品那标志性的金丝雀黄色调，源于一次计划外的转折。”的处理：①owe A to B 不译成“把 A 归功于 B”，而是以 A 作主语，译成“……源于……”，变成“A 源于 B”的判断句。②原主语 The stationery staple 与宾语中的 its 合并，译成“这款文具的必备品那……色调”，用“那”指代 its，把主语和宾语连成一个长主语。③名词作定语的 stationery、signature、canary 分别前置译出，canary 译为“金丝雀黄”。④长主语后加逗号，再接“源于一次计划外的转折”，句子停顿清楚。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "The laboratory next door",
+   "predicate": "had",
+   "object_or_complement": "only leftover yellow paper",
+   "explain": "主干是 The laboratory next door had only leftover yellow paper，主谓宾结构，next door 作 laboratory 的后置定语，only 限定宾语。谓语 had 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The laboratory",
+    "zh": "实验室里",
+    "role": "主语"
+   },
+   {
+    "text": "next door",
+    "zh": "隔壁的",
+    "role": "后置定语（副词短语 next door 修饰 The laboratory）"
+   },
+   {
+    "text": "had only",
+    "zh": "只有一些",
+    "role": "谓语 had + 限定副词 only（only 修饰后面的宾语）"
+   },
+   {
+    "text": "leftover yellow paper.",
+    "zh": "剩余的黄纸",
+    "role": "宾语（leftover、yellow 两个前置定语修饰不可数名词 paper）"
+   }
+  ],
+  "structure": "①本句是主谓宾结构：主语 The laboratory，next door 作后置定语（视频说明：next door：作后置定语，隔壁的）；谓语 had；宾语 leftover yellow paper，only 限定宾语，表示除了剩下的黄纸别无他纸。\n②宾语中两个前置定语 leftover（剩余的）和 yellow（黄色的）修饰不可数名词 paper，按“状态在前、颜色在后”的顺序排列。\n③本句与上句之间没有连接词，但逻辑上是因果关系：上句说黄色源于一次计划外的转折，本句交代这次转折的具体内容。便利贴最初用黄纸，只是因为隔壁实验室恰好只有剩下的黄纸（视频说明：后来，黄色成了便利贴的标志性颜色）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "next door 作后置定语",
+    "explain": "next door 是副词短语，意为“在隔壁”，修饰名词时要放在名词后面，如 the house next door、the people next door。若要放在名词前，要写成带连字符的形容词 next-door，如 our next-door neighbours。本句 The laboratory next door 即“隔壁的实验室”。here、there、upstairs、downstairs 等副词修饰名词时也要后置，如 the room upstairs。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The noise from the flat next door kept us awake all night.",
+      "zh": "隔壁公寓的噪音吵得我们一夜没睡。"
+     }
+    ]
+   },
+   {
+    "title": "句间的隐性因果关系",
+    "explain": "英语句子之间有时不用 because、so 等连接词，而是靠内容的先后表示逻辑关系。本句紧接上句 owes its signature canary tone to an unplanned twist，交代“意外转折”的具体内容，二者是结果与原因的关系。考研阅读中，前一句提出一个笼统的说法（如 an unplanned twist），后一句往往是具体解释，读懂这层关系有助于做细节题和推理题；翻译时常需要像视频那样补出“因为”等连接词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The match was cancelled at the last minute. Heavy snow had made the pitch unplayable.",
+      "zh": "比赛在最后一刻被取消了，因为大雪使场地无法使用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "leftover",
+    "explain": "形容词，剩余的、剩下的，只用在名词前，如 leftover food；复数名词 leftovers 指剩饭剩菜，如 Christmas leftovers。视频译为“剩余的”。"
+   },
+   {
+    "term": "next door",
+    "explain": "副词短语，在隔壁，如 live next door（住在隔壁）、next door to sb（在某人隔壁）；形容词写作 next-door。本句视频译为“隔壁的”。"
+   },
+   {
+    "term": "laboratory",
+    "explain": "名词，实验室，口语中常缩略为 lab。英式读音为 /ləˈbɒrətri/，重音在第二音节；美式读音为 /ˈlæbrətɔːri/，重音在第一音节。"
+   },
+   {
+    "term": "paper",
+    "explain": "表示“纸”时是不可数名词，不说 a paper 或 papers，计量时用 a sheet of paper、a piece of paper；作可数名词时指报纸、论文、试卷或文件。"
+   }
+  ],
+  "translation_tip": "视频译文“因为当时隔壁的实验室里，只有一些剩余的黄纸。”的处理：①原文与上句之间没有连接词，视频增补“因为”，把两句之间的因果关系明确表达出来；增补“当时”，说明这是便利贴最初生产时的情况。②后置定语 next door 前移，译成“隔壁的”；主语“实验室”后加“里”，把“实验室有黄纸”转成汉语习惯的存在句“实验室里只有……”。③零冠词的不可数名词 paper 前增补“一些”，与 only 合译为“只有一些”；leftover yellow paper 译为“剩余的黄纸”。"
+ }
+]

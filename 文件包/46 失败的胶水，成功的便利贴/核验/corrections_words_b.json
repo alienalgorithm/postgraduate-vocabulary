@@ -1,0 +1,67 @@
+[
+ {
+  "key": "id=36",
+  "field": "related[1]",
+  "before": {
+   "en": "wanted",
+   "pos": "adj.",
+   "zh": "被通缉的；受欢迎的"
+  },
+  "after": {
+   "en": "wanted",
+   "pos": "adj.",
+   "zh": "被通缉的；被需要的，被关爱的"
+  },
+  "reason": "wanted 没有“受欢迎的”义项，feel wanted 指觉得被需要、被关爱"
+ },
+ {
+  "key": "id=39",
+  "field": "context_usage",
+  "before": "这正是低黏性的好处：第3句说过纸张能 peel off 而不伤表面，所以这种书签既能粘住，又不会撕坏书页，这一点让它比用胶带固定的书签更实用。",
+  "after": "这正是低黏性的好处：第3句说过纸张能粘附、揭下、再贴上，所以这种书签既能粘住，揭下时又不会撕坏书页。",
+  "reason": "第3句并未说“不伤表面”，“比用胶带固定的书签更实用”是原文没有的推断，删去"
+ },
+ {
+  "key": "id=44",
+  "field": "context_usage",
+  "before": "第一至三段的主角是科学家，从这里起",
+  "after": "第一至三段讲的是西尔弗的研发和弗莱的构想，从这里起",
+  "reason": "原文只说弗莱是 colleague，没交代他是科学家，不写原文没有的事实"
+ },
+ {
+  "key": "id=50",
+  "field": "context_usage",
+  "before": "说明博伊西推广后3M做了调查",
+  "after": "说明博伊西推广后进行过调查",
+  "reason": "原文没有说调查由谁进行"
+ },
+ {
+  "key": "id=52",
+  "field": "etymology",
+  "before": "turn 经古法语来自拉丁语 tornare（用车床车圆），源于 tornus（车床）。",
+  "after": "turn 来自古英语 turnian，借自拉丁语 tornare（用车床车圆），源于 tornus（车床），中古英语时期又受古法语 torner 影响。",
+  "reason": "按 Etymonline，turn 在古英语时期已直接借自拉丁语，并非经古法语进入"
+ },
+ {
+  "key": "id=60",
+  "field": "example.en",
+  "before": "in a canary yellow dress",
+  "after": "in a canary-yellow dress",
+  "reason": "与本词 usage_detail“作定语放在名词前时常加连字符”保持一致"
+ },
+ {
+  "key": "id=63",
+  "field": "related[1]",
+  "before": {
+   "en": "left",
+   "pos": "adj.",
+   "zh": "剩下的"
+  },
+  "after": {
+   "en": "be left over",
+   "pos": "phr.",
+   "zh": "剩下，剩余"
+  },
+  "reason": "left 表“剩下的”是 leave 的过去分词用法，词典不单列为形容词；换成 leftover 的来源短语"
+ }
+]

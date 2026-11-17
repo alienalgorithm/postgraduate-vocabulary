@@ -1,0 +1,71 @@
+[
+ {
+  "key": "id=1",
+  "field": "distinction",
+  "before": "set out to do 强调带着明确的目标或意图开始做某事，常暗示结果未必如愿；",
+  "after": "set out to do 强调带着明确的目标或意图开始做某事，本身不说明结果，叙述中常与后文的实际结果形成对照；",
+  "reason": "set out to do 词典释义并不暗示结果未必如愿，原说法不准确"
+ },
+ {
+  "key": "id=3",
+  "field": "etymology",
+  "before": "来自拉丁语 adhaerere（粘附），由 ad-（向，靠近）和 haerere（粘住，附着）构成；英语先有动词 adhere 和名词 adhesion，加形容词后缀 -ive 构成 adhesive，先作形容词“有黏性的”，后来也用作名词，指黏合剂。",
+  "after": "经法语 adhésif 进入英语，源于拉丁语 adhaerere（粘附）的过去分词词干 adhaes-；adhaerere 由 ad-（向，靠近）和 haerere（粘住，附着）构成。adhesive 先作形容词“有黏性的”，后来也用作名词，指黏合剂。",
+  "reason": "Etymonline 记 adhesive 来自法语 adhésif、拉丁语 adhaes-，并非英语由 adhere 加 -ive 构成"
+ },
+ {
+  "key": "id=7",
+  "field": "etymology",
+  "before": "中古英语 tak，经盎格鲁-法语 tache（扣件，钉子）进入英语，最初指小钉子、扣件。形容词 tacky（黏的）与 tack 的“附着”之义相关，名词 tack 表示“黏性”的用法与之相通。",
+  "after": "中古英语 tak，最初泛指把东西固定在一起的扣件，后专指小钉子；一般认为与古北部法语 taque（古法语 tache 的变体，意为钉子、别针、扣件）有关。形容词 tacky（黏的）由 tack 的“黏性”义派生。",
+  "reason": "原写“经盎格鲁-法语 tache 进入英语”与权威词源不符（Etymonline 记为古北部法语 taque，来源本身有不确定性），改为有把握的表述"
+ },
+ {
+  "key": "id=7",
+  "field": "example",
+  "before": {
+   "en": "Painters wait until the first coat loses its tack before applying the second.",
+   "zh": "油漆工要等第一层漆不再发黏后，才刷第二层。"
+  },
+  "after": {
+   "en": "Low-tack masking tape can be peeled off without damaging the paint underneath.",
+   "zh": "低黏度的美纹纸胶带揭下时不会损坏下面的漆面。"
+  },
+  "reason": "原例句 loses its tack 说法生硬，换成更地道、能示范“黏性”义的例句"
+ },
+ {
+  "key": "id=12",
+  "field": "etymology",
+  "before": "由 invent 加表示人的后缀 -or 构成。invent 来自拉丁语 invenire",
+  "after": "来自拉丁语 inventor（发现者，创始者），也可看作 invent 加表示人的后缀 -or。invent 来自拉丁语 invenire",
+  "reason": "Etymonline 记 inventor 直接来自拉丁语 inventor"
+ },
+ {
+  "key": "id=17",
+  "field": "distinction",
+  "before": "corporal 意为“肉体的”，如 corporal punishment（体罚），作名词指下士，与 corporate 同源；",
+  "after": "corporal 作形容词意为“肉体的”，如 corporal punishment（体罚），与 corporate 同源（都来自拉丁语 corpus）；作名词指下士，那是经法语来自意大利语 caporale 的另一个词；",
+  "reason": "名词 corporal（下士）源于意大利语 caporale（capo“头”），与 corporate 并不同源，原表述易误导"
+ },
+ {
+  "key": "id=20",
+  "field": "etymology",
+  "before": "来自中世纪拉丁语 summarium（摘要）",
+  "after": "来自拉丁语 summarium（摘要，概要）",
+  "reason": "summarium 是古典拉丁语词，Etymonline 记为 Latin summarium"
+ },
+ {
+  "key": "id=21",
+  "field": "usage_detail",
+  "before": "表示“……的解决办法”时接 to，说 a solution to the problem，不说 a solution of 或 for the problem。",
+  "after": "表示“……的解决办法”时最常接 to，说 a solution to the problem；solution for 在实际使用中也能见到，但考研写作中用 to 最稳妥（数学中“方程的解”说 the solution of an equation）。",
+  "reason": "原说“不说 of 或 for”过于绝对"
+ },
+ {
+  "key": "id=22",
+  "field": "usage_detail",
+  "before": "拼写易错：persevere 中间是 se，没有 r，注意与 preserve（保存）区分。",
+  "after": "拼写易错：persevere 是 per + se + vere，se 前后都没有多余的 r，不要写成 perservere，也不要与 preserve（保存）混淆。",
+  "reason": "原说“没有 r”与实际拼写（persevere 含两个 r）矛盾，改为准确的易错提示"
+ }
+]
