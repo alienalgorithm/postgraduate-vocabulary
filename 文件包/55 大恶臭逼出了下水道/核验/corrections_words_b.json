@@ -1,0 +1,37 @@
+[
+  {
+    "key": "37",
+    "field": "usage_detail",
+    "before": "mainstream（干流）",
+    "after": "the main river（干流）",
+    "reason": "mainstream 在现代词典中指“主流（思想、社会）”，不作地理上的“干流”讲。"
+  },
+  {
+    "key": "38",
+    "field": "form_note",
+    "before": "文中为原形，不可数名词，前有定冠词 the。",
+    "after": "文中为原形，前有定冠词 the，此处作不可数名词用（词典标为可数、不可数两用）。",
+    "reason": "Oxford、Cambridge 均标 infrastructure 为 [C, U]。"
+  },
+  {
+    "key": "39",
+    "field": "etymology",
+    "before": "源自中古荷兰语 bricke。",
+    "after": "可能源自中古荷兰语 bricke。",
+    "reason": "Etymonline 标为 probably from Middle Dutch bricke，不能写成确定来源。"
+  },
+  {
+    "key": "52",
+    "field": "etymology",
+    "before": "由前缀 pre-（在前，超过）加 dominant（占优势的）构成，dominant 源自拉丁语 dominari（统治），dominus 意为“主人”。字面义“统治力超过其他的”。",
+    "after": "16世纪借自法语 prédominant，源自中世纪拉丁语 praedominari（占优势），由 prae-（在前，超过）加 dominari（统治）构成，dominus 意为“主人”。字面义“统治力超过其他的”，与 dominant 同根。",
+    "reason": "Etymonline：predominant 来自法语 prédominant / 中世纪拉丁语 praedominari，并非英语里由 pre- 加 dominant 直接构成。"
+  },
+  {
+    "key": "61",
+    "field": "context_usage",
+    "before": "别处接入了新下水道，只有这里再次爆发霍乱。",
+    "after": "别处已接入新下水道，1866年霍乱夺去约5,600人生命的地方，正是这个唯一尚未接入的地区。",
+    "reason": "原文只说东区死亡约5,600人，没有说霍乱只在东区爆发，原表述超出原文。"
+  }
+]

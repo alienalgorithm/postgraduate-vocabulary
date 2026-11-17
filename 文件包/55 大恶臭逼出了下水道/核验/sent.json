@@ -1,0 +1,1644 @@
+[
+  {
+    "n": 1,
+    "trunk": {
+      "subject": "the curtains",
+      "predicate": "hung",
+      "object_or_complement": "heavy（主语补足语）",
+      "explain": "主干是 the curtains hung heavy：hang 在此是不及物动词，后面的形容词 heavy 作主语补足语，说明窗帘垂挂时的状态，结构上相当于主系表。谓语 hung 是 hang（悬挂）的过去式，一般过去时，主动语态，描写1858年夏天的情景。"
+    },
+    "components": [
+      {
+        "text": "In the fierce heat of summer 1858,",
+        "zh": "在酷热的1858年夏天",
+        "role": "时间状语（介词短语；of summer 1858 作 the fierce heat 的后置定语）"
+      },
+      {
+        "text": "the curtains",
+        "zh": "窗帘",
+        "role": "主语"
+      },
+      {
+        "text": "of the new Houses of Parliament",
+        "zh": "新落成的议会大厦里的",
+        "role": "后置定语（介词短语），修饰 the curtains"
+      },
+      {
+        "text": "hung",
+        "zh": "垂挂着",
+        "role": "谓语（不及物动词 hang 的过去式）"
+      },
+      {
+        "text": "heavy",
+        "zh": "沉甸甸地",
+        "role": "主语补足语（形容词，说明窗帘垂挂时的状态）"
+      },
+      {
+        "text": "with chloride of lime,",
+        "zh": "浸湿了氯化石灰",
+        "role": "介词短语，修饰 heavy，说明窗帘因什么而沉重（heavy with sth：因满含某物而沉重）"
+      },
+      {
+        "text": "a bleach",
+        "zh": "这是一种漂白剂",
+        "role": "同位语，补充说明 chloride of lime"
+      },
+      {
+        "text": "to make the air tolerable.",
+        "zh": "用来让空气变得可以忍受",
+        "role": "后置定语（不定式短语，表示用途），修饰 a bleach；内部是 make + 宾语 the air + 宾语补足语 tolerable"
+      }
+    ],
+    "structure": "①主句是 the curtains hung heavy：主语 the curtains，谓语 hung，形容词 heavy 作主语补足语。hang heavy with sth 是视频说明给出的固定说法，意为“沉甸甸地浸满……”，with chloride of lime 交代让窗帘变沉的东西。\n②句首 In the fierce heat of summer 1858 是介词短语作时间状语，中心词是 heat，fierce 作前置定语，of summer 1858 作后置定语，说明是哪一年夏天的酷热。\n③主语 the curtains 后面的 of the new Houses of Parliament 是介词短语作后置定语，说明是议会大厦里的窗帘；new 指这座大厦是新建成的。\n④逗号后的 a bleach 是同位语，补充说明 chloride of lime 是什么东西（视频说明：同位语，补充说明 chloride of lime）。to make the air tolerable 是不定式短语作 a bleach 的后置定语，表示这种漂白剂的用途；不定式内部是 make + 宾语 + 形容词（宾语补足语）结构，the air 是宾语，tolerable 是宾语补足语。\n⑤句子开篇就用酷暑、浸了漂白粉的窗帘这两个细节，间接写出空气臭到难以忍受，为下文的 the Great Stink 作铺垫。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "不及物动词 + 形容词作主语补足语",
+        "explain": "hang、sit、stand、lie、remain 等不及物动词后面可以接形容词，说明主语在发出该动作时所处的状态，形容词在句中作主语补足语，整体接近系表结构。本句 hung heavy 即“垂挂着，沉甸甸的”，heavy 说明的是主语 the curtains，所以用形容词，不用副词 heavily。考研易错点：这类形容词修饰的是主语，不是动词，看到“动词 + 形容词”不要误以为该用副词；翻译时常把形容词译成“……地”或拆成并列短句，如视频把 hung heavy 处理成“垂挂着，沉甸甸地……”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "On the windless afternoon, the flags hung limp from their poles.",
+            "zh": "那个无风的下午，旗帜软塌塌地垂挂在旗杆上。"
+          },
+          {
+            "en": "The old house stood empty for nearly a decade before it was sold.",
+            "zh": "这座老房子空置了将近十年才被卖掉。"
+          }
+        ]
+      },
+      {
+        "title": "名词短语作同位语",
+        "explain": "同位语对前面的名词作补充说明，二者指同一事物，常用逗号隔开，放在被说明的名词之后。本句 a bleach 与 chloride of lime 指同一种物质，交代它的类别；后面再接不定式说明用途。同位语可以带自己的修饰语，往往比被说明的名词还长。考研长难句中，句末逗号后突然出现的名词短语多是同位语，要回头找它说明的名词，不要误当成新的主语或宾语。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The council finally rejected the scheme, a proposal that had taken two years to prepare.",
+            "zh": "市议会最终否决了这项方案，这是一份耗时两年准备的提案。"
+          }
+        ]
+      },
+      {
+        "title": "make + 宾语 + 形容词",
+        "explain": "make 后接宾语再接形容词，形容词作宾语补足语，表示“使某人或某物变得……”，如 make the air tolerable（让空气变得可以忍受）。宾语较长时，常用形式宾语 it，把真正的宾语后置，如 make it possible to do sth。考研写作常用 make it clear that、make it easier for sb to do sth；易错点是把宾语补足语写成副词，如误写 make the air tolerably。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Better lighting has made the old station far more welcoming at night.",
+            "zh": "更好的照明让这座老车站在夜里亲切了许多。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Houses of Parliament",
+        "explain": "英国议会大厦，即威斯敏斯特宫（Palace of Westminster），上议院和下议院都在这里开会，所以 Houses 用复数。旧宫大部分在1834年的大火中焚毁，此后重建，所以文中称 the new Houses of Parliament，视频译为“新落成的议会大厦”。大厦建在泰晤士河岸边，河水发臭时议员首当其冲。"
+      },
+      {
+        "term": "chloride of lime",
+        "explain": "视频说明：氯化石灰，即漂白粉。这是旧时的化学名称，现在一般说 bleaching powder。本句 a bleach 就是对它的补充说明。"
+      },
+      {
+        "term": "hang heavy with",
+        "explain": "视频说明：沉甸甸地浸满……。heavy with sth 意为“因满含某物而沉重”，如 branches heavy with fruit（果实压弯的树枝）、air heavy with smoke（烟雾弥漫的空气）。"
+      },
+      {
+        "term": "summer 1858",
+        "explain": "英式英语常把年份直接放在季节或月份后面，如 summer 1858、spring 2020，相当于 the summer of 1858。本句 of summer 1858 修饰 the fierce heat。"
+      }
+    ],
+    "translation_tip": "视频译文“在酷热的1858年夏天，新落成的议会大厦里的窗帘垂挂着，沉甸甸地浸湿了氯化石灰，这是一种漂白剂，用来让空气变得可以忍受。”的处理：①时间状语 In the fierce heat of summer 1858 保留在句首，后置定语 of summer 1858 与中心词合并，译成“在酷热的1858年夏天”。②后置定语 of the new Houses of Parliament 前移，译成“新落成的议会大厦里的窗帘”，new 译为“新落成的”，增补“里的”交代窗帘的位置。③hung heavy with 拆成“垂挂着”和“沉甸甸地浸湿了”两个短句，形容词 heavy 译成状语“沉甸甸地”。④同位语 a bleach 拆成独立分句“这是一种漂白剂”；不定式 to make the air tolerable 增补“用来”体现用途，宾语补足语 tolerable 译为“变得可以忍受”。"
+  },
+  {
+    "n": 2,
+    "trunk": {
+      "subject": "The Thames；MPs",
+      "predicate": "festered；contemplated",
+      "object_or_complement": "moving out（contemplated 的宾语）",
+      "explain": "并列句，and 连接两个分句：The Thames festered 是主谓结构，fester 为不及物动词；MPs contemplated moving out 是主谓宾结构，动名词短语作宾语。两个谓语都是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "The Thames",
+        "zh": "泰晤士河",
+        "role": "第一个分句的主语"
+      },
+      {
+        "text": "festered,",
+        "zh": "正在溃烂发臭",
+        "role": "第一个分句的谓语（不及物动词）"
+      },
+      {
+        "text": "and",
+        "zh": "并且",
+        "role": "并列连词，连接两个分句"
+      },
+      {
+        "text": "MPs",
+        "zh": "议员们",
+        "role": "第二个分句的主语"
+      },
+      {
+        "text": "contemplated",
+        "zh": "考虑过",
+        "role": "第二个分句的谓语"
+      },
+      {
+        "text": "moving out.",
+        "zh": "搬离这里",
+        "role": "宾语（动名词短语）"
+      }
+    ],
+    "structure": "①全句是 and 连接的并列句，两个分句各有主语和谓语：The Thames festered（泰晤士河在溃烂发臭）和 MPs contemplated moving out（议员们考虑过搬离）。and 前加逗号，把两个独立分句隔开。\n②第一个分句只有主语和不及物动词谓语 festered，没有宾语。fester 本指伤口化脓溃烂，这里用在河流上，把泰晤士河写成一个溃烂的伤口，突出腐臭。\n③第二个分句中 contemplated 后接动名词短语 moving out 作宾语，构成 contemplate doing（考虑做某事）。move out 是不及物短语动词，意为“搬走”，没有说明搬离哪里，从上句可知是指议会大厦。\n④两个分句是因果关系：河水腐臭（因），议员想搬走（果），英文只用 and 连接，因果靠语义体现。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "contemplate + 动名词作宾语",
+        "explain": "contemplate 表示“考虑做某事”时，后面接动名词，不接不定式：contemplate doing sth，不说 contemplate to do sth。同类动词还有 consider、imagine、suggest、avoid、risk、delay 等，都是考研完形和写作中常考的“只接 doing”的动词。本句 contemplated moving out 即“考虑过搬离”。视频说明指出 contemplate 指深入、反复权衡的仔细考虑，比 think 更有深度。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "After the flood, many residents contemplated leaving the valley for good.",
+            "zh": "洪水过后，许多居民考虑过永远离开这个山谷。"
+          },
+          {
+            "en": "The board is contemplating selling part of the business to reduce its debts.",
+            "zh": "董事会正在考虑出售部分业务以减少债务。"
+          }
+        ]
+      },
+      {
+        "title": "and 连接的并列句",
+        "explain": "两个独立分句可以用 and、but、or、so 等并列连词连接，构成并列句，连词前通常加逗号。两个分句之间的逻辑关系（顺承、因果、转折）有时并不由连词本身表明，要靠语义判断。本句 and 前后是“河水发臭”和“议员想搬走”，实际含因果关系。考研翻译中，可以根据语义把 and 译成“于是”“因而”等，视频此处译为“并且”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Prices rose sharply over the winter, and many families cut back on heating.",
+            "zh": "整个冬天物价大幅上涨，许多家庭减少了取暖开支。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "the Thames",
+        "explain": "泰晤士河，流经伦敦。河流名称前要加定冠词 the，如 the Thames、the Yangtze。下一句用 The river 回指它。"
+      },
+      {
+        "term": "MP",
+        "explain": "视频说明：议员，即 Member of Parliament。英国下议院议员称 MP，复数 MPs，缩写的复数直接加 s，不加撇号。"
+      },
+      {
+        "term": "move out",
+        "explain": "不及物短语动词，意为“搬出，搬走”，搬离某处说 move out of a place。反义是 move in（搬进来）。"
+      }
+    ],
+    "translation_tip": "视频译文“泰晤士河正在溃烂发臭，并且议员们考虑过搬离这里。”的处理：①festered 是一般过去时，描写当时持续的状态，译文加“正在”，表现河水不断腐臭的过程；fester 的比喻义译为“溃烂发臭”，“溃烂”保留伤口化脓的形象，“发臭”点明对气味的影响。②and 译为“并且”，保持并列结构。③contemplated 加“过”，表示只是考虑过搬走。④moving out 没有地点，译文增补“这里”，指议会大厦，使意思完整。"
+  },
+  {
+    "n": 3,
+    "trunk": {
+      "subject": "The river",
+      "predicate": "had become",
+      "object_or_complement": "London's lavatory（表语）",
+      "explain": "主系表结构，become 是系动词，London's lavatory 是名词短语作表语。谓语 had become 是过去完成时，表示到1858年夏天时这种状况已经形成。"
+    },
+    "components": [
+      {
+        "text": "The river",
+        "zh": "这条河",
+        "role": "主语（回指上句的 the Thames）"
+      },
+      {
+        "text": "had become",
+        "zh": "已经成了",
+        "role": "谓语（系动词 become 的过去完成时）"
+      },
+      {
+        "text": "London's",
+        "zh": "伦敦的",
+        "role": "定语（名词所有格），修饰 lavatory"
+      },
+      {
+        "text": "lavatory.",
+        "zh": "厕所",
+        "role": "表语"
+      }
+    ],
+    "structure": "①全句是主系表结构：主语 The river，系动词 had become，表语 London's lavatory。\n②The river 回指上句的 the Thames，是同义替换，避免重复专名。\n③had become 用过去完成时：第一段写的是1858年夏天，这一句往前追溯，说明泰晤士河沦为“伦敦的厕所”是在此之前逐渐形成的状况，下一句再交代原因。\n④London's lavatory 是比喻，把整条河说成城市的厕所，语气辛辣；视频说明指出 lavatory 是正式、偏书面的词，外刊讽刺性的文字常用。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "过去完成时表示过去某时已形成的状态",
+        "explain": "过去完成时 had done 表示在过去某一时间之前已经完成的动作，或到那时已经形成的状态。本句的参照时间是第一段的1858年夏天，had become 说明在此之前泰晤士河已经成了伦敦的厕所。叙述文中，作者先写某个时刻，再用过去完成时回溯此前的背景，这是常见的倒叙手法。考研阅读中看到 had done，要意识到作者在交代更早的事情。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "By the time the rescue team arrived, the water had already risen above the doorways.",
+            "zh": "救援队赶到时，水已经涨过了门框。"
+          },
+          {
+            "en": "The town had grown rapidly during the previous decade, and its roads could no longer cope.",
+            "zh": "这座小镇在此前十年里迅速扩张，道路已经不堪重负。"
+          }
+        ]
+      },
+      {
+        "title": "系动词 become + 名词作表语",
+        "explain": "become 作系动词时，后接名词、形容词作表语，表示“变成，成为”，本身不用于被动语态。本句 had become London's lavatory 中，名词短语 London's lavatory 作表语。become 后接名词时不加 as，不能写成 become as London's lavatory。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Within a few years, the small workshop had become one of the region's biggest employers.",
+            "zh": "短短几年，这家小作坊已经成为该地区最大的雇主之一。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "London's",
+        "explain": "城市、国家等表示地点的名词可以用 's 所有格，如 London's population、Britain's economy，新闻语体中很常见。"
+      },
+      {
+        "term": "lavatory",
+        "explain": "视频说明：lavatory 是正式、偏书面、带英式色彩的词（飞机上也常写这个词）；toilet 最直白、最常用；restroom、washroom 是美式公共洗手间；bathroom 是美国家庭里的卫生间；loo 是英国人的口语。本句用正式词说“厕所”，带讽刺意味。"
+      }
+    ],
+    "translation_tip": "视频译文“这条河已经成了伦敦的厕所。”的处理：①The river 译为“这条河”，用“这”回指上句的泰晤士河。②过去完成时 had become 用“已经成了”表达，“已经”体现状态在过去某时之前就已形成。③比喻直译为“伦敦的厕所”，保留原文的辛辣效果。"
+  },
+  {
+    "n": 4,
+    "trunk": {
+      "subject": "Antiquated sewers and outlets",
+      "predicate": "discharged",
+      "object_or_complement": "the untreated sewage of some three million city dwellers",
+      "explain": "主谓宾结构，句型为 discharge A into B（把 A 排放到 B 中）。谓语 discharged 为一般过去时，主动语态；句末 where 引导非限制性定语从句。"
+    },
+    "components": [
+      {
+        "text": "Antiquated sewers and outlets",
+        "zh": "老旧的下水道和排污口",
+        "role": "主语（两个并列名词，Antiquated 同时修饰 sewers 和 outlets）"
+      },
+      {
+        "text": "discharged",
+        "zh": "排放",
+        "role": "谓语"
+      },
+      {
+        "text": "the untreated sewage",
+        "zh": "未经处理的污水",
+        "role": "宾语"
+      },
+      {
+        "text": "of some three million city dwellers",
+        "zh": "它们来自约三百万城市居民",
+        "role": "后置定语（介词短语），修饰 sewage，说明污水的来源"
+      },
+      {
+        "text": "into its currents,",
+        "zh": "排入河的水流中",
+        "role": "方向状语（介词短语），与 discharged 构成 discharge A into B"
+      },
+      {
+        "text": "where the excrement stewed and decayed.",
+        "zh": "在那里，粪便处于/闷在炎热的空气中并腐败",
+        "role": "非限制性定语从句，修饰 its currents（where 在从句中作地点状语）"
+      }
+    ],
+    "structure": "①主句是 Antiquated sewers and outlets discharged the untreated sewage … into its currents。主语是并列名词 sewers and outlets，前置定语 Antiquated 同时修饰两者；谓语 discharged 与句后的 into its currents 构成 discharge A into B（视频说明：把 A 排放到 B 中）。\n②宾语 the untreated sewage 后面跟 of some three million city dwellers，介词短语作后置定语，说明是约三百万城市居民的污水。some 用在数字前表示“大约”（视频说明）。\n③its 指上句的 The river，its currents 即河的水流。\n④where 引导非限制性定语从句，先行词是 its currents（视频说明：where 指 its currents）。where 是关系副词，在从句中作地点状语，相当于 in which。从句主语 the excrement，谓语是并列的 stewed and decayed，两个都是不及物动词；stew 本义“炖”，这里指在闷热中闷着、沤着。\n⑤这一句解释上句“伦敦的厕所”的由来：污水未经处理就排进河里，在河中沤烂。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "where 引导非限制性定语从句",
+        "explain": "where 是关系副词，先行词表示地点（也可以是抽象的“场合、处境”），在从句中作地点状语，可以换成“介词 + which”，本句 where = in which（在水流中）。前面有逗号，是非限制性定语从句，对先行词作补充说明，翻译时常拆成独立分句，用“在那里”承接。考研易错点：先行词是地点名词时，若从句缺主语或宾语，要用 which 或 that，不用 where，如 the city which I visited；只有从句结构完整、缺地点状语时才用 where。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The waste was dumped into a disused quarry, where it slowly poisoned the groundwater.",
+            "zh": "废料被倾倒进一个废弃的采石场，在那里慢慢污染了地下水。"
+          },
+          {
+            "en": "She moved to Edinburgh, where she spent the rest of her career.",
+            "zh": "她搬到了爱丁堡，在那里度过了职业生涯的余下时光。"
+          }
+        ]
+      },
+      {
+        "title": "前置定语修饰并列名词",
+        "explain": "形容词放在 A and B 前面时，可以只修饰 A，也可以同时修饰 A 和 B，要靠语义判断。本句 Antiquated sewers and outlets 中，下水道和排污口都是旧设施，antiquated 同时修饰两者，视频译为“老旧的下水道和排污口”。考研翻译中遇到这种结构，要先判断修饰范围再动笔，必要时在译文中重复修饰语，避免歧义。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The report criticized the company's outdated software and equipment.",
+            "zh": "报告批评了该公司过时的软件和设备。"
+          }
+        ]
+      },
+      {
+        "title": "discharge A into B",
+        "explain": "discharge 作及物动词，意为“排放（液体、气体等）”，排放的去处用 into 引出：discharge A into B。本句宾语较长，into its currents 放在宾语之后。同类结构还有 pump A into B、release A into B、dump A into B，在环境类阅读中很常见。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The factory was fined for discharging chemicals into a nearby stream.",
+            "zh": "这家工厂因向附近的溪流排放化学品而被罚款。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "some + 数词",
+        "explain": "视频说明：some three million，约三百万，some 表示“大约”。some 用在数字前作副词，相当于 about、approximately，语气较正式。"
+      },
+      {
+        "term": "city dweller",
+        "explain": "视频说明：城市居民。dweller 常与地点名词构成复合词，如 cave dweller（穴居者）、apartment dweller（住公寓的人）。"
+      },
+      {
+        "term": "sewer 与 sewage",
+        "explain": "sewer 是“下水道，排污管”（设施），sewage 是“污水”（管里流的东西），本句两者都出现：sewers 排放 sewage。sewerage 则指整个排污系统或排污过程。"
+      },
+      {
+        "term": "stew",
+        "explain": "视频说明：stew，炖，这里指在闷热中闷着、沤着。本义是用小火慢炖，用在粪便上，写出它在炎热的河水中慢慢沤烂的情形。"
+      }
+    ],
+    "translation_tip": "视频译文“老旧的下水道和排污口排放未经处理的污水，它们来自约三百万城市居民，排入河的水流中，在那里，粪便处于/闷在炎热的空气中并腐败。”的处理：①主谓宾按原语序译出“老旧的下水道和排污口排放未经处理的污水”。②后置定语 of some three million city dwellers 较长，没有前置，而是拆成分句“它们来自约三百万城市居民”，用“它们”回指污水。③方向状语 into its currents 单独译成“排入河的水流中”，its 译为“河的”，明确所指。④where 引导的非限制性定语从句拆译为“在那里，……”。⑤stewed 用斜线并列“处于”“闷在”两种说法，补出“炎热的空气中”，体现 stew 在闷热中沤着的含义；decayed 译为“腐败”，用“并”连接。"
+  },
+  {
+    "n": 5,
+    "trunk": {
+      "subject": "The vile fumes",
+      "predicate": "grew",
+      "object_or_complement": "so overpowering（表语）",
+      "explain": "主系表结构，grow 作系动词，意为“变得”，形容词 overpowering 作表语；so 与后面的 that 从句构成 so…that… 结果状语从句。谓语 grew 为一般过去时。"
+    },
+    "components": [
+      {
+        "text": "The vile fumes",
+        "zh": "令人恶心的刺鼻气体",
+        "role": "主语"
+      },
+      {
+        "text": "grew",
+        "zh": "变得",
+        "role": "谓语（系动词 grow 的过去式）"
+      },
+      {
+        "text": "so overpowering",
+        "zh": "如此极其强烈的/令人难以忍受",
+        "role": "表语（so 修饰形容词 overpowering，与 that 呼应）"
+      },
+      {
+        "text": "that the episode earned a name,",
+        "zh": "以至于这段时期赢得了一个名字",
+        "role": "结果状语从句（so…that… 结构）"
+      },
+      {
+        "text": "the Great Stink.",
+        "zh": "大恶臭",
+        "role": "同位语（在 that 从句中），补充说明 a name"
+      }
+    ],
+    "structure": "①主句是 The vile fumes grew so overpowering：主语 The vile fumes，系动词 grew，表语 so overpowering。grow 后接形容词时是系动词，表示逐渐变化。\n②that the episode earned a name 是结果状语从句，与前面的 so 构成 so…that…（视频说明：如此……以至于……）。从句主语 the episode，谓语 earned，宾语 a name。\n③the Great Stink 是同位语，补充说明 a name 具体是什么（视频说明：同位语，补充说明 a name），作为专名，首字母大写。\n④the episode 指这次恶臭事件持续的那段时间，视频译为“这段时期”。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "so…that… 结果状语从句",
+        "explain": "so + 形容词或副词 + that 从句，表示“如此……以至于……”，that 从句说明结果。so 后接形容词、副词；名词前要用 such，如 such a strong smell that…；但 so + 形容词 + a/an + 单数名词也成立，如 so strong a smell that…。so 或 such 引导的部分放在句首时，主句要部分倒装，如 So overpowering were the fumes that…，这是考研翻译和写作中的高分结构。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The noise from the building site was so loud that the school had to close its windows.",
+            "zh": "工地的噪音太大，以至于学校不得不关上窗户。"
+          },
+          {
+            "en": "So severe was the drought that the river almost disappeared.",
+            "zh": "旱情如此严重，这条河几乎干涸了。"
+          }
+        ]
+      },
+      {
+        "title": "grow 作系动词",
+        "explain": "grow、become、get、turn、go 都可以作系动词表示“变得”，后接形容词作表语。grow 强调逐渐变化，多用于书面语，如 grow old、grow impatient、grow dark。本句 grew so overpowering 表示气味逐渐强烈到难以忍受。系动词后接形容词，不能用副词。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "As the talks dragged on, the delegates grew increasingly impatient.",
+            "zh": "随着谈判一再拖延，代表们变得越来越不耐烦。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "the Great Stink",
+        "explain": "指1858年夏天伦敦泰晤士河散发恶臭的事件，是固定的历史名称，首字母大写，视频译为“大恶臭”。Great 在这类历史事件名称中表示规模大、影响大，如 the Great Fire of London（伦敦大火）、the Great Depression（大萧条）。"
+      },
+      {
+        "term": "earn a name",
+        "explain": "earn 本义“挣得，赢得”，earn a name 指因某种表现而获得一个名称；earn a reputation 意为“赢得名声”。视频译为“赢得了一个名字”。"
+      }
+    ],
+    "translation_tip": "视频译文“令人恶心的刺鼻气体变得如此极其强烈的/令人难以忍受，以至于这段时期赢得了一个名字，大恶臭。”的处理：①vile fumes 译为“令人恶心的刺鼻气体”，形容词前置。②so…that… 按原语序译成“如此……以至于……”，前因后果，与英文一致。③overpowering 用斜线并列“极其强烈的”“令人难以忍受”两种释义。④同位语 the Great Stink 与 a name 之间保留逗号，直接译为“大恶臭”。"
+  },
+  {
+    "n": 6,
+    "trunk": {
+      "subject": "Disgust",
+      "predicate": "found",
+      "object_or_complement": "a voice",
+      "explain": "主谓宾结构，抽象名词 Disgust 作主语，find a voice 是拟人说法。谓语 found 为一般过去时，主动语态；句后 when 引导非限制性定语从句，修饰 15 July。"
+    },
+    "components": [
+      {
+        "text": "Disgust",
+        "zh": "这股厌恶",
+        "role": "主语（抽象名词）"
+      },
+      {
+        "text": "found",
+        "zh": "找到了",
+        "role": "谓语"
+      },
+      {
+        "text": "a voice",
+        "zh": "代言人",
+        "role": "宾语"
+      },
+      {
+        "text": "on 15 July,",
+        "zh": "是在7月15日",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "when",
+        "zh": "当时",
+        "role": "关系副词，引导非限制性定语从句，修饰 15 July，在从句中作时间状语"
+      },
+      {
+        "text": "the Chancellor of the Exchequer,",
+        "zh": "财政大臣",
+        "role": "从句主语"
+      },
+      {
+        "text": "Benjamin Disraeli,",
+        "zh": "本杰明·迪斯雷利",
+        "role": "同位语，补充说明 the Chancellor of the Exchequer"
+      },
+      {
+        "text": "denounced",
+        "zh": "公开抨击",
+        "role": "从句谓语"
+      },
+      {
+        "text": "the river",
+        "zh": "这条河",
+        "role": "从句宾语"
+      },
+      {
+        "text": "as a hellish pool",
+        "zh": "是一潭地狱般的池水",
+        "role": "宾语补足语（as 短语），与 denounced 构成 denounce A as B"
+      },
+      {
+        "text": "of unbearable horrors.",
+        "zh": "满是令人无法忍受的恐怖",
+        "role": "后置定语（介词短语），修饰 pool"
+      }
+    ],
+    "structure": "①主句是 Disgust found a voice on 15 July：抽象名词 Disgust 作主语，find a voice 意为“找到表达的出口”，这里指有了代言人（视频说明），on 15 July 作时间状语。\n②when 引导非限制性定语从句，先行词是 15 July，when 在从句中作时间状语，相当于 on which。\n③从句主语是 the Chancellor of the Exchequer，逗号之间的 Benjamin Disraeli 是同位语，说明这位财政大臣是谁（视频说明）。从句谓语 denounced，宾语 the river，as a hellish pool 是宾语补足语，构成 denounce A as B（视频说明：痛斥 A 是 B）。\n④of unbearable horrors 是介词短语，作 pool 的后置定语，说明池水里满是令人无法忍受的恐怖。hellish 和 horrors 用夸张的说法写出河水的可怕。\n⑤主句先概括“厌恶有了代言人”，从句再具体交代是谁、说了什么，信息由概括到具体。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "when 引导非限制性定语从句",
+        "explain": "when 作关系副词时，先行词是表示时间的名词，when 在从句中作时间状语，可换成“介词 + which”，本句 when = on which（在那一天）。逗号后的 when 从句是非限制性定语从句，对时间作补充说明，常译为“当时……”“那时……”。易错点：要和 when 引导的时间状语从句区分，定语从句的 when 前面有一个时间名词作先行词；先行词是时间名词但从句缺主语或宾语时，要用 which 或 that，如 the day which I will never forget。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The results were announced in March, when most students had already left for the holidays.",
+            "zh": "结果是在三月公布的，当时大多数学生已经放假离校了。"
+          },
+          {
+            "en": "He joined the firm in 2008, when the financial crisis was at its worst.",
+            "zh": "他在2008年加入这家公司，当时金融危机正处于最严重的阶段。"
+          }
+        ]
+      },
+      {
+        "title": "动词 + 宾语 + as 短语",
+        "explain": "denounce、describe、regard、see、view、treat、dismiss 等动词可以构成“动词 + 宾语 + as + 名词或形容词”，as 短语作宾语补足语，说明对宾语的评价或定性。本句 denounced the river as a hellish pool 即“公开抨击这条河是一潭地狱般的池水”。变成被动语态时，as 短语紧跟在过去分词后，如 The river was denounced as…。考研阅读中，这类结构往往表达人物的态度，是态度题的依据。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Critics dismissed the plan as unrealistic and far too expensive.",
+            "zh": "批评者认为这项计划不切实际、代价太高，不予理会。"
+          }
+        ]
+      },
+      {
+        "title": "非限制性同位语",
+        "explain": "专有名词前后用逗号隔开、补充说明前面的职位或身份时，是非限制性同位语，如 the Chancellor of the Exchequer, Benjamin Disraeli,。逗号表示这个职位在当时只有一人担任，人名是附加信息。如果不加逗号，写成 the engineer Joseph Bazalgette（第8句），则是紧密同位语，人名起限定作用。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The country's finance minister, Maria Lopez, defended the new budget on Monday.",
+            "zh": "该国财政部长玛丽亚·洛佩斯周一为新预算进行了辩护。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "find a voice",
+        "explain": "视频说明：找到表达的出口，这里指有了代言人。主语常是情绪、观点或群体，如 Public anger found a voice in the new movement。相关说法有 give voice to sth（表达出某种情绪或观点）。"
+      },
+      {
+        "term": "the Chancellor of the Exchequer",
+        "explain": "视频说明：英国财政大臣。英国财政部门主管的正式头衔，常简称 the Chancellor。"
+      },
+      {
+        "term": "Benjamin Disraeli",
+        "explain": "本杰明·迪斯雷利，19世纪英国保守党政治家，1858年时担任财政大臣，后来两次出任首相。"
+      },
+      {
+        "term": "15 July",
+        "explain": "英式日期写法是“日 + 月”，读作 the fifteenth of July；美式写法是“月 + 日”，July 15，读作 July fifteenth。日期前用介词 on。"
+      }
+    ],
+    "translation_tip": "视频译文“这股厌恶找到了代言人，是在7月15日，当时财政大臣本杰明·迪斯雷利公开抨击这条河是一潭地狱般的池水，满是令人无法忍受的恐怖。”的处理：①主语 Disgust 增补“这股”，与前文的臭气相连；find a voice 按语境译为“找到了代言人”。②时间状语 on 15 July 单独成句，译为“是在7月15日”，起强调作用。③when 引导的非限制性定语从句拆开，译为“当时……”。④同位语与先行词合译为“财政大臣本杰明·迪斯雷利”，去掉逗号。⑤denounce A as B 译为“公开抨击 A 是 B”；后置定语 of unbearable horrors 拆成分句“满是令人无法忍受的恐怖”，避免定语过长。"
+  },
+  {
+    "n": 7,
+    "trunk": {
+      "subject": "A bill",
+      "predicate": "was fast-tracked",
+      "object_or_complement": "",
+      "explain": "被动语态的主谓结构，into law 表示结果，in about 18 days 表示用时。谓语 was fast-tracked 为一般过去时的被动语态，主语 A bill 是动作的承受者。"
+    },
+    "components": [
+      {
+        "text": "A bill",
+        "zh": "一项……法案",
+        "role": "主语"
+      },
+      {
+        "text": "funding new sewers",
+        "zh": "为新下水道拨款的",
+        "role": "后置定语（现在分词短语），修饰 A bill"
+      },
+      {
+        "text": "was fast-tracked",
+        "zh": "被快速推进/被加速审批",
+        "role": "谓语（一般过去时，被动语态）"
+      },
+      {
+        "text": "into law",
+        "zh": "成为法律",
+        "role": "结果状语（介词短语），与谓语构成 fast-track A into law"
+      },
+      {
+        "text": "in about 18 days.",
+        "zh": "只用了约18天",
+        "role": "时间状语（in + 时间段，表示用时）"
+      }
+    ],
+    "structure": "①主句是被动结构 A bill was fast-tracked into law：主语 A bill，谓语 was fast-tracked，into law 表示结果。视频说明：fast-track A into law，加快把 A 变成法律。\n②funding new sewers 是现在分词短语作后置定语，修饰 a bill（视频说明），相当于 which funded new sewers。fund 是及物动词，意为“为……提供资金”，法案与 fund 是主动关系，所以用现在分词。\n③in about 18 days 表示完成这件事所用的时间，about 修饰数字，表示“大约”。\n④本句承接上句：议员们的厌恶有了代言人之后，立法随即提速，体现恶臭对议会的直接压力。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "现在分词短语作后置定语",
+        "explain": "现在分词短语放在名词后作定语，表示主动关系，相当于一个定语从句。本句 a bill funding new sewers = a bill which funded new sewers，法案“为下水道拨款”，是主动的一方，所以用 funding。区分方法：被修饰的名词是动作发出者用 doing，是动作承受者用 done。考研长难句中，名词后紧跟 -ing 短语时，先判断它是不是后置定语，再去找真正的谓语，本句的谓语是 was fast-tracked。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The government introduced a law banning smoking in all enclosed public spaces.",
+            "zh": "政府出台了一项法律，禁止在所有室内公共场所吸烟。"
+          },
+          {
+            "en": "Researchers interviewed hundreds of families living near the airport.",
+            "zh": "研究人员走访了住在机场附近的数百个家庭。"
+          }
+        ]
+      },
+      {
+        "title": "in + 时间段",
+        "explain": "in + 时间段有两种含义：一是“在……时间内完成”，表示用时，如本句 in about 18 days（约18天内成为法律）；二是用于将来时，表示“……之后”，如 I'll be back in two hours。要区分 in 与 after：after 后接时间段多用于过去时，表示“……之后”，in 表示“……之后”时多用于将来时。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The new bridge was completed in just eight months.",
+            "zh": "这座新桥仅用八个月就建成了。"
+          }
+        ]
+      },
+      {
+        "title": "动词 + 宾语 + into + 结果",
+        "explain": "into 可以表示变化的结果，“动词 + A + into + B”意为“使 A 变成 B”，如 turn water into ice、translate a book into Chinese、fast-track a bill into law。本句是被动语态：A bill was fast-tracked into law，into law 仍紧跟在谓语后表示结果。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The old warehouse was converted into a museum of modern art.",
+            "zh": "这座旧仓库被改建成了一座现代艺术博物馆。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "bill",
+        "explain": "法案，议案，指提交议会审议、尚未通过的法律草案。议会通过并经批准后成为 act（法令）或 law（法律），本句 into law 正是指法案变成法律。常见搭配：pass a bill（通过法案）、introduce a bill（提出法案）。"
+      },
+      {
+        "term": "fund",
+        "explain": "动词“为……提供资金，资助”，如 fund research、a publicly funded project（公共资金资助的项目）。视频把 funding new sewers 译为“为新下水道拨款的”，“拨款”指法案为修建新下水道安排、划拨资金。"
+      }
+    ],
+    "translation_tip": "视频译文“一项为新下水道拨款的法案被快速推进/被加速审批，成为法律，只用了约18天。”的处理：①现在分词短语 funding new sewers 前置为“为新下水道拨款的”，修饰“法案”；A 译成“一项”。②被动语态保留“被”字，fast-tracked 用斜线给出“被快速推进”“被加速审批”两种说法。③into law 拆成短句“成为法律”。④in about 18 days 放在句末，增补“只用了”，突出立法速度之快。"
+  },
+  {
+    "n": 8,
+    "trunk": {
+      "subject": "The engineer Joseph Bazalgette",
+      "predicate": "masterminded",
+      "object_or_complement": "the response",
+      "explain": "主谓宾结构，主语是“职业名词 + 人名”构成的紧密同位结构。谓语 masterminded 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "The engineer",
+        "zh": "工程师",
+        "role": "主语中心词"
+      },
+      {
+        "text": "Joseph Bazalgette",
+        "zh": "约瑟夫·巴泽尔杰特",
+        "role": "同位语（紧密同位语，不加逗号），说明 The engineer 是谁"
+      },
+      {
+        "text": "masterminded",
+        "zh": "主持策划了",
+        "role": "谓语"
+      },
+      {
+        "text": "the response.",
+        "zh": "这次应对",
+        "role": "宾语"
+      }
+    ],
+    "structure": "①全句是主谓宾结构：主语 The engineer Joseph Bazalgette，谓语 masterminded，宾语 the response。\n②The engineer 与 Joseph Bazalgette 之间没有逗号，是紧密同位语：职业名词在前，说明身份，人名在后，指明具体是谁。\n③mastermind 原是名词，指出谋划策的核心人物，这里作动词，意为“策划，主持”（视频说明）。\n④the response 回指前文的整套应对：恶臭引发议会行动，法案拨款修建新下水道，本句交代具体负责的人。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "紧密同位语",
+        "explain": "身份、职业名词与人名直接相连、中间不加逗号时，构成紧密同位语，如 the engineer Joseph Bazalgette、the poet Wordsworth、my friend Tom。职业名词前常用 the。有逗号的非限制性同位语（如第6句 the Chancellor of the Exchequer, Benjamin Disraeli,）是补充说明，去掉后句子意思仍完整；紧密同位语则和中心词结合得很紧，读时不停顿。新闻中也常去掉 the，直接写 engineer Joseph Bazalgette。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The architect Zaha Hadid designed the aquatics centre for the 2012 Olympics.",
+            "zh": "建筑师扎哈·哈迪德设计了2012年奥运会的水上运动中心。"
+          }
+        ]
+      },
+      {
+        "title": "名词转化为动词",
+        "explain": "英语中不少名词可以直接用作动词，词形不变，如 mastermind（策划者，策划）、fund（资金，资助）、fast-track（快速通道，快速推进）、head（头，率领）。本句 masterminded 是 mastermind 作动词的过去式。考研阅读中遇到熟悉的名词处在谓语位置时，要按动词义理解。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "A former army officer masterminded the escape from the prison camp.",
+            "zh": "一名前陆军军官策划了这次从战俘营的出逃。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Joseph Bazalgette",
+        "explain": "约瑟夫·巴泽尔杰特，19世纪英国土木工程师，当时担任伦敦大都会工程委员会（Metropolitan Board of Works）的总工程师，主持修建了伦敦新的下水道系统。"
+      },
+      {
+        "term": "response",
+        "explain": "常见义是“回答，回应”，这里指针对某个问题采取的应对措施，如 the government's response to the crisis。视频译为“应对”。"
+      }
+    ],
+    "translation_tip": "视频译文“工程师约瑟夫·巴泽尔杰特主持策划了这次应对。”的处理：①紧密同位语按原语序合译为“工程师约瑟夫·巴泽尔杰特”，人名音译，名和姓之间用间隔号。②masterminded 译为“主持策划了”，既有“策划”也有“主持”，体现他的总负责人角色。③the response 中的 the 译为“这次”，回指前文的应对行动。"
+  },
+  {
+    "n": 9,
+    "trunk": {
+      "subject": "His 82 miles of stout intercepting sewers",
+      "predicate": "caught … and diverted",
+      "object_or_complement": "the flow（caught 的宾语）；it（diverted 的宾语）",
+      "explain": "一个主语带两个并列谓语：caught the flow（主谓宾）和 diverted it（主谓宾），两个谓语都是一般过去时，主动语态。主语以下水道作主语，是“物作主语”的写法。"
+    },
+    "components": [
+      {
+        "text": "His 82 miles of stout intercepting sewers",
+        "zh": "他修建的82英里坚固的截流下水道",
+        "role": "主语（82 miles of 表示长度，中心词是 sewers；His 指巴泽尔杰特）"
+      },
+      {
+        "text": "caught",
+        "zh": "截住了",
+        "role": "谓语一"
+      },
+      {
+        "text": "the flow",
+        "zh": "污水",
+        "role": "宾语（caught 的宾语）"
+      },
+      {
+        "text": "short of the river",
+        "zh": "在到达河流之前",
+        "role": "地点状语（介词短语 short of，表示还没到达某处）"
+      },
+      {
+        "text": "and diverted",
+        "zh": "并……改道",
+        "role": "并列连词 and + 谓语二"
+      },
+      {
+        "text": "it",
+        "zh": "把它",
+        "role": "宾语（diverted 的宾语，指 the flow）"
+      },
+      {
+        "text": "east,",
+        "zh": "向东",
+        "role": "方向状语（副词）"
+      },
+      {
+        "text": "downstream of the city.",
+        "zh": "送往城市下游",
+        "role": "方向状语，补充说明 east 的具体去处"
+      }
+    ],
+    "structure": "①全句一个主语带两个并列谓语：His 82 miles of stout intercepting sewers caught the flow … and diverted it east。\n②主语的中心词是 sewers，82 miles of 表示长度（视频说明：82英里长的……），stout 和 intercepting 都作前置定语；intercepting sewer 是专业术语“截流下水道”（视频说明）。His 指上句的巴泽尔杰特。\n③short of the river 是介词短语作状语，short of 意为“在到达……之前”（视频说明），说明下水道在污水流到河里之前就把它截住。\n④diverted it east 中，it 指 the flow，east 是副词作方向状语；downstream of the city 进一步说明向东送到哪里（视频说明：downstream of…，在……的下游）。\n⑤本句交代工程原理：截住污水不让它进河，再把它送到城市下游，与第4句旧下水道把污水直接排进河里形成对照。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "一个主语带两个并列谓语",
+        "explain": "同一个主语发出两个动作时，可以用 and 连接两个谓语，第二个谓语前不重复主语。本句 sewers caught the flow … and diverted it east，两个动作有先后：先截住，再改道。and 前面的成分较长时，要找到和第一个谓语同形式的动词（这里是过去式 diverted），确认它与 caught 并列，而不是另起一个分句。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The new dam stores water in the wet season and releases it during the dry months.",
+            "zh": "这座新水坝在雨季蓄水，在旱季放水。"
+          }
+        ]
+      },
+      {
+        "title": "short of 表示“未到达，差一点”",
+        "explain": "short of 有两个常用意思：一是“在到达……之前，未到”，表示距离或程度上还差一点，如 stop short of the river（在河边之前停住）、stop short of doing sth（差一点做某事，没有走到那一步）；二是“缺少，不足”，如 be short of money。本句是第一种意思，short of the river 即“在到达河流之前”。考研阅读中 stop short of 常用来表示“没有走到某一步”，如 stop short of calling it a failure（没有直接说它失败），对态度题很关键。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The report stopped short of blaming the minister directly.",
+            "zh": "报告没有直接指责这位部长。"
+          },
+          {
+            "en": "The flood waters came to a halt just short of the village.",
+            "zh": "洪水在快要到达村子的地方停了下来。"
+          }
+        ]
+      },
+      {
+        "title": "方位副词直接作方向状语",
+        "explain": "east、west、north、south、upstream、downstream、home、abroad 等可以作副词，直接放在动词后表示方向，前面不加介词：go east、move abroad、travel downstream，不说 go to east。本句 diverted it east 中 east 是副词；downstream of the city 由副词 downstream 加 of 短语构成，说明在城市的下游。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Many young people moved south in search of better-paid jobs.",
+            "zh": "许多年轻人为寻找收入更高的工作而南迁。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "intercepting sewer",
+        "explain": "视频说明：截流下水道。intercept 意为“拦截，截住”，截流下水道在原有排污管把污水排进河之前将其截住，另行导走。"
+      },
+      {
+        "term": "82 miles of…",
+        "explain": "视频说明：82英里长的……。“数词 + 长度单位 + of + 名词”表示某物的长度，如 300 miles of track（300英里长的轨道）。1英里约合1.6千米，82英里约合132千米。"
+      },
+      {
+        "term": "the flow",
+        "explain": "flow 指流动的液体或气体，这里指下水道中的污水流，视频译为“污水”。"
+      }
+    ],
+    "translation_tip": "视频译文“他修建的82英里坚固的截流下水道截住了污水，在到达河流之前，并把它改道向东，送往城市下游。”的处理：①His 增译为“他修建的”，说明下水道和巴泽尔杰特的关系。②the flow 按语境译为“污水”。③short of the river 拆成分句“在到达河流之前”，放在“截住了污水”之后，保持英文语序。④diverted it east 用“把”字句译为“并把它改道向东”。⑤downstream of the city 增补动词“送往”，译成“送往城市下游”。"
+  },
+  {
+    "n": 10,
+    "trunk": {
+      "subject": "the infrastructure",
+      "predicate": "took",
+      "object_or_complement": "318 million bricks",
+      "explain": "主谓宾结构，take 在此意为“耗用，需要”。谓语 took 为一般过去时，主动语态；句首 with 复合结构作状语。"
+    },
+    "components": [
+      {
+        "text": "With",
+        "zh": "有",
+        "role": "介词，引导 with 复合结构作状语"
+      },
+      {
+        "text": "some 1,100 miles of street sewers",
+        "zh": "约1,100英里的街道下水道",
+        "role": "with 的宾语（some 表示“大约”）"
+      },
+      {
+        "text": "as tributaries,",
+        "zh": "作为支流",
+        "role": "宾语补足语（as 介词短语），说明街道下水道的作用"
+      },
+      {
+        "text": "the infrastructure",
+        "zh": "整套基础设施",
+        "role": "主语"
+      },
+      {
+        "text": "took",
+        "zh": "用了",
+        "role": "谓语（take 意为“耗用，需要”）"
+      },
+      {
+        "text": "318 million bricks.",
+        "zh": "三亿一千八百万砖块",
+        "role": "宾语"
+      }
+    ],
+    "structure": "①主句是 the infrastructure took 318 million bricks：主语 the infrastructure，谓语 took，宾语 318 million bricks。视频说明：take，这里指耗用、需要。\n②句首 With some 1,100 miles of street sewers as tributaries 是 with 复合结构作状语（视频说明：with A as B，以 A 作为 B）。with 的宾语是 some 1,100 miles of street sewers，as tributaries 作宾语补足语。\n③tributaries 原指河流的支流，这里是比喻：街道下水道像支流一样把污水汇入主干截流下水道。\n④the infrastructure 指截流下水道加街道下水道组成的整套系统，本句用数字说明工程规模。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "with 复合结构作状语",
+        "explain": "with + 宾语 + 宾语补足语，构成 with 复合结构，可以作伴随、原因、条件等状语。宾语补足语可以是形容词、副词、介词短语、现在分词、过去分词或不定式，本句是 as 介词短语：with A as B，以 A 作为 B。宾补是分词时，宾语与动词是主动关系用 doing，被动关系用 done，如 with the work done、with prices rising。考研长难句中，句首的 with 短语往往是整个复合结构作状语，要找到它的宾语和宾补，不要把宾语当成全句主语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "With tourism as its main source of income, the island suffered badly during the pandemic.",
+            "zh": "这座岛以旅游业为主要收入来源，在疫情期间损失惨重。"
+          },
+          {
+            "en": "With interest rates rising, many buyers have postponed their plans.",
+            "zh": "由于利率上升，许多买家推迟了购房计划。"
+          }
+        ]
+      },
+      {
+        "title": "take 表示“耗用，需要”",
+        "explain": "熟词僻义：take 后接时间、材料、人力等，表示“耗用，需要”，主语是事情或工程，如 The job took three weeks、The bridge took 5,000 tonnes of steel。表示某人花时间做某事时，常用 It takes sb + 时间 + to do sth，it 作形式主语，人作 take 的宾语。考研阅读中 take 的意思要按宾语判断。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Restoring the cathedral roof took nearly ten years and thousands of oak beams.",
+            "zh": "修复大教堂的屋顶用了将近十年和数千根橡木梁。"
+          }
+        ]
+      },
+      {
+        "title": "million 前有具体数字时不加 s",
+        "explain": "hundred、thousand、million、billion 前有具体数字或 several 等时，用单数，不加 s，如 318 million bricks、three million city dwellers（第4句）；表示不确定的“数以百万计”时才用复数并接 of，如 millions of bricks。英语以三位为一节计数，汉语以四位为一节，318 million 换算成汉语是“三亿一千八百万”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The city's population grew from two million to over five million in fifty years.",
+            "zh": "这座城市的人口在五十年里从两百万增长到五百多万。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "tributary",
+        "explain": "原义“支流”，指汇入干流的河流。本句用来比喻街道下水道：它们像支流汇入干流一样，把污水送进截流下水道，视频译为“作为支流”。"
+      },
+      {
+        "term": "infrastructure",
+        "explain": "基础设施，指道路、桥梁、供水排水、电力等支撑社会运转的基本设施，词典标为可数、不可数两用，本句前加 the 作不可数用法。这里指整个下水道系统，视频译为“整套基础设施”。"
+      },
+      {
+        "term": "1,100",
+        "explain": "英文数字每三位加一个逗号，1,100 即一千一百。1,100英里约合1,770千米。"
+      }
+    ],
+    "translation_tip": "视频译文“有约1,100英里的街道下水道作为支流，整套基础设施用了三亿一千八百万砖块。”的处理：①with 复合结构保留在句首，with A as B 译为“有 A 作为 B”。②some 译为“约”。③the infrastructure 增补“整套”，说明指整个系统。④took 按语境译为“用了”；318 million 换算为“三亿一千八百万”。"
+  },
+  {
+    "n": 11,
+    "trunk": {
+      "subject": "he",
+      "predicate": "doubled",
+      "object_or_complement": "it",
+      "explain": "主谓宾结构，double 作及物动词，意为“使加倍”。谓语 doubled 为一般过去时，主动语态；句首是现在分词完成式短语作状语。"
+    },
+    "components": [
+      {
+        "text": "Having calculated",
+        "zh": "先算出",
+        "role": "现在分词完成式，引导时间状语，动作先于 doubled"
+      },
+      {
+        "text": "an adequate calibre",
+        "zh": "足够的内径/粗细",
+        "role": "分词 calculated 的宾语"
+      },
+      {
+        "text": "for each pipe,",
+        "zh": "用于每条管道",
+        "role": "后置定语（介词短语），修饰 calibre，说明是哪种管道的内径"
+      },
+      {
+        "text": "he",
+        "zh": "他",
+        "role": "主语（指巴泽尔杰特）"
+      },
+      {
+        "text": "doubled",
+        "zh": "再……加倍",
+        "role": "谓语"
+      },
+      {
+        "text": "it.",
+        "zh": "把它",
+        "role": "宾语（指 the calibre）"
+      }
+    ],
+    "structure": "①主句是 he doubled it：主语 he 指巴泽尔杰特，谓语 doubled，宾语 it 指前面算出的 calibre。\n②Having calculated an adequate calibre for each pipe 是现在分词完成式作状语，表示动作先于 doubled 发生（视频说明）。分词的逻辑主语就是主句主语 he：先由他算出足够的管径，再由他加倍。\n③分词短语内部，an adequate calibre 是 calculated 的宾语，for each pipe 说明是每条管道的内径。\n④本句写巴泽尔杰特的设计思路：按需要算出的管径已经够用，他仍把它加倍，留出余量。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "现在分词完成式作状语",
+        "explain": "having done 是现在分词的完成式，作状语时表示分词动作在谓语动作之前完成，强调先后顺序，多作时间或原因状语。本句 Having calculated … 表示“算出管径”在“加倍”之前，相当于 After he had calculated…。分词的逻辑主语必须与主句主语一致，本句都是 he。易错点：两个动作几乎同时发生时用一般式 doing；如果分词与主句主语是被动关系，要用 having been done。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Having studied the data carefully, the team revised its earlier conclusions.",
+            "zh": "仔细研究了数据之后，研究小组修改了先前的结论。"
+          },
+          {
+            "en": "Having lived abroad for twenty years, she found it hard to settle back home.",
+            "zh": "她在国外生活了二十年，回国后很难重新适应。"
+          }
+        ]
+      },
+      {
+        "title": "分词的逻辑主语与悬垂分词",
+        "explain": "分词短语作状语时，它的逻辑主语一般就是主句的主语。如果两者不一致，就是“悬垂分词”错误，如 Having calculated the size, the pipes were doubled（管道不会计算）。本句主句主语是 he，与 calculated 的动作发出者一致，结构正确。考研写作中用分词开头的句子，务必检查主句主语是不是分词动作的执行者。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Walking along the river, we noticed a strange smell.",
+            "zh": "沿着河边走的时候，我们闻到一股奇怪的气味。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "calibre",
+        "explain": "英式拼写，美式拼写为 caliber。本义是枪炮的口径，这里指管道的内径，视频译为“内径/粗细”。它还常比喻人的才干、素质，如 a teacher of high calibre（高水平的教师）。"
+      },
+      {
+        "term": "double",
+        "explain": "作及物动词意为“使加倍，使翻一番”，如 double the price；作不及物动词意为“增加一倍”，如 Sales doubled last year。"
+      }
+    ],
+    "translation_tip": "视频译文“先算出足够的内径/粗细，用于每条管道，他再把它加倍。”的处理：①现在分词完成式译为“先算出”，主句加“再”，用“先……再……”体现 having done 表示的先后关系。②for each pipe 没有前置，而是拆成短句“用于每条管道”。③calibre 用斜线给出“内径”“粗细”两种说法。④doubled it 用“把”字句译为“把它加倍”。"
+  },
+  {
+    "n": 12,
+    "trunk": {
+      "subject": "The backbone",
+      "predicate": "lies",
+      "object_or_complement": "buried（表语）",
+      "explain": "主系表结构，lie 作系动词，过去分词 buried 作表语，表示“处于被埋的状态”。谓语 lies 为一般现在时，说明至今仍是如此。"
+    },
+    "components": [
+      {
+        "text": "The backbone",
+        "zh": "系统的主干",
+        "role": "主语"
+      },
+      {
+        "text": "lies",
+        "zh": "（系动词，与 buried 合译为“就埋藏”）",
+        "role": "谓语（系动词 lie，一般现在时）"
+      },
+      {
+        "text": "buried",
+        "zh": "埋藏",
+        "role": "表语（过去分词，表示被埋的状态）"
+      },
+      {
+        "text": "underneath",
+        "zh": "在……之下",
+        "role": "介词，与后面的名词短语构成地点状语"
+      },
+      {
+        "text": "the newly built Victoria, Albert, and Chelsea Embankments.",
+        "zh": "新近修成的维多利亚、阿尔伯特和切尔西河堤",
+        "role": "介词 underneath 的宾语（newly built 作前置定语，三个专名并列修饰 Embankments）"
+      }
+    ],
+    "structure": "①全句是主系表结构：主语 The backbone，系动词 lies，过去分词 buried 作表语。视频说明：lie buried，埋藏着，lie + 过去分词表示处于某种状态。\n②underneath the newly built Victoria, Albert, and Chelsea Embankments 是介词短语作地点状语，说明主干埋在哪里。\n③介词宾语中，newly built 是“副词 + 过去分词”构成的前置定语；Victoria、Albert、Chelsea 三个专名并列，共用复数中心词 Embankments，即三条河堤，Albert 之后、and 之前的逗号是牛津逗号。\n④The backbone 指截流下水道系统的主干管道，用人的脊梁作比喻。谓语用一般现在时 lies，说明这些管道今天仍埋在河堤下面。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "lie + 过去分词或形容词表示状态",
+        "explain": "lie 可以作系动词，后接过去分词或形容词，表示“处于某种状态”，如 lie buried（埋藏着）、lie hidden（隐藏着）、lie empty（空着）、lie dormant（处于休眠状态）。本句 lies buried 强调主干管道一直埋在地下的状态，比 is buried 更有画面感。lie 作“躺，位于”讲时是不及物动词，过去式 lay，过去分词 lain；不要和及物动词 lay（放置，过去式 laid）混淆，这是考研常考的易错点。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "For centuries the manuscript lay hidden in a monastery library.",
+            "zh": "几个世纪以来，这份手稿一直藏在一座修道院的图书馆里。"
+          },
+          {
+            "en": "The factory has lain empty since the company went bankrupt.",
+            "zh": "公司破产以来，这座工厂一直空置着。"
+          }
+        ]
+      },
+      {
+        "title": "副词 + 过去分词作前置定语",
+        "explain": "副词加过去分词可以构成复合修饰语，放在名词前作定语，如 newly built、well-known、widely used、recently published。过去分词表示被动或完成，副词说明时间、程度或方式。本句 the newly built Embankments 即“新近修成的河堤”。这种结构可以把定语从句压缩成两个词，相当于 the Embankments which had been newly built。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The newly elected mayor promised to improve public transport.",
+            "zh": "新当选的市长承诺改善公共交通。"
+          }
+        ]
+      },
+      {
+        "title": "多个专名共用复数中心词",
+        "explain": "几个专名并列修饰同一类事物时，可以只在最后写一次中心词，并用复数，如 the Victoria, Albert, and Chelsea Embankments（三条河堤）、the Atlantic and Pacific Oceans（大西洋和太平洋）。三项并列时末项前用 and，and 前的逗号是牛津逗号。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The expedition collected samples of plastic waste from the Atlantic, Pacific, and Indian Oceans.",
+            "zh": "考察队从大西洋、太平洋和印度洋采集了塑料垃圾样本。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Embankment",
+        "explain": "视频说明：河堤，泰晤士河沿岸的堤岸大道。Victoria Embankment 以维多利亚女王命名，Albert Embankment 以她的丈夫阿尔伯特亲王命名，Chelsea Embankment 以所在的切尔西地区命名。"
+      },
+      {
+        "term": "backbone",
+        "explain": "本义“脊柱”，比喻某个系统或组织的骨干、主干，如 the backbone of the economy（经济的支柱）。这里指下水道系统的主干管道，视频译为“系统的主干”。"
+      }
+    ],
+    "translation_tip": "视频译文“系统的主干就埋藏在新近修成的维多利亚、阿尔伯特和切尔西河堤之下。”的处理：①The backbone 增译“系统的”，明确是下水道系统的主干。②lies buried 合译为“就埋藏”，系动词 lies 不单独译出，增补“就”加强语气。③underneath 译为框式结构“在……之下”，把地点放在中间。④三个专名用顿号和“和”连接，共用“河堤”；newly built 前置为“新近修成的”。"
+  },
+  {
+    "n": 13,
+    "trunk": {
+      "subject": "much of the network",
+      "predicate": "is",
+      "object_or_complement": "in use（表语）",
+      "explain": "主系表结构，介词短语 in use 作表语。谓语 is 为一般现在时，说明今天的情况；句首形容词短语作状语，交代1875年时的状况。"
+    },
+    "components": [
+      {
+        "text": "Substantially complete by 1875,",
+        "zh": "到1875年基本上已经完工",
+        "role": "状语（形容词短语，逻辑主语是 the network）"
+      },
+      {
+        "text": "much of the network",
+        "zh": "这套管网的大部分",
+        "role": "主语（much of + 单数名词）"
+      },
+      {
+        "text": "is",
+        "zh": "（系动词，与 in use 合译为“在使用”）",
+        "role": "谓语（系动词，一般现在时）"
+      },
+      {
+        "text": "in use",
+        "zh": "在使用",
+        "role": "表语（介词短语）"
+      },
+      {
+        "text": "today.",
+        "zh": "至今仍",
+        "role": "时间状语"
+      }
+    ],
+    "structure": "①主句是 much of the network is in use today：主语 much of the network，系动词 is，介词短语 in use 作表语，today 作时间状语。\n②句首 Substantially complete by 1875 是形容词短语作状语，逻辑主语是 the network（视频说明），相当于 The network was substantially complete by 1875。substantially 修饰 complete，by 1875 表示“到1875年为止”。\n③句首状语说过去（1875年基本完工），主句说现在（今天仍在使用），时间跨度一百多年，突出工程的耐用。\n④注意形容词短语的逻辑主语是 the network（视频说明），主句语法主语是 much of the network，二者并不完全等同，但中心都落在 the network 上，语义衔接紧密，读者不会误解。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "形容词短语作状语",
+        "explain": "形容词或形容词短语可以放在句首或句末，用逗号隔开，作状语，说明主语的状态、原因或让步等，相当于省略了“主语 + be”的从句。本句 Substantially complete by 1875 = The network was substantially complete by 1875。形容词短语的逻辑主语要和主句主语一致，否则就是错误。考研长难句中，句首以形容词开头、后接逗号的部分，多半是这种状语，要还原出它说明的主语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Tired and hungry, the climbers finally reached the summit.",
+            "zh": "登山者们又累又饿，终于登上了山顶。"
+          },
+          {
+            "en": "Largely unknown in his lifetime, the painter is now celebrated worldwide.",
+            "zh": "这位画家生前几乎默默无闻，如今却享誉世界。"
+          }
+        ]
+      },
+      {
+        "title": "much of + 名词作主语",
+        "explain": "much of 后接不可数名词或表示整体的单数名词，意为“……的大部分”，作主语时谓语用单数，如 much of the network is…、much of the money was…。后接可数名词复数时要用 many of，如 many of the pipes are…。考研写作中，much of 是表达“很大一部分”的地道说法，可代替 a large part of。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Much of the city was destroyed by the earthquake.",
+            "zh": "这座城市的大部分地区在地震中被毁。"
+          }
+        ]
+      },
+      {
+        "title": "by + 时间点",
+        "explain": "by + 时间点意为“到……时为止，不迟于……”，强调某事在这个时间点之前已经完成或已达到某状态，常与完成时连用，如 by 1875 the network had been completed。本句与形容词 complete 搭配，表示到1875年时已基本完工。要与 until 区分：until 表示动作一直持续到某时。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "By the end of the decade, most homes in the region had electricity.",
+            "zh": "到这个十年结束时，该地区的大多数家庭都用上了电。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "in use",
+        "explain": "视频说明：在使用中。相关说法有 come into use（开始使用）、go out of use（不再使用）、out of use（不再使用的）。"
+      },
+      {
+        "term": "substantially",
+        "explain": "有两个常用义：一是“基本上，大体上”，相当于 largely，如本句 substantially complete（基本完工）；二是“大大地，显著地”，如 substantially higher（高得多）。本句视频译为“基本上”。"
+      }
+    ],
+    "translation_tip": "视频译文“到1875年基本上已经完工，这套管网的大部分至今仍在使用。”的处理：①句首形容词短语保留在前面，by 1875 前移译为“到1875年”，complete 译为“已经完工”，形容词译成动词短语，符合汉语表达。②much of the network 译为“这套管网的大部分”，the 译成“这套”。③today 译为“至今仍”，增补“仍”，与1875年形成时间上的对照。④系动词 is 不单独译出，is in use 合译为“在使用”。"
+  },
+  {
+    "n": 14,
+    "trunk": {
+      "subject": "that sanitation",
+      "predicate": "rested on",
+      "object_or_complement": "a fallacy",
+      "explain": "主谓宾结构，rest on 是“不及物动词 + 介词”构成的短语动词，a fallacy 是介词 on 的宾语。谓语为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Yet",
+        "zh": "然而",
+        "role": "连词，表示转折"
+      },
+      {
+        "text": "that sanitation",
+        "zh": "这套卫生设施/下水道设施",
+        "role": "主语（that 回指前文的下水道系统）"
+      },
+      {
+        "text": "rested on",
+        "zh": "建立在……之上",
+        "role": "谓语（短语动词）"
+      },
+      {
+        "text": "a fallacy.",
+        "zh": "一个谬误",
+        "role": "宾语（介词 on 的宾语）"
+      }
+    ],
+    "structure": "①全句是主谓宾结构：主语 that sanitation，谓语 rested on，宾语 a fallacy。rest on 意为“建立在……之上，以……为基础”（视频说明）。\n②Yet 放在句首，表示转折：前文一直写下水道工程规模大、经久耐用，这里笔锋一转，指出它依据的理论是错误的。\n③that sanitation 中的 that 回指上一段描述的整套下水道系统。\n④本句是第五段的主题句，下一句具体说明这个谬误是什么。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "yet 表示转折",
+        "explain": "yet 可以作连词，相当于 but，连接两个分句；也可以放在句首，像本句这样承接上文，表示“然而，可是”，语气比 but 更正式，常引出出人意料的内容。yet 还可以作副词，用于否定句和疑问句，意为“还，尚”，如第17句 not yet connected（尚未接入）。考研阅读中，句首的 yet、however、but 往往标志作者观点的转折，后面的内容通常是重点。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The plan looked perfect on paper. Yet it failed within months.",
+            "zh": "这个计划在纸面上看起来完美无缺，然而几个月内就失败了。"
+          }
+        ]
+      },
+      {
+        "title": "rest on 表示“以……为基础”",
+        "explain": "rest on 或 rest upon 意为“建立在……之上，以……为依据”，主语常是论点、理论、制度、成功等抽象事物，如 The argument rests on two assumptions。同义表达有 be based on、depend on、hinge on。rest 是不及物动词，宾语跟在介词 on 后面。考研阅读中，rest on 常用来指出某个观点的前提或依据，是论证分析的关键词。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The company's success rests largely on the loyalty of its customers.",
+            "zh": "这家公司的成功很大程度上依靠顾客的忠诚。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "sanitation",
+        "explain": "指保障公共卫生的设施和措施，尤其是供水、排污系统，如 poor sanitation（卫生条件差）。本句指前文的下水道系统，视频译为“卫生设施/下水道设施”。"
+      },
+      {
+        "term": "fallacy",
+        "explain": "谬误，错误的观念，指看似合理、实际错误的想法，如 It is a fallacy that…（认为……是一种谬误）。在逻辑学中指错误的推理方式。"
+      }
+    ],
+    "translation_tip": "视频译文“然而，这套卫生设施/下水道设施建立在一个谬误之上。”的处理：①Yet 译为“然而”，后加逗号，突出转折。②that sanitation 中的 that 译为“这套”，sanitation 用斜线给出“卫生设施”“下水道设施”两种说法。③rested on 译为框式结构“建立在……之上”，宾语“一个谬误”放在中间。"
+  },
+  {
+    "n": 15,
+    "trunk": {
+      "subject": "The predominant belief；the sewers",
+      "predicate": "blamed；were intended",
+      "object_or_complement": "disease（blamed 的宾语）；to suppress the smell（主语补足语）",
+      "explain": "so 连接的并列句：前一分句是主谓宾结构，构成 blame A on B；后一分句是被动结构 be intended to do，不定式短语作主语补足语。两个谓语都是一般过去时，blamed 为主动语态，were intended 为被动语态。"
+    },
+    "components": [
+      {
+        "text": "The predominant belief,",
+        "zh": "当时占主导地位的看法",
+        "role": "第一个分句的主语"
+      },
+      {
+        "text": "miasma,",
+        "zh": "瘴气说",
+        "role": "同位语，补充说明 belief"
+      },
+      {
+        "text": "blamed",
+        "zh": "把……归咎于",
+        "role": "第一个分句的谓语"
+      },
+      {
+        "text": "disease",
+        "zh": "疾病",
+        "role": "宾语"
+      },
+      {
+        "text": "on foul air and vapours,",
+        "zh": "污浊的空气和臭水的蒸汽",
+        "role": "介词短语，与 blamed 构成 blame A on B"
+      },
+      {
+        "text": "so",
+        "zh": "所以",
+        "role": "并列连词，表示结果"
+      },
+      {
+        "text": "the sewers",
+        "zh": "下水道",
+        "role": "第二个分句的主语"
+      },
+      {
+        "text": "were intended",
+        "zh": "修建的目的",
+        "role": "第二个分句的谓语（被动语态）"
+      },
+      {
+        "text": "principally",
+        "zh": "主要",
+        "role": "状语，修饰后面的不定式"
+      },
+      {
+        "text": "to suppress the smell.",
+        "zh": "是为了压住臭味",
+        "role": "主语补足语（不定式短语，be intended to do）"
+      }
+    ],
+    "structure": "①全句是 so 连接的并列句，前一分句是原因，后一分句是结果。\n②前一分句：主语 The predominant belief，逗号之间的 miasma 是同位语，说明这种看法就是瘴气说（视频说明）；谓语 blamed，宾语 disease，on foul air and vapours 与 blamed 构成 blame A on B，意为“把 A 归咎于 B”（视频说明）。\n③后一分句：主语 the sewers，谓语 were intended，不定式短语 to suppress the smell 作主语补足语，构成 be intended to do，意为“目的是做……，打算用来……”（视频说明）。principally 修饰不定式，说明这是主要目的。\n④本句解释上句的 fallacy：人们以为疾病来自臭气，所以修下水道主要是为了除臭，而没有意识到病从水来。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "blame A on B 与 blame B for A",
+        "explain": "blame 有两种常用句型：blame A on B，把 A（坏事）归咎于 B（原因或责任方）；blame B for A，因 A 责怪 B。两者意思相同，宾语顺序和介词不同，如 blame disease on foul air = blame foul air for disease。被动形式分别是 A is blamed on B 和 B is blamed for A。考研完形常在介词上设空，要根据宾语是“坏事”还是“责任方”选择 on 或 for。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Officials blamed the delays on a shortage of skilled workers.",
+            "zh": "官员们把延误归咎于熟练工人短缺。"
+          },
+          {
+            "en": "Many residents blame the council for the poor state of the roads.",
+            "zh": "许多居民认为道路状况差是市政府的责任。"
+          }
+        ]
+      },
+      {
+        "title": "be intended to do",
+        "explain": "intend sth to do sth（打算让某物做某事）的被动形式是 sth be intended to do，意为“目的是……，旨在……”，主语通常是物，如计划、措施、设施。本句 the sewers were intended principally to suppress the smell，主语是下水道，不定式说明修建它们的目的。相近说法有 be designed to do、be meant to do、be aimed at doing。考研阅读中，be intended to do 常用来交代政策或措施的初衷，后文常有“结果却……”的转折，正如下一句的 an unintended reason。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The new tax is intended to discourage the use of plastic bags.",
+            "zh": "这项新税旨在减少塑料袋的使用。"
+          }
+        ]
+      },
+      {
+        "title": "so 连接并列句表示结果",
+        "explain": "so 作并列连词时，连接两个分句，后一分句表示结果，前面通常加逗号。英语中 because 和 so 不能同时用在一个句子里，不能写成 Because…, so…，这是中国学生写作中的常见错误。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The last train had already left, so we took a taxi home.",
+            "zh": "末班车已经开走了，所以我们打车回了家。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "miasma",
+        "explain": "视频说明：瘴气说。瘴气说认为霍乱等疾病是由腐烂物散发的污浊空气引起的，19世纪很流行，后来被细菌致病说取代。miasma 一词本身也可指令人不快的气味或氛围。"
+      },
+      {
+        "term": "foul air",
+        "explain": "foul 意为“污浊的，恶臭的”，foul air 即污浊的空气，视频译为“污浊的空气”。foul 还有“犯规”的意思，如 commit a foul。"
+      },
+      {
+        "term": "vapours",
+        "explain": "vapour 的复数，英式拼写，美式为 vapor。本句与 foul air 并列，指当时人们认为致病的气体，视频译为“臭水的蒸汽”。"
+      }
+    ],
+    "translation_tip": "视频译文“当时占主导地位的看法是瘴气说，把疾病归咎于污浊的空气和臭水的蒸汽，所以下水道修建的目的主要是为了压住臭味。”的处理：①增补“当时”，表明这是19世纪的看法。②同位语 miasma 用“是”连接，译为“看法是瘴气说”。③blame A on B 用“把”字句译为“把疾病归咎于……”。④vapours 增译为“臭水的蒸汽”，点明蒸汽的来源。⑤被动结构 were intended to suppress 转为主动的名词化表达“修建的目的……是为了压住”，增补“修建的”，使意思完整。"
+  },
+  {
+    "n": 16,
+    "trunk": {
+      "subject": "They",
+      "predicate": "worked",
+      "object_or_complement": "",
+      "explain": "主谓结构，work 在此是不及物动词，意为“奏效，起作用”。谓语 worked 为一般过去时；for an unintended reason 作原因状语，句末现在分词短语解释 reason 的内容。"
+    },
+    "components": [
+      {
+        "text": "They",
+        "zh": "它们",
+        "role": "主语（指上句的 the sewers）"
+      },
+      {
+        "text": "worked",
+        "zh": "奏效",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "for an unintended reason,",
+        "zh": "却是出于一个意料之外的原因",
+        "role": "原因状语（介词短语）"
+      },
+      {
+        "text": "guarding",
+        "zh": "那就是守住了",
+        "role": "现在分词短语的开头，整个分词短语补充解释 reason 的具体内容"
+      },
+      {
+        "text": "the purity",
+        "zh": "洁净",
+        "role": "分词 guarding 的宾语"
+      },
+      {
+        "text": "of the water",
+        "zh": "水的",
+        "role": "后置定语（介词短语），修饰 purity"
+      },
+      {
+        "text": "Londoners drank.",
+        "zh": "伦敦人饮用",
+        "role": "限制性定语从句（省略关系代词 that/which），修饰 the water"
+      }
+    ],
+    "structure": "①主句是 They worked for an unintended reason：主语 They 指下水道，谓语 worked 意为“奏效”（视频说明），for an unintended reason 作原因状语。\n②guarding the purity of the water Londoners drank 是现在分词短语，解释 reason（视频说明），说明这个意料之外的原因是什么：下水道守住了饮用水的洁净。\n③分词短语内部，the purity 是 guarding 的宾语，of the water 作后置定语；Londoners drank 是省略 that 的定语从句（视频说明），修饰 the water，被省略的关系代词在从句中作 drank 的宾语。\n④unintended 与上句的 were intended 形成呼应：修下水道的初衷是除臭，起作用的原因却是保护了饮用水。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "省略关系代词的定语从句",
+        "explain": "关系代词在限制性定语从句中作宾语时可以省略，于是名词后面直接跟“主语 + 谓语”。本句 the water Londoners drank = the water (that/which) Londoners drank，drank 后缺的宾语就是 the water。识别方法：一个名词后面紧跟另一个名词或代词，再跟一个缺宾语的及物动词。考研阅读中这种结构很常见，容易把 Londoners 误当成新句子的主语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The food people eat today travels much farther than it did a century ago.",
+            "zh": "人们今天吃的食物比一个世纪前运输的距离远得多。"
+          },
+          {
+            "en": "Most of the books she wrote were translated into several languages.",
+            "zh": "她写的大部分书都被译成了好几种语言。"
+          }
+        ]
+      },
+      {
+        "title": "现在分词短语补充解释前面的名词",
+        "explain": "句末逗号后的现在分词短语，除了作伴随、结果状语，还可以对前面某个名词作补充解释，说明它的具体内容。本句 guarding the purity … 解释 reason 是什么，相当于 the reason being that they guarded…。视频译为“那就是……”，正体现这种解释关系。阅读时要判断逗号后的分词短语和哪个成分有关，不能一律当作伴随状语。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The policy had one obvious benefit, cutting the cost of public transport for students.",
+            "zh": "这项政策有一个明显的好处，就是降低了学生乘坐公共交通的费用。"
+          }
+        ]
+      },
+      {
+        "title": "work 作不及物动词表示“奏效”",
+        "explain": "熟词僻义：work 作不及物动词，可以指方法、计划、药物等“起作用，奏效”，如 The medicine worked、The plan didn't work。本句 They worked 指下水道起了作用，视频译为“奏效”。考研阅读中，It works 常用来评价某种方法是否有效。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "None of the remedies the doctor suggested seemed to work.",
+            "zh": "医生建议的疗法似乎都不奏效。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "unintended",
+        "explain": "意为“非故意的，意料之外的”，常见搭配 unintended consequences（意想不到的后果）。本句与上句的 were intended 相呼应，视频译为“意料之外的”。"
+      },
+      {
+        "term": "Londoners",
+        "explain": "伦敦人。城市名后加 -er 可以表示该城市的人，如 Londoner、New Yorker。"
+      }
+    ],
+    "translation_tip": "视频译文“它们奏效，却是出于一个意料之外的原因，那就是守住了伦敦人饮用水的洁净。”的处理：①worked 译为“奏效”，后面增补“却”，体现与上句初衷的反差。②for an unintended reason 译为“是出于一个意料之外的原因”。③现在分词短语 guarding… 拆成独立分句，用“那就是”引出，表明它解释 reason。④定语从句 Londoners drank 前置，与 the water 合译为“伦敦人饮用水”，再加“的洁净”。"
+  },
+  {
+    "n": 17,
+    "trunk": {
+      "subject": "Cholera",
+      "predicate": "resurfaced … and killed",
+      "object_or_complement": "about 5,600 people（killed 的宾语）",
+      "explain": "一个主语带两个并列谓语：resurfaced（不及物）和 killed（及物，后接宾语）。两个谓语都是一般过去时，主动语态；句末是同位语，补充说明 the East End。"
+    },
+    "components": [
+      {
+        "text": "Cholera",
+        "zh": "霍乱",
+        "role": "主语"
+      },
+      {
+        "text": "resurfaced",
+        "zh": "再次出现",
+        "role": "谓语一（不及物动词）"
+      },
+      {
+        "text": "in 1866",
+        "zh": "于1866年",
+        "role": "时间状语"
+      },
+      {
+        "text": "and killed",
+        "zh": "夺去了",
+        "role": "并列连词 and + 谓语二"
+      },
+      {
+        "text": "about 5,600 people",
+        "zh": "约5,600人的生命",
+        "role": "宾语（killed 的宾语）"
+      },
+      {
+        "text": "in the East End,",
+        "zh": "在伦敦东区",
+        "role": "地点状语"
+      },
+      {
+        "text": "the one locality",
+        "zh": "那是唯一……的地区",
+        "role": "同位语，补充说明 the East End"
+      },
+      {
+        "text": "not yet connected.",
+        "zh": "下水道尚未接入",
+        "role": "后置定语（过去分词短语），修饰 locality"
+      }
+    ],
+    "structure": "①主句是 Cholera resurfaced in 1866 and killed about 5,600 people in the East End：一个主语带两个并列谓语，resurfaced 是不及物动词，killed 带宾语 about 5,600 people，in the East End 作地点状语。\n②the one locality not yet connected 是同位语，补充说明 the East End（视频说明）。the one 意为“唯一的”。\n③not yet connected 是过去分词短语作后置定语（视频说明），修饰 locality，相当于 which was not yet connected (to the new sewers)，被省略的是“接入新下水道”。\n④本句用事实印证上句：已接入新下水道的地区饮用水得到保护，1866年霍乱卷土重来时，约5,600名死者出在唯一尚未接入的东区。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "过去分词短语作后置定语",
+        "explain": "过去分词短语放在名词之后作定语，表示被动或完成，相当于一个被动的定语从句。本句 the one locality not yet connected = the one locality which was not yet connected，地区是“被接入”的一方，所以用过去分词。否定词 not 和副词 yet 放在过去分词前。单个过去分词一般前置（a connected area），带修饰语时要后置（an area not yet connected）。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Villages not yet reached by the rescue teams were supplied by helicopter.",
+            "zh": "救援队尚未到达的村庄由直升机运送物资。"
+          },
+          {
+            "en": "The paintings recovered after the robbery were returned to the gallery.",
+            "zh": "盗窃案后追回的画作被归还给了美术馆。"
+          }
+        ]
+      },
+      {
+        "title": "the one + 名词表示“唯一的”",
+        "explain": "the one 放在名词前，one 重读，意为“唯一的”，相当于 the only，如 the one person who can help（唯一能帮忙的人）。本句 the one locality not yet connected 即“唯一尚未接入的地区”。要与代词 the one（代替前面提到的单数名词）区分：代词 the one 后面不接名词。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Music was the one subject she never found difficult.",
+            "zh": "音乐是她唯一从未觉得难的科目。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "cholera",
+        "explain": "霍乱，一种急性细菌性肠道传染病，通常经被污染的水或食物传播。正因为霍乱经水传播，保护饮用水的下水道才对它起了作用，这正是上句所说的 unintended reason。"
+      },
+      {
+        "term": "the East End",
+        "explain": "视频说明：伦敦东区，指伦敦老城区以东的地区，19世纪是工人和贫民聚居的地方。"
+      },
+      {
+        "term": "connected",
+        "explain": "connect 意为“连接，接通”，这里指接入新的下水道网络，视频补出主语，译为“下水道尚未接入”。"
+      }
+    ],
+    "translation_tip": "视频译文“霍乱再次出现于1866年，夺去了约5,600人的生命，在伦敦东区，那是唯一下水道尚未接入的地区。”的处理：①resurfaced 译为“再次出现”，in 1866 紧随其后译为“于1866年”。②killed 译为“夺去了……的生命”，增补“生命”，比直译“杀死”更符合汉语。③in the East End 拆成短句“在伦敦东区”，增补“伦敦”。④同位语拆成独立分句“那是……”；not yet connected 前置，并增补“下水道”，说明是什么尚未接入。"
+  },
+  {
+    "n": 18,
+    "trunk": {
+      "subject": "A remedy",
+      "predicate": "protected",
+      "object_or_complement": "the gut",
+      "explain": "主谓宾结构，主语带过去分词短语作后置定语。谓语 protected 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "A remedy",
+        "zh": "一项……解决办法",
+        "role": "主语"
+      },
+      {
+        "text": "aimed at the nose",
+        "zh": "针对鼻子的",
+        "role": "后置定语（过去分词短语），修饰 remedy"
+      },
+      {
+        "text": "protected",
+        "zh": "却……保护了",
+        "role": "谓语"
+      },
+      {
+        "text": "the gut.",
+        "zh": "肠道",
+        "role": "宾语"
+      }
+    ],
+    "structure": "①全句是主谓宾结构：主语 A remedy，谓语 protected，宾语 the gut。\n②aimed at the nose 是过去分词短语作后置定语，修饰 remedy（视频说明），相当于 which was aimed at the nose。aimed 是过去分词，不是谓语，真正的谓语是 protected。\n③the nose 与 the gut 形成对比（视频说明：the gut，肠胃，与 the nose 对比）：the nose 代指臭味问题，the gut 代指经水传播的肠道疾病。\n④本句是全文的收尾句，概括全文的反差：下水道本来针对的是臭味，实际保护的是人的肠道。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "过去分词作后置定语与谓语的区分",
+        "explain": "句中出现两个 -ed 形式时，要判断哪个是谓语、哪个是过去分词作定语。本句 aimed 紧跟主语 A remedy，后面又有 protected，如果把 aimed 当谓语，protected 就没有着落，所以 aimed at the nose 是后置定语，protected 是谓语。be aimed at 意为“针对，旨在”，这里省去了 which was。考研长难句中常见这种“名词 + -ed 短语 + 真正的谓语”结构。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "A campaign aimed at young voters failed to raise turnout.",
+            "zh": "一场针对年轻选民的宣传活动未能提高投票率。"
+          },
+          {
+            "en": "The measures announced last week have already reduced congestion.",
+            "zh": "上周宣布的措施已经缓解了交通拥堵。"
+          }
+        ]
+      },
+      {
+        "title": "无连词的意合转折",
+        "explain": "英语有时不用 but、however 等转折词，而是靠句中的对比体现转折，本句 aimed at the nose 和 protected the gut 意思相反，转折意味就在其中。翻译时可以根据语义补出转折词，视频译文增补了“却”。考研阅读中，这种句子常是作者的总结或观点，要读出其中的对比。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "A tax designed to cut pollution ended up funding hundreds of new schools.",
+            "zh": "一项旨在减少污染的税，最终却为数百所新学校提供了资金。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "the nose 与 the gut",
+        "explain": "借代手法：用器官代指相关的问题，the nose 指气味、臭味，the gut 指肠道健康和经水传播的疾病。gut 常用义还有“直觉”，如 a gut feeling（直觉）；复数 guts 可以指“勇气”。"
+      },
+      {
+        "term": "remedy",
+        "explain": "常指药物、疗法，也指解决问题的办法，常接 for，如 a remedy for unemployment。本句视频译为“解决办法”。"
+      }
+    ],
+    "translation_tip": "视频译文“一项针对鼻子的解决办法 却 保护了肠道。”的处理：①过去分词短语 aimed at the nose 前置为“针对鼻子的”，修饰“解决办法”；A 译为“一项”。②英文没有转折词，译文增补“却”，突出“针对鼻子”和“保护肠道”的反差。③the nose 和 the gut 直译为“鼻子”“肠道”，保留原文的对比和幽默。"
+  }
+]

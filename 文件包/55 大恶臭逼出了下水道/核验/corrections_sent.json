@@ -1,0 +1,72 @@
+[
+  {
+    "key": "1",
+    "field": "grammar[0].examples[0]",
+    "before": "A thick fog hung low over the harbour for most of the morning. | 一场浓雾低低地笼罩在港口上空，持续了大半个上午。",
+    "after": "On the windless afternoon, the flags hung limp from their poles. | 那个无风的下午，旗帜软塌塌地垂挂在旗杆上。",
+    "reason": "hang low 中的 low 词典标为副词，不能示范“不及物动词 + 形容词作主语补足语”；换成形容词 limp 作主语补足语的例句。"
+  },
+  {
+    "key": "7",
+    "field": "knowledge[1].explain",
+    "before": "“拨款”体现资金来自政府。",
+    "after": "“拨款”指法案为修建新下水道安排、划拨资金。",
+    "reason": "1858年法案主要是授权大都会工程委员会借款、由政府担保，并非直接由政府出资；“资金来自政府”的说法不确切，改为只解释译法。"
+  },
+  {
+    "key": "8",
+    "field": "grammar[0].explain",
+    "before": "新闻中更常见的写法是去掉 the，直接写 engineer Joseph Bazalgette。",
+    "after": "新闻中也常去掉 the，直接写 engineer Joseph Bazalgette。",
+    "reason": "“更常见”无法证实（英式行文中带 the 的写法同样普遍），改为客观表述。"
+  },
+  {
+    "key": "9",
+    "field": "components[3].zh",
+    "before": "在到达……河流之前",
+    "after": "在到达河流之前",
+    "reason": "视频中文“在到达河流之前”本身连续，不应加省略号。"
+  },
+  {
+    "key": "10",
+    "field": "grammar[1].explain",
+    "before": "人作主语表示花时间做某事时，常用 It takes sb + 时间 + to do sth。",
+    "after": "表示某人花时间做某事时，常用 It takes sb + 时间 + to do sth，it 作形式主语，人作 take 的宾语。",
+    "reason": "原句说“人作主语”却给出 It takes sb 句型，主语其实是形式主语 it，表述自相矛盾。"
+  },
+  {
+    "key": "10",
+    "field": "knowledge[1].explain",
+    "before": "不可数名词。",
+    "after": "词典标为可数、不可数两用，本句前加 the 作不可数用法。",
+    "reason": "Oxford、Cambridge 均标 infrastructure 为 [C, U]，说成“不可数名词”不准确。"
+  },
+  {
+    "key": "12",
+    "field": "grammar[1].explain",
+    "before": "newly built、well known、widely used",
+    "after": "newly built、well-known、widely used",
+    "reason": "well-known 作前置定语时要加连字符（-ly 副词才不加），原写法不规范。"
+  },
+  {
+    "key": "12",
+    "field": "structure",
+    "before": "Chelsea 前的逗号是牛津逗号",
+    "after": "Albert 之后、and 之前的逗号是牛津逗号",
+    "reason": "牛津逗号是末项连词 and 前的逗号，原表述位置不准确。"
+  },
+  {
+    "key": "13",
+    "field": "structure",
+    "before": "④注意形容词短语的逻辑主语是 the network，主句语法主语是 much of the network，两者所指一致，都是这套管网。",
+    "after": "④注意形容词短语的逻辑主语是 the network（视频说明），主句语法主语是 much of the network，二者并不完全等同，但中心都落在 the network 上，语义衔接紧密，读者不会误解。",
+    "reason": "much of the network 是“管网的大部分”，与 the network 所指并不一致，原说法有误。"
+  },
+  {
+    "key": "17",
+    "field": "structure",
+    "before": "④本句用事实印证上句：新下水道守住了饮用水，所以只有尚未接入的东区再次爆发霍乱。",
+    "after": "④本句用事实印证上句：已接入新下水道的地区饮用水得到保护，1866年霍乱卷土重来时，约5,600名死者出在唯一尚未接入的东区。",
+    "reason": "原文只说东区死亡约5,600人，并未说霍乱只在东区爆发，“只有……爆发”超出原文。"
+  }
+]
