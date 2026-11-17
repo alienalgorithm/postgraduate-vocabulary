@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><link rel="stylesheet" href="style.css">
+<style>
+body { background: #ffffff; }
+.o { position: absolute; }
+.laptop { left: 150px; top: 70px; width: 500px; z-index: 1; }
+.screen { background: #0b0f17; border-radius: 14px 14px 5px 5px; padding: 11px; box-shadow: 0 20px 40px rgba(0,0,0,.18); }
+.screen img { display: block; width: 100%; border-radius: 3px; }
+.base { height: 15px; margin: 0 -30px; background: linear-gradient(#eef1f5, #b9c1cc); border-radius: 0 0 16px 16px; box-shadow: 0 12px 20px rgba(0,0,0,.15); }
+.book { left: 36px; top: 300px; width: 200px; height: 284px; z-index: 4; transform: perspective(900px) rotateY(16deg) rotateZ(-3deg); }
+.book img { width: 100%; height: 100%; display: block; border-radius: 3px 7px 7px 3px; box-shadow: 16px 22px 34px rgba(0,0,0,.35); }
+.book::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 11px; background: linear-gradient(90deg, rgba(0,0,0,.35), rgba(255,255,255,.15) 60%, rgba(0,0,0,0)); z-index: 2; }
+.spread { left: 196px; top: 470px; z-index: 3; display: flex; transform: rotate(-2deg); box-shadow: 0 20px 36px rgba(0,0,0,.28); }
+.spread img { width: 156px; height: 222px; display: block; }
+.tablet { left: 470px; top: 352px; width: 300px; z-index: 5; background: #111; border-radius: 16px; padding: 10px; transform: rotate(3deg); box-shadow: 0 20px 36px rgba(0,0,0,.3); }
+.tablet img { display: block; width: 100%; border-radius: 4px; }
+.pg { position: absolute; width: 128px; height: 181px; background: #fff; overflow: hidden; border-radius: 3px; box-shadow: 0 14px 26px rgba(0,0,0,.25); z-index: 6; }
+.pg img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.q1 { left: 520px; top: 540px; transform: rotate(-8deg); }
+.q2 { left: 584px; top: 548px; transform: rotate(2deg); z-index: 7; }
+.q3 { left: 640px; top: 562px; transform: rotate(10deg); z-index: 8; }
+</style></head>
+<body><div class="canvas">
+  <div class="o laptop"><div class="screen"><img src="../assets/scr01_1.png"></div><div class="base"></div></div>
+  <div class="o spread"><img src="../assets/parch_5.png"><img src="../assets/parch_6.png"></div>
+  <div class="o book"><img src="../assets/cover.jpg"></div>
+  <div class="o tablet"><img src="../assets/scr01_1.png"></div>
+  <div class="pg q1"><img src="../assets/jj01_p1.png"></div>
+  <div class="pg q2"><img src="../assets/cd01_p2.png"></div>
+  <div class="pg q3"><img src="../assets/card_zh2en.png"></div>
+</div></body></html>
