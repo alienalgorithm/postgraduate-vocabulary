@@ -1,0 +1,30 @@
+[
+ {
+  "key": "id=33 dose",
+  "field": "etymology",
+  "before": "字面义“针对性地给的东西”",
+  "after": "字面义“为对抗（毒物）而给的东西”",
+  "reason": "antidote 由 anti-（对抗）和 didonai（给）的派生形式构成，原释“针对性地”没有译出 anti- 的“对抗”义"
+ },
+ {
+  "key": "id=40 rally",
+  "field": "related",
+  "before": "[{\"en\": \"ally\", \"pos\": \"n./v.\", \"zh\": \"盟友；结盟\"}, {\"en\": \"alliance\", \"pos\": \"n.\", \"zh\": \"联盟\"}, {\"en\": \"rallying\", \"pos\": \"adj.\", \"zh\": \"号召性的（a rallying cry 战斗口号）\"}]",
+  "after": "[{\"en\": \"ally\", \"pos\": \"n./v.\", \"zh\": \"盟友；结盟\"}, {\"en\": \"alliance\", \"pos\": \"n.\", \"zh\": \"联盟\"}, {\"en\": \"rallying cry\", \"pos\": \"n.\", \"zh\": \"战斗口号，号召口号\"}]",
+  "reason": "Oxford/Cambridge 没有把 rallying 单列为形容词，词典收录的是名词 rallying cry"
+ },
+ {
+  "key": "id=54 fermentation",
+  "field": "etymology",
+  "before": "源于 fermentum（酵母，发酵剂），与 fervere（沸腾，冒泡）有关，因为发酵时液体会冒泡。fervent（热烈的）也来自 fervere。",
+  "after": "源于 fermentum（酵母，发酵剂），一般认为可能与 fervere（沸腾，冒泡）有关，发酵时液体会冒泡。fervent（热烈的）来自 fervere。",
+  "reason": "Etymonline 对 fermentum 与 fervere 的关系用“probably”，原文写成确定事实，改为推测语气"
+ },
+ {
+  "key": "id=56 overlook",
+  "field": "etymology",
+  "before": "由 over（在上方）和 look（看）构成，中古英语中原指“从高处俯视，俯瞰”，后来引申出“看漏，忽视”和“宽容，不计较”等意思。",
+  "after": "由 over（在上方）和 look（看）构成。14世纪中叶最初指“查看，审视”，14世纪晚期出现“从高处俯视，俯瞰”之义，16世纪起发展出“看漏，忽视”的意思，后来又有“宽容，不计较”之义。",
+  "reason": "Etymonline：overlook 最早（14世纪中叶）义为“查看，审视”，“俯瞰”义稍晚，“忽视”义见于16世纪；原文说原指“俯瞰”不准确"
+ }
+]

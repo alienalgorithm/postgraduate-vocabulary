@@ -1,0 +1,51 @@
+[
+ {
+  "key": "n=2",
+  "field": "knowledge[it 的指代].explain",
+  "before": "答案通常在前文最近的、单复数一致的名词里找；本句 it 是单数，只能指单数的 mould，不能指复数的 bacteria。",
+  "after": "判断时要同时看单复数和语义：本句 it 是单数，可以排除复数的 bacteria；上句的单数名词有 mould 和 dish，“周围什么也没长”指葡萄球菌在霉菌周围长不出来，所以 it 指 mould，而不是离它更近的 dish。",
+  "reason": "原说法“找最近的、单复数一致的名词”会指向更近的单数名词 dish，与结论矛盾；改为结合单复数和语义判断"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar[where 引导非限制性定语从句].examples",
+  "before": "[{\"en\": \"She returned to the town where she had grown up.\", \"zh\": \"她回到了自己长大的那座小镇。\"}, {\"en\": \"The town, which she had left as a teenager, had changed beyond recognition.\", \"zh\": \"这座小镇她十几岁时就离开了，如今已变得面目全非。\"}]",
+  "after": "[{\"en\": \"The samples were sent to a laboratory in Geneva, where they were analysed over several weeks.\", \"zh\": \"样本被送到日内瓦的一家实验室，在那里接受了数周的分析。\"}, {\"en\": \"The samples were sent to a laboratory in Geneva, which had pioneered the testing technique.\", \"zh\": \"样本被送到日内瓦的一家实验室，这种检测技术正是这家实验室首创的。\"}]",
+  "reason": "原两例一个是限制性 where 从句、一个是 which 从句，都没有示范标题中的“where 引导非限制性定语从句”；改为非限制性 where 与 which（作主语）的对照例句"
+ },
+ {
+  "key": "n=6",
+  "field": "knowledge[cure].explain",
+  "before": "放在 rather than 两边，读起来对仗。",
+  "after": "放在 rather than 两边形成头韵（alliteration），读起来响亮好记。",
+  "reason": "开头辅音相同是头韵，不是对仗，术语改正"
+ },
+ {
+  "key": "n=7",
+  "field": "grammar[复合形容词 German-born].explain",
+  "before": "hand-written（手写的）",
+  "after": "man-made（人造的）",
+  "reason": "“手写的”在 Oxford/Cambridge 中的规范拼写是 handwritten（不加连字符），换成确实带连字符的 man-made"
+ },
+ {
+  "key": "n=7",
+  "field": "knowledge[refugee].explain",
+  "before": "由 refuge（避难，避难所）加表示人的后缀 -ee 构成。",
+  "after": "该词17世纪晚期借自法语 réfugié（避难者），英语最早用来指1685年后逃到英国的法国胡格诺派新教徒；可联系 refuge（避难，避难所）记忆。",
+  "reason": "词源有误：Oxford/Etymonline 均记为借自法语 réfugié，并非英语 refuge 加后缀 -ee 构成；与单词精解 refugee 词源保持一致"
+ },
+ {
+  "key": "n=8",
+  "field": "knowledge[apparatus].explain",
+  "before": "可数名词，复数为 apparatus 或 apparatuses；",
+  "after": "常作不可数名词，计数用 a piece of apparatus，也可作可数名词，复数为 apparatuses 或 apparatus；",
+  "reason": "Oxford 标注 apparatus 以不可数用法为主（a piece of apparatus），原文只说可数，不完整"
+ },
+ {
+  "key": "n=13",
+  "field": "knowledge[yield].explain",
+  "before": "名词，产量，收益，常用复数 yields；",
+  "after": "名词，产量，收益，可数也可不可数，本句用复数 yields 指青霉素的产量；",
+  "reason": "词典未注明 yield“常用复数”，改为如实说明可数性及本句用法"
+ }
+]

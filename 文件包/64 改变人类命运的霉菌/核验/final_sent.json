@@ -1,0 +1,1782 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Alexander Fleming",
+   "predicate": "returned",
+   "object_or_complement": "",
+   "explain": "主干是 Alexander Fleming returned，主谓结构；return 在此是不及物动词，from holiday 说明从哪里回来，to find 引出回来后的发现。谓语 returned 为一般过去时，主动语态，叙述1928年发生的一件具体往事。"
+  },
+  "components": [
+   {
+    "text": "In September 1928",
+    "role": "时间状语（介词短语）",
+    "zh": "1928年9月"
+   },
+   {
+    "text": "Alexander Fleming,",
+    "role": "主语",
+    "zh": "亚历山大·弗莱明"
+   },
+   {
+    "text": "a bacteriologist at St Mary's Hospital, London,",
+    "role": "同位语，说明 Alexander Fleming 的身份（at St Mary's Hospital, London 作 bacteriologist 的后置定语）",
+    "zh": "伦敦圣玛丽医院的细菌学家"
+   },
+   {
+    "text": "returned",
+    "role": "谓语（不及物动词）",
+    "zh": "归来"
+   },
+   {
+    "text": "from holiday",
+    "role": "状语（介词短语），说明从哪里回来",
+    "zh": "度假"
+   },
+   {
+    "text": "to find",
+    "role": "结果状语（动词不定式），find 的宾语是后面的 that 从句",
+    "zh": "发现"
+   },
+   {
+    "text": "that a stray mould had contaminated a dish of staphylococcus bacteria.",
+    "role": "宾语从句（that 引导），作 find 的宾语",
+    "zh": "一团零星的/散落的霉菌污染了一只培养葡萄球菌这种细菌的培养皿"
+   }
+  ],
+  "structure": "①主句是 Alexander Fleming returned from holiday：主语 Alexander Fleming，谓语 returned，from holiday 作状语，交代他从哪里回来。句首 In September 1928 是时间状语，后面没有逗号，主语紧接着出现。\n②主语后两个逗号之间的 a bacteriologist at St Mary's Hospital, London 是同位语，说明弗莱明的身份（视频说明：同位语，说明弗莱明的身份）。其中 at St Mary's Hospital 作 bacteriologist 的后置定语；London 跟在医院名称后，用逗号隔开，交代医院所在的城市，这是英语“机构, 城市”的常见写法。\n③to find that… 是动词不定式作结果状语（视频说明），表示回来后发现……；find 的动作发生在 returned 之后，并不是他回来的目的。\n④that 引导宾语从句，作 find 的宾语，that 在从句中不充当任何成分，只起连接作用。从句主语是 a stray mould，谓语 had contaminated 用过去完成时，表示霉菌污染培养皿发生在弗莱明回来发现之前，即他不在实验室的这段时间；宾语是 a dish of staphylococcus bacteria，of 短语说明培养皿里培养的是什么（视频说明：一只培养……的培养皿）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "不定式作结果状语",
+    "explain": "动词不定式除了表示目的，还可以表示结果，通常是出乎意料或令人失望的结果，常见格式是“动词 + to do”，或在前面加 only 强调意外：only to find/discover/be told。本句 returned from holiday to find that… 不是“为了发现而回来”，而是“回来后发现”，视频说明称之为结果状语。判断方法：不定式的动作发生在主句动作之后，又不是主语有意追求的，就是结果状语。考研阅读和翻译中常见 woke up to find、arrived only to discover，一般顺着英文语序译成“……，（却）发现……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She hurried to the station, only to find that the last train had already left.",
+      "zh": "她匆匆赶到车站，却发现末班车已经开走了。"
+     },
+     {
+      "en": "Residents woke up to find their streets under a metre of water.",
+      "zh": "居民们一觉醒来，发现街道被一米深的水淹没了。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经完成的动作。本句主句动作 returned 和 find 都发生在1928年9月，霉菌污染培养皿又在弗莱明发现之前，所以宾语从句用 had contaminated。主句是过去时、宾语从句叙述更早发生的事时，从句一般用过去完成时，这是宾语从句时态呼应的常见情况。考研阅读中遇到 had done，要据此理清事件的先后，不能把它当作与主句同时发生的动作。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the inspectors arrived, they found that someone had removed the records.",
+      "zh": "检查人员到达时，发现有人已经把记录拿走了。"
+     }
+    ]
+   },
+   {
+    "title": "同位语说明人物身份",
+    "explain": "同位语是对前面名词的补充说明，与它指同一人或物，常用逗号隔开。本句 a bacteriologist at St Mary's Hospital, London 是 Alexander Fleming 的同位语，交代他的职业和工作单位。人名后的同位语在新闻和人物介绍中极常见，通常是“冠词 + 职业名词 + 介词短语”；阅读时先跳过两个逗号之间的同位语，就能迅速找到主语 Fleming 和谓语 returned。本文第7句、第10句、第11句都用了同样的结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Marie Curie, a physicist born in Warsaw, was the first woman to win a Nobel Prize.",
+      "zh": "玛丽·居里，一位出生于华沙的物理学家，是第一位获得诺贝尔奖的女性。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "St Mary's Hospital, London",
+    "explain": "伦敦的圣玛丽医院，弗莱明长期在这里的医学院从事细菌学研究。St 是 Saint（圣）的缩写，英式写法通常不加点，美式多写成 St.。视频按汉语地名由大到小的习惯，把城市放在前面，译为“伦敦圣玛丽医院”。"
+   },
+   {
+    "term": "return from holiday",
+    "explain": "度假归来。holiday 在英式英语中指休假、度假，美式英语多用 vacation；on holiday 表示“在度假”，go on holiday 表示“去度假”。本句 from holiday 中 holiday 不加冠词。"
+   },
+   {
+    "term": "staphylococcus",
+    "explain": "葡萄球菌，复数 staphylococci，口语中常简称 staph。由希腊语 staphylē（一串葡萄）和 kokkos（谷粒，浆果）构成，因这种细菌在显微镜下聚集成葡萄串状而得名。本句 staphylococcus 作定语修饰 bacteria，视频译为“葡萄球菌这种细菌”。"
+   },
+   {
+    "term": "dish",
+    "explain": "熟词僻义：dish 常指盘子、菜肴，本句指实验室培养细菌用的培养皿，全称 Petri dish 或 culture dish，所以视频译为“培养皿”。"
+   },
+   {
+    "term": "bacteriologist",
+    "explain": "细菌学家，由 bacteriology（细菌学）加表示“……学家”的后缀 -ist 构成；同类词有 biologist（生物学家）、pathologist（病理学家，见第7句）。"
+   }
+  ],
+  "translation_tip": "视频译文“1928年9月，亚历山大·弗莱明，伦敦圣玛丽医院的细菌学家，度假归来，发现一团零星的/散落的霉菌污染了一只培养葡萄球菌这种细菌的培养皿。”的处理：①同位语保留在原来的位置，用逗号隔开插在主语后面，与英文结构一致；同位语内部的后置定语 at St Mary's Hospital, London 前移，城市在前、医院在后，译成“伦敦圣玛丽医院的细菌学家”。②returned from holiday 把介词短语提到动词前，译成四字格“度假归来”。③结果状语 to find 顺着语序译成“发现”，不译成“为了发现”。④宾语从句按原语序直译；冠词 a 分别译成量词“一团”“一只”；a dish of staphylococcus bacteria 增补“培养”二字，并用“葡萄球菌这种细菌”交代 staphylococcus 与 bacteria 的关系，最后落到中心词“培养皿”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Nothing",
+   "predicate": "grew",
+   "object_or_complement": "",
+   "explain": "主谓结构，grow 在此为不及物动词，意为“生长”；around it 是地点状语。谓语 grew 为一般过去时，主动语态。否定代词 nothing 作主语，全句是否定句。"
+  },
+  "components": [
+   {
+    "text": "Nothing",
+    "role": "主语（否定不定代词，表示“什么也没有”）",
+    "zh": "什么也没"
+   },
+   {
+    "text": "grew",
+    "role": "谓语（不及物动词）",
+    "zh": "长"
+   },
+   {
+    "text": "around it.",
+    "role": "地点状语（介词短语），it 指上句的 a stray mould",
+    "zh": "它周围"
+   }
+  ],
+  "structure": "①句子是最简单的主谓结构加地点状语：Nothing 作主语，grew 作谓语，around it 作地点状语。\n②it 指上句的 a stray mould，“它周围”就是霉菌周围。nothing 字面上是“没有东西”，结合上句，指培养皿里原本在生长的葡萄球菌在霉菌周围长不出来。\n③本句很短，却是全文的转折点：霉菌周围细菌不生长，说明霉菌产生的某种物质能抑制细菌，这就是下一段弗莱明命名的青霉素。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "否定代词 nothing 作主语",
+    "explain": "nothing、nobody、no one、none 等否定代词作主语时，句子本身就是否定句，谓语不再加 not；nothing、nobody、no one 作主语时谓语动词用单数。本句 Nothing grew around it 相当于 There was nothing growing around it。汉语一般不用“没有东西”作主语，而是把否定落到谓语上，所以视频译为“它周围什么也没长”。写作中要避免 Nothing didn't grow 这样的写法，双重否定会变成肯定意义。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nothing has changed since the new manager took over.",
+      "zh": "新经理上任以来，什么都没有改变。"
+     }
+    ]
+   },
+   {
+    "title": "grow 的不及物、及物与系动词用法",
+    "explain": "grow 作不及物动词时表示“生长，增长”，如 Bacteria grow quickly in warm conditions；作及物动词时表示“种植，培养”，如 grow vegetables、grow bacteria in a dish；作系动词时意为“变得”，后接形容词，如 grow tired。本句 grew 后面没有宾语，是不及物用法，意为“生长”，视频译为“长”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Farmers in the region grow rice on terraced hillsides.",
+      "zh": "这一地区的农民在梯田上种植水稻。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "it 的指代",
+    "explain": "it 指上句的 a stray mould。代词指代是考研阅读的常考点，判断时要同时看单复数和语义：本句 it 是单数，可以排除复数的 bacteria；上句的单数名词有 mould 和 dish，“周围什么也没长”指葡萄球菌在霉菌周围长不出来，所以 it 指 mould，而不是离它更近的 dish。"
+   },
+   {
+    "term": "around",
+    "explain": "介词，意为“在……周围”，英式英语中也常用 round。around it 作地点状语，视频译为“它周围”，并把它移到句首作话题。"
+   }
+  ],
+  "translation_tip": "视频译文“它周围什么也没长。”的处理：①地点状语 around it 提到句首，译成“它周围”，作为汉语句子的话题，符合汉语“地点 + 存在情况”的表达习惯。②否定主语 Nothing 不直译成“没有东西”，而是译成“什么也没”，把否定落在谓语“长”上。③grew 用口语化的“长”，简洁有力，与上句的“霉菌”“培养皿”衔接自然。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Popular mythology（第一分句）；the spores（第二分句）",
+   "predicate": "blames（第一分句）；originated（第二分句）",
+   "object_or_complement": "an open window（blames 的宾语）；第二分句为主谓结构，无宾语",
+   "explain": "并列句，分号连接两个分句。第一分句主谓宾结构，谓语 blames 用一般现在时，表示至今仍流行的说法；第二分句主谓结构，originate 为不及物动词，in a laboratory downstairs 作地点状语，谓语 originated 用一般过去时，叙述过去的事。两个分句都是主动语态。"
+  },
+  "components": [
+   {
+    "text": "Popular mythology",
+    "role": "主语（第一分句）",
+    "zh": "坊间传说"
+   },
+   {
+    "text": "blames",
+    "role": "谓语（blame + 被归咎的对象，承上文省略了归咎的内容）",
+    "zh": "将其归咎于"
+   },
+   {
+    "text": "an open window;",
+    "role": "宾语",
+    "zh": "一扇敞开的窗户"
+   },
+   {
+    "text": "the spores",
+    "role": "主语（第二分句）",
+    "zh": "孢子"
+   },
+   {
+    "text": "probably",
+    "role": "评注性状语（表示推测），修饰谓语",
+    "zh": "很可能"
+   },
+   {
+    "text": "originated in",
+    "role": "谓语（不及物动词 originate）+ 介词 in，in 引出起源的地点",
+    "zh": "起源于"
+   },
+   {
+    "text": "a laboratory downstairs,",
+    "role": "介词 in 的宾语；副词 downstairs 作后置定语，修饰 a laboratory",
+    "zh": "楼下的一间实验室"
+   },
+   {
+    "text": "where a colleague cultivated moulds.",
+    "role": "非限制性定语从句，修饰 a laboratory downstairs；where 在从句中作地点状语",
+    "zh": "在那里有一位同事培育了霉菌"
+   }
+  ],
+  "structure": "①本句是由分号连接的并列句，两个分句之间没有连词，靠分号形成对照：前一分句是流行的说法，后一分句是更可能的真实来源。\n②第一分句 Popular mythology blames an open window：主语 popular mythology，谓语 blames，宾语 an open window。blame 常见的用法是 blame A for B（把B归咎于A），本句只保留了被归咎的对象 A，省去了 for 短语，承上文可知被归咎的是霉菌的来历（视频说明：把霉菌的来历归咎于一扇敞开的窗户）。\n③第二分句 the spores probably originated in a laboratory downstairs：主语 the spores，谓语 originated，in a laboratory downstairs 是地点状语（视频说明：originate in，源自）。probably 表示推测，说明这一来源也只是可能性很大，并非定论。downstairs 是副词，放在 laboratory 后作后置定语，意为“楼下的”。\n④where 引导非限制性定语从句，先行词是 a laboratory downstairs，where 在从句中作地点状语，相当于 in which 或 in that laboratory（视频说明：非限制性定语从句，指在那间实验室里）。从句主谓宾齐全：a colleague cultivated moulds。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "关系副词 where 引导定语从句时，先行词是表示地点的名词，where 在从句中作地点状语，相当于“介词 + which”，如 in which、at which。用 where 还是 which，要看从句缺什么成分：缺状语用 where，缺主语或宾语用 which。本句从句 a colleague cultivated moulds 主谓宾齐全，只缺地点状语，所以用 where；前有逗号，是非限制性定语从句，补充说明那间实验室。考研完形常考 where 与 which 的选择；翻译时这类从句常拆开，用“在那里”承接先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The samples were sent to a laboratory in Geneva, where they were analysed over several weeks.",
+      "zh": "样本被送到日内瓦的一家实验室，在那里接受了数周的分析。"
+     },
+     {
+      "en": "The samples were sent to a laboratory in Geneva, which had pioneered the testing technique.",
+      "zh": "样本被送到日内瓦的一家实验室，这种检测技术正是这家实验室首创的。"
+     }
+    ]
+   },
+   {
+    "title": "blame 的常见结构",
+    "explain": "blame 作动词时常见三种结构：blame sb/sth for sth（因某事责怪某人或某物）、blame sth on sb/sth（把某事归咎于某人或某物）、be to blame for sth（应对某事负责）。本句 blames an open window 只出现了被认为该负责的对象，承上文省去了 for 短语，视频译为“将其归咎于”，用“其”补出被省略的内容。易错点：不能说 blame sth to sb；be to blame 用主动形式表示被动意义，不说 be to be blamed。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Officials blamed the delay on heavy snow.",
+      "zh": "官员们将延误归咎于大雪。"
+     },
+     {
+      "en": "Investigators believe faulty wiring was to blame for the fire.",
+      "zh": "调查人员认为，这场火灾是线路故障造成的。"
+     }
+    ]
+   },
+   {
+    "title": "同一句中的时态对比",
+    "explain": "第一分句 blames 用一般现在时，因为“坊间传说”至今仍这样说，是现在依然存在的说法；第二分句 originated 用一般过去时，因为孢子从哪里来是1928年发生的事。同一句话里时态不同，各自对应事情发生的时间。考研阅读中常见这种搭配：作者用一般现在时转述流行观点或研究结论，用一般过去时叙述历史事件。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most guidebooks say the castle was built by the Romans; recent excavations suggest a later date.",
+      "zh": "大多数旅游指南都说这座城堡是罗马人修建的；最近的发掘则表明它的年代要更晚。"
+     }
+    ]
+   },
+   {
+    "title": "地点副词作后置定语",
+    "explain": "表示地点、方位的副词，如 downstairs、upstairs、abroad、nearby、here、there，可以放在名词后作定语：the room upstairs（楼上的房间）、our trip abroad（我们的出国之行）。本句 a laboratory downstairs 即“楼下的一间实验室”。这类定语翻译时要前移。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The noise from the flat upstairs kept us awake all night.",
+      "zh": "楼上那套公寓传来的噪声吵得我们一夜没睡。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "popular mythology",
+    "explain": "mythology 本义是“神话（总称）”，如 Greek mythology（希腊神话）；也指许多人相信却缺乏根据的说法。popular 在这里是“大众的，民间的”，不是“受欢迎的”。popular mythology 即民间广为流传的说法，视频译为“坊间传说”。"
+   },
+   {
+    "term": "originate in/from",
+    "explain": "起源于，发源于。originate 在这一意义上是不及物动词，不用被动语态，接 in、from 表示起源的地点或来源。名词 origin（起源），形容词 original（最初的；原创的）。视频译为“起源于”。"
+   },
+   {
+    "term": "cultivate",
+    "explain": "本义是“耕种，种植”；在生物学中指在实验室里培养细菌、霉菌等微生物，如 cultivate bacteria；也可引申为培养关系、品位，如 cultivate a friendship。本句 cultivated moulds 视频译为“培育了霉菌”。"
+   },
+   {
+    "term": "spore",
+    "explain": "孢子，真菌、蕨类等用来繁殖的微小结构，可随空气传播。本句 the spores 用定冠词，指造成第1句污染的那些霉菌孢子。"
+   }
+  ],
+  "translation_tip": "视频译文“坊间传说将其归咎于一扇敞开的窗户；孢子很可能起源于楼下的一间实验室，在那里有一位同事培育了霉菌。”的处理：①保留分号，两个分句的对照关系与原文一致。②blames an open window 增补“其”，译成“将其归咎于”，补出原文省略的归咎内容（霉菌的来历）。③副词 downstairs 作后置定语，前移译成“楼下的”，冠词 a 译为量词“一间”。④非限制性定语从句没有前置，而是拆成独立分句，where 译为“在那里”回指实验室；从句主语 a colleague 是不定指的人，按汉语习惯用“有一位同事”引出。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Fleming",
+   "predicate": "called；published",
+   "object_or_complement": "the mould's juice（called 的宾语）；penicillin（宾语补足语）；published 在此不带宾语",
+   "explain": "一个主语带两个并列谓语，由 and 连接。第一个谓语 called 构成主谓宾宾补结构（call A B）；第二个谓语 published 在此为不及物用法，in June 1929 作时间状语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Fleming",
+    "role": "主语",
+    "zh": "弗莱明"
+   },
+   {
+    "text": "called",
+    "role": "谓语一（call + 宾语 + 宾语补足语）",
+    "zh": "称为"
+   },
+   {
+    "text": "the mould's juice",
+    "role": "宾语（the mould's 是名词所有格，作 juice 的定语）",
+    "zh": "这种霉菌（分泌的）汁液"
+   },
+   {
+    "text": "penicillin",
+    "role": "宾语补足语（名词），说明宾语被称作什么",
+    "zh": "青霉素"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个谓语",
+    "zh": "并"
+   },
+   {
+    "text": "published",
+    "role": "谓语二（不及物用法，指发表研究论文）",
+    "zh": "发表"
+   },
+   {
+    "text": "in June 1929.",
+    "role": "时间状语（介词短语）",
+    "zh": "于1929年6月"
+   }
+  ],
+  "structure": "①本句是一个主语 Fleming 带两个并列谓语 called… and published…，按先命名、后发表的顺序叙述。\n②第一个谓语 called the mould's juice penicillin 是 call A B 结构（视频说明：把A称为B）：the mould's juice 是宾语，penicillin 是宾语补足语，二者指同一事物，宾补说明宾语的名称。the mould 指前文污染培养皿的那种霉菌，'s 是名词所有格，表示汁液来自霉菌。\n③第二个谓语 published 后面没有宾语，是不及物用法，指发表研究成果（视频说明：这里指发表了研究论文）。in June 1929 是时间状语，只有月份和年份时用介词 in。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "call + 宾语 + 宾语补足语",
+    "explain": "call、name、elect、appoint、consider 等动词可以带复合宾语：宾语之后再接一个名词作宾语补足语，宾语和宾补指同一事物，即“把A称为/选为B”。本句 called the mould's juice penicillin 中，juice 是宾语，penicillin 是宾补。要与双宾语区分：双宾语中两个名词不是同一事物，如 call me a taxi（为我叫辆出租车）。改为被动语态时，宾补留在动词后：The juice was called penicillin。考研翻译中这类结构通常用“把/将A称为B”译出。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The press called the new stadium a white elephant.",
+      "zh": "媒体把这座新体育场称为华而不实的摆设。"
+     },
+     {
+      "en": "The board elected her chair at its first meeting.",
+      "zh": "董事会在第一次会议上选举她为主席。"
+     }
+    ]
+   },
+   {
+    "title": "publish 的不及物用法",
+    "explain": "publish 多作及物动词，意为“出版，发表，公布”，如 publish a paper、publish the results；指作者、学者发表作品或研究成果时，也可以不带宾语，如 She has published widely on climate policy。本句 published in June 1929 省去了宾语，从上下文可知是发表了关于青霉素的研究论文。学术语境中常见 publish in a journal（在期刊上发表论文）、publish on a topic（就某一课题发表论文）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Young researchers are under constant pressure to publish in leading journals.",
+      "zh": "年轻的研究人员一直承受着在顶级期刊上发表论文的压力。"
+     }
+    ]
+   },
+   {
+    "title": "时间介词 in 与 on",
+    "explain": "单独的年份、月份、季节前用 in，如 in 1929、in June 1929；具体到某一天的日期前用 on，如第9句的 on 25 May 1940。本句 in June 1929 只到月份，所以用 in。写作中 on Monday morning、on a cold night 这类指具体某一天的时间也用 on。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge opened in March 2021 and was closed for repairs on 4 July.",
+      "zh": "这座桥于2021年3月通车，7月4日因维修封闭。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "penicillin",
+    "explain": "青霉素，音译为“盘尼西林”。这个名称由弗莱明在1929年提出，来自产生它的霉菌属名 Penicillium（青霉属），Penicillium 源于拉丁语 penicillus（画笔），因为这种霉菌产生孢子的结构形似画笔。"
+   },
+   {
+    "term": "juice",
+    "explain": "常指果汁，也泛指植物、肉类等的汁液。本句指霉菌在培养过程中分泌出的液体，视频译为“（分泌的）汁液”，括号中的“分泌的”是补充说明。"
+   },
+   {
+    "term": "call A B",
+    "explain": "把A称为B，A与B指同一事物；同义说法有 refer to A as B、name A B。被动形式为 A is called B。"
+   }
+  ],
+  "translation_tip": "视频译文“弗莱明将这种霉菌（分泌的）汁液称为青霉素，并于1929年6月发表。”的处理：①call A B 用“将A称为B”译出，把宾语提到动词前，宾补放在最后，信息落在新名称“青霉素”上。②the mould's 中的定冠词译为“这种”，指前文提到的霉菌；用括号增补“（分泌的）”，说明汁液与霉菌的关系。③并列连词 and 译为“并”；时间状语 in June 1929 移到动词前，译成“于1929年6月发表”，“于”字使语体更正式。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "the crude juice（第一分句）；he and the chemists（第二分句）",
+   "predicate": "was（第一分句，系动词）；lacked（第二分句）",
+   "object_or_complement": "unstable and stubbornly hard to purify（表语）；the expertise（lacked 的宾语）",
+   "explain": "并列句，and 连接两个分句。第一分句主系表结构，系动词 was 后接两个并列的形容词表语；第二分句主谓宾结构，主语由 he 和 the chemists 并列构成。两个分句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "转折连词，与上文形成转折",
+    "zh": "然而"
+   },
+   {
+    "text": "the crude juice",
+    "role": "主语（第一分句）",
+    "zh": "这种粗糙的/未加工的液体"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "unstable",
+    "role": "表语一（形容词）",
+    "zh": "很不稳定"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个表语",
+    "zh": "并且"
+   },
+   {
+    "text": "stubbornly hard",
+    "role": "表语二（形容词 hard，副词 stubbornly 修饰 hard）",
+    "zh": "极难"
+   },
+   {
+    "text": "to purify,",
+    "role": "不定式，与 hard 构成 hard to do 结构，说明“难”在哪方面",
+    "zh": "提纯"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "（并列连词，连接两个分句，译文用分号代替，不单独译出）"
+   },
+   {
+    "text": "he and the chemists",
+    "role": "主语（第二分句，he 与 the chemists 并列）",
+    "zh": "他和……化学家"
+   },
+   {
+    "text": "he enlisted",
+    "role": "限制性定语从句（省略关系代词 whom/that），修饰 the chemists",
+    "zh": "招募来的"
+   },
+   {
+    "text": "lacked",
+    "role": "谓语",
+    "zh": "都缺乏"
+   },
+   {
+    "text": "the expertise",
+    "role": "宾语",
+    "zh": "专业知识"
+   },
+   {
+    "text": "to refine it.",
+    "role": "后置定语（动词不定式），修饰 expertise；it 指 the crude juice",
+    "zh": "精炼它的"
+   }
+  ],
+  "structure": "①本句由 and 连接两个分句，句首的 Yet 表示与上文转折：弗莱明虽然命名并发表了青霉素，提纯和精炼却遇到了困难。\n②第一分句是主系表结构：主语 the crude juice，系动词 was，表语是 and 连接的两个形容词 unstable 和 stubbornly hard to purify。后者是 hard to do 结构，to purify 说明“难”在哪方面；stubbornly 修饰 hard，意为“怎么也，极其”（视频说明：怎么也/极其难以提纯；hard to do：难以做……）。\n③第二分句是主谓宾结构：主语是 he and the chemists he enlisted，he 与 the chemists 由 and 并列；he enlisted 是省略关系代词的限制性定语从句，修饰 the chemists，被省略的 whom/that 在从句中作 enlisted 的宾语（视频说明：定语从句，修饰 the chemists）。谓语 lacked，宾语 the expertise；to refine it 是不定式作后置定语，修饰 expertise（视频说明），it 指 the crude juice。\n④句中有三个 and：第一个连接两个表语 unstable 和 stubbornly hard to purify，第二个前有逗号，连接两个分句，第三个连接两个主语 he 和 the chemists。阅读时要分清每个 and 连接的层次。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词 + 不定式：hard to purify",
+    "explain": "hard、difficult、easy、impossible、tough 等形容词后接不定式时，句子主语往往是不定式的逻辑宾语，不定式用主动形式表示被动意义：The juice was hard to purify = It was hard to purify the juice，不能写成 hard to be purified。本句 stubbornly hard to purify 即“极难提纯”（视频说明：hard to do，难以做……）。考研写作中可以用这一结构替换 It is difficult to do sth，使句子更紧凑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The instructions were confusing and almost impossible to follow.",
+      "zh": "这些说明含混不清，几乎无法照着操作。"
+     },
+     {
+      "en": "Such claims are easy to make but hard to prove.",
+      "zh": "这类说法说起来容易，证明起来却很难。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词在限制性定语从句中作宾语时可以省略。本句 the chemists he enlisted 中，名词 the chemists 后紧跟“主语 + 谓语”he enlisted，enlisted 后缺宾语，缺的正是先行词 the chemists，完整形式是 the chemists (whom/that) he enlisted。识别方法：名词后直接出现另一组主谓，且谓语缺宾语。阅读时容易把 he 当成新句子的主语，可以在先行词后补出 that 来还原结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The candidates the committee interviewed all had experience abroad.",
+      "zh": "委员会面试的候选人都有海外经历。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作后置定语",
+    "explain": "不定式放在名词后作定语，常表示与该名词相关的、尚未发生或有待完成的动作，多用于 ability、expertise、chance、decision、way、effort 等名词之后，如 the ability to adapt、a decision to resign。本句 the expertise to refine it 即“精炼它的专业知识”。翻译时不定式定语一般前移，译成“……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Few countries have the resources to tackle the problem alone.",
+      "zh": "很少有国家拥有单独解决这一问题的资源。"
+     }
+    ]
+   },
+   {
+    "title": "yet 表示转折",
+    "explain": "yet 作连词时意为“然而，但是”，可以放在句首，也可以连接两个分句，语气比 but 正式，常引出与前文预期相反的事实。本句 Yet 承接上句：弗莱明命名并发表了青霉素，它却不稳定、难提纯。考研阅读中，yet、however、but 后面往往是作者真正要强调的信息。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked simple on paper, yet it proved remarkably difficult to carry out.",
+      "zh": "这个计划在纸面上看起来很简单，执行起来却非常困难。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stubbornly",
+    "explain": "熟词僻义：stubborn 常指人“固执的，倔强的”；修饰问题、困难或数字时，表示难以改变、始终如此，如 stubbornly high unemployment（居高不下的失业率）。本句 stubbornly hard 指怎么也难以提纯，视频把 stubbornly 译为“极”，与 hard 合成“极难”。"
+   },
+   {
+    "term": "crude",
+    "explain": "形容词，意为“天然的，未经加工的”，如 crude oil（原油）；也可指“粗糙的，简陋的”，如 a crude method。本句 the crude juice 指尚未提纯的霉菌汁液，视频译为“粗糙的/未加工的”。"
+   },
+   {
+    "term": "purify 与 refine",
+    "explain": "purify 侧重去除杂质，使变得纯净，如 purify water；refine 侧重通过加工进行精炼、精制，如 refine oil、refine sugar，也可引申为“改进，完善”。本句视频分别译为“提纯”和“精炼”。"
+   },
+   {
+    "term": "enlist",
+    "explain": "招募，争取（某人的帮助、支持），如 enlist sb's help、enlist experts；作不及物动词时指“入伍，从军”，如 enlist in the army。本句 the chemists he enlisted 视频译为“招募来的化学家”。"
+   },
+   {
+    "term": "expertise",
+    "explain": "名词，专门知识，专业技能，不可数，常接 in 或 on，如 expertise in chemistry、technical expertise。主重音在最后一个音节。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，这种粗糙的/未加工的液体很不稳定，并且极难提纯；他和招募来的化学家都缺乏精炼它的专业知识。”的处理：①Yet 单独译为“然而”，后加逗号，突出转折。②系动词 was 不单独译出，形容词表语前补“很”，译成“很不稳定”；stubbornly hard to purify 合译为“极难提纯”。③连接两个分句的 and 用分号表示，把两层意思分开。④省略关系代词的定语从句 he enlisted 前置为“招募来的”；增补“都”，表示两类主语都缺乏专业知识。⑤不定式定语 to refine it 前移，译为“精炼它的专业知识”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "He（第一分句）；penicillin（第二分句）",
+   "predicate": "used（第一分句）；lay（第二分句，系动词）",
+   "object_or_complement": "it（used 的宾语）；dormant（表语）",
+   "explain": "并列句，and 连接两个分句。第一分句主谓宾结构，to isolate other microbes 作目的状语；第二分句主系表结构，lie 在此作系动词，lay 是它的过去式。两个分句都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（第一分句）",
+    "zh": "他"
+   },
+   {
+    "text": "used",
+    "role": "谓语",
+    "zh": "用"
+   },
+   {
+    "text": "it",
+    "role": "宾语，指青霉素",
+    "zh": "它"
+   },
+   {
+    "text": "chiefly",
+    "role": "状语（副词），表示主要用途",
+    "zh": "主要"
+   },
+   {
+    "text": "to isolate",
+    "role": "目的状语（动词不定式），说明用它来做什么",
+    "zh": "来分离"
+   },
+   {
+    "text": "other microbes,",
+    "role": "不定式 to isolate 的宾语",
+    "zh": "其他微生物"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "（并列连词，连接两个分句，译文用逗号断开，不单独译出）"
+   },
+   {
+    "text": "penicillin",
+    "role": "主语（第二分句）",
+    "zh": "青霉素"
+   },
+   {
+    "text": "lay",
+    "role": "系动词（lie 的过去式）",
+    "zh": "（系动词 lie 的过去式，与 dormant 合译为“休眠”）"
+   },
+   {
+    "text": "dormant,",
+    "role": "表语（形容词）",
+    "zh": "休眠"
+   },
+   {
+    "text": "a curiosity",
+    "role": "名词短语作补充说明，说明主语 penicillin 当时的处境",
+    "zh": "成了一种稀罕物/奇物"
+   },
+   {
+    "text": "rather than a cure.",
+    "role": "与 a curiosity 构成 A rather than B 结构，rather than 连接两个名词",
+    "zh": "而非疗法"
+   }
+  ],
+  "structure": "①本句由 and 连接两个分句。第一分句 He used it chiefly to isolate other microbes：主语 He，谓语 used，宾语 it（指青霉素），chiefly 是副词作状语，to isolate other microbes 是不定式作目的状语，use sth to do sth 即“用某物来做某事”。\n②第二分句 penicillin lay dormant：lie 在这里是系动词，意为“处于某种状态”，dormant 是形容词作表语；lay 是 lie 的过去式，不是及物动词 lay（放置）（视频说明：lie dormant，处于沉寂状态，lay 是 lie 的过去式）。\n③句末 a curiosity rather than a cure 是名词短语，用逗号与前面隔开，补充说明青霉素当时的处境（视频说明）。它在意义上说明主语 penicillin，相当于 being a curiosity rather than a cure；A rather than B 表示“是A而不是B”，rather than 连接两个并列的名词。\n④两个分句在意义上前因后果：弗莱明主要把它当作分离微生物的工具，青霉素也就沉寂下来，没有成为治病的药物。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "lie 作系动词与 lie、lay 的区分",
+    "explain": "lie 除了表示“躺，平放”，还可以作系动词，后接形容词，表示“处于某种状态”，如 lie dormant（处于休眠状态）、lie empty（空置）、lie idle（闲置）、lie still（静止不动）。易混的变化形式：lie（躺；处于）的过去式是 lay，过去分词是 lain；lay（放置，及物动词）的过去式和过去分词都是 laid；lie（说谎）的过去式和过去分词都是 lied。本句 penicillin lay dormant 中，lay 后接形容词，没有宾语，只能是 lie 的过去式。这组词是考研完形和语法填空的高频易错点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The factory has lain empty since the company went bankrupt.",
+      "zh": "自从公司破产以来，这家工厂一直空置。"
+     },
+     {
+      "en": "The manuscript lay forgotten in a drawer for decades.",
+      "zh": "这份手稿在抽屉里被遗忘了几十年。"
+     }
+    ]
+   },
+   {
+    "title": "A rather than B",
+    "explain": "rather than 连接两个并列成分，表示“是A而不是B”，强调前者，前后成分在形式上要对称：名词对名词、动词对动词、介词短语对介词短语。本句 a curiosity rather than a cure 连接两个名词，说明青霉素当时只是稀罕物，而不是疗法（视频说明：A rather than B，是A而不是B）。rather than 后接动词时常用动词原形，如 He chose to walk rather than take the bus。考研阅读中，rather than 后面通常是作者否定的内容，前面才是作者肯定的观点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The decision was driven by politics rather than economics.",
+      "zh": "这一决定是出于政治考虑，而不是经济考虑。"
+     }
+    ]
+   },
+   {
+    "title": "use sth to do sth：不定式作目的状语",
+    "explain": "use sth to do sth 意为“用某物来做某事”，不定式作目的状语，说明使用的目的；被动形式是 sth is used to do sth，要与 be used to doing（习惯于做某事）区分。本句 used it chiefly to isolate other microbes 中，副词 chiefly 放在宾语和不定式之间，修饰整个用途，表示“主要用它来分离”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Satellite data are increasingly used to track deforestation in remote areas.",
+      "zh": "卫星数据越来越多地被用来追踪偏远地区的森林砍伐情况。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "isolate",
+    "explain": "熟词僻义：isolate 常见义是“使隔离，使孤立”；在微生物学和化学中指“分离出（某种微生物或物质）”，如 isolate a virus（分离出病毒）。本句 to isolate other microbes 指借助青霉素把其他微生物分离出来，视频译为“分离”。"
+   },
+   {
+    "term": "microbe",
+    "explain": "微生物，指细菌等肉眼看不见的微小生物，常带“致病菌”的意味；同义词有 microorganism。"
+   },
+   {
+    "term": "curiosity",
+    "explain": "熟词僻义：常见义是“好奇心”，如 out of curiosity（出于好奇）；作可数名词时指“稀罕物，奇物”，前面可加不定冠词，如 a curiosity。本句 a curiosity 指令人好奇却没有派上实际用场的东西，视频译为“稀罕物/奇物”。"
+   },
+   {
+    "term": "cure",
+    "explain": "本句是可数名词，意为“疗法，治疗手段”，常接 for，如 a cure for cancer。curiosity 与 cure 开头的读音相同，放在 rather than 两边形成头韵（alliteration），读起来响亮好记。"
+   },
+   {
+    "term": "lie dormant",
+    "explain": "处于休眠或沉寂状态。dormant 原指动植物休眠的、火山休眠的，如 a dormant volcano（休眠火山）；也可指想法、计划等暂时搁置、未被利用。"
+   }
+  ],
+  "translation_tip": "视频译文“他主要用它来分离其他微生物，青霉素就此休眠，成了一种稀罕物/奇物，而非疗法。”的处理：①use sth to do sth 译成“用它来分离”，副词 chiefly 提到动词前，译为“主要”。②两个分句之间的 and 不译出，用逗号连接；增补“就此”，体现前后两个分句的因果和时间承接。③lay dormant 合译为“休眠”。④句末补充说明的名词短语增补动词“成了”，转成独立的小句，交代青霉素当时的处境；A rather than B 译为“……，而非……”，“而非”简洁书面，保留了原文的对照。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Howard Florey",
+   "predicate": "revived",
+   "object_or_complement": "the work",
+   "explain": "主干是 Howard Florey revived the work，主谓宾结构。谓语 revived 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A decade later,",
+    "role": "时间状语（名词短语 a decade + 副词 later）",
+    "zh": "约十年后"
+   },
+   {
+    "text": "in Oxford,",
+    "role": "地点状语（介词短语）",
+    "zh": "在牛津"
+   },
+   {
+    "text": "Howard Florey,",
+    "role": "主语",
+    "zh": "霍华德·弗洛里"
+   },
+   {
+    "text": "an Australian pathologist,",
+    "role": "同位语，说明 Howard Florey 的身份",
+    "zh": "一位澳大利亚病理学家"
+   },
+   {
+    "text": "revived",
+    "role": "谓语",
+    "zh": "重启了"
+   },
+   {
+    "text": "the work",
+    "role": "宾语，指弗莱明对青霉素的研究",
+    "zh": "这项研究"
+   },
+   {
+    "text": "with Ernst Chain,",
+    "role": "伴随状语（介词短语），说明与谁合作",
+    "zh": "与恩斯特·钱恩一起"
+   },
+   {
+    "text": "a German-born chemist and Jewish refugee.",
+    "role": "同位语，说明 Ernst Chain 的身份",
+    "zh": "钱恩是德国出生的化学家、犹太难民"
+   }
+  ],
+  "structure": "①主句是 Howard Florey revived the work：主语 Howard Florey，谓语 revived，宾语 the work，the work 指上一段弗莱明对青霉素的研究。\n②句首有两个状语：A decade later 是时间状语，由名词短语 a decade 加副词 later 构成，以上一段的1928年、1929年为参照，意为“十年后”；in Oxford 是地点状语。\n③主语后的 an Australian pathologist 是同位语，说明弗洛里的身份。\n④with Ernst Chain 是介词短语作伴随状语，表示与谁一起重启研究。句末 a German-born chemist and Jewish refugee 是 Ernst Chain 的同位语（视频说明：同位语，说明钱恩的身份）；chemist 和 refugee 共用一个冠词 a，说明两者指同一个人，即钱恩既是化学家，又是犹太难民。German-born 是复合形容词，意为“在德国出生的”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语与共用冠词",
+    "explain": "同位语跟在名词后，对它作补充说明，用逗号隔开。本句有两个同位语：an Australian pathologist 说明 Howard Florey，a German-born chemist and Jewish refugee 说明 Ernst Chain。后者用 and 连接两个名词，却只有一个冠词 a，表示两个身份属于同一个人；写成 a chemist and a refugee 时，通常理解为两个人。同理，The editor and publisher was present（这位编辑兼出版人在场）谓语用单数，指一个人。考研阅读中，人名后的同位语常是理解人物背景和立场的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The author and broadcaster was invited to open the festival.",
+      "zh": "这位作家兼广播节目主持人受邀为节日揭幕。"
+     },
+     {
+      "en": "Dr Lee, a surgeon and former army officer, now runs a rural clinic.",
+      "zh": "李医生是一名外科医生，曾任陆军军官，如今经营着一家乡村诊所。"
+     }
+    ]
+   },
+   {
+    "title": "时间段 + later",
+    "explain": "a decade later、two years later 中，时间名词短语放在副词 later 前，表示以过去某一时间为参照的“……之后”，用于叙述过去的事。以现在为参照表示将来用 in，如 in ten years（十年后）；以现在为参照表示过去用 ago，如 ten years ago（十年前）。本句 A decade later 以上一段的1928年、1929年为参照。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He left the company in 2010; five years later, he returned as its chief executive.",
+      "zh": "他于2010年离开公司，五年后又以首席执行官的身份回归。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词 German-born",
+    "explain": "“名词/形容词 + 过去分词”可以构成复合形容词，中间用连字符，如 German-born（在德国出生的）、British-made（英国制造的）、man-made（人造的）、state-owned（国有的）。这类复合形容词作前置定语，信息紧凑，新闻语体中很常见，翻译时一般译成“……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The orchestra is led by a Korean-born conductor who trained in Vienna.",
+      "zh": "这支管弦乐团由一位出生于韩国、在维也纳接受训练的指挥家领衔。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Howard Florey",
+    "explain": "霍华德·弗洛里，澳大利亚病理学家，1935年起主持牛津大学的威廉·邓恩爵士病理学院（Sir William Dunn School of Pathology），领导团队把青霉素从实验室里的发现发展成可以使用的药物。"
+   },
+   {
+    "term": "Ernst Chain",
+    "explain": "恩斯特·钱恩，生于柏林的犹太裔生物化学家，1933年纳粹上台后离开德国，到英国工作。视频按原文 chemist 译为“化学家”。"
+   },
+   {
+    "term": "revive",
+    "explain": "使复兴，使重新流行，使恢复，如 revive an old tradition、revive the economy；也可指使苏醒。本句 revived the work 指让沉寂多年的青霉素研究重新启动，视频译为“重启了”。"
+   },
+   {
+    "term": "pathologist",
+    "explain": "病理学家，研究疾病成因、发展过程及其对人体组织影响的专家。由 pathology（病理学）加 -ist 构成，词根 path- 来自希腊语 pathos（痛苦，疾病）。"
+   },
+   {
+    "term": "refugee",
+    "explain": "难民，指因战争、迫害等原因逃离本国的人，主重音通常在最后一个音节。该词17世纪晚期借自法语 réfugié（避难者），英语最早用来指1685年后逃到英国的法国胡格诺派新教徒；可联系 refuge（避难，避难所）记忆。"
+   }
+  ],
+  "translation_tip": "视频译文“约十年后，在牛津，霍华德·弗洛里，一位澳大利亚病理学家，与恩斯特·钱恩一起重启了这项研究，钱恩是德国出生的化学家、犹太难民。”的处理：①A decade later 增补“约”，译为“约十年后”，a decade 在这里是概数。②弗洛里的同位语保留在原位置，用逗号隔开。③伴随状语 with Ernst Chain 前移到谓语前，译为“与……一起”。④钱恩的同位语较长，不插在句子中间，而是放到句末拆成判断句“钱恩是……”，重复人名，指代清楚；两个身份之间用顿号隔开。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Their colleague Norman Heatley",
+   "predicate": "improvised",
+   "object_or_complement": "an ingenious apparatus",
+   "explain": "主谓宾结构，to extract the compound 是不定式作目的状语。谓语 improvised 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Their colleague",
+    "role": "主语中心词，their 指 Florey 和 Chain",
+    "zh": "他们的同事"
+   },
+   {
+    "text": "Norman Heatley",
+    "role": "同位语（限制性，不用逗号），说明这位同事的姓名",
+    "zh": "诺曼·希特利"
+   },
+   {
+    "text": "improvised",
+    "role": "谓语",
+    "zh": "用手边的材料临时拼凑了"
+   },
+   {
+    "text": "an ingenious apparatus",
+    "role": "宾语（ingenious 作前置定语）",
+    "zh": "一套巧妙的装置"
+   },
+   {
+    "text": "to extract",
+    "role": "目的状语（动词不定式）",
+    "zh": "用来提取"
+   },
+   {
+    "text": "the compound.",
+    "role": "不定式 to extract 的宾语，指青霉素",
+    "zh": "这种化合物"
+   }
+  ],
+  "structure": "①主句是 Their colleague Norman Heatley improvised an ingenious apparatus：主语 Their colleague Norman Heatley，谓语 improvised，宾语 an ingenious apparatus。\n②主语中 Their colleague 与 Norman Heatley 是同位关系，中间不加逗号，属于限制性同位语；their 指上一句的 Florey 和 Chain。\n③to extract the compound 是不定式作目的状语，说明拼凑这套装置的目的（视频说明：不定式表目的）。the compound 指青霉素（视频说明），作者用意义更宽的“化合物”指代前文的 penicillin，避免重复。\n④improvise 意为用手边现有的材料临时做成某物，视频把这层含义完整地译成“用手边的材料临时拼凑了”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不定式作目的状语",
+    "explain": "不定式放在句末可以表示目的，回答“为什么做”的问题，可以换成 in order to 或 so as to 来检验：improvised an ingenious apparatus in order to extract the compound。本句 to extract the compound 说明拼凑装置的目的（视频说明：不定式表目的）。要强调目的或把目的状语放在句首时，常用 in order to。考研写作中用不定式表目的，比 so that 从句更简洁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Engineers lowered a camera into the shaft to inspect the damage.",
+      "zh": "工程师把一台摄像机放进竖井，以检查受损情况。"
+     },
+     {
+      "en": "In order to cut costs, the company closed two of its factories.",
+      "zh": "为了削减成本，这家公司关闭了旗下两家工厂。"
+     }
+    ]
+   },
+   {
+    "title": "限制性同位语",
+    "explain": "同位语与被说明的名词之间不加逗号时，是限制性同位语，二者关系紧密，同位语用来确定所指，如 my brother Tom、the poet Li Bai、their colleague Norman Heatley。加逗号的是非限制性同位语，只作补充说明，如 Norman Heatley, their colleague, …。“身份名词 + 人名”是新闻中极常见的限制性同位语格式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novelist Charles Dickens often walked the streets of London at night.",
+      "zh": "小说家查尔斯·狄更斯常在夜里漫步伦敦街头。"
+     }
+    ]
+   },
+   {
+    "title": "用上位词指代前文",
+    "explain": "英语为了避免重复，常用意义更宽的上位词指代前文提到的具体事物，如把 penicillin 换成 the compound（化合物）、the drug（药物）。本句 the compound 就是青霉素（视频说明）。考研阅读的指代题和同义替换题常考这一手法，要根据定冠词 the 和上下文找回具体所指。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Chemists synthesised a new molecule last year; the compound may help treat malaria.",
+      "zh": "化学家们去年合成了一种新分子；这种化合物或许有助于治疗疟疾。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "improvise",
+    "explain": "用手边现有的材料临时做成某物，强调没有现成条件、因陋就简，如 improvise a bandage from a shirt；也指即兴创作或表演，如 improvise a speech。名词 improvisation。本句视频译为“用手边的材料临时拼凑了”。"
+   },
+   {
+    "term": "ingenious",
+    "explain": "精巧的，巧妙的，有独创性的，如 an ingenious device、an ingenious solution；名词 ingenuity（独创性，聪明才智）。不要与 ingenuous（天真的，单纯的）混淆。"
+   },
+   {
+    "term": "apparatus",
+    "explain": "器械，仪器，装置，指为某一用途组合起来的一套设备，常作不可数名词，计数用 a piece of apparatus，也可作可数名词，复数为 apparatuses 或 apparatus；也可指组织的机构、体系，如 the state apparatus（国家机器）。本句视频译为“装置”，量词用“一套”。"
+   },
+   {
+    "term": "extract",
+    "explain": "动词，提取，提炼，常用 extract A from B，如 extract oil from seeds；作动词时重音在第二个音节，作名词时重音在第一个音节，指提取物或摘录。"
+   },
+   {
+    "term": "Norman Heatley",
+    "explain": "诺曼·希特利，牛津团队中的生物化学家。本句交代他设计装置提取青霉素，第15句又提到他未能分享诺贝尔奖，前后呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“他们的同事诺曼·希特利用手边的材料临时拼凑了一套巧妙的装置，用来提取这种化合物。”的处理：①限制性同位语按原语序译成“他们的同事诺曼·希特利”，中间不加标点。②improvised 一个词含义丰富，译文用“用手边的材料临时拼凑了”把“现有材料、临时、拼凑”几层意思都译了出来。③冠词 an 译为量词“一套”，与“装置”搭配。④目的状语 to extract the compound 顺着语序放到逗号后，译成“用来提取”；the compound 译为“这种化合物”，“这种”体现定冠词的回指作用。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "eight mice（第一分句）；the four（第二分句）",
+   "predicate": "received（第一分句）；lived（第二分句）",
+   "object_or_complement": "a lethal dose of bacteria（received 的宾语）；第二分句为主谓结构，无宾语",
+   "explain": "并列句，分号连接两个分句。第一分句主谓宾结构；第二分句主谓结构，live 为不及物动词，意为“活下来”。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 25 May 1940",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1940年5月25日"
+   },
+   {
+    "text": "eight mice",
+    "role": "主语（第一分句）",
+    "zh": "八只小鼠"
+   },
+   {
+    "text": "received",
+    "role": "谓语",
+    "zh": "接种了"
+   },
+   {
+    "text": "a lethal dose",
+    "role": "宾语（lethal 作前置定语）",
+    "zh": "致死剂量"
+   },
+   {
+    "text": "of bacteria;",
+    "role": "后置定语（介词短语），修饰 dose",
+    "zh": "的细菌"
+   },
+   {
+    "text": "only",
+    "role": "限定副词，修饰主语 the four",
+    "zh": "只有"
+   },
+   {
+    "text": "the four",
+    "role": "主语（第二分句；数词 four 作代词，承前省略 mice）",
+    "zh": "那四只"
+   },
+   {
+    "text": "also injected with penicillin",
+    "role": "后置定语（过去分词短语），修饰 the four",
+    "zh": "另外注射了青霉素的"
+   },
+   {
+    "text": "lived.",
+    "role": "谓语（不及物动词）",
+    "zh": "活了下来"
+   }
+  ],
+  "structure": "①本句是分号连接的并列句，前一分句交代实验条件，后一分句交代实验结果。\n②第一分句 eight mice received a lethal dose of bacteria：主语 eight mice，谓语 received，宾语 a lethal dose of bacteria，of bacteria 修饰 dose，说明是什么的剂量。句首 On 25 May 1940 是时间状语，具体日期前用 on。\n③第二分句的主干是 the four lived：the four 是数词作代词，承前省略了 mice，指八只小鼠中的四只；only 修饰 the four，表示“只有那四只”。also injected with penicillin 是过去分词短语作后置定语，修饰 the four（视频说明），相当于 that were also injected with penicillin；inject sb with sth 意为“给某人注射某物”（视频说明），这里用过去分词表示被动，小鼠是被注射的一方。also 表示在接种细菌之外又注射了青霉素。\n④主语 the four 与谓语 lived 之间隔着一个分词短语，阅读时要越过 also injected with penicillin 找到真正的谓语 lived，不能把 injected 当成谓语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词或代词之后作定语，表示被动或完成，相当于一个被动语态的定语从句。本句 the four also injected with penicillin = the four that were also injected with penicillin，小鼠是被注射的一方，所以用过去分词。考研长难句的典型难点是：句中出现 -ed 形式时，要判断它是谓语还是过去分词作定语。本句 injected 前面没有助动词 were，后面还有真正的谓语 lived，所以 injected 只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only the patients treated with the new drug showed significant improvement.",
+      "zh": "只有接受这种新药治疗的患者病情有明显好转。"
+     },
+     {
+      "en": "Most of the paintings stolen from the museum have never been recovered.",
+      "zh": "从博物馆失窃的画作大多一直没有找回。"
+     }
+    ]
+   },
+   {
+    "title": "only 修饰主语时不倒装",
+    "explain": "“only + 状语”放在句首时，句子要部分倒装，如 Only then did they realise the danger；only 修饰主语时，句子不倒装，按正常的“主语 + 谓语”语序，如本句 only the four … lived。考研语法和写作中，要先看 only 修饰的是什么：修饰主语用正常语序，修饰句首状语（副词、介词短语、状语从句）才倒装。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only two of the ten applicants passed the final interview.",
+      "zh": "十名申请人中只有两人通过了最后一轮面试。"
+     },
+     {
+      "en": "Only after the vote did the members learn the full cost of the project.",
+      "zh": "直到投票之后，成员们才得知这个项目的全部费用。"
+     }
+    ]
+   },
+   {
+    "title": "数词作代词",
+    "explain": "数词可以单独作代词，替代前文出现过的名词，避免重复，如 the two、the other three、the first。本句 the four 承前省略 mice，加定冠词 the 表示特指“那四只”，即接种了细菌的八只小鼠中的四只。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Of the six candidates, only the two with legal training were shortlisted.",
+      "zh": "六名候选人中，只有受过法律训练的那两位进入了候选名单。"
+     }
+    ]
+   },
+   {
+    "title": "日期的英式写法",
+    "explain": "英式英语常把日写在月份前，如 25 May 1940，读作 the twenty-fifth of May, nineteen forty；美式英语常写成 May 25, 1940，读作 May twenty-fifth, nineteen forty。具体日期前用介词 on。本句句首的 On 25 May 1940 较短，后面没有加逗号，这在英式报刊中很常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The agreement was signed in Brussels on 12 March 2019.",
+      "zh": "该协议于2019年3月12日在布鲁塞尔签署。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "lethal dose",
+    "explain": "致死剂量，医学和药理学术语。lethal 意为“致命的，致死的”，如 a lethal weapon（致命武器）。本句 a lethal dose of bacteria 指足以致死的细菌量，视频译为“致死剂量的细菌”。"
+   },
+   {
+    "term": "inject sb with sth",
+    "explain": "给某人注射某物，也可以说 inject sth into sb；名词 injection（注射），如 give sb an injection。引申义是“注入，增添”，如 inject new life into the city（为城市注入新活力）。"
+   },
+   {
+    "term": "mice",
+    "explain": "mouse 的复数，属于不规则变化，同类的还有 louse 的复数 lice。实验中用的小鼠就用 mice，视频译为“小鼠”。"
+   },
+   {
+    "term": "receive",
+    "explain": "本句 received a lethal dose of bacteria 中，receive 指被施以、接受（注射、治疗等），如 receive treatment、receive a vaccine；视频根据实验语境译为“接种了”。"
+   }
+  ],
+  "translation_tip": "视频译文“1940年5月25日，八只小鼠接种了致死剂量的细菌；只有另外注射了青霉素的那四只活了下来。”的处理：①日期按汉语“年月日”的顺序译出，放在句首，后加逗号。②received 根据实验语境译为“接种了”；a lethal dose of bacteria 把中心词换成“细菌”，前置定语 lethal 和 dose 合成“致死剂量的”，译成“致死剂量的细菌”。③过去分词短语 also injected with penicillin 前移，译成“另外注射了青霉素的”，also 译为“另外”，修饰“那四只”。④lived 增补趋向补语“下来”，译成“活了下来”，突出在致死剂量下存活的结果。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The Lancet",
+   "predicate": "printed",
+   "object_or_complement": "the outcome",
+   "explain": "主谓宾结构，that August 是名词短语作时间状语。谓语 printed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The Lancet,",
+    "role": "主语（期刊名）",
+    "zh": "《柳叶刀》"
+   },
+   {
+    "text": "a prestigious journal,",
+    "role": "同位语，说明 The Lancet 是什么",
+    "zh": "享有盛誉的期刊"
+   },
+   {
+    "text": "printed",
+    "role": "谓语",
+    "zh": "刊登了"
+   },
+   {
+    "text": "the outcome",
+    "role": "宾语，指上句的实验结果",
+    "zh": "这一结果"
+   },
+   {
+    "text": "that August.",
+    "role": "时间状语（名词短语，不加介词）",
+    "zh": "在同年8月"
+   }
+  ],
+  "structure": "①主句是 The Lancet printed the outcome：主语 The Lancet，谓语 printed，宾语 the outcome。the outcome 指上句小鼠实验的结果。\n②主语后两个逗号之间的 a prestigious journal 是同位语，说明 The Lancet 是什么（视频说明：同位语，说明 The Lancet 是什么），为不熟悉这份刊物的读者提供背景。\n③that August 是名词短语直接作时间状语，前面不用介词 in；that 指上句提到的1940年，that August 即“那年8月”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "this/that/last/next + 时间名词作状语",
+    "explain": "时间名词前有 this、that、last、next、every 等限定词时，直接作状语，不加介词：that August（那年8月）、last spring、next Monday、every summer，不能说 in that August、on last Monday。本句 that August 以上句的1940年为参照，指同一年的8月。叙述过去的事时，用 that year、that summer 指代上文提到的年份，衔接自然。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company was founded in 1998 and went public that autumn.",
+      "zh": "这家公司成立于1998年，同年秋天上市。"
+     },
+     {
+      "en": "The council will review the policy again next spring.",
+      "zh": "市议会将在明年春天再次审查这项政策。"
+     }
+    ]
+   },
+   {
+    "title": "同位语为专名补充背景",
+    "explain": "新闻和科普文章首次提到读者可能不熟悉的机构、刊物、人物时，常在其后加同位语交代背景，如 The Lancet, a prestigious journal。翻译时，短的同位语常前置为定语，长的则拆成独立的句子。本句同位语较短，视频把它前移，译成“享有盛誉的期刊《柳叶刀》”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nature, one of the world's oldest science journals, was first published in 1869.",
+      "zh": "《自然》是世界上历史最悠久的科学期刊之一，于1869年创刊。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "The Lancet",
+    "explain": "《柳叶刀》，英国医学期刊，1823年创刊，是世界上历史最悠久、影响最大的综合性医学期刊之一。lancet 本义是外科手术用的柳叶刀；刊名中的 The 首字母大写，汉语译名加书名号。"
+   },
+   {
+    "term": "prestigious",
+    "explain": "有声望的，享有盛誉的，如 a prestigious university、a prestigious award；名词 prestige（威望，声望）。本句视频译为“享有盛誉的”。"
+   },
+   {
+    "term": "print",
+    "explain": "本句 print 指报刊“刊登，发表”，如 The newspaper printed the letter，侧重登在印刷出版物上。视频译为“刊登了”。"
+   },
+   {
+    "term": "outcome",
+    "explain": "结果，结局，可数名词，常接 of，如 the outcome of the trial，侧重事情最终的结果。本句视频译为“这一结果”。"
+   }
+  ],
+  "translation_tip": "视频译文“享有盛誉的期刊《柳叶刀》在同年8月刊登了这一结果。”的处理：①同位语 a prestigious journal 较短，前移作定语，与主语合成“享有盛誉的期刊《柳叶刀》”，句子更紧凑。②期刊名加书名号。③时间状语 that August 移到谓语前，that 译为“同年”，承接上句的1940年。④the outcome 中的定冠词译为“这一”，回指上句的实验结果。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Albert Alexander",
+   "predicate": "rallied",
+   "object_or_complement": "",
+   "explain": "主谓结构，rally 在此为不及物动词，意为“（病情）好转”；on penicillin 作状语。谓语 rallied 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 1941",
+    "role": "时间状语（介词短语）",
+    "zh": "1941年2月"
+   },
+   {
+    "text": "Albert Alexander,",
+    "role": "主语",
+    "zh": "艾伯特·亚历山大"
+   },
+   {
+    "text": "an Oxford constable",
+    "role": "同位语，说明 Albert Alexander 的身份",
+    "zh": "一名牛津警员"
+   },
+   {
+    "text": "gravely ill with infection,",
+    "role": "后置定语（形容词短语），修饰 an Oxford constable，补充说明他的病情",
+    "zh": "因感染而病情危重"
+   },
+   {
+    "text": "rallied",
+    "role": "谓语（不及物动词）",
+    "zh": "有所好转"
+   },
+   {
+    "text": "on penicillin.",
+    "role": "状语（介词短语，on 表示使用某种药物）",
+    "zh": "用上青霉素后"
+   }
+  ],
+  "structure": "①主句是 Albert Alexander rallied on penicillin：主语 Albert Alexander，谓语 rallied，on penicillin 作状语。rally 在这里指病人的病情好转。\n②主语后两个逗号之间是同位语 an Oxford constable gravely ill with infection。其中 an Oxford constable 是同位语的主体，Oxford 是名词作定语，说明是牛津的警员；gravely ill with infection 是形容词短语作后置定语，修饰 constable，补充说明他的病情（视频说明）。\n③形容词短语内部：ill 是中心词，gravely 修饰 ill，表示程度，gravely ill 意为“病情危重”；with infection 说明患病的原因，ill with 意为“因……患病”（视频说明）。\n④on penicillin 中的 on 表示正在使用某种药物，与 rallied 合起来指用上青霉素后病情好转。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "单个形容词通常放在名词前作定语；形容词带有修饰语或补足成分构成短语时，一般要放在名词后，如 a box full of books、a writer famous for her short stories。本句 gravely ill with infection 带有状语 gravely 和介词短语 with infection，只能后置，修饰 constable。这类结构相当于省略了 who was 的定语从句：an Oxford constable (who was) gravely ill with infection。考研长难句中，名词后出现形容词短语时，要把它看成修饰前面名词的定语，而不是谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Volunteers handed out blankets to families unable to return home.",
+      "zh": "志愿者向无法回家的家庭分发毯子。"
+     },
+     {
+      "en": "It is a policy popular with voters but costly for the government.",
+      "zh": "这是一项受选民欢迎、却让政府付出高昂代价的政策。"
+     }
+    ]
+   },
+   {
+    "title": "on + 药物：正在用药",
+    "explain": "介词 on 可以表示正在服用、使用某种药物或接受某种治疗，如 be on antibiotics（在用抗生素）、be on medication（在服药）、put sb on a drug（让某人开始用某种药）。本句 rallied on penicillin 中，on penicillin 说明他好转是在用上青霉素之后，视频译为“用上青霉素后”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The doctor put him on antibiotics for two weeks.",
+      "zh": "医生让他服用两周抗生素。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "constable",
+    "explain": "（英国）警员，最低一级的警察，全称 police constable，缩写 PC；chief constable 指英国郡、市警察局的局长。本句 an Oxford constable 指牛津的一名警员，视频译为“一名牛津警员”。"
+   },
+   {
+    "term": "gravely ill",
+    "explain": "病情危重，语气比 seriously ill 更正式；gravely 意为“严重地”，也用于 gravely concerned（深表关切）、gravely injured（受重伤）。形容词 grave 意为“严重的，严肃的”，名词 grave 则是“坟墓”。"
+   },
+   {
+    "term": "rally",
+    "explain": "熟词僻义：rally 常见义是“集会，集合”；作不及物动词时还可指病情、价格、士气等“好转，回升”，如 Shares rallied in the afternoon（股价午后回升）。本句 rallied 指病情好转，视频译为“有所好转”，“有所”表明只是一定程度的好转，与下句他最终去世相照应。"
+   },
+   {
+    "term": "Albert Alexander",
+    "explain": "艾伯特·亚历山大，牛津的一名警察，通常被认为是第一位接受牛津团队青霉素治疗的病人。"
+   }
+  ],
+  "translation_tip": "视频译文“1941年2月，艾伯特·亚历山大，一名牛津警员，因感染而病情危重，用上青霉素后有所好转。”的处理：①同位语 an Oxford constable 保留在主语后，用逗号隔开，译成“一名牛津警员”，名词定语 Oxford 译为“牛津”。②后置定语 gravely ill with infection 没有前置，而是拆成独立小句“因感染而病情危重”，with infection 用“因……而”译出原因。③on penicillin 译成表示先后的“用上青霉素后”，放在谓语前；rallied 译为“有所好转”，表示病情一度改善。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "he（主句）；the obstacle（冒号后的分句）",
+   "predicate": "died（主句）；was（冒号后的分句，系动词）",
+   "object_or_complement": "quantity（was 的表语）",
+   "explain": "主句 he died 为主谓结构，前面有 when 引导的时间状语从句；冒号后的分句 the obstacle was quantity 为主系表结构。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "When the scarce supply ran out,",
+    "role": "时间状语从句（when 引导）",
+    "zh": "当稀缺的（青霉素）供应耗尽后"
+   },
+   {
+    "text": "he",
+    "role": "主语（指上句的 Albert Alexander）",
+    "zh": "他"
+   },
+   {
+    "text": "died",
+    "role": "谓语（不及物动词）",
+    "zh": "去世"
+   },
+   {
+    "text": "in March:",
+    "role": "时间状语（介词短语），冒号引出下文的解释",
+    "zh": "于3月"
+   },
+   {
+    "text": "the obstacle",
+    "role": "主语（冒号后的分句）",
+    "zh": "障碍"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "在于"
+   },
+   {
+    "text": "quantity.",
+    "role": "表语",
+    "zh": "数量"
+   }
+  ],
+  "structure": "①主句是 he died in March：主语 he（指上句的 Albert Alexander），谓语 died，in March 作时间状语。\n②When 引导时间状语从句，从句主语是 the scarce supply，scarce 作前置定语，意为“稀缺的”；谓语 ran out 是短语动词，意为“用完，耗尽”（视频说明：run out，用完，耗尽），不及物，后面不带宾语。supply 指青霉素的供应。\n③冒号后的 the obstacle was quantity 是主系表结构，对前文进行解释和总结：他死亡的原因不在于药物无效，而在于药量不够。\n④本句与上句前后对照：上句他用药后好转，本句药用完后去世，说明青霉素有效，障碍在于产量，由此引出下文美国实验室提高产量的经过。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "run out 与 run out of",
+    "explain": "run out 是不及物短语动词，主语是被用完的东西，如 The scarce supply ran out、Time is running out；run out of sth 的主语是人或机构，宾语才是用完的东西，如 They ran out of penicillin。两种结构意思相同，主语不同，不能说 The supply ran out of。本句主语 the scarce supply 是被耗尽的东西，所以用 ran out。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The hospital ran out of beds within a week of the outbreak.",
+      "zh": "疫情暴发不到一周，这家医院的病床就用完了。"
+     },
+     {
+      "en": "Patience is running out on both sides.",
+      "zh": "双方的耐心都快耗尽了。"
+     }
+    ]
+   },
+   {
+    "title": "冒号表示解释说明",
+    "explain": "冒号在英语中常用来引出对前文的解释、说明、总结或列举，相当于 that is 或 namely。冒号后面可以是完整的句子，也可以是短语或清单。本句冒号后的 the obstacle was quantity 是对前文事件的总结：病人用药后好转，药用完后去世，说明问题出在数量上。考研阅读中，冒号后的内容往往是作者的结论或关键信息。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The reason for the delay was simple: nobody had ordered the parts.",
+      "zh": "延误的原因很简单：没人订购零件。"
+     }
+    ]
+   },
+   {
+    "title": "when 引导时间状语从句表示先后",
+    "explain": "when 引导时间状语从句，表示“当……时，在……之后”。从句谓语是 ran out、arrived 这类表示瞬间完成的动词时，常表示从句动作先发生，主句动作随后发生。本句 When the scarce supply ran out 说明先是药用完，然后他才去世，视频用“当……后”译出先后顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When the funding ended, the project was quietly abandoned.",
+      "zh": "资金一停，这个项目就被悄然放弃了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "scarce",
+    "explain": "形容词，稀少的，缺乏的，供不应求的，可作表语也可作定语，如 Water is scarce、scarce resources；副词 scarcely 意为“几乎不”，名词 scarcity 意为“稀缺”。本句视频译为“稀缺的”。"
+   },
+   {
+    "term": "supply",
+    "explain": "本句是名词，指供应量、储备，即青霉素的供应，视频增补“（青霉素）”。常见搭配有 in short supply（供应不足）、supply and demand（供求）。"
+   },
+   {
+    "term": "obstacle",
+    "explain": "障碍，阻碍，常接 to，如 an obstacle to progress、overcome an obstacle。本句视频译为“障碍”。"
+   },
+   {
+    "term": "quantity",
+    "explain": "数量，常与 quality（质量）相对，如 quality rather than quantity（重质不重量）。本句 the obstacle was quantity 即障碍在于数量：药效已经得到证实，问题在于生产不出足够的量。"
+   }
+  ],
+  "translation_tip": "视频译文“当稀缺的（青霉素）供应耗尽后，他于3月去世：障碍在于数量。”的处理：①when 从句保留在主句前，译为“当……后”，用“后”点明先后顺序。②the scarce supply 译成“稀缺的（青霉素）供应”，括号增补药名，所指更清楚。③in March 前移，译成“于3月去世”。④冒号保留；冒号后的 was 译为“在于”，比“是”更能体现“问题的症结在于”这层意思。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "a government laboratory（第一分句）；a mouldy market melon（第二分句）",
+   "predicate": "boosted（第一分句）；furnished（第二分句）",
+   "object_or_complement": "yields（boosted 的宾语）；the laboratory（furnished 的宾语，with a more prolific strain 表示所提供的东西）",
+   "explain": "并列句，分号连接两个分句，两个分句都是主谓宾结构。谓语 boosted 和 furnished 都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "From July 1941",
+    "role": "时间状语（介词短语，表示起始时间）",
+    "zh": "从1941年7月起"
+   },
+   {
+    "text": "a government laboratory",
+    "role": "主语（第一分句），名词 government 作定语",
+    "zh": "一家政府实验室"
+   },
+   {
+    "text": "in Peoria, Illinois,",
+    "role": "后置定语（介词短语），修饰 laboratory",
+    "zh": "伊利诺伊州皮奥里亚的"
+   },
+   {
+    "text": "boosted",
+    "role": "谓语",
+    "zh": "把……提高了"
+   },
+   {
+    "text": "yields",
+    "role": "宾语",
+    "zh": "产量"
+   },
+   {
+    "text": "about tenfold",
+    "role": "程度状语（副词 tenfold，about 表示约数），说明提高的幅度",
+    "zh": "约十倍"
+   },
+   {
+    "text": "with corn-steep liquor,",
+    "role": "方式状语（介词短语），说明靠什么提高产量",
+    "zh": "靠的是玉米浆"
+   },
+   {
+    "text": "a starch by-product;",
+    "role": "同位语，补充说明 corn-steep liquor",
+    "zh": "一种淀粉生产的副产品"
+   },
+   {
+    "text": "later",
+    "role": "时间状语（第二分句）",
+    "zh": "后来"
+   },
+   {
+    "text": "a mouldy market melon",
+    "role": "主语（第二分句），mouldy 和 market 都作定语修饰 melon",
+    "zh": "市场上一只发霉的甜瓜"
+   },
+   {
+    "text": "furnished",
+    "role": "谓语（furnish A with B）",
+    "zh": "又为……提供了"
+   },
+   {
+    "text": "the laboratory",
+    "role": "宾语",
+    "zh": "这家实验室"
+   },
+   {
+    "text": "with a more prolific strain.",
+    "role": "介词短语，与 furnish 构成 furnish A with B，表示所提供的东西",
+    "zh": "一株更高产的菌株"
+   }
+  ],
+  "structure": "①本句由分号连接两个分句，分别讲提高产量的两项进展：先改进培养条件，后找到高产菌株。\n②第一分句主干是 a government laboratory boosted yields：主语 a government laboratory，谓语 boosted，宾语 yields。in Peoria, Illinois 是介词短语作后置定语，修饰 laboratory（视频说明）；美国地名按“城市, 州”的格式书写，句中州名后也要加逗号。From July 1941 是时间状语，表示起始时间。\n③about tenfold 说明提高的幅度，tenfold 是副词，about 表示约数。with corn-steep liquor 是介词短语表方式（视频说明），说明靠什么提高产量；a starch by-product 是同位语，补充说明玉米浆（视频说明）。\n④第二分句主干是 a mouldy market melon furnished the laboratory with a more prolific strain，用的是 furnish A with B 结构（视频说明：为A提供B）：A 是 the laboratory，B 是 a more prolific strain。主语中 mouldy（发霉的）和 market（市场上的）都是 melon 的前置定语。\n⑤第二分句以“一只发霉的甜瓜”作主语，与第1句的 a stray mould 遥相呼应：两次关键进展都与偶然出现的霉菌有关。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "furnish/provide/supply A with B",
+    "explain": "furnish A with B 意为“为A提供B”，A 是接受者，B 是提供的东西，同类结构有 provide A with B、supply A with B、present A with B；也可以换成 provide B for A、supply B to A，介词随之变化。furnish 的这一用法较正式，常见于书面语；它更常用的意思是“为房间配备家具”，如 a furnished flat。本句 furnished the laboratory with a more prolific strain 即“为这家实验室提供了一株更高产的菌株”。考研完形常考这类动词与介词的固定搭配。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The embassy furnished the journalists with detailed background information.",
+      "zh": "大使馆向记者们提供了详细的背景资料。"
+     },
+     {
+      "en": "Local farmers supply the restaurant with fresh vegetables every morning.",
+      "zh": "当地农民每天早上为这家餐馆供应新鲜蔬菜。"
+     }
+    ]
+   },
+   {
+    "title": "倍数词 tenfold",
+    "explain": "后缀 -fold 加在数词后构成形容词或副词，表示“……倍（的）”，如 twofold、threefold、tenfold、a hundredfold。作副词时放在动词或宾语后，如 increase tenfold、boost output fivefold；作形容词时放在名词前，如 a tenfold increase。本句 boosted yields about tenfold 中，tenfold 作副词修饰 boosted，about 表示约数，视频译为“约十倍”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Since the 1990s, the number of international students in the city has grown tenfold.",
+      "zh": "自20世纪90年代以来，这座城市的国际学生人数增长到了原来的十倍。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，说明用途、地点、来源、材料等，作定语的名词一般用单数。本句有好几处：a government laboratory（政府实验室）、a starch by-product（淀粉生产的副产品）、a mouldy market melon（市场上一只发霉的甜瓜）。最后一例中，形容词 mouldy 在前，名词定语 market 在后，紧挨中心词 melon，这是多个前置定语的一般顺序：名词定语离中心词最近。翻译时常需增补动词或方位词，如“市场上的”“淀粉生产的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "City officials are reviewing the safety record of the school bus company.",
+      "zh": "市政官员正在审查这家校车公司的安全记录。"
+     }
+    ]
+   },
+   {
+    "title": "介词 with 表示手段",
+    "explain": "with 后接工具、材料或手段，表示“用，靠”，如 cut it with a knife、treat the disease with antibiotics。本句 with corn-steep liquor 说明靠玉米浆提高产量，视频说明称之为介词短语表方式，译文用“靠的是”突出这一手段。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Farmers in the region irrigate their fields with recycled water.",
+      "zh": "这一地区的农民用再生水灌溉农田。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Peoria, Illinois",
+    "explain": "皮奥里亚，美国伊利诺伊州的城市。美国地名的习惯写法是“城市, 州”，如 Austin, Texas。本句的政府实验室指美国农业部设在当地的北方地区研究实验室（Northern Regional Research Laboratory）。"
+   },
+   {
+    "term": "corn-steep liquor",
+    "explain": "玉米浆，玉米在湿法加工制取淀粉时浸泡后留下的液体，营养丰富，可作微生物发酵的培养基原料。liquor 在这里指加工过程中产生的液体，不是“烈酒”。"
+   },
+   {
+    "term": "strain",
+    "explain": "熟词僻义：strain 常见义是“压力，拉伤，拉紧”；在生物学中指微生物、动植物的“品系，菌株”，如 a new strain of the virus（病毒的新毒株）。本句 a more prolific strain 视频译为“一株更高产的菌株”。"
+   },
+   {
+    "term": "prolific",
+    "explain": "多产的，高产的，常形容作家、艺术家作品多，如 a prolific writer；也指动植物繁殖力强。本句形容菌株能产出更多青霉素，视频译为“高产的”。"
+   },
+   {
+    "term": "by-product",
+    "explain": "副产品，也可写作 byproduct；引申为“副作用，附带结果”，如 Pollution is often a by-product of rapid industrial growth。"
+   },
+   {
+    "term": "yield",
+    "explain": "名词，产量，收益，可数也可不可数，本句用复数 yields 指青霉素的产量；也可作动词，意为“出产；屈服，让步”。本句 boosted yields 视频译为“把产量提高了”。"
+   }
+  ],
+  "translation_tip": "视频译文“从1941年7月起，伊利诺伊州皮奥里亚的一家政府实验室把产量提高了约十倍，靠的是玉米浆，一种淀粉生产的副产品；后来，市场上一只发霉的甜瓜又为这家实验室提供了一株更高产的菌株。”的处理：①From July 1941 译成“从……起”。②后置定语 in Peoria, Illinois 前移，地名按汉语习惯由大到小，译为“伊利诺伊州皮奥里亚的”。③boosted yields about tenfold 用“把”字句，译为“把产量提高了约十倍”。④方式状语 with corn-steep liquor 没有前置，而是放在后面，用“靠的是”单独成句，突出提高产量的手段；同位语 a starch by-product 紧随其后，增补“生产”二字，译为“一种淀粉生产的副产品”。⑤第二分句 later 译为“后来”；名词定语 market 增补方位词，译为“市场上”；furnish A with B 译为“为A提供B”，并增补“又”，表示在第一项进展之后又有新的进展；strain 搭配量词“株”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "industrial fermentation",
+   "predicate": "met",
+   "object_or_complement": "Allied needs",
+   "explain": "主谓宾结构。谓语 met 为一般过去时，主动语态，与 by 引导的时间状语连用，表示到那时为止已经达到的状态。"
+  },
+  "components": [
+   {
+    "text": "By D-Day in June 1944",
+    "role": "时间状语（介词 by 表示“到……时为止”；in June 1944 作 D-Day 的后置定语）",
+    "zh": "到1944年6月诺曼底登陆时"
+   },
+   {
+    "text": "industrial fermentation",
+    "role": "主语（industrial 作前置定语）",
+    "zh": "工业发酵"
+   },
+   {
+    "text": "met",
+    "role": "谓语",
+    "zh": "已能满足"
+   },
+   {
+    "text": "Allied needs.",
+    "role": "宾语（Allied 作前置定语）",
+    "zh": "盟军的需求"
+   }
+  ],
+  "structure": "①主句是 industrial fermentation met Allied needs：主语 industrial fermentation，谓语 met，宾语 Allied needs。meet needs 意为“满足需求”。\n②句首 By D-Day in June 1944 是时间状语。by 意为“到……时为止”（视频说明），D-Day 指诺曼底登陆日（视频说明），in June 1944 是介词短语作后置定语，修饰 D-Day，说明日期。\n③谓语用一般过去时 met，说明到诺曼底登陆时，工业发酵生产的青霉素已经能够满足盟军的需要；视频译文增补“已能”，体现 by 所含的“到那时已经”的意思。\n④本句与上句衔接：实验室提高了产量、找到了高产菌株，青霉素随后进入工业化生产，第12句提出的数量障碍由此解决。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词 by 表示“到……时为止”",
+    "explain": "by 后接时间点时，表示“不迟于，到……时为止”，强调某个动作或状态在那时已经完成或达到。与 by 连用时，谓语常用完成时：by + 过去时间多用过去完成时，如 By the time the ambulance arrived, the man had died；by + 将来时间多用将来完成时，如 By next June, we will have finished the project。本句用一般过去时 met，侧重陈述到那时已经达到的状态，视频译文用“已能”体现。易混点：until 表示动作一直持续到某时，by 表示最迟到某时完成。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the decade, most households had bought a television set.",
+      "zh": "到这个十年结束时，大多数家庭都已经买了电视机。"
+     },
+     {
+      "en": "We waited until midnight, but by then the last bus had gone.",
+      "zh": "我们一直等到午夜，但那时末班车已经开走了。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语作后置定语",
+    "explain": "介词短语放在名词后作定语，说明该名词的时间、地点、范围等。本句 D-Day in June 1944 中，in June 1944 修饰 D-Day，交代它的日期；整个短语又作介词 by 的宾语。翻译时后置定语前移，视频译为“1944年6月诺曼底登陆时”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The meeting in early March set the budget for the whole year.",
+      "zh": "3月初的那次会议确定了全年的预算。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "D-Day",
+    "explain": "原为军事用语，指某项作战行动的发起日；后来专指1944年6月6日盟军在法国诺曼底登陆的日子。视频译为“诺曼底登陆”。D-Day 也可比喻某件大事的预定日期。"
+   },
+   {
+    "term": "Allied",
+    "explain": "首字母大写时指第二次世界大战中的同盟国或盟军，如 the Allied forces、the Allies；小写的 allied 意为“结盟的，联合的；有关联的”，如 allied to/with。本句 Allied needs 视频译为“盟军的需求”。"
+   },
+   {
+    "term": "industrial fermentation",
+    "explain": "工业发酵，指在大型发酵罐中利用微生物大规模生产药物、食品等产品。fermentation 是 ferment（发酵）的名词形式。"
+   },
+   {
+    "term": "meet needs",
+    "explain": "满足需求。meet 在这里意为“满足（要求、需要等）”，同类搭配有 meet demand、meet the requirements、meet a deadline（如期完成）。"
+   }
+  ],
+  "translation_tip": "视频译文“到1944年6月诺曼底登陆时，工业发酵已能满足盟军的需求。”的处理：①By D-Day in June 1944 译为“到……时”，后置定语 in June 1944 前移；D-Day 具体译为“诺曼底登陆”，点明历史事件。②谓语 met 增补“已能”，译为“已能满足”，体现 by 表示的“到那时已经达到”。③形容词 Allied 译为“盟军的”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Fleming, Florey, and Chain（第一分句）；Heatley（第二分句）",
+   "predicate": "shared（第一分句）；was overlooked（第二分句）",
+   "object_or_complement": "the Nobel prize（shared 的宾语）",
+   "explain": "并列句，分号连接两个分句。第一分句主谓宾结构，谓语 shared 为一般过去时，主动语态；第二分句主谓结构，谓语 was overlooked 为一般过去时的被动语态。"
+  },
+  "components": [
+   {
+    "text": "In October 1945",
+    "role": "时间状语（介词短语）",
+    "zh": "1945年10月"
+   },
+   {
+    "text": "Fleming, Florey, and Chain",
+    "role": "主语（三个并列人名，and 前用牛津逗号）",
+    "zh": "弗莱明、弗洛里和钱恩"
+   },
+   {
+    "text": "shared",
+    "role": "谓语",
+    "zh": "共同获得了"
+   },
+   {
+    "text": "the Nobel prize;",
+    "role": "宾语",
+    "zh": "诺贝尔奖"
+   },
+   {
+    "text": "Heatley",
+    "role": "主语（第二分句）",
+    "zh": "希特利"
+   },
+   {
+    "text": "was overlooked.",
+    "role": "谓语（一般过去时的被动语态）",
+    "zh": "却遭到忽视"
+   }
+  ],
+  "structure": "①本句是分号连接的并列句，两个分句形成对比：三人获奖，希特利却被忽视。分号后没有转折词，对比靠两个分句的并置体现出来。\n②第一分句主语是 Fleming, Florey, and Chain，三个并列的人名按 A, B, and C 的格式排列，and 前的逗号是牛津逗号；谓语 shared，宾语 the Nobel prize。share a prize 即“共同获得一个奖项”。\n③第二分句 Heatley was overlooked 是被动语态，省略了动作的执行者，重点放在希特利的遭遇上。overlook 在这里指在评奖中被忽视、未被考虑。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "被动语态省略施动者",
+    "explain": "被动语态（be + 过去分词）把动作的承受者放在主语位置；执行者不知道、不重要或不便说出时，常省略 by 短语。本句 Heatley was overlooked 没有说明是谁忽视了他，重点放在希特利本人的遭遇上。翻译被动句时，汉语常用“遭到”“受到”“被”，或改成主动句；表示不如意的事，用“遭到”比较自然，视频译为“遭到忽视”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Several qualified candidates were overlooked for promotion.",
+      "zh": "几位符合条件的候选人在晋升时被忽略了。"
+     },
+     {
+      "en": "The warnings were ignored until it was too late.",
+      "zh": "这些警告一直被置之不理，直到为时已晚。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接对比的分句",
+    "explain": "分号可以连接两个意义密切相关的独立分句，中间不用连词。两个分句内容相反时，分号本身就暗含转折，相当于 but 或 whereas。本句前一分句三人获奖，后一分句希特利被忽视，形成鲜明对比，视频译文增补“却”，把这层转折明确表达出来。考研阅读中，分号前后的对比常常体现作者的态度。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some critics praised the film's ambition; others found it tedious.",
+      "zh": "有些评论家称赞这部电影立意宏大，另一些人则觉得它沉闷乏味。"
+     }
+    ]
+   },
+   {
+    "title": "牛津逗号",
+    "explain": "三个及以上的并列成分写成 A, B, and C 时，最后一个 and 前的逗号叫牛津逗号（serial comma），可以避免歧义，使并列层次清楚。本句 Fleming, Florey, and Chain 就用了牛津逗号。汉语并列三项时用顿号加“和”，不需要对应的逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The prize was shared by researchers from Britain, Germany, and Japan.",
+      "zh": "该奖项由来自英国、德国和日本的研究人员共同获得。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Nobel prize",
+    "explain": "诺贝尔奖，本句指1945年的诺贝尔生理学或医学奖，由弗莱明、钱恩和弗洛里三人共享，表彰他们发现青霉素及其对多种传染病的疗效。常见写法是 Nobel Prize，部分英国报刊的体例把 prize 小写。"
+   },
+   {
+    "term": "share",
+    "explain": "share a prize 意为“共同获得奖项”，也可说 share sth with sb，如 She shared the award with two colleagues。视频译为“共同获得了”。"
+   },
+   {
+    "term": "overlook",
+    "explain": "熟词僻义：overlook 常见义是“忽视，未注意到”，还可指“俯瞰”，如 a room overlooking the sea；在评奖、晋升中“未被考虑”多用被动，如 be overlooked for promotion。本句视频译为“遭到忽视”。"
+   },
+   {
+    "term": "Heatley",
+    "explain": "即第8句提到的诺曼·希特利。本句与第8句呼应：他用巧妙的装置提取了青霉素，却没能分享诺贝尔奖。"
+   }
+  ],
+  "translation_tip": "视频译文“1945年10月，弗莱明、弗洛里和钱恩共同获得了诺贝尔奖；希特利却遭到忽视。”的处理：①三个并列人名用顿号和“和”连接，汉语并列不用牛津逗号。②shared 译为“共同获得了”，“共同”体现 share 的分享之意。③保留分号，并在第二分句增补“却”，把两个分句之间的对比译出来。④被动语态 was overlooked 译为“遭到忽视”，“遭到”带有不如意的色彩，符合希特利的处境。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Fortune（第一分句）；tenacious teams and years of toil（第二分句）",
+   "predicate": "put（第一分句）；transformed（第二分句）",
+   "object_or_complement": "the mould（put 的宾语）；it（transformed 的宾语）",
+   "explain": "并列句，分号连接两个分句，都是主谓宾结构，分别带有地点状语 in Fleming's dish 和表示结果的 into a remedy。谓语 put 和 transformed 都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Fortune",
+    "role": "主语（第一分句，抽象名词作主语）",
+    "zh": "机缘"
+   },
+   {
+    "text": "put",
+    "role": "谓语（put sth in sth）",
+    "zh": "把……送进了"
+   },
+   {
+    "text": "the mould",
+    "role": "宾语",
+    "zh": "霉菌"
+   },
+   {
+    "text": "in Fleming's dish;",
+    "role": "地点状语（介词短语），与 put 搭配，表示放置的位置",
+    "zh": "弗莱明的培养皿"
+   },
+   {
+    "text": "tenacious teams",
+    "role": "主语一（第二分句）",
+    "zh": "几支锲而不舍的/坚持不懈的团队"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个主语",
+    "zh": "加上"
+   },
+   {
+    "text": "years of toil",
+    "role": "主语二",
+    "zh": "多年的辛劳/辛苦工作"
+   },
+   {
+    "text": "transformed",
+    "role": "谓语（transform A into B）",
+    "zh": "把……转化成了"
+   },
+   {
+    "text": "it",
+    "role": "宾语，指 the mould",
+    "zh": "它"
+   },
+   {
+    "text": "into a remedy.",
+    "role": "介词短语，与 transform 构成 transform A into B，表示转化的结果",
+    "zh": "良药"
+   }
+  ],
+  "structure": "①本句是分号连接的并列句，前后两个分句构成对照，概括全文：霉菌出现在培养皿里是偶然的，把它变成药物却靠人的坚持和努力。\n②第一分句 Fortune put the mould in Fleming's dish：主语 Fortune（机缘，运气）是抽象名词，被当作能做出动作的施动者，带有拟人色彩；谓语 put，宾语 the mould，in Fleming's dish 是地点状语，put sth in sth 即“把某物放进某处”。\n③第二分句的主语由 and 连接两个名词短语：tenacious teams（坚持不懈的团队）和 years of toil（多年的辛劳）；谓语 transformed，宾语 it 指 the mould，into a remedy 表示转化的结果，transform A into B 即“把A转化成B”（视频说明）。\n④第一分句只有一个抽象主语 Fortune，第二分句的主语则是多支团队和多年辛劳，两相对照，点明全文主旨：青霉素的发现有偶然性，它成为良药却是众人长期努力的结果。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "transform A into B",
+    "explain": "transform A into B 意为“把A转化成B，使A变成B”，强调形态、性质的彻底改变；被动形式是 A is transformed into B。同类结构有 turn A into B、convert A into B、change A into B。transform 也可以不接 into，表示“彻底改变”，如 The internet has transformed the way we work。本句 transformed it into a remedy 即“把它转化成了良药”（视频说明：transform A into B，把A转化成B）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city plans to transform the old docks into a cultural district.",
+      "zh": "该市计划把旧码头改造成文化区。"
+     },
+     {
+      "en": "Solar panels convert sunlight into electricity.",
+      "zh": "太阳能电池板把阳光转化为电能。"
+     }
+    ]
+   },
+   {
+    "title": "无灵主语",
+    "explain": "英语常用抽象名词或无生命的事物作主语，搭配表示人的动作的动词，即“无灵主语”，如 Fortune put the mould in Fleming's dish、Curiosity drove him to explore。汉语习惯用人作主语，翻译时有时要转换成人作主语，有时可以保留拟人色彩。本句视频保留了原文结构，译为“机缘把霉菌送进了……”，读来生动。考研翻译中遇到无灵主语，常改译为“由于……”“……使得……”等结构，使译文通顺。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Rising costs forced many small shops to close.",
+      "zh": "成本上涨迫使许多小商店关门。"
+     },
+     {
+      "en": "A careful reading of the contract revealed several hidden fees.",
+      "zh": "仔细阅读合同后，人们发现了几项隐藏费用。"
+     }
+    ]
+   },
+   {
+    "title": "years of + 名词",
+    "explain": "years of + 不可数名词或复数名词，表示“多年的……”，强调时间长，如 years of research、years of neglect、decades of conflict。本句 years of toil 即“多年的辛劳”（视频说明），toil 是不可数名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After years of neglect, the old theatre has finally been restored.",
+      "zh": "这座老剧院在被冷落多年之后，终于得到了修复。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fortune",
+    "explain": "本句指运气、机缘，如 good fortune（好运）、by good fortune（幸运地）；也可指“命运”和“财富”，如 make a fortune（发财）。本句视频译为“机缘”。"
+   },
+   {
+    "term": "tenacious",
+    "explain": "坚持不懈的，顽强的，如 a tenacious opponent；名词 tenacity（坚韧，顽强）。来自拉丁语 tenax（紧紧抓住的）。本句视频译为“锲而不舍的/坚持不懈的”。"
+   },
+   {
+    "term": "toil",
+    "explain": "名词，辛劳，苦工，不可数，较书面；作动词时意为“辛苦工作”，如 toil away at sth。本句 years of toil 视频译为“多年的辛劳/辛苦工作”。"
+   },
+   {
+    "term": "remedy",
+    "explain": "名词，药物，疗法，常接 for，如 a remedy for colds；也指“补救办法”，如 a remedy for unemployment。本句视频译为“良药”，与第6句的 a curiosity rather than a cure 首尾呼应：青霉素终于从稀罕物变成了药物。"
+   }
+  ],
+  "translation_tip": "视频译文“机缘把霉菌送进了弗莱明的培养皿；几支锲而不舍的/坚持不懈的团队加上多年的辛劳/辛苦工作，把它转化成了良药。”的处理：①保留无灵主语 Fortune，译为“机缘”；put sth in sth 用“把”字句译为“把霉菌送进了”，“送进”比“放进”更能体现拟人色彩。②保留分号，前后两个分句的对照与原文一致。③复数 teams 增补量词，译为“几支……团队”；连接两个主语的 and 译为“加上”，突出团队与时间两方面的投入。④transform A into B 译为“把A转化成了B”，remedy 译为“良药”，与全句的褒扬语气一致。"
+ }
+]
