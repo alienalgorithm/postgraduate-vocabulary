@@ -1,0 +1,1734 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "cholera（前一分句）；upwards of 500 people（后一分句）",
+   "predicate": "ravaged（前一分句）；perished（后一分句）",
+   "object_or_complement": "an overcrowded corner of London's Soho（ravaged 的宾语；后一分句没有宾语）",
+   "explain": "全句是由分号连接的两个并列分句。前一分句 cholera ravaged an overcrowded corner 是主谓宾结构，ravage 为及物动词；后一分句 upwards of 500 people perished 是主谓结构，perish 为不及物动词。两个谓语都是一般过去时，主动语态，叙述1854年发生的事件。"
+  },
+  "components": [
+   {
+    "text": "In the first ten days of September 1854,",
+    "zh": "1854年9月上旬",
+    "role": "时间状语（介词短语），管辖后面两个分句"
+   },
+   {
+    "text": "cholera",
+    "zh": "霍乱",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "ravaged",
+    "zh": "肆虐",
+    "role": "前一分句的谓语（及物动词）"
+   },
+   {
+    "text": "an overcrowded corner",
+    "zh": "一个拥挤不堪的角落",
+    "role": "宾语（ravaged 的宾语），overcrowded 作前置定语"
+   },
+   {
+    "text": "of London's Soho;",
+    "zh": "伦敦苏豪区",
+    "role": "后置定语（介词短语），修饰 corner；London's 是名词所有格"
+   },
+   {
+    "text": "upwards of 500 people",
+    "zh": "超过/多于500人",
+    "role": "后一分句的主语（upwards of 修饰数词 500）"
+   },
+   {
+    "text": "perished.",
+    "zh": "丧生",
+    "role": "后一分句的谓语（不及物动词）"
+   }
+  ],
+  "structure": "①句首 In the first ten days of September 1854 是介词短语作时间状语，管辖后面两个分句。the first ten days of September 字面是“九月的前十天”，视频按汉语习惯译为“9月上旬”。英语日期写作 September 1854，月在前、年在后；汉语按“年、月”顺序写作“1854年9月”。\n②前一分句主语 cholera，谓语 ravaged，宾语 an overcrowded corner。of London's Soho 是介词短语作后置定语，修饰 corner；London's 是名词所有格，表示苏豪区隶属伦敦。overcrowded 作前置定语，交代这片街区人口过密，为疫情迅速蔓延埋下伏笔。\n③分号后是后一分句：upwards of 500 people 作主语，upwards of 相当于 more than，修饰数词 500；谓语 perished 是不及物动词，不带宾语。\n④分号表明两个分句地位平等、意思紧密相连：前一分句说霍乱肆虐，后一分句给出死亡人数，说明疫情的惨烈程度，两者之间没有用连词。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接两个并列分句",
+    "explain": "分号可以连接两个语法上各自完整、意思上联系紧密的独立分句，连接的紧密程度介于句号和逗号加 and 之间，而且不需要连词。本句前一分句讲霍乱肆虐，后一分句用死亡人数加以印证，两层意思靠分号直接衔接。考研写作中，两个完整分句之间只用逗号连接属于逗号粘连（comma splice）错误，应改用分号、句号，或在逗号后加 and、but 等并列连词。分号后如果接 however、therefore 等连接副词，副词后通常再加逗号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The drought lasted for three summers; thousands of farmers abandoned their land.",
+      "zh": "旱灾持续了三个夏天；数千名农民弃田而去。"
+     },
+     {
+      "en": "Prices rose sharply in the spring; however, wages remained flat.",
+      "zh": "春季物价大幅上涨；然而工资却原地踏步。"
+     }
+    ]
+   },
+   {
+    "title": "无灵主语与及物动词 ravage",
+    "explain": "英语常用疾病、战争、灾害等无生命的事物作主语，后接及物动词，把它写成动作的发出者，如 cholera ravaged an overcrowded corner。汉语较少这样说，翻译时往往把宾语转成地点状语，把动词放到句末，本句就译为“霍乱在……角落肆虐”，而不是“霍乱蹂躏了一个角落”。ravage 是及物动词，常用被动语态 be ravaged by（遭受……的严重破坏），如 a country ravaged by war。考研翻译遇到无灵主语句，要先弄清主语与动词的逻辑关系，再按汉语习惯调整成分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A severe drought ravaged the region's harvest, pushing food prices to record highs.",
+      "zh": "一场严重的旱灾毁掉了该地区的收成，把粮价推到了历史最高点。"
+     },
+     {
+      "en": "The town had been ravaged by floods twice in a decade.",
+      "zh": "这座小镇十年间两度遭受洪水的严重破坏。"
+     }
+    ]
+   },
+   {
+    "title": "upwards of 修饰数词",
+    "explain": "upwards of 用在数词前，意为“超过，多于”，相当于 more than，新闻报道中常用来强调数量之大。它整体修饰后面的数词，upwards of 500 people 作主语时中心词是 people，谓语按复数处理。of 在这里没有“属于”的意思，不能把短语理解为“向上的……”。同义表达还有 over 和 in excess of，后者多用于金额、数量的正式表述。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Upwards of 2,000 volunteers turned up to clean the beach after the oil spill.",
+      "zh": "石油泄漏事故发生后，2000多名志愿者赶来清理海滩。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cholera",
+    "explain": "霍乱，一种急性肠道传染病，病原体是霍乱弧菌（Vibrio cholerae），主要经被污染的水和食物传播，症状是剧烈腹泻和呕吐，可迅速致人脱水死亡。cholera 经拉丁语来自希腊语 kholera，与 khole（胆汁）有关。本文讲的正是霍乱经饮水传播这一结论如何被证实。"
+   },
+   {
+    "term": "Soho",
+    "explain": "苏豪区，伦敦西区的一片街区，今属威斯敏斯特市（City of Westminster）。London's Soho 用名词所有格表示隶属关系，视频按“伦敦、苏豪区”由大到小译出。"
+   },
+   {
+    "term": "the first ten days of September",
+    "explain": "字面是“九月的前十天”，视频译为“9月上旬”。汉语把一个月分为上旬、中旬、下旬，英语没有对应的固定词，常说 early September 或 the first ten days of September；中旬可说 mid-September，下旬可说 late September。"
+   },
+   {
+    "term": "perish",
+    "explain": "不及物动词，意为“丧生，死亡”，比 die 正式，多用于战争、灾难、疫病、事故中的死亡，如 perish in a fire。它没有被动语态。"
+   }
+  ],
+  "translation_tip": "视频译文“1854年9月上旬，霍乱在伦敦苏豪区一个拥挤不堪的角落肆虐；超过/多于500人丧生。”的处理：①the first ten days of September 1854 按汉语日期顺序改为“1854年9月上旬”，用“上旬”概括 first ten days。②前一分句的宾语 an overcrowded corner of London's Soho 转为地点状语“在……角落”，谓语 ravaged 放到句末译为“肆虐”，符合汉语“某物在某地肆虐”的说法；后置定语 of London's Soho 前移，地名按“伦敦、苏豪区”由大到小排列。③保留原文的分号；后一分句 upwards of 500 people perished 按原语序译为“超过/多于500人丧生”，视频用斜线给出“超过”“多于”两种译法。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Most doctors",
+   "predicate": "attributed",
+   "object_or_complement": "epidemics（宾语）；to miasma 与谓语构成 attribute A to B",
+   "explain": "主干是 Most doctors attributed epidemics to miasma，主谓宾结构，to miasma 是 attribute A to B 中不可缺少的介词短语。谓语 attributed 为一般过去时，主动语态，叙述当时多数医生的看法。"
+  },
+  "components": [
+   {
+    "text": "Most doctors",
+    "zh": "多数医生",
+    "role": "主语"
+   },
+   {
+    "text": "attributed",
+    "zh": "把……归因于",
+    "role": "谓语（与后面的 to 构成 attribute A to B）"
+   },
+   {
+    "text": "epidemics",
+    "zh": "这次 流行病/（霍乱）疫情",
+    "role": "宾语（attribute A to B 中的 A）"
+   },
+   {
+    "text": "to miasma,",
+    "zh": "瘴气",
+    "role": "介词短语（attribute A to B 中的 to B），表示被认为的原因"
+   },
+   {
+    "text": "foul air",
+    "zh": "也就是……污浊的空气",
+    "role": "同位语，解释 miasma"
+   },
+   {
+    "text": "arising from filth.",
+    "zh": "从污秽中产生的",
+    "role": "后置定语（现在分词短语），修饰 foul air"
+   }
+  ],
+  "structure": "①主句是 Most doctors attributed epidemics to miasma。attribute A to B 意为“把A归因于B”（视频说明“attribute A to B：把A归因于B”），A 是 epidemics，B 是 miasma。epidemics 是复数，视频联系首句所写的霍乱，译为“这次 流行病/（霍乱）疫情”。\n②逗号后的 foul air 是同位语，解释 miasma（视频说明“foul air…：同位语，解释 miasma”），说明“瘴气”指的是污浊的空气。miasma 是较生僻的术语，作者紧接着用通俗说法加以解释，这是外刊常见的写法。\n③arising from filth 是现在分词短语作后置定语，修饰 foul air，相当于 which arose from filth。arise 是不及物动词，空气“产生于”污秽是主动关系，所以用现在分词；from filth 说明来源。\n④本句交代当时医学界的主流观点：疾病由污浊空气引起。下一句斯诺怀疑的却是饮水，两句形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "attribute A to B 及其被动式",
+    "explain": "attribute A to B 表示“认为A是由B引起的，把A归因于B”，A 是结果，B 是原因，与 put A down to B 意思相近。本句 A 是 epidemics（结果），B 是 miasma（被认为的原因）。被动式 A is attributed to B 在考研阅读中更常见，如 The decline is attributed to rising costs。易错点：to 是介词，后接名词或动名词，不接动词原形；不要把因果看反，to 后面才是原因。attribute 还可表示“认为（作品、言论）出自某人”，如 a painting attributed to Rembrandt。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers attribute the rise in childhood asthma partly to air pollution.",
+      "zh": "研究人员认为，儿童哮喘病例增多部分是由空气污染造成的。"
+     },
+     {
+      "en": "The company's poor results were attributed to weak demand in Europe.",
+      "zh": "该公司业绩不佳被归因于欧洲市场需求疲软。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语，解释前面的术语",
+    "explain": "同位语是对前面名词的进一步说明，两者指同一事物，常用逗号隔开，去掉后句子结构仍然完整。外刊和考研阅读常先用一个专业术语，再用同位语给出通俗解释，本句 miasma 后面紧跟 foul air arising from filth，说明“瘴气”就是“污浊的空气”。阅读时，这类同位语往往就是生词的释义，可借此推断词义；翻译时可用“也就是”“即”引出，视频译为“也就是……污浊的空气”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The patient suffered from insomnia, a persistent inability to fall or stay asleep.",
+      "zh": "这位病人患有失眠症，也就是长期难以入睡或难以保持睡眠。"
+     },
+     {
+      "en": "Many coastal towns depend on aquaculture, the farming of fish and shellfish.",
+      "zh": "许多沿海城镇依靠水产养殖，即养殖鱼类和贝类为生。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示与被修饰名词之间的主动关系或正在进行的状态，相当于一个定语从句。本句 arising from filth 修饰 foul air，相当于 which arose from filth。arise 是不及物动词，不能用于被动结构，与名词之间只能是主动关系，所以用 arising。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Problems arising from poor planning can be costly to fix.",
+      "zh": "规划不周引发的问题，补救起来代价可能很高。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "miasma",
+    "explain": "瘴气，源自希腊语 miasma，意为“污染，玷污”。瘴气论（miasma theory）认为霍乱等疾病是由腐烂物质散发的有害空气引起的，在19世纪中叶仍是医学界的主流观点，19世纪后期细菌学说（germ theory）确立后逐渐被取代。本文斯诺的饮水说正是对瘴气论的挑战。"
+   },
+   {
+    "term": "foul",
+    "explain": "形容词，本义是“恶臭的，污浊的”，foul air 即污浊的空气，foul smell 即恶臭。foul 在体育中作名词和动词，意为“犯规”（commit a foul）；口语中还表示“糟糕的”，如 in a foul mood（心情很坏）。"
+   },
+   {
+    "term": "arise from",
+    "explain": "表示“由……产生，因……引起”，主语多为问题、困难、争议等抽象名词，如 difficulties arising from the new law。arise 的过去式和过去分词是 arose、arisen，注意不要与 arouse（唤起，激起）混淆。"
+   },
+   {
+    "term": "epidemic",
+    "explain": "流行病，疫情，指在一定时间、地区内迅速传播、病例激增的疾病。相关词：pandemic（大流行病，跨国或全球范围）、endemic（地方病，在某地长期存在）、outbreak（暴发）。"
+   }
+  ],
+  "translation_tip": "视频译文“多数医生把这次 流行病/（霍乱）疫情归因于瘴气，也就是从污秽中产生的、污浊的空气。”的处理：①attribute A to B 用“把A归因于B”的“把”字句译出，因果关系一目了然。②epidemics 结合首句所写的霍乱，译为“这次 流行病/（霍乱）疫情”，斜线后的“（霍乱）疫情”点明所指。③同位语 foul air 用“也就是”引出，对“瘴气”加以解释。④现在分词短语 arising from filth 前置为定语“从污秽中产生的”，与 foul 对应的“污浊的”一起修饰“空气”，两个定语之间用顿号隔开。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "John Snow",
+   "predicate": "suspected",
+   "object_or_complement": "the Broad Street pump",
+   "explain": "主干是 John Snow suspected the Broad Street pump，主谓宾结构。主语后插入很长的同位语和定语从句，谓语 suspected 直到句子后部才出现。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "John Snow,",
+    "zh": "约翰·斯诺",
+    "role": "主语"
+   },
+   {
+    "text": "a physician",
+    "zh": "一位内科医生",
+    "role": "同位语，补充说明 John Snow 的身份"
+   },
+   {
+    "text": "who had been convinced",
+    "zh": "就确信",
+    "role": "定语从句（who 引导，修饰 a physician）的主语和谓语，who 在从句中作主语"
+   },
+   {
+    "text": "since 1849",
+    "zh": "自1849年起",
+    "role": "定语从句中的时间状语（介词短语），与过去完成时连用"
+   },
+   {
+    "text": "that cholera's poison was swallowed,",
+    "zh": "霍乱的毒素是被吞进体内的",
+    "role": "that 引导的宾语从句，作形容词 convinced 的宾语（be convinced that…）；that 只起连接作用，在从句中不充当成分"
+   },
+   {
+    "text": "not inhaled,",
+    "zh": "而非吸入体内的",
+    "role": "省略结构，相当于 and was not inhaled，与 was swallowed 构成对比"
+   },
+   {
+    "text": "suspected",
+    "zh": "他怀疑",
+    "role": "谓语"
+   },
+   {
+    "text": "the Broad Street pump.",
+    "zh": "问题出在宽街那口水泵上",
+    "role": "宾语（街名 Broad Street 作定语，修饰 pump）"
+   }
+  ],
+  "structure": "①主句是 John Snow suspected the Broad Street pump。主语 John Snow 与谓语 suspected 之间隔着很长的插入成分，阅读时要从 John Snow 直接跳到 suspected，才能抓住主干。\n②a physician 是同位语，说明斯诺的身份；who had been convinced since 1849 that… 是定语从句，修饰 a physician，who 在从句中作主语。从句谓语 had been convinced 是过去完成时，配合 since 1849，表示这种确信从1849年起一直持续到1854年疫情发生时。\n③that 引导的从句作 convinced 的宾语，be convinced that… 意为“确信……”；that 只起连接作用，在从句中不充当任何成分。从句主语是 cholera's poison，谓语 was swallowed 是一般过去时被动语态。\n④not inhaled 是省略结构，完整说法是 and was not inhaled，与 was swallowed 构成“是A，而非B”的对比。swallowed（吞咽）与 inhaled（吸入）分别代表经口传播和经空气传播两种观点，直接回应上一句的瘴气论。\n⑤宾语 the Broad Street pump 中，Broad Street 是街名作定语。suspect sth 在这里指怀疑某物是祸根，视频据此译为“问题出在宽街那口水泵上”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "主谓之间插入同位语和定语从句",
+    "explain": "英语主语后常插入同位语、定语从句等较长的修饰成分，使主语与谓语相隔很远。本句主语 John Snow 后面依次是同位语 a physician、修饰它的定语从句 who had been convinced…，从句里又套了 that 从句，谓语 suspected 直到句子后部才出现。分析这类句子，先找出逗号隔开的插入部分，再把主语和谓语连起来读：John Snow … suspected the Broad Street pump。考研阅读长难句和翻译题常用这种结构考查找主干的能力，误把从句里的 was swallowed 或 inhaled 当成主句谓语，整句就会读错。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, a scientist who had already won a Nobel Prize for her research on radioactivity, received a second one in 1911.",
+      "zh": "玛丽·居里，一位已因放射性研究获得过诺贝尔奖的科学家，于1911年再次获得诺贝尔奖。"
+     },
+     {
+      "en": "The mayor, a former teacher who had promised to improve local schools, cut the education budget in her first year.",
+      "zh": "这位市长曾是一名教师，承诺过要改善本地学校，上任第一年却削减了教育预算。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时与 since 连用",
+    "explain": "since + 过去时间点一般与完成时连用。叙述过去的事情时，如果某种状态从更早的时间点开始，一直持续到过去某一时刻，就用过去完成时 had done 或 had been。本句以1854年疫情为叙述的时间参照，斯诺从1849年起就一直确信霍乱经口传播，所以用 had been convinced since 1849。若以现在为参照，则用现在完成时，如 She has lived here since 2015。易错点：since 引出过去时间点时，谓语不能用一般过去时，不能说 He was convinced since 1849。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the factory finally closed in 2009, it had been losing money since the late 1990s.",
+      "zh": "这家工厂在2009年最终关闭，此前它从20世纪90年代末起就一直亏损。"
+     }
+    ]
+   },
+   {
+    "title": "A, not B 对比省略结构",
+    "explain": "“肯定成分 + not + 对比成分”是英语常见的对比省略结构，not 后省去与前面相同的部分，只保留需要对比的词。本句 was swallowed, not inhaled 相当于 was swallowed and was not inhaled，省去了重复的 was。这种结构简洁有力，把对立的两种观点并置。翻译时常用“是……，而非……”“是……，不是……”，视频译为“是被吞进体内的，而非吸入体内的”。同类结构还有 not A but B（不是A而是B）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The decision was made by the board, not the chief executive.",
+      "zh": "这个决定是董事会做出的，而非首席执行官。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "John Snow",
+    "explain": "约翰·斯诺（1813年至1858年），英国医生，也是麻醉学的先驱，1853年曾为维多利亚女王分娩施用氯仿。1849年他发表《论霍乱的传播方式》（On the Mode of Communication of Cholera），提出霍乱经被污染的水传播，与句中 since 1849 相合。他对宽街疫情的调查常被视为现代流行病学的奠基性研究。"
+   },
+   {
+    "term": "physician",
+    "explain": "英式英语中多指内科医生，与 surgeon（外科医生）相对；美式英语中泛指医生。注意与 physicist（物理学家）区分。"
+   },
+   {
+    "term": "be convinced that / of",
+    "explain": "确信……，深信……：be convinced that + 从句，或 be convinced of + 名词，如 She was convinced of his innocence。convinced 在此是形容词。动词 convince 意为“使相信”，常用 convince sb of sth、convince sb that…。"
+   },
+   {
+    "term": "the Broad Street pump",
+    "explain": "宽街水泵，苏豪区宽街上的一口公共水泵，附近居民从这里取水。宽街今名 Broadwick Street，街边立有这口水泵的复制品，纪念斯诺的发现。"
+   },
+   {
+    "term": "suspect",
+    "explain": "suspect sth 表示“怀疑某物（有问题、是祸根）”；suspect sb of sth 意为“怀疑某人犯有某事”；suspect that… 意为“猜想可能是……”。与 doubt 不同：doubt that… 表示“不太相信……”，suspect that… 则倾向于认为“很可能是……”。"
+   }
+  ],
+  "translation_tip": "视频译文“约翰·斯诺，一位内科医生，自1849年起就确信霍乱的毒素是被吞进体内的，而非吸入体内的，他怀疑问题出在宽街那口水泵上。”的处理：①没有把同位语和定语从句全部前置成“……的约翰·斯诺”，那样定语过长；而是按原文顺序拆开，先译主语“约翰·斯诺”，同位语“一位内科医生”用逗号隔开，单独译出。②定语从句 who had been convinced… 译成并列小句，“自1849年起就确信”把 since 1849 提到动词前，“就”体现过去完成时所含的持续意味。③not inhaled 补出“体内的”，与“是被吞进体内的”对称，形成“是……，而非……”的对比。④主语与谓语相隔太远，谓语前增补代词“他”重新提起主语；suspected the Broad Street pump 增译为“怀疑问题出在宽街那口水泵上”，说清怀疑的内容。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "he",
+   "predicate": "hesitated, then consulted … and questioned",
+   "object_or_complement": "the death register（consulted 的宾语）；bereaved families（questioned 的宾语）",
+   "explain": "主干是一个主语带三个谓语：he hesitated（主谓，hesitate 为不及物动词），then consulted the death register（主谓宾），and questioned bereaved families（主谓宾）。三个谓语都是一般过去时，主动语态，按动作先后排列。"
+  },
+  "components": [
+   {
+    "text": "Finding little visible impurity,",
+    "zh": "在泵水里没发现多少肉眼可见的杂质",
+    "role": "原因状语（现在分词短语），逻辑主语是 he"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语"
+   },
+   {
+    "text": "hesitated,",
+    "zh": "一时犹豫",
+    "role": "谓语一（不及物动词）"
+   },
+   {
+    "text": "then consulted",
+    "zh": "随后查阅了",
+    "role": "副词 then（表示先后）+ 谓语二"
+   },
+   {
+    "text": "the death register",
+    "zh": "死亡登记册",
+    "role": "宾语（consulted 的宾语）"
+   },
+   {
+    "text": "and questioned",
+    "zh": "又去询问",
+    "role": "并列连词 and + 谓语三"
+   },
+   {
+    "text": "bereaved families.",
+    "zh": "痛失亲人的家庭",
+    "role": "宾语（questioned 的宾语），bereaved 作前置定语"
+   }
+  ],
+  "structure": "①主句是 he hesitated, then consulted the death register and questioned bereaved families。一个主语 he 带三个谓语：hesitated 与后两个动作之间用逗号和副词 then 衔接，then 表示时间先后，相当于 and then；consulted 与 questioned 之间用 and 连接。\n②句首 Finding little visible impurity 是现在分词短语作原因状语（视频说明“Finding…：现在分词短语作状语，表示原因”），相当于 Because he found little visible impurity。分词的逻辑主语就是主句主语 he，所以可以省去主语、用分词形式。\n③little 修饰不可数名词 impurity，表示否定意义的“几乎没有”；visible 作前置定语，指肉眼能看见的。正因为水看上去不脏，斯诺对自己的怀疑一时没有把握，所以 hesitated。视频结合上句补出地点“在泵水里”。\n④hesitated 之后的两个动作说明斯诺换了调查方法：不再只看水质，而是查记录、访家属，从死者的住处和饮水情况入手，为下一句的发现作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作原因状语",
+    "explain": "现在分词短语放在句首作状语，可以表示原因、时间、条件、伴随等，具体含义靠上下文判断。本句 Finding little visible impurity 说明斯诺犹豫的原因，可改写为 Because he found little visible impurity。分词状语的逻辑主语必须与主句主语一致，本句发现杂质很少的人就是 he。逻辑主语不一致就成了垂悬分词（dangling participle），如 Walking into the room, the lights went out 是错句，灯不会走进房间。考研写作中用分词作状语能使句子紧凑，但一定要检查逻辑主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Realizing that he had missed the last train, he called a taxi.",
+      "zh": "他意识到自己错过了末班火车，便叫了一辆出租车。"
+     },
+     {
+      "en": "Not knowing the local language, the tourists relied on gestures to ask for directions.",
+      "zh": "游客们不会说当地语言，只好靠手势问路。"
+     }
+    ]
+   },
+   {
+    "title": "little 与 a little 的否定与肯定",
+    "explain": "little 和 a little 都修饰不可数名词，但意思相反：little 表示否定，意为“几乎没有，很少”；a little 表示肯定，意为“有一些”。few 与 a few 修饰可数名词，规律相同。本句 little visible impurity 强调几乎没有看得见的杂质，所以斯诺才会犹豫；视频译为“没发现多少……杂质”，译出了否定意味。考研阅读中，little、few 所在的句子往往带否定色彩，做推断题时不能理解反。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "There is little evidence that the new drug works better than existing treatments.",
+      "zh": "几乎没有证据表明这种新药比现有疗法更有效。"
+     },
+     {
+      "en": "With a little help from her neighbours, she managed to repair the roof.",
+      "zh": "在邻居们的一些帮助下，她设法修好了屋顶。"
+     }
+    ]
+   },
+   {
+    "title": "then 连接先后发生的谓语",
+    "explain": "then 是副词，意为“然后，接着”，常与 and 连用，连接先后发生的动作。新闻和叙事文体中也常见只用逗号加 then 的写法，如本句 he hesitated, then consulted…，读起来更紧凑。正式写作中，如果 then 连接的是两个完整分句，前面要用分号、句号或加 and，不能只用逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister paused, then answered the question in a low voice.",
+      "zh": "部长顿了一下，然后低声回答了这个问题。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "death register",
+    "explain": "死亡登记册，记录死者姓名、死亡日期、住址和死因等信息。英格兰和威尔士自1837年起实行出生、婚姻和死亡的民事登记，借助登记册可以查到死者的住址。register 在此是可数名词，意为“登记簿，名册”。"
+   },
+   {
+    "term": "bereaved",
+    "explain": "形容词，意为“痛失亲人的”，较正式，常用于讣告和新闻，如 bereaved families/parents；the bereaved 指死者家属，复数同形，可指一人也可指多人，谓语随所指人数用单数或复数。"
+   },
+   {
+    "term": "consult",
+    "explain": "consult 有两类常用意义：一是查阅（资料），如 consult a dictionary/map/the records；二是咨询、请教（某人），如 consult a doctor/lawyer。本句 consulted the death register 属于前者，视频译为“查阅了”。"
+   },
+   {
+    "term": "question",
+    "explain": "熟词僻义：question 作及物动词，意为“询问，盘问”（question sb about sth），如 Police questioned the driver about the accident；也可表示“对……表示怀疑”，如 question the official figures。本句 questioned bereaved families 取前一义，视频译为“询问”。"
+   }
+  ],
+  "translation_tip": "视频译文“在泵水里没发现多少肉眼可见的杂质，他一时犹豫，随后查阅了死亡登记册，又去询问痛失亲人的家庭。”的处理：①句首分词短语译成独立小句，结合上一句增补地点“在泵水里”，交代斯诺检查的是泵水；little 译为“没发现多少”，保留否定意味。②hesitated 加“一时”，说明这种犹豫是短暂的，引出后面的行动。③三个谓语按原顺序译成三个短句，then 译为“随后”，and 译为“又去”，体现调查一步步推进。④bereaved 前置为“痛失亲人的”，修饰“家庭”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Most victims",
+   "predicate": "lived … and drank",
+   "object_or_complement": "",
+   "explain": "主干是 Most victims lived near the pump and drank from it，一个主语带两个并列谓语。live 和 drink 在这里都不带宾语：near the pump 是地点状语，from it 说明所喝的水的来源。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Most victims",
+    "zh": "罹难者大多",
+    "role": "主语（most 直接修饰复数名词）"
+   },
+   {
+    "text": "lived",
+    "zh": "住在",
+    "role": "谓语一"
+   },
+   {
+    "text": "near the pump",
+    "zh": "这口泵附近",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "and drank",
+    "zh": "也喝过",
+    "role": "并列连词 and + 谓语二"
+   },
+   {
+    "text": "from it.",
+    "zh": "它的水",
+    "role": "状语（介词短语），表示水的来源，it 指 the pump"
+   }
+  ],
+  "structure": "①主句是 Most victims lived near the pump and drank from it，主语 Most victims 带两个由 and 连接的并列谓语。\n②lived near the pump 说明罹难者的住处，drank from it 说明他们的饮水来源，it 指代 the pump。两个谓语合在一起，把“住得近”和“喝过泵水”两个事实联系起来，这是斯诺查阅登记册、访问家属后得到的结果，矛头指向水泵。\n③drink from 后接取水或盛水的地方（a well、a pump、a cup 等），表示从那里取水喝，所以 drank from it 视频译为“喝过它的水”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "most 与 most of the 的区别",
+    "explain": "most 直接修饰复数可数名词或不可数名词，表示“大多数”，名词前不加 the，如 most people、most victims；指特定的一群人或物中的大多数时，常说 most of + the/these/代词 + 名词，如 most of the victims、most of them。本句 Most victims 的范围由上下文限定为这场霍乱的死者。易错点：不能说 most of victims；the most 是最高级，the most victims 意为“最多的罹难者”，不表示“大多数罹难者”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Most people underestimate how much sugar they eat.",
+      "zh": "大多数人都低估了自己吃下的糖量。"
+     },
+     {
+      "en": "Most of the passengers on the delayed flight were offered hotel rooms.",
+      "zh": "延误航班上的大多数乘客都被安排了酒店房间。"
+     }
+    ]
+   },
+   {
+    "title": "drink 的及物与不及物用法",
+    "explain": "drink 作及物动词时后接所喝的东西，如 drink water、drink tea；作不及物动词时可用 from 引出来源，如 drink from a well（喝井里的水）、drink from the tap（喝自来水）、drink from a bottle（对着瓶子喝）。本句 drank from it 中 it 指 the pump，说的是从这口泵取水喝，所以视频译为“喝过它的水”。第17句 those who drank from the pump 用的是同一结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In many villages, people still drink from wells that have never been tested.",
+      "zh": "在许多村庄，人们仍在饮用从未检测过的井水。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "victim",
+    "explain": "受害者，罹难者，指在疾病、灾难、犯罪、战争中受害或死去的人，如 flood victims（洪水遇难者）、cholera victims（霍乱死者）。常用搭配 fall victim to（成为……的受害者）。本文指在霍乱中死去的人，视频译为“罹难者”。"
+   },
+   {
+    "term": "住得近与喝过泵水",
+    "explain": "本句把两个事实并列：死者住在水泵附近，也喝过泵水。只凭“住得近”，瘴气论者也可以说是泵附近空气污浊；“喝过泵水”才把病因指向饮水。第9句 a map could chart where people died, not what they drank 强调的正是这一区别。"
+   }
+  ],
+  "translation_tip": "视频译文“罹难者大多住在这口泵附近，也喝过它的水。”的处理：①Most victims 没有译成“大多数罹难者”，而是把 most 转成副词“大多”放在主语后，句子更紧凑，也符合汉语习惯。②the pump 承上文译为“这口泵”，加“这口”明确指宽街那口水泵。③and drank from it 用“也”衔接，表示两个事实同时成立；drink from it 补出宾语，译为“喝过它的水”，“过”表示经历。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "parish officials（前一分句）；daily fatal attacks（后一分句）",
+   "predicate": "removed（前一分句）；had already plunged（后一分句）",
+   "object_or_complement": "the handle（removed 的宾语；后一分句没有宾语）",
+   "explain": "全句是 but 连接的两个并列分句。前一分句 parish officials removed the handle 是主谓宾结构，一般过去时；后一分句 daily fatal attacks had already plunged 是主谓结构，plunge 为不及物动词，用过去完成时，表示骤降在卸下泵柄之前就已发生。两个分句都是主动语态。"
+  },
+  "components": [
+   {
+    "text": "At his urging,",
+    "zh": "在他的敦促下",
+    "role": "状语（介词短语，at sb's urging），说明卸下泵柄的起因"
+   },
+   {
+    "text": "parish officials",
+    "zh": "教区官员",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "removed",
+    "zh": "卸下了",
+    "role": "前一分句的谓语"
+   },
+   {
+    "text": "the handle,",
+    "zh": "泵柄",
+    "role": "宾语（removed 的宾语）"
+   },
+   {
+    "text": "but",
+    "zh": "可这时",
+    "role": "并列连词，表示转折"
+   },
+   {
+    "text": "daily fatal attacks",
+    "zh": "每天新发的致死病例",
+    "role": "后一分句的主语（daily、fatal 作前置定语）"
+   },
+   {
+    "text": "had already plunged",
+    "zh": "早已……骤降",
+    "role": "后一分句的谓语（过去完成时）"
+   },
+   {
+    "text": "from a peak of 143",
+    "zh": "从143例的峰值",
+    "role": "状语（介词短语），表示下降的起点；of 143 作 peak 的后置定语"
+   },
+   {
+    "text": "to 12.",
+    "zh": "到12例",
+    "role": "状语（介词短语），表示下降的终点"
+   }
+  ],
+  "structure": "①全句由 but 连接两个并列分句，语义上转折：官员按斯诺的意见卸下了泵柄，但疫情在此之前已大幅回落。\n②前一分句：At his urging 是介词短语作状语，at sb's urging 意为“在某人的敦促下”，urging 在这里是名词；主语 parish officials，谓语 removed，宾语 the handle（泵柄）。泵柄卸下后，居民就无法再从这口泵取水。\n③后一分句：主语 daily fatal attacks，daily 和 fatal 都是前置定语，attack 指疾病发作（视频说明“attack：疾病发作”），fatal attacks 即致死的发病，视频译为“致死病例”。谓语 had already plunged 用过去完成时，already 强调骤降早在卸泵柄之前就已完成。from a peak of 143 to 12 说明下降的起点和终点（视频说明“plunge from A to B：从A骤降到B”）。\n④本句暗含作者的论证：既然病例在卸泵柄之前已经骤降，就不能把疫情回落全部归功于卸下泵柄。真正有说服力的证据另有所在，第10句随即指出关键证据在于例外。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "叙述过去发生的两件事时，先发生的那件常用过去完成时（had done），后发生的用一般过去时。本句 removed the handle 是一般过去时，had already plunged 是过去完成时，说明病例骤降发生在卸泵柄之前，already 进一步强调这一点。如果后一分句也用一般过去时 plunged，读者就可能以为病例是在卸泵柄之后才下降的，作者的论证也就落空了。考研阅读中，过去完成时常用来提示时间先后，是推断作者观点的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the rescue team arrived, the floodwaters had already begun to recede.",
+      "zh": "救援队赶到时，洪水已经开始消退。"
+     },
+     {
+      "en": "By the time the law was passed, most companies had already changed their practices.",
+      "zh": "这项法律通过时，大多数公司已经改变了做法。"
+     }
+    ]
+   },
+   {
+    "title": "at sb's urging 类介词短语",
+    "explain": "at + 名词所有格 + 名词 可以表示“应某人的……，在某人的……下”，说明动作的起因，常见的有 at sb's urging（在某人的敦促下）、at sb's request（应某人的请求）、at sb's invitation（应某人的邀请）、at sb's suggestion（按照某人的建议）。本句 At his urging 说明官员是在斯诺的敦促下才卸下泵柄的。写作中可用 at the request of sb 这类正式表达代替 because sb asked。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "At her doctor's suggestion, she cut down on salt and began walking every day.",
+      "zh": "她听从医生的建议，减少了盐的摄入，并开始每天散步。"
+     }
+    ]
+   },
+   {
+    "title": "plunge from A to B 描述数据变化",
+    "explain": "描述数据下降时，plunge、plummet 表示急剧下降，fall、drop、decline 是一般说法；上升可用 rise、climb、soar。起点和终点分别用 from 和 to 引出，降幅用 by，如 fell by 20%（下降了20%），fell to 20%（降到20%）。本句 plunged from a peak of 143 to 12 意为从143例的峰值骤降到12例，a peak of 143 中的 of 引出峰值的具体数目。英语二图表作文常用这类表达。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Sales plunged from 4.2 million units in 2019 to 1.8 million in 2020.",
+      "zh": "销量从2019年的420万台骤降到2020年的180万台。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "attack",
+    "explain": "熟词僻义：attack 在医学语境中指疾病的发作，如 a heart attack（心脏病发作）、an asthma attack（哮喘发作）、an attack of flu（患流感）。本句 fatal attacks 指致死的发病，视频译为“致死病例”。"
+   },
+   {
+    "term": "parish",
+    "explain": "教区。在当时的英国，教区既是教会的基层单位，也是地方管理的基本单位，教区机构负责济贫等地方事务，所以由教区官员决定卸下泵柄。"
+   },
+   {
+    "term": "the handle",
+    "explain": "指水泵的手柄，即压水用的泵柄。卸下泵柄，水泵就无法使用。remove the pump handle 后来在公共卫生领域成为及时切断传染源的代称。"
+   },
+   {
+    "term": "peak",
+    "explain": "名词，意为“峰值，最高点”；作定语表示“高峰的”，如 peak hours（高峰时段）；作动词意为“达到顶峰”，如 Sales peaked in December。"
+   }
+  ],
+  "translation_tip": "视频译文“在他的敦促下，教区官员卸下了泵柄，可这时每天新发的致死病例早已从143例的峰值骤降到12例。”的处理：①At his urging 译为“在他的敦促下”，放在句首。②but 译为“可这时”，增补“这时”点明时间参照点就是卸泵柄的时候，再配合“早已”译出过去完成时 had already plunged 所表示的先后关系。③daily fatal attacks 增译“新发的”，“每天新发的致死病例”说清 attacks 指每天新出现的发病。④from a peak of 143 to 12 补出量词“例”，后置定语 of 143 前置为“143例的”，译为“从143例的峰值骤降到12例”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "He",
+   "predicate": "mapped",
+   "object_or_complement": "the deaths",
+   "explain": "主干就是全句，主谓宾结构，later 是时间状语。谓语 mapped 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "zh": "他",
+    "role": "主语"
+   },
+   {
+    "text": "later",
+    "zh": "后来",
+    "role": "时间状语（副词）"
+   },
+   {
+    "text": "mapped",
+    "zh": "把……标在了地图上",
+    "role": "谓语（名词 map 转作及物动词）"
+   },
+   {
+    "text": "the deaths.",
+    "zh": "死亡病例",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①本句是简单句，主语 He，谓语 mapped，宾语 the deaths；later 是副词作时间状语，放在主语和谓语之间。\n②map 本是名词“地图”，这里作及物动词，意为“在地图上标出”，map the deaths 即把各处的死亡病例标在地图上。\n③death 作抽象名词时意为“死亡”，这里用复数 the deaths 指一个个死亡事例，所以视频译为“死亡病例”。\n④本句很短，起承上启下的作用：上文写斯诺调查死者，本句引出那张地图，下一段围绕这张地图展开，讨论它能说明什么、不能说明什么。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词转作动词",
+    "explain": "英语中不少名词可以直接用作动词，词形不变，意义与名词相关，如 map（地图；在地图上标出）、chart（图表；用图表记录）、host（主人；主办）、shoulder（肩膀；承担）。本句 mapped the deaths 中 map 作及物动词，第9句的 chart 同样是名词转作动词。考研阅读常利用这类熟词僻义设题，熟悉的名词出现在谓语位置时，要按动词理解。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Volunteers mapped every tree in the park to monitor its health.",
+      "zh": "志愿者把公园里的每一棵树都标在地图上，以便监测树木的健康状况。"
+     },
+     {
+      "en": "The two countries agreed to shoulder the cost of the new bridge equally.",
+      "zh": "两国同意平摊新桥的建设费用。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词用作可数名词表示具体事例",
+    "explain": "death、failure、success、kindness 等抽象名词，作不可数名词时表示概念本身，用作可数名词（加 a 或用复数）时表示具体的人、事或事例。本句 the deaths 指一个个死亡病例；cause of death（死因）中的 death 则是不可数的抽象用法。同样，a success 指一件成功的事或一个成功的人，failures 指一次次失败。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Road deaths have fallen steadily over the past decade.",
+      "zh": "过去十年，道路交通死亡人数持续下降。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "斯诺的霍乱地图",
+    "explain": "斯诺在宽街一带的街道图上，用短横线在各户门前标出死亡人数，并标出各个公用水泵的位置，直观显示死亡病例集中在宽街水泵周围。这张地图收入他1855年出版的《论霍乱的传播方式》第二版，是流行病学史上最著名的地图之一。"
+   },
+   {
+    "term": "later",
+    "explain": "副词，意为“后来，以后”，常放在实义动词前或句末。不要与 latter（后者）和 lately（最近）混淆。"
+   }
+  ],
+  "translation_tip": "视频译文“他后来把死亡病例标在了地图上。”的处理：①mapped 是名词转作的动词，汉语没有对应的单个动词，视频用“把”字句展开为“把……标在了地图上”。②the deaths 指一个个死亡事例，增译为“死亡病例”。③later 按汉语习惯放在主语后、谓语前，译为“后来”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Edmund Parkes",
+   "predicate": "interpreted",
+   "object_or_complement": "the cluster on that map（宾语）；as a poison drifting through the air（宾语补足语）",
+   "explain": "主干是 Edmund Parkes interpreted the cluster as a poison，主谓宾加宾语补足语结构，interpret A as B 中的 as 短语作宾语补足语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1855",
+    "zh": "1855年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Edmund Parkes,",
+    "zh": "埃德蒙·帕克斯",
+    "role": "主语"
+   },
+   {
+    "text": "a professor of clinical medicine,",
+    "zh": "一位临床医学教授",
+    "role": "同位语，说明 Edmund Parkes 的身份"
+   },
+   {
+    "text": "interpreted",
+    "zh": "把……解读",
+    "role": "谓语（与 as 构成 interpret A as B）"
+   },
+   {
+    "text": "the cluster",
+    "zh": "这种聚集",
+    "role": "宾语"
+   },
+   {
+    "text": "on that map",
+    "zh": "那张地图上",
+    "role": "后置定语（介词短语），修饰 the cluster"
+   },
+   {
+    "text": "as a poison",
+    "zh": "为……毒素所致",
+    "role": "宾语补足语（as 引导的介词短语）"
+   },
+   {
+    "text": "drifting through the air.",
+    "zh": "空气中飘散的",
+    "role": "后置定语（现在分词短语），修饰 a poison"
+   }
+  ],
+  "structure": "①主句是 Edmund Parkes interpreted the cluster on that map as a poison drifting through the air。interpret A as B 意为“把A解读为B”（视频说明“interpret A as B：把A解读为B”），A 是 the cluster on that map，B 是 a poison drifting through the air。\n②句首 In 1855 是时间状语；a professor of clinical medicine 是同位语，交代帕克斯的身份，与第3句介绍斯诺的写法相同，用逗号与主语隔开。\n③宾语 the cluster 指地图上死亡病例聚集在一起的现象，on that map 是介词短语作后置定语，that map 回指第7句斯诺画的地图。\n④drifting through the air 是现在分词短语作后置定语，修饰 a poison（视频说明“drifting…：现在分词短语作后置定语”），相当于 which drifted through the air。帕克斯沿用瘴气论，认为病例扎堆是空气中飘散的毒素造成的。\n⑤as a poison 在语义上指聚集现象由毒素造成，视频据此译为“为空气中飘散的毒素所致”。同一张地图可以得出不同的解读，这就引出下一句对地图局限的分析。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "interpret A as B：as 短语作宾语补足语",
+    "explain": "interpret、regard、see、view、treat、describe 等动词常用于“动词 + 宾语 + as + 名词/形容词”结构，as 短语说明宾语被看作什么，作宾语补足语。本句 interpreted the cluster as a poison 意为“把这种聚集解读为毒素所致”。被动式 A is interpreted as B 在考研阅读中很常见。易错点：regard 必须与 as 连用，不能说 regard A B；consider 则通常直接说 consider A (to be) B，一般不加 as。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some economists interpreted the sudden drop in prices as a sign of weakening demand.",
+      "zh": "一些经济学家把价格的突然下跌解读为需求疲软的信号。"
+     },
+     {
+      "en": "His silence was widely interpreted as an admission of guilt.",
+      "zh": "他的沉默被普遍解读为认罪。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语表示主动",
+    "explain": "现在分词短语作后置定语，表示被修饰名词主动发出的动作或正在进行的状态。本句 a poison drifting through the air 中，毒素在空气中飘散，是主动、持续的状态，所以用 drifting，相当于 a poison which drifted through the air。考研长难句中，名词后接 -ing 短语时，先看句中是否已有谓语：本句谓语是 interpreted，drifting 只能作定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Smoke drifting from the factory chimneys could be seen for miles.",
+      "zh": "从工厂烟囱飘出的烟几英里外都能看见。"
+     }
+    ]
+   },
+   {
+    "title": "句首短时间状语后的逗号",
+    "explain": "句首较短的时间或地点状语（如 In 1855、Last year）后面，逗号可加可不加，本句 In 1855 Edmund Parkes 没有加逗号，第16句 In 1855 a government inquiry 也一样。状语较长或容易引起误读时，一般要加逗号，如第1句 In the first ten days of September 1854 后面就用了逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In 2010 the city opened its first metro line.",
+      "zh": "2010年，这座城市开通了第一条地铁线路。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "clinical medicine",
+    "explain": "临床医学，指直接诊断和治疗病人的医学，与基础医学相对。clinical 经拉丁语 clinicus 来自希腊语 klinikos（床的，与病床有关的），词根是 klinē（床），常见搭配有 clinical trial（临床试验）、clinical practice（临床实践）。clinical 还可表示“冷静客观的，不带感情的”，如 a clinical tone。"
+   },
+   {
+    "term": "cluster",
+    "explain": "本句指死亡病例在地图上集中出现的现象，即病例聚集。流行病学中 a cluster of cases 指在某一时间、地点异常集中的病例。cluster 作动词意为“聚集，簇拥”，如 cluster around the fire。"
+   },
+   {
+    "term": "drift",
+    "explain": "指随气流或水流缓慢飘移，如 snow drifting across the road；引申为“逐渐转变，漫无目的地移动”，如 drift into sleep、drift from job to job。本句 drifting through the air 体现了瘴气论的想象：毒素随空气飘散，飘到哪里，哪里就有人发病。"
+   }
+  ],
+  "translation_tip": "视频译文“1855年，埃德蒙·帕克斯，一位临床医学教授，看到那张地图上死者扎堆，便把这种聚集解读为空气中飘散的毒素所致。”的处理：①同位语 a professor of clinical medicine 保留在原位置，用逗号隔开单独译出，与第3句介绍斯诺的处理一致。②宾语 the cluster on that map 拆开处理：先增译“看到那张地图上死者扎堆”，交代 cluster 指什么，再用“便把这种聚集解读为……”接上，“这种”回指“死者扎堆”。③as a poison 增补“所致”，译为“为……毒素所致”，说明聚集是毒素造成的，避免“把聚集解读为毒素”这种搭配不当。④现在分词短语 drifting through the air 前置为定语“空气中飘散的”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "a map",
+   "predicate": "could chart",
+   "object_or_complement": "where people died（宾语从句）",
+   "explain": "主干是 a map could chart where people died，主谓宾结构，宾语是 where 引导的宾语从句；not what they drank 是省略结构，与前一个宾语形成对比。谓语由情态动词 could 加动词原形 chart 构成，表示能力。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "zh": "可",
+    "role": "并列连词（相当于 but），表示转折"
+   },
+   {
+    "text": "a map",
+    "zh": "地图",
+    "role": "主语"
+   },
+   {
+    "text": "could chart",
+    "zh": "只能绘制/记录",
+    "role": "谓语（情态动词 could + 动词原形 chart）"
+   },
+   {
+    "text": "where people died,",
+    "zh": "人死在哪里",
+    "role": "宾语从句（where 引导，作 chart 的宾语），where 在从句中作地点状语"
+   },
+   {
+    "text": "not what they drank.",
+    "zh": "绘制/记录不了他们喝了什么",
+    "role": "省略结构，相当于 a map could not chart what they drank；what 引导宾语从句，在从句中作 drank 的宾语"
+   }
+  ],
+  "structure": "①主句是 a map could chart where people died。Yet 放在句首，表示与上句的转折：帕克斯根据地图得出空气传播的结论，作者随即指出地图本身的局限。\n②chart 是名词转作动词，意为“用图标出，记录”，视频译为“绘制/记录”。宾语 where people died 是 where 引导的宾语从句，where 在从句中作地点状语，从句用陈述语序。\n③not what they drank 是省略结构，补全后是 a map could not chart what they drank，省去与前面重复的主语、情态动词和谓语，只保留否定词和对比的宾语。what 引导宾语从句，在从句中作 drank 的宾语。\n④where people died 与 what they drank 两个名词性从句对照，点出全文的论证关键：地图只显示死亡地点，病因要从饮水中找。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "where、what 引导宾语从句",
+    "explain": "疑问词 where、what、when、how 等可以引导名词性从句，作动词的宾语。从句必须用陈述语序，不能用疑问语序：本句是 where people died，不是 where did people die。引导词在从句中担任成分：where 作地点状语，what 作 drank 的宾语。考研写作中常见的错误是把间接疑问写成疑问语序，如 I don't know what does he want，应改为 I don't know what he wants。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The survey shows where young graduates settle, not why they settle there.",
+      "zh": "这项调查显示了年轻毕业生在哪里定居，却没有显示他们为什么在那里定居。"
+     },
+     {
+      "en": "Nobody could explain what had caused the sudden power failure.",
+      "zh": "谁也说不清是什么导致了这次突然停电。"
+     }
+    ]
+   },
+   {
+    "title": "A, not B 省略结构的补全",
+    "explain": "“肯定部分 + not + 对比部分”中，not 后省去与前面相同的成分，补全时要照前半句的结构还原。本句 not what they drank 还原为 a map could not chart what they drank。这种结构把两个对比项并置，强调后者被排除，第3句的 swallowed, not inhaled 也是同样的写法。翻译时常把否定部分译成完整的否定小句，视频用“只能……，……不了……”前后呼应，译出 not 的排除意味。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report tells us how many people lost their jobs, not how they coped afterwards.",
+      "zh": "这份报告告诉我们有多少人失业，却没有说明他们之后是如何应对的。"
+     }
+    ]
+   },
+   {
+    "title": "yet 作并列连词",
+    "explain": "yet 作连词时意为“然而，可是”，与 but 相近，常带有“与前述情况相反、出人意料”的意味，可放在句首，也可接在 and 之后（and yet）。yet 作副词时常用于否定句和疑问句，意为“还，尚未”，如 The results have not been published yet。本句 Yet 放在句首，对上句帕克斯的解读提出反驳。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan was simple, yet it worked remarkably well.",
+      "zh": "这个计划很简单，效果却出奇地好。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "chart",
+    "explain": "chart 作名词意为“图表，航海图”，作动词意为“用图表示，绘制（地图、图表）”，引申为“记录，追踪（变化或进展）”，如 chart the progress of a disease；chart a course 意为“规划路线，制定方针”。本句 could chart 视频给出“绘制/记录”两种译法。"
+   },
+   {
+    "term": "相关与因果",
+    "explain": "本句的论证涉及相关与因果的区别：病例在地理上聚集，只说明死亡与地点有关，不能直接说明病因。英语有一句常用语 correlation does not imply causation（相关不等于因果），考研阅读常考查这类推理缺陷。"
+   }
+  ],
+  "translation_tip": "视频译文“可地图只能绘制/记录人死在哪里，绘制/记录不了他们喝了什么。”的处理：①Yet 译为“可”，口语化地承接上句。②原文是“能……，不能……”的对比，视频把 could chart 译为“只能绘制/记录”，用“只能”提前点出限制；省略部分 not what they drank 补出谓语，译为“绘制/记录不了他们喝了什么”，前后两个动词重复，对比更鲜明。③两个宾语从句直接译为“人死在哪里”“他们喝了什么”，不必译成“……的地方”“……的东西”。④a map 泛指地图，视频不译“一张”，直接说“地图”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The crucial evidence",
+   "predicate": "lay in",
+   "object_or_complement": "exceptions（lie in 的宾语）",
+   "explain": "主干是 The crucial evidence lay in exceptions，主语加短语动词 lie in 及其宾语。lay 是不及物动词 lie 的过去式，谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The crucial evidence,",
+    "zh": "至关重要的/决定性的证据",
+    "role": "主语"
+   },
+   {
+    "text": "gathered in 1854,",
+    "zh": "早在1854年就已收集到",
+    "role": "非限制性后置定语（过去分词短语），修饰 The crucial evidence，相当于 which was gathered in 1854"
+   },
+   {
+    "text": "lay in",
+    "zh": "就在于……中",
+    "role": "谓语（短语动词 lie in 的过去式，意为“在于，存在于”）"
+   },
+   {
+    "text": "exceptions.",
+    "zh": "那些例外/个例",
+    "role": "宾语（lie in 的宾语）"
+   }
+  ],
+  "structure": "①主句是 The crucial evidence lay in exceptions，意为“关键证据在于例外”。lay 是 lie 的过去式，lie in 意为“存在于，在于”（视频说明“lay：lie 的过去式，lie in 存在于”）。\n②gathered in 1854 是过去分词短语，用逗号与主句隔开，作后置定语修饰 The crucial evidence（视频说明“gathered…：过去分词短语作后置定语，gathered = which was gathered，省略了 which was”）。证据是被收集的，所以用过去分词。\n③in 1854 与上一段的 In 1855 形成对照：帕克斯1855年还在用空气说解读地图，而能说明问题的证据早在1854年疫情期间就已收集到。\n④exceptions 指不符合一般情况的个例。本句是本段和下一段的总起句，后文的济贫院、啤酒厂和汉普斯特德寡妇都是这样的例外：住在泵附近却不喝泵水的人大多躲过一劫，住得远却喝了泵水的人反而死去。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "lie 与 lay 的变化形式",
+    "explain": "lie（躺；位于；在于）是不及物动词，变化形式为 lie, lay, lain, lying；lay（放置；下蛋）是及物动词，变化形式为 lay, laid, laid, laying；lie 作“说谎”讲时是规则动词，变化为 lie, lied, lied, lying。本句 lay in exceptions 中的 lay 是 lie 的过去式，不是及物动词 lay 的原形：主语是单数的 evidence，叙述的是过去，原形 lay 在这里既不合时态也不合主谓一致，而且后面接的是介词 in。考研完形和写作常考这组词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The village lay at the foot of a steep hill.",
+      "zh": "那座村庄坐落在一座陡峭山丘的脚下。"
+     },
+     {
+      "en": "She laid the documents carefully on the table.",
+      "zh": "她小心地把文件放在桌上。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作非限制性后置定语",
+    "explain": "过去分词短语可以放在名词后作定语，表示被动或完成，相当于省去“关系代词 + be”的定语从句。用逗号隔开时，它对名词作补充说明，属于非限制性用法，去掉后主句依然完整。本句 gathered in 1854 相当于 which was gathered in 1854，补充说明证据收集的时间。考研阅读中，这类插在主语和谓语之间的分词短语容易被误认作谓语：本句真正的谓语是 lay，gathered 只是定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report, published last week, has already prompted calls for reform.",
+      "zh": "这份报告上周发布，已经引发了改革的呼声。"
+     },
+     {
+      "en": "The bridge, completed in 1932, is still used by thousands of commuters every day.",
+      "zh": "这座桥于1932年建成，至今每天仍有数千名通勤者使用。"
+     }
+    ]
+   },
+   {
+    "title": "lie in 表示“在于”",
+    "explain": "lie in 后接名词或动名词，表示问题、答案、原因、价值等“在于”某处，常见句型有 The problem lies in…（问题在于……）、Its strength lies in…（它的优势在于……）。主语通常是抽象名词。写作中可用来替换 is because of 之类单调的表达。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The appeal of the novel lies in its vivid portrayal of village life.",
+      "zh": "这部小说的魅力在于它对乡村生活的生动描写。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "crucial",
+    "explain": "形容词，意为“至关重要的，决定性的”，语气比 important 强，常用搭配有 play a crucial role in、be crucial to/for、It is crucial that…。视频给出“至关重要的/决定性的”两种译法，后者突出这些证据对判断病因起决定作用。"
+   },
+   {
+    "term": "exception",
+    "explain": "例外，例外情况：make an exception（破例）、with the exception of（除……之外）、without exception（无一例外）。本句复数 exceptions 指一个个不合常规的个例，视频译为“例外/个例”。"
+   },
+   {
+    "term": "evidence",
+    "explain": "evidence 是不可数名词，不能说 an evidence 或 evidences，表示“一条证据”要说 a piece of evidence。"
+   }
+  ],
+  "translation_tip": "视频译文“至关重要的/决定性的证据早在1854年就已收集到，就在于那些例外/个例中。”的处理：①非限制性的过去分词短语 gathered in 1854 没有前置为定语，而是译成独立小句“早在1854年就已收集到”，增补“早在”“就已”，突出收集时间早于上段所说的1855年。②谓语 lay in 译为“就在于……中”，“就”把前后两个小句衔接起来。③exceptions 加“那些”，译为“那些例外/个例”，预示下文将逐一列举。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "a workhouse",
+   "predicate": "lost",
+   "object_or_complement": "a mere five of 535 inmates",
+   "explain": "主干是 a workhouse lost a mere five of 535 inmates，主谓宾结构。lose 在此指机构失去成员，即有人死去。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Amid the deaths",
+    "zh": "在……死者接连不断的期间内",
+    "role": "状语（介词短语），交代背景"
+   },
+   {
+    "text": "in the surrounding streets,",
+    "zh": "周围的街巷",
+    "role": "后置定语（介词短语），修饰 the deaths"
+   },
+   {
+    "text": "a workhouse",
+    "zh": "一所……济贫院（收容贫民的机构）",
+    "role": "主语"
+   },
+   {
+    "text": "with its own well",
+    "zh": "自有水井的",
+    "role": "后置定语（介词短语），修饰 a workhouse"
+   },
+   {
+    "text": "lost",
+    "zh": "死了",
+    "role": "谓语"
+   },
+   {
+    "text": "a mere five",
+    "zh": "只……区区五人",
+    "role": "宾语（数词 five 作名词，a mere 强调数量少）"
+   },
+   {
+    "text": "of 535 inmates.",
+    "zh": "535名被收容者",
+    "role": "后置定语（介词短语），表示部分所属的整体"
+   }
+  ],
+  "structure": "①主句是 a workhouse lost a mere five of 535 inmates。主语 a workhouse 是机构，lose 的宾语是人，指失去成员，这里指有人死去（视频说明“lose：失去某人，这里指有人死去”）。\n②句首 Amid the deaths in the surrounding streets 是介词短语作状语，amid 意为“在……之中，在……期间”，交代济贫院所处的背景：周围街巷的人接连死去。in the surrounding streets 修饰 the deaths。\n③with its own well 是介词短语作后置定语，修饰 a workhouse，说明济贫院有自己的水井，用不着去宽街水泵取水，这是它成为例外的关键。\n④a mere five of 535 inmates 中，five 是数词作名词，of 535 inmates 表示所属的整体（视频说明“five of 535：535人中的五人”）；a mere 强调数量之少，带有作者的评价色彩。周围疫情惨烈，这里535人中只死了五人，对比鲜明。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "以机构为主语的 lose",
+    "explain": "lose 的宾语可以是人，表示因死亡而失去亲人或成员，如 She lost her husband in the war。主语也可以是机构、团体或地方，表示该处有成员死去，如 The village lost a third of its men in the war。本句 a workhouse lost a mere five of 535 inmates 就是这种用法，视频译为“535名被收容者只死了区区五人”，把宾语转为主语，动词译为“死了”。这类句子在新闻报道中常见，翻译时直译为“失去了”往往不够通顺。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The village lost nearly a third of its population to the famine.",
+      "zh": "这个村庄近三分之一的人口死于那场饥荒。"
+     },
+     {
+      "en": "She lost both her parents when she was still a teenager.",
+      "zh": "她十几岁时就失去了双亲。"
+     }
+    ]
+   },
+   {
+    "title": "数词 + of + 总数 表示部分",
+    "explain": "“数词 + of + 表示总体的名词”表示从总体中取出的部分，如 three of the students、two of them。本句 five of 535 inmates 意为“535名被收容者中的五人”。总体是确指的特定群体时，of 后通常加 the 或代词，如 five of the inmates；本句 of 后直接接数词 535，数字本身已经限定了范围。表示比例还可以说 five out of 535，out of 更强调比例。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Only two out of every ten applicants were offered an interview.",
+      "zh": "每十名申请者中只有两人获得面试机会。"
+     }
+    ]
+   },
+   {
+    "title": "amid 引出背景",
+    "explain": "amid（也作 amidst）是介词，意为“在……之中，在……期间”，后面多接表示事件、状态、气氛的名词，新闻中极为常见，如 amid concerns over…（在对……的担忧声中）、amid rising tensions（在局势日益紧张之际）。本句 Amid the deaths 用介词短语交代背景，视频译为“在……死者接连不断的期间内”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The talks ended without agreement amid growing distrust between the two sides.",
+      "zh": "在双方不信任日益加深的情况下，会谈未能达成协议就结束了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "workhouse",
+    "explain": "济贫院，英国旧时收容贫民的机构，被收容者在院内做工以换取食宿。1834年《济贫法修正案》（Poor Law Amendment Act）实施后，济贫院在英格兰普遍设立，生活条件艰苦，狄更斯的小说《雾都孤儿》（Oliver Twist）就描写过济贫院。视频补注“（收容贫民的机构）”。"
+   },
+   {
+    "term": "inmate",
+    "explain": "指监狱、医院、精神病院、济贫院等机构中被关押或被收容的人，现代英语中最常用来指“囚犯”。本句指济贫院的被收容者，视频译为“被收容者”。"
+   },
+   {
+    "term": "a mere",
+    "explain": "mere 只作前置定语，意为“仅仅，只不过”，a mere + 数词 强调数量少，如 a mere 5%、a mere ten minutes。"
+   },
+   {
+    "term": "its own",
+    "explain": "own 强调“自己的”，前面必须有所有格，不能说 an own well；“有自己的水井”也可说 a well of its own。"
+   }
+  ],
+  "translation_tip": "视频译文“在周围的街巷死者接连不断的期间内，一所自有水井的济贫院（收容贫民的机构）里，535名被收容者只死了区区五人。”的处理：①Amid the deaths in the surrounding streets 把名词 the deaths 展开为“死者接连不断”，后置定语 in the surrounding streets 前置为“周围的街巷”，amid 译为“在……期间内”。②主语 a workhouse with its own well 转为地点状语“一所自有水井的济贫院……里”，介词短语 with its own well 前置为“自有水井的”，并用括号补注 workhouse 的含义。③lost a mere five of 535 inmates 转换主语，以“535名被收容者”作主语，lose 译为“死了”，a mere 译为“只……区区”，强调死亡人数之少。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "More than 70 nearby brewery workers",
+   "predicate": "escaped",
+   "object_or_complement": "severe cholera",
+   "explain": "主干是 More than 70 nearby brewery workers escaped severe cholera，主谓宾结构，escape 为及物动词。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "More than 70 nearby brewery workers,",
+    "zh": "附近一家啤酒厂的70多名工人",
+    "role": "主语（中心词是 workers）"
+   },
+   {
+    "text": "with a beer allowance",
+    "zh": "有啤酒津贴",
+    "role": "状语（with 引导的介词短语），说明工人们的条件，暗含他们躲过重症的原因"
+   },
+   {
+    "text": "and their own well,",
+    "zh": "厂里也有自己的水井",
+    "role": "与 a beer allowance 并列，同为 with 的宾语"
+   },
+   {
+    "text": "escaped",
+    "zh": "都逃过了",
+    "role": "谓语（及物动词）"
+   },
+   {
+    "text": "severe cholera.",
+    "zh": "重症霍乱",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①主句是 More than 70 nearby brewery workers escaped severe cholera。主语中心词是 workers，More than 70 是数量限定，nearby 和 brewery 都是前置定语：nearby 说明啤酒厂就在附近，brewery 是名词作定语，说明是啤酒厂的工人。\n②with a beer allowance and their own well 是 with 引导的介词短语，用逗号隔开，插在主谓之间作状语。with 的两个宾语 a beer allowance 和 their own well 由 and 连接，说明工人们有啤酒可喝，厂里也有自己的水井，暗示他们用不着喝宽街水泵的水，这正是他们躲过重症的原因。\n③escaped 是及物动词，escape sth 意为“逃过，避开”，宾语 severe cholera 指重症霍乱。作者用 severe 限定，措辞严谨：只说工人们躲过了重症，没有说无人发病。\n④本句与上句的济贫院一样，都是“身处疫区却不喝泵水”的例外，共同支持饮水传播的结论。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with 介词短语作状语",
+    "explain": "with + 名词 构成的介词短语可以作状语，表示伴随、原因、条件等，具体含义要结合上下文判断。本句 with a beer allowance and their own well 插在主语和谓语之间，说明工人们具备的条件，暗含他们躲过重症的原因：有啤酒、有自己的井，就不用喝宽街水泵的水。翻译时常把这类 with 短语译成独立小句，视频译为“有啤酒津贴，厂里也有自己的水井”。with 复合结构（with + 宾语 + 补足语）也是考研常考点，如 With prices rising, many families cut back on spending。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "With a strong economy and low unemployment, the government faced little pressure to change course.",
+      "zh": "经济强劲，失业率低，政府几乎没有改弦更张的压力。"
+     },
+     {
+      "en": "With more people working from home, demand for office space has fallen.",
+      "zh": "随着越来越多的人居家办公，写字楼的需求下降了。"
+     }
+    ]
+   },
+   {
+    "title": "escape 的及物用法",
+    "explain": "escape 作及物动词，意为“逃过，避开（危险、灾祸等）”，可接名词或动名词，如 escape death、escape punishment、escape being caught，不接不定式。作不及物动词时意为“逃跑，逃脱”，常接 from，如 escape from prison。本句 escaped severe cholera 是及物用法，视频译为“逃过了”。另有 sth escapes sb 的说法，意为“某人想不起或没注意到某事”，如 His name escapes me（我想不起他的名字）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The driver narrowly escaped injury when his car skidded off the road.",
+      "zh": "汽车滑出路面时，司机险些受伤。"
+     },
+     {
+      "en": "Few businesses escaped being affected by the energy crisis.",
+      "zh": "几乎没有哪家企业能免受能源危机的影响。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，如 brewery workers（啤酒厂工人）、beer allowance（啤酒津贴）、death register（死亡登记册）。作定语的名词一般用单数，如 a shoe shop，不说 a shoes shop。阅读时要注意最后一个名词才是中心词：brewery workers 的中心词是 workers，beer allowance 的中心词是 allowance。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Hospital staff have called for better pay and safer working conditions.",
+      "zh": "医院员工呼吁提高工资、改善工作安全条件。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "allowance",
+    "explain": "意为“津贴，补贴；配给量，限额”，如 a travel allowance（差旅补贴）、a baggage allowance（行李限额）。本句 a beer allowance 指工人按规定可以免费得到一定量的啤酒（视频说明“免费的啤酒补贴”），视频译为“啤酒津贴”。固定搭配 make allowance(s) for 意为“考虑到，体谅”。"
+   },
+   {
+    "term": "brewery",
+    "explain": "啤酒厂，由动词 brew（酿造）加表示场所的后缀 -ery 构成，同类构词有 bakery（面包店）、distillery（蒸馏酒厂）、winery（葡萄酒厂）。"
+   },
+   {
+    "term": "more than + 数词",
+    "explain": "意为“多于，超过”，视频把 More than 70 译为“70多名”，符合汉语表达约数的习惯。"
+   },
+   {
+    "term": "severe",
+    "explain": "形容疾病、问题时意为“严重的”，如 severe symptoms、a severe shortage。severe cholera 视频译为“重症霍乱”。"
+   }
+  ],
+  "translation_tip": "视频译文“附近一家啤酒厂的70多名工人有啤酒津贴，厂里也有自己的水井，都逃过了重症霍乱。”的处理：①主语 More than 70 nearby brewery workers 中的定语按汉语习惯重排为“附近一家啤酒厂的70多名工人”，增补量词“一家”。②with 介词短语拆成两个小句：“有啤酒津贴”以工人为主语；“厂里也有自己的水井”增补“厂里”作主语，因为水井属于啤酒厂。③谓语 escaped 前加“都”，强调70多名工人无一例外。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "a Hampstead widow",
+   "predicate": "had",
+   "object_or_complement": "the pump's water（宾语）；carted to her（宾语补足语）",
+   "explain": "主干是 a Hampstead widow had the pump's water carted to her，使役结构 have sth done：宾语 the pump's water 后接过去分词短语 carted to her 作宾语补足语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Conversely,",
+    "zh": "反过来",
+    "role": "连接性状语（副词），表示与上文情况相反"
+   },
+   {
+    "text": "a Hampstead widow",
+    "zh": "汉普斯特德的一位寡妇",
+    "role": "主语（地名 Hampstead 作定语）"
+   },
+   {
+    "text": "who had not set foot in Soho for months",
+    "zh": "已有几个月没踏进过苏豪",
+    "role": "限制性定语从句，修饰 a Hampstead widow，who 在从句中作主语"
+   },
+   {
+    "text": "had",
+    "zh": "却让人把",
+    "role": "谓语（使役动词 have）"
+   },
+   {
+    "text": "the pump's water",
+    "zh": "这口泵的水",
+    "role": "宾语"
+   },
+   {
+    "text": "carted to her",
+    "zh": "用车运来",
+    "role": "宾语补足语（过去分词短语），to her 表示运送的终点"
+   },
+   {
+    "text": "daily.",
+    "zh": "每天",
+    "role": "频度状语（副词）"
+   }
+  ],
+  "structure": "①句首 Conversely 是连接性状语，意为“反过来，相反地”，表示下面的情况与上段的例外方向相反：上段是身处疫区却不喝泵水的人得以幸免，本段是远离疫区却喝了泵水的人反而死去。\n②主句是 a Hampstead widow had the pump's water carted to her daily。had 是使役动词，have sth done 意为“让人把某事做了”（视频说明“have sth done：让人做某事”）；宾语 the pump's water 与 cart 是被动关系，水是被运的，所以用过去分词 carted 作宾语补足语。to her 表示运送的终点，daily 是副词作频度状语。\n③who had not set foot in Soho for months 是限制性定语从句，修饰 a Hampstead widow，who 在从句中作主语。set foot in 意为“踏进”（视频说明“set foot in：踏进”）；从句用过去完成时的否定式加 for months，表示到疫情发生时她已有几个月没去过苏豪。\n④Hampstead 是地名作定语，说明寡妇住在汉普斯特德。定语从句交代她没有到过苏豪，接触不到苏豪的空气；主句交代她每天喝宽街泵水。两相对照，为下一句她的死亡作好铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "使役结构 have sth done",
+    "explain": "have + 宾语 + 过去分词 表示“让别人（替自己）把某事做了”，宾语与过去分词是被动关系，动作由别人完成，如 have one's hair cut（理发）、have the car repaired（请人修车）。本句 had the pump's water carted to her 意思是她让人每天用车把泵水运来，并非她自己去运。对比 have sb do sth（让某人做某事），宾语是动作的发出者，如 She had her son fetch the water。have sth done 还可表示遭遇某种不幸，如 He had his wallet stolen（他的钱包被偷了）。考研完形、翻译常考宾语与补足语之间的主动被动关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum had the damaged painting restored by a team of experts.",
+      "zh": "博物馆请一组专家修复了那幅受损的画。"
+     },
+     {
+      "en": "We are having our kitchen renovated next month.",
+      "zh": "我们下个月要请人翻修厨房。"
+     }
+    ]
+   },
+   {
+    "title": "完成时否定式 + for 一段时间",
+    "explain": "否定的完成时加 for + 一段时间，表示在这段时间里某事一直没有发生，如 I haven't seen him for years（我好几年没见过他了）。本句定语从句 who had not set foot in Soho for months 以疫情发生时为参照，说明在此之前的几个月里她一直没去过苏豪，所以用过去完成时。视频译为“已有几个月没踏进过苏豪”，“已有”“过”体现了完成时的意味。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the time the letter arrived, the two sisters had not spoken for over a decade.",
+      "zh": "那封信寄到时，姐妹俩已经十多年没有说过话了。"
+     }
+    ]
+   },
+   {
+    "title": "daily 的副词用法",
+    "explain": "daily 兼作形容词和副词：作形容词放在名词前，如 daily life（日常生活）、a daily newspaper（日报）；作副词多放在句末，意为“每天”，相当于 every day，如 The museum is open daily。本句 carted to her daily 中 daily 是副词，修饰 carted，视频译为“每天”。weekly、monthly、yearly 用法相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The tablets should be taken twice daily with food.",
+      "zh": "这种药片每天服用两次，随餐服用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Hampstead",
+    "explain": "汉普斯特德，位于伦敦北部，19世纪中叶时还是伦敦北郊的村镇，离苏豪有数英里之遥。第15句交代 Hampstead then had no cholera，说明当地没有疫情。"
+   },
+   {
+    "term": "set foot in",
+    "explain": "set foot in/on 意为“踏进，踏上（某地）”，常用于否定句，强调从未或很久没去过某地，如 He has never set foot in a casino。foot 用单数，前面不加冠词。"
+   },
+   {
+    "term": "cart",
+    "explain": "名词指手推车、马车；动词意为“用车运送”，引申为“费力地搬运，强行带走”，如 cart sb off/away（把某人强行带走）。本句 carted 指用车运送泵水，视频译为“用车运来”。"
+   },
+   {
+    "term": "conversely",
+    "explain": "副词，意为“反过来，相反地”，用于引出与前述情况相反的情况，常放在句首并用逗号隔开，是较正式的逻辑连接词。考研阅读中它是表示对比的信号词。"
+   }
+  ],
+  "translation_tip": "视频译文“反过来，汉普斯特德的一位寡妇已有几个月没踏进过苏豪，却让人把这口泵的水每天用车运来。”的处理：①限制性定语从句 who had not set foot in Soho for months 没有前置，而是译成主语后的谓语部分“已有几个月没踏进过苏豪”，避免主语前的定语过长。②主句谓语前加“却”，点出“没去过苏豪”与“每天喝苏豪的泵水”之间的反差。③have sth done 译为“让人把……”，用“把”字句把宾语“这口泵的水”提前；宾语补足语 carted to her 译为“用车运来”，“来”对应 to her；daily 放在动词前译为“每天”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "She",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主干是 She died，主谓结构，die 为不及物动词；as did a visiting niece who drank it 是 as 引导的倒装从句。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "She",
+    "zh": "她",
+    "role": "主语"
+   },
+   {
+    "text": "died,",
+    "zh": "死了",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "as did",
+    "zh": "也死了",
+    "role": "as 引导的倒装从句，助动词 did 代替前面的 died，置于从句主语之前"
+   },
+   {
+    "text": "a visiting niece",
+    "zh": "来探望她……的侄女",
+    "role": "as 从句的主语，visiting 是现在分词作前置定语"
+   },
+   {
+    "text": "who drank it.",
+    "zh": "喝了这水的",
+    "role": "限制性定语从句，修饰 a visiting niece，it 指那口泵的水"
+   }
+  ],
+  "structure": "①主句是 She died，She 指上句的汉普斯特德寡妇。\n②as did a visiting niece who drank it 是 as 引导的从句，用倒装语序：助动词 did 放在主语 a visiting niece 之前，did 代替前文的谓语 died，避免重复。视频说明“as did…：倒装，= and so did a visiting niece”，即“侄女也死了”。\n③从句主语 a visiting niece 中，visiting 是现在分词作前置定语，表示侄女是来探望的客人；who drank it 是限制性定语从句，修饰 niece，who 在从句中作主语，it 指上句的 the pump's water。\n④侄女也是外来者，喝了这口泵的水后同样死去，与寡妇的情况相互印证，进一步把病因指向泵水。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "as + 助动词 + 主语 的倒装",
+    "explain": "as 引导方式或比较状语从句时，从句可以用倒装语序：as + 助动词/情态动词/be + 主语，表示“……也一样”，相当于 and so + 助动词 + 主语。本句 She died, as did a visiting niece 相当于 She died, and so did a visiting niece。助动词要与前句谓语的时态和形式一致：前句是一般过去时 died，从句用 did；前句是 has done，则用 as has…。这种倒装书面色彩浓，从句主语较长时尤其常见。考研阅读和翻译中要把它理解为“某某也……”，不要误解成原因状语从句“因为……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Prices rose sharply that year, as did unemployment.",
+      "zh": "那一年物价大幅上涨，失业率也一样。"
+     },
+     {
+      "en": "Oil companies have reported record profits, as have the major banks.",
+      "zh": "石油公司公布了创纪录的利润，几大银行也是如此。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词作前置定语",
+    "explain": "单个现在分词可以放在名词前作定语，表示主动或正在进行，如 a visiting professor（客座教授）、the rising sun（正在升起的太阳）、a growing number of（越来越多的）。本句 a visiting niece 指来探望的侄女，visiting 表明她是来访的客人，并不住在汉普斯特德。分词带有宾语、状语等构成短语时，一般放在名词后作定语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Visiting scholars are given access to the university library.",
+      "zh": "访问学者可以使用大学图书馆。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "niece",
+    "explain": "指兄弟或姐妹的女儿，汉语的“侄女”和“外甥女”在英语中都是 niece，男性对应词是 nephew（侄子；外甥）。原文没有说明是哪一种亲属，视频按习惯译为“侄女”。"
+   },
+   {
+    "term": "visiting",
+    "explain": "visit 的现在分词，作定语的常见搭配有 visiting hours（探视时间）、a visiting team（客队）、a visiting professor（客座教授）。"
+   }
+  ],
+  "translation_tip": "视频译文“她死了，来探望她并喝了这水的侄女也死了。”的处理：①倒装从句 as did… 译为“……也死了”，补出 did 所代替的“死了”，与前一小句“她死了”形成并列。②前置定语 visiting 和后置定语从句 who drank it 合并前置，译为“来探望她并喝了这水的”，用“并”连接两个动作，visiting 补出宾语“她”。③it 译为“这水”，明确指那口泵的水。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Hampstead",
+   "predicate": "had",
+   "object_or_complement": "no cholera",
+   "explain": "主干就是全句，主谓宾结构，then 是时间状语，no 否定宾语 cholera，全句表示否定。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Hampstead",
+    "zh": "汉普斯特德",
+    "role": "主语（地名）"
+   },
+   {
+    "text": "then",
+    "zh": "那时",
+    "role": "时间状语（副词）"
+   },
+   {
+    "text": "had",
+    "zh": "（谓语，与 no 合译为“并没有”）",
+    "role": "谓语"
+   },
+   {
+    "text": "no cholera.",
+    "zh": "霍乱",
+    "role": "宾语（no 是限定词，否定 cholera，使全句表示否定）"
+   }
+  ],
+  "structure": "①本句是简单句，主语 Hampstead，谓语 had，宾语 no cholera；then 是副词作时间状语，放在主语和谓语之间，意为“那时，当时”。\n②no 是限定词，修饰 cholera，相当于 not any：had no cholera = did not have any cholera，形式上否定的是宾语，整句表达否定意义。\n③以地名作主语、用 have 表示“某地有……”是英语的常见说法，如 The town has two hospitals。\n④本句只有五个词，却补上了论证的最后一环：汉普斯特德当时没有霍乱，排除了寡妇和侄女在当地染病的可能，她们与疫区唯一的联系就是每天运来的宽街泵水。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "以地点作主语的 have 句",
+    "explain": "英语常用地点、机构作主语，用 have 表示该处存在或拥有某物，如 The city has a population of two million、The village had no doctor。同样的意思也可以用 there be 句表达，如 There was no cholera in Hampstead then。本句用 Hampstead 作主语，比 there be 句更简洁，地名放在句首，也与上两句的 Hampstead widow 呼应。汉语“某地没有……”的说法与之结构相近，可以直接对译。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The island has no airport, so visitors must arrive by boat.",
+      "zh": "这座岛上没有机场，游客只能乘船前往。"
+     }
+    ]
+   },
+   {
+    "title": "no 否定名词",
+    "explain": "no 是限定词，直接放在名词前否定该名词，相当于 not a 或 not any，如 have no money = not have any money。no 后可接单数可数名词、复数名词或不可数名词，名词前不再加冠词。用 no 否定名词比用 not 否定动词语气更强、更简洁。易错点：no 与 not 不能混用，不能说 have not money。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The investigation found no evidence of wrongdoing.",
+      "zh": "调查没有发现任何违规的证据。"
+     }
+    ]
+   },
+   {
+    "title": "then 的位置与词性",
+    "explain": "then 作副词表示“那时，当时”，可以放在句首、句末，或主语与谓语之间，本句放在 Hampstead 和 had 之间。then 还可以作形容词，放在名词前表示“当时的”，如 the then prime minister（当时的首相）。表示“然后”的 then（如第4句 then consulted）词形相同，要靠上下文区分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The then president refused to comment on the report.",
+      "zh": "时任总统拒绝对这份报告发表评论。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "第13至15句的论证作用",
+    "explain": "这三句构成一组反证：寡妇和侄女都不住在苏豪，汉普斯特德当时也没有霍乱，她们与疫区唯一的联系就是每天运来的泵水。她们的死用空气传播解释不通，是支持饮水传播的有力例证。"
+   },
+   {
+    "term": "cholera",
+    "explain": "cholera 是不可数名词，前面不加冠词；have cholera 可指某地有霍乱疫情，也可指某人患霍乱；“一场霍乱疫情”说 a cholera epidemic 或 a cholera outbreak。"
+   }
+  ],
+  "translation_tip": "视频译文“汉普斯特德那时并没有霍乱。”的处理：①then 按汉语习惯放在主语后，译为“那时”。②had no cholera 中的否定词 no 转到动词上，译为“并没有霍乱”，加“并”加强否定语气，突出与寡妇之死的反差。③全句保持英文的主谓宾语序，以地名作主语，与汉语“某地没有……”的说法一致。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "a government inquiry",
+   "predicate": "declined",
+   "object_or_complement": "to condemn the pump（不定式短语作宾语）",
+   "explain": "主干是 a government inquiry declined to condemn the pump，主谓宾结构，不定式短语 to condemn the pump 作 declined 的宾语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1855",
+    "zh": "1855年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "a government inquiry",
+    "zh": "政府的调查委员会",
+    "role": "主语（名词 government 作定语）"
+   },
+   {
+    "text": "declined to condemn",
+    "zh": "拒绝给……定罪",
+    "role": "谓语 declined + 不定式 to condemn（作 declined 的宾语）"
+   },
+   {
+    "text": "the pump,",
+    "zh": "这口泵",
+    "role": "condemn 的宾语"
+   },
+   {
+    "text": "contending",
+    "zh": "坚称",
+    "role": "伴随状语（现在分词），后接省略了 that 的宾语从句"
+   },
+   {
+    "text": "its water",
+    "zh": "泵水",
+    "role": "宾语从句的主语，its 指 the pump"
+   },
+   {
+    "text": "had at most absorbed",
+    "zh": "至多是吸收了",
+    "role": "宾语从句的谓语（过去完成时），at most 插在助动词与实义动词之间"
+   },
+   {
+    "text": "airborne poison.",
+    "zh": "经空气传播的毒素",
+    "role": "宾语从句的宾语"
+   }
+  ],
+  "structure": "①主句是 a government inquiry declined to condemn the pump。inquiry 在此指官方任命的调查委员会（视频说明“官方调查程序；被任命进行调查的委员会”）；decline to do 意为“拒绝做某事”，语气比 refuse 委婉（视频说明“谢绝；婉言拒绝（方式比较体面，礼貌）”）；condemn 在此意为“定罪”，把水泵当作被告，是拟人化的说法。\n②contending… 是现在分词短语作伴随状语（视频说明“contending…：现在分词短语作伴随状语，后面省略了 that；at most：充其量”），逻辑主语是 a government inquiry，说明委员会拒绝定罪时所持的理由。\n③contending 后是省略了 that 的宾语从句 its water had at most absorbed airborne poison。从句主语 its water，its 指 the pump；谓语 had absorbed 用过去完成时，表示吸收毒素发生在调查之前；at most 插在 had 与 absorbed 之间，限制整个谓语。\n④委员会的意思是：即使泵水有问题，也只是从空气中吸收了毒素，病根仍在空气。这样它就可以继续坚持瘴气论，不必承认饮水传播。airborne 意为“经空气传播的”，与上两段的饮水证据针锋相对。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语，后接省略 that 的宾语从句",
+    "explain": "现在分词短语放在句末，用逗号隔开，常作伴随状语，表示与谓语动作同时发生的另一动作或补充说明，逻辑主语是句子的主语。本句 contending… 说明调查委员会一边拒绝定罪，一边坚称泵水至多吸收了空气中的毒素。contend、claim、argue、say 等动词后的 that 从句中，that 常可省略，本句 contending its water had… 即 contending that its water had…。阅读时，如果动词后直接跟一个完整的“主语 + 谓语”结构，就要想到省略了 that。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister defended the policy, arguing it would create thousands of jobs.",
+      "zh": "部长为这项政策辩护，称它将创造数千个就业岗位。"
+     },
+     {
+      "en": "Residents opposed the new road, claiming the noise would ruin the neighbourhood.",
+      "zh": "居民们反对修建这条新路，声称噪音会毁了这片街区。"
+     }
+    ]
+   },
+   {
+    "title": "转述内容中的过去完成时",
+    "explain": "主句谓语是过去时的时候，转述内容中的时态通常要相应后移：一般现在时变为一般过去时，一般过去时或现在完成时变为过去完成时。本句委员会1855年坚称的内容是泵水在此之前吸收了毒素，吸收发生在“坚称”之前，所以用 had absorbed。考研阅读中，转述动词后的过去完成时提示该动作发生在转述之前。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The spokesman insisted that the company had followed all safety rules.",
+      "zh": "发言人坚称公司遵守了所有安全规定。"
+     },
+     {
+      "en": "She told reporters she had never met the defendant.",
+      "zh": "她告诉记者自己从未见过被告。"
+     }
+    ]
+   },
+   {
+    "title": "at most 的位置与语义",
+    "explain": "at most 意为“至多，充其量”，用来限定数量、程度或说法的上限，反义是 at least（至少）。它可以放在数词前，如 at most ten people，也可以插在助动词与实义动词之间修饰谓语。本句 had at most absorbed airborne poison 表示泵水的问题最多只是吸收了毒素，言下之意是泵水本身并非病源，视频译为“至多是吸收了”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The repairs will take two days at most.",
+      "zh": "维修最多需要两天。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "inquiry",
+    "explain": "inquiry（英式也拼作 enquiry）既可指“询问，查询”，也可指“（官方）调查”，如 a public inquiry（公开调查）、launch an inquiry into…（对……展开调查），还可指负责调查的委员会。本句 a government inquiry 视频译为“政府的调查委员会”。"
+   },
+   {
+    "term": "decline to do",
+    "explain": "decline 作及物动词意为“谢绝，婉言拒绝”，可接名词（decline an invitation）或不定式（decline to comment，拒绝置评），语气比 refuse 委婉、正式。decline 还可表示“下降，衰退”，如 a decline in sales，考研阅读中两义都常见。"
+   },
+   {
+    "term": "condemn",
+    "explain": "常见义是“谴责”；熟词僻义有“判处”（be condemned to death）和“宣布（建筑物等）不宜使用”（a condemned building）。本句 condemn the pump 把水泵当作被告，视频译为“给这口泵定罪”。"
+   },
+   {
+    "term": "airborne",
+    "explain": "由 air（空气）和 borne（bear 的过去分词，意为“被携带的”）构成，意为“经空气传播的，空气中的”，如 airborne diseases、airborne particles；也可指飞机“在飞行中的”或部队“空降的”。同类构词有 waterborne（经水传播的），霍乱就是典型的水源性疾病（waterborne disease）。"
+   },
+   {
+    "term": "contend",
+    "explain": "contend that 意为“坚称，主张”，是正式用语；contend for 意为“争夺”，contend with 意为“应付，对付”。"
+   }
+  ],
+  "translation_tip": "视频译文“1855年，政府的调查委员会拒绝给这口泵定罪，坚称泵水至多是吸收了经空气传播的毒素。”的处理：①condemn the pump 译为“给这口泵定罪”，保留原文拟人化的法律用语，用“给……”把宾语提到动词前。②句末的现在分词短语 contending… 译成并列小句“坚称……”，与“拒绝给这口泵定罪”共用主语。③its water 译为“泵水”，比“它的水”更清楚；at most 译为“至多是”；airborne 展开为“经空气传播的”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "the sceptical curate Henry Whitehead",
+   "predicate": "set out … but found",
+   "object_or_complement": "to refute Snow（set out 后的不定式）；that those who drank from the pump were far more likely to succumb to the disease than others（found 的宾语从句）",
+   "explain": "主干是一个主语带两个由 but 连接的谓语：the sceptical curate Henry Whitehead set out to refute Snow but found that…。found 后接 that 引导的宾语从句，句末 vindicating him 是结果状语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Meanwhile,",
+    "zh": "与此同时",
+    "role": "连接性状语（副词）"
+   },
+   {
+    "text": "the sceptical curate",
+    "zh": "心存怀疑的副牧师（协助教区牧师的低级神职人员）",
+    "role": "主语"
+   },
+   {
+    "text": "Henry Whitehead",
+    "zh": "亨利·怀特黑德",
+    "role": "同位语（紧跟在 curate 后，与之指同一人）"
+   },
+   {
+    "text": "set out",
+    "zh": "一心想",
+    "role": "谓语一（短语动词，set out to do）"
+   },
+   {
+    "text": "to refute Snow",
+    "zh": "驳倒斯诺",
+    "role": "不定式短语，与 set out 构成 set out to do（着手做，一心要做），表示打算做的事"
+   },
+   {
+    "text": "but found",
+    "zh": "却发现",
+    "role": "并列连词 but + 谓语二"
+   },
+   {
+    "text": "that those",
+    "zh": "那些……的人",
+    "role": "that 引导宾语从句，作 found 的宾语，that 在从句中不充当成分；those 是从句的主语"
+   },
+   {
+    "text": "who drank from the pump",
+    "zh": "饮用该水泵的 水",
+    "role": "限制性定语从句，修饰 those，who 在从句中作主语"
+   },
+   {
+    "text": "were far more likely",
+    "zh": "更可能",
+    "role": "宾语从句的系动词 were + 表语 likely（far 修饰比较级 more）"
+   },
+   {
+    "text": "to succumb to the disease",
+    "zh": "死于这种疾病",
+    "role": "不定式短语，与 be likely 构成 be likely to do"
+   },
+   {
+    "text": "than others,",
+    "zh": "比其他人",
+    "role": "比较状语，与 more 呼应"
+   },
+   {
+    "text": "vindicating him.",
+    "zh": "反倒证明了斯诺是正确的",
+    "role": "结果状语（现在分词短语），him 指 Snow"
+   }
+  ],
+  "structure": "①主句主语是 the sceptical curate Henry Whitehead，Henry Whitehead 是 curate 的同位语，两者指同一人，中间不用逗号，属于紧密同位语；sceptical 作前置定语，说明他起初不相信斯诺。主语带两个谓语 set out to refute Snow 和 found that…，由 but 连接，表示转折：本想驳倒斯诺，结果却发现斯诺是对的。\n②set out to do 意为“着手做，一心要做”（视频说明“带着明确的目标开始做某事，或者下定决心要去完成某事”），不定式 to refute Snow 表示他打算做的事。\n③found 后是 that 引导的宾语从句，that 只起连接作用，在从句中不充当成分。从句主语是 those，who drank from the pump 是定语从句，修饰 those，those who… 意为“……的那些人”。从句谓语部分 were far more likely to succumb to the disease than others 中，be likely to do 意为“可能做”，more likely 是比较级，far 修饰比较级，加强语气；than others 引出比较对象，即没喝泵水的人。succumb to 本义是“屈服于”，这里指死于某病（视频说明“succumb to：本义屈服于，这里指死于某病”）。\n④句末 vindicating him 是现在分词短语作结果状语（视频说明“vindicating…：现在分词短语作结果状语”），表示怀特黑德的发现所产生的结果，him 指 Snow。\n⑤Meanwhile 是句首的连接性状语，表示与上句政府调查同一时期。官方调查拒不认定泵水有罪，原本反对斯诺的人反而证实了他的结论，形成强烈反差。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，可以表示前面动作自然带来的结果，可单独使用，也常跟在 thus、thereby 之后，如 …, thus causing a delay。本句 vindicating him 表示怀特黑德的调查结果证明了斯诺是对的。注意与 only to do 区分：现在分词表示顺理成章的结果，only to do 表示出乎意料、令人失望的结果，如 He hurried to the station, only to find the train had left。本句的意外感由 but found 表达，视频还增译了“反倒”，vindicating him 只陈述客观结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell for three days, flooding hundreds of homes.",
+      "zh": "大雨连下三天，淹没了数百户人家。"
+     },
+     {
+      "en": "The company cut its prices by half, attracting thousands of new customers.",
+      "zh": "这家公司把价格降了一半，吸引了数千名新顾客。"
+     }
+    ]
+   },
+   {
+    "title": "those who 结构",
+    "explain": "those who… 意为“……的那些人”，those 作先行词，指人，后接 who 引导的限制性定语从句，谓语用复数，如 Those who arrive late will not be admitted。本句 those who drank from the pump 指喝过这口泵水的人，在宾语从句中作主语。易错点：不能说 them who；those 还常用来代替前面出现过的复数名词，后接 of 短语或定语从句，如 The prices this year are higher than those of last year。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Those who exercise regularly tend to sleep better than those who do not.",
+      "zh": "经常锻炼的人往往比不锻炼的人睡得更好。"
+     },
+     {
+      "en": "The scheme offers loans to those who cannot afford tuition fees.",
+      "zh": "这项计划为付不起学费的人提供贷款。"
+     }
+    ]
+   },
+   {
+    "title": "be likely to do 的比较级与 far 修饰比较级",
+    "explain": "be likely to do 表示“很可能做某事”，主语可以是人或事物；用 it 作形式主语时要接 that 从句，如 It is likely that prices will rise，不能说 It is likely for sb to do。其比较级是 be more likely to do… than…，最高级是 be the most likely to do。修饰比较级可用 far、much、a lot、even、still 等，不能用 very。本句 were far more likely to succumb to the disease than others 意为“比其他人更可能死于这种疾病”，far 强调差距很大。考研阅读中，这一句型常用来表述研究结论，比较对象往往是解题关键。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Children from low-income families are far more likely to miss school than their wealthier peers.",
+      "zh": "低收入家庭的孩子比家境富裕的同龄人更可能缺课。"
+     },
+     {
+      "en": "Drivers who use their phones are much more likely to be involved in accidents.",
+      "zh": "开车时使用手机的司机更容易卷入交通事故。"
+     }
+    ]
+   },
+   {
+    "title": "紧密同位语",
+    "explain": "同位语与被说明的名词之间不用逗号隔开时，称为紧密同位语（限制性同位语），常见于“头衔或身份 + 人名”，如 the poet John Keats、my friend Tom、the curate Henry Whitehead。它与用逗号隔开的非限制性同位语（如第3句 John Snow, a physician）不同：紧密同位语与中心词结合得很紧，读时不停顿。翻译时一般把身份放在人名前，视频译为“心存怀疑的副牧师……亨利·怀特黑德”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novelist Charles Dickens often wrote about the lives of London's poor.",
+      "zh": "小说家查尔斯·狄更斯经常描写伦敦穷人的生活。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "curate",
+    "explain": "在英国国教中指协助教区牧师（vicar 或 rector）工作的低级神职人员，视频译为“副牧师”，并补注“（协助教区牧师的低级神职人员）”。亨利·怀特黑德当时是苏豪区圣卢克教堂（St Luke's）的副牧师，熟悉当地居民。注意 curate 与 curator（博物馆馆长，策展人）拼写相近，意义完全不同。"
+   },
+   {
+    "term": "sceptical",
+    "explain": "英式拼写，美式拼写为 skeptical，意为“怀疑的，不相信的”，常用 be sceptical about/of sth；名词 scepticism（美式 skepticism），sceptic（怀疑论者，美式 skeptic）。本句 the sceptical curate 视频译为“心存怀疑的副牧师”。"
+   },
+   {
+    "term": "refute",
+    "explain": "意为“驳倒，证明……是错误的”，强调用证据或论证推翻对方观点，如 refute a claim/theory。它比 deny（否认）、reject（拒绝接受）语气强：deny 只是声称不对，refute 则要证明不对。"
+   },
+   {
+    "term": "succumb to",
+    "explain": "本义是“屈服于，抵挡不住”，如 succumb to temptation/pressure；用于疾病、伤势时意为“死于”，如 succumb to cancer，是正式、委婉的说法。"
+   },
+   {
+    "term": "vindicate",
+    "explain": "意为“证明……正确，证明……无辜”，常用 be vindicated by（被……证明是对的）；名词 vindication。本句 vindicating him 视频译为“反倒证明了斯诺是正确的”。"
+   }
+  ],
+  "translation_tip": "视频译文“与此同时，心存怀疑的副牧师（协助教区牧师的低级神职人员）亨利·怀特黑德一心想驳倒斯诺，却发现那些饮用该水泵的 水的人比其他人更可能死于这种疾病，反倒证明了斯诺是正确的。”的处理：①紧密同位语按“身份 + 人名”的顺序译出，并用括号补注 curate 的含义。②set out to refute Snow 译为“一心想驳倒斯诺”，突出他最初的明确目的；but found 译为“却发现”，形成转折。③宾语从句中的定语从句 who drank from the pump 前置，译为“那些饮用该水泵的 水的人”；比较结构 far more likely… than others 按汉语语序把“比其他人”提到“更可能”之前。④结果状语 vindicating him 增译“反倒”，点出结果与他的初衷相反；him 明确译为“斯诺”，并补出“是正确的”，使意思完整。"
+ }
+]

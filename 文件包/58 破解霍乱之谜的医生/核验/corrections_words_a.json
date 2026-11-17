@@ -1,0 +1,30 @@
+[
+ {
+  "key": "id=12",
+  "field": "context_usage",
+  "before": "当时人们还不知道霍乱由细菌引起",
+  "after": "当时医学界普遍还不知道霍乱由细菌引起",
+  "reason": "1854年意大利的帕齐尼已在显微镜下观察到霍乱弧菌，只是未被医学界接受，不宜笼统说“人们还不知道”"
+ },
+ {
+  "key": "id=14",
+  "field": "etymology",
+  "before": "18世纪初出现，源自拉丁语 inhalare（向……呼气），由 in-（向，在……上）和 halare（呼吸）构成；英语中作为 exhale（呼出）的反义词使用，表示“吸入”。",
+  "after": "18世纪初（1725年）出现，由前缀 in-（向内）和拉丁语 halare（呼吸）构成，与 exhale（呼出，ex- 意为“向外”）相对，表示“吸入”。拉丁语 inhalare 原义是“向……呼气”，与英语今义不同。",
+  "reason": "Etymonline：英语 inhale 由 in-“向内”加 halare 构成，拉丁语 inhalare 义为“向……呼气”，原稿把 in- 释为“向，在……上”并以拉丁义为来源义，不准确"
+ },
+ {
+  "key": "id=20",
+  "field": "usage_detail",
+  "before": "the bereaved 指死者家属，作主语时谓语用复数，如",
+  "after": "the bereaved 指死者家属，复数同形，可指一人也可指多人，谓语随所指人数变化，如",
+  "reason": "Oxford、Cambridge 均注明 the bereaved 可指一人，并非一律用复数谓语"
+ },
+ {
+  "key": "id=27",
+  "field": "etymology",
+  "before": "来自希腊语 klinikos（病床边的），词根是 kline（床）",
+  "after": "来自希腊语 klinikos（床的，与病床有关的），词根是 klinē（床）",
+  "reason": "Etymonline、Merriam-Webster：klinikos 意为“床的、与病床有关的”"
+ }
+]
