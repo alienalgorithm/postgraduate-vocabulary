@@ -1,0 +1,72 @@
+[
+ {
+  "key": "n=3",
+  "field": "translation_tip",
+  "before": "而是放在“波动”之后单独成句",
+  "after": "而是用逗号隔开，放在“波动”之后",
+  "reason": "视频译文中这部分只是逗号后的小分句，并未单独成句，原表述不准确"
+ },
+ {
+  "key": "n=6",
+  "field": "grammar[0].examples[1].zh",
+  "before": "赢得选举的人都将面临巨额预算赤字。",
+  "after": "不管谁赢得选举，都将面临巨额预算赤字。",
+  "reason": "原译“赢得选举的人都将”语句不通，whoever 作主语从句时宜译“不管谁……都”"
+ },
+ {
+  "key": "n=6",
+  "field": "grammar[2].examples[0].en",
+  "before": "After the merger, the company now employed more than ten thousand people.",
+  "after": "By 1850 the railway had reached the town, and farmers could now send their produce to London in a single day.",
+  "reason": "原例句 the company now employed 搭配生硬，不能很好示范 now 用于过去时叙述，换成地道例句"
+ },
+ {
+  "key": "n=6",
+  "field": "grammar[2].examples[0].zh",
+  "before": "合并之后，这家公司此时已有一万多名员工。",
+  "after": "到1850年，铁路已经通到这个小镇，农民此时一天之内就能把农产品运到伦敦。",
+  "reason": "随英文例句更换"
+ },
+ {
+  "key": "n=9",
+  "field": "knowledge[Queen Victoria].explain",
+  "before": "她登基不到三年，年仅二十岁，所以文中说 a youthful likeness（年轻的肖像）。",
+  "after": "她登基不到三年，年仅二十岁；文中 a youthful likeness（年轻的肖像）指邮票上女王显得年轻的头像。",
+  "reason": "原文只说肖像年轻，未交代原因（邮票头像实据更早的女王头像制作），删去“所以”这一无法证实的因果推断"
+ },
+ {
+  "key": "n=12",
+  "field": "grammar[0].examples[0].en",
+  "before": "Online sales doubled over the past five years, from 2 billion dollars to 4.1 billion.",
+  "after": "Online sales have doubled over the past five years, from $2 billion to $4.1 billion.",
+  "reason": "over the past five years 应与现在完成时连用；金额写法改为外刊通行的 $2 billion"
+ },
+ {
+  "key": "n=13",
+  "field": "structure",
+  "before": "本句是段落的主题句，先概括，下文再展开，这是英语说明文常见的“总分”结构。",
+  "after": "本句不在段首（第4段从第12句开始），上一句讲邮寄量翻番，本句笔锋一转，先概括提出“有缺点”，下一句再具体展开，属于英语说明文常见的“先总后分”写法，起承上启下的作用。",
+  "reason": "第13句并非第4段首句，不能称为段落主题句"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar[1].title",
+  "before": "段首概括句",
+  "after": "概括句引出下文",
+  "reason": "本句不在段首，原标题“段首概括句”与事实不符"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar[1].explain",
+  "before": "说明文常先用一个短句概括，再在后面展开细节。本句 The design had a drawback 只有五个词，提出“有缺点”这一论点，第14句说明缺点是什么，第15句交代改进办法。考研阅读中，这样的短句往往点明段落主旨，题目常围绕它提出的问题设问。",
+  "after": "说明文常先用一个短句概括，再在后面展开细节。本句 The design had a drawback 只有五个词，紧接上一句邮寄量翻番的成绩，笔锋一转提出“有缺点”，第14句说明缺点是什么，第15句交代改进办法。考研阅读中，这类出现在段中的概括短句常是行文的转折点，题目常围绕它提出的问题设问。",
+  "reason": "原说明称本句为段首句、点明段落主旨，与第4段实际结构不符，改为段中转折概括句"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar[1].examples[0].zh",
+  "before": "市政会增设了路灯",
+  "after": "市议会增设了路灯",
+  "reason": "council 指市议会，“市政会”不是通行说法"
+ }
+]

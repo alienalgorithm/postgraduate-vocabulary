@@ -1,0 +1,1725 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "British postage",
+   "predicate": "was levied",
+   "object_or_complement": "",
+   "explain": "主干是 British postage was levied，主谓结构。谓语 was levied 是一般过去时的被动语态（was + 过去分词），邮费是“被征收”的对象，征收者没有说出；according to 引出的介词短语说明征收的依据。"
+  },
+  "components": [
+   {
+    "text": "Before 1840,",
+    "zh": "1840年以前",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "British postage",
+    "zh": "英国的邮费",
+    "role": "主语（British 作定语）"
+   },
+   {
+    "text": "was levied",
+    "zh": "是……来征收的",
+    "role": "谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "according to the number of sheets",
+    "zh": "根据……纸张数量",
+    "role": "方式状语（according to 引导的介词短语），the number of sheets 是第一个宾语"
+   },
+   {
+    "text": "in a letter",
+    "zh": "一封信件中的",
+    "role": "后置定语（介词短语），修饰 sheets"
+   },
+   {
+    "text": "and the mileage",
+    "zh": "及……里程",
+    "role": "according to 的第二个宾语，由 and 与 the number of sheets 并列"
+   },
+   {
+    "text": "of its carriage.",
+    "zh": "其运输的",
+    "role": "后置定语（介词短语），修饰 mileage；its 指 a letter"
+   }
+  ],
+  "structure": "①主句 British postage was levied：主语 British postage，谓语 was levied（一般过去时被动语态）。用被动语态，是因为这里关心的是邮费按什么标准收，而不是由谁来收。\n②句首 Before 1840 是时间状语，交代下文说的是1840年改革以前的旧制度，所以谓语用一般过去时。\n③according to 是复合介词，意为“根据，按照”，后接两个并列宾语：the number of sheets in a letter 和 the mileage of its carriage，由 and 连接（视频说明：according to A and B：按 A 和 B）。\n④第一个宾语中，the number of sheets 意为“纸张的数量”，in a letter 是介词短语作后置定语，修饰 sheets，说明是一封信里的纸张。第二个宾语中，of its carriage 是介词短语作后置定语，修饰 mileage；its 指 a letter（视频说明），its carriage 即“这封信的运送”，整个短语意为“信件运送的里程”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "一般过去时的被动语态",
+    "explain": "被动语态由 be + 过去分词构成，一般过去时用 was/were + 过去分词。动作的执行者不重要、不明确或不言自明时，常用被动语态并省略 by 短语。本句 postage was levied 不交代征收者，把信息重心放在“邮费按什么标准征收”上。考研阅读中说明制度、规则的句子大量使用被动语态；翻译时常不译出“被”字，而改用“是……的”等结构，视频即译为“是根据……来征收的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In the Middle Ages, taxes were often collected in grain rather than in coins.",
+      "zh": "在中世纪，税收常常以谷物而非钱币的形式征收。"
+     }
+    ]
+   },
+   {
+    "title": "according to 后接并列宾语",
+    "explain": "according to 是复合介词，意为“根据，按照”，后接名词或名词短语，表示依据某种标准、规定或某人的说法，如 according to the rules、according to the report。介词后可以接 A and B 两个并列宾语，本句即 according to the number of sheets ... and the mileage ...。读长宾语时要找准 and 连接的是哪两部分：这里连接的是两个名词短语 the number of sheets in a letter 和 the mileage of its carriage，而不是 a letter 和 the mileage。易错点：according to 不能接 me 或 my opinion 表示“我认为”，“依我看”要说 in my opinion。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Fees are calculated according to the size of the property and the length of the lease.",
+      "zh": "费用根据房产的面积和租期的长短来计算。"
+     },
+     {
+      "en": "Seats on the committee are allocated according to population and economic output.",
+      "zh": "委员会的席位按人口和经济产出来分配。"
+     }
+    ]
+   },
+   {
+    "title": "the number of 与 a number of",
+    "explain": "the number of + 复数名词 意为“……的数量”，中心词是 number，作主语时谓语用单数；a number of + 复数名词 意为“若干，许多”，相当于 many，作主语时谓语用复数。本句 the number of sheets 指“纸张的数量”，作 according to 的宾语。考研完形和写作常考这组主谓一致，判断时先看前面是定冠词 the 还是不定冠词 a。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The number of students applying for graduate programmes has risen sharply this year.",
+      "zh": "今年申请研究生项目的学生人数大幅增加。"
+     },
+     {
+      "en": "A number of residents have complained about the noise from the construction site.",
+      "zh": "不少居民投诉了建筑工地的噪音。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "levy ... on",
+    "explain": "levy 作动词指（政府、机构）征收税款、费用、罚款，常用结构 levy a tax/duty/fine on sb/sth，如 levy a tax on imported goods；也可作名词，指一项征税，如 a levy on plastic bags。正式用词，多见于法律、财经类文本。视频译为“征收”。"
+   },
+   {
+    "term": "carriage（运送）",
+    "explain": "熟词僻义：carriage 常见义是“马车、车厢”，在本句中是不可数名词，指运送这一行为，视频译为“运输”；商业用语 carriage paid 意为“运费已付”。"
+   },
+   {
+    "term": "mileage",
+    "explain": "指以英里计的行程距离。旧制度下信件运送得越远，邮费越高；与第6句 any destination in Britain（英国境内任何目的地）对照，可以看出新制度不再按距离计费。"
+   }
+  ],
+  "translation_tip": "视频译文“1840年以前，英国的邮费是根据一封信件中的纸张数量及其运输的里程来征收的。”的处理：①被动语态 was levied 不译“被”字，用“是……来征收的”的判断句式表达，语气客观。②according to 引出的两个并列宾语提到谓语前，译成“根据……来征收”，符合汉语状语在谓语前的习惯。③两个后置定语前移：in a letter 译成“一封信件中的”，修饰“纸张数量”；of its carriage 译成“其运输的”，修饰“里程”。④and 与回指信件的 its 合译为“及其”，既连接两个宾语，又交代所属。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "The sum",
+   "predicate": "was",
+   "object_or_complement": "payable",
+   "explain": "本句由 so 连接两个分句。第一个分句主干 The sum was payable，主系表结构，一般过去时；第二个分句主干 the person settled it，主谓宾结构，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The sum",
+    "zh": "这笔钱",
+    "role": "主语（第一个分句）"
+   },
+   {
+    "text": "was usually",
+    "zh": "通常是",
+    "role": "系动词 was + 频度副词 usually（作状语）"
+   },
+   {
+    "text": "payable",
+    "zh": "应支付的",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "on delivery,",
+    "zh": "在投递时",
+    "role": "时间状语（介词短语），修饰 payable，说明付款的时间"
+   },
+   {
+    "text": "so",
+    "zh": "所以",
+    "role": "并列连词，引出结果"
+   },
+   {
+    "text": "the person",
+    "zh": "人",
+    "role": "主语（第二个分句）"
+   },
+   {
+    "text": "receiving the correspondence,",
+    "zh": "收到信件的",
+    "role": "后置定语（现在分词短语），修饰 the person"
+   },
+   {
+    "text": "not the sender,",
+    "zh": "而非寄信人",
+    "role": "插入成分（not + 名词），与主语 the person 形成对照"
+   },
+   {
+    "text": "settled",
+    "zh": "结清",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "it.",
+    "zh": "邮费",
+    "role": "宾语（代词，指 the sum）"
+   }
+  ],
+  "structure": "①本句由并列连词 so 连接两个分句，前一分句说原因，后一分句说结果。\n②第一个分句 The sum was usually payable on delivery：主语 The sum（这笔钱，回指上句的邮费），系动词 was，表语 payable（应支付的）；usually 是频度副词，放在系动词 was 之后；on delivery 是介词短语，修饰 payable，说明付款的时间是在投递时。\n③第二个分句 the person ... settled it：主语 the person，谓语 settled，宾语 it（视频说明：it 指 the sum）。receiving the correspondence 是现在分词短语作后置定语，修饰 person（视频说明），相当于 who received the correspondence，表示主动。\n④not the sender 夹在主语和谓语之间，前后用逗号隔开，是 not + 名词 构成的插入成分，与主语 the person 形成对照，强调付钱的是收信人而不是寄信人。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示主动或正在进行，相当于一个定语从句。本句 the person receiving the correspondence 相当于 the person who received the correspondence，person 与 receive 是主谓关系，所以用现在分词；若名词是动作的承受者，就要用过去分词，如 the letters received yesterday。读长句时要注意：receiving 不是谓语，真正的谓语是后面的 settled。考研阅读中这类结构极常见，常与过去分词作定语对比考查。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Passengers arriving after midnight will have to take a taxi into the city.",
+      "zh": "午夜后抵达的乘客只能乘出租车进城。"
+     },
+     {
+      "en": "Companies hiring overseas staff must comply with immigration rules.",
+      "zh": "雇用海外员工的公司必须遵守移民规定。"
+     }
+    ]
+   },
+   {
+    "title": "A, not B 插入结构表示对照",
+    "explain": "英语可以在名词后用逗号隔出 not + 名词，表示“是 A 而不是 B”，强调对照，意思相当于 A rather than B，也可以写成 not B but A。本句 not the sender 夹在主语 the person receiving the correspondence 和谓语 settled 之间，读的时候要先跳过两个逗号之间的部分，把主语和谓语连起来找主干。视频译为“而非寄信人”，保留了这种对照。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The tenant, not the landlord, is responsible for minor repairs.",
+      "zh": "小修小补由租户而不是房东负责。"
+     },
+     {
+      "en": "Voters, not party leaders, will choose the next candidate.",
+      "zh": "下一任候选人将由选民而非党内领导人选出。"
+     }
+    ]
+   },
+   {
+    "title": "-able 形容词的被动意义",
+    "explain": "payable 由 pay 加后缀 -able 构成，意为“应支付的，可支付的”，与主语 the sum 是动宾关系（这笔钱被支付），含被动意义。-able 形容词多表示“可被……的”，如 readable、washable。payable 的常见搭配有 payable on delivery（货到付款）、payable in advance（须预付）、payable to sb（付给某人，用于支票抬头）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The deposit is payable in advance and will be refunded at the end of the tenancy.",
+      "zh": "押金须预先支付，租期结束时退还。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "on delivery",
+    "explain": "在投递时，在交货时；cash on delivery（货到付款，缩写 COD）是常见商业用语。本句 payable on delivery 指信件送到收信人手里时才付邮费，视频译为“在投递时应支付的”。"
+   },
+   {
+    "term": "settle（结清）",
+    "explain": "熟词僻义：settle 除“定居、解决”外，还指“结清（账款）”，如 settle a bill、settle a debt、settle an account。本句 settled it 指结清这笔邮费，视频译为“结清邮费”。"
+   },
+   {
+    "term": "the sum",
+    "explain": "sum 可指一笔钱，如 a large sum of money；本句 The sum 回指上句被征收的邮费，视频译为“这笔钱”。"
+   },
+   {
+    "term": "correspondence",
+    "explain": "作“信件”讲时是不可数的集合名词，比 letters 正式；本句用它代替 letter，避免与上句重复。"
+   }
+  ],
+  "translation_tip": "视频译文“这笔钱通常是在投递时应支付的，所以，收到信件的人，而非寄信人，结清邮费。”的处理：①The sum 译为“这笔钱”，用“这”回指上句的邮费。②系表结构 was payable 译成“是……应支付的”，on delivery 提到“应支付”之前，译为“在投递时”。③现在分词短语 receiving the correspondence 前置为“收到信件的”，修饰“人”。④插入成分 not the sender 保留在原位，前后用逗号隔开，译为“而非寄信人”，保持英文的对照语气。⑤代词 it 不译成“它”，而具体译为“邮费”，使指代清楚。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Prices",
+   "predicate": "fluctuated",
+   "object_or_complement": "",
+   "explain": "主干是 Prices fluctuated，主谓结构，fluctuate 为不及物动词，不带宾语。谓语是一般过去时，主动语态，描述旧制度下价格的状况。"
+  },
+  "components": [
+   {
+    "text": "Prices",
+    "zh": "价格",
+    "role": "主语"
+   },
+   {
+    "text": "thus",
+    "zh": "此种方式",
+    "role": "方式状语（副词），承接前两句的计费方式"
+   },
+   {
+    "text": "fluctuated",
+    "zh": "波动",
+    "role": "谓语（不及物动词，一般过去时）"
+   },
+   {
+    "text": "from one",
+    "zh": "从一件",
+    "role": "范围状语 from ... to ... 的前半部分"
+   },
+   {
+    "text": "postal",
+    "zh": "邮政",
+    "role": "定语（形容词），修饰 item"
+   },
+   {
+    "text": "item",
+    "zh": "物品",
+    "role": "介词 from 的宾语中心词"
+   },
+   {
+    "text": "to the next.",
+    "zh": "到下一件",
+    "role": "范围状语的后半部分，the next 后省略 postal item"
+   }
+  ],
+  "structure": "①主句 Prices fluctuated：主语 Prices，谓语 fluctuated（不及物动词，一般过去时）。\n②thus 是副词，插在主语和谓语之间作状语，承接前两句所说的做法，视频译为“此种方式”，表示价格正是在按纸张数和里程计费、由收信人付款的方式下而波动。\n③from one postal item to the next 是 from ... to ... 介词短语作状语，说明波动的范围：从一件邮件到下一件（视频说明：from one … to the next：从一件到下一件）。postal 是形容词，修饰 item；the next 后面省略了 postal item，避免重复。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "from one ... to the next 表示逐个变化",
+    "explain": "from one + 单数名词 + to the next（或 to another）表示“从一个……到下一个”，强调每一个都可能不同，如 from one day to the next（每天都不一样）、vary from one country to another（因国而异）。the next 后省略了与前面相同的名词，本句即 the next postal item。本句意思是每件邮件的价格都可能不同，与第6、7句的统一便士邮资形成对照。考研阅读中常见 vary from ... to ...、differ from one ... to another，表示差异普遍存在。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Opening hours can vary from one branch to the next, so check before you visit.",
+      "zh": "各分店的营业时间可能各不相同，所以去之前先查一下。"
+     },
+     {
+      "en": "Her mood seemed to change from one hour to the next.",
+      "zh": "她的情绪似乎每个小时都在变。"
+     }
+    ]
+   },
+   {
+    "title": "副词 thus 的含义与位置",
+    "explain": "thus 是正式用词，主要有两个意思：一是“因此，所以”，相当于 therefore；二是“以此方式，这样”，相当于 in this way。它可以放在句首、句中逗号后，也可以放在主语和谓语之间。本句 thus 位于主语 Prices 和谓语 fluctuated 之间，视频译为“此种方式”，即价格在前两句所说的计费方式下波动。写作中 thus 是副词，不能像连词那样直接用逗号连接两个分句，应写成 ...; thus, ... 或另起一句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new road bypasses the town centre and thus reduces congestion.",
+      "zh": "新路绕开了市中心，从而缓解了交通拥堵。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "fluctuate",
+    "explain": "不及物动词，指（价格、数量、温度等）上下波动、起伏不定，常用 fluctuate between A and B、fluctuate wildly；名词 fluctuation，如 currency fluctuations（汇率波动）。考研阅读经济类文章高频词。视频译为“波动”。"
+   },
+   {
+    "term": "postal item",
+    "explain": "指一件邮件，可以是信件，也可以是包裹。item 本义是清单中的一项，常和其他名词搭配表示“一件，一项”，如 an item of clothing、a news item。视频说明：item 指一件具体的物品，在此处指一件邮件或包裹。"
+   }
+  ],
+  "translation_tip": "视频译文“价格此种方式波动，从一件邮政物品到下一件。”的处理：①thus 按“以此方式”的意思译为“此种方式”，放在“波动”前，紧扣前文所说的计费方式。②from ... to ... 介词短语没有提到谓语前，而是用逗号隔开，放在“波动”之后，译为“从一件邮政物品到下一件”，突出逐件不同的意思。③the next 后省略的 postal item 在汉语中也省略，只译“下一件”，与前面的“一件邮政物品”呼应。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Rowland Hill",
+   "predicate": "published",
+   "object_or_complement": "a booklet",
+   "explain": "主干是 Rowland Hill published a booklet，主谓宾结构。谓语是一般过去时，主动语态，叙述过去发生的事。"
+  },
+  "components": [
+   {
+    "text": "In 1837",
+    "zh": "1837年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Rowland Hill",
+    "zh": "罗兰·希尔",
+    "role": "主语"
+   },
+   {
+    "text": "published",
+    "zh": "出版了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "a booklet",
+    "zh": "一本小册子",
+    "role": "宾语"
+   },
+   {
+    "text": "urging",
+    "zh": "呼吁",
+    "role": "现在分词，引导后置定语，补充说明 a booklet"
+   },
+   {
+    "text": "reform.",
+    "zh": "改革",
+    "role": "现在分词 urging 的宾语"
+   }
+  ],
+  "structure": "①主句 Rowland Hill published a booklet：主语 Rowland Hill，谓语 published，宾语 a booklet。\n②句首 In 1837 是时间状语。较短的时间状语放在句首时可以不加逗号，本句即如此。\n③urging reform 是现在分词短语，补充说明 booklet（视频说明），相当于 which urged reform；booklet 与 urge 在逻辑上是主谓关系，小册子“呼吁”改革，所以用现在分词表示主动。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "现在分词短语作后置定语修饰物",
+    "explain": "现在分词短语作后置定语时，被修饰的名词可以是人，也可以是物，只要名词与动词在逻辑上是主动关系即可。本句 a booklet urging reform 中，小册子是“呼吁”的逻辑主语，相当于 a booklet which urged reform。这种用法在新闻和学术文章里很常见，如 a report showing ...、a letter asking for ...、a law requiring ...。翻译时可以前置为定语，也可以像视频那样拆成后续的短句，译为“出版了一本小册子，呼吁改革”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The ministry issued a statement denying any involvement in the deal.",
+      "zh": "该部发表声明，否认参与了这笔交易。"
+     },
+     {
+      "en": "Researchers published a paper suggesting that the drug may have serious side effects.",
+      "zh": "研究人员发表了一篇论文，指出这种药可能有严重的副作用。"
+     }
+    ]
+   },
+   {
+    "title": "动词 urge 的用法",
+    "explain": "urge 意为“敦促，力劝；呼吁”，常用结构有三种：urge sth（呼吁某事，如 urge caution、urge reform）；urge sb to do sth（敦促某人做某事）；urge that ... (should) do（that 从句用虚拟语气，谓语用 should + 动词原形，should 可以省略）。本句 urging reform 属于第一种，reform 是不可数名词，泛指改革。考研写作中呼吁政府、社会采取措施时常用 urge。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Doctors urged the government to ban smoking in all public places.",
+      "zh": "医生们敦促政府在所有公共场所禁烟。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Rowland Hill",
+    "explain": "罗兰·希尔（1795年至1879年），英国教育家、社会改革家，以推动英国邮政改革、提出统一便士邮资而闻名。他在1837年出版的小册子名为 Post Office Reform: Its Importance and Practicability（《邮政改革：其重要性与可行性》），即本句所说的 booklet。"
+   },
+   {
+    "term": "booklet",
+    "explain": "book 加表示“小”的后缀 -let，指小册子；同类构词还有 piglet（小猪）、droplet（小滴）、leaflet（传单）。"
+   },
+   {
+    "term": "reform",
+    "explain": "不可数时泛指改革，可数时指具体的改革措施，如 economic reforms；urge reform、push for reform、carry out reforms 都是常见搭配。"
+   }
+  ],
+  "translation_tip": "视频译文“1837年，罗兰·希尔出版了一本小册子，呼吁改革。”的处理：①时间状语 In 1837 放在句首，后加逗号。②现在分词短语 urging reform 不前置为定语，而是拆成独立的短句“呼吁改革”，放在“一本小册子”之后，语序与原文一致，“呼吁改革”也更突出。③人名按通行译法译为“罗兰·希尔”，名和姓之间用间隔号。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Parliament",
+   "predicate": "enacted",
+   "object_or_complement": "the campaigner's proposal",
+   "explain": "本句是由 and 连接的并列句。前一分句主干 Parliament enacted the campaigner's proposal，主谓宾结构；后一分句主干 the Uniform Penny Post began，主谓结构，begin 在此为不及物动词。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Parliament",
+    "zh": "议会",
+    "role": "主语（第一个分句）"
+   },
+   {
+    "text": "enacted",
+    "zh": "立法通过了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "the campaigner's",
+    "zh": "这位改革倡导者的",
+    "role": "定语（名词所有格），修饰 proposal"
+   },
+   {
+    "text": "proposal",
+    "zh": "提议",
+    "role": "宾语"
+   },
+   {
+    "text": "in 1839,",
+    "zh": "于1839年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "and",
+    "zh": "并且",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "on 10 January 1840",
+    "zh": "在1840年1月10日",
+    "role": "时间状语（介词短语），位于第二个分句句首"
+   },
+   {
+    "text": "the Uniform Penny Post",
+    "zh": "“统一便士邮资”",
+    "role": "主语（第二个分句，专有名词）"
+   },
+   {
+    "text": "began.",
+    "zh": "开始实行",
+    "role": "谓语（不及物动词，一般过去时）"
+   }
+  ],
+  "structure": "①第一个分句：主语 Parliament，谓语 enacted，宾语 the campaigner's proposal，in 1839 作时间状语。the campaigner's 是名词所有格作定语，campaigner 指上一句的 Rowland Hill（视频说明），用表示身份的名词回指同一人，避免重复人名。\n②and 连接第二个分句：on 10 January 1840 是时间状语，放在分句句首；主语 the Uniform Penny Post，谓语 began。\n③两个分句按时间先后排列：1839年议会立法通过提议，1840年1月10日新制度开始实行。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词所有格与同指替换",
+    "explain": "名词所有格 's 表示所属，the campaigner's proposal 即 the proposal of the campaigner。英语为避免重复，常用一个概括身份的名词回指前文提到的人或物，本句用 the campaigner（倡导者）回指上一句的 Rowland Hill（视频说明），同时点出他的身份。考研阅读中，这种同指替换常是解题线索：看到 the + 名词 回指前文时，要找出它指的是谁或什么。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Maria Lopez founded the charity in 2005. Today the former nurse runs it from a small office in Madrid.",
+      "zh": "玛丽亚·洛佩斯于2005年创办了这家慈善机构。如今，这位前护士在马德里的一间小办公室里管理着它。"
+     }
+    ]
+   },
+   {
+    "title": "时间介词 in 与 on",
+    "explain": "年份、月份前用 in，如 in 1839、in February 1841；具体某一天前用 on，如 on 10 January 1840、on 6 May。英式英语日期常写成“日 月 年”（10 January 1840），美式英语多写成“月 日, 年”（January 10, 1840），本文全部采用英式写法。考研写作中写日期要前后统一。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new library opened on 3 March 2015, and in 2018 it added a children's wing.",
+      "zh": "新图书馆于2015年3月3日开放，2018年又增建了儿童馆。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Parliament",
+    "explain": "本句指英国议会，作专有名词时首字母大写，前面通常不加冠词。英国议会由下议院（House of Commons）和上议院（House of Lords）组成。"
+   },
+   {
+    "term": "enact",
+    "explain": "正式用词，指议会等立法机关通过法律、使提议成为法律，如 enact legislation、enact a law；名词 enactment。视频译为“立法通过了”。"
+   },
+   {
+    "term": "the Uniform Penny Post",
+    "explain": "统一便士邮资制度，1840年1月10日在英国开始实行，规定国内一定重量以内的信件不论远近都收一便士（见第6句）。uniform 作形容词意为“统一的，一致的”。"
+   }
+  ],
+  "translation_tip": "视频译文“议会于1839年立法通过了这位改革倡导者的提议，并且在1840年1月10日，“统一便士邮资”开始实行。”的处理：①句末时间状语 in 1839 提到谓语前，译为“于1839年”，符合汉语时间状语在谓语前的习惯。②enacted 译为“立法通过了”，点明议会是以立法形式通过的。③the campaigner's 译为“这位改革倡导者的”，用“这位”回指希尔，并增补“改革”说明他倡导的内容。④专有名词 the Uniform Penny Post 加引号译为“统一便士邮资”，began 译为“开始实行”，增补“实行”与制度搭配。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "A letter",
+   "predicate": "cost",
+   "object_or_complement": "one penny",
+   "explain": "本句由 and 连接两个分句。前一分句主干 A letter cost one penny，主谓宾结构，cost 在此是过去式（cost 的过去式和过去分词与原形同形）；后一分句主干 the fee was prepaid，一般过去时被动语态，by whoever sent it 引出动作执行者。"
+  },
+  "components": [
+   {
+    "text": "A letter",
+    "zh": "一封……信",
+    "role": "主语（第一个分句）"
+   },
+   {
+    "text": "of up to half an ounce",
+    "zh": "重量不超过半盎司的",
+    "role": "后置定语（介词短语），修饰 letter"
+   },
+   {
+    "text": "now",
+    "zh": "现在",
+    "role": "时间状语（副词，在过去时叙述中指“此时，从那时起”）"
+   },
+   {
+    "text": "cost",
+    "zh": "都只花费",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "one penny",
+    "zh": "一便士",
+    "role": "宾语"
+   },
+   {
+    "text": "to any destination",
+    "zh": "寄往……任何目的地",
+    "role": "状语（介词短语），表示寄送的方向"
+   },
+   {
+    "text": "in Britain,",
+    "zh": "英国境内",
+    "role": "后置定语（介词短语），修饰 destination"
+   },
+   {
+    "text": "and",
+    "zh": "并且",
+    "role": "并列连词，连接两个分句"
+   },
+   {
+    "text": "the fee",
+    "zh": "费用",
+    "role": "主语（第二个分句）"
+   },
+   {
+    "text": "was prepaid",
+    "zh": "预付",
+    "role": "谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "by whoever sent it.",
+    "zh": "由寄信的人",
+    "role": "状语（介词短语），引出动作执行者；whoever sent it 是名词性从句，作 by 的宾语"
+   }
+  ],
+  "structure": "①第一个分句：主语 A letter，of up to half an ounce 是介词短语作后置定语，修饰 letter（视频说明），说明信件重量的上限；谓语 cost，宾语 one penny；now 是时间状语；to any destination 是介词短语作状语，说明寄往的地方，in Britain 修饰 destination。\n②cost 前有 now，但后一分句的谓语 was prepaid 是过去时，全文也在叙述1840年的事，可知 cost 是过去式。now 用于过去时叙述，指“这时，从那时起”，即改革实施以后。\n③第二个分句：主语 the fee，谓语 was prepaid（一般过去时被动语态），by 引出动作执行者。by 的宾语是 whoever sent it，为名词性从句（视频说明），whoever 在从句中作主语，相当于 anyone who；it 指 letter（视频说明）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whoever 引导名词性从句",
+    "explain": "whoever 意为“任何……的人”，相当于 anyone who，可以引导名词性从句作主语、宾语或介词宾语，并在从句中充当主语或宾语。本句 whoever sent it 作介词 by 的宾语，whoever 在从句中作 sent 的主语。易错点：选用 whoever 还是 whomever 要看它在从句内部作什么成分，不看前面的介词；从句缺主语，就用 whoever。whoever 还可以引导让步状语从句，意为“不管谁”，相当于 no matter who。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The prize will go to whoever submits the most original design.",
+      "zh": "奖项将颁给提交最具原创性设计的人。"
+     },
+     {
+      "en": "Whoever wins the election will face a huge budget deficit.",
+      "zh": "不管谁赢得选举，都将面临巨额预算赤字。"
+     }
+    ]
+   },
+   {
+    "title": "up to 表示上限",
+    "explain": "up to + 数量 意为“最多，不超过”，表示上限，如 up to 50 people、up to 30 per cent。本句 of up to half an ounce 意为“重量不超过半盎司的”，作 letter 的后置定语；of + 表示度量的名词短语可以说明人或物的特征，如 a man of fifty（一个五十岁的男人）。视频增补“重量”二字，译为“重量不超过半盎司的”。up to 还有“由……决定”（It's up to you.）和“胜任”（be up to the job）等意思，要按语境区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new battery can power the car for up to 500 kilometres on a single charge.",
+      "zh": "这种新电池充一次电可让汽车最多行驶500公里。"
+     }
+    ]
+   },
+   {
+    "title": "now 用于过去时叙述",
+    "explain": "now 不只用于现在时。在过去时叙述中，now 指所叙述时刻的“这时，此时，从那时起”，表示情况已经与此前不同。本句 now cost one penny 指改革实施以后寄信只需一便士，与第一段所说的旧制度形成对照，视频译为“现在”。考研阅读的历史叙述中常见这种用法，不能因为看到 now 就认为谓语必须用现在时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By 1850 the railway had reached the town, and farmers could now send their produce to London in a single day.",
+      "zh": "到1850年，铁路已经通到这个小镇，农民此时一天之内就能把农产品运到伦敦。"
+     }
+    ]
+   },
+   {
+    "title": "cost 的用法",
+    "explain": "cost 作“花费”讲时主语是物，结构为 sth costs (sb) + 金额，不用于被动语态；cost 的过去式和过去分词都是 cost。本句 A letter ... cost one penny。人作主语时用 spend 或 pay：sb spends money on sth / (in) doing sth；sb pays money for sth。考研写作中常见的错误是把 cost 用成以人作主语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The repairs cost the city nearly two million pounds.",
+      "zh": "这些维修花了该市将近两百万英镑。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "half an ounce",
+    "explain": "ounce（盎司）是英制重量单位，1盎司约合28.35克，半盎司约14克。half 放在不定冠词之前：half an ounce、half an hour。"
+   },
+   {
+    "term": "penny",
+    "explain": "便士，英国货币单位。1971年英国货币改为十进制以前，1英镑等于20先令，1先令等于12便士，即1英镑等于240便士；改制后1英镑等于100便士。表示金额时复数用 pence，表示硬币枚数时用 pennies。"
+   },
+   {
+    "term": "prepay",
+    "explain": "pre-（预先）+ pay（支付），意为“预付”。本句 was prepaid 指邮费由寄信人预先支付，与第2句旧制度下 payable on delivery（投递时由收信人支付）形成对照。"
+   },
+   {
+    "term": "any destination in Britain",
+    "explain": "英国境内任何地方，说明新制度下邮费与距离无关，呼应第1句旧制度按 mileage（里程）计费。"
+   }
+  ],
+  "translation_tip": "视频译文“一封重量不超过半盎司的信，现在寄往英国境内任何目的地都只花费一便士，并且费用由寄信的人预付。”的处理：①后置定语 of up to half an ounce 前置为“重量不超过半盎司的”，增补“重量”使意思明确；主语较长，后加逗号停顿。②to any destination in Britain 提到谓语前，增补动词“寄往”；in Britain 前置并增补“境内”。③增补“都只”，强调不论远近一律一便士。④被动句 the fee was prepaid by whoever sent it 译为“费用由寄信的人预付”，用“由”字句表达被动，名词性从句 whoever sent it 译为“寄信的人”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "One flat-rate charge",
+   "predicate": "replaced",
+   "object_or_complement": "variation",
+   "explain": "主干是 One flat-rate charge replaced variation，主谓宾结构，with simplicity 与谓语构成 replace A with B。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "One",
+    "zh": "一种",
+    "role": "定语（数词），修饰 charge，强调只有一种"
+   },
+   {
+    "text": "flat-rate charge",
+    "zh": "统一收费",
+    "role": "主语（flat-rate 是复合形容词，作 charge 的定语）"
+   },
+   {
+    "text": "replaced",
+    "zh": "取代了",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "variation",
+    "zh": "差异",
+    "role": "宾语（被取代的旧状态）"
+   },
+   {
+    "text": "with simplicity.",
+    "zh": "以简便",
+    "role": "介词短语，与 replace 构成 replace A with B，说明取而代之的新状态"
+   }
+  ],
+  "structure": "①主语 One flat-rate charge：中心词 charge（收费），flat-rate 是由连字符连接的复合形容词作定语，意为“统一费率的”；One 强调只有一种收费标准。\n②谓语 replaced，宾语 variation；with simplicity 是介词短语，与谓语构成 replace A with B（以 B 取代 A）（视频说明），A 是被取代的旧状态 variation，B 是新状态 simplicity。\n③本句用 variation 和 simplicity 两个抽象名词概括新旧两种制度：旧制度下每件邮件价格各不相同，新制度一律一便士。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "replace A with B",
+    "explain": "replace A with/by B 意为“用 B 取代 A”，A 是被换掉的旧事物，B 是新事物，顺序不能弄反。也可以说 B replaces A（B 取代 A）、A is replaced by/with B（A 被 B 取代）。本句主语是新事物 one flat-rate charge，宾语 variation 是被取代的旧状态，with simplicity 说明取而代之的新状态，视频译为“以简便取代了差异”。易混结构：substitute B for A 也表示“用 B 代替 A”，但 A、B 的位置与 replace A with B 相反，考研完形常考这一点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many offices have replaced paper forms with online applications.",
+      "zh": "许多办公室已用在线申请取代了纸质表格。"
+     },
+     {
+      "en": "You can substitute honey for sugar in most of these recipes.",
+      "zh": "这些食谱大多可以用蜂蜜代替糖。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词作定语",
+    "explain": "两个或几个词用连字符连接，放在名词前作定语，构成复合形容词，如 flat-rate charge、well-known writer、long-term plan。数词 + 名词构成复合形容词时，名词用单数，如 a five-year plan、a ten-minute walk，不说 five-years。本句 flat-rate 修饰 charge；下一句的 one-penny 修饰 denomination，也是同类结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city introduced a flat-rate fare for all bus journeys.",
+      "zh": "该市对所有公交行程实行统一票价。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "flat rate",
+    "explain": "flat 熟词僻义：除“平的”外，还指（价格、费用）固定不变的、统一的，flat rate 即统一费率，如 a flat fee（固定费用）、a flat-rate tax（单一税率税）。视频把 flat-rate charge 译为“统一收费”。"
+   },
+   {
+    "term": "variation 与 simplicity",
+    "explain": "两个抽象名词分别概括旧制度和新制度：variation 指价格随纸张数和里程而产生的差异，simplicity 指一律一便士带来的简便。视频分别译为“差异”“简便”。"
+   }
+  ],
+  "translation_tip": "视频译文“一种统一收费以简便取代了差异。”的处理：①replace A with B 调整为“以 B 取代了 A”，介词短语 with simplicity 提到谓语前，译为“以简便”。②One 译为“一种”，强调只有一种收费。③复合形容词 flat-rate 与 charge 合译为“统一收费”。④两个抽象名词直接译为“简便”“差异”，保持原文简洁的概括风格。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The Penny Black",
+   "predicate": "was released",
+   "object_or_complement": "",
+   "explain": "主干是 The Penny Black was released，一般过去时被动语态。a one-penny denomination 是主语的同位语，句末 its validity starting on 6 May 是独立主格结构。"
+  },
+  "components": [
+   {
+    "text": "The Penny Black,",
+    "zh": "黑便士",
+    "role": "主语（专有名词）"
+   },
+   {
+    "text": "a one-penny denomination,",
+    "zh": "一枚面值一便士的邮票",
+    "role": "同位语，补充说明 The Penny Black"
+   },
+   {
+    "text": "was released",
+    "zh": "发行",
+    "role": "谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "on 1 May 1840,",
+    "zh": "于1840年5月1日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "its validity",
+    "zh": "它的有效性",
+    "role": "独立主格结构的逻辑主语，its 指 The Penny Black"
+   },
+   {
+    "text": "starting on 6 May.",
+    "zh": "从5月6日开始",
+    "role": "独立主格结构中的现在分词短语，作补充说明"
+   }
+  ],
+  "structure": "①主句 The Penny Black was released on 1 May 1840：主语 The Penny Black，谓语 was released（一般过去时被动语态），on 1 May 1840 作时间状语。\n②主语后的 a one-penny denomination 是同位语，补充说明 Penny Black（视频说明）；denomination 意为“面值”，这里用面值指代一枚面值一便士的邮票。\n③its validity starting on 6 May 是独立主格结构：its validity 是逻辑主语，starting on 6 May 是现在分词短语，两者是主谓关系。它不修饰句中某个词，而是对整个主句作补充说明，相当于 and its validity started on 6 May；its 指 The Penny Black。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "独立主格结构",
+    "explain": "独立主格结构由“名词或代词 + 分词（或形容词、副词、介词短语等）”构成，自带逻辑主语，在句中作状语，表示时间、原因、条件、伴随或补充说明。本句 its validity starting on 6 May 中，逻辑主语 its validity 与主句主语 The Penny Black 不同，所以分词前必须保留它；validity 与 start 是主动关系，用现在分词。如果去掉逻辑主语只写 starting on 6 May，分词的逻辑主语就成了邮票本身，意思就变了。考研翻译中独立主格常译为并列分句，本句视频即译为“它的有效性从5月6日开始”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The meeting ended at noon, most delegates leaving for the airport immediately afterwards.",
+      "zh": "会议在中午结束，大多数代表随即动身前往机场。"
+     },
+     {
+      "en": "Weather permitting, the race will start at nine o'clock.",
+      "zh": "如果天气允许，比赛将在九点开始。"
+     }
+    ]
+   },
+   {
+    "title": "同位语",
+    "explain": "同位语是对前面名词的补充说明，与它指同一事物，常用逗号隔开。本句 a one-penny denomination 说明 The Penny Black 是什么：一枚面值一便士的邮票。同位语夹在主语和谓语之间时，先跳过两个逗号之间的部分，把 The Penny Black 和 was released 连起来，就能找到主干。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Ottawa, the capital of Canada, lies on the border between Ontario and Quebec.",
+      "zh": "加拿大首都渥太华位于安大略省和魁北克省的交界处。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Penny Black",
+    "explain": "黑便士，1840年在英国发行，是世界上第一枚用于公共邮政系统的背胶邮票，因底色为黑色、面值一便士而得名。"
+   },
+   {
+    "term": "denomination（面值）",
+    "explain": "熟词僻义：denomination 常见义是“宗教派别”，在货币、邮票语境中指“面值，面额”，如 notes of small denominations（小面额钞票）。本句 a one-penny denomination 用面值指代邮票本身，视频译为“一枚面值一便士的邮票”。"
+   },
+   {
+    "term": "validity",
+    "explain": "名词，形容词为 valid（有效的），反义词 invalid。视频说明：validity 指（票据、合同、证件等的）有效性、合法效力，在此处特指正式生效、可被官方认可使用的状态。即邮票5月1日发行，5月6日起才正式可以使用。"
+   },
+   {
+    "term": "release（发行）",
+    "explain": "release 除“释放”外，还表示发行、发布（邮票、电影、唱片、产品等），如 release a new album。视频译为“发行”。"
+   }
+  ],
+  "translation_tip": "视频译文“黑便士，一枚面值一便士的邮票，发行于1840年5月1日，它的有效性从5月6日开始。”的处理：①同位语 a one-penny denomination 保留在原位，前后加逗号，把 denomination 具体化为“一枚面值一便士的邮票”。②被动语态 was released 不译“被”字，译为“发行于”，时间状语紧跟其后，保持英文语序。③独立主格结构 its validity starting on 6 May 译成独立分句“它的有效性从5月6日开始”，its 译为“它的”，补出逻辑主语。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "a youthful likeness of Queen Victoria",
+   "predicate": "was engraved（倒装为 Engraved … was）",
+   "object_or_complement": "",
+   "explain": "本句是完全倒装句，正常语序为 A youthful likeness of Queen Victoria, the reigning monarch, was engraved on it。主干是 a youthful likeness was engraved，一般过去时被动语态；过去分词 Engraved 和地点状语 on it 提到句首，助动词 was 放在主语之前。"
+  },
+  "components": [
+   {
+    "text": "Engraved",
+    "zh": "雕刻着",
+    "role": "过去分词，与后面的 was 构成被动谓语 was engraved，提至句首引起完全倒装"
+   },
+   {
+    "text": "on it",
+    "zh": "它的上面",
+    "role": "地点状语（介词短语），it 指 the Penny Black"
+   },
+   {
+    "text": "was",
+    "zh": "（助动词，与 Engraved 合译为“雕刻着”）",
+    "role": "被动语态的助动词，倒装后位于主语之前"
+   },
+   {
+    "text": "a youthful",
+    "zh": "年轻的",
+    "role": "主语的限定词和前置定语，youthful 修饰 likeness"
+   },
+   {
+    "text": "likeness",
+    "zh": "肖像",
+    "role": "主语中心词"
+   },
+   {
+    "text": "of Queen Victoria,",
+    "zh": "维多利亚女王",
+    "role": "后置定语（介词短语），修饰 likeness"
+   },
+   {
+    "text": "the reigning monarch.",
+    "zh": "即这位在位的君主",
+    "role": "同位语，补充说明 Queen Victoria；reigning 作 monarch 的前置定语"
+   }
+  ],
+  "structure": "①本句是完全倒装句（视频说明：Engraved on it 提前，主语是 a youthful likeness…）。还原为正常语序：A youthful likeness of Queen Victoria, the reigning monarch, was engraved on it.\n②主语 a youthful likeness：中心词 likeness（肖像），youthful 作前置定语，of Queen Victoria 作后置定语，说明是谁的肖像。\n③谓语 was engraved 是一般过去时被动语态。过去分词 Engraved 连同地点状语 on it 提到句首，助动词 was 随之移到主语前面；it 指上一句的 Penny Black（视频说明）。\n④the reigning monarch 是同位语，补充说明 Queen Victoria（视频说明），reigning 意为“在位的”，作 monarch 的前置定语。\n⑤倒装的作用：主语很长，还带同位语，放到句末可使句子头轻尾重；同时句首的 on it 紧接上一句，先说“它的上面”，再引出新信息“女王肖像”，衔接自然。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "分词提前引起的完全倒装",
+    "explain": "作表语的分词、形容词，或被动语态中的过去分词，连同其他成分提到句首时，常把 be 动词放到主语前，构成完全倒装，句型为“分词（短语）+ be + 主语”，如 Gone are the days when ...、Attached is a copy of my CV。这种倒装多用于主语较长的情况，使句子头轻尾重，同时让句首成分承接上文。本句 Engraved on it was a youthful likeness ... 中，主语 a youthful likeness of Queen Victoria, the reigning monarch 很长，被放到句末，句首的 on it 承接上一句的 Penny Black。判断主语时要注意：be 动词后面的名词短语才是主语，be 动词的单复数也要与它一致。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Enclosed with this letter are two copies of the signed contract.",
+      "zh": "随信附上两份已签署的合同。"
+     },
+     {
+      "en": "Hidden behind the bookcase was a small door leading to the cellar.",
+      "zh": "书柜后面藏着一扇通往地窖的小门。"
+     }
+    ]
+   },
+   {
+    "title": "同位语说明专有名词的身份",
+    "explain": "专有名词后常用 the + 名词短语 作同位语，说明其身份，如 Queen Victoria, the reigning monarch。这类同位语在句中时前后用逗号隔开，在句末时只需前面一个逗号。视频译文用“即”引出同位语，译为“即这位在位的君主”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The award was presented by Jane Carter, the director of the museum.",
+      "zh": "颁奖人是博物馆馆长简·卡特。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Queen Victoria",
+    "explain": "维多利亚女王，1837年至1901年在位。1840年黑便士发行时，她登基不到三年，年仅二十岁；文中 a youthful likeness（年轻的肖像）指邮票上女王显得年轻的头像。"
+   },
+   {
+    "term": "likeness（肖像）",
+    "explain": "熟词僻义：likeness 常义为“相似”，如 a family likeness（家人相貌上的相似）；也可指画像、肖像，如 a good likeness（画得很像的肖像）。视频译为“肖像”。"
+   },
+   {
+    "term": "reigning",
+    "explain": "意为“在位的，当政的”；也常用于体育，指“卫冕的、现任的”，如 the reigning champion（卫冕冠军）。"
+   },
+   {
+    "term": "engrave A on B",
+    "explain": "把 A 刻在 B 上，也可以说 engrave B with A（在 B 上刻 A）。本句是前一种结构的被动式 A was engraved on it，视频译为“雕刻着”。"
+   }
+  ],
+  "translation_tip": "视频译文“它的上面雕刻着维多利亚女王年轻的肖像，即这位在位的君主。”的处理：①保留倒装语序：先译句首的 on it 为“它的上面”，再把 Engraved ... was 译为“雕刻着”，最后引出主语“肖像”，汉语“处所 + 动词 + 着 + 事物”的存现句正好对应这种倒装。②被动意义不译“被”字，用“雕刻着”表示状态。③后置定语 of Queen Victoria 与前置定语 youthful 一起放在中心词前，译为“维多利亚女王年轻的肖像”。④同位语 the reigning monarch 用“即”引出，译为“即这位在位的君主”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "An aggregate of 68,808,000",
+   "predicate": "were printed",
+   "object_or_complement": "",
+   "explain": "主干是 An aggregate of 68,808,000 were printed，一般过去时被动语态。主语中真正计数的对象是 68,808,000（枚邮票），所以谓语用复数 were。"
+  },
+  "components": [
+   {
+    "text": "An aggregate of",
+    "zh": "总计有",
+    "role": "主语中的数量短语（an aggregate of 相当于 a total of）"
+   },
+   {
+    "text": "68,808,000",
+    "zh": "68,808,000枚",
+    "role": "主语核心（数词，后面省略了 stamps）"
+   },
+   {
+    "text": "were printed.",
+    "zh": "被印制",
+    "role": "谓语（一般过去时被动语态，复数）"
+   }
+  ],
+  "structure": "①主语 An aggregate of 68,808,000：an aggregate of 是数量短语，意为“总计”，相当于 a total of；68,808,000 后面省略了 stamps（指黑便士），承上文可知。\n②谓语 were printed 是一般过去时被动语态，邮票是被印制的对象，印制者不必说出。\n③谓语用复数 were，是与意义上的主语“68,808,000枚邮票”保持一致，而不是与单数名词 aggregate 一致。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "a total of / an aggregate of 的主谓一致",
+    "explain": "a total of、an aggregate of 表示“总共，总计”，后接复数名词或数字作主语时，谓语按意义用复数，如 A total of 300 people were injured；而 the total（总数）本身作主语时，谓语用单数。这与 a number of（许多，谓语用复数）和 the number of（……的数量，谓语用单数）的区别一致。本句 An aggregate of 68,808,000 were printed 用复数 were。考研完形和写作中常考这一主谓一致。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A total of 120 volunteers were recruited for the clinical trial.",
+      "zh": "这项临床试验共招募了120名志愿者。"
+     },
+     {
+      "en": "The total cost of the project was far higher than the original estimate.",
+      "zh": "这个项目的总成本远高于最初的估算。"
+     }
+    ]
+   },
+   {
+    "title": "英语大数字的读法与换算",
+    "explain": "英语数字从右往左每三位一个逗号，依次是 thousand（千）、million（百万）、billion（十亿）；汉语则以“万、亿”四位一级。68,808,000 读作 sixty-eight million, eight hundred and eight thousand（英式在百位后加 and），汉语为六千八百八十万八千。翻译时先按英语分节读出，再换算成“万”“亿”。下文第12句的 80 million 即8000万，169 million 即1.69亿。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's population grew from 1.2 million in 1990 to nearly 3 million in 2020.",
+      "zh": "该市人口从1990年的120万增至2020年的近300万。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "aggregate",
+    "explain": "正式用词，作名词时意为“总数，合计”（视频说明：总数，合计，各项加起来的总量），常见搭配 in aggregate（总计）；作形容词时意为“总计的”，经济学中 aggregate demand 指“总需求”。"
+   },
+   {
+    "term": "68,808,000",
+    "explain": "本文给出的黑便士印制总数。视频照录原文数字，增补量词“枚”，写作“68,808,000枚”。"
+   }
+  ],
+  "translation_tip": "视频译文“总计有68,808,000枚被印制。”的处理：①an aggregate of 译为“总计有”，放在句首。②数字照录原文写法，增补量词“枚”，补出省略的“邮票”之意。③被动语态 were printed 译为“被印制”，保留被动标记，突出邮票是印制的对象。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The sheets",
+   "predicate": "had",
+   "object_or_complement": "no holes",
+   "explain": "本句由 so 连接两个分句。前一分句主干 The sheets had no holes，主谓宾结构，一般过去时；后一分句主干 each stamp was cut out，一般过去时被动语态，cut out 是短语动词。"
+  },
+  "components": [
+   {
+    "text": "The sheets",
+    "zh": "这些整版邮票",
+    "role": "主语（第一个分句）"
+   },
+   {
+    "text": "had no holes",
+    "zh": "没有……孔",
+    "role": "谓语 had + 宾语 no holes（no 是否定限定词）"
+   },
+   {
+    "text": "for separation,",
+    "zh": "用于分离的",
+    "role": "后置定语（介词短语），修饰 holes，说明孔的用途"
+   },
+   {
+    "text": "so",
+    "zh": "所以",
+    "role": "并列连词，引出结果"
+   },
+   {
+    "text": "each stamp",
+    "zh": "每枚邮票",
+    "role": "主语（第二个分句）"
+   },
+   {
+    "text": "was cut out",
+    "zh": "都被……剪下",
+    "role": "谓语（一般过去时被动语态，cut out 为短语动词）"
+   },
+   {
+    "text": "individually",
+    "zh": "单独地",
+    "role": "方式状语（副词）"
+   },
+   {
+    "text": "with scissors.",
+    "zh": "用剪刀",
+    "role": "方式状语（介词短语，表示工具）"
+   }
+  ],
+  "structure": "①第一个分句：主语 The sheets（整版邮票），谓语 had，宾语 no holes，no 是否定限定词，修饰 holes；for separation 是介词短语作后置定语，修饰 holes，说明孔的用途是把邮票分开。\n②so 引出结果：因为整版上没有孔，只能用剪刀剪。\n③第二个分句：主语 each stamp，谓语 was cut out（一般过去时被动语态，视频说明：cut out：剪下），individually 是方式状语（视频说明：强调作为独立的个体，而不是作为一个整体一起处理），with scissors 是介词短语作方式状语，表示所用的工具。\n④本句的 sheets 指印有许多枚邮票的整张纸，即整版邮票，与第1句表示信纸的 sheets 所指不同。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "短语动词的被动语态",
+    "explain": "由“动词 + 副词或介词”构成的及物短语动词变被动时，副词或介词必须保留，紧跟在过去分词后面，如 cut out → was cut out、put off → was put off、look after → was looked after。本句 each stamp was cut out 来自主动句 someone cut out each stamp。考研写作中的易错点是漏掉小品词，如把 The meeting was put off 写成 The meeting was put。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The match was called off because of heavy rain.",
+      "zh": "比赛因大雨被取消了。"
+     },
+     {
+      "en": "The children were well looked after while their parents were abroad.",
+      "zh": "父母出国期间，孩子们得到了很好的照顾。"
+     }
+    ]
+   },
+   {
+    "title": "介词 with 表示工具",
+    "explain": "with + 工具名词 表示“用……”，如 write with a pen、cut with scissors；by 后接方式、手段时名词前一般不加冠词，如 by hand、by post。本句 with scissors 说明用什么剪。scissors 总是用复数形式，“一把剪刀”说 a pair of scissors。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She opened the parcel carefully with a kitchen knife.",
+      "zh": "她用一把菜刀小心地打开了包裹。"
+     }
+    ]
+   },
+   {
+    "title": "否定限定词 no",
+    "explain": "no 放在名词前表示完全否定，相当于 not any 或 not a，如 had no holes = did not have any holes。no 后可接可数名词复数、单数或不可数名词。用 no 否定名词比用 not 否定动词语气更强，书面语中常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The village had no electricity until the 1970s.",
+      "zh": "这个村子直到20世纪70年代才通电。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sheet（整版邮票）",
+    "explain": "a sheet of stamps 指印在同一张纸上、尚未分开的一整版邮票，视频译为“整版邮票”。同一篇文章中，第1句的 sheets 指一封信所用的纸张，视频译为“纸张”，要根据语境判断。"
+   },
+   {
+    "term": "perforation",
+    "explain": "后来的邮票在相邻邮票之间打上成排的小孔，叫 perforations（齿孔），沿孔撕开即可分离。本句说黑便士的整版上还没有这种孔，所以要用剪刀逐枚剪下。"
+   },
+   {
+    "term": "individually",
+    "explain": "单独地，逐个地，如 individually wrapped sweets（单独包装的糖果）。视频译为“单独地”。"
+   }
+  ],
+  "translation_tip": "视频译文“这些整版邮票没有用于分离的孔，所以每枚邮票都被单独地用剪刀剪下。”的处理：①The sheets 译为“这些整版邮票”，“这些”对应定冠词 the 和复数，“整版邮票”点明 sheets 在此的具体所指。②后置定语 for separation 前置为“用于分离的”，修饰“孔”。③第二个分句保留被动标记，译为“都被……剪下”，增补“都”强调每一枚无一例外；方式状语 individually 和 with scissors 都提到动词前，译为“单独地用剪刀剪下”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Mailings",
+   "predicate": "doubled",
+   "object_or_complement": "",
+   "explain": "主干是 Mailings doubled，主谓结构，double 在此是不及物动词，意为“增加一倍”。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Mailings",
+    "zh": "邮寄量",
+    "role": "主语"
+   },
+   {
+    "text": "doubled,",
+    "zh": "翻了一番",
+    "role": "谓语（不及物动词，一般过去时）"
+   },
+   {
+    "text": "from about 80 million items",
+    "zh": "从……约8000万件邮寄物品",
+    "role": "状语 from A to B 的前半部分，说明变化的起点"
+   },
+   {
+    "text": "in 1839",
+    "zh": "1839年的",
+    "role": "后置定语（介词短语），修饰 items"
+   },
+   {
+    "text": "to over 169 million",
+    "zh": "增至……超过1.69亿件",
+    "role": "状语 from A to B 的后半部分，说明变化的终点；169 million 后省略 items"
+   },
+   {
+    "text": "in 1840.",
+    "zh": "1840年的",
+    "role": "后置定语（介词短语），修饰 169 million"
+   }
+  ],
+  "structure": "①主句 Mailings doubled：主语 Mailings（邮寄量），谓语 doubled。\n②逗号后的 from about 80 million items in 1839 to over 169 million in 1840 是 from A to B 结构作状语，说明变化的起点和终点（视频说明：from A to B：从 A 增至 B）。in 1839 和 in 1840 分别作 items 和 169 million 的后置定语，说明年份。\n③169 million 后面承前省略了 items，避免重复；about（大约）和 over（超过）分别修饰两个数字。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "倍数与增减的表达",
+    "explain": "double 作不及物动词表示“增加一倍，翻一番”，triple 表示“增至三倍”，也可说 increase twofold、increase threefold。表示从某数变到某数用 rise/increase/fall from A to B，表示变化的幅度用 by，如 rise by 20%。本句先用 doubled 概括，再用 from ... to ... 给出具体数字，从约8000万到超过1.69亿，增幅略超一倍。考研图表作文描述数据变化时常用这些表达。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Online sales have doubled over the past five years, from $2 billion to $4.1 billion.",
+      "zh": "过去五年里，网络销售额翻了一番，从20亿美元增至41亿美元。"
+     },
+     {
+      "en": "The price of rice rose by 15 per cent in a single month.",
+      "zh": "米价一个月内上涨了15%。"
+     }
+    ]
+   },
+   {
+    "title": "承前省略",
+    "explain": "英语为避免重复，后一部分常省略与前面相同的名词，本句 over 169 million 后省略了 items；第3句 from one postal item to the next 中，the next 后省略 postal item，也是同类现象。翻译时可视情况补出或同样省略，视频补出量词“件”，译为“1.69亿件”，与前面的“邮寄物品”呼应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Imports fell from 3,000 tonnes in 2019 to fewer than 1,000 in 2021.",
+      "zh": "进口量从2019年的3000吨降至2021年的不足1000吨。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mailing",
+    "explain": "mailing 作可数名词指一批邮件或一次邮寄，复数 mailings 在此指邮寄的数量，视频译为“邮寄量”。相关词 mailing list（邮寄名单，邮件列表）。"
+   },
+   {
+    "term": "million 的换算",
+    "explain": "million 是百万，80 million 即8000万，169 million 即1.69亿。换算时把 million 前的数字乘以100得到“万”的数目，满一万万改用“亿”。"
+   }
+  ],
+  "translation_tip": "视频译文“邮寄量翻了一番，从1839年的约8000万件邮寄物品增至1840年的超过1.69亿件。”的处理：①复数名词 Mailings 译为“邮寄量”，转为表示数量的名词。②from A to B 译为“从……增至……”，增补“增至”表明是增长。③后置定语 in 1839、in 1840 前置为“1839年的”“1840年的”。④英文数字按汉语习惯换算：80 million 译为“8000万”，169 million 译为“1.69亿”，并分别增补量词“件”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "The design",
+   "predicate": "had",
+   "object_or_complement": "a drawback",
+   "explain": "主干是 The design had a drawback，主谓宾结构。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The design",
+    "zh": "这一设计",
+    "role": "主语"
+   },
+   {
+    "text": "had",
+    "zh": "有",
+    "role": "谓语（一般过去时）"
+   },
+   {
+    "text": "a drawback.",
+    "zh": "个缺点",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①本句是简单句：主语 The design，谓语 had，宾语 a drawback。\n②The design 指黑便士的设计，下一句具体说明缺点是什么。本句不在段首（第4段从第12句开始），上一句讲邮寄量翻番，本句笔锋一转，先概括提出“有缺点”，下一句再具体展开，属于英语说明文常见的“先总后分”写法，起承上启下的作用。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词 drawback 的常用结构",
+    "explain": "drawback 是可数名词，意为“缺点，不利条件”，常用结构有 the drawback of sth、a drawback to sth、The main drawback is that ...。本句 had a drawback 用不定冠词，表示首次提到这个缺点，下一句再具体说明。考研写作讨论利弊时，可用 advantages and drawbacks、One major drawback is that ... 等表达。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The only drawback to living in the countryside is the lack of public transport.",
+      "zh": "住在乡下唯一的缺点是缺乏公共交通。"
+     }
+    ]
+   },
+   {
+    "title": "概括句引出下文",
+    "explain": "说明文常先用一个短句概括，再在后面展开细节。本句 The design had a drawback 只有五个词，紧接上一句邮寄量翻番的成绩，笔锋一转提出“有缺点”，第14句说明缺点是什么，第15句交代改进办法。考研阅读中，这类出现在段中的概括短句常是行文的转折点，题目常围绕它提出的问题设问。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan has one obvious weakness. It depends entirely on volunteers who may not turn up.",
+      "zh": "这个计划有一个明显的弱点：它完全依赖志愿者，而他们可能不会来。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "drawback",
+    "explain": "与 disadvantage、shortcoming 意思相近，drawback 多指某事物附带的不利之处或问题，视频译为“缺点”。"
+   },
+   {
+    "term": "the design",
+    "explain": "此处 design 指黑便士的设计，下一句说明问题出在邮票的黑色底色与红色注销印记的搭配上。"
+   }
+  ],
+  "translation_tip": "视频译文“这一设计有个缺点。”的处理：①定冠词 The 译为“这一”，回指前文所说的黑便士的设计。②a drawback 译为“个缺点”，口语中“一个”可省作“个”，句子更简洁。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "the red cancelling mark",
+   "predicate": "was",
+   "object_or_complement": "barely noticeable",
+   "explain": "本句由 and 连接两个分句。前一分句主干 the red cancelling mark was barely noticeable，主系表结构，一般过去时；后一分句主干 the ink could be erased，情态动词 could + 被动语态。两个分句各带一个现在分词短语作状语。"
+  },
+  "components": [
+   {
+    "text": "Against black,",
+    "zh": "在黑色底色上",
+    "role": "状语（介词短语，against 表示“以……为背景”）"
+   },
+   {
+    "text": "the red",
+    "zh": "红色",
+    "role": "主语的限定词和定语，red 修饰 cancelling mark"
+   },
+   {
+    "text": "cancelling mark",
+    "zh": "注销印记",
+    "role": "主语中心词（第一个分句）"
+   },
+   {
+    "text": "was barely",
+    "zh": "几乎不",
+    "role": "系动词 was + 程度副词 barely（带否定意义）"
+   },
+   {
+    "text": "noticeable,",
+    "zh": "显眼",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "lacking",
+    "zh": "由于缺乏",
+    "role": "现在分词，引导原因状语"
+   },
+   {
+    "text": "contrast,",
+    "zh": "反差",
+    "role": "现在分词 lacking 的宾语"
+   },
+   {
+    "text": "and the ink",
+    "zh": "且墨水",
+    "role": "并列连词 and + 第二个分句的主语 the ink"
+   },
+   {
+    "text": "could be erased,",
+    "zh": "能被擦除",
+    "role": "谓语（情态动词 could + 被动语态）"
+   },
+   {
+    "text": "leaving",
+    "zh": "导致",
+    "role": "现在分词，引导结果状语"
+   },
+   {
+    "text": "stamps",
+    "zh": "邮票",
+    "role": "现在分词 leaving 的宾语"
+   },
+   {
+    "text": "vulnerable to",
+    "zh": "容易被",
+    "role": "宾语补足语（形容词短语）的前半部分"
+   },
+   {
+    "text": "reuse.",
+    "zh": "重复使用",
+    "role": "介词 to 的宾语（名词）"
+   }
+  ],
+  "structure": "①第一个分句：Against black 是介词短语作状语，against 表示“以……为背景”，black 指黑便士的黑色底色；主语 the red cancelling mark（红色注销印记），系动词 was，表语 noticeable，barely 是带否定意义的程度副词，修饰 noticeable，意为“几乎不”。lacking contrast 是现在分词短语，说明原因（视频说明），即红色与黑色之间反差太小。\n②and 连接第二个分句：主语 the ink（指注销印记所用的墨水），谓语 could be erased（情态动词 + 被动语态），表示墨水能被擦掉。\n③leaving stamps vulnerable to reuse 是现在分词短语作结果状语，说明墨水能被擦掉所造成的后果。leave 后接宾语 stamps 和宾语补足语 vulnerable to reuse（形容词短语），构成 leave sth + adj.（使……处于某种状态）。vulnerable to 后接名词 reuse（视频说明：be vulnerable to 后面直接接造成威胁的名词或 doing）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作原因状语和结果状语",
+    "explain": "现在分词短语可以作状语，表示原因、结果、时间、伴随等。本句有两个：lacking contrast 表示原因（视频说明），相当于 because it lacked contrast；leaving stamps vulnerable to reuse 放在句末，表示自然产生的结果，相当于 and this left stamps vulnerable to reuse。句末的 leaving、making、causing 等现在分词短语常表示结果，逻辑主语可以是前面整个分句所说的情况。考研阅读中要据此理清因果：本句是“墨水能被擦掉，所以邮票可能被重复使用”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell for three days, leaving many roads under water.",
+      "zh": "大雨连下了三天，致使许多道路被淹。"
+     },
+     {
+      "en": "Lacking the necessary funds, the museum had to close two of its galleries.",
+      "zh": "由于缺乏必要的资金，博物馆不得不关闭两个展厅。"
+     }
+    ]
+   },
+   {
+    "title": "leave + 宾语 + 形容词",
+    "explain": "leave sb/sth + 形容词、分词或介词短语 表示“使……处于某种状态”，后面的成分作宾语补足语，如 leave the door open、leave sb speechless、leave sb in debt。本句 leaving stamps vulnerable to reuse 中，stamps 是宾语，vulnerable to reuse 是宾语补足语。类似结构还有 make/keep/find + 宾语 + 形容词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The scandal left the minister politically isolated.",
+      "zh": "这一丑闻使这位部长在政治上陷入孤立。"
+     }
+    ]
+   },
+   {
+    "title": "be vulnerable to + 名词或动名词",
+    "explain": "vulnerable to 意为“易受……伤害或影响的”，to 是介词，后接名词或动名词，如 vulnerable to attack、vulnerable to being hacked。本句 vulnerable to reuse 中 reuse 是名词，意为“重复使用”；视频译为“容易被重复使用”，“被”字体现邮票是被人再次使用的对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Older computers are particularly vulnerable to viruses.",
+      "zh": "老旧的电脑特别容易感染病毒。"
+     }
+    ]
+   },
+   {
+    "title": "否定副词 barely",
+    "explain": "barely、hardly、scarcely 都表示“几乎不”，本身带否定意义，句中不能再加 not。本句 was barely noticeable 意为“几乎不显眼”。这几个词放在句首时，句子要部分倒装，如 Barely had he arrived when the phone rang。barely 还可表示“刚刚，仅仅”，如 She was barely twenty。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The difference between the two versions is barely visible to the naked eye.",
+      "zh": "两个版本之间的差别肉眼几乎看不出来。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cancelling mark",
+    "explain": "注销印记，即盖在邮票上表示已经使用过的印记；cancel 在邮政用语中意为“盖销（邮票）”，cancellation 也可指这种印记。英式拼写 cancelling，美式拼写 canceling。黑便士所用注销印记的图案通常称为马耳他十字（Maltese Cross）。"
+   },
+   {
+    "term": "against（以……为背景）",
+    "explain": "熟词僻义：against 除“反对”外，还表示“以……为背景，衬着”，如 a white sail against the blue sky、stand out against（在……的衬托下显得突出）。本句 Against black 指以黑色为底色，视频译为“在黑色底色上”。"
+   },
+   {
+    "term": "contrast",
+    "explain": "名词，此处指颜色之间的反差，视频译为“反差”；lack contrast 即“缺乏反差”。作动词时重音在第二音节，如 contrast A with B（把 A 与 B 对比）。"
+   }
+  ],
+  "translation_tip": "视频译文“在黑色底色上，红色注销印记几乎不显眼，由于缺乏反差，且墨水能被擦除，导致邮票容易被重复使用。”的处理：①Against black 增补“底色”，译为“在黑色底色上”，点明 black 指邮票的底色。②原因状语 lacking contrast 保留在原位，增补“由于”点明因果。③结果状语 leaving stamps vulnerable to reuse 增补“导致”，表明这是墨水能被擦除造成的后果。④and 译为“且”，连接两个缺点，语气简洁。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "the Penny Red",
+   "predicate": "arrived",
+   "object_or_complement": "",
+   "explain": "主干是 the Penny Red arrived，主谓结构，arrive 为不及物动词。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 1841",
+    "zh": "1841年2月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "the Penny Red,",
+    "zh": "“红便士”",
+    "role": "主语（专有名词）"
+   },
+   {
+    "text": "cancelled in black ink,",
+    "zh": "用黑色墨水盖销的",
+    "role": "非限制性后置定语（过去分词短语），补充说明 the Penny Red"
+   },
+   {
+    "text": "arrived",
+    "zh": "问世",
+    "role": "谓语（不及物动词，一般过去时）"
+   },
+   {
+    "text": "to deter",
+    "zh": "旨在防止",
+    "role": "目的状语（动词不定式）"
+   },
+   {
+    "text": "tampering",
+    "zh": "篡改",
+    "role": "deter 的宾语之一"
+   },
+   {
+    "text": "and fraud.",
+    "zh": "与欺诈",
+    "role": "deter 的并列宾语"
+   }
+  ],
+  "structure": "①主句 the Penny Red arrived：主语 the Penny Red（红便士），谓语 arrived，意为“问世，出现”。In February 1841 是时间状语，放在句首。\n②cancelled in black ink 是过去分词短语，补充说明 Penny Red（视频说明），前后用逗号隔开，作非限制性后置定语，相当于 which was cancelled in black ink；红便士是被盖销的对象，所以用过去分词。\n③to deter tampering and fraud 是动词不定式作目的状语（视频说明），说明推出红便士的目的；deter 的宾语是并列的 tampering 和 fraud。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语作非限制性定语",
+    "explain": "过去分词短语放在名词后，用逗号隔开时，相当于非限制性定语从句，对名词作补充说明，表示被动或完成。本句 the Penny Red, cancelled in black ink 相当于 the Penny Red, which was cancelled in black ink。读句时要分清：cancelled 不是谓语，真正的谓语是后面的 arrived。考研长难句中常在主语后插入这类分词短语，把主语和谓语隔开。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new bridge, designed by a local architect, opened to traffic last week.",
+      "zh": "这座由当地建筑师设计的新桥上周通车了。"
+     },
+     {
+      "en": "The report, published only in English, received little attention in Asia.",
+      "zh": "这份报告只以英文发表，在亚洲几乎没有引起关注。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作目的状语",
+    "explain": "动词不定式可以作目的状语，表示“为了……”，常放在句末，也可放在句首，或用 in order to、so as to 强调目的。本句 to deter tampering and fraud 说明红便士问世的目的，视频译为“旨在防止”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council installed more street lights to make the park safer at night.",
+      "zh": "市议会增设了路灯，让公园在夜间更安全。"
+     }
+    ]
+   },
+   {
+    "title": "动词 deter 的用法",
+    "explain": "deter 意为“阻止，威慑”，常用结构 deter sth（如 deter crime）、deter sb from doing sth（阻止某人做某事）。视频说明：deter 指通过增加难度或设置障碍，来防止、阻止某种不良行为发生。本句 deter tampering and fraud 指黑色印记在红色邮票上清楚且难以擦掉，使人无法轻易改动邮票、重复使用。名词 deterrent 意为“威慑因素”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "High fines are meant to deter drivers from parking illegally.",
+      "zh": "高额罚款旨在阻止司机违章停车。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Penny Red",
+    "explain": "红便士，1841年起取代黑便士的一便士邮票，邮票改为红褐色，注销印记改用黑色墨水，黑色印记在红褐色邮票上清晰可见。"
+   },
+   {
+    "term": "arrive（问世）",
+    "explain": "arrive 除“到达”外，还可指新事物出现、问世，如 the arrival of the internet。视频译为“问世”。"
+   },
+   {
+    "term": "tamper with",
+    "explain": "意为“擅自改动，篡改”，名词形式 tampering，如 evidence of tampering（篡改的痕迹）。本句指擦掉邮票上的印记以便再次使用等行为，视频译为“篡改”。"
+   }
+  ],
+  "translation_tip": "视频译文“1841年2月，用黑色墨水盖销的“红便士”问世，旨在防止篡改与欺诈。”的处理：①过去分词短语 cancelled in black ink 前置为定语“用黑色墨水盖销的”，修饰“红便士”。②专有名词 the Penny Red 加引号译为“红便士”。③arrived 译为“问世”，表示新邮票出现。④目的状语 to deter ... 放在句末，用“旨在”引出，译为“旨在防止篡改与欺诈”，and 译为“与”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Britain",
+   "predicate": "set ... and earned",
+   "object_or_complement": "a precedent; an exemption",
+   "explain": "主干是 Britain set a precedent and earned an exemption，主谓宾结构，and 连接两个并列谓语，各带一个宾语。两个谓语都是一般过去时，主动语态，set 的过去式与原形同形。"
+  },
+  "components": [
+   {
+    "text": "As the initiator of postage stamps,",
+    "zh": "作为邮票的首创者",
+    "role": "状语（介词 as 引导，表示身份），逻辑上指主语 Britain"
+   },
+   {
+    "text": "Britain",
+    "zh": "英国",
+    "role": "主语"
+   },
+   {
+    "text": "set",
+    "zh": "开创了",
+    "role": "谓语一（一般过去时）"
+   },
+   {
+    "text": "a precedent",
+    "zh": "先例",
+    "role": "宾语一"
+   },
+   {
+    "text": "and earned",
+    "zh": "并赢得",
+    "role": "并列连词 and + 谓语二（一般过去时）"
+   },
+   {
+    "text": "an exemption.",
+    "zh": "一项豁免",
+    "role": "宾语二"
+   }
+  ],
+  "structure": "①主句：主语 Britain，两个并列谓语 set 和 earned 由 and 连接，宾语分别是 a precedent 和 an exemption。\n②句首 As the initiator of postage stamps 是介词短语作状语，as 意为“作为”，表示身份，说明英国为什么能开创先例并获得豁免；of postage stamps 是后置定语，修饰 initiator。\n③an exemption 具体指什么，下两句才说明：英国邮票可以不印国名。本句先提出概念，下文再解释，是本段的主题句。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词 as 表示身份",
+    "explain": "as + 名词 表示“作为，以……身份”，在句首作状语时，所指的对象必须与主句主语一致，本句 As the initiator ... 说的就是主语 Britain。易错点：如果句首 as 短语与主句主语不一致，就成了悬垂结构，如 As a student, the library is important to me 是错句，应改为 As a student, I find the library important。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the largest donor, the foundation has a strong say in how the money is spent.",
+      "zh": "作为最大的捐助方，该基金会在资金使用上有很大的发言权。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语",
+    "explain": "一个主语可以带两个或多个由 and 连接的谓语，共用同一个主语，如 Britain set ... and earned ...。三个及以上谓语并列时，最后一个 and 前通常加逗号（牛津逗号）。读句时要找到 and 后面的谓语动词 earned，它的主语仍是 Britain。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company cut its prices, expanded its product range, and doubled its advertising budget.",
+      "zh": "这家公司降低了价格，扩大了产品线，并把广告预算翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "set a precedent",
+    "explain": "开创先例；常用搭配还有 without precedent（史无前例的）、break with precedent（打破惯例）。形容词 unprecedented（前所未有的）是考研阅读高频词。本句指英国最先发行邮票，开了先河，视频译为“开创了先例”。"
+   },
+   {
+    "term": "initiator",
+    "explain": "由 initiate（发起，开始）加后缀 -or 构成，指发起人、首创者，视频译为“首创者”。"
+   },
+   {
+    "term": "earn an exemption",
+    "explain": "earn 本义是挣得，这里指凭借自身作为而赢得，视频译为“赢得”；exemption 指免除某项义务，常用 exemption from sth，如 exemption from tax。"
+   },
+   {
+    "term": "postage stamp",
+    "explain": "邮票的完整说法，日常常简称 stamp。"
+   }
+  ],
+  "translation_tip": "视频译文“作为邮票的首创者，英国开创了先例，并赢得一项豁免。”的处理：①状语 As the initiator of postage stamps 保留在句首，译为“作为……”，后置定语 of postage stamps 前置为“邮票的”。②两个并列谓语分别译为“开创了”“赢得”，and 译为“并”。③an exemption 译为“一项豁免”，不定冠词译为量词“一项”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Its stamps",
+   "predicate": "are",
+   "object_or_complement": "nameless",
+   "explain": "主干是 Its stamps are nameless，主系表结构。谓语用一般现在时，说明英国邮票至今仍然如此。"
+  },
+  "components": [
+   {
+    "text": "Its stamps",
+    "zh": "英国邮票",
+    "role": "主语（Its 指 Britain）"
+   },
+   {
+    "text": "are",
+    "zh": "是",
+    "role": "系动词（一般现在时）"
+   },
+   {
+    "text": "nameless,",
+    "zh": "无名的",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "with no country inscribed on them.",
+    "zh": "上面没有刻印国名",
+    "role": "伴随状语（with 复合结构），说明 nameless 的具体含义"
+   }
+  ],
+  "structure": "①主句 Its stamps are nameless：主语 Its stamps，Its 指 Britain（视频说明）；系动词 are，表语 nameless（无名的）。\n②with no country inscribed on them 是 with 复合结构（视频说明）：with + 宾语 no country + 宾语补足语 inscribed on them（过去分词短语），在句中作伴随状语，具体说明 nameless 的含义，即邮票上没有刻印国名。country 与 inscribe 是被动关系，所以用过去分词；them 指 stamps。\n③前一句用过去时叙述历史，本句改用一般现在时，表示这一做法延续至今。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "with 复合结构",
+    "explain": "with 复合结构的形式是“with + 宾语 + 宾语补足语”，宾补可以是形容词、副词、介词短语、现在分词、过去分词或不定式，整个结构作状语或定语，表示伴随、原因、补充说明等。宾语与动词是被动关系时用过去分词，主动关系时用现在分词。本句 with no country inscribed on them 中，country 是被刻印的对象，所以用 inscribed；no 否定 country，整个结构意为“上面没有刻印任何国名”。考研阅读和写作中 with 复合结构极常见，翻译时多译成独立分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He sat in silence, with his eyes fixed on the window.",
+      "zh": "他默默地坐着，双眼盯着窗外。"
+     },
+     {
+      "en": "With prices rising so fast, many families are cutting back on spending.",
+      "zh": "由于物价上涨如此之快，许多家庭正在削减开支。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时表示至今仍然成立的情况",
+    "explain": "叙述历史时用一般过去时，转而说明至今仍然成立的情况时改用一般现在时。本句 Its stamps are nameless 说的是英国邮票现在依然不印国名，所以用 are；上一句讲英国当年开创先例、获得豁免，是过去发生的事，用过去时。考研阅读中，时态的切换往往标志着作者从史实转到现状。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge was completed in 1932, and it remains the city's best-known landmark.",
+      "zh": "这座桥于1932年建成，至今仍是这座城市最著名的地标。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "nameless",
+    "explain": "由 name 加后缀 -less（没有……的）构成，意为“无名的，没有名字的”；本句指邮票上不印国名，视频译为“无名的”。"
+   },
+   {
+    "term": "inscribe ... on",
+    "explain": "inscribe sth on sth（把……刻在、印在……上），也可以说 inscribe sth with sth；名词 inscription（铭文，题词）。本句 inscribed on them 指印在邮票上，视频译为“刻印”。"
+   }
+  ],
+  "translation_tip": "视频译文“英国邮票是无名的，上面没有刻印国名。”的处理：①代词 Its 不译成“它的”，而具体译为“英国”，指代更清楚。②系表结构 are nameless 译为“是无名的”。③with 复合结构译成独立的分句“上面没有刻印国名”：on them 译为“上面”，放在分句开头；no country 译为“没有……国名”，country 在此具体化为“国名”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "the sovereign's head",
+   "predicate": "suffices",
+   "object_or_complement": "",
+   "explain": "主干是 the sovereign's head suffices for identification，主谓结构，suffice 为不及物动词，for identification 说明足以用于什么。谓语用一般现在时，表示至今仍然成立的情况。"
+  },
+  "components": [
+   {
+    "text": "By international agreement,",
+    "zh": "根据国际协议",
+    "role": "状语（介词短语，by 表示依据）"
+   },
+   {
+    "text": "the sovereign's head",
+    "zh": "（英国的）君主头像",
+    "role": "主语（the sovereign's 是名词所有格，作 head 的定语）"
+   },
+   {
+    "text": "suffices for",
+    "zh": "足以用于进行",
+    "role": "谓语（不及物动词 suffice + 介词 for）"
+   },
+   {
+    "text": "identification,",
+    "zh": "识别",
+    "role": "介词 for 的宾语"
+   },
+   {
+    "text": "an implicit designation",
+    "zh": "这是一种隐含的标识",
+    "role": "同位语（名词短语），总括前面分句的内容"
+   },
+   {
+    "text": "that other countries spell out in print.",
+    "zh": "然而其他国家则需要把国名印在邮票上",
+    "role": "限制性定语从句，修饰 designation；that 在从句中作 spell out 的宾语"
+   }
+  ],
+  "structure": "①主句：By international agreement 是介词短语作状语，by 表示依据，意为“根据”；主语 the sovereign's head，sovereign 指君主，head 指邮票上的头像；谓语 suffices（一般现在时，第三人称单数），for identification 说明足以用于识别。\n②逗号后的 an implicit designation 是同位语，它不是补充说明某一个名词，而是总括前面整个分句的意思：君主头像本身就是一种隐含的国家标识。\n③that other countries spell out in print 是限制性定语从句，修饰 designation；that 是关系代词，在从句中作 spell out 的宾语，即 other countries spell out the designation in print。in print 是介词短语作方式状语，意为“以印刷的形式”。\n④句意对照（视频说明：英国邮票印个头像大家就知道是英国的，而其他国家必须把名字印出来才行）：implicit（隐含的）与 spell out（明确写出）形成对比。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语，总括前面分句",
+    "explain": "英语可以在句末用逗号引出一个名词短语，对前面整个分句的内容加以概括或评价。这种同位语不修饰某一个具体名词，后面常带定语从句或介词短语展开说明，如 ..., a decision that surprised many observers。本句 an implicit designation that ... 总括“君主头像足以用于识别”这件事，指出它是一种隐含的标识。这种结构常见于考研阅读的外刊原文，翻译时可以用“这是……”单独成句，视频即译为“这是一种隐含的标识”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its workforce by a third, a move that angered the unions.",
+      "zh": "这家公司裁员三分之一，此举激怒了工会。"
+     },
+     {
+      "en": "Prices rose for the tenth month in a row, a trend that worries economists.",
+      "zh": "物价连续第十个月上涨，这一趋势令经济学家担忧。"
+     }
+    ]
+   },
+   {
+    "title": "关系代词 that 在定语从句中作宾语",
+    "explain": "关系代词 that 引导限制性定语从句时，可以在从句中作主语或宾语，作宾语时常可省略，如 the book (that) I bought。本句 that other countries spell out in print 中，从句主语是 other countries，谓语是 spell out，缺少宾语，that 指代先行词 designation，作 spell out 的宾语。判断方法是把先行词放回从句：other countries spell out the designation in print。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The rules that the committee adopted last year have already been revised.",
+      "zh": "委员会去年通过的规定已经修订过了。"
+     }
+    ]
+   },
+   {
+    "title": "动词 suffice 的用法",
+    "explain": "suffice 是不及物动词，意为“足够，足以”，属正式用词，常用结构：sth suffices（某物就够了）、suffice for sth（足以用于某事）、suffice to do sth（足以做某事）。固定说法 Suffice (it) to say that ... 意为“只需说……就够了”。本句 suffices for identification 意为“足以用于识别”，视频译为“足以用于进行识别”。日常更常用形容词 sufficient 或 be enough。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A short email will suffice; there is no need for a formal letter.",
+      "zh": "发一封简短的邮件就够了，不必写正式信函。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "spell out",
+    "explain": "短语动词，本义是逐个字母拼写出来，引申为明确、详细地说明，如 spell out the details。本句 spell out in print 指把国名印出来，视频译为“把国名印在邮票上”。"
+   },
+   {
+    "term": "head（头像）",
+    "explain": "熟词僻义：head 可指硬币、邮票上的头像；抛硬币时 heads 指有头像的一面，heads or tails 即“正面还是反面”。本句 the sovereign's head 指君主头像。"
+   },
+   {
+    "term": "sovereign",
+    "explain": "作名词指君主，作形容词指“有主权的”，如 a sovereign state（主权国家）。本句的 sovereign 与第9句的 monarch 都指在位的君主。"
+   },
+   {
+    "term": "implicit 与 explicit",
+    "explain": "implicit（隐含的，含蓄的）与 explicit（明确的，直接表达的）是一对反义词。本句 implicit designation 与 spell out 相对：英国靠头像暗示国别，其他国家则把国名明确印出来。"
+   }
+  ],
+  "translation_tip": "视频译文“根据国际协议，（英国的）君主头像足以用于进行识别，这是一种隐含的标识，然而其他国家则需要把国名印在邮票上。”的处理：①the sovereign's head 前增补括号内的“英国的”，点明是英国君主。②同位语 an implicit designation 单独成句，用“这是一种隐含的标识”总括前文。③定语从句 that other countries spell out in print 不前置，而是拆成独立分句，增补“然而”“则需要”体现英国与其他国家的对比；spell out in print 具体化为“把国名印在邮票上”，补出所印的内容是国名。"
+ }
+]

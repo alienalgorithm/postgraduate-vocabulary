@@ -1,0 +1,23 @@
+[
+ {
+  "key": "id=5",
+  "field": "etymology",
+  "before": "来自古北部法语 cariage（运送；行李），源自动词 carier（运送），即英语 carry 的来源，最终可追溯到拉丁语 carrus（四轮货车）。英语中先有“运送”义，后来才用来指运送用的车辆，如马车、火车车厢。",
+  "after": "来自古北部法语 cariage（运送；行李），源自动词 carier（运送），即英语 carry 的来源，经晚期拉丁语 carricare（装车运送）可追溯到拉丁语 carrus（车，货车）。英语中既表示运送行为及运费，也指运送人或货物的车辆，如马车、火车车厢。",
+  "reason": "原文“英语中先有运送义，后来才指车辆”的先后顺序无法从权威词源词典证实（两义在中古英语几乎同时出现），carrus 释作“四轮货车”也不确切，改为可证实的表述并补出中间环节 carricare"
+ },
+ {
+  "key": "id=16",
+  "field": "example.en",
+  "before": "The committee rejected the proposal to build a new car park on the edge of the park.",
+  "after": "The committee rejected the proposal to build a new car park beside the river.",
+  "reason": "原例句 car park on the edge of the park 中 park 重复，表达别扭"
+ },
+ {
+  "key": "id=16",
+  "field": "example.zh",
+  "before": "委员会否决了在公园边上新建停车场的提议。",
+  "after": "委员会否决了在河边新建停车场的提议。",
+  "reason": "随英文例句更换"
+ }
+]
