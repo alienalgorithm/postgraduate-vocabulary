@@ -1,0 +1,1952 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "A layer of ozone",
+   "predicate": "shields",
+   "object_or_complement": "Earth",
+   "explain": "主干是 A layer of ozone shields Earth，主谓宾结构，from 引出的介词短语与 shield 构成 shield A from B（为 A 遮挡 B）。谓语 shields 是一般现在时，主动语态，陈述臭氧层保护地球这一客观事实；主语中心词是单数 layer，所以谓语用第三人称单数。"
+  },
+  "components": [
+   {
+    "text": "A layer",
+    "role": "主语（中心词 layer）",
+    "zh": "一层"
+   },
+   {
+    "text": "of ozone",
+    "role": "后置定语（介词短语），修饰 layer，说明这一层由什么构成",
+    "zh": "臭氧"
+   },
+   {
+    "text": "shields",
+    "role": "谓语（与后面的 from 构成 shield A from B）",
+    "zh": "为……遮挡了"
+   },
+   {
+    "text": "Earth",
+    "role": "宾语（shield A from B 中的 A，被保护的对象）",
+    "zh": "地球"
+   },
+   {
+    "text": "from much of the sun's ultraviolet radiation.",
+    "role": "状语（介词短语），即 shield A from B 中的 B，说明遮挡的是什么",
+    "zh": "太阳的大部分紫外线辐射"
+   }
+  ],
+  "structure": "①主句是 A layer of ozone shields Earth from…：主语 A layer of ozone，谓语 shields，宾语 Earth，from 短语说明遮挡的对象。全句是一个简单句，按视频说明，shield A from B 意为“为 A 遮挡 B，保护 A 不受 B 的伤害”。\n②主语 A layer of ozone 中，中心词是 layer，of ozone 是介词短语作后置定语，说明这一层由臭氧构成。谓语的单复数由中心词 layer 决定，所以用 shields。\n③from 的宾语是 much of the sun's ultraviolet radiation。much 在这里是代词，意为“大部分”，of the sun's ultraviolet radiation 说明是哪个整体中的大部分；the sun's 是名词所有格，ultraviolet 是形容词，二者都作 radiation 的定语。much of 说明臭氧层挡住的是大部分而不是全部紫外线辐射。\n④全文第一句先交代臭氧层的作用，为后文讲述它遭到破坏、各国合力拯救作铺垫；末句 The sky's rescue 与标题 Saving the Sky 都是指拯救这层臭氧。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动词 + A + from + B 结构",
+    "explain": "shield A from B 表示“保护 A 免受 B 的伤害，为 A 遮挡 B”，from 引出要挡住、隔开的东西。同类结构还有 protect A from B（保护 A 免受 B）、prevent/stop/keep A from doing（阻止 A 做某事）、ban A from doing（禁止 A 做某事）、distinguish A from B（区分 A 和 B），from 都带有“隔开、远离”的意思。本句 Earth 是被保护的一方，the sun's ultraviolet radiation 是被挡住的一方，两者不能颠倒。shield 也常用被动：be shielded from sth。考研阅读和写作中常见 shield sb from criticism（使某人免受批评）、shield children from harmful content（让孩子远离有害内容）这类说法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Trees along the riverbank shield the village from strong winds in winter.",
+      "zh": "河岸边的树木在冬季为村庄挡住强风。"
+     },
+     {
+      "en": "The new law aims to protect consumers from misleading advertisements.",
+      "zh": "新法律旨在保护消费者免受误导性广告的侵害。"
+     }
+    ]
+   },
+   {
+    "title": "主谓一致：谓语由主语中心词决定",
+    "explain": "主语是“名词 + of + 名词”时，谓语的单复数一般由 of 前的中心词决定。本句中心词是 a layer，所以谓语用 shields。a series of、a set of、the quality of 等也按 of 前的名词判断：A series of experiments was carried out。不过 a number of、a lot of、a variety of 这类表示数量的短语，谓语按 of 后的名词决定：A number of students were absent。考研写作中，长主语后的谓语单复数是常见失分点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The quality of the tap water in these areas has improved markedly.",
+      "zh": "这些地区的自来水水质已明显改善。"
+     },
+     {
+      "en": "A set of new guidelines on data privacy was issued last month.",
+      "zh": "一套有关数据隐私的新指南于上月发布。"
+     }
+    ]
+   },
+   {
+    "title": "much of + 限定性名词：表示部分",
+    "explain": "much、most、some、many、all、none 等词后接 of 时，of 后面的名词前要有 the、物主代词、名词所有格等限定词，表示“某个特定整体中的一部分”，如 much of the money、most of my friends、much of the sun's radiation。much 用于不可数名词，many 用于可数名词复数。不能说 much of radiation；不加 of 时则不带限定词，如 much radiation。much of 短语作主语时，谓语与 of 后的名词保持一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Much of the region's farmland was flooded after the storm.",
+      "zh": "暴风雨过后，该地区的大部分农田都被淹了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the ozone layer",
+    "explain": "臭氧层，指大气中臭氧浓度较高的一层，主要位于平流层（第3句的 the stratosphere），能吸收太阳的大部分紫外线辐射。本句 A layer of ozone 即指臭氧层，视频译为“一层臭氧”。常见搭配：ozone depletion（臭氧消耗）、the hole in the ozone layer（臭氧层空洞）。"
+   },
+   {
+    "term": "ultraviolet radiation",
+    "explain": "紫外线辐射，常缩写为 UV，如 UV rays（紫外线）、the UV index（紫外线指数）。ultra- 意为“超出”，ultraviolet 字面义是“超出紫光的”，指波长比可见光中的紫光更短、人眼看不见的光。过量照射会晒伤皮肤，增加患皮肤癌的风险。"
+   },
+   {
+    "term": "Earth",
+    "explain": "指地球时可写作 Earth，也可写作 the Earth 或 the earth；与 Mars、Venus 等行星名并列时多大写且不加冠词。本句 Earth 是 shield 的宾语，视频译为“地球”。"
+   },
+   {
+    "term": "the sun's",
+    "explain": "名词所有格。sun 前要加定冠词 the，因为太阳是独一无二的天体；the sun's ultraviolet radiation 也可说成 ultraviolet radiation from the sun。"
+   }
+  ],
+  "translation_tip": "视频译文“一层臭氧为地球遮挡了太阳的大部分紫外线辐射。”的处理：①按视频说明，shield A from B 译为“为 A 遮挡 B”，宾语 Earth 借介词“为”提到动词前，译成“为地球遮挡了”，B 部分作“遮挡”的宾语，句子顺畅。②后置定语 of ozone 前移，A layer of ozone 译成“一层臭氧”，不定冠词 A 译成数量词“一层”。③much of 表示部分，译作“大部分”，放在所有格“太阳的”之后、中心词之前，成为“太阳的大部分紫外线辐射”，比“大部分的太阳紫外线辐射”更自然。④“遮挡了”的“了”表示遮挡的结果，原文用一般现在时陈述的是长期存在的事实。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Mario Molina and Sherwood Rowland",
+   "predicate": "warned",
+   "object_or_complement": "a menace（warn of 中介词 of 的宾语）",
+   "explain": "主干是 Mario Molina and Sherwood Rowland warned of a menace，主谓结构加介词宾语，warn of sth 意为“警告某种危险”；warned 与 of a menace 被插入的 in Nature 隔开。谓语 warned 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In June 1974",
+    "role": "时间状语（介词短语）",
+    "zh": "1974年6月"
+   },
+   {
+    "text": "Mario Molina and Sherwood Rowland,",
+    "role": "主语（and 连接的两个人名）",
+    "zh": "马里奥·莫利纳和舍伍德·罗兰"
+   },
+   {
+    "text": "chemists",
+    "role": "同位语中心词，补充说明主语的身份",
+    "zh": "两位化学家"
+   },
+   {
+    "text": "in California,",
+    "role": "后置定语（介词短语），修饰 chemists，说明两人所在的地方",
+    "zh": "在加州工作"
+   },
+   {
+    "text": "warned",
+    "role": "谓语（与后面的 of 构成 warn of）",
+    "zh": "撰文警告"
+   },
+   {
+    "text": "in Nature",
+    "role": "地点状语（介词短语），插在 warned 与 of 之间，说明警告发表在哪里",
+    "zh": "在《自然》杂志上"
+   },
+   {
+    "text": "of a menace",
+    "role": "介词短语，与 warned 构成 warn of sth；a menace 是介词 of 的宾语，即警告的内容",
+    "zh": "有一种威胁"
+   },
+   {
+    "text": "in fridges and spray cans.",
+    "role": "后置定语（介词短语），修饰 menace",
+    "zh": "藏在冰箱和喷雾罐里"
+   }
+  ],
+  "structure": "①主句是 Mario Molina and Sherwood Rowland warned of a menace：主语是 and 连接的两个人名，谓语 warned，warn of sth 意为“警告某种危险”（视频说明）。句首 In June 1974 是时间状语，“In + 月份 + 年份”表示在某年某月。\n②主语后的 chemists in California 是同位语（视频说明），前后用逗号隔开，补充说明两人的身份。chemists 是同位语中心词，in California 是介词短语作后置定语，修饰 chemists。同位语插在主语和谓语之间，读的时候要越过它找到谓语 warned。\n③in Nature 是地点状语，插在 warned 和 of a menace 之间，把动词和它所接的介词短语隔开。Nature 是期刊名，in Nature 即“在《自然》杂志上”。\n④in fridges and spray cans 是介词短语作后置定语，修饰 menace（视频说明），说明这种威胁藏在冰箱和喷雾罐中；它不修饰 warned，两位化学家并不是在冰箱里发出警告。威胁具体是什么，下一句才交代：氯氟烃（CFCs）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是对前面名词的身份、性质作补充说明的名词或名词短语，与被说明的名词指同一对象，通常用逗号隔开。本句 chemists in California 补充说明 Mario Molina and Sherwood Rowland，两者指同一组人。人名后紧跟职业、身份的同位语是新闻语体的常见写法，同位语前常不加冠词。考研长难句中，主语后的同位语会把主语和谓语隔开，要先找到真正的谓语；翻译时同位语既可以前置作定语，也可以像视频那样保留在原位，拆成短句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Dr Chen, a geologist at the local university, warned residents of the risk of landslides.",
+      "zh": "当地大学的地质学家陈博士提醒居民注意山体滑坡的风险。"
+     },
+     {
+      "en": "The mayor, a former teacher, has made education her top priority.",
+      "zh": "市长曾是一名教师，她把教育列为首要任务。"
+     }
+    ]
+   },
+   {
+    "title": "warn of 与被状语隔开的动词短语",
+    "explain": "warn 的常见结构有 warn of/about sth（警告某种危险）、warn sb of/about sth（提醒某人注意某种危险）、warn (sb) that…（警告说……）、warn sb (not) to do sth（警告某人（不要）做某事）。本句 warned in Nature of a menace 中，较短的地点状语 in Nature 插在 warned 和 of a menace 之间，较长的 of 短语放到后面，句子更平衡。阅读时看到 of 不能就近与 Nature 搭配（Nature of a menace 讲不通），要回到前面的 warned，还原成 warn of a menace。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Economists warned last week of a slowdown in consumer spending.",
+      "zh": "经济学家上周警告，消费支出可能放缓。"
+     },
+     {
+      "en": "The report warns that rising sea levels could displace millions of people.",
+      "zh": "报告警告说，海平面上升可能使数百万人流离失所。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语作后置定语",
+    "explain": "介词短语修饰名词时放在名词之后。本句 in fridges and spray cans 修饰 a menace，说明威胁所在的位置。判断介词短语修饰名词还是动词要看语义：如果修饰 warned，就成了“在冰箱里警告”，不合逻辑，所以只能修饰 menace，视频说明也指出它是后置定语。翻译时可以像视频那样译成“藏在……里”的短句，放在中心词之后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The engineers found a crack in the wall of the dam.",
+      "zh": "工程师们在大坝的墙体上发现了一道裂缝。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Mario Molina and Sherwood Rowland",
+    "explain": "两人当时在加州大学欧文分校（University of California, Irvine）工作，1974年在《自然》杂志发表论文，指出氯氟烃会破坏平流层中的臭氧。1995年，两人与荷兰科学家保罗·克鲁岑（Paul Crutzen）因大气化学方面的研究，特别是关于臭氧形成和分解的研究，共同获得诺贝尔化学奖。"
+   },
+   {
+    "term": "Nature",
+    "explain": "《自然》，英国出版的综合性科学周刊，创刊于1869年，是世界上影响最大的科学期刊之一。期刊、报纸名在英文中通常用斜体，中文加书名号。“在某期刊上发表”用介词 in，如 a paper published in Nature。"
+   },
+   {
+    "term": "menace",
+    "explain": "名词，威胁，危险的人或物，语气比 threat 更重，常带“令人不安、危害大”的色彩，如 a menace to public health（对公众健康的威胁）。本句视频译为“威胁”。"
+   },
+   {
+    "term": "fridges and spray cans",
+    "explain": "fridge 是 refrigerator 的非正式说法；spray can 即喷雾罐，也叫 aerosol can。氯氟烃曾被大量用作冰箱的制冷剂和喷雾罐的推进剂，所以说威胁“藏在冰箱和喷雾罐里”。"
+   },
+   {
+    "term": "In June 1974",
+    "explain": "表示“在某年某月”用 in，具体到某一天时用 on，如 on 12 March 2024。新闻写作中，句首较短的时间状语后常不加逗号，本句即如此。"
+   }
+  ],
+  "translation_tip": "视频译文“1974年6月，马里奥·莫利纳和舍伍德·罗兰，两位化学家，在加州工作，在《自然》杂志上撰文警告，有一种威胁藏在冰箱和喷雾罐里。”的处理：①同位语 chemists in California 没有前置，而是保留原文顺序，拆成“两位化学家，在加州工作”两个短句；复数 chemists 增译量词“两位”，介词短语 in California 增补动词，译成“在加州工作”。②in Nature 前移到“警告”之前，并根据期刊语境增补“撰文”，说明警告是以发表论文的形式发出的。③warn of a menace 的宾语单独成句，译成“有一种威胁”；后置定语 in fridges and spray cans 接在后面译成“藏在冰箱和喷雾罐里”，用“有……藏在……”的存现句式，比“警告冰箱和喷雾罐里的一种威胁”更通顺。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Chlorofluorocarbons (CFCs)",
+   "predicate": "are",
+   "object_or_complement": "so inert",
+   "explain": "主干是 Chlorofluorocarbons (CFCs) are so inert，主系表结构，so 与 that 呼应，引出结果状语从句。谓语 are 为一般现在时，陈述 CFCs 的化学性质；从句中的 drift、can liberate 和 destroys 也都用一般现在时，说明的是普遍成立的科学规律。"
+  },
+  "components": [
+   {
+    "text": "Chlorofluorocarbons (CFCs)",
+    "role": "主语（括号内是缩写）",
+    "zh": "氯氟烃（CFCs）"
+   },
+   {
+    "text": "are",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "so inert",
+    "role": "表语（so 修饰 inert，与后面的 that 构成 so…that）",
+    "zh": "如此惰性"
+   },
+   {
+    "text": "that they drift",
+    "role": "结果状语从句（that 引导，与 so 呼应）的主语和谓语，they 指 CFCs",
+    "zh": "以至于它们能……飘"
+   },
+   {
+    "text": "intact",
+    "role": "形容词作状语，说明主语 they 飘移时的状态",
+    "zh": "完好无损地"
+   },
+   {
+    "text": "into the stratosphere,",
+    "role": "方向状语（介词短语），说明飘到哪里",
+    "zh": "入到平流层中"
+   },
+   {
+    "text": "high in the atmosphere,",
+    "role": "形容词短语，补充说明 the stratosphere 的位置（非限制性后置定语）",
+    "zh": "也就是高层大气中"
+   },
+   {
+    "text": "where they can",
+    "role": "非限制性定语从句，修饰 the stratosphere：where 在从句中作地点状语，they 为从句主语，can 为情态动词",
+    "zh": "在那里，它们可能"
+   },
+   {
+    "text": "liberate",
+    "role": "定语从句的谓语动词（与 can 构成谓语）",
+    "zh": "释放出"
+   },
+   {
+    "text": "chlorine,",
+    "role": "定语从句的宾语",
+    "zh": "氯"
+   },
+   {
+    "text": "a catalyst",
+    "role": "同位语，补充说明 chlorine",
+    "zh": "氯是一种催化剂"
+   },
+   {
+    "text": "that destroys ozone molecule after molecule.",
+    "role": "限制性定语从句，修饰 a catalyst（that 在从句中作主语）",
+    "zh": "会把臭氧分子一个接一个地破坏掉"
+   }
+  ],
+  "structure": "①主句是 Chlorofluorocarbons (CFCs) are so inert：主语是 CFCs，are 是系动词，so inert 作表语。so 与后面的 that 呼应，构成 so…that 结构：因为化学性质太不活泼，所以能完好无损地飘到平流层。\n②that 引导结果状语从句 that they drift intact into the stratosphere，they 指 CFCs。drift 是不及物动词；intact 是形容词，放在 drift 后作状语，说明它们飘移时的状态（没有分解，保持完整）；into the stratosphere 表示飘移的方向和终点。\n③high in the atmosphere 是形容词短语，前后有逗号，补充说明 the stratosphere 位于大气的高处，视频译为“也就是高层大气中”。\n④where 引导非限制性定语从句，先行词是 the stratosphere，where 在从句中作地点状语，相当于 in the stratosphere。从句主语 they 仍指 CFCs，谓语 can liberate，宾语 chlorine；can 表示可能性。\n⑤chlorine 后的 a catalyst 是同位语，说明氯的性质；that destroys ozone molecule after molecule 是限制性定语从句，修饰 a catalyst，that 在从句中作主语。ozone molecule after molecule 是“名词 + after + 同一名词”结构，整体作 destroys 的宾语，相当于 one ozone molecule after another（一个接一个的臭氧分子），后一个 molecule 前省略了 ozone，表示破坏接连不断。\n⑥整句沿着因果链条层层推进：CFCs 稳定，能完好进入平流层；在那里释放出氯；氯作为催化剂不断破坏臭氧。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "so…that 引导结果状语从句",
+    "explain": "so + 形容词/副词 + that 从句，意为“如此……以至于……”，that 从句表示结果。本句 so inert that they drift intact into the stratosphere：CFCs 化学性质太不活泼，结果能完好无损地到达平流层。so 后接形容词或副词，such 后接名词短语（such a stable compound that…），这是考研写作和语法题的常见考点。so that 连用时多表示目的（以便），区分方法是看 so 和 that 之间有没有形容词或副词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The fog was so thick that all flights were cancelled.",
+      "zh": "雾太大了，所有航班都被取消了。"
+     },
+     {
+      "en": "The new material is so light that a single person can carry a large sheet of it.",
+      "zh": "这种新材料非常轻，一个人就能搬起一大块。"
+     }
+    ]
+   },
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "where 是关系副词，先行词表示地点，where 在从句中作地点状语，相当于 in/at which。本句 where they can liberate chlorine 修饰 the stratosphere，相当于 in which they can liberate chlorine。逗号表明是非限制性定语从句，补充说明在平流层里会发生什么。易错点：先行词是地点，不一定用 where，要看从句缺什么成分，缺状语用 where，缺主语或宾语用 which/that，如 her hometown, which she had not visited for years（visited 缺宾语）。翻译时非限制性定语从句常拆成独立分句，用“在那里”回指先行词，视频即如此处理。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The documents were sent to a lab in Geneva, where experts examined the ink and paper.",
+      "zh": "文件被送到日内瓦的一家实验室，专家们在那里检验了墨迹和纸张。"
+     },
+     {
+      "en": "She finally returned to her hometown, which she had not visited for twenty years.",
+      "zh": "她终于回到了家乡，她已经二十年没回去过了。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + after + 同一名词：表示接连不断",
+    "explain": "同一个可数名词的单数形式用 after 连接，名词前不加冠词，表示“一个接一个，接连不断”，强调数量多、持续不停。它可以作状语，如 day after day（日复一日）、year after year（年复一年）；也可以作主语或宾语，如 read page after page（读了一页又一页）、make mistake after mistake（一错再错）。本句 ozone molecule after molecule 整体作 destroys 的宾语，相当于 one ozone molecule after another，后一个 molecule 前省略了 ozone，说明氯不是只破坏一个臭氧分子，而是一个接一个地破坏下去，与 catalyst（催化剂本身不被消耗）相呼应。这一结构作主语时谓语用单数：Witness after witness has described the same scene。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Year after year, the river floods the low-lying fields along its banks.",
+      "zh": "年复一年，河水都会淹没两岸的低洼田地。"
+     },
+     {
+      "en": "The young striker missed chance after chance in the first half.",
+      "zh": "这名年轻前锋在上半场错失了一个又一个机会。"
+     }
+    ]
+   },
+   {
+    "title": "形容词作状语，说明主语的状态",
+    "explain": "有些形容词可以放在不及物动词之后，说明主语在动作发生时的状态，如 arrive safe、return home exhausted、survive intact。这类形容词说明的是主语，而不是修饰动词，所以不用副词形式。本句 drift intact 中，intact 说明 they（CFCs）飘移时仍完整无损，视频译为“完好无损地飘”，汉语用“地”表达，但英语不能写成 intactly。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The climbers returned exhausted but unhurt after three days on the mountain.",
+      "zh": "在山上待了三天之后，登山者们回来时筋疲力尽，但都没有受伤。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Chlorofluorocarbons (CFCs)",
+    "explain": "氯氟烃，由氯、氟、碳等元素组成的化合物：chloro- 表示“氯”，fluoro- 表示“氟”，carbon 表示“碳”。CFCs 化学性质稳定、不易燃，曾被大量用作制冷剂和喷雾推进剂，后因破坏臭氧层被《蒙特利尔议定书》（第14句）限制并逐步淘汰。缩写的复数直接加小写 s，按字母读作 C-F-Cs。"
+   },
+   {
+    "term": "the stratosphere",
+    "explain": "平流层，大气层中位于对流层之上的一层，臭氧层主要分布在这里。strato- 来自拉丁语 stratus（铺开的），后接 sphere（球体，圈层）；atmosphere（大气层）、stratosphere、troposphere（对流层）都以 -sphere 结尾。"
+   },
+   {
+    "term": "inert",
+    "explain": "化学上指“惰性的，不起化学反应的”，如 inert gases（惰性气体）。本句视频译为“惰性”。化学性质稳定是 CFCs 被广泛使用的原因，也正因为稳定，它们不会在低层大气中分解，能一直上升到平流层。"
+   },
+   {
+    "term": "catalyst",
+    "explain": "催化剂，能加快化学反应、而本身在反应前后不被消耗的物质，所以氯可以反复参与反应，一个接一个地破坏臭氧分子。比喻义指促使变化发生的人或事，如 a catalyst for change。"
+   },
+   {
+    "term": "liberate",
+    "explain": "熟词僻义：常见义是“解放”，在化学语境中指“释放（气体、能量等）”，相当于 release。本句 liberate chlorine 视频译为“释放出氯”。"
+   }
+  ],
+  "translation_tip": "视频译文“氯氟烃（CFCs）如此惰性，以至于它们能完好无损地飘入到平流层中，也就是高层大气中，在那里，它们可能释放出氯，氯是一种催化剂，会把臭氧分子一个接一个地破坏掉。”的处理：①长句按原文顺序切成多个短句，与原文的因果链条一致。②so…that 译为“如此……以至于……”，结果从句中增补“能”，表示 CFCs 能够飘到平流层。③形容词 intact 作状语，译成“完好无损地”，放在“飘”前。④high in the atmosphere 用“也就是”引出，表明它是对“平流层”的补充说明。⑤非限制性定语从句拆成独立分句，where 译成“在那里”，can 译成“可能”。⑥同位语 a catalyst 重复中心词，译成“氯是一种催化剂”；定语从句 that destroys… 不前置，而是接在后面译成“会把……破坏掉”，用“把”字句突出破坏的对象；molecule after molecule 译成“一个接一个地”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The pair",
+   "predicate": "foresaw",
+   "object_or_complement": "gradual erosion",
+   "explain": "主谓宾结构的简单句。谓语 foresaw 是 foresee 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The pair",
+    "role": "主语（指上句的两位化学家莫利纳和罗兰）",
+    "zh": "两人"
+   },
+   {
+    "text": "foresaw",
+    "role": "谓语",
+    "zh": "预料到的，是"
+   },
+   {
+    "text": "gradual",
+    "role": "定语（形容词），修饰 erosion",
+    "zh": "一场渐进式的"
+   },
+   {
+    "text": "erosion.",
+    "role": "宾语（抽象名词，零冠词）",
+    "zh": "侵蚀"
+   }
+  ],
+  "structure": "①全句是 The pair foresaw gradual erosion：主语 The pair，谓语 foresaw，宾语 erosion，形容词 gradual 作前置定语。\n②The pair 指第2句的 Mario Molina and Sherwood Rowland，用 pair（两人）回指，避免重复人名。\n③erosion 本指土壤、岩石等被风雨逐渐侵蚀，这里比喻臭氧层被 CFCs 慢慢消耗，与 gradual 一起强调过程缓慢。\n④本句是第一段的收尾。下一段第一句 The alarm, when it sounded, was abrupt 用 abrupt（突然）与本句的 gradual 对照，第6句的 plummeted（骤降）也说明，实际观测到的变化远比两人预料的剧烈。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "pair 指两个人时的用法",
+    "explain": "pair 除了指“一双，一副”（a pair of shoes），还可以指两个关系密切或一起做事的人，新闻语体常用 the pair、the couple、the duo 回指前文提到的两个人。pair 作此义时，谓语可用单数也可用复数，英式英语中多用复数：The pair were arrested。本句谓语是过去式 foresaw，看不出单复数。考研阅读中，用 the pair、the former、the latter 等回指前文是指代题的常见考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The pair have worked together on three films since they met at university.",
+      "zh": "两人自大学相识以来，已经合作拍了三部电影。"
+     }
+    ]
+   },
+   {
+    "title": "不可数抽象名词前的零冠词",
+    "explain": "erosion、pollution、damage、progress 这类抽象名词表示泛指的过程或现象时不可数，前面不加不定冠词 a，本句 gradual erosion 即泛指“渐进的侵蚀”。其中 damage、progress、pollution 即使有形容词修饰也不加 a，如 serious damage、steady progress；考研写作中常见错误是写成 a serious pollution，或把表示“损害”的 damage 写成复数（damages 指“损害赔偿金”）。erosion 稍有不同：后接 of 短语、指某一具体的削弱过程时，外刊中也常说 a gradual/steady erosion of trust。汉语习惯加量词，视频把 gradual erosion 译成“一场渐进式的侵蚀”，这不代表英语要加 a。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Coastal erosion has already claimed several houses along this stretch of shoreline.",
+      "zh": "海岸侵蚀已经吞没了这段海岸线上的好几座房屋。"
+     },
+     {
+      "en": "The storm caused serious damage to crops across the region.",
+      "zh": "这场暴风雨给整个地区的庄稼造成了严重损害。"
+     }
+    ]
+   },
+   {
+    "title": "不规则动词 foresee 的变化",
+    "explain": "foresee 由前缀 fore-（预先）加 see 构成，变化与 see 相同：foresee, foresaw, foreseen。类似的还有 foretell（预言）和 forecast（预测，过去式可用 forecast 或 forecasted，见第17句）。foresee 后可接名词、that 从句或 wh- 从句，如 foresee problems、foresee that…、foresee how…。形容词 foreseeable 常用于 in the foreseeable future（在可预见的将来），是写作常用短语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Few analysts foresaw that the company would collapse so quickly.",
+      "zh": "很少有分析人士预料到这家公司会垮得这么快。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "erosion",
+    "explain": "原指土壤、岩石受风、水等作用而逐渐被侵蚀，如 soil erosion（水土流失）、coastal erosion（海岸侵蚀）；常比喻权力、信任、价值等逐渐削弱，如 the erosion of trust。本句比喻臭氧层被逐渐消耗，视频译为“侵蚀”。动词为 erode。"
+   },
+   {
+    "term": "gradual 与 abrupt",
+    "explain": "gradual（逐渐的）与下一句的 abrupt（突然的）意思相反，作者用这组反义词把“预料”和“现实”对照起来：预料的是缓慢侵蚀，出现的却是骤降。考研阅读中，这种前后对照常是理解段落逻辑的关键。"
+   }
+  ],
+  "translation_tip": "视频译文“两人预料到的，是一场渐进式的侵蚀。”的处理：①原句是简单的主谓宾结构，视频没有直译成“两人预料到了渐进式的侵蚀”，而是用“……的，是……”的判断句，把宾语放到句末，突出“渐进式的侵蚀”这一预料内容，为下一句的“突然”作对照。②The pair 译成“两人”，简洁回指上文的两位化学家。③不可数名词 erosion 前增补量词“一场”，gradual 译成“渐进式的”，突出过程缓慢。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "The alarm",
+   "predicate": "was",
+   "object_or_complement": "abrupt",
+   "explain": "主干是 The alarm was abrupt，主系表结构，主语和系动词之间插入了时间状语从句 when it sounded。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The alarm,",
+    "role": "主语（比喻臭氧层出现危机的警报）",
+    "zh": "警报"
+   },
+   {
+    "text": "when it sounded,",
+    "role": "插入的时间状语从句（when 引导，it 指 the alarm）",
+    "zh": "真的拉响时"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "abrupt.",
+    "role": "表语（形容词）",
+    "zh": "却来得十分突然"
+   }
+  ],
+  "structure": "①全句的主干是 The alarm was abrupt：主语 The alarm，系动词 was，形容词 abrupt 作表语。\n②when it sounded 是插入的时间状语从句（视频说明），插在主语和系动词之间，前后用逗号隔开。it 指 the alarm；sound 在这里是不及物动词，意为“（警报）响起”。先点出“警报”，再补充“当它响起时”，最后落到 abrupt 上，句末的 abrupt 得到强调。\n③The alarm 是比喻，指臭氧层遭到严重破坏的警报，即下一句法曼团队报告的南极上空臭氧骤降。abrupt（突然）与上句的 gradual（渐进的）形成对照：两位化学家预料的是缓慢侵蚀，真正的警报却来得很突然。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插入的状语从句",
+    "explain": "状语从句除了放在句首或句末，还可以插在主语和谓语之间，前后用逗号隔开，作插入成分。这种语序先点出主语，再补充时间或条件，最后落到谓语和表语上，使句末的信息更突出，常见于书面语和新闻语体。阅读时可以先跳过逗号之间的插入部分找主干（The alarm was abrupt），再把从句放回去。翻译时，插入的状语从句一般提到主句前，或像视频那样与主语合成“警报真的拉响时”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The decision, when it finally came, surprised almost everyone.",
+      "zh": "决定最终公布时，几乎让所有人都感到意外。"
+     },
+     {
+      "en": "The new policy, if it is approved, will take effect next year.",
+      "zh": "新政策如果获批，将于明年生效。"
+     }
+    ]
+   },
+   {
+    "title": "sound 作不及物动词与系动词的区别",
+    "explain": "sound 作不及物动词时意为“发出声音，响起”，主语多为警报、铃声、号角等，如 The alarm sounded at midnight；作及物动词时，sound the alarm 意为“拉响警报”，比喻“发出警告”。sound 作系动词时后接形容词作表语，意为“听起来”，如 That sounds reasonable。本句 when it sounded 后面没有表语，是不及物动词“响起”。区分方法是看 sound 后是否接形容词表语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire alarm sounded just as the meeting was about to begin.",
+      "zh": "会议正要开始时，火警警报响了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sound the alarm",
+    "explain": "拉响警报，比喻“发出警告，敲响警钟”，新闻中常见，如 Scientists have sounded the alarm over declining bee populations（科学家就蜜蜂数量减少发出警告）。本句的 alarm 也是比喻义，指臭氧层出现严重问题的信号。"
+   },
+   {
+    "term": "abrupt",
+    "explain": "形容词，突然的、出乎意料的，如 an abrupt change、an abrupt end；也可形容言行唐突、生硬，如 an abrupt manner。本句作表语，视频译为“突然”，与上句的 gradual（渐进式的）相对。"
+   }
+  ],
+  "translation_tip": "视频译文“警报真的拉响时，却来得十分突然。”的处理：①插入的时间状语从句 when it sounded 与主语合在一起，译成“警报真的拉响时”，作全句的时间背景，代词 it 不再译出；sound 意为（警报）响起，视频译为“拉响”。②增补“真的”，与上句“预料到的”相照应，表示警报变成了现实。③表语 abrupt 译成“来得十分突然”，增补“却”表示转折，突出与上句“渐进式的侵蚀”之间的反差。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Joseph Farman and colleagues",
+   "predicate": "reported",
+   "object_or_complement": "that ozone over Halley Bay, their Antarctic station, had plummeted each southern spring since the mid-1970s（宾语从句）",
+   "explain": "主干是 Joseph Farman and colleagues reported that…，主谓宾结构，宾语是 that 引导的宾语从句。主句谓语 reported 为一般过去时，主动语态；从句谓语 had plummeted 为过去完成时。"
+  },
+  "components": [
+   {
+    "text": "In May 1985",
+    "role": "时间状语（介词短语）",
+    "zh": "1985年5月"
+   },
+   {
+    "text": "Joseph Farman",
+    "role": "主语之一",
+    "zh": "约瑟夫·法曼"
+   },
+   {
+    "text": "and colleagues",
+    "role": "并列主语（and 连接）",
+    "zh": "和……同事"
+   },
+   {
+    "text": "at the British Antarctic Survey",
+    "role": "后置定语（介词短语），修饰 colleagues",
+    "zh": "英国南极调查局的"
+   },
+   {
+    "text": "reported",
+    "role": "谓语",
+    "zh": "报告称"
+   },
+   {
+    "text": "that ozone",
+    "role": "宾语从句的引导词 that（不作成分）和从句主语 ozone",
+    "zh": "臭氧"
+   },
+   {
+    "text": "over Halley Bay,",
+    "role": "后置定语（介词短语），修饰 ozone",
+    "zh": "哈雷湾上空的"
+   },
+   {
+    "text": "their Antarctic station,",
+    "role": "同位语，补充说明 Halley Bay",
+    "zh": "那是他们的南极考察站"
+   },
+   {
+    "text": "had plummeted",
+    "role": "从句谓语（过去完成时）",
+    "zh": "骤降"
+   },
+   {
+    "text": "each southern spring",
+    "role": "从句时间状语（名词短语直接作状语，表示反复发生）",
+    "zh": "每到南半球春季"
+   },
+   {
+    "text": "since the mid-1970s.",
+    "role": "从句时间状语（since 引导的介词短语，与完成时连用）",
+    "zh": "自20世纪70年代中期起"
+   }
+  ],
+  "structure": "①主句是 Joseph Farman and colleagues reported that…：主语是 Joseph Farman and colleagues，at the British Antarctic Survey 是介词短语作后置定语，修饰 colleagues（视频说明），说明同事所在的机构；谓语 reported，that 引导的宾语从句作 reported 的宾语。句首 In May 1985 是时间状语。\n②宾语从句中，that 是引导词，不作成分；从句主语是 ozone，over Halley Bay 是介词短语作后置定语，修饰 ozone。\n③their Antarctic station 是同位语，补充说明 Halley Bay（视频说明），指哈雷湾是他们在南极的考察站。从句主语 ozone 和谓语 had plummeted 之间隔着后置定语和同位语，要越过两个逗号才能找到从句谓语。\n④从句谓语 had plummeted 是过去完成时，按视频说明，表示到1985年报告时为止一直在骤降。each southern spring 是名词短语直接作时间状语，表示每到南半球春季，说明骤降反复出现；since the mid-1970s 表示起点，与完成时连用。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导宾语从句，从句主语被拉长",
+    "explain": "report、say、claim、find 等动词后常接 that 引导的宾语从句，that 只起连接作用，不作成分。本句从句主语 ozone 带了后置定语 over Halley Bay 和同位语 their Antarctic station，主语和谓语 had plummeted 之间隔了两个逗号。考研长难句中，宾语从句内部的主语常被修饰语拉长，分析时先找 that 后的第一个名词（往往是从句主语），再向后找与之搭配的谓语动词，中间的部分都是修饰语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The survey found that young people in rural areas, especially those without a degree, were less likely to own a home.",
+      "zh": "调查发现，农村地区的年轻人，尤其是没有学位的年轻人，拥有住房的可能性较低。"
+     },
+     {
+      "en": "Officials reported that the bridge over the river, the only link to the island, had been badly damaged.",
+      "zh": "官员报告称，河上的那座桥，也就是通往岛上的唯一通道，已严重受损。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时与 since 连用",
+    "explain": "现在完成时 have/has done 与 since 连用，表示从过去某时到现在持续或反复发生的情况；如果参照点是过去某一时间，就要用过去完成时 had done，表示从更早的时间到那个过去时间为止。本句参照点是1985年的报告（reported），since the mid-1970s 是起点，所以用 had plummeted，表示从70年代中期到1985年报告时，臭氧一直在骤降。宾语从句跟在过去时 reported 之后，时态向过去推移，直接引语中的 has plummeted 在这里变为 had plummeted。主句是过去时，since 短语所在的句子就要考虑用过去完成时，这是考研语法常考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the factory finally closed in 2010, it had been losing money since the late 1990s.",
+      "zh": "这家工厂在2010年最终关闭时，自20世纪90年代末以来一直在亏损。"
+     },
+     {
+      "en": "She told reporters that prices had risen every year since the war ended.",
+      "zh": "她告诉记者，战争结束以来，物价每年都在上涨。"
+     }
+    ]
+   },
+   {
+    "title": "each/every + 时间名词直接作状语",
+    "explain": "带有 each、every、this、last、next 等限定词的时间名词短语，前面不加介词即可作时间状语，如 each year、every morning、last spring。本句 each southern spring 表示“每个南半球的春季”，说明臭氧骤降每年春季都会出现，是反复发生的现象。这类短语前一般不再加 in、on 等介词，如不说 in last spring、on next Monday。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Each winter, thousands of migrating birds stop at the lake to rest.",
+      "zh": "每年冬天，成千上万只候鸟都会在湖边停留休息。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the British Antarctic Survey",
+    "explain": "英国南极调查局，英国负责南极和极地研究的国家机构。1985年5月，法曼与同事在《自然》杂志发表论文，报告了南极上空春季臭氧大幅减少的现象，也就是后来所说的“臭氧层空洞”。"
+   },
+   {
+    "term": "Halley Bay",
+    "explain": "哈雷湾，英国南极调查局设在南极的考察站所在地。本句用同位语 their Antarctic station 说明它是他们的南极考察站。"
+   },
+   {
+    "term": "southern spring",
+    "explain": "南半球的春季。南北半球季节相反，南半球的春季大约是每年9月至11月，南极上空的臭氧减少正是在这一季节出现。"
+   },
+   {
+    "term": "the mid-1970s",
+    "explain": "20世纪70年代中期。表示年代用“the + 年份 + s”，如 the 1970s（20世纪70年代）；前面可加 early、mid-、late 表示初期、中期、后期，如 the early 1990s、the mid-1970s、the late 1980s。"
+   },
+   {
+    "term": "plummet",
+    "explain": "不及物动词，意为“骤然下跌”，比 fall、drop 程度更强，常用于价格、气温、人数等，如 Temperatures plummeted overnight。本句视频译为“骤降”。"
+   }
+  ],
+  "translation_tip": "视频译文“1985年5月，约瑟夫·法曼和英国南极调查局的同事报告称，哈雷湾上空的臭氧，那是他们的南极考察站，自20世纪70年代中期起，每到南半球春季就骤降。”的处理：①后置定语 at the British Antarctic Survey 前移，译成“英国南极调查局的同事”。②reported that 译成“报告称”，后接宾语从句的内容。③从句主语的后置定语 over Halley Bay 前移，成为“哈雷湾上空的臭氧”；同位语 their Antarctic station 没有前置，而是保留原位置，译成插入短句“那是他们的南极考察站”。④从句中的两个时间状语都提到谓语“骤降”之前，按汉语习惯先说起点，再说反复出现的时间，“每到……就……”体现 each 的反复义；the mid-1970s 增译为“20世纪70年代中期”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Their humble Dobson spectrophotometer",
+   "predicate": "gauged",
+   "object_or_complement": "ozone",
+   "explain": "主谓宾结构的简单句，主语中心词 spectrophotometer 前有三个前置定语。谓语 gauged 为一般过去时，主动语态，表示过去长期、反复进行的测量工作。"
+  },
+  "components": [
+   {
+    "text": "Their",
+    "role": "定语（形容词性物主代词），指法曼团队",
+    "zh": "他们那台"
+   },
+   {
+    "text": "humble",
+    "role": "定语（形容词），说明仪器简陋、不起眼",
+    "zh": "不起眼的"
+   },
+   {
+    "text": "Dobson",
+    "role": "定语（名词作前置定语，仪器以设计者的姓氏命名）",
+    "zh": "多布森"
+   },
+   {
+    "text": "spectrophotometer",
+    "role": "主语中心词",
+    "zh": "分光光度计"
+   },
+   {
+    "text": "gauged",
+    "role": "谓语",
+    "zh": "测量"
+   },
+   {
+    "text": "ozone",
+    "role": "宾语",
+    "zh": "臭氧"
+   },
+   {
+    "text": "from the ground.",
+    "role": "地点状语（介词短语），说明在哪里测量",
+    "zh": "从地面"
+   }
+  ],
+  "structure": "①全句是 Their humble Dobson spectrophotometer gauged ozone from the ground：主语中心词 spectrophotometer，谓语 gauged，宾语 ozone，from the ground 作状语，说明是从地面上进行测量。\n②主语中心词前有三个前置定语，顺序是限定词 Their、表示评价的形容词 humble、名词定语 Dobson。Dobson 表示仪器的类型，紧挨中心词；humble 是作者的评价，放在更前面。\n③spectrophotometer 是分光光度计，按视频说明，是测量光谱的仪器。\n④本句的 humble 和 from the ground 与第9句的 a sophisticated eye in orbit 形成对照：一边是地面上不起眼的仪器，一边是轨道上精密的卫星。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "几个定语同时放在名词前时，一般顺序是：限定词（冠词、物主代词、指示代词）+ 表示评价或观点的形容词 + 表示大小、新旧、颜色等的形容词 + 表示材料、类别、用途的词 + 中心词。越能说明事物本质类别的定语离中心词越近。本句 Their（限定词）+ humble（评价）+ Dobson（类别，名词作定语）+ spectrophotometer，符合这一顺序。写作中常见错误是把评价性形容词放到类别定语之后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Her beautiful old wooden desk had belonged to her grandfather.",
+      "zh": "她那张漂亮的旧木书桌曾经是她祖父的。"
+     },
+     {
+      "en": "The team used a cheap plastic rain gauge to collect the data.",
+      "zh": "该小组用一个便宜的塑料雨量计收集数据。"
+     }
+    ]
+   },
+   {
+    "title": "一般过去时表示过去的经常性动作",
+    "explain": "一般过去时既可以表示过去某一次的动作，也可以表示过去一段时间里经常、反复发生的动作。本句 gauged 不是指某一次测量，而是指这台仪器多年来一直从地面测量臭氧，下一句的 a painstaking routine（一丝不苟的例行规程）也说明这是长期的例行工作。表示过去的习惯还可以用 used to do 或 would do。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In those days, the villagers drew water from a single well in the square.",
+      "zh": "那时，村民们都从广场上的一口井里打水。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Dobson spectrophotometer",
+    "explain": "多布森分光光度计，因英国物理学家戈登·多布森（G. M. B. Dobson）而得名，他在20世纪20年代设计了这种仪器，用来从地面测量大气中的臭氧总量。臭氧总量的常用单位多布森单位（Dobson unit，DU）也以他的名字命名。"
+   },
+   {
+    "term": "humble",
+    "explain": "熟词僻义：humble 常见义是“谦逊的”，修饰物时意为“简陋的，不起眼的，普通的”，如 a humble meal（简单的饭菜）。本句视频译为“不起眼的”，突出仪器简单、普通，与卫星的精密形成对比。"
+   },
+   {
+    "term": "gauge",
+    "explain": "动词，意为“测量，计量”，也可指“判断，估计”，如 gauge public opinion；名词指测量仪表，如 a fuel gauge（油量表）。本句视频译为“测量”。拼写注意 au 的顺序，不要写成 guage。"
+   },
+   {
+    "term": "spectrophotometer",
+    "explain": "由 spectro-（光谱）、photo-（光）和 -meter（测量仪器）构成，按视频说明，指测量光谱的仪器。"
+   }
+  ],
+  "translation_tip": "视频译文“他们那台不起眼的多布森分光光度计，从地面测量臭氧。”的处理：①Their 增补量词，译成“他们那台”，与“不起眼的”一起突出仪器的普通。②主语较长，后面加逗号断开，再接谓语部分。③地点状语 from the ground 提到动词前，译成“从地面测量臭氧”，符合汉语状语在前的语序。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The staff",
+   "predicate": "were",
+   "object_or_complement": "persistent",
+   "explain": "主干是 The staff were persistent，主系表结构，后接现在分词短语 reading it… 作伴随状语。系动词 were 是一般过去时，用复数是因为 staff 在这里指考察站的全体工作人员。"
+  },
+  "components": [
+   {
+    "text": "The staff",
+    "role": "主语（集合名词，指考察站的工作人员）",
+    "zh": "工作人员"
+   },
+   {
+    "text": "were",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "persistent,",
+    "role": "表语（形容词）",
+    "zh": "持之以恒"
+   },
+   {
+    "text": "reading it",
+    "role": "伴随状语（现在分词短语），逻辑主语是 The staff，it 指分光光度计",
+    "zh": "读数时"
+   },
+   {
+    "text": "in a painstaking routine",
+    "role": "方式状语（介词短语），修饰 reading",
+    "zh": "遵循一套一丝不苟的例行规程"
+   },
+   {
+    "text": "of manual observation.",
+    "role": "后置定语（介词短语），修饰 routine，说明规程的内容",
+    "zh": "全靠人工观测"
+   }
+  ],
+  "structure": "①主句是 The staff were persistent：主语 The staff，系动词 were，persistent 作表语，意为“坚持不懈的”。\n②reading it… 是现在分词短语作伴随状语（视频说明），逻辑主语是主句主语 The staff，工作人员与 read 是主动关系，所以用现在分词；它具体说明工作人员的“持之以恒”体现在哪里。it 指上句的 Dobson spectrophotometer，read 在这里意为“读取（仪器的）读数”。\n③in a painstaking routine 是介词短语，修饰 reading，说明读数的方式：按一套一丝不苟的例行规程进行。\n④of manual observation 是介词短语作后置定语，修饰 routine（视频说明：a routine of…，……的例行规程），说明这套规程的内容是人工观测。manual 强调靠人手操作，与下一段卫星的自动记录形成对比。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在主句后，常用逗号隔开，表示与主句谓语同时发生或对其作补充说明的动作，即伴随状语。它的逻辑主语必须是主句主语，两者构成主动关系。本句 reading it in a painstaking routine… 的逻辑主语是 The staff，说明工作人员的“持之以恒”具体体现在怎样读数上。如果分词的逻辑主语与主句主语不一致，就是考研写作中常见的“悬垂分词”错误，如 Reading the data, a mistake was found，应改为 Reading the data, we found a mistake。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The volunteers worked through the night, sorting donations and packing them into boxes.",
+      "zh": "志愿者们通宵工作，整理捐赠物资并装箱。"
+     },
+     {
+      "en": "She sat by the window, reading a letter from her brother.",
+      "zh": "她坐在窗边，读着哥哥寄来的信。"
+     }
+    ]
+   },
+   {
+    "title": "集合名词 staff 作主语时的主谓一致",
+    "explain": "staff、team、family、committee 等集合名词指一个机构或群体：视为整体时谓语用单数，强调其中的成员时谓语用复数，后者在英式英语中更常见；police、cattle 则总是用复数。本句 The staff were persistent 指考察站的工作人员个个坚持不懈，所以用 were。staff 表示若干员工时不加 s，说 ten staff 或 ten members of staff。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hospital staff were praised for their calm response to the emergency.",
+      "zh": "医院的工作人员因在紧急情况下沉着应对而受到表扬。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "read a meter/gauge",
+    "explain": "熟词僻义：read 可指“查看（仪表、刻度）并读出数值”，如 read a gas meter（读煤气表）、read a thermometer（读温度计）；仪表作主语时还可表示“显示（读数为）”，如 The thermometer read 30 degrees。本句 reading it 即读取分光光度计的读数，视频译为“读数时”。"
+   },
+   {
+    "term": "painstaking",
+    "explain": "形容词，由 pains（辛苦，费心）和 taking 构成。按视频说明，形容做事极度仔细、费尽心血（需要下苦功夫的），如 painstaking attention to detail（一丝不苟的细节把控）、a painstaking process（一个极其费神的过程）。相关短语 take pains to do sth（费尽心思做某事）。"
+   },
+   {
+    "term": "routine",
+    "explain": "名词，按固定程序做事的惯常方式、例行程序，如 a daily routine（日常作息）；也可作形容词，如 a routine check（例行检查）。本句 a painstaking routine 视频译为“一套一丝不苟的例行规程”。"
+   },
+   {
+    "term": "manual observation",
+    "explain": "人工观测。manual 意为“手工的，人工的，手动的”，与 automatic（自动的）相对；作名词时指“使用手册”，如 a user manual。"
+   }
+  ],
+  "translation_tip": "视频译文“工作人员持之以恒，读数时遵循一套一丝不苟的例行规程，全靠人工观测。”的处理：①主句 The staff were persistent 译成“工作人员持之以恒”，系动词不译出。②现在分词短语 reading it 译成“读数时”，结合语境直接译出“读数”这一动作，代词 it 不再译出。③介词 in 增译动词“遵循”，a painstaking routine 加量词，译成“一套一丝不苟的例行规程”。④后置定语 of manual observation 没有前置成“人工观测的例行规程”，而是拆到句末，译成“全靠人工观测”，增补“全靠”，强调观测完全依靠人力。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "NASA's Nimbus-7 satellite",
+   "predicate": "had recorded",
+   "object_or_complement": "the same lows",
+   "explain": "主干是 NASA's Nimbus-7 satellite had recorded the same lows，主谓宾结构，主语后插入同位语。谓语 had recorded 为过去完成时，主动语态，表示卫星记录到低值发生在上文法曼团队1985年发表报告之前。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "连词，表示转折，承接上文",
+    "zh": "然而"
+   },
+   {
+    "text": "NASA's",
+    "role": "定语（名词所有格），修饰 satellite",
+    "zh": "美国国家航空航天局（NASA）的"
+   },
+   {
+    "text": "Nimbus-7",
+    "role": "定语（专有名词作前置定语，卫星的名称）",
+    "zh": "雨云7号"
+   },
+   {
+    "text": "satellite,",
+    "role": "主语中心词",
+    "zh": "卫星"
+   },
+   {
+    "text": "a sophisticated eye",
+    "role": "同位语，补充说明卫星（比喻）",
+    "zh": "这只精密的眼睛"
+   },
+   {
+    "text": "in orbit,",
+    "role": "后置定语（介词短语），修饰 eye",
+    "zh": "在轨道上运行"
+   },
+   {
+    "text": "had recorded",
+    "role": "谓语（过去完成时）",
+    "zh": "也记录到了"
+   },
+   {
+    "text": "the same lows.",
+    "role": "宾语（lows 为名词复数）",
+    "zh": "同样的低值"
+   }
+  ],
+  "structure": "①主句是 NASA's Nimbus-7 satellite had recorded the same lows：主语中心词 satellite，NASA's 和 Nimbus-7 作前置定语；谓语 had recorded；宾语 the same lows。句首 Yet 是连词，表示转折。\n②a sophisticated eye in orbit 是同位语（视频说明），补充说明卫星。eye 是比喻，把卫星比作在太空中观察地球的“眼睛”；in orbit 是介词短语作后置定语，修饰 eye，说明它在轨道上运行。\n③had recorded 是过去完成时，说明卫星记录到低值早于上文法曼团队的报告：地面观测结果公布之前，卫星就已经有了同样的数据。\n④lows 是形容词 low 转化成的可数名词，视频说明为“名词复数，低值”；the same 指与第二段哈雷湾测到的低值相同。\n⑤Yet 引出转折：上一段讲地面上不起眼的仪器靠人工测出了骤降，这一句转到精密的卫星，它也记录到了同样的低值，为下一句说明软件为何把数据标为可疑作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时表示在过去某一时间或动作之前已经发生的动作。这个参照点可以出现在同一句中，也可以由上下文提供。本句的参照点是上一段法曼团队1985年发表报告：在此之前，卫星就已经记录到同样的低值，所以用 had recorded。考研阅读中，遇到上下文中突然出现的过去完成时，要据此理清事件的先后：本段说明卫星的数据比地面报告更早，却没有作为发现公布出来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the inspectors arrived, the company had already destroyed most of the records.",
+      "zh": "检查人员到达时，该公司已经销毁了大部分记录。"
+     },
+     {
+      "en": "Long before the treaty was signed, scientists had warned of the danger.",
+      "zh": "早在条约签署之前，科学家们就已经警告过这种危险。"
+     }
+    ]
+   },
+   {
+    "title": "比喻性的同位语",
+    "explain": "同位语除了直接说明身份（如第2句的 chemists in California），也可以用比喻说明事物的特点。本句 a sophisticated eye in orbit 把卫星比作“轨道上一只精密的眼睛”，突出它居高观测、精度高的特点，与第7句的 Their humble Dobson spectrophotometer…from the ground 形成对照。阅读时要分清同位语和并列主语：同位语与前面的名词指同一对象，所以谓语 had recorded 只对应一个主语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The library, a quiet refuge in the busy city centre, attracts hundreds of students every day.",
+      "zh": "这座图书馆是繁忙市中心里一处安静的避风港，每天吸引着数百名学生。"
+     }
+    ]
+   },
+   {
+    "title": "形容词转化为名词：low 与 lows",
+    "explain": "一些形容词可以直接用作名词。low 作可数名词时意为“低点，低值，最低水平”，常见 a record low（历史最低点）、hit a new low（创下新低）、highs and lows（起伏，高潮与低谷）。本句 lows 是复数，指多次测到的臭氧低值。同样，high 也可作名词，如 an all-time high（历史最高点）。经济、气候类阅读中常见这类说法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The pound fell to a 30-year low against the dollar.",
+      "zh": "英镑对美元汇率跌至30年来的最低点。"
+     }
+    ]
+   },
+   {
+    "title": "句首 Yet 表示转折",
+    "explain": "yet 放在句首作连词，意为“然而，但是”，语气比 but 正式，常引出与前文形成反差或出人意料的情况，也常用 and yet。yet 在否定句中作副词时意为“还，仍然”，如 not yet。本句 Yet 承接上一段，引出卫星也记录到低值这一事实。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan seemed simple. Yet it took the team two years to complete.",
+      "zh": "这个计划看似简单，然而团队却花了两年才完成。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NASA",
+    "explain": "National Aeronautics and Space Administration 的首字母缩略词，美国国家航空航天局，成立于1958年，负责美国的民用航天和航空研究。NASA 按一个单词拼读，读作 /ˈnæsə/，不按字母逐个读，前面一般不加 the。"
+   },
+   {
+    "term": "Nimbus-7",
+    "explain": "雨云7号，美国 Nimbus（雨云）系列卫星中的第7颗，1978年发射，搭载了测量臭氧的仪器。nimbus 来自拉丁语，原义为“暴雨，乌云”，作气象术语时指雨云。"
+   },
+   {
+    "term": "in orbit",
+    "explain": "在轨道上运行，如 be in orbit around the Earth（绕地球运行）、put a satellite into orbit（把卫星送入轨道）。本句视频译为“在轨道上运行”。"
+   },
+   {
+    "term": "sophisticated",
+    "explain": "形容机器、技术时意为“精密的，复杂先进的”，如 sophisticated equipment；形容人时意为“老练的，见多识广的”。本句视频译为“精密的”，与第7句的 humble（不起眼的）相对。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，美国国家航空航天局（NASA）的雨云7号卫星，这只精密的眼睛在轨道上运行，也记录到了同样的低值。”的处理：①Yet 译成“然而”，后加逗号。②机构缩写 NASA 首次出现，译出全称“美国国家航空航天局”，括号保留英文缩写；Nimbus-7 意译为“雨云7号”。③同位语 a sophisticated eye in orbit 保留在原位，译成“这只精密的眼睛在轨道上运行”，增补“这只”回指卫星，后置定语 in orbit 增译为“在……运行”。④谓语前增补“也”，说明卫星与地面观测得到了同样的结果；lows 依据视频说明译为“低值”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Its software",
+   "predicate": "flagged",
+   "object_or_complement": "them（宾语）；as dubious（宾语补足语）",
+   "explain": "主干是 Its software flagged them as dubious，主谓宾加宾语补足语，构成 flag A as B（把 A 标记为 B）。谓语 flagged 为一般过去时，主动语态；since 引导原因状语从句，从句谓语 had never been reliably measured 为过去完成时被动语态。"
+  },
+  "components": [
+   {
+    "text": "Its software",
+    "role": "主语（Its 指上句的雨云7号卫星）",
+    "zh": "它的软件"
+   },
+   {
+    "text": "flagged",
+    "role": "谓语（与 as 构成 flag A as B）",
+    "zh": "把……标记"
+   },
+   {
+    "text": "them",
+    "role": "宾语（指上句的 lows，即卫星测到的低值读数）",
+    "zh": "这些读数"
+   },
+   {
+    "text": "as dubious,",
+    "role": "宾语补足语（as 引出，形容词 dubious 说明宾语被标记成什么）",
+    "zh": "为可疑"
+   },
+   {
+    "text": "since",
+    "role": "原因状语从句的引导词",
+    "zh": "因为"
+   },
+   {
+    "text": "ozone that low",
+    "role": "从句主语（形容词短语 that low 后置修饰 ozone）",
+    "zh": "这么低的臭氧"
+   },
+   {
+    "text": "had never been",
+    "role": "从句谓语的一部分（过去完成时被动语态的助动词部分，never 为否定副词）",
+    "zh": "此前从没有"
+   },
+   {
+    "text": "reliably",
+    "role": "方式状语（副词），修饰 measured",
+    "zh": "可靠地"
+   },
+   {
+    "text": "measured.",
+    "role": "从句谓语的过去分词，与 had been 构成过去完成时被动语态",
+    "zh": "被……测到过"
+   }
+  ],
+  "structure": "①主句是 Its software flagged them as dubious：主语 Its software，Its 指上句的 Nimbus-7 卫星；谓语 flagged；宾语 them 指上句的 lows（卫星测到的低值）；as dubious 作宾语补足语。按视频说明，flag A as B 意为“把 A 标记为 B”。\n②since 引导原因状语从句，说明软件为什么把这些读数标为可疑。since 在这里表示原因，意为“因为”，不表示时间。\n③从句主语是 ozone that low。按视频说明，that 作副词，意为“这么”，修饰 low；that low 是形容词短语，放在 ozone 之后作后置定语，ozone that low 即“这么低的臭氧”。\n④从句谓语 had never been reliably measured 是过去完成时被动语态：在卫星测到这些读数之前，从来没有可靠地测到过这么低的臭氧；ozone 是被测量的对象，所以用被动。reliably 修饰 measured。\n⑤本句说明卫星为何没有率先发出警报：软件把从未可靠测到过的低值当作可疑数据，这为第12句的 expectation had not（预期却出了问题）埋下伏笔。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动词 + 宾语 + as + 宾语补足语",
+    "explain": "flag A as B 意为“把 A 标记为 B”，as 后的成分说明宾语被看作、被归为什么，是宾语补足语，可以是名词，也可以是形容词，如 flag them as dubious。同类结构还有 regard/see/view A as B（把 A 看作 B）、describe A as B（把 A 描述为 B）、label A as B（给 A 贴上 B 的标签）、treat A as B（把 A 当作 B）。改为被动语态时，as 短语留在动词后：The readings were flagged as dubious。考研阅读中，这类结构常用来表达某人对事物的看法，是理解观点和态度的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many economists regard the new tax as unfair to small businesses.",
+      "zh": "许多经济学家认为这项新税对小企业不公平。"
+     },
+     {
+      "en": "The bank's system flagged the transaction as suspicious and froze the account.",
+      "zh": "银行系统把这笔交易标记为可疑，并冻结了账户。"
+     }
+    ]
+   },
+   {
+    "title": "since 表示原因",
+    "explain": "since 可以引导时间状语从句（自从），也可以引导原因状语从句（因为，既然）。表示原因时，since 引出的通常是对方已知或显而易见的理由，语气比 because 弱，可放在句首，也可放在句末。区分方法：表示时间时，since 后是一个过去的时间起点，主句多用完成时；表示原因时，从句只说明理由，与时间起点无关。本句 since ozone that low had never been reliably measured 说明软件把读数标为可疑的原因，视频译为“因为”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Since the road was closed, we had to take a much longer route.",
+      "zh": "由于道路封闭，我们只好绕了远得多的路。"
+     },
+     {
+      "en": "Since you have already finished the report, you can leave early today.",
+      "zh": "既然你已经写完了报告，今天可以早点走。"
+     }
+    ]
+   },
+   {
+    "title": "副词 that 修饰形容词，形容词短语后置",
+    "explain": "that 可以作副词，意为“那么，这么”，修饰形容词或副词，如 that low、that far、that much，常见于否定句和疑问句（It isn't that difficult）。由 that、so、too、enough 等修饰的形容词短语作定语时，通常放在名词之后，如 ozone that low、a box too heavy to lift。本句 ozone that low 即“这么低的臭氧”（视频说明），that low 指卫星测到的那种低值。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Prices that high would drive most customers away.",
+      "zh": "价格这么高，会把大多数顾客赶走。"
+     },
+     {
+      "en": "I didn't expect the exam to be that difficult.",
+      "zh": "我没想到这次考试会那么难。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "flag",
+    "explain": "动词，意为“标出，作记号以引起注意”，如 flag errors（标出错误）、flag up a problem（指出问题以引起重视）；名词指旗、旗帜。计算机系统 flag 一项数据，指把它标记出来，供人进一步核查。本句视频译为“把……标记为”。"
+   },
+   {
+    "term": "dubious",
+    "explain": "形容词，可疑的、靠不住的，如 dubious data、dubious claims；描述人时意为“半信半疑的”，如 be dubious about sth。本句视频译为“可疑”。"
+   },
+   {
+    "term": "reliably",
+    "explain": "副词，由 reliable 加 -ly 构成，意为“可靠地”，常与 measure、report、inform 等连用，如 I am reliably informed that…（我从可靠渠道得知……）。"
+   }
+  ],
+  "translation_tip": "视频译文“它的软件把这些读数标记为可疑，因为这么低的臭氧此前从没有被可靠地测到过。”的处理：①flag A as B 用“把”字句译成“把这些读数标记为可疑”，them 结合上文译成“这些读数”，比“它们”更明确。②since 译为“因为”，原因从句保留在主句之后，与原文顺序一致。③后置定语 that low 前移，译成“这么低的臭氧”。④过去完成时 had never been 增译“此前”，表示在此之前；被动语态保留“被”字，译成“被可靠地测到过”，“过”体现经历。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "says",
+   "object_or_complement": "it was still verifying them when Farman published（宾语从句，省略引导词 that）",
+   "explain": "主干是 NASA says（that）…，主谓宾结构，宾语是省略了 that 的宾语从句。主句谓语 says 为一般现在时，表示 NASA 现在的说法；从句谓语 was still verifying 为过去进行时，表示法曼发表论文时核实工作正在进行。"
+  },
+  "components": [
+   {
+    "text": "NASA says",
+    "role": "主句的主语和谓语（一般现在时，注明信息来源）",
+    "zh": "据NASA的说法"
+   },
+   {
+    "text": "it was still",
+    "role": "宾语从句（省略 that）的主语和谓语的一部分，it 指 NASA，still 为副词",
+    "zh": "它还在"
+   },
+   {
+    "text": "verifying them",
+    "role": "从句谓语的现在分词部分（与 was 构成过去进行时）和宾语，them 指卫星测到的低值读数",
+    "zh": "核实这些读数"
+   },
+   {
+    "text": "when Farman published.",
+    "role": "时间状语从句（when 引导），修饰 was verifying",
+    "zh": "就在法曼发表论文的时候"
+   }
+  ],
+  "structure": "①主句是 NASA says…：主语 NASA，谓语 says，后接省略了 that 的宾语从句。按视频说明，NASA says… 注明这是 NASA 一方的说法，作者只是转述，不作判断。\n②宾语从句 it was still verifying them 中，it 指 NASA，谓语 was verifying 是过去进行时，still 意为“仍然，还在”；them 指卫星测到的低值读数。\n③when Farman published 是时间状语从句（视频说明），修饰从句谓语 was verifying，说明核实工作进行的时间点。publish 在这里是不及物动词，指作者发表论文。\n④主句用一般现在时 says，表示 NASA 现在仍持这一说法；从句叙述的是1985年的事，用过去时态，主从句时态不需要一致。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that",
+    "explain": "say、think、believe、report、know 等常用动词后接 that 引导的宾语从句时，that 在口语和新闻中常被省略，如 NASA says it was still verifying them。识别方法：主句谓语动词后直接出现一个完整的“主语 + 谓语”结构，这个结构就是宾语从句。但动词与宾语从句之间有插入成分，或几个宾语从句并列时，第二个及以后的 that 一般不省略。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company says it has no plans to close the factory.",
+      "zh": "公司称，目前没有关闭这家工厂的计划。"
+     },
+     {
+      "en": "Police believe the fire was started deliberately.",
+      "zh": "警方认为这场火是有人故意放的。"
+     }
+    ]
+   },
+   {
+    "title": "主句现在时、从句过去时的时态搭配",
+    "explain": "主句谓语是现在时，宾语从句的时态按实际情况决定，不受主句限制。本句主句 says 用一般现在时，表示 NASA 现在的说法；从句说的是1985年的情况，所以用过去进行时 was still verifying，表示法曼发表论文时核实正在进行，尚未完成。过去进行时常与 when 引导的一般过去时从句搭配，表示“某事发生时，另一件事正在进行”。考研阅读中，says、claims、insists 等现在时转述动词提示这是某一方现在的说法，未必是作者认可的事实。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister says she was not told about the problem until last week.",
+      "zh": "部长称，她直到上周才得知这个问题。"
+     },
+     {
+      "en": "I was cooking dinner when the power went out.",
+      "zh": "停电的时候，我正在做晚饭。"
+     }
+    ]
+   },
+   {
+    "title": "publish 的不及物用法",
+    "explain": "publish 常作及物动词，如 publish a book、publish the results；也可作不及物动词，主语是作者，意为“发表作品，发表论文”，如 Scientists are under pressure to publish。本句 when Farman published 中，publish 没有宾语，指法曼发表了论文，视频译为“发表论文”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Researchers at the institute are expected to publish regularly in international journals.",
+      "zh": "该研究所的研究人员需要定期在国际期刊上发表论文。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NASA says",
+    "explain": "注明信息来源的写法。新闻和外刊常用“机构/某人 + says/claims/insists”转述一方的说法，作者借此表明不对其真实性下结论。按视频说明，NASA says… 注明这是 NASA 一方的说法。考研阅读中，要区分作者陈述的事实和转述的某一方说法，这常是细节题和推断题的考点。"
+   },
+   {
+    "term": "verify",
+    "explain": "动词，核实、查证，如 verify data、verify a claim；也可接 that 从句，表示证实。名词 verification。本句视频译为“核实”。"
+   }
+  ],
+  "translation_tip": "视频译文“据NASA的说法，它还在核实这些读数，就在法曼发表论文的时候。”的处理：①主句 NASA says 没有译成“NASA 说”，而是译成“据NASA的说法”，作为来源状语放在句首，突出这是 NASA 一方的说法。②宾语从句译成句子主体“它还在核实这些读数”，过去进行时通过“还在”体现，them 译成“这些读数”。③时间状语从句没有前置，而是放在句末，用“就在……的时候”引出，强调两件事发生在同一时间；不及物的 published 增补宾语，译成“发表论文”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "The sensor；expectation",
+   "predicate": "had worked；had not",
+   "object_or_complement": "",
+   "explain": "分号连接的两个并列分句，都是主谓结构：The sensor had worked 和 expectation had not（worked）。work 是不及物动词，意为“正常运转，起作用”；两个谓语都是过去完成时，主动语态，第二个分句省略了 worked。"
+  },
+  "components": [
+   {
+    "text": "The sensor",
+    "role": "第一个分句的主语（指卫星上的传感器）",
+    "zh": "传感器"
+   },
+   {
+    "text": "had worked;",
+    "role": "第一个分句的谓语（过去完成时，work 意为正常运转）",
+    "zh": "并没有出问题"
+   },
+   {
+    "text": "expectation",
+    "role": "第二个分句的主语（抽象名词，零冠词）",
+    "zh": "预期"
+   },
+   {
+    "text": "had not.",
+    "role": "第二个分句的谓语（省略了 worked）",
+    "zh": "却出了问题"
+   }
+  ],
+  "structure": "①全句由分号连接两个并列分句，前后对照：The sensor had worked 和 expectation had not。\n②第一个分句中，work 是不及物动词，指机器、设备“正常运转”。had worked 是过去完成时，指在上文所说的那段时间里传感器一直工作正常，测到的低值是真实的。\n③第二个分句 expectation had not 是省略句，按视频说明，had not 后省略了 worked，即 expectation had not worked。expectation 是抽象名词，零冠词，指人们对臭氧数值的预期。\n④本句总结第三段：出错的不是仪器，而是人的预期。软件按“臭氧不会这么低”的预期把真实数据标为可疑，真正失灵的是预期。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "助动词后的动词省略",
+    "explain": "两个并列分句谓语相同时，后一个分句可以只保留助动词（have、be、do、will、can 等），省略后面的动词，避免重复。本句 expectation had not = expectation had not worked。这种省略多见于对比句，前肯定后否定或前否定后肯定，如 Some passed; others did not。阅读时要回到前一个分句补出被省略的部分。考研翻译中，省略的部分通常要补出，或换一种说法译出，视频把 had not 译成“却出了问题”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Most of the passengers had been warned about the delay; a few had not.",
+      "zh": "大部分乘客已被告知航班延误，少数人却没有。"
+     },
+     {
+      "en": "She can speak French fluently, but her brother cannot.",
+      "zh": "她能说流利的法语，她哥哥却不能。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号用来连接两个意思紧密相关、语法上各自独立的分句，停顿比句号短，常用于对比、并列或因果。本句用分号把 The sensor had worked 和 expectation had not 并置，不用 but，对比更简洁有力。写作中两个独立分句之间不能只用逗号连接，要用分号、句号，或者加连词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some of the volunteers stayed until midnight; others went home after dinner.",
+      "zh": "一些志愿者一直待到半夜，另一些人吃完晚饭就回家了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "work",
+    "explain": "熟词僻义：work 作不及物动词，可指机器、设备“正常运转”，如 The lift isn't working；也可指方法、计划“奏效”，如 The plan worked。本句前一分句指传感器工作正常，后一分句 expectation had not（worked）指预期没有起作用、出了偏差。视频分别译为“并没有出问题”和“却出了问题”。"
+   },
+   {
+    "term": "sensor",
+    "explain": "名词，传感器、感应器，如 a motion sensor（运动传感器）、a heat sensor（热传感器）。本句指雨云7号卫星上测量臭氧的传感器。"
+   },
+   {
+    "term": "expectation",
+    "explain": "名词，预期、期望。常见搭配：live up to expectations（不负所望）、contrary to expectations（与预期相反）、beyond expectations（超出预期）。本句泛指人们对臭氧数值的预期，视频译为“预期”。"
+   }
+  ],
+  "translation_tip": "视频译文“传感器并没有出问题；预期却出了问题。”的处理：①had worked 是肯定说法，视频用否定式译成“并没有出问题”；省略句 had not 是否定说法，视频用肯定式译成“却出了问题”。这是正说反译、反说正译，两个分句都落在“出问题”上，对比更鲜明。②保留原文的分号，第二个分句增补“却”，体现转折。③省略的 worked 没有补成“没有工作”，而是译成“出了问题”，更符合中文表达。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "the response",
+   "predicate": "was",
+   "object_or_complement": "swift",
+   "explain": "主干是 the response was swift，主系表结构，句首副词 Remarkably 修饰全句。系动词 was 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Remarkably,",
+    "role": "评注性状语（副词），修饰全句，表达作者的评价",
+    "zh": "引人注目的是"
+   },
+   {
+    "text": "the response",
+    "role": "主语（指各国对臭氧问题的反应）",
+    "zh": "各国的反应"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "swift.",
+    "role": "表语（形容词）",
+    "zh": "十分迅速"
+   }
+  ],
+  "structure": "①全句的主干是 the response was swift：主语 the response，系动词 was，swift 作表语。\n②句首 Remarkably 后有逗号，修饰整个句子，表达作者对“反应迅速”这件事的评价：这一点引人注目。它不修饰 swift，不表示“非常迅速”。\n③the response 指世界各国对臭氧层遭到破坏这一发现的反应，第14至16句具体说明：签署议定书、通过修正案收紧管控、获得普遍批准。视频据此增补“各国的”。\n④本句是第四段的主题句，先给出“反应迅速”的总体判断，再用一连串时间和事件加以证明。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "句首副词作评注性状语",
+    "explain": "remarkably、surprisingly、interestingly、fortunately、unfortunately 等副词放在句首并用逗号隔开时，修饰整个句子，表达说话人对所述内容的评价或态度，相当于 It is remarkable that…。本句 Remarkably, the response was swift 相当于 It is remarkable that the response was swift。考研阅读中，这类副词直接体现作者态度，是态度题的重要线索；remarkably 在这里带有赞许意味。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Surprisingly, the cheapest model performed best in the tests.",
+      "zh": "令人意外的是，最便宜的型号在测试中表现最好。"
+     },
+     {
+      "en": "Fortunately, no one was injured in the accident.",
+      "zh": "幸运的是，没有人在事故中受伤。"
+     }
+    ]
+   },
+   {
+    "title": "remarkably 的两种用法",
+    "explain": "remarkably 放在句首修饰全句时，意为“引人注目的是，令人惊奇的是”；放在形容词或副词前时，是程度副词，意为“非常，格外”，如 remarkably similar（极为相似）、remarkably well（非常好）。本句是前一种用法，视频译为“引人注目的是”。判断方法是看它是否位于句首并用逗号隔开。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The two reports reached remarkably similar conclusions.",
+      "zh": "这两份报告得出的结论极为相似。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "swift",
+    "explain": "形容词，迅速的，快捷的，比 quick 正式，常修饰反应、行动、结果，如 a swift response（迅速的反应）、swift action（迅速的行动）、a swift recovery（迅速的康复）。本句视频译为“迅速”。"
+   },
+   {
+    "term": "response",
+    "explain": "名词，反应、回应，常接 to，如 the response to the crisis（对危机的反应）；in response to 意为“作为对……的回应”，是写作常用短语。"
+   }
+  ],
+  "translation_tip": "视频译文“引人注目的是，各国的反应十分迅速。”的处理：①句首评注性副词 Remarkably 译成“引人注目的是”，用“……的是”结构表达作者的评价，后加逗号。②the response 增补“各国的”，根据下文签署国际议定书的内容，点明是谁的反应。③swift 前增补程度副词“十分”，汉语形容词作谓语时常加程度副词，句子才完整。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "diplomats",
+   "predicate": "signed",
+   "object_or_complement": "the Montreal Protocol",
+   "explain": "主谓宾结构，宾语后接同位语。谓语 signed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In September 1987",
+    "role": "时间状语（介词短语）",
+    "zh": "1987年9月"
+   },
+   {
+    "text": "diplomats",
+    "role": "主语（零冠词复数，泛指参与谈判的各国外交官）",
+    "zh": "外交官们"
+   },
+   {
+    "text": "signed",
+    "role": "谓语",
+    "zh": "签署了"
+   },
+   {
+    "text": "the Montreal Protocol,",
+    "role": "宾语（专有名词，条约名称）",
+    "zh": "《蒙特利尔议定书》"
+   },
+   {
+    "text": "a binding accord",
+    "role": "同位语，补充说明 the Montreal Protocol",
+    "zh": "这是一项具有约束力的协定"
+   },
+   {
+    "text": "to curb CFCs.",
+    "role": "后置定语（不定式短语），修饰 accord，说明协定的目的",
+    "zh": "用来限制CFCs"
+   }
+  ],
+  "structure": "①主句是 diplomats signed the Montreal Protocol：主语 diplomats，谓语 signed，宾语 the Montreal Protocol。句首 In September 1987 是时间状语。\n②a binding accord to curb CFCs 是同位语（视频说明），补充说明《蒙特利尔议定书》的性质和目的。accord 是同位语中心词，binding 是形容词作前置定语，意为“有约束力的”。\n③to curb CFCs 是不定式短语作后置定语，修饰 accord（视频说明），说明这项协定的用途是限制氯氟烃。\n④本句用具体事件印证上句的 the response was swift：从1985年5月法曼团队发表报告到1987年9月签署议定书，只隔了两年多。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不定式作后置定语",
+    "explain": "不定式放在名词之后作定语，可以表示目的、用途或将要做的事，如 a plan to cut costs（削减成本的计划）、an effort to reduce emissions（减少排放的努力）、the decision to leave（离开的决定）。本句 a binding accord to curb CFCs 中，to curb CFCs 说明协定的目的是限制 CFCs。agreement、plan、attempt、decision、effort、promise 等名词常接不定式作定语，用法多与相应的动词一致（agree to do、plan to do、decide to do）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government announced a plan to cut carbon emissions by half.",
+      "zh": "政府宣布了一项将碳排放减半的计划。"
+     },
+     {
+      "en": "Their attempt to reach the summit ended in failure.",
+      "zh": "他们登顶的尝试以失败告终。"
+     }
+    ]
+   },
+   {
+    "title": "专有名词后的解释性同位语",
+    "explain": "新闻语体中，条约、机构、地名等专有名词后常接一个“a/an + 名词短语”作同位语，向读者解释它是什么，如 the Montreal Protocol, a binding accord to curb CFCs，同位语前用逗号隔开。翻译时可以拆成“这是……”的独立分句，视频即如此处理。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Mr Lee, a retired engineer, now volunteers at the local museum.",
+      "zh": "李先生是一位退休工程师，现在在当地博物馆做志愿者。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Montreal Protocol",
+    "explain": "全称 the Montreal Protocol on Substances that Deplete the Ozone Layer，《关于消耗臭氧层物质的蒙特利尔议定书》，1987年9月16日在加拿大蒙特利尔签署，规定削减并逐步淘汰 CFCs 等消耗臭氧层的物质。联合国大会将每年的9月16日定为国际保护臭氧层日。protocol 在国际法中指议定书，通常是在某一公约框架下签订的具体协议，本议定书依据的是第16句提到的《维也纳公约》。"
+   },
+   {
+    "term": "binding",
+    "explain": "形容词，有约束力的，必须遵守的，如 a legally binding agreement（具有法律约束力的协议）；be binding on sb 意为“对某人有约束力”。由动词 bind（捆，约束）的现在分词转化而来。视频译为“约束力的”，与“具有”合成“具有约束力的”。"
+   },
+   {
+    "term": "curb",
+    "explain": "动词，限制、控制、抑制，多用于不好的或过度的事物，如 curb inflation（抑制通货膨胀）、curb emissions（控制排放）；名词短语 a curb on sth 意为“对……的限制”。本句视频译为“限制”。"
+   },
+   {
+    "term": "diplomats",
+    "explain": "外交官，零冠词复数泛指参与谈判的各国外交官，视频译为“外交官们”。相关词：diplomatic（外交的；圆滑的）、diplomacy（外交）。"
+   }
+  ],
+  "translation_tip": "视频译文“1987年9月，外交官们签署了《蒙特利尔议定书》，这是一项具有约束力的协定，用来限制CFCs。”的处理：①复数 diplomats 译成“外交官们”。②条约名称加书名号，Montreal 译为“蒙特利尔”。③同位语 a binding accord 拆成独立分句，增补“这是”回指议定书，加量词“一项”；binding 译成“具有约束力的”。④不定式后置定语 to curb CFCs 没有前置，而是放在后面，译成“用来限制CFCs”，突出协定的用途，避免“一项用来限制CFCs的具有约束力的协定”这样过长的定语。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Amendments；affluent countries",
+   "predicate": "tightened；pledged",
+   "object_or_complement": "it（tightened 的宾语）；to phase out CFCs（pledged 的宾语）",
+   "explain": "冒号连接两个分句。前一分句 Amendments tightened it 是主谓宾结构；后一分句 affluent countries pledged to phase out CFCs 也是主谓宾结构，不定式作宾语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Amendments",
+    "role": "第一个分句的主语（零冠词复数，指议定书的修正案）",
+    "zh": "此后的修正案"
+   },
+   {
+    "text": "tightened",
+    "role": "第一个分句的谓语",
+    "zh": "又收紧了"
+   },
+   {
+    "text": "it:",
+    "role": "第一个分句的宾语（it 指上句的 the Montreal Protocol）",
+    "zh": "它的管控"
+   },
+   {
+    "text": "in June 1990",
+    "role": "第二个分句的时间状语（介词短语）",
+    "zh": "1990年6月"
+   },
+   {
+    "text": "affluent",
+    "role": "定语（形容词），修饰 countries",
+    "zh": "富裕的"
+   },
+   {
+    "text": "countries",
+    "role": "第二个分句的主语",
+    "zh": "国家"
+   },
+   {
+    "text": "pledged",
+    "role": "第二个分句的谓语",
+    "zh": "承诺"
+   },
+   {
+    "text": "to phase out CFCs",
+    "role": "宾语（不定式短语），pledge to do 意为承诺做某事",
+    "zh": "逐步淘汰CFCs"
+   },
+   {
+    "text": "by 2000.",
+    "role": "时间状语（介词短语），表示期限",
+    "zh": "在2000年前"
+   }
+  ],
+  "structure": "①冒号前是第一个分句 Amendments tightened it：主语 Amendments，谓语 tightened，宾语 it 指上句的《蒙特利尔议定书》。tighten 本义是“拉紧”，这里指使规定更严格。\n②冒号后是第二个分句，具体说明修正案怎样收紧管控：主语 affluent countries，谓语 pledged，不定式 to phase out CFCs 作宾语（视频说明：pledge to do，承诺做……）；in June 1990 是时间状语。\n③phase out 是动副短语，意为“逐步淘汰”（视频说明），CFCs 是它的宾语。by 2000 中的 by 表示“不晚于，在……之前”，说明期限。\n④冒号引出对前一分句的具体说明：前面笼统地说“修正案收紧了管控”，后面给出具体内容。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "冒号引出具体说明",
+    "explain": "冒号前通常是一个完整的句子，冒号后对前文作解释、举例或具体说明，相当于“即，具体来说”；冒号后可以是完整的分句，也可以是名词短语或不定式。本句冒号前 Amendments tightened it 是概括，冒号后 in June 1990 affluent countries pledged… 是具体内容。冒号后的分句在英式英语中一般小写开头。阅读时，冒号后的内容往往是对前文的展开，是把握论证层次的关键。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The results were clear: the new drug worked better than the old one.",
+      "zh": "结果很明确：新药比旧药效果好。"
+     },
+     {
+      "en": "She had one goal in mind: to finish the marathon in under four hours.",
+      "zh": "她心中只有一个目标：在四小时内跑完马拉松。"
+     }
+    ]
+   },
+   {
+    "title": "pledge to do：不定式作宾语",
+    "explain": "pledge、promise、agree、decide、refuse、vow 等表示承诺、决定、拒绝的动词，后面接不定式作宾语，表示将要做的事，如 pledge to cut emissions、promise to help，不能说 pledge doing。pledge 还可接名词（pledge support、pledge money）或 that 从句。新闻中报道政府、企业的承诺时，pledge 和 vow 比 promise 更正式、更郑重。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company has pledged to source all its electricity from renewable energy by 2030.",
+      "zh": "该公司已承诺到2030年所有电力都来自可再生能源。"
+     }
+    ]
+   },
+   {
+    "title": "by + 时间：表示期限",
+    "explain": "by 后接时间点，意为“不晚于，在……之前”，强调期限，如 by 2000、by next Monday、by the end of the year。by 短语常与完成时连用，表示到某时为止已经完成：By the time we arrived, the meeting had already started。要区分 until：until 表示动作一直持续到某时，常与延续性动词或否定句连用，如 stay until ten、not leave until ten。本句 phase out CFCs by 2000 视频译为“在2000年前逐步淘汰CFCs”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "All applications must be submitted by 31 March.",
+      "zh": "所有申请必须在3月31日之前提交。"
+     }
+    ]
+   },
+   {
+    "title": "动副短语 phase out 的宾语位置",
+    "explain": "phase out 由动词 phase 加副词 out 构成，是可分的动副短语：宾语是名词时，可放在 out 之前或之后（phase out CFCs / phase CFCs out）；宾语是代词时，只能放在中间（phase them out）。反义短语 phase in 意为“逐步引入，分阶段实施”；名词形式是 phase-out（逐步淘汰）。环境、能源类阅读中常见 phase out coal、phase out fossil fuels 等说法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several European countries plan to phase out coal power within the next decade.",
+      "zh": "几个欧洲国家计划在未来十年内逐步淘汰燃煤发电。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Amendments",
+    "explain": "指《蒙特利尔议定书》的修正案。1990年6月，议定书缔约方在伦敦开会，通过了伦敦修正案，要求发达国家在2000年前全面淘汰 CFCs。amendment 也指宪法、法律的修正案，如美国宪法的 the First Amendment（第一修正案）。本句视频译为“此后的修正案”，“此后”承接上句1987年签署议定书。"
+   },
+   {
+    "term": "affluent",
+    "explain": "形容词，富裕的，富足的，多用来描述社会、地区、国家或人群，如 an affluent society、affluent suburbs，比 rich 正式；名词 affluence。本句 affluent countries 视频译为“富裕的国家”，指发达国家。"
+   },
+   {
+    "term": "tighten",
+    "explain": "动词，由 tight 加后缀 -en 构成，本义是“拉紧，绷紧”，引申为“使（规定、控制）更严格”，如 tighten security（加强安保）、tighten rules（收紧规定）；反义词是 loosen、relax。本句视频译为“收紧了”。"
+   }
+  ],
+  "translation_tip": "视频译文“此后的修正案又收紧了它的管控：1990年6月，富裕的国家承诺在2000年前逐步淘汰CFCs。”的处理：①Amendments 增补“此后的”，承接上句1987年签署议定书的时间线；tightened 前增补“又”，表示在原有基础上进一步加强。②代词 it 指议定书，视频增译为“它的管控”，因为收紧的是议定书的管控措施，比直译“收紧了它”清楚。③保留冒号，冒号后的分句按“时间、主语、承诺内容”的顺序译出；时间状语 by 2000 提到动词前，译成“在2000年前”，符合汉语状语在前的语序。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "the Protocol and its parent Vienna Convention",
+   "predicate": "became",
+   "object_or_complement": "the UN's first treaties to win universal ratification",
+   "explain": "主干是 the Protocol and its parent Vienna Convention became the UN's first treaties，主系表结构，became 是系动词，名词短语作表语，后接不定式作后置定语。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "In September 2009",
+    "role": "时间状语（介词短语）",
+    "zh": "2009年9月"
+   },
+   {
+    "text": "the Protocol",
+    "role": "主语之一（指《蒙特利尔议定书》）",
+    "zh": "该议定书"
+   },
+   {
+    "text": "and its parent Vienna Convention",
+    "role": "并列主语（and 连接；its parent 作定语，说明公约与议定书的关系）",
+    "zh": "与其所依据的《维也纳公约》一道"
+   },
+   {
+    "text": "became",
+    "role": "系动词",
+    "zh": "成为"
+   },
+   {
+    "text": "the UN's first treaties",
+    "role": "表语（中心词 treaties）",
+    "zh": "联合国首批……的条约"
+   },
+   {
+    "text": "to win universal ratification.",
+    "role": "后置定语（不定式短语），修饰 treaties",
+    "zh": "获得普遍批准"
+   }
+  ],
+  "structure": "①主句是 the Protocol and its parent Vienna Convention became the UN's first treaties：and 连接两个并列主语，became 是系动词，the UN's first treaties 作表语。句首 In September 2009 是时间状语。\n②its parent Vienna Convention 中，its 指议定书，parent 是名词作定语，意为“母体的，上一级的”；按视频说明，指议定书所依据的母公约《维也纳公约》。\n③表语中心词是 treaties，the UN's 和 first 作前置定语；to win universal ratification 是不定式短语作后置定语（视频说明），修饰 treaties，意为“首批获得普遍批准的条约”。\n④本句是第四段的收尾，用“首批获得普遍批准”说明各国合作的广泛，呼应第13句的 the response was swift。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "the first + 名词 + 不定式",
+    "explain": "序数词（the first、the second、the last）或形容词最高级修饰名词时，后面常接不定式作后置定语，表示“第一个（最后一个）做某事的……”，如 the first woman to win the prize、the last person to leave。不定式与被修饰的名词是主动关系时用 to do，是被动关系时用 to be done，如 the first bridge to be built here。本句 the UN's first treaties to win universal ratification 即“联合国首批获得普遍批准的条约”，比用定语从句 that won… 更简洁，是考研翻译和写作的常见句型。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She was the first person in her family to go to university.",
+      "zh": "她是家里第一个上大学的人。"
+     },
+     {
+      "en": "This was the first bridge in the region to be built entirely of steel.",
+      "zh": "这是该地区第一座完全用钢建造的桥。"
+     }
+    ]
+   },
+   {
+    "title": "系动词 become 后接名词作表语",
+    "explain": "become 是系动词，后接名词或形容词作表语，表示状态的变化，如 become a doctor、become popular。本句 became the UN's first treaties 中，表语是名词短语。become 后不加 as，不能说 became as the first treaties。主语是 and 连接的两个名词，表语名词也用复数 treaties，与主语在数上一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The small online shop soon became one of the largest retailers in the country.",
+      "zh": "这家小网店很快成为全国最大的零售商之一。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Vienna Convention",
+    "explain": "全称 the Vienna Convention for the Protection of the Ozone Layer，《保护臭氧层维也纳公约》，1985年签署，为国际合作保护臭氧层确立了框架；《蒙特利尔议定书》是在这一公约之下签订的具体协议，所以文中称公约为议定书的 parent（母公约）。"
+   },
+   {
+    "term": "parent",
+    "explain": "熟词僻义：parent 除了“父母”，还可作定语，指“母体的，上级的”，如 a parent company（母公司）、a parent organization（上级组织）。本句 its parent Vienna Convention 指议定书所依据的母公约。"
+   },
+   {
+    "term": "universal ratification",
+    "explain": "普遍批准，指所有联合国会员国都批准了某项条约。ratification 指国家通过法定程序正式批准条约，动词 ratify。sign（签署）和 ratify（批准）是两个步骤：一国签署条约后，还要经国内程序批准，条约才对该国有约束力。"
+   },
+   {
+    "term": "the UN's",
+    "explain": "the UN 是 the United Nations（联合国）的缩写，前面要加定冠词 the，按字母读作 U-N。the UN's 是名词所有格，修饰 first treaties。"
+   }
+  ],
+  "translation_tip": "视频译文“2009年9月，该议定书与其所依据的《维也纳公约》一道，成为联合国首批获得普遍批准的条约。”的处理：①the Protocol 译成“该议定书”，用“该”回指上文的《蒙特利尔议定书》。②依据视频说明，its parent Vienna Convention 中的 parent 不直译成“父母”，而是译成“其所依据的”；and 译成“与……一道”，表示两者共同成为首批条约。③不定式后置定语 to win universal ratification 前移，译成“获得普遍批准的条约”；first 修饰复数 treaties，译成“首批”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "a UN-backed assessment",
+   "predicate": "forecast",
+   "object_or_complement": "recovery to 1980 levels",
+   "explain": "主干是 a UN-backed assessment forecast recovery，主谓宾结构。谓语 forecast 是一般过去时，过去式与原形同形（视频说明），主动语态；句末三组“时间 + 地点”说明各地区预计恢复的时间。"
+  },
+  "components": [
+   {
+    "text": "In January 2023",
+    "role": "时间状语（介词短语）",
+    "zh": "2023年1月"
+   },
+   {
+    "text": "a UN-backed assessment",
+    "role": "主语（UN-backed 为复合形容词，作前置定语）",
+    "zh": "一份由联合国支持的评估报告"
+   },
+   {
+    "text": "forecast",
+    "role": "谓语（一般过去时，与原形同形）",
+    "zh": "预测"
+   },
+   {
+    "text": "recovery",
+    "role": "宾语",
+    "zh": "臭氧层将恢复"
+   },
+   {
+    "text": "to 1980 levels",
+    "role": "后置定语（介词短语），修饰 recovery，说明恢复到什么程度",
+    "zh": "到1980年的水平"
+   },
+   {
+    "text": "around 2066",
+    "role": "后置修饰语（介词短语），说明 recovery 的时间，around 表示大约",
+    "zh": "约2066年"
+   },
+   {
+    "text": "over Antarctica,",
+    "role": "后置修饰语（介词短语），说明 recovery 的地点",
+    "zh": "在南极上空"
+   },
+   {
+    "text": "2045",
+    "role": "与 around 2066 并列的时间（省略了与第一组相同的成分）",
+    "zh": "2045年"
+   },
+   {
+    "text": "over the Arctic,",
+    "role": "地点（介词短语），与 over Antarctica 并列",
+    "zh": "在北极上空"
+   },
+   {
+    "text": "and 2040",
+    "role": "并列连词 and + 第三组的时间",
+    "zh": "则在2040年"
+   },
+   {
+    "text": "elsewhere.",
+    "role": "地点（副词），与前两组的地点并列",
+    "zh": "其他地区"
+   }
+  ],
+  "structure": "①主句是 a UN-backed assessment forecast recovery：主语 a UN-backed assessment，谓语 forecast，宾语 recovery。句首 In January 2023 是时间状语。UN-backed 是“名词 + 过去分词”构成的复合形容词，意为“由联合国支持的”（视频说明）。forecast 的过去式与原形同形（视频说明），这里是过去式。\n②recovery 后的 to 1980 levels 是介词短语作后置定语，按视频说明，recovery to 1980 levels 意为“恢复到1980年的水平”。1980 是名词作定语，levels 用复数，指各地区的臭氧水平。\n③句末是三组并列的“时间 + 地点”：around 2066 over Antarctica、2045 over the Arctic、and 2040 elsewhere，用牛津逗号隔开。三组都说明 recovery 发生的时间和地点；后两组省略了与第一组相同的成分，完整意思是北极上空约在2045年、其他地区约在2040年恢复到1980年的水平。\n④主语 assessment 作的是预测，所以视频译文用“将”“约”等表示预测的说法，讲解时也不能把这些年份当作已经发生的事实。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词 + 过去分词构成的复合形容词",
+    "explain": "名词与过去分词用连字符连接，构成复合形容词，表示被动关系，名词是动作的执行者，如 UN-backed（由联合国支持的）、state-owned（国有的）、government-funded（政府资助的）、man-made（人造的）。本句 a UN-backed assessment 相当于 an assessment which was backed by the UN。这种结构简洁，新闻和学术文本中很常见；阅读中要能还原出其中的被动关系，写作中可以用它压缩定语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The study was carried out by a government-funded research institute.",
+      "zh": "这项研究由一家政府资助的研究所开展。"
+     },
+     {
+      "en": "Many state-owned enterprises have been restructured in recent years.",
+      "zh": "近年来，许多国有企业进行了重组。"
+     }
+    ]
+   },
+   {
+    "title": "forecast 的过去式与原形同形",
+    "explain": "forecast 的过去式和过去分词有 forecast 和 forecasted 两种形式，前者更常用。本句 forecast 是过去式，判断依据有两点：主语 a UN-backed assessment 是第三人称单数，如果是一般现在时应为 forecasts；句首又有过去的时间状语 In January 2023。过去式与原形同形的动词还有 broadcast、cast、cost、cut、put、set、spread 等，阅读时要结合主语和时间状语判断时态。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Last year the bank forecast growth of 2 per cent, but the economy actually shrank.",
+      "zh": "去年该银行预测经济增长2%，但经济实际上出现了收缩。"
+     },
+     {
+      "en": "The match was broadcast live to more than 100 countries.",
+      "zh": "这场比赛向100多个国家现场直播。"
+     }
+    ]
+   },
+   {
+    "title": "并列结构中的省略",
+    "explain": "几组结构相同的成分并列时，后面几组常省略与第一组相同的部分，只保留不同的信息。本句 around 2066 over Antarctica, 2045 over the Arctic, and 2040 elsewhere 中，后两组只保留了年份和地点；三项并列写成 A, B, and C，and 前有牛津逗号。阅读时要把省略的部分补回去，才能看清每个年份对应哪个地区。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Tickets cost £20 for adults, £10 for children, and £15 for students.",
+      "zh": "门票成人20英镑，儿童10英镑，学生15英镑。"
+     },
+     {
+      "en": "Sales rose by 8 per cent in Asia, 5 per cent in Europe, and 2 per cent in North America.",
+      "zh": "销售额在亚洲增长了8%，在欧洲增长了5%，在北美增长了2%。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a UN-backed assessment",
+    "explain": "指2023年1月发布的臭氧层科学评估报告，由《蒙特利尔议定书》框架下的科学评估小组完成，获得联合国环境规划署、世界气象组织等机构支持。报告预测，如果现行政策保持不变，南极上空的臭氧约在2066年恢复到1980年的水平，北极上空约在2045年，其他地区约在2040年。"
+   },
+   {
+    "term": "Antarctica 与 the Arctic",
+    "explain": "Antarctica 指南极洲（南极大陆），前面不加 the；the Arctic 指北极地区，要加 the。形容词 Antarctic 意为“南极的”（第6句 their Antarctic station），Arctic 意为“北极的”。"
+   },
+   {
+    "term": "1980 levels",
+    "explain": "1980年的水平。科学评估常以1980年的臭氧水平作为衡量臭氧层恢复的参照基准。年份作定语，levels 用复数，指不同地区各自的臭氧水平。"
+   },
+   {
+    "term": "elsewhere",
+    "explain": "副词，在别处，在其他地方，相当于 in other places。本句 2040 elsewhere 指南北极以外的其他地区。"
+   }
+  ],
+  "translation_tip": "视频译文“2023年1月，一份由联合国支持的评估报告预测，臭氧层将恢复到1980年的水平：约2066年在南极上空，2045年在北极上空，其他地区则在2040年。”的处理：①复合形容词 UN-backed 译成“由联合国支持的”，还原其中的被动关系；assessment 增补“报告”，译成“评估报告”。②名词 recovery 转译为动词“恢复”，并增补主语“臭氧层”和表示将来的“将”，组成“臭氧层将恢复到1980年的水平”。③句末三组并列成分用冒号引出，分成三个短句列出；第三组把 elsewhere 提前，译成“其他地区则在2040年”，用“则”与前两组对照。around 译成“约”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Healing",
+   "predicate": "will take",
+   "object_or_complement": "decades",
+   "explain": "主谓宾结构的简单句。谓语 will take 为一般将来时，表示对未来的预测；sth takes + 时间，意为“某事需要多长时间”。"
+  },
+  "components": [
+   {
+    "text": "Healing",
+    "role": "主语（动名词，指臭氧层的愈合）",
+    "zh": "臭氧层的愈合"
+   },
+   {
+    "text": "will take",
+    "role": "谓语（一般将来时）",
+    "zh": "还需要"
+   },
+   {
+    "text": "decades.",
+    "role": "宾语（表示所需的时间）",
+    "zh": "数十年"
+   }
+  ],
+  "structure": "①全句是 Healing will take decades：主语 Healing，谓语 will take，宾语 decades。\n②Healing 是 heal 的动名词形式，作主语，这里指臭氧层的恢复。heal 本指伤口“愈合”，作者把臭氧层比作受伤后慢慢愈合的身体，与上句的 recovery（恢复）相呼应。\n③sth takes + 时间 表示“某事需要多长时间”；decades 是 decade 的复数，表示“几十年”，与上句预测的2040年至2066年相照应。\n④本句是对上句的概括，用短句收束，强调恢复过程漫长。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动名词作主语",
+    "explain": "动名词（-ing 形式）可以作主语，表示一个动作或过程，谓语用单数。本句 Healing 指“愈合”这一过程，句中没有出现逻辑主语，根据上文可知是臭氧层的愈合。动名词作主语常用来表示一般性的行为，如 Swimming is good exercise；如果要说明是谁的动作，可以在前面加物主代词或名词所有格，如 the ozone layer's healing。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Learning a new language takes patience and practice.",
+      "zh": "学习一门新语言需要耐心和练习。"
+     }
+    ]
+   },
+   {
+    "title": "take + 时间：表示需要多长时间",
+    "explain": "表示“做某事需要多少时间”有两种常见结构：sth takes (sb) + 时间，如 The repairs will take weeks；It takes (sb) + 时间 + to do sth，如 It took us three hours to get there。本句 Healing will take decades 是前一种，主语是事情本身。注意 take 与 spend 的区别：spend 的主语是人，如 We spent three hours on the report。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The repairs to the bridge will take at least six months.",
+      "zh": "这座桥的维修至少需要六个月。"
+     }
+    ]
+   },
+   {
+    "title": "decades 表示“几十年”",
+    "explain": "decade 意为“十年”，复数 decades 不带数词时表示“几十年”，强调时间长，如 for decades（几十年来）、in recent decades（近几十年来）、decades of research（数十年的研究）。本句 will take decades 视频译为“还需要数十年”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The dispute between the two families had lasted for decades.",
+      "zh": "两家之间的纠纷已经持续了几十年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "healing",
+    "explain": "名词，愈合，治愈，康复，常见 the healing process（愈合过程）。动词 heal 可指伤口愈合，如 The wound healed slowly；也可比喻弥合分歧、平复创伤，如 heal the rift。本句把臭氧层的恢复比作伤口愈合，视频译为“愈合”。"
+   }
+  ],
+  "translation_tip": "视频译文“臭氧层的愈合还需要数十年。”的处理：①动名词主语 Healing 没有逻辑主语，视频根据上文增补“臭氧层的”，译成“臭氧层的愈合”，使中文主语完整明确。②will take 译成“还需要”，增补“还”，表示从现在到完全恢复仍需漫长时间，与上句预测的年份衔接。③decades 译成“数十年”。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "The sky's rescue",
+   "predicate": "began",
+   "object_or_complement": "",
+   "explain": "主干是 The sky's rescue began with diligent observers，主谓结构，begin 是不及物动词，with 短语作状语，begin with 意为“始于”。谓语 began 为一般过去时；observers 后接由 who 引导的定语从句。"
+  },
+  "components": [
+   {
+    "text": "The sky's",
+    "role": "定语（名词所有格），sky 是 rescue 的逻辑宾语",
+    "zh": "天空得以"
+   },
+   {
+    "text": "rescue",
+    "role": "主语中心词",
+    "zh": "拯救"
+   },
+   {
+    "text": "began with",
+    "role": "谓语（begin with，始于）",
+    "zh": "始于"
+   },
+   {
+    "text": "diligent observers",
+    "role": "介词 with 的宾语",
+    "zh": "一群勤勉的观测者"
+   },
+   {
+    "text": "who trusted that",
+    "role": "定语从句（who 引导，修饰 observers）的主语和第一个谓语，that 引导 trusted 的宾语从句",
+    "zh": "他们相信"
+   },
+   {
+    "text": "a baffling number",
+    "role": "宾语从句的主语",
+    "zh": "一个令人费解的数字"
+   },
+   {
+    "text": "was no glitch,",
+    "role": "宾语从句的系动词和表语",
+    "zh": "并不是小故障"
+   },
+   {
+    "text": "and published it.",
+    "role": "定语从句的第二个谓语（与 trusted 并列）和宾语，it 指那个数字",
+    "zh": "于是把它发表了出来"
+   }
+  ],
+  "structure": "①主句是 The sky's rescue began with diligent observers：主语 The sky's rescue，谓语 began，with diligent observers 作状语，begin with 意为“始于”。The sky's 是名词所有格，sky 是 rescue 的对象，The sky's rescue 相当于 the rescue of the sky，与标题 Saving the Sky 呼应。\n②who 引导限制性定语从句，修饰 observers（视频说明），who 在从句中作主语。从句有两个并列谓语 trusted 和 published；按视频说明，and published it 与 trusted 并列，主语都是 who（即观测者），不与主句的 began 并列。\n③trusted 后接 that 引导的宾语从句 a baffling number was no glitch：主语 a baffling number，系动词 was，表语 no glitch；no 修饰名词，表示“根本不是”，语气比 not a 更强。\n④published it 中的 it 指那个令人费解的数字（视频说明）。\n⑤全文以此句收尾，点明主旨：拯救臭氧层的起点，是勤勉的观测者相信了反常的数据，并把它公之于众。diligent observers 呼应第8句持之以恒的工作人员，也与第三段中被软件标为可疑、还在核实中的卫星数据形成对照。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "定语从句中的并列谓语",
+    "explain": "定语从句的关系代词可以同时作两个并列谓语的主语，如 observers who trusted… and published…，trusted 和 published 的主语都是 who。阅读时容易把 and published it 误当作与主句谓语 began 并列，判断方法是看语义：始于观测者的是“拯救”，发表数字的只能是观测者，所以 published 属于定语从句。本句 and 前有逗号，是因为 trusted 后接了一个较长的宾语从句，用逗号把两个谓语隔开，结构更清楚。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The award goes to a teacher who started a reading club in her village and ran it for twenty years.",
+      "zh": "该奖项授予一位在自己村里创办读书俱乐部并坚持办了二十年的教师。"
+     },
+     {
+      "en": "We need managers who listen to their staff and act on what they hear.",
+      "zh": "我们需要能倾听员工意见并据此采取行动的管理者。"
+     }
+    ]
+   },
+   {
+    "title": "be no + 名词：表示强烈否定",
+    "explain": "be no + 名词 与 be not a + 名词 都表示否定，但 no 语气更强，常意为“根本不是，绝不是”，有时还暗含“恰恰相反”的意思，如 He is no fool（他一点也不傻）、It was no accident（这绝非偶然）。本句 a baffling number was no glitch 表示观测者相信那个数字并不是小故障（视频说明），而是真实的现象。考研阅读中，no 加名词常用来强调作者或某人的判断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Her success was no accident; she had prepared for years.",
+      "zh": "她的成功绝非偶然，她为此准备了很多年。"
+     },
+     {
+      "en": "Getting a visa is no easy task for many young travellers.",
+      "zh": "对许多年轻旅行者来说，办签证可不是件容易的事。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格表示动作的对象",
+    "explain": "名词所有格修饰由动词变来的名词时，可以表示动作的发出者，如 the committee's decision（委员会作出的决定）；也可以表示动作的承受者，如 the prisoner's release（囚犯获释）。本句 The sky's rescue 中，sky 是被拯救的对象，相当于 the rescue of the sky。判断方法是还原成动宾或主谓关系：rescue the sky 说得通，the sky rescues 说不通，所以 sky 是逻辑宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The hostages' release was announced late on Friday.",
+      "zh": "人质获释的消息于周五深夜公布。"
+     },
+     {
+      "en": "The city's destruction in the earthquake shocked the world.",
+      "zh": "这座城市在地震中被毁，震惊了世界。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "begin with",
+    "explain": "始于，以……开始，如 The story begins with a wedding。本句 The sky's rescue began with diligent observers 视频译为“始于一群勤勉的观测者”。"
+   },
+   {
+    "term": "glitch",
+    "explain": "名词，（机器、计划中的）小故障、小毛病，多用于技术问题，如 a software glitch、a technical glitch。本句指数据异常可能出自设备故障，视频译为“小故障”。"
+   },
+   {
+    "term": "baffling",
+    "explain": "形容词，令人费解的，令人困惑的，由动词 baffle（使困惑）加 -ing 构成，修饰引起困惑的事物；baffled 修饰感到困惑的人。本句 a baffling number 指南极上空异常低的臭氧数值，视频译为“令人费解的”。"
+   },
+   {
+    "term": "diligent",
+    "explain": "形容词，勤勉的，尽心尽力的，如 a diligent student、diligent research；名词 diligence，常见 due diligence（尽职调查）。本句 diligent observers 呼应第8句的 persistent 和 painstaking，视频译为“勤勉的”。"
+   }
+  ],
+  "translation_tip": "视频译文“天空得以拯救，始于一群勤勉的观测者，他们相信，一个令人费解的数字并不是小故障，于是把它发表了出来。”的处理：①名词短语 The sky's rescue 转译为主谓结构“天空得以拯救”，sky 是被拯救的对象，用“得以”体现被动意义。②began with 译成“始于”，复数 observers 增补“一群”。③定语从句 who trusted… 没有前置，而是拆成独立分句，用“他们”回指观测者，避免“一群相信……并发表了……的观测者”这样过长的定语。④宾语从句保留在“他们相信”之后；no glitch 译成“并不是小故障”。⑤并列谓语 and published it 译成“于是把它发表了出来”，增补“于是”表示前后顺承，用“把”字句突出发表的对象。"
+ }
+]

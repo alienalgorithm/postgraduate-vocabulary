@@ -1,0 +1,30 @@
+[
+ {
+  "key": "id=4",
+  "field": "usage_detail",
+  "before": "拼写注意 ultra 后直接接 violet，中间不加连字符。",
+  "after": "现代一般写成一个词 ultraviolet，较早的文献中也见 ultra-violet。",
+  "reason": "Etymonline 记有 ultra-violet 的写法，“不加连字符”说得过死，改为现代通行写法的说明。"
+ },
+ {
+  "key": "id=15",
+  "field": "context_usage",
+  "before": "that destroys ozone molecule after molecule 中，molecule after molecule 作方式状语，修饰 destroys，表示“一个分子接一个分子地”；ozone 是 destroys 的宾语。molecule 指保持物质化学性质的最小粒子，视频取“分子”，与 ozone 合译为“把臭氧分子一个接一个地破坏掉”。",
+  "after": "that destroys ozone molecule after molecule 中，ozone molecule after molecule 是“名词 + after + 同一名词”结构，整体作 destroys 的宾语，相当于 one ozone molecule after another，后一个 molecule 前省略了 ozone。molecule 指保持物质化学性质的最小粒子，视频取“分子”，与 ozone 合成“臭氧分子”，after 结构译成“一个接一个地”，即“把臭氧分子一个接一个地破坏掉”。",
+  "reason": "ozone molecule after molecule 整体作宾语（ozone molecule 是单数可数名词，不能单独作宾语），不是 ozone 作宾语、molecule after molecule 作方式状语；与 sent.json 第3句的修正一致。"
+ },
+ {
+  "key": "id=16",
+  "field": "etymology",
+  "before": "来自中世纪拉丁语 gradualis（分级的，逐级的），源于拉丁语 gradus（台阶，等级）。16世纪起作形容词，意为“按等级排列的，逐步的”。",
+  "after": "来自中世纪拉丁语 gradualis（台阶的，分级的），源于拉丁语 gradus（台阶，等级）。15世纪进入英语时意为“分等级排列的”，后来才引申为“逐步进行的”。",
+  "reason": "按 Etymonline，gradual 作形容词15世纪初已见（义为 arranged in degrees），“逐步进行的”是后起义，原写“16世纪起”不对。"
+ },
+ {
+  "key": "id=17",
+  "field": "usage_detail",
+  "before": "动词 erode 可作及物或不及物动词：Public confidence has been eroded / has eroded。",
+  "after": "动词 erode 可作及物或不及物动词：Public confidence has been eroded / has eroded。erosion 词典标为不可数，但后接 of 短语并带形容词、指某一具体过程时，外刊中也常说 a steady/gradual erosion of…，如本词条例句。",
+  "reason": "补充说明例句 a steady erosion of public trust 带不定冠词的原因，避免与“不可数名词”的说法看似矛盾。"
+ }
+]

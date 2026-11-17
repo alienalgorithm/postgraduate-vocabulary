@@ -1,0 +1,72 @@
+[
+ {
+  "key": "n=2",
+  "field": "grammar.0.explain",
+  "before": "翻译时同位语可以前置（加州的两位化学家莫利纳和罗兰），也可以像视频那样拆成短句。",
+  "after": "翻译时同位语既可以前置作定语，也可以像视频那样保留在原位，拆成短句。",
+  "reason": "规范第4条不另立译法：删去为本句另拟的译文“加州的两位化学家莫利纳和罗兰”，只讲一般译法。"
+ },
+ {
+  "key": "n=2",
+  "field": "components.6.role",
+  "before": "介词宾语（warn of sth，警告的内容）",
+  "after": "介词短语，与 warned 构成 warn of sth；a menace 是介词 of 的宾语，即警告的内容",
+  "reason": "这一段是整个介词短语 of a menace，不能整体称为“介词宾语”；改为准确说法。"
+ },
+ {
+  "key": "n=3",
+  "field": "structure",
+  "before": "molecule after molecule 是“名词 + after + 同一名词”结构，作方式状语，表示一个接一个、接连不断。",
+  "after": "ozone molecule after molecule 是“名词 + after + 同一名词”结构，整体作 destroys 的宾语，相当于 one ozone molecule after another（一个接一个的臭氧分子），后一个 molecule 前省略了 ozone，表示破坏接连不断。",
+  "reason": "ozone 是不可数名词，ozone molecule 是单数可数名词，不能单独作宾语，只能整体理解为 ozone molecule after (ozone) molecule 作 destroys 的宾语（同 make mistake after mistake），不是“ozone 作宾语 + molecule after molecule 作方式状语”；视频译文“把臭氧分子一个接一个地破坏掉”也以“臭氧分子”为宾语。"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar.2.explain",
+  "before": "强调数量多、持续不停，如 day after day（日复一日）、year after year（年复一年）、page after page（一页又一页）。本句 molecule after molecule 修饰 destroys，说明氯不是只破坏一个臭氧分子，",
+  "after": "强调数量多、持续不停。它可以作状语，如 day after day（日复一日）、year after year（年复一年）；也可以作主语或宾语，如 read page after page（读了一页又一页）、make mistake after mistake（一错再错）。本句 ozone molecule after molecule 整体作 destroys 的宾语，相当于 one ozone molecule after another，后一个 molecule 前省略了 ozone，说明氯不是只破坏一个臭氧分子，",
+  "reason": "同上：本句该结构作宾语而非修饰 destroys 的状语；补充该结构作状语和作主宾两种用法。"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar.2.examples",
+  "before": "仅有作状语的例句 Year after year, the river floods…",
+  "after": "增补作宾语的例句 The young striker missed chance after chance in the first half.（这名年轻前锋在上半场错失了一个又一个机会。）",
+  "reason": "原例句只示范作状语，与本句作宾语的用法不同，补一个真正示范本句用法的例句。"
+ },
+ {
+  "key": "n=3",
+  "field": "grammar.3.explain",
+  "before": "如 arrive safe、return home exhausted、remain intact。",
+  "after": "如 arrive safe、return home exhausted、survive intact。",
+  "reason": "remain 是系动词，remain intact 中 intact 是表语，不属于“不及物动词 + 形容词作状语”，换成 survive intact。"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar.1.explain",
+  "before": "erosion、pollution、damage、progress 这类抽象名词表示泛指的过程或现象时不可数，前面不加不定冠词 a，即使有形容词修饰也一样，如 gradual erosion、serious damage、steady progress。考研写作中常见错误是写成 a serious pollution，或把表示“损害”的 damage 写成复数（damages 指“损害赔偿金”）。",
+  "after": "erosion、pollution、damage、progress 这类抽象名词表示泛指的过程或现象时不可数，前面不加不定冠词 a，本句 gradual erosion 即泛指“渐进的侵蚀”。其中 damage、progress、pollution 即使有形容词修饰也不加 a，如 serious damage、steady progress；考研写作中常见错误是写成 a serious pollution，或把表示“损害”的 damage 写成复数（damages 指“损害赔偿金”）。erosion 稍有不同：后接 of 短语、指某一具体的削弱过程时，外刊中也常说 a gradual/steady erosion of trust。",
+  "reason": "原说法“即使有形容词修饰也一样”对 erosion 不成立，a steady/gradual erosion of… 是地道常见用法（本篇单词册 erosion 的例句即如此），改为准确表述。"
+ },
+ {
+  "key": "n=6",
+  "field": "grammar.2.explain",
+  "before": "不能说 in each spring。",
+  "after": "这类短语前一般不再加 in、on 等介词，如不说 in last spring、on next Monday。",
+  "reason": "“不能说 in each spring”过于绝对，换成确实不能说的典型错误。"
+ },
+ {
+  "key": "n=8",
+  "field": "knowledge.0.explain",
+  "before": "作不及物动词时还可表示仪表“显示（读数为）”",
+  "after": "仪表作主语时还可表示“显示（读数为）”",
+  "reason": "The thermometer read 30 degrees 中 read 后接数值，词典不标为不及物动词，删去不准确的及物性标注。"
+ },
+ {
+  "key": "n=9",
+  "field": "knowledge.1.explain",
+  "before": "nimbus 来自拉丁语，意为“云”，在英语中指雨云。",
+  "after": "nimbus 来自拉丁语，原义为“暴雨，乌云”，作气象术语时指雨云。",
+  "reason": "按 Etymonline/Merriam-Webster，拉丁语 nimbus 义为“暴雨，乌云”，比“云”准确。"
+ }
+]
