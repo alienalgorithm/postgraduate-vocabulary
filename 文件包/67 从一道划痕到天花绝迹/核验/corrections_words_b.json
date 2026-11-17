@@ -1,0 +1,37 @@
+[
+ {
+  "key": "31",
+  "field": "context_usage",
+  "before": "这里是皇家学会对詹纳证据的判断：只有一个病例，证据不足，",
+  "after": "这里是皇家学会对詹纳证据的判断：证据不足以令人信服，",
+  "reason": "“只有一个病例”原文未说，且詹纳论文另含多例牛痘病史，属无据推断，删去"
+ },
+ {
+  "key": "49",
+  "field": "etymology",
+  "before": "名词 concert（音乐会）原指乐手们协调一致的演奏。",
+  "after": "名词 concert 最早指“一致、和谐”，17世纪后期才指多人合奏、合唱的音乐会。",
+  "reason": "据 Etymonline，concert 最初义为“一致、和谐”，音乐会义是后起的，原说法不准确"
+ },
+ {
+  "key": "53",
+  "field": "etymology",
+  "before": "prognosis（预后）、know（知道）与之有远亲关系。",
+  "after": "prognosis（预后）也来自 gignōskein，与之同源；英语 know（知道）与之有远亲关系。",
+  "reason": "prognosis 与 diagnosis 共用 gignōskein，是直接同源，不是“远亲”"
+ },
+ {
+  "key": "57",
+  "field": "etymology",
+  "before": "由 vaccine 加动词后缀 -ate 构成，最终源于拉丁语 vacca（牛），见第10句。",
+  "after": "据 Etymonline，动词 vaccinate 是由名词 vaccination（接种牛痘）逆构而成，1803年见于英语；vaccination 由 vaccine 加 -ation 构成，最终源于拉丁语 vacca（牛），见第10句。",
+  "reason": "Etymonline 记载 vaccinate 是 vaccination 的逆构词，不是 vaccine 直接加 -ate"
+ },
+ {
+  "key": "57",
+  "field": "context_usage",
+  "before": "文章以此收尾，与开头的划痕首尾呼应。",
+  "after": "文章以此收尾，与标题和第6句中的那道划痕首尾呼应。",
+  "reason": "划痕出现在第6句和标题，不在文章开头"
+ }
+]

@@ -1,0 +1,1876 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Smallpox",
+   "predicate": "killed",
+   "object_or_complement": "about three in ten of its sufferers and an estimated 300 million",
+   "explain": "主干是 Smallpox killed ...，主谓宾结构；谓语 killed 带两个由 and 连接的并列宾语：about three in ten of its sufferers 和 an estimated 300 million。killed 为一般过去时，主动语态，叙述天花在历史上造成的死亡。"
+  },
+  "components": [
+   {
+    "text": "Smallpox,",
+    "role": "主语",
+    "zh": "天花"
+   },
+   {
+    "text": "a contagious affliction,",
+    "role": "同位语（名词短语），补充说明 Smallpox",
+    "zh": "一种传染性的疾病"
+   },
+   {
+    "text": "killed",
+    "role": "谓语",
+    "zh": "夺去了……的生命"
+   },
+   {
+    "text": "about three in ten",
+    "role": "宾语①（about 修饰数量，three in ten 表示十分之三）",
+    "zh": "约三成"
+   },
+   {
+    "text": "of its sufferers",
+    "role": "后置定语（介词短语），修饰 three in ten，its 指 smallpox",
+    "zh": "患者"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个宾语",
+    "zh": "并且"
+   },
+   {
+    "text": "an estimated 300 million",
+    "role": "宾语②（estimated 为过去分词作前置定语，an 修饰整个数量短语）",
+    "zh": "估计有3亿人"
+   },
+   {
+    "text": "in the 20th century.",
+    "role": "时间状语（介词短语），语义上限定第二个宾语的数字",
+    "zh": "在20世纪"
+   }
+  ],
+  "structure": "①主句是 Smallpox killed A and B。主语 Smallpox 后面紧跟 a contagious affliction，前后用逗号隔开，是名词短语作同位语，补充说明天花是一种什么样的病（视频说明：同位语，补充说明 Smallpox）。\n②谓语 killed 带两个并列宾语（视频说明：killed 的宾语有两个）。第一个是 about three in ten of its sufferers：three in ten 意为“十个中有三个”，即约三成，about 修饰这个比例；of its sufferers 作后置定语，its 指代 smallpox，说的是天花患者中约有三成死亡，即病死率。第二个是 an estimated 300 million，说的是死亡总人数：estimated 是过去分词作前置定语，表示数字是估算出来的；不定冠词 an 修饰的是整个数量短语，并不与复数名词冲突。\n③句末 in the 20th century 是时间状语，在语义上限定第二个宾语：3亿是整个20世纪的死亡人数；第一个宾语的“约三成”是天花一般的致死比例。\n④一个谓语带两个性质不同的宾语，一个讲比例、一个讲总数，用最短的篇幅交代天花的危害，为下文的防治史作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语对前面的名词作补充说明，二者指同一对象，常用逗号与句子其他部分隔开。本句 a contagious affliction 与 Smallpox 指同一事物，说明天花的性质；去掉同位语，主干 Smallpox killed ... 仍然完整。阅读长难句时，主语后面紧跟一对逗号夹着的名词短语，多半是同位语，要越过它找谓语，本句的谓语是 killed。翻译时同位语常保留原位，用逗号隔开，或用“这种”“一种”等词融进句子。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Mr Lin, a retired engineer, now spends his mornings teaching children to code.",
+      "zh": "林先生，一位退休工程师，如今每天上午教孩子们编程。"
+     },
+     {
+      "en": "Tuberculosis, an infection that usually attacks the lungs, can spread through the air.",
+      "zh": "结核病，一种通常侵袭肺部的感染，可以通过空气传播。"
+     }
+    ]
+   },
+   {
+    "title": "X in Y 表示比例",
+    "explain": "数词 + in + 数词 表示“每 Y 个中有 X 个”，如 one in five（五分之一）、three in ten（十分之三，约三成）、nine in ten（九成）；也可以说 X out of Y，如 nine out of ten。这种说法比百分数更口语化、更直观，外刊和考研阅读的数据描述中很常见。本句 three in ten of its sufferers 即“天花患者中的十分之三”（视频说明：十分之三，即约三成）。翻译时可译为“X 成”或“Y 分之 X”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nearly one in four young adults in the survey said they had never bought a printed book.",
+      "zh": "调查中近四分之一的年轻人说，他们从未买过纸质书。"
+     }
+    ]
+   },
+   {
+    "title": "an estimated + 数词 + 复数名词",
+    "explain": "estimated、additional、further、extra、staggering 等形容词修饰一个具体数量时，前面常加不定冠词 a/an，如 an estimated 300 million (people)、a further 500 jobs、an additional 20 minutes。这时冠词修饰的是整个数量，把它看作一个整体，所以后面虽是复数名词也不算错。本句 an estimated 300 million 后省略了 people，意为“估计有3亿人”。考研阅读中这一结构常出现在数据句里，读到 an 后接数字时不要误判为语法错误；作主语时谓语一般用复数，如 An estimated 40,000 fans were there。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "An estimated 40,000 fans gathered outside the stadium.",
+      "zh": "估计有4万名球迷聚集在体育场外。"
+     },
+     {
+      "en": "The company plans to cut a further 500 jobs next year.",
+      "zh": "这家公司计划明年再裁减500个岗位。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "smallpox",
+    "explain": "天花，由天花病毒引起的烈性传染病，医学名称为 variola。pox 指以出疹、脓疱为特征的疾病，相关词有 chickenpox（水痘）和本文第4句的 cowpox（牛痘）。"
+   },
+   {
+    "term": "contagious affliction",
+    "explain": "contagious 指通过接触传染的；affliction 是正式用词，指使人痛苦的疾病或苦难。视频把同位语译为“一种传染性的疾病”。"
+   },
+   {
+    "term": "three in ten",
+    "explain": "十分之三，即约三成（视频说明）；about 表示约数。类似表达 one in a million 还可以作习语，指“极为难得的人或事”。"
+   },
+   {
+    "term": "sufferer",
+    "explain": "患者，受害者，常与疾病名连用，如 asthma sufferers（哮喘患者）、hay fever sufferers（花粉症患者）。本句 its sufferers 中 its 指天花，即天花患者，视频译为“患者”。"
+   },
+   {
+    "term": "300 million",
+    "explain": "million 是百万，300 million 即3亿；billion 是十亿。英文按三位一组计数，汉语按四位一组，考研翻译中数字换算是常见的失分点，视频译为“3亿人”。"
+   }
+  ],
+  "translation_tip": "视频译文“天花，一种传染性的疾病，夺去了约三成患者的生命，并且估计有3亿人在20世纪丧命。”的处理：①同位语 a contagious affliction 保留在原位，用逗号隔开，译成“一种传染性的疾病”，与英文语序一致。②killed 对第一个宾语译成“夺去了……的生命”，后置定语 of its sufferers 前移，与 about three in ten 合成“约三成患者”。③第二个宾语 an estimated 300 million 转为新分句的主语“估计有3亿人”，killed 换成“丧命”再译一次，增补“并且”连接两个分句，避免“夺去了3亿人的生命”与前一宾语挤在一起。④时间状语 in the 20th century 放到“丧命”之前，符合汉语状语前置的习惯；300 million 换算为“3亿”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "An early safeguard",
+   "predicate": "was practised … reached（并列谓语）",
+   "object_or_complement": "England",
+   "explain": "主干是 An early safeguard was practised ... and reached England，同一主语带两个由 and 连接的并列谓语：was practised 是一般过去时被动语态，主语是被施行的对象；reached England 是一般过去时主动语态，England 作宾语。"
+  },
+  "components": [
+   {
+    "text": "An early safeguard,",
+    "role": "主语",
+    "zh": "一种早期的防护手段"
+   },
+   {
+    "text": "deliberately",
+    "role": "同位语内的方式状语，修饰 implanting",
+    "zh": "有意"
+   },
+   {
+    "text": "implanting matter",
+    "role": "同位语（现在分词短语）的核心：implanting 及其宾语 matter",
+    "zh": "把……物质植入"
+   },
+   {
+    "text": "from its sores",
+    "role": "后置定语（介词短语），修饰 matter，its 指天花",
+    "zh": "天花脓疮中的"
+   },
+   {
+    "text": "in the healthy,",
+    "role": "地点状语（implant A in B 中的 B），the healthy 指健康的人",
+    "zh": "健康人体内"
+   },
+   {
+    "text": "was practised",
+    "role": "谓语①（一般过去时被动语态）",
+    "zh": "已在施行"
+   },
+   {
+    "text": "in China",
+    "role": "地点状语（介词短语）",
+    "zh": "中国"
+   },
+   {
+    "text": "by the 16th century",
+    "role": "时间状语（by + 时间点，表示到那时已经）",
+    "zh": "到16世纪"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个谓语",
+    "zh": "又"
+   },
+   {
+    "text": "reached",
+    "role": "谓语②（一般过去时主动语态）",
+    "zh": "传入"
+   },
+   {
+    "text": "England",
+    "role": "宾语",
+    "zh": "英国"
+   },
+   {
+    "text": "in 1721.",
+    "role": "时间状语（介词短语）",
+    "zh": "1721年"
+   }
+  ],
+  "structure": "①主句主语是 An early safeguard，后面两个逗号之间的 deliberately implanting matter from its sores in the healthy 作同位语，说明这种防护手段具体是什么做法（视频说明：现在分词短语作同位语，说明 safeguard 的内容）。这个 -ing 短语表示一种做法，在句中相当于一个名词性成分。\n②同位语内部：implanting 是核心，matter 是它的宾语；from its sores 作 matter 的后置定语，its 指上句的 smallpox，即“天花脓疮中的物质”；in the healthy 表示植入的位置，与 implanting 构成 implant A in B（把 A 植入 B）的搭配；the healthy 是“the + 形容词”，指健康的人（视频说明）。deliberately 作方式状语修饰 implanting，强调是有意为之。\n③谓语部分是两个并列谓语，共用主语 safeguard：was practised in China by the 16th century 用被动语态，in China 是地点状语，by the 16th century 是时间状语，表示到16世纪时中国已经在施行（视频说明：到16世纪时（已经））；and reached England in 1721 用主动语态，England 是宾语，in 1721 是时间状语。\n④本句介绍的是牛痘接种出现以前的人痘接种，与第6句詹纳用牛痘疮液体的做法形成对照：前者用的是天花本身的物质，所以下一句说它本身就有危险。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "-ing 短语作同位语",
+    "explain": "-ing 短语可以表示一种行为或做法，放在名词后、用逗号隔开时，可作该名词的同位语，具体说明这个名词指什么。本句视频说明称之为现在分词短语作同位语：deliberately implanting matter from its sores in the healthy 说明 An early safeguard 的内容。这类同位语前面的名词多是 method、hobby、habit、task、solution、safeguard 这类概括性名词。阅读时，主语后夹在两个逗号间的 -ing 短语不一定是状语，要看它是否在解释前面的名词；本句的谓语是后面的 was practised。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "His only hobby, collecting old maps, takes up most of his weekends.",
+      "zh": "他唯一的爱好，收集古地图，占去了他大部分周末时间。"
+     },
+     {
+      "en": "The council's solution, charging drivers to enter the city centre, proved unpopular.",
+      "zh": "市议会的解决办法，向驶入市中心的司机收费，结果很不受欢迎。"
+     }
+    ]
+   },
+   {
+    "title": "by + 时间点 表示“到……时（已经）”",
+    "explain": "by + 时间点 意为“到……为止、不迟于……”，强调到那个时间某事已经完成或已成事实。所指时间在过去时，主句常用过去完成时，如 By 1900, the city had doubled in size；描述到那时已经存在的状态时也可用一般过去时。本句 was practised in China by the 16th century 即“到16世纪，中国已在施行”（视频说明：到16世纪时（已经））。要与 until 区分：until 强调动作或状态一直持续到某时，by 强调到某时已完成。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the meeting, the two sides had reached a rough agreement.",
+      "zh": "到会议结束时，双方已达成一个初步协议。"
+     }
+    ]
+   },
+   {
+    "title": "the + 形容词 表示一类人",
+    "explain": "定冠词 the 加某些形容词可以表示具有该特征的一类人，作主语时谓语用复数，如 the healthy（健康的人）、the elderly（老年人）、the poor（穷人）、the unemployed（失业者）。本句 in the healthy 指“在健康人身上”，视频译为“健康人体内”。写作中用这一结构比 healthy people 更简洁正式；注意不能给它加复数词尾，不能写成 the healthies。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The elderly are especially vulnerable during heatwaves.",
+      "zh": "热浪期间，老年人尤其容易受到伤害。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语主动被动混用",
+    "explain": "同一个主语可以带几个并列谓语，各谓语的语态可以不同，取决于主语与各动词的关系。本句 safeguard 与 practise 是被动关系（这种手段被施行），所以用 was practised；与 reach 是主动关系（这种手段传到英国），所以用 reached。阅读时找到 and 后的第二个谓语，才能完整把握句子主干。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge was completed in 1932 and soon became a symbol of the city.",
+      "zh": "这座桥于1932年建成，很快成为这座城市的象征。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "implant A in B",
+    "explain": "把 A 植入 B（视频说明），也可说 implant A into B；医学上常见 implant a device（植入装置）。名词 implant 指植入物，重音在第一个音节。"
+   },
+   {
+    "term": "matter",
+    "explain": "熟词僻义：除“事情、问题”外，还指物质、东西，如 organic matter（有机物）；Merriam-Webster 还收录了医学义项，指化脓时排出的物质，即脓。本句 matter from its sores 指天花脓疮中的物质，视频译为“物质”。"
+   },
+   {
+    "term": "practise",
+    "explain": "英式拼写中，动词作 practise，名词作 practice；美式英语动词和名词都写作 practice。本句 was practised 是英式拼写，意为“施行，实行”，常见搭配 practise medicine（行医）。"
+   },
+   {
+    "term": "variolation",
+    "explain": "本句所说的做法在医学史上称为 variolation，即人痘接种：把天花患者疮中的物质接种给健康人，使其患上较轻的天花而获得免疫。variola 是天花的医学名称。下文詹纳改用牛痘，才有了 vaccination（接种疫苗）。"
+   },
+   {
+    "term": "reach",
+    "explain": "reach 作及物动词表示“到达，传到”，直接接地点，不加 to，如 reach the coast。本句 reached England 说的是这种方法传到英国，视频译为“传入英国”。"
+   }
+  ],
+  "translation_tip": "视频译文“一种早期的防护手段，是有意把天花脓疮中的物质植入健康人体内，到16世纪，中国已在施行这种方法，1721年又传入英国。”的处理：①同位语用“是”字判断句译出：“一种早期的防护手段，是有意把……”，把同位关系转成解释说明，交代这种手段的内容。②implant A in B 用“把”字句译为“把天花脓疮中的物质植入健康人体内”，its 明确译为“天花”，the healthy 译为“健康人”，并增补“体内”。③被动语态 was practised in China 转为主动句，以“中国”作主语，增补宾语“这种方法”；by the 16th century 提到前面译为“到16世纪”，用“已在”体现 by 所含的“到那时已经”。④第二个谓语 reached England in 1721 另起分句，时间状语前置为“1721年”，用“又”承接，reach 译为“传入”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The procedure",
+   "predicate": "could cause",
+   "object_or_complement": "grave sickness or death",
+   "explain": "主干是 The procedure could cause grave sickness or death，主谓宾结构。谓语由情态动词 could 加动词原形构成，could 表示过去的可能性；主动语态。"
+  },
+  "components": [
+   {
+    "text": "The procedure",
+    "role": "主语",
+    "zh": "这种做法"
+   },
+   {
+    "text": "itself",
+    "role": "同位语（反身代词，强调主语）",
+    "zh": "本身"
+   },
+   {
+    "text": "could cause",
+    "role": "谓语（情态动词 could + 动词原形）",
+    "zh": "可能导致"
+   },
+   {
+    "text": "grave",
+    "role": "前置定语，修饰 sickness",
+    "zh": "严重的"
+   },
+   {
+    "text": "sickness",
+    "role": "宾语①",
+    "zh": "疾病"
+   },
+   {
+    "text": "or death,",
+    "role": "宾语②（or 连接两个宾语）",
+    "zh": "或死亡"
+   },
+   {
+    "text": "if less frequently than natural smallpox.",
+    "role": "让步状语（if 引导的省略结构，= though less frequently than natural smallpox）",
+    "zh": "尽管不如自然天花那样频繁"
+   }
+  ],
+  "structure": "①主句 The procedure itself could cause grave sickness or death：The procedure 指上句的人痘接种，itself 是反身代词作主语的同位语，强调“这种做法本身”，意思是用来防病的手段自己也有危险。谓语 could cause，宾语是由 or 连接的 grave sickness 和 death，grave 只修饰 sickness。\n②逗号后 if less frequently than natural smallpox 是 if 引导的让步状语，属于省略结构（视频说明：= though less frequently than…）。补全后大致是 though it did so less frequently than natural smallpox did，if 在这里不表示条件，而表示“虽然、尽管”。\n③比较部分 less frequently than natural smallpox：比较的是人痘接种和自然感染的天花各自导致重病或死亡的频率。natural smallpox 指自然染上的天花，与人为接种引起的发病相对。\n④本句先承认人痘接种有风险，再用让步说明它比自然感染安全，为下一段寻找更安全的牛痘作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "if 引导的让步省略结构",
+    "explain": "if 后面只接形容词、副词或比较结构，省去主语和谓语时，常表示让步，相当于 although，意为“虽然、尽管”，如 a useful, if imperfect, guide（一本有用的、尽管不完美的指南）。本句 if less frequently than natural smallpox 即 though less frequently than natural smallpox（视频说明）。这一结构在外刊中很常见，常见形式有“形容词, if 形容词”和 if not 两种；if not 有时意为“即使不是”，如 hundreds, if not thousands（即使没有几千，也有几百），要结合语境判断。考研阅读中把这种 if 误读成“如果”，整句意思就会弄反。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The hotel was comfortable, if a little expensive.",
+      "zh": "这家酒店很舒适，尽管有点贵。"
+     },
+     {
+      "en": "The reforms produced real, if modest, gains in productivity.",
+      "zh": "这些改革带来了生产率的提升，虽然幅度不大，却是实实在在的。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作同位语表示强调",
+    "explain": "反身代词（myself、itself、themselves 等）紧跟在名词或代词后，或放在句末，可以作同位语，强调“本身、亲自”，去掉后句子结构仍完整。本句 The procedure itself 强调“这种做法本身”，与上句它作为防护手段的用途形成对比。要与反身代词作宾语区分，如 protect itself 中 itself 是宾语，不能省略。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The idea itself is sound; the problem lies in how it was carried out.",
+      "zh": "这个想法本身是合理的，问题出在执行方式上。"
+     }
+    ]
+   },
+   {
+    "title": "could 表示过去的可能性",
+    "explain": "could + 动词原形 可以表示过去某种情况有可能发生，即一般性的、理论上的可能，如 In those days, a journey across the country could take weeks。本句 could cause 指人痘接种在当时可能导致重病或死亡，并不是说每次都会发生。要与 could have done 区分：后者表示对过去的推测，或过去本可以做而没有做的事。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In the 19th century, a simple infection could kill a healthy adult within days.",
+      "zh": "在19世纪，一次普通的感染就可能在几天之内夺去一个健康成年人的生命。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "procedure",
+    "explain": "常指按步骤进行的做法、程序，在医学语境中指治疗操作或手术，如 a surgical procedure。本句 The procedure 回指上句的 safeguard，视频译为“这种做法”。"
+   },
+   {
+    "term": "grave",
+    "explain": "形容词 grave 意为“严重的，严峻的”，如 grave danger、a grave mistake，比 serious 更正式；与名词 grave（坟墓）同形，来源不同。视频译为“严重的”。"
+   },
+   {
+    "term": "natural smallpox",
+    "explain": "自然天花，指在日常接触中自然感染的天花，与人痘接种人为引起的发病相对。natural 在这里强调“非人为的”，与第16句 naturally occurring 的用法相近。"
+   }
+  ],
+  "translation_tip": "视频译文“这种做法本身可能导致严重的疾病或死亡，尽管不如自然天花那样频繁。”的处理：①反身代词 itself 译为“本身”，紧跟在“这种做法”后，强调对象；The procedure 译为“这种做法”，用“这种”回指上句的防护手段。②could cause 译为“可能导致”，“可能”对应 could 表示的可能性。③让步省略结构 if less frequently than natural smallpox 用“尽管”点明让步关系，用“不如……那样频繁”译出 less frequently than 的比较，增补“那样”使比较说法完整；被省略的“导致重病或死亡”汉语承前省略，不必重复。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Rustic lore",
+   "predicate": "held",
+   "object_or_complement": "that milkmaids with cowpox, a mild ailment of livestock, were immune to smallpox",
+   "explain": "主干是 Rustic lore held that ...，主谓宾结构，宾语是 that 引导的宾语从句。hold 在此意为“认为”，谓语 held 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Rustic lore",
+    "role": "主语",
+    "zh": "乡间传说"
+   },
+   {
+    "text": "held",
+    "role": "谓语（hold that：认为）",
+    "zh": "认为"
+   },
+   {
+    "text": "that",
+    "role": "宾语从句引导词（在从句中不作成分）",
+    "zh": "（连词，引导宾语从句，不单独译出）"
+   },
+   {
+    "text": "milkmaids",
+    "role": "宾语从句的主语",
+    "zh": "挤奶女工"
+   },
+   {
+    "text": "with cowpox,",
+    "role": "后置定语（介词短语），修饰 milkmaids，语义上含条件",
+    "zh": "若得过牛痘"
+   },
+   {
+    "text": "a mild ailment of livestock,",
+    "role": "同位语，补充说明 cowpox",
+    "zh": "这种牲畜的轻微病症"
+   },
+   {
+    "text": "were immune to smallpox.",
+    "role": "宾语从句的系动词和表语（be immune to：对……免疫）",
+    "zh": "就对天花免疫"
+   }
+  ],
+  "structure": "①主句 Rustic lore held that...：Rustic lore 指乡间流传的说法，held 意为“认为”（视频说明：hold that…：认为……），后接 that 引导的宾语从句，that 只起连接作用，在从句中不作成分。\n②宾语从句的主干是 milkmaids were immune to smallpox，主系表结构，immune to smallpox 作表语。with cowpox 是介词短语作后置定语，修饰 milkmaids，指“得过牛痘的挤奶女工”。\n③两个逗号之间的 a mild ailment of livestock 是 cowpox 的同位语，说明牛痘是牲畜身上的轻微病症（视频说明：同位语，补充说明 cowpox；一般指牛的牛痘，轻微病症）。of livestock 作 ailment 的后置定语。\n④从句谓语 were 用过去时，与主句 held 的时态保持一致。mild 与上一段 grave 形成对比：牛痘本身危害轻微，却能使人对致命的天花免疫，这正是后来牛痘接种的出发点。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "hold that 表示“认为”",
+    "explain": "hold 的熟词僻义：作“持有（观点、信念）”讲时，可接 that 从句，意为“认为、主张”，如 Many scientists hold that...；也常用于 hold the view/belief that...、hold sb responsible for sth（认为某人对某事负责）。主语可以是人，也可以是 lore、tradition、theory、the law 这类表示说法、学说、规定的名词，如 The law holds that...（法律规定……）。本句 Rustic lore held that... 即“乡间传说认为”。考研阅读中 hold 接 that 从句时，不能理解为“握住”或“举行”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some economists hold that higher wages would boost consumer spending.",
+      "zh": "一些经济学家认为，提高工资会促进消费支出。"
+     },
+     {
+      "en": "An old tradition holds that the bridge was built in a single night.",
+      "zh": "一个古老的传说认为，这座桥是在一夜之间建成的。"
+     }
+    ]
+   },
+   {
+    "title": "宾语从句的时态呼应",
+    "explain": "主句谓语是过去时，宾语从句一般也用相应的过去时态，叙述当时的看法或说法。本句主句 held 是过去时，从句用 were immune。如果从句表达的是客观真理或至今仍然成立的事实，可以用一般现在时，如 The teacher told us that the earth goes round the sun。考研写作中转述他人观点时，要注意主从句时态的一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most villagers believed that the old well was cursed.",
+      "zh": "大多数村民认为那口古井受了诅咒。"
+     }
+    ]
+   },
+   {
+    "title": "with 介词短语作后置定语表示“具有、患有”",
+    "explain": "with + 名词 放在名词后，可表示“具有某种特征、患有某种疾病”，如 patients with diabetes（糖尿病患者）、people with disabilities（残障人士）。本句 milkmaids with cowpox 指“得过牛痘的挤奶女工”。这种定语有时暗含条件，翻译时可转成条件句，视频译为“挤奶女工若得过牛痘……就……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Children with asthma often need to carry an inhaler at school.",
+      "zh": "患有哮喘的孩子在学校里常常需要随身携带吸入器。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "rustic lore",
+    "explain": "lore 指某一群体代代相传的知识、传说，常见 folklore（民间传说）、local lore（地方传说）；rustic 意为“乡村的”。视频译为“乡间传说”。"
+   },
+   {
+    "term": "milkmaid",
+    "explain": "挤奶女工，由 milk 和 maid（少女，女仆）构成，指旧时在农场挤牛奶的女子。挤奶时常接触牛的乳房，容易染上牛痘。"
+   },
+   {
+    "term": "cowpox",
+    "explain": "牛痘，由 cow 和 pox 构成，一种通常出现在牛身上的轻微病症（视频说明），人接触后也会感染，症状轻。与 smallpox（天花）的构词方式相同。"
+   },
+   {
+    "term": "be immune to",
+    "explain": "对……免疫，也可引申为“不受……影响”，如 be immune to criticism（不受批评影响）；名词 immunity（免疫力）。视频译为“对天花免疫”。"
+   }
+  ],
+  "translation_tip": "视频译文“乡间传说认为，挤奶女工若得过牛痘这种牲畜的轻微病症，就对天花免疫。”的处理：①主句 Rustic lore held 译为“乡间传说认为”，后加逗号引出从句内容，that 不译。②后置定语 with cowpox 转译为条件，“若得过牛痘”，与表语部分的“就”呼应，构成“若……就……”句式，把得牛痘与免疫的因果关系说清楚。③同位语 a mild ailment of livestock 用“这种”紧接在“牛痘”之后，译为“牛痘这种牲畜的轻微病症”，融入句中，不另起分句。④be immune to smallpox 译为“对天花免疫”，介词 to 译为“对”，置于“免疫”前。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Benjamin Jesty",
+   "predicate": "employed",
+   "object_or_complement": "cowpox",
+   "explain": "主干是 Benjamin Jesty employed cowpox，主谓宾结构。谓语 employed 为一般过去时，主动语态；employ 在此是正式用语，相当于 use。"
+  },
+  "components": [
+   {
+    "text": "In 1774",
+    "role": "时间状语（介词短语）",
+    "zh": "1774年"
+   },
+   {
+    "text": "Benjamin Jesty,",
+    "role": "主语",
+    "zh": "本杰明·杰斯蒂"
+   },
+   {
+    "text": "a Dorset farmer,",
+    "role": "同位语，补充说明 Benjamin Jesty",
+    "zh": "一位多塞特郡农夫"
+   },
+   {
+    "text": "employed",
+    "role": "谓语",
+    "zh": "使用"
+   },
+   {
+    "text": "cowpox",
+    "role": "宾语",
+    "zh": "牛痘"
+   },
+   {
+    "text": "to protect his wife and two sons.",
+    "role": "目的状语（不定式短语）",
+    "zh": "来保护他的妻子和两个儿子"
+   }
+  ],
+  "structure": "①句首 In 1774 是时间状语。主句主语 Benjamin Jesty 后面的 a Dorset farmer 是同位语，补充说明他的身份（视频说明：同位语，补充说明 Benjamin Jesty；Dorset：多塞特郡，在英格兰西南部）。Dorset 是地名作前置定语，修饰 farmer。\n②谓语 employed，宾语 cowpox；不定式短语 to protect his wife and two sons 作目的状语，说明使用牛痘的目的。his 同时修饰 wife 和 two sons。\n③1774年比第6句詹纳的试验早了22年，这一事实为第11句 Jenner was not the idea's originator 提供了依据。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不定式作目的状语",
+    "explain": "动词不定式放在句末或句首，可作目的状语，说明主句动作的目的，相当于 in order to 或 so as to；放在句首时只能用 to do 或 in order to，不用 so as to。本句 to protect his wife and two sons 说明杰斯蒂使用牛痘的目的，视频译为“来保护……”。不定式的逻辑主语一般与主句主语一致，写作中要避免逻辑主语不一致的错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She took a part-time job to pay for her studies.",
+      "zh": "她做了一份兼职来支付学费。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语中名词可以直接放在另一个名词前作定语，说明地点、材料、用途等，如 a Dorset farmer（多塞特郡的农夫）、a London taxi driver、a stone wall。作定语的名词一般用单数。本句 Dorset 说明农夫来自哪里，视频译为“多塞特郡农夫”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A Paris bakery has won the prize for the best baguette for the second year running.",
+      "zh": "巴黎一家面包店连续第二年获得最佳法棍奖。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Dorset",
+    "explain": "多塞特郡，英格兰西南部的一个郡，濒临英吉利海峡（视频说明：在英格兰西南部）。"
+   },
+   {
+    "term": "employ",
+    "explain": "熟词僻义：employ 除“雇用”外，还可表示“使用，运用”（方法、技术、手段等），是 use 的正式说法，如 employ a new technique。本句 employed cowpox 视频译为“使用牛痘”。"
+   },
+   {
+    "term": "Benjamin Jesty",
+    "explain": "本杰明·杰斯蒂，英国多塞特郡的农夫。本句交代他1774年就用牛痘保护家人，比詹纳早了二十多年，是第四段“詹纳并非首创者”的证据。"
+   }
+  ],
+  "translation_tip": "视频译文“1774年，本杰明·杰斯蒂，一位多塞特郡农夫，使用牛痘来保护他的妻子和两个儿子。”的处理：①时间状语 In 1774 放在句首，后加逗号。②同位语 a Dorset farmer 保留原位，译为“一位多塞特郡农夫”，用逗号隔开，与英文语序一致；英文人名按音译，名和姓之间加间隔号。③employed 译为“使用”，目的状语 to protect 译为“来保护”，“来”连接动作与目的。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Edward Jenner",
+   "predicate": "inserted",
+   "object_or_complement": "fluid",
+   "explain": "主干是 Edward Jenner inserted fluid，主谓宾结构，与 into a scratch 构成 insert A into B（把 A 注入 B）的搭配。谓语 inserted 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 14 May 1796",
+    "role": "时间状语（介词短语）",
+    "zh": "1796年5月14日"
+   },
+   {
+    "text": "Edward Jenner,",
+    "role": "主语",
+    "zh": "爱德华·詹纳"
+   },
+   {
+    "text": "a provincial practitioner,",
+    "role": "同位语，补充说明 Edward Jenner",
+    "zh": "一位地方执业医师"
+   },
+   {
+    "text": "inserted",
+    "role": "谓语",
+    "zh": "将……注入"
+   },
+   {
+    "text": "fluid",
+    "role": "宾语",
+    "zh": "液体"
+   },
+   {
+    "text": "from a milkmaid's cowpox sore",
+    "role": "后置定语（介词短语），修饰 fluid，说明来源",
+    "zh": "取自一名挤奶女工牛痘疮的"
+   },
+   {
+    "text": "into a scratch",
+    "role": "状语（介词短语，insert A into B 中的 B，表示注入的位置）",
+    "zh": "一道伤痕/划痕中"
+   },
+   {
+    "text": "on eight-year-old James Phipps.",
+    "role": "后置定语（介词短语），修饰 scratch",
+    "zh": "8岁的詹姆斯·菲普斯身上的"
+   }
+  ],
+  "structure": "①句首 On 14 May 1796 是时间状语，日期按英式“日、月、年”的顺序书写。主语 Edward Jenner 后面的 a provincial practitioner 是同位语，补充说明他的身份（视频说明：同位语，补充说明 Edward Jenner）。\n②谓语 inserted，宾语 fluid。from a milkmaid's cowpox sore 作 fluid 的后置定语，说明液体的来源；其中 a milkmaid's 是名词所有格，cowpox 是名词作定语，二者共同修饰 sore，即“一名挤奶女工的牛痘疮”。\n③into a scratch 是 insert A into B 中的 B，表示注入的位置（视频说明：insert A into B：把 A 注入 B）；on eight-year-old James Phipps 是介词短语作后置定语，修饰 scratch（视频说明），说明划痕在谁身上。eight-year-old 是带连字符的复合形容词，作 James Phipps 的前置定语。\n④与第2句人痘接种对照，接种材料从天花脓疮中的物质换成了牛痘疮的液体，这正是詹纳试验的关键。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "带连字符的复合形容词",
+    "explain": "“数词 + 名词 + 形容词”或“数词 + 名词”用连字符连成一个复合形容词，放在名词前作定语，其中的名词一律用单数，如 an eight-year-old boy、a ten-minute walk、a two-hour lecture。不加连字符、名词用复数时一般作表语，如 The boy is eight years old，也可作后置定语，如 a boy eight years old。本句 eight-year-old James Phipps 中，year 用单数。考研写作中 a five-year plan 写成 a five-years plan 是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She gave a two-hour lecture without once looking at her notes.",
+      "zh": "她做了两个小时的讲座，一次也没看讲稿。"
+     },
+     {
+      "en": "The firm offers a three-month training course to all new staff.",
+      "zh": "这家公司为所有新员工提供为期三个月的培训课程。"
+     }
+    ]
+   },
+   {
+    "title": "动词 + A + 介词 + B 的固定搭配",
+    "explain": "许多动词与固定介词构成“动词 + A + 介词 + B”的搭配，介词决定 B 的语义角色，如 insert A into B（把 A 插入、注入 B）、implant A in B（把 A 植入 B）、expose A to B（使 A 接触 B）。本句 inserted fluid ... into a scratch 中，A 带有较长的后置定语，介词 into 与动词相隔较远，阅读时要把 into 找回来与 inserted 搭配。本文第2、6、7句连续出现这类结构，可放在一起记忆。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The technician inserted a thin probe into the soil to measure its moisture.",
+      "zh": "技术员把一根细探针插入土壤中测量湿度。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与名词定语连用",
+    "explain": "名词前可以同时有名词所有格和名词定语，所有格在前，名词定语紧挨中心词，如 the company's annual sales report。本句 a milkmaid's cowpox sore 中，a milkmaid's 表示所属（挤奶女工的），cowpox 表示类别（牛痘的），共同修饰 sore；不定冠词 a 属于 milkmaid，不属于 sore。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's water supply system was built more than a century ago.",
+      "zh": "这座城市的供水系统是一百多年前修建的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "provincial practitioner",
+    "explain": "provincial 指首都以外的、地方上的；practitioner 指从业者，医学上指开业医生，如 general practitioner（全科医生，简称 GP）。视频译为“一位地方执业医师”。詹纳在英格兰格洛斯特郡的伯克利行医，并非伦敦的名医。"
+   },
+   {
+    "term": "insert A into B",
+    "explain": "把 A 插入或注入 B（视频说明），如 insert a coin into the machine；名词 insertion。本句视频译为“将……注入……”。"
+   },
+   {
+    "term": "scratch",
+    "explain": "皮肤上的划痕、抓痕；视频给出“伤痕/划痕”两种说法。习语 without a scratch 意为“毫发无损”，from scratch 意为“从零开始”。标题 From a Scratch to a World Without Smallpox 中的 scratch 就是本句这道划痕。"
+   },
+   {
+    "term": "日期写法",
+    "explain": "14 May 1796 是英式写法，日在月前，读作 the fourteenth of May；美式写作 May 14, 1796。汉语按年、月、日顺序，译为“1796年5月14日”。"
+   }
+  ],
+  "translation_tip": "视频译文“1796年5月14日，爱德华·詹纳，一位地方执业医师，将取自一名挤奶女工牛痘疮的液体，注入8岁的詹姆斯·菲普斯身上的一道伤痕/划痕中。”的处理：①时间状语按汉语年、月、日顺序前置。②同位语保留原位，译为“一位地方执业医师”。③insert A into B 用“将”字句，“将……液体，注入……中”，宾语较长，中间用逗号断开，便于阅读。④后置定语 from a milkmaid's cowpox sore 前移，增补“取自”说明来源，译为“取自一名挤奶女工牛痘疮的液体”。⑤into a scratch on eight-year-old James Phipps 中，后置定语前移并增补“身上”，译为“8岁的詹姆斯·菲普斯身上的一道伤痕/划痕中”，不定冠词 a 译为量词“一道”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Jenner",
+   "predicate": "exposed",
+   "object_or_complement": "the boy",
+   "explain": "本句由分号连接两个分句。前一分句 Jenner exposed the boy to smallpox 是主谓宾结构，构成 expose A to B；后一分句 no symptoms ensued 是主谓结构，ensue 为不及物动词。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 1 July 1796",
+    "role": "时间状语（介词短语）",
+    "zh": "1796年7月1日"
+   },
+   {
+    "text": "Jenner",
+    "role": "主语（前一分句）",
+    "zh": "詹纳"
+   },
+   {
+    "text": "exposed",
+    "role": "谓语（前一分句）",
+    "zh": "让……接触"
+   },
+   {
+    "text": "the boy",
+    "role": "宾语",
+    "zh": "这个男孩"
+   },
+   {
+    "text": "to smallpox;",
+    "role": "状语（介词短语，expose A to B 中的 B，表示接触的对象）",
+    "zh": "天花"
+   },
+   {
+    "text": "no symptoms",
+    "role": "主语（后一分句，no 表示全部否定）",
+    "zh": "任何症状都没有"
+   },
+   {
+    "text": "ensued.",
+    "role": "谓语（后一分句，不及物动词）",
+    "zh": "随之出现"
+   }
+  ],
+  "structure": "①分号前的分句：On 1 July 1796 是时间状语；主干 Jenner exposed the boy to smallpox，构成 expose A to B（使 A 接触 B，视频说明）。the boy 回指上句的 James Phipps。\n②分号后的分句：no symptoms ensued，主语 no symptoms，谓语 ensued，不带宾语。ensue 表示“随后发生、作为结果出现”，句中隐含“在接触天花之后”。\n③两个独立分句之间用分号，表示意思紧密相关：前一分句是试验操作，后一分句是试验结果，没有用连词，结果显得干脆有力。\n④5月14日接种牛痘，7月1日让男孩接触天花，相隔一个多月；接触天花而不发病，说明牛痘接种起到了保护作用，这是整篇文章的转折点。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号可以连接两个意思紧密相关的独立分句，相当于一个较弱的句号，不用 and、so 等连词。前后分句常是因果、对比或先后关系，需要读者自己体会。本句前一分句讲操作，后一分句讲结果，中间用分号，比用 and 更简洁。考研写作中两个完整句子之间只用逗号连接是常见的语法错误（逗号拼接），应改用分号、句号或加连词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first trial failed; the second produced clear results.",
+      "zh": "第一次试验失败了；第二次得出了明确的结果。"
+     },
+     {
+      "en": "Prices rose sharply in the spring; by autumn, demand had collapsed.",
+      "zh": "春季物价急剧上涨；到了秋季，需求已经大幅萎缩。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词作主语表示全部否定",
+    "explain": "no 修饰名词作主语，否定的是整个主语，意为“没有任何……”，如 No symptoms ensued（没有出现任何症状）、No one came。这种说法比 Symptoms did not ensue 语气更强、更简洁，外刊中常见。翻译时汉语不习惯用否定词作主语，常把否定落到谓语上，译成“任何……都没有……”，本句视频译为“任何症状都没有随之出现”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "No serious damage was reported after the storm.",
+      "zh": "暴风雨过后没有任何严重损失的报告。"
+     }
+    ]
+   },
+   {
+    "title": "ensue 为不及物动词",
+    "explain": "ensue 意为“随后发生，因而发生”，是不及物动词，不带宾语，也没有被动语态，主语是随之发生的事情，如 A long silence ensued；表示“由……引起”用 ensue from sth。现在分词 ensuing 常作前置定语，如 in the ensuing years（在随后的几年里）。本句 no symptoms ensued 不能写成 no symptoms were ensued。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "An argument broke out, and a fight soon ensued.",
+      "zh": "先是发生了争吵，接着很快就打了起来。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "expose A to B",
+    "explain": "使 A 接触 B，使 A 暴露于 B（视频说明），常用被动 be exposed to，如 be exposed to radiation（受到辐射）。本句视频译为“让这个男孩接触天花”。"
+   },
+   {
+    "term": "the boy",
+    "explain": "回指上句的 James Phipps。英文常用“the + 概括性名词”回指前文出现过的人或物，避免重复专名，汉语用“这个男孩”对应。"
+   },
+   {
+    "term": "symptom",
+    "explain": "症状，可数名词，常用复数，如 flu symptoms、show symptoms of；也可比喻某种问题的迹象，如 a symptom of a deeper problem。视频译为“症状”。"
+   }
+  ],
+  "translation_tip": "视频译文“1796年7月1日，詹纳让这个男孩接触天花；任何症状都没有随之出现。”的处理：①expose A to B 用使役句译为“让……接触……”，体现 expose 的使动含义。②the boy 译为“这个男孩”，“这个”回指上句的菲普斯。③否定主语 no symptoms 译为“任何症状都没有”，把否定放到谓语前，符合汉语习惯。④ensued 译为“随之出现”，“随之”体现 ensue 的“随后、接着”之意。⑤保留原文的分号，前后分句对应操作与结果。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "the Royal Society",
+   "predicate": "declined",
+   "object_or_complement": "to publish his paper",
+   "explain": "主干是 the Royal Society declined to publish his paper，主谓宾结构，不定式短语 to publish his paper 作宾语。谓语 declined 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1797",
+    "role": "时间状语（介词短语）",
+    "zh": "1797年"
+   },
+   {
+    "text": "the Royal Society",
+    "role": "主语",
+    "zh": "皇家学会"
+   },
+   {
+    "text": "declined",
+    "role": "谓语",
+    "zh": "拒绝"
+   },
+   {
+    "text": "to",
+    "role": "不定式符号（to publish his paper 作宾语）",
+    "zh": "去"
+   },
+   {
+    "text": "publish",
+    "role": "不定式中的动词",
+    "zh": "发表"
+   },
+   {
+    "text": "his paper,",
+    "role": "不定式的宾语",
+    "zh": "他的论文"
+   },
+   {
+    "text": "judging",
+    "role": "原因状语（现在分词短语）的核心，逻辑主语是 the Royal Society",
+    "zh": "认为"
+   },
+   {
+    "text": "his evidence",
+    "role": "judging 的宾语",
+    "zh": "他的证据"
+   },
+   {
+    "text": "unconvincing.",
+    "role": "宾语补足语（形容词）",
+    "zh": "缺乏说服力"
+   }
+  ],
+  "structure": "①In 1797 是时间状语。主句 the Royal Society declined to publish his paper：decline 意为“拒绝”，后接不定式 to publish his paper 作宾语，his 指詹纳。\n②逗号后 judging his evidence unconvincing 是现在分词短语作原因状语（视频说明），逻辑主语是主句主语 the Royal Society，说明拒绝的原因，相当于 because it judged his evidence unconvincing。\n③分词短语内部是“judge + 宾语 + 形容词”结构（视频说明：judge＋宾语＋形容词：认为……）：his evidence 是 judging 的宾语，unconvincing 是宾语补足语，说明对证据的判断。\n④本句交代詹纳的成果最初没有得到权威学术机构的认可，引出下一句他自费出书。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作原因状语",
+    "explain": "现在分词短语可以作原因状语，说明主句动作的原因，其逻辑主语必须与主句主语一致，相当于 because/as 引导的原因状语从句。本句 judging his evidence unconvincing 的逻辑主语是 the Royal Society，即学会因为认为证据不足而拒绝发表（视频说明：现在分词短语作原因状语）。分词短语放在句首时原因意味更明显，放在句末时也可兼有补充说明的作用。写作中如果分词的逻辑主语与主句主语不一致，就会出现“悬垂分词”错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Feeling unwell, she left the meeting early.",
+      "zh": "她因为感觉不舒服，提早离开了会议。"
+     },
+     {
+      "en": "The bank tightened its lending rules, fearing a rise in bad loans.",
+      "zh": "这家银行担心坏账增加，收紧了放贷规定。"
+     }
+    ]
+   },
+   {
+    "title": "judge/consider/find + 宾语 + 形容词",
+    "explain": "judge、consider、find、think、deem 等表示判断的动词，可以接“宾语 + 形容词”，形容词作宾语补足语，说明对宾语的看法，意为“认为……是……”。本句 judging his evidence unconvincing 即“认为他的证据缺乏说服力”。宾语较长时常用形式宾语 it，如 find it hard to believe that...。考研阅读中要能看出宾语后的形容词是宾补而非定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee judged the proposal too costly to pursue.",
+      "zh": "委员会认为这项提议成本太高，不值得推进。"
+     }
+    ]
+   },
+   {
+    "title": "decline to do sth",
+    "explain": "decline 作“拒绝”讲时，可接不定式作宾语，decline to do sth 意为“婉拒做某事”，语气比 refuse 客气、正式；也可直接接名词，如 decline an invitation。新闻中 declined to comment（拒绝置评）十分常见。decline 的另一常用义是“下降，减少”，考研阅读中要根据有无宾语和语境区分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister declined to comment on the leaked report.",
+      "zh": "这位部长拒绝就那份泄露的报告发表评论。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Royal Society",
+    "explain": "英国皇家学会，1660年在伦敦成立，是英国历史最悠久的科学学术机构，相当于英国的国家科学院。视频译为“皇家学会”。"
+   },
+   {
+    "term": "paper",
+    "explain": "熟词僻义：可数名词 paper 可指学术论文，如 publish a paper、a research paper；也可指试卷、报纸。本句 his paper 指詹纳报告试验的论文。"
+   },
+   {
+    "term": "unconvincing",
+    "explain": "缺乏说服力的，由否定前缀 un- 加 convincing 构成，常形容论据、理由、表演等，如 an unconvincing excuse。视频译为“缺乏说服力”。"
+   }
+  ],
+  "translation_tip": "视频译文“1797年，皇家学会拒绝去发表他的论文，认为他的证据缺乏说服力。”的处理：①时间状语放句首。②declined to publish 译为“拒绝去发表”，“去”对应不定式符号 to。③现在分词短语作原因状语，顺着英文语序译为后一分句“认为他的证据缺乏说服力”，不加“因为”，因果关系靠语序体现，读来简洁。④judge + 宾语 + 形容词 译为“认为……缺乏说服力”，宾补 unconvincing 转为谓语性的“缺乏说服力”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "he",
+   "predicate": "funded",
+   "object_or_complement": "his book",
+   "explain": "主干是 he funded his book，主谓宾结构，privately 作方式状语。谓语 funded 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In June 1798",
+    "role": "时间状语（介词短语）",
+    "zh": "1798年6月"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "privately",
+    "role": "方式状语，修饰 funded",
+    "zh": "私人"
+   },
+   {
+    "text": "funded",
+    "role": "谓语",
+    "zh": "出资出版了"
+   },
+   {
+    "text": "his book,",
+    "role": "宾语",
+    "zh": "他的著作"
+   },
+   {
+    "text": "the Inquiry,",
+    "role": "同位语，补充说明 his book",
+    "zh": "《探究》"
+   },
+   {
+    "text": "with",
+    "role": "介词，with supplementary cases 作后置定语，修饰 his book",
+    "zh": "书中附上了"
+   },
+   {
+    "text": "supplementary",
+    "role": "前置定语，修饰 cases",
+    "zh": "补充"
+   },
+   {
+    "text": "cases.",
+    "role": "介词 with 的宾语",
+    "zh": "病例"
+   }
+  ],
+  "structure": "①In June 1798 是时间状语。主句 he privately funded his book：he 指詹纳；privately 作方式状语，表示由他个人出钱，而非由皇家学会等机构资助出版，与上句学会拒稿相呼应。\n②the Inquiry 是 his book 的同位语（视频说明），说明书名，全名《关于牛痘的原因与效果的探究》。\n③with supplementary cases 是介词短语，作后置定语修饰 his book，说明书中附有补充病例。supplementary 表示这些病例是在菲普斯一例之外补充的，回应了上句学会认为证据不足的意见。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "with 介词短语作后置定语表示“附有、带有”",
+    "explain": "with + 名词 放在名词后，可以说明该事物附带或包含的部分，如 a house with a garden（带花园的房子）、a report with detailed charts。本句 his book ... with supplementary cases 指“附有补充病例的书”。翻译时可以前置为定语，也可拆成独立分句，视频译为“书中附上了补充病例”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum sells a guidebook with maps of every floor.",
+      "zh": "博物馆出售一本附有各层地图的导览手册。"
+     }
+    ]
+   },
+   {
+    "title": "书名作同位语",
+    "explain": "书名、电影名、机构名等专名常作前面普通名词的同位语，用逗号隔开，如 his first novel, The Silent Shore。英文书名用斜体或首字母大写表示，本句 the Inquiry 是全名的简称，首字母大写。汉语译文要加书名号，视频译为“他的著作《探究》”，同位语直接接在被说明的名词之后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her first novel, The Silent Shore, sold fewer than a thousand copies.",
+      "zh": "她的第一部小说《寂静的海岸》卖出不到一千本。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Inquiry",
+    "explain": "詹纳1798年出版的著作，英文书名很长，开头为 An Inquiry into the Causes and Effects of the Variolae Vaccinae，视频说明给出的中文全名是《关于牛痘的原因与效果的探究》。variolae vaccinae 是牛痘的拉丁语名称。"
+   },
+   {
+    "term": "privately funded",
+    "explain": "私人出资的，与 publicly funded（公共资金资助的）相对；fund 作动词意为“为……提供资金”，如 fund a project。本句指詹纳自费出书，视频译为“私人出资出版了”。"
+   },
+   {
+    "term": "case",
+    "explain": "熟词僻义：case 在医学语境中指病例，如 a case of flu（一例流感）、confirmed cases（确诊病例）。本句 supplementary cases 指补充的病例，视频译为“补充病例”；第16句 The last ... case 也是这个意思。"
+   }
+  ],
+  "translation_tip": "视频译文“1798年6月，他私人出资出版了他的著作《探究》，书中附上了补充病例。”的处理：①privately funded his book 译为“私人出资出版了他的著作”，增补“出版”，把“出资”的用途说清楚，否则“出资著作”搭配不当。②同位语 the Inquiry 加书名号，紧接在“他的著作”之后。③后置定语 with supplementary cases 拆成独立分句，增补“书中”“附上了”，译为“书中附上了补充病例”，避免前置成过长的定语。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The word vaccine",
+   "predicate": "derives from",
+   "object_or_complement": "the Latin vacca",
+   "explain": "主干是 The word vaccine derives from the Latin vacca，derive from 意为“源自”，其中 derive 是不及物动词，from 引出来源。谓语为一般现在时，主动语态，陈述词源这一客观事实。"
+  },
+  "components": [
+   {
+    "text": "The word",
+    "role": "主语中心词",
+    "zh": "英文词"
+   },
+   {
+    "text": "vaccine",
+    "role": "同位语（紧密同位语），说明是哪个词",
+    "zh": "表示疫苗的"
+   },
+   {
+    "text": "derives from",
+    "role": "谓语（derive from：源自）",
+    "zh": "源自"
+   },
+   {
+    "text": "the Latin vacca,",
+    "role": "介词 from 的宾语，Latin 在此指拉丁语",
+    "zh": "拉丁语的vacca"
+   },
+   {
+    "text": "cow.",
+    "role": "同位语，说明 vacca 的词义",
+    "zh": "意思是牛"
+   }
+  ],
+  "structure": "①主语 The word vaccine：vaccine 是 the word 的同位语，二者之间不加逗号，属于紧密同位语，说明“哪个词”。\n②谓语 derives from 用一般现在时，叙述词源这种不受时间影响的客观事实，与前后叙述历史事件用的一般过去时不同。\n③the Latin vacca 是 from 的宾语，Latin 在这里是名词，指拉丁语，the Latin vacca 即“拉丁语词 vacca”。逗号后的 cow 是 vacca 的同位语，说明词义（视频说明：cow 是 vacca 的同位语，说明词义）。\n④本句插在叙述中解释 vaccine 一词的来历：它与 cowpox（牛痘）中的 cow 直接相关，点明疫苗一词的由来正是詹纳的牛痘接种。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "紧密同位语",
+    "explain": "同位语与被说明的名词之间不用逗号隔开时，称为紧密同位语，常见于 the word X、the term X、the name X、my friend Tom、the poet Li Bai 等结构，用来限定“是哪一个”。本句 The word vaccine 中，vaccine 限定是哪个词。与之相对，本句末的 vacca, cow 用逗号隔开，是非紧密同位语，只作补充说明。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The word robot comes from a Czech word meaning forced labour.",
+      "zh": "robot（机器人）一词来自一个意为“强迫劳动”的捷克语词。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时陈述客观事实",
+    "explain": "叙述历史的文章以一般过去时为主，但说到词源、定义、科学规律等不随时间改变的事实时，用一般现在时。本句 derives from 是一般现在时，因为 vaccine 一词至今仍源自 vacca，这一事实不变。考研写作中引用定义、普遍规律时也用一般现在时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The word salary comes from the Latin salarium.",
+      "zh": "salary（薪水）一词来自拉丁语 salarium。"
+     }
+    ]
+   },
+   {
+    "title": "derive from 与 be derived from",
+    "explain": "derive 表示“起源于、来自”时，可以说 derive from sth（不及物），也可以说 be derived from sth（被动），意思相同。derive 作及物动词时还表示“从……获得”，如 derive pleasure from reading（从阅读中获得乐趣）。本句用主动形式 derives from，视频译为“源自”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many English words used in law derive from French.",
+      "zh": "英语中许多法律用语源自法语。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "vaccine 与 vacca",
+    "explain": "vaccine 源自拉丁语 vacca（牛），经形容词 vaccinus（来自牛的）而来；牛痘的拉丁语名称为 variolae vaccinae，詹纳的书名中就用了这个说法。本句说明疫苗一词的由来与牛痘接种直接相关。"
+   },
+   {
+    "term": "Latin",
+    "explain": "名词，拉丁语；首字母必须大写。形容词 Latin 意为“拉丁语的”，如 a Latin phrase。本句 the Latin vacca 意为“拉丁语词 vacca”，视频译为“拉丁语的vacca”。"
+   },
+   {
+    "term": "the word X",
+    "explain": "引出一个单词作讨论对象时，常说 the word X 或 the term X，所引的词在印刷中常用斜体或引号标出。翻译时可译为“X 一词”，本句视频译为“表示疫苗的英文词”。"
+   }
+  ],
+  "translation_tip": "视频译文“表示疫苗的英文词源自拉丁语的vacca，意思是牛。”的处理：①The word vaccine 中的紧密同位语 vaccine 转为定语“表示疫苗的”，增补“英文”，译为“表示疫苗的英文词”，因为汉语读者看到的是“疫苗”而不是英文原词。②derives from 译为“源自”。③the Latin vacca 中 Latin 译为“拉丁语的”，vacca 保留原文。④同位语 cow 单独译出，增补“意思是”交代同位关系，译为“意思是牛”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Jenner",
+   "predicate": "was not",
+   "object_or_complement": "the idea's originator",
+   "explain": "主干是 Jenner was not the idea's originator，主系表结构，否定句。谓语 was not 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Jenner",
+    "role": "主语",
+    "zh": "詹纳"
+   },
+   {
+    "text": "was not",
+    "role": "系动词 + 否定词",
+    "zh": "并不是"
+   },
+   {
+    "text": "the idea's",
+    "role": "定语（名词所有格），修饰 originator",
+    "zh": "这一想法的"
+   },
+   {
+    "text": "originator.",
+    "role": "表语",
+    "zh": "首创者"
+   }
+  ],
+  "structure": "①本句是主系表结构：Jenner + was not + the idea's originator，表语 originator 前有名词所有格 the idea's 作定语。\n②the idea 回指前文用牛痘预防天花的想法：第4句的乡间传说和第5句杰斯蒂1774年的做法都早于詹纳1796年的试验。\n③本句是第四段的主题句，先否定“詹纳是首创者”，下一句再用 His contribution was a test... 说明他真正的贡献，构成“不是……而是……”的论证结构；考研阅读中，这种先否定常见看法、再提出作者观点的写法常设为考点。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "无生命名词的 's 所有格",
+    "explain": "名词所有格 's 多用于人和动物，但新闻、评论中也常用于无生命名词，尤其是组织、地点、时间以及 idea、plan、report 等抽象名词，如 the plan's main weakness、the report's findings，相当于 the main weakness of the plan。本句 the idea's originator 即 the originator of the idea，用 's 更简洁。阅读时遇到 's 要准确找到所属关系，翻译成“……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan's main weakness is its cost.",
+      "zh": "这项计划的主要缺点在于成本。"
+     }
+    ]
+   },
+   {
+    "title": "后缀 -or 表示施动者",
+    "explain": "动词加后缀 -or 或 -er 可以构成表示“做某事的人或物”的名词，如 originate（发起）+ -or = originator（首创者），同类的有 inventor、creator、investigator。以 -ate 结尾的动词通常去掉 e 加 -or，如 educator、translator。考研阅读中利用构词法可以推测生词的意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The inventor of the device never made any money from it.",
+      "zh": "这个装置的发明者从未靠它赚到钱。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "originator",
+    "explain": "首创者，创始人，常接 of，如 the originator of the scheme；动词 originate（起源，发起）。视频译为“首创者”。"
+   },
+   {
+    "term": "the idea",
+    "explain": "指用牛痘使人获得对天花的免疫这一想法。文章先列出民间传说（第4句）和杰斯蒂的实践（第5句），再在本句下结论，论证顺序是先摆事实再给观点。"
+   }
+  ],
+  "translation_tip": "视频译文“詹纳并不是这一想法的首创者。”的处理：①was not 译为“并不是”，加“并”加强否定语气，纠正读者可能以为詹纳是首创者的印象。②名词所有格 the idea's 译为“这一想法的”，用“这一”回指前文用牛痘防天花的想法。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "His contribution",
+   "predicate": "was",
+   "object_or_complement": "a test",
+   "explain": "主干是 His contribution was a test，主系表结构，谓语 was 为一般过去时；句末 so 引导目的状语从句，从句谓语 could replicate and disseminate 由情态动词加并列动词构成，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His contribution",
+    "role": "主语",
+    "zh": "他的贡献"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "a test,",
+    "role": "表语",
+    "zh": "一项试验"
+   },
+   {
+    "text": "with results",
+    "role": "with 复合结构（作后置定语，修饰 a test）：with 及其宾语 results",
+    "zh": "其结果"
+   },
+   {
+    "text": "accessible in print,",
+    "role": "with 复合结构中的宾语补足语（形容词短语）",
+    "zh": "在已出版的书籍中可以获得"
+   },
+   {
+    "text": "so",
+    "role": "连词，引导目的状语从句（= so that）",
+    "zh": "以便"
+   },
+   {
+    "text": "other",
+    "role": "前置定语，修饰 doctors",
+    "zh": "其他"
+   },
+   {
+    "text": "doctors",
+    "role": "目的状语从句的主语",
+    "zh": "医生"
+   },
+   {
+    "text": "could replicate",
+    "role": "目的状语从句的谓语①",
+    "zh": "能够复制"
+   },
+   {
+    "text": "and disseminate",
+    "role": "目的状语从句的谓语②（and 连接并列谓语）",
+    "zh": "并传播"
+   },
+   {
+    "text": "the technique.",
+    "role": "两个并列谓语共用的宾语",
+    "zh": "这项技术"
+   }
+  ],
+  "structure": "①主句 His contribution was a test：主系表结构，a test 作表语，指第6、7句所述的接种牛痘、再接触天花的试验。\n②with results accessible in print 是 with 复合结构（视频说明：结果印成书、人人可以查阅），由 with + 宾语 results + 宾语补足语 accessible in print 构成，作后置定语修饰 a test。accessible 是形容词，in print 意为“以印刷形式，已出版”，对应第9句自费出版的《探究》。\n③so 引导目的状语从句，相当于 so that，与从句中的情态动词 could 配合表示目的。从句主语 other doctors，谓语是 and 连接的 could replicate 和 disseminate，二者共用宾语 the technique。\n④与上一句对照：詹纳的贡献不在于首先想到，而在于做了可检验的试验并公开结果，使别人能够重复验证、推广应用。这是现代科学研究的基本要求。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with 复合结构",
+    "explain": "with 复合结构由“with + 宾语 + 宾语补足语”构成，宾补可以是形容词、副词、介词短语、现在分词、过去分词或不定式。它可作状语，表示伴随、原因、条件等，也可作后置定语。本句 with results accessible in print 中，results 是 with 的宾语，形容词短语 accessible in print 是宾补，整体修饰 a test，指“结果可以在出版物中查阅的试验”。判断方法：去掉 with，results accessible in print 之间存在逻辑上的主表关系，即 results were accessible in print。第14句 with smallpox far from eliminated 是同一结构，作伴随状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He fell asleep with the television still on.",
+      "zh": "他开着电视就睡着了。"
+     },
+     {
+      "en": "The city now has a public library with most of its collection available online.",
+      "zh": "这座城市现在有一座公共图书馆，大部分馆藏都可以在网上查阅。"
+     }
+    ]
+   },
+   {
+    "title": "so (that) 引导目的状语从句",
+    "explain": "so that 引导目的状语从句，意为“以便、为了”，从句中常有 can、could、will、would、may 等情态动词，口语和新闻中 that 常省略，只用 so。so (that) 也可引导结果状语从句，意为“因此、所以”，前面常有逗号，从句一般不含情态动词。本句 so other doctors could replicate... 含有 could，表示詹纳公开试验结果的目的，视频译为“以便”。考研阅读中要根据有无情态动词和上下文区分目的与结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She spoke slowly so that everyone could follow her.",
+      "zh": "她讲得很慢，好让每个人都能跟上。"
+     },
+     {
+      "en": "The data were published online so other researchers could check the findings.",
+      "zh": "这些数据已在网上公布，以便其他研究人员核查研究结果。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语共用一个宾语",
+    "explain": "两个及物动词用 and 或 or 连接，可以共用后面的同一个宾语，如 collect and analyse data。本句 could replicate and disseminate the technique 中，情态动词 could 同时管 replicate 和 disseminate，二者共用宾语 the technique。阅读时要看出宾语同时属于两个动词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The agency collects and analyses data on air quality.",
+      "zh": "该机构收集并分析空气质量数据。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in print",
+    "explain": "以印刷形式；（书）已出版，在售。反义 out of print 意为“绝版的”。本句 accessible in print 指结果印成书、人人可以查阅（视频说明），视频译为“在已出版的书籍中可以获得”。"
+   },
+   {
+    "term": "replicate",
+    "explain": "在科研语境中指重复实验以验证结果，如 replicate a study、replicate the findings；能被他人重复是科学结论可信的重要条件。视频译为“复制”。"
+   },
+   {
+    "term": "disseminate",
+    "explain": "正式用词，意为“传播、散布”（信息、知识、技术等），如 disseminate information。视频译为“传播”。"
+   },
+   {
+    "term": "contribution",
+    "explain": "贡献，常接 to，如 make a major contribution to science；也可指捐款、投稿。本句 His contribution 与上一句 originator 对照，强调詹纳的贡献在于试验和公开发表。"
+   }
+  ],
+  "translation_tip": "视频译文“他的贡献是一项试验，其结果在已出版的书籍中可以获得，以便其他医生能够复制并传播这项技术。”的处理：①主系表结构顺译为“他的贡献是一项试验”，不定冠词 a 译为“一项”。②with 复合结构拆成独立分句，with results 译为“其结果”，“其”指试验；accessible in print 译为“在已出版的书籍中可以获得”，把 in print 具体化为“已出版的书籍”。③so 引导的目的状语从句译为“以便……”，放在句末，与英文语序一致。④并列谓语 could replicate and disseminate 译为“能够复制并传播”，could 译为“能够”，共用宾语译为“这项技术”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "experimentation",
+   "predicate": "would be",
+   "object_or_complement": "unethical",
+   "explain": "主干是 experimentation would be unethical，主系表结构。would be 中的 would 表示假设性的判断：放在今天的标准下会是怎样，属于含蓄虚拟语气。"
+  },
+  "components": [
+   {
+    "text": "By",
+    "role": "介词，By today's standards 作状语，表示判断的依据",
+    "zh": "按"
+   },
+   {
+    "text": "today's",
+    "role": "定语（名词所有格），修饰 standards",
+    "zh": "今天的"
+   },
+   {
+    "text": "standards,",
+    "role": "介词 by 的宾语",
+    "zh": "标准"
+   },
+   {
+    "text": "experimentation",
+    "role": "主语",
+    "zh": "做实验"
+   },
+   {
+    "text": "on a child",
+    "role": "后置定语（介词短语），修饰 experimentation，说明实验对象",
+    "zh": "拿孩子"
+   },
+   {
+    "text": "without",
+    "role": "介词，without informed consent 作后置定语，修饰 experimentation，说明条件",
+    "zh": "在没有取得"
+   },
+   {
+    "text": "informed",
+    "role": "前置定语，修饰 consent",
+    "zh": "知情"
+   },
+   {
+    "text": "consent",
+    "role": "介词 without 的宾语",
+    "zh": "同意的情况下"
+   },
+   {
+    "text": "would be",
+    "role": "系动词（would 表示假设性判断）",
+    "zh": "属于"
+   },
+   {
+    "text": "unethical.",
+    "role": "表语（形容词）",
+    "zh": "不道德行为"
+   }
+  ],
+  "structure": "①By today's standards 是介词短语作状语，by 意为“按照、依据”，表示下面的判断以今天的标准为依据。\n②主语中心词是 experimentation，后面有两个介词短语作后置定语：on a child 说明实验的对象（experiment on sb：拿某人做实验），without informed consent 说明实验的条件（没有取得知情同意）。without 短语在语义上也带有条件意味。\n③谓语 would be unethical，主系表结构。would 表示一种假设：詹纳的试验发生在1796年，如果放在今天进行就不合伦理。句中没有 if 从句，条件由 By today's standards 暗含，属于含蓄虚拟语气。\n④本句是作者对詹纳试验的评价：上一句肯定其贡献，本句用今天的伦理标准指出其问题，态度客观，没有一味赞扬。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "含蓄虚拟语气",
+    "explain": "虚拟语气不一定有 if 从句，条件可以隐含在介词短语、副词、上下文中，如 without、but for、otherwise、in a different situation、by today's standards 等，主句仍用 would/could/might + 动词原形（与现在或将来情况相反）或 would/could/might have done（与过去事实相反）。本句的条件由 By today's standards 暗含，意思是“如果按今天的标准来看”，所以用 would be。考研阅读中遇到没有 if 的 would，要找出隐含的条件，才能读出作者的假设语气。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In a larger city, the shop would attract far more customers.",
+      "zh": "如果开在大一点的城市，这家店会吸引多得多的顾客。"
+     },
+     {
+      "en": "Without the volunteers, the festival would never have taken place.",
+      "zh": "要不是有这些志愿者，这个节日活动根本办不起来。"
+     }
+    ]
+   },
+   {
+    "title": "by 表示依据",
+    "explain": "介词 by 可以表示“按照、根据”，常见搭配有 by today's standards（按今天的标准）、by any measure（无论用什么标准衡量）、by law（依照法律）、by my watch（按我的表）。这类短语常放在句首，说明后面的判断以什么为依据。本句 By today's standards 视频译为“按今天的标准”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By modern standards, the hospital's equipment was primitive.",
+      "zh": "按现代标准，这家医院的设备很简陋。"
+     }
+    ]
+   },
+   {
+    "title": "名词化结构保留动词的介词搭配",
+    "explain": "动词变成名词后，原来的介词搭配常常保留下来，如 experiment on sb 变成 experimentation on sb，rely on 变成 reliance on，oppose 变成 opposition to。名词化结构使句子更简洁、正式，是学术和外刊文章的典型特征。翻译时常把名词还原为动词，本句 experimentation on a child 视频译为“拿孩子做实验”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Public opposition to the new airport has grown steadily.",
+      "zh": "公众对新机场的反对声持续增加。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "informed consent",
+    "explain": "知情同意，医学伦理术语（视频说明）：受试者或患者在充分了解试验或治疗的目的、风险等信息后自愿表示同意。informed 意为“知情的”。儿童作为受试者时，通常还需要监护人同意。"
+   },
+   {
+    "term": "experimentation",
+    "explain": "实验，试验，多为不可数名词，常见 animal experimentation（动物实验）；experimentation on 表示拿某对象做实验。视频与 on a child 合译为“拿孩子做实验”。"
+   },
+   {
+    "term": "unethical",
+    "explain": "不道德的，不符合（职业）道德规范的，由 un- 加 ethical 构成，如 unethical conduct。视频译为“不道德行为”。"
+   },
+   {
+    "term": "by today's standards",
+    "explain": "按今天的标准，用于以现代眼光评价过去的人和事，常暗示当时的标准不同。与之相对的说法有 by the standards of the time（按当时的标准）。"
+   }
+  ],
+  "translation_tip": "视频译文“按今天的标准，拿孩子做实验在没有取得知情同意的情况下，属于不道德行为。”的处理：①By today's standards 译为“按今天的标准”，放在句首。②名词 experimentation 还原为动作，与 on a child 合译为“拿孩子做实验”，比“对一个孩子的实验”更自然。③without informed consent 移到其后，增补“取得”“的情况下”，译为“在没有取得知情同意的情况下”，把条件交代清楚。④would be unethical 译为“属于不道德行为”，would 的假设意味已由句首“按今天的标准”体现；形容词 unethical 转为名词短语“不道德行为”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Jenner",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主干是 Jenner died，主谓结构，die 为不及物动词，不带宾语。谓语 died 为一般过去时；句末 with 复合结构作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "Jenner",
+    "role": "主语",
+    "zh": "詹纳"
+   },
+   {
+    "text": "died",
+    "role": "谓语",
+    "zh": "去世"
+   },
+   {
+    "text": "on 26 January 1823,",
+    "role": "时间状语（介词短语）",
+    "zh": "于1823年1月26日"
+   },
+   {
+    "text": "with smallpox",
+    "role": "伴随状语（with 复合结构）：with 及其宾语 smallpox",
+    "zh": "那时天花"
+   },
+   {
+    "text": "far from",
+    "role": "状语，修饰 eliminated，表示“远未”",
+    "zh": "还远未被"
+   },
+   {
+    "text": "eliminated.",
+    "role": "with 复合结构中的宾语补足语（过去分词，表示被动）",
+    "zh": "消除"
+   }
+  ],
+  "structure": "①主句 Jenner died on 26 January 1823，主谓结构，on 26 January 1823 是时间状语，具体日期前用介词 on。\n②逗号后 with smallpox far from eliminated 是 with 复合结构作伴随状语（视频说明）：with + 宾语 smallpox + 宾语补足语 eliminated。eliminated 是过去分词，与 smallpox 是被动关系，即天花“被消除”；far from 修饰 eliminated，表示“远未”（视频说明：far from…：远未……）。\n③这一结构交代詹纳去世时的背景：牛痘接种虽已问世并开始传播，天花却远没有被消除，为第五段1967年到1980年的根除行动作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with + 宾语 + 过去分词",
+    "explain": "with 复合结构中，宾补用过去分词时，表示宾语与该动词是被动关系或动作已完成，如 with his eyes closed（闭着眼睛）、with the work done（工作做完了）；用现在分词时表示主动或进行，如 with the rain falling。本句 with smallpox far from eliminated 中，天花是被消除的对象，所以用过去分词 eliminated。这一结构常作伴随状语，说明主句动作发生时的情况，翻译时常拆成独立分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She sat by the window with her eyes closed.",
+      "zh": "她闭着眼睛坐在窗边。"
+     },
+     {
+      "en": "The meeting ended with nothing decided.",
+      "zh": "会议结束了，什么也没有决定下来。"
+     }
+    ]
+   },
+   {
+    "title": "far from 表示“远非、根本不”",
+    "explain": "far from 后接形容词、过去分词、名词或动名词，表示否定，意为“远非、远未、根本不”，如 far from perfect（远非完美）、far from finished（远未完成）。far from doing sth 放在句首时还可表示“非但没有……反而……”，如 Far from helping, his comments made things worse。考研阅读中 far from 是隐性否定，含有 far from 的句子常与作者态度有关，不能理解成“离……很远”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The results of the survey are far from conclusive.",
+      "zh": "这项调查的结果远不能下定论。"
+     },
+     {
+      "en": "Far from slowing down, the company's growth has accelerated.",
+      "zh": "这家公司的增长非但没有放缓，反而加快了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "far from eliminated",
+    "explain": "远未被消除（视频说明：far from…：远未……）。eliminate 意为“消除，根除”，常见 eliminate poverty、eliminate waste；在比赛语境中 be eliminated 指被淘汰。"
+   },
+   {
+    "term": "die on + 日期",
+    "explain": "具体某一天用介词 on，如 on 26 January 1823；只说年份或月份用 in，如 in 1823、in January 1823。本句视频译为“于1823年1月26日去世”。"
+   }
+  ],
+  "translation_tip": "视频译文“詹纳于1823年1月26日去世，那时天花还远未被消除。”的处理：①时间状语 on 26 January 1823 前移到谓语前，译为“于1823年1月26日去世”，“于”使表达更书面。②with 复合结构拆为独立分句，增补“那时”点明它与主句的时间关系，译为“那时天花还远未被消除”。③far from eliminated 译为“还远未被消除”，“被”体现过去分词的被动意义，“还”强调直到詹纳去世时状态仍是如此。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "the WHO",
+   "predicate": "launched",
+   "object_or_complement": "an intensified, concerted campaign",
+   "explain": "主干是 the WHO launched an intensified, concerted campaign，主谓宾结构。谓语 launched 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1967",
+    "role": "时间状语（介词短语）",
+    "zh": "1967年"
+   },
+   {
+    "text": "the WHO",
+    "role": "主语",
+    "zh": "世界卫生组织"
+   },
+   {
+    "text": "launched",
+    "role": "谓语",
+    "zh": "发起了"
+   },
+   {
+    "text": "an intensified,",
+    "role": "前置定语（intensified 为过去分词），修饰 campaign",
+    "zh": "一场强化"
+   },
+   {
+    "text": "concerted",
+    "role": "前置定语（形容词），与 intensified 并列，修饰 campaign",
+    "zh": "共同筹划的"
+   },
+   {
+    "text": "campaign",
+    "role": "宾语",
+    "zh": "运动"
+   },
+   {
+    "text": "to eradicate smallpox.",
+    "role": "后置定语（不定式短语），修饰 campaign，说明运动的目标",
+    "zh": "要根除天花"
+   }
+  ],
+  "structure": "①In 1967 是时间状语。主句 the WHO launched an intensified, concerted campaign，launch a campaign 意为“发起运动”。\n②campaign 前有两个并列的形容词性定语 intensified 和 concerted，用逗号隔开：intensified 是过去分词作定语，意为“强化的、加强的”，暗示此前已有相关行动，1967年起加大了力度；concerted 意为“协同一致的”，视频译为“共同筹划的”。\n③不定式短语 to eradicate smallpox 作后置定语，修饰 campaign，说明这场运动的目标是根除天花。\n④第五段从1967年写起，与上一句詹纳去世时“天花远未被消除”相接，中间跨越一百多年。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "并列形容词之间用逗号",
+    "explain": "两个或多个形容词从不同方面平行地修饰同一个名词时，称为并列形容词，中间用逗号隔开，如 a long, difficult negotiation。判断方法：能在中间加 and、或者调换顺序而意思不变，就用逗号。若前一个形容词修饰的是“后一个形容词 + 名词”整体，则不加逗号，如 a large wooden table。本句 an intensified, concerted campaign 中，intensified 和 concerted 平行修饰 campaign，视频译为“强化、共同筹划的”，英文逗号对应汉语顿号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It was a long, difficult negotiation.",
+      "zh": "那是一场漫长而艰难的谈判。"
+     },
+     {
+      "en": "The village is known for its narrow stone streets.",
+      "zh": "这个村子以狭窄的石板街道闻名。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作后置定语",
+    "explain": "不定式可以放在名词后作定语，说明该名词的目的、内容或将要发生的动作，常修饰 campaign、plan、effort、attempt、decision、ability 等名词，如 a plan to build a new airport。本句 a campaign to eradicate smallpox 中，不定式说明运动的目标。翻译时可前置为“……的”，也可拆开，视频拆译为“要根除天花”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city announced a plan to plant 10,000 trees along its main roads.",
+      "zh": "该市宣布了一项在主干道沿线种植1万棵树的计划。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词作前置定语",
+    "explain": "单个过去分词常放在名词前作定语，及物动词的过去分词表示被动或完成，如 a broken window、intensified competition（加剧的竞争）。本句 intensified 修饰 campaign，表示“被强化的、加强了的”运动。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Intensified competition has forced many small shops to close.",
+      "zh": "竞争加剧，迫使许多小商店关门。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the WHO",
+    "explain": "World Health Organization 的缩写，世界卫生组织，联合国专门机构，1948年成立，总部设在日内瓦。缩写前加 the，读作字母 W-H-O。"
+   },
+   {
+    "term": "launch a campaign",
+    "explain": "发起运动或活动；launch 还可表示“发射（火箭）、推出（产品）、启动（项目）”。本句视频译为“发起了”。"
+   },
+   {
+    "term": "concerted",
+    "explain": "协同一致的，齐心协力的，常见 a concerted effort（共同努力）、concerted action（一致行动）。视频译为“共同筹划的”。"
+   },
+   {
+    "term": "eradicate",
+    "explain": "根除，彻底消灭，比 eliminate 语气更强，强调连根拔除，常用于疾病、贫困、腐败等，如 eradicate a disease。视频译为“根除”。"
+   }
+  ],
+  "translation_tip": "视频译文“1967年，世界卫生组织发起了一场强化、共同筹划的运动，要根除天花。”的处理：①缩写 the WHO 译为全称“世界卫生组织”。②两个并列前置定语译为“强化、共同筹划的”，英文逗号转为汉语顿号，不定冠词 an 译为量词“一场”。③不定式后置定语 to eradicate smallpox 拆出单独成句，译为“要根除天花”，“要”体现不定式表示的目标，避免“一场强化、共同筹划的根除天花的运动”这样定语过长。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "The last naturally occurring case",
+   "predicate": "was diagnosed",
+   "object_or_complement": "",
+   "explain": "主干是 The last naturally occurring case was diagnosed，主谓结构。谓语 was diagnosed 为一般过去时被动语态，主语 case 是被确诊的对象。"
+  },
+  "components": [
+   {
+    "text": "The last",
+    "role": "前置定语，修饰 case",
+    "zh": "最后一例"
+   },
+   {
+    "text": "naturally",
+    "role": "状语（副词），修饰 occurring",
+    "zh": "自然"
+   },
+   {
+    "text": "occurring",
+    "role": "前置定语（现在分词），修饰 case",
+    "zh": "发生的"
+   },
+   {
+    "text": "case",
+    "role": "主语中心词",
+    "zh": "病例"
+   },
+   {
+    "text": "was diagnosed",
+    "role": "谓语（一般过去时被动语态）",
+    "zh": "确诊"
+   },
+   {
+    "text": "in Somalia",
+    "role": "地点状语（介词短语）",
+    "zh": "在索马里"
+   },
+   {
+    "text": "on 26 October 1977.",
+    "role": "时间状语（介词短语）",
+    "zh": "于1977年10月26日"
+   }
+  ],
+  "structure": "①主语中心词是 case（病例），前面有两层前置定语：The last 和 naturally occurring。occurring 是不及物动词 occur 的现在分词作定语，表示主动意义“发生的”；naturally 是副词，修饰 occurring，naturally occurring 即“自然发生的”（视频说明：区别于后来的实验室感染）。\n②谓语 was diagnosed 是一般过去时被动语态；in Somalia 是地点状语，on 26 October 1977 是时间状语。英语状语一般先地点后时间，汉语则先时间后地点。\n③naturally 一词是有意的限定：1978年英国伯明翰发生过实验室感染病例，所以作者说的是“最后一例自然发生的病例”，用词严谨。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "副词 + 现在分词作前置定语",
+    "explain": "现在分词可以放在名词前作定语，表示主动或正在进行，前面还可以加副词修饰，构成“副词 + 现在分词 + 名词”，如 rapidly rising prices（快速上涨的物价）、a naturally occurring substance（天然存在的物质）。本句 naturally occurring case 中，occur 是不及物动词，只能用现在分词作定语，不能用过去分词。翻译时副词常转为形容词性成分，视频译为“自然发生的”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Rapidly rising rents are pushing young families out of the city centre.",
+      "zh": "快速上涨的房租正把年轻家庭挤出市中心。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态译为意义被动",
+    "explain": "英语被动语态比汉语用得多，汉语许多动词本身就能表达被动意义，不必加“被”字，如“问题解决了”“病例确诊了”。本句 was diagnosed 视频译为“确诊”，不说“被确诊”，读来更自然。考研翻译中要避免机械地把所有被动句都译成“被……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new bridge was opened to traffic last month.",
+      "zh": "新桥上个月通车了。"
+     }
+    ]
+   },
+   {
+    "title": "地点状语与时间状语的顺序",
+    "explain": "英语句末同时有地点和时间状语时，一般地点在前、时间在后，如 in Somalia on 26 October 1977；汉语习惯时间在前、地点在后，并都放在谓语之前。翻译时要调整语序，本句视频译为“于1977年10月26日在索马里确诊”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The conference will be held in Geneva on 3 March.",
+      "zh": "会议将于3月3日在日内瓦举行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "naturally occurring",
+    "explain": "自然发生的，天然存在的，常用于科学文本，如 naturally occurring chemicals（天然存在的化学物质）。本句与实验室感染相对（视频说明）：1977年索马里病例之后，1978年英国伯明翰还发生过一起与实验室有关的天花感染。"
+   },
+   {
+    "term": "case",
+    "explain": "熟词僻义：病例，如 the first case、confirmed cases。本句 the last ... case 视频译为“最后一例……病例”。"
+   },
+   {
+    "term": "diagnose",
+    "explain": "诊断，确诊；常用被动 be diagnosed with sth（被诊断患有某病），如 be diagnosed with diabetes。名词 diagnosis。视频译为“确诊”。"
+   },
+   {
+    "term": "Somalia",
+    "explain": "索马里，位于非洲东部，地处非洲之角。"
+   }
+  ],
+  "translation_tip": "视频译文“最后一例自然发生的病例于1977年10月26日在索马里确诊。”的处理：①主语的前置定语保持原顺序，The last 译为“最后一例”，增补量词“例”；naturally occurring 译为“自然发生的”。②被动语态 was diagnosed 译为“确诊”，汉语用意义被动，不加“被”字。③状语语序调整为“于1977年10月26日在索马里”，时间在前、地点在后，并都放到谓语“确诊”之前。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "the World Health Assembly",
+   "predicate": "declared",
+   "object_or_complement": "the world free of smallpox（宾语 + 宾语补足语）",
+   "explain": "主干是 the World Health Assembly declared the world free of smallpox，主谓宾宾补结构，the world 是宾语，形容词短语 free of smallpox 是宾语补足语。谓语 declared 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 8 May 1980",
+    "role": "时间状语（介词短语）",
+    "zh": "1980年5月8日"
+   },
+   {
+    "text": "the World Health Assembly",
+    "role": "主语",
+    "zh": "世界卫生大会"
+   },
+   {
+    "text": "formally",
+    "role": "方式状语，修饰 declared",
+    "zh": "正式"
+   },
+   {
+    "text": "declared",
+    "role": "谓语",
+    "zh": "宣布"
+   },
+   {
+    "text": "the world",
+    "role": "宾语",
+    "zh": "全世界"
+   },
+   {
+    "text": "free of",
+    "role": "宾语补足语（形容词短语 free of smallpox 的核心）",
+    "zh": "已摆脱"
+   },
+   {
+    "text": "smallpox,",
+    "role": "free of 的宾语",
+    "zh": "天花"
+   },
+   {
+    "text": "the only human disease",
+    "role": "同位语，补充说明 smallpox：中心词 disease 及前置定语",
+    "zh": "唯一……的人类疾病"
+   },
+   {
+    "text": "ever wiped out.",
+    "role": "后置定语（过去分词短语），修饰 disease，ever 表示“迄今”",
+    "zh": "迄今……被彻底消灭"
+   }
+  ],
+  "structure": "①On 8 May 1980 是时间状语。主句 the World Health Assembly formally declared the world free of smallpox，formally 作方式状语，修饰 declared。\n②declare A free of B（视频说明：宣布 A 已摆脱 B）：the world 是宾语，free of smallpox 是形容词短语作宾语补足语，说明宣布之后宾语所处的状态。\n③逗号后的 the only human disease ever wiped out 是 smallpox 的同位语（视频说明），对天花作补充评价。同位语内部：中心词 disease，the only 和 human 作前置定语；ever wiped out 是过去分词短语作后置定语，相当于 that has ever been wiped out，ever 与 the only 呼应，意为“迄今为止”；wipe out：彻底消灭（视频说明）。\n④human 一词有限定作用：说的是人类疾病中唯一被消灭的，与第16句的 naturally 一样，都体现了作者用词的严谨。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "declare + 宾语 + 形容词（宾语补足语）",
+    "explain": "declare、consider、find、make、keep 等动词可以接“宾语 + 形容词（短语）”，形容词作宾语补足语，说明宾语的状态，如 declare the meeting open（宣布会议开幕）、declare sb dead。free of 是形容词短语，意为“没有……的，摆脱了……的”，本句 declared the world free of smallpox 即“宣布全世界已摆脱天花”。变成被动时宾补随宾语提前，如 The world was declared free of smallpox。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The inspectors declared the building safe to enter.",
+      "zh": "检查人员宣布这栋楼可以安全进入。"
+     },
+     {
+      "en": "After three years without a new case, the region was declared free of the disease.",
+      "zh": "连续三年没有新病例后，该地区被宣布已消除这种疾病。"
+     }
+    ]
+   },
+   {
+    "title": "the only/最高级 + 名词 + ever + 过去分词",
+    "explain": "the only、the first、the last 或形容词最高级修饰名词时，后面常接 ever + 过去分词作后置定语，表示“迄今为止（被……过）的”，如 the largest diamond ever found（迄今发现的最大钻石）。ever 在这里加强“有史以来”的意味。本句 the only human disease ever wiped out 即“迄今唯一被彻底消灭的人类疾病”，过去分词 wiped out 表示被动，相当于 that has ever been wiped out。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It was the coldest winter ever recorded in the region.",
+      "zh": "那是该地区有记录以来最冷的冬天。"
+     }
+    ]
+   },
+   {
+    "title": "句末同位语",
+    "explain": "同位语可以放在句末，用逗号与前文隔开，补充说明紧挨在它前面的名词，常带有评价意味。本句 the only human disease ever wiped out 说明句末的 smallpox，强调这一成就的独特性。阅读时要看清同位语说明的是哪个名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She moved to Lisbon, a city she had loved since childhood.",
+      "zh": "她搬到了里斯本，一座她从小就喜爱的城市。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the World Health Assembly",
+    "explain": "世界卫生大会，世界卫生组织的最高决策机构，由各成员国代表组成，每年在日内瓦召开。1980年的这次大会正式宣布天花已被根除。"
+   },
+   {
+    "term": "free of",
+    "explain": "没有……的，摆脱了……的，如 free of charge（免费）、tax-free（免税的）。本句 declare A free of B 视频说明为“宣布 A 已摆脱 B”。"
+   },
+   {
+    "term": "wipe out",
+    "explain": "短语动词，彻底消灭，摧毁（视频说明），如 wipe out a species；也可表示“使筋疲力尽”或“抹去（数据、记忆）”。本句 ever wiped out 视频译为“迄今……被彻底消灭”。"
+   },
+   {
+    "term": "the only human disease",
+    "explain": "human 限定为人类疾病：动物疾病中，牛瘟（rinderpest）于2011年被宣布根除，所以文章特意说天花是唯一被消灭的人类疾病。"
+   }
+  ],
+  "translation_tip": "视频译文“1980年5月8日，世界卫生大会正式宣布全世界已摆脱天花，天花也成为迄今唯一被彻底消灭的人类疾病。”的处理：①时间状语按年、月、日顺序放句首。②宾语加宾补 the world free of smallpox 译为“全世界已摆脱天花”，形容词短语 free of 转译为动词“摆脱”，增补“已”表示这一状态已经实现。③句末同位语拆为独立分句，重复“天花”作主语，增补“也成为”，译为“天花也成为迄今唯一被彻底消灭的人类疾病”。④同位语中的后置定语 ever wiped out 前移，ever 译为“迄今”，wiped out 译为“被彻底消灭”，与“唯一”“人类疾病”组合成汉语的前置定语。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "That pronouncement",
+   "predicate": "came",
+   "object_or_complement": "",
+   "explain": "主干是 That pronouncement came，主谓结构，come 为不及物动词，表示（事件）出现、到来。谓语 came 为一般过去时；句末是 after 引导的时间状语从句，前面的 almost 184 years 说明两件事相隔的时间。"
+  },
+  "components": [
+   {
+    "text": "That pronouncement",
+    "role": "主语",
+    "zh": "那一宣告"
+   },
+   {
+    "text": "came",
+    "role": "谓语（不及物动词）",
+    "zh": "出现在"
+   },
+   {
+    "text": "almost 184 years",
+    "role": "状语（表示时间差的名词短语），修饰 after 从句",
+    "zh": "近184年"
+   },
+   {
+    "text": "after Phipps was vaccinated.",
+    "role": "时间状语从句（after 引导）",
+    "zh": "菲普斯接种疫苗之后"
+   }
+  ],
+  "structure": "①主句 That pronouncement came：That pronouncement 回指上句世界卫生大会的宣布，用一个名词概括上句的内容；came 意为“出现、到来”。\n②after Phipps was vaccinated 是时间状语从句（视频说明），从句谓语 was vaccinated 是一般过去时被动语态，菲普斯是“被接种”的一方。\n③almost 184 years 放在 after 前，修饰整个时间状语从句，表示两件事相隔多久，构成“时间段 + after 从句”。\n④时间核算：从1796年5月14日到1980年5月8日，还差几天才满184年，所以用 almost（近）。本句首尾呼应，把标题和第6句中的那道划痕和结尾的根除宣告联系起来，对应标题 From a Scratch to a World Without Smallpox。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "时间段 + after/before 表示相隔多久",
+    "explain": "时间段可以放在 after、before、later、earlier 前面，说明两件事相隔多久，如 two years after he left（他离开两年后）、a week before the exam（考试前一周）。after/before 后面可以接从句、名词或动名词。本句 almost 184 years after Phipps was vaccinated 即“菲普斯接种疫苗之后的近184年”。注意时间段的位置在 after 之前，不能说 after 184 years Phipps was vaccinated。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company went bankrupt only two years after it was founded.",
+      "zh": "这家公司成立仅两年就破产了。"
+     },
+     {
+      "en": "The law was passed just a month before the election.",
+      "zh": "这项法律在大选前一个月才获得通过。"
+     }
+    ]
+   },
+   {
+    "title": "用名词回指上文",
+    "explain": "英语常用“this/that + 概括性名词”回指前一句或前几句的内容，使行文衔接紧凑，如 This decision、That pronouncement、Such a move。本句 That pronouncement 指上句世界卫生大会正式宣布天花已被根除这件事。考研阅读中，这类回指名词常是解题线索，要能准确找到它指代的内容。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The government announced a tax cut. The decision surprised many economists.",
+      "zh": "政府宣布减税。这一决定让许多经济学家感到意外。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pronouncement",
+    "explain": "正式宣告，声明，常指权威机构或人物的正式表态，如 an official pronouncement。它是 pronounce（宣告）的名词；不要与 pronunciation（发音）混淆，后者拼写中没有 ou。视频译为“宣告”。"
+   },
+   {
+    "term": "come",
+    "explain": "come 可以表示事件“出现、发生、到来”，主语是事件，常与时间状语连用，如 The news came as a shock。本句视频译为“出现在”。"
+   },
+   {
+    "term": "vaccinate",
+    "explain": "给……接种疫苗，常用被动 be vaccinated against sth，如 be vaccinated against measles；名词 vaccination。本句 was vaccinated 视频译为“接种疫苗”。"
+   },
+   {
+    "term": "almost 184 years",
+    "explain": "1796年5月14日到1980年5月8日差几天满184年，所以说 almost（近）。外刊中 almost、nearly、just over 等词常用来精确地修饰数字。"
+   }
+  ],
+  "translation_tip": "视频译文“那一宣告，出现在菲普斯接种疫苗之后的近184年。”的处理：①That pronouncement 译为“那一宣告”，“那一”回指上句，后加逗号作停顿，突出话题。②came 译为“出现在”。③almost 184 years after Phipps was vaccinated 的语序调整为“菲普斯接种疫苗之后的近184年”：after 从句前置作“之后”的修饰语，时间段“近184年”放到最后；被动 was vaccinated 译为主动形式的“接种疫苗”。"
+ }
+]

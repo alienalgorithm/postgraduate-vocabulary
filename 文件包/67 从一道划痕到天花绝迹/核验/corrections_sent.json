@@ -1,0 +1,51 @@
+[
+ {
+  "key": "3",
+  "field": "translation_tip",
+  "before": "增补“那样”补足比较对象，“不如……那样频繁”",
+  "after": "用“不如……那样频繁”译出 less frequently than 的比较，增补“那样”使比较说法完整",
+  "reason": "“那样”并不补足比较对象（比较对象是“自然天花”），原说法不准确"
+ },
+ {
+  "key": "6",
+  "field": "explain",
+  "before": "不加连字符、名词用复数时只能作表语，如 The boy is eight years old。",
+  "after": "不加连字符、名词用复数时一般作表语，如 The boy is eight years old，也可作后置定语，如 a boy eight years old。",
+  "reason": "“只能作表语”说得过死，eight years old 也可作后置定语"
+ },
+ {
+  "key": "7",
+  "field": "role",
+  "before": "介词短语（expose A to B 中的 B）",
+  "after": "状语（介词短语，expose A to B 中的 B，表示接触的对象）",
+  "reason": "“介词短语”不是句子成分，改为具体成分，与第6句 into a scratch 的标法一致"
+ },
+ {
+  "key": "9",
+  "field": "explain",
+  "before": "英文全名 An Inquiry into the Causes and Effects of the Variolae Vaccinae，",
+  "after": "英文书名很长，开头为 An Inquiry into the Causes and Effects of the Variolae Vaccinae，",
+  "reason": "所引并非全名（全名后面还有 a Disease Discovered in Some of the Western Counties of England 等），不能称“全名”"
+ },
+ {
+  "key": "14",
+  "field": "role",
+  "before": "修饰 eliminated，表示“远未”",
+  "after": "状语，修饰 eliminated，表示“远未”",
+  "reason": "role 缺少成分名称，补为状语"
+ },
+ {
+  "key": "16",
+  "field": "role",
+  "before": "副词，修饰 occurring",
+  "after": "状语（副词），修饰 occurring",
+  "reason": "role 只写词性未写成分，补为状语"
+ },
+ {
+  "key": "18",
+  "field": "structure",
+  "before": "把文章开头的那道划痕",
+  "after": "把标题和第6句中的那道划痕",
+  "reason": "划痕出现在第6句（和标题），不在文章开头，原说法与原文不符"
+ }
+]
