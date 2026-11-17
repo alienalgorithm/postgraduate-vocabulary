@@ -1,0 +1,1786 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "the Italian chemist Sobrero",
+   "predicate": "made",
+   "object_or_complement": "nitroglycerin",
+   "explain": "主干是 the Italian chemist Sobrero made nitroglycerin，主谓宾结构。谓语 made 是 make 的过去式，一般过去时，主动语态，叙述过去某一时间发生的事；句末 a colourless, oily liquid of acute instability 是 nitroglycerin 的同位语，不属于主干。"
+  },
+  "components": [
+   {
+    "text": "Around 1847",
+    "role": "时间状语（介词短语，around 表示“大约”）",
+    "zh": "1847年前后"
+   },
+   {
+    "text": "the Italian chemist Sobrero",
+    "role": "主语（the Italian chemist 与 Sobrero 构成紧密同位关系，指同一个人）",
+    "zh": "意大利化学家索布雷罗"
+   },
+   {
+    "text": "first",
+    "role": "时间状语（副词，意为“第一次”），修饰 made",
+    "zh": "首次"
+   },
+   {
+    "text": "made",
+    "role": "谓语",
+    "zh": "制得"
+   },
+   {
+    "text": "nitroglycerin,",
+    "role": "宾语",
+    "zh": "硝酸甘油"
+   },
+   {
+    "text": "a colourless, oily liquid",
+    "role": "同位语（名词短语），补充说明 nitroglycerin",
+    "zh": "这是一种无色、油状的液体"
+   },
+   {
+    "text": "of acute instability.",
+    "role": "后置定语（介词短语，of + 抽象名词表示特征），修饰 liquid",
+    "zh": "具有极度的不稳定性"
+   }
+  ],
+  "structure": "①主句是 the Italian chemist Sobrero first made nitroglycerin：主语 the Italian chemist Sobrero，谓语 made，宾语 nitroglycerin。句首 Around 1847 是时间状语，后面没有逗号，直接接主语，这在时间状语较短时很常见。\n②主语内部，the Italian chemist 和人名 Sobrero 之间不加逗号，构成紧密同位语：前者说明身份，后者给出姓名，二者指同一人。副词 first 放在谓语前，意为“第一次，首次”，说明索布雷罗是最早制得这种物质的人。\n③逗号后的 a colourless, oily liquid of acute instability 是名词短语作同位语，对宾语 nitroglycerin 加以解释：中心词 liquid，前面 colourless 和 oily 两个并列形容词作前置定语，后面 of acute instability 是介词短语作后置定语。\n④of acute instability 是“of + 抽象名词”结构，相当于形容词短语 acutely unstable，即“极不稳定的”。acute 修饰 instability，表示程度极高，视频取“极度的”。这一特征为下文的爆炸事故埋下伏笔。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是对前面名词作解释、说明的成分，与被说明的名词指同一事物，常用逗号隔开，放在被说明的名词之后。本句 a colourless, oily liquid of acute instability 解释 nitroglycerin 是什么，去掉后主句仍然完整。同位语放在句末时，读者容易误以为它是新的宾语或主语，判断方法是看它能否与前面的名词画等号：nitroglycerin 就是 a colourless, oily liquid。考研阅读中，句末同位语常用来解释专业术语或专有名词，是理解生词的线索；翻译时可译成“这是一种……”“即……”等独立分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The team tested graphene, a sheet of carbon only one atom thick.",
+      "zh": "研究团队测试了石墨烯，这是一种只有一个原子厚的碳薄片。"
+     },
+     {
+      "en": "The town is famous for its annual festival, a week of music, dancing, and street food.",
+      "zh": "这座小镇以一年一度的节日而闻名，那是为期一周的音乐、舞蹈和街头美食盛会。"
+     }
+    ]
+   },
+   {
+    "title": "of + 抽象名词作定语",
+    "explain": "“of + 抽象名词”可作定语或表语，表示人或事物具有的性质、特征，意思相当于对应的形容词，语气更正式。如 a man of courage = a courageous man，a matter of importance = an important matter。本句 a liquid of acute instability 相当于 an acutely unstable liquid，抽象名词 instability 前还可以加形容词 acute 表示程度。作表语时如 This book is of great value（= very valuable）。考研写作中用 of great significance、of vital importance 替换 very important，可以提高语言的正式程度。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "These findings are of great significance for future cancer research.",
+      "zh": "这些发现对今后的癌症研究意义重大。"
+     },
+     {
+      "en": "She was a woman of remarkable patience and quiet determination.",
+      "zh": "她是一位极有耐心、意志坚定而不张扬的女性。"
+     }
+    ]
+   },
+   {
+    "title": "并列形容词之间的逗号",
+    "explain": "两个形容词从同一角度描述名词、可以互换位置并在中间加 and 时，属于并列形容词，中间用逗号隔开，如 a colourless, oily liquid = a colourless and oily liquid = an oily, colourless liquid。如果后一个形容词与名词关系更紧密，前一个形容词修饰的是“形容词 + 名词”整体，就不加逗号，如 a large black dog 不说 a large, black dog。写作中可用“能否插入 and、能否互换”两条标准判断是否需要逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It was a long, exhausting journey across the desert.",
+      "zh": "那是一段穿越沙漠的漫长而令人筋疲力尽的旅程。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Sobrero",
+    "explain": "意大利化学家阿斯卡尼奥·索布雷罗（Ascanio Sobrero），一般认为他在1847年首次制得硝酸甘油。原文用 Around 1847，表示年份是约数，视频译为“1847年前后”。"
+   },
+   {
+    "term": "acute",
+    "explain": "视频说明：acute 的核心意思是“尖锐而强烈”，既可指锐角（an acute angle），也可形容感官极度敏锐（acute hearing）、问题严峻紧迫（an acute shortage of water）或疾病发作急骤（acute illness，与 chronic“慢性的”相对）。本句 acute instability 指不稳定的程度极高，视频译为“极度的”。"
+   },
+   {
+    "term": "around + 时间/数字",
+    "explain": "around 用在数字或年份前表示“大约”，相当于 about、approximately，如 around 1847、around 200 people。学术写作中年份不确切时，也写作 c. 1847（circa，拉丁语“大约”）。"
+   },
+   {
+    "term": "first 与 at first",
+    "explain": "first 放在动词前作副词，意为“第一次，首次”，first made 相当于 made for the first time；at first 意为“起初”，暗示后来情况有变化，如 At first nobody believed him。二者不能互换。"
+   }
+  ],
+  "translation_tip": "视频译文“1847年前后，意大利化学家索布雷罗首次制得硝酸甘油，这是一种无色、油状的液体，具有极度的不稳定性。”的处理：①Around 1847 译为“1847年前后”，放句首并加逗号。②紧密同位语 the Italian chemist Sobrero 合译为“意大利化学家索布雷罗”，身份在前、姓名在后，与英文顺序一致。③made 在化学语境中译为“制得”，比“制造”更贴合实验室合成的含义。④句末同位语不前置，拆成独立分句“这是一种无色、油状的液体”；后置定语 of acute instability 再拆出一个分句“具有极度的不稳定性”，把“of + 抽象名词”转成动宾结构，避免“一种无色、油状、极度不稳定的液体”这样的长定语。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "A mere droplet",
+   "predicate": "left",
+   "object_or_complement": "his head（宾语）；throbbing violently for hours（宾语补足语）",
+   "explain": "主干是 A mere droplet left his head throbbing，主谓宾宾补结构，即 leave sb/sth doing“使……处于某种状态”。谓语 left 为一般过去时，主动语态；he reported 是插入语，不属于主干。"
+  },
+  "components": [
+   {
+    "text": "A mere droplet",
+    "role": "主语（mere 作前置定语，强调量少）",
+    "zh": "仅仅一小滴"
+   },
+   {
+    "text": "on the tongue,",
+    "role": "后置定语（介词短语），修饰 droplet",
+    "zh": "放在舌头上"
+   },
+   {
+    "text": "he reported,",
+    "role": "插入语（主谓结构，表示信息来源）",
+    "zh": "他报告说"
+   },
+   {
+    "text": "left",
+    "role": "谓语",
+    "zh": "就让"
+   },
+   {
+    "text": "his head",
+    "role": "宾语",
+    "zh": "他头部"
+   },
+   {
+    "text": "throbbing violently",
+    "role": "宾语补足语（现在分词短语，violently 修饰 throbbing）",
+    "zh": "剧烈地抽痛了"
+   },
+   {
+    "text": "for hours.",
+    "role": "时间状语（介词短语，表示持续时间），修饰 throbbing",
+    "zh": "好几个小时"
+   }
+  ],
+  "structure": "①主干是 A mere droplet left his head throbbing：主语 A mere droplet，谓语 left，宾语 his head，现在分词短语 throbbing violently for hours 作宾语补足语，说明头部所处的状态。leave sb/sth doing 表示“使某人或某物处于某种持续的状态”，宾语 his head 与 throb 是主动关系，头部自己在“抽痛”，所以用现在分词。\n②主语中 mere 是只作前置定语的形容词，强调“仅仅、只不过”；on the tongue 是介词短语作后置定语，说明这一小滴放在哪里。\n③he reported 插在主语和谓语之间，前后用逗号隔开，是插入语。视频说明指出它表示这是他自己的说法：一小滴就能引起剧烈头痛，是索布雷罗本人报告的亲身感受。阅读时先把插入语拿掉，把 A mere droplet on the tongue 与 left 连起来。\n④句末 for hours 是时间状语，复数 hours 不带具体数字，表示“好几个小时，很长时间”。整句用 mere 的“少”与 violently、for hours 的“重、久”形成对比，具体说明上句 acute instability 之外硝酸甘油对人体的强烈作用。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "leave + 宾语 + 现在分词作宾语补足语",
+    "explain": "leave 可接复合宾语，表示“使……处于某种状态”。宾语补足语可以是现在分词（主动、持续），如 leave sb waiting；过去分词（被动），如 leave the work unfinished；形容词，如 leave the door open；介词短语，如 leave sb in tears。本句 left his head throbbing violently for hours，head 与 throb 是主动关系，用现在分词表示抽痛持续不断。考研易错点：宾语与动词是被动关系时要用过去分词，如 The storm left many houses damaged，不能写成 damaging。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The sudden cancellation left hundreds of travellers waiting at the airport overnight.",
+      "zh": "航班突然取消，数百名旅客只好在机场等了一整夜。"
+     },
+     {
+      "en": "His vague answer left the committee wondering whether he had read the report at all.",
+      "zh": "他含糊的回答让委员会怀疑他究竟有没有读过那份报告。"
+     }
+    ]
+   },
+   {
+    "title": "插入语表示信息来源",
+    "explain": "he reported、experts say、critics argue、it seems 这类“主语 + 谓语”结构可以插在句中，用逗号隔开，表示信息的来源或说话人的态度。它们本身不是主干，但说明了所述内容是谁的说法。考研阅读中，插入语提示某个观点属于某人，而不一定是作者的观点，做观点题时要分清“谁说的”。本句视频说明：he reported 表示这是他自己的说法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new tax, critics argue, will hit low-income families hardest.",
+      "zh": "批评者认为，这项新税对低收入家庭打击最大。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a mere + 名词",
+    "explain": "mere 只作前置定语，强调数量小、程度轻或不重要，视频译为“仅仅”，如 a mere 5 per cent（仅仅5%）、a mere child（只不过是个孩子）。the mere + 名词 意为“仅仅……就”，如 the mere thought of it（一想到它）。副词形式是 merely。"
+   },
+   {
+    "term": "droplet",
+    "explain": "由 drop（滴）加表示“小”的后缀 -let 构成，意为“小滴”，视频译为“小滴”，“一小滴”中的“一”对应不定冠词 A。同类后缀词有 booklet（小册子）、piglet（小猪）。"
+   },
+   {
+    "term": "throb",
+    "explain": "指心脏、脉搏有节奏地跳动，或身体某部位随脉搏一阵阵地疼痛，常见搭配 a throbbing headache（一阵阵的头痛）、My head was throbbing。本句视频译为“抽痛了”。"
+   },
+   {
+    "term": "for hours",
+    "explain": "for + 不带具体数字的复数时间名词，表示“好几个……，很长时间”，如 for hours、for days、for years。视频译为“好几个小时”。"
+   }
+  ],
+  "translation_tip": "视频译文“仅仅一小滴放在舌头上，他报告说，就让他头部剧烈地抽痛了好几个小时。”的处理：①主语 A mere droplet on the tongue 中的后置定语 on the tongue 没有前置成“舌头上的一小滴”，而是补出动词“放在”，译成“仅仅一小滴放在舌头上”，读起来像条件，语气更自然。②插入语 he reported 保留在原位，译成“他报告说”，前后用逗号隔开，与英文一致。③谓语 left 译为“就让”，增补“就”字，突出“仅仅一小滴”和严重后果之间的反差。④宾语补足语 throbbing violently 译成“剧烈地抽痛了”，副词 violently 按汉语习惯放在动词前；for hours 译为“好几个小时”放在句末。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "a nitroglycerin shed",
+   "predicate": "exploded",
+   "object_or_complement": "",
+   "explain": "主干是 a nitroglycerin shed exploded，主谓结构；explode 在此是不及物动词，不带宾语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 3 September 1864",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "1864年9月3日"
+   },
+   {
+    "text": "a nitroglycerin shed",
+    "role": "主语（nitroglycerin 作前置定语，修饰 shed）",
+    "zh": "一间硝酸甘油棚屋"
+   },
+   {
+    "text": "in Stockholm",
+    "role": "后置定语（介词短语），修饰 shed，说明棚屋所在城市",
+    "zh": "在斯德哥尔摩"
+   },
+   {
+    "text": "exploded.",
+    "role": "谓语（不及物动词）",
+    "zh": "发生爆炸"
+   }
+  ],
+  "structure": "①主干是 a nitroglycerin shed exploded，主语 a nitroglycerin shed，谓语 exploded，explode 作不及物动词，意为“爆炸”。\n②句首 On 3 September 1864 是时间状语，按英式写法“日、月、年”排列，具体到某一天用介词 on。\n③主语中名词 nitroglycerin 作前置定语，说明棚屋与硝酸甘油有关；in Stockholm 是介词短语作后置定语，说明棚屋在哪座城市。视频说明 shed 是“简易房，棚（用于贮藏物品）”。\n④本句和下一句开始第一段的叙事转折：上文讲硝酸甘油极不稳定，这里用一个具体日期和一次爆炸事故证明它的危险。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "日期的写法与介词 on",
+    "explain": "英式英语日期常按“日、月、年”写，如 3 September 1864，读作 the third of September, eighteen sixty-four；美式英语多写作 September 3, 1864，读作 September third。具体某一天（包括某天的上午、下午）前用 on，月份、年份、季节前用 in，钟点前用 at，如 on 3 September、in September、in 1864、at noon。本句同时给出日、月、年，按“最小单位”选介词，用 on。考研完形中常考 on the morning of + 日期，不能用 in。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on the morning of 11 November 1918.",
+      "zh": "该条约于1918年11月11日上午签署。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，前一个名词说明后一个名词的用途、内容、材料或类别，作定语的名词一般用单数。本句 a nitroglycerin shed 中，nitroglycerin 修饰 shed，说明这是与硝酸甘油相关的棚屋；同类结构如 a tool shed（工具棚）、a garden shed（花园里的小棚屋）。翻译时可直接把两个名词连在一起，如视频译为“硝酸甘油棚屋”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Firefighters were called to a chemical warehouse near the port.",
+      "zh": "消防员被紧急召往港口附近的一座化学品仓库。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "shed",
+    "explain": "视频说明为“简易房，棚（用于贮藏物品）”，如 a garden shed、a tool shed。熟词僻义：动词 shed 意为“脱落，流下，摆脱”，考研阅读常见 shed light on sth（阐明，使人了解）、shed jobs（裁员）、shed tears（流泪）。"
+   },
+   {
+    "term": "Stockholm",
+    "explain": "瑞典首都斯德哥尔摩，视频译为“斯德哥尔摩”。诺贝尔是瑞典人，出生于斯德哥尔摩，第4句死于爆炸的埃米尔就是他的弟弟。"
+   },
+   {
+    "term": "explode",
+    "explain": "既可作不及物动词（The bomb exploded，炸弹爆炸了），也可作及物动词（The army exploded the bomb，军队引爆了炸弹）。名词 explosion（爆炸），形容词、名词 explosive（易爆的；炸药）。视频译为“发生爆炸”。"
+   }
+  ],
+  "translation_tip": "视频译文“1864年9月3日，一间硝酸甘油棚屋在斯德哥尔摩发生爆炸。”的处理：①日期按汉语“年、月、日”的顺序译成“1864年9月3日”，放句首加逗号。②后置定语 in Stockholm 没有前置成“斯德哥尔摩的一间棚屋”，而是移到谓语前，译成“在斯德哥尔摩发生爆炸”，读起来是事件发生的地点，更符合新闻叙事习惯。③不定冠词 a 译为量词“一间”；不及物动词 exploded 译成“发生爆炸”，比单说“爆炸”更完整。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The tragic blast",
+   "predicate": "killed",
+   "object_or_complement": "five",
+   "explain": "主干是 The tragic blast killed five，主谓宾结构；数词 five 作宾语，后面省略了 people。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The tragic blast",
+    "role": "主语（The 回指上句的爆炸，tragic 作前置定语）",
+    "zh": "这场悲惨的爆炸"
+   },
+   {
+    "text": "killed",
+    "role": "谓语",
+    "zh": "炸死了"
+   },
+   {
+    "text": "five,",
+    "role": "宾语（数词，相当于 five people）",
+    "zh": "五个人"
+   },
+   {
+    "text": "including Alfred Nobel's younger brother Emil.",
+    "role": "补充说明（including 引导的介词短语），指出 five 中包括谁",
+    "zh": "其中包括阿尔弗雷德·诺贝尔的弟弟埃米尔"
+   }
+  ],
+  "structure": "①主干是 The tragic blast killed five：主语 The tragic blast，谓语 killed，宾语 five。定冠词 The 和名词 blast 回指上句 exploded 所说的爆炸，blast 与 exploded 是同义替换。\n②five 是数词作宾语，后面省略了中心词 people，新闻语体常这样写。\n③逗号后的 including Alfred Nobel's younger brother Emil 是介词短语，视频说明它补充说明死者中有谁。including 是介词，后面的名词短语是死者之一，属于 five 的一部分。\n④including 的宾语中，Alfred Nobel's 是名词所有格，younger brother 与人名 Emil 构成紧密同位语，说明 Emil 的身份。本句首次出现诺贝尔，把硝酸甘油的危险与诺贝尔家族直接联系起来。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "including 引出部分例举",
+    "explain": "including 是介词，意为“包括”，后接名词或代词，放在表示整体的名词之后，说明整体中的部分成员，前面常有逗号。也可以用过去分词 included 后置的形式：five people, Emil included。including 后面列出的只是一部分，不一定是全部；如果列出全部，要用 namely 或冒号。考研阅读中，including 后的内容是整体的一部分，做细节题时不要把部分当成全部；与 such as 相比，including 强调“包含在内”，such as 强调“举例”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Several European countries, including Denmark and the Netherlands, have expanded their cycling networks.",
+      "zh": "包括丹麦和荷兰在内的几个欧洲国家扩大了自行车道网络。"
+     },
+     {
+      "en": "Everyone on the team, the manager included, agreed to take a pay cut.",
+      "zh": "团队里的每个人，包括经理在内，都同意减薪。"
+     }
+    ]
+   },
+   {
+    "title": "数词单独作宾语",
+    "explain": "上下文已经清楚所指时，数词可以单独作主语或宾语，省略后面的名词，如 killed five（炸死五人）、Two of them left early。新闻标题和报道中常见这种省略，如 Storm kills three。翻译时要补出量词和名词，如视频把 five 译为“五个人”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire destroyed twelve homes and injured three.",
+      "zh": "大火烧毁了十二座房屋，造成三人受伤。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "blast",
+    "explain": "名词，爆炸，也指一阵强风或爆炸产生的冲击波，视频译为“爆炸”。熟词僻义：动词 blast 在新闻中常表示“猛烈抨击”，如 Critics blasted the decision。本句用 blast 回指上句的 exploded，避免重复。"
+   },
+   {
+    "term": "younger brother",
+    "explain": "英语 brother 不区分长幼，“弟弟”要说 younger brother 或 little brother，“哥哥”说 elder brother 或 older brother，视频把 younger brother 译为“弟弟”。"
+   },
+   {
+    "term": "Alfred Nobel",
+    "explain": "阿尔弗雷德·诺贝尔，瑞典化学家、发明家，后文的 dynamite（炸药）和诺贝尔奖都与他有关。本句是全文第一次出现他的全名，后文只用 Nobel 指代。"
+   }
+  ],
+  "translation_tip": "视频译文“这场悲惨的爆炸炸死了五个人，其中包括阿尔弗雷德·诺贝尔的弟弟埃米尔。”的处理：①定冠词 The 译为“这场”，体现回指上句爆炸的作用。②killed 结合主语译为“炸死了”，比“杀死了”更符合爆炸的语境。③数词 five 补出量词和名词，译为“五个人”。④including 短语译成“其中包括……”，作为后续分句，交代死者中的一人；紧密同位语 younger brother Emil 按汉语习惯译为“弟弟埃米尔”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Nobel",
+   "predicate": "tamed",
+   "object_or_complement": "the liquid",
+   "explain": "主干是 Nobel tamed the liquid，主谓宾结构。谓语 tamed 为一般过去时，主动语态；by blending it... 是方式状语，说明他用什么办法驯服了这种液体。"
+  },
+  "components": [
+   {
+    "text": "Nobel",
+    "role": "主语",
+    "zh": "诺贝尔"
+   },
+   {
+    "text": "tamed",
+    "role": "谓语",
+    "zh": "驯服了"
+   },
+   {
+    "text": "the liquid",
+    "role": "宾语（the 回指硝酸甘油）",
+    "zh": "这种液体"
+   },
+   {
+    "text": "by blending it",
+    "role": "方式状语（介词 by + 动名词短语），it 指 the liquid",
+    "zh": "方法是把它……混合"
+   },
+   {
+    "text": "with kieselguhr,",
+    "role": "介词短语，与 blending 构成 blend A with B",
+    "zh": "与硅藻土"
+   },
+   {
+    "text": "a porous earth,",
+    "role": "同位语（名词短语），补充说明 kieselguhr",
+    "zh": "这种多孔的土"
+   },
+   {
+    "text": "into a paste",
+    "role": "介词短语，与 blend A with B 构成 blend A with B into C，表示混合的结果",
+    "zh": "制成糊状物"
+   },
+   {
+    "text": "shaped into rods.",
+    "role": "后置定语（过去分词短语），修饰 paste",
+    "zh": "再塑造成棒条状"
+   }
+  ],
+  "structure": "①主干是 Nobel tamed the liquid：tame 本义是驯服动物，这里把危险的硝酸甘油比作难以驾驭的野兽，the liquid 回指第1句的 nitroglycerin。\n②by blending it with kieselguhr... into a paste 是介词 by 加动名词短语作方式状语，说明驯服的办法。视频说明：blend A with B into C 意为“把 A 与 B 混合成 C”。本句中 A 是 it（硝酸甘油），B 是 kieselguhr（硅藻土），C 是 a paste（糊状物）。\n③a porous earth 插在 kieselguhr 和 into a paste 之间，是同位语，补充说明 kieselguhr 是一种多孔的土。阅读时要越过这个同位语，把 blending it with kieselguhr 与 into a paste 连起来。\n④shaped into rods 是过去分词短语作后置定语，修饰 paste，相当于 which was shaped into rods；paste 与 shape 是被动关系，所以用过去分词。整句按“混合、制成糊状物、塑成棒条”的顺序交代了制作过程。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "by + 动名词作方式状语",
+    "explain": "介词 by 后接动名词，表示“通过……的方式”，回答 how 的问题；动名词的逻辑主语就是句子主语。本句 by blending it with kieselguhr 说明诺贝尔用什么办法驯服了液体，blending 的动作执行者是 Nobel。by doing 常放在句末，也可提到句首强调方法。易错点：介词后只能用动名词，不能写成 by blend 或 by to blend；表示工具时用 with，如 cut it with a knife，表示方法、手段时用 by doing。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city reduced traffic congestion by charging drivers to enter the centre.",
+      "zh": "该市通过向进入市中心的司机收费，缓解了交通拥堵。"
+     },
+     {
+      "en": "By recycling waste heat, the factory cut its energy bills by a third.",
+      "zh": "通过回收余热，这家工厂把能源开支削减了三分之一。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "及物动词的过去分词短语放在名词之后作定语，表示被动或完成，相当于一个省略的定语从句。本句 a paste shaped into rods = a paste which was shaped into rods，糊状物是“被塑造”的对象。视频说明：shaped into rods 是过去分词短语作后置定语，修饰 paste。考研长难句中，名词后紧跟的 -ed 形式要判断是谓语还是定语：本句谓语是前面的 tamed，shaped 只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The shop sells replicas of ancient coins cast in bronze.",
+      "zh": "这家店出售用青铜铸造的古钱币仿品。"
+     }
+    ]
+   },
+   {
+    "title": "blend A with B into C",
+    "explain": "blend 作及物动词时，常用 blend A with B（把 A 与 B 混合）、blend A and B together、blend A into B（把 A 掺入 B）；加上 into C 时，into 表示混合后变成的结果。同样用 into 表示结果的还有 turn A into B、make A into B、shape A into B。本句同时出现 blending...into a paste 和 shaped into rods，两个 into 都表示“变成……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The chef blended the roasted peppers with olive oil into a smooth sauce.",
+      "zh": "厨师把烤过的甜椒和橄榄油搅拌成细滑的酱汁。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tame",
+    "explain": "动词本义是驯服（野兽），如 tame a wild horse；引申为控制住难以驾驭的事物，如 tame inflation（控制通胀）。本句把危险的液体当作需要驯服的对象，视频译为“驯服了”，保留了比喻色彩。形容词 tame 意为“温顺的；平淡乏味的”。"
+   },
+   {
+    "term": "kieselguhr",
+    "explain": "硅藻土，一种由硅藻遗骸沉积形成的疏松、多孔的土，能吸收液体，视频译为“硅藻土”。词源为德语 Kieselgur，由 Kiesel（砾石，燧石）和方言词 Gur（疏松的土质沉积物）构成。英语也称 diatomaceous earth。"
+   },
+   {
+    "term": "earth",
+    "explain": "熟词僻义：earth 作可数名词时可指“某一种土”，本句 a porous earth 即“一种多孔的土”，视频译为“这种多孔的土”。化学中 rare earths 指稀土元素。"
+   },
+   {
+    "term": "paste",
+    "explain": "糊状物，膏，如 toothpaste（牙膏）、tomato paste（番茄酱）。本句指硝酸甘油与硅藻土混合后的糊状物。"
+   }
+  ],
+  "translation_tip": "视频译文“诺贝尔驯服了这种液体，方法是把它与硅藻土这种多孔的土混合，制成糊状物，再塑造成棒条状。”的处理：①主干 Nobel tamed the liquid 先译出，the liquid 译为“这种液体”。②方式状语 by blending... 没有前置成“通过……驯服了”，而是拆成后续分句，用“方法是”引出，避免句首状语过长。③同位语 a porous earth 紧跟硅藻土，译成“硅藻土这种多孔的土”，“这种”体现同位关系。④into a paste 译成动宾结构“制成糊状物”；后置定语 shaped into rods 也拆成分句“再塑造成棒条状”，用“再”表明先后，把制作步骤按顺序排开。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "it",
+   "predicate": "was harnessed",
+   "object_or_complement": "",
+   "explain": "主干是 it was harnessed，主谓结构，谓语为一般过去时的被动语态（was + 过去分词）；for mining, quarrying, and demolition 说明用途。句首过去分词短语作状语，句末现在分词短语作结果状语。"
+  },
+  "components": [
+   {
+    "text": "Patented in 1867 as dynamite,",
+    "role": "状语（过去分词短语，表被动，逻辑主语是 it）",
+    "zh": "1867年作为炸药获得专利后"
+   },
+   {
+    "text": "it",
+    "role": "主语（指上句制成的棒状糊状物，即后来的 dynamite）",
+    "zh": "它"
+   },
+   {
+    "text": "was harnessed",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "被控制并且用来"
+   },
+   {
+    "text": "for mining, quarrying, and demolition,",
+    "role": "目的状语（介词短语，for 表示用途，后接三个并列名词）",
+    "zh": "采矿、采石和拆除工程"
+   },
+   {
+    "text": "enriching him immensely.",
+    "role": "结果状语（现在分词短语）",
+    "zh": "使他变得极其富有"
+   }
+  ],
+  "structure": "①主干是 it was harnessed for mining, quarrying, and demolition：it 指上句糊状物塑成的棒条，即 dynamite；was harnessed 是被动语态，视频说明 be harnessed for 意为“被用于……”。for 后接三个并列名词，用 A, B, and C 的格式连接，and 前是牛津逗号。\n②句首 Patented in 1867 as dynamite 是过去分词短语作状语，表被动，逻辑主语与主句主语 it 一致：it was patented in 1867 as dynamite。as dynamite 说明以什么名称获得专利，in 1867 是时间。视频译为“……后”，把它处理成时间状语。\n③句末 enriching him immensely 是现在分词短语作结果状语，逻辑主语是前面整个主句的内容：炸药被广泛使用，结果使诺贝尔变得极其富有。him 指诺贝尔，immensely 修饰 enriching。\n④本句一头一尾两个分词短语，一个过去分词（被动），一个现在分词（主动、结果），是考研长难句中典型的“状语 + 主句 + 状语”结构。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作状语",
+    "explain": "过去分词短语可以放在句首作状语，表示时间、原因、条件等，与主句主语是被动关系。本句 Patented in 1867 as dynamite = After it was patented in 1867 as dynamite，it 是“被授予专利”的一方。使用规则：分词的逻辑主语必须与主句主语一致，否则就是悬垂分词，属于语法错误。如 Patented in 1867, Nobel became rich 就错了，因为获得专利的是发明，不是诺贝尔本人。考研写作中常用这种结构把两个句子合并，使表达更紧凑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Published in 1859, the book changed the way scientists thought about life on Earth.",
+      "zh": "这本书于1859年出版，改变了科学家对地球生命的看法。"
+     },
+     {
+      "en": "Built on soft ground, the tower began to lean soon after construction.",
+      "zh": "由于建在松软的地基上，这座塔建成后不久就开始倾斜。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "放在句末、用逗号隔开的现在分词短语，常表示前面动作带来的自然结果，逻辑主语是前面整个句子的内容。本句 enriching him immensely 说明炸药被广泛使用的结果。视频说明：enriching… 是现在分词短语作结果状语。易混点：表示意料之外的结果常用不定式 only to do，如 He hurried to the station, only to find the train had left；现在分词表示的结果通常顺理成章。考研阅读中，句末 -ing 短语常含作者想强调的后果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river burst its banks, flooding hundreds of homes.",
+      "zh": "河水决堤，淹没了数百户人家。"
+     },
+     {
+      "en": "The company cut prices by half, attracting thousands of new customers.",
+      "zh": "这家公司把价格降了一半，吸引了数千名新顾客。"
+     }
+    ]
+   },
+   {
+    "title": "be harnessed for 与被动语态",
+    "explain": "harness 作及物动词，意为“控制并利用（自然力、能量等）”，被动形式 be harnessed for sth 表示“被用于……”，for 引出用途；也可说 be harnessed to do sth。本句用被动语态，是因为叙述重心在炸药的用途，使用者是谁不重要，无须说出。科技和说明类文章常用这种被动句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Wind power is increasingly harnessed for electricity generation in coastal regions.",
+      "zh": "沿海地区越来越多地利用风能发电。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "patent",
+    "explain": "名词，专利；动词，获得专利、取得专利权，本句用作被动 be patented as，视频译为“作为……获得专利”。常见搭配 apply for a patent（申请专利）、hold a patent（持有专利）。"
+   },
+   {
+    "term": "dynamite",
+    "explain": "炸药，特指诺贝尔发明的硝酸甘油炸药。据 Etymonline，这个词由诺贝尔在1867年创造，取自希腊语 dynamis（力量）。比喻义指“具有爆炸性影响的人或事”，如 The story was political dynamite。"
+   },
+   {
+    "term": "harness",
+    "explain": "名词本义是马具、挽具，动词本义是给马套上挽具，使其拉车干活，由此引申为“控制并利用”，如 harness solar energy。视频把 was harnessed 译为“被控制并且用来”，正好体现“控制”和“利用”两层意思。"
+   },
+   {
+    "term": "quarrying",
+    "explain": "采石，来自 quarry（采石场）。熟词僻义：quarry 还可指“被追捕的猎物，追寻的对象”，与“采石场”词源不同。"
+   }
+  ],
+  "translation_tip": "视频译文“1867年作为炸药获得专利后，它被控制并且用来采矿、采石和拆除工程，使他变得极其富有。”的处理：①句首过去分词短语译成时间状语“……获得专利后”，增补“后”字，表明时间先后。②被动谓语 was harnessed 保留被动，译为“被控制并且用来”，把 harness 的两层含义都译出；for 引出的三个用途按顺序排列，“采矿、采石和拆除工程”中用顿号和“和”对应英文的逗号和 and。③结果状语 enriching him immensely 拆成后续分句“使他变得极其富有”，增补“变得”，immensely 译为“极其”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "His 1895 testament",
+   "predicate": "made",
+   "object_or_complement": "the fortune（宾语）；an endowment（宾语补足语）",
+   "explain": "主干是 His 1895 testament made the fortune an endowment，主谓宾宾补结构，即 make A B“使 A 成为 B”。谓语 made 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His 1895 testament",
+    "role": "主语（年份 1895 作前置定语）",
+    "zh": "他在1895年立下的遗嘱"
+   },
+   {
+    "text": "made",
+    "role": "谓语",
+    "zh": "使"
+   },
+   {
+    "text": "the fortune",
+    "role": "宾语",
+    "zh": "这一大笔钱"
+   },
+   {
+    "text": "an endowment",
+    "role": "宾语补足语（名词短语）",
+    "zh": "成为一笔捐赠基金"
+   },
+   {
+    "text": "for prizes,",
+    "role": "后置定语（介词短语，表示用途），修饰 endowment",
+    "zh": "用来设立奖项"
+   },
+   {
+    "text": "first awarded in 1901.",
+    "role": "后置定语（过去分词短语），修饰 prizes",
+    "zh": "奖项首次颁发于1901年"
+   }
+  ],
+  "structure": "①主干是 His 1895 testament made the fortune an endowment：视频说明 make A B 意为“使 A 成为 B”，A 是宾语 the fortune，B 是宾语补足语 an endowment，二者是“A 成为 B”的关系。the fortune 用定冠词，回指上句 enriching him immensely 积累的财富。\n②主语 His 1895 testament 中，年份 1895 直接作前置定语，说明遗嘱立于哪一年。\n③for prizes 是介词短语作后置定语，修饰 endowment，说明这笔基金的用途是设立奖项。\n④逗号后的 first awarded in 1901 是过去分词短语作后置定语，视频说明它修饰 prizes，相当于 which were first awarded in 1901。prizes 与 award 是被动关系，用过去分词；first 修饰 awarded，意为“首次”。本句交代了诺贝尔奖的由来，结束第二段。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "make + 宾语 + 名词作宾语补足语",
+    "explain": "make 可接复合宾语，宾语补足语可以是名词、形容词、动词原形或过去分词：make him a star（名词）、make it clear（形容词）、make him laugh（动词原形）、make oneself understood（过去分词）。名词作宾补时，宾语与宾补是“A 成为 B”的关系，中间不加 as。本句 made the fortune an endowment 即“使这笔财富成为捐赠基金”。易错点：两个名词连用时，要分清是双宾语（give him a book，他得到书）还是宾语加宾补（make him a manager，他成为经理），检验方法是看两者之间能否加 be。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Her bestselling novel made her a household name almost overnight.",
+      "zh": "那部畅销小说几乎一夜之间让她家喻户晓。"
+     },
+     {
+      "en": "The board made the former engineer its new chief executive.",
+      "zh": "董事会任命这位前工程师为新任首席执行官。"
+     }
+    ]
+   },
+   {
+    "title": "逗号后的过去分词短语修饰前面的名词",
+    "explain": "过去分词短语可以用逗号与被修饰的名词隔开，作补充说明，相当于非限制性定语从句。本句 prizes, first awarded in 1901 = prizes, which were first awarded in 1901。副词 first、later、originally 等常放在过去分词前，说明动作的时间或次序。阅读时要找准修饰对象：awarded 只能修饰 prizes，因为被颁发的是奖项，不是遗嘱或财富。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum displays early bicycles, first built in the 1860s.",
+      "zh": "博物馆展出了早期的自行车，这类车最早造于19世纪60年代。"
+     }
+    ]
+   },
+   {
+    "title": "年份作前置定语",
+    "explain": "年份、数字可以直接放在名词前作定语，说明事件发生的时间，如 the 2008 financial crisis（2008年的金融危机）、the 1998 Nobel Prize。本句 His 1895 testament 即“他1895年的遗嘱”，第18句 the 1998 Nobel Prize 也是同样的结构。这种写法比 the testament of 1895 更简洁，新闻语体中很常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The 2011 earthquake forced thousands of families to leave their homes.",
+      "zh": "2011年的地震迫使数千个家庭离开家园。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "testament",
+    "explain": "遗嘱，常见于法律用语 last will and testament；也指“证明，证据”，a testament to sth 意为“……的明证”，考研阅读常见。the Old/New Testament 指《圣经》的《旧约》《新约》。视频译为“遗嘱”。"
+   },
+   {
+    "term": "fortune",
+    "explain": "熟词僻义：fortune 常见义是“运气，命运”，本句指“一大笔钱，巨额财富”，视频译为“这一大笔钱”。常见搭配 make a fortune（发大财）、cost a fortune（花一大笔钱）。"
+   },
+   {
+    "term": "endowment",
+    "explain": "捐赠基金，指捐给学校、机构等用于长期支出的资金，通常以投资收益维持运作，如 a university endowment，视频译为“捐赠基金”。动词 endow 意为“捐赠；赋予”。"
+   },
+   {
+    "term": "诺贝尔奖的设立",
+    "explain": "诺贝尔于1895年11月在巴黎签署遗嘱，把大部分遗产设为基金，用于奖励物理学、化学、生理学或医学、文学与和平五个领域的贡献者；首届诺贝尔奖于1901年颁发。经济学奖由瑞典中央银行于1968年设立，不在诺贝尔遗嘱之内。"
+   }
+  ],
+  "translation_tip": "视频译文“他在1895年立下的遗嘱使这一大笔钱成为一笔捐赠基金，用来设立奖项，奖项首次颁发于1901年。”的处理：①前置定语 1895 增补动词“立下”，译为“他在1895年立下的遗嘱”。②make A B 译成“使 A 成为 B”，名词宾补前增补“成为”。③后置定语 for prizes 拆成分句“用来设立奖项”，增补“设立”。④过去分词短语 first awarded in 1901 再拆一个分句，重复“奖项”作主语，译成“奖项首次颁发于1901年”，避免把两层定语都堆在“捐赠基金”前面。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Nitroglycerin",
+   "predicate": "had",
+   "object_or_complement": "side-effects",
+   "explain": "主干就是全句，主谓宾结构。谓语 had 是 have 的过去式，意为“具有”，一般过去时，主动语态，沿用前文叙述历史的时态。"
+  },
+  "components": [
+   {
+    "text": "Nitroglycerin",
+    "role": "主语",
+    "zh": "硝酸甘油"
+   },
+   {
+    "text": "had",
+    "role": "谓语（have 表示“具有”）",
+    "zh": "有"
+   },
+   {
+    "text": "side-effects.",
+    "role": "宾语（复数名词）",
+    "zh": "副作用"
+   }
+  ],
+  "structure": "①全句只有主语 Nitroglycerin、谓语 had、宾语 side-effects 三个成分，是一个简单句。\n②本句是第三段的主题句，用极短的句子领起话题，下文依次讲工厂工人的头痛症状、“星期一病”的由来，以及医生报告的治疗用途，都是围绕硝酸甘油对人体的作用展开的。\n③side-effects 是英式写法，中间用连字符；美式英语和现代英式英语也常写成两个词 side effects。本句用复数，表示不止一种副作用。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "叙事中的一般过去时与表示客观事实的一般现在时",
+    "explain": "叙述历史事件时，即使所说的性质至今不变，也常用一般过去时，使叙事前后一致。本句 Nitroglycerin had side-effects 处在19世纪的历史叙述中，所以用 had，说的是当时人们接触硝酸甘油后出现的症状。相比之下，第16句宾语从句 nitroglycerin releases nitric oxide 讲的是科学规律，用一般现在时。考研阅读中，时态的选择往往反映作者是在叙述过去，还是在陈述普遍事实。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Early aspirin tablets often irritated the stomach, so chemists searched for gentler versions.",
+      "zh": "早期的阿司匹林片常常刺激胃，于是化学家开始寻找更温和的配方。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "side effect",
+    "explain": "副作用，指药物或某种做法在预期作用之外带来的影响，通常是不良的，视频译为“副作用”。英式英语有时写作 side-effect，美式写作 side effect，复数加 s。常见搭配 have side effects、cause side effects、side effects of a drug。医学文本中也说 adverse effects（不良反应）。"
+   },
+   {
+    "term": "主题句",
+    "explain": "英语段落常在段首用一个概括性的短句点明主旨，后文展开。本句只有三个词（side-effects 是一个连字符复合词），却统领了整个第三段。考研阅读做段落主旨题时，先看段首句往往能抓住要点。"
+   }
+  ],
+  "translation_tip": "视频译文“硝酸甘油有副作用。”与原文逐词对应：谓语 had 译为“有”，过去时在汉语中无须用“了”“过”等词表示，叙事的时间由上下文体现；复数 side-effects 直接译为“副作用”，汉语不必加“一些”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Factory operatives；their tolerance",
+   "predicate": "suffered；ebbed",
+   "object_or_complement": "racking headaches（suffered 的宾语）；ebbed 为不及物动词，没有宾语",
+   "explain": "并列句：and 连接两个分句。前一分句 Factory operatives suffered racking headaches 是主谓宾结构；后一分句 their tolerance ebbed 是主谓结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Factory operatives",
+    "role": "主语（第一个分句；Factory 作前置定语）",
+    "zh": "工厂工人"
+   },
+   {
+    "text": "suffered",
+    "role": "谓语（第一个分句）",
+    "zh": "饱受"
+   },
+   {
+    "text": "racking headaches,",
+    "role": "宾语（racking 作前置定语）",
+    "zh": "折磨人的头痛"
+   },
+   {
+    "text": "and their tolerance,",
+    "role": "并列连词 and + 第二个分句的主语",
+    "zh": "他们的耐受性"
+   },
+   {
+    "text": "built over the week,",
+    "role": "插入语（过去分词短语），修饰 tolerance",
+    "zh": "在一周中逐渐建立"
+   },
+   {
+    "text": "ebbed",
+    "role": "谓语（第二个分句，不及物动词）",
+    "zh": "又减退"
+   },
+   {
+    "text": "at weekends.",
+    "role": "时间状语（介词短语）",
+    "zh": "到周末"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句。第一个分句 Factory operatives suffered racking headaches：主语 Factory operatives，谓语 suffered，宾语 racking headaches，racking 作定语，表示头痛剧烈、折磨人。\n②第二个分句 their tolerance ebbed at weekends：主语 their tolerance，their 指工厂工人；谓语 ebbed 是不及物动词，意为“减退”；at weekends 是时间状语。\n③built over the week 插在第二个分句的主语和谓语之间，前后用逗号隔开。视频说明它是过去分词短语作插入语，修饰 tolerance，相当于 which had been built over the week。tolerance 是“被建立起来”的，所以用过去分词；over the week 表示“在一周的时间里”。\n④两个分句之间是因果铺垫：工人平时饱受头痛之苦，身体在工作日逐渐适应，周末离开工厂后这种耐受性又消退了，这为下一句“星期一病”埋下伏笔。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作插入成分",
+    "explain": "过去分词短语可以插在主语和谓语之间，用逗号隔开，对主语加以补充说明，相当于非限制性定语从句。本句 their tolerance, built over the week, ebbed at weekends 中，built over the week = which had been built over the week，表示耐受性是在一周中逐渐建立起来的。阅读时要把插入成分括起来，把主语 their tolerance 和谓语 ebbed 连起来；不能把 built 当成谓语，因为 ebbed 才是这个分句的谓语动词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The bridge, completed in 1932, still carries thousands of cars every day.",
+      "zh": "这座桥于1932年建成，至今每天仍有数千辆汽车通行。"
+     },
+     {
+      "en": "Her confidence, shaken by the early defeat, slowly returned over the season.",
+      "zh": "她的自信因开局失利而动摇，在整个赛季中慢慢恢复了。"
+     }
+    ]
+   },
+   {
+    "title": "and 连接并列分句",
+    "explain": "两个独立分句用 and 连接时，and 前通常加逗号，尤其是分句较长或主语不同时。本句前一分句的主语是 Factory operatives，后一分句的主语是 their tolerance，两个分句各有主谓，构成并列句。判断方法：and 后面如果出现新的主语和谓语，就是连接分句，而不是连接两个名词或两个谓语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Sales rose sharply in the first quarter, and the company hired two hundred new staff.",
+      "zh": "第一季度销售额大幅增长，公司新招了两百名员工。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "operative",
+    "explain": "熟词僻义：名词 operative 指工厂里的工人、操作工，Factory operatives 视频译为“工厂工人”；也可指特工、密探。形容词 operative 意为“起作用的，有效的”，如 The new law becomes operative next month（新法下月生效）。"
+   },
+   {
+    "term": "racking",
+    "explain": "形容词，形容疼痛、咳嗽等“剧烈的，折磨人的”，如 a racking cough。来自名词 rack（拷问台），视频译为“折磨人的”。"
+   },
+   {
+    "term": "build up a tolerance",
+    "explain": "tolerance 在医学上指身体对药物等的耐受性，常说 build up a tolerance to sth（对……产生耐受性）。本句 built over the week 就是说耐受性在一周中逐渐形成，视频译为“在一周中逐渐建立”。"
+   },
+   {
+    "term": "at weekends",
+    "explain": "英式英语说 at weekends 或 at the weekend，美式英语说 on weekends 或 on the weekend。视频译为“到周末”。"
+   }
+  ],
+  "translation_tip": "视频译文“工厂工人饱受折磨人的头痛，他们的耐受性在一周中逐渐建立，到周末又减退。”的处理：①suffered 译为“饱受”，与“折磨人的”配合，突出痛苦程度。②插入的过去分词短语 built over the week 不作定语前置，而是译成谓语性的“在一周中逐渐建立”，增补“逐渐”体现 build 的累积过程。③ebbed at weekends 中时间状语前移，译成“到周末又减退”，增补“又”字，与前面的“建立”形成对照，使“建立、减退”的循环更清楚。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Mondays",
+   "predicate": "brought",
+   "object_or_complement": "a recurrence",
+   "explain": "主干是 Mondays brought a recurrence，主谓宾结构，以时间名词作主语。谓语 brought 为一般过去时，主动语态。句末 hence the name Monday disease 是省略了谓语的结构。"
+  },
+  "components": [
+   {
+    "text": "Mondays",
+    "role": "主语（复数，表示“每个星期一”）",
+    "zh": "每逢星期一"
+   },
+   {
+    "text": "brought",
+    "role": "谓语",
+    "zh": "（谓语，与宾语 a recurrence 合译为“便复发”，主语 Mondays 转译为时间状语）"
+   },
+   {
+    "text": "a recurrence,",
+    "role": "宾语（指头痛的复发）",
+    "zh": "头痛便复发"
+   },
+   {
+    "text": "with dizziness and palpitations,",
+    "role": "伴随状语（介词短语）",
+    "zh": "还伴有眩晕和心悸"
+   },
+   {
+    "text": "hence",
+    "role": "状语（副词，表示结果）",
+    "zh": "因此"
+   },
+   {
+    "text": "the name Monday disease.",
+    "role": "名词短语（hence 后省略了谓语；Monday disease 是 the name 的同位语）",
+    "zh": "得名星期一病"
+   }
+  ],
+  "structure": "①主干是 Mondays brought a recurrence：主语 Mondays 是时间名词，复数表示“每个星期一”；brought 意为“带来”；a recurrence 指上句所说头痛的复发。时间名词作主语、谓语用 bring 这类动词，是英语常见的无灵主语句。\n②with dizziness and palpitations 是介词短语作伴随状语，视频说明“with…：介词短语作伴随状语”，说明复发时还伴有哪些症状。\n③hence the name Monday disease：视频说明“hence＋名词：因此有了……，省略了谓语”。完整意思相当于 and this is why it got the name Monday disease。hence 是副词，表示“因此”；the name 与 Monday disease 是同位关系，Monday disease 就是这个名称的内容。\n④本句承接上句：工人周末离开工厂，耐受性消退，周一重新接触硝酸甘油，头痛便复发，于是这种病被叫作“星期一病”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "hence + 名词短语",
+    "explain": "hence 是副词，意为“因此，由此”，正式语体中可以直接接名词短语，省略谓语，表示“因此有了……”，常见 hence the name、hence the need for、hence the importance of。本句 hence the name Monday disease 即“因此得名星期一病”。注意：hence 不是连词，连接两个完整句子时，前面要用分号、句号，或写成 and hence。考研阅读中 hence 引出结论或结果，是理清因果关系的信号词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The region receives very little rain, hence the need for large-scale irrigation.",
+      "zh": "该地区降雨极少，因此需要大规模灌溉。"
+     },
+     {
+      "en": "The old mill once stood on the river bank; hence the name Mill Road.",
+      "zh": "那座老磨坊曾坐落在河岸上，米尔路由此得名。"
+     }
+    ]
+   },
+   {
+    "title": "无灵主语句：时间名词作主语",
+    "explain": "英语常用时间、地点或抽象事物作主语，搭配 bring、see、witness、find 等动词，如 The 1990s saw the rise of the internet。这类句子的主语并不真正发出动作，翻译时通常把主语转成时间或地点状语，另找主语，如“20世纪90年代，互联网兴起”。本句 Mondays brought a recurrence 就是这种结构，视频译为“每逢星期一，头痛便复发”，主语 Mondays 转为时间状语。这是考研翻译的高频考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The past decade has seen a sharp rise in remote working.",
+      "zh": "过去十年间，远程办公大幅增加。"
+     },
+     {
+      "en": "Each spring brings floods to the low-lying villages along the river.",
+      "zh": "每年春天，沿河的低洼村庄都会遭遇洪水。"
+     }
+    ]
+   },
+   {
+    "title": "with 短语作伴随状语",
+    "explain": "介词 with 后接名词短语，可以作伴随状语，说明主要事件发生时同时存在的情况。本句 with dizziness and palpitations 说明头痛复发时同时出现眩晕和心悸。with 结构还可以是“with + 宾语 + 补足语”，如 with tears running down her face。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The storm arrived at midnight, with strong winds and heavy rain.",
+      "zh": "暴风雨在午夜来袭，伴有狂风和暴雨。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "recurrence",
+    "explain": "复发，再次发生，动词是 recur，常见搭配 prevent a recurrence of sth（防止……再次发生）。本句指头痛复发，视频译为“复发”，并增补“头痛”交代复发的是什么。"
+   },
+   {
+    "term": "palpitations",
+    "explain": "心悸，心跳快而不规律、自己能感觉到的症状，医学上常用复数，如 suffer from palpitations、have palpitations。视频译为“心悸”。"
+   },
+   {
+    "term": "Monday disease",
+    "explain": "星期一病，本文说明了得名原因：周末离开工厂后耐受性消退，周一重新接触硝酸甘油，头痛等症状又发作。Monday 作定语，说明发病的时间。"
+   },
+   {
+    "term": "Mondays",
+    "explain": "星期名用复数时表示“每逢星期几”，如 on Mondays（每逢星期一）。本句复数 Mondays 作主语，视频译为“每逢星期一”。"
+   }
+  ],
+  "translation_tip": "视频译文“每逢星期一，头痛便复发，还伴有眩晕和心悸，因此得名星期一病。”的处理：①无灵主语 Mondays 转译为时间状语“每逢星期一”，复数通过“每逢”表达。②brought a recurrence 转成主谓结构“头痛便复发”，增补主语“头痛”，“便”表示到了星期一就会发生。③伴随状语 with... 译为“还伴有”，增补“还”字，表示症状叠加。④省略谓语的 hence the name... 译为“因此得名星期一病”，补出动词“得名”，使句子完整。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "William Murrell",
+   "predicate": "reported",
+   "object_or_complement": "",
+   "explain": "主干是 William Murrell reported，report 在此是不及物动词，与介词 on 构成 report on sth（报告关于……的情况），on 引出报告的内容。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1879",
+    "role": "时间状语（介词短语）",
+    "zh": "1879年"
+   },
+   {
+    "text": "William Murrell",
+    "role": "主语",
+    "zh": "威廉·默雷尔"
+   },
+   {
+    "text": "reported",
+    "role": "谓语（与后面的 on 构成 report on）",
+    "zh": "报告了"
+   },
+   {
+    "text": "in The Lancet",
+    "role": "地点状语（介词短语，指发表的刊物）",
+    "zh": "在《柳叶刀》上"
+   },
+   {
+    "text": "on its therapeutic use",
+    "role": "介词短语（与 reported 构成 report on，引出报告内容；its 指硝酸甘油）",
+    "zh": "它……的治疗用途"
+   },
+   {
+    "text": "against angina pectoris,",
+    "role": "后置定语（介词短语），修饰 use",
+    "zh": "对心绞痛"
+   },
+   {
+    "text": "attacks of chest pain.",
+    "role": "同位语（名词短语），补充说明 angina pectoris",
+    "zh": "也就是阵发性的胸痛"
+   }
+  ],
+  "structure": "①主干是 William Murrell reported on its therapeutic use：视频说明 report on… 意为“报告关于……的情况”。its 指硝酸甘油，therapeutic 修饰 use，意为“治疗的用途”。\n②in The Lancet 是地点状语，说明报告发表在哪份刊物上。它插在 reported 和 on 短语之间，把 report on 拆开了，阅读时要把 reported 和 on its therapeutic use 连起来。\n③against angina pectoris 是介词短语作后置定语，视频说明它修饰 use，against 表示“针对，防治”，即“治疗心绞痛的用途”。\n④句末 attacks of chest pain 是同位语，视频说明它补充说明 angina pectoris，用普通读者能懂的说法解释这个拉丁医学术语：心绞痛就是阵发性的胸痛。本句是第三段的转折：前文讲硝酸甘油带给工人的痛苦，这里讲它的治疗价值。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "状语插入动词和介词短语之间",
+    "explain": "英语中，动词与其后的介词短语之间可以插入状语，如 report in The Lancet on…、comment in an interview on…。这种情况下，动词和介词的搭配被拆开，阅读时要越过插入的状语，把 report 与 on 重新连起来。考研长难句和完形中，固定搭配被隔开是常见难点，看到 reported in The Lancet 时，要继续往后找 on，才能确定报告的内容。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister commented in a radio interview on the government's housing plans.",
+      "zh": "部长在一次电台采访中就政府的住房计划发表了评论。"
+     },
+     {
+      "en": "She wrote in her diary about the long winter in the mountains.",
+      "zh": "她在日记里写到了山里漫长的冬天。"
+     }
+    ]
+   },
+   {
+    "title": "against 表示“针对，防治”",
+    "explain": "against 除表示“反对，靠着”外，还可表示“针对，防治”某种疾病或危险，常见搭配 a vaccine against measles（麻疹疫苗）、protection against infection（防止感染）、a drug against malaria（抗疟药）。本句 its therapeutic use against angina pectoris 中，against 短语作 use 的后置定语，意为“治疗心绞痛的用途”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Regular hand-washing offers strong protection against many common infections.",
+      "zh": "经常洗手能有效预防许多常见感染。"
+     }
+    ]
+   },
+   {
+    "title": "同位语解释专业术语",
+    "explain": "文章出现专业术语时，常在后面用逗号加一个名词短语作同位语，给出通俗解释。本句 angina pectoris 是拉丁医学术语，后面的 attacks of chest pain 说明它就是阵发性的胸痛。考研阅读中，生僻术语后的同位语、破折号或括号内容往往就是它的定义，可以借此推断词义。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The patient was diagnosed with insomnia, an inability to fall or stay asleep.",
+      "zh": "这位病人被诊断为失眠，也就是难以入睡或难以保持睡眠。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "The Lancet",
+    "explain": "《柳叶刀》，英国著名医学期刊，创办于1823年。lancet 本义是外科用的柳叶刀。期刊名中的 The 是名称的一部分，首字母大写，视频译为“《柳叶刀》”。"
+   },
+   {
+    "term": "angina pectoris",
+    "explain": "心绞痛，常简称 angina。源自拉丁语：angina 来自希腊语中意为“勒紧，窒息”的词，pectoris 是 pectus（胸）的属格，字面意思是“胸部的紧缩”。本文第12句 who had angina 就用了简称。视频译为“心绞痛”。"
+   },
+   {
+    "term": "report on sth",
+    "explain": "报告、报道关于……的情况，如 report on the progress of the project。比较：report sth 直接接报告的事情，如 report a crime（报案）；report that... 接宾语从句。"
+   },
+   {
+    "term": "therapeutic",
+    "explain": "治疗的，有疗效的，如 therapeutic effects（疗效）、therapeutic drugs（治疗药物），名词 therapy（疗法）。本句 therapeutic use 视频译为“治疗用途”。"
+   }
+  ],
+  "translation_tip": "视频译文“1879年，威廉·默雷尔在《柳叶刀》上报告了它对心绞痛的治疗用途，也就是阵发性的胸痛。”的处理：①地点状语 in The Lancet 按汉语习惯放在谓语前，译成“在《柳叶刀》上报告了”。②后置定语 against angina pectoris 前置，译为“对心绞痛的”，与 its 合成“它对心绞痛的治疗用途”。③同位语 attacks of chest pain 留在句末，用“也就是”引出，复数 attacks 译为“阵发性的”，表达胸痛一阵阵发作的特点。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Nobel",
+   "predicate": "wrote",
+   "object_or_complement": "that by an irony of fate doctors had prescribed him nitroglycerin to take internally（宾语从句）",
+   "explain": "主干是 Nobel wrote (to his aide) that...，主谓宾结构，that 引导的宾语从句说明信的内容。主句谓语 wrote 为一般过去时；从句谓语 had prescribed 为过去完成时，表示开药发生在写信之前。"
+  },
+  "components": [
+   {
+    "text": "On 25 October 1896",
+    "role": "时间状语（介词短语）",
+    "zh": "1896年10月25日"
+   },
+   {
+    "text": "Nobel,",
+    "role": "主语",
+    "zh": "诺贝尔"
+   },
+   {
+    "text": "who had angina,",
+    "role": "非限制性定语从句，修饰 Nobel",
+    "zh": "患有心绞痛"
+   },
+   {
+    "text": "wrote",
+    "role": "谓语",
+    "zh": "写信"
+   },
+   {
+    "text": "to his aide",
+    "role": "状语（介词短语，引出写信的对象）",
+    "zh": "给他的助手"
+   },
+   {
+    "text": "that",
+    "role": "宾语从句的引导词（连词，在从句中不作成分）",
+    "zh": "说"
+   },
+   {
+    "text": "by an irony of fate",
+    "role": "从句中的评注性状语（介词短语）",
+    "zh": "命运真是讽刺"
+   },
+   {
+    "text": "doctors",
+    "role": "从句主语",
+    "zh": "医生"
+   },
+   {
+    "text": "had prescribed",
+    "role": "从句谓语（过去完成时）",
+    "zh": "竟……开具了"
+   },
+   {
+    "text": "him",
+    "role": "从句的间接宾语",
+    "zh": "给他"
+   },
+   {
+    "text": "nitroglycerin",
+    "role": "从句的直接宾语",
+    "zh": "硝酸甘油"
+   },
+   {
+    "text": "to take internally.",
+    "role": "目的状语（不定式短语）",
+    "zh": "让他内服"
+   }
+  ],
+  "structure": "①主句是 Nobel wrote to his aide that...：主语 Nobel，谓语 wrote，to his aide 说明写给谁，that 引导的宾语从句是信的内容。视频说明“that…：宾语从句，说明信的内容”。\n②who had angina 是非限制性定语从句，视频说明它补充说明 Nobel。who 在从句中作主语，had 意为“患有”。这一信息说明诺贝尔为何会被开硝酸甘油，与上句的治疗用途相衔接。\n③宾语从句内部：by an irony of fate 是评注性状语，视频说明意为“说来讽刺，命运弄人”，表达诺贝尔本人对这件事的感受。从句主语 doctors，谓语 had prescribed，him 是间接宾语，nitroglycerin 是直接宾语，构成 prescribe sb sth“给某人开某药”。\n④to take internally 是不定式短语，视频说明它表目的，说明开药是为了让他内服。take 的逻辑主语是 him（诺贝尔），逻辑宾语是 nitroglycerin。讽刺之处在于：他靠用硝酸甘油制造炸药发家，晚年却要把它当药吃下去。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "非限制性定语从句补充说明专有名词",
+    "explain": "先行词是专有名词（人名、地名等）时，所指已经明确，后面的定语从句通常是非限制性的，用逗号隔开，指人用 who，指物用 which，不能用 that。本句 Nobel, who had angina, wrote... 中，who had angina 补充说明诺贝尔患有心绞痛，去掉后主句依然完整。翻译时较短的非限制性定语从句可以前置为定语，如视频译为“患有心绞痛的诺贝尔”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, who won two Nobel Prizes, died of a blood disease in 1934.",
+      "zh": "两度获得诺贝尔奖的玛丽·居里于1934年死于一种血液疾病。"
+     },
+     {
+      "en": "Venice, which is built on more than a hundred islands, attracts millions of visitors a year.",
+      "zh": "建在一百多个岛屿上的威尼斯每年吸引数百万游客。"
+     }
+    ]
+   },
+   {
+    "title": "宾语从句中的过去完成时",
+    "explain": "主句谓语是过去时，宾语从句中的动作如果发生在主句动作之前，从句用过去完成时，即“过去的过去”。本句诺贝尔写信（wrote）是在1896年10月25日，医生开药（had prescribed）发生在写信之前，所以用 had prescribed。如果从句表示客观真理，则不受主句时态影响，用一般现在时，如第16句的 releases。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She told the police that someone had broken into her car during the night.",
+      "zh": "她告诉警方，夜里有人撬开了她的车。"
+     }
+    ]
+   },
+   {
+    "title": "prescribe sb sth 与不定式表目的",
+    "explain": "prescribe 可接双宾语：prescribe sb sth = prescribe sth for sb，意为“给某人开某药”。视频说明“prescribe sb sth：给某人开某药；to take internally：不定式表目的”。本句 had prescribed him nitroglycerin 中，him 是间接宾语，nitroglycerin 是直接宾语；to take internally 说明开药的目的，不定式的逻辑宾语是 nitroglycerin，所以 take 后面不再出现宾语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The vet prescribed the dog a mild painkiller to take with its food.",
+      "zh": "兽医给这只狗开了一种温和的止痛药，让它随食物服用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "by an irony of fate",
+    "explain": "视频说明为“说来讽刺，命运弄人”，本句译为“命运真是讽刺”。irony 指出人意料、与预期相反的情况，an irony of fate 即命运的捉弄；类似说法还有 by a strange twist of fate、ironically。"
+   },
+   {
+    "term": "aide",
+    "explain": "助手，助理，常指政府官员或要人的助手，如 a presidential aide，视频译为“助手”。注意 aide 与 aid（帮助，援助）拼写不同，读音相同。"
+   },
+   {
+    "term": "take internally",
+    "explain": "内服。药品标签上常见 for external use only（仅供外用）、not to be taken internally（不可内服）。视频译为“让他内服”。"
+   },
+   {
+    "term": "angina",
+    "explain": "angina pectoris（心绞痛）的简称，上句已出现全称，本句用简称，视频仍译为“心绞痛”。have angina 意为“患有心绞痛”。"
+   }
+  ],
+  "translation_tip": "视频译文“1896年10月25日，患有心绞痛的诺贝尔写信给他的助手，说命运真是讽刺，医生竟给他开具了硝酸甘油让他内服。”的处理：①较短的非限制性定语从句 who had angina 前置为“患有心绞痛的诺贝尔”。②wrote to his aide 译为“写信给他的助手”，增补“信”字。③that 译成“说”，引出信的内容。④评注性状语 by an irony of fate 译成独立的小句“命运真是讽刺”，语气更强。⑤prescribe sb sth 译为“给他开具了”，增补“竟”字，表达出乎意料的讽刺意味；不定式 to take internally 译为“让他内服”，补出逻辑主语“他”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Its alias",
+   "predicate": "was chosen",
+   "object_or_complement": "",
+   "explain": "主干是 Its alias was chosen，主谓结构，谓语为一般过去时的被动语态；to avoid... 是不定式短语作目的状语，he explained 是插入语。"
+  },
+  "components": [
+   {
+    "text": "Its alias,",
+    "role": "主语（Its 指这种药，即硝酸甘油）",
+    "zh": "这种药的别名"
+   },
+   {
+    "text": "Trinitrin,",
+    "role": "同位语，补充说明 alias",
+    "zh": "Trinitrin"
+   },
+   {
+    "text": "was chosen,",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "是特意选的"
+   },
+   {
+    "text": "he explained,",
+    "role": "插入语（主谓结构，表示信息来源）",
+    "zh": "他解释说"
+   },
+   {
+    "text": "to avoid",
+    "role": "目的状语（不定式短语）的开头，avoid 后接动名词作宾语",
+    "zh": "为的是避免"
+   },
+   {
+    "text": "frightening pharmacists or the public.",
+    "role": "avoid 的宾语（动名词短语；pharmacists or the public 作 frightening 的宾语）",
+    "zh": "吓到那些药剂师和公众"
+   }
+  ],
+  "structure": "①主干是 Its alias was chosen：主语 Its alias，Its 指诺贝尔服用的这种药；was chosen 是被动语态，选名字的人不必说出。\n②Trinitrin 是同位语，视频说明它补充说明 alias，即别名的具体内容；he explained 是插入语，表明这是诺贝尔信中的解释。\n③to avoid frightening pharmacists or the public 是不定式短语作目的状语，说明为什么要选这个别名。视频说明“avoid doing：避免做某事”，avoid 后接动名词 frightening，frightening 的宾语是 pharmacists or the public。\n④or 用在 avoid 这类含否定意义的动词之后，表示“两者都不”：既不吓到药剂师，也不吓到公众，所以视频译为“和”。本句延续上句的讽刺：用炸药原料做药，连药名都要回避 nitroglycerin 这个让人害怕的名字。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "avoid + 动名词",
+    "explain": "avoid 后接动词时只能用动名词，不能接不定式：avoid doing sth，不说 avoid to do sth。同类动词还有 mind、enjoy、finish、consider、suggest、deny、risk、delay、practise、escape、resist 等，考研完形常考。本句 to avoid frightening pharmacists or the public 中，to avoid 是不定式作目的状语，frightening 才是 avoid 的宾语。被动形式为 avoid being done，如 avoid being noticed。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company delayed the announcement to avoid alarming its investors.",
+      "zh": "公司推迟了公告，以免惊动投资者。"
+     },
+     {
+      "en": "He took the back stairs to avoid being seen by reporters.",
+      "zh": "他走了后楼梯，以免被记者看到。"
+     }
+    ]
+   },
+   {
+    "title": "否定意义词后的 or",
+    "explain": "在 not、never、without、avoid、prevent、refuse、fail 等否定或含否定意义的词后面，并列成分要用 or 连接，表示“两者都不，全部否定”，翻译时常译为“和”“或”“也不”。本句 avoid frightening pharmacists or the public 即“既不吓到药剂师，也不吓到公众”，视频译为“吓到那些药剂师和公众”。如果用 and，在否定句中可能变成部分否定，意思不同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "He left the meeting without saying goodbye or explaining why.",
+      "zh": "他既没告别，也没解释原因，就离开了会议。"
+     },
+     {
+      "en": "The new rules prevent officials from accepting gifts or favours.",
+      "zh": "新规禁止官员接受礼物和好处。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "alias",
+    "explain": "名词，别名，化名，如 under an alias（用化名）；也可作副词，意为“又名”，如 John Smith, alias Mr X。本句指药的另一个名字，视频译为“别名”。"
+   },
+   {
+    "term": "Trinitrin",
+    "explain": "硝酸甘油作药用时的名称。硝酸甘油的化学名为 glyceryl trinitrate（三硝酸甘油酯），Trinitrin 字面由 tri-（三）和 nitr-（硝基）构成，名称里没有让人联想到炸药的 nitroglycerin。视频保留英文原名。"
+   },
+   {
+    "term": "pharmacist 与 chemist",
+    "explain": "pharmacist 指药剂师，视频译为“药剂师”；英式英语也用 chemist 指药剂师或药店，如 the chemist's（药店）。第1句的 chemist 指化学家，同一个词要根据语境判断。"
+   },
+   {
+    "term": "the public",
+    "explain": "公众，民众，集合名词，作主语时谓语可用单数或复数，如 The public has a right to know。视频译为“公众”。"
+   }
+  ],
+  "translation_tip": "视频译文“这种药的别名Trinitrin是特意选的，他解释说，为的是避免吓到那些药剂师和公众。”的处理：①Its 译为“这种药的”，明确指代对象。②同位语 Trinitrin 直接放在“别名”后面，保留英文原名。③被动谓语 was chosen 用“是……的”句式译为“是特意选的”，增补“特意”，与后面的目的状语呼应。④插入语 he explained 保留原位。⑤目的状语 to avoid... 译为“为的是避免……”；否定意义词后的 or 译为“和”，表示两者都不想吓到；pharmacists 前增补“那些”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "He",
+   "predicate": "did not comply",
+   "object_or_complement": "",
+   "explain": "主干就是全句，主谓结构。comply 是不及物动词，谓语 did not comply 是一般过去时的否定形式（did not + 动词原形），主动语态。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指诺贝尔）",
+    "zh": "他"
+   },
+   {
+    "text": "did not",
+    "role": "谓语的一部分（助动词 did + 否定词 not）",
+    "zh": "没有"
+   },
+   {
+    "text": "comply.",
+    "role": "谓语动词（不及物，后面省略了 with + 宾语）",
+    "zh": "遵从医嘱"
+   }
+  ],
+  "structure": "①全句是主谓结构：主语 He，谓语 did not comply。\n②comply 是不及物动词，通常说 comply with sth（遵从，遵守）。本句省略了 with 短语，要遵从的内容可以从上文推知：医生开硝酸甘油让他内服，即医生的嘱咐。\n③本句只有四个词，紧接在两句较长的转述之后，节奏陡然变短，突出诺贝尔对医嘱的态度，与上文的讽刺意味形成呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "comply 的用法与 with 短语的省略",
+    "explain": "comply 是不及物动词，后接宾语时要加 with：comply with the rules / a request / an order，不能说 comply the rules。上下文已经清楚时，with 短语可以省略，如本句 He did not comply，即没有遵从上文所说的医嘱。考研阅读和写作中，comply with 常与 abide by、adhere to、conform to、obey 同义替换；名词 compliance 常见于 in compliance with（遵照）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "All member states must comply with the new emissions standards by 2030.",
+      "zh": "所有成员国必须在2030年前达到新的排放标准。"
+     },
+     {
+      "en": "When the police ordered him to stop, he refused to comply.",
+      "zh": "警察命令他停下，他拒不服从。"
+     }
+    ]
+   },
+   {
+    "title": "一般过去时的否定",
+    "explain": "实义动词的一般过去时变否定句，要借助助动词 did，后面的动词恢复原形：did not comply，不能写成 did not complied 或 not complied。正式书面语中常写全 did not，口语和非正式文体中缩写为 didn't。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The witness did not recognise the man in the photograph.",
+      "zh": "证人没有认出照片里的那个人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "comply",
+    "explain": "遵从，服从，视频本句译为“遵从医嘱”。名词 compliance（遵守，服从），形容词 compliant（服从的，符合要求的），如 be compliant with safety standards（符合安全标准）。"
+   }
+  ],
+  "translation_tip": "视频译文“他没有遵从医嘱。”的处理：comply 后面省略了 with 短语，视频根据上文补出宾语“医嘱”，译成“遵从医嘱”，交代他没有遵从的是什么，否则“他没有遵从”在汉语中意思不完整；did not 译为“没有”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "he",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主干是 he died，主谓结构，die 是不及物动词。谓语为一般过去时，主动语态；句首过去分词短语作状语，句末是地点状语和时间状语。"
+  },
+  "components": [
+   {
+    "text": "Partly",
+    "role": "程度状语（副词），修饰 paralysed",
+    "zh": "身体部分"
+   },
+   {
+    "text": "paralysed",
+    "role": "状语（过去分词，与 Partly 和 by 短语构成过去分词短语，逻辑主语是 he）",
+    "zh": "瘫痪"
+   },
+   {
+    "text": "by a cerebral haemorrhage,",
+    "role": "介词短语，由 by 引出造成瘫痪的原因",
+    "zh": "是由脑部出血造成的"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "died",
+    "role": "谓语（不及物动词）",
+    "zh": "去世"
+   },
+   {
+    "text": "at his San Remo villa",
+    "role": "地点状语（介词短语；San Remo 作前置定语）",
+    "zh": "在圣雷莫的别墅中"
+   },
+   {
+    "text": "on 10 December 1896.",
+    "role": "时间状语（介词短语）",
+    "zh": "于1896年12月10日"
+   }
+  ],
+  "structure": "①主干是 he died：主语 he（诺贝尔），谓语 died，die 是不及物动词。\n②句首 Partly paralysed by a cerebral haemorrhage 是过去分词短语作状语，视频说明它说明他去世前的状况。逻辑主语与主句主语 he 一致：he was partly paralysed by a cerebral haemorrhage。Partly 修饰 paralysed，表示部分瘫痪；by 引出造成瘫痪的原因，即脑部出血。\n③句末两个状语：视频说明 at his San Remo villa 是地点状语，on 10 December 1896 是时间状语。英语状语一般“地点在前，时间在后”，由小到大排列。San Remo 是地名，直接作 villa 的前置定语。\n④本句交代诺贝尔的去世，日期10 December 在第19句再次出现：诺贝尔奖颁奖典礼就在他的逝世纪念日举行。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作状语表示状态和原因",
+    "explain": "句首的过去分词短语可以说明主语所处的状态，同时暗含原因或背景，与主语是被动关系。本句 Partly paralysed by a cerebral haemorrhage = He had been partly paralysed by a cerebral haemorrhage，交代他去世前的身体状况。by 短语引出造成这种状态的原因。使用时要保证分词的逻辑主语与主句主语一致：这里瘫痪的是 he，所以正确。第6句的 Patented in 1867 as dynamite 也是这种结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Badly injured in the crash, the driver was flown to hospital by helicopter.",
+      "zh": "司机在车祸中受了重伤，被直升机送往医院。"
+     },
+     {
+      "en": "Weakened by years of drought, the forest was easily destroyed by fire.",
+      "zh": "这片森林因多年干旱而元气大伤，很容易就被大火烧毁了。"
+     }
+    ]
+   },
+   {
+    "title": "地点状语和时间状语的顺序",
+    "explain": "英语句末同时出现地点状语和时间状语时，一般地点在前、时间在后，如 died at his villa on 10 December 1896；同类状语按由小到大排列，如 at 6 a.m. on Monday、in a small village in Sweden。汉语则习惯时间在前、地点在后，都放在动词前，如“于1896年12月10日在圣雷莫的别墅中去世”。考研翻译中要注意这一语序差异。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The composer was born in a small house in Bonn in December 1770.",
+      "zh": "这位作曲家1770年12月出生在波恩的一所小房子里。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "paralyse",
+    "explain": "使瘫痪，英式拼写，美式拼写为 paralyze；名词 paralysis（瘫痪）。也可比喻使陷入瘫痪、无法运转，如 The strike paralysed the city's transport system。本句 paralysed 视频译为“瘫痪”。"
+   },
+   {
+    "term": "cerebral haemorrhage",
+    "explain": "脑出血，视频译为“脑部出血”。cerebral 意为“大脑的”；haemorrhage 是英式拼写，美式为 hemorrhage，意为“出血”。日常英语中脑卒中统称 stroke。"
+   },
+   {
+    "term": "San Remo",
+    "explain": "圣雷莫，意大利西北部利古里亚海岸的城市，也拼作 Sanremo。诺贝尔晚年住在那里的别墅中，视频译为“圣雷莫的别墅”。"
+   },
+   {
+    "term": "partly",
+    "explain": "副词，部分地，在一定程度上，如 partly true（部分属实）、partly because...（部分原因是……）。本句修饰 paralysed，视频译为“身体部分”，增补了“身体”。"
+   }
+  ],
+  "translation_tip": "视频译文“身体部分瘫痪，是由脑部出血造成的，他于1896年12月10日在圣雷莫的别墅中去世。”的处理：①句首过去分词短语拆成两个短句：“身体部分瘫痪”交代状态，增补“身体”；by 短语用“是由……造成的”译出原因。②主句部分按汉语习惯调整状语语序：时间状语 on 10 December 1896 提到最前，译为“于1896年12月10日”，地点状语 at his San Remo villa 随后，译为“在圣雷莫的别墅中”，最后是谓语“去世”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Murad",
+   "predicate": "ascertained",
+   "object_or_complement": "that nitroglycerin releases nitric oxide, which widens blood vessels（宾语从句）",
+   "explain": "主干是 Murad ascertained that...，主谓宾结构，that 引导宾语从句。主句谓语 ascertained 为一般过去时；宾语从句表示科学事实，谓语 releases 用一般现在时。"
+  },
+  "components": [
+   {
+    "text": "In 1977",
+    "role": "时间状语（介词短语）",
+    "zh": "1977年"
+   },
+   {
+    "text": "Murad",
+    "role": "主语",
+    "zh": "穆拉德"
+   },
+   {
+    "text": "ascertained",
+    "role": "谓语",
+    "zh": "查明"
+   },
+   {
+    "text": "that nitroglycerin",
+    "role": "宾语从句的引导词 that（不作成分）+ 从句主语 nitroglycerin",
+    "zh": "硝酸甘油"
+   },
+   {
+    "text": "releases",
+    "role": "从句谓语（一般现在时，表示客观事实）",
+    "zh": "会释放"
+   },
+   {
+    "text": "nitric oxide,",
+    "role": "从句宾语",
+    "zh": "一氧化氮"
+   },
+   {
+    "text": "which widens blood vessels.",
+    "role": "非限制性定语从句，修饰 nitric oxide",
+    "zh": "它会扩张血管"
+   }
+  ],
+  "structure": "①主句是 Murad ascertained that...：主语 Murad，谓语 ascertained（查明），that 引导的宾语从句作宾语。视频说明“that…：宾语从句”。\n②宾语从句 nitroglycerin releases nitric oxide 是主谓宾结构：从句主语 nitroglycerin，谓语 releases，宾语 nitric oxide。主句虽是过去时，从句表示的是至今成立的科学事实，所以用一般现在时。\n③which widens blood vessels 是非限制性定语从句，视频说明它修饰 nitric oxide。which 在从句中作主语，指代一氧化氮；谓语 widens 用第三人称单数，与单数的 nitric oxide 一致。\n④本句开始第五段，用现代科学解释第三、四段的现象：硝酸甘油能治心绞痛，是因为它释放的一氧化氮会扩张血管。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句表示客观事实时用一般现在时",
+    "explain": "主句谓语是过去时，宾语从句通常也用相应的过去时态；但如果从句陈述的是科学规律、客观真理或至今仍然成立的事实，从句用一般现在时。本句 Murad ascertained that nitroglycerin releases nitric oxide 中，主句 ascertained 是过去时，从句 releases 用现在时，因为硝酸甘油释放一氧化氮是不变的事实。第12句 had prescribed 则是过去的具体事件，所以用过去完成时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Galileo argued that the Earth moves around the Sun.",
+      "zh": "伽利略主张地球绕着太阳转。"
+     },
+     {
+      "en": "The study confirmed that regular exercise lowers blood pressure.",
+      "zh": "这项研究证实，经常锻炼能降低血压。"
+     }
+    ]
+   },
+   {
+    "title": "which 引导非限制性定语从句修饰前面的名词",
+    "explain": "which 引导的非限制性定语从句既可以修饰紧挨在前面的名词，也可以指代前面整个句子的内容，要根据意思和谓语的单复数判断。本句 which widens blood vessels 修饰 nitric oxide：扩张血管的是一氧化氮，widens 也与单数名词一致。指代整句时，which 常可译为“这”，如 He passed the exam, which surprised everyone。翻译时非限制性定语从句常拆成独立分句，用“它”“这”回指。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The patients were given vitamin D, which helps the body absorb calcium.",
+      "zh": "病人服用了维生素D，它能帮助人体吸收钙。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ascertain",
+    "explain": "查明，弄清，确定，比 find out 正式，常接 that 从句、whether 从句或 the facts、the cause 等名词，视频译为“查明”。重音在第三音节 -tain 上。"
+   },
+   {
+    "term": "nitric oxide",
+    "explain": "一氧化氮，化学式 NO，视频译为“一氧化氮”。不要与 nitrous oxide（一氧化二氮，俗称笑气，N₂O）和 nitrogen dioxide（二氧化氮，NO₂）混淆。"
+   },
+   {
+    "term": "Murad",
+    "explain": "费里德·穆拉德（Ferid Murad），美国药理学家，视频译为“穆拉德”，是第18句 The trio（三人组）中的一位。"
+   },
+   {
+    "term": "widen",
+    "explain": "由形容词 wide 加动词后缀 -en 构成，意为“使变宽，扩大”，本句指扩张血管，视频译为“扩张”。同类构词有 broaden、deepen、strengthen。"
+   }
+  ],
+  "translation_tip": "视频译文“1977年，穆拉德查明硝酸甘油会释放一氧化氮，它会扩张血管。”的处理：①宾语从句紧跟谓语“查明”译出，that 不译。②从句的一般现在时用“会释放”表达，体现这是物质本身的性质。③非限制性定语从句 which widens blood vessels 没有前置为“能扩张血管的一氧化氮”，而是拆成独立分句，用“它”回指 nitric oxide，“会扩张血管”与前面的“会释放”句式一致。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Furchgott；Ignarro",
+   "predicate": "found；recognised",
+   "object_or_complement": "an unidentified relaxing factor（found 的宾语）；it（recognised 的宾语），as nitric oxide（宾语补足语）",
+   "explain": "并列句：and 连接两个分句。前一分句 Furchgott found an unidentified relaxing factor 是主谓宾结构；后一分句 Ignarro recognised it as nitric oxide 是主谓宾宾补结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Furchgott",
+    "role": "主语（第一个分句）",
+    "zh": "弗奇戈特"
+   },
+   {
+    "text": "found",
+    "role": "谓语（第一个分句）",
+    "zh": "发现了"
+   },
+   {
+    "text": "an unidentified relaxing factor",
+    "role": "宾语（unidentified 和 relaxing 作前置定语）",
+    "zh": "一种未经鉴定的舒张因子"
+   },
+   {
+    "text": "in vascular linings",
+    "role": "地点状语（介词短语）",
+    "zh": "存在于血管的内壁里"
+   },
+   {
+    "text": "in 1980,",
+    "role": "时间状语（介词短语）",
+    "zh": "这是1980年的事"
+   },
+   {
+    "text": "and Ignarro",
+    "role": "并列连词 and + 第二个分句的主语",
+    "zh": "伊格纳罗"
+   },
+   {
+    "text": "recognised",
+    "role": "谓语（第二个分句）",
+    "zh": "认定"
+   },
+   {
+    "text": "it",
+    "role": "宾语（指 the relaxing factor）",
+    "zh": "它"
+   },
+   {
+    "text": "as nitric oxide",
+    "role": "宾语补足语（as 短语）",
+    "zh": "就是一氧化氮"
+   },
+   {
+    "text": "in 1986.",
+    "role": "时间状语（介词短语）",
+    "zh": "这是1986年的事"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句，两个分句结构平行：“人名 + 谓语 + 宾语 + 状语 + in + 年份”。\n②第一个分句 Furchgott found an unidentified relaxing factor in vascular linings in 1980：宾语中心词是 factor，unidentified（未经鉴定的）和 relaxing（使舒张的）作前置定语。视频说明 relaxing factor 意为“舒张因子，能让血管放松的物质”，in vascular linings 是地点状语。in 1980 是时间状语。\n③第二个分句 Ignarro recognised it as nitric oxide in 1986：视频说明 recognise A as B 意为“认定 A 是 B”。it 回指前一分句的 relaxing factor，as nitric oxide 作宾语补足语，in 1986 是时间状语。\n④两个分句一前一后，讲清了“发现未知物质、认定其身份”两个步骤，加上第16句穆拉德的发现，引出下一句的“三人组”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "recognise A as B",
+    "explain": "recognise A as B 意为“认定 A 是 B，承认 A 为 B”，as 引出的名词或形容词作宾语补足语，被动形式为 A is recognised as B。同类结构有 regard / see / view / treat / describe / identify A as B，考研阅读和写作中极为常见。本句 recognised it as nitric oxide 中，it 是宾语，as nitric oxide 是宾补，说明“它”的身份。注意 recognise 的常见义是“认出”，在这个结构中表示“认定”。recognise 是英式拼写，美式为 recognize。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Doctors now recognise chronic loneliness as a serious threat to health.",
+      "zh": "医生如今认定长期孤独是对健康的严重威胁。"
+     },
+     {
+      "en": "The building was officially recognised as a World Heritage Site in 2004.",
+      "zh": "这座建筑于2004年被正式列为世界遗产。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词作前置定语",
+    "explain": "现在分词放在名词前作定语时，表示名词主动发出的动作或具有的作用。relaxing 在本句中意为“使（血管）舒张的”，relaxing factor 即“能让血管放松的物质”；日常英语的 a relaxing holiday（令人放松的假期）也是“使人放松”的意思。区分：relaxed 表示“感到放松的”，如 a relaxed atmosphere。还要与动名词作定语区分：a sleeping baby（正在睡觉的婴儿）中 sleeping 是现在分词，说明婴儿的状态；a sleeping bag（睡袋）中 sleeping 是动名词，说明袋子的用途。考研阅读中遇到 -ing 前置定语，要判断它表示“正在……”“使……的”还是“用于……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The nurse applied a soothing cream to the patient's burns.",
+      "zh": "护士在病人的烧伤处涂了一种舒缓的药膏。"
+     }
+    ]
+   },
+   {
+    "title": "并列分句的平行结构",
+    "explain": "两个并列分句采用相同的句式，可以使信息清晰、便于对比。本句前后两个分句都以人名开头、以 in + 年份结尾，读者一眼就能看出两项研究的先后。写作中描述时间顺序或对比时，可以借用这种平行结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "One team mapped the gene in 2001, and another team identified its function in 2006.",
+      "zh": "一个研究团队于2001年绘制出这个基因的图谱，另一个团队于2006年确定了它的功能。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Furchgott 与 Ignarro",
+    "explain": "罗伯特·弗奇戈特（Robert Furchgott）和路易斯·伊格纳罗（Louis Ignarro）都是美国药理学家，与第16句的穆拉德共同获得1998年诺贝尔生理学或医学奖。"
+   },
+   {
+    "term": "relaxing factor",
+    "explain": "视频说明为“舒张因子，能让血管放松的物质”。弗奇戈特发现的这种物质由血管内皮产生，后来被称为 endothelium-derived relaxing factor（内皮源性舒张因子，简称 EDRF）。factor 在生物医学中指“因子”，如 growth factor（生长因子）。"
+   },
+   {
+    "term": "vascular linings",
+    "explain": "血管的内壁，视频译为“血管的内壁”。vascular 意为“血管的”，lining 指器官或管道的内层，如 the stomach lining（胃黏膜）。"
+   },
+   {
+    "term": "unidentified",
+    "explain": "未经鉴定的，身份不明的，如 an unidentified substance、UFO（unidentified flying object，不明飞行物）。视频译为“未经鉴定的”。"
+   }
+  ],
+  "translation_tip": "视频译文“弗奇戈特发现了一种未经鉴定的舒张因子，存在于血管的内壁里，这是1980年的事；伊格纳罗认定它就是一氧化氮，这是1986年的事。”的处理：①地点状语 in vascular linings 拆成分句，增补“存在于”，译成“存在于血管的内壁里”。②两个时间状语 in 1980、in 1986 没有前置，而是各译成独立小句“这是……年的事”，放在分句末尾，保留了原文前后对称的结构。③and 连接的两个分句用分号隔开。④recognise A as B 译为“认定它就是一氧化氮”，增补“就是”，强调身份的确认。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "The trio",
+   "predicate": "shared",
+   "object_or_complement": "the 1998 Nobel Prize in Physiology or Medicine",
+   "explain": "主干就是全句，主谓宾结构。谓语 shared 为一般过去时，主动语态，意为“共同获得”。"
+  },
+  "components": [
+   {
+    "text": "The trio",
+    "role": "主语（指穆拉德、弗奇戈特和伊格纳罗三人）",
+    "zh": "这个三人组"
+   },
+   {
+    "text": "shared",
+    "role": "谓语",
+    "zh": "共同获得了"
+   },
+   {
+    "text": "the 1998",
+    "role": "宾语的限定词 the 和前置定语（年份）",
+    "zh": "1998年"
+   },
+   {
+    "text": "Nobel Prize",
+    "role": "宾语中心词",
+    "zh": "诺贝尔……奖"
+   },
+   {
+    "text": "in Physiology or Medicine.",
+    "role": "后置定语（介词短语），说明奖项类别",
+    "zh": "生理学或医学"
+   }
+  ],
+  "structure": "①全句是主谓宾结构：主语 The trio，谓语 shared，宾语 the 1998 Nobel Prize in Physiology or Medicine。\n②The trio 用定冠词，回指前两句的三位科学家：穆拉德、弗奇戈特和伊格纳罗。用一个集合名词概括三人，避免重复人名。\n③宾语中，年份 1998 作前置定语，in Physiology or Medicine 是介词短语作后置定语，说明奖项类别。这是诺贝尔奖的正式名称，中间用 or 连接。\n④本句把故事带回诺贝尔奖：诺贝尔用硝酸甘油制成炸药，积累财富设立奖项；一百多年后，这个奖颁给了解释硝酸甘油药理作用的科学家。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "share 表示“共同获得”",
+    "explain": "share 作及物动词，除“分享，共用”外，还可以表示几个人“共同获得”某个奖项、荣誉或责任，如 share a prize、share the blame（共同承担责任）。也可以说 share sth with sb，如 She shared the award with two colleagues。本句主语是三人组，谓语 shared 说明奖项由三人共同获得，视频译为“共同获得了”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The two writers shared the prize after the judges failed to choose between them.",
+      "zh": "评委们无法在两位作家中取舍，于是两人共同获奖。"
+     }
+    ]
+   },
+   {
+    "title": "集合名词回指前文的几个人",
+    "explain": "英语常用 the trio、the pair、the duo、the couple、the team 等集合名词回指前文提到的几个人，既概括了人数，又避免重复人名，新闻语体中尤其常见。本句 The trio 指第16、17句的三位科学家。考研阅读做指代题时，要回到前文找准这些集合名词所指的具体对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Two climbers reached the summit at dawn, and the pair began their descent an hour later.",
+      "zh": "两名登山者黎明时登顶，一小时后两人开始下山。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "trio",
+    "explain": "三人组，三件一套，也指三重奏，如 a jazz trio。类似的词有 duo（二人组）、quartet（四重奏，四人组）。视频译为“三人组”。"
+   },
+   {
+    "term": "Nobel Prize in Physiology or Medicine",
+    "explain": "诺贝尔生理学或医学奖，正式名称中用 or。1998年该奖授予弗奇戈特、伊格纳罗和穆拉德，表彰他们发现一氧化氮是心血管系统中的信号分子。其他奖项名称如 the Nobel Prize in Physics、the Nobel Prize in Chemistry、the Nobel Peace Prize。"
+   },
+   {
+    "term": "win the Nobel Prize",
+    "explain": "获得诺贝尔奖可以说 win / receive / be awarded the Nobel Prize；获奖者叫 Nobel laureate 或 Nobel Prize winner。"
+   }
+  ],
+  "translation_tip": "视频译文“这个三人组共同获得了1998年诺贝尔生理学或医学奖。”的处理：①The trio 译为“这个三人组”，“这个”体现定冠词的回指。②shared 译为“共同获得了”，突出三人同获一奖。③宾语按汉语习惯把后置定语 in Physiology or Medicine 前移，与 Nobel Prize 合成奖项的标准中文名称“诺贝尔生理学或医学奖”，年份放在最前。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "Its presentation speech",
+   "predicate": "quoted",
+   "object_or_complement": "his ironic letter",
+   "explain": "主干是 Its presentation speech quoted his ironic letter，主谓宾结构。谓语 quoted 为一般过去时，主动语态；主谓之间插入了时间状语和同位语。"
+  },
+  "components": [
+   {
+    "text": "Its presentation speech,",
+    "role": "主语（Its 指上句的奖项，presentation 作前置定语）",
+    "zh": "这个奖的颁奖致辞"
+   },
+   {
+    "text": "on 10 December,",
+    "role": "时间状语（介词短语，插在主谓之间）",
+    "zh": "在12月10日"
+   },
+   {
+    "text": "the anniversary of Nobel's death,",
+    "role": "同位语（名词短语），补充说明 10 December",
+    "zh": "也就是诺贝尔的逝世纪念日"
+   },
+   {
+    "text": "quoted",
+    "role": "谓语",
+    "zh": "引述了"
+   },
+   {
+    "text": "his ironic letter.",
+    "role": "宾语（his 指诺贝尔，ironic 作前置定语）",
+    "zh": "他那封感叹命运讽刺的信"
+   }
+  ],
+  "structure": "①主干是 Its presentation speech quoted his ironic letter：Its 指上句的1998年诺贝尔生理学或医学奖，presentation speech 指颁奖致辞；视频说明 quote 意为“引用，引述”。\n②主语和谓语之间插入了两个成分：on 10 December 是时间状语，the anniversary of Nobel's death 是同位语，视频说明它补充说明 10 December。阅读时要把这两个逗号之间的内容括起来，把 speech 和 quoted 连在一起。\n③宾语 his ironic letter 回指第12句诺贝尔写给助手的信。ironic 意为“具有讽刺意味的”，指信中感叹 by an irony of fate 的内容，视频译为“感叹命运讽刺的”。his 指诺贝尔。\n④本句收束全文：10 December 既是第15句诺贝尔的逝世日，也是颁奖的日子；致辞引述那封信，把炸药、心绞痛和诺贝尔奖三条线索连成一个完整的讽刺故事。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "主谓之间插入时间状语和同位语",
+    "explain": "主语和谓语之间可以插入状语、同位语、非限制性定语从句等，用逗号隔开。本句在 Its presentation speech 和 quoted 之间先插入时间状语 on 10 December，再插入同位语 the anniversary of Nobel's death 解释这个日期，主谓之间隔了八个词。考研长难句中，找不到谓语往往是因为主谓被隔开；做法是先找出成对的逗号，括起中间的插入成分，再把主语和谓语连读。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The opening concert, on 1 May, the city's founding day, sold out within hours.",
+      "zh": "开幕音乐会定在5月1日，也就是这座城市的建城纪念日，门票几小时内就售罄了。"
+     },
+     {
+      "en": "The ceremony, on 4 July, the nation's Independence Day, drew a record crowd.",
+      "zh": "典礼在7月4日，也就是该国的独立日举行，吸引了创纪录的人群。"
+     }
+    ]
+   },
+   {
+    "title": "代词 its、his 的指代",
+    "explain": "代词所指要到上文寻找最近、语义最合理的名词。本句 Its 不指人，而指上句的 the 1998 Nobel Prize in Physiology or Medicine，即“这个奖的”颁奖致辞；his 则指诺贝尔，因为写那封讽刺信的是他。考研阅读指代题常考 it、its、this、they 等，要结合上下文意思判断，不能只看距离。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum reopened last week, and its new wing has already attracted thousands of visitors.",
+      "zh": "博物馆上周重新开放，其新馆已吸引了数千名参观者。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "presentation speech",
+    "explain": "颁奖致辞。诺贝尔奖颁奖典礼上，评选机构的代表会发表致辞，介绍获奖者的成就。presentation 在此指“授予，颁发”，如 the presentation of prizes，视频译为“颁奖”。"
+   },
+   {
+    "term": "10 December",
+    "explain": "诺贝尔于1896年12月10日去世（见第15句），诺贝尔奖颁奖典礼每年都在这一天举行。the anniversary of Nobel's death 即“诺贝尔的逝世纪念日”。"
+   },
+   {
+    "term": "anniversary",
+    "explain": "周年纪念日，如 a wedding anniversary（结婚纪念日）、the 100th anniversary of sb's birth（诞辰一百周年）。视频译为“纪念日”。"
+   },
+   {
+    "term": "ironic 与 irony",
+    "explain": "ironic 是形容词，意为“讽刺的，具有讽刺意味的”，名词是 irony。本句 his ironic letter 回指第12句含有 by an irony of fate 的那封信，视频译为“感叹命运讽刺的”。"
+   }
+  ],
+  "translation_tip": "视频译文“这个奖的颁奖致辞在12月10日，也就是诺贝尔的逝世纪念日，引述了他那封感叹命运讽刺的信。”的处理：①Its 译为“这个奖的”，明确指代。②插在主谓之间的时间状语和同位语保留在原位，同位语用“也就是”引出，与英文语序一致。③ironic 没有简单译成“讽刺的信”，而是结合第12句的内容译为“感叹命运讽刺的”，说明信的内容；his 前增补量词，译为“他那封”。"
+ }
+]

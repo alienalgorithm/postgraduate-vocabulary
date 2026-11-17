@@ -1,0 +1,51 @@
+[
+ {
+  "key": "5",
+  "field": "knowledge.kieselguhr",
+  "before": "词源为德语 Kieselgur，Kiesel 意为“燧石，硅石”。",
+  "after": "词源为德语 Kieselgur，由 Kiesel（砾石，燧石）和方言词 Gur（疏松的土质沉积物）构成。",
+  "reason": "Kiesel 意为砾石、燧石，并非“硅石”；补全 Gur 部分，与 Oxford、Merriam-Webster 词源一致"
+ },
+ {
+  "key": "6",
+  "field": "components[3].role",
+  "before": "用途状语（介词短语，for 后三个名词并列）",
+  "after": "目的状语（介词短语，for 表示用途，后接三个并列名词）",
+  "reason": "“用途状语”不是考研通行术语，改为目的状语"
+ },
+ {
+  "key": "8",
+  "field": "knowledge.主题句",
+  "before": "本句只有四个词",
+  "after": "本句只有三个词（side-effects 是一个连字符复合词）",
+  "reason": "Nitroglycerin had side-effects 实为三个词，原写“四个词”不准确"
+ },
+ {
+  "key": "17",
+  "field": "grammar[1].explain",
+  "before": "区分：relaxed 表示“感到放松的”，如 a relaxed atmosphere。考研阅读中遇到 -ing 前置定语，要判断它表示“正在……”还是“使……的”。",
+  "after": "区分：relaxed 表示“感到放松的”，如 a relaxed atmosphere。还要与动名词作定语区分：a sleeping baby（正在睡觉的婴儿）中 sleeping 是现在分词，说明婴儿的状态；a sleeping bag（睡袋）中 sleeping 是动名词，说明袋子的用途。考研阅读中遇到 -ing 前置定语，要判断它表示“正在……”“使……的”还是“用于……的”。",
+  "reason": "补充现在分词与动名词作前置定语的区分，空泛处补具体"
+ },
+ {
+  "key": "17",
+  "field": "grammar[1].examples[0]",
+  "before": "Researchers identified a growth-promoting protein in the plant's roots. | 研究人员在这种植物的根部发现了一种促进生长的蛋白质。",
+  "after": "The nurse applied a soothing cream to the patient's burns. | 护士在病人的烧伤处涂了一种舒缓的药膏。",
+  "reason": "growth-promoting 是复合形容词，不能干净示范“现在分词单独作前置定语、表示使……的”，换用 soothing cream"
+ },
+ {
+  "key": "17",
+  "field": "grammar[2].examples[0]",
+  "before": "The first engine was tested in 1903, and the first passenger flight took off in 1908. | 第一台发动机于1903年试验，第一次载客飞行于1908年起飞。",
+  "after": "One team mapped the gene in 2001, and another team identified its function in 2006. | 一个研究团队于2001年绘制出这个基因的图谱，另一个团队于2006年确定了它的功能。",
+  "reason": "原例句像在陈述航空史事实但含糊不确，且中文“飞行于……起飞”搭配不当；换成与本句“主语 + 谓语 + 宾语 + in + 年份”完全平行的例句"
+ },
+ {
+  "key": "19",
+  "field": "grammar[0].explain",
+  "before": "主谓之间隔了十个词",
+  "after": "主谓之间隔了八个词",
+  "reason": "on 10 December, the anniversary of Nobel's death 共八个词，原写“十个词”有误"
+ }
+]
