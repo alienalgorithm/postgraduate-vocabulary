@@ -1,0 +1,114 @@
+[
+ {
+  "key": "n=2",
+  "field": "structure",
+  "before": "③两个分句是因果上的递进：缺乏经验，加上第1句所说的贫瘠土地，导致相当一部分人放弃。",
+  "after": "③两个分句意思上层层推进：先说他们缺乏种地经验，再说已有四分之一的人放弃，结合第1句所说的贫瘠土地，可见农民处境之艰难。",
+  "reason": "原文只是并列两个事实，没有明说因果，“因果上的递进”表述含混且把推断写成定论，改为与原文一致的说法"
+ },
+ {
+  "key": "n=3",
+  "field": "structure",
+  "before": "after drought 交代背景，旱灾是鸸鹋从内陆迁来的原因。drought 前用零冠词，泛指当时的干旱。",
+  "after": "after drought 交代背景：鸸鹋是在旱灾过后从干旱地区涌来的。drought 在这里作不可数名词，指干旱这种状况，前面不加冠词。",
+  "reason": "原文只说“旱灾过后”，没有明说旱灾是迁来的原因；“零冠词，泛指当时的干旱”自相矛盾，改为准确的冠词说明"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar.0.explain",
+  "before": "单数名词一律加 's，包括以 -s 结尾的人名，如 James's car（也写作 James' car）。",
+  "after": "单数名词一般加 's；以 -s 结尾的人名也可以加 's，如 James's car，也写作 James' car。",
+  "reason": "“一律加 's”与后面“也写作 James' car”自相矛盾"
+ },
+ {
+  "key": "n=5",
+  "field": "knowledge.4.explain",
+  "before": "机枪，英式英语常写作带连字符的 machine-gun，美式多写作 machine gun。",
+  "after": "机枪。作名词时 Oxford、Cambridge 等词典多写作 machine gun，也可写作带连字符的 machine-gun，本文用的是后一种；作动词“用机枪扫射”时写作 machine-gun。",
+  "reason": "“英式带连字符、美式不带”的说法无词典依据（Oxford、Cambridge 名词词条均为 machine gun，动词为 machine-gun），改为可核实的拼写说明"
+ },
+ {
+  "key": "n=6",
+  "field": "components.5.role",
+  "before": "冒号后的说明部分的中心，说明 a detachment 的构成",
+  "after": "同位语中心词（冒号引出），具体说明 a detachment 由谁组成，后面带同位语和 with 短语",
+  "reason": "成分名称空泛，按视频说明“冒号后具体说明 detachment”明确为同位语"
+ },
+ {
+  "key": "n=6",
+  "field": "grammar.0.examples.0",
+  "before": "{\"en\": \"The company accepted the offer, selling its factory to a rival firm.\", \"zh\": \"公司接受了报价，把工厂卖给了一家竞争对手。\"}",
+  "after": "{\"en\": \"The government responded quickly, sending food and medical supplies to the flooded region.\", \"zh\": \"政府迅速作出回应，向受灾地区运送了食品和医疗物资。\"}",
+  "reason": "原例句“接受报价”与“卖工厂”其实是同一件事，不像两个伴随动作，换成与本句“同意后派出”结构对应、语义清楚的例句"
+ },
+ {
+  "key": "n=8",
+  "field": "grammar.0.explain",
+  "before": "approach 作动词表示“靠近，接近”时是及物动词，直接接宾语，不能说 approach to the dam。",
+  "after": "approach 作动词表示“靠近，接近（某人或某处）”时是及物动词，直接接宾语，不能说 approach to the dam；不带宾语时也可作不及物动词，如 Winter is approaching。",
+  "reason": "原说法暗示 approach 只能作及物动词，补充不及物用法，规则更准确"
+ },
+ {
+  "key": "n=9",
+  "field": "components.5.role",
+  "before": "结果状语（现在分词短语）的核心动词，逻辑主语是 The flocks 的行为",
+  "after": "结果状语（现在分词短语）的核心动词，表示前面鸟群散成小群这一行为造成的结果",
+  "reason": "“逻辑主语是 The flocks 的行为”表述不通，改为与视频说明（结果状语）一致的说法"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar.0.examples.1",
+  "before": "{\"en\": \"Years of legal battles had spent most of the family's savings.\", \"zh\": \"多年的官司耗掉了这家人大部分的积蓄。\"}",
+  "after": "{\"en\": \"The campaign spent nearly $2 million on television advertising in its final week.\", \"zh\": \"该竞选团队在最后一周花了近200万美元投放电视广告。\"}",
+  "reason": "“官司 spent 积蓄”不是地道搭配（应说 eat up/use up），换成地道且示范 spend A on B 的例句"
+ },
+ {
+  "key": "n=12",
+  "field": "structure",
+  "before": "第11句说射击在撤退后几天内恢复，本句交代这次行动最终的结局，第三段到此结束。",
+  "after": "第11句说射击在撤退后几天内恢复，本句是第四段的第一句，交代梅雷迪思这次行动的结局。",
+  "reason": "事实错误：第12句是第四段开头，不是第三段结尾"
+ },
+ {
+  "key": "n=13",
+  "field": "components.3.role",
+  "before": "宾语 986 kills + 介词短语 from 9,860 rounds（表示来源，说明这些击杀出自多少发子弹）",
+  "after": "宾语 986 kills + 后置定语 from 9,860 rounds（介词短语修饰 kills，表示来源，说明这些击杀出自多少发子弹）",
+  "reason": "成分要具体：from 9,860 rounds 是修饰 kills 的后置定语"
+ },
+ {
+  "key": "n=14",
+  "field": "structure",
+  "before": "resilient 修饰 birds，说明这些鸟耐打、受了伤也能挺过来。",
+  "after": "resilient 修饰 birds，说明这些鸟经得起打击。",
+  "reason": "“受了伤也能挺过来”原文没有写，删去超出原文的细节"
+ },
+ {
+  "key": "n=14",
+  "field": "structure",
+  "before": "④把鸟的坚韧比作坦克装甲，是梅雷迪思为行动失败所作的解释：鸟太耐打，所以打不死。",
+  "after": "④把鸟的坚韧比作坦克装甲，是夸张的比喻，突出这些鸟极难打死，也从侧面说明了战果为何如此有限。",
+  "reason": "原文没有说这是梅雷迪思为失败所作的解释，改为不超出原文的说法"
+ },
+ {
+  "key": "n=14",
+  "field": "knowledge.0.explain",
+  "before": "本句结合中弹后仍能逃脱的语境，译为“耐打的”。",
+  "after": "本句结合鸟群屡遭射击仍难以消灭的语境，译为“耐打的”。",
+  "reason": "“中弹后仍能逃脱”原文没有写，改为与原文一致的语境说明"
+ },
+ {
+  "key": "n=16",
+  "field": "grammar.0.examples.0.zh",
+  "before": "教育部上个月发布的指导意见引起了广泛的困惑。",
+  "after": "该部上个月发布的指导意见引起了广泛的困惑。",
+  "reason": "the ministry 未指明哪个部，译成“教育部”属无据增译"
+ },
+ {
+  "key": "n=18",
+  "field": "knowledge.2.explain",
+  "before": "英语中21到99之间的两位数，十位和个位之间用连字符连接，如 fifty-seven、twenty-one。",
+  "after": "英语中21到99之间带个位数的两位数（整十的 thirty、forty 等除外），十位和个位之间用连字符连接，如 fifty-seven、twenty-one。",
+  "reason": "原规则把 30、40 等整十数也包括进去，不准确"
+ }
+]

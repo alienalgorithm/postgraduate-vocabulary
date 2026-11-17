@@ -1,0 +1,1817 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "most farmers",
+   "predicate": "were",
+   "object_or_complement": "First World War veterans",
+   "explain": "主干是 most farmers were First World War veterans，主系表结构，were 是系动词，veterans 作表语，说明这些农民的身份。谓语用一般过去时，交代1932年事件发生前当地农民的背景。"
+  },
+  "components": [
+   {
+    "text": "Around Campion, Western Australia,",
+    "role": "地点状语（介词短语）；Western Australia 用逗号隔开，补充说明 Campion 所在的州",
+    "zh": "在西澳大利亚州坎皮恩一带"
+   },
+   {
+    "text": "most farmers",
+    "role": "主语",
+    "zh": "大多数农民"
+   },
+   {
+    "text": "were",
+    "role": "系动词（一般过去时）",
+    "zh": "是"
+   },
+   {
+    "text": "First World War",
+    "role": "前置定语（专有名词作定语），修饰 veterans",
+    "zh": "第一次世界大战的"
+   },
+   {
+    "text": "veterans,",
+    "role": "表语",
+    "zh": "退伍军人"
+   },
+   {
+    "text": "settlers",
+    "role": "同位语，说明 veterans",
+    "zh": "他们作为定居者"
+   },
+   {
+    "text": "placed by a government scheme",
+    "role": "后置定语（过去分词短语），修饰 settlers，相当于 who were placed by a government scheme",
+    "zh": "由政府计划安置"
+   },
+   {
+    "text": "on marginal parcels",
+    "role": "地点状语（介词短语），说明 placed 安置的地点",
+    "zh": "在贫瘠的/边缘的小块土地上"
+   },
+   {
+    "text": "of farmland.",
+    "role": "后置定语（介词短语），修饰 parcels，说明是什么样的小块土地",
+    "zh": "以这些农地为生"
+   }
+  ],
+  "structure": "①主句是 most farmers were First World War veterans：主语 most farmers，系动词 were，表语 veterans，First World War 是专有名词作前置定语，说明是哪场战争的退伍军人。\n②句首 Around Campion, Western Australia 是地点状语。around 在这里意为“在……一带，在……附近”，不是“围绕”；Western Australia 用逗号隔开放在 Campion 之后，补充说明这个地方所在的州，英语地名按“小地方, 大地区”的顺序排列。\n③veterans 后的逗号引出同位语 settlers，从另一个角度说明这些退伍军人的身份：他们同时是政府安置的定居者。\n④placed by a government scheme 是过去分词短语作后置定语，修饰 settlers，相当于 who were placed by a government scheme，省略了 who were；settlers 是“被安置”的一方，所以用过去分词，by 引出动作的执行者。\n⑤on marginal parcels 说明安置的地点，与 placed 构成 place sb on sth（把某人安置在某处）；of farmland 修饰 parcels，表示这些小块土地是农地。marginal 一词交代土地质量差，为下一句“四分之一的人已经放弃”埋下伏笔。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词（短语）作同位语",
+    "explain": "同位语是紧跟在名词后、对它作补充说明的名词或名词短语，两者指同一对象，中间通常用逗号隔开。本句 settlers placed by a government scheme on marginal parcels of farmland 是 veterans 的同位语：退伍军人和定居者是同一批人，同位语交代了他们的另一层身份和来历。同位语本身还可以带定语，本句同位语中心词 settlers 后就带了一个较长的过去分词短语。考研长难句中，逗号后突然出现一个名词短语，前面又没有连词，就要先考虑它是否是前面某个名词的同位语；翻译时常把同位语拆成独立的短句，并用“他们”“这”等词回指。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The prize went to Maria Lopez, a young engineer trained at a provincial university.",
+      "zh": "奖项颁给了玛丽亚·洛佩斯，她是一名在地方大学接受培养的年轻工程师。"
+     },
+     {
+      "en": "Most of the volunteers were retired teachers, people with time to spare and decades of classroom experience.",
+      "zh": "大多数志愿者是退休教师，他们有空闲时间，也有几十年的课堂经验。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语（省略关系代词和 be）",
+    "explain": "过去分词短语修饰名词时放在名词后，可以看作定语从句省略了关系代词和 be 动词：settlers placed by a government scheme = settlers who were placed by a government scheme。及物动词的过去分词表示被动，被修饰的名词是动作的承受者，by 短语引出动作的执行者。考研阅读中，名词后紧跟 -ed 形式时，要判断它是谓语还是后置定语：本句谓语是前面的 were，placed 前面又没有助动词，所以只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Families relocated by the dam project received only modest compensation.",
+      "zh": "因水坝工程而迁居的家庭只得到了少量补偿。"
+     },
+     {
+      "en": "The rules adopted by the committee last year have already been revised twice.",
+      "zh": "委员会去年通过的规定已经修改过两次。"
+     }
+    ]
+   },
+   {
+    "title": "英语地名的排列：由小到大，逗号分隔",
+    "explain": "英语写地址或地名时由小到大排列，层级之间用逗号隔开，如 Campion, Western Australia（西澳大利亚州的坎皮恩）、Napier, New Zealand；如果地名在句中，后一个地名后面通常也要加逗号，与后文隔开，本句 Western Australia 后的逗号就是这个作用。汉语则由大到小排列，所以视频译为“西澳大利亚州坎皮恩”。考研翻译和写作中处理地址、机构名称时，要注意这种语序差异。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The conference was held in Cambridge, Massachusetts, in the spring of 2019.",
+      "zh": "会议于2019年春季在马萨诸塞州的剑桥市举行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Western Australia",
+    "explain": "西澳大利亚州，澳大利亚面积最大的州，首府珀斯（Perth）。Campion（坎皮恩）是该州的一个农业地区，第3句的 the wheat crops 表明当地种植小麦。英语专有名词 Western Australia 是州名，首字母大写，不能理解成泛指的“澳大利亚西部”。"
+   },
+   {
+    "term": "around",
+    "explain": "本句是介词，意为“在……附近，在……一带”，表示大致的地点范围，视频译为“……一带”。around 用在数字前还表示“大约”，如 around 500 people。"
+   },
+   {
+    "term": "First World War veterans",
+    "explain": "the First World War 即第一次世界大战（1914年至1918年），也说 World War I。作前置定语时省去冠词，直接写 First World War veterans（一战退伍军人）。veteran 在美式英语中常泛指退伍军人，英式英语中多指参加过某场战争的老兵。"
+   },
+   {
+    "term": "government scheme",
+    "explain": "scheme 在英式英语（包括澳大利亚英语）中是中性词，指政府或机构的计划、方案，如 a pension scheme（养老金计划）；在美式英语中 scheme 常带贬义，指诡计、阴谋。本句 a government scheme 指政府的安置计划，视频译为“政府计划”。"
+   },
+   {
+    "term": "marginal land",
+    "explain": "marginal 修饰土地时指贫瘠、难以耕种、产出很低的，marginal land 即“贫瘠的土地”；marginal 的基本义是“边缘的”，所以视频同时给出“贫瘠的/边缘的”两个意思。"
+   },
+   {
+    "term": "a parcel of land",
+    "explain": "parcel 常见义是“包裹”，与 land、farmland 连用时指“一块（土地）”，a parcel of land 即一小块地，多用于土地交易、地产等正式语境。"
+   }
+  ],
+  "translation_tip": "视频译文“在西澳大利亚州坎皮恩一带，大多数农民是第一次世界大战的退伍军人，他们作为定居者，由政府计划安置在贫瘠的/边缘的小块土地上，以这些农地为生。”做了这几处处理：①句首地点状语保留在句首，地名按汉语习惯由大到小排列为“西澳大利亚州坎皮恩”，around 译成“一带”放在地名后。②同位语 settlers 没有硬译成“退伍军人，即定居者”，而是拆成独立分句，用“他们作为定居者”回指前面的农民。③过去分词短语 placed by a government scheme 译成被动意义的“由政府计划安置”，by 译为“由”。④of farmland 没有译成“农地的小块土地”，而是增补动词，单独译为“以这些农地为生”，交代这些土地对农民的意义，句子更通顺。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "They；a quarter",
+   "predicate": "were；had already quit",
+   "object_or_complement": "inexperienced growers（were 的表语）",
+   "explain": "and 连接两个并列分句。前一分句 They were inexperienced growers 是主系表结构，一般过去时；后一分句 a quarter had already quit 是主谓结构，quit 在此为不及物动词，谓语用过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "They",
+    "role": "第一分句主语（指上句的农民）",
+    "zh": "他们"
+   },
+   {
+    "text": "were",
+    "role": "系动词（一般过去时）",
+    "zh": "是"
+   },
+   {
+    "text": "inexperienced growers,",
+    "role": "表语（inexperienced 作前置定语，修饰 growers）",
+    "zh": "缺乏经验的种植者"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "（并列连词，未单独译出）"
+   },
+   {
+    "text": "a quarter",
+    "role": "第二分句主语（分数作主语，省略了 of them）",
+    "zh": "四分之一的人"
+   },
+   {
+    "text": "had already quit.",
+    "role": "第二分句谓语（过去完成时，already 作时间状语）",
+    "zh": "已有……放弃了土地"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句。第一分句 They were inexperienced growers：主语 They 指上句的 most farmers，were 是系动词，inexperienced growers 作表语，说明这些农民缺乏种地经验。\n②第二分句 a quarter had already quit：主语 a quarter 是分数，后面省略了 of them，即“他们当中的四分之一”；谓语 had quit 是过去完成时，already 放在助动词和过去分词之间，强调“到那时已经”。\n③两个分句意思上层层推进：先说他们缺乏种地经验，再说已有四分之一的人放弃，结合第1句所说的贫瘠土地，可见农民处境之艰难。过去完成时把“放弃”放在第3句1932年的鸸鹋入侵之前，说明在鸟灾到来之前，农民的处境就已经很艰难。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时：过去某一时间之前已完成的动作",
+    "explain": "过去完成时（had done）表示在过去某一时间或某一动作之前已经发生或完成的事，即“过去的过去”。参照时间可以在同一句中给出，也可以由上下文暗示。本句没有出现参照时间，但下一句是 In 1932, after drought, ... emus swarmed in，可见 had already quit 指的是1932年鸸鹋到来之前就已经有四分之一的人离开。already、by then、by that time 等常与过去完成时连用。考研阅读中，看到 had done 要据此理清事件的先后，不能把它当成与上下文同时发生的事。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the rescue team arrived, most of the villagers had already left.",
+      "zh": "救援队赶到时，大部分村民已经离开了。"
+     },
+     {
+      "en": "By the end of the decade, nearly half of the original investors had sold their shares.",
+      "zh": "到那个十年结束时，最初的投资者中已有近一半卖掉了股份。"
+     }
+    ]
+   },
+   {
+    "title": "分数的表达及其作主语",
+    "explain": "英语分数的分子用基数词，分母用序数词，分子大于1时分母加 -s，如 one third、two thirds；四分之一常说 a quarter（也说 one fourth），二分之一说 a half。分数后接 of + 名词作主语时，谓语的单复数由 of 后的名词决定：a quarter of the farmers have left，a quarter of the land is unused。本句 a quarter 后省略了 of them，前文已经说明是农民，所以直接用 a quarter 指“四分之一的人”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Roughly two thirds of the respondents said they had never used the service.",
+      "zh": "约三分之二的受访者表示从未使用过这项服务。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "quit",
+    "explain": "本句是不及物动词，指放弃、离开（工作、地方等），视频结合语境译为“放弃了土地”。quit 的过去式和过去分词通常都是 quit，英式英语也用 quitted。及物用法如 quit one's job（辞职）、quit smoking（戒烟），后接动名词而不接不定式。"
+   },
+   {
+    "term": "inexperienced growers",
+    "explain": "inexperienced 由否定前缀 in- 加 experienced 构成，意为“缺乏经验的”，常接 in 或 at，如 inexperienced in farming。grower 指种植某种作物的人或商业生产者，常见 wheat growers（小麦种植者）、fruit growers（果农）。"
+   },
+   {
+    "term": "a quarter",
+    "explain": "四分之一。quarter 还可指一刻钟（a quarter past ten，十点一刻）、季度（the first quarter，第一季度）和美国、加拿大的25美分硬币。"
+   }
+  ],
+  "translation_tip": "视频译文“他们是缺乏经验的种植者，已有四分之一的人放弃了土地。”的处理：①第一分句按原语序直译。②连词 and 没有译出，两个分句用逗号衔接，靠意思上的递进相连，符合汉语少用连词的习惯。③a quarter 后省略的 of them 译成“四分之一的人”；already 译为“已有”，放在主语前，与过去完成时“已经发生”的含义对应。④不及物的 quit 增补宾语，译成“放弃了土地”，结合第1句的土地背景，意思更具体。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "roughly 20,000 emus",
+   "predicate": "swarmed in；trampled",
+   "object_or_complement": "the wheat crops（trampled 的宾语）",
+   "explain": "一个主语带两个由 and 连接的并列谓语：swarmed in（主谓，swarm 不及物，in 是副词）和 trampled the wheat crops（主谓宾）。两个谓语都是一般过去时，主动语态，按先后顺序叙述。"
+  },
+  "components": [
+   {
+    "text": "In 1932,",
+    "role": "时间状语（介词短语）",
+    "zh": "1932年"
+   },
+   {
+    "text": "after drought,",
+    "role": "时间状语（介词短语）",
+    "zh": "旱灾过后"
+   },
+   {
+    "text": "roughly 20,000 emus",
+    "role": "主语（roughly 修饰数词，表示约数）",
+    "zh": "约2万只鸸鹋"
+   },
+   {
+    "text": "swarmed in",
+    "role": "谓语一（不及物动词 swarm + 副词 in）",
+    "zh": "蜂拥而至"
+   },
+   {
+    "text": "from arid country",
+    "role": "地点状语（介词短语，表示来处）",
+    "zh": "从干旱地区"
+   },
+   {
+    "text": "in flocks",
+    "role": "方式状语（介词短语）",
+    "zh": "成群地"
+   },
+   {
+    "text": "and trampled",
+    "role": "并列连词 and + 谓语二",
+    "zh": "践踏了（指动物破坏）"
+   },
+   {
+    "text": "the wheat crops.",
+    "role": "宾语（trampled 的宾语；wheat 作定语）",
+    "zh": "小麦庄稼"
+   }
+  ],
+  "structure": "①主句是 roughly 20,000 emus swarmed in ... and trampled the wheat crops：主语带两个并列谓语，前一个说明鸸鹋“蜂拥而至”，后一个说明它们“践踏庄稼”，两个动作按时间先后排列。\n②句首两个时间状语：In 1932 交代年份，after drought 交代背景：鸸鹋是在旱灾过后从干旱地区涌来的。drought 在这里作不可数名词，指干旱这种状况，前面不加冠词。\n③swarmed in 后面接两个状语：from arid country 说明鸸鹋从哪里来，in flocks 说明它们以什么方式来。英语把来处和方式依次放在动词之后，汉语则把它们都放到动词前面，译为“成群地从干旱地区蜂拥而至”。\n④第二个谓语 trampled 带宾语 the wheat crops，wheat 是名词作定语，说明是什么庄稼。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一个主语带并列谓语",
+    "explain": "同一个主语连续发出两个或几个动作时，可以用 and 把几个谓语并列起来，共用一个主语，后面的谓语前不再重复主语。本句 swarmed in 和 trampled 共用主语 roughly 20,000 emus。阅读时要找到第二个谓语的主语：and trampled 前面没有新的主语，所以它的主语仍是 emus，而不是紧挨着的 flocks 或 country。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The protesters gathered outside the parliament and blocked the main entrance for several hours.",
+      "zh": "抗议者聚集在议会外，堵住正门达数小时之久。"
+     }
+    ]
+   },
+   {
+    "title": "动词后多个状语的排列与汉译语序",
+    "explain": "英语的地点、方式等状语一般放在动词或宾语之后，几个状语可以依次排在句末；汉语的状语通常放在动词前面。本句 swarmed in from arid country in flocks 中，from arid country（来处）和 in flocks（方式）都在动词之后，视频译为“成群地从干旱地区蜂拥而至”，两个状语都移到了动词前。考研翻译中，遇到动词后连续出现几个介词短语时，要先判断各自修饰什么，再按汉语习惯把状语前移，避免译成“蜂拥而至从干旱地区成群地”这类欧化语序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Thousands of commuters walked home in silence along the closed motorway.",
+      "zh": "数千名通勤者沿着封闭的高速公路默默地步行回家。"
+     },
+     {
+      "en": "Refugees streamed across the border in large numbers after the ceasefire collapsed.",
+      "zh": "停火协议破裂后，难民大批越过边境涌入。"
+     }
+    ]
+   },
+   {
+    "title": "表示约数的副词 roughly、about、some",
+    "explain": "roughly、about、around、approximately、some 放在数字前，都表示“大约”。roughly 和 approximately 稍正式，some 用于数字前时较书面，如 some 50 metres。英语数字三位一分节，20,000 读作 twenty thousand；汉语以“万”为单位，所以视频写成“约2万只”。考研阅读的数字细节题常在“大约”“超过”“不到”上设置干扰，roughly、over、under 等词要看清。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Roughly 40,000 people attended the festival over the weekend.",
+      "zh": "周末约有4万人参加了这个节日活动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "emu",
+    "explain": "鸸鹋，澳大利亚特有的大型鸟类，不会飞，善于奔跑，是现存身高仅次于鸵鸟的鸟类。复数为 emus。本文所说的事件常被称为 the Emu War（鸸鹋战争）。"
+   },
+   {
+    "term": "country（熟词僻义）",
+    "explain": "country 除了“国家”“乡村”之外，作不可数名词还可指具有某种地貌特征的“地区，地带”，常与形容词连用，如 arid country（干旱地区）、hill country（丘陵地带）、open country（开阔地）。本句 arid country 指澳大利亚内陆的干旱地区，不能译成“干旱的国家”。"
+   },
+   {
+    "term": "swarm in",
+    "explain": "swarm 作名词指蜂群、昆虫群，作动词指成群地移动，in 是副词，表示“进入（某地）”，swarm in 即成群涌入，视频译为“蜂拥而至”。常见搭配还有 swarm with（挤满，充满），如 The square was swarming with tourists。"
+   },
+   {
+    "term": "in flocks",
+    "explain": "flock 指鸟群、羊群，in flocks 意为“成群地”，也可比喻人成群结队，如 Tourists came in flocks。与之相近的 in droves（成群结队地）多用于人。"
+   },
+   {
+    "term": "trample",
+    "explain": "及物动词，指踩坏、践踏，常用于人群或动物踩坏庄稼、花草等，如 trample the grass；比喻义为“践踏、无视（权利、感情）”，常用 trample on sb's rights。视频注明“（指动物破坏）”，说明这里是鸸鹋踩坏了麦田。"
+   }
+  ],
+  "translation_tip": "视频译文“1932年，旱灾过后，约2万只鸸鹋成群地从干旱地区蜂拥而至，践踏了（指动物破坏）小麦庄稼。”的处理：①两个时间状语保留在句首，先年份后背景，与原文顺序一致；after drought 译成“旱灾过后”，用“过后”对应 after。②数字按汉语习惯换成“2万”，并按汉语表达加量词“只”。③动词后的 from arid country 和 in flocks 都前移到“蜂拥而至”之前，排成“成群地从干旱地区蜂拥而至”。④and 没有译出，两个动作用逗号连接；括号说明“指动物破坏”，提示 trample 在此的具体含义。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The farmers' plight",
+   "predicate": "took",
+   "object_or_complement": "a military turn",
+   "explain": "主谓宾结构，谓语 took 是一般过去时，主动语态。take a military turn 是 take a ... turn（出现……的转向）的搭配，主语是抽象名词 plight。"
+  },
+  "components": [
+   {
+    "text": "The farmers'",
+    "role": "定语（名词复数所有格），修饰 plight",
+    "zh": "农民的"
+   },
+   {
+    "text": "plight",
+    "role": "主语中心词",
+    "zh": "困境"
+   },
+   {
+    "text": "took",
+    "role": "谓语（与 a military turn 构成 take a ... turn）",
+    "zh": "走向了"
+   },
+   {
+    "text": "a military turn.",
+    "role": "宾语（military 作定语，修饰 turn）",
+    "zh": "军事手段"
+   }
+  ],
+  "structure": "①句子是简单的主谓宾结构：主语 The farmers' plight，谓语 took，宾语 a military turn。\n②主语中心词是 plight，The farmers' 是名词复数所有格，作定语，farmers 以 -s 结尾，所以只加撇号。\n③take a ... turn 表示事情出现某种转向，形容词说明转向的性质，a military turn 即事态转向了军事方面，指下文农民请求出动军队、动用机枪。\n④本句承上启下：第一段交代农民的困境，本句用一句话点明转折，第5句起具体叙述军方如何介入。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词所有格：复数名词只加撇号",
+    "explain": "以 -s 结尾的复数名词构成所有格时只在词尾加撇号，如 the farmers' plight、the students' complaints；不以 -s 结尾的复数名词加 's，如 children's books、women's rights。单数名词一般加 's；以 -s 结尾的人名也可以加 's，如 James's car，也写作 James' car。本文第14句的 the resilient birds' toughness、第15句的 the hardy flocks' endurance 也是复数名词所有格。写作中 farmer's（一个农民的）和 farmers'（农民们的）意思不同，不能混用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The workers' demands were finally put before the board.",
+      "zh": "工人们的诉求终于提交给了董事会。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词作主语的“无灵主语句”",
+    "explain": "英语常用抽象名词或无生命的事物作主语，搭配表示动作的动词，句子简洁紧凑，这类句子常称为无灵主语句。本句主语是抽象名词 plight（困境），谓语却是动作性很强的 took，意思是“农民的困境出现了军事化的转向”。汉语较少让抽象名词发出动作，翻译时常要调整，视频译为“农民的困境由此走向了军事手段”，用“走向”对应 took，并增补“由此”衔接上文。考研阅读和翻译中这类句子很常见，如 The decade saw rapid growth（这十年经济快速增长）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The dispute took an unexpected turn when the chairman resigned.",
+      "zh": "主席辞职后，这场争端出现了意想不到的转折。"
+     },
+     {
+      "en": "The early 1990s saw a sharp rise in unemployment across Europe.",
+      "zh": "20世纪90年代初，整个欧洲的失业率急剧上升。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "plight",
+    "explain": "名词，指（人或动物所处的）困境、苦境，常用于令人同情的处境，如 the plight of refugees（难民的困境）、highlight the plight of farmers（让人们关注农民的困境）。本句视频译为“困境”。"
+   },
+   {
+    "term": "take a ... turn",
+    "explain": "固定搭配，表示事态出现某种转折或变化，中间加形容词说明变化的性质，如 take a turn for the better（好转）、take a turn for the worse（恶化）、take a dramatic turn（发生戏剧性转折）。本句 took a military turn 表示事态转向了军事手段。"
+   },
+   {
+    "term": "military",
+    "explain": "形容词，意为“军事的，军队的”，如 military action（军事行动）、military service（兵役）；the military 作名词，指军队、军方。"
+   }
+  ],
+  "translation_tip": "视频译文“农民的困境由此走向了军事手段。”的处理：①主语 The farmers' plight 按原语序译为“农民的困境”。②take a military turn 没有直译成“采取了一个军事的转向”，而是意译为“走向了军事手段”，turn 所含的“转向”体现在“走向”中，military 落实为具体的“军事手段”。③增补“由此”，承接上段农民的困境，交代事态因此发生变化。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "a delegation of ex-soldiers",
+   "predicate": "aired；asked",
+   "object_or_complement": "their grievances（aired 的宾语）；the Defence Minister（asked 的宾语，for machine-guns 表示所求之物）",
+   "explain": "一个主语带两个由 and 连接的并列谓语：aired their grievances（主谓宾）和 asked the Defence Minister for machine-guns（ask sb for sth 结构）。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In desperation,",
+    "role": "状态状语（介词短语 in + 抽象名词），说明下文动作发生时的心境",
+    "zh": "绝望之中"
+   },
+   {
+    "text": "a delegation",
+    "role": "主语中心词",
+    "zh": "一个……代表团"
+   },
+   {
+    "text": "of ex-soldiers",
+    "role": "后置定语（介词短语），修饰 a delegation，说明代表团的成员",
+    "zh": "由退伍士兵组成的"
+   },
+   {
+    "text": "aired",
+    "role": "谓语一",
+    "zh": "公开表达了"
+   },
+   {
+    "text": "their grievances",
+    "role": "宾语（aired 的宾语）",
+    "zh": "他们的不满/委屈"
+   },
+   {
+    "text": "and asked",
+    "role": "并列连词 and + 谓语二",
+    "zh": "请求"
+   },
+   {
+    "text": "the Defence Minister",
+    "role": "宾语（ask sb for sth 中的 sb）",
+    "zh": "国防部长"
+   },
+   {
+    "text": "for machine-guns.",
+    "role": "介词短语（ask sb for sth 中的 for sth，表示请求的东西）",
+    "zh": "提供机枪"
+   }
+  ],
+  "structure": "①主句是 a delegation of ex-soldiers aired their grievances and asked the Defence Minister for machine-guns：一个主语带两个并列谓语，先“公开表达不满”，再“请求提供机枪”。\n②句首 In desperation 是介词短语作状语，说明代表团采取行动时的心境：走投无路，才去找政府要武器。\n③主语中心词是 a delegation，of ex-soldiers 作后置定语，说明代表团由退伍士兵组成，呼应第1句 most farmers were First World War veterans，这些农民本身就是退伍军人。\n④aired 是名词 air 转作动词，意为“公开说出”，与 their grievances 搭配；asked the Defence Minister for machine-guns 是 ask sb for sth（向某人要某物）结构，the Defence Minister 是 asked 的宾语，for machine-guns 表示所要的东西。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "ask sb for sth 与 ask sb to do sth",
+    "explain": "ask 表示“请求、索要”时有两种常见结构：ask sb for sth（向某人要某物），ask sb to do sth（请某人做某事）。本句 asked the Defence Minister for machine-guns 是第一种，宾语 the Defence Minister 是被请求的人，for 引出所要的东西，意思相当于 asked the Defence Minister to provide machine-guns，视频据此译为“请求国防部长提供机枪”。易错点：ask for sth 中 for 不能省略，不能说 ask the minister machine-guns；ask sb sth 则表示“问某人某事”，如 ask him a question。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The hospital asked the local council for extra funding to keep the ward open.",
+      "zh": "医院请求地方议会追加拨款，以维持病房运转。"
+     },
+     {
+      "en": "The union asked its members to reject the pay offer.",
+      "zh": "工会要求会员拒绝这一加薪方案。"
+     }
+    ]
+   },
+   {
+    "title": "in + 抽象名词作状语",
+    "explain": "介词 in 加表示情绪、状态的抽象名词，可以作状语，说明动作发生时的心理或状态，如 in desperation（绝望之下）、in despair（绝望地）、in surprise（惊讶地）、in silence（默默地）、in anger（愤怒地）。这类短语常放在句首，用逗号隔开，作用相当于一个副词。本句 In desperation 说明代表团是在走投无路的情况下才请求动用机枪的。写作中用这类短语可以替换单调的副词，使句式更多样。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In frustration, the residents took their complaints directly to the mayor.",
+      "zh": "居民们无奈之下，直接向市长投诉。"
+     }
+    ]
+   },
+   {
+    "title": "名词转作动词：air",
+    "explain": "英语中不少名词可以直接用作动词，词形不变，意思由名词引申而来。air 本义是“空气”，作动词可指“使通风、晾干”，进而引申为“公开表达（意见、不满）”和“播出（节目）”，如 air one's views、The interview was aired last night。本句 aired their grievances 就是“公开表达不满”。考研阅读中要警惕这种熟词转性，看到 air、voice、face、head 等常见名词出现在谓语位置时，要按动词义理解。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Residents aired their concerns about the new road at a public meeting.",
+      "zh": "居民们在一次公开会议上表达了对新修道路的担忧。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "air one's grievances",
+    "explain": "公开表达不满、诉说委屈，近义说法有 voice one's grievances、express one's grievances。grievance 指自认为受到不公对待而产生的不满或委屈，常见 a grievance against sb（对某人的不满）。"
+   },
+   {
+    "term": "ex-soldiers",
+    "explain": "ex- 是前缀，加在名词前表示“以前的，前任的”，如 ex-wife（前妻）、ex-president（前总统）、ex-soldier（退伍士兵）。本句 ex-soldiers 与第1句的 veterans 指同一批人，属于同义替换。"
+   },
+   {
+    "term": "the Defence Minister",
+    "explain": "国防部长。defence 是英式拼写（澳大利亚也用英式拼写），美式拼写为 defense。据记载，当时接见退伍士兵代表团的澳大利亚国防部长是乔治·皮尔斯（George Pearce）。"
+   },
+   {
+    "term": "delegation",
+    "explain": "代表团，指被派去参加会议、谈判或表达诉求的一组人，如 a trade delegation（贸易代表团）、lead a delegation（率领代表团）。a delegation of + 名词 说明代表团的组成或来源。"
+   },
+   {
+    "term": "machine-gun",
+    "explain": "机枪。作名词时 Oxford、Cambridge 等词典多写作 machine gun，也可写作带连字符的 machine-gun，本文用的是后一种；作动词“用机枪扫射”时写作 machine-gun。"
+   }
+  ],
+  "translation_tip": "视频译文“绝望之中，一个由退伍士兵组成的代表团公开表达了他们的不满/委屈，请求国防部长提供机枪。”的处理：①In desperation 译成“绝望之中”，保留在句首。②后置定语 of ex-soldiers 前移，增补“组成”，译成“一个由退伍士兵组成的代表团”。③aired 译为“公开表达了”，体现 air 作动词“公之于众”的含义。④and 不译，两个谓语用逗号连接；ask sb for sth 中的 for 增补动词“提供”，译成“请求国防部长提供机枪”，使请求的内容更完整。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "He",
+   "predicate": "agreed",
+   "object_or_complement": "",
+   "explain": "主干是 He agreed，主谓结构，agree 在此是不及物动词，不带宾语。谓语是一般过去时，主动语态；后面的 sending ... 是现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指上句的国防部长）",
+    "zh": "部长"
+   },
+   {
+    "text": "agreed,",
+    "role": "谓语（不及物动词）",
+    "zh": "同意了"
+   },
+   {
+    "text": "sending",
+    "role": "伴随状语（现在分词短语）的核心动词，逻辑主语是 He",
+    "zh": "但派出的"
+   },
+   {
+    "text": "not a battalion",
+    "role": "sending 的宾语（not A but B 中的 A）",
+    "zh": "不是一个营"
+   },
+   {
+    "text": "but a detachment:",
+    "role": "sending 的宾语（not A but B 中的 B），冒号引出对它的具体说明",
+    "zh": "而是一支小分队"
+   },
+   {
+    "text": "Major Meredith,",
+    "role": "同位语中心词（冒号引出），具体说明 a detachment 由谁组成，后面带同位语和 with 短语",
+    "zh": "梅雷迪思少校"
+   },
+   {
+    "text": "an artillery officer,",
+    "role": "同位语，说明 Major Meredith 的身份",
+    "zh": "一名炮兵军官"
+   },
+   {
+    "text": "with",
+    "role": "介词，引出伴随的人和物，with 短语修饰 Major Meredith",
+    "zh": "带着"
+   },
+   {
+    "text": "two soldiers,",
+    "role": "with 的宾语一",
+    "zh": "两名士兵"
+   },
+   {
+    "text": "two Lewis guns,",
+    "role": "with 的宾语二",
+    "zh": "两挺刘易斯机枪"
+   },
+   {
+    "text": "and 10,000 rounds",
+    "role": "并列连词 and + with 的宾语三",
+    "zh": "和1万发"
+   },
+   {
+    "text": "of ammunition.",
+    "role": "后置定语（介词短语），修饰 rounds",
+    "zh": "弹药"
+   }
+  ],
+  "structure": "①主句只有两个词：He agreed。He 指上句的 the Defence Minister，agreed 是不及物动词，表示同意了代表团的请求。\n②sending not a battalion but a detachment 是现在分词短语作伴随状语，逻辑主语是 He，说明部长同意之后的具体做法。sending 的宾语是 not A but B 结构：not a battalion but a detachment，否定前者、肯定后者，突出派出的兵力之少。\n③冒号引出对 a detachment 的具体说明：Major Meredith 是这支小分队的核心人物，an artillery officer 是他的同位语，说明他是炮兵军官。\n④with two soldiers, two Lewis guns, and 10,000 rounds of ammunition 是 with 引导的介词短语，修饰 Major Meredith，列出随行的人员和装备。三个并列宾语用 A, B, and C 格式，and 前是牛津逗号；of ammunition 修饰 rounds。\n⑤整句先写“同意”，再用 not ... but ... 制造反差：部长答应出兵，派出的却只是一支由一名军官、两名士兵组成的小分队，为后文行动的失败做铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在主句之后，用逗号隔开，可以作伴随状语，说明与主句谓语同时发生或紧接着发生的动作，逻辑主语就是主句主语。本句 sending not a battalion but a detachment 的逻辑主语是 He，说明部长同意请求时的具体安排。分词与逻辑主语是主动关系，所以用 sending；如果是被动关系则用过去分词。考研长难句中，句中逗号后出现 -ing 短语，要先找它的逻辑主语，再判断它与主句的关系是伴随、结果还是原因。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government responded quickly, sending food and medical supplies to the flooded region.",
+      "zh": "政府迅速作出回应，向受灾地区运送了食品和医疗物资。"
+     },
+     {
+      "en": "She left the room quietly, closing the door behind her.",
+      "zh": "她悄悄离开房间，随手关上了门。"
+     }
+    ]
+   },
+   {
+    "title": "not A but B（不是A而是B）",
+    "explain": "not A but B 是并列结构，否定 A、肯定 B，A 和 B 的词性和结构应当一致，即平行结构，如 not a battalion but a detachment（都是名词短语）、not because ... but because ...（都是从句）。not A but B 作主语时，谓语与 B 保持一致：Not the students but the teacher is to blame。考研阅读中，作者的真实观点通常在 but 后面，not A but B 常是细节题和主旨题的答案所在；写作中可用这个结构使对比更鲜明。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The real problem is not a lack of money but a lack of planning.",
+      "zh": "真正的问题不是缺钱，而是缺乏规划。"
+     },
+     {
+      "en": "The decision was made not by the board but by a small group of advisers.",
+      "zh": "这个决定不是董事会做出的，而是一小群顾问做出的。"
+     }
+    ]
+   },
+   {
+    "title": "冒号的解释说明作用",
+    "explain": "冒号可以引出对前面内容的解释、具体说明或列举，冒号后的部分与前面某个词指同一事物。本句冒号前是 a detachment，冒号后用 Major Meredith, an artillery officer, with ... 具体说明这支小分队由谁组成、带了什么装备。阅读时可以把冒号理解成“即”“具体来说”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan has one obvious weakness: nobody knows how it will be funded.",
+      "zh": "这个计划有一个明显的缺陷：没人知道资金从哪里来。"
+     }
+    ]
+   },
+   {
+    "title": "三项并列与牛津逗号",
+    "explain": "三项及以上并列时写成 A, B, and C，最后一项前用 and，and 前的逗号叫牛津逗号（serial comma），可以避免歧义。本句 two soldiers, two Lewis guns, and 10,000 rounds of ammunition 是 with 的三个并列宾语。汉语列举时用顿号，最后两项之间用“和”，所以视频译为“两名士兵、两挺刘易斯机枪和1万发弹药”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The kit contained a map, a compass, and enough water for two days.",
+      "zh": "工具包里有一张地图、一个指南针和够喝两天的水。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "battalion 与 detachment",
+    "explain": "battalion 指军队中的“营”，是由数百名士兵组成的作战单位，若干个营组成一个旅（brigade）；detachment 指从大部队中派出执行特定任务的小分队、支队。原文用 not a battalion but a detachment 对比，突出派出的兵力少得可怜。"
+   },
+   {
+    "term": "Major",
+    "explain": "作军衔时首字母大写，意为“少校”，位于上尉（Captain）之上、中校（Lieutenant Colonel）之下；放在姓氏前作称呼，如 Major Meredith（梅雷迪思少校）。小写的 major 是形容词，意为“主要的，重大的”。"
+   },
+   {
+    "term": "artillery officer",
+    "explain": "artillery 指大炮，也指炮兵部队，an artillery officer 即炮兵军官。"
+   },
+   {
+    "term": "Lewis gun",
+    "explain": "刘易斯机枪，一种轻机枪，第一次世界大战期间被英国及英联邦军队广泛使用，以其美国设计者艾萨克·牛顿·刘易斯（Isaac Newton Lewis）的姓氏命名。"
+   },
+   {
+    "term": "rounds of ammunition",
+    "explain": "round 熟词僻义：可数名词，指（子弹的）一发，10,000 rounds of ammunition 即1万发弹药。ammunition 是不可数名词，不能说 ammunitions，计数要借助 rounds。本文第10句的 2,500 rounds、第13句的 9,860 rounds 都是这个意思。"
+   }
+  ],
+  "translation_tip": "视频译文“部长同意了，但派出的不是一个营，而是一支小分队：梅雷迪思少校，一名炮兵军官，带着两名士兵、两挺刘易斯机枪和1万发弹药。”的处理：①代词 He 译为“部长”，明确所指，避免与后文的梅雷迪思混淆。②现在分词短语 sending ... 拆成独立分句，增补“但”，译成“但派出的不是……而是……”，体现“答应了却只派了很少的人”这层转折意味；not A but B 对应“不是……而是……”。③冒号保留，冒号后同位语 an artillery officer 照原语序译为“一名炮兵军官”。④with 译为“带着”，三项并列按汉语习惯用顿号和“和”连接，并按名词补上量词“名”“挺”“发”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The offensive",
+   "predicate": "began",
+   "object_or_complement": "",
+   "explain": "主谓结构，begin 在此是不及物动词，不带宾语，on 2 November 1932 作时间状语。谓语 began 是 begin 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The offensive",
+    "role": "主语（offensive 在此是名词，意为“进攻，攻势”）",
+    "zh": "这场（军事）进攻"
+   },
+   {
+    "text": "began",
+    "role": "谓语（不及物动词）",
+    "zh": "开始"
+   },
+   {
+    "text": "on 2 November 1932.",
+    "role": "时间状语（介词短语）",
+    "zh": "于1932年11月2日"
+   }
+  ],
+  "structure": "①句子是简单的主谓结构加时间状语：主语 The offensive，谓语 began，on 2 November 1932 说明开始的时间。\n②offensive 常见的是形容词义“冒犯的，无礼的”，本句前有定冠词 The，后接谓语 began，只能是名词，意为“（军事）进攻，攻势”。The 表示特指，指上句派出的小分队即将发起的这场行动。\n③on 2 November 1932 是英式日期写法，按“日、月、年”排列；具体到某一天用介词 on。\n④本句是一个短句，紧接在第6句的长句之后，节奏上的长短交替，使叙述从准备阶段迅速转入行动。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "日期的介词与英美写法",
+    "explain": "表示具体某一天用 on，如 on 2 November、on Monday、on the morning of 8 May；只有月份或年份用 in，如 in November、in 1932；具体时刻用 at。英式英语日期常按“日、月、年”写，如 2 November 1932，读作 the second of November, nineteen thirty-two；美式常按“月、日、年”写，如 November 2, 1932。汉语按“年、月、日”排列，所以视频写成“1932年11月2日”。考研写作中书信落款的日期要注意介词和格式统一。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 28 June 1919, exactly five years after the assassination in Sarajevo.",
+      "zh": "该条约于1919年6月28日签署，恰好是萨拉热窝刺杀事件发生五年之后。"
+     }
+    ]
+   },
+   {
+    "title": "形容词转作名词：offensive",
+    "explain": "有些词兼有形容词和名词两种词性，需要根据句中位置判断。offensive 作形容词有“冒犯的，无礼的”和“进攻性的”两个意思，如 offensive remarks（无礼的话）、offensive weapons（进攻性武器）；作可数名词指军事上的“进攻，攻势”，也可比喻一系列有组织的行动，如 a diplomatic offensive（外交攻势）。本句 The offensive 有冠词、作主语，是名词。考研阅读中，词性判断错误是误读的常见原因。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The government launched a major offensive against tax evasion.",
+      "zh": "政府对逃税行为发起了大规模打击行动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "offensive（名词）",
+    "explain": "常见搭配有 launch an offensive（发起进攻）、a military offensive（军事攻势）、on the offensive（处于攻势，采取攻势）。本句视频译为“（军事）进攻”，括号说明这是一场军事行动。反义词 defensive 作名词时常用于 on the defensive（处于守势）。"
+   },
+   {
+    "term": "begin (began, begun)",
+    "explain": "不规则动词，过去式 began，过去分词 begun。begin 可作不及物动词，如本句 The offensive began；也可作及物动词，后接名词、不定式或动名词，如 begin work、begin to rain。"
+   }
+  ],
+  "translation_tip": "视频译文“这场（军事）进攻开始于1932年11月2日。”的处理：①定冠词 The 译为“这场”，并按汉语习惯加量词，承接上文的出兵安排。②offensive 译为“进攻”，括号增补“军事”，说明进攻的性质。③时间状语按汉语顺序换成“1932年11月2日”，用较书面的“开始于”把时间放在句末，与原文语序一致。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "about a thousand birds；a gun",
+   "predicate": "approached；jammed",
+   "object_or_complement": "an ambush（approached 的宾语）",
+   "explain": "but 连接两个并列分句。前一分句 about a thousand birds approached an ambush 是主谓宾结构；后一分句 a gun jammed 是主谓结构，jam 在此为不及物动词，后接 after 引导的时间状语从句。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "At a dam,",
+    "role": "地点状语（介词短语）",
+    "zh": "在一处水坝"
+   },
+   {
+    "text": "about a thousand birds",
+    "role": "第一分句主语（about 修饰数词，表示约数）",
+    "zh": "约一千只鸟"
+   },
+   {
+    "text": "approached",
+    "role": "第一分句谓语（及物动词）",
+    "zh": "靠近了"
+   },
+   {
+    "text": "an ambush,",
+    "role": "宾语（approached 的宾语）",
+    "zh": "埋伏/伏击范围"
+   },
+   {
+    "text": "but",
+    "role": "并列连词，表示转折",
+    "zh": "但"
+   },
+   {
+    "text": "a gun",
+    "role": "第二分句主语",
+    "zh": "一挺机枪"
+   },
+   {
+    "text": "jammed",
+    "role": "第二分句谓语（不及物动词）",
+    "zh": "就卡壳了"
+   },
+   {
+    "text": "after a dozen fell.",
+    "role": "时间状语从句（after 引导）",
+    "zh": "打倒十来只后"
+   }
+  ],
+  "structure": "①全句是 but 连接的并列句。第一分句 about a thousand birds approached an ambush：主语 about a thousand birds，谓语 approached，宾语 an ambush；句首 At a dam 是地点状语。\n②but 引出转折：鸟群进入了伏击圈，本该是射击的好时机，结果机枪出了故障。\n③第二分句主干是 a gun jammed，jam 在此为不及物动词，指枪械卡住、无法射击。after a dozen fell 是 after 引导的时间状语从句，主语 a dozen 后省略了 birds，fell 是 fall 的过去式，指鸟被击中倒下。\n④英文先说结果（枪卡壳），再用 after 从句补充时间；视频把时间状语从句提到前面，译成“打倒十来只后，一挺机枪就卡壳了”，符合汉语先发生的事先说的习惯。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "approach 作及物动词，不加 to",
+    "explain": "approach 作动词表示“靠近，接近（某人或某处）”时是及物动词，直接接宾语，不能说 approach to the dam；不带宾语时也可作不及物动词，如 Winter is approaching。本句 approached an ambush 即直接带宾语。与之相反，名词 approach 常接 to，如 an approach to the problem（解决问题的方法）、the approach to the city（进城的通道）。同类易错词还有 enter、reach、discuss、attend、marry 等及物动词，后面都不加介词；写作中 discuss about、reach to 都是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the storm approached the coast, thousands of residents were evacuated.",
+      "zh": "随着风暴逼近海岸，数千名居民被疏散。"
+     },
+     {
+      "en": "The committee has adopted a more cautious approach to the problem.",
+      "zh": "委员会对这个问题采取了更为谨慎的处理方法。"
+     }
+    ]
+   },
+   {
+    "title": "after 引导时间状语从句及其位置",
+    "explain": "after 引导的时间状语从句可以放在主句前，也可以放在主句后；放在句首时一般用逗号与主句隔开。本句 after a dozen fell 放在句末，先说主句 a gun jammed，再补充时间。两个动作先后清楚，after 本身已表明顺序，所以从句和主句都用一般过去时。汉语习惯按时间顺序叙述，翻译时常把 after 从句前移，译为“……后，……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The talks collapsed after both sides refused to compromise on the border issue.",
+      "zh": "双方都拒绝在边界问题上让步后，谈判破裂了。"
+     }
+    ]
+   },
+   {
+    "title": "数词作代词，省略后面的名词",
+    "explain": "数词或 a dozen、a few、several 等可以单独作主语或宾语，后面省略上文已经出现过的名词。本句 after a dozen fell 中，a dozen 后省略了 birds，前文 about a thousand birds 已经说明对象。dozen 本义是“十二个”，a dozen 也常用来表示约数，相当于“十来个”，视频译为“十来只”。dozens of 表示“几十个，许多”，dozen 前有具体数字时不加 -s，如 three dozen eggs。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Hundreds of letters arrived, but only a few were answered.",
+      "zh": "来信有数百封，但只有少数得到了回复。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ambush",
+    "explain": "名词，指埋伏、伏击，也可指埋伏的地点或部队，常见 lie in ambush（埋伏着）、be killed in an ambush（在伏击中丧生）；也可作动词，如 be ambushed by rebels（遭到叛军伏击）。本句 approached an ambush 指鸟群靠近了士兵埋伏好的伏击范围，所以视频译为“埋伏/伏击范围”。"
+   },
+   {
+    "term": "jam（不及物）",
+    "explain": "jam 作不及物动词指机器、枪械等“卡住，卡壳”，如 The printer jammed。作及物动词可指“塞满，挤满”，如 roads jammed with traffic。名词 jam 还有“果酱”“堵塞”的意思，如 a traffic jam（交通堵塞）。"
+   },
+   {
+    "term": "fall（熟词僻义）",
+    "explain": "fall 本义是“落下，跌倒”，也可指在战斗中“倒下，阵亡”，如 soldiers who fell in battle（阵亡的士兵）。本句 a dozen fell 指十来只鸸鹋被打中倒下，视频译为“打倒十来只”。"
+   },
+   {
+    "term": "dam",
+    "explain": "水坝，也可指坝后形成的水库。在澳大利亚英语中，dam 还常指农场上的蓄水池。"
+   }
+  ],
+  "translation_tip": "视频译文“在一处水坝，约一千只鸟靠近了埋伏/伏击范围，但打倒十来只后，一挺机枪就卡壳了。”的处理：①不定冠词 a 译为量词“一处”“一挺”，符合汉语表达。②an ambush 根据语境增补为“埋伏/伏击范围”，说明鸟群进入的是伏击区域。③after 从句前移，译为“打倒十来只后”，按事件发生的先后叙述；从句省略的 birds 用量词“只”补出，fell 译为“打倒”，从射击者的角度叙述。④主句增补“就”，突出机枪卡壳来得太快。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "The flocks；a truck-mounted gun",
+   "predicate": "broke；proved",
+   "object_or_complement": "formation（broke 的宾语）；futile（proved 的表语）",
+   "explain": "and 连接两个并列分句。前一分句 The flocks broke formation into small, agile groups 是主谓宾结构，后接现在分词短语作结果状语；后一分句 a truck-mounted gun proved futile 是主系表结构，prove 作系动词。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The flocks",
+    "role": "第一分句主语",
+    "zh": "鸟群"
+   },
+   {
+    "text": "broke",
+    "role": "第一分句谓语",
+    "zh": "打乱了"
+   },
+   {
+    "text": "formation",
+    "role": "宾语（broke 的宾语，break formation 意为“打乱队形”）",
+    "zh": "（它们自己的）队形"
+   },
+   {
+    "text": "into",
+    "role": "介词，引出打乱队形后形成的结果",
+    "zh": "（它们）分成了"
+   },
+   {
+    "text": "small, agile groups,",
+    "role": "介词 into 的宾语",
+    "zh": "灵活的小群体"
+   },
+   {
+    "text": "frustrating",
+    "role": "结果状语（现在分词短语）的核心动词，表示前面鸟群散成小群这一行为造成的结果",
+    "zh": "挫败了"
+   },
+   {
+    "text": "each tactical plan,",
+    "role": "frustrating 的宾语",
+    "zh": "每一个战术计划"
+   },
+   {
+    "text": "and a truck-mounted gun",
+    "role": "并列连词 and + 第二分句主语（truck-mounted 为复合形容词作定语）",
+    "zh": "装在卡车上的机枪"
+   },
+   {
+    "text": "proved",
+    "role": "系动词（prove 意为“结果是，证明是”）",
+    "zh": "（系动词，与 futile 合译为“徒劳无功”）"
+   },
+   {
+    "text": "futile.",
+    "role": "表语",
+    "zh": "徒劳无功"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句。第一分句主干是 The flocks broke formation：主语 The flocks，谓语 broke，宾语 formation；break formation 意为“打乱队形，散开”，into small, agile groups 说明散开后分成了灵活的小群。\n②frustrating each tactical plan 是现在分词短语作结果状语，表示鸟群分散这一行为造成的结果：每一个战术计划都落空了。\n③small, agile groups 中两个形容词都修饰 groups，中间用逗号隔开，表示两者并列，相当于 small and agile groups。\n④第二分句 a truck-mounted gun proved futile：truck-mounted 是“名词 + 过去分词”构成的复合形容词，意为“装在卡车上的”；proved 是系动词，futile 作表语，表示这种做法最终证明是徒劳的。\n⑤两个分句共同说明军方屡屡受挫：伏击打不着分散的鸟群，开着卡车追也没有用。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，用逗号隔开，可以表示前面动作自然产生的结果，常可改写为 and + 谓语，或 which 引导的非限制性定语从句。本句 frustrating each tactical plan 表示鸟群分散成小群这件事挫败了每一个战术计划，相当于 which frustrated each tactical plan。与伴随状语不同，结果状语表示的动作是前一动作导致的，而不是同时进行的另一个动作。常见于这类结构的现在分词有 causing、leading to、resulting in、leaving、making 等。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell throughout the night, flooding dozens of homes near the river.",
+      "zh": "大雨下了一整夜，河边数十户人家被淹。"
+     },
+     {
+      "en": "The factory closed suddenly, leaving hundreds of workers without jobs.",
+      "zh": "工厂突然关闭，数百名工人因此失业。"
+     }
+    ]
+   },
+   {
+    "title": "prove 作系动词（结果是）",
+    "explain": "prove 后接形容词、名词或 to be 时是系动词，意为“结果是，最终证明是”，强调事后才看清的结果，如 prove futile（证明是徒劳的）、prove (to be) a success（结果是一次成功）。作系动词时 prove 没有被动语态，不能说 was proved futile。本句 a truck-mounted gun proved futile 即“卡车上的机枪结果也是徒劳无功”。prove 作及物动词时意为“证明”，后接名词或 that 从句，两种用法要靠后面的成分区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy proved unpopular with small businesses.",
+      "zh": "事实证明，这项新政策不受小企业欢迎。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词：名词 + 过去分词",
+    "explain": "名词加过去分词，中间用连字符连接，可以构成复合形容词，作前置定语，表示被动意义，名词说明动作的执行者、工具或位置，如 truck-mounted（装在卡车上的）、hand-made（手工制作的）、state-owned（国有的）、man-made（人造的）。本句 a truck-mounted gun 相当于 a gun mounted on a truck。考研阅读中常见 market-driven、data-based 等这类表达，可按“被……的，由……的”理解。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many state-owned enterprises were privatized during the 1990s.",
+      "zh": "许多国有企业在20世纪90年代被私有化。"
+     }
+    ]
+   },
+   {
+    "title": "并列形容词之间用逗号",
+    "explain": "两个或多个形容词从不同方面描述同一名词、地位平等时，中间用逗号隔开，相当于用 and 连接，如 small, agile groups = small and agile groups。判断方法是看能否调换顺序或插入 and：能则用逗号。如果前一个形容词修饰的是后面的“形容词 + 名词”整体，则不加逗号，如 a large wooden table。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The startup hired young, ambitious engineers from across the region.",
+      "zh": "这家初创公司从全地区招聘年轻而有抱负的工程师。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "break formation",
+    "explain": "formation 指（士兵、飞机、鸟群等的）队形、编队，in formation 即“按队形，成编队”，如 fly in formation（编队飞行）；break formation 指打乱队形、散开。本句用军事用语描写鸟群，带有戏谑色彩，视频增补“（它们自己的）”，说明打乱的是鸟群自身的队形。"
+   },
+   {
+    "term": "frustrate a plan",
+    "explain": "frustrate 除了“使沮丧”，还可表示“挫败，使落空”，宾语常是计划、努力、企图，如 frustrate sb's plans、frustrate efforts to reach a deal。本句 frustrating each tactical plan 视频译为“挫败了每一个战术计划”。"
+   },
+   {
+    "term": "tactical",
+    "explain": "形容词，意为“战术的，策略上的”，指为达成具体目标而采取的手段，如 a tactical error（战术失误）。与 strategic（战略的）相对，后者指长远的、全局性的规划。"
+   },
+   {
+    "term": "futile",
+    "explain": "形容词，意为“徒劳的，无效的”，指无论怎么做都不会成功，常见 a futile attempt（徒劳的尝试）、It is futile to do sth（做某事是白费力气）。视频译为“徒劳无功”。"
+   },
+   {
+    "term": "agile",
+    "explain": "形容词，意为“敏捷的，灵活的”，可以指身体动作灵活，也可指思维敏捷，如 an agile mind；在商业语境中指企业反应快、能迅速调整。本句 agile groups 指行动灵活、难以瞄准的小群体。"
+   }
+  ],
+  "translation_tip": "视频译文“鸟群打乱了（它们自己的）队形，（它们）分成了灵活的小群体，挫败了每一个战术计划；装在卡车上的机枪也徒劳无功。”的处理：①broke formation into ... 拆成两个分句：“打乱了队形”和“分成了……小群体”，介词 into 译为动词“分成了”，括号增补“它们”“它们自己的”，使主语和所指清楚。②small, agile groups 按汉语习惯调整为“灵活的小群体”。③结果状语 frustrating ... 单独成句，译为“挫败了每一个战术计划”，主语承前省略。④and 连接的第二分句用分号隔开，增补“也”，表示又一次失败；复合形容词 truck-mounted 译成“装在卡车上的”；系表结构 proved futile 合译为“徒劳无功”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Six days of wasteful firing",
+   "predicate": "spent",
+   "object_or_complement": "2,500 rounds",
+   "explain": "主谓宾结构，谓语 spent 是一般过去时，主动语态，构成 spend A on B（在B上花掉A）。主语是表示行为的名词短语，属于无灵主语；句末 a ludicrous return 是同位语，评价前面整件事。"
+  },
+  "components": [
+   {
+    "text": "Six days of",
+    "role": "主语的修饰部分（表示时长，修饰 firing）",
+    "zh": "六天的"
+   },
+   {
+    "text": "wasteful firing",
+    "role": "主语中心（firing 为动名词，wasteful 作定语）",
+    "zh": "浪费的射击"
+   },
+   {
+    "text": "spent",
+    "role": "谓语（spend A on B 中的 spend）",
+    "zh": "花费了/消耗了"
+   },
+   {
+    "text": "2,500 rounds",
+    "role": "宾语（spend A on B 中的 A）",
+    "zh": "2,500发"
+   },
+   {
+    "text": "on perhaps 50 to 200 birds,",
+    "role": "介词短语（spend A on B 中的 on B，表示花费的对象）",
+    "zh": "只打死大约50至200只鸟"
+   },
+   {
+    "text": "a ludicrous return.",
+    "role": "同位语，评价前面整件事",
+    "zh": "这是一个荒唐可笑的回报"
+   }
+  ],
+  "structure": "①主干是 Six days of wasteful firing spent 2,500 rounds on perhaps 50 to 200 birds，构成 spend A on B：A 是 2,500 rounds，B 是 perhaps 50 to 200 birds。\n②主语中心词是 firing，这里是动名词，作名词用，意为“射击”；wasteful 修饰 firing，Six days of 说明射击持续的时间。主语不是人而是一段行为，属于无灵主语，意思是“六天的射击耗掉了2,500发子弹”。\n③perhaps 修饰数字范围 50 to 200，表示数字只是估计，说明连打死了多少只鸟都没有准确统计。\n④句末 a ludicrous return 是同位语，不说明某一个名词，而是评价前面整件事：花了2,500发子弹只换来几十到两百只鸟，这样的“回报”荒唐可笑。return 在此意为“回报，收益”，把射击比作一笔投资。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "spend A on B 与无灵主语",
+    "explain": "spend 的常见结构是 spend + 时间/金钱/精力 + on sth，或 spend + 时间 + (in) doing sth。本句 spent 2,500 rounds on perhaps 50 to 200 birds 中，A 是子弹，B 是鸟，意思是“在这些鸟身上耗掉2,500发子弹”。spend 的主语通常是人，本句主语却是 Six days of wasteful firing，用行为本身作主语，突出浪费之大。易错点：spend 后不接不定式，不能说 spend money to buy，应说 spend money on sth 或 spend time doing sth；表示“某物花费某人多少钱”用 cost，如 It cost him £50。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city spent nearly £3 million on a bridge that was never opened to traffic.",
+      "zh": "该市在一座从未通车的桥上花了近300万英镑。"
+     },
+     {
+      "en": "The campaign spent nearly $2 million on television advertising in its final week.",
+      "zh": "该竞选团队在最后一周花了近200万美元投放电视广告。"
+     }
+    ]
+   },
+   {
+    "title": "句末名词短语作同位语，评价整个句子",
+    "explain": "英语句末常用逗号加一个名词短语，对前面整个句子的内容加以概括或评价，这个名词短语可看作全句的同位语，相当于 which was a ludicrous return。本句 a ludicrous return 评价“六天花2,500发子弹只打死50至200只鸟”这件事。这种结构在新闻和考研阅读中很常见，常带作者的态度，如 ..., a move that ...、..., a decision criticized by ...。翻译时常补出“这”“这是”来回指前文。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its workforce by half within a year, a decision that shocked investors.",
+      "zh": "公司在一年之内裁员一半，这一决定令投资者震惊。"
+     }
+    ]
+   },
+   {
+    "title": "动名词作主语中心词",
+    "explain": "动词的 -ing 形式可以作名词用，称为动名词，可受形容词、所有格等修饰，如 wasteful firing（浪费的射击）、careless driving（粗心驾驶）。本句 firing 前有形容词 wasteful，前面又有 Six days of，可以确定它是名词性的动名词。动名词作主语时，谓语一般用单数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Careless driving causes thousands of accidents every year.",
+      "zh": "粗心驾驶每年造成数千起事故。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "return（熟词僻义）",
+    "explain": "return 作名词除了“返回”，还指投资的“回报，收益”，如 a return on investment（投资回报）、a high return（高回报）。本句 a ludicrous return 把射击比作投资：投入2,500发子弹，回报是几十到两百只鸟，视频译为“荒唐可笑的回报”。"
+   },
+   {
+    "term": "ludicrous",
+    "explain": "形容词，意为“荒唐可笑的，愚蠢的”，与 ridiculous 意思相近，常形容想法、价格、数字等，如 a ludicrous idea、a ludicrous price。"
+   },
+   {
+    "term": "wasteful",
+    "explain": "形容词，由 waste 加后缀 -ful 构成，意为“浪费的”，常见 wasteful spending（铺张浪费）、be wasteful of resources（浪费资源）。"
+   },
+   {
+    "term": "perhaps + 数字",
+    "explain": "perhaps 放在数字前表示“也许，大约”，说明数字是估计值。本句 perhaps 50 to 200 birds 的范围很大，暗示打死的数量无法确认，视频译为“大约50至200只鸟”。"
+   }
+  ],
+  "translation_tip": "视频译文“六天的浪费的射击花费了/消耗了2,500发，只打死大约50至200只鸟，这是一个荒唐可笑的回报。”的处理：①无灵主语 Six days of wasteful firing 保留作主语，照原文译为“六天的浪费的射击”，保留原文的讽刺意味。②spend A on B 拆成两个分句：“花费了2,500发”和“只打死大约50至200只鸟”，on B 增补动词“打死”，并增补“只”，突出数量少。③rounds 根据上下文只译出量词“发”，指子弹。④同位语 a ludicrous return 单独成句，增补“这是”，回指前面整件事。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "an embarrassing withdrawal",
+   "predicate": "came",
+   "object_or_complement": "",
+   "explain": "主句主干是 an embarrassing withdrawal came，主谓结构，come 在此是不及物动词，意为“发生，到来”。谓语是一般过去时，主动语态；句末 though 引导让步状语从句。"
+  },
+  "components": [
+   {
+    "text": "After parliamentary questions",
+    "role": "时间状语（介词短语），after 的宾语一",
+    "zh": "在议会质询"
+   },
+   {
+    "text": "and press ridicule,",
+    "role": "并列连词 and + after 的宾语二（press 为名词作定语）",
+    "zh": "和报界嘲笑/嘲讽之后"
+   },
+   {
+    "text": "an embarrassing withdrawal",
+    "role": "主语",
+    "zh": "一场尴尬的撤退"
+   },
+   {
+    "text": "came",
+    "role": "谓语（不及物动词，意为“发生”）",
+    "zh": "发生在"
+   },
+   {
+    "text": "on 8 November,",
+    "role": "时间状语（介词短语）",
+    "zh": "11月8日"
+   },
+   {
+    "text": "though",
+    "role": "让步状语从句的引导词",
+    "zh": "不过"
+   },
+   {
+    "text": "shooting restarted within days.",
+    "role": "让步状语从句（主语 shooting，谓语 restarted，within days 作时间状语）",
+    "zh": "没过几天，射击又重新开始了"
+   }
+  ],
+  "structure": "①主句是 an embarrassing withdrawal came on 8 November：主语 an embarrassing withdrawal，谓语 came，on 8 November 作时间状语。come 意为“发生，到来”，本句意思是撤退发生在11月8日。\n②句首 After parliamentary questions and press ridicule 是介词短语作时间状语，after 带两个并列宾语，交代撤退的背景：议会里有人提出质询，报界纷纷嘲笑。parliamentary 和 press 都作定语，press 是名词作定语。\n③though 引导让步状语从句，放在句末，补充一个相反的情况：撤退之后没几天，射击又开始了。从句主语 shooting 是动名词，谓语 restarted，within days 意为“几天之内”。\n④全句的信息是“先撤退，又恢复”，though 从句点出这次撤退并不是行动的结束，引出下一段梅雷迪思最终被召回。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "though 引导的让步状语从句放在句末",
+    "explain": "though 和 although 引导让步状语从句，意为“虽然，尽管”，不能再与 but 连用。让步从句放在句首时，强调“虽然……但……”的对比；放在句末时，常起补充说明作用，语气接近“不过，然而”。本句 though shooting restarted within days 放在句末，补充撤退之后的新情况，视频译为“不过没过几天，射击又重新开始了”。though 还可作副词放在句末，意为“不过”，如 It was hard work. I enjoyed it, though。although 比 though 稍正式，但不能作副词放在句末。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum reopened in May, though several galleries remained closed for repairs.",
+      "zh": "博物馆于5月重新开放，不过有几个展厅仍在维修，没有开放。"
+     },
+     {
+      "en": "The plan was approved by a narrow margin, though many members had serious doubts about its cost.",
+      "zh": "这项计划以微弱多数获得通过，不过许多成员对其成本深表怀疑。"
+     }
+    ]
+   },
+   {
+    "title": "come 表示“发生，到来”",
+    "explain": "come 除了“来”，还常以事件为主语，表示某事“发生、出现、到来”，常接时间状语，如 The announcement came on Monday（声明于周一发布）、The crisis came at a bad time。本句 an embarrassing withdrawal came on 8 November 即“一场尴尬的撤退发生在11月8日”。这种用法在新闻报道中很常见，主语多是 decision、news、announcement、change 等表示事件的名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The decision came after months of negotiations between the two sides.",
+      "zh": "这一决定是在双方经过数月谈判之后做出的。"
+     }
+    ]
+   },
+   {
+    "title": "名词作定语",
+    "explain": "英语中名词可以直接放在另一个名词前作定语，说明来源、类别或用途，如 press ridicule（报界的嘲笑）、wheat crops（小麦庄稼）、truck-mounted gun 中的 truck。作定语的名词一般用单数形式。本句 parliamentary 是形容词，press 是名词，两者都作定语，分别修饰 questions 和 ridicule。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Government officials faced fierce media criticism after the scandal broke.",
+      "zh": "丑闻曝光后，政府官员受到媒体的猛烈批评。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "parliamentary questions",
+    "explain": "议会质询，指议员在议会中就某一事项向政府部长提出的正式问题，要求对方答复。parliamentary 是 parliament（议会）的形容词。"
+   },
+   {
+    "term": "the press",
+    "explain": "the press 指报刊、新闻界，也指记者群体，如 freedom of the press（新闻自由）、a press conference（新闻发布会）。本句 press ridicule 指报界的嘲笑，视频译为“报界嘲笑/嘲讽”。"
+   },
+   {
+    "term": "withdrawal",
+    "explain": "名词，由动词 withdraw 变来，这里指军队的“撤退，撤出”，如 troop withdrawal（撤军）；也可指从银行“取款”、从活动中“退出”，以及医学上的“戒断（症状）”。"
+   },
+   {
+    "term": "within days",
+    "explain": "意为“几天之内，没过几天”，类似的有 within hours（几小时之内）、within weeks（几周之内），强调时间很短。"
+   },
+   {
+    "term": "embarrassing",
+    "explain": "形容词，意为“令人尴尬的，让人难堪的”，修饰事情；embarrassed 意为“感到尴尬的”，修饰人。本句 an embarrassing withdrawal 指这次撤退让军方和政府很难堪。"
+   }
+  ],
+  "translation_tip": "视频译文“在议会质询和报界嘲笑/嘲讽之后，一场尴尬的撤退发生在11月8日；不过没过几天，射击又重新开始了。”的处理：①句首介词短语保留在句首，After ... 译为“在……之后”。②主句按原语序译出，came 译为“发生在”，不定冠词 an 译为“一场”。③though 从句用分号与主句隔开，单独成句，though 译为“不过”，体现补充转折的语气；within days 前移，译为“没过几天”，restarted 译为“又重新开始了”，“又”字强调撤退后行动再起。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Meredith",
+   "predicate": "was recalled",
+   "object_or_complement": "",
+   "explain": "主谓结构，谓语 was recalled 是一般过去时的被动语态，主语 Meredith 是被召回的对象，没有用 by 短语交代动作执行者。"
+  },
+  "components": [
+   {
+    "text": "Meredith",
+    "role": "主语",
+    "zh": "梅雷迪思"
+   },
+   {
+    "text": "was recalled",
+    "role": "谓语（一般过去时，被动语态）",
+    "zh": "被召回"
+   },
+   {
+    "text": "on 10 December.",
+    "role": "时间状语（介词短语）",
+    "zh": "于12月10日"
+   }
+  ],
+  "structure": "①句子是简单的被动句：主语 Meredith，谓语 was recalled，on 10 December 作时间状语。\n②was recalled 是一般过去时的被动语态，由 was + 过去分词构成。主语 Meredith 是动作的承受者，召回他的是军方或政府，句中没有交代，因为执行者不言自明，重点在梅雷迪思本人的去向。\n③recall 在这里是“召回”，不是“回想起”。第11句说射击在撤退后几天内恢复，本句是第四段的第一句，交代梅雷迪思这次行动的结局。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一般过去时的被动语态及省略施动者",
+    "explain": "被动语态由 be + 过去分词构成，一般过去时的被动语态是 was/were + 过去分词。被动语态常用于以下情况：动作执行者不清楚、不重要或不言自明；想突出动作的承受者。本句只说 Meredith was recalled，召回他的显然是上级，不必写出 by the army。新闻报道中被动语态常省略施动者，如 The minister was forced to resign。考研翻译中，被动句常译为主动句或“被”“遭到”“受到”句，视频这里直接译为“被召回”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The ambassador was recalled after the two countries cut diplomatic ties.",
+      "zh": "两国断交后，大使被召回国内。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "recall",
+    "explain": "recall 有两个常见意思：一是“召回”，如 recall an ambassador（召回大使）、recall a product（召回一种产品）；二是“回想起，记起”，如 I can't recall his name。名词 recall 也有“召回”和“记忆力”两义，如 a product recall（产品召回）。本句是第一个意思，视频译为“被召回”。"
+   },
+   {
+    "term": "日期中的月份",
+    "explain": "on 10 December 是英式写法，读作 on the tenth of December。月份名称首字母要大写，December 可缩写为 Dec。"
+   }
+  ],
+  "translation_tip": "视频译文“梅雷迪思于12月10日被召回。”的处理：①被动语态保留，was recalled 直接译为“被召回”。②时间状语前移到谓语前，用书面的“于”对应 on，译成“于12月10日”，符合汉语时间状语在动词前的习惯。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "His memo's inventory",
+   "predicate": "counted",
+   "object_or_complement": "986 kills",
+   "explain": "主谓宾结构，谓语 counted 是一般过去时，主动语态，主语是无生命的 inventory（清单），意为“清单上记录的数目是”。句末 a ratio of ten bullets to one bird 是同位语，说明前面数字的比例。"
+  },
+  "components": [
+   {
+    "text": "His memo's",
+    "role": "定语（名词所有格 memo's，前面又有物主代词 His），修饰 inventory",
+    "zh": "他在备忘录里开列的"
+   },
+   {
+    "text": "inventory",
+    "role": "主语中心词",
+    "zh": "清单"
+   },
+   {
+    "text": "counted",
+    "role": "谓语",
+    "zh": "计数（显示）"
+   },
+   {
+    "text": "986 kills from 9,860 rounds,",
+    "role": "宾语 986 kills + 后置定语 from 9,860 rounds（介词短语修饰 kills，表示来源，说明这些击杀出自多少发子弹）",
+    "zh": "9,860发打死了986只"
+   },
+   {
+    "text": "a ratio",
+    "role": "同位语中心词，说明前面的数字关系",
+    "zh": "比例是"
+   },
+   {
+    "text": "of ten bullets",
+    "role": "后置定语（a ratio of A to B 中的 of A）",
+    "zh": "十发子弹"
+   },
+   {
+    "text": "to one bird.",
+    "role": "后置定语（a ratio of A to B 中的 to B）",
+    "zh": "对一只鸟"
+   }
+  ],
+  "structure": "①主干是 His memo's inventory counted 986 kills：主语 inventory，谓语 counted，宾语 986 kills。count 在此意为“计数，统计出”，主语是清单，意思是清单上统计出的击杀数是986只。\n②His memo's 是所有格叠用：His 修饰 memo，memo's 修饰 inventory，即“他的备忘录中的清单”，视频译为“他在备忘录里开列的清单”。\n③from 9,860 rounds 说明这些击杀是用多少发子弹换来的，from 表示来源；kill 在此是可数名词，指被打死的动物，986 kills 即打死的986只鸟。\n④句末 a ratio of ten bullets to one bird 是同位语，说明前面两个数字的关系：9,860 除以 986 恰好等于10，即平均十发子弹打死一只鸟。a ratio of A to B 表示“A与B之比”。\n⑤与第10句相比，这里的数字精确到个位，而且比例整整为十比一，与第10句的 perhaps 50 to 200 birds 形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "a ratio of A to B 及比例的表达",
+    "explain": "a ratio of A to B 意为“A与B之比”，A 和 B 可以是数字，也可以是带数字的名词，如 a ratio of three to one、a ratio of ten bullets to one bird；也可以直接写成 a 3:1 ratio，读作 three to one。表示“某两者之比”用 the ratio of A to B 或 the ratio between A and B，如 the ratio of students to teachers（师生比）。考研图表作文中描述比例时常用 the ratio of A to B stands at ...、A outnumber B by ... to ...。易错点：ratio 后用 of ... to ...，不能用 of ... and ...。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The school maintains a ratio of one teacher to fifteen pupils.",
+      "zh": "这所学校保持一名教师对十五名学生的师生比。"
+     },
+     {
+      "en": "In some rural areas, the ratio of doctors to patients is alarmingly low.",
+      "zh": "在一些农村地区，医生与病人的比例低得惊人。"
+     }
+    ]
+   },
+   {
+    "title": "句末名词短语作同位语，说明前面的数字",
+    "explain": "数字信息之后，常用逗号加一个名词短语，对数字进行换算、概括或评价，这个名词短语是同位语。本句 a ratio of ten bullets to one bird 把 986 kills from 9,860 rounds 换算成“十比一”的比例。第10句的 a ludicrous return 和第18句的 more than fifty-seven times Meredith's 986 kills 也是同样的结构。读这类句子时，同位语往往是作者真正想强调的结论。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Sales rose from 2 million to 6 million units, a threefold increase in five years.",
+      "zh": "销量从200万件增至600万件，五年间增长了两倍。"
+     }
+    ]
+   },
+   {
+    "title": "物主代词与名词所有格叠用",
+    "explain": "物主代词和名词所有格可以连用，形成“谁的什么的什么”，如 his memo's inventory（他的备忘录里的清单）、my sister's husband（我姐姐的丈夫）。每个所有格修饰紧跟其后的名词：His 修饰 memo，memo's 修饰 inventory。表示无生命事物的所属，正式文体中也常用 of 结构，如 the inventory in his memo。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her company's annual report was released on Friday.",
+      "zh": "她公司的年度报告于周五发布。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "memo",
+    "explain": "memorandum 的缩写，指机构内部的备忘录、便函，复数 memos，如 send a memo to all staff（给全体员工发一份备忘录）。"
+   },
+   {
+    "term": "inventory",
+    "explain": "名词，指清单、详细目录，也指库存（货物），常见 make/take an inventory of sth（列出……的清单，清点……）。本句指梅雷迪思在备忘录里列出的战果清单，视频译为“清单”。"
+   },
+   {
+    "term": "kill（名词）",
+    "explain": "kill 作可数名词，指（猎人或捕食动物）猎杀的动物，或指猎杀、击杀的行为，如 a lion feeding on its kill（狮子在吃猎物）。本句 986 kills 指打死的986只鸸鹋，第18句又出现 Meredith's 986 kills。"
+   },
+   {
+    "term": "count",
+    "explain": "count 本义是“数，计数”，本句是及物动词，主语是清单，意为“统计出，记录了（多少）”，视频译为“计数（显示）”。count 还可作不及物动词，表示“重要，算数”，如 Every vote counts。"
+   }
+  ],
+  "translation_tip": "视频译文“他在备忘录里开列的清单计数（显示），9,860发打死了986只，比例是十发子弹对一只鸟。”的处理：①His memo's inventory 的两层所有格译为“他在备忘录里开列的清单”，增补动词“开列”，使“备忘录”和“清单”的关系更清楚。②counted 译为“计数”，括号增补“显示”，引出后面的数字。③986 kills from 9,860 rounds 调整语序，把来源 from 9,860 rounds 放在前面，译为“9,860发打死了986只”，名词 kills 转译为动词“打死”。④同位语 a ratio of ten bullets to one bird 单独成句，增补“是”，译为“比例是十发子弹对一只鸟”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "He",
+   "predicate": "likened",
+   "object_or_complement": "the resilient birds' toughness（likened 的宾语，to the armour of tanks 构成 liken A to B）",
+   "explain": "主谓宾结构，谓语 likened 是一般过去时，主动语态，构成 liken A to B（把A比作B）：A 是 the resilient birds' toughness，B 是 the armour of tanks。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语（指梅雷迪思）",
+    "zh": "他"
+   },
+   {
+    "text": "likened",
+    "role": "谓语（liken A to B 中的 liken）",
+    "zh": "把……比作"
+   },
+   {
+    "text": "the resilient birds'",
+    "role": "定语（名词复数所有格，resilient 修饰 birds），修饰 toughness",
+    "zh": "这些耐打的鸟的"
+   },
+   {
+    "text": "toughness",
+    "role": "宾语（liken A to B 中的 A）",
+    "zh": "坚韧"
+   },
+   {
+    "text": "to",
+    "role": "介词（liken A to B 中的 to）",
+    "zh": "（介词，与 likened 合译为“把……比作”）"
+   },
+   {
+    "text": "the armour of tanks.",
+    "role": "介词 to 的宾语（liken A to B 中的 B），of tanks 作后置定语，修饰 armour",
+    "zh": "坦克的装甲"
+   }
+  ],
+  "structure": "①句子是主谓宾结构，构成 liken A to B：主语 He，谓语 likened，A 是 the resilient birds' toughness，B 是 the armour of tanks。\n②宾语中心词是 toughness（坚韧），the resilient birds' 是名词复数所有格作定语，resilient 修饰 birds，说明这些鸟经得起打击。\n③to 引出比较的对象 the armour of tanks，of tanks 修饰 armour，即坦克的装甲。\n④把鸟的坚韧比作坦克装甲，是夸张的比喻，突出这些鸟极难打死，也从侧面说明了战果为何如此有限。下一句 Five weeks of warfare had barely dented the hardy flocks' endurance 继续从鸟群耐受力的角度总结这次行动。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "liken A to B 等“把A比作B”的结构",
+    "explain": "liken A to B 意为“把A比作B”，A 和 B 之间是比喻关系，强调两者相似，较正式；同义表达有 compare A to B（把A比作B）。compare A with B 则多表示“把A与B相比较”，分析两者异同，二者在现代用法中有时混用，但考研写作中最好区分。liken 不用 with，介词只用 to；被动形式为 A is likened to B。类似的“动词 + A + 介词 + B”结构还有 regard A as B、attribute A to B、owe A to B，阅读时要找准 A 和 B。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Critics have likened the new tax to a penalty on hard work.",
+      "zh": "批评者把这项新税比作对辛勤工作的惩罚。"
+     },
+     {
+      "en": "The author compares the human brain to a busy city that never sleeps.",
+      "zh": "作者把人脑比作一座从不入眠的繁忙城市。"
+     }
+    ]
+   },
+   {
+    "title": "后缀 -ness 构成抽象名词",
+    "explain": "形容词加后缀 -ness 可以构成表示性质、状态的抽象名词，如 tough → toughness（坚韧）、kind → kindness（善良）、aware → awareness（意识）、happy → happiness（幸福，词尾 y 变 i）。本句 toughness 作 likened 的宾语。考研阅读中遇到生词可以先拆出 -ness 等后缀，由词根形容词推知词义；写作中用抽象名词作主语或宾语，可使句子更紧凑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Public awareness of the risks has grown steadily over the past decade.",
+      "zh": "过去十年里，公众对这些风险的认识稳步提高。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "resilient",
+    "explain": "形容词，指（人或动物）对困境有承受力的、有复原力的，也指材料有弹性、能恢复原状，如 a resilient economy（有韧性的经济）、resilient children。视频说明是“（人或动物）对困境有承受力的，有复原力的”，本句结合鸟群屡遭射击仍难以消灭的语境，译为“耐打的”。名词形式是 resilience。"
+   },
+   {
+    "term": "armour",
+    "explain": "英式拼写，美式拼写为 armor。指盔甲，也指坦克、军舰等的装甲，如 a suit of armour（一副盔甲）、tank armour（坦克装甲）。本句 the armour of tanks 视频译为“坦克的装甲”。"
+   },
+   {
+    "term": "toughness",
+    "explain": "名词，由 tough 加 -ness 构成，指坚韧、强硬、耐受力，可用于人、动物，也可用于材料，如 mental toughness（心理韧性）。视频译为“坚韧”。"
+   }
+  ],
+  "translation_tip": "视频译文“他把这些耐打的鸟的坚韧比作坦克的装甲。”的处理：①liken A to B 译成“把A比作B”的“把”字句，A 放在“把”后，B 放在“比作”后，与英文语序基本一致。②the resilient birds' toughness 中的定冠词 the 译为“这些”，指前文的鸸鹋；resilient 结合语境译为“耐打的”。③the armour of tanks 中的后置定语 of tanks 前移，译为“坦克的装甲”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Five weeks of warfare",
+   "predicate": "had barely dented",
+   "object_or_complement": "the hardy flocks' endurance",
+   "explain": "主谓宾结构，谓语 had dented 是过去完成时，主动语态，表示到过去某一时间为止的结果；barely 是半否定副词，使句子带有否定意义。主语是表示一段战事的名词短语，属于无灵主语。"
+  },
+  "components": [
+   {
+    "text": "Five weeks of",
+    "role": "主语的修饰部分（表示时长，修饰 warfare）",
+    "zh": "五个星期的"
+   },
+   {
+    "text": "warfare",
+    "role": "主语中心词",
+    "zh": "战事"
+   },
+   {
+    "text": "had barely",
+    "role": "助动词 had（构成过去完成时）+ 半否定副词 barely（作状语）",
+    "zh": "几乎没"
+   },
+   {
+    "text": "dented",
+    "role": "谓语动词（过去分词，与 had 构成过去完成时）",
+    "zh": "削弱"
+   },
+   {
+    "text": "the hardy flocks'",
+    "role": "定语（名词复数所有格，hardy 修饰 flocks），修饰 endurance",
+    "zh": "这些顽强的鸟群的"
+   },
+   {
+    "text": "endurance.",
+    "role": "宾语",
+    "zh": "耐受力/抗造力"
+   }
+  ],
+  "structure": "①主干是 Five weeks of warfare had barely dented the hardy flocks' endurance：主语 Five weeks of warfare，谓语 had dented，宾语 endurance。\n②主语中心词是 warfare，Five weeks of 说明战事持续的时间：从11月2日开始到12月10日梅雷迪思被召回，大约五个星期。\n③had dented 是过去完成时，表示到梅雷迪思被召回时为止，五个星期的战事所造成的结果。barely 放在助动词和过去分词之间，意为“几乎没有”，使句子在意义上是否定的。\n④dent 本义是“使凹陷，压出凹痕”，这里用比喻义“削弱，损害”，好像鸟群的耐受力是一块坚硬的金属，五个星期的攻击只在上面留下了一点浅痕，与上句 the armour of tanks 的比喻一脉相承。\n⑤宾语 endurance 前的 the hardy flocks' 是名词复数所有格，hardy 修饰 flocks。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "半否定副词 barely、hardly、scarcely",
+    "explain": "barely、hardly、scarcely 意为“几乎不，几乎没有”，本身带有否定意义，称为半否定副词。它们通常放在实义动词前、助动词或 be 动词后，如 had barely dented。因为本身已含否定，不能再与 not、never 连用，不能说 had not barely dented。反意疑问句中，含这类词的陈述句按否定句处理，附加问句用肯定形式。放在句首时要部分倒装，如 Hardly had he arrived when it started to rain。考研阅读中，barely 常被忽略而导致把句意理解反，本句意思是战事几乎没有削弱鸟群，而不是削弱了鸟群。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Years of reform have barely changed the way the agency operates.",
+      "zh": "多年的改革几乎没有改变这个机构的运作方式。"
+     },
+     {
+      "en": "Scarcely had the meeting begun when the fire alarm went off.",
+      "zh": "会议刚开始，火警就响了。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时表示到过去某时为止的结果",
+    "explain": "过去完成时除了表示“过去的过去”，还可表示到过去某一时间为止某个动作所产生的结果或影响。本句的参照时间是上文第12句的12月10日，梅雷迪思被召回时，五个星期的战事几乎没有削弱鸟群的耐受力。如果用一般过去时 barely dented，只是叙述过去的事实；用 had barely dented，则强调截至那个时间点的总结性结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the strike ended, three months of protests had won the workers only minor concessions.",
+      "zh": "罢工结束时，三个月的抗议只为工人争取到了微不足道的让步。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dent",
+    "explain": "dent 作名词指凹痕，作动词本义是“使凹陷，压出凹痕”，如 The car door was dented；比喻义是“削弱，损害（信心、名誉、利润等）”，如 dent sb's confidence（挫伤某人的信心）、dent profits。视频说明“dent：本义压出凹痕，这里指削弱”。"
+   },
+   {
+    "term": "hardy",
+    "explain": "形容词，指人或动物强壮、能吃苦耐劳的，植物耐寒的，如 hardy plants（耐寒植物）、a hardy breed of sheep（一种耐粗养的绵羊）。本句视频译为“顽强的”。"
+   },
+   {
+    "term": "endurance",
+    "explain": "名词，由 endure（忍受，持久）加后缀 -ance 构成，指耐力、忍耐力、耐受力，如 a test of endurance（耐力的考验）、beyond endurance（忍无可忍）。视频译为“耐受力/抗造力”。"
+   },
+   {
+    "term": "warfare",
+    "explain": "不可数名词，指战争、作战，尤指某种方式的作战，如 modern warfare（现代战争）、guerrilla warfare（游击战）。war 指具体的一场战争，warfare 强调作战行为本身。本句用 warfare 一词，带有把消灭鸸鹋的行动比作战争的讽刺意味，视频译为“战事”。"
+   }
+  ],
+  "translation_tip": "视频译文“五个星期的战事几乎没削弱这些顽强的鸟群的耐受力/抗造力。”的处理：①无灵主语 Five weeks of warfare 保留作主语，译为“五个星期的战事”。②过去完成时没有专门译出，汉语靠上下文体现时间关系；barely 译为“几乎没”，放在动词前。③dented 按比喻义译为“削弱”。④名词复数所有格 the hardy flocks' 译为“这些顽强的鸟群的”，定冠词 the 译为“这些”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Later pleas for reinforcements；intervention",
+   "predicate": "were refused；gave way to",
+   "object_or_complement": "a bounty（gave way to 的宾语）",
+   "explain": "and 连接两个并列分句。前一分句 Later pleas for reinforcements were refused 是一般过去时的被动语态；后一分句 intervention gave way to a bounty 是主谓宾结构，give way to 作及物短语动词，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Later",
+    "role": "前置定语（形容词，意为“后来的”），修饰 pleas",
+    "zh": "后来"
+   },
+   {
+    "text": "pleas for reinforcements",
+    "role": "第一分句主语（for reinforcements 作后置定语，修饰 pleas）",
+    "zh": "请求增援的恳求"
+   },
+   {
+    "text": "were refused,",
+    "role": "第一分句谓语（一般过去时，被动语态）",
+    "zh": "都遭到拒绝"
+   },
+   {
+    "text": "and intervention",
+    "role": "并列连词 and + 第二分句主语",
+    "zh": "干预"
+   },
+   {
+    "text": "gave way to",
+    "role": "第二分句谓语（短语动词 give way to）",
+    "zh": "转变为（让步于）"
+   },
+   {
+    "text": "a bounty",
+    "role": "宾语",
+    "zh": "悬赏"
+   },
+   {
+    "text": "sanctioned by the government.",
+    "role": "后置定语（过去分词短语），修饰 a bounty，相当于 which was sanctioned by the government",
+    "zh": "政府批准的"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句。第一分句 Later pleas for reinforcements were refused：主语中心词是 pleas，Later 作前置定语，意为“后来的”，for reinforcements 作后置定语，说明恳求的内容是增援；谓语 were refused 是一般过去时的被动语态。\n②第二分句 intervention gave way to a bounty：主语 intervention 指军方的干预行动，谓语 gave way to 是短语动词，意为“转变为，让位于”，宾语是 a bounty。\n③sanctioned by the government 是过去分词短语作后置定语，修饰 a bounty，相当于 which was sanctioned by the government，省略了 which was；bounty 是“被批准”的一方，by 引出批准者。\n④两个分句之间是因果和递进关系：增援的请求被拒绝，军方不再出手，取而代之的是政府批准的按只悬赏。本句开启最后一段，交代灭鸟的方式由军事行动转为经济激励。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语（带 by 短语）",
+    "explain": "过去分词短语修饰名词时放在名词后，表示被动，可看作省略了“关系代词 + be”的定语从句：a bounty sanctioned by the government = a bounty which was sanctioned by the government。by 短语引出动作的执行者。本文第1句的 settlers placed by a government scheme 也是同一结构。考研长难句中，名词后紧跟 -ed 形式，句中又另有谓语时，这个 -ed 形式通常是后置定语；本句的谓语是 gave way to，sanctioned 只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The guidelines issued by the ministry last month have caused widespread confusion.",
+      "zh": "该部上个月发布的指导意见引起了广泛的困惑。"
+     },
+     {
+      "en": "Most of the paintings donated by the collector are now on display.",
+      "zh": "这位收藏家捐赠的画作大部分已在展出。"
+     }
+    ]
+   },
+   {
+    "title": "later 与 latter",
+    "explain": "later 是 late 的比较级，作形容词意为“后来的，较晚的”，如 later pleas（后来的恳求）、at a later date（日后）；作副词意为“后来，以后”，如 two years later。latter 意为“（两者中的）后者的，后半的”，常用 the latter 指前面提到的两者中的后一个，与 the former（前者）相对。本句 Later 放在名词 pleas 前，作前置定语。写作中 later 和 latter 拼写相近，容易混淆。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report offers two options, and the committee prefers the latter.",
+      "zh": "报告提出了两个方案，委员会倾向于后者。"
+     }
+    ]
+   },
+   {
+    "title": "一般过去时的被动语态",
+    "explain": "was/were + 过去分词构成一般过去时的被动语态。本句 pleas ... were refused 中，主语 pleas 是复数，所以用 were；拒绝者是政府或军方，句中没有说明。被动语态把“恳求”放在主语位置，突出请求的结果。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Repeated requests for an inquiry were ignored by the authorities.",
+      "zh": "要求展开调查的多次请求都被当局置之不理。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "give way to",
+    "explain": "短语动词，意为“转变为，让位于，被……取代”，如 Anger gave way to despair（愤怒变成了绝望）；也可表示“让步于，屈服于”，如 give way to pressure；在英式交通用语中还指“让路”，如 Give way to traffic on the right。本句视频译为“转变为（让步于）”。"
+   },
+   {
+    "term": "plea for sth",
+    "explain": "plea 意为“恳求，请求”，多用于急切、动情的请求，常见 a plea for help（求助）、make a plea for sth（恳求某事）；在法律上还指被告的“答辩”，如 a plea of guilty（认罪答辩）。"
+   },
+   {
+    "term": "reinforcements",
+    "explain": "reinforcement 表示“援军，增援部队”时常用复数，如 send in reinforcements（派遣援军）、call for reinforcements（请求增援）。动词 reinforce 意为“加强，增援”。"
+   },
+   {
+    "term": "bounty",
+    "explain": "bounty 指政府或机构为捕杀某种动物、捉拿某人而悬赏的“赏金”，如 a bounty on sb's head（悬赏某人的人头）、bounty hunters（赏金猎人）。本句指政府悬赏捕杀鸸鹋，视频译为“悬赏”。"
+   },
+   {
+    "term": "sanction",
+    "explain": "sanction 作动词可以表示“批准，认可”，如 officially sanctioned（官方批准的）；作名词常用复数 sanctions，指“制裁”，如 impose sanctions on a country（对某国实施制裁）。本句 sanctioned by the government 是“批准”义，视频译为“政府批准的”。"
+   },
+   {
+    "term": "intervention",
+    "explain": "名词，意为“干预，介入”，如 military intervention（军事干预）、government intervention（政府干预）。本句 intervention 指前文的军事行动。"
+   }
+  ],
+  "translation_tip": "视频译文“后来请求增援的恳求都遭到拒绝，干预转变为（让步于）政府批准的悬赏。”的处理：①Later 译为“后来”，放在句首；后置定语 for reinforcements 前移，译为“请求增援的恳求”。②被动语态 were refused 译为“遭到拒绝”，增补“都”，说明不止一次请求被拒。③and 没有译出，两个分句用逗号连接。④give way to 译为“转变为”，括号补充“让步于”的意思；过去分词短语 sanctioned by the government 前移作定语，译为“政府批准的悬赏”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "This payout per bird",
+   "predicate": "gave",
+   "object_or_complement": "farmers（间接宾语）；compensation and an incentive for extermination（直接宾语）",
+   "explain": "主谓双宾结构，give sb sth：farmers 是间接宾语，compensation 和 an incentive 是并列的直接宾语。谓语 gave 是一般过去时，主动语态，主语是无生命的 payout。"
+  },
+  "components": [
+   {
+    "text": "This payout",
+    "role": "主语中心词（This 回指上句的 bounty）",
+    "zh": "这种……钱款支出（赏金）"
+   },
+   {
+    "text": "per bird",
+    "role": "后置定语（介词短语），修饰 payout",
+    "zh": "按只计算的"
+   },
+   {
+    "text": "gave",
+    "role": "谓语",
+    "zh": "给了"
+   },
+   {
+    "text": "farmers",
+    "role": "间接宾语",
+    "zh": "农民"
+   },
+   {
+    "text": "compensation",
+    "role": "直接宾语一",
+    "zh": "补偿"
+   },
+   {
+    "text": "and an incentive",
+    "role": "并列连词 and + 直接宾语二",
+    "zh": "也成为……的激励"
+   },
+   {
+    "text": "for extermination.",
+    "role": "后置定语（介词短语），修饰 an incentive",
+    "zh": "彻底消灭鸸鹋"
+   }
+  ],
+  "structure": "①主干是 This payout per bird gave farmers compensation and an incentive：主语 This payout，谓语 gave，间接宾语 farmers，直接宾语是并列的 compensation 和 an incentive。\n②This payout per bird 回指上句的 a bounty：This 表示承上，payout 换了一个说法指同一笔钱，per bird 说明赏金按打死的鸟的只数计算。\n③for extermination 是介词短语作后置定语，修饰 an incentive，说明激励的方向是彻底消灭鸸鹋；incentive for sth 表示“做某事的激励”。\n④两个直接宾语说明赏金的双重作用：compensation 着眼过去，弥补农民庄稼的损失；an incentive for extermination 着眼将来，鼓励农民自己动手消灭鸸鹋。下一句用申领的笔数说明这种激励的效果。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "双宾语结构 give sb sth",
+    "explain": "give、offer、bring、send、show 等动词可以带两个宾语：间接宾语指人（动作的接受者），直接宾语指物（动作的对象），语序为“动词 + 间接宾语 + 直接宾语”，也可以改为“动词 + 直接宾语 + to + 间接宾语”。本句 gave farmers compensation and an incentive 中，farmers 是间接宾语，compensation 和 an incentive 是两个并列的直接宾语，相当于 gave compensation and an incentive to farmers。直接宾语较长时，常把间接宾语放在前面，句子更平衡。考研阅读中要找准双宾语句中“给谁”和“给什么”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The scholarship gives students from poor families a chance to study abroad.",
+      "zh": "这项奖学金为贫困家庭的学生提供了出国留学的机会。"
+     },
+     {
+      "en": "The new law offers small businesses tax relief and easier access to loans.",
+      "zh": "新法律为小企业提供税收减免，并让它们更容易获得贷款。"
+     }
+    ]
+   },
+   {
+    "title": "per 的用法",
+    "explain": "per 意为“每，每一”，用在表示单位的名词前，名词前不加冠词，如 per bird（每只鸟）、per person（每人）、per hour（每小时），也常见于 per capita（人均）、per cent（百分之……）。本句 payout per bird 指按每只鸟支付的赏金。考研图表作文中描述人均数据时常用 per capita income（人均收入）、GDP per head。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival charges £15 per person for a day ticket.",
+      "zh": "这个节日的单日票价为每人15英镑。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "payout",
+    "explain": "名词，指（一大笔）付款、赔付、赏金，如 an insurance payout（保险赔付）、a lottery payout（彩票奖金）。来自短语动词 pay out（付出，支付）。本句与上句的 bounty 指同一笔钱，视频译为“钱款支出（赏金）”。"
+   },
+   {
+    "term": "compensation",
+    "explain": "名词，指补偿、赔偿（金），常见 compensation for sth（对……的补偿）、claim compensation（要求赔偿）、pay compensation to sb（向某人支付赔偿）。本句指赏金对农民庄稼损失的补偿。"
+   },
+   {
+    "term": "incentive for/to",
+    "explain": "incentive 意为“激励，动力”，可接 for sth 或 to do sth，如 an incentive for extermination、an incentive to work harder；常见 tax incentives（税收优惠）、provide an incentive。考研阅读中经济、政策类文章常出现这个词。"
+   },
+   {
+    "term": "extermination",
+    "explain": "名词，由动词 exterminate（彻底消灭，根除）变来，多用于消灭害虫、害兽，如 the extermination of pests。本句指消灭鸸鹋，视频译为“彻底消灭”，并增补宾语“鸸鹋”。"
+   }
+  ],
+  "translation_tip": "视频译文“这种按只计算的钱款支出（赏金）给了农民补偿，也成为彻底消灭鸸鹋的激励。”的处理：①This 译为“这种”，后置定语 per bird 前移，增补“计算”，译为“按只计算的”；payout 译为“钱款支出”，括号补充“赏金”，与上句 bounty 对应。②双宾语结构按“给了 + 人 + 物”的语序译出第一个直接宾语：“给了农民补偿”。③第二个直接宾语 an incentive for extermination 拆出来，增补“也成为”，译为“也成为彻底消灭鸸鹋的激励”，避免“给了农民……激励”的生硬搭配；extermination 增补宾语“鸸鹋”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Farmers",
+   "predicate": "claimed",
+   "object_or_complement": "over 57,000 payments",
+   "explain": "主谓宾结构，谓语 claimed 是一般过去时，主动语态，in six months of 1934 作时间状语；句末 more than fifty-seven times Meredith's 986 kills 是同位语，说明数量之间的倍数关系。"
+  },
+  "components": [
+   {
+    "text": "Farmers",
+    "role": "主语（零冠词复数，泛指当地农民）",
+    "zh": "农民们"
+   },
+   {
+    "text": "claimed",
+    "role": "谓语",
+    "zh": "申领了"
+   },
+   {
+    "text": "over 57,000 payments",
+    "role": "宾语（over 修饰数词，表示“超过”）",
+    "zh": "超过5.7万 笔 款项 （政府赏金）"
+   },
+   {
+    "text": "in six months of 1934,",
+    "role": "时间状语（介词短语）",
+    "zh": "在1934年的六个月里"
+   },
+   {
+    "text": "more than fifty-seven times Meredith's 986 kills.",
+    "role": "同位语（倍数短语），补充说明 57,000 payments 相当于 Meredith's 986 kills 的多少倍",
+    "zh": "是梅雷迪思986次击杀数的五十多倍"
+   }
+  ],
+  "structure": "①主干是 Farmers claimed over 57,000 payments：主语 Farmers，谓语 claimed，宾语 payments，over 57,000 表示数量超过57,000笔。claim 在这里指凭规定向官方申领赏金。\n②in six months of 1934 是时间状语，说明申领发生在1934年中的六个月里。\n③句末 more than fifty-seven times Meredith's 986 kills 是同位语，对前面的数字作换算：57,000 多笔赏金，是梅雷迪思986只击杀数的五十七倍多。“倍数 + 名词”直接放在数字后，说明两者的倍数关系。\n④每笔赏金对应一只被打死的鸸鹋，所以这个对比说明：军方动用机枪五个星期的战果，远不如悬赏半年的效果。全文以这一组数字收尾，与第13句梅雷迪思的986只形成呼应，讽刺意味不言自明。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "倍数的表达",
+    "explain": "英语表示倍数常用以下结构：①倍数 + as + 形容词/副词原级 + as，如 three times as large as；②倍数 + 比较级 + than，如 three times larger than；③倍数 + the + 名词（size、number、amount 等）+ of，如 three times the size of；④倍数 + 名词短语，如本句 fifty-seven times Meredith's 986 kills。这些结构都表示“是……的几倍”。twice 表示两倍，三倍及以上用“基数词 + times”；half 表示一半。考研翻译中，汉语“增加了两倍”与“增加到三倍”意思相同，要特别留意。本句前面加 more than，表示“五十七倍多”，视频译为“五十多倍”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new stadium can hold three times as many spectators as the old one.",
+      "zh": "新体育场可容纳的观众是旧体育场的三倍。"
+     },
+     {
+      "en": "Online sales last year were nearly ten times the figure for 2015.",
+      "zh": "去年的网络销售额接近2015年的十倍。"
+     }
+    ]
+   },
+   {
+    "title": "over、more than 修饰数词",
+    "explain": "over 和 more than 放在数字前都表示“超过，多于”，如 over 57,000 payments、more than fifty-seven times；under 和 less than 表示“不到，少于”。本句 over 修饰 57,000，more than 修饰倍数，两处都说明实际数字比所写的还多。考研阅读数字题中，要注意 over、nearly、almost、roughly 等修饰词，它们决定了数字的确切含义。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Over 3,000 people signed the petition within two days.",
+      "zh": "两天之内就有3,000多人在请愿书上签了名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "claim（熟词僻义）",
+    "explain": "claim 常见义是“声称，断言”，本句是“申领，索要”：凭资格或依照规定向官方正式申请领取钱财或物品，如 claim a bounty（申领赏金）、claim benefits（申领福利）、claim expenses（报销费用）。视频说明“claim 凭资格或规定向官方正式“申领、索要”（钱财或物品）”。"
+   },
+   {
+    "term": "payment",
+    "explain": "名词，指付款、支付，也指一笔款项，可数，如 monthly payments（月付款）、make a payment（付款）。本句 57,000 payments 指五万七千多笔赏金，视频译为“款项”，括号补充“政府赏金”。"
+   },
+   {
+    "term": "fifty-seven",
+    "explain": "英语中21到99之间带个位数的两位数（整十的 thirty、forty 等除外），十位和个位之间用连字符连接，如 fifty-seven、twenty-one。"
+   }
+  ],
+  "translation_tip": "视频译文“在1934年的六个月里，农民们申领了超过5.7万 笔 款项 （政府赏金），是梅雷迪思986次击杀数的五十多倍。”的处理：①时间状语 in six months of 1934 提到句首，译为“在1934年的六个月里”，符合汉语时间状语前置的习惯。②复数 Farmers 译为“农民们”；数字按汉语习惯换算为“5.7万”，并加量词“笔”；payments 后用括号补充“政府赏金”，说明款项的性质。③同位语 more than fifty-seven times Meredith's 986 kills 单独成句，增补“是”，倍数取约数译为“五十多倍”；986 kills 增补“次”和“数”，译为“986次击杀数”。"
+ }
+]

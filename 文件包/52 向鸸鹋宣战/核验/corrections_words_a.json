@@ -1,0 +1,65 @@
+[
+ {
+  "key": "id=13",
+  "field": "related",
+  "before": "[{\"en\": \"tramp\", \"pos\": \"v./n.\", \"zh\": \"重步行走；流浪者\"}, {\"en\": \"trampoline\", \"pos\": \"n.\", \"zh\": \"蹦床\"}]",
+  "after": "[{\"en\": \"tramp\", \"pos\": \"v./n.\", \"zh\": \"重步行走；流浪者\"}, {\"en\": \"trampoline\", \"pos\": \"n.\", \"zh\": \"蹦床（借自意大利语 trampolino，只是远源上与 trample 同出日耳曼语，不是由 trample 派生）\"}]",
+  "reason": "trampoline 是意大利语借词，与 trample 只是远源相关，不注明会被误当作派生词"
+ },
+ {
+  "key": "id=15",
+  "field": "related",
+  "before": "[]",
+  "after": "[{\"en\": \"plait\", \"pos\": \"n./v.\", \"zh\": \"辫子；编辫子（据 Merriam-Webster，与 plight 同出英法语 pleit“褶”）\"}]",
+  "reason": "related 为空，不合规范（1 到 5 个）；补一个词典可证的同源词"
+ },
+ {
+  "key": "id=20",
+  "field": "usage_detail",
+  "before": "可数名词，英式英语常写作 machine-gun，美式英语多写作 machine gun，两种拼写都正确，同一篇文章中要统一。",
+  "after": "可数名词，Oxford、Cambridge 等词典的名词词条多写作 machine gun，也可写作 machine-gun（本文即用此形式），同一篇文章中要统一。",
+  "reason": "“英式带连字符、美式不带”无词典依据，改为可核实的说法"
+ },
+ {
+  "key": "id=20",
+  "field": "distinction",
+  "before": "rifle 是步枪，一般单发或半自动射击；",
+  "after": "rifle 是步枪，枪管较长，由单兵抵肩射击；",
+  "reason": "“步枪一般单发或半自动”不准确（不少步枪可全自动射击），改为可靠的区别"
+ },
+ {
+  "key": "id=22",
+  "field": "context_usage",
+  "before": "与 battalion 对比，突出政府派兵敷衍了事。",
+  "after": "与 battalion 对比，突出派出的兵力之少。",
+  "reason": "“敷衍了事”是原文没有的主观评价"
+ },
+ {
+  "key": "id=26",
+  "field": "etymology",
+  "before": "由 en-（在……里）和 busche（树林，灌木丛）构成，busche 源自日耳曼语，与 bush（灌木丛）同源。字面意思是“藏在树丛里”。",
+  "after": "由 en-（在……里）和 busche（柴枝）构成，busche 一般认为源自法兰克语中表示“灌木丛，树林”的词，与 bush（灌木丛）同源。字面意思是“藏在树林里”。",
+  "reason": "Etymonline：古法语 busche 义为“柴枝”，源自法兰克语表示“灌木丛、树林”的词，原写法混淆了两层"
+ },
+ {
+  "key": "id=27",
+  "field": "context_usage",
+  "before": "这是本次行动的第一次挫折。",
+  "after": "这是文中写到的第一次挫折。",
+  "reason": "原文没有说这是整个行动的第一次挫折，限定为文中所写"
+ },
+ {
+  "key": "id=32",
+  "field": "context_usage",
+  "before": "士兵把机枪装在卡车上追鸟，车辆颠簸、鸟群分散，根本打不中，所以视频取“徒劳无功”。",
+  "after": "伏击失败后，士兵又把机枪装在卡车上，结果同样没有效果，所以视频取“徒劳无功”。",
+  "reason": "“车辆颠簸”等细节原文没有写，不能当作事实叙述"
+ },
+ {
+  "key": "id=32",
+  "field": "etymology",
+  "before": "与拉丁语 fundere（倒，浇）同一词根。",
+  "after": "一般认为与拉丁语 fundere（倒，浇）同一词根。",
+  "reason": "Etymonline 对 futilis 与 fundere 的关系用推测语气，改为“一般认为”"
+ }
+]
