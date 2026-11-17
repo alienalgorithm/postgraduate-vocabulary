@@ -1,0 +1,1568 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "fastened",
+   "object_or_complement": "a disc",
+   "explain": "主干是 NASA fastened a disc，主谓宾结构，用的是 fasten A to B（把 A 固定在 B 上）这一句型，A 是 a disc，to each Voyager spaceship 交代固定的位置。谓语 fastened 是一般过去时，主动语态，叙述1977年发生的事。"
+  },
+  "components": [
+   {
+    "text": "In late summer 1977,",
+    "role": "时间状语（介词短语）",
+    "zh": "1977年夏末"
+   },
+   {
+    "text": "NASA",
+    "role": "主语",
+    "zh": "NASA"
+   },
+   {
+    "text": "fastened",
+    "role": "谓语",
+    "zh": "固定了"
+   },
+   {
+    "text": "a disc",
+    "role": "宾语",
+    "zh": "一张唱片"
+   },
+   {
+    "text": "wrought from gilded copper,",
+    "role": "后置定语（过去分词短语），修饰 a disc",
+    "zh": "这个圆盘用镀金的铜锻造而成"
+   },
+   {
+    "text": "30 centimetres wide,",
+    "role": "后置定语（“数量 + 形容词”构成的形容词短语），补充说明 a disc 的大小",
+    "zh": "宽30厘米"
+   },
+   {
+    "text": "to each Voyager spaceship",
+    "role": "地点状语（介词短语），与 fastened 构成 fasten A to B",
+    "zh": "装在每艘旅行者号宇宙飞船上"
+   },
+   {
+    "text": "before takeoff.",
+    "role": "时间状语（介词短语）",
+    "zh": "在起飞之前"
+   }
+  ],
+  "structure": "①主句是 NASA fastened a disc to each Voyager spaceship，主语 NASA，谓语 fastened，宾语 a disc，介词短语 to each Voyager spaceship 交代固定到哪里，合起来是 fasten A to B 句型。\n②宾语 a disc 后面接了两个后置定语，把 fasten A to B 中的 A 和 to B 隔开了：wrought from gilded copper 是过去分词短语，说明唱片用什么材料制成，相当于 which was wrought from gilded copper；30 centimetres wide 是“数量 + 形容词”构成的形容词短语，补充说明唱片的大小，两个逗号把它隔成补充信息。读到 to each Voyager spaceship 时，要回头把它和 fastened 联系起来。\n③wrought 是 work 的旧式过去分词，意为“制作，锻造”，今天一般动词 work 的过去分词用 worked，wrought 多见于书面语和 wrought iron（熟铁）等固定说法。\n④句首 In late summer 1977 和句尾 before takeoff 都是时间状语，一个交代具体时间，一个交代唱片是在飞船起飞之前装上去的。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "及物动词的过去分词短语放在名词后面作定语，表示被动或完成，与被修饰的名词是动宾关系。本句 wrought from gilded copper 修饰 a disc，唱片是“被锻造”的一方，相当于 which was wrought from gilded copper。wrought 是 work 的旧式过去分词，长难句里遇到不认识的 -t 结尾分词，要先看它前面是否已有谓语：本句谓语是 fastened，wrought 只能作定语。考研翻译中这类后置定语一般前置为“……的”，长的也可以像视频那样拆成独立短句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The bridge, built from local stone in the 1820s, still carries heavy traffic today.",
+      "zh": "这座桥用当地石料建于19世纪20年代，至今仍承载着繁忙的交通。"
+     },
+     {
+      "en": "Most of the tools found at the site were made from bone.",
+      "zh": "在遗址发现的大部分工具是用骨头制成的。"
+     }
+    ]
+   },
+   {
+    "title": "“数量 + 形容词”表示尺寸",
+    "explain": "英语表示长、宽、高、深、厚、年龄等，常用“数量 + 形容词”，如 30 centimetres wide（宽30厘米）、two metres tall（高两米）、ten years old（十岁）。这种短语可作表语（The table is two metres long），也可放在名词后作后置定语，本句 30 centimetres wide 修饰 a disc。放在名词前时要改成带连字符、名词用单数的复合形容词：a 30-centimetre disc，不能写成 a 30-centimetres disc。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Engineers found a crack two metres long in the dam wall.",
+      "zh": "工程师在坝墙上发现了一道两米长的裂缝。"
+     }
+    ]
+   },
+   {
+    "title": "fasten A to B 中宾语与介词短语被隔开",
+    "explain": "fasten A to B、attach A to B、tie A to B 这类结构，正常语序是动词、宾语 A、to B。宾语带了较长的后置定语时，to B 会被推到很后面，读者容易把 to B 误当作修饰前面名词的成分。本句 a disc 后面插入了 wrought from gilded copper 和 30 centimetres wide，to each Voyager spaceship 要回到 fastened 去理解。考研阅读中碰到 to、with、from、into 等介词短语离动词很远时，先找与它搭配的动词，再判断中间的成分修饰谁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The volunteers attached a small tracking device, no heavier than a coin, to each turtle.",
+      "zh": "志愿者们给每只海龟装上了一个小型追踪器，重量不超过一枚硬币。"
+     },
+     {
+      "en": "She tied a long red ribbon, bought that morning at the market, to the garden gate.",
+      "zh": "她把一条长长的红丝带系在花园门上，丝带是那天早上在集市上买的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NASA",
+    "explain": "National Aeronautics and Space Administration 的首字母缩略词，美国国家航空航天局，负责美国民用航天和航空研究。作主语时不加冠词。"
+   },
+   {
+    "term": "Voyager",
+    "explain": "旅行者号，美国 NASA 于1977年发射的两艘无人宇宙探测器，即旅行者1号（Voyager 1）和旅行者2号（Voyager 2）。本句 each Voyager spaceship 指两艘中的每一艘，所以视频译为“每艘旅行者号宇宙飞船”。每艘携带的唱片通称“金唱片”（the Golden Record）。"
+   },
+   {
+    "term": "wrought",
+    "explain": "work 的旧式过去式和过去分词，意为“制作，加工，锻造”；现代英语一般用 worked。固定说法有 wrought iron（熟铁）、wrought-iron gates（铁艺大门）；well-wrought 表示“精心制作的”。视频据此译为“锻造”。"
+   },
+   {
+    "term": "gilded copper",
+    "explain": "镀金的铜。gild 意为“给……镀金，贴金箔”，gilded 是其过去分词作定语；copper 是铜。本句说明唱片是在铜盘上镀金制成的，并非纯金。"
+   },
+   {
+    "term": "in late summer 1977",
+    "explain": "季节前加 early、late、mid 等修饰并后接年份时，仍用介词 in，季节名前通常不加冠词，如 in early spring 2020。late summer 指夏季的后期，对应视频的“夏末”。"
+   },
+   {
+    "term": "centimetres",
+    "explain": "centimetre 的复数，英式拼写；美式拼写为 centimeter。本文多处用英式拼写，如 kilometres、analogue。"
+   }
+  ],
+  "translation_tip": "视频译文“1977年夏末，NASA固定了一张唱片，这个圆盘用镀金的铜锻造而成，宽30厘米，装在每艘旅行者号宇宙飞船上，在起飞之前。”按英文语序顺译：①in late summer 1977 按汉语习惯把年份放前，译成“1977年夏末”。②a disc 后的两个后置定语没有前置成长定语，而是拆成两个短句，用“这个圆盘”回指唱片，接“用镀金的铜锻造而成”“宽30厘米”，避免“一张用镀金的铜锻造而成的宽30厘米的唱片”这种头重脚轻的结构。③to each Voyager spaceship 被隔在后面，译文增补动词“装在……上”，把它和前面的“固定了”接起来。④before takeoff 放在句末，译成“在起飞之前”，与英文语序一致。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Nobody",
+   "predicate": "could foresee",
+   "object_or_complement": "who, if anyone, would play one（宾语从句）",
+   "explain": "主谓宾结构，宾语是 who 引导的宾语从句。谓语 could foresee 由情态动词 could 加动词原形构成，指过去的能力；否定意义由主语 Nobody 承担，全句意为“谁也无法预见”。"
+  },
+  "components": [
+   {
+    "text": "Nobody",
+    "role": "主语（否定代词，表示全部否定）",
+    "zh": "谁也"
+   },
+   {
+    "text": "could foresee",
+    "role": "谓语（情态动词 could + 动词原形）",
+    "zh": "无法预见"
+   },
+   {
+    "text": "who,",
+    "role": "宾语从句的引导词，在从句中作主语",
+    "zh": "又会是谁"
+   },
+   {
+    "text": "if anyone,",
+    "role": "插入语（省略的条件状语从句，相当于 if anyone would play one）",
+    "zh": "究竟会不会有人"
+   },
+   {
+    "text": "would play one.",
+    "role": "宾语从句的谓语和宾语，one 指两张唱片中的任意一张",
+    "zh": "来播放其中一张"
+   }
+  ],
+  "structure": "①主句是 Nobody could foresee + 宾语从句。Nobody 是否定代词，句子形式上没有 not，否定意义全在主语上，汉语译为“谁也无法”。\n②宾语从句由疑问代词 who 引导，who 在从句中作主语，从句谓语是 would play，宾语是 one。从句用陈述语序；would 是过去将来时，站在1977年的时间点看“将来会不会有人播放”。\n③if anyone 是插入语，前后用逗号隔开，是条件状语从句的省略形式，完整说法是 if anyone would play one。它对 who 提出的问题加了一层保留：先要问会不会有人播放，有的话才谈得上是谁。视频译文“究竟会不会有人、又会是谁”把这两层都译了出来。\n④one 是代词，代替上句的 a disc，视频说明指出它指两张唱片中的任意一张。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "if any / if anyone / if ever 类插入语",
+    "explain": "if any、if anyone、if ever、if at all 是条件状语从句的省略形式，常作插入语，表示“即使有也很少，若有的话”，对前面的说法加以保留或修正。常见格式有 few, if any（即使有也极少）、rarely, if ever（即使有也很少）。本句 who, if anyone, would play one 中，if anyone 表示“如果真有人的话”，暗示很可能根本没人播放。考研阅读中这类插入语常体现作者的谨慎或怀疑态度，翻译时要把这层保留译出来，不能略去。注意 if anything 用法不同，表示“如果说有什么不同的话，甚至（恰恰相反）”，如 The situation has not improved; if anything, it has got worse（情况没有好转，甚至可以说更糟了）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few, if any, of the original buildings survived the fire.",
+      "zh": "原有建筑在那场大火中几乎无一幸存。"
+     },
+     {
+      "en": "He rarely, if ever, takes a day off.",
+      "zh": "他很少休假，甚至可以说从不休假。"
+     }
+    ]
+   },
+   {
+    "title": "疑问词引导的宾语从句用陈述语序",
+    "explain": "who、what、which、when、where、how 等疑问词引导宾语从句时，从句要用陈述语序，不能用疑问句的倒装。疑问词在从句中充当成分：本句 who 作从句主语，所以直接接谓语 would play，与陈述语序一致。考研写作中常见错误是写成 I wonder what is the reason，应为 I wonder what the reason is。主句是过去时时，从句时态一般相应后移，本句用 would 表示过去将来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "No one knew who would take over the company after the founder retired.",
+      "zh": "谁也不知道创始人退休后由谁接管公司。"
+     },
+     {
+      "en": "The report does not explain why the project was abandoned.",
+      "zh": "报告没有说明这个项目为什么被放弃。"
+     }
+    ]
+   },
+   {
+    "title": "否定代词作主语表示全部否定",
+    "explain": "nobody、no one、nothing、none 作主语时，句子虽然不出现 not，表达的却是全部否定，即“谁也不，什么也不”。本句 Nobody could foresee 相当于 Not a single person could foresee，汉语常译成“谁也无法……”“没有人能……”。注意 nobody 作主语时谓语用单数，后面的反意疑问句用肯定形式，如 Nobody came, did they?",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nobody could explain why the system had failed.",
+      "zh": "谁也解释不了系统为什么会出故障。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "foresee",
+    "explain": "动词，预见，预料（foresee, foresaw, foreseen）。fore- 表示“预先”，see 表示“看”，常接名词或宾语从句，如 foresee problems、foresee what will happen。形容词 foreseeable，常用 in the foreseeable future（在可预见的将来）。"
+   },
+   {
+    "term": "one",
+    "explain": "代词，代替前文出现过的可数名词单数，避免重复，本句代替 a disc。两艘探测器各带一张唱片，所以视频说明 one 指两张唱片中的任意一张，译为“其中一张”。"
+   },
+   {
+    "term": "play a record",
+    "explain": "播放唱片。play 作及物动词，可接 a record、a CD、music 等，表示“播放”。本句 play one 即 play a disc，承接上句的唱片。"
+   }
+  ],
+  "translation_tip": "视频译文“谁也无法预见，究竟会不会有人、又会是谁来播放其中一张。”的处理：①Nobody could foresee 译成“谁也无法预见”，把否定落在动词前，符合汉语表达。②插入语 if anyone 不单独放在中间，而是提前到 who 之前，译成“究竟会不会有人”，再接“又会是谁”，先问有没有、再问是谁，逻辑顺序更清楚，“究竟”“又”两个词也译出了原文的不确定语气。③one 译成“其中一张”，点明是两张唱片中的一张。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Advisers",
+   "predicate": "distilled",
+   "object_or_complement": "our earthly abode",
+   "explain": "主干是 Advisers distilled our earthly abode，主谓宾结构，用的是 distil A into B（把 A 提炼成 B）句型，into this compendium 说明提炼的结果。谓语 distilled 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Advisers",
+    "role": "主语",
+    "zh": "顾问们"
+   },
+   {
+    "text": "under Carl Sagan",
+    "role": "后置定语（介词短语），修饰 Advisers",
+    "zh": "卡尔·萨根手下的"
+   },
+   {
+    "text": "of Cornell",
+    "role": "后置定语（介词短语），修饰 Carl Sagan",
+    "zh": "康奈尔大学"
+   },
+   {
+    "text": "distilled",
+    "role": "谓语",
+    "zh": "提炼"
+   },
+   {
+    "text": "our earthly abode",
+    "role": "宾语",
+    "zh": "我们在尘世的家园"
+   },
+   {
+    "text": "into this compendium.",
+    "role": "结果状语（介词短语），与 distilled 构成 distil A into B",
+    "zh": "成这部汇编"
+   }
+  ],
+  "structure": "①主句是 Advisers distilled our earthly abode into this compendium，主语 Advisers，谓语 distilled，宾语 our earthly abode，into this compendium 表示提炼的结果，合起来是 distil A into B。\n②主语 Advisers 后面有两层介词短语：under Carl Sagan 修饰 Advisers，under 表示“在……领导之下”，说明是萨根手下的顾问；of Cornell 修饰 Carl Sagan，说明萨根所属的机构。视频说明指出 under Carl Sagan of Cornell 是后置定语，修饰 Advisers。\n③our earthly abode 是文雅的说法，指我们居住的地球和人间生活；this compendium 指唱片，把唱片比作一部汇编，与第4至6句列举的声音、音乐和图像相呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "distil A into B 等“动词 + A + into + B”结构",
+    "explain": "into 表示变化的结果，常与动词构成“把 A 变成 B”的结构：distil A into B（把 A 提炼成 B）、turn A into B（把 A 变成 B）、translate A into B（把 A 译成 B）、convert A into B（把 A 转换成 B）、condense A into B（把 A 压缩成 B）。本句 distilled our earthly abode into this compendium 意为把地球家园提炼成这部汇编。汉语常用“把”字句译出，如视频的“把……提炼成……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The author distilled twenty years of research into a short, readable book.",
+      "zh": "作者把二十年的研究提炼成了一本篇幅不长、通俗易读的书。"
+     }
+    ]
+   },
+   {
+    "title": "介词 under 表示隶属和领导关系",
+    "explain": "under 除了表示空间上的“在……下面”，还可以表示“在……领导、管理之下”，如 work under a manager（在经理手下工作）、the team under Smith（史密斯领导的团队）、under the new government（在新政府治下）。本句 Advisers under Carl Sagan 指萨根带领的顾问，视频译为“卡尔·萨根手下的顾问们”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum improved rapidly under its new director.",
+      "zh": "在新馆长的领导下，这家博物馆迅速改善。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Carl Sagan",
+    "explain": "卡尔·萨根，美国天文学家、科普作家，长期在康奈尔大学任教，主持了旅行者号金唱片内容的挑选工作。视频说明称他为著名天文学家。"
+   },
+   {
+    "term": "Cornell",
+    "explain": "指康奈尔大学（Cornell University），位于美国纽约州伊萨卡（Ithaca）。英语里常用大学名的简称指代该校，视频译为“康奈尔大学”。"
+   },
+   {
+    "term": "earthly abode",
+    "explain": "abode 是正式或文学用词，意为“住所，家”；earthly 意为“尘世的，地球上的”，与 heavenly（天上的）相对。our earthly abode 即我们在地球上的家园，比 our planet 更有文学色彩。法律用语 of no fixed abode 意为“无固定住所”。"
+   },
+   {
+    "term": "compendium",
+    "explain": "正式用词，指把某方面内容简明汇集在一起的汇编、纲要，如 a compendium of useful information。本句用它指唱片，强调唱片把地球的声音和图像集中收录在一起，视频译为“这部汇编”。"
+   },
+   {
+    "term": "distil",
+    "explain": "英式拼写，美式拼写为 distill。本义是“蒸馏”，引申为“提炼，浓缩（思想、经验等）”。视频说明用“浓缩、打包”描述这一过程。"
+   }
+  ],
+  "translation_tip": "视频译文“康奈尔大学卡尔·萨根手下的顾问们，把我们在尘世的家园，提炼成这部汇编。”的处理：①主语的两层后置定语全部前置，按汉语由大到小的习惯排成“康奈尔大学卡尔·萨根手下的顾问们”，of Cornell 译成“康奈尔大学”放在最前。②distil A into B 用“把”字句译出，宾语“我们在尘世的家园”提到动词前，into this compendium 译成“成这部汇编”，接在“提炼”后面组成“提炼成”。③earthly 译成“在尘世的”，保留原文的文学色彩。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Voices",
+   "predicate": "greet",
+   "object_or_complement": "the listener",
+   "explain": "主干是 Voices greet the listener，主谓宾结构。谓语 greet 是一般现在时，主动语态，用来描述唱片收录的内容，这些内容是固定存在的，不随时间改变。"
+  },
+  "components": [
+   {
+    "text": "Voices",
+    "role": "主语",
+    "zh": "人声"
+   },
+   {
+    "text": "greet",
+    "role": "谓语",
+    "zh": "向……致以问候"
+   },
+   {
+    "text": "the listener",
+    "role": "宾语",
+    "zh": "听者"
+   },
+   {
+    "text": "in 55 languages,",
+    "role": "方式状语（介词短语）",
+    "zh": "用55种语言"
+   },
+   {
+    "text": "followed by",
+    "role": "状语（过去分词短语 followed by… 的开头，表示先后顺序）",
+    "zh": "接着是"
+   },
+   {
+    "text": "the rumble of thunder,",
+    "role": "by 的宾语一",
+    "zh": "雷的隆隆声"
+   },
+   {
+    "text": "the whistle of wind,",
+    "role": "by 的宾语二",
+    "zh": "风的呼啸声"
+   },
+   {
+    "text": "whales,",
+    "role": "by 的宾语三（以鲸指代鲸的叫声）",
+    "zh": "鲸歌"
+   },
+   {
+    "text": "footsteps,",
+    "role": "by 的宾语四",
+    "zh": "脚步声"
+   },
+   {
+    "text": "laughter,",
+    "role": "by 的宾语五",
+    "zh": "笑声"
+   },
+   {
+    "text": "and a rhythmic heartbeat.",
+    "role": "并列连词 and + by 的宾语六",
+    "zh": "和富有节奏的心跳"
+   }
+  ],
+  "structure": "①主句是 Voices greet the listener in 55 languages，主语 Voices，谓语 greet，宾语 the listener，in 55 languages 是方式状语，视频说明同此。\n②逗号后的 followed by… 是过去分词短语作状语，视频说明为“接着是……”。它的逻辑主语是前面主句所说的内容，即问候语；follow 是及物动词，“问候被雷声等跟随”就是“问候之后接着是雷声等”，所以用过去分词。\n③by 后面接了六个并列宾语，按 A, B, C, D, E, and F 排列，and 前有牛津逗号：the rumble of thunder、the whistle of wind 是“名词 + of + 名词”表示某物发出的声音；whales 用发声者指代鲸的叫声，视频译为“鲸歌”；footsteps、laughter 直接指声音；a rhythmic heartbeat 由形容词 rhythmic 修饰。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "A, followed by B：过去分词短语表示先后顺序",
+    "explain": "followed by 是过去分词短语，放在句末作状语，表示“随后是，接着是”。follow 是及物动词，A is followed by B 意为 B 跟在 A 后面，所以 A, followed by B 就是“先 A 后 B”，顺序不能弄反。本句问候语在前，雷声、风声等在后。这一结构在考研阅读的排名、数据描述中很常见，如 X ranks first, followed by Y and Z，意为 X 第一，其次是 Y 和 Z。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Germany has the largest economy in the European Union, followed by France and Italy.",
+      "zh": "德国是欧盟最大的经济体，其次是法国和意大利。"
+     },
+     {
+      "en": "The meeting opened with a short speech, followed by an hour of questions from the audience.",
+      "zh": "会议以一段简短的讲话开场，接着是一个小时的听众提问。"
+     }
+    ]
+   },
+   {
+    "title": "多项并列与牛津逗号",
+    "explain": "三项及以上并列时写成 A, B, and C，最后一项前用 and，and 前的逗号称为牛津逗号（serial comma）。本句 followed by 后面并列了六项，有的是“名词 + of + 名词”（the rumble of thunder），有的是单个名词（whales、footsteps、laughter），有的带形容词（a rhythmic heartbeat），结构长短不一，但都作 by 的宾语，地位平等。读长句时以逗号和 and 为界，先数清并列项，再看每一项内部的结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum shop sells postcards, prints of famous paintings, books, and handmade jewellery.",
+      "zh": "博物馆商店出售明信片、名画复制品、书籍和手工首饰。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时描述作品内容",
+    "explain": "描述书籍、电影、唱片、展览等作品的内容时，英语习惯用一般现在时，因为作品内容是固定存在、随时可以看到或听到的，如 The film tells the story of…、The book describes…。本句 greet 和下句的 cover 都用一般现在时介绍唱片内容；而第1句叙述1977年装唱片的过程，用一般过去时 fastened。考研写作中概述图表、文章内容时，也用一般现在时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The exhibition opens with a series of early maps and ends with satellite images of the coast.",
+      "zh": "展览以一组早期地图开场，以海岸的卫星图像收尾。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "greet",
+    "explain": "及物动词，问候，迎接，常用 greet sb with sth（以……迎接某人），如 greet guests with a smile。本句 greet the listener 视频译为“向听者致以问候”，greeting（问候语）是其名词。"
+   },
+   {
+    "term": "the rumble of thunder",
+    "explain": "雷的隆隆声。rumble 指低沉、持续的隆隆声，常用于雷声、车流声、肚子饿的咕噜声，如 the rumble of traffic。"
+   },
+   {
+    "term": "the whistle of wind",
+    "explain": "风的呼啸声。whistle 本指口哨、哨子，也指风、子弹等发出的尖啸声，视频译为“呼啸声”。"
+   },
+   {
+    "term": "whales",
+    "explain": "本句用 whales 指鲸发出的声音，视频译为“鲸歌”。用发声者指代声音，是列举声音时的简洁说法。"
+   },
+   {
+    "term": "laughter",
+    "explain": "不可数名词，笑声，如 burst into laughter（突然大笑）。与 laugh（可数，一声笑）不同，laughter 不加 a，也不用复数。"
+   }
+  ],
+  "translation_tip": "视频译文“人声用55种语言向听者致以问候，接着是雷的隆隆声、风的呼啸声、鲸歌、脚步声、笑声和富有节奏的心跳。”的处理：①方式状语 in 55 languages 提到动词前，译成“用55种语言”，符合汉语状语在前的习惯。②greet the listener 译成“向听者致以问候”，用“向……致以问候”这一书面说法。③followed by 不译成被动，按先后顺序译成“接着是”。④六个并列项用顿号连接，最后一项前用“和”，对应英文的 and；whales 增补为“鲸歌”，与其他几项一样落到“声音”上。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "About 90 minutes of eclectic music",
+   "predicate": "cover",
+   "object_or_complement": "a spectrum of cultures and eras",
+   "explain": "主谓宾结构。谓语 cover 是一般现在时，主动语态，描述唱片内容；cover 用复数形式，与主语中的 minutes 保持一致。"
+  },
+  "components": [
+   {
+    "text": "About 90 minutes",
+    "role": "主语（数量名词短语，谓语与 minutes 一致）",
+    "zh": "约90分钟的"
+   },
+   {
+    "text": "of eclectic music",
+    "role": "后置定语（介词短语），说明这90分钟的内容",
+    "zh": "兼收并蓄的音乐"
+   },
+   {
+    "text": "cover",
+    "role": "谓语",
+    "zh": "涵盖了"
+   },
+   {
+    "text": "a spectrum of",
+    "role": "宾语中心词 spectrum 及其介词 of（a spectrum of 意为“一系列的”，后接复数名词）",
+    "zh": "一系列的"
+   },
+   {
+    "text": "cultures",
+    "role": "of 的宾语一",
+    "zh": "文化"
+   },
+   {
+    "text": "and eras,",
+    "role": "并列连词 and + of 的宾语二",
+    "zh": "和时代"
+   },
+   {
+    "text": "notably",
+    "role": "副词，引出突出的例子",
+    "zh": "尤其是"
+   },
+   {
+    "text": "Bach",
+    "role": "举例成分一（作用相当于同位语，补充说明宾语）",
+    "zh": "巴赫"
+   },
+   {
+    "text": "and Chuck Berry's",
+    "role": "并列连词 and + 名词所有格，作 Johnny B. Goode 的定语",
+    "zh": "和查克·贝里的"
+   },
+   {
+    "text": "Johnny B. Goode.",
+    "role": "举例成分二（歌曲名）",
+    "zh": "《Johnny B. Goode》"
+   }
+  ],
+  "structure": "①主句是 About 90 minutes of eclectic music cover a spectrum of cultures and eras。主语是“数量 + of + 名词”结构，About 修饰数词90，of eclectic music 说明这90分钟是什么内容；谓语 cover 与 minutes 一致，用复数。宾语是 a spectrum of cultures and eras，a spectrum of 意为“一系列的，广泛的”，后接两个并列名词 cultures 和 eras。\n②逗号后 notably Bach and Chuck Berry's Johnny B. Goode 是对宾语的举例补充，作用相当于同位语：notably 意为“尤其，特别是”，引出最突出的例子，视频说明同此。Bach 用作曲家的名字指代他的作品；Chuck Berry's Johnny B. Goode 中 's 表示歌曲的作者归属。\n③两个例子一个是18世纪德国的古典音乐，一个是20世纪美国的摇滚乐，正好体现了 eclectic（兼收并蓄）和 a spectrum of cultures and eras。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "notably / particularly / especially 引出突出的例子",
+    "explain": "notably 意为“尤其，特别是”，常放在逗号后，引出前面所说范围中最突出的例子，后面可以直接接名词，不必构成完整句子，格式为“……, notably + 名词”。particularly、especially 也可这样用，in particular 则多放在名词后或句末。本句 notably Bach and Chuck Berry's Johnny B. Goode 补充说明 a spectrum of cultures and eras。考研阅读中 notably 后面的内容常是作者举出的典型例证，可作细节题的定位依据。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Several European countries, notably Denmark and the Netherlands, have invested heavily in cycling infrastructure.",
+      "zh": "几个欧洲国家大力投资自行车基础设施，尤其是丹麦和荷兰。"
+     }
+    ]
+   },
+   {
+    "title": "“数量 + of + 名词”作主语时的主谓一致",
+    "explain": "表示时间、距离、金额的复数名词短语作主语，如果把它看作一个整体的量，谓语常用单数，如 Ninety minutes is a long time for a lecture；如果着眼于数量名词本身，谓语与复数名词一致。本句 About 90 minutes of eclectic music 后面的谓语用复数 cover，与 minutes 一致。考研完形和写作中，要先找到主语的中心词，再结合语义判断谓语的单复数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Ten kilometres is too far to walk in this heat.",
+      "zh": "这么热的天，走十公里太远了。"
+     }
+    ]
+   },
+   {
+    "title": "a spectrum of / a range of + 复数名词",
+    "explain": "a spectrum of、a range of、a variety of、an array of 等量词短语后接复数名词，表示“一系列，各种各样的”。spectrum 本义是光谱，用在这里强调覆盖面广、从一端到另一端，如 a broad spectrum of opinion（各种各样的意见）。本句 a spectrum of cultures and eras 意为“一系列的文化和时代”。下一句的 an array of 115 images 是同类结构。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey drew responses from a wide spectrum of age groups.",
+      "zh": "这项调查收到了来自各个年龄段的回复。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "eclectic",
+    "explain": "形容词，兼收并蓄的，不拘一格的，指从多种来源、风格中选取，如 eclectic tastes（广泛的爱好）、an eclectic mix of styles。本句修饰 music，说明唱片收录的音乐风格多样。"
+   },
+   {
+    "term": "Bach",
+    "explain": "巴赫（Johann Sebastian Bach），德国巴洛克时期作曲家。本句用作曲家的名字指代他的作品，英语中常见 play Bach（演奏巴赫的作品）这种说法。"
+   },
+   {
+    "term": "Chuck Berry's Johnny B. Goode",
+    "explain": "查克·贝里是美国摇滚乐的先驱，《Johnny B. Goode》是他1958年发行的歌曲，视频说明称其为查克·贝里的一首歌。名词所有格 's 在这里表示作品的作者归属。"
+   },
+   {
+    "term": "cover",
+    "explain": "熟词僻义：本句不是“覆盖，遮盖”，而是“涵盖，包括”，与 include 接近，如 The course covers grammar and vocabulary。视频译为“涵盖了”。"
+   }
+  ],
+  "translation_tip": "视频译文“约90分钟的兼收并蓄的音乐，涵盖了一系列的文化和时代，尤其是巴赫和查克·贝里的《Johnny B. Goode》。”的处理：①主语“数量 + of + 名词”译成“约90分钟的兼收并蓄的音乐”，把 of 短语变成中心词，数量词放在前面作定语。②a spectrum of 译成“一系列的”，cultures and eras 译成“文化和时代”。③notably 引出的例子放在句末，用“尤其是”引出，保持英文先总说、后举例的顺序。④歌曲名加书名号，保留英文原名《Johnny B. Goode》。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "An array of 115 images",
+   "predicate": "sits",
+   "object_or_complement": "",
+   "explain": "主谓结构，sit 在这里是不及物动词，意为“位于，处于”，beside 引出的介词短语作地点状语。谓语 sits 是一般现在时，主动语态，用单数与主语中心词 array 保持一致。"
+  },
+  "components": [
+   {
+    "text": "An array of",
+    "role": "主语中心词 array 及其介词 of（an array of 意为“一系列”）",
+    "zh": "一系列"
+   },
+   {
+    "text": "115 images,",
+    "role": "of 的宾语，说明 array 的内容",
+    "zh": "共115幅图像"
+   },
+   {
+    "text": "encoded in analogue form,",
+    "role": "插入语（过去分词短语），补充说明 images",
+    "zh": "以模拟方式编码"
+   },
+   {
+    "text": "sits beside",
+    "role": "谓语 sits + 介词 beside，引出地点状语",
+    "zh": "旁边是"
+   },
+   {
+    "text": "printed",
+    "role": "前置定语（过去分词），修饰 words",
+    "zh": "印着的"
+   },
+   {
+    "text": "words",
+    "role": "beside 的宾语",
+    "zh": "文字"
+   },
+   {
+    "text": "from two statesmen,",
+    "role": "后置定语（介词短语），修饰 words，说明文字的出处",
+    "zh": "出自于两位政治家"
+   },
+   {
+    "text": "Jimmy Carter",
+    "role": "同位语一，补充说明 two statesmen",
+    "zh": "吉米·卡特"
+   },
+   {
+    "text": "and Kurt Waldheim.",
+    "role": "并列连词 and + 同位语二",
+    "zh": "与库尔特·瓦尔德海姆"
+   }
+  ],
+  "structure": "①主句是 An array of 115 images sits beside printed words。主语中心词是 array，of 115 images 说明它的内容，谓语因此用单数 sits；sit 是不及物动词，beside printed words 作地点状语。\n②主语和谓语之间插入了过去分词短语 encoded in analogue form，前后用逗号隔开，视频说明指出它是插入语，补充说明 images。images 与 encode 是被动关系（图像被编码），所以用过去分词。\n③beside 的宾语 words 前有过去分词 printed 作前置定语，后有介词短语 from two statesmen 作后置定语，说明文字出自谁。\n④Jimmy Carter and Kurt Waldheim 是同位语，补充说明 two statesmen 具体是哪两位，视频说明同此。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "an array of + 复数名词作主语的主谓一致",
+    "explain": "“量词名词 + of + 复数名词”作主语时，要先判断中心词。本句中心词是 array，谓语用单数 sits。可对比 a number of 和 the number of：a number of students 意为“许多学生”，中心意义在 students，谓语用复数；the number of students 意为“学生的数量”，中心词是 number，谓语用单数。an array of、a series of、a range of、a collection of 等后接复数名词时，单复数两种谓语都有人用，单数强调整体，复数强调其中的个体，本句用单数。考研写作中用这类短语作主语时，要先认准中心词，全文谓语单复数保持一致。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A series of lectures on climate policy is planned for next term.",
+      "zh": "下学期计划举办一系列关于气候政策的讲座。"
+     },
+     {
+      "en": "The number of applicants has doubled since last year.",
+      "zh": "申请人数比去年翻了一番。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作插入语",
+    "explain": "分词短语可以放在主语和谓语之间，用两个逗号隔开，对前面的名词作补充说明，相当于一个非限制性定语从句。本句 encoded in analogue form 补充说明 images，相当于 which are encoded in analogue form。读这类句子时，可以先跳过两个逗号之间的插入成分，把主语 An array of 115 images 和谓语 sits 连起来，主干就清楚了。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The letters, written over a period of forty years, reveal a very different side of the poet.",
+      "zh": "这些信件写于四十年间，揭示了这位诗人截然不同的一面。"
+     }
+    ]
+   },
+   {
+    "title": "同位语补充说明前面的名词",
+    "explain": "同位语是对前面名词的进一步说明或具体化，两者指同一对象，通常用逗号隔开。本句 Jimmy Carter and Kurt Waldheim 说明 two statesmen 是哪两位，人数与前面的 two 对应。考研阅读中，同位语常用来交代人物身份或解释术语，看到“名词, 名词”的结构时，要判断后者是否是前者的同位语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The prize went to two young researchers, a chemist from Lagos and a physicist from Seoul.",
+      "zh": "这个奖项颁给了两位年轻研究人员，一位是来自拉各斯的化学家，一位是来自首尔的物理学家。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "an array of",
+    "explain": "一系列，大量，视频说明为固定搭配。array 指排列整齐的一批事物，常用 a wide array of（各式各样的）、a dazzling array of（琳琅满目的）。"
+   },
+   {
+    "term": "analogue form",
+    "explain": "模拟方式。analogue 与 digital（数字的）相对，指用连续变化的物理量表示信息。analogue 是英式拼写，美式拼写为 analog。本句指图像以模拟信号的形式录在唱片上。"
+   },
+   {
+    "term": "sit beside",
+    "explain": "位于……旁边，视频说明同此。sit 用于物体时可表示“位于，处于”，如 The house sits on a hill（房子坐落在山上）。视频把 sits beside 译为“旁边是”，主语图像和宾语文字的位置关系不变。"
+   },
+   {
+    "term": "Jimmy Carter and Kurt Waldheim",
+    "explain": "视频说明：卡特时任美国总统，瓦尔德海姆时任联合国秘书长。吉米·卡特是美国第39任总统；库尔特·瓦尔德海姆是奥地利外交家，曾任联合国秘书长。"
+   },
+   {
+    "term": "statesman",
+    "explain": "政治家，尤指德高望重、有远见的国家领导人，褒义色彩较强；复数为 statesmen。中性词 politician 也可译为“政治家”，但有时带“政客”的贬义。"
+   }
+  ],
+  "translation_tip": "视频译文“一系列共115幅图像，以模拟方式编码，旁边是印着的文字，出自于两位政治家，吉米·卡特与库尔特·瓦尔德海姆。”的处理：①An array of 115 images 译成“一系列共115幅图像”，增补“共”字点明总数。②插入语 encoded in analogue form 保留在原位，译成独立短句“以模拟方式编码”。③sits beside printed words 换了视角，译成“旁边是印着的文字”，不必译成“位于……旁边”的长结构。④后置定语 from two statesmen 拆成短句“出自于两位政治家”，同位语接在后面，用“与”连接两个人名。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The sleeve",
+   "predicate": "gives",
+   "object_or_complement": "guidance on playing the disc",
+   "explain": "主谓宾结构，谓语 gives 是一般现在时，主动语态，描述封套上的内容。plus a diagram… 用介词 plus 补充封套上的另一项内容。"
+  },
+  "components": [
+   {
+    "text": "The sleeve",
+    "role": "主语",
+    "zh": "（唱片的）套子上"
+   },
+   {
+    "text": "gives",
+    "role": "谓语",
+    "zh": "给出"
+   },
+   {
+    "text": "guidance on playing the disc,",
+    "role": "宾语（guidance 后接介词短语 on playing the disc 作后置定语）",
+    "zh": "播放的指引"
+   },
+   {
+    "text": "plus",
+    "role": "介词，意为“加上，还有”，引出补充的内容",
+    "zh": "还有"
+   },
+   {
+    "text": "a diagram",
+    "role": "plus 的宾语，意义上相当于 gives 的第二个宾语",
+    "zh": "一幅示意图"
+   },
+   {
+    "text": "fixing the Sun",
+    "role": "后置定语（现在分词短语），修饰 a diagram",
+    "zh": "标定太阳的位置"
+   },
+   {
+    "text": "with pulsars",
+    "role": "方式状语（with 复合结构的 with + 宾语），修饰 fixing",
+    "zh": "以脉冲星"
+   },
+   {
+    "text": "as beacons.",
+    "role": "with 复合结构的宾语补足语（as 介词短语）",
+    "zh": "作信标"
+   }
+  ],
+  "structure": "①主句是 The sleeve gives guidance on playing the disc，主语 The sleeve，谓语 gives，宾语 guidance；on playing the disc 是介词短语作后置定语，on 意为“关于”，后接动名词短语 playing the disc，视频说明 guidance on… 为“关于……的指引”。\n②plus 是介词，意为“加上，还有”，plus a diagram 把封套上的第二项内容补充进来，意义上相当于 gives 的第二个宾语。\n③fixing the Sun 是现在分词短语作后置定语，修饰 diagram，示意图与 fix 是主动关系（示意图标定太阳的位置），所以用现在分词，视频说明同此。\n④with pulsars as beacons 是 with 复合结构，pulsars 是 with 的宾语，as beacons 是宾语补足语，整体修饰 fixing，说明用什么方法标定：把脉冲星当作信标。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with 复合结构：with + 宾语 + 宾语补足语",
+    "explain": "with 复合结构由 with 加宾语，再加宾语补足语构成，宾补可以是形容词、副词、介词短语、分词、不定式或 as 短语，在句中常作状语，表示方式、伴随、原因等。本句 with pulsars as beacons 中，pulsars 是宾语，as beacons 是宾补，表示标定太阳的方式：以脉冲星作信标。翻译时 with 一般不译成“和”，要根据宾语和宾补之间的逻辑关系译成“以……作……”“随着……”“由于……”等。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The team navigated across the desert with the stars as their only guide.",
+      "zh": "这支队伍以星星为唯一的向导，穿越了沙漠。"
+     },
+     {
+      "en": "With prices rising so fast, many families are cutting back on spending.",
+      "zh": "物价涨得这么快，许多家庭都在削减开支。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示主动或正在进行，被修饰的名词是分词动作的执行者，相当于一个定语从句。本句 fixing the Sun 修饰 a diagram，相当于 which fixes the Sun，是示意图在“标定”太阳的位置，所以用现在分词。如果名词是动作的承受者，则用过去分词，对比上一句 images encoded in analogue form。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Scientists have published a map showing the spread of the disease across the region.",
+      "zh": "科学家们发布了一张地图，显示这种疾病在该地区的传播情况。"
+     },
+     {
+      "en": "Passengers waiting for the delayed train were offered free drinks.",
+      "zh": "等候晚点列车的乘客得到了免费饮料。"
+     }
+    ]
+   },
+   {
+    "title": "介词 plus 表示附加",
+    "explain": "plus 作介词时意为“加上，外加”，引出附加的内容，后接名词或名词短语，如 The ticket costs ten pounds, plus a booking fee。它比 and 更强调“另外还有”。非正式语体中 plus 还可放在句首作连词或副词，意为“而且”，正式写作中宜改用 in addition 或 moreover。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Each participant receives a certificate, plus a copy of the conference proceedings.",
+      "zh": "每位参会者会收到一份证书，外加一本会议论文集。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sleeve",
+    "explain": "本义是“袖子”，本句指唱片封套（a record sleeve），视频译为“（唱片的）套子”。"
+   },
+   {
+    "term": "guidance on",
+    "explain": "关于……的指引，视频说明同此。guidance 是不可数名词，不能说 a guidance 或 guidances，常用 give/offer/provide guidance on sth、under the guidance of sb（在某人指导下）。"
+   },
+   {
+    "term": "fix",
+    "explain": "熟词僻义：本句不是“修理”，而是“确定，标定（位置）”，如 fix the ship's position（确定船的位置）。视频译为“标定太阳的位置”。"
+   },
+   {
+    "term": "pulsar",
+    "explain": "脉冲星，一种快速自转的中子星，会发出周期非常稳定的电磁脉冲，因此可以像灯塔一样充当参照点。本句用脉冲星作信标来标出太阳的位置。"
+   },
+   {
+    "term": "beacon",
+    "explain": "信标，指引方向的灯光或信号，如灯塔、无线电信标；比喻义为“指路明灯，榜样”，如 a beacon of hope。本句 as beacons 意为“作信标”。"
+   }
+  ],
+  "translation_tip": "视频译文“（唱片的）套子上给出播放的指引，还有一幅示意图，标定太阳的位置，以脉冲星作信标。”的处理：①The sleeve 译成“（唱片的）套子上”，括号补出“唱片的”交代是什么套子，增补方位词“上”，使“套子上给出……”符合汉语习惯。②guidance on playing the disc 简化为“播放的指引”。③plus 译成“还有”。④现在分词短语 fixing the Sun 不前置，拆成短句“标定太阳的位置”，增补“的位置”说明 fix 的含义。⑤with 复合结构译成“以脉冲星作信标”，放在句末说明标定的方法。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Voyager 1",
+   "predicate": "pivoted",
+   "object_or_complement": "its camera",
+   "explain": "主谓宾结构，pivot 在这里作及物动词，意为“转动”。谓语 pivoted 是一般过去时，主动语态，叙述1990年发生的事。"
+  },
+  "components": [
+   {
+    "text": "On 14 February 1990,",
+    "role": "时间状语（介词短语）",
+    "zh": "1990年2月14日"
+   },
+   {
+    "text": "at Sagan's request,",
+    "role": "状语（介词短语），说明行动的缘由",
+    "zh": "应萨根的请求"
+   },
+   {
+    "text": "Voyager 1",
+    "role": "主语",
+    "zh": "旅行者1号"
+   },
+   {
+    "text": "pivoted",
+    "role": "谓语",
+    "zh": "转动"
+   },
+   {
+    "text": "its camera",
+    "role": "宾语",
+    "zh": "相机"
+   },
+   {
+    "text": "for a glance backwards",
+    "role": "目的状语（介词短语），backwards 作 glance 的后置定语",
+    "zh": "向后投去一瞥"
+   },
+   {
+    "text": "across about six billion kilometres.",
+    "role": "后置定语（介词短语），修饰 a glance，说明这一瞥跨越的距离",
+    "zh": "跨越约60亿公里"
+   }
+  ],
+  "structure": "①主句是 Voyager 1 pivoted its camera，主语 Voyager 1，谓语 pivoted，宾语 its camera。\n②主语前有两个状语：On 14 February 1990 交代日期；at Sagan's request 意为“应萨根的请求”，视频说明为“应某人之请”。\n③for a glance backwards 是目的状语，视频说明为“表目的，为了向后看一眼”。其中 backwards 是副词，放在名词 glance 后作后置定语，表示“向后的一瞥”。\n④across about six billion kilometres 修饰 a glance，说明这一眼跨越的距离；about 修饰数词，表示“约”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "副词作后置定语",
+    "explain": "表示方位、方向的副词可以直接放在名词后面作定语，如 the people upstairs（楼上的人）、the way back（回去的路）、the room above（上面的房间）、a trip abroad（出国旅行）。本句 a glance backwards 意为“向后的一瞥”，backwards 修饰 glance。这类副词作定语时要放在名词后面，不能直接移到名词前（upstairs、above 等能放在名词前，那是作形容词用，如 an upstairs room、the above example）。翻译时要前置为“……的”或像视频那样译成动作“向后投去一瞥”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The noise from the flat upstairs kept us awake all night.",
+      "zh": "楼上那套公寓里的噪音吵得我们整夜没睡着。"
+     },
+     {
+      "en": "On the way back, they stopped at a small village for lunch.",
+      "zh": "在回来的路上，他们在一个小村庄停下来吃午饭。"
+     }
+    ]
+   },
+   {
+    "title": "for + 名词表示目的",
+    "explain": "介词 for 后接名词，可以表示目的，意为“为了……”，如 go out for a walk（出去散步）、stop for a rest（停下来休息）、come for an interview（来面试）。本句 for a glance backwards 说明转动相机是为了向后看一眼。for 后面接的是名词；接动词时要用不定式表目的，写成 to take a glance backwards，不能写成 for take。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hikers paused at the top of the ridge for a look at the valley below.",
+      "zh": "徒步者在山脊顶上停下来，看一看下面的山谷。"
+     }
+    ]
+   },
+   {
+    "title": "英式日期写法与 on + 具体日期",
+    "explain": "具体某一天前用介词 on。英式写法是“日 + 月 + 年”，如 On 14 February 1990，一般不加逗号；美式写法是“月 + 日, 年”，如 On February 14, 1990。读法上英式读作 on the fourteenth of February，美式读作 on February fourteenth。只有月份或年份时用 in，如 in February、in 1990。考研写作中写书信日期，两种写法都可以，但全文要统一。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The agreement was signed on 3 March 2015 and came into force a year later.",
+      "zh": "该协议于2015年3月3日签署，一年后生效。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "at one's request",
+    "explain": "应某人的请求，视频说明为“应某人之请”。也可说 at the request of sb，如 at the request of the government。名词 request 后接介词 for，如 a request for help。"
+   },
+   {
+    "term": "pivot",
+    "explain": "本义是“枢轴，支点”，作动词意为“（使）在枢轴上转动”。本句 pivoted its camera 是及物用法，指转动相机的方向，视频译为“转动”。"
+   },
+   {
+    "term": "six billion kilometres",
+    "explain": "billion 是“十亿”，six billion 即六十亿，视频译为“60亿”。billion、million、hundred 前有具体数字时不加 s，表示“数以十亿计”时才用 billions of。"
+   },
+   {
+    "term": "glance",
+    "explain": "名词，一瞥，匆匆一看，常用 take/cast a glance at、at a glance（一眼就）、at first glance（乍一看）。本句 a glance backwards 是拟人化说法，把探测器回拍地球比作人回头看一眼。"
+   }
+  ],
+  "translation_tip": "视频译文“1990年2月14日，应萨根的请求，旅行者1号转动相机，向后投去一瞥，跨越约60亿公里。”的处理：①英式日期 14 February 1990 按汉语“年、月、日”顺序译出。②at Sagan's request 译成“应萨根的请求”，与英文一样放在主语前。③its camera 中的 its 不译，汉语不需要物主代词。④for a glance backwards 没有译成“为了……”，而是顺着动作译成“向后投去一瞥”，把名词 glance 转成动作，更生动。⑤across 短语拆成独立短句“跨越约60亿公里”放在句末。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Sixty frames",
+   "predicate": "formed",
+   "object_or_complement": "a panorama of the solar system",
+   "explain": "主谓宾结构，form 意为“构成，组成”。谓语 formed 是一般过去时，主动语态。宾语后接同位语 a mosaic，同位语中又带定语从句。"
+  },
+  "components": [
+   {
+    "text": "Sixty frames",
+    "role": "主语",
+    "zh": "60帧画面"
+   },
+   {
+    "text": "formed",
+    "role": "谓语",
+    "zh": "拼成"
+   },
+   {
+    "text": "a panorama of the solar system,",
+    "role": "宾语（of the solar system 作 panorama 的后置定语）",
+    "zh": "太阳系的全景"
+   },
+   {
+    "text": "a mosaic",
+    "role": "同位语，补充说明 a panorama",
+    "zh": "这幅拼图"
+   },
+   {
+    "text": "in which Earth was a glimmer about an eighth of a pixel across.",
+    "role": "定语从句（介词 + which 引导），修饰 a mosaic",
+    "zh": "在……中，地球只是一点微光，宽约八分之一个像素"
+   }
+  ],
+  "structure": "①主句是 Sixty frames formed a panorama of the solar system，主语 Sixty frames，谓语 formed，宾语 a panorama，of the solar system 作后置定语，视频说明 a panorama of… 为“……的全景”。\n②a mosaic 是同位语，补充说明 panorama，指出这幅全景是由多帧画面拼起来的，视频说明同此。\n③in which 引导定语从句，修饰 a mosaic。which 指代 mosaic，in which 在从句中作地点状语，相当于 in the mosaic。从句主语是 Earth，系动词是 was，表语是 a glimmer。\n④about an eighth of a pixel across 是后置定语，修饰 glimmer，说明这点微光的宽度：across 放在数量后面表示宽度，视频说明同此；about 表示“约”，an eighth 是分数“八分之一”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "介词 + which 引导定语从句",
+    "explain": "关系代词 which 在定语从句中作介词的宾语时，介词可以提到 which 前面，构成“介词 + which”。介词的选择取决于从句里的搭配或与先行词的关系：本句 Earth was a glimmer in the mosaic，所以写成 in which。in which 在从句中作地点状语，此时也可用 where 替换。介词后只能用 which（指物）或 whom（指人），不能用 that。考研翻译中，“介词 + which”从句常拆译成“在这……中”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The study describes a village in which nobody owns a car.",
+      "zh": "这项研究描述了一个没有人拥有汽车的村庄。"
+     },
+     {
+      "en": "This is the method by which the samples were tested.",
+      "zh": "这就是检测样本所用的方法。"
+     }
+    ]
+   },
+   {
+    "title": "数量 + across 表示宽度或直径",
+    "explain": "across 作副词放在数量词后面，表示“宽，直径”，如 The crater is about ten kilometres across（这个陨石坑直径约十公里）。它和“数量 + wide”的意思相近，常用于圆形或不规则的物体。本句 about an eighth of a pixel across 修饰 glimmer，说明地球在画面中只有约八分之一个像素宽。不要把这里的 across 误读成介词“穿过”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The largest leaves of the plant can grow more than two metres across.",
+      "zh": "这种植物最大的叶子直径可以超过两米。"
+     },
+     {
+      "en": "The island is barely five kilometres across.",
+      "zh": "这座岛宽不过五公里。"
+     }
+    ]
+   },
+   {
+    "title": "同位语进一步说明宾语",
+    "explain": "宾语后面加逗号再接一个名词短语，可以对宾语作补充说明或换一种说法，这就是同位语。本句 a mosaic 说明 a panorama of the solar system 是一幅由多帧画面拼成的图，同位语后面又带了定语从句，信息逐层展开。读这类句子时，要先确认逗号后的名词与前面的名词指同一对象，再看它后面修饰它的成分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team produced a detailed report, a document that later shaped national policy.",
+      "zh": "这个小组写出了一份详细的报告，这份文件后来影响了国家政策。"
+     }
+    ]
+   },
+   {
+    "title": "分数的表达",
+    "explain": "英语分数是“分子用基数词，分母用序数词”，分子大于1时分母加 s：an eighth / one eighth（八分之一）、three eighths（八分之三）、two thirds（三分之二）；二分之一是 a half，四分之一可说 a quarter。分数后接 of 加名词表示“……的几分之几”，如 an eighth of a pixel。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Nearly two thirds of the respondents said they read the news online.",
+      "zh": "近三分之二的受访者说他们在网上看新闻。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "frame",
+    "explain": "本句指照片或影片中的一帧画面，视频译为“画面”，量词用“帧”。frame 还指框架、相框，以及 frame of mind（心境）等。"
+   },
+   {
+    "term": "panorama",
+    "explain": "全景，全景画面，常用 a panorama of…（……的全景），如 a panorama of the city。形容词 panoramic，如 a panoramic view（全景）。"
+   },
+   {
+    "term": "mosaic",
+    "explain": "本义是马赛克、镶嵌画，即用许多小块拼成的图案；本句指由多帧画面拼接而成的图像，视频译为“拼图”。比喻义为“由多种成分组成的整体”，如 a cultural mosaic。"
+   },
+   {
+    "term": "glimmer",
+    "explain": "名词，微光，闪烁的弱光；比喻义为“一线，一丝”，如 a glimmer of hope（一线希望）。本句 a glimmer 视频译为“一点微光”，突出地球在画面中的渺小。"
+   },
+   {
+    "term": "the solar system",
+    "explain": "太阳系，前面加定冠词 the。solar 意为“太阳的”，如 solar energy（太阳能）、solar panel（太阳能电池板）。"
+   }
+  ],
+  "translation_tip": "视频译文“60帧画面拼成太阳系的全景，在这幅拼图中，地球只是一点微光，宽约八分之一个像素。”的处理：①formed 译成“拼成”，与后面的 mosaic（拼图）相呼应。②同位语 a mosaic 和 in which 引导的定语从句合在一起，拆译成独立分句“在这幅拼图中”，用“这幅”回指 mosaic。③从句 Earth was a glimmer 增补“只是”，译成“地球只是一点微光”，突出渺小。④后置定语 about an eighth of a pixel across 拆成短句“宽约八分之一个像素”放在句末。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "They",
+   "predicate": "reached",
+   "object_or_complement": "Earth's receivers",
+   "explain": "主谓宾结构，reach 是及物动词，意为“到达”，直接接宾语，不加介词。谓语 reached 是一般过去时，主动语态。句末 each signal taking… 是独立主格结构。"
+  },
+  "components": [
+   {
+    "text": "They",
+    "role": "主语（指上句的 Sixty frames）",
+    "zh": "这些画面"
+   },
+   {
+    "text": "reached",
+    "role": "谓语",
+    "zh": "抵达"
+   },
+   {
+    "text": "Earth's receivers",
+    "role": "宾语",
+    "zh": "地球的接收设备"
+   },
+   {
+    "text": "between March and 1 May,",
+    "role": "时间状语（介词短语）",
+    "zh": "时间在3月至5月1日间"
+   },
+   {
+    "text": "each signal",
+    "role": "独立主格结构的逻辑主语",
+    "zh": "信号"
+   },
+   {
+    "text": "taking five and a half hours.",
+    "role": "独立主格结构中的现在分词短语，整个独立主格结构作状语，补充说明",
+    "zh": "单程要走五个半小时"
+   }
+  ],
+  "structure": "①主句是 They reached Earth's receivers，They 指上句的 Sixty frames，视频译为“这些画面”；reached 是及物动词，直接接宾语 Earth's receivers。\n②between March and 1 May 是时间状语，视频说明同此，between A and B 表示时间范围。\n③each signal taking five and a half hours 是独立主格结构，视频说明为“补充说明”。逻辑主语 each signal 与主句主语 They 不同，所以不能只用分词短语，要带上自己的逻辑主语；signal 与 take 是主动关系，用现在分词 taking。整个结构相当于 and each signal took five and a half hours。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "独立主格结构（名词 + 现在分词）",
+    "explain": "独立主格结构由名词或代词加非谓语动词（或形容词、副词、介词短语）构成，自带逻辑主语，与主句之间没有连词，在句中作状语，表示伴随、补充说明、原因、条件等。逻辑主语与分词是主动关系用现在分词，被动关系用过去分词。本句 each signal taking five and a half hours，逻辑主语是 each signal，不是主句主语 They，所以必须写出 each signal。考研阅读和翻译中，看到“名词 + -ing/-ed”放在逗号后面又没有谓语时，要想到独立主格，翻译时常译成独立分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The two teams finished level, each side scoring three goals.",
+      "zh": "两队打成平局，双方各进三球。"
+     },
+     {
+      "en": "The meeting over, the delegates returned to their hotels.",
+      "zh": "会议结束后，代表们回到了各自的酒店。"
+     }
+    ]
+   },
+   {
+    "title": "take 表示“花费（时间）”",
+    "explain": "take 可以表示做某事或某个过程“花费、需要”多少时间，主语可以是事物，如 The journey takes three hours。也可以用 it 作形式主语：It takes sb + 时间 + to do sth。本句 each signal taking five and a half hours 意为每个信号要走五个半小时。注意 spend 的主语必须是人（spend time on sth / (in) doing sth），不能说 The signal spent five hours。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The repairs took longer than expected because a key part was missing.",
+      "zh": "由于缺少一个关键零件，维修花的时间比预想的长。"
+     }
+    ]
+   },
+   {
+    "title": "“几个半小时”的表达",
+    "explain": "“五个半小时”说 five and a half hours，名词用复数；也可以说 five hours and a half。“一个半小时”是 one and a half hours，名词同样用复数，口语中也说 an hour and a half。“半小时”是 half an hour 或 a half hour。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The flight from London to Moscow takes about three and a half hours.",
+      "zh": "从伦敦飞往莫斯科大约需要三个半小时。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "receiver",
+    "explain": "接收器，接收设备，如 a radio receiver（无线电接收机）；也指电话听筒。本句 Earth's receivers 指地球上接收探测器信号的设备，视频译为“地球的接收设备”。"
+   },
+   {
+    "term": "between March and 1 May",
+    "explain": "between A and B 表示两个时间点之间的范围，视频译为“3月至5月1日间”。1 May 是英式日期写法，读作 the first of May。"
+   },
+   {
+    "term": "five and a half hours",
+    "explain": "信号以光速传播，探测器距地球约60亿公里，所以每个信号单程要走约五个半小时，视频译为“单程要走五个半小时”。"
+   }
+  ],
+  "translation_tip": "视频译文“这些画面抵达地球的接收设备，时间在3月至5月1日间，信号单程要走五个半小时。”的处理：①They 译成“这些画面”，把代词还原为所指的名词，衔接上句。②时间状语 between March and 1 May 没有放到句首，而是拆成独立短句，增补“时间在”，译成“时间在3月至5月1日间”。③独立主格结构译成独立分句“信号单程要走五个半小时”，增补“单程”，点明这是信号从探测器到地球一趟所需的时间。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Sagan",
+   "predicate": "offered",
+   "object_or_complement": "that pale dot（宾语）；as a perspective（宾语补足语）",
+   "explain": "主谓宾加宾语补足语结构，用的是 offer A as B（把 A 作为 B 提出来）句型，as a perspective 是宾语补足语。谓语 offered 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In a 1994 book,",
+    "role": "状语（介词短语），交代观点的出处；1994 作 book 的前置定语",
+    "zh": "在1994年的一本书中"
+   },
+   {
+    "text": "Sagan",
+    "role": "主语",
+    "zh": "萨根"
+   },
+   {
+    "text": "offered",
+    "role": "谓语",
+    "zh": "（谓语，offer 本身不单独译出，与 as 一起译为“把……作为”）"
+   },
+   {
+    "text": "that pale dot",
+    "role": "宾语",
+    "zh": "把那个暗淡的小点"
+   },
+   {
+    "text": "as a perspective",
+    "role": "宾语补足语（as 介词短语）",
+    "zh": "作为一种视角"
+   },
+   {
+    "text": "on our small and ephemeral place",
+    "role": "后置定语（介词短语），修饰 a perspective",
+    "zh": "借以审视我们渺小而短暂的位置"
+   },
+   {
+    "text": "amid cosmic vastness.",
+    "role": "后置定语（介词短语），修饰 place",
+    "zh": "处在宇宙的浩瀚之中"
+   }
+  ],
+  "structure": "①主句是 Sagan offered that pale dot as a perspective，主语 Sagan，谓语 offered，宾语 that pale dot，as a perspective 是宾语补足语，视频说明 offer A as B 为“把 A 作为 B 提出来”。\n②句首 In a 1994 book 是状语，1994 直接放在名词 book 前作定语，指1994年出版的一本书，视频说明这本书即《暗淡蓝点》。\n③on our small and ephemeral place 是介词短语，作 perspective 的后置定语，a perspective on… 意为“看待……的视角”，视频说明同此；place 前有两个并列形容词 small and ephemeral。\n④amid cosmic vastness 修饰 place，说明我们的位置处在宇宙的浩瀚之中。that pale dot 指上文照片中只有约八分之一个像素宽的地球，that 表示回指。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动词 + A + as + B：as 短语作宾语补足语",
+    "explain": "regard/see/view/treat/describe/offer A as B 这类结构中，as 引出的介词短语说明宾语 A 的身份、性质或作用，充当宾语补足语，意为“把 A 看作、当作、作为 B”。本句 offered that pale dot as a perspective，as a perspective 说明那个小点被当作什么。改为被动语态时，as 短语变成主语补足语，如 The photo is often regarded as a turning point。考研阅读中 be seen as、be viewed as 十分常见，as 后面的内容往往就是作者或他人的评价。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many economists view the policy as a necessary but painful step.",
+      "zh": "许多经济学家把这项政策看作必要但痛苦的一步。"
+     },
+     {
+      "en": "The museum presents the collection as a record of everyday life in the 1800s.",
+      "zh": "博物馆把这批藏品作为19世纪日常生活的记录来展示。"
+     }
+    ]
+   },
+   {
+    "title": "介词 on 表示“关于，针对”",
+    "explain": "on 可以表示“关于，针对”，常接在表示观点、研究、影响的名词后：a perspective on（看待……的视角）、a view on（对……的看法）、a book on（关于……的书）、an impact on（对……的影响）、comment on（评论）。本句 a perspective on our small and ephemeral place 意为“看待我们渺小而短暂的位置的视角”。写作中表达“对……的看法”，用 my view on/about…，不要写成 my view to…。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Travel can give young people a fresh perspective on their own culture.",
+      "zh": "旅行能让年轻人以全新的视角看待自己的文化。"
+     }
+    ]
+   },
+   {
+    "title": "年份作前置定语",
+    "explain": "年份可以直接放在名词前作定语，如 a 1994 book（1994年出版的一本书）、the 2008 financial crisis（2008年金融危机）、a 1977 law，前面的冠词由后面的名词决定。这种写法简洁，新闻和外刊中很常见，相当于 a book published in 1994。翻译时译成“……年的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A 2019 study found that most participants overestimated how much they exercised.",
+      "zh": "2019年的一项研究发现，大多数参与者高估了自己的运动量。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a 1994 book",
+    "explain": "视频说明：1994年的这本书即《暗淡蓝点》（Pale Blue Dot）。旅行者1号在约60亿公里外拍下的地球照片也通称“暗淡蓝点”。"
+   },
+   {
+    "term": "pale",
+    "explain": "形容词，本义是“（脸色）苍白的”，用于颜色和光时意为“浅的，淡的，暗淡的”，如 pale blue（淡蓝色）、pale light（微弱的光）。本句 that pale dot 视频译为“那个暗淡的小点”。"
+   },
+   {
+    "term": "ephemeral",
+    "explain": "正式用词，短暂的，转瞬即逝的，近义词有 short-lived、transient、fleeting。本句 small and ephemeral 分别从空间和时间两方面说明人类的渺小与短暂。"
+   },
+   {
+    "term": "amid",
+    "explain": "介词，在……之中，在……当中，书面用词，也写作 amidst，如 amid growing concern（在日益加剧的担忧中）。新闻标题中常用 amid 交代背景。"
+   },
+   {
+    "term": "cosmic vastness",
+    "explain": "宇宙的浩瀚。cosmic 意为“宇宙的”；vastness 是 vast（巨大的，广阔的）加名词后缀 -ness 构成，意为“浩瀚，广阔”。"
+   }
+  ],
+  "translation_tip": "视频译文“在1994年的一本书中，萨根把那个暗淡的小点作为一种视角，借以审视我们渺小而短暂的位置，处在宇宙的浩瀚之中。”的处理：①offer A as B 用“把……作为……”译出，offer 本身不单独译出。②后置定语 on our small and ephemeral place 没有前置成“看待……的视角”，而是拆成短句，增补“借以审视”，把 perspective 和 on 之间的关系说清楚。③amid cosmic vastness 再拆成短句“处在宇宙的浩瀚之中”，放在句末，与“渺小而短暂”形成对照。④small and ephemeral 译成“渺小而短暂”，用“而”连接两个并列形容词。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Voyager 1；Voyager 2",
+   "predicate": "crossed into；followed",
+   "object_or_complement": "interstellar space（crossed into 的宾语）",
+   "explain": "and 连接的两个并列分句。第一个分句 Voyager 1 crossed into interstellar space，cross into 意为“越过边界进入”；第二个分句 Voyager 2 followed，follow 作不及物动词，意为“随后跟进”。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Voyager 1",
+    "role": "第一个分句的主语",
+    "zh": "旅行者1号"
+   },
+   {
+    "text": "crossed into",
+    "role": "第一个分句的谓语（cross into 越过边界进入）",
+    "zh": "进入"
+   },
+   {
+    "text": "interstellar space",
+    "role": "宾语（into 的宾语）",
+    "zh": "星际空间"
+   },
+   {
+    "text": "in August 2012,",
+    "role": "时间状语（介词短语）",
+    "zh": "时间是2012年8月"
+   },
+   {
+    "text": "the first human-made object there,",
+    "role": "同位语，补充说明 Voyager 1；副词 there 作 object 的后置定语",
+    "zh": "成为第一个到达那里的人造物体"
+   },
+   {
+    "text": "and Voyager 2",
+    "role": "并列连词 and + 第二个分句的主语",
+    "zh": "旅行者2号"
+   },
+   {
+    "text": "followed",
+    "role": "第二个分句的谓语（不及物动词）",
+    "zh": "跟进"
+   },
+   {
+    "text": "in 2018.",
+    "role": "时间状语（介词短语）",
+    "zh": "于2018年"
+   }
+  ],
+  "structure": "①全句是 and 连接的并列句。第一个分句 Voyager 1 crossed into interstellar space in August 2012，cross 在这里作不及物动词（它也常作及物动词，如 cross the road），into 引出进入的地方，视频说明 cross into… 为“越过边界进入……”，所以把 crossed into 当作谓语，interstellar space 当作宾语。\n②the first human-made object there 是同位语，补充说明 Voyager 1，视频说明同此。它没有紧挨着 Voyager 1，中间隔了谓语、宾语和时间状语，要回到句首找它说明的对象。there 是副词，指 interstellar space，作 object 的后置定语，the first human-made object there 即“第一个到达那里的人造物体”。\n③第二个分句 Voyager 2 followed in 2018 承前省略了 into interstellar space，follow 在这里是不及物动词，意为“随后跟进”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "不紧挨中心词的同位语",
+    "explain": "同位语通常紧跟在它说明的名词后面，但为了句子平衡，也可以放在谓语、宾语或状语之后，与中心词隔开。本句同位语 the first human-made object there 说明的是主语 Voyager 1，却放在 in August 2012 之后。判断这类同位语，要看它与哪个名词指同一对象：interstellar space 不是“人造物体”，August 2012 也不是，只有 Voyager 1 说得通。考研长难句中，这种远距离同位语是常见的理解难点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She won the national chess championship at the age of seventeen, the youngest player ever to do so.",
+      "zh": "她十七岁就赢得了全国国际象棋冠军，是迄今为止获此成就最年轻的棋手。"
+     },
+     {
+      "en": "The company opened a research centre in Nairobi last year, its first outside Europe.",
+      "zh": "这家公司去年在内罗毕开设了一个研究中心，这是它在欧洲以外的第一个研究中心。"
+     }
+    ]
+   },
+   {
+    "title": "follow 的不及物用法与承前省略",
+    "explain": "follow 作不及物动词时，意为“接着发生，随后照做”，后面不接宾语，所跟随的内容从上文可以推出。本句 Voyager 2 followed in 2018 承前省略了 crossed into interstellar space，意为旅行者2号在2018年也进入了星际空间，视频译为“跟进”。英语并列句中，后一分句与前一分句相同的成分常常省略，读的时候要根据上文补全。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "One bank cut its interest rates last week, and several others quickly followed.",
+      "zh": "一家银行上周下调了利率，其他几家很快跟进。"
+     }
+    ]
+   },
+   {
+    "title": "the first + 名词 + 后置修饰语",
+    "explain": "the first、the last、the only 修饰名词时，后面常接不定式、介词短语或副词作后置定语，说明“第一个做某事的”，如 the first woman to win the prize、the first person on the moon。本句 the first human-made object there 用副词 there 作后置定语，意思相当于 the first human-made object to reach interstellar space。考研写作中常用 the first + 名词 + to do 表达“第一个做……的”，不要写成 the first + 名词 + doing。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He was the first member of his family to go to university.",
+      "zh": "他是家里第一个上大学的人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "interstellar space",
+    "explain": "星际空间，指恒星之间的空间。inter- 意为“在……之间”，stellar 意为“恒星的”。本句指太阳风影响范围以外的空间，视频译为“星际空间”。"
+   },
+   {
+    "term": "human-made",
+    "explain": "人造的，人为的，与 man-made 同义，human-made 是更中性的说法，如 human-made climate change（人为造成的气候变化）。"
+   },
+   {
+    "term": "cross into",
+    "explain": "越过边界进入，视频说明同此，如 cross into Mexico（越境进入墨西哥）。cross 本身强调跨越界线。"
+   }
+  ],
+  "translation_tip": "视频译文“旅行者1号进入星际空间，时间是2012年8月，成为第一个到达那里的人造物体；旅行者2号于2018年跟进。”的处理：①时间状语 in August 2012 拆成短句“时间是2012年8月”，保持英文先说事件、后交代时间的顺序。②同位语 the first human-made object there 增补动词“成为”，译成“成为第一个到达那里的人造物体”；副词 there 增补“到达”，译成“到达那里的”。③两个并列分句之间用分号隔开，第二个分句承前省略，follow 译成“跟进”，时间状语“于2018年”放在动词前。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Both；depletion of their power",
+   "predicate": "work on；should silence",
+   "object_or_complement": "them（silence 的宾语）",
+   "explain": "but 连接的两个并列分句。第一个分句 Both work on 是主谓结构，work on 意为“继续工作”，一般现在时；第二个分句 depletion of their power should silence them 是主谓宾结构，should 表示推测，意为“预计会”。"
+  },
+  "components": [
+   {
+    "text": "Both",
+    "role": "第一个分句的主语（代词，指两艘旅行者号）",
+    "zh": "两者"
+   },
+   {
+    "text": "work on",
+    "role": "第一个分句的谓语（work on 继续工作）",
+    "zh": "仍在工作"
+   },
+   {
+    "text": "with a longevity",
+    "role": "伴随状语（with 介词短语）",
+    "zh": "其长寿"
+   },
+   {
+    "text": "unmatched at NASA,",
+    "role": "后置定语（过去分词短语），修饰 longevity",
+    "zh": "在NASA无可匹敌"
+   },
+   {
+    "text": "but",
+    "role": "并列连词，表示转折",
+    "zh": "但"
+   },
+   {
+    "text": "depletion of their power",
+    "role": "第二个分句的主语",
+    "zh": "电力耗竭"
+   },
+   {
+    "text": "should",
+    "role": "情态动词，表示推测",
+    "zh": "预计会"
+   },
+   {
+    "text": "silence",
+    "role": "第二个分句的谓语动词（silence 作动词，使沉寂）",
+    "zh": "让……沉寂"
+   },
+   {
+    "text": "them",
+    "role": "宾语（指两艘旅行者号）",
+    "zh": "它们"
+   },
+   {
+    "text": "within a few years.",
+    "role": "时间状语（介词短语）",
+    "zh": "在几年之内"
+   }
+  ],
+  "structure": "①全句是 but 连接的并列句，前一分句说两艘探测器仍在工作，后一分句转到电力即将耗尽。\n②第一个分句 Both work on，Both 是代词，指两艘旅行者号；work on 中 on 是副词，表示动作继续，视频说明 work on 为“继续工作”。with a longevity 是伴随状语，unmatched at NASA 是过去分词短语作后置定语，修饰 longevity，视频说明同此。\n③第二个分句的主语是名词短语 depletion of their power，其中 depletion 由动词 deplete 转化而来，of their power 表示被耗尽的对象。should 表示推测，视频说明为“预计会”；silence 在这里是动词，意为“使沉寂”，视频说明同此。within a few years 是时间状语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "should 表示推测",
+    "explain": "should 除了表示“应该”（义务、建议），还可以表示根据现有情况作出的推测，意为“按理会，预计会”，说话人认为某事很可能发生或是事实，如 The parcel should arrive tomorrow。本句 depletion of their power should silence them within a few years，是根据电力衰减情况推断探测器几年内会停止工作，视频说明为“表推测，预计会”。考研阅读中，should 表推测时说明作者的判断还没有成为事实，做题时不能把推测当作已经发生的事。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new bridge should be open to traffic by the end of the year.",
+      "zh": "新桥预计年底前能通车。"
+     },
+     {
+      "en": "If the weather holds, the climbers should reach the summit on Friday.",
+      "zh": "如果天气保持稳定，登山者应该会在周五登顶。"
+     }
+    ]
+   },
+   {
+    "title": "名词化结构作主语与“物作主语”的句子",
+    "explain": "英语常把动作转成名词作主语，再用表示“使……”的动词连接结果，形成“物作主语”的句子，如 depletion of their power should silence them，字面是“电力的耗竭会使它们沉寂”。depletion of their power 是名词化结构，相当于 their power will be depleted。汉语习惯用“让”“使”或把原因转成分句译出，视频译为“电力耗竭预计会让它们在几年之内沉寂”。考研翻译中遇到这类主语，要把名词还原成动作来理解。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The closure of the factory left hundreds of families without an income.",
+      "zh": "工厂倒闭让数百个家庭失去了收入。"
+     },
+     {
+      "en": "A sharp rise in fuel prices forced the airline to cancel several routes.",
+      "zh": "燃油价格大幅上涨，迫使这家航空公司取消了几条航线。"
+     }
+    ]
+   },
+   {
+    "title": "副词 on 表示动作继续",
+    "explain": "on 作副词放在动词后，可以表示“继续，不停地”，如 work on（继续工作）、read on（接着读）、carry on（继续进行）、play on（继续比赛）。本句 work on 意为“继续工作”，下一句 glide on 意为“继续滑行”。注意区分 work on sth（从事、致力于某事），后面接宾语，本句 work on 后面没有宾语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Despite the rain, the band played on until midnight.",
+      "zh": "尽管下着雨，乐队一直演奏到午夜。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "longevity",
+    "explain": "长寿，持久，既可指人的寿命，也可指物品、机构的持久，如 the longevity of a product（产品的使用寿命）。本句指两艘探测器工作时间之长，视频译为“长寿”。"
+   },
+   {
+    "term": "unmatched",
+    "explain": "形容词，无可匹敌的，无与伦比的，近义词 unrivalled、unequalled，常用 unmatched by/in。本句 unmatched at NASA 意为在 NASA 的所有任务中无可匹敌。"
+   },
+   {
+    "term": "depletion",
+    "explain": "耗尽，枯竭，动词为 deplete，常用于资源、储备、能量，如 ozone depletion（臭氧层损耗）、the depletion of fish stocks（鱼类资源枯竭）。"
+   },
+   {
+    "term": "silence",
+    "explain": "熟词僻义：silence 常用作名词“寂静”，本句用作及物动词，意为“使沉默，使安静”，指探测器因断电而停止工作、不再发出信号，视频译为“让……沉寂”。"
+   }
+  ],
+  "translation_tip": "视频译文“两者仍在工作，其长寿在NASA无可匹敌，但电力耗竭预计会让它们在几年之内沉寂。”的处理：①work on 中表示继续的 on 译成“仍在”。②伴随状语 with a longevity unmatched at NASA 拆成独立短句，用“其”回指两艘探测器，后置定语 unmatched at NASA 转成谓语“在NASA无可匹敌”。③名词化主语 depletion of their power 译成“电力耗竭”，should 译成“预计会”，silence them 用“让……沉寂”译出，时间状语 within a few years 插在“它们”和“沉寂”之间，符合汉语状语在动词前的习惯。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "The Voyagers' discs",
+   "predicate": "will glide on",
+   "object_or_complement": "",
+   "explain": "主谓结构，glide 是不及物动词，glide on 意为“继续滑行”，后面不接宾语，由一连串状语说明方向、路径和身份。谓语 will glide on 是一般将来时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The Voyagers' discs",
+    "role": "主语（Voyagers' 是复数名词所有格）",
+    "zh": "两艘旅行者号的唱片"
+   },
+   {
+    "text": "will",
+    "role": "助动词（构成一般将来时）",
+    "zh": "将"
+   },
+   {
+    "text": "glide on",
+    "role": "谓语（glide on 继续滑行）",
+    "zh": "继续滑行"
+   },
+   {
+    "text": "outwards",
+    "role": "方向状语（副词）",
+    "zh": "向外"
+   },
+   {
+    "text": "through the void",
+    "role": "地点状语（介词短语，表示穿过的路径）",
+    "zh": "穿过虚空"
+   },
+   {
+    "text": "as messengers",
+    "role": "状语（as 介词短语，表示身份）",
+    "zh": "作为信使"
+   },
+   {
+    "text": "with a map",
+    "role": "后置定语（介词短语），修饰 messengers",
+    "zh": "携着一幅地图"
+   },
+   {
+    "text": "leading back to the Sun.",
+    "role": "后置定语（现在分词短语），修饰 a map",
+    "zh": "上面的坐标指向太阳"
+   }
+  ],
+  "structure": "①主句是 The Voyagers' discs will glide on，主语 The Voyagers' discs，谓语 will glide on，视频说明 glide on 为“继续滑行”。The Voyagers 是专名加 s 构成的复数，指两艘旅行者号，复数名词以 s 结尾，所有格只加撇号。\n②谓语后面依次是三个状语：outwards 表示方向，through the void 表示路径，as messengers 表示身份，说明唱片以信使的身份飞行。\n③with a map 修饰 messengers，说明信使携带着一幅地图；leading back to the Sun 是现在分词短语作后置定语，修饰 map，视频说明同此，地图与 lead 是主动关系，用现在分词。这幅地图就是第7句所说的标定太阳位置的示意图。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "as 作介词表示身份、作用",
+    "explain": "as 作介词意为“作为，以……身份”，表示主语或宾语实际具有的身份、职能，如 work as a teacher（当老师）、use the room as an office（把房间用作办公室）。本句 as messengers 表示唱片以信使的身份飞行。注意与 like 区分：as 表示“就是，作为”，like 表示“像”，两者并不等同，如 She spoke as a doctor 指她以医生的身份发言，She spoke like a doctor 指她说话像个医生。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "After retiring, she worked as a volunteer guide at the local museum.",
+      "zh": "退休后，她在当地博物馆当志愿讲解员。"
+     },
+     {
+      "en": "The old warehouse now serves as a community arts centre.",
+      "zh": "这座旧仓库现在用作社区艺术中心。"
+     }
+    ]
+   },
+   {
+    "title": "复数名词所有格",
+    "explain": "以 s 结尾的复数名词构成所有格时，只在词尾加撇号，如 the students' books、the Voyagers' discs；不以 s 结尾的复数名词加 's，如 children's toys、women's rights。本句 the Voyagers 是专名 Voyager 加 s 构成的复数，指两艘旅行者号，所以视频译为“两艘旅行者号的唱片”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The volunteers' efforts helped the town recover quickly after the flood.",
+      "zh": "志愿者们的努力帮助小镇在洪水后迅速恢复。"
+     }
+    ]
+   },
+   {
+    "title": "多个状语连用的语序",
+    "explain": "运动动词后面常连用几个状语。英语通常让表示方向、路径的状语紧跟在动词后面，表示身份、目的等的状语放在后面，与汉语把多数状语放在动词前的习惯不同。本句 glide on 后依次是 outwards（方向）、through the void（路径）、as messengers（身份）。翻译时可以像视频那样按英文顺序拆成几个短句，也可以把部分状语提到动词前。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Every autumn the geese fly south over the mountains in search of warmer weather.",
+      "zh": "每年秋天，大雁都会向南飞越群山，寻找更温暖的地方。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "glide on",
+    "explain": "继续滑行，视频说明同此。glide 指平稳、无声地滑行、滑翔，如 a bird gliding through the air；on 是副词，表示继续，与上一句 work on 的 on 用法相同。"
+   },
+   {
+    "term": "the void",
+    "explain": "虚空，空无一物的空间，本句指太空。void 还可作形容词，表示“无效的”，如 null and void（无效的，法律用语）。"
+   },
+   {
+    "term": "messenger",
+    "explain": "信使，使者，传递消息的人。本句把唱片比作信使，呼应全文主题：唱片是人类写给可能存在的外星听众的信。"
+   },
+   {
+    "term": "lead back to",
+    "explain": "引回到，通回到。lead to 意为“通向，导致”，back 表示“返回”。本句 a map leading back to the Sun 指地图能把读图者引回太阳，视频译为“上面的坐标指向太阳”。"
+   }
+  ],
+  "translation_tip": "视频译文“两艘旅行者号的唱片将继续滑行，向外穿过虚空，作为信使，携着一幅地图，上面的坐标指向太阳。”的处理：①The Voyagers' 增补“两艘”，点明复数，译成“两艘旅行者号的”。②三个状语按英文顺序拆成短句：outwards 和 through the void 合成“向外穿过虚空”，as messengers 译成“作为信使”。③with a map 译成“携着一幅地图”，把介词转成动词“携着”。④现在分词短语 leading back to the Sun 不前置，拆成短句并增补“上面的坐标”，译成“上面的坐标指向太阳”，说明地图怎样引回太阳，与第7句的示意图相呼应。"
+ }
+]

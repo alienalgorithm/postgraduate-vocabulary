@@ -1,0 +1,128 @@
+[
+ {
+  "key": 1,
+  "field": "grammar.2.examples.1.en",
+  "before": "She tied a red ribbon, faded after years in the sun, to the garden gate.",
+  "after": "She tied a long red ribbon, bought that morning at the market, to the garden gate.",
+  "reason": "原例句 faded after years in the sun 时间关系含混（是系上前已褪色还是系上后才褪色），换成意思清楚的插入成分，仍示范 tie A to B 被隔开。"
+ },
+ {
+  "key": 1,
+  "field": "grammar.2.examples.1.zh",
+  "before": "她把一条红丝带系在花园门上，丝带因多年日晒已经褪色。",
+  "after": "她把一条长长的红丝带系在花园门上，丝带是那天早上在集市上买的。",
+  "reason": "随英文例句同步修改。"
+ },
+ {
+  "key": 1,
+  "field": "knowledge.1.explain",
+  "before": "每艘携带的唱片后来通称“金唱片”（the Golden Record）。",
+  "after": "每艘携带的唱片通称“金唱片”（the Golden Record）。",
+  "reason": "“后来”才这样称呼无可靠出处，删去。"
+ },
+ {
+  "key": 2,
+  "field": "grammar.0.explain",
+  "before": "if any、if anyone、if anything、if ever、if at all 是条件状语从句的省略形式",
+  "after": "if any、if anyone、if ever、if at all 是条件状语从句的省略形式",
+  "reason": "if anything 不表示“即使有也很少”，不能与 if any 等归为一类。"
+ },
+ {
+  "key": 2,
+  "field": "grammar.0.explain",
+  "before": "翻译时要把这层保留译出来，不能略去。",
+  "after": "翻译时要把这层保留译出来，不能略去。注意 if anything 用法不同，表示“如果说有什么不同的话，甚至（恰恰相反）”，如 The situation has not improved; if anything, it has got worse（情况没有好转，甚至可以说更糟了）。",
+  "reason": "补充 if anything 的真实用法，避免学生混淆。"
+ },
+ {
+  "key": 5,
+  "field": "components.3.role",
+  "before": "宾语的数量修饰语（a spectrum of + 复数名词）",
+  "after": "宾语中心词 spectrum 及其介词 of（a spectrum of 意为“一系列的”，后接复数名词）",
+  "reason": "语法上宾语中心词是 spectrum，cultures、eras 是 of 的宾语；与第6句 an array of 的分析统一。"
+ },
+ {
+  "key": 5,
+  "field": "components.4.role",
+  "before": "宾语中心词一",
+  "after": "of 的宾语一",
+  "reason": "同上，cultures 是 of 的宾语，不是宾语中心词。"
+ },
+ {
+  "key": 5,
+  "field": "components.5.role",
+  "before": "并列连词 and + 宾语中心词二",
+  "after": "并列连词 and + of 的宾语二",
+  "reason": "同上，eras 是 of 的宾语。"
+ },
+ {
+  "key": 6,
+  "field": "grammar.0.explain",
+  "before": "考研完形和改错题常在这里设空。",
+  "after": "考研写作中用这类短语作主语时，要先认准中心词，全文谓语单复数保持一致。",
+  "reason": "考研英语没有改错题，原说法不符合考试实际。"
+ },
+ {
+  "key": 8,
+  "field": "grammar.0.explain",
+  "before": "这类副词不能放在名词前作定语，翻译时",
+  "after": "这类副词作定语时要放在名词后面，不能直接移到名词前（upstairs、above 等能放在名词前，那是作形容词用，如 an upstairs room、the above example）。翻译时",
+  "reason": "原说法“不能放在名词前”过于绝对，upstairs、above 等有前置的形容词用法。"
+ },
+ {
+  "key": 11,
+  "field": "components.0.role",
+  "before": "地点状语（介词短语），1994 作 book 的前置定语",
+  "after": "状语（介词短语），交代观点的出处；1994 作 book 的前置定语",
+  "reason": "In a 1994 book 交代出处，不是地点状语；与本句 structure 中“状语”的说法一致。"
+ },
+ {
+  "key": 12,
+  "field": "components.4.zh",
+  "before": "成为第一个……到达那里的人造物体",
+  "after": "成为第一个到达那里的人造物体",
+  "reason": "视频中文“成为第一个到达那里的人造物体”是连续的，不应加省略号。"
+ },
+ {
+  "key": 12,
+  "field": "structure",
+  "before": "cross 本是不及物动词，into 引出进入的地方",
+  "after": "cross 在这里作不及物动词（它也常作及物动词，如 cross the road），into 引出进入的地方",
+  "reason": "cross 最常见的是及物用法，说它“本是不及物动词”不对。"
+ },
+ {
+  "key": 12,
+  "field": "grammar.0.examples.0.en",
+  "before": "She won the national chess title at the age of seventeen, the youngest champion in its history.",
+  "after": "She won the national chess championship at the age of seventeen, the youngest player ever to do so.",
+  "reason": "原例句 its 指代不清；改后同位语明确说明句首的 She。"
+ },
+ {
+  "key": 12,
+  "field": "grammar.0.examples.0.zh",
+  "before": "她十七岁就赢得了全国国际象棋冠军，是该赛事历史上最年轻的冠军。",
+  "after": "她十七岁就赢得了全国国际象棋冠军，是迄今为止获此成就最年轻的棋手。",
+  "reason": "随英文例句同步修改。"
+ },
+ {
+  "key": 14,
+  "field": "grammar.2.explain",
+  "before": "不及物动词后面常接几个状语，英语的习惯顺序大致是方向、路径或地点在前，方式、身份、目的等在后，与汉语状语多放在动词前的习惯不同。",
+  "after": "运动动词后面常连用几个状语。英语通常让表示方向、路径的状语紧跟在动词后面，表示身份、目的等的状语放在后面，与汉语把多数状语放在动词前的习惯不同。",
+  "reason": "原说明称方式状语在方向、地点之后，与所给例句 ran happily down the hill（方式在前）自相矛盾，也不符合英语一般语序；改为只讲方向、路径与身份、目的的先后。"
+ },
+ {
+  "key": 14,
+  "field": "grammar.2.examples.0.en",
+  "before": "The children ran happily down the hill towards the river.",
+  "after": "Every autumn the geese fly south over the mountains in search of warmer weather.",
+  "reason": "换成依次出现方向（south）、路径（over the mountains）、目的（in search of…）的例句，真正示范本条规则。"
+ },
+ {
+  "key": 14,
+  "field": "grammar.2.examples.0.zh",
+  "before": "孩子们开心地跑下山坡，奔向河边。",
+  "after": "每年秋天，大雁都会向南飞越群山，寻找更温暖的地方。",
+  "reason": "随英文例句同步修改。"
+ }
+]

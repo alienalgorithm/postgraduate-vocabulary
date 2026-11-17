@@ -1,0 +1,51 @@
+[
+ {
+  "key": 4,
+  "field": "usage_detail",
+  "before": "注意 gilded 与 guilded、guilty 不相干；gild 与 guild（行会）读音相同但意义无关。",
+  "after": "注意 gild 与 guild（行会）读音相同但意义无关，gilded 不要误写成 guilded（英语中没有这个词）。",
+  "reason": "guilded 不是英语单词，原句把它当作另一个词并与 guilty 并列，容易误导。"
+ },
+ {
+  "key": 8,
+  "field": "related",
+  "before": "take off；landing；liftoff",
+  "after": "take off；takeover",
+  "reason": "landing、liftoff 与 takeoff 不同根，不属于同根词或派生词；改列同由 take 构成的 takeover。"
+ },
+ {
+  "key": 24,
+  "field": "example.en",
+  "before": "The festival attracts a spectrum of visitors,",
+  "after": "The festival attracts a wide spectrum of visitors,",
+  "reason": "a spectrum of visitors 单用较生硬，地道说法通常带 wide/broad。"
+ },
+ {
+  "key": 25,
+  "field": "related",
+  "before": "epoch；age",
+  "after": "Common Era",
+  "reason": "epoch、age 与 era 不同根，不是同根词或派生词；改列含 era 的 Common Era。"
+ },
+ {
+  "key": 26,
+  "field": "example.en",
+  "before": "Several big companies, most notably in the energy sector, reported",
+  "after": "Several big companies, most notably those in the energy sector, reported",
+  "reason": "notably 引出的例子应与 companies 对应，补 those 才合语法，也与中文“能源行业的公司”一致。"
+ },
+ {
+  "key": 27,
+  "field": "related",
+  "before": "array；arrayed",
+  "after": "array；arrayed；disarray",
+  "reason": "补充真实派生词 disarray（dis- + array）。"
+ },
+ {
+  "key": 29,
+  "field": "usage_detail",
+  "before": "性别中立的说法可用 stateswoman 或 political leader。",
+  "after": "指女性可用 stateswoman，性别中立的说法可用 political leader 或 statesperson。",
+  "reason": "stateswoman 专指女性，不是性别中立的说法。"
+ }
+]

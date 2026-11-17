@@ -1,0 +1,72 @@
+[
+ {
+  "key": 32,
+  "field": "usage_detail",
+  "before": "考研英语写作大作文和小作文中描述图表时，",
+  "after": "考研英语写作描述图表时（英语二大作文常考图表），",
+  "reason": "考研小作文是书信、通知等应用文，不描述图表。"
+ },
+ {
+  "key": 33,
+  "field": "related",
+  "before": "beckon；lighthouse",
+  "after": "beckon",
+  "reason": "lighthouse 与 beacon 不同根，不属于同根词或派生词，删去。"
+ },
+ {
+  "key": 36,
+  "field": "related",
+  "before": "glancing；glimpse",
+  "after": "glancing",
+  "reason": "glimpse 与 glance 不同源（glimpse 与 glimmer 同源），不应列为同根词，删去。"
+ },
+ {
+  "key": 41,
+  "field": "etymology",
+  "before": "来自中古英语 glemeren（发微光），可能源于斯堪的纳维亚语，与 gleam（微光，闪光）有关。",
+  "after": "14世纪末进入英语，意为“发出微弱或断续的光”，可能借自或同源于斯堪的纳维亚语（比较瑞典语 glimra、丹麦语 glimre），与 gleam（微光，闪光）、glimpse（一瞥）有关。",
+  "reason": "中古英语拼写 glemeren 在权威词源词典中无法核实，改为可证实的表述。"
+ },
+ {
+  "key": 49,
+  "field": "example.en",
+  "before": "Astronomers believe the faint signal may be a trace of cosmic dust from a distant galaxy.",
+  "after": "Astronomers believe the faint glow may come from clouds of cosmic dust in a distant galaxy.",
+  "reason": "原例句说信号是宇宙尘埃留下的痕迹，科学上说不通。"
+ },
+ {
+  "key": 49,
+  "field": "example.zh",
+  "before": "天文学家认为这个微弱的信号可能是来自遥远星系的宇宙尘埃留下的痕迹。",
+  "after": "天文学家认为，这片微弱的光可能来自遥远星系中的宇宙尘埃云。",
+  "reason": "随英文例句同步修改。"
+ },
+ {
+  "key": 51,
+  "field": "context_usage",
+  "before": "interstellar space 指太阳系边界以外、恒星与恒星之间的空间。",
+  "after": "interstellar space 指恒星与恒星之间的空间，本句指日球层（太阳风吹出的范围）以外的空间。",
+  "reason": "旅行者1号2012年越过的是日球层顶，NASA 说明它严格说仍在太阳系引力范围内，“太阳系边界以外”不准确；与第12句知识点的说法统一。"
+ },
+ {
+  "key": 51,
+  "field": "usage_detail",
+  "before": "旅行者号先在太阳系内飞行，属于 interplanetary，越过太阳系边界后才进入 interstellar space。",
+  "after": "旅行者号先在行星之间飞行，属于 interplanetary；旅行者1号2012年越过日球层顶（太阳风影响范围的边界）后才进入 interstellar space。",
+  "reason": "同上，进入星际空间的标志是越过日球层顶，不是越过太阳系边界。"
+ },
+ {
+  "key": 52,
+  "field": "usage_detail",
+  "before": "复合形容词，一般作前置定语，作表语时也可不加连字符。",
+  "after": "复合形容词，多作前置定语，也可作表语，如 The island is entirely human-made。",
+  "reason": "“作表语时可不加连字符”没有词典依据，词典中 human-made 一律带连字符。"
+ },
+ {
+  "key": 52,
+  "field": "related",
+  "before": "man-made；handmade；anthropogenic",
+  "after": "man-made；handmade；humankind",
+  "reason": "anthropogenic 与 human-made 不同根，换成同根词 humankind。"
+ }
+]
