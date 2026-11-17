@@ -1,0 +1,58 @@
+[
+ {
+  "key": "6",
+  "field": "senses[2].zh",
+  "before": "（物理）一次全振动",
+  "after": "（摆动物体从一端到另一端的）一次摆动",
+  "reason": "Merriam-Webster 释为 a single swing from one extreme limit to the other，是单程摆动，不是“全振动”（完整周期）"
+ },
+ {
+  "key": "8",
+  "field": "etymology",
+  "before": "来自中古英语 tumblen，是古英语 tumbian（跳舞、翻跟头）的反复形式，-le 表示动作反复。",
+  "after": "来自中古英语 tumblen，是中古英语 tumben（跌倒、跳跃、跳舞，源于古英语 tumbian）的反复形式，-le 表示动作反复。",
+  "reason": "Etymonline：tumble 是 tumben 的反复形式，tumben 来自古英语 tumbian，原表述层次不准"
+ },
+ {
+  "key": "13",
+  "field": "related[timespan].en",
+  "before": "timespan",
+  "after": "time span",
+  "reason": "Oxford/Cambridge 收录的词形为分写的 time span"
+ },
+ {
+  "key": "16",
+  "field": "usage_detail",
+  "before": "比喻义常见于新闻：stiffen penalties、stiffen competition，表示使更严厉、更激烈。",
+  "after": "比喻义常见于新闻：及物如 stiffen penalties（加重处罚），不及物如 Competition has stiffened（竞争加剧了）。",
+  "reason": "“竞争加剧”通常用不及物的 competition stiffens，stiffen competition 不是常见搭配"
+ },
+ {
+  "key": "19",
+  "field": "context_usage",
+  "before": "浅梁设计省钱，是它被采用的重要原因，可省下的恰恰是桥面的刚度。",
+  "after": "浅梁设计用料少、省钱，但代价恰恰是桥面的刚度。",
+  "reason": "原文没有说省钱是采用该设计的原因，删去推断；原句“可省下的”表述不通"
+ },
+ {
+  "key": "21",
+  "field": "etymology",
+  "before": "英语中最初意为“虚弱的、无力的”，后来发展出",
+  "after": "英语中最初兼有“假装的”和“虚弱的、无力的”等意思，后来发展出",
+  "reason": "Etymonline：faint 约1300年进入英语时既有 feigned 也有 weak, feeble 之义"
+ },
+ {
+  "key": "27",
+  "field": "example.en",
+  "before": "The speech had a powerful resonance with voters who felt ignored by politicians.",
+  "after": "The speech had a special resonance for voters who felt ignored by politicians.",
+  "reason": "词典标准搭配是 have (a special/particular) resonance for sb，与本词条搭配栏一致"
+ },
+ {
+  "key": "27",
+  "field": "example.zh",
+  "before": "这篇演讲在那些觉得被政客忽视的选民中引起了强烈的共鸣。",
+  "after": "这篇演讲在那些觉得被政客忽视的选民中引起了特别的共鸣。",
+  "reason": "与改后的英文例句对应"
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "key": "2",
+  "field": "grammar[1].examples[1].en",
+  "before": "Each new generation of phones has become ever thinner and lighter.",
+  "after": "With each new generation, phones have become ever thinner and lighter.",
+  "reason": "原句说“每一代手机自身变得越来越薄”，逻辑不通；改为随代际推进手机越来越薄"
+ },
+ {
+  "key": "2",
+  "field": "grammar[1].examples[1].zh",
+  "before": "每一代新手机都变得越来越薄、越来越轻。",
+  "after": "随着一代代新机型推出，手机变得越来越薄、越来越轻。",
+  "reason": "与改后的英文例句对应"
+ },
+ {
+  "key": "7",
+  "field": "components[Even].zh",
+  "before": "哪怕",
+  "after": "哪怕……也",
+  "reason": "视频译文“哪怕……也”中的“也”对应 Even，与翻译说明“Even 译为哪怕……也”一致"
+ },
+ {
+  "key": "7",
+  "field": "components[made].zh",
+  "before": "也会让",
+  "after": "会让",
+  "reason": "“也”属于 Even 的对应，made 对应“会让”，与翻译说明一致"
+ },
+ {
+  "key": "7",
+  "field": "grammar[1].explain",
+  "before": "本句 earning the nickname Galloping Gertie 中，赢得绰号的不是 breezes，而是“微风就能让大桥起伏”这件事使大桥得了绰号。",
+  "after": "本句 earning the nickname Galloping Gertie 的逻辑主语不是 breezes：是“微风就能让大桥起伏”这一情况为大桥赢得了绰号（相当于 which earned the bridge the nickname），也就是大桥因此得了绰号。",
+  "reason": "原表述“赢得绰号的不是 breezes，而是……这件事使大桥得了绰号”自相杂糅，改为与结构分析一致的说法"
+ },
+ {
+  "key": "8",
+  "field": "structure",
+  "before": "可看作 as (happens) when 的省略",
+  "after": "可看作 as (is the case) when 的省略",
+  "reason": "与语法点中的补全方式统一"
+ },
+ {
+  "key": "9",
+  "field": "grammar[1].examples[0].en",
+  "before": "The theory was first proposed in the 1950s, and it remains popular today.",
+  "after": "The survey was conducted in 2010. Its conclusions are striking but poorly supported.",
+  "reason": "原例句只是陈述理论至今流行，没有示范“叙事用过去时、评价用现在时”；换成先叙事后评价的例句"
+ },
+ {
+  "key": "9",
+  "field": "grammar[1].examples[0].zh",
+  "before": "这一理论最早于20世纪50年代提出，至今仍很流行。",
+  "after": "这项调查于2010年进行。它的结论引人注目，却缺乏充分依据。",
+  "reason": "与改后的英文例句对应"
+ },
+ {
+  "key": "11",
+  "field": "translation_tip",
+  "before": "定冠词 The 译为“其”，指大桥坍塌的，避免重复“大桥”",
+  "after": "定冠词 The 译为“其”，指大桥坍塌的机理，避免重复“大桥”",
+  "reason": "原句“指大桥坍塌的”残缺，补全"
+ },
+ {
+  "key": "15",
+  "field": "components[gradually].role",
+  "before": "时间状语（副词）",
+  "after": "方式状语（副词），说明成为惯例是逐步发生的",
+  "reason": "gradually 说明变化的方式（逐渐地），按通行叫法是方式状语，不是时间状语"
+ },
+ {
+  "key": "17",
+  "field": "knowledge[keep time with].explain",
+  "before": "keep time 单用时还指打拍子，或指钟表走时准确",
+  "after": "keep time 单用时还指唱歌、演奏、跳舞时保持正确的节拍，或指钟表走时准确",
+  "reason": "Oxford/Cambridge 释 keep time 为（唱、奏、跳时）合拍，“打拍子”是 beat time"
+ }
+]
