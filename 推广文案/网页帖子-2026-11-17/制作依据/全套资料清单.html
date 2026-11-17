@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><link rel="stylesheet" href="../../shop/html/style.css">
+<style>
+html, body { width: 1080px; height: auto; overflow: visible; }
+body { background: #fbf7ef; padding: 40px 44px 44px; }
+.hd { display: flex; align-items: center; gap: 12px; margin-bottom: 22px; }
+.hd .bar { width: 6px; height: 34px; border-radius: 3px; background: var(--gold); }
+.hd h1 { font-weight: 900; font-size: 34px; color: var(--navy); letter-spacing: 1px; }
+.hd span { font-size: 18px; color: var(--muted); margin-left: 6px; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; background: #fff; border-radius: 18px; overflow: hidden; box-shadow: 0 12px 30px rgba(16,38,74,.10); border: 1px solid #ece3d1; }
+th { background: var(--navy); color: #fff; font-weight: 700; font-size: 19px; text-align: left; padding: 16px 22px; letter-spacing: 1px; }
+td { padding: 14px 22px; border-top: 1px solid #f0e8d8; font-size: 20px; color: var(--ink); vertical-align: middle; }
+tr:nth-child(even) td { background: #fffcf6; }
+.item { display: flex; align-items: center; gap: 18px; }
+.tb { flex: none; width: 78px; display: flex; justify-content: center; }
+.th { flex: none; width: 46px; height: 64px; border-radius: 4px; overflow: hidden; box-shadow: 0 3px 8px rgba(0,0,0,.18); background: #fff; }
+.th img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.th.w { width: 78px; height: 44px; }
+.nm { font-weight: 700; font-size: 21px; color: var(--navy); }
+.nm i { display: block; font-style: normal; font-weight: 500; font-size: 15px; color: var(--muted); margin-top: 3px; }
+.fmt { display: inline-block; font-weight: 900; font-size: 15px; color: #fff; background: var(--red); border-radius: 6px; padding: 3px 10px; letter-spacing: .5px; }
+.fmt.mp4 { background: #2f9e6d; }
+.sz { font-size: 16px; color: var(--muted); margin-left: 8px; }
+.q { font-weight: 900; font-size: 30px; color: var(--navy); white-space: nowrap; }
+.q small { font-size: 18px; margin-left: 3px; }
+.foot { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; }
+.foot span { font-weight: 700; font-size: 16px; color: var(--navy); background: #fff; border: 1.5px solid #e7dcc6; border-radius: 999px; padding: 6px 14px; }
+</style></head>
+<body>
+  <div class="hd"><div class="bar"></div><h1>全套资料清单</h1><span>一篇一个文件夹，70 篇都是这 7 样，外加 2 本教材</span></div>
+  <table>
+    <tr><th style="width:56%">内容</th><th style="width:24%">格式</th><th>全套数量</th></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th"><img src="../../shop/assets/cover.jpg"></div></div><div class="nm">《考研学人》教材<i>普通版、羊皮纸古书版</i></div></div></td><td><span class="fmt">PDF</span><span class="sz">B5 开本</span></td><td class="q">2<small>本</small></td></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th w"><img src="../../shop/assets/scr01_0.png"></div></div><div class="nm">4K 精读视频<i>英文朗读，中英对照，重点词高亮</i></div></div></td><td><span class="fmt mp4">MP4</span></td><td class="q">70<small>集</small></td></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th w"><img src="../../shop/assets/scr01_1.png"></div></div><div class="nm">视频同屏版<i>和视频画面同版，不开视频也能看</i></div></div></td><td><span class="fmt">PDF</span></td><td class="q">70<small>份</small></td></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th"><img src="../../shop/assets/card_zh2en.png"></div></div><div class="nm">汉译英听写卡<i>看词性和中文，写英文原形，附答案</i></div></div></td><td><span class="fmt">PDF</span><span class="sz">A4</span></td><td class="q">70<small>份</small></td></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th"><img src="../../shop/assets/card_en2zh.png"></div></div><div class="nm">英译汉听写卡<i>看英文和词性，写本文意思，附答案</i></div></div></td><td><span class="fmt">PDF</span><span class="sz">A4</span></td><td class="q">70<small>份</small></td></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th"><img src="../../shop/assets/jj01_p1.png"></div></div><div class="nm">逐句精讲<i>每句拆主干、讲语法、配例句</i></div></div></td><td><span class="fmt">PDF</span></td><td class="q">70<small>份</small></td></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th"><img src="../../shop/assets/cd01_p1.png"></div></div><div class="nm">单词精解册<i>音标、词源、搭配、辨析、例句</i></div></div></td><td><span class="fmt">PDF</span></td><td class="q">70<small>份</small></td></tr>
+    <tr><td><div class="item"><div class="tb"><div class="th"><img src="../../shop/assets/read01_p1.png"></div></div><div class="nm">阅读版<i>教材里的那一章单独成册，方便打印</i></div></div></td><td><span class="fmt">PDF</span></td><td class="q">70<small>份</small></td></tr>
+  </table>
+  <div class="foot"><span>全部是电子版</span><span>手机、平板、电脑都能看</span><span>PDF 可以直接打印</span></div>
+</body></html>
