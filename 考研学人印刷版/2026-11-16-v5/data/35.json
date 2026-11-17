@@ -1194,5 +1194,487 @@
   "illustration": "b0fe39f63403f8d02547f6fba3339a4c7e629d8552fe831bfcceb51b8624895a"
  },
  "book_order_v4": "35",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "sustained",
+   "lemma": "sustained",
+   "pos": "adj.",
+   "zh": "持续的；持久的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "twisting",
+   "lemma": "twist",
+   "pos": "vi.",
+   "zh": "扭动；扭曲",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "deck",
+   "lemma": "deck",
+   "pos": "n.",
+   "zh": "桥面",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tilted",
+   "lemma": "tilt",
+   "pos": "vi.",
+   "zh": "倾斜；倾侧",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "violent",
+   "lemma": "violent",
+   "pos": "adj.",
+   "zh": "剧烈的；猛烈的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "oscillations",
+   "lemma": "oscillation",
+   "pos": "n.",
+   "zh": "振荡；摆动",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tore apart",
+   "lemma": "tear apart",
+   "pos": "phr.",
+   "zh": "裂开；断裂",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tumbled",
+   "lemma": "tumble",
+   "pos": "vi.",
+   "zh": "跌落；坠落",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "footage",
+   "lemma": "footage",
+   "pos": "n.",
+   "zh": "影像资料；（影片）片段",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "spectacle",
+   "lemma": "spectacle",
+   "pos": "n.",
+   "zh": "奇观；壮观景象",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "fascinate",
+   "lemma": "fascinate",
+   "pos": "vt.",
+   "zh": "深深吸引；使着迷",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "suspension",
+   "lemma": "suspension",
+   "pos": "n.",
+   "zh": "悬吊；悬索（结构）",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "span",
+   "lemma": "span",
+   "pos": "n.",
+   "zh": "（桥的）跨径；跨度",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "hung from",
+   "lemma": "hang from",
+   "pos": "phr.",
+   "zh": "悬挂在……上；从……垂下",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "girders",
+   "lemma": "girder",
+   "pos": "n.",
+   "zh": "大梁；钢梁",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "stiffened",
+   "lemma": "stiffen",
+   "pos": "vt.",
+   "zh": "加固；使变硬",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "slender",
+   "lemma": "slender",
+   "pos": "adj.",
+   "zh": "纤细的；细长的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "elegant",
+   "lemma": "elegant",
+   "pos": "adj.",
+   "zh": "优雅的；精美的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "economical",
+   "lemma": "economical",
+   "pos": "adj.",
+   "zh": "经济的；节省的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rigid",
+   "lemma": "rigid",
+   "pos": "adj.",
+   "zh": "刚硬的；不易弯曲的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "faint",
+   "lemma": "faint",
+   "pos": "adj.",
+   "zh": "微弱的；轻微的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "breezes",
+   "lemma": "breeze",
+   "pos": "n.",
+   "zh": "微风；和风",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "heave",
+   "lemma": "heave",
+   "pos": "vi.",
+   "zh": "起伏；隆起",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "nickname",
+   "lemma": "nickname",
+   "pos": "n.",
+   "zh": "绰号；昵称",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "textbooks",
+   "lemma": "textbook",
+   "pos": "n.",
+   "zh": "教科书；课本",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "invoked",
+   "lemma": "invoke",
+   "pos": "vt.",
+   "zh": "援引；引用",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "resonance",
+   "lemma": "resonance",
+   "pos": "n.",
+   "zh": "共振；共鸣",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "periodic",
+   "lemma": "periodic",
+   "pos": "adj.",
+   "zh": "周期性的；定期的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "frequency",
+   "lemma": "frequency",
+   "pos": "n.",
+   "zh": "频率",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "amplify",
+   "lemma": "amplify",
+   "pos": "vt.",
+   "zh": "放大；增强",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "well-timed",
+   "lemma": "well-timed",
+   "pos": "adj.",
+   "zh": "时机恰当的；适时的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "shoves",
+   "lemma": "shove",
+   "pos": "n.",
+   "zh": "猛推；用力推",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "propel",
+   "lemma": "propel",
+   "pos": "vt.",
+   "zh": "推动；推进",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "analogy",
+   "lemma": "analogy",
+   "pos": "n.",
+   "zh": "类比；比拟",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "intuitive",
+   "lemma": "intuitive",
+   "pos": "adj.",
+   "zh": "直观的；符合直觉的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "deceptive",
+   "lemma": "deceptive",
+   "pos": "adj.",
+   "zh": "具有迷惑性的；造成假象的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "pulse",
+   "lemma": "pulse",
+   "pos": "vi.",
+   "zh": "有节奏地跳动；搏动",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "steadily",
+   "lemma": "steadily",
+   "pos": "adv.",
+   "zh": "平稳地；持续地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mechanism",
+   "lemma": "mechanism",
+   "pos": "n.",
+   "zh": "机理；机制",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "subtler",
+   "lemma": "subtle",
+   "pos": "adj.",
+   "zh": "微妙的；不易察觉的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "altered",
+   "lemma": "alter",
+   "pos": "vt.",
+   "zh": "改变；更改",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "reinforced",
+   "lemma": "reinforce",
+   "pos": "vt.",
+   "zh": "加强；强化",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "feedback",
+   "lemma": "feedback",
+   "pos": "n.",
+   "zh": "反馈",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "tapping",
+   "lemma": "tap",
+   "pos": "vt.",
+   "zh": "汲取；利用（能量等）",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "panel",
+   "lemma": "panel",
+   "pos": "n.",
+   "zh": "专家小组；委员会",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "flexibility",
+   "lemma": "flexibility",
+   "pos": "n.",
+   "zh": "柔性；可弯曲性",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "analysis",
+   "lemma": "analysis",
+   "pos": "n.",
+   "zh": "分析",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "asserted",
+   "lemma": "assert",
+   "pos": "vt.",
+   "zh": "断言；坚称",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "erred",
+   "lemma": "err",
+   "pos": "vi.",
+   "zh": "犯错；出错",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "wind-tunnel",
+   "lemma": "wind tunnel",
+   "pos": "n.",
+   "zh": "风洞",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "scaled-down",
+   "lemma": "scaled-down",
+   "pos": "adj.",
+   "zh": "按比例缩小的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "replicas",
+   "lemma": "replica",
+   "pos": "n.",
+   "zh": "复制品；模型",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "gradually",
+   "lemma": "gradually",
+   "pos": "adv.",
+   "zh": "逐渐地；逐步地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "customary",
+   "lemma": "customary",
+   "pos": "adj.",
+   "zh": "惯常的；合乎惯例的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sturdier",
+   "lemma": "sturdy",
+   "pos": "adj.",
+   "zh": "坚固的；结实的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "replacement",
+   "lemma": "replacement",
+   "pos": "n.",
+   "zh": "替代品；替代物",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "instruct",
+   "lemma": "instruct",
+   "pos": "vt.",
+   "zh": "教导；给……以教益",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "accurately",
+   "lemma": "accurately",
+   "pos": "adv.",
+   "zh": "准确地；精确地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "kept time with",
+   "lemma": "keep time with",
+   "pos": "phr.",
+   "zh": "与……合拍；与……同步",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "destructive",
+   "lemma": "destructive",
+   "pos": "adj.",
+   "zh": "破坏性的；具有破坏力的",
+   "drop": false
+  }
+ ]
 }

@@ -1085,5 +1085,447 @@
   "illustration": "2f0f0ffce9bd6653c0808127b31636193dd3fc5577067fd65b05d76c2c5c029a"
  },
  "book_order_v4": "17",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "hikers",
+   "lemma": "hiker",
+   "pos": "n.",
+   "zh": "徒步者；徒步旅行者",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "trek",
+   "lemma": "trek",
+   "pos": "n.",
+   "zh": "远足；长途跋涉",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "corpse",
+   "lemma": "corpse",
+   "pos": "n.",
+   "zh": "尸体",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "glacier",
+   "lemma": "glacier",
+   "pos": "n.",
+   "zh": "冰川",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "ridge",
+   "lemma": "ridge",
+   "pos": "n.",
+   "zh": "山脊",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "border",
+   "lemma": "border",
+   "pos": "n.",
+   "zh": "边界；交界处",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "assumption",
+   "lemma": "assumption",
+   "pos": "n.",
+   "zh": "假设；假定",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "modern-day",
+   "lemma": "modern-day",
+   "pos": "adj.",
+   "zh": "现代的；当今的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "climber",
+   "lemma": "climber",
+   "pos": "n.",
+   "zh": "登山者",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "alpine",
+   "lemma": "alpine",
+   "pos": "adj.",
+   "zh": "高山的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "slope",
+   "lemma": "slope",
+   "pos": "n.",
+   "zh": "斜坡；山坡",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "jackhammer",
+   "lemma": "jackhammer",
+   "pos": "n.",
+   "zh": "风钻",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ripped",
+   "lemma": "rip",
+   "pos": "vt.",
+   "zh": "撕下；扯下",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "flesh",
+   "lemma": "flesh",
+   "pos": "n.",
+   "zh": "皮肉；肉",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "hip",
+   "lemma": "hip",
+   "pos": "n.",
+   "zh": "髋部",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "possessions",
+   "lemma": "possession",
+   "pos": "n.",
+   "zh": "随身物品；财物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "leather",
+   "lemma": "leather",
+   "pos": "n.",
+   "zh": "皮革",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "copper",
+   "lemma": "copper",
+   "pos": "adj.",
+   "zh": "铜制的；铜的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "axe",
+   "lemma": "axe",
+   "pos": "n.",
+   "zh": "斧子；斧头",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "prehistoric",
+   "lemma": "prehistoric",
+   "pos": "adj.",
+   "zh": "史前的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "artefacts",
+   "lemma": "artefact",
+   "pos": "n.",
+   "zh": "人工制品；器物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mummy",
+   "lemma": "mummy",
+   "pos": "n.",
+   "zh": "木乃伊",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "flint",
+   "lemma": "flint",
+   "pos": "n.",
+   "zh": "燧石",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "lodged",
+   "lemma": "lodge",
+   "pos": "vt.",
+   "zh": "使卡住；使嵌入",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unseen by",
+   "lemma": "unseen",
+   "pos": "adj.",
+   "zh": "未被看见的；未被发现的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "examiners",
+   "lemma": "examiner",
+   "pos": "n.",
+   "zh": "检查人员；检查者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "scanner",
+   "lemma": "scanner",
+   "pos": "n.",
+   "zh": "扫描仪",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "puncture",
+   "lemma": "puncture",
+   "pos": "n.",
+   "zh": "穿刺伤；刺孔",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ruptured",
+   "lemma": "rupture",
+   "pos": "vt.",
+   "zh": "使破裂；撕裂",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "artery",
+   "lemma": "artery",
+   "pos": "n.",
+   "zh": "动脉",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "mortal",
+   "lemma": "mortal",
+   "pos": "adj.",
+   "zh": "致命的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "bleeding",
+   "lemma": "bleeding",
+   "pos": "n.",
+   "zh": "出血；流血",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "clot",
+   "lemma": "clot",
+   "pos": "n.",
+   "zh": "血块；凝块",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "it is thought",
+   "lemma": "it is thought",
+   "pos": "phr.",
+   "zh": "据认为；人们认为",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "inferred",
+   "lemma": "infer",
+   "pos": "vt.",
+   "zh": "推断；推论",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "archer",
+   "lemma": "archer",
+   "pos": "n.",
+   "zh": "弓箭手",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "rear",
+   "lemma": "rear",
+   "pos": "n.",
+   "zh": "后部；背后",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "shooter",
+   "lemma": "shooter",
+   "pos": "n.",
+   "zh": "射手；射击者",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "caught unawares",
+   "lemma": "catch sb unawares",
+   "pos": "phr.",
+   "zh": "趁某人不备；使措手不及",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "dined on",
+   "lemma": "dine on",
+   "pos": "phr.",
+   "zh": "吃（某食物）；以……为餐",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "red deer",
+   "lemma": "red deer",
+   "pos": "n.",
+   "zh": "马鹿",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "hearty",
+   "lemma": "hearty",
+   "pos": "adj.",
+   "zh": "（饭菜）丰盛的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "nourishing",
+   "lemma": "nourishing",
+   "pos": "adj.",
+   "zh": "有营养的；滋补的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "consumed",
+   "lemma": "consume",
+   "pos": "vt.",
+   "zh": "吃；食用",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "curators",
+   "lemma": "curator",
+   "pos": "n.",
+   "zh": "（博物馆等的）馆长",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "tattoos",
+   "lemma": "tattoo",
+   "pos": "n.",
+   "zh": "文身；刺青",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "joints",
+   "lemma": "joint",
+   "pos": "n.",
+   "zh": "关节",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "spine",
+   "lemma": "spine",
+   "pos": "n.",
+   "zh": "脊柱；脊梁骨",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "acupuncture",
+   "lemma": "acupuncture",
+   "pos": "n.",
+   "zh": "针灸",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "identity",
+   "lemma": "identity",
+   "pos": "n.",
+   "zh": "身份",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "enigma",
+   "lemma": "enigma",
+   "pos": "n.",
+   "zh": "谜；谜团",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "motive",
+   "lemma": "motive",
+   "pos": "n.",
+   "zh": "动机",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "conjecture",
+   "lemma": "conjecture",
+   "pos": "n.",
+   "zh": "推测；猜测",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "anonymous",
+   "lemma": "anonymous",
+   "pos": "adj.",
+   "zh": "不知姓名的；无名的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "killer",
+   "lemma": "killer",
+   "pos": "n.",
+   "zh": "凶手；杀手",
+   "drop": false
+  }
+ ]
 }

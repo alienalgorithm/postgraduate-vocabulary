@@ -1225,5 +1225,487 @@
   "illustration": "23f92af2b2b76878c310d6fc11597de5cd75467c7cf157d3a0bfbb0bb4b419b9"
  },
  "book_order_v4": "44",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "delayed",
+   "lemma": "delayed",
+   "pos": "adj.",
+   "zh": "晚点的；延误的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "Manchester",
+   "lemma": "Manchester",
+   "pos": "n.",
+   "zh": "曼彻斯特",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "would-be",
+   "lemma": "would-be",
+   "pos": "adj.",
+   "zh": "有志成为……的；未来的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "novelist",
+   "lemma": "novelist",
+   "pos": "n.",
+   "zh": "小说家",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "unexpectedly",
+   "lemma": "unexpectedly",
+   "pos": "adv.",
+   "zh": "出乎意料地；意外地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "inspiration",
+   "lemma": "inspiration",
+   "pos": "n.",
+   "zh": "灵感",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "orphaned",
+   "lemma": "orphaned",
+   "pos": "adj.",
+   "zh": "成为孤儿的；失去双亲的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "wizard",
+   "lemma": "wizard",
+   "pos": "n.",
+   "zh": "巫师；男巫",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "grief",
+   "lemma": "grief",
+   "pos": "n.",
+   "zh": "悲痛；悲伤",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "overshadowed",
+   "lemma": "overshadow",
+   "pos": "vt.",
+   "zh": "使黯然失色；使相形见绌",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "spark",
+   "lemma": "spark",
+   "pos": "n.",
+   "zh": "火花；（灵感等的）闪现",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "relocated",
+   "lemma": "relocate",
+   "pos": "vi.",
+   "zh": "移居；搬迁",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "arrival",
+   "lemma": "arrival",
+   "pos": "n.",
+   "zh": "（婴儿的）降生；到来",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ushered in",
+   "lemma": "usher in",
+   "pos": "phr.",
+   "zh": "开启；迎来",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "motherhood",
+   "lemma": "motherhood",
+   "pos": "n.",
+   "zh": "为人母；母亲身份",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "resettled",
+   "lemma": "resettle",
+   "pos": "vi.",
+   "zh": "重新定居；重新安家",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Edinburgh",
+   "lemma": "Edinburgh",
+   "pos": "n.",
+   "zh": "爱丁堡",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "lone",
+   "lemma": "lone",
+   "pos": "adj.",
+   "zh": "独自的；单亲的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "reliant on",
+   "lemma": "reliant on",
+   "pos": "adj.",
+   "zh": "依靠……的；依赖……的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "welfare",
+   "lemma": "welfare",
+   "pos": "n.",
+   "zh": "福利；社会救济",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "habitually",
+   "lemma": "habitually",
+   "pos": "adv.",
+   "zh": "习惯地；惯常地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "patiently",
+   "lemma": "patiently",
+   "pos": "adv.",
+   "zh": "耐心地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "polishing",
+   "lemma": "polish",
+   "pos": "vt.",
+   "zh": "润色；打磨",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "unfinished",
+   "lemma": "unfinished",
+   "pos": "adj.",
+   "zh": "未完成的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "literary",
+   "lemma": "literary",
+   "pos": "adj.",
+   "zh": "文学的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "took on",
+   "lemma": "take on",
+   "pos": "phr.",
+   "zh": "接受；承接（工作等）",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "pitched",
+   "lemma": "pitch",
+   "pos": "vt.",
+   "zh": "推销；推介",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "repeatedly",
+   "lemma": "repeatedly",
+   "pos": "adv.",
+   "zh": "多次；一再",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "prospective",
+   "lemma": "prospective",
+   "pos": "adj.",
+   "zh": "潜在的；可能的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rejected",
+   "lemma": "reject",
+   "pos": "vt.",
+   "zh": "拒绝；不采纳",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "in succession",
+   "lemma": "in succession",
+   "pos": "adv.",
+   "zh": "接连；连续",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "relentless",
+   "lemma": "relentless",
+   "pos": "adj.",
+   "zh": "无休止的；毫不留情的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "refusals",
+   "lemma": "refusal",
+   "pos": "n.",
+   "zh": "拒绝；回绝",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "newcomer",
+   "lemma": "newcomer",
+   "pos": "n.",
+   "zh": "新人；新手",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "encouragement",
+   "lemma": "encouragement",
+   "pos": "n.",
+   "zh": "鼓励",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "chairman",
+   "lemma": "chairman",
+   "pos": "n.",
+   "zh": "董事长；主席",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "chapter",
+   "lemma": "chapter",
+   "pos": "n.",
+   "zh": "（书的）章",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "relished",
+   "lemma": "relish",
+   "pos": "vt.",
+   "zh": "享受；十分喜爱",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "eagerly",
+   "lemma": "eagerly",
+   "pos": "adv.",
+   "zh": "急切地；热切地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "instalment",
+   "lemma": "instalment",
+   "pos": "n.",
+   "zh": "（连载的）一部分；一集",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "a sum of",
+   "lemma": "a sum of",
+   "pos": "phr.",
+   "zh": "一笔（款项）",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "as an advance",
+   "lemma": "advance",
+   "pos": "n.",
+   "zh": "预付款；预付金",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "fearful",
+   "lemma": "fearful",
+   "pos": "adj.",
+   "zh": "担心的；害怕的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "disregard",
+   "lemma": "disregard",
+   "pos": "vt.",
+   "zh": "忽视；不理会",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "opted for",
+   "lemma": "opt for",
+   "pos": "phr.",
+   "zh": "选择；挑选",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "initials",
+   "lemma": "initials",
+   "pos": "n.",
+   "zh": "（姓名的）首字母缩写",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mask",
+   "lemma": "mask",
+   "pos": "vt.",
+   "zh": "掩饰；隐瞒",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "gender",
+   "lemma": "gender",
+   "pos": "n.",
+   "zh": "性别",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "pseudonym",
+   "lemma": "pseudonym",
+   "pos": "n.",
+   "zh": "笔名；化名",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cautious",
+   "lemma": "cautious",
+   "pos": "adj.",
+   "zh": "谨慎的；小心的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "hardbacks",
+   "lemma": "hardback",
+   "pos": "n.",
+   "zh": "精装本",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "allocated",
+   "lemma": "allocate",
+   "pos": "vt.",
+   "zh": "分配；划拨",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "renamed",
+   "lemma": "rename",
+   "pos": "vt.",
+   "zh": "重新命名；改名",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "series",
+   "lemma": "series",
+   "pos": "n.",
+   "zh": "系列；丛书",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "spin-off",
+   "lemma": "spin-off",
+   "pos": "n.",
+   "zh": "衍生作品；衍生产品",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "volumes",
+   "lemma": "volume",
+   "pos": "n.",
+   "zh": "册；卷",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "collectively",
+   "lemma": "collectively",
+   "pos": "adv.",
+   "zh": "共同地；合计",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "surpassed",
+   "lemma": "surpass",
+   "pos": "vt.",
+   "zh": "超过；胜过",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "appetite",
+   "lemma": "appetite",
+   "pos": "n.",
+   "zh": "胃口；渴望",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "evidently",
+   "lemma": "evidently",
+   "pos": "adv.",
+   "zh": "显然；明显地",
+   "drop": false
+  }
+ ]
 }

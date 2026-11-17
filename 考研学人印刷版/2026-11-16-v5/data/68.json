@@ -1339,5 +1339,559 @@
   "illustration": "979d6c852060b7ea97338b662d4a8252a0e4f71b328f83365039f271df9ccd55"
  },
  "book_order_v4": "68",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "launched",
+   "lemma": "launch",
+   "pos": "vt.",
+   "zh": "发射",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "crewed",
+   "lemma": "crewed",
+   "pos": "adj.",
+   "zh": "载人的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "lunar landing",
+   "lemma": "lunar landing",
+   "pos": "n.",
+   "zh": "登月",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "oxygen tank",
+   "lemma": "oxygen tank",
+   "pos": "n.",
+   "zh": "氧气罐",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "exploded",
+   "lemma": "explode",
+   "pos": "vi.",
+   "zh": "爆炸",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "service module",
+   "lemma": "service module",
+   "pos": "n.",
+   "zh": "服务舱",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "blast",
+   "lemma": "blast",
+   "pos": "n.",
+   "zh": "爆炸；冲击波",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "crippled",
+   "lemma": "cripple",
+   "pos": "vt.",
+   "zh": "严重损坏；使陷入瘫痪",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "spacecraft",
+   "lemma": "spacecraft",
+   "pos": "n.",
+   "zh": "航天器；宇宙飞船",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "aborted",
+   "lemma": "abort",
+   "pos": "vt.",
+   "zh": "中止；取消",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "astronauts",
+   "lemma": "astronaut",
+   "pos": "n.",
+   "zh": "宇航员；航天员",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "took refuge in",
+   "lemma": "take refuge in",
+   "pos": "phr.",
+   "zh": "在……避难；躲进",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "lunar module",
+   "lemma": "lunar module",
+   "pos": "n.",
+   "zh": "登月舱",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "engine",
+   "lemma": "engine",
+   "pos": "n.",
+   "zh": "发动机；引擎",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "steered onto",
+   "lemma": "steer sth onto sth",
+   "pos": "phr.",
+   "zh": "操纵……驶入……",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "craft",
+   "lemma": "craft",
+   "pos": "n.",
+   "zh": "航天器；飞行器",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "trajectory",
+   "lemma": "trajectory",
+   "pos": "n.",
+   "zh": "（飞行）轨迹；轨道",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "swung",
+   "lemma": "swing",
+   "pos": "vt.",
+   "zh": "使转向；甩",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rationed",
+   "lemma": "ration",
+   "pos": "vt.",
+   "zh": "限量供应；定量分配",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "conserved power",
+   "lemma": "conserve",
+   "pos": "vt.",
+   "zh": "节约；节省",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "shivered",
+   "lemma": "shiver",
+   "pos": "vi.",
+   "zh": "颤抖；发抖",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "bitterly",
+   "lemma": "bitterly",
+   "pos": "adv.",
+   "zh": "刺骨地；极其",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "cabin",
+   "lemma": "cabin",
+   "pos": "n.",
+   "zh": "（飞船的）舱；舱室",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hazard",
+   "lemma": "hazard",
+   "pos": "n.",
+   "zh": "危险；隐患",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "emerged",
+   "lemma": "emerge",
+   "pos": "vi.",
+   "zh": "出现；显现",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "carbon dioxide",
+   "lemma": "carbon dioxide",
+   "pos": "n.",
+   "zh": "二氧化碳",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "accumulating",
+   "lemma": "accumulate",
+   "pos": "vi.",
+   "zh": "积聚；积累",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "capsule",
+   "lemma": "capsule",
+   "pos": "n.",
+   "zh": "太空舱；航天舱",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "filter",
+   "lemma": "filter",
+   "pos": "n.",
+   "zh": "过滤器",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "cartridges",
+   "lemma": "cartridge",
+   "pos": "n.",
+   "zh": "（可替换的）芯；筒",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sockets",
+   "lemma": "socket",
+   "pos": "n.",
+   "zh": "插口；插槽",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "cardboard",
+   "lemma": "cardboard",
+   "pos": "n.",
+   "zh": "硬纸板",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "tape",
+   "lemma": "tape",
+   "pos": "n.",
+   "zh": "胶带；胶布",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "devised",
+   "lemma": "devise",
+   "pos": "vt.",
+   "zh": "设计；想出",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "adapter",
+   "lemma": "adapter",
+   "pos": "n.",
+   "zh": "转接器；适配器",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "talked through",
+   "lemma": "talk sb through sth",
+   "pos": "phr.",
+   "zh": "一步步指导某人做……",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "assembling",
+   "lemma": "assemble",
+   "pos": "vt.",
+   "zh": "组装；装配",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "splashed down",
+   "lemma": "splash down",
+   "pos": "phr.",
+   "zh": "（航天器）溅落",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "fault",
+   "lemma": "fault",
+   "pos": "n.",
+   "zh": "缺陷；毛病",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "built in",
+   "lemma": "build in",
+   "pos": "phr.",
+   "zh": "内置；使成为固有部分",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "review board",
+   "lemma": "review board",
+   "pos": "n.",
+   "zh": "审查委员会",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "traced to",
+   "lemma": "trace sth to sth",
+   "pos": "phr.",
+   "zh": "查明……源于……",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "explosion",
+   "lemma": "explosion",
+   "pos": "n.",
+   "zh": "爆炸",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "thermostat",
+   "lemma": "thermostat",
+   "pos": "n.",
+   "zh": "恒温器",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "switches",
+   "lemma": "switch",
+   "pos": "n.",
+   "zh": "开关",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "volt",
+   "lemma": "volt",
+   "pos": "n.",
+   "zh": "伏特；伏",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "builder",
+   "lemma": "builder",
+   "pos": "n.",
+   "zh": "建造者；承建商",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "rewrote",
+   "lemma": "rewrite",
+   "pos": "vt.",
+   "zh": "改写；重写",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "specification",
+   "lemma": "specification",
+   "pos": "n.",
+   "zh": "规格；技术要求",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "heaters",
+   "lemma": "heater",
+   "pos": "n.",
+   "zh": "加热器",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "run on",
+   "lemma": "run on",
+   "pos": "phr.",
+   "zh": "靠……运行；以……为动力",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "upgraded",
+   "lemma": "upgrade",
+   "pos": "vt.",
+   "zh": "升级；改进",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mismatch",
+   "lemma": "mismatch",
+   "pos": "n.",
+   "zh": "不匹配；不协调",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "contractor",
+   "lemma": "contractor",
+   "pos": "n.",
+   "zh": "承包商",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "detected",
+   "lemma": "detect",
+   "pos": "vt.",
+   "zh": "发现；察觉",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "drain",
+   "lemma": "drain",
+   "pos": "vt.",
+   "zh": "排空；排出（液体）",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stubborn",
+   "lemma": "stubborn",
+   "pos": "adj.",
+   "zh": "难以对付的；顽固的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "heater",
+   "lemma": "heater",
+   "pos": "n.",
+   "zh": "",
+   "drop": true
+  },
+  {
+   "para": 4,
+   "term": "malfunctioned",
+   "lemma": "malfunction",
+   "pos": "vi.",
+   "zh": "发生故障；失灵",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unchecked",
+   "lemma": "unchecked",
+   "pos": "adj.",
+   "zh": "未受控制的；不受约束的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "scorched",
+   "lemma": "scorch",
+   "pos": "vt.",
+   "zh": "烧焦；烤焦",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "insulation",
+   "lemma": "insulation",
+   "pos": "n.",
+   "zh": "绝缘层；绝缘材料",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "wiring",
+   "lemma": "wiring",
+   "pos": "n.",
+   "zh": "线路；布线",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "ignited",
+   "lemma": "ignite",
+   "pos": "vi.",
+   "zh": "着火；燃烧",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "paradox",
+   "lemma": "paradox",
+   "pos": "n.",
+   "zh": "悖论；矛盾的事",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "undone by",
+   "lemma": "be undone by",
+   "pos": "phr.",
+   "zh": "毁于；被……毁掉",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "oversight",
+   "lemma": "oversight",
+   "pos": "n.",
+   "zh": "疏忽；失察",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "salvaged",
+   "lemma": "salvage",
+   "pos": "vt.",
+   "zh": "挽救；挽回",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ingenuity",
+   "lemma": "ingenuity",
+   "pos": "n.",
+   "zh": "聪明才智；巧思",
+   "drop": false
+  }
+ ]
 }

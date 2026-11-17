@@ -1349,5 +1349,543 @@
   "illustration": "093df1ec0d925e01c08dd4a2d3dfba34cca7d5637193d8e45803279a758ea666"
  },
  "book_order_v4": "48",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "moth",
+   "lemma": "moth",
+   "pos": "n.",
+   "zh": "飞蛾；蛾",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "skims over",
+   "lemma": "skim over",
+   "pos": "phr.",
+   "zh": "掠过",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "ultraviolet",
+   "lemma": "ultraviolet",
+   "pos": "adj.",
+   "zh": "紫外线的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "flips upside down",
+   "lemma": "flip upside down",
+   "pos": "phr.",
+   "zh": "上下颠倒地翻转",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "belly",
+   "lemma": "belly",
+   "pos": "n.",
+   "zh": "腹部；肚皮",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "misty",
+   "lemma": "misty",
+   "pos": "adj.",
+   "zh": "薄雾笼罩的；多雾的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "cloud-forest",
+   "lemma": "cloud forest",
+   "pos": "n.",
+   "zh": "云雾林",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "stereo",
+   "lemma": "stereo",
+   "pos": "adj.",
+   "zh": "立体的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "acrobatics",
+   "lemma": "acrobatics",
+   "pos": "n.",
+   "zh": "杂技；特技动作",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "unravelled",
+   "lemma": "unravel",
+   "pos": "vt.",
+   "zh": "解开；弄清",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "age-old",
+   "lemma": "age-old",
+   "pos": "adj.",
+   "zh": "由来已久的；古老的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "helpless",
+   "lemma": "helpless",
+   "pos": "adj.",
+   "zh": "身不由己的；无法自控的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "swirl",
+   "lemma": "swirl",
+   "pos": "n.",
+   "zh": "旋转；打旋",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "porch",
+   "lemma": "porch",
+   "pos": "n.",
+   "zh": "门廊",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Folk wisdom",
+   "lemma": "folk wisdom",
+   "pos": "n.",
+   "zh": "民间说法；民间智慧",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "attraction",
+   "lemma": "attraction",
+   "pos": "n.",
+   "zh": "吸引；吸引力",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "instinctively",
+   "lemma": "instinctively",
+   "pos": "adv.",
+   "zh": "本能地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "counterfeit",
+   "lemma": "counterfeit",
+   "pos": "adj.",
+   "zh": "冒牌的；假冒的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "hijacks",
+   "lemma": "hijack",
+   "pos": "vt.",
+   "zh": "劫持；挟持",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "built-in",
+   "lemma": "built-in",
+   "pos": "adj.",
+   "zh": "固有的；天生的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "eddying",
+   "lemma": "eddy",
+   "pos": "vi.",
+   "zh": "打旋；回旋",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "halo",
+   "lemma": "halo",
+   "pos": "n.",
+   "zh": "光晕；光环",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "inverted",
+   "lemma": "inverted",
+   "pos": "adj.",
+   "zh": "颠倒的；倒置的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "clips",
+   "lemma": "clip",
+   "pos": "n.",
+   "zh": "视频片段；片段",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "precious few",
+   "lemma": "precious few",
+   "pos": "phr.",
+   "zh": "极少；寥寥无几",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "darted",
+   "lemma": "dart",
+   "pos": "vi.",
+   "zh": "猛冲；飞奔",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fireflies",
+   "lemma": "firefly",
+   "pos": "n.",
+   "zh": "萤火虫",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "flirt",
+   "lemma": "flirt",
+   "pos": "vi.",
+   "zh": "调情；挑逗",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "lanterns",
+   "lemma": "lantern",
+   "pos": "n.",
+   "zh": "灯笼；提灯",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "blinks",
+   "lemma": "blink",
+   "pos": "vt.",
+   "zh": "闪出（信号）；闪烁",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "overture",
+   "lemma": "overture",
+   "pos": "n.",
+   "zh": "序曲；主动示好",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "winks",
+   "lemma": "wink",
+   "pos": "vi.",
+   "zh": "眨眼示意；闪烁",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "smother",
+   "lemma": "smother",
+   "pos": "vt.",
+   "zh": "淹没；压制",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "banter",
+   "lemma": "banter",
+   "pos": "n.",
+   "zh": "打趣；戏谑",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "suitors",
+   "lemma": "suitor",
+   "pos": "n.",
+   "zh": "求偶者；追求者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "artificial",
+   "lemma": "artificial",
+   "pos": "adj.",
+   "zh": "人造的；人工的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "mustered",
+   "lemma": "muster",
+   "pos": "vt.",
+   "zh": "勉强凑出；拿出",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "patterns",
+   "lemma": "pattern",
+   "pos": "n.",
+   "zh": "模式；样式",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "reciprocated",
+   "lemma": "reciprocate",
+   "pos": "vi.",
+   "zh": "回应；回报",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "about half as often",
+   "lemma": "about half as often",
+   "pos": "adv.",
+   "zh": "次数约为一半",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "scarcely",
+   "lemma": "scarcely",
+   "pos": "adv.",
+   "zh": "几乎不；几乎没有",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "amber",
+   "lemma": "amber",
+   "pos": "n.",
+   "zh": "琥珀色",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "spills into",
+   "lemma": "spill into",
+   "pos": "phr.",
+   "zh": "蔓延到；扩散到",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "ecosystem",
+   "lemma": "ecosystem",
+   "pos": "n.",
+   "zh": "生态系统",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "roadsides",
+   "lemma": "roadside",
+   "pos": "n.",
+   "zh": "路边；路旁",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "lamp-lit",
+   "lemma": "lamp-lit",
+   "pos": "adj.",
+   "zh": "有灯照明的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "hedges",
+   "lemma": "hedge",
+   "pos": "n.",
+   "zh": "树篱",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "held",
+   "lemma": "hold",
+   "pos": "vt.",
+   "zh": "容纳；含有",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "caterpillars",
+   "lemma": "caterpillar",
+   "pos": "n.",
+   "zh": "毛虫",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "harsh",
+   "lemma": "harsh",
+   "pos": "adj.",
+   "zh": "刺眼的；强烈的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mellower",
+   "lemma": "mellow",
+   "pos": "adj.",
+   "zh": "（光线）柔和的；温和的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "sodium lamps",
+   "lemma": "sodium lamp",
+   "pos": "n.",
+   "zh": "钠灯",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "rigged up",
+   "lemma": "rig up",
+   "pos": "phr.",
+   "zh": "临时搭建；架设",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "meadows",
+   "lemma": "meadow",
+   "pos": "n.",
+   "zh": "草甸；草地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "cut",
+   "lemma": "cut",
+   "pos": "vt.",
+   "zh": "削减；减少",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "nocturnal",
+   "lemma": "nocturnal",
+   "pos": "adj.",
+   "zh": "夜间的；夜间活动的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "set fruit",
+   "lemma": "set fruit",
+   "pos": "phr.",
+   "zh": "结果；结果实",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "daytime",
+   "lemma": "daytime",
+   "pos": "adj.",
+   "zh": "白天的；日间的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "understudies",
+   "lemma": "understudy",
+   "pos": "n.",
+   "zh": "替补；替身",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "humanity",
+   "lemma": "humanity",
+   "pos": "n.",
+   "zh": "人类",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "luminous",
+   "lemma": "luminous",
+   "pos": "adj.",
+   "zh": "发光的；明亮的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "veil",
+   "lemma": "veil",
+   "pos": "n.",
+   "zh": "帷幕；遮蔽物",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ribbon",
+   "lemma": "ribbon",
+   "pos": "n.",
+   "zh": "带状物；条带",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "citizen",
+   "lemma": "citizen",
+   "pos": "n.",
+   "zh": "公民",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "brightening",
+   "lemma": "brighten",
+   "pos": "vi.",
+   "zh": "变亮；变明亮",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "pace",
+   "lemma": "pace",
+   "pos": "n.",
+   "zh": "速度；步伐",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "twinkle",
+   "lemma": "twinkle",
+   "pos": "vi.",
+   "zh": "闪烁；闪耀",
+   "drop": false
+  }
+ ]
 }

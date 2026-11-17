@@ -1177,5 +1177,463 @@
   "illustration": "b1c89667b171235a1ea7cbdd761538fd69547e42cd24064607f0cbbcfca5989d"
  },
  "book_order_v4": "19",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "dominion",
+   "lemma": "dominion",
+   "pos": "n.",
+   "zh": "统治；管辖",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "were denied",
+   "lemma": "deny",
+   "pos": "vt.",
+   "zh": "拒绝给予；剥夺",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "admission",
+   "lemma": "admission",
+   "pos": "n.",
+   "zh": "入学资格；录取",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "eager",
+   "lemma": "eager",
+   "pos": "adj.",
+   "zh": "渴望的；热切的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "pursue",
+   "lemma": "pursue",
+   "pos": "vt.",
+   "zh": "追求；从事",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "formal",
+   "lemma": "formal",
+   "pos": "adj.",
+   "zh": "正规的；正式的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "emigrated",
+   "lemma": "emigrate",
+   "pos": "vi.",
+   "zh": "移居国外",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "enrolling",
+   "lemma": "enrol",
+   "pos": "vi.",
+   "zh": "注册入学；入读",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "wed",
+   "lemma": "wed",
+   "pos": "vt.",
+   "zh": "与……结婚；嫁给",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "forging",
+   "lemma": "forge",
+   "pos": "vt.",
+   "zh": "建立；缔造",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "partnership",
+   "lemma": "partnership",
+   "pos": "n.",
+   "zh": "合作关系；伙伴关系",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rays",
+   "lemma": "ray",
+   "pos": "n.",
+   "zh": "射线",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "property",
+   "lemma": "property",
+   "pos": "n.",
+   "zh": "性质；属性",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "elements",
+   "lemma": "element",
+   "pos": "n.",
+   "zh": "（化学）元素",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "radioactivity",
+   "lemma": "radioactivity",
+   "pos": "n.",
+   "zh": "放射性",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "tribute to",
+   "lemma": "tribute",
+   "pos": "n.",
+   "zh": "致敬；献礼",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "motherland",
+   "lemma": "motherland",
+   "pos": "n.",
+   "zh": "祖国",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "radium",
+   "lemma": "radium",
+   "pos": "n.",
+   "zh": "镭",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "leaky",
+   "lemma": "leaky",
+   "pos": "adj.",
+   "zh": "漏雨的；漏水的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "painstakingly",
+   "lemma": "painstakingly",
+   "pos": "adv.",
+   "zh": "费尽心力地；煞费苦心地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "tonnes",
+   "lemma": "tonne",
+   "pos": "n.",
+   "zh": "公吨；吨",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ore",
+   "lemma": "ore",
+   "pos": "n.",
+   "zh": "矿石",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "recovered",
+   "lemma": "recover",
+   "pos": "vt.",
+   "zh": "提取；回收",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "gram",
+   "lemma": "gram",
+   "pos": "n.",
+   "zh": "克",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "chloride",
+   "lemma": "chloride",
+   "pos": "n.",
+   "zh": "氯化物",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "jointly",
+   "lemma": "jointly",
+   "pos": "adv.",
+   "zh": "共同地；联合地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "recognised",
+   "lemma": "recognise",
+   "pos": "vt.",
+   "zh": "认可；表彰",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "initially",
+   "lemma": "initially",
+   "pos": "adv.",
+   "zh": "最初；起初",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "left out",
+   "lemma": "leave sb out",
+   "pos": "phr.",
+   "zh": "把……排除在外；遗漏",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "insistence",
+   "lemma": "insistence",
+   "pos": "n.",
+   "zh": "坚持；坚决要求",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "omission",
+   "lemma": "omission",
+   "pos": "n.",
+   "zh": "疏漏；遗漏",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rectified",
+   "lemma": "rectify",
+   "pos": "vt.",
+   "zh": "纠正；改正",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "wagon",
+   "lemma": "wagon",
+   "pos": "n.",
+   "zh": "运货马车；货车",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fatally",
+   "lemma": "fatally",
+   "pos": "adv.",
+   "zh": "致命地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "inaugural",
+   "lemma": "inaugural",
+   "pos": "adj.",
+   "zh": "就职的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "successor",
+   "lemma": "successor",
+   "pos": "n.",
+   "zh": "继任者；接班人",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "scandal",
+   "lemma": "scandal",
+   "pos": "n.",
+   "zh": "丑闻",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "erupted",
+   "lemma": "erupt",
+   "pos": "vi.",
+   "zh": "爆发；突然发生",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "undeterred",
+   "lemma": "undeterred",
+   "pos": "adj.",
+   "zh": "未被吓倒的；不气馁的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "outright",
+   "lemma": "outright",
+   "pos": "adv.",
+   "zh": "完全地；独享地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "distinction",
+   "lemma": "distinction",
+   "pos": "n.",
+   "zh": "殊荣；荣誉",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unmatched",
+   "lemma": "unmatched",
+   "pos": "adj.",
+   "zh": "无与伦比的；无人企及的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mobilised",
+   "lemma": "mobilise",
+   "pos": "vt.",
+   "zh": "调动；动员",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "vans",
+   "lemma": "van",
+   "pos": "n.",
+   "zh": "面包车；厢式货车",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stationary",
+   "lemma": "stationary",
+   "pos": "adj.",
+   "zh": "固定的；静止的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "casualties",
+   "lemma": "casualty",
+   "pos": "n.",
+   "zh": "伤亡人员；伤员",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "disorder",
+   "lemma": "disorder",
+   "pos": "n.",
+   "zh": "疾病；失调",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "prolonged",
+   "lemma": "prolonged",
+   "pos": "adj.",
+   "zh": "长期的；持续很久的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "radioactive",
+   "lemma": "radioactive",
+   "pos": "adj.",
+   "zh": "放射性的；有放射性的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "preserved",
+   "lemma": "preserve",
+   "pos": "vt.",
+   "zh": "保存；保藏",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "lead",
+   "lemma": "lead",
+   "pos": "n.",
+   "zh": "铅",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "liability waiver",
+   "lemma": "liability waiver",
+   "pos": "n.",
+   "zh": "免责协议；免责声明",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "don",
+   "lemma": "don",
+   "pos": "vt.",
+   "zh": "穿上；戴上",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "protective",
+   "lemma": "protective",
+   "pos": "adj.",
+   "zh": "防护的；保护性的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "garments",
+   "lemma": "garment",
+   "pos": "n.",
+   "zh": "衣服；服装",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "retain",
+   "lemma": "retain",
+   "pos": "vt.",
+   "zh": "保留；留存",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "handwriting",
+   "lemma": "handwriting",
+   "pos": "n.",
+   "zh": "笔迹；字迹",
+   "drop": false
+  }
+ ]
 }

@@ -1267,5 +1267,511 @@
   "illustration": "ef33f8575f44c501b69f6069a1f45ee40efb93b7f91bb0be47f51270680160ff"
  },
  "book_order_v4": "11",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "bug",
+   "lemma": "bug",
+   "pos": "n.",
+   "zh": "（程序的）漏洞；缺陷",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "millennium",
+   "lemma": "millennium",
+   "pos": "n.",
+   "zh": "千年；千禧年",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "shortcut",
+   "lemma": "shortcut",
+   "pos": "n.",
+   "zh": "捷径；省事的办法",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "memory",
+   "lemma": "memory",
+   "pos": "n.",
+   "zh": "（计算机）内存；存储器",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hardware",
+   "lemma": "hardware",
+   "pos": "n.",
+   "zh": "（计算机）硬件",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "costly",
+   "lemma": "costly",
+   "pos": "adj.",
+   "zh": "昂贵的；花钱多的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "programmers",
+   "lemma": "programmer",
+   "pos": "n.",
+   "zh": "程序员",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "digits",
+   "lemma": "digit",
+   "pos": "n.",
+   "zh": "数字；数位",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "compact",
+   "lemma": "compact",
+   "pos": "adj.",
+   "zh": "紧凑的；简洁的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "code",
+   "lemma": "code",
+   "pos": "n.",
+   "zh": "（计算机）代码",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "ambiguity",
+   "lemma": "ambiguity",
+   "pos": "n.",
+   "zh": "歧义；模棱两可",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "corrupting",
+   "lemma": "corrupt",
+   "pos": "vt.",
+   "zh": "使（数据等）出错；破坏",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "deadlines",
+   "lemma": "deadline",
+   "pos": "n.",
+   "zh": "截止日期；最后期限",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "braced for",
+   "lemma": "brace for",
+   "pos": "phr.",
+   "zh": "准备应对；做好准备迎接",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "chaos",
+   "lemma": "chaos",
+   "pos": "n.",
+   "zh": "混乱；紊乱",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "President",
+   "lemma": "president",
+   "pos": "n.",
+   "zh": "总统",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "council",
+   "lemma": "council",
+   "pos": "n.",
+   "zh": "委员会；理事会",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "coordinate",
+   "lemma": "coordinate",
+   "pos": "vt.",
+   "zh": "协调；使配合",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "consultants",
+   "lemma": "consultant",
+   "pos": "n.",
+   "zh": "顾问",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "audited",
+   "lemma": "audit",
+   "pos": "vt.",
+   "zh": "审查；全面检查",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "legacy",
+   "lemma": "legacy",
+   "pos": "adj.",
+   "zh": "（计算机系统）遗留的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "patched",
+   "lemma": "patch",
+   "pos": "vt.",
+   "zh": "打补丁；修补",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "faulty",
+   "lemma": "faulty",
+   "pos": "adj.",
+   "zh": "有缺陷的；有毛病的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Commerce Department",
+   "lemma": "Commerce Department",
+   "pos": "n.",
+   "zh": "（美国）商务部",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "enterprises",
+   "lemma": "enterprise",
+   "pos": "n.",
+   "zh": "企业；公司",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "projections",
+   "lemma": "projection",
+   "pos": "n.",
+   "zh": "预测；推算",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "global",
+   "lemma": "global",
+   "pos": "adj.",
+   "zh": "全球的；全世界的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "midnight",
+   "lemma": "midnight",
+   "pos": "n.",
+   "zh": "午夜；子夜",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "struck",
+   "lemma": "strike",
+   "pos": "vi.",
+   "zh": "（钟）敲响；报时",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "glitches",
+   "lemma": "glitch",
+   "pos": "n.",
+   "zh": "小故障；小毛病",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "crop up",
+   "lemma": "crop up",
+   "pos": "phr.",
+   "zh": "突然出现；意外出现",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sporadic",
+   "lemma": "sporadic",
+   "pos": "adj.",
+   "zh": "零星的；偶发的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "minor",
+   "lemma": "minor",
+   "pos": "adj.",
+   "zh": "轻微的；不严重的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "faltered",
+   "lemma": "falter",
+   "pos": "vi.",
+   "zh": "出故障；运转不稳",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "spy",
+   "lemma": "spy",
+   "pos": "n.",
+   "zh": "间谍",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "concluded",
+   "lemma": "conclude",
+   "pos": "vt.",
+   "zh": "得出结论；断定",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "expenditure",
+   "lemma": "expenditure",
+   "pos": "n.",
+   "zh": "开支；支出",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "justified",
+   "lemma": "justified",
+   "pos": "adj.",
+   "zh": "合理的；有正当理由的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "exaggerated",
+   "lemma": "exaggerate",
+   "pos": "vt.",
+   "zh": "夸大；夸张",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "hoax",
+   "lemma": "hoax",
+   "pos": "n.",
+   "zh": "骗局；恶作剧",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "prevailed",
+   "lemma": "prevail",
+   "pos": "vi.",
+   "zh": "占上风；居主导地位",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "largely",
+   "lemma": "largely",
+   "pos": "adv.",
+   "zh": "在很大程度上；主要地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "preparedness paradox",
+   "lemma": "preparedness paradox",
+   "pos": "n.",
+   "zh": "防备悖论",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "precautions",
+   "lemma": "precaution",
+   "pos": "n.",
+   "zh": "预防措施",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "ward off",
+   "lemma": "ward off",
+   "pos": "phr.",
+   "zh": "抵御；防止",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "imaginary",
+   "lemma": "imaginary",
+   "pos": "adj.",
+   "zh": "想象中的；虚构的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "tedious",
+   "lemma": "tedious",
+   "pos": "adj.",
+   "zh": "枯燥乏味的；单调的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mockery",
+   "lemma": "mockery",
+   "pos": "n.",
+   "zh": "嘲笑；嘲弄",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "gratitude",
+   "lemma": "gratitude",
+   "pos": "n.",
+   "zh": "感激；感谢",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "South Korea",
+   "lemma": "South Korea",
+   "pos": "n.",
+   "zh": "韩国",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fared no worse",
+   "lemma": "fare no worse",
+   "pos": "phr.",
+   "zh": "情况不比……差",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "comparison",
+   "lemma": "comparison",
+   "pos": "n.",
+   "zh": "比较；对比",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "misleads",
+   "lemma": "mislead",
+   "pos": "vi.",
+   "zh": "误导；令人误解",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "omitted",
+   "lemma": "omit",
+   "pos": "vt.",
+   "zh": "遗漏；省略",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "remedial",
+   "lemma": "remedial",
+   "pos": "adj.",
+   "zh": "补救的；纠正的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "obsolete",
+   "lemma": "obsolete",
+   "pos": "adj.",
+   "zh": "过时的；被淘汰的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "overdue for",
+   "lemma": "overdue for",
+   "pos": "adj.",
+   "zh": "早该……的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "essential",
+   "lemma": "essential",
+   "pos": "adj.",
+   "zh": "必不可少的；极其重要的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "excessive",
+   "lemma": "excessive",
+   "pos": "adj.",
+   "zh": "过度的；过多的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "prevention",
+   "lemma": "prevention",
+   "pos": "n.",
+   "zh": "预防；防止",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "invoice",
+   "lemma": "invoice",
+   "pos": "n.",
+   "zh": "账单；发票",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "be weighed against",
+   "lemma": "weigh sth against sth",
+   "pos": "phr.",
+   "zh": "把……与……相权衡",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "catastrophe",
+   "lemma": "catastrophe",
+   "pos": "n.",
+   "zh": "灾难；大祸",
+   "drop": false
+  }
+ ]
 }

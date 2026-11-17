@@ -1309,5 +1309,495 @@
   "illustration": "b89096764224bdcbf8489ee50c51caab377ee99b949db9cac6c0d6cbab69059c"
  },
  "book_order_v4": "30",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "junior",
+   "lemma": "junior",
+   "pos": "adj.",
+   "zh": "青少年的；青少年组的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "squad",
+   "lemma": "squad",
+   "pos": "n.",
+   "zh": "（运动）队；小队",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "went on an outing",
+   "lemma": "go on an outing",
+   "pos": "phr.",
+   "zh": "外出郊游；出游",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "assistant coach",
+   "lemma": "assistant coach",
+   "pos": "n.",
+   "zh": "助理教练",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "entered",
+   "lemma": "enter",
+   "pos": "vt.",
+   "zh": "进入；走进",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sprawling",
+   "lemma": "sprawling",
+   "pos": "adj.",
+   "zh": "杂乱延伸的；向四周蔓延的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "maze",
+   "lemma": "maze",
+   "pos": "n.",
+   "zh": "迷宫",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tunnels",
+   "lemma": "tunnel",
+   "pos": "n.",
+   "zh": "隧道；地道",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "penetrate",
+   "lemma": "penetrate",
+   "pos": "vt.",
+   "zh": "穿透；深入",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "gloom",
+   "lemma": "gloom",
+   "pos": "n.",
+   "zh": "昏暗；幽暗",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "monsoon",
+   "lemma": "monsoon",
+   "pos": "n.",
+   "zh": "季风；雨季",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "flooded",
+   "lemma": "flood",
+   "pos": "vt.",
+   "zh": "淹没；使泛滥",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "passages",
+   "lemma": "passage",
+   "pos": "n.",
+   "zh": "通道；通路",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "whereabouts",
+   "lemma": "whereabouts",
+   "pos": "n.",
+   "zh": "下落；行踪",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "elite",
+   "lemma": "elite",
+   "pos": "adj.",
+   "zh": "精英的；精锐的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "divers",
+   "lemma": "diver",
+   "pos": "n.",
+   "zh": "潜水员",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "threading through",
+   "lemma": "thread through",
+   "pos": "phr.",
+   "zh": "穿过；穿行于",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "submerged",
+   "lemma": "submerged",
+   "pos": "adj.",
+   "zh": "水下的；被淹没的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "inundated",
+   "lemma": "inundate",
+   "pos": "vt.",
+   "zh": "淹没；浸没",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "entrance",
+   "lemma": "entrance",
+   "pos": "n.",
+   "zh": "入口",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "huddled",
+   "lemma": "huddle",
+   "pos": "vi.",
+   "zh": "挤作一团；聚在一起",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "muddy",
+   "lemma": "muddy",
+   "pos": "adj.",
+   "zh": "泥泞的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mound",
+   "lemma": "mound",
+   "pos": "n.",
+   "zh": "土堆；土丘",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "perched",
+   "lemma": "perch",
+   "pos": "vi.",
+   "zh": "暂栖；栖身（于高处）",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "alive",
+   "lemma": "alive",
+   "pos": "adj.",
+   "zh": "活着的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "exit",
+   "lemma": "exit",
+   "pos": "n.",
+   "zh": "出口",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ran through",
+   "lemma": "run through",
+   "pos": "phr.",
+   "zh": "穿过；贯穿",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "kilometres",
+   "lemma": "kilometre",
+   "pos": "n.",
+   "zh": "公里；千米",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "constricted",
+   "lemma": "constricted",
+   "pos": "adj.",
+   "zh": "狭窄的；收窄的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "treacherous",
+   "lemma": "treacherous",
+   "pos": "adj.",
+   "zh": "暗藏危险的；危险难行的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "navigable",
+   "lemma": "navigable",
+   "pos": "adj.",
+   "zh": "可通行的；可通航的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "scuba",
+   "lemma": "scuba",
+   "pos": "n.",
+   "zh": "水肺；水下呼吸器",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rescuers",
+   "lemma": "rescuer",
+   "pos": "n.",
+   "zh": "救援人员；营救者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "stockpiling",
+   "lemma": "stockpile",
+   "pos": "vt.",
+   "zh": "储备；囤积",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "cylinders",
+   "lemma": "cylinder",
+   "pos": "n.",
+   "zh": "气瓶；钢瓶",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "along the route",
+   "lemma": "along the route",
+   "pos": "adv.",
+   "zh": "沿途；沿路",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "former",
+   "lemma": "former",
+   "pos": "adj.",
+   "zh": "以前的；前任的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unconscious",
+   "lemma": "unconscious",
+   "pos": "adj.",
+   "zh": "失去知觉的；昏迷的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "evacuation",
+   "lemma": "evacuation",
+   "pos": "n.",
+   "zh": "撤离；疏散",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "in batches",
+   "lemma": "in batches",
+   "pos": "adv.",
+   "zh": "分批；一批一批地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "doses",
+   "lemma": "dose",
+   "pos": "n.",
+   "zh": "剂量；一剂",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "sedative",
+   "lemma": "sedative",
+   "pos": "n.",
+   "zh": "镇静药；镇静剂",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "wrapped",
+   "lemma": "wrap",
+   "pos": "vt.",
+   "zh": "包；裹",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "motionless",
+   "lemma": "motionless",
+   "pos": "adj.",
+   "zh": "一动不动的；静止的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stretcher",
+   "lemma": "stretcher",
+   "pos": "n.",
+   "zh": "担架",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "medics",
+   "lemma": "medic",
+   "pos": "n.",
+   "zh": "医护人员；医务人员",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stationed",
+   "lemma": "station",
+   "pos": "vt.",
+   "zh": "派驻；（使）驻守",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "footballers",
+   "lemma": "footballer",
+   "pos": "n.",
+   "zh": "足球运动员",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "escorted",
+   "lemma": "escort",
+   "pos": "vt.",
+   "zh": "护送；护卫",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "teammates",
+   "lemma": "teammate",
+   "pos": "n.",
+   "zh": "队友",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "multinational",
+   "lemma": "multinational",
+   "pos": "adj.",
+   "zh": "多国的；跨国的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "mobilisation",
+   "lemma": "mobilisation",
+   "pos": "n.",
+   "zh": "动员；调动",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "logistics",
+   "lemma": "logistics",
+   "pos": "n.",
+   "zh": "后勤；后勤工作",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "converged on",
+   "lemma": "converge on",
+   "pos": "phr.",
+   "zh": "汇集到；聚集到",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "contingent",
+   "lemma": "contingent",
+   "pos": "n.",
+   "zh": "分队；分遣队",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "policemen",
+   "lemma": "policeman",
+   "pos": "n.",
+   "zh": "警察",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "deployed",
+   "lemma": "deploy",
+   "pos": "vt.",
+   "zh": "调派；部署",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sobering",
+   "lemma": "sobering",
+   "pos": "adj.",
+   "zh": "令人警醒的；使人冷静的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "postscript",
+   "lemma": "postscript",
+   "pos": "n.",
+   "zh": "后续；后话",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "blood infection",
+   "lemma": "blood infection",
+   "pos": "n.",
+   "zh": "血液感染",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "mourned",
+   "lemma": "mourn",
+   "pos": "vt.",
+   "zh": "哀悼；悼念",
+   "drop": false
+  }
+ ]
 }

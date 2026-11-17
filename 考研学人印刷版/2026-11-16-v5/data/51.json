@@ -1380,5 +1380,559 @@
   "illustration": "95350e138c10777aad79bb513d1d469f42f893bb7efea1e1663d66f71cfed471"
  },
  "book_order_v4": "51",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "ecology",
+   "lemma": "ecology",
+   "pos": "n.",
+   "zh": "生态学",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "romantic",
+   "lemma": "romantic",
+   "pos": "adj.",
+   "zh": "浪漫的；富于浪漫色彩的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "grew out of",
+   "lemma": "grow out of",
+   "pos": "phr.",
+   "zh": "萌生于；源于",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "enclosed in",
+   "lemma": "enclose sth in sth",
+   "pos": "phr.",
+   "zh": "把……罩在……里",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "seedlings",
+   "lemma": "seedling",
+   "pos": "n.",
+   "zh": "幼苗；树苗",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "bathed",
+   "lemma": "bathe",
+   "pos": "vt.",
+   "zh": "使沐浴；使沉浸",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "laced with",
+   "lemma": "be laced with",
+   "pos": "phr.",
+   "zh": "掺有；含有少量",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tracer",
+   "lemma": "tracer",
+   "pos": "n.",
+   "zh": "示踪物；示踪剂",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "shuttled",
+   "lemma": "shuttle",
+   "pos": "vi.",
+   "zh": "往返穿梭；来回移动",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "apparently",
+   "lemma": "apparently",
+   "pos": "adv.",
+   "zh": "似乎；看来",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "fungi",
+   "lemma": "fungus",
+   "pos": "n.",
+   "zh": "真菌",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "linking",
+   "lemma": "link",
+   "pos": "vt.",
+   "zh": "连接；连通",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "slight",
+   "lemma": "slight",
+   "pos": "adj.",
+   "zh": "轻微的；小幅的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "surplus",
+   "lemma": "surplus",
+   "pos": "n.",
+   "zh": "盈余；剩余",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "shade",
+   "lemma": "shade",
+   "pos": "n.",
+   "zh": "遮荫；背阴处",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "terrestrial",
+   "lemma": "terrestrial",
+   "pos": "adj.",
+   "zh": "陆生的；陆地的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "harbour",
+   "lemma": "harbour",
+   "pos": "vt.",
+   "zh": "携带；为……提供栖所",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "filaments",
+   "lemma": "filament",
+   "pos": "n.",
+   "zh": "菌丝；细丝",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "forage for",
+   "lemma": "forage for",
+   "pos": "phr.",
+   "zh": "搜寻；觅取",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "nutrients",
+   "lemma": "nutrient",
+   "pos": "n.",
+   "zh": "养分；营养物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "nitrogen",
+   "lemma": "nitrogen",
+   "pos": "n.",
+   "zh": "氮",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "swapping for",
+   "lemma": "swap sth for sth",
+   "pos": "phr.",
+   "zh": "用……换取……",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "knit into",
+   "lemma": "knit sth into sth",
+   "pos": "phr.",
+   "zh": "把……联结成……",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "shared network",
+   "lemma": "shared network",
+   "pos": "n.",
+   "zh": "共享网络",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "unveiled",
+   "lemma": "unveil",
+   "pos": "vt.",
+   "zh": "公布；推出",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "catchy",
+   "lemma": "catchy",
+   "pos": "adj.",
+   "zh": "易记的；朗朗上口的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "coinage",
+   "lemma": "coinage",
+   "pos": "n.",
+   "zh": "新造词；新词语",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "metaphor",
+   "lemma": "metaphor",
+   "pos": "n.",
+   "zh": "比喻；隐喻",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "irresistible",
+   "lemma": "irresistible",
+   "pos": "adj.",
+   "zh": "难以抗拒的；极为诱人的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "bestseller",
+   "lemma": "bestseller",
+   "pos": "n.",
+   "zh": "畅销书",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "acclaimed",
+   "lemma": "acclaimed",
+   "pos": "adj.",
+   "zh": "广受赞誉的；备受称赞的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "memoir",
+   "lemma": "memoir",
+   "pos": "n.",
+   "zh": "回忆录",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "converse",
+   "lemma": "converse",
+   "pos": "vi.",
+   "zh": "交谈；谈话",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "warn one another",
+   "lemma": "warn one another",
+   "pos": "phr.",
+   "zh": "互相示警；互相警告",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "nurture",
+   "lemma": "nurture",
+   "pos": "vt.",
+   "zh": "养育；哺育",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "kin",
+   "lemma": "kin",
+   "pos": "n.",
+   "zh": "亲族；亲属",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "elderly",
+   "lemma": "elderly",
+   "pos": "adj.",
+   "zh": "年迈的；上了年纪的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "combed through",
+   "lemma": "comb through",
+   "pos": "phr.",
+   "zh": "仔细审查；梳理",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "sparse",
+   "lemma": "sparse",
+   "pos": "adj.",
+   "zh": "稀少的；稀疏的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "inconsistent",
+   "lemma": "inconsistent",
+   "pos": "adj.",
+   "zh": "不一致的；相互矛盾的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "ambiguous",
+   "lemma": "ambiguous",
+   "pos": "adj.",
+   "zh": "含糊不清的；模棱两可的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "demonstrate",
+   "lemma": "demonstrate",
+   "pos": "vt.",
+   "zh": "证明；证实",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "widespread",
+   "lemma": "widespread",
+   "pos": "adj.",
+   "zh": "普遍存在的；广泛的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "hindered",
+   "lemma": "hinder",
+   "pos": "vt.",
+   "zh": "阻碍；妨碍",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "neutral",
+   "lemma": "neutral",
+   "pos": "adj.",
+   "zh": "中性的；无影响的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "predominating",
+   "lemma": "predominate",
+   "pos": "vi.",
+   "zh": "占多数；占主导地位",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "peer-reviewed",
+   "lemma": "peer-reviewed",
+   "pos": "adj.",
+   "zh": "经同行评审的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mature",
+   "lemma": "mature",
+   "pos": "adj.",
+   "zh": "成年的；成熟的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "favouring",
+   "lemma": "favour",
+   "pos": "vt.",
+   "zh": "偏爱；优待",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "offspring",
+   "lemma": "offspring",
+   "pos": "n.",
+   "zh": "后代",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unsupported",
+   "lemma": "unsupported",
+   "pos": "adj.",
+   "zh": "缺乏依据的；无证据支持的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "assertions",
+   "lemma": "assertion",
+   "pos": "n.",
+   "zh": "论断；断言",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "doubled",
+   "lemma": "double",
+   "pos": "vi.",
+   "zh": "增加一倍；翻一番",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "citations",
+   "lemma": "citation",
+   "pos": "n.",
+   "zh": "引用；引文",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "skewed towards",
+   "lemma": "skewed towards",
+   "pos": "adj.",
+   "zh": "偏向……的；向……倾斜的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "positive results",
+   "lemma": "positive result",
+   "pos": "n.",
+   "zh": "正面结果；阳性结果",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "disproves",
+   "lemma": "disprove",
+   "pos": "vt.",
+   "zh": "否定；证明……不成立",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "existence",
+   "lemma": "existence",
+   "pos": "n.",
+   "zh": "存在",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "defenders",
+   "lemma": "defender",
+   "pos": "n.",
+   "zh": "拥护者；捍卫者",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "faulted",
+   "lemma": "fault",
+   "pos": "vt.",
+   "zh": "挑剔；找……的毛病",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "critique",
+   "lemma": "critique",
+   "pos": "n.",
+   "zh": "批评文章；评论",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "critics",
+   "lemma": "critic",
+   "pos": "n.",
+   "zh": "批评者；反对者",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "concede",
+   "lemma": "concede",
+   "pos": "vt.",
+   "zh": "（勉强）承认",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "migrate",
+   "lemma": "migrate",
+   "pos": "vi.",
+   "zh": "迁移；转移",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unearthed",
+   "lemma": "unearth",
+   "pos": "vt.",
+   "zh": "发掘；挖出",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "allure",
+   "lemma": "allure",
+   "pos": "n.",
+   "zh": "魅力；诱惑力",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "saga",
+   "lemma": "saga",
+   "pos": "n.",
+   "zh": "传奇；长篇故事",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "convey",
+   "lemma": "convey",
+   "pos": "vt.",
+   "zh": "输送；运送",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "matters",
+   "lemma": "matter",
+   "pos": "vi.",
+   "zh": "重要；要紧",
+   "drop": false
+  }
+ ]
 }

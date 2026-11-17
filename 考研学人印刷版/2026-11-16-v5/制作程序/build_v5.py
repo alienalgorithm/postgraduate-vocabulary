@@ -122,7 +122,7 @@ class CJKPara:
             gaps = [j for j in range(1, len(line)) if not CJK.whitespace(line[j]) and (
                     re.match(r'[　-鿿＀-￯]', CJK.first(line[j])) or re.match(r'[　-鿿＀-￯]', CJK.last(line[j-1])))]
             last = (i == len(self.lines) - 1) and self.last_is_end
-            extra = 0 if last or not gaps else (self.width - indent - natural) / len(gaps)
+            extra = 0 if last or not gaps or getattr(self, 'ragged', False) else (self.width - indent - natural) / len(gaps)
             if extra > self.size * 0.6: extra = 0          # never stretch a short line grotesquely
             xx = x + indent
             for j, tok in enumerate(line):
@@ -291,6 +291,33 @@ def book_vocab(d):
         if not v.get('drop'): groups.setdefault(v['para'] - 1, []).append((v['lemma'], v['pos'], v['zh']))
     return sorted(groups.items())
 
+class VocabSense:
+    """Part of speech + Chinese sense under a word-list entry. One line when it fits; otherwise break after
+    the full-width semicolon between the two senses, and set the lines flush left (no letter-spaced justification)."""
+    def __init__(self, pos, zh):
+        head = [(pos + ' ', 'ENI', MUTED)] if pos else []
+        one = CJKPara(head + [(zh, 'ZH', INK)], 9.4, 13.6)
+        self.paras = [one]
+        if '；' in zh:
+            a, b = zh.split('；', 1)
+            self.alt = [CJKPara(head + [(a + '；', 'ZH', INK)], 9.4, 13.6), CJKPara([(b, 'ZH', INK)], 9.4, 13.6)]
+        else:   # one long sense: break at a natural point (before 并/给, after a closing bracket, before ……)
+            self.alt = None
+            for test in (lambda i: zh[i] in '并给', lambda i: zh[i - 1] == '）', lambda i: zh[i:i + 2] == '……'):
+                cuts = [i for i in range(len(zh) - 1, 1, -1) if test(i)]
+                if cuts: self.alts = getattr(self, 'alts', []) + [[CJKPara(head + [(zh[:i], 'ZH', INK)], 9.4, 13.6), CJKPara([(zh[i:], 'ZH', INK)], 9.4, 13.6)] for i in cuts]
+    def wrap(self, width, avail):
+        if self.alt is None and self.paras[0].wrap(width, avail)[1] > 13.6:
+            for alt in getattr(self, 'alts', []):
+                if all(p.wrap(width, avail)[1] <= 13.6 for p in alt): self.alt = alt; break
+        if self.paras[0].wrap(width, avail)[1] > 13.6 and self.alt and all(p.wrap(width, avail)[1] <= 13.6 for p in self.alt):
+            self.paras = self.alt
+        for p in self.paras: p.wrap(width, avail); p.ragged = True
+        return width, sum(len(p.lines) for p in self.paras) * 13.6
+    def draw(self, c, x, top):
+        for p in self.paras:
+            p.draw(c, x, top); top -= len(p.lines) * 13.6
+
 def vocabulary(b, d):
     groups = book_vocab(d)
     cols, gutter = 3, 12
@@ -301,8 +328,7 @@ def vocabulary(b, d):
         cells = []
         for en, pos, zh in items:
             ep = Paragraph(escape(en), est); eh = ep.wrap(colw, 1000)[1]
-            runs = ([(pos + ' ', 'ENI', MUTED)] if pos else []) + [(zh, 'ZH', INK)]
-            zp = CJKPara(runs, 9.4, 13.6); zh_h = zp.wrap(colw, 1000)[1]
+            zp = VocabSense(pos, zh); zh_h = zp.wrap(colw, 1000)[1]
             cells.append((ep, eh, zp, zh_h))
         rows = [cells[i:i + cols] for i in range(0, len(cells), cols)]
         heights = [max(e + z for _, e, _, z in r) + 7 for r in rows]

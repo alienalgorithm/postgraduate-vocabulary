@@ -1133,5 +1133,471 @@
   "illustration": "7a08a832227d4f12e13e8a1151ce7a3ebac638e8a41eb5020f568f9984935a74"
  },
  "book_order_v4": "31",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "woodland",
+   "lemma": "woodland",
+   "pos": "n.",
+   "zh": "林地；树林",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "stroll",
+   "lemma": "stroll",
+   "pos": "n.",
+   "zh": "散步；闲逛",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "canine",
+   "lemma": "canine",
+   "pos": "adj.",
+   "zh": "犬的；犬类的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "companion",
+   "lemma": "companion",
+   "pos": "n.",
+   "zh": "伙伴；同伴",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sniffing",
+   "lemma": "sniff",
+   "pos": "vi.",
+   "zh": "嗅；闻",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hollow",
+   "lemma": "hollow",
+   "pos": "n.",
+   "zh": "凹陷处；坑",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "toppled",
+   "lemma": "topple",
+   "pos": "vi.",
+   "zh": "倒下；倾倒",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "adventurous",
+   "lemma": "adventurous",
+   "pos": "adj.",
+   "zh": "充满冒险的；惊险刺激的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "excursion",
+   "lemma": "excursion",
+   "pos": "n.",
+   "zh": "短途旅行；远足",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "explorers",
+   "lemma": "explorer",
+   "pos": "n.",
+   "zh": "探险者；探险家",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "darkness",
+   "lemma": "darkness",
+   "pos": "n.",
+   "zh": "黑暗；漆黑",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "retellings",
+   "lemma": "retelling",
+   "pos": "n.",
+   "zh": "复述；重述",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "embroidered",
+   "lemma": "embroider",
+   "pos": "vt.",
+   "zh": "渲染；添油加醋",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "anecdote",
+   "lemma": "anecdote",
+   "pos": "n.",
+   "zh": "轶事；趣闻",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "dramatic",
+   "lemma": "dramatic",
+   "pos": "adj.",
+   "zh": "戏剧性的；激动人心的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fallen into",
+   "lemma": "fall into",
+   "pos": "phr.",
+   "zh": "掉进；落入",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fanciful",
+   "lemma": "fanciful",
+   "pos": "adj.",
+   "zh": "离奇的；想象出来的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mishap",
+   "lemma": "mishap",
+   "pos": "n.",
+   "zh": "意外；小事故",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fabrication",
+   "lemma": "fabrication",
+   "pos": "n.",
+   "zh": "编造；虚构",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "pivotal",
+   "lemma": "pivotal",
+   "pos": "adj.",
+   "zh": "关键的；核心的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "initiative",
+   "lemma": "initiative",
+   "pos": "n.",
+   "zh": "主动行动；主动性",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ironically",
+   "lemma": "ironically",
+   "pos": "adv.",
+   "zh": "讽刺的是",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "invented",
+   "lemma": "invent",
+   "pos": "vt.",
+   "zh": "编造；虚构",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "painted figures",
+   "lemma": "painted figure",
+   "pos": "n.",
+   "zh": "彩绘人像；彩绘形象",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "engravings",
+   "lemma": "engraving",
+   "pos": "n.",
+   "zh": "雕刻图案；雕刻画",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "cover",
+   "lemma": "cover",
+   "pos": "vt.",
+   "zh": "布满；覆盖",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "artwork",
+   "lemma": "artwork",
+   "pos": "n.",
+   "zh": "艺术作品",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "creators",
+   "lemma": "creator",
+   "pos": "n.",
+   "zh": "创作者；创造者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ancestors",
+   "lemma": "ancestor",
+   "pos": "n.",
+   "zh": "祖先；祖宗",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "antiquity",
+   "lemma": "antiquity",
+   "pos": "n.",
+   "zh": "古代；古时",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "bulls",
+   "lemma": "bull",
+   "pos": "n.",
+   "zh": "公牛",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "depicted",
+   "lemma": "depict",
+   "pos": "vt.",
+   "zh": "描绘；描画",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "pigments",
+   "lemma": "pigment",
+   "pos": "n.",
+   "zh": "颜料",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "murals",
+   "lemma": "mural",
+   "pos": "n.",
+   "zh": "壁画",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fragility",
+   "lemma": "fragility",
+   "pos": "n.",
+   "zh": "脆弱；易损",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "opened to the public",
+   "lemma": "open to the public",
+   "pos": "phr.",
+   "zh": "向公众开放",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "tourism",
+   "lemma": "tourism",
+   "pos": "n.",
+   "zh": "旅游业",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "influx",
+   "lemma": "influx",
+   "pos": "n.",
+   "zh": "涌入；大量流入",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "throng",
+   "lemma": "throng",
+   "pos": "n.",
+   "zh": "人群；一大群人",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "exhaled",
+   "lemma": "exhale",
+   "pos": "vt.",
+   "zh": "呼出",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "carbon dioxide",
+   "lemma": "carbon dioxide",
+   "pos": "n.",
+   "zh": "二氧化碳",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "humidity",
+   "lemma": "humidity",
+   "pos": "n.",
+   "zh": "湿度；湿气",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "contaminants",
+   "lemma": "contaminant",
+   "pos": "n.",
+   "zh": "污染物",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "deterioration",
+   "lemma": "deterioration",
+   "pos": "n.",
+   "zh": "劣化；恶化",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "plain to see",
+   "lemma": "plain to see",
+   "pos": "adj.",
+   "zh": "显而易见的；一看便知的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "restoration",
+   "lemma": "restoration",
+   "pos": "n.",
+   "zh": "修复；整修",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "inspection",
+   "lemma": "inspection",
+   "pos": "n.",
+   "zh": "检查；查看",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "meticulously",
+   "lemma": "meticulously",
+   "pos": "adv.",
+   "zh": "一丝不苟地；精心地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "partial",
+   "lemma": "partial",
+   "pos": "adj.",
+   "zh": "部分的；局部的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "facsimile",
+   "lemma": "facsimile",
+   "pos": "n.",
+   "zh": "复制品；摹本",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fungus",
+   "lemma": "fungus",
+   "pos": "n.",
+   "zh": "真菌；霉菌",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "invaded",
+   "lemma": "invade",
+   "pos": "vt.",
+   "zh": "侵入；侵袭",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "outbreak",
+   "lemma": "outbreak",
+   "pos": "n.",
+   "zh": "暴发；突然发生",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "stains",
+   "lemma": "stain",
+   "pos": "n.",
+   "zh": "污斑；污渍",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "chemical treatment",
+   "lemma": "chemical treatment",
+   "pos": "n.",
+   "zh": "化学处理",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "admirers",
+   "lemma": "admirer",
+   "pos": "n.",
+   "zh": "仰慕者；欣赏者",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "recreation",
+   "lemma": "recreation",
+   "pos": "n.",
+   "zh": "复原品；再现",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "inaccessible",
+   "lemma": "inaccessible",
+   "pos": "adj.",
+   "zh": "无法进入的；难以到达的",
+   "drop": false
+  }
+ ]
 }

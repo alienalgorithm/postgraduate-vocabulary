@@ -1225,5 +1225,503 @@
   "illustration": "453deda4db172ff58c2dce0c62e12e762df5c4273b893bd2cf7f28eb6541abf7"
  },
  "book_order_v4": "27",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "rattling",
+   "lemma": "rattle",
+   "pos": "vi.",
+   "zh": "哐当作响；发出咔嗒声",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "brisk",
+   "lemma": "brisk",
+   "pos": "adj.",
+   "zh": "轻快的；活跃的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "voiceless",
+   "lemma": "voiceless",
+   "pos": "adj.",
+   "zh": "无声的；不出声的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hubbub",
+   "lemma": "hubbub",
+   "pos": "n.",
+   "zh": "喧闹；喧嚣",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "aisle",
+   "lemma": "aisle",
+   "pos": "n.",
+   "zh": "过道；走道",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "palms",
+   "lemma": "palm",
+   "pos": "n.",
+   "zh": "手掌；手心",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "fluttering",
+   "lemma": "flutter",
+   "pos": "vi.",
+   "zh": "拍动；颤动",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "wrists",
+   "lemma": "wrist",
+   "pos": "n.",
+   "zh": "手腕",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "flicking",
+   "lemma": "flick",
+   "pos": "vi.",
+   "zh": "轻弹；快速抖动",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "community",
+   "lemma": "community",
+   "pos": "n.",
+   "zh": "群体；社群",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "secluded",
+   "lemma": "secluded",
+   "pos": "adj.",
+   "zh": "与世隔绝的；隐居的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "homemade",
+   "lemma": "homemade",
+   "pos": "adj.",
+   "zh": "自制的；家里做的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "repertoire",
+   "lemma": "repertoire",
+   "pos": "n.",
+   "zh": "一整套；全部本领",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "gestures",
+   "lemma": "gesture",
+   "pos": "n.",
+   "zh": "手势；姿势",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "siblings",
+   "lemma": "sibling",
+   "pos": "n.",
+   "zh": "兄弟姐妹；同胞",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "special-education",
+   "lemma": "special education",
+   "pos": "n.",
+   "zh": "特殊教育",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "district",
+   "lemma": "district",
+   "pos": "n.",
+   "zh": "区；地区",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "pupils",
+   "lemma": "pupil",
+   "pos": "n.",
+   "zh": "学生（尤指中小学生）",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "vocational school",
+   "lemma": "vocational school",
+   "pos": "n.",
+   "zh": "职业学校",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "teenage",
+   "lemma": "teenage",
+   "pos": "adj.",
+   "zh": "青少年的；十几岁的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "curriculum",
+   "lemma": "curriculum",
+   "pos": "n.",
+   "zh": "课程；课程设置",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hinged on",
+   "lemma": "hinge on",
+   "pos": "phr.",
+   "zh": "以……为中心",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "oral",
+   "lemma": "oral",
+   "pos": "adj.",
+   "zh": "口头的；口语的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "lipreading",
+   "lemma": "lipreading",
+   "pos": "n.",
+   "zh": "唇读；读唇",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "alphabet",
+   "lemma": "alphabet",
+   "pos": "n.",
+   "zh": "字母表；（全套）字母",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "lips",
+   "lemma": "lip",
+   "pos": "n.",
+   "zh": "嘴唇",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "in vain",
+   "lemma": "in vain",
+   "pos": "adv.",
+   "zh": "徒劳；白费力气",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "grasp",
+   "lemma": "grasp",
+   "pos": "vt.",
+   "zh": "理解；领会",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "At recess",
+   "lemma": "at recess",
+   "pos": "adv.",
+   "zh": "在课间休息时",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "mingled with",
+   "lemma": "mingle sth with sth",
+   "pos": "phr.",
+   "zh": "把……与……混合",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rough",
+   "lemma": "rough",
+   "pos": "adj.",
+   "zh": "粗糙的；粗略的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "jumble",
+   "lemma": "jumble",
+   "pos": "n.",
+   "zh": "杂乱的一堆；大杂烩",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ripened into",
+   "lemma": "ripen into",
+   "pos": "phr.",
+   "zh": "逐渐成熟为；发展成",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rapidly",
+   "lemma": "rapidly",
+   "pos": "adv.",
+   "zh": "迅速地；快速地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "coherent",
+   "lemma": "coherent",
+   "pos": "adj.",
+   "zh": "连贯的；条理清楚的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "entirely",
+   "lemma": "entirely",
+   "pos": "adv.",
+   "zh": "完全；全然",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unintelligible",
+   "lemma": "unintelligible",
+   "pos": "adj.",
+   "zh": "难以理解的；无法理解的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "the Ministry of Education",
+   "lemma": "Ministry of Education",
+   "pos": "n.",
+   "zh": "教育部",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "brought in",
+   "lemma": "bring in",
+   "pos": "phr.",
+   "zh": "请来；聘请",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "American Sign Language",
+   "lemma": "American Sign Language",
+   "pos": "n.",
+   "zh": "美国手语",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "linguist",
+   "lemma": "linguist",
+   "pos": "n.",
+   "zh": "语言学家",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "MIT",
+   "lemma": "MIT",
+   "pos": "n.",
+   "zh": "麻省理工学院",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "intakes",
+   "lemma": "intake",
+   "pos": "n.",
+   "zh": "（一批）新招收的人",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "grammatical",
+   "lemma": "grammatical",
+   "pos": "adj.",
+   "zh": "语法的；语法上的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "uniformly",
+   "lemma": "uniformly",
+   "pos": "adv.",
+   "zh": "一致地；统一地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "forerunners",
+   "lemma": "forerunner",
+   "pos": "n.",
+   "zh": "前辈；先行者",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "signers",
+   "lemma": "signer",
+   "pos": "n.",
+   "zh": "手语使用者；手语者",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "complexity",
+   "lemma": "complexity",
+   "pos": "n.",
+   "zh": "复杂性",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "rolling downhill",
+   "lemma": "roll downhill",
+   "pos": "phr.",
+   "zh": "滚下坡；向坡下滚",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "welding into",
+   "lemma": "weld sth into sth",
+   "pos": "phr.",
+   "zh": "把……融合成……",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "undivided",
+   "lemma": "undivided",
+   "pos": "adj.",
+   "zh": "完整的；未分开的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "dismantled into",
+   "lemma": "dismantle sth into sth",
+   "pos": "phr.",
+   "zh": "把……拆解成……",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "discrete",
+   "lemma": "discrete",
+   "pos": "adj.",
+   "zh": "离散的；各自独立的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "segments",
+   "lemma": "segment",
+   "pos": "n.",
+   "zh": "片段；部分",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "linear order",
+   "lemma": "linear order",
+   "pos": "n.",
+   "zh": "线性顺序",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "framework",
+   "lemma": "framework",
+   "pos": "n.",
+   "zh": "框架；结构",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "nowhere",
+   "lemma": "nowhere",
+   "pos": "adv.",
+   "zh": "任何地方都不；无处",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "linguists",
+   "lemma": "linguist",
+   "pos": "n.",
+   "zh": "",
+   "drop": true
+  },
+  {
+   "para": 6,
+   "term": "infancy",
+   "lemma": "infancy",
+   "pos": "n.",
+   "zh": "婴儿期；幼年",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "maturity",
+   "lemma": "maturity",
+   "pos": "n.",
+   "zh": "成熟期；成熟",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "builders",
+   "lemma": "builder",
+   "pos": "n.",
+   "zh": "建造者；创建者",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "playmates",
+   "lemma": "playmate",
+   "pos": "n.",
+   "zh": "玩伴；游戏伙伴",
+   "drop": false
+  }
+ ]
 }

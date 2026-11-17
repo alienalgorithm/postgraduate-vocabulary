@@ -1190,5 +1190,479 @@
   "illustration": "8e80061e79323794fa98807a6a5528eec408fff0d96afcdb9d703f9c19506196"
  },
  "book_order_v4": "57",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "Swiss",
+   "lemma": "Swiss",
+   "pos": "adj.",
+   "zh": "瑞士的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "returned from",
+   "lemma": "return from",
+   "pos": "phr.",
+   "zh": "从……返回；从……归来",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hound",
+   "lemma": "hound",
+   "pos": "n.",
+   "zh": "猎犬",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "prickly",
+   "lemma": "prickly",
+   "pos": "adj.",
+   "zh": "多刺的；带刺的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "seed-heads",
+   "lemma": "seed-head",
+   "pos": "n.",
+   "zh": "种子头；种穗",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hitched",
+   "lemma": "hitch",
+   "pos": "vt.",
+   "zh": "钩住；挂住",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tangled",
+   "lemma": "tangled",
+   "pos": "adj.",
+   "zh": "缠结的；缠绕的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "fur",
+   "lemma": "fur",
+   "pos": "n.",
+   "zh": "（动物的）毛；毛皮",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "barbs",
+   "lemma": "barb",
+   "pos": "n.",
+   "zh": "倒刺；倒钩",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hook",
+   "lemma": "hook",
+   "pos": "n.",
+   "zh": "钩子；钩",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "grasping",
+   "lemma": "grasp",
+   "pos": "vt.",
+   "zh": "抓住；紧握",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "loops",
+   "lemma": "loop",
+   "pos": "n.",
+   "zh": "（织物上的）圈；环",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "took seriously",
+   "lemma": "take sth seriously",
+   "pos": "phr.",
+   "zh": "认真看待；重视",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "weaving",
+   "lemma": "weaving",
+   "pos": "n.",
+   "zh": "纺织；编织",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "cotton",
+   "lemma": "cotton",
+   "pos": "adj.",
+   "zh": "棉的；棉制的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "frail",
+   "lemma": "frail",
+   "pos": "adj.",
+   "zh": "脆弱的；不结实的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "abrasion",
+   "lemma": "abrasion",
+   "pos": "n.",
+   "zh": "磨损；磨耗",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "textiles",
+   "lemma": "textile",
+   "pos": "n.",
+   "zh": "纺织品；纺织业",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "nylon",
+   "lemma": "nylon",
+   "pos": "n.",
+   "zh": "尼龙",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "stiff",
+   "lemma": "stiff",
+   "pos": "adj.",
+   "zh": "硬的；不易弯曲的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "pull apart",
+   "lemma": "pull apart",
+   "pos": "phr.",
+   "zh": "拉开；扯开",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "trial-and-error",
+   "lemma": "trial and error",
+   "pos": "n.",
+   "zh": "反复试验；试错",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "looms",
+   "lemma": "loom",
+   "pos": "n.",
+   "zh": "织机",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mills",
+   "lemma": "mill",
+   "pos": "n.",
+   "zh": "（纺织等）工厂",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "merged",
+   "lemma": "merge",
+   "pos": "vt.",
+   "zh": "合并；融合",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "velvet",
+   "lemma": "velvet",
+   "pos": "n.",
+   "zh": "天鹅绒；丝绒",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "duly",
+   "lemma": "duly",
+   "pos": "adv.",
+   "zh": "如期；按预期",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "apparel",
+   "lemma": "apparel",
+   "pos": "n.",
+   "zh": "服装；衣服",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "stitched",
+   "lemma": "stitch",
+   "pos": "vt.",
+   "zh": "缝；缝上",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fasteners",
+   "lemma": "fastener",
+   "pos": "n.",
+   "zh": "搭扣；扣件",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "runway",
+   "lemma": "runway",
+   "pos": "n.",
+   "zh": "时装表演台；伸展台",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "charmed",
+   "lemma": "charm",
+   "pos": "vt.",
+   "zh": "吸引；使着迷",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "mostly",
+   "lemma": "mostly",
+   "pos": "adv.",
+   "zh": "主要地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "aesthetic",
+   "lemma": "aesthetic",
+   "pos": "n.",
+   "zh": "审美；美感",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "underdog",
+   "lemma": "underdog",
+   "pos": "n.",
+   "zh": "弱者；不被看好的一方",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "utility",
+   "lemma": "utility",
+   "pos": "n.",
+   "zh": "用处；效用",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "outer space",
+   "lemma": "outer space",
+   "pos": "n.",
+   "zh": "外太空；外层空间",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "Apollo programme",
+   "lemma": "Apollo programme",
+   "pos": "n.",
+   "zh": "阿波罗计划",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "gear",
+   "lemma": "gear",
+   "pos": "n.",
+   "zh": "装备；用具",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "anchored",
+   "lemma": "anchor",
+   "pos": "vt.",
+   "zh": "固定；使稳固",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "in weightlessness",
+   "lemma": "weightlessness",
+   "pos": "n.",
+   "zh": "失重；失重状态",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "hover",
+   "lemma": "hover",
+   "pos": "vi.",
+   "zh": "飘浮；悬停",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mid-air",
+   "lemma": "mid-air",
+   "pos": "n.",
+   "zh": "半空；空中",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "equipped with",
+   "lemma": "be equipped with",
+   "pos": "phr.",
+   "zh": "配备有；装有",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "sizeable",
+   "lemma": "sizeable",
+   "pos": "adj.",
+   "zh": "相当多的；相当大的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "clasp",
+   "lemma": "clasp",
+   "pos": "n.",
+   "zh": "搭扣；扣件",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ran out",
+   "lemma": "run out",
+   "pos": "phr.",
+   "zh": "到期；期满",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cut-price",
+   "lemma": "cut-price",
+   "pos": "adj.",
+   "zh": "廉价的；打折的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "knock-offs",
+   "lemma": "knock-off",
+   "pos": "n.",
+   "zh": "仿制品；山寨货",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "overran",
+   "lemma": "overrun",
+   "pos": "vt.",
+   "zh": "充斥；涌入",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "niche",
+   "lemma": "niche",
+   "pos": "adj.",
+   "zh": "小众的；细分市场的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "mainstream",
+   "lemma": "mainstream",
+   "pos": "adj.",
+   "zh": "主流的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "brand-name",
+   "lemma": "brand name",
+   "pos": "n.",
+   "zh": "品牌名称；商标名",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "melting into",
+   "lemma": "melt into",
+   "pos": "phr.",
+   "zh": "逐渐变成；渐渐化为",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "generic",
+   "lemma": "generic",
+   "pos": "adj.",
+   "zh": "通用的；泛指的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "noun",
+   "lemma": "noun",
+   "pos": "n.",
+   "zh": "名词",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "mimics",
+   "lemma": "mimic",
+   "pos": "n.",
+   "zh": "模仿者；仿制品",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "in effect",
+   "lemma": "in effect",
+   "pos": "adv.",
+   "zh": "实际上；事实上",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "rivals'",
+   "lemma": "rival",
+   "pos": "n.",
+   "zh": "对手；竞争者",
+   "drop": false
+  }
+ ]
 }

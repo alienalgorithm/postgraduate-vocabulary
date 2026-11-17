@@ -1113,5 +1113,455 @@
   "illustration": "eeb0df5cfd09521cc1852bde349312a537176c99830bbcf1367bdd664bfeab71"
  },
  "book_order_v4": "50",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "postage",
+   "lemma": "postage",
+   "pos": "n.",
+   "zh": "邮费；邮资",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "levied",
+   "lemma": "levy",
+   "pos": "vt.",
+   "zh": "征收",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sheets",
+   "lemma": "sheet",
+   "pos": "n.",
+   "zh": "（纸的）张；页",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "mileage",
+   "lemma": "mileage",
+   "pos": "n.",
+   "zh": "里程；英里数",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "carriage",
+   "lemma": "carriage",
+   "pos": "n.",
+   "zh": "运输；运送",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "payable",
+   "lemma": "payable",
+   "pos": "adj.",
+   "zh": "应支付的；应付的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "delivery",
+   "lemma": "delivery",
+   "pos": "n.",
+   "zh": "投递；递送",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "correspondence",
+   "lemma": "correspondence",
+   "pos": "n.",
+   "zh": "信件；通信",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sender",
+   "lemma": "sender",
+   "pos": "n.",
+   "zh": "寄信人；寄件人",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "fluctuated",
+   "lemma": "fluctuate",
+   "pos": "vi.",
+   "zh": "波动；起伏不定",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "postal",
+   "lemma": "postal",
+   "pos": "adj.",
+   "zh": "邮政的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "item",
+   "lemma": "item",
+   "pos": "n.",
+   "zh": "物品；（一件）邮件",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "booklet",
+   "lemma": "booklet",
+   "pos": "n.",
+   "zh": "小册子",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "enacted",
+   "lemma": "enact",
+   "pos": "vt.",
+   "zh": "立法通过；制定（法律）",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "campaigner",
+   "lemma": "campaigner",
+   "pos": "n.",
+   "zh": "倡导者；运动人士",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "proposal",
+   "lemma": "proposal",
+   "pos": "n.",
+   "zh": "提议；建议",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ounce",
+   "lemma": "ounce",
+   "pos": "n.",
+   "zh": "盎司",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "penny",
+   "lemma": "penny",
+   "pos": "n.",
+   "zh": "便士",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "destination",
+   "lemma": "destination",
+   "pos": "n.",
+   "zh": "目的地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "prepaid",
+   "lemma": "prepay",
+   "pos": "vt.",
+   "zh": "预付",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "flat-rate charge",
+   "lemma": "flat-rate charge",
+   "pos": "n.",
+   "zh": "统一收费",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "variation",
+   "lemma": "variation",
+   "pos": "n.",
+   "zh": "差异；变化",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "simplicity",
+   "lemma": "simplicity",
+   "pos": "n.",
+   "zh": "简便；简单",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "denomination",
+   "lemma": "denomination",
+   "pos": "n.",
+   "zh": "（货币、邮票的）面值",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "validity",
+   "lemma": "validity",
+   "pos": "n.",
+   "zh": "有效性；有效期",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "engraved",
+   "lemma": "engrave",
+   "pos": "vt.",
+   "zh": "雕刻；镌刻",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "youthful",
+   "lemma": "youthful",
+   "pos": "adj.",
+   "zh": "年轻的；青春的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "likeness",
+   "lemma": "likeness",
+   "pos": "n.",
+   "zh": "肖像；画像",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "reigning",
+   "lemma": "reigning",
+   "pos": "adj.",
+   "zh": "在位的；当政的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "monarch",
+   "lemma": "monarch",
+   "pos": "n.",
+   "zh": "君主；国君",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "aggregate",
+   "lemma": "aggregate",
+   "pos": "n.",
+   "zh": "总数；合计",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "separation",
+   "lemma": "separation",
+   "pos": "n.",
+   "zh": "分开；分离",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "individually",
+   "lemma": "individually",
+   "pos": "adv.",
+   "zh": "单独地；逐个地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "scissors",
+   "lemma": "scissors",
+   "pos": "n.",
+   "zh": "剪刀",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mailings",
+   "lemma": "mailing",
+   "pos": "n.",
+   "zh": "邮件；邮寄量",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "items",
+   "lemma": "item",
+   "pos": "n.",
+   "zh": "",
+   "drop": true
+  },
+  {
+   "para": 4,
+   "term": "drawback",
+   "lemma": "drawback",
+   "pos": "n.",
+   "zh": "缺点；不利条件",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "cancelling mark",
+   "lemma": "cancelling mark",
+   "pos": "n.",
+   "zh": "注销印记；注销戳",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "noticeable",
+   "lemma": "noticeable",
+   "pos": "adj.",
+   "zh": "显眼的；明显的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "contrast",
+   "lemma": "contrast",
+   "pos": "n.",
+   "zh": "反差；对比",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "erased",
+   "lemma": "erase",
+   "pos": "vt.",
+   "zh": "擦除；抹去",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "vulnerable to",
+   "lemma": "vulnerable to",
+   "pos": "adj.",
+   "zh": "易遭……的；易被……的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "reuse",
+   "lemma": "reuse",
+   "pos": "n.",
+   "zh": "重复使用；再利用",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "deter",
+   "lemma": "deter",
+   "pos": "vt.",
+   "zh": "防止；阻止",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "tampering",
+   "lemma": "tampering",
+   "pos": "n.",
+   "zh": "篡改；擅自改动",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "fraud",
+   "lemma": "fraud",
+   "pos": "n.",
+   "zh": "欺诈；诈骗",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "initiator",
+   "lemma": "initiator",
+   "pos": "n.",
+   "zh": "首创者；发起人",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "precedent",
+   "lemma": "precedent",
+   "pos": "n.",
+   "zh": "先例",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "exemption",
+   "lemma": "exemption",
+   "pos": "n.",
+   "zh": "豁免；免除",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "nameless",
+   "lemma": "nameless",
+   "pos": "adj.",
+   "zh": "无名的；不具名的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "inscribed",
+   "lemma": "inscribe",
+   "pos": "vt.",
+   "zh": "刻印；题写",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sovereign",
+   "lemma": "sovereign",
+   "pos": "n.",
+   "zh": "君主",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "suffices for",
+   "lemma": "suffice for",
+   "pos": "phr.",
+   "zh": "足以用于；足够……之用",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "identification",
+   "lemma": "identification",
+   "pos": "n.",
+   "zh": "识别；辨认",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "implicit",
+   "lemma": "implicit",
+   "pos": "adj.",
+   "zh": "隐含的；含蓄的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "designation",
+   "lemma": "designation",
+   "pos": "n.",
+   "zh": "标识；名称",
+   "drop": false
+  }
+ ]
 }

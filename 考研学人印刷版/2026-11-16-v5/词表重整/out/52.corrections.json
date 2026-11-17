@@ -1,0 +1,16 @@
+[
+ {
+  "id": 20,
+  "field": "lemma",
+  "before": "machine-gun",
+  "after": "machine gun",
+  "reason": "词典名词原形为分写的 machine gun（连字符形式是动词）"
+ },
+ {
+  "id": 59,
+  "field": "zh",
+  "before": "（一笔）支付款；赏金",
+  "after": "（一笔）付款；支出",
+  "reason": "“赏金”是本文特有的含义，不是 payout 的词义"
+ }
+]

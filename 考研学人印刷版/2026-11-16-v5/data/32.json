@@ -1093,5 +1093,439 @@
   "illustration": "58df7aaf51495347325b14250a806139790da43eb0e22ff18c5d298a581708c3"
  },
  "book_order_v4": "32",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "iconic",
+   "lemma": "iconic",
+   "pos": "adj.",
+   "zh": "标志性的；象征性的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "exterminated",
+   "lemma": "exterminate",
+   "pos": "vt.",
+   "zh": "消灭；灭绝",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "captured",
+   "lemma": "capture",
+   "pos": "vt.",
+   "zh": "捕获；俘获",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hauled",
+   "lemma": "haul",
+   "pos": "vt.",
+   "zh": "拖运；运送",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "crates",
+   "lemma": "crate",
+   "pos": "n.",
+   "zh": "板条箱；大木箱",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "enclosures",
+   "lemma": "enclosure",
+   "pos": "n.",
+   "zh": "围栏；围场",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "roamed",
+   "lemma": "roam",
+   "pos": "vt.",
+   "zh": "漫游；四处游荡",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "wilderness",
+   "lemma": "wilderness",
+   "pos": "n.",
+   "zh": "荒野；荒原",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "viral video",
+   "lemma": "viral video",
+   "pos": "n.",
+   "zh": "网上疯传的视频；爆红视频",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "narrated by",
+   "lemma": "narrate",
+   "pos": "vt.",
+   "zh": "（为影片等）解说；讲述",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "spun",
+   "lemma": "spin",
+   "pos": "vt.",
+   "zh": "编造；讲述（故事）",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "compelling",
+   "lemma": "compelling",
+   "pos": "adj.",
+   "zh": "引人入胜的；扣人心弦的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "narrative",
+   "lemma": "narrative",
+   "pos": "n.",
+   "zh": "故事；叙述",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "wary of",
+   "lemma": "wary of",
+   "pos": "adj.",
+   "zh": "提防的；对……有戒心的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "retreated from",
+   "lemma": "retreat from",
+   "pos": "phr.",
+   "zh": "从……撤离；退出",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "willows",
+   "lemma": "willow",
+   "pos": "n.",
+   "zh": "柳树",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "flourish",
+   "lemma": "flourish",
+   "pos": "vi.",
+   "zh": "繁茂；茁壮成长",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "stabilise",
+   "lemma": "stabilise",
+   "pos": "vi.",
+   "zh": "变得稳固；稳定下来",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "trophic cascade",
+   "lemma": "trophic cascade",
+   "pos": "n.",
+   "zh": "营养级联",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "predators",
+   "lemma": "predator",
+   "pos": "n.",
+   "zh": "捕食者；掠食动物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "deter",
+   "lemma": "deter",
+   "pos": "vt.",
+   "zh": "吓阻；威慑",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "vegetation",
+   "lemma": "vegetation",
+   "pos": "n.",
+   "zh": "植被；植物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rebounds",
+   "lemma": "rebound",
+   "pos": "vi.",
+   "zh": "恢复；复苏",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "census",
+   "lemma": "census",
+   "pos": "n.",
+   "zh": "普查；数量统计",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "undermined",
+   "lemma": "undermine",
+   "pos": "vt.",
+   "zh": "动摇；削弱",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "peaked at",
+   "lemma": "peak at",
+   "pos": "phr.",
+   "zh": "达到……的峰值",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "dwindling",
+   "lemma": "dwindle",
+   "pos": "vi.",
+   "zh": "日渐减少；逐渐缩小",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "depleted",
+   "lemma": "deplete",
+   "pos": "vt.",
+   "zh": "大量消耗；使减少",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hunters",
+   "lemma": "hunter",
+   "pos": "n.",
+   "zh": "猎人",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "drought",
+   "lemma": "drought",
+   "pos": "n.",
+   "zh": "干旱；旱灾",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "collared",
+   "lemma": "collared",
+   "pos": "adj.",
+   "zh": "戴项圈的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "grazing",
+   "lemma": "graze",
+   "pos": "vi.",
+   "zh": "吃草",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ventured",
+   "lemma": "venture",
+   "pos": "vi.",
+   "zh": "冒险前往；胆敢进入",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "fared no better",
+   "lemma": "fare no better",
+   "pos": "phr.",
+   "zh": "也好不到哪里去",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "sampling",
+   "lemma": "sample",
+   "pos": "vt.",
+   "zh": "抽样；采样",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "aspens",
+   "lemma": "aspen",
+   "pos": "n.",
+   "zh": "山杨；颤杨",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "overstated",
+   "lemma": "overstate",
+   "pos": "vt.",
+   "zh": "夸大；夸张",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "regrowth",
+   "lemma": "regrowth",
+   "pos": "n.",
+   "zh": "再生长；重新生长",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "flaw",
+   "lemma": "flaw",
+   "pos": "n.",
+   "zh": "缺陷；缺点",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "excluded",
+   "lemma": "exclude",
+   "pos": "vt.",
+   "zh": "排除在外；不让进入",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "artificial",
+   "lemma": "artificial",
+   "pos": "adj.",
+   "zh": "人造的；人工的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "dams",
+   "lemma": "dam",
+   "pos": "n.",
+   "zh": "坝；水坝",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "eroding",
+   "lemma": "erode",
+   "pos": "vi.",
+   "zh": "冲蚀；侵蚀",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stunted",
+   "lemma": "stunted",
+   "pos": "adj.",
+   "zh": "矮小的；发育不良的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "advocate",
+   "lemma": "advocate",
+   "pos": "n.",
+   "zh": "倡导者；拥护者",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "hypothesis",
+   "lemma": "hypothesis",
+   "pos": "n.",
+   "zh": "假说；假设",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "disputed",
+   "lemma": "dispute",
+   "pos": "vt.",
+   "zh": "对……提出异议；质疑",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unresolved",
+   "lemma": "unresolved",
+   "pos": "adj.",
+   "zh": "悬而未决的；未解决的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fainter",
+   "lemma": "faint",
+   "pos": "adj.",
+   "zh": "微弱的；不明显的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fable",
+   "lemma": "fable",
+   "pos": "n.",
+   "zh": "虚构的故事；无稽之谈",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "messier",
+   "lemma": "messy",
+   "pos": "adj.",
+   "zh": "复杂棘手的；难以理清的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "discipline",
+   "lemma": "discipline",
+   "pos": "n.",
+   "zh": "学科；学术领域",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "revise",
+   "lemma": "revise",
+   "pos": "vt.",
+   "zh": "修正；修改",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cherished",
+   "lemma": "cherished",
+   "pos": "adj.",
+   "zh": "珍视的；珍爱的",
+   "drop": false
+  }
+ ]
 }

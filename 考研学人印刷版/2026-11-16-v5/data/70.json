@@ -1205,5 +1205,479 @@
   "illustration": "6b694290660ce846bce9cd9b71bf168587891b73f44236aae32eb1f9e2cb9aeb"
  },
  "book_order_v4": "70",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "fastened",
+   "lemma": "fasten",
+   "pos": "vt.",
+   "zh": "固定；使牢固",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "disc",
+   "lemma": "disc",
+   "pos": "n.",
+   "zh": "唱片；圆盘",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "wrought",
+   "lemma": "wrought",
+   "pos": "adj.",
+   "zh": "锻造的；制成的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "gilded",
+   "lemma": "gilded",
+   "pos": "adj.",
+   "zh": "镀金的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "copper",
+   "lemma": "copper",
+   "pos": "n.",
+   "zh": "铜",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "centimetres",
+   "lemma": "centimetre",
+   "pos": "n.",
+   "zh": "厘米",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "spaceship",
+   "lemma": "spaceship",
+   "pos": "n.",
+   "zh": "宇宙飞船",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "takeoff",
+   "lemma": "takeoff",
+   "pos": "n.",
+   "zh": "起飞",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "foresee",
+   "lemma": "foresee",
+   "pos": "vt.",
+   "zh": "预见；预知",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "advisers",
+   "lemma": "adviser",
+   "pos": "n.",
+   "zh": "顾问",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "distilled",
+   "lemma": "distil",
+   "pos": "vt.",
+   "zh": "提炼；浓缩",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "earthly",
+   "lemma": "earthly",
+   "pos": "adj.",
+   "zh": "尘世的；地球上的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "abode",
+   "lemma": "abode",
+   "pos": "n.",
+   "zh": "住所；家园",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "compendium",
+   "lemma": "compendium",
+   "pos": "n.",
+   "zh": "汇编；纲要",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "greet",
+   "lemma": "greet",
+   "pos": "vt.",
+   "zh": "问候；迎接",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "listener",
+   "lemma": "listener",
+   "pos": "n.",
+   "zh": "听者；听众",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rumble",
+   "lemma": "rumble",
+   "pos": "n.",
+   "zh": "隆隆声",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "thunder",
+   "lemma": "thunder",
+   "pos": "n.",
+   "zh": "雷；雷声",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "whistle",
+   "lemma": "whistle",
+   "pos": "n.",
+   "zh": "呼啸声",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "laughter",
+   "lemma": "laughter",
+   "pos": "n.",
+   "zh": "笑声",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rhythmic",
+   "lemma": "rhythmic",
+   "pos": "adj.",
+   "zh": "有节奏的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "heartbeat",
+   "lemma": "heartbeat",
+   "pos": "n.",
+   "zh": "心跳",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "eclectic",
+   "lemma": "eclectic",
+   "pos": "adj.",
+   "zh": "兼收并蓄的；不拘一格的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "a spectrum of",
+   "lemma": "a spectrum of",
+   "pos": "phr.",
+   "zh": "一系列；各种各样的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "eras",
+   "lemma": "era",
+   "pos": "n.",
+   "zh": "时代；年代",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "notably",
+   "lemma": "notably",
+   "pos": "adv.",
+   "zh": "尤其；特别是",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "array of",
+   "lemma": "an array of",
+   "pos": "phr.",
+   "zh": "一系列；大量",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "encoded",
+   "lemma": "encode",
+   "pos": "vt.",
+   "zh": "编码",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "statesmen",
+   "lemma": "statesman",
+   "pos": "n.",
+   "zh": "政治家",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sleeve",
+   "lemma": "sleeve",
+   "pos": "n.",
+   "zh": "（唱片的）封套",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "guidance",
+   "lemma": "guidance",
+   "pos": "n.",
+   "zh": "指导；指引",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "diagram",
+   "lemma": "diagram",
+   "pos": "n.",
+   "zh": "示意图；图表",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "beacons",
+   "lemma": "beacon",
+   "pos": "n.",
+   "zh": "信标；航标",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "at request",
+   "lemma": "at sb's request",
+   "pos": "phr.",
+   "zh": "应……的请求",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "pivoted",
+   "lemma": "pivot",
+   "pos": "vt.",
+   "zh": "使转动；使旋转",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "glance",
+   "lemma": "glance",
+   "pos": "n.",
+   "zh": "一瞥；匆匆一看",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "backwards",
+   "lemma": "backwards",
+   "pos": "adv.",
+   "zh": "向后",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "frames",
+   "lemma": "frame",
+   "pos": "n.",
+   "zh": "画面；帧",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "panorama",
+   "lemma": "panorama",
+   "pos": "n.",
+   "zh": "全景；全景图",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mosaic",
+   "lemma": "mosaic",
+   "pos": "n.",
+   "zh": "拼接图；镶嵌图",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "glimmer",
+   "lemma": "glimmer",
+   "pos": "n.",
+   "zh": "微光",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "pixel",
+   "lemma": "pixel",
+   "pos": "n.",
+   "zh": "像素",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "across",
+   "lemma": "across",
+   "pos": "adv.",
+   "zh": "宽；从一边到另一边",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "receivers",
+   "lemma": "receiver",
+   "pos": "n.",
+   "zh": "接收器；接收设备",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "signal",
+   "lemma": "signal",
+   "pos": "n.",
+   "zh": "信号",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "pale",
+   "lemma": "pale",
+   "pos": "adj.",
+   "zh": "暗淡的；浅淡的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "perspective",
+   "lemma": "perspective",
+   "pos": "n.",
+   "zh": "视角；观点",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ephemeral",
+   "lemma": "ephemeral",
+   "pos": "adj.",
+   "zh": "短暂的；转瞬即逝的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cosmic",
+   "lemma": "cosmic",
+   "pos": "adj.",
+   "zh": "宇宙的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "vastness",
+   "lemma": "vastness",
+   "pos": "n.",
+   "zh": "浩瀚；广阔",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "interstellar",
+   "lemma": "interstellar",
+   "pos": "adj.",
+   "zh": "星际的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "human-made",
+   "lemma": "human-made",
+   "pos": "adj.",
+   "zh": "人造的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "longevity",
+   "lemma": "longevity",
+   "pos": "n.",
+   "zh": "长寿；持久",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "unmatched",
+   "lemma": "unmatched",
+   "pos": "adj.",
+   "zh": "无可匹敌的；无与伦比的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "depletion",
+   "lemma": "depletion",
+   "pos": "n.",
+   "zh": "耗尽；枯竭",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "glide on",
+   "lemma": "glide on",
+   "pos": "phr.",
+   "zh": "继续滑行",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "outwards",
+   "lemma": "outwards",
+   "pos": "adv.",
+   "zh": "向外",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "void",
+   "lemma": "void",
+   "pos": "n.",
+   "zh": "虚空；太空",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "messengers",
+   "lemma": "messenger",
+   "pos": "n.",
+   "zh": "信使；使者",
+   "drop": false
+  }
+ ]
 }

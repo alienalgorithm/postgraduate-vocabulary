@@ -1265,5 +1265,519 @@
   "illustration": "314e920ef5867382273fac6f00cb995bfb98a6969ce7713dc8e6b3babcac7de2"
  },
  "book_order_v4": "24",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "converted",
+   "lemma": "converted",
+   "pos": "adj.",
+   "zh": "改装的；改造过的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tanker",
+   "lemma": "tanker",
+   "pos": "n.",
+   "zh": "油轮",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "slipped out of",
+   "lemma": "slip out of",
+   "pos": "phr.",
+   "zh": "悄悄离开；（船）悄然驶离",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "clamped",
+   "lemma": "clamp",
+   "pos": "vt.",
+   "zh": "夹紧；（用夹具）固定",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "containers",
+   "lemma": "container",
+   "pos": "n.",
+   "zh": "集装箱",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "trailer",
+   "lemma": "trailer",
+   "pos": "n.",
+   "zh": "挂车；拖车",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "detached from",
+   "lemma": "detach sth from sth",
+   "pos": "phr.",
+   "zh": "把……从……上拆下",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "wheels",
+   "lemma": "wheel",
+   "pos": "n.",
+   "zh": "车轮；轮子",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "chassis",
+   "lemma": "chassis",
+   "pos": "n.",
+   "zh": "底盘；车架",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "spectators",
+   "lemma": "spectator",
+   "pos": "n.",
+   "zh": "旁观者；观众",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "unremarkable",
+   "lemma": "unremarkable",
+   "pos": "adj.",
+   "zh": "平淡无奇的；不起眼的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "cargo",
+   "lemma": "cargo",
+   "pos": "n.",
+   "zh": "货物",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "landmark",
+   "lemma": "landmark",
+   "pos": "n.",
+   "zh": "里程碑；划时代的事件",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "freight",
+   "lemma": "freight",
+   "pos": "n.",
+   "zh": "（运输的）货物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "loose",
+   "lemma": "loose",
+   "pos": "adj.",
+   "zh": "散装的；未包装的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "gangs",
+   "lemma": "gang",
+   "pos": "n.",
+   "zh": "（一起干活的）一帮人",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "dockworkers",
+   "lemma": "dockworker",
+   "pos": "n.",
+   "zh": "码头工人",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "sacks",
+   "lemma": "sack",
+   "pos": "n.",
+   "zh": "麻袋；大袋子",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "barrels",
+   "lemma": "barrel",
+   "pos": "n.",
+   "zh": "桶；木桶",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "crates",
+   "lemma": "crate",
+   "pos": "n.",
+   "zh": "板条箱；大木箱",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "strenuous",
+   "lemma": "strenuous",
+   "pos": "adj.",
+   "zh": "繁重的；费力的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "drudgery",
+   "lemma": "drudgery",
+   "pos": "n.",
+   "zh": "苦差事；单调乏味的苦活",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "up to",
+   "lemma": "up to",
+   "pos": "prep.",
+   "zh": "多达；至多",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "berthed",
+   "lemma": "berth",
+   "pos": "vt.",
+   "zh": "（使）停泊；停靠",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "theft",
+   "lemma": "theft",
+   "pos": "n.",
+   "zh": "偷窃；盗窃",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rampant",
+   "lemma": "rampant",
+   "pos": "adj.",
+   "zh": "猖獗的；泛滥的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "loading",
+   "lemma": "load",
+   "pos": "vt.",
+   "zh": "装载；装货",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "by reckoning",
+   "lemma": "by one's reckoning",
+   "pos": "phr.",
+   "zh": "据某人估算；按某人计算",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hurdle",
+   "lemma": "hurdle",
+   "pos": "n.",
+   "zh": "障碍；难关",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "consensus",
+   "lemma": "consensus",
+   "pos": "n.",
+   "zh": "共识；一致意见",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rival",
+   "lemma": "rival",
+   "pos": "adj.",
+   "zh": "相互竞争的；对立的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "incompatible",
+   "lemma": "incompatible",
+   "pos": "adj.",
+   "zh": "不兼容的；互不相容的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "dimensions",
+   "lemma": "dimension",
+   "pos": "n.",
+   "zh": "尺寸；大小",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "latches",
+   "lemma": "latch",
+   "pos": "n.",
+   "zh": "门闩；锁扣",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "international standards",
+   "lemma": "international standard",
+   "pos": "n.",
+   "zh": "国际标准",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "patents",
+   "lemma": "patent",
+   "pos": "n.",
+   "zh": "专利；专利权",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "royalties",
+   "lemma": "royalty",
+   "pos": "n.",
+   "zh": "专利使用费；特许使用费",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fittings",
+   "lemma": "fitting",
+   "pos": "n.",
+   "zh": "配件；附件",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hoisting",
+   "lemma": "hoist",
+   "pos": "vt.",
+   "zh": "吊起；升起",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "crane",
+   "lemma": "crane",
+   "pos": "n.",
+   "zh": "起重机；吊机",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "transferred",
+   "lemma": "transfer",
+   "pos": "vt.",
+   "zh": "转运；转移",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "smoothly",
+   "lemma": "smoothly",
+   "pos": "adv.",
+   "zh": "顺畅地；顺利地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "lorry",
+   "lemma": "lorry",
+   "pos": "n.",
+   "zh": "卡车；货车",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "efficiency",
+   "lemma": "efficiency",
+   "pos": "n.",
+   "zh": "效率",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "at the expense of",
+   "lemma": "at the expense of",
+   "pos": "prep.",
+   "zh": "以……为代价",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "livelihoods",
+   "lemma": "livelihood",
+   "pos": "n.",
+   "zh": "生计；谋生之道",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "waterfront",
+   "lemma": "waterfront",
+   "pos": "n.",
+   "zh": "海滨区；码头区",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "employment",
+   "lemma": "employment",
+   "pos": "n.",
+   "zh": "就业；就业人数",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "shrank",
+   "lemma": "shrink",
+   "pos": "vi.",
+   "zh": "缩减；减少",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "terminal",
+   "lemma": "terminal",
+   "pos": "n.",
+   "zh": "码头；货运站",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "inaugurated",
+   "lemma": "inaugurate",
+   "pos": "vt.",
+   "zh": "正式启用；为……揭幕",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "historic",
+   "lemma": "historic",
+   "pos": "adj.",
+   "zh": "历史悠久的；有历史意义的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "docks",
+   "lemma": "dock",
+   "pos": "n.",
+   "zh": "码头；船坞",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "expanded",
+   "lemma": "expand",
+   "pos": "vi.",
+   "zh": "扩张；扩大",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "rewards",
+   "lemma": "reward",
+   "pos": "n.",
+   "zh": "回报；好处",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "substantial",
+   "lemma": "substantial",
+   "pos": "adj.",
+   "zh": "可观的；大量的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "Economics",
+   "lemma": "economics",
+   "pos": "n.",
+   "zh": "经济学",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "industrialised",
+   "lemma": "industrialised",
+   "pos": "adj.",
+   "zh": "工业化的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cumulative",
+   "lemma": "cumulative",
+   "pos": "adj.",
+   "zh": "累计的；累积的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "tireless",
+   "lemma": "tireless",
+   "pos": "adj.",
+   "zh": "不知疲倦的；孜孜不倦的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "identical",
+   "lemma": "identical",
+   "pos": "adj.",
+   "zh": "完全相同的；一模一样的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "orderly",
+   "lemma": "orderly",
+   "pos": "adj.",
+   "zh": "整齐的；有条理的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "immense",
+   "lemma": "immense",
+   "pos": "adj.",
+   "zh": "巨大的；极大的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "stacks",
+   "lemma": "stack",
+   "pos": "n.",
+   "zh": "（整齐的）一堆；垛",
+   "drop": false
+  }
+ ]
 }

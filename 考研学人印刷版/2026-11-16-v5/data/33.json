@@ -1319,5 +1319,511 @@
   "illustration": "552641a409c41bb13cf1f0f1f8126baa275305c9903f34171a1e9798a5ecd8b8"
  },
  "book_order_v4": "33",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "Moscow",
+   "lemma": "Moscow",
+   "pos": "n.",
+   "zh": "莫斯科",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "coder",
+   "lemma": "coder",
+   "pos": "n.",
+   "zh": "程序员；编写代码的人",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "engrossed in",
+   "lemma": "engrossed in",
+   "pos": "adj.",
+   "zh": "全神贯注的；沉浸于……的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "diversion",
+   "lemma": "diversion",
+   "pos": "n.",
+   "zh": "消遣；娱乐",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "primitive",
+   "lemma": "primitive",
+   "pos": "adj.",
+   "zh": "简陋的；原始的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "purely",
+   "lemma": "purely",
+   "pos": "adv.",
+   "zh": "纯粹地；完全地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "textual",
+   "lemma": "textual",
+   "pos": "adj.",
+   "zh": "文本的；文字的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "geometric",
+   "lemma": "geometric",
+   "pos": "adj.",
+   "zh": "几何的；几何图形的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tiles",
+   "lemma": "tile",
+   "pos": "n.",
+   "zh": "小方块；（游戏中的）小格",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "assembled from",
+   "lemma": "be assembled from",
+   "pos": "phr.",
+   "zh": "由……拼装而成",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "characters",
+   "lemma": "character",
+   "pos": "n.",
+   "zh": "字符；符号",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "addictive",
+   "lemma": "addictive",
+   "pos": "adj.",
+   "zh": "使人上瘾的；令人着迷的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "Tetris",
+   "lemma": "Tetris",
+   "pos": "n.",
+   "zh": "俄罗斯方块",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "fusion",
+   "lemma": "fusion",
+   "pos": "n.",
+   "zh": "融合；结合",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "Greek",
+   "lemma": "Greek",
+   "pos": "adj.",
+   "zh": "希腊语的；希腊的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "pastime",
+   "lemma": "pastime",
+   "pos": "n.",
+   "zh": "消遣；娱乐",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "salaried",
+   "lemma": "salaried",
+   "pos": "adj.",
+   "zh": "领薪水的；拿固定工资的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "designer",
+   "lemma": "designer",
+   "pos": "n.",
+   "zh": "设计者；设计师",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "proprietor",
+   "lemma": "proprietor",
+   "pos": "n.",
+   "zh": "所有者；所有人",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "intellectual property",
+   "lemma": "intellectual property",
+   "pos": "n.",
+   "zh": "知识产权",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "entitlement",
+   "lemma": "entitlement",
+   "pos": "n.",
+   "zh": "权利；资格",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mushroomed",
+   "lemma": "mushroom",
+   "pos": "vi.",
+   "zh": "迅速增长；大量涌现",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "freely",
+   "lemma": "freely",
+   "pos": "adv.",
+   "zh": "不受限制地；自由地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "floppy disks",
+   "lemma": "floppy disk",
+   "pos": "n.",
+   "zh": "软盘",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Eastern bloc",
+   "lemma": "Eastern bloc",
+   "pos": "n.",
+   "zh": "东欧集团",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "enterprising",
+   "lemma": "enterprising",
+   "pos": "adj.",
+   "zh": "有进取心的；有事业心的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "software",
+   "lemma": "software",
+   "pos": "n.",
+   "zh": "软件",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "vendor",
+   "lemma": "vendor",
+   "pos": "n.",
+   "zh": "销售商；供应商",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "stumbled upon",
+   "lemma": "stumble upon",
+   "pos": "phr.",
+   "zh": "偶然碰到；偶然发现",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "Hungary",
+   "lemma": "Hungary",
+   "pos": "n.",
+   "zh": "匈牙利",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "in ignorance of",
+   "lemma": "in ignorance of",
+   "pos": "prep.",
+   "zh": "对……一无所知",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "state bureau",
+   "lemma": "state bureau",
+   "pos": "n.",
+   "zh": "国家机关；政府部门",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "regulating",
+   "lemma": "regulate",
+   "pos": "vt.",
+   "zh": "监管；管理",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hastily",
+   "lemma": "hastily",
+   "pos": "adv.",
+   "zh": "草率地；匆忙地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hawked",
+   "lemma": "hawk",
+   "pos": "vt.",
+   "zh": "兜售；叫卖",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "legitimately",
+   "lemma": "legitimately",
+   "pos": "adv.",
+   "zh": "合法地；正当地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "shuffled",
+   "lemma": "shuffle",
+   "pos": "vt.",
+   "zh": "转来转去；调来调去",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "onward",
+   "lemma": "onward",
+   "pos": "adv.",
+   "zh": "向前；继续往下",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "chaotic",
+   "lemma": "chaotic",
+   "pos": "adj.",
+   "zh": "混乱的；杂乱无章的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "muddle",
+   "lemma": "muddle",
+   "pos": "n.",
+   "zh": "混乱；一团糟",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "overlapping",
+   "lemma": "overlapping",
+   "pos": "adj.",
+   "zh": "重叠的；交叠的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "magnate",
+   "lemma": "magnate",
+   "pos": "n.",
+   "zh": "大亨；巨头",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "resourceful",
+   "lemma": "resourceful",
+   "pos": "adj.",
+   "zh": "足智多谋的；机敏的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "publisher",
+   "lemma": "publisher",
+   "pos": "n.",
+   "zh": "发行商；出版商",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "visa",
+   "lemma": "visa",
+   "pos": "n.",
+   "zh": "签证",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "found his way to",
+   "lemma": "find one's way to",
+   "pos": "phr.",
+   "zh": "设法找到；设法到达",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "hectic",
+   "lemma": "hectic",
+   "pos": "adj.",
+   "zh": "忙乱的；紧张忙碌的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "negotiations",
+   "lemma": "negotiation",
+   "pos": "n.",
+   "zh": "谈判；协商",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "bidder",
+   "lemma": "bidder",
+   "pos": "n.",
+   "zh": "竞标者；出价人",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "fondness",
+   "lemma": "fondness",
+   "pos": "n.",
+   "zh": "好感；喜爱",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "Nintendo",
+   "lemma": "Nintendo",
+   "pos": "n.",
+   "zh": "任天堂",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "scooped",
+   "lemma": "scoop",
+   "pos": "vt.",
+   "zh": "抢先获得；抢到",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "console",
+   "lemma": "console",
+   "pos": "n.",
+   "zh": "游戏主机；游戏机",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "bundled",
+   "lemma": "bundle",
+   "pos": "vt.",
+   "zh": "捆绑（销售）；搭配提供",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "pocket-sized",
+   "lemma": "pocket-sized",
+   "pos": "adj.",
+   "zh": "袖珍的；口袋大小的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "version",
+   "lemma": "version",
+   "pos": "n.",
+   "zh": "版本",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "reaped",
+   "lemma": "reap",
+   "pos": "vt.",
+   "zh": "获得；收获",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "spoils",
+   "lemma": "spoils",
+   "pos": "n.",
+   "zh": "战利品；收益",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "earnings",
+   "lemma": "earnings",
+   "pos": "n.",
+   "zh": "收入；收益",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "arrangement",
+   "lemma": "arrangement",
+   "pos": "n.",
+   "zh": "协议；约定",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "expiry",
+   "lemma": "expiry",
+   "pos": "n.",
+   "zh": "期满；到期",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "founded",
+   "lemma": "found",
+   "pos": "vt.",
+   "zh": "成立；创办",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "puzzle",
+   "lemma": "puzzle",
+   "pos": "n.",
+   "zh": "益智游戏；智力玩具",
+   "drop": false
+  }
+ ]
 }

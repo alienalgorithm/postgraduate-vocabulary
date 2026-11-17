@@ -1031,5 +1031,431 @@
   "illustration": "160330cda7c96333616aa1e6ae655d113fec929d1d3e9fc3f9873fe30a44cfd9"
  },
  "book_order_v4": "07",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "trainer",
+   "lemma": "trainer",
+   "pos": "n.",
+   "zh": "驯兽师；（动物的）训练者",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "stallion",
+   "lemma": "stallion",
+   "pos": "n.",
+   "zh": "公马；种马",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "calculate",
+   "lemma": "calculate",
+   "pos": "vt.",
+   "zh": "计算；核算",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "subtraction",
+   "lemma": "subtraction",
+   "pos": "n.",
+   "zh": "减法",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "hoof",
+   "lemma": "hoof",
+   "pos": "n.",
+   "zh": "（马、牛等的）蹄",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "aptitude",
+   "lemma": "aptitude",
+   "pos": "n.",
+   "zh": "天资；才能",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "brilliance",
+   "lemma": "brilliance",
+   "pos": "n.",
+   "zh": "才华；聪慧",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "demonstrations",
+   "lemma": "demonstration",
+   "pos": "n.",
+   "zh": "演示；展示",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "courtyard",
+   "lemma": "courtyard",
+   "pos": "n.",
+   "zh": "庭院；院子",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "intelligent",
+   "lemma": "intelligent",
+   "pos": "adj.",
+   "zh": "聪明的；有智力的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "stunning",
+   "lemma": "stunning",
+   "pos": "adj.",
+   "zh": "令人惊叹的；绝妙的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "commission",
+   "lemma": "commission",
+   "pos": "n.",
+   "zh": "委员会",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "investigate",
+   "lemma": "investigate",
+   "pos": "vi.",
+   "zh": "调查",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "veterinarian",
+   "lemma": "veterinarian",
+   "pos": "n.",
+   "zh": "兽医",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "cavalry",
+   "lemma": "cavalry",
+   "pos": "n.",
+   "zh": "骑兵；骑兵部队",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "zoological",
+   "lemma": "zoological",
+   "pos": "adj.",
+   "zh": "动物的；动物学的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "trickery",
+   "lemma": "trickery",
+   "pos": "n.",
+   "zh": "诡计；欺骗",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "collusion",
+   "lemma": "collusion",
+   "pos": "n.",
+   "zh": "串通；勾结",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "deception",
+   "lemma": "deception",
+   "pos": "n.",
+   "zh": "欺骗；骗局",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "certifying",
+   "lemma": "certify",
+   "pos": "vt.",
+   "zh": "证明；证实",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "authentic",
+   "lemma": "authentic",
+   "pos": "adj.",
+   "zh": "真实的；可信的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "psychologist",
+   "lemma": "psychologist",
+   "pos": "n.",
+   "zh": "心理学家",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "systematically",
+   "lemma": "systematically",
+   "pos": "adv.",
+   "zh": "系统地；有条理地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "variable",
+   "lemma": "variable",
+   "pos": "n.",
+   "zh": "变量；可变因素",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rotated",
+   "lemma": "rotate",
+   "pos": "vt.",
+   "zh": "轮换；使轮流",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "questioners",
+   "lemma": "questioner",
+   "pos": "n.",
+   "zh": "提问者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "blinders",
+   "lemma": "blinder",
+   "pos": "n.",
+   "zh": "（马的）眼罩",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ignorant",
+   "lemma": "ignorant",
+   "pos": "adj.",
+   "zh": "不知道的；不了解的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "correctly",
+   "lemma": "correctly",
+   "pos": "adv.",
+   "zh": "正确地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "invisible",
+   "lemma": "invisible",
+   "pos": "adj.",
+   "zh": "看不见的；不可见的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "accuracy",
+   "lemma": "accuracy",
+   "pos": "n.",
+   "zh": "准确率；准确性",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "cues",
+   "lemma": "cue",
+   "pos": "n.",
+   "zh": "提示；暗示",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "lean",
+   "lemma": "lean",
+   "pos": "vi.",
+   "zh": "倾身；（身体）倾斜",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "tension",
+   "lemma": "tension",
+   "pos": "n.",
+   "zh": "（精神上的）紧张",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "straighten",
+   "lemma": "straighten",
+   "pos": "vi.",
+   "zh": "挺直；直起身",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "jerk",
+   "lemma": "jerk",
+   "pos": "vt.",
+   "zh": "使猛地一动；猛然移动",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "gesture",
+   "lemma": "gesture",
+   "pos": "n.",
+   "zh": "手势；姿势",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "motion",
+   "lemma": "motion",
+   "pos": "n.",
+   "zh": "动作；举动",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "subconscious",
+   "lemma": "subconscious",
+   "pos": "adj.",
+   "zh": "下意识的；潜意识的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unwittingly",
+   "lemma": "unwittingly",
+   "pos": "adv.",
+   "zh": "不知情地；不知不觉地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "deceive",
+   "lemma": "deceive",
+   "pos": "vi.",
+   "zh": "欺骗；行骗",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "double-blind",
+   "lemma": "double-blind",
+   "pos": "adj.",
+   "zh": "双盲的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "psychology",
+   "lemma": "psychology",
+   "pos": "n.",
+   "zh": "心理学",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cognition",
+   "lemma": "cognition",
+   "pos": "n.",
+   "zh": "认知",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "guard against",
+   "lemma": "guard against",
+   "pos": "phr.",
+   "zh": "防范；防止",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "phenomenon",
+   "lemma": "phenomenon",
+   "pos": "n.",
+   "zh": "现象",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "bias",
+   "lemma": "bias",
+   "pos": "n.",
+   "zh": "偏差；偏倚",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "expectancy",
+   "lemma": "expectancy",
+   "pos": "n.",
+   "zh": "预期；期待",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "behavioural",
+   "lemma": "behavioural",
+   "pos": "adj.",
+   "zh": "行为的；与行为有关的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sensitive",
+   "lemma": "sensitive",
+   "pos": "adj.",
+   "zh": "敏感的；灵敏的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "attentive",
+   "lemma": "attentive",
+   "pos": "adj.",
+   "zh": "专注的；留心的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "jeweller",
+   "lemma": "jeweller",
+   "pos": "n.",
+   "zh": "珠宝商",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "reasoned",
+   "lemma": "reason",
+   "pos": "vi.",
+   "zh": "推理；思考",
+   "drop": false
+  }
+ ]
 }
