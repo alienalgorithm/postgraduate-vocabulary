@@ -1,0 +1,1913 @@
+[
+ {
+  "id": 31,
+  "headword": "widely",
+  "ipa_uk": "/ˈwaɪdli/",
+  "ipa_us": "/ˈwaɪdli/",
+  "pos": "adv.",
+  "form_note": "文中为原形。",
+  "context_usage": "widely 在过去分词短语 now widely called the Turing test 中作状语，修饰 called，说明“称为图灵测试”这一叫法流传范围之广。now 与 1950 年对照，widely 强调今天大多数人都这样称呼它，所以视频取“普遍”，译为“如今普遍称为图灵测试”。",
+  "etymology": "由形容词 wide（宽的，广的）加副词后缀 -ly 构成。wide 来自古英语 wid，意为“广阔的，宽阔的”。",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "普遍地，广泛地（本文义）"
+   },
+   {
+    "pos": "adv.",
+    "zh": "（程度、范围）差别大地"
+   },
+   {
+    "pos": "adv.",
+    "zh": "（游历、阅读等）广泛地，涉及面广地"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "widely known / used",
+    "zh": "广为人知 / 被广泛使用"
+   },
+   {
+    "en": "be widely regarded as",
+    "zh": "被普遍认为是"
+   },
+   {
+    "en": "vary widely",
+    "zh": "差异很大"
+   },
+   {
+    "en": "read / travel widely",
+    "zh": "博览群书 / 游历甚广"
+   }
+  ],
+  "usage_detail": "副词，常放在过去分词前修饰被动结构，如 widely accepted、widely reported、widely believed，这类搭配在考研阅读中极为常见，用来表示某种观点或做法的普遍性。vary widely 表示“差异很大”，widely 修饰程度。作者用 It is widely believed that… 引出的往往是一般看法，后文常加以反驳，阅读时要留意。",
+  "distinction": "widely 与 wide：wide 作副词表示“充分地，张大地”，用于少数固定搭配，如 wide open（敞开的）、wide awake（完全清醒的）、far and wide（到处）；widely 表示“广泛地，普遍地”，多修饰动词或过去分词。",
+  "related": [
+   {
+    "en": "wide",
+    "pos": "adj.",
+    "zh": "宽的；广泛的"
+   },
+   {
+    "en": "widen",
+    "pos": "v.",
+    "zh": "加宽，扩大"
+   },
+   {
+    "en": "width",
+    "pos": "n.",
+    "zh": "宽度"
+   },
+   {
+    "en": "widespread",
+    "pos": "adj.",
+    "zh": "广泛的，普遍的"
+   }
+  ],
+  "example": {
+   "en": "The drug is widely used to treat high blood pressure.",
+   "zh": "这种药被广泛用于治疗高血压。"
+  }
+ },
+ {
+  "id": 32,
+  "headword": "interrogator",
+  "ipa_uk": "/ɪnˈterəɡeɪtə(r)/",
+  "ipa_us": "/ɪnˈterəɡeɪtər/",
+  "pos": "n.",
+  "form_note": "文中为原形（单数，前有不定冠词 An）。",
+  "context_usage": "An interrogator 是全句主语，谓语是 exchanges。在模仿游戏中，这个人要通过一系列提问，判断两名隐藏的参与者哪个是人、哪个是机器，任务是追问和甄别，interrogator 正是图灵原文对这一角色的称呼，所以视频取“审问者”。下一句用 the interrogator 回指同一个人。",
+  "etymology": "由动词 interrogate 加表示“人”的后缀 -or 构成。interrogate 来自拉丁语 interrogare（询问，盘问），由 inter-（在……之间）和 rogare（问，请求）构成。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "审问者，讯问者（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "提问者"
+   },
+   {
+    "pos": "n.",
+    "zh": "（无线电）询问器"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "a skilled interrogator",
+    "zh": "老练的审问者"
+   },
+   {
+    "en": "military / police interrogators",
+    "zh": "军方 / 警方讯问人员"
+   },
+   {
+    "en": "be questioned by interrogators",
+    "zh": "接受讯问人员的盘问"
+   }
+  ],
+  "usage_detail": "可数名词。日常语境中多指警方、军方或情报机构中负责审讯的人员；在图灵测试的讨论中是固定术语，指负责提问和判断的一方。动词 interrogate 意为“审问，盘问”，也可用于比喻，如 interrogate the data（仔细分析数据）。名词 interrogation 意为“审问”；形容词 interrogative 意为“疑问的”，语法中 interrogative sentence 即“疑问句”。",
+  "distinction": "interrogate、question 与 cross-examine：question 是一般的“询问，盘问”；interrogate 指长时间、系统地审问，常带有强迫意味；cross-examine 专指法庭上对对方证人的“交叉询问”。",
+  "related": [
+   {
+    "en": "interrogate",
+    "pos": "v.",
+    "zh": "审问，盘问"
+   },
+   {
+    "en": "interrogation",
+    "pos": "n.",
+    "zh": "审问，讯问"
+   },
+   {
+    "en": "interrogative",
+    "pos": "adj.",
+    "zh": "疑问的"
+   }
+  ],
+  "example": {
+   "en": "The suspect refused to answer any of the interrogator's questions without a lawyer present.",
+   "zh": "嫌疑人拒绝在律师不在场的情况下回答讯问人员的任何问题。"
+  }
+ },
+ {
+  "id": 33,
+  "headword": "concealed",
+  "ipa_uk": "/kənˈsiːld/",
+  "ipa_us": "/kənˈsiːld/",
+  "pos": "adj.",
+  "form_note": "文中为原形（形容词，由动词 conceal 的过去分词转化而来）。",
+  "context_usage": "concealed 在 two concealed players 中作前置定语，修饰 players，整个短语作介词 with 的宾语。游戏中的两名参与者与提问者隔开，提问者看不到他们，只能靠文字判断，concealed 表示被动意义“被隐藏起来的”，所以视频取“隐藏起来的”。隐藏身份是测试成立的前提：判断只能依据回答的内容。",
+  "etymology": "来自动词 conceal，conceal 经古法语 conceler 来自拉丁语 concelare（隐藏），由表示加强语气的 con- 和 celare（隐藏）构成。",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "隐藏的，隐蔽的（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（conceal）隐藏，藏匿"
+   },
+   {
+    "pos": "v.",
+    "zh": "（conceal）掩盖，隐瞒（情感、事实）"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "a concealed camera / weapon",
+    "zh": "隐藏的摄像头 / 武器"
+   },
+   {
+    "en": "conceal the truth",
+    "zh": "隐瞒真相"
+   },
+   {
+    "en": "conceal one's disappointment",
+    "zh": "掩饰失望"
+   },
+   {
+    "en": "conceal sth from sb",
+    "zh": "对某人隐瞒某事"
+   }
+  ],
+  "usage_detail": "concealed 作形容词，多作前置定语，如 concealed lighting（隐蔽式照明）。动词 conceal 是及物动词，常用 conceal sth from sb，宾语可以是物体，也可以是情感、事实、身份，比 hide 正式。名词 concealment 意为“隐藏，隐瞒”。考研阅读涉及法律、政治话题时常见 conceal evidence（隐匿证据）、conceal information（隐瞒信息）等表达。",
+  "distinction": "conceal 与 hide：hide 最常用，可以是及物或不及物（hide behind the door）；conceal 只作及物动词，较正式，常强调有意不让别人发现或知道，如 conceal the fact that…。",
+  "related": [
+   {
+    "en": "conceal",
+    "pos": "v.",
+    "zh": "隐藏；隐瞒"
+   },
+   {
+    "en": "concealment",
+    "pos": "n.",
+    "zh": "隐藏；隐瞒"
+   },
+   {
+    "en": "unconcealed",
+    "pos": "adj.",
+    "zh": "毫不掩饰的"
+   }
+  ],
+  "example": {
+   "en": "Investigators found a concealed compartment in the back of the van.",
+   "zh": "调查人员在货车后部发现了一个隐藏的夹层。"
+  }
+ },
+ {
+  "id": 34,
+  "headword": "consistently",
+  "ipa_uk": "/kənˈsɪstəntli/",
+  "ipa_us": "/kənˈsɪstəntli/",
+  "pos": "adv.",
+  "form_note": "文中为原形。",
+  "context_usage": "consistently 在条件状语从句中作状语，修饰 distinguish，插在 cannot 与 distinguish 之间。consistently 指每次都一样、稳定不变，所以视频取“始终如一地”。它与 cannot 连用构成部分否定：提问者做不到每次都分清人和机器，机器就算通过，概述中说的“若不能稳定分清”正是这个意思。",
+  "etymology": "由形容词 consistent 加 -ly 构成。consistent 来自拉丁语 consistere（站稳，保持不变），由 con-（一起）和 sistere（站立）构成，引申为“前后一致的”。consist（由……组成）同源。",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "始终如一地，一贯地（本文义）"
+   },
+   {
+    "pos": "adv.",
+    "zh": "前后一致地，不矛盾地"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "consistently high standards",
+    "zh": "始终如一的高标准"
+   },
+   {
+    "en": "perform consistently well",
+    "zh": "一贯表现出色"
+   },
+   {
+    "en": "consistently rank among the best",
+    "zh": "一直名列前茅"
+   },
+   {
+    "en": "consistently deny sth",
+    "zh": "一贯否认某事"
+   }
+  ],
+  "usage_detail": "副词，常放在动词、形容词或过去分词前，如 consistently outperform、consistently low。与否定词连用时构成部分否定，表示“并非每次都”，阅读时要注意与全部否定区分。形容词 consistent 常用 be consistent with（与……一致），反义词 inconsistent；名词 consistency 意为“一致性，稳定性”，也可指液体的“浓稠度”。",
+  "distinction": "consistently、constantly 与 persistently：constantly 强调频繁、不断地发生；consistently 强调表现或质量稳定、始终如一；persistently 强调执意地、反复地持续，常带贬义，如 persistently late。",
+  "related": [
+   {
+    "en": "consistent",
+    "pos": "adj.",
+    "zh": "一致的；始终如一的"
+   },
+   {
+    "en": "consistency",
+    "pos": "n.",
+    "zh": "一致性；浓稠度"
+   },
+   {
+    "en": "inconsistent",
+    "pos": "adj.",
+    "zh": "不一致的；前后矛盾的"
+   },
+   {
+    "en": "consist",
+    "pos": "v.",
+    "zh": "（consist of）由……组成"
+   }
+  ],
+  "example": {
+   "en": "The hospital has consistently ranked among the best in the country for patient care.",
+   "zh": "这家医院的病人护理水平一直位居全国前列。"
+  }
+ },
+ {
+  "id": 35,
+  "headword": "distinguish",
+  "ipa_uk": "/dɪˈstɪŋɡwɪʃ/",
+  "ipa_us": "/dɪˈstɪŋɡwɪʃ/",
+  "pos": "v.",
+  "form_note": "文中为原形（情态动词 cannot 后接动词原形）。",
+  "context_usage": "distinguish 是条件状语从句的谓语动词，与 cannot 构成 cannot distinguish，宾语 them 指人和机器两个参与者。distinguish 指辨别两者的差别、把它们分开，提问者的任务就是分辨哪个是人、哪个是机器，所以视频取“区分出”，“出”强调辨别的结果。",
+  "etymology": "经古法语 distinguer 来自拉丁语 distinguere（分开，区别），由 dis-（分开）和 -stinguere（刺）构成，可能源于“刺点作记号以示区分”的意象。distinct（不同的）、distinction（区别）同源。",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "区分，辨别（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "使有别于，使具有特色"
+   },
+   {
+    "pos": "v.",
+    "zh": "看清，辨认出"
+   },
+   {
+    "pos": "v.",
+    "zh": "（distinguish oneself）使出众，使扬名"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "distinguish between A and B",
+    "zh": "区分 A 和 B"
+   },
+   {
+    "en": "distinguish A from B",
+    "zh": "把 A 与 B 区分开"
+   },
+   {
+    "en": "what distinguishes A from B",
+    "zh": "A 不同于 B 之处"
+   },
+   {
+    "en": "distinguish oneself in battle",
+    "zh": "在战斗中表现出众"
+   }
+  ],
+  "usage_detail": "可作及物或不及物动词：distinguish A from B、distinguish between A and B，也可直接接复数宾语，如 distinguish the twins。What distinguishes humans from other animals is… 是考研写作中引出特征的常用句式。形容词 distinguished 意为“杰出的，著名的”，distinctive 意为“有特色的”，distinguishable 意为“可区分的”，形近义异，要注意区分。",
+  "distinction": "distinguish、differentiate 与 discriminate：distinguish 最常用，指看出或说出差别；differentiate 较正式，强调找出具体差异，也可指“使不同”；discriminate 既可指“辨别”，更常用于贬义“歧视”，如 discriminate against women。",
+  "related": [
+   {
+    "en": "distinction",
+    "pos": "n.",
+    "zh": "区别；卓越"
+   },
+   {
+    "en": "distinctive",
+    "pos": "adj.",
+    "zh": "有特色的，与众不同的"
+   },
+   {
+    "en": "distinguished",
+    "pos": "adj.",
+    "zh": "杰出的，著名的"
+   },
+   {
+    "en": "indistinguishable",
+    "pos": "adj.",
+    "zh": "无法区分的"
+   }
+  ],
+  "example": {
+   "en": "Many shoppers cannot distinguish genuine reviews from fake ones written by paid agents.",
+   "zh": "许多购物者分辨不出真实的评论和收钱代写的虚假评论。"
+  }
+ },
+ {
+  "id": 36,
+  "headword": "exceptional",
+  "ipa_uk": "/ɪkˈsepʃənl/",
+  "ipa_us": "/ɪkˈsepʃənl/",
+  "pos": "adj.",
+  "form_note": "文中为原形。",
+  "context_usage": "exceptional 在 His exceptional wartime contribution 中作前置定语，修饰 contribution，整个短语作全句主语。exceptional 指远超一般水平，这里评价图灵破译恩尼格玛的战时贡献，是褒义，所以视频取“杰出的”。“杰出的贡献”与谓语 did not protect him 形成强烈反差，引出第四段的遭遇。",
+  "etymology": "由 exception 加 -al 构成。exception 来自拉丁语 exceptio，源于 excipere（取出，除去），由 ex-（出）和 capere（拿，取）构成。“被取出来、与众不同”既可以指“例外的”，也可以指“出类拔萃的”。",
+  "senses": [
+   {
+    "pos": "adj.",
+    "zh": "杰出的，卓越的（本文义）"
+   },
+   {
+    "pos": "adj.",
+    "zh": "例外的，特殊的，罕见的"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "exceptional talent / ability",
+    "zh": "非凡的才能 / 能力"
+   },
+   {
+    "en": "in exceptional circumstances",
+    "zh": "在特殊情况下"
+   },
+   {
+    "en": "an exceptional case",
+    "zh": "特例"
+   },
+   {
+    "en": "exceptional performance",
+    "zh": "出色的表现"
+   }
+  ],
+  "usage_detail": "形容词，可作定语和表语。修饰能力、表现、品质时是褒义，意为“杰出的”；修饰情况、案例时意为“例外的，特殊的”，如 Refunds are given only in exceptional circumstances。副词 exceptionally 意为“非常，格外”，如 exceptionally warm weather。反义词 unexceptional 意为“平常的，普通的”。教育话题中 exceptional children 可以指天赋异禀或有特殊需要的儿童，阅读时需结合上下文。",
+  "distinction": "exceptional、outstanding 与 extraordinary：outstanding 指在同类中格外突出、出众；exceptional 强调超出常规，罕见地好；extraordinary 指非同寻常，可以是好的也可以是令人惊讶的。",
+  "related": [
+   {
+    "en": "exception",
+    "pos": "n.",
+    "zh": "例外"
+   },
+   {
+    "en": "exceptionally",
+    "pos": "adv.",
+    "zh": "异常地，格外"
+   },
+   {
+    "en": "unexceptional",
+    "pos": "adj.",
+    "zh": "平常的，普通的"
+   },
+   {
+    "en": "except",
+    "pos": "prep.",
+    "zh": "除……之外"
+   }
+  ],
+  "example": {
+   "en": "She showed exceptional courage in reporting the corruption to the authorities.",
+   "zh": "她向当局举报腐败行为，表现出非凡的勇气。"
+  }
+ },
+ {
+  "id": 37,
+  "headword": "wartime",
+  "ipa_uk": "/ˈwɔːtaɪm/",
+  "ipa_us": "/ˈwɔːrtaɪm/",
+  "pos": "n.",
+  "form_note": "文中为原形，作定语修饰 contribution。",
+  "context_usage": "wartime 在 His exceptional wartime contribution 中是名词作定语，修饰 contribution，说明贡献所属的时期，指图灵二战期间在布莱切利园的破译工作。wartime 作定语相当于“战时的”，所以视频取“战时”，译为“战时贡献”，概括了第二段的内容。",
+  "etymology": "由 war（战争）和 time（时期）合成。war 在晚期古英语中写作 werre，借自古北部法语 werre（相当于古法语 guerre），更早来自法兰克语。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "战时（本文义，作定语）"
+   },
+   {
+    "pos": "adj.",
+    "zh": "战时的"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "in wartime",
+    "zh": "在战时"
+   },
+   {
+    "en": "wartime Britain",
+    "zh": "战时的英国"
+   },
+   {
+    "en": "wartime rationing",
+    "zh": "战时配给制"
+   },
+   {
+    "en": "a wartime leader",
+    "zh": "战时领导人"
+   }
+  ],
+  "usage_detail": "作名词时不可数，常用 in wartime，不加冠词，与 in peacetime（在和平时期）相对。更常见的是作定语，如 wartime experiences、wartime propaganda（战时宣传）。表示“某一场具体战争期间”时一般说 during the war，如 during the Second World War；wartime 则泛指“战争时期”这一状态。",
+  "distinction": "wartime 与 war：war 指战争本身，可数，如 a war、the war；wartime 指战争时期，强调时间和状态，常作定语。",
+  "related": [
+   {
+    "en": "war",
+    "pos": "n.",
+    "zh": "战争"
+   },
+   {
+    "en": "peacetime",
+    "pos": "n.",
+    "zh": "和平时期"
+   },
+   {
+    "en": "postwar",
+    "pos": "adj.",
+    "zh": "战后的"
+   },
+   {
+    "en": "warfare",
+    "pos": "n.",
+    "zh": "战争；作战方式"
+   }
+  ],
+  "example": {
+   "en": "Her grandmother's letters describe wartime life in a small coastal town.",
+   "zh": "她祖母的信件描述了一座沿海小镇的战时生活。"
+  }
+ },
+ {
+  "id": 38,
+  "headword": "contribution",
+  "ipa_uk": "/ˌkɒntrɪˈbjuːʃn/",
+  "ipa_us": "/ˌkɑːntrɪˈbjuːʃn/",
+  "pos": "n.",
+  "form_note": "文中为原形（单数）。",
+  "context_usage": "contribution 是全句主语的中心词，前有 His、exceptional、wartime 三个定语。contribution 指为某项共同事业所出的力，这里指图灵对二战破译工作的贡献，所以视频取“贡献”。主语“他杰出的战时贡献”是无生命名词，作 did not protect 的主语，表达功劳没能换来保护的反讽。",
+  "etymology": "来自拉丁语 contributio，源于动词 contribuere（凑集，共同出资），由 con-（一起）和 tribuere（分配，交纳）构成。tribute（贡品，致敬）、distribute（分配）也含有 tribuere 这一词根。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "贡献（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "捐款，捐献"
+   },
+   {
+    "pos": "n.",
+    "zh": "（报刊的）稿件，投稿"
+   },
+   {
+    "pos": "n.",
+    "zh": "（定期缴纳的）款项，如养老金缴款"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "make a contribution to sth",
+    "zh": "为……作出贡献"
+   },
+   {
+    "en": "an outstanding / significant contribution",
+    "zh": "杰出的 / 重大的贡献"
+   },
+   {
+    "en": "a financial contribution",
+    "zh": "资金捐助"
+   },
+   {
+    "en": "pension contributions",
+    "zh": "养老金缴款"
+   }
+  ],
+  "usage_detail": "可数名词，常用 make a contribution to sth / to doing sth，to 是介词，后接名词或动名词，不能接动词原形，这是写作中的高频易错点。动词 contribute 用法相同：contribute to sth（促成，有助于），注意 contribute to 既可以指积极的促进，也可以指导致坏结果，如 Smoking contributes to heart disease。考研阅读的因果关系题常考 contribute to。",
+  "distinction": "contribution 与 donation：donation 专指向慈善机构等的捐赠（钱物）；contribution 范围更广，可以指出力、出钱、出主意等各种贡献。",
+  "related": [
+   {
+    "en": "contribute",
+    "pos": "v.",
+    "zh": "贡献；捐献；促成"
+   },
+   {
+    "en": "contributor",
+    "pos": "n.",
+    "zh": "贡献者；撰稿人"
+   },
+   {
+    "en": "contributory",
+    "pos": "adj.",
+    "zh": "促成的；需缴款的"
+   }
+  ],
+  "example": {
+   "en": "The award recognises her contribution to improving maternal health in rural areas.",
+   "zh": "该奖项表彰她为改善农村地区孕产妇健康所作的贡献。"
+  }
+ },
+ {
+  "id": 39,
+  "headword": "be convicted of",
+  "ipa_uk": "/bi kənˈvɪktɪd əv/",
+  "ipa_us": "/bi kənˈvɪktɪd əv/",
+  "pos": "phr.",
+  "form_note": "文中为 was convicted of，一般过去时被动语态，原形为 be convicted of。",
+  "context_usage": "was convicted of 是全句的谓语部分，主语 he，of 后接罪名 \"gross indecency\"。convict 指法院经审理判定某人有罪，被动结构 be convicted of 后接罪名（视频说明“be convicted of：被判定犯有……罪”），所以视频取“被判定犯有……罪”，译为“他被判定犯有‘严重猥亵’罪”。",
+  "etymology": "convict 来自拉丁语 convictus，是 convincere（驳倒，证明有罪）的过去分词，由表示加强的 con- 和 vincere（征服，战胜）构成。convince（使信服）与它同源，一个是“在法庭上证明有罪”，一个是“用论证使人信服”。",
+  "senses": [
+   {
+    "pos": "phr.",
+    "zh": "被判定犯有……罪（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（convict）判定……有罪"
+   },
+   {
+    "pos": "n.",
+    "zh": "（convict，读 /ˈkɒnvɪkt/）罪犯，囚犯"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "be convicted of murder / fraud",
+    "zh": "被判犯有谋杀罪 / 诈骗罪"
+   },
+   {
+    "en": "be wrongly convicted",
+    "zh": "被错判有罪"
+   },
+   {
+    "en": "a convicted criminal",
+    "zh": "已定罪的罪犯"
+   },
+   {
+    "en": "be convicted on all counts",
+    "zh": "所有罪名均被判成立"
+   }
+  ],
+  "usage_detail": "convict 多用被动 be convicted of sth，主动形式 convict sb of sth 的主语一般是陪审团或法院。介词固定用 of；对比 charge sb with sth（以……罪名起诉某人）、accuse sb of sth（指控某人……）。名词 conviction 有两个常考义项：“定罪”（a previous conviction 前科）和“坚定的信念”（speak with conviction）。反义词是 acquit（宣判无罪）。",
+  "distinction": "convict、charge 与 sentence：charge 是起诉，处于诉讼开始阶段；convict 是法院判定罪名成立；sentence 是定罪后判处刑罚，如 be sentenced to two years in prison。三者在法律程序上依次发生。",
+  "related": [
+   {
+    "en": "convict",
+    "pos": "n.",
+    "zh": "罪犯，囚犯"
+   },
+   {
+    "en": "conviction",
+    "pos": "n.",
+    "zh": "定罪；坚定的信念"
+   },
+   {
+    "en": "convince",
+    "pos": "v.",
+    "zh": "使信服"
+   }
+  ],
+  "example": {
+   "en": "The company's former director was convicted of tax evasion and fined heavily.",
+   "zh": "该公司前董事被判犯有逃税罪，并被处以巨额罚款。"
+  }
+ },
+ {
+  "id": 40,
+  "headword": "forfeit",
+  "ipa_uk": "/ˈfɔːfɪt/",
+  "ipa_us": "/ˈfɔːrfɪt/",
+  "pos": "v.",
+  "form_note": "forfeited 是 forfeit 的过去式。",
+  "context_usage": "forfeited 是第一个并列谓语，主语 He，宾语 his security clearance。forfeit 指因违规、犯罪或受罚而失去某种权利或资格，形式是主动，主语却是遭受损失的一方：图灵被定罪后，按规定失去了接触机密的资格，所以视频并列取“被剥夺/丧失了”，既体现被动遭受义，又保留“丧失”的基本义。",
+  "etymology": "来自古法语 forfet、forfait（罪行，过错），是动词 forfaire（犯罪，越轨）的过去分词形式，由 fors（在外，越出，源于拉丁语 foris）和 faire（做，源于拉丁语 facere）构成，字面义是“越界行事”。英语中名词最初指“罪行”，后来指“因过错受到的惩罚、罚没之物”；动词义为“因过错而丧失”。",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "丧失，被剥夺（权利、资格等）（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（财物）被没收"
+   },
+   {
+    "pos": "n.",
+    "zh": "罚金，被没收物"
+   },
+   {
+    "pos": "adj.",
+    "zh": "被没收的，被剥夺的"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "forfeit one's right to sth",
+    "zh": "丧失……的权利"
+   },
+   {
+    "en": "forfeit a deposit",
+    "zh": "押金被没收"
+   },
+   {
+    "en": "forfeit a match",
+    "zh": "（因违规或弃权）判负"
+   },
+   {
+    "en": "forfeit sb's trust",
+    "zh": "失去某人的信任"
+   }
+  ],
+  "usage_detail": "及物动词，主语是失去东西的一方，宾语多为权利、资格、押金、比赛等，如 Anyone who cheats will forfeit their place in the competition。虽然是主动形式，意思上含有“被剥夺”的意味，翻译时常加“被”字。名词 forfeiture 意为“没收，丧失”，多见于法律文本。注意拼写中 ei 读作 /ɪ/。",
+  "distinction": "forfeit、lose 与 sacrifice：lose 是一般的“失去”，原因不限；forfeit 强调因违规、犯错或受罚而失去；sacrifice 指为了某个目标主动放弃。",
+  "related": [
+   {
+    "en": "forfeiture",
+    "pos": "n.",
+    "zh": "没收；丧失"
+   }
+  ],
+  "example": {
+   "en": "Tenants who leave before the end of the lease may forfeit their deposit.",
+   "zh": "租期未满就搬走的租户可能会被没收押金。"
+  }
+ },
+ {
+  "id": 41,
+  "headword": "security clearance",
+  "ipa_uk": "/sɪˈkjʊərəti ˈklɪərəns/",
+  "ipa_us": "/səˈkjʊrəti ˈklɪrəns/",
+  "pos": "n. phr.",
+  "form_note": "文中为原形（名词短语，单数）。",
+  "context_usage": "security clearance 是 forfeited 的宾语，前有物主代词 his。security clearance 指政府经安全审查后授予的、可以接触机密信息的资格。图灵战时和战后都参与政府的机密工作，被定罪后失去了这一资格，所以视频取“安全许可”，译为“他的安全许可”。",
+  "etymology": "security 来自拉丁语 securitas，源于 securus（无忧的，安全的），由 se-（没有）和 cura（忧虑，照料）构成。clearance 由 clear 加名词后缀 -ance 构成，clear 经古法语 cler 来自拉丁语 clarus（明亮的，清楚的）；“许可”一义来自“扫清障碍、准予通过”。",
+  "senses": [
+   {
+    "pos": "n. phr.",
+    "zh": "（接触机密的）安全许可（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "（clearance）许可，批准"
+   },
+   {
+    "pos": "n.",
+    "zh": "（clearance）清除，清理"
+   },
+   {
+    "pos": "n.",
+    "zh": "（clearance）净空，间隙"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "hold / lose a security clearance",
+    "zh": "持有 / 失去安全许可"
+   },
+   {
+    "en": "be granted security clearance",
+    "zh": "获得安全许可"
+   },
+   {
+    "en": "customs clearance",
+    "zh": "海关放行，清关"
+   },
+   {
+    "en": "a clearance sale",
+    "zh": "清仓大甩卖"
+   }
+  ],
+  "usage_detail": "security clearance 可数也可不可数，常与 hold、have、lose、revoke（撤销）搭配，多见于政府、军事、情报语境。clearance 的其他常见用法：clearance for take-off（准许起飞）、customs clearance（清关）、slum clearance（清除贫民窟）。security 在考研阅读中也常指“保障”，如 social security（社会保障）、job security（工作保障）。",
+  "distinction": "clearance、permission 与 approval：permission 是一般的“允许”；approval 指正式“批准，赞成”；clearance 多指经过审查、检查后的正式许可，如安全审查、海关、航空管制。",
+  "related": [
+   {
+    "en": "secure",
+    "pos": "adj.",
+    "zh": "安全的；牢固的"
+   },
+   {
+    "en": "insecurity",
+    "pos": "n.",
+    "zh": "不安全；缺乏信心"
+   },
+   {
+    "en": "clear",
+    "pos": "v.",
+    "zh": "清除；准许"
+   }
+  ],
+  "example": {
+   "en": "Only staff with top-level security clearance may enter the control room.",
+   "zh": "只有持有最高级别安全许可的工作人员才能进入控制室。"
+  }
+ },
+ {
+  "id": 42,
+  "headword": "avert",
+  "ipa_uk": "/əˈvɜːt/",
+  "ipa_us": "/əˈvɜːrt/",
+  "pos": "v.",
+  "form_note": "文中为原形（不定式 to avert）。",
+  "context_usage": "avert 出现在不定式短语 to avert imprisonment 中，imprisonment 是它的宾语，整个短语作目的状语，插在 and 与 submitted to 之间。avert 指采取行动使即将发生的坏事不发生，图灵面临入狱，为此接受了激素注射，所以视频取“避免”，译为“为了避免入狱”。",
+  "etymology": "来自拉丁语 avertere（转开，避开），由 a-（ab-，离开）和 vertere（转）构成，字面义是“转向别处”。由此产生“转移（目光）”和“避免（灾祸）”两义。convert、divert、reverse 都含有 vertere 这一词根。",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "避免，防止（坏事发生）（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "转移（目光、思绪）"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "avert a crisis / disaster / war",
+    "zh": "避免危机 / 灾难 / 战争"
+   },
+   {
+    "en": "narrowly avert",
+    "zh": "勉强避免，险些没能避免"
+   },
+   {
+    "en": "avert one's eyes / gaze",
+    "zh": "移开目光"
+   },
+   {
+    "en": "avert a strike",
+    "zh": "避免罢工"
+   }
+  ],
+  "usage_detail": "及物动词，较正式，宾语多为危机、灾难、战争、罢工等即将发生的坏事，新闻中常见 a last-minute deal averted a strike（最后一刻达成的协议避免了罢工）。avert one's eyes 指因害羞、厌恶等移开视线。形容词 averse 意为“反感的”，常用 be averse to sth；名词 aversion 意为“厌恶”。",
+  "distinction": "avert、avoid 与 prevent：avoid 指设法躲开某事或不做某事，如 avoid traffic；prevent 指阻止某事发生，常用 prevent sb from doing；avert 较正式，强调在危险迫在眉睫时采取措施使之不发生。",
+  "related": [
+   {
+    "en": "aversion",
+    "pos": "n.",
+    "zh": "厌恶，反感"
+   },
+   {
+    "en": "averse",
+    "pos": "adj.",
+    "zh": "反感的，不愿意的"
+   },
+   {
+    "en": "divert",
+    "pos": "v.",
+    "zh": "使转向；转移"
+   }
+  ],
+  "example": {
+   "en": "Emergency talks overnight averted a strike that would have closed the city's schools.",
+   "zh": "连夜举行的紧急谈判避免了一场本会导致全市学校停课的罢工。"
+  }
+ },
+ {
+  "id": 43,
+  "headword": "imprisonment",
+  "ipa_uk": "/ɪmˈprɪznmənt/",
+  "ipa_us": "/ɪmˈprɪznmənt/",
+  "pos": "n.",
+  "form_note": "文中为原形。",
+  "context_usage": "imprisonment 是不定式 to avert 的宾语。imprisonment 指被关进监狱、失去人身自由的刑罚，图灵被定罪后面临这一刑罚，所以视频取“入狱”，译为“为了避免入狱”。“入狱”比“监禁”更口语化，与“避免”搭配自然。",
+  "etymology": "由动词 imprison 加名词后缀 -ment 构成。imprison 经古法语 emprisoner 而来，由 en-（使进入）和 prison（监狱）构成；prison 经古法语来自拉丁语 prehensio（抓住，拘捕），源于 prehendere（抓住）。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "入狱，监禁（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "禁锢，束缚"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "life imprisonment",
+    "zh": "终身监禁"
+   },
+   {
+    "en": "be sentenced to five years' imprisonment",
+    "zh": "被判处五年监禁"
+   },
+   {
+    "en": "face imprisonment",
+    "zh": "面临牢狱之灾"
+   },
+   {
+    "en": "wrongful imprisonment",
+    "zh": "错误监禁，冤狱"
+   }
+  ],
+  "usage_detail": "不可数名词，多用于法律和新闻语体。表示刑期时常用“数字 + years' imprisonment”，注意 years' 的所有格撇号，也可说 a five-year prison sentence。动词 imprison 及物，多用被动，如 He was imprisoned for fraud。日常口语中更常说 go to prison、be sent to prison。",
+  "distinction": "imprisonment、detention 与 custody：imprisonment 指判刑后的监禁；detention 指拘留、扣押，多是暂时的，如 detention without trial；custody 指羁押、看管，也指离婚后子女的监护权。",
+  "related": [
+   {
+    "en": "imprison",
+    "pos": "v.",
+    "zh": "监禁，关押"
+   },
+   {
+    "en": "prison",
+    "pos": "n.",
+    "zh": "监狱"
+   },
+   {
+    "en": "prisoner",
+    "pos": "n.",
+    "zh": "囚犯"
+   }
+  ],
+  "example": {
+   "en": "The journalist faced up to ten years' imprisonment for publishing the leaked files.",
+   "zh": "这名记者因发表泄露的文件，面临最高十年的监禁。"
+  }
+ },
+ {
+  "id": 44,
+  "headword": "submit to",
+  "ipa_uk": "/səbˈmɪt tə/",
+  "ipa_us": "/səbˈmɪt tə/",
+  "pos": "phr. v.",
+  "form_note": "文中为 submitted to，submitted 是 submit 的过去式。",
+  "context_usage": "submitted to 是第二个并列谓语，主语 He，hormone injections 是介词 to 的宾语。submit to 意为“接受，服从”（视频说明），带有不得不屈从于外力的意味：图灵为了避免入狱，只能接受激素注射，所以视频取“被迫接受了”，增补的“被迫”正体现了 submit 的屈从色彩。",
+  "etymology": "submit 来自拉丁语 submittere（放低，置于……之下，屈服），由 sub-（在下）和 mittere（送，放）构成，字面义是“放到下面”，引申为“屈服，服从”，又引申为“呈交”（把东西放到别人面前）。mission、transmit、permit 都含有 mittere 这一词根。",
+  "senses": [
+   {
+    "pos": "phr. v.",
+    "zh": "被迫接受，屈从于（本文义）"
+   },
+   {
+    "pos": "phr. v.",
+    "zh": "服从（权威、规定）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（submit）提交，呈递"
+   },
+   {
+    "pos": "v.",
+    "zh": "（submit that…，正式）主张，认为"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "submit to authority",
+    "zh": "服从权威"
+   },
+   {
+    "en": "submit to pressure / demands",
+    "zh": "屈服于压力 / 接受要求"
+   },
+   {
+    "en": "submit to a medical examination",
+    "zh": "接受体检"
+   },
+   {
+    "en": "submit an application",
+    "zh": "提交申请"
+   }
+  ],
+  "usage_detail": "submit to 中 submit 是不及物动词，to 是介词，后接名词，如 submit to a search（接受搜查）；也可用 submit oneself to sth。submit 作及物动词时意为“提交”，如 submit a report to the board。名词 submission 意为“屈服”和“提交（的材料）”，形容词 submissive 意为“顺从的”。考研写作中“提交论文、申请”应用 submit，不用 hand up。",
+  "distinction": "submit to、yield to 与 surrender to：submit to 强调服从权威或接受某种处置；yield to 强调在压力或劝说下让步；surrender to 强调彻底投降，常用于军事，也可比喻屈服于情绪等。",
+  "related": [
+   {
+    "en": "submission",
+    "pos": "n.",
+    "zh": "屈服；提交（的材料）"
+   },
+   {
+    "en": "submissive",
+    "pos": "adj.",
+    "zh": "顺从的"
+   },
+   {
+    "en": "submit",
+    "pos": "v.",
+    "zh": "提交；屈服"
+   }
+  ],
+  "example": {
+   "en": "Passengers must submit to a security search before boarding.",
+   "zh": "乘客登机前必须接受安全检查。"
+  }
+ },
+ {
+  "id": 45,
+  "headword": "hormone",
+  "ipa_uk": "/ˈhɔːməʊn/",
+  "ipa_us": "/ˈhɔːrmoʊn/",
+  "pos": "n.",
+  "form_note": "文中为原形，作定语修饰 injections。",
+  "context_usage": "hormone 在 hormone injections 中是名词作定语，修饰 injections，整个短语作介词 to 的宾语。hormone 指体内腺体分泌、调节生理活动的化学物质，这里指法院允许图灵以接受激素治疗代替入狱，所以视频取“激素”，译为“激素注射”。",
+  "etymology": "1905年由英国生理学家斯塔林提出，借自希腊语 hormōn，是动词 horman（推动，激发）的现在分词，意为“起推动作用的东西”，因为激素能激发、调节身体器官的活动。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "激素，荷尔蒙（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "（植物）激素"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "hormone therapy / treatment",
+    "zh": "激素疗法 / 治疗"
+   },
+   {
+    "en": "growth hormone",
+    "zh": "生长激素"
+   },
+   {
+    "en": "stress hormones",
+    "zh": "应激激素"
+   },
+   {
+    "en": "hormone levels",
+    "zh": "激素水平"
+   }
+  ],
+  "usage_detail": "可数名词，常作定语修饰其他名词，如 hormone therapy、hormone imbalance（激素失调）。形容词 hormonal 意为“激素的”，如 hormonal changes。考研阅读的医学、心理学文章中常见 stress hormones such as cortisol（皮质醇等应激激素），以及激素与情绪、睡眠、生长发育关系的讨论。",
+  "distinction": "hormone 与 enzyme：hormone 是由腺体分泌、经血液传送到其他器官起调节作用的“激素”；enzyme 是加速体内化学反应的“酶”，二者都是生物学常见词，作用不同。",
+  "related": [
+   {
+    "en": "hormonal",
+    "pos": "adj.",
+    "zh": "激素的"
+   },
+   {
+    "en": "hormonally",
+    "pos": "adv.",
+    "zh": "在激素方面"
+   }
+  ],
+  "example": {
+   "en": "Lack of sleep can disrupt the hormones that control appetite.",
+   "zh": "睡眠不足会扰乱控制食欲的激素。"
+  }
+ },
+ {
+  "id": 46,
+  "headword": "injection",
+  "ipa_uk": "/ɪnˈdʒekʃn/",
+  "ipa_us": "/ɪnˈdʒekʃn/",
+  "pos": "n.",
+  "form_note": "injections 是 injection 的复数。",
+  "context_usage": "injections 是 hormone injections 的中心词，作介词 to 的宾语，hormone 作定语说明注射的是什么。injection 指用针筒把药物注入体内，复数形式说明注射不止一次，是一个持续的疗程，所以视频取“注射”，译为“激素注射”。",
+  "etymology": "来自拉丁语 injectio（投入），源于 inicere（扔进，投入），由 in-（进入）和 jacere（扔，投）构成。reject（拒绝，原义“扔回”）、eject（逐出，原义“扔出”）、project（投射）都含有 jacere 这一词根。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "注射（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "注射剂，针剂"
+   },
+   {
+    "pos": "n.",
+    "zh": "（资金的）投入，注资"
+   },
+   {
+    "pos": "n.",
+    "zh": "（燃料等的）喷射"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "give sb an injection",
+    "zh": "给某人打针"
+   },
+   {
+    "en": "an injection of insulin",
+    "zh": "一针胰岛素"
+   },
+   {
+    "en": "a cash injection",
+    "zh": "注资，资金注入"
+   },
+   {
+    "en": "fuel injection",
+    "zh": "燃油喷射"
+   }
+  ],
+  "usage_detail": "可数名词，“打针”可说 have an injection 或 give sb an injection，口语中也说 a jab（英）或 a shot（美）。比喻义“注资”在经济新闻和考研阅读中很常见，如 The government's injection of funds saved the bank，an injection of new ideas 则指“注入新思想”。动词 inject 及物，常用 inject A into B，比喻义如 inject money / life / humour into sth。",
+  "distinction": "injection、vaccination 与 infusion：injection 泛指注射；vaccination 专指接种疫苗；infusion 指静脉输液，或比喻资金、人才的“注入”。",
+  "related": [
+   {
+    "en": "inject",
+    "pos": "v.",
+    "zh": "注射；注入"
+   },
+   {
+    "en": "injectable",
+    "pos": "adj.",
+    "zh": "可注射的"
+   },
+   {
+    "en": "reject",
+    "pos": "v.",
+    "zh": "拒绝"
+   },
+   {
+    "en": "eject",
+    "pos": "v.",
+    "zh": "逐出；弹出"
+   }
+  ],
+  "example": {
+   "en": "Patients with the condition need a daily injection of the drug.",
+   "zh": "患这种病的人每天需要注射一次这种药物。"
+  }
+ },
+ {
+  "id": 47,
+  "headword": "cyanide poisoning",
+  "ipa_uk": "/ˈsaɪənaɪd ˈpɔɪzənɪŋ/",
+  "ipa_us": "/ˈsaɪənaɪd ˈpɔɪzənɪŋ/",
+  "pos": "n. phr.",
+  "form_note": "文中为原形（名词短语）。",
+  "context_usage": "cyanide poisoning 是介词 of 的宾语，与 died 构成 died of cyanide poisoning，说明图灵的死因。cyanide 是名词作定语，说明引起中毒的物质，poisoning 意为“中毒”，所以视频取“氰化物中毒”。本句只交代死因，死亡的性质由下一句的死因调查裁定。",
+  "etymology": "cyanide 由 cyanogen（氰）加化学后缀 -ide 构成，cyanogen 源于希腊语 kyanos（深蓝色），因为相关成分存在于普鲁士蓝颜料中。poisoning 由 poison 加 -ing 构成；poison 经古法语来自拉丁语 potio（饮料，药水），原义是“一剂药水”，后来专指毒药。potion（药水）同源。",
+  "senses": [
+   {
+    "pos": "n. phr.",
+    "zh": "氰化物中毒（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "（cyanide）氰化物"
+   },
+   {
+    "pos": "n.",
+    "zh": "（poisoning）中毒"
+   },
+   {
+    "pos": "n.",
+    "zh": "（poisoning）投毒，毒害"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "die of cyanide poisoning",
+    "zh": "死于氰化物中毒"
+   },
+   {
+    "en": "food poisoning",
+    "zh": "食物中毒"
+   },
+   {
+    "en": "lead poisoning",
+    "zh": "铅中毒"
+   },
+   {
+    "en": "carbon monoxide poisoning",
+    "zh": "一氧化碳中毒"
+   }
+  ],
+  "usage_detail": "poisoning 多作不可数名词，前面加表示毒物的名词构成“某物中毒”，如 alcohol poisoning（酒精中毒）。poison 作名词指毒药、毒物，作动词意为“使中毒，毒害”，也可比喻“破坏”，如 poison relations between the two countries。形容词 poisonous 意为“有毒的”。cyanide 是剧毒物质，不可数，前面常加 potassium（钾）等，如 potassium cyanide（氰化钾）。",
+  "distinction": "poisonous、toxic 与 venomous：poisonous 是一般的“有毒的”，多指吃下或接触后中毒；toxic 较正式，常用于化学物质、污染，也可比喻“有害的”，如 a toxic relationship；venomous 专指蛇、蜘蛛等通过咬、刺注入毒液的。",
+  "related": [
+   {
+    "en": "poison",
+    "pos": "n.",
+    "zh": "毒药，毒物"
+   },
+   {
+    "en": "poisonous",
+    "pos": "adj.",
+    "zh": "有毒的"
+   },
+   {
+    "en": "cyan",
+    "pos": "n.",
+    "zh": "青色，蓝绿色"
+   }
+  ],
+  "example": {
+   "en": "Miners in the region suffer from mercury and cyanide poisoning caused by illegal gold extraction.",
+   "zh": "该地区的矿工深受非法采金造成的汞中毒和氰化物中毒之害。"
+  }
+ },
+ {
+  "id": 48,
+  "headword": "coroner",
+  "ipa_uk": "/ˈkɒrənə(r)/",
+  "ipa_us": "/ˈkɔːrənər/",
+  "pos": "n.",
+  "form_note": "文中为名词所有格 coroner's，原形为 coroner。",
+  "context_usage": "coroner's 是名词所有格，作 inquest 的定语，A coroner's inquest 是全句主语。在英格兰和威尔士，突然死亡或死因不明的案件由 coroner 主持死因调查并作出裁定，图灵死于氰化物中毒，属于此类情况，所以视频取“验尸官”，译为“验尸官的死因调查”。",
+  "etymology": "来自盎格鲁法语 corouner，源于 coroune（王冠）。这一职位最初是代表王室的官员，负责维护王室在地方上的利益和财产，后来职责集中到调查非正常死亡上。crown（王冠）、coronation（加冕）同源。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "验尸官（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "（主持死因调查的）死因裁判官"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "a coroner's inquest",
+    "zh": "验尸官的死因调查"
+   },
+   {
+    "en": "a coroner's court",
+    "zh": "死因裁判法庭"
+   },
+   {
+    "en": "the coroner recorded a verdict of suicide",
+    "zh": "验尸官作出自杀的裁定"
+   },
+   {
+    "en": "a coroner's report",
+    "zh": "验尸官报告"
+   }
+  ],
+  "usage_detail": "可数名词，常用所有格 coroner's 修饰 inquest、court、report 等。在英国，coroner 主持 inquest，听取证据后对死因作出裁定（verdict），常见的有 suicide（自杀）、accidental death（意外死亡）、unlawful killing（非法杀害）、open verdict（死因未明的裁定）等。考研阅读涉及英国社会新闻时可能出现这些表达。",
+  "distinction": "coroner、medical examiner 与 pathologist：coroner 是主持死因调查、作出裁定的官员，不一定是医生；medical examiner 是美国部分地区负责尸检和死因认定的医学专业人员；pathologist 是病理学家，负责具体的解剖和检验。",
+  "related": [
+   {
+    "en": "crown",
+    "pos": "n.",
+    "zh": "王冠；王室"
+   },
+   {
+    "en": "coronation",
+    "pos": "n.",
+    "zh": "加冕礼"
+   }
+  ],
+  "example": {
+   "en": "The coroner concluded that the climber's death was a tragic accident.",
+   "zh": "验尸官断定这名登山者的死亡是一起不幸的意外。"
+  }
+ },
+ {
+  "id": 49,
+  "headword": "suicide",
+  "ipa_uk": "/ˈsuːɪsaɪd/",
+  "ipa_us": "/ˈsuːɪsaɪd/",
+  "pos": "n.",
+  "form_note": "文中为原形。",
+  "context_usage": "suicide 在 ruled it suicide 中作宾语补足语，说明宾语 it（图灵之死）的性质，是死因调查作出的裁定结果，所以视频取“自杀”，译为“裁定为自杀”。后半句 though some doubt it 说明有人对这一裁定存疑，原文没有给出定论。",
+  "etymology": "来自现代拉丁语 suicidium，由 sui（自己的）和 -cidium（杀，源于 caedere“砍，杀”）构成，字面义是“杀死自己”。homicide（杀人）、genocide（种族灭绝）、pesticide（杀虫剂）中的 -cide 同源。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "自杀（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "自杀事件"
+   },
+   {
+    "pos": "n.",
+    "zh": "自取灭亡的行为"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "a verdict of suicide",
+    "zh": "自杀的裁定"
+   },
+   {
+    "en": "attempt suicide",
+    "zh": "企图自杀"
+   },
+   {
+    "en": "the suicide rate",
+    "zh": "自杀率"
+   },
+   {
+    "en": "political suicide",
+    "zh": "政治自杀，断送政治前途的举动"
+   }
+  ],
+  "usage_detail": "可数名词和不可数名词均可：泛指自杀行为时不可数，指具体的自杀事件时可数。传统搭配是 commit suicide，近年来不少媒体报道指南建议改用 die by suicide 或 take one's own life，因为 commit 容易让人联想到犯罪。比喻义如 It would be political suicide to raise taxes now（现在加税等于政治自杀）。形容词 suicidal 意为“有自杀倾向的；自取灭亡的”。",
+  "distinction": "",
+  "related": [
+   {
+    "en": "suicidal",
+    "pos": "adj.",
+    "zh": "有自杀倾向的；自取灭亡的"
+   },
+   {
+    "en": "homicide",
+    "pos": "n.",
+    "zh": "杀人，谋杀"
+   },
+   {
+    "en": "genocide",
+    "pos": "n.",
+    "zh": "种族灭绝"
+   },
+   {
+    "en": "pesticide",
+    "pos": "n.",
+    "zh": "杀虫剂，农药"
+   }
+  ],
+  "example": {
+   "en": "The charity runs a free helpline as part of its work on suicide prevention.",
+   "zh": "这家慈善机构开通了一条免费求助热线，作为其预防自杀工作的一部分。"
+  }
+ },
+ {
+  "id": 50,
+  "headword": "recognition",
+  "ipa_uk": "/ˌrekəɡˈnɪʃn/",
+  "ipa_us": "/ˌrekəɡˈnɪʃn/",
+  "pos": "n.",
+  "form_note": "文中为原形。",
+  "context_usage": "Recognition 是全句主语，不加冠词，作抽象名词。recognition 在这里不是“认出”，而是“对成就或价值的承认、赞誉”，指英国官方和社会对图灵贡献的正式认可，所以视频取“认可”，并用括号补出“（对于图灵的）”。全段的道歉、赦免、钞票肖像都是这种认可的具体体现。",
+  "etymology": "来自拉丁语 recognitio，源于 recognoscere（再次认识，认出），由 re-（再）和 cognoscere（了解，认识）构成。由“认出”引申为“承认（某事物的存在或价值）”，再引申为“认可，赞誉”。cognition（认知）同源。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "认可，赞誉，表彰（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "认出，识别"
+   },
+   {
+    "pos": "n.",
+    "zh": "承认（事实、合法性等）"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "in recognition of",
+    "zh": "为表彰……，以承认……"
+   },
+   {
+    "en": "gain / win recognition",
+    "zh": "获得认可"
+   },
+   {
+    "en": "international recognition",
+    "zh": "国际认可"
+   },
+   {
+    "en": "change beyond recognition",
+    "zh": "变得面目全非"
+   },
+   {
+    "en": "facial recognition",
+    "zh": "人脸识别"
+   }
+  ],
+  "usage_detail": "多作不可数名词。in recognition of sth 是常用介词短语，表示“为表彰……”，常用于颁奖、授勋的报道。recognition of sth 也可指“承认”，如 recognition of the problem（承认问题存在）、diplomatic recognition（外交承认）。beyond recognition 意为“认不出来”，如 The town has changed beyond recognition。动词 recognize（英式也作 recognise）的“认可”义如 be recognized as a leading expert。",
+  "distinction": "recognition 与 acknowledgement：二者都可表示“承认”。recognition 侧重对成就、价值的认可和赞誉；acknowledgement 侧重承认事实或表示感谢，如 in acknowledgement of your help，书末的 acknowledgements 指“致谢”。",
+  "related": [
+   {
+    "en": "recognize",
+    "pos": "v.",
+    "zh": "认出；承认；认可"
+   },
+   {
+    "en": "recognizable",
+    "pos": "adj.",
+    "zh": "可辨认的"
+   },
+   {
+    "en": "cognition",
+    "pos": "n.",
+    "zh": "认知"
+   }
+  ],
+  "example": {
+   "en": "The nurse received a medal in recognition of her work during the epidemic.",
+   "zh": "这名护士获颁一枚奖章，以表彰她在疫情期间的工作。"
+  }
+ },
+ {
+  "id": 51,
+  "headword": "lag",
+  "ipa_uk": "/læɡ/",
+  "ipa_us": "/læɡ/",
+  "pos": "v.",
+  "form_note": "lagged 是 lag 的过去式（双写词尾辅音 g 再加 -ed）。",
+  "context_usage": "lagged 是全句谓语，主语 Recognition，lag 是不及物动词，不带宾语。lag 指在速度或时间上落后，这里指对图灵的认可来得太晚，远远落后于他作出贡献的时间，所以视频取“滞后了”。这个两词短句是第五段的主题句，后文列出的2009年、2013年、2021年三件事都说明了认可的滞后。",
+  "etymology": "来源不确定，16世纪开始在英语中使用，意为“落在后面，跟不上”。名词义“时间间隔”是后来发展出来的。",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "落后，滞后（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "时间间隔，时间差"
+   },
+   {
+    "pos": "v.",
+    "zh": "（英）给（水管等）包上隔热层"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "lag behind sb / sth",
+    "zh": "落后于……"
+   },
+   {
+    "en": "lag far behind",
+    "zh": "远远落后"
+   },
+   {
+    "en": "a time lag",
+    "zh": "时间差"
+   },
+   {
+    "en": "jet lag",
+    "zh": "时差反应"
+   }
+  ],
+  "usage_detail": "作“落后”讲时一般是不及物动词，可单独作谓语，也可接 behind，如 Wages have lagged behind prices for years；美式财经报道中偶见 lag the market 这类直接接宾语的说法，但考研写作中应写 lag behind。过去式和过去分词双写 g：lagged。名词 a time lag 指两件相关事情之间的时间间隔，如 There is a time lag between cause and effect。考研阅读经济话题中常见 lag behind、lagging indicators（滞后指标）。“给水管包隔热层”是英式英语中的另一个同形词，与本义无关。",
+  "distinction": "lag behind、fall behind 与 trail：fall behind 常指因进度慢而逐渐落后，如 fall behind with the rent（拖欠房租）；lag behind 强调在速度、发展上跟不上，多用于比较；trail 多用于比赛、民调中“落后于对手”，如 trail by two points。",
+  "related": [
+   {
+    "en": "laggard",
+    "pos": "n.",
+    "zh": "落后者，迟缓者"
+   },
+   {
+    "en": "jet lag",
+    "pos": "n.",
+    "zh": "时差反应"
+   }
+  ],
+  "example": {
+   "en": "Broadband speeds in rural areas still lag well behind those in big cities.",
+   "zh": "农村地区的宽带速度仍然远远落后于大城市。"
+  }
+ },
+ {
+  "id": 52,
+  "headword": "publicly",
+  "ipa_uk": "/ˈpʌblɪkli/",
+  "ipa_us": "/ˈpʌblɪkli/",
+  "pos": "adv.",
+  "form_note": "文中为原形。",
+  "context_usage": "publicly 在第一个分句中作方式状语，修饰 apologised，放在主语和谓语之间。publicly 指当着公众的面、公开地，说明首相的道歉不是私下表态，而是以政府名义公开作出的，所以视频取“公开”，译为“英国首相公开道歉了”。“公开”二字突出了官方认错的分量。",
+  "etymology": "由 public 加 -ly 构成。public 经古法语来自拉丁语 publicus（人民的，公众的），词形可能受 pubes（成年人）影响。publish（出版，原义“公之于众”）、republic（共和国）同源。",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "公开地，当众（本文义）"
+   },
+   {
+    "pos": "adv.",
+    "zh": "由政府（出资、经营）地"
+   },
+   {
+    "pos": "adv.",
+    "zh": "由公众（持有）地"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "publicly apologise",
+    "zh": "公开道歉"
+   },
+   {
+    "en": "publicly announce",
+    "zh": "公开宣布"
+   },
+   {
+    "en": "publicly funded",
+    "zh": "由政府资助的"
+   },
+   {
+    "en": "publicly listed company",
+    "zh": "上市公司"
+   }
+  ],
+  "usage_detail": "副词，常放在动词或过去分词前，如 publicly criticise、publicly owned。注意拼写是 publicly，不是 publically，这是英语中少数以 -ic 结尾的形容词直接加 -ly 构成副词的例子，写作中常拼错。publicly funded 中 publicly 指“由公共财政”，考研阅读讨论教育、医疗等公共服务时很常见，如 publicly funded universities。",
+  "distinction": "publicly 与 openly：publicly 强调在公众面前、通过公开渠道；openly 强调不隐瞒、坦率地，不一定面向公众，如 talk openly about one's feelings。",
+  "related": [
+   {
+    "en": "public",
+    "pos": "adj.",
+    "zh": "公众的；公开的；公共的"
+   },
+   {
+    "en": "publicity",
+    "pos": "n.",
+    "zh": "宣传；公众关注"
+   },
+   {
+    "en": "publicize",
+    "pos": "v.",
+    "zh": "宣传，公布"
+   },
+   {
+    "en": "publish",
+    "pos": "v.",
+    "zh": "出版；公布"
+   }
+  ],
+  "example": {
+   "en": "The minister publicly criticised the decision to close the hospital.",
+   "zh": "这位部长公开批评了关闭这家医院的决定。"
+  }
+ },
+ {
+  "id": 53,
+  "headword": "apologise",
+  "ipa_uk": "/əˈpɒlədʒaɪz/",
+  "ipa_us": "/əˈpɑːlədʒaɪz/",
+  "pos": "v.",
+  "form_note": "apologised 是 apologise 的过去式；英式拼写，美式拼写为 apologize。",
+  "context_usage": "apologised 是第一个分句的谓语，主语 Britain's prime minister，publicly 作方式状语。apologise 是不及物动词，这里省略了 to sb for sth，从上下文可知是为英国政府当年对图灵的处置道歉，所以视频取“道歉了”。“了”表示道歉已经作出，与上句“认可滞后了”呼应。",
+  "etymology": "由 apology 派生而来。apology 经晚期拉丁语来自希腊语 apologia（辩护的言辞），由 apo-（离开）和 logos（言语）构成，字面义是“为摆脱指控而说的话”。apologise 最初意为“为自己辩护”，后来才主要表示“道歉”。",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "道歉，谢罪（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（旧）辩解，辩护"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "apologise to sb for sth",
+    "zh": "为某事向某人道歉"
+   },
+   {
+    "en": "apologise publicly",
+    "zh": "公开道歉"
+   },
+   {
+    "en": "apologise unreservedly",
+    "zh": "毫无保留地道歉"
+   },
+   {
+    "en": "apologise profusely",
+    "zh": "一再道歉"
+   }
+  ],
+  "usage_detail": "不及物动词，道歉的对象用 to 引出，原因用 for 引出：apologise to sb for (doing) sth，不能说 apologise sb。英式英语 -ise 和 -ize 两种拼写都可以，美式英语只用 apologize。名词 apology 可数，常用 make / offer an apology、a public apology、owe sb an apology（应向某人道歉）。形容词 apologetic 意为“道歉的，愧疚的”。",
+  "distinction": "apologise 与 make an apology：意思相同，后者更正式，便于加形容词修饰，如 make a formal apology、issue a public apology（发表公开道歉）。",
+  "related": [
+   {
+    "en": "apology",
+    "pos": "n.",
+    "zh": "道歉"
+   },
+   {
+    "en": "apologetic",
+    "pos": "adj.",
+    "zh": "道歉的，愧疚的"
+   },
+   {
+    "en": "apologist",
+    "pos": "n.",
+    "zh": "辩护者，辩解者"
+   }
+  ],
+  "example": {
+   "en": "The airline apologised to passengers for the long delay and offered them free meals.",
+   "zh": "航空公司就长时间延误向乘客道歉，并为他们提供了免费餐食。"
+  }
+ },
+ {
+  "id": 54,
+  "headword": "be granted",
+  "ipa_uk": "/bi ˈɡrɑːntɪd/",
+  "ipa_us": "/bi ˈɡræntɪd/",
+  "pos": "phr.",
+  "form_note": "文中为 was granted，一般过去时被动语态，granted 是 grant 的过去分词；副词 posthumously 插在 was 与 granted 之间。",
+  "context_usage": "was posthumously granted 是第二个分句的谓语，主语 Turing，a royal pardon 是保留宾语。主动形式是 grant Turing a royal pardon，被动后以人作主语（视频说明“be granted sth：被授予某物，被动语态”）。grant 指官方正式给予权利、许可或赦免，所以视频取“被授予了”，与 posthumously 合译为“在死后被授予了”。",
+  "etymology": "grant 来自古法语 granter、craanter（承诺，担保），源于通俗拉丁语中由拉丁语 credere（相信，信托）派生的动词。词义从“同意，应允”发展为“正式给予，授予”；名词 grant 指“拨款，补助金”。",
+  "senses": [
+   {
+    "pos": "phr.",
+    "zh": "被授予，获准得到（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（grant）授予，准予"
+   },
+   {
+    "pos": "v.",
+    "zh": "（grant）承认（某事属实）"
+   },
+   {
+    "pos": "n.",
+    "zh": "（grant）拨款，补助金"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "be granted a pardon / visa",
+    "zh": "获得赦免 / 签证"
+   },
+   {
+    "en": "be granted permission to do sth",
+    "zh": "获准做某事"
+   },
+   {
+    "en": "be granted asylum",
+    "zh": "获得庇护"
+   },
+   {
+    "en": "take sth for granted",
+    "zh": "认为某事理所当然"
+   },
+   {
+    "en": "a research grant",
+    "zh": "研究经费"
+   }
+  ],
+  "usage_detail": "grant 是双宾语动词：grant sb sth 或 grant sth to sb，被动时可以说 sb is granted sth（以人作主语，sth 作保留宾语），也可以说 sth is granted to sb。be granted 的宾语多为正式的权利或许可，如 bail（保释）、citizenship（公民身份）、independence（独立）。take sth for granted 是高频短语。Granted, … 放在句首意为“诚然，固然”，引出让步，后面常接 but，是考研阅读中的让步转折信号。",
+  "distinction": "grant、award 与 give：give 最通用；grant 指官方或掌权者正式准许、给予，多是请求之后的批准；award 指根据评选或裁决授予奖项、奖金或赔偿，如 be awarded a prize。",
+  "related": [
+   {
+    "en": "grant",
+    "pos": "n.",
+    "zh": "拨款，补助金"
+   },
+   {
+    "en": "granted",
+    "pos": "adv.",
+    "zh": "诚然，固然"
+   }
+  ],
+  "example": {
+   "en": "After months of waiting, the family was finally granted permission to stay in the country.",
+   "zh": "等待了几个月之后，这家人终于获准留在该国。"
+  }
+ },
+ {
+  "id": 55,
+  "headword": "posthumously",
+  "ipa_uk": "/ˈpɒstjəməsli/",
+  "ipa_us": "/ˈpɑːstʃəməsli/",
+  "pos": "adv.",
+  "form_note": "文中为原形。",
+  "context_usage": "posthumously 插在助动词 was 和过去分词 granted 之间，作状语修饰 was granted。图灵1954年去世，赦免在2013年才授予，posthumously 正说明授予发生在他死后，所以视频取“死后”，译为“在死后被授予了”。这个词点出了认可的迟到，与上句 Recognition lagged 呼应。",
+  "etymology": "由 posthumous 加 -ly 构成。posthumous 来自拉丁语 postumus（最后的），是 posterus（后来的）的最高级，原指“父亲死后出生的（孩子）”。拼写中的 h 是后来加上的，因为人们把它与 humus（泥土）、humare（埋葬）联系起来，理解为“埋葬之后”。",
+  "senses": [
+   {
+    "pos": "adv.",
+    "zh": "死后，身后（本文义）"
+   },
+   {
+    "pos": "adv.",
+    "zh": "（作品）在作者死后（出版）"
+   },
+   {
+    "pos": "adj.",
+    "zh": "（posthumous）死后的；遗腹的"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "be awarded posthumously",
+    "zh": "被追授"
+   },
+   {
+    "en": "be published posthumously",
+    "zh": "在作者死后出版"
+   },
+   {
+    "en": "be pardoned posthumously",
+    "zh": "死后获得赦免"
+   },
+   {
+    "en": "a posthumous award",
+    "zh": "追授的奖项"
+   }
+  ],
+  "usage_detail": "副词，常与 award、publish、pardon、honour 等动词的被动形式连用，可放在过去分词前，也可放在句末，如 The medal was awarded posthumously。形容词 posthumous 作前置定语，如 a posthumous novel（遗作小说）、posthumous fame（身后的名声）。注意拼写中的 h 不发音，重音在第一个音节。",
+  "distinction": "",
+  "related": [
+   {
+    "en": "posthumous",
+    "pos": "adj.",
+    "zh": "死后的；遗腹的"
+   },
+   {
+    "en": "posterity",
+    "pos": "n.",
+    "zh": "后代，后世"
+   }
+  ],
+  "example": {
+   "en": "Most of the poet's work was published posthumously by her sister.",
+   "zh": "这位诗人的大部分作品是在她死后由她的姐姐出版的。"
+  }
+ },
+ {
+  "id": 56,
+  "headword": "pardon",
+  "ipa_uk": "/ˈpɑːdn/",
+  "ipa_us": "/ˈpɑːrdn/",
+  "pos": "n.",
+  "form_note": "文中为原形（单数，前有不定冠词 a）。",
+  "context_usage": "pardon 是 a royal pardon 的中心词，作第二个分句的保留宾语。pardon 指国家元首或君主正式免除某人的罪责或刑罚，royal 说明赦免由英国君主授予，所以视频取“赦免”，译为“皇室赦免”。赦免意味着官方不再追究这项罪名，但它是在图灵死后多年才到来的。",
+  "etymology": "来自古法语 pardon，源于动词 pardoner（宽恕，赦免），出自中世纪拉丁语 perdonare（给予，宽恕），由 per-（完全）和 donare（给予）构成，字面义是“完全给予”，引申为“宽恕”。donate（捐赠）同源。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "赦免（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "原谅，宽恕"
+   },
+   {
+    "pos": "v.",
+    "zh": "赦免"
+   },
+   {
+    "pos": "v.",
+    "zh": "原谅，宽恕"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "a royal / presidential pardon",
+    "zh": "皇室 / 总统赦免"
+   },
+   {
+    "en": "grant sb a pardon",
+    "zh": "给予某人赦免"
+   },
+   {
+    "en": "receive a pardon",
+    "zh": "获得赦免"
+   },
+   {
+    "en": "I beg your pardon?",
+    "zh": "请再说一遍好吗？"
+   }
+  ],
+  "usage_detail": "作“赦免”讲时是可数名词，常用 a pardon、grant / receive a pardon；作动词时意为“赦免（某人）”，如 He was pardoned by the president。日常口语中 Pardon? 或 I beg your pardon? 用于请对方重复，Pardon me 用于表示歉意。形容词 unpardonable 意为“不可原谅的”，如 an unpardonable mistake。",
+  "distinction": "pardon、amnesty 与 acquittal：pardon 是对特定个人的赦免，通常已被定罪；amnesty 是对一类人的大赦，如政治犯；acquittal 是法庭宣判无罪，表示罪名不成立，而 pardon 并不等于宣布当初无罪。",
+  "related": [
+   {
+    "en": "pardonable",
+    "pos": "adj.",
+    "zh": "可原谅的"
+   },
+   {
+    "en": "unpardonable",
+    "pos": "adj.",
+    "zh": "不可原谅的"
+   },
+   {
+    "en": "donate",
+    "pos": "v.",
+    "zh": "捐赠"
+   }
+  ],
+  "example": {
+   "en": "The governor refused to grant a pardon despite a campaign by the prisoner's supporters.",
+   "zh": "尽管这名囚犯的支持者发起了请愿活动，州长仍拒绝给予赦免。"
+  }
+ },
+ {
+  "id": 57,
+  "headword": "portrait",
+  "ipa_uk": "/ˈpɔːtreɪt/",
+  "ipa_us": "/ˈpɔːrtrət/",
+  "pos": "n.",
+  "form_note": "文中为原形。",
+  "context_usage": "portrait 是现在分词短语 bearing his portrait 中 bearing 的宾语，整个短语作后置定语修饰 a fifty-pound note。portrait 指一个人的画像或照片，尤其是面部或半身像，这里指印在钞票上的图灵像，所以视频取“肖像”，译为“印有他肖像的五十英镑钞票”。下一句的 his face（头像）是对 portrait 的换说。",
+  "etymology": "来自法语 portrait，是古法语 portraire（描绘，画出）的过去分词形式，源于拉丁语 protrahere（拉出，引出），由 pro-（向前）和 trahere（拉，拖）构成，引申为“把形象描画出来”。portray（描绘）同源。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "肖像，画像（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "人像照片"
+   },
+   {
+    "pos": "n.",
+    "zh": "（详细的）描绘，写照"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "paint a portrait of sb",
+    "zh": "给某人画像"
+   },
+   {
+    "en": "a self-portrait",
+    "zh": "自画像"
+   },
+   {
+    "en": "a portrait gallery",
+    "zh": "肖像画廊"
+   },
+   {
+    "en": "a vivid portrait of life in…",
+    "zh": "对……生活的生动描绘"
+   }
+  ],
+  "usage_detail": "可数名词，常用 a portrait of sb。比喻义指书籍、电影、文章对人或事的详细描绘，如 The novel offers a moving portrait of a family in crisis，考研阅读中的书评、影评常用这一义项。动词 portray 意为“描绘，扮演”，名词 portrayal 意为“描绘，塑造”。英式英语中 portrait 也常读作 /ˈpɔːtrət/。",
+  "distinction": "portrait、picture 与 image：picture 泛指图片、画；portrait 专指人物肖像，突出面部特征；image 指图像、形象，也可指公众印象，如 the company's public image。",
+  "related": [
+   {
+    "en": "portray",
+    "pos": "v.",
+    "zh": "描绘；扮演"
+   },
+   {
+    "en": "portrayal",
+    "pos": "n.",
+    "zh": "描绘；塑造"
+   },
+   {
+    "en": "portraiture",
+    "pos": "n.",
+    "zh": "肖像画法；肖像画"
+   },
+   {
+    "en": "self-portrait",
+    "pos": "n.",
+    "zh": "自画像"
+   }
+  ],
+  "example": {
+   "en": "A portrait of the museum's founder hangs above the main staircase.",
+   "zh": "博物馆创始人的肖像挂在主楼梯上方。"
+  }
+ },
+ {
+  "id": 58,
+  "headword": "circulation",
+  "ipa_uk": "/ˌsɜːkjəˈleɪʃn/",
+  "ipa_us": "/ˌsɜːrkjəˈleɪʃn/",
+  "pos": "n.",
+  "form_note": "文中为原形。",
+  "context_usage": "circulation 是谓语 entered 的宾语，enter circulation 意为“开始流通”（视频说明）。circulation 指货币在社会上流转使用，新钞“进入流通”就是开始在市面上使用，所以视频取“流通”，译为“开始流通”。这一天恰好是图灵的生日，说明发行日期是有意选定的。",
+  "etymology": "来自拉丁语 circulatio，源于动词 circulari（绕圈，形成圆圈），circulus 意为“小圆圈”，是 circus（圆圈）的指小形式。由“绕圈运动”引申出“循环”“流通”“传播”“发行”等义。circle、circular 同源。",
+  "senses": [
+   {
+    "pos": "n.",
+    "zh": "（货币的）流通（本文义）"
+   },
+   {
+    "pos": "n.",
+    "zh": "血液循环"
+   },
+   {
+    "pos": "n.",
+    "zh": "（空气、水等的）流通，循环"
+   },
+   {
+    "pos": "n.",
+    "zh": "（报刊的）发行量"
+   },
+   {
+    "pos": "n.",
+    "zh": "（信息、思想的）传播"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "enter / go into circulation",
+    "zh": "开始流通"
+   },
+   {
+    "en": "be withdrawn from circulation",
+    "zh": "退出流通"
+   },
+   {
+    "en": "blood circulation",
+    "zh": "血液循环"
+   },
+   {
+    "en": "a newspaper with a large circulation",
+    "zh": "发行量很大的报纸"
+   }
+  ],
+  "usage_detail": "多作不可数名词，表示报刊发行量时可数，如 a daily circulation of 500,000（日发行量50万份）。in circulation 意为“在流通中；（人）活跃于社交场合”，out of circulation 意为“不再流通；（人）不露面”。动词 circulate 意为“流通，传播”，如 Rumours circulated that…（有传言说……）。考研阅读讨论报业衰落时常见 falling circulation（发行量下降）。",
+  "distinction": "",
+  "related": [
+   {
+    "en": "circulate",
+    "pos": "v.",
+    "zh": "流通；循环；传播"
+   },
+   {
+    "en": "circular",
+    "pos": "adj.",
+    "zh": "圆形的；循环的"
+   },
+   {
+    "en": "circle",
+    "pos": "n.",
+    "zh": "圆圈；圈子"
+   }
+  ],
+  "example": {
+   "en": "The central bank plans to withdraw the old coins from circulation next year.",
+   "zh": "央行计划明年让旧硬币退出流通。"
+  }
+ },
+ {
+  "id": 59,
+  "headword": "prosecute",
+  "ipa_uk": "/ˈprɒsɪkjuːt/",
+  "ipa_us": "/ˈprɑːsɪkjuːt/",
+  "pos": "v.",
+  "form_note": "prosecuted 是 prosecute 的过去式。",
+  "context_usage": "prosecuted 是定语从句 that prosecuted him 的谓语，that 作从句主语，him 是宾语，整个从句修饰 The country。prosecute 指由国家对某人提起刑事诉讼，这里回顾第四段图灵被以“严重猥亵”罪起诉定罪，所以视频取“起诉”，译为“起诉他的国家”。“起诉他”与“把他的头像印上钞票”同出一个主语，形成全文结尾的强烈反差。",
+  "etymology": "来自拉丁语 prosecutus，是 prosequi（跟随，追究）的过去分词，由 pro-（向前）和 sequi（跟随）构成，字面义是“向前追赶”。英语中先指“继续进行，追究到底”，后来专指“提起诉讼”。execute 也含有 sequi 这一词根。",
+  "senses": [
+   {
+    "pos": "v.",
+    "zh": "起诉，检控（本文义）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（律师）担任控方"
+   },
+   {
+    "pos": "v.",
+    "zh": "（正式）继续进行，从事"
+   }
+  ],
+  "collocations": [
+   {
+    "en": "be prosecuted for theft",
+    "zh": "因盗窃被起诉"
+   },
+   {
+    "en": "prosecute offenders",
+    "zh": "起诉违法者"
+   },
+   {
+    "en": "face prosecution",
+    "zh": "面临起诉"
+   },
+   {
+    "en": "the prosecution case",
+    "zh": "控方的案情陈述"
+   }
+  ],
+  "usage_detail": "及物动词，常用 prosecute sb for sth 或被动 be prosecuted for sth，介词用 for。名词 prosecution 意为“起诉”，the prosecution 指“控方”，与 the defence（辩方）相对；prosecutor 意为“检察官，公诉人”。考研阅读涉及法律、执法的文章中常见 prosecute、prosecution。易混词 persecute 意为“迫害”，只差一个字母，写作时要特别注意。",
+  "distinction": "prosecute、sue 与 persecute：prosecute 多指由国家对刑事犯罪提起公诉；sue 指个人或机构提起民事诉讼，如 sue a company for damages；persecute 意为“（因种族、宗教、政治观点等）迫害”，与法律程序无关。",
+  "related": [
+   {
+    "en": "prosecution",
+    "pos": "n.",
+    "zh": "起诉；控方"
+   },
+   {
+    "en": "prosecutor",
+    "pos": "n.",
+    "zh": "检察官，公诉人"
+   },
+   {
+    "en": "execute",
+    "pos": "v.",
+    "zh": "执行；处决"
+   }
+  ],
+  "example": {
+   "en": "Shops that sell alcohol to minors can be prosecuted and lose their licence.",
+   "zh": "向未成年人出售酒类的商店可能会被起诉并被吊销执照。"
+  }
+ }
+]

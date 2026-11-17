@@ -1,0 +1,30 @@
+[
+ {
+  "key": "34",
+  "field": "collocations[3]",
+  "before": "argue consistently 一贯主张",
+  "after": "consistently deny sth 一贯否认某事",
+  "reason": "argue consistently 不是常见搭配，换成外刊高频的 consistently deny"
+ },
+ {
+  "key": "39",
+  "field": "collocations[3]",
+  "before": "convict sb on evidence 根据证据判某人有罪",
+  "after": "be convicted on all counts 所有罪名均被判成立",
+  "reason": "convict sb on evidence 不是常见搭配，换成新闻高频的 be convicted on all counts"
+ },
+ {
+  "key": "40",
+  "field": "etymology",
+  "before": "英语中先指“罪行”，再指“因过错受到的惩罚、罚没之物”，后来产生动词义“因过错而丧失”。",
+  "after": "英语中名词最初指“罪行”，后来指“因过错受到的惩罚、罚没之物”；动词义为“因过错而丧失”。",
+  "reason": "据 Etymonline，名词和动词在14世纪初几乎同时出现，原文说动词义“后来产生”无法证实"
+ },
+ {
+  "key": "51",
+  "field": "usage_detail",
+  "before": "作“落后”讲时是不及物动词，可单独作谓语，也可接 behind，如 Wages have lagged behind prices for years；不能直接接宾语。",
+  "after": "作“落后”讲时一般是不及物动词，可单独作谓语，也可接 behind，如 Wages have lagged behind prices for years；美式财经报道中偶见 lag the market 这类直接接宾语的说法，但考研写作中应写 lag behind。",
+  "reason": "Merriam-Webster 收有 lag 的及物用法（fail to keep up with），说“不能直接接宾语”过于绝对"
+ }
+]

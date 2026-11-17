@@ -1,0 +1,1840 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Alan Turing",
+   "predicate": "had",
+   "object_or_complement": "a formidable intellect",
+   "explain": "主谓宾结构。谓语 had 是 have 的过去式，一般过去时，主动语态；have 在此是状态动词，表示“拥有、具备”，与句末 by his early twenties 连用，说明到二十出头时他已经具备这种才智。"
+  },
+  "components": [
+   {
+    "text": "Born in June 1912,",
+    "role": "状语（过去分词短语，说明出生时间，逻辑主语是 Alan Turing）",
+    "zh": "生于1912年6月"
+   },
+   {
+    "text": "Alan Turing",
+    "role": "主语",
+    "zh": "艾伦·图灵"
+   },
+   {
+    "text": "had",
+    "role": "谓语（一般过去时，表示状态）",
+    "zh": "他已拥有"
+   },
+   {
+    "text": "a formidable intellect",
+    "role": "宾语（formidable 作前置定语，修饰 intellect）",
+    "zh": "强大的才智"
+   },
+   {
+    "text": "by his early twenties.",
+    "role": "时间状语（介词短语，by 意为“到……时为止”）",
+    "zh": "二十出头时"
+   }
+  ],
+  "structure": "①主句是 Alan Turing had a formidable intellect：主语 Alan Turing，谓语 had，宾语 a formidable intellect。formidable 作前置定语修饰 intellect，说明才智之强。\n②句首 Born in June 1912 是过去分词短语作状语（视频说明“过去分词短语作状语，说明出生时间”），逻辑主语与主句主语一致，都是 Alan Turing。“出生”在英语里用被动形式 be born 表达，所以分词只能用 born，相当于 Alan Turing was born in June 1912。\n③句尾 by his early twenties 是时间状语。by 表示“到……时为止，不迟于”，his early twenties 指二十岁出头的那几年。by 短语给出一个截止时间，说明到那时这一状态已经形成。\n④整句交代两个信息：出生时间和早慧。第2句接着讲他24岁时宣读的论文，所以本句的 by his early twenties 为下文作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语作状语与逻辑主语",
+    "explain": "分词短语放在句首作状语时，它的逻辑主语必须是主句的主语，否则就成了“悬垂分词”这一病句。本句 Born in June 1912 的逻辑主语是 Alan Turing，二者一致。表示“出生”时英语用 be born，所以句首只能用 Born，不能写成 Bearing。考研写作中，用分词短语开头时，要先确认主句主语就是分词动作的发出者或承受者；如“Looking out of the window, the mountains were beautiful”就是错句，应改为 Looking out of the window, I saw the beautiful mountains。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Born into a poor farming family, she became the first person in her village to attend university.",
+      "zh": "她出身于一个贫穷的农民家庭，成为村里第一个上大学的人。"
+     },
+     {
+      "en": "Written in plain language, the report is easy for ordinary readers to follow.",
+      "zh": "这份报告用浅白的语言写成，普通读者很容易看懂。"
+     }
+    ]
+   },
+   {
+    "title": "by + 时间：到……时为止",
+    "explain": "by 加时间表示“不迟于某时，到某时为止”，强调在这个时间点之前某事已经完成或某种状态已经形成。by + 过去时间常与过去完成时连用，by + 将来时间常与将来完成时连用。本句谓语 had 是状态动词，表示“拥有”这种持续状态，用一般过去时就能表达“到那时已经具备”，视频译文中的“已”正体现了这层意思。注意区分 by 与 until：by 强调截止时间前完成，until 强调动作或状态一直持续到某时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the decade, the company had opened stores in thirty countries.",
+      "zh": "到这个十年结束时，该公司已在三十个国家开设了门店。"
+     },
+     {
+      "en": "Applications must reach the office by 5 p.m. on Friday.",
+      "zh": "申请材料必须在周五下午5点前送达办公室。"
+     }
+    ]
+   },
+   {
+    "title": "in one's early / mid / late + 年龄段",
+    "explain": "英语用 in one's twenties、thirties 等表示“二十多岁、三十多岁”，前面加 early、mid、late 把年龄段再细分：early twenties 指二十出头，mid-thirties 指三十五岁左右，late forties 指将近五十。本句不用 in，而换成介词 by，by his early twenties 表示“到二十出头时”，强调截止时间。写作中描述人物经历时，这种表达比直接写具体年龄更自然。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She took up painting in her late forties and held her first exhibition at fifty-five.",
+      "zh": "她将近五十岁时开始学画，五十五岁时办了第一次画展。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Alan Turing",
+    "explain": "艾伦·图灵，英国数学家、逻辑学家，1912年6月23日生于伦敦，常被称为计算机科学和人工智能的奠基人之一。本文第18句提到2021年6月23日是他的生日，与此处的出生月份相呼应。"
+   },
+   {
+    "term": "formidable",
+    "explain": "视频说明：常译为“强大的、令人敬畏的”，多指实力极强、规模宏大或难度极高，足以给人带来压迫感或让人难以应对。修饰人的能力时是褒义，如 a formidable intellect、a formidable memory；修饰对手、任务时偏指“难对付的”，如 a formidable opponent。本句视频取“强大的”。"
+   },
+   {
+    "term": "intellect",
+    "explain": "名词，指理性思考和理解的能力，即“才智、智力”，比 intelligence 更书面，侧重抽象思维能力。a man of formidable intellect 是常见搭配。intellect 还可以指“才智出众的人”，是可数名词用法。"
+   }
+  ],
+  "translation_tip": "视频译文按英文语序顺译：①句首的过去分词短语 Born in June 1912 与主语 Alan Turing 合起来，转译成一个完整的主谓结构“艾伦·图灵生于1912年6月”。②主句另起一个分句，用“他”复指主语，谓语 had 译为“已拥有”，“已”体现 by 短语所含的“到那时为止已经”的意味。③形容词 formidable 按视频取“强大的”，前置修饰“才智”。④时间状语 by his early twenties 保留在句末，单独成为“二十出头时”，与英文顺序一致。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "he",
+   "predicate": "outlined",
+   "object_or_complement": "a \"universal machine\"",
+   "explain": "主谓宾结构。谓语 outlined 是一般过去时，主动语态，叙述1936年的具体事件；冒号后的 a device… 是宾语的同位语，解释“通用机器”是什么。"
+  },
+  "components": [
+   {
+    "text": "In a paper",
+    "role": "地点状语（介词短语，in 表示“在……之中”）",
+    "zh": "在……一篇论文中"
+   },
+   {
+    "text": "read in November 1936,",
+    "role": "后置定语（过去分词短语），修饰 a paper",
+    "zh": "1936年11月宣读的"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "outlined",
+    "role": "谓语",
+    "zh": "勾勒了"
+   },
+   {
+    "text": "a \"universal machine\":",
+    "role": "宾语",
+    "zh": "一种“通用机器”"
+   },
+   {
+    "text": "a device",
+    "role": "同位语（中心词），说明 a \"universal machine\"",
+    "zh": "一种……装置"
+   },
+   {
+    "text": "able to execute any computation,",
+    "role": "后置定语（形容词短语），修饰 a device",
+    "zh": "能执行任何计算的"
+   },
+   {
+    "text": "given the right instructions.",
+    "role": "条件状语（过去分词短语，相当于 if it is given the right instructions，逻辑主语是 a device）",
+    "zh": "只要给出正确的指令"
+   }
+  ],
+  "structure": "①主句是 he outlined a \"universal machine\"：主语 he，谓语 outlined，宾语 a \"universal machine\"。引号表示这是图灵提出的专门名称。\n②句首 In a paper 是地点状语，read in November 1936 是过去分词短语作后置定语，修饰 paper（视频说明“过去分词短语作后置定语，修饰 paper”）。这里的 read 是过去分词，读 /red/，论文是“被宣读”的，相当于 a paper which was read in November 1936。句子真正的谓语是后面的 outlined。\n③冒号后的 a device 是同位语，解释 universal machine 是什么（视频说明“冒号后是同位语”）。able to execute any computation 是形容词短语作后置定语，修饰 device；形容词带有不定式等补足成分时，必须放在名词后面。\n④句尾 given the right instructions 是过去分词短语作条件状语，表示“只要给出……”（视频说明“表条件”）。它的逻辑主语是 a device：装置“被给予”指令，相当于 if it is given the right instructions。give sb sth 变被动时，sb 作主语，sth 保留在动词后，所以 given 后直接跟 the right instructions。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语：形式与谓语相同时的判断",
+    "explain": "过去分词短语放在名词后作定语，表示被动或完成，相当于一个定语从句。read、put、cut、set 这类动词的过去分词与原形、过去式拼写相同，长难句中很容易被误当成谓语。本句 a paper read in November 1936 中，read 若是谓语，主语 a paper 不可能发出“读”的动作，而且后面另有谓语 outlined，所以 read 只能是过去分词作定语。考研阅读遇到“名词 + 动词 -ed 形式或不规则过去分词”时，先找全句的谓语，再判断这个词的身份。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report published last week drew sharp criticism from economists.",
+      "zh": "上周发布的那份报告招致经济学家的尖锐批评。"
+     },
+     {
+      "en": "Most of the evidence presented at the trial came from a single witness.",
+      "zh": "庭审中出示的大部分证据都来自同一名证人。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "单个形容词一般放在名词前，但形容词带有补足成分（不定式、介词短语等）构成形容词短语时，要放在名词之后，相当于省略了“关系代词 + be”的定语从句。本句 a device able to execute any computation 相当于 a device which is able to execute any computation。同类结构有 a task difficult to complete、a city rich in history、people eager to help。翻译时把它前置为“……的”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The party needs a leader capable of uniting its rival factions.",
+      "zh": "该党需要一位能够团结各对立派别的领导人。"
+     }
+    ]
+   },
+   {
+    "title": "given 的两种用法：条件状语与介词",
+    "explain": "given 作过去分词时可以引导条件状语，相当于 if sb/sth is given…，本句 given the right instructions 即“只要（装置）被给予正确的指令”。given 还可以作介词，意为“考虑到、鉴于”，后接名词或 that 从句，如 given the circumstances（考虑到当时的情况）。两者的区别在于逻辑关系：前者是“如果得到……”，后者是“鉴于已有的事实”。考研阅读中 given 引出的成分常被误读为谓语或被动句，要结合句意判断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Given enough time and support, most struggling students can catch up with their classmates.",
+      "zh": "只要有足够的时间和帮助，大多数学习吃力的学生都能赶上同学。"
+     },
+     {
+      "en": "Given the current economic climate, the expansion plan seems too ambitious.",
+      "zh": "考虑到当前的经济形势，这项扩张计划显得过于激进。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出同位语",
+    "explain": "冒号后可以接一个名词短语，对前面的名词进行解释或具体说明，作用相当于同位语。本句冒号前是简短的名称 a \"universal machine\"，冒号后用 a device… 具体解释它的功能。外刊常用这种“先给概念，再作解释”的写法，阅读时冒号后的内容往往就是作者对概念的定义。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The team faced a familiar problem: a lack of reliable data.",
+      "zh": "这个团队面临一个老问题：缺乏可靠的数据。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a paper read in November 1936",
+    "explain": "指图灵的论文 On Computable Numbers, with an Application to the Entscheidungsproblem（《论可计算数及其在判定问题上的应用》），1936年11月在伦敦数学会宣读。read a paper 指在学术会议上“宣读论文”，视频译为“宣读的一篇论文”。"
+   },
+   {
+    "term": "universal machine",
+    "explain": "图灵设想的一种抽象机器：只要把描述任务的指令输入给它，它就能完成任何可以计算的任务。后人称之为“通用图灵机”（universal Turing machine）。universal 在此意为“通用的，适用于一切情况的”。"
+   },
+   {
+    "term": "outline",
+    "explain": "动词，意为“概述，勾勒出要点”，如 outline a plan、outline the main points。视频译为“勾勒了”，表示论文提出了这一机器的基本构想，而不是造出了实物。"
+   },
+   {
+    "term": "execute a computation",
+    "explain": "execute 意为“执行，实施”，常与 program、command、plan、order 等搭配；execute a computation 即“执行计算”。execute 另有“处决”之义，考研阅读要按语境区分。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①过去分词短语 read in November 1936 前置为定语“1936年11月宣读的”，与介词短语合译为“在1936年11月宣读的一篇论文中”，符合汉语定语在前的习惯。②冒号保留，同位语 a device… 中的形容词短语 able to execute any computation 前置，译为“一种能执行任何计算的装置”，“一种”与前面的“一种‘通用机器’”对应。③条件状语 given the right instructions 留在句末，增补“只要”点明条件关系，译为“只要给出正确的指令”，被动的 given 转成主动说法“给出”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "That abstract construct",
+   "predicate": "became",
+   "object_or_complement": "the theoretical blueprint of the modern computer",
+   "explain": "主系表结构。became 是系动词 become 的过去式，一般过去时，后接名词短语作表语，说明这一构想后来的身份和地位。"
+  },
+  "components": [
+   {
+    "text": "That abstract construct,",
+    "role": "主语（That 回指上句的 universal machine）",
+    "zh": "这一抽象的构想"
+   },
+   {
+    "text": "rooted in mathematical logic,",
+    "role": "插入成分（过去分词短语），补充说明 construct，相当于非限制性定语从句",
+    "zh": "根源于数理逻辑"
+   },
+   {
+    "text": "became",
+    "role": "谓语（系动词）",
+    "zh": "后来成为了"
+   },
+   {
+    "text": "the theoretical blueprint",
+    "role": "表语",
+    "zh": "理论蓝图"
+   },
+   {
+    "text": "of the modern computer.",
+    "role": "后置定语（介词短语），修饰 blueprint",
+    "zh": "现代计算机的"
+   }
+  ],
+  "structure": "①主句是 That abstract construct became the theoretical blueprint of the modern computer，主系表结构：主语 That abstract construct，系动词 became，表语 the theoretical blueprint of the modern computer。\n②主语中的 That 回指上句的 a \"universal machine\"，作者用 abstract construct（抽象的构想）重新概括它，强调它只是理论上的设想，不是实物机器。\n③两个逗号之间的 rooted in mathematical logic 是过去分词短语，插在主语和谓语之间补充说明 construct（视频说明“过去分词短语，插入说明 construct”），相当于 which was rooted in mathematical logic。root 用作动词意为“使扎根”，be rooted in 表示“根源于、植根于”。\n④表语中心词是 blueprint，theoretical 作前置定语，of the modern computer 作后置定语，说明是谁的蓝图。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插入的过去分词短语作非限制性定语",
+    "explain": "过去分词短语用逗号隔开，插在主语和谓语之间，对主语作补充说明，作用相当于非限制性定语从句，去掉后主干仍然完整。本句 rooted in mathematical logic 相当于 which was rooted in mathematical logic。读长难句时，可以先跳过两个逗号之间的插入成分，把主语 construct 和谓语 became 连起来找主干，再回头看插入成分修饰谁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The policy, designed to cut carbon emissions, has also pushed up energy prices.",
+      "zh": "这项政策旨在减少碳排放，但也推高了能源价格。"
+     },
+     {
+      "en": "The theory, first proposed in the 1960s, is now widely accepted by physicists.",
+      "zh": "这一理论最早于20世纪60年代提出，如今已被物理学家广泛接受。"
+     }
+    ]
+   },
+   {
+    "title": "become 作系动词",
+    "explain": "become 作系动词时意为“变成，成为”，后接名词或形容词作表语，表示状态的变化，没有被动语态。本句 became the theoretical blueprint 中名词短语作表语。become 另有及物用法，意为“适合，与……相称”，如 That colour becomes you，但较少见。写作中描述事物发展结果时，became 后接名词短语是简洁的表达。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The small family workshop later became one of the largest carmakers in Europe.",
+      "zh": "这家小小的家庭作坊后来成为欧洲最大的汽车制造商之一。"
+     }
+    ]
+   },
+   {
+    "title": "用概括性名词回指前文",
+    "explain": "英语常用“this / that / these + 概括性名词”回指前文提到的事物，既避免重复，又加上作者的归纳或评价。本句 That abstract construct 回指上句的 universal machine，abstract 一词点明它停留在理论层面。考研阅读的指代题和同义替换题常考这种回指，答案要到前一两句去找。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Engineers suggested burying the power lines, but that costly proposal was soon dropped.",
+      "zh": "工程师建议把电线埋到地下，但这项代价高昂的提议很快就被放弃了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "mathematical logic",
+    "explain": "数理逻辑（视频说明），用数学方法研究推理和证明的学科。图灵1936年的论文讨论的正是数理逻辑中的“判定问题”。mathematical 单独译为“数学的”，与 logic 组合时视频译为“数理”。"
+   },
+   {
+    "term": "construct",
+    "explain": "本句为名词，读 /ˈkɒnstrʌkt/，重音在第一个音节，意为“构想，概念”，常见于学术文本，如 a theoretical construct、a social construct（社会建构）。作动词“建造”时读 /kənˈstrʌkt/，重音在第二个音节。"
+   },
+   {
+    "term": "be rooted in",
+    "explain": "根源于，植根于，如 be rooted in tradition、be deeply rooted in history。本句省略了 which was，只留下过去分词短语 rooted in mathematical logic。"
+   },
+   {
+    "term": "blueprint",
+    "explain": "本义是建筑或机械的设计蓝图，引申为“详细的计划、行动纲领”，如 a blueprint for reform。本句用 theoretical blueprint 说明图灵的构想为现代计算机提供了理论设计图。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①插入的过去分词短语 rooted in mathematical logic 没有译成定语，而是转为第一个分句的谓语“根源于数理逻辑”，与主语“这一抽象的构想”直接相连，避免定语过长。②主句谓语 became 译为“后来成为了”，增补“后来”交代从1936年的构想到现代计算机之间的时间推移。③表语中的后置定语 of the modern computer 前置，译为“现代计算机的理论蓝图”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "he",
+   "predicate": "joined",
+   "object_or_complement": "the classified codebreaking effort",
+   "explain": "主谓宾结构。谓语 joined 是一般过去时，主动语态；句尾的现在分词短语 leading… 作伴随状语，说明他加入后担任的工作。"
+  },
+  "components": [
+   {
+    "text": "On 4 September 1939",
+    "role": "时间状语（介词短语）",
+    "zh": "1939年9月4日"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "joined",
+    "role": "谓语",
+    "zh": "加入了"
+   },
+   {
+    "text": "the classified codebreaking effort",
+    "role": "宾语（classified 和 codebreaking 都作前置定语，修饰 effort）",
+    "zh": "保密的破译工作"
+   },
+   {
+    "text": "at Bletchley Park,",
+    "role": "后置定语（介词短语），修饰 effort",
+    "zh": "布莱切利园的"
+   },
+   {
+    "text": "leading work",
+    "role": "伴随状语（现在分词短语，逻辑主语是 he）",
+    "zh": "领导……的工作"
+   },
+   {
+    "text": "on naval Enigma,",
+    "role": "后置定语（介词短语，on 意为“关于”），修饰 work",
+    "zh": "关于海军恩尼格玛密码机"
+   },
+   {
+    "text": "Germany's encryption machine.",
+    "role": "同位语，说明 Enigma",
+    "zh": "即德国的加密机器"
+   }
+  ],
+  "structure": "①主句是 he joined the classified codebreaking effort：主语 he，谓语 joined，宾语 the classified codebreaking effort。宾语前有两个前置定语：classified（保密的）和 codebreaking（破译的）；at Bletchley Park 是介词短语作后置定语，说明工作地点。\n②句首 On 4 September 1939 是时间状语，按英式写法“日、月、年”排列。\n③逗号后的 leading work on naval Enigma 是现在分词短语作伴随状语（视频说明“现在分词短语作伴随状语”），逻辑主语是 he，说明他在那里负责的具体工作。work 是不可数名词，意为“工作”，on naval Enigma 作后置定语，表示工作针对的对象；naval 修饰 Enigma，指德国海军使用的恩尼格玛机。\n④句尾 Germany's encryption machine 是同位语，说明 Enigma 是什么（视频说明“同位语，说明 Enigma”）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末，用逗号与主句隔开，可以表示与谓语动作同时发生或紧随其后的伴随情况，逻辑主语是主句主语。本句 leading work on naval Enigma 的逻辑主语是 he，说明他加入破译工作后负责什么，相当于 and he led work on naval Enigma。现在分词表示主动，所以用 leading，不用 led。考研翻译中，这类句末分词短语一般译成并列的动词短语，放在主句之后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She spent three years in Geneva, working for a United Nations refugee agency.",
+      "zh": "她在日内瓦待了三年，为联合国的一个难民机构工作。"
+     },
+     {
+      "en": "The minister left the meeting early, refusing to answer reporters' questions.",
+      "zh": "这位部长提前离开了会议，拒绝回答记者的提问。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语",
+    "explain": "名词短语紧跟在另一个名词后，用逗号隔开，对它进行解释说明，就是同位语。本句 Germany's encryption machine 说明 Enigma 是德国的加密机器。同位语与被说明的名词指同一事物，可以互相替换。外刊介绍专有名词时常用这种方式，给不熟悉的读者补充背景。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The delegation arrived in Canberra, Australia's capital, on Monday morning.",
+      "zh": "代表团周一上午抵达澳大利亚首都堪培拉。"
+     }
+    ]
+   },
+   {
+    "title": "英式日期写法与介词 on",
+    "explain": "具体到某一天的日期前用介词 on。英式英语常按“日、月、年”写作 4 September 1939，美式英语多写作 September 4, 1939。本文日期都采用英式写法，与 apologised 等英式拼写一致。表示年份或月份时用 in，如 in 1939、in September 1939。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The peace treaty was signed on 28 June 1919 in the Hall of Mirrors at Versailles.",
+      "zh": "和约于1919年6月28日在凡尔赛宫镜厅签署。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Bletchley Park",
+    "explain": "布莱切利园，位于英格兰白金汉郡，二战期间是英国政府密码学校（Government Code and Cypher School）的所在地，集中了大批数学家和语言学家从事破译工作。1939年9月3日英国对德宣战，图灵于次日到这里报到。"
+   },
+   {
+    "term": "Enigma",
+    "explain": "恩尼格玛密码机，二战中德军使用的一种转子式电动机械加密机，enigma 一词本身意为“谜”。德国海军使用的版本保密措施更严，破解难度更大。图灵领导的“八号屋”（Hut 8）专门负责破译海军恩尼格玛。"
+   },
+   {
+    "term": "classified",
+    "explain": "形容词，意为“机密的，保密的”，多指政府或军方按密级管理的信息，如 classified documents、classified information。视频译为“保密的”。"
+   },
+   {
+    "term": "effort",
+    "explain": "熟词僻义：effort 除了“努力”，还可指为某一目标进行的集体行动、工作，可数，如 the war effort（全民支援战争的行动）、a relief effort（救援行动）。本句 codebreaking effort 视频译为“破译工作”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①时间状语 On 4 September 1939 放在句首，按汉语习惯写成“1939年9月4日”。②宾语的后置定语 at Bletchley Park 前置，与前置定语一起译为“布莱切利园的保密的破译工作”。③伴随状语 leading work on naval Enigma 译成与“加入了”并列的动作“领导关于海军恩尼格玛密码机的工作”，后置定语 on naval Enigma 前移，Enigma 增译为“恩尼格玛密码机”，交代它的性质。④同位语用“即”引出，放在句末，译为“即德国的加密机器”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Polish mathematicians",
+   "predicate": "had deciphered；shared",
+   "object_or_complement": "Enigma（had deciphered 的宾语）；their insights（shared 的宾语）",
+   "explain": "一个主语带两个并列谓语。had deciphered 是过去完成时，主动语态，表示在过去某时之前已经完成；shared 是一般过去时，叙述1939年7月的具体动作。"
+  },
+  "components": [
+   {
+    "text": "Polish mathematicians",
+    "role": "主语",
+    "zh": "波兰数学家"
+   },
+   {
+    "text": "had deciphered",
+    "role": "谓语一（过去完成时）",
+    "zh": "就已破译了"
+   },
+   {
+    "text": "Enigma",
+    "role": "宾语（had deciphered 的宾语）",
+    "zh": "恩尼格玛"
+   },
+   {
+    "text": "by late 1932",
+    "role": "时间状语（介词短语，by 表示“到……时为止”）",
+    "zh": "早在1932年底"
+   },
+   {
+    "text": "and shared",
+    "role": "并列连词 and + 谓语二（一般过去时）",
+    "zh": "并……告知了"
+   },
+   {
+    "text": "their insights",
+    "role": "宾语（shared 的宾语）",
+    "zh": "他们的深刻见解（破解思路）"
+   },
+   {
+    "text": "with Britain and France",
+    "role": "状语（介词短语，表示告知的对象），与 shared 构成 share A with B",
+    "zh": "英国和法国"
+   },
+   {
+    "text": "in July 1939.",
+    "role": "时间状语（介词短语）",
+    "zh": "于1939年7月"
+   }
+  ],
+  "structure": "①主语 Polish mathematicians 带两个并列谓语，用 and 连接：had deciphered Enigma by late 1932 和 shared their insights with Britain and France in July 1939，每个谓语各带自己的宾语和时间状语。\n②第一个谓语 had deciphered 用过去完成时（视频说明“过去完成时，发生在1939年之前”）。by late 1932 给出完成的时间点，这件事比后文1939年7月的分享和上句1939年9月图灵加入都早，是“过去的过去”。\n③第二个谓语 shared 用一般过去时，叙述1939年7月发生的具体动作。share A with B 意为“把 A 告知 B，与 B 分享 A”（视频说明“share A with B：把 A 告知 B”）。\n④their 指 Polish mathematicians，their insights 指波兰人破解恩尼格玛的见解和方法，下一句的 them 就回指 their insights。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时与 by + 过去时间",
+    "explain": "过去完成时（had done）表示在过去某一时间点之前已经完成的动作。by + 过去时间是它最典型的标志，如 by 1900、by the end of last year、by the time + 一般过去时从句。本句 had deciphered… by late 1932 表示到1932年底破译已经完成；放在讲1939年的段落里，又起到交代“早在此前”的作用。考研阅读中，过去完成时常用来插叙背景，提示这件事发生在文中主线事件之前。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By 1900, the population of the city had more than doubled.",
+      "zh": "到1900年，这座城市的人口已经增加了一倍多。"
+     },
+     {
+      "en": "The patient had already lost consciousness by the time the ambulance arrived.",
+      "zh": "救护车赶到时，病人已经失去了知觉。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语可以用不同时态",
+    "explain": "同一主语后的几个并列谓语，时态由各自动作的时间决定，不必一致。本句 had deciphered 发生在1932年底以前，用过去完成时；shared 发生在1939年7月，用一般过去时。读这类句子时，要把每个谓语和它自己的时间状语对应起来，理清事件的先后顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She had worked as a nurse for ten years and then retrained as a doctor.",
+      "zh": "她做了十年护士，后来又重新接受培训成为一名医生。"
+     }
+    ]
+   },
+   {
+    "title": "share A with B",
+    "explain": "share 作及物动词，share A with B 表示“与 B 分享 A，把 A 告诉 B”，A 可以是物品，也可以是信息、经验、观点等抽象事物。本句 share their insights with Britain and France 即把破解思路告知英法两国。注意介词用 with，不用 to。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The research team agreed to share its data with laboratories abroad.",
+      "zh": "研究团队同意与国外的实验室共享数据。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Polish mathematicians",
+    "explain": "指波兰密码局的数学家，以雷耶夫斯基（Marian Rejewski）为代表。他们用数学方法推断出恩尼格玛的内部线路，1932年底实现破译。1939年7月，二战爆发前夕，波兰在华沙附近把研究成果交给了英国和法国。"
+   },
+   {
+    "term": "decipher",
+    "explain": "动词，意为“破译（密码），辨认（难认的字迹）”，如 decipher a code、decipher someone's handwriting。本句视频译为“破译了”。"
+   },
+   {
+    "term": "insight",
+    "explain": "名词，意为“深刻的理解，洞见”。作可数名词时指具体的见解，常用复数，如 valuable insights；作不可数名词时指洞察力，常用 insight into sth。本句视频译为“深刻见解”，括号里的“破解思路”说明这些见解的具体内容。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①时间状语 by late 1932 前置，增补“早在”，再用“就已”对应过去完成时，突出这件事发生得很早。②share A with B 用“把”字句的变体“将……告知了”译出，宾语“他们的深刻见解”提到动词前，并用括号增补“（破解思路）”点明所指。③第二个时间状语 in July 1939 译为“于1939年7月”，放在动词“告知了”之前，符合汉语状语前置的习惯。④and 译为“并”，连接两个谓语。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "His team's machines",
+   "predicate": "exploited；automated",
+   "object_or_complement": "them（exploited 的宾语）；the laborious search for each day's rotor settings（automated 的宾语）",
+   "explain": "一个主语带两个并列谓语，都是一般过去时，主动语态。and 与第二个谓语之间插入了形容词短语 operational from March 1940。"
+  },
+  "components": [
+   {
+    "text": "His team's machines",
+    "role": "主语",
+    "zh": "他团队（研制的）的机器"
+   },
+   {
+    "text": "exploited",
+    "role": "谓语一",
+    "zh": "利用了"
+   },
+   {
+    "text": "them",
+    "role": "宾语（代词，指上句的 their insights）",
+    "zh": "这些见解和思路"
+   },
+   {
+    "text": "and,",
+    "role": "并列连词，连接两个谓语",
+    "zh": "并且"
+   },
+   {
+    "text": "operational from March 1940,",
+    "role": "插入的形容词短语作状语，说明主语 machines 的状态，插在 and 与谓语二之间",
+    "zh": "从1940年3月起投入运行"
+   },
+   {
+    "text": "automated",
+    "role": "谓语二",
+    "zh": "自动化了"
+   },
+   {
+    "text": "the laborious search",
+    "role": "宾语（automated 的宾语）",
+    "zh": "搜寻……这项耗时费力的工作"
+   },
+   {
+    "text": "for each day's rotor settings.",
+    "role": "后置定语（介词短语），修饰 search，说明搜寻的对象",
+    "zh": "每天……转子设置"
+   }
+  ],
+  "structure": "①主语 His team's machines 带两个并列谓语：exploited them 和 automated the laborious search…，用 and 连接。His team's 是名词所有格，his 指图灵。\n②宾语 them 指上句波兰数学家的 insights（视频说明“them：指波兰数学家的 insights”），不是指离它最近的 Britain and France，因为“机器利用”的只能是破解思路。\n③operational from March 1940 是形容词短语，用逗号隔开，插在 and 与第二个谓语 automated 之间（视频说明），说明机器从何时起投入使用。它的逻辑主语是 machines，相当于 having become operational in March 1940。\n④第二个宾语的中心词是名词 search，laborious 作前置定语；for each day's rotor settings 是介词短语作后置定语，说明搜寻的对象（视频说明“search for…：对……的搜寻”）。each day's 是所有格，表示每天的转子设置，暗示设置每天都会变化。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词短语作状语",
+    "explain": "形容词或形容词短语可以用逗号隔开，放在句首、句中或句末作状语，补充说明主语的状态、时间或原因，逻辑主语是句子的主语。本句 operational from March 1940 插在 and 与 automated 之间，说明机器从1940年3月起处于运行状态，可以看作省略了 being 的分词结构。长难句中，这类插入成分把并列连词和谓语隔开，要越过逗号把 and 和 automated 连起来，才能看出这是第二个并列谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Exhausted after the long climb, the hikers fell asleep almost at once.",
+      "zh": "长时间攀登之后，徒步者筋疲力尽，几乎立刻就睡着了。"
+     },
+     {
+      "en": "The old bridge, safe for traffic again, reopened to cars last week.",
+      "zh": "这座旧桥重新具备了通行条件，上周恢复了汽车通行。"
+     }
+    ]
+   },
+   {
+    "title": "代词指代的判断：不能只看距离",
+    "explain": "代词指代的对象通常在前文，但不一定是离它最近的名词，要按语义判断。本句 them 不能指同句主语 machines（指主语自身要用 themselves），往前看，上句离它最近的复数名词是 Britain and France，但“机器利用英国和法国”说不通，机器利用的应是波兰人的 insights，所以 them 指 their insights。考研阅读的指代题常把离代词最近的名词设为干扰项，必须把选项代回原句检验是否通顺。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The researchers tested the new drugs on mice, and they found that the side effects were mild.",
+      "zh": "研究人员在小鼠身上试验了这些新药，他们发现副作用很轻微。"
+     }
+    ]
+   },
+   {
+    "title": "search 作名词：the search for sth",
+    "explain": "search 作名词时，常用 the search for sth 表示“对……的搜寻、寻找”，如 the search for survivors、the search for a cure。作动词时要注意区别：search sth 指“搜查某处”，search for sth 指“寻找某物”，如 search the house for the keys（在房子里找钥匙）。本句 the laborious search for each day's rotor settings 中，名词 search 被 automated 支配，作宾语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The search for an effective vaccine took scientists less than a year.",
+      "zh": "科学家们寻找有效疫苗只用了不到一年时间。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "His team's machines",
+    "explain": "指图灵团队设计的电动机械破译机，英国称为 bombe，是在波兰人研制的 bomba 基础上改进而来，第一台于1940年3月投入使用，正与句中 operational from March 1940 对应。视频译文增补“（研制的）”，说明机器与团队的关系。"
+   },
+   {
+    "term": "rotor settings",
+    "explain": "转子设置。恩尼格玛靠几个可以转动的转子对字母进行替换加密，转子的选用、排列顺序和起始位置等按规定每天更换，所以破译者每天都要重新找出当天的设置，这就是 each day's rotor settings。"
+   },
+   {
+    "term": "exploit",
+    "explain": "动词，本句是中性义“利用，开发利用”，如 exploit an opportunity、exploit a weakness；另有贬义“剥削，压榨”，如 exploit workers。视频取“利用了”。"
+   },
+   {
+    "term": "operational / automate / laborious",
+    "explain": "operational 意为“运转中的，可使用的”，常见 become operational、fully operational；automate 意为“使自动化”，automate a process 即让某个流程由机器完成；laborious 意为“费力的，耗时的”，修饰需要大量人力和时间的工作。三者合起来说明机器取代了繁重的人工搜寻。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①主语 His team's machines 增补“（研制的）”，说明机器是团队研制的。②代词 them 译成“这些见解和思路”，把指代对象明确写出来，避免误解。③插入的形容词短语 operational from March 1940 按英文位置放在第二个谓语前，译为“从1940年3月起投入运行”，与“并且”连用，读来像一个先后发生的动作。④宾语 the laborious search for each day's rotor settings 中，名词 search 转译为动词“搜寻”，后置定语 for each day's rotor settings 前移为“每天搜寻转子设置”，形容词 laborious 后移，再增补“这项……工作”作总括，译为“每天搜寻转子设置这项耗时费力的工作”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "he",
+   "predicate": "posed",
+   "object_or_complement": "a provocative question",
+   "explain": "主谓宾结构。谓语 posed 是一般过去时，主动语态；冒号后的直接引语 \"Can machines think?\" 是 question 的同位语，交代问题的内容。"
+  },
+  "components": [
+   {
+    "text": "In October 1950,",
+    "role": "时间状语（介词短语）",
+    "zh": "1950年10月"
+   },
+   {
+    "text": "writing in the philosophy journal Mind,",
+    "role": "伴随状语（现在分词短语，逻辑主语是 he）",
+    "zh": "在哲学期刊《心灵》（Mind）上撰文"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "posed",
+    "role": "谓语",
+    "zh": "提出了"
+   },
+   {
+    "text": "a provocative question:",
+    "role": "宾语",
+    "zh": "一个发人深省的问题"
+   },
+   {
+    "text": "\"Can machines think?\"",
+    "role": "同位语（直接引语），说明 question 的内容",
+    "zh": "“机器能思考吗？”"
+   }
+  ],
+  "structure": "①主句是 he posed a provocative question：主语 he，谓语 posed，宾语 a provocative question。pose a question 意为“提出问题”（视频说明）。\n②主语前有两个状语：In October 1950 是时间状语；writing in the philosophy journal Mind 是现在分词短语作伴随状语（视频说明），逻辑主语是 he。write in + 报刊名表示“在某报刊上撰文发表”，所以这里说的是他在期刊上发表文章时提出问题。\n③the philosophy journal Mind 中，Mind 是 the philosophy journal 的同位语，“类名 + 专名”紧挨在一起，不用逗号隔开。\n④冒号后的直接引语 \"Can machines think?\" 是 question 的同位语，具体说明问题的内容。它本身是一般疑问句，情态动词 can 提到主语 machines 之前。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "问句作同位语与同位语从句的语序",
+    "explain": "说明 question、issue 等名词的内容时，有两种写法：一是用冒号或引号引出原问句，保留疑问语序和问号，本句即是；二是用 whether 等引导同位语从句，改用陈述语序，不加问号，如 the question (of) whether machines can think。考研写作中常见错误是在从句里保留疑问语序，写成 the question whether can machines think。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report raises an awkward question: who will pay for the clean-up?",
+      "zh": "这份报告提出了一个令人尴尬的问题：清理费用由谁来出？"
+     },
+     {
+      "en": "The question of whether the project can be funded remains unanswered.",
+      "zh": "这个项目能否获得资金的问题仍然没有答案。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作状语的逻辑主语",
+    "explain": "句首的现在分词短语作状语时，逻辑主语必须与主句主语一致，并且是分词动作的发出者。本句 writing in the philosophy journal Mind 的逻辑主语是 he，“撰文”与“提出问题”是同一个人在同一时间做的事，现在分词表示主动和同时进行。写作中可以用这种结构把两个动作合成一句，使行文紧凑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Speaking at a conference in Berlin, the minister announced new climate targets.",
+      "zh": "这位部长在柏林的一次会议上发表讲话，宣布了新的气候目标。"
+     }
+    ]
+   },
+   {
+    "title": "“类名 + 专名”的同位结构",
+    "explain": "类名后紧跟专有名词，二者构成同位关系，中间不用逗号，如 the philosophy journal Mind、the poet John Keats、the River Thames。这种写法先告诉读者事物的类别，再给出名称，适合介绍读者可能不熟悉的人或刊物。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The poet John Keats died in Rome at the age of twenty-five.",
+      "zh": "诗人约翰·济慈二十五岁时在罗马去世。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Mind",
+    "explain": "《心灵》，英国的哲学学术期刊，创刊于1876年。图灵发表在这里的论文题为 Computing Machinery and Intelligence（《计算机器与智能》），开篇就提出要讨论“机器能思考吗？”这个问题。"
+   },
+   {
+    "term": "pose a question",
+    "explain": "提出问题（视频说明），比 ask a question 正式，常用于学术和新闻语体。pose 还可以表示“造成（威胁、问题）”，如 pose a threat、pose a risk，考研阅读中很常见。"
+   },
+   {
+    "term": "provocative",
+    "explain": "形容词，意为“引起思考的，引起争论的”，也有“挑衅的”之义，褒贬取决于语境。本句修饰图灵的问题，视频译为“发人深省的”。"
+   },
+   {
+    "term": "write in",
+    "explain": "write in + 报纸、期刊名，意为“在……上撰文”，如 writing in The Lancet。外刊引用学者观点时常用 writing in… 作句首状语，交代观点发表的出处。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①时间状语 In October 1950 放在句首。②现在分词短语 writing in the philosophy journal Mind 译成完整的主谓结构“他在哲学期刊《心灵》（Mind）上撰文”，主语“他”提到这里，与后面的“提出了”构成连动，比照搬分词结构更顺。③专名 Mind 译为《心灵》，加书名号，并在括号里保留原文。④冒号后的直接引语照原样译为问句“机器能思考吗？”，保留疑问语气。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "He",
+   "predicate": "proposed",
+   "object_or_complement": "a practical substitute",
+   "explain": "主谓宾结构。谓语 proposed 是一般过去时，主动语态；the imitation game 是宾语的同位语，now widely called the Turing test 补充说明 the imitation game。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "proposed",
+    "role": "谓语",
+    "zh": "建议用……取而代之"
+   },
+   {
+    "text": "a practical substitute,",
+    "role": "宾语",
+    "zh": "一种切实可行的替代办法"
+   },
+   {
+    "text": "the imitation game,",
+    "role": "同位语，说明 substitute",
+    "zh": "即模仿游戏"
+   },
+   {
+    "text": "now widely called the Turing test.",
+    "role": "后置定语（过去分词短语，非限制性），补充说明 the imitation game，相当于 which is now widely called the Turing test",
+    "zh": "如今普遍称为图灵测试"
+   }
+  ],
+  "structure": "①主句是 He proposed a practical substitute：主语 He，谓语 proposed，宾语 a practical substitute。substitute 是名词，意为“替代物，替代办法”，替代的对象是上句那个难以直接回答的问题 Can machines think?\n②the imitation game 是同位语，说明 substitute 具体是什么（视频说明“同位语，说明 substitute”）。\n③now widely called the Turing test 是过去分词短语，补充说明 the imitation game（视频说明）。call A B 意为“把 A 称作 B”，变成被动后是 A is called B；这里省去了 which is，只留下过去分词 called 和补足成分 the Turing test。now 是时间状语，与 1950 年形成对照；widely 说明范围之广。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "called + 名词：过去分词短语作补充说明",
+    "explain": "call sb/sth + 名词表示“把……称作……”，名词作宾语补足语。变成被动时，原来的宾语作主语，名词保留在 called 后面，如 The game is called the Turing test。省去关系代词和 be 后，called + 名词就成为过去分词短语，放在名词后作定语或补充说明。本句 now widely called the Turing test 相当于 which is now widely called the Turing test。同类表达有 known as、referred to as、described as。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The procedure, informally called keyhole surgery, leaves only tiny scars.",
+      "zh": "这种手术俗称“锁孔手术”，只留下很小的疤痕。"
+     },
+     {
+      "en": "People born between the late 1990s and the early 2010s, often called Generation Z, grew up with smartphones.",
+      "zh": "20世纪90年代末到21世纪10年代初出生的人常被称为“Z世代”，他们伴随着智能手机长大。"
+     }
+    ]
+   },
+   {
+    "title": "propose 的常见结构",
+    "explain": "propose 意为“提议，建议”时，可接名词、动名词或 that 从句：propose a plan、propose doing sth、propose that sb (should) do sth，that 从句中用“should + 动词原形”，should 可以省略，这是考研常考的虚拟语气用法。propose to do sth 则多表示“打算做某事”。本句 proposed a practical substitute 是“propose + 名词”的结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee proposed that the tax be phased out over five years.",
+      "zh": "委员会提议在五年内逐步取消这项税收。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the imitation game / the Turing test",
+    "explain": "图灵在1950年的论文中把这个测试称为 the imitation game（模仿游戏），“图灵测试”是后人以他的名字命名的叫法，所以原文用 now widely called 交代今天的名称。"
+   },
+   {
+    "term": "substitute",
+    "explain": "名词，意为“替代物，替代办法”，常用 a substitute for sth，如 There is no substitute for experience（经验是无法替代的）。作动词时 substitute A for B 表示“用 A 代替 B”，注意 A 是新的，B 是被替换的。视频译为“替代办法”。"
+   },
+   {
+    "term": "practical",
+    "explain": "形容词，意为“切实可行的，实际的”，如 a practical solution。图灵认为“机器能思考吗”这个问题难以直接回答，于是提出一个可以实际操作的测试来代替它，所以视频取“切实可行的”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①proposed a practical substitute 译为“建议用一种切实可行的替代办法取而代之”，增补“取而代之”，点出替代的是上句的问题，使前后句衔接更紧。②同位语 the imitation game 用“即”引出，译为“即模仿游戏”。③过去分词短语 now widely called the Turing test 拆成独立短句“如今普遍称为图灵测试”，被动意义用“称为”表达，不必加“被”字。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "An interrogator",
+   "predicate": "exchanges",
+   "object_or_complement": "typed messages",
+   "explain": "主谓宾结构。谓语 exchanges 是一般现在时，主动语态，用来叙述模仿游戏的规则；with two concealed players 与 exchange 构成 exchange sth with sb。"
+  },
+  "components": [
+   {
+    "text": "An interrogator",
+    "role": "主语",
+    "zh": "一名审问者"
+   },
+   {
+    "text": "exchanges",
+    "role": "谓语（一般现在时）",
+    "zh": "交流"
+   },
+   {
+    "text": "typed messages",
+    "role": "宾语（typed 是过去分词作前置定语，修饰 messages）",
+    "zh": "通过打字"
+   },
+   {
+    "text": "with two concealed players,",
+    "role": "状语（介词短语，表示交流的对象），与 exchanges 构成 exchange sth with sb",
+    "zh": "与两个隐藏起来的参与者"
+   },
+   {
+    "text": "one human",
+    "role": "同位语之一，说明 players",
+    "zh": "其中一个是人"
+   },
+   {
+    "text": "and one machine.",
+    "role": "同位语之二（and 连接），说明 players",
+    "zh": "一个是机器"
+   }
+  ],
+  "structure": "①主句是 An interrogator exchanges typed messages with two concealed players：主语 An interrogator，谓语 exchanges，宾语 typed messages，with two concealed players 表示交流的对象。exchange messages with sb 意为“与某人互通消息”（视频说明）。\n②谓语用一般现在时，因为这里是在介绍游戏规则，与前后文叙述史实的一般过去时不同。\n③typed 和 concealed 都是过去分词作前置定语，表示被动：typed messages 是“打出来的消息”，concealed players 是“被隐藏起来的参与者”。\n④句尾 one human and one machine 是同位语，说明 players（视频说明），把两名参与者分别交代清楚。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一般现在时叙述规则和程序",
+    "explain": "介绍游戏规则、实验步骤、制度流程时，英语用一般现在时，表示这些做法普遍适用，不局限于某一次。本段前两句讲1950年发生的事，用一般过去时；本句和下句转而说明模仿游戏怎么进行，所以改用一般现在时 exchanges、passes。考研阅读中，时态的这种转换往往标志着作者从叙事转入说明。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "In this game, each player draws a card and passes it to the person on the left.",
+      "zh": "在这个游戏中，每位玩家抽一张牌，然后把它传给左边的人。"
+     },
+     {
+      "en": "Applicants submit the form online, and the office replies within ten working days.",
+      "zh": "申请人在网上提交表格，办公室在十个工作日内答复。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词作前置定语",
+    "explain": "单个过去分词常放在名词前作定语，及物动词的过去分词表示被动，如 typed messages（打出来的消息）、concealed players（被隐藏的参与者）、a broken window（被打破的窗户）。concealed 这类过去分词使用频繁，词典已把它列为形容词。分词带有其他成分时才放在名词后面，如 messages typed on a keyboard。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Investigators managed to recover the deleted files from the suspect's laptop.",
+      "zh": "调查人员设法从嫌疑人的笔记本电脑中恢复了被删除的文件。"
+     }
+    ]
+   },
+   {
+    "title": "同位语分述：one…and one…",
+    "explain": "前面提到一组人或物的总数，后面用同位语逐一交代，是常见的“先总后分”写法。本句 two concealed players 后接 one human and one machine，说明两名参与者分别是什么。同类结构如 three candidates, two men and one woman。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The firm hired two new partners, one lawyer and one accountant.",
+      "zh": "这家公司聘了两名新合伙人，一名律师和一名会计师。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "interrogator",
+    "explain": "名词，意为“讯问者，提问者”，图灵在论文里就用这个词称呼游戏中负责提问的一方。动词 interrogate 意为“审问，盘问”，名词 interrogation 意为“审问”。本句视频译为“审问者”。"
+   },
+   {
+    "term": "typed messages",
+    "explain": "打出来的文字消息。图灵设想通过电传打字机传递文字，这样提问者无法凭声音或笔迹判断对方是人还是机器。视频把 exchanges typed messages 处理为“通过打字……交流”。"
+   },
+   {
+    "term": "exchange messages with sb",
+    "explain": "与某人互通消息（视频说明）。exchange 意为“交换，互换”，常见搭配有 exchange views、exchange gifts、exchange A for B（用 A 换 B）。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①宾语 typed messages 转译为方式状语“通过打字”，谓语 exchanges 译为“交流”，名词宾语变成动作方式，汉语更顺。②介词短语 with two concealed players 前置，译为“与两个隐藏起来的参与者交流”，过去分词 concealed 译为“隐藏起来的”。③同位语 one human and one machine 拆成两个短句“其中一个是人，一个是机器”，增补“其中”和判断词“是”，使分述清楚。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "the machine",
+   "predicate": "passes",
+   "object_or_complement": "",
+   "explain": "主句是主谓结构，pass 在这里是不及物动词，意为“通过测试”。谓语用一般现在时，主动语态，与 if 引导的条件状语从句一起说明游戏的判定规则。"
+  },
+  "components": [
+   {
+    "text": "If",
+    "role": "引导词，引导条件状语从句",
+    "zh": "如果"
+   },
+   {
+    "text": "the interrogator",
+    "role": "从句主语",
+    "zh": "审问者"
+   },
+   {
+    "text": "cannot",
+    "role": "从句谓语的一部分（情态动词 + 否定）",
+    "zh": "无法"
+   },
+   {
+    "text": "consistently",
+    "role": "从句状语（副词，修饰 distinguish）",
+    "zh": "始终如一地"
+   },
+   {
+    "text": "distinguish",
+    "role": "从句谓语动词",
+    "zh": "区分出"
+   },
+   {
+    "text": "them,",
+    "role": "从句宾语（代词，指人和机器两个参与者）",
+    "zh": "二者"
+   },
+   {
+    "text": "the machine",
+    "role": "主句主语",
+    "zh": "机器"
+   },
+   {
+    "text": "passes.",
+    "role": "主句谓语（不及物动词）",
+    "zh": "就算通过测试"
+   }
+  ],
+  "structure": "①主句是 the machine passes，主谓结构。pass 是不及物动词，意为“通过测试”（视频说明），后面省去了 the test。\n②If 引导条件状语从句，放在主句前。从句主语 the interrogator，谓语 cannot distinguish，宾语 them，consistently 是状语，插在情态动词和实义动词之间。\n③them 指人和机器两个参与者（视频说明），即上句的 two concealed players。\n④从句的否定词 cannot 与 consistently 连用，否定的是“始终如一”：提问者有时也许能猜对，但做不到每次都分清，机器就算通过。因此本句是部分否定，不是“完全分不出”。\n⑤主从句都用一般现在时，表示游戏规则这种普遍成立的条件和结果。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "否定词 + consistently：部分否定",
+    "explain": "not、cannot 等否定词与 always、consistently、completely、entirely、necessarily 等表示“全部、总是”的词连用时，构成部分否定，意为“并非总是、并非完全”。本句 cannot consistently distinguish them 意为“不能每次都区分出二者”，提问者偶尔分对并不影响结论。如果误读成“完全分不出来”，就夸大了图灵设定的标准。考研阅读的细节题常利用部分否定和全部否定的差别设置干扰项。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The test cannot always detect the virus in its early stages.",
+      "zh": "这种检测并不总能在早期发现病毒。"
+     },
+     {
+      "en": "Higher spending does not necessarily lead to better results.",
+      "zh": "花更多的钱未必带来更好的结果。"
+     }
+    ]
+   },
+   {
+    "title": "if 条件句表示规则和普遍结果",
+    "explain": "表示规则、规律或普遍成立的因果关系时，if 从句和主句都用一般现在时，主句表示条件一满足就必然出现的结果。本句 If the interrogator cannot…, the machine passes 说明测试的判定规则。若主句表示将来某一次的结果，则用“主将从现”，如 If it rains tomorrow, the match will be cancelled。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "If a player handles the ball inside the area, the other team gets a penalty.",
+      "zh": "如果球员在禁区内手球，对方就获得一个点球。"
+     }
+    ]
+   },
+   {
+    "title": "distinguish 的用法",
+    "explain": "distinguish 意为“区分，辨别”，常见结构有 distinguish A from B、distinguish between A and B，也可以直接接宾语，如本句 distinguish them。distinguish oneself 意为“使自己出众”，形容词 distinguished 意为“杰出的”，注意与本义区分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Young children often find it hard to distinguish fact from fiction.",
+      "zh": "小孩子常常难以分清事实和虚构。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pass",
+    "explain": "本句是不及物动词，意为“（考试、测试）合格，通过”，相当于 pass the test，视频译为“通过测试”。及物用法如 pass an exam、pass a law（通过法律）。"
+   },
+   {
+    "term": "consistently",
+    "explain": "副词，意为“一贯地，始终如一地”，如 perform consistently well。视频译为“始终如一地”，与否定词 cannot 连用后表示“不能每次都”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①条件状语从句放在主句前，与英文语序一致，If 译为“如果”。②从句中的 cannot 译为“无法”，consistently 译为“始终如一地”，保留部分否定的意思；代词 them 译为“二者”，指人和机器。③主句 the machine passes 增补宾语“测试”，并加“就算”，“就”表示条件满足后的结果，“算”表示按规则判定为通过。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "His exceptional wartime contribution",
+   "predicate": "did not protect",
+   "object_or_complement": "him",
+   "explain": "主谓宾结构。谓语 did not protect 是一般过去时的否定形式，主动语态，助动词 did 加 not，后接动词原形 protect。"
+  },
+  "components": [
+   {
+    "text": "His exceptional wartime contribution",
+    "role": "主语（His、exceptional、wartime 依次作前置定语，修饰 contribution）",
+    "zh": "他杰出的战时贡献"
+   },
+   {
+    "text": "did not protect",
+    "role": "谓语（一般过去时否定）",
+    "zh": "并没有保护到"
+   },
+   {
+    "text": "him.",
+    "role": "宾语",
+    "zh": "他"
+   }
+  ],
+  "structure": "①句子是简单的主谓宾结构：主语 His exceptional wartime contribution，谓语 did not protect，宾语 him。\n②主语的中心词是 contribution，前面有三个定语：物主限定词 His，描述性形容词 exceptional（杰出的），名词 wartime（战时的）作定语说明贡献所属的时期。\n③主语是“他的贡献”，宾语是“他本人”，His 和 him 指同一个人，用无生命的“贡献”作主语，表达“功劳没能换来保护”的意思。\n④篇章上，本句是第四段的段首句：前三段讲图灵的理论成就、战时破译和图灵测试，本句没有用 but、however 等转折词，却在语义上形成转折，引出他此后的遭遇。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有几个定语时，一般按“限定词（冠词、物主代词、指示代词）+ 描述性形容词 + 名词性定语 + 中心词”的顺序排列，越能表示事物本质属性的定语越靠近中心词。本句 His exceptional wartime contribution 中，His 是限定词，exceptional 是评价性形容词，wartime 说明贡献的类别，紧挨 contribution，不能说成 his wartime exceptional contribution。考研写作中堆叠定语时，按这个顺序排列才地道。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company unveiled its ambitious new electric car at the motor show.",
+      "zh": "该公司在车展上推出了它雄心勃勃的新款电动汽车。"
+     },
+     {
+      "en": "Volunteers restored a beautiful old stone bridge in the village.",
+      "zh": "志愿者修复了村里一座漂亮的古老石桥。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，说明时间、地点、用途、材料等，如 wartime contribution、city council、safety rules。作定语的名词一般用单数形式。wartime 本身是名词，意为“战时”，在本句作定语，相当于“战时的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Wartime rationing continued in Britain until 1954.",
+      "zh": "英国的战时配给制一直持续到1954年。"
+     }
+    ]
+   },
+   {
+    "title": "无连接词的语义转折",
+    "explain": "外刊常不用 but、however，而靠句意的对比形成转折：先肯定前面的成就，再用一句否定句点出反差。本句 did not protect him 与前文的成就形成对比，引出第四段的不幸遭遇。阅读时要从语义上捕捉这种隐性转折，它往往是段落主旨所在。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The reforms won wide praise abroad. At home, they cost the government the next election.",
+      "zh": "这些改革在国外广受赞誉，在国内却让政府输掉了下一次选举。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "wartime contribution",
+    "explain": "指图灵在二战期间对破译恩尼格玛的贡献。布莱切利园的破译工作在战后长期保密，公众当时并不了解他的这些功劳。"
+   },
+   {
+    "term": "exceptional",
+    "explain": "形容词，意为“杰出的，卓越的”，如 exceptional talent；另一义为“例外的，特殊的”，如 in exceptional circumstances（在特殊情况下）。本句视频译为“杰出的”。"
+   },
+   {
+    "term": "contribution",
+    "explain": "名词，意为“贡献”，常用 make a contribution to sth；另有“捐款，捐献”之义。本句视频译为“贡献”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①主语“他杰出的战时贡献”后加逗号，形成停顿，突出主语，也为后面的转折蓄势。②否定谓语 did not protect 译为“并没有保护到”，“并”强调结果与预期相反，增补的“到”表示保护没有落到他身上。③宾语 him 照译为“他”，与主语中的“他”前后对照。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "he",
+   "predicate": "was convicted of",
+   "object_or_complement": "\"gross indecency\"（介词 of 的宾语）",
+   "explain": "被动语态的主谓结构。was convicted 是一般过去时被动语态，be convicted of 意为“被判定犯有……罪”，of 后接罪名。"
+  },
+  "components": [
+   {
+    "text": "On 31 March 1952",
+    "role": "时间状语（介词短语）",
+    "zh": "1952年3月31日"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "was convicted of",
+    "role": "谓语（一般过去时被动语态，be convicted of）",
+    "zh": "被判定犯有"
+   },
+   {
+    "text": "\"gross indecency\",",
+    "role": "介词 of 的宾语（罪名）",
+    "zh": "“严重猥亵”罪"
+   },
+   {
+    "text": "the charge",
+    "role": "同位语（中心词），说明 gross indecency",
+    "zh": "这是……罪名"
+   },
+   {
+    "text": "then used against gay men.",
+    "role": "后置定语（过去分词短语），修饰 the charge",
+    "zh": "当时用来惩治男同性恋者的"
+   }
+  ],
+  "structure": "①主句是 he was convicted of \"gross indecency\"，被动语态：主语 he，谓语 was convicted，of 引出罪名（视频说明“be convicted of：被判定犯有……罪”）。\n②逗号后的 the charge 是同位语，说明 gross indecency 是什么性质的罪名（视频说明“同位语，说明 gross indecency”）。\n③then used against gay men 是过去分词短语作后置定语，修饰 charge（视频说明），相当于 which was then used against gay men。then 是副词，意为“当时”，放在过去分词前作状语；use sth against sb 意为“用某物对付某人”。\n④gross indecency 加了引号，表示这是当时法律文书中的正式罪名，作者原样引用，与这一说法保持距离。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "convict / accuse / charge 的介词搭配",
+    "explain": "convict sb of sth 意为“判定某人犯有某罪”，被动形式 sb be convicted of sth，本句即此用法。同类动词的介词容易混淆：accuse sb of sth（指控、指责某人做了某事），charge sb with sth（以某罪名起诉某人），suspect sb of sth（怀疑某人犯有某罪）。charge 用 with，其余三个用 of，这是完形填空和写作中的常见考点。注意 convict 是法院判定有罪，charge 只是起诉，二者在法律程序上有先后之分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The former mayor was convicted of fraud and sentenced to five years in prison.",
+      "zh": "这位前市长被判犯有诈骗罪，获刑五年。"
+     },
+     {
+      "en": "She was charged with manslaughter but was later acquitted.",
+      "zh": "她被控过失杀人，但后来被宣判无罪。"
+     }
+    ]
+   },
+   {
+    "title": "then 表示“当时（的）”",
+    "explain": "then 作副词时，可以放在过去分词或形容词前，表示“当时”，如本句 the charge then used against gay men（当时用来惩治男同性恋者的罪名）。then 还可以放在名词前作定语，表示“当时的”，如 the then prime minister（当时的首相）。这两种用法在外刊和考研阅读中常用来提醒读者：所说的情况已经时过境迁。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan was approved by the then minister of education.",
+      "zh": "这项计划得到了时任教育部长的批准。"
+     }
+    ]
+   },
+   {
+    "title": "同位语 + 后置定语",
+    "explain": "名词同位语后面还可以再带后置定语，对同位语作进一步限定。本句 the charge 是 gross indecency 的同位语，then used against gay men 又修饰 the charge。读这种结构时，先确认同位语说明谁，再看后置定语修饰谁，层层对应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He was fined for vagrancy, an offence once used to clear the homeless from city streets.",
+      "zh": "他因流浪罪被罚款，这一罪名曾被用来把无家可归者赶出城市街道。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gross indecency",
+    "explain": "“严重猥亵”罪，出自英国1885年《刑法修正案》，当时用来起诉男性之间的同性性行为。作家王尔德（Oscar Wilde）1895年也是以这一罪名被判刑。1967年，英格兰和威尔士通过《性犯罪法》，在一定条件下不再把成年男性之间私下的同性行为视为犯罪。"
+   },
+   {
+    "term": "charge",
+    "explain": "本句是名词，意为“罪名，指控”，如 face a charge of murder（面临谋杀指控）、drop the charges（撤销指控）。视频译为“罪名”。"
+   },
+   {
+    "term": "convict",
+    "explain": "动词读 /kənˈvɪkt/，意为“判定有罪”；名词读 /ˈkɒnvɪkt/，意为“罪犯，囚犯”。名词 conviction 既指“定罪”，也指“坚定的信念”，属于考研常见的一词多义。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①时间状语放在句首。②be convicted of 译为“被判定犯有”，在罪名“严重猥亵”后增补“罪”字，符合汉语表述罪名的习惯，引号保留。③同位语 the charge then used against gay men 拆成独立分句，用“这是”回指前面的罪名，后置定语 then used against gay men 前置为“当时用来惩治男同性恋者的”，used against 译为“用来惩治”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "He",
+   "predicate": "forfeited；submitted to",
+   "object_or_complement": "his security clearance（forfeited 的宾语）；hormone injections（submitted to 的宾语）",
+   "explain": "一个主语带两个并列谓语，都是一般过去时，主动语态。and 与第二个谓语之间插入了表示目的的不定式短语 to avert imprisonment。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "forfeited",
+    "role": "谓语一",
+    "zh": "被剥夺/丧失了"
+   },
+   {
+    "text": "his security clearance",
+    "role": "宾语（forfeited 的宾语）",
+    "zh": "他的安全许可"
+   },
+   {
+    "text": "and,",
+    "role": "并列连词，连接两个谓语",
+    "zh": "并且"
+   },
+   {
+    "text": "to avert imprisonment,",
+    "role": "目的状语（不定式短语），插在 and 与谓语二之间",
+    "zh": "为了避免入狱"
+   },
+   {
+    "text": "submitted to",
+    "role": "谓语二（不及物动词 submit + 介词 to）",
+    "zh": "被迫接受了"
+   },
+   {
+    "text": "hormone injections.",
+    "role": "介词 to 的宾语（hormone 是名词作定语）",
+    "zh": "激素注射"
+   }
+  ],
+  "structure": "①主语 He 带两个并列谓语：forfeited his security clearance 和 submitted to hormone injections，用 and 连接。\n②to avert imprisonment 是不定式短语作目的状语，用逗号隔开，插在 and 与第二个谓语之间（视频说明“不定式表目的，插在 and 与谓语之间”），逻辑主语是 He，说明他接受激素注射的目的。\n③submit 在此是不及物动词，submit to 意为“接受，服从”（视频说明），to 是介词，后接名词 hormone injections。\n④forfeit 意为“（因违规或受罚而）丧失”，主语是遭受损失的一方，形式是主动，意思上含有被剥夺的意味，视频因此并列给出“被剥夺/丧失了”两种说法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不定式短语作目的状语",
+    "explain": "不定式短语可以表示目的，放在句首、句中或句末，逻辑主语是句子主语，强调目的时也可以写成 in order to 或 so as to。本句 to avert imprisonment 插在 and 和 submitted to 之间，只修饰第二个谓语：接受激素注射是为了避免入狱。阅读时要越过插入成分，把 and 与 submitted to 连起来，看出它和 forfeited 是并列谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "To reduce costs, the airline cut several unprofitable routes.",
+      "zh": "为了降低成本，这家航空公司砍掉了几条不赚钱的航线。"
+     },
+     {
+      "en": "The council, to avoid further delays, approved the budget without a vote.",
+      "zh": "为了避免进一步拖延，市议会未经表决就批准了预算。"
+     }
+    ]
+   },
+   {
+    "title": "submit 的及物与不及物用法",
+    "explain": "submit 作及物动词时意为“提交，呈递”，如 submit an application、submit a report to the committee；作不及物动词时与介词 to 连用，意为“屈服，服从，接受（治疗、检查、裁决等）”，如 submit to pressure、submit to a medical examination。本句 submitted to hormone injections 是不及物用法，含有被迫、不得不接受的意味，视频译为“被迫接受了”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "All candidates must submit their applications by the end of the month.",
+      "zh": "所有候选人必须在月底前提交申请。"
+     },
+     {
+      "en": "After weeks of protest, the company finally submitted to the workers' demands.",
+      "zh": "经过数周的抗议，公司终于接受了工人们的要求。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "security clearance",
+    "explain": "安全许可，指经过审查后获准接触机密信息的资格，常见 hold a security clearance、lose one's security clearance。图灵被定罪后失去这一资格，无法再接触政府的机密工作。"
+   },
+   {
+    "term": "hormone injections",
+    "explain": "激素注射。定罪后，图灵以接受激素治疗为条件获得缓刑，从而避免入狱。这种用激素抑制性欲的做法常被称为“化学阉割”。"
+   },
+   {
+    "term": "forfeit",
+    "explain": "动词，意为“（因违规、违约或受罚而）丧失，被没收”，如 forfeit one's deposit（押金被没收）、forfeit the right to appeal（丧失上诉权）。视频译为“被剥夺/丧失了”。"
+   },
+   {
+    "term": "avert",
+    "explain": "动词，意为“避免，防止（坏事发生）”，常与 crisis、disaster、war 等搭配；另有“转移（目光）”之义，如 avert one's eyes。视频译为“避免”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①forfeited 并列给出“被剥夺/丧失了”两种说法，既体现 forfeit 的被动遭受义，也保留“丧失”的基本义。②his 照译为“他的”，构成“他的安全许可”。③插入的不定式短语按英文位置放在第二个谓语前，译为“为了避免入狱”，imprisonment 译为“入狱”。④submitted to 增补“被迫”，译为“被迫接受了”，体现无可奈何的处境；hormone injections 中名词作定语，译为“激素注射”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "He",
+   "predicate": "died of",
+   "object_or_complement": "",
+   "explain": "主谓结构。die 是不及物动词，of cyanide poisoning 说明死因；谓语 died 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "died of",
+    "role": "谓语（不及物动词 die + 介词 of，引出死因）",
+    "zh": "死于"
+   },
+   {
+    "text": "cyanide poisoning",
+    "role": "介词 of 的宾语（原因状语的一部分）",
+    "zh": "氰化物中毒"
+   },
+   {
+    "text": "on 7 June 1954.",
+    "role": "时间状语（介词短语）",
+    "zh": "1954年6月7日"
+   }
+  ],
+  "structure": "①句子是主谓结构：主语 He，谓语 died。die 是不及物动词，不带宾语；of cyanide poisoning 是介词短语作原因状语，说明死因（视频说明“die of：死于……”）。\n②cyanide poisoning 中，cyanide 是名词作定语，说明是哪种物质引起的中毒；poisoning 是由动词 poison 加 -ing 构成的名词，意为“中毒”。\n③句末 on 7 June 1954 是时间状语，按英式写法“日、月、年”排列。\n④本句只陈述死因和日期，没有说明死亡的性质；下一句才交代死因调查的裁定和外界的质疑。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "die of 与 die from",
+    "explain": "die of sth 和 die from sth 都表示“死于……”。传统语法书常说 die of 多接疾病、饥饿等内因，die from 多接受伤、事故等外因；但实际使用中两者经常互换，词典也把它们并列为 die of/from sth，中毒两种说法都可以用。die 是不及物动词，不能直接接宾语，也没有被动语态，不能说 He was died。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Thousands of people died of cholera during the epidemic.",
+      "zh": "疫情期间有数千人死于霍乱。"
+     },
+     {
+      "en": "He died from injuries sustained in the crash.",
+      "zh": "他因在撞车事故中受伤而死亡。"
+     }
+    ]
+   },
+   {
+    "title": "-ing 形式的名词：poisoning",
+    "explain": "一些动词加 -ing 后已经固定为名词，表示某种状况或过程，如 poisoning（中毒）、bleeding（出血）、flooding（水灾）、housing（住房）。它们常与表示原因的名词组合，如 food poisoning（食物中毒）、lead poisoning（铅中毒）。本句 cyanide poisoning 即“氰化物中毒”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Dozens of guests were treated for food poisoning after the wedding banquet.",
+      "zh": "婚宴后，数十名宾客因食物中毒接受治疗。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cyanide",
+    "explain": "氰化物，一类剧毒的化合物。cyanide 一词源自希腊语 kyanos（深蓝色），因为相关的化学成分存在于普鲁士蓝颜料之中。"
+   },
+   {
+    "term": "die of",
+    "explain": "死于……（视频说明），如 die of cancer、die of old age（寿终正寝）。die 的现在分词是 dying，注意不要与 dyeing（染色）混淆。"
+   }
+  ],
+  "translation_tip": "视频译文按英文语序顺译：主谓部分“他死于氰化物中毒”在前，时间状语 on 7 June 1954 保留在句末，用逗号隔开，单独译为“1954年6月7日”，与英文信息顺序一致，也让日期更醒目。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "A coroner's inquest",
+   "predicate": "ruled",
+   "object_or_complement": "it（宾语）suicide（宾语补足语）",
+   "explain": "主谓宾宾补结构。谓语 ruled 是一般过去时，主动语态；rule 意为“裁定”，后接宾语 it 和名词 suicide 作宾语补足语。though 引导让步状语从句，从句谓语 doubt 用一般现在时。"
+  },
+  "components": [
+   {
+    "text": "A coroner's inquest",
+    "role": "主语（coroner's 是名词所有格，修饰 inquest）",
+    "zh": "验尸官的死因调查"
+   },
+   {
+    "text": "ruled",
+    "role": "谓语",
+    "zh": "裁定为"
+   },
+   {
+    "text": "it",
+    "role": "宾语（代词，指上句所说的图灵之死）",
+    "zh": "（宾语，指上句的死亡，视频未单独译出）"
+   },
+   {
+    "text": "suicide,",
+    "role": "宾语补足语（名词）",
+    "zh": "自杀"
+   },
+   {
+    "text": "though",
+    "role": "引导词，引导让步状语从句",
+    "zh": "不过"
+   },
+   {
+    "text": "some",
+    "role": "从句主语（代词，相当于 some people）",
+    "zh": "有人"
+   },
+   {
+    "text": "doubt",
+    "role": "从句谓语（一般现在时）",
+    "zh": "存疑"
+   },
+   {
+    "text": "it.",
+    "role": "从句宾语（代词，指“自杀”这一裁定）",
+    "zh": "对此"
+   }
+  ],
+  "structure": "①主句是 A coroner's inquest ruled it suicide：主语 A coroner's inquest，谓语 ruled，宾语 it，宾语补足语 suicide（视频说明“rule it suicide：裁定为自杀”）。it 指上句所说的死亡。\n②though 引导让步状语从句，放在主句后（视频说明“though…：让步状语从句”），补充一种不同的看法。从句主语 some 是代词，指“有些人”；谓语 doubt；宾语 it 指“自杀”这一裁定结论。\n③主句用一般过去时，叙述1954年的裁定；从句用一般现在时，表示怀疑至今仍然存在。\n④两个 it 所指不同：第一个指图灵的死亡，第二个指裁定结果，要根据上下文分别确定。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动词 + 宾语 + 名词 / 形容词作宾语补足语",
+    "explain": "rule、declare、find、consider、call、make 等动词可以接复合宾语，即“宾语 + 宾语补足语”，宾补由名词或形容词充当，说明宾语的性质或状态。本句 ruled it suicide 中，it 是宾语，suicide 是宾补，意为“裁定它为自杀”。rule 作“裁定”讲时常接 that 从句或复合宾语，变成被动是 It was ruled (a) suicide。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The court ruled the contract invalid because one party had been misled.",
+      "zh": "法院裁定该合同无效，因为一方当事人受到了误导。"
+     },
+     {
+      "en": "The electoral commission declared the result void and ordered a new vote.",
+      "zh": "选举委员会宣布选举结果无效，并下令重新投票。"
+     }
+    ]
+   },
+   {
+    "title": "though 引导让步状语从句",
+    "explain": "though 和 although 都可以引导让步状语从句，意为“虽然，尽管”。从句放在主句后时，语气往往变弱，相当于汉语的“不过”，补充一个保留意见，本句即此用法。though 还可以作副词放在句末，如 It was hard work. I enjoyed it, though，although 没有这种用法；even though 语气更强。注意汉语说“虽然……但是……”，英语 though 与 but 不能同时使用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The early results are promising, though more research is needed.",
+      "zh": "初步结果令人鼓舞，不过还需要更多研究。"
+     }
+    ]
+   },
+   {
+    "title": "主从句时态不同：一般过去时与一般现在时",
+    "explain": "主句叙述过去发生的事，从句表达至今仍然成立的情况时，从句可以用一般现在时，不必与主句时态一致。本句 ruled 是1954年的裁定，doubt 表示现在仍有人怀疑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The council approved the plan in 2019, though many residents still oppose it.",
+      "zh": "市议会于2019年批准了这项计划，不过许多居民至今仍然反对。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "coroner's inquest",
+    "explain": "在英格兰和威尔士，突然死亡或死因不明的案件由验尸官（coroner）主持死因调查（inquest），并作出裁定，如裁定为自杀、意外或非法杀害等。视频译为“验尸官的死因调查”。"
+   },
+   {
+    "term": "rule",
+    "explain": "熟词僻义：rule 作动词除了“统治”，还常指法院、法官或调查机构“裁定，裁决”，如 rule on a case、rule that…、rule sth illegal。名词 ruling 意为“裁决”。"
+   },
+   {
+    "term": "some doubt it",
+    "explain": "有人对自杀的裁定存疑，认为也可能是意外。原文只说 some doubt it，没有给出定论，阅读时不能把这种质疑当成已经证实的事实。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①ruled it suicide 中的宾语 it 不单独译出，译为“裁定为自杀”，简洁明了。②though 从句保留在主句后，译为“不过……”，语气轻于“虽然……但是……”，符合原文补充保留意见的口吻。③从句中 some 译为“有人”，宾语 it 译为“对此”并提到动词前，doubt 译为“存疑”，构成“有人对此存疑”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Recognition",
+   "predicate": "lagged",
+   "object_or_complement": "",
+   "explain": "主谓结构。lag 是不及物动词，谓语 lagged 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Recognition",
+    "role": "主语（抽象名词，不加冠词）",
+    "zh": "（对于图灵的）认可"
+   },
+   {
+    "text": "lagged.",
+    "role": "谓语（不及物动词）",
+    "zh": "滞后了"
+   }
+  ],
+  "structure": "①句子只有两个词，是最简单的主谓结构：主语 Recognition，谓语 lagged。\n②recognition 在这里是抽象名词，意为“认可，承认”，不加冠词；原文没有写出认可的对象，从上下文可知是对图灵的认可，视频用括号补出。\n③lag 是不及物动词，意为“落后，滞后”，不带宾语。\n④本句是第五段的段首主题句，概括全段内容：后文的公开道歉、死后赦免和钞票肖像，都是图灵去世多年之后才到来的认可。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物动词 lag 与 lag behind",
+    "explain": "lag 作动词时是不及物动词，可以单独作谓语，如本句 Recognition lagged；表示“落后于某人或某事”时一般用 lag behind sb/sth；美式财经报道中偶见 lag the market 这类直接接宾语的说法，但考研写作中应写 lag behind。考研阅读中，lag behind 常用来比较经济、技术、教育等方面的发展差距，如 Wages lagged behind inflation（工资增长赶不上通货膨胀）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Investment in rural schools still lags behind spending in the cities.",
+      "zh": "农村学校的投入仍然落后于城市的支出。"
+     },
+     {
+      "en": "Exports recovered quickly, but domestic demand lagged.",
+      "zh": "出口迅速恢复，但国内需求滞后。"
+     }
+    ]
+   },
+   {
+    "title": "短句作段落主题句",
+    "explain": "外刊常用两三个词的短句开启段落，先下结论，再用后面几句具体展开。本句 Recognition lagged 概括第五段，后文三句按时间顺序列出2009年、2013年、2021年的事例。阅读时抓住这类短句，就抓住了段落大意，概括段落主旨的题目往往由此得出答案。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Prices soared. Within a year, a loaf of bread cost twice as much as before.",
+      "zh": "物价飞涨。不到一年，一条面包的价格就翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "recognition",
+    "explain": "熟词僻义：recognition 除了“认出，识别”，还常指“认可，赞誉，正式承认”，如 in recognition of his services（为表彰他的贡献）、gain international recognition（获得国际认可）。本句视频译为“认可”。"
+   },
+   {
+    "term": "lag",
+    "explain": "动词，意为“落后，滞后”；名词 lag 指时间上的间隔，如 a time lag（时间差）；jet lag 指“倒时差的疲劳”。本句视频译为“滞后了”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①原文没有交代认可的对象，译文用括号增补“（对于图灵的）”，使短句意思完整。②lagged 译为“滞后了”，“了”表示这种情况已经发生，与下文迟来的道歉和赦免呼应。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Britain's prime minister（分句一）；Turing（分句二）",
+   "predicate": "apologised（分句一）；was posthumously granted（分句二）",
+   "object_or_complement": "a royal pardon（分句二的保留宾语）",
+   "explain": "and 连接两个并列分句。分句一是主谓结构，apologised 为一般过去时、主动语态；分句二是被动语态，was granted 为一般过去时，grant sb sth 变被动后 a royal pardon 作保留宾语。"
+  },
+  "components": [
+   {
+    "text": "On 10 September 2009",
+    "role": "时间状语（分句一，介词短语）",
+    "zh": "2009年9月10日"
+   },
+   {
+    "text": "Britain's prime minister",
+    "role": "主语（分句一）",
+    "zh": "英国首相"
+   },
+   {
+    "text": "publicly",
+    "role": "方式状语（副词，修饰 apologised）",
+    "zh": "公开"
+   },
+   {
+    "text": "apologised,",
+    "role": "谓语（分句一，不及物动词）",
+    "zh": "道歉了"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "（并列连词，视频译文用分号代替，不单独译出）"
+   },
+   {
+    "text": "on 24 December 2013",
+    "role": "时间状语（分句二，介词短语）",
+    "zh": "2013年12月24日"
+   },
+   {
+    "text": "Turing",
+    "role": "主语（分句二）",
+    "zh": "图灵"
+   },
+   {
+    "text": "was posthumously granted",
+    "role": "谓语（分句二，一般过去时被动语态，副词 posthumously 插在助动词与过去分词之间）",
+    "zh": "在死后被授予了"
+   },
+   {
+    "text": "a royal pardon.",
+    "role": "保留宾语（分句二）",
+    "zh": "皇室赦免"
+   }
+  ],
+  "structure": "①全句是并列句，and 连接两个分句，每个分句前都有一个具体日期作时间状语，按时间先后排列。\n②分句一 Britain's prime minister publicly apologised：主语 Britain's prime minister，谓语 apologised（不及物，英式拼写），publicly 作方式状语。apologise 后可以接 to sb for sth，这里省去了道歉的对象和原因，从上文可知是为图灵所受的对待道歉。\n③分句二 Turing was posthumously granted a royal pardon：主动形式是 grant Turing a royal pardon，被动时间接宾语 Turing 作主语，直接宾语 a royal pardon 保留在动词后（视频说明“be granted sth：被授予某物，被动语态”）。posthumously 意为“在死后”，插在助动词 was 和过去分词 granted 之间。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "双宾语动词的被动语态与保留宾语",
+    "explain": "grant、give、offer、award、deny、refuse 等动词可以带双宾语（grant sb sth）。变成被动时有两种形式：以人作主语，物保留在动词后，如 Turing was granted a royal pardon，这个物就叫“保留宾语”；以物作主语，人前加 to，如 A royal pardon was granted to Turing。本句采用第一种，突出图灵本人。考研阅读中，被动结构后面紧跟名词时，要想到这可能是保留宾语，不要误以为是语法错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She was granted a scholarship to study medicine in Japan.",
+      "zh": "她获得了一笔去日本学医的奖学金。"
+     },
+     {
+      "en": "Several foreign journalists were denied entry to the country.",
+      "zh": "几名外国记者被拒绝入境。"
+     }
+    ]
+   },
+   {
+    "title": "副词在被动结构中的位置",
+    "explain": "修饰谓语的副词常放在助动词和过去分词之间，如 was posthumously granted、is widely regarded、has been carefully planned。本句 posthumously 插在 was 和 granted 之间，说明授予赦免发生在图灵死后。这种位置在外刊中最常见，写作中可以仿用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novel was posthumously published, more than a decade after the author's death.",
+      "zh": "这部小说在作者去世十多年后才出版。"
+     }
+    ]
+   },
+   {
+    "title": "and 连接两个并列分句",
+    "explain": "and 前后是两个各有主语和谓语的完整分句时，构成并列句，and 前通常加逗号。本句两个分句的主语不同（Britain's prime minister 和 Turing），语态也不同（主动和被动），但都表示国家对图灵的补偿，按时间顺序排列。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The talks began in March, and by June both sides had signed an agreement.",
+      "zh": "会谈于三月开始，到六月双方已签署了协议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Britain's prime minister",
+    "explain": "2009年时的英国首相是戈登·布朗（Gordon Brown），他公开就英国政府当年对待图灵的方式道歉。prime minister 意为“首相，总理”，常缩写为 PM。"
+   },
+   {
+    "term": "royal pardon",
+    "explain": "由英国君主授予的赦免。2013年，女王伊丽莎白二世应司法大臣的请求，依据王室的赦免特权赦免了图灵。视频译为“皇室赦免”。2017年，英国又通过一项法律条款，追赦了因类似罪名被定罪的男性，这一条款常被称为“艾伦·图灵法”（Alan Turing law）。"
+   },
+   {
+    "term": "apologise",
+    "explain": "英式拼写，美式拼写为 apologize。不及物动词，常用 apologise to sb for sth，不能直接接人作宾语，不能说 apologise him。"
+   },
+   {
+    "term": "posthumously",
+    "explain": "副词，意为“在死后，身后”，常与 award、publish、pardon 等搭配，如 be awarded a medal posthumously（被追授勋章）。视频译为“在死后”。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①两个分句之间用分号隔开，and 不单独译出，两个日期分别放在各自分句的开头，层次清楚。②publicly apologised 译为“公开道歉了”。③被动谓语 was posthumously granted 译为“在死后被授予了”，副词 posthumously 前置为状语“在死后”，被动意义用“被”字明确译出；royal pardon 按视频译为“皇室赦免”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "a fifty-pound note",
+   "predicate": "entered",
+   "object_or_complement": "circulation",
+   "explain": "主谓宾结构。谓语 entered 是一般过去时，主动语态；enter circulation 是固定搭配，意为“开始流通”。"
+  },
+  "components": [
+   {
+    "text": "On 23 June 2021,",
+    "role": "时间状语（介词短语）",
+    "zh": "2021年6月23日"
+   },
+   {
+    "text": "his birthday,",
+    "role": "同位语，说明 23 June 2021",
+    "zh": "也就是他的生日"
+   },
+   {
+    "text": "a fifty-pound note",
+    "role": "主语（fifty-pound 是连字符复合形容词，作前置定语）",
+    "zh": "五十英镑钞票"
+   },
+   {
+    "text": "bearing his portrait",
+    "role": "后置定语（现在分词短语），修饰 note",
+    "zh": "印有他肖像的"
+   },
+   {
+    "text": "entered",
+    "role": "谓语",
+    "zh": "开始"
+   },
+   {
+    "text": "circulation.",
+    "role": "宾语（与 entered 构成 enter circulation）",
+    "zh": "流通"
+   }
+  ],
+  "structure": "①主句是 a fifty-pound note entered circulation：主语 a fifty-pound note，谓语 entered，宾语 circulation，enter circulation 意为“开始流通”（视频说明）。\n②句首 On 23 June 2021 是时间状语；his birthday 是同位语，说明这一天是他的生日（视频说明“同位语，说明日期”），与第1句的 Born in June 1912 前后呼应。\n③主语中，fifty-pound 是连字符连接的复合形容词，作前置定语，pound 用单数；bearing his portrait 是现在分词短语作后置定语，修饰 note（视频说明），相当于 which bears his portrait。bear 在这里意为“带有，印有”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "连字符复合形容词中的名词用单数",
+    "explain": "“数词 + 名词”用连字符连成复合形容词放在名词前时，其中的名词一律用单数，如 a fifty-pound note、a ten-year-old boy、a five-minute walk，不能写成 a fifty-pounds note。如果不作定语，就恢复复数，如 The note is worth fifty pounds、The boy is ten years old。这是考研写作和翻译中的常见失分点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She signed up for a three-month course in data analysis.",
+      "zh": "她报名参加了一个为期三个月的数据分析课程。"
+     },
+     {
+      "en": "The government announced a two-billion-dollar plan to repair rural roads.",
+      "zh": "政府宣布了一项耗资二十亿美元的农村道路修缮计划。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词后作定语，表示主动或正在进行，相当于一个定语从句。本句 a fifty-pound note bearing his portrait 相当于 a fifty-pound note which bears his portrait，钞票“带有”肖像，是主动关系。bear 作“带有、印有”讲时是状态动词，在定语从句里不用进行时，但可以用现在分词作后置定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Protesters carrying banners gathered outside the parliament building.",
+      "zh": "举着横幅的抗议者聚集在议会大楼外。"
+     }
+    ]
+   },
+   {
+    "title": "同位语说明时间",
+    "explain": "同位语也可以用来说明时间状语中的日期，补充这一天的特殊意义。本句 his birthday 紧跟在 On 23 June 2021 后，用逗号隔开，说明这一天正是图灵的生日。同类写法如 on 1 October, National Day。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum reopened on 14 July, France's national holiday.",
+      "zh": "博物馆于7月14日重新开放，那天是法国的国庆节。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a fifty-pound note bearing his portrait",
+    "explain": "指英格兰银行发行的新版塑料50英镑钞票，图灵的肖像印在钞票背面，于2021年6月23日即他的生日当天开始流通。note 是英式英语对“纸币”的说法，美式英语多用 bill。"
+   },
+   {
+    "term": "bear",
+    "explain": "熟词僻义：bear 除了“忍受”“承担”，还可以表示“带有，刻有，印有”，如 a letter bearing his signature（有他签名的信）、bear a resemblance to（与……相像）。视频译为“印有”。"
+   },
+   {
+    "term": "enter circulation",
+    "explain": "开始流通（视频说明），同义表达有 go into circulation；反义为 be withdrawn from circulation（退出流通）。circulation 另有“血液循环”“（报刊的）发行量”等义。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①同位语 his birthday 用“也就是”引出，译为“也就是他的生日”，说明日期的特殊意义。②现在分词短语 bearing his portrait 前置为定语“印有他肖像的”，bear 按语境译为“印有”。③fifty-pound note 译为“五十英镑钞票”，pound 补出“英镑”。④entered circulation 译为“开始流通”，把 enter 的“进入”转成汉语常说的“开始”。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "The country",
+   "predicate": "put",
+   "object_or_complement": "his face",
+   "explain": "主谓宾结构。put 的过去式与原形同形，主语 The country 是第三人称单数，若是一般现在时应为 puts，所以这里是一般过去时，主动语态；on its money 与 put 构成 put sth on sth。"
+  },
+  "components": [
+   {
+    "text": "The country",
+    "role": "主语",
+    "zh": "国家"
+   },
+   {
+    "text": "that prosecuted him",
+    "role": "限制性定语从句，修饰 The country（that 在从句中作主语）",
+    "zh": "起诉他的"
+   },
+   {
+    "text": "put",
+    "role": "谓语（一般过去时）",
+    "zh": "把……印上了"
+   },
+   {
+    "text": "his face",
+    "role": "宾语",
+    "zh": "他的头像"
+   },
+   {
+    "text": "on its money.",
+    "role": "地点状语（介词短语），与 put 构成 put sth on sth",
+    "zh": "自己的钞票"
+   }
+  ],
+  "structure": "①主句是 The country put his face on its money：主语 The country，谓语 put，宾语 his face，on its money 作地点状语，说明放在哪里。\n②that prosecuted him 是限制性定语从句，修饰 The country。that 是关系代词，在从句中作主语，不能省略；prosecuted 是从句谓语，him 是从句宾语。\n③its 指 The country，its money 即这个国家自己的货币，与上句的英镑钞票对应。\n④本句是全文结尾，把 prosecuted him（起诉他）和 put his face on its money（把他印上钞票）放在同一句里，形成强烈对照，点出命运的反差，不加评论而讽刺意味自现。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "that 引导限制性定语从句：作主语时不能省略",
+    "explain": "that 引导定语从句时，既可以指人也可以指物。that 在从句中作主语时不能省略，作宾语时可以省略。本句 The country that prosecuted him 中，that 作从句主语，省略后就成了 The country prosecuted him put…，出现两个谓语，句子不成立。判断方法：看关系词后面是否紧跟谓语动词，紧跟谓语就是作主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company that built the stadium has since gone bankrupt.",
+      "zh": "修建这座体育场的公司后来破产了。"
+     },
+     {
+      "en": "The book (that) I borrowed from the library is two weeks overdue.",
+      "zh": "我从图书馆借的那本书已经逾期两周了。"
+     }
+    ]
+   },
+   {
+    "title": "原形与过去式同形动词的时态判断",
+    "explain": "put、cut、set、hit、let、cost、shut 等动词的原形、过去式、过去分词同形，单看词形无法判断时态，要借助主谓一致和上下文。本句主语 The country 是第三人称单数，一般现在时要写成 puts，这里用 put，说明是一般过去时；上下文讲的也是2021年的事。考研阅读遇到这类动词时，先看主语的人称和数，再看时间线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Last year the government cut funding for public libraries by a third.",
+      "zh": "去年政府把公共图书馆的经费削减了三分之一。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "prosecute",
+    "explain": "动词，意为“起诉，检控”，如 be prosecuted for theft；名词 prosecution 意为“起诉，控方”，prosecutor 意为“检察官”。注意不要与形近词 persecute（迫害）混淆。视频译为“起诉”。"
+   },
+   {
+    "term": "put sb's face on money",
+    "explain": "把某人的头像印上钞票。face 在这里借指“头像”，money 借指“钞票”，视频分别译为“头像”和“钞票”。能出现在钞票上，通常表示国家对此人的高度认可。"
+   }
+  ],
+  "translation_tip": "视频译文的处理：①限制性定语从句 that prosecuted him 前置，译为“起诉他的国家”，主语后加逗号停顿，突出“起诉他”和后文的反差。②put his face on its money 用“把”字句译出，宾语“他的头像”提到动词前，增补“印”字，译为“印上了”，比直译“放在”更贴合钞票的语境。③its 译为“自己的”，强调正是同一个国家，face 和 money 分别译为“头像”和“钞票”。"
+ }
+]

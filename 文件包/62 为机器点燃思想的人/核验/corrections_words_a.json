@@ -1,0 +1,30 @@
+[
+ {
+  "key": "10",
+  "field": "usage_detail",
+  "before": "注意 mathematical 与 mathematics 的重音位置不同：mathematical 主重音在 -mat- 音节上。",
+  "after": "注意重音：mathematical 和 mathematics 的主重音都在第三个音节 -mat- 上，次重音在第一个音节；mathematician 的主重音则后移到 -ti- 音节，读 /ˌmæθəməˈtɪʃn/。",
+  "reason": "mathematics /ˌmæθəˈmætɪks/ 与 mathematical 主重音位置相同，原说法错误"
+ },
+ {
+  "key": "13",
+  "field": "etymology",
+  "before": "19世纪后期出现一种晒图工艺，用来复制工程图纸，复制出的图纸是蓝底白线，因此称为 blueprint。",
+  "after": "这种复制工程图纸的晒图工艺由英国科学家约翰·赫歇尔于1842年发明，复制出的图纸是蓝底白线，19世纪80年代起称为 blueprint。",
+  "reason": "据 Etymonline，该工艺1842年由赫歇尔发明，blueprint 一词见于1886年，原文“19世纪后期出现”不准确"
+ },
+ {
+  "key": "25",
+  "field": "context_usage",
+  "before": "图灵把“机器能否思考”这一问题发表在哲学期刊而非数学期刊上，说明他把它当作关于心灵本质的哲学问题来讨论。",
+  "after": "图灵把“机器能否思考”这一问题发表在哲学期刊上，这个问题涉及心灵的本质，属于哲学讨论的范围。",
+  "reason": "原文推断图灵的主观意图，无法证实，改为客观陈述"
+ },
+ {
+  "key": "27",
+  "field": "etymology",
+  "before": "provoke、vocal、invoke 都含有 vocare 这一词根",
+  "after": "provoke、invoke、advocate 都含有 vocare 这一词根",
+  "reason": "vocal 来自名词 vox（声音），不直接含 vocare，换成确由 vocare 构成的 advocate"
+ }
+]

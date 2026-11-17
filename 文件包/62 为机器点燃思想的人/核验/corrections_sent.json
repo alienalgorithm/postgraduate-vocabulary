@@ -1,0 +1,79 @@
+[
+ {
+  "key": "1",
+  "field": "grammar[2].explain",
+  "before": "本句省去了 in，用 by his early twenties 表示“到二十出头时”。",
+  "after": "本句不用 in，而换成介词 by，by his early twenties 表示“到二十出头时”，强调截止时间。",
+  "reason": "by 是替换 in，不是“省去了 in”，原说法不准确"
+ },
+ {
+  "key": "1",
+  "field": "structure",
+  "before": "第2句接着讲他24岁时发表的论文",
+  "after": "第2句接着讲他24岁时宣读的论文",
+  "reason": "第2句原文是 read（宣读），与视频“宣读的”一致"
+ },
+ {
+  "key": "2",
+  "field": "grammar[3].examples[0]",
+  "before": "The museum has a single aim: to make science accessible to everyone. // 这座博物馆只有一个目标：让每个人都能接触科学。",
+  "after": "The team faced a familiar problem: a lack of reliable data. // 这个团队面临一个老问题：缺乏可靠的数据。",
+  "reason": "该语法点讲冒号后接名词短语作同位语，原例句冒号后是不定式短语，没有示范该语法点"
+ },
+ {
+  "key": "5",
+  "field": "components[with Britain and France].role",
+  "before": "介词短语，与 shared 构成 share A with B",
+  "after": "状语（介词短语，表示告知的对象），与 shared 构成 share A with B",
+  "reason": "原成分标注只写“介词短语”，没有指明句子成分，补具体"
+ },
+ {
+  "key": "9",
+  "field": "components[with two concealed players,].role",
+  "before": "介词短语，与 exchanges 构成 exchange sth with sb",
+  "after": "状语（介词短语，表示交流的对象），与 exchanges 构成 exchange sth with sb",
+  "reason": "原成分标注只写“介词短语”，没有指明句子成分，补具体"
+ },
+ {
+  "key": "8",
+  "field": "components[now widely called the Turing test.].role",
+  "before": "过去分词短语，补充说明 the imitation game，相当于 which is now widely called the Turing test",
+  "after": "后置定语（过去分词短语，非限制性），补充说明 the imitation game，相当于 which is now widely called the Turing test",
+  "reason": "原标注没有写出成分名称，补具体"
+ },
+ {
+  "key": "6",
+  "field": "grammar[1].explain",
+  "before": "本句 them 前面最近的复数名词是上句的 Britain and France，但“机器利用英国和法国”说不通",
+  "after": "本句 them 不能指同句主语 machines（指主语自身要用 themselves），往前看，上句离它最近的复数名词是 Britain and France，但“机器利用英国和法国”说不通",
+  "reason": "them 前面最近的复数名词其实是同句主语 machines，原说法不准确"
+ },
+ {
+  "key": "6",
+  "field": "grammar[1].examples[0]",
+  "before": "Farmers welcomed the new seeds from the institute because they could survive long droughts. // 农民们很欢迎研究所的新种子，因为这些种子能熬过长期干旱。",
+  "after": "The researchers tested the new drugs on mice, and they found that the side effects were mild. // 研究人员在小鼠身上试验了这些新药，他们发现副作用很轻微。",
+  "reason": "原例句中 they 指的 seeds 正是离它最近的复数名词，没有示范“不能只看距离”；新例句 they 越过最近的 mice、drugs 指 researchers"
+ },
+ {
+  "key": "7",
+  "field": "grammar[2].explain",
+  "before": "the river Thames",
+  "after": "the River Thames",
+  "reason": "英国河名规范写法是 the River Thames，River 大写"
+ },
+ {
+  "key": "8",
+  "field": "grammar[0].examples[1]",
+  "before": "People born in the late 1990s, often called Generation Z, grew up with smartphones. // 20世纪90年代末出生的人常被称为“Z世代”，他们伴随着智能手机长大。",
+  "after": "People born between the late 1990s and the early 2010s, often called Generation Z, grew up with smartphones. // 20世纪90年代末到21世纪10年代初出生的人常被称为“Z世代”，他们伴随着智能手机长大。",
+  "reason": "Z世代通常指90年代末到2010年代初出生的人，原例句只说 late 1990s，事实不准确"
+ },
+ {
+  "key": "16",
+  "field": "grammar[0].explain",
+  "before": "表示“落后于某人或某事”时要用 lag behind sb/sth，不能说 lag sb。",
+  "after": "表示“落后于某人或某事”时一般用 lag behind sb/sth；美式财经报道中偶见 lag the market 这类直接接宾语的说法，但考研写作中应写 lag behind。",
+  "reason": "Merriam-Webster 收有 lag 的及物用法（fail to keep up with），说“不能说 lag sb”过于绝对"
+ }
+]
