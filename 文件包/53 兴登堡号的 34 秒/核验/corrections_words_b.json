@@ -1,0 +1,30 @@
+[
+  {
+    "key": "36",
+    "field": "senses[2]",
+    "before": "{\"pos\": \"adv.\", \"zh\": \"（soaking wet）湿透地\"}",
+    "after": "{\"pos\": \"adv.\", \"zh\": \"（只修饰 wet）极其，彻底（soaking wet 湿透的）\"}",
+    "reason": "soaking 作副词只用来加强 wet，意为“极其”，“湿透地”释义不准确。"
+  },
+  {
+    "key": "46",
+    "field": "context_usage",
+    "before": "“静电点燃泄漏的氢气”是目前对起火原因最主要的解释，与第6句的雷暴天气也有关联。",
+    "after": "“静电点燃泄漏的氢气”是目前对起火原因最主要的解释，但原文同时说明起火原因尚未得到确认。",
+    "reason": "原文没有把静电与第6句的雷暴联系起来，删去无据推断，补出原文的谨慎措辞。"
+  },
+  {
+    "key": "52",
+    "field": "etymology",
+    "before": "18世纪中期才有“织物”之义",
+    "after": "18世纪才有“织物”之义",
+    "reason": "据 Etymonline，“制成品”义见于1753年，“纺织品”义晚至18世纪末，“中期”过于具体。"
+  },
+  {
+    "key": "55",
+    "field": "usage_detail",
+    "before": "形容词，只作定语",
+    "after": "形容词，通常只作定语",
+    "reason": "Oxford 标注 fateful 为 usually before noun，“只作定语”过于绝对。"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "5",
+    "field": "grammar[0].examples[0]",
+    "before": "The treaty was signed on 28 June 1919, five years after the war began. / 条约于1919年6月28日签署，距战争爆发已有五年。",
+    "after": "The Treaty of Versailles was signed on 28 June 1919, exactly five years after the assassination in Sarajevo. / 《凡尔赛和约》于1919年6月28日签署，恰好是萨拉热窝刺杀事件发生五年之后。",
+    "reason": "事实不准：一战于1914年7月爆发，到1919年6月28日不满五年；改为与萨拉热窝刺杀事件（1914年6月28日）恰好相隔五年。"
+  },
+  {
+    "key": "13",
+    "field": "grammar[1].explain",
+    "before": "顺序一般是：限定词 + 所有格 + 名词定语 + 中心词。",
+    "after": "顺序一般是：所有格 + 名词定语 + 中心词，所有格本身还可以带冠词和定语（如 A radio correspondent's），这时冠词属于所有格内部，不直接修饰中心词。",
+    "reason": "原表述把冠词列为整个名词短语的限定词，与后文“A 修饰 correspondent 而非 commentary”自相矛盾，改为准确规则。"
+  },
+  {
+    "key": "18",
+    "field": "structure",
+    "before": "④整句由“was withdrawn, later scrapped, and ... closed”三部分组成，形式上是 A, B, and C 的三项排列，and 前有牛津逗号。前两项讲一艘飞艇的命运，第三项把视角放大到整个时代，层层递进。",
+    "after": "④scrapped 后的逗号是两个分句之间的逗号：and 前是讲一艘飞艇命运的第一分句，and 后是带有自己主语 a glamorous epoch of aviation 的第二分句。and 后出现新的主语，说明它连接的不是第三个并列谓语，而是一个新分句。两个分句由一艘飞艇的结局扩展到整个时代的终结，层层递进。",
+    "reason": "分析错误：was withdrawn、later scrapped 是谓语，and 后是完整分句，三者不平行，不构成 A, B, and C 三项并列，scrapped 后的逗号不是牛津逗号，而是连接两个独立分句的逗号。"
+  },
+  {
+    "key": "18",
+    "field": "grammar[2]",
+    "before": "{\"title\": \"三项并列与牛津逗号\", \"explain\": \"三项及以上并列时，英语写成 A, B, and C，末项前用 and，and 前的逗号叫牛津逗号。并列项可以是词、短语，也可以是分句。本句前两项是同一主语的两个谓语，第三项是一个完整的分句，三者合起来按时间顺序讲述飞艇时代的终结。\", \"difficult\": false, \"examples\": [{\"en\": \"The factory closed, the workers moved away, and the town slowly emptied.\", \"zh\": \"工厂倒闭了，工人们搬走了，小镇渐渐空了。\"}]}",
+    "after": "{\"title\": \"逗号 + and 连接两个独立分句\", \"explain\": \"and、but、so、yet 等并列连词连接两个各有主谓的独立分句时，连词前通常加逗号，两个分句较长或主语不同时尤其如此。本句 Graf Zeppelin was withdrawn, later scrapped 是第一个分句，a glamorous epoch of aviation closed 是第二个分句，scrapped 后的逗号就是分句之间的逗号。它不是 A, B, and C 三项并列中的牛津逗号：was withdrawn、later scrapped 是谓语，and 后面却是带有自己主语的完整分句，性质不同，不能并列。阅读时看到 and 后出现新的主语，就要判断这是新分句的开始，再回头确定前一个分句的范围。\", \"difficult\": false, \"examples\": [{\"en\": \"The storm passed overnight, and by morning the streets were full of people again.\", \"zh\": \"暴风雨在夜里过去了，到了早上，街上又挤满了人。\"}]}",
+    "reason": "原语法点把本句误析为“三项并列 + 牛津逗号”（谓语、谓语与分句不平行），改为本句真正体现的“逗号 + and 连接两个独立分句”。"
+  }
+]

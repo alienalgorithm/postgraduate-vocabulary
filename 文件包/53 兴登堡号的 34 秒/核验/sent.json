@@ -1,0 +1,1901 @@
+[
+  {
+    "n": 1,
+    "trunk": {
+      "subject": "the colossal Hindenburg",
+      "predicate": "made",
+      "object_or_complement": "17 Atlantic round trips",
+      "explain": "主干是 the colossal Hindenburg made 17 Atlantic round trips，主谓宾结构。谓语 made 是 make 的过去式，一般过去时，主动语态，叙述1936年这一过去时间里的事实；make a round trip 是“动词 + 行为名词”的搭配，意为“完成一次往返”。"
+    },
+    "components": [
+      {
+        "text": "In 1936",
+        "zh": "1936年",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "the colossal Hindenburg",
+        "zh": "巨大的兴登堡号",
+        "role": "主语（colossal 作前置定语）"
+      },
+      {
+        "text": "made",
+        "zh": "完成了",
+        "role": "谓语"
+      },
+      {
+        "text": "17 Atlantic round trips,",
+        "zh": "17次跨大西洋往返飞行",
+        "role": "宾语（17 和 Atlantic 都作 round trips 的前置定语）"
+      },
+      {
+        "text": "a marvel of luxury and glamour.",
+        "zh": "这是一个奢华与魅力的奇观",
+        "role": "同位语（名词短语），补充说明前面整句；of luxury and glamour 作 marvel 的后置定语"
+      }
+    ],
+    "structure": "①主句是 the colossal Hindenburg made 17 Atlantic round trips：主语 the colossal Hindenburg，谓语 made，宾语 17 Atlantic round trips。句首 In 1936 是时间状语，介词短语很短，所以后面没有用逗号隔开。\n②主语中心词是专有名词 Hindenburg，前面有定冠词 the 和形容词 colossal。飞艇、船只的名称前通常加 the，形容词插在 the 与名称之间。\n③宾语 round trips 前有两个前置定语：数词 17 表示次数，Atlantic 是专有名词作定语，表示“大西洋上的”，在这里指横跨大西洋的航线。\n④逗号后的 a marvel of luxury and glamour 是名词短语作同位语（视频说明：同位语，补充说明前面整句）。它不是单指某个名词，而是对前面整句所说的情况作出评价，相当于 which was a marvel of luxury and glamour，或另起一句 This was a marvel of luxury and glamour。of luxury and glamour 是介词短语，作 marvel 的后置定语，说明是哪方面的奇观。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "句末名词短语作同位语，评价前面整句",
+        "explain": "句末用逗号引出一个名词短语，对前面整个分句所说的事实加以概括或评价，是外刊中很常见的写法，语法上看作同位语，作用相当于一个非限制性定语从句 which was ... 。这个名词短语前面没有连词，也没有谓语动词，阅读时不能把它误当成前一个名词的并列成分。本句 a marvel of luxury and glamour 评价的是“兴登堡号一年完成17次跨大西洋往返”这件事。考研阅读中，这类同位语往往带有作者的态度，如 a remarkable achievement、a sharp reversal、a worrying sign，是判断作者观点的线索；翻译时通常拆成独立分句，增补“这是”“这”回指前文。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The team finished the bridge two months ahead of schedule, a remarkable achievement given its limited budget.",
+            "zh": "这支团队比计划提前两个月建成了大桥，考虑到预算有限，这是一项了不起的成就。"
+          },
+          {
+            "en": "Food prices rose by 12 per cent last year, the sharpest increase in three decades.",
+            "zh": "去年食品价格上涨了12%，这是三十年来最大的涨幅。"
+          }
+        ]
+      },
+      {
+        "title": "船只、飞艇名称前用定冠词 the",
+        "explain": "船只、飞艇等交通工具的专有名称前一般加定冠词 the，如 the Titanic、the Hindenburg；名称前有形容词时，形容词放在 the 和名称之间，如 the colossal Hindenburg、the ill-fated Titanic。人名、大多数国名和城市名前则不加 the。写作中提到具体的船只或航天器名称时，不要漏掉 the。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The ill-fated Titanic sank on its maiden voyage after striking an iceberg.",
+            "zh": "命运多舛的泰坦尼克号在首航中撞上冰山后沉没。"
+          }
+        ]
+      },
+      {
+        "title": "make + 行为名词",
+        "explain": "make 常与表示行为的名词搭配，本身意义虚化，整体相当于一个动词：make a trip（出行一趟）、make a journey（进行一次旅程）、make a decision（作决定）、make a contribution（作贡献）。本句 made 17 Atlantic round trips 意为“完成了17次往返”，数词放在名词前表示次数。这类搭配便于在名词前加形容词或数词，写作中可替换单个动词，使表达更灵活。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "She makes the long trip to visit her grandparents twice a year.",
+            "zh": "她每年两次长途跋涉去看望祖父母。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Hindenburg",
+        "explain": "兴登堡号（LZ 129 Hindenburg），德国建造的大型硬式客运飞艇，以德国总统保罗·冯·兴登堡（Paul von Hindenburg）的名字命名。汉语给船只、飞艇的名称加“号”，所以视频译为“兴登堡号”。"
+      },
+      {
+        "term": "round trip",
+        "explain": "往返旅程，即去了再回来，区别于 one-way trip（单程）；常作定语，如 a round-trip ticket（往返票，英式英语多说 return ticket）。本句视频译为“往返飞行”，因为主语是飞艇。"
+      },
+      {
+        "term": "Atlantic",
+        "explain": "形容词兼名词，大西洋（的）；the Atlantic 是 the Atlantic Ocean 的简称。本句 Atlantic 作 round trips 的定语，指横越大西洋的往返航程，视频译为“跨大西洋”；transatlantic 是专门表示“横跨大西洋的”形容词。"
+      },
+      {
+        "term": "a marvel of sth",
+        "explain": "……方面的奇迹、奇观，常见搭配有 a marvel of engineering（工程奇迹）、a marvel of modern technology（现代科技的奇迹）。本句 a marvel of luxury and glamour 视频译为“一个奢华与魅力的奇观”。"
+      },
+      {
+        "term": "luxury and glamour",
+        "explain": "luxury 指奢华、豪华，glamour 指光鲜动人的魅力，两词常连用，描写高档旅行、上流生活的场景。glamour 是英式拼写，美式英语也写作 glamor；形容词 glamorous 两种拼写里都去掉 u。"
+      }
+    ],
+    "translation_tip": "视频译文“1936年，巨大的兴登堡号完成了17次跨大西洋往返飞行，这是一个奢华与魅力的奇观。”的处理：①句首时间状语 In 1936 照原位译出，后面加逗号断开。②colossal 前置为“巨大的”，Hindenburg 后补“号”，符合汉语对飞艇名称的习惯。③Atlantic 作定语，译成“跨大西洋”，增补“跨”字表明横越；数词 17 后补量词“次”，round trips 结合飞艇语境译为“往返飞行”。④句末同位语拆成独立分句，增补“这是”回指前面整句，of luxury and glamour 前置为定语“奢华与魅力的”，不定冠词 a 译成“一个”。"
+  },
+  {
+    "n": 2,
+    "trunk": {
+      "subject": "Its amenities",
+      "predicate": "included",
+      "object_or_complement": "a lounge and a grand piano",
+      "explain": "主干是 Its amenities included a lounge and a grand piano，主谓宾结构，and 连接两个并列宾语。谓语 included 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Its amenities",
+        "zh": "它的便利设施",
+        "role": "主语（Its 指上句的 the Hindenburg）"
+      },
+      {
+        "text": "included",
+        "zh": "包括",
+        "role": "谓语"
+      },
+      {
+        "text": "a lounge",
+        "zh": "一间休息厅",
+        "role": "宾语一"
+      },
+      {
+        "text": "and,",
+        "zh": "以及",
+        "role": "并列连词，连接两个宾语"
+      },
+      {
+        "text": "that year,",
+        "zh": "在那一年",
+        "role": "插入语（名词短语作时间状语，指1936年），只限定后面的宾语二"
+      },
+      {
+        "text": "a grand piano.",
+        "zh": "一架三角钢琴",
+        "role": "宾语二"
+      }
+    ],
+    "structure": "①主句是 Its amenities included a lounge and a grand piano：主语 Its amenities，谓语 included，and 连接两个并列宾语 a lounge 和 a grand piano。Its 是物主代词，指上句的兴登堡号。\n②that year 是插入语，前后用逗号隔开，插在并列连词 and 和第二个宾语之间（视频说明：that year：插入语，指1936年）。它是名词短语作时间状语，只限定后面的 a grand piano，表示三角钢琴是1936年那一年才有的设施，休息厅则不受这个时间限制。\n③去掉插入语，句子仍然完整：Its amenities included a lounge and a grand piano。阅读时先把插入语拿开，找到 and 连接的两个宾语，再把插入语放回去，看它限定哪一部分。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "插入语打断并列结构",
+        "explain": "插入语是插在句中、前后用逗号隔开的补充成分，去掉后句子结构仍然完整。插入语放在并列连词之后、某一并列项之前时，只修饰紧跟其后的那一项。本句 that year 插在 and 与 a grand piano 之间，说明钢琴只是“那一年”的配置。考研阅读中，插入语常把并列结构隔开，造成断句困难；先略去两个逗号之间的内容，理清主干和并列关系，再判断插入语的修饰范围。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The restaurant serves soup, salad, and, on Fridays, fresh fish from the harbour.",
+            "zh": "这家餐馆供应汤、沙拉，以及（每逢周五）港口新捕的鲜鱼。"
+          },
+          {
+            "en": "The exhibition features ancient coins and, for a limited time, a rare medieval manuscript.",
+            "zh": "展览展出古钱币，以及（限时展出的）一份珍贵的中世纪手稿。"
+          }
+        ]
+      },
+      {
+        "title": "带 that、this、last 等限定词的时间名词直接作状语",
+        "explain": "that year、this week、last month、next spring、every day 这类带限定词的时间名词短语，前面不加介词即可作时间状语，如 last month 不能写成 in last month，this week 不能写成 in this week。that 表示回指前文提到的时间，本句 that year 回指上句的 1936年。写作中叙述过去某一年发生的事，可用 that year、that summer 承接上文。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The river flooded in 1998, and that winter many families were still living in temporary shelters.",
+            "zh": "1998年那条河发了洪水，那年冬天许多家庭仍住在临时安置点里。"
+          }
+        ]
+      },
+      {
+        "title": "include 引出部分列举",
+        "explain": "include 意为“包括，包含”，后面列出的通常只是整体中的一部分，而不是全部。本句 included a lounge and a grand piano 只举出两项便利设施，并不表示飞艇上只有这两项。若要列出全部组成部分，多用 consist of、be made up of。考研阅读中，include、such as、among them 引出的是例子，做题时不能把例子当成全部。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Common symptoms include fever, fatigue, and a persistent cough.",
+            "zh": "常见症状包括发烧、乏力和持续咳嗽。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "amenities",
+        "explain": "amenity 意为便利设施、生活福利设施，多用复数 amenities，指使生活或旅行更舒适便利的设施，如 hotel amenities（酒店设施）、local amenities（当地的公共设施，如公园、图书馆）。视频译为“便利设施”。"
+      },
+      {
+        "term": "lounge",
+        "explain": "休息厅、休息室，指供人坐下休息、交谈的公共空间，如 a departure lounge（候机厅）、a hotel lounge（酒店休息厅）。视频译为“休息厅”。"
+      },
+      {
+        "term": "grand piano",
+        "explain": "三角钢琴，琴身水平放置，常用于音乐会；与之相对的是 upright piano（立式钢琴）。grand 在这里是固定名称的一部分，不能理解成“宏伟的钢琴”。"
+      },
+      {
+        "term": "Its 与 It's",
+        "explain": "Its 是物主代词“它的”，It's 是 it is 或 it has 的缩写，两者不能混用。本句 Its amenities 意为“它的便利设施”。"
+      }
+    ],
+    "translation_tip": "视频译文“它的便利设施包括一间休息厅，以及，在那一年，一架三角钢琴。”的处理：①物主代词 Its 照译为“它的”。②保留原文的插入结构，用两个逗号把“在那一年”隔开，放在“以及”和“一架三角钢琴”之间，忠实体现 that year 只限定钢琴这一项；that year 译为“在那一年”，补出介词“在”。③两个宾语前分别补量词“一间”“一架”，不定冠词 a 都译成具体的量词。"
+  },
+  {
+    "n": 3,
+    "trunk": {
+      "subject": "An American embargo",
+      "predicate": "had left",
+      "object_or_complement": "the ship（宾语）；relying on hydrogen（宾语补足语）",
+      "explain": "主干是 An American embargo had left the ship relying on hydrogen，主谓宾宾补结构，即 leave + 宾语 + 现在分词。谓语 had left 为过去完成时，主动语态，表示禁运造成的局面在前文所述的1936年之前就已形成。"
+    },
+    "components": [
+      {
+        "text": "An American embargo",
+        "zh": "美国……的禁运",
+        "role": "主语（American 作前置定语，表示禁运由美国实施）"
+      },
+      {
+        "text": "on helium export",
+        "zh": "对氦气出口",
+        "role": "后置定语（介词短语），修饰 embargo，说明禁运的对象"
+      },
+      {
+        "text": "had left",
+        "zh": "已经使得",
+        "role": "谓语（过去完成时）"
+      },
+      {
+        "text": "the ship",
+        "zh": "这艘飞艇",
+        "role": "宾语（the ship 指兴登堡号）"
+      },
+      {
+        "text": "relying on hydrogen.",
+        "zh": "只能依赖于氢气",
+        "role": "宾语补足语（现在分词短语），说明 the ship 所处的状态"
+      }
+    ],
+    "structure": "①主句是 An American embargo had left the ship relying on hydrogen：主语 An American embargo，谓语 had left，宾语 the ship，现在分词短语 relying on hydrogen 作宾语补足语（视频说明：leave sb doing：使某人处于某种状态）。the ship 与 rely 是主动关系，飞艇“依赖”氢气，所以用现在分词。\n②主语中心词 embargo 前有形容词 American，后有介词短语 on helium export 作后置定语（视频说明：embargo on…：对……的禁运）。helium export 是名词修饰名词，helium 作 export 的前置定语，意为“氦气的出口”。整个主语是名词化结构，相当于 America banned the export of helium。\n③谓语用过去完成时 had left（视频说明：had left：过去完成时）。全文叙述的时间是1936年和1937年，禁运在这之前就已实施，它造成的结果一直延续到叙述的时间点，所以用“过去的过去”。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "leave + 宾语 + 现在分词作宾语补足语",
+        "explain": "leave 表示“使……处于某种状态”时，后接复合宾语：leave + 宾语 + 现在分词 / 过去分词 / 形容词 / 介词短语。宾语与动词是主动关系用现在分词，如 leave sb waiting（让某人一直等着）；被动关系用过去分词，如 leave the work unfinished（让工作没有完成）；也可接形容词，如 leave the door open。这一结构常表示某事造成的、往往是不如人意的结果。本句 had left the ship relying on hydrogen 指禁运使飞艇只能依赖氢气，视频译为“使得……只能依赖于”。考研阅读中，主语常是事件或抽象名词（embargo、crisis、decision），后面的宾补才是真正要表达的后果。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The rail strike left thousands of commuters waiting on cold platforms for hours.",
+            "zh": "铁路罢工让成千上万的通勤者在寒冷的站台上一连等了几个小时。"
+          },
+          {
+            "en": "Years of drought had left the farmers struggling to feed their cattle.",
+            "zh": "连年干旱已经使农民们难以喂饱自家的牛。"
+          }
+        ]
+      },
+      {
+        "title": "过去完成时表示过去某时之前造成的结果",
+        "explain": "过去完成时 had done 表示在过去某一时间点之前已经发生的动作，或该动作延续到那个时间点的结果。叙述过去的事件时，如果要补充交代更早的原因或背景，就用过去完成时。本句的叙述时间是1936年和1937年，美国的氦气出口禁运早已实施，它“使飞艇只能依赖氢气”的局面在叙述时已经存在，所以用 had left。考研阅读和完形中，叙事段落里突然出现 had done，往往是在交代前因，要据此理清事件的先后顺序。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "By the time the rescue team arrived, the floodwater had already cut the village off from the outside world.",
+            "zh": "救援队赶到时，洪水已经使这个村庄与外界隔绝了。"
+          }
+        ]
+      },
+      {
+        "title": "名词化结构作主语",
+        "explain": "英语常把动作用名词表达，再配上介词短语交代对象，形成名词化结构，如 an embargo on helium export（对氦气出口的禁运）相当于 someone banned helium export，the government's refusal to lower taxes 相当于 the government refused to lower taxes。名词化结构信息密集、语气客观，是外刊和学术文章的典型特征。阅读和翻译时，可先把它还原成主谓结构，找出动作的执行者和对象。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The government's refusal to lower fuel taxes angered many drivers.",
+            "zh": "政府拒绝降低燃油税，激怒了许多司机。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "embargo on sth",
+        "explain": "对某物的禁运、禁令，常见搭配有 impose an embargo（实施禁运）、lift an embargo（解除禁运）、an arms embargo（武器禁运）、a trade embargo（贸易禁运）。视频说明为“对……的禁运”。"
+      },
+      {
+        "term": "helium 与 hydrogen",
+        "explain": "helium 是氦，hydrogen 是氢，两种气体都比空气轻，都能使飞艇升空。区别在于氦气不可燃，氢气极易燃烧，这正是下一句 that gas was combustible 和后文火灾的伏笔。视频根据语境分别译为“氦气”“氢气”。"
+      },
+      {
+        "term": "rely on sth",
+        "explain": "依赖、依靠某物，同义表达有 depend on、count on。本句现在分词 relying on hydrogen 作宾补，视频译为“只能依赖于氢气”，“只能”体现了被迫的意味。"
+      },
+      {
+        "term": "ship",
+        "explain": "ship 通常指船，也可指飞艇、飞机等航空器（Merriam-Webster 收录 airship、airplane 义）。本文多次用 the ship 指兴登堡号，视频结合语境译为“这艘飞艇”。"
+      }
+    ],
+    "translation_tip": "视频译文“美国对氦气出口的禁运已经使得这艘飞艇只能依赖于氢气。”的处理：①名词化主语 An American embargo on helium export 按汉语语序重组：American 译为“美国”，后置定语 on helium export 前移，译成“对氦气出口的”，合为“美国对氦气出口的禁运”。②过去完成时 had left 译成“已经使得”，用“已经”体现完成意义。③宾补 relying on hydrogen 译为“只能依赖于氢气”，增补“只能”，表达 leave sb doing 所含的被迫、无奈语气。④the ship 结合上下文具体化为“这艘飞艇”。"
+  },
+  {
+    "n": 4,
+    "trunk": {
+      "subject": "smokers",
+      "predicate": "sat",
+      "object_or_complement": "",
+      "explain": "主干是 smokers sat，主谓结构；sit 在此是不及物动词，behind an airlock 是介词短语作地点状语。谓语 sat 是 sit 的过去式，一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Because that gas was combustible,",
+        "zh": "因为氢气是易燃的",
+        "role": "原因状语从句（Because 引导；that gas 指 hydrogen）"
+      },
+      {
+        "text": "smokers",
+        "zh": "吸烟者",
+        "role": "主语"
+      },
+      {
+        "text": "sat",
+        "zh": "只能坐在",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "behind an airlock",
+        "zh": "一道……气闸后面",
+        "role": "地点状语（介词短语），与 sat 构成 sit behind（坐在……后面）"
+      },
+      {
+        "text": "with one electric lighter.",
+        "zh": "带有电子点烟器的",
+        "role": "后置定语（介词短语），修饰 an airlock"
+      }
+    ],
+    "structure": "①Because 引导原因状语从句，放在主句前，用逗号隔开（视频说明：Because 引导原因状语从句）。从句是主系表结构：主语 that gas，系动词 was，表语 combustible。that gas 指上句的 hydrogen（视频说明：that gas 指 hydrogen），用上位词 gas 加指示代词 that 回指，避免重复。\n②主句是 smokers sat behind an airlock：主语 smokers，谓语 sat（不及物），behind an airlock 是介词短语作地点状语。\n③with one electric lighter 是介词短语，作 an airlock 的后置定语，with 表示“带有”，视频译为“带有电子点烟器的气闸”。one 强调只有一个点烟器，吸烟受到严格限制。\n④前后两句构成因果链：上句交代飞艇只能用氢气，本句说明氢气易燃，所以吸烟者只能坐在气闸后面。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "because 引导原因状语从句",
+        "explain": "because 引导原因状语从句，说明直接、明确的原因，从句可放在主句前，也可放在主句后；放在句首时一般用逗号与主句隔开。because 是连词，后接从句；because of 是介词短语，后接名词或代词，如 because of the gas。易错点：汉语说“因为……所以……”，英语中 because 和 so 不能在同一个句子里同时使用。回答 why 的问题时，只有 because 可以单独引出答语。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Because the roads were icy, the school buses ran an hour late.",
+            "zh": "因为道路结冰，校车晚了一个小时。"
+          }
+        ]
+      },
+      {
+        "title": "指示代词 + 上位词回指前文",
+        "explain": "英语为避免重复，常用 this、that、these 加一个意义更宽泛的上位词，回指前文已经提到的具体事物，如用 that gas 指 hydrogen，用 the drug 指前文的某种抗生素。本句 that gas 回指上句的 hydrogen。考研阅读中，代词和同义替换的指代对象常常是细节题和词义题的考点，要回到前文找到具体所指；翻译时常把它还原成具体名词，视频就把 that gas 直接译成“氢气”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Researchers tested a new antibiotic on mice, and the drug cleared most infections within a week.",
+            "zh": "研究人员在小鼠身上试验了一种新抗生素，这种药在一周内清除了大部分感染。"
+          }
+        ]
+      },
+      {
+        "title": "with 引导的介词短语作后置定语",
+        "explain": "with + 名词 放在名词后面，表示“带有、具有……的”，作后置定语，如 a room with a view（景色宜人的房间）、a girl with long hair（长头发的女孩）。本句 an airlock with one electric lighter 意为“带有电子点烟器的气闸”。翻译时一般前置为“带有……的”或“有……的”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "They rented a small flat with a balcony overlooking the harbour.",
+            "zh": "他们租了一套小公寓，带一个俯瞰港口的阳台。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "combustible",
+        "explain": "形容词，易燃的、可燃的，比 flammable 更正式、更技术化，如 combustible materials（易燃材料）；反义词 non-combustible（不可燃的）。名词 combustion 意为“燃烧”，如 internal combustion engine（内燃机）。视频译为“易燃的”。"
+      },
+      {
+        "term": "airlock",
+        "explain": "气闸，指两道密封门之间的小隔间，用来隔开两侧的空气或气压，潜艇、航天器、实验室都有这种装置。本句的气闸把吸烟区与飞艇其他部分隔开，防止明火接触到氢气。"
+      },
+      {
+        "term": "sit behind",
+        "explain": "坐在……后面，behind 是介词，表示位置。视频把 sat behind 译为“坐在……后面”，并增补“只能”，体现吸烟受到的限制。"
+      },
+      {
+        "term": "electric lighter",
+        "explain": "电子点烟器、电点火器，靠电热丝发热点烟，不产生明火。视频译为“电子点烟器”。"
+      },
+      {
+        "term": "smoker",
+        "explain": "吸烟者，如 a heavy smoker（烟瘾大的人）、a non-smoker（不吸烟的人）。由动词 smoke 加表示人的后缀 -er 构成。"
+      }
+    ],
+    "translation_tip": "视频译文“因为氢气是易燃的，吸烟者只能坐在一道带有电子点烟器的气闸后面。”的处理：①原因状语从句照原序放在句首，译为“因为……”，与英文语序一致。②that gas 不直译成“那种气体”，而是把指代对象明确译出，直接写成“氢气”。③增补“只能”，体现易燃气体带来的严格限制。④后置定语 with one electric lighter 前置为“带有电子点烟器的”，介词 behind 译成方位词“后面”放在名词之后，不定冠词 an 译成量词“一道”。"
+  },
+  {
+    "n": 5,
+    "trunk": {
+      "subject": "The airship",
+      "predicate": "left",
+      "object_or_complement": "Frankfurt",
+      "explain": "主干是 The airship left Frankfurt，主谓宾结构；leave 在此是及物动词，意为“离开（某地）”。谓语 left 是 leave 的过去式，一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "The airship",
+        "zh": "飞艇",
+        "role": "主语（指兴登堡号）"
+      },
+      {
+        "text": "left",
+        "zh": "离开",
+        "role": "谓语"
+      },
+      {
+        "text": "Frankfurt",
+        "zh": "法兰克福",
+        "role": "宾语"
+      },
+      {
+        "text": "on 3 May 1937.",
+        "zh": "1937年5月3日",
+        "role": "时间状语（介词短语，on 引出具体日期）"
+      }
+    ],
+    "structure": "①本句是简单句，主干 The airship left Frankfurt 是主谓宾结构：主语 The airship，谓语 left，宾语 Frankfurt。\n②on 3 May 1937 是介词短语作时间状语，放在句末。具体到某一天的日期前用介词 on。日期按英式写法“日、月、年”排列，美式写作 May 3, 1937。\n③本句开启第二段，从第一段的背景介绍转入最后一次航行的叙述，交代出发的时间和地点。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "时间介词 at、on、in 的分工",
+        "explain": "具体时刻前用 at（at 7:25 pm）；具体某一天、某一天的上午或晚上用 on（on 3 May 1937、on the morning of 6 May）；月份、年份、季节等较长时段用 in（in May、in 1937、in the 1930s）。本句 3 May 1937 精确到日，所以用 on。考研完形和写作中，日期与年份连用时，以最小的时间单位决定介词，如 on 3 May 1937 不能写成 in 3 May 1937。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The Treaty of Versailles was signed on 28 June 1919, exactly five years after the assassination in Sarajevo.",
+            "zh": "《凡尔赛和约》于1919年6月28日签署，恰好是萨拉热窝刺杀事件发生五年之后。"
+          }
+        ]
+      },
+      {
+        "title": "leave 与 leave for",
+        "explain": "leave 作及物动词时，宾语是离开的地点，如 leave Frankfurt（离开法兰克福）；leave for 后接目的地，意为“动身前往”，如 leave for New York。leave A for B 表示“离开 A 前往 B”。本句只交代出发地，没有交代目的地。易错点：把 leave Beijing 误解成“前往北京”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The delegation leaves Beijing for Geneva tomorrow morning.",
+            "zh": "代表团明天早上离开北京前往日内瓦。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "airship",
+        "explain": "飞艇，由 air（空气，空中）和 ship（船）构成，字面意思是“空中的船”，靠比空气轻的气体升空，配有发动机和舵，可以控制航向。兴登堡号就是一艘硬式飞艇。"
+      },
+      {
+        "term": "Frankfurt",
+        "explain": "法兰克福，德国城市，兴登堡号最后一次航行从这里出发，飞往美国。"
+      },
+      {
+        "term": "3 May 1937",
+        "explain": "英式日期写法，按“日、月、年”排列；美式写法是 May 3, 1937。汉语按“年、月、日”排列，所以视频译为“1937年5月3日”。"
+      }
+    ],
+    "translation_tip": "视频译文“1937年5月3日，飞艇离开法兰克福。”的处理：①句末的时间状语 on 3 May 1937 提到句首，按汉语“年、月、日”的顺序译出，后面加逗号，符合汉语时间状语在前的习惯。②定冠词 The 不译出，直接译为“飞艇”。③left 译为“离开”，宾语“法兰克福”紧随其后。"
+  },
+  {
+    "n": 6,
+    "trunk": {
+      "subject": "it",
+      "predicate": "met, circled",
+      "object_or_complement": "thunderstorms（met 的宾语）",
+      "explain": "主干是一个主语带两个并列谓语：it met thunderstorms（主谓宾）and circled（主谓，circle 为不及物动词）。两个谓语都是一般过去时，主动语态，按动作先后排列。"
+    },
+    "components": [
+      {
+        "text": "Hours behind its timetable,",
+        "zh": "比时刻表晚了几个小时",
+        "role": "状语（形容词短语，Hours 说明落后的程度），说明主语 it 当时的状态"
+      },
+      {
+        "text": "it",
+        "zh": "它",
+        "role": "主语（指飞艇）"
+      },
+      {
+        "text": "met",
+        "zh": "遇到",
+        "role": "谓语一"
+      },
+      {
+        "text": "thunderstorms",
+        "zh": "雷暴",
+        "role": "宾语（met 的宾语）"
+      },
+      {
+        "text": "at Lakehurst",
+        "zh": "在莱克赫斯特",
+        "role": "地点状语（介词短语）"
+      },
+      {
+        "text": "and circled",
+        "zh": "盘旋了",
+        "role": "并列连词 and + 谓语二（不及物动词）"
+      },
+      {
+        "text": "for over an hour",
+        "zh": "一个多小时",
+        "role": "时间状语（介词短语，表示持续时间）"
+      },
+      {
+        "text": "before its descent",
+        "zh": "才开始……下降",
+        "role": "时间状语（介词短语，before 是介词，its descent 是它的宾语）"
+      },
+      {
+        "text": "towards the mooring mast.",
+        "zh": "朝着系留塔架",
+        "role": "后置定语（介词短语），修饰 descent"
+      }
+    ],
+    "structure": "①句首 Hours behind its timetable 是形容词短语作状语（视频说明：形容词短语作状语），用逗号与主句隔开，逻辑主语是主句主语 it。behind its timetable 意为“落后于时刻表”，名词 Hours 放在前面说明落后的程度，即“晚了几个小时”。\n②主句是 it met thunderstorms at Lakehurst and circled for over an hour：一个主语 it 带两个并列谓语 met 和 circled。met thunderstorms 中 meet 意为“遭遇”，at Lakehurst 是地点状语；circled 是不及物动词“盘旋”，for over an hour 表示持续时间，over 相当于 more than。\n③before its descent 是介词短语作时间状语，before 后接名词 descent。its descent 是名词化结构，相当于 it descended。towards the mooring mast 是介词短语，作 descent 的后置定语（视频说明：介词短语，修饰 descent），说明下降的方向。\n④mooring mast 是系留塔架（视频说明：地面上一根专门用来拴住飞艇机头、防止它被风吹跑的高大铁塔）。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "句首形容词短语作状语",
+        "explain": "形容词或形容词短语可以放在句首，用逗号与主句隔开，作状语，说明主语当时的状态、原因或伴随情况，它的逻辑主语必须是主句主语。本句 Hours behind its timetable 说明飞艇当时已经晚点几个小时，逻辑主语是 it。名词表示时间量放在 late、behind、early 等词前，可以表示程度，如 two hours late、ten minutes behind schedule。考研长难句中，句首逗号前的部分没有谓语时，要判断它是形容词短语、分词短语还是介词短语，再找主句的主语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Two weeks behind schedule, the builders worked through the weekend to finish the roof.",
+            "zh": "工期落后了两周，建筑工人周末连轴干活，要把屋顶完工。"
+          },
+          {
+            "en": "Exhausted after the long journey, the travellers went straight to bed.",
+            "zh": "长途旅行之后筋疲力尽，旅客们径直上床睡觉了。"
+          }
+        ]
+      },
+      {
+        "title": "before 译作“才”",
+        "explain": "before 连接前后两个动作时，如果前一部分强调经过了一段时间或一番周折，汉语常把 before 译成“才”，而不是“在……之前”。如 It was weeks before he replied（过了好几周他才回信）。本句 circled for over an hour before its descent 意为“盘旋了一个多小时，才开始下降”，视频把 before 译为“才开始”。这一译法在考研翻译中很常见，判断标准是前面的分句是否在强调时间长、过程久。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "It was nearly midnight before the last guests left.",
+            "zh": "快到午夜，最后一批客人才离开。"
+          },
+          {
+            "en": "The patient waited three hours before a doctor saw him.",
+            "zh": "病人等了三个小时才有医生给他看病。"
+          }
+        ]
+      },
+      {
+        "title": "名词化结构 + 介词短语后置定语",
+        "explain": "动作名词后接介词短语作后置定语，是名词化结构的常见形式，如 its descent towards the mooring mast 相当于 it descended towards the mooring mast，the plane's descent into Heathrow 相当于 the plane descended into Heathrow。翻译时可把动作名词还原为动词，介词短语转成状语，如本句译为“朝着系留塔架下降”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The plane began its descent into Heathrow shortly after dawn.",
+            "zh": "天刚亮不久，飞机就开始向希思罗机场下降。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "behind (one's) timetable",
+        "explain": "落后于时刻表、晚点，更常见的说法是 behind schedule；反义是 ahead of schedule（提前）、on schedule（按时）。timetable 在英式英语中指列车、航班的时刻表，美式英语多用 schedule。"
+      },
+      {
+        "term": "Lakehurst",
+        "explain": "莱克赫斯特，美国新泽西州的一个地方，当时设有莱克赫斯特海军航空站（Naval Air Station Lakehurst），兴登堡号在美国的停靠地就在这里。"
+      },
+      {
+        "term": "mooring mast",
+        "explain": "系留塔架，即视频说明中“地面上一根专门用来拴住飞艇机头、防止它被风吹跑的高大铁塔（系留塔）”。moor 本义是用绳索、锚把船停泊、系住，mooring 即“系泊”。"
+      },
+      {
+        "term": "over an hour",
+        "explain": "over 用在数量前，相当于 more than，意为“多于，超过”，over an hour 即“一个多小时”。"
+      },
+      {
+        "term": "circle",
+        "explain": "本句是不及物动词，指飞机、鸟等在空中绕圈飞行、盘旋，如 The plane circled over the airport。视频译为“盘旋了”。"
+      }
+    ],
+    "translation_tip": "视频译文“它比时刻表晚了几个小时，在莱克赫斯特遇到雷暴，盘旋了一个多小时，才开始朝着系留塔架下降。”的处理：①句首形容词短语译成独立分句，补出主语“它”，Hours behind its timetable 译为“比时刻表晚了几个小时”。②地点状语 at Lakehurst 提到动词前，译为“在莱克赫斯特遇到雷暴”。③两个并列谓语按时间顺序译成短句，for over an hour 译为“一个多小时”。④before its descent 不译成“在下降之前”，而是用“才开始……下降”顺着时间往下译，名词 descent 转译为动词“下降”；后置定语 towards the mooring mast 转为动词前的状语“朝着系留塔架”。"
+  },
+  {
+    "n": 7,
+    "trunk": {
+      "subject": "flames",
+      "predicate": "appeared",
+      "object_or_complement": "",
+      "explain": "主干是 flames appeared，主谓结构；appear 是不及物动词，没有宾语，也不能用于被动语态。谓语 appeared 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "At about 7:25 pm",
+        "zh": "晚上约7点25分",
+        "role": "时间状语（介词短语，at 引出具体时刻）"
+      },
+      {
+        "text": "on 6 May,",
+        "zh": "5月6日",
+        "role": "时间状语（介词短语，on 引出具体日期）"
+      },
+      {
+        "text": "flames",
+        "zh": "火焰",
+        "role": "主语"
+      },
+      {
+        "text": "appeared",
+        "zh": "出现在了",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "near the stern.",
+        "zh": "飞艇的尾部附近",
+        "role": "地点状语（介词短语）"
+      }
+    ],
+    "structure": "①主句是 flames appeared near the stern：主语 flames，谓语 appeared（不及物），near the stern 是介词短语作地点状语。\n②句首是两个时间状语：At about 7:25 pm 精确到时刻，用 at；on 6 May 精确到日期，用 on。英语时间状语按由小到大排列，先时刻、后日期；about 放在时刻前，表示“大约”。\n③flames 用复数，指燃起的火焰；stern 原指船尾，这里借指飞艇的尾部。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "时间状语的排列顺序：英语由小到大，汉语由大到小",
+        "explain": "英语中几个时间状语连用时，一般按由小到大的顺序排列：时刻、日期、年份，如 at about 7:25 pm on 6 May 1937；汉语则由大到小：年、月、日、时刻。翻译时要把顺序倒过来，本句视频译为“5月6日晚上约7点25分”。地点状语也有同样的规律，如 in Napier, New Zealand 译为“新西兰内皮尔”。考研翻译中，时间、地点状语的语序调整是基本功。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The meeting will begin at 9:30 am on Monday, 4 March.",
+            "zh": "会议将于3月4日星期一上午9点半开始。"
+          },
+          {
+            "en": "The first patient was admitted at around midnight on 12 January.",
+            "zh": "第一名病人于1月12日午夜前后入院。"
+          }
+        ]
+      },
+      {
+        "title": "appear 是不及物动词，不用被动语态",
+        "explain": "appear（出现）、happen、occur、take place、arise 等不及物动词本身不带宾语，也没有被动语态，不能写成 was appeared、was happened。本句 flames appeared 是主动形式。考研写作中“出现了……问题”应写成 problems appeared / arose，而不是 problems were appeared。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Cracks appeared in the dam wall shortly after the earthquake.",
+            "zh": "地震过后不久，大坝墙体上就出现了裂缝。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "pm",
+        "explain": "拉丁语 post meridiem 的缩写，意为“正午之后”，表示下午和晚上；am 是 ante meridiem 的缩写，表示上午。7:25 pm 即晚上7点25分，视频译为“晚上约7点25分”。"
+      },
+      {
+        "term": "stern",
+        "explain": "名词，船尾；反义词 bow（船头）。飞艇沿用了很多航海用语，本句 the stern 指飞艇的尾部，视频译为“尾部”，并补出“飞艇的”。stern 作形容词时意为“严厉的”，是另一个词义。"
+      },
+      {
+        "term": "flame",
+        "explain": "火焰，常用复数 flames 表示燃起的火，如 burst into flames（突然起火）、be in flames（在燃烧）。fire 泛指火、火灾，flame 侧重可见的火苗。"
+      },
+      {
+        "term": "about + 时刻",
+        "explain": "about 用在时间、数量前作副词，意为“大约”，相当于 around、approximately，about 7:25 pm 即“约7点25分”。"
+      }
+    ],
+    "translation_tip": "视频译文“5月6日晚上约7点25分，火焰出现在了飞艇的尾部附近。”的处理：①两个时间状语按汉语由大到小的顺序重排，先日期后时刻，pm 译成“晚上”，about 译成“约”。②near the stern 译为“飞艇的尾部附近”，增补“飞艇的”交代是谁的尾部，介词 near 译成方位词“附近”放在名词后。③appeared 译为“出现在了”，与后面的地点连成一体。"
+  },
+  {
+    "n": 8,
+    "trunk": {
+      "subject": "The inferno",
+      "predicate": "incinerated",
+      "object_or_complement": "the ship",
+      "explain": "主干是 The inferno incinerated the ship，主谓宾结构。谓语 incinerated 为一般过去时，主动语态；句末 leaving a crumpled frame 是现在分词短语作结果状语。"
+    },
+    "components": [
+      {
+        "text": "The inferno",
+        "zh": "这场无法控制的大火",
+        "role": "主语"
+      },
+      {
+        "text": "incinerated",
+        "zh": "焚毁了",
+        "role": "谓语"
+      },
+      {
+        "text": "the ship",
+        "zh": "这艘飞艇",
+        "role": "宾语"
+      },
+      {
+        "text": "in about half a minute,",
+        "zh": "在大约半分钟内就",
+        "role": "时间状语（介词短语，in 表示完成动作所用的时间）"
+      },
+      {
+        "text": "leaving a crumpled frame.",
+        "zh": "留下了一副扭曲变形的骨架",
+        "role": "结果状语（现在分词短语）"
+      }
+    ],
+    "structure": "①主句是 The inferno incinerated the ship：主语 The inferno，谓语 incinerated，宾语 the ship。The inferno 回指上句的 flames，用一个程度更强的词表明火势已经失控。\n②in about half a minute 是介词短语作时间状语，in 表示在一段时间之内完成，about 修饰 half a minute，表示“大约半分钟”。\n③leaving a crumpled frame 是现在分词短语作结果状语（视频说明：leaving…：现在分词短语作结果状语），逻辑主语是 The inferno，表示大火焚毁飞艇后自然造成的结果。crumpled 是过去分词作前置定语，修饰 frame。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "现在分词短语作结果状语",
+        "explain": "现在分词短语放在句末，用逗号隔开，可以表示主句动作自然而然带来的结果，常见的有 leaving、making、causing、resulting in 等。它的逻辑主语是主句主语，或者是主句所说的整件事。本句 leaving a crumpled frame 说明大火焚毁飞艇后留下了扭曲的骨架。区分：不定式 only to do 作结果状语，表示出乎意料、令人失望的结果，如 He hurried to the station, only to find the train had left。考研翻译中，结果状语一般译成后续分句，承前省略主语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The storm brought down power lines across the region, leaving thousands of homes without electricity.",
+            "zh": "暴风雨刮倒了整个地区的电线，致使数千户人家断电。"
+          },
+          {
+            "en": "Rents rose sharply last year, making city-centre flats unaffordable for many young workers.",
+            "zh": "去年房租大幅上涨，使许多年轻上班族租不起市中心的公寓。"
+          }
+        ]
+      },
+      {
+        "title": "in + 时间段：在……之内完成",
+        "explain": "in + 时间段 用于肯定句，表示完成某事所用的时间，如 in about half a minute（在大约半分钟内）；用于将来时则表示“……之后”，如 I'll be back in ten minutes。for + 时间段 表示动作或状态持续多久，如上句 circled for over an hour。本句强调大火焚毁飞艇用时极短，所以用 in。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Firefighters brought the blaze under control in less than an hour.",
+            "zh": "消防员在不到一个小时内控制住了火势。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "inferno",
+        "explain": "名词，熊熊烈火、无法控制的大火，比 fire 程度强得多，新闻中常用来描写猛烈的火灾。词源上来自意大利语，原义是“地狱”。本句视频译为“无法控制的大火”。"
+      },
+      {
+        "term": "incinerate",
+        "explain": "动词，焚化、烧毁，强调烧成灰烬，常用于 incinerate waste（焚烧垃圾）；名词 incinerator 意为“焚化炉”。本句视频译为“焚毁了”。"
+      },
+      {
+        "term": "half a minute",
+        "explain": "半分钟。half 放在不定冠词 a / an 之前，如 half an hour、half a mile；美式英语也说 a half hour。本文标题“兴登堡号的 34 秒”与此照应。"
+      },
+      {
+        "term": "crumpled frame",
+        "explain": "crumpled 是动词 crumple（使弄皱，使变形）的过去分词，作形容词，意为“揉皱的，压扁变形的”；frame 在这里指飞艇的金属骨架。视频译为“一副扭曲变形的骨架”。"
+      }
+    ],
+    "translation_tip": "视频译文“这场无法控制的大火在大约半分钟内就焚毁了这艘飞艇，留下了一副扭曲变形的骨架。”的处理：①The inferno 译为“这场无法控制的大火”，定冠词 The 译成“这场”，回指上句的火焰。②句末的时间状语 in about half a minute 提到谓语前，增补“就”，强调烧毁速度之快。③结果状语 leaving a crumpled frame 译成后续分句“留下了……”，承前省略主语；crumpled 译为“扭曲变形的”，不定冠词 a 译成量词“一副”。"
+  },
+  {
+    "n": 9,
+    "trunk": {
+      "subject": "62（主句）；a minority of 35（while 从句）",
+      "predicate": "survived（主句）；died（while 从句）",
+      "object_or_complement": "",
+      "explain": "主句是 62 survived，主谓结构，survive 在此为不及物动词；while 引导表示对比的状语从句 a minority of 35 died。两个谓语都是一般过去时，主动语态；句末 as did one man on the ground 是倒装结构。"
+    },
+    "components": [
+      {
+        "text": "Of the 97 aboard,",
+        "zh": "在艇上97人中",
+        "role": "范围状语（介词短语，Of 表示“在……之中”；aboard 是副词，作 the 97 的后置定语）"
+      },
+      {
+        "text": "62",
+        "zh": "62人",
+        "role": "主语（数词，后面省略了 people）"
+      },
+      {
+        "text": "survived,",
+        "zh": "生还",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "a proportion close to two-thirds,",
+        "zh": "这一比例接近三分之二",
+        "role": "同位语，补充说明前面的数字 62；close to two-thirds 是形容词短语，作 proportion 的后置定语"
+      },
+      {
+        "text": "while",
+        "zh": "而",
+        "role": "连词，表示对比，引导状语从句"
+      },
+      {
+        "text": "a minority of 35",
+        "zh": "少数的35人",
+        "role": "从句主语"
+      },
+      {
+        "text": "died,",
+        "zh": "遇难",
+        "role": "从句谓语（不及物动词）"
+      },
+      {
+        "text": "as did one man on the ground.",
+        "zh": "地面上另有一名男子也丧生了",
+        "role": "as 引导的状语从句，主谓倒装，did 代替 died；on the ground 作 one man 的后置定语"
+      }
+    ],
+    "structure": "①句首 Of the 97 aboard 是介词短语作状语，划定范围（视频说明：97人之中；aboard 作后置定语）。the 97 是“数词作名词”，指97个人；aboard 是副词，意为“在飞艇上”，放在后面修饰 the 97。\n②主句 62 survived：数词 62 作主语，survived 是不及物动词“生还”。逗号后的 a proportion close to two-thirds 是同位语（视频说明：同位语，补充说明前面的数字），把62人换算成比例；close to two-thirds 是形容词短语作后置定语，意为“接近三分之二”。\n③while 引导对比状语从句（视频说明：while：表示对比），把生还的多数与遇难的少数对照：a minority of 35 died。\n④句末 as did one man on the ground 是倒装结构（视频说明：倒装，did 代替 died），正常语序是 as one man on the ground died，意为“地面上一名男子也同样丧生”。as 在此表示“和……一样”，助动词 did 放在主语前，替代前面的谓语 died。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "as + 助动词 + 主语：表示“……也一样”的倒装",
+        "explain": "as 引导从句表示“和……一样”时，从句常用倒装：as + 助动词（do / does / did / have / be / 情态动词）+ 主语，助动词替代前文已出现的谓语，避免重复。本句 as did one man on the ground 中，did 替代 died。这一结构语体较正式，含义与 so did sb 相近，但 so did 一般另起分句，as did 则直接附在句末。考研阅读中遇到 as + 助动词 + 名词，要回到前文找出被替代的谓语，理解为“某某也……”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Oil prices climbed sharply last spring, as did the cost of shipping.",
+            "zh": "去年春天油价大幅攀升，运费也是如此。"
+          },
+          {
+            "en": "She studied law at Edinburgh, as had her father and grandfather before her.",
+            "zh": "她在爱丁堡大学学习法律，她的父亲和祖父当年也是如此。"
+          }
+        ]
+      },
+      {
+        "title": "while 表示对比",
+        "explain": "while 除了表示“当……的时候”，还可以连接两个形成对照的情况，相当于 whereas，译为“而”。判断方法：while 前后两部分在内容上形成明显对比（多与少、生与死、此地与彼地），且不是讲时间上的同时，就是对比用法。本句 62 survived 与 a minority of 35 died 一生一死，构成对比。考研阅读中，while 放在句首也常表示让步，意为“虽然”，要结合语境判断。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Some regions suffered severe drought, while others were hit by floods.",
+            "zh": "一些地区遭遇严重干旱，而另一些地区则受到洪水袭击。"
+          }
+        ]
+      },
+      {
+        "title": "同位语补充说明数字",
+        "explain": "新闻和报告中，常在数字后用逗号接一个名词短语作同位语，把数字换算成比例或作出评价，如 a proportion close to two-thirds、a rise of 15 per cent、a figure far higher than expected。这类同位语的中心词常是 proportion、figure、number、rise、increase 等。翻译时一般拆成独立分句，用“这一比例”“这一数字”回指。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Nearly 4,000 people signed the petition, a number far higher than the organisers had expected.",
+            "zh": "近4000人在请愿书上签了名，这一数字远远超出了组织者的预期。"
+          }
+        ]
+      },
+      {
+        "title": "Of + 群体：表示“在……之中”",
+        "explain": "of 放在句首，后接表示群体的名词，意为“在……之中”，引出范围，后面的主句再说明其中一部分的情况，如 Of the 200 students surveyed, only 12 ... 。本句 Of the 97 aboard 划定范围，后面分别交代生还和遇难的人数。考研阅读的数据描述中，这种结构用来交代统计的总体。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Of the 200 students surveyed, only 12 said they read a newspaper every day.",
+            "zh": "在接受调查的200名学生中，只有12人说自己每天看报纸。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "aboard",
+        "explain": "副词兼介词，意为“在船（飞机、火车、飞艇）上”；作副词时可放在名词后作后置定语，如 the passengers aboard、the 97 aboard。本句视频译为“艇上”，与句末 on the ground（地面上）相对。"
+      },
+      {
+        "term": "two-thirds",
+        "explain": "分数的英文表达：分子用基数词，分母用序数词，分子大于一时分母加 s，中间常加连字符，如 one-third、two-thirds、three-quarters。62除以97约为0.64，所以说 close to two-thirds（接近三分之二）。"
+      },
+      {
+        "term": "a minority of",
+        "explain": "少数的……，与 a majority of（大多数的……）相对；本句 a minority of 35 指35人只占少数，视频译为“少数的35人”。"
+      },
+      {
+        "term": "proportion",
+        "explain": "名词，比例，部分；常见搭配有 a large proportion of（很大一部分）、in proportion to（与……成比例）。本句指生还人数占总人数的比例。"
+      },
+      {
+        "term": "伤亡人数",
+        "explain": "按本句的数字，艇上35人遇难，地面上另有1人丧生，兴登堡号失事共造成36人死亡。"
+      }
+    ],
+    "translation_tip": "视频译文“在艇上97人中，62人生还，这一比例接近三分之二；而少数的35人遇难，地面上另有一名男子也丧生了。”的处理：①Of the 97 aboard 译为“在艇上97人中”，aboard 前移为“艇上”，数字后补量词“人”。②同位语拆成独立分句，用“这一比例”回指。③用分号隔开生还与遇难两层意思，while 译为“而”。④倒装 as did one man on the ground 补出被替代的动词，译为“丧生了”；on the ground 前移为“地面上”，增补“另有”“也”，表明这是艇外的又一名死者。"
+  },
+  {
+    "n": 10,
+    "trunk": {
+      "subject": "A 14-year-old cabin boy（前一分句）；the soaking（后一分句）",
+      "predicate": "was drenched（前一分句）；saved（后一分句）",
+      "object_or_complement": "him（saved 的宾语）",
+      "explain": "and 连接两个并列分句。前一分句是被动语态 was drenched（一般过去时），by a deluge 引出动作的执行者；后一分句 the soaking saved him 是主谓宾结构，一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "A 14-year-old cabin boy",
+        "zh": "一名14岁的艇上的服务生",
+        "role": "主语（14-year-old 是复合形容词，作前置定语）"
+      },
+      {
+        "text": "was drenched",
+        "zh": "被……浇透了",
+        "role": "谓语（一般过去时的被动语态）"
+      },
+      {
+        "text": "by a deluge",
+        "zh": "涌出的水",
+        "role": "介词短语，by 引出被动语态中动作的执行者"
+      },
+      {
+        "text": "from a burst water tank,",
+        "zh": "一个爆裂的水箱里",
+        "role": "后置定语（介词短语），修饰 a deluge；burst 是过去分词，作 water tank 的前置定语"
+      },
+      {
+        "text": "and",
+        "zh": "而",
+        "role": "并列连词，连接两个分句"
+      },
+      {
+        "text": "the soaking",
+        "zh": "正是这一身湿透",
+        "role": "主语（名词 soaking，回指前面被浇透这件事）"
+      },
+      {
+        "text": "saved",
+        "zh": "救了",
+        "role": "谓语"
+      },
+      {
+        "text": "him.",
+        "zh": "他",
+        "role": "宾语"
+      }
+    ],
+    "structure": "①前一分句 A 14-year-old cabin boy was drenched by a deluge from a burst water tank：主语 A 14-year-old cabin boy，谓语 was drenched 是被动语态（视频说明：was drenched by…：被动语态），by a deluge 引出施动者。from a burst water tank 是介词短语作 deluge 的后置定语，说明水从哪里来。\n②主语中 14-year-old 是复合形容词，由数词、名词和形容词用连字符连成，作 cabin boy 的前置定语，year 用单数。cabin boy 指客轮或商船上干杂活、伺候乘客的年轻男服务员（视频说明）。\n③burst 是过去分词作前置定语，a burst water tank 即“一个爆裂的水箱”。burst 的原形、过去式和过去分词同形。\n④and 连接后一分句 the soaking saved him：soaking 是名词，指全身湿透的状态，回指前一分句的 was drenched，用名词把前面的动作概括成一个主语。前后两句构成因果：被水浇透，反而保住了性命。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "复合形容词：数词 + 名词 + 形容词",
+        "explain": "数词、名词、形容词用连字符连成复合形容词放在名词前作定语时，其中的名词一律用单数，如 a 14-year-old boy、a five-year plan、a two-hour meeting、a ten-mile walk。作表语时则不用连字符，名词用复数：The boy was 14 years old。考研写作中常见错误是写成 a 14-years-old boy。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The museum is run by a 70-year-old volunteer who knows every exhibit by heart.",
+            "zh": "这家博物馆由一位70岁的志愿者管理，他对每件展品都了如指掌。"
+          },
+          {
+            "en": "Negotiators emerged from a ten-hour meeting without an agreement.",
+            "zh": "谈判代表开了十个小时的会，最终没有达成协议。"
+          }
+        ]
+      },
+      {
+        "title": "被动语态与 by 引出的施动者",
+        "explain": "被动语态由 be + 过去分词构成，一般过去时的被动语态是 was / were done。需要交代动作的执行者时，用 by 引出。本句 was drenched by a deluge 中，执行者是“涌出的水”。翻译时可用“被”字句，也可换成主动句；视频保留了“被……浇透了”的说法，突出服务生是承受者。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The village was cut off by a landslide after days of heavy rain.",
+            "zh": "连日大雨之后，这个村庄被山体滑坡隔断了。"
+          }
+        ]
+      },
+      {
+        "title": "用名词回指前文的动作",
+        "explain": "英语常把前文的动作或事件概括成一个名词，加定冠词 the 作下一句的主语，使行文紧凑、衔接自然，如 the soaking 回指 was drenched，the apology 回指 apologised，the decision 回指 decided。这类名词常带有评价色彩。考研阅读中，这种回指是理解段落衔接的关键，要能找到它所指的具体内容。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The minister apologised in parliament, but the apology did little to calm public anger.",
+            "zh": "部长在议会中道了歉，但这次道歉几乎没能平息公众的愤怒。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "cabin boy",
+        "explain": "视频说明：在客轮或商船上干杂活、伺候乘客的年轻男服务员（通常年纪很小）。本句视频译为“艇上的服务生”，把“船上”换成“艇上”，与飞艇语境一致。这名服务生名叫维尔纳·弗朗茨（Werner Franz）。"
+      },
+      {
+        "term": "drench",
+        "explain": "动词，使湿透，浇透，常用被动：be drenched in / with sth、get drenched（被淋透）。本句视频译为“浇透了”。"
+      },
+      {
+        "term": "deluge",
+        "explain": "名词，洪水、大雨；也比喻大量涌来的事物，如 a deluge of letters（雪片般的来信）。本句指水箱破裂后倾泻而下的大量的水，视频译为“涌出的水”。"
+      },
+      {
+        "term": "soaking",
+        "explain": "名词，湿透、浸透，如 get a soaking（被淋得透湿）；也可作形容词或副词，如 soaking wet（湿透的）。本句的 soaking 与前面的 drenched 意思相近，视频译为“这一身湿透”。"
+      },
+      {
+        "term": "burst",
+        "explain": "动词，爆裂、破裂，原形、过去式和过去分词同为 burst，如 a burst pipe（爆裂的水管）、burst into tears（突然大哭）。本句 burst 是过去分词作定语，视频译为“爆裂的”。"
+      }
+    ],
+    "translation_tip": "视频译文“一名14岁的艇上的服务生被一个爆裂的水箱里涌出的水浇透了，而正是这一身湿透救了他。”的处理：①被动语态保留为“被……浇透了”的“被”字句，突出服务生是承受者。②后置定语 from a burst water tank 前移，与 deluge 合译为“一个爆裂的水箱里涌出的水”，from 译成“里涌出”，把来源说具体。③and 译为“而”，增补“正是”，强调出人意料的因果关系。④the soaking 保留名词形式，译为“这一身湿透”；不定冠词分别译成量词“一名”“一个”。"
+  },
+  {
+    "n": 11,
+    "trunk": {
+      "subject": "He",
+      "predicate": "dropped, scrambled",
+      "object_or_complement": "",
+      "explain": "主干是一个主语带两个并列谓语：He dropped（主谓）and scrambled clear（主谓，clear 作副词说明结果）。drop 和 scramble 在此都是不及物动词，谓语为一般过去时，主动语态；句末 escaping only narrowly 是现在分词短语作结果状语。"
+    },
+    "components": [
+      {
+        "text": "He",
+        "zh": "他",
+        "role": "主语（指上句的服务生）"
+      },
+      {
+        "text": "dropped",
+        "zh": "掉落下去",
+        "role": "谓语一（不及物动词）"
+      },
+      {
+        "text": "through a hatch",
+        "zh": "从一个舱口",
+        "role": "地点状语（介词短语，表示穿过的通道）"
+      },
+      {
+        "text": "and scrambled",
+        "zh": "迅速而吃力地爬了",
+        "role": "并列连词 and + 谓语二（不及物动词）"
+      },
+      {
+        "text": "clear,",
+        "zh": "出来",
+        "role": "状语（副词 clear，表示 scrambled 的结果：脱离危险处），与 scrambled 构成 scramble clear"
+      },
+      {
+        "text": "escaping only narrowly.",
+        "zh": "仅仅勉强逃脱",
+        "role": "结果状语（现在分词短语）"
+      }
+    ],
+    "structure": "①主句是 He dropped through a hatch and scrambled clear：主语 He 带两个并列谓语，按动作先后排列。dropped 是不及物动词，through a hatch 是介词短语作状语，说明他是穿过舱口掉下去的。\n②scrambled clear 中，clear 是副词，意为“离开（某处），不接触”，说明 scramble 这一动作的结果（视频说明：scramble clear：迅速而吃力地爬出来、脱身）。clear 后面省略了 of the wreckage 之类的成分，意思是脱离了燃烧的残骸。\n③escaping only narrowly 是现在分词短语作结果状语（视频说明：escaping…：现在分词短语作结果状语），逻辑主语是 He，概括前面两个动作的结果：他逃了出来，但非常惊险。only 修饰 narrowly，加强“勉强”的意味。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "动词 + clear：脱离、离开（危险或障碍）",
+        "explain": "clear 作副词时，意为“离开某处，不接触某物”，常放在 jump、pull、get、stand、scramble 等动词后，表示动作的结果是脱离危险或障碍，后面可接 of sth，如 stand clear of the doors（请勿靠近车门）、pull sb clear of the wreckage（把某人从残骸中拉出来）。本句 scrambled clear 指服务生手脚并用地爬出来，脱离了火海。考研阅读中遇到 clear 跟在动作动词后，不能把它当作“清楚的”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The driver managed to jump clear just before the car plunged into the river.",
+            "zh": "就在汽车冲进河里之前，司机设法跳了出来。"
+          },
+          {
+            "en": "Rescuers pulled two children clear of the collapsed building.",
+            "zh": "救援人员把两个孩子从倒塌的楼房里拉了出来。"
+          }
+        ]
+      },
+      {
+        "title": "现在分词短语作结果状语",
+        "explain": "句末用逗号隔开的现在分词短语可以表示前面动作带来的结果，逻辑主语是主句主语。本句 escaping only narrowly 概括了 dropped 和 scrambled clear 两个动作的结果。翻译时一般译成后续的短句，主语承前省略，视频译为“仅仅勉强逃脱”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The car skidded on the ice and left the road, coming to rest in a ditch.",
+            "zh": "汽车在冰面上打滑冲出了公路，最后停在一条沟里。"
+          }
+        ]
+      },
+      {
+        "title": "并列谓语按时间顺序排列",
+        "explain": "同一主语连续发出的几个动作，可用 and 连接成并列谓语，通常按发生的先后排列。本句 dropped through a hatch 和 scrambled clear 先后发生：先从舱口掉下去，再爬出来。翻译时也按原顺序译成连续的短句。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The climber slipped on the wet rock and slid several metres down the slope.",
+            "zh": "登山者在湿滑的岩石上失足，顺着山坡滑下去好几米。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "hatch",
+        "explain": "名词，舱口、舱门，指船、飞机、飞艇上可开合的开口，如 an escape hatch（逃生舱口）。视频译为“舱口”。hatch 作动词意为“孵化”，是另一个常见义。"
+      },
+      {
+        "term": "scramble",
+        "explain": "动词，手脚并用地迅速爬、攀爬，强调动作急促、吃力，如 scramble up a hill（爬上山坡）；也指争抢，如 scramble for seats（抢座位）。本句视频译为“迅速而吃力地爬了”。"
+      },
+      {
+        "term": "narrowly escape",
+        "explain": "narrowly 意为“勉强地，险些”，常与 escape、avoid、miss 搭配，表示差一点就没能避开，如 narrowly escape death（死里逃生）；也可表示以微弱差距取胜，如 narrowly win。本句视频译为“勉强”。"
+      },
+      {
+        "term": "drop",
+        "explain": "本句是不及物动词，意为“落下，掉下”，through a hatch 说明从哪里掉下去。视频增补“下去”，译为“掉落下去”。"
+      }
+    ],
+    "translation_tip": "视频译文“他从一个舱口掉落下去，迅速而吃力地爬了出来，仅仅勉强逃脱。”的处理：①地点状语 through a hatch 提到动词前，译为“从一个舱口”，dropped 增补趋向动词，译为“掉落下去”。②scrambled clear 中 scramble 的动作特点译成“迅速而吃力地爬了”，副词 clear 译成趋向补语“出来”。③结果状语 escaping only narrowly 译成第三个短句，承前省略主语，only narrowly 译为“仅仅勉强”。"
+  },
+  {
+    "n": 12,
+    "trunk": {
+      "subject": "Newsreel cameras and photographers",
+      "predicate": "caught",
+      "object_or_complement": "the disaster",
+      "explain": "主干是 Newsreel cameras and photographers caught the disaster，主谓宾结构，主语由 and 连接的两个并列名词构成。谓语 caught 是 catch 的过去式，一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Newsreel cameras",
+        "zh": "新闻纪录片摄影机",
+        "role": "主语一（newsreel 作 cameras 的前置定语）"
+      },
+      {
+        "text": "and photographers",
+        "zh": "和摄影师",
+        "role": "并列连词 and + 主语二"
+      },
+      {
+        "text": "caught",
+        "zh": "拍下了",
+        "role": "谓语"
+      },
+      {
+        "text": "the disaster.",
+        "zh": "这场灾难",
+        "role": "宾语"
+      }
+    ],
+    "structure": "①本句是简单句，主语是 Newsreel cameras and photographers，由 and 连接两个并列名词，一个指设备，一个指人；谓语 caught；宾语 the disaster。\n②Newsreel 是名词作前置定语，说明是拍摄新闻纪录片用的摄影机。\n③caught 在这里意为“拍下，录下”，是 catch 的熟词僻义。the disaster 回指前文描写的飞艇焚毁事件。本句开启第四段，由事故经过转向媒体记录和事故原因。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "名词作前置定语",
+        "explain": "名词可以直接放在另一个名词前作定语，说明用途、类别或内容，作定语的名词一般用单数，如 newsreel cameras（拍新闻纪录片的摄影机）、water tank（水箱）、radio correspondent（电台记者）。本文这类结构很多。翻译时多译成“……的……”或直接合成一个词。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Security cameras recorded the robbery from three different angles.",
+            "zh": "监控摄像头从三个不同角度录下了这起抢劫。"
+          }
+        ]
+      },
+      {
+        "title": "and 连接的并列主语与谓语一致",
+        "explain": "A and B 作主语时，谓语动词一般用复数。本句谓语是过去式 caught，单复数形式相同，看不出区别；如果改成现在时，就要写成 cameras and photographers catch。易错点：A as well as B、A with B 作主语时，谓语与 A 保持一致，不按复数处理。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The director and her assistant are reviewing the footage this afternoon.",
+            "zh": "导演和她的助手今天下午正在审看这些影像素材。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "newsreel",
+        "explain": "新闻纪录片，指过去在电影院正片前放映的短篇新闻影片，电视普及之前，人们主要靠它看到新闻画面。由 news（新闻）和 reel（胶片卷）构成。视频译为“新闻纪录片”。"
+      },
+      {
+        "term": "catch",
+        "explain": "熟词僻义：catch 可以表示用摄影机、照相机“拍下，录下”，如 be caught on camera（被摄像头拍到）、catch the moment on film（把那一刻拍下来）。本句视频译为“拍下了”。"
+      },
+      {
+        "term": "photographer",
+        "explain": "摄影师，重音在第二个音节，与 photograph（照片，重音在第一个音节）不同；photography 指摄影术，重音也在第二个音节。"
+      }
+    ],
+    "translation_tip": "视频译文“新闻纪录片摄影机和摄影师拍下了这场灾难。”的处理：①名词定语 Newsreel 直接译为“新闻纪录片”，与“摄影机”合成一个名词。②caught 按熟词僻义译为“拍下了”，与摄影机、摄影师搭配自然。③定冠词 the 译为“这场”，回指前文的事故。"
+  },
+  {
+    "n": 13,
+    "trunk": {
+      "subject": "A radio correspondent's eyewitness commentary（前一分句）；audiences（后一分句）",
+      "predicate": "was not（前一分句）；heard（后一分句）",
+      "object_or_complement": "live（前一分句的表语）；it（heard 的宾语）",
+      "explain": "分号连接两个并列分句。前一分句是主系表结构，系动词 was 加否定词 not，一般过去时；后一分句 audiences heard it 是主谓宾结构，一般过去时，主动语态，the next day 作时间状语。"
+    },
+    "components": [
+      {
+        "text": "A radio correspondent's",
+        "zh": "一位电台的专题记者的",
+        "role": "定语（名词所有格），修饰 commentary；radio 作 correspondent 的前置定语"
+      },
+      {
+        "text": "eyewitness",
+        "zh": "目击",
+        "role": "前置定语（名词作定语），修饰 commentary"
+      },
+      {
+        "text": "commentary",
+        "zh": "实况报道",
+        "role": "主语中心词"
+      },
+      {
+        "text": "was not",
+        "zh": "并不是",
+        "role": "系动词 + 否定词"
+      },
+      {
+        "text": "live;",
+        "zh": "直播",
+        "role": "表语（形容词，意为“现场直播的”）"
+      },
+      {
+        "text": "audiences",
+        "zh": "听众",
+        "role": "主语（后一分句）"
+      },
+      {
+        "text": "heard",
+        "zh": "才听到",
+        "role": "谓语"
+      },
+      {
+        "text": "it",
+        "zh": "（代词，指 commentary，视频承前省略，未单独译出）",
+        "role": "宾语"
+      },
+      {
+        "text": "the next day.",
+        "zh": "在第二天",
+        "role": "时间状语（名词短语直接作状语）"
+      }
+    ],
+    "structure": "①分号把句子分成两个并列分句，后一分句解释前一分句：报道不是直播，所以听众第二天才听到。\n②前一分句是主系表结构。主语中心词是 commentary，前面有两层定语：名词所有格 A radio correspondent's 表示是谁的报道，名词 eyewitness 表示是亲眼目睹的报道。不定冠词 A 修饰的是 radio correspondent，不是 commentary。系动词 was 后加 not 构成否定，形容词 live 作表语，意为“现场直播的”。\n③后一分句 audiences heard it the next day：主语 audiences，谓语 heard，宾语 it 指 commentary（视频说明：it 指 commentary），the next day 是名词短语作时间状语，前面不加介词。\n④视频说明交代了背景：电台记者在现场一边看爆炸一边录下解说，当时无法现场直播，全美国的听众第二天才在收音机里听到这段录音。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "分号连接两个并列分句",
+        "explain": "分号可以连接两个意思紧密相关的独立分句，相当于省去了 and、but、so 等连词，两个分句之间常是解释、对比或因果关系。分号两边都必须是完整的句子；只用逗号把两个独立分句连在一起，是英语写作中常见的逗号粘连错误。本句后一分句 audiences heard it the next day 解释前一分句 was not live 的具体含义。考研写作中恰当使用分号，可以让句式更紧凑。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The museum does not charge for entry; visitors are simply invited to make a donation.",
+            "zh": "这家博物馆不收门票；只是请参观者随意捐款。"
+          },
+          {
+            "en": "Tickets sold out within an hour; thousands of fans were left disappointed.",
+            "zh": "门票一小时内就售罄了；成千上万的球迷大失所望。"
+          }
+        ]
+      },
+      {
+        "title": "名词所有格与名词定语叠用",
+        "explain": "英语名词前可以同时有所有格和名词定语，顺序一般是：所有格 + 名词定语 + 中心词，所有格本身还可以带冠词和定语（如 A radio correspondent's），这时冠词属于所有格内部，不直接修饰中心词。本句 A radio correspondent's eyewitness commentary 中，A 和 radio 修饰 correspondent，correspondent's 和 eyewitness 修饰 commentary。阅读时要先找到最后的中心词，再逐层往前分析，不能把 A 看作修饰 commentary 的冠词。翻译时按层次前置，视频译为“一位电台的专题记者的目击实况报道”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "A young scientist's research paper on coral reefs attracted unexpected attention.",
+            "zh": "一位年轻科学家关于珊瑚礁的研究论文引起了意想不到的关注。"
+          }
+        ]
+      },
+      {
+        "title": "the next day 直接作时间状语",
+        "explain": "叙述过去的事情时，“第二天”用 the next day 或 the following day，前面不加介词；以现在为参照时才用 tomorrow。同类的还有 the day before（前一天）、that evening（那天晚上）。本句 the next day 以事故发生的那天为参照，视频译为“在第二天”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The results were announced the following morning.",
+            "zh": "结果在第二天早上公布。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "correspondent",
+        "explain": "名词，记者，通讯员，常指派驻某地或负责某一领域的记者，如 a foreign correspondent（驻外记者）、a war correspondent（战地记者）；也指通信者。本句视频译为“专题记者”。"
+      },
+      {
+        "term": "eyewitness",
+        "explain": "名词，目击者；作定语表示“目击者的，亲眼所见的”，如 an eyewitness account（目击者的叙述）。由 eye（眼睛）和 witness（证人）构成。本句视频译为“目击”。"
+      },
+      {
+        "term": "commentary",
+        "explain": "名词，解说，评论；a live commentary 指实况解说，a running commentary 指边看边讲的连续解说。本句视频译为“实况报道”。"
+      },
+      {
+        "term": "live",
+        "explain": "形容词兼副词，读 /laɪv/，意为“现场直播的；现场直播地”，如 a live broadcast（现场直播）、broadcast live（直播）。动词 live（居住，生活）读 /lɪv/，读音和意思都不同。"
+      },
+      {
+        "term": "背景",
+        "explain": "这位电台记者是芝加哥 WLS 电台的赫伯特·莫里森（Herbert Morrison），他在现场的录音中喊出的“Oh, the humanity!”（哦，人类啊！）后来广为人知。"
+      }
+    ],
+    "translation_tip": "视频译文“一位电台的专题记者的目击实况报道并不是直播；听众在第二天才听到。”的处理：①主语的几层定语按顺序前置，所有格译成“……的”，A 译为“一位”，合成“一位电台的专题记者的目击实况报道”。②was not live 译为“并不是直播”，增补“并”加强否定语气。③保留原文的分号。④后一分句中的宾语 it 承前省略，不译出；时间状语 the next day 提到谓语前，增补“才”，突出“晚了一天”的意思，与前一分句的“并不是直播”呼应。"
+  },
+  {
+    "n": 14,
+    "trunk": {
+      "subject": "The cause（前一分句）；static electricity（后一分句）",
+      "predicate": "has not been definitively established（前一分句）；is（后一分句）",
+      "object_or_complement": "the leading explanation（后一分句的表语）",
+      "explain": "but 连接两个并列分句。前一分句谓语是现在完成时的被动语态 has not been established，副词 definitively 插在中间；后一分句是主系表结构，一般现在时，主语 static electricity 后带现在分词短语作后置定语。"
+    },
+    "components": [
+      {
+        "text": "The cause",
+        "zh": "起火原因",
+        "role": "主语"
+      },
+      {
+        "text": "has not been",
+        "zh": "尚未",
+        "role": "谓语的一部分（助动词 has been 加否定词 not）"
+      },
+      {
+        "text": "definitively",
+        "zh": "清楚地",
+        "role": "方式状语（副词），插在助动词与过去分词之间"
+      },
+      {
+        "text": "established,",
+        "zh": "得到确认",
+        "role": "谓语的一部分（过去分词，与 has not been 构成现在完成时的被动语态）"
+      },
+      {
+        "text": "but",
+        "zh": "但",
+        "role": "并列连词，表示转折"
+      },
+      {
+        "text": "static electricity",
+        "zh": "静电",
+        "role": "主语（后一分句）"
+      },
+      {
+        "text": "igniting",
+        "zh": "点燃",
+        "role": "后置定语（现在分词短语的核心），修饰 static electricity"
+      },
+      {
+        "text": "leaking",
+        "zh": "泄漏的",
+        "role": "前置定语（现在分词），修饰 hydrogen"
+      },
+      {
+        "text": "hydrogen",
+        "zh": "氢气",
+        "role": "igniting 的宾语"
+      },
+      {
+        "text": "is the leading explanation.",
+        "zh": "是最主要的解释",
+        "role": "系动词 + 表语"
+      }
+    ],
+    "structure": "①前一分句 The cause has not been definitively established：主语 The cause 指这场火灾的起因；谓语 has not been established 是现在完成时的被动语态（视频说明：has not been established：现在完成时的被动语态），表示到现在为止还没有得到确认；副词 definitively 插在 been 和 established 之间作方式状语。\n②but 表示转折，引出后一分句：虽然没有定论，但有一种最主要的解释。\n③后一分句是主系表结构。主语是 static electricity igniting leaking hydrogen，其中 igniting leaking hydrogen 是现在分词短语作后置定语，修饰 static electricity（视频说明：现在分词短语作后置定语，修饰 static electricity），相当于 static electricity that ignited leaking hydrogen；leaking 是现在分词作前置定语，修饰 hydrogen，表示“正在泄漏的”。系动词 is，表语 the leading explanation。\n④阅读时注意：igniting 不是谓语，后一分句真正的谓语是 is。整个主语讲的是一种起火机制：静电点燃了泄漏的氢气。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "现在完成时的被动语态",
+        "explain": "现在完成时的被动语态是 have / has been + 过去分词，否定式把 not 放在 have / has 之后：has not been done。它表示某一被动的动作到现在为止已经完成或尚未完成，常与 yet、so far、since 连用。本句 has not been definitively established 说明火灾原因直到现在仍无定论；副词常插在 been 与过去分词之间，如 has been widely reported、has not been fully explained。考研阅读中，这类句子常说明某一问题的研究现状，做题时不能把“尚未证实”的说法当作定论。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The source of the outbreak has not yet been identified.",
+            "zh": "疫情的源头尚未查明。"
+          },
+          {
+            "en": "Thousands of documents have been released since the archive opened to the public.",
+            "zh": "档案馆向公众开放以来，已有数千份文件被公开。"
+          }
+        ]
+      },
+      {
+        "title": "现在分词短语作后置定语，使主语变长",
+        "explain": "现在分词短语放在名词后作定语，表示主动关系，相当于一个定语从句，如 static electricity igniting leaking hydrogen 相当于 static electricity that ignited leaking hydrogen。这种结构会把主语拉长，使主语中心词和谓语隔得很远，阅读时容易把分词误当成谓语。判断方法：分词前面没有助动词，后面还有真正的谓语动词（本句是 is）。考研长难句中，名词后紧跟 -ing 短语，再接谓语，是最常见的长主语形式之一。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Studies linking screen time to poor sleep have multiplied in recent years.",
+            "zh": "近年来，把看屏幕时间与睡眠质量差联系起来的研究越来越多。"
+          },
+          {
+            "en": "Passengers arriving from the affected regions will be asked to fill in a health form.",
+            "zh": "从受影响地区抵达的乘客将被要求填写一份健康申报表。"
+          }
+        ]
+      },
+      {
+        "title": "现在分词作前置定语",
+        "explain": "单个现在分词可以放在名词前作定语，表示主动或正在进行，如 leaking hydrogen（正在泄漏的氢气）、a rising tide（上涨的潮水）、a growing problem（日益严重的问题）。过去分词作前置定语则多表示被动或完成，如 a broken window。本句 leaking 修饰 hydrogen，表示氢气在不断泄漏。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "A leaking pipe had been dripping onto the kitchen ceiling for weeks.",
+            "zh": "一根漏水的管子几周来一直往厨房的天花板上滴水。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "establish",
+        "explain": "熟词僻义：establish 常见义是“建立，创立”，在这里意为“确认，证实”，如 establish the cause of a fire（查明火灾原因）、establish the facts（查清事实）、establish that ...（证实……）。本句视频译为“得到确认”。"
+      },
+      {
+        "term": "definitively",
+        "explain": "副词，确定地，最终地，表示有了定论、不可再改；与 definitely（肯定地，无疑地）意思相近，但 definitively 更强调权威性和最终结论。本句视频译为“清楚地”。"
+      },
+      {
+        "term": "static electricity",
+        "explain": "静电，指物体表面积累的电荷，放电时会产生火花。本句的解释是：静电产生的火花点燃了泄漏出来的氢气。"
+      },
+      {
+        "term": "leading explanation",
+        "explain": "leading 作形容词，意为“最主要的，最重要的”，如 a leading cause of death（主要死因）、a leading expert（顶尖专家）。the leading explanation 即诸多解释中最被认可的那一种，视频译为“最主要的解释”。"
+      }
+    ],
+    "translation_tip": "视频译文“起火原因尚未清楚地得到确认，但静电点燃泄漏的氢气是最主要的解释。”的处理：①The cause 结合上下文增补为“起火原因”。②has not been 译为“尚未”，被动的 established 用“得到确认”表达，没有用“被”字。③后一分句中，现在分词后置定语 igniting leaking hydrogen 与 static electricity 合译成主谓结构“静电点燃泄漏的氢气”，整体作主语，既保留了原意，又避免了“点燃泄漏的氢气的静电”这种拗口的长定语；leaking 前置为“泄漏的”。④the leading explanation 译为“最主要的解释”。"
+  },
+  {
+    "n": 15,
+    "trunk": {
+      "subject": "A theory",
+      "predicate": "has been rejected",
+      "object_or_complement": "",
+      "explain": "主干是 A theory has been rejected，主谓结构，谓语是现在完成时的被动语态，表示这种说法已被否定，这一结论延续到现在。主语 A theory 后带现在分词短语 blaming the doped fabric 作后置定语。"
+    },
+    "components": [
+      {
+        "text": "A theory",
+        "zh": "一种……未被证实的看法",
+        "role": "主语"
+      },
+      {
+        "text": "blaming the doped fabric",
+        "zh": "将责任归咎于上过涂料的蒙皮织物的",
+        "role": "后置定语（现在分词短语），修饰 theory；doped 作 fabric 的前置定语"
+      },
+      {
+        "text": "has been rejected.",
+        "zh": "并没有被接受",
+        "role": "谓语（现在完成时的被动语态）"
+      }
+    ],
+    "structure": "①主干是 A theory has been rejected：主语 A theory，谓语 has been rejected，现在完成时的被动语态。\n②blaming the doped fabric 是现在分词短语作后置定语，修饰 theory（视频说明：blaming…：现在分词短语作后置定语，修饰 theory），相当于 a theory which blames the doped fabric。theory 与 blame 是主动关系，这种说法“归咎于”涂料织物，所以用现在分词。\n③the doped fabric 中，doped 意为“上过涂料的”，作 fabric 的前置定语；fabric 指飞艇外层的蒙皮织物。\n④本句与上句对照：上句给出最主要的解释（静电点燃泄漏的氢气），本句排除另一种说法（归咎于外层蒙皮的涂料）。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "现在分词短语作后置定语，主语中心词与谓语隔开",
+        "explain": "主语中心词后接现在分词短语作定语时，主语中心词和谓语被隔开，谓语的单复数要与中心词一致。本句中心词是单数 theory，所以谓语用 has been rejected，而不是看离谓语最近的 fabric。这种结构在新闻中常用来概括某一说法、报告或提案的内容，如 a report criticising ...、a proposal requiring ...。阅读时先找到中心词，再找它的谓语，中间的分词短语当作定语处理。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "A report criticising the hospital's safety record has been sent to ministers.",
+            "zh": "一份批评该医院安全记录的报告已呈交给部长们。"
+          },
+          {
+            "en": "A proposal requiring all new homes to have solar panels has been approved by the council.",
+            "zh": "一项要求所有新建住房安装太阳能电池板的提案已获市议会批准。"
+          }
+        ]
+      },
+      {
+        "title": "blame 的两种句式",
+        "explain": "blame 有两种常用句式：blame sb / sth for sth（因某事责怪某人、某物），blame sth on sb / sth（把某事归咎于某人、某物）。本句 blaming the doped fabric 是 blame sb / sth for sth 的省略形式，省去了 for the fire，意为“把起火归咎于涂料织物”，视频译为“将责任归咎于”。考研写作中常用 be to blame for sth 表示“应对……负责”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Investigators blamed the crash on a faulty sensor.",
+            "zh": "调查人员把这起坠机事故归咎于一个故障传感器。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "theory",
+        "explain": "熟词僻义：theory 除了“理论”，还可指某人认为正确、但尚未被证实的看法或说法，如 a conspiracy theory（阴谋论）、have a theory about sth。本句即此义，视频译为“未被证实的看法”。"
+      },
+      {
+        "term": "doped",
+        "explain": "形容词，上过涂料的。dope 作名词时可指涂在飞机、飞艇织物表面的一种涂料，用来使织物绷紧、防水；doped fabric 就是刷过这种涂料的织物。dope 在口语中还可指毒品，doped 在半导体领域还指“掺杂的”，这些都不是本句的意思。视频译为“上过涂料的”。"
+      },
+      {
+        "term": "fabric",
+        "explain": "名词，织物，布料；本句指覆盖在飞艇骨架外面的蒙皮织物，视频译为“蒙皮织物”。fabric 还可比喻社会、组织的结构，如 the fabric of society（社会结构）。"
+      },
+      {
+        "term": "reject a theory",
+        "explain": "否定、不接受某种说法；同类搭配有 reject a claim、reject an argument。反义表达是 accept a theory、support a theory。本句视频译为“并没有被接受”。"
+      }
+    ],
+    "translation_tip": "视频译文“一种将责任归咎于上过涂料的蒙皮织物的未被证实的看法，并没有被接受。”的处理：①现在分词后置定语 blaming the doped fabric 前移，译成长定语“将责任归咎于上过涂料的蒙皮织物的”，放在“未被证实的看法”前；blame 增补宾语“责任”，译为“将责任归咎于”。②A theory 按熟词僻义译为“一种……未被证实的看法”，不定冠词译成“一种”。③长主语后加逗号，再接谓语，便于阅读。④has been rejected 译为“并没有被接受”，用否定形式表达 reject 的含义，增补“并”加强语气。"
+  },
+  {
+    "n": 16,
+    "trunk": {
+      "subject": "The 1933 crash",
+      "predicate": "killed, won",
+      "object_or_complement": "73（killed 的宾语）；less notoriety（won 的宾语）",
+      "explain": "主干是一个主语带两个并列谓语：The 1933 crash killed 73（主谓宾）yet won less notoriety（主谓宾），yet 表示转折。两个谓语都是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "The 1933 crash",
+        "zh": "1933年……失事",
+        "role": "主语（年份 1933 作前置定语）"
+      },
+      {
+        "text": "of USS Akron",
+        "zh": "阿克伦号",
+        "role": "后置定语（介词短语），修饰 crash"
+      },
+      {
+        "text": "killed",
+        "zh": "造成……死亡",
+        "role": "谓语一"
+      },
+      {
+        "text": "73",
+        "zh": "73人",
+        "role": "宾语（数词，后面省略了 people）"
+      },
+      {
+        "text": "yet",
+        "zh": "然而",
+        "role": "并列连词，表示转折"
+      },
+      {
+        "text": "won",
+        "zh": "（谓语二，与 less notoriety 合译为“恶名却没那么大”）",
+        "role": "谓语二"
+      },
+      {
+        "text": "less notoriety.",
+        "zh": "恶名却没那么大",
+        "role": "宾语（won 的宾语）"
+      }
+    ],
+    "structure": "①主语是 The 1933 crash of USS Akron：中心词 crash，年份 1933 作前置定语，介词短语 of USS Akron 作后置定语，说明是谁的失事。USS 是 United States Ship 的缩写，美国海军舰艇名前缀（视频说明）。\n②主语带两个并列谓语，用 yet 连接：killed 73 说明死亡人数，数词 73 后省略了 people；won less notoriety 说明它的恶名小得多。yet 表示转折，强调两者之间的反差：死的人更多，名气却更小。\n③less notoriety 是比较级，比较对象（兴登堡号失事）省略未说，读者可从上下文补出：阿克伦号失事死了73人，比兴登堡号的36人多一倍有余，却没有兴登堡号那样出名。这为下一句解释原因作了铺垫。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "yet 作连词，表示转折",
+        "explain": "yet 作连词时意为“然而，但是”，相当于 but，但语气更强，常强调出人意料的反差；可以连接两个分句，也可以连接两个并列谓语或形容词，还常写成 and yet。本句 killed 73 yet won less notoriety 把“死亡人数多”和“恶名小”对立起来。yet 作副词时用于否定句和疑问句，意为“还，尚”，如 has not yet been decided，要注意区分。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The film cost very little to make yet earned millions at the box office.",
+            "zh": "这部电影制作成本很低，却在票房上赚了几百万。"
+          },
+          {
+            "en": "The solution was simple, yet no one had thought of it before.",
+            "zh": "这个解决办法很简单，然而之前从没有人想到过。"
+          }
+        ]
+      },
+      {
+        "title": "无灵主语 + kill：事件作主语",
+        "explain": "英语常用事件、灾害等无生命名词作 kill 的主语，表示该事件造成多少人死亡，如 The earthquake killed 2,000 people。汉语一般不说“地震杀死了……”，而说“地震造成……死亡”。本句 The 1933 crash ... killed 73，视频译为“1933年阿克伦号失事造成73人死亡”。考研翻译中，遇到无灵主语加动作动词的句子，常需转换成“造成”“使”“导致”等表达。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The earthquake killed more than 2,000 people and left thousands homeless.",
+            "zh": "这次地震造成2000多人死亡，数千人无家可归。"
+          }
+        ]
+      },
+      {
+        "title": "less + 不可数名词，比较对象省略",
+        "explain": "less 是 little 的比较级，修饰不可数名词，如 less notoriety、less time；修饰可数名词复数要用 fewer，如 fewer deaths。比较对象在上下文中已经明确时，than 引导的部分常省略。本句 won less notoriety 省略了 than the Hindenburg disaster。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The new model uses less fuel and produces fewer emissions.",
+            "zh": "新车型油耗更低，排放也更少。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "USS Akron",
+        "explain": "阿克伦号，美国海军的一艘硬式飞艇，1933年4月在美国新泽西州外海遭遇风暴坠毁，艇上76人中有73人遇难。USS 是 United States Ship 的缩写，美国海军舰艇名前缀（视频说明），汉语一般不译出，只在名称后加“号”。"
+      },
+      {
+        "term": "notoriety",
+        "explain": "名词，恶名，臭名，指因坏事而出名，如 gain notoriety（臭名远扬）、achieve notoriety。形容词 notorious（声名狼藉的）。本句视频译为“恶名”。"
+      },
+      {
+        "term": "win",
+        "explain": "win 除了“赢得（比赛）”，还可接 notoriety、fame、support、praise 等名词，表示“获得，博得”。本句 won less notoriety 视频合译为“恶名却没那么大”。"
+      },
+      {
+        "term": "crash",
+        "explain": "名词，（飞机、车辆的）坠毁，撞车，如 a plane crash（飞机失事）、a car crash（车祸）。本句视频译为“失事”。"
+      }
+    ],
+    "translation_tip": "视频译文“1933年阿克伦号失事造成73人死亡，然而恶名却没那么大。”的处理：①后置定语 of USS Akron 前移，与年份一起译为“1933年阿克伦号失事”；USS 不译出，名称后加“号”。②无灵主语句 killed 73 转换为“造成73人死亡”，数字后补出“人”。③yet 译为“然而”，增补“却”加强转折；won less notoriety 不直译为“赢得了较少的恶名”，而是把比较级 less 转译为“没那么大”，以“恶名”作主语，译为“恶名却没那么大”，省略的比较对象也不必译出。"
+  },
+  {
+    "n": 17,
+    "trunk": {
+      "subject": "The filmed fire",
+      "predicate": "left",
+      "object_or_complement": "a fateful image",
+      "explain": "主干是 The filmed fire left a fateful image，主谓宾结构。谓语 left 是 leave 的过去式，一般过去时，主动语态；that 引导的定语从句修饰宾语 image。"
+    },
+    "components": [
+      {
+        "text": "The filmed fire",
+        "zh": "被拍下的大火",
+        "role": "主语（filmed 是过去分词，作前置定语）"
+      },
+      {
+        "text": "left",
+        "zh": "留下了",
+        "role": "谓语"
+      },
+      {
+        "text": "a fateful image",
+        "zh": "一幅带来厄运的画面",
+        "role": "宾语（fateful 作前置定语）"
+      },
+      {
+        "text": "that abruptly wrecked confidence.",
+        "zh": "骤然摧毁了人们的信心",
+        "role": "限制性定语从句，修饰 image（that 在从句中作主语）"
+      }
+    ],
+    "structure": "①主句是 The filmed fire left a fateful image：主语 The filmed fire，filmed 是过去分词作前置定语，表示“被拍摄下来的”；谓语 left；宾语 a fateful image。\n②that abruptly wrecked confidence 是限制性定语从句，修饰 image（视频说明：that 引导定语从句，修饰 image）。that 在从句中作主语，abruptly 是副词作状语，修饰谓语 wrecked，confidence 是宾语。\n③本句解释上句留下的问题：阿克伦号死的人更多，为什么兴登堡号更出名？因为兴登堡号的大火被拍了下来。视频说明交代了背景：飞艇烧毁的视频一传开，全世界都吓傻了，大家对飞艇的安全彻底失去了信心，再也没人敢坐。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "that 引导限制性定语从句，that 作主语",
+        "explain": "that 引导限制性定语从句时，可以指人也可以指物，在从句中作主语时不能省略。本句 that abruptly wrecked confidence 修饰 image，that 是从句的主语，wrecked 是从句的谓语。限制性定语从句与先行词之间不用逗号，非限制性定语从句不能用 that 引导。翻译时，较长的定语从句常拆成后续分句，视频把它译为“骤然摧毁了人们的信心”，放在主句之后。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Investigators found a crack that had weakened the entire structure.",
+            "zh": "调查人员发现了一道裂缝，它削弱了整个结构。"
+          },
+          {
+            "en": "She wrote a report that changed the company's safety policy.",
+            "zh": "她写了一份报告，改变了公司的安全政策。"
+          }
+        ]
+      },
+      {
+        "title": "过去分词作前置定语",
+        "explain": "及物动词的过去分词放在名词前作定语，表示被动或完成，如 the filmed fire（被拍下的大火）、the stolen paintings（被盗的画作）、a crumpled frame（扭曲变形的骨架）。本句 filmed 说明这场大火是被拍摄下来的，这正是它与阿克伦号失事的区别所在。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The stolen paintings were recovered two years later in a warehouse.",
+            "zh": "那些被盗的画作两年后在一座仓库里被找回。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "fateful",
+        "explain": "形容词，带来重大后果的，常指带来厄运的、灾难性的，如 that fateful day（那个决定命运的日子）、a fateful decision（产生重大后果的决定）。本句视频译为“带来厄运的”。注意与 fatal（致命的）区分。"
+      },
+      {
+        "term": "image",
+        "explain": "名词，图像，画面；也指形象，如 public image（公众形象）。本句指大火被拍下的画面，视频译为“画面”。"
+      },
+      {
+        "term": "wreck confidence",
+        "explain": "wreck 本义是使（船只）失事、毁坏，引申为“彻底破坏”，可接 confidence、plans、career、chances 等抽象名词，如 wreck sb's career（毁掉某人的事业）。本句视频译为“摧毁了”。"
+      },
+      {
+        "term": "abruptly",
+        "explain": "副词，突然地，意外地，如 end abruptly（戛然而止）、stop abruptly（突然停下）；形容词 abrupt 还可形容态度“唐突的”。本句视频译为“骤然”。"
+      },
+      {
+        "term": "confidence",
+        "explain": "名词，信心，信任，常见搭配有 public confidence（公众信心）、lose confidence in（对……失去信心）。本句指公众对飞艇安全的信心，视频增补“人们的”。"
+      }
+    ],
+    "translation_tip": "视频译文“被拍下的大火留下了一幅带来厄运的画面，骤然摧毁了人们的信心。”的处理：①过去分词 filmed 译为“被拍下的”，保留被动含义。②fateful 译为“带来厄运的”，不定冠词 a 译为量词“一幅”。③限制性定语从句不前置，拆成后续分句“骤然摧毁了人们的信心”，承前省略主语，避免“一幅骤然摧毁了人们的信心的带来厄运的画面”这种过长的定语。④confidence 增补“人们的”，交代是谁的信心。"
+  },
+  {
+    "n": 18,
+    "trunk": {
+      "subject": "Graf Zeppelin（第一分句）；a glamorous epoch（第二分句）",
+      "predicate": "was withdrawn, later scrapped（第一分句）；closed（第二分句）",
+      "object_or_complement": "",
+      "explain": "句首 As 引导时间状语从句，后面是两个并列分句：Graf Zeppelin was withdrawn, (was) later scrapped，谓语是一般过去时的被动语态，第二个谓语省略了 was；a glamorous epoch of aviation closed 是主谓结构，close 为不及物动词，一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "As public perception soured,",
+        "zh": "随着公众的看法变糟",
+        "role": "时间状语从句（As 引导，表示“随着”）"
+      },
+      {
+        "text": "Graf Zeppelin",
+        "zh": "格拉夫·齐柏林号",
+        "role": "主语"
+      },
+      {
+        "text": "was withdrawn,",
+        "zh": "退役",
+        "role": "谓语一（一般过去时的被动语态）"
+      },
+      {
+        "text": "later scrapped,",
+        "zh": "随后被报废处理",
+        "role": "谓语二（省略了 was；later 作时间状语）"
+      },
+      {
+        "text": "and",
+        "zh": "而",
+        "role": "并列连词"
+      },
+      {
+        "text": "a glamorous epoch",
+        "zh": "一个充满魅力的时代",
+        "role": "主语（第二分句）"
+      },
+      {
+        "text": "of aviation",
+        "zh": "航空业的",
+        "role": "后置定语（介词短语），修饰 epoch"
+      },
+      {
+        "text": "closed.",
+        "zh": "结束了",
+        "role": "谓语（不及物动词）"
+      }
+    ],
+    "structure": "①As public perception soured 是 As 引导的时间状语从句（视频说明：As 引导时间状语从句），表示“随着”，说明公众看法的变化与后面的结果同步发生。从句主语 public perception，谓语 soured，sour 在这里是不及物动词“变坏”。\n②第一分句 Graf Zeppelin was withdrawn, later scrapped：主语 Graf Zeppelin，两个被动谓语 was withdrawn 和 later scrapped，后者省略了 was（视频说明：later scrapped：省略了 was）。later 作时间状语，说明报废发生在退役之后。\n③第二分句 a glamorous epoch of aviation closed：主语 a glamorous epoch，of aviation 是介词短语作后置定语（视频说明：修饰 epoch），谓语 closed 是不及物动词，意为“结束”。\n④scrapped 后的逗号是两个分句之间的逗号：and 前是讲一艘飞艇命运的第一分句，and 后是带有自己主语 a glamorous epoch of aviation 的第二分句。and 后出现新的主语，说明它连接的不是第三个并列谓语，而是一个新分句。两个分句由一艘飞艇的结局扩展到整个时代的终结，层层递进。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "as 引导时间状语从句，表示“随着”",
+        "explain": "as 引导时间状语从句时，除了“当……时”，还可以表示“随着”，说明两个变化同时发生、同步推进。这时从句和主句里常有表示变化的动词或比较级，如 sour、grow、rise、fall、increase、get worse。本句 As public perception soured 与主句的退役、报废、时代结束同步发生，视频译为“随着”。考研阅读中，as 的意义很多（因为、当……时、随着、正如、虽然），要根据从句内容判断：从句表示渐变过程时，多为“随着”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "As the economy recovered, unemployment began to fall.",
+            "zh": "随着经济复苏，失业率开始下降。"
+          },
+          {
+            "en": "As temperatures rise, many glaciers are retreating faster than ever.",
+            "zh": "随着气温升高，许多冰川正以前所未有的速度消退。"
+          }
+        ]
+      },
+      {
+        "title": "并列谓语中承前省略助动词",
+        "explain": "两个被动谓语并列时，后一个常承前省略助动词 be，只保留过去分词，如 was withdrawn, later scrapped 即 was withdrawn and was later scrapped。阅读时看到逗号后单独出现的过去分词，要判断它是承前省略了助动词的谓语，还是过去分词短语作状语或定语。本句 later scrapped 与 was withdrawn 共用主语和 was，是并列谓语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The old factory was abandoned in the 1980s and finally demolished last year.",
+            "zh": "那座老工厂在20世纪80年代被废弃，去年终于被拆除。"
+          }
+        ]
+      },
+      {
+        "title": "逗号 + and 连接两个独立分句",
+        "explain": "and、but、so、yet 等并列连词连接两个各有主谓的独立分句时，连词前通常加逗号，两个分句较长或主语不同时尤其如此。本句 Graf Zeppelin was withdrawn, later scrapped 是第一个分句，a glamorous epoch of aviation closed 是第二个分句，scrapped 后的逗号就是分句之间的逗号。它不是 A, B, and C 三项并列中的牛津逗号：was withdrawn、later scrapped 是谓语，and 后面却是带有自己主语的完整分句，性质不同，不能并列。阅读时看到 and 后出现新的主语，就要判断这是新分句的开始，再回头确定前一个分句的范围。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The storm passed overnight, and by morning the streets were full of people again.",
+            "zh": "暴风雨在夜里过去了，到了早上，街上又挤满了人。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Graf Zeppelin",
+        "explain": "格拉夫·齐柏林号（LZ 127 Graf Zeppelin），德国飞艇，以飞艇先驱齐柏林伯爵（Ferdinand von Zeppelin）命名，Graf 是德语“伯爵”。兴登堡号失事后，它很快退出飞行，后来被拆毁。"
+      },
+      {
+        "term": "sour",
+        "explain": "sour 常用作形容词“酸的”，本句是不及物动词，意为“变糟，恶化”，常与 relations、mood、atmosphere 等搭配，如 Relations between the two countries soured。本句视频译为“变糟”。"
+      },
+      {
+        "term": "withdraw",
+        "explain": "动词，撤回，撤出，退出，过去分词 withdrawn；withdraw sth from service 指让飞机、船只等退出服役。本句被动的 was withdrawn 视频译为“退役”。"
+      },
+      {
+        "term": "scrap",
+        "explain": "动词，把（车辆、船只、机器等）当废料处理，报废，拆毁；也指废弃（计划等），如 scrap a plan。本句视频译为“报废处理”。"
+      },
+      {
+        "term": "epoch 与 aviation",
+        "explain": "epoch 指以某种显著特征为标志的时代，如 mark a new epoch（开创新时代）；aviation 指航空、航空业，如 civil aviation（民用航空）。a glamorous epoch of aviation 指飞艇客运风光无限的那个时代，视频译为“航空业的一个充满魅力的时代”。"
+      }
+    ],
+    "translation_tip": "视频译文“随着公众的看法变糟，格拉夫·齐柏林号退役，随后被报废处理，而航空业的一个充满魅力的时代结束了。”的处理：①As 译为“随着”，从句放在句首。②被动的 was withdrawn 用主动形式的“退役”表达，later scrapped 则保留“被”字，译为“随后被报废处理”，later 译成“随后”。③and 译为“而”，引出意义升华的最后一层。④后置定语 of aviation 前移，译为“航空业的”，放在“一个充满魅力的时代”之前；closed 译为“结束了”。"
+  },
+  {
+    "n": 19,
+    "trunk": {
+      "subject": "The doomed airship's first journey",
+      "predicate": "had begun",
+      "object_or_complement": "",
+      "explain": "主干是 The doomed airship's first journey had begun，主谓结构，begin 在此为不及物动词。谓语 had begun 是过去完成时，主动语态，表示这件事发生在前文叙述的1937年事件之前。"
+    },
+    "components": [
+      {
+        "text": "The doomed airship's",
+        "zh": "这艘注定毁灭的飞艇",
+        "role": "定语（名词所有格），修饰 first journey；doomed 作 airship 的前置定语"
+      },
+      {
+        "text": "first journey",
+        "zh": "首次……的航程",
+        "role": "主语中心词（first 作前置定语）"
+      },
+      {
+        "text": "to North America",
+        "zh": "飞往北美",
+        "role": "后置定语（介词短语），修饰 journey"
+      },
+      {
+        "text": "had begun",
+        "zh": "始于",
+        "role": "谓语（过去完成时）"
+      },
+      {
+        "text": "on 6 May 1936,",
+        "zh": "1936年5月6日",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "exactly a year before the fire.",
+        "zh": "恰好是那场大火的一年前",
+        "role": "补充说明性的时间状语，与 on 6 May 1936 同位，进一步说明这一日期；exactly 修饰 a year before the fire"
+      }
+    ],
+    "structure": "①主干是 The doomed airship's first journey had begun：主语中心词 journey，前面有名词所有格 The doomed airship's 和序数词 first，后面有介词短语 to North America 作后置定语；谓语 had begun 是过去完成时（视频说明：had begun：过去完成时），begin 为不及物动词。\n②on 6 May 1936 是时间状语。逗号后的 exactly a year before the fire 与它同位，进一步说明这一天与火灾的关系：a year before the fire 是“时间段 + before + 事件”的结构，意为“火灾的一年前”，exactly 强调“恰好”。\n③全文到此回到开头：兴登堡号第一次飞往北美是1936年5月6日，失事是1937年5月6日，相隔恰好一年。叙述的时间点是1937年的大火，首航发生在更早的过去，所以用过去完成时倒叙。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "过去完成时用于倒叙",
+        "explain": "叙事以过去某一时间为主线时，如果回过头交代更早发生的事，就用过去完成时，表示“过去的过去”。本文主线是1937年5月的事故，结尾回溯1936年5月的首航，所以用 had begun。这种用法常出现在叙事文章的结尾或段落中间的插叙。考研阅读中，要根据过去完成时理清事件先后，不能按出现顺序判断时间顺序。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The museum closed its doors in 2020; it had first opened exactly a century earlier.",
+            "zh": "这座博物馆于2020年闭馆；它首次开馆恰好是一百年前。"
+          },
+          {
+            "en": "By the time the treaty was signed, the war had lasted nearly six years.",
+            "zh": "条约签订时，战争已经持续了将近六年。"
+          }
+        ]
+      },
+      {
+        "title": "时间段 + before / after + 事件",
+        "explain": "表示“某事之前（之后）多久”，用“时间段 + before / after + 事件或时间”，如 two days before the election（选举前两天）、a week after the accident（事故发生一周后）。exactly、just、shortly、long 等词可放在前面修饰，如 exactly a year before the fire、shortly after midnight。ago 只能以现在为参照，以过去某事为参照时要用 before。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The letter arrived exactly a week after his death.",
+            "zh": "那封信恰好在他去世一周后寄到。"
+          }
+        ]
+      },
+      {
+        "title": "名词所有格用于无生命名词",
+        "explain": "名词所有格 's 多用于人和动物，但船只、飞艇、国家、城市、机构以及时间名词也常用 's，如 the ship's crew、the airship's first journey、China's economy、today's news。本句 The doomed airship's first journey 即“这艘注定毁灭的飞艇的首次航程”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The ship's crew included sailors from twelve countries.",
+            "zh": "这艘船的船员中有来自十二个国家的水手。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "doomed",
+        "explain": "形容词，注定失败的，注定毁灭的，如 a doomed attempt（注定失败的尝试）、be doomed to fail（注定要失败）。名词 doom 意为“厄运，劫数”。本句视频译为“注定毁灭的”，是作者站在事后的角度称呼这艘飞艇。"
+      },
+      {
+        "term": "first journey to North America",
+        "explain": "首次飞往北美的航程。journey 指较长的旅程，to North America 表示目的地。North America 是北美洲，兴登堡号飞往的莱克赫斯特就在美国。"
+      },
+      {
+        "term": "exactly",
+        "explain": "副词，恰好，正好，常修饰时间和数量，如 exactly a year ago（整整一年前）、at exactly 7 pm（晚上7点整）。本句视频译为“恰好”。"
+      },
+      {
+        "term": "begin (began, begun)",
+        "explain": "不规则动词，过去式 began，过去分词 begun。本句 had begun 是过去完成时，视频译为“始于”。"
+      }
+    ],
+    "translation_tip": "视频译文“这艘注定毁灭的飞艇首次飞往北美的航程，始于1936年5月6日，恰好是那场大火的一年前。”的处理：①所有格和前置定语一起译出，The 译为“这艘”，doomed 译为“注定毁灭的”；后置定语 to North America 前移，与 first journey 合译为“首次飞往北美的航程”。②长主语后加逗号断开。③had begun on 译为“始于”，简洁凝练。④exactly a year before the fire 译成独立分句，增补“是”，the fire 译为“那场大火”，用“那”回指前文的火灾。"
+  }
+]

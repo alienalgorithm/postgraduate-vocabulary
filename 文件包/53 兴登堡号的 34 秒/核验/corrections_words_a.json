@@ -1,0 +1,58 @@
+[
+  {
+    "key": "11",
+    "field": "etymology",
+    "before": "由希腊语 hydro-（水）和 -gène（产生）构成",
+    "after": "由希腊语 hydro-（水）和法语后缀 -gène（产生，源于希腊语 -genēs）构成",
+    "reason": "-gène 是法语后缀（源于希腊语），原文写成希腊语成分不准确。"
+  },
+  {
+    "key": "14",
+    "field": "senses[1]",
+    "before": "{\"pos\": \"phr. v.\", \"zh\": \"（比喻）在幕后支持，坐镇\"}",
+    "after": "{\"pos\": \"phr. v.\", \"zh\": \"坐在（办公桌、方向盘等）后面工作或驾驶（如 sit behind a desk、sit behind the wheel）\"}",
+    "reason": "“在幕后支持，坐镇”不是 sit behind 在权威词典中的义项，属编造；改为有实际用例的引申用法。"
+  },
+  {
+    "key": "15",
+    "field": "example.zh",
+    "before": "而是改装了USB接口",
+    "after": "而是改为配备USB接口",
+    "reason": "“改装”指事后改造，与 offering USB ports instead（出厂即配备）不符。"
+  },
+  {
+    "key": "16",
+    "field": "context_usage",
+    "before": "此后文中交替使用 it、the ship、the doomed airship 等说法指代它",
+    "after": "文中还交替使用 it、the ship、the doomed airship 等说法指代它",
+    "reason": "the ship 在第3句已出现，并非“此后”才使用。"
+  },
+  {
+    "key": "18",
+    "field": "context_usage",
+    "before": "复数 thunderstorms 表示当地雷雨天气频繁。",
+    "after": "复数 thunderstorms 是描述雷暴天气的常见写法，指当时当地出现的雷暴。",
+    "reason": "复数不表示“频繁”，原说法不准确。"
+  },
+  {
+    "key": "18",
+    "field": "context_usage",
+    "before": "雷暴使飞艇无法立即降落，只能盘旋等待，也为第14句静电起火的解释提供了天气背景。",
+    "after": "雷暴使飞艇无法立即降落，只能盘旋等待。原文没有把雷暴与起火直接联系起来，阅读时不要自行推断因果。",
+    "reason": "原文未说明雷暴与静电起火的关系，不能写成文中事实。"
+  },
+  {
+    "key": "31",
+    "field": "etymology",
+    "before": "英语中最初指“未成年状态”，后来才发展出“少数，少数派”之义。",
+    "after": "英语中较早指“较小的状态”和“未成年状态”，18世纪才发展出“少数，较少的部分”之义。",
+    "reason": "据 Etymonline，minority 最早（1530年代）指“较小的状态”，“未成年”稍后出现，原说“最初指未成年状态”不准确。"
+  },
+  {
+    "key": "32",
+    "field": "related[2]",
+    "before": "{\"en\": \"cabinet\", \"pos\": \"n.\", \"zh\": \"橱柜；内阁（与 cabin 同源）\"}",
+    "after": "{\"en\": \"cabin baggage\", \"pos\": \"n.\", \"zh\": \"（英式）随身行李\"}",
+    "reason": "cabinet 与 cabin 的词源联系在 Etymonline 中只是推测，不能写成确定的同源；换成确由 cabin 构成的 cabin baggage。"
+  }
+]
