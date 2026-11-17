@@ -1,0 +1,37 @@
+[
+ {
+  "key": 31,
+  "field": "senses[1].zh",
+  "before": "狂笑或狂哭不止",
+  "after": "（个人）情绪失控，大哭大笑不止",
+  "reason": "Oxford 释义是因激动、恐惧等情绪失控而哭笑不止，单写“狂笑或狂哭不止”是 hysterics 的意思，补出情绪失控这一核心"
+ },
+ {
+  "key": 43,
+  "field": "etymology",
+  "before": "这首诗篇幅短小，常单独抄写流传，",
+  "after": "这首诗篇幅短小、广为流传，",
+  "reason": "“常单独抄写流传”无法从权威词源证实，改为词源词典记载的“短小、流行”"
+ },
+ {
+  "key": 48,
+  "field": "etymology",
+  "before": "18世纪初出现。bankrupt 在16世纪从意大利语 banca rotta 借入",
+  "after": "约1700年出现。bankrupt 在16世纪经法语 banqueroute 借自意大利语 banca rotta",
+  "reason": "Etymonline 记载 bankrupt 经中古法语 banqueroute 进入英语，bankruptcy 首见于1700年，补全借入途径并改准年代"
+ },
+ {
+  "key": 49,
+  "field": "etymology",
+  "before": "由动词 measure（测量）加后缀 -able（能……的）构成，14世纪已出现。",
+  "after": "14世纪经古法语 mesurable 进入英语，可拆分为 measure（测量）加后缀 -able（能……的）。",
+  "reason": "measurable 是从古法语 mesurable 借入的，不是在英语中由 measure 加 -able 新造的，改正来源说法"
+ },
+ {
+  "key": 53,
+  "field": "etymology",
+  "before": "本义是“打碎，碎片”，后来在数学中指“分数”，又引申为“一小部分”。",
+  "after": "拉丁语 fractio 意为“打碎”；fraction 进入英语后最早用于数学，指“分数”，后来又引申为“一小部分”。",
+  "reason": "fractio 意为“打碎”而非“碎片”；Etymonline 记载 fraction 在英语中最早即为数学义，原叙述顺序不准确"
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "key": 1,
+  "field": "knowledge[trade sth / trade in sth].explain",
+  "before": "；句末的 trading in the wind 用的正是这个结构。",
+  "after": "。句末的 trading in the wind 是 windhandel 的英语释义，视频译为“风中交易”。",
+  "reason": "原说法把 trading in the wind 归为 trade in sth（经营……），与视频审定译文“风中交易”及本句 windhandel 知识点“像是在风里做买卖”相矛盾，改为与视频一致的说明"
+ },
+ {
+  "key": 4,
+  "field": "knowledge[guilder].explain",
+  "before": "2002年被欧元取代",
+  "after": "2002年欧元现钞流通后退出使用",
+  "reason": "欧元1999年已作为记账货币启用，2002年是现钞替换，原说法不够准确"
+ },
+ {
+  "key": 13,
+  "field": "grammar[a few hundred 与 hundreds of].explain",
+  "before": "用单数形式，不加 s，也不接 of，如 a few hundred traders、three thousand people；",
+  "after": "用单数形式，不加 s，一般也不接 of，如 a few hundred traders、three thousand people（后面是 the、these 或代词等特指成分时可以接 of，如 three hundred of them）；",
+  "reason": "“也不接 of”说得过死，特指时可说 three hundred of them、several thousand of the residents，补出例外以免误导"
+ }
+]
