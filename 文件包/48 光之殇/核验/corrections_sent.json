@@ -1,0 +1,110 @@
+[
+ {
+  "key": "n=1",
+  "field": "knowledge.2.explain",
+  "before": "紫外线在可见光中紫光的外侧，人眼看不到。",
+  "after": "ultraviolet 由 ultra-（超出）加 violet（紫色）构成，紫外线位于可见光谱紫光一端的外侧，波长比紫光短，人眼看不到。",
+  "reason": "原句说紫外线“在可见光中”，与事实矛盾（紫外线不属于可见光）；改为位于可见光谱紫光外侧，并补出构词"
+ },
+ {
+  "key": "n=2",
+  "field": "grammar.0.examples.1",
+  "before": {
+   "en": "The team published a report that challenged the official figures.",
+   "zh": "该团队发表了一份对官方数据提出质疑的报告。"
+  },
+  "after": {
+   "en": "Drones captured such scenes for a project that tracked elephant herds across Kenya.",
+   "zh": "无人机为一个追踪肯尼亚境内象群的项目拍下了这类画面。"
+  },
+  "reason": "原例句只有普通定语从句，没有 such，不能示范“such 与 that 同现时如何区分”；换成 such + 名词 + for + 名词 + that 定语从句的同构例句"
+ },
+ {
+  "key": "n=2",
+  "field": "grammar.1.examples.1",
+  "before": {
+   "en": "His refusal to answer questions surprised the reporters.",
+   "zh": "他拒绝回答提问，令记者们感到意外。"
+  },
+  "after": {
+   "en": "The sudden collapse of the bank shocked investors.",
+   "zh": "银行突然倒闭，令投资者震惊。"
+  },
+  "reason": "原例句 His refusal to answer… 用物主代词表逻辑主语，不符合本语法点“名词 + of + 逻辑主语”；换成 of 引出逻辑主语、形容词对应副词的例句"
+ },
+ {
+  "key": "n=7",
+  "field": "grammar.0.examples.0",
+  "before": {
+   "en": "She flirted with the idea of moving abroad but eventually stayed at home.",
+   "zh": "她一度动过出国的念头，但最终还是留在了国内。"
+  },
+  "after": {
+   "en": "She flirted with the idea of moving abroad but eventually decided to stay.",
+   "zh": "她一度动过出国的念头，但最终还是决定留下。"
+  },
+  "reason": "stayed at home 易被理解为“待在家里”，与译文“留在了国内”不对应；改为 decided to stay"
+ },
+ {
+  "key": "n=9",
+  "field": "components.6.role",
+  "before": "介词短语，表示对比，ten 后省略 flash patterns",
+  "after": "对比状语（复合介词 instead of 引导的介词短语），ten 后省略 flash patterns",
+  "reason": "成分名称不具体，补明是对比状语及复合介词"
+ },
+ {
+  "key": "n=11",
+  "field": "grammar.1.explain",
+  "before": "如本句 The harm 概括第2至10句所述灯光对昆虫的种种不利影响",
+  "after": "如本句 The harm 概括第5至10句所述灯光对昆虫的种种不利影响（打旋、翻转、求偶受扰）",
+  "reason": "第3、4句讲民间说法和昆虫本能，并非危害；范围改为第5至10句，并点明具体内容"
+ },
+ {
+  "key": "n=12",
+  "field": "grammar.1.examples.1",
+  "before": {
+   "en": "Sales rose in every region, with Asia stronger than Europe.",
+   "zh": "各地区销售额均有增长，其中亚洲的表现强于欧洲。"
+  },
+  "after": {
+   "en": "Sales rose in every region, with growth in Asia stronger than in Europe.",
+   "zh": "各地区销售额均有增长，其中亚洲的增幅大于欧洲。"
+  },
+  "reason": "with Asia stronger than Europe 搭配生硬，改为更地道的 with growth in Asia stronger than in Europe，仍示范 with + 名词 + 形容词比较级"
+ },
+ {
+  "key": "n=13",
+  "field": "structure",
+  "before": "而一个简单句只有一个谓语，rigged up… 只能是定语，cut 才是谓语。",
+  "after": "rigged 和 cut 之间没有 and 等并列连词，一个简单句不能有两个互不相连的谓语动词，所以 rigged up… 只能是定语，cut 才是谓语。",
+  "reason": "“一个简单句只有一个谓语”说法过于绝对（第1句就有两个并列谓语），改为“没有并列连词时不能有两个谓语动词”"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar.0.explain",
+  "before": "方法是找全句的谓语：一个简单句只有一个谓语动词，如果后面还有别的谓语，前面的 -ed 形式就是定语",
+  "after": "方法是找全句的谓语：一个简单句中，没有并列连词连接时只能有一个谓语动词，如果后面还有别的谓语，前面的 -ed 形式就是定语",
+  "reason": "同上，规则表述过于绝对，补出“没有并列连词连接时”的前提"
+ },
+ {
+  "key": "n=14",
+  "field": "knowledge.0.explain",
+  "before": "也可以不带宾语，如 The apple trees have set well this year。",
+  "after": "也可以不带宾语，以果实作主语，如 The tomatoes failed to set in the heat（天太热，番茄没能坐果）。",
+  "reason": "原例句无法在权威词典中核实且搭配存疑，换成地道的园艺用法例句并配中文"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar.1.explain",
+  "before": "它可以用 which 或 who 引导，不能用 that。",
+  "after": "常用 which、who、whose 等引导，不能用 that。",
+  "reason": "非限制性定语从句的引导词不只 which 和 who，原说法不完整"
+ },
+ {
+  "key": "n=16",
+  "field": "knowledge.2.explain",
+  "before": "brighten up 还可以表示（使）变得愉快，如 Her face brightened when she saw us。",
+  "after": "brighten (up) 还可以表示（使）变得愉快、（脸色）开朗起来，如 Her face brightened when she saw us。",
+  "reason": "例句中没有 up，与“brighten up”不对应"
+ }
+]

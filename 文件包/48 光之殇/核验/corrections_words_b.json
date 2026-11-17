@@ -1,0 +1,122 @@
+[
+ {
+  "key": "id=35",
+  "field": "etymology",
+  "before": "最初指在法庭上提起诉讼的人，16世纪后期才有“求婚者”之义。",
+  "after": "最初指须出席领主法庭的人，15世纪起指起诉人、请愿者，16世纪后期才有“求婚者”之义。",
+  "reason": "据 Etymonline，suitor 最早指须出席法庭者，“起诉人”义15世纪才出现，原说法不准"
+ },
+ {
+  "key": "id=45",
+  "field": "related",
+  "before": {
+   "en": "wayside",
+   "pos": "n.",
+   "zh": "路边"
+  },
+  "after": {
+   "en": "roadblock",
+   "pos": "n.",
+   "zh": "路障"
+  },
+  "reason": "wayside 与 roadside 不同根，换成含 road 的同根复合词"
+ },
+ {
+  "key": "id=49",
+  "field": "related",
+  "before": [
+   {
+    "en": "larva",
+    "pos": "n.",
+    "zh": "幼虫"
+   },
+   {
+    "en": "pupa",
+    "pos": "n.",
+    "zh": "蛹"
+   },
+   {
+    "en": "metamorphosis",
+    "pos": "n.",
+    "zh": "变态发育；彻底转变"
+   }
+  ],
+  "after": [
+   {
+    "en": "caterpillar track",
+    "pos": "n.",
+    "zh": "（坦克、推土机等的）履带"
+   }
+  ],
+  "reason": "larva、pupa、metamorphosis 都不是 caterpillar 的同根词或派生词（这些词已在用法和辨析中讲到），换成同根复合词"
+ },
+ {
+  "key": "id=57",
+  "field": "ipa_uk",
+  "before": "/set fruːt/",
+  "after": "/set ˈfruːt/",
+  "reason": "短语音标缺少重音符号"
+ },
+ {
+  "key": "id=57",
+  "field": "ipa_us",
+  "before": "/set fruːt/",
+  "after": "/set ˈfruːt/",
+  "reason": "短语音标缺少重音符号"
+ },
+ {
+  "key": "id=58",
+  "field": "related",
+  "before": {
+   "en": "night-time",
+   "pos": "n./adj.",
+   "zh": "夜间（的）"
+  },
+  "after": {
+   "en": "day",
+   "pos": "n.",
+   "zh": "白天；一天"
+  },
+  "reason": "night-time 是反义词而非同根词，换成同根词 day"
+ },
+ {
+  "key": "id=59",
+  "field": "related",
+  "before": {
+   "en": "stand-in",
+   "pos": "n.",
+   "zh": "替身，临时代替者"
+  },
+  "after": {
+   "en": "studious",
+   "pos": "adj.",
+   "zh": "好学的，勤奋的"
+  },
+  "reason": "stand-in 与 understudy 不同根（辨析中已有），换成与 study 同根的 studious"
+ },
+ {
+  "key": "id=62",
+  "field": "etymology",
+  "before": "来自英法语 veil，",
+  "after": "来自英法语 veile，",
+  "reason": "英法语形式拼写为 veile（Etymonline），原文误作 veil"
+ },
+ {
+  "key": "id=66",
+  "field": "usage_detail",
+  "before": "单数可数名词，常与 at 连用",
+  "after": "表示“速度”时用单数形式，常与 at 连用",
+  "reason": "“单数可数名词”提法不准，Oxford 中表示速度的 pace 为单数用法"
+ },
+ {
+  "key": "id=67",
+  "field": "related",
+  "before": {
+   "en": "wink",
+   "pos": "v.",
+   "zh": "眨眼；闪烁（本文第8句）"
+  },
+  "after": null,
+  "reason": "wink（古英语 wincian）与 twinkle（古英语 twinkan）并非同根，删去"
+ }
+]

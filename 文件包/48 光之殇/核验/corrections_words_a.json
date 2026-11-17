@@ -1,0 +1,213 @@
+[
+ {
+  "key": "id=3",
+  "field": "etymology",
+  "before": "violet 来自古法语 violete，是拉丁语 viola（紫罗兰）的指小形式。",
+  "after": "violet 来自古法语 violete，是古法语 viole 的指小形式，viole 源自拉丁语 viola（紫罗兰）。",
+  "reason": "violete 是古法语 viole 的指小形式，不是拉丁语 viola 的指小形式（Etymonline）"
+ },
+ {
+  "key": "id=4",
+  "field": "etymology",
+  "before": "upside down 来自中古英语 up so down，大意是“上边像下边那样”，15世纪起逐渐变成 upside down。",
+  "after": "upside down 来自中古英语 up so down，大意是“上边像下边那样”，后来逐渐演变为 upside down。",
+  "reason": "“15世纪起”的年代无法确证（Etymonline 记 upside down 形式约始于1500年前后），删去具体年代"
+ },
+ {
+  "key": "id=8",
+  "field": "usage_detail",
+  "before": "作形容词时只作前置定语；",
+  "after": "作形容词时通常作前置定语；",
+  "reason": "“只作前置定语”过于绝对，按词典改为“通常”"
+ },
+ {
+  "key": "id=9",
+  "field": "form_note",
+  "before": "文中为原形；acrobatics 以 -s 结尾，但这里作集合意义的名词，前有 such 修饰。",
+  "after": "文中为原形；acrobatics 以 -s 结尾，这里指一个个杂技动作，作复数名词，前有 such 修饰。",
+  "reason": "原说“作集合意义的名词”不准确；Oxford 中 acrobatics 指杂技动作时为复数名词"
+ },
+ {
+  "key": "id=9",
+  "field": "etymology",
+  "before": "由 acrobatic 加名词后缀 -s 构成。",
+  "after": "由形容词 acrobatic 加 -s 构成，与 physics、politics 一样属于 -ics 类名词。",
+  "reason": "“加名词后缀 -s”说法不规范，按 Etymonline 改为 -ics 类名词"
+ },
+ {
+  "key": "id=9",
+  "field": "collocations",
+  "before": {
+   "en": "political acrobatics",
+   "zh": "政治上的投机取巧"
+  },
+  "after": {
+   "en": "a display of acrobatics",
+   "zh": "一场杂技表演"
+  },
+  "reason": "political acrobatics 译作“政治上的投机取巧”释义不准，换成常见搭配"
+ },
+ {
+  "key": "id=11",
+  "field": "form_note",
+  "before": "age-old 只作前置定语，没有比较级。",
+  "after": "age-old 通常只作前置定语，没有比较级。",
+  "reason": "Oxford 标为 usually before noun，“只作”过于绝对"
+ },
+ {
+  "key": "id=11",
+  "field": "etymology",
+  "before": "字面义“老到要用年代来计算的”，即历时久远的。",
+  "after": "合起来意为历时极久的、古老的。",
+  "reason": "“老到要用年代来计算的”是无法证实的臆测性字面解释，改为客观说明"
+ },
+ {
+  "key": "id=11",
+  "field": "usage_detail",
+  "before": "只作前置定语，不作表语，不说 The problem is age-old。",
+  "after": "通常只作前置定语，一般不作表语。",
+  "reason": "“不说 The problem is age-old”过于绝对，按词典 usually before noun 改写"
+ },
+ {
+  "key": "id=12",
+  "field": "etymology",
+  "before": "由 help（帮助）加后缀 -less（没有……的）构成，古英语中已有 helpleas，原义是“得不到帮助的”，引申为无助的、无法自控的。",
+  "after": "由 help（帮助）加后缀 -less（没有……的）构成，中古英语时期已有此词，原义是“得不到帮助的，无依无靠的”，后来引申为无法自助的、无能为力的、身不由己的。",
+  "reason": "“古英语中已有 helpleas”无法确证，Etymonline 记 helpless 约始于1200年，改为中古英语"
+ },
+ {
+  "key": "id=12",
+  "field": "distinction",
+  "before": "helpless 与 useless：helpless 指人或动物自身无助、无力应对；useless 指东西没用、人无能，侧重缺乏用处或能力。helpful（有帮助的）是 helpless 的反义方向，形容提供帮助的人或物。",
+  "after": "helpless 与 powerless：helpless 侧重自身无助、需要别人帮助或无法自控，如 a helpless baby、helpless with laughter；powerless 侧重缺乏权力或力量去改变局面，常接 to do，如 The government seemed powerless to stop the crisis。",
+  "reason": "原辨析称 helpful 是 helpless 的“反义方向”不成立，且 useless 并非真正的近义词；改为 helpless 与 powerless 的辨析"
+ },
+ {
+  "key": "id=21",
+  "field": "related",
+  "before": [
+   {
+    "en": "eddies",
+    "pos": "n.",
+    "zh": "漩涡（复数）"
+   },
+   {
+    "en": "swirl",
+    "pos": "v./n.",
+    "zh": "打旋；漩涡（本文第2句）"
+   }
+  ],
+  "after": [
+   {
+    "en": "eddy current",
+    "pos": "n.",
+    "zh": "（物理）涡流，涡电流"
+   }
+  ],
+  "reason": "eddies 只是复数形式，swirl 与 eddy 不同根，都不属于同根词或派生词；换成真实存在的同根复合词"
+ },
+ {
+  "key": "id=28",
+  "field": "senses",
+  "before": [
+   {
+    "pos": "v.",
+    "zh": "调情，打情骂俏（本文）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（flirt with）对……有过短暂兴趣，一时想做"
+   },
+   {
+    "pos": "v.",
+    "zh": "（flirt with）轻视，冒（危险）"
+   },
+   {
+    "pos": "n.",
+    "zh": "爱调情的人"
+   }
+  ],
+  "after": [
+   {
+    "pos": "v.",
+    "zh": "调情，打情骂俏（本文）"
+   },
+   {
+    "pos": "v.",
+    "zh": "（flirt with）对……有过短暂兴趣，一时想做"
+   },
+   {
+    "pos": "v.",
+    "zh": "（flirt with）冒（危险），玩火"
+   },
+   {
+    "pos": "n.",
+    "zh": "爱调情的人"
+   }
+  ],
+  "reason": "flirt with danger 意为冒险、玩火，“轻视”不是词典义项，删去"
+ },
+ {
+  "key": "id=30",
+  "field": "etymology",
+  "before": "中古英语时期出现，可能来自中古荷兰语 blinken（闪光，闪烁）；“眨眼”之义在16世纪后逐渐通行。",
+  "after": "中古英语时期出现，可能与中古荷兰语 blinken（闪光，闪烁）有关。",
+  "reason": "“眨眼之义在16世纪后逐渐通行”的年代无法确证，删去"
+ },
+ {
+  "key": "id=31",
+  "field": "related",
+  "before": {
+   "en": "prelude",
+   "pos": "n.",
+   "zh": "序曲；前奏，序幕"
+  },
+  "after": {
+   "en": "overt",
+   "pos": "adj.",
+   "zh": "公开的，明显的"
+  },
+  "reason": "prelude 与 overture 不同根；overt 同出古法语 ovrir、拉丁语 aperire（打开），是真正的同根词"
+ },
+ {
+  "key": "id=32",
+  "field": "related",
+  "before": {
+   "en": "blink",
+   "pos": "v.",
+   "zh": "眨眼；闪烁（本文同句）"
+  },
+  "after": {
+   "en": "hoodwink",
+   "pos": "v.",
+   "zh": "欺骗，蒙蔽"
+  },
+  "reason": "blink 与 wink 不同根；hoodwink 由 hood 加 wink 构成，是同根词"
+ },
+ {
+  "key": "id=33",
+  "field": "related",
+  "before": {
+   "en": "suffocate",
+   "pos": "v.",
+   "zh": "（使）窒息"
+  },
+  "after": null,
+  "reason": "suffocate 与 smother 不同根，不属于同根词或派生词（辨析中已有），删去"
+ },
+ {
+  "key": "id=34",
+  "field": "related",
+  "before": {
+   "en": "tease",
+   "pos": "v.",
+   "zh": "取笑，逗弄"
+  },
+  "after": {
+   "en": "banteringly",
+   "pos": "adv.",
+   "zh": "打趣地，开玩笑地"
+  },
+  "reason": "tease 与 banter 不同根；换成 Merriam-Webster 收录的派生词 banteringly"
+ }
+]
