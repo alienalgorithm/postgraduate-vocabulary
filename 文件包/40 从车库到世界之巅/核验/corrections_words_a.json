@@ -1,0 +1,79 @@
+[
+  {
+    "key": "7",
+    "field": "usage_detail",
+    "before": "只作前置定语，不作表语，常修饰",
+    "after": "多作前置定语，也可作表语（如 The role is largely managerial），常修饰",
+    "reason": "managerial 可作表语，“不作表语”说法过绝对"
+  },
+  {
+    "key": "12",
+    "field": "related",
+    "before": "[{\"en\": \"wind\", \"pos\": \"v.\", \"zh\": \"缠绕；（道路等）蜿蜒\"}, {\"en\": \"unwind\", \"pos\": \"v.\", \"zh\": \"解开；放松\"}, {\"en\": \"fast-forward\", \"pos\": \"v./n.\", \"zh\": \"快进\"}]",
+    "after": "[{\"en\": \"wind\", \"pos\": \"v.\", \"zh\": \"缠绕；（道路等）蜿蜒\"}, {\"en\": \"unwind\", \"pos\": \"v.\", \"zh\": \"解开；放松\"}, {\"en\": \"winding\", \"pos\": \"adj.\", \"zh\": \"蜿蜒的，曲折的\"}]",
+    "reason": "fast-forward 与 rewind 不同根，不属于同根词或派生词，换成同根的 winding"
+  },
+  {
+    "key": "13",
+    "field": "usage_detail",
+    "before": "注意拼写：Francisco 中是 c 不是 s，与女子名 Francesca、男子名 Francis 都不同。",
+    "after": "注意拼写：Francisco 的结尾是 -cisco，不要误拼成 Fransisco 或 Francesco。",
+    "reason": "原说法“Francisco 中是 c 不是 s”与实际拼写矛盾（词中既有 c 也有 s）"
+  },
+  {
+    "key": "13",
+    "field": "related",
+    "before": "[{\"en\": \"San Franciscan\", \"pos\": \"n.\", \"zh\": \"旧金山人\"}, {\"en\": \"Silicon Valley\", \"pos\": \"n.\", \"zh\": \"硅谷\"}]",
+    "after": "[{\"en\": \"San Franciscan\", \"pos\": \"n.\", \"zh\": \"旧金山人\"}]",
+    "reason": "Silicon Valley 不是 San Francisco 的同根词或派生词，硅谷信息已在 usage_detail 中保留"
+  },
+  {
+    "key": "16",
+    "field": "senses",
+    "before": "[{\"pos\": \"v.\", \"zh\": \"创办，创建，建立（本文）\"}, {\"pos\": \"v.\", \"zh\": \"（be founded on/upon）以……为基础\"}, {\"pos\": \"v.\", \"zh\": \"铸造（金属）\"}]",
+    "after": "[{\"pos\": \"v.\", \"zh\": \"创办，创建，建立（本文）\"}, {\"pos\": \"v.\", \"zh\": \"（be founded on/upon）以……为基础\"}, {\"pos\": \"v.\", \"zh\": \"铸造（金属）（另一同形词，源自拉丁语 fundere“熔化，浇注”）\"}]",
+    "reason": "“铸造”义的 found 是另一同形词（源自拉丁语 fundere），与“创办”义的 found（fundare）来源不同，需注明"
+  },
+  {
+    "key": "20",
+    "field": "usage_detail",
+    "before": "指人的出身时多用复数，如 people of Chinese origin（华裔）、of working-class origins。",
+    "after": "指人的出身时单复数都常见，如 people of Chinese origin（华裔）、of working-class origins。",
+    "reason": "所举 people of Chinese origin 本身是单数，与“多用复数”自相矛盾"
+  },
+  {
+    "key": "23",
+    "field": "etymology",
+    "before": "名词 inflation 后来专指通货膨胀。",
+    "after": "名词 inflation 在经济领域特指通货膨胀。",
+    "reason": "inflation 仍有“充气”义（related 中也列出），“专指”不准确"
+  },
+  {
+    "key": "26",
+    "field": "example",
+    "before": "{\"en\": \"The electric model will debut at the Geneva Motor Show next spring.\", \"zh\": \"这款电动车型将于明年春天在日内瓦车展上首次亮相。\"}",
+    "after": "{\"en\": \"The carmaker's new electric model will debut at next year's motor show.\", \"zh\": \"这家汽车制造商的新款电动车型将在明年的车展上首次亮相。\"}",
+    "reason": "日内瓦车展已于2024年宣布停办，原例句“明年春天在日内瓦车展首次亮相”与事实不符，改为不涉及具体展会的例句"
+  },
+  {
+    "key": "29",
+    "field": "etymology",
+    "before": "名词 start-up 先指启动、开办，后专指新创办的公司",
+    "after": "名词 start-up 先指启动、开办，后又指新创办的公司",
+    "reason": "“启动，开办”义至今仍在使用（senses 中也列出），“专指”不准确"
+  },
+  {
+    "key": "30",
+    "field": "senses",
+    "before": "[{\"pos\": \"v.\", \"zh\": \"收购（公司），购得（本文）\"}, {\"pos\": \"v.\", \"zh\": \"获得，取得\"}, {\"pos\": \"v.\", \"zh\": \"习得（知识、技能、习惯）\"}, {\"pos\": \"v.\", \"zh\": \"染上（疾病），养成（名声）\"}]",
+    "after": "[{\"pos\": \"v.\", \"zh\": \"收购（公司），购得（本文）\"}, {\"pos\": \"v.\", \"zh\": \"获得，取得\"}, {\"pos\": \"v.\", \"zh\": \"习得（知识、技能、习惯）\"}, {\"pos\": \"v.\", \"zh\": \"染上（疾病）；（逐渐）获得（名声）\"}]",
+    "reason": "“养成（名声）”搭配不当，名声是“获得”而不是“养成”"
+  },
+  {
+    "key": "31",
+    "field": "collocations",
+    "before": "[{\"en\": \"computer graphics\", \"zh\": \"电脑图形学，计算机图形\"}, {\"en\": \"a graphics card\", \"zh\": \"显卡\"}, {\"en\": \"graphic design\", \"zh\": \"平面设计\"}, {\"en\": \"high-quality graphics\", \"zh\": \"高质量的图像\"}]",
+    "after": "[{\"en\": \"computer graphics\", \"zh\": \"电脑图形学，计算机图形\"}, {\"en\": \"a graphics card\", \"zh\": \"显卡\"}, {\"en\": \"graphics software\", \"zh\": \"图形软件\"}, {\"en\": \"high-quality graphics\", \"zh\": \"高质量的图像\"}]",
+    "reason": "graphic design 是 graphic 的搭配，不是 graphics 的搭配，换成 graphics software"
+  }
+]

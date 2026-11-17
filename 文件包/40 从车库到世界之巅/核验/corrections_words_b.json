@@ -1,0 +1,44 @@
+[
+  {
+    "key": "33",
+    "field": "example",
+    "before": "{\"en\": \"Pixar spent four years developing the story before animators began work on the film.\", \"zh\": \"皮克斯花了四年时间打磨故事，动画师才开始制作这部电影。\"}",
+    "after": "{\"en\": \"Pixar's films often appeal to adults as much as to children.\", \"zh\": \"皮克斯的电影往往既吸引孩子，也同样吸引成年人。\"}",
+    "reason": "原例句“皮克斯花了四年打磨故事”是对真实公司的具体陈述，无法核实，改为不含具体事实的例句"
+  },
+  {
+    "key": "41",
+    "field": "usage_detail",
+    "before": "hand-made（手工制作的）",
+    "after": "handmade（手工制作的）",
+    "reason": "Oxford/Cambridge 通行拼写为 handmade"
+  },
+  {
+    "key": "41",
+    "field": "usage_detail",
+    "before": "作表语时常拆开写，如 The film was animated by computer。",
+    "after": "作表语时也保留连字符，如 The film is entirely computer-animated；也可改用被动句表达，如 The film was animated by computer。",
+    "reason": "原说法“作表语时常拆开写”不成立，被动句并不是该形容词的表语用法"
+  },
+  {
+    "key": "48",
+    "field": "etymology",
+    "before": "由 inter（在……之间）构成。",
+    "after": "由 inter（在……之间）加副词后缀 -im 构成。",
+    "reason": "构词拆分不完整，漏掉副词后缀 -im"
+  },
+  {
+    "key": "58",
+    "field": "related",
+    "before": "[{\"en\": \"tumid\", \"pos\": \"adj.\", \"zh\": \"肿胀的；（文风）浮夸的\"}, {\"en\": \"oncology\", \"pos\": \"n.\", \"zh\": \"肿瘤学\"}]",
+    "after": "[{\"en\": \"tumid\", \"pos\": \"adj.\", \"zh\": \"肿胀的；（文风）浮夸的\"}]",
+    "reason": "oncology 来自希腊语 onkos，与 tumour 不同根，不属于同根词或派生词；肿瘤学信息已在 usage_detail 中保留"
+  },
+  {
+    "key": "64",
+    "field": "context_usage",
+    "before": "全文最后一个词回扣开头，突出命运的反转。",
+    "after": "全文最后一句以 ousted 回扣开头的被逐，突出命运的反转。",
+    "reason": "全文最后一个词是 him，不是 ousted，事实表述有误"
+  }
+]

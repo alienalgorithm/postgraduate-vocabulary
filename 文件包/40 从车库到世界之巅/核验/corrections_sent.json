@@ -1,0 +1,58 @@
+[
+  {
+    "key": "2",
+    "field": "trunk.explain",
+    "before": "原来的间接对象 sb 作主语",
+    "after": "原来的宾语 sb 作主语",
+    "reason": "strip sb of sth 中 sb 是直接宾语，不是间接宾语，术语错误"
+  },
+  {
+    "key": "3",
+    "field": "grammar.1.explain",
+    "before": "不能说 in that September",
+    "after": "一般不说 in that September",
+    "reason": "这一规则是惯用倾向，不是绝对禁止，改为“一般不说”更准确"
+  },
+  {
+    "key": "3",
+    "field": "translation_tip",
+    "before": "③代词 he 还原为“乔布斯”，避免与上句的“他”混淆，也使状态描写与人物直接挂钩。",
+    "after": "③代词 he 还原为“乔布斯”：前面有两个较长的定语“已被架空的、被疏远的”，加在代词“他”前读来别扭，还原为名词更自然，也使状态描写与人物直接挂钩。",
+    "reason": "上句的“他”也指乔布斯，谈不上“混淆”，原理由不成立，改为实际的处理原因"
+  },
+  {
+    "key": "6",
+    "field": "knowledge.2.explain",
+    "before": "electronics 是不可数名词，形式上带 -s，指电子学或电子技术，作谓语主语时动词用单数；",
+    "after": "electronics 形式上带 -s，指电子学或电子技术时是不可数名词，作主语时谓语动词用单数；指设备中的电子线路时作复数用；",
+    "reason": "原文“作谓语主语时动词用单数”表述不通，且漏掉复数用法"
+  },
+  {
+    "key": "8",
+    "field": "grammar.0.explain",
+    "before": "阅读时不要把 floated 理解成“漂浮”，也不要因为没有 be 就以为主语是动作的发出者。",
+    "after": "阅读时不要把 floated 理解成“漂浮”；不及物的 Apple floated 与及物被动的 Apple was floated 意思基本相同，都是“苹果公司上市”。",
+    "reason": "原句“不要因为没有 be 就以为主语是动作的发出者”含混易误导，改为说明主动不及物与被动两种说法的关系"
+  },
+  {
+    "key": "10",
+    "field": "grammar.0.explain",
+    "before": "还可修饰时间段，如 late in 1985 也表示“1985年末”，但更强调接近年底；",
+    "after": "还可修饰时间段，如 late in 1985 指“1985年年底前后”，比 later in 1985 更靠近年底；",
+    "reason": "原表述“也表示1985年末”容易让人误以为 later in 1985 也指年末"
+  },
+  {
+    "key": "13",
+    "field": "grammar.1.explain",
+    "before": "类似的有 hand-made、man-made、state-owned。作表语时这类词常不加连字符，如 The film is feature length。",
+    "after": "类似的有 computer-generated、man-made、state-owned。这类复合形容词作前置定语时必须加连字符；已收入词典的 man-made、state-owned 等作表语时也保留连字符，如 The bank is state-owned。",
+    "reason": "“作表语时常不加连字符”以偏概全，词典中 state-owned 等作表语仍带连字符；hand-made 在 Oxford/Cambridge 中通常写作 handmade，换成更典型的例子"
+  },
+  {
+    "key": "15",
+    "field": "structure",
+    "before": "两件事都说明苹果当时需要外援。",
+    "after": "两件事都与苹果当时的困境有关，前一分句的 distressed 已点明这一点。",
+    "reason": "乔布斯此前已随 NeXT 收购回到苹果，把他接掌大权说成“外援”不准确"
+  }
+]

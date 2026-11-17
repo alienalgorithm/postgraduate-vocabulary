@@ -1,0 +1,1960 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Apple's board",
+   "predicate": "backed",
+   "object_or_complement": "chief executive John Sculley",
+   "explain": "主干是 Apple's board backed John Sculley，主谓宾结构；chief executive 是放在人名前的头衔。谓语 backed 是 back 的过去式，一般过去时，主动语态，叙述过去发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "In May 1985,",
+    "zh": "1985年5月",
+    "role": "时间状语（介词短语，交代具体时间）"
+   },
+   {
+    "text": "after a bruising confrontation,",
+    "zh": "经过一场十分激烈的争执/交锋",
+    "role": "时间状语（介词短语，after 表示“在……之后”）"
+   },
+   {
+    "text": "Apple's board",
+    "zh": "苹果公司董事会",
+    "role": "主语（名词所有格 Apple's 作定语，说明是哪家公司的董事会）"
+   },
+   {
+    "text": "ultimately",
+    "zh": "最终",
+    "role": "时间状语（副词），修饰谓语 backed"
+   },
+   {
+    "text": "backed",
+    "zh": "支持",
+    "role": "谓语"
+   },
+   {
+    "text": "chief executive",
+    "zh": "首席执行官",
+    "role": "宾语 John Sculley 前的头衔（职务名称作前置修饰语，与人名构成同位关系）"
+   },
+   {
+    "text": "John Sculley.",
+    "zh": "约翰·斯卡利",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①主句是 Apple's board backed chief executive John Sculley：主语 Apple's board，谓语 backed，宾语是人名 John Sculley，前面的 chief executive 是他的头衔。back 在这里是动词，意为“支持”，不是“后退”。\n②句首有两个时间状语。In May 1985 交代具体时间；after a bruising confrontation 是 after 引导的介词短语，说明董事会表态之前发生了一场激烈的交锋。视频说明把它定为介词短语作时间状语。两个状语都放在主语前，先交代背景，再出主句。\n③ultimately 是副词，放在主语和谓语之间，修饰 backed，意为“最终”，暗示表态之前经过了一番争执和权衡，与 after a bruising confrontation 相呼应。\n④chief executive John Sculley 中，职务名称直接放在人名前作头衔，不加冠词。董事会支持的是时任首席执行官斯卡利，下一句随即交代结果：乔布斯被剥夺了管理职务。全篇从这场权力之争写起，再倒叙乔布斯的出身和苹果的创办。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "职务名称作人名前的头衔时不加冠词",
+    "explain": "职务名称直接放在人名前作头衔，相当于称号的一部分，不加冠词，如 chief executive John Sculley、President Lincoln、Professor Smith；如果职务名称和人名之间用逗号隔开，就成了普通的同位语，职务名词前通常要加冠词或所有格，如 the chief executive, John Sculley。本句是第一种用法，chief executive 紧贴人名，所以不加 the。新闻语体常用这种写法，在一个名词短语里同时交代身份和姓名。写作中注意：the President Lincoln 是错误写法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The deal was announced by Finance Minister Maria Lopez on Tuesday.",
+      "zh": "这项协议由财政部长玛丽亚·洛佩斯于周二宣布。"
+     }
+    ]
+   },
+   {
+    "title": "after 作介词与作连词",
+    "explain": "after 后接名词、代词或动名词时是介词，构成介词短语作时间状语，如 after a bruising confrontation、after leaving school；后接完整的主谓结构时是连词，引导时间状语从句，如 after the meeting had ended。本句 after 后面是名词短语 a bruising confrontation，没有谓语动词，所以是介词短语，与视频说明一致。考研长难句中，介词短语作状语时句子结构较紧凑，信息量却不小：这里一个名词短语就概括了一整场权力冲突。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After a long and bitter strike, the workers returned to the factory.",
+      "zh": "经过一场漫长而激烈的罢工，工人们回到了工厂。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "back",
+    "explain": "熟词僻义：back 作及物动词，意为“支持，支援”，相当于 support，常用于选举、提案、人选等语境，如 back a candidate（支持一位候选人）、back a proposal（支持一项提议）；名词 backing 意为“支持，资助”，backer 意为“支持者，赞助人”。本句视频译为“支持”。"
+   },
+   {
+    "term": "board",
+    "explain": "本句指公司的董事会，即 board of directors，负责任命和监督首席执行官等高层管理人员；董事会成员叫 board member 或 director，董事长是 chairman 或 chair of the board。"
+   },
+   {
+    "term": "chief executive",
+    "explain": "首席执行官，即 chief executive officer（CEO），是公司最高行政负责人，向董事会负责。视频说明：作 John Sculley 的头衔。"
+   },
+   {
+    "term": "John Sculley",
+    "explain": "约翰·斯卡利，原为百事可乐公司高管，1983年由乔布斯招揽到苹果出任首席执行官。1985年两人在公司经营上发生冲突，苹果董事会最终站在斯卡利一边。"
+   },
+   {
+    "term": "bruising confrontation",
+    "explain": "bruising 本义“造成瘀伤的”，比喻冲突、比赛、竞选等十分激烈、令人身心受创，常见搭配有 a bruising battle、a bruising defeat；confrontation 指双方面对面的冲突、对抗。视频分别译为“十分激烈的”“争执/交锋”。"
+   }
+  ],
+  "translation_tip": "视频译文“1985年5月，经过一场十分激烈的争执/交锋，苹果公司董事会最终支持首席执行官约翰·斯卡利。”的处理：①两个时间状语保留在句首，顺序与英文一致，after 译为“经过”，比“在……之后”更简洁，也更符合汉语叙事习惯。②不定冠词 a 译为量词“一场”，与“争执/交锋”搭配。③Apple's board 译为“苹果公司董事会”，增补“公司”使所指明确。④头衔 chief executive 和人名 John Sculley 按原顺序译为“首席执行官约翰·斯卡利”，汉语同样把头衔放在人名前。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Steve Jobs",
+   "predicate": "was stripped of",
+   "object_or_complement": "his managerial duties（介词 of 的宾语，对应主动句 strip sb of sth 中的 sth）",
+   "explain": "主干是 Steve Jobs was stripped of his managerial duties，被动语态，由主动结构 strip sb of sth（剥夺某人的某物）变来，原来的宾语 sb 作主语，of 后的 sth 保留在原位。谓语为一般过去时的被动语态。"
+  },
+  "components": [
+   {
+    "text": "Steve Jobs,",
+    "zh": "史蒂夫·乔布斯",
+    "role": "主语"
+   },
+   {
+    "text": "30,",
+    "zh": "时年30岁的",
+    "role": "插入语（数词，补充说明乔布斯当时的年龄）"
+   },
+   {
+    "text": "was stripped of",
+    "zh": "被剥夺了",
+    "role": "谓语（be stripped of 被动结构）"
+   },
+   {
+    "text": "his managerial duties",
+    "zh": "管理的职务",
+    "role": "介词 of 的宾语（被剥夺的东西）"
+   },
+   {
+    "text": "at the company",
+    "zh": "在……公司里",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "he had co-founded.",
+    "zh": "他参与创办的",
+    "role": "限制性定语从句（省略关系代词 that/which），修饰 the company"
+   }
+  ],
+  "structure": "①主句是 Steve Jobs was stripped of his managerial duties，被动语态。主动形式是 The board stripped Steve Jobs of his managerial duties，变被动后 Jobs 作主语，介词 of 和它的宾语 his managerial duties 留在谓语后面。施动者没有写出，从上句看是董事会的决定。\n②主语后的 30 用逗号隔开，是插入语，补充说明他当时的年龄。视频说明定为插入语。这是新闻语体交代年龄的常见写法，相当于 who was 30 at the time。\n③at the company 是介词短语作地点状语，说明他在哪里被剥夺职务。\n④he had co-founded 是省略了关系代词的限制性定语从句，修饰 the company，完整形式是 the company (that/which) he had co-founded。被省略的关系代词在从句中作 co-founded 的宾语，所以可以省略。从句用过去完成时，因为创办公司（1976年）发生在被剥夺职务（1985年）之前，是“过去的过去”。“被自己参与创办的公司剥夺职务”形成反差，为第21句 the company that ousted him 埋下伏笔。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "strip sb of sth 及其被动形式",
+    "explain": "strip sb of sth 意为“剥夺某人的某物”，常用于头衔、权力、财产、奖牌等。被动形式是 sb be stripped of sth，被剥夺的人作主语，of 短语留在动词后，本句 was stripped of his managerial duties 即此用法。同样是“动词 + 人 + of + 物”格式、表示去除或剥夺的动词还有 deprive、rob、rid、relieve、cure，如 deprive sb of sleep、rob sb of his wallet。易错点：表示剥夺称号、权力时，标准结构是 strip sb of sth，人作宾语；strip 接 from 时通常指剥去表层的东西，如 strip paint from a door（刮掉门上的油漆）；汉语“偷某人的钱”对应 rob sb of money 或 steal money from sb，rob 和 steal 不能互换。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The cyclist was stripped of his title after failing a drug test.",
+      "zh": "这名自行车运动员药检未通过，被剥夺了冠军头衔。"
+     },
+     {
+      "en": "Years of conflict have deprived the region of basic medical services.",
+      "zh": "多年的冲突使该地区失去了基本的医疗服务。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句与过去完成时",
+    "explain": "关系代词 that、which、whom 在限制性定语从句中作宾语时可以省略，本句 the company he had co-founded 中，co-founded 后面缺的宾语就是先行词 company。识别方法：名词后面直接跟着“主语 + 谓语”，而谓语后面缺宾语。从句用过去完成时 had co-founded，表示这个动作发生在主句动作 was stripped 之前。阅读时如果把 he 误当成新句子的主语，就会断错句，可以在先行词后补出 that 还原结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She returned to the village she had left as a teenager.",
+      "zh": "她回到了自己十几岁时离开的那个村庄。"
+     }
+    ]
+   },
+   {
+    "title": "用插入的数字交代年龄",
+    "explain": "新闻语体常把年龄直接放在人名后，用逗号隔开，如 Steve Jobs, 30, 意为“时年30岁的史蒂夫·乔布斯”，相当于非限制性定语从句 who was 30。这种写法简洁，报刊报道人物时几乎是固定格式。翻译时一般把年龄前置为定语，过去的事件加“时年”，与视频译文一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The winner, 17, is the youngest player ever to take the title.",
+      "zh": "这位17岁的获胜者是史上夺得该冠军的最年轻选手。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "managerial duties",
+    "explain": "managerial 意为“经理的，管理的”，由 manager 派生；duties 用复数，指一个职位要承担的各项职责，视频译为“管理的职务”。常见搭配还有 managerial skills（管理能力）、managerial experience（管理经验）。"
+   },
+   {
+    "term": "co-found",
+    "explain": "前缀 co- 表示“共同”，co-found 即“共同创办”，名词 co-founder（联合创始人）。本句视频译为“参与创办”，第14句的 its estranged co-founder 也指乔布斯。"
+   },
+   {
+    "term": "duty",
+    "explain": "duty 作可数名词、多用复数时指“职责，任务”，如 perform one's duties（履行职责）；作不可数名词时指“责任，义务”，如 a sense of duty；还可指“税”，如 customs duty（关税）。on duty 意为“值班”。"
+   }
+  ],
+  "translation_tip": "视频译文“时年30岁的史蒂夫·乔布斯在他参与创办的公司里被剥夺了管理的职务。”的处理：①插入语 30 前置为定语“时年30岁的”，“时年”说明这是当时的年龄。②地点状语 at the company 提到谓语前，译为“在……公司里”，符合汉语状语在动词前的语序；省略关系代词的定语从句 he had co-founded 前置为“他参与创办的”，嵌入“在……公司里”之间。③被动语态保留，译为“被剥夺了”，突出乔布斯是被动接受这一结果；his 不单独译出，避免与前面的“他”重复。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "he",
+   "predicate": "resigned",
+   "object_or_complement": "",
+   "explain": "主干是 he resigned，主谓结构，resign 在此为不及物动词，不带宾语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "That September,",
+    "zh": "同年9月",
+    "role": "时间状语（名词短语直接作状语）"
+   },
+   {
+    "text": "sidelined",
+    "zh": "已被架空的",
+    "role": "状语（过去分词，与 alienated 并列），说明主语辞职时的处境"
+   },
+   {
+    "text": "and alienated,",
+    "zh": "被疏远的",
+    "role": "状语（过去分词，由 and 与 sidelined 并列）"
+   },
+   {
+    "text": "he",
+    "zh": "乔布斯",
+    "role": "主语（指乔布斯）"
+   },
+   {
+    "text": "resigned.",
+    "zh": "辞职了",
+    "role": "谓语（不及物动词）"
+   }
+  ],
+  "structure": "①主句只有两个词：he resigned。主语 he 指上句的 Steve Jobs，resign 不及物，意为“辞职”。\n②That September 是名词短语直接作时间状语，that 指上文提到的1985年，即“那年9月”。带 that、this、last、next 等限定词的时间名词前不加介词。\n③sidelined and alienated 是两个并列的过去分词，用逗号与主句隔开，作状语，说明他辞职时的处境，视频说明定为分词短语作状语。分词的逻辑主语就是主句主语 he：他被排挤靠边、被疏远。用过去分词，是因为乔布斯是这两个动作的承受者。\n④句子很短，却交代了时间、处境和结果。前两句写董事会的决定，本句写乔布斯的反应，第一段到此收束，下一段 Rewind three decades 转入倒叙。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词作状语",
+    "explain": "过去分词（短语）可以放在句首或句中作状语，说明主语所处的状态、原因、时间等，逻辑主语必须与主句主语一致，而且二者是被动关系或表示完成的状态。本句 sidelined and alienated 的逻辑主语是 he，意为“（他）被排挤、被疏远”，说明辞职时的处境，带有原因意味。考研易错点是悬垂分词：分词的逻辑主语与主句主语不一致，如 Exhausted after the journey, the bed looked inviting 就是错句，应改为 Exhausted after the journey, she found the bed inviting。写作中用分词作状语前，先确认它和主句主语的关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Exhausted and discouraged, the volunteers called off the search at midnight.",
+      "zh": "志愿者们筋疲力尽、灰心丧气，于午夜停止了搜寻。"
+     },
+     {
+      "en": "Ignored by the media, the report had little influence on public debate.",
+      "zh": "这份报告受到媒体冷落，对公众讨论几乎没有产生影响。"
+     }
+    ]
+   },
+   {
+    "title": "带限定词的时间名词直接作状语",
+    "explain": "时间名词前有 that、this、last、next、every、each 等限定词时，不加介词，直接作时间状语，如 that September、last year、every morning；一般不说 in that September。单独的月份、年份前要用 in，如 in September、in 1985。本句 That September 指上文1985年的9月，视频译为“同年9月”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The factory closed last spring, and most of its workers moved away that summer.",
+      "zh": "那家工厂去年春天关闭，大部分工人在那年夏天搬走了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sideline",
+    "explain": "动词，本义是让球员退到场边（sideline 名词指场地边线），比喻把某人排挤出核心、剥夺实权，常用被动 be sidelined。视频说明：指被排挤出核心圈子，剥夺实权、靠边站，译为“已被架空的”。"
+   },
+   {
+    "term": "alienate",
+    "explain": "动词，使疏远、使不和；过去分词 alienated 常作形容词，表示感到被疏远、与周围格格不入，如 feel alienated from society。视频说明：指感到被疏远、排斥，从而觉得格格不入、失去归属感。"
+   },
+   {
+    "term": "resign",
+    "explain": "辞职，常用结构有 resign from a post（辞去某职）、resign as chairman（辞去主席一职）；resign oneself to sth 意为“只好接受某事”。名词 resignation 既指辞职，也指辞职信，hand in one's resignation 即“递交辞呈”。"
+   }
+  ],
+  "translation_tip": "视频译文“同年9月，已被架空的、被疏远的乔布斯辞职了。”的处理：①That September 译为“同年9月”，用“同年”承接上文的1985年，比“那年9月”更紧凑。②作状语的两个过去分词转译为主语的前置定语“已被架空的、被疏远的”，中间用顿号；“已”表示被架空这一状态在辞职前就已形成。③代词 he 还原为“乔布斯”：前面有两个较长的定语“已被架空的、被疏远的”，加在代词“他”前读来别扭，还原为名词更自然，也使状态描写与人物直接挂钩。④resigned 译为“辞职了”，“了”表示动作已经完成。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "（省略的主语 you）",
+   "predicate": "Rewind",
+   "object_or_complement": "",
+   "explain": "祈使句，省略主语 you；three decades 是表示时间跨度的名词短语，作状语，说明往回倒多少年。谓语用动词原形。"
+  },
+  "components": [
+   {
+    "text": "Rewind",
+    "zh": "回溯",
+    "role": "谓语（祈使句，动词原形，省略主语 you）"
+   },
+   {
+    "text": "three decades.",
+    "zh": "三十年",
+    "role": "状语（名词短语，表示回溯的时间跨度）"
+   }
+  ],
+  "structure": "①这是一个祈使句，主语 you 省略，谓语是动词原形 rewind。作者用祈使句直接招呼读者，像在操作一台录像机，把时间往回倒。\n②three decades 是名词短语，直接作状语，表示往回倒的跨度，即三十年。从上一段的1985年往回倒三十年，正是乔布斯出生的1955年，视频说明也指出了这一点。\n③本句是篇章上的转折句：第一段写1985年乔布斯被逐，本句一转，下文从他的出生讲起，按时间顺序叙述苹果的创办、上市和 Macintosh 问世。这种先写高潮、再倒叙的手法在人物特写中很常见。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "祈使句用作叙事过渡",
+    "explain": "祈使句通常用来发出命令或请求，省略主语 you，谓语用动词原形。报刊文章有时用 Rewind、Fast-forward、Imagine、Consider、Take 等动词开头的祈使句来转换时间或引出例子，作用相当于“我们把时间倒回去看”。本句 Rewind three decades 就是用祈使句完成倒叙的过渡。读到这类句子，要明白作者在提示时间线的切换，而不是真的要求读者做什么。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fast-forward to 2020, and the small bakery had become a national chain.",
+      "zh": "时间快进到2020年，那家小面包店已经发展成全国连锁店。"
+     }
+    ]
+   },
+   {
+    "title": "表示时间跨度的名词短语作状语",
+    "explain": "表示时间长短、距离远近的名词短语可以不加介词直接作状语，如 wait two hours、walk three miles、go back ten years。本句 three decades 说明回溯的跨度。decade 指十年，three decades 即三十年；表示“几十年来”常用 for decades、over the past two decades。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "In its final scene, the film jumps forward twenty years.",
+      "zh": "在最后一幕，影片的时间向后跳了二十年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "rewind",
+    "explain": "本义是把磁带、录像倒回去，视频说明：本义倒带。本句是比喻用法，表示把叙述的时间往回倒，视频译为“回溯”。反义说法是 fast-forward（快进），报刊中也常用来跳到后来的时间。"
+   },
+   {
+    "term": "decade",
+    "explain": "十年，如 the past decade（过去十年）、the 1980s 可以说成 the decade of the 1980s。易错点：decade 是“十年”，不是“十几年”；century 是“世纪，一百年”。"
+   }
+  ],
+  "translation_tip": "视频译文“回溯三十年。”保留了原文的短句形式和祈使语气：rewind 不直译为“倒带”，而取其比喻义“回溯”，符合叙事语境；three decades 译为“三十年”，不说“三个十年”，符合汉语表达。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Jobs",
+   "predicate": "was adopted",
+   "object_or_complement": "",
+   "explain": "主干是 Jobs was adopted，被动语态，主语 Jobs 是被收养的一方。谓语为一般过去时的被动语态，句首的过去分词短语作状语。"
+  },
+  "components": [
+   {
+    "text": "Born",
+    "zh": "生于",
+    "role": "状语（过去分词短语的中心词，逻辑主语是 Jobs）"
+   },
+   {
+    "text": "in San Francisco",
+    "zh": "旧金山",
+    "role": "地点状语（介词短语），修饰 Born"
+   },
+   {
+    "text": "on 24 February 1955,",
+    "zh": "1955年2月24日",
+    "role": "时间状语（介词短语），修饰 Born"
+   },
+   {
+    "text": "Jobs",
+    "zh": "乔布斯",
+    "role": "主语"
+   },
+   {
+    "text": "was adopted",
+    "zh": "被收养",
+    "role": "谓语（一般过去时被动语态）"
+   },
+   {
+    "text": "as a newborn.",
+    "zh": "还是新生儿时",
+    "role": "状语（as 介词短语，说明被收养时的身份，即刚出生不久）"
+   }
+  ],
+  "structure": "①主句是 Jobs was adopted，被动语态，as a newborn 作状语，说明他被收养时还是新生儿。视频说明：as a newborn 意为“作为新生儿，指刚出生不久”。\n②句首 Born in San Francisco on 24 February 1955 是过去分词短语作状语，视频说明定为过去分词短语作状语。Born 的逻辑主语是主句主语 Jobs，相当于 Jobs was born in San Francisco on 24 February 1955。in San Francisco 交代地点，on 24 February 1955 交代日期，都修饰 born。\n③一句话交代两件事：出生（时间、地点）和被收养（时间）。英文把次要信息“出生”压缩成分词短语，主要信息“被收养”作谓语，主次分明。\n④日期写法 24 February 1955 是英式的“日、月、年”顺序，与全文其他日期一致。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "Born 引导的过去分词短语作状语",
+    "explain": "born 是 bear（生育）的过去分词，“出生”只能用被动形式 be born。句首的 Born in/on ... 是过去分词短语作状语，交代主语的出生信息，逻辑主语必须是主句主语，本句 Born 的逻辑主语是 Jobs。这是人物传记和讣告的常见开头，如 Born in a small village, she ...。易错点：Born in 1955, his family moved to ... 是悬垂结构，因为出生的是“他”，不是“他的家庭”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Born in a fishing village, the novelist often wrote about the sea.",
+      "zh": "这位小说家出生在一个渔村，经常描写大海。"
+     },
+     {
+      "en": "Born into a poor family, he left school at fourteen to support his parents.",
+      "zh": "他出身贫寒，十四岁就辍学养家。"
+     }
+    ]
+   },
+   {
+    "title": "as + 身份名词表示“在……时期”",
+    "explain": "介词 as 后接表示人生阶段或身份的名词，可以表示“在……的时候”，如 as a child（小时候）、as a student（上学时）、as a newborn（刚出生时）。本句 was adopted as a newborn 即“还是新生儿时就被收养”。这种 as 短语相当于时间状语从句 when he was a newborn，比从句简洁，写作中可以借用。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "As a child, she spent every summer on her grandparents' farm.",
+      "zh": "小时候，她每年夏天都在祖父母的农场度过。"
+     }
+    ]
+   },
+   {
+    "title": "日期的写法与介词",
+    "explain": "英式写法是“日、月、年”，如 24 February 1955；美式写法是“月、日、年”，如 February 24, 1955。具体某一天前用 on，如 on 24 February 1955；只有月份或年份时用 in，如 in February、in 1955；城市前用 in，如 in San Francisco。本文所有日期都用英式写法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed in Paris on 3 September 1783.",
+      "zh": "该条约于1783年9月3日在巴黎签署。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "San Francisco",
+    "explain": "旧金山，美国加利福尼亚州西部的港口城市，位于旧金山湾畔；其南面的圣克拉拉谷一带即硅谷（Silicon Valley），乔布斯在这一地区长大。"
+   },
+   {
+    "term": "adopt",
+    "explain": "本句意为“收养”，常用被动 be adopted；adopt 还有“采用，采纳”的意思，如 adopt a policy、adopt a new approach，考研阅读中后一个意思更常见。名词 adoption 指收养或采用，形容词 adopted 意为“被收养的”，如 an adopted son。"
+   },
+   {
+    "term": "newborn",
+    "explain": "名词，新生儿，相当于 a newborn baby；也可作形容词，意为“新生的，刚出生的”，如 a newborn calf（刚出生的小牛）。"
+   }
+  ],
+  "translation_tip": "视频译文“1955年2月24日，乔布斯生于旧金山，还是新生儿时就被收养。”的处理：①把分词短语中的日期 on 24 February 1955 提到句首，按汉语习惯先交代时间。②过去分词短语 Born in San Francisco 转译为一个独立分句“乔布斯生于旧金山”，主语 Jobs 提前，与后面的“被收养”共用。③as a newborn 译为“还是新生儿时”，并增补“就”，强调被收养的时间之早。④被动语态 was adopted 保留为“被收养”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "he",
+   "predicate": "founded",
+   "object_or_complement": "Apple",
+   "explain": "主干是 he founded Apple，主谓宾结构。谓语 founded 是 found（创办）的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 1 April 1976",
+    "zh": "1976年4月1日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语（指乔布斯）"
+   },
+   {
+    "text": "founded",
+    "zh": "创办了",
+    "role": "谓语"
+   },
+   {
+    "text": "Apple",
+    "zh": "苹果公司",
+    "role": "宾语"
+   },
+   {
+    "text": "with Steve Wozniak,",
+    "zh": "与史蒂夫·沃兹尼亚克",
+    "role": "伴随状语（介词短语，说明共同创办者）"
+   },
+   {
+    "text": "the electronics engineer",
+    "zh": "沃兹尼亚克是……电子工程师",
+    "role": "同位语，补充说明 Steve Wozniak"
+   },
+   {
+    "text": "behind its first prototypes.",
+    "zh": "苹果首批样机背后的",
+    "role": "后置定语（介词短语），修饰 engineer"
+   }
+  ],
+  "structure": "①主句是 he founded Apple，主谓宾结构，with Steve Wozniak 是介词短语，说明和谁一起创办。\n②句首 On 1 April 1976 是时间状语，具体日期前用 on。状语较短，后面没有加逗号，直接接主语。\n③the electronics engineer behind its first prototypes 是同位语，补充说明 Steve Wozniak 的身份，视频说明定为同位语。同位语的中心词是 engineer，electronics 是名词作前置定语，说明是哪一领域的工程师。\n④behind its first prototypes 是介词短语作后置定语，修饰 engineer，视频说明同此。behind 在这里不是空间上的“在后面”，而是“是……的推动者、负责者”，the engineer behind the prototypes 即造出样机的那位工程师。its 指 Apple。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是对前面名词的补充说明，二者指同一对象，常用逗号隔开，句末的同位语后接句号。本句 the electronics engineer behind its first prototypes 说明 Steve Wozniak 的身份。同位语常用来介绍人物身份、机构性质，如 Paris, the capital of France。考研长难句中，同位语可能很长，带有自己的定语，要找准中心词（本句是 engineer）和它所说明的对象（本句是 Steve Wozniak，不是 Apple）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The award went to Ada Chen, the biologist behind the new malaria vaccine.",
+      "zh": "该奖项授予了陈艾达，她是这款新型疟疾疫苗背后的生物学家。"
+     },
+     {
+      "en": "We met at Café Lumière, a small restaurant near the station.",
+      "zh": "我们在光影咖啡馆见了面，那是车站附近的一家小餐馆。"
+     }
+    ]
+   },
+   {
+    "title": "介词 behind 表示“幕后推动者”",
+    "explain": "behind 除表示空间位置“在……后面”外，还可表示“是……的原因、推动者、负责人”，常见于 the man behind the plan、the team behind the app、the reasons behind the decision。本句 the electronics engineer behind its first prototypes 即“造出苹果首批样机的电子工程师”，视频译为“苹果首批样机背后的电子工程师”。考研阅读中，the reason behind ... 意为“……背后的原因”，出现频率很高。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Investigators are still trying to identify the group behind the cyberattack.",
+      "zh": "调查人员仍在设法查明这次网络攻击的幕后组织。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "found（founded, founded）",
+    "explain": "found 作动词意为“创办，创建”，是规则动词，过去式和过去分词都是 founded；不要与 find 的过去式 found 混淆。常见搭配 found a company、be founded in 1976；名词 founder 意为“创始人”，foundation 意为“创建；基金会；基础”。"
+   },
+   {
+    "term": "Steve Wozniak",
+    "explain": "史蒂夫·沃兹尼亚克，苹果联合创始人，电子工程师，设计了苹果最早的电脑 Apple I 和 Apple II。"
+   },
+   {
+    "term": "electronics engineer",
+    "explain": "electronics 形式上带 -s，指电子学或电子技术时是不可数名词，作主语时谓语动词用单数；指设备中的电子线路时作复数用；作定语时保持 electronics 形式，如 an electronics company、consumer electronics（消费电子产品）。"
+   },
+   {
+    "term": "prototype",
+    "explain": "原型，样机，指正式生产前制作的第一台或最早的样品，如 build a prototype、test a prototype。视频译为“样机”。"
+   }
+  ],
+  "translation_tip": "视频译文“1976年4月1日，他与史蒂夫·沃兹尼亚克创办了苹果公司；沃兹尼亚克是苹果首批样机背后的电子工程师。”的处理：①伴随状语 with Steve Wozniak 提到谓语前，译为“与史蒂夫·沃兹尼亚克”，符合汉语状语在动词前的语序。②句末同位语较长，没有硬塞进主句，而是拆成独立分句，用分号隔开，补出主语和判断词“沃兹尼亚克是”。③后置定语 behind its first prototypes 前置为“苹果首批样机背后的”，its 还原为“苹果”；first prototypes 译为“首批样机”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Apple's garage origins（分句一）；Wozniak（分句二）",
+   "predicate": "are（分句一）；calls（分句二）",
+   "object_or_complement": "symbolic（分句一的表语）；their significance（分句二的宾语），inflated（宾语补足语）",
+   "explain": "分号连接两个独立分句。分句一是主系表结构，分句二是主谓宾加宾语补足语结构（call A B）。两个谓语都是一般现在时：前者陈述作者的判断，后者陈述沃兹尼亚克一贯的看法。"
+  },
+  "components": [
+   {
+    "text": "Apple's",
+    "zh": "苹果的",
+    "role": "定语（名词所有格），修饰 origins"
+   },
+   {
+    "text": "garage",
+    "zh": "车库",
+    "role": "定语（名词作前置定语），修饰 origins"
+   },
+   {
+    "text": "origins",
+    "zh": "起源",
+    "role": "主语（分句一）"
+   },
+   {
+    "text": "are",
+    "zh": "（系动词，译文以“具有”带出表语）",
+    "role": "系动词（分句一）"
+   },
+   {
+    "text": "largely",
+    "zh": "在很大程度上",
+    "role": "程度状语（副词），修饰 symbolic"
+   },
+   {
+    "text": "symbolic;",
+    "zh": "象征意义的",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "Wozniak",
+    "zh": "沃兹尼亚克",
+    "role": "主语（分句二）"
+   },
+   {
+    "text": "calls",
+    "zh": "称",
+    "role": "谓语（分句二）"
+   },
+   {
+    "text": "their significance",
+    "zh": "其意义",
+    "role": "宾语（their 指 Apple's garage origins）"
+   },
+   {
+    "text": "inflated.",
+    "zh": "被夸大了",
+    "role": "宾语补足语（过去分词，表示被动）"
+   }
+  ],
+  "structure": "①分句一 Apple's garage origins are largely symbolic 是主系表结构。主语中心词是 origins，前面有两层定语：Apple's 是名词所有格，garage 是名词作前置定语，garage origins 即“起家于车库”这段历史。largely 是程度副词，修饰表语 symbolic，意为“在很大程度上”。\n②分句二 Wozniak calls their significance inflated 是 call + 宾语 + 宾语补足语结构，视频说明：call A B，认为 A 是 B。宾语是 their significance，their 指 Apple's garage origins；宾语补足语是过去分词 inflated，significance 与 inflate 是被动关系，即意义“被夸大”。\n③两个分句用分号连接，后一句为前一句提供依据：作者说车库起源主要是象征性的，引用的就是亲历者沃兹尼亚克的说法。\n④谓语用一般现在时 are、calls：前者是作者现在的判断，后者表示沃兹尼亚克一贯持有、至今仍是这个看法，而不是某一次具体的言论。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "call + 宾语 + 宾语补足语",
+    "explain": "call 后接宾语，再接名词、形容词或过去分词作宾语补足语，意为“称……为……，认为……是……”，如 call the plan a failure、call the decision unfair。本句 calls their significance inflated 中，inflated 是过去分词作宾补，说明宾语 their significance 被夸大。同类动词有 consider、find、think、declare、deem，宾补前一般不加 as；regard、see、describe、view 则要用 as，如 regard sth as important。考研易错点：把 call ... inflated 误读成“打电话”，或误把宾补当作宾语的后置定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Critics called the new tax rules unfair to small businesses.",
+      "zh": "批评者称新的税收规定对小企业不公平。"
+     },
+     {
+      "en": "Many economists consider the official figures exaggerated.",
+      "zh": "许多经济学家认为官方数据被夸大了。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号可以连接两个意思紧密相关的独立分句，不用连词，作用介于逗号和句号之间。两个分句之间可能是并列、对照、因果或补充说明关系，要靠上下文判断。本句后一分句为前一分句提供证据。写作中两个完整分句之间只用逗号连接是常见错误（逗号粘连），可以改用分号，或加 and、but 等连词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked good on paper; in practice, it proved far too expensive.",
+      "zh": "这个计划纸面上看起来不错；实际上，它的成本却高得多。"
+     }
+    ]
+   },
+   {
+    "title": "largely 的意思",
+    "explain": "largely 意为“在很大程度上，主要地”，相当于 mainly、to a great extent，修饰形容词、动词或整个判断，如 largely responsible、largely ignored，不表示“大量地”或“大规模地”。本句 largely symbolic 即“在很大程度上只是具有象征意义的”。考研阅读中 largely 是判断作者态度强弱的信号词：它留有余地，不等于 entirely。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The early warnings were largely ignored by the authorities.",
+      "zh": "早期的警告在很大程度上被当局忽视了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "garage origins",
+    "explain": "通行的说法是苹果起家于乔布斯家的车库，车库由此成为硅谷“白手起家”的象征。本句作者认为这一起源“在很大程度上只是具有象征意义的”，并引用沃兹尼亚克的看法：车库的意义被夸大了。"
+   },
+   {
+    "term": "origin(s)",
+    "explain": "origin 意为“起源，起因；出身”，指一件事的起源时常用复数，如 the origins of the universe；指人的出身也常用复数，如 of humble origins（出身卑微）。本句用复数 origins，视频译为“起源”。"
+   },
+   {
+    "term": "symbolic",
+    "explain": "形容词，象征的，象征性的，常见搭配有 a symbolic gesture（象征性的姿态）、be symbolic of sth（象征某物）。名词 symbol，动词 symbolise（美式 symbolize）。"
+   },
+   {
+    "term": "inflated",
+    "explain": "inflate 本义是给轮胎、气球等充气，比喻夸大、抬高；inflated 作形容词时指数字、价格、评价等被夸大的、虚高的，如 inflated prices、an inflated sense of one's own importance。名词 inflation 意为“通货膨胀”。"
+   }
+  ],
+  "translation_tip": "视频译文“苹果的车库起源在很大程度上只是具有象征意义的；沃兹尼亚克称其意义被夸大了。”的处理：①Apple's garage origins 按原顺序译为“苹果的车库起源”。②系表结构 are largely symbolic 译为“在很大程度上只是具有象征意义的”，增补“只是”点出 largely symbolic 的贬抑意味，即车库的实际作用有限；形容词 symbolic 补出“意义”，译成“具有……意义的”。③保留分号，体现两个分句的紧密关系。④their 译为书面化的“其”；call ... inflated 译为“称……被夸大了”，过去分词作宾补的被动意义用“被”体现。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Apple（分句一）；the flagship Macintosh（分句二）",
+   "predicate": "floated（分句一）；debuted（分句二）",
+   "object_or_complement": "",
+   "explain": "分号连接两个独立分句，都是主谓结构：float（上市）和 debut（首次推出）在此都是不及物动词，后接时间状语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Apple",
+    "zh": "苹果公司",
+    "role": "主语（分句一）"
+   },
+   {
+    "text": "floated",
+    "zh": "上市",
+    "role": "谓语（不及物，意为公司上市）"
+   },
+   {
+    "text": "on 12 December 1980;",
+    "zh": "1980年12月12日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "the flagship",
+    "zh": "旗舰",
+    "role": "定语（名词 flagship 作前置定语，意为“旗舰的”）"
+   },
+   {
+    "text": "Macintosh",
+    "zh": "产品 Macintosh",
+    "role": "主语（分句二）"
+   },
+   {
+    "text": "debuted",
+    "zh": "首次推出",
+    "role": "谓语（不及物）"
+   },
+   {
+    "text": "on 24 January 1984.",
+    "zh": "于1984年1月24号",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①分句一 Apple floated on 12 December 1980：主语 Apple，谓语 floated，on 12 December 1980 作时间状语。float 本义“漂浮”，在金融语境中指公司股票首次公开发行，即上市，视频说明：float，使公司上市。这里是不及物用法，公司本身作主语。\n②分句二 the flagship Macintosh debuted on 24 January 1984：主语中心词是 Macintosh，flagship 是名词作前置定语，指公司最重要的产品；debut 原是名词“首次亮相”，这里用作不及物动词，视频说明：首次亮相，首次推出。\n③两个分句用分号连接，按时间顺序交代苹果早期的两个里程碑：1980年上市，1984年推出 Macintosh。句式整齐，都是“主语 + 谓语 + 日期”。\n④本句与第1句衔接：Macintosh 推出后的第二年，即1985年，就发生了董事会支持斯卡利、乔布斯被剥夺职务的事。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "float 和 debut 的不及物用法",
+    "explain": "有些动词既可及物也可不及物，不及物时主语是发生变化的一方，主动形式就带有“自身发生”的意思。float 作及物动词时意为“使（公司）上市”，可用被动，如 The company was floated in 1990；作不及物动词时公司本身作主语，如本句 Apple floated。debut 是由名词转化来的动词，多作不及物动词，意为“首次亮相，首次推出”，如 The film debuted at Cannes；也可作及物动词，意为“推出”，如 debut a new model。阅读时不要把 floated 理解成“漂浮”；不及物的 Apple floated 与及物被动的 Apple was floated 意思基本相同，都是“苹果公司上市”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The online retailer floated on the stock exchange last year.",
+      "zh": "这家网络零售商去年在证券交易所上市。"
+     }
+    ]
+   },
+   {
+    "title": "名词作前置定语",
+    "explain": "英语常用名词直接修饰名词，前一个名词说明后一个名词的类别、地位或用途。本句 the flagship Macintosh 中，flagship 修饰 Macintosh，表示“旗舰产品”；第7句的 garage origins 也是这种结构。flagship 作定语的常见搭配有 a flagship store（旗舰店）、a flagship programme（重点项目）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The brand will open its flagship store in Shanghai next month.",
+      "zh": "该品牌下个月将在上海开设旗舰店。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "float",
+    "explain": "熟词僻义：float 在金融语境中指公司股票首次公开发行（IPO），即“上市”，常见搭配 float a company on the stock market；名词 flotation 指“（公司）上市”。美式英语更常说 go public。"
+   },
+   {
+    "term": "flagship",
+    "explain": "本义是舰队中的旗舰，比喻一个机构最重要、最具代表性的产品、门店或项目。视频译为“旗舰”，在译文中扩展为“旗舰产品”。"
+   },
+   {
+    "term": "Macintosh",
+    "explain": "苹果公司1984年推出的个人电脑，简称 Mac，后来成为苹果电脑产品线的名称，第14句的 Mac OS X 就是 Mac 电脑的操作系统。"
+   },
+   {
+    "term": "debut",
+    "explain": "名词，首次亮相、初次登台，如 make one's debut；也可作动词。该词来自法语。视频译为“首次推出”。"
+   }
+  ],
+  "translation_tip": "视频译文“1980年12月12日，苹果公司上市；而旗舰产品 Macintosh首次推出于1984年1月24号。”的处理：①分句一的时间状语提到句首，译为“1980年12月12日，苹果公司上市”，符合汉语先交代时间的习惯。②分句二用连词“而”开头，承接前一分句，引出另一件大事；flagship 增补“产品”，译为“旗舰产品”，说明 Macintosh 是什么。③分句二保留“于 + 日期”放在动词后的结构，译为“首次推出于1984年1月24号”，与分句一的句式形成变化，避免两个分句都以日期开头。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Exile",
+   "predicate": "proved",
+   "object_or_complement": "productive（表语）",
+   "explain": "主系表结构。prove 在此是系动词，意为“结果是，事实证明是”，后接形容词 productive 作表语。谓语为一般过去时，主动语态，系动词 prove 没有被动语态。"
+  },
+  "components": [
+   {
+    "text": "Exile",
+    "zh": "这段放逐岁月",
+    "role": "主语（抽象名词，指乔布斯离开苹果的那段时期）"
+   },
+   {
+    "text": "proved",
+    "zh": "（系动词，意为“事实证明是”，不单独译出）",
+    "role": "系动词"
+   },
+   {
+    "text": "productive.",
+    "zh": "成果丰硕",
+    "role": "表语（形容词）"
+   }
+  ],
+  "structure": "①本句是主系表结构：主语 Exile，系动词 proved，表语 productive。视频说明：prove 加形容词，意为“结果是……，事实证明……”。\n②Exile 原指被流放、被逐出本国，这里是比喻用法，指乔布斯1985年被迫离开苹果之后在外的那段岁月。用零冠词，是把这段经历当作一个抽象概念来说。\n③本句是第三段的主题句，只有三个词，先下结论，后面几句再用事实证明：创办 NeXT、收购后来的皮克斯、皮克斯推出《玩具总动员》。\n④“被逐”与“成果丰硕”形成对比，体现作者的态度：离开苹果没有让乔布斯一蹶不振，反而成就颇丰。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "prove 作系动词",
+    "explain": "prove 作系动词时意为“结果是，证明是”，后接形容词、名词或 to be，如 prove useful、prove (to be) a mistake。它表示事后看来的结果，常带出人意料的意味。系动词 prove 没有被动语态，不能说 Exile was proved productive。比较：prove 作及物动词时意为“证明”，后接宾语或 that 从句，可以用被动，如 The theory was proved wrong。同类系动词还有 turn out，如 The rumour turned out (to be) false。考研阅读中 prove 加形容词常出现在转折或总结处，提示事情的最终结果。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The early warnings proved accurate: the river burst its banks two days later.",
+      "zh": "早先的预警事后证明是准确的：两天后河水决堤。"
+     },
+     {
+      "en": "Moving the factory abroad proved to be a costly mistake.",
+      "zh": "事实证明，把工厂迁往国外是一个代价高昂的错误。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词零冠词作主语",
+    "explain": "抽象名词泛指某种状态、经历或概念时，常不加冠词，如 Exile、Success、Experience。本句 Exile 不加冠词，概括乔布斯离开苹果的整段经历；如果要特指，可以说 his exile 或 the years of exile。翻译时可根据上下文增补“这段”等词，使所指具体。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Failure taught him more than success ever had.",
+      "zh": "失败教给他的东西比成功教给他的还要多。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "exile",
+    "explain": "名词，流放，放逐，也指流亡者；常见搭配有 go into exile（流亡）、live in exile（流亡在外）、a political exile（政治流亡者）。本句是比喻用法，指乔布斯被迫离开苹果的那段时期，视频译为“放逐”，在译文中扩展为“这段放逐岁月”。"
+   },
+   {
+    "term": "productive",
+    "explain": "形容词，多产的，富有成效的，如 a productive meeting（富有成效的会议）、productive land（肥沃的土地）。名词 productivity 意为“生产率，生产力”，是经济类文章的高频词。本句视频译为“成果丰硕”。"
+   }
+  ],
+  "translation_tip": "视频译文“这段放逐岁月成果丰硕。”的处理：①抽象名词 Exile 增补“这段……岁月”，译为“这段放逐岁月”，使它明确指乔布斯离开苹果的那段时间，也与上文衔接。②系动词 proved 不单独译出，“事实证明”的意思融入判断，直接说“成果丰硕”，译文和原文一样简短有力。③productive 不译成“多产的”，而译为四字短语“成果丰硕”，与下文列举的成就对应。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Jobs",
+   "predicate": "founded",
+   "object_or_complement": "NeXT",
+   "explain": "主干是 Jobs founded NeXT，主谓宾结构。谓语为一般过去时，主动语态。句末 a computer start-up 是 NeXT 的同位语。"
+  },
+  "components": [
+   {
+    "text": "Later in 1985",
+    "zh": "1985年晚些时候",
+    "role": "时间状语（副词 later + 介词短语 in 1985）"
+   },
+   {
+    "text": "Jobs",
+    "zh": "乔布斯",
+    "role": "主语"
+   },
+   {
+    "text": "founded",
+    "zh": "创办了",
+    "role": "谓语"
+   },
+   {
+    "text": "NeXT,",
+    "zh": "NeXT",
+    "role": "宾语"
+   },
+   {
+    "text": "a computer start-up.",
+    "zh": "一家电脑初创公司",
+    "role": "同位语，补充说明 NeXT"
+   }
+  ],
+  "structure": "①主句是 Jobs founded NeXT，主谓宾结构。\n②Later in 1985 是时间状语：later 是副词，意为“后来，较晚的时候”，in 1985 限定范围，合起来指1985年稍后的时候，即9月辞职之后。状语较短，后面没有用逗号。\n③a computer start-up 是同位语，补充说明 NeXT 的性质，视频说明同此。computer 是名词作前置定语，说明这家初创公司的业务领域。\n④本句是对上句 Exile proved productive 的第一个例证。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "later、late 与 lately",
+    "explain": "later 是副词，意为“后来，以后”，可单独用，也可与时间短语连用，如 later in 1985、later that year、three days later；late 作副词意为“晚，迟”，如 arrive late，还可修饰时间段，如 late in 1985 指“1985年年底前后”，比 later in 1985 更靠近年底；lately 意为“最近”，常与现在完成时连用，如 I haven't seen him lately。本句 Later in 1985 指在上文叙述的9月之后，同一年稍晚的时候。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister resigned in March, and an inquiry was opened later that year.",
+      "zh": "这位部长于3月辞职，同年晚些时候相关调查启动。"
+     }
+    ]
+   },
+   {
+    "title": "同位语中不定冠词表示类别",
+    "explain": "同位语用不定冠词 a/an 加名词时，表示把前面的专名归入某一类，起介绍作用，如 NeXT, a computer start-up（NeXT，一家电脑初创公司）。如果同位语说明的是读者已知、独一无二的对象，则用定冠词，如第6句 Steve Wozniak, the electronics engineer behind its first prototypes，特指造出苹果样机的那位工程师。翻译时不定冠词常译为“一家”“一位”等数量词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She now works for Verdant, a small energy firm in Oslo.",
+      "zh": "她现在在 Verdant 工作，那是奥斯陆的一家小型能源公司。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NeXT",
+    "explain": "乔布斯离开苹果后创办的电脑公司，名称中间的 e 小写，是该公司特有的写法。NeXT 的操作系统 NeXTSTEP 后来成为 Mac OS X 的基础，第14句的“苹果收购 NeXT，获得核心软件”即指此事。"
+   },
+   {
+    "term": "start-up",
+    "explain": "名词，初创公司，也写作 startup（美式多不加连字符），如 a tech start-up（科技初创公司）；作定语时指“开办阶段的”，如 start-up costs（开办费用）。与动词短语 start up（开办，启动）同源。"
+   }
+  ],
+  "translation_tip": "视频译文“1985年晚些时候，乔布斯创办了 NeXT，一家电脑初创公司。”的处理：①Later in 1985 调整语序，先说年份再说“晚些时候”，符合汉语时间由大到小的表达习惯。②同位语 a computer start-up 保留在句末，用逗号隔开，译为“一家电脑初创公司”，结构与原文一致；不定冠词 a 译为“一家”。③专名 NeXT 保留英文原名，不作音译。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "he",
+   "predicate": "acquired",
+   "object_or_complement": "Lucasfilm's computer-graphics outfit",
+   "explain": "主干是 he acquired Lucasfilm's computer-graphics outfit，主谓宾结构，句末是 which 引导的非限制性定语从句。主句谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 1986",
+    "zh": "1986年2月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语（指乔布斯）"
+   },
+   {
+    "text": "acquired",
+    "zh": "收购了",
+    "role": "谓语"
+   },
+   {
+    "text": "Lucasfilm's",
+    "zh": "卢卡斯影业的",
+    "role": "定语（名词所有格），修饰 outfit"
+   },
+   {
+    "text": "computer-graphics",
+    "zh": "电脑图形",
+    "role": "定语（复合名词作前置定语），修饰 outfit"
+   },
+   {
+    "text": "outfit,",
+    "zh": "团队",
+    "role": "宾语中心词"
+   },
+   {
+    "text": "which became Pixar.",
+    "zh": "这个团队后来成为皮克斯",
+    "role": "非限制性定语从句，修饰 outfit"
+   }
+  ],
+  "structure": "①主句是 he acquired Lucasfilm's computer-graphics outfit，主谓宾结构。宾语中心词是 outfit，前面有两层定语：Lucasfilm's 是名词所有格，说明归属；computer-graphics 是用连字符连接的复合名词，作前置定语，说明这个团队的业务。\n②which became Pixar 是 which 引导的非限制性定语从句，修饰 outfit，视频说明同此。which 在从句中作主语，谓语是 became，Pixar 作表语。逗号表明从句是补充说明：这个团队后来成了皮克斯。\n③outfit 在这里不是“全套服装”，视频说明：口语，团队，小机构。这个口语化的词暗示被收购时它还是一个规模不大的部门。\n④本句是 Exile proved productive 的第二个例证，并引出下文对皮克斯的介绍：起初是硬件制造商，后来推出《玩具总动员》。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "which 引导非限制性定语从句",
+    "explain": "非限制性定语从句用逗号与主句隔开，对先行词作补充说明，去掉后主句意思仍然完整；指物时用 which，指人时用 who/whom，不能用 that。本句 which became Pixar 中，which 指 outfit，在从句中作主语。考研阅读中要注意：句末逗号后的 which 有时指代前面整个句子的内容，如 He failed the exam, which surprised everyone，要根据从句谓语判断先行词；本句 became Pixar 的只能是 outfit。翻译时非限制性定语从句常拆成独立分句，并重复先行词或用“这”回指。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The council bought the old railway station, which later became a museum.",
+      "zh": "市议会买下了那座旧火车站，这座车站后来成了一家博物馆。"
+     },
+     {
+      "en": "The team lost its first five games, which led to the coach's dismissal.",
+      "zh": "该队输掉了前五场比赛，这导致主教练被解雇。"
+     }
+    ]
+   },
+   {
+    "title": "连字符复合词作前置定语",
+    "explain": "两个或几个词用连字符连成一个整体，放在名词前作定语，如 computer-graphics outfit、long-term plan、well-known writer。本句 computer-graphics 是复合名词作定语，说明 outfit 的业务；第13句的 feature-length、computer-animated 也是连字符复合词作定语。连字符的作用是表明这几个词共同修饰后面的名词，避免误读。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city is drawing up a ten-year transport plan.",
+      "zh": "该市正在制定一项十年交通规划。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "acquire",
+    "explain": "本句意为“收购（公司）”，名词 acquisition 意为“收购，购得之物”，如 mergers and acquisitions（并购）。acquire 还常指“获得，习得”，如 acquire a skill、language acquisition（语言习得），是考研阅读高频词。"
+   },
+   {
+    "term": "Lucasfilm",
+    "explain": "卢卡斯影业，美国电影制片公司，由导演乔治·卢卡斯（George Lucas）创办，以《星球大战》系列电影闻名。Lucasfilm's 是名词所有格。"
+   },
+   {
+    "term": "outfit",
+    "explain": "outfit 最常见的意思是“一套服装”；本句是口语用法，指团队、小机构、公司，如 a small consulting outfit。视频说明：口语，团队，小机构，译为“团队”。"
+   },
+   {
+    "term": "Pixar",
+    "explain": "皮克斯，美国电脑动画工作室，代表作有《玩具总动员》等。"
+   }
+  ],
+  "translation_tip": "视频译文“1986年2月，他收购了卢卡斯影业的电脑图形团队，这个团队后来成为皮克斯。”的处理：①宾语前的两层定语按原顺序译为“卢卡斯影业的电脑图形团队”，汉语定语同样在前。②非限制性定语从句拆成独立分句，重复先行词，译为“这个团队后来成为皮克斯”，避免“他收购了后来成为皮克斯的卢卡斯影业的电脑图形团队”这样冗长的前置定语。③增补“后来”，说明 became 发生在收购之后，体现时间先后。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "It",
+   "predicate": "began",
+   "object_or_complement": "",
+   "explain": "主干是 It began，begin 在此为不及物动词，后接 as 介词短语说明主语起初的身份，构成 begin as（起初是……）。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "zh": "皮克斯",
+    "role": "主语（指代上句的 Pixar）"
+   },
+   {
+    "text": "began",
+    "zh": "起初",
+    "role": "谓语（不及物动词，与 as 构成 begin as）"
+   },
+   {
+    "text": "as a manufacturer",
+    "zh": "是一家制造商",
+    "role": "状语（as 介词短语，说明主语起初的身份）"
+   },
+   {
+    "text": "of specialised hardware,",
+    "zh": "生产专用硬件",
+    "role": "后置定语（of 结构），修饰 manufacturer"
+   },
+   {
+    "text": "not chiefly an animation studio.",
+    "zh": "主要并不是动画工作室",
+    "role": "与 a manufacturer 对照的并列成分（同为 as 的宾语；not 表示否定，chiefly 修饰后面的名词短语）"
+   }
+  ],
+  "structure": "①主句是 It began as a manufacturer...，主语 It 指上句的 Pixar；begin as 意为“起初是……”，视频说明：begin as…，起初是……。as 介词短语说明主语最初的身份。\n②of specialised hardware 是 of 结构作后置定语，修饰 manufacturer，视频说明同此。manufacturer 与 hardware 是动宾关系：manufacturer of hardware 即生产硬件的厂商。specialised 修饰 hardware，意为“专用的”。\n③not chiefly an animation studio 与 a manufacturer 构成对照，视频说明：not chiefly…，主要并不是……，与 a manufacturer 对照。完整形式是 not chiefly (as) an animation studio，承前省略了 as。not 否定的是 chiefly：皮克斯当时并非完全没有做动画，只是动画不是它的主业。\n④本句纠正一个常见印象：皮克斯一开始并不是以动画工作室起家的，下一句的《玩具总动员》才使它以动画闻名。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "A, not B 对照结构与承前省略",
+    "explain": "英语常用 A, not B 的结构把两个成分对照，强调是 A 而不是 B，B 与 A 的语法功能相同，B 前与 A 相同的成分常省略。本句 a manufacturer ..., not chiefly an animation studio 中，两个名词短语都是 as 的宾语，第二个 as 承前省略。插在 not 后面的 chiefly 使否定变成部分否定：“主要并不是”，而不是“完全不是”。考研阅读中这种对照结构常用来纠正常见看法，作者强调的往往是 A；还要留意 not 后面有没有 chiefly、entirely、always 等词，它们会改变否定的范围。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The festival began as a local protest, not a celebration.",
+      "zh": "这个节日起初是一场地方抗议活动，而不是庆典。"
+     },
+     {
+      "en": "The decline was caused by poor management, not chiefly by foreign competition.",
+      "zh": "衰落是由管理不善造成的，主要并不是因为外国竞争。"
+     }
+    ]
+   },
+   {
+    "title": "begin as / start (out) as 表示起初的身份",
+    "explain": "begin as、start as、start out as 后接名词，表示人或事物最初的身份、形态，常与后来的变化对照，如 She started out as a secretary and is now the company's director。本句 It began as a manufacturer 即“皮克斯起初是一家制造商”。as 是介词，后接名词或名词短语；表示起初做某事则用 begin by doing。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The website began as a student project and now has millions of users.",
+      "zh": "这个网站起初是一个学生项目，如今已拥有数百万用户。"
+     }
+    ]
+   },
+   {
+    "title": "of 结构表示动宾关系",
+    "explain": "动作名词或施动者名词后接 of 短语时，of 的宾语常是这个动作的对象，如 a manufacturer of hardware（生产硬件的厂商）、the protection of wildlife（保护野生动物）、a lover of music（爱好音乐的人）。本句 a manufacturer of specialised hardware 中，hardware 是 manufacture 的对象。翻译时可以把这种 of 结构译成动宾短语，视频译为“生产专用硬件”就是这样处理的。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town is home to a leading manufacturer of medical equipment.",
+      "zh": "这座小镇有一家领先的医疗设备制造商。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "specialised",
+    "explain": "英式拼写，美式拼写为 specialized，意为“专门的，专用的”，如 specialised equipment、specialised knowledge。本文用英式拼写，与 tumour 等词一致。"
+   },
+   {
+    "term": "hardware",
+    "explain": "硬件，指电脑的机器设备，与 software（软件）相对；也指五金器具，如 a hardware store（五金店）。不可数名词。"
+   },
+   {
+    "term": "Pixar 早期业务",
+    "explain": "皮克斯早期主要销售高端图像处理计算机 Pixar Image Computer，所以本句说它起初是生产专用硬件的制造商。"
+   },
+   {
+    "term": "animation studio",
+    "explain": "animation 指动画或动画制作，studio 指工作室、制片厂，animation studio 即“动画工作室”。"
+   }
+  ],
+  "translation_tip": "视频译文“皮克斯起初是一家制造商，生产专用硬件，主要并不是动画工作室。”的处理：①代词 It 还原为“皮克斯”，使主语清楚。②of 结构的后置定语没有前置成“生产专用硬件的制造商”，而是拆成短句“生产专用硬件”，放在“一家制造商”之后，读起来更顺。③not chiefly an animation studio 译为“主要并不是动画工作室”，保留 chiefly 的部分否定，没有译成“不是动画工作室”。全句由三个短句组成，与英文信息顺序一致。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Toy Story",
+   "predicate": "was",
+   "object_or_complement": "the first feature-length computer-animated film（表语）",
+   "explain": "主系表结构，主语和系动词之间插入了过去分词短语。系动词 was 为一般过去时，陈述过去的事实。"
+  },
+  "components": [
+   {
+    "text": "Toy Story,",
+    "zh": "《玩具总动员》",
+    "role": "主语"
+   },
+   {
+    "text": "released",
+    "zh": "上映",
+    "role": "后置定语（过去分词短语的中心词），补充说明 Toy Story"
+   },
+   {
+    "text": "on 22 November 1995,",
+    "zh": "于1995年11月22日",
+    "role": "时间状语（介词短语），修饰 released"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词"
+   },
+   {
+    "text": "the first",
+    "zh": "第一部",
+    "role": "定语（序数词），修饰 film"
+   },
+   {
+    "text": "feature-length",
+    "zh": "长篇",
+    "role": "定语（复合形容词），修饰 film"
+   },
+   {
+    "text": "computer-animated",
+    "zh": "电脑动画",
+    "role": "定语（复合形容词），修饰 film"
+   },
+   {
+    "text": "film.",
+    "zh": "电影",
+    "role": "表语中心词"
+   }
+  ],
+  "structure": "①主句是 Toy Story was the first feature-length computer-animated film，主系表结构。表语中心词是 film，前面有三层定语：the first 是序数词，feature-length 说明片长，computer-animated 说明制作方式。\n②released on 22 November 1995 是过去分词短语，用逗号隔开，插在主语和系动词之间，作后置定语，补充说明 Toy Story，视频说明同此。电影是被发行、被放映的一方，所以用过去分词，相当于 which was released on 22 November 1995。\n③读这类句子时，要越过两个逗号之间的插入成分，把主语 Toy Story 和系动词 was 连起来，才能抓住主干。\n④本句回应第12句：皮克斯起初是硬件制造商，到《玩具总动员》时已经做出了世界上第一部长篇电脑动画电影。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插在主谓之间的过去分词短语",
+    "explain": "过去分词短语可以用逗号隔开，插在主语和谓语之间，对主语作补充说明，相当于一个非限制性定语从句。本句 released on 22 November 1995 相当于 which was released on 22 November 1995。过去分词表示被动或完成，被修饰的名词是动作的承受者：电影是“被发行上映”的。考研长难句中，主语后跟着带逗号的分词短语时，真正的谓语在后面，本句是 was；不能把 released 当成谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report, published last week, has already drawn sharp criticism.",
+      "zh": "这份报告上周发布，已经招致尖锐批评。"
+     },
+     {
+      "en": "The bridge, completed in 1932, remains the city's best-known landmark.",
+      "zh": "这座桥于1932年建成，至今仍是该市最著名的地标。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词作定语",
+    "explain": "复合形容词由两个或几个词用连字符连成，作前置定语。本句有两种类型：feature-length 是“名词 + 名词”，意为“正片长度的”；computer-animated 是“名词 + 过去分词”，意为“由电脑制作动画的”，名词表示动作的手段或施动者，类似的有 computer-generated、man-made、state-owned。这类复合形容词作前置定语时必须加连字符；已收入词典的 man-made、state-owned 等作表语时也保留连字符，如 The bank is state-owned。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the country's state-owned banks reported higher profits this year.",
+      "zh": "该国大多数国有银行今年都报告利润增长。"
+     }
+    ]
+   },
+   {
+    "title": "the first + 名词",
+    "explain": "序数词前一般要加定冠词，如 the first film、the second time。the first 后还可接不定式，表示“第一个做某事的人或物”，如 the first woman to win the prize。本句 the first feature-length computer-animated film 说明《玩具总动员》在电影史上的地位。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She was the first woman to lead the research institute.",
+      "zh": "她是第一位领导该研究所的女性。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Toy Story",
+    "explain": "《玩具总动员》，皮克斯制作、迪士尼发行的动画电影，导演约翰·拉塞特（John Lasseter），是第一部完全用电脑制作的长篇动画电影。英文电影名用斜体或首字母大写表示，中文用书名号。"
+   },
+   {
+    "term": "release",
+    "explain": "本句意为“发行，上映”，常见搭配 release a film、be released in cinemas；release 也可指发布产品、新闻或数据，如 release a report，还可指“释放”，如 release a prisoner。视频译为“上映”。"
+   },
+   {
+    "term": "feature-length",
+    "explain": "feature 在电影领域指正片、故事片，即 feature film；feature-length 指达到正片长度的，视频译为“长篇”，与短片相对。"
+   }
+  ],
+  "translation_tip": "视频译文“《玩具总动员》于1995年11月22日上映，是第一部长篇电脑动画电影。”的处理：①插在主谓之间的过去分词短语没有译成前置定语，而是转为谓语“于1995年11月22日上映”，与主语直接相连。②原来的主系表结构变成后一个短句“是第一部长篇电脑动画电影”，两个短句共用主语《玩具总动员》，叙述顺畅。③三层前置定语按原顺序译为“第一部长篇电脑动画电影”，the first 译为“第一部”，补出量词。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "The reversal（冒号前）；Apple（冒号后）",
+   "predicate": "came（冒号前）；agreed（冒号后）",
+   "object_or_complement": "to buy NeXT（agreed 的宾语，不定式短语）",
+   "explain": "冒号连接两个分句：冒号前 The reversal came 是主谓结构，come 不及物；冒号后 Apple agreed to buy NeXT 是主谓宾结构，不定式作宾语，后接两个并列的现在分词短语作结果状语。谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The reversal",
+    "zh": "局面……彻底转变",
+    "role": "主语"
+   },
+   {
+    "text": "came",
+    "zh": "出现",
+    "role": "谓语（不及物）"
+   },
+   {
+    "text": "on 20 December 1996:",
+    "zh": "1996年12月20日",
+    "role": "时间状语（介词短语）；冒号引出具体说明"
+   },
+   {
+    "text": "Apple",
+    "zh": "苹果",
+    "role": "主语（冒号后的分句）"
+   },
+   {
+    "text": "agreed",
+    "zh": "同意",
+    "role": "谓语"
+   },
+   {
+    "text": "to buy NeXT,",
+    "zh": "收购NeXT",
+    "role": "宾语（不定式短语）"
+   },
+   {
+    "text": "gaining",
+    "zh": "从而获得了",
+    "role": "结果状语（现在分词短语的中心词）"
+   },
+   {
+    "text": "the core software",
+    "zh": "核心软件",
+    "role": "gaining 的宾语"
+   },
+   {
+    "text": "of the eventual Mac OS X",
+    "zh": "最终版 Mac OS X 的",
+    "role": "后置定语（of 结构），修饰 software"
+   },
+   {
+    "text": "and reuniting with",
+    "zh": "并与……重聚",
+    "role": "结果状语（现在分词短语，由 and 与 gaining 并列）"
+   },
+   {
+    "text": "its estranged co-founder.",
+    "zh": "关系疏远的联合创始人",
+    "role": "介词 with 的宾语（指乔布斯）"
+   }
+  ],
+  "structure": "①冒号前的分句是 The reversal came on 20 December 1996，主语 reversal，谓语 came（出现，到来），on 20 December 1996 作时间状语。视频说明：reversal 指局势、决定或状态彻底转向了相反的方向（即逆转、反转）。\n②冒号后的分句具体说明这次转变的内容，视频说明：冒号后具体说明彻底转变的内容。主干是 Apple agreed to buy NeXT，agree to do 意为“同意做……”，不定式 to buy NeXT 作 agreed 的宾语。\n③gaining ... and reuniting ... 是两个并列的现在分词短语，作结果状语，视频说明同此。逻辑主语都是 Apple：收购 NeXT 的结果，一是获得了后来 Mac OS X 的核心软件，二是与乔布斯重聚。of the eventual Mac OS X 是后置定语，修饰 software；eventual 意为“最终的，后来的”，说明 Mac OS X 是后来才推出的。\n④its estranged co-founder 指乔布斯，its 指 Apple。所谓“彻底转变”就体现在这里：1985年把乔布斯逐出的苹果，如今主动收购他的公司，把他请了回来。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，用逗号隔开时，常表示主句动作带来的自然结果，逻辑主语是主句主语，相当于 and thus/so + 谓语。本句 gaining ... and reuniting ... 是 Apple agreed to buy NeXT 的结果。结果状语表示顺理成章的结果；如果是出乎意料的结果，常用不定式 only to do，如 He hurried to the station, only to find the train had left。翻译时常加“从而”“因而”，视频译文用的就是“从而”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm swept across the coast, destroying hundreds of homes and leaving thousands without power.",
+      "zh": "暴风雨席卷海岸，摧毁了数百所房屋，造成数千人断电。"
+     },
+     {
+      "en": "The firm cut its prices by a third, attracting a flood of new customers.",
+      "zh": "这家公司把价格降低了三分之一，从而吸引了大批新顾客。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号用来引出对前文的解释、说明或具体内容，前面通常是一个完整的句子，后面可以是句子、名词短语或列举。本句冒号前只说“转变来了”，冒号后才说明转变是什么。阅读时冒号前常是概括，冒号后是具体内容，概括句往往是理解段落的关键；第18句 a diagnosis: an uncommon, cancerous pancreatic tumour 也是冒号引出具体内容。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The committee reached a clear conclusion: the project should be abandoned.",
+      "zh": "委员会得出了一个明确的结论：这个项目应当放弃。"
+     }
+    ]
+   },
+   {
+    "title": "agree to、agree with 与 agree on",
+    "explain": "agree to do sth 意为“同意做某事”，如本句 agreed to buy NeXT；agree to sth 意为“同意（提议、条件等）”，如 agree to a plan；agree with sb 意为“同意某人的看法”；agree on/about sth 意为“（双方）就某事达成一致”，如 agree on a price。写作中最常见的错误是 I agree your opinion，应为 I agree with your opinion。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After weeks of talks, the two sides agreed on a ceasefire.",
+      "zh": "经过数周的谈判，双方就停火达成了一致。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reversal",
+    "explain": "名词，逆转，彻底转变，动词 reverse；常见搭配有 a reversal of fortune（命运的逆转）、a policy reversal（政策的逆转）。视频说明：局势、决定或状态彻底转向了相反的方向（即逆转、反转），译为“彻底转变”。"
+   },
+   {
+    "term": "Mac OS X",
+    "explain": "苹果 Mac 电脑的操作系统，以 NeXT 的操作系统 NeXTSTEP 为基础开发，2001年正式推出，所以本句说 NeXT 提供的是“最终版 Mac OS X 的核心软件”。X 是罗马数字10。"
+   },
+   {
+    "term": "eventual",
+    "explain": "形容词，最终的，后来的，指经过一段时间后才出现的结果，如 the eventual winner（最终的获胜者）。易错点：eventual 不是“可能的”，“可能发生的”英语用 possible 或 potential。"
+   },
+   {
+    "term": "estranged",
+    "explain": "形容词，疏远的，不和的，常指家人、伴侣、朋友之间关系破裂，如 an estranged wife（分居的妻子）、be estranged from one's family。本句用 estranged 形容乔布斯与苹果的关系，视频译为“关系疏远的”。"
+   },
+   {
+    "term": "reunite with",
+    "explain": "与……重聚，re- 表示“再，重新”；被动形式 be reunited with sb 也很常见，如 be reunited with one's family。视频说明：reunite with…，与……重聚。"
+   }
+  ],
+  "translation_tip": "视频译文“1996年12月20日，局面出现彻底转变。苹果同意收购NeXT，从而获得了最终版 Mac OS X 的核心软件，并与关系疏远的联合创始人重聚。”的处理：①冒号前的分句译为独立的一句，日期提到句首，主语 The reversal 增补“局面”，译为“局面出现彻底转变”，并以句号结束，冒号后的内容另起一句。②两个现在分词短语译为两个分句，用“从而”点明结果关系，用“并”连接第二个结果。③of the eventual Mac OS X 前置为“最终版 Mac OS X 的”；its estranged co-founder 译为“关系疏远的联合创始人”，its 不单独译出。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Microsoft（分句一）；Jobs（分句二）",
+   "predicate": "invested（分句一）；took（分句二）",
+   "object_or_complement": "$150 million（invested 的宾语）；the reins（took 的宾语）",
+   "explain": "分号连接两个独立分句，都是主谓宾结构：分句一 Microsoft invested $150 million in its distressed competitor，用 invest A in B；分句二 Jobs took the reins，是固定短语 take the reins。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In August 1997",
+    "zh": "1997年8月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Microsoft",
+    "zh": "微软",
+    "role": "主语（分句一）"
+   },
+   {
+    "text": "invested",
+    "zh": "投资",
+    "role": "谓语（与 in 构成 invest A in B）"
+   },
+   {
+    "text": "$150 million",
+    "zh": "1.5亿美元",
+    "role": "宾语"
+   },
+   {
+    "text": "in its distressed competitor;",
+    "zh": "向这个陷入困境的竞争对手",
+    "role": "介词短语，与 invested 构成 invest A in B，表示投资对象"
+   },
+   {
+    "text": "that September",
+    "zh": "同年9月",
+    "role": "时间状语（名词短语直接作状语）"
+   },
+   {
+    "text": "Jobs",
+    "zh": "乔布斯",
+    "role": "主语（分句二）"
+   },
+   {
+    "text": "took the reins",
+    "zh": "接掌大权",
+    "role": "谓语和宾语（固定短语 take the reins）"
+   },
+   {
+    "text": "as interim chief.",
+    "zh": "出任临时负责人",
+    "role": "状语（as 介词短语，说明担任的身份）"
+   }
+  ],
+  "structure": "①分句一 Microsoft invested $150 million in its distressed competitor 用 invest A in B 结构，视频说明：invest A in B，向 B 投资 A。A 是金额 $150 million，B 是 its distressed competitor，its 指 Microsoft，competitor 指苹果。用“陷入困境的竞争对手”指称苹果，说明当时苹果处境艰难。\n②分句二 that September Jobs took the reins as interim chief：that September 是名词短语直接作时间状语，指1997年9月；take the reins 是固定短语，视频说明：接掌大权，reins 本义缰绳；as interim chief 是 as 介词短语，说明担任的职务，视频说明：as，作为。\n③两个分句用分号连接，按时间顺序交代1997年的两件事：8月微软注资，9月乔布斯掌权。两件事都与苹果当时的困境有关，前一分句的 distressed 已点明这一点。\n④interim chief 中的 interim 意为“临时的”，说明乔布斯起初只是临时负责人。本段叙述苹果的“彻底转变”：收购 NeXT、获得注资、乔布斯回归。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "invest A in B 结构",
+    "explain": "invest 的基本结构是 invest + 金钱/时间/精力 + in + 对象，意为“把……投资于、投入到……”，如 invest money in property、invest time in training；省略 A 时说 invest in sth，如 invest in education。本句 invested $150 million in its distressed competitor 中，A 是 $150 million，B 是苹果。介词 in 与 invest 之间可以隔着较长的宾语，阅读时要把二者联系起来。invest sb with sth 意为“授予某人（权力、职权）”，较正式。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government plans to invest £2 billion in rural broadband over five years.",
+      "zh": "政府计划在五年内向农村宽带建设投资20亿英镑。"
+     },
+     {
+      "en": "Parents who invest time in reading with their children often see clear results.",
+      "zh": "花时间陪孩子阅读的父母往往能看到明显的效果。"
+     }
+    ]
+   },
+   {
+    "title": "as + 职务名词，名词前不加冠词",
+    "explain": "as 后接表示独一无二职位的名词时，名词前通常不加冠词，如 as chairman、as interim chief、elect sb (as) president。本句 took the reins as interim chief 中 chief 前没有冠词。第1句 chief executive John Sculley 是职务名称作人名前的头衔，也不加冠词。如果职位不是唯一的，则要加不定冠词，如 work as a teacher。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She was appointed as head of the new department in March.",
+      "zh": "她于3月被任命为新部门的负责人。"
+     }
+    ]
+   },
+   {
+    "title": "million 与汉语数字单位的换算",
+    "explain": "英语数字以“千、百万、十亿”为单位（thousand、million、billion），汉语以“万、亿”为单位，翻译时要换算：100 million = 1亿，150 million = 1.5亿，1 billion = 10亿。本句 $150 million 译为“1.5亿美元”。货币符号 $ 写在数字前，读作 a hundred and fifty million dollars。考研翻译和阅读中涉及数字时要仔细换算，不能把 million 直接对应成“万”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum attracted 2.5 million visitors last year.",
+      "zh": "该博物馆去年吸引了250万名游客。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take the reins",
+    "explain": "rein 是缰绳，复数 reins；take the reins 字面义“握住缰绳”，比喻接掌控制权、领导权，视频译为“接掌大权”。相关说法有 hand over the reins（交出控制权）、hold the reins of power（掌握大权）。"
+   },
+   {
+    "term": "interim",
+    "explain": "形容词，临时的，过渡期间的，如 an interim government（临时政府）、an interim report（中期报告）；in the interim 意为“在此期间”。乔布斯1997年起先任苹果临时首席执行官，2000年才正式出任首席执行官。"
+   },
+   {
+    "term": "distressed",
+    "explain": "本句指公司陷入财务困境，视频译为“陷入困境的”，金融语境常见 distressed companies、distressed assets（不良资产）；用于人时意为“痛苦的，忧虑的”。"
+   },
+   {
+    "term": "competitor",
+    "explain": "竞争对手，动词 compete，名词 competition，形容词 competitive。微软和苹果都生产个人电脑软件，在操作系统等领域是竞争对手。"
+   }
+  ],
+  "translation_tip": "视频译文“1997年8月，微软向这个陷入困境的竞争对手投资1.5亿美元；同年9月，乔布斯接掌大权，出任临时负责人。”的处理：①invest A in B 的语序在汉语中调整为“向 B 投资 A”，介词短语提到动词前。②its distressed competitor 译为“这个陷入困境的竞争对手”，用“这个”回指苹果。③$150 million 换算为“1.5亿美元”。④that September 译为“同年9月”；as interim chief 拆成独立的短句“出任临时负责人”，与“接掌大权”并列，节奏紧凑。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "Apple",
+   "predicate": "had been",
+   "object_or_complement": "weeks from ruin（表语）",
+   "explain": "主系表结构，主语和谓语之间插入了 he later said。系动词 had been 为过去完成时，表示苹果濒临破产的状态早于 he later said 中的 said。"
+  },
+  "components": [
+   {
+    "text": "Apple,",
+    "zh": "苹果",
+    "role": "主语"
+   },
+   {
+    "text": "he later said,",
+    "zh": "他后来说",
+    "role": "插入语（说明信息来源）"
+   },
+   {
+    "text": "had been",
+    "zh": "（系动词，过去完成时，不单独译出；译文用“当时”点明这一状态在先）",
+    "role": "系动词"
+   },
+   {
+    "text": "weeks from ruin.",
+    "zh": "离破产只差几周",
+    "role": "表语（名词 weeks + 介词短语 from ruin，表示离某种状态只有多久）"
+   }
+  ],
+  "structure": "①主句是 Apple had been weeks from ruin，主系表结构。表语 weeks from ruin 表示“离破产只有几周”，视频说明同此。\n②he later said 是插入语，视频说明定为插入语。它把一个完整的句子 He later said (that) Apple had been weeks from ruin 中的主句降格为插入成分，放在主语后面，表示信息来源。\n③谓语用过去完成时 had been，有两层原因：一是这是乔布斯后来说的话，转述时时态向过去推移；二是苹果濒临破产的状态（1997年前后）早于 said 这个动作。\n④插入语提醒读者，这是乔布斯本人的说法，不是作者核实过的数据；作者用它说明苹果当时处境之危险，也衬托乔布斯回归的意义。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "插入语 he said 与转述时态",
+    "explain": "he said、she added、experts believe 这类“主语 + 言语或认知动词”可以插在句中或放在句末，作插入语，说明信息来源，相当于把主句降格。本句 Apple, he later said, had been weeks from ruin 相当于 He later said that Apple had been weeks from ruin。转述过去说的话时，被转述的内容一般要后移一个时态：苹果濒临破产在 said 之前，所以用过去完成时。考研阅读中，插入语往往提示观点的归属：是作者的观点，还是引述他人的说法，做观点题时要分清。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The plan, officials admitted, had been poorly communicated to residents.",
+      "zh": "官员们承认，这项计划此前没有很好地向居民传达。"
+     },
+     {
+      "en": "The company, she later recalled, had been close to collapse when she joined.",
+      "zh": "她后来回忆说，她加入时这家公司已濒临倒闭。"
+     }
+    ]
+   },
+   {
+    "title": "时间名词 + from + 名词：离……只有多久",
+    "explain": "表示时间或距离的名词加 from，可以说明离某种状态、某个地点还有多远，如 weeks from ruin（离破产只差几周）、minutes from disaster（差几分钟就酿成大祸）、a few miles from the coast。常与 only、just 连用强调近，如 only days from bankruptcy。意思相近的还有 be on the brink of / on the verge of sth（濒临……）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The airline was only days from bankruptcy when the government stepped in.",
+      "zh": "政府出手时，这家航空公司离破产只剩几天了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ruin",
+    "explain": "名词，毁灭；（经济上的）破产，如 financial ruin（经济崩溃）、on the brink of ruin（濒临破产）；复数 ruins 指废墟、遗迹。作动词意为“毁坏”。本句视频译为“破产”。"
+   },
+   {
+    "term": "later",
+    "explain": "副词，后来，与 said 连用，说明这句话是乔布斯事后的回顾，而不是当时的说法。"
+   }
+  ],
+  "translation_tip": "视频译文“他后来说，苹果当时离破产只差几周。”的处理：①插入语 he later said 提到句首，译为“他后来说”，汉语习惯先交代说话人，再说内容。②过去完成时 had been 用“当时”体现，说明濒临破产的是过去某一时期的状态，早于“后来说”。③weeks from ruin 译为“离破产只差几周”，增补“只差”，强调形势危急。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The iMac, iPod, and iPhone",
+   "predicate": "followed",
+   "object_or_complement": "",
+   "explain": "主干是 The iMac, iPod, and iPhone followed，三个并列主语共用一个谓语，follow 在此为不及物动词，意为“随后出现”。谓语为一般过去时，主动语态。句末是独立主格结构。"
+  },
+  "components": [
+   {
+    "text": "The iMac,",
+    "zh": "iMac",
+    "role": "主语（并列一）"
+   },
+   {
+    "text": "iPod,",
+    "zh": "iPod",
+    "role": "主语（并列二）"
+   },
+   {
+    "text": "and iPhone",
+    "zh": "和 iPhone",
+    "role": "主语（并列三）"
+   },
+   {
+    "text": "followed,",
+    "zh": "相继问世",
+    "role": "谓语（不及物）"
+   },
+   {
+    "text": "the iPhone",
+    "zh": "iPhone",
+    "role": "独立主格结构的逻辑主语"
+   },
+   {
+    "text": "showcased on 9 January 2007.",
+    "zh": "于2007年1月9日公开展示",
+    "role": "独立主格结构中的过去分词短语"
+   }
+  ],
+  "structure": "①主句是 The iMac, iPod, and iPhone followed：三个产品名并列作主语，用 A, B, and C 的格式，and 前是牛津逗号；定冠词 The 只出现一次，三个名词共用。follow 不及物，意为“随后出现，接踵而至”，即在乔布斯回归之后陆续推出。\n②the iPhone showcased on 9 January 2007 是独立主格结构，视频说明：独立主格结构，补充说明 iPhone。结构是“名词 the iPhone + 过去分词短语 showcased on 9 January 2007”，它有自己的逻辑主语，与主句主语不同，所以不能直接用分词短语。\n③showcased 用过去分词，因为 iPhone 是被展示的一方，相当于 the iPhone was showcased on 9 January 2007。\n④作者只给 iPhone 一个具体日期，突出它在三款产品中的分量。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "独立主格结构",
+    "explain": "独立主格由“名词或代词 + 非谓语动词（或形容词、副词、介词短语）”构成，有自己的逻辑主语，与主句主语不同，在句中作状语，表示时间、原因、伴随或补充说明。名词与动词是主动关系时用现在分词，被动关系时用过去分词。本句 the iPhone showcased on 9 January 2007 中，iPhone 是被展示的，所以用 showcased。判断方法：分词前面有一个与主句主语不同的名词，而且两者之间没有连词，也没有谓语动词。独立主格是考研长难句和翻译的重点，常见形式有 weather permitting、all things considered、the meeting over 等。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The work finished, the volunteers packed up and went home.",
+      "zh": "工作完成后，志愿者们收拾好东西回家了。"
+     },
+     {
+      "en": "Three new stations opened last year, the largest located near the airport.",
+      "zh": "去年新开了三座车站，其中最大的一座位于机场附近。"
+     }
+    ]
+   },
+   {
+    "title": "三项并列与共用冠词",
+    "explain": "三个及以上的成分并列时写成 A, B, and C，and 前的逗号即牛津逗号。几个并列名词共用一个限定词时，限定词只写一次，放在第一个名词前，如 The iMac, iPod, and iPhone、the teachers, students, and parents。如果几个名词各自需要强调，也可以每个都加冠词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum, library, and theatre all reopened in the spring.",
+      "zh": "博物馆、图书馆和剧院都在春天重新开放。"
+     }
+    ]
+   },
+   {
+    "title": "follow 的不及物用法",
+    "explain": "follow 常作及物动词，意为“跟随，遵循”；作不及物动词时意为“接着发生，随后到来”，如 A long silence followed（接着是长时间的沉默）、in the years that followed（在随后的几年里）。本句 The iMac, iPod, and iPhone followed 即“随后相继问世”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The announcement was met with a long silence, and then angry questions followed.",
+      "zh": "宣布之后是一阵长时间的沉默，接着是愤怒的质问。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "iMac、iPod 与 iPhone",
+    "explain": "iMac 是苹果的一体式台式电脑，1998年推出；iPod 是便携式数字音乐播放器，2001年推出；iPhone 是智能手机，2007年1月9日由乔布斯在 Macworld 大会上发布，同年6月在美国开售。所以本句说 iPhone 那天是“公开展示”，而不是上市销售。"
+   },
+   {
+    "term": "showcase",
+    "explain": "名词，陈列柜，展示的场合；动词，展示，展现，如 showcase new products、showcase one's talent。本句视频译为“展示”。"
+   }
+  ],
+  "translation_tip": "视频译文“iMac、iPod和 iPhone相继问世，iPhone于2007年1月9日公开展示。”的处理：①三个并列主语用顿号和“和”连接，牛津逗号在汉语中不体现；冠词 The 不译。②follow 不直译为“跟随”，而译为“相继问世”，“相继”体现三款产品先后推出。③独立主格结构译为独立分句“iPhone于2007年1月9日公开展示”，日期用“于”放在动词前；showcased 增补“公开”，说明是向公众发布。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Jobs",
+   "predicate": "received",
+   "object_or_complement": "a diagnosis",
+   "explain": "主干是 Jobs received a diagnosis，主谓宾结构，冒号后的名词短语说明诊断的内容。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In October 2003",
+    "zh": "2003年10月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Jobs",
+    "zh": "乔布斯",
+    "role": "主语"
+   },
+   {
+    "text": "received",
+    "zh": "收到了",
+    "role": "谓语"
+   },
+   {
+    "text": "a diagnosis:",
+    "zh": "一份诊断",
+    "role": "宾语；冒号引出诊断内容"
+   },
+   {
+    "text": "an uncommon,",
+    "zh": "一种罕见的",
+    "role": "定语（形容词，与 cancerous 并列），修饰 tumour"
+   },
+   {
+    "text": "cancerous",
+    "zh": "恶性",
+    "role": "定语（形容词），修饰 tumour"
+   },
+   {
+    "text": "pancreatic",
+    "zh": "胰腺",
+    "role": "定语（类别形容词），修饰 tumour"
+   },
+   {
+    "text": "tumour.",
+    "zh": "肿瘤",
+    "role": "同位语的中心词，说明 diagnosis 的内容"
+   }
+  ],
+  "structure": "①主句是 Jobs received a diagnosis，主谓宾结构。视频说明：receive a diagnosis，被诊断出；冒号后说明诊断结果。\n②冒号后的 an uncommon, cancerous pancreatic tumour 是名词短语，作 a diagnosis 的同位语，具体说明诊断出的是什么病。\n③这个名词短语的中心词是 tumour，前面有三个形容词：uncommon（罕见的）和 cancerous（恶性的）是描述性形容词，二者之间用逗号隔开，地位平等；pancreatic（胰腺的）是类别形容词，说明肿瘤长在哪个器官，紧贴名词，前面不加逗号。\n④本句开始全文最后一段，从事业转向健康，为后文的离任和去世作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "多个形容词修饰名词时的顺序与逗号",
+    "explain": "几个形容词修饰同一名词时，要区分并列形容词和累积形容词。并列形容词各自独立修饰名词，可以调换顺序，也可以用 and 连接，之间用逗号，如 an uncommon, cancerous tumour（= an uncommon and cancerous tumour）。累积形容词层层修饰，不能调换顺序，也不能加 and，之间不用逗号。表示类别、材料、来源的形容词（如 pancreatic、wooden、Chinese）离名词最近，前面不加逗号。本句 cancerous 和 pancreatic 之间没有逗号，因为 pancreatic 说明肿瘤的类别，与 tumour 结合得最紧。判断方法：能插入 and 的用逗号，不能插入的不用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It was a long, exhausting journey through the mountains.",
+      "zh": "那是一段穿越群山的漫长而累人的旅程。"
+     },
+     {
+      "en": "She bought a beautiful old wooden table at the market.",
+      "zh": "她在市场上买了一张漂亮的旧木桌。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出同位语",
+    "explain": "冒号后可以只接一个名词短语，作前面某个名词的同位语，具体说明它的内容，如 She had one goal: a gold medal。本句 a diagnosis: an uncommon, cancerous pancreatic tumour 中，冒号后的名词短语说明 diagnosis 的具体内容。用冒号能制造停顿，突出后面的信息。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The study points to one main cause: a lack of sleep.",
+      "zh": "这项研究指向一个主要原因：睡眠不足。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "receive a diagnosis",
+    "explain": "被诊断出（某病），视频说明：receive a diagnosis，被诊断出。常见搭配还有 make a diagnosis（作出诊断）、an early diagnosis（早期诊断）；动词 diagnose，如 be diagnosed with cancer（被诊断患有癌症）。"
+   },
+   {
+    "term": "cancerous",
+    "explain": "形容词，癌的，恶性的，相当于 malignant；反义词 benign（良性的）。本句视频译为“恶性”。"
+   },
+   {
+    "term": "pancreatic",
+    "explain": "形容词，胰腺的，由 pancreas（胰腺）派生，如 pancreatic cancer（胰腺癌）。"
+   },
+   {
+    "term": "tumour",
+    "explain": "肿瘤，英式拼写；美式拼写为 tumor，如 a brain tumour（脑瘤）、a benign tumour（良性肿瘤）。本文用英式拼写。"
+   }
+  ],
+  "translation_tip": "视频译文“2003年10月，乔布斯收到了一份诊断：一种罕见的恶性胰腺肿瘤。”保留了冒号结构，先说“收到了一份诊断”，冒号后再说明内容，与原文的停顿和重心一致。a diagnosis 和 an uncommon ... 中的不定冠词分别译为量词“一份”“一种”。三个形容词按原顺序前置为“罕见的恶性胰腺肿瘤”，只在第一个形容词后加“的”，避免“的”字堆叠。"
+ },
+ {
+  "n": 19,
+  "trunk": {
+   "subject": "Apple",
+   "predicate": "overtook",
+   "object_or_complement": "Exxon Mobil",
+   "explain": "主干是 Apple overtook Exxon Mobil，主谓宾结构，as 介词短语说明超越所涉及的名号。谓语 overtook 是 overtake 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In August 2011",
+    "zh": "2011年8月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "Apple",
+    "zh": "苹果公司",
+    "role": "主语"
+   },
+   {
+    "text": "briefly",
+    "zh": "一度",
+    "role": "时间状语（副词，表示时间短暂），修饰谓语 overtook"
+   },
+   {
+    "text": "overtook",
+    "zh": "超越",
+    "role": "谓语"
+   },
+   {
+    "text": "Exxon Mobil",
+    "zh": "埃克森美孚",
+    "role": "宾语"
+   },
+   {
+    "text": "as the world's most valuable company.",
+    "zh": "成为全球市值最高的公司",
+    "role": "状语（as 介词短语，说明超越 A 而成为……）"
+   }
+  ],
+  "structure": "①主句是 Apple overtook Exxon Mobil，主谓宾结构。视频说明：overtake A as…，超过 A，成为……。as 短语说明双方争夺的名号：原来是埃克森美孚，现在被苹果超过。\n②briefly 是副词，放在主语和谓语之间，意为“短暂地”，说明苹果只是短时间内超过对方，视频译为“一度”。\n③the world's most valuable company 中，most valuable 是 valuable 的最高级；the world's 是名词所有格，表示比较范围，相当于 in the world，代替了最高级前的 the。\n④most valuable 在公司语境中指市值最高，视频译为“市值最高的”。本句说明乔布斯回归后苹果的巨大成功，与第16句的“离破产只差几周”形成对比。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "overtake / replace / succeed A as B",
+    "explain": "overtake A as B 意为“超过 A，成为 B”，B 是 A 原来拥有、现在归主语所有的名号或地位。同类结构有 replace A as B（取代 A 成为 B）、succeed A as B（接替 A 担任 B）。本句 Apple overtook Exxon Mobil as the world's most valuable company，意思是埃克森美孚原来是全球市值最高的公司，现在苹果超过了它。阅读时要看清 as 短语说的是主语的新身份，不是宾语的身份：超过之后，拥有这一名号的是 Apple。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "China overtook Japan as the world's second-largest economy in 2010.",
+      "zh": "2010年，中国超过日本，成为全球第二大经济体。"
+     },
+     {
+      "en": "She succeeded her father as chair of the family firm.",
+      "zh": "她接替父亲担任家族企业的董事长。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格表示最高级的范围",
+    "explain": "形容词最高级前一般加 the，但如果前面有名词所有格或物主代词，就不再加 the，如 the world's most valuable company（= the most valuable company in the world）、the country's largest city、her best work。多音节形容词用 most 构成最高级，如 most valuable；单音节和部分双音节形容词加 -est。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Lagos is Nigeria's largest city.",
+      "zh": "拉各斯是尼日利亚最大的城市。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "briefly",
+    "explain": "副词，有两个常用义：一是“短暂地”，如 pause briefly（短暂停顿）；二是“简要地”，如 briefly describe（简要描述）。本句是第一个意思，视频译为“一度”，表示苹果只是短时间内超过埃克森美孚。"
+   },
+   {
+    "term": "most valuable",
+    "explain": "valuable 意为“值钱的，有价值的”，说公司 most valuable 时，指它的市值（market value，即股票总价值）最高，所以视频译为“市值最高的”。体育中的 most valuable player 是“最有价值球员”（MVP）。"
+   },
+   {
+    "term": "Exxon Mobil",
+    "explain": "埃克森美孚，美国石油和天然气公司，1999年由埃克森（Exxon）和美孚（Mobil）合并而成。"
+   },
+   {
+    "term": "overtake（overtook, overtaken）",
+    "explain": "不规则动词，本义是车辆“超车”，引申为数量、地位等“超过，赶上”，如 Sales of e-books overtook those of paperbacks。视频译为“超越”。"
+   }
+  ],
+  "translation_tip": "视频译文“2011年8月，苹果公司一度超越埃克森美孚，成为全球市值最高的公司。”的处理：①overtake A as B 拆成两个动作：“超越埃克森美孚”和“成为全球市值最高的公司”，as 译为“成为”，把名号的转移说清楚。②briefly 译为“一度”，表示某一时期曾经如此，比“短暂地”更简洁自然。③most valuable 结合语境译为“市值最高的”，没有译成“最有价值的”；the world's 译为“全球”。"
+ },
+ {
+  "n": 20,
+  "trunk": {
+   "subject": "His tenure（分句一）；he（分句二）",
+   "predicate": "ended（分句一）；died（分句二）",
+   "object_or_complement": "",
+   "explain": "分号连接两个独立分句，都是主谓结构：end 和 die 在此都是不及物动词，后接时间状语；分句二句末的 aged 56 作状语。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His tenure",
+    "zh": "他的任期",
+    "role": "主语（分句一）"
+   },
+   {
+    "text": "ended",
+    "zh": "结束",
+    "role": "谓语（不及物）"
+   },
+   {
+    "text": "on 24 August 2011;",
+    "zh": "2011年8月24日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语（分句二）"
+   },
+   {
+    "text": "died",
+    "zh": "去世",
+    "role": "谓语（不及物）"
+   },
+   {
+    "text": "on 5 October 2011,",
+    "zh": "2011年10月5日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "aged 56.",
+    "zh": "终年56岁",
+    "role": "状语（aged + 数字，说明去世时的年龄）"
+   }
+  ],
+  "structure": "①分句一 His tenure ended on 24 August 2011：主语 His tenure，谓语 ended，on 24 August 2011 作时间状语。tenure 指任职期间，这里指乔布斯担任苹果首席执行官的任期。\n②分句二 he died on 5 October 2011, aged 56：主语 he，谓语 died，on 5 October 2011 作时间状语。aged 56 用逗号隔开，作状语，说明去世时的年龄，视频说明同此。aged 在这里是形容词，意为“……岁的”，aged 56 相当于 at the age of 56。\n③两个分句用分号连接，结构相同，都是“主语 + 谓语 + 日期”，前后只隔六周，平实的叙述中带出离任与去世接踵而至的分量。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "aged + 数字",
+    "explain": "aged 作形容词，后接数字表示“……岁的”，可放在名词后作定语，如 children aged 6 to 12（6到12岁的儿童），也可用逗号隔开作状语，如本句 he died ..., aged 56。这是讣告、新闻和统计报告的常见写法，比 at the age of 56 简洁。读音要注意：aged 表示“……岁的”时读 /eɪdʒd/；表示“年老的”时读 /ˈeɪdʒɪd/，如 an aged relative、the aged（老年人）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The survey covered 2,000 adults aged 18 to 65.",
+      "zh": "这项调查覆盖了2000名年龄在18岁至65岁之间的成年人。"
+     },
+     {
+      "en": "The composer died in Vienna in 1791, aged 35.",
+      "zh": "这位作曲家于1791年在维也纳去世，终年35岁。"
+     }
+    ]
+   },
+   {
+    "title": "die 的常见用法",
+    "explain": "die 是不及物动词，没有被动语态。表示死因用 die of（多指疾病、饥饿等内因）或 die from（多指伤害、事故等外因），实际使用中二者区分并不严格；表示去世的年龄用 die at the age of 56 或 die ..., aged 56。形容词 dead 表示状态，如 He has been dead for ten years，不能说 He has died for ten years。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Thousands of people die from air pollution in the city every year.",
+      "zh": "这座城市每年有数千人死于空气污染。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tenure",
+    "explain": "名词，任期，任职，如 during her tenure as mayor（在她担任市长期间）；在美国高校指教师的终身职位，如 get tenure（获得终身教职）。本句视频译为“任期”。"
+   },
+   {
+    "term": "乔布斯离任与去世",
+    "explain": "2011年8月24日乔布斯辞去苹果首席执行官一职，由蒂姆·库克（Tim Cook）接任，他本人改任董事长；同年10月5日去世。"
+   }
+  ],
+  "translation_tip": "视频译文“2011年8月24日，他的任期结束；2011年10月5日，他去世，终年56岁。”的处理：①两个分句的日期都提到句首，形成整齐的对称结构，符合汉语先交代时间的习惯。②保留分号，体现两个分句的并列关系。③aged 56 拆成短句“终年56岁”，“终年”是讣告中表示去世时年龄的规范说法。"
+ },
+ {
+  "n": 21,
+  "trunk": {
+   "subject": "He",
+   "predicate": "had spent",
+   "object_or_complement": "nearly fourteen years",
+   "explain": "主干是 He had spent nearly fourteen years，主谓宾结构，spend + 时间 + 介词短语，表示在某种状态中度过多长时间。谓语为过去完成时，主动语态，参照点是上句的离任和去世。"
+  },
+  "components": [
+   {
+    "text": "He",
+    "zh": "他",
+    "role": "主语"
+   },
+   {
+    "text": "had spent",
+    "zh": "已",
+    "role": "谓语（过去完成时；spend 在译文中与 at the helm of 合译为“掌舵”，“已”对应完成意味）"
+   },
+   {
+    "text": "nearly fourteen years",
+    "zh": "近十四年",
+    "role": "宾语"
+   },
+   {
+    "text": "at the helm of",
+    "zh": "在……掌舵",
+    "role": "状语（介词短语，说明这段时间所处的位置和状态）"
+   },
+   {
+    "text": "the company",
+    "zh": "那家……公司",
+    "role": "介词 of 的宾语"
+   },
+   {
+    "text": "that ousted him.",
+    "zh": "曾把他逐出的",
+    "role": "限制性定语从句，修饰 the company（that 在从句中作主语）"
+   }
+  ],
+  "structure": "①主句是 He had spent nearly fourteen years at the helm of the company，spend + 时间 + 介词短语，意为“在……位置上度过多长时间”。at the helm of 是介词短语作状语，视频说明：at the helm of…，执掌……，helm 本义船舵。\n②谓语用过去完成时，表示到过去某一时刻为止已经持续的状态。这个时刻是上句的离任和去世，视频译文用括号增补“在他最终离开时”点明这一参照点。近十四年指从1997年9月出任临时首席执行官到2011年8月离任。\n③that ousted him 是 that 引导的限制性定语从句，修饰 the company，视频说明同此。that 在从句中作主语，不能省略。从句用一般过去时 ousted，叙述1985年的具体事件。\n④全文以此句收束：掌舵近十四年的公司，正是当年把他逐出的公司。结尾回扣第1至3句的被逐和辞职，首尾呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时表示到过去某时为止持续的状态",
+    "explain": "过去完成时（had done）除了表示“过去的过去”，还可以与一段时间连用，表示到过去某一时刻为止已经持续了多久，如 By 2011 he had worked there for fourteen years。本句 had spent nearly fourteen years 的参照点是上句的离任和去世，即到他最终离开时，他已掌舵近十四年。考研阅读和翻译中，看到过去完成时要找出它的参照时间，参照点可能在上一句，而不在本句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time she retired, she had taught at the school for thirty years.",
+      "zh": "到她退休时，她已在这所学校任教三十年。"
+     },
+     {
+      "en": "When the war ended, the family had lived in exile for nearly a decade.",
+      "zh": "战争结束时，这家人已经流亡了近十年。"
+     }
+    ]
+   },
+   {
+    "title": "spend + 时间 + 介词短语 / doing",
+    "explain": "spend 的主语必须是人，常见结构有 spend time/money on sth、spend time (in) doing sth、spend time + 地点或状态介词短语，如 spend a year abroad、spend ten years in prison。本句 spent nearly fourteen years at the helm of the company 属于最后一种。易错点：不能说 It spent me two hours，物作主语时用 take 或 cost，如 It took me two hours。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He spent most of his career at a small publishing house in Leeds.",
+      "zh": "他职业生涯的大部分时间都在利兹的一家小出版社度过。"
+     }
+    ]
+   },
+   {
+    "title": "that 作主语的限制性定语从句",
+    "explain": "关系代词 that 在限制性定语从句中作主语时不能省略，作宾语时才可以省略。本句 the company that ousted him 中，that 是 ousted 的主语，所以必须保留；比较第2句 the company he had co-founded，被省略的关系代词是 co-founded 的宾语。两句都修饰 the company，写的却是乔布斯与苹果关系的两极：参与创办，后被逐出。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The law that protects these wetlands was passed in 1972.",
+      "zh": "保护这些湿地的法律于1972年通过。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "at the helm of",
+    "explain": "helm 是船舵，at the helm 字面义“掌舵”，比喻领导、执掌（公司、组织、国家），视频说明：at the helm of…，执掌……，helm 本义船舵，译为“掌舵”。相关说法有 take the helm（开始掌管）。与第15句的 take the reins（接掌大权，reins 是缰绳）同属用驾驭比喻领导的说法。"
+   },
+   {
+    "term": "oust",
+    "explain": "动词，把某人赶下台、罢免、驱逐，常指迫使某人离开职位，如 oust a leader from power；被动形式 be ousted from office 很常见。本句视频译为“逐出”。"
+   },
+   {
+    "term": "nearly",
+    "explain": "副词，几乎，将近，修饰数字时意为“不到，接近”，如 nearly fourteen years（近十四年），实际时间略少于十四年。与 almost 意思相近。"
+   }
+  ],
+  "translation_tip": "视频译文“（在他最终离开时）他已在那家曾把他逐出的公司掌舵近十四年。”的处理：①过去完成时的参照点在上一句，译文用括号增补“（在他最终离开时）”，并用“已”体现完成意味，避免读者把时间理解为现在。②spend ... at the helm of 合译为“掌舵”，不直译“度过”，更简洁。③定语从句 that ousted him 前置为“曾把他逐出的”，增补“曾”，说明逐出是更早发生的事。④nearly fourteen years 译为“近十四年”，放在句末，突出掌舵时间之长。"
+ }
+]
