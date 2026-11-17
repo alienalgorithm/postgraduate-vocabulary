@@ -1,0 +1,23 @@
+[
+ {
+  "key": "id=34 aesthetic",
+  "field": "context_usage",
+  "before": "这说明公众不喜欢魔术贴，主要不是因为功能，而是因为样子。",
+  "after": "这说明公众反应冷淡的主要原因在于它的样子。",
+  "reason": "原文只说主要因为外观，没有提到功能，“主要不是因为功能”超出原文。"
+ },
+ {
+  "key": "id=58 in effect",
+  "field": "context_usage",
+  "before": "全句由此点出反讽：一家公司竟要请大家少用自己的名字。",
+  "after": "全句由此点出反讽：一家公司竟要请公众别再把自己的名字用在对手的商品上。",
+  "reason": "原文是停止把名字用在对手商品上，不是“少用自己的名字”，概括失真。"
+ },
+ {
+  "key": "id=33 mostly",
+  "field": "related",
+  "before": "utmost adj. 最大的，极度的",
+  "after": "（删去）",
+  "reason": "utmost 来自古英语 utemest，是 ut（出）加双重最高级后缀 -mest 构成，不是由 most 派生，不属同根派生词。"
+ }
+]

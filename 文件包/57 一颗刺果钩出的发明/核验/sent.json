@@ -1,0 +1,1834 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "George de Mestral",
+   "predicate": "returned",
+   "object_or_complement": "",
+   "explain": "主干是 George de Mestral returned，主谓结构；return 在此是不及物动词，意为“返回，归来”，后面由 from 引出归来的起点。谓语 returned 是一般过去时，主动语态，叙述1941年发生的一件具体的事。"
+  },
+  "components": [
+   {
+    "text": "In 1941",
+    "role": "时间状语（介词短语）",
+    "zh": "1941年"
+   },
+   {
+    "text": "George de Mestral,",
+    "role": "主语（人名）",
+    "zh": "乔治·德·梅斯特拉尔"
+   },
+   {
+    "text": "a Swiss engineer,",
+    "role": "同位语，补充说明 George de Mestral 的国籍和职业",
+    "zh": "一位瑞士的工程师"
+   },
+   {
+    "text": "returned",
+    "role": "谓语（不及物动词）",
+    "zh": "归来"
+   },
+   {
+    "text": "from hunting",
+    "role": "状语（介词短语，from 后接动名词 hunting 作介词宾语），说明从哪里归来",
+    "zh": "从……打猎中"
+   },
+   {
+    "text": "in the Alps",
+    "role": "地点状语（介词短语），修饰动名词 hunting，说明打猎的地点",
+    "zh": "阿尔卑斯山的"
+   },
+   {
+    "text": "with his hound,",
+    "role": "伴随状语（介词短语），说明和谁一起归来",
+    "zh": "带着他的猎犬"
+   },
+   {
+    "text": "an Irish Pointer.",
+    "role": "同位语，补充说明 his hound 的品种",
+    "zh": "一只爱尔兰的指示犬"
+   }
+  ],
+  "structure": "①主句是 George de Mestral returned from hunting，主语 George de Mestral，谓语 returned；from hunting 是介词短语作状语，交代归来的起点。from 后面可以接地点（return from Paris），也可以接一项活动（return from work），本句是后者：hunting 是动名词，作介词 from 的宾语。\n②a Swiss engineer 是同位语，夹在主语和谓语之间，用两个逗号隔开，说明主人公的国籍和职业。读的时候要越过这对逗号，把 George de Mestral 和 returned 连起来，才能抓住主干。\n③in the Alps 修饰动名词 hunting，说明打猎的地点；动名词保留动词的性质，可以带自己的状语。with his hound 是介词短语作伴随状语，说明他是带着猎犬一起回来的。\n④an Irish Pointer 是 his hound 的同位语，说明猎犬的品种。全句两处同位语结构相同，都是“名词, 不定冠词 + 名词短语,”，先给出名字或泛称，再补充具体身份。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语对前面的名词或代词作进一步说明，与它指同一个人或事物，常用逗号隔开，句中出现时前后各有一个逗号。说明人物身份时，同位语常用“a/an + 名词”，表示“某类人中的一位”，如 a Swiss engineer。本句有两处同位语：a Swiss engineer 说明 George de Mestral，an Irish Pointer 说明 his hound。考研长难句中，主语后紧跟一个由逗号隔开的名词短语，往往是同位语，读的时候先跳过它找谓语；翻译时可以按原位保留（本句视频译文即如此），也可以前移作定语，如例句一的 Marie Curie, a Polish-born physicist 可译为“出生于波兰的物理学家玛丽·居里”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, a Polish-born physicist, was the first woman to win a Nobel Prize.",
+      "zh": "玛丽·居里，一位出生于波兰的物理学家，是第一位获得诺贝尔奖的女性。"
+     },
+     {
+      "en": "The report was written by Dr Chen, an expert on urban planning.",
+      "zh": "这份报告由陈博士撰写，他是一位城市规划专家。"
+     }
+    ]
+   },
+   {
+    "title": "介词后接动名词",
+    "explain": "介词后面如果要接动作，必须用动名词（doing），不能用动词原形或不定式。本句 from hunting 中，hunting 作 from 的宾语，表示“打猎（这项活动）”。动名词还能带自己的宾语和状语，本句 in the Alps 就修饰 hunting。写作中常见的 be interested in doing、look forward to doing、instead of doing 都是这个规则；look forward to 中的 to 是介词，后接 doing，是考研常考的易错点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After returning from fishing, the old man cleaned his catch on the riverbank.",
+      "zh": "钓鱼回来后，老人在河岸上收拾他的渔获。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "George de Mestral",
+    "explain": "瑞士工程师，魔术贴（Velcro）的发明者。全文从他打猎归来、发现刺果粘在衣服和狗毛上写起，交代这项发明的灵感来源。"
+   },
+   {
+    "term": "the Alps",
+    "explain": "阿尔卑斯山脉，欧洲中南部的大山系，横跨法国、瑞士、意大利、奥地利等国。山脉名称用复数形式，前面加定冠词 the，类似的还有 the Himalayas（喜马拉雅山脉）、the Andes（安第斯山脉）。"
+   },
+   {
+    "term": "hound",
+    "explain": "猎犬，指靠嗅觉或视觉追踪猎物的狗，比 dog 更具体；视频译为“猎犬”。常构成复合词，如 foxhound（猎狐犬）、bloodhound（寻血猎犬）。"
+   },
+   {
+    "term": "pointer",
+    "explain": "指示犬，一种猎犬，发现猎物后会站定不动，用鼻子指向猎物的方向，因此得名，动词 point 意为“指向”。本句 Pointer 首字母大写，是作为犬种名称使用，视频译为“一只爱尔兰的指示犬”。"
+   },
+   {
+    "term": "return from",
+    "explain": "从……归来。from 后可接地点，也可接活动，如 return from a trip（旅行归来）、return from hunting（打猎归来）。return 本身含“回”的意思，不说 return back。"
+   }
+  ],
+  "translation_tip": "视频译文“1941年，乔治·德·梅斯特拉尔，一位瑞士的工程师，带着他的猎犬，一只爱尔兰的指示犬，从阿尔卑斯山的打猎中归来。”的处理：①时间状语 In 1941 放在句首，后加逗号，与英文一致。②两处同位语都保留在原位，用逗号隔开，句子节奏与英文对应；不定冠词 a、an 分别译成量词“一位”“一只”。③句末的伴随状语 with his hound 提到谓语前，译成“带着他的猎犬”，符合汉语状语在动词前的习惯。④from hunting in the Alps 中，修饰 hunting 的 in the Alps 前置为“阿尔卑斯山的”，整个状语译成“从阿尔卑斯山的打猎中”，最后落到谓语“归来”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Prickly burdock seed-heads",
+   "predicate": "had hitched（谓语一）；lay（谓语二）",
+   "object_or_complement": "themselves（had hitched 的宾语）；tangled（lay 的表语）",
+   "explain": "一个主语带两个由 and 连接的并列谓语：had hitched themselves 是主谓宾结构，过去完成时，主动语态；lay tangled 是主系表结构，lay 是 lie 的过去式，作系动词，一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Prickly",
+    "role": "前置定语（形容词），修饰 seed-heads",
+    "zh": "多刺的"
+   },
+   {
+    "text": "burdock seed-heads",
+    "role": "主语（burdock 是名词作前置定语，说明是哪种植物的种子头）",
+    "zh": "牛蒡种子头"
+   },
+   {
+    "text": "had hitched",
+    "role": "谓语一（过去完成时）",
+    "zh": "已……钩在了"
+   },
+   {
+    "text": "themselves",
+    "role": "宾语（反身代词，指主语 seed-heads）",
+    "zh": "把它们自己"
+   },
+   {
+    "text": "to his clothes",
+    "role": "状语（介词短语），与 hitch 构成 hitch oneself to，说明钩挂的位置",
+    "zh": "他的衣服上"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个并列谓语",
+    "zh": "并"
+   },
+   {
+    "text": "lay",
+    "role": "谓语二（系动词，lie 的过去式）",
+    "zh": "（系动词，与 tangled 合译为“缠绕”）"
+   },
+   {
+    "text": "tangled",
+    "role": "表语（过去分词，已形容词化）",
+    "zh": "缠绕"
+   },
+   {
+    "text": "in the dog's fur.",
+    "role": "地点状语（介词短语）",
+    "zh": "在狗的毛皮里"
+   }
+  ],
+  "structure": "①主语是 Prickly burdock seed-heads：中心词 seed-heads，前面有两个定语，形容词 prickly 说明它的特征（多刺），名词 burdock 说明它属于哪种植物（牛蒡）。\n②谓语一 had hitched themselves to his clothes：hitch oneself to sth 意为“把自己挂在、钩在……上”，宾语用反身代词 themselves，指主语 seed-heads 本身，把种子头写得像会主动行动一样。had hitched 是过去完成时，表示在上句他打猎归来之前，种子头就已经钩在衣服上了。\n③谓语二 lay tangled in the dog's fur：lay 是 lie 的过去式，在这里作系动词，表示“处于某种状态”；tangled 是过去分词作表语，说明种子头的状态；in the dog's fur 是地点状语。这一部分描写的是归来时看到的状态，所以用一般过去时。\n④两个谓语由 and 连接，共用主语 seed-heads：一处钩在主人的衣服上，一处缠在狗的毛皮里。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经完成的动作。本句的参照点是上句的 returned：种子头钩到衣服上，发生在他打猎归来之前，所以用 had hitched。同一句里的 lay tangled 描写的是归来时的状态，用一般过去时即可。考研阅读和完形中，同一段叙述里出现 had done，通常表示倒叙或交代此前已经发生的事，要据此理清事件先后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the firefighters arrived, the flames had already spread to the roof.",
+      "zh": "消防员赶到时，火焰已经蔓延到了屋顶。"
+     },
+     {
+      "en": "By the time she reached the station, the last train had left.",
+      "zh": "她赶到车站时，末班车已经开走了。"
+     }
+    ]
+   },
+   {
+    "title": "lie 作系动词；lie 与 lay 的区分",
+    "explain": "lie 除了“躺，平放”外，还可作系动词，后接形容词或分词作表语，表示“处于某种状态”，如 lie awake（醒着躺着）、lie hidden（藏着）、lie empty（空着）。本句 lay tangled 即“处于缠结状态”，lay 是 lie 的过去式。易混点：lie（躺，位于）的变化是 lie, lay, lain；lay（放置，下蛋）是及物动词，变化是 lay, laid, laid；lie 表示“说谎”时变化是 lie, lied, lied。看到 lay，要先判断它是 lie 的过去式还是及物动词 lay 的原形：本句 lay 后面没有宾语，接的是表语 tangled，只能是 lie 的过去式。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "For years the old factory lay empty, its windows broken and its gates locked.",
+      "zh": "多年来，这座旧工厂一直空着，窗户破碎，大门紧锁。"
+     },
+     {
+      "en": "The letter lay unopened on his desk for a week.",
+      "zh": "那封信在他桌上放了一周都没有拆开。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作宾语",
+    "explain": "动词的宾语与主语是同一个人或事物时，宾语用反身代词（myself、itself、themselves 等）。本句 hitched themselves 中，themselves 就是主语 seed-heads 本身，表示种子头“把自己”钩了上去。反身代词作宾语，让无生命的种子头带上了主动的意味，与下文 grasping（抓住）等用词呼应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The young bird threw itself out of the nest and flew for the first time.",
+      "zh": "那只雏鸟从巢里扑了出去，第一次飞了起来。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "burdock",
+    "explain": "牛蒡，一种植物，果实外有带钩的刺，容易粘在衣服和动物毛上。标题中的 burrs 指的就是这类带刺的果实。"
+   },
+   {
+    "term": "seed-head",
+    "explain": "种子头，指植物开花后结籽的部分，视频译为“种子头”。burdock seed-heads 即牛蒡的刺果。"
+   },
+   {
+    "term": "hitch oneself to",
+    "explain": "视频说明：hitch oneself to 意为“挂在……上”。hitch 的常见义是“（用钩、绳等）系住，挂住”，如 hitch a horse to a cart（把马套在车上），口语中还有“搭便车”之义（hitch a ride）。"
+   },
+   {
+    "term": "fur",
+    "explain": "（动物的）毛，毛皮，不可数；也可指毛皮衣物，如 a fur coat（毛皮大衣）。本句指狗的毛，视频译为“毛皮”。"
+   },
+   {
+    "term": "prickly",
+    "explain": "形容词，由名词 prickle（刺）加 -y 构成，意为“多刺的”；用来形容人时意为“易怒的，难相处的”，如 a prickly character。本句用本义，视频译为“多刺的”。"
+   }
+  ],
+  "translation_tip": "视频译文“多刺的牛蒡种子头已把它们自己钩在了他的衣服上，并缠绕在狗的毛皮里。”的处理：①主语的两个前置定语按原顺序译成“多刺的牛蒡种子头”。②过去完成时 had hitched 用“已”体现动作先于归来完成；反身代词 themselves 用“把”字句译成“把它们自己”，保留原文的拟人色彩；to his clothes 译成“在了他的衣服上”。③and 译为“并”，连接第二个谓语。④系表结构 lay tangled 不逐词译出 lay，与 tangled 合译为“缠绕”，地点状语 in the dog's fur 放在动词后，译成“在狗的毛皮里”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "he",
+   "predicate": "saw",
+   "object_or_complement": "thousands of tiny barbs",
+   "explain": "主干是 he saw thousands of tiny barbs，主谓宾结构。谓语 saw 是 see 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Under a microscope",
+    "role": "状语（介词短语），说明观察的条件",
+    "zh": "在显微镜下"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "saw",
+    "role": "谓语",
+    "zh": "看到"
+   },
+   {
+    "text": "thousands of tiny barbs,",
+    "role": "宾语（thousands of 表示数量，tiny 是前置定语）",
+    "zh": "成千上万个细小的倒刺"
+   },
+   {
+    "text": "each a hook",
+    "role": "独立主格结构（each 是逻辑主语，a hook 是名词作逻辑表语），补充说明 barbs",
+    "zh": "每一个（如同）一个钩子"
+   },
+   {
+    "text": "grasping",
+    "role": "现在分词，与其宾语构成现在分词短语，修饰 a hook",
+    "zh": "抓住"
+   },
+   {
+    "text": "the small loops",
+    "role": "grasping 的宾语",
+    "zh": "小圈"
+   },
+   {
+    "text": "in cloth.",
+    "role": "后置定语（介词短语），修饰 the small loops",
+    "zh": "布料上的"
+   }
+  ],
+  "structure": "①主句 Under a microscope he saw thousands of tiny barbs：Under a microscope 是介词短语作状语，说明他是借助显微镜观察到的；主语 he，谓语 saw，宾语 thousands of tiny barbs。thousands of 表示“成千上万的”，tiny 修饰 barbs。\n②逗号后的 each a hook 是独立主格结构（视频说明），补充说明 barbs：each 是逻辑主语，指每一个倒刺；a hook 是名词，作逻辑表语；中间省略了 being，完整形式相当于 each being a hook，也相当于一个分句 each was a hook。\n③grasping the small loops in cloth 是现在分词短语，修饰 hook（视频说明），相当于 which grasped the small loops in cloth，说明每个钩子的作用；hook 与 grasp 是主动关系，所以用现在分词。in cloth 是介词短语作后置定语，修饰 the small loops。\n④全句由整体到细节：先说看到成千上万个倒刺，再说每个倒刺是一个钩子，最后说钩子抓住布料上的小圈。这正是魔术贴“钩面加毛圈面”的原理，也是下文发明的依据。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "独立主格结构：名词/代词 + 名词",
+    "explain": "独立主格结构由“逻辑主语 + 逻辑谓语部分”构成，逻辑主语与主句主语不同，结构本身没有谓语动词，常用逗号与主句隔开。逻辑谓语部分可以是分词、形容词、介词短语或名词，名词作逻辑表语时可以看作省略了 being。本句 each a hook 中，each 指每一个倒刺，a hook 说明它是什么，补充说明 barbs。考研长难句里，逗号后出现“each/one/both + 名词”这类没有谓语动词的结构，要识别为独立主格，不要误认为句子缺了谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum displays dozens of old maps, each a record of how the city grew.",
+      "zh": "博物馆展出了几十幅旧地图，每一幅都记录了这座城市的发展历程。"
+     },
+     {
+      "en": "The firm hired three new analysts, each an expert in a different market.",
+      "zh": "公司聘请了三位新分析师，每一位都是不同市场的专家。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作后置定语",
+    "explain": "现在分词短语放在名词之后作定语，表示与被修饰名词之间是主动关系，相当于一个定语从句。本句 a hook grasping the small loops 相当于 a hook which grasped the small loops：是钩子去“抓住”小圈。被修饰的名词与分词是被动关系时要用过去分词，如 apparel stitched with the fasteners（第10句）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Researchers interviewed hundreds of workers living near the plant.",
+      "zh": "研究人员采访了住在工厂附近的数百名工人。"
+     }
+    ]
+   },
+   {
+    "title": "thousands of 表示概数",
+    "explain": "hundred、thousand、million 前面有具体数字时用单数，后面直接接名词，如 three thousand barbs；不说具体数字、表示“成百上千、成千上万”时用复数并加 of，如 hundreds of、thousands of、millions of。本句 thousands of tiny barbs 是概数，视频译为“成千上万个”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Thousands of fans waited outside the stadium for hours.",
+      "zh": "成千上万的球迷在体育场外等了好几个小时。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "under a microscope",
+    "explain": "在显微镜下，介词用 under，如 examine sth under a microscope（在显微镜下观察某物）。比喻义 be under the microscope 指“受到仔细审视”。"
+   },
+   {
+    "term": "barb",
+    "explain": "倒刺，倒钩，指尖端向后弯的刺，如鱼钩上的倒刺；视频译为“倒刺”。barbed wire 是“带刺铁丝网”。"
+   },
+   {
+    "term": "loop",
+    "explain": "环，圈；本句指布料上的小线圈，视频译为“小圈”。魔术贴的一面是钩子，另一面是毛圈，钩子钩住毛圈就能扣在一起。"
+   },
+   {
+    "term": "cloth",
+    "explain": "布，布料，表示材料时是不可数名词，本句 in cloth 即“布料上的”；可数时指一块有专门用途的布，如 a cloth（抹布）、a tablecloth（桌布）。cloth 的复数是 cloths（几块布）；clothes（衣服）是另一个只用复数形式的名词，不是 cloth 的复数，读音 /kləʊðz/，意思也不同。"
+   }
+  ],
+  "translation_tip": "视频译文“在显微镜下，他看到成千上万个细小的倒刺，每一个（如同）一个钩子，抓住布料上的小圈。”的处理：①介词短语状语 Under a microscope 在句首照译为“在显微镜下”，加逗号断开。②独立主格结构 each a hook 单独译成一个分句，增补“（如同）”补出两个名词之间省略的联系，读者一看就知道倒刺像钩子。③现在分词短语 grasping... 没有译成定语“抓住小圈的钩子”，而是顺着语序另起一个短句“抓住布料上的小圈”，句子更短更顺。④后置定语 in cloth 前移为“布料上的”，修饰“小圈”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Few",
+   "predicate": "took",
+   "object_or_complement": "his idea",
+   "explain": "主干是 Few took his idea，主谓宾结构，seriously 作方式状语，与 took 构成 take sth seriously（认真看待某事）。谓语 took 是 take 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Few",
+    "role": "主语（代词，意为“很少的人”，表示否定）",
+    "zh": "很少有人"
+   },
+   {
+    "text": "took",
+    "role": "谓语（与 seriously 构成 take sth seriously）",
+    "zh": "看待"
+   },
+   {
+    "text": "his idea",
+    "role": "宾语",
+    "zh": "他的想法"
+   },
+   {
+    "text": "seriously",
+    "role": "方式状语（副词）",
+    "zh": "认真"
+   },
+   {
+    "text": "at first.",
+    "role": "时间状语（介词短语）",
+    "zh": "起初"
+   }
+  ],
+  "structure": "①Few 是代词，作主语，指“很少的人”，带有否定意味，相当于 not many people。\n②took his idea seriously 是 take sth seriously 结构，宾语 his idea 放在 took 和 seriously 中间；seriously 是副词，作方式状语，说明“以什么态度看待”。\n③at first 是时间状语，意为“起初”，暗示后来情况有所改变：魔术贴后来进入了太空和日常生活。这句短句承上启下，把第一段的灵感转到第二段的研制过程，也为后文“不被看好的发明”（第12句 The underdog）埋下伏笔。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "few 与 a few",
+    "explain": "few 和 a few 都修饰或指代可数名词。few 强调“很少，几乎没有”，带否定意味；a few 强调“有一些”，带肯定意味。little 与 a little 修饰不可数名词，区别相同。本句 Few took his idea seriously 意为“很少有人认真看待”，重点是不被重视；如果写成 A few took his idea seriously，意思就变成“有几个人认真看待”。few 单独作主语时指“很少的人”。考研阅读中，few、little 引导的句子常是作者态度的线索，题目若把它说成“有人重视”，就与原文相反。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few experts predicted that the small start-up would one day dominate the market.",
+      "zh": "很少有专家预料到这家小公司有朝一日会主导市场。"
+     },
+     {
+      "en": "A few experts, however, saw its potential early on.",
+      "zh": "不过，也有几位专家很早就看到了它的潜力。"
+     }
+    ]
+   },
+   {
+    "title": "take sth seriously 的语序",
+    "explain": "take sth seriously 中，名词或代词宾语一般放在 take 和 seriously 之间：take the warning seriously、take him seriously。宾语较长时，也可以把 seriously 移到 take 之后，如 take seriously the risks of climate change。被动形式是 be taken seriously，如 His warnings were not taken seriously（他的警告没有受到重视）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The government has promised to take the complaints seriously.",
+      "zh": "政府承诺会认真对待这些投诉。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take sb/sth seriously",
+    "explain": "认真看待某人或某事，重视；视频说明为“take A seriously：认真看待 A”。反义说法有 take sth lightly（不当回事）。"
+   },
+   {
+    "term": "at first",
+    "explain": "起初，一开始，用来与后来的情况形成对比，常和 but、later 等呼应。注意与 first/firstly（第一，首先）区分：列举要点时说 First, ... Second, ...，不说 At first, ...。"
+   }
+  ],
+  "translation_tip": "视频译文“起初，很少有人认真看待他的想法。”的处理：①句末的时间状语 at first 提到句首，译为“起初”，符合汉语时间状语在前的习惯。②主语 Few 译成“很少有人”，把否定意味放进“很少”，比逐字译成“很少的人认真看待”更自然。③take his idea seriously 合译为“认真看待他的想法”，方式状语 seriously 前移到动词前，译成“认真”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "a cotton version",
+   "predicate": "proved",
+   "object_or_complement": "too frail",
+   "explain": "主干是 a cotton version proved too frail，主系表结构；prove 在此作系动词，意为“结果表明是，证明是”，后接形容词 frail 作表语。谓语 proved 是一般过去时，形式为主动语态。"
+  },
+  "components": [
+   {
+    "text": "In Lyon,",
+    "role": "地点状语（介词短语）",
+    "zh": "在里昂"
+   },
+   {
+    "text": "then a weaving centre,",
+    "role": "同位语，补充说明 Lyon（then 作副词，意为“当时”）",
+    "zh": "当时的一个纺织中心"
+   },
+   {
+    "text": "a cotton version",
+    "role": "主语（cotton 是名词作前置定语，表示材料）",
+    "zh": "一个棉制的版本"
+   },
+   {
+    "text": "proved",
+    "role": "谓语（系动词）",
+    "zh": "被证明"
+   },
+   {
+    "text": "too frail",
+    "role": "表语（too + 形容词）",
+    "zh": "太脆弱"
+   },
+   {
+    "text": "to survive abrasion.",
+    "role": "结果状语（不定式短语），与 too 构成 too... to...",
+    "zh": "以至于无法在磨损中存活下来"
+   }
+  ],
+  "structure": "①In Lyon 是地点状语。then a weaving centre 是同位语（视频说明），补充说明 Lyon：then 是副词，意为“当时”，表明里昂“在那个时候”是纺织中心，暗示现在已经不完全是了。\n②主句 a cotton version proved too frail：主语 a cotton version 指棉制的魔术贴试样（视频说明），cotton 是名词作前置定语，表示材料；proved 是系动词；too frail 作表语。\n③to survive abrasion 是不定式，与 too 构成 too A to do 结构（视频说明：太 A 而不能……），表示程度过高而导致否定的结果：太不结实，经受不住摩擦磨损。survive 在这里是及物动词，意为“经受住，挺过”，abrasion 是它的宾语。\n④本句说明第一次试制失败的原因：棉制试样不耐磨，为下句改用尼龙作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "too... to... 结构表示否定结果",
+    "explain": "too + 形容词/副词 + to do 表示“太……以至于不能……”，形式上没有否定词，意思却是否定的。本句 too frail to survive abrasion 即“太脆弱，以至于无法经受磨损”。可以改写为 so... that... 加否定：so frail that it could not survive abrasion。易错点：too... to... 前面若有 only、all、but 等，或形容词是 eager、ready、glad 等，常表示肯定，如 She was only too glad to help（她非常乐意帮忙）。考研阅读中要据此判断句子的真实肯否。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The evidence was too weak to support the court's decision.",
+      "zh": "证据太薄弱，不足以支持法院的判决。"
+     },
+     {
+      "en": "The bridge is too narrow to carry heavy trucks.",
+      "zh": "这座桥太窄，承受不了重型卡车通行。"
+     }
+    ]
+   },
+   {
+    "title": "prove 作系动词",
+    "explain": "prove 作系动词时，意为“结果是，证明是”，后接形容词、名词或 to be 作表语：prove (to be) useful、prove a success。系动词没有被动语态，“结果证明很脆弱”用主动形式 proved too frail 即可。如果写成 was proved too frail，prove 就成了及物动词“证明”的被动（强调有人证明了这一点，类似 He was proved wrong），与系动词用法侧重不同。汉语习惯说“被证明”，视频译文据此译为“被证明”，英文仍要用主动形式。prove 作及物动词时意为“证明”，后接宾语，如第12句 proved its utility。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new policy proved highly unpopular with small businesses.",
+      "zh": "事实证明，这项新政策很不受小企业欢迎。"
+     },
+     {
+      "en": "Finding a replacement proved more difficult than expected.",
+      "zh": "结果，寻找替代者比预想的要难。"
+     }
+    ]
+   },
+   {
+    "title": "副词 then 修饰名词，意为“当时的”",
+    "explain": "then 可以放在名词或名词短语前，意为“当时的”，如 the then prime minister（当时的首相）。本句 then a weaving centre 中，then 修饰同位语，说明里昂在当时是纺织中心。考研阅读中，then、once、former 这类词提示所说情况属于过去，往往与现在形成对比。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The law was introduced by the then health minister in 2009.",
+      "zh": "这项法律由时任卫生部长于2009年提出。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Lyon",
+    "explain": "里昂，法国东南部的大城市，历史上以丝绸纺织业闻名，所以文中说它 then a weaving centre（当时的一个纺织中心）。英文也拼作 Lyons。"
+   },
+   {
+    "term": "centre",
+    "explain": "英式拼写，美式拼写为 center。本文采用英式拼写，第13句的 programme（美式 program）、第14句的 sizeable（美式多作 sizable）也是如此。"
+   },
+   {
+    "term": "version",
+    "explain": "版本，样式。本句 a cotton version 指用棉做成的魔术贴试样（视频说明：棉制魔术贴试样），视频译为“一个棉制的版本”。"
+   },
+   {
+    "term": "survive",
+    "explain": "本句是及物动词，意为“经受住，挺过（困难、灾害等）”，如 survive the crisis、survive the winter。survive abrasion 即“经受住摩擦磨损”（视频说明），视频译为“在磨损中存活下来”。"
+   }
+  ],
+  "translation_tip": "视频译文“在里昂，当时的一个纺织中心，一个棉制的版本被证明太脆弱，以至于无法在磨损中存活下来。”的处理：①地点状语和同位语保留原顺序，同位语前的 then 译成定语“当时的”。②系动词 proved 按汉语习惯译成“被证明”。③too frail to survive abrasion 按“太……以至于无法……”的格式拆成两个短句，把隐含的否定用“无法”明确译出；survive abrasion 译成“在磨损中存活下来”，宾语 abrasion 转成状语“在磨损中”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "he",
+   "predicate": "turned to",
+   "object_or_complement": "nylon",
+   "explain": "主干是 he turned to nylon，主谓宾结构；turn to 是短语动词，意为“转而采用”，nylon 是它的宾语。谓语是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Working with a textiles firm,",
+    "role": "伴随状语（现在分词短语），逻辑主语是 he",
+    "zh": "与一家纺织品公司合作"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "turned to",
+    "role": "谓语（短语动词 turn to）",
+    "zh": "转向了"
+   },
+   {
+    "text": "nylon,",
+    "role": "宾语",
+    "zh": "尼龙"
+   },
+   {
+    "text": "whose hooks",
+    "role": "非限制性定语从句的主语，whose 在从句中作定语，修饰 hooks；整个从句修饰 nylon",
+    "zh": "其钩子"
+   },
+   {
+    "text": "were stiff enough",
+    "role": "从句的系动词和表语（形容词 + enough）",
+    "zh": "足够坚硬且不易弯曲"
+   },
+   {
+    "text": "to hold",
+    "role": "不定式，与 enough 构成 enough to do，表示足以达到的结果",
+    "zh": "既能扣住"
+   },
+   {
+    "text": "yet easy",
+    "role": "连词 yet 连接的第二个表语",
+    "zh": "又容易"
+   },
+   {
+    "text": "to pull apart.",
+    "role": "不定式，作 easy 的状语，说明在哪方面容易",
+    "zh": "拉开"
+   }
+  ],
+  "structure": "①句首 Working with a textiles firm 是现在分词短语作伴随状语（视频说明），逻辑主语是主句主语 he：是他在与纺织品公司合作，主动关系，所以用现在分词。\n②主句 he turned to nylon：turn to 意为“转而采用”（视频说明），表示放弃上句的棉制试样，改用尼龙。\n③whose 引导非限制性定语从句，修饰 nylon（视频说明）。whose 在从句中作定语，修饰 hooks，whose hooks 即 nylon's hooks，指用尼龙做成的钩子。从句是主系表结构：主语 whose hooks，系动词 were，表语有两个，stiff enough 和 easy，由连词 yet 连接。\n④两个表语各带一个不定式：stiff enough to hold 是 A enough to do 结构（视频说明：足够 A，能……），表示硬到足以扣住；easy to pull apart 中，不定式 to pull apart 说明在哪方面容易，hooks 是 pull apart 的逻辑宾语。yet 表示转折，把“扣得住”和“拉得开”这两个看似矛盾的要求连在一起，正是尼龙胜过棉的地方。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词 + enough to do",
+    "explain": "enough 修饰形容词或副词时放在其后，构成“形容词 + enough + to do”，表示“足够……，能够……”，如 stiff enough to hold、old enough to vote。enough 修饰名词时一般放在名词前，如 enough money to buy a house。本句 stiff enough to hold 说明尼龙钩子硬到足以扣住。考研写作中常见的错误是把 enough 放在形容词前，写成 enough stiff；enough to do 与 too... to... 意思相反，一个表示“足以”，一个表示“太……而不能”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The ice was thick enough to support the weight of a car.",
+      "zh": "冰层足够厚，能承受一辆汽车的重量。"
+     },
+     {
+      "en": "Few of the applicants were experienced enough to manage the project alone.",
+      "zh": "应聘者中很少有人经验丰富到能独自管理这个项目。"
+     }
+    ]
+   },
+   {
+    "title": "easy to do：主语是不定式的逻辑宾语",
+    "explain": "easy、hard、difficult、pleasant、convenient 等形容词后接不定式时，句子的主语往往是不定式的逻辑宾语，不定式仍用主动形式。本句 hooks were easy to pull apart 中，hooks 是 pull apart 的逻辑宾语，相当于 it was easy to pull the hooks apart。易错点：不能写成 easy to be pulled apart；不定式后也不能再加宾语，如 This book is easy to read，不说 easy to read it。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The instructions are clear and easy to follow.",
+      "zh": "这些说明清楚明了，很容易照着做。"
+     },
+     {
+      "en": "Such claims are hard to prove and even harder to disprove.",
+      "zh": "这类说法难以证实，更难以驳倒。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "分词短语作状语时，逻辑主语必须与主句主语一致；现在分词表示主动或同时进行。本句 Working with a textiles firm 的逻辑主语是 he，表示他在与纺织品公司合作的同时转而采用尼龙。如果分词的逻辑主语与主句主语不一致，就成了悬垂分词，是写作中的常见错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Working closely with local farmers, the scientists developed a drought-resistant variety of rice.",
+      "zh": "科学家们与当地农民密切合作，培育出了一种抗旱水稻品种。"
+     }
+    ]
+   },
+   {
+    "title": "whose 引导非限制性定语从句（指物）",
+    "explain": "whose 是关系代词的所有格，在从句中作定语，既可指人也可指物；指物时 whose + 名词 相当于 the + 名词 + of which。本句 whose hooks 即 the hooks of which，指尼龙做成的钩子。从句前有逗号，是非限制性定语从句，对 nylon 作补充说明，翻译时常拆开，用“其”回指。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The village, whose population has halved since 1990, is struggling to keep its school open.",
+      "zh": "这个村子的人口自1990年以来减少了一半，正艰难地维持学校运转。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "turn to",
+    "explain": "视频说明：turn to 意为“转而采用”。turn to 后接事物时表示“转向，改用”，如 turn to solar power（改用太阳能）；后接人时表示“求助于”，如 turn to friends for help。本句表示放弃棉，改用尼龙。"
+   },
+   {
+    "term": "textiles firm",
+    "explain": "纺织品公司。textile 指纺织品，作定语时单复数都可用，如 the textile industry 或 the textiles industry（纺织业），本句用复数 textiles。firm 意为“公司”，与 company 同义，常用于律师、会计、咨询等专业服务公司，如 a law firm（律师事务所）。"
+   },
+   {
+    "term": "nylon",
+    "explain": "尼龙，一种合成材料，结实、耐磨，可纺成纤维，常用来做袜子、绳索和布料。本句讲的是尼龙做成的钩子既有硬度，又容易拉开，所以替代了不耐磨的棉。"
+   },
+   {
+    "term": "yet",
+    "explain": "本句作连词，意为“然而，却”，连接两个意思相对的成分，常见形式是 adj. yet adj.，如 simple yet effective（简单而有效）。视频译为“既能……又……”，把转折关系转成并列。"
+   },
+   {
+    "term": "pull apart",
+    "explain": "拉开，扯开（视频说明），如 pull the two pieces apart。比喻义有“严厉批评”，如 The critics pulled the play apart。"
+   }
+  ],
+  "translation_tip": "视频译文“与一家纺织品公司合作，他转向了尼龙，其钩子足够坚硬且不易弯曲，既能扣住，又容易拉开。”的处理：①句首分词短语照原位译出，不补主语，与后面的“他”共用主语。②非限制性定语从句不前置，拆成独立分句，用“其”回指 nylon，与 whose 对应。③stiff 译为“坚硬且不易弯曲”，用两个词把“硬而不弯”的含义完整传达。④两个不定式结构 enough to hold 和 easy to pull apart 由 yet 连接，译文用“既能……又……”的格式呈现，把两种性能并列起来，突出尼龙兼顾两者。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "The trial-and-error",
+   "predicate": "lasted",
+   "object_or_complement": "",
+   "explain": "主干是 The trial-and-error lasted，主谓结构；last 在此是不及物动词，意为“持续”，about ten years 说明持续的时长。谓语 lasted 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The trial-and-error",
+    "role": "主语",
+    "zh": "反复试验"
+   },
+   {
+    "text": "at the looms and mills",
+    "role": "后置定语（介词短语），修饰 trial-and-error",
+    "zh": "在织机旁和工厂里的"
+   },
+   {
+    "text": "lasted",
+    "role": "谓语（不及物动词）",
+    "zh": "持续了"
+   },
+   {
+    "text": "about",
+    "role": "副词，修饰 ten years，表示约数",
+    "zh": "约"
+   },
+   {
+    "text": "ten years.",
+    "role": "时间状语（名词短语），说明持续的时长",
+    "zh": "十年"
+   }
+  ],
+  "structure": "①主语 The trial-and-error 是用连字符连起来的复合名词，指反复试验的过程。\n②at the looms and mills 是介词短语作后置定语（视频说明），修饰 trial-and-error，说明试验是在织机旁和工厂里进行的。介词 at 和定冠词 the 同时管 looms 和 mills 两个名词，即 at the looms and (at the) mills。\n③谓语 lasted 是不及物动词，后面的 about ten years 是名词短语作时间状语，说明持续多久，不是宾语；about 是副词，修饰数词，意为“大约”。\n④本句用一个短句概括研制过程之长，与上两句的具体试制经过相呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "last 作不及物动词表示“持续”",
+    "explain": "last 作动词时多为不及物动词，意为“持续，延续”，后面直接接表示时长的名词短语作状语，如 last two hours、last (for) a week，for 可省略。这类表示时长的名词短语不是宾语，句子不能变成被动语态。last 还可表示“够用，经久”，如 The battery lasts all day。考研阅读中，lasting（持久的）、long-lasting（经久的）是常见形容词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The drought lasted nearly three years and destroyed much of the region's farmland.",
+      "zh": "这场旱灾持续了近三年，毁掉了该地区的大片农田。"
+     }
+    ]
+   },
+   {
+    "title": "介词短语作后置定语",
+    "explain": "介词短语修饰名词时放在名词后面，作后置定语。本句 at the looms and mills 修饰 trial-and-error，说明试验进行的场所。翻译时要把它前移，译成“……的”，放在中心词前。介词后有几个并列名词时，同一个介词和冠词常只出现一次，如本句的 at the looms and mills。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The debate in parliament over the new tax lasted until midnight.",
+      "zh": "议会里关于新税的辩论一直持续到午夜。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "trial and error",
+    "explain": "反复试验，试错，指不断尝试、从失败中改进的方法，常见搭配有 by trial and error（通过反复试验）、a process of trial and error。作名词时词典一般不加连字符，作前置定语时常加，如 a trial-and-error approach；本文作名词也用了连字符写法。视频译为“反复试验”。"
+   },
+   {
+    "term": "loom",
+    "explain": "织机。loom 作动词时意为“隐约出现，（危险、难题等）逼近”，如 A crisis is looming，是考研阅读中的高频熟词僻义。"
+   },
+   {
+    "term": "mill",
+    "explain": "工厂（尤指纺织厂、造纸厂等），也指磨坊；本句与 looms 并列，指纺织工厂，视频译为“工厂”。常见搭配有 a cotton mill（棉纺厂）、a paper mill（造纸厂）。"
+   }
+  ],
+  "translation_tip": "视频译文“在织机旁和工厂里的反复试验持续了约十年。”的处理：①后置定语 at the looms and mills 前移，译成“在织机旁和工厂里的”，修饰“反复试验”。②同一个介词 at 根据所接名词分别补出方位词：织机用“旁”，工厂用“里”，符合汉语习惯。③about ten years 译成“约十年”，紧接在“持续了”之后。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The name Velcro",
+   "predicate": "merged",
+   "object_or_complement": "two French words",
+   "explain": "主干是 The name Velcro merged two French words，主谓宾结构。谓语 merged 是一般过去时，主动语态；merge 在此是及物动词，意为“把……合并”。"
+  },
+  "components": [
+   {
+    "text": "The name Velcro",
+    "role": "主语（Velcro 是 The name 的同位语）",
+    "zh": "Velcro 这个名字"
+   },
+   {
+    "text": "merged",
+    "role": "谓语",
+    "zh": "合并了"
+   },
+   {
+    "text": "two French words,",
+    "role": "宾语",
+    "zh": "两个法语词"
+   },
+   {
+    "text": "velours,",
+    "role": "同位语一，说明 two French words 中的第一个词",
+    "zh": "velours"
+   },
+   {
+    "text": "meaning velvet,",
+    "role": "后置定语（现在分词短语），说明 velours 的词义",
+    "zh": "意为天鹅绒"
+   },
+   {
+    "text": "and crochet,",
+    "role": "同位语二（由 and 连接），说明第二个词",
+    "zh": "crochet"
+   },
+   {
+    "text": "meaning hook.",
+    "role": "后置定语（现在分词短语），说明 crochet 的词义",
+    "zh": "意为钩子"
+   }
+  ],
+  "structure": "①主语 The name Velcro 中，Velcro 是 name 的同位语，两者之间不加逗号，属于紧密同位语，说明“这个名字”具体是什么。\n②主句 The name Velcro merged two French words：merged 意为“合并了”，宾语是 two French words。\n③逗号后的 velours, meaning velvet, and crochet, meaning hook 是同位语（视频说明），补充说明 two French words 是哪两个词：两个名词 velours 和 crochet 由 and 连接，与 two 对应。\n④两个 meaning 都是现在分词短语，分别说明 velours 和 crochet 的词义（视频说明），相当于 which means velvet、which means hook。meaning 意为“意思是”，主动关系，所以用现在分词。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语：紧密同位语与非限制性同位语",
+    "explain": "同位语有两种：紧密同位语与前面的名词之间不加逗号，关系紧密，常见形式是 the name/word/term + 具体名称，如 the name Velcro、the word democracy；非限制性同位语用逗号隔开，作补充说明，如本句 two French words, velours... and crochet...。前面是带数字的复数名词时，同位语常由几个并列成分组成，逐项对应。考研阅读中，逗号后与前面名词指同一事物的名词短语，常给出定义或具体内容，是答题的线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The word robot comes from a Czech word meaning forced labour.",
+      "zh": "robot 这个词来自一个意为“强迫劳动”的捷克语词。"
+     },
+     {
+      "en": "The survey focused on two groups, retired teachers and recent graduates.",
+      "zh": "这项调查聚焦两个群体：退休教师和应届毕业生。"
+     }
+    ]
+   },
+   {
+    "title": "meaning 引出词义",
+    "explain": "解释词义时，常用现在分词短语 meaning... 作后置定语，相当于 which means...，意为“意思是……”。也可以用 which means、that is 或 i.e. 等说法。本句两个 meaning 分别说明 velours 和 crochet 的意思。写作中解释术语时可用这一结构，如 the Latin word aqua, meaning water。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The town takes its name from an Old English word meaning ford.",
+      "zh": "这座小镇的名字来自一个意为“浅滩”的古英语词。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Velcro",
+    "explain": "魔术贴的品牌名，首字母大写。本句说明它由法语词 velours（天鹅绒）和 crochet（钩子）合成，取两词开头的 vel 和 cro 拼在一起，分别对应魔术贴的毛圈面和钩面。Etymonline 记作源自法语 velours croché（带钩的天鹅绒）。"
+   },
+   {
+    "term": "velours",
+    "explain": "法语词，意为“天鹅绒”，英语中也借用来指一种类似天鹅绒的织物。"
+   },
+   {
+    "term": "crochet",
+    "explain": "法语词，意为“钩子”。英语借入后指“钩针编织”，读音 /ˈkrəʊʃeɪ/（美式 /kroʊˈʃeɪ/），词尾 t 不发音。"
+   },
+   {
+    "term": "merge",
+    "explain": "合并，融合，可作及物动词（merge A and B / merge A with B），也可作不及物动词（The two companies merged）。名词 merger 意为“（公司）合并”，是经济类阅读中的常见词。"
+   }
+  ],
+  "translation_tip": "视频译文“Velcro 这个名字合并了两个法语词，velours 意为天鹅绒，crochet 意为钩子。”的处理：①紧密同位语 The name Velcro 译成“Velcro 这个名字”，把具体名称放在前面，再用“这个名字”收住。②品牌名和两个法语词都保留原文不译，便于看出 Velcro 是由哪两部分拼成的。③同位语中的两个现在分词短语 meaning... 译成“意为……”，与前面的法语词组成两个短句；连接两项的 and 不单独译出，用逗号隔开即可。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "A US patent",
+   "predicate": "followed",
+   "object_or_complement": "",
+   "explain": "主干是 A US patent followed，主谓结构；follow 在此是不及物动词，意为“随后到来，接着发生”。谓语 followed 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A US patent",
+    "role": "主语（US 作前置定语，意为“美国的”）",
+    "zh": "一项美国专利"
+   },
+   {
+    "text": "duly",
+    "role": "方式状语（副词），修饰 followed",
+    "zh": "如期"
+   },
+   {
+    "text": "followed",
+    "role": "谓语（不及物动词）",
+    "zh": "而至"
+   },
+   {
+    "text": "in 1955.",
+    "role": "时间状语（介词短语）",
+    "zh": "1955年"
+   }
+  ],
+  "structure": "①主语 A US patent 中，US 作前置定语，相当于 American；不定冠词 A 译为量词“一项”。\n②谓语 followed 是不及物动词，意为“随后到来”，没有宾语。它隐含的参照点是上文的研制和命名：在这些之后，专利随之而来。\n③duly 是副词，放在主语和谓语之间，表示“按预期地，如期地”，说明专利的取得顺理成章。in 1955 是时间状语。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "follow 作不及物动词：随后发生",
+    "explain": "follow 作及物动词时意为“跟随，遵循”，如 follow the instructions；作不及物动词时意为“接着发生，随后到来”，前文的事件就是它隐含的参照点。本句 A US patent duly followed 即“（研制成功之后）一项美国专利随之而来”。常见相关表达：in the years that followed（在随后的几年里）、as follows（如下）、It follows that...（由此可以推断……）。考研阅读中，It follows that... 常用来引出作者的推论。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A heated debate followed, and the meeting ended without an agreement.",
+      "zh": "随后展开了一场激烈的辩论，会议最终未能达成一致。"
+     },
+     {
+      "en": "In the weeks that followed, dozens of similar cases were reported.",
+      "zh": "在随后的几周里，又有几十起类似病例被报告。"
+     }
+    ]
+   },
+   {
+    "title": "副词在句中的位置",
+    "explain": "duly、soon、finally、quickly 这类修饰谓语的副词，常放在主语和实义动词之间（有助动词时放在助动词之后）。本句 duly 放在 followed 之前，表示专利“如期”到来。写作中副词的位置会影响强调的重点，放在动词前比放在句末更紧凑。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report was duly submitted to the committee before the deadline.",
+      "zh": "报告在截止日期前如期提交给了委员会。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "patent",
+    "explain": "专利，可数名词，常见搭配有 apply for a patent（申请专利）、be granted a patent（获得专利）、a patent expires/runs out（专利到期）。第16句的 When the patent ran out 讲的就是这项专利到期。"
+   },
+   {
+    "term": "duly",
+    "explain": "副词，意为“按预期地，如期地”，也可表示“按规定地，适当地”，如 be duly elected（经正式选举产生）。本句视频译为“如期”，与 followed 合译为“如期而至”。"
+   },
+   {
+    "term": "US",
+    "explain": "the United States 的缩写，作定语时相当于 American，新闻英语中很常见，如 a US company、US officials。英式写法多不加点，美式也常写作 U.S.。"
+   }
+  ],
+  "translation_tip": "视频译文“1955年，一项美国专利如期而至。”的处理：①句末的时间状语 in 1955 提到句首，后加逗号，符合汉语时间在前的习惯。②duly followed 合译为四字短语“如期而至”：duly 对应“如期”，不及物的 followed 不译成“跟随”，而译成“而至”，表示专利随之到来。③不定冠词 A 译成量词“一项”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "a New York fashion show",
+   "predicate": "sent",
+   "object_or_complement": "apparel",
+   "explain": "主干是 a New York fashion show sent apparel，主谓宾结构，down the runway 是方向状语，与 sent 构成 send A down B（让 A 走上 B）。谓语 sent 是 send 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1959",
+    "role": "时间状语（介词短语）",
+    "zh": "1959年"
+   },
+   {
+    "text": "a New York fashion show",
+    "role": "主语（New York 和 fashion 都是名词作前置定语）",
+    "zh": "纽约一场时装秀"
+   },
+   {
+    "text": "sent",
+    "role": "谓语（与 down the runway 构成 send A down B）",
+    "zh": "让……走上"
+   },
+   {
+    "text": "apparel",
+    "role": "宾语",
+    "zh": "服装"
+   },
+   {
+    "text": "stitched with the fasteners",
+    "role": "后置定语（过去分词短语），修饰 apparel",
+    "zh": "缝有这种搭扣的"
+   },
+   {
+    "text": "down the runway.",
+    "role": "方向状语（介词短语）",
+    "zh": "T台"
+   }
+  ],
+  "structure": "①主语 a New York fashion show 的中心词是 show，New York 和 fashion 都是名词作前置定语，分别说明地点和类别。\n②主句 a New York fashion show sent apparel down the runway：send A down B 意为“让 A 走上 B”（视频说明），本句指让服装走上T台展示。主语是“时装秀”这个活动，而不是具体的人，用活动作主语，句子更简洁。\n③stitched with the fasteners 是过去分词短语作后置定语，修饰 apparel（视频说明），相当于 which was stitched with the fasteners：服装是“被缝上”搭扣的，被动关系，所以用过去分词。\n④the fasteners 中的定冠词 the 表示特指，指前文所说的这种尼龙搭扣，是对 Velcro 的同义替换。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词之后作定语，表示被修饰的名词是动作的承受者（被动），或动作已经完成。本句 apparel stitched with the fasteners 中，服装是“被缝上”搭扣的，相当于 apparel which was stitched with the fasteners。长难句中，名词后紧跟的 -ed 形式可能是谓语，也可能是过去分词作定语：本句谓语是前面的 sent，stitched 只能是定语。比较第3句 a hook grasping the small loops，现在分词表示主动。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Furniture made from recycled plastic is becoming increasingly popular.",
+      "zh": "用回收塑料制成的家具越来越受欢迎。"
+     },
+     {
+      "en": "The paintings stolen from the gallery were found in a warehouse two years later.",
+      "zh": "从美术馆被盗的画作两年后在一间仓库里被找到。"
+     }
+    ]
+   },
+   {
+    "title": "无生命名词作主语",
+    "explain": "英语常用表示事物、活动或机构的名词作主语，发出本应由人发出的动作，如 The survey shows...、The conference brought together...。本句 a New York fashion show sent apparel down the runway，“送服装上T台”的实际是组织者和模特，句子用 fashion show 作主语，表达更简洁。汉语译文常把这类句子译成“让……”“使……”，或把主语转成状语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival brought thousands of visitors to the small town.",
+      "zh": "这个节日给小镇带来了成千上万的游客。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "send A down the runway",
+    "explain": "让 A 走上T台，指在时装秀上展示服装，常见于时尚报道，如 The designer sent 40 looks down the runway（这位设计师推出了40套造型）。"
+   },
+   {
+    "term": "runway",
+    "explain": "（时装秀的）T台，美式英语常用，英式英语多用 catwalk；另一个常见义是机场的“跑道”。本句视频译为“T台”。"
+   },
+   {
+    "term": "apparel",
+    "explain": "服装，不可数名词，比 clothes、clothing 正式，多用于商业和时尚领域，如 sports apparel（运动服装）、the apparel industry（服装业）。"
+   },
+   {
+    "term": "fastener",
+    "explain": "扣件，搭扣，泛指拉链、纽扣、按扣等把东西扣在一起的物件。本文多次用不同的词指代 Velcro：the fasteners（本句）、the nylon clasp（第15句）、such mimics 和 hook and loop fasteners（第17句），阅读时要看出它们的指代关系。"
+   }
+  ],
+  "translation_tip": "视频译文“1959年，纽约一场时装秀让缝有这种搭扣的服装走上T台。”的处理：①时间状语 In 1959 照原位放在句首，加逗号。②主语 a New York fashion show 译成“纽约一场时装秀”，把地点放在量词前，更符合汉语习惯。③send A down B 译成“让 A 走上 B”，把无生命主语发出的动作转成使令结构。④过去分词短语 stitched with the fasteners 前移，译成“缝有这种搭扣的”，定冠词 the 译为“这种”，回指前文的尼龙搭扣。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The public",
+   "predicate": "was",
+   "object_or_complement": "less charmed",
+   "explain": "主干是 The public was less charmed，主系表结构；charmed 是过去分词，表示“被吸引、着迷”的状态，less 表示程度较低，than expected 是省略形式的比较状语从句。谓语 was 是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The public",
+    "role": "主语（集合名词）",
+    "zh": "公众"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "less charmed",
+    "role": "表语（less 修饰过去分词 charmed，表示比较级）",
+    "zh": "不如……那样着迷"
+   },
+   {
+    "text": "than expected,",
+    "role": "比较状语从句的省略形式，相当于 than had been expected",
+    "zh": "预期"
+   },
+   {
+    "text": "mostly",
+    "role": "状语（副词），修饰后面的原因状语",
+    "zh": "主要"
+   },
+   {
+    "text": "because of the aesthetic.",
+    "role": "原因状语（介词短语）",
+    "zh": "是因为它的审美"
+   }
+  ],
+  "structure": "①主句 The public was less charmed：主语 The public 是集合名词，这里看作一个整体，谓语用单数 was；less charmed 作表语，less 是 little 的比较级，表示“没有那么……”。\n②than expected 是省略形式的比较状语从句，完整形式相当于 than had been expected，即“比人们预期的程度低”。less A than expected 意为“不如预期那样 A”（视频说明）。\n③mostly because of the aesthetic 是原因状语：because of 是介词短语，后接名词 the aesthetic；mostly 修饰整个原因状语，说明这是主要原因。aesthetic 在这里是名词，指魔术贴的外观样式给人的观感。\n④本句与上句构成转折：时装秀让魔术贴登上了T台，公众却不怎么买账。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "than expected：比较状语从句的省略",
+    "explain": "than 引导的比较状语从句中，常省略与主句重复的部分，只留下过去分词，如 than expected、than planned、than usual、than necessary。本句 less charmed than expected 相当于 less charmed than (had been) expected。as 引导的比较从句也有同样的省略，如 as expected（正如所料）、as planned（按计划）。考研阅读和写作中，“比预期好/差”常写成 better/worse than expected，是数据描述的常用表达。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new bridge cost far more than planned.",
+      "zh": "这座新桥的造价远超计划。"
+     },
+     {
+      "en": "Sales in the first quarter were stronger than expected.",
+      "zh": "第一季度的销售额比预期强劲。"
+     }
+    ]
+   },
+   {
+    "title": "less + 形容词/分词 + than：劣等比较",
+    "explain": "less + 原级 + than 表示“不如……那么……”，与 more + 原级 + than 相对，单音节词也用 less，不加 -er，如 less tall、less charmed。本句 less charmed than expected 即“不如预期那样着迷”。less 与 not as... as... 意思相近：The public was not as charmed as expected。考研阅读中，less... than... 常用来表达态度上的保留，要看清比较的方向。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The second film was less successful than the first.",
+      "zh": "第二部电影不如第一部成功。"
+     },
+     {
+      "en": "Older workers are often less willing to change jobs than younger ones.",
+      "zh": "年长的员工往往不像年轻员工那样愿意换工作。"
+     }
+    ]
+   },
+   {
+    "title": "because of 与 because",
+    "explain": "because of 是复合介词，后接名词、代词或动名词；because 是连词，后接从句。本句 because of the aesthetic 后接名词。写作中常见错误是 because of 后面接完整的句子。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The flight was cancelled because of the storm.",
+      "zh": "航班因暴风雨被取消。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the public",
+    "explain": "公众，集合名词。作主语时，英式英语中谓语可用单数也可用复数，看作整体时用单数，强调其中的个人时用复数；本句用单数 was。the general public 意为“普通大众”。"
+   },
+   {
+    "term": "charm",
+    "explain": "动词，意为“吸引，迷住”，常用被动形式 be charmed by/with sth（被……迷住）；名词意为“魅力”。本句 less charmed 视频译为“不如……那样着迷”。"
+   },
+   {
+    "term": "aesthetic",
+    "explain": "本句作名词，指一件东西外观给人的美感、审美风格，视频译为“它的审美”，“它”指魔术贴本身。aesthetic 也常作形容词，意为“审美的，美学的”，如 aesthetic value（审美价值）。"
+   }
+  ],
+  "translation_tip": "视频译文“公众却不如预期那样着迷，主要是因为它的审美。”的处理：①增补“却”，表示与上句时装秀亮相形成转折。②less charmed than expected 译成“不如预期那样着迷”，把比较的对象“预期”提到“着迷”之前，系动词 was 不单独译出。③原因状语 mostly because of the aesthetic 保留在句末，译成“主要是因为……”；the aesthetic 补出所指，译为“它的审美”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "The underdog",
+   "predicate": "proved",
+   "object_or_complement": "its utility",
+   "explain": "主干是 The underdog proved its utility，主谓宾结构；prove 在此是及物动词，意为“证明”，its utility 是宾语。谓语 proved 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The underdog",
+    "role": "主语（指代魔术贴）",
+    "zh": "这个不被看好的（发明）"
+   },
+   {
+    "text": "proved",
+    "role": "谓语（及物动词）",
+    "zh": "证明了"
+   },
+   {
+    "text": "its utility",
+    "role": "宾语",
+    "zh": "自己的用处"
+   },
+   {
+    "text": "in outer space.",
+    "role": "地点状语（介词短语）",
+    "zh": "在外太空"
+   }
+  ],
+  "structure": "①主语 The underdog 指代上文的魔术贴。underdog 通常指不被看好的一方，也可指大家不太看好的东西或发明（视频说明）；上文讲它起初没人重视、公众也不怎么喜欢，所以这里称它为 underdog。\n②proved its utility 是主谓宾结构，prove 是及物动词“证明”，its 指 the underdog 自己。\n③in outer space 是地点状语，引出第四段魔术贴在太空中的用途。本句是第四段的主题句，后面三句分别讲用途、用量和发明归属。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "prove 的两种用法：及物动词与系动词",
+    "explain": "prove 作及物动词时意为“证明”，后接宾语或宾语从句，如本句 proved its utility、prove that...；作系动词时意为“结果是”，后接表语，如第5句 a cotton version proved too frail。区分方法是看 prove 后面接的是名词宾语（证明什么）还是形容词表语（结果怎样）。prove oneself (to be) 意为“证明自己是……”。考研阅读中两种用法都常见，翻译时前者译“证明了”；后者可译“结果是”“事实证明”，第5句视频译文按汉语习惯译为“被证明”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The young striker quickly proved his worth to the team.",
+      "zh": "这名年轻前锋很快就向球队证明了自己的价值。"
+     },
+     {
+      "en": "The experiment proved that the drug was safe for children.",
+      "zh": "这项实验证明，这种药对儿童是安全的。"
+     }
+    ]
+   },
+   {
+    "title": "用名词指代前文事物",
+    "explain": "英语写作常用一个带评价色彩的名词回指前文提到的事物，避免重复，同时表达作者的看法。本句用 The underdog 回指魔术贴，既避免重复 Velcro，又概括了它前期不受重视的处境。考研阅读中，这类回指名词往往体现作者态度，代词和名词的指代关系也是常考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Critics dismissed the novel at first, but the overlooked book went on to win several awards.",
+      "zh": "评论家起初对这部小说不屑一顾，但这本被忽视的书后来赢得了好几个奖项。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "underdog",
+    "explain": "常指比赛中不被看好、处于劣势的一方，如 support the underdog（支持弱势一方）；也可指大家不太看好的东西或发明（视频说明）。本句视频译为“这个不被看好的（发明）”。"
+   },
+   {
+    "term": "utility",
+    "explain": "用处，实用性，正式用词；也指水、电、燃气等“公用事业”，常用复数 utilities，如 utility bills（水电燃气费账单）。"
+   },
+   {
+    "term": "outer space",
+    "explain": "外太空，外层空间，指地球大气层以外的空间，不加冠词。space 单独使用时也可指太空，如 travel in space。"
+   }
+  ],
+  "translation_tip": "视频译文“这个不被看好的（发明）在外太空证明了自己的用处。”的处理：①The underdog 译成“这个不被看好的（发明）”，用括号补出所指的对象，避免读者误以为指人或动物。②句末的地点状语 in outer space 提到谓语前，译成“在外太空”。③its 译为“自己的”，强调是它本身的用处得到证明。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "used",
+   "object_or_complement": "it",
+   "explain": "主干是 NASA used it，主谓宾结构，it 指魔术贴。谓语 used 是一般过去时，主动语态；后面依次跟地点状语、不定式目的状语和 so that 引导的目的状语从句。"
+  },
+  "components": [
+   {
+    "text": "NASA",
+    "role": "主语",
+    "zh": "美国航天局"
+   },
+   {
+    "text": "used",
+    "role": "谓语",
+    "zh": "使用了"
+   },
+   {
+    "text": "it",
+    "role": "宾语（指上句的 The underdog，即魔术贴）",
+    "zh": "它"
+   },
+   {
+    "text": "in the Apollo programme",
+    "role": "状语（介词短语），说明在什么项目中使用",
+    "zh": "在阿波罗计划中"
+   },
+   {
+    "text": "to keep",
+    "role": "目的状语（不定式短语）的谓语部分",
+    "zh": "以便……保持"
+   },
+   {
+    "text": "gear",
+    "role": "keep 的宾语",
+    "zh": "装备"
+   },
+   {
+    "text": "anchored",
+    "role": "宾语补足语（过去分词），说明 gear 的状态",
+    "zh": "固定"
+   },
+   {
+    "text": "in weightlessness,",
+    "role": "状语（介词短语），说明在什么状态下",
+    "zh": "在失重状态下"
+   },
+   {
+    "text": "so that",
+    "role": "连词，引导目的状语从句",
+    "zh": "从而"
+   },
+   {
+    "text": "nothing",
+    "role": "从句主语（否定代词）",
+    "zh": "没有任何东西"
+   },
+   {
+    "text": "would hover",
+    "role": "从句谓语（情态动词 would + 动词原形）",
+    "zh": "会……飘浮"
+   },
+   {
+    "text": "in mid-air.",
+    "role": "从句的地点状语（介词短语）",
+    "zh": "在半空中"
+   }
+  ],
+  "structure": "①主句 NASA used it in the Apollo programme：主语 NASA，谓语 used，宾语 it 指魔术贴，in the Apollo programme 是状语，说明用在哪个项目中。\n②to keep gear anchored in weightlessness 是不定式短语作目的状语（视频说明）。不定式内部是 keep + 宾语 + 宾语补足语结构：gear 是 keep 的宾语，过去分词 anchored 作宾语补足语，keep A anchored 意为“让 A 保持固定”（视频说明）；gear 是“被固定”的一方，所以用过去分词。in weightlessness 是状语，说明在失重状态下。\n③so that 引导目的状语从句（视频说明）。从句主语是否定代词 nothing，谓语 would hover 由情态动词 would 加动词原形构成，in mid-air 是地点状语。主句是过去时，从句相应用 will 的过去式 would，视频译为“会”；否定意义来自 nothing。\n④全句由近及远地说明目的：用魔术贴是为了固定装备，固定装备是为了不让任何东西飘在半空中。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "keep + 宾语 + 过去分词（宾语补足语）",
+    "explain": "keep 后接宾语和宾语补足语，表示“使……保持某种状态”。宾语补足语可以是形容词（keep the room clean）、现在分词（keep sb waiting）、过去分词（keep the door locked）或介词短语（keep sth in place）。宾语与动作是被动关系时用过去分词，是主动关系时用现在分词。本句 keep gear anchored 中，装备是“被固定”的，所以用 anchored。考研写作中 keep sb informed（让某人随时了解情况）、keep costs under control 都很常用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Please keep all medicines locked away from children.",
+      "zh": "请把所有药品锁好，放在儿童拿不到的地方。"
+     },
+     {
+      "en": "The manager promised to keep the staff informed of any changes.",
+      "zh": "经理承诺会把任何变动及时告知员工。"
+     }
+    ]
+   },
+   {
+    "title": "so that 引导目的状语从句",
+    "explain": "so that 引导目的状语从句，表示“以便，为了”，从句中常用情态动词 can、could、may、might、will、would。主句是过去时，从句相应用 could、would、might。本句 so that nothing would hover in mid-air 说明使用魔术贴的目的。易混点：so that 也可引导结果状语从句，表示“因此，结果”，此时从句一般不用情态动词，前面常有逗号；要根据语义判断，本句按视频说明是目的状语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She spoke slowly so that everyone in the hall could follow her.",
+      "zh": "她说得很慢，以便大厅里的每个人都能听懂。"
+     },
+     {
+      "en": "The farmers built a high fence so that the deer would stay out of the fields.",
+      "zh": "农民们筑起了高高的篱笆，好让鹿进不了田地。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作目的状语",
+    "explain": "不定式放在句中或句末，可以说明主句动作的目的，相当于 in order to do。本句 to keep gear anchored 说明 NASA 使用魔术贴的目的。强调目的或放在句首时，常用 in order to 或 so as to（so as to 一般不放在句首）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Engineers added extra bolts to keep the panels secure during the storm.",
+      "zh": "工程师们加装了螺栓，以便在暴风雨中固定住这些面板。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NASA",
+    "explain": "National Aeronautics and Space Administration 的首字母缩写，美国国家航空航天局，1958年成立，负责美国的航天和航空研究。作为首字母缩略词按单词读作 /ˈnæsə/，前面不加 the。视频译为“美国航天局”。"
+   },
+   {
+    "term": "the Apollo programme",
+    "explain": "阿波罗计划，美国在20世纪60年代至70年代初实施的载人登月计划。programme 是英式拼写，美式拼写为 program。"
+   },
+   {
+    "term": "weightlessness",
+    "explain": "失重，由 weight（重量）+ -less（无）+ -ness（名词后缀）构成，不可数名词；in weightlessness 意为“在失重状态下”。"
+   },
+   {
+    "term": "in mid-air",
+    "explain": "在半空中，固定搭配，如 The ball seemed to hang in mid-air。mid-air 作定语时意为“空中的”，如 a mid-air collision（空中相撞）。"
+   },
+   {
+    "term": "gear",
+    "explain": "本句是不可数名词，意为“装备，用具”，如 camping gear（露营装备）、safety gear（安全装备）；另一个常见义是汽车的“挡位”。"
+   }
+  ],
+  "translation_tip": "视频译文“美国航天局在阿波罗计划中使用了它，以便在失重状态下保持装备固定，从而没有任何东西会在半空中飘浮。”的处理：①地点状语 in the Apollo programme 前移到谓语前，译成“在阿波罗计划中使用了它”。②不定式目的状语译成“以便……”，其中的状语 in weightlessness 提前，译成“在失重状态下”；keep gear anchored 译成“保持装备固定”。③so that 从句另起一个分句，用“从而”与前文衔接；否定代词 nothing 译成“没有任何东西”，would 译成“会”。全句按原文顺序层层推进，没有打乱语序。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Apollo 11",
+   "predicate": "was equipped with",
+   "object_or_complement": "a sizeable amount（介词 with 的宾语）",
+   "explain": "主干是 Apollo 11 was equipped with a sizeable amount，被动结构 be equipped with（配备有），一般过去时，被动语态；about 3,300 square inches 是 amount 的同位语。"
+  },
+  "components": [
+   {
+    "text": "Apollo 11",
+    "role": "主语（专有名词，指阿波罗11号飞船）",
+    "zh": "阿波罗11号"
+   },
+   {
+    "text": "was equipped with",
+    "role": "谓语（被动语态，be equipped with）",
+    "zh": "配备了"
+   },
+   {
+    "text": "a sizeable amount,",
+    "role": "介词 with 的宾语",
+    "zh": "相当多的用量"
+   },
+   {
+    "text": "about",
+    "role": "副词，修饰数词，表示约数",
+    "zh": "约"
+   },
+   {
+    "text": "3,300",
+    "role": "数词，修饰 square inches",
+    "zh": "3,300"
+   },
+   {
+    "text": "square inches.",
+    "role": "同位语 about 3,300 square inches 的中心词，补充说明 amount",
+    "zh": "平方英寸"
+   }
+  ],
+  "structure": "①主句 Apollo 11 was equipped with a sizeable amount：be equipped with 是被动结构，意为“配备有”（视频说明），主语 Apollo 11 是被配备的一方；with 后的 a sizeable amount 指魔术贴的用量。\n②逗号后的 about 3,300 square inches 是同位语，补充说明 amount（视频说明），给出具体数字。about 是副词，意为“大约”；square inches 意为“平方英寸”。\n③先用 sizeable 概括“用量相当多”，再用同位语给出具体数字，是英语“先概括、后具体”的常见写法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be equipped with：被动语态表示状态",
+    "explain": "equip 是及物动词，主动结构是 equip A with B（给 A 配备 B），被动结构是 A be equipped with B（A 配备有 B）。本句 Apollo 11 was equipped with... 着眼于飞船本身具备什么，不关心是谁配备的，所以用被动语态。这类被动结构常表示状态，类似的还有 be covered with、be filled with、be made of。考研写作中常说 be equipped with the skills/knowledge to do sth（具备做某事的技能/知识）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "All the classrooms are equipped with projectors and air conditioning.",
+      "zh": "所有教室都配备了投影仪和空调。"
+     },
+     {
+      "en": "Graduates should be equipped with the skills to adapt to a changing job market.",
+      "zh": "毕业生应当具备适应不断变化的就业市场的技能。"
+     }
+    ]
+   },
+   {
+    "title": "同位语给出具体数据",
+    "explain": "名词后用逗号隔开的数量短语，常作同位语，给前面的概括性名词补充具体数字，如 a large sum, about $2 million。本句 a sizeable amount, about 3,300 square inches 中，同位语把“相当多”具体化。考研阅读中，这种结构的数字往往是细节题的出处。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The charity raised a considerable sum, nearly half a million pounds.",
+      "zh": "这家慈善机构筹集了一笔可观的款项，近50万英镑。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Apollo 11",
+    "explain": "阿波罗11号，1969年7月实现人类首次登月的飞行任务，是阿波罗计划中最著名的一次。"
+   },
+   {
+    "term": "square inch",
+    "explain": "平方英寸。1英寸等于2.54厘米，3,300平方英寸约合2.1平方米。英语数字每三位用逗号分隔，3,300 读作 three thousand three hundred。"
+   },
+   {
+    "term": "sizeable",
+    "explain": "相当大的，相当多的，英式拼写，美式多拼作 sizable，常见搭配有 a sizeable amount/sum/minority。视频译为“相当多的”。"
+   },
+   {
+    "term": "amount",
+    "explain": "数量，amount of 后一般接不可数名词，如 a large amount of money；接可数名词复数用 number，如 a large number of people。本句 a sizeable amount 指魔术贴的用量。"
+   }
+  ],
+  "translation_tip": "视频译文“阿波罗11号配备了相当多的用量，约3,300平方英寸。”的处理：①被动结构 was equipped with 转译为主动形式“配备了”，汉语不用“被”字。②同位语保留在句末，用逗号隔开，译成“约3,300平方英寸”，数字照原文保留。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "did not invent",
+   "object_or_complement": "the nylon clasp",
+   "explain": "主干是 NASA did not invent the nylon clasp，主谓宾结构，否定句。谓语由助动词 did、否定词 not 和动词原形 invent 构成，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "NASA",
+    "role": "主语",
+    "zh": "美国航天局"
+   },
+   {
+    "text": "did not invent",
+    "role": "谓语（助动词 did + not + 动词原形）",
+    "zh": "并没有发明"
+   },
+   {
+    "text": "the nylon clasp.",
+    "role": "宾语（nylon 是名词作前置定语，表示材料）",
+    "zh": "这种尼龙扣件"
+   }
+  ],
+  "structure": "①主语 NASA，谓语 did not invent，宾语 the nylon clasp。一般过去时的否定由助动词 did 加 not 构成，后面的实义动词用原形。\n②the nylon clasp 回指魔术贴：nylon 是名词作前置定语，表示材料，与第6句改用尼龙相呼应；clasp 意为“扣件”，是 Velcro 的又一个同义替换。\n③前两句讲美国航天局大量使用魔术贴，读者容易以为它出自航天局。本句用一个简短的否定句随即澄清，与第一段 George de Mestral 的发明经过相照应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一般过去时的否定句",
+    "explain": "一般过去时的实义动词变否定，要借助助动词 did，结构是 did not (didn't) + 动词原形，过去时态体现在 did 上，后面的动词不能再用过去式。本句 did not invent 不能写成 did not invented。be 动词和情态动词的否定直接在后面加 not，如 was not、could not。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company did not invent the technology, but it was the first to sell it on a large scale.",
+      "zh": "这家公司并没有发明这项技术，但它率先把这项技术大规模推向了市场。"
+     }
+    ]
+   },
+   {
+    "title": "同义替换与指代",
+    "explain": "英语文章为避免重复，常用不同的名词指同一事物。本文指魔术贴的就有 Velcro、the fasteners、The underdog、it、the nylon clasp、such mimics（指仿品）等。考研阅读中，题干和选项常用原文的同义替换来出题，要能看出这些词指的是同一个对象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The smartphone changed daily life; within a decade the device had become indispensable.",
+      "zh": "智能手机改变了日常生活；不到十年，这种设备就已变得不可或缺。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "clasp",
+    "explain": "扣件，扣环，指项链、手袋、腰带等上面把两端扣住的小部件，如 the clasp of a necklace（项链的搭扣）；作动词意为“紧握，抱紧”，如 clasp one's hands。本句视频译为“扣件”。"
+   },
+   {
+    "term": "invent",
+    "explain": "发明，指创造出前所未有的东西；名词 invention（发明）、inventor（发明者）。与 discover（发现已经存在的东西）不同。"
+   }
+  ],
+  "translation_tip": "视频译文“美国航天局并没有发明这种尼龙扣件。”的处理：①did not 译成“并没有”，增补“并”，加强否定语气，表示纠正读者可能产生的误解。②定冠词 the 译成“这种”，回指前文讲到的魔术贴；nylon 作定语译成“尼龙”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "cut-price knock-offs from other countries（分句一）；a niche product（分句二）",
+   "predicate": "overran（分句一）；went（分句二）",
+   "object_or_complement": "the market（overran 的宾语）；mainstream（went 的表语）",
+   "explain": "主句是由 and 连接的两个并列分句：第一个是主谓宾结构，第二个是主系表结构，went 是系动词，意为“变成”。两个谓语都是一般过去时，主动语态；句首是 When 引导的时间状语从句。"
+  },
+  "components": [
+   {
+    "text": "When the patent ran out in 1978,",
+    "role": "时间状语从句（When 引导）",
+    "zh": "1978年专利到期后"
+   },
+   {
+    "text": "cut-price",
+    "role": "前置定语（复合形容词），修饰 knock-offs",
+    "zh": "廉价的"
+   },
+   {
+    "text": "knock-offs",
+    "role": "主语（第一个分句）",
+    "zh": "仿制品/山寨品"
+   },
+   {
+    "text": "from other countries",
+    "role": "后置定语（介词短语），修饰 knock-offs",
+    "zh": "来自其他国家的"
+   },
+   {
+    "text": "overran",
+    "role": "谓语（第一个分句）",
+    "zh": "泛滥于"
+   },
+   {
+    "text": "the market,",
+    "role": "宾语",
+    "zh": "市场"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个并列分句",
+    "zh": "（并列连词，视频译文未单独译出）"
+   },
+   {
+    "text": "a niche product",
+    "role": "主语（第二个分句）",
+    "zh": "一种小众产品"
+   },
+   {
+    "text": "went",
+    "role": "谓语（系动词，意为“变成”）",
+    "zh": "成了"
+   },
+   {
+    "text": "mainstream.",
+    "role": "表语（形容词）",
+    "zh": "主流"
+   }
+  ],
+  "structure": "①When the patent ran out in 1978 是时间状语从句（视频说明），从句主语 the patent，谓语 ran out，run out 意为“到期”（视频说明）；in 1978 是从句中的时间状语。\n②第一个分句 cut-price knock-offs from other countries overran the market：主语中心词 knock-offs，前有复合形容词 cut-price 作前置定语，后有介词短语 from other countries 作后置定语（视频说明）；谓语 overran 是 overrun 的过去式，宾语 the market。\n③第二个分句 a niche product went mainstream：go mainstream 意为“成为主流”（视频说明），go 在这里是系动词，表示状态的变化，mainstream 是形容词作表语。niche 作 product 的定语，意为“小众的”。\n④两个分句之间是因果递进：专利到期，各国廉价仿品涌入，原本小众的产品因此普及开来。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "go 作系动词表示变化",
+    "explain": "go 可以作系动词，后接形容词，表示“变成（某种状态）”，多用于变化明显或不太好的情况，如 go bad（变质）、go wrong（出错）、go bankrupt（破产）、go viral（迅速走红）。本句 went mainstream 即“成了主流”。与 become、get、turn 相比，go 的搭配比较固定，多与特定形容词连用；考研阅读里 go mainstream、go public（上市）、go digital（数字化）都很常见。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Electric cars have gone mainstream in many European countries.",
+      "zh": "在许多欧洲国家，电动汽车已经成为主流。"
+     },
+     {
+      "en": "The video went viral within hours of being posted.",
+      "zh": "这段视频发布后几小时内就迅速走红。"
+     }
+    ]
+   },
+   {
+    "title": "run out 与 run out of",
+    "explain": "run out 是不及物短语动词，主语是物，意为“（合同、期限等）到期”或“（供应）用完”，如 Time is running out；run out of 是及物用法，主语通常是人或机构，意为“用完，耗尽某物”，如 We have run out of milk。本句 the patent ran out 是“专利到期”。写作中常见错误是把 run out 当及物动词用，写成 We ran out the money。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The lease on the shop runs out next spring.",
+      "zh": "这家店铺的租约明年春天到期。"
+     },
+     {
+      "en": "The expedition ran out of fresh water after three days.",
+      "zh": "三天后，探险队的淡水用完了。"
+     }
+    ]
+   },
+   {
+    "title": "when 引导的时间状语从句",
+    "explain": "when 引导时间状语从句，表示“当……时，在……之后”，主从句都用一般过去时，叙述先后发生的事。本句 When the patent ran out 表示专利到期之后，仿品才涌入市场。翻译时 when 不一定译成“当……的时候”，可按先后关系译成“……后”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When the factory closed, hundreds of families lost their main source of income.",
+      "zh": "工厂关闭后，数百个家庭失去了主要收入来源。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "knock-off",
+    "explain": "非正式用词，指仿制品、山寨品，尤指仿冒名牌的廉价货，如 designer knock-offs（仿冒名牌）。视频译为“仿制品/山寨品”。"
+   },
+   {
+    "term": "cut-price",
+    "explain": "复合形容词，意为“廉价的，打折的”，英式英语常用，如 cut-price goods；美式英语也说 cut-rate。"
+   },
+   {
+    "term": "overrun",
+    "explain": "动词，过去式 overran，过去分词 overrun，意为“（大量不受欢迎的东西）涌入，泛滥于”，常用被动形式 be overrun with/by，如 The garden was overrun with weeds。视频译为“泛滥于”。"
+   },
+   {
+    "term": "niche",
+    "explain": "原指墙上的壁龛，引申为“合适的位置”和“小众市场”，如 a niche market（小众市场）、find a niche（找到自己的位置）。本句作 product 的定语，视频译为“小众”。"
+   },
+   {
+    "term": "go mainstream",
+    "explain": "成为主流（视频说明）。mainstream 作名词指“主流”，作形容词指“主流的”，如 mainstream media（主流媒体）。"
+   }
+  ],
+  "translation_tip": "视频译文“1978年专利到期后，来自其他国家的廉价的仿制品/山寨品泛滥于市场，一种小众产品成了主流。”的处理：①When 从句不译成“当……的时候”，而是按先后关系译成“……后”；从句中的 in 1978 提到最前，译成“1978年专利到期后”。②主语的前置定语 cut-price 和后置定语 from other countries 都放到中心词前，后置定语在前，译成“来自其他国家的廉价的仿制品/山寨品”。③连接两个分句的 and 不单独译出，用逗号连接，两个分句的先后已体现因果。④系表结构 went mainstream 译成“成了主流”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "the company",
+   "predicate": "asked",
+   "object_or_complement": "people（宾语）；to call such mimics hook and loop fasteners（宾语补足语）",
+   "explain": "主干是 the company asked people to call such mimics hook and loop fasteners，主谓宾宾补结构（ask sb to do）。谓语 asked 是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 2017,",
+    "role": "时间状语（介词短语）",
+    "zh": "2017年"
+   },
+   {
+    "text": "to stop",
+    "role": "目的状语（不定式短语）的谓语部分",
+    "zh": "为了阻止"
+   },
+   {
+    "text": "its brand-name",
+    "role": "stop 的宾语",
+    "zh": "其品牌名"
+   },
+   {
+    "text": "melting into a generic noun,",
+    "role": "宾语补足语（现在分词短语），与 stop 构成 stop sth (from) doing",
+    "zh": "逐渐消融为一个通用的名词"
+   },
+   {
+    "text": "the company",
+    "role": "主语",
+    "zh": "该公司"
+   },
+   {
+    "text": "asked",
+    "role": "谓语",
+    "zh": "要求"
+   },
+   {
+    "text": "people",
+    "role": "宾语",
+    "zh": "人们"
+   },
+   {
+    "text": "to call",
+    "role": "宾语补足语（不定式），与 asked 构成 ask sb to do",
+    "zh": "把……称作为"
+   },
+   {
+    "text": "such mimics",
+    "role": "call 的宾语",
+    "zh": "这类仿品"
+   },
+   {
+    "text": "hook and loop fasteners.",
+    "role": "call 的宾语补足语（名词短语），与 call 构成 call A B",
+    "zh": "钩毛搭扣"
+   }
+  ],
+  "structure": "①句首两个状语：In 2017 是时间状语；to stop its brand-name melting into a generic noun 是不定式短语作目的状语，放在主语前，说明公司这样做的原因。\n②目的状语内部是 stop + 宾语 + 现在分词 结构：its brand-name 是 stop 的宾语，melting into a generic noun 说明要阻止的动作，stop sth (from) doing 意为“阻止某物做某事”。melt into 意为“逐渐融入/消融为”（视频说明），强调失去原有的边界或独特性，完全变成另一事物，即品牌名变成任何同类产品都能用的普通名词。\n③主句 the company asked people to call such mimics hook and loop fasteners：ask A to do 意为“请 A 做……”（视频说明），people 是宾语，不定式 to call... 作宾语补足语。\n④不定式内部是 call A B 结构（视频说明）：such mimics 是 call 的宾语，hook and loop fasteners 是宾语补足语，说明把仿品叫作什么。such mimics 指上句的 cut-price knock-offs。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "stop sb/sth (from) doing",
+    "explain": "stop、prevent、keep 都可以表示“阻止某人或某物做某事”：stop/prevent sb (from) doing sth 中，from 在英式英语中常可省略（prevent 省略 from 较少见）；keep sb from doing sth 中的 from 不能省略，否则 keep sb doing 变成“让某人一直做某事”，意思相反。本句 stop its brand-name melting into a generic noun 省略了 from。考研翻译和写作中，要注意 keep sb from doing 与 keep sb doing 的区别。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy snow stopped the rescue teams reaching the village for two days.",
+      "zh": "大雪使救援队两天都没能到达那个村子。"
+     },
+     {
+      "en": "New rules aim to prevent banks from taking excessive risks.",
+      "zh": "新规旨在防止银行承担过度风险。"
+     }
+    ]
+   },
+   {
+    "title": "call A B：名词作宾语补足语",
+    "explain": "call、name、elect、appoint、consider、make 等动词可以接“宾语 + 名词”，后一个名词是宾语补足语，说明宾语的名称、身份或性质。本句 call such mimics hook and loop fasteners 中，such mimics 是宾语，hook and loop fasteners 是宾补。被动形式是 A be called B，如 Such products are called hook and loop fasteners。不要把宾补误认为第二个宾语：双宾语结构（give sb sth）中，两个宾语指不同的对象；宾补结构中，宾语和宾补指同一事物。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee elected her chair for a second term.",
+      "zh": "委员会选举她连任主席。"
+     },
+     {
+      "en": "Scientists call this process photosynthesis.",
+      "zh": "科学家把这一过程称作光合作用。"
+     }
+    ]
+   },
+   {
+    "title": "ask sb to do：不定式作宾语补足语",
+    "explain": "ask、tell、urge、encourage、allow、require 等动词常接“宾语 + 不定式”，不定式作宾语补足语，说明要宾语做的事。本句 asked people to call... 中，people 是宾语，to call... 是宾补。否定形式把 not 放在 to 前，如 ask people not to use the name。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The library asks visitors to keep their phones on silent.",
+      "zh": "图书馆要求读者把手机调成静音。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "melt into",
+    "explain": "视频说明：melt into 意为“逐渐融入/消融为（某某）”，强调失去原有的边界或独特性，完全变成另一事物，如 melt into the crowd（消失在人群中）。本句视频译为“逐渐消融为”。"
+   },
+   {
+    "term": "generic",
+    "explain": "通用的，泛指的，与特定品牌、特定对象相对，如 a generic term（通称）、generic drugs（仿制药，非专利药）。本句 a generic noun 指可以泛指同类产品的普通名词，视频译为“一个通用的名词”。"
+   },
+   {
+    "term": "品牌名变成通用名词",
+    "explain": "一个品牌名如果被大众当作某类产品的通称，在法律上可能失去商标保护。例如 escalator（自动扶梯）原是一个公司的商标，后来成了普通名词。Velcro 公司请人们改用 hook and loop fasteners 这个通称，就是为了防止 Velcro 变成这样的普通名词。"
+   },
+   {
+    "term": "hook and loop fastener",
+    "explain": "钩毛搭扣，魔术贴的通用名称，按结构命名：一面是钩子（hook），一面是毛圈（loop）。视频译为“钩毛搭扣”。"
+   },
+   {
+    "term": "mimic",
+    "explain": "本句作名词，意为“仿品”；也常指“模仿者，善于模仿的人或动物”。作动词意为“模仿”，过去式 mimicked，现在分词 mimicking，要在词尾 c 后加 k。such mimics 指上句的 knock-offs。"
+   }
+  ],
+  "translation_tip": "视频译文“2017年，为了阻止其品牌名逐渐消融为一个通用的名词，该公司要求人们把这类仿品称作为“钩毛搭扣”。”的处理：①两个状语都保留在句首，时间在前、目的在后，目的状语译成“为了……”。②melting into 译成“逐渐消融为”，“逐渐”体现现在分词所表示的渐进过程。③call A B 用“把”字句译成“把这类仿品称作为……”，宾语提前，宾补放在动词后；the company 译为“该公司”，such mimics 译为“这类仿品”。④通用名称 hook and loop fasteners 加引号，译成“钩毛搭扣”，表示这是一个名称。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "the firm",
+   "predicate": "was asking",
+   "object_or_complement": "the public（宾语）；to stop using its own name for rivals' goods（宾语补足语）",
+   "explain": "主干是 the firm was asking the public to stop..., 主谓宾宾补结构（ask sb to do）。谓语 was asking 是过去进行时，主动语态，用来对上句公司的做法加以解释和定性。"
+  },
+  "components": [
+   {
+    "text": "In effect,",
+    "role": "插入语（介词短语），表示“实际上”",
+    "zh": "实际上"
+   },
+   {
+    "text": "the firm",
+    "role": "主语（指上句的 the company）",
+    "zh": "这家公司"
+   },
+   {
+    "text": "was asking",
+    "role": "谓语（过去进行时）",
+    "zh": "是在请求"
+   },
+   {
+    "text": "the public",
+    "role": "宾语",
+    "zh": "公众"
+   },
+   {
+    "text": "to stop",
+    "role": "宾语补足语（不定式）",
+    "zh": "停止"
+   },
+   {
+    "text": "using",
+    "role": "stop 的宾语（动名词短语）的中心词",
+    "zh": "将……用在"
+   },
+   {
+    "text": "its own name",
+    "role": "using 的宾语",
+    "zh": "其自己的名字"
+   },
+   {
+    "text": "for rivals' goods.",
+    "role": "状语（介词短语），与 use 构成 use A for B",
+    "zh": "对手的商品上"
+   }
+  ],
+  "structure": "①In effect 是插入语，意为“实际上”，表明本句是对上句做法的实质概括。\n②主句 the firm was asking the public to stop...：the firm 指上句的 the company，是同义替换；was asking 是过去进行时，用来解释上句公司那项请求的实质；ask A to do 结构中，the public 是宾语，to stop... 是宾语补足语。\n③stop 后接动名词短语 using its own name for rivals' goods，表示“停止做某事”。use A for B 意为“把 A 用于 B”（视频说明）：its own name 是 using 的宾语，for rivals' goods 说明用在什么上。rivals' 是复数名词 rivals 的所有格，只加撇号。\n④本句点出全文的反讽：一家公司本该希望自己的名字越响亮越好，却不得不请公众别再用它的名字去称呼竞争对手的产品。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "stop doing 与 stop to do",
+    "explain": "stop doing sth 意为“停止正在做或一直在做的事”，动名词作 stop 的宾语；stop to do sth 意为“停下来（原来的事）去做另一件事”，不定式作目的状语。本句 stop using its own name 是要公众不再用 Velcro 来称呼对手的商品。类似的还有 remember/forget doing（记得/忘记做过）与 remember/forget to do（记得/忘记要做），是考研完形和语法的常考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Doctors advised him to stop smoking immediately.",
+      "zh": "医生建议他立即戒烟。"
+     },
+     {
+      "en": "Halfway up the hill, the hikers stopped to admire the view.",
+      "zh": "爬到半山腰，徒步者们停下来欣赏风景。"
+     }
+    ]
+   },
+   {
+    "title": "过去进行时用于解释、定性",
+    "explain": "过去进行时（was/were doing）除了表示过去某一时刻正在进行的动作，还可以用来解释前面提到的行为，说明“那样做实际上是在做什么”，常与 in effect、in fact、really 等词连用。本句 In effect, the firm was asking... 就是对上句 asked people to call... 的重新解释。翻译时常译成“是在……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By refusing to sign the agreement, the minister was in effect admitting defeat.",
+      "zh": "这位部长拒绝签署协议，实际上是在承认失败。"
+     }
+    ]
+   },
+   {
+    "title": "复数名词的所有格",
+    "explain": "以 -s 结尾的复数名词变所有格时只加撇号，如 rivals' goods（对手们的商品）、students' opinions；不以 -s 结尾的复数名词加 's，如 children's books、women's rights。本句 rivals' 表示复数，指众多竞争对手。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The teachers' union rejected the government's latest offer.",
+      "zh": "教师工会拒绝了政府的最新方案。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in effect",
+    "explain": "实际上，事实上，用来概括某事的实质，常放在句首，后加逗号。注意与 come into effect / take effect（生效）区分，如 The new law will come into effect next month。"
+   },
+   {
+    "term": "use A for B",
+    "explain": "把 A 用于 B（或用 A 来做 B）（视频说明）。本句 use its own name for rivals' goods 指用 Velcro 这个名字来称呼对手的商品，视频译为“将其自己的名字用在对手的商品上”。"
+   },
+   {
+    "term": "rival",
+    "explain": "竞争对手，可数名词，如 a business rival；作形容词意为“竞争的”，如 rival companies。名词 rivalry 意为“竞争，较量”。"
+   },
+   {
+    "term": "firm",
+    "explain": "公司，与 company 同义；作形容词意为“坚定的，牢固的”。本句 the firm 与上句 the company 指同一家公司，是同义替换。"
+   }
+  ],
+  "translation_tip": "视频译文“实际上，这家公司是在请求公众停止将其自己的名字用在对手的商品上。”的处理：①In effect 放在句首，译成“实际上”，后加逗号。②过去进行时 was asking 译成“是在请求”，“是在”体现对上句行为的解释。③use its own name for rivals' goods 用“将”字句译成“将其自己的名字用在对手的商品上”，宾语提到动词前，for 短语译成“用在……上”；the firm 译为“这家公司”。"
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "key": "n=1",
+  "field": "structure",
+  "before": "return from 的宾语可以是地点（return from Paris），也可以是一项活动（return from work）",
+  "after": "from 后面可以接地点（return from Paris），也可以接一项活动（return from work）",
+  "reason": "return from 是动词加介词，后面的名词或动名词是介词 from 的宾语，说成“return from 的宾语”术语不准确。"
+ },
+ {
+  "key": "n=1",
+  "field": "grammar[0].explain",
+  "before": "翻译时可以按原位保留，也可以前移作定语，如“瑞士工程师乔治·德·梅斯特拉尔”。",
+  "after": "翻译时可以按原位保留（本句视频译文即如此），也可以前移作定语，如例句一的 Marie Curie, a Polish-born physicist 可译为“出生于波兰的物理学家玛丽·居里”。",
+  "reason": "原文给本句同位语另拟了译法“瑞士工程师乔治·德·梅斯特拉尔”，违反“不另立译法”；改用文外例句说明前移译法。"
+ },
+ {
+  "key": "n=3",
+  "field": "knowledge[3].explain",
+  "before": "复数 clothes 是“衣服”，读音和意思都不同。",
+  "after": "cloth 的复数是 cloths（几块布）；clothes（衣服）是另一个只用复数形式的名词，不是 cloth 的复数，读音 /kləʊðz/，意思也不同。",
+  "reason": "clothes 不是 cloth 的复数（cloth 的复数是 cloths），原说法是事实错误。"
+ },
+ {
+  "key": "n=5",
+  "field": "grammar[1].explain",
+  "before": "系动词没有被动语态，所以“结果证明很脆弱”用主动形式 proved too frail，不能写成 was proved too frail。",
+  "after": "系动词没有被动语态，“结果证明很脆弱”用主动形式 proved too frail 即可。如果写成 was proved too frail，prove 就成了及物动词“证明”的被动（强调有人证明了这一点，类似 He was proved wrong），与系动词用法侧重不同。",
+  "reason": "was proved + 形容词（如 was proved wrong）是合乎语法的及物动词被动式，说“不能写成”不准确，改为说明两者侧重不同。"
+ },
+ {
+  "key": "n=6",
+  "field": "knowledge[1].explain",
+  "before": "textile 指纺织品，作定语时常用复数形式 textiles，如 the textiles industry（纺织业）。",
+  "after": "textile 指纺织品，作定语时单复数都可用，如 the textile industry 或 the textiles industry（纺织业），本句用复数 textiles。",
+  "reason": "作定语时单数 textile 更常见，“常用复数”说法过度，且与单词精解 textile 条“单复数都可用”矛盾。"
+ },
+ {
+  "key": "n=8",
+  "field": "grammar[1].examples[0].en",
+  "before": "from an old English word meaning ford.",
+  "after": "from an Old English word meaning ford.",
+  "reason": "指“古英语”这门语言时 Old English 首字母大写；小写 old English 意思是“古老的英语词”，与译文“古英语词”不符。"
+ },
+ {
+  "key": "n=11",
+  "field": "grammar[0].explain",
+  "before": "less charmed than (it had been) expected",
+  "after": "less charmed than (had been) expected",
+  "reason": "补出 it 后 less charmed than it had been expected 不合语法；改为 than (had been) expected，与 components 中的说法统一。"
+ },
+ {
+  "key": "n=12",
+  "field": "structure",
+  "before": "underdog 原指不被看好的一方",
+  "after": "underdog 通常指不被看好的一方",
+  "reason": "underdog 原义是斗狗中被打败的狗（Etymonline，见单词精解词源），说“原指不被看好的一方”不准确。"
+ },
+ {
+  "key": "n=12",
+  "field": "knowledge[0].explain",
+  "before": "原指比赛中不被看好、处于劣势的一方",
+  "after": "常指比赛中不被看好、处于劣势的一方",
+  "reason": "同上，underdog 的原义是斗狗中落败的狗，改“原指”为“常指”，与单词精解词源一致。"
+ },
+ {
+  "key": "n=12",
+  "field": "grammar[0].explain",
+  "before": "翻译时前者译“证明了”，后者常译“结果是”“事实证明”。",
+  "after": "翻译时前者译“证明了”；后者可译“结果是”“事实证明”，第5句视频译文按汉语习惯译为“被证明”。",
+  "reason": "补上第5句视频译文的处理，使讲解与视频译文一致。"
+ },
+ {
+  "key": "n=13",
+  "field": "structure",
+  "before": "主句是过去时，从句用 would，表示“（为了）不会”。",
+  "after": "主句是过去时，从句相应用 will 的过去式 would，视频译为“会”；否定意义来自 nothing。",
+  "reason": "原说法把否定意义归到 would 上，不准确；would 只是与过去时主句呼应，否定来自 nothing。"
+ },
+ {
+  "key": "n=14",
+  "field": "knowledge[1].explain",
+  "before": "1英寸约合2.54厘米",
+  "after": "1英寸等于2.54厘米",
+  "reason": "1英寸按定义恰为2.54厘米，不是约数。"
+ },
+ {
+  "key": "n=14",
+  "field": "knowledge[3].explain",
+  "before": "数量，一般修饰不可数名词，如 a large amount of money；可数名词用 number",
+  "after": "数量，amount of 后一般接不可数名词，如 a large amount of money；接可数名词复数用 number",
+  "reason": "amount 是名词，不能“修饰”名词，术语不准确。"
+ },
+ {
+  "key": "n=16",
+  "field": "grammar[1].explain",
+  "before": "run out of 是及物用法，主语是人",
+  "after": "run out of 是及物用法，主语通常是人或机构",
+  "reason": "run out of 的主语也可以是物，如 The car ran out of petrol，“主语是人”说得太绝对。"
+ },
+ {
+  "key": "n=17",
+  "field": "knowledge[4].explain",
+  "before": "过去式 mimicked，要双写 k",
+  "after": "过去式 mimicked，现在分词 mimicking，要在词尾 c 后加 k",
+  "reason": "mimic 词尾是 c，变形时是加 k，不存在“双写 k”。"
+ },
+ {
+  "key": "n=18",
+  "field": "structure",
+  "before": "却不得不请公众少用它的名字，因为这个名字已被用来称呼竞争对手的产品",
+  "after": "却不得不请公众别再用它的名字去称呼竞争对手的产品",
+  "reason": "原文是请公众停止把名字用在对手商品上，不是“少用它的名字”，概括失真。"
+ }
+]
