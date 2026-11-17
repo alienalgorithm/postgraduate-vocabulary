@@ -1,0 +1,1874 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Endurance",
+   "predicate": "departed",
+   "object_or_complement": "South Georgia",
+   "explain": "主干是 Endurance departed South Georgia，主谓宾结构；depart 在此用作及物动词，直接带出发地 South Georgia 作宾语，句末 for 短语引出目的地，合成 depart A for B。谓语 departed 为一般过去时，主动语态，叙述过去的具体事件。"
+  },
+  "components": [
+   {
+    "text": "On 5 December 1914",
+    "role": "时间状语（介词短语，on + 具体日期）",
+    "zh": "1914年12月5日"
+   },
+   {
+    "text": "Endurance",
+    "role": "主语（船名，专有名词）",
+    "zh": "坚忍号"
+   },
+   {
+    "text": "departed",
+    "role": "谓语（及物用法，与句末 for 短语构成 depart A for B）",
+    "zh": "驶离了"
+   },
+   {
+    "text": "South Georgia,",
+    "role": "宾语（出发地）",
+    "zh": "南乔治亚岛"
+   },
+   {
+    "text": "a remote whaling outpost,",
+    "role": "同位语，说明 South Georgia",
+    "zh": "一处偏远的捕鲸前哨"
+   },
+   {
+    "text": "for Antarctica's Weddell Sea.",
+    "role": "状语（介词短语，for 表示目的地，接在 departed 之后）",
+    "zh": "开往南极洲的威德尔海"
+   }
+  ],
+  "structure": "①主句是 Endurance departed South Georgia：主语 Endurance（船名），谓语 departed，宾语 South Georgia 是出发地。句首 On 5 December 1914 是时间状语，较短，后面没有加逗号，直接接主语。\n②a remote whaling outpost 是同位语，前后用逗号隔开，说明 South Georgia 是一处什么样的地方（视频说明：同位语，说明 South Georgia）。remote 和 whaling 都修饰 outpost：remote 说明位置偏远，whaling 说明这个据点的用途是捕鲸。\n③句末 for Antarctica's Weddell Sea 接在 departed 之后，表示目的地，与 departed South Georgia 合成 depart A for B（离开 A，前往 B）。同位语插在中间，把这个搭配隔成两段，读的时候要跳过两个逗号之间的同位语，把 for 短语接回谓语，不要误以为它修饰 outpost。Antarctica's 是名词所有格，修饰 Weddell Sea。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "depart 的及物用法与 depart A for B",
+    "explain": "depart 意为“离开，出发”，最常见的是不及物用法，接 from 表示出发地，接 for 表示目的地，如 depart from Heathrow、depart for London。在正式文体中，特别是新闻报道和交通公告里，depart 也可以直接带地点作宾语，如 The train departs London at 9:15。本句 departed South Georgia 就是这种及物用法，再用 for 引出目的地，构成 depart A for B（视频说明：离开 A，前往 B）。同类的“出发地 + for + 目的地”结构还有 leave A for B、set out from A for B。考研阅读中，for 跟在出行类动词之后时表示目的地，不要按“为了”去理解。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The overnight ferry departs Dover for Calais at eleven.",
+      "zh": "夜班渡轮十一点从多佛开出，驶往加来。"
+     },
+     {
+      "en": "After the summit, the delegation left Geneva for Brussels.",
+      "zh": "峰会结束后，代表团离开日内瓦，前往布鲁塞尔。"
+     }
+    ]
+   },
+   {
+    "title": "同位语把固定搭配隔开",
+    "explain": "同位语是对前面名词的补充说明，与它指同一对象，通常紧跟在被说明的名词后面，用逗号隔开。说明专有名词的同位语常用“不定冠词 + 形容词 + 名词”的形式，告诉读者这个地方或人物是什么，本句 a remote whaling outpost 说明 South Georgia 就是这样。同位语插进句子后，会把本来相连的动词搭配隔开：departed South Georgia … for Antarctica's Weddell Sea。考研长难句中这种情况很常见，分析时先把逗号之间的同位语拿掉，主干和搭配就清楚了。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She thanked Dr Patel, the surgeon who had operated on her, for his patience.",
+      "zh": "她感谢为她做手术的外科医生帕特尔大夫一直很有耐心。"
+     }
+    ]
+   },
+   {
+    "title": "具体日期前用 on，英式日期写法",
+    "explain": "具体某一天前用介词 on，如 on 5 December 1914、on Monday；只有月份或年份时用 in，如下一句的 in January 1915。英式英语日期一般写作“日 月 年”（5 December 1914），美式英语多写作“月 日, 年”（December 5, 1914），本文全篇用英式写法。句首较短的时间状语后面可以不加逗号，本句 On 5 December 1914 后就直接接主语。汉语日期按“年、月、日”由大到小排列，翻译时要调整顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed at Versailles on 28 June 1919.",
+      "zh": "该条约于1919年6月28日在凡尔赛签署。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Endurance",
+    "explain": "沙克尔顿率领的帝国横越南极探险队（Imperial Trans-Antarctic Expedition）所用的船。船名首字母大写，书面上常用斜体。本文 Endurance 前不加 the，第7句的 the James Caird 则带 the，英语里船名前加不加 the 两种用法都有。视频把 Endurance 意译为“坚忍号”，endurance 作普通名词意为“忍耐力，耐力”。"
+   },
+   {
+    "term": "South Georgia",
+    "explain": "南大西洋上的岛屿，今属英国海外领土南乔治亚和南桑威奇群岛（South Georgia and the South Sandwich Islands）。20世纪前期岛上建有多个捕鲸站，所以文中称它为 a remote whaling outpost。它与美国的佐治亚州、高加索地区的格鲁吉亚都没有关系。"
+   },
+   {
+    "term": "Weddell Sea",
+    "explain": "南极洲的边缘海，位于南极半岛以东，以19世纪20年代驶入这片海域的英国航海家詹姆斯·威德尔（James Weddell）命名。Antarctica's 是名词所有格，视频译为“南极洲的”。"
+   },
+   {
+    "term": "whaling outpost",
+    "explain": "whaling 由 whale（鲸）派生，意为“捕鲸（业）”，常作定语，如 a whaling station（捕鲸站）、a whaling ship（捕鲸船）；outpost 指远离中心地区的前哨、偏远据点。remote 与 outpost 意思相互呼应，强调这座岛远离人烟。"
+   }
+  ],
+  "translation_tip": "视频译文“1914年12月5日，坚忍号驶离了南乔治亚岛，一处偏远的捕鲸前哨，开往南极洲的威德尔海。”的处理：①日期按汉语习惯改成“年、月、日”的顺序，放在句首，后加逗号。②depart A for B 拆成两个动词，departed 译“驶离了”，for 译“开往”，用“驶”字体现船的航行。③同位语 a remote whaling outpost 保留在原位，前后用逗号隔开，译成“一处偏远的捕鲸前哨”，不定冠词 a 译成量词“一处”，读起来像一个补充说明的插入成分，语序与英文一致。④名词所有格 Antarctica's 译成“南极洲的”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "ice",
+   "predicate": "trapped",
+   "object_or_complement": "the vessel",
+   "explain": "主谓宾结构，主语 ice 是无生命的事物，trap 作及物动词，意为“困住”。谓语 trapped 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In January 1915",
+    "role": "时间状语（介词短语，in + 月份 + 年份）",
+    "zh": "1915年1月"
+   },
+   {
+    "text": "ice",
+    "role": "主语（不可数名词，零冠词，泛指海冰）",
+    "zh": "冰"
+   },
+   {
+    "text": "trapped",
+    "role": "谓语",
+    "zh": "困住了"
+   },
+   {
+    "text": "the vessel.",
+    "role": "宾语（回指上句的 Endurance）",
+    "zh": "这艘船"
+   }
+  ],
+  "structure": "①简单句，主干 ice trapped the vessel，主谓宾齐全，句首 In January 1915 是时间状语。\n②主语 ice 是不可数名词，不加冠词，泛指海上的冰。用无生命的冰作主语、带及物动词 trapped，比被动句 the vessel was trapped by ice 更简洁，也突出了冰的力量。\n③宾语 the vessel 回指上句的 Endurance，定冠词 the 表示特指前文提到的那艘船。英语换用同义名词回指，避免重复船名。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "无生命主语句",
+    "explain": "英语常让无生命的事物作主语，直接带动作动词，像施事者一样“行动”，如 The storm destroyed the crops。本句 ice trapped the vessel 以 ice 作主语，trap 作及物动词，意为“使困住，使无法脱身”。本文多处用这种句式，如第11句 Ice repelled three rescue attempts、第18句 Precision put six ashore。汉语有时可以直接对应（冰困住了这艘船），有时要改成使役句或“因……而……”。考研翻译遇到无生命主语句，先试直译，不通顺再调整。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The flood cut off three villages for nearly a week.",
+      "zh": "洪水使三个村庄与外界隔绝了将近一周。"
+     },
+     {
+      "en": "Heavy snow kept thousands of passengers at the airport overnight.",
+      "zh": "大雪把数千名乘客困在机场过了一夜。"
+     }
+    ]
+   },
+   {
+    "title": "用同义名词回指上文",
+    "explain": "英语不喜欢同一名词反复出现，常换用同义词、上义词或代词回指。本句 the vessel 指上句的 Endurance，定冠词 the 表示“前面提到的那艘”；第3、4句又用 her、she 指它，第18句用 their ship。阅读时要把这些不同的说法对应到同一对象，这也是考研阅读指代题的常见考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company unveiled its latest phone on Tuesday; the device goes on sale next month.",
+      "zh": "该公司周二发布了最新款手机，这款设备将于下月上市。"
+     }
+    ]
+   },
+   {
+    "title": "月份、年份前用 in",
+    "explain": "只说到月份和年份时用介词 in，如 in January 1915；英式写法月份和年份之间不加逗号。与上句 on 5 December 1914 对照：具体到某一天用 on，只到月份或年份用 in。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge reopened to traffic in March 2019.",
+      "zh": "这座桥于2019年3月重新通车。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "vessel",
+    "explain": "正式用词，指船，尤指较大的船舶；另有“容器，器皿”和“（血）管”的意思，如 blood vessel（血管）。本句视频译为“船”，与定冠词 the 合译为“这艘船”。"
+   },
+   {
+    "term": "trap",
+    "explain": "名词意为“陷阱，圈套”，动词意为“困住，使陷入困境”，常用被动 be trapped in/under，如 be trapped in a lift（被困在电梯里）。本句是主动用法，ice 是施事。"
+   },
+   {
+    "term": "坚忍号被困",
+    "explain": "1915年1月，坚忍号在威德尔海被浮冰围困，此后随浮冰漂流了数月，无法脱身，这是后文弃船、沉船的起因。"
+   }
+  ],
+  "translation_tip": "视频译文“1915年1月，冰困住了这艘船。”与英文语序完全一致：时间状语在句首，按汉语习惯写成“1915年1月”；无生命主语 ice 直接译作主语“冰”；the vessel 中定冠词 the 表示回指，译成“这艘”，与“船”合成“这艘船”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "the men",
+   "predicate": "abandoned",
+   "object_or_complement": "ship",
+   "explain": "主谓宾结构，abandon ship 是航海上的固定说法，ship 前不用冠词。谓语 abandoned 为一般过去时，主动语态；句中的 her hull buckling 是独立主格结构，作状语。"
+  },
+  "components": [
+   {
+    "text": "On 27 October,",
+    "role": "时间状语（介词短语，on + 具体日期）",
+    "zh": "10月27日"
+   },
+   {
+    "text": "her hull buckling,",
+    "role": "独立主格结构（her hull + 现在分词 buckling），作状语，说明弃船时的情形",
+    "zh": "船体受压弯曲"
+   },
+   {
+    "text": "the men",
+    "role": "主语",
+    "zh": "众人"
+   },
+   {
+    "text": "abandoned",
+    "role": "谓语",
+    "zh": "弃"
+   },
+   {
+    "text": "ship.",
+    "role": "宾语（零冠词，与 abandoned 构成固定说法 abandon ship）",
+    "zh": "船"
+   }
+  ],
+  "structure": "①主句是 the men abandoned ship，主谓宾结构；abandon ship 意为“弃船”（视频说明），ship 不加冠词。\n②her hull buckling 是独立主格结构：her hull 是逻辑主语，buckling 是现在分词，二者是主动关系，表示船体正在受压弯曲变形（视频说明：独立主格结构，说明弃船时的情形）。它的逻辑主语 her hull 与主句主语 the men 不同，所以要保留 her hull，不能只用分词。这个结构相当于 as her hull was buckling。\n③her 指坚忍号，英语传统上常用 she、her 指船。句首 On 27 October 是时间状语，年份承上文省略，指1915年。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "独立主格结构",
+    "explain": "独立主格由“名词或代词 + 非谓语动词（现在分词、过去分词、不定式）、形容词、副词或介词短语”构成，有自己的逻辑主语，与主句主语不同，在句中作状语，表示时间、原因、条件或伴随情况。本句 her hull buckling 中，逻辑主语 her hull 与主句主语 the men 不同，现在分词 buckling 与 her hull 是主动关系，表示弃船时船体正在受压变形。判断方法：逗号隔开的“名词 + 分词”结构，没有连词，分词又不是谓语，就是独立主格。考研翻译常把它译成一个独立的短句，放在主句前面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Its engine failing, the plane made an emergency landing in a field.",
+      "zh": "发动机出了故障，飞机在一块田里紧急降落。"
+     },
+     {
+      "en": "Weather permitting, the launch will go ahead on Friday.",
+      "zh": "如果天气允许，发射将于周五如期进行。"
+     }
+    ]
+   },
+   {
+    "title": "abandon ship：名词前不加冠词的固定说法",
+    "explain": "abandon ship 是航海用语，意为“弃船”，ship 前不用冠词，也常作口令 Abandon ship!（弃船！）。类似的零冠词说法还有 go to sea（出海）、by sea（经海路）、jump ship（擅自离船）。说放弃某一艘具体的船时也可以用 abandon the ship，但表示“弃船逃生”这个固定概念时通常不加冠词。abandon 的其他常见搭配有 abandon a plan（放弃计划）、abandon hope（放弃希望）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When the fire reached the engine room, the captain gave the order to abandon ship.",
+      "zh": "火势蔓延到机舱后，船长下令弃船。"
+     }
+    ]
+   },
+   {
+    "title": "代词 she、her 指船",
+    "explain": "英语传统上常用 she、her 指船，带有亲切或拟人色彩，现代正式文体中也常用 it。本句 her hull 中的 her 指坚忍号，下一句的 She foundered 也是指船（视频说明：英语常用 she 指船）。汉语译成“它”，或在不影响理解时省略，不能译成“她”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The old liner made her final voyage last spring.",
+      "zh": "这艘老邮轮去年春天完成了最后一次航行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hull",
+    "explain": "船体，船身，指船的主体外壳，不包括桅杆、帆和上层建筑；另指果实、种子的外壳。本句视频译为“船体”。"
+   },
+   {
+    "term": "buckle",
+    "explain": "视频说明：（受压力等外力作用而）弯曲变形。buckle 还可表示（腿）发软、（人）在压力下屈服（buckle under pressure）；作名词指皮带扣，buckle up 意为“系好安全带”。"
+   },
+   {
+    "term": "弃船背景",
+    "explain": "坚忍号被困后，船体在浮冰的挤压下逐渐变形，1915年10月27日众人弃船，转移到冰面上扎营。本句的 On 27 October 承上文，指1915年。"
+   }
+  ],
+  "translation_tip": "视频译文“10月27日，船体受压弯曲，众人弃船。”的处理：①独立主格结构 her hull buckling 译成独立的短句“船体受压弯曲”，放在主句前，三个短句一气呵成，节奏紧凑。②her 指船，译文直接说“船体”，代词不译出。③buckle 增补“受压”，点明弯曲是外力挤压造成的，与视频说明一致。④the men 译“众人”，abandoned ship 按固定说法译成“弃船”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "She（分句一）；her captain（分句二）",
+   "predicate": "foundered（分句一）；logged（分句二）",
+   "object_or_complement": "the spot（logged 的宾语）",
+   "explain": "本句由分号连接两个并列分句。分句一 She foundered 是主谓结构，founder 为不及物动词；分句二 her captain logged the spot 是主谓宾结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "She",
+    "role": "分句一的主语（代词 she 指坚忍号）",
+    "zh": "它"
+   },
+   {
+    "text": "foundered",
+    "role": "分句一的谓语（不及物动词）",
+    "zh": "沉没"
+   },
+   {
+    "text": "on 21 November;",
+    "role": "时间状语（介词短语，on + 具体日期）",
+    "zh": "于11月21日"
+   },
+   {
+    "text": "her captain,",
+    "role": "分句二的主语",
+    "zh": "它的船长"
+   },
+   {
+    "text": "Frank Worsley,",
+    "role": "同位语，说明 her captain",
+    "zh": "弗兰克·沃斯利"
+   },
+   {
+    "text": "logged",
+    "role": "分句二的谓语",
+    "zh": "把……记入了航海日志"
+   },
+   {
+    "text": "the spot.",
+    "role": "分句二的宾语",
+    "zh": "沉没地点"
+   }
+  ],
+  "structure": "①分号前是分句一 She foundered on 21 November：主语 She 指坚忍号（视频说明：英语常用 she 指船），谓语 foundered 是不及物动词，on 21 November 作时间状语，年份承上文，指1915年。\n②分号后是分句二 her captain logged the spot：主语 her captain，Frank Worsley 是同位语，前后用逗号隔开（视频说明：her captain, Frank Worsley：同位语）；谓语 logged，宾语 the spot 指坚忍号沉没的地点。\n③两个分句语法上各自完整，意义紧密相连：前者交代船沉了，后者交代船长记下了位置，用分号连接。分句二为第14句埋下伏笔，百年后搜寻队正是参照沃斯利记下的这个位置找到了残骸。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号可以连接两个意义紧密相关、语法上各自完整的分句，作用相当于一个较轻的句号，中间不需要连词。本句 She foundered on 21 November 和 her captain, Frank Worsley, logged the spot 各有主语和谓语，用分号连接，显示沉船和记录位置是前后紧连的两件事。如果只用逗号连接两个完整的分句，就成了逗号粘连（comma splice），这是英语写作的常见错误。考研写作中可以用分号连接两个关系紧密的句子，也可以在分号后用 however、therefore 等连接副词，后面再加逗号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first trial failed; the second produced the results the team had hoped for.",
+      "zh": "第一次试验失败了；第二次得到了团队期望的结果。"
+     },
+     {
+      "en": "Prices rose sharply in the spring; consequently, demand fell.",
+      "zh": "春季物价大幅上涨；因此，需求下降了。"
+     }
+    ]
+   },
+   {
+    "title": "人名作同位语",
+    "explain": "人名作同位语时，在句中要前后都用逗号隔开（在句末时只在前面加逗号）。本句 Frank Worsley 说明 her captain，去掉逗号之间的人名，句子结构仍然完整，主语仍是 her captain。这里是“身份 + 人名”的顺序，与第1、6、7、11句“专名 + 说明”的顺序相反。翻译时这种同位语通常直接合并，译成“它的船长弗兰克·沃斯利”，中间不需要停顿。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The firm's founder, Maria Lopez, still chairs its board.",
+      "zh": "公司创始人玛丽亚·洛佩斯仍担任董事会主席。"
+     }
+    ]
+   },
+   {
+    "title": "founder 作不及物动词",
+    "explain": "founder 表示“（船）沉没”时是不及物动词，不用被动语态，不能说 was foundered。它还可以比喻计划、谈判等“失败，垮掉”，如 The talks foundered over the issue of funding。不要和 flounder（挣扎，困难重重）混淆，也要和名词 founder（创始人）区分，后者由 found（创建）加 -er 构成，是另一个词（二者远源都可追溯到拉丁语 fundus“底部”）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The cargo ship foundered in heavy seas off the Cornish coast.",
+      "zh": "那艘货船在康沃尔海岸附近的狂风巨浪中沉没了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "log",
+    "explain": "名词指航海日志、飞行日志，也作 logbook；动词意为“把……记入日志，正式记录”，如 log a complaint（登记投诉）。本句 logged the spot 指船长把沉船位置写进航海日志，视频译为“把……记入了航海日志”。计算机用语 log in/on（登录）也由此而来。"
+   },
+   {
+    "term": "Frank Worsley",
+    "explain": "弗兰克·沃斯利，新西兰籍船长，坚忍号的船长，以航海技术著称。后文第8句写他在小艇上靠极少的观测推算船位，第14、16句写他记下的位置帮助后人找到沉船。"
+   },
+   {
+    "term": "the spot",
+    "explain": "spot 意为“地点，某一点”，如 a quiet spot（一个僻静的地方）、on the spot（当场）。本句 the spot 指坚忍号沉没的地点，视频把它具体化为“沉没地点”。"
+   }
+  ],
+  "translation_tip": "视频译文“它沉没于11月21日；它的船长弗兰克·沃斯利把沉没地点记入了航海日志。”的处理：①She 指船，译为“它”，不能译“她”；时间状语保持在动词后，译为“沉没于11月21日”，“于”字使句子显得简洁正式。②同位语 her captain, Frank Worsley 合并为“它的船长弗兰克·沃斯利”。③logged 是一个词，译文用把字句“把……记入了航海日志”，把“日志”的含义译了出来；the spot 增补“沉没”二字，明确是什么地点。④保留英文的分号，体现两个分句的紧密关系。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "The stranded men",
+   "predicate": "endured",
+   "object_or_complement": "over five gruelling months on the ice",
+   "explain": "主谓宾结构，endure 作及物动词，意为“忍受，熬过”，以一段时间 months 作宾语。谓语 endured 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The stranded",
+    "role": "定语（形容词 stranded，修饰 men）",
+    "zh": "被困住的"
+   },
+   {
+    "text": "men",
+    "role": "主语（中心词）",
+    "zh": "众人"
+   },
+   {
+    "text": "endured",
+    "role": "谓语",
+    "zh": "熬过了"
+   },
+   {
+    "text": "over five",
+    "role": "数量定语（over + 数词，意为“超过五个”），修饰 months",
+    "zh": "五个多月"
+   },
+   {
+    "text": "gruelling",
+    "role": "定语（形容词），修饰 months",
+    "zh": "艰苦累人的"
+   },
+   {
+    "text": "months",
+    "role": "宾语（中心词）",
+    "zh": "日子"
+   },
+   {
+    "text": "on the ice.",
+    "role": "后置定语（介词短语），修饰 months",
+    "zh": "冰上"
+   }
+  ],
+  "structure": "①简单句，主干 The stranded men endured over five gruelling months，主谓宾结构。\n②主语 The stranded men 中，stranded 是由过去分词转来的形容词，作前置定语，表示“被困住的”，相当于 the men who were stranded。\n③宾语中心词是 months：over five 说明数量，over 相当于 more than；gruelling 说明这段日子艰苦累人（视频说明：gruelling：艰难的；令人疲劳的）；on the ice 是介词短语作后置定语，说明是在冰上度过的日子。定语排列顺序是“数量词在前，描述性形容词在后”，所以是 over five gruelling months。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "endure + 时间段作宾语",
+    "explain": "endure 作及物动词意为“忍受，熬过”，宾语可以是苦难（endure pain、endure hardship），也可以是一段艰难的时间，本句 endured over five gruelling months 就是把五个多月当作要“熬过”的对象。endure 也可作不及物动词，表示“持续，持久”，如 Their friendship endured for decades，这时带褒义。考研阅读中 enduring 常作形容词，意为“持久的”，如 an enduring legacy（持久的影响）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The villagers endured three weeks without electricity after the storm.",
+      "zh": "暴风雨过后，村民们熬过了三个星期没有电的日子。"
+     },
+     {
+      "en": "Her reputation as a reformer has endured long after her death.",
+      "zh": "她去世多年以后，她作为改革者的声誉依然不衰。"
+     }
+    ]
+   },
+   {
+    "title": "-ed 形容词作前置定语",
+    "explain": "由及物动词过去分词转来的形容词放在名词前作定语，表示被动或某种状态。the stranded men 意为“被困住的人”，相当于 the men who were stranded。stranded 原指船“搁浅”，引申为人因交通中断、天气等原因“被困在某处，无法离开”，常见说法有 stranded passengers（滞留的乘客）、be stranded at the airport（被困在机场）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Hundreds of stranded travellers spent the night on the station floor.",
+      "zh": "数百名滞留的旅客在车站地板上过了一夜。"
+     }
+    ]
+   },
+   {
+    "title": "over + 数词与多个前置定语的顺序",
+    "explain": "over 用在数词前，相当于 more than，over five months 即“五个多月”，反义是 under（少于）。名词前有多个定语时，限定词和数量词在前，描述性形容词在后，紧靠中心词，所以是 over five gruelling months，不能说 gruelling over five months。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Over two hundred volunteers took part in the clean-up.",
+      "zh": "两百多名志愿者参加了这次清理活动。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "gruelling",
+    "explain": "英式拼写，美式拼作 grueling，意为“使人筋疲力尽的，极其艰苦的”，常修饰旅程、日程、比赛等，如 a gruelling schedule（排得满满的累人日程）、a gruelling journey。视频释为“艰苦累人的”。"
+   },
+   {
+    "term": "on the ice",
+    "explain": "这里的 ice 指他们弃船后栖身的海上浮冰。从1915年10月27日弃船，到1916年4月9日浮冰裂开（见下句），众人在冰上待了五个多月，与 over five months 吻合。"
+   }
+  ],
+  "translation_tip": "视频译文“被困住的众人熬过了五个多月艰苦累人的冰上日子。”的处理：①stranded 前置译为“被困住的”，men 译为“众人”，与第3句的 the men 译法一致。②宾语中，months 没有直接译“月”，而是把 over five 译成“五个多月”，months 本身转译为“日子”，后置定语 on the ice 前移为“冰上”，合成“冰上日子”，使宾语读起来自然。③gruelling 译为“艰苦累人的”，放在“冰上日子”前，整个定语顺序与英文 over five gruelling months on the ice 基本对应。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Their floe（分句一）；their lifeboats（分句二）",
+   "predicate": "split（分句一）；reached（分句二）",
+   "object_or_complement": "Elephant Island（reached 的宾语）",
+   "explain": "本句由分号连接两个并列分句。分句一 Their floe split 是主谓结构，split 在此为不及物动词；分句二 their lifeboats reached Elephant Island 是主谓宾结构。两个谓语都是一般过去时，主动语态，split 的过去式与原形同形。"
+  },
+  "components": [
+   {
+    "text": "Their floe",
+    "role": "分句一的主语",
+    "zh": "他们脚下的浮冰"
+   },
+   {
+    "text": "split",
+    "role": "分句一的谓语（不及物动词，过去式与原形同形）",
+    "zh": "裂开了"
+   },
+   {
+    "text": "on 9 April 1916;",
+    "role": "时间状语（介词短语）",
+    "zh": "那天是1916年4月9日"
+   },
+   {
+    "text": "on 15 April",
+    "role": "分句二的时间状语（介词短语）",
+    "zh": "4月15日"
+   },
+   {
+    "text": "their lifeboats",
+    "role": "分句二的主语",
+    "zh": "他们的救生艇"
+   },
+   {
+    "text": "reached",
+    "role": "分句二的谓语",
+    "zh": "抵达了"
+   },
+   {
+    "text": "Elephant Island,",
+    "role": "分句二的宾语",
+    "zh": "大象岛"
+   },
+   {
+    "text": "a bleak, uninhabited rock",
+    "role": "同位语，说明 Elephant Island",
+    "zh": "一座荒凉的、无人居住的岩岛"
+   },
+   {
+    "text": "far from shipping lanes.",
+    "role": "后置定语（形容词短语），修饰 rock",
+    "zh": "远离航线"
+   }
+  ],
+  "structure": "①分号前是分句一 Their floe split on 9 April 1916：主语 Their floe（视频说明：floe：浮冰块），谓语 split 是不及物动词，意为“裂开”，on 9 April 1916 作时间状语。主语是单数，谓语没有 -s，加上具体的过去日期，可知 split 是过去式。\n②分号后是分句二 their lifeboats reached Elephant Island：on 15 April 作时间状语，放在分句句首；主语 their lifeboats，谓语 reached，宾语 Elephant Island。\n③a bleak, uninhabited rock 是同位语，说明 Elephant Island 是一座什么样的岛；far from shipping lanes 是形容词短语作后置定语，修饰 rock（视频说明）。far from shipping lanes 说明这座岛远离过往船只的航线，暗示在岛上等待路过的船只救援几乎没有希望，为下文沙克尔顿冒险出海求援作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "原形与过去式同形的动词：判断 split 的时态",
+    "explain": "split 是不规则动词，原形、过去式、过去分词同形（split, split, split），同类的还有 put、cut、set、hit、shut、spread。本句主语 Their floe 是单数，若是一般现在时，谓语应为 splits；这里没有 -s，又有过去时间状语 on 9 April 1916，后一分句的 reached 也是过去式，所以 split 是一般过去时。考研阅读遇到这类动词，要借助主语的单复数、时间状语和上下文判断时态和词性。split 作及物动词时意为“劈开，分开，分摊”，如 split the bill（分摊账单）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee split over the proposal last year, and two members resigned.",
+      "zh": "去年委员会在这项提案上出现分裂，两名委员辞职。"
+     },
+     {
+      "en": "When fuel prices hit a record high, several airlines cut their routes.",
+      "zh": "燃油价格创下新高时，几家航空公司削减了航线。"
+     }
+    ]
+   },
+   {
+    "title": "形容词短语作后置定语",
+    "explain": "单个形容词一般放在名词前作定语，但形容词带上补足成分构成短语（如 far from shipping lanes、full of water、rich in oil）时，通常放在名词后面作后置定语，相当于省略了 which was 的定语从句。本句 far from shipping lanes 修饰 rock（视频说明：形容词短语作后置定语，修饰 rock），即 a rock which was far from shipping lanes。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers set up camp on a small island rich in seabirds.",
+      "zh": "研究人员在一座海鸟众多的小岛上扎营。"
+     },
+     {
+      "en": "They lived in a cottage far from the nearest road.",
+      "zh": "他们住在一座离最近的公路都很远的小屋里。"
+     }
+    ]
+   },
+   {
+    "title": "并列形容词之间的逗号",
+    "explain": "两个形容词各自独立地修饰同一个名词、可以互换位置、中间能加 and 时，用逗号隔开，如 a bleak, uninhabited rock，相当于 a bleak and uninhabited rock。如果前一个形容词修饰的是“后一个修饰语 + 名词”这个整体，就不加逗号，如第1句 a remote whaling outpost，whaling 与 outpost 结合紧密，remote 修饰的是 whaling outpost。视频把这个逗号译成顿号：“荒凉的、无人居住的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It was a long, exhausting meeting.",
+      "zh": "那是一场漫长而累人的会议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "floe",
+    "explain": "浮冰，浮冰块，指海面上漂浮的大块平坦冰层，常说 ice floe。视频说明：floe：浮冰块。众人弃船后就在一块浮冰上扎营，浮冰裂开意味着他们的“落脚地”不复存在，只能乘救生艇离开。"
+   },
+   {
+    "term": "Elephant Island",
+    "explain": "大象岛，南设得兰群岛（South Shetland Islands）中的一个岛，位于南极半岛北端附近。视频分别把 Elephant 和 Island 译成“大象”和“岛”。"
+   },
+   {
+    "term": "uninhabited",
+    "explain": "意为“无人居住的”，由否定前缀 un- 加 inhabited（有人居住的）构成。注意 inhabit 中的 in- 不是否定前缀，而是“在……里”，inhabit 意为“居住于”，inhabited 是“有人居住的”，不要误解成“无人居住的”。"
+   },
+   {
+    "term": "shipping lanes",
+    "explain": "航线，海上航道。shipping 指船运、航运，lane 原指小路、车道，这里指船只通常经过的航道。远离航线意味着很少有船只路过，被发现和获救的机会极小。"
+   },
+   {
+    "term": "bleak",
+    "explain": "形容地方时意为“荒凉的，阴冷的”，如 a bleak landscape；形容前景时意为“暗淡的，无望的”，如 a bleak future。本句视频译为“荒凉的”。"
+   }
+  ],
+  "translation_tip": "视频译文“他们脚下的浮冰裂开了，那天是1916年4月9日；4月15日，他们的救生艇抵达了大象岛，一座荒凉的、无人居住的岩岛，远离航线。”的处理：①Their floe 增补“脚下的”，点明这块浮冰是他们栖身之处。②分句一的时间状语后移，单独译成“那天是1916年4月9日”，先说事件，再补日期，与分句二句首的“4月15日”形成两个时间节点。③同位语保留在原位，用逗号隔开；rock 译成“岩岛”，说明它是一座岩石嶙峋的岛；并列形容词之间的逗号译成顿号。④后置定语 far from shipping lanes 没有前移，而是单独译成句末的短句“远离航线”，避免定语过长。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Shackleton and five others",
+   "predicate": "embarked",
+   "object_or_complement": "",
+   "explain": "主谓结构，embark 为不及物动词，后接 in 短语表示登上哪条船，接 on 短语表示踏上什么旅程，两个介词短语共用一个谓语 embarked。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 24 April",
+    "role": "时间状语（介词短语）",
+    "zh": "4月24日"
+   },
+   {
+    "text": "Shackleton",
+    "role": "主语（并列主语之一）",
+    "zh": "沙克尔顿"
+   },
+   {
+    "text": "and five others",
+    "role": "主语（并列主语之二，others 是代词）",
+    "zh": "和另外五人"
+   },
+   {
+    "text": "embarked in",
+    "role": "谓语 + 介词（embark in 意为“登上（船）”）",
+    "zh": "登上了"
+   },
+   {
+    "text": "the James Caird,",
+    "role": "介词 in 的宾语（船名）",
+    "zh": "詹姆斯·凯尔德号"
+   },
+   {
+    "text": "a fragile lifeboat,",
+    "role": "同位语，说明 the James Caird",
+    "zh": "一艘脆弱的救生艇"
+   },
+   {
+    "text": "on a perilous voyage",
+    "role": "状语（介词短语，与前面省略的 embarked 构成 embark on，意为“踏上”）",
+    "zh": "踏上一段极度危险的航程"
+   },
+   {
+    "text": "of some 1,300 kilometres.",
+    "role": "后置定语（介词短语），修饰 voyage，说明航程长度",
+    "zh": "约1,300公里"
+   }
+  ],
+  "structure": "①主句主干是 Shackleton and five others embarked，主语是 and 连接的并列结构，谓语 embarked 不带宾语。句首 On 24 April 是时间状语，年份承上文，指1916年。\n②embarked 后面跟两个介词短语：in the James Caird 表示登上哪条船（视频说明：embark in…：登上（船））；on a perilous voyage 表示踏上什么旅程，视频说明 on 前面其实应该有个 embark，不过是被省略了，即 embarked in the James Caird (and embarked) on a perilous voyage。\n③a fragile lifeboat 是同位语，说明 the James Caird（视频说明）。of some 1,300 kilometres 是 of 短语作后置定语，修饰 voyage，说明航程的长度；some 修饰数字，表示“大约”（视频说明）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "embark in 与 embark on，以及动词的省略",
+    "explain": "embark 原义是“上船”，embark in/on a ship 指登上某艘船，本句 embarked in the James Caird 视频释为“登上了”；embark on/upon 引申为“开始，踏上（一段旅程、一项事业）”，语气比较正式，常用于开启重要的新经历或新计划，如 embark on a career、embark on a journey，本句视频释为“踏上”。本句一个 embarked 带了两个不同的介词短语，视频说明 on 前面本应有 embark，被省略了。英语为避免重复，常省略后面相同的动词，阅读时要把后一个介词短语还原到前面的动词上。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government has embarked on an ambitious programme of reform.",
+      "zh": "政府已着手推行一项雄心勃勃的改革计划。"
+     },
+     {
+      "en": "Passengers began to embark at the northern pier shortly after dawn.",
+      "zh": "天刚亮不久，乘客们就开始在北码头登船。"
+     }
+    ]
+   },
+   {
+    "title": "some + 数词表示“大约”；of + 数量作后置定语",
+    "explain": "some 用在数词前，相当于 about、approximately，意为“大约”，语气较正式，多见于书面语，如 some 1,300 kilometres、some 40 per cent。这个 some 后面接具体数字，与表示“一些”的 some 不同。“a + 名词 + of + 数量”是表示长度、时长、年龄等的常用结构，如 a journey of three days（三天的旅程）、a man of forty（四十岁的男子），本句 a perilous voyage of some 1,300 kilometres 即属此类。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival attracted some 50,000 visitors over the weekend.",
+      "zh": "周末这个节日吸引了约五万名游客。"
+     }
+    ]
+   },
+   {
+    "title": "others 作代词",
+    "explain": "others 是代词，相当于 other people 或 other ones，five others 意为“另外五人”；不能说 five another，也不能只说 five other，因为 other 作形容词时后面要接名词，如 five other men。沙克尔顿加上另外五人共六人，与第18句 put six ashore 中的 six 对应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The captain and three others were picked up by a passing fishing boat.",
+      "zh": "船长和另外三人被一艘路过的渔船救起。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Shackleton",
+    "explain": "欧内斯特·沙克尔顿（Ernest Shackleton），生于爱尔兰的英国南极探险家，这次帝国横越南极探险队的队长。"
+   },
+   {
+    "term": "the James Caird",
+    "explain": "坚忍号上的一艘救生艇，以探险队的赞助人詹姆斯·凯尔德命名。视频译为“詹姆斯·凯尔德号”，同位语 a fragile lifeboat 交代它只是一艘小小的救生艇，与 perilous voyage 和1,300公里的航程形成对比，突出这次航行的凶险。"
+   },
+   {
+    "term": "perilous",
+    "explain": "意为“危险的，凶险的”，比 dangerous 更书面，常用于描写旅程、处境，如 a perilous journey、a perilous position；名词 peril 意为“（严重的）危险”，in peril 意为“处于危险中”。视频释为“极度危险的”。"
+   },
+   {
+    "term": "voyage",
+    "explain": "尤指乘船或乘航天器的长途航行，如 a sea voyage、a voyage to Mars；journey 泛指旅程，trip 多指短途往返的出行。"
+   },
+   {
+    "term": "kilometres",
+    "explain": "英式拼写，美式拼作 kilometers。本文 metres、gruelling 等也是英式拼写，写作时同一篇文章内拼写体系要统一。"
+   }
+  ],
+  "translation_tip": "视频译文“4月24日，沙克尔顿和另外五人登上了詹姆斯·凯尔德号，一艘脆弱的救生艇，踏上一段极度危险的航程，约1,300公里。”的处理：①同一个 embarked 分译成两个动词：in 短语对应“登上了”，on 短语对应“踏上”，把英文省略的动词在汉语里补了出来。②同位语 a fragile lifeboat 保留原位，用逗号隔开，不定冠词译成量词“一艘”。③后置定语 of some 1,300 kilometres 没有前移成“约1,300公里的”，而是放在句末单独成短句“约1,300公里”，避免“航程”前的定语过长。④perilous 译为“极度危险的”，加强语气。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Worsley",
+   "predicate": "snatched",
+   "object_or_complement": "only four sights of the sun",
+   "explain": "主谓宾结构，snatch 意为“抓住（机会）”。谓语 snatched 为一般过去时，主动语态；句首有 As 引导的时间状语从句，句末有现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "As ferocious gales battered the boat,",
+    "role": "时间状语从句（As 引导）",
+    "zh": "当狂暴的/猛烈的大风多次猛击小艇的时候"
+   },
+   {
+    "text": "Worsley",
+    "role": "主语",
+    "zh": "沃斯利"
+   },
+   {
+    "text": "snatched",
+    "role": "谓语",
+    "zh": "抓住了"
+   },
+   {
+    "text": "only four",
+    "role": "数量定语（only 限定数词 four），修饰 sights",
+    "zh": "仅仅四次"
+   },
+   {
+    "text": "sights of the sun,",
+    "role": "宾语（of the sun 作 sights 的后置定语）",
+    "zh": "测日机会"
+   },
+   {
+    "text": "deducing",
+    "role": "伴随状语（现在分词短语）的核心动词，逻辑主语是 Worsley",
+    "zh": "推断出"
+   },
+   {
+    "text": "the rest",
+    "role": "deducing 的宾语",
+    "zh": "剩余路途中船的位置坐标"
+   },
+   {
+    "text": "by dead reckoning",
+    "role": "方式状语（介词短语），修饰 deducing",
+    "zh": "只能靠航位推算"
+   },
+   {
+    "text": "from course, speed, and time elapsed.",
+    "role": "状语（介词短语，说明推算所依据的数据；time elapsed 中 elapsed 作后置定语）",
+    "zh": "根据航向、航速和经过的时间"
+   }
+  ],
+  "structure": "①主句是 Worsley snatched only four sights of the sun：主语 Worsley，谓语 snatched，宾语 sights，only four 说明次数，of the sun 说明观测对象（视频说明：sight：测日，航海上 take a sight 指对太阳做一次观测，据此定船位）。\n②As ferocious gales battered the boat 是 As 引导的时间状语从句（视频说明），从句主语 ferocious gales，谓语 battered，宾语 the boat，交代测日时的恶劣天气。\n③deducing the rest… 是现在分词短语作伴随状语（视频说明），逻辑主语是主句主语 Worsley；the rest 作 deducing 的宾语，指四次测日之外其余时候的船位；by dead reckoning 说明推断的方法，即航位推算。\n④from course, speed, and time elapsed 说明推算依据的三项数据，三项并列，用牛津逗号；time elapsed 中，elapsed 作后置定语，修饰 time（视频说明），意为“已经过去的时间”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "as 引导时间状语从句",
+    "explain": "as 引导时间状语从句时意为“当……时，随着……”，强调主从句动作同时发生或同时持续。本句 As ferocious gales battered the boat（视频说明：As… 时间状语从句）交代背景：沃斯利测日、推算的整个过程中，大风一直在猛击小艇。与 when 相比，as 更突出“同时、一边……一边”；as 还可以表示“随着”，如 As time went on, … 。as 也能引导原因、方式、让步等从句，阅读时要根据上下文判断，本句从句描述的是同时持续的情形，是时间状语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "As the crowd grew restless, the organisers decided to open the gates early.",
+      "zh": "随着人群越来越躁动，组织者决定提前开门。"
+     },
+     {
+      "en": "She hummed quietly as she worked.",
+      "zh": "她一边干活一边轻声哼着歌。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末，用逗号与主句隔开，常作伴随状语，说明与主句谓语同时发生或紧接着发生的动作，它的逻辑主语就是主句主语。本句 deducing the rest by dead reckoning…（视频说明：现在分词短语作伴随状语）的逻辑主语是 Worsley，相当于 and he deduced the rest…，但结构更紧凑。分词的逻辑主语必须与主句主语一致，否则就成了垂悬分词，这是考研写作中要避免的错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister left the room without a word, ignoring the reporters' questions.",
+      "zh": "部长一言不发地离开了房间，对记者的提问置之不理。"
+     },
+     {
+      "en": "He spent the weekend at home, catching up on his reading.",
+      "zh": "他周末待在家里，把落下的书补读了一些。"
+     }
+    ]
+   },
+   {
+    "title": "单个过去分词后置作定语",
+    "explain": "单个分词作定语一般放在名词前，但有些过去分词习惯放在名词后，如 the time elapsed、the people concerned（有关人员）、the distance covered（走过的距离）、the problems involved（涉及的问题）。elapse 是不及物动词，意为“（时间）流逝”，不及物动词的过去分词作定语表示完成，time elapsed 就是“已经过去的时间”，相当于 the time that had elapsed（视频说明：elapsed 作后置定语，修饰 time）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The app records the distance covered and the time elapsed on every run.",
+      "zh": "这款应用会记录每次跑步跑过的距离和所用的时间。"
+     },
+     {
+      "en": "The people concerned have all been informed.",
+      "zh": "有关人员都已得到通知。"
+     }
+    ]
+   },
+   {
+    "title": "牛津逗号",
+    "explain": "三项及以上并列时，在最后的 and 或 or 前加逗号，称为牛津逗号（Oxford comma，也叫 serial comma），本句 course, speed, and time elapsed 即是。它可以避免把最后两项误读成一组。译成汉语时前几项用顿号，最后一项前用“和”：“航向、航速和经过的时间”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report covers housing, transport, and public health.",
+      "zh": "这份报告涵盖住房、交通和公共卫生。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sight",
+    "explain": "航海术语，视频说明：测日，航海上 take a sight 指对太阳做一次观测，据此定船位。一般用六分仪测量太阳或其他天体的高度角，再结合时间算出船的位置。sights of the sun 是复数，只有四次，说明观测机会极为难得。"
+   },
+   {
+    "term": "dead reckoning",
+    "explain": "航位推算（法）：从上一个已知位置出发，根据航向、航速和航行时间推算船现在的位置，不依赖天体观测，误差会随时间累积。本句 from course, speed, and time elapsed 正是这种方法所需的三项数据。"
+   },
+   {
+    "term": "snatch",
+    "explain": "本义是“一把抓起，夺取”，引申为“抓住（机会），抽空做”，如 snatch a few hours' sleep（抓紧时间睡几个小时）。本句 snatched only four sights 表示在狂风巨浪中好不容易抓住了四次测日的机会，视频译为“抓住了……机会”。"
+   },
+   {
+    "term": "gale",
+    "explain": "大风，强风，比一般的 wind 猛烈，气象上比 storm 低一级；gales of laughter 意为“一阵阵笑声”。ferocious 意为“凶猛的，猛烈的”，视频释为“狂暴的/猛烈的”。"
+   },
+   {
+    "term": "batter",
+    "explain": "意为“连续猛击”，强调反复多次，如 waves battering the coast（海浪拍打海岸）。视频译为“多次猛击”，“多次”正对应 batter 的反复义。battered 作形容词意为“破旧的，受损的”。"
+   },
+   {
+    "term": "course",
+    "explain": "熟词僻义：除“课程；过程”外，还指船、飞机的“航向，路线”，如 change course（改变航向）、off course（偏离航线）。本句视频译为“航向”。"
+   }
+  ],
+  "translation_tip": "视频译文“当狂暴的/猛烈的大风多次猛击小艇的时候，沃斯利抓住了仅仅四次测日机会，推断出剩余路途中船的位置坐标，只能靠航位推算，根据航向、航速和经过的时间。”的处理：①As 从句译成“当……的时候”，放在句首，与英文语序一致；battered 的反复义译为“多次猛击”。②sights of the sun 增补“机会”，译成“测日机会”，与 snatched（抓住了）搭配，only 译为“仅仅”。③伴随状语 deducing… 译成后续分句“推断出……”；the rest 具体化为“剩余路途中船的位置坐标”，把省略的内容补全。④by dead reckoning 增补“只能靠”，与前面“仅仅四次”呼应；from 短语放在句末，译成“根据……”，牛津逗号转成顿号和“和”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "they",
+   "predicate": "landed on",
+   "object_or_complement": "South Georgia's deserted south coast",
+   "explain": "land 为不及物动词，借助介词 on 引出登陆的地点，land on 整体相当于及物动词，后接宾语 South Georgia's deserted south coast。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 10 May",
+    "role": "时间状语（介词短语）",
+    "zh": "5月10日"
+   },
+   {
+    "text": "they",
+    "role": "主语（指乘詹姆斯·凯尔德号出航的六人）",
+    "zh": "他们"
+   },
+   {
+    "text": "landed on",
+    "role": "谓语（land on 意为“登上（陆地、岛屿）”）",
+    "zh": "登上了"
+   },
+   {
+    "text": "South Georgia's",
+    "role": "定语（名词所有格），修饰 coast",
+    "zh": "南乔治亚岛"
+   },
+   {
+    "text": "deserted",
+    "role": "定语（形容词），修饰 coast",
+    "zh": "空无一人的"
+   },
+   {
+    "text": "south coast.",
+    "role": "宾语（south 修饰中心词 coast）",
+    "zh": "南岸"
+   }
+  ],
+  "structure": "①简单句，主干 they landed on South Georgia's deserted south coast，句首 On 10 May 是时间状语，年份承上文，指1916年。\n②主语 they 指上文乘詹姆斯·凯尔德号出航的沙克尔顿等六人。landed on 意为“登上”，on 引出登陆的地点。\n③宾语中心词是 coast，前面有三层修饰：名词所有格 South Georgia's 说明是哪座岛的海岸，deserted 说明海岸荒无人烟，south 说明是南面的海岸。排列顺序是“所有格 + 描述性形容词 + 表示类别的修饰语 + 中心词”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "land 作不及物动词：land on / at / in",
+    "explain": "land 作不及物动词意为“登陆，着陆”，后接 on、at、in 引出地点：land on an island（登上岛屿）、land at Heathrow（在希思罗机场降落）、land in Paris。本句 landed on South Georgia's deserted south coast 指乘船登岸。land 也可作及物动词，意为“使着陆，使上岸”，如 The pilot landed the plane safely；还有引申义“获得，赢得”，如 land a job（找到工作）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The small plane landed on a dirt strip near the village.",
+      "zh": "那架小飞机降落在村子附近的一条土跑道上。"
+     },
+     {
+      "en": "After months of searching, she finally landed a job with a law firm.",
+      "zh": "找了几个月后，她终于在一家律师事务所找到了工作。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与多个前置定语",
+    "explain": "地名、国家名、机构名常用 's 表示所属，如 Britain's economy、the city's mayor。本句 South Georgia's deserted south coast 中，所有格放在最前，描述性形容词 deserted 居中，表示类别的 south 紧靠中心词 coast，不能说 south deserted coast。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The storm hit the country's densely populated eastern coast.",
+      "zh": "风暴袭击了该国人口稠密的东部沿海地区。"
+     }
+    ]
+   },
+   {
+    "title": "deserted、desert 与 dessert",
+    "explain": "deserted 是形容词，意为“空无一人的，被遗弃的”，如 a deserted street、a deserted village；desert 作名词读 /ˈdezət/，指沙漠，作动词读 /dɪˈzɜːt/，意为“抛弃，擅离”；dessert 读 /dɪˈzɜːt/，意为“甜点”。deserted 不是“沙漠的”，本句指南岸荒无人烟，视频译为“空无一人的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By midnight the streets of the old town were completely deserted.",
+      "zh": "到了午夜，老城的街道上已空无一人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "south coast",
+    "explain": "六人在南乔治亚岛南岸的哈康国王湾（King Haakon Bay）一带登陆，而岛上的捕鲸站都在北岸，南岸荒无人烟，所以下一句三人还要翻越岛上的山地，才能到达捕鲸站求援。deserted 一词正说明了这一处境。"
+   },
+   {
+    "term": "South Georgia's",
+    "explain": "地名的名词所有格，视频译为“南乔治亚岛”，后面没有加“的”，避免与“空无一人的”连用两个“的”字。"
+   }
+  ],
+  "translation_tip": "视频译文“5月10日，他们登上了南乔治亚岛空无一人的南岸。”与英文语序一致：landed on 译为“登上了”；宾语的三层修饰依次前置，名词所有格 South Georgia's 译成“南乔治亚岛”，省去“的”字，避免与后面的“空无一人的”重复；south coast 合译为“南岸”，简洁自然。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Shackleton, Worsley, and Tom Crean",
+   "predicate": "traversed",
+   "object_or_complement": "its mountainous interior",
+   "explain": "主谓宾结构，主语是三个并列的人名，traverse 作及物动词，意为“横越”。谓语 traversed 为一般过去时，主动语态；句末现在分词短语表示结果。"
+  },
+  "components": [
+   {
+    "text": "Shackleton, Worsley,",
+    "role": "主语（并列主语的前两项）",
+    "zh": "沙克尔顿、沃斯利"
+   },
+   {
+    "text": "and Tom Crean",
+    "role": "主语（并列主语的第三项）",
+    "zh": "和汤姆·克林"
+   },
+   {
+    "text": "traversed",
+    "role": "谓语",
+    "zh": "横越了"
+   },
+   {
+    "text": "its mountainous",
+    "role": "定语（its 指南乔治亚岛，mountainous 为形容词），修饰 interior",
+    "zh": "岛上山峦重叠的"
+   },
+   {
+    "text": "interior",
+    "role": "宾语（中心词）",
+    "zh": "腹地"
+   },
+   {
+    "text": "in about 36 exhausting hours,",
+    "role": "时间状语（介词短语，in + 时间段，表示所用的时间）",
+    "zh": "用了约36个令人精疲力竭的小时"
+   },
+   {
+    "text": "reaching the Stromness whaling station on 20 May.",
+    "role": "结果状语（现在分词短语），逻辑主语是三个并列主语",
+    "zh": "于5月20日抵达斯特罗姆内斯捕鲸站"
+   }
+  ],
+  "structure": "①主句是 Shackleton, Worsley, and Tom Crean traversed its mountainous interior：三个人名并列作主语，用牛津逗号；谓语 traversed；宾语中心词 interior，its 指前一句的 South Georgia（视频说明：its：指南乔治亚岛的），mountainous 说明腹地多山。\n②in about 36 exhausting hours 是时间状语，in + 时间段表示完成横越所用的时间；exhausting 是 -ing 形容词，表示“令人精疲力竭的”。\n③reaching the Stromness whaling station on 20 May 是现在分词短语，表示结果（视频说明），逻辑主语是主句的三个人；短语内部 the Stromness whaling station 是 reaching 的宾语，on 20 May 是时间状语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，可以表示主句动作带来的自然结果，相当于 and reached…。本句 reaching the Stromness whaling station on 20 May（视频说明：现在分词短语，表示结果）说明横越腹地之后到达了捕鲸站。表示结果的现在分词前常加 thus、thereby，如 thereby reducing costs。它与伴随状语的区别是：伴随状语与主句动作同时发生，结果状语发生在主句动作之后。表示出乎意料的结果则常用不定式 only to do，如 He hurried to the station, only to find the train had left。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river burst its banks, flooding hundreds of homes.",
+      "zh": "河水决堤，淹没了数百户人家。"
+     },
+     {
+      "en": "The company cut its prices by a third, thereby doubling its sales.",
+      "zh": "公司把价格降低了三分之一，从而使销量翻了一番。"
+     }
+    ]
+   },
+   {
+    "title": "in + 时间段表示所用的时间",
+    "explain": "in + 时间段可以表示完成某事所用的时间，如 finish the job in two hours（用两小时完成这项工作）；用在将来时里则表示“……之后”，如 I'll be back in ten minutes（十分钟后回来）。本句 in about 36 exhausting hours 说明三人横越腹地用了大约36个小时，视频增译“用了”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The crew rebuilt the bridge in just six weeks.",
+      "zh": "施工队只用了六周就重建了这座桥。"
+     }
+    ]
+   },
+   {
+    "title": "-ing 形容词与 -ed 形容词：exhausting 与 exhausted",
+    "explain": "exhausting 意为“令人精疲力竭的”，修饰引起这种感受的事物，如 exhausting hours、an exhausting journey；exhausted 意为“（人）精疲力竭的”，修饰有这种感受的人。同类的还有 tiring 与 tired、boring 与 bored、interesting 与 interested。本句 exhausting 修饰 hours，说明这36个小时让人筋疲力尽。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After an exhausting day of meetings, she was too exhausted to cook.",
+      "zh": "开了一整天让人疲惫不堪的会，她累得没力气做饭了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "traverse",
+    "explain": "正式用词，意为“横越，穿过”，强调从一边到另一边穿越一片区域，如 traverse a desert、traverse a glacier。本句视频译为“横越了”。"
+   },
+   {
+    "term": "interior",
+    "explain": "熟词僻义：除“内部，室内”外，还指一个国家或岛屿远离海岸的内陆、腹地，如 the interior of Australia。本句指南乔治亚岛中部的山地，视频译为“腹地”。"
+   },
+   {
+    "term": "Tom Crean",
+    "explain": "汤姆·克林，爱尔兰籍水手，坚忍号船员，先后参加过三次南极探险。"
+   },
+   {
+    "term": "Stromness",
+    "explain": "斯特罗姆内斯，南乔治亚岛北岸的一处捕鲸站。三人从南岸登陆，翻越全岛的山地，才到达北岸的这个捕鲸站。"
+   }
+  ],
+  "translation_tip": "视频译文“沙克尔顿、沃斯利和汤姆·克林横越了岛上山峦重叠的腹地，用了约36个令人精疲力竭的小时，于5月20日抵达斯特罗姆内斯捕鲸站。”的处理：①并列主语的牛津逗号转成顿号和“和”。②its 具体化为“岛上”，mountainous 译为“山峦重叠的”。③时间状语 in about 36 exhausting hours 单独成短句，增补动词“用了”，读来更通顺。④表示结果的分词短语译成后续分句“抵达……”，日期 on 20 May 前移到动词前，译为“于5月20日”，符合汉语状语在动词前的习惯。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Ice",
+   "predicate": "repelled",
+   "object_or_complement": "three rescue attempts",
+   "explain": "主谓宾结构，无生命名词 Ice 作主语，repel 意为“逼退，击退”。谓语 repelled 为一般过去时，主动语态；before 引导时间状语从句，从句谓语 evacuated 也是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Ice",
+    "role": "主语（不可数名词，零冠词）",
+    "zh": "浮冰"
+   },
+   {
+    "text": "repelled",
+    "role": "谓语",
+    "zh": "逼退/击退了"
+   },
+   {
+    "text": "three rescue attempts",
+    "role": "宾语",
+    "zh": "三次救援行动"
+   },
+   {
+    "text": "before",
+    "role": "引导时间状语从句的连词",
+    "zh": "直到……才"
+   },
+   {
+    "text": "the Yelcho,",
+    "role": "从句主语（船名）",
+    "zh": "“耶乔号”"
+   },
+   {
+    "text": "a Chilean tug,",
+    "role": "同位语，说明 the Yelcho",
+    "zh": "一艘智利的拖船"
+   },
+   {
+    "text": "evacuated",
+    "role": "从句谓语",
+    "zh": "撤出了"
+   },
+   {
+    "text": "the 22 marooned men",
+    "role": "从句宾语",
+    "zh": "22个被困于荒岛的人"
+   },
+   {
+    "text": "on 30 August.",
+    "role": "从句的时间状语（介词短语）",
+    "zh": "8月30日"
+   }
+  ],
+  "structure": "①主句是 Ice repelled three rescue attempts：无生命名词 Ice 作主语，指海上的浮冰，谓语 repelled，宾语 three rescue attempts。\n②before 引导时间状语从句：从句主语 the Yelcho，a Chilean tug 是同位语，说明 Yelcho（视频说明）；谓语 evacuated，宾语 the 22 marooned men，on 30 August 是从句的时间状语。年份承上文，指1916年。\n③主句的三次失败发生在前，从句的成功撤离发生在后，视频说明 before… 在……之前，这里译作“直到……才……”。the 22 marooned men 指留在大象岛上的22人：全队28人，沙克尔顿等6人乘小艇离开后，岛上还剩22人。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "before 从句译为“直到……才”",
+    "explain": "before 引导时间状语从句，表示主句动作发生在从句动作之前。当主句是一段持续的或反复的过程时，汉语常把 before 从句译成“直到……才……”，强调从句动作来得晚、等待时间长。本句主句是三次救援失败，从句是耶乔号终于撤出被困者，视频说明 before… 在……之前，这里译作“直到……才……”。类似的还有 It was three years before…（过了三年才……）、It was not long before…（不久就……）。考研翻译中，机械地译成“在……之前”往往不通顺，要按主从句的时间关系灵活处理。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It was nearly midnight before the last guests went home.",
+      "zh": "直到将近午夜，最后一批客人才回家。"
+     },
+     {
+      "en": "Scientists studied the virus for a decade before they developed a vaccine.",
+      "zh": "科学家们研究这种病毒十年，才研制出疫苗。"
+     }
+    ]
+   },
+   {
+    "title": "同位语交代陌生专名",
+    "explain": "a Chilean tug 是同位语，说明 the Yelcho 是什么船（视频说明：同位语，说明 Yelcho）。本文多次用“专名 + 不定冠词短语”的同位语向读者交代陌生的地名、船名，如第1句 South Georgia, a remote whaling outpost、第6句 Elephant Island, a bleak, uninhabited rock、第7句 the James Caird, a fragile lifeboat。这种写法在新闻和外刊中很常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "They stayed in Hallstatt, a lakeside village in the Austrian Alps.",
+      "zh": "他们住在哈尔施塔特，奥地利阿尔卑斯山区的一个湖畔村庄。"
+     }
+    ]
+   },
+   {
+    "title": "the + 数词 + 名词表示特指",
+    "explain": "the 22 marooned men 中，定冠词 the 表示特指，指读者可以从前文推知的那22人：全队28人，6人乘小艇离开，大象岛上剩下22人。如果不用 the，说成 22 marooned men，只是第一次引出“22个被困的人”，没有特指意味。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Of the 40 applicants, the 12 who passed the written test were invited to an interview.",
+      "zh": "40名申请者中，通过笔试的那12人受邀参加面试。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Yelcho",
+    "explain": "耶乔号，智利海军的一艘拖船，由路易斯·帕尔多（Luis Pardo）指挥，1916年8月30日从大象岛接走了留守的22人。视频给船名加了引号，译作“耶乔号”。"
+   },
+   {
+    "term": "tug",
+    "explain": "拖船，也作 tugboat，指用来拖带、顶推其他船只的小型大马力船；tug 也有“猛拉，拖拽”的意思，如 give the rope a tug（猛拉绳子）。"
+   },
+   {
+    "term": "evacuate",
+    "explain": "意为“撤离，疏散”，常用 evacuate sb from a place，如 evacuate residents from the flood zone；名词 evacuation。本句视频译为“撤出了”。"
+   },
+   {
+    "term": "marooned",
+    "explain": "视频说明：marooned 更强调被遗弃或与外界隔绝，常让人联想到荒岛、荒野或偏远地点。本句视频译为“被困于荒岛的”，与第5句 stranded（被困住的）相比，更突出孤岛上与世隔绝的处境。"
+   },
+   {
+    "term": "rescue attempts",
+    "explain": "rescue attempt 意为“救援行动，营救尝试”，attempt 本身暗示结果未必成功，与 repelled 搭配，说明前三次救援都没能成功。"
+   }
+  ],
+  "translation_tip": "视频译文“浮冰逼退/击退了三次救援行动，直到8月30日，“耶乔号”，一艘智利的拖船，才撤出了22个被困于荒岛的人。”的处理：①Ice 译为“浮冰”，说明阻挡救援的是海上漂浮的冰。②before 从句译成“直到……才……”，强调救援来得迟。③从句末尾的日期 on 30 August 前移，紧跟“直到”之后，突出最终获救的时间。④同位语 a Chilean tug 保留原位，用逗号隔开；船名加引号；marooned 译为“被困于荒岛的”，体现视频说明中“与外界隔绝”的含义；the 22 marooned men 译为“22个被困于荒岛的人”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "All 28 of Endurance's party",
+   "predicate": "survived",
+   "object_or_complement": "their ordeal",
+   "explain": "主谓宾结构，survive 作及物动词，意为“挺过”。谓语 survived 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "All 28 of",
+    "role": "主语（代词 all 与数词 28 连用，of 引出所属的整体）",
+    "zh": "全部28个"
+   },
+   {
+    "text": "Endurance's party",
+    "role": "介词 of 的宾语（party 是集合名词，指探险队全体成员）",
+    "zh": "坚忍号的成员"
+   },
+   {
+    "text": "survived",
+    "role": "谓语",
+    "zh": "挺过了"
+   },
+   {
+    "text": "their ordeal.",
+    "role": "宾语",
+    "zh": "他们的这场磨难"
+   }
+  ],
+  "structure": "①简单句，主干 All 28 survived their ordeal，主谓宾结构。\n②主语 All 28 of Endurance's party 是“all + 数词 + of + 名词”结构，表示“……中的全部28人”；Endurance's party 中 party 是集合名词，指坚忍号这一队的全体成员。\n③survived 是及物动词，直接接宾语 their ordeal（视频说明：ordeal：指一段漫长、痛苦且极其严酷的折磨或生死考验）；their 指这28人。本句总结前文：28人全部生还。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "survive 作及物动词",
+    "explain": "survive 作及物动词时意为“挺过，从（灾难、事故等）中活下来”，宾语直接跟在动词后，不加介词，如 survive an earthquake、survive the war，不能说 survive from the ordeal。survive sb 意为“比某人活得长”，如 She survived her husband by ten years。survive 也可作不及物动词，如 Only two of the crew survived。本句 survived their ordeal 视频译为“挺过了他们的这场磨难”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Remarkably, everyone on board survived the crash.",
+      "zh": "令人惊叹的是，机上所有人都在这次坠机中活了下来。"
+     },
+     {
+      "en": "Few small shops survived the recession.",
+      "zh": "没有几家小商店挺过了这次经济衰退。"
+     }
+    ]
+   },
+   {
+    "title": "all + 数词 + of 结构",
+    "explain": "all 可以与数词连用，再接 of + 带限定词的名词，表示“……中的全部（若干个）”，如 all three of the children、all 28 of Endurance's party；也可以不用 of，说成 all 28 members。用 of 时，后面的名词必须带限定词，如 the、所有格等，本句是名词所有格 Endurance's。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "All four of her grandparents were born in Italy.",
+      "zh": "她的祖父母和外祖父母四人都出生在意大利。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "party",
+    "explain": "熟词僻义：除“聚会；政党”外，还指一起出行或工作的一队人、一行人，如 a search party（搜寻队）、a rescue party（救援队）、a party of tourists（一群游客）。本句 Endurance's party 指坚忍号这一队的全体成员，视频译为“坚忍号的成员”。沙克尔顿这次探险还有一支在南极洲另一侧罗斯海一带活动的分队（Ross Sea party），本句只说坚忍号这一队。"
+   },
+   {
+    "term": "ordeal",
+    "explain": "严酷的考验，磨难，苦难经历，强调持续时间长、令人痛苦，如 go through an ordeal（经受磨难）、a terrible ordeal。视频说明：ordeal：指一段漫长、痛苦且极其严酷的折磨或生死考验。"
+   },
+   {
+    "term": "28 人",
+    "explain": "28 = 22 + 6：留在大象岛上的22人（第11句）加上乘詹姆斯·凯尔德号求援的6人（第7句）。"
+   }
+  ],
+  "translation_tip": "视频译文“全部28个坚忍号的成员挺过了他们的这场磨难。”的处理：①All 28 of Endurance's party 按英文顺序译成“全部28个坚忍号的成员”，party 译为“成员”。②survived 译为“挺过了”，比“幸存”更能与“磨难”搭配。③their ordeal 增补“这场”，指前文叙述的整段经历，起回指和总结的作用。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "searchers",
+   "predicate": "located",
+   "object_or_complement": "the wreck",
+   "explain": "主谓宾结构，locate 意为“找到……的位置”。谓语 located 为一般过去时，主动语态；宾语后有表示深度的状语和说明宾语状态的形容词。"
+  },
+  "components": [
+   {
+    "text": "On 5 March 2022",
+    "role": "时间状语（介词短语）",
+    "zh": "2022年3月5日"
+   },
+   {
+    "text": "searchers",
+    "role": "主语（复数名词，零冠词）",
+    "zh": "搜寻队"
+   },
+   {
+    "text": "located",
+    "role": "谓语",
+    "zh": "找到了"
+   },
+   {
+    "text": "the wreck",
+    "role": "宾语",
+    "zh": "残骸"
+   },
+   {
+    "text": "3,008 metres down,",
+    "role": "地点状语（“数量 + 副词 down”结构，说明残骸所在的深度）",
+    "zh": "位于3,008米深的海底"
+   },
+   {
+    "text": "upright",
+    "role": "宾语补足语（形容词），说明残骸被找到时的状态",
+    "zh": "直立"
+   },
+   {
+    "text": "and intact.",
+    "role": "宾语补足语（形容词，与 upright 并列）",
+    "zh": "并且完好无损"
+   }
+  ],
+  "structure": "①主干 searchers located the wreck，主谓宾结构，句首 On 5 March 2022 是时间状语，叙述从1916年跳到2022年。\n②3,008 metres down 由数量名词 3,008 metres 加副词 down 构成，说明残骸所在的深度（视频说明：在水下3,008米处）。\n③upright and intact 是两个并列的形容词，补充说明残骸被找到时的状态（视频说明），作宾语 the wreck 的补足语：船身直立，完好无损。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "数量 + 副词或形容词表示深度、距离",
+    "explain": "“数量名词 + down/deep/high/long/away”可以表示深度、高度、长度、距离，如 3,008 metres down（在水下3,008米处）、ten metres deep（十米深）、two miles away（两英里外）。数量名词放在副词或形容词前面，起修饰作用。第14句 about four miles south of the spot 也是“数量 + 方位副词”的结构。这种结构在描述位置的说明文中很常见。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The divers found the cave entrance about 40 metres down.",
+      "zh": "潜水员在水下约40米处找到了洞穴入口。"
+     },
+     {
+      "en": "The nearest hospital is some 60 kilometres away.",
+      "zh": "最近的医院在大约60公里以外。"
+     }
+    ]
+   },
+   {
+    "title": "形容词作宾语补足语，说明被发现时的状态",
+    "explain": "find、locate、discover 等动词后面可以接“宾语 + 形容词”，形容词说明宾语被发现时所处的状态，如 find the door open、find him asleep。本句 located the wreck … upright and intact 中，upright and intact 说明残骸被找到时直立、完好（视频说明：补充说明残骸的状态）。这里只能用形容词，不能换成副词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Police found the house empty and the back door unlocked.",
+      "zh": "警方发现房子里空无一人，后门也没有上锁。"
+     },
+     {
+      "en": "Archaeologists found the jars intact after two thousand years.",
+      "zh": "考古学家发现这些罐子历经两千年仍完好无损。"
+     }
+    ]
+   },
+   {
+    "title": "数字的千位分隔符",
+    "explain": "英语数字从右往左每三位用逗号分隔，3,008 读作 three thousand and eight：英式英语在十位或个位数前加 and（如 three hundred and twenty），美式英语常省略。视频保留阿拉伯数字，译为“3,008米”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The stadium can hold 52,000 spectators.",
+      "zh": "这座体育场可容纳52,000名观众。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "wreck",
+    "explain": "名词指失事的船只、飞机或其残骸，也作 shipwreck；动词意为“毁坏，使失事”，也可比喻毁掉计划、名声，如 wreck sb's chances。本句视频译为“残骸”。"
+   },
+   {
+    "term": "locate",
+    "explain": "意为“找到……的确切位置，查明”，如 locate the source of the leak；be located in 意为“位于”。本句视频译为“找到了”。"
+   },
+   {
+    "term": "searchers",
+    "explain": "searcher 意为“搜寻者”，本句用复数指搜寻沉船的人员，视频译为“搜寻队”。2022年找到坚忍号的是 Endurance22 搜寻考察队，沉船位于威德尔海海底。"
+   },
+   {
+    "term": "upright and intact",
+    "explain": "upright 意为“直立的，竖直的”，另有“正直的”之义；intact 意为“完好无损的”，常作表语或补足语，如 remain intact。两个词说明沉没百年后，船身仍然直立、基本完整。"
+   }
+  ],
+  "translation_tip": "视频译文“2022年3月5日，搜寻队找到了残骸，位于3,008米深的海底，直立，并且完好无损。”的处理：①searchers 译为集体名词“搜寻队”。②3,008 metres down 单独成短句，增补“位于”和“海底”，译成“位于3,008米深的海底”。③upright and intact 拆成两个短句“直立”“并且完好无损”，and 译为“并且”，几个短句依次交代位置和状态，节奏清楚。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "She",
+   "predicate": "lay",
+   "object_or_complement": "",
+   "explain": "主谓结构，lay 是不及物动词 lie（位于）的过去式，后接 about four miles south of the spot 作地点状语。谓语为一般过去时，主动语态；冒号后是同位语，评价前面所说的偏差。"
+  },
+  "components": [
+   {
+    "text": "She",
+    "role": "主语（代词 she 指坚忍号）",
+    "zh": "它"
+   },
+   {
+    "text": "lay",
+    "role": "谓语（lie 的过去式，意为“位于”）",
+    "zh": "位于"
+   },
+   {
+    "text": "about four miles south",
+    "role": "地点状语（“数量 + 方位副词”结构，表示相对位置）",
+    "zh": "以南约四英里处"
+   },
+   {
+    "text": "of the spot",
+    "role": "介词短语，说明以哪里为参照",
+    "zh": "位置"
+   },
+   {
+    "text": "Worsley recorded",
+    "role": "定语从句（省略关系代词 that），修饰 the spot",
+    "zh": "沃斯利所记"
+   },
+   {
+    "text": "in November 1915,",
+    "role": "定语从句中的时间状语，修饰 recorded",
+    "zh": "记于1915年11月"
+   },
+   {
+    "text": "months before the voyage:",
+    "role": "同位语，补充说明 November 1915",
+    "zh": "是小艇出航前几个月测算的"
+   },
+   {
+    "text": "a slight",
+    "role": "定语，修饰 discrepancy",
+    "zh": "只有一点轻微的"
+   },
+   {
+    "text": "discrepancy",
+    "role": "同位语（冒号后，概括并评价前面所说的偏差）",
+    "zh": "差异"
+   },
+   {
+    "text": "for a calculation on shifting ice.",
+    "role": "后置定语（介词短语，for 意为“就……而言”），修饰 discrepancy",
+    "zh": "对在漂移的冰面上计算出的位置来说"
+   }
+  ],
+  "structure": "①主句是 She lay about four miles south of the spot：She 指坚忍号，lay 是 lie 的过去式，意为“位于”；about four miles south 是“数量 + 方位副词”结构作地点状语，of the spot 说明参照点。\n②Worsley recorded in November 1915 是定语从句，省略了关系代词 that，修饰 spot（视频说明）；关系代词在从句中作 recorded 的宾语，in November 1915 是从句的时间状语。\n③months before the voyage 补充说明 November 1915（视频说明），the voyage 指第7、8句詹姆斯·凯尔德号的航行，即沃斯利记录位置是在那次航行的几个月之前。\n④冒号后是同位语，评价这一偏差（视频说明）：a slight discrepancy 概括前面说的“偏离约四英里”；for a calculation on shifting ice 中 for 意为“就……而言”，on shifting ice 说明计算是在不断漂移的冰面上完成的。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "lie 与 lay",
+    "explain": "lie 作“位于，躺”讲是不及物动词，变化为 lie, lay, lain，现在分词 lying；lay 作“放置，产（卵）”讲是及物动词，变化为 lay, laid, laid。本句 She lay about four miles south of… 中的 lay 是 lie 的过去式，后面没有宾语，意为“位于”，视频译为“它位于”。lie 作“说谎”讲时变化为 lie, lied, lied。判断方法是看后面有没有宾语：有宾语的“放置”用 lay、laid，没有宾语的“位于，躺”用 lie、lay。考研完形和写作常考这组词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The village lay at the foot of a steep hill.",
+      "zh": "那个村庄位于一座陡峭的山脚下。"
+     },
+     {
+      "en": "She laid the documents carefully on the desk.",
+      "zh": "她把文件小心地放在桌上。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词在定语从句中作宾语时可以省略。本句 the spot Worsley recorded 即 the spot (that) Worsley recorded，关系代词在从句中作 recorded 的宾语（视频说明：定语从句，省略 that，修饰 spot）。识别方法：名词后面紧跟“主语 + 谓语”，而谓语缺少宾语，中间就省略了关系代词。考研长难句中这种结构很常见，容易把从句主语误当作主句主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The house they bought last year needs a new roof.",
+      "zh": "他们去年买的房子需要换新屋顶了。"
+     },
+     {
+      "en": "Most of the advice he gave me turned out to be useful.",
+      "zh": "他给我的建议大多都很有用。"
+     }
+    ]
+   },
+   {
+    "title": "冒号后接名词短语作同位语，表示评价",
+    "explain": "冒号后可以接一个名词短语，作前面整句话的同位语，对前文内容进行概括或评价。本句冒号后的 a slight discrepancy for a calculation on shifting ice 概括前面所说的情况，即沉船实际位置比记录位置偏南约四英里，并作出评价（视频说明：冒号后是同位语，评价这一偏差）。for 意为“就……而言，考虑到……”，如 She's tall for her age，暗含“相对于艰难的条件，这个偏差很小”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The team finished third: a remarkable result for a club with so little money.",
+      "zh": "这支球队获得第三名，对于一家资金如此有限的俱乐部来说，这是了不起的成绩。"
+     },
+     {
+      "en": "He apologised within an hour: an unusual step for a politician.",
+      "zh": "他在一小时内就道了歉，这对一个政客来说是少见之举。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "discrepancy",
+    "explain": "差异，不一致，出入，常用 a discrepancy between A and B，如 a discrepancy between the two accounts（两种说法之间的出入）。本句指沉船实际位置与沃斯利记录位置之间的差距，视频译为“差异”。"
+   },
+   {
+    "term": "shifting ice",
+    "explain": "shifting 意为“不断移动的，漂移的”，来自动词 shift（移动，转移）。沃斯利记录沉船位置时，众人身处随洋流漂移的浮冰上，测算条件极差，所以四英里的偏差显得很小，视频译为“在漂移的冰面上”。"
+   },
+   {
+    "term": "the voyage",
+    "explain": "定冠词 the 回指第7、8句詹姆斯·凯尔德号的那次航行，视频译为“小艇出航”。沃斯利1915年11月记录位置，1916年4月小艇出航，相隔几个月，所以说 months before the voyage。"
+   },
+   {
+    "term": "lay",
+    "explain": "本句 lay 是 lie 的过去式，意为“位于”，常用于描述船只、城镇等的位置，如 The ship lay at anchor（船停泊着）。"
+   }
+  ],
+  "translation_tip": "视频译文“它位于沃斯利所记位置以南约四英里处，那个位置记于1915年11月，是小艇出航前几个月测算的；只有一点轻微的差异，对在漂移的冰面上计算出的位置来说，已属难得。”的处理：①省略关系代词的定语从句 Worsley recorded 前置，译为“沃斯利所记位置”，再接“以南约四英里处”，符合汉语方位表达。②从句中的 in November 1915 拆出来单独成句，用“那个位置”复指 the spot，译为“那个位置记于1915年11月”。③months before the voyage 增补成完整的句子“是小艇出航前几个月测算的”，把 the voyage 具体化为“小艇出航”。④冒号译成分号；同位语 a slight discrepancy 增补“只有一点”，for 短语译成“对……来说”，并增补“已属难得”，把英文暗含的评价明确表达出来。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Legend",
+   "predicate": "salutes",
+   "object_or_complement": "Shackleton",
+   "explain": "主谓宾结构，salute 意为“称颂”，与 for 短语构成 salute sb for sth。谓语 salutes 为一般现在时，主动语态，表示至今仍然成立的评价。"
+  },
+  "components": [
+   {
+    "text": "Legend",
+    "role": "主语（不可数名词，零冠词，泛指流传的传说）",
+    "zh": "传说"
+   },
+   {
+    "text": "rightly",
+    "role": "状语（评注性副词，表示作者认为理应如此）",
+    "zh": "理所当然地"
+   },
+   {
+    "text": "salutes",
+    "role": "谓语",
+    "zh": "称颂"
+   },
+   {
+    "text": "Shackleton",
+    "role": "宾语",
+    "zh": "他"
+   },
+   {
+    "text": "for his charisma.",
+    "role": "原因状语（介词短语，与 salutes 构成 salute sb for sth）",
+    "zh": "因沙克尔顿的超凡魅力而"
+   }
+  ],
+  "structure": "①简单句，主干 Legend salutes Shackleton，主谓宾结构。主语 Legend 用零冠词，泛指关于这段历史的种种传说。\n②rightly 是评注性副词，放在谓语前，表示作者认为传说这样称颂是正确的、理所当然的。\n③for his charisma 说明称颂的原因，与 salutes 构成 salute sb for sth（视频说明：因某事称颂某人）；his 指 Shackleton。\n④本句由叙事转入评论，时态由一般过去时变为一般现在时；它先肯定沙克尔顿，为下一句用 Yet 转向沃斯利作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "salute sb for sth：动词 + 宾语 + for 表示原因",
+    "explain": "salute 原义是“敬礼”，引申为“向……致敬，称颂”，salute sb for sth 意为“因某事称颂某人”（视频说明）。英语中表示褒贬的动词常用“动词 + sb + for sth”结构，for 引出原因：praise sb for sth、thank sb for sth、blame sb for sth、criticise sb for sth、punish sb for sth。考研阅读中，这类结构常用来表达作者或他人对人物的评价，for 后面就是评价的理由。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Critics praised the director for her bold use of colour.",
+      "zh": "评论家称赞这位导演用色大胆。"
+     },
+     {
+      "en": "The report blamed the airline for poor maintenance.",
+      "zh": "报告指责这家航空公司维护不善。"
+     }
+    ]
+   },
+   {
+    "title": "评注性副词 rightly",
+    "explain": "rightly 放在谓语前，表示说话人对整件事的判断：这样做是对的、理所当然的，相当于 It is right that legend salutes Shackleton…。类似的副词有 justly、wisely、understandably。rightly or wrongly 意为“不管对不对”。本句 rightly 表明作者认同传说对沙克尔顿的称颂，先肯定，再在下一句转折。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The public was rightly outraged by the decision.",
+      "zh": "公众对这一决定感到愤慨，这是理所当然的。"
+     }
+    ]
+   },
+   {
+    "title": "时态转换标志由叙事转入评论",
+    "explain": "前14句叙述历史事件，用一般过去时；本句和下一句改用一般现在时（salutes、hinge on），表示至今仍然成立的评价和作者的观点。阅读时注意时态转换，它往往标志着文章从叙事转向议论，作者的态度也在这里出现。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The bridge opened in 1932. Today it remains the city's best-loved landmark.",
+      "zh": "这座桥于1932年通车。如今，它仍是这座城市最受喜爱的地标。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "legend",
+    "explain": "作不可数名词时泛指流传的传说、传奇故事，如 Legend has it that…（据传说……）；作可数名词指一个传说故事或传奇人物，如 a living legend（活着的传奇人物）。本句视频译为“传说”。"
+   },
+   {
+    "term": "charisma",
+    "explain": "视频说明：一种能强烈吸引他人、让人心甘情愿追随的非凡个人魅力（领袖气质/感召力）。视频译为“超凡魅力”。形容词 charismatic 意为“有超凡魅力的”，如 a charismatic leader。"
+   }
+  ],
+  "translation_tip": "视频译文“传说理所当然地因沙克尔顿的超凡魅力而称颂他。”的处理：①for 引出的原因状语前置，译为“因……而”，放在谓语“称颂”之前，符合汉语状语在前的习惯。②宾语 Shackleton 的名字移到原因状语里，把 his charisma 译为“沙克尔顿的超凡魅力”，宾语位置改用代词“他”，避免名字先后出现两次。③rightly 译为“理所当然地”，表明作者的认同。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "both ends of the story",
+   "predicate": "hinge on",
+   "object_or_complement": "Worsley's meticulous arithmetic",
+   "explain": "主谓宾结构，hinge on 是短语动词，意为“取决于”，后接宾语。谓语为一般现在时，主动语态，表达作者的观点。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "并列连词（表示转折，承接上句）",
+    "zh": "可"
+   },
+   {
+    "text": "both ends",
+    "role": "主语",
+    "zh": "两头"
+   },
+   {
+    "text": "of the story",
+    "role": "后置定语（介词短语），修饰 both ends",
+    "zh": "这个故事的"
+   },
+   {
+    "text": "hinge on",
+    "role": "谓语（短语动词）",
+    "zh": "都取决于"
+   },
+   {
+    "text": "Worsley's",
+    "role": "定语（名词所有格），修饰 arithmetic",
+    "zh": "沃斯利"
+   },
+   {
+    "text": "meticulous",
+    "role": "定语（形容词），修饰 arithmetic",
+    "zh": "一丝不苟/十分细心的"
+   },
+   {
+    "text": "arithmetic.",
+    "role": "宾语（中心词）",
+    "zh": "算数/计算"
+   }
+  ],
+  "structure": "①Yet 是表示转折的连词，承接上一句：传说称颂的是沙克尔顿的魅力，可故事的关键却在沃斯利身上。\n②主干 both ends of the story hinge on Worsley's meticulous arithmetic：主语中心词 both ends，of the story 作后置定语；谓语 hinge on（视频说明：取决于）；宾语中心词 arithmetic，前有所有格 Worsley's 和形容词 meticulous 修饰。\n③both ends 指故事的两头：视频说明，一头是小艇航行，一头是百年后找到残骸。前者靠沃斯利在航行中的推算（第8句），后者靠他1915年记下的沉船位置（第4、14句）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "hinge on：取决于",
+    "explain": "hinge 本义是“铰链”，门绕着铰链转动，引申出短语动词 hinge on/upon，意为“取决于，以……为转移”，相当于 depend on，但更强调某个因素是关键。hinge on 一般不用被动语态，也很少用进行时；宾语可以是名词短语，也可以是 wh- 从句，如 Everything hinges on whether the funding is approved。考研阅读中，hinge on、turn on、rest on 都可以表示“取决于”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The outcome of the trial may hinge on a single witness.",
+      "zh": "审判结果可能取决于一名证人。"
+     },
+     {
+      "en": "Whether the project goes ahead hinges on what the council decides next month.",
+      "zh": "这个项目能否推进，取决于市议会下个月作出的决定。"
+     }
+    ]
+   },
+   {
+    "title": "Yet 表示转折",
+    "explain": "yet 作连词时意为“然而，可是”，与 but 相近，常引出与前文预期相反的情况，可以放在句首，也可以连接两个分句（…, yet …）。本句用 Yet 承接上一句的肯定，转而指出被忽视的一面。考研阅读中，Yet、But、However 之后往往是作者真正想强调的观点。yet 作副词时则表示“还，仍”，如 not yet（还没有）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan sounded simple, yet it took years to carry out.",
+      "zh": "这个计划听起来很简单，可实施起来却花了好几年。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "both ends of the story",
+    "explain": "视频说明：both ends：一头是小艇航行，一头是百年后找到残骸。end 在这里指故事的一端、一头，与 the story 搭配，把整段历史比作一条有两头的线。"
+   },
+   {
+    "term": "meticulous",
+    "explain": "视频说明：meticulous 常被译为“一丝不苟”或“细致入微”。作为形容词，它专指做事极其严密，对微小的细节也要反复核对，力求把出错率降到最低。常见搭配有 meticulous attention to detail（对细节一丝不苟）、meticulous planning。"
+   },
+   {
+    "term": "arithmetic",
+    "explain": "本义是“算术”，也指具体的计算，如 do the arithmetic（算一算）；还可比喻得失的估算，如 political arithmetic（政治上的利害盘算）。本句指沃斯利的航海计算，视频译为“算数/计算”。"
+   }
+  ],
+  "translation_tip": "视频译文“可这个故事的两头，都取决于沃斯利一丝不苟/十分细心的算数/计算。”的处理：①Yet 译为口语化的“可”，放在句首表示转折。②后置定语 of the story 前移，译为“这个故事的两头”，并在主语后加逗号停顿，突出主语。③both 的含义分别体现在“两头”和谓语前的“都”上。④名词所有格 Worsley's 译为“沃斯利”，后面省去“的”字，避免与“一丝不苟/十分细心的”连用两个“的”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Leadership",
+   "predicate": "held",
+   "object_or_complement": "28 men（宾语）；together（宾语补足语）",
+   "explain": "主谓宾宾补结构，hold sb together 意为“使……团结在一起”，together 是副词，作宾语补足语。谓语 held 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Leadership",
+    "role": "主语（抽象名词，零冠词）",
+    "zh": "领导力"
+   },
+   {
+    "text": "held",
+    "role": "谓语（与 together 构成 hold sb together）",
+    "zh": "让"
+   },
+   {
+    "text": "28 men",
+    "role": "宾语",
+    "zh": "28人"
+   },
+   {
+    "text": "together.",
+    "role": "宾语补足语（副词）",
+    "zh": "始终抱成一团"
+   }
+  ],
+  "structure": "①简单句，主语 Leadership 是抽象名词，指沙克尔顿的领导才能，呼应第15句的 charisma。\n②谓语 held 与副词 together 构成 hold…together（视频说明：使……团结在一起），28 men 是宾语，together 作宾语补足语，说明宾语所处的状态。\n③本句与下一句结构平行，一句说领导力，一句说精确，分别对应沙克尔顿和沃斯利，构成全文的总结。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "hold + 宾语 + together",
+    "explain": "hold sb/sth together 意为“使……团结在一起，使……保持完整”（视频说明：使……团结在一起），together 是副词，作宾语补足语。类似的结构有 keep sb together、bring people together、pull oneself together（振作起来）。hold together 也可以不带宾语，表示“团结一致，保持完整”，如 The coalition held together for four years。本句以 Leadership 作主语，held 在视频中译为使役的“让”，together 译为“始终抱成一团”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "It was her patience that held the family together through those difficult years.",
+      "zh": "正是她的耐心，让一家人在那些艰难岁月里没有散。"
+     },
+     {
+      "en": "The two parties held together long enough to pass the budget.",
+      "zh": "两党一直保持合作，直到预算获得通过。"
+     }
+    ]
+   },
+   {
+    "title": "抽象名词作主语与平行结构",
+    "explain": "本句与下一句都用抽象名词作主语：Leadership held 28 men together；Precision put six ashore…。两句结构平行，形成对照：Leadership 指沙克尔顿的领导才能，Precision 指沃斯利计算的精确（视频在第18句增补“（沃斯利的）”），分别呼应第15句的 charisma 和第16句的 meticulous arithmetic。用抽象名词作主语，把人的品质放在突出位置，使总结简洁有力，是外刊评论常见的写法，考研写作也可以借用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Curiosity drew her into the lab; discipline kept her there.",
+      "zh": "好奇心把她带进了实验室，自律让她留了下来。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "leadership",
+    "explain": "可指“领导力，领导才能”（不可数），也可指“领导层，领导地位”，如 the party leadership（党的领导层）、under sb's leadership（在某人领导下）。本句指领导才能，视频译为“领导力”。"
+   },
+   {
+    "term": "28 men",
+    "explain": "指坚忍号全队28人，与第12句 All 28 of Endurance's party 呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“领导力让28人始终抱成一团。”的处理：①抽象名词 Leadership 直接作主语，译为“领导力”。②held…together 译成使役句“让……抱成一团”，held 对应“让”。③together 增补“始终”，表示在整段磨难中一直团结，“抱成一团”比“团结在一起”更形象。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "Precision",
+   "predicate": "put；brought",
+   "object_or_complement": "six（put 的宾语）；their ship（brought 的宾语）",
+   "explain": "一个主语带两个由 and 连接的并列谓语：put six ashore 和 brought their ship back into view，都是“动词 + 宾语 + 表示方位的副词或介词短语”的结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Precision",
+    "role": "主语（抽象名词，零冠词，指沃斯利计算的精确）",
+    "zh": "（沃斯利的）精确"
+   },
+   {
+    "text": "put",
+    "role": "谓语之一",
+    "zh": "不仅将……送"
+   },
+   {
+    "text": "six",
+    "role": "put 的宾语（数词作名词，指六人）",
+    "zh": "六人"
+   },
+   {
+    "text": "ashore",
+    "role": "宾语补足语（副词，表示“上岸”）",
+    "zh": "上岸"
+   },
+   {
+    "text": "within reach of help",
+    "role": "状语（介词短语，说明送到的位置在救援可及的范围内）",
+    "zh": "进入救援范围"
+   },
+   {
+    "text": "and,",
+    "role": "并列连词，连接两个谓语",
+    "zh": "并且"
+   },
+   {
+    "text": "a century on,",
+    "role": "插入的时间状语（名词短语 + 副词 on），修饰 brought",
+    "zh": "在一个世纪后"
+   },
+   {
+    "text": "brought",
+    "role": "谓语之二",
+    "zh": "把……带"
+   },
+   {
+    "text": "their ship",
+    "role": "brought 的宾语",
+    "zh": "他们的船"
+   },
+   {
+    "text": "back into view.",
+    "role": "宾语补足语（副词 back + 介词短语 into view，表示方向和结果）",
+    "zh": "回到世人的视野中"
+   }
+  ],
+  "structure": "①主语 Precision 是抽象名词，指沃斯利计算的精确，视频增补“（沃斯利的）”，与上一句的 Leadership 平行。\n②第一个谓语 put six ashore within reach of help：six 是数词作名词，指乘小艇出航的六人；ashore 说明送到岸上；within reach of help 说明上岸的地点在救援可及的范围内（视频说明：within reach of…：在……够得着的范围内）。\n③and 连接第二个谓语 brought their ship back into view；a century on 插在 and 与 brought 之间，前后用逗号隔开，只修饰第二个谓语，指约一百年后的2022年。back into view 说明把沉船带回人们的视野，指找到残骸。\n④全句与第16句 both ends of the story 呼应：前一个谓语对应小艇航行，后一个谓语对应百年后找到残骸。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动词 + 宾语 + 表示方位的副词或介词短语",
+    "explain": "put 意为“使处于某种位置或状态”，常接宾语和表示方位的副词或介词短语，如 put sb ashore（送某人上岸）、put sb in danger（使某人陷入危险）、put sth into practice（付诸实践）。本句 put six ashore within reach of help 中，ashore 是副词，表示上岸，within reach of help 进一步说明送到了能获得救援的范围内。brought their ship back into view 结构相同：bring + 宾语 + 副词 back + 介词短语 into view。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The captain put the passengers ashore at the nearest port.",
+      "zh": "船长让乘客在最近的港口上岸。"
+     },
+     {
+      "en": "The new evidence put the case in a different light.",
+      "zh": "新证据让这个案子呈现出完全不同的面貌。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语之间的插入成分",
+    "explain": "本句主语 Precision 带两个并列谓语 put… 和 brought…，由 and 连接。a century on 插在 and 与 brought 之间，前后用逗号隔开，只修饰第二个谓语，说明把船带回视野是一个世纪以后的事。阅读时先跳过两个逗号之间的插入成分，就能看清 and 连接的是 put 和 brought 两个谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut costs and, within a year, returned to profit.",
+      "zh": "公司削减了成本，并在一年之内扭亏为盈。"
+     },
+     {
+      "en": "She trained as a nurse and, after the war, qualified as a doctor.",
+      "zh": "她受训成为护士，战后又取得了医生资格。"
+     }
+    ]
+   },
+   {
+    "title": "时间名词短语 + on 表示“……之后”",
+    "explain": "副词 on 放在表示时间的名词短语之后，意为“（从那时起）过了……之后”，如 a century on（一个世纪之后）、ten years on、two decades on，多见于新闻和评论。本句 a century on 指从1916年起算约一百年后，即2022年找到残骸。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Ten years on, the town has still not fully recovered from the flood.",
+      "zh": "十年过去了，这座小镇仍未从那场洪灾中完全恢复过来。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ashore",
+    "explain": "副词，意为“上岸，在岸上”，如 go ashore（上岸）、come ashore、be washed ashore（被冲上岸）。前缀 a- 表示“在……上，向……”，同类词有 aboard（在船上）、afloat（漂浮着）。"
+   },
+   {
+    "term": "within reach of",
+    "explain": "视频说明：在……够得着的范围内。如 within reach of the city centre（离市中心不远）、keep medicines out of reach of children（药品放在儿童够不着的地方）。本句 within reach of help 指六人上岸的地方能得到救援，视频译为“进入救援范围”。"
+   },
+   {
+    "term": "into view",
+    "explain": "view 指视野、视线，come into view 意为“进入视野，出现”，bring sth into view 意为“使某物出现在视野中”；反义为 out of view。本句 brought their ship back into view 指沉船被重新找到，视频增补“世人的”，译为“带回到世人的视野中”。"
+   },
+   {
+    "term": "Precision",
+    "explain": "precision 意为“精确，准确”，作定语时表示“精密的”，如 precision instruments（精密仪器）。本句指沃斯利计算的精确，与第16句 meticulous arithmetic 呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“（沃斯利的）精确，不仅将六人送上岸，进入救援范围；并且在一个世纪后，把他们的船带回到世人的视野中。”的处理：①抽象名词 Precision 前用括号增补“（沃斯利的）”，点明是谁的精确，主语后加逗号停顿。②and 连接的两个谓语译成“不仅……并且……”，突出两件事分量相当，中间用分号隔开。③put six ashore 译成把字句“将六人送上岸”，within reach of help 单独译为“进入救援范围”。④插入的 a century on 译为“在一个世纪后”，放在第二个谓语前；brought their ship back into view 译成把字句，增补“世人的”，使“视野”的所指更明确。"
+ }
+]

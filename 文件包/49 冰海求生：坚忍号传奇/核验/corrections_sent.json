@@ -1,0 +1,44 @@
+[
+ {
+  "key": "n=3",
+  "field": "grammar.1.explain",
+  "before": "go ashore（上岸）",
+  "after": "jump ship（擅自离船）",
+  "reason": "ashore 是副词，go ashore 不是名词零冠词用法，换成同类航海零冠词说法 jump ship"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar.2.explain",
+  "before": "后者来自 found（创建），两者来源不同。",
+  "after": "后者由 found（创建）加 -er 构成，是另一个词（二者远源都可追溯到拉丁语 fundus“底部”）。",
+  "reason": "found 与表示“沉没”的 founder 都源于拉丁语 fundus，说“来源不同”不准确"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar.2.examples.0.zh",
+  "before": "她累得连饭都不想做了。",
+  "after": "她累得没力气做饭了。",
+  "reason": "too exhausted to cook 意为累得做不了饭，不是“不想做”"
+ },
+ {
+  "key": "n=13",
+  "field": "grammar.2.explain",
+  "before": "3,008 读作 three thousand and eight，英式英语常在百位和十位之间加 and。",
+  "after": "3,008 读作 three thousand and eight：英式英语在十位或个位数前加 and（如 three hundred and twenty），美式英语常省略。",
+  "reason": "3,008 没有百位，原说法“在百位和十位之间加 and”与所举读法不符"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar.2.examples.0.en",
+  "before": "Historians generally regard the treaty as a turning point.",
+  "after": "The bridge opened in 1932. Today it remains the city's best-loved landmark.",
+  "reason": "原例句没有时态转换，不能示范该语法点"
+ },
+ {
+  "key": "n=15",
+  "field": "grammar.2.examples.0.zh",
+  "before": "历史学家普遍把这项条约视为一个转折点。",
+  "after": "这座桥于1932年通车。如今，它仍是这座城市最受喜爱的地标。",
+  "reason": "配合新例句"
+ }
+]
