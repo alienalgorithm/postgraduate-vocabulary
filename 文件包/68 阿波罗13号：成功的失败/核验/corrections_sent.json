@@ -1,0 +1,51 @@
+[
+ {
+  "key": "n=6",
+  "field": "knowledge[2].explain",
+  "before": "名词短语 send shivers down sb's spine",
+  "after": "习语 send shivers down sb's spine",
+  "reason": "send shivers down sb's spine 是动词性习语，不是名词短语，术语有误。"
+ },
+ {
+  "key": "n=8",
+  "field": "knowledge[0].explain",
+  "before": "capsule 原义“胶囊”，引申指小而封闭的太空舱",
+  "after": "capsule 源自拉丁语 capsula（小盒子），常见义是“胶囊”，也指小而封闭的太空舱",
+  "reason": "据 Etymonline，capsule 源自拉丁语 capsula“小盒子”，“药物胶囊”义19世纪后期才出现，说“原义胶囊”与词源不符。"
+ },
+ {
+  "key": "n=8",
+  "field": "grammar[1].examples[0]",
+  "before": "{\"en\": \"The bill's chief sponsor, a senator from Ohio, defended it in a television interview.\", \"zh\": \"该法案的主要发起人，一位来自俄亥俄州的参议员，在电视采访中为法案辩护。\"}",
+  "after": "{\"en\": \"The study focused on the hippocampus, the part of the brain most closely linked to memory.\", \"zh\": \"这项研究聚焦于海马体，即大脑中与记忆关系最密切的部分。\"}",
+  "reason": "原例句的同位语说明人物身份，没有示范本语法点“用通俗说法解释专业名称”，换成用同位语解释专业术语的例句，并示范“即”的译法。"
+ },
+ {
+  "key": "n=10",
+  "field": "grammar[0].explain",
+  "before": "splash down、take off（起飞）、touch down（着陆）、break down（出故障）都是不及物的，不能接宾语，也没有被动语态。",
+  "after": "splash down（溅落）、take off（起飞）、touch down（着陆）、break down（出故障）在这些意思上都是不及物的，不能接宾语，也没有被动语态；但 take off 作“脱下”、break down 作“分解”讲时是及物的，要按词义判断。",
+  "reason": "take off、break down 另有及物用法（take off one's coat、break down the data），原文笼统说“都是不及物的”不准确。"
+ },
+ {
+  "key": "n=10",
+  "field": "knowledge[2].explain",
+  "before": "原义“胶囊”，指小而封闭的太空舱",
+  "after": "源自拉丁语 capsula（小盒子），常见义是“胶囊”，也指小而封闭的太空舱",
+  "reason": "据 Etymonline，capsule 原指小盒、小囊，“胶囊”是后起义，说“原义胶囊”与词源不符。"
+ },
+ {
+  "key": "n=15",
+  "field": "components[1].role",
+  "before": "评注性状语（表示推测），修饰谓语 malfunctioned",
+  "after": "评注性状语（表示说话人的推测），修饰整个分句",
+  "reason": "评注性状语表达说话人对整句内容的判断，修饰全句；原写“修饰谓语”与“评注性”自相矛盾。"
+ },
+ {
+  "key": "n=17",
+  "field": "structure",
+  "before": "从4月13日爆炸到4月17日溅落正好四天",
+  "after": "从4月13日爆炸到4月17日溅落，前后不到四天",
+  "reason": "爆炸发生在4月13日晚（休斯敦时间），溅落在4月17日中午，相隔不足四天，与 within four days（四天之内）相合；“正好四天”不确切。"
+ }
+]

@@ -1,0 +1,1686 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "launched",
+   "object_or_complement": "Apollo 13",
+   "explain": "主干是 NASA launched Apollo 13，主谓宾结构。谓语 launched 是 launch 的过去式，一般过去时，主动语态，叙述1970年发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "On April 11th 1970",
+    "role": "时间状语（介词短语，on 引出具体日期）",
+    "zh": "1970年4月11日"
+   },
+   {
+    "text": "NASA",
+    "role": "主语",
+    "zh": "NASA"
+   },
+   {
+    "text": "launched",
+    "role": "谓语",
+    "zh": "发射了"
+   },
+   {
+    "text": "Apollo 13,",
+    "role": "宾语（专有名词，指阿波罗13号飞船）",
+    "zh": "阿波罗13号"
+   },
+   {
+    "text": "meant for",
+    "role": "过去分词短语的开头（mean 的过去分词 + 介词 for），整个短语补充说明 Apollo 13",
+    "zh": "原本是要完成"
+   },
+   {
+    "text": "the third crewed lunar landing.",
+    "role": "介词 for 的宾语（名词短语，中心词 landing；the third、crewed、lunar 依次作前置定语）",
+    "zh": "第三次载人的登月"
+   }
+  ],
+  "structure": "①主句是 NASA launched Apollo 13：主语 NASA，谓语 launched，宾语 Apollo 13。句首 On April 11th 1970 是时间状语，具体日期前用介词 on。\n②逗号后的 meant for the third crewed lunar landing 是过去分词短语，补充说明 Apollo 13（视频说明：meant for…：过去分词短语，补充说明 Apollo 13），相当于非限制性定语从句 which was meant for the third crewed lunar landing。mean 在这里意为“打算，意图”，be meant for sth 即“原定用于……”；Apollo 13 是“被计划”的一方，所以用过去分词。\n③介词 for 的宾语是名词短语 the third crewed lunar landing，中心词是 landing。lunar 紧挨 landing，构成“登月”；crewed 修饰 lunar landing，说明是载人的；序数词 the third 放在最前，说明是第几次。\n④meant 本身含有“原定计划”的意味，暗示计划没能实现，为第3句 the landing was aborted 埋下伏笔，所以视频译成“原本是要完成”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去分词短语作补充说明（非限制性后置定语）",
+    "explain": "过去分词短语放在名词之后、用逗号隔开时，对前面的名词作补充说明，作用相当于非限制性定语从句，去掉后主句意思仍然完整。及物动词的过去分词表示被动：本句 meant for… 相当于 which was meant for…，Apollo 13 是“被计划用于”第三次载人登月的一方。考研长难句中，句尾逗号后出现 -ed 短语时，要先确认它修饰哪个名词，通常是紧挨在逗号前的名词；同时确认句中另有谓语，避免把它误当谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new bridge, opened to traffic last spring, has already cut commuting times by a third.",
+      "zh": "这座新桥去年春天通车，已经把通勤时间缩短了三分之一。"
+     },
+     {
+      "en": "The report, published on Monday, calls for stricter limits on air pollution.",
+      "zh": "这份报告于周一发布，呼吁对空气污染实行更严格的限制。"
+     }
+    ]
+   },
+   {
+    "title": "be meant for / be meant to do",
+    "explain": "mean 除了“意思是”，还常表示“打算，意图”。被动结构 be meant for sth 表示“原定用于……，本来是为……准备的”，be meant to do 表示“本应该做，原定要做”，两者常暗示实际情况与原计划不符。本句 meant for the third crewed lunar landing 就隐含“原定登月、后来没有实现”，视频据此译出“原本”。口语中 be supposed to do 也可表达类似意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The money was meant for a new library, but it was spent on road repairs instead.",
+      "zh": "这笔钱本来是用于建新图书馆的，结果却花在了修路上。"
+     }
+    ]
+   },
+   {
+    "title": "具体日期前用介词 on",
+    "explain": "具体某一天前用介词 on，如 on April 11th、on Monday、on the morning of May 1st；只有月份或年份时用 in，如 in April、in 1970。日期写法英美有别：美式常写 April 11, 1970，英式常写 11 April 1970。本文写作 April 11th 1970，月在前、日用序数词、年份前不加逗号。考研写作中日期写法前后统一即可。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum reopened on September 3rd after two years of renovation.",
+      "zh": "这座博物馆经过两年翻修，于9月3日重新开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "NASA",
+    "explain": "National Aeronautics and Space Administration 的首字母缩略词，即美国国家航空航天局，成立于1958年。NASA 按单词读作 /ˈnæsə/，不逐个字母读，这类缩略词叫 acronym。视频保留英文 NASA。"
+   },
+   {
+    "term": "Apollo 13",
+    "explain": "阿波罗计划（the Apollo program）是美国的载人登月计划。1969年7月阿波罗11号首次实现载人登月，同年11月阿波罗12号第二次登月，所以阿波罗13号原定是第三次载人登月，即句中的 the third crewed lunar landing。"
+   },
+   {
+    "term": "crewed",
+    "explain": "由名词 crew（全体机组人员）加 -ed 构成的形容词，意为“载人的，有人驾驶的”，如 a crewed mission、crewed spaceflight，反义词是 uncrewed。传统说法是 manned，如今 NASA 和许多媒体更常用不分性别的 crewed。"
+   },
+   {
+    "term": "lunar",
+    "explain": "视频说明：lunar 意为“月亮的，月球的；阴历的”，如 the lunar calendar（农历）、the Lunar New Year（农历新年）。lunar landing 即“登月”，对应的 solar 意为“太阳的”。"
+   }
+  ],
+  "translation_tip": "视频译文“1970年4月11日，NASA发射了阿波罗13号，原本是要完成第三次载人的登月。”的处理：①时间状语 On April 11th 1970 按汉语习惯写成“1970年4月11日”，年、月、日由大到小排列，放在句首。②NASA 保留英文缩写；Apollo 13 译为“阿波罗13号”，加“号”表示航天器名称。③过去分词短语 meant for… 不前置作定语，而是拆成独立分句，承前省略主语，用“原本是要”译出 meant 所含的原定计划之意，并增补动词“完成”与“登月”搭配。④the third crewed lunar landing 的几个前置定语按原顺序译成“第三次载人的登月”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "an oxygen tank",
+   "predicate": "exploded",
+   "object_or_complement": "",
+   "explain": "主干是 an oxygen tank exploded，主谓结构；explode 在此是不及物动词，不带宾语。谓语为一般过去时，主动语态。主语前有两个状语，分别交代时间和飞船所在的位置。"
+  },
+  "components": [
+   {
+    "text": "On April 13th,",
+    "role": "时间状语（介词短语）",
+    "zh": "4月13日"
+   },
+   {
+    "text": "some 200,000 miles",
+    "role": "名词短语，放在副词 out 前说明距离（some 表示“大约”）",
+    "zh": "大约离地球200,000英里"
+   },
+   {
+    "text": "out,",
+    "role": "地点状语（副词，意为“离地球在远处”），与前面的名词短语合起来说明飞船的位置",
+    "zh": "远的地方"
+   },
+   {
+    "text": "an oxygen tank",
+    "role": "主语",
+    "zh": "一个氧气罐"
+   },
+   {
+    "text": "exploded",
+    "role": "谓语（不及物动词）",
+    "zh": "爆炸了"
+   },
+   {
+    "text": "in the service module,",
+    "role": "地点状语（介词短语），说明爆炸发生的位置",
+    "zh": "发生在服务舱段里面"
+   },
+   {
+    "text": "home to most of the ship's oxygen and power.",
+    "role": "同位语（名词短语），说明 the service module",
+    "zh": "存储着大部分飞船的氧气和电力"
+   }
+  ],
+  "structure": "①主句是 an oxygen tank exploded：主语 an oxygen tank，谓语 exploded（不及物）。主语前有两个状语，用逗号隔开：On April 13th 交代时间，some 200,000 miles out 交代飞船当时的位置。\n②some 200,000 miles out 中，out 是副词，意为“（离地球）在远处”（视频说明：out：（离地球）在远处）；some 200,000 miles 是名词短语，放在 out 前说明有多远，some 修饰数字，表示“大约”（视频说明）。结构与 two miles away、ten metres down 相同。\n③in the service module 是地点状语，说明氧气罐在飞船的哪个部分爆炸。\n④home to most of the ship's oxygen and power 是名词短语作同位语，说明 the service module（视频说明：home to…：同位语，说明 the service module）。home to sth 意为“……的所在地，……存放的地方”；most of 意为“大部分”，修饰 the ship's oxygen and power；the ship 指阿波罗13号飞船。这一同位语交代了爆炸的严重性：飞船的大部分氧气和电力都在这个舱段。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语（home to…）",
+    "explain": "同位语对前面的名词作进一步说明，除了名词，也可以是较长的名词短语，用逗号与前面的名词隔开。home to sth 常作同位语或表语，介绍某地有什么、住着什么、存放着什么，如 The region is home to rare birds，home 前不加冠词。本句 home to most of the ship's oxygen and power 说明服务舱的作用，同时暗示后果：这里一爆炸，氧气和电力都会受到威胁。考研阅读中，句尾逗号后的名词短语往往是同位语，要先找出它说明的是哪个名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The old warehouse, home to a dozen small start-ups, is due to be demolished next year.",
+      "zh": "这座旧仓库里有十几家小型初创公司，计划明年拆除。"
+     },
+     {
+      "en": "The city is home to more than twenty universities and research institutes.",
+      "zh": "这座城市有二十多所大学和研究机构。"
+     }
+    ]
+   },
+   {
+    "title": "some + 数词表示“大约”",
+    "explain": "some 放在数词前作副词，意为“大约”，相当于 about、approximately，语气较正式，新闻和学术文章常用，如 some 40 percent、some 3,000 years ago。它和“some + 可数名词复数”（一些）不同：some 后面紧跟数字时，只能理解为“大约”。本句 some 200,000 miles 即“大约200,000英里”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire destroyed some 300 homes before it was brought under control.",
+      "zh": "大火在被控制住之前烧毁了大约300栋房屋。"
+     }
+    ]
+   },
+   {
+    "title": "“距离 + 副词”表示位置",
+    "explain": "表示“离某处多远”时，可以把表示距离的名词短语放在 away、out、off、down、up 等副词前，名词短语修饰副词，如 three miles away（三英里以外）、twenty feet down（往下二十英尺）。本句 some 200,000 miles out 中 out 指离开地球、在太空远处，名词短语说明远到什么程度。翻译时常补出参照点，视频增补“离地球”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The nearest hospital is some 40 kilometres away.",
+      "zh": "最近的医院在大约40公里以外。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "service module",
+    "explain": "服务舱。阿波罗飞船的主体由指令舱（command module）和服务舱（service module）组成，合称 CSM，另有用于登月的登月舱（lunar module）。服务舱位于指令舱后部，装有主发动机、推进剂、氧气罐和燃料电池等。module 指航天器上可分离的舱段，视频译为“服务舱段”。"
+   },
+   {
+    "term": "oxygen and power",
+    "explain": "服务舱的氧气罐既为机组提供呼吸用的氧气，也向燃料电池供氧，燃料电池用氢和氧发电，所以文中把 oxygen 和 power（电力）放在一起说。power 在这里指电力，第6句 conserved power（节约用电）也是这个意思。"
+   },
+   {
+    "term": "Houston, we've had a problem",
+    "explain": "爆炸发生后，机组向休斯敦的任务控制中心报告“Houston, we've had a problem”。1995年的电影《阿波罗13号》把这句话改成 Houston, we have a problem，后来成为英语中表示“出麻烦了”的常用语。"
+   },
+   {
+    "term": "the ship's",
+    "explain": "ship 本指船，这里指宇宙飞船（spaceship），the ship's 是名词所有格。英语中航天器常借用航海用语，如 ship、crew、cabin、aboard，本文都有出现。"
+   }
+  ],
+  "translation_tip": "视频译文“4月13日，大约离地球200,000英里远的地方，一个氧气罐爆炸了，发生在服务舱段里面，存储着大部分飞船的氧气和电力。”的处理：①时间状语“4月13日”按原位置放在句首。②some 200,000 miles out 中 out 隐含的参照点是地球，视频增补“离地球”，把 out 译为“远的地方”，整体译为“大约离地球200,000英里远的地方”。③主句按原语序译为“一个氧气罐爆炸了”；地点状语 in the service module 不前置，拆成后续短句，增补“发生”使之成句。④同位语 home to… 译成独立短句，把 home to 的“所在地、存放处”之意转为动词“存储着”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The blast（第一分句）；the landing（第二分句）",
+   "predicate": "crippled（第一分句）；was aborted（第二分句）",
+   "object_or_complement": "the spacecraft（crippled 的宾语）；第二分句为被动语态，无宾语",
+   "explain": "并列句，分号连接两个分句。第一分句主谓宾结构，谓语 crippled 为一般过去时、主动语态；第二分句 the landing was aborted 为一般过去时的被动语态，没有出现动作的执行者。"
+  },
+  "components": [
+   {
+    "text": "The blast",
+    "role": "主语（第一分句；the 回指上句的爆炸）",
+    "zh": "这股爆炸气浪"
+   },
+   {
+    "text": "crippled",
+    "role": "谓语（第一分句）",
+    "zh": "严重毁坏了"
+   },
+   {
+    "text": "the spacecraft;",
+    "role": "宾语",
+    "zh": "宇宙飞船"
+   },
+   {
+    "text": "the landing",
+    "role": "主语（第二分句；回指第1句的登月）",
+    "zh": "登月"
+   },
+   {
+    "text": "was",
+    "role": "助动词（与 aborted 构成被动语态）",
+    "zh": "被"
+   },
+   {
+    "text": "aborted.",
+    "role": "谓语主体（过去分词）",
+    "zh": "终止了"
+   }
+  ],
+  "structure": "①本句用分号连接两个独立分句，中间没有连词，前一分句是原因，后一分句是结果：爆炸严重损坏了飞船，登月因此被取消。\n②第一分句 The blast crippled the spacecraft：The blast 用定冠词，回指上句氧气罐的爆炸；cripple 原义“使残疾”，这里用于机器和系统，意为“严重毁坏，使瘫痪”，视频译为“严重毁坏了”。\n③第二分句 the landing was aborted 是被动语态。the landing 回指第1句的 the third crewed lunar landing；abort 意为“中止（计划、任务）”。中止登月的决定由谁作出不言自明，所以不用 by 引出执行者。\n④blast 与上句的 exploded 意思相近但侧重不同：blast 侧重描绘爆炸瞬间产生的物理冲击、震耳巨响以及摧毁效应，explosion 更为中立，通常单纯指“爆炸”这一客观事实（视频说明）。本句写爆炸造成的破坏，所以用 blast。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号可以连接两个意义紧密相关的独立分句，作用介于逗号和句号之间，常表示因果、对比或补充。不能只用逗号把两个独立分句连在一起，这种错误叫逗号粘连（comma splice），是考研写作的常见失分点；要么用分号，要么用逗号加 and、but、so 等连词，要么分成两句。本句两个分句是因果关系，用分号使节奏紧凑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The road was blocked by snow; the delivery arrived two days late.",
+      "zh": "道路被大雪阻断；货物迟到了两天。"
+     },
+     {
+      "en": "Prices rose sharply in the spring; sales fell for three consecutive months.",
+      "zh": "春季物价大幅上涨；销量连续三个月下滑。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态省略动作执行者",
+    "explain": "被动语态常用于动作执行者不言自明、不重要或不便说出的场合，此时不用 by 短语。本句 the landing was aborted 的重点是登月被取消这一结果，至于由谁决定并不重要。新闻和科技文章大量使用这种被动句。翻译时汉语可用“被”字句，也可用意义上的被动，视频译为“登月被终止了”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The match was cancelled because of heavy rain.",
+      "zh": "比赛因大雨被取消了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "blast 与 explosion",
+    "explain": "视频说明：blast 侧重于描绘爆炸瞬间产生的物理冲击、震耳巨响以及摧毁效应；explosion 则更为中立，通常单纯指代“爆炸”这一客观事实。blast 还可指一阵强风（a blast of cold air），作动词时可指炸开、大声播放音乐。"
+   },
+   {
+    "term": "cripple",
+    "explain": "原义“使残疾，使跛”，名词 cripple 指人时今天被视为冒犯性用语，应避免使用。动词常用引申义“严重损坏，使陷入瘫痪”，对象多为机器、经济、组织，如 The strike crippled the city's transport system；形容词 crippling 意为“严重损害的”，如 crippling debt（沉重的债务）。"
+   },
+   {
+    "term": "abort",
+    "explain": "中止（任务、计划），航天、军事领域常用，如 abort a mission、abort a launch（中止发射）；计算机领域指终止程序。注意 abortion 一般指“流产，堕胎”，航天上表示“中止”的名词多用 abort 本身，如 a launch abort。"
+   },
+   {
+    "term": "spacecraft",
+    "explain": "航天器，宇宙飞船，复数与单数同形，如 two spacecraft。同类的 aircraft、hovercraft 也是单复数同形。"
+   }
+  ],
+  "translation_tip": "视频译文“这股爆炸气浪严重毁坏了宇宙飞船；登月被终止了。”的处理：①The blast 译为“这股爆炸气浪”：定冠词回指上句的爆炸，译作“这股”；blast 的冲击效应用“气浪”体现。②crippled 译为“严重毁坏了”，用“严重”体现 cripple 的程度。③分号保留，两个分句一因一果，汉语也用分号连接，不必补出“因此”。④被动句保留被动，译为“登月被终止了”，the landing 回指第1句的登月，直接译为“登月”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "The astronauts",
+   "predicate": "took refuge in",
+   "object_or_complement": "the lunar module",
+   "explain": "主干是 The astronauts took refuge in the lunar module。take refuge in 是固定短语，整体相当于一个及物动词，意为“躲进……避难”，the lunar module 是它的宾语；从结构上细分，refuge 是 took 的宾语，in the lunar module 是地点状语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The astronauts",
+    "role": "主语",
+    "zh": "宇航员们"
+   },
+   {
+    "text": "took refuge in",
+    "role": "谓语（固定短语 take refuge in）",
+    "zh": "躲进……避难"
+   },
+   {
+    "text": "the lunar module,",
+    "role": "宾语（介词 in 的宾语，表示避难的地点）",
+    "zh": "登月舱"
+   },
+   {
+    "text": "Aquarius,",
+    "role": "同位语，说明 the lunar module",
+    "zh": "水瓶座号"
+   },
+   {
+    "text": "built",
+    "role": "过去分词短语的核心，整个短语补充说明 Aquarius",
+    "zh": "它被建造出来"
+   },
+   {
+    "text": "to support",
+    "role": "目的状语（不定式），说明建造的用途",
+    "zh": "原本是为了支持"
+   },
+   {
+    "text": "two men",
+    "role": "不定式 support 的宾语",
+    "zh": "两个人"
+   },
+   {
+    "text": "for about two days.",
+    "role": "时间状语（介词短语），说明能维持多久",
+    "zh": "生存大约两天左右"
+   }
+  ],
+  "structure": "①主句 The astronauts took refuge in the lunar module：take refuge in 意为“躲进……避难”（视频说明），the lunar module 指登月舱。服务舱受损后，宇航员们转移到登月舱，把它当作避难所。\n②Aquarius 是同位语，说明 the lunar module（视频说明：Aquarius：同位语，说明 the lunar module），交代登月舱的名字。\n③built to support two men for about two days 是过去分词短语，补充说明 Aquarius（视频说明：built to…：过去分词短语，补充说明 Aquarius），相当于 which was built to support two men for about two days。其中 to support two men 是不定式作目的状语，说明建造登月舱的用途；for about two days 是时间状语，说明能维持多久。\n④这一补充说明暗示了困境：登月舱只按两人、约两天设计，现在却要容纳三名宇航员，还要撑到返回地球。第7句的二氧化碳隐患就由此而来。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语 built to do 作补充说明",
+    "explain": "build sth to do sth 表示“为了……而建造某物”，被动形式是 be built to do。过去分词短语 built to… 放在名词后时相当于 which was built to…。本句 built to support two men for about two days 说明登月舱的设计用途，support 指维持人员生存所需的氧气、水和电等。同类结构有 be designed to do、be made to do、be meant to do。考研阅读中，这类结构常用来说明设计初衷，进而引出与实际情况的差距。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The stadium, built to hold 40,000 fans, is rarely more than half full.",
+      "zh": "这座体育场按容纳4万名观众建造，却很少坐满一半以上。"
+     },
+     {
+      "en": "The bridge was built to withstand earthquakes of up to magnitude 8.",
+      "zh": "这座桥按能抵御8级地震的标准建造。"
+     }
+    ]
+   },
+   {
+    "title": "专有名词作同位语",
+    "explain": "同位语紧跟在名词后，用逗号隔开，说明它是谁或是什么。本句 the lunar module, Aquarius 中，Aquarius 是登月舱的名字。同位语后面如果还有修饰成分，要分清修饰对象：built to… 紧跟 Aquarius，修饰的就是 Aquarius，也就是登月舱本身。翻译时简短的同位语常与中心词合译，如“登月舱水瓶座号”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her latest novel, Silent Harbour, has been translated into twelve languages.",
+      "zh": "她的最新小说《寂静港湾》已被译成12种语言。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take refuge in",
+    "explain": "视频说明：躲进……避难。也说 seek refuge in，表示躲避的对象用 from，如 take refuge from the storm（躲避暴风雨）。还可用于抽象意义，如 take refuge in silence（以沉默来回避）。refuge 意为“庇护，避难所”，派生词 refugee 意为“难民”。"
+   },
+   {
+    "term": "lunar module 与 Aquarius",
+    "explain": "登月舱，简称 LM，是阿波罗飞船中负责把两名宇航员送上月面、再送回月球轨道的部分。阿波罗13号的登月舱名为 Aquarius（水瓶座号），指令舱名为 Odyssey（奥德赛号）。这次事故中，登月舱被当作“救生艇”使用。Aquarius 是拉丁语，意为“持水者”，天文学上指宝瓶座，也叫水瓶座。"
+   },
+   {
+    "term": "astronaut",
+    "explain": "宇航员，航天员；俄罗斯的航天员常称 cosmonaut。本句 The astronauts 用定冠词，指阿波罗13号上的三名宇航员。"
+   }
+  ],
+  "translation_tip": "视频译文“宇航员们躲进登月舱水瓶座号避难，它被建造出来原本是为了支持两个人生存大约两天左右。”的处理：①take refuge in 是固定短语，译为“躲进……避难”，“避难”放在宾语之后，符合汉语语序。②同位语 Aquarius 与 the lunar module 合译为“登月舱水瓶座号”，中间不加逗号。③过去分词短语 built to… 不前置，而是拆成独立分句，增补主语“它”回指登月舱；被动意义译为“被建造出来”，不定式的目的意味用“为了”表达，并增补“原本”，暗示设计用途与眼下处境不符。④介词短语 for about two days 前增补“生存”，点明 support 的具体内容是维持人的生存。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "the crew",
+   "predicate": "steered",
+   "object_or_complement": "the craft",
+   "explain": "主干是 the crew steered the craft，主谓宾结构，onto a trajectory around the Moon 说明把飞船操纵到哪里。谓语 steered 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Using its engine,",
+    "role": "方式状语（现在分词短语），逻辑主语是 the crew；its 承上句指登月舱",
+    "zh": "使用它的发动机/引擎"
+   },
+   {
+    "text": "the crew",
+    "role": "主语",
+    "zh": "机组"
+   },
+   {
+    "text": "steered",
+    "role": "谓语",
+    "zh": "操纵"
+   },
+   {
+    "text": "the craft",
+    "role": "宾语",
+    "zh": "航天器"
+   },
+   {
+    "text": "onto a trajectory around the Moon,",
+    "role": "方向状语（介词短语，与 steer 构成 steer A onto B；around the Moon 作后置定语，修饰 trajectory）",
+    "zh": "驶入一条绕月轨迹"
+   },
+   {
+    "text": "whose gravity swung it home.",
+    "role": "非限制性定语从句，修饰 the Moon（whose 在从句中作定语，修饰 gravity）",
+    "zh": "月球的引力把它甩回了地球"
+   }
+  ],
+  "structure": "①主句 the crew steered the craft onto a trajectory around the Moon：steer A onto B 意为“操纵 A 驶入 B”（视频说明），A 是 the craft，B 是 a trajectory around the Moon。the craft 指飞船，是上文 the spacecraft 的同义替换。\n②Using its engine 是现在分词短语作方式状语，说明机组靠什么完成操纵。它的逻辑主语是主句主语 the crew，机组主动使用发动机，所以用现在分词；its 承上句指登月舱 Aquarius。\n③around the Moon 是介词短语作后置定语，修饰 trajectory（视频说明），a trajectory around the Moon 即“绕月轨迹”。\n④whose 引导非限制性定语从句，先行词是 the Moon（视频说明：whose 指 the Moon），whose gravity 相当于 the Moon's gravity。从句主语是 whose gravity，谓语 swung，宾语 it 指 the craft，home 是副词，意为“回到出发地”，这里指回到地球。swing 指使物体做弧线运动、转弯、转动（视频说明），这里对应“甩回”，写出飞船绕过月球、借引力折返的弧形路线。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作方式状语",
+    "explain": "分词短语放在句首作状语时，它的逻辑主语必须是主句的主语。本句 Using its engine 的逻辑主语是 the crew，二者是主动关系，所以用现在分词 using。如果分词的逻辑主语与主句主语不一致，就成了“垂悬分词”，这是考研写作的常见错误，如 Looking out of the window, the mountains were beautiful（错误，山不会看窗外），应改为 Looking out of the window, I saw the beautiful mountains。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Using satellite data, researchers mapped the spread of the wildfire in real time.",
+      "zh": "研究人员利用卫星数据实时绘制了山火蔓延的地图。"
+     },
+     {
+      "en": "Working through the night, the volunteers cleared most of the debris from the road.",
+      "zh": "志愿者们连夜工作，清除了路上的大部分残骸。"
+     }
+    ]
+   },
+   {
+    "title": "whose 指物引导非限制性定语从句",
+    "explain": "whose 是关系代词的所有格，在从句中作定语，后面紧跟它修饰的名词，先行词可以是人也可以是物。指物时 whose + 名词 可换成 the + 名词 + of which，本句 whose gravity 相当于 the gravity of which，即月球的引力。逗号说明这是非限制性定语从句，补充说明 the Moon。翻译时常拆成独立分句，并把 whose 所指的先行词重新译出，视频译为“月球的引力”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Venus, whose thick clouds trap heat, is the hottest planet in the solar system.",
+      "zh": "金星厚厚的云层会困住热量，它是太阳系中最热的行星。"
+     }
+    ]
+   },
+   {
+    "title": "home 作副词",
+    "explain": "home 作副词表示“回家，回到本国或出发地”，前面不加介词：go home、come home、bring sb home。不能说 go to home。本句 swung it home 中 home 指地球，即宇航员出发的地方。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The rescue team brought all twelve climbers home safely.",
+      "zh": "救援队把12名登山者全部安全带回了家。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "steer A onto B",
+    "explain": "视频说明：操纵 A 驶入 B。steer 本义是驾驶、操纵（车、船等）的方向，也可引申为引导话题或局势，如 steer the conversation away from politics（把话题从政治上引开）。"
+   },
+   {
+    "term": "trajectory",
+    "explain": "（飞行物的）轨迹，弹道；也可用于抽象意义，指事业、发展的走向，如 a career trajectory。这种绕过月球、借月球引力返回地球的路线，航天上称为 free-return trajectory（自由返回轨道）。"
+   },
+   {
+    "term": "craft",
+    "explain": "作“航天器，飞机，船只”讲时单复数同形；aircraft、spacecraft 同理。craft 的另一常用义是“手艺，工艺”，如 arts and crafts（手工艺）。"
+   },
+   {
+    "term": "swing",
+    "explain": "视频说明：使物体做弧线运动，转弯，转动；本句对应“甩回”。过去式和过去分词都是 swung。"
+   }
+  ],
+  "translation_tip": "视频译文“使用它的发动机/引擎，机组操纵航天器驶入一条绕月轨迹，月球的引力把它甩回了地球。”的处理：①现在分词短语 Using its engine 保留在句首，its 译为“它的”，engine 给出“发动机/引擎”两种说法。②steered the craft onto… 译为“操纵航天器驶入……”，介词 onto 转译为动词“驶入”。③后置定语 around the Moon 前置，与 trajectory 合为“绕月轨迹”，补出量词“一条”。④非限制性定语从句拆成独立分句，whose gravity 译为“月球的引力”，明确译出 whose 所指；home 在此指地球，swung it home 用“把”字句译为“把它甩回了地球”。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "They",
+   "predicate": "rationed, conserved, and shivered",
+   "object_or_complement": "water（rationed 的宾语）；power（conserved 的宾语）；shivered 为不及物动词，无宾语",
+   "explain": "一个主语带三个并列谓语：rationed water（主谓宾）、conserved power（主谓宾）、shivered（主谓，in a bitterly cold cabin 作地点状语）。三个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "They",
+    "role": "主语（指三名宇航员）",
+    "zh": "他们"
+   },
+   {
+    "text": "rationed water,",
+    "role": "谓语一 + 宾语",
+    "zh": "限定用水量"
+   },
+   {
+    "text": "conserved power,",
+    "role": "谓语二 + 宾语",
+    "zh": "节约用电"
+   },
+   {
+    "text": "and shivered",
+    "role": "并列连词 and + 谓语三（不及物动词）",
+    "zh": "并且不停地打哆嗦"
+   },
+   {
+    "text": "in a bitterly cold cabin.",
+    "role": "地点状语（介词短语），修饰 shivered；程度副词 bitterly 修饰 cold，bitterly cold 作 cabin 的前置定语",
+    "zh": "身处极其寒冷的舱室里"
+   }
+  ],
+  "structure": "①They 指三名宇航员，后面接三个并列谓语，用 A, B, and C 的格式连接，and 前的逗号是牛津逗号。\n②前两个谓语带宾语：rationed water（限量用水）、conserved power（节约用电）；第三个谓语 shivered 是不及物动词，后接介词短语 in a bitterly cold cabin 作地点状语。\n③bitterly cold 意为“刺骨的冷”（视频说明），bitterly 是程度副词，修饰形容词 cold，二者一起作 cabin 的前置定语。\n④三个动作写出困境的三个方面：缺水、缺电、寒冷。power 指电力，与第2句 home to most of the ship's oxygen and power 呼应：存放大部分电力的服务舱受损，只能节约用电。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "三个并列谓语",
+    "explain": "同一个主语连续发出几个动作时，可以把几个谓语并列，三项及以上写成 A, B, and C，and 前用牛津逗号。并列的谓语可以是及物动词带宾语，也可以是不及物动词带状语，本句前两项是动宾结构，第三项是不及物动词加地点状语。判断依据是它们共用主语 They，且都是过去式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The volunteers sorted the donations, packed the boxes, and waited for the trucks to arrive.",
+      "zh": "志愿者们分拣捐赠物资，把它们装箱，然后等待卡车到来。"
+     }
+    ]
+   },
+   {
+    "title": "程度副词修饰形容词的固定搭配",
+    "explain": "程度副词放在形容词前，加强程度。有些副词与特定形容词形成习惯搭配，如 bitterly cold（冷得刺骨）、bitterly disappointed（极其失望）、highly unlikely（极不可能）、deeply concerned（深感忧虑）、fully aware（完全清楚）。bitterly 原义“痛苦地，怨恨地”，与 cold 连用时表示寒冷刺骨。考研写作中用这类搭配比一律用 very 更地道。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many residents were bitterly disappointed by the council's decision.",
+      "zh": "许多居民对市政委员会的决定极其失望。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ration",
+    "explain": "动词意为“定量供应，限量使用”，如 ration food/water/fuel；名词意为“配给量，定量”，复数 rations 可指军队等的口粮。视频把 rationed water 译为“限定用水量”。"
+   },
+   {
+    "term": "conserve power",
+    "explain": "节约用电。conserve 意为“节约，节省”，如 conserve energy/water；也有“保护”的意思，如 conserve wildlife。名词 conservation；注意不要与 conservative（保守的）混淆。"
+   },
+   {
+    "term": "shiver",
+    "explain": "因寒冷或恐惧而发抖，如 shiver with cold；习语 send shivers down sb's spine 意为“令人不寒而栗”。"
+   },
+   {
+    "term": "cabin",
+    "explain": "视频说明：一种简陋的居住用房；亦指飞机、轮船等舱体内专供乘客使用的隔间或封闭舱室。如 a log cabin（小木屋）、cabin crew（机组乘务员）。本句指飞船的舱室。"
+   }
+  ],
+  "translation_tip": "视频译文“他们限定用水量，节约用电，并且不停地打哆嗦，身处极其寒冷的舱室里。”的处理：①三个并列谓语依次译成三个短句，and 译为“并且”。②rationed water 译为“限定用水量”，把 ration（定量）的含义落实为“限定……量”。③shivered 前增补“不停地”，体现在寒冷舱内持续发抖的状态。④地点状语 in a bitterly cold cabin 放在最后，单独译为“身处极其寒冷的舱室里”，增补“身处”使之成句，bitterly 译为“极其”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "A quieter hazard（冒号前）；carbon dioxide（冒号后）",
+   "predicate": "emerged（冒号前）；was accumulating（冒号后）",
+   "object_or_complement": "",
+   "explain": "冒号前 A quieter hazard emerged 是主谓结构，emerge 为不及物动词，谓语用一般过去时；冒号后 carbon dioxide was accumulating 也是主谓结构，谓语用过去进行时，表示当时二氧化碳在不断积聚。两处都是主动语态，都没有宾语。"
+  },
+  "components": [
+   {
+    "text": "A quieter hazard",
+    "role": "主语（冒号前的分句）",
+    "zh": "一个悄无声息的隐患"
+   },
+   {
+    "text": "emerged:",
+    "role": "谓语（不及物动词）",
+    "zh": "出现了"
+   },
+   {
+    "text": "with a third man aboard,",
+    "role": "原因状语（with 复合结构：with + 名词 + 副词）",
+    "zh": "随着第三个人登舱"
+   },
+   {
+    "text": "carbon dioxide",
+    "role": "主语（冒号后的分句）",
+    "zh": "二氧化碳"
+   },
+   {
+    "text": "was accumulating.",
+    "role": "谓语（过去进行时）",
+    "zh": "正在积聚"
+   }
+  ],
+  "structure": "①冒号前 A quieter hazard emerged 是完整的句子，emerge 意为“出现，显现”。quieter 是比较级，比较对象是前文的氧气罐爆炸：爆炸惊天动地，二氧化碳却无声无息地累积，视频据此译为“悄无声息的”。\n②冒号后的分句具体说明这个隐患是什么，冒号起解释说明的作用。\n③with a third man aboard 是 with 复合结构，由 with + 名词 a third man + 副词 aboard 构成，在句中作原因状语（视频说明：with 复合结构，说明原因）。aboard 意为“在（船、机、车）上”或“登乘”，强调已置身于交通工具内部（视频说明），这里指在登月舱里。\n④a third man 用不定冠词：“a + 序数词”表示“又一个，另一个”，指登月舱原定两人之外多出来的第三个人，与第4句 built to support two men 呼应。\n⑤carbon dioxide was accumulating 用过去进行时，表示二氧化碳当时正在一点点增加，是一个逐渐恶化的过程。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "with 复合结构作原因状语",
+    "explain": "with + 宾语 + 宾语补足语构成 with 复合结构，补足语可以是形容词、副词、介词短语、分词或不定式，整个结构可表示原因、伴随、条件等。本句 with a third man aboard 中，副词 aboard 作 a third man 的补足语，说明二氧化碳积聚的原因。翻译时常译为“由于……”“随着……”“在……的情况下”。考研长难句中，这种结构内部没有谓语动词，不能当作句子主干，读到时先把它括起来，再找主句的主谓。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "With prices rising so fast, many families have cut back on eating out.",
+      "zh": "由于物价上涨得这么快，许多家庭减少了外出就餐。"
+     },
+     {
+      "en": "With the deadline only two days away, the team worked through the weekend.",
+      "zh": "离截止日期只剩两天，团队整个周末都在加班。"
+     }
+    ]
+   },
+   {
+    "title": "不定冠词 + 序数词",
+    "explain": "序数词前通常用定冠词 the 表示排序，如第1句 the third crewed lunar landing（第三次载人登月）。序数词前用不定冠词 a 或 an 时，表示“又一，再一”，强调在已有数量之外再增加一个，不强调排序，如 try a second time（再试一次）。本句 a third man 指登月舱原定两人之外又多了一人，这正是二氧化碳超出处理能力的原因。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company is considering opening a second factory in the region.",
+      "zh": "该公司正考虑在该地区再开一家工厂。"
+     },
+     {
+      "en": "The first two attempts failed, so the engineers made a third.",
+      "zh": "前两次尝试都失败了，于是工程师们又进行了第三次。"
+     }
+    ]
+   },
+   {
+    "title": "过去进行时表示逐渐变化的过程",
+    "explain": "过去进行时（was/were doing）表示过去某一时刻或某一阶段正在进行的动作。与 accumulate、rise、grow、worsen 等表示变化的动词连用时，突出情况在持续发展。本句 was accumulating 表示二氧化碳在一点点增多，暗示若不处理会越来越危险。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By midnight the floodwater was still rising, and residents began moving to higher ground.",
+      "zh": "到午夜时洪水还在上涨，居民们开始向高处转移。"
+     }
+    ]
+   },
+   {
+    "title": "比较级单独使用",
+    "explain": "比较对象在上下文中已经明确时，比较级可以单独使用，不必出现 than 短语。本句 quieter 隐含的比较对象是前文的爆炸。翻译时不一定要译出“更”，视频把 A quieter hazard 译为“一个悄无声息的隐患”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The second storm was weaker but lasted longer.",
+      "zh": "第二场风暴较弱，但持续的时间更长。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "aboard",
+    "explain": "视频说明：“在（船、机、车）上”或“登乘”，多用于强调已置身于某种交通工具内部，或完成了登载的动作。可作副词（with a third man aboard），也可作介词（aboard the ship）；All aboard! 意为“请上车/上船！”。"
+   },
+   {
+    "term": "hazard",
+    "explain": "危险，隐患，如 a health hazard（健康隐患）、a fire hazard（火灾隐患）；形容词 hazardous（危险的），如 hazardous waste（危险废物）。"
+   },
+   {
+    "term": "emerge",
+    "explain": "出现，显现，常用于问题、事实浮出水面，如 Problems emerged during testing；It later emerged that…（后来才得知……）是新闻中的常见句型。"
+   },
+   {
+    "term": "carbon dioxide",
+    "explain": "二氧化碳，化学式 CO2。di- 表示“二”，oxide 意为“氧化物”。人呼吸时会呼出二氧化碳，舱内人越多，积聚越快，所以多出的第三个人使问题更严重。"
+   }
+  ],
+  "translation_tip": "视频译文“一个悄无声息的隐患出现了：随着第三个人登舱，二氧化碳正在积聚。”的处理：①比较级 quieter 没有译成“更安静的”，而是根据与爆炸的对比译为“悄无声息的”，hazard 译为“隐患”。②冒号保留，引出对隐患的具体说明。③with 复合结构译为“随着第三个人登舱”，副词 aboard 转译为动词“登舱”，“随着”体现原因关系。④过去进行时 was accumulating 译为“正在积聚”，用“正在”体现进行体。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "The command module（第一分句）；Aquarius's sockets（第二分句）",
+   "predicate": "used（第一分句）；were（第二分句，系动词）",
+   "object_or_complement": "square filter cartridges（used 的宾语）；round（were 的表语）",
+   "explain": "并列句，分号连接两个分句。第一分句是主谓宾结构，谓语 used 为一般过去时、主动语态；第二分句是主系表结构，系动词 were 加形容词表语 round，一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The command module,",
+    "role": "主语（第一分句）",
+    "zh": "指令舱"
+   },
+   {
+    "text": "the crew's capsule,",
+    "role": "同位语，说明 the command module",
+    "zh": "即机组太空舱"
+   },
+   {
+    "text": "used",
+    "role": "谓语（第一分句）",
+    "zh": "用的是"
+   },
+   {
+    "text": "square filter cartridges;",
+    "role": "宾语（中心词 cartridges；square 和 filter 都是前置定语）",
+    "zh": "方形的过滤器滤芯"
+   },
+   {
+    "text": "Aquarius's sockets",
+    "role": "主语（第二分句；Aquarius's 是名词所有格）",
+    "zh": "然而水瓶座号的插槽"
+   },
+   {
+    "text": "were round.",
+    "role": "系动词 + 表语（形容词）",
+    "zh": "却是圆的"
+   }
+  ],
+  "structure": "①第一分句 The command module used square filter cartridges：主语 the command module 指指令舱；the crew's capsule 是同位语，说明指令舱就是机组乘坐的太空舱；谓语 used，宾语 square filter cartridges。\n②宾语的中心词是 cartridges（滤芯），前面有两个定语：filter 是名词作定语，说明是过滤器用的芯；square 是形容词，说明形状。描述性形容词放在名词性定语之前，所以说 square filter cartridges。\n③第二分句 Aquarius's sockets were round 是主系表结构，Aquarius's 是名词所有格，sockets 指登月舱上安装滤芯的插槽，表语 round 说明形状。\n④两个分句之间没有连词，靠分号和 square、round 两个形状词的对比显出矛盾。这是一个极其致命的物理乌龙：方形的滤芯，插不进圆形的凹槽（视频说明）。视频增补“然而……却”把这层转折译了出来。这一不匹配直接引出下一句的太空救援。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有几个定语时，一般顺序是：限定词 + 观点 + 大小 + 形状 + 新旧 + 颜色 + 来源 + 材料 + 用途或类别（常为名词）+ 中心名词。离中心名词越近，与它的关系越紧密，名词定语通常紧挨中心名词。本句 square filter cartridges 中，表示形状的 square 在前，说明类别的名词 filter 紧挨 cartridges。写作中多个定语叠用时，按这个顺序排列才地道。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She bought a large rectangular glass dining table.",
+      "zh": "她买了一张大号长方形玻璃餐桌。"
+     },
+     {
+      "en": "The museum displays several ancient Chinese bronze vessels.",
+      "zh": "博物馆陈列着几件中国古代青铜器。"
+     }
+    ]
+   },
+   {
+    "title": "同位语解释专业名称",
+    "explain": "同位语可以用通俗的说法解释前面的专业名称。本句 The command module, the crew's capsule 中，同位语 the crew's capsule 告诉读者指令舱就是机组乘坐的那个太空舱，后文第10句的 the capsule 正是回指它。翻译时常用“即”“也就是”引出这类同位语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The study focused on the hippocampus, the part of the brain most closely linked to memory.",
+      "zh": "这项研究聚焦于海马体，即大脑中与记忆关系最密切的部分。"
+     }
+    ]
+   },
+   {
+    "title": "以 s 结尾的单数名词的所有格",
+    "explain": "以 s 结尾的单数名词变所有格，可以加 's，也可以只加撇号，本文用 Aquarius's；以 s 结尾的复数名词只加撇号，如 the astronauts' lives。不以 s 结尾的复数名词加 's，如 children's。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Charles's report was the most detailed of all.",
+      "zh": "查尔斯的报告是所有报告中最详尽的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "command module",
+    "explain": "指令舱，阿波罗飞船中机组乘坐、最后载人返回地球的舱段，阿波罗13号的指令舱名为 Odyssey（奥德赛号）。capsule 源自拉丁语 capsula（小盒子），常见义是“胶囊”，也指小而封闭的太空舱，视频译为“太空舱”。"
+   },
+   {
+    "term": "filter cartridge",
+    "explain": "过滤器滤芯。cartridge 指可替换的筒、芯、盒，如 ink cartridge（墨盒）。阿波罗飞船上清除二氧化碳的滤芯装有氢氧化锂（lithium hydroxide），用来吸收二氧化碳。指令舱用方形滤芯，登月舱用圆形滤芯，两者不能通用。"
+   },
+   {
+    "term": "socket",
+    "explain": "插座，插口，插槽，如 a power socket（电源插座）；也指眼窝、关节窝，如 eye socket。本句指登月舱上安装滤芯的接口，视频译为“插槽”。"
+   }
+  ],
+  "translation_tip": "视频译文“指令舱，即机组太空舱，用的是方形的过滤器滤芯；然而水瓶座号的插槽却是圆的。”的处理：①同位语 the crew's capsule 用“即”引出，译为“即机组太空舱”，表示解释说明。②used square filter cartridges 译为“用的是方形的过滤器滤芯”，“……的是……”的句式突出用的是哪一种滤芯，为后面的对比铺垫。③两个分句之间原文没有连词，视频增补“然而……却”，把方圆不匹配的转折关系明确译出。④表语 round 译为“圆的”，与前面的“方形的”对应。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "ground engineers",
+   "predicate": "devised…, then talked",
+   "object_or_complement": "an adapter（devised 的宾语）；the crew（talked 的宾语）",
+   "explain": "一个主语带两个并列谓语：devised an adapter 和 talked the crew through assembling it，then 表示动作的先后。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "From plastic bags, cardboard, and tape",
+    "role": "材料状语（介词短语，from 表示制作所用的材料，修饰 devised）",
+    "zh": "用……塑料袋、硬纸板和胶带"
+   },
+   {
+    "text": "on board,",
+    "role": "后置定语（介词短语），修饰 plastic bags, cardboard, and tape",
+    "zh": "飞船上现有的"
+   },
+   {
+    "text": "ground engineers",
+    "role": "主语",
+    "zh": "地面工程师"
+   },
+   {
+    "text": "devised",
+    "role": "谓语一",
+    "zh": "构思设计出"
+   },
+   {
+    "text": "an adapter,",
+    "role": "宾语（devised 的宾语）",
+    "zh": "一个转接器/转换插头"
+   },
+   {
+    "text": "then talked the crew through",
+    "role": "谓语二（then 表示先后；talk sb through sth 结构，the crew 作宾语）",
+    "zh": "然后一步步指导机组"
+   },
+   {
+    "text": "assembling it.",
+    "role": "介词 through 的宾语（动名词短语，it 指 an adapter）",
+    "zh": "把它组装起来"
+   }
+  ],
+  "structure": "①主句 ground engineers devised an adapter, then talked the crew through assembling it：主语 ground engineers 指地面上的工程师，与身在太空的机组相对；两个并列谓语 devised 和 talked 共用这个主语，then 表示先设计、后指导。\n②句首 From plastic bags, cardboard, and tape on board 是介词短语作状语，from 表示制作所用的材料，说明转接器是用什么做出来的。三样材料用牛津逗号并列；on board 意为“在飞船上”，修饰前面三样东西（视频说明），强调材料只能就地取用。\n③talked the crew through assembling it 是 talk sb through sth 结构，意为“一步步指导某人做某事”（视频说明）。through 是介词，后接动名词短语 assembling it 作宾语，it 指 an adapter。\n④本句把材料放在句首，突出就地取材：工程师只能用飞船上已有的普通物品，解决上一句方形滤芯与圆形插槽的矛盾。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动名词作介词宾语",
+    "explain": "介词后面接动词时要用动名词（-ing）形式，如 through assembling it、before leaving、without asking。易错点：to 作介词时同样要接动名词，如 look forward to hearing from you、be used to working late、object to paying，不能误用动词原形。本句 talk sb through sth 中 through 是介词，所以后接 assembling it。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She was praised for handling the crisis calmly.",
+      "zh": "她因沉着处理危机而受到称赞。"
+     },
+     {
+      "en": "The company is committed to reducing its carbon emissions.",
+      "zh": "该公司致力于减少碳排放。"
+     }
+    ]
+   },
+   {
+    "title": "from 表示材料来源",
+    "explain": "make、build、devise 等表示制作的动词后，可用 from 引出所用的材料或来源，如 make paper from bamboo（用竹子造纸）。本句把 from 短语提到句首，突出材料之简陋：转接器是用塑料袋、硬纸板和胶带拼成的。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Local artists built the sculpture from scrap metal and old bicycle parts.",
+      "zh": "当地艺术家用废金属和旧自行车零件制作了这座雕塑。"
+     }
+    ]
+   },
+   {
+    "title": "then 连接先后发生的并列谓语",
+    "explain": "then 本是副词，新闻语体中常用“逗号 + then”连接先后发生的两个动作，相当于 and then。本句 devised an adapter, then talked the crew through… 表示先设计、再指导。正式写作中更稳妥的写法是 and then。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The firm cut its prices, then watched its rivals do the same.",
+      "zh": "这家公司降了价，随后眼看着对手也跟着降价。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "on board",
+    "explain": "视频说明：在飞船上，修饰前面三样东西。on board 指在船、飞机、火车或航天器上；合写的 onboard 作形容词，意为“机载的，随车的”，如 an onboard computer。get sb on board 还可表示“让某人加入或支持某计划”。"
+   },
+   {
+    "term": "talk sb through sth",
+    "explain": "视频说明：一步步指导某人做某事。如 The nurse talked me through the procedure（护士一步步向我讲解了操作过程）。"
+   },
+   {
+    "term": "devise 与 device",
+    "explain": "devise 是动词，意为“设计，想出”，如 devise a plan/method；device 是名词，意为“装置，设备，手段”。两词拼写只差一个字母，词性不同，考研写作中要注意区分。"
+   },
+   {
+    "term": "adapter 与 the mailbox",
+    "explain": "adapter 意为“转接器，适配器”，也拼作 adaptor。这个用塑料袋、硬纸板和胶带做成的转接器，因外形被称为 the mailbox（邮箱）。"
+   }
+  ],
+  "translation_tip": "视频译文“用飞船上现有的塑料袋、硬纸板和胶带，地面工程师构思设计出一个转接器/转换插头，然后一步步指导机组把它组装起来。”的处理：①句首材料状语保留在句首，from 译为“用”；后置定语 on board 前置，译为“飞船上现有的”，增补“现有的”突出就地取材。②三项并列译为“塑料袋、硬纸板和胶带”，汉语用顿号和“和”，不用牛津逗号。③devised 译为“构思设计出”，兼顾“想出”和“设计”两层意思。④talk sb through sth 译为“一步步指导某人”，动名词 assembling it 用“把”字句译为“把它组装起来”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "the capsule",
+   "predicate": "splashed down",
+   "object_or_complement": "",
+   "explain": "主干是 the capsule splashed down，主谓结构。splash down 是不及物短语动词，in the Pacific 作地点状语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On April 17th",
+    "role": "时间状语（介词短语）",
+    "zh": "4月17日"
+   },
+   {
+    "text": "the capsule",
+    "role": "主语（回指第8句的 the crew's capsule，即指令舱）",
+    "zh": "太空舱"
+   },
+   {
+    "text": "splashed down",
+    "role": "谓语（不及物短语动词）",
+    "zh": "水上降落"
+   },
+   {
+    "text": "in the Pacific.",
+    "role": "地点状语（介词短语）",
+    "zh": "在太平洋"
+   }
+  ],
+  "structure": "①On April 17th 是时间状语，后面没有逗号，直接接主语；句首的短状语可以不加逗号。\n②主语 the capsule 回指第8句 the crew's capsule，即指令舱。返回大气层之前，服务舱和登月舱都已分离，最后落入海中的只有指令舱，所以用 capsule。\n③splash down 是不及物短语动词，意为“溅落”或“水面降落”，特指载人航天器或返回舱在重返大气层后，降落于海洋的特定过程（视频说明）。\n④in the Pacific 是地点状语，the Pacific 即 the Pacific Ocean。爆炸发生在4月13日，溅落在4月17日，前后四天，与第17句 within four days 呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物短语动词",
+    "explain": "短语动词由动词加副词小品词构成，有的及物，有的不及物。splash down（溅落）、take off（起飞）、touch down（着陆）、break down（出故障）在这些意思上都是不及物的，不能接宾语，也没有被动语态；但 take off 作“脱下”、break down 作“分解”讲时是及物的，要按词义判断。它们的名词形式常合写为一个词：splashdown、takeoff、touchdown、breakdown。写作时要区分动词和名词：The plane took off（动词）；before takeoff（名词）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The plane touched down in Beijing shortly after midnight.",
+      "zh": "飞机在午夜过后不久降落在北京。"
+     },
+     {
+      "en": "Our car broke down on the way to the airport.",
+      "zh": "我们的车在去机场的路上抛锚了。"
+     }
+    ]
+   },
+   {
+    "title": "大洋名称前用定冠词 the",
+    "explain": "海洋、河流、海峡、运河的名称前要加定冠词，如 the Pacific、the Atlantic、the Yangtze、the Suez Canal；山脉名称前也加 the，如 the Alps。单个湖泊和单座山峰一般不加，如 Lake Geneva、Mount Everest。the Pacific 是 the Pacific Ocean 的简称。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The research vessel spent three months mapping the floor of the Atlantic.",
+      "zh": "这艘科考船花了三个月测绘大西洋海底。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "splash down / splashdown",
+    "explain": "视频说明：“溅落”或“水面降落”，特指载人航天器或返回舱在重返大气层后，降落于海洋的特定过程。splash 本义“溅，泼”，make a splash 意为“引起轰动”。名词 splashdown 指溅落这一过程。"
+   },
+   {
+    "term": "the Pacific",
+    "explain": "太平洋。阿波罗13号的指令舱溅落在南太平洋，由美国海军舰船回收。"
+   },
+   {
+    "term": "capsule",
+    "explain": "源自拉丁语 capsula（小盒子），常见义是“胶囊”，也指小而封闭的太空舱，如 a space capsule。time capsule 意为“时间胶囊”。"
+   }
+  ],
+  "translation_tip": "视频译文“4月17日，太空舱水上降落在太平洋。”的处理：①时间状语“4月17日”放在句首，后加逗号。②the capsule 回指上文的机组太空舱，直接译为“太空舱”。③splashed down 译为“水上降落”，把 splash 所含的“溅入水中”转为“水上”，down 译为“降落”。④地点状语 in the Pacific 按原语序放在动词之后，译为“在太平洋”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "the fault",
+   "predicate": "had been built in",
+   "object_or_complement": "",
+   "explain": "主干是 the fault had been built in，主谓结构。谓语 had been built in 是短语动词 build in 的过去完成时被动语态，表示在爆炸之前缺陷就已经存在。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "连接副词，表示转折",
+    "zh": "然而"
+   },
+   {
+    "text": "the fault",
+    "role": "主语",
+    "zh": "这个缺陷"
+   },
+   {
+    "text": "had been built in",
+    "role": "谓语（过去完成时，被动语态）",
+    "zh": "被内置了/埋下了"
+   },
+   {
+    "text": "on Earth.",
+    "role": "地点状语（介词短语）",
+    "zh": "早在地球上就"
+   }
+  ],
+  "structure": "①Yet 在句首作连接副词，意为“然而”，与上一段的成功返航形成转折：飞船平安归来，问题的根源却早在地球上就埋下了。本句是第四段的主题句，引出下文对事故原因的追查。\n②the fault 用定冠词，指造成爆炸的那个缺陷。fault 经常用来指代机器或者设备的故障和缺陷（视频说明）。\n③had been built in 是过去完成时的被动语态。build in 意为“（建造时）使成为固有的一部分”（视频说明），被动表示缺陷是在制造过程中被带进飞船的。过去完成时表示“过去的过去”：相对于1970年的爆炸，缺陷在更早的时候就已存在。\n④on Earth 与太空形成对照：事故发生在太空，原因却在地面。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时的被动语态",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经发生的事，被动形式为 had been done。本句的参照点是第2句的爆炸，缺陷在造飞船时就已存在，早于爆炸，所以用 had been built in。文章先写事故和救援，再回头追溯更早的原因，这种倒叙常借助过去完成时提示。考研阅读中看到 had been done，要留意事件的先后顺序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the fire crews arrived, most of the building had been destroyed.",
+      "zh": "等消防队赶到时，大楼的大部分已被烧毁。"
+     },
+     {
+      "en": "The error had been introduced years earlier, when the software was first written.",
+      "zh": "这个错误早在多年前软件最初编写时就已被带入。"
+     }
+    ]
+   },
+   {
+    "title": "yet 作连接副词表示转折",
+    "explain": "yet 放在句首或分句之间时意为“然而，但是”，相当于 but、however，语气较正式，常引出与前文预期相反的事实。yet 还可作副词，意为“还，尚未”，多用于否定句和疑问句，如 They have not finished yet。本句 Yet 在段首，与上文的成功返航形成对比。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked perfect on paper. Yet it failed within a month.",
+      "zh": "这个计划在纸面上看起来很完美，然而不到一个月就失败了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "build in",
+    "explain": "视频说明：（建造时）使成为固有的一部分。形容词 built-in 意为“内置的，嵌入式的；固有的”，如 a built-in camera（内置摄像头）、built-in bias（固有的偏见）。本句用比喻义，指缺陷在造飞船时就埋下了，视频给出“内置了/埋下了”两种译法。"
+   },
+   {
+    "term": "fault",
+    "explain": "视频说明：经常用来指代机器或者设备的故障和缺陷，如 an electrical fault（电路故障）。fault 还指过错，如 It's not my fault；在地质学上指断层。"
+   },
+   {
+    "term": "on Earth",
+    "explain": "Earth 作行星名称时常大写，前面不加冠词，如 on Earth、life on Earth；也可写作 on the earth。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，这个缺陷早在地球上就被内置了/埋下了。”的处理：①Yet 译为“然而”，后加逗号，承接上文。②the fault 译为“这个缺陷”，用“这个”体现定冠词的特指。③过去完成时表示的“早已存在”，用增补的“早……就”体现，译为“早在地球上就……”。④被动语态保留“被”字，build in 给出“内置了/埋下了”两种译法，前者对应字面，后者对应比喻义。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "A NASA review board",
+   "predicate": "traced",
+   "object_or_complement": "the explosion",
+   "explain": "主干是 A NASA review board traced the explosion，主谓宾结构，to the tank's thermostat switches 与 traced 构成 trace A to B。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "A NASA review board",
+    "role": "主语（NASA 是名词作定语，修饰 review board）",
+    "zh": "一个NASA的审查委员会"
+   },
+   {
+    "text": "traced",
+    "role": "谓语",
+    "zh": "查明了"
+   },
+   {
+    "text": "the explosion",
+    "role": "宾语",
+    "zh": "这次爆炸"
+   },
+   {
+    "text": "to the tank's thermostat switches,",
+    "role": "介词短语，与 traced 构成 trace A to B，说明查到的来源",
+    "zh": "源自于（液氧）罐的恒温器开关上"
+   },
+   {
+    "text": "designed for",
+    "role": "过去分词短语的开头，整个短语作后置定语，修饰 switches",
+    "zh": "这些开关是按……设计的"
+   },
+   {
+    "text": "the ship's 28-volt supply.",
+    "role": "介词 for 的宾语（28-volt 是复合形容词，修饰 supply）",
+    "zh": "飞船的28伏电源"
+   }
+  ],
+  "structure": "①主句 A NASA review board traced the explosion to the tank's thermostat switches：trace A to B 意为“追溯到 A 的来源为 B、查明 A 源于 B”（视频说明），A 是 the explosion，B 是 the tank's thermostat switches。\n②主语 A NASA review board 中，NASA 是名词作定语，说明委员会隶属于 NASA。冠词用 A 而不用 An，因为 NASA 读作 /ˈnæsə/，以辅音开头。\n③the tank's thermostat switches 中，the tank's 是名词所有格，指第2句那个爆炸的氧气罐；thermostat 是名词作定语，修饰 switches，即“恒温器的开关”。\n④designed for the ship's 28-volt supply 是过去分词短语作后置定语，修饰 switches（视频说明），相当于 which were designed for the ship's 28-volt supply，说明这些开关原本是按飞船的28伏电源设计的。28-volt 是“数词 + 名词”构成的复合形容词，名词用单数。这个细节为下一句的65伏电源埋下伏笔。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "trace A to B",
+    "explain": "trace 本义“追踪，找出”，trace A to B 表示“查明 A 起源于 B，把 A 追溯到 B”。被动形式 A can be traced (back) to B 在考研阅读中极常见，用于说明原因或起源。本句 traced the explosion to the tank's thermostat switches 即查明爆炸源于罐内的恒温开关。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Investigators traced the outbreak to a contaminated water supply.",
+      "zh": "调查人员查明，这次疫情源于受污染的供水。"
+     },
+     {
+      "en": "The tradition can be traced back to the early Middle Ages.",
+      "zh": "这一传统可以追溯到中世纪早期。"
+     }
+    ]
+   },
+   {
+    "title": "复合形容词“数词 + 名词”用单数",
+    "explain": "数词与名词用连字符连接作前置定语时，名词用单数：a 28-volt supply、a five-year plan、a ten-minute walk，不能说 a 28-volts supply。作表语时则用复数，如 The supply is 28 volts。下一句的 65-volt 和第17句的 five-year-old 也是这种结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city launched a ten-year plan to rebuild its harbour.",
+      "zh": "该市启动了一项重建港口的十年计划。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词后作定语，表示被动或完成，相当于一个定语从句。本句 designed for the ship's 28-volt supply 修饰 switches，相当于 which were designed for…，开关是“被设计”的一方。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most of the equipment designed for the old network is now useless.",
+      "zh": "为旧网络设计的大部分设备如今已无用武之地。"
+     }
+    ]
+   },
+   {
+    "title": "冠词 a 与 an 由读音决定",
+    "explain": "用 a 还是 an，取决于后面单词开头的发音，而不是字母：以辅音音素开头用 a，以元音音素开头用 an。缩略词按读音判断：NASA 读作 /ˈnæsə/，所以是 a NASA review board；FBI 逐个字母读，开头是元音 /e/，所以是 an FBI agent。同理有 a university、an hour。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He worked as an FBI agent before joining a NATO research team.",
+      "zh": "他当过联邦调查局探员，后来加入了北约的一个研究小组。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "review board",
+    "explain": "审查委员会。阿波罗13号事故后，NASA 成立了 Apollo 13 Review Board 调查事故原因，由 Edgar Cortright 担任主席。"
+   },
+   {
+    "term": "thermostat",
+    "explain": "恒温器，温度调节器，由 thermo-（热）和 -stat（使保持稳定的装置）构成，如 turn the thermostat up/down（调高或调低恒温器温度）。本句的恒温开关用来在罐内温度过高时切断加热器电源。"
+   },
+   {
+    "term": "volt",
+    "explain": "伏特，伏，电压单位，缩写 V，以意大利物理学家伏特（Alessandro Volta）的姓氏命名；voltage 意为“电压”。"
+   },
+   {
+    "term": "supply",
+    "explain": "本句指电源，即 power supply；supply 常见义是“供应，供应量”，如 water supply（供水）、in short supply（供应短缺）。"
+   }
+  ],
+  "translation_tip": "视频译文“一个NASA的审查委员会查明了这次爆炸源自于（液氧）罐的恒温器开关上，这些开关是按飞船的28伏电源设计的。”的处理：①A NASA review board 译为“一个NASA的审查委员会”，名词定语 NASA 后加“的”。②trace A to B 拆成“查明了……源自于……”两部分，宾语 the explosion 译为“这次爆炸”放在中间。③视频增补“（液氧）”，说明 the tank 是装氧气的储罐，便于观众理解。④过去分词短语 designed for… 不前置，拆成独立分句，增补“这些开关”回指 switches，用“是按……设计的”说明设计依据。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "the spacecraft's builder（第一分句）；the switches（第二分句）",
+   "predicate": "rewrote（第一分句）；were never upgraded（第二分句）",
+   "object_or_complement": "the specification（rewrote 的宾语）；第二分句为被动语态，无宾语",
+   "explain": "并列句，分号连接两个分句。第一分句是主谓宾结构，谓语 rewrote 为一般过去时、主动语态；第二分句谓语 were never upgraded 为一般过去时的被动语态，never 表示否定。句末的 a mismatch… 是同位语，不是新的分句。"
+  },
+  "components": [
+   {
+    "text": "In 1965",
+    "role": "时间状语（介词短语）",
+    "zh": "在1965年"
+   },
+   {
+    "text": "the spacecraft's builder",
+    "role": "主语（第一分句）",
+    "zh": "飞船承建商"
+   },
+   {
+    "text": "rewrote",
+    "role": "谓语（第一分句）",
+    "zh": "就改写了"
+   },
+   {
+    "text": "the specification",
+    "role": "宾语",
+    "zh": "技术规格"
+   },
+   {
+    "text": "to let the heaters",
+    "role": "目的状语（不定式 to let；the heaters 作 let 的宾语）",
+    "zh": "允许加热器"
+   },
+   {
+    "text": "run on 65-volt launch-site power;",
+    "role": "宾语补足语（不带 to 的不定式短语；run on 意为“靠……运行”）",
+    "zh": "使用发射场65伏的电源来运行"
+   },
+   {
+    "text": "the switches",
+    "role": "主语（第二分句）",
+    "zh": "开关"
+   },
+   {
+    "text": "were never upgraded,",
+    "role": "谓语（第二分句，一般过去时被动语态，never 表示否定）",
+    "zh": "却始终没有升级"
+   },
+   {
+    "text": "a mismatch",
+    "role": "同位语，概括前一分句所说的情况",
+    "zh": "这处不匹配"
+   },
+   {
+    "text": "neither that contractor nor NASA detected.",
+    "role": "定语从句（省略了作宾语的关系代词 which/that），修饰 a mismatch",
+    "zh": "无论是那家承包商还是NASA都没有发现"
+   }
+  ],
+  "structure": "①本句是分号连接的并列句。第一分句 In 1965 the spacecraft's builder rewrote the specification：主语 the spacecraft's builder 指飞船的承建商，谓语 rewrote，宾语 the specification 指技术规格。\n②to let the heaters run on 65-volt launch-site power 是不定式短语作目的状语（视频说明：to let…：不定式表目的），说明改写规格的目的。let 是使役动词，后接宾语 the heaters 和不带 to 的不定式 run 作宾语补足语。run on 意为“靠……运行；使用……电能/燃料来运行”（视频说明）；65-volt 和 launch-site 都是复合形容词，修饰 power。\n③第二分句 the switches were never upgraded 是被动语态，never 表示“从来没有”：加热器的规格已改为可用65伏电源，罐里的恒温开关却仍是上一句所说的28伏设计。\n④a mismatch 是同位语，概括前一句（视频说明：a mismatch…：同位语，概括前一句），即28伏开关与65伏电源之间的不匹配。neither that contractor nor NASA detected 是省略 which 的定语从句，修饰 mismatch（视频说明），完整形式是 a mismatch (which) neither that contractor nor NASA detected，被省略的关系代词在从句中作 detected 的宾语。\n⑤neither A nor B 意为“A 和 B 都不”（视频说明），本身含否定，所以谓语 detected 用肯定形式。that contractor 回指 the spacecraft's builder，由 builder 换成 contractor，是同义替换。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "使役动词 let + 宾语 + 不带 to 的不定式",
+    "explain": "let、make、have 等使役动词后接宾语和不带 to 的不定式，如 let sb do sth（允许某人做某事）。make 用于被动语态时要还原 to（be made to do），let 一般不用被动，改用 be allowed to do。本句 to let the heaters run on… 中，to let 是不定式表目的，the heaters 是 let 的宾语，run 是宾语补足语，前面不能加 to。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules let tenants end their leases with one month's notice.",
+      "zh": "新规定允许租户提前一个月通知即可解除租约。"
+     }
+    ]
+   },
+   {
+    "title": "句末名词短语作同位语，概括前面的分句",
+    "explain": "英语可以在句末用一个名词短语概括前面整个分句的内容，名词前常用 a 或 an，后面常再跟定语从句展开说明，如…, a decision that surprised many。这种同位语不是修饰某个单词，而是对整句话的总结，作用接近 which 引导的非限制性定语从句，但更简洁。考研阅读中，这类句末名词短语常带出作者的评价，是理解句意的关键。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company cut its prices by half, a move that forced its rivals to follow.",
+      "zh": "这家公司将价格降了一半，这一举措迫使竞争对手纷纷跟进。"
+     },
+     {
+      "en": "Turnout fell below 40 percent, a figure few analysts had predicted.",
+      "zh": "投票率跌破了40%，这个数字几乎没有分析人士预料到。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词在限制性定语从句中作宾语时可以省略。本句 a mismatch neither that contractor nor NASA detected：名词 mismatch 后直接跟着“主语 + 谓语”，detected 后缺宾语，缺的正是 mismatch，可补出 which 或 that。识别要点：名词后紧接另一个主谓结构，而这个谓语缺宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The changes the board approved last week will take effect in January.",
+      "zh": "董事会上周批准的变更将于1月生效。"
+     }
+    ]
+   },
+   {
+    "title": "neither A nor B",
+    "explain": "neither A nor B 表示“A 和 B 都不”，本身带否定意义，句中谓语不再加 not。它连接两个主语时，谓语动词与靠近的 B 保持一致（就近原则），如 Neither the manager nor the employees were informed。对应的肯定形式是 both A and B，选择形式是 either A or B。本句谓语 detected 是过去式，不涉及单复数变化。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Neither the driver nor his passengers were injured in the crash.",
+      "zh": "司机和乘客在车祸中都没有受伤。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "specification",
+    "explain": "规格，技术要求，常用复数 specifications，口语缩写 specs，如 meet the specifications（符合规格）、built to specification（按规格制造）。动词 specify 意为“具体说明，明确规定”。"
+   },
+   {
+    "term": "run on",
+    "explain": "视频说明：靠……运行；使用……电能/燃料来运行，如 run on batteries（用电池）、run on diesel（以柴油为燃料）。"
+   },
+   {
+    "term": "launch-site power",
+    "explain": "发射场电源。launch site 意为“发射场”，作前置定语时加连字符写成 launch-site。本句把发射场的65伏电源与上一句飞船自身的28伏电源对照，矛盾就在这里。"
+   },
+   {
+    "term": "builder 与 contractor",
+    "explain": "builder 指建造者、承建商，contractor 指按合同承接工程的承包商。the spacecraft's builder 指承建飞船的公司，后文用 that contractor 回指同一家公司，是同义替换。"
+   }
+  ],
+  "translation_tip": "视频译文“在1965年，飞船承建商就改写了技术规格，允许加热器使用发射场65伏的电源来运行；开关却始终没有升级，这处不匹配，无论是那家承包商还是NASA都没有发现。”的处理：①时间状语 In 1965 译为“在1965年”，并在谓语前增补“就”，强调此事发生得早。②不定式短语 to let the heaters run on… 按原语序放在后面，let 译为“允许”；run on 65-volt launch-site power 译为“使用发射场65伏的电源来运行”，前置定语按“发射场65伏的”顺序译出。③第二分句增补“却”，突出加热器已改、开关未改的反差，never 译为“始终没有”。④同位语 a mismatch 单独译为“这处不匹配”；省略关系代词的定语从句不前置，拆成后面的分句，neither A nor B 译为“无论是……还是……都没有”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "a heater",
+   "predicate": "ran",
+   "object_or_complement": "",
+   "explain": "主干是 a heater ran，主谓结构；run 在此是不及物动词，意为“（机器）运转，工作”，about eight hours 说明运转了多久。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Weeks before launch,",
+    "role": "时间状语（名词 weeks 放在介词短语 before launch 前，说明提前多久）",
+    "zh": "发射前几周"
+   },
+   {
+    "text": "to drain",
+    "role": "目的状语（不定式）",
+    "zh": "为了排空"
+   },
+   {
+    "text": "the stubborn tank,",
+    "role": "不定式 drain 的宾语",
+    "zh": "那个难以排空的储罐"
+   },
+   {
+    "text": "a heater",
+    "role": "主语",
+    "zh": "一台加热器"
+   },
+   {
+    "text": "ran",
+    "role": "谓语（不及物动词）",
+    "zh": "连续工作了"
+   },
+   {
+    "text": "about eight hours.",
+    "role": "时间状语（名词短语，前面省略了 for）",
+    "zh": "约八个小时"
+   }
+  ],
+  "structure": "①主句 a heater ran about eight hours：run 意为“（机器）运转，工作”，about eight hours 是名词短语作时间状语，前面省略了介词 for。\n②主语前有两个状语。Weeks before launch 交代时间，weeks 放在 before launch 前，表示“发射前几周”；launch 前不加冠词，指“发射”这一事件。to drain the stubborn tank 是不定式作目的状语（视频说明：to drain…：不定式表目的），说明加热器为什么要运转。\n③stubborn 原义“顽固的，倔强的”，这里用于物，意为“难以去除的；难以排空的”，表示污渍或者残留物难以去除或者排空（视频说明）。the stubborn tank 用定冠词，指的仍是第2句爆炸的那个氧气罐。\n④上一句交代规格改动，本句交代地面上一次长时间加热，两件事共同为下一句的开关失灵和绝缘层烧焦作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "“时间段 + before/after + 事件”作时间状语",
+    "explain": "表示“在某事之前或之后多久”时，把表示时间段的名词短语放在 before、after 短语前，如 weeks before launch（发射前几周）、two days after the election（选举后两天）、shortly before midnight（午夜前不久）。中英文语序不同：英文是“时间段 + before + 事件”，中文是“事件 + 前 + 时间段”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Only days before the deadline, the government changed the rules.",
+      "zh": "就在截止日期前几天，政府修改了规定。"
+     },
+     {
+      "en": "Two years after the merger, the company moved its headquarters to London.",
+      "zh": "合并两年后，该公司把总部迁到了伦敦。"
+     }
+    ]
+   },
+   {
+    "title": "不定式作目的状语放在句首",
+    "explain": "不定式表示目的时可放在句末，也可放在句首用逗号隔开，放在句首时更突出目的，可与 in order to 互换。本句 to drain the stubborn tank 放在主语前，先交代目的，再说明加热器运转了多久。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "To reduce traffic, the city introduced a congestion charge.",
+      "zh": "为了减少交通流量，该市开始征收拥堵费。"
+     }
+    ]
+   },
+   {
+    "title": "表示时长的名词短语直接作状语",
+    "explain": "last、wait、stay、run 等动词后，表示持续时间的名词短语前的 for 常可省略，如 The meeting lasted three hours、The machine ran about eight hours。时长状语放在句首时，for 通常要保留，如 For three hours nobody spoke。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The storm lasted nearly two days.",
+      "zh": "风暴持续了将近两天。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "drain",
+    "explain": "动词意为“排空，排出（液体）”，如 drain the tank；名词意为“下水道，排水管”。引申义“耗尽（精力、资源）”，如 feel drained（精疲力竭）、a drain on resources（对资源的消耗）；brain drain 意为“人才外流”。"
+   },
+   {
+    "term": "stubborn",
+    "explain": "熟词僻义。常见义是“顽固的，倔强的”，用于物时表示“难以去除的，难以对付的”，如 a stubborn stain（顽渍）、stubborn inflation（顽固的通货膨胀）。视频说明：难以去除的；难以排空的。"
+   },
+   {
+    "term": "before launch",
+    "explain": "launch 在这里是名词，零冠词表示“发射”这一阶段，类似 before takeoff、after lunch。"
+   }
+  ],
+  "translation_tip": "视频译文“发射前几周，为了排空那个难以排空的储罐，一台加热器连续工作了约八个小时。”的处理：①Weeks before launch 按汉语语序译为“发射前几周”，“前”与“几周”的位置与英文相反。②目的状语保留在句首，译为“为了排空那个难以排空的储罐”，stubborn 根据语境译为“难以排空的”，the 译为“那个”。③ran 增补“连续”，译为“连续工作了”，突出加热器长时间不停运转。④about eight hours 译为“约八个小时”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "The switches（第一分句）；unchecked heat（第二分句）；that insulation（第三分句）",
+   "predicate": "malfunctioned（第一分句）；scorched（第二分句）；ignited（第三分句）",
+   "object_or_complement": "the insulation on the tank's wiring（scorched 的宾语）；第一、三分句为主谓结构，无宾语",
+   "explain": "由两个分号连接的三个分句，按因果顺序排列。三个谓语都是一般过去时，主动语态；malfunction 和 ignite 在这里是不及物动词，scorch 是及物动词。"
+  },
+  "components": [
+   {
+    "text": "The switches",
+    "role": "主语（第一分句）",
+    "zh": "开关"
+   },
+   {
+    "text": "probably",
+    "role": "评注性状语（表示说话人的推测），修饰整个分句",
+    "zh": "很可能"
+   },
+   {
+    "text": "malfunctioned;",
+    "role": "谓语（第一分句，不及物动词）",
+    "zh": "失灵了"
+   },
+   {
+    "text": "unchecked heat",
+    "role": "主语（第二分句；unchecked 作前置定语）",
+    "zh": "无人管控的高温"
+   },
+   {
+    "text": "scorched",
+    "role": "谓语（第二分句）",
+    "zh": "烧焦了"
+   },
+   {
+    "text": "the insulation on the tank's wiring;",
+    "role": "宾语（on the tank's wiring 作后置定语，修饰 insulation）",
+    "zh": "罐内线路上的绝缘层"
+   },
+   {
+    "text": "in flight,",
+    "role": "时间状语（介词短语）",
+    "zh": "在飞行途中"
+   },
+   {
+    "text": "that insulation",
+    "role": "主语（第三分句）",
+    "zh": "这层绝缘材料"
+   },
+   {
+    "text": "ignited.",
+    "role": "谓语（第三分句，不及物动词）",
+    "zh": "燃烧起来了/着火了"
+   }
+  ],
+  "structure": "①全句由两个分号连接三个独立分句，构成一条因果链：开关失灵，失控的热量烧焦了绝缘层，绝缘层在飞行中起火。分号之间不用连词，节奏紧凑。\n②第一分句 The switches probably malfunctioned：probably 表示推测，说明开关失灵是很可能的原因，文章没有把它写成确定的事实。\n③第二分句 unchecked heat scorched the insulation on the tank's wiring：unchecked 指事情的发展不受限制、完全被放任，没有人去控制（视频说明），作 heat 的前置定语；on the tank's wiring 是介词短语作后置定语，修饰 insulation（视频说明）。\n④第三分句 in flight, that insulation ignited：in flight 是时间状语，意为“在飞行中”；that insulation 回指被烧焦的那层绝缘材料；ignite 在这里是不及物动词，意为“着火”。这一分句把地面上的隐患与第2句太空中的爆炸连了起来。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "副词 probably 表示推测",
+    "explain": "probably、possibly、likely、perhaps 等副词表示说话人对事情的推测：probably 把握较大（很可能），possibly、perhaps 把握较小（也许）。它们通常放在实义动词前、be 动词和助动词后，如 He probably knows、He is probably right。考研阅读中，带这类词的句子是推断而不是定论，做细节题时不能把它当成确定的事实；本句 probably 表明开关失灵是推断出的最可能原因。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The fire was probably caused by a faulty cable.",
+      "zh": "这场火灾很可能是由一根有故障的电缆引起的。"
+     },
+     {
+      "en": "The new policy will probably take several years to show results.",
+      "zh": "新政策很可能需要几年才能见效。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接一连串分句",
+    "explain": "多个独立分句可以用分号依次连接，适合叙述环环相扣的事件。与用 and、so 连接相比，分号让读者自己体会前后的因果，语气更简洁有力。每个分号前后都必须是完整的句子。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The pipe froze; the water backed up; by morning the kitchen was flooded.",
+      "zh": "管道冻住了；水倒流回来；到早上厨房已经被淹了。"
+     }
+    ]
+   },
+   {
+    "title": "否定前缀 un- + 过去分词构成形容词",
+    "explain": "否定前缀 un- 加在过去分词前，构成意为“未被……的”的形容词，如 unchecked（未受控制的）、unnoticed（未被注意的）、unresolved（未解决的）、unreported（未被报道的）。这类词常与 go、remain、leave 搭配，如 go unchecked（不受控制）、remain unresolved（仍未解决）。本句 unchecked heat 作定语，表示没有被控制住的热量。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "If left unchecked, the disease could spread to neighbouring countries.",
+      "zh": "如果放任不管，这种疾病可能蔓延到邻国。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "malfunction",
+    "explain": "（机器）发生故障，失灵；也可作名词，如 an equipment malfunction。前缀 mal- 表示“坏，不良”，同类词有 malnutrition（营养不良）、malpractice（玩忽职守，医疗事故）。"
+   },
+   {
+    "term": "unchecked",
+    "explain": "视频说明：指事情的发展不受限制，完全被放任无视，没有人去控制这件事。check 在这里取“控制，抑制”义，如 keep inflation in check（控制通货膨胀）。"
+   },
+   {
+    "term": "insulation 与 wiring",
+    "explain": "insulation 指绝缘层、绝缘材料，也指房屋的隔热材料，动词是 insulate；wiring 指电线、线路，如 faulty wiring（线路故障）。"
+   },
+   {
+    "term": "in flight",
+    "explain": "在飞行中；合写的 in-flight 作定语，意为“飞行中的，机上的”，如 in-flight meals（机上餐食）。"
+   }
+  ],
+  "translation_tip": "视频译文“开关很可能失灵了；无人管控的高温烧焦了罐内线路上的绝缘层；在飞行途中，这层绝缘材料燃烧起来了/着火了。”的处理：①三个分句按原顺序译出，保留两个分号，体现因果链。②probably 译为“很可能”，保留推测语气。③unchecked heat 译为“无人管控的高温”，把“不受控制”具体化为“无人管控”，heat 根据语境译为“高温”。④后置定语 on the tank's wiring 前置为“罐内线路上的”，修饰“绝缘层”；that insulation 译为“这层绝缘材料”，ignited 给出“燃烧起来了/着火了”两种说法。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "NASA",
+   "predicate": "called",
+   "object_or_complement": "Apollo 13（宾语）；a \"successful failure\"（宾语补足语）",
+   "explain": "主谓宾宾补结构：call A B，Apollo 13 是宾语，名词短语 a \"successful failure\" 是宾语补足语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "NASA",
+    "role": "主语",
+    "zh": "NASA"
+   },
+   {
+    "text": "called",
+    "role": "谓语（call A B 结构）",
+    "zh": "把……称作"
+   },
+   {
+    "text": "Apollo 13",
+    "role": "宾语",
+    "zh": "阿波罗13号"
+   },
+   {
+    "text": "a \"successful failure\".",
+    "role": "宾语补足语（名词短语）",
+    "zh": "“成功的失败”"
+   }
+  ],
+  "structure": "①本句是 call A B 结构，意为“把 A 称作 B”（视频说明）。宾语 Apollo 13 与宾语补足语 a \"successful failure\" 指同一事物，补足语说明宾语被称作什么。\n②successful failure 是矛盾修辞：successful 与 failure 意思相反，放在一起反而更有表现力。“失败”指没有完成登月任务，“成功”指在严重事故后把三名宇航员平安接回。\n③引号表示这是一个特定的说法。句号放在引号之外，符合英式标点习惯；美式标点一般把句号放在引号之内。\n④本句是最后一段的开头，下一句的 The paradox 回指的就是这个“成功的失败”，也与标题 The Successful Failure 呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "call + 宾语 + 名词作宾语补足语",
+    "explain": "call、name、elect、appoint、consider、make 等动词后可接“宾语 + 名词”，名词作宾语补足语，说明宾语的名称或身份，如 They elected her chair。变为被动语态时，宾语补足语变为主语补足语，如 Apollo 13 was called a \"successful failure\"。考研阅读常见 be called、be dubbed、be labelled 等结构，后面往往是对某事物的定性评价。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Critics have called the new law a missed opportunity.",
+      "zh": "批评者称这部新法律错失了良机。"
+     },
+     {
+      "en": "The local press dubbed the empty stadium a monument to waste.",
+      "zh": "当地媒体把这座空荡荡的体育场称作浪费的纪念碑。"
+     }
+    ]
+   },
+   {
+    "title": "矛盾修辞",
+    "explain": "把意思相反或相互矛盾的词放在一起，形成看似矛盾、实则深刻的表达，叫矛盾修辞（oxymoron），如 bittersweet（苦乐参半的）、deafening silence（震耳欲聋的沉默）、open secret（公开的秘密）。考研阅读的标题和结尾常用这种修辞，答题时要把两层含义分别落到实处。本句 successful failure：登月任务失败，救援却成功。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Leaving home for university was a bittersweet experience for her.",
+      "zh": "离家去上大学对她来说是一段苦乐参半的经历。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "successful failure",
+    "explain": "“成功的失败”，与标题 Apollo 13: The Successful Failure 呼应。下一句的 paradox（悖论）就是对这一说法的进一步阐述。"
+   },
+   {
+    "term": "引号与句号的位置",
+    "explain": "本句句号放在引号外（a \"successful failure\".），这是英式标点习惯：引号内只是一个短语，不是完整的句子，句号属于整句，所以放在引号外。美式标点一般把句号和逗号放在引号之内。"
+   },
+   {
+    "term": "电影《阿波罗13号》",
+    "explain": "1995年上映的电影《阿波罗13号》（Apollo 13）讲述的就是这次事故与救援，使这段历史广为人知。"
+   }
+  ],
+  "translation_tip": "视频译文“NASA把阿波罗13号称作“成功的失败”。”的处理：①call A B 译为“把 A 称作 B”，用“把”字句把宾语“阿波罗13号”提到动词前。②引号内的 successful failure 直译为“成功的失败”，保留矛盾修辞，英文引号对应中文引号。③不定冠词 a 不译出。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "The paradox（冒号前）；a flight（冒号后）",
+   "predicate": "holds（冒号前）；was salvaged（冒号后）",
+   "object_or_complement": "冒号前为主谓结构；冒号后为被动语态，均无宾语",
+   "explain": "冒号前 The paradox holds 是主谓结构，hold 为不及物动词，用一般现在时，表示这一说法至今成立；冒号后 a flight… was salvaged… 是一般过去时的被动语态，by ingenuity on the ground 引出动作的执行者。"
+  },
+  "components": [
+   {
+    "text": "The paradox",
+    "role": "主语（冒号前的分句；回指上句的 successful failure）",
+    "zh": "这个悖论"
+   },
+   {
+    "text": "holds:",
+    "role": "谓语（不及物动词，意为“站得住脚”）",
+    "zh": "站得住脚"
+   },
+   {
+    "text": "a flight",
+    "role": "主语（冒号后的分句）",
+    "zh": "一次飞行"
+   },
+   {
+    "text": "undone by",
+    "role": "过去分词短语的开头，整个短语作后置定语，修饰 a flight",
+    "zh": "毁于"
+   },
+   {
+    "text": "a five-year-old engineering oversight",
+    "role": "介词 by 的宾语（five-year-old 是复合形容词，engineering 是名词作定语）",
+    "zh": "五年前的一处工程疏忽"
+   },
+   {
+    "text": "was salvaged within four days",
+    "role": "谓语（一般过去时被动语态）+ 时间状语",
+    "zh": "却在四天之内得以挽救"
+   },
+   {
+    "text": "by ingenuity on the ground.",
+    "role": "被动语态的施动者（by 短语）；on the ground 作后置定语，修饰 ingenuity",
+    "zh": "靠的是地面上的巧思/足智多谋"
+   }
+  ],
+  "structure": "①冒号前 The paradox holds：the paradox 回指上句的 successful failure；hold 意为“（论点、理论等）站得住脚”（视频说明），用一般现在时表示这个说法至今仍然成立。\n②冒号后的分句具体说明悖论的内容。主语 a flight 后跟过去分词短语 undone by a five-year-old engineering oversight 作后置定语，undone by… 意为“被……毁掉”（视频说明），相当于 which had been undone by…。句子真正的谓语在后面，是 was salvaged。\n③a five-year-old engineering oversight 中，five-year-old 是复合形容词，指这处疏忽已经存在了五年，即第13句1965年的规格改动，到1970年正好五年；engineering 是名词作定语，说明是工程上的疏忽。\n④谓语 was salvaged 是被动语态，within four days 是时间状语，从4月13日爆炸到4月17日溅落，前后不到四天。by ingenuity on the ground 引出施动者，ingenuity 意为“巧思；足智多谋；独创性”（视频说明），on the ground 与太空相对，呼应第9句的 ground engineers。\n⑤句内形成三组对照：five-year-old 与 within four days 对比时间，engineering oversight 与 ingenuity 对比人的疏忽与智慧，undone 与 salvaged 对比毁与救。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语紧跟主语作后置定语",
+    "explain": "undone 是 undo 的过去分词，undone by… 修饰主语 a flight，相当于 which had been undone by…。主语后紧跟过去分词短语、真正的谓语在后面，是考研长难句的典型结构，容易把过去分词误当谓语。分析时先找到真正的谓语 was salvaged，再把中间的分词短语括起来，主干就是 a flight was salvaged。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A company weakened by years of mismanagement was rescued by a foreign investor.",
+      "zh": "一家因多年管理不善而衰落的公司被一位外国投资者救了下来。"
+     },
+     {
+      "en": "Many species threatened by habitat loss are now protected by law.",
+      "zh": "许多受栖息地丧失威胁的物种如今受到法律保护。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号用于引出对前文的解释、具体化或举例，前面一般是完整的句子。本句 The paradox holds 后用冒号，后面的内容具体说明悖论是什么。第7句 A quieter hazard emerged: 也是同样用法。分号连接的两部分是并列关系，冒号后的内容则是对前文的展开。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The findings point to one conclusion: the drug works best when taken early.",
+      "zh": "研究结果指向一个结论：这种药越早服用效果越好。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态中由 by 引出抽象施动者",
+    "explain": "被动句用 by 引出动作的执行者，执行者可以是人，也可以是抽象名词或事物，如 undone by an oversight、salvaged by ingenuity。英语常用抽象名词作施动者，汉语则多转换成“靠……”“因为……”等说法，视频把 by ingenuity on the ground 译为“靠的是地面上的巧思”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The village was saved by the quick thinking of a single engineer.",
+      "zh": "这个村子靠一位工程师的急中生智才得以保全。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hold",
+    "explain": "熟词僻义。hold 作不及物动词时，可指论点、理论、规律“成立，站得住脚”，如 The argument still holds；hold true 意为“仍然适用，仍然正确”。视频说明：hold：（论点、理论等）站得住脚。"
+   },
+   {
+    "term": "undo",
+    "explain": "本义“解开，打开”，如 undo a button；引申为“毁掉，使前功尽弃”。be undone by 意为“毁于”，视频说明：undone by…：被……毁掉。"
+   },
+   {
+    "term": "oversight",
+    "explain": "一词两义：既指“疏忽，失察”，如 an oversight on sb's part，也指“监督，监管”，如 regulatory oversight（监管）。两义差别很大，要靠语境判断，本句前有 engineering 修饰，又与 undone 搭配，指“疏忽”。"
+   },
+   {
+    "term": "salvage 与 ingenuity",
+    "explain": "salvage 意为“挽救，抢救”，如 salvage a mission、salvage one's reputation。ingenuity 意为“巧思，足智多谋”，视频说明：哪怕条件特别烂、限制特别多，这人也能靠自己的小聪明和奇思妙想，愣是找出办法把难题给解决了；形容词是 ingenious。"
+   },
+   {
+    "term": "on the ground",
+    "explain": "在地面上，与 in space、in the air 相对；也可引申为“在现场，在基层”，如 reporters on the ground（现场记者）。"
+   }
+  ],
+  "translation_tip": "视频译文“这个悖论站得住脚：一次飞行，毁于五年前的一处工程疏忽，却在四天之内得以挽救，靠的是地面上的巧思/足智多谋。”的处理：①The paradox holds 译为“这个悖论站得住脚”，hold 取“站得住脚”之义。②冒号后的主语 a flight 单独译为“一次飞行”，后置的过去分词短语 undone by… 不前置，而是拆成独立的短句“毁于五年前的一处工程疏忽”，five-year-old 根据时间关系译为“五年前的”。③被动谓语 was salvaged 前增补“却”，与“毁于”形成转折，被动意义用“得以挽救”表达，within four days 译为“在四天之内”。④by 短语移到句末，译为“靠的是……”，强调挽救的力量来自地面上的巧思。"
+ }
+]

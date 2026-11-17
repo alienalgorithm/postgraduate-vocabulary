@@ -1,0 +1,37 @@
+[
+ {
+  "key": "id=5 explode",
+  "field": "etymology",
+  "before": "英语在16世纪借入时意为“轰走，否定”，17世纪才有“爆炸”义。",
+  "after": "英语在16世纪借入时意为“轰走，否定”，17世纪中期出现“猛烈地逐出”义，18世纪末才有“爆炸”义。",
+  "reason": "据 Etymonline，explode 表示“爆炸，发出巨响地炸开”的用法首见于1790年，17世纪60年代只有“猛烈地逐出”义，原文“17世纪才有爆炸义”与词典不符。"
+ },
+ {
+  "key": "id=8 cripple",
+  "field": "etymology",
+  "before": "源自古英语 crypel（跛子），与古英语 crēopan（爬，即现代英语 creep）有关，原指只能爬行的人。",
+  "after": "源自古英语 crypel（跛子，肢体残疾的人），一般认为与古英语 crēopan（爬，即现代英语 creep）有关。",
+  "reason": "权威词源只说 crypel 与 creep 有关，“原指只能爬行的人”无法证实，删去。"
+ },
+ {
+  "key": "id=16 craft",
+  "field": "etymology",
+  "before": "可能源自 vessels of small craft 一类说法，指只需少量技艺就能驾驶的小船；后来扩展到飞机和航天器",
+  "after": "可能源自 vessels of small craft 一类说法（craft 指这些船从事的营生或驾驶所需的技艺），后来 craft 单用即指船只，又扩展到飞机和航天器",
+  "reason": "Etymonline 对“船只”义的来源只作推测，并列了“营生”和“驾驶技艺”两种解释，原文把“只需少量技艺就能驾驶”写成唯一解释，改为如实转述。"
+ },
+ {
+  "key": "id=27 accumulate",
+  "field": "collocations[1].zh",
+  "before": "搜集证据",
+  "after": "积累证据",
+  "reason": "“搜集”对应 collect；本条辨析强调 accumulate 指随时间逐渐增多，译为“积累证据”才与词义一致。"
+ },
+ {
+  "key": "id=28 capsule",
+  "field": "context_usage",
+  "before": "capsule 原义“胶囊”，引申为小而封闭的舱体",
+  "after": "capsule 常见义是“胶囊”，也指小而封闭的舱体",
+  "reason": "本条词源已写明 capsule 源自拉丁语 capsula（小盒子），“胶囊”是后起义，“原义胶囊”与词源矛盾。"
+ }
+]
