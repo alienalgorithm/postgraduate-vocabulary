@@ -1,0 +1,1742 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "the instructor Yuan Longping",
+   "predicate": "spotted",
+   "object_or_complement": "a peculiar plant",
+   "explain": "主干是 the instructor Yuan Longping spotted a peculiar plant，主谓宾结构；主语 Yuan Longping 前的 the instructor 说明他的身份。谓语 spotted 是 spot 的过去式，一般过去时，主动语态，叙述过去发生的具体动作。"
+  },
+  "components": [
+   {
+    "text": "In July 1964,",
+    "zh": "1964年7月",
+    "role": "时间状语（介词短语，in 用于“月份 + 年份”）"
+   },
+   {
+    "text": "inspecting rice",
+    "zh": "检查水稻",
+    "role": "伴随状语（现在分词短语）的主体：inspecting 带宾语 rice，逻辑主语是 Yuan Longping"
+   },
+   {
+    "text": "ear by ear",
+    "zh": "一穗一穗地",
+    "role": "方式状语（名词 + by + 名词），修饰 inspecting"
+   },
+   {
+    "text": "in a paddy",
+    "zh": "在……一块稻田里",
+    "role": "地点状语（介词短语），交代检查和发现发生的地点"
+   },
+   {
+    "text": "at Anjiang Agricultural School",
+    "zh": "安江农校的",
+    "role": "后置定语（介词短语），修饰 a paddy"
+   },
+   {
+    "text": "in Hunan province,",
+    "zh": "湖南省",
+    "role": "后置定语（介词短语），修饰 Anjiang Agricultural School"
+   },
+   {
+    "text": "the instructor",
+    "zh": "教员",
+    "role": "同位语（与人名紧密相连，不加逗号），说明 Yuan Longping 的身份"
+   },
+   {
+    "text": "Yuan Longping",
+    "zh": "袁隆平",
+    "role": "主语"
+   },
+   {
+    "text": "spotted",
+    "zh": "发现了",
+    "role": "谓语"
+   },
+   {
+    "text": "a peculiar",
+    "zh": "一株奇特的/奇怪的",
+    "role": "宾语的限定词和前置定语（peculiar 修饰 plant）"
+   },
+   {
+    "text": "plant.",
+    "zh": "稻子",
+    "role": "宾语中心词"
+   }
+  ],
+  "structure": "①主句是 the instructor Yuan Longping spotted a peculiar plant：主语 Yuan Longping，谓语 spotted，宾语 a peculiar plant。主语前依次是时间状语 In July 1964、现在分词短语 inspecting rice ear by ear 和地点状语 in a paddy… in Hunan province，要越过这些成分才能找到主干。\n②句首 In July 1964 是时间状语，“月份 + 年份”前用介词 in。\n③inspecting rice ear by ear 是现在分词短语作伴随状语（视频说明）。分词的逻辑主语是主句主语 Yuan Longping，袁隆平是“检查”的发出者，所以用表示主动的现在分词；“检查”与“发现”同时进行。rice 是 inspecting 的宾语，ear by ear 作方式状语，意为“一穗一穗地”。\n④in a paddy 是地点状语；at Anjiang Agricultural School 修饰 a paddy，in Hunan province 又修饰 Anjiang Agricultural School。两个介词短语逐层后置修饰，地点由小到大排列。\n⑤the instructor Yuan Longping 中间不加逗号，是紧密同位关系，the instructor 说明袁隆平的身份（视频说明：同位语），即他当时是这所农校的教员。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语可以放在句首、句中或句末作状语，表示与谓语动作同时发生的伴随情况。分词的逻辑主语必须与主句主语一致：主语是动作的发出者用现在分词，是动作的承受者用过去分词。本句 inspecting rice ear by ear 的逻辑主语是 Yuan Longping，他一边逐穗检查，一边发现了这株稻子，两个动作同时发生。考研写作易错点是“悬垂分词”：句首分词的逻辑主语与主句主语不一致，如 Walking down the street, the shop caught my eye，走路的不可能是商店，应改为 Walking down the street, I noticed the shop。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Walking along the beach at dawn, the photographer noticed a seal resting on the rocks.",
+      "zh": "黎明时分沿着海滩散步时，摄影师注意到一只海豹正趴在岩石上休息。"
+     },
+     {
+      "en": "Examining the samples one by one, the researchers found traces of a rare mineral.",
+      "zh": "研究人员逐一检查样本时，发现了一种稀有矿物的痕迹。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + by + 名词 表示“逐一，逐步”",
+    "explain": "同一个可数名词用 by 连接，名词用单数且不加冠词，表示“一个接一个，逐一”，如 one by one、step by step、day by day、page by page、line by line。这一结构作方式状语，常放在动词或动宾结构之后。本句 ear by ear 意为“一穗一穗地”，突出检查之细致：袁隆平不是随意浏览稻田，而是逐穗查看，才发现了这株奇特的稻子。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The editors checked the manuscript line by line before sending it to the printer.",
+      "zh": "编辑们在把书稿送去印刷之前逐行核对了一遍。"
+     }
+    ]
+   },
+   {
+    "title": "身份名词与人名构成紧密同位关系",
+    "explain": "表示职务、身份、职业的名词与人名连用时，可以不加逗号，构成紧密同位关系，两者读作一个整体，如 the instructor Yuan Longping、the novelist Jane Austen、the physicist Marie Curie，身份名词前一般带 the。若在人名后用逗号补充身份，则是非限制性同位语，如第7句 Feng Keshan, a farm technician。翻译时汉语通常把身份放在人名前，本句译为“教员袁隆平”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The economist John Maynard Keynes argued that governments should spend more during recessions.",
+      "zh": "经济学家约翰·梅纳德·凯恩斯主张，政府应在经济衰退期间增加开支。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ear",
+    "explain": "熟词僻义：ear 除“耳朵”外，还指麦、稻等谷类作物的穗，如 an ear of wheat（一穗麦子）、an ear of corn（一穗玉米）。本句 ear by ear 即“一穗一穗地”（视频说明）。"
+   },
+   {
+    "term": "paddy",
+    "explain": "名词，稻田，也说 paddy field、rice paddy，视频译为“稻田”。第14句的 rice fields 同样指稻田，全文换用不同的词指代同一事物。"
+   },
+   {
+    "term": "Anjiang Agricultural School in Hunan province",
+    "explain": "湖南省安江农校。英语地名由小到大排列，用 in 连接：学校 in 省份；汉语由大到小，视频译为“湖南省安江农校”。province 跟在省名后时，本文用小写，也有写作 Hunan Province 的。"
+   },
+   {
+    "term": "peculiar",
+    "explain": "本句意为“奇特的，奇怪的”，视频给出“奇特的/奇怪的”两种译法；另一常见义是“特有的”，用于 be peculiar to（为……所特有）。这株稻子“奇特”在哪里，下一句 It was male-sterile 给出了答案。"
+   },
+   {
+    "term": "plant",
+    "explain": "本句 plant 指一株植物，视频结合上下文具体化为“稻子”，前加量词“一株”。plant 作名词还可指“工厂”，如 a power plant（发电厂）。"
+   }
+  ],
+  "translation_tip": "视频译文“1964年7月，一穗一穗地检查水稻时，在湖南省安江农校的一块稻田里，教员袁隆平发现了一株奇特的/奇怪的稻子。”的处理：①保留英文语序，时间状语、分词短语、地点状语依次放在主语前，与原文节奏一致。②现在分词短语 inspecting rice ear by ear 译成“……时”，点明它与“发现”同时发生；ear by ear 前置为“一穗一穗地”，修饰“检查”。③地点由英文的由小到大改为汉语的由大到小：“湖南省安江农校的一块稻田里”，a paddy 译成“一块稻田”，并加方位词“里”。④同位语 the instructor Yuan Longping 合译为“教员袁隆平”。⑤a peculiar plant 补出量词，译成“一株奇特的/奇怪的稻子”，plant 根据语境具体化为“稻子”。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "It",
+   "predicate": "was",
+   "object_or_complement": "male-sterile",
+   "explain": "主干是 It was male-sterile，主系表结构，It 指上句发现的那株稻子，复合形容词 male-sterile 作表语。系动词 was 为一般过去时，叙述当时观察到的情况。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "zh": "它",
+    "role": "主语（指第1句的 a peculiar plant）"
+   },
+   {
+    "text": "was",
+    "zh": "是",
+    "role": "系动词"
+   },
+   {
+    "text": "male-sterile,",
+    "zh": "雄性不育株",
+    "role": "表语（复合形容词）"
+   },
+   {
+    "text": "shedding no",
+    "zh": "散播不出",
+    "role": "伴随状语（现在分词短语）的开头：现在分词 shedding + 否定限定词 no"
+   },
+   {
+    "text": "viable",
+    "zh": "能生长发育的",
+    "role": "前置定语，修饰 pollen"
+   },
+   {
+    "text": "pollen.",
+    "zh": "花粉",
+    "role": "shedding 的宾语中心词"
+   }
+  ],
+  "structure": "①主句 It was male-sterile 是主系表结构。It 回指第1句的 a peculiar plant，表语 male-sterile 说明这株稻子“奇特”在哪里：雄性不育。\n②逗号后的 shedding no viable pollen 是现在分词短语作伴随状语，补充说明 male-sterile（视频说明），具体交代“雄性不育”的表现。分词的逻辑主语是 It，稻株是散播花粉的一方，所以用现在分词。\n③分词短语内部：shedding 带宾语 pollen；no 是否定限定词，否定的是整个 viable pollen，即“散播不出能生长发育的花粉”；viable 作前置定语。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "句末现在分词短语作补充说明",
+    "explain": "现在分词短语放在句末、前面用逗号隔开时，常对前面的内容作补充说明或具体解释，作用相当于一个并列分句。本句 shedding no viable pollen 相当于 and it shed no viable pollen，具体说明 male-sterile 的表现。这样写不需要连词，句子更紧凑。考研阅读中，句末分词短语常交代原因、结果或细节，读的时候要回头确认它的逻辑主语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The building was completely silent, showing no sign of life.",
+      "zh": "那栋楼里一片寂静，看不出任何有人的迹象。"
+     }
+    ]
+   },
+   {
+    "title": "no + 名词 表示完全否定",
+    "explain": "no 作限定词放在名词前，相当于 not any 或 not a，否定落在整个名词短语上，谓语动词本身保持肯定形式，如 shed no viable pollen = not shed any viable pollen。翻译时汉语常把否定转到动词上，本句译为“散播不出能生长发育的花粉”。写作中 There is no evidence that…、show no sign of… 都是常用的 no + 名词 结构，比 not any 更简洁、正式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey found no evidence that the new policy had reduced unemployment.",
+      "zh": "调查没有发现任何证据表明新政策降低了失业率。"
+     }
+    ]
+   },
+   {
+    "title": "名词 + 形容词 构成复合形容词",
+    "explain": "名词与形容词用连字符连起来，可以构成复合形容词，名词限定形容词的范围或程度，如 male-sterile（雄性不育的）、duty-free（免税的）、world-famous（世界闻名的）、self-sufficient（自给自足的）。这类词既可作表语，也可作前置定语，如 a male-sterile plant。本句 male-sterile 作表语，male 说明不育只限于雄性方面。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The airport has a large duty-free shop near the departure gates.",
+      "zh": "机场登机口附近有一家大型免税店。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "male-sterile",
+    "explain": "雄性不育的。水稻的花雌雄同花，male-sterile 指雄性方面不育，即产生不了有效的花粉；雌性方面仍可接受别的稻株的花粉而结实。正因为如此，这种稻株才能用作杂交的母本，下一句对此作了说明。"
+   },
+   {
+    "term": "viable",
+    "explain": "本句意为“（种子、花粉等）能生长发育的，能存活的”，视频译为“能生长发育的”。更常见的意思是“切实可行的”，如 a viable option（可行的选择）、economically viable（经济上可行的）。"
+   },
+   {
+    "term": "shed",
+    "explain": "本句指植物散落、散播（花粉），视频译为“散播”。shed 是不规则动词，过去式和过去分词同形：shed, shed。常见用法还有 shed leaves（落叶）、shed tears（流泪）、shed light on（阐明，使清楚）。"
+   },
+   {
+    "term": "pollen",
+    "explain": "花粉，不可数名词；pollen count 指空气中的花粉浓度（花粉指数）。"
+   }
+  ],
+  "translation_tip": "视频译文“它是雄性不育株，散播不出能生长发育的花粉。”的处理：①表语形容词 male-sterile 转译为名词“雄性不育株”，增补“株”，使“它是……”的判断句完整。②分词短语没有译成状语，而是译成独立分句，与前一分句并列，说明不育的具体表现。③no 的否定转移到动词上，译成“散播不出”；viable 前置为定语“能生长发育的”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Rice（前一分句）；breeding hybrid seed in bulk（后一分句）",
+   "predicate": "pollinates（前一分句）；depends on（后一分句）",
+   "object_or_complement": "itself（pollinates 的宾语）；such plants（depends on 的宾语）",
+   "explain": "这是 so 连接的并列句：前一分句 Rice pollinates itself 是主谓宾结构；后一分句以动名词短语 breeding hybrid seed in bulk 作主语，depends on 是谓语。两个谓语都用一般现在时，陈述客观事实。"
+  },
+  "components": [
+   {
+    "text": "Rice",
+    "zh": "水稻",
+    "role": "前一分句的主语（不可数名词，指水稻这种作物）"
+   },
+   {
+    "text": "pollinates itself,",
+    "zh": "自花授粉",
+    "role": "谓语 pollinates + 宾语 itself（反身代词）"
+   },
+   {
+    "text": "so",
+    "zh": "所以",
+    "role": "并列连词，表示结果"
+   },
+   {
+    "text": "breeding hybrid seed",
+    "zh": "培育杂交种子",
+    "role": "后一分句的主语（动名词短语）：breeding 带宾语 hybrid seed"
+   },
+   {
+    "text": "in bulk",
+    "zh": "大批地",
+    "role": "方式状语（介词短语），修饰 breeding"
+   },
+   {
+    "text": "depends on",
+    "zh": "就得靠",
+    "role": "后一分句的谓语（短语动词，第三人称单数）"
+   },
+   {
+    "text": "such plants.",
+    "zh": "这样的植株",
+    "role": "宾语（介词 on 的宾语），指第2句所说的雄性不育株"
+   }
+  ],
+  "structure": "①前一分句 Rice pollinates itself：主语 Rice，谓语 pollinates，反身代词 itself 作宾语，表示水稻自己给自己授粉，视频合译为“自花授粉”。\n②so 是并列连词，引出结果：正因为水稻自花授粉，要大批培育杂交种子就离不开特殊的植株。\n③后一分句的主语是动名词短语 breeding hybrid seed in bulk（视频说明）：breeding 带宾语 hybrid seed，hybrid 作前置定语修饰 seed；in bulk 作方式状语修饰 breeding，意为“大批地”。动名词短语作主语，谓语用单数 depends on。\n④such plants 指第2句所说的雄性不育株：这种稻株自己散播不出有效花粉，才能接受另一种稻的花粉，从而实现大批杂交。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动名词短语作主语",
+    "explain": "动名词（短语）可以作主语，表示一件事或一种行为，谓语动词用单数。本句 breeding hybrid seed in bulk 作主语，谓语 depends on 用第三人称单数。动名词主语多表示泛指或经常性的行为；不定式作主语多表示具体的某次行为，且常用 it 作形式主语，把不定式后置。考研长难句中，动名词主语往往较长，要找到谓语前的整个 -ing 短语，才能看出主干；翻译时常转成条件或话题，如本句译为“要大批地培育杂交种子，就得……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Raising children in a big city requires both money and patience.",
+      "zh": "在大城市里养育孩子既需要钱，也需要耐心。"
+     },
+     {
+      "en": "Reducing food waste is one of the cheapest ways to cut carbon emissions.",
+      "zh": "减少食物浪费是削减碳排放成本最低的途径之一。"
+     }
+    ]
+   },
+   {
+    "title": "so 连接并列句表示结果",
+    "explain": "so 作并列连词时连接两个独立分句，前因后果，so 前通常加逗号，如本句 Rice pollinates itself, so breeding… depends on such plants。汉语常说“因为……所以……”，英语中 because 和 so 不能在同一个句子里同时使用。so that 多引导目的状语从句，意为“以便”，与表示结果的 so 不同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The roads were covered with ice, so the school stayed closed for two days.",
+      "zh": "道路结冰，所以学校停课两天。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作宾语",
+    "explain": "主语和宾语指同一对象时，宾语用反身代词，如 pollinate itself、teach oneself、express oneself。本句 Rice pollinates itself 表示水稻自己给自己授粉；若写成 Rice pollinates it，it 会被理解为另一事物。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Many older workers have taught themselves to use new software.",
+      "zh": "许多年纪较大的员工已经自学会了使用新软件。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pollinate itself",
+    "explain": "自花授粉，即花粉落到同一朵花或同一植株的柱头上完成授粉，视频译为“自花授粉”；与之相对的是 cross-pollination（异花授粉）。水稻以自花授粉为主，要让两个品种杂交，就得设法让一个品种接受另一个品种的花粉。"
+   },
+   {
+    "term": "hybrid seed",
+    "explain": "杂交种子，由两个不同品种杂交得到的种子。hybrid 在此作定语修饰 seed；seed 作不可数名词，泛指种子。"
+   },
+   {
+    "term": "in bulk",
+    "explain": "大批地，大量地（视频说明），常见于 buy/sell/produce in bulk（成批购买、出售、生产）。bulk 本身指“大量，主体，体积”，如 the bulk of（……的大部分）。"
+   },
+   {
+    "term": "depend on",
+    "explain": "依靠，取决于。本句视频译为“就得靠”，“就得”体现了 depend on 在此所含的“离不开”之意。"
+   },
+   {
+    "term": "such + 复数名词",
+    "explain": "such plants 意为“这样的植株”，such 回指上文描述过的同类事物。such 后接单数可数名词时要加 a，如 such a plant。"
+   }
+  ],
+  "translation_tip": "视频译文“水稻自花授粉，所以，要大批地培育杂交种子，就得靠这样的植株。”的处理：①pollinates itself 合译为“自花授粉”，不逐词译成“给自己授粉”。②so 译成“所以”，后加逗号停顿。③动名词主语 breeding hybrid seed in bulk 没有译成名词短语，而是转成条件分句“要大批地培育杂交种子”，与谓语 depends on 译成的“就得靠”形成“要……，就得……”的呼应。④in bulk 前置为“大批地”修饰“培育”；such plants 译为“这样的植株”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "he",
+   "predicate": "detailed",
+   "object_or_complement": "the anomaly",
+   "explain": "主干是 he detailed the anomaly，主谓宾结构。detail 在此作及物动词，意为“详细描述”；谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 1966",
+    "zh": "1966年2月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语（指袁隆平）"
+   },
+   {
+    "text": "detailed",
+    "zh": "详细描述了",
+    "role": "谓语（detail 在此作及物动词，用过去式）"
+   },
+   {
+    "text": "the anomaly",
+    "zh": "这一反常现象",
+    "role": "宾语，回指前文的雄性不育稻株"
+   },
+   {
+    "text": "in the journal",
+    "zh": "文章发表在期刊",
+    "role": "地点状语（介词短语），说明描述刊载在哪里"
+   },
+   {
+    "text": "Chinese Science Bulletin.",
+    "zh": "《科学通报》上",
+    "role": "同位语，说明 the journal 的名称"
+   }
+  ],
+  "structure": "①主句 he detailed the anomaly：主语 he 指袁隆平，谓语 detailed，宾语 the anomaly。the anomaly 回指第1、2句发现的雄性不育稻株，用定冠词表示前文已提到。\n②句首 In February 1966 是时间状语，“月份 + 年份”前用 in；状语较短，后面没有加逗号。\n③in the journal 是介词短语作地点状语，in 表示“刊登在（报刊）上”。\n④Chinese Science Bulletin 是期刊名称，作 the journal 的同位语，说明是哪一份期刊（视频说明：《科学通报》，中国的学术期刊）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "时间介词 in 与 on",
+    "explain": "年份、月份、季节以及“月份 + 年份”前用 in，如 in 1966、in February 1966；具体某一天前用 on，日期后面带年份时仍用 on，如第6句 on 23 November 1970、第15句 on 22 May 2021。本文的 In July 1964、In February 1966、In October 1973 都用 in，带具体日期的才用 on。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum opened in March 2019 and welcomed its millionth visitor on 4 June 2021.",
+      "zh": "这家博物馆于2019年3月开馆，2021年6月4日迎来了第一百万名参观者。"
+     }
+    ]
+   },
+   {
+    "title": "名词、动词同形的词",
+    "explain": "英语中不少词名词、动词同形，词形不变即可作谓语，如 detail（细节；详细描述）、document（文件；记录）、chart（图表；绘制）、voice（声音；表达）。本句 detailed 带宾语 the anomaly，是动词的过去式，意为“详细描述了”。阅读中熟悉的名词出现在谓语位置时，要按动词理解；写作中 The report details… 比 The report gives details of… 更简洁。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report details the risks that climate change poses to coastal cities.",
+      "zh": "这份报告详细阐述了气候变化给沿海城市带来的风险。"
+     }
+    ]
+   },
+   {
+    "title": "类名 + 专名构成同位关系",
+    "explain": "表示类别的普通名词与专有名词连用、中间不加逗号时，专名说明具体所指，构成紧密同位关系，如 the journal Nature、the novel Jane Eyre、the film Titanic。本句 the journal Chinese Science Bulletin 中，Chinese Science Bulletin 说明是哪一份期刊。英文报刊名称在印刷中常用斜体，汉语加书名号，视频译为“期刊《科学通报》”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The findings were first published in the journal Nature in 2015.",
+      "zh": "这些发现于2015年首次发表在《自然》杂志上。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "detail",
+    "explain": "作名词意为“细节”，如 in detail（详细地）、attention to detail（注重细节）；作动词意为“详细描述，详细列举”，本句视频译为“详细描述了”。形容词 detailed（详细的）与本句的过去式同形，要根据句中位置区分。"
+   },
+   {
+    "term": "anomaly",
+    "explain": "名词，反常现象，异常事物，视频译为“反常现象”；形容词 anomalous（反常的）。本句用 the anomaly 回指前文的雄性不育稻株，是名词替换，避免重复 the plant。"
+   },
+   {
+    "term": "Chinese Science Bulletin",
+    "explain": "《科学通报》，中国的学术期刊（视频说明）。英语里报刊名称的实词首字母大写，印刷时常用斜体；汉语用书名号。"
+   },
+   {
+    "term": "journal",
+    "explain": "此处指学术期刊，如 a scientific journal、a medical journal；journal 还可指日志、日记。考研阅读中常见 publish in a journal（在期刊上发表）、a peer-reviewed journal（同行评审期刊）。"
+   }
+  ],
+  "translation_tip": "视频译文“1966年2月，他详细描述了这一反常现象，文章发表在期刊《科学通报》上。”的处理：①时间状语放在句首，后加逗号。②the anomaly 译成“这一反常现象”，用“这一”体现定冠词的回指作用。③地点状语 in the journal Chinese Science Bulletin 没有塞到动词前，而是拆成后置分句“文章发表在期刊《科学通报》上”，增补“文章发表”，说清 in 所表示的刊载关系。④期刊名按汉语习惯加书名号，类名“期刊”放在前面，与英文 the journal 的位置一致。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "The specimen",
+   "predicate": "launched",
+   "object_or_complement": "a six-year hunt",
+   "explain": "冒号前的主句 The specimen launched a six-year hunt 是主谓宾结构，谓语为一般过去时，主动语态。冒号后是另一个完整分句 Yuan and his colleagues could not breed a sterile line…，具体说明这场搜寻为何持续六年。"
+  },
+  "components": [
+   {
+    "text": "The specimen",
+    "zh": "这株标本",
+    "role": "主语（指第1句发现的那株稻子）"
+   },
+   {
+    "text": "launched",
+    "zh": "开启了",
+    "role": "谓语"
+   },
+   {
+    "text": "a six-year hunt:",
+    "zh": "一场长达六年的搜寻",
+    "role": "宾语（six-year 是复合形容词，作前置定语）"
+   },
+   {
+    "text": "Yuan and his colleagues",
+    "zh": "袁隆平和同事们",
+    "role": "冒号后分句的主语（and 连接的并列名词）"
+   },
+   {
+    "text": "could not breed",
+    "zh": "始终培育不出",
+    "role": "冒号后分句的谓语（情态动词 could + not + 动词原形）"
+   },
+   {
+    "text": "a sterile line",
+    "zh": "一个不育系",
+    "role": "宾语，也是定语从句的先行词"
+   },
+   {
+    "text": "whose offspring",
+    "zh": "其后代",
+    "role": "限制性定语从句的主语（whose 作定语，修饰 offspring），从句修饰 a sterile line"
+   },
+   {
+    "text": "reliably",
+    "zh": "能稳定地",
+    "role": "定语从句中的方式状语"
+   },
+   {
+    "text": "inherited",
+    "zh": "遗传",
+    "role": "定语从句的谓语"
+   },
+   {
+    "text": "the trait.",
+    "zh": "这一性状",
+    "role": "定语从句的宾语，指雄性不育这一性状"
+   }
+  ],
+  "structure": "①主句 The specimen launched a six-year hunt：主语 The specimen 指第1句发现的那株奇特稻子，谓语 launched，宾语 a six-year hunt，six-year 是复合形容词作前置定语。\n②冒号后的分句解释前文：主语是并列名词 Yuan and his colleagues，谓语 could not breed，宾语 a sterile line。could not 是情态动词 can 的过去式加否定，表示过去没能做到。\n③whose 引导限制性定语从句，修饰 a sterile line（视频说明）。whose 在从句中作定语，修饰 offspring，whose offspring 相当于 the sterile line's offspring；从句主语 whose offspring，谓语 inherited，宾语 the trait，reliably 作方式状语。\n④the trait 指雄性不育这一性状。本句交代了六年搜寻的症结：雄性不育的稻株找到了，杂交需要它作母本，但它的后代无法稳定遗传这一性状，研究卡在了这里（视频说明）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whose 引导限制性定语从句",
+    "explain": "whose 是关系代词的所有格，在从句中作定语，后面紧跟它修饰的名词；先行词可以是人，也可以是物。本句先行词 a sterile line 是物，whose offspring 相当于 the offspring of which，即这个不育系的后代。从句前没有逗号，是限制性定语从句，限定所需要的是“后代能稳定遗传这一性状的”不育系，去掉后句意不完整。翻译时可前置为“……的”；从句较长时也可拆成后置分句，用“其”回指先行词，如视频译文“其后代能稳定地遗传这一性状”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers are looking for a material whose strength does not decline at high temperatures.",
+      "zh": "研究人员正在寻找一种在高温下强度不会下降的材料。"
+     },
+     {
+      "en": "Any student whose application arrives after the deadline will not be considered.",
+      "zh": "申请材料在截止日期后才寄到的学生，都不予考虑。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号用于引出对前文的解释、说明或具体内容，前面一般是一个完整的句子。本句冒号前说“这株标本开启了一场长达六年的搜寻”，冒号后交代这场搜寻为何持续这么久：始终培育不出后代能稳定遗传不育性的不育系。阅读中冒号后的内容常是对前文的展开，往往是信息重点。第8句、第9句也用冒号引出具体内容。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan had one obvious weakness: nobody knew how much it would cost.",
+      "zh": "这个计划有一个明显的缺陷：没人知道它要花多少钱。"
+     }
+    ]
+   },
+   {
+    "title": "数词 + 名词 构成复合形容词",
+    "explain": "“数词 + 名词”用连字符连接作前置定语时，名词用单数，不加 s，如 a six-year hunt、a ten-minute walk、a three-day conference，不能写成 a six-years hunt。不用连字符时，可改用所有格或后置结构：six years' search、a hunt of six years。第11句 the three-line system 也是同类结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company announced a five-year plan to double its sales in Asia.",
+      "zh": "该公司宣布了一项五年计划，要使其在亚洲的销售额翻一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "specimen",
+    "explain": "名词，标本，样本，样品，如 a blood specimen（血样）、collect specimens（采集标本）。本句指第1句发现的那株雄性不育稻株，视频译为“这株标本”。"
+   },
+   {
+    "term": "launch",
+    "explain": "多义词：launch 常见义有“发射（火箭）”“推出（新产品）”，本句意为“开始，发起（有组织的活动）”，与 hunt 搭配，视频译为“开启了”。常见搭配有 launch a campaign（发起运动）、launch an investigation（展开调查）。"
+   },
+   {
+    "term": "sterile line",
+    "explain": "不育系。line 在育种中指由共同亲本繁衍而来、性状相对一致的一群植株，汉语称“系”。第9句的 three distinct lines 即“三个各不相同的系”。"
+   },
+   {
+    "term": "offspring",
+    "explain": "后代，单复数同形，不说 offsprings。本句指不育稻株繁殖出的下一代。"
+   },
+   {
+    "term": "inherit the trait",
+    "explain": "遗传这一性状。inherit 本义是“继承（财产等）”，用于生物时指从亲代获得某种性状；trait 指生物的特征、性状，视频译为“性状”。"
+   }
+  ],
+  "translation_tip": "视频译文“这株标本开启了一场长达六年的搜寻：袁隆平和同事们始终培育不出一个不育系，其后代能稳定地遗传这一性状。”的处理：①The specimen 补出量词，译成“这株标本”。②a six-year hunt 译成“一场长达六年的搜寻”，“长达”突出时间之长，量词“一场”与“搜寻”搭配。③could not breed 译成“始终培育不出”，增补“始终”，体现六年间屡试不成。④whose 引导的定语从句较长，没有前置，而是拆成后置分句，用“其”回指 a sterile line；reliably 译成“能稳定地”。⑤the trait 译成“这一性状”，回指雄性不育。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The breakthrough",
+   "predicate": "came",
+   "object_or_complement": "",
+   "explain": "主干是 The breakthrough came，主谓结构，come 在此是不及物动词，意为“到来，出现”，后接时间、地点状语。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The breakthrough",
+    "zh": "突破",
+    "role": "主语"
+   },
+   {
+    "text": "came",
+    "zh": "出现在",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "on 23 November 1970,",
+    "zh": "1970年11月23日",
+    "role": "时间状语（介词短语，具体日期前用 on）"
+   },
+   {
+    "text": "in a marsh",
+    "zh": "地点是一片沼泽",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "near Nanhong Farm",
+    "zh": "在……南红农场附近",
+    "role": "后置定语（介词短语），修饰 a marsh"
+   },
+   {
+    "text": "in Sanya, Hainan.",
+    "zh": "海南三亚",
+    "role": "后置定语（介词短语），修饰 Nanhong Farm；地名由小到大排列"
+   }
+  ],
+  "structure": "①主句 The breakthrough came：主语 The breakthrough，谓语 came。the 表示特指，指第5句六年搜寻所期待的那个突破。\n②on 23 November 1970 是时间状语，具体日期前用 on，日期按“日、月、年”的英式顺序书写。\n③in a marsh 是地点状语；near Nanhong Farm 作 a marsh 的后置定语，说明沼泽的位置；in Sanya, Hainan 又修饰 Nanhong Farm，Sanya 与 Hainan 之间用逗号，表示“海南的三亚”，地名由小到大排列。\n④时间状语和地点状语之间用逗号隔开，并排交代突破发生的时间和地点；突破的具体内容在第7句。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "come 表示“到来，出现”",
+    "explain": "come 作不及物动词，可以用抽象名词作主语，表示某事发生、到来，如 The breakthrough came…、The news came as a shock、Change came slowly。这种说法比 happen 更有叙事色彩，常见于新闻和历史叙述。本句视频把 came 与后面的时间合译为“出现在”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The turning point came in the third year, when sales finally began to rise.",
+      "zh": "转折点出现在第三年，那一年销量终于开始上升。"
+     }
+    ]
+   },
+   {
+    "title": "日期的英式与美式写法",
+    "explain": "英式英语日期常写成“日 + 月 + 年”，如 23 November 1970，读作 the twenty-third of November, nineteen seventy；美式英语常写成“月 + 日, 年”，如 November 23, 1970。具体日期前用介词 on。第15句 on 22 May 2021 也是英式写法。汉语一律按“年、月、日”的顺序，视频译为“1970年11月23日”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The treaty was signed on 4 July 1990 and came into force a year later.",
+      "zh": "该条约于1990年7月4日签署，一年后生效。"
+     }
+    ]
+   },
+   {
+    "title": "地名由小到大排列",
+    "explain": "英语表示地名层级时，小地方在前，大地方在后，中间用逗号或介词 in 连接，如 Sanya, Hainan、Nanhong Farm in Sanya。汉语正好相反，由大到小排列，视频译为“海南三亚南红农场”。翻译和书写地址时都要调整顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The conference will be held in Kyoto, Japan, in early spring.",
+      "zh": "会议将于初春在日本京都举行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "breakthrough",
+    "explain": "名词，突破，重大进展，由 break（打破）和 through（穿过）合成，常见搭配有 make/achieve a breakthrough in（在……取得突破）、a major breakthrough。本句的突破即第7句所说的找到花粉败育的野生稻。"
+   },
+   {
+    "term": "marsh",
+    "explain": "名词，沼泽，湿地；形容词 marshy（沼泽般的）。marsh 一般指长有草本植物的低湿地，swamp 则多指有树木生长的沼泽。"
+   },
+   {
+    "term": "Nanhong Farm in Sanya, Hainan",
+    "explain": "海南三亚南红农场。三亚位于海南岛南部。英语中中国地名一般直接用拼音，省名、市名前不加冠词。"
+   }
+  ],
+  "translation_tip": "视频译文“突破出现在1970年11月23日，地点是一片沼泽，在海南三亚南红农场附近。”的处理：①came 与时间状语合译为“出现在1970年11月23日”，日期改为汉语的“年、月、日”顺序。②地点状语没有前置，而是拆成后置分句“地点是一片沼泽”，增补“地点是”，与前面的时间并列。③near Nanhong Farm in Sanya, Hainan 再拆成一个短句“在海南三亚南红农场附近”，地名改为由大到小排列，near 译成方位词“附近”放在末尾。④a marsh 补出量词，译为“一片沼泽”。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Yuan's assistant, Li Bihu, and Feng Keshan, a farm technician",
+   "predicate": "found",
+   "object_or_complement": "wild rice",
+   "explain": "主干是 Yuan's assistant… and Feng Keshan… found wild rice，主谓宾结构，主语是 and 连接的两个人，各自带一个同位语。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Yuan's assistant,",
+    "zh": "袁隆平的助手",
+    "role": "并列主语之一（名词所有格 Yuan's 作定语）"
+   },
+   {
+    "text": "Li Bihu,",
+    "zh": "李必湖",
+    "role": "同位语（非限制性），说明 Yuan's assistant 是谁"
+   },
+   {
+    "text": "and Feng Keshan,",
+    "zh": "和……冯克珊",
+    "role": "并列连词 and + 并列主语之二"
+   },
+   {
+    "text": "a farm technician,",
+    "zh": "农场技术员",
+    "role": "同位语，补充说明 Feng Keshan 的身份"
+   },
+   {
+    "text": "found",
+    "zh": "找到了",
+    "role": "谓语"
+   },
+   {
+    "text": "wild rice",
+    "zh": "一种野生稻",
+    "role": "宾语，也是定语从句的先行词"
+   },
+   {
+    "text": "whose pollen",
+    "zh": "它的花粉",
+    "role": "限制性定语从句的主语（whose 作定语，修饰 pollen），从句修饰 wild rice"
+   },
+   {
+    "text": "was abortive.",
+    "zh": "败育",
+    "role": "定语从句的系动词 was + 表语 abortive"
+   }
+  ],
+  "structure": "①主句的主语由 and 连接的两部分构成：Yuan's assistant, Li Bihu 和 Feng Keshan, a farm technician；谓语 found，宾语 wild rice。主语中夹着四个逗号，抓住 and 和谓语 found，才能看清主干。\n②Li Bihu 是 Yuan's assistant 的同位语，说明这位助手是谁；a farm technician 是 Feng Keshan 的同位语，补充说明他的身份（视频说明）。两组同位语顺序相反：前者身份在前、人名在后，后者人名在前、身份在后。\n③whose 引导限制性定语从句，修饰 wild rice（视频说明）。whose 在从句中作定语，修饰 pollen，whose pollen 相当于 the wild rice's pollen；从句是主系表结构，was 是系动词，abortive 作表语，意为“败育的”。\n④本句紧接第6句，交代“突破”的具体内容：找到了一种花粉败育的野生稻。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语的两种语序与译法",
+    "explain": "同位语用来说明前面名词的身份或具体所指，非限制性同位语前后用逗号隔开。本句有两种语序：Yuan's assistant, Li Bihu 是“身份 + 人名”，人名作同位语，说明这位助手是谁；Feng Keshan, a farm technician 是“人名 + 身份”，身份作同位语，补充说明此人是做什么的。汉语一般把身份放在人名前直接合译，视频分别译为“袁隆平的助手李必湖”“农场技术员冯克珊”。考研长难句中，同位语常夹在主语和谓语之间，要先把它拿开，再找谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Her doctoral supervisor, Professor Grant, encouraged her to publish the results.",
+      "zh": "她的博士生导师格兰特教授鼓励她发表这些成果。"
+     },
+     {
+      "en": "Maria Lopez, a nurse from Madrid, was the first to reach the injured climbers.",
+      "zh": "来自马德里的护士玛丽亚·洛佩斯第一个赶到受伤的登山者身边。"
+     }
+    ]
+   },
+   {
+    "title": "先行词为不可数名词的 whose 从句",
+    "explain": "whose 的先行词可以是不可数名词。本句 wild rice 是不可数名词，whose pollen 相当于 the pollen of which。从句 whose pollen was abortive 是主系表结构，说明这种野生稻的特征。视频把从句拆成后置分句“它的花粉败育”，用“它的”回指先行词，与第5句用“其”回指的做法相同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Farmers are turning to a type of wheat whose roots grow deep enough to survive long droughts.",
+      "zh": "农民们开始转种一种小麦，它的根扎得很深，能熬过长期干旱。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "wild rice",
+    "explain": "本句指野生稻，即未经人工栽培的稻属植物。英语中 wild rice 还常指北美洲的一种水生草本植物（菰属），其籽粒可食，与本句所指不同。"
+   },
+   {
+    "term": "abortive",
+    "explain": "本句是生物学用法，指花粉、种子等“败育的，发育不全的”，视频译为“败育”。更常见的意思是“失败的，夭折的”，如 an abortive attempt（失败的尝试）、an abortive coup（未遂政变）。"
+   },
+   {
+    "term": "野败",
+    "explain": "这株花粉败育的野生稻后来被称为“野败”，取“野生稻花粉败育”之意，它为培育水稻不育系提供了关键材料，第8句的 the strain 指的就是这份材料。"
+   },
+   {
+    "term": "technician",
+    "explain": "名词，技术员，技师，如 a laboratory technician（实验室技术员）。a farm technician 中 farm 作定语，指农场的技术员，与第6句的“南红农场”呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“袁隆平的助手李必湖和农场技术员冯克珊找到了一种野生稻，它的花粉败育。”的处理：①两个同位语结构都去掉逗号，合译成“身份 + 人名”：“袁隆平的助手李必湖”“农场技术员冯克珊”，主语简洁紧凑，避免英文的多重逗号。②wild rice 补出“一种”。③whose 引导的定语从句拆成独立分句“它的花粉败育”，用“它的”回指野生稻；was abortive 合译为“败育”，系动词不单独译出。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Yuan's decisive move",
+   "predicate": "came",
+   "object_or_complement": "",
+   "explain": "冒号前是完全倒装句：副词 Then 置于句首，谓语 came 提到主语 Yuan's decisive move 之前（视频说明），正常语序是 Yuan's decisive move came then。冒号后分句 he distributed it to collaborators nationwide 是主谓宾结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Then came",
+    "zh": "随后……迈出了",
+    "role": "时间状语 Then + 谓语 came（完全倒装，谓语提到主语前）"
+   },
+   {
+    "text": "Yuan's decisive move:",
+    "zh": "袁隆平……决定性的一步",
+    "role": "主语（倒装句中位于谓语之后）"
+   },
+   {
+    "text": "rather than withhold",
+    "zh": "而非扣留",
+    "role": "对比状语的开头：rather than + 动词原形 withhold"
+   },
+   {
+    "text": "the strain,",
+    "zh": "这个品系在自己手里",
+    "role": "withhold 的宾语，指第7句找到的野生稻材料"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "冒号后分句的主语"
+   },
+   {
+    "text": "distributed it to",
+    "zh": "把它分给",
+    "role": "谓语 distributed + 宾语 it（指 the strain）+ 介词 to，构成 distribute A to B"
+   },
+   {
+    "text": "collaborators nationwide.",
+    "zh": "全国各地的协作者",
+    "role": "介词 to 的宾语；nationwide 后置，修饰 collaborators"
+   }
+  ],
+  "structure": "①冒号前是倒装句 Then came Yuan's decisive move，主语是 Yuan's decisive move（视频说明），谓语是不及物动词 came，意为“随后到来的是……”。把主语放在句末，既与上文衔接，又突出这一步，引出冒号后的具体内容。\n②冒号后的分句解释这“决定性的一步”是什么。rather than withhold the strain 是状语，rather than 后接动词原形 withhold，与谓语 distributed 形成对比：不扣留，而是分给别人。the strain 是 withhold 的宾语，指第7句找到的花粉败育的野生稻材料。\n③he distributed it to collaborators nationwide：主语 he，谓语 distributed，宾语 it（指 the strain），to 引出接受者，构成 distribute A to B（视频说明）；nationwide 修饰 collaborators，视频译为“全国各地的”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "副词置于句首引起的完全倒装",
+    "explain": "表示时间、地点或方向的副词 then、here、there、now、in、out、down、away 等放在句首，谓语是 come、go、follow、lie、stand 等不及物动词，主语是名词时，整个谓语提到主语前，构成完全倒装，如 Then came the rain、Here comes the bus。主语是代词时不倒装，如 Here it comes。本句 Then came Yuan's decisive move 把较长的主语放在句末，起强调作用。考研阅读中遇到“副词 + 动词 + 名词”的开头，要意识到动词后面的名词才是主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Then came the financial crisis, and the company lost half its customers.",
+      "zh": "随后金融危机爆发，公司失去了一半客户。"
+     },
+     {
+      "en": "Here comes the most difficult part of the job.",
+      "zh": "下面是这项工作中最难的部分。"
+     }
+    ]
+   },
+   {
+    "title": "rather than 后接动词原形",
+    "explain": "rather than 意为“而不是”，连接两个对等的成分，强调选择前者、舍弃后者。它引出的成分放在主句前面、与主句谓语对比时，常接动词原形，也可接 -ing 形式，如本句 rather than withhold the strain, he distributed it…，withhold 与 distributed 对比。rather than 连接两个不定式时，后一个常省略 to，如 decided to walk rather than take a taxi。instead of 意思相近，但后面接名词或动名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Rather than raise prices, the company chose to cut its own profit margins.",
+      "zh": "该公司没有提高价格，而是选择压缩自己的利润空间。"
+     },
+     {
+      "en": "Many graduates now prefer to start their own businesses rather than join large firms.",
+      "zh": "如今许多毕业生更愿意自主创业，而不是加入大公司。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "decisive move",
+    "explain": "决定性的一步。decisive 意为“决定性的，关键的”，如 a decisive factor（决定性因素）；形容人时意为“果断的”。move 在此是名词，指为达到目的而采取的行动、步骤，如 a bold move（大胆之举），视频译为“一步”，并增补动词“迈出了”。"
+   },
+   {
+    "term": "withhold",
+    "explain": "扣留，不给予，正式用词，常见搭配 withhold sth from sb（不给某人某物）、withhold information（隐瞒信息）、withhold payment（拒付款项）。本句视频译为“扣留”，并增补“在自己手里”。"
+   },
+   {
+    "term": "strain",
+    "explain": "熟词僻义：strain 常见义是“压力，负担”或“拉伤”，本句是生物学用法，指动植物的“品系，品种”，视频译为“品系”；用于微生物时指“菌株，毒株”，如 a new strain of flu（一种新的流感毒株）。"
+   },
+   {
+    "term": "distribute A to B",
+    "explain": "把 A 分给 B（视频说明）；也说 distribute A among B（在 B 当中分配 A）。名词 distribution（分配，分布）。"
+   },
+   {
+    "term": "nationwide",
+    "explain": "形容词兼副词，“全国范围的（地）”。本句后置修饰 collaborators，视频译为“全国各地的”；作前置定语如 a nationwide survey（全国性调查），作副词如 The film opens nationwide next week（这部电影下周在全国上映）。"
+   }
+  ],
+  "translation_tip": "视频译文“随后，袁隆平迈出了决定性的一步：而非扣留这个品系在自己手里，他把它分给全国各地的协作者。”的处理：①倒装句按汉语正常语序译出，Then 译成“随后”放在句首；came 与 Yuan's decisive move 合译，增补动词“迈出了”，名词所有格 Yuan's 转为主语“袁隆平”。②rather than withhold the strain 保留在主句前，译成“而非扣留这个品系”，并增补“在自己手里”，把 withhold 的含义说透，与“分给”形成对比。③distributed it to 用“把”字句译成“把它分给”。④后置的 nationwide 前移，译成“全国各地的协作者”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Hybrids",
+   "predicate": "need",
+   "object_or_complement": "three distinct lines",
+   "explain": "主干是 Hybrids need three distinct lines，主谓宾结构。谓语 need 用一般现在时，陈述客观的科学事实。冒号后的三项是 three distinct lines 的同位语，逐一列出三个系。"
+  },
+  "components": [
+   {
+    "text": "Hybrids",
+    "zh": "杂交水稻",
+    "role": "主语"
+   },
+   {
+    "text": "need",
+    "zh": "需要",
+    "role": "谓语"
+   },
+   {
+    "text": "three distinct lines:",
+    "zh": "三个各不相同的系",
+    "role": "宾语（distinct 作前置定语）"
+   },
+   {
+    "text": "a sterile line,",
+    "zh": "不育系",
+    "role": "同位语之一，说明 three distinct lines"
+   },
+   {
+    "text": "one",
+    "zh": "保持系",
+    "role": "同位语之二（代词 one 代替 line）"
+   },
+   {
+    "text": "to maintain its sterility,",
+    "zh": "保持其不育性的",
+    "role": "后置定语（不定式短语），修饰 one"
+   },
+   {
+    "text": "and one",
+    "zh": "以及……恢复系",
+    "role": "并列连词 and + 同位语之三（one 代替 line）"
+   },
+   {
+    "text": "to restore fertility in the hybrids.",
+    "zh": "使杂交种恢复育性的",
+    "role": "后置定语（不定式短语），修饰 one"
+   }
+  ],
+  "structure": "①主句 Hybrids need three distinct lines：主语 Hybrids 指杂交水稻，谓语 need，宾语 three distinct lines，distinct 作定语，强调三个系各不相同。\n②冒号后列举三项，作 three distinct lines 的同位语：a sterile line、one to maintain its sterility、and one to restore fertility in the hybrids，按 A, B, and C 的格式排列，and 前用了牛津逗号。\n③后两项中的 one 都代替 line，避免重复；to maintain its sterility 和 to restore fertility in the hybrids 是不定式作后置定语，修饰 one（视频说明），说明这个系的作用。its 指 a sterile line，its sterility 即不育系的不育性。\n④in the hybrids 说明恢复育性的对象。句首的 Hybrids 视频译为“杂交水稻”，句末的 the hybrids 译为“杂交种”，指不育系与恢复系杂交得到的下一代。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "不定式作后置定语",
+    "explain": "不定式短语放在名词或代词后作定语，常表示该事物的用途、功能或将要发生的动作，如 a tool to cut metal、the first person to arrive。本句 one to maintain its sterility 意为“用来保持其不育性的系”，one to restore fertility 意为“用来恢复育性的系”，不定式说明各系的功能。翻译时一般把不定式定语前置为“……的”，视频还据此给两个系命名：“保持系”“恢复系”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The city needs a plan to reduce traffic congestion in the centre.",
+      "zh": "这座城市需要一个缓解市中心交通拥堵的方案。"
+     },
+     {
+      "en": "She was the first woman to win the prize.",
+      "zh": "她是第一位获得该奖项的女性。"
+     }
+    ]
+   },
+   {
+    "title": "代词 one 替代可数名词",
+    "explain": "one 可以代替前文出现过的单数可数名词，避免重复，复数用 ones，特指时用 the one。本句两个 one 都代替 line，分别指保持系和恢复系；one 后面可以带定语，如本句的不定式。one 不能替代不可数名词，如不说 I prefer red wine to white one，而说 to white。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "This method is cheaper than the one we used last year.",
+      "zh": "这种方法比我们去年用的那种更便宜。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出列举与牛津逗号",
+    "explain": "冒号可以引出对前面名词的具体列举，列举项作该名词的同位语。三项及以上并列时写成 A, B, and C，末项前的逗号称为牛津逗号。本句 three distinct lines 后用冒号列出三个系，正好三项，与 three 呼应。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The course covers three core skills: reading, writing, and public speaking.",
+      "zh": "这门课程涵盖三项核心技能：阅读、写作和公开演讲。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "三系（three-line system）",
+    "explain": "杂交水稻三系配套所用的三个系：不育系（sterile line）作母本，自身不产生有效花粉；保持系（maintainer line）给不育系授粉，繁殖出的后代仍然不育，用来保持不育系；恢复系（restorer line）与不育系杂交，使杂交种恢复育性，能够正常结实。第11句的 the three-line system 即指这一体系。"
+   },
+   {
+    "term": "distinct",
+    "explain": "形容词，截然不同的，有区别的，常用 be distinct from（与……不同）；还可指“清楚的，明显的”，如 a distinct smell。本句视频译为“各不相同的”。"
+   },
+   {
+    "term": "sterility / fertility",
+    "explain": "一对反义词：sterility（不育性）对应形容词 sterile，fertility（育性，生育能力）对应形容词 fertile。fertility 用于土地时指“肥力，肥沃”，如 soil fertility（土壤肥力）。"
+   },
+   {
+    "term": "maintain / restore",
+    "explain": "maintain 意为“保持，维持”，使原有状态不变；restore 意为“恢复”，使失去的东西回来。本句 maintain its sterility 与 restore fertility 一保一复，正好对应保持系和恢复系的名称。"
+   }
+  ],
+  "translation_tip": "视频译文“杂交水稻需要三个各不相同的系：不育系，保持其不育性的保持系，以及使杂交种恢复育性的恢复系。”的处理：①Hybrids 根据语境具体化为“杂交水稻”，distinct 译为“各不相同的”。②冒号后的列举照原样保留，a sterile line 译为“不育系”，冠词不译。③两个代词 one 不译成“一个”，而是按功能命名，译为“保持系”“恢复系”；不定式后置定语前置为“保持其不育性的”“使杂交种恢复育性的”。④restore fertility in the hybrids 用“使”字结构译出：“使”体现 restore 的使动含义，in the hybrids 中的 the hybrids 提到“恢复育性”前作“使”的宾语，译为“使杂交种恢复育性”。⑤and 译为“以及”，放在最后一项前。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Yan Longan's team（前一分句）；Zhang Xiancheng（后一分句）",
+   "predicate": "bred（前一分句）；identified（后一分句）",
+   "object_or_complement": "sterile lines（bred 的宾语）；a restorer line（identified 的宾语）",
+   "explain": "这是 and 连接的并列句，两个分句都是主谓宾结构，谓语 bred 和 identified 都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Yan Longan's team",
+    "zh": "颜龙安的团队",
+    "role": "前一分句的主语"
+   },
+   {
+    "text": "in Jiangxi",
+    "zh": "在江西",
+    "role": "后置定语（介词短语），修饰 Yan Longan's team"
+   },
+   {
+    "text": "bred",
+    "zh": "育成了",
+    "role": "前一分句的谓语（breed 的过去式）"
+   },
+   {
+    "text": "sterile lines",
+    "zh": "不育系",
+    "role": "前一分句的宾语"
+   },
+   {
+    "text": "and Zhang Xiancheng",
+    "zh": "张先程",
+    "role": "并列连词 and + 后一分句的主语"
+   },
+   {
+    "text": "in Guangxi",
+    "zh": "在广西",
+    "role": "后置定语（介词短语），修饰 Zhang Xiancheng"
+   },
+   {
+    "text": "first identified",
+    "zh": "率先找出了",
+    "role": "状语 first（副词，“率先”）+ 后一分句的谓语 identified"
+   },
+   {
+    "text": "a restorer line.",
+    "zh": "恢复系",
+    "role": "后一分句的宾语"
+   }
+  ],
+  "structure": "①前一分句 Yan Longan's team in Jiangxi bred sterile lines：主语 Yan Longan's team，in Jiangxi 作后置定语，说明是江西的团队；谓语 bred 是 breed 的过去式；宾语 sterile lines。\n②and 连接后一分句 Zhang Xiancheng in Guangxi first identified a restorer line：主语 Zhang Xiancheng，in Guangxi 作后置定语；first 是副词，作状语，意为“率先，第一个”；谓语 identified，宾语 a restorer line。\n③两个分句结构平行，分别交代三系中的不育系和恢复系由谁、在哪里育成或找到，具体说明第8句把材料分给全国协作者之后取得的成果。两个分句都较短，and 前没有加逗号。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词短语作后置定语与汉译时的转换",
+    "explain": "介词短语紧跟在名词后面时，通常作该名词的后置定语。本句 Yan Longan's team in Jiangxi 中，in Jiangxi 修饰 team，说明是江西的团队；Zhang Xiancheng in Guangxi 中，in Guangxi 说明张先程所在的地方。汉语里这类地点信息常转成状语放在谓语前，视频译为“颜龙安的团队在江西育成了不育系”“张先程在广西率先找出了恢复系”，意思不变，读来更顺。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The scientists at the station recorded the lowest temperature in decades.",
+      "zh": "观测站的科学家们记录到了几十年来的最低气温。"
+     }
+    ]
+   },
+   {
+    "title": "副词 first 表示“率先，首次”",
+    "explain": "first 作副词放在实义动词前，意为“第一个，率先，首次”，如 first identified（率先找出）、first proposed（最早提出）、was first published（首次发表）。注意区分：at first 意为“起初”，暗示后来情况有变；firstly 用于列举要点，意为“第一”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The idea was first proposed by a group of engineers in the 1950s.",
+      "zh": "这个设想最早是由一批工程师在20世纪50年代提出的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "breed (bred, bred)",
+    "explain": "不规则动词，过去式和过去分词都是 bred。本句意为“培育（新品种）”，视频译为“育成了”，强调培育的结果；第5句 could not breed 译为“培育不出”。breed 作名词指“品种”，多用于动物，如 a rare breed of sheep。"
+   },
+   {
+    "term": "restorer line",
+    "explain": "恢复系，即能使杂交种恢复育性的系。restorer 由动词 restore（恢复）加后缀 -er 构成，与第9句 one to restore fertility 相对应。"
+   },
+   {
+    "term": "identify",
+    "explain": "本句意为“找出，鉴定出”，视频译为“找出了”，指从众多材料中找到具有所需特性的那一个；常见搭配有 identify the cause（查明原因）、identify a problem（发现问题）。"
+   },
+   {
+    "term": "Jiangxi / Guangxi",
+    "explain": "江西省、广西壮族自治区。英语中中国省级行政区名称通常直接用拼音，前面不加冠词。"
+   }
+  ],
+  "translation_tip": "视频译文“颜龙安的团队在江西育成了不育系，张先程在广西率先找出了恢复系。”的处理：①两个后置定语 in Jiangxi、in Guangxi 转成状语，放在谓语前，译为“在江西”“在广西”。②and 不译，用逗号连接两个分句，句式对称。③bred 译为“育成了”，first identified 译为“率先找出了”，突出两项成果。④复数 sterile lines 与单数 a restorer line 都不译出数量，直接译为“不育系”“恢复系”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Yuan",
+   "predicate": "declared",
+   "object_or_complement": "the three-line system（宾语）；complete（宾语补足语）",
+   "explain": "主干是 Yuan declared the three-line system complete，主谓宾宾补结构，形容词 complete 作宾语补足语（视频说明：declare＋宾语＋形容词）。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In October 1973,",
+    "zh": "1973年10月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "at a national conference",
+    "zh": "在……全国性会议上",
+    "role": "地点状语（介词短语，at 表示场合）"
+   },
+   {
+    "text": "in Suzhou,",
+    "zh": "苏州召开的",
+    "role": "后置定语（介词短语），修饰 a national conference"
+   },
+   {
+    "text": "Yuan",
+    "zh": "袁隆平",
+    "role": "主语"
+   },
+   {
+    "text": "declared",
+    "zh": "宣布",
+    "role": "谓语"
+   },
+   {
+    "text": "the three-line system",
+    "zh": "三系",
+    "role": "宾语（three-line 是复合形容词，作前置定语）"
+   },
+   {
+    "text": "complete.",
+    "zh": "已经配套",
+    "role": "宾语补足语（形容词），说明宾语的状态"
+   }
+  ],
+  "structure": "①句首两个状语：In October 1973 是时间状语；at a national conference in Suzhou 是地点状语，at 表示场合，in Suzhou 作 a national conference 的后置定语，说明会议在苏州召开。\n②主句 Yuan declared the three-line system complete：主语 Yuan，谓语 declared，宾语 the three-line system，形容词 complete 作宾语补足语，说明宾语的状态，相当于 declared that the three-line system was complete。\n③the three-line system 中，three-line 是“数词 + 名词”构成的复合形容词，作 system 的前置定语，指第9句所说的三个系；宾语补足语 complete 说明这一体系已经完整，即三个系都已找齐，能够配套使用。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词作宾语补足语",
+    "explain": "declare、consider、find、keep、make、leave 等动词后可接“宾语 + 形容词”，形容词说明宾语的性质或状态，作宾语补足语。本句 declared the three-line system complete 意为“宣布三系已经配套”，可改写为 declared that the three-line system was complete。常见表达有 declare the meeting open（宣布会议开幕）、find the task difficult（觉得任务很难）、keep the door open（让门开着）。判断方法：宾语和补足语之间有逻辑上的主表关系，即 the system was complete。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The judge declared the contract invalid because one party had been misled.",
+      "zh": "由于一方当事人受到误导，法官宣布该合同无效。"
+     },
+     {
+      "en": "Most residents found the new parking rules confusing.",
+      "zh": "大多数居民觉得新的停车规定令人困惑。"
+     }
+    ]
+   },
+   {
+    "title": "介词 at 表示场合",
+    "explain": "at 可以表示某种活动或场合，如 at a conference、at a meeting、at a party、at the ceremony，意为“在……会上”；表示所在城市则用 in，如 in Suzhou。本句 at a national conference in Suzhou 中两个介词各有分工：at 交代场合，in 交代地点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister announced the new policy at a press conference in Brussels.",
+      "zh": "部长在布鲁塞尔召开的新闻发布会上宣布了这项新政策。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "national conference",
+    "explain": "全国性会议，指汇集全国代表参加的、全国性的大型会议（视频说明）。national 在此意为“全国的”，不是“民族的”。"
+   },
+   {
+    "term": "declare",
+    "explain": "宣布，宣称，常见结构有 declare sth + 形容词（宣布……已经……）、declare that…（宣称……）、declare war on（向……宣战）；名词 declaration。本句视频译为“宣布”。"
+   },
+   {
+    "term": "complete",
+    "explain": "形容词，本句意为“完整的，齐全的”，指三个系都已具备。视频结合语境译为“已经配套”，“配套”指几个组成部分互相搭配、成为一套。"
+   }
+  ],
+  "translation_tip": "视频译文“1973年10月，在苏州召开的全国性会议上，袁隆平宣布三系已经配套。”的处理：①两个状语保留在句首，按“时间、地点”的顺序排列。②后置定语 in Suzhou 前置，增补动词“召开”，译为“在苏州召开的全国性会议上”，at 译为“在……上”。③宾语补足语 complete 由形容词转译为“已经配套”，增补“已经”，表示宣布时已经完成；the three-line system 简译为“三系”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "hybrids",
+   "predicate": "were",
+   "object_or_complement": "under cultivation",
+   "explain": "主干是 hybrids were under cultivation，主系表结构，介词短语 under cultivation 作表语，表示处于种植之中。系动词 were 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "By 1976",
+    "zh": "到1976年",
+    "role": "时间状语（介词短语，by 表示“到……时为止”）"
+   },
+   {
+    "text": "hybrids",
+    "zh": "杂交水稻",
+    "role": "主语"
+   },
+   {
+    "text": "were under cultivation",
+    "zh": "已经处于大面积种植",
+    "role": "系动词 were + 表语 under cultivation（介词短语）"
+   },
+   {
+    "text": "on about 140,000 hectares.",
+    "zh": "占地面积大约140000公顷",
+    "role": "地点状语（介词短语），说明种植的面积"
+   }
+  ],
+  "structure": "①句首 By 1976 是时间状语，by 表示“到……时为止”，强调到1976年时已经达到的状态。\n②主句 hybrids were under cultivation：主语 hybrids 指杂交水稻；were 是系动词；under cultivation 是介词短语作表语（视频说明：在耕种中，正被种植），意思相当于 were being cultivated。\n③on about 140,000 hectares 是介词短语作状语，说明种植的面积，on 表示“在（土地）上”，about 修饰数字，表示约数。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "under + 名词 表示“处于……之中”",
+    "explain": "under 后接表示过程或动作的名词，构成介词短语，表示“正在被……，处于……过程中”，常作表语，含被动意味，如 under cultivation（在种植中）、under construction（在建）、under discussion（在讨论中）、under review（在审查中）、under way（在进行中）。本句 hybrids were under cultivation 相当于 hybrids were being cultivated，比被动进行时更简洁。考研阅读中这类短语很常见，不能把 under 理解为“在……下面”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new bridge has been under construction for nearly three years.",
+      "zh": "这座新桥已经建了将近三年。"
+     },
+     {
+      "en": "The proposal is still under discussion, and no decision is expected before spring.",
+      "zh": "这项提议仍在讨论中，预计春季之前不会作出决定。"
+     }
+    ]
+   },
+   {
+    "title": "by + 时间 与时态",
+    "explain": "by 后接时间，表示“到……时为止，不迟于……”，强调截至那时已达到的结果或状态。by 后接过去时间、谓语表示已完成的动作时，常用过去完成时，如 By 1976 they had planted…；谓语若是 be、cover 这类表示状态的动词，描述到那时已经存在的状况，用一般过去时也很常见，如本句 By 1976 hybrids were under cultivation 和第14句 By the early 2000s it covered…。by 后接将来时间时常用将来完成时。视频译文用“已经”“已”体现 by 的含义。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the decade, the city had built more than twenty new schools.",
+      "zh": "到这个十年结束时，该市已经新建了二十多所学校。"
+     },
+     {
+      "en": "By next June, the company will have opened ten new stores.",
+      "zh": "到明年6月，该公司开设的新店将达到十家。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "under cultivation",
+    "explain": "在耕种中，正被种植（视频说明）。cultivation 是 cultivate（耕种，栽培；培养）的名词形式；land under cultivation 指已经耕种的土地。"
+   },
+   {
+    "term": "hectare",
+    "explain": "公顷，面积单位，1公顷等于10000平方米，约合15亩；140,000 hectares 约合210万亩。"
+   },
+   {
+    "term": "140,000",
+    "explain": "英语数字从右向左每三位加一个逗号，140,000 读作 one hundred and forty thousand，美式英语常省去 and。视频写作“140000”，不加逗号。"
+   },
+   {
+    "term": "about",
+    "explain": "放在数字前作副词，意为“大约”，相当于 approximately、around，视频译为“大约”。"
+   }
+  ],
+  "translation_tip": "视频译文“到1976年，杂交水稻已经处于大面积种植，占地面积大约140000公顷。”的处理：①By 1976 译为“到1976年”，并在谓语中增补“已经”，体现 by 表示的截止含义。②表语 under cultivation 译为“处于大面积种植”，增补“大面积”，与后面的面积数字相呼应。③状语 on about 140,000 hectares 没有前置，而是拆成后置分句，增补“占地面积”，读来清楚。④hybrids 根据语境译为“杂交水稻”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "The World Food Prize Foundation",
+   "predicate": "estimates",
+   "object_or_complement": "that hybrid rice can yield up to a fifth more grain than conventional varieties（宾语从句）",
+   "explain": "主干是 The World Food Prize Foundation estimates that…，主谓宾结构，that 引导的宾语从句作 estimates 的宾语（视频说明：estimate that…）。主句谓语用一般现在时，表示该基金会目前的估计；从句谓语 can yield 用情态动词 can 表示可能达到的产量。"
+  },
+  "components": [
+   {
+    "text": "The World Food Prize Foundation",
+    "zh": "据世界粮食奖基金会",
+    "role": "主语（机构名称）"
+   },
+   {
+    "text": "estimates",
+    "zh": "估计",
+    "role": "谓语（第三人称单数）"
+   },
+   {
+    "text": "that hybrid rice",
+    "zh": "杂交稻",
+    "role": "that 引导宾语从句（that 不充当成分）+ 从句主语 hybrid rice"
+   },
+   {
+    "text": "can yield",
+    "zh": "可……产",
+    "role": "从句谓语（情态动词 can + 动词原形）"
+   },
+   {
+    "text": "up to",
+    "zh": "最多",
+    "role": "修饰数量，表示上限"
+   },
+   {
+    "text": "a fifth more grain",
+    "zh": "多……五分之一的稻谷",
+    "role": "从句宾语：中心词 grain，a fifth 修饰比较级 more，表示多出的幅度"
+   },
+   {
+    "text": "than conventional varieties.",
+    "zh": "比常规品种",
+    "role": "比较状语（than 引出比较对象）"
+   }
+  ],
+  "structure": "①主句 The World Food Prize Foundation estimates：主语是机构名称，谓语 estimates 用第三人称单数。\n②that 引导宾语从句，that 只起连接作用，不在从句中充当成分，可以省略。从句主语 hybrid rice，谓语 can yield，宾语 grain。\n③up to a fifth more 修饰 grain：up to 表示上限“最多”，分数 a fifth 修饰比较级 more，表示多出的幅度；than conventional varieties 引出比较对象（视频说明：up to a fifth more…than…，比……最多多五分之一）。\n④本句转述机构的估计，estimates、can 和 up to 都表明这是估算出的最高增幅，不是每块田的实际产量。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "分数 + more + 名词 + than 表示比较差额",
+    "explain": "在比较级前加数量词，可以表示“比……多（少）多少”，数量词说明差额，如 a fifth more grain than…（比……多五分之一的稻谷）、three years older than…、20% cheaper than…。a fifth more 是在原有基础上多出五分之一，即相当于原来的1.2倍；表示“是……的两倍”则用 twice as much as…。分数的写法是分子用基数词、分母用序数词，分子大于1时分母加 s，如 a fifth / one fifth（五分之一）、two fifths（五分之二）。考研翻译和数字题中要注意 more 前的数字表示的是增加的部分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new engine uses a third less fuel than the old model.",
+      "zh": "新发动机比旧型号省油三分之一。"
+     },
+     {
+      "en": "Women in the survey earned about 15 percent less than men in similar jobs.",
+      "zh": "调查中，从事类似工作的女性比男性收入约低15%。"
+     }
+    ]
+   },
+   {
+    "title": "that 引导宾语从句",
+    "explain": "estimate、believe、claim、report、suggest 等动词后常接 that 引导的宾语从句，转述某人或某机构的看法、结论。that 不作成分，在非正式文体中可以省略。考研阅读中，“机构 + estimates/reports + that 从句”是常见的引用方式，宾语从句是信息重点，主句交代信息来源。翻译时常把主句转成“据……估计”“据……报道”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Scientists estimate that the glacier has lost a third of its volume since 1980.",
+      "zh": "科学家估计，自1980年以来，这条冰川的体积已减少了三分之一。"
+     }
+    ]
+   },
+   {
+    "title": "up to 表示数量上限",
+    "explain": "up to 放在数字前，意为“最多，多达，高达”，强调最高可达的数量，如 up to 50 people、up to a fifth more。它表示上限，不是平均值。up to 的其他常见用法有 be up to sb（由某人决定）、up to now（到目前为止）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The hall can seat up to 800 people.",
+      "zh": "这个大厅最多可容纳800人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "World Food Prize Foundation",
+    "explain": "世界粮食奖基金会，负责颁发世界粮食奖的机构。世界粮食奖由诺曼·博洛格（Norman Borlaug）倡议于1986年设立，表彰为增加世界粮食供应、改善粮食质量作出突出贡献的人。"
+   },
+   {
+    "term": "yield",
+    "explain": "本句是动词，意为“出产（作物）”，视频译为“产”；作名词意为“产量”，如 high yields（高产）、crop yields（作物产量）。yield 还有“屈服，让步”之意，如 yield to pressure。"
+   },
+   {
+    "term": "conventional varieties",
+    "explain": "常规品种，指非杂交的普通水稻品种，与 hybrid rice 相对。conventional 意为“常规的，传统的”；variety 在此指动植物的“品种”，不是“多样性”。"
+   },
+   {
+    "term": "grain",
+    "explain": "本句指稻谷，即作物收获的籽粒，视频译为“稻谷”；grain 泛指谷物、粮食，也可指“颗粒”，如 a grain of sand（一粒沙子）。"
+   },
+   {
+    "term": "a fifth",
+    "explain": "五分之一，即20%，相当于汉语说的“两成”。"
+   }
+  ],
+  "translation_tip": "视频译文“据世界粮食奖基金会估计，杂交稻比常规品种最多可多产五分之一的稻谷。”的处理：①主句“主语 + estimates”转译为“据……估计”，放在句首，交代信息来源，宾语从句成为句子主体；that 不译。②比较状语 than conventional varieties 前移到谓语前，译为“比常规品种”，符合汉语“A 比 B 多……”的语序。③up to 译为“最多”，can 译为“可”，a fifth more grain 译为“多产五分之一的稻谷”，把 more 与 yield 合译为“多产”。④hybrid rice 译为“杂交稻”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "it",
+   "predicate": "covered",
+   "object_or_complement": "almost half of China's rice fields",
+   "explain": "主干是 it covered almost half of China's rice fields，主谓宾结构。it 指上句的 hybrid rice；cover 在此意为“覆盖，占（面积）”。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "By the early 2000s",
+    "zh": "到21世纪初",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "it",
+    "zh": "杂交稻",
+    "role": "主语（代词，指第13句的 hybrid rice）"
+   },
+   {
+    "text": "covered",
+    "zh": "已覆盖",
+    "role": "谓语"
+   },
+   {
+    "text": "almost half",
+    "zh": "近一半的",
+    "role": "宾语（almost 修饰 half）"
+   },
+   {
+    "text": "of China's rice fields.",
+    "zh": "中国稻田",
+    "role": "后置定语（of 短语表示部分与整体），修饰 half"
+   }
+  ],
+  "structure": "①句首 By the early 2000s 是时间状语，by 表示“到……时”，the early 2000s 指21世纪最初几年。\n②主句主语 it 回指第13句的 hybrid rice；谓语 covered，表示种植面积所占的范围；宾语 almost half of China's rice fields，almost 修饰 half，of China's rice fields 说明是哪个整体的一半。\n③本句与第12句前后呼应：从1976年的约140000公顷，到21世纪初覆盖中国近一半的稻田，显示了杂交水稻的推广规模。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "年代的表示法",
+    "explain": "表示“某个年代”用 the + 年份的复数，如 the 1970s（20世纪70年代）、the 2000s（2000年至2009年这十年）。前面可加 early、mid、late 表示该年代的初期、中期、后期，如 the early 2000s、the late 1990s、the mid-1980s。本句 By the early 2000s 视频译为“到21世纪初”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her family moved to the coast in the mid-1980s.",
+      "zh": "她家在20世纪80年代中期搬到了海边。"
+     }
+    ]
+   },
+   {
+    "title": "half of + 名词 的用法",
+    "explain": "half 后接带限定词（the、所有格、物主代词）的名词时，of 可以省略，如 half (of) China's rice fields、half (of) the students；后接人称代词时 of 不能省，如 half of them。half 短语作主语时，谓语的单复数由后面的名词决定：Half of the land is…、Half of the fields are…。本句 almost half of China's rice fields 作宾语，almost 修饰 half，表示“近一半”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Almost half of the respondents said they had never used the service.",
+      "zh": "近一半的受访者表示他们从未使用过这项服务。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "cover",
+    "explain": "本句意为“覆盖，占（多大面积）”，视频译为“覆盖”；cover 的其他常见义有“涉及，包括”（cover a topic）、“报道”（cover a story）、“支付”（cover the cost）。"
+   },
+   {
+    "term": "rice field",
+    "explain": "稻田，与第1句的 paddy 同义；全文用 paddy、rice fields 指代稻田，避免重复。"
+   },
+   {
+    "term": "almost",
+    "explain": "副词，“几乎，差不多”，修饰数量词时表示接近但未达到，almost half 即“近一半”，可与 nearly 互换。"
+   },
+   {
+    "term": "China's",
+    "explain": "国家名可用 's 所有格表示所属，新闻语体常见，如 China's economy；也可说 the rice fields of China。"
+   }
+  ],
+  "translation_tip": "视频译文“到21世纪初，杂交稻已覆盖近一半的中国稻田。”的处理：①代词 it 译回名词“杂交稻”，指代清楚。②By the early 2000s 译为“到21世纪初”，谓语增补“已”，体现 by 的截止含义。③almost half of China's rice fields 按汉语定语在前的习惯，译为“近一半的中国稻田”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Yuan Longping",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主干是 Yuan Longping died，主谓结构，die 为不及物动词。who 引导的非限制性定语从句插在主语和谓语之间。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Yuan Longping,",
+    "zh": "袁隆平",
+    "role": "主语，也是定语从句的先行词"
+   },
+   {
+    "text": "who shared the 2004 World Food Prize with Sierra Leone's Monty Jones,",
+    "zh": "曾与塞拉利昂的蒙蒂·琼斯共获2004年世界粮食奖",
+    "role": "非限制性定语从句（who 引导，在从句中作主语），补充说明 Yuan Longping"
+   },
+   {
+    "text": "died",
+    "zh": "逝世",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "in Changsha",
+    "zh": "在长沙",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "on 22 May 2021,",
+    "zh": "2021年5月22日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "aged 91.",
+    "zh": "享年91岁",
+    "role": "状语（形容词短语），补充说明主语去世时的年龄"
+   }
+  ],
+  "structure": "①主句 Yuan Longping… died in Changsha on 22 May 2021：主语 Yuan Longping，谓语 died，in Changsha 是地点状语，on 22 May 2021 是时间状语，英语一般地点在前、时间在后。\n②who 引导非限制性定语从句，补充说明 Yuan Longping（视频说明）。who 在从句中作主语；谓语 shared，宾语 the 2004 World Food Prize，with Sierra Leone's Monty Jones 说明与谁分享，构成 share sth with sb。从句所说的事发生在2004年，早于主句。\n③句末 aged 91 是形容词短语作状语，补充说明主语去世时的年龄，aged 意为“……岁的”。\n④主语与谓语之间隔着一个较长的从句，阅读时要跳过两个逗号之间的内容，把 Yuan Longping 和 died 连起来。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "非限制性定语从句",
+    "explain": "非限制性定语从句前后用逗号隔开，对先行词作补充说明，去掉后主句意思仍然完整。先行词是专有名词时，定语从句一般用非限制性的，因为专名所指已经明确。引导词不能用 that，指人用 who（作主语或宾语）或 whom（作宾语），指物用 which。本句 who 在从句中作主语。翻译时常拆成独立分句，也可像视频译文那样，把从句内容译成主语的一个谓语，并增补“曾”表示时间在前。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, who won Nobel Prizes in both physics and chemistry, was born in Warsaw.",
+      "zh": "玛丽·居里出生于华沙，她曾获得诺贝尔物理学奖和化学奖。"
+     },
+     {
+      "en": "The report, which was published last week, has already drawn sharp criticism.",
+      "zh": "这份报告上周发表，已经招致了尖锐批评。"
+     }
+    ]
+   },
+   {
+    "title": "aged + 数字",
+    "explain": "aged 作形容词，后接数字，意为“……岁的”。放在句末、用逗号隔开时，补充说明某人在所述事件发生时的年龄，常见于讣告和新闻；也可作后置定语，如 children aged 6 to 12（6到12岁的儿童）。读音要注意：表示年龄的 aged 读 /eɪdʒd/，表示“年老的”（如 the aged，老年人）时读 /ˈeɪdʒɪd/。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum offers free entry to children aged under 12.",
+      "zh": "该博物馆对12岁以下的儿童免费开放。"
+     }
+    ]
+   },
+   {
+    "title": "地点状语与时间状语的顺序",
+    "explain": "英语中地点状语和时间状语同时出现时，一般地点在前、时间在后，如 died in Changsha on 22 May 2021；时间状语内部由小到大，如 on 22 May 2021。汉语习惯时间在前、地点在后，时间由大到小，视频译为“2021年5月22日在长沙逝世”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The festival takes place in Edinburgh every August.",
+      "zh": "这个艺术节每年8月在爱丁堡举行。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "World Food Prize",
+    "explain": "世界粮食奖，表彰为增加世界粮食供应、改善粮食质量作出突出贡献的人。2004年的世界粮食奖由袁隆平与塞拉利昂的蒙蒂·琼斯共同获得。"
+   },
+   {
+    "term": "Monty Jones",
+    "explain": "蒙蒂·琼斯，塞拉利昂植物育种学家，因培育适合非洲种植的“非洲新稻”（NERICA）与袁隆平共获2004年世界粮食奖。"
+   },
+   {
+    "term": "Sierra Leone",
+    "explain": "塞拉利昂，西非国家，首都弗里敦（Freetown）。Sierra Leone's 是名词所有格，表示国籍。"
+   },
+   {
+    "term": "share sth with sb",
+    "explain": "与某人分享某物，用于奖项时指“共同获得”，视频译为“共获”。"
+   },
+   {
+    "term": "Changsha",
+    "explain": "长沙，湖南省省会。第1句的安江农校也在湖南。"
+   }
+  ],
+  "translation_tip": "视频译文“袁隆平曾与塞拉利昂的蒙蒂·琼斯共获2004年世界粮食奖，2021年5月22日在长沙逝世，享年91岁。”的处理：①非限制性定语从句没有前置，而是译成主语“袁隆平”的第一个谓语“曾与……共获……”，增补“曾”，表明此事发生在逝世之前；主句谓语 died 随后译出，形成流水句。②share… with… 转为“与……共获”，介词短语前移。③地点、时间状语调换顺序，译为“2021年5月22日在长沙逝世”。④aged 91 译为“享年91岁”，符合汉语讣告的说法。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "popular myth",
+   "predicate": "portrays",
+   "object_or_complement": "him（宾语）；as a solitary genius（宾语补足语）",
+   "explain": "主干是 popular myth portrays him as a solitary genius，主谓宾宾补结构，as 短语作宾语补足语，构成 portray A as B（视频说明）。谓语用一般现在时，表示当下流行的看法。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "zh": "然而",
+    "role": "连词，表示转折"
+   },
+   {
+    "text": "popular",
+    "zh": "流传甚广的",
+    "role": "前置定语，修饰 myth"
+   },
+   {
+    "text": "myth",
+    "zh": "一种……错误的观点",
+    "role": "主语中心词"
+   },
+   {
+    "text": "portrays him as",
+    "zh": "把他描绘成",
+    "role": "谓语 portrays + 宾语 him + as，构成 portray A as B"
+   },
+   {
+    "text": "a solitary",
+    "zh": "一个单枪匹马的",
+    "role": "宾语补足语的限定词和前置定语（solitary 修饰 genius）"
+   },
+   {
+    "text": "genius.",
+    "zh": "天才",
+    "role": "宾语补足语中心词（as 的宾语）"
+   }
+  ],
+  "structure": "①Yet 是连词，表示转折，与上文形成对比：前文叙述了全国协作的经过，这里指出流行的说法却把功劳只归于一人。\n②主句主语 popular myth：popular 意为“流行的，普遍的”，myth 指流传甚广却不符合事实的观点；谓语 portrays，宾语 him，as a solitary genius 是宾语补足语，说明在这种说法里他被描绘成什么样的人。\n③solitary 作 genius 的前置定语，意为“独自的”，视频译为“单枪匹马的”，与第8至10句的全国协作形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "动词 + A + as + B",
+    "explain": "portray、describe、depict、regard、see、view、treat 等动词常构成“动词 + A + as + B”结构，意为“把 A 描绘成（看作）B”，as 短语作宾语补足语，B 可以是名词或形容词。本句 portrays him as a solitary genius 即“把他描绘成一个单枪匹马的天才”。被动式为 A is portrayed as B。考研阅读中，这类结构常用来引出某种观点或形象，作者往往随后表示赞同或反驳；本句用 myth 一词，已表明作者不认同这种描绘。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The film portrays the general as a cautious and lonely man.",
+      "zh": "这部电影把那位将军塑造成一个谨慎而孤独的人。"
+     },
+     {
+      "en": "Many economists regard inflation as the most serious threat to growth.",
+      "zh": "许多经济学家把通货膨胀视为对经济增长最严重的威胁。"
+     }
+    ]
+   },
+   {
+    "title": "Yet 表示转折",
+    "explain": "yet 作连词意为“然而，但是”，可放在句首，也可与 and 连用（and yet）；语气比 but 稍正式，常引出与前文预期相反的事实。本句 Yet 承接上文：前面讲的是众人协作的经过，流行的说法却把他描绘成独自成功的天才。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan seemed perfect on paper. Yet it failed within a month.",
+      "zh": "这个计划在纸面上看似完美，然而不到一个月就失败了。"
+     }
+    ]
+   },
+   {
+    "title": "myth 的零冠词用法",
+    "explain": "myth 表示“流传甚广的错误观念”时，可作可数名词，如 a myth、common myths；也可作不可数名词泛指这类说法，如本句 popular myth 不加冠词，泛指社会上流行的说法。视频译文增补“一种”，使中文更自然。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Contrary to popular myth, bats are not blind.",
+      "zh": "与流行的说法相反，蝙蝠并不是瞎子。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "myth",
+    "explain": "本句意为“流传甚广的错误观念”，视频译为“错误的观点”；本义是“神话”，如 Greek myths（希腊神话）。常见搭配有 dispel/explode a myth（破除谬见）。"
+   },
+   {
+    "term": "popular",
+    "explain": "熟词僻义：popular 除“受欢迎的”外，还可指“大众的，普遍的，流行的”，如 popular belief（普遍的看法）、popular opinion（大众舆论）。本句 popular 视频译为“流传甚广的”。"
+   },
+   {
+    "term": "solitary",
+    "explain": "形容词，独自的，单独的，孤独的，如 a solitary walk（独自散步）、solitary confinement（单独监禁）。本句强调独自一人取得成就，视频译为“单枪匹马的”。"
+   },
+   {
+    "term": "genius",
+    "explain": "天才，天才人物，复数 geniuses；也指“天赋”，如 have a genius for（有……的天赋）。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，一种流传甚广的错误的观点把他描绘成一个单枪匹马的天才。”的处理：①Yet 译为“然而”，后加逗号。②popular myth 拆开意思译出：popular 译为“流传甚广的”，myth 译为“错误的观点”，点明作者对这种说法的否定态度；并增补量词“一种”。③portray A as B 用“把”字句译为“把他描绘成”。④solitary 译为“单枪匹马的”，形象地表达“独自一人”之意；不定冠词 a 译为“一个”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "His eye（前一分句）；his generosity（后一分句）",
+   "predicate": "began（前一分句）；let（后一分句）",
+   "object_or_complement": "the search（began 的宾语）；many hands（let 的宾语），bring in the harvest（宾语补足语）",
+   "explain": "两个分句由分号连接：前一分句 His eye began the search 是主谓宾结构；后一分句 his generosity let many hands bring in the harvest 是主谓宾宾补结构，不带 to 的不定式短语作宾语补足语。let 在此是过去式（let, let, let），与 began 一样是一般过去时。"
+  },
+  "components": [
+   {
+    "text": "His eye",
+    "zh": "他的慧眼",
+    "role": "前一分句的主语（eye 指眼力）"
+   },
+   {
+    "text": "began",
+    "zh": "开启了",
+    "role": "前一分句的谓语"
+   },
+   {
+    "text": "the search;",
+    "zh": "这场搜寻",
+    "role": "前一分句的宾语，回指第5句的 a six-year hunt"
+   },
+   {
+    "text": "his generosity",
+    "zh": "他的慷慨",
+    "role": "后一分句的主语"
+   },
+   {
+    "text": "let",
+    "zh": "让",
+    "role": "后一分句的谓语（使役动词，过去式）"
+   },
+   {
+    "text": "many hands",
+    "zh": "许多双手",
+    "role": "let 的宾语（以“手”代人）"
+   },
+   {
+    "text": "bring in the harvest.",
+    "zh": "一起迎来了丰收",
+    "role": "宾语补足语（不带 to 的不定式短语）"
+   }
+  ],
+  "structure": "①前一分句 His eye began the search：主语 His eye，eye 在此指眼力、识别能力，视频译为“慧眼”；谓语 began；宾语 the search 回指第5句的 a six-year hunt。\n②分号连接两个结构平行、意思紧密相关的分句，中间不用连词。\n③后一分句 his generosity let many hands bring in the harvest：主语 his generosity，谓语 let 是使役动词，宾语 many hands，bring in the harvest 是不带 to 的不定式短语作宾语补足语（视频说明：bring in the harvest 收庄稼，这里指迎来丰收）。many hands 以“手”代人，指众多参与者。\n④两个分句对仗，概括全文：搜寻始于他的眼力，丰收则靠他的慷慨分享与众人协作，呼应第16句对“单枪匹马的天才”一说的否定。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "let + 宾语 + 不带 to 的不定式",
+    "explain": "使役动词 let、make、have 后接“宾语 + 动词原形”，表示“让、使某人做某事”，不定式不带 to，如 let many hands bring in the harvest。let 的过去式和过去分词都是 let，本句与 began 并列，是过去式。let 一般不用于被动语态，表示“被允许”时改用 be allowed to；make 用于被动时要补出 to，如 He was made to wait。考研写作中常见错误是写成 let sb to do。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules let employees work from home two days a week.",
+      "zh": "新规定允许员工每周在家工作两天。"
+     },
+     {
+      "en": "Her parents let her choose her own university.",
+      "zh": "她的父母让她自己选择大学。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号可以连接两个意思紧密相关、地位平等的独立分句，作用相当于一个较弱的句号，中间不需要连词。本句两个分句结构平行：His eye began…；his generosity let…，分号后的 his 首字母小写。分号前后常构成对比或补充，阅读时要把两部分对照着看。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Some students prefer to study in the morning; others work best late at night.",
+      "zh": "有些学生喜欢在早上学习；另一些学生则在深夜效率最高。"
+     }
+    ]
+   },
+   {
+    "title": "借代：以身体部位指代能力或人",
+    "explain": "英语常用身体的一部分指代相关的能力或人：eye 可指眼力、鉴赏力，如 have an eye for detail（注重细节）；hand 可指人手、劳力，如 farm hands（农场雇工）。本句 His eye 指袁隆平发现异常稻株的眼力，many hands 指参与协作的众多人员。视频译为“慧眼”“许多双手”，保留了原文的形象。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The farm needs extra hands during the harvest season.",
+      "zh": "收获季节，农场需要额外的人手。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "bring in the harvest",
+    "explain": "收庄稼，这里指迎来丰收（视频说明）。bring in 意为“收进，收割”；harvest 指收获、收成。全文讲的是水稻，用这一说法收尾，字面与题材相合，视频译为“迎来了丰收”。"
+   },
+   {
+    "term": "Many hands make light work",
+    "explain": "英语谚语，意为“人多好办事”。本句的 many hands 可以让读者联想到这句谚语，突出众人协作。"
+   },
+   {
+    "term": "generosity",
+    "explain": "名词，慷慨，大方，形容词 generous。本句指袁隆平把材料分给全国协作者的做法，与第8句 distributed it to collaborators nationwide 相呼应。"
+   },
+   {
+    "term": "the search",
+    "explain": "定冠词 the 表示特指，回指第5句的 a six-year hunt，search 与 hunt 同义替换，视频译为“这场搜寻”。"
+   }
+  ],
+  "translation_tip": "视频译文“他的慧眼开启了这场搜寻；他的慷慨，让许多双手一起迎来了丰收。”的处理：①His eye 译为“慧眼”，增添褒义，点明这是识别异常稻株的眼力。②the search 译为“这场搜寻”，“这场”体现回指。③保留分号和两个分句的对仗结构。④his generosity 后加逗号停顿，突出主语；使役动词 let 译为“让”。⑤many hands 直译为“许多双手”，保留借代的形象；增补“一起”，点出协作之意；bring in the harvest 译为“迎来了丰收”。"
+ }
+]

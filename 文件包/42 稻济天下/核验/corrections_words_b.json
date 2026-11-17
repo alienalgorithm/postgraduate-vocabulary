@@ -1,0 +1,44 @@
+[
+ {
+  "key": 33,
+  "field": "etymology",
+  "before": "由动词 collaborate 加表示人的后缀 -or 构成，19世纪初出现。collaborate 来自晚期拉丁语 collaborare（共同劳动），由 col-（共同）+ laborare（劳动）构成。",
+  "after": "19世纪初从法语 collaborateur 借入，源于晚期拉丁语 collaborare（共同劳动），由 col-（共同）+ laborare（劳动）构成；动词 collaborate 在英语中出现得反而更晚。",
+  "reason": "据 Etymonline，collaborator（1802）借自法语，早于动词 collaborate（1871），不是由 collaborate 加 -or 构成"
+ },
+ {
+  "key": 35,
+  "field": "distinction",
+  "before": "cross 也可指杂交种，偏口语，常用 a cross between A and B",
+  "after": "cross 也可指杂交种，常用 a cross between A and B",
+  "reason": "cross 表示“杂交种”是通用说法，“偏口语”不准确"
+ },
+ {
+  "key": 36,
+  "field": "example",
+  "before": "{\"en\": \"The museum's collection is divided into four distinct periods of Chinese art.\", \"zh\": \"该博物馆的藏品按中国艺术的四个不同时期划分。\"}",
+  "after": "{\"en\": \"The exhibition is divided into four sections, each devoted to a distinct period of Chinese art.\", \"zh\": \"展览分为四个部分，每个部分展示中国艺术的一个不同时期。\"}",
+  "reason": "原句“藏品被分成四个时期”搭配不当，改为地道说法"
+ },
+ {
+  "key": 43,
+  "field": "example",
+  "before": "{\"en\": \"The judges declared the experiment a success after reviewing the data.\", \"zh\": \"评审在审阅数据后宣布这项实验取得了成功。\"}",
+  "after": "{\"en\": \"After reviewing the data, the researchers declared the trial a success.\", \"zh\": \"研究人员审阅数据后，宣布这次试验取得了成功。\"}",
+  "reason": "由“法官/评委”宣布实验成功不合情理，改为研究人员宣布试验成功"
+ },
+ {
+  "key": 48,
+  "field": "usage_detail",
+  "before": "a grain of truth/sense 意为“一点点真实性/道理”，多用于否定句。",
+  "after": "a grain of truth/sense 意为“一点点真实性/道理”，肯定句、否定句都常用，如 There is a grain of truth in what he says。",
+  "reason": "a grain of truth 常用于肯定句（there is a grain of truth in…），“多用于否定句”不准确"
+ },
+ {
+  "key": 58,
+  "field": "etymology",
+  "before": "17世纪初来自拉丁语 generositas",
+  "after": "来自拉丁语 generositas",
+  "reason": "Etymonline 记 generosity 15世纪已见于英语，“17世纪初”不准确，删去年代"
+ }
+]

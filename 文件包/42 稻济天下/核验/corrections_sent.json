@@ -1,0 +1,93 @@
+[
+ {
+  "key": 1,
+  "field": "structure",
+  "before": "主语前有三个用逗号隔开的成分，要越过它们才能找到主干。",
+  "after": "主语前依次是时间状语 In July 1964、现在分词短语 inspecting rice ear by ear 和地点状语 in a paddy… in Hunan province，要越过这些成分才能找到主干。",
+  "reason": "原句 ear by ear 与 in a paddy 之间没有逗号，只有两个逗号，“三个用逗号隔开的成分”与原句标点不符"
+ },
+ {
+  "key": 1,
+  "field": "grammar.2.explain",
+  "before": "翻译时汉语一律把身份放在人名前",
+  "after": "翻译时汉语通常把身份放在人名前",
+  "reason": "“一律”过于绝对，与第7句“一般”的说法也不一致"
+ },
+ {
+  "key": 4,
+  "field": "components.2.role",
+  "before": "谓语（名词 detail 转用作动词）",
+  "after": "谓语（detail 在此作及物动词，用过去式）",
+  "reason": "据 Etymonline，动词 detail 于17世纪直接借自法语 détailler，并非由英语名词转用而来"
+ },
+ {
+  "key": 4,
+  "field": "grammar.1.title",
+  "before": "名词转用作动词",
+  "after": "名词、动词同形的词",
+  "reason": "同上：detail 是名动同形词，说“名词转用作动词”不准确"
+ },
+ {
+  "key": 4,
+  "field": "grammar.1.explain",
+  "before": "英语中不少名词可以直接用作动词，词形不变，如",
+  "after": "英语中不少词名词、动词同形，词形不变即可作谓语，如",
+  "reason": "同上，改为共时描述，避免错误的派生关系"
+ },
+ {
+  "key": 5,
+  "field": "knowledge.1.explain",
+  "before": "熟词僻义：launch 常见义是“发射（火箭）”“推出（新产品）”，本句意为“开始，发起”",
+  "after": "多义词：launch 常见义有“发射（火箭）”“推出（新产品）”，本句意为“开始，发起（有组织的活动）”",
+  "reason": "“开始，发起”是 launch 的常用基本义（Oxford、Cambridge 均列为主要义项），不属于熟词僻义"
+ },
+ {
+  "key": 7,
+  "field": "grammar.1.title",
+  "before": "whose 修饰不可数名词先行词",
+  "after": "先行词为不可数名词的 whose 从句",
+  "reason": "whose 在从句中修饰的是 pollen，不是先行词 wild rice，原标题说法有误"
+ },
+ {
+  "key": 9,
+  "field": "translation_tip",
+  "before": "restore fertility in the hybrids 中的介词短语 in the hybrids 转为“使”字结构，译为“使杂交种恢复育性”。",
+  "after": "restore fertility in the hybrids 用“使”字结构译出：“使”体现 restore 的使动含义，in the hybrids 中的 the hybrids 提到“恢复育性”前作“使”的宾语，译为“使杂交种恢复育性”。",
+  "reason": "“使”对应的是 restore 的使动含义，不是由介词短语 in the hybrids 转来的"
+ },
+ {
+  "key": 11,
+  "field": "structure",
+  "before": "系统 complete，即三个系都已找齐，能够配套使用。",
+  "after": "宾语补足语 complete 说明这一体系已经完整，即三个系都已找齐，能够配套使用。",
+  "reason": "“系统 complete”中英混杂、表意不清，改为准确说明宾补的作用"
+ },
+ {
+  "key": 12,
+  "field": "grammar.1.examples.1.zh",
+  "before": "到明年6月，该公司将已开设十家新店。",
+  "after": "到明年6月，该公司开设的新店将达到十家。",
+  "reason": "“将已开设”不符合汉语习惯"
+ },
+ {
+  "key": 15,
+  "field": "components.5.role",
+  "before": "补充说明（形容词短语），说明主语去世时的年龄",
+  "after": "状语（形容词短语），补充说明主语去世时的年龄",
+  "reason": "role 必须用规范的成分术语，“补充说明”不是句子成分名称"
+ },
+ {
+  "key": 15,
+  "field": "structure",
+  "before": "句末 aged 91 是形容词短语，补充说明主语去世时的年龄",
+  "after": "句末 aged 91 是形容词短语作状语，补充说明主语去世时的年龄",
+  "reason": "同上，与成分划分保持一致"
+ },
+ {
+  "key": 16,
+  "field": "translation_tip",
+  "before": "myth 译为“错误的观点”，并增补量词“一种”，点明作者对这种说法的否定态度。",
+  "after": "myth 译为“错误的观点”，点明作者对这种说法的否定态度；并增补量词“一种”。",
+  "reason": "体现否定态度的是“错误的观点”，不是量词“一种”，原句因果关系错位"
+ }
+]

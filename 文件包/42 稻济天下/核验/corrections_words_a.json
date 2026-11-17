@@ -1,0 +1,51 @@
+[
+ {
+  "key": 2,
+  "field": "etymology",
+  "before": "17世纪进入英语时指“稻谷”，19世纪出现 paddy field（稻田）的说法，后来 paddy 单用也指稻田。",
+  "after": "17世纪进入英语时指“稻谷”，后来出现 paddy field（稻田）的说法，paddy 单用也可指稻田。",
+  "reason": "paddy field 出现于19世纪的说法无法从权威词源词典证实，删去年代"
+ },
+ {
+  "key": 11,
+  "field": "distinction",
+  "before": "cross 作名词也指杂交种，偏口语，如 a cross between a horse and a donkey",
+  "after": "cross 作名词也指杂交种，常用 a cross between A and B，如 a cross between a horse and a donkey",
+  "reason": "cross 表示“杂交种”是通用说法（Oxford、Merriam-Webster 均未标口语），“偏口语”不准确"
+ },
+ {
+  "key": 13,
+  "field": "usage_detail",
+  "before": "in detail、go into detail（不加 s）是固定用法",
+  "after": "in detail（不加 s）是固定用法，go into detail 也可说 go into details",
+  "reason": "Oxford 收录 go into detail(s)，说 go into detail 不加 s 不准确"
+ },
+ {
+  "key": 15,
+  "field": "etymology",
+  "before": "英语中先指每日的记录、日志，后来指定期出版的报刊。",
+  "after": "英语中最初指按日课编排的祈祷书，后来指每日的记录、日志，再后来指定期出版的报刊。",
+  "reason": "Etymonline 所载 journal 在英语中的最早义是日课祈祷书，不是日志"
+ },
+ {
+  "key": 17,
+  "field": "etymology",
+  "before": "14世纪后期经盎格鲁法语来自古法语 lancier（投掷，抛出），与 lance（长矛）有关，本义是“像投矛一样猛力投出”，后来指使船下水、发射火箭，进一步引申为“开始，发起，推出”。",
+  "after": "中古英语时期经盎格鲁法语来自古法语 lancier（投掷，抛出），与 lance（长矛）有关，本义是“像投矛一样猛力投出”，后来指使船下水，并引申为“开始，发起”；“发射火箭”“推出产品”是较晚近才有的用法。",
+  "reason": "Etymonline 记 launch 约1300年进入英语，不是14世纪后期；“开始，发起”义早于“发射火箭”，原写的引申顺序颠倒"
+ },
+ {
+  "key": 24,
+  "field": "etymology",
+  "before": "15世纪后期从法语 trait（一笔，一画）借入",
+  "after": "从法语 trait（一笔，一画）借入",
+  "reason": "借入年代无法核实（Etymonline 所记“笔画”义晚于15世纪），删去"
+ },
+ {
+  "key": 29,
+  "field": "etymology",
+  "before": "由动词 decide 派生，17世纪初出现，来自中世纪拉丁语 decisivus，",
+  "after": "17世纪初经法语 décisif 来自中世纪拉丁语 decisivus，与动词 decide 同源，",
+  "reason": "原文先说由 decide 派生、又说来自中世纪拉丁语，前后矛盾；据 Etymonline，decisive 经法语借入，与 decide 同源"
+ }
+]
