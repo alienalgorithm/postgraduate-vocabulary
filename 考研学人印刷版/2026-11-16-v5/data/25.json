@@ -1142,5 +1142,479 @@
   "illustration": "ef0a7aa4ca505d12582961d7388a6c535e49f7890f4130fb718ef7d89e49c8ef"
  },
  "book_order_v4": "25",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "opulent",
+   "lemma": "opulent",
+   "pos": "adj.",
+   "zh": "豪华的；富丽堂皇的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "liner",
+   "lemma": "liner",
+   "pos": "n.",
+   "zh": "邮轮；大型客轮",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "maiden voyage",
+   "lemma": "maiden voyage",
+   "pos": "n.",
+   "zh": "处女航；首航",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "trade journal",
+   "lemma": "trade journal",
+   "pos": "n.",
+   "zh": "行业期刊；专业刊物",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "dubbed",
+   "lemma": "dub",
+   "pos": "vt.",
+   "zh": "把……称为；给……起绰号",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "practically",
+   "lemma": "practically",
+   "pos": "adv.",
+   "zh": "几乎；差不多",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "unsinkable",
+   "lemma": "unsinkable",
+   "pos": "adj.",
+   "zh": "不会沉没的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "collided with",
+   "lemma": "collide with",
+   "pos": "phr.",
+   "zh": "与……相撞；碰撞",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "iceberg",
+   "lemma": "iceberg",
+   "pos": "n.",
+   "zh": "冰山",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "vanished",
+   "lemma": "vanish",
+   "pos": "vi.",
+   "zh": "消失；突然不见",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "death toll",
+   "lemma": "death toll",
+   "pos": "n.",
+   "zh": "死亡人数；遇难人数",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "surpass",
+   "lemma": "surpass",
+   "pos": "vt.",
+   "zh": "超过；超越",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "folklore",
+   "lemma": "folklore",
+   "pos": "n.",
+   "zh": "流传的说法；民间传说",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "arrogance",
+   "lemma": "arrogance",
+   "pos": "n.",
+   "zh": "傲慢；自大",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "compliant with",
+   "lemma": "compliant with",
+   "pos": "adj.",
+   "zh": "符合……的；合规的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "maritime",
+   "lemma": "maritime",
+   "pos": "adj.",
+   "zh": "海事的；航海的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "regulator",
+   "lemma": "regulator",
+   "pos": "n.",
+   "zh": "监管机构；监管者",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "pegged to",
+   "lemma": "peg sth to sth",
+   "pos": "phr.",
+   "zh": "使……与……挂钩",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "topped out at",
+   "lemma": "top out at",
+   "pos": "phr.",
+   "zh": "最高达到；封顶于",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "gross tonnage",
+   "lemma": "gross tonnage",
+   "pos": "n.",
+   "zh": "总吨位",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "scale",
+   "lemma": "scale",
+   "pos": "n.",
+   "zh": "等级；等级表",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "exceeding",
+   "lemma": "exceed",
+   "pos": "vt.",
+   "zh": "超过；超出",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "requirement",
+   "lemma": "requirement",
+   "pos": "n.",
+   "zh": "要求；规定",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "capacity",
+   "lemma": "capacity",
+   "pos": "n.",
+   "zh": "容量；最大容纳量",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "roughly",
+   "lemma": "roughly",
+   "pos": "adv.",
+   "zh": "大约；大致",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "sufficient",
+   "lemma": "sufficient",
+   "pos": "adj.",
+   "zh": "足够的；充足的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "inadequate",
+   "lemma": "inadequate",
+   "pos": "adj.",
+   "zh": "不足的；不够的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "equally",
+   "lemma": "equally",
+   "pos": "adv.",
+   "zh": "同样地；相同程度地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "lawful",
+   "lemma": "lawful",
+   "pos": "adj.",
+   "zh": "合法的；法律允许的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sole",
+   "lemma": "sole",
+   "pos": "adj.",
+   "zh": "唯一的；仅有的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "wireless",
+   "lemma": "wireless",
+   "pos": "adj.",
+   "zh": "无线电的；无线的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "operator",
+   "lemma": "operator",
+   "pos": "n.",
+   "zh": "操作员；报务员",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "on the payroll of",
+   "lemma": "on the payroll of",
+   "pos": "prep.",
+   "zh": "受雇于；领……的薪水",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "switched off",
+   "lemma": "switch off",
+   "pos": "phr.",
+   "zh": "关掉；切断（电源）",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hindsight",
+   "lemma": "hindsight",
+   "pos": "n.",
+   "zh": "后见之明；事后的认识",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "negligence",
+   "lemma": "negligence",
+   "pos": "n.",
+   "zh": "疏忽；失职",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "obliged to",
+   "lemma": "oblige sb to do sth",
+   "pos": "phr.",
+   "zh": "迫使某人做……",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "vigilant",
+   "lemma": "vigilant",
+   "pos": "adj.",
+   "zh": "警觉的；警惕的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "frantic",
+   "lemma": "frantic",
+   "pos": "adj.",
+   "zh": "焦急万分的；发狂似的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "distress calls",
+   "lemma": "distress call",
+   "pos": "n.",
+   "zh": "求救呼叫；求救信号",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unheard",
+   "lemma": "unheard",
+   "pos": "adj.",
+   "zh": "未被听到的；无人听见的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "inquiries",
+   "lemma": "inquiry",
+   "pos": "n.",
+   "zh": "（官方的）调查",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "testimony",
+   "lemma": "testimony",
+   "pos": "n.",
+   "zh": "证词；证言",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "survivors",
+   "lemma": "survivor",
+   "pos": "n.",
+   "zh": "幸存者；生还者",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "legislation",
+   "lemma": "legislation",
+   "pos": "n.",
+   "zh": "法规；立法",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "round-the-clock",
+   "lemma": "round-the-clock",
+   "pos": "adj.",
+   "zh": "昼夜不停的；全天候的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "compulsory",
+   "lemma": "compulsory",
+   "pos": "adj.",
+   "zh": "强制的；义务的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "delegates",
+   "lemma": "delegate",
+   "pos": "n.",
+   "zh": "代表",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "convention",
+   "lemma": "convention",
+   "pos": "n.",
+   "zh": "（国际）公约；协定",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stipulating",
+   "lemma": "stipulate",
+   "pos": "vt.",
+   "zh": "规定；明确要求",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "continuous",
+   "lemma": "continuous",
+   "pos": "adj.",
+   "zh": "连续不断的；不间断的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "patrol",
+   "lemma": "patrol",
+   "pos": "n.",
+   "zh": "巡逻；巡查",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stalled",
+   "lemma": "stall",
+   "pos": "vt.",
+   "zh": "使停顿；使搁置",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "treaty",
+   "lemma": "treaty",
+   "pos": "n.",
+   "zh": "条约",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "regardless",
+   "lemma": "regardless",
+   "pos": "adv.",
+   "zh": "不管怎样；照样",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "doomed",
+   "lemma": "doomed",
+   "pos": "adj.",
+   "zh": "在劫难逃的；注定毁灭的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "outdated",
+   "lemma": "outdated",
+   "pos": "adj.",
+   "zh": "过时的；陈旧的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "stayed afloat",
+   "lemma": "stay afloat",
+   "pos": "phr.",
+   "zh": "浮在水上；维持下去",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "discredit",
+   "lemma": "discredit",
+   "pos": "vt.",
+   "zh": "使丧失信誉；使不可信",
+   "drop": false
+  }
+ ]
 }

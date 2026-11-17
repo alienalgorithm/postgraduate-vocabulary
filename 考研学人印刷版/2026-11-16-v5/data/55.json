@@ -1279,5 +1279,519 @@
   "illustration": "127bdf90c5430e73353872f90688fdf82ba8a09ef62ec085280b11ffae606c5e"
  },
  "book_order_v4": "55",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "fierce heat",
+   "lemma": "fierce heat",
+   "pos": "n.",
+   "zh": "酷热；炎热",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "Houses of Parliament",
+   "lemma": "Houses of Parliament",
+   "pos": "n.",
+   "zh": "（英国）议会大厦",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "lime",
+   "lemma": "lime",
+   "pos": "n.",
+   "zh": "石灰",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "bleach",
+   "lemma": "bleach",
+   "pos": "n.",
+   "zh": "漂白剂",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tolerable",
+   "lemma": "tolerable",
+   "pos": "adj.",
+   "zh": "可以忍受的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "festered",
+   "lemma": "fester",
+   "pos": "vi.",
+   "zh": "腐烂发臭；腐败",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "contemplated",
+   "lemma": "contemplate",
+   "pos": "vt.",
+   "zh": "考虑；打算",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "lavatory",
+   "lemma": "lavatory",
+   "pos": "n.",
+   "zh": "厕所；盥洗室",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "antiquated",
+   "lemma": "antiquated",
+   "pos": "adj.",
+   "zh": "陈旧过时的；老旧的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "outlets",
+   "lemma": "outlet",
+   "pos": "n.",
+   "zh": "排放口；出口",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "discharged",
+   "lemma": "discharge",
+   "pos": "vt.",
+   "zh": "排放；排出",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "untreated",
+   "lemma": "untreated",
+   "pos": "adj.",
+   "zh": "未经处理的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "sewage",
+   "lemma": "sewage",
+   "pos": "n.",
+   "zh": "污水；污物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "dwellers",
+   "lemma": "dweller",
+   "pos": "n.",
+   "zh": "居民；居住者",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "currents",
+   "lemma": "current",
+   "pos": "n.",
+   "zh": "水流",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "excrement",
+   "lemma": "excrement",
+   "pos": "n.",
+   "zh": "粪便；排泄物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "stewed",
+   "lemma": "stew",
+   "pos": "vi.",
+   "zh": "（在闷热中）沤",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "decayed",
+   "lemma": "decay",
+   "pos": "vi.",
+   "zh": "腐烂；腐败",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "vile",
+   "lemma": "vile",
+   "pos": "adj.",
+   "zh": "令人恶心的；极讨厌的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fumes",
+   "lemma": "fumes",
+   "pos": "n.",
+   "zh": "（刺鼻的）气体；烟雾",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "overpowering",
+   "lemma": "overpowering",
+   "pos": "adj.",
+   "zh": "强烈难忍的；极其强烈的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "episode",
+   "lemma": "episode",
+   "pos": "n.",
+   "zh": "一段时期；事件",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Stink",
+   "lemma": "stink",
+   "pos": "n.",
+   "zh": "恶臭；臭气",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "disgust",
+   "lemma": "disgust",
+   "pos": "n.",
+   "zh": "厌恶；憎恶",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "Chancellor of the Exchequer",
+   "lemma": "Chancellor of the Exchequer",
+   "pos": "n.",
+   "zh": "（英国）财政大臣",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "denounced as",
+   "lemma": "denounce sth as sth",
+   "pos": "phr.",
+   "zh": "把……斥为……",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hellish",
+   "lemma": "hellish",
+   "pos": "adj.",
+   "zh": "地狱般的；可怕的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unbearable",
+   "lemma": "unbearable",
+   "pos": "adj.",
+   "zh": "无法忍受的；难以忍受的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "bill",
+   "lemma": "bill",
+   "pos": "n.",
+   "zh": "法案；议案",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fast-tracked",
+   "lemma": "fast-track",
+   "pos": "vt.",
+   "zh": "快速推进；加速审批",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "masterminded",
+   "lemma": "mastermind",
+   "pos": "vt.",
+   "zh": "策划；指挥",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "stout",
+   "lemma": "stout",
+   "pos": "adj.",
+   "zh": "坚固的；结实的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "intercepting sewers",
+   "lemma": "intercepting sewer",
+   "pos": "n.",
+   "zh": "截流下水道；截污管",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "short of",
+   "lemma": "short of",
+   "pos": "prep.",
+   "zh": "在到达……之前",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "diverted",
+   "lemma": "divert",
+   "pos": "vt.",
+   "zh": "使改道；转移",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "downstream",
+   "lemma": "downstream",
+   "pos": "adv.",
+   "zh": "在下游；向下游",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "tributaries",
+   "lemma": "tributary",
+   "pos": "n.",
+   "zh": "支流",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "infrastructure",
+   "lemma": "infrastructure",
+   "pos": "n.",
+   "zh": "基础设施",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "bricks",
+   "lemma": "brick",
+   "pos": "n.",
+   "zh": "砖；砖块",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "adequate",
+   "lemma": "adequate",
+   "pos": "adj.",
+   "zh": "足够的；适当的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "calibre",
+   "lemma": "calibre",
+   "pos": "n.",
+   "zh": "（管道的）内径；口径",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "doubled",
+   "lemma": "double",
+   "pos": "vt.",
+   "zh": "使加倍；把……加倍",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "backbone",
+   "lemma": "backbone",
+   "pos": "n.",
+   "zh": "主干；骨干",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "buried",
+   "lemma": "bury",
+   "pos": "vt.",
+   "zh": "埋藏；掩埋",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "underneath",
+   "lemma": "underneath",
+   "pos": "prep.",
+   "zh": "在……下面；在……之下",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "newly",
+   "lemma": "newly",
+   "pos": "adv.",
+   "zh": "新近；最近",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "substantially",
+   "lemma": "substantially",
+   "pos": "adv.",
+   "zh": "基本上；大体上",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "in use",
+   "lemma": "in use",
+   "pos": "phr.",
+   "zh": "在使用中；在用",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sanitation",
+   "lemma": "sanitation",
+   "pos": "n.",
+   "zh": "卫生设施；下水道设施",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "rested on",
+   "lemma": "rest on",
+   "pos": "phr.",
+   "zh": "建立在……之上；基于",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fallacy",
+   "lemma": "fallacy",
+   "pos": "n.",
+   "zh": "谬误；谬论",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "predominant",
+   "lemma": "predominant",
+   "pos": "adj.",
+   "zh": "占主导地位的；主要的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "belief",
+   "lemma": "belief",
+   "pos": "n.",
+   "zh": "看法；信念",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "foul air",
+   "lemma": "foul air",
+   "pos": "n.",
+   "zh": "污浊的空气",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "vapours",
+   "lemma": "vapour",
+   "pos": "n.",
+   "zh": "蒸气；水汽",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "principally",
+   "lemma": "principally",
+   "pos": "adv.",
+   "zh": "主要地；首要地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "suppress",
+   "lemma": "suppress",
+   "pos": "vt.",
+   "zh": "压住；抑制",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unintended",
+   "lemma": "unintended",
+   "pos": "adj.",
+   "zh": "意料之外的；无意的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "purity",
+   "lemma": "purity",
+   "pos": "n.",
+   "zh": "洁净；纯净",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "resurfaced",
+   "lemma": "resurface",
+   "pos": "vi.",
+   "zh": "再次出现；重新出现",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "locality",
+   "lemma": "locality",
+   "pos": "n.",
+   "zh": "地区；地方",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "remedy",
+   "lemma": "remedy",
+   "pos": "n.",
+   "zh": "解决办法；补救措施",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "aimed at",
+   "lemma": "be aimed at",
+   "pos": "phr.",
+   "zh": "针对；以……为目标",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "gut",
+   "lemma": "gut",
+   "pos": "n.",
+   "zh": "肠道；肠胃",
+   "drop": false
+  }
+ ]
 }

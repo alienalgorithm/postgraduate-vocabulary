@@ -1314,5 +1314,519 @@
   "illustration": "70bb79dbca156e6059c94edfa05a7e25999ed48b91292b06929444d3ee655916"
  },
  "book_order_v4": "43",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "Italian",
+   "lemma": "Italian",
+   "pos": "adj.",
+   "zh": "意大利的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "chemist",
+   "lemma": "chemist",
+   "pos": "n.",
+   "zh": "化学家",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "nitroglycerin",
+   "lemma": "nitroglycerin",
+   "pos": "n.",
+   "zh": "硝酸甘油",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "colourless",
+   "lemma": "colourless",
+   "pos": "adj.",
+   "zh": "无色的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "oily",
+   "lemma": "oily",
+   "pos": "adj.",
+   "zh": "油状的；油性的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "liquid",
+   "lemma": "liquid",
+   "pos": "n.",
+   "zh": "液体",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "acute",
+   "lemma": "acute",
+   "pos": "adj.",
+   "zh": "极度的；严重的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "instability",
+   "lemma": "instability",
+   "pos": "n.",
+   "zh": "不稳定性；不稳定",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "mere",
+   "lemma": "mere",
+   "pos": "adj.",
+   "zh": "仅仅的；只不过的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "droplet",
+   "lemma": "droplet",
+   "pos": "n.",
+   "zh": "小滴；液滴",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "throbbing",
+   "lemma": "throb",
+   "pos": "vi.",
+   "zh": "抽痛；（有节奏地）跳痛",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "violently",
+   "lemma": "violently",
+   "pos": "adv.",
+   "zh": "剧烈地；猛烈地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "shed",
+   "lemma": "shed",
+   "pos": "n.",
+   "zh": "棚屋；小屋",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tragic",
+   "lemma": "tragic",
+   "pos": "adj.",
+   "zh": "悲惨的；悲剧性的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "tamed",
+   "lemma": "tame",
+   "pos": "vt.",
+   "zh": "驯服；控制",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "blending",
+   "lemma": "blend",
+   "pos": "vt.",
+   "zh": "混合；掺和",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "porous",
+   "lemma": "porous",
+   "pos": "adj.",
+   "zh": "多孔的；能渗透的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "paste",
+   "lemma": "paste",
+   "pos": "n.",
+   "zh": "糊状物；膏",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rods",
+   "lemma": "rod",
+   "pos": "n.",
+   "zh": "棒；杆",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "harnessed",
+   "lemma": "harness",
+   "pos": "vt.",
+   "zh": "利用；控制并利用",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mining",
+   "lemma": "mining",
+   "pos": "n.",
+   "zh": "采矿；矿业",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "quarrying",
+   "lemma": "quarrying",
+   "pos": "n.",
+   "zh": "采石",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "demolition",
+   "lemma": "demolition",
+   "pos": "n.",
+   "zh": "拆除；拆毁",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "enriching",
+   "lemma": "enrich",
+   "pos": "vt.",
+   "zh": "使富裕；使富有",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "immensely",
+   "lemma": "immensely",
+   "pos": "adv.",
+   "zh": "极其；极大地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "testament",
+   "lemma": "testament",
+   "pos": "n.",
+   "zh": "遗嘱",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fortune",
+   "lemma": "fortune",
+   "pos": "n.",
+   "zh": "一大笔钱；巨款",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "endowment",
+   "lemma": "endowment",
+   "pos": "n.",
+   "zh": "捐赠基金；捐款",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "side-effects",
+   "lemma": "side-effect",
+   "pos": "n.",
+   "zh": "副作用",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "Factory operatives",
+   "lemma": "operative",
+   "pos": "n.",
+   "zh": "（工厂）工人；操作工",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "racking",
+   "lemma": "racking",
+   "pos": "adj.",
+   "zh": "折磨人的；剧烈的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "tolerance",
+   "lemma": "tolerance",
+   "pos": "n.",
+   "zh": "耐受性；耐受力",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ebbed",
+   "lemma": "ebb",
+   "pos": "vi.",
+   "zh": "减退；衰退",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "recurrence",
+   "lemma": "recurrence",
+   "pos": "n.",
+   "zh": "复发；再现",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "dizziness",
+   "lemma": "dizziness",
+   "pos": "n.",
+   "zh": "眩晕；头晕",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "palpitations",
+   "lemma": "palpitations",
+   "pos": "n.",
+   "zh": "心悸",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "hence",
+   "lemma": "hence",
+   "pos": "adv.",
+   "zh": "因此；由此",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "therapeutic",
+   "lemma": "therapeutic",
+   "pos": "adj.",
+   "zh": "治疗的；有疗效的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "aide",
+   "lemma": "aide",
+   "pos": "n.",
+   "zh": "助手；助理",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "by an irony of fate",
+   "lemma": "by an irony of fate",
+   "pos": "adv.",
+   "zh": "命运弄人；说来讽刺",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "prescribed",
+   "lemma": "prescribe",
+   "pos": "vt.",
+   "zh": "开（药）；开具（处方）",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "internally",
+   "lemma": "internally",
+   "pos": "adv.",
+   "zh": "（药物）内服；在体内",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "alias",
+   "lemma": "alias",
+   "pos": "n.",
+   "zh": "别名；化名",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "frightening",
+   "lemma": "frighten",
+   "pos": "vt.",
+   "zh": "使害怕；使惊恐",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "pharmacists",
+   "lemma": "pharmacist",
+   "pos": "n.",
+   "zh": "药剂师",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "comply",
+   "lemma": "comply",
+   "pos": "vi.",
+   "zh": "遵从；服从",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "partly",
+   "lemma": "partly",
+   "pos": "adv.",
+   "zh": "部分地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "paralysed",
+   "lemma": "paralyse",
+   "pos": "vt.",
+   "zh": "使瘫痪；使麻痹",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "cerebral haemorrhage",
+   "lemma": "cerebral haemorrhage",
+   "pos": "n.",
+   "zh": "脑出血；脑溢血",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "villa",
+   "lemma": "villa",
+   "pos": "n.",
+   "zh": "别墅",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ascertained",
+   "lemma": "ascertain",
+   "pos": "vt.",
+   "zh": "查明；确定",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "nitric oxide",
+   "lemma": "nitric oxide",
+   "pos": "n.",
+   "zh": "一氧化氮",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "widens",
+   "lemma": "widen",
+   "pos": "vt.",
+   "zh": "扩张；使变宽",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "blood vessels",
+   "lemma": "blood vessel",
+   "pos": "n.",
+   "zh": "血管",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unidentified",
+   "lemma": "unidentified",
+   "pos": "adj.",
+   "zh": "未经鉴定的；未查明的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "factor",
+   "lemma": "factor",
+   "pos": "n.",
+   "zh": "因子；因素",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "vascular",
+   "lemma": "vascular",
+   "pos": "adj.",
+   "zh": "血管的；脉管的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "linings",
+   "lemma": "lining",
+   "pos": "n.",
+   "zh": "内壁；内膜",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "trio",
+   "lemma": "trio",
+   "pos": "n.",
+   "zh": "三人组；三人小组",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "Nobel Prize",
+   "lemma": "Nobel Prize",
+   "pos": "n.",
+   "zh": "诺贝尔奖",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "presentation",
+   "lemma": "presentation",
+   "pos": "n.",
+   "zh": "颁奖；授予",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "anniversary",
+   "lemma": "anniversary",
+   "pos": "n.",
+   "zh": "纪念日；周年纪念日",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "quoted",
+   "lemma": "quote",
+   "pos": "vt.",
+   "zh": "引述；引用",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ironic",
+   "lemma": "ironic",
+   "pos": "adj.",
+   "zh": "具有讽刺意味的；反讽的",
+   "drop": false
+  }
+ ]
 }

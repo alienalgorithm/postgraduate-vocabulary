@@ -1,0 +1,30 @@
+[
+ {
+  "id": 15,
+  "field": "zh",
+  "before": "炸裂；炸得四分五裂",
+  "after": "把……炸裂；把……炸碎",
+  "reason": "lemma 是带宾语的 blow sth apart（文中宾语为 itself），释义补“把……”以对应宾语空位"
+ },
+ {
+  "id": 60,
+  "field": "lemma",
+  "before": "science-fiction",
+  "after": "science fiction",
+  "reason": "词典词目是 science fiction（名词），连字符只是作定语时的写法"
+ },
+ {
+  "id": 60,
+  "field": "pos",
+  "before": "adj.",
+  "after": "n.",
+  "reason": "science fiction 是名词，文中作定语修饰 genre"
+ },
+ {
+  "id": 60,
+  "field": "zh",
+  "before": "科幻的",
+  "after": "科幻；科幻小说",
+  "reason": "按名词词目给词典释义，与视频“科幻”一致"
+ }
+]

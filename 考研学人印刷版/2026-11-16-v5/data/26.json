@@ -1115,5 +1115,471 @@
   "illustration": "287cfa65af3c078dfa2997cfe95e46da2b7d97714b2026a063f1b27b85ad7755"
  },
  "book_order_v4": "26",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "labourers",
+   "lemma": "labourer",
+   "pos": "n.",
+   "zh": "工人；体力劳动者",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "engaged",
+   "lemma": "engage",
+   "pos": "vt.",
+   "zh": "聘用；雇用",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "uncovered",
+   "lemma": "uncover",
+   "pos": "vt.",
+   "zh": "发掘；发现",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "staircase",
+   "lemma": "staircase",
+   "pos": "n.",
+   "zh": "阶梯；台阶",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "carved into",
+   "lemma": "carve into",
+   "pos": "phr.",
+   "zh": "雕刻在……上；凿入",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "wealthy",
+   "lemma": "wealthy",
+   "pos": "adj.",
+   "zh": "富有的；富裕的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sponsor",
+   "lemma": "sponsor",
+   "pos": "n.",
+   "zh": "赞助人；资助者",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "doorway",
+   "lemma": "doorway",
+   "pos": "n.",
+   "zh": "门道；门口",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "glimpsed",
+   "lemma": "glimpse",
+   "pos": "vt.",
+   "zh": "瞥见；匆匆看到",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "glittering",
+   "lemma": "glittering",
+   "pos": "adj.",
+   "zh": "闪闪发光的；闪耀的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "spectacular",
+   "lemma": "spectacular",
+   "pos": "adj.",
+   "zh": "惊人的；壮观的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "riveted",
+   "lemma": "rivet",
+   "pos": "vt.",
+   "zh": "牢牢吸引（注意力）",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "exclusive",
+   "lemma": "exclusive",
+   "pos": "adj.",
+   "zh": "独家的；专有的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "monopoly",
+   "lemma": "monopoly",
+   "pos": "n.",
+   "zh": "垄断；独占",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "competing",
+   "lemma": "competing",
+   "pos": "adj.",
+   "zh": "相互竞争的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "starved of",
+   "lemma": "be starved of",
+   "pos": "phr.",
+   "zh": "严重缺少；极度缺乏",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "resorted to",
+   "lemma": "resort to",
+   "pos": "phr.",
+   "zh": "诉诸；（不得已）采用",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "speculation",
+   "lemma": "speculation",
+   "pos": "n.",
+   "zh": "猜测；推测",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "commentators",
+   "lemma": "commentator",
+   "pos": "n.",
+   "zh": "评论员；评论家",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "best-selling",
+   "lemma": "best-selling",
+   "pos": "adj.",
+   "zh": "畅销的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "dire",
+   "lemma": "dire",
+   "pos": "adj.",
+   "zh": "极其严重的；可怕的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "punishment",
+   "lemma": "punishment",
+   "pos": "n.",
+   "zh": "惩罚；处罚",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "tomb",
+   "lemma": "tomb",
+   "pos": "n.",
+   "zh": "陵墓；坟墓",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fortnight",
+   "lemma": "fortnight",
+   "pos": "n.",
+   "zh": "两星期；十四天",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "uncanny",
+   "lemma": "uncanny",
+   "pos": "adj.",
+   "zh": "诡异的；离奇的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "mosquito",
+   "lemma": "mosquito",
+   "pos": "n.",
+   "zh": "蚊子",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "nicked",
+   "lemma": "nick",
+   "pos": "vt.",
+   "zh": "划破；划出小口子",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "razor",
+   "lemma": "razor",
+   "pos": "n.",
+   "zh": "剃刀",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "shaving",
+   "lemma": "shave",
+   "pos": "vi.",
+   "zh": "刮胡子；剃须",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "turned septic",
+   "lemma": "turn septic",
+   "pos": "phr.",
+   "zh": "（伤口）感染化脓",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "pneumonia",
+   "lemma": "pneumonia",
+   "pos": "n.",
+   "zh": "肺炎",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "at that instant",
+   "lemma": "at that instant",
+   "pos": "adv.",
+   "zh": "在那一瞬间；就在那时",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "howled",
+   "lemma": "howl",
+   "pos": "vi.",
+   "zh": "嚎叫；嗥叫",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "blackouts",
+   "lemma": "blackout",
+   "pos": "n.",
+   "zh": "停电",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "occurrence",
+   "lemma": "occurrence",
+   "pos": "n.",
+   "zh": "发生的事；事件",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "curse",
+   "lemma": "curse",
+   "pos": "n.",
+   "zh": "诅咒；咒语",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "inscription",
+   "lemma": "inscription",
+   "pos": "n.",
+   "zh": "铭文；碑文",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "fate",
+   "lemma": "fate",
+   "pos": "n.",
+   "zh": "命运；结局",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "Egypt",
+   "lemma": "Egypt",
+   "pos": "n.",
+   "zh": "埃及",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "exposed to",
+   "lemma": "be exposed to",
+   "pos": "phr.",
+   "zh": "接触；暴露于",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "versus",
+   "lemma": "versus",
+   "pos": "prep.",
+   "zh": "与……相比；相对于",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "margin",
+   "lemma": "margin",
+   "pos": "n.",
+   "zh": "差距；差额",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "statistically",
+   "lemma": "statistically",
+   "pos": "adv.",
+   "zh": "在统计上；从统计学角度",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "significant",
+   "lemma": "significant",
+   "pos": "adj.",
+   "zh": "（统计上）显著的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "mortality",
+   "lemma": "mortality",
+   "pos": "n.",
+   "zh": "死亡数量；死亡率",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "ominous",
+   "lemma": "ominous",
+   "pos": "adj.",
+   "zh": "不祥的；预示凶兆的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "rumour",
+   "lemma": "rumour",
+   "pos": "n.",
+   "zh": "传言；谣言",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "credibility",
+   "lemma": "credibility",
+   "pos": "n.",
+   "zh": "可信度；可信性",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "untimely",
+   "lemma": "untimely",
+   "pos": "adj.",
+   "zh": "过早的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "demise",
+   "lemma": "demise",
+   "pos": "n.",
+   "zh": "死亡；离世",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fuelled",
+   "lemma": "fuel",
+   "pos": "vt.",
+   "zh": "助长；激起",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "impetus",
+   "lemma": "impetus",
+   "pos": "n.",
+   "zh": "推动力；动力",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "excavator",
+   "lemma": "excavator",
+   "pos": "n.",
+   "zh": "发掘者",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unsealed",
+   "lemma": "unseal",
+   "pos": "vt.",
+   "zh": "启封；打开",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "burial",
+   "lemma": "burial",
+   "pos": "n.",
+   "zh": "埋葬；墓葬",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "patron",
+   "lemma": "patron",
+   "pos": "n.",
+   "zh": "资助人；赞助人",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "conspicuously",
+   "lemma": "conspicuously",
+   "pos": "adv.",
+   "zh": "明显地；惹人注目地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unharmed",
+   "lemma": "unharmed",
+   "pos": "adj.",
+   "zh": "未受伤害的；安然无恙的",
+   "drop": false
+  }
+ ]
 }

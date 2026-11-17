@@ -1341,5 +1341,551 @@
   "illustration": "be3bdd9661452b3cb50660f184858b9a5684c6c1c072ca345b7fb19e8914c636"
  },
  "book_order_v4": "29",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "covert",
+   "lemma": "covert",
+   "pos": "adj.",
+   "zh": "秘密的；隐蔽的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "military",
+   "lemma": "military",
+   "pos": "adj.",
+   "zh": "军事的；军队的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "mission",
+   "lemma": "mission",
+   "pos": "n.",
+   "zh": "任务；使命",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "was named after",
+   "lemma": "be named after",
+   "pos": "phr.",
+   "zh": "以……命名；得名于",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "urgent",
+   "lemma": "urgent",
+   "pos": "adj.",
+   "zh": "紧迫的；急迫的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "resistant",
+   "lemma": "resistant",
+   "pos": "adj.",
+   "zh": "耐……的；有耐药性的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "malaria",
+   "lemma": "malaria",
+   "pos": "n.",
+   "zh": "疟疾",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "weakening",
+   "lemma": "weaken",
+   "pos": "vt.",
+   "zh": "削弱；使虚弱",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "troops",
+   "lemma": "troops",
+   "pos": "n.",
+   "zh": "部队；军队",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "Vietnam War",
+   "lemma": "Vietnam War",
+   "pos": "n.",
+   "zh": "越南战争",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "entrusted with",
+   "lemma": "be entrusted with",
+   "pos": "phr.",
+   "zh": "受托负责；受命承担",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "despite",
+   "lemma": "despite",
+   "pos": "prep.",
+   "zh": "尽管；虽然",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "doctorate",
+   "lemma": "doctorate",
+   "pos": "n.",
+   "zh": "博士学位",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "exhaustive",
+   "lemma": "exhaustive",
+   "pos": "adj.",
+   "zh": "彻底的；详尽的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "combed",
+   "lemma": "comb",
+   "pos": "vt.",
+   "zh": "仔细搜寻；仔细翻检",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "folk",
+   "lemma": "folk",
+   "pos": "adj.",
+   "zh": "民间的；民俗的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "compiled",
+   "lemma": "compile",
+   "pos": "vt.",
+   "zh": "汇编；编纂",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "prescriptions",
+   "lemma": "prescription",
+   "pos": "n.",
+   "zh": "处方；药方",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "evaluated",
+   "lemma": "evaluate",
+   "pos": "vt.",
+   "zh": "评估；评价",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "extracts",
+   "lemma": "extract",
+   "pos": "n.",
+   "zh": "提取物；浸出物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "medicinal",
+   "lemma": "medicinal",
+   "pos": "adj.",
+   "zh": "药用的；有疗效的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "herbs",
+   "lemma": "herb",
+   "pos": "n.",
+   "zh": "草药；药草",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "sweet wormwood",
+   "lemma": "sweet wormwood",
+   "pos": "n.",
+   "zh": "黄花蒿；青蒿",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "flashes",
+   "lemma": "flash",
+   "pos": "n.",
+   "zh": "闪现；突现",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "promise",
+   "lemma": "promise",
+   "pos": "n.",
+   "zh": "成功的迹象；希望",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "erratic",
+   "lemma": "erratic",
+   "pos": "adj.",
+   "zh": "不稳定的；时好时坏的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "clue",
+   "lemma": "clue",
+   "pos": "n.",
+   "zh": "线索",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "revisited",
+   "lemma": "revisit",
+   "pos": "vt.",
+   "zh": "重新审视；重新研究",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "classical",
+   "lemma": "classical",
+   "pos": "adj.",
+   "zh": "古典的；经典的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "handbook",
+   "lemma": "handbook",
+   "pos": "n.",
+   "zh": "手册；指南",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "immersed in",
+   "lemma": "be immersed in",
+   "pos": "phr.",
+   "zh": "浸泡在……中；浸没于",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "litres",
+   "lemma": "litre",
+   "pos": "n.",
+   "zh": "升",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "bypassed",
+   "lemma": "bypass",
+   "pos": "vt.",
+   "zh": "绕开；避开",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "extraction",
+   "lemma": "extraction",
+   "pos": "n.",
+   "zh": "提取；提炼",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "degrading",
+   "lemma": "degrade",
+   "pos": "vt.",
+   "zh": "降解；分解",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "delicate",
+   "lemma": "delicate",
+   "pos": "adj.",
+   "zh": "脆弱的；易损的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "component",
+   "lemma": "component",
+   "pos": "n.",
+   "zh": "成分；组成部分",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "switched to",
+   "lemma": "switch to",
+   "pos": "phr.",
+   "zh": "改用；换成",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ether",
+   "lemma": "ether",
+   "pos": "n.",
+   "zh": "乙醚",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "volatile",
+   "lemma": "volatile",
+   "pos": "adj.",
+   "zh": "易挥发的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "solvent",
+   "lemma": "solvent",
+   "pos": "n.",
+   "zh": "溶剂",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "degrees Celsius",
+   "lemma": "degree Celsius",
+   "pos": "n.",
+   "zh": "摄氏度",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "inhibited",
+   "lemma": "inhibit",
+   "pos": "vt.",
+   "zh": "抑制；阻止",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "parasite",
+   "lemma": "parasite",
+   "pos": "n.",
+   "zh": "寄生虫",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "infected",
+   "lemma": "infected",
+   "pos": "adj.",
+   "zh": "受感染的；被感染的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "efficacy",
+   "lemma": "efficacy",
+   "pos": "n.",
+   "zh": "疗效；功效",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "indicated",
+   "lemma": "indicate",
+   "pos": "vt.",
+   "zh": "表明；说明",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "assess",
+   "lemma": "assess",
+   "pos": "vt.",
+   "zh": "评估；评定",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "toxicity",
+   "lemma": "toxicity",
+   "pos": "n.",
+   "zh": "毒性",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "voluntarily",
+   "lemma": "voluntarily",
+   "pos": "adv.",
+   "zh": "自愿地；主动地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "thereafter",
+   "lemma": "thereafter",
+   "pos": "adv.",
+   "zh": "此后；之后",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "administered to",
+   "lemma": "administer sth to sb",
+   "pos": "phr.",
+   "zh": "对……施用（药物）",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "patients",
+   "lemma": "patient",
+   "pos": "n.",
+   "zh": "病人；患者",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "obtained",
+   "lemma": "obtain",
+   "pos": "vt.",
+   "zh": "获得；得到",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "crystals",
+   "lemma": "crystal",
+   "pos": "n.",
+   "zh": "晶体；结晶",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "substance",
+   "lemma": "substance",
+   "pos": "n.",
+   "zh": "物质",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "recipient",
+   "lemma": "recipient",
+   "pos": "n.",
+   "zh": "获得者；得主",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "jury",
+   "lemma": "jury",
+   "pos": "n.",
+   "zh": "评审团；评委会",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "credited with",
+   "lemma": "credit sb/sth with sth",
+   "pos": "phr.",
+   "zh": "把……归功于……",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "Physiology",
+   "lemma": "physiology",
+   "pos": "n.",
+   "zh": "生理学",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "laureate",
+   "lemma": "laureate",
+   "pos": "n.",
+   "zh": "获奖者；得主",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "guidelines",
+   "lemma": "guideline",
+   "pos": "n.",
+   "zh": "指南；指导方针",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "endorsed",
+   "lemma": "endorse",
+   "pos": "vt.",
+   "zh": "公开支持；赞同",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "combination",
+   "lemma": "combination",
+   "pos": "n.",
+   "zh": "联合；组合",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "therapies",
+   "lemma": "therapy",
+   "pos": "n.",
+   "zh": "疗法；治疗",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "deadliest",
+   "lemma": "deadly",
+   "pos": "adj.",
+   "zh": "致命的；致死的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "essence",
+   "lemma": "essence",
+   "pos": "n.",
+   "zh": "精髓；本质",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "skipped",
+   "lemma": "skip",
+   "pos": "vt.",
+   "zh": "跳过；略去",
+   "drop": false
+  }
+ ]
 }

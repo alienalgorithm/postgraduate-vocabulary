@@ -1092,5 +1092,463 @@
   "illustration": "4c607f3b379e3bd301039815d488ff08527f2e05b7cf60ea8b541dc83fdd134f"
  },
  "book_order_v4": "09",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "homicide",
+   "lemma": "homicide",
+   "pos": "n.",
+   "zh": "凶杀案；杀人案",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "unsolved",
+   "lemma": "unsolved",
+   "pos": "adj.",
+   "zh": "未侦破的；未解决的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "slain",
+   "lemma": "slay",
+   "pos": "vt.",
+   "zh": "杀害；杀死",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "neighbouring",
+   "lemma": "neighbouring",
+   "pos": "adj.",
+   "zh": "邻近的；相邻的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "confessed",
+   "lemma": "confess",
+   "pos": "vi.",
+   "zh": "供认；招认",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "detectives",
+   "lemma": "detective",
+   "pos": "n.",
+   "zh": "警探；侦探",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "perplexing",
+   "lemma": "perplexing",
+   "pos": "adj.",
+   "zh": "令人困惑的；费解的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "investigation",
+   "lemma": "investigation",
+   "pos": "n.",
+   "zh": "调查；侦查",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "seemingly",
+   "lemma": "seemingly",
+   "pos": "adv.",
+   "zh": "似乎；看似",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "resolved",
+   "lemma": "resolve",
+   "pos": "vt.",
+   "zh": "解决；了结",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "revelation",
+   "lemma": "revelation",
+   "pos": "n.",
+   "zh": "意外的发现；揭示",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "previously",
+   "lemma": "previously",
+   "pos": "adv.",
+   "zh": "以前；先前",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "geneticist",
+   "lemma": "geneticist",
+   "pos": "n.",
+   "zh": "遗传学家",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "discerned",
+   "lemma": "discern",
+   "pos": "vt.",
+   "zh": "看出；辨认出",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "molecular",
+   "lemma": "molecular",
+   "pos": "adj.",
+   "zh": "分子的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "markers",
+   "lemma": "marker",
+   "pos": "n.",
+   "zh": "标记；标志物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "layout",
+   "lemma": "layout",
+   "pos": "n.",
+   "zh": "排列方式；布局",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "varied",
+   "lemma": "vary",
+   "pos": "vi.",
+   "zh": "各不相同；有差异",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "considerably",
+   "lemma": "considerably",
+   "pos": "adv.",
+   "zh": "相当大地；非常",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "differentiated",
+   "lemma": "differentiate",
+   "pos": "vt.",
+   "zh": "区分；区别",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "promptly",
+   "lemma": "promptly",
+   "pos": "adv.",
+   "zh": "迅速地；立即",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "enlisted",
+   "lemma": "enlist",
+   "pos": "vt.",
+   "zh": "请……相助；争取（帮助）",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "genetic",
+   "lemma": "genetic",
+   "pos": "adj.",
+   "zh": "基因的；遗传的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "overturned",
+   "lemma": "overturn",
+   "pos": "vt.",
+   "zh": "推翻；撤销",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "erroneous",
+   "lemma": "erroneous",
+   "pos": "adj.",
+   "zh": "错误的；不正确的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "confession",
+   "lemma": "confession",
+   "pos": "n.",
+   "zh": "供词；供认",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "perpetrator",
+   "lemma": "perpetrator",
+   "pos": "n.",
+   "zh": "作恶者；行凶者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "attacker",
+   "lemma": "attacker",
+   "pos": "n.",
+   "zh": "袭击者；攻击者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "forensic",
+   "lemma": "forensic",
+   "pos": "adj.",
+   "zh": "法医的；刑侦的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "innovation",
+   "lemma": "innovation",
+   "pos": "n.",
+   "zh": "新方法；创新",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "innocent",
+   "lemma": "innocent",
+   "pos": "n.",
+   "zh": "无辜者；清白的人",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "implicated",
+   "lemma": "implicate",
+   "pos": "vt.",
+   "zh": "牵连；表明……涉案",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "commenced",
+   "lemma": "commence",
+   "pos": "vt.",
+   "zh": "开始；着手",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "large-scale",
+   "lemma": "large-scale",
+   "pos": "adj.",
+   "zh": "大规模的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "screening",
+   "lemma": "screening",
+   "pos": "n.",
+   "zh": "筛查；检查",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "saliva",
+   "lemma": "saliva",
+   "pos": "n.",
+   "zh": "唾液；口水",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "elusive",
+   "lemma": "elusive",
+   "pos": "adj.",
+   "zh": "难以找到的；难以捉住的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "baker",
+   "lemma": "baker",
+   "pos": "n.",
+   "zh": "面包师",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "induced",
+   "lemma": "induce",
+   "pos": "vt.",
+   "zh": "诱使；劝说",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "co-worker",
+   "lemma": "co-worker",
+   "pos": "n.",
+   "zh": "同事",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "evading",
+   "lemma": "evade",
+   "pos": "vt.",
+   "zh": "躲避；逃避",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "suspicion",
+   "lemma": "suspicion",
+   "pos": "n.",
+   "zh": "怀疑；嫌疑",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "overheard",
+   "lemma": "overhear",
+   "pos": "vt.",
+   "zh": "无意中听到；偶然听到",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "substitution",
+   "lemma": "substitution",
+   "pos": "n.",
+   "zh": "顶替；替换",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "notified",
+   "lemma": "notify",
+   "pos": "vt.",
+   "zh": "通知；告知",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "detained",
+   "lemma": "detain",
+   "pos": "vt.",
+   "zh": "拘留；扣押",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "profile",
+   "lemma": "profile",
+   "pos": "n.",
+   "zh": "（DNA等的）图谱",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "pleaded",
+   "lemma": "plead",
+   "pos": "vi.",
+   "zh": "（在法庭上）承认",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "jailed",
+   "lemma": "jail",
+   "pos": "vt.",
+   "zh": "监禁；判……入狱",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "convicted of",
+   "lemma": "convict sb of sth",
+   "pos": "phr.",
+   "zh": "判定某人犯有……罪",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "tip-off",
+   "lemma": "tip-off",
+   "pos": "n.",
+   "zh": "密报；举报",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unmasked",
+   "lemma": "unmask",
+   "pos": "vt.",
+   "zh": "揭穿；揭露……的真面目",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "beneficiary",
+   "lemma": "beneficiary",
+   "pos": "n.",
+   "zh": "受益者；受惠人",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "blameless",
+   "lemma": "blameless",
+   "pos": "adj.",
+   "zh": "清白的；无过错的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "juvenile",
+   "lemma": "juvenile",
+   "pos": "n.",
+   "zh": "少年；未成年人",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "falsely",
+   "lemma": "falsely",
+   "pos": "adv.",
+   "zh": "虚假地；不实地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "offence",
+   "lemma": "offence",
+   "pos": "n.",
+   "zh": "罪行；违法行为",
+   "drop": false
+  }
+ ]
 }

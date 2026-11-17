@@ -1177,5 +1177,479 @@
   "illustration": "cd8fa9a10617051bb1dfad9c52ce5a7b95ecde8f224d75a83848f5c2416859e4"
  },
  "book_order_v4": "45",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "envoys",
+   "lemma": "envoy",
+   "pos": "n.",
+   "zh": "使者；代表",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "squat",
+   "lemma": "squat",
+   "pos": "adj.",
+   "zh": "矮胖的；矮墩墩的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "bench",
+   "lemma": "bench",
+   "pos": "n.",
+   "zh": "工作台",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "gleaming",
+   "lemma": "gleaming",
+   "pos": "adj.",
+   "zh": "闪闪发亮的；锃亮的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "bolted",
+   "lemma": "bolt",
+   "pos": "vt.",
+   "zh": "用螺栓固定",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "valves",
+   "lemma": "valve",
+   "pos": "n.",
+   "zh": "阀门；阀",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "crushing",
+   "lemma": "crushing",
+   "pos": "adj.",
+   "zh": "极大的；压倒性的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "furnace",
+   "lemma": "furnace",
+   "pos": "n.",
+   "zh": "熔炉；炉子",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "transparent",
+   "lemma": "transparent",
+   "pos": "adj.",
+   "zh": "透明的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "beads",
+   "lemma": "bead",
+   "pos": "n.",
+   "zh": "（液体的）小滴",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "ammonia",
+   "lemma": "ammonia",
+   "pos": "n.",
+   "zh": "氨",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "drip",
+   "lemma": "drip",
+   "pos": "vi.",
+   "zh": "滴落；滴下",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "slowly",
+   "lemma": "slowly",
+   "pos": "adv.",
+   "zh": "缓缓地；缓慢地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "pried from",
+   "lemma": "pry sth from sth",
+   "pos": "phr.",
+   "zh": "从……撬出；费力获取",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "nourishment",
+   "lemma": "nourishment",
+   "pos": "n.",
+   "zh": "养分；营养",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "scaled up",
+   "lemma": "scale sth up",
+   "pos": "phr.",
+   "zh": "扩大……的规模",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "gigantic",
+   "lemma": "gigantic",
+   "pos": "adj.",
+   "zh": "庞大的；巨大的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mass-produced",
+   "lemma": "mass-produce",
+   "pos": "vt.",
+   "zh": "大批量生产",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Hailed for",
+   "lemma": "hail sb for sth",
+   "pos": "phr.",
+   "zh": "因……而赞扬某人",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "coveted",
+   "lemma": "coveted",
+   "pos": "adj.",
+   "zh": "令人垂涎的；梦寐以求的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Ploughed into",
+   "lemma": "plough sth into sth",
+   "pos": "phr.",
+   "zh": "把……翻耕进（土里）",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "stony",
+   "lemma": "stony",
+   "pos": "adj.",
+   "zh": "多石的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "soils",
+   "lemma": "soil",
+   "pos": "n.",
+   "zh": "土壤",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fertiliser",
+   "lemma": "fertiliser",
+   "pos": "n.",
+   "zh": "化肥；肥料",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "wards off",
+   "lemma": "ward off",
+   "pos": "phr.",
+   "zh": "抵御；防止",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "famine",
+   "lemma": "famine",
+   "pos": "n.",
+   "zh": "饥荒",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "manure",
+   "lemma": "manure",
+   "pos": "n.",
+   "zh": "粪肥；肥料",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "heap",
+   "lemma": "heap",
+   "pos": "n.",
+   "zh": "堆；堆积物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "abundance",
+   "lemma": "abundance",
+   "pos": "n.",
+   "zh": "丰饶；充裕",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mankind",
+   "lemma": "mankind",
+   "pos": "n.",
+   "zh": "人类",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ambition",
+   "lemma": "ambition",
+   "pos": "n.",
+   "zh": "雄心；抱负",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sinister",
+   "lemma": "sinister",
+   "pos": "adj.",
+   "zh": "险恶的；邪恶的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "stocked with",
+   "lemma": "stock sth with sth",
+   "pos": "phr.",
+   "zh": "用……充实；用……装满",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "arsenal",
+   "lemma": "arsenal",
+   "pos": "n.",
+   "zh": "军火库；武器库",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "munitions",
+   "lemma": "munitions",
+   "pos": "n.",
+   "zh": "弹药；军火",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "blockade",
+   "lemma": "blockade",
+   "pos": "n.",
+   "zh": "封锁",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "marshalled",
+   "lemma": "marshal",
+   "pos": "vt.",
+   "zh": "组织；调度",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "vented",
+   "lemma": "vent",
+   "pos": "vt.",
+   "zh": "排放；排出",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "greenish",
+   "lemma": "greenish",
+   "pos": "adj.",
+   "zh": "带绿色的；略呈绿色的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "poisonous",
+   "lemma": "poisonous",
+   "pos": "adj.",
+   "zh": "有毒的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "trenches",
+   "lemma": "trench",
+   "pos": "n.",
+   "zh": "战壕",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "onslaught",
+   "lemma": "onslaught",
+   "pos": "n.",
+   "zh": "猛攻；猛烈攻击",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "doctoral",
+   "lemma": "doctoral",
+   "pos": "adj.",
+   "zh": "博士的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "objections to",
+   "lemma": "objection to",
+   "pos": "n.",
+   "zh": "对……的反对；异议",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "festivities",
+   "lemma": "festivities",
+   "pos": "n.",
+   "zh": "庆祝活动",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "pistol",
+   "lemma": "pistol",
+   "pos": "n.",
+   "zh": "手枪",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "widower",
+   "lemma": "widower",
+   "pos": "n.",
+   "zh": "鳏夫；丧妻的男人",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "prestige",
+   "lemma": "prestige",
+   "pos": "n.",
+   "zh": "声望；威望",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sanctuary",
+   "lemma": "sanctuary",
+   "pos": "n.",
+   "zh": "庇护；避难所",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "Jewish",
+   "lemma": "Jewish",
+   "pos": "adj.",
+   "zh": "犹太的；犹太人的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "outcast",
+   "lemma": "outcast",
+   "pos": "n.",
+   "zh": "被驱逐的人；被排斥者",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "regime",
+   "lemma": "regime",
+   "pos": "n.",
+   "zh": "政权",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "seized",
+   "lemma": "seize",
+   "pos": "vt.",
+   "zh": "夺取；攫取",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "pesticide",
+   "lemma": "pesticide",
+   "pos": "n.",
+   "zh": "杀虫剂；农药",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "variant",
+   "lemma": "variant",
+   "pos": "n.",
+   "zh": "变体；变种",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "relatives",
+   "lemma": "relative",
+   "pos": "n.",
+   "zh": "亲属；亲戚",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "nitrogen",
+   "lemma": "nitrogen",
+   "pos": "n.",
+   "zh": "氮",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "proteins",
+   "lemma": "protein",
+   "pos": "n.",
+   "zh": "蛋白质",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "passed through",
+   "lemma": "pass through",
+   "pos": "phr.",
+   "zh": "经过；穿过",
+   "drop": false
+  }
+ ]
 }

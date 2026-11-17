@@ -1224,5 +1224,511 @@
   "illustration": "1bfde27147900dc489ead3a6e817dbbd88b09cc406fe18ee571654b7cf247841"
  },
  "book_order_v4": "63",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "issued",
+   "lemma": "issue",
+   "pos": "vt.",
+   "zh": "发出；发布",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "stark",
+   "lemma": "stark",
+   "pos": "adj.",
+   "zh": "严峻的；不容回避的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "alert",
+   "lemma": "alert",
+   "pos": "n.",
+   "zh": "警报；警告",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "denoted",
+   "lemma": "denote",
+   "pos": "vt.",
+   "zh": "表示；指",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "grim",
+   "lemma": "grim",
+   "pos": "adj.",
+   "zh": "严酷的；令人沮丧的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "threshold",
+   "lemma": "threshold",
+   "pos": "n.",
+   "zh": "门槛；临界点",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "reservoirs",
+   "lemma": "reservoir",
+   "pos": "n.",
+   "zh": "水库；蓄水池",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "percentage",
+   "lemma": "percentage",
+   "pos": "n.",
+   "zh": "百分比；比例",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "capacity",
+   "lemma": "capacity",
+   "pos": "n.",
+   "zh": "容量；容积",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "taps",
+   "lemma": "tap",
+   "pos": "n.",
+   "zh": "水龙头",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "residents",
+   "lemma": "resident",
+   "pos": "n.",
+   "zh": "居民；住户",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "queue",
+   "lemma": "queue",
+   "pos": "vi.",
+   "zh": "排队",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "designated",
+   "lemma": "designated",
+   "pos": "adj.",
+   "zh": "指定的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "prospect",
+   "lemma": "prospect",
+   "pos": "n.",
+   "zh": "前景；可能性",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "genuine",
+   "lemma": "genuine",
+   "pos": "adj.",
+   "zh": "真实的；真正的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "consecutive",
+   "lemma": "consecutive",
+   "pos": "adj.",
+   "zh": "连续的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "meagre",
+   "lemma": "meagre",
+   "pos": "adj.",
+   "zh": "少量的；贫乏的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "diminished",
+   "lemma": "diminish",
+   "pos": "vt.",
+   "zh": "减少；削弱",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "metropolitan area",
+   "lemma": "metropolitan area",
+   "pos": "n.",
+   "zh": "大都市区；都市圈",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "dams",
+   "lemma": "dam",
+   "pos": "n.",
+   "zh": "（筑坝形成的）水库",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "roughly",
+   "lemma": "roughly",
+   "pos": "adv.",
+   "zh": "大约；大致",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "countdown",
+   "lemma": "countdown",
+   "pos": "n.",
+   "zh": "倒计时",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "chronic",
+   "lemma": "chronic",
+   "pos": "adj.",
+   "zh": "长期的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "shortage",
+   "lemma": "shortage",
+   "pos": "n.",
+   "zh": "短缺；不足",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "imminent",
+   "lemma": "imminent",
+   "pos": "adj.",
+   "zh": "迫在眉睫的；即将发生的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "deadline",
+   "lemma": "deadline",
+   "pos": "n.",
+   "zh": "最后期限；截止日期",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "mandatory",
+   "lemma": "mandatory",
+   "pos": "adj.",
+   "zh": "强制性的；法定的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "restrictions",
+   "lemma": "restriction",
+   "pos": "n.",
+   "zh": "限制；限制措施",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unprecedented",
+   "lemma": "unprecedented",
+   "pos": "adj.",
+   "zh": "前所未有的；史无前例的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "transparency",
+   "lemma": "transparency",
+   "pos": "n.",
+   "zh": "透明度；公开",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "allotted",
+   "lemma": "allot",
+   "pos": "vt.",
+   "zh": "分配；配给",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "litres",
+   "lemma": "litre",
+   "pos": "n.",
+   "zh": "升",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "officials",
+   "lemma": "official",
+   "pos": "n.",
+   "zh": "官员",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "disclosed",
+   "lemma": "disclose",
+   "pos": "vt.",
+   "zh": "公布；披露",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "household",
+   "lemma": "household",
+   "pos": "adj.",
+   "zh": "家庭的；家用的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "consumption",
+   "lemma": "consumption",
+   "pos": "n.",
+   "zh": "消耗量；消耗",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "tallies",
+   "lemma": "tally",
+   "pos": "n.",
+   "zh": "统计数字；计数",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "thrift",
+   "lemma": "thrift",
+   "pos": "n.",
+   "zh": "节俭；节约",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "visible",
+   "lemma": "visible",
+   "pos": "adj.",
+   "zh": "看得见的；明显的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "benchmark",
+   "lemma": "benchmark",
+   "pos": "vt.",
+   "zh": "对标；对照基准比较",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "halved",
+   "lemma": "halve",
+   "pos": "vt.",
+   "zh": "使减半",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "intervened",
+   "lemma": "intervene",
+   "pos": "vi.",
+   "zh": "介入；干预",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "upstream",
+   "lemma": "upstream",
+   "pos": "adj.",
+   "zh": "上游的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "irrigation",
+   "lemma": "irrigation",
+   "pos": "n.",
+   "zh": "灌溉",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "postponed",
+   "lemma": "postpone",
+   "pos": "vt.",
+   "zh": "推迟；延期",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unlikely",
+   "lemma": "unlikely",
+   "pos": "adj.",
+   "zh": "不太可能的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "subsequently",
+   "lemma": "subsequently",
+   "pos": "adv.",
+   "zh": "随后；后来",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "replenished",
+   "lemma": "replenish",
+   "pos": "vt.",
+   "zh": "补充；重新装满",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "eased",
+   "lemma": "ease",
+   "pos": "vt.",
+   "zh": "放宽；放松",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "burden",
+   "lemma": "burden",
+   "pos": "n.",
+   "zh": "负担；重担",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unevenly",
+   "lemma": "unevenly",
+   "pos": "adv.",
+   "zh": "不均衡地；不均匀地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "townships",
+   "lemma": "township",
+   "pos": "n.",
+   "zh": "（南非的）黑人城镇区",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "segregated",
+   "lemma": "segregate",
+   "pos": "vt.",
+   "zh": "（按种族等）隔离",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "apartheid",
+   "lemma": "apartheid",
+   "pos": "n.",
+   "zh": "种族隔离制度",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "made do with",
+   "lemma": "make do with",
+   "pos": "phr.",
+   "zh": "将就使用；勉强凑合",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "scant",
+   "lemma": "scant",
+   "pos": "adj.",
+   "zh": "很少的；不足的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "steeper",
+   "lemma": "steep",
+   "pos": "adj.",
+   "zh": "（价格）过高的；昂贵的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "tariffs",
+   "lemma": "tariff",
+   "pos": "n.",
+   "zh": "（水电等的）收费标准",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "squeezed",
+   "lemma": "squeeze",
+   "pos": "vt.",
+   "zh": "压榨；使拮据",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "alarmist",
+   "lemma": "alarmist",
+   "pos": "adj.",
+   "zh": "危言耸听的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cancellations",
+   "lemma": "cancellation",
+   "pos": "n.",
+   "zh": "取消",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "idle",
+   "lemma": "idle",
+   "pos": "adj.",
+   "zh": "闲置的；未被使用的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sacrifice",
+   "lemma": "sacrifice",
+   "pos": "n.",
+   "zh": "牺牲；舍弃",
+   "drop": false
+  }
+ ]
 }

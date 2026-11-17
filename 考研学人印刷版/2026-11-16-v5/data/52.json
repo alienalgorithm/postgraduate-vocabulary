@@ -1182,5 +1182,519 @@
   "illustration": "4154754ecb0eecf76076c0b1e17f3c019f6d3764060a457bb1a7f2deafab6bb9"
  },
  "book_order_v4": "52",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "veterans",
+   "lemma": "veteran",
+   "pos": "n.",
+   "zh": "退伍军人；老兵",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "settlers",
+   "lemma": "settler",
+   "pos": "n.",
+   "zh": "定居者；移民",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "marginal",
+   "lemma": "marginal",
+   "pos": "adj.",
+   "zh": "（土地）贫瘠的；边缘的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "parcels",
+   "lemma": "parcel",
+   "pos": "n.",
+   "zh": "（土地的）一块；一片",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "farmland",
+   "lemma": "farmland",
+   "pos": "n.",
+   "zh": "农田；耕地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "inexperienced",
+   "lemma": "inexperienced",
+   "pos": "adj.",
+   "zh": "缺乏经验的；无经验的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "growers",
+   "lemma": "grower",
+   "pos": "n.",
+   "zh": "种植者",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "a quarter",
+   "lemma": "quarter",
+   "pos": "n.",
+   "zh": "四分之一",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "drought",
+   "lemma": "drought",
+   "pos": "n.",
+   "zh": "旱灾；干旱",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "swarmed",
+   "lemma": "swarm",
+   "pos": "vi.",
+   "zh": "蜂拥而至；成群移动",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "arid",
+   "lemma": "arid",
+   "pos": "adj.",
+   "zh": "干旱的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "in flocks",
+   "lemma": "in flocks",
+   "pos": "adv.",
+   "zh": "成群地；一群群地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "trampled",
+   "lemma": "trample",
+   "pos": "vt.",
+   "zh": "践踏；踩坏",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "crops",
+   "lemma": "crop",
+   "pos": "n.",
+   "zh": "庄稼；作物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "plight",
+   "lemma": "plight",
+   "pos": "n.",
+   "zh": "困境；苦境",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "In desperation",
+   "lemma": "in desperation",
+   "pos": "adv.",
+   "zh": "绝望之中；走投无路之下",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "delegation",
+   "lemma": "delegation",
+   "pos": "n.",
+   "zh": "代表团",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "aired",
+   "lemma": "air",
+   "pos": "vt.",
+   "zh": "公开表达；公开发表",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "grievances",
+   "lemma": "grievance",
+   "pos": "n.",
+   "zh": "不满；委屈",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "machine-guns",
+   "lemma": "machine gun",
+   "pos": "n.",
+   "zh": "机枪",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "battalion",
+   "lemma": "battalion",
+   "pos": "n.",
+   "zh": "（军队的）营",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "detachment",
+   "lemma": "detachment",
+   "pos": "n.",
+   "zh": "小分队；支队",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "artillery",
+   "lemma": "artillery",
+   "pos": "n.",
+   "zh": "炮兵",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ammunition",
+   "lemma": "ammunition",
+   "pos": "n.",
+   "zh": "弹药",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "offensive",
+   "lemma": "offensive",
+   "pos": "n.",
+   "zh": "进攻；攻势",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ambush",
+   "lemma": "ambush",
+   "pos": "n.",
+   "zh": "埋伏；伏击",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "jammed",
+   "lemma": "jam",
+   "pos": "vi.",
+   "zh": "卡住；卡壳",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "formation",
+   "lemma": "formation",
+   "pos": "n.",
+   "zh": "队形；编队",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "agile",
+   "lemma": "agile",
+   "pos": "adj.",
+   "zh": "灵活的；敏捷的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "frustrating",
+   "lemma": "frustrate",
+   "pos": "vt.",
+   "zh": "挫败；使落空",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "tactical",
+   "lemma": "tactical",
+   "pos": "adj.",
+   "zh": "战术的；战术上的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "futile",
+   "lemma": "futile",
+   "pos": "adj.",
+   "zh": "徒劳的；无效的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "wasteful",
+   "lemma": "wasteful",
+   "pos": "adj.",
+   "zh": "浪费的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ludicrous",
+   "lemma": "ludicrous",
+   "pos": "adj.",
+   "zh": "荒唐可笑的；荒谬的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "parliamentary",
+   "lemma": "parliamentary",
+   "pos": "adj.",
+   "zh": "议会的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ridicule",
+   "lemma": "ridicule",
+   "pos": "n.",
+   "zh": "嘲笑；奚落",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "embarrassing",
+   "lemma": "embarrassing",
+   "pos": "adj.",
+   "zh": "令人尴尬的；难堪的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "withdrawal",
+   "lemma": "withdrawal",
+   "pos": "n.",
+   "zh": "撤退；撤出",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "was recalled",
+   "lemma": "recall",
+   "pos": "vt.",
+   "zh": "召回",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "memo",
+   "lemma": "memo",
+   "pos": "n.",
+   "zh": "备忘录",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "inventory",
+   "lemma": "inventory",
+   "pos": "n.",
+   "zh": "清单；详细目录",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "ratio",
+   "lemma": "ratio",
+   "pos": "n.",
+   "zh": "比例；比率",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "bullets",
+   "lemma": "bullet",
+   "pos": "n.",
+   "zh": "子弹",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "likened to",
+   "lemma": "liken sth to sth",
+   "pos": "phr.",
+   "zh": "把……比作……",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "resilient",
+   "lemma": "resilient",
+   "pos": "adj.",
+   "zh": "能承受打击的；有韧性的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "toughness",
+   "lemma": "toughness",
+   "pos": "n.",
+   "zh": "坚韧；强韧",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "armour",
+   "lemma": "armour",
+   "pos": "n.",
+   "zh": "装甲",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "warfare",
+   "lemma": "warfare",
+   "pos": "n.",
+   "zh": "战事；作战",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "barely",
+   "lemma": "barely",
+   "pos": "adv.",
+   "zh": "几乎不；几乎没有",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "dented",
+   "lemma": "dent",
+   "pos": "vt.",
+   "zh": "削弱；损害",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "hardy",
+   "lemma": "hardy",
+   "pos": "adj.",
+   "zh": "顽强的；耐受力强的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "endurance",
+   "lemma": "endurance",
+   "pos": "n.",
+   "zh": "耐力；耐受力",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "pleas",
+   "lemma": "plea",
+   "pos": "n.",
+   "zh": "恳求；请求",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "reinforcements",
+   "lemma": "reinforcements",
+   "pos": "n.",
+   "zh": "援军；增援部队",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "intervention",
+   "lemma": "intervention",
+   "pos": "n.",
+   "zh": "干预；介入",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "gave way to",
+   "lemma": "give way to",
+   "pos": "phr.",
+   "zh": "让位于；转变为",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "bounty",
+   "lemma": "bounty",
+   "pos": "n.",
+   "zh": "悬赏；赏金",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "sanctioned",
+   "lemma": "sanction",
+   "pos": "vt.",
+   "zh": "批准；认可",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "payout",
+   "lemma": "payout",
+   "pos": "n.",
+   "zh": "（一笔）付款；支出",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "compensation",
+   "lemma": "compensation",
+   "pos": "n.",
+   "zh": "补偿；赔偿",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "incentive",
+   "lemma": "incentive",
+   "pos": "n.",
+   "zh": "激励；动力",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "extermination",
+   "lemma": "extermination",
+   "pos": "n.",
+   "zh": "彻底消灭；灭绝",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "claimed",
+   "lemma": "claim",
+   "pos": "vt.",
+   "zh": "申领；索要",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "payments",
+   "lemma": "payment",
+   "pos": "n.",
+   "zh": "款项；付款",
+   "drop": false
+  }
+ ]
 }

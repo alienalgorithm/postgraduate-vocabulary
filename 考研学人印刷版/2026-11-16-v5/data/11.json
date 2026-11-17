@@ -1187,5 +1187,503 @@
   "illustration": "3a2495ea23a81d6380bd0aca7a293afc41847c6e6a21c16c9f16c60134696c42"
  },
  "book_order_v4": "04",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "brew",
+   "lemma": "brew",
+   "pos": "n.",
+   "zh": "调制的混合液；调制饮品",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "broth",
+   "lemma": "broth",
+   "pos": "n.",
+   "zh": "清汤；肉汤",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "microbial",
+   "lemma": "microbial",
+   "pos": "adj.",
+   "zh": "微生物的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "scraped",
+   "lemma": "scrape",
+   "pos": "vt.",
+   "zh": "刮；刮下",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "prevalent",
+   "lemma": "prevalent",
+   "pos": "adj.",
+   "zh": "盛行的；流行的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "doctrine",
+   "lemma": "doctrine",
+   "pos": "n.",
+   "zh": "学说；信条",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ulcers",
+   "lemma": "ulcer",
+   "pos": "n.",
+   "zh": "溃疡",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "spicy",
+   "lemma": "spicy",
+   "pos": "adj.",
+   "zh": "辛辣的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "acid",
+   "lemma": "acid",
+   "pos": "n.",
+   "zh": "酸；胃酸",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "secretion",
+   "lemma": "secretion",
+   "pos": "n.",
+   "zh": "分泌",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "bacterium",
+   "lemma": "bacterium",
+   "pos": "n.",
+   "zh": "细菌",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "profession",
+   "lemma": "profession",
+   "pos": "n.",
+   "zh": "业界；同行",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "firmly",
+   "lemma": "firmly",
+   "pos": "adv.",
+   "zh": "坚定地；坚决地",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "withstand",
+   "lemma": "withstand",
+   "pos": "vt.",
+   "zh": "经受住；承受住",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "caustic",
+   "lemma": "caustic",
+   "pos": "adj.",
+   "zh": "腐蚀性的；苛性的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "hostile",
+   "lemma": "hostile",
+   "pos": "adj.",
+   "zh": "（环境）恶劣的；不利的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "habitat",
+   "lemma": "habitat",
+   "pos": "n.",
+   "zh": "栖息地；生存环境",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "pathologist",
+   "lemma": "pathologist",
+   "pos": "n.",
+   "zh": "病理学家",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "coiled",
+   "lemma": "coiled",
+   "pos": "adj.",
+   "zh": "盘绕的；螺旋状的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "gastric",
+   "lemma": "gastric",
+   "pos": "adj.",
+   "zh": "胃的；胃部的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "biopsies",
+   "lemma": "biopsy",
+   "pos": "n.",
+   "zh": "活检样本；活组织检查",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "collaborate",
+   "lemma": "collaborate",
+   "pos": "vi.",
+   "zh": "合作；协作",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "attempts",
+   "lemma": "attempt",
+   "pos": "n.",
+   "zh": "尝试；企图",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "culture",
+   "lemma": "culture",
+   "pos": "vt.",
+   "zh": "培养（细菌、细胞等）",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "germ",
+   "lemma": "germ",
+   "pos": "n.",
+   "zh": "病菌；细菌",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "invariably",
+   "lemma": "invariably",
+   "pos": "adv.",
+   "zh": "总是；无一例外地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unsuccessful",
+   "lemma": "unsuccessful",
+   "pos": "adj.",
+   "zh": "不成功的；失败的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "undisturbed",
+   "lemma": "undisturbed",
+   "pos": "adj.",
+   "zh": "原封不动的；未受干扰的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "incubator",
+   "lemma": "incubator",
+   "pos": "n.",
+   "zh": "培养箱；恒温箱",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ordinarily",
+   "lemma": "ordinarily",
+   "pos": "adv.",
+   "zh": "通常；一般",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "binned",
+   "lemma": "bin",
+   "pos": "vt.",
+   "zh": "扔掉；丢弃",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "blossomed",
+   "lemma": "blossom",
+   "pos": "vi.",
+   "zh": "蓬勃生长；迅速发展",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "organism",
+   "lemma": "organism",
+   "pos": "n.",
+   "zh": "生物；生物体",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unimpressed",
+   "lemma": "unimpressed",
+   "pos": "adj.",
+   "zh": "不以为然的；印象不佳的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "assessors",
+   "lemma": "assessor",
+   "pos": "n.",
+   "zh": "评审员；评估员",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "relegated",
+   "lemma": "relegate",
+   "pos": "vt.",
+   "zh": "使降级；使降格",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "submissions",
+   "lemma": "submission",
+   "pos": "n.",
+   "zh": "投稿；提交的材料",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "efforts",
+   "lemma": "effort",
+   "pos": "n.",
+   "zh": "努力；尝试",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "swine",
+   "lemma": "swine",
+   "pos": "n.",
+   "zh": "猪",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "likewise",
+   "lemma": "likewise",
+   "pos": "adv.",
+   "zh": "同样地；类似地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "in vain",
+   "lemma": "in vain",
+   "pos": "phr.",
+   "zh": "徒劳；白费",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "guinea pig",
+   "lemma": "guinea pig",
+   "pos": "n.",
+   "zh": "实验对象；试验品",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "vomiting",
+   "lemma": "vomit",
+   "pos": "vi.",
+   "zh": "呕吐",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "disagreeable",
+   "lemma": "disagreeable",
+   "pos": "adj.",
+   "zh": "令人不快的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "odour",
+   "lemma": "odour",
+   "pos": "n.",
+   "zh": "气味；臭味",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "weariness",
+   "lemma": "weariness",
+   "pos": "n.",
+   "zh": "疲倦；劳累",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "set in",
+   "lemma": "set in",
+   "pos": "phr.",
+   "zh": "（坏事）开始出现并持续",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "revealed",
+   "lemma": "reveal",
+   "pos": "vt.",
+   "zh": "显示出；表明",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "inflammation",
+   "lemma": "inflammation",
+   "pos": "n.",
+   "zh": "炎症；发炎",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "mucous membrane",
+   "lemma": "mucous membrane",
+   "pos": "n.",
+   "zh": "黏膜",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "precursor",
+   "lemma": "precursor",
+   "pos": "n.",
+   "zh": "前兆；先兆",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "albeit",
+   "lemma": "albeit",
+   "pos": "conj.",
+   "zh": "尽管；虽然",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cultured",
+   "lemma": "culture",
+   "pos": "vt.",
+   "zh": "",
+   "drop": true
+  },
+  {
+   "para": 5,
+   "term": "directly",
+   "lemma": "directly",
+   "pos": "adv.",
+   "zh": "直接地",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "Spurred on",
+   "lemma": "spur sb on",
+   "pos": "phr.",
+   "zh": "鞭策；催促",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "insistent",
+   "lemma": "insistent",
+   "pos": "adj.",
+   "zh": "坚决要求的；坚持的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "spouse",
+   "lemma": "spouse",
+   "pos": "n.",
+   "zh": "配偶",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "antibiotics",
+   "lemma": "antibiotic",
+   "pos": "n.",
+   "zh": "抗生素",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "medication",
+   "lemma": "medication",
+   "pos": "n.",
+   "zh": "药物；药剂",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "role",
+   "lemma": "role",
+   "pos": "n.",
+   "zh": "作用",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "willingly",
+   "lemma": "willingly",
+   "pos": "adv.",
+   "zh": "心甘情愿地；自愿地",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "prize citation",
+   "lemma": "prize citation",
+   "pos": "n.",
+   "zh": "颁奖词；获奖评语",
+   "drop": false
+  }
+ ]
 }

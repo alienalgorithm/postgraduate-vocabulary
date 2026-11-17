@@ -1271,5 +1271,519 @@
   "illustration": "1af0f8d17148127704c09094ec1d68092758c72c38ecf7c3b4af6e29f4fb6cbb"
  },
  "book_order_v4": "59",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "satellites",
+   "lemma": "satellite",
+   "pos": "n.",
+   "zh": "卫星；人造卫星",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "slammed",
+   "lemma": "slam",
+   "pos": "vi.",
+   "zh": "猛撞；猛烈碰撞",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "belonged to",
+   "lemma": "belong to",
+   "pos": "phr.",
+   "zh": "属于",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "constellation",
+   "lemma": "constellation",
+   "pos": "n.",
+   "zh": "卫星星座；星座",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "military",
+   "lemma": "military",
+   "pos": "adj.",
+   "zh": "军用的；军事的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "derelict",
+   "lemma": "derelict",
+   "pos": "adj.",
+   "zh": "废弃的；被遗弃的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "shattered",
+   "lemma": "shatter",
+   "pos": "vi.",
+   "zh": "粉碎；破碎",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "accidental",
+   "lemma": "accidental",
+   "pos": "adj.",
+   "zh": "意外的；偶然的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "collision",
+   "lemma": "collision",
+   "pos": "n.",
+   "zh": "相撞；碰撞",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "intact",
+   "lemma": "intact",
+   "pos": "adj.",
+   "zh": "完整的；完好无损的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "swerved",
+   "lemma": "swerve",
+   "pos": "vi.",
+   "zh": "（为避让而）突然转向",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "hulk",
+   "lemma": "hulk",
+   "pos": "n.",
+   "zh": "（报废的）空壳；残骸",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "propulsion",
+   "lemma": "propulsion",
+   "pos": "n.",
+   "zh": "推进力；推进",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "forecast",
+   "lemma": "forecast",
+   "pos": "vt.",
+   "zh": "预报；预测",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "narrow miss",
+   "lemma": "narrow miss",
+   "pos": "n.",
+   "zh": "险些相撞；惊险擦过",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "encounter",
+   "lemma": "encounter",
+   "pos": "n.",
+   "zh": "（航天器的）交会；相遇",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "frequent",
+   "lemma": "frequent",
+   "pos": "adj.",
+   "zh": "频繁的；经常的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "imprecise",
+   "lemma": "imprecise",
+   "pos": "adj.",
+   "zh": "不精确的；不准确的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "discarded",
+   "lemma": "discarded",
+   "pos": "adj.",
+   "zh": "废弃的；丢弃的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "relic",
+   "lemma": "relic",
+   "pos": "n.",
+   "zh": "遗物；遗留物",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "demolished",
+   "lemma": "demolish",
+   "pos": "vt.",
+   "zh": "彻底摧毁；毁坏",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "asset",
+   "lemma": "asset",
+   "pos": "n.",
+   "zh": "资产；有价值的财产",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "wreckage",
+   "lemma": "wreckage",
+   "pos": "n.",
+   "zh": "残骸",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "endangered",
+   "lemma": "endanger",
+   "pos": "vt.",
+   "zh": "危及；使遭危险",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "impact",
+   "lemma": "impact",
+   "pos": "n.",
+   "zh": "撞击；冲击",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "flung out",
+   "lemma": "fling out",
+   "pos": "phr.",
+   "zh": "抛出；甩出",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "catalogued",
+   "lemma": "catalogue",
+   "pos": "vt.",
+   "zh": "把……编入目录；编目",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "a multitude of",
+   "lemma": "a multitude of",
+   "pos": "phr.",
+   "zh": "大量的；众多的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "pinpoint",
+   "lemma": "pinpoint",
+   "pos": "vt.",
+   "zh": "精确定位；准确指出",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "air drag",
+   "lemma": "air drag",
+   "pos": "n.",
+   "zh": "空气阻力",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "feeble",
+   "lemma": "feeble",
+   "pos": "adj.",
+   "zh": "微弱的；无力的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "linger",
+   "lemma": "linger",
+   "pos": "vi.",
+   "zh": "滞留；久留",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "Space Station",
+   "lemma": "space station",
+   "pos": "n.",
+   "zh": "空间站",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fired",
+   "lemma": "fire",
+   "pos": "vt.",
+   "zh": "（发动机等）点火；启动",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "thrusters",
+   "lemma": "thruster",
+   "pos": "n.",
+   "zh": "推进器",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "dodge",
+   "lemma": "dodge",
+   "pos": "vt.",
+   "zh": "躲开；避开",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "remnant",
+   "lemma": "remnant",
+   "pos": "n.",
+   "zh": "残片；残余部分",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "envisaged",
+   "lemma": "envisage",
+   "pos": "vt.",
+   "zh": "设想；预想",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "vicious spiral",
+   "lemma": "vicious spiral",
+   "pos": "n.",
+   "zh": "恶性循环",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "syndrome",
+   "lemma": "syndrome",
+   "pos": "n.",
+   "zh": "综合征",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "scatter",
+   "lemma": "scatter",
+   "pos": "vt.",
+   "zh": "散布；撒",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "raising the odds of",
+   "lemma": "raise the odds of sth",
+   "pos": "phr.",
+   "zh": "提高……的几率",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "subsequent",
+   "lemma": "subsequent",
+   "pos": "adj.",
+   "zh": "后续的；随后的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "illustrated",
+   "lemma": "illustrate",
+   "pos": "vt.",
+   "zh": "例证；说明",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "premise",
+   "lemma": "premise",
+   "pos": "n.",
+   "zh": "前提；基本设想",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "triggering",
+   "lemma": "trigger",
+   "pos": "vt.",
+   "zh": "引发；触发",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "runaway",
+   "lemma": "runaway",
+   "pos": "adj.",
+   "zh": "失控的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "chain reaction",
+   "lemma": "chain reaction",
+   "pos": "n.",
+   "zh": "连锁反应",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "surveillance",
+   "lemma": "surveillance",
+   "pos": "n.",
+   "zh": "监视；监测",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "functional",
+   "lemma": "functional",
+   "pos": "adj.",
+   "zh": "正常运行的；能工作的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cascade",
+   "lemma": "cascade",
+   "pos": "n.",
+   "zh": "连锁效应；一连串事件",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unfold",
+   "lemma": "unfold",
+   "pos": "vi.",
+   "zh": "（事态）逐步展开；发生",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "inevitable",
+   "lemma": "inevitable",
+   "pos": "adj.",
+   "zh": "不可避免的；必然的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "mitigated",
+   "lemma": "mitigate",
+   "pos": "vt.",
+   "zh": "缓解；减轻",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "routinely",
+   "lemma": "routinely",
+   "pos": "adv.",
+   "zh": "例行地；惯常地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "manoeuvre",
+   "lemma": "manoeuvre",
+   "pos": "vt.",
+   "zh": "操纵；巧妙地移动",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "out of harm's way",
+   "lemma": "out of harm's way",
+   "pos": "adv.",
+   "zh": "在安全处；避开危险",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "licenses",
+   "lemma": "license",
+   "pos": "vt.",
+   "zh": "为……发放许可；批准",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "mandated",
+   "lemma": "mandate",
+   "pos": "vt.",
+   "zh": "强制要求；以法规规定",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "disposal",
+   "lemma": "disposal",
+   "pos": "n.",
+   "zh": "处置；处理",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "retirement",
+   "lemma": "retirement",
+   "pos": "n.",
+   "zh": "退役；停止使用",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "instead of",
+   "lemma": "instead of",
+   "pos": "prep.",
+   "zh": "而不是；代替",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "had no part in",
+   "lemma": "have no part in",
+   "pos": "phr.",
+   "zh": "与……无关；未参与",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "splinters",
+   "lemma": "splinter",
+   "pos": "n.",
+   "zh": "碎片；碎屑",
+   "drop": false
+  }
+ ]
 }

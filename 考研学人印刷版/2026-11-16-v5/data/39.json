@@ -1275,5 +1275,511 @@
   "illustration": "0b631733ec26b7af1380a9cf32571d3132300905a1317a1cfcded9e5a6138a0b"
  },
  "book_order_v4": "39",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "ceaseless",
+   "lemma": "ceaseless",
+   "pos": "adj.",
+   "zh": "不停的；无休止的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "downpour",
+   "lemma": "downpour",
+   "pos": "n.",
+   "zh": "倾盆大雨；暴雨",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "besieged",
+   "lemma": "besiege",
+   "pos": "vt.",
+   "zh": "围困；困住",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "mansion",
+   "lemma": "mansion",
+   "pos": "n.",
+   "zh": "宅邸；大宅",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "poet",
+   "lemma": "poet",
+   "pos": "n.",
+   "zh": "诗人",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "leased",
+   "lemma": "lease",
+   "pos": "vt.",
+   "zh": "租用；租下",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "outskirts",
+   "lemma": "outskirts",
+   "pos": "n.",
+   "zh": "郊区；市郊",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "anthology",
+   "lemma": "anthology",
+   "pos": "n.",
+   "zh": "选集；文集",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "ghost stories",
+   "lemma": "ghost story",
+   "pos": "n.",
+   "zh": "鬼故事",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "translation",
+   "lemma": "translation",
+   "pos": "n.",
+   "zh": "译本；译文",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "supernatural",
+   "lemma": "supernatural",
+   "pos": "adj.",
+   "zh": "超自然的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "melancholy",
+   "lemma": "melancholy",
+   "pos": "adj.",
+   "zh": "阴郁的；令人忧郁的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "attributable to",
+   "lemma": "attributable to",
+   "pos": "adj.",
+   "zh": "可归因于……的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "Indonesian",
+   "lemma": "Indonesian",
+   "pos": "adj.",
+   "zh": "印度尼西亚的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "blew apart",
+   "lemma": "blow sth apart",
+   "pos": "phr.",
+   "zh": "把……炸裂；把……炸碎",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "potent",
+   "lemma": "potent",
+   "pos": "adj.",
+   "zh": "猛烈的；强有力的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "eruptions",
+   "lemma": "eruption",
+   "pos": "n.",
+   "zh": "（火山）喷发；爆发",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "tens of thousands",
+   "lemma": "tens of thousands",
+   "pos": "n.",
+   "zh": "数万；好几万",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "starvation",
+   "lemma": "starvation",
+   "pos": "n.",
+   "zh": "饥饿；饿死",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "aftermath",
+   "lemma": "aftermath",
+   "pos": "n.",
+   "zh": "余波；后果",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "volcano",
+   "lemma": "volcano",
+   "pos": "n.",
+   "zh": "火山",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "pumped",
+   "lemma": "pump",
+   "pos": "vt.",
+   "zh": "泵送；大量注入",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "prodigious",
+   "lemma": "prodigious",
+   "pos": "adj.",
+   "zh": "巨大的；庞大的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sulphur dioxide",
+   "lemma": "sulphur dioxide",
+   "pos": "n.",
+   "zh": "二氧化硫",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "crater",
+   "lemma": "crater",
+   "pos": "n.",
+   "zh": "火山口",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "aerosols",
+   "lemma": "aerosol",
+   "pos": "n.",
+   "zh": "气溶胶",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "blanketed",
+   "lemma": "blanket",
+   "pos": "vt.",
+   "zh": "覆盖；笼罩",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sunshine",
+   "lemma": "sunshine",
+   "pos": "n.",
+   "zh": "阳光",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "thereby",
+   "lemma": "thereby",
+   "pos": "adv.",
+   "zh": "从而；因此",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "lowering",
+   "lemma": "lower",
+   "pos": "vt.",
+   "zh": "降低；减低",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "world-wide",
+   "lemma": "world-wide",
+   "pos": "adv.",
+   "zh": "在全世界；全球范围内",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "know as",
+   "lemma": "know sb/sth as sth",
+   "pos": "phr.",
+   "zh": "把……称作；称……为",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "chilly",
+   "lemma": "chilly",
+   "pos": "adj.",
+   "zh": "寒冷的；冷飕飕的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "relentlessly",
+   "lemma": "relentlessly",
+   "pos": "adv.",
+   "zh": "持续不断地；无休止地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "Crops failed",
+   "lemma": "fail",
+   "pos": "vi.",
+   "zh": "（庄稼）歉收",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "rotten",
+   "lemma": "rotten",
+   "pos": "adj.",
+   "zh": "腐烂的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "saturated",
+   "lemma": "saturated",
+   "pos": "adj.",
+   "zh": "浸透的；湿透的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "cereal",
+   "lemma": "cereal",
+   "pos": "n.",
+   "zh": "谷物；谷类作物",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "escalated",
+   "lemma": "escalate",
+   "pos": "vi.",
+   "zh": "上升；飞涨",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "scarcity",
+   "lemma": "scarcity",
+   "pos": "n.",
+   "zh": "短缺；匮乏",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unrest",
+   "lemma": "unrest",
+   "pos": "n.",
+   "zh": "动荡；骚乱",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "eighteen-year-old",
+   "lemma": "eighteen-year-old",
+   "pos": "adj.",
+   "zh": "十八岁的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "set out",
+   "lemma": "set out",
+   "pos": "phr.",
+   "zh": "出发；启程",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "alongside",
+   "lemma": "alongside",
+   "pos": "prep.",
+   "zh": "与……一起；和……一道",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "preface",
+   "lemma": "preface",
+   "pos": "n.",
+   "zh": "序言；前言",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "recollect",
+   "lemma": "recollect",
+   "pos": "vt.",
+   "zh": "回忆；记起",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "damp",
+   "lemma": "damp",
+   "pos": "adj.",
+   "zh": "潮湿的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "gloomy",
+   "lemma": "gloomy",
+   "pos": "adj.",
+   "zh": "阴沉的；昏暗的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "torrents",
+   "lemma": "torrent",
+   "pos": "n.",
+   "zh": "倾盆大雨；暴雨",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "fruitful",
+   "lemma": "fruitful",
+   "pos": "adj.",
+   "zh": "富有成果的；硕果累累的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "whilst",
+   "lemma": "whilst",
+   "pos": "conj.",
+   "zh": "与此同时；而",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "poetic",
+   "lemma": "poetic",
+   "pos": "adj.",
+   "zh": "诗歌的；诗的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "output",
+   "lemma": "output",
+   "pos": "n.",
+   "zh": "产出；作品",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "ghastly",
+   "lemma": "ghastly",
+   "pos": "adj.",
+   "zh": "恐怖的；可怕的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "yarn",
+   "lemma": "yarn",
+   "pos": "n.",
+   "zh": "故事；奇谈",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "Frankenstein",
+   "lemma": "Frankenstein",
+   "pos": "n.",
+   "zh": "《弗兰肯斯坦》",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "anonymously",
+   "lemma": "anonymously",
+   "pos": "adv.",
+   "zh": "匿名地",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "reissued",
+   "lemma": "reissue",
+   "pos": "vt.",
+   "zh": "再版；重新发行",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "founding work",
+   "lemma": "founding work",
+   "pos": "n.",
+   "zh": "开山之作；奠基之作",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "science-fiction",
+   "lemma": "science fiction",
+   "pos": "n.",
+   "zh": "科幻；科幻小说",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "genre",
+   "lemma": "genre",
+   "pos": "n.",
+   "zh": "体裁；类型",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "tropical volcano",
+   "lemma": "tropical",
+   "pos": "adj.",
+   "zh": "热带的",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "monster",
+   "lemma": "monster",
+   "pos": "n.",
+   "zh": "怪物",
+   "drop": false
+  }
+ ]
 }

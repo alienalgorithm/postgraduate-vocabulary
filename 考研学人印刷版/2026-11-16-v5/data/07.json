@@ -1009,5 +1009,423 @@
   "illustration": "c9c66d56c99809efc29df5e5fd4f22ff2da12d4fe79ca83ca9cb467d7956d412"
  },
  "book_order_v4": "10",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "configurations",
+   "lemma": "configuration",
+   "pos": "n.",
+   "zh": "布局；格局",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "atoms",
+   "lemma": "atom",
+   "pos": "n.",
+   "zh": "原子",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "daunting",
+   "lemma": "daunting",
+   "pos": "adj.",
+   "zh": "艰巨的；令人生畏的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "computational",
+   "lemma": "computational",
+   "pos": "adj.",
+   "zh": "计算的；计算方面的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "milestone",
+   "lemma": "milestone",
+   "pos": "n.",
+   "zh": "里程碑；重大事件",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "program",
+   "lemma": "program",
+   "pos": "n.",
+   "zh": "（计算机）程序",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "handicap",
+   "lemma": "handicap",
+   "pos": "n.",
+   "zh": "让子；（比赛中的）让步",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "opponent",
+   "lemma": "opponent",
+   "pos": "n.",
+   "zh": "对手",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "televised",
+   "lemma": "televise",
+   "pos": "vt.",
+   "zh": "电视转播；用电视播放",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "showdown",
+   "lemma": "showdown",
+   "pos": "n.",
+   "zh": "对决；决战",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "strategist",
+   "lemma": "strategist",
+   "pos": "n.",
+   "zh": "战略家；谋略家",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "tactic",
+   "lemma": "tactic",
+   "pos": "n.",
+   "zh": "手段；招数",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "adjacent to",
+   "lemma": "adjacent to",
+   "pos": "adj.",
+   "zh": "与……相邻的；毗邻……的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "diagonal",
+   "lemma": "diagonal",
+   "pos": "n.",
+   "zh": "对角线；斜线",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "grid",
+   "lemma": "grid",
+   "pos": "n.",
+   "zh": "网格；方格",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "orthodox",
+   "lemma": "orthodox",
+   "pos": "adj.",
+   "zh": "正统的；传统的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "commentators",
+   "lemma": "commentator",
+   "pos": "n.",
+   "zh": "（比赛的）解说员",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "unexpected",
+   "lemma": "unexpected",
+   "pos": "adj.",
+   "zh": "出乎意料的；意外的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "placement",
+   "lemma": "placement",
+   "pos": "n.",
+   "zh": "放置；摆放",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "bizarre",
+   "lemma": "bizarre",
+   "pos": "adj.",
+   "zh": "怪异的；离奇的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "pause",
+   "lemma": "pause",
+   "pos": "n.",
+   "zh": "暂停；停顿",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "deliberation",
+   "lemma": "deliberation",
+   "pos": "n.",
+   "zh": "仔细考虑；斟酌",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "diagnostic",
+   "lemma": "diagnostic",
+   "pos": "adj.",
+   "zh": "诊断的；用于诊断的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "odds",
+   "lemma": "odds",
+   "pos": "n.",
+   "zh": "可能性；概率",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "staggering",
+   "lemma": "staggering",
+   "pos": "adj.",
+   "zh": "惊人的；令人震惊的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "rarity",
+   "lemma": "rarity",
+   "pos": "n.",
+   "zh": "罕见的事物",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "imitate",
+   "lemma": "imitate",
+   "pos": "vt.",
+   "zh": "模仿；效仿",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "amateurs",
+   "lemma": "amateur",
+   "pos": "n.",
+   "zh": "业余选手；业余爱好者",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "sharpened",
+   "lemma": "sharpen",
+   "pos": "vt.",
+   "zh": "磨砺；提高（技能）",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "simulated",
+   "lemma": "simulated",
+   "pos": "adj.",
+   "zh": "模拟的；仿真的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "acknowledged",
+   "lemma": "acknowledge",
+   "pos": "vt.",
+   "zh": "承认；认可",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "originality",
+   "lemma": "originality",
+   "pos": "n.",
+   "zh": "独创性；新颖",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "reversed",
+   "lemma": "reverse",
+   "pos": "vt.",
+   "zh": "颠倒；互换",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "neat",
+   "lemma": "neat",
+   "pos": "adj.",
+   "zh": "巧妙的；工整的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "symmetry",
+   "lemma": "symmetry",
+   "pos": "n.",
+   "zh": "对称；匀称",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "turned the tide",
+   "lemma": "turn the tide",
+   "pos": "phr.",
+   "zh": "扭转局势",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "heralded as",
+   "lemma": "herald sb/sth as sth",
+   "pos": "phr.",
+   "zh": "把……誉为……",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "divine",
+   "lemma": "divine",
+   "pos": "adj.",
+   "zh": "神妙的；超凡的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "computed",
+   "lemma": "compute",
+   "pos": "vt.",
+   "zh": "计算；算出",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "likelihood",
+   "lemma": "likelihood",
+   "pos": "n.",
+   "zh": "可能性",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "consolation",
+   "lemma": "consolation",
+   "pos": "n.",
+   "zh": "安慰；慰藉",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "overwhelming",
+   "lemma": "overwhelming",
+   "pos": "adj.",
+   "zh": "压倒性的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "withdrew from",
+   "lemma": "withdraw from",
+   "pos": "phr.",
+   "zh": "退出",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "circuit",
+   "lemma": "circuit",
+   "pos": "n.",
+   "zh": "巡回赛；系列赛事",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "farewell",
+   "lemma": "farewell",
+   "pos": "n.",
+   "zh": "告别；辞别",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unrivalled",
+   "lemma": "unrivalled",
+   "pos": "adj.",
+   "zh": "无可匹敌的；无与伦比的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "dominance",
+   "lemma": "dominance",
+   "pos": "n.",
+   "zh": "统治地位；优势",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "invincible",
+   "lemma": "invincible",
+   "pos": "adj.",
+   "zh": "不可战胜的；无敌的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "entity",
+   "lemma": "entity",
+   "pos": "n.",
+   "zh": "实体；存在",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "summit",
+   "lemma": "summit",
+   "pos": "n.",
+   "zh": "顶峰；巅峰",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "slim",
+   "lemma": "slim",
+   "pos": "adj.",
+   "zh": "（可能性）微小的；渺茫的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "audacious",
+   "lemma": "audacious",
+   "pos": "adj.",
+   "zh": "大胆的；敢于冒险的",
+   "drop": false
+  }
+ ]
 }

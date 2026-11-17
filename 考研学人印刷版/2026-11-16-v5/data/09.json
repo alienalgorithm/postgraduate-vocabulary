@@ -1159,5 +1159,471 @@
   "illustration": "f94161e2036fe22b8c0f985185c8ade1d88122dfeb35ae299f33d1fef06f0483"
  },
  "book_order_v4": "13",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "scrap-metal",
+   "lemma": "scrap metal",
+   "pos": "n.",
+   "zh": "废金属；废旧金属",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "traders",
+   "lemma": "trader",
+   "pos": "n.",
+   "zh": "商人；买卖人",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "secretly",
+   "lemma": "secretly",
+   "pos": "adv.",
+   "zh": "秘密地；暗中",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "deputy",
+   "lemma": "deputy",
+   "pos": "adj.",
+   "zh": "副的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "director-general",
+   "lemma": "director-general",
+   "pos": "n.",
+   "zh": "（政府部门的）总长",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "momentous",
+   "lemma": "momentous",
+   "pos": "adj.",
+   "zh": "重大的；重要的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "confidentially",
+   "lemma": "confidentially",
+   "pos": "adv.",
+   "zh": "私下地；秘密地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "scrap",
+   "lemma": "scrap",
+   "pos": "n.",
+   "zh": "废铁；废料",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "tenders",
+   "lemma": "tender",
+   "pos": "n.",
+   "zh": "投标；标书",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "solemnly",
+   "lemma": "solemnly",
+   "pos": "adv.",
+   "zh": "郑重地；庄严地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "vow",
+   "lemma": "vow",
+   "pos": "vt.",
+   "zh": "发誓；立誓",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "secrecy",
+   "lemma": "secrecy",
+   "pos": "n.",
+   "zh": "保密",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "ostensibly",
+   "lemma": "ostensibly",
+   "pos": "adv.",
+   "zh": "表面上；名义上",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "public indignation",
+   "lemma": "public indignation",
+   "pos": "n.",
+   "zh": "公愤；公众的愤慨",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "pretext",
+   "lemma": "pretext",
+   "pos": "n.",
+   "zh": "借口；托词",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "absurd",
+   "lemma": "absurd",
+   "pos": "adj.",
+   "zh": "荒唐的；荒谬的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "monument",
+   "lemma": "monument",
+   "pos": "n.",
+   "zh": "纪念性建筑；纪念碑",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "originally",
+   "lemma": "originally",
+   "pos": "adv.",
+   "zh": "原本；最初",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "destined",
+   "lemma": "destined",
+   "pos": "adj.",
+   "zh": "注定的；预定的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "come down",
+   "lemma": "come down",
+   "pos": "phr.",
+   "zh": "（建筑物）被拆除",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "high-ranking",
+   "lemma": "high-ranking",
+   "pos": "adj.",
+   "zh": "高级的；级别高的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "crook",
+   "lemma": "crook",
+   "pos": "n.",
+   "zh": "骗子；坏人",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ministerial",
+   "lemma": "ministerial",
+   "pos": "adj.",
+   "zh": "部长的；（政府）部门的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "stationery",
+   "lemma": "stationery",
+   "pos": "n.",
+   "zh": "信笺；信纸",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "forgery",
+   "lemma": "forgery",
+   "pos": "n.",
+   "zh": "伪造品；赝品",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "lamented",
+   "lemma": "lament",
+   "pos": "vt.",
+   "zh": "哀叹；惋惜",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "hefty cost",
+   "lemma": "hefty cost",
+   "pos": "n.",
+   "zh": "高昂的费用；巨额开支",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "upkeep",
+   "lemma": "upkeep",
+   "pos": "n.",
+   "zh": "维护；保养",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "businessman",
+   "lemma": "businessman",
+   "pos": "n.",
+   "zh": "商人；生意人",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "impatient",
+   "lemma": "impatient",
+   "pos": "adj.",
+   "zh": "急切的；迫不及待的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "gain a foothold",
+   "lemma": "gain a foothold",
+   "pos": "phr.",
+   "zh": "站稳脚跟；获得立足点",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "intimated",
+   "lemma": "intimate",
+   "pos": "vt.",
+   "zh": "暗示；透露",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "civil-service",
+   "lemma": "civil service",
+   "pos": "n.",
+   "zh": "行政部门；公务员（总称）",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "remuneration",
+   "lemma": "remuneration",
+   "pos": "n.",
+   "zh": "报酬；薪酬",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "supplementing",
+   "lemma": "supplement",
+   "pos": "vt.",
+   "zh": "补充；贴补",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "additional",
+   "lemma": "additional",
+   "pos": "adj.",
+   "zh": "额外的；附加的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "bribe",
+   "lemma": "bribe",
+   "pos": "n.",
+   "zh": "贿赂；贿金",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "takings",
+   "lemma": "takings",
+   "pos": "n.",
+   "zh": "进账；收入",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "fleeced",
+   "lemma": "fleece",
+   "pos": "vt.",
+   "zh": "诈骗；骗取钱财",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "ashamed",
+   "lemma": "ashamed",
+   "pos": "adj.",
+   "zh": "羞愧的；感到丢脸的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "quietly",
+   "lemma": "quietly",
+   "pos": "adv.",
+   "zh": "默默地；不声张地",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "whisper",
+   "lemma": "whisper",
+   "pos": "n.",
+   "zh": "传闻；风声",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "deceit",
+   "lemma": "deceit",
+   "pos": "n.",
+   "zh": "骗局；欺骗行为",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "had the gall to",
+   "lemma": "have the gall to do sth",
+   "pos": "phr.",
+   "zh": "厚着脸皮（做某事）；竟敢",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "reappear",
+   "lemma": "reappear",
+   "pos": "vi.",
+   "zh": "再次出现；重新露面",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "encore",
+   "lemma": "encore",
+   "pos": "n.",
+   "zh": "重演；再来一次",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "script",
+   "lemma": "script",
+   "pos": "n.",
+   "zh": "剧本；脚本",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "grew distrustful",
+   "lemma": "grow distrustful",
+   "pos": "phr.",
+   "zh": "起疑心；变得不信任",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "affair",
+   "lemma": "affair",
+   "pos": "n.",
+   "zh": "事件；事情",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "getaway",
+   "lemma": "getaway",
+   "pos": "n.",
+   "zh": "逃跑；（作案后）逃走",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "much-repeated",
+   "lemma": "much-repeated",
+   "pos": "adj.",
+   "zh": "一再重复的；广为流传的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fairy tale",
+   "lemma": "fairy tale",
+   "pos": "n.",
+   "zh": "童话；编造的故事",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "fake",
+   "lemma": "fake",
+   "pos": "adj.",
+   "zh": "假的；伪造的",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "detention",
+   "lemma": "detention",
+   "pos": "n.",
+   "zh": "拘留；关押",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "recaptured",
+   "lemma": "recapture",
+   "pos": "vt.",
+   "zh": "再次抓获；抓回",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "served time",
+   "lemma": "serve time",
+   "pos": "phr.",
+   "zh": "服刑；坐牢",
+   "drop": false
+  },
+  {
+   "para": 6,
+   "term": "penal",
+   "lemma": "penal",
+   "pos": "adj.",
+   "zh": "刑罚的；关押犯人的",
+   "drop": false
+  },
+  {
+   "para": 7,
+   "term": "kept mum",
+   "lemma": "keep mum",
+   "pos": "phr.",
+   "zh": "守口如瓶；保持沉默",
+   "drop": false
+  }
+ ]
 }

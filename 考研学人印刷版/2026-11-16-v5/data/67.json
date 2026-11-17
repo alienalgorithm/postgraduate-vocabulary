@@ -1136,5 +1136,463 @@
   "illustration": "133a7763601a160b3c609c6f2d724e3f2f65e8c825c09ea5792f9a74fab7d5a3"
  },
  "book_order_v4": "67",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "smallpox",
+   "lemma": "smallpox",
+   "pos": "n.",
+   "zh": "天花",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "contagious",
+   "lemma": "contagious",
+   "pos": "adj.",
+   "zh": "传染性的；接触传染的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "affliction",
+   "lemma": "affliction",
+   "pos": "n.",
+   "zh": "病痛；疾病",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sufferers",
+   "lemma": "sufferer",
+   "pos": "n.",
+   "zh": "患者；病人",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "safeguard",
+   "lemma": "safeguard",
+   "pos": "n.",
+   "zh": "保护措施；防护手段",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "deliberately",
+   "lemma": "deliberately",
+   "pos": "adv.",
+   "zh": "故意地；有意地",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "implanting",
+   "lemma": "implant",
+   "pos": "vt.",
+   "zh": "植入",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "matter",
+   "lemma": "matter",
+   "pos": "n.",
+   "zh": "物质",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sores",
+   "lemma": "sore",
+   "pos": "n.",
+   "zh": "疮；溃疡",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "practised",
+   "lemma": "practise",
+   "pos": "vt.",
+   "zh": "施行；实行",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "procedure",
+   "lemma": "procedure",
+   "pos": "n.",
+   "zh": "做法；方法",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "grave",
+   "lemma": "grave",
+   "pos": "adj.",
+   "zh": "严重的；严峻的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "sickness",
+   "lemma": "sickness",
+   "pos": "n.",
+   "zh": "疾病；患病",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "frequently",
+   "lemma": "frequently",
+   "pos": "adv.",
+   "zh": "频繁地；经常",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "rustic",
+   "lemma": "rustic",
+   "pos": "adj.",
+   "zh": "乡村的；乡间的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "lore",
+   "lemma": "lore",
+   "pos": "n.",
+   "zh": "传说；民间知识",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "mild",
+   "lemma": "mild",
+   "pos": "adj.",
+   "zh": "轻微的；不严重的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "ailment",
+   "lemma": "ailment",
+   "pos": "n.",
+   "zh": "小病；病症",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "livestock",
+   "lemma": "livestock",
+   "pos": "n.",
+   "zh": "牲畜；家畜",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "immune to",
+   "lemma": "be immune to",
+   "pos": "phr.",
+   "zh": "对……免疫",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "employed",
+   "lemma": "employ",
+   "pos": "vt.",
+   "zh": "使用；运用",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "provincial",
+   "lemma": "provincial",
+   "pos": "adj.",
+   "zh": "地方的；外省的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "practitioner",
+   "lemma": "practitioner",
+   "pos": "n.",
+   "zh": "执业医师；从业者",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "inserted",
+   "lemma": "insert",
+   "pos": "vt.",
+   "zh": "放入；注入",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "fluid",
+   "lemma": "fluid",
+   "pos": "n.",
+   "zh": "液体；流体",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "scratch",
+   "lemma": "scratch",
+   "pos": "n.",
+   "zh": "划痕；抓痕",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "exposed to",
+   "lemma": "expose sb to sth",
+   "pos": "phr.",
+   "zh": "使……接触……",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "symptoms",
+   "lemma": "symptom",
+   "pos": "n.",
+   "zh": "症状",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "ensued",
+   "lemma": "ensue",
+   "pos": "vi.",
+   "zh": "随之发生；接着发生",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "publish",
+   "lemma": "publish",
+   "pos": "vt.",
+   "zh": "发表；出版",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unconvincing",
+   "lemma": "unconvincing",
+   "pos": "adj.",
+   "zh": "缺乏说服力的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "privately",
+   "lemma": "privately",
+   "pos": "adv.",
+   "zh": "私人地；自费地",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "funded",
+   "lemma": "fund",
+   "pos": "vt.",
+   "zh": "为……出资；资助",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "supplementary",
+   "lemma": "supplementary",
+   "pos": "adj.",
+   "zh": "补充的；附加的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "vaccine",
+   "lemma": "vaccine",
+   "pos": "n.",
+   "zh": "疫苗",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "derives from",
+   "lemma": "derive from",
+   "pos": "phr.",
+   "zh": "源自；起源于",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "Latin",
+   "lemma": "Latin",
+   "pos": "n.",
+   "zh": "拉丁语",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "originator",
+   "lemma": "originator",
+   "pos": "n.",
+   "zh": "首创者；创始人",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "accessible",
+   "lemma": "accessible",
+   "pos": "adj.",
+   "zh": "可获取的；可得到的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "replicate",
+   "lemma": "replicate",
+   "pos": "vt.",
+   "zh": "重复（实验等）；复制",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "disseminate",
+   "lemma": "disseminate",
+   "pos": "vt.",
+   "zh": "传播；推广",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "technique",
+   "lemma": "technique",
+   "pos": "n.",
+   "zh": "技术；方法",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "experimentation",
+   "lemma": "experimentation",
+   "pos": "n.",
+   "zh": "实验；试验",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "informed",
+   "lemma": "informed",
+   "pos": "adj.",
+   "zh": "知情的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "consent",
+   "lemma": "consent",
+   "pos": "n.",
+   "zh": "同意；许可",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "unethical",
+   "lemma": "unethical",
+   "pos": "adj.",
+   "zh": "不道德的；违背伦理的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "eliminated",
+   "lemma": "eliminate",
+   "pos": "vt.",
+   "zh": "消除；根除",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "intensified",
+   "lemma": "intensify",
+   "pos": "vt.",
+   "zh": "加强；强化",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "concerted",
+   "lemma": "concerted",
+   "pos": "adj.",
+   "zh": "协同的；齐心协力的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "eradicate",
+   "lemma": "eradicate",
+   "pos": "vt.",
+   "zh": "根除；消灭",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "naturally",
+   "lemma": "naturally",
+   "pos": "adv.",
+   "zh": "自然地；天然地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "occurring",
+   "lemma": "occur",
+   "pos": "vi.",
+   "zh": "发生；出现",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "diagnosed",
+   "lemma": "diagnose",
+   "pos": "vt.",
+   "zh": "诊断；确诊",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "formally",
+   "lemma": "formally",
+   "pos": "adv.",
+   "zh": "正式地",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "wiped out",
+   "lemma": "wipe out",
+   "pos": "phr.",
+   "zh": "彻底消灭；根除",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "pronouncement",
+   "lemma": "pronouncement",
+   "pos": "n.",
+   "zh": "宣告；声明",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "vaccinated",
+   "lemma": "vaccinate",
+   "pos": "vt.",
+   "zh": "给……接种疫苗",
+   "drop": false
+  }
+ ]
 }

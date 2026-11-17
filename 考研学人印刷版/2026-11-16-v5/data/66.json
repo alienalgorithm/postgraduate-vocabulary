@@ -1289,5 +1289,511 @@
   "illustration": "e674c6d2ad982370c0372dd1ef5c0895bca0ff93aece2221c5de92bfd5a3cb20"
  },
  "book_order_v4": "66",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "beetles",
+   "lemma": "beetle",
+   "pos": "n.",
+   "zh": "甲虫",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "larvae",
+   "lemma": "larva",
+   "pos": "n.",
+   "zh": "幼虫",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "devour",
+   "lemma": "devour",
+   "pos": "vt.",
+   "zh": "吞食；啃食",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "plaguing",
+   "lemma": "plague",
+   "pos": "vt.",
+   "zh": "困扰；折磨",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "lucrative",
+   "lemma": "lucrative",
+   "pos": "adj.",
+   "zh": "利润丰厚的；赚钱的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "plantations",
+   "lemma": "plantation",
+   "pos": "n.",
+   "zh": "种植园",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "imported",
+   "lemma": "import",
+   "pos": "vt.",
+   "zh": "引进；进口",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "toads",
+   "lemma": "toad",
+   "pos": "n.",
+   "zh": "蟾蜍",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "bulky",
+   "lemma": "bulky",
+   "pos": "adj.",
+   "zh": "庞大笨重的；体积大的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "amphibians",
+   "lemma": "amphibian",
+   "pos": "n.",
+   "zh": "两栖动物",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "native to",
+   "lemma": "be native to",
+   "pos": "phr.",
+   "zh": "原产于；土生于",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "released",
+   "lemma": "release",
+   "pos": "vt.",
+   "zh": "释放；放出",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "biological",
+   "lemma": "biological",
+   "pos": "adj.",
+   "zh": "生物的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "species",
+   "lemma": "species",
+   "pos": "n.",
+   "zh": "物种",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "pest",
+   "lemma": "pest",
+   "pos": "n.",
+   "zh": "害虫；有害动物",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "ambitious",
+   "lemma": "ambitious",
+   "pos": "adj.",
+   "zh": "雄心勃勃的；有抱负的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "recruit",
+   "lemma": "recruit",
+   "pos": "n.",
+   "zh": "新兵；新成员",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "hasty",
+   "lemma": "hasty",
+   "pos": "adj.",
+   "zh": "草率的；仓促的",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "opposition",
+   "lemma": "opposition",
+   "pos": "n.",
+   "zh": "反对；反对意见",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "persuaded",
+   "lemma": "persuade",
+   "pos": "vt.",
+   "zh": "说服；劝服",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "halt",
+   "lemma": "halt",
+   "pos": "vt.",
+   "zh": "叫停；使停止",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "lobbying",
+   "lemma": "lobbying",
+   "pos": "n.",
+   "zh": "游说",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "resumed",
+   "lemma": "resume",
+   "pos": "vi.",
+   "zh": "重新开始；恢复",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "scheme",
+   "lemma": "scheme",
+   "pos": "n.",
+   "zh": "计划；方案",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "flopped",
+   "lemma": "flop",
+   "pos": "vi.",
+   "zh": "彻底失败",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "dented",
+   "lemma": "dent",
+   "pos": "vt.",
+   "zh": "削减；使减少",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "stalks",
+   "lemma": "stalk",
+   "pos": "n.",
+   "zh": "（植物的）茎；秆",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "thrived",
+   "lemma": "thrive",
+   "pos": "vi.",
+   "zh": "兴旺；繁盛",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "foes",
+   "lemma": "foe",
+   "pos": "n.",
+   "zh": "敌人；天敌",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "fertile",
+   "lemma": "fertile",
+   "pos": "adj.",
+   "zh": "能生育的；能繁殖的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "spawning",
+   "lemma": "spawn",
+   "pos": "vt.",
+   "zh": "产（卵）",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "multiplied",
+   "lemma": "multiply",
+   "pos": "vi.",
+   "zh": "繁殖；大量增加",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "unchecked",
+   "lemma": "unchecked",
+   "pos": "adj.",
+   "zh": "未受遏制的；不受控制的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "invasion",
+   "lemma": "invasion",
+   "pos": "n.",
+   "zh": "入侵；侵入",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "frontier",
+   "lemma": "frontier",
+   "pos": "n.",
+   "zh": "前沿；前线",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "creeping",
+   "lemma": "creep",
+   "pos": "vi.",
+   "zh": "缓慢行进；缓慢移动",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "accelerated",
+   "lemma": "accelerate",
+   "pos": "vi.",
+   "zh": "加快；加速",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "tropical",
+   "lemma": "tropical",
+   "pos": "adj.",
+   "zh": "热带的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "breached",
+   "lemma": "breach",
+   "pos": "vt.",
+   "zh": "突破；攻破",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "toxin",
+   "lemma": "toxin",
+   "pos": "n.",
+   "zh": "毒素",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "glands",
+   "lemma": "gland",
+   "pos": "n.",
+   "zh": "腺；腺体",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "lizards",
+   "lemma": "lizard",
+   "pos": "n.",
+   "zh": "蜥蜴",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "marsupial",
+   "lemma": "marsupial",
+   "pos": "adj.",
+   "zh": "有袋类的；有袋动物的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "slumped",
+   "lemma": "slump",
+   "pos": "vi.",
+   "zh": "锐减；暴跌",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "wiped out",
+   "lemma": "wipe out",
+   "pos": "phr.",
+   "zh": "彻底消灭；毁灭",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "wreaked havoc",
+   "lemma": "wreak havoc",
+   "pos": "phr.",
+   "zh": "造成严重破坏",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "uneven",
+   "lemma": "uneven",
+   "pos": "adj.",
+   "zh": "不均衡的；参差不齐的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "prospered",
+   "lemma": "prosper",
+   "pos": "vi.",
+   "zh": "兴旺；繁荣",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "triumph",
+   "lemma": "triumph",
+   "pos": "vi.",
+   "zh": "大获成功；获胜",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "moth",
+   "lemma": "moth",
+   "pos": "n.",
+   "zh": "蛾；飞蛾",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "prickly",
+   "lemma": "prickly",
+   "pos": "adj.",
+   "zh": "带刺的；多刺的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "invasive",
+   "lemma": "invasive",
+   "pos": "adj.",
+   "zh": "（物种）入侵的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "cactus",
+   "lemma": "cactus",
+   "pos": "n.",
+   "zh": "仙人掌",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "starved",
+   "lemma": "starve",
+   "pos": "vi.",
+   "zh": "饿死；挨饿",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "stringent",
+   "lemma": "stringent",
+   "pos": "adj.",
+   "zh": "严格的；严厉的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "scrutiny",
+   "lemma": "scrutiny",
+   "pos": "n.",
+   "zh": "仔细审查；详细检查",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "blunder",
+   "lemma": "blunder",
+   "pos": "n.",
+   "zh": "大错；愚蠢的错误",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "haste",
+   "lemma": "haste",
+   "pos": "n.",
+   "zh": "匆忙；仓促",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "overrode",
+   "lemma": "override",
+   "pos": "vt.",
+   "zh": "压倒；不顾",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "untested",
+   "lemma": "untested",
+   "pos": "adj.",
+   "zh": "未经检验的；未经试验的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ally",
+   "lemma": "ally",
+   "pos": "n.",
+   "zh": "盟友；同盟者",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "loose",
+   "lemma": "loose",
+   "pos": "adj.",
+   "zh": "不受束缚的；自由活动的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "recalled",
+   "lemma": "recall",
+   "pos": "vt.",
+   "zh": "召回；收回",
+   "drop": false
+  }
+ ]
 }

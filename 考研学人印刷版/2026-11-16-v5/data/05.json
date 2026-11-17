@@ -1125,5 +1125,455 @@
   "illustration": "077ed205b42c9c1f9bcdc65ee6ede947260dcecbcc00848029c88d702a61ffe3"
  },
  "book_order_v4": "02",
- "text_basis": "final video source (hash-bound)"
+ "text_basis": "final video source (hash-bound)",
+ "vocab_book": [
+  {
+   "para": 1,
+   "term": "skyscraper",
+   "lemma": "skyscraper",
+   "pos": "n.",
+   "zh": "摩天大楼",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "under construction",
+   "lemma": "under construction",
+   "pos": "phr.",
+   "zh": "在建；正在建设中",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "saloon",
+   "lemma": "saloon",
+   "pos": "n.",
+   "zh": "轿车",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "pavement",
+   "lemma": "pavement",
+   "pos": "n.",
+   "zh": "人行道",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "frontage",
+   "lemma": "frontage",
+   "pos": "n.",
+   "zh": "正面；临街面",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "warped",
+   "lemma": "warped",
+   "pos": "adj.",
+   "zh": "弯曲变形的；翘曲的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "deformed",
+   "lemma": "deformed",
+   "pos": "adj.",
+   "zh": "变形的；走样的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "badge",
+   "lemma": "badge",
+   "pos": "n.",
+   "zh": "车标；标志",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "distorted",
+   "lemma": "distorted",
+   "pos": "adj.",
+   "zh": "变形的；扭曲的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "glazed",
+   "lemma": "glazed",
+   "pos": "adj.",
+   "zh": "装有玻璃的；镶玻璃的",
+   "drop": false
+  },
+  {
+   "para": 1,
+   "term": "facade",
+   "lemma": "facade",
+   "pos": "n.",
+   "zh": "正面；外立面",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "enlarging",
+   "lemma": "enlarge",
+   "pos": "vt.",
+   "zh": "扩大；增大",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "storeys",
+   "lemma": "storey",
+   "pos": "n.",
+   "zh": "楼层；层",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "tenants",
+   "lemma": "tenant",
+   "pos": "n.",
+   "zh": "租户；房客",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "premium",
+   "lemma": "premium",
+   "pos": "n.",
+   "zh": "溢价；额外费用",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "geometry",
+   "lemma": "geometry",
+   "pos": "n.",
+   "zh": "几何形状；几何结构",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "magnifying",
+   "lemma": "magnifying glass",
+   "pos": "n.",
+   "zh": "放大镜",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "sunlight",
+   "lemma": "sunlight",
+   "pos": "n.",
+   "zh": "阳光；日光",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "beam",
+   "lemma": "beam",
+   "pos": "n.",
+   "zh": "光束",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "reporter",
+   "lemma": "reporter",
+   "pos": "n.",
+   "zh": "记者",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "pan",
+   "lemma": "pan",
+   "pos": "n.",
+   "zh": "平底锅；锅",
+   "drop": false
+  },
+  {
+   "para": 2,
+   "term": "reflection",
+   "lemma": "reflection",
+   "pos": "n.",
+   "zh": "反射光；反射",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "developers",
+   "lemma": "developer",
+   "pos": "n.",
+   "zh": "开发商",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "apology",
+   "lemma": "apology",
+   "pos": "n.",
+   "zh": "道歉",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "reimbursed",
+   "lemma": "reimburse",
+   "pos": "vt.",
+   "zh": "偿付；补偿",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "suspended",
+   "lemma": "suspend",
+   "pos": "vt.",
+   "zh": "暂停；中止",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "provisional",
+   "lemma": "provisional",
+   "pos": "adj.",
+   "zh": "临时的；暂时的",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "barrier",
+   "lemma": "barrier",
+   "pos": "n.",
+   "zh": "屏障；护栏",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "erected",
+   "lemma": "erect",
+   "pos": "vt.",
+   "zh": "搭建；竖立",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "annually",
+   "lemma": "annually",
+   "pos": "adv.",
+   "zh": "每年",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "angle of elevation",
+   "lemma": "angle of elevation",
+   "pos": "n.",
+   "zh": "仰角；（太阳的）高度角",
+   "drop": false
+  },
+  {
+   "para": 3,
+   "term": "taunt",
+   "lemma": "taunt",
+   "pos": "n.",
+   "zh": "嘲讽；奚落",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "architect",
+   "lemma": "architect",
+   "pos": "n.",
+   "zh": "建筑师",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "architectural",
+   "lemma": "architectural",
+   "pos": "adj.",
+   "zh": "建筑上的；建筑的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "candid",
+   "lemma": "candid",
+   "pos": "adj.",
+   "zh": "坦率的；直言不讳的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "anticipated",
+   "lemma": "anticipate",
+   "pos": "vt.",
+   "zh": "预料；预期",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "intensity",
+   "lemma": "intensity",
+   "pos": "n.",
+   "zh": "强度；强烈程度",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "Sun louvres",
+   "lemma": "sun louvre",
+   "pos": "n.",
+   "zh": "遮阳百叶",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "cost-cutting",
+   "lemma": "cost-cutting",
+   "pos": "n.",
+   "zh": "削减成本；降低开支",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "miscalculation",
+   "lemma": "miscalculation",
+   "pos": "n.",
+   "zh": "失算；判断失误",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "infamous",
+   "lemma": "infamous",
+   "pos": "adj.",
+   "zh": "臭名昭著的；声名狼藉的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "glare",
+   "lemma": "glare",
+   "pos": "n.",
+   "zh": "强光；刺眼的光",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "reflective",
+   "lemma": "reflective",
+   "pos": "adj.",
+   "zh": "反光的；反射的",
+   "drop": false
+  },
+  {
+   "para": 4,
+   "term": "scalp",
+   "lemma": "scalp",
+   "pos": "n.",
+   "zh": "头皮",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "permanent",
+   "lemma": "permanent",
+   "pos": "adj.",
+   "zh": "永久的；永久性的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fixture",
+   "lemma": "fixture",
+   "pos": "n.",
+   "zh": "固定装置；固定设施",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "horizontal",
+   "lemma": "horizontal",
+   "pos": "adj.",
+   "zh": "水平的；横的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "aluminium",
+   "lemma": "aluminium",
+   "pos": "n.",
+   "zh": "铝",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "fins",
+   "lemma": "fin",
+   "pos": "n.",
+   "zh": "鳍状物；鳍片",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "diffuse",
+   "lemma": "diffuse",
+   "pos": "vt.",
+   "zh": "使散射；使扩散",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "brightness",
+   "lemma": "brightness",
+   "pos": "n.",
+   "zh": "亮度",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "critics",
+   "lemma": "critic",
+   "pos": "n.",
+   "zh": "评论家；评论员",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "notorious",
+   "lemma": "notorious",
+   "pos": "adj.",
+   "zh": "声名狼藉的；臭名远扬的",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "trophy",
+   "lemma": "trophy",
+   "pos": "n.",
+   "zh": "奖杯",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "ballot",
+   "lemma": "ballot",
+   "pos": "n.",
+   "zh": "投票；投票表决",
+   "drop": false
+  },
+  {
+   "para": 5,
+   "term": "unanimous",
+   "lemma": "unanimous",
+   "pos": "adj.",
+   "zh": "全体一致的；一致同意的",
+   "drop": false
+  }
+ ]
 }

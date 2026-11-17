@@ -1,0 +1,51 @@
+[
+ {
+  "id": 4,
+  "field": "zh",
+  "before": "选择；挑选",
+  "after": "选择",
+  "reason": "natural selection 中的 selection 不是有意“挑选”，只留“选择”"
+ },
+ {
+  "id": 21,
+  "field": "zh",
+  "before": "精确地；完全",
+  "after": "精确地；恰好",
+  "reason": "“完全”是照视频的说法，词典义为精确地、恰好"
+ },
+ {
+  "id": 22,
+  "field": "zh",
+  "before": "惊人的；非凡的",
+  "after": "惊人的；不寻常的",
+  "reason": "形容巧合用“不寻常的”比“非凡的”贴切"
+ },
+ {
+  "id": 25,
+  "field": "lemma",
+  "before": "threatened",
+  "after": "threaten",
+  "reason": "seemed threatened 是被动意义“受到威胁”，词典里 threatened adj. 义为感到害怕或濒危，与此不符，按动词处理"
+ },
+ {
+  "id": 25,
+  "field": "pos",
+  "before": "adj.",
+  "after": "vt.",
+  "reason": "同上，被动用法为 vt."
+ },
+ {
+  "id": 25,
+  "field": "zh",
+  "before": "受到威胁的",
+  "after": "威胁；危及",
+  "reason": "同上，写动词词典义"
+ },
+ {
+  "id": 56,
+  "field": "zh",
+  "before": "长的；长篇的",
+  "after": "很长的；长篇的",
+  "reason": "“长的”过于笼统，词典义为很长的"
+ }
+]
