@@ -1,0 +1,1561 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "a ceaseless downpour",
+   "predicate": "kept",
+   "object_or_complement": "a party（宾语）；besieged（宾语补足语）",
+   "explain": "主干是 a ceaseless downpour kept a party besieged，属于“主语 + 谓语 + 宾语 + 宾语补足语”结构：keep 后接宾语 a party，过去分词 besieged 作宾语补足语，说明这群人所处的被围困状态。谓语 kept 是 keep 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In June 1816",
+    "role": "时间状语（介词短语），句首状语较短，后面没有用逗号隔开",
+    "zh": "1816年6月"
+   },
+   {
+    "text": "a ceaseless downpour",
+    "role": "主语（无生命主语，雨是造成后面状态的原因）",
+    "zh": "一场持续的/无休止的倾盆大雨"
+   },
+   {
+    "text": "kept",
+    "role": "谓语（keep sb + 宾语补足语 结构中的 keep）",
+    "zh": "把"
+   },
+   {
+    "text": "a party",
+    "role": "宾语（party 意为“一群人，一行人”）",
+    "zh": "一群人"
+   },
+   {
+    "text": "besieged",
+    "role": "宾语补足语（过去分词，表示宾语 a party 被围困的状态）",
+    "zh": "围困在"
+   },
+   {
+    "text": "at the Villa Diodati,",
+    "role": "地点状语（介词短语），说明被困的地点",
+    "zh": "迪奥达蒂别墅里"
+   },
+   {
+    "text": "a mansion",
+    "role": "同位语，补充说明 the Villa Diodati",
+    "zh": "这座宅邸"
+   },
+   {
+    "text": "the poet Lord Byron had leased",
+    "role": "定语从句（省略了关系代词 that，修饰 a mansion）",
+    "zh": "是诗人拜伦勋爵租下的"
+   },
+   {
+    "text": "on the outskirts of Geneva.",
+    "role": "地点状语（介词短语），位于定语从句末尾，交代这座宅邸所在的位置",
+    "zh": "位于日内瓦的郊区"
+   }
+  ],
+  "structure": "①主句是 a ceaseless downpour kept a party besieged at the Villa Diodati。主语 a ceaseless downpour 是无生命的事物，谓语 kept 后面先接宾语 a party，再接过去分词 besieged 作宾语补足语。宾语与宾补之间有逻辑上的主谓关系，相当于 a party was besieged，这群人是“被围困”的一方，所以用过去分词。视频说明：keep sb besieged 表示“使某人一直处于被围困的状态”，keep 本身含“持续保持”的意思，与 ceaseless 相呼应。at the Villa Diodati 是地点状语，说明被困在哪里。\n②句首 In June 1816 是时间状语，短状语放在句首时可以不加逗号。\n③逗号后的 a mansion 是同位语，补充说明 the Villa Diodati 是一座什么样的建筑。同位语内部，the poet Lord Byron had leased 是定语从句，修饰 a mansion；关系代词 that（或 which）在从句中作 leased 的宾语，所以可以省略。从句主语 the poet Lord Byron 中，the poet 与 Lord Byron 是同位关系，指“诗人拜伦勋爵”。从句谓语 had leased 用过去完成时，表示租下宅邸发生在1816年6月被困之前。\n④句末 on the outskirts of Geneva 是介词短语，交代宅邸的位置；它可以看作从句里 leased 的地点状语，所指的就是这座宅邸的位置，视频把它单独译成“位于日内瓦的郊区”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "keep + 宾语 + 过去分词作宾语补足语",
+    "explain": "keep 后面可以接“宾语 + 宾语补足语”，表示使某人或某物保持某种状态。宾补可以是形容词（keep the room warm）、现在分词（keep sb waiting）、过去分词（keep sb informed）或介词短语、副词（keep sb indoors）。用过去分词时，宾语是动作的承受者；用现在分词时，宾语是动作的发出者。本句 kept a party besieged 中，这群人被大雨“围困”，所以用 besieged。考研易错点：把宾补里的过去分词误当成谓语；本句谓语只有 kept，besieged 不是谓语。改成被动句时，宾补留在动词后：A party was kept besieged by the downpour。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy snow kept the villagers trapped in their homes for nearly a week.",
+      "zh": "大雪把村民困在家里将近一个星期。"
+     },
+     {
+      "en": "The legal dispute kept the project stalled for months.",
+      "zh": "这场法律纠纷使项目停滞了好几个月。"
+     }
+    ]
+   },
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词 that、which、whom 在限制性定语从句中作宾语时，通常可以省略，于是出现“名词 + 名词/代词 + 谓语”的连续结构。本句 a mansion the poet Lord Byron had leased 中，a mansion 后紧跟从句主语 the poet Lord Byron，中间省略了作 leased 宾语的 that。识别方法：一个名词后面直接跟着另一个主谓结构，而这个谓语动词后面缺宾语，缺的宾语就是前面那个名词。关系代词在从句中作主语时不能省略；非限制性定语从句中的关系代词也不能省略。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The house the family had rented for the summer stood on a hill above the bay.",
+      "zh": "这家人租来避暑的房子坐落在海湾上方的一座小山上。"
+     },
+     {
+      "en": "The report the committee published last week has drawn sharp criticism.",
+      "zh": "委员会上周发布的报告招致了尖锐的批评。"
+     }
+    ]
+   },
+   {
+    "title": "名词短语作同位语",
+    "explain": "名词或名词短语放在另一个名词后面，用逗号隔开，对它作补充说明，叫同位语。同位语与被说明的名词指同一事物，去掉后句子结构仍然完整。本句 a mansion 补充说明 the Villa Diodati，后面还带着定语从句，整个同位语较长。考研阅读中，句末用逗号引出的名词短语常是同位语，要找到它说明的是前面哪个名词；翻译时同位语常拆成独立分句，用“这座”“那是”等回指。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The conference was held in Davos, a small resort town in the Swiss Alps.",
+      "zh": "会议在达沃斯举行，那是瑞士阿尔卑斯山区的一座度假小镇。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "a party",
+    "explain": "熟词僻义。party 常见义是“聚会”“政党”，这里指一起出行或活动的一群人、一行人，如 a party of tourists（一群游客）、a search party（搜救队）。视频译为“一群人”，指当时聚在别墅里的拜伦、雪莱等人。"
+   },
+   {
+    "term": "Villa Diodati",
+    "explain": "迪奥达蒂别墅，位于瑞士日内瓦附近的日内瓦湖畔，1816年夏天拜伦租住于此。villa 指乡间或城郊的别墅，作专名一部分时首字母大写，前面加 the。"
+   },
+   {
+    "term": "Lord Byron",
+    "explain": "乔治·戈登·拜伦（George Gordon Byron，1788年至1824年），英国浪漫主义诗人。他承袭了男爵爵位，按英国习惯称 Lord Byron，汉语译为“拜伦勋爵”。the poet Lord Byron 中，the poet 是表示身份的同位语，前面用定冠词。"
+   },
+   {
+    "term": "on the outskirts of",
+    "explain": "固定搭配，意为“在……的郊区，在……的边缘”，outskirts 总用复数，前面用介词 on，也可说 on the outskirts of the forest（在森林边缘）。视频说明：在……的郊外。"
+   },
+   {
+    "term": "lease",
+    "explain": "动词，既可指“租用”（承租方），也可指“出租”（出租方），本句主语是拜伦，指他租下这座宅邸，视频译为“租下”。lease 多用于房产、土地、设备等的长期正式租赁。"
+   }
+  ],
+  "translation_tip": "视频把一个英文长句译成两句：①主句用“把”字句译出：a ceaseless downpour kept a party besieged 译成“一场持续的/无休止的倾盆大雨把一群人围困在迪奥达蒂别墅里”，宾语“一群人”提到动词前，宾补 besieged 与地点状语合成“围困在……里”。时间状语 In June 1816 照汉语习惯放在句首。ceaseless 并列给出“持续的/无休止的”两种说法。②同位语 a mansion 另起一句，用“这座宅邸”回指 the Villa Diodati。③省略关系代词的定语从句 the poet Lord Byron had leased 没有前置成长定语，而是译成判断句“是诗人拜伦勋爵租下的”。④句末介词短语 on the outskirts of Geneva 译成“位于日内瓦的郊区”，作为并列的说明成分放在最后，读起来层次清楚。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Byron",
+   "predicate": "proposed",
+   "object_or_complement": "that each guest write a supernatural tale（宾语从句）",
+   "explain": "主干是 Byron proposed that…，主谓宾结构，宾语是 that 引导的宾语从句。谓语 proposed 为一般过去时，主动语态；从句谓语 write 用动词原形，是 propose 后宾语从句中的虚拟语气。"
+  },
+  "components": [
+   {
+    "text": "After reading",
+    "role": "时间状语的开头：介词 after + 动名词 reading，动名词的逻辑主语是主句主语 Byron",
+    "zh": "读完……之后"
+   },
+   {
+    "text": "an anthology of German ghost stories",
+    "role": "动名词 reading 的宾语（of German ghost stories 作 anthology 的后置定语）",
+    "zh": "一本德国鬼故事的选集"
+   },
+   {
+    "text": "in French translation,",
+    "role": "介词短语，说明所读选集的版本是法文译本（in translation 意为“以译本形式”）",
+    "zh": "的法文译本"
+   },
+   {
+    "text": "Byron",
+    "role": "主语",
+    "zh": "拜伦"
+   },
+   {
+    "text": "proposed",
+    "role": "谓语",
+    "zh": "提议"
+   },
+   {
+    "text": "that each guest write a supernatural tale.",
+    "role": "宾语从句（that 引导，从句谓语 write 用动词原形，表示虚拟语气）",
+    "zh": "每位客人各写一个超自然的故事"
+   }
+  ],
+  "structure": "①主句是 Byron proposed that each guest write a supernatural tale：主语 Byron，谓语 proposed，宾语是 that 引导的宾语从句。that 在从句中不作成分，只起引导作用。从句主语是 each guest，谓语 write 用动词原形，是 propose that sb (should) do 结构的虚拟语气，省略了 should，不是主谓不一致的错误。视频说明：propose that sb do，提议某人做……，从句里用动词原形 write。\n②句首 After reading an anthology of German ghost stories in French translation 是时间状语。after 是介词，后面接动名词短语 reading…；reading 的逻辑主语就是主句主语 Byron，即拜伦读完之后提出建议。reading 的宾语是 an anthology，of German ghost stories 作 anthology 的后置定语，说明是德国鬼故事的选集。\n③in French translation 说明拜伦他们读的是这本选集的法文译本：故事原为德文，译成了法文。视频说明：in French translation，用法文翻译的，法文译本。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "propose 后宾语从句中的虚拟语气",
+    "explain": "表示建议、要求、命令的动词，如 propose、suggest、recommend、insist、demand、require、request、order，后接 that 宾语从句时，从句谓语用“(should) + 动词原形”，美式英语常省略 should。本句 each guest write 中，主语是第三人称单数，谓语却用原形 write，正是省略 should 的虚拟语气。被动形式写成 (should) be done。考研易错点：从句谓语误加 -s 或用过去式；另外，suggest 表示“暗示、表明”、insist 表示“坚持认为”时不用虚拟语气，如 The evidence suggests that he was lying。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee proposed that the deadline be extended by two weeks.",
+      "zh": "委员会提议把截止日期延长两周。"
+     },
+     {
+      "en": "Several economists have proposed that the tax be abolished altogether.",
+      "zh": "几位经济学家提议彻底取消这项税。"
+     }
+    ]
+   },
+   {
+    "title": "after + 动名词作时间状语",
+    "explain": "after、before、on、since、without 等介词后面接动词时要用动名词，构成介词短语作状语。动名词没有自己的主语时，它的逻辑主语必须与主句主语一致：本句读选集的人就是提议的 Byron。如果主句主语换成别的事物，比如 After reading the stories, a plan was made，读故事的人就成了 a plan，这是考研写作中常见的“悬垂结构”错误。after doing 与 after having done 意思相同，前者更常用。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "After graduating from university, she spent two years teaching in a rural school.",
+      "zh": "大学毕业后，她在一所乡村学校教了两年书。"
+     }
+    ]
+   },
+   {
+    "title": "each 修饰单数可数名词",
+    "explain": "each 作限定词时后接单数可数名词，强调逐个、各自，如 each guest（每位客人）。each 作主语或修饰主语时，正常情况下谓语用单数，如 Each guest has a room；本句从句用虚拟语气，所以是原形 write。each 与 every 的区别：each 着眼于个体，可用于两个及以上；every 强调全体无一例外，用于三个及以上。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Each candidate is given ten minutes to present a proposal.",
+      "zh": "每位候选人有十分钟时间陈述自己的方案。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "an anthology of",
+    "explain": "一本……的选集，收录多位作者或多篇作品，of 后接复数名词，如 an anthology of poems（诗选）。视频说明：an anthology of…，一本……的选集。"
+   },
+   {
+    "term": "in translation",
+    "explain": "以译本形式，read sth in translation 意为“读某书的译本”，相对的说法是 read sth in the original（读原著）。in French translation 指法文译本，视频说明：用法文翻译的，法文译本。"
+   },
+   {
+    "term": "这本德国鬼故事选集",
+    "explain": "玛丽·雪莱在1831年为《弗兰肯斯坦》写的回顾文字中提到，他们读的是从德文译成法文的鬼故事集。一般认为这部书是 Fantasmagoriana，一本法文的德国鬼故事选集。"
+   },
+   {
+    "term": "supernatural tale",
+    "explain": "超自然的故事，即有鬼魂、怪物等超自然内容的故事。tale 多指虚构的、带传奇色彩的故事，常见 fairy tale（童话）、folk tale（民间故事）、tell tales（搬弄是非）。"
+   }
+  ],
+  "translation_tip": "视频译文“读完一本德国鬼故事的选集的法文译本之后，拜伦提议每位客人各写一个超自然的故事。”的处理：①after 短语保留在句首，译成“读完……之后”，“完”体现读完之后才提议的先后关系。②英文中心词 anthology 带着两层后置成分 of German ghost stories 和 in French translation，汉语全部前置，按“德国鬼故事、选集、法文译本”顺序用“的”连起来，与英文由内向外的修饰关系一致。③that 从句译成“每位客人各写一个……”，each 译成“每位”，又增补“各”，突出每人分别写一篇；从句的虚拟语气在汉语里通过“提议”自然体现，不需额外译出。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "The melancholy weather",
+   "predicate": "was",
+   "object_or_complement": "attributable to a distant blast（表语）",
+   "explain": "主系表结构：系动词 was 后接形容词短语 attributable to a distant blast 作表语。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "The melancholy weather",
+    "role": "主语（melancholy 作前置定语修饰 weather）",
+    "zh": "这种阴郁的天气"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，与 attributable to 合译为“归因于”）"
+   },
+   {
+    "text": "attributable to",
+    "role": "表语（形容词 attributable，与介词 to 构成固定搭配）",
+    "zh": "归因于"
+   },
+   {
+    "text": "a distant blast.",
+    "role": "介词 to 的宾语",
+    "zh": "一次远方的爆炸"
+   }
+  ],
+  "structure": "①句子是主系表结构：主语 The melancholy weather，系动词 was，表语是形容词短语 attributable to a distant blast。be attributable to 意为“可归因于，由……引起”（视频说明），to 是介词，后接名词 a distant blast。\n②The 是特指，指第1句所说的持续倾盆大雨的那种天气，视频译为“这种”。melancholy 本来多形容人的情绪，这里用来形容天气，使天气带上了阴沉压抑的色彩。\n③篇章上，本句是第二段的开头，承上启下：上一段讲大雨把众人困在别墅，本句点出天气背后另有原因，但只说 a distant blast，没有说是什么爆炸，留下悬念，下一句才揭晓是坦博拉火山的喷发。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be attributable to 与 attribute A to B",
+    "explain": "attribute A to B 意为“把 A 归因于 B”，被动形式 A is attributed to B；形容词 attributable 构成 be attributable to，意为“可归因于，由……引起”，主语是结果，to 后面是原因。本句结果是 The melancholy weather，原因是 a distant blast。这组表达在考研阅读的因果关系题中很常见：选项常把因果颠倒，要分清 to 前后谁是结果、谁是原因。同类表达还有 be due to、result from、stem from、be caused by。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Much of the decline in sales is attributable to rising prices.",
+      "zh": "销量下滑在很大程度上可归因于价格上涨。"
+     },
+     {
+      "en": "Scientists attribute the rise in sea levels largely to melting ice sheets.",
+      "zh": "科学家把海平面上升主要归因于冰盖融化。"
+     }
+    ]
+   },
+   {
+    "title": "to 作介词的固定结构",
+    "explain": "be attributable to 中的 to 是介词，不是不定式符号，后面接名词、代词或动名词。同类结构有 be devoted to、be committed to、look forward to、object to、be used to（习惯于）、contribute to 等，后接动词时都用 -ing 形式。考研写作和完形中常考这一点，如 be committed to improving，不能写成 be committed to improve。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The charity is committed to improving access to clean water in rural areas.",
+      "zh": "这家慈善机构致力于改善农村地区的清洁饮水条件。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "melancholy weather",
+    "explain": "melancholy 多形容人“忧郁的，伤感的”，本句用来形容天气，把人的情绪色彩转移到景物上，视频译为“阴郁的”。melancholy 也可作名词，意为“忧郁”，如 a sense of melancholy。"
+   },
+   {
+    "term": "blast",
+    "explain": "名词，意为“爆炸；冲击波；一阵（强风）”，如 a bomb blast（炸弹爆炸）、a blast of cold air（一股冷风）。本句指火山爆炸，作者用笼统的 a distant blast 先不点明，下一句才说出是坦博拉火山喷发。"
+   },
+   {
+    "term": "distant",
+    "explain": "形容词，意为“遥远的”，可指空间、时间或关系上的距离，如 a distant relative（远亲）、in the distant past（在遥远的过去）。本句指爆炸发生在离欧洲很远的地方，视频译为“远方的”。"
+   }
+  ],
+  "translation_tip": "视频译文“这种阴郁的天气，归因于一次远方的爆炸。”的处理：①定冠词 The 译成“这种”，回指上文的连绵大雨天气。②主语后加逗号停顿，突出主题“这种阴郁的天气”，再说原因。③系动词 was 不单独译出，与 attributable to 合译为“归因于”。④不定冠词 a 译成量词“一次”，与“爆炸”搭配；distant 作前置定语译为“远方的”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Mount Tambora",
+   "predicate": "blew",
+   "object_or_complement": "itself（宾语）；apart（副词，与 blew 构成 blow sth apart）",
+   "explain": "主干是 Mount Tambora blew itself apart，主谓宾结构，反身代词 itself 作宾语，副词 apart 表示结果。谓语 blew 是 blow 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 10 April 1815",
+    "role": "时间状语（介词 on + 具体日期，英式日期写法）",
+    "zh": "1815年4月10日"
+   },
+   {
+    "text": "Mount Tambora,",
+    "role": "主语",
+    "zh": "坦博拉火山"
+   },
+   {
+    "text": "on the Indonesian island of Sumbawa,",
+    "role": "插入语（介词短语），补充说明火山的位置",
+    "zh": "位于印度尼西亚的松巴哇岛上"
+   },
+   {
+    "text": "blew",
+    "role": "谓语（blow sth apart 结构中的 blow）",
+    "zh": "炸"
+   },
+   {
+    "text": "itself",
+    "role": "宾语（反身代词，指 Mount Tambora 自身）",
+    "zh": "（反身代词，不单独译出）"
+   },
+   {
+    "text": "apart",
+    "role": "副词，与 blew 构成 blow sth apart，表示动作的结果",
+    "zh": "裂开来"
+   },
+   {
+    "text": "in one of the most potent eruptions",
+    "role": "方式状语（介词短语），说明以一场怎样的喷发炸裂",
+    "zh": "那是最猛烈的喷发之一"
+   },
+   {
+    "text": "in recorded history.",
+    "role": "介词短语，限定最高级的范围（有记录以来）",
+    "zh": "在有记录的历史上"
+   }
+  ],
+  "structure": "①主句是 Mount Tambora blew itself apart：主语 Mount Tambora，谓语 blew，反身代词 itself 作宾语，副词 apart 表示结果。主语和宾语是同一事物，所以宾语用反身代词。视频说明：blow itself apart，把自己炸得四分五裂。\n②句首 On 10 April 1815 是时间状语，具体日期前用介词 on，英式写法“日 月 年”。\n③主语与谓语之间的 on the Indonesian island of Sumbawa 是插入语，前后用逗号隔开，补充说明火山的位置；读的时候要越过插入语，把 Mount Tambora 和 blew 连起来。the island of Sumbawa 中，of 表示同位关系，即“松巴哇这座岛”。\n④句尾 in one of the most potent eruptions 是方式状语，说明火山以一场什么样的喷发炸裂；one of the most + 形容词 + 复数名词 表示“最……的……之一”。in recorded history 限定最高级的范围，表示“有记录以来”（视频说明：修饰最高级）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "one of the + 最高级 + 复数名词",
+    "explain": "“最……的……之一”要写成 one of the + 形容词最高级 + 名词复数，本句 one of the most potent eruptions 中 eruptions 用复数。这个结构作主语时谓语与 one 一致，用单数，如 One of the most serious problems is…。最高级常用 in、of 短语或定语从句限定范围，如 in recorded history、of all time、that I have ever seen。考研写作中易错写成 one of the most potent eruption。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Venice is one of the most visited cities in Europe.",
+      "zh": "威尼斯是欧洲游客最多的城市之一。"
+     },
+     {
+      "en": "The 2004 tsunami was one of the deadliest natural disasters in recorded history.",
+      "zh": "2004年的海啸是有记录以来最致命的自然灾害之一。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作宾语",
+    "explain": "主语和宾语指同一个人或事物时，宾语用反身代词（myself、itself、themselves 等）。本句 blew itself apart 中，炸开的正是火山自己。类似表达有 tear itself apart（自行分裂）、shake itself apart（震得散架）、pride oneself on（以……自豪）。反身代词不能单独作主语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The party nearly tore itself apart over the question of trade policy.",
+      "zh": "该党几乎因贸易政策问题而四分五裂。"
+     }
+    ]
+   },
+   {
+    "title": "表示同位关系的 of",
+    "explain": "the + 类别名词 + of + 专有名词 中的 of 表示同位关系，前后指同一事物，如 the city of London、the island of Sumbawa、the state of California。翻译时不译成“……的……”，而是合成“伦敦市”“松巴哇岛”。本句 the Indonesian island of Sumbawa 中，Indonesian 修饰 island，整体是“印度尼西亚的松巴哇岛”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The island of Crete lies to the south of the Greek mainland.",
+      "zh": "克里特岛位于希腊本土以南。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "日期的写法 10 April 1815",
+    "explain": "英式写法按“日 月 年”排列，如 10 April 1815；美式写法按“月 日, 年”排列，如 April 10, 1815。具体到某一天时介词用 on，只有月份或年份时用 in。"
+   },
+   {
+    "term": "Mount Tambora",
+    "explain": "坦博拉火山，位于印度尼西亚松巴哇岛。Mount + 山名 前面不加冠词，如 Mount Everest、Mount Fuji。Indonesian 是按今天的国家交代位置。"
+   },
+   {
+    "term": "in recorded history",
+    "explain": "在有记录的历史上，有记录以来，recorded history 指有文字记载的那段历史。常与最高级连用，如 the hottest year in recorded history（有记录以来最热的一年）。"
+   },
+   {
+    "term": "potent",
+    "explain": "形容词，本义“强有力的，效力大的”，常形容药物、酒、武器、论据等，如 a potent drug（药效强的药）、a potent symbol（有力的象征）。本句形容火山喷发威力巨大，视频译为“猛烈的”。"
+   }
+  ],
+  "translation_tip": "视频译文基本按英文语序切分成短句：①时间状语 On 10 April 1815 放在句首，按汉语“年 月 日”的顺序译成“1815年4月10日”。②插入语保留在主语和谓语之间，译成独立的分句“位于印度尼西亚的松巴哇岛上”，前后用逗号，与英文的插入结构对应。③blew itself apart 中反身代词不单独译出，合译为“炸裂开来”。④方式状语 in one of the most potent eruptions 拆成独立分句，增补“那是”回指这次炸裂，译成“那是最猛烈的喷发之一”；最高级的范围 in recorded history 放在句末，译成“在有记录的历史上”，与英文语序一致，便于对照。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "About 10,000 people；tens of thousands more",
+   "predicate": "died（第二个分句承前省略了 died）",
+   "object_or_complement": "",
+   "explain": "and 连接两个并列分句：About 10,000 people died immediately 是主谓结构，die 为不及物动词，不带宾语；第二个分句 tens of thousands more (died) of starvation and disease 承前省略了谓语 died。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "About 10,000 people",
+    "role": "第一个分句的主语（about 修饰数词，表示“大约”）",
+    "zh": "约1万人"
+   },
+   {
+    "text": "died",
+    "role": "第一个分句的谓语（不及物动词）",
+    "zh": "死亡"
+   },
+   {
+    "text": "immediately,",
+    "role": "时间状语（副词），说明是在喷发当时死亡",
+    "zh": "当场"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个分句",
+    "zh": "而"
+   },
+   {
+    "text": "tens of thousands more",
+    "role": "第二个分句的主语（后面承前省略了谓语 died）",
+    "zh": "又有数万人"
+   },
+   {
+    "text": "of starvation and disease",
+    "role": "原因状语（介词短语，与省略的 died 构成 die of）",
+    "zh": "死于饥饿和疾病"
+   },
+   {
+    "text": "in the aftermath.",
+    "role": "时间状语（介词短语），指灾难过后的一段时间",
+    "zh": "发生在随后的余波中"
+   }
+  ],
+  "structure": "①这是由 and 连接的并列句。第一个分句 About 10,000 people died immediately：主语 About 10,000 people，谓语 died，immediately 作时间状语，视频说明：died immediately，当场死亡，指爆发直接致死。\n②第二个分句 tens of thousands more of starvation and disease in the aftermath 中，tens of thousands more 是主语，后面承前省略了谓语 died（视频说明：tens of thousands more 后面省略了 died），补全后是 tens of thousands more died of starvation and disease in the aftermath。of starvation and disease 与 died 构成 die of，说明死因；in the aftermath 是时间状语，视频说明：在随后的余波中，指灾难过后的一段时间。\n③两个分句形成对比：前者是喷发当时的直接死亡，后者是之后饥荒和疾病造成的间接死亡，人数更多。more 放在 tens of thousands 之后，表示“另外又有”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "并列句中承前省略谓语",
+    "explain": "两个并列分句的谓语相同时，第二个分句常省略重复的谓语动词，只保留主语和其他成分，这种省略在正式文体中很常见。本句第二个分句只留下主语 tens of thousands more 和状语 of starvation and disease、in the aftermath，谓语 died 承前省略。识别方法：and 后面出现名词短语，接着是介词短语或另一个名词，却找不到谓语，就要到前一个分句里找被省略的动词。本文第16句 and a teenager the monster 也是同样的省略。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first group received the drug, and the second a placebo.",
+      "zh": "第一组服用了这种药，第二组服用了安慰剂。"
+     },
+     {
+      "en": "Some students chose history, and others economics.",
+      "zh": "一些学生选了历史，另一些选了经济学。"
+     }
+    ]
+   },
+   {
+    "title": "die of 与 die from",
+    "explain": "die 是不及物动词，说明死因要借助介词：die of 多接疾病、饥饿、衰老等内在原因，如 die of cancer、die of starvation；die from 多接外伤、事故等外部原因，如 die from injuries。现代英语中两者界限并不严格，常可互换。本句省略了 died，只剩 of starvation and disease，要能看出 of 是 die of 的一部分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He died from injuries he had suffered in the crash.",
+      "zh": "他死于在车祸中受的伤。"
+     }
+    ]
+   },
+   {
+    "title": "数量词 + more 表示“另外又有”",
+    "explain": "more 放在数词或数量词之后，表示在已有数量之外“再，又”，如 two more days（再过两天）、three more volunteers（另外三名志愿者）、tens of thousands more（又有数万人）。本句 more 把第二批死者与前面的 10,000 人区分开，视频译为“又有数万人”。注意语序：不能说 more tens of thousands。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The factory closure cost 500 jobs, and hundreds more may disappear next year.",
+      "zh": "这家工厂关闭让500人失去了工作，明年可能还会有数百个岗位消失。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "in the aftermath (of)",
+    "explain": "在（灾难、战争、事故等）之后的一段时间里，多用于不好的事件之后，如 in the aftermath of the earthquake（地震过后）。本句省略了 of 部分，指火山喷发之后。视频说明：在随后的余波中，指灾难过后的一段时间。"
+   },
+   {
+    "term": "10,000 与 tens of thousands",
+    "explain": "英语按千位用逗号分节，10,000 即 ten thousand，汉语以“万”为单位，视频译为“1万”。tens of thousands 意为“数万”，类似的有 hundreds of thousands（数十万）、millions of（数百万）。"
+   },
+   {
+    "term": "starvation",
+    "explain": "名词，意为“饥饿，饿死”，die of starvation 即饿死。本句的饥饿源于喷发后天气异常、庄稼歉收。"
+   }
+  ],
+  "translation_tip": "视频译文“约1万人当场死亡，而又有数万人死于饥饿和疾病，发生在随后的余波中。”的处理：①10,000 按汉语计数习惯译成“1万”，about 译“约”。②immediately 译成“当场”，放在“死亡”之前，说明直接死于喷发。③and 译成“而”，带出前后两种死亡的对比。④第二个分句中省略的 died 在汉语中补出，与 of 合译为“死于”；more 译成“又有”。⑤in the aftermath 没有前置，而是单独成句“发生在随后的余波中”，放在句末，与英文语序一致。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "The volcano",
+   "predicate": "pumped",
+   "object_or_complement": "prodigious quantities of sulphur dioxide（宾语）",
+   "explain": "主干是 The volcano pumped prodigious quantities of sulphur dioxide，主谓宾结构，from its crater 和 into the stratosphere 两个介词短语说明泵送的起点和终点。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The volcano",
+    "role": "主语（指坦博拉火山）",
+    "zh": "这座火山"
+   },
+   {
+    "text": "pumped",
+    "role": "谓语（pump A from B into C 结构中的 pump）",
+    "zh": "泵入了"
+   },
+   {
+    "text": "prodigious quantities of sulphur dioxide",
+    "role": "宾语",
+    "zh": "庞大数量的二氧化硫"
+   },
+   {
+    "text": "from its crater",
+    "role": "状语（介词短语），表示起点",
+    "zh": "从它的火山口"
+   },
+   {
+    "text": "into the stratosphere,",
+    "role": "状语（介词短语），表示终点",
+    "zh": "送进平流层"
+   },
+   {
+    "text": "where",
+    "role": "关系副词，引导非限制性定语从句，修饰 the stratosphere，在从句中作地点状语",
+    "zh": "在那里"
+   },
+   {
+    "text": "it",
+    "role": "定语从句的主语，指 sulphur dioxide",
+    "zh": "它们"
+   },
+   {
+    "text": "formed",
+    "role": "定语从句的谓语",
+    "zh": "形成了"
+   },
+   {
+    "text": "sulphate aerosols",
+    "role": "定语从句的宾语",
+    "zh": "硫酸盐气溶胶"
+   },
+   {
+    "text": "that blanketed the globe,",
+    "role": "限制性定语从句（that 作从句主语），修饰 sulphate aerosols",
+    "zh": "像毯子一样笼罩了全球"
+   },
+   {
+    "text": "reflecting sunshine",
+    "role": "结果状语（现在分词短语），逻辑主语是 sulphate aerosols",
+    "zh": "反射阳光"
+   },
+   {
+    "text": "and thereby lowering temperatures world-wide.",
+    "role": "结果状语（现在分词短语，与 reflecting sunshine 并列，thereby 表示由此产生的结果）",
+    "zh": "从而降低了全世界的气温"
+   }
+  ],
+  "structure": "①主句是 The volcano pumped prodigious quantities of sulphur dioxide from its crater into the stratosphere，用 pump A from B into C 的结构（视频说明：把 A 从 B 泵入 C）：A 是宾语 prodigious quantities of sulphur dioxide，from its crater 表示起点，into the stratosphere 表示终点。\n②逗号后 where 引导非限制性定语从句，修饰 the stratosphere（视频说明），where 相当于 in which，在从句中作地点状语。从句主语 it 指前面的 sulphur dioxide，谓语 formed，宾语 sulphate aerosols。\n③that blanketed the globe 是限制性定语从句，修饰 sulphate aerosols（视频说明），that 在从句中作主语，blanket 用作动词，意为“像毯子一样覆盖”。这是嵌套在 where 从句里的第二层从句。\n④reflecting sunshine and thereby lowering temperatures world-wide 是两个并列的现在分词短语，作结果状语（视频说明），逻辑主语是笼罩全球的 sulphate aerosols：气溶胶反射阳光，由此使气温下降。thereby 意为“从而，由此”，强调后一个结果由前一个动作引起；world-wide 是副词，意为“在全世界范围内”。\n⑤全句按因果链展开：火山喷出二氧化硫，二氧化硫在平流层形成气溶胶，气溶胶笼罩全球、反射阳光，最终导致全球降温，为下一句的“无夏之年”作铺垫。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "where 是关系副词，先行词是表示地点的名词，where 在从句中作地点状语，相当于 in/at which。逗号表明从句是非限制性的，对先行词作补充说明。判断用 where 还是 which：看从句缺什么成分，缺地点状语用 where，缺主语或宾语用 which。本句从句 it formed sulphate aerosols 主谓宾齐全，缺的是“在平流层里”这一地点状语，所以用 where。考研翻译中，非限制性 where 从句常译成“在那里”另起一句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The samples were sent to a laboratory in Geneva, where they were analysed by a team of chemists.",
+      "zh": "样本被送往日内瓦的一家实验室，在那里由一组化学家进行分析。"
+     },
+     {
+      "en": "Many graduates move to Shenzhen, where salaries are higher and jobs are easier to find.",
+      "zh": "许多毕业生搬到深圳，那里工资更高，工作也更好找。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，常表示前面动作自然产生的结果，前面可加 thereby、thus 强调因果。分词的逻辑主语一般是前面分句的主语，本句 reflecting 和 lowering 的逻辑主语是 blanketed 的主语，即 sulphate aerosols。与不定式作结果状语区分：only to do 多表示出乎意料的结果，doing 表示顺理成章的结果。考研翻译中，这类分词常译成“从而……”“使……”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain flooded the main road, cutting off the village for two days.",
+      "zh": "大雨淹没了主干道，使村子与外界隔绝了两天。"
+     },
+     {
+      "en": "The company cut its prices by 20 per cent, thereby forcing its rivals to follow suit.",
+      "zh": "这家公司把价格降低了20%，从而迫使竞争对手跟着降价。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句的嵌套",
+    "explain": "一个定语从句内部可以再带定语从句。本句 where 从句修饰 the stratosphere，它的宾语 sulphate aerosols 又带着 that 引导的限制性定语从句，that 在其中作主语。分析时先找每个关系词的先行词，再看它在从句中作什么成分，逐层拆开。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She works in a laboratory where scientists study proteins that protect cells from damage.",
+      "zh": "她在一间实验室工作，那里的科学家研究保护细胞免受损伤的蛋白质。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "pump A from B into C",
+    "explain": "把 A 从 B 泵入 C。pump 本义是用泵抽、压，引申为大量注入，如 pump money into the economy（向经济注入大量资金）。视频译为“泵入了”。"
+   },
+   {
+    "term": "prodigious quantities of",
+    "explain": "大量的，quantities of 后可接不可数名词或可数名词复数，large quantities of 是常见说法；prodigious 意为（范围，规模，程度）巨大的，庞大的（视频说明），语气比 large 更强。"
+   },
+   {
+    "term": "sulphur dioxide 与 sulphate",
+    "explain": "二氧化硫，化学式 SO2；sulphate 意为硫酸盐。sulphur、sulphate 是英式拼写，美式拼写为 sulfur、sulfate。"
+   },
+   {
+    "term": "stratosphere",
+    "explain": "平流层，位于对流层之上的大气层。火山喷出的硫化物进入平流层后，形成的气溶胶可以停留较长时间并扩散到全球，这是本句描述的降温机制。"
+   },
+   {
+    "term": "world-wide",
+    "explain": "也写作 worldwide，可作形容词（a world-wide reputation 世界性的声誉）或副词（在全世界）。本句作副词，视频说明：副词，在全世界范围内。"
+   }
+  ],
+  "translation_tip": "视频把这个长句按英文语序切成多个短句顺译：①主句中 from its crater into the stratosphere 两个介词短语拆开，译成“从它的火山口送进平流层”，增补动词“送进”，与前面的“泵入了”衔接。②where 从句不前置，译成“在那里，……”另起一句，it 指前面大量的二氧化硫，译为“它们”。③that 从句也不前置，顺译为“像毯子一样笼罩了全球”，“像毯子一样”保留了动词 blanket 的形象。④两个现在分词短语顺译为“反射阳光，从而降低了全世界的气温”，thereby 译成“从而”，world-wide 译成定语“全世界的”放在“气温”前。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Europe and North America",
+   "predicate": "came to know",
+   "object_or_complement": "1816（宾语）；as the Year Without a Summer（宾语补足语）",
+   "explain": "主谓宾宾补结构：came to know 作谓语，1816 是宾语，as 短语是宾语补足语，构成 know A as B。谓语为一般过去时，主动语态；come to do 表示“渐渐，后来”。"
+  },
+  "components": [
+   {
+    "text": "Europe and North America",
+    "role": "主语（两个并列的专有名词）",
+    "zh": "欧洲和北美"
+   },
+   {
+    "text": "came to",
+    "role": "谓语的一部分（come to do 表示逐渐、后来发生的变化）",
+    "zh": "后来"
+   },
+   {
+    "text": "know",
+    "role": "谓语动词（不定式符号 to 后的原形，与后面的 as 构成 know A as B）",
+    "zh": "把……称作"
+   },
+   {
+    "text": "1816",
+    "role": "宾语",
+    "zh": "1816年"
+   },
+   {
+    "text": "as the Year Without a Summer.",
+    "role": "宾语补足语（as 引导的介词短语）",
+    "zh": "无夏之年"
+   }
+  ],
+  "structure": "①句子是主谓宾宾补结构：主语 Europe and North America，谓语 came to know，宾语 1816，宾语补足语 as the Year Without a Summer。know A as B 意为“把 A 称作 B”（视频说明），as 短语说明宾语 1816 被叫作什么。\n②came to know 中，come to do 表示“渐渐开始做……”（视频说明），强调一种认识或说法逐步形成，不是“来到某地去做某事”。视频译为“后来”。\n③the Year Without a Summer 是专有名称，实词首字母大写，前面加定冠词 the。本句承接上一句的全球降温，点出它在历史上的名称。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "come to do 表示逐渐的变化",
+    "explain": "come to + know、see、understand、accept、realize、believe、regard 等表示认识、态度的动词，意为“逐渐、终于开始……”，表达认识或状态的变化。本句 came to know 1816 as… 指人们后来逐渐把1816年称作“无夏之年”。易混点：come to 后接名词表示“来到；达到”，如 come to a conclusion（得出结论）；come to do 中 to 是不定式符号，后接动词原形，与 be used to doing 中作介词的 to 不同。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Over time, she came to accept the committee's decision.",
+      "zh": "随着时间推移，她渐渐接受了委员会的决定。"
+     },
+     {
+      "en": "Many readers have come to see the novel as a warning about technology.",
+      "zh": "许多读者渐渐把这部小说看作对科技的警示。"
+     }
+    ]
+   },
+   {
+    "title": "know A as B 与 be known as / for / to",
+    "explain": "know A as B 意为“把 A 称作 B”，被动形式为 A is known as B（A 被称作 B）。区分几个常考搭配：be known as 后接名称或身份（以……身份而出名、被称为）；be known for 后接原因（因……而出名）；be known to 后接人（为……所知）。本句是主动形式，主语是使用这个名称的 Europe and North America。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The economist is known for her work on inequality.",
+      "zh": "这位经济学家以对不平等问题的研究而闻名。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Year Without a Summer",
+    "explain": "“无夏之年”，指1816年。正如上一句所说，坦博拉火山喷发后全球降温，这一年欧洲和北美的夏天异常寒冷。作为专有名称，Year、Without、Summer 首字母大写，冠词 a 小写。"
+   },
+   {
+    "term": "North America",
+    "explain": "北美洲，专有名词，前面不加冠词。视频译为“北美”。"
+   }
+  ],
+  "translation_tip": "视频译文“欧洲和北美后来把1816年称作无夏之年。”的处理：①came to 译成“后来”，表达说法逐渐形成的过程。②know A as B 译成“把 A 称作 B”的“把”字句，宾语1816年提到动词前，读起来简洁顺畅。③专名 the Year Without a Summer 译成四字的“无夏之年”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Europe's summer",
+   "predicate": "was",
+   "object_or_complement": "chilly and relentlessly wet（并列表语）",
+   "explain": "主系表结构，系动词 was 后接两个由 and 连接的并列表语 chilly 和 relentlessly wet。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Europe's summer",
+    "role": "主语（名词所有格 Europe's 作定语）",
+    "zh": "欧洲的夏天"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "（系动词，不单独译出）"
+   },
+   {
+    "text": "chilly",
+    "role": "表语一（形容词）",
+    "zh": "寒冷"
+   },
+   {
+    "text": "and relentlessly wet.",
+    "role": "并列连词 and + 表语二（副词 relentlessly 修饰形容词 wet）",
+    "zh": "雨也持续不断"
+   }
+  ],
+  "structure": "①句子是主系表结构：主语 Europe's summer，系动词 was，表语是 and 连接的两个形容词 chilly 和 wet。\n②第二个表语 wet 前有副词 relentlessly 修饰，表示“无休止地”。视频说明：relentlessly wet，无休止地潮湿，这里指雨一直下个不停。\n③本句从全球降温落到欧洲夏天的具体天气：又冷又湿，为下一句庄稼歉收、粮价上涨作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "副词修饰形容词",
+    "explain": "形容词前面可以加副词，表示程度或方式，如 extremely cold、surprisingly easy、relentlessly wet。本句 relentlessly 修饰 wet，说明“湿”的状态持续不断。修饰形容词要用副词，不能用形容词，如不能写成 relentless wet。考研写作中，用“副词 + 形容词”能让描述更精确。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The negotiations were painfully slow and frequently interrupted.",
+      "zh": "谈判进展极其缓慢，而且屡屡中断。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与形容词作定语",
+    "explain": "表示国家、地区、城市的名词可以用 's 所有格作定语，如 Europe's summer、China's economy，新闻语体中很常见；也可以用相应的形容词，如 the European summer、the Chinese economy。两者意思接近，所有格更强调“属于该地区的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Japan's population has been shrinking for more than a decade.",
+      "zh": "日本人口已经连续十多年在减少。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "chilly",
+    "explain": "形容词，意为“寒冷的，冷飕飕的”，寒冷程度一般比 cold 轻，带有令人不舒服的感觉；也可形容态度冷淡，如 a chilly reception（冷淡的接待）。视频译为“寒冷”。"
+   },
+   {
+    "term": "wet 形容天气",
+    "explain": "wet 形容天气或季节时意为“多雨的”，如 a wet summer（多雨的夏天）、the wet season（雨季）。本句 relentlessly wet 指雨一直下个不停，与第1句的 ceaseless downpour 呼应。"
+   }
+  ],
+  "translation_tip": "视频译文“欧洲的夏天寒冷，雨也持续不断。”的处理：①系动词 was 不单独译出，chilly 直接作谓语译成“寒冷”。②relentlessly wet 如果直译成“无休止地潮湿”不符合汉语习惯，视频按说明所说“雨一直下个不停”，把 wet 具体化为“雨”，副词 relentlessly 转成谓语“持续不断”，译成独立的小句“雨也持续不断”。③“也”体现 and 的并列关系，把冷和雨两种天气连起来。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Crops；cereal and bread prices；scarcity, disease, and unrest",
+   "predicate": "failed or lay；escalated；followed",
+   "object_or_complement": "rotten（lay 的表语）",
+   "explain": "三个分句并列，格式为 A, B, and C：Crops failed or lay rotten（主谓，及主系表），cereal and bread prices escalated（主谓），scarcity, disease, and unrest followed（主谓）。三个分句的谓语都是一般过去时，fail、escalate、follow 在句中都是不及物动词。"
+  },
+  "components": [
+   {
+    "text": "Crops",
+    "role": "第一个分句的主语",
+    "zh": "庄稼"
+   },
+   {
+    "text": "failed",
+    "role": "第一个分句的谓语一（不及物动词，指庄稼歉收）",
+    "zh": "要么歉收"
+   },
+   {
+    "text": "or lay rotten",
+    "role": "并列连词 or + 谓语二（lay 是 lie 的过去式，作系动词，rotten 作表语）",
+    "zh": "要么腐烂"
+   },
+   {
+    "text": "in saturated fields,",
+    "role": "地点状语（介词短语），saturated 作前置定语修饰 fields",
+    "zh": "在浸透了水的田地里"
+   },
+   {
+    "text": "cereal and bread prices",
+    "role": "第二个分句的主语（cereal and bread 作定语修饰 prices）",
+    "zh": "谷物和面包价格"
+   },
+   {
+    "text": "escalated,",
+    "role": "第二个分句的谓语（不及物动词）",
+    "zh": "飞涨"
+   },
+   {
+    "text": "and scarcity, disease, and unrest",
+    "role": "并列连词 and + 第三个分句的主语（三个并列名词，带牛津逗号）",
+    "zh": "（物资）短缺、疾病和动荡"
+   },
+   {
+    "text": "followed.",
+    "role": "第三个分句的谓语（不及物动词，意为“随之而来”）",
+    "zh": "随之而来"
+   }
+  ],
+  "structure": "①全句是三个分句的并列，格式为 Crops failed…, prices escalated, and … followed（视频说明），最后一个分句前用 and，and 前有逗号。三个分句按因果顺序排列：庄稼受灾，粮价上涨，随后出现短缺、疾病和动荡。\n②第一个分句中，主语 Crops 带两个由 or 连接的谓语：failed（歉收）和 lay rotten（烂在田里）。lay 是 lie 的过去式，lie 在这里作系动词，后接形容词 rotten 作表语，lie rotten 意为“烂在那里”（视频说明）。in saturated fields 是地点状语，saturated 指被雨水浸透（视频说明）。\n③第二个分句 cereal and bread prices escalated 中，cereal and bread 是名词作定语修饰 prices。\n④第三个分句的主语是三个并列名词 scarcity, disease, and unrest，内部也用牛津逗号；follow 在此为不及物动词，意为“接着发生，随之而来”（视频说明），后面没有宾语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "三个分句并列与牛津逗号",
+    "explain": "三个及以上的分句并列时，写成 A, B, and C，前面的分句之间用逗号，最后一个分句前加 and，and 前的逗号即牛津逗号。本句的三个分句共用一个 and，第三个分句内部又有三个名词并列 scarcity, disease, and unrest，同样用牛津逗号。考研长难句中遇到连串逗号，要先数清有几个主谓结构，分清是分句并列还是名词并列。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The power failed, the trains stopped, and thousands of commuters were stranded.",
+      "zh": "电力中断，火车停运，数千名通勤者被困。"
+     }
+    ]
+   },
+   {
+    "title": "lie 作系动词及 lie、lay 的辨析",
+    "explain": "lie 意为“躺；处于某种状态”，变化为 lie、lay、lain，现在分词 lying，不及物；作系动词时后接形容词表示状态，如 lie idle（闲置）、lie empty（空着）、lie dormant（休眠）、lie rotten（烂在那里）。lay 意为“放置；下蛋”，变化为 lay、laid、laid，及物。lie 表示“说谎”时变化为 lied、lied。本句 lay 是 lie 的过去式（视频说明），不是“放置”的 lay，判断依据是它后面没有宾语，接的是形容词 rotten。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The factory has lain empty since it closed in 2015.",
+      "zh": "这家工厂自2015年关闭以来一直空置。"
+     },
+     {
+      "en": "She laid the documents on the desk and left the room.",
+      "zh": "她把文件放在桌上，离开了房间。"
+     }
+    ]
+   },
+   {
+    "title": "名词作定语",
+    "explain": "英语中名词可以直接放在另一个名词前作定语，一般用单数形式，如 bread prices（面包价格）、price rise（价格上涨）、water shortage（缺水）。本句 cereal and bread prices 中，两个并列名词共同修饰 prices。翻译时直接译成“谷物和面包价格”即可。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rising energy and food costs have hit low-income families hardest.",
+      "zh": "能源和食品成本的上涨对低收入家庭冲击最大。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "crops fail",
+    "explain": "fail 的熟词僻义：用于庄稼时意为“歉收，收成不好”，名词说法是 crop failure（歉收）、harvest failure。视频译为“歉收”。"
+   },
+   {
+    "term": "saturated fields",
+    "explain": "saturated 本义“湿透的”，也指化学或市场上的“饱和的”，如 a saturated market（饱和的市场）。本句指被雨水浸透的田地，视频译为“浸透了水的”。"
+   },
+   {
+    "term": "cereal",
+    "explain": "名词，指小麦、大米、大麦、燕麦等谷物，日常也指早餐麦片。本句 cereal prices 指粮食价格，视频译为“谷物”。"
+   },
+   {
+    "term": "follow",
+    "explain": "不及物用法：接着发生，随之而来，如 A long silence followed（接着是长时间的沉默）。视频说明：follow，接着发生，随之而来。常见短语 as follows（如下）、in the days that followed（在随后的几天里）。"
+   },
+   {
+    "term": "unrest",
+    "explain": "不可数名词，指社会、政治上的动荡、骚乱，如 social unrest（社会动荡）、political unrest（政治动荡）。un- 表示否定，rest 意为“安宁”。"
+   }
+  ],
+  "translation_tip": "视频译文“庄稼要么歉收，要么腐烂在浸透了水的田地里，谷物和面包价格飞涨，（物资）短缺、疾病和动荡随之而来。”的处理：①or 连接的两个谓语译成“要么……要么……”，把两种结果分得清楚。②saturated 前置为定语“浸透了水的”，地点状语 in saturated fields 接在“腐烂”之后，译成“腐烂在……田地里”。③三个分句按原顺序顺译，第三个分句前的 and 不单独译出。④scarcity 单译“短缺”意思不完整，视频用括号增补“（物资）”；三个并列名词用顿号和“和”连接。⑤followed 译成“随之而来”，体现前因后果。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The eighteen-year-old Mary Godwin",
+   "predicate": "had set out",
+   "object_or_complement": "",
+   "explain": "主谓结构，set out 是不及物短语动词，后面不带宾语。谓语 had set out 为过去完成时，主动语态，表示出发发生在第1句所说的1816年6月之前。"
+  },
+  "components": [
+   {
+    "text": "The eighteen-year-old Mary Godwin,",
+    "role": "主语（复合形容词 eighteen-year-old 作前置定语）",
+    "zh": "十八岁的玛丽·戈德温"
+   },
+   {
+    "text": "later Mary Shelley,",
+    "role": "同位语，补充说明 Mary Godwin 后来的名字",
+    "zh": "也就是后来的玛丽·雪莱"
+   },
+   {
+    "text": "had set out",
+    "role": "谓语（过去完成时）",
+    "zh": "就已启程"
+   },
+   {
+    "text": "in May",
+    "role": "时间状语（介词短语）",
+    "zh": "5月间"
+   },
+   {
+    "text": "alongside Percy Bysshe Shelley and Claire Clairmont.",
+    "role": "伴随状语（介词 alongside 引导的介词短语），说明同行的人",
+    "zh": "结伴同行的有珀西·比希·雪莱和克莱尔·克莱蒙特"
+   }
+  ],
+  "structure": "①主句是 The eighteen-year-old Mary Godwin had set out in May：主语 Mary Godwin，前面的 eighteen-year-old 是复合形容词作定语；谓语 had set out，set out 意为“出发，启程”；in May 是时间状语。\n②主语后用逗号隔开的 later Mary Shelley 是同位语，补充说明 Mary Godwin 后来的名字（视频说明），可以看作 who was later Mary Shelley 的简化。\n③had set out 是过去完成时：第1句已把叙事时间定在1816年6月，5月出发发生在此之前，是“过去的过去”（视频说明：出发在6月之前）。\n④alongside Percy Bysshe Shelley and Claire Clairmont 是介词短语作伴随状语，alongside 为介词，意为“与……一起”（视频说明），交代同行的两个人。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "过去完成时 had done 表示在过去某一时间或动作之前已经发生的事。叙事中先确立一个过去的时间点，再回头交代更早的事时用过去完成时。本文第1句把时间定在1816年6月，本句回溯玛丽5月就已出发，所以用 had set out。考研完形和阅读中，看到 had done 要据此理清事件的先后；by the time 引导一般过去时的从句时，主句常用过去完成时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the ambulance arrived, the patient had already lost consciousness.",
+      "zh": "救护车到达时，病人已经失去了知觉。"
+     },
+     {
+      "en": "She had worked in Paris for ten years before she moved to London.",
+      "zh": "她搬到伦敦之前已经在巴黎工作了十年。"
+     }
+    ]
+   },
+   {
+    "title": "带连字符的复合形容词",
+    "explain": "“数词 + 名词 + 形容词”等结构用连字符连成复合形容词，放在名词前作定语，其中的名词用单数，如 an eighteen-year-old girl、a five-minute walk、a ten-mile race。作表语时不用连字符，名词用复数，如 She was eighteen years old。考研写作常见错误是写成 an eighteen-years-old girl。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum hired a twenty-five-year-old curator to run its new gallery.",
+      "zh": "博物馆聘请了一位二十五岁的策展人来管理新展厅。"
+     }
+    ]
+   },
+   {
+    "title": "后来名称作同位语",
+    "explain": "表示人或地方后来、现在的名称时，常用 later、now、formerly 加名词作同位语，前后用逗号隔开，如 Mary Godwin, later Mary Shelley；Peking, now Beijing。这种同位语相当于省略了 who/which was later 的非限制性定语从句，翻译时常译成“也就是后来的……”“即今天的……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Constantinople, now Istanbul, was the capital of the Byzantine Empire.",
+      "zh": "君士坦丁堡，也就是今天的伊斯坦布尔，曾是拜占庭帝国的都城。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Mary Godwin / Mary Shelley",
+    "explain": "玛丽·雪莱生于1797年，父亲是哲学家威廉·戈德温（William Godwin），母亲是女权主义先驱玛丽·沃斯通克拉夫特（Mary Wollstonecraft），所以本姓戈德温。1816年12月她与珀西·比希·雪莱结婚，此后随夫姓雪莱。"
+   },
+   {
+    "term": "Percy Bysshe Shelley",
+    "explain": "珀西·比希·雪莱（1792年至1822年），英国浪漫主义诗人，与拜伦同时代。"
+   },
+   {
+    "term": "Claire Clairmont",
+    "explain": "克莱尔·克莱蒙特，玛丽的继妹：她的母亲后来嫁给了玛丽的父亲威廉·戈德温。"
+   },
+   {
+    "term": "set out",
+    "explain": "短语动词，意为“出发，启程”，常接 on a journey、for 某地；set out to do 意为“着手做，打算做”，如 set out to prove a theory。视频说明：set out，出发，启程。"
+   },
+   {
+    "term": "alongside",
+    "explain": "介词，意为“与……一起；在……旁边”，如 work alongside colleagues（与同事并肩工作）。视频说明：alongside，介词，与……一起。"
+   }
+  ],
+  "translation_tip": "视频译文“十八岁的玛丽·戈德温，也就是后来的玛丽·雪莱，5月间就已启程，结伴同行的有珀西·比希·雪莱和克莱尔·克莱蒙特。”的处理：①复合形容词 eighteen-year-old 前置为“十八岁的”。②同位语 later Mary Shelley 保留在原位，增补“也就是后来的”，说明是同一个人后来的名字。③过去完成时 had set out 用“就已”体现出发早于6月。④alongside 短语没有译成“与……一起出发”，而是放在句末另起分句“结伴同行的有……”，避免主语后堆积过长的状语。⑤人名按通行译法音译，名和姓之间用间隔号。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "she",
+   "predicate": "would recollect",
+   "object_or_complement": "a damp, gloomy summer（宾语）",
+   "explain": "主谓宾结构，宾语 summer 后带 whose 引导的定语从句。谓语 would recollect 是过去将来时，主动语态：以1816年为叙事时间，回忆写在之后的1831年。"
+  },
+  "components": [
+   {
+    "text": "In her 1831 preface",
+    "role": "地点状语（介词短语，指在书的序言中）",
+    "zh": "在她1831年的（书的）序言里"
+   },
+   {
+    "text": "she",
+    "role": "主语（指玛丽）",
+    "zh": "她"
+   },
+   {
+    "text": "would recollect",
+    "role": "谓语（过去将来时）",
+    "zh": "回忆说"
+   },
+   {
+    "text": "a damp, gloomy summer",
+    "role": "宾语（damp 和 gloomy 两个并列形容词作前置定语）",
+    "zh": "那是一个潮湿、阴沉的夏天"
+   },
+   {
+    "text": "whose torrents",
+    "role": "定语从句的主语（whose 引导定语从句，修饰 summer，在从句中作定语修饰 torrents）",
+    "zh": "那个夏天的倾盆大雨"
+   },
+   {
+    "text": "often kept the group indoors for days.",
+    "role": "定语从句的谓语部分（kept 为谓语，the group 为宾语，indoors 为宾语补足语，for days 为时间状语）",
+    "zh": "常常把大家困在屋里好几天"
+   }
+  ],
+  "structure": "①主句是 she would recollect a damp, gloomy summer：主语 she，谓语 would recollect，宾语 a damp, gloomy summer。句首 In her 1831 preface 是状语，说明她在哪里写下这段回忆。\n②would recollect 是过去将来时（视频说明）：叙事时间是1816年，从那时看，她要到1831年才写下这段回忆，would 表示“后来会”。\n③damp 和 gloomy 是两个并列的形容词，分别说明夏天潮湿、阴沉，中间用逗号隔开，相当于 damp and gloomy。\n④whose 引导定语从句，修饰 summer（视频说明）。whose 在从句中作定语，修饰 torrents，whose torrents 即 the summer's torrents，那个夏天的倾盆大雨。从句谓语 kept 后接宾语 the group 和宾语补足语 indoors，keep sb indoors 意为“使某人待在屋里”（视频说明）；often 是频度状语，for days 是时间状语，意为“一连好几天”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "would + 动词原形表示过去将来",
+    "explain": "过去将来时 would do 表示从过去某一时间看将要发生的事。叙事文中常用它提前交代人物“后来会”做什么，时间跨度可以很大，常与 later 连用，如 He would later become president。本句以1816年为叙事时间，would recollect 指她十五年后在1831年写下回忆。考研阅读中，这种 would 不是虚拟语气，也不是表示过去习惯，要结合时间线判断。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The young clerk would later become one of the country's most powerful bankers.",
+      "zh": "这个年轻的职员后来成为了全国最有权势的银行家之一。"
+     },
+     {
+      "en": "He left the village at sixteen and would not return for forty years.",
+      "zh": "他十六岁离开村子，此后四十年都没有回来。"
+     }
+    ]
+   },
+   {
+    "title": "whose 引导定语从句（先行词指物）",
+    "explain": "whose 是关系代词的所有格，在从句中作定语，后面紧跟它修饰的名词。先行词可以指人，也可以指物；指物时 whose + 名词 相当于 the + 名词 + of which。本句先行词 summer 是物，whose torrents = the torrents of the summer。注意不要把 whose 与 who's（who is 的缩写）混淆。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Scientists are studying a lake whose water has turned bright pink.",
+      "zh": "科学家们正在研究一个湖，那里的湖水变成了亮粉色。"
+     }
+    ]
+   },
+   {
+    "title": "keep + 宾语 + 副词作宾语补足语",
+    "explain": "keep 的宾语补足语除了形容词、分词，还可以是副词或介词短语，如 keep sb indoors（让某人待在屋里）、keep sb away from sth（使某人远离某物）、keep sb in hospital（让某人住院）。本句 kept the group indoors 中，副词 indoors 说明宾语 the group 所处的位置状态。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A bad cold kept her away from school for a week.",
+      "zh": "一场重感冒让她一个星期没去上学。"
+     }
+    ]
+   },
+   {
+    "title": "并列形容词之间的逗号",
+    "explain": "两个形容词从不同方面平等地修饰同一个名词时，可用逗号隔开，相当于用 and 连接，如 a damp, gloomy summer = a damp and gloomy summer。判断方法：两个形容词能互换位置、能在中间加 and，就用逗号。不能互换的，如 a small wooden box，则不加逗号。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "It was a long, difficult winter for the farmers.",
+      "zh": "对农民来说，那是一个漫长而艰难的冬天。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "her 1831 preface",
+    "explain": "指1831年《弗兰肯斯坦》修订再版时，玛丽·雪莱为该书写的卷首文字，回顾了这部小说的创作缘起。1831 是数字作定语，放在 preface 前。视频增补“（书的）”说明这是书的序言。"
+   },
+   {
+    "term": "recollect",
+    "explain": "动词，意为“回忆起，记起”，比 remember 正式，常接名词、动名词或 that 从句。名词形式 recollection 意为“回忆”。视频译为“回忆”。"
+   },
+   {
+    "term": "torrents",
+    "explain": "torrent 本义“激流，洪流”，用于雨时指倾盆大雨，常说 the rain came down in torrents（大雨倾盆而下）；也可比喻“连续不断的一大串”，如 a torrent of abuse（一连串的辱骂）。视频译为“倾盆大雨”。"
+   },
+   {
+    "term": "for days",
+    "explain": "一连好几天，for + 复数时间名词表示时间之长，如 for weeks、for years。视频译为“好几天”。"
+   }
+  ],
+  "translation_tip": "视频译文“在她1831年的（书的）序言里，她回忆说，那是一个潮湿、阴沉的夏天，那个夏天的倾盆大雨常常把大家困在屋里好几天。”的处理：①状语 In her 1831 preface 放在句首，用括号增补“（书的）”，说明序言属于那本书。②would recollect 译成“回忆说”，后面引出回忆的内容。③宾语 a damp, gloomy summer 拆成判断句“那是一个潮湿、阴沉的夏天”，并列形容词之间用顿号。④whose 从句不前置，顺译成独立分句，用“那个夏天的”回指 whose 的先行词 summer。⑤keep the group indoors 用“把”字句译出，增补“困”字，体现被雨困住的意思；the group 译成“大家”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Byron's challenge",
+   "predicate": "proved",
+   "object_or_complement": "fruitful（表语）",
+   "explain": "主系表结构，prove 在此作系动词，意为“结果证明是”，形容词 fruitful 作表语。谓语为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Byron's challenge",
+    "role": "主语（指第2句拜伦提出的每人写一个故事的提议）",
+    "zh": "拜伦的挑战"
+   },
+   {
+    "text": "proved",
+    "role": "系动词（prove + 形容词，表示“结果证明是”）",
+    "zh": "结果"
+   },
+   {
+    "text": "fruitful.",
+    "role": "表语（形容词）",
+    "zh": "成果丰硕"
+   }
+  ],
+  "structure": "①句子是主系表结构：主语 Byron's challenge，系动词 proved，表语 fruitful。prove + 形容词 意为“结果证明是……”（视频说明）。\n②Byron's challenge 回指第2句 Byron proposed that each guest write a supernatural tale：拜伦的提议带有比试的性质，所以称作 challenge。\n③本句是第六段的总起句，后面两句分别列出这一挑战的成果：波利多里的《吸血鬼》、拜伦的《黑暗》以及玛丽的《弗兰肯斯坦》。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "prove 作系动词",
+    "explain": "prove 作系动词时意为“结果是，证明是”，后接形容词、名词或 to be，如 prove (to be) useful、prove a success。作系动词时 prove 没有被动语态，不能写成 was proved fruitful。它与 turn out 意思相近，都表示事后才显现的结果。prove 作及物动词时意为“证明”，后接宾语或 that 从句，要注意区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The journey proved far more dangerous than anyone had expected.",
+      "zh": "这趟旅程结果比任何人预料的都要危险得多。"
+     },
+     {
+      "en": "His warnings proved to be correct.",
+      "zh": "事实证明他的警告是对的。"
+     }
+    ]
+   },
+   {
+    "title": "系动词的类别",
+    "explain": "系动词后接表语，说明主语的性质或状态。常见的几类：状态类 be、remain、stay、keep；变化类 become、get、grow、turn、go；感官类 look、sound、feel、smell、taste；结果类 prove、turn out。系动词后的表语用形容词而不是副词，如 sound good，不说 sound well 表“听起来不错”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The rumour turned out to be false.",
+      "zh": "这个传闻后来被证明是假的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "challenge",
+    "explain": "本句指拜伦提出的写鬼故事的比试，即第2句中的提议，视频译为“挑战”。这是用名词回指前文内容的同义替换，考研阅读的指代题常考。"
+   },
+   {
+    "term": "fruitful",
+    "explain": "形容词，由 fruit（果实）+ -ful（充满……的）构成，本义“果实累累的”，常用引申义“富有成果的”，如 a fruitful discussion（富有成果的讨论）。反义词是 fruitless（徒劳的）。视频译为“成果丰硕”。"
+   }
+  ],
+  "translation_tip": "视频译文“拜伦的挑战结果成果丰硕。”的处理：①系动词 proved 译成“结果”，体现事后证明的意味。②fruitful 译成四字的“成果丰硕”，直接作谓语，汉语不需要再补“是”。③Byron's challenge 按名词所有格译为“拜伦的挑战”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "His physician John Polidori",
+   "predicate": "produced",
+   "object_or_complement": "The Vampyre（宾语）",
+   "explain": "主句是主谓宾结构：His physician John Polidori produced The Vampyre。whilst 引导状语从句，从句同样是主谓宾结构：Byron's poetic output included Darkness。主从句谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His physician",
+    "role": "主语（His 指拜伦）",
+    "zh": "他的医生"
+   },
+   {
+    "text": "John Polidori",
+    "role": "同位语，说明 His physician 的姓名",
+    "zh": "约翰·波利多里"
+   },
+   {
+    "text": "produced",
+    "role": "谓语",
+    "zh": "写出了"
+   },
+   {
+    "text": "The Vampyre,",
+    "role": "宾语（作品名）",
+    "zh": "《吸血鬼》"
+   },
+   {
+    "text": "whilst",
+    "role": "连词（同 while，英式用法），引导状语从句，表示同一时期",
+    "zh": "与此同时"
+   },
+   {
+    "text": "Byron's poetic output",
+    "role": "从句主语",
+    "zh": "拜伦诗歌的产出"
+   },
+   {
+    "text": "included",
+    "role": "从句谓语",
+    "zh": "中有"
+   },
+   {
+    "text": "Darkness.",
+    "role": "从句宾语（作品名）",
+    "zh": "《黑暗》"
+   }
+  ],
+  "structure": "①主句是 His physician John Polidori produced The Vampyre：主语 His physician，John Polidori 是它的同位语，说明医生的姓名；谓语 produced，本句指“写出（作品）”；宾语是作品名 The Vampyre（视频说明：《吸血鬼》，Vampyre 是 vampire 的旧拼法）。\n②whilst 是连词，同 while，英式用法（视频说明），引导状语从句，视频译为“与此同时”，表示两件事发生在同一时期。从句主语 Byron's poetic output，谓语 included，宾语 Darkness。\n③output 原指产量，这里指写出的作品（视频说明），poetic output 即拜伦的诗歌作品；included 表示《黑暗》是其中之一，暗示拜伦那段时间还写了别的诗。\n④本句和下一句共同列举第12句所说的“成果”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "while / whilst 的几种用法",
+    "explain": "while 和 whilst 意思相同，whilst 是英式用法，较正式。主要用法：①表示时间，“当……时，与此同时”，强调两件事同时进行，本句即此义；②表示对比，“而，然而”，如 He prefers coffee, whilst his wife drinks only tea；③表示让步，“虽然”，多放在句首。考研阅读中，while 在句中引出对比时常提示作者的观点转折，要根据上下文判断是哪种关系。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some regions suffered severe drought, whilst others were hit by floods.",
+      "zh": "一些地区遭受了严重干旱，而另一些地区则遭遇洪灾。"
+     },
+     {
+      "en": "Whilst I understand your concerns, I cannot change the rules.",
+      "zh": "虽然我理解你的担忧，但我不能更改规定。"
+     }
+    ]
+   },
+   {
+    "title": "表示身份的名词与姓名构成同位语",
+    "explain": "表示身份、职业的名词短语与人名连用时，两者是同位关系，中间可以不加逗号，如 His physician John Polidori、the poet Lord Byron、the physicist Marie Curie。这种紧密同位语起限定作用，指明“哪一位”。翻译时通常合并成“他的医生约翰·波利多里”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The physicist Marie Curie won two Nobel Prizes.",
+      "zh": "物理学家玛丽·居里两次获得诺贝尔奖。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "John Polidori 与 The Vampyre",
+    "explain": "约翰·波利多里是拜伦的私人医生，随拜伦住在迪奥达蒂别墅。他的短篇小说 The Vampyre 于1819年发表。Vampyre 是 vampire 的旧拼法（视频说明）。"
+   },
+   {
+    "term": "Darkness",
+    "explain": "《黑暗》，拜伦1816年写的一首诗，描写太阳熄灭后世界陷入黑暗与寒冷的景象。"
+   },
+   {
+    "term": "physician",
+    "explain": "名词，医生，尤指内科医生，比 doctor 正式；外科医生是 surgeon。易混词：physicist 是物理学家。"
+   },
+   {
+    "term": "poetic output",
+    "explain": "output 意为“产量，产出”，用于作家、艺术家时指其作品，如 literary output（文学作品）。poetic 意为“诗歌的”。视频说明：poetic output，关于诗歌作品。"
+   },
+   {
+    "term": "作品名的写法",
+    "explain": "英文中书名、诗名等作品名的实词首字母大写；书名等独立出版的作品印刷时常用斜体，短诗、短篇作品的标题也常加引号；汉语一律用书名号，所以视频译为《吸血鬼》《黑暗》。"
+   }
+  ],
+  "translation_tip": "视频译文“他的医生约翰·波利多里写出了《吸血鬼》，与此同时，拜伦诗歌的产出中有《黑暗》。”的处理：①同位语 His physician John Polidori 合译为“他的医生约翰·波利多里”。②produced 结合语境译成“写出了”，指创作作品。③whilst 译成“与此同时”，单独成句，表示同一时期。④Byron's poetic output included Darkness 中，谓语 included 转成“中有”，宾语《黑暗》放在最后，译成“拜伦诗歌的产出中有《黑暗》”。⑤作品名加书名号。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Mary",
+   "predicate": "began",
+   "object_or_complement": "the ghastly yarn（宾语）",
+   "explain": "主谓宾结构：Mary began the ghastly yarn，begin + 作品类名词，意为“开始写”。宾语后带 that 引导的限制性定语从句，Frankenstein 后又带 which 引导的非限制性定语从句。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Mary",
+    "role": "主语",
+    "zh": "玛丽"
+   },
+   {
+    "text": "began",
+    "role": "谓语（begin + 作品类名词，意为“开始写”）",
+    "zh": "开始写"
+   },
+   {
+    "text": "the ghastly yarn",
+    "role": "宾语",
+    "zh": "那个恐怖的故事"
+   },
+   {
+    "text": "that became Frankenstein,",
+    "role": "限制性定语从句（that 作从句主语），修饰 the ghastly yarn",
+    "zh": "它后来成了《弗兰肯斯坦》"
+   },
+   {
+    "text": "which appeared anonymously in 1818",
+    "role": "非限制性定语从句（which 作从句主语），修饰 Frankenstein；appeared 为从句谓语一",
+    "zh": "这部作品1818年匿名出版"
+   },
+   {
+    "text": "and was later reissued under her name.",
+    "role": "非限制性定语从句的谓语二（被动语态），与 appeared 并列",
+    "zh": "后来又以她的名字重新发行"
+   }
+  ],
+  "structure": "①主句是 Mary began the ghastly yarn：主语 Mary，谓语 began，宾语 the ghastly yarn。begin 后接表示作品的名词时，意为“开始写”，视频译为“开始写”。yarn 意为“故事，多指离奇的故事”（视频说明）。\n②that became Frankenstein 是限制性定语从句，修饰 yarn，that 在从句中作主语：这个故事后来成了《弗兰肯斯坦》。\n③which 引导非限制性定语从句，修饰 Frankenstein（视频说明），which 在从句中作主语。从句有两个并列谓语：appeared anonymously in 1818（主动，appear 指“出版，问世”）和 was later reissued under her name（被动，作品“被重新发行”）。under her name 意为“以她的名字，署她的名”（视频说明）。\n④两个定语从句一前一后：that 从句修饰 yarn，which 从句修饰 Frankenstein，层层递进，交代了这部小说从动笔到成书、出版、再版的经过。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "限制性与非限制性定语从句连用",
+    "explain": "限制性定语从句与先行词关系紧密，不用逗号，可用 that；非限制性定语从句用逗号隔开，作补充说明，不能用 that，指物用 which。本句先用 that became Frankenstein 限定是哪个故事，再用 , which… 对 Frankenstein 补充说明出版情况。分析时要找准各自的先行词：that 的先行词是 yarn，which 的先行词是紧挨在前的 Frankenstein。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She started a blog that grew into a best-selling book, which was later translated into twelve languages.",
+      "zh": "她开了一个博客，它后来发展成了一本畅销书，这本书又被译成了十二种语言。"
+     }
+    ]
+   },
+   {
+    "title": "并列谓语中主动与被动并用",
+    "explain": "同一个主语可以带几个并列谓语，各谓语根据与主语的关系分别用主动或被动语态。本句 which 后面，appeared 是不及物动词，只能用主动；reissue 是及物动词，作品是被重新发行的，所以用被动 was reissued。appear、happen、occur、take place 等不及物动词没有被动语态，考研写作中常被误写成 was appeared。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The book first appeared in 1960 and was later translated into forty languages.",
+      "zh": "这本书于1960年首次出版，后来被译成了四十种语言。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Frankenstein",
+    "explain": "《弗兰肯斯坦》，全名 Frankenstein; or, The Modern Prometheus，1818年在伦敦匿名出版。视频说明：《弗兰肯斯坦》也就是我们所熟知的《科学怪人》。Frankenstein 是小说中创造怪物的科学家维克多·弗兰肯斯坦（Victor Frankenstein）的姓，并不是怪物的名字。"
+   },
+   {
+    "term": "yarn",
+    "explain": "熟词僻义：yarn 常见义是“纱线”，口语中还指故事，尤其是离奇、夸张的故事，如 spin a yarn（编故事）。视频说明：yarn，故事，多指离奇的故事。"
+   },
+   {
+    "term": "appear",
+    "explain": "熟词僻义：用于书籍、文章时意为“出版，发表，问世”，如 The article first appeared in a scientific journal。本句 appeared anonymously 即匿名出版。"
+   },
+   {
+    "term": "under her name",
+    "explain": "以她的名字，署她的名（视频说明）。under 表示“以……名义”，如 under a pen name（用笔名）、under a false name（用假名）。"
+   },
+   {
+    "term": "begin + 作品类名词",
+    "explain": "begin、start、finish 后接 book、novel、letter 等名词时，省略了具体动作，要按语境补出：begin a novel 指开始写小说，finish a book 可能指写完或读完。本句视频译为“开始写”。"
+   }
+  ],
+  "translation_tip": "视频译文“玛丽开始写那个恐怖的故事，它后来成了《弗兰肯斯坦》，这部作品1818年匿名出版，后来又以她的名字重新发行。”的处理：①began 按语境增补“写”，译成“开始写”；the 译成“那个”。②that 从句不前置，拆成独立分句，用“它”回指故事，became 译成“后来成了”，“后来”体现故事成书在后。③which 从句同样拆开，用“这部作品”回指 Frankenstein，时间状语 in 1818 提到动词前，译成“1818年匿名出版”。④被动的 was later reissued 译成主动的“后来又……重新发行”，under her name 前置为“以她的名字”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "It",
+   "predicate": "is often called",
+   "object_or_complement": "the founding work of the science-fiction genre（主语补足语）",
+   "explain": "call A B 的被动结构：A is called B，B 是主语补足语。谓语 is called 为一般现在时，被动语态，often 是频度副词；用一般现在时表示至今仍普遍存在的看法。"
+  },
+  "components": [
+   {
+    "text": "It",
+    "role": "主语（指上句的 Frankenstein）",
+    "zh": "这部作品"
+   },
+   {
+    "text": "is often called",
+    "role": "谓语（一般现在时被动语态，often 为频度副词）",
+    "zh": "常被称为"
+   },
+   {
+    "text": "the founding work",
+    "role": "主语补足语",
+    "zh": "开山之作"
+   },
+   {
+    "text": "of the science-fiction genre.",
+    "role": "后置定语（介词短语），修饰 the founding work",
+    "zh": "科幻体裁/类型的"
+   }
+  ],
+  "structure": "①句子是 call A B 的被动形式 A is called B：主语 It 指上一句的 Frankenstein，谓语 is often called，主语补足语 the founding work of the science-fiction genre。\n②often 是频度副词，放在 be 动词之后、过去分词之前。is often called 说明这是常见的说法，作者并未把它当成定论。\n③of the science-fiction genre 是后置定语，修饰 the founding work；science-fiction 带连字符，作 genre 的前置定语。视频说明：the founding work，开山之作，奠基之作；science-fiction，科幻的。\n④时态从前文的一般过去时转为一般现在时，因为这里说的是今天人们对这部作品的评价。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "call A B 的被动：主语补足语",
+    "explain": "call、name、elect、appoint、consider 等动词可接“宾语 + 宾语补足语”，如 People call it the founding work。变成被动语态时，原来的宾语作主语，宾语补足语留在动词后，变成主语补足语：It is called the founding work。主语补足语前不加 as（call 不说 call it as）；但 regard、see、describe 要用 as，如 It is regarded as the founding work。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Shanghai is often called the Paris of the East.",
+      "zh": "上海常被称为“东方巴黎”。"
+     },
+     {
+      "en": "The region is widely regarded as the birthplace of modern farming.",
+      "zh": "这一地区被普遍视为现代农业的发源地。"
+     }
+    ]
+   },
+   {
+    "title": "频度副词的位置",
+    "explain": "often、always、usually、sometimes、never 等频度副词一般放在 be 动词、助动词、情态动词之后，实义动词之前。本句是被动语态，often 放在 is 之后、called 之前。写作中误放位置会显得不地道，一般说 It is often called，很少说 It often is called（这种语序只在重读 is 表强调时使用）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Such disputes are usually settled out of court.",
+      "zh": "这类纠纷通常在庭外和解。"
+     }
+    ]
+   },
+   {
+    "title": "带连字符的名词作前置定语",
+    "explain": "由两个词构成的名词短语作前置定语时，常加连字符，表明两个词是一个整体，如 science-fiction genre、middle-class family、long-term plan。作名词单独使用时一般不加连字符，如 She writes science fiction。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She has published three science-fiction novels and a collection of essays.",
+      "zh": "她出版了三部科幻小说和一本散文集。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the founding work",
+    "explain": "开山之作，奠基之作（视频说明），指开创某一领域或类型的作品。founding 意为“创立的，创始的”，如 founding father（创始人）、founding member（创始成员）。"
+   },
+   {
+    "term": "genre",
+    "explain": "名词，指文学、艺术的体裁、类型，如 the crime genre（犯罪小说类型）。来自法语，读音保留法语特点。视频译为“体裁/类型”。"
+   },
+   {
+    "term": "science fiction",
+    "explain": "科幻小说，科幻作品，口语缩写为 sci-fi，也缩写为 SF。"
+   }
+  ],
+  "translation_tip": "视频译文“这部作品常被称为科幻体裁/类型的开山之作。”的处理：①代词 It 译成“这部作品”，明确指代《弗兰肯斯坦》。②被动语态 is often called 保留被动，译成“常被称为”。③后置定语 of the science-fiction genre 前置为“科幻体裁/类型的”，genre 并列给出“体裁/类型”两种说法。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "A tropical volcano；a teenager",
+   "predicate": "had supplied（第二个分句承前省略）",
+   "object_or_complement": "the rain；the monster",
+   "explain": "and 连接两个并列分句：A tropical volcano had supplied the rain 是主谓宾结构，第二个分句 a teenager (had supplied) the monster 承前省略了谓语 had supplied。谓语为过去完成时，主动语态，用于全文结尾对前文事件的回顾。"
+  },
+  "components": [
+   {
+    "text": "A tropical volcano",
+    "role": "第一个分句的主语",
+    "zh": "一座热带的火山"
+   },
+   {
+    "text": "had supplied",
+    "role": "第一个分句的谓语（过去完成时）",
+    "zh": "提供了"
+   },
+   {
+    "text": "the rain,",
+    "role": "第一个分句的宾语",
+    "zh": "大雨"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个对比的分句",
+    "zh": "然而"
+   },
+   {
+    "text": "a teenager",
+    "role": "第二个分句的主语（后面承前省略了谓语 had supplied）",
+    "zh": "一位少女却"
+   },
+   {
+    "text": "the monster.",
+    "role": "第二个分句的宾语",
+    "zh": "创造了怪物"
+   }
+  ],
+  "structure": "①这是由 and 连接的并列句。第一个分句 A tropical volcano had supplied the rain 是主谓宾结构。\n②第二个分句 a teenager the monster 是省略句，省略了 had supplied（视频说明），补全后是 a teenager had supplied the monster。两个分句结构完全对称：火山对少女，雨对怪物。\n③had supplied 用过去完成时，从全文结尾回看此前已经发生的事：火山带来了那场大雨，少女写出了那个怪物。\n④本句是全文的结尾，把开篇的大雨、火山喷发与《弗兰肯斯坦》的诞生收束在一起，呼应标题 The Volcano That Gave Us Frankenstein。a teenager 指当时十八岁的玛丽，the monster 指小说中的怪物。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "并列句中省略相同的谓语",
+    "explain": "两个并列分句结构相同、谓语相同时，第二个分句可以省略谓语，只保留主语和宾语，形成对称的对照。本句 and a teenager the monster 省略了 had supplied。这种省略常用于并列对比，句子短而有力。识别方法：and 后面出现两个连续的名词短语、没有谓语动词时，就到前一个分句里找被省略的谓语补进去。本文第5句也有同样的省略。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first half belonged to the visitors, and the second to the home side.",
+      "zh": "上半场是客队的天下，下半场则属于主队。"
+     },
+     {
+      "en": "Tom ordered the fish, and his wife the steak.",
+      "zh": "汤姆点了鱼，他妻子点了牛排。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时用于回顾总结",
+    "explain": "叙事结尾回看此前已经完成的事件时，常用过去完成时，表示到某个过去时间点为止已经发生并产生了结果。本句 had supplied 把前文的大雨和创作作为已经完成的事情加以总结。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By the end of the decade, the town had lost half of its population.",
+      "zh": "到那个十年结束时，这个小镇已经失去了一半人口。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tropical volcano",
+    "explain": "热带的火山，指坦博拉火山，它所在的印度尼西亚松巴哇岛地处热带。tropical 意为“热带的”，来自 tropic（回归线），the tropics 指热带地区。"
+   },
+   {
+    "term": "teenager",
+    "explain": "名词，指十三至十九岁的青少年，因为这些数字的英文都以 -teen 结尾（thirteen 至 nineteen）。本句指当时十八岁的玛丽，视频译为“一位少女”。"
+   },
+   {
+    "term": "首尾呼应",
+    "explain": "结尾句与标题 The Volcano That Gave Us Frankenstein 相呼应：火山只是提供了大雨，真正创造怪物的是一位少女。用对称的省略句收尾，简洁有力，是外刊文章常见的结尾方式。"
+   }
+  ],
+  "translation_tip": "视频译文“一座热带的火山提供了大雨，然而一位少女却创造了怪物。”的处理：①and 译成“然而……却”，突出火山与少女、大雨与怪物的对比。②第二个分句省略的 had supplied 在汉语中必须补出，视频没有重复“提供了”，而是结合语境译成“创造了”，因为怪物是少女笔下创造出来的。③a teenager 结合玛丽的身份译成“一位少女”，a 译成量词“一座”“一位”。"
+ }
+]

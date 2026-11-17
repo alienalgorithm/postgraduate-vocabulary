@@ -1,0 +1,37 @@
+[
+ {
+  "key": "2",
+  "field": "grammar[0].explain",
+  "before": "另外，suggest 表示“暗示、表明”时不用虚拟语气",
+  "after": "另外，suggest 表示“暗示、表明”、insist 表示“坚持认为”时不用虚拟语气",
+  "reason": "列举的 insist 只有表“坚持要求”时才用虚拟，补上“坚持认为”不用虚拟这一常考例外"
+ },
+ {
+  "key": "3",
+  "field": "grammar[1].explain",
+  "before": "be used to",
+  "after": "be used to（习惯于）",
+  "reason": "be used to do（被用来做）中的 to 是不定式符号，需注明此处指“习惯于”才属介词 to"
+ },
+ {
+  "key": "13",
+  "field": "knowledge[4].explain",
+  "before": "英文中书名、诗名等作品名的实词首字母大写，印刷时常用斜体；汉语用书名号，所以视频译为《吸血鬼》《黑暗》。",
+  "after": "英文中书名、诗名等作品名的实词首字母大写；书名等独立出版的作品印刷时常用斜体，短诗、短篇作品的标题也常加引号；汉语一律用书名号，所以视频译为《吸血鬼》《黑暗》。",
+  "reason": "短诗（如 Darkness）、短篇作品的标题通常加引号而非斜体，原说法不全面"
+ },
+ {
+  "key": "14",
+  "field": "grammar[0].examples[0]",
+  "before": "The team developed a small app that became the company's best-selling product, which was later sold to a larger rival. / 这个团队开发了一款小应用，它后来成了公司最畅销的产品，这款产品后来被卖给了一家规模更大的竞争对手。",
+  "after": "She started a blog that grew into a best-selling book, which was later translated into twelve languages. / 她开了一个博客，它后来发展成了一本畅销书，这本书又被译成了十二种语言。",
+  "reason": "原例 best-selling product 与 sold to a rival 搭配别扭（产品卖给对手），换成与原句“故事成书、书再出版”结构平行的地道例句"
+ },
+ {
+  "key": "15",
+  "field": "grammar[1].explain",
+  "before": "写作中误放位置会显得不地道，如不说 It often is called。",
+  "after": "写作中误放位置会显得不地道，一般说 It is often called，很少说 It often is called（这种语序只在重读 is 表强调时使用）。",
+  "reason": "It often is called 并非错误语序，强调时可用，原文“不说”过于绝对"
+ }
+]

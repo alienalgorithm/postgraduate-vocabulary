@@ -1,0 +1,37 @@
+[
+ {
+  "key": "2",
+  "field": "senses[1]",
+  "before": "{\"pos\": \"phr. v.\", \"zh\": \"（pour down）（雨）倾泻而下\"}",
+  "after": "{\"pos\": \"n.\", \"zh\": \"（泛指）倾泻而下，倾注\"}",
+  "reason": "pour down 是另一个短语动词，不是 downpour 的义项；改为 Merriam-Webster 所列的泛指义“向下倾泻”"
+ },
+ {
+  "key": "12",
+  "field": "context_usage",
+  "before": "注意 melancholy 虽以 -y 结尾，却可直接作形容词。",
+  "after": "注意 melancholy 虽以 -ly 结尾，却不是副词，而是形容词（也可作名词）。",
+  "reason": "以 -y 结尾的形容词极常见，提示无意义；易误判的是 -ly 结尾像副词"
+ },
+ {
+  "key": "14",
+  "field": "usage_detail",
+  "before": "印度尼西亚是由上万个岛屿组成的群岛国家，首都雅加达（Jakarta）。",
+  "after": "印度尼西亚是由上万个岛屿组成的群岛国家。",
+  "reason": "印尼迁都进程未定，首都表述有时效风险，且与本文无关，按规矩没把握不写"
+ },
+ {
+  "key": "19",
+  "field": "context_usage",
+  "before": "这里的饥饿是喷发造成的间接后果：火山灰和天气异常让庄稼绝收，粮食短缺，人们因此饿死或病死。",
+  "after": "这里的饥饿和疾病是喷发造成的间接后果，发生在喷发之后的一段时间里（in the aftermath），死于这些原因的人数远超当场遇难的约1万人。",
+  "reason": "原文未交代致饥原因，“天气异常让庄稼绝收”属文外推断且不准确，改为只依原文"
+ },
+ {
+  "key": "21",
+  "field": "senses[1]",
+  "before": "{\"pos\": \"adj.\", \"zh\": \"（volcanic）火山的；（情绪）暴烈的\"}",
+  "after": "{\"pos\": \"n.\", \"zh\": \"（比喻）可能突然猛烈爆发的事物（如积压的情绪、紧张的局势）\"}",
+  "reason": "volcanic 是派生词，不是 volcano 的义项（已列于 related）；改为 Merriam-Webster 所列比喻义"
+ }
+]
