@@ -1,0 +1,30 @@
+[
+ {
+  "id": 22,
+  "field": "lemma",
+  "before": "trial-and-error",
+  "after": "trial and error",
+  "reason": "词典原形为不带连字符的 trial and error，连字符形式只是本文写法"
+ },
+ {
+  "id": 33,
+  "field": "zh",
+  "before": "主要地；大部分",
+  "after": "主要地",
+  "reason": "本句 mostly because of 意为“主要地”；“大部分”是数量义项，不适合此句"
+ },
+ {
+  "id": 53,
+  "field": "lemma",
+  "before": "brand-name",
+  "after": "brand name",
+  "reason": "词典原形为 brand name（名词），连字符形式只用作定语"
+ },
+ {
+  "id": 57,
+  "field": "zh",
+  "before": "仿制品；仿品",
+  "after": "模仿者；仿制品",
+  "reason": "mimic 作名词的词典义是“模仿者”；保留语境义“仿制品”，去掉重复的“仿品”"
+ }
+]

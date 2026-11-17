@@ -1,0 +1,37 @@
+[
+ {
+  "id": 13,
+  "field": "zh",
+  "before": "通道；走廊",
+  "after": "通道；通路",
+  "reason": "洞穴里的 passage 是通道，“走廊”指建筑物里的走廊，不适合本句"
+ },
+ {
+  "id": 19,
+  "field": "lemma",
+  "before": "inundated",
+  "after": "inundate",
+  "reason": "inundated 是作定语的过去分词，词典未单列形容词，按规范写动词原形"
+ },
+ {
+  "id": 19,
+  "field": "pos",
+  "before": "adj.",
+  "after": "vt.",
+  "reason": "作定语的被动分词，动词为及物用法"
+ },
+ {
+  "id": 19,
+  "field": "zh",
+  "before": "被水淹没的；被淹的",
+  "after": "淹没；浸没",
+  "reason": "改为动词后用动词释义"
+ },
+ {
+  "id": 20,
+  "field": "zh",
+  "before": "入口；门口",
+  "after": "入口",
+  "reason": "洞穴的 entrance 是入口，“门口”不适合本句"
+ }
+]

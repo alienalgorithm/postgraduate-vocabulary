@@ -2,7 +2,8 @@ import json, re, glob, sys, io, numpy as np, pymupdf, importlib.util
 from PIL import Image
 S='/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad'; R='/home/user/postgraduate-vocabulary'
 pdf=sys.argv[1]; doc=pymupdf.open(pdf); res={}
-spec=importlib.util.spec_from_file_location('b',S+'/v5/build_v5.py'); B=importlib.util.module_from_spec(spec); spec.loader.exec_module(B)
+import pathlib; HERE=pathlib.Path(__file__).resolve().parent
+spec=importlib.util.spec_from_file_location('b',str(HERE/'build_v5.py')); B=importlib.util.module_from_spec(spec); spec.loader.exec_module(B)
 import os; res['bytes']=os.path.getsize(pdf); res['pages']=len(doc)
 fonts={f[3] for p in doc for f in p.get_fonts()}; res['fonts']=sorted(fonts); res['bold_font']=[f for f in fonts if re.search('Bold|Black|Heavy|Semibold|Medium',f)]
 imgs={}; 
@@ -13,7 +14,7 @@ alltext=''.join(p.get_text() for p in doc); res['continued_headings']=alltext.co
 toc=doc.get_toc(); ch=[(t,pg) for l,t,pg in toc if l==1 and t[:2].isdigit()]
 order={x['video_order']:x['source_id'] for x in json.load(open(R+'/视频修订定稿/最终定稿/视频顺序.json'))['video_order']}
 reg={a['source_id']:a for a in json.load(open(R+'/视频修订定稿/latest_requests.json'))['articles']}
-data={json.load(open(f))['id']:json.load(open(f)) for f in glob.glob(S+'/v5/data/*.json')}
+data={json.load(open(f))['id']:json.load(open(f)) for f in glob.glob(str(HERE.parent/'data'/'*.json'))}
 title_bad=[(n,t) for t,_ in ch for n in [t[:2]] if t[4:]!=reg[order[n]]['title_zh']]
 res['chapters_in_outline']=len(ch); res['title_or_order_mismatch']=title_bad
 # per-chapter text and image checks
@@ -22,7 +23,7 @@ vids={re.search(r'v(\d+)-',f).group(1):np.asarray(Image.open(f).convert('L').res
 def score(im,v):
     a=np.asarray(im.convert('L').resize((240,160),Image.Resampling.BOX),float); best=min(np.abs(a[y:y+135]-v).mean() for y in range(26))
     f=np.asarray(im.convert('L').resize((202,135),Image.Resampling.BOX),float); return min(best,min(np.abs(f-v[:,x:x+202]).mean() for x in range(14,24)))
-missing_text=[]; img_bad=[]; vocab_bad=[]; dup=[]; vocab_total=0
+missing_text=[]; img_bad=[]; vocab_bad=[]; dup=[]; vocab_total=0; bv_total=0; bv_articles=0; bv_dup=[]; bv_missing=[]
 for i,(t,pg) in enumerate(ch):
     n=t[:2]; end=(ch[i+1][1]-1) if i+1<len(ch) else len(doc)-1; d=data[n]
     txt=norm(''.join(doc[k].get_text() for k in range(pg-1,end)))
@@ -42,5 +43,16 @@ for i,(t,pg) in enumerate(ch):
             keys.add(k)
             for piece in zh.split('……'):
                 if not re.search(r'\*\*'+re.escape(piece)+r'\*\*\('+re.escape(en if en in raw else en[0].upper()+en[1:])+r'\)',raw): vocab_bad.append((n,en,zh))
-res.update(paragraphs_missing=missing_text[:10],n_paragraphs_missing=len(missing_text),image_not_matching_its_video=img_bad,vocab_entries=vocab_total,vocab_pairs_not_in_video_script=vocab_bad[:10],n_vocab_bad=len(vocab_bad),vocab_repeated_within_article=dup[:10])
+    # book word list (user 2026-11-16: lemma + part of speech + sense fitting this article)
+    if 'vocab_book' in d: bv_articles+=1
+    seen=set()
+    for _,items in B.book_vocab(d):
+        for lem,pos,zh in items:
+            bv_total+=1
+            if pos is not None:
+                if (lem.lower(),pos) in seen: bv_dup.append((n,lem,pos))
+                seen.add((lem.lower(),pos))
+            for piece in ([lem,zh] if pos is None else [lem,pos+zh]):
+                if norm(piece) not in txt: bv_missing.append((n,piece))
+res.update(paragraphs_missing=missing_text[:10],n_paragraphs_missing=len(missing_text),image_not_matching_its_video=img_bad,vocab_entries=vocab_total,vocab_pairs_not_in_video_script=vocab_bad[:10],n_vocab_bad=len(vocab_bad),vocab_repeated_within_article=dup[:10],book_vocab_articles=bv_articles,book_vocab_entries=bv_total,book_vocab_same_lemma_pos_twice=bv_dup[:10],book_vocab_not_found_in_pdf=bv_missing[:10],n_book_vocab_not_found_in_pdf=len(bv_missing))
 print(json.dumps(res,ensure_ascii=False,indent=1))
