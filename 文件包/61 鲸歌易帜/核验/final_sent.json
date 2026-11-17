@@ -1,0 +1,1795 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "male humpback whales",
+   "predicate": "fill",
+   "object_or_complement": "their breeding grounds",
+   "explain": "主干是 male humpback whales fill their breeding grounds，主谓宾结构，句末 with a haunting melody 与 fill 搭配，说明用什么来充满。谓语 fill 用一般现在时，主动语态，描述座头鲸每年冬天都会出现的习性，属于规律性的陈述。"
+  },
+  "components": [
+   {
+    "text": "Each winter,",
+    "zh": "每年冬天",
+    "role": "时间状语（名词短语直接作状语）"
+   },
+   {
+    "text": "male humpback whales,",
+    "zh": "雄性座头鲸",
+    "role": "主语（male 作前置定语，修饰 humpback whales）"
+   },
+   {
+    "text": "and only males,",
+    "zh": "而且只有雄性",
+    "role": "插入语，补充限定主语，强调只有雄性"
+   },
+   {
+    "text": "fill",
+    "zh": "会让……到处充斥着",
+    "role": "谓语（与后面的 with 构成 fill A with B）"
+   },
+   {
+    "text": "their breeding grounds",
+    "zh": "它们的繁殖地",
+    "role": "宾语（fill A with B 中的 A）"
+   },
+   {
+    "text": "with a haunting melody.",
+    "zh": "一段萦绕于心头的旋律",
+    "role": "介词短语，与 fill 构成 fill A with B，说明用来充满的内容"
+   }
+  ],
+  "structure": "①主句是 male humpback whales fill their breeding grounds with a haunting melody：主语 male humpback whales，谓语 fill，宾语 their breeding grounds；with a haunting melody 与 fill 构成 fill A with B（视频说明：让 A 充满 B）。their 指代主语 whales，即“它们的繁殖地”。\n②句首 Each winter 是名词短语直接作时间状语。each、every、this、last、next 修饰时间名词时，前面不加介词；它与一般现在时配合，表示每年都会重复发生。\n③and only males 是插入语（视频说明），用一对逗号隔开，夹在主语和谓语之间，强调唱歌的只有雄性。它是对主语的补充限定，去掉后句子主干不受影响；阅读时要越过这两个逗号，把 whales 和 fill 接起来。\n④作为全文首句，本句交代了唱歌的主体（雄性座头鲸）、时间（冬天）、地点（繁殖地）和对象（旋律），后文围绕这首歌的结构、演变和传播展开。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "插入语 and only + 名词 表示强调限定",
+    "explain": "插入语是插在句子中间、对句子作补充说明的成分，常用一对逗号隔开，去掉后句子结构依然完整。本句 and only males 插在主语 male humpback whales 和谓语 fill 之间，用“而且只有……”再次限定主语，把范围收窄到雄性，排除雌性。这种“名词, and only 名词,”的写法先说出对象，再用 only 强调唯一性，语气比直接写 only male humpback whales 更重。考研长难句中，主语和谓语之间常被插入语、同位语隔开，阅读时先找到真正的谓语（本句是 fill），再把插入语放回原处。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The final decision rests with the board, and only the board, not with individual managers.",
+      "zh": "最终决定权在董事会，而且只在董事会，不在个别经理手中。"
+     },
+     {
+      "en": "Registered members, and only registered members, may vote at the annual meeting.",
+      "zh": "注册会员，而且只有注册会员，可以在年会上投票。"
+     }
+    ]
+   },
+   {
+    "title": "fill A with B",
+    "explain": "fill 作及物动词时常用 fill A with B，意为“用 B 填满 A，让 A 充满 B”；被动形式 A be filled with B 表示“充满……”。本句 fill their breeding grounds with a haunting melody 中，A 是繁殖地，B 是旋律，把声音写成能“装满”一片海域的东西，突出歌声连绵不断、到处可闻。易错点：表示状态用 be filled with 或 be full of，不说 be filled of；with 引出填充物，不能换成 by。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Volunteers filled the hall with chairs borrowed from nearby schools.",
+      "zh": "志愿者用从附近学校借来的椅子摆满了大厅。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时表示习性和规律",
+    "explain": "一般现在时可以表示经常性、习惯性的动作或客观规律，常与 every/each + 时间名词、usually、often 等连用。本句 Each winter…fill… 概括座头鲸每年冬天都会出现的行为，所以用一般现在时；第6句起讲澳大利亚东部海域的具体事件，时态改为一般过去时。Each winter 是名词短语直接作时间状语，不说 in each winter。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Each spring, millions of birds return to the wetlands to nest.",
+      "zh": "每年春天，数以百万计的鸟类回到这片湿地筑巢。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "humpback whale",
+    "explain": "座头鲸，一种大型须鲸，雄鲸能唱出复杂而悠长的歌。humpback 由 hump（隆起，驼峰）和 back（背）构成，指这种鲸背部隆起的外形。本文后面用 humpbacks（第7句）单独指座头鲸，又用 singers（第8、9句）、performers（第10句）指代唱歌的雄鲸，是同义替换。"
+   },
+   {
+    "term": "breeding grounds",
+    "explain": "动物交配、繁殖后代的地方，常用复数。breed 意为“繁殖”，ground(s) 指“场地，区域”。breeding ground 还有比喻义“温床”，如 a breeding ground for crime（犯罪的温床）。本句视频译为“繁殖地”。"
+   },
+   {
+    "term": "haunting",
+    "explain": "视频说明：形容声音或画面极具感染力，听过就挥之不去，深深萦绕在心头，常带有优美或神秘的哀伤感。常见搭配有 a haunting melody、a haunting image、haunting beauty。动词 haunt 原指鬼魂出没，也指记忆、念头萦绕心头。"
+   },
+   {
+    "term": "male",
+    "explain": "male 在 male humpback whales 中作形容词，表示“雄性的”；在 and only males 中作名词，指雄性个体，复数 males。对应词是 female（雌性的；雌性）。"
+   }
+  ],
+  "translation_tip": "视频译文“每年冬天，雄性座头鲸，而且只有雄性，会让它们的繁殖地到处充斥着一段萦绕于心头的旋律。”的处理：①插入语 and only males 保留在原位，译成“而且只有雄性”，前后用逗号隔开，保留原文的强调语气。②fill A with B 用“让”字句译出，把宾语“它们的繁殖地”放在“让”和“充斥着”之间；增补“到处”，补足 fill 所含的“遍布”之意；增补“会”，体现一般现在时所表示的习性。③with 后的 a haunting melody 译成“一段萦绕于心头的旋律”，不定冠词 a 译成量词“一段”，形容词 haunting 译为前置定语。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "Sound units（第一个分句）；phrases（第二个分句）",
+   "predicate": "constitute（第一个分句）；build（第二个分句）",
+   "object_or_complement": "phrases（constitute 的宾语）；themes（build 的宾语）",
+   "explain": "由 and 连接的并列句，两个分句都是主谓宾结构：Sound units constitute phrases，phrases build themes。谓语 constitute 和 build 都用一般现在时，主动语态，说明座头鲸歌曲固定的组织方式。"
+  },
+  "components": [
+   {
+    "text": "Sound units",
+    "zh": "若干声音单元",
+    "role": "第一个分句的主语（sound 作前置定语，修饰 units）"
+   },
+   {
+    "text": "constitute",
+    "zh": "构成",
+    "role": "第一个分句的谓语"
+   },
+   {
+    "text": "phrases,",
+    "zh": "乐句",
+    "role": "第一个分句的宾语"
+   },
+   {
+    "text": "and phrases",
+    "zh": "乐句又",
+    "role": "并列连词 and + 第二个分句的主语"
+   },
+   {
+    "text": "build",
+    "zh": "组成",
+    "role": "第二个分句的谓语"
+   },
+   {
+    "text": "themes",
+    "zh": "主题",
+    "role": "第二个分句的宾语"
+   },
+   {
+    "text": "in an elaborate hierarchy.",
+    "zh": "形成一个复杂精细的层级结构",
+    "role": "方式状语（介词短语）"
+   }
+  ],
+  "structure": "①第一个分句 Sound units constitute phrases：主语 Sound units，谓语 constitute（构成），宾语 phrases。Sound units 是名词修饰名词，sound 作 units 的定语，意为“声音单元”，即歌中最小的发声单位。\n②第二个分句 phrases build themes：主语 phrases，谓语 build（视频译为“组成”），宾语 themes。and 前有逗号，连接两个独立的分句。\n③第一个分句的宾语 phrases 紧接着成为第二个分句的主语，形成“声音单元、乐句、主题”逐级向上的链条，结构上一环扣一环，与句末的 hierarchy（层级结构）相呼应。\n④in an elaborate hierarchy 是介词短语作方式状语（视频说明），说明这种逐级组合以复杂精细的层级结构的方式进行；elaborate 修饰 hierarchy。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "constitute 的方向：部分构成整体",
+    "explain": "constitute 表示“构成，组成”时，主语是组成部分，宾语是整体，即“部分 constitute 整体”，本句 Sound units constitute phrases 就是“声音单元构成乐句”。方向相反的是 consist of、be composed of、be made up of，主语是整体，宾语是部分，如 Phrases consist of sound units。comprise 两种方向都有人用，传统用法是“整体 comprise 部分”。constitute 还常表示“被视为，算作”，如 constitute a threat（构成威胁）、constitute a breach of contract（构成违约），考研阅读中很常见。易错点：consist of 没有被动语态，不能说 be consisted of。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Women constitute nearly half of the country's workforce.",
+      "zh": "女性占该国劳动力的近一半。"
+     },
+     {
+      "en": "The committee consists of twelve members, five of whom are elected by staff.",
+      "zh": "委员会由十二名成员组成，其中五人由员工选出。"
+     }
+    ]
+   },
+   {
+    "title": "and 连接并列句与顶真结构",
+    "explain": "两个独立分句用并列连词 and 连接时，and 前通常加逗号。本句第二个分句的主语 phrases 重复第一个分句的宾语，修辞上叫“顶真”（anadiplosis）：前一分句的结尾作后一分句的开头，层层递进，适合描写由小到大的层级关系或环环相扣的因果链。写作中可以借用这种句式描述过程，但不宜连用过多。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Habits shape character, and character shapes destiny.",
+      "zh": "习惯塑造性格，性格又决定命运。"
+     }
+    ]
+   },
+   {
+    "title": "in + 名词 作方式状语",
+    "explain": "介词 in 加名词可以作方式状语，说明以什么形式、状态或方式进行，如 in a circle（围成一圈）、in groups（分组）、in order（按顺序）、in a hierarchy（按层级）。本句 in an elaborate hierarchy 说明前面的逐级组合以层级结构的方式进行（视频说明为方式状语）。翻译时这类状语常转成动词短语，视频译为“形成一个复杂精细的层级结构”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The students sat in a circle and took turns to speak.",
+      "zh": "学生们围坐成一圈，轮流发言。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "unit、phrase、theme",
+    "explain": "研究座头鲸歌声时，通常把一个连续的单个声音称为 unit（声音单元），若干 unit 组成 phrase（乐句），重复的 phrase 构成 theme（主题），若干 theme 依次唱完就是一首完整的 song（歌）。本句介绍的就是前三层。"
+   },
+   {
+    "term": "phrase",
+    "explain": "熟词僻义：phrase 常见义是“短语，词组”，在音乐中指“乐句”，即由若干音组成、有相对完整意义的旋律片段。本句视频译为“乐句”。"
+   },
+   {
+    "term": "theme",
+    "explain": "theme 常见义是“主题，题目”，在音乐中指乐曲里反复出现、作为发展基础的主要旋律。本句视频译为“主题”。"
+   },
+   {
+    "term": "elaborate",
+    "explain": "形容词读 /ɪˈlæbərət/，意为“复杂精细的，精心制作的”，如 an elaborate plan、elaborate decorations；动词读 /ɪˈlæbəreɪt/，意为“详细说明”，常用 elaborate on sth。本句是形容词，修饰 hierarchy。"
+   },
+   {
+    "term": "hierarchy",
+    "explain": "层级，等级制度，如 social hierarchy（社会等级）；形容词 hierarchical（分层的，等级制的）。本句指声音单元、乐句、主题由低到高逐级组合的结构，视频译为“层级结构”。"
+   }
+  ],
+  "translation_tip": "视频译文“若干声音单元构成乐句，乐句又组成主题，形成一个复杂精细的层级结构。”的处理：①Sound units 是不带冠词的复数名词，增补“若干”，表明数量不止一个。②第二个分句的 and 译成“又”，体现层层递进；build 根据搭配译成“组成”，不按字面译成“建造”。③句末方式状语 in an elaborate hierarchy 没有译成“以……的方式”，而是转成动宾结构“形成一个复杂精细的层级结构”，放在句末，概括前两个分句的组合关系。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Each rendition（第一个分句）；the song（第二个分句）",
+   "predicate": "lasts（第一个分句）；can recur（第二个分句）",
+   "object_or_complement": "",
+   "explain": "由 and 连接的并列句，两个分句都是主谓结构：last 和 recur 都是不及物动词，后面的 minutes、for hours 是时间状语。lasts 用一般现在时，can recur 是情态动词加动词原形，表示可能，二者都是主动语态，描述歌唱的一般规律。"
+  },
+  "components": [
+   {
+    "text": "Each rendition",
+    "zh": "每一次表演/演奏",
+    "role": "第一个分句的主语"
+   },
+   {
+    "text": "lasts",
+    "zh": "持续",
+    "role": "第一个分句的谓语（不及物动词）"
+   },
+   {
+    "text": "minutes,",
+    "zh": "数分钟",
+    "role": "时间状语（复数名词直接作状语，表示持续的时长）"
+   },
+   {
+    "text": "and the song",
+    "zh": "而这首歌",
+    "role": "并列连词 and + 第二个分句的主语"
+   },
+   {
+    "text": "can recur",
+    "zh": "能反复出现",
+    "role": "第二个分句的谓语（情态动词 can + 不及物动词 recur）"
+   },
+   {
+    "text": "for hours,",
+    "zh": "数个小时",
+    "role": "时间状语（介词短语，表示持续的时长）"
+   },
+   {
+    "text": "probably for courtship.",
+    "zh": "很可能是为了求偶",
+    "role": "目的状语（介词短语 for courtship，probably 表示推测）"
+   }
+  ],
+  "structure": "①第一个分句 Each rendition lasts minutes：主语 Each rendition，each 修饰单数可数名词，谓语用第三人称单数 lasts。last 是不及物动词，意为“持续”，后面的 minutes 是名词直接作时间状语，说明持续多久。\n②第二个分句 the song can recur for hours：主语 the song，谓语 can recur，for hours 是时间状语。recur 意为“反复出现”，即一遍唱完接着再唱。两个分句用 and 连接，形成对比：唱一遍只要几分钟，反复唱下去却能持续几个小时。\n③probably for courtship 是目的状语（视频说明），附在第二个分句后，说明唱歌可能的目的。probably 表示推测，“为了求偶”只是可能的解释，并非定论，这与第15句“雄性为何歌唱……仍然存在争议”相呼应。\n④本句 rendition 指把这首歌完整唱一遍，song 指歌曲本身，所以说“每一次表演持续数分钟”，而“这首歌能反复出现数个小时”。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "last 作不及物动词表示“持续”",
+    "explain": "last 作动词时意为“持续，延续”，是不及物动词，后接表示时长的名词短语或 for 短语，如 last two hours 或 last for two hours，没有被动语态。本句 lasts minutes 中 minutes 前省去了 for。last 还可表示“够用，维持”，如 The supplies will last a week。相关形容词 lasting、long-lasting 意为“持久的”，如 a lasting impact。问时长用 How long does it last?",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The drought lasted nearly three years and destroyed most of the region's crops.",
+      "zh": "这场干旱持续了近三年，毁掉了该地区的大部分庄稼。"
+     }
+    ]
+   },
+   {
+    "title": "复数时间名词表示“数……”",
+    "explain": "时间名词用复数而不带具体数字时，表示数量不确定但为数不少，如 for hours（好几个小时）、for days（好几天）、for years（多年）、for decades（几十年）。本句 minutes 和 hours 都是这种用法，前后对照，突出一遍演唱时间较短、反复歌唱时间很长，视频分别译为“数分钟”“数个小时”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fans had been queuing for hours before the gates opened.",
+      "zh": "大门打开之前，歌迷们已经排了好几个小时的队。"
+     }
+    ]
+   },
+   {
+    "title": "probably 表示推测，for 表示目的",
+    "explain": "probably 表示说话人认为很有可能，但并不确定，把握比 perhaps、maybe 大，比 certainly 小。本句 probably for courtship 是对唱歌目的的推测，for 表示目的，意为“为了……”。考研阅读中，带 probably、possibly、apparently、presumably 等词的内容属于推测，做细节题时不能当成已证实的事实；本文第15句明确说雄鲸为何歌唱仍有争议，与这里的 probably 一致。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire was probably caused by a faulty electrical cable.",
+      "zh": "这场火很可能是由一根有故障的电缆引起的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "rendition",
+    "explain": "名词，（歌曲、乐曲、戏剧等的）演唱、演奏、表演，如 a moving rendition of the national anthem（一次感人的国歌演唱）。对应的动词是 render，也可表示“演唱，演奏”。本句视频译为“表演/演奏”。"
+   },
+   {
+    "term": "recur",
+    "explain": "不及物动词，反复出现，再次发生；变化形式双写 r：recurred、recurring。形容词 recurring 意为“反复出现的”，如 a recurring theme（反复出现的主题）；名词 recurrence。"
+   },
+   {
+    "term": "courtship",
+    "explain": "求偶，求爱。动物学中 courtship behaviour、courtship display 指求偶行为、求偶炫耀。本句视频译为“求偶”。"
+   }
+  ],
+  "translation_tip": "视频译文“每一次表演/演奏持续数分钟，而这首歌能反复出现数个小时，很可能是为了求偶。”的处理：①rendition 兼有“演唱、演奏、表演”之义，视频用“表演/演奏”并列给出，Each 译为“每一次”。②并列连词 and 译成“而”，突出前后两个时长的对比。③不带数词的复数名词 minutes、hours 增补“数”，译成“数分钟”“数个小时”。④句末目的状语单独译成一个分句，probably 译为“很可能是”，保留推测语气。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "All the males",
+   "predicate": "sing",
+   "object_or_complement": "an identical version",
+   "explain": "主干是 All the males sing an identical version，主谓宾结构。谓语 sing 用一般现在时，主动语态，表示普遍存在的现象；which 引导的非限制性定语从句补充说明 version。"
+  },
+  "components": [
+   {
+    "text": "All the males",
+    "zh": "所有雄性",
+    "role": "主语"
+   },
+   {
+    "text": "in a population",
+    "zh": "同一种群中的",
+    "role": "后置定语（介词短语），修饰 males"
+   },
+   {
+    "text": "sing",
+    "zh": "都唱着",
+    "role": "谓语"
+   },
+   {
+    "text": "an identical version,",
+    "zh": "完全相同的版本",
+    "role": "宾语"
+   },
+   {
+    "text": "which evolves subtly each year.",
+    "zh": "而它每年都不易察觉地演变",
+    "role": "非限制性定语从句，修饰 version"
+   }
+  ],
+  "structure": "①主句是 All the males in a population sing an identical version：主语 All the males，in a population 是介词短语作后置定语，修饰 males（视频说明）；谓语 sing，宾语 an identical version。\n②in a population 中的不定冠词 a 是泛指用法，指“任何一个”种群，即在任何一个种群内部；视频译为“同一种群中的”，用“同一”点明唱同一版本的范围限于一个种群之内。population 在生物学中指“种群”，即生活在同一区域的同种个体。\n③which 引导非限制性定语从句，修饰 version（视频说明）。which 在从句中作主语，从句谓语 evolves 用单数，与先行词 version 一致；subtly 是方式状语，修饰 evolves；each year 是名词短语作时间状语。\n④主句说“同一种群的雄鲸唱同一个版本”，从句说“这个版本每年都在细微变化”，两层意思合起来，就是下一句所说的 the rule（规则）。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "which 引导非限制性定语从句并作主语",
+    "explain": "非限制性定语从句用逗号与主句隔开，对先行词作补充说明，不能用 that 引导。which 在从句中作主语时，从句谓语的单复数与先行词一致，本句先行词 version 是单数，所以用 evolves。which 既可以指前面的一个名词，也可以指前面整个句子，要根据从句的谓语和意思判断先行词：本句“每年不易察觉地演变”的只能是 version。翻译时非限制性定语从句常拆成独立分句，用“它”“这”等词回指先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum's most famous exhibit is a medieval map, which places Jerusalem at the centre of the world.",
+      "zh": "这家博物馆最有名的展品是一幅中世纪地图，它把耶路撒冷画在世界的中心。"
+     },
+     {
+      "en": "Prices rose sharply in the spring, which surprised most economists.",
+      "zh": "春季物价大幅上涨，这让大多数经济学家感到意外。"
+     }
+    ]
+   },
+   {
+    "title": "不定冠词 a 泛指“任何一个”",
+    "explain": "不定冠词 a/an 除了表示“一个”，还常用于泛指，表示某一类中的“任何一个”，如 A teacher should be patient（当老师的都应该有耐心）。本句 in a population 不是指某个特定的种群，而是泛指任何一个种群：在任何一个种群内部，全体雄性唱的都是同一个版本。视频译为“同一种群中的”，用“同一”点明唱同一版本的范围限于一个种群之内。注意区分：a 表示“同一个”（相当于 the same）只见于 birds of a feather、be of a size、be of an age 等少数固定说法，本句不属于这种用法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "All the students in a class usually follow the same timetable.",
+      "zh": "同一个班的所有学生通常按同一张课表上课。"
+     }
+    ]
+   },
+   {
+    "title": "all + 名词 与 all the + 名词",
+    "explain": "all 修饰名词时，all + 复数名词表示泛指，all the + 复数名词表示特指某一范围内的全部。all males 泛指一切雄性，all the males in a population 特指某个种群中的全部雄性。all the males 也可以说 all of the males，意思相同；在人称代词前必须用 of，如 all of them。汉语译文常在谓语前加“都”与 all 呼应，视频译为“所有雄性都唱着”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "All the patients in the trial received the same dose.",
+      "zh": "参加试验的所有患者都服用了相同的剂量。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "population",
+    "explain": "熟词僻义：population 常见义是“人口”，在生物学中指“种群”，即生活在同一地区的同种生物个体的总和，如 a population of whales。本文第4、10、12、13、18句的 population 都是这个意思，视频译为“种群”。"
+   },
+   {
+    "term": "identical",
+    "explain": "完全相同的，常用 be identical to/with sth；identical twins 指同卵双胞胎。语气比 same 更强，强调毫无差别。本句视频译为“完全相同的”。"
+   },
+   {
+    "term": "version",
+    "explain": "版本，形式。本句指同一首歌在某一年的唱法，视频译为“版本”。"
+   },
+   {
+    "term": "evolve subtly",
+    "explain": "evolve 是不及物动词，意为“演变，逐步发展”，名词是 evolution（第14句 genetic evolution）。subtly 是 subtle 的副词形式，意为“细微地，不易察觉地”，subtle 中的 b 不发音。"
+   }
+  ],
+  "translation_tip": "视频译文“同一种群中的所有雄性都唱着完全相同的版本，而它每年都不易察觉地演变。”的处理：①后置定语 in a population 前移，译为“同一种群中的”，泛指“任何一个”的不定冠词 a 译成“同一”，点明唱同一版本的范围是一个种群内部。②增补“都”与 All 呼应，强调没有例外；sing 译成“唱着”，表示持续的状态。③非限制性定语从句不前置，拆成后一个分句，用“而它”回指 version，“而”带出前后对照：版本相同，却每年都在变。④方式状语 subtly 和时间状语 each year 都移到动词“演变”之前，译成“每年都不易察觉地演变”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "That",
+   "predicate": "is",
+   "object_or_complement": "the rule",
+   "explain": "主系表结构。系动词 is 用一般现在时，概括上文所述的普遍规律。"
+  },
+  "components": [
+   {
+    "text": "That",
+    "zh": "这",
+    "role": "主语（指示代词，概括指代第1至4句描述的规律）"
+   },
+   {
+    "text": "is",
+    "zh": "就是",
+    "role": "系动词"
+   },
+   {
+    "text": "the rule.",
+    "zh": "规则",
+    "role": "表语"
+   }
+  ],
+  "structure": "①句子是最简单的主系表结构：That（主语）+ is（系动词）+ the rule（表语）。\n②That 概括指代第一段的全部内容：同一种群的雄鲸都唱同一个版本，而这个版本每年只作细微的变化。视频说明用歌曲“版本更新”的比喻解释了这条规则：同一年里大家唱同一版本，下一年在此基础上稍作改动，大家再一起跟着学，日积月累，多年后歌曲可能面目全非。\n③the rule 用定冠词，特指座头鲸唱歌普遍遵循的这条规律，相当于“常态”。\n④篇章上，本句是第二段的开头，用四个词的短句总结上文；下一句 Off eastern Australia, it was broken 随即转折，引出例外，形成“规律、打破规律”的结构。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "that 概括指代上文",
+    "explain": "this 和 that 都可以概括指代前文的一段内容，而不只指某一个名词。回指刚说过的内容两者都可用，that 更强调所指内容已经说完、作为一个整体来评价；预告下文时一般用 this，如 This is what happened: …。本句 That 回指第一段描述的规律。考研阅读的代词指代题中，这类概括性的 that、this 要到前面几句中归纳答案，不能只找离它最近的名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Prices rise, wages lag behind, and families cut back. That is the pattern we have seen for a decade.",
+      "zh": "物价上涨，工资滞后，家庭缩减开支。这就是我们十年来一直看到的模式。"
+     }
+    ]
+   },
+   {
+    "title": "主系表结构",
+    "explain": "系动词 be 后接名词、形容词等作表语，说明主语的身份、性质或状态，构成“主语 + 系动词 + 表语”。本句 That is the rule 中，表语 the rule 说明主语 That 是什么。论说文和新闻中常用这种极短的主系表句来总结或下判断，后面紧接转折或新信息，如本文第6句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "That is the challenge facing every new government.",
+      "zh": "这就是每一届新政府都要面对的挑战。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "rule",
+    "explain": "rule 常见义是“规则，规定”，也可指“常规，通常的情况”，如 as a rule（通常）、the exception to the rule（常规中的例外）。本句 the rule 指座头鲸唱歌的通常规律，视频译为“规则”；下一句用动词 break（打破）与它搭配。"
+   },
+   {
+    "term": "短句的篇章作用",
+    "explain": "本句只有四个词，承上启下：承接第一段对常态的描写，开启第二段对例外的叙述。阅读中遇到这类简短的总结句，往往意味着下文要转折或引出重点。"
+   }
+  ],
+  "translation_tip": "视频译文“这就是规则。”的处理：①That 译成“这”，汉语回指上文多用“这”。②系动词 is 译成“就是”，增补“就”加强确认语气，表明上文所述正是通常的规律，为下一句的“打破”作铺垫。③the rule 译为“规则”，定冠词不译出。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "it",
+   "predicate": "was broken",
+   "object_or_complement": "",
+   "explain": "主谓结构，谓语 was broken 是一般过去时的被动语态，主语 it 是动作的承受者。时态由上文的一般现在时转为一般过去时，开始叙述一件过去发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "Off eastern Australia,",
+    "zh": "在澳大利亚东部海域",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "it",
+    "zh": "这个规则",
+    "role": "主语（代词，指代上句的 the rule）"
+   },
+   {
+    "text": "was broken.",
+    "zh": "被打破了",
+    "role": "谓语（一般过去时的被动语态）"
+   }
+  ],
+  "structure": "①主句 it was broken：主语 it 指上句的 the rule，谓语 was broken 是被动语态，“规则被打破了”；打破规则的是谁，本句没有说，后文才交代。\n②Off eastern Australia 是介词短语作地点状语，放在句首，突出规则是在哪里被打破的。off 是介词，意为“在……附近的海域”（视频说明），即离澳大利亚东部海岸不远的海上。\n③eastern 小写，是普通形容词，意为“东部的”，不是正式地名的一部分；eastern Australia 指澳大利亚东部。\n④本句与上句 That is the rule 构成转折：上句用一般现在时陈述常态，本句改用一般过去时转入具体事件，第7至10句接着讲述这次打破规则的经过。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "一般过去时的被动语态",
+    "explain": "被动语态由 be + 过去分词构成，一般过去时的被动语态是 was/were + 过去分词。本句 it was broken 中，规则是被打破的对象，动作的执行者没有说出，因为句子关注的是“规则被打破”这一结果。break 是不规则动词，变化为 break、broke、broken。考研写作中，不需要或不便说出动作执行者时常用被动语态。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The record was broken twice in the same season.",
+      "zh": "这项纪录在同一个赛季里被打破了两次。"
+     }
+    ]
+   },
+   {
+    "title": "时态转换：一般现在时讲规律，一般过去时讲事件",
+    "explain": "同一篇文章中，陈述普遍规律、动物习性用一般现在时，叙述过去发生的具体事件用一般过去时。本文第1至5句讲座头鲸唱歌的常态，用一般现在时（fill、constitute、sing、is）；第6句起讲澳大利亚东部海域的具体事件，改用一般过去时（was broken、used、emitted）。阅读时留意时态变化，它往往标志着内容从“一般情况”转向“个别事例”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Sea turtles usually return to the beach where they hatched. In 2019, however, one female nested hundreds of kilometres away.",
+      "zh": "海龟通常会回到自己孵化的海滩。然而在2019年，一只雌海龟却在几百公里之外筑巢产卵。"
+     }
+    ]
+   },
+   {
+    "title": "介词 off 表示“在……附近的海域”",
+    "explain": "off 作介词时，除了表示“离开，从……脱离”（如 get off the bus），还可以表示“离海岸、陆地不远的海上”，如 off the coast of Japan（日本近海）、an island off Florida（佛罗里达附近海域的一座岛）。本句 Off eastern Australia 即“在澳大利亚东部海域”。本文第10、13、18句的 off western Australia、off eastern Australia 都是这个意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fishermen spotted a pod of dolphins off the southern coast.",
+      "zh": "渔民们在南部沿海发现了一群海豚。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "break the rule",
+    "explain": "打破规则，违反常规；被动形式 the rule was broken。本句承接上句的 the rule，用“打破”表示出现了例外。"
+   },
+   {
+    "term": "eastern Australia",
+    "explain": "澳大利亚东部。澳大利亚东海岸濒临太平洋，西海岸濒临印度洋，第10句提到的 the Indian Ocean population（印度洋种群）就生活在澳大利亚西部海域。"
+   }
+  ],
+  "translation_tip": "视频译文“在澳大利亚东部海域，这个规则被打破了。”的处理：①off 译为“在……海域”，补出“海域”，交代地点在海上而不是陆地上。②代词 it 译成“这个规则”，把指代对象明确说出，避免“它”指代不清。③被动语态保留，用“被”字句译成“被打破了”，句末“了”表示变化已经发生。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "researchers",
+   "predicate": "used",
+   "object_or_complement": "hydrophones",
+   "explain": "主干是 researchers used hydrophones，主谓宾结构；or underwater microphones 是 hydrophones 的同位语，to record… 是不定式作目的状语。谓语 used 用一般过去时，主动语态，叙述1995至1998年间进行的研究工作。"
+  },
+  "components": [
+   {
+    "text": "From 1995 to 1998,",
+    "zh": "1995年至1998年间",
+    "role": "时间状语（介词短语 from…to…）"
+   },
+   {
+    "text": "researchers",
+    "zh": "研究人员",
+    "role": "主语"
+   },
+   {
+    "text": "used",
+    "zh": "用",
+    "role": "谓语"
+   },
+   {
+    "text": "hydrophones,",
+    "zh": "水听器",
+    "role": "宾语"
+   },
+   {
+    "text": "or underwater microphones,",
+    "zh": "即水下麦克风",
+    "role": "同位语，解释 hydrophones（or 意为“即，也就是”）"
+   },
+   {
+    "text": "to record",
+    "zh": "录下了",
+    "role": "目的状语（动词不定式）"
+   },
+   {
+    "text": "humpbacks",
+    "zh": "座头鲸",
+    "role": "不定式 to record 的宾语"
+   },
+   {
+    "text": "on their seasonal migration along the coastline.",
+    "zh": "沿海岸线进行季节性迁徙的",
+    "role": "后置定语（介词短语），修饰 humpbacks；其中 along the coastline 修饰 migration"
+   }
+  ],
+  "structure": "①主句 researchers used hydrophones：主语 researchers，谓语 used，宾语 hydrophones。句首 From 1995 to 1998 是时间状语，交代研究持续的时间段。\n②or underwater microphones 是同位语，解释 hydrophones（视频说明）。这里的 or 不表示选择“或者”，而是换一种说法，意为“即，也就是”：作者先给出专业术语 hydrophones，再用通俗的 underwater microphones 解释。\n③to record humpbacks… 是不定式作目的状语（视频说明），说明使用水听器的目的，humpbacks 是 record 的宾语。use sth to do sth 是“用某物做某事”的常见结构。\n④on their seasonal migration along the coastline 是介词短语作后置定语，修饰 humpbacks（视频说明），说明录下的是正处在迁徙途中的座头鲸。on 表示“在……途中，正在进行……”；along the coastline 修饰 migration，说明迁徙路线；their 指 humpbacks。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "不定式作目的状语：use sth to do sth",
+    "explain": "动词不定式可以作目的状语，说明主句动作的目的，一般放在句末，也可以放在句首（To record the whales, researchers used…），还可以用 in order to、so as to 强调目的。use sth to do sth 意为“用某物来做某事”，其中 to do 是目的状语。要与 be used to doing（习惯于做某事）、used to do（过去常常做某事）区分开。本句 used hydrophones … to record humpbacks 即“用水听器录下座头鲸”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Engineers used drones to inspect the damaged bridge.",
+      "zh": "工程师用无人机检查受损的桥梁。"
+     },
+     {
+      "en": "Many farmers now use satellite data to decide when to plant.",
+      "zh": "如今许多农民借助卫星数据来决定何时播种。"
+     }
+    ]
+   },
+   {
+    "title": "or 引出同位语，表示解释",
+    "explain": "or 除了表示选择（或者），还可以引出同位语，对前面的词作解释或换一种说法，意为“即，也就是说”，前后常用逗号隔开。科普文章常用这种方法解释专业术语：先给术语，再用 or 引出通俗说法，如 hydrophones, or underwater microphones。考研阅读的词义猜测题中，or、that is、namely、i.e. 等引出的内容往往就是生词的解释，是重要的解题线索。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Botanists study the flora, or plant life, of a region.",
+      "zh": "植物学家研究一个地区的植物区系，也就是那里的植物。"
+     },
+     {
+      "en": "The patient suffered from insomnia, or chronic sleeplessness.",
+      "zh": "这位患者患有失眠症，即长期无法入睡。"
+     }
+    ]
+   },
+   {
+    "title": "on + 名词 表示“在……途中，正在进行”",
+    "explain": "介词 on 加某些名词，表示“在……途中，正在进行……”，如 on a trip（在旅行）、on holiday（在度假）、on duty（在值班）、on the way（在路上）、on the move（在移动中）。本句 humpbacks on their seasonal migration 意为“正在进行季节性迁徙的座头鲸”，介词短语作后置定语修饰 humpbacks，视频译为“进行季节性迁徙的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Thousands of wildebeest on their annual migration crossed the river that morning.",
+      "zh": "那天早上，数千头正在进行年度迁徙的角马渡过了这条河。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "hydrophone",
+    "explain": "水听器，在水下接收声音的仪器。由 hydro-（水）和 -phone（声音）构成，同类构词有 microphone（麦克风）、headphone（耳机）、hydropower（水力发电）。本句视频译为“水听器”，并按同位语解释为“水下麦克风”。"
+   },
+   {
+    "term": "humpbacks",
+    "explain": "humpback 单独使用即可指座头鲸，相当于 humpback whale。本句用复数 humpbacks 指被录音的座头鲸，避免重复第1句的 humpback whales。"
+   },
+   {
+    "term": "seasonal migration",
+    "explain": "季节性迁徙，指动物随季节变化在不同地区之间往返迁移。第1句说雄鲸冬季在繁殖地唱歌，本句的录音是在座头鲸沿海岸线迁徙的途中进行的。"
+   },
+   {
+    "term": "from…to…",
+    "explain": "表示时间段的起止，From 1995 to 1998 视频译为“1995年至1998年间”；也可以说 between 1995 and 1998。"
+   }
+  ],
+  "translation_tip": "视频译文“1995年至1998年间，研究人员用水听器，即水下麦克风，录下了沿海岸线进行季节性迁徙的座头鲸。”的处理：①同位语 or underwater microphones 保留在原位，or 译成“即”，前后用逗号隔开，体现解释关系。②不定式目的状语 to record… 没有译成“为了录下”，而是与“用水听器”连成连动结构“用水听器……录下了”，把目的直接表述为已完成的动作，句子更紧凑。③后置定语 on their seasonal migration along the coastline 整体前移到“座头鲸”之前：along the coastline 译为“沿海岸线”，on their seasonal migration 译为“进行季节性迁徙的”，their 不译出。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "merely two of 82 singers",
+   "predicate": "emitted",
+   "object_or_complement": "a distinctive new song",
+   "explain": "主干是 merely two of 82 singers emitted a distinctive new song，主谓宾结构；utterly unlike the reigning chorus 补充说明 song。谓语 emitted 用一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In the mid-1990s,",
+    "zh": "20世纪90年代中期",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "merely two of 82 singers",
+    "zh": "82只歌者中仅有两只",
+    "role": "主语（merely 修饰数词 two，of 82 singers 表示范围）"
+   },
+   {
+    "text": "emitted",
+    "zh": "发出了",
+    "role": "谓语"
+   },
+   {
+    "text": "a distinctive new song,",
+    "zh": "一首与众不同的新歌",
+    "role": "宾语"
+   },
+   {
+    "text": "utterly unlike the reigning chorus.",
+    "zh": "完全不像占据主导地位的合唱",
+    "role": "形容词短语作后置修饰语，补充说明 song（utterly 修饰 unlike）"
+   }
+  ],
+  "structure": "①主句 merely two of 82 singers emitted a distinctive new song：主语 merely two of 82 singers，谓语 emitted，宾语 a distinctive new song。句首 In the mid-1990s 是时间状语。\n②主语中，two of 82 singers 是“数词 + of + 名词”的结构，意为“82只中的两只”；merely 修饰 two，强调数量极少，视频译为“仅有”。singers 指唱歌的雄鲸，是对 male humpback whales 的同义替换。\n③emit 指从某个源头向外释放或发出光、声音、气味、气体等（视频说明），这里指鲸唱出歌声，视频译为“发出了”。宾语中 distinctive 和 new 两个形容词共同修饰 song。\n④utterly unlike the reigning chorus 是形容词短语作后置修饰，补充说明 song（视频说明），相当于 which was utterly unlike the reigning chorus。utterly 修饰 unlike，强调完全不同；the reigning chorus 指当时种群里普遍在唱的旧歌，reigning 意为“占据主导地位的”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "句末用逗号隔开的形容词短语作后置修饰",
+    "explain": "形容词短语（形容词带修饰语或补足成分）修饰名词时通常放在名词后面；如果用逗号隔开，就是对前面名词的补充说明，相当于省略了 which/who + be 的非限制性定语从句。本句 a distinctive new song, utterly unlike the reigning chorus 相当于 a distinctive new song, which was utterly unlike the reigning chorus（视频说明：形容词短语作后置修饰，补充说明 song）。考研长难句中，句末逗号后出现形容词短语时，要判断它修饰哪个名词，通常是前面最近的、意思讲得通的名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The committee received a proposal, simple in design but costly to build.",
+      "zh": "委员会收到一份方案，设计简单，但造价高昂。"
+     },
+     {
+      "en": "Scientists have described a new species of frog, small enough to sit on a fingernail.",
+      "zh": "科学家描述了一个新的蛙种，它小到可以趴在指甲盖上。"
+     }
+    ]
+   },
+   {
+    "title": "merely + 数词 + of + 名词",
+    "explain": "“数词 + of + 名词”表示“……中的几个”，如 two of the students、three of them。本句 two of 82 singers 意为“82只歌者中的两只”，82 交代总数。merely 意为“仅仅，只不过”，放在数词前强调数量少，作用与 only 相同，语气更正式。本句 merely two of 82 与下一句 virtually every singer 形成对照，突出新歌从极少数扩展到几乎全体。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Merely three of the twenty applicants met all the requirements.",
+      "zh": "二十名申请人中仅有三人满足全部要求。"
+     }
+    ]
+   },
+   {
+    "title": "多个形容词作前置定语的顺序",
+    "explain": "几个形容词共同修饰一个名词时，一般按“评价、描述 + 大小 + 形状 + 新旧、年龄 + 颜色 + 来源 + 材料 + 用途 + 名词”的顺序排列，与名词关系越密切的越靠近名词。本句 a distinctive new song 中，distinctive（与众不同的）是评价性形容词，new（新的）表示新旧，所以 distinctive 在前。写作中说 a beautiful old house，不说 an old beautiful house。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She bought a lovely little wooden box at the market.",
+      "zh": "她在集市上买了一个可爱的小木盒。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the mid-1990s",
+    "explain": "20世纪90年代中期。年代用“the + 年份s”表示，如 the 1990s（20世纪90年代）；前面可加 early、mid-、late 表示初期、中期、后期：the early 1990s、the mid-1990s、the late 1990s，mid- 后用连字符。"
+   },
+   {
+    "term": "emit",
+    "explain": "视频说明：emit 指从某个源头向外释放或发出（光、声音、气味、气体等），如 emit light、emit carbon dioxide。名词 emission（排放，散发），如 carbon emissions（碳排放），是考研环境类阅读的常见词。"
+   },
+   {
+    "term": "reigning",
+    "explain": "reign 原指君主在位、统治，reigning 意为“在位的；占统治地位的”，如 the reigning champion（卫冕冠军）。本句用来形容歌曲，指当时种群普遍在唱的那首歌，视频译为“占据主导地位的”。"
+   },
+   {
+    "term": "chorus",
+    "explain": "合唱，齐声；合唱团；歌曲的副歌部分。in chorus 意为“齐声，一齐”。本句 the reigning chorus 指当时种群中所有雄鲸齐唱的旧歌，视频译为“合唱”。"
+   },
+   {
+    "term": "singers",
+    "explain": "singers 指唱歌的雄鲸，与第10句的 performers 一样，用人的身份指代鲸，带有拟人色彩。"
+   }
+  ],
+  "translation_tip": "视频译文“20世纪90年代中期，82只歌者中仅有两只发出了一首与众不同的新歌，完全不像占据主导地位的合唱。”的处理：①the mid-1990s 译为“20世纪90年代中期”，补出“20世纪”。②主语 merely two of 82 singers 调整语序，先说总数“82只歌者中”，再说“仅有两只”，符合汉语先整体后部分的习惯，并增补量词“只”。③形容词短语 utterly unlike the reigning chorus 没有前置，而是译成句末的一个分句“完全不像占据主导地位的合唱”，避免“新歌”前的定语过长。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "virtually every singer（第一个分句）；the old song（第二个分句）",
+   "predicate": "had converted（第一个分句）；had been displaced（第二个分句）",
+   "object_or_complement": "",
+   "explain": "由 and 连接的并列句。第一个分句 virtually every singer had converted 是主谓结构，谓语为过去完成时，主动语态；第二个分句 the old song had been displaced wholesale 也是主谓结构，谓语为过去完成时的被动语态。两个分句都表示到过去某一时间为止已经完成的变化。"
+  },
+  "components": [
+   {
+    "text": "Within about two years,",
+    "zh": "大约两年之内",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "virtually every singer",
+    "zh": "几乎每只歌者",
+    "role": "第一个分句的主语（virtually 修饰 every）"
+   },
+   {
+    "text": "had converted,",
+    "zh": "都已转变",
+    "role": "第一个分句的谓语（过去完成时，不及物动词）"
+   },
+   {
+    "text": "and by 1998",
+    "zh": "到1998年",
+    "role": "并列连词 and + 第二个分句的时间状语（by + 过去时间点）"
+   },
+   {
+    "text": "the old song",
+    "zh": "旧歌",
+    "role": "第二个分句的主语"
+   },
+   {
+    "text": "had been displaced",
+    "zh": "已被……取代",
+    "role": "第二个分句的谓语（过去完成时的被动语态）"
+   },
+   {
+    "text": "wholesale.",
+    "zh": "全盘",
+    "role": "方式状语（副词），修饰 had been displaced"
+   }
+  ],
+  "structure": "①第一个分句 virtually every singer had converted：主语 virtually every singer，virtually 修饰 every，意为“几乎每一个”；谓语 had converted 是过去完成时，convert 在这里是不及物动词，意为“转变，改换”，即改唱新歌。句首 Within about two years 是时间状语，指从上句新歌出现算起的大约两年之内。\n②第二个分句 the old song had been displaced wholesale：主语 the old song，谓语 had been displaced 是过去完成时的被动语态（视频说明），旧歌是被取代的对象；wholesale 是副词作方式状语，意为“全盘地”。by 1998 是时间状语，by + 过去时间点表示“到……为止”，是使用过去完成时的标志。\n③两个分句用 and 连接，视频用分号断开：前一个分句讲歌者的转变，后一个分句讲旧歌的结局，从两个角度描述同一场变化。\n④本句与上句对照：上句是82只中“仅有两只”唱新歌，本句是“几乎每只”都已转变，数量从极少到几乎全部，突出变化之快、之彻底。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "by + 过去时间点 与过去完成时",
+    "explain": "过去完成时（had done）表示到过去某一时间为止已经完成的动作。by + 过去时间点（by 1998、by the end of last year）或 by the time + 一般过去时从句，是使用过去完成时的典型标志。本句 by 1998 the old song had been displaced 表示到1998年时旧歌已被取代；第一个分句 Within about two years … had converted 也以“新歌出现后约两年”这个过去时间为参照。参照时间是现在（by now、so far）时用现在完成时，参照时间是将来（by 2030）时用将来完成时。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the war, more than half of the city had been destroyed.",
+      "zh": "到战争结束时，这座城市已有一半以上被毁。"
+     },
+     {
+      "en": "By the time the ambulance arrived, the injured man had lost consciousness.",
+      "zh": "救护车赶到时，伤者已经失去了知觉。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时的被动语态 had been done",
+    "explain": "过去完成时的被动语态由 had been + 过去分词构成，表示到过去某时为止某事物已经被怎样。本句 the old song had been displaced 中，旧歌是被取代的对象，所以用被动；取代者没有说出，从上下文可知是新歌。第一个分句用主动语态 had converted（歌者已转变），第二个分句换成以旧歌为主语的被动语态，从歌者和歌曲两个角度描述同一结果。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When the inspectors arrived, the documents had already been shredded.",
+      "zh": "检查人员到达时，文件已经被粉碎了。"
+     }
+    ]
+   },
+   {
+    "title": "virtually every + 单数名词",
+    "explain": "every 修饰单数可数名词，作主语时谓语用单数。virtually、almost、nearly 可以放在 every、all、no 等词前面，表示“几乎”。virtually 比 almost 略正式，常见搭配有 virtually all、virtually every、virtually no、virtually impossible。almost、virtually 不能直接修饰名词，不说 almost singers，要说 almost every singer 或 almost all singers。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Virtually every household in the village now has internet access.",
+      "zh": "如今这个村子里几乎每户人家都能上网。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "convert",
+    "explain": "convert 作不及物动词时，常指改变信仰、立场或习惯，convert to sth 意为“改信，改用”，如 convert to a new system；作及物动词时常用 convert A into B（把 A 转变为 B）。本句指雄鲸改唱新歌，视频译为“转变”。名词 convert 指“改变信仰的人”，重音在前，读 /ˈkɒnvɜːt/。"
+   },
+   {
+    "term": "displace",
+    "explain": "取代，替代；迫使离开原来的地方，如 displaced people（流离失所的人）。名词 displacement。本句视频译为“取代”。"
+   },
+   {
+    "term": "wholesale",
+    "explain": "熟词僻义：wholesale 常见义是“批发（的）”，与 retail（零售）相对；作形容词或副词时还可表示“大规模的（地），全盘的（地）”，如 wholesale changes（全面的变革），常带有“一下子全部、不加区别”的意味。本句作副词，视频译为“全盘”。"
+   },
+   {
+    "term": "virtually",
+    "explain": "几乎，差不多，相当于 almost。形容词 virtual 还有“虚拟的”之义，如 virtual reality（虚拟现实）。本句视频译为“几乎”。"
+   }
+  ],
+  "translation_tip": "视频译文“大约两年之内，几乎每只歌者都已转变；到1998年，旧歌已被全盘取代。”的处理：①两个分句之间的 and 不译出，改用分号断开，两件事各自独立又紧密相关。②过去完成时用“已”体现：“都已转变”“已被……取代”；增补“都”与 every 呼应。③被动语态用“被”字句保留，副词 wholesale 移到动词之前，译为“全盘取代”。④by 1998 译为“到1998年”，体现“到……为止”的含义。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "A study",
+   "predicate": "found",
+   "object_or_complement": "that the new song resembled that of the Indian Ocean population off western Australia（宾语从句）",
+   "explain": "主干是 A study found that…，主谓宾结构，宾语是 that 引导的宾语从句。谓语 found 用一般过去时，主动语态；宾语从句的谓语 resembled 也用一般过去时，与主句时态呼应。"
+  },
+  "components": [
+   {
+    "text": "A study",
+    "zh": "一项研究",
+    "role": "主语"
+   },
+   {
+    "text": "published in Nature in November 2000",
+    "zh": "2000年11月发表于《自然》（Nature）的",
+    "role": "后置定语（过去分词短语），修饰 study"
+   },
+   {
+    "text": "found",
+    "zh": "发现",
+    "role": "谓语"
+   },
+   {
+    "text": "that",
+    "zh": "（连接词，引导宾语从句，不在从句中作成分，不单独译出）",
+    "role": "连接词，引导宾语从句"
+   },
+   {
+    "text": "the new song",
+    "zh": "这首新歌",
+    "role": "宾语从句的主语"
+   },
+   {
+    "text": "resembled",
+    "zh": "与……相似",
+    "role": "宾语从句的谓语（及物动词，直接接宾语）"
+   },
+   {
+    "text": "that of the Indian Ocean population",
+    "zh": "印度洋种群的歌",
+    "role": "宾语从句的宾语（代词 that 指代 song，that of = the song of）"
+   },
+   {
+    "text": "off western Australia,",
+    "zh": "澳大利亚西部海域",
+    "role": "后置定语（介词短语），修饰 the Indian Ocean population"
+   },
+   {
+    "text": "apparently",
+    "zh": "似乎是",
+    "role": "评注性状语（表示推测）"
+   },
+   {
+    "text": "ferried east by a handful of visiting performers.",
+    "zh": "由一小批来访的歌手向东带来的",
+    "role": "状语（过去分词短语），逻辑主语是宾语从句中的 the new song"
+   }
+  ],
+  "structure": "①主句 A study found that…：主语 A study，谓语 found，宾语是 that 引导的宾语从句。published in Nature in November 2000 是过去分词短语作后置定语，修饰 study（视频说明），相当于 which was published in Nature in November 2000，研究是“被发表”的，所以用过去分词。\n②宾语从句 the new song resembled that of the Indian Ocean population：从句主语 the new song，谓语 resembled（与……相似），宾语 that of the Indian Ocean population。这里的 that 是代词，指代 song（视频说明），that of the Indian Ocean population = the song of the Indian Ocean population，用 that 避免重复 song。\n③off western Australia 是介词短语作后置定语，修饰 the Indian Ocean population，说明这个种群生活在澳大利亚西部海域；western 小写，表示方位“西部的”。\n④apparently ferried east by a handful of visiting performers 是过去分词短语作状语（视频说明），意为“被……向东带来”，逻辑主语是宾语从句中的 the new song：新歌是被来访的歌手带来的。east 是副词，表示方向“向东”；by 引出动作的执行者 a handful of visiting performers。apparently 是评注性状语，意为“似乎，看来”，说明“由来访者带来”是根据证据作出的推断。\n⑤与上文的联系：第8、9句讲东部种群换歌，本句交代新歌的来源，解释了规则为何会被打破。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "代词 that 替代前文名词：that of",
+    "explain": "为了避免重复，英语常用 that 替代前面出现过的单数可数名词或不可数名词，用 those 替代复数名词，后面多接 of 短语或定语从句，在比较、相似结构中尤其常见。本句 resembled that of the Indian Ocean population 中，that = the song。这里不能用 it：it 指同一个事物，that 指同类中的另一个事物。考研阅读和翻译中，遇到 that of、those of 要回到前文找它替代的名词，翻译时通常把名词还原出来。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The climate of Kunming is milder than that of Beijing.",
+      "zh": "昆明的气候比北京的气候温和。"
+     },
+     {
+      "en": "Wages in the private sector have risen faster than those in the public sector.",
+      "zh": "私营部门的工资比公共部门的工资涨得快。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词后作定语，表示被动或完成，相当于一个被动语态的定语从句。本句 A study published in Nature in November 2000 = A study which was published in Nature in November 2000（视频说明：过去分词短语作后置定语，修饰 study）。published 后带两个状语：in Nature 说明发表在哪里，in November 2000 说明发表时间。阅读时要看清真正的谓语是后面的 found，published 不是谓语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A report released by the ministry last month warned of slower growth in rural incomes.",
+      "zh": "该部上个月发布的一份报告警告说，农村收入增长将放缓。"
+     },
+     {
+      "en": "Most of the goods sold in the shop are made locally.",
+      "zh": "这家店出售的大部分商品都是本地生产的。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作状语与 apparently",
+    "explain": "过去分词短语可以作状语，表示被动，其逻辑主语是句中与它构成被动关系的名词。本句 ferried east by a handful of visiting performers 作状语（视频说明），逻辑主语是 the new song：新歌被一小批来访的歌手向东带来，by 引出动作执行者。apparently 意为“似乎，看来”，表示根据现有证据作出的判断，并非确证，视频译为“似乎是”，保留了这种推测语气。考研阅读中，apparently 引出的内容不能当作定论。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The letter, apparently written in haste, contained several spelling mistakes.",
+      "zh": "这封信似乎是匆忙写成的，里面有好几处拼写错误。"
+     }
+    ]
+   },
+   {
+    "title": "宾语从句的时态呼应",
+    "explain": "主句谓语是一般过去时（found、said、reported 等）时，宾语从句通常也用相应的过去时态。本句 found that the new song resembled…，从句用 resembled 与 found 呼应。宾语从句陈述的是客观真理时，可以保留一般现在时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The survey found that most residents opposed the new airport.",
+      "zh": "调查发现，大多数居民反对新建机场。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Nature",
+    "explain": "《自然》，英国出版的综合性科学周刊，1869年创刊，是世界上影响最大的科学期刊之一。报刊名在英文中首字母大写，常用斜体，中文加书名号，视频译为“《自然》（Nature）”。"
+   },
+   {
+    "term": "resemble",
+    "explain": "及物动词，与……相似，直接接宾语，不说 resemble to 或 resemble with；一般不用于进行时和被动语态。常见搭配有 closely resemble；名词 resemblance，如 bear a resemblance to（与……相似）。"
+   },
+   {
+    "term": "ferry",
+    "explain": "名词意为“渡船”，动词意为“（用船、车等）运送，摆渡”，常接 across、to、between 等，如 ferry passengers across the river。本句把新歌比作被来访的鲸从西向东“运送”过来的东西，视频译为“带来”。"
+   },
+   {
+    "term": "a handful of",
+    "explain": "一把；少数，一小批，后接可数名词复数。本句 a handful of visiting performers 指少数从西部来访的雄鲸，视频译为“一小批”。"
+   },
+   {
+    "term": "the Indian Ocean",
+    "explain": "印度洋，位于亚洲、非洲、大洋洲和南极洲之间，澳大利亚西海岸濒临印度洋。the Indian Ocean population 指生活在印度洋一侧的座头鲸种群。"
+   },
+   {
+    "term": "visiting performers",
+    "explain": "visiting 是现在分词作定语，意为“来访的”；performer 原指表演者，这里指唱歌的雄鲸，视频译为“歌手”。"
+   }
+  ],
+  "translation_tip": "视频译文“2000年11月发表于《自然》（Nature）的一项研究发现，这首新歌与澳大利亚西部海域印度洋种群的歌相似，似乎是由一小批来访的歌手向东带来的。”的处理：①过去分词短语 published in Nature in November 2000 前置为“2000年11月发表于《自然》（Nature）的”，时间提到最前，期刊名加书名号并保留英文原名。②resembled 译为“与……相似”，把比较对象放在“与”和“相似”之间；代词 that 还原为名词，译成“印度洋种群的歌”；后置定语 off western Australia 前移为“澳大利亚西部海域”。③句末过去分词短语单独译成一个分句，用“是由……带来的”体现被动关系，east 译为“向东”，apparently 译为“似乎是”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "it",
+   "predicate": "Nor was（否定词 nor + 系动词 was，部分倒装）",
+   "object_or_complement": "a freak",
+   "explain": "主系表结构的部分倒装句。否定词 Nor 位于句首，系动词 was 提到主语 it 之前；正常语序是 It was not a freak either（视频说明）。系动词用一般过去时。"
+  },
+  "components": [
+   {
+    "text": "Nor",
+    "zh": "也并非",
+    "role": "否定词 nor（置于句首，引起部分倒装）"
+   },
+   {
+    "text": "was",
+    "zh": "（系动词，倒装到主语 it 之前，与 Nor 合译为“也并非”）",
+    "role": "系动词（倒装在主语之前）"
+   },
+   {
+    "text": "it",
+    "zh": "这",
+    "role": "主语（指代上文东部种群换歌一事）"
+   },
+   {
+    "text": "a freak.",
+    "zh": "不寻常的事",
+    "role": "表语"
+   }
+  ],
+  "structure": "①本句是部分倒装：否定词 Nor 放在句首，系动词 was 提到主语 it 之前，构成 Nor + was + it + 表语。还原为正常语序是 It was not a freak either（视频说明）。\n②主语 it 指上文所述东部种群在两年左右全盘换歌一事；表语 a freak 意为“反常现象，不寻常的事”。\n③nor 意为“也不，也没有”，在上文之外再补充一层否定（视频说明）。本句前面并不是否定句，nor 在书面语中可以放在句首引出新的否定论断，承上启下：东部换歌并不是偶然的个例，第12、13句用更大范围的研究说明这种传播反复出现。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "nor 置于句首引起部分倒装",
+    "explain": "nor、neither 放在句首表示“也不”时，句子要部分倒装：把 be 动词、助动词或情态动词提到主语前面，即 Nor + be/助动词/情态动词 + 主语 + 其余部分（视频说明）。本句 Nor was it a freak 中，was 是系动词，直接提到 it 之前；谓语是实义动词时要借助 do/does/did，如 Nor did it happen by chance。never、seldom、hardly、little、not only、only + 状语等否定词或限制词置于句首时，也要部分倒装，这是考研语法和翻译的高频考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The plan was not cheap. Nor was it popular with local residents.",
+      "zh": "这个计划花费不菲，也不受当地居民欢迎。"
+     },
+     {
+      "en": "She has never missed a deadline, nor does she intend to start now.",
+      "zh": "她从来没有错过截止日期，现在也不打算破例。"
+     }
+    ]
+   },
+   {
+    "title": "nor、neither 与 not … either",
+    "explain": "表示“也不”常见三种写法：Nor + 倒装句；Neither + 倒装句；not … either（either 放在句末，不倒装）。nor 可以作连词连接两个分句，如 He didn't call, nor did he write；neither 多用于简短应答，如 Neither do I。本句 Nor was it a freak 相当于 It was not a freak either，语气更正式、更紧凑，书面语和新闻中常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "I don't eat meat, and my husband doesn't either.",
+      "zh": "我不吃肉，我丈夫也不吃。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "freak",
+    "explain": "名词，怪事，反常现象，如 a freak of nature（自然界的怪异现象）；作形容词意为“反常的，罕见的”，如 a freak accident（离奇的事故）、freak weather（反常天气）。口语中 freak 还可指“怪人”或“狂热爱好者”，如 a fitness freak（健身狂）。本句视频译为“不寻常的事”。"
+   },
+   {
+    "term": "本句的篇章作用",
+    "explain": "本句是第四段的开头，承上启下：上文讲一次换歌事件，下文第12、13句讲多个种群十余年间反复出现的传播规律，论证由个案推向普遍现象。"
+   }
+  ],
+  "translation_tip": "视频译文“这也并非不寻常的事。”的处理：①倒装句按正常语序译出，Nor 译为“也并非”，“也”体现在上文之外再补充一层，“并非”加强否定语气。②主语 it 译为“这”，概括指代上文所述的换歌事件。③a freak 译为“不寻常的事”，不定冠词不译出。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "a study",
+   "predicate": "analysed",
+   "object_or_complement": "over a decade of recordings",
+   "explain": "主谓宾结构。谓语 analysed 用一般过去时，主动语态；analysed 是英式拼写，美式拼写为 analyzed。"
+  },
+  "components": [
+   {
+    "text": "In April 2011,",
+    "zh": "2011年4月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "a study",
+    "zh": "一项研究",
+    "role": "主语"
+   },
+   {
+    "text": "in Current Biology",
+    "zh": "《当代生物学》（Current Biology）上的",
+    "role": "后置定语（介词短语），修饰 study"
+   },
+   {
+    "text": "analysed",
+    "zh": "分析了",
+    "role": "谓语"
+   },
+   {
+    "text": "over a decade of recordings",
+    "zh": "十余年的录音",
+    "role": "宾语（中心词 recordings，over a decade of 说明录音跨越的时间）"
+   },
+   {
+    "text": "from six South Pacific populations.",
+    "zh": "南太平洋六个种群",
+    "role": "后置定语（介词短语），修饰 recordings"
+   }
+  ],
+  "structure": "①主句 a study analysed over a decade of recordings：主语 a study，谓语 analysed，宾语中心词是 recordings。句首 In April 2011 是时间状语。\n②in Current Biology 是介词短语作后置定语，修饰 study，说明研究发表在哪本期刊上；in 表示刊登在某报刊上，如 an article in The Times。\n③over a decade of recordings 中，a decade of 说明录音跨越的时间，over 意为“超过”，修饰 a decade，合起来是“十余年的录音”。\n④from six South Pacific populations 是介词短语作后置定语，修饰 recordings（视频说明），说明录音的来源；South Pacific 作定语修饰 populations。\n⑤本句与第10句结构相似，都是“时间 + 某期刊上的一项研究 + 谓语”，用研究成果支撑论点；第10句是一个种群的个案，本句扩大到六个种群、十余年的数据。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "介词短语作后置定语",
+    "explain": "介词短语修饰名词时放在名词后面，作后置定语。本句有两个：in Current Biology 修饰 study，from six South Pacific populations 修饰 recordings。翻译时一般前移，译成“……的”，如“《当代生物学》上的一项研究”“南太平洋六个种群十余年的录音”。考研长难句中，名词后常连续出现几个介词短语，要分清每个短语修饰哪个名词。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A survey of 2,000 adults in rural areas found widespread support for the policy.",
+      "zh": "一项针对农村地区2000名成年人的调查发现，这项政策得到了广泛支持。"
+     }
+    ]
+   },
+   {
+    "title": "over + 数量；a decade of + 名词",
+    "explain": "over 放在数量词前，意为“超过，……多”，相当于 more than，如 over 100 people、over a decade。a decade of + 名词 表示“十年的……”，如 a decade of research、a decade of growth；decades of + 名词 表示“几十年的……”。本句 over a decade of recordings 即“十余年的录音”，强调数据跨度长，结论更可靠。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The project draws on over a decade of field data.",
+      "zh": "该项目利用了十余年的野外数据。"
+     }
+    ]
+   },
+   {
+    "title": "英式拼写与美式拼写",
+    "explain": "英式英语中以 -yse 结尾的动词，美式英语拼作 -yze，如 analyse/analyze、paralyse/paralyze；类似的差异还有 -our/-or（colour/color）、-re/-er（centre/center）、-ise/-ize（organise/organize）。本文用英式拼写 analysed。考研写作中两种拼写都可以，但同一篇文章要前后统一。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The samples were analysed in a laboratory in London.",
+      "zh": "这些样本是在伦敦的一个实验室里分析的。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Current Biology",
+    "explain": "《当代生物学》，细胞出版社（Cell Press）出版的生物学期刊。期刊名中文加书名号，视频译为“《当代生物学》（Current Biology）”。"
+   },
+   {
+    "term": "the South Pacific",
+    "explain": "南太平洋。Pacific 意为“太平洋的”，the Pacific 即 the Pacific Ocean。本句的六个种群从澳大利亚东部海域一直分布到法属波利尼西亚（见第13句）。"
+   },
+   {
+    "term": "recording",
+    "explain": "可数名词，录音，录像，如 make a recording（录音）、a sound recording（录音资料）。本句用复数 recordings，指多年积累下来的录音。"
+   },
+   {
+    "term": "decade",
+    "explain": "十年；decades 表示“几十年”，如 the past decade（过去十年）、for decades（几十年来）。"
+   }
+  ],
+  "translation_tip": "视频译文“2011年4月，《当代生物学》（Current Biology）上的一项研究分析了南太平洋六个种群十余年的录音。”的处理：①后置定语 in Current Biology 前移为“《当代生物学》（Current Biology）上的”，期刊名加书名号并保留英文。②宾语的两层修饰都前移：from six South Pacific populations 译为“南太平洋六个种群”，over a decade of 译为“十余年的”，语序由英文的“时长、录音、来源”调整为汉语的“来源、时长、录音”。③over a decade 译为“十余年”，用“余”表示 over。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Song types",
+   "predicate": "arose, then rippled",
+   "object_or_complement": "",
+   "explain": "一个主语带两个并列谓语：Song types arose…, then rippled…。arise 和 ripple 在句中都是不及物动词，不带宾语；两个谓语都用一般过去时，主动语态，then 表示先后顺序。句末 generally crossing… 是现在分词短语作结果状语。"
+  },
+  "components": [
+   {
+    "text": "Song types",
+    "zh": "歌型",
+    "role": "主语"
+   },
+   {
+    "text": "primarily",
+    "zh": "主要",
+    "role": "状语（副词），修饰 arose"
+   },
+   {
+    "text": "arose",
+    "zh": "起源于",
+    "role": "谓语一（不及物动词 arise 的过去式）"
+   },
+   {
+    "text": "off eastern Australia,",
+    "zh": "澳大利亚东部海域附近",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "then rippled",
+    "zh": "然后……如同涟漪般扩散",
+    "role": "副词 then（表示先后）+ 谓语二"
+   },
+   {
+    "text": "eastward",
+    "zh": "向东",
+    "role": "方向状语（副词）"
+   },
+   {
+    "text": "through successive populations",
+    "zh": "穿过相继的一个个种群",
+    "role": "状语（介词短语，表示经过的路径）"
+   },
+   {
+    "text": "to French Polynesia,",
+    "zh": "传至法属波利尼西亚",
+    "role": "状语（介词短语，表示到达的终点）"
+   },
+   {
+    "text": "generally",
+    "zh": "通常",
+    "role": "状语（副词），修饰 crossing"
+   },
+   {
+    "text": "crossing the region within about two years.",
+    "zh": "在大约两年内横跨该区域",
+    "role": "结果状语（现在分词短语）"
+   }
+  ],
+  "structure": "①主句是一个主语带两个并列谓语：Song types arose off eastern Australia, then rippled eastward…。第一个谓语 arose（arise 的过去式）意为“出现，起源”，primarily 修饰它，off eastern Australia 是地点状语；第二个谓语 rippled 意为“如涟漪般扩散”，前面的 then 表示先后顺序，相当于 and then。\n②rippled 后接三个状语：eastward 表示方向（向东），through successive populations 表示经过的路径（穿过相继的一个个种群），to French Polynesia 表示终点（传至法属波利尼西亚）。ripple through 意为“如涟漪般扩散到……”（视频说明）。\n③generally crossing the region within about two years 是现在分词短语作状语，表示结果（视频说明）：歌型一路向东扩散，结果通常在大约两年内横跨整个区域。crossing 的逻辑主语是 Song types；generally 修饰 crossing；the region 指从澳大利亚东部到法属波利尼西亚的这片南太平洋海域；within about two years 是时间状语。\n④本句是上句研究的结论：新歌型大多在澳大利亚东部海域出现，然后一个种群接一个种群地向东传，与第9句“大约两年之内”在时间上呼应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，常作结果状语，表示前面动作自然产生的结果，逻辑主语一般是主句主语，常见形式如 …, causing/leaving/making/resulting in…。本句 generally crossing the region within about two years 作结果状语（视频说明），逻辑主语是 Song types：歌型向东扩散，结果通常在约两年内横跨该区域。区分方法：表示结果的分词短语与主句动作有先后和因果关系，表示伴随的分词短语与主句动作同时发生。表示出乎意料的结果，一般用不定式，如 only to find…。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The storm knocked down power lines across the region, leaving thousands of homes without electricity.",
+      "zh": "暴风雨刮倒了整个地区的电线，致使数千户人家断电。"
+     },
+     {
+      "en": "Rents rose by 8 per cent last year, making housing even less affordable for young people.",
+      "zh": "去年房租上涨了8%，年轻人更租不起房了。"
+     }
+    ]
+   },
+   {
+    "title": "arise 与 rise、raise、arouse",
+    "explain": "arise（arose, arisen）是不及物动词，意为“出现，产生，起源”，主语多是问题、机会、情况等，常用 arise from（由……引起）。rise（rose, risen）也是不及物动词，意为“上升，升起”；raise 是及物动词，意为“举起，提高，提出”；arouse 是及物动词，意为“引起，唤起（兴趣、怀疑等）”。本句 Song types primarily arose off eastern Australia 意为“歌型主要起源于澳大利亚东部海域附近”。考研完形和写作中这几个词常混淆，关键是分清及物与不及物。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Difficulties may arise if the contract is not signed in time.",
+      "zh": "如果合同没有及时签订，可能会出现麻烦。"
+     },
+     {
+      "en": "The proposal aroused strong opposition among local farmers.",
+      "zh": "这项提议引起了当地农民的强烈反对。"
+     }
+    ]
+   },
+   {
+    "title": "移动动词后连用状语：方向、路径、终点",
+    "explain": "表示移动的动词后常连用几个状语，依次说明方向、路径和终点，如 eastward（向东）、through…（穿过……）、to…（到达……）。本句 rippled eastward through successive populations to French Polynesia 就是这种排列，翻译时可以按移动顺序译成连动结构。eastward 中的 -ward 表示“向……”，同类词有 westward、northward、homeward、forward；作副词时英式英语也常写作 eastwards。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire spread northward through the dry forest to the edge of the town.",
+      "zh": "大火穿过干燥的森林向北蔓延，一直烧到小镇边缘。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ripple",
+    "explain": "名词意为“涟漪，波纹”，动词意为“泛起涟漪；如涟漪般扩散”。ripple through/across 表示影响、情绪、消息等逐层扩散，如 Shock rippled through the crowd；ripple effect 指“连锁反应，涟漪效应”。本句视频译为“如同涟漪般扩散”，形象地表现歌型由一个种群传到下一个种群。"
+   },
+   {
+    "term": "successive",
+    "explain": "相继的，连续的，如 successive governments（历届政府）、for three successive years（连续三年）。名词 succession，动词 succeed（接替，继……之后）。注意与 successful（成功的）区分。本句 successive populations 指一个挨一个的种群，视频译为“相继的一个个种群”。"
+   },
+   {
+    "term": "French Polynesia",
+    "explain": "法属波利尼西亚，法国在南太平洋中部的海外领地，由多个群岛组成，首府帕皮提（Papeete）位于塔希提岛。它与澳大利亚东部相距数千公里，歌型能在约两年内跨越这片海域，可见传播之快。"
+   },
+   {
+    "term": "primarily",
+    "explain": "主要地，首要地，相当于 mainly、chiefly，如 be primarily concerned with。本句 primarily 说明歌型大多（并非全部）起源于澳大利亚东部海域，视频译为“主要”。"
+   }
+  ],
+  "translation_tip": "视频译文“歌型主要起源于澳大利亚东部海域附近，然后向东如同涟漪般扩散，穿过相继的一个个种群传至法属波利尼西亚，通常在大约两年内横跨该区域。”的处理：①两个并列谓语分别译成两个分句，then 译为“然后”，体现先后顺序。②rippled 后的三个状语拆开处理：eastward 前移为“向东”，through successive populations 译为“穿过相继的一个个种群”，to French Polynesia 增补动词“传”，译为“传至法属波利尼西亚”，按移动顺序排成连动结构。③successive populations 译为“相继的一个个种群”，用“一个个”体现逐个传递。④现在分词短语作结果状语，单独译成最后一个分句，时间状语 within about two years 前移为“在大约两年内”，the region 译为“该区域”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Such rapid change",
+   "predicate": "points to",
+   "object_or_complement": "imitation rather than inheritance",
+   "explain": "主谓宾结构，谓语是短语动词 points to（指向），宾语是 A rather than B 结构。谓语用一般现在时，主动语态，表达作者根据事实得出的判断。"
+  },
+  "components": [
+   {
+    "text": "Such rapid change,",
+    "zh": "如此快速的变化",
+    "role": "主语（such 修饰不可数名词短语 rapid change）"
+   },
+   {
+    "text": "too fast for genetic evolution,",
+    "zh": "对基因演化来说太快了",
+    "role": "插入语，补充说明 change"
+   },
+   {
+    "text": "points to",
+    "zh": "指向的是",
+    "role": "谓语（短语动词 point to）"
+   },
+   {
+    "text": "imitation rather than inheritance,",
+    "zh": "模仿而非遗传",
+    "role": "宾语（A rather than B 结构）"
+   },
+   {
+    "text": "a persuasive case of cultural transmission.",
+    "zh": "即文化传递的一个有说服力的例证",
+    "role": "同位语（名词短语），补充说明前面的结论"
+   }
+  ],
+  "structure": "①主句 Such rapid change points to imitation rather than inheritance：主语 Such rapid change，谓语 points to（指向），宾语 imitation rather than inheritance。Such rapid change 回指上文歌型在两年左右横跨整个区域的快速变化。\n②too fast for genetic evolution 是插入语，补充说明 change（视频说明），可以看作省略了 which is 的形容词短语：这种变化对基因演化来说太快了。它为后面的判断提供理由：基因演化要靠一代代繁殖慢慢积累，不可能在两年内让整个种群换掉歌曲。\n③宾语 imitation rather than inheritance 是 A rather than B 结构（视频说明：是 A 而不是 B），rather than 连接两个名词，肯定 imitation（模仿），否定 inheritance（遗传）。\n④句末 a persuasive case of cultural transmission 是名词短语作同位语，补充说明前面的结论（视频说明）：快速变化指向模仿而非遗传，这是文化传递的一个有说服力的例证。of cultural transmission 作 case 的后置定语。\n⑤本句是全文的核心论点句：由事实（两年左右换歌）推出结论（歌是靠模仿学来的），再给这一现象定性（文化传递）。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "A rather than B",
+    "explain": "rather than 连接两个对等的成分，意为“是 A 而不是 B”，肯定前者，否定后者，两端的词性和形式要一致：名词对名词、动词对动词、介词短语对介词短语。本句 imitation rather than inheritance 连接两个名词，作 points to 的宾语。rather than 连接两个主语时，谓语与前一个主语一致，如 He rather than his parents is to blame。考研阅读中，rather than 前面的内容才是作者肯定的观点，是细节题和主旨题的常见考点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The problem lies in poor management rather than a lack of funding.",
+      "zh": "问题出在管理不善，而不是资金不足。"
+     },
+     {
+      "en": "Many young people now rent rather than buy their homes.",
+      "zh": "如今许多年轻人租房住，而不是买房。"
+     }
+    ]
+   },
+   {
+    "title": "too … for …",
+    "explain": "too + 形容词/副词 + for sb/sth 意为“对某人或某物来说太……”，含有否定意味：too fast for genetic evolution 即快到基因演化无法做到。后面接不定式时构成 too … (for sb) to do（太……而不能做），如 too heavy for me to lift。本句的形容词短语 too fast for genetic evolution 用逗号隔开，作插入语补充说明主语 change（视频说明）。注意 only too … 不表示否定，如 I'm only too glad to help（我非常乐意帮忙）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report was too technical for most general readers.",
+      "zh": "这份报告对大多数普通读者来说太专业了。"
+     },
+     {
+      "en": "The box is too heavy for one person to carry.",
+      "zh": "这个箱子太重，一个人搬不动。"
+     }
+    ]
+   },
+   {
+    "title": "句末名词短语作同位语，补充说明前面的结论",
+    "explain": "句末用逗号隔开的名词短语，可以对前面整个分句所说的内容作概括或评价，相当于“这是……”。本句 a persuasive case of cultural transmission 补充说明前面的结论（视频说明），即“快速变化指向模仿而非遗传”这件事是文化传递的有力例证。翻译时常用“即”“这是”引出，视频用了“即”。考研长难句中，这种同位语容易被误认为宾语，要看它前面是否有逗号、能否与前面整个分句的内容对等。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Fewer students are choosing to study languages, a trend that worries many universities.",
+      "zh": "选择学习外语的学生越来越少，这一趋势令许多大学感到担忧。"
+     }
+    ]
+   },
+   {
+    "title": "such + 不可数名词",
+    "explain": "such 修饰名词时，单数可数名词前要加 a/an（such a change），不可数名词和复数名词前不加冠词（such rapid change、such changes）；so 修饰形容词或副词，so rapid a change 是较正式的写法。本句 change 作不可数名词，表示“变化”这一现象，所以说 such rapid change。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Few people expected such strong support for the new law.",
+      "zh": "很少有人料到这部新法律会得到如此有力的支持。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "point to",
+    "explain": "短语动词，指向，表明（某种原因或结论），如 The evidence points to a different explanation。考研阅读中常用来引出研究得出的结论。本句视频译为“指向的是”。"
+   },
+   {
+    "term": "genetic evolution",
+    "explain": "基因演化，指生物的遗传特征通过基因代代相传，在漫长的时间里逐渐改变。genetic 意为“基因的，遗传的”。"
+   },
+   {
+    "term": "imitation 与 inheritance",
+    "explain": "imitation 指模仿；inheritance 在生物学中指“遗传”，即性状由亲代传给子代，日常语境中更常见的意思是“遗产，继承”。本句用二者对比：歌是后天跟着别的鲸学会的，而不是天生遗传的。"
+   },
+   {
+    "term": "case",
+    "explain": "熟词僻义：case 除了“情况，案件，箱子”，还可指“论据，例证，理由”，如 make a case for（为……提出理由）、a strong case（有力的论据）。本句 a persuasive case 视频译为“一个有说服力的例证”。"
+   },
+   {
+    "term": "cultural transmission",
+    "explain": "文化传递，指行为、知识等通过学习、模仿在个体之间或代际之间传播，而不是通过基因遗传。本句用它给座头鲸换歌的现象定性。"
+   }
+  ],
+  "translation_tip": "视频译文“如此快速的变化，对基因演化来说太快了，指向的是模仿而非遗传，即文化传递的一个有说服力的例证。”的处理：①插入语 too fast for genetic evolution 保留在主语后，单独译成一个分句“对基因演化来说太快了”，too…for… 译为“对……来说太……”。②谓语 points to 译为“指向的是”，“的是”起强调作用，引出结论。③rather than 译为“而非”，简洁地与“模仿”“遗传”构成对比。④句末同位语前加“即”，表明它是对前面结论的概括；case 译为“例证”，of cultural transmission 前移为“文化传递的”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Why males sing, and why they overhaul their songs（两个并列的主语从句）",
+   "predicate": "remain",
+   "object_or_complement": "controversial",
+   "explain": "主系表结构，主语是两个由 and 连接的主语从句，系动词 remain 用复数形式（视频说明），表语是形容词 controversial。系动词用一般现在时，表示目前的状况。"
+  },
+  "components": [
+   {
+    "text": "Why males sing,",
+    "zh": "雄性为何歌唱",
+    "role": "主语从句一（why 引导，在从句中作原因状语）"
+   },
+   {
+    "text": "and why they overhaul their songs,",
+    "zh": "以及它们为何要全面改造它们的歌曲",
+    "role": "并列连词 and + 主语从句二"
+   },
+   {
+    "text": "remain",
+    "zh": "仍然",
+    "role": "系动词（复数形式，与两个并列的主语从句一致）"
+   },
+   {
+    "text": "controversial.",
+    "zh": "存在争议",
+    "role": "表语（形容词）"
+   }
+  ],
+  "structure": "①句子主干是“主语 + remain + 表语”：主语是两个并列的主语从句 Why males sing 和 why they overhaul their songs，系动词 remain，表语 controversial。\n②两个主语从句都由 why 引导，why 在从句中作原因状语；从句用陈述语序 males sing、they overhaul their songs，不能写成 why do males sing。第二个从句中的 they 和 their 都指 males。\n③两个主语从句用 and 连接，表示两个不同的问题，所以谓语用复数 remain（视频说明）；如果只有一个主语从句，谓语要用单数，如 Why males sing remains controversial。\n④remain 是系动词，意为“仍然是，依旧处于某种状态”，后接形容词 controversial 作表语。\n⑤本句呼应第3句的 probably for courtship：雄鲸唱歌的目的只是推测，至今仍有争议；第16、17句接着介绍不同的看法。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "主语从句与陈述语序",
+    "explain": "名词性从句（主语从句、宾语从句、表语从句、同位语从句）一律用陈述语序，即“连接词 + 主语 + 谓语”。本句 Why males sing 和 why they overhaul their songs 都是 why 引导的主语从句，why 在从句中作原因状语。主语从句放在句首显得较重，也常用 it 作形式主语，把从句移到句末，如 It remains unclear why males sing。考研翻译中，主语从句可以直接译成主语，视频译为“雄性为何歌唱”，也可以译成“……的原因”“……这一问题”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Why the project failed is still unclear.",
+      "zh": "这个项目为什么失败，现在仍不清楚。"
+     },
+     {
+      "en": "It remains a mystery how the paintings survived the fire.",
+      "zh": "这些画是如何在大火中幸存下来的，至今仍是个谜。"
+     }
+    ]
+   },
+   {
+    "title": "并列主语从句的主谓一致",
+    "explain": "一个主语从句作主语时，谓语用单数；两个主语从句用 and 连接、表示两件不同的事时，谓语用复数（视频说明）。本句 Why males sing, and why they overhaul their songs, remain controversial 中，两个问题各自独立，所以用 remain。做题时先判断主语是一个从句还是两个从句并列，再决定谓语的单复数。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "What the company promised and what it delivered were two very different things.",
+      "zh": "这家公司承诺的和它实际做到的完全是两回事。"
+     },
+     {
+      "en": "Where the money came from remains a mystery.",
+      "zh": "这笔钱从哪里来，至今仍是个谜。"
+     }
+    ]
+   },
+   {
+    "title": "remain 作系动词",
+    "explain": "remain 作系动词时意为“仍然是，保持”，后接形容词、名词、分词或介词短语作表语，如 remain silent、remain a mystery、remain unchanged、remain in power，没有被动语态。本句 remain controversial 意为“仍然存在争议”。写作中 remain + 形容词常用来描述悬而未决的问题，如 remain unclear、remain unsolved、remain open。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Despite years of research, the cause of the disease remains unknown.",
+      "zh": "尽管经过多年研究，这种疾病的病因仍然不明。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "overhaul",
+    "explain": "动词，全面改造，彻底改革；全面检修，如 overhaul an engine（检修发动机）、overhaul the tax system（全面改革税制）。名词也是 overhaul，如 a complete overhaul（全面检修，彻底改革）。本句指雄鲸把歌全面换新，视频译为“全面改造”。"
+   },
+   {
+    "term": "controversial",
+    "explain": "有争议的，引起争论的，如 a controversial decision、a highly controversial issue；名词 controversy。本句 remain controversial 视频译为“仍然存在争议”。"
+   },
+   {
+    "term": "they 和 their",
+    "explain": "第二个主语从句中，they 和 their 都指 males，视频译为“它们”“它们的”。"
+   }
+  ],
+  "translation_tip": "视频译文“雄性为何歌唱，以及它们为何要全面改造它们的歌曲，仍然存在争议。”的处理：①两个主语从句保留在句首作主语，why 译为“为何”，从句之间的 and 译为“以及”。②第二个从句增补“要”，表达“为什么要这样做”的语气；代词 they、their 译为“它们”“它们的”。③系动词 remain 译成副词“仍然”，形容词 controversial 转译为动宾结构“存在争议”，符合汉语表达习惯。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "One idea",
+   "predicate": "is",
+   "object_or_complement": "that novelty itself spurs change（表语从句）",
+   "explain": "主系表结构，表语是 that 引导的表语从句（视频说明）。系动词 is 和从句谓语 spurs 都用一般现在时，陈述一种观点。"
+  },
+  "components": [
+   {
+    "text": "One idea",
+    "zh": "一种观点",
+    "role": "主语"
+   },
+   {
+    "text": "is",
+    "zh": "是",
+    "role": "系动词"
+   },
+   {
+    "text": "that",
+    "zh": "（连接词，引导表语从句，不在从句中作成分，不单独译出）",
+    "role": "连接词，引导表语从句"
+   },
+   {
+    "text": "novelty itself",
+    "zh": "新奇本身",
+    "role": "表语从句的主语（反身代词 itself 作同位语，强调 novelty）"
+   },
+   {
+    "text": "spurs",
+    "zh": "推动了",
+    "role": "表语从句的谓语"
+   },
+   {
+    "text": "change.",
+    "zh": "变化",
+    "role": "表语从句的宾语"
+   }
+  ],
+  "structure": "①主句 One idea is that…：主语 One idea，系动词 is，表语是 that 引导的表语从句（视频说明），说明这种观点的具体内容。\n②表语从句 novelty itself spurs change：从句主语 novelty itself，谓语 spurs（促使，推动，视频说明），宾语 change。that 只起连接作用，不在从句中作成分。\n③itself 是反身代词，紧跟在 novelty 之后作同位语，起强调作用：推动变化的正是“新奇”本身，而不是别的原因。\n④本句与第17句都在回应第15句提出的争议：本句给出一种解释（追求新奇推动了歌曲更替），下一句讲一些学者对“文化”这一说法的保留态度。One idea 暗示还有其他观点。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "that 引导的表语从句",
+    "explain": "表语从句放在系动词之后，说明主语的内容，常由 that、whether、what、why、how 等引导。that 引导表语从句时只起连接作用，没有词义，也不作成分，正式文体中一般不省略。主语常是 idea、view、problem、reason、truth、fact 等抽象名词，构成“名词 + is that…”句型，如 The problem is that…、One explanation is that…。考研写作中可以用 One possible explanation is that…, Another is that… 分层列举原因。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The main reason is that the city lacks affordable housing.",
+      "zh": "主要原因是这座城市缺少价格适中的住房。"
+     },
+     {
+      "en": "One explanation is that older workers are less likely to change jobs.",
+      "zh": "一种解释是，年长的员工不太可能换工作。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作同位语表示强调",
+    "explain": "反身代词（myself、itself、themselves 等）紧跟在名词或代词之后，或放在句末，作同位语，强调“正是……本身，而不是别的”，去掉后句子结构仍然完整，如 The idea itself is simple（这个想法本身很简单）。本句 novelty itself 强调推动变化的是“新奇”本身。要与反身代词作宾语区分：He hurt himself 中，去掉 himself 句子就不完整。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The building itself is not old, but the site has a long history.",
+      "zh": "这座建筑本身并不古老，但这块地方历史悠久。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "novelty",
+    "explain": "名词，新奇，新颖；新奇的事物。the novelty wears off 意为“新鲜劲儿过去了”。形容词 novel 意为“新颖的”，与名词 novel（小说）同形。本句视频译为“新奇”。"
+   },
+   {
+    "term": "spur",
+    "explain": "名词原指骑马靴后跟上的“马刺”，骑手用它刺马加速；动词引申为“促使，激励，推动”，如 spur growth、spur sb to do sth。on the spur of the moment 意为“一时冲动地，心血来潮地”。本句视频说明：促使，推动，译为“推动了”。"
+   },
+   {
+    "term": "One idea is that…",
+    "explain": "idea 在本句指“观点，看法”，与 theory、view、hypothesis 相近，视频译为“观点”。One idea is that… 是介绍不同观点时的常用句型，后面可以接 Another is that…。"
+   }
+  ],
+  "translation_tip": "视频译文“一种观点是，新奇本身推动了变化。”的处理：①One idea 译为“一种观点”，idea 不译成“主意”，符合学术语境。②表语从句前用逗号断开，连接词 that 不译出。③反身代词 itself 译为“本身”，保留强调意味。④spurs 译为“推动了”，change 译为“变化”。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Some scholars",
+   "predicate": "are",
+   "object_or_complement": "reluctant（表语，后接不定式 to define this as culture in the human sense）",
+   "explain": "主系表结构，表语是形容词 reluctant，后接不定式短语，构成 be reluctant to do（不愿做……，视频说明）。系动词 are 用一般现在时。"
+  },
+  "components": [
+   {
+    "text": "Some scholars",
+    "zh": "一些学者",
+    "role": "主语"
+   },
+   {
+    "text": "are",
+    "zh": "（系动词，与 reluctant 合译为“不愿”）",
+    "role": "系动词"
+   },
+   {
+    "text": "reluctant",
+    "zh": "不愿",
+    "role": "表语（形容词）"
+   },
+   {
+    "text": "to define this as culture",
+    "zh": "把这种现象界定为……文化",
+    "role": "不定式短语，跟在 reluctant 后说明不愿做的事（be reluctant to do）"
+   },
+   {
+    "text": "in the human sense.",
+    "zh": "人类意义上的",
+    "role": "后置定语（介词短语），修饰 culture"
+   }
+  ],
+  "structure": "①主句 Some scholars are reluctant：主语 Some scholars，系动词 are，表语 reluctant。be reluctant to do 意为“不愿做……”（视频说明），不定式 to define this as culture 说明不愿做的事。\n②不定式内部是 define A as B 结构（视频说明：把 A 界定为 B）：this 是 define 的宾语，as culture 是宾语补足语。this 概括指代上文所说的座头鲸靠模仿传播、更换歌曲的现象，视频译为“这种现象”。\n③in the human sense 是介词短语作后置定语，修饰 culture，意为“人类意义上的”，限定“文化”的含义：一些学者认为鲸的这种行为不能与人类所说的文化等同。\n④本句与第14句形成对照：第14句称这是 cultural transmission（文化传递）的有力例证，本句指出一些学者不愿把它称为人类意义上的文化，体现了作者客观、平衡的立场。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "be + 形容词 + to do",
+    "explain": "表示态度、意愿、可能性的形容词常接不定式，构成 be + 形容词 + to do，如 be reluctant to do（不愿做）、be willing to do（愿意做）、be eager to do（渴望做）、be likely to do（可能做）、be unable to do（不能做）。本句 are reluctant to define this as culture 意为“不愿把这种现象界定为文化”。reluctant 也可作前置定语，副词 reluctantly 意为“不情愿地”。考研阅读中，be reluctant to 常用来表现某些人对某个观点的保留态度，做态度题时要留意。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many banks are reluctant to lend to small businesses during a recession.",
+      "zh": "经济衰退期间，许多银行不愿向小企业放贷。"
+     },
+     {
+      "en": "Witnesses were unwilling to testify against the gang.",
+      "zh": "证人们不愿出庭指证这个团伙。"
+     }
+    ]
+   },
+   {
+    "title": "define A as B：as 引出宾语补足语",
+    "explain": "define A as B 意为“把 A 界定为 B”，as 引出宾语补足语，说明宾语的身份或性质；被动形式 A is defined as B 常见于学术写作中给概念下定义。同类结构有 regard/see/view/treat/describe A as B。本句 define this as culture 中，this 是宾语，as culture 是宾语补足语。as 后可接名词、形容词或分词，如 be regarded as essential。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The report defines poverty as living on less than two dollars a day.",
+      "zh": "这份报告把贫困界定为每天生活费不足两美元。"
+     },
+     {
+      "en": "Many critics regard the novel as her finest work.",
+      "zh": "许多评论家认为这部小说是她最好的作品。"
+     }
+    ]
+   },
+   {
+    "title": "in the … sense 表示“在……意义上”",
+    "explain": "sense 意为“意义，含义”，in a/the … sense 表示“在……意义上”，如 in a sense（在某种意义上）、in the strict sense（在严格意义上）、in the broad sense（在广义上）。本句 in the human sense 作后置定语修饰 culture，限定“文化”指人类意义上的文化。写作中讨论概念时常用这种结构限定范围。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "He was not a scientist in the strict sense, but his observations were remarkably accurate.",
+      "zh": "严格意义上说他并不是科学家，但他的观察极其准确。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reluctant",
+    "explain": "不情愿的，勉强的，常用 be reluctant to do sth；名词 reluctance，如 with reluctance（勉强地）。本句视频译为“不愿”。"
+   },
+   {
+    "term": "scholar",
+    "explain": "学者，尤指人文领域学识渊博的人；也指获得奖学金的学生。形容词 scholarly（学术的，学者气的），名词 scholarship（学问；奖学金）。"
+   },
+   {
+    "term": "this",
+    "explain": "this 概括指代上文所说的现象：座头鲸的歌在种群之间靠模仿迅速传播，视频译为“这种现象”。"
+   },
+   {
+    "term": "culture",
+    "explain": "在人类学中，culture 通常指一个群体通过学习、而不是通过遗传代代相传的知识、信仰、习俗和行为方式。能否把动物身上类似的现象称为 culture，学界看法不一，本句说的正是这种分歧。"
+   }
+  ],
+  "translation_tip": "视频译文“一些学者不愿把这种现象界定为人类意义上的文化。”的处理：①are reluctant to 合译为“不愿”，系动词 are 不单独译出。②define this as culture 用“把”字句译为“把这种现象界定为……文化”，this 译为“这种现象”，把概括指代的内容说清楚。③后置定语 in the human sense 前移到“文化”之前，译为“人类意义上的”。"
+ },
+ {
+  "n": 18,
+  "trunk": {
+   "subject": "a few outsiders",
+   "predicate": "reshaped",
+   "object_or_complement": "an entire population's music",
+   "explain": "主谓宾结构。句首 Whatever the label 是让步状语（视频说明）；谓语 reshaped 用一般过去时，主动语态，回到第二、三段所述的具体事件作结。"
+  },
+  "components": [
+   {
+    "text": "Whatever the label,",
+    "zh": "不管叫什么名号",
+    "role": "让步状语（whatever + 名词，省略了系动词）"
+   },
+   {
+    "text": "a few outsiders",
+    "zh": "一小批外来者",
+    "role": "主语"
+   },
+   {
+    "text": "off eastern Australia",
+    "zh": "澳大利亚东部海域的",
+    "role": "后置定语（介词短语），修饰 outsiders"
+   },
+   {
+    "text": "reshaped",
+    "zh": "重塑了",
+    "role": "谓语"
+   },
+   {
+    "text": "an entire population's music.",
+    "zh": "整个种群的音乐",
+    "role": "宾语（名词所有格 population's 作 music 的定语）"
+   }
+  ],
+  "structure": "①主句 a few outsiders off eastern Australia reshaped an entire population's music：主语 a few outsiders，off eastern Australia 是介词短语作后置定语，修饰 outsiders；谓语 reshaped；宾语 an entire population's music。\n②Whatever the label 是让步状语（视频说明），意为“无论贴什么标签”，完整形式是 Whatever the label is 或 Whatever the label may be，省略了系动词。label 指上一句讨论的名称问题：称它为“文化”也好，不这样称呼也好。\n③a few outsiders 指第10句提到的 a handful of visiting performers，即从西部来到东部海域的少数雄鲸，outsiders 强调它们是外来者。a few 表示“有几个”，强调数量少但确实存在。\n④宾语 an entire population's music 中，population's 是名词所有格，an entire 修饰的是 population，不是 music：整个种群的音乐。\n⑤作为全文最后一句，本句撇开名称之争，回到事实本身：少数外来者改变了整个种群的歌，与第8、9、10句的事件首尾呼应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whatever + 名词（省略系动词）作让步状语",
+    "explain": "whatever 引导让步状语从句，意为“无论什么，不管怎样”，相当于 no matter what。从句的谓语是 be 动词时常省略，形成“whatever + 名词”的简短结构，如 whatever the reason（不管什么原因）、whatever the cost（不惜代价）、whatever the outcome（无论结果如何）。本句 Whatever the label 相当于 Whatever the label is/may be。同类的省略还有 however + 形容词，如 however difficult（无论多难）。考研长难句中遇到句首这种没有谓语的 whatever 结构，补出 be 动词即可还原。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Whatever the reason, attendance at the museum has fallen sharply.",
+      "zh": "不管是什么原因，这家博物馆的参观人数大幅下降了。"
+     },
+     {
+      "en": "The team is determined to finish the project, whatever the cost.",
+      "zh": "这个团队决心不惜一切代价完成这个项目。"
+     }
+    ]
+   },
+   {
+    "title": "a few 与 few",
+    "explain": "a few 和 few 都修饰可数名词复数：a few 表示肯定，意为“有几个，少数”；few 表示否定，意为“几乎没有，很少”。本句 a few outsiders 意为“一小批外来者”，强调数量虽少，却改变了整个种群。同理，a little 和 little 修饰不可数名词。考研阅读中，few、little 常带有否定的态度色彩。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Few people noticed the change, but a few experts warned of its consequences.",
+      "zh": "几乎没有人注意到这一变化，但有几位专家对其后果发出了警告。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格前的修饰语修饰谁",
+    "explain": "“限定词 + 形容词 + 名词's + 名词”结构中，前面的限定词和形容词修饰的是所有格名词，而不是后面的中心词。本句 an entire population's music 中，an entire 修饰 population，意为“整个种群的音乐”，不是“一首完整的音乐”。同理，a young man's dream 是“一个年轻人的梦想”。翻译时要先理清修饰关系。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The fire destroyed an entire village's harvest in a single night.",
+      "zh": "那场大火一夜之间烧毁了整个村庄的收成。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "label",
+    "explain": "名词原义“标签”，引申为“名称，称号，定性”。本句 the label 指第17句讨论的“是否称为文化”这一名称问题，视频译为“名号”。动词 label 意为“贴标签；把……称为”，如 be labelled (as) a failure。"
+   },
+   {
+    "term": "outsider",
+    "explain": "外来者，局外人；在比赛中也指不被看好的参赛者。本句指从西部来到东部海域的少数雄鲸，视频译为“外来者”。"
+   },
+   {
+    "term": "reshape",
+    "explain": "由前缀 re-（重新）和 shape（塑造）构成，意为“重塑，改造”，如 reshape the economy。本句视频译为“重塑了”。"
+   },
+   {
+    "term": "entire",
+    "explain": "整个的，全部的，强调完整无缺，语气比 whole 稍正式，作前置定语，如 the entire country、an entire generation。本句视频译为“整个”。"
+   },
+   {
+    "term": "全文脉络",
+    "explain": "视频简述把全文分成五层：常态（同一种群的雄鲸唱同一版本，每年细微变化）；换歌（东部种群起初只有两只唱新歌，约两年后几乎全体改唱）；来源（新歌与西部种群的歌相似，研究推测由少量来访鲸带来）；传播（新歌多从澳大利亚东部出现，再逐群向东传播，约两年传到法属波利尼西亚）；解释（变化快于基因演化，支持模仿学习的解释，换歌原因以及是否等同人类文化仍有争议）。本句是全文的收束。"
+   }
+  ],
+  "translation_tip": "视频译文“不管叫什么名号，澳大利亚东部海域的一小批外来者，重塑了整个种群的音乐。”的处理：①省略结构 Whatever the label 补出动词，译为“不管叫什么名号”；label 不直译为“标签”，而译为“名号”，与上文的名称之争对应。②后置定语 off eastern Australia 前移为“澳大利亚东部海域的”；a few 译为“一小批”，与第10句 a handful of 的译法一致。③主语较长，后面加逗号停顿，再接谓语“重塑了整个种群的音乐”，所有格 population's 译为“种群的”。"
+ }
+]

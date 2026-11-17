@@ -1,0 +1,30 @@
+[
+ {
+  "key": "4",
+  "field": "structure",
+  "before": "②in a population 中的不定冠词 a 意为“同一个”，相当于 the same，视频译为“同一种群中的”。",
+  "after": "②in a population 中的不定冠词 a 是泛指用法，指“任何一个”种群，即在任何一个种群内部；视频译为“同一种群中的”，用“同一”点明唱同一版本的范围限于一个种群之内。",
+  "reason": "in a population 中 a 是泛指“任何一个”，不是 birds of a feather 那类“同一个（the same）”的固定用法，原分析有误"
+ },
+ {
+  "key": "4",
+  "field": "grammar[1]",
+  "before": "{\"title\": \"不定冠词 a 表示“同一个”\", \"explain\": \"不定冠词 a/an 除了表示“一个”，还可以表示“同一个”，相当于 the same，多见于固定说法和介词短语中，如 birds of a feather（同类的人）、be of a size（大小相同）、be of an age（年龄相同）。本句 in a population 指“在同一个种群中”，视频译为“同一种群中的”，正是这个意思。\", \"difficult\": false, \"examples\": [{\"en\": \"The twins are of a size, so they often share clothes.\", \"zh\": \"这对双胞胎身材一样，所以经常换着穿衣服。\"}]}",
+  "after": "{\"title\": \"不定冠词 a 泛指“任何一个”\", \"explain\": \"不定冠词 a/an 除了表示“一个”，还常用于泛指，表示某一类中的“任何一个”，如 A teacher should be patient（当老师的都应该有耐心）。本句 in a population 不是指某个特定的种群，而是泛指任何一个种群：在任何一个种群内部，全体雄性唱的都是同一个版本。视频译为“同一种群中的”，用“同一”点明唱同一版本的范围限于一个种群之内。注意区分：a 表示“同一个”（相当于 the same）只见于 birds of a feather、be of a size、be of an age 等少数固定说法，本句不属于这种用法。\", \"difficult\": false, \"examples\": [{\"en\": \"All the students in a class usually follow the same timetable.\", \"zh\": \"同一个班的所有学生通常按同一张课表上课。\"}]}",
+  "reason": "原语法点把本句的 a 讲成“同一个（the same）”，属误析；改为泛指“任何一个”，并说明与固定说法中“同一个”的区别，换用真正示范该用法的例句"
+ },
+ {
+  "key": "4",
+  "field": "translation_tip",
+  "before": "①后置定语 in a population 前移，译为“同一种群中的”，不定冠词 a 译成“同一”。",
+  "after": "①后置定语 in a population 前移，译为“同一种群中的”，泛指“任何一个”的不定冠词 a 译成“同一”，点明唱同一版本的范围是一个种群内部。",
+  "reason": "与改正后的冠词分析保持一致"
+ },
+ {
+  "key": "14",
+  "field": "grammar[1].examples[0]",
+  "before": "{\"en\": \"The lecture was too technical for most general readers.\", \"zh\": \"这场讲座对大多数普通听众来说太专业了。\"}",
+  "after": "{\"en\": \"The report was too technical for most general readers.\", \"zh\": \"这份报告对大多数普通读者来说太专业了。\"}",
+  "reason": "原例句 lecture 与 readers 搭配不当，中文又译成“听众”，英汉不对应；改为 report 与 readers"
+ }
+]
