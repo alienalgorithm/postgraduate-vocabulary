@@ -49,7 +49,7 @@ def get(f, path):
         fetch(url, path, (f['bytes'], f['sha256']))
 
 def check_manifest(c):
-    need(re.fullmatch(r'[A-Za-z0-9._-]+', c['tag']) and len(c['assets']) == 3, 'tag/assets')
+    need(re.fullmatch(r'[A-Za-z0-9._-]+', c['tag']) and len(c['assets']) in (3, 4), 'tag/assets')
     for a in c['assets']:
         need(re.fullmatch(r'[A-Za-z0-9._-]+\.zip', a['asset_name']) and a['label'].endswith('.zip'), 'asset name ' + a['asset_name'])
         need(sum(f['bytes'] for f in a['files']) == a['total_bytes'] < LIMIT - (64 << 20), 'asset total ' + a['asset_name'])

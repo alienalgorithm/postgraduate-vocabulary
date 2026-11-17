@@ -2,7 +2,7 @@ import json, subprocess, hashlib
 R='/home/user/postgraduate-vocabulary'; S='/tmp/claude-0/-home-user/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad'
 COMMIT=subprocess.run(['git','rev-parse','HEAD'],cwd=R,capture_output=True,text=True,check=True).stdout.strip()
 V5='考研学人印刷版/2026-11-16-v5/'
-paths=['文件包', V5+'考研学人-v5.pdf', V5+'考研学人-v5-羊皮纸版.pdf', '推广文案/商品图-2026-11-17', '推广文案/网店上架-2026-11-17']
+paths=['文件包', V5+'考研学人-v5.pdf', V5+'考研学人-v5-羊皮纸版.pdf', '推广文案/商品图-2026-11-17', '推广文案/网店上架-2026-11-17', '推广文案/网页帖子-2026-11-17']
 tree={}
 out=subprocess.run(['git','-c','core.quotepath=off','ls-tree','-r','-l',COMMIT,'--',*paths],cwd=R,capture_output=True,text=True,check=True,timeout=300).stdout
 for l in out.splitlines():
@@ -40,24 +40,31 @@ for p in sorted(tree):
         shop.append(dict(ident(p), zip_path='考研学人 商品图与上架说明/商品图/'+p.split('/')[-1]))
 for f in ('商品详情说明.txt','标题与定价.md'):
     shop.append(dict(ident('推广文案/网店上架-2026-11-17/'+f), zip_path='考研学人 商品图与上架说明/'+f))
+post=[]
+for p in sorted(tree):
+    if p.startswith('推广文案/网页帖子-2026-11-17/') and '/制作依据/' not in p:
+        post.append(dict(ident(p), zip_path='考研学人 网页帖子/'+p.split('推广文案/网页帖子-2026-11-17/')[1]))
 assets=[
  {'asset_name':'kaoyan-xueren-full-part1-books-and-01-35.zip','label':'考研学人全套资料 第1部分（两本教材＋第1到35篇）.zip','files':parts[0]},
  {'asset_name':'kaoyan-xueren-full-part2-36-70.zip','label':'考研学人全套资料 第2部分（第36到70篇）.zip','files':parts[1]},
  {'asset_name':'kaoyan-xueren-shop-images-and-listing.zip','label':'考研学人 商品图与上架说明.zip','files':shop},
+ {'asset_name':'kaoyan-xueren-web-post.zip','label':'考研学人 网页图文帖子.zip','files':post},
 ]
 for a in assets:
     a['total_bytes']=sum(f['bytes'] for f in a['files']); print(a['asset_name'], len(a['files']), round(a['total_bytes']/2**30,3),'GiB',flush=True)
     assert a['total_bytes'] < 2*2**30 - 50*2**20 and len({f['zip_path'] for f in a['files']})==len(a['files'])
-notes='''《考研学人》全套资料与网店商品图（2026-11-17）。
+notes='''《考研学人》全套资料、网店商品图与网页图文帖子（2026-11-17，第 2 版，取代第 1 版）。
+
+第 2 版的变化：70 份阅读版按教材新词表重排（原形、词性、语境释义），与教材对应章节逐页文字相同；商品图去掉“卖点”等营销标签并重新命名；新增网页图文帖子（正文、网页预览、纯文字版、11 张配图）。
 
 全套资料分两个压缩包，解压到同一个位置后合成一个“考研学人全套资料”文件夹：
 - 最外层：两本《考研学人》教材 PDF（普通版、羊皮纸古书版），各 356 页。
 - 70 个文章文件夹，一篇一个，文件夹名是“序号 中文标题 英文标题”。每个文件夹里有 7 样：4K 精读视频（“序号 中文名.mp4”）、视频同屏版、汉译英听写卡、英译汉听写卡、逐句精讲、单词精解册、阅读版。
 - 第 1 部分：两本教材＋第 1 到 35 篇；第 2 部分：第 36 到 70 篇。
 
-另一个压缩包是网店用的商品图（1:1，1600×1600，PNG 和 JPG，含 eBay 用的无字白底主图）和上架说明（商品标题、定价建议、详细说明）。
+商品图压缩包是网店用的商品图（1:1，1600×1600，PNG 和 JPG，含 eBay 用的无字白底主图）和上架说明（商品标题、定价建议、详细说明）；网页帖子压缩包里是可以直接发布的图文帖子。
 
 每个文件都按提交 %s 里的原文件逐字节核对 SHA-256，视频未重新编码；上传后又把每个压缩包重新下载核对。''' % COMMIT[:8]
-man={'tag':'kaoyan-xueren-full-20261117-v1','title':'考研学人全套资料（70篇文件夹＋两本教材）与商品图 2026-11-17','notes':notes,'assets':assets}
+man={'tag':'kaoyan-xueren-full-20261117-v2','title':'考研学人全套资料（70篇文件夹＋两本教材）、商品图与网页帖子 2026-11-17 v2','notes':notes,'assets':assets}
 json.dump(man, open(S+'/rel/RELEASE-MANIFEST.json','w'), ensure_ascii=False, indent=1)
 print('files', sum(len(a['files']) for a in assets), 'commit', COMMIT[:8])
