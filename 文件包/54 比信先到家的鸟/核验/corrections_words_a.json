@@ -1,0 +1,23 @@
+[
+ {
+  "key": "4",
+  "field": "etymology",
+  "before": "来自中古英语 borow（洞穴，藏身处），Etymonline 认为",
+  "after": "14世纪初见于中古英语，意为“洞穴，藏身处”，Etymonline 认为",
+  "reason": "Etymonline 所记中古英语拼写并非 borow，无法核实具体拼写，删去不确切的词形，保留可证实的来源说明"
+ },
+ {
+  "key": "12",
+  "field": "collocations[3]",
+  "before": "Birds of a feather flock together. / 物以类聚，人以群分。",
+  "after": "brightly feathered birds / 羽毛鲜艳的鸟",
+  "reason": "谚语 Birds of a feather flock together 中用的是名词 feather，不含 feathered，不是 feathered 的搭配；换成真正含 feathered 的搭配，谚语移入 usage_detail"
+ },
+ {
+  "key": "12",
+  "field": "usage_detail",
+  "before": "考研科普阅读中可见 feathered dinosaurs（长羽毛的恐龙）。",
+  "after": "考研科普阅读中可见 feathered dinosaurs（长羽毛的恐龙）。谚语 Birds of a feather flock together（物以类聚，人以群分）中用的是名词 feather，不是 feathered。",
+  "reason": "把原误放在搭配里的谚语移到用法说明，并点明其中是名词 feather"
+ }
+]

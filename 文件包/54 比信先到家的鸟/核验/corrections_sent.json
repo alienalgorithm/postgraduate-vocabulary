@@ -1,0 +1,44 @@
+[
+ {
+  "key": "1",
+  "field": "knowledge[0].explain",
+  "before": "shearwater 指鹱这一类海鸟，Etymonline 解释其名称来自它贴着海浪掠飞的习性（shear 剪切，掠过 + water 水面）。",
+  "after": "shearwater 指鹱这一类海鸟，名称由 shear（剪切，掠过）和 water（水面）合成，一般解释为得名于它贴着海浪掠飞的习性。",
+  "reason": "无法核实 Etymonline 原文给出了得名理由，去掉具体出处归属，改为一般性说法，构词本身保留"
+ },
+ {
+  "key": "8",
+  "field": "grammar[0].explain",
+  "before": "shelve（书架）作动词指“搁置”",
+  "after": "head（头）作动词指“率领，主持”",
+  "reason": "shelve 的名词是 shelf（书架），shelve 是 f 变 v 的派生形式，不属于“不加词缀直接用作动词”，也不能把 shelve 注成“书架”；改用真正的名词转动词实例 head"
+ },
+ {
+  "key": "8",
+  "field": "grammar[0].examples[0]",
+  "before": "The council has shelved plans for a new shopping centre because of rising costs. / 由于成本上涨，市政委员会搁置了修建新购物中心的计划。",
+  "after": "The inquiry will be headed by a retired senior judge. / 这项调查将由一位退休的资深法官主持。",
+  "reason": "原例句示范的 shelve 不是名词直接转化的动词（名词为 shelf），换成名词 head 转作动词的例句，与讲解一致"
+ },
+ {
+  "key": "8",
+  "field": "grammar[1].explain",
+  "before": "这类短语动词的名词宾语可以放在 off 之后，也可以放在动词和 off 之间。",
+  "after": "这类短语动词的名词宾语可以放在 off 之后，也可以放在动词和 off 之间；代词宾语只能放在中间，如 cordon it off，不能说 cordon off it。",
+  "reason": "补充代词宾语位置这一具体规则和易错点"
+ },
+ {
+  "key": "10",
+  "field": "components[8].role",
+  "before": "与 by inclination 构成对比，省略了介词 by",
+  "after": "宾语从句中方式状语的对比部分（“A, not B”结构，省略了介词 by，完整形式是 not by polarity）",
+  "reason": "原 role 未写明句子成分，补出它在从句中的成分和完整形式"
+ },
+ {
+  "key": "15",
+  "field": "grammar[1].explain",
+  "before": "本句 an eerie, man-made twist 就属于这种情况。",
+  "after": "本句作者在 eerie 和 man-made 之间加逗号，表示把两者当作同等的修饰语并列修饰 twist，中间可以加 and（an eerie and man-made twist）。",
+  "reason": "eerie（评价）与 man-made（来源）调换位置并不自然，原文说“就属于这种情况”言过其实；改为说明逗号表示作者把两者作为同等修饰语，可加 and"
+ }
+]
