@@ -1,0 +1,44 @@
+[
+ {
+  "key": "1",
+  "field": "etymology",
+  "before": "，古人把火山看作火神的熔炉。",
+  "after": "；拉丁语 Vulcanus 既是火神之名，也可指火、火焰。",
+  "reason": "“古人把火山看作火神的熔炉”在权威词源词典中查不到，改为 Etymonline 可证实的内容。"
+ },
+ {
+  "key": "6",
+  "field": "etymology",
+  "before": "来自古英语 rārian（吼叫，咆哮），是模拟声音的拟声词。最初多指狮子等野兽的吼叫，后来也用于人群的喧闹、风浪、机器、引擎等发出的巨大声响。",
+  "after": "来自古英语 rārian（吼叫，哀号），是模拟声音的拟声词。最初用于人和动物的吼叫、哭号，后来也用于雷声、风浪、人群、机器和引擎等发出的巨大声响。",
+  "reason": "Etymonline 释古英语 rarian 为 roar, wail, lament，原指人和动物，“最初多指狮子”无据。"
+ },
+ {
+  "key": "8",
+  "field": "usage_detail",
+  "before": "常与 hear、exchange、open（open fire 更常见）搭配。",
+  "after": "常与 hear、exchange 搭配；“开火”说 open fire，不说 open gunfire。",
+  "reason": "open gunfire 不是地道搭配，原文把它列为常见搭配会误导。"
+ },
+ {
+  "key": "24",
+  "field": "context_usage",
+  "before": "1883年的印度尼西亚是荷兰的殖民地，即荷属东印度",
+  "after": "1883年时，爪哇、苏门答腊等地属于荷兰的殖民地荷属东印度",
+  "reason": "1883年尚无印度尼西亚这一国家，改为准确表述。"
+ },
+ {
+  "key": "28",
+  "field": "etymology",
+  "before": "来自古英语 toll（税，捐），经中世纪拉丁语源自希腊语 telōnion（收税处），与希腊语 telos（税）有关。",
+  "after": "来自古英语 toll（税，捐），是日耳曼语很早从晚期拉丁语 tolonium（海关，收税处）借入的词，tolonium 源自希腊语 telōnion（收税处），由 telos（税）派生。",
+  "reason": "按 Etymonline，toll 是日耳曼语早期借自晚期拉丁语 tolonium，不是经中世纪拉丁语，改正来源层次。"
+ },
+ {
+  "key": "30",
+  "field": "etymology",
+  "before": "英语最初用作名词，指沿途预备好、用来替换的猎犬或驿马，后来引申为接力，再引申为传递、转发消息和信号。",
+  "after": "英语最初用于狩猎，指沿途预备好、用来接替追猎的新猎犬，后来也指驿站替换的马匹，再引申为接力，以及传递、转发消息和信号。",
+  "reason": "动词与名词在中古英语中出现时间相近，“最初用作名词”无法证实，改为可证实的狩猎义发展线索。"
+ }
+]

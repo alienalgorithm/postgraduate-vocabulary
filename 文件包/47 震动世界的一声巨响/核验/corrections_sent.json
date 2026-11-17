@@ -1,0 +1,51 @@
+[
+ {
+  "key": "n1",
+  "field": "grammar[1].examples[0]",
+  "before": "The ceasefire took effect shortly before midnight on 14 May 2021. / 停火协议于2021年5月14日午夜前不久生效。",
+  "after": "Her flight landed shortly after six in the evening on 3 March 2021. / 她的航班于2021年3月3日傍晚6点刚过降落。",
+  "reason": "原例句给一个未指明的停火协议配上具体日期，像是编造的史实；换成不涉及事实的例句，仍示范钟点、日期、年份由小到大排列。"
+ },
+ {
+  "key": "n1",
+  "field": "structure",
+  "before": "主语后又有两个逗号隔开的同位语",
+  "after": "主语后又有一个用逗号隔开的同位语",
+  "reason": "本句只有一个同位语，原措辞易误读为两个同位语。"
+ },
+ {
+  "key": "n2",
+  "field": "knowledge[take A for B].explain",
+  "before": "我把他错当成他的哥哥了",
+  "after": "我把他错当成他兄弟了",
+  "reason": "brother 不区分长幼，译“哥哥”是无根据的增义。"
+ },
+ {
+  "key": "n3",
+  "field": "knowledge[seven times].explain",
+  "before": "once、twice 之后用“基数词 + times”",
+  "after": "一次、两次通常用 once、twice，三次及以上用“基数词 + times”",
+  "reason": "原表述“once、twice 之后”含混，改为明确的规则。"
+ },
+ {
+  "key": "n6",
+  "field": "grammar[0].examples[1].zh",
+  "before": "新规定遭到许多小企业的反对",
+  "after": "新规定不受许多小企业欢迎",
+  "reason": "unpopular with 意为“不受……欢迎”，译成“遭到反对”意思过重。"
+ },
+ {
+  "key": "n7",
+  "field": "knowledge[Dutch colonial administrators].explain",
+  "before": "1883年时，今天的印度尼西亚是荷兰的殖民地，称荷属东印度（the Dutch East Indies）",
+  "after": "1883年时，爪哇、苏门答腊等地属于荷兰的殖民地荷属东印度（the Dutch East Indies，大致相当于今天的印度尼西亚）",
+  "reason": "1883年尚无印度尼西亚这一国家，荷属东印度也不完全等同于今印度尼西亚，改为准确表述。"
+ },
+ {
+  "key": "n9",
+  "field": "grammar[1].explain",
+  "before": "call 可以带双宾语结构 call sb/sth + 名词",
+  "after": "call 可以带复合宾语 call sb/sth + 名词",
+  "reason": "call sb sth 是“宾语 + 宾语补足语”的复合宾语，不是双宾语，原文术语自相矛盾。"
+ }
+]

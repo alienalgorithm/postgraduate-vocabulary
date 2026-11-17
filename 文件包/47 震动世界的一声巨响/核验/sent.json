@@ -1,0 +1,1647 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Krakatoa",
+   "predicate": "unleashed",
+   "object_or_complement": "its most thunderous explosion",
+   "explain": "主干是 Krakatoa unleashed its most thunderous explosion，主谓宾结构。谓语 unleashed 是 unleash 的过去式，一般过去时，主动语态，叙述过去某一时刻发生的事件。"
+  },
+  "components": [
+   {
+    "text": "Shortly after ten in the morning",
+    "role": "时间状语（副词 Shortly 修饰介词短语 after ten，in the morning 说明 ten 指上午十点）",
+    "zh": "上午10时刚过"
+   },
+   {
+    "text": "on 27 August 1883,",
+    "role": "时间状语（介词短语，交代具体日期）",
+    "zh": "1883年8月27日"
+   },
+   {
+    "text": "Krakatoa,",
+    "role": "主语",
+    "zh": "喀拉喀托"
+   },
+   {
+    "text": "a volcanic island",
+    "role": "同位语，补充说明 Krakatoa",
+    "zh": "一座……火山岛"
+   },
+   {
+    "text": "in the Sunda Strait,",
+    "role": "后置定语（介词短语），修饰 a volcanic island",
+    "zh": "位于巽他海峡的"
+   },
+   {
+    "text": "unleashed",
+    "role": "谓语",
+    "zh": "迸发出"
+   },
+   {
+    "text": "its most thunderous explosion.",
+    "role": "宾语（its 指 Krakatoa，most thunderous 是最高级作定语）",
+    "zh": "其最为震耳欲聋的一声爆炸"
+   }
+  ],
+  "structure": "①主句是 Krakatoa unleashed its most thunderous explosion：主语 Krakatoa，谓语 unleashed，宾语 its most thunderous explosion。主语前有两个时间状语，主语后又有一个用逗号隔开的同位语，真正的谓语 unleashed 出现在句子后部，阅读时要把 Krakatoa 和 unleashed 直接连起来。\n②句首是两个时间状语，按英语习惯由小到大排列：Shortly after ten in the morning 说明钟点，Shortly 是副词，修饰介词短语 after ten，表示“刚过十点”；in the morning 限定 ten 指上午十点。on 27 August 1883 说明日期，具体某一天前用介词 on；27 August 1883 是英式写法，日在前、月在后。\n③a volcanic island in the Sunda Strait 是同位语，前后用逗号隔开，说明 Krakatoa 是什么。同位语内部 volcanic 作前置定语，in the Sunda Strait 是介词短语作后置定语，说明这座火山岛所在的位置。\n④宾语 its most thunderous explosion 中，its 指 Krakatoa；most thunderous 是 thunderous 的最高级，前面用物主代词 its 代替定冠词 the，意思是这座火山岛自身多次爆炸中最响的一次。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "名词短语作同位语",
+    "explain": "同位语是紧跟在名词之后、对它加以说明的名词或名词短语，两者指同一事物，常用逗号隔开。本句 a volcanic island in the Sunda Strait 与 Krakatoa 指同一个地方，交代这个专有名词是什么，读者不熟悉的地名、人名、机构名后面经常这样补充说明。同位语插在主语和谓语之间时，句子主干被拉开，考研长难句分析要先跳过两个逗号之间的内容，把主语和谓语连起来；翻译时可以像本句视频译文那样保留原位置，也可以前置作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Reykjavik, the capital of Iceland, is the northernmost capital of any sovereign state.",
+      "zh": "雷克雅未克，冰岛的首都，是世界上最北的主权国家首都。"
+     },
+     {
+      "en": "Marie Curie, a Polish-born physicist, was the first woman to win a Nobel Prize.",
+      "zh": "玛丽·居里，一位出生于波兰的物理学家，是第一位获得诺贝尔奖的女性。"
+     }
+    ]
+   },
+   {
+    "title": "时间状语的排列与介词选择",
+    "explain": "英语表示时间时，通常由小到大排列：钟点在前，日期在后，再到年份；汉语正好相反，由大到小。本句 Shortly after ten in the morning on 27 August 1883 是钟点、上午、日期、年份的顺序，译成汉语要倒过来，成为“1883年8月27日上午10时刚过”。介词方面，具体某一天用 on（on 27 August），钟点用 at，上午、下午用 in the morning，单独的月份、年份用 in。shortly、soon、just、long 等词可以放在 after、before 前修饰，表示“之后不久”“之前不久”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her flight landed shortly after six in the evening on 3 March 2021.",
+      "zh": "她的航班于2021年3月3日傍晚6点刚过降落。"
+     }
+    ]
+   },
+   {
+    "title": "物主代词代替 the 与最高级连用",
+    "explain": "形容词最高级前一般加定冠词 the，但如果前面已有物主代词或名词所有格，就不再加 the，如 her best work、the company's largest factory。这种说法把比较范围限定在所有者自身：its most thunderous explosion 指这座火山岛自己发生的多次爆炸中最响的一次。thunderous 是多音节形容词，最高级在前面加 most，不能写成 thunderousest。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The airline reported its biggest annual loss since it was founded.",
+      "zh": "这家航空公司公布了其成立以来最大的年度亏损。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Krakatoa",
+    "explain": "喀拉喀托，印度尼西亚的火山岛，位于爪哇岛和苏门答腊岛之间的巽他海峡，印度尼西亚语拼作 Krakatau。1883年的这次喷发是有记载以来破坏最严重的火山喷发之一，本文讲的就是这次喷发及其影响。"
+   },
+   {
+    "term": "the Sunda Strait",
+    "explain": "巽他海峡，位于爪哇岛与苏门答腊岛之间，连接爪哇海和印度洋。strait 意为“海峡”，作专名的一部分时首字母大写，前面加 the，如 the Strait of Gibraltar（直布罗陀海峡）。"
+   },
+   {
+    "term": "shortly after",
+    "explain": "shortly 意为“不久”，常放在 after、before 前，shortly after ten 即“十点刚过”“十点过后不久”，视频译为“10时刚过”。注意 shortly 不表示“简短地”，“简短地说”要用 briefly 或 in short。"
+   },
+   {
+    "term": "27 August 1883",
+    "explain": "英式日期写法，日在前、月在后，读作 the twenty-seventh of August, eighteen eighty-three；美式写作 August 27, 1883。年份1883按两位一组读作 eighteen eighty-three。"
+   },
+   {
+    "term": "unleash",
+    "explain": "本义是解开拴狗的皮带（leash），把狗放出去，引申为释放、使（强大的力量）迸发出来，如 unleash a storm of criticism（引发一场批评风暴）。本句视频译为“迸发出”，表现爆炸的突然和猛烈。"
+   }
+  ],
+  "translation_tip": "视频译文“1883年8月27日上午10时刚过，喀拉喀托，一座位于巽他海峡的火山岛，迸发出其最为震耳欲聋的一声爆炸。”的处理：①英文时间状语由小到大排列，译文改为由大到小，先说年月日，再说“上午10时”，Shortly after 译成放在后面的“刚过”。②同位语保留在主语之后，前后用逗号隔开，与原文语序一致；同位语内部的后置定语 in the Sunda Strait 前置，增补动词“位于”，译成“位于巽他海峡的”，不定冠词 a 译成量词“一座”。③its 译为书面色彩的“其”；最高级 most thunderous 译为“最为震耳欲聋的”；explosion 前补出量词“一声”，与“震耳欲聋”的声音描写相呼应。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "islanders",
+   "predicate": "took",
+   "object_or_complement": "the roar（与 for distant gunfire 构成 take A for B）",
+   "explain": "主干是 islanders took the roar for distant gunfire，主谓宾结构，for 引出的介词短语与 took 构成固定搭配 take A for B（把 A 误当成 B）。谓语 took 是 take 的过去式，一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "About four hours later,",
+    "role": "时间状语（名词短语 About four hours 修饰副词 later，表示“……之后”）",
+    "zh": "约四小时后"
+   },
+   {
+    "text": "islanders",
+    "role": "主语",
+    "zh": "岛民"
+   },
+   {
+    "text": "on Rodrigues,",
+    "role": "后置定语（介词短语），修饰 islanders",
+    "zh": "罗德里格斯岛上的"
+   },
+   {
+    "text": "nearly 4,800 kilometres",
+    "role": "插入成分（名词短语表示距离），补充说明 Rodrigues 的位置",
+    "zh": "离着将近4800公里"
+   },
+   {
+    "text": "across the Indian Ocean,",
+    "role": "插入成分（介词短语），说明这段距离隔着印度洋，与前一段共同补充说明 Rodrigues",
+    "zh": "远隔着一个印度洋"
+   },
+   {
+    "text": "took",
+    "role": "谓语（与后面的 for 构成 take A for B）",
+    "zh": "把……当成了"
+   },
+   {
+    "text": "the roar",
+    "role": "宾语（the 回指上句的爆炸声）",
+    "zh": "这声轰鸣"
+   },
+   {
+    "text": "for distant gunfire.",
+    "role": "介词短语，与 took 构成 take A for B，for 引出 B",
+    "zh": "远处的炮火声"
+   }
+  ],
+  "structure": "①主句是 islanders took the roar for distant gunfire：主语 islanders，谓语 took，宾语 the roar，for distant gunfire 与 took 搭配，构成 take A for B，意为“把 A 误当成 B”。\n②句首 About four hours later 是时间状语。later 是副词，About four hours 是名词短语，放在 later 前说明相隔多久，“时间段 + later”以过去某个时刻为参照，表示“……之后”，这里的参照点是上句的爆炸。\n③on Rodrigues 是介词短语作后置定语，修饰 islanders，说明是哪个岛上的居民。\n④nearly 4,800 kilometres across the Indian Ocean 是插入成分，前后用逗号隔开，补充说明 Rodrigues 的位置：名词短语 nearly 4,800 kilometres 表示距离，介词短语 across the Indian Ocean 说明这段距离隔着印度洋。这个插入成分把主语和谓语隔开，读的时候要越过它，把 islanders 与 took 连起来。\n⑤the roar 中的定冠词 the 回指上句的 explosion，指同一声巨响；distant 修饰 gunfire，意为“远处的炮火声”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "插入成分隔开主语和谓语",
+    "explain": "英语常在主语和谓语之间插入用逗号隔开的补充成分，可以是名词短语、介词短语、形容词短语或非限制性定语从句，用来交代背景。本句 nearly 4,800 kilometres across the Indian Ocean 插在 islanders on Rodrigues 和 took 之间，说明岛的位置，突出声音传得之远。分析这类句子时先把两个逗号之间的内容括起来，找出主干 islanders took the roar；考研阅读中，插入成分常提供细节题的答案，例如本句的距离数据。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Residents of the village, some 30 kilometres from the border, could hear the shelling at night.",
+      "zh": "那个村庄的居民，离边境约30公里，夜里能听到炮击声。"
+     },
+     {
+      "en": "The researchers, working in temperatures well below freezing, collected samples for six weeks.",
+      "zh": "研究人员在远低于冰点的气温下工作，收集了六个星期的样本。"
+     }
+    ]
+   },
+   {
+    "title": "“时间段 + later”表示“……之后”",
+    "explain": "later 可以单独用，也可以在前面加表示时间段的名词短语，如 two days later、a few years later，以过去某一时刻为起点，表示“……之后”，多用于叙述过去的事情。与之相比，in + 时间段常用于将来，表示“从现在起……之后”，如 I'll be back in two hours；after 后接时间点或事件，如 after the war。本句 About four hours later 以上句的爆炸时间为起点，视频译为“约四小时后”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The patient was discharged, but three days later he was readmitted with a fever.",
+      "zh": "这名病人出院了，但三天后又因发烧再次入院。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "take A for B",
+    "explain": "把 A 误当成 B，强调认错了，同义说法是 mistake A for B，如 I took him for his brother（我把他错当成他兄弟了）。take A as B 则是“把 A 看作、理解为 B”，不一定是误认。本句 took the roar for distant gunfire 说明岛民没有意识到这是火山爆炸，视频译为“把这声轰鸣当成了远处的炮火声”。"
+   },
+   {
+    "term": "Rodrigues",
+    "explain": "罗德里格斯岛，位于印度洋西部，今属毛里求斯。岛上居民在距喀拉喀托将近4800公里之外听到了这次爆炸，本文用这个距离说明声音之大。"
+   },
+   {
+    "term": "across",
+    "explain": "介词 across 除了“横过，穿过”，还可以表示“在……的另一边，隔着”，如 the house across the road（马路对面的房子）。本句 across the Indian Ocean 指隔着印度洋，视频译为“远隔着一个印度洋”。"
+   },
+   {
+    "term": "4,800 kilometres",
+    "explain": "英文数字每三位用逗号分隔，4,800 读作 four thousand eight hundred。kilometre 是英式拼写，美式拼作 kilometer，本文统一用英式拼写，如第6句的 metres。"
+   },
+   {
+    "term": "roar 与 gunfire",
+    "explain": "roar 指低沉巨大的轰响，可用于引擎、人群、狮子、风浪等，如 the roar of the engines。gunfire 指枪炮射击或枪炮声，不可数，如 exchange gunfire（交火）。"
+   }
+  ],
+  "translation_tip": "视频译文“约四小时后，罗德里格斯岛上的岛民，离着将近4800公里，远隔着一个印度洋，把这声轰鸣当成了远处的炮火声。”的处理：①后置定语 on Rodrigues 前置为“罗德里格斯岛上的”，增补“岛”字点明 Rodrigues 是岛屿。②插入成分保留在主语之后，拆成“离着将近4800公里”“远隔着一个印度洋”两个短句，增补“离着”“远隔着”，把名词短语和介词短语变成动词性的说明，读起来更顺。③take A for B 用“把”字句译出，“把这声轰鸣当成了远处的炮火声”；the roar 的 the 译为“这声”，回指上句的爆炸，并补出量词“声”。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "Barometers",
+   "predicate": "recorded",
+   "object_or_complement": "the atmospheric pressure wave",
+   "explain": "主干是 Barometers recorded the atmospheric pressure wave，主谓宾结构。谓语 recorded 是一般过去时，主动语态。逗号后的 some of them seven times in about five days 是省略句，补充说明部分气压计的记录情况。"
+  },
+  "components": [
+   {
+    "text": "Barometers",
+    "role": "主语",
+    "zh": "气压计"
+   },
+   {
+    "text": "worldwide",
+    "role": "后置定语（副词），修饰 Barometers",
+    "zh": "世界各地的"
+   },
+   {
+    "text": "recorded",
+    "role": "谓语",
+    "zh": "都记录到了"
+   },
+   {
+    "text": "the atmospheric pressure wave,",
+    "role": "宾语",
+    "zh": "这次大气压力波"
+   },
+   {
+    "text": "some of them",
+    "role": "省略句的主语（完整形式为 some of them recorded it），them 指 Barometers",
+    "zh": "其中一些"
+   },
+   {
+    "text": "seven times",
+    "role": "省略句中的次数状语（前面承前省略了谓语 recorded 和宾语 it）",
+    "zh": "记录到七次"
+   },
+   {
+    "text": "in about five days.",
+    "role": "省略句中的时间状语（介词短语）",
+    "zh": "在大约五天之内"
+   }
+  ],
+  "structure": "①主句是 Barometers worldwide recorded the atmospheric pressure wave：主语 Barometers，worldwide 是副词，放在名词后作后置定语，意为“世界各地的”；谓语 recorded，宾语 the atmospheric pressure wave。\n②逗号后的 some of them seven times in about five days 是省略句，按视频说明，完整形式是 some of them recorded it seven times in about five days。由于谓语 recorded 和宾语 it 与前句相同，承前省略，只留下主语 some of them、次数状语 seven times 和时间状语 in about five days。them 指 Barometers。\n③宾语 the atmospheric pressure wave 是“形容词 + 名词 + 中心名词”的结构，中心词是 wave，pressure 说明是压力波，atmospheric 说明它在大气中传播。\n④压力波从喀拉喀托向四面八方传播，绕地球传播后又一次次经过各地，所以同一台气压计能在几天内多次记录到它，seven times 说明这次压力波传播之远、能量之大。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "承前省略：并列结构中省去相同的谓语",
+    "explain": "前后两部分的谓语动词相同时，后一部分可以省去谓语（连同相同的宾语），只保留不同的成分，前后常用逗号或 and 连接。本句 some of them seven times in about five days 省去了 recorded it，补全后是 some of them recorded it seven times in about five days。考研阅读遇到逗号后只有名词短语和状语、没有谓语的部分，要回到前句找出被省略的动词；翻译时一般把省略的动词补出来，本句视频就补出了“记录到”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Some of the volunteers worked in the kitchen, others in the garden.",
+      "zh": "有些志愿者在厨房帮忙，另一些在花园里干活。"
+     },
+     {
+      "en": "The first survey took three months, the second only six weeks.",
+      "zh": "第一次调查用了三个月，第二次只用了六个星期。"
+     }
+    ]
+   },
+   {
+    "title": "副词作后置定语",
+    "explain": "worldwide、nationwide、abroad、here、there、upstairs、below 等表示地点或范围的副词，可以放在名词后作定语，如 the people upstairs（楼上的人）、the weather here（这里的天气）。本句 Barometers worldwide 即“世界各地的气压计”。worldwide 也可作形容词放在名词前，如 a worldwide network；放在名词后时是副词作后置定语。翻译时要把它提到名词前，译成“……的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The noise from the flat upstairs kept us awake all night.",
+      "zh": "楼上那套公寓传来的噪音吵得我们整夜睡不着。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "barometer",
+    "explain": "气压计，测量大气压力的仪器。由希腊语 baros（重量）和 -meter（测量仪器）构成。比喻义“晴雨表，指标”，如 a barometer of public opinion（民意的晴雨表），考研阅读的经济、社会类文章常用这一比喻义。"
+   },
+   {
+    "term": "atmospheric pressure wave",
+    "explain": "大气压力波，指爆炸在大气中激起、向外传播的压力变化。atmospheric pressure 本身意为“大气压，气压”。本句视频译为“大气压力波”，the 译为“这次”，特指喀拉喀托爆炸产生的压力波。"
+   },
+   {
+    "term": "some of them",
+    "explain": "some of + 代词宾格或带限定词的名词，表示“其中一些”，如 some of the students、some of them，不能说 some of students。本句 them 指上文的 Barometers，视频译为“其中一些”。"
+   },
+   {
+    "term": "seven times",
+    "explain": "time 作“次数”讲是可数名词，一次、两次通常用 once、twice，三次及以上用“基数词 + times”，seven times 即“七次”。in about five days 中的 in 表示“在（一段时间）之内”。"
+   }
+  ],
+  "translation_tip": "视频译文“世界各地的气压计都记录到了这次大气压力波，其中一些在大约五天之内记录到七次。”的处理：①副词作后置定语的 worldwide 前置，译成“世界各地的”。②谓语 recorded 前增补“都”，体现记录范围遍及全球；the 译为“这次”，特指喀拉喀托爆炸产生的压力波。③省略句补出被省略的谓语，译成“记录到七次”；时间状语 in about five days 按汉语习惯提到动词前，译成“在大约五天之内”。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "the volcano",
+   "predicate": "reached",
+   "object_or_complement": "a catastrophic climax",
+   "explain": "主干是 the volcano reached a catastrophic climax，主谓宾结构。谓语 reached 为一般过去时，主动语态；句首的形容词短语 Restless since 20 May 作状语，逻辑主语是 the volcano。"
+  },
+  "components": [
+   {
+    "text": "Restless since 20 May,",
+    "role": "状语（形容词短语，逻辑主语是 the volcano）",
+    "zh": "自5月20日起便躁动不安"
+   },
+   {
+    "text": "the volcano",
+    "role": "主语（指上文的 Krakatoa）",
+    "zh": "这座火山"
+   },
+   {
+    "text": "reached",
+    "role": "谓语",
+    "zh": "达到"
+   },
+   {
+    "text": "a catastrophic climax",
+    "role": "宾语",
+    "zh": "灾难性的高潮"
+   },
+   {
+    "text": "on 26–27 August.",
+    "role": "时间状语（介词短语）",
+    "zh": "是在8月26日至27日"
+   }
+  ],
+  "structure": "①主句是 the volcano reached a catastrophic climax：主语 the volcano，谓语 reached，宾语 a catastrophic climax，reach a climax 意为“达到高潮”。句末介词短语作时间状语，说明高潮出现在8月26日至27日这两天。\n②句首 Restless since 20 May 是形容词短语作状语，按视频说明，逻辑主语是主句主语 the volcano，即火山从5月20日起就一直躁动不安。since 20 May 修饰 restless，表示这种状态从5月20日开始一直持续。补全后相当于 Having been restless since 20 May，或 The volcano, which had been restless since 20 May, …，含有“此前已持续一段时间”的意味。\n③主语 the volcano 用定冠词和普通名词回指上文的 Krakatoa，是英语避免重复专名的常用手法。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "形容词短语作状语",
+    "explain": "形容词或形容词短语可以放在句首或句末，用逗号与主句隔开，作状语，说明主语所处的状态，也可以带有原因、伴随等意味。它的逻辑主语必须是主句的主语，否则就成了悬垂结构。本句 Restless since 20 May 说明 the volcano 的状态，相当于 Having been restless since 20 May。考研阅读中，句首出现不带谓语的形容词短语时，要到逗号后找主句主语，看它说明的是谁；写作中这种结构能把两个简单句合并，使行文紧凑。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Nervous about the interview, she arrived at the office an hour early.",
+      "zh": "她对面试感到紧张，提前一个小时就到了办公室。"
+     },
+     {
+      "en": "Unable to find a taxi, the delegates walked back to their hotel.",
+      "zh": "代表们打不到出租车，只好步行回酒店。"
+     }
+    ]
+   },
+   {
+    "title": "since 表示状态从某一时间持续",
+    "explain": "since 后接过去某一时间点，表示从那时起一直持续，通常与完成时连用，如 She has lived here since 2019；叙述过去的事情时，持续到过去某一时刻要用过去完成时。本句形容词短语里没有谓语动词，since 20 May 表示火山的躁动从5月20日一直持续到8月底的高潮，补全后要用 having been 或 had been。注意 since 后接时间点，接时间段要用 for，如 for three months。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The factory had been closed since the spring, so the workers had to look for jobs elsewhere.",
+      "zh": "这家工厂从春天起就一直关着，工人们只好到别处找工作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "reach a climax",
+    "explain": "达到高潮，也可说 come to a climax、build to a climax。climax 指事件、故事发展的顶点，形容词是 climactic（高潮的），注意与 climatic（气候的）区分。本句视频译为“达到灾难性的高潮”。"
+   },
+   {
+    "term": "restless",
+    "explain": "本义是（人）焦躁不安的、坐立不安的；用于火山时指活动频繁、不平静。由 rest（安静，休息）加表示“没有”的后缀 -less 构成。视频译为“躁动不安”，带有拟人色彩。"
+   },
+   {
+    "term": "catastrophic",
+    "explain": "灾难性的，程度比 disastrous 更重，常见搭配 catastrophic consequences、catastrophic failure；名词 catastrophe（大灾难）。"
+   },
+   {
+    "term": "日期范围的写法",
+    "explain": "原文用连接号把两个日期连起来，表示“从……到……”，读作 the twenty-sixth to the twenty-seventh of August。写作中也可以写成 from 26 to 27 August。"
+   },
+   {
+    "term": "20 May",
+    "explain": "英式日期写法，读作 the twentieth of May 或 May the twentieth；本句用 since 20 May 说明这座火山在8月大喷发之前已经活动了三个多月。"
+   }
+  ],
+  "translation_tip": "视频译文“自5月20日起便躁动不安，这座火山达到灾难性的高潮是在8月26日至27日。”的处理：①句首形容词短语保留在前，译成一个短句“自5月20日起便躁动不安”，增补“便”，突出火山早已不平静。②the volcano 译成“这座火山”，补出量词“座”。③时间状语 on 26–27 August 放在句末，译成“是在8月26日至27日”，用“……是在……”的判断句式把时间放到句末，强调高潮出现的时间。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "About two-thirds of the island",
+   "predicate": "collapsed",
+   "object_or_complement": "",
+   "explain": "主干是 About two-thirds of the island collapsed，主谓结构；collapse 在此是不及物动词，into its emptied magma chamber 作状语，说明塌入的地方。谓语 collapsed 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "About two-thirds",
+    "role": "主语（分数作主语，About 表示约数）",
+    "zh": "约三分之二"
+   },
+   {
+    "text": "of the island",
+    "role": "后置定语（介词短语），修饰 two-thirds",
+    "zh": "的岛体"
+   },
+   {
+    "text": "collapsed into",
+    "role": "谓语（不及物动词 collapsed）+ 介词 into，into 引出塌入的地方",
+    "zh": "塌入"
+   },
+   {
+    "text": "its emptied magma chamber,",
+    "role": "介词 into 的宾语（its 指 the island，emptied 是过去分词作前置定语）",
+    "zh": "已被排空的岩浆房"
+   },
+   {
+    "text": "vanishing beneath the sea.",
+    "role": "结果状语（现在分词短语），逻辑主语是 two-thirds of the island",
+    "zh": "消失在海面之下"
+   }
+  ],
+  "structure": "①主句是 About two-thirds of the island collapsed into its emptied magma chamber：主语 About two-thirds of the island，of the island 是介词短语作后置定语；谓语 collapsed 是不及物动词，into its emptied magma chamber 作状语，说明岛体塌入的地方。\n②its emptied magma chamber 中，its 指 the island；emptied 是及物动词 empty 的过去分词，作前置定语，表示被动和完成，即岩浆房里的岩浆已经喷出排空；magma chamber 是名词修饰名词，意为“岩浆房”。\n③vanishing beneath the sea 是现在分词短语作结果状语，按视频说明，补充说明塌陷的结果；逻辑主语是 two-thirds of the island，岛体塌陷后就没入了海中。beneath the sea 是介词短语，作 vanishing 的地点状语。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分数的表达与分数作主语",
+    "explain": "英语分数用“基数词作分子、序数词作分母”表示，分子大于1时分母加 s，如 one third、two-thirds、three-quarters（四分之三常用 quarter）。“分数 + of + 名词”作主语时，谓语的单复数与 of 后的名词一致：of 后是单数或不可数名词，谓语用单数；是复数名词，谓语用复数。本句 two-thirds of the island 指岛体的一部分，谓语用过去式 collapsed，看不出单复数，若换成现在时应写 collapses。考研阅读的数据描述和写作的图表作文常用这一结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Nearly two-thirds of the respondents say they read the news on their phones.",
+      "zh": "近三分之二的受访者表示，他们用手机看新闻。"
+     },
+     {
+      "en": "About three-quarters of the budget goes on staff salaries.",
+      "zh": "约四分之三的预算用于支付员工工资。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语",
+    "explain": "现在分词短语放在句末，用逗号与主句隔开，可以表示主句动作自然产生的结果，逻辑主语一般是主句主语。本句 vanishing beneath the sea 表示岛体塌陷之后没入海中，是 collapsed 的结果。要区分的是，表示出乎意料的结果常用 only to do，如 He hurried to the station, only to find the train had left。翻译时，这类分词短语通常译成后续分句，按动作先后接在主句后面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Heavy rain fell for three days, flooding hundreds of homes in the valley.",
+      "zh": "大雨连下了三天，淹没了山谷里数百户人家。"
+     },
+     {
+      "en": "The bridge gave way under the weight of the truck, sending it into the river below.",
+      "zh": "大桥在卡车的重压下坍塌，卡车坠入下面的河中。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词作前置定语",
+    "explain": "单个过去分词可以放在名词前作定语。及物动词的过去分词表示被动和完成，如 a broken window（被打破的窗户）；不及物动词的过去分词只表示完成，如 fallen leaves（落叶）。本句 emptied 是及物动词 empty 的过去分词，emptied magma chamber 即“已被排空的岩浆房”，视频译文中的“已被”正好体现了完成和被动两层意思。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Police found the stolen paintings in an abandoned warehouse.",
+      "zh": "警方在一座废弃的仓库里找到了被盗的画作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "magma chamber",
+    "explain": "岩浆房，指地下储存岩浆的空间。magma 指地下的岩浆，喷出地表后称为 lava（熔岩）。本句说岩浆房在喷发中被排空，上方的岛体失去支撑，于是塌了进去。"
+   },
+   {
+    "term": "collapse into",
+    "explain": "collapse 作不及物动词，意为“倒塌，坍塌”，into 引出塌入的地方，如 The building collapsed into a pile of rubble（大楼坍塌成一堆瓦砾）。collapse 还可指人“倒下，晕倒”和价格、体制“崩溃”。本句视频译为“塌入”。"
+   },
+   {
+    "term": "vanish beneath the sea",
+    "explain": "vanish 意为“消失，不见”，强调突然、彻底地消失，常见搭配 vanish without trace（消失得无影无踪）。beneath 意为“在……之下”，比 under 正式，多用于书面语。"
+   },
+   {
+    "term": "two-thirds",
+    "explain": "三分之二，分子和分母之间常加连字符，也可写作 two thirds。分子是1时用 a 或 one，如 a third、one third。"
+   }
+  ],
+  "translation_tip": "视频译文“约三分之二的岛体塌入已被排空的岩浆房，消失在海面之下。”的处理：①“分数 + of + 名词”按汉语习惯译成“约三分之二的岛体”，island 增译为“岛体”，指岛的实体部分，与“塌入”搭配更贴切。②过去分词 emptied 译成“已被排空的”，“已”体现完成，“被”体现被动；its 不译出，汉语根据上下文就能明白是这座岛的岩浆房。③句末现在分词短语译成后续分句“消失在海面之下”，按先塌陷、后消失的顺序接在主句后面。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Tsunamis",
+   "predicate": "swamped",
+   "object_or_complement": "coastal settlements",
+   "explain": "主干是 Tsunamis swamped coastal settlements，主谓宾结构。谓语 swamped 是 swamp 的过去式，一般过去时，主动语态；主谓之间插入了一个形容词短语。"
+  },
+  "components": [
+   {
+    "text": "Tsunamis,",
+    "role": "主语",
+    "zh": "海啸"
+   },
+   {
+    "text": "reportedly",
+    "role": "评注性状语，修饰后面的形容词短语，表示消息来源是报道",
+    "zh": "据报道"
+   },
+   {
+    "text": "over 30 metres high in places,",
+    "role": "插入的形容词短语，补充说明 Tsunamis（in places 作状语，限定范围）",
+    "zh": "局部高逾30米"
+   },
+   {
+    "text": "swamped",
+    "role": "谓语",
+    "zh": "淹没了"
+   },
+   {
+    "text": "coastal settlements",
+    "role": "宾语",
+    "zh": "沿海居民点"
+   },
+   {
+    "text": "on Java and Sumatra.",
+    "role": "后置定语（介词短语），修饰 coastal settlements，说明居民点所在的岛屿",
+    "zh": "遍及爪哇岛和苏门答腊岛"
+   }
+  ],
+  "structure": "①主句是 Tsunamis swamped coastal settlements on Java and Sumatra：主语 Tsunamis，谓语 swamped，宾语 coastal settlements，on Java and Sumatra 是介词短语作后置定语，说明这些沿海居民点在哪两座岛上。\n②reportedly over 30 metres high in places 是插入的形容词短语，前后用逗号隔开，按视频说明补充说明 Tsunamis，相当于非限制性定语从句 which were reportedly over 30 metres high in places。短语的核心是 high，over 30 metres 放在 high 前说明高度，over 意为“超过”；in places 作状语，意为“在某些地方，局部”，限定高逾30米的范围。\n③reportedly 是评注性状语，表示“据报道”，说明30多米这个数字来自当时的报道，并非作者核实的数据，与第7句的 perhaps 一样体现了作者谨慎的语气。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "插入的形容词短语作补充说明",
+    "explain": "形容词短语可以放在名词之后，前后用逗号隔开，对名词作补充说明，相当于一个非限制性定语从句省去了“关系代词 + be”。本句 reportedly over 30 metres high in places 补充说明 Tsunamis，补全是 which were reportedly over 30 metres high in places。这种结构在新闻和说明文中常见，用很少的字交代数据和细节。分析时先找出主干 Tsunamis swamped coastal settlements，再看插入部分说明的是谁。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The river, almost two kilometres wide at this point, is crossed by a single ferry.",
+      "zh": "这条河在这里宽近两公里，只有一条渡船往来。"
+     },
+     {
+      "en": "The new regulations, unpopular with many small businesses, will take effect next month.",
+      "zh": "新规定不受许多小企业欢迎，将于下月生效。"
+     }
+    ]
+   },
+   {
+    "title": "“数词 + 单位 + 形容词”表示尺寸",
+    "explain": "表示高度、长度、宽度、深度、年龄时，英语用“数词 + 单位 + high/tall/long/wide/deep/old”的结构，单位放在形容词前，如 30 metres high（30米高）、two kilometres long（两公里长）、five years old（五岁）。前面还可以加 over、nearly、about 等词修饰数量。本句 over 30 metres high 意为“高逾30米”。这种结构作定语放在名词前时要用连字符，单位用单数，如 a 30-metre-high wave。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The ancient wall is about eight metres high and four metres thick.",
+      "zh": "这堵古城墙约八米高、四米厚。"
+     }
+    ]
+   },
+   {
+    "title": "评注性状语 reportedly",
+    "explain": "reportedly、allegedly、apparently、presumably 这类副词表达说话人对信息的态度或来源。reportedly 意为“据报道，据说”，表示信息来自报道、未经核实，相当于 it is reported that。本句用它修饰海啸的高度，说明数字来自当时的报道。考研阅读中，带这类词的内容不是作者确认的事实，做细节判断题时要留意。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The singer has reportedly signed a contract with a new record label.",
+      "zh": "据报道，这位歌手已与一家新唱片公司签约。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "tsunami",
+    "explain": "海啸，源自日语，由“津”（港口）和“波”两部分构成，字面义“港湾里的浪”。复数为 tsunamis。旧时也叫 tidal wave，但海啸与潮汐无关，科学文章用 tsunami。"
+   },
+   {
+    "term": "in places",
+    "explain": "在某些地方，局部，如 The path is steep in places（这条小路有些地方很陡）。不要与 in place（在适当的位置，就位）混淆，如 The new rules are now in place（新规定已经实施）。视频译为“局部”。"
+   },
+   {
+    "term": "Java and Sumatra",
+    "explain": "爪哇岛和苏门答腊岛，印度尼西亚的两大岛，巽他海峡就位于两岛之间，喀拉喀托岛在海峡之中，所以两岛沿海都遭到海啸袭击。视频译为“爪哇岛和苏门答腊岛”，增补“岛”字。"
+   },
+   {
+    "term": "swamp",
+    "explain": "熟词僻义：swamp 常见的是名词“沼泽”；本句作动词，指大水“淹没”，如 Waves swamped the small boat。还可引申为“使应接不暇”，如 be swamped with emails（邮件多得处理不过来）。"
+   },
+   {
+    "term": "settlement",
+    "explain": "本句指人们聚居的地方，即居民点、定居点，可数。settlement 还有“解决，和解”的意思，如 reach a settlement（达成和解），考研阅读中两个意思都常见，要靠上下文区分。"
+   }
+  ],
+  "translation_tip": "视频译文“海啸据报道局部高逾30米，淹没了沿海居民点，遍及爪哇岛和苏门答腊岛。”的处理：①插入的形容词短语不作定语前置，而是紧跟主语译成谓语性的说明“据报道局部高逾30米”，主语“海啸”后不加逗号，形成主谓连贯的短句。②in places 提前译成“局部”，over 用书面的“逾”译出，与“高”构成“高逾30米”。③后置定语 on Java and Sumatra 拆出来放在句末，增补“遍及”，译成“遍及爪哇岛和苏门答腊岛”，强调受灾范围之广。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "Dutch colonial administrators",
+   "predicate": "counted",
+   "object_or_complement": "36,417 dead",
+   "explain": "主干是 Dutch colonial administrators counted 36,417 dead，主谓宾结构，dead 在这里作名词，意为“死者”。谓语 counted 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Dutch colonial administrators",
+    "role": "主语",
+    "zh": "荷兰殖民地行政官员"
+   },
+   {
+    "text": "counted",
+    "role": "谓语",
+    "zh": "统计出"
+   },
+   {
+    "text": "36,417 dead,",
+    "role": "宾语（dead 作名词，意为“死者”）",
+    "zh": "36,417名死者"
+   },
+   {
+    "text": "mostly drowned,",
+    "role": "省略结构（即 most of them had drowned），补充说明 36,417 dead",
+    "zh": "其中大多数是溺亡的"
+   },
+   {
+    "text": "perhaps underestimating the toll.",
+    "role": "状语（现在分词短语，补充说明），逻辑主语是 administrators，perhaps 表示推测",
+    "zh": "而他们或许低估了死亡人数"
+   }
+  ],
+  "structure": "①主句是 Dutch colonial administrators counted 36,417 dead：主语 Dutch colonial administrators，Dutch 和 colonial 都作前置定语；谓语 counted；宾语 36,417 dead，dead 本是形容词，这里作名词，意为“死者”，新闻语体中常用“数词 + dead”表示死亡人数。\n②mostly drowned 是省略结构，按视频说明，完整意思是 most of them had drowned，补充说明这些死者大多数是溺亡的。drowned 是 drown 的过去分词，mostly 意为“大部分，主要”。\n③perhaps underestimating the toll 是现在分词短语作状语，补充说明；逻辑主语是主句主语 administrators，即行政官员们统计时可能低估了死亡人数。perhaps 表示作者的推测，并非定论；toll 意为“死亡人数”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "形容词作名词：dead 表示“死者”",
+    "explain": "the + 形容词可以表示一类人，作主语时谓语用复数，如 the dead（死者）、the injured（伤者）、the elderly（老年人）、the poor（穷人）。新闻报道中，dead、injured、wounded 前直接加数词，表示死伤人数，如 12 dead and 30 injured。本句 36,417 dead 就是这种用法，意为“36,417名死者”。注意 dead 作名词时没有复数形式，不能写成 deads。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Officials reported 54 dead and more than 120 injured after the train crash.",
+      "zh": "官员称，这起火车相撞事故造成54人死亡、120多人受伤。"
+     },
+     {
+      "en": "The city held a ceremony to honour the dead of both world wars.",
+      "zh": "这座城市举行仪式，纪念在两次世界大战中牺牲的人。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作状语及其逻辑主语",
+    "explain": "现在分词短语放在句末作状语，可以补充说明主句动作的伴随情况、结果或作者的评价，它的逻辑主语一般是主句的主语。本句 perhaps underestimating the toll 的逻辑主语是 administrators：官员们统计出36,417人，这一统计也许偏低。分词前的 perhaps 表明这是推测。考研阅读中，句末分词短语常带有作者的判断，要看清逻辑主语是谁，才能判断是谁在“低估”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many investors sold their shares in a panic, perhaps reacting too quickly to the news.",
+      "zh": "许多投资者惊慌地抛售股票，或许对这条消息反应过快了。"
+     },
+     {
+      "en": "The company raised its prices twice last year, hoping to offset rising costs.",
+      "zh": "这家公司去年两次提价，希望抵消不断上涨的成本。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Dutch colonial administrators",
+    "explain": "荷兰殖民地行政官员。1883年时，爪哇、苏门答腊等地属于荷兰的殖民地荷属东印度（the Dutch East Indies，大致相当于今天的印度尼西亚），所以由荷兰殖民当局统计死亡人数。Dutch 意为“荷兰的”，与 Holland、the Netherlands 对应。"
+   },
+   {
+    "term": "toll",
+    "explain": "熟词僻义：toll 常见义是道路、桥梁的“通行费”；本句指灾难、战争造成的死亡人数，完整说法是 death toll，如 The death toll has risen to 200。take a heavy toll on sth 意为“对……造成严重损害”，考研阅读常见。"
+   },
+   {
+    "term": "mostly drowned",
+    "explain": "drown 意为“淹死，溺亡”，主动形式即可表示“淹死”，如 He drowned in the river。mostly 意为“大部分，主要地”，与 most（大多数）用法不同：mostly 是副词，most 可作限定词或代词。"
+   },
+   {
+    "term": "36,417",
+    "explain": "读作 thirty-six thousand, four hundred and seventeen。英式英语在百位和十位之间加 and，美式英语常省略。"
+   },
+   {
+    "term": "underestimate",
+    "explain": "低估，由前缀 under-（不足）加 estimate（估计）构成，反义词 overestimate（高估）。常见搭配 underestimate the cost/difficulty，名词 underestimate 也可指“过低的估计”。"
+   }
+  ],
+  "translation_tip": "视频译文“荷兰殖民地行政官员统计出36,417名死者，其中大多数是溺亡的，而他们或许低估了死亡人数。”的处理：①36,417 dead 补出量词，译成“36,417名死者”，dead 作名词译成“死者”。②省略结构 mostly drowned 拆成独立分句，增补“其中”回指死者，译成“其中大多数是溺亡的”。③句末现在分词短语拆成独立分句，补出主语“他们”指代行政官员，并增补连词“而”表示语气转折，perhaps 译为“或许”，保留推测语气；toll 按语境译为“死亡人数”。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Telegrams",
+   "predicate": "reached",
+   "object_or_complement": "London",
+   "explain": "主干是 Telegrams reached London，主谓宾结构。谓语 reached 为一般过去时，主动语态；主语后带有介词短语、括号和过去分词短语三个修饰成分。"
+  },
+  "components": [
+   {
+    "text": "Telegrams",
+    "role": "主语",
+    "zh": "电报"
+   },
+   {
+    "text": "from Batavia",
+    "role": "后置定语（介词短语），修饰 Telegrams，说明电报发出的地方",
+    "zh": "从巴达维亚……发出"
+   },
+   {
+    "text": "(now Jakarta),",
+    "role": "括号内的补充说明，注明 Batavia 的今名",
+    "zh": "（今雅加达）"
+   },
+   {
+    "text": "relayed by submarine cable,",
+    "role": "后置定语（过去分词短语），修饰 Telegrams",
+    "zh": "经海底电缆转发"
+   },
+   {
+    "text": "reached",
+    "role": "谓语",
+    "zh": "到达了"
+   },
+   {
+    "text": "London",
+    "role": "宾语",
+    "zh": "伦敦"
+   },
+   {
+    "text": "within hours.",
+    "role": "时间状语（介词短语）",
+    "zh": "在几小时内"
+   }
+  ],
+  "structure": "①主句是 Telegrams reached London within hours：主语 Telegrams，谓语 reached，宾语 London，within hours 作时间状语。主语和谓语之间隔着三个修饰成分，读的时候要越过它们找到谓语 reached。\n②from Batavia 是介词短语作后置定语，修饰 Telegrams，说明电报从哪里发出。括号中的 now Jakarta 补充说明 Batavia 就是今天的雅加达，now 意为“今称”。\n③relayed by submarine cable 是过去分词短语作后置定语，按视频说明修饰 Telegrams，相当于 which were relayed by submarine cable。relay 是及物动词，电报是“被转发”的一方，所以用过去分词；by 表示方式，by submarine cable 即“经由海底电缆”。\n④within hours 意为“在几小时之内”，hours 用复数而不带数词，表示“几个小时”，强调消息传播之快。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语",
+    "explain": "过去分词短语放在名词后作定语，表示被动或完成，相当于一个省略了“关系代词 + be”的定语从句。本句 relayed by submarine cable 修饰 Telegrams，相当于 which were relayed by submarine cable，电报是被转发的对象。分词短语前后有逗号时，属于非限制性的补充说明。长难句中，主语后出现 -ed 形式时，要判断它是谓语还是过去分词作定语：本句真正的谓语是后面的 reached，relayed 只能作定语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Goods shipped by sea usually take several weeks to reach their destination.",
+      "zh": "海运的货物通常要几个星期才能运到目的地。"
+     },
+     {
+      "en": "The letters, written in the 1840s, were discovered in an attic last year.",
+      "zh": "这些信写于19世纪40年代，去年在一间阁楼里被发现。"
+     }
+    ]
+   },
+   {
+    "title": "within + 时间段",
+    "explain": "within 后接时间段，表示“在……之内”，强调不超过这个期限，如 within a week。复数时间名词前不带数词，如 within hours、within minutes、within days，表示“几小时之内”“几分钟之内”，带有“很快”的意味。in + 时间段多表示“在……之后”（用于将来）或“在……期间”；after + 时间段用于过去，表示“……之后”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Tickets for the final sold out within minutes of going on sale.",
+      "zh": "决赛门票开售后几分钟内就卖光了。"
+     }
+    ]
+   },
+   {
+    "title": "by + 方式名词，不加冠词",
+    "explain": "by 表示交通、通信方式时，后面的名词通常不加冠词，如 by train、by email、by post、by phone。本句 by submarine cable 即“经由海底电缆”，cable 前没有冠词。名词前有限定词时就要换成别的介词，如 on the 8 o'clock train、in my car。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The contract was sent by courier and arrived the next morning.",
+      "zh": "合同由快递寄出，第二天早上就到了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Batavia (now Jakarta)",
+    "explain": "巴达维亚是荷兰殖民时期对雅加达的称呼，当时是荷属东印度的首府。括号中的 now 表示“今称”，视频译为“（今雅加达）”。"
+   },
+   {
+    "term": "submarine cable",
+    "explain": "海底电缆。submarine 作形容词意为“海底的，水下的”，由前缀 sub-（在……下面）加 marine（海洋的）构成；作名词才是“潜水艇”。本句说明当时海底电报电缆已能把爪哇的消息在几小时内传到伦敦。"
+   },
+   {
+    "term": "relay",
+    "explain": "转发，传递（消息、信号），如 relay a message、relay information to sb；名词指接力赛（relay race）。本句视频译为“转发”，指电报经过沿途电缆和电报站一站站传下去。"
+   },
+   {
+    "term": "telegram 与 telegraph",
+    "explain": "telegram 指一封电报，是可数名词；telegraph 指电报系统或电报机，也可作动词“发电报”。两者都含希腊语前缀 tele-（远）。"
+   }
+  ],
+  "translation_tip": "视频译文“电报从巴达维亚（今雅加达）发出，经海底电缆转发，在几小时内到达了伦敦。”的处理：①后置定语 from Batavia 不作定语前置，而是拆成主谓结构，增补动词“发出”，译成“电报从巴达维亚（今雅加达）发出”。②括号原样保留，now 译成“今”。③过去分词短语 relayed by submarine cable 译成“经海底电缆转发”，不用“被”字，被动意义通过语境体现。④三个动作“发出、转发、到达”按发生顺序排列成三个短句，within hours 前置译成“在几小时内”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Western newspapers",
+   "predicate": "began",
+   "object_or_complement": "chronicling what is often called the first global news event（动名词短语作宾语）",
+   "explain": "主干是 Western newspapers began chronicling…，主谓宾结构，动名词短语 chronicling… 作 began 的宾语，what 引导的宾语从句又作 chronicling 的宾语。谓语 began 为一般过去时，主动语态；宾语从句中的 is often called 为一般现在时，被动语态。"
+  },
+  "components": [
+   {
+    "text": "Western newspapers",
+    "role": "主语",
+    "zh": "西方报纸"
+   },
+   {
+    "text": "soon",
+    "role": "时间状语（副词）",
+    "zh": "很快便"
+   },
+   {
+    "text": "began",
+    "role": "谓语",
+    "zh": "开始"
+   },
+   {
+    "text": "chronicling",
+    "role": "宾语（动名词，begin doing），本身又带宾语从句",
+    "zh": "记述"
+   },
+   {
+    "text": "what is often called the first global news event.",
+    "role": "宾语从句（what 引导），作 chronicling 的宾语，what 在从句中作主语",
+    "zh": "这起常被称为首个全球新闻事件的灾难"
+   }
+  ],
+  "structure": "①主句是 Western newspapers soon began chronicling…：主语 Western newspapers，soon 是副词作时间状语，谓语 began，动名词 chronicling 作 began 的宾语，begin doing 意为“开始做某事”。\n②what is often called the first global news event 是 what 引导的宾语从句，按视频说明作 chronicling 的宾语。what 相当于 the thing that，在从句中作主语；从句谓语 is often called 是一般现在时的被动语态，the first global news event 是主语补足语，说明 what 被称作什么。\n③从句用一般现在时 is called，说明“首个全球新闻事件”这一说法至今仍被沿用；主句用一般过去时 began，叙述当年报纸的行动。what 实际指的就是喀拉喀托火山喷发这一事件。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "what 引导宾语从句，what 在从句中作主语",
+    "explain": "what 引导名词性从句时，相当于 the thing(s) that，本身在从句中充当成分，可以作主语、宾语或表语。本句 what is often called the first global news event 中，what 作从句主语，整个从句作 chronicling 的宾语。与 that 引导宾语从句不同，that 在从句中不作任何成分，what 则必须作成分。考研翻译中，what 从句常译成“……的事情”“所谓的……”，或像本句视频译文那样补出具体名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Scientists are still trying to understand what caused the sudden decline in bee populations.",
+      "zh": "科学家仍在努力弄清是什么导致了蜜蜂数量的骤减。"
+     },
+     {
+      "en": "The museum displays what is believed to be the oldest surviving map of the city.",
+      "zh": "这座博物馆展出了一幅据信是该市现存最古老的地图。"
+     }
+    ]
+   },
+   {
+    "title": "be called + 名词：主语补足语",
+    "explain": "call 可以带复合宾语 call sb/sth + 名词，意为“把……称作……”，名词是宾语补足语；变成被动语态 sb/sth is called + 名词 后，原来的宾语补足语就成了主语补足语。本句 what is often called the first global news event 就是 People often call it the first global news event 的被动形式。often 放在 be 和过去分词之间，说明这一说法很常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The period is often called the golden age of Dutch painting.",
+      "zh": "这一时期常被称为荷兰绘画的黄金时代。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "chronicle",
+    "explain": "作动词意为“按时间顺序记载，记述”，如 chronicle the events of the war；作名词意为“编年史，大事记”，也常用作报纸名称，如 the San Francisco Chronicle。词根 chron- 意为“时间”，同根词有 chronological（按时间顺序的）、chronic（慢性的）。"
+   },
+   {
+    "term": "global news event",
+    "explain": "全球新闻事件，指世界各地几乎同时得到消息、普遍报道的事件。本句用 is often called 转述这一常见说法，没有把“首个”说成作者自己的断言。"
+   },
+   {
+    "term": "Western newspapers",
+    "explain": "西方报纸。Western 作“西方的，西方国家的”讲时首字母常大写，如 Western countries、Western culture；小写的 western 多指方位上的“西部的”。"
+   }
+  ],
+  "translation_tip": "视频译文“西方报纸很快便开始记述这起常被称为首个全球新闻事件的灾难。”的处理：①soon 译为“很快便”，放在谓语前。②what 从句增补中心词“灾难”，把从句整体处理成前置定语“常被称为首个全球新闻事件的”，并用“这起”指代，使句子与上文的灾难描写衔接。③被动语态 is often called 保留为“常被称为”，the first 译为书面的“首个”。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "early dispatches（分句一）；the magnitude（分句二）",
+   "predicate": "were（分句一）；emerged（分句二）",
+   "object_or_complement": "terse（分句一的表语）；分句二无宾语",
+   "explain": "全句是由分号连接的两个并列分句：分句一 early dispatches were terse 是主系表结构，分句二 the magnitude of the devastation emerged 是主谓结构，emerge 为不及物动词。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Yet",
+    "role": "连词，表示转折，承接上句",
+    "zh": "然而"
+   },
+   {
+    "text": "early dispatches",
+    "role": "分句一的主语",
+    "zh": "早期的电讯"
+   },
+   {
+    "text": "were",
+    "role": "系动词（分句一的谓语）",
+    "zh": "（系动词，与 terse 合译为“都十分简短”）"
+   },
+   {
+    "text": "terse;",
+    "role": "表语（形容词）",
+    "zh": "简短"
+   },
+   {
+    "text": "the magnitude",
+    "role": "分句二的主语",
+    "zh": "……的规模"
+   },
+   {
+    "text": "of the devastation",
+    "role": "后置定语（介词短语），修饰 magnitude",
+    "zh": "浩劫"
+   },
+   {
+    "text": "emerged",
+    "role": "分句二的谓语（不及物动词）",
+    "zh": "显露出来"
+   },
+   {
+    "text": "piecemeal",
+    "role": "方式状语（副词），修饰 emerged",
+    "zh": "一点一点地"
+   },
+   {
+    "text": "over days.",
+    "role": "时间状语（介词短语）",
+    "zh": "前后历经数日"
+   }
+  ],
+  "structure": "①全句由分号连接两个并列分句。Yet 放在句首，表示与上句转折：上句说报纸很快开始报道，这句说早期报道内容很少。\n②分句一 early dispatches were terse 是主系表结构：主语 early dispatches，系动词 were，表语 terse（简短的）。\n③分句二 the magnitude of the devastation emerged piecemeal over days 是主谓结构：主语 the magnitude，of the devastation 作后置定语，即“浩劫的规模”；谓语 emerged 是不及物动词；piecemeal 是副词，作方式状语，说明规模是一点一点地显露出来的；over days 作时间状语，按视频说明意为“在几天的时间里”。\n④两个分句之间没有连词，靠分号连接，分句二说明分句一的结果：正因为早期电讯简短，灾难的全貌要过好几天才逐渐清楚。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "分号连接两个独立分句",
+    "explain": "分号可以连接两个意思密切相关、语法上各自完整的分句，作用相当于句号和 and、but 之类连词之间的中间状态。本句 early dispatches were terse 和 the magnitude of the devastation emerged piecemeal over days 都是完整的句子，用分号连起来，表示两者紧密相关。英语中不能只用逗号连接两个独立分句，这在写作中是常见错误，要么用分号，要么用逗号加连词，要么拆成两句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The first trial produced disappointing results; the second was far more encouraging.",
+      "zh": "第一次试验结果令人失望；第二次则令人鼓舞得多。"
+     },
+     {
+      "en": "Some critics praised the novel's ambition; others found it tedious.",
+      "zh": "有些评论家称赞这部小说立意宏大；另一些人则觉得它冗长乏味。"
+     }
+    ]
+   },
+   {
+    "title": "Yet 作连词表示转折",
+    "explain": "yet 作连词时意为“然而，可是”，语气比 but 更正式，可以放在句首，也可以放在 and 后面构成 and yet。本句 Yet 放在句首，与上句形成转折。yet 作副词时则表示“还，仍”，多用于否定句和疑问句，如 The results have not been published yet，要根据位置和句子结构区分。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan looked perfect on paper. Yet within a month it had collapsed.",
+      "zh": "这个计划在纸面上看起来完美无缺。然而不到一个月，它就失败了。"
+     }
+    ]
+   },
+   {
+    "title": "over + 时间段表示持续过程",
+    "explain": "over 后接时间段，表示“在……期间，在……的过程中”，强调变化或过程贯穿整段时间，如 over the past decade、over the next few years。本句 over days 意为“在几天的时间里”，说明灾情是在几天里逐渐清楚的。这一用法在考研阅读描述趋势变化时非常常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's population doubled over two decades.",
+      "zh": "这座城市的人口在二十年里翻了一番。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "dispatch",
+    "explain": "本句是名词，指记者或通讯员从外地发回的报道、电讯，如 dispatches from the front（前线电讯）。动词 dispatch 意为“派遣，发送”，如 dispatch troops。英式英语也拼作 despatch。"
+   },
+   {
+    "term": "terse",
+    "explain": "简短的，常带有简洁到近乎生硬的意味，如 a terse statement（简短的声明）、a terse reply（简短生硬的回答）。本句指早期电讯内容很少，视频译为“简短”。"
+   },
+   {
+    "term": "magnitude",
+    "explain": "规模，重要性，如 the magnitude of the problem（问题的严重程度）；在地震学中指震级，如 an earthquake of magnitude 7。"
+   },
+   {
+    "term": "piecemeal",
+    "explain": "副词，意为“一点一点地，零碎地”；也可作形容词，如 a piecemeal approach（零敲碎打的做法）。本句作副词修饰 emerged，视频译为“一点一点地”。"
+   },
+   {
+    "term": "emerge",
+    "explain": "不及物动词，本义“出现，浮现”，常用于事实、真相“显露出来，为人所知”，如 It later emerged that…（后来才知道……）。本句视频译为“显露出来”。"
+   }
+  ],
+  "translation_tip": "视频译文“然而，早期的电讯都十分简短；浩劫的规模一点一点地显露出来，前后历经数日。”的处理：①Yet 译为“然而”，后加逗号停顿。②系表结构 were terse 增补“都十分”，译成“都十分简短”，强调早期电讯普遍内容很少。③保留原文的分号。④piecemeal 译为“一点一点地”，放在动词前；over days 拆成句末短句“前后历经数日”，增补“前后”，说明这一过程持续的时间。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "Ash and sulphur dioxide",
+   "predicate": "formed",
+   "object_or_complement": "a haze",
+   "explain": "主干是 Ash and sulphur dioxide formed a haze，并列主语加谓语和宾语，主谓宾结构。谓语 formed 为一般过去时，主动语态；that 引导的定语从句修饰 a haze。"
+  },
+  "components": [
+   {
+    "text": "Ash and sulphur dioxide,",
+    "role": "并列主语（and 连接两个名词）",
+    "zh": "火山灰和二氧化硫"
+   },
+   {
+    "text": "hurled tens of kilometres high,",
+    "role": "后置定语（过去分词短语），修饰 Ash and sulphur dioxide",
+    "zh": "被抛射到数十公里的高空"
+   },
+   {
+    "text": "formed",
+    "role": "谓语",
+    "zh": "形成"
+   },
+   {
+    "text": "a haze",
+    "role": "宾语",
+    "zh": "一层薄雾"
+   },
+   {
+    "text": "that circled the equator in about two weeks.",
+    "role": "限制性定语从句，修饰 a haze，that 在从句中作主语",
+    "zh": "在大约两个星期内环绕了赤道一周"
+   }
+  ],
+  "structure": "①主句是 Ash and sulphur dioxide formed a haze：主语是 and 连接的两个名词 Ash 和 sulphur dioxide，谓语 formed，宾语 a haze。\n②hurled tens of kilometres high 是过去分词短语作后置定语，前后用逗号隔开，按视频说明修饰 Ash and sulphur dioxide，相当于 which were hurled tens of kilometres high。hurl 是及物动词，火山灰和二氧化硫是“被抛射”的一方，所以用过去分词；tens of kilometres high 是“数量 + 单位 + high”的结构，说明抛射的高度。\n③that circled the equator in about two weeks 是限制性定语从句，修饰 a haze。that 是关系代词，在从句中作主语，指 haze；从句谓语 circled 是及物动词，the equator 作宾语，in about two weeks 作时间状语，说明薄雾绕赤道一周用了大约两个星期。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "that 引导的限制性定语从句，that 作主语",
+    "explain": "关系代词 that 引导限制性定语从句，可以指人也可以指物，在从句中作主语或宾语。作主语时不能省略，作宾语时可以省略。本句 that circled the equator 中，that 指 a haze，作从句主语，所以不能省略。限制性定语从句与先行词之间不加逗号，对先行词起限定作用；that 不能引导非限制性定语从句，也不能放在介词之后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Researchers have identified a gene that controls when the plant begins to flower.",
+      "zh": "研究人员发现了一个控制这种植物何时开花的基因。"
+     },
+     {
+      "en": "The government introduced a scheme that allows workers to retire at sixty.",
+      "zh": "政府推出了一项允许工人六十岁退休的计划。"
+     }
+    ]
+   },
+   {
+    "title": "tens of、hundreds of 等表示约数",
+    "explain": "ten、hundred、thousand、million 等词加 s 后接 of，表示不确定的大数目：tens of（数十）、hundreds of（数百）、thousands of（数千）。表示确切数目时不加 s，也不接 of，如 two hundred people，不能说 two hundreds of people。本句 tens of kilometres high 意为“数十公里高”，视频译为“数十公里的高空”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Thousands of people gathered in the square to watch the fireworks.",
+      "zh": "数千人聚集在广场上观看烟花。"
+     }
+    ]
+   },
+   {
+    "title": "非限制性过去分词短语插在主谓之间",
+    "explain": "过去分词短语可以用两个逗号隔开，插在主语和谓语之间，对主语作补充说明，表示被动或完成。本句 hurled tens of kilometres high 插在 Ash and sulphur dioxide 和 formed 之间，说明火山灰和二氧化硫被抛射的高度。分析时先跳过插入部分，把主语和谓语 formed 连起来。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The documents, hidden in a basement for decades, were finally made public.",
+      "zh": "这些文件在地下室里藏了几十年，终于被公开了。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "sulphur dioxide",
+    "explain": "二氧化硫，化学式 SO2。sulphur 是英式拼写，美式拼作 sulfur；dioxide 意为“二氧化物”，由 di-（二）加 oxide（氧化物）构成，如 carbon dioxide（二氧化碳）。"
+   },
+   {
+    "term": "ash",
+    "explain": "本句指火山灰，完整说法是 volcanic ash；ash 也指燃烧后剩下的灰烬，常用复数 ashes 表示骨灰。"
+   },
+   {
+    "term": "haze",
+    "explain": "薄雾，霾，指空气中由烟、尘、水汽等形成的使视线模糊的薄层，如 a haze of smoke。形容词 hazy 意为“朦胧的；模糊的”。"
+   },
+   {
+    "term": "circle the equator",
+    "explain": "circle 作及物动词，意为“环绕……运动”，circle the equator 即“绕赤道一周”。equator 意为“赤道”，前面加 the。视频译为“环绕了赤道一周”，增补“一周”。"
+   },
+   {
+    "term": "hurl",
+    "explain": "猛力投掷，抛射，如 hurl stones at the police；也可指大声叫骂，如 hurl abuse at sb。本句视频译为“抛射”，表现火山喷发力量之大。"
+   }
+  ],
+  "translation_tip": "视频译文“火山灰和二氧化硫被抛射到数十公里的高空，形成一层薄雾，在大约两个星期内环绕了赤道一周。”的处理：①过去分词短语 hurled tens of kilometres high 译成主语后的谓语性说明“被抛射到数十公里的高空”，保留被动“被”；high 译成名词“高空”。②主句谓语 formed a haze 译为“形成一层薄雾”，a 译成量词“一层”。③定语从句不前置，拆成独立短句，承前省略主语“薄雾”；in about two weeks 前置为“在大约两个星期内”，circled 增补“一周”。全句按“抛射、形成、环绕”的先后顺序排成三个短句。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "crimson sunsets",
+   "predicate": "glowed",
+   "object_or_complement": "",
+   "explain": "主干是 crimson sunsets glowed，主谓结构；glow 在此是不及物动词，over Europe and North America 作地点状语。谓语 glowed 为一般过去时，主动语态；句末现在分词短语作结果状语。"
+  },
+  "components": [
+   {
+    "text": "In November 1883,",
+    "role": "时间状语（介词短语）",
+    "zh": "1883年11月"
+   },
+   {
+    "text": "crimson sunsets",
+    "role": "主语",
+    "zh": "深红色的晚霞"
+   },
+   {
+    "text": "glowed",
+    "role": "谓语（不及物动词）",
+    "zh": "发出暗淡的光"
+   },
+   {
+    "text": "over Europe and North America,",
+    "role": "地点状语（介词短语，over 意为“在……上空”）",
+    "zh": "照耀着欧洲和北美"
+   },
+   {
+    "text": "summoning",
+    "role": "结果状语（现在分词短语）中的分词，逻辑主语是 crimson sunsets",
+    "zh": "召唤着"
+   },
+   {
+    "text": "firefighters",
+    "role": "summoning 的宾语",
+    "zh": "消防员"
+   },
+   {
+    "text": "in New York and Connecticut",
+    "role": "后置定语（介词短语），修饰 firefighters",
+    "zh": "纽约州和康涅狄格州的"
+   },
+   {
+    "text": "to phantom blazes.",
+    "role": "介词短语，与 summoning 构成 summon A to B（把 A 召到 B 处）",
+    "zh": "赶去扑救子虚乌有的大火"
+   }
+  ],
+  "structure": "①主句是 crimson sunsets glowed over Europe and North America：主语 crimson sunsets，谓语 glowed 是不及物动词，over Europe and North America 是介词短语作地点状语，over 表示“在……上空”。句首 In November 1883 作时间状语。\n②summoning firefighters in New York and Connecticut to phantom blazes 是现在分词短语作状语，按视频说明补充说明结果：晚霞红得像火光，结果把消防员召去救火。分词的逻辑主语是 crimson sunsets；firefighters 是 summoning 的宾语，in New York and Connecticut 是介词短语作后置定语，说明是哪里的消防员。\n③to phantom blazes 与 summoning 构成 summon A to B，意为“把 A 召到 B 处”。phantom 意为“子虚乌有的”，phantom blazes 指根本不存在的大火：消防员看到天边的红光，以为发生了火灾，赶到后才发现并没有火。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作结果状语，逻辑主语是主句主语",
+    "explain": "句末现在分词短语可以表示主句动作带来的结果，分词的逻辑主语是主句主语，或者是主句所述的整个情况。本句 summoning firefighters… to phantom blazes 的逻辑主语是 crimson sunsets：晚霞发出红光，结果把消防员召去救火。这种结构把原因和结果压缩在一个句子里，比写成 and they summoned… 更紧凑。翻译时一般按因果顺序译成后续分句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "A sudden storm swept across the lake, forcing dozens of boats back to shore.",
+      "zh": "一场突如其来的风暴席卷湖面，迫使几十条船返回岸边。"
+     },
+     {
+      "en": "The factory closed in 2019, leaving more than a thousand workers without jobs.",
+      "zh": "这家工厂于2019年关闭，一千多名工人因此失业。"
+     }
+    ]
+   },
+   {
+    "title": "介词 over 表示“在……上空”",
+    "explain": "over 表示位置时，指在某物的正上方或上空，不与其接触，如 a bridge over the river、clouds over the mountains；还可表示“覆盖，遍及”，如 snow over the fields。本句 glowed over Europe and North America 指晚霞在欧洲和北美的上空发光，视频译为“照耀着欧洲和北美”。above 只强调位置高于某物，不一定在正上方。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A thick cloud of smoke hung over the city for days after the fire.",
+      "zh": "火灾过后，一团浓烟在城市上空笼罩了好几天。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "summon A to B",
+    "explain": "把 A 召到 B 处，如 He was summoned to the manager's office（他被叫到经理办公室）。summon 还有“传唤（出庭）”和“鼓起（勇气）”的意思，如 summon up the courage to do sth。本句视频译为“召唤着”，to phantom blazes 增译为“赶去扑救子虚乌有的大火”。"
+   },
+   {
+    "term": "glow",
+    "explain": "不及物动词，指发出稳定而不强烈的光，如 The embers glowed in the fireplace（壁炉里的余烬发着微光）。视频译为“发出暗淡的光”，与 glow 指光线柔和、不刺眼的含义一致。"
+   },
+   {
+    "term": "New York and Connecticut",
+    "explain": "美国东北部相邻的两个州，视频译为“纽约州和康涅狄格州”，增补“州”字，表明这里的 New York 指纽约州而不是纽约市。"
+   },
+   {
+    "term": "phantom",
+    "explain": "作形容词意为“幻觉的，虚幻的，子虚乌有的”，如 phantom pain（幻肢痛）；作名词意为“幽灵，鬼魂”。phantom blazes 指消防员赶去却并不存在的火灾。"
+   },
+   {
+    "term": "blaze",
+    "explain": "名词，指大火、火灾，新闻中常用，如 Firefighters fought the blaze for hours；动词意为“熊熊燃烧”。"
+   }
+  ],
+  "translation_tip": "视频译文“1883年11月，深红色的晚霞发出暗淡的光，照耀着欧洲和北美，召唤着纽约州和康涅狄格州的消防员赶去扑救子虚乌有的大火。”的处理：①glowed 按其“发出不强烈的光”的含义译为“发出暗淡的光”。②地点状语 over Europe and North America 拆成动词短句，增补动词“照耀着”。③现在分词短语译成后续分句“召唤着……”，后置定语 in New York and Connecticut 前置为“纽约州和康涅狄格州的”，增补“州”字。④summon A to B 中的 to 增译为“赶去扑救”，把消防员赶去救火的动作说完整；phantom 译为“子虚乌有的”。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "Later climate reconstructions",
+   "predicate": "suggest",
+   "object_or_complement": "(that) global temperatures dipped a few tenths of a degree the following year（宾语从句，省略 that）",
+   "explain": "主干是 Later climate reconstructions suggest…，主谓宾结构，宾语是省略了 that 的宾语从句。主句谓语 suggest 为一般现在时，主动语态，表示研究的结论；宾语从句谓语 dipped 为一般过去时，叙述过去发生的降温。"
+  },
+  "components": [
+   {
+    "text": "Later climate reconstructions",
+    "role": "主语",
+    "zh": "后来的气候重建研究"
+   },
+   {
+    "text": "suggest",
+    "role": "谓语",
+    "zh": "推测"
+   },
+   {
+    "text": "global temperatures",
+    "role": "宾语从句（省略 that）的主语",
+    "zh": "全球气温"
+   },
+   {
+    "text": "dipped",
+    "role": "宾语从句的谓语（不及物动词）",
+    "zh": "下降了"
+   },
+   {
+    "text": "a few tenths of a degree",
+    "role": "宾语从句中的程度状语（名词短语，表示下降的幅度）",
+    "zh": "零点几度"
+   },
+   {
+    "text": "the following year.",
+    "role": "宾语从句中的时间状语（名词短语直接作状语）",
+    "zh": "就在次年"
+   }
+  ],
+  "structure": "①主句是 Later climate reconstructions suggest…：主语 Later climate reconstructions，Later 和 climate 都作前置定语；谓语 suggest，意为“表明，推测”。\n②suggest 后面是宾语从句，按视频说明省略了引导词 that。从句主语 global temperatures，谓语 dipped 是不及物动词，意为“（小幅）下降”。\n③a few tenths of a degree 是名词短语作程度状语，说明下降的幅度：tenth 意为“十分之一”，a few tenths of a degree 即“零点几度”。the following year 是名词短语直接作时间状语，不加介词，指喷发后的第二年，即1884年。\n④主句用一般现在时，说明这是现在的研究结论；从句用一般过去时，因为降温发生在过去。suggest 在这里表示“表明，推测”，从句用陈述语气，不用 should 加动词原形。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "省略 that 的宾语从句",
+    "explain": "that 引导宾语从句时只起连接作用，在从句中不作成分，在 say、think、believe、suggest、show 等常用动词后经常省略。本句 suggest global temperatures dipped… 省略了 that，动词 suggest 后直接接从句主语 global temperatures。识别方法是：谓语动词后紧跟一个完整的“主语 + 谓语”结构。考研长难句中，这种省略常让人把从句主语误当成主句动词的宾语，要看后面是否还有一个谓语动词，本句后面的 dipped 就说明 global temperatures 是从句主语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Recent surveys show most consumers now prefer to shop online.",
+      "zh": "最近的调查显示，大多数消费者现在更喜欢网购。"
+     },
+     {
+      "en": "The report suggests the new policy has had little effect on unemployment.",
+      "zh": "报告表明，新政策对失业问题几乎没有产生影响。"
+     }
+    ]
+   },
+   {
+    "title": "suggest 的两种意思与从句谓语形式",
+    "explain": "suggest 表示“表明，暗示，推测”时，后面的宾语从句用陈述语气，时态根据实际情况而定，本句 suggest… dipped 就是这种用法。suggest 表示“建议”时，宾语从句用虚拟语气，即 (should) + 动词原形，如 The doctor suggested that he (should) rest for a week。考研完形和语法题常考这一区别，判断的关键是看主语：研究、证据、数据作主语时，suggest 通常表示“表明”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The evidence suggests that the fire was started deliberately.",
+      "zh": "证据表明这场火是有人故意放的。"
+     },
+     {
+      "en": "The committee suggested that the meeting be postponed until next week.",
+      "zh": "委员会建议把会议推迟到下周。"
+     }
+    ]
+   },
+   {
+    "title": "主句一般现在时，从句一般过去时",
+    "explain": "宾语从句的时态不一定要和主句一致。主句谓语用一般现在时，表示现在仍然成立的观点或结论；从句叙述过去发生的事，就用一般过去时。本句 suggest 表示现在的研究结论，dipped 叙述1884年的降温。学术写作引用研究结论时常用这种时态搭配。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Historians believe the castle was built in the twelfth century.",
+      "zh": "历史学家认为这座城堡建于12世纪。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "climate reconstruction",
+    "explain": "气候重建，按视频说明，指根据各种证据推算过去的气候。reconstruction 本义是“重建”，这里指根据现有证据还原过去的情况，视频译为“气候重建研究”。"
+   },
+   {
+    "term": "a few tenths of a degree",
+    "explain": "零点几度。tenth 意为“十分之一”，a tenth of a degree 即0.1度，a few tenths 即零点几度。分数和小数在考研阅读的科技、经济类文章中很常见。"
+   },
+   {
+    "term": "dip",
+    "explain": "不及物动词，指数值小幅、暂时下降，如 Prices dipped slightly in March；名词 a dip in temperature 意为“气温略有下降”。dip 还有“蘸，浸”的意思，如 dip bread in soup。"
+   },
+   {
+    "term": "the following year",
+    "explain": "次年，第二年，以前文提到的年份为参照，本文指1884年。名词短语直接作时间状语，不加介词，同类说法有 the following day（第二天）、the next week。"
+   },
+   {
+    "term": "火山喷发与降温",
+    "explain": "大规模火山喷发会把二氧化硫送入高层大气，形成能反射部分阳光的微小颗粒，因此可能使全球气温短期下降。本文用 suggest 和 a few tenths of a degree 表述，结论是推测性的，幅度也很小。"
+   }
+  ],
+  "translation_tip": "视频译文“后来的气候重建研究推测，全球气温下降了零点几度，就在次年。”的处理：①主语 climate reconstructions 增译“研究”，译成“气候重建研究”，说明这是一类科学研究。②suggest 译为“推测”，后加逗号，引出宾语从句，保留原文不下定论的语气。③a few tenths of a degree 译为“零点几度”。④时间状语 the following year 没有前置，而是放在句末单独成句，增补“就在”，译成“就在次年”，强调降温紧随喷发之后。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "Some experts",
+   "predicate": "discounted",
+   "object_or_complement": "the volcanic explanation",
+   "explain": "主干是 Some experts discounted the volcanic explanation，主谓宾结构。谓语 discounted 为一般过去时，主动语态；句末现在分词短语作状语。"
+  },
+  "components": [
+   {
+    "text": "Some experts",
+    "role": "主语",
+    "zh": "一些专家"
+   },
+   {
+    "text": "discounted",
+    "role": "谓语",
+    "zh": "不予采信"
+   },
+   {
+    "text": "the volcanic explanation,",
+    "role": "宾语",
+    "zh": "火山之说"
+   },
+   {
+    "text": "blaming",
+    "role": "状语（现在分词短语）中的分词，与后面的 on 构成 blame A on B",
+    "zh": "而把……归因于"
+   },
+   {
+    "text": "the sunsets",
+    "role": "blaming 的宾语",
+    "zh": "晚霞"
+   },
+   {
+    "text": "on moisture",
+    "role": "介词 on 引出归因的对象，moisture 是 on 的第一个宾语",
+    "zh": "水汽"
+   },
+   {
+    "text": "at high altitude",
+    "role": "后置定语（介词短语），修饰 moisture",
+    "zh": "高空的"
+   },
+   {
+    "text": "or cosmic dust.",
+    "role": "与 moisture 并列的 on 的第二个宾语",
+    "zh": "或宇宙尘埃"
+   }
+  ],
+  "structure": "①主句是 Some experts discounted the volcanic explanation：主语 Some experts，谓语 discounted，意为“不予采信，不予考虑”，宾语 the volcanic explanation，指把晚霞归因于火山喷发的解释。\n②blaming the sunsets on moisture at high altitude or cosmic dust 是现在分词短语作状语，逻辑主语是 Some experts，说明这些专家自己的看法。blame A on B 意为“把 A 归咎于 B”，A 是 the sunsets，B 是用 or 连接的 moisture at high altitude 和 cosmic dust 两种解释。\n③at high altitude 是介词短语作后置定语，只修饰 moisture，不修饰 cosmic dust：高空的水汽是一种解释，宇宙尘埃是另一种解释。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "blame A on B 与 blame B for A",
+    "explain": "blame 有两种常用句型：blame A on B，把 A（坏事）归咎于 B；blame B for A，因 A 而责怪 B。两者意思相同，A 与 B 的位置正好相反。本句 blaming the sunsets on moisture… or cosmic dust 中，A 是 the sunsets，B 是 moisture 和 cosmic dust。还可以说 B is to blame for A（B 应对 A 负责）。考研写作和完形中，这两个句型常因介词混用而出错。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Many residents blamed the flooding on poor drainage.",
+      "zh": "许多居民把洪涝归咎于排水不畅。"
+     },
+     {
+      "en": "Many residents blamed poor drainage for the flooding.",
+      "zh": "许多居民认为洪涝是排水不畅造成的。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作状语，说明主句动作的具体内容",
+    "explain": "句末现在分词短语可以对主句动作作进一步说明，逻辑主语是主句主语。本句专家们不予采信火山之说，blaming… 说明他们转而提出的解释，两个动作是同一主语的两个方面。翻译时常译成并列分句，根据语义补出“而”“并”等连词，本句视频译文补出了“而”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She turned down the job offer, saying she wanted to stay closer to her family.",
+      "zh": "她拒绝了这份工作，说她想离家人近一些。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "discount",
+    "explain": "熟词僻义：discount 常见义是“打折，折扣”；作动词还可表示认为某种说法、可能性不重要或不真实，因而不予考虑，如 discount a possibility、discount a theory。本句视频译为“不予采信”。"
+   },
+   {
+    "term": "the volcanic explanation",
+    "explain": "火山之说，指认为异常晚霞是火山喷发造成的解释。视频把 explanation 译为“之说”，表示“……的说法”，与 the volcanic 合起来就是“火山之说”。"
+   },
+   {
+    "term": "at high altitude",
+    "explain": "在高空，在高海拔处。altitude 指海拔、高度，常见搭配 at an altitude of 3,000 metres（在海拔3000米处）、altitude sickness（高原反应）。本句视频译为“高空的”，作 moisture 的定语。"
+   },
+   {
+    "term": "cosmic dust",
+    "explain": "宇宙尘埃，指存在于太空中的微小颗粒。cosmic 意为“宇宙的”，如 cosmic rays（宇宙射线）。"
+   },
+   {
+    "term": "moisture",
+    "explain": "不可数名词，指空气中的水汽、潮气或物体中的少量水分，如 The soil retains moisture well。本句视频译为“水汽”。"
+   }
+  ],
+  "translation_tip": "视频译文“一些专家不予采信火山之说，而把晚霞归因于高空的水汽或宇宙尘埃。”的处理：①discounted 译为书面色彩的“不予采信”，the volcanic explanation 译为“火山之说”，简洁凝练。②现在分词短语译成并列分句，增补“而”，表示专家们否定一种解释、转而提出另一种解释。③blame A on B 用“把 A 归因于 B”的句式，后置定语 at high altitude 前置为“高空的”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Britain's Royal Society（分句一）；the Society's 1888 report（分句二）",
+   "predicate": "appealed（分句一）；tied（分句二）",
+   "object_or_complement": "分句一无宾语（appealed 与 for 搭配）；the glow（分句二的宾语，与 to Krakatoa 构成 tie A to B）",
+   "explain": "全句是由分号连接的两个并列分句：分句一 Britain's Royal Society appealed… for dated observations 是主谓结构，appeal 为不及物动词，与 for 搭配；分句二 the Society's 1888 report tied the glow to Krakatoa 是主谓宾结构。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In February 1884,",
+    "role": "时间状语（介词短语）",
+    "zh": "1884年2月"
+   },
+   {
+    "text": "Britain's Royal Society",
+    "role": "分句一的主语",
+    "zh": "英国皇家学会"
+   },
+   {
+    "text": "appealed",
+    "role": "分句一的谓语（不及物动词，与后面的 for 构成 appeal for）",
+    "zh": "发出呼吁"
+   },
+   {
+    "text": "in The Times",
+    "role": "地点状语（介词短语），插在 appealed 和 for 之间",
+    "zh": "在《泰晤士报》上"
+   },
+   {
+    "text": "for dated observations,",
+    "role": "介词短语，与 appealed 构成 appeal for（呼吁，征求）",
+    "zh": "征集注明日期的观测记录"
+   },
+   {
+    "text": "eliciting worldwide replies;",
+    "role": "结果状语（现在分词短语），逻辑主语是分句一的呼吁行为",
+    "zh": "引起了世界各地的回应"
+   },
+   {
+    "text": "the Society's 1888 report",
+    "role": "分句二的主语",
+    "zh": "学会1888年发表的报告"
+   },
+   {
+    "text": "tied",
+    "role": "分句二的谓语（与后面的 to 构成 tie A to B）",
+    "zh": "把……归于"
+   },
+   {
+    "text": "the glow",
+    "role": "宾语",
+    "zh": "这片红霞"
+   },
+   {
+    "text": "to Krakatoa.",
+    "role": "介词短语，与 tied 构成 tie A to B",
+    "zh": "喀拉喀托火山"
+   }
+  ],
+  "structure": "①全句由分号连接两个分句，先说皇家学会发起征集，再说学会的报告得出结论，按时间先后排列。\n②分句一的主干是 Britain's Royal Society appealed for dated observations：appeal for sth 意为“呼吁，征求某物”，按视频说明；in The Times 是地点状语，插在 appealed 和 for 之间，说明呼吁刊登在《泰晤士报》上。dated 是过去分词作前置定语，意为“注明日期的”。\n③eliciting worldwide replies 是现在分词短语作结果状语，按视频说明补充说明结果：呼吁发出后，引来了世界各地的回应。worldwide 在这里是形容词，作 replies 的前置定语。\n④分句二的主干是 the Society's 1888 report tied the glow to Krakatoa：the Society's 是名词所有格，指上文的 Royal Society，1888 是年份作前置定语，修饰 report；tie A to B 意为“把 A 与 B 联系起来”，视频译为“把……归于”。the glow 回指第12句的 crimson sunsets，即异常的红色霞光。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "动词与搭配介词之间插入状语",
+    "explain": "动词和与它搭配的介词短语之间，有时会插入地点、时间、方式等状语，如 appeal on television for help、apologize publicly to the victims。本句 appealed in The Times for dated observations 中，in The Times 插在 appealed 和 for 之间，appeal for 这一搭配被拆开。阅读时要能越过插入成分，把 appealed 和 for 连起来，才能弄清皇家学会是在“征求”观测记录，而不是 in The Times for… 另有所指。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The police appealed yesterday for witnesses to come forward.",
+      "zh": "警方昨天呼吁目击者出面作证。"
+     },
+     {
+      "en": "The charity appealed on national radio for blankets and warm clothing.",
+      "zh": "这家慈善机构在全国广播中呼吁捐赠毯子和保暖衣物。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格与年份共同作前置定语",
+    "explain": "英语名词前可以有多个前置定语，名词所有格或限定词放在最前面，年份、数量等其他修饰语放在后面，再接中心名词，如 the company's 2023 annual report、the city's first female mayor。本句 the Society's 1888 report 中，the Society's 表示所属，1888 说明报告发表的年份，视频译为“学会1888年发表的报告”，增补了“发表的”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company's 2023 annual report showed a sharp rise in overseas sales.",
+      "zh": "该公司2023年的年度报告显示海外销售额大幅增长。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作结果状语，逻辑主语是整个动作",
+    "explain": "句末的现在分词短语表示结果时，逻辑主语既可以是主句主语，也可以理解为主句所述的整个行为。本句 eliciting worldwide replies 的意思是：皇家学会在报上发出呼吁，这一行为引来了世界各地的回应。翻译时按先因后果的顺序译成后续分句。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The minister's remarks were widely reported, provoking angry protests from teachers.",
+      "zh": "这位部长的言论被广泛报道，引起了教师们的愤怒抗议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Royal Society",
+    "explain": "英国皇家学会，1660年成立，是英国的国家科学院。本句 Britain's Royal Society 视频译为“英国皇家学会”，下文 the Society 是它的简称，译为“学会”。"
+   },
+   {
+    "term": "The Times",
+    "explain": "《泰晤士报》，英国的全国性日报，报名中的 The 是名称的一部分，所以首字母大写。中文书刊名加书名号，英文报刊名一般用斜体。"
+   },
+   {
+    "term": "appeal for",
+    "explain": "呼吁，恳求，征求，如 appeal for help、appeal for calm（呼吁保持冷静）。appeal 还有“上诉”和“吸引”的意思：appeal against a decision（对判决提出上诉），appeal to sb（吸引某人）。"
+   },
+   {
+    "term": "elicit 与 solicit",
+    "explain": "elicit 意为“引出，探出（回应、信息等）”，如 elicit a response；solicit 意为“征求，恳求”，如 solicit opinions。本句皇家学会主动征集观测记录用的是 appealed for，回应是被“引出”来的，所以用 eliciting，视频译为“引起了”。"
+   },
+   {
+    "term": "tie A to B",
+    "explain": "把 A 与 B 联系起来，常用于证明某事与某原因或某人有关，被动形式 be tied to 意为“与……有关”，如 Wages are tied to performance（工资与业绩挂钩）。本句视频译为“把这片红霞归于喀拉喀托火山”。"
+   }
+  ],
+  "translation_tip": "视频译文“1884年2月，英国皇家学会发出呼吁，在《泰晤士报》上征集注明日期的观测记录，引起了世界各地的回应；学会1888年发表的报告把这片红霞归于喀拉喀托火山。”的处理：①appealed… for 拆成两个动作，appealed 译为“发出呼吁”，for 译为“征集”，插入的 in The Times 放在“征集”前，译成“在《泰晤士报》上”。②dated 前置为“注明日期的”，observations 增译为“观测记录”。③现在分词短语译成后续分句“引起了世界各地的回应”。④保留分号；the Society's 1888 report 增补“发表的”，译成“学会1888年发表的报告”；tie A to B 用“把……归于”译出；the glow 根据上文译为“这片红霞”；Krakatoa 增译“火山”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "far-flung observers",
+   "predicate": "began",
+   "object_or_complement": "to glimpse how interconnected the planet already was（不定式短语作宾语）",
+   "explain": "主干是 far-flung observers began to glimpse…，主谓宾结构，不定式短语 to glimpse… 作 began 的宾语，how 引导的宾语从句又作 glimpse 的宾语。谓语 began 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Through barometers, cables, and crimson skies,",
+    "role": "方式状语（介词短语，through 后接三个并列宾语）",
+    "zh": "借助气压计、电缆和深红色的天空"
+   },
+   {
+    "text": "far-flung observers",
+    "role": "主语",
+    "zh": "相隔遥远的观察者们"
+   },
+   {
+    "text": "began",
+    "role": "谓语",
+    "zh": "开始"
+   },
+   {
+    "text": "to glimpse",
+    "role": "宾语（动词不定式，begin to do）",
+    "zh": "认识到"
+   },
+   {
+    "text": "how interconnected the planet already was.",
+    "role": "宾语从句（how 引导），作 glimpse 的宾语",
+    "zh": "这颗星球上的各个地方早已相互关联在一起"
+   }
+  ],
+  "structure": "①主句是 far-flung observers began to glimpse…：主语 far-flung observers，谓语 began，不定式 to glimpse 作 began 的宾语。\n②句首 Through barometers, cables, and crimson skies 是介词短语作方式状语，through 意为“通过，借助”，后接三个并列宾语，A, B, and C 的格式中 and 前有牛津逗号。三项分别呼应全文：气压计记录压力波（第3句），电缆传递电报（第8句），深红色的天空即晚霞（第12句）。\n③how interconnected the planet already was 是 how 引导的宾语从句，按视频说明作 glimpse 的宾语，语序为“how + 形容词 + 主语 + 谓语”：how 修饰形容词 interconnected，表示程度，从句主语 the planet，系动词 was，用陈述语序，不能写成 how interconnected was the planet。\n④already 放在 was 前，强调早在1883年，地球各地就已经紧密相连；the planet 指地球，是 the Earth 的同义替换。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "how + 形容词引导宾语从句，用陈述语序",
+    "explain": "how 引导宾语从句时，可以直接修饰形容词或副词，构成“how + 形容词/副词 + 主语 + 谓语”，表示“多么……”“……到什么程度”。宾语从句一律用陈述语序，不能把系动词提到主语前。本句 how interconnected the planet already was 中，how 修饰 interconnected，从句主语 the planet，谓语 was。考研写作中常用这一结构表达“认识到……有多重要”，如 realize how important it is to…。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Few people realize how expensive it is to maintain a historic building.",
+      "zh": "很少有人意识到维护一座历史建筑要花多少钱。"
+     },
+     {
+      "en": "The survey revealed how little most adults know about managing their money.",
+      "zh": "这项调查揭示出大多数成年人对理财知之甚少。"
+     }
+    ]
+   },
+   {
+    "title": "三项并列与牛津逗号",
+    "explain": "三项及以上并列时，英语写成 A, B, and C，最后一项前用 and 或 or，and 前的逗号叫牛津逗号（serial comma）。本句 barometers, cables, and crimson skies 就是这种格式。汉语并列时用顿号，最后两项之间用“和”，所以视频译为“气压计、电缆和深红色的天空”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum's collection includes paintings, sculptures, and rare manuscripts.",
+      "zh": "这座博物馆的藏品包括绘画、雕塑和珍稀手稿。"
+     }
+    ]
+   },
+   {
+    "title": "begin to do 与 begin doing",
+    "explain": "begin 后接不定式或动名词作宾语，意思基本相同。本句用 began to glimpse，第9句用 began chronicling，两种形式都可以。一些情况下倾向用不定式：begin 本身是进行时（如 It is beginning to rain），或后接 know、understand、realize 等表示认识、心理状态的动词，如 began to understand。本句 glimpse 在此表示认识，用不定式很自然。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Only after the crisis did economists begin to understand how fragile the system was.",
+      "zh": "直到危机过后，经济学家才开始明白这个体系有多脆弱。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "far-flung",
+    "explain": "形容词，意为“遥远的，分布广的”，如 far-flung corners of the world（世界的偏远角落）、a far-flung empire（疆域辽阔的帝国）。本句 far-flung observers 指分散在世界各地、彼此相隔很远的观察者，视频译为“相隔遥远的观察者们”。"
+   },
+   {
+    "term": "glimpse",
+    "explain": "本义是“瞥见，看一眼”，名词短语 catch a glimpse of sth 意为“瞥见某物”；引申为“隐约看出，初步认识到”。本句视频译为“认识到”，指观察者们从各种现象中意识到全球的联系。"
+   },
+   {
+    "term": "interconnected",
+    "explain": "形容词，意为“相互联系的，相互关联的”，由前缀 inter-（相互，在……之间）加 connected 构成，如 an interconnected world。本句视频译为“相互关联”。"
+   },
+   {
+    "term": "through",
+    "explain": "介词 through 除表示“穿过”，还可表示手段、媒介，意为“通过，借助”，如 learn through experience（从经验中学习）。本句视频译为“借助”。"
+   },
+   {
+    "term": "the planet",
+    "explain": "本句指地球，是 the Earth 的同义替换，新闻和科普文章中常用 the planet 指地球，避免重复。"
+   }
+  ],
+  "translation_tip": "视频译文“借助气压计、电缆和深红色的天空，相隔遥远的观察者们开始认识到，这颗星球上的各个地方早已相互关联在一起。”的处理：①Through 译为“借助”，三项并列用顿号和“和”连接。②far-flung 译为“相隔遥远的”，observers 加“们”表示复数。③glimpse 后加逗号，引出宾语从句。④how 从句增补“上的各个地方”，把相互关联的主体具体化，译成“这颗星球上的各个地方早已相互关联在一起”；already 译为“早已”。"
+ }
+]

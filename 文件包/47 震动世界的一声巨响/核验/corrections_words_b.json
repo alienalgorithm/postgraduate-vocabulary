@@ -1,0 +1,16 @@
+[
+ {
+  "key": "35",
+  "field": "senses[1].zh",
+  "before": "简短生硬的，草率的",
+  "after": "简短生硬的，唐突的",
+  "reason": "terse 指简短而生硬、唐突，没有“草率（粗心）”的意思。"
+ },
+ {
+  "key": "42",
+  "field": "collocations[heat haze].zh",
+  "before": "热霾（热空气造成的视线模糊）",
+  "after": "（烈日下）热气蒸腾造成的视线模糊",
+  "reason": "heat haze 是热空气使景物晃动模糊的现象，与“霾”无关，“热霾”不是通行译法。"
+ }
+]
