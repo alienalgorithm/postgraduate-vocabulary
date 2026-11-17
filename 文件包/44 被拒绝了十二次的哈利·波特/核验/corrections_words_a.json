@@ -1,0 +1,37 @@
+[
+ {
+  "key": 3,
+  "field": "senses[2].zh",
+  "before": "企图作……的",
+  "after": "企图做……的",
+  "reason": "错别字：“作”应为“做”"
+ },
+ {
+  "key": 5,
+  "field": "context_usage",
+  "before": "unexpectedly 是方式状语",
+  "after": "unexpectedly 是状语",
+  "reason": "unexpectedly 说明的是事情出乎意料，并非动作的方式，不宜称方式状语，与逐句精讲统一"
+ },
+ {
+  "key": 9,
+  "field": "etymology",
+  "before": "grief 字面上就是“心头沉重”。",
+  "after": "grief 由“使沉重”引申为“痛苦，悲伤”。",
+  "reason": "“字面上就是心头沉重”是无据的发挥，改为 Etymonline 可证实的词义发展"
+ },
+ {
+  "key": 27,
+  "field": "etymology",
+  "before": "“推销，推介”一义在20世纪才流行起来。",
+  "after": "“推销，推介”是较晚产生的引申义。",
+  "reason": "“20世纪才流行起来”的具体年代无法核实，改为稳妥说法"
+ },
+ {
+  "key": 30,
+  "field": "context_usage",
+  "before": "by twelve publishers 引出施动者",
+  "after": "by twelve publishers 引出动作的执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ }
+]

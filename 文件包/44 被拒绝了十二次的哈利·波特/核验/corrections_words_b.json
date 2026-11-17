@@ -1,0 +1,58 @@
+[
+ {
+  "key": 31,
+  "field": "context_usage",
+  "before": "位于施动者 by twelve publishers 之后",
+  "after": "位于动作执行者 by twelve publishers 之后",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 34,
+  "field": "etymology",
+  "before": "字面义“新来的人”，中古英语后期已有用例。",
+  "after": "字面义“新来的人”。",
+  "reason": "“中古英语后期已有用例”的年代无法证实，删去"
+ },
+ {
+  "key": 39,
+  "field": "collocations[listen eagerly].zh",
+  "before": "专注地听",
+  "after": "热切地倾听",
+  "reason": "eagerly 意为“热切地”，“专注地”不是其义项"
+ },
+ {
+  "key": 49,
+  "field": "distinction",
+  "before": "pen name 专指笔名，较口语",
+  "after": "pen name 专指作家的笔名，不用于其他场合的化名",
+  "reason": "pen name 在 Oxford/Cambridge 中并无口语标注，“较口语”不准确"
+ },
+ {
+  "key": 52,
+  "field": "context_usage",
+  "before": "这个细节说明首印中真正进入书店的数量更少。",
+  "after": "这个细节说明首印中留给其他渠道的只有200册。",
+  "reason": "原文没有交代其余册数的去向，“真正进入书店”属推测，改为可由原文数字直接得出的说法"
+ },
+ {
+  "key": 55,
+  "field": "senses[3].pos",
+  "before": "adj.",
+  "after": "n.（作定语）",
+  "reason": "Oxford 只收 spin-off 为名词，本文是名词作定语（与 form_note 一致），不应标为形容词"
+ },
+ {
+  "key": 56,
+  "field": "etymology",
+  "before": "16世纪起引申为“体积，大小”",
+  "after": "16世纪起由书的篇幅引申为“大小”，17世纪起泛指“体积”",
+  "reason": "Etymonline：16世纪20年代指书的篇幅大小，17世纪20年代才泛指体积，原表述年代不准"
+ },
+ {
+  "key": 59,
+  "field": "context_usage",
+  "before": "by millions 引出施动者",
+  "after": "by millions 引出动作的执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ }
+]

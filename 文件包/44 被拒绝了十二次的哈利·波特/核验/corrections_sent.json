@@ -1,0 +1,121 @@
+[
+ {
+  "key": 1,
+  "field": "trunk.explain",
+  "before": "by the inspiration for Harry Potter 引出施动者",
+  "after": "by the inspiration for Harry Potter 引出动作的执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 1,
+  "field": "components[5].role",
+  "before": "unexpectedly 是插在助动词和过去分词之间的方式状语",
+  "after": "unexpectedly 是插在助动词和过去分词之间的状语，说明事情出乎意料",
+  "reason": "unexpectedly 说明的是事情出乎意料，并非动作的方式，不宜称方式状语"
+ },
+ {
+  "key": 1,
+  "field": "components[6].role",
+  "before": "施动者（by 引出的介词短语），与 struck 构成 be struck by",
+  "after": "介词短语，by 引出 struck 的动作执行者，与 struck 构成 be struck by",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 1,
+  "field": "knowledge[3].explain",
+  "before": "第11、12句交代了笔名中两个首字母的由来",
+  "after": "第11、12句交代了出版方采用首字母署名的原因和其中 K 的由来",
+  "reason": "原文只交代了用首字母的原因和 K 的来历，没有交代 J 的由来，原说法不准确"
+ },
+ {
+  "key": 8,
+  "field": "trunk.explain",
+  "before": "by twelve publishers 引出施动者",
+  "after": "by twelve publishers 引出动作的执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 8,
+  "field": "components[2].role",
+  "before": "施动者（by 引出的介词短语）",
+  "after": "介词短语，by 引出 rejected 的动作执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 8,
+  "field": "structure",
+  "before": "by twelve publishers 引出施动者",
+  "after": "by twelve publishers 引出动作的执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 10,
+  "field": "knowledge[1].explain",
+  "before": "意为“公司，商行”，多指规模不太大的企业，也常指律师事务所、会计师事务所等",
+  "after": "意为“公司，商行”，也常指提供专业服务的事务所，如律师事务所、会计师事务所",
+  "reason": "Oxford/Cambridge 释义为 a business or company，并无“多指规模不太大的企业”之说，删去无据内容"
+ },
+ {
+  "key": 12,
+  "field": "knowledge[1].explain",
+  "before": "pen name 也指笔名，较口语化。",
+  "after": "pen name 专指作家的笔名，pseudonym 还可泛指其他场合使用的化名。",
+  "reason": "pen name 在 Oxford/Cambridge 中并无口语标注，“较口语化”不准确，改为两词的实际区别"
+ },
+ {
+  "key": 12,
+  "field": "knowledge[2].explain",
+  "before": "所以 J.K. 并不是她真实的名字缩写。",
+  "after": "所以 J.K. 中只有 J 是她本名的首字母，K 并非来自她自己的名字。",
+  "reason": "J 确实是她本名 Joanne 的首字母，原说法“J.K. 并不是她真实的名字缩写”以偏概全"
+ },
+ {
+  "key": 13,
+  "field": "grammar[2].title",
+  "before": "省略施动者的被动语态",
+  "after": "省略动作执行者的被动语态",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 16,
+  "field": "trunk.explain",
+  "before": "by millions 引出施动者",
+  "after": "by millions 引出动作的执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 16,
+  "field": "components[2].role",
+  "before": "施动者（by 引出的介词短语，millions 指数百万人）",
+  "after": "介词短语，by 引出 shared 的动作执行者，millions 指数百万人",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 16,
+  "field": "structure",
+  "before": "by millions 引出施动者",
+  "after": "by millions 引出动作的执行者",
+  "reason": "“施动者”不是国内考研通行的语法术语，改为“动作的执行者”"
+ },
+ {
+  "key": 16,
+  "field": "structure",
+  "before": "与第9句首尾呼应",
+  "after": "与第9句前后呼应",
+  "reason": "第9句位于文章中部，并非开头，称“首尾呼应”不准确，改为“前后呼应”"
+ },
+ {
+  "key": 16,
+  "field": "knowledge[2].term",
+  "before": "首尾呼应",
+  "after": "前后呼应",
+  "reason": "第9句位于文章中部，并非开头，称“首尾呼应”不准确"
+ },
+ {
+  "key": 16,
+  "field": "knowledge[2].explain",
+  "before": "结构上首尾呼应",
+  "after": "结构上前后呼应",
+  "reason": "第9句位于文章中部，并非开头，称“首尾呼应”不准确"
+ }
+]
