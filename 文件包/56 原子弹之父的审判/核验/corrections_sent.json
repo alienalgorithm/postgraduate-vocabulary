@@ -1,0 +1,44 @@
+[
+ {
+  "key": "n=2",
+  "field": "grammar[1].examples[1]",
+  "before": "The discovery of penicillin transformed the treatment of infections. / 青霉素的发现彻底改变了感染的治疗方式。",
+  "after": "The sudden resignation of the chairman unsettled investors. / 董事长突然辞职，令投资者感到不安。",
+  "reason": "该语法点讲 of 引出动作的执行者，原例句 the discovery of penicillin 中 penicillin 是被发现的对象（逻辑宾语），不能示范本语法点；换成 of 引出执行者的例句（the chairman 是 resign 的主体）。"
+ },
+ {
+  "key": "n=2",
+  "field": "grammar[2].explain",
+  "before": "这种结构放在名词前作定语时，用连字符连成一个复合形容词，具体数字后的名词不用复数；本句 thousands 是概数，用复数形式，写成 thousands-strong。也可以把 strong 放在名词后作后置说明，如 an army 10,000 strong。",
+  "after": "这种结构放在名词前作定语时，用连字符连成一个复合形容词；用具体数字时数字后不加 s，如 a 5,000-strong army，用概数时写成复数形式，本句即 thousands-strong，意为“数千人规模的”。也可以把“数词 + strong”放在名词后作后置说明，如 an army 10,000 strong（一支一万人的军队）。",
+  "reason": "原句“具体数字后的名词不用复数”说法不成立（这一结构里数字后并没有名词），改为准确说明具体数字与概数的写法，并补出后置用法的中文。"
+ },
+ {
+  "key": "n=4",
+  "field": "structure",
+  "before": "谓语 numbered 是不及物动词，意为“总数达到”，后接数量 well over 100,000 and about 70,000。",
+  "after": "谓语 numbered 意为“总数达到”，后面直接接表示数量的 well over 100,000 and about 70,000。",
+  "reason": "number 表“总数达到”时 Oxford、Cambridge 标为连系动词，Merriam-Webster 列在及物动词下，说成“不及物动词”不准确，删去这一定性。"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar[2].title",
+  "before": "number 作不及物动词表示“总数达到”",
+  "after": "number 作动词表示“总数达到”",
+  "reason": "同上，number 表“总数达到”时不宜称为不及物动词（Oxford、Cambridge 标为连系动词）。"
+ },
+ {
+  "key": "n=4",
+  "field": "grammar[2].explain",
+  "before": "number 也可作及物动词表示“给……编号”，如 number the pages。",
+  "after": "number 还可表示“给……编号”，如 number the pages。",
+  "reason": "与标题修改配套，去掉“也可作及物动词”这一隐含前一用法为不及物的说法。"
+ },
+ {
+  "key": "n=5",
+  "field": "grammar[1].explain",
+  "before": "翻译时 's 一般不译“的”，直接把地名和机构名连写。",
+  "after": "翻译时可以译成“……的”，如 the city's main library 译为“该市的主图书馆”；后接机构正式名称时，常直接把地名和机构名连写，如本句译为“普林斯顿高等研究院”。",
+  "reason": "原说法“'s 一般不译‘的’”与所给例句译文“该市的主图书馆”自相矛盾，改为分情况说明。"
+ }
+]

@@ -1,0 +1,1403 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "J. Robert Oppenheimer",
+   "predicate": "was",
+   "object_or_complement": "an accomplished physicist and prominent lecturer",
+   "explain": "主干是 J. Robert Oppenheimer was an accomplished physicist and prominent lecturer，主系表结构，表语是 and 连接的两个名词短语，共用一个不定冠词 an，指同一个人的两种身份。谓语 was 为一般过去时，叙述人物过去的身份。"
+  },
+  "components": [
+   {
+    "text": "J. Robert Oppenheimer,",
+    "role": "主语（人名）",
+    "zh": "J·罗伯特·奥本海默"
+   },
+   {
+    "text": "born in New York on 22 April 1904,",
+    "role": "过去分词短语，插在主语和谓语之间，补充说明 Oppenheimer（相当于 who was born…）",
+    "zh": "1904年4月22日生于纽约"
+   },
+   {
+    "text": "was",
+    "role": "系动词",
+    "zh": "是"
+   },
+   {
+    "text": "an accomplished physicist",
+    "role": "表语一（名词短语）",
+    "zh": "一位卓有成就的物理学家"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个表语",
+    "zh": "也是"
+   },
+   {
+    "text": "prominent lecturer",
+    "role": "表语二（名词短语，与 physicist 共用不定冠词 an）",
+    "zh": "知名讲师"
+   },
+   {
+    "text": "at Berkeley and Caltech.",
+    "role": "后置定语（介词短语），修饰 lecturer",
+    "zh": "伯克利和加州理工学院的"
+   }
+  ],
+  "structure": "①主句是 J. Robert Oppenheimer was an accomplished physicist and prominent lecturer：主语是人名，was 是系动词，后面是两个并列的表语，说明他的两种身份。\n②born in New York on 22 April 1904 是过去分词短语，用两个逗号隔开，插在主语和谓语之间，补充说明 Oppenheimer 的出生时间和地点（视频说明），相当于非限制性定语从句 who was born in New York on 22 April 1904。born 是 bear 的过去分词，“出生”在英语中固定用被动形式 be born。短语内部 in New York 表示地点，on 22 April 1904 表示时间，具体日期前用介词 on。\n③表语由 and 连接：an accomplished physicist 和 prominent lecturer。第二个名词短语前没有再写 an，两个名词共用一个冠词，表示指同一个人，即奥本海默既是物理学家，又是讲师。accomplished 和 prominent 分别作 physicist 和 lecturer 的前置定语。\n④at Berkeley and Caltech 是介词短语作后置定语，修饰 lecturer（视频说明），说明他在哪里任教；Berkeley 和 Caltech 都是大学名称的简称。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语插在主谓之间作补充说明",
+    "explain": "过去分词短语可以用一对逗号隔开，插在主语和谓语之间，对主语作补充说明，作用相当于一个非限制性定语从句。本句 born in New York on 22 April 1904 补充 Oppenheimer 的出生信息，可以还原为 who was born in New York on 22 April 1904。过去分词表示被动或完成，与主语是逻辑上的动宾关系，“出生”在英语里是被动概念，所以用 born，不能写成 bearing。阅读长难句时，主语后面先出现逗号和分词短语，要跳过这一插入部分去找真正的谓语，本句的谓语是后面的 was。写作中介绍人物生平时，“姓名, born in 地点 in/on 时间, 谓语……”是常用句式。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The bridge, completed in 1932, still carries thousands of vehicles every day.",
+      "zh": "这座桥于1932年建成，至今每天仍有数千辆车通行。"
+     },
+     {
+      "en": "The report, published only last week, has already prompted calls for reform.",
+      "zh": "这份报告上周才发布，就已经引发了改革的呼声。"
+     }
+    ]
+   },
+   {
+    "title": "and 连接的两个名词共用一个冠词",
+    "explain": "两个单数名词用 and 连接，只在第一个名词前用一次冠词时，通常指同一个人或物同时具有两种身份或属性，作主语时谓语用单数；如果每个名词前都有冠词，则指两个不同的人或物，谓语用复数。本句 an accomplished physicist and prominent lecturer 只有一个 an，说明物理学家和讲师是奥本海默一个人的两种身份。考研阅读中据此判断说的是一个人还是两个人；写作中要分清 the editor and publisher（一个人兼任编辑和出版人）与 the editor and the publisher（两个人）。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The director and producer of the film was present at the screening.",
+      "zh": "这部影片的导演兼制片人出席了放映会。"
+     },
+     {
+      "en": "The director and the producer of the film were both present at the screening.",
+      "zh": "这部影片的导演和制片人都出席了放映会。"
+     }
+    ]
+   },
+   {
+    "title": "日期的英式写法与介词 on",
+    "explain": "英式英语日期通常按“日、月、年”的顺序书写，如 22 April 1904，读作 the twenty-second of April, nineteen oh four；美式英语多写作 April 22, 1904。具体到某一天的日期前用介词 on，只有月份或年份时用 in，如 in April 1904、in 1904。本文通篇采用英式写法，如 16 July 1945、29 June 1954。汉语按“年、月、日”由大到小排列，翻译时要调换顺序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new terminal is scheduled to open on 1 September 2027.",
+      "zh": "新航站楼计划于2027年9月1日启用。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "J. Robert Oppenheimer",
+    "explain": "美国理论物理学家，通常被称为“原子弹之父”，本文标题 The Trial of the Father of the Atomic Bomb 即指他。J. 是名字首字母的缩写，英文人名可以只写首字母；中文译名用间隔号“·”隔开名和姓，所以视频译为“J·罗伯特·奥本海默”。"
+   },
+   {
+    "term": "Berkeley and Caltech",
+    "explain": "Berkeley 指加利福尼亚大学伯克利分校（University of California, Berkeley）；Caltech 是加州理工学院（California Institute of Technology）的简称。奥本海默在20世纪30年代同时在这两所学校任教。视频译为“伯克利和加州理工学院”。"
+   },
+   {
+    "term": "be born in/on",
+    "explain": "“出生”在英语中用被动形式 be born，后接地点用 in，接具体日期用 on，接年份用 in，如 She was born in Shanghai on 3 May 2001。born 也常构成复合形容词，如 American-born（美国出生的）、newborn（新生的）。"
+   },
+   {
+    "term": "accomplished 与 prominent",
+    "explain": "accomplished 指在某一领域技艺高超、有成就，如 an accomplished pianist；prominent 指在社会上有名望、地位重要，如 a prominent scientist。两者在本句分别修饰 physicist 和 lecturer，视频译为“卓有成就的”和“知名”。"
+   }
+  ],
+  "translation_tip": "视频译文“J·罗伯特·奥本海默1904年4月22日生于纽约，是一位卓有成就的物理学家，也是伯克利和加州理工学院的知名讲师。”做了这几处处理：①过去分词短语 born in New York on 22 April 1904 不单独成句，紧接主语译为“1904年4月22日生于纽约”，时间在前、地点在后，日期按汉语“年月日”的顺序排列。②两个并列表语拆成两个分句“是一位……，也是……”，and 译为“也是”，用“也”点明是同一个人的两种身份；不定冠词 an 译为“一位”。③后置定语 at Berkeley and Caltech 前置，译为“伯克利和加州理工学院的”，放在“知名讲师”之前。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "he",
+   "predicate": "oversaw",
+   "object_or_complement": "a secretive weapons installation",
+   "explain": "主干是 he oversaw a secretive weapons installation，主谓宾结构。谓语 oversaw 是 oversee 的过去式，一般过去时，主动语态；句首 From April 1943 交代他从何时开始主管这处设施。"
+  },
+  "components": [
+   {
+    "text": "From April 1943",
+    "role": "时间状语（介词短语，表示起始时间）",
+    "zh": "从1943年4月起"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "oversaw",
+    "role": "谓语",
+    "zh": "主管"
+   },
+   {
+    "text": "a secretive weapons installation",
+    "role": "宾语（secretive 和名词 weapons 都作 installation 的前置定语）",
+    "zh": "一处秘密的武器设施"
+   },
+   {
+    "text": "at Los Alamos,",
+    "role": "后置定语（介词短语），修饰 installation",
+    "zh": "洛斯阿拉莫斯的"
+   },
+   {
+    "text": "whose bombs were the collaborative creation of a thousands-strong workforce.",
+    "role": "非限制性定语从句，修饰 installation",
+    "zh": "这里的炸弹是数千人的劳动力共同协作的创造成果"
+   }
+  ],
+  "structure": "①主句是 he oversaw a secretive weapons installation at Los Alamos：主语 he，谓语 oversaw，宾语中心词是 installation。From April 1943 是句首时间状语，from 表示起点，说明他从那时起开始主管。\n②宾语 a secretive weapons installation at Los Alamos 中，secretive 是形容词作定语，weapons 是名词作定语，说明是什么用途的设施；at Los Alamos 是介词短语作后置定语，修饰 installation（视频说明），说明设施所在地。\n③whose 引导非限制性定语从句，先行词是 installation（视频说明）。whose 在从句中作定语，修饰 bombs，whose bombs 相当于 the installation's bombs，即这处设施研制的炸弹。从句是主系表结构：主语 whose bombs，系动词 were，表语 the collaborative creation of a thousands-strong workforce。\n④表语中 creation 是由动词 create 变来的名词，the creation of A 意为 A 的创造成果（视频说明），这里 of 引出的 a thousands-strong workforce 是创造者，相当于 a thousands-strong workforce created them。collaborative 修饰 creation，强调众人协作；thousands-strong 是复合形容词，修饰 workforce，说明劳动力的规模。这一从句点明炸弹不是一个人的成果，而是数千人共同完成的。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "whose 引导非限制性定语从句（先行词指物）",
+    "explain": "whose 是关系代词的所有格，在从句中作定语，后面紧跟它所修饰的名词，先行词既可以是人也可以是物。先行词指物时，whose + 名词 可以改写为 the + 名词 + of which。本句先行词是 installation，whose bombs 等于 the bombs of which，即这处设施的炸弹。逗号说明这是非限制性定语从句，对先行词作补充说明，不能换成 that。考研阅读中，whose 后面的名词才是从句的主语或宾语，不要把 whose 本身当作主语；翻译时非限制性定语从句常拆成独立的句子，用“这里的”“其”“该”等回指先行词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum, whose collection includes over two million objects, attracts visitors from around the world.",
+      "zh": "这家博物馆的藏品超过两百万件，吸引着来自世界各地的游客。"
+     },
+     {
+      "en": "The scheme, whose costs have doubled since it was launched, is now under review.",
+      "zh": "该计划自启动以来成本已翻了一番，目前正在接受审查。"
+     }
+    ]
+   },
+   {
+    "title": "名词化结构中 of 引出动作的执行者",
+    "explain": "英语常把动词转成名词，再用 of 引出与动作相关的人或物。of 后面的名词有时是动作的执行者（逻辑主语），有时是动作的对象（逻辑宾语），要根据意思判断。本句 the creation of a thousands-strong workforce 中，workforce 是创造者，意思是“数千人的劳动力创造出的成果”；而 the creation of jobs（创造就业岗位）中，jobs 是被创造的对象。考研阅读和翻译中遇到“名词 + of + 名词”，先还原成主谓或动宾关系，才能译准。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The arrival of the new manager changed the atmosphere in the office.",
+      "zh": "新经理的到来改变了办公室的氛围。"
+     },
+     {
+      "en": "The sudden resignation of the chairman unsettled investors.",
+      "zh": "董事长突然辞职，令投资者感到不安。"
+     }
+    ]
+   },
+   {
+    "title": "“数词 + strong”构成的复合形容词",
+    "explain": "strong 放在数词后，可以表示一个群体的人数规模，如 a 500-strong crowd（五百人的人群）。这种结构放在名词前作定语时，用连字符连成一个复合形容词；用具体数字时数字后不加 s，如 a 5,000-strong army，用概数时写成复数形式，本句即 thousands-strong，意为“数千人规模的”。也可以把“数词 + strong”放在名词后作后置说明，如 an army 10,000 strong（一支一万人的军队）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A 500-strong crowd gathered outside the town hall to protest against the closure.",
+      "zh": "五百人的人群聚集在市政厅外，抗议关闭一事。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Los Alamos",
+    "explain": "洛斯阿拉莫斯，位于美国新墨西哥州。1943年美国在此建立秘密实验室研制原子弹，属于曼哈顿计划（Manhattan Project）的一部分，奥本海默任实验室主任。本句的 a secretive weapons installation 即指这处设施。"
+   },
+   {
+    "term": "oversee (oversaw, overseen)",
+    "explain": "不规则动词，过去式 oversaw，过去分词 overseen。oversee 指在上面监督、主管一项工作或一个机构，如 oversee a project。视频译为“主管”。"
+   },
+   {
+    "term": "installation",
+    "explain": "熟词僻义：常见义是“安装”，这里指军事或工业用途的“设施、基地”，如 a military installation（军事设施）、a nuclear installation（核设施）。视频译为“设施”。"
+   },
+   {
+    "term": "weapons 作定语",
+    "explain": "名词作定语一般用单数，但 weapons、arms、sports 等常用复数形式作定语，如 weapons programme（武器计划）、arms control（军备控制）、a sports car（跑车）。weapons installation 即“武器设施”。"
+   }
+  ],
+  "translation_tip": "视频译文“从1943年4月起，他主管洛斯阿拉莫斯的一处秘密的武器设施；这里的炸弹是数千人的劳动力共同协作的创造成果。”的处理：①句首时间状语照原位译为“从1943年4月起”。②后置定语 at Los Alamos 前置为“洛斯阿拉莫斯的”，放在数量词“一处”之前；不定冠词 a 译为量词“一处”，与“设施”搭配。③非限制性定语从句不前置，用分号断开另起一句，用“这里的”回指 installation，对应 whose。④表语 the collaborative creation of a thousands-strong workforce 中，of 引出的创造者前置为“数千人的劳动力”，collaborative 译为“共同协作的”，creation 译为“创造成果”，按汉语“谁的、什么样的、成果”的顺序排列。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "the first nuclear test",
+   "predicate": "illuminated",
+   "object_or_complement": "the desolate New Mexico landscape",
+   "explain": "主干是 the first nuclear test illuminated the desolate New Mexico landscape，主谓宾结构。谓语 illuminated 为一般过去时，主动语态；with a blinding glare 说明照亮的方式，句尾 its explosive force roughly 20 kilotons 是独立主格结构。"
+  },
+  "components": [
+   {
+    "text": "In the pre-dawn darkness of 16 July 1945,",
+    "role": "时间状语（介词短语；of 16 July 1945 作后置定语，修饰 darkness）",
+    "zh": "1945年7月16日黎明前的黑暗中"
+   },
+   {
+    "text": "the first nuclear test",
+    "role": "主语",
+    "zh": "第一次核试验"
+   },
+   {
+    "text": "illuminated",
+    "role": "谓语",
+    "zh": "照亮了"
+   },
+   {
+    "text": "the desolate New Mexico landscape",
+    "role": "宾语（形容词 desolate 和专有名词 New Mexico 都作 landscape 的前置定语）",
+    "zh": "新墨西哥州荒凉的景观"
+   },
+   {
+    "text": "with a blinding glare,",
+    "role": "方式状语（介词短语）",
+    "zh": "以一道刺眼的强光"
+   },
+   {
+    "text": "its explosive force roughly 20 kilotons.",
+    "role": "独立主格结构（名词短语 + 名词短语，省略了 being），补充说明 test",
+    "zh": "其爆炸威力约合2万吨TNT当量"
+   }
+  ],
+  "structure": "①主句是 the first nuclear test illuminated the desolate New Mexico landscape：主语 the first nuclear test，谓语 illuminated，宾语 landscape。\n②句首 In the pre-dawn darkness of 16 July 1945 是时间状语。pre-dawn 是带前缀 pre- 的形容词，修饰 darkness；of 16 July 1945 是后置定语，修饰 darkness（视频说明），说明是哪一天黎明前的黑暗。\n③宾语 the desolate New Mexico landscape 中有两个前置定语：描述性形容词 desolate 在前，表示地点的专有名词 New Mexico 在后，名词性定语紧挨中心词 landscape。\n④with a blinding glare 是介词短语作方式状语（视频说明），说明核试验以什么照亮了大地；blinding 是现在分词转化来的形容词，修饰 glare。\n⑤its explosive force roughly 20 kilotons 是独立主格结构（视频说明），补充说明 test。its explosive force 是逻辑主语，its 指 the first nuclear test；roughly 20 kilotons 是名词短语，说明威力的大小；两者之间省略了 being，可以补全为 its explosive force being roughly 20 kilotons，意思相当于 and its explosive force was roughly 20 kilotons。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "独立主格结构（名词 + 名词短语）",
+    "explain": "独立主格结构由逻辑主语（名词或代词）加上分词、形容词、副词、介词短语或名词短语构成，它的逻辑主语与主句主语不同，本身没有谓语动词，不能单独成句，在句中作状语或补充说明。本句 its explosive force roughly 20 kilotons 中，逻辑主语是 its explosive force，后接名词短语 roughly 20 kilotons，中间省略了 being。因为没有谓语动词，它可以直接用逗号接在主句后面；如果写成 its explosive force was roughly 20 kilotons，就成了完整的句子，与主句之间必须加 and 或改用分号，否则就是逗号连接两个句子的错误。考研阅读中，句尾逗号后出现“名词 + 名词/形容词/分词”而没有谓语动词时，要想到独立主格结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company employs about 300 people, the majority of them women.",
+      "zh": "该公司雇用了约300人，其中大多数是女性。"
+     },
+     {
+      "en": "The meeting ended at noon, most of the key issues still unresolved.",
+      "zh": "会议于中午结束，大部分关键问题仍未解决。"
+     }
+    ]
+   },
+   {
+    "title": "介词 with 表示方式",
+    "explain": "with + 名词 可以作方式状语，表示“用、以、带着”，说明动作借助什么或以什么样子进行。本句 with a blinding glare 说明核试验是用一道刺眼的强光照亮了大地。翻译时通常把这类状语放到谓语前，译成“以……”“用……”。注意区分 with 表示工具或方式与 by 表示手段：by 后多接动名词或交通方式等，如 by train、by working harder。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city greeted the returning athletes with a spectacular fireworks display.",
+      "zh": "这座城市以一场壮观的烟花表演迎接归来的运动员。"
+     }
+    ]
+   },
+   {
+    "title": "多个前置定语的排列顺序",
+    "explain": "名词前有多个定语时，一般是描述性形容词在前，表示地点、材料、用途的名词性定语在后，紧挨中心词。本句 the desolate New Mexico landscape 中，desolate 描述景观的特点，New Mexico 说明景观所在地，所以 desolate 在前。汉语习惯把地点放在最前面，视频译为“新墨西哥州荒凉的景观”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "We spent a week in a quiet Paris suburb.",
+      "zh": "我们在巴黎一处安静的郊区住了一周。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the first nuclear test",
+    "explain": "指1945年7月16日美国在新墨西哥州进行的“三位一体”核试验（Trinity test），是人类第一次核爆炸试验，试验的正是洛斯阿拉莫斯研制的原子弹。"
+   },
+   {
+    "term": "kiloton",
+    "explain": "千吨（TNT当量），衡量核爆炸威力的单位，1 kiloton 相当于1000吨TNT炸药爆炸释放的能量；更大的单位是 megaton（百万吨）。20 kilotons 即2万吨TNT当量，视频译为“约合2万吨TNT当量”。"
+   },
+   {
+    "term": "pre-dawn",
+    "explain": "前缀 pre- 表示“在……之前”，pre-dawn 即“黎明前的”；同类词有 pre-war（战前的）、pre-election（选举前的）。the pre-dawn darkness 即黎明前的黑暗。"
+   },
+   {
+    "term": "blinding glare",
+    "explain": "glare 指刺眼的强光，也可作动词表示“怒视”，如 glare at sb；blinding 意为“耀眼得让人睁不开眼的”。视频将 a blinding glare 译为“一道刺眼的强光”。"
+   },
+   {
+    "term": "roughly",
+    "explain": "副词，意为“大约”，相当于 approximately、about，常放在数字前，如 roughly 20 kilotons。视频译为“约合”。"
+   }
+  ],
+  "translation_tip": "视频译文“1945年7月16日黎明前的黑暗中，第一次核试验以一道刺眼的强光照亮了新墨西哥州荒凉的景观，其爆炸威力约合2万吨TNT当量。”的处理：①时间状语中的后置定语 of 16 July 1945 前置，译为“1945年7月16日黎明前的黑暗中”。②方式状语 with a blinding glare 从句尾移到谓语前，译为“以一道刺眼的强光照亮了”，符合汉语状语在动词前的习惯，不定冠词 a 译为量词“一道”。③宾语的两个定语调整语序，地名在前，译为“新墨西哥州荒凉的景观”，New Mexico 增译“州”。④独立主格结构单独译成分句，its 译为“其”，roughly 译为“约合”，20 kilotons 换算成“2万吨TNT当量”，便于中文读者理解。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "atomic bombings",
+   "predicate": "devastated",
+   "object_or_complement": "Hiroshima and Nagasaki",
+   "explain": "主干是 atomic bombings devastated Hiroshima and Nagasaki，主谓宾结构，宾语是两个并列的城市名。谓语 devastated 为一般过去时，主动语态；后面由 where 引导非限制性定语从句补充死亡人数。"
+  },
+  "components": [
+   {
+    "text": "On 6 and 9 August 1945",
+    "role": "时间状语（介词短语，两个日期共用 August 1945）",
+    "zh": "1945年8月6日和9日"
+   },
+   {
+    "text": "atomic bombings",
+    "role": "主语",
+    "zh": "原子弹轰炸"
+   },
+   {
+    "text": "devastated",
+    "role": "谓语",
+    "zh": "摧毁了"
+   },
+   {
+    "text": "Hiroshima and Nagasaki,",
+    "role": "宾语（两个并列的城市名）",
+    "zh": "广岛和长崎"
+   },
+   {
+    "text": "where year-end fatalities numbered well over 100,000 and about 70,000 respectively.",
+    "role": "非限制性定语从句，修饰 Hiroshima and Nagasaki",
+    "zh": "在这两地，年底的死亡人数分别达到了远超十万和约七万"
+   }
+  ],
+  "structure": "①主句是 atomic bombings devastated Hiroshima and Nagasaki：主语 atomic bombings 用零冠词复数，指两次原子弹轰炸；谓语 devastated；宾语是 Hiroshima and Nagasaki。句首 On 6 and 9 August 1945 是时间状语，两个日期共用 August 1945，与两次轰炸、两座城市一一对应。\n②where 引导非限制性定语从句，先行词是 Hiroshima and Nagasaki（视频说明）。where 是关系副词，在从句中作地点状语，相当于 in which，即 in these two cities。\n③从句主语是 year-end fatalities，year-end 作定语，指截至当年年底的死亡人数；谓语 numbered 意为“总数达到”，后面直接接表示数量的 well over 100,000 and about 70,000。well 修饰介词 over，表示“远远超过”；about 表示“大约”。\n④respectively 放在句末，表示前后两组并列项按顺序分别对应（视频说明：A and B respectively：分别是 A 和 B）：Hiroshima 对应 well over 100,000，Nagasaki 对应 about 70,000。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "where 引导非限制性定语从句",
+    "explain": "where 是关系副词，先行词表示地点，where 在从句中作地点状语，相当于 in which 或 at which。前面有逗号时是非限制性定语从句，对先行词作补充说明。本句 where 指 Hiroshima and Nagasaki，从句说明这两地的死亡人数。考研易错点：先行词是地点，并不一定用 where，要看关系词在从句中作什么成分；如果从句缺主语或宾语，就要用 which 或 that，如 the city which I visited last year 中 visited 缺宾语，不能用 where。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The delegates then travelled to Geneva, where the talks were due to resume.",
+      "zh": "代表们随后前往日内瓦，会谈预定在那里恢复。"
+     },
+     {
+      "en": "Most of the workers live in nearby villages, where housing is much cheaper.",
+      "zh": "大多数工人住在附近的村子里，那里的住房便宜得多。"
+     }
+    ]
+   },
+   {
+    "title": "respectively 表示“分别”对应",
+    "explain": "respectively 是副词，通常放在句末，表示前面列出的几项与后面列出的几项按顺序一一对应：A and B … C and D respectively，即 A 对应 C，B 对应 D。本句 Hiroshima and Nagasaki 与 well over 100,000 and about 70,000 按顺序对应。考研阅读中常出现在数据比较句里，做细节题时要按顺序对号入座，不能张冠李戴。注意与 respectfully（恭敬地）、respective（各自的，作定语）区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Sales in Europe and Asia rose by 4% and 9% respectively.",
+      "zh": "欧洲和亚洲的销售额分别增长了4%和9%。"
+     },
+     {
+      "en": "The two candidates received 52% and 45% of the vote respectively.",
+      "zh": "两位候选人分别获得了52%和45%的选票。"
+     }
+    ]
+   },
+   {
+    "title": "number 作动词表示“总数达到”",
+    "explain": "number 作动词时可以直接接数量，表示“总数为、共计”，相当于 total 或 amount to，多用于正式文体。本句 fatalities numbered well over 100,000 即“死亡人数远远超过十万”。number 还可表示“给……编号”，如 number the pages。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "By midday, the crowd outside the stadium numbered more than 20,000.",
+      "zh": "到中午时，体育场外的人群已超过两万人。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Hiroshima and Nagasaki",
+    "explain": "广岛和长崎，都是日本城市。1945年8月6日美国向广岛投下原子弹，8月9日又向长崎投下原子弹，这是人类历史上仅有的两次在战争中使用核武器。"
+   },
+   {
+    "term": "well over",
+    "explain": "well 作副词，可以修饰介词 over、above、below 等以及比较级，表示“远远、大大”，如 well over a million（远超一百万）、well above average（远高于平均水平）。视频将 well over 100,000 译为“远超十万”。"
+   },
+   {
+    "term": "devastate",
+    "explain": "动词，摧毁、彻底破坏，常用于战争、地震、洪水对城市或地区的破坏，如 a city devastated by war；被动式 be devastated 还可指人“极度震惊、悲痛”。视频译为“摧毁了”。"
+   },
+   {
+    "term": "英汉数字单位的换算",
+    "explain": "英语数字以“千”为单位分节，用逗号隔开，100,000 读作 one hundred thousand；汉语以“万”为单位，所以视频把 100,000 和 70,000 译为“十万”和“七万”。"
+   }
+  ],
+  "translation_tip": "视频译文“1945年8月6日和9日，原子弹轰炸摧毁了广岛和长崎，在这两地，年底的死亡人数分别达到了远超十万和约七万。”的处理：①两个日期按汉语习惯写成“1945年8月6日和9日”，年份和月份放在前面共用。②主句按原语序直译。③非限制性定语从句不前置，拆成独立分句，where 增译为“在这两地”，明确指两座城市。④respectively 译为“分别”，提到谓语“达到了”前面，两组数字按原顺序与广岛、长崎对应；well over 译为“远超”，about 译为“约”，数字按汉语以“万”计的习惯译成“十万”“七万”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "Oppenheimer",
+   "predicate": "left … and … presided over",
+   "object_or_complement": "Los Alamos（left 的宾语）；Princeton's Institute for Advanced Study（presided over 的宾语）",
+   "explain": "主干是一个主语带两个由 and 连接的并列谓语：Oppenheimer left Los Alamos（主谓宾）and presided over Princeton's Institute for Advanced Study（主谓宾）。两个谓语都是一般过去时，主动语态，各自带有时间状语。"
+  },
+  "components": [
+   {
+    "text": "Oppenheimer",
+    "role": "主语",
+    "zh": "奥本海默"
+   },
+   {
+    "text": "left",
+    "role": "谓语一",
+    "zh": "离开"
+   },
+   {
+    "text": "Los Alamos",
+    "role": "宾语（left 的宾语）",
+    "zh": "洛斯阿拉莫斯"
+   },
+   {
+    "text": "in October 1945",
+    "role": "时间状语（介词短语），修饰 left",
+    "zh": "1945年10月"
+   },
+   {
+    "text": "and",
+    "role": "并列连词，连接两个谓语",
+    "zh": "（并列连词，译文用分号断开，并补出主语“他”）"
+   },
+   {
+    "text": "from 1947",
+    "role": "时间状语（介词短语，表示起始时间），修饰 presided over",
+    "zh": "从1947年起"
+   },
+   {
+    "text": "presided over",
+    "role": "谓语二（动词短语 preside over）",
+    "zh": "掌管/执掌"
+   },
+   {
+    "text": "Princeton's Institute for Advanced Study.",
+    "role": "宾语（presided over 的宾语，机构名称）",
+    "zh": "普林斯顿高等研究院"
+   }
+  ],
+  "structure": "①本句是一个主语带两个并列谓语：Oppenheimer left Los Alamos in October 1945 and from 1947 presided over Princeton's Institute for Advanced Study，and 连接 left 和 presided over，两个动作一前一后。\n②第一个谓语 left 是及物动词，宾语是 Los Alamos，in October 1945 是时间状语，说明离开的时间。\n③from 1947 插在 and 和第二个谓语之间，只修饰 presided over，from 表示起点，说明他从1947年开始掌管该研究院；全句叙述的都是过去的事，所以用一般过去时，不用现在完成时。\n④preside over 意为“掌管、执掌”（视频说明），后接机构名称 Princeton's Institute for Advanced Study。Princeton's 是名词所有格，表示机构所在的地点，Institute for Advanced Study 是机构的正式名称。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "并列谓语各自带时间状语",
+    "explain": "同一个主语连续做两件事时，可以用 and 连接两个谓语，第二个谓语前不必重复主语。每个谓语可以带自己的状语，状语的位置决定它修饰哪个动作：本句 in October 1945 跟在 left Los Alamos 后面，修饰 left；from 1947 放在 and 之后、presided over 之前，只修饰第二个谓语。阅读时要看清 and 后面是谓语动词，才能判断这是并列谓语而不是并列句；翻译时常把两个谓语拆成两个分句，各自的时间状语放在分句前面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She joined the firm in 2010 and from 2015 ran its European operations.",
+      "zh": "她2010年加入该公司，从2015年起负责其欧洲业务。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格表示地点",
+    "explain": "城市、国家等地名可以用 's 构成所有格，表示“位于某地的”或“属于某地的”，新闻语体常用，如 London's museums、the city's main library。本句 Princeton's Institute for Advanced Study 表示位于普林斯顿的高等研究院，并不表示它隶属于普林斯顿大学。翻译时可以译成“……的”，如 the city's main library 译为“该市的主图书馆”；后接机构正式名称时，常直接把地名和机构名连写，如本句译为“普林斯顿高等研究院”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The city's main library will close for renovation next month.",
+      "zh": "该市的主图书馆下个月将闭馆翻修。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Institute for Advanced Study",
+    "explain": "普林斯顿高等研究院，位于美国新泽西州普林斯顿，是独立的学术研究机构，并不隶属于普林斯顿大学。爱因斯坦晚年也在这里从事研究。奥本海默从1947年起任该院院长，视频译为“掌管/执掌普林斯顿高等研究院”。"
+   },
+   {
+    "term": "preside over",
+    "explain": "掌管、执掌（视频说明），指以负责人身份领导一个机构；也常指主持会议、仪式，如 preside over a meeting；还可以表示在某人任内发生了某种局面，如 preside over a period of rapid growth。preside 是不及物动词，表示“主持、掌管”时后接 over 或 at。"
+   },
+   {
+    "term": "left（leave 的过去式）",
+    "explain": "leave 意为“离开（某地）”时是及物动词，直接接地点，如 leave Los Alamos；表示“动身前往”则用 leave for + 地点，如 leave for London，不要混淆。"
+   }
+  ],
+  "translation_tip": "视频译文“1945年10月，奥本海默离开洛斯阿拉莫斯；从1947年起，他掌管/执掌普林斯顿高等研究院。”的处理：①两个并列谓语拆成两个分句，各自的时间状语提到分句开头：“1945年10月，奥本海默离开……”“从1947年起，他掌管……”，符合汉语时间在前的习惯。②and 不译，用分号断开，第二个分句补出主语“他”，使两件事各自完整。③Princeton's 不译成“普林斯顿的”，直接与机构名连写为“普林斯顿高等研究院”。④preside over 视频给出“掌管/执掌”两个译法。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "the advisory committee",
+   "predicate": "counselled against",
+   "object_or_complement": "a crash programme",
+   "explain": "主干是 the advisory committee counselled against a crash programme，主谓宾结构，counsel against 相当于一个及物动词短语，宾语是 a crash programme。谓语为一般过去时，主动语态；主语和谓语之间隔着定语从句、分词短语和副词。"
+  },
+  "components": [
+   {
+    "text": "In October 1949",
+    "role": "时间状语（介词短语）",
+    "zh": "1949年10月"
+   },
+   {
+    "text": "the advisory committee",
+    "role": "主语",
+    "zh": "顾问委员会"
+   },
+   {
+    "text": "he chaired,",
+    "role": "限制性定语从句（省略了作宾语的关系代词），修饰 committee",
+    "zh": "他担任主席的"
+   },
+   {
+    "text": "expressing misgivings,",
+    "role": "伴随状语（现在分词短语），逻辑主语是 committee",
+    "zh": "表达了疑虑"
+   },
+   {
+    "text": "unanimously",
+    "role": "方式状语（副词），修饰 counselled against",
+    "zh": "全体一致地/无异议地"
+   },
+   {
+    "text": "counselled against",
+    "role": "谓语（动词短语 counsel against）",
+    "zh": "建议拒绝"
+   },
+   {
+    "text": "a crash programme",
+    "role": "宾语",
+    "zh": "一项……紧急计划"
+   },
+   {
+    "text": "for the hydrogen bomb,",
+    "role": "后置定语（介词短语），修饰 programme",
+    "zh": "针对氢弹的"
+   },
+   {
+    "text": "a vastly more destructive weapon.",
+    "role": "同位语，补充说明 the hydrogen bomb",
+    "zh": "一种极其更加具有毁灭性的武器"
+   }
+  ],
+  "structure": "①主句是 the advisory committee counselled against a crash programme：主语 the advisory committee，谓语 counselled against，宾语 a crash programme。主语后面接连出现定语从句、分词短语和副词，读的时候要越过两个逗号，找到谓语 counselled against。\n②he chaired 是限制性定语从句，修饰 committee，省略了关系代词（视频说明）。被省略的 that 或 which 在从句中作 chaired 的宾语，所以可以省略；chair 在这里是动词，意为“担任……的主席”。\n③expressing misgivings 是现在分词短语作伴随状语（视频说明），逻辑主语是 committee，“表达疑虑”与“建议拒绝”同时发生。\n④unanimously 是副词，修饰谓语，说明委员会意见完全一致。counsel against 意为“建议拒绝……”（视频说明），宾语是 a crash programme；for the hydrogen bomb 是后置定语，修饰 programme（视频说明），说明是什么项目的紧急计划。\n⑤a vastly more destructive weapon 是同位语，补充说明 the hydrogen bomb（视频说明）。more destructive 是比较级，比较的对象原子弹承上文省略；vastly 修饰比较级，表示“大大地”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "省略关系代词的定语从句",
+    "explain": "关系代词在限制性定语从句中作宾语时，可以省略，形成“名词 + 主语 + 谓语”的结构，名词与从句主语之间没有引导词。本句 the advisory committee he chaired 等于 the advisory committee that he chaired，that 作 chaired 的宾语。关系代词作主语时不能省略，非限制性定语从句中的关系代词也不能省略。考研长难句中，名词后面直接跟“代词或名词 + 动词”时，往往是省略了关系代词的定语从句，本句主句的谓语是后面的 counselled against，而不是 chaired。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The book she recommended turned out to be out of print.",
+      "zh": "她推荐的那本书原来已经绝版了。"
+     },
+     {
+      "en": "The changes the government announced last week will affect millions of renters.",
+      "zh": "政府上周宣布的变动将影响数百万租房者。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语（位于主谓之间）",
+    "explain": "现在分词短语可以作伴随状语，表示与谓语动作同时发生的动作或状态，逻辑主语必须是句子的主语。它可以放在句首、句尾，也可以用逗号隔开插在主语和谓语之间。本句 expressing misgivings 的逻辑主语是 the advisory committee，委员会在表达疑虑的同时建议拒绝该计划。分词与主语是主动关系，所以用现在分词。翻译时常译成与主句并列的动作，用“并”“同时”连接。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister, citing security concerns, declined to comment on the report.",
+      "zh": "部长以安全顾虑为由，拒绝对该报告置评。"
+     },
+     {
+      "en": "The students, sensing the teacher's impatience, fell silent.",
+      "zh": "学生们察觉到老师不耐烦了，便安静下来。"
+     }
+    ]
+   },
+   {
+    "title": "修饰比较级的副词",
+    "explain": "比较级前可以用 much、far、vastly、considerably、a lot、even、still 等修饰，表示程度，但不能用 very。本句 vastly more destructive 意为“大大地更具毁灭性”，被比较的对象是上文的原子弹，承上省略了 than the atomic bomb。考研完形和写作中常考“very + 比较级”这一错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new model is vastly more efficient than its predecessor.",
+      "zh": "新型号的效率比上一代高得多。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the advisory committee",
+    "explain": "指美国原子能委员会下设的总顾问委员会（General Advisory Committee），奥本海默任主席。1949年10月该委员会开会讨论是否紧急研制氢弹，结论是一致反对。视频译为“他担任主席的顾问委员会”。"
+   },
+   {
+    "term": "hydrogen bomb",
+    "explain": "氢弹，利用核聚变（fusion）释放能量，威力远大于利用核裂变（fission）的原子弹，所以句中称它为 a vastly more destructive weapon。"
+   },
+   {
+    "term": "crash programme",
+    "explain": "紧急计划。crash 作定语时表示“速成的、应急的、全力以赴的”，如 a crash course（速成课程）、a crash diet（速效节食）。programme 是英式拼写，美式拼写为 program。"
+   },
+   {
+    "term": "counsel against",
+    "explain": "建议拒绝……（视频说明），相当于 advise against，宾语可以是名词或动名词，如 counsel against hasty action。counselled 是英式拼写，美式拼写为 counseled。"
+   },
+   {
+    "term": "misgiving",
+    "explain": "名词，疑虑、担忧，常用复数，如 have misgivings about sth。视频将 expressing misgivings 译为“表达了疑虑”。"
+   }
+  ],
+  "translation_tip": "视频译文“1949年10月，他担任主席的顾问委员会表达了疑虑，并全体一致地/无异议地建议拒绝一项针对氢弹的紧急计划，一种极其更加具有毁灭性的武器。”的处理：①省略关系代词的定语从句 he chaired 前置，译为“他担任主席的顾问委员会”。②伴随状语 expressing misgivings 译为并列的谓语“表达了疑虑”，再用“并”引出主句谓语，体现两个动作同时进行。③unanimously 视频给出“全体一致地/无异议地”两个译法，放在谓语前。④后置定语 for the hydrogen bomb 前置为“针对氢弹的”，不定冠词 a 译为“一项”。⑤同位语保留在句末，用逗号隔开，译为“一种极其更加具有毁灭性的武器”，“更加”对应比较级 more，“极其”对应 vastly。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "a presidential directive",
+   "predicate": "severed",
+   "object_or_complement": "his access to confidential documentation",
+   "explain": "主干是 a presidential directive severed his access，主谓宾结构，to confidential documentation 修饰 access。谓语 severed 为一般过去时，主动语态；主语是无生命的“指令”，谓语是动作性很强的“切断”。"
+  },
+  "components": [
+   {
+    "text": "In December 1953",
+    "role": "时间状语（介词短语）",
+    "zh": "1953年12月"
+   },
+   {
+    "text": "a presidential directive",
+    "role": "主语（presidential 作 directive 的前置定语）",
+    "zh": "一道总统的指令"
+   },
+   {
+    "text": "severed",
+    "role": "谓语",
+    "zh": "切断了"
+   },
+   {
+    "text": "his access",
+    "role": "宾语（中心词 access）",
+    "zh": "他……的权限"
+   },
+   {
+    "text": "to confidential documentation.",
+    "role": "后置定语（介词短语），修饰 access，access to 为固定搭配",
+    "zh": "接触机密文件"
+   }
+  ],
+  "structure": "①本句是简单句，主谓宾结构：主语 a presidential directive，谓语 severed，宾语 his access。句首 In December 1953 是时间状语。\n②主语中 presidential 是由 president 派生的形容词，作定语，意为“总统的”；directive 是名词，意为“指令”。\n③宾语 his access to confidential documentation 中，access to A 意为“接触到 A 的权限”（视频说明），to 是介词，后接名词短语 confidential documentation，整个 to 短语作 access 的后置定语。\n④sever 本义是“割断、切断”，这里用的是比喻义，指切断他接触机密的途径，即取消他接触机密文件的资格，与第9句他无法恢复安全许可相呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "access to 中的 to 是介词",
+    "explain": "access 作名词时常与 to 搭配，表示“接触、使用、进入……的权利或机会”，这里的 to 是介词，后接名词或动名词，不接动词原形。本句 access to confidential documentation 即“接触机密文件的权限”。常见的“名词 + 介词 to”搭配还有 the key to、the answer to、the solution to、an approach to、a commitment to doing。考研写作中 have access to、gain access to、lack access to 很常用，易错写法是 access to use the library。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Millions of people in the region still lack access to clean drinking water.",
+      "zh": "该地区仍有数百万人无法获得清洁的饮用水。"
+     },
+     {
+      "en": "Registered students have access to the library's online databases.",
+      "zh": "注册学生可以使用图书馆的在线数据库。"
+     }
+    ]
+   },
+   {
+    "title": "无生命名词作主语",
+    "explain": "英语常用表示事物、文件、事件的名词作主语，后接动作性很强的谓语，如 a directive severed、a storm forced、the news shocked。汉语也可以保留这种结构，但很多时候要转换成“由于……”“根据……”等表达。本句视频保留了原结构，译为“一道总统的指令切断了……”。考研翻译中遇到这类句子，要先判断直译是否通顺，再决定是否转换主语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "A sudden storm forced the organisers to cancel the outdoor concert.",
+      "zh": "一场突如其来的暴风雨迫使主办方取消了露天音乐会。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "presidential directive",
+    "explain": "总统指令。1953年12月时在任的美国总统是艾森豪威尔（Dwight D. Eisenhower）。presidential 意为“总统的”，如 a presidential election（总统选举）。"
+   },
+   {
+    "term": "sever",
+    "explain": "动词，切断、割断，常用比喻义“断绝（关系、联系）”，如 sever ties with（与……断绝关系）、sever diplomatic relations（断绝外交关系）。视频译为“切断了”。"
+   },
+   {
+    "term": "confidential documentation",
+    "explain": "机密文件。confidential 指需要保密的、机密的；documentation 是不可数名词，指文件、证明材料的总称，不能说 a documentation。"
+   }
+  ],
+  "translation_tip": "视频译文“1953年12月，一道总统的指令切断了他接触机密文件的权限。”的处理：①时间状语保留在句首。②不定冠词 a 译为量词“一道”，与“指令”搭配；presidential 译为“总统的”。③宾语 his access to confidential documentation 中，后置的 to confidential documentation 前置，介词 to 转译为动词“接触”，access 译为“权限”放在末尾，组成“他接触机密文件的权限”，英语的名词结构在汉语中变成了带动词的定语。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "he",
+   "predicate": "was cross-examined",
+   "object_or_complement": "",
+   "explain": "主干是 he was cross-examined，主谓结构，被动语态，一般过去时（视频说明），没有说出盘问他的人。at a security hearing 是地点状语，后面的 an administrative proceeding, not a criminal prosecution 是 hearing 的同位语。"
+  },
+  "components": [
+   {
+    "text": "From 12 April to 6 May 1954",
+    "role": "时间状语（from…to… 表示起止时间）",
+    "zh": "1954年4月12日至5月6日"
+   },
+   {
+    "text": "he",
+    "role": "主语",
+    "zh": "他"
+   },
+   {
+    "text": "was cross-examined",
+    "role": "谓语（一般过去时的被动语态）",
+    "zh": "接受盘问"
+   },
+   {
+    "text": "at a security hearing,",
+    "role": "地点状语（介词短语）",
+    "zh": "在一场安全听证会上"
+   },
+   {
+    "text": "an administrative proceeding,",
+    "role": "同位语，补充说明 hearing",
+    "zh": "这场听证会是行政的程序"
+   },
+   {
+    "text": "not a criminal prosecution.",
+    "role": "同位语的否定对比部分（not 引出，与 an administrative proceeding 构成“A, not B”）",
+    "zh": "而非刑事的起诉"
+   }
+  ],
+  "structure": "①主句是 he was cross-examined at a security hearing：主语 he，谓语 was cross-examined 是一般过去时的被动语态（视频说明），at a security hearing 是地点状语。句首 From 12 April to 6 May 1954 是时间状语，from…to… 说明听证持续的起止日期。\n②用被动语态是因为叙述的重点是奥本海默这个承受者，盘问他的人没有必要说出。\n③an administrative proceeding, not a criminal prosecution 是同位语，补充说明 hearing（视频说明），说明这场听证会的性质。同位语内部是“A, not B”结构：肯定 A（行政程序），否定 B（刑事起诉），两个名词短语用逗号隔开。\n④这一同位语强调听证只是行政审查，不是刑事审判，与标题中的 Trial 形成对照：标题用 trial（审判）是概括性说法，正文说明这场“审判”在法律性质上并非刑事起诉。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "一般过去时的被动语态",
+    "explain": "一般过去时的被动语态由 was/were + 过去分词构成，表示主语在过去承受某个动作。使用被动语态通常是因为动作的执行者不明、不重要或不必说出，而动作的承受者是叙述的重点。本句 he was cross-examined 强调奥本海默接受盘问，盘问者没有出现。考研翻译中被动句常译成“受到……”“接受……”“遭到……”，或者转换为主动句，不必一律译成“被……”，视频把 was cross-examined 译为“接受盘问”就是一例。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The suspect was questioned for several hours before being released.",
+      "zh": "嫌疑人在获释前接受了数小时的讯问。"
+     },
+     {
+      "en": "Several of the documents were later made public.",
+      "zh": "其中几份文件后来被公开了。"
+     }
+    ]
+   },
+   {
+    "title": "“A, not B”对比结构",
+    "explain": "“A, not B”用来肯定一方、否定另一方，A 和 B 是语法地位相同的成分，中间用逗号隔开，意思是“是 A，而不是 B”，与 not B but A 意思相同，只是语序不同。它可以作表语、宾语，也可以像本句一样作同位语。本句 an administrative proceeding, not a criminal prosecution 补充说明 hearing，强调其行政性质。考研阅读中这种结构常出现在作者澄清概念、纠正误解的地方，A 往往是作者真正的观点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The meeting, a routine review, not a disciplinary hearing, lasted less than an hour.",
+      "zh": "这次会议是例行审查，而非纪律听证，持续了不到一个小时。"
+     }
+    ]
+   },
+   {
+    "title": "from…to… 表示起止时间",
+    "explain": "from…to… 表示从某一时间到另一时间，两个时间共用一个年份时，年份只写在最后，如 From 12 April to 6 May 1954。也可以用 between…and… 或 from…until…。汉语译为“……至……”或“从……到……”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The exhibition runs from 3 June to 28 August.",
+      "zh": "展览从6月3日持续到8月28日。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "security hearing",
+    "explain": "安全听证会，这里指1954年美国原子能委员会的人事安全委员会（Personnel Security Board）为审查奥本海默的安全许可而举行的听证。hearing 在法律和行政语境中指“听证会、审讯”，如 a public hearing（公开听证会）。"
+   },
+   {
+    "term": "cross-examine",
+    "explain": "动词，盘问、诘问；在法庭上专指对对方证人进行询问。本句为被动语态 was cross-examined，视频译为“接受盘问”。名词形式是 cross-examination。"
+   },
+   {
+    "term": "administrative proceeding 与 criminal prosecution",
+    "explain": "administrative proceeding 指行政程序，由行政机关处理，不涉及刑事定罪；criminal prosecution 指刑事起诉，由检方对被告提起，可能导致刑罚。proceeding 常用复数 proceedings 指诉讼，如 legal proceedings；prosecution 加定冠词 the prosecution 还可指控方，与 the defence（辩方）相对。"
+   }
+  ],
+  "translation_tip": "视频译文“1954年4月12日至5月6日，他在一场安全听证会上接受盘问，这场听证会是行政的程序，而非刑事的起诉。”的处理：①时间状语前置，from…to… 译为“……至……”，日期按汉语“年月日”排列。②被动语态 was cross-examined 译为“接受盘问”，用“接受”表达被动意义，比“被盘问”更自然；地点状语 at a security hearing 移到谓语前，a 译为“一场”。③同位语拆成独立分句，增补“这场听证会是”作主语和系动词，点明同位语说明的对象；not 译为“而非”，形成对比，突出听证会的行政性质。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "the Atomic Energy Commission",
+   "predicate": "voted",
+   "object_or_complement": "",
+   "explain": "主干是 the Atomic Energy Commission voted，主谓结构，vote 在此为不及物动词；4 to 1 说明票数，against letting him regain his clearance 说明投票反对的内容。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 29 June 1954",
+    "role": "时间状语（介词短语）",
+    "zh": "1954年6月29日"
+   },
+   {
+    "text": "the Atomic Energy Commission",
+    "role": "主语（机构专名）",
+    "zh": "原子能委员会"
+   },
+   {
+    "text": "voted",
+    "role": "谓语",
+    "zh": "投票"
+   },
+   {
+    "text": "4 to 1",
+    "role": "方式状语（表示票数比）",
+    "zh": "以4比1"
+   },
+   {
+    "text": "against letting him regain his clearance,",
+    "role": "状语（介词 against + 动名词短语，vote against doing：投票反对做……）",
+    "zh": "反对让他恢复安全许可"
+   },
+   {
+    "text": "two days",
+    "role": "程度状语（名词短语，修饰后面的 before 从句，说明提前多久）",
+    "zh": "还剩两天"
+   },
+   {
+    "text": "before his consultancy contract was due to expire.",
+    "role": "时间状语从句（before 引导）",
+    "zh": "在他的咨询合同预计要到期之前"
+   }
+  ],
+  "structure": "①主句是 the Atomic Energy Commission voted 4 to 1 against letting him regain his clearance：主语 the Atomic Energy Commission，谓语 voted，4 to 1 说明票数，against 引导的介词短语说明投票的立场。vote against doing 意为“投票反对做……”（视频说明）。\n②against 的宾语是动名词短语 letting him regain his clearance。其中 let 是使役动词，him 是 let 的宾语，regain his clearance 是不带 to 的不定式作宾语补足语。\n③two days before his consultancy contract was due to expire 是时间状语。before 引导时间状语从句，名词短语 two days 放在 before 前面，说明投票比合同到期早了两天。\n④从句中 be due to do 意为“按期要做……”（视频说明），was due to expire 表示合同按约定将要到期，是从过去的角度看将来的事。consultancy 是名词作定语，修饰 contract。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "let sb do（使役动词后接不带 to 的不定式）",
+    "explain": "let、make、have 等使役动词后接“宾语 + 不带 to 的不定式”作宾语补足语，let sb do 意为“让某人做某事、允许某人做某事”。本句 letting him regain his clearance 中，him 是 let 的宾语，regain his clearance 是宾语补足语，不能写成 to regain。let 一般不用于被动语态，被动意义常改用 be allowed to do。考研写作中 let 后误加 to 是常见错误。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The landlord refused to let the tenants keep pets in the flat.",
+      "zh": "房东拒绝让租户在公寓里养宠物。"
+     },
+     {
+      "en": "Security staff let the reporters enter the building only after checking their passes.",
+      "zh": "安保人员检查了记者的通行证之后，才让他们进入大楼。"
+     }
+    ]
+   },
+   {
+    "title": "be due to do 与 due to + 名词",
+    "explain": "be due to do 表示按计划、按规定或按约定将要发生，如 The train is due to arrive at six；过去式 was/were due to do 表示从过去看将要发生的事，本句 was due to expire 指合同按约定将要到期。要与 due to + 名词（由于、因为）区分：The delay was due to bad weather 中 due to 后接名词，表示原因。考研阅读中两种结构都很常见，区别在于 to 后是动词原形还是名词。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The new rules are due to take effect next January.",
+      "zh": "新规定将于明年一月生效。"
+     },
+     {
+      "en": "The report was due to be published in March but was delayed until the summer.",
+      "zh": "这份报告原定三月发布，但推迟到了夏天。"
+     }
+    ]
+   },
+   {
+    "title": "vote for/against + 名词或动名词",
+    "explain": "vote 作不及物动词时，用 vote for 表示投票赞成，vote against 表示投票反对，后接名词或动名词，如 vote against the proposal、vote against raising taxes。表示票数时可以直接在 vote 后加比分，如 vote 4 to 1，英式英语也说 by four votes to one。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Most members voted against extending the deadline.",
+      "zh": "大多数成员投票反对延长截止日期。"
+     }
+    ]
+   },
+   {
+    "title": "时间段 + before/after 表示提前或推后多久",
+    "explain": "表示某事比另一件事早或晚多长时间，可以把表示时间段的名词短语放在 before 或 after 前面，如 two days before、ten minutes after。before、after 后面可以接名词，也可以接从句。本句 two days before his consultancy contract was due to expire 即“比合同到期早两天”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "She arrived ten minutes before the interview was due to begin.",
+      "zh": "她在面试预定开始前十分钟到达。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Atomic Energy Commission",
+    "explain": "美国原子能委员会（AEC），根据1946年的《原子能法》设立，负责管理美国的原子能事务。第13句的 the commission's rules 指的就是这个委员会的规定。"
+   },
+   {
+    "term": "clearance",
+    "explain": "熟词僻义：clearance 常见义是“清除、清理”，这里指 security clearance，即接触机密信息的安全许可。regain his clearance 意为“恢复安全许可”。"
+   },
+   {
+    "term": "4 to 1",
+    "explain": "表示表决结果的票数比，读作 four to one，to 相当于“比”。名词形式可以说 a 4-1 vote（4比1的投票结果）。视频译为“以4比1投票”。"
+   },
+   {
+    "term": "consultancy contract",
+    "explain": "咨询合同。consultancy 指咨询工作或咨询公司，这里作定语，表示合同的性质是提供咨询服务。expire 意为“到期、失效”，常用于合同、护照、签证、许可证等。"
+   }
+  ],
+  "translation_tip": "视频译文“1954年6月29日，原子能委员会以4比1投票反对让他恢复安全许可，在他的咨询合同预计要到期之前，还剩两天。”的处理：①时间状语保留在句首。②票数 4 to 1 提到谓语前，与 voted 合译为“以4比1投票”。③介词 against 转译为动词“反对”，against letting him regain his clearance 译为“反对让他恢复安全许可”。④时间状语 two days before… 拆开处理：before 从句译为“在……之前”，was due to 译为“预计要”；two days 单独放在句末译为“还剩两天”，突出时间的紧迫。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "The ruling",
+   "predicate": "did not find … but nonetheless questioned",
+   "object_or_complement": "him disloyal（find 的宾语 + 宾语补足语）；his character and associates（questioned 的宾语）",
+   "explain": "主干是一个主语带两个由 but 连接的并列谓语：The ruling did not find him disloyal（主谓宾宾补）but questioned his character and associates（主谓宾）。两个谓语都是一般过去时，前者是否定式，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The ruling",
+    "role": "主语",
+    "zh": "裁决"
+   },
+   {
+    "text": "did not find",
+    "role": "谓语一（一般过去时的否定式）",
+    "zh": "没有认定"
+   },
+   {
+    "text": "him",
+    "role": "宾语（find 的宾语）",
+    "zh": "他"
+   },
+   {
+    "text": "disloyal,",
+    "role": "宾语补足语（形容词）",
+    "zh": "不忠"
+   },
+   {
+    "text": "but",
+    "role": "并列连词（表示转折）",
+    "zh": "但"
+   },
+   {
+    "text": "nonetheless",
+    "role": "让步状语（副词，意为“尽管如此”）",
+    "zh": "仍然"
+   },
+   {
+    "text": "questioned",
+    "role": "谓语二",
+    "zh": "质疑了"
+   },
+   {
+    "text": "his character and associates.",
+    "role": "宾语（questioned 的宾语，两个并列名词共用 his）",
+    "zh": "他的品格和他所结交的人"
+   }
+  ],
+  "structure": "①本句是一个主语带两个并列谓语：The ruling did not find him disloyal, but nonetheless questioned his character and associates，but 表示转折。\n②第一个谓语部分是 find sb + adj. 结构，意为“认定某人……”（视频说明）：him 是宾语，disloyal 是宾语补足语，did not 构成否定。\n③nonetheless 是副词，意为“尽管如此”，与 but 连用，加强转折：虽然没有认定他不忠，却仍然质疑他的品格和交往对象。\n④第二个谓语 questioned 的宾语是 his character and associates，his 同时修饰 character 和 associates。associates 是名词复数，指与他交往的人。\n⑤本句交代了裁决的结论：没有认定他不忠，却质疑他的品格和交往对象。这与第8句强调听证并非刑事起诉相呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "find + 宾语 + 形容词（宾语补足语）",
+    "explain": "find 后接“宾语 + 形容词”时，形容词作宾语补足语，说明宾语的性质或状态，意为“认为、发现某人或某物……”；在法律或官方语境中意为“裁定、认定”，如 find sb guilty（裁定某人有罪）。本句 did not find him disloyal 即“没有认定他不忠”。宾语补足语用形容词，不用副词，find the book easily 与 find the book easy 意思完全不同：前者是“轻松地找到这本书”，后者是“觉得这本书容易”。考研阅读和写作中 find it + adj. + to do 也很常用，it 是形式宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The jury found the defendant guilty on all charges.",
+      "zh": "陪审团裁定被告所有罪名成立。"
+     },
+     {
+      "en": "Many readers found the novel's ending unsatisfying.",
+      "zh": "许多读者觉得这部小说的结局不尽如人意。"
+     }
+    ]
+   },
+   {
+    "title": "nonetheless 是副词，不是连词",
+    "explain": "nonetheless 和 nevertheless 都是副词，意为“尽管如此、然而”，不能单独连接两个句子。本句它与并列连词 but 连用，由 but 负责连接两个谓语，nonetheless 加强转折语气。如果连接两个独立的句子，要用分号或句号，再在后一句中使用 nonetheless，如 The plan was costly; nonetheless, the council approved it。写作中用逗号把 nonetheless 与前句连起来是常见错误。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The task was difficult but nonetheless achievable within the time available.",
+      "zh": "这项任务很难，但在现有时间内仍然可以完成。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "ruling",
+    "explain": "名词，裁决、裁定，指法院或官方机构作出的正式决定，如 a court ruling（法院裁决）。动词 rule 意为“裁定”，如 rule that…、rule on a case。视频译为“裁决”。"
+   },
+   {
+    "term": "associate",
+    "explain": "作名词时指交往对象、同事、伙伴，如 a business associate（生意伙伴）、a close associate（亲密伙伴），读音 /əˈsəʊʃiət/；作动词时意为“联系、交往”，读音 /əˈsəʊʃieɪt/，两者末音节读音不同。视频将 associates 译为“他所结交的人”。"
+   },
+   {
+    "term": "character",
+    "explain": "这里指人的品格、品行，即道德品质，不是“性格”或“角色”。视频译为“品格”。"
+   },
+   {
+    "term": "disloyal",
+    "explain": "形容词，不忠的，由否定前缀 dis- 加 loyal 构成，常接 to，如 be disloyal to one's country。视频译为“不忠”。"
+   }
+  ],
+  "translation_tip": "视频译文“裁决没有认定他不忠，但仍然质疑了他的品格和他所结交的人。”的处理：①两个并列谓语按原顺序译出，but 译为“但”，nonetheless 译为“仍然”。②find him disloyal 译为“认定他不忠”，宾语补足语直接跟在宾语后面，与英文语序一致。③his character and associates 中 his 在英文里只出现一次，译文重复为“他的品格和他所结交的人”，associates 用“所”字结构译为“他所结交的人”，点明交往关系。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "President Johnson",
+   "predicate": "bestowed",
+   "object_or_complement": "the Fermi Award（bestow 的宾语；on him 说明授予的对象）",
+   "explain": "主干是 President Johnson bestowed the Fermi Award on him，主谓宾结构，bestow A on B 意为“把 A 授予 B”；本句 A（the Fermi Award）放在 on him 之后（视频说明）。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "On 2 December 1963",
+    "role": "时间状语（介词短语）",
+    "zh": "1963年12月2日"
+   },
+   {
+    "text": "President Johnson",
+    "role": "主语",
+    "zh": "约翰逊总统"
+   },
+   {
+    "text": "bestowed",
+    "role": "谓语",
+    "zh": "授予"
+   },
+   {
+    "text": "on him",
+    "role": "介词短语（bestow A on B 中的 on B，提到宾语之前），说明授予的对象",
+    "zh": "他"
+   },
+   {
+    "text": "the Fermi Award,",
+    "role": "宾语（bestow 的宾语，后移到 on him 之后）",
+    "zh": "费米奖"
+   },
+   {
+    "text": "which Kennedy had authorised before his assassination.",
+    "role": "非限制性定语从句，修饰 the Fermi Award",
+    "zh": "该奖项是肯尼迪在遇刺前批准的"
+   }
+  ],
+  "structure": "①主句是 President Johnson bestowed on him the Fermi Award。bestow A on B 意为“把 A 授予 B”（视频说明），正常语序是 bestowed the Fermi Award on him；本句把较长的宾语 the Fermi Award 移到 on him 之后（视频说明），使宾语紧挨修饰它的定语从句，避免先行词和从句被 on him 隔开。\n②which 引导非限制性定语从句，先行词是 the Fermi Award（视频说明），which 在从句中作 authorised 的宾语。\n③从句谓语 had authorised 是过去完成时（视频说明），表示肯尼迪批准授奖发生在约翰逊颁奖之前，是“过去的过去”。\n④before his assassination 是时间状语，his 指 Kennedy；assassination 是名词，相当于 before he was assassinated，即肯尼迪遇刺之前。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "“动词 + 宾语 + 介词短语”中宾语后移",
+    "explain": "bestow A on B、confer A on B、explain A to B、introduce A to B 等结构中，宾语 A 通常紧跟动词。但如果 A 很长，特别是后面带有定语从句时，常把较短的介词短语提前，把 A 移到句末，形成“动词 + 介词短语 + 宾语”的语序，这样句子不头重脚轻，修饰 A 的从句也能紧跟在 A 后面。本句 bestowed on him the Fermi Award, which… 就是把 the Fermi Award 放到 on him 之后，与 which 从句相连。阅读时遇到“动词 + 介词短语 + 名词”，要把后面的名词还原为动词的宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The university conferred on her an honorary degree in recognition of her research.",
+      "zh": "该大学授予她荣誉学位，以表彰她的研究工作。"
+     },
+     {
+      "en": "She explained to the committee the reasons for her sudden resignation.",
+      "zh": "她向委员会解释了她突然辞职的原因。"
+     }
+    ]
+   },
+   {
+    "title": "过去完成时用于定语从句",
+    "explain": "过去完成时（had done）表示在过去某一时间或动作之前已经完成的动作。本句主句动作 bestowed 发生在1963年12月2日，从句动作 had authorised 发生在此之前，即肯尼迪在世时已经批准，所以用过去完成时，清楚地交代了两件事的先后顺序。考研阅读中，遇到 had done 要据此理清事件的时间顺序。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister announced a policy that her predecessor had drafted two years earlier.",
+      "zh": "部长宣布了一项由她的前任在两年前起草的政策。"
+     },
+     {
+      "en": "He finally visited the village where his grandparents had lived before the war.",
+      "zh": "他终于去了祖父母战前居住过的那个村子。"
+     }
+    ]
+   },
+   {
+    "title": "名词化：before + 名词 代替从句",
+    "explain": "英语常用“介词 + 名词”代替一个状语从句，使句子更紧凑。本句 before his assassination 相当于 before he was assassinated，物主代词 his 是动作的承受者。同类表达有 after his retirement（= after he retired）、on her arrival（= when she arrived）。翻译时常把名词还原成动词，视频把 assassination 译为“遇刺”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "After his retirement, he devoted most of his time to painting.",
+      "zh": "退休后，他把大部分时间都用在了绘画上。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Fermi Award",
+    "explain": "恩里科·费米奖（Enrico Fermi Award），美国政府颁发的科学技术奖项，以意大利裔物理学家恩里科·费米（Enrico Fermi）的名字命名。视频译为“费米奖”。"
+   },
+   {
+    "term": "President Johnson 与 Kennedy",
+    "explain": "约翰逊指林登·约翰逊（Lyndon B. Johnson），肯尼迪指约翰·F·肯尼迪（John F. Kennedy）。肯尼迪于1963年11月22日在达拉斯遇刺身亡，时任副总统约翰逊继任总统，所以颁奖时总统已经换成约翰逊。"
+   },
+   {
+    "term": "authorise",
+    "explain": "动词，批准、授权，如 authorise a payment；be authorised to do 意为“被授权做……”。authorise 是英式拼写，美式拼写为 authorize。视频译为“批准”。"
+   },
+   {
+    "term": "assassination",
+    "explain": "名词，暗杀、行刺，指出于政治等目的刺杀重要人物，如 an assassination attempt（暗杀图谋）。动词是 assassinate，刺客是 assassin。"
+   }
+  ],
+  "translation_tip": "视频译文“1963年12月2日，约翰逊总统授予他费米奖，该奖项是肯尼迪在遇刺前批准的。”的处理：①主句译为“约翰逊总统授予他费米奖”，“授予”后先接人、再接奖项，与英文 on him 前移、宾语后置的语序一致，也符合汉语“授予某人某物”的说法。②非限制性定语从句不前置，另起分句，用“该奖项”回指 the Fermi Award。③从句用“是……的”句式，译为“该奖项是肯尼迪在遇刺前批准的”，突出批准人和批准时间。④名词 assassination 转译为动词“遇刺”，his 承前省略不译。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "Oppenheimer",
+   "predicate": "died",
+   "object_or_complement": "",
+   "explain": "主干是 Oppenheimer died，主谓结构，die 是不及物动词，不带宾语。谓语为一般过去时，on 18 February 1967 是时间状语。"
+  },
+  "components": [
+   {
+    "text": "Oppenheimer",
+    "role": "主语",
+    "zh": "奥本海默"
+   },
+   {
+    "text": "died",
+    "role": "谓语（不及物动词）",
+    "zh": "去世"
+   },
+   {
+    "text": "on 18 February 1967.",
+    "role": "时间状语（介词短语，具体日期前用 on）",
+    "zh": "于1967年2月18日"
+   }
+  ],
+  "structure": "①本句是最简单的主谓结构：主语 Oppenheimer，谓语 died。die 是不及物动词，后面不能接宾语，也不能用于被动语态。\n②on 18 February 1967 是时间状语，具体日期前用介词 on，日期按英式“日、月、年”书写。\n③本句在文中是时间节点：交代他在1967年去世，为第13句2022年撤销裁定、第14句“在他身后又持续了五十五年”作铺垫，1967年到2022年正好相隔五十五年。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "不及物动词 die 及 dead、death 的用法",
+    "explain": "die 是不及物动词，表示“死亡”这一瞬间动作，不能接宾语，也不能与表示一段时间的 for 短语连用。“死了多久”要用形容词 dead 作表语，如 He has been dead for ten years，或者说 He died ten years ago，不能说 He has died for ten years。death 是名词，如 after his death。die of 多接疾病、饥饿等内部原因，die from 多接伤害等外部原因，现代英语中两者常可互换。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The novelist died in 2005, leaving her final book unfinished.",
+      "zh": "这位小说家于2005年去世，留下了她未完成的最后一部作品。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "die 与“去世”",
+    "explain": "die 是中性词，视频译为“去世”，比“死”更庄重，适合人物传记。英语中委婉的说法是 pass away。"
+   },
+   {
+    "term": "1967 与 fifty-five years",
+    "explain": "奥本海默1967年去世，到2022年能源部长撤销1954年的裁定，正好相隔五十五年，即第14句所说的 for fifty-five years beyond his lifetime。"
+   }
+  ],
+  "translation_tip": "视频译文“奥本海默于1967年2月18日去世。”的处理：①时间状语 on 18 February 1967 从句尾移到谓语前，用书面语介词“于”译出，日期按汉语“年月日”排列。②die 译为“去世”，语气庄重，符合人物生平叙述的语体。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "the energy secretary",
+   "predicate": "vacated",
+   "object_or_complement": "the 1954 determination",
+   "explain": "主干是 the energy secretary vacated the 1954 determination，主谓宾结构。谓语 vacated 为一般过去时，主动语态；officially 修饰谓语，句尾 calling… 是现在分词短语作伴随状语。"
+  },
+  "components": [
+   {
+    "text": "In December 2022",
+    "role": "时间状语（介词短语）",
+    "zh": "2022年12月"
+   },
+   {
+    "text": "the energy secretary",
+    "role": "主语（energy 是名词作定语）",
+    "zh": "能源部长"
+   },
+   {
+    "text": "officially",
+    "role": "方式状语（副词），修饰 vacated",
+    "zh": "正式"
+   },
+   {
+    "text": "vacated",
+    "role": "谓语",
+    "zh": "撤销了"
+   },
+   {
+    "text": "the 1954 determination,",
+    "role": "宾语（年份 1954 作前置定语）",
+    "zh": "1954年的裁定"
+   },
+   {
+    "text": "calling",
+    "role": "伴随状语（现在分词短语 calling… 的核心动词，构成 call A + adj.）",
+    "zh": "称"
+   },
+   {
+    "text": "the process",
+    "role": "宾语（calling 的宾语）",
+    "zh": "当年的程序"
+   },
+   {
+    "text": "flawed",
+    "role": "宾语补足语一（形容词）",
+    "zh": "有缺陷的"
+   },
+   {
+    "text": "and contrary to the commission's rules.",
+    "role": "并列连词 and + 宾语补足语二（形容词短语 contrary to…，与 flawed 并列）",
+    "zh": "且违背了委员会的规定"
+   }
+  ],
+  "structure": "①主句是 the energy secretary officially vacated the 1954 determination：主语 the energy secretary，谓语 vacated，宾语 the 1954 determination；officially 是副词，修饰 vacated，说明撤销是正式的官方行为。宾语中年份 1954 直接作前置定语，指1954年作出的那项裁定。\n②calling the process flawed and contrary to the commission's rules 是现在分词短语作伴随状语（视频说明），逻辑主语是 the energy secretary，说明部长在撤销裁定的同时给出的理由。\n③分词短语内部是 call A + adj. 结构，意为“称 A……”（视频说明）：A 是 the process，宾语补足语是 flawed 和 contrary to the commission's rules，由 and 并列。contrary to 意为“违背”（视频说明），contrary 是形容词，to 是介词，后接 the commission's rules。\n④the commission's rules 中的 the commission 回指第9句的 the Atomic Energy Commission，意思是当年的程序违背了原子能委员会自己的规定。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "现在分词短语作伴随状语（位于句末）",
+    "explain": "现在分词短语放在句末，用逗号与主句隔开，可以作伴随状语，表示与谓语同时发生的动作，常用来交代说法、理由或结果，逻辑主语是句子的主语。新闻语体中常见“主句, citing/calling/saying…”的结构，如 citing safety concerns（以安全顾虑为由）。本句 calling the process flawed… 的逻辑主语是 the energy secretary，说明部长撤销裁定时如何评价当年的程序。翻译时一般译成并列的分句，放在主句后面。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The company withdrew the product last month, citing safety concerns.",
+      "zh": "该公司上个月以安全顾虑为由召回了这款产品。"
+     },
+     {
+      "en": "The judge dismissed the case, calling the evidence unreliable.",
+      "zh": "法官驳回了此案，称证据不可靠。"
+     }
+    ]
+   },
+   {
+    "title": "call + 宾语 + 形容词（宾语补足语）",
+    "explain": "call 后接“宾语 + 形容词或名词”，意为“称……为……、说……是……”，形容词或名词作宾语补足语，中间不加 as。本句 calling the process flawed and contrary to the commission's rules 中，宾语 the process 后有两个并列的宾语补足语。易错点：regard、describe、see 后要加 as，如 describe the process as flawed，call 后则不能加 as，call the process as flawed 是错误的。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Critics called the decision premature and poorly explained.",
+      "zh": "批评者称这一决定为时过早，而且解释不清。"
+     },
+     {
+      "en": "Few would call the experiment a success.",
+      "zh": "很少有人会说这项实验是成功的。"
+     }
+    ]
+   },
+   {
+    "title": "contrary to 的用法",
+    "explain": "contrary to 意为“与……相反、违背……”，contrary 是形容词，to 是介词，后接名词。它可以作表语或宾语补足语，如本句 contrary to the commission's rules；也常放在句首作状语，如 contrary to popular belief（与普遍看法相反）。注意 on the contrary 是“恰恰相反”，用来否定前面的说法，不能接宾语，与 contrary to 不同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Contrary to popular belief, bats are not blind.",
+      "zh": "与普遍的看法相反，蝙蝠并不是瞎子。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the energy secretary",
+    "explain": "美国能源部长（Secretary of Energy）。2022年12月宣布撤销1954年裁定的是时任能源部长詹妮弗·格兰霍姆（Jennifer Granholm）。原子能委员会在20世纪70年代已被撤销，能源部是承接其职能的机构之一。视频译为“能源部长”。"
+   },
+   {
+    "term": "secretary",
+    "explain": "熟词僻义：secretary 常见义是“秘书”，在美国政府中指各部的部长，如 Secretary of State（国务卿）、Secretary of Defense（国防部长）。energy secretary 是新闻中的常用说法。"
+   },
+   {
+    "term": "vacate",
+    "explain": "熟词僻义：vacate 常见义是“腾出、空出（房间、座位、职位）”，在法律语境中指“撤销、宣布无效（判决、裁定）”，如 vacate a conviction（撤销有罪判决）。视频译为“撤销了”。"
+   },
+   {
+    "term": "determination",
+    "explain": "熟词僻义：determination 常见义是“决心”，这里指官方机构作出的“裁定、决定”。the 1954 determination 即第9句原子能委员会1954年作出的裁定。视频译为“裁定”。"
+   },
+   {
+    "term": "flawed",
+    "explain": "形容词，有缺陷的、有瑕疵的，如 a flawed argument（有漏洞的论证）、a flawed process（有缺陷的程序）。视频译为“有缺陷的”。"
+   }
+  ],
+  "translation_tip": "视频译文“2022年12月，能源部长正式撤销了1954年的裁定，称当年的程序是有缺陷的且违背了委员会的规定。”的处理：①主句按原语序直译，officially 译为“正式”放在谓语前，年份定语译为“1954年的裁定”。②伴随状语 calling… 译为并列分句“称……”，接在主句后面。③call A + adj. 译为“称A是……”，增补系动词“是”；the process 增译“当年的”，点明是1954年的程序。④and 译为“且”，contrary to 转译为动词“违背了”，两个宾语补足语译成“是有缺陷的且违背了委员会的规定”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "The stigma",
+   "predicate": "had persisted",
+   "object_or_complement": "",
+   "explain": "主干是 The stigma had persisted，主谓结构，persist 是不及物动词。谓语为过去完成时（视频说明），表示到上一句的2022年12月为止，这一污名已经持续了五十五年。"
+  },
+  "components": [
+   {
+    "text": "The stigma",
+    "role": "主语",
+    "zh": "污名"
+   },
+   {
+    "text": "of the revocation",
+    "role": "后置定语（介词短语），修饰 stigma",
+    "zh": "撤销安全许可带来的"
+   },
+   {
+    "text": "had persisted",
+    "role": "谓语（过去完成时）",
+    "zh": "持续了"
+   },
+   {
+    "text": "for fifty-five years",
+    "role": "时间状语（for + 时间段，表示持续多久）",
+    "zh": "五十五年"
+   },
+   {
+    "text": "beyond his lifetime.",
+    "role": "时间状语（介词短语，beyond his lifetime：在他身后）",
+    "zh": "在他的一生结束之后"
+   }
+  ],
+  "structure": "①本句是主谓结构：主语 The stigma，谓语 had persisted，persist 是不及物动词，意为“持续、存留”。\n②of the revocation 是后置定语，修饰 stigma（视频说明），of 表示污名的来源。the revocation 指第9句原子能委员会拒绝恢复他的安全许可，视频译为“撤销安全许可”。\n③had persisted 是过去完成时（视频说明），参照的过去时间点是上一句的 In December 2022：到能源部长撤销裁定时，这一污名已经持续存在了很久。\n④for fifty-five years 说明持续的时间长度；beyond his lifetime 意为“在他身后”（视频说明），beyond 表示超出某一时间界限。他1967年去世，到2022年正好五十五年，与第12句、第13句的年份相呼应。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "过去完成时表示到过去某时为止持续的状态",
+    "explain": "过去完成时（had done）与 for + 时间段 连用，可以表示某一状态从更早的时候开始，一直持续到过去某一时间点。参照的时间点可以在同一句中，也可以在上下文中。本句的参照点是上一句的2022年12月：到那时为止，污名已经持续了五十五年，过去完成时也暗示这一状态到那时才随着裁定被撤销而告一段落。考研阅读中，遇到孤立出现的 had done，要到上下文中寻找它的参照时间点。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the time the dispute was settled, it had dragged on for nearly a decade.",
+      "zh": "到这场纠纷解决时，它已经拖了将近十年。"
+     },
+     {
+      "en": "The house had stood empty for years when the new owners finally moved in.",
+      "zh": "新主人终于搬进来时，这座房子已经空置多年。"
+     }
+    ]
+   },
+   {
+    "title": "介词 beyond 表示超出某一时间界限",
+    "explain": "beyond 可以表示时间上“超过、晚于”某一界限，如 beyond midnight（过了午夜）、beyond the deadline（超过截止日期）；也可以表示范围或程度上“超出”，如 beyond doubt（毋庸置疑）、beyond belief（难以置信）。本句 beyond his lifetime 指超出他的一生，即在他身后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum will stay open beyond midnight on Saturday.",
+      "zh": "博物馆周六将开放到午夜以后。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "stigma",
+    "explain": "名词，污名、耻辱，指社会对某人或某事的负面看法，常与 attach to 搭配，如 the stigma attached to mental illness（精神疾病所背负的污名）。动词是 stigmatise（英式）或 stigmatize（美式）。视频译为“污名”。"
+   },
+   {
+    "term": "revocation",
+    "explain": "名词，撤销、吊销，是动词 revoke 的名词形式，常指撤销执照、签证、许可等，如 the revocation of a licence。本句视频译为“撤销安全许可”，补出了撤销的对象。"
+   },
+   {
+    "term": "fifty-five",
+    "explain": "二十一到九十九之间的复合数词用英文书写时，十位和个位之间要加连字符，如 twenty-one、fifty-five。"
+   },
+   {
+    "term": "lifetime",
+    "explain": "名词，一生、终生，如 in one's lifetime（在某人有生之年）、once in a lifetime（一生一次的）。视频将 beyond his lifetime 译为“在他的一生结束之后”。"
+   }
+  ],
+  "translation_tip": "视频译文“撤销安全许可带来的污名，在他的一生结束之后，又持续了五十五年。”的处理：①后置定语 of the revocation 前置，增译为“撤销安全许可带来的”，补出撤销的对象，并用“带来的”点明污名的来源。②主语较长，后面用逗号停顿。③beyond his lifetime 前移，展开为“在他的一生结束之后”。④增补“又”，表示污名在他死后继续延续；“持续了五十五年”放在句末，突出时间之长。"
+ }
+]

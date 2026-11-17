@@ -1,0 +1,37 @@
+[
+ {
+  "key": "id=42 proceeding",
+  "field": "usage_detail",
+  "before": "单数 proceeding 在美式法律语言中可指一项具体的程序或诉讼，本句即是。",
+  "after": "单数 proceeding 可指一项具体的程序或诉讼（美式法律语言中尤其常见），本句即用单数指这一场行政程序。",
+  "reason": "原文写法暗示本文用的是美式法律语言，而本文通篇为英式拼写；改为只说明单数用法本身。"
+ },
+ {
+  "key": "id=56 officially",
+  "field": "etymology",
+  "before": "official 来自晚期拉丁语 officialis，源自 officium（职责、服务）",
+  "after": "official 经古法语来自拉丁语 officialis（与职责、公职有关的），源自 officium（职责、服务）",
+  "reason": "据 Etymonline，officialis 是古典拉丁语词，经古法语 oficial 进入英语，不是晚期拉丁语。"
+ },
+ {
+  "key": "id=57 vacate",
+  "field": "etymology",
+  "before": "由“使空出”引申为“腾出（房间、职位）”，用于法律文书时指“使（判决、裁定等）失去效力”。",
+  "after": "据 Etymonline，vacate 17世纪进入英语时意为“使无效、废止”，18世纪末才有“腾出、离开（房间、职位）”之义，所以本文“撤销（裁定）”的用法反而是较早的意思。",
+  "reason": "原写法暗示法律义由“腾出”义引申而来，与 Etymonline 所载词义先后相反，按词典改正。"
+ },
+ {
+  "key": "id=59 flawed",
+  "field": "etymology",
+  "before": "一般认为来自斯堪的纳维亚语",
+  "after": "可能来自斯堪的纳维亚语（可比较瑞典语 flaga“薄片、裂缝”）",
+  "reason": "Etymonline 对 flaw 的来源只说“可能”来自斯堪的纳维亚语，“一般认为”说得过满，改为与词典一致的推测语气并补出可比词。"
+ },
+ {
+  "key": "id=62 revocation",
+  "field": "etymology",
+  "before": "vocare 源自 vox（声音）。由“把说出去的话叫回来”引申为“撤销”。",
+  "after": "vocare 与 vox（声音）同根。由“召回”引申为“撤回、撤销”。",
+  "reason": "Etymonline 只说 vocare 与 vox 有关，不是由 vox 派生；“把说出去的话叫回来”无词典依据，改为“召回”到“撤销”的有据说法。"
+ }
+]
