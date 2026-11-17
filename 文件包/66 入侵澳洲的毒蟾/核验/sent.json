@@ -1,0 +1,1862 @@
+[
+  {
+    "n": 1,
+    "trunk": {
+      "subject": "Greyback cane beetles",
+      "predicate": "were plaguing",
+      "object_or_complement": "lucrative sugar plantations",
+      "explain": "主干是 Greyback cane beetles were plaguing lucrative sugar plantations，主谓宾结构。谓语 were plaguing 是过去进行时，主动语态，描写1935年前后甲虫持续危害甘蔗种植园的状况，为后文引进蟾蜍交代背景。"
+    },
+    "components": [
+      {
+        "text": "Greyback cane beetles,",
+        "zh": "灰背蔗甲虫",
+        "role": "主语（中心词 beetles，Greyback 和 cane 作前置定语）"
+      },
+      {
+        "text": "whose larvae devour roots,",
+        "zh": "它的幼虫啃食根系",
+        "role": "非限制性定语从句，修饰 Greyback cane beetles（whose 在从句中作定语）"
+      },
+      {
+        "text": "were plaguing",
+        "zh": "正困扰着",
+        "role": "谓语（过去进行时）"
+      },
+      {
+        "text": "lucrative sugar plantations",
+        "zh": "利润丰厚的甘蔗种植园",
+        "role": "宾语"
+      },
+      {
+        "text": "in Queensland,",
+        "zh": "位于……昆士兰州",
+        "role": "后置定语（介词短语），修饰 plantations"
+      },
+      {
+        "text": "north-eastern Australia.",
+        "zh": "澳大利亚东北部的",
+        "role": "同位语，补充说明 Queensland"
+      }
+    ],
+    "structure": "①主句是 Greyback cane beetles were plaguing lucrative sugar plantations：主语 Greyback cane beetles，谓语 were plaguing，宾语 lucrative sugar plantations。主语由三个词组成，中心词是 beetles：Greyback 描写甲虫的外观（灰色的背），cane 说明它危害的作物（甘蔗）。\n②两个逗号之间是 whose 引导的非限制性定语从句，修饰 Greyback cane beetles（视频说明）。whose 在从句中作定语，修饰 larvae，whose larvae 即 the beetles' larvae（这些甲虫的幼虫）；从句主语是 whose larvae，谓语 devour，宾语 roots。从句用一般现在时，陈述这种甲虫幼虫的习性，与主句的过去进行时并不冲突。\n③宾语 lucrative sugar plantations 中，lucrative 和 sugar 都是前置定语：sugar 说明种植园出产什么，lucrative 说明种植园的经济价值。in Queensland 是介词短语作后置定语，修饰 plantations，说明种植园的位置（视频说明）。\n④north-eastern Australia 是同位语，补充说明 Queensland（视频说明），相当于 which is in north-eastern Australia。英语新闻中“地名, 更大的地域”这种写法很常见。\n⑤从逻辑上看，whose 从句交代甲虫危害甘蔗的方式（幼虫啃食根系），lucrative 交代受损的是赚钱的产业，两者合起来说明昆士兰为什么急于对付这种甲虫。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "whose 引导非限制性定语从句",
+        "explain": "whose 是关系代词的所有格，在从句中作定语，后面紧跟它修饰的名词，先行词可以是人也可以是物。本句先行词是 Greyback cane beetles，whose larvae 相当于 the beetles' larvae；先行词指物时，也可写成 the larvae of which。从句用两个逗号与主句隔开，属于非限制性定语从句，只作补充说明，不能用 that 引导。考研长难句中，主语后插入这样的从句，主语和谓语被隔开，读的时候要越过第二个逗号找到真正的谓语 were plaguing。翻译时可以像视频译文那样保留原来的位置，用“它的”回指先行词。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The scientist, whose research on coral reefs won international praise, will retire next year.",
+            "zh": "这位科学家明年将退休，其珊瑚礁研究曾赢得国际赞誉。"
+          },
+          {
+            "en": "The village, whose only road was washed away by the flood, could be reached only by boat.",
+            "zh": "这个村子唯一的道路被洪水冲毁，只能乘船进出。"
+          }
+        ]
+      },
+      {
+        "title": "过去进行时铺陈背景",
+        "explain": "过去进行时（was/were doing）表示过去某一时间段内持续进行的动作或状态。叙事开头常用它铺陈背景，再用一般过去时叙述在这个背景下发生的具体事件。本句 were plaguing 描写甲虫当时持续困扰种植园的状况，第2句的 imported、第3句的 were released 则是一次性的具体动作。plague 表示“困扰”时用进行时，突出问题一直存在、尚未解决。考研阅读中，文章开头的过去进行时往往交代问题背景，后文常接应对措施。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Rising costs were squeezing small farmers when the government announced a new subsidy.",
+            "zh": "政府宣布新的补贴时，不断上涨的成本正挤压着小农户。"
+          }
+        ]
+      },
+      {
+        "title": "地名同位语",
+        "explain": "同位语对前面的名词作进一步说明，两者指同一对象，通常用逗号隔开。英语新闻中常用“较小地名, 较大地域”的格式交代方位，如 Napier, New Zealand；本句 Queensland, north-eastern Australia 中，north-eastern Australia 说明昆士兰州位于澳大利亚东北部。汉语地名按由大到小排列，所以视频把同位语前移，译成“澳大利亚东北部的昆士兰州”。north-eastern 是复合形容词，中间有连字符，美式英语多写作 northeastern。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The festival takes place each summer in Edinburgh, Scotland.",
+            "zh": "这个艺术节每年夏天在苏格兰的爱丁堡举行。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "larvae",
+        "explain": "larva 的复数，读作 /ˈlɑːviː/，沿用拉丁语的复数形式（-a 变 -ae），同类的还有 antenna/antennae（触角）、formula/formulae（公式，也作 formulas）。视频译为“幼虫”。第17句 its larvae 再次出现，指仙人掌螟的幼虫。"
+      },
+      {
+        "term": "devour",
+        "explain": "本义是狼吞虎咽地吃、吃光，语气比 eat 强烈；本句指甲虫幼虫在地下啃食甘蔗的根，视频译为“啃食”。也可比喻“如饥似渴地读”，如 devour books。"
+      },
+      {
+        "term": "plague",
+        "explain": "名词意为“瘟疫”，也指害虫等泛滥成灾，如 a plague of locusts（蝗灾）；动词意为“长期困扰、折磨”，常用被动 be plagued by/with，如 be plagued by injuries。视频译为“困扰”。"
+      },
+      {
+        "term": "lucrative",
+        "explain": "形容词，赚钱的、利润丰厚的，常修饰 business、market、contract、trade 等，如 a lucrative market。视频译为“利润丰厚的”。"
+      },
+      {
+        "term": "cane / sugar plantations",
+        "explain": "cane 在本文指甘蔗（sugar cane），cane beetles 是危害甘蔗的甲虫，第2句的 cane toads、第7句的 cane stalks 都与甘蔗有关。sugar plantations 指种植甘蔗用于制糖的种植园，视频译为“甘蔗种植园”。"
+      },
+      {
+        "term": "Queensland",
+        "explain": "昆士兰州，位于澳大利亚东北部，首府布里斯班（Brisbane）。视频译为“昆士兰州”。"
+      }
+    ],
+    "translation_tip": "视频译文“灰背蔗甲虫它的幼虫啃食根系，正困扰着利润丰厚的甘蔗种植园，此种植园位于澳大利亚东北部的昆士兰州。”的处理：①非限制性定语从句 whose larvae devour roots 保留在主语之后，按原语序译出，whose 译为“它的”回指甲虫，与英文结构一一对应。②过去进行时 were plaguing 译为“正困扰着”，用“正……着”体现动作在当时持续进行。③后置定语 in Queensland 和同位语 north-eastern Australia 没有塞到“种植园”前面，而是拆成独立分句“此种植园位于……”，用“此种植园”回指宾语，避免定语过长；地名由大到小排成“澳大利亚东北部的昆士兰州”。④sugar plantations 指种植甘蔗用来制糖的种植园，所以视频译为“甘蔗种植园”。"
+  },
+  {
+    "n": 2,
+    "trunk": {
+      "subject": "Queensland",
+      "predicate": "imported",
+      "object_or_complement": "102 cane toads",
+      "explain": "主干是 Queensland imported 102 cane toads，主谓宾结构，from Hawaii 与谓语构成 import sth from 某地。谓语 imported 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "In June 1935",
+        "zh": "1935年6月",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "Queensland",
+        "zh": "昆士兰州",
+        "role": "主语"
+      },
+      {
+        "text": "imported",
+        "zh": "引进了",
+        "role": "谓语"
+      },
+      {
+        "text": "102 cane toads,",
+        "zh": "102只甘蔗蟾蜍",
+        "role": "宾语"
+      },
+      {
+        "text": "bulky amphibians",
+        "zh": "庞大笨重的两栖动物",
+        "role": "同位语，补充说明 102 cane toads"
+      },
+      {
+        "text": "native to the Americas,",
+        "zh": "原产于美洲",
+        "role": "后置定语（形容词短语），修饰 amphibians"
+      },
+      {
+        "text": "from Hawaii.",
+        "zh": "从夏威夷",
+        "role": "状语（介词短语），修饰 imported，说明引进的来源"
+      }
+    ],
+    "structure": "①主句是 Queensland imported 102 cane toads from Hawaii：主语 Queensland，谓语 imported，宾语 102 cane toads，from Hawaii 是介词短语作状语，修饰 imported（视频说明），说明从哪里引进，构成 import sth from 某地。\n②句首 In June 1935 是时间状语，月份和年份连用时前面用介词 in。\n③宾语和 from Hawaii 之间插入了同位语 bulky amphibians native to the Americas，补充说明 cane toads（视频说明）。同位语的中心词是 amphibians，bulky 是前置定语；native to the Americas 是形容词短语作后置定语，相当于 which are native to the Americas，意为“原产于美洲的”。\n④同位语把 imported 和 from Hawaii 隔开，读的时候要把 from Hawaii 接回 imported：原产地是美洲，夏威夷只是这批蟾蜍的引进来源地，不能读成“原产于美洲和夏威夷”。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "同位语插在宾语和状语之间",
+        "explain": "名词短语作同位语时紧跟在所说明的名词之后，用逗号隔开。本句 bulky amphibians native to the Americas 说明 102 cane toads，它插在宾语和状语 from Hawaii 之间，把 import sth from 某地 这个搭配拆开了。考研长难句中，“动词 + 宾语 + 插入成分 + 状语”的结构很常见，判断介词短语修饰谁，要看语义和动词的搭配：import 常接 from，所以 from Hawaii 修饰的是 imported，而不是 the Americas。翻译时一般把这个状语还原到动词前，如视频译文“从夏威夷引进了”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The museum borrowed two paintings, early works by a little-known Dutch artist, from a private collector.",
+            "zh": "博物馆从一位私人收藏家那里借来了两幅画，那是一位不太知名的荷兰画家的早期作品。"
+          },
+          {
+            "en": "The company recruited fifty engineers, all graduates of leading universities, from overseas.",
+            "zh": "该公司从海外招聘了五十名工程师，他们都毕业于一流大学。"
+          }
+        ]
+      },
+      {
+        "title": "形容词短语作后置定语：native to",
+        "explain": "形容词带上介词短语等补足成分、构成形容词短语时，一般放在被修饰的名词之后作后置定语，如 a basket full of apples、plants native to China。本句 amphibians native to the Americas 相当于 amphibians that are native to the Americas。be native to + 地点 意为“原产于某地”（视频说明 native to…：原产于……），主语多为动植物；说人是某地人，用 be a native of + 地点。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Farmers were encouraged to plant trees native to the region.",
+            "zh": "当局鼓励农民种植原产于该地区的树木。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "cane toad",
+        "explain": "甘蔗蟾蜍，一种体型较大的蟾蜍，原产于中美洲和南美洲，后被引进澳大利亚等地，用来对付甘蔗害虫，英文名中的 cane 即甘蔗。视频译为“甘蔗蟾蜍”。"
+      },
+      {
+        "term": "the Americas",
+        "explain": "复数形式，统指北美洲、中美洲和南美洲，视频译为“美洲”。"
+      },
+      {
+        "term": "amphibian",
+        "explain": "两栖动物，如蛙、蟾蜍、蝾螈。它们的幼体一般在水中生活、用鳃呼吸，成体多在陆地生活。作者用上义词 amphibians 解释 toads，是科普文章介绍陌生动物的常见写法。"
+      },
+      {
+        "term": "import 的重音",
+        "explain": "import 作动词时重音在第二音节 /ɪmˈpɔːt/，作名词（进口，进口商品）时重音在第一音节 /ˈɪmpɔːt/，与 export、record、present 等词一样遵循“名前动后”的规律。"
+      },
+      {
+        "term": "Hawaii",
+        "explain": "夏威夷，1935年时是美国的领地，1959年成为美国的州。视频译为“夏威夷”。"
+      }
+    ],
+    "translation_tip": "视频译文“1935年6月，昆士兰州从夏威夷引进了102只甘蔗蟾蜍，这是一种原产于美洲、庞大笨重的两栖动物。”的处理：①时间状语“1935年6月”放在句首，汉语按年、月的顺序排列，与英文相反。②状语 from Hawaii 前移到谓语前，译为“从夏威夷引进了”，与 import sth from 对应；数字“102”后补出量词“只”。③同位语没有塞到“蟾蜍”前面，而是拆成独立分句，用“这是一种”引出说明。④同位语内部，后置定语 native to the Americas 前移，与 bulky 并列为“原产于美洲、庞大笨重的”，两个定语之间用顿号隔开。"
+  },
+  {
+    "n": 3,
+    "trunk": {
+      "subject": "about 2,400 of their young",
+      "predicate": "were released",
+      "object_or_complement": "",
+      "explain": "主干是 about 2,400 of their young were released，主谓结构。谓语 were released 是一般过去时的被动语态，句中没有 by 短语，施动者不言自明。"
+    },
+    "components": [
+      {
+        "text": "That August",
+        "zh": "同年8月",
+        "role": "时间状语（名词短语直接作状语）"
+      },
+      {
+        "text": "about 2,400 of their young",
+        "zh": "它们的约2,400只后代",
+        "role": "主语（young 是名词，指幼崽、后代）"
+      },
+      {
+        "text": "were released.",
+        "zh": "被释放到野外",
+        "role": "谓语（一般过去时，被动语态）"
+      }
+    ],
+    "structure": "①That August 是名词短语直接作时间状语，that 回指上句的1935年，即“那年8月”，视频译为“同年8月”。\n②主语 about 2,400 of their young：about 是副词，修饰数词 2,400，表示“大约”；of their young 表示部分，“它们的后代中的约2,400只”。young 在这里是名词，指动物的幼崽、后代（视频说明），their 指上句引进的102只甘蔗蟾蜍。\n③谓语 were released 是被动语态，主语是被释放的对象；释放者显然是昆士兰方面，所以省略了 by 短语。视频译文中的“到野外”是根据 release 在本文中的意思增补的。\n④6月引进102只蟾蜍，8月释放的已是它们的约2,400只后代，可见引进后很快就繁殖出大量后代，后文第9句还会说到蟾蜍的繁殖力。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "young 作名词表示幼崽",
+        "explain": "young 常作形容词，意为“年轻的”；作名词时可以指动物的幼崽、后代，是集合名词，表示复数意义，不加 -s，前面常有物主代词，如 a bird feeding its young（喂养雏鸟的鸟）。the young 还可以泛指年轻人，同样表示复数。本句 their young 指甘蔗蟾蜍繁殖出的后代（视频说明：名词，指动物的幼崽、后代）。考研阅读中看到“物主代词 + young”，要想到这里的 young 是名词，不能译成“年轻的”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The female bear will fiercely defend her young against any intruder.",
+            "zh": "母熊会拼命保护幼崽，不让任何入侵者靠近。"
+          },
+          {
+            "en": "Many seabirds feed their young on small fish.",
+            "zh": "许多海鸟用小鱼喂养雏鸟。"
+          }
+        ]
+      },
+      {
+        "title": "被动语态省略施动者",
+        "explain": "被动语态的基本形式是 be + 过去分词，动作的承受者作主语。动作执行者不重要、不言自明或不便说出时，常省略 by 短语。本句释放蟾蜍的显然是昆士兰方面，作者把焦点放在被释放的蟾蜍后代上，所以用被动语态 were released。考研阅读中，被动语态多见于科技和新闻文体；翻译时可保留“被”字，也可转换成主动句或无主句。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Thousands of young salmon were released into the river last spring.",
+            "zh": "去年春天，数千尾幼鲑被放流到这条河里。"
+          }
+        ]
+      },
+      {
+        "title": "that + 时间名词直接作状语",
+        "explain": "that、this、last、next 等加时间名词，可以直接作时间状语，前面不加介词；单独的月份前则要用 in，如 in August。本句 That August 指上文1935年的8月，即“那年8月”；that 在叙述中回指过去提到的时间，this August 则指“今年8月”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The company moved to London in 2015; that winter it hired its first hundred employees.",
+            "zh": "该公司2015年迁至伦敦，同年冬天聘用了第一批一百名员工。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "about + 数词",
+        "explain": "about 放在数词前作副词，意为“大约”，相当于 around、approximately，本句 about 2,400 视频译为“约2,400只”。第10句的 about ten kilometres、about 50 也是这个用法。"
+      },
+      {
+        "term": "2,400 的写法",
+        "explain": "英文数字从右往左每三位加一个逗号，如 2,400、10,000、1,000,000。"
+      },
+      {
+        "term": "release into the wild",
+        "explain": "release 作动词可指把动物放到野外，常说 release animals into the wild。本句没有写出 into the wild，视频按语境增补为“被释放到野外”。第6句的名词复数 releases 指一次次的释放行动。"
+      }
+    ],
+    "translation_tip": "视频译文“同年8月，它们的约2,400只后代被释放到野外。”的处理：①That August 译为“同年8月”，点明与上句的1935年是同一年。②主语 about 2,400 of their young 中的 of 结构表示部分，译为“它们的约2,400只后代”，物主代词“它们的”提到最前，补出量词“只”。③被动语态保留“被”字，译为“被释放”，并按语境增补“到野外”，交代释放的去向。"
+  },
+  {
+    "n": 4,
+    "trunk": {
+      "subject": "Biological control",
+      "predicate": "had",
+      "object_or_complement": "an ambitious new recruit",
+      "explain": "主干是 Biological control had an ambitious new recruit，主谓宾结构。谓语 had 为一般过去时，主动语态；have 在这里不是“拥有”，而是“迎来、有了（新成员）”，视频译为“就此迎来了”。"
+    },
+    "components": [
+      {
+        "text": "Biological control,",
+        "zh": "生物的防治",
+        "role": "主语"
+      },
+      {
+        "text": "setting one species against a pest,",
+        "zh": "即用一个物种去对付一种害虫",
+        "role": "插入语（现在分词短语），补充说明 Biological control"
+      },
+      {
+        "text": "had",
+        "zh": "就此迎来了",
+        "role": "谓语"
+      },
+      {
+        "text": "an ambitious new recruit.",
+        "zh": "一名雄心勃勃的新兵",
+        "role": "宾语（recruit 比喻刚被派上场的甘蔗蟾蜍）"
+      }
+    ],
+    "structure": "①主句是 Biological control had an ambitious new recruit：主语 Biological control，谓语 had，宾语 an ambitious new recruit。\n②两个逗号之间的 setting one species against a pest 是现在分词短语，补充说明 Biological control（视频说明），给出这个术语的含义，相当于 which sets one species against a pest。分词的逻辑主语是 Biological control，生物防治“让一个物种去对付害虫”，是主动关系，所以用现在分词。短语中的 set A against B 意为“用 A 对付 B”（视频说明）。\n③宾语 an ambitious new recruit 中，ambitious 和 new 都修饰 recruit。recruit 本指新兵、新成员，这里指刚被派上场的甘蔗蟾蜍（视频说明），把生物防治比作一支队伍，把引进的蟾蜍比作新招的兵。\n④本句承上启下：前三句讲引进和释放蟾蜍，本句用一个比喻概括这件事，下一段转入计划遭到的反对和失败。ambitious 字面写“新兵雄心勃勃”，与下一句的 hasty plan（草率的计划）放在一起读，带有调侃意味。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "现在分词短语作插入语，补充说明名词",
+        "explain": "现在分词短语可以放在名词之后、用逗号隔开，对这个名词作补充说明，作用相当于一个非限制性定语从句。本句 setting one species against a pest 相当于 which sets one species against a pest，解释“生物防治”是什么；分词与被说明的 Biological control 是主动关系，所以用 -ing 形式，若是被动关系则用过去分词。考研长难句中，主语后插入这类分词短语时，要越过它找到真正的谓语 had，不能把 setting 当成谓语。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The new policy, giving parents more say over school budgets, has proved popular.",
+            "zh": "这项新政策让家长对学校预算有了更多发言权，结果很受欢迎。"
+          },
+          {
+            "en": "Remote work, allowing employees to skip long commutes, has changed where many people choose to live.",
+            "zh": "远程办公让员工免去了长时间的通勤，改变了许多人对居住地的选择。"
+          }
+        ]
+      },
+      {
+        "title": "多个形容词的排列顺序",
+        "explain": "几个形容词共同修饰一个名词时，一般按“限定词 + 评价、观点 + 大小 + 新旧、年龄 + 颜色 + 来源 + 材料 + 用途 + 名词”的顺序排列：表示主观评价的词在前，客观描述的词在后，越能说明事物本质特征的词越靠近名词。本句 an ambitious new recruit 中，ambitious 是评价，new 表示新旧，所以 ambitious 在 new 之前，一般不说 a new ambitious recruit。写作中连用几个形容词时，可按这个顺序检查。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "They rented a lovely little wooden cottage by the lake.",
+            "zh": "他们在湖边租了一间可爱的小木屋。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "biological control",
+        "explain": "生物防治，指利用天敌等生物来抑制害虫、杂草，与使用农药的化学防治（chemical control）相对。视频本句译为“生物的防治”，第15句同一词组译为“生物防治”。"
+      },
+      {
+        "term": "set A against B",
+        "explain": "用 A 对付 B（视频说明）；set sb against sb 还可表示“使某人与某人对立、挑拨”，如 set neighbour against neighbour（挑拨邻里不和）。"
+      },
+      {
+        "term": "species",
+        "explain": "物种，单复数同形，one species、two species 都不加变化，第14句的 some species 是复数。"
+      },
+      {
+        "term": "pest",
+        "explain": "害虫、有害动物，如 pest control（虫害防治）；pesticide 意为“杀虫剂、农药”。本句 a pest 出现在给生物防治下定义的分词短语里，是泛指；放到本文的事件中，就是第1句的灰背蔗甲虫。"
+      },
+      {
+        "term": "recruit",
+        "explain": "名词，新兵、新成员；动词，招募、招收。本文把被引进来做生物防治的物种比作 recruit：本句指甘蔗蟾蜍，第18句的 recruits 指准备引进来做生物防治的物种。"
+      },
+      {
+        "term": "have 表示“迎来”",
+        "explain": "have 除“拥有”外，还可表示经历、迎来、有了（某人或某事），如 We had a visitor yesterday（昨天我们家来了位客人）。本句 had an ambitious new recruit 视频译为“就此迎来了一名雄心勃勃的新兵”。"
+      }
+    ],
+    "translation_tip": "视频译文“生物的防治，即用一个物种去对付一种害虫，就此迎来了一名雄心勃勃的新兵。”的处理：①Biological control 译为“生物的防治”。②现在分词短语没有前置，而是保留在主语之后，用“即”引出，作为对“生物的防治”的解释，与英文的插入结构对应；set one species against a pest 译为“用一个物种去对付一种害虫”，against 译为“去对付”，one 和 a 分别译为“一个”“一种”。③had 不译为“有”，而是译为“就此迎来了”，“就此”把本句和前三句引进、释放蟾蜍的事件连接起来。④recruit 按字面译为“新兵”，保留原文的比喻；ambitious 译为“雄心勃勃的”，冠词 an 译为量词“一名”。"
+  },
+  {
+    "n": 5,
+    "trunk": {
+      "subject": "The hasty plan",
+      "predicate": "met",
+      "object_or_complement": "opposition",
+      "explain": "主干是 The hasty plan met opposition，主谓宾结构。谓语 met 为一般过去时，主动语态；meet opposition 意为“遭到反对”（视频说明）。"
+    },
+    "components": [
+      {
+        "text": "The hasty plan",
+        "zh": "这个草率的计划",
+        "role": "主语（the 回指前文引进、释放蟾蜍的计划）"
+      },
+      {
+        "text": "met",
+        "zh": "遭到了",
+        "role": "谓语"
+      },
+      {
+        "text": "opposition.",
+        "zh": "反对",
+        "role": "宾语（不可数名词）"
+      }
+    ],
+    "structure": "①简单句，主谓宾结构：主语 The hasty plan，谓语 met，宾语 opposition。\n②The hasty plan 中的 the 回指第1至4句所述引进、释放蟾蜍的计划；hasty 是作者对计划的评价：6月引进，8月就释放了约2,400只后代，第17句还指出蟾蜍放出前没有经过检验。\n③met opposition 是固定搭配，意为“遭到反对”（视频说明），也可说 meet with opposition。\n④本句是第2段的主题句，下一句具体交代谁反对、结果怎样。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "meet 的熟词僻义：遭到，受到",
+        "explain": "meet 最常见的意思是“遇见、会面”，但后接 opposition、resistance、criticism、approval、success、failure 等抽象名词时，意为“遭到、受到、获得”，可以直接接宾语，也可以用 meet with。本句 met opposition 即“遭到了反对”。考研阅读和翻译中，这类搭配不能按“遇见”字面翻译，要根据宾语选用“遭到”“受到”“获得”等词。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The proposal to raise tuition fees met fierce resistance from students.",
+            "zh": "提高学费的提议遭到了学生的强烈抵制。"
+          },
+          {
+            "en": "Her first novel met with immediate success.",
+            "zh": "她的第一部小说一出版就大获成功。"
+          }
+        ]
+      },
+      {
+        "title": "用概括性名词回指前文",
+        "explain": "定冠词 the 用于前文已经提到或读者已知的事物。本句 The hasty plan 中的 plan 并没有在前文出现过，而是概括第1至4句引进、释放蟾蜍的整件事。这种用概括性名词回指前文内容的写法在新闻和议论文中很常见，如 the move、the decision、the scheme（第7句）。阅读时要把这类名词与前文的具体内容对上，考研阅读的指代题常考这一点。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The city cut bus fares by half. The move doubled passenger numbers within a year.",
+            "zh": "该市将公交票价减半，此举使乘客数量在一年内翻了一番。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "hasty",
+        "explain": "形容词，草率的、仓促的，含有“考虑不周”的贬义，如 a hasty decision。视频译为“草率的”。第19句 The blunder was born of haste 中的 haste 是它的名词，首尾呼应。"
+      },
+      {
+        "term": "opposition",
+        "explain": "名词，反对，常用 opposition to sth（对……的反对）；the Opposition 指反对党。动词 oppose，be opposed to doing sth 中的 to 是介词。"
+      },
+      {
+        "term": "plan 与 scheme",
+        "explain": "第7句用 scheme 再次指这个计划，视频译为“计划/方案”，是同义替换，避免重复。"
+      }
+    ],
+    "translation_tip": "视频译文“这个草率的计划遭到了反对。”的处理：①The 译为“这个”，回指前文的引进计划。②hasty 作前置定语，译为“草率的”。③met opposition 按搭配意义译为“遭到了反对”，“了”表示动作已经发生。"
+  },
+  {
+    "n": 6,
+    "trunk": {
+      "subject": "an insect expert, Walter Froggatt；they",
+      "predicate": "persuaded；resumed",
+      "object_or_complement": "officials（persuaded 的宾语）；to halt releases（宾语补足语）",
+      "explain": "本句由分号连接两个独立分句。前一分句 an insect expert persuaded officials to halt releases 是主谓宾加宾语补足语结构，不定式 to halt releases 作宾补；后一分句 they resumed 是主谓结构，resume 在此作不及物动词。两个谓语都是一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "In November 1935",
+        "zh": "1935年11月",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "an insect expert,",
+        "zh": "昆虫专家",
+        "role": "主语（中心词 expert，insect 作前置定语）"
+      },
+      {
+        "text": "Walter Froggatt,",
+        "zh": "沃尔特·弗罗格特",
+        "role": "同位语，补充说明 an insect expert"
+      },
+      {
+        "text": "persuaded",
+        "zh": "说服",
+        "role": "谓语"
+      },
+      {
+        "text": "officials",
+        "zh": "官员",
+        "role": "宾语"
+      },
+      {
+        "text": "to halt releases;",
+        "zh": "停止释放",
+        "role": "宾语补足语（不定式短语），构成 persuade sb to do sth"
+      },
+      {
+        "text": "after Queensland's lobbying,",
+        "zh": "经昆士兰州游说",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "they",
+        "zh": "释放",
+        "role": "主语（后一分句，指 releases）"
+      },
+      {
+        "text": "resumed",
+        "zh": "恢复",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "in September 1936.",
+        "zh": "于1936年9月",
+        "role": "时间状语（介词短语）"
+      }
+    ],
+    "structure": "①前一分句：In November 1935 作时间状语；主语是 an insect expert，Walter Froggatt 是同位语，补充说明这位昆虫专家的姓名（视频说明）；谓语 persuaded，宾语 officials，不定式短语 to halt releases 作宾语补足语，构成 persuade sb to do sth（说服某人做某事，视频说明）。releases 是名词复数，指一次次的释放行动。\n②分号连接两个关系紧密的独立分句：前一分句说释放被叫停，后一分句说释放恢复，前后相隔约十个月。\n③后一分句：after Queensland's lobbying 是介词短语作时间状语，after 后接名词 lobbying（游说），Queensland's 是所有格，表示游说来自昆士兰州方面。主语 they 指前一分句的 releases（视频说明），谓语 resumed，in September 1936 作时间状语。resume 既可作及物动词（resume talks），也可作不及物动词（Talks resumed），本句是后者。\n④介绍人物用“职业 + 逗号 + 姓名”的同位语形式，是新闻报道的常见写法。专家的意见被地方游说推翻，与第19句 sealed by lobbying that overrode a warning（又因游说压过了警告而成定局）前后呼应。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "persuade sb to do sth：不定式作宾语补足语",
+        "explain": "persuade、advise、urge、encourage、allow、force 等动词可以接“宾语 + 不定式”，不定式说明宾语要做的动作，作宾语补足语。本句 persuaded officials to halt releases 中，官员是“停止释放”的执行者。persuade 本身包含“说服成功”的意思，即对方被说服并照做；只表示劝说而不管结果，要用 try to persuade 或 urge。persuade 还可以用 persuade sb into/out of doing sth（说服某人做/不做某事），persuade sb that… 则表示“使某人相信”。考研完形中常考 persuade 与 convince 的区别：convince 侧重使人相信，persuade 侧重使人采取行动。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Her doctor finally persuaded her to cut down on sugar.",
+            "zh": "医生终于说服她少吃糖。"
+          },
+          {
+            "en": "Environmental groups persuaded the council to protect the wetland.",
+            "zh": "环保团体说服市议会保护这片湿地。"
+          }
+        ]
+      },
+      {
+        "title": "分号连接两个独立分句",
+        "explain": "分号用来连接两个意思紧密相关、语法上各自独立的分句，停顿介于逗号和句号之间。两个独立分句不能只用逗号连接（英语写作中称为 comma splice，是常见错误），要用分号、句号，或者加 and、but 等并列连词。本句前一分句说释放被叫停，后一分句说释放恢复，用分号把一停一启放在同一句里，对比鲜明。考研写作中可以用分号连接对比关系或因果关系紧密的两个分句。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The first trial was cancelled; the second went ahead a year later.",
+            "zh": "第一次试验取消了；第二次在一年后照常进行。"
+          }
+        ]
+      },
+      {
+        "title": "resume 的及物与不及物用法",
+        "explain": "resume 意为“（中断后）重新开始，继续”，可作及物动词，如 resume negotiations、resume work；也可作不及物动词，以恢复的事物作主语，如 Play resumed after the rain stopped。本句 they resumed 中 they 指 releases，属于不及物用法，句中没有宾语。可以这样两用的动词还有 begin、stop、open、close 等，如 The shop closed 和 They closed the shop。resume 后接动词时用 -ing 形式，如 resume working。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Flights resumed on Monday after the strike ended.",
+            "zh": "罢工结束后，航班于周一恢复。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Walter Froggatt",
+        "explain": "沃尔特·弗罗格特，澳大利亚昆虫学家。本句交代他在1935年11月说服官员暂停释放蟾蜍。视频译名中，名和姓之间用间隔号。"
+      },
+      {
+        "term": "halt",
+        "explain": "动词，（使）停止、叫停，较正式，常用于新闻，如 halt production（停产）；名词短语 come to a halt（停下来）、bring sth to a halt（使某事停止）。视频译为“停止”。"
+      },
+      {
+        "term": "releases（名词复数）",
+        "explain": "release 作名词时可指一次释放行动，可数；复数 releases 表示多次的释放。视频把名词 releases 译为动词性的“释放”。"
+      },
+      {
+        "term": "lobbying",
+        "explain": "lobby 的 -ing 形式，作名词，意为“游说（活动）”，指向官员、议员施加影响以争取有利的决定；lobby 作名词还可指大厅或游说团体。视频译为“游说”。"
+      },
+      {
+        "term": "resume",
+        "explain": "动词，（中断后）重新开始，视频译为“恢复”；名词 resumption（恢复）。注意与 résumé（简历）区分，两者拼写相近、读音不同。"
+      }
+    ],
+    "translation_tip": "视频译文“1935年11月，昆虫专家沃尔特·弗罗格特说服官员停止释放；经昆士兰州游说，释放于1936年9月恢复。”的处理：①时间状语“1935年11月”放在句首。②同位语 Walter Froggatt 与 an insect expert 合译为“昆虫专家沃尔特·弗罗格特”，省去两个逗号；人名音译，名和姓之间加间隔号。③persuade sb to do sth 译为“说服官员停止释放”，名词 releases 译为动词性的“释放”。④后一分句中，介词短语 after Queensland's lobbying 译为“经昆士兰州游说”，用“经”表示经过某种努力；代词 they 还原为所指的“释放”，避免指代不清；时间状语 in September 1936 移到谓语前，译为“于1936年9月恢复”。分号保留，突出一停一启的对照。"
+  },
+  {
+    "n": 7,
+    "trunk": {
+      "subject": "The scheme；the toads",
+      "predicate": "flopped；dented",
+      "object_or_complement": "beetle numbers（dented 的宾语）",
+      "explain": "冒号连接两个分句。前一分句 The scheme flopped 是主谓结构，flop 为不及物动词；冒号后的分句 the toads barely dented beetle numbers 是主谓宾结构，具体说明 flopped（视频说明）。谓语都是一般过去时，主动语态。句末 perhaps because 引导原因状语从句，表推测。"
+    },
+    "components": [
+      {
+        "text": "The scheme",
+        "zh": "这套计划/方案",
+        "role": "主语（回指第5句的 The hasty plan）"
+      },
+      {
+        "text": "flopped:",
+        "zh": "彻底失败",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "the toads",
+        "zh": "蟾蜍",
+        "role": "主语（冒号后的分句）"
+      },
+      {
+        "text": "barely",
+        "zh": "几乎没能",
+        "role": "程度状语（否定意味的副词）"
+      },
+      {
+        "text": "dented",
+        "zh": "削减",
+        "role": "谓语"
+      },
+      {
+        "text": "beetle numbers,",
+        "zh": "甲虫的数量",
+        "role": "宾语（beetle 作前置定语）"
+      },
+      {
+        "text": "perhaps",
+        "zh": "或许",
+        "role": "评注性状语，表示推测，修饰后面的原因状语从句"
+      },
+      {
+        "text": "because the insects stayed high up on cane stalks.",
+        "zh": "是因为这些昆虫一直待在甘蔗茎秆的高处",
+        "role": "原因状语从句（because 引导）"
+      }
+    ],
+    "structure": "①The scheme flopped 是全句的核心判断：scheme 回指第5句的 The hasty plan，flop 意为“彻底失败”。\n②冒号后的分句具体说明 flopped（视频说明）：the toads barely dented beetle numbers。barely 意为“几乎不”，带否定意味（视频说明），barely dented 即几乎没能削减。dent 本义“使凹陷”，引申为“使减少、削弱”。beetle numbers 是名词修饰名词，意为“甲虫的数量”。\n③perhaps because 引导原因状语从句，表推测（视频说明）。从句主语 the insects 指甲虫，作者换用上义词 insects，避免重复 beetles；谓语 stayed 是不及物动词，意为“停留、待在”；high up on cane stalks 作地点状语，high up 说明在高处，on cane stalks 说明在甘蔗茎秆上。\n④perhaps 表明这只是一种可能的解释，作者并没有断定失败的原因，阅读时不能把它当成确定的结论。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "barely 等半否定副词",
+        "explain": "barely、hardly、scarcely 意为“几乎不、勉强”，本身带有否定意味，句中不能再加 not，不说 didn't barely。本句 barely dented beetle numbers 是“几乎没能削减甲虫的数量”，强调效果微乎其微。barely 有时侧重“勉强做到”，如 He barely passed the exam（他勉强及格），要看语境。这类词所在的句子后接反意疑问句时，附加部分用肯定形式，如 He barely spoke, did he?；放在句首时句子要部分倒装，如 Barely had he arrived when the phone rang。考研阅读中，这类词决定句子是肯定还是否定倾向，常是细节题的考点。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The new law has barely reduced traffic in the city centre.",
+            "zh": "新法规几乎没能减少市中心的车流量。"
+          },
+          {
+            "en": "She could barely hear the speaker over the noise.",
+            "zh": "噪音太大，她几乎听不清演讲者在说什么。"
+          }
+        ]
+      },
+      {
+        "title": "冒号引出解释说明",
+        "explain": "冒号后的内容常用来解释、具体说明或证明冒号前的内容。本句冒号前是概括性的判断 The scheme flopped，冒号后用“蟾蜍几乎没能削减甲虫数量”具体说明失败的表现。考研阅读中，冒号前多为观点或结论，冒号后多为证据或细节，前后可以互相印证，做细节题时要善用这一点。第19句也用冒号引出全文的教训。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The experiment produced a clear result: the treated plants grew twice as fast.",
+            "zh": "实验得出了明确的结果：经过处理的植物生长速度快了一倍。"
+          }
+        ]
+      },
+      {
+        "title": "perhaps because：推测原因",
+        "explain": "because 引导原因状语从句，前面加 perhaps、probably、partly、mainly、largely 等副词，可以限定原因的确定程度或所占比重。perhaps because 意为“或许是因为”，作者只是提出一种可能的解释（视频说明：原因状语从句，表推测）。考研阅读中，带 perhaps、may、possibly 的原因是推测，选项若把它说成确定的事实，往往是干扰项。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Fewer students applied this year, probably because tuition fees rose sharply.",
+            "zh": "今年申请的学生减少了，很可能是因为学费大幅上涨。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "scheme",
+        "explain": "名词，计划、方案。英式英语中常指政府或机构有组织的计划，不一定含贬义，如 a pension scheme（养老金计划）；美式英语中多带“阴谋、诡计”的贬义。视频译为“计划/方案”。"
+      },
+      {
+        "term": "flop",
+        "explain": "不及物动词，（计划、电影、产品等）彻底失败，口语色彩较浓；名词 a flop 意为“失败之作”。视频译为“彻底失败”。"
+      },
+      {
+        "term": "dent",
+        "explain": "动词，本义“使凹陷”，引申为“削减、削弱”，如 dent confidence、dent profits；名词短语 make a dent in sth 意为“使某物减少”。视频译为“削减”。"
+      },
+      {
+        "term": "stalk",
+        "explain": "名词，（植物的）茎、秆，cane stalks 即甘蔗茎秆，视频译为“茎秆”。动词 stalk 意为“悄悄跟踪”，是来源不同的另一个词。"
+      },
+      {
+        "term": "high up",
+        "explain": "副词短语，在高处，如 high up in the mountains（在高山上）。本句 high up on cane stalks 视频译为“甘蔗茎秆的高处”。"
+      }
+    ],
+    "translation_tip": "视频译文“这套计划/方案彻底失败：蟾蜍几乎没能削减甲虫的数量，或许是因为这些昆虫一直待在甘蔗茎秆的高处。”的处理：①scheme 译为“计划/方案”，flopped 译为“彻底失败”，冒号保留。②barely dented 译为“几乎没能削减”，“没能”体现 barely 的否定意味，也暗含蟾蜍本应削减甲虫这一预期。③名词作定语的 beetle numbers 译为“甲虫的数量”，补出“的”。④perhaps because 译为“或许是因为”，保留推测语气；the insects 译为“这些昆虫”，“这些”体现定冠词的回指；地点状语 high up on cane stalks 由后往前译为“甘蔗茎秆的高处”，stayed 译为“一直待在”，“一直”体现 stay 的持续意味。"
+  },
+  {
+    "n": 8,
+    "trunk": {
+      "subject": "The toads",
+      "predicate": "thrived",
+      "object_or_complement": "",
+      "explain": "主干是 The toads thrived，主谓结构，thrive 为不及物动词；instead 作状语。谓语为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "The toads",
+        "zh": "蟾蜍自己",
+        "role": "主语"
+      },
+      {
+        "text": "thrived",
+        "zh": "兴旺起来",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "instead.",
+        "zh": "反倒",
+        "role": "状语（副词，表示与预期相反）"
+      }
+    ],
+    "structure": "①简单句，主谓结构：主语 The toads，谓语 thrived，副词 instead 在句末作状语。\n②instead 意为“反而”，和上文甲虫没被消灭形成对照（视频说明）：蟾蜍本该消灭甲虫，任务没有完成，自己却兴旺起来。\n③本句是第3段的主题句，后面三句从繁殖（第9句）、扩散速度（第10句）、越过州界（第11句）三方面具体说明蟾蜍如何“兴旺”。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "instead 作副词：反而，代替",
+        "explain": "instead 作副词，常放在句末，也可放在句首（后加逗号），表示“反而、却”或“作为替代”，暗含与前文的预期或做法相反。本句 The toads thrived instead 与上句“蟾蜍几乎没能削减甲虫数量”相对：预期的结果没有出现，出现的是相反的情况。instead of 是介词短语，后接名词或动名词，如 instead of reducing beetle numbers；单独的 instead 后面不能接宾语。考研阅读中，instead 常标志转折，后面往往是作者要强调的真实情况。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The government expected prices to fall; instead, they rose by ten percent.",
+            "zh": "政府原以为物价会下跌，结果反而上涨了百分之十。"
+          },
+          {
+            "en": "He didn't take the train. He drove instead.",
+            "zh": "他没坐火车，而是自己开车去的。"
+          }
+        ]
+      },
+      {
+        "title": "thrive 的用法和过去式",
+        "explain": "thrive 是不及物动词，不能接宾语，常用 thrive in + 环境（在某种环境中生长良好）、thrive on sth（因……而兴旺，在……中如鱼得水）。过去式有 thrived 和 throve 两种，现代英语中 thrived 更常用，本文即用 thrived。现在分词 thriving 常作形容词，如 a thriving economy（繁荣的经济）。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Some plants thrive in poor, dry soil.",
+            "zh": "有些植物在贫瘠干燥的土壤里也长得很好。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "thrive",
+        "explain": "兴旺、茁壮成长，视频译为“兴旺”。第14句的 prosper（繁荣）意思相近，作者用不同的词避免重复。"
+      },
+      {
+        "term": "instead / instead of",
+        "explain": "instead 是副词，单独使用，意为“反而、代替”；instead of 是介词短语，后接名词或动名词，意为“而不是”，如 The toads thrived instead of dying out。"
+      }
+    ],
+    "translation_tip": "视频译文“蟾蜍自己反倒兴旺起来。”的处理：①The toads 译为“蟾蜍自己”，增补“自己”，与上句没被消灭的甲虫形成对照。②句末的 instead 移到谓语前，译为“反倒”，符合汉语状语在动词前的习惯。③thrived 译为“兴旺起来”，补出趋向动词“起来”，表示从少到多的变化过程。"
+  },
+  {
+    "n": 9,
+    "trunk": {
+      "subject": "they",
+      "predicate": "multiplied",
+      "object_or_complement": "",
+      "explain": "主干是 they multiplied，主谓结构，multiply 在此作不及物动词，意为“繁殖”；unchecked 是形容词作状语（视频说明）。谓语为一般过去时，主动语态。句首的 with 复合结构作原因状语。"
+    },
+    "components": [
+      {
+        "text": "With few foes",
+        "zh": "天敌寥寥",
+        "role": "原因状语（with 复合结构）之一：with + 名词"
+      },
+      {
+        "text": "and fertile females",
+        "zh": "能生育的雌蟾",
+        "role": "and 连接 with 的第二个宾语"
+      },
+      {
+        "text": "spawning thousands of eggs,",
+        "zh": "产下数千枚卵",
+        "role": "宾语补足语（现在分词短语），说明 fertile females"
+      },
+      {
+        "text": "they",
+        "zh": "它们",
+        "role": "主语（指蟾蜍）"
+      },
+      {
+        "text": "multiplied",
+        "zh": "大量繁殖",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "unchecked.",
+        "zh": "不受遏制地",
+        "role": "状语（形容词作状语，说明繁殖的状态）"
+      }
+    ],
+    "structure": "①主句 they multiplied unchecked：主语 they 指蟾蜍，谓语 multiplied，unchecked 是形容词作状语，说明繁殖的状态（视频说明），即在不受遏制的状态下繁殖。\n②句首 With… 是“with + 名词 + 现在分词”的 with 复合结构，作原因状语（视频说明）。介词 with 带两个并列的宾语：一是 few foes，只有宾语，表示“天敌很少”；二是 fertile females，后接现在分词短语 spawning thousands of eggs 作宾语补足语，表示雌蟾主动产下数千枚卵。\n③few 是带否定意味的限定词，意为“很少、几乎没有”；foes 本义是敌人，这里指天敌（视频说明），few foes 视频译为“天敌寥寥”。\n④两层原因相互叠加：天敌少，死得少；雌蟾产卵多，生得多。结果就是主句的 multiplied unchecked。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "with 复合结构作原因状语",
+        "explain": "with 复合结构的形式是 with + 宾语 + 宾语补足语，宾补可以是现在分词、过去分词、不定式、形容词、副词或介词短语，常作原因、伴随、条件状语。现在分词表示宾语主动发出动作，过去分词表示宾语被动承受动作。本句 with fertile females spawning thousands of eggs 中，雌蟾主动产卵，所以用 spawning；前面的 with few foes 只有宾语，没有宾补。整个 with 结构说明蟾蜍大量繁殖的原因（视频说明）。考研长难句中，句首的 with 结构往往很长，要在逗号之后找到主句的主语 they。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "With prices rising every month, many families have cut back on eating out.",
+            "zh": "由于物价每月都在上涨，许多家庭减少了外出就餐。"
+          },
+          {
+            "en": "With the deadline approaching, the team worked through the weekend.",
+            "zh": "截止日期临近，团队整个周末都在加班。"
+          }
+        ]
+      },
+      {
+        "title": "few 与 a few",
+        "explain": "few 和 a few 都修饰可数名词复数。few 表示否定，意为“很少、几乎没有”，强调数量不足；a few 表示肯定，意为“有几个”。本句 few foes 意为天敌很少，视频译为“天敌寥寥”，说明蟾蜍几乎不受捕食的威胁。修饰不可数名词时，对应的是 little 和 a little。考研完形填空常考两者的语义差别。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Few visitors came to the museum during the storm.",
+            "zh": "暴风雨期间，几乎没有游客来博物馆。"
+          }
+        ]
+      },
+      {
+        "title": "形容词作状语：multiplied unchecked",
+        "explain": "形容词可以放在不及物动词之后，说明主语在动作发生时的状态，如 The prisoner escaped unhurt（囚犯逃走时没有受伤）。本句 they multiplied unchecked 意为它们在不受遏制的状态下大量繁殖（视频说明：形容词作状语，说明繁殖的状态）。这里用形容词，是因为 unchecked 描述的是蟾蜍种群所处的状态。常见搭配有 grow unchecked、spread unchecked、go unchecked（未受遏制）。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "If the disease spreads unchecked, hospitals will soon be overwhelmed.",
+            "zh": "如果这种疾病不受遏制地蔓延，医院很快就会不堪重负。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "foe",
+        "explain": "名词，敌人，书面色彩较浓，常见 friend or foe（是敌是友）；本句指天敌，即自然界中捕食它们的动物（natural enemies）。视频译为“天敌”。"
+      },
+      {
+        "term": "fertile",
+        "explain": "形容词，用于动物和人时指“能生育的”，用于土地时指“肥沃的”，还可比喻“丰富的”，如 a fertile imagination。视频本句译为“能生育的”。"
+      },
+      {
+        "term": "spawn",
+        "explain": "动词，（鱼、蛙等）产卵；比喻“引发、催生”，如 spawn imitators（引来模仿者）。视频译为“产下”。"
+      },
+      {
+        "term": "multiply",
+        "explain": "动词，（动植物）繁殖；（使）成倍增加；乘。视频译为“大量繁殖”。"
+      },
+      {
+        "term": "thousands of",
+        "explain": "数千、成千上万，表示约数时 thousand 要加 -s，并接 of；前面有具体数字时不加 -s，也不加 of，如 three thousand eggs。"
+      }
+    ],
+    "translation_tip": "视频译文“天敌寥寥，能生育的雌蟾产下数千枚卵，它们不受遏制地大量繁殖。”的处理：①with 复合结构没有译成“由于……”，而是拆成两个短句“天敌寥寥，能生育的雌蟾产下数千枚卵”，因果关系由语序体现，简洁明快。②few foes 译为“天敌寥寥”，用四字格表现 few 的否定意味；females 结合语境具体化为“雌蟾”。③thousands of eggs 译为“数千枚卵”，补出量词“枚”。④形容词作状语的 unchecked 译为“不受遏制地”，移到谓语前；multiplied 译为“大量繁殖”，“大量”体现 multiply 成倍增加的意思。"
+  },
+  {
+    "n": 10,
+    "trunk": {
+      "subject": "Their invasion frontier",
+      "predicate": "accelerated",
+      "object_or_complement": "",
+      "explain": "主干是 Their invasion frontier accelerated，主谓结构，accelerate 在此作不及物动词，意为“加快”；to about 50 a year 说明加快后达到的速度。谓语为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "Their invasion frontier,",
+        "zh": "它们的入侵前沿",
+        "role": "主语"
+      },
+      {
+        "text": "creeping about ten kilometres a year at first,",
+        "zh": "起初每年缓慢行进约十公里",
+        "role": "插入语（现在分词短语），补充说明 frontier"
+      },
+      {
+        "text": "accelerated",
+        "zh": "加快",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "to about 50 a year",
+        "zh": "到每年约50公里",
+        "role": "状语（介词短语，说明加快后达到的速度）"
+      },
+      {
+        "text": "in the tropical north.",
+        "zh": "到了热带北部",
+        "role": "地点状语（介词短语）"
+      }
+    ],
+    "structure": "①主句是 Their invasion frontier accelerated to about 50 a year in the tropical north。主语中 invasion 是名词作定语，invasion frontier 意为“入侵前沿”，指蟾蜍分布区不断向外推进的边缘。\n②两个逗号之间的 creeping about ten kilometres a year at first 是现在分词短语作插入语，补充说明 frontier（视频说明）。creep 意为“缓慢移动”（视频说明），about ten kilometres a year 说明速度，a year 中的 a 意为“每”；at first 意为“起初”，与主句加快后的情况形成对比。\n③谓语 accelerated 后接 to about 50 a year，to 表示达到的程度；about 50 a year 省略了 kilometres（视频说明），承前省略，避免重复。in the tropical north 是地点状语，说明在哪里加快。\n④从起初每年约十公里到每年约50公里，推进速度提高到原来的五倍左右，具体说明上一句 multiplied unchecked 的后果。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "现在分词短语作插入语",
+        "explain": "现在分词短语放在主语和谓语之间、用逗号隔开时，对主语作补充说明，读的时候要越过它找到谓语。本句 creeping 与 frontier 是主动关系，所以用现在分词（视频说明：现在分词短语作插入语，补充说明 frontier）。插入语中的 at first 与主句的 accelerated 前后对照，交代速度的变化：先慢后快。不要把 creeping 当成谓语，本句的谓语是 accelerated。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The river, flowing gently through farmland for most of its course, becomes a torrent near the coast.",
+            "zh": "这条河大部分河段平缓地流经农田，到了海岸附近却变成急流。"
+          },
+          {
+            "en": "The company's revenue, growing slowly in its first decade, surged after it entered the Asian market.",
+            "zh": "这家公司的收入在头十年增长缓慢，进入亚洲市场后猛增。"
+          }
+        ]
+      },
+      {
+        "title": "承前省略",
+        "explain": "为了避免重复，英语常省略前文刚出现过的名词，只保留数词等关键信息。本句 about 50 a year 省略了 kilometres（视频说明），完整形式是 about 50 kilometres a year。数词后省略名词的现象在比较和对照中很常见。翻译时要把省略的部分补出来，视频译文补成“每年约50公里”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Last year the club had 200 members; this year it has nearly 300.",
+            "zh": "去年俱乐部有200名会员，今年已近300名。"
+          }
+        ]
+      },
+      {
+        "title": "不定冠词表示“每”",
+        "explain": "不定冠词 a/an 放在表示时间、数量、单位的名词前，可以表示“每”，相当于 per，如 twice a week（每周两次）、80 kilometres an hour（每小时80公里）、ten dollars a kilo（每公斤十美元）。本句 ten kilometres a year 和 50 a year 都表示每年推进的距离。写作中描述速度、频率、价格时常用。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The glacier is retreating by about 30 metres a year.",
+            "zh": "这条冰川正以每年约30米的速度消退。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "invasion frontier",
+        "explain": "invasion 意为“入侵”，frontier 本指边境，也指（知识等的）前沿，invasion frontier 指入侵物种分布区的最前沿，视频译为“入侵前沿”。作者用 invasion 把蟾蜍的扩散比作军队入侵。"
+      },
+      {
+        "term": "creep",
+        "explain": "不规则动词，过去式和过去分词都是 crept，意为“缓慢移动”（视频说明），本义是贴着地面悄悄爬行。视频把 creeping 译为“缓慢行进”。"
+      },
+      {
+        "term": "accelerate",
+        "explain": "动词，（使）加快，既可及物（accelerate growth），也可不及物（Growth accelerated）；名词 acceleration（加速）。视频译为“加快”。"
+      },
+      {
+        "term": "tropical",
+        "explain": "形容词，热带的；the tropics 指南北回归线之间的热带地区。澳大利亚北部属于热带，视频译为“热带北部”。"
+      },
+      {
+        "term": "kilometres",
+        "explain": "kilometre 的复数，英式拼写；美式拼写为 kilometers。"
+      }
+    ],
+    "translation_tip": "视频译文“它们的入侵前沿起初每年缓慢行进约十公里，到了热带北部，加快到每年约50公里。”的处理：①主语 Their invasion frontier 译为“它们的入侵前沿”。②插入的现在分词短语紧跟主语译出，状语 at first 和 about ten kilometres a year 移到动词前，译为“起初每年缓慢行进约十公里”，creeping 译为“缓慢行进”。③地点状语 in the tropical north 移到“加快”之前，单独成为“到了热带北部，”，交代速度变化发生的地点。④省略的 kilometres 补出来，译为“每年约50公里”。"
+  },
+  {
+    "n": 11,
+    "trunk": {
+      "subject": "the first known toad",
+      "predicate": "breached",
+      "object_or_complement": "Western Australia's border",
+      "explain": "主干是 the first known toad breached Western Australia's border，主谓宾结构。谓语 breached 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "In February 2009",
+        "zh": "2009年2月",
+        "role": "时间状语（介词短语）"
+      },
+      {
+        "text": "the first known toad",
+        "zh": "已知的第一只蟾蜍",
+        "role": "主语（first 和过去分词 known 都作前置定语）"
+      },
+      {
+        "text": "breached",
+        "zh": "突破了",
+        "role": "谓语"
+      },
+      {
+        "text": "Western Australia's border.",
+        "zh": "西澳大利亚州的边界",
+        "role": "宾语（Western Australia's 是名词所有格）"
+      }
+    ],
+    "structure": "①In February 2009 是时间状语，月份和年份连用，前面用介词 in。\n②主语 the first known toad 中，first 和 known 都修饰 toad：known 是过去分词作前置定语，意为“已知的”，first known 即“已知的第一个”（视频说明）。known 限定了说法的范围：这只是有记录的第一只，不排除此前有未被发现的蟾蜍越界。\n③谓语 breached 意为“突破、攻破”，宾语 Western Australia's border 中，Western Australia 是州名，Western Australia's 是名词所有格。\n④从1935年释放到2009年进入西澳大利亚州，前后七十多年，蟾蜍一路向西扩散。breach 延续了上句 invasion frontier 的军事比喻：州界像一道防线，蟾蜍攻破了它。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "first known：过去分词作前置定语",
+        "explain": "单个过去分词作定语时一般放在名词前，如 a known risk、a broken window；与序数词连用时，序数词在前，过去分词在后：the first known case（已知的第一例）、the first recorded use（有记录的最早用法）。the first known 的意思是“就目前所知的第一个”，known 限定了说法的范围，作者只说有记录的是第一只，没有说绝对是第一只。考研阅读中，known、recorded、reported、documented 这类限定词表明说法依据的范围，做题时不能把它们去掉，理解成绝对化的断言。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "This is the first known case of the virus outside Asia.",
+            "zh": "这是该病毒在亚洲以外已知的首个病例。"
+          },
+          {
+            "en": "The oldest known map of the city was drawn in 1593.",
+            "zh": "这座城市已知最古老的地图绘于1593年。"
+          }
+        ]
+      },
+      {
+        "title": "地名的名词所有格",
+        "explain": "名词所有格 's 一般用于人和动物，但国家、城市、州等地名和机构名也常用 's，新闻中尤其多见，如 China's economy、London's mayor。本句 Western Australia's border 也可以写成 the border of Western Australia，用所有格更简洁紧凑。第6句的 Queensland's lobbying 也是地名所有格。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Japan's population has been shrinking for more than a decade.",
+            "zh": "日本人口已连续十多年减少。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "breach",
+        "explain": "动词，突破、攻破（防线、围墙等），也指违反（法律、协议），如 breach a contract；名词常见 a breach of contract（违约）、a data breach（数据泄露）。视频译为“突破了”。"
+      },
+      {
+        "term": "Western Australia",
+        "explain": "西澳大利亚州，澳大利亚面积最大的州，位于澳大利亚西部，首府珀斯（Perth）。视频译为“西澳大利亚州”。"
+      },
+      {
+        "term": "border",
+        "explain": "边界、边境，本句指州与州之间的州界，视频译为“边界”。"
+      }
+    ],
+    "translation_tip": "视频译文“2009年2月，已知的第一只蟾蜍突破了西澳大利亚州的边界。”的处理：①时间状语“2009年2月”放在句首，年在前、月在后。②the first known toad 中的两个前置定语译为“已知的第一只”，“已知的”放在最前，限定“第一只”的范围；补出量词“只”。③breached 译为“突破了”，体现越过州界的冲击感；所有格 Western Australia's 译为“西澳大利亚州的”，补出“州”字，表明是州名。"
+  },
+  {
+    "n": 12,
+    "trunk": {
+      "subject": "Toxin glands",
+      "predicate": "make",
+      "object_or_complement": "them（宾语）；a deadly meal（宾语补足语）",
+      "explain": "主干是 Toxin glands make them a deadly meal，主谓宾加宾语补足语结构，即 make A B（使 A 成为 B，视频说明）。谓语 make 为一般现在时，主动语态，陈述甘蔗蟾蜍的生理特点。"
+    },
+    "components": [
+      {
+        "text": "Toxin glands",
+        "zh": "毒素腺体",
+        "role": "主语（中心词 glands，Toxin 是名词作前置定语）"
+      },
+      {
+        "text": "in their skin",
+        "zh": "它们皮肤里的",
+        "role": "后置定语（介词短语），修饰 Toxin glands"
+      },
+      {
+        "text": "make",
+        "zh": "使",
+        "role": "谓语"
+      },
+      {
+        "text": "them",
+        "zh": "它们",
+        "role": "宾语（指蟾蜍）"
+      },
+      {
+        "text": "a deadly meal.",
+        "zh": "成为了一顿致命的餐食",
+        "role": "宾语补足语（名词短语）"
+      }
+    ],
+    "structure": "①主语是 Toxin glands in their skin：中心词 glands，Toxin 是名词作前置定语（视频说明 Toxin glands：毒腺），in their skin 是介词短语作后置定语，their 指蟾蜍。\n②谓语 make 后接宾语 them 和宾语补足语 a deadly meal，构成 make A B（使 A 成为 B，视频说明），宾补说明宾语 them 成了什么。\n③deadly 虽以 -ly 结尾，却是形容词，意为“致命的”，修饰 meal。\n④a deadly meal 是从捕食者的角度说的：吃下蟾蜍的动物会因毒素而死，这为下一句巨蜥和北袋鼬数量锐减交代了原因。时态由前文叙事的一般过去时转为一般现在时，陈述蟾蜍至今不变的特点。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "make + 宾语 + 名词作宾语补足语",
+        "explain": "make 可以接复合宾语：make + 宾语 + 名词（使……成为……），make + 宾语 + 形容词（使……变得……），make + 宾语 + 不带 to 的不定式（使……做……）。本句 make them a deadly meal 属于第一种，them 是宾语，a deadly meal 是宾补，两者是“它们就是一顿致命的餐食”的关系。考研易错点：make 的宾补是名词时不加 as，不说 make them as a meal；宾补是不定式时，主动语态中不带 to，变为被动语态时要还原 to，如 He was made to wait。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Her years in Paris made her an expert on French wine.",
+            "zh": "在巴黎的那些年使她成了法国葡萄酒专家。"
+          },
+          {
+            "en": "The new airport will make the city a regional transport hub.",
+            "zh": "新机场将使这座城市成为地区交通枢纽。"
+          }
+        ]
+      },
+      {
+        "title": "以 -ly 结尾的形容词",
+        "explain": "大多数以 -ly 结尾的词是副词，但也有一些是形容词，如 deadly（致命的）、friendly、lovely、lonely、costly、timely、elderly。它们不能直接修饰动词，要表达副词意思时常借助 in a … way/manner，如 in a friendly way。本句 a deadly meal 中的 deadly 是形容词，修饰 meal。deadly 也可以作副词修饰形容词，意为“极其”，如 deadly serious。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The heatwave proved deadly for elderly residents.",
+            "zh": "这场热浪对老年居民来说是致命的。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "toxin / gland",
+        "explain": "toxin 意为“毒素”，形容词 toxic（有毒的）；gland 意为“腺、腺体”，如 sweat glands（汗腺）。Toxin glands 即毒腺（视频说明），视频译为“毒素腺体”。"
+      },
+      {
+        "term": "甘蔗蟾蜍的毒腺",
+        "explain": "甘蔗蟾蜍眼睛后方、头部两侧有一对较大的耳后腺（parotoid gland），能分泌毒液，捕食者咬住或吞下它们就可能中毒。"
+      },
+      {
+        "term": "deadly 与 deathly",
+        "explain": "deadly 意为“致命的”，如 a deadly disease；deathly 意为“死一般的”，如 a deathly silence（死一般的寂静），两者不能混用。"
+      },
+      {
+        "term": "meal",
+        "explain": "名词，一顿饭、一餐。本句从捕食者的角度把蟾蜍说成“一顿餐食”，视频译为“一顿致命的餐食”。"
+      }
+    ],
+    "translation_tip": "视频译文“它们皮肤里的毒素腺体，使它们成为了一顿致命的餐食。”的处理：①主语中的后置定语 in their skin 前移，译为“它们皮肤里的毒素腺体”，“毒素腺体”对应 Toxin glands；主语后加逗号，使较长的主语和谓语之间有停顿。②make A B 译为“使它们成为了……”，补出“成为”；宾补 a deadly meal 译为“一顿致命的餐食”，不定冠词 a 译为量词“一顿”。"
+  },
+  {
+    "n": 13,
+    "trunk": {
+      "subject": "Numbers of goannas (large lizards) and northern quolls (small marsupial hunters)；some local quoll populations",
+      "predicate": "have slumped；were wiped out",
+      "object_or_complement": "",
+      "explain": "分号连接两个分句。前一分句主语的中心词是 Numbers，谓语 have slumped 是现在完成时，主动语态，slump 为不及物动词；后一分句谓语 were wiped out 是一般过去时的被动语态，短语动词 wipe out 用于被动。"
+    },
+    "components": [
+      {
+        "text": "Numbers",
+        "zh": "……的数量",
+        "role": "主语中心词"
+      },
+      {
+        "text": "of goannas",
+        "zh": "巨蜥",
+        "role": "后置定语（介词 of 的第一个宾语），修饰 Numbers"
+      },
+      {
+        "text": "(large lizards)",
+        "zh": "（大型蜥蜴）",
+        "role": "括号内注释，解释 goannas"
+      },
+      {
+        "text": "and northern quolls",
+        "zh": "和北袋鼬",
+        "role": "并列连词 and + of 的第二个宾语，与 goannas 并列"
+      },
+      {
+        "text": "(small marsupial hunters)",
+        "zh": "（一种小型有袋类猎手）",
+        "role": "括号内注释，解释 northern quolls"
+      },
+      {
+        "text": "have slumped",
+        "zh": "锐减",
+        "role": "谓语（现在完成时）"
+      },
+      {
+        "text": "in places;",
+        "zh": "在一些地方",
+        "role": "地点状语（介词短语）"
+      },
+      {
+        "text": "some local quoll populations",
+        "zh": "部分地方的袋鼬种群",
+        "role": "主语（后一分句）"
+      },
+      {
+        "text": "were wiped out.",
+        "zh": "被彻底消灭",
+        "role": "谓语（一般过去时，被动语态）"
+      }
+    ],
+    "structure": "①前一分句的主语是 Numbers of goannas (large lizards) and northern quolls (small marsupial hunters)，中心词是 Numbers，介词 of 后接两个并列宾语 goannas 和 northern quolls（视频说明 Numbers of…：……的数量）。两个名词各带一个括号注释：large lizards 说明 goannas 是大型蜥蜴，small marsupial hunters 说明北袋鼬是小型有袋类猎手。括号里的内容相当于同位语，为不熟悉澳大利亚动物的读者解释名称。\n②谓语 have slumped 用现在完成时，表示数量锐减从过去延续到现在，影响至今仍在；in places 意为“在一些地方”（视频说明），说明锐减是局部的。主语中心词是复数 Numbers，所以用 have。\n③分号后的分句 some local quoll populations were wiped out 用一般过去时的被动语态，叙述过去已经发生的局部灭绝；wipe out 意为“彻底消灭”（视频说明）。some 和 local 与前面的 in places 呼应，说明只是部分地方的种群。\n④两个分句程度递进：先说数量锐减，再说部分种群被彻底消灭，具体展开上一句 a deadly meal 的后果。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "现在完成时与一般过去时的对照",
+        "explain": "现在完成时（have/has done）表示过去发生的动作对现在造成的影响，或持续到现在的状态，不与具体的过去时间状语连用；一般过去时表示过去某一时间发生的事，与现在没有直接联系。本句 have slumped 说明锐减的局面持续至今，were wiped out 则把局部种群的消失作为过去已经完成的事件来叙述。考研写作中描述趋势和变化时常用现在完成时，如 has risen、have declined；句中有明确的过去时间状语（如 in 2009、last year）时，要用一般过去时。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Bird numbers have fallen sharply since the wetland was drained.",
+            "zh": "自从湿地被排干以来，鸟类数量急剧下降。"
+          },
+          {
+            "en": "The species was wiped out on the island in the 1990s.",
+            "zh": "20世纪90年代，这个物种在该岛上被彻底消灭。"
+          }
+        ]
+      },
+      {
+        "title": "短语动词的被动语态",
+        "explain": "及物的短语动词可以用于被动语态，变被动时动词和小品词要保持在一起，不能丢掉小品词，如 wipe out → be wiped out，call off → be called off，put off → be put off。本句 some local quoll populations were wiped out 没有说出施动者，从上下文看与有毒的蟾蜍有关。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The village was almost wiped out by the earthquake.",
+            "zh": "这个村庄几乎被地震彻底摧毁。"
+          }
+        ]
+      },
+      {
+        "title": "Numbers of… 与主谓一致",
+        "explain": "主语是 the number of + 复数名词时，中心词是 number，谓语用单数，如 The number of students has increased；a number of + 复数名词意为“许多”，谓语用复数。本句主语是复数 Numbers，表示两种动物各自的数量，谓语用复数 have slumped。英语新闻常用 numbers of sth 或 sth numbers（第7句的 beetle numbers）表示某种动物的数量。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Numbers of wild salmon have declined in many rivers.",
+            "zh": "许多河流中野生鲑鱼的数量都在下降。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "goanna",
+        "explain": "澳大利亚英语，指澳大利亚的各种巨蜥（monitor lizard），这个词由 iguana（鬣蜥）变化而来。视频译为“巨蜥”，括号里的 large lizards 意为大型蜥蜴（视频说明）。"
+      },
+      {
+        "term": "quoll",
+        "explain": "袋鼬，一种分布在澳大利亚和新几内亚的食肉有袋动物，northern quoll 即北袋鼬。视频译为“袋鼬”“北袋鼬”。"
+      },
+      {
+        "term": "marsupial",
+        "explain": "有袋类（动物），雌性腹部有育儿袋，幼崽出生后在袋中继续发育，如袋鼠、考拉。视频译为“有袋类”。"
+      },
+      {
+        "term": "slump",
+        "explain": "动词，（数量、价格等）锐减、暴跌，如 Sales slumped；也指人颓然倒下。视频译为“锐减”。"
+      },
+      {
+        "term": "in places 与 in place",
+        "explain": "in places 意为“在一些地方、局部地”（视频说明）；in place 意为“在适当的位置、准备就绪”，如 The new rules are now in place。两者只差一个 s，意思完全不同。"
+      },
+      {
+        "term": "population",
+        "explain": "在生物学中指“种群”，即某一地区同一物种的全部个体，可数，复数 populations。视频译为“种群”。"
+      }
+    ],
+    "translation_tip": "视频译文“巨蜥（大型蜥蜴）和北袋鼬（一种小型有袋类猎手）的数量在一些地方锐减；部分地方的袋鼬种群被彻底消灭。”的处理：①前一分句的主语 Numbers of A and B 按汉语习惯把 of 结构倒过来（视频说明），译为“巨蜥……和北袋鼬……的数量”。②括号注释保留在各自名词之后，small marsupial hunters 补出“一种”，译为“（一种小型有袋类猎手）”。③地点状语 in places 移到谓语前，译为“在一些地方锐减”。④后一分句中 local 译为“地方的”，与 some 合成“部分地方的”；被动语态保留“被”字，wiped out 译为“彻底消灭”，与前一分句的“锐减”形成程度上的递进。"
+  },
+  {
+    "n": 14,
+    "trunk": {
+      "subject": "The toads；the damage；some species",
+      "predicate": "have wreaked；is；have prospered",
+      "object_or_complement": "havoc（have wreaked 的宾语）；uneven（is 的表语）",
+      "explain": "全句由三个分句组成：but 连接前两个分句，表示转折；分号后的分句具体说明“不均衡”。第一分句是主谓宾结构，第二分句是主系表结构，第三分句是主谓结构（prosper 为不及物动词）。have wreaked、have prospered 是现在完成时，is 是一般现在时，均为主动语态。"
+    },
+    "components": [
+      {
+        "text": "The toads",
+        "zh": "蟾蜍",
+        "role": "主语（第一分句）"
+      },
+      {
+        "text": "have wreaked",
+        "zh": "造成了",
+        "role": "谓语（现在完成时）"
+      },
+      {
+        "text": "havoc,",
+        "zh": "严重破坏",
+        "role": "宾语（与 wreak 构成固定搭配 wreak havoc）"
+      },
+      {
+        "text": "but",
+        "zh": "但",
+        "role": "并列连词，表示转折"
+      },
+      {
+        "text": "the damage",
+        "zh": "损害",
+        "role": "主语（第二分句，回指 havoc）"
+      },
+      {
+        "text": "is",
+        "zh": "（系动词，与 uneven 合译为“并不均衡”）",
+        "role": "系动词"
+      },
+      {
+        "text": "uneven;",
+        "zh": "并不均衡",
+        "role": "表语"
+      },
+      {
+        "text": "some species",
+        "zh": "有些物种",
+        "role": "主语（第三分句）"
+      },
+      {
+        "text": "have prospered.",
+        "zh": "反而繁荣了起来",
+        "role": "谓语（现在完成时）"
+      }
+    ],
+    "structure": "①第一分句 The toads have wreaked havoc：wreak havoc 是固定搭配，意为“造成严重破坏”（视频说明）。现在完成时表示破坏已经造成，影响至今。这一分句概括前两句：蟾蜍有毒，巨蜥和北袋鼬数量锐减，部分袋鼬种群被消灭。\n②but 引出转折：the damage is uneven，主系表结构，damage 回指 havoc，uneven 作表语，指各地受害程度不一样（视频说明）。\n③分号后的 some species have prospered 进一步说明“不均衡”：并不是所有物种都受害，有些物种反而繁荣起来。species 单复数同形，这里与 some 连用，表示复数，谓语用 have。\n④全句的语气由“严重破坏”转为“并不均衡”：作者没有把蟾蜍的影响一概说成灾难，而是指出影响因物种、因地方而异。考研阅读中，but 之后的内容往往是作者的重点。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "单复数同形的名词与主谓一致",
+        "explain": "species（物种）、series（系列）、means（手段）、sheep、deer、aircraft 等名词单复数同形，单数还是复数要看限定词和语境：one species、this species 用单数谓语，some species、many species、two species 用复数谓语。本句 some species have prospered 中，some 修饰可数名词复数，谓语用 have。species 的单数也以 -s 结尾，不能写成 specie（specie 是另一个词，指硬币）。考研写作中常用 endangered species、invasive species 等表达，要注意谓语的单复数。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Several species of bird have returned to the restored wetland.",
+            "zh": "已有几种鸟回到了修复后的湿地。"
+          },
+          {
+            "en": "This species is found only on a handful of islands.",
+            "zh": "这个物种只分布在少数几个岛屿上。"
+          }
+        ]
+      },
+      {
+        "title": "but 转折与分号补充说明",
+        "explain": "but 连接两个分句表示转折，前一分句承认一个事实，后一分句加以限定或修正，作者的重点通常落在 but 之后。本句先承认蟾蜍造成了严重破坏，再指出损害并不均衡；分号后的分句是对 uneven 的具体说明，作用与冒号相近。阅读时抓住 but 后面的内容，有助于判断作者的态度。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "The reform has raised costs, but the burden is not shared equally; small firms have suffered most.",
+            "zh": "改革提高了成本，但负担并不均摊；小企业受害最重。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "wreak havoc",
+        "explain": "固定搭配，造成严重破坏（视频说明），常接 on/in sth，如 wreak havoc on crops；同义说法 cause havoc；play havoc with sth 意为“扰乱、严重影响”。havoc 是不可数名词，不说 a havoc。wreak 读 /riːk/，w 不发音。"
+      },
+      {
+        "term": "damage",
+        "explain": "表示“损害”时是不可数名词；复数 damages 在法律语境中指“损害赔偿金”，意思不同。视频译为“损害”。"
+      },
+      {
+        "term": "uneven",
+        "explain": "形容词，不均衡的，也指（地面）不平的，如 uneven ground；反义词 even。视频译为“不均衡”。"
+      },
+      {
+        "term": "prosper",
+        "explain": "不及物动词，繁荣、兴旺；名词 prosperity（繁荣），形容词 prosperous（繁荣的、富裕的）。视频译为“繁荣了”。第8句写蟾蜍用 thrived，本句写其他物种用 prospered，属于同义替换。"
+      }
+    ],
+    "translation_tip": "视频译文“蟾蜍造成了严重破坏，但损害并不均衡；有些物种反而繁荣了起来。”的处理：①wreaked havoc 按搭配译为“造成了严重破坏”，现在完成时用“了”体现。②the damage is uneven 中的系动词不单独译出，表语 uneven 译为“并不均衡”，“并”加强否定语气，与前一分句的“严重破坏”形成转折。③分号保留；第三分句增补“反而”，点明有些物种繁荣与蟾蜍造成破坏之间的反差，prospered 译为“繁荣了起来”，“起来”表示状态的变化。"
+  },
+  {
+    "n": 15,
+    "trunk": {
+      "subject": "Biological control",
+      "predicate": "can triumph",
+      "object_or_complement": "",
+      "explain": "主干是 Biological control can triumph，主谓结构，情态动词 can + 不及物动词 triumph，一般现在时，表示可能性。"
+    },
+    "components": [
+      {
+        "text": "Biological control",
+        "zh": "生物防治",
+        "role": "主语"
+      },
+      {
+        "text": "can triumph.",
+        "zh": "也能大获成功",
+        "role": "谓语（情态动词 can + 动词原形）"
+      }
+    ],
+    "structure": "①简单句，主谓结构：主语 Biological control，谓语 can triumph。triumph 在这里是不及物动词，意为“获胜、大获成功”。\n②can 表示可能性，说生物防治有成功的可能，并不是说它一定成功。\n③本句是最后一段的主题句，话题从蟾蜍的失败转向生物防治的成功，下一句以仙人掌螟为例。主语 Biological control 与第4句的 Biological control 呼应：第4句说生物防治迎来了蟾蜍这名“新兵”，结果失败；本句说生物防治本身是可以成功的。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "can 表示一般情况下的可能性",
+        "explain": "can 除表示能力外，还常表示理论上或一般情况下的可能性，意为“有时会、可能会”，如 Smoking can cause cancer、The weather can be very cold in April。本句 Biological control can triumph 说生物防治有可能取得成功，与蟾蜍的失败相对，下一句用仙人掌螟的例子证明这种可能。can 和 may 都可以表示可能性：can 侧重理论上或一般情况下存在的可能，may 侧重说话人的推测，语气更不确定，意为“也许会”，如第19句的 may never be recalled（就可能再也召不回来）。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Winter travel in the mountains can be slow and unpredictable.",
+            "zh": "冬季在山区出行可能会很慢，而且难以预料。"
+          },
+          {
+            "en": "A single careless remark can damage a long friendship.",
+            "zh": "一句不经意的话就可能毁掉多年的友谊。"
+          }
+        ]
+      },
+      {
+        "title": "triumph 作不及物动词",
+        "explain": "triumph 常作名词，意为“巨大的成功、胜利”，如 a triumph of engineering（工程技术的杰作）；作动词时是不及物动词，意为“获胜、成功”，要接对象时用 triumph over sth（战胜某事物），如 triumph over adversity（战胜逆境）。本句 can triumph 后面没有宾语。形容词 triumphant 意为“获胜的、得意洋洋的”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "In the end, common sense triumphed over fear.",
+            "zh": "最终，理智战胜了恐惧。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "triumph",
+        "explain": "动词，获胜、大获成功，语气比 succeed 强；名词，巨大的成功、胜利。视频译为“大获成功”。"
+      },
+      {
+        "term": "段首主题句",
+        "explain": "本句只有四个词，放在段首概括全段主题，后面用具体事例展开。考研阅读中，段首短句常是段落主旨，做主旨题时要重点关注。"
+      }
+    ],
+    "translation_tip": "视频译文“生物防治也能大获成功。”的处理：①Biological control 译为“生物防治”。②can triumph 译为“能大获成功”，“能”对应 can，triumph 带有“大胜”的意味，所以译为“大获成功”。③增补“也”字，与前文蟾蜍的失败形成对照，表明生物防治并不注定失败。"
+  },
+  {
+    "n": 16,
+    "trunk": {
+      "subject": "the cactus moth",
+      "predicate": "cleared",
+      "object_or_complement": "most prickly pear",
+      "explain": "主干是 the cactus moth cleared most prickly pear，主谓宾结构，from Queensland and New South Wales 与谓语构成 clear A from B（把 A 从 B 清除掉，视频说明）。谓语 cleared 为一般过去时，主动语态。"
+    },
+    "components": [
+      {
+        "text": "From 1926",
+        "zh": "从1926年起",
+        "role": "时间状语（介词短语，表示起点）"
+      },
+      {
+        "text": "the cactus moth,",
+        "zh": "这种蛾子",
+        "role": "主语"
+      },
+      {
+        "text": "Cactoblastis,",
+        "zh": "仙人掌螟",
+        "role": "同位语，补充说明 the cactus moth"
+      },
+      {
+        "text": "cleared",
+        "zh": "清除了",
+        "role": "谓语"
+      },
+      {
+        "text": "most prickly pear,",
+        "zh": "大部分“带刺的梨”",
+        "role": "宾语"
+      },
+      {
+        "text": "an invasive cactus,",
+        "zh": "这是一种外来入侵的仙人掌",
+        "role": "同位语，补充说明 prickly pear"
+      },
+      {
+        "text": "from Queensland and New South Wales",
+        "zh": "清除范围遍及昆士兰州和新南威尔士州",
+        "role": "状语（介词短语），与 cleared 构成 clear A from B"
+      },
+      {
+        "text": "within about a decade.",
+        "zh": "在约十年内",
+        "role": "时间状语（介词短语，表示时间范围）"
+      }
+    ],
+    "structure": "①主句是 the cactus moth cleared most prickly pear from Queensland and New South Wales：主语 the cactus moth，谓语 cleared，宾语 most prickly pear，from 短语与 cleared 构成 clear A from B（视频说明）。\n②句中有两个同位语：Cactoblastis 补充说明 the cactus moth，即仙人掌螟（视频说明）；an invasive cactus 补充说明 prickly pear（视频说明），告诉读者名字里带 pear 的 prickly pear 其实是一种外来入侵的仙人掌。\n③From 1926 表示起点，within about a decade 表示所用的时间范围，两者合起来说明：从1926年开始，大约十年之内就完成了清除。\n④和第2句一样，同位语 an invasive cactus 把 cleared most prickly pear 和 from 短语隔开，读的时候要把 from Queensland and New South Wales 接回 cleared。本句是上一句 Biological control can triumph 的例证，与蟾蜍的失败形成对照。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "clear A from B 与 clear B of A",
+        "explain": "clear 作及物动词表示“清除、清理”时，有两种常见句型：clear A from B（把 A 从 B 清除掉），宾语是被清除的东西；clear B of A（清除 B 上的 A），宾语是被清理的地方。本句 cleared most prickly pear from Queensland and New South Wales 属于前一种，也可以改写为 cleared Queensland and New South Wales of most prickly pear。用 B of A 结构表示“去除、剥夺”的动词还有 rob sb of sth、deprive sb of sth、rid sb of sth，考研完形和阅读中常考介词 of 的这种用法。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Volunteers cleared tonnes of rubbish from the beach.",
+            "zh": "志愿者从海滩上清走了数吨垃圾。"
+          },
+          {
+            "en": "Workers spent the morning clearing the roads of snow.",
+            "zh": "工人们花了一上午清除道路上的积雪。"
+          }
+        ]
+      },
+      {
+        "title": "同位语解释名称",
+        "explain": "同位语用来解释或补充说明前面的名词，两者指同一事物，常用逗号隔开。本句两处同位语作用不同：Cactoblastis 给出通俗名称 the cactus moth 的属名（学名 Cactoblastis cactorum 的前半部分），an invasive cactus 告诉读者名字里带 pear 的 prickly pear 其实是一种仙人掌，避免误解成梨。这种“名称 + 同位语解释”的写法在科普和新闻文章中很常见。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "We were met at the airport by Dr Lee, the head of the research team.",
+            "zh": "研究团队的负责人李博士到机场接了我们。"
+          }
+        ]
+      },
+      {
+        "title": "most + 名词 与 most of + 限定词 + 名词",
+        "explain": "most 作限定词直接修饰名词时，表示泛指的“大多数、大部分”，如 most people、most prickly pear；特指某个范围时，要用 most of + 限定词 + 名词，如 most of the people here、most of the money。本句 most prickly pear 中，prickly pear 用作不可数名词，指成片生长的这种植物，所以不加冠词，也不用复数。考研写作中的易错点：不说 most of people。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Most of the money was spent on new equipment.",
+            "zh": "大部分资金都花在了新设备上。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "Cactoblastis",
+        "explain": "仙人掌螟，学名 Cactoblastis cactorum，Cactoblastis 是它的属名。这种蛾原产南美洲，幼虫以仙人掌为食，所以英文俗称 cactus moth。视频说明“即仙人掌螟”。"
+      },
+      {
+        "term": "prickly pear",
+        "explain": "指仙人掌属（Opuntia）的植物，茎节扁平、长满尖刺，果实形似梨，可以食用，英文因此得名。视频按字面译为“带刺的梨”并加引号，同位语说明它是一种外来入侵的仙人掌。"
+      },
+      {
+        "term": "invasive",
+        "explain": "形容词，（物种）外来入侵的，invasive species 指在新环境中扩散成灾的外来物种；在医学中指侵入性的，如 invasive surgery。视频译为“外来入侵的”。"
+      },
+      {
+        "term": "New South Wales",
+        "explain": "新南威尔士州，位于澳大利亚东南部，与昆士兰州接壤，首府悉尼（Sydney）。视频译为“新南威尔士州”。"
+      },
+      {
+        "term": "within + 时间段",
+        "explain": "在……之内，如 within a week（一周之内）；within about a decade 即“在约十年内”。decade 意为“十年”。"
+      }
+    ],
+    "translation_tip": "视频译文“从1926年起，仙人掌螟这种蛾子在约十年内清除了大部分“带刺的梨”，这是一种外来入侵的仙人掌，清除范围遍及昆士兰州和新南威尔士州。”的处理：①From 1926 译为“从1926年起”，放在句首；within about a decade 移到谓语前，译为“在约十年内”。②主语和同位语合译为“仙人掌螟这种蛾子”，属名 Cactoblastis 用中文名“仙人掌螟”，the cactus moth 译为“这种蛾子”。③prickly pear 按字面译为“带刺的梨”并加引号，表示这是名称，不是真的梨；同位语 an invasive cactus 拆成独立分句“这是一种外来入侵的仙人掌”。④from Queensland and New South Wales 单独拆出，增补“清除范围遍及”，译为“清除范围遍及昆士兰州和新南威尔士州”，避免把地点状语塞进已经很长的前半句。"
+  },
+  {
+    "n": 17,
+    "trunk": {
+      "subject": "its larvae；the toads",
+      "predicate": "starved；faced",
+      "object_or_complement": "no such test（faced 的宾语）",
+      "explain": "分号连接两个分句。前一分句 its larvae starved rather than eat fifteen other plants 是主谓结构，starve 为不及物动词，rather than eat… 表示舍弃的选择；后一分句 the toads faced no such test 是主谓宾结构。两个谓语都是一般过去时，主动语态。句首 Tested first 是过去分词短语作状语。"
+    },
+    "components": [
+      {
+        "text": "Tested first,",
+        "zh": "这种蛾子放出前经过检验",
+        "role": "状语（过去分词短语），逻辑主语是这种蛾子"
+      },
+      {
+        "text": "its larvae",
+        "zh": "其幼虫",
+        "role": "主语（its 指这种蛾子）"
+      },
+      {
+        "text": "starved",
+        "zh": "饿死",
+        "role": "谓语（不及物动词）"
+      },
+      {
+        "text": "rather than eat",
+        "zh": "宁可……也不吃",
+        "role": "rather than + 动词原形，表示舍弃的一方，与 starved 对比"
+      },
+      {
+        "text": "fifteen other plants;",
+        "zh": "另外十五种植物",
+        "role": "宾语（eat 的宾语）"
+      },
+      {
+        "text": "the toads",
+        "zh": "蟾蜍",
+        "role": "主语（后一分句）"
+      },
+      {
+        "text": "faced",
+        "zh": "受过",
+        "role": "谓语"
+      },
+      {
+        "text": "no such test.",
+        "zh": "从未……这样的检验",
+        "role": "宾语（no 否定 test）"
+      }
+    ],
+    "structure": "①句首 Tested first 是过去分词短语作状语，逻辑主语是这种蛾子（视频说明）：蛾子是被检验的一方，所以用过去分词；first 意为“先、事先”，即放出之前先经过检验。主句主语 its larvae 中的 its 也指这种蛾子，检验的内容正是它的幼虫吃不吃别的植物，所以分词状语和主句衔接自然。\n②前一分句主语 its larvae，谓语 starved，rather than eat fifteen other plants 说明舍弃的一方：宁可饿死，也不吃另外十五种植物（视频说明 rather than：宁可……也不……）。rather than 后用动词原形 eat。这个检验结果表明，幼虫不会转而取食这些植物。\n③分号后的分句 the toads faced no such test：no such 意为“没有这样的”（视频说明），such test 回指前一分句描述的检验；face 在这里意为“经受、面对”。\n④分号前后形成鲜明对照：仙人掌螟放出前经过检验，蟾蜍却没有。作者借这个对照点出两者一成一败的差别所在，也引出下一句的法律和末句的教训。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "过去分词短语作状语",
+        "explain": "过去分词短语可以放在句首作状语，表示时间、原因、条件等，与逻辑主语是被动关系。本句 Tested first 意为“先经过检验”，逻辑主语是这种蛾子（视频说明），蛾子是被检验的一方，所以用过去分词 tested，不用 testing。分词状语的逻辑主语一般应与主句主语一致，本句主句主语 its larvae 是这种蛾子的幼虫，检验的正是幼虫的食性，意思衔接自然。考研写作中使用分词状语时，最稳妥的做法是让主句主语就是分词的逻辑主语，避免出现逻辑主语不清的“垂悬分词”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Built in 1890, the bridge is still used by thousands of commuters every day.",
+            "zh": "这座桥建于1890年，如今每天仍有成千上万的通勤者经过。"
+          },
+          {
+            "en": "Asked about the delay, the minister declined to comment.",
+            "zh": "被问及延误一事时，部长拒绝置评。"
+          }
+        ]
+      },
+      {
+        "title": "rather than + 动词原形：宁可……也不……",
+        "explain": "rather than 意为“而不是；宁可……也不……”，连接两个对等的成分，后面的是被舍弃的一方。连接动词时，rather than 后常用动词原形（不带 to），也可以用 -ing 形式，如 He resigned rather than accept the cut 或 rather than accepting the cut。本句 starved rather than eat 中，eat 用动词原形，表示幼虫在“饿死”和“吃别的植物”之间选择了前者（视频说明 rather than：宁可……也不……）。注意与 would rather do A than do B（宁愿做 A 也不愿做 B）区分，后者 rather 和 than 分开，前面有 would。考研翻译中，要分清哪一项是选择、哪一项是舍弃。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Many workers walked out rather than accept the new contract.",
+            "zh": "许多工人宁可罢工也不接受新合同。"
+          },
+          {
+            "en": "She would rather work late than leave the report unfinished.",
+            "zh": "她宁愿加班，也不愿让报告拖着不写完。"
+          }
+        ]
+      },
+      {
+        "title": "no such + 名词",
+        "explain": "no such + 名词 意为“没有这样的……”，such 回指前文描述的事物。such 后接单数可数名词时，肯定句要加 a（such a test），与 no 连用时不加 a，说 no such test、no such thing。本句 faced no such test 相当于 did not face such a test（视频说明 no such…：没有这样的……）。there is no such thing as… 是写作常用句型，意为“根本没有……这回事”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Officials say there is no such plan, despite reports to the contrary.",
+            "zh": "尽管有相反的报道，官员们表示根本没有这样的计划。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "starve",
+        "explain": "动词，饿死、挨饿，常说 starve to death；be starved of sth 比喻缺乏某物，如 schools starved of funds。视频译为“饿死”。"
+      },
+      {
+        "term": "face a test",
+        "explain": "face 作动词，意为“面对、经受”，如 face criticism、face a challenge。第18句 recruits now face stringent scrutiny 也用 face，与本句前后呼应。"
+      },
+      {
+        "term": "fifteen other plants",
+        "explain": "“数词 + other + 复数名词”意为“另外若干……”，视频译为“另外十五种植物”。也可以说 another fifteen plants，another 后接数词时可以跟复数名词。"
+      },
+      {
+        "term": "larvae",
+        "explain": "larva（幼虫）的复数。第1句的 larvae 指甲虫的幼虫，是害虫；本句的 larvae 指仙人掌螟的幼虫，是被用来对付外来仙人掌的帮手。"
+      }
+    ],
+    "translation_tip": "视频译文“这种蛾子放出前经过检验，其幼虫宁可饿死也不吃另外十五种植物；蟾蜍却从未受过这样的检验。”的处理：①过去分词短语 Tested first 补出逻辑主语，译为“这种蛾子放出前经过检验”，first 具体化为“放出前”，说明检验发生在释放之前。②its 译为“其”，与前面补出的“这种蛾子”衔接。③starved rather than eat 按“宁可……也不……”译出，选择的一方“饿死”在前，舍弃的一方“不吃另外十五种植物”在后，与英文语序一致。④后一分句增补“却”，突出与前一分句的对照；faced no such test 中的否定词 no 前移，译为“从未受过这样的检验”。"
+  },
+  {
+    "n": 18,
+    "trunk": {
+      "subject": "recruits",
+      "predicate": "face",
+      "object_or_complement": "stringent scrutiny",
+      "explain": "主干是 recruits face stringent scrutiny，主谓宾结构。谓语 face 为一般现在时，主动语态，陈述现行的规定。"
+    },
+    "components": [
+      {
+        "text": "Under an October 1984 law,",
+        "zh": "根据1984年10月通过的一部法律",
+        "role": "状语（介词短语，表示依据）"
+      },
+      {
+        "text": "recruits",
+        "zh": "新兵",
+        "role": "主语（指准备引进来做生物防治的物种）"
+      },
+      {
+        "text": "now",
+        "zh": "如今",
+        "role": "时间状语"
+      },
+      {
+        "text": "face",
+        "zh": "都要经过",
+        "role": "谓语"
+      },
+      {
+        "text": "stringent scrutiny.",
+        "zh": "严格的认真彻底的审查",
+        "role": "宾语"
+      }
+    ],
+    "structure": "①主句是 recruits now face stringent scrutiny：主语 recruits，now 是时间状语，谓语 face，宾语 stringent scrutiny。\n②recruits 与第4句的 an ambitious new recruit 呼应，这里指准备引进来做生物防治的物种（视频说明），作者延续了把引进物种比作“新兵”的比喻。\n③句首 Under an October 1984 law 是介词短语作状语，under 表示依据，意为“依据……法律”（视频说明）。an October 1984 law 中，October 1984 是时间名词作前置定语，说明这部法律的时间。\n④一般现在时 face 和 now 表示这是现行的规定，与上一句 the toads faced no such test 的一般过去时形成今昔对比。",
+    "long_difficult": false,
+    "grammar": [
+      {
+        "title": "under 表示依据",
+        "explain": "under 除表示“在……下面”外，还可以表示“在……的约束、管辖或作用下”，常见搭配有 under the law（依据法律）、under the agreement（根据协议）、under pressure（在压力下）、under construction（在建设中）、under scrutiny（受到审查）。本句 Under an October 1984 law 即“根据一部1984年10月的法律”（视频说明 Under…law：依据……法律）。考研阅读中，under + 法规、协议、计划 很常见，翻译时多译为“根据……”“按照……”。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Under the new rules, airlines must refund passengers within seven days.",
+            "zh": "根据新规定，航空公司必须在七天内给乘客退款。"
+          },
+          {
+            "en": "Under the agreement, both countries will cut tariffs on farm goods.",
+            "zh": "根据协议，两国将降低农产品关税。"
+          }
+        ]
+      },
+      {
+        "title": "时间名词作前置定语",
+        "explain": "英语常把表示时间的名词或名词短语直接放在名词前作定语，如 a 2020 survey（一项2020年的调查）、the June election（六月的选举）。本句 an October 1984 law 比 a law passed in October 1984 简洁，新闻中很常见。冠词按 October 的读音选用 an。翻译时一般要补出动词，如视频译文“1984年10月通过的”。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "A 2019 study found that the drug had few side effects.",
+            "zh": "一项2019年的研究发现，这种药物几乎没有副作用。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "stringent",
+        "explain": "形容词，（规则、标准等）严格的，比 strict 正式，多修饰 rules、standards、tests、requirements，不修饰人。视频译为“严格的”。"
+      },
+      {
+        "term": "scrutiny",
+        "explain": "不可数名词，仔细彻底的检查、审查，常见 under scrutiny（受到审查）、come under close scrutiny（受到严密审查）、public scrutiny（公众监督）；动词 scrutinize/scrutinise。视频译为“认真彻底的审查”。"
+      },
+      {
+        "term": "face",
+        "explain": "动词，面对、经受，常接 criticism、challenges、charges、scrutiny 等名词。视频本句译为“都要经过”。"
+      },
+      {
+        "term": "recruits",
+        "explain": "recruit 的复数，本义“新兵”，这里指准备引进来做生物防治的物种（视频说明）。"
+      }
+    ],
+    "translation_tip": "视频译文“根据1984年10月通过的一部法律，如今新兵都要经过严格的认真彻底的审查。”的处理：①Under an October 1984 law 译为“根据1984年10月通过的一部法律”，under 译为“根据”；前置的时间定语补出动词“通过的”，不定冠词 an 译为量词“一部”。②recruits 沿用“新兵”的比喻；now 译为“如今”，放在主语前，与上一句蟾蜍的旧事对照。③face 译为“都要经过”，“都”表明适用于所有新引进的物种，“要”体现法律的强制性。④stringent scrutiny 译为“严格的认真彻底的审查”，“严格的”对应 stringent，“认真彻底的审查”对应 scrutiny。"
+  },
+  {
+    "n": 19,
+    "trunk": {
+      "subject": "The blunder；an untested ally",
+      "predicate": "was born of … and (was) sealed；may never be recalled",
+      "object_or_complement": "haste（介词 of 的宾语）",
+      "explain": "冒号连接两部分。前一部分 The blunder was born of haste and sealed by lobbying… 中，一个主语带两个并列的谓语，第二个谓语 sealed 承前省略了 was，是被动语态，均为一般过去时；冒号后的分句 an untested ally may never be recalled 是“情态动词 + 被动语态”，陈述具有普遍意义的教训。"
+    },
+    "components": [
+      {
+        "text": "The blunder",
+        "zh": "这个大错",
+        "role": "主语（回指引进蟾蜍这件事）"
+      },
+      {
+        "text": "was born of",
+        "zh": "起于",
+        "role": "谓语一（be born of：源于）"
+      },
+      {
+        "text": "haste",
+        "zh": "仓促",
+        "role": "介词 of 的宾语"
+      },
+      {
+        "text": "and sealed",
+        "zh": "又……而成定局",
+        "role": "并列连词 and + 谓语二（省略 was 的被动语态）"
+      },
+      {
+        "text": "by lobbying",
+        "zh": "因游说",
+        "role": "状语（by 短语，引出使大错成定局的原因）"
+      },
+      {
+        "text": "that overrode a warning:",
+        "zh": "压过了警告",
+        "role": "限制性定语从句，修饰 lobbying"
+      },
+      {
+        "text": "an untested ally,",
+        "zh": "未经检验的盟友",
+        "role": "主语（冒号后的分句）"
+      },
+      {
+        "text": "once loose,",
+        "zh": "一旦放出",
+        "role": "省略的状语从句（once it is loose）"
+      },
+      {
+        "text": "may never be recalled.",
+        "zh": "就可能再也召不回来",
+        "role": "谓语（情态动词 + 被动语态）"
+      }
+    ],
+    "structure": "①冒号前是对整件事的定性：The blunder 回指引进甘蔗蟾蜍这件事。主语带两个并列谓语：was born of haste（源于仓促，视频说明 be born of…：源于……）和 (was) sealed by lobbying，第二个谓语承前省略了 was。seal 本义是“封住、盖印”，这里指使事情成为定局。\n②by lobbying 引出使大错成定局的原因；that overrode a warning 是限制性定语从句，修饰 lobbying（视频说明），that 在从句中作主语。这与第6句前后呼应：专家说服官员暂停释放，昆士兰州游说后释放又恢复。haste 则呼应第5句的 hasty。\n③冒号后是全文的教训：主语 an untested ally，once loose 是省略的状语从句，等于 once it is loose（视频说明），插在主语和谓语之间；谓语 may never be recalled 是“情态动词 + 被动语态”，never 加强否定，意为“可能再也召不回来”。\n④ally 和 recalled 延续了第4句、第18句 recruit 的军事比喻：引进的物种像招来的新兵、结成的盟友，一旦放出就可能召不回来。untested 则回扣第17句的 Tested first 和 no such test。",
+    "long_difficult": true,
+    "grammar": [
+      {
+        "title": "并列谓语中被动助动词的省略",
+        "explain": "两个被动谓语并列、共用一个助动词 be 时，第二个谓语前的 be 常省略，只保留过去分词。本句 was born of haste and sealed by lobbying 等于 was born of haste and was sealed by lobbying，and 后的 sealed 是过去分词，不是过去式。判断方法：看 -ed 形式后面是否有 by 短语、是否缺少宾语；sealed 后接 by lobbying，说明它是被动语态，与前面的 was 呼应。考研长难句中，这种省略常让人误判句子结构。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "The documents were collected by hand and stored in a locked room.",
+            "zh": "这些文件由人工收集，存放在一间上锁的房间里。"
+          },
+          {
+            "en": "The bridge was designed in 1920 and completed six years later.",
+            "zh": "这座桥于1920年设计，六年后竣工。"
+          }
+        ]
+      },
+      {
+        "title": "once 引导的省略状语从句",
+        "explain": "在时间、条件、让步状语从句中，如果从句主语与主句主语一致，而且从句谓语含有 be 动词，常把从句的主语和 be 一起省略，只留下连词和后面的表语、分词等，常见于 when、while、if、once、unless、though 之后，如 when in doubt、once started；if necessary、if possible 是固定说法，省略的是 it is。本句 once loose 等于 once it is loose（视频说明），it 指 an untested ally。once 作连词意为“一旦……就……”，条件一旦出现，主句的结果随之而来。",
+        "difficult": true,
+        "examples": [
+          {
+            "en": "Once opened, the jar should be kept in the fridge.",
+            "zh": "罐子一旦打开，就应放进冰箱保存。"
+          },
+          {
+            "en": "Though small, the device can store thousands of photos.",
+            "zh": "这台设备虽然小巧，却能存储数千张照片。"
+          }
+        ]
+      },
+      {
+        "title": "be born of：源于",
+        "explain": "be born of sth 是书面表达，意为“源于、产生于”（视频说明），主语多为抽象名词，如 a friendship born of shared hardship（因共患难而结下的友谊）、ideas born of experience（从经验中得来的想法）。本句 The blunder was born of haste 即“这个大错起于仓促”。注意与 be born in/into（出生于）区分。",
+        "difficult": false,
+        "examples": [
+          {
+            "en": "Their partnership was born of a shared love of music.",
+            "zh": "他们的合作源于对音乐的共同热爱。"
+          }
+        ]
+      }
+    ],
+    "knowledge": [
+      {
+        "term": "blunder",
+        "explain": "名词，（因粗心或愚蠢而犯的）大错，语气比 mistake 重，如 a costly blunder（代价高昂的大错）。视频译为“大错”。"
+      },
+      {
+        "term": "haste",
+        "explain": "不可数名词，匆忙、仓促，常带“欠考虑”的意味，谚语 More haste, less speed 意为“欲速则不达”。视频译为“仓促”。"
+      },
+      {
+        "term": "seal",
+        "explain": "熟词僻义：seal 常见义是“封住、密封”，也可表示“使成定局、决定”，如 seal sb's fate（决定某人的命运）、seal a deal（敲定一笔交易）。本句 sealed 视频译为“而成定局”。"
+      },
+      {
+        "term": "override",
+        "explain": "动词，推翻、压过、凌驾于……之上，三种形式为 override、overrode、overridden。视频把 overrode 译为“压过了”。"
+      },
+      {
+        "term": "ally",
+        "explain": "名词，盟友、同盟国，读作 /ˈælaɪ/；名词 alliance（联盟）。视频译为“盟友”，这里比喻被引进来对付害虫的物种。"
+      },
+      {
+        "term": "recall",
+        "explain": "动词，召回（人员、产品等），也指回想起。本句 may never be recalled 取“召回”义，视频译为“召不回来”。名词短语 beyond recall 意为“无法挽回”。"
+      },
+      {
+        "term": "loose 与 lose",
+        "explain": "loose /luːs/ 是形容词，意为“松的；逃脱的、不受束缚的”，如 break loose（挣脱）；lose /luːz/ 是动词，意为“丢失”。拼写和读音都要区分。"
+      }
+    ],
+    "translation_tip": "视频译文“这个大错起于仓促，又因游说压过了警告而成定局：未经检验的盟友一旦放出，就可能再也召不回来。”的处理：①前半句保持两个并列谓语的结构：was born of haste 译为“起于仓促”，and 译为“又”；被动的 sealed by lobbying 转为主动表达，by 短语译为“因游说”，seal 的“封定”义译为“而成定局”。②限制性定语从句 that overrode a warning 没有前置，而是和 lobbying 连成“游说压过了警告”，构成“因……而……”的因果句式。③冒号保留；后半句 once loose 译为“一旦放出”，与后面的“就”呼应。④may never be recalled 的被动语态转为“召不回来”，may 译为“可能”，never 译为“再也”，突出后果难以挽回。"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "key": 6,
+    "field": "etymology",
+    "before": "16世纪后期指在新领地上的移民定居点、殖民地，18世纪起",
+    "after": "后来指在新领地上建立的移民定居点、殖民地，18世纪起",
+    "reason": "“殖民地”义的出现年代无法确证，删去具体世纪"
+  },
+  {
+    "key": 10,
+    "field": "collocations.1",
+    "before": {
+      "en": "frogs, toads, and salamanders",
+      "zh": "蛙、蟾蜍和蝾螈"
+    },
+    "after": {
+      "en": "amphibian species",
+      "zh": "两栖动物物种"
+    },
+    "reason": "“frogs, toads, and salamanders”是列举，不是 amphibian 的搭配"
+  },
+  {
+    "key": 14,
+    "field": "context_usage",
+    "before": "生物防治的核心就是“以物种治害虫”，这里的 one species 指的就是甘蔗蟾蜍。",
+    "after": "生物防治的核心就是“以物种治害虫”。这个分词短语是在给生物防治下定义，one species 是泛指；放到本文的事件中，被派去的物种就是甘蔗蟾蜍。",
+    "reason": "one species 出现在一般定义里，是泛指，原说法把它说成专指蟾蜍"
+  },
+  {
+    "key": 15,
+    "field": "context_usage",
+    "before": "这里的 a pest 指第1句的灰背蔗甲虫。",
+    "after": "a pest 在这个定义里是泛指，放到本文的事件中就是第1句的灰背蔗甲虫。",
+    "reason": "a pest 出现在一般定义里，是泛指"
+  },
+  {
+    "key": 15,
+    "field": "etymology",
+    "before": "后来引申为“讨厌的人”，再指危害庄稼的有害动物和昆虫。",
+    "after": "后来引申指讨厌的人或物，以及危害庄稼的有害动物和昆虫。",
+    "reason": "各引申义出现的先后顺序无法确证，不写成确定的先后"
+  },
+  {
+    "key": 18,
+    "field": "etymology",
+    "before": "由名词 haste 加形容词后缀 -y 构成。haste 来自古法语 haste（急忙、急迫），源自日耳曼语。",
+    "after": "14世纪后期进入英语，来自古法语 hasti、hastif（急速的、鲁莽的），由古法语名词 haste（急忙、急迫）派生；haste 源自日耳曼语。",
+    "reason": "据 Etymonline，hasty 借自古法语 hastif，不是英语里由 haste 加 -y 构成"
+  },
+  {
+    "key": 21,
+    "field": "related",
+    "before": [
+      {
+        "en": "halting",
+        "pos": "adj.",
+        "zh": "断断续续的，迟疑的"
+      },
+      {
+        "en": "haltingly",
+        "pos": "adv.",
+        "zh": "断断续续地"
+      },
+      {
+        "en": "hold",
+        "pos": "v.",
+        "zh": "握住；保持（与德语 halten 同源）"
+      }
+    ],
+    "after": [
+      {
+        "en": "halt",
+        "pos": "n.",
+        "zh": "停止，停顿"
+      },
+      {
+        "en": "hold",
+        "pos": "v.",
+        "zh": "握住；保持（与德语 halten 同源）"
+      }
+    ],
+    "reason": "halting、haltingly 来自表示“跛行、踌躇”的另一个 halt（古英语 healtian），与表示“停止”的 halt 不同源"
+  },
+  {
+    "key": 27,
+    "field": "etymology",
+    "before": "可能是古英语 stela（茎、柄）的指小形式。",
+    "after": "可能是 stale（梯子的竖杆、工具的柄，源自古英语 stalu）的指小形式。",
+    "reason": "按 Merriam-Webster/Etymonline，stalk 可能是 stale 的指小形式，原写的 stela 无据"
+  },
+  {
+    "key": 27,
+    "field": "related.0.zh",
+    "before": "跟踪者",
+    "after": "跟踪者（由动词 stalk 派生）",
+    "reason": "词源已说明名词 stalk 与动词 stalk 来源不同，派生词需注明出自动词"
+  },
+  {
+    "key": 27,
+    "field": "related.1.zh",
+    "before": "跟踪骚扰",
+    "after": "跟踪骚扰（由动词 stalk 派生）",
+    "reason": "词源已说明名词 stalk 与动词 stalk 来源不同，派生词需注明出自动词"
+  }
+]

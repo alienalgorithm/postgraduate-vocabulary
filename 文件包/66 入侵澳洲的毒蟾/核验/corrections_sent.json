@@ -1,0 +1,78 @@
+[
+  {
+    "key": 1,
+    "field": "translation_tip",
+    "before": "④sugar 在这里指甘蔗，所以 sugar plantations 译为“甘蔗种植园”。",
+    "after": "④sugar plantations 指种植甘蔗用来制糖的种植园，所以视频译为“甘蔗种植园”。",
+    "reason": "sugar 本身不指甘蔗，是种植园的产物，原说法不准确"
+  },
+  {
+    "key": 4,
+    "field": "knowledge.3.explain",
+    "before": "本句 a pest 指第1句的灰背蔗甲虫。",
+    "after": "本句 a pest 出现在给生物防治下定义的分词短语里，是泛指；放到本文的事件中，就是第1句的灰背蔗甲虫。",
+    "reason": "setting one species against a pest 是对生物防治的一般定义，a pest 为泛指，不能直接说成指甲虫"
+  },
+  {
+    "key": 12,
+    "field": "knowledge.1.explain",
+    "before": "甘蔗蟾蜍头部两侧有一对较大的耳后腺",
+    "after": "甘蔗蟾蜍眼睛后方、头部两侧有一对较大的耳后腺",
+    "reason": "耳后腺位于眼后头部，位置说得更准确"
+  },
+  {
+    "key": 12,
+    "field": "grammar.1.explain",
+    "before": "但有一些是由名词加 -ly 构成的形容词，如",
+    "after": "但也有一些是形容词，如",
+    "reason": "deadly、lonely 分别由形容词 dead、lone 加 -ly 构成，“由名词加 -ly 构成”的概括不成立"
+  },
+  {
+    "key": 15,
+    "field": "grammar.0.explain",
+    "before": "can 和 may 都可以表示可能性：can 多指一般情况下存在的可能，may 多指对具体情况的推测，如第19句的 may never be recalled。",
+    "after": "can 和 may 都可以表示可能性：can 侧重理论上或一般情况下存在的可能，may 侧重说话人的推测，语气更不确定，意为“也许会”，如第19句的 may never be recalled（就可能再也召不回来）。",
+    "reason": "第19句是普遍性的教训，不是“具体情况”，原说法与所举例子矛盾"
+  },
+  {
+    "key": 16,
+    "field": "grammar.1.explain",
+    "before": "Cactoblastis 给出通俗名称 the cactus moth 的学名",
+    "after": "Cactoblastis 给出通俗名称 the cactus moth 的属名（学名 Cactoblastis cactorum 的前半部分）",
+    "reason": "Cactoblastis 是属名，与本句知识点的说法统一"
+  },
+  {
+    "key": 16,
+    "field": "translation_tip",
+    "before": "学名 Cactoblastis 用中文名",
+    "after": "属名 Cactoblastis 用中文名",
+    "reason": "Cactoblastis 是属名，不是完整学名"
+  },
+  {
+    "key": 18,
+    "field": "components.0.role",
+    "before": "依据状语（介词短语）",
+    "after": "状语（介词短语，表示依据）",
+    "reason": "“依据状语”不是考研通行术语，改为通行叫法"
+  },
+  {
+    "key": 19,
+    "field": "grammar.1.explain",
+    "before": "如 when in doubt、if necessary、once started。",
+    "after": "如 when in doubt、once started；if necessary、if possible 是固定说法，省略的是 it is。",
+    "reason": "if necessary 省略的是 it is，主语与主句不一致，不符合前面讲的规则，需单独说明"
+  },
+  {
+    "key": 19,
+    "field": "grammar.1.examples.1",
+    "before": {
+      "en": "If necessary, the meeting can be moved to Friday.",
+      "zh": "如有必要，会议可以改到周五。"
+    },
+    "after": {
+      "en": "Though small, the device can store thousands of photos.",
+      "zh": "这台设备虽然小巧，却能存储数千张照片。"
+    },
+    "reason": "原例句 If necessary… 省略的是 it is，与主句主语 the meeting 不一致，不能示范“主语一致才省略”的规则，换成主语一致的例句"
+  }
+]
