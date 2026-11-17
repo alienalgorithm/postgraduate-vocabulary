@@ -1,0 +1,1793 @@
+[
+ {
+  "n": 1,
+  "trunk": {
+   "subject": "Charles Darwin",
+   "predicate": "disembarked",
+   "object_or_complement": "",
+   "explain": "主干是 Charles Darwin disembarked，主谓结构；disembark 在此是不及物动词，不带宾语，后面用 from 引出离开的船只。谓语 disembarked 为一般过去时，主动语态，叙述过去发生的具体事件。"
+  },
+  "components": [
+   {
+    "text": "Charles Darwin",
+    "zh": "查尔斯·达尔文",
+    "role": "主语"
+   },
+   {
+    "text": "disembarked",
+    "zh": "登岸",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "from HMS Beagle",
+    "zh": "从小猎犬号上",
+    "role": "地点状语（介词短语，from 表示离开的起点，与 disembark 构成 disembark from）"
+   },
+   {
+    "text": "in October 1836.",
+    "zh": "1836年10月",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①本句是简单句，主语 Charles Darwin，谓语 disembarked，没有宾语。from HMS Beagle 是介词短语作状语，说明从哪艘船上下来（视频说明：disembark from…：从（船、飞机）上下来）。\n②in October 1836 是时间状语，“某年某月”前用介词 in。英语习惯把这类时间状语放在句末，汉语习惯放在句首，所以视频译文先说“1836年10月”。\n③HMS Beagle 是舰船名，HMS 表示英国皇家海军舰船，Beagle 是舰名（视频说明：英国皇家海军舰船小猎犬号）。开篇一句交代达尔文结束航行、回到陆地，为下文他构想自然选择原理提供时间起点。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "disembark from：不及物动词 + 介词",
+    "explain": "disembark 意为“下船、下飞机”，是不及物动词，不直接带表示船只的宾语，要用 from 引出离开的交通工具：disembark from a ship/plane。反义词 embark 也常作不及物动词，接 on 或 for：embark on a ship（登船）、embark for America（乘船前往美国）；embark on 还可引申为“着手、开始（新的事业或计划）”，如 embark on a new career，考研阅读中很常见。dis- 在这里表示相反的动作，同类词有 disconnect、disappear、dislike。日常表示“下车、下船”多说 get off，disembark 更正式，多见于新闻报道和航运、航空的通告。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "More than two thousand passengers disembarked from the cruise ship when it docked in Lisbon.",
+      "zh": "游轮停靠里斯本时，两千多名乘客下了船。"
+     }
+    ]
+   },
+   {
+    "title": "时间状语的位置与 in + 月份 + 年份",
+    "explain": "英语中表示具体时间的状语可以放在句首，也可以放在句末，放在句末更常见，本句 in October 1836 就在句末。介词按时间单位选择：年、月、季节以及“某年某月”用 in（in 1836、in October 1836），具体某一天用 on（on 2 October 1836），钟点用 at。汉语的时间状语通常放在主语前或谓语前，翻译时一般要前移，所以视频译文把“1836年10月”放在句首。本文几乎每句都有精确的时间，阅读时可以按时间线梳理事件：1836年回国、1838年构想原理、1844年写成手稿、1858年收到华莱士的文章。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The museum reopened to the public in March 2021 after extensive renovations.",
+      "zh": "经过大规模翻修，这座博物馆于2021年3月重新对公众开放。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "HMS",
+    "explain": "His Majesty's Ship 或 Her Majesty's Ship 的缩写，放在英国皇家海军舰船名前，用 His 还是 Her 取决于在位的是国王还是女王，按字母读作 /ˌeɪtʃ em ˈes/。HMS 后直接接舰名，前面不加 the，如 HMS Beagle；单说舰名时则说 the Beagle。视频说明为“英国皇家海军舰船小猎犬号”，beagle 本身是一种小型猎犬的名称。"
+   },
+   {
+    "term": "小猎犬号航行",
+    "explain": "达尔文于1831年底随小猎犬号出发，进行了近五年的环球考察，1836年10月回到英国，本句的“登岸”就是指这次航行结束。航行中积累的观察和标本，是他日后构想自然选择原理的重要基础。"
+   },
+   {
+    "term": "disembark",
+    "explain": "正式用词，意为下船、下飞机，名词 disembarkation；反义词 embark（上船、登机），名词 embarkation。视频译为“登岸”，突出从船上回到陆地。"
+   }
+  ],
+  "translation_tip": "视频译文“1836年10月，查尔斯·达尔文从小猎犬号上登岸。”的处理：①句末的时间状语 in October 1836 提到句首，并用逗号隔开，符合汉语先交代时间的习惯。②from HMS Beagle 放在谓语前，译成“从小猎犬号上”，增补方位词“上”，与“登岸”搭配，说明是从船上回到陆地。③HMS 不逐字译出，舰名 Beagle 意译为“小猎犬号”，补出“号”字表示船名。④人名 Charles Darwin 按通行译名译为“查尔斯·达尔文”，中间用间隔号。"
+ },
+ {
+  "n": 2,
+  "trunk": {
+   "subject": "he",
+   "predicate": "began",
+   "object_or_complement": "formulating the principle of natural selection",
+   "explain": "主干是 he began formulating the principle of natural selection，主谓宾结构，动名词短语 formulating… 作 began 的宾语（视频说明：begin doing，开始做某事）。谓语 began 为一般过去时，主动语态；冒号后的分句用一般现在时，说明这一原理的内容。"
+  },
+  "components": [
+   {
+    "text": "In September 1838",
+    "zh": "1838年9月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语（指达尔文）"
+   },
+   {
+    "text": "began",
+    "zh": "开始",
+    "role": "谓语"
+   },
+   {
+    "text": "formulating",
+    "zh": "构想并明确表述",
+    "role": "宾语（动名词，作 began 的宾语）"
+   },
+   {
+    "text": "the principle",
+    "zh": "原理",
+    "role": "动名词 formulating 的宾语"
+   },
+   {
+    "text": "of natural selection:",
+    "zh": "自然选择的",
+    "role": "后置定语（介词短语），修饰 the principle"
+   },
+   {
+    "text": "individuals",
+    "zh": "……个体",
+    "role": "冒号后说明分句的主语"
+   },
+   {
+    "text": "better adapted to their surroundings",
+    "zh": "对周围环境适应得更好的",
+    "role": "后置定语（过去分词短语），修饰 individuals"
+   },
+   {
+    "text": "survive",
+    "zh": "存活下来",
+    "role": "说明分句的谓语一"
+   },
+   {
+    "text": "and pass on",
+    "zh": "并将传递",
+    "role": "并列连词 and + 说明分句的谓语二（短语动词）"
+   },
+   {
+    "text": "their hereditary traits.",
+    "zh": "他们自身遗传的性状（给后代）",
+    "role": "宾语（pass on 的宾语）"
+   }
+  ],
+  "structure": "①冒号前是主句：In September 1838 作时间状语，he 是主语，began 是谓语，formulating the principle of natural selection 是动名词短语作宾语。动名词内部，the principle 是 formulating 的宾语，of natural selection 作 principle 的后置定语（视频说明：of 结构，自然选择的原理）。\n②冒号后是一个完整的分句，具体说明 the principle of natural selection 的内容，作用相当于前面名词的同位说明。分句主语是 individuals，better adapted to their surroundings 是过去分词短语作后置定语，修饰 individuals（视频说明）；better 是 well 的比较级，修饰 adapted，意为“适应得更好”。\n③分句有两个并列谓语 survive 和 pass on，由 and 连接；pass on 是短语动词，意为“传递”，宾语是 their hereditary traits，their 指 individuals，传递的对象（后代）没有写出。\n④主句叙述过去的事件，用一般过去时 began；冒号后的分句陈述自然选择这一普遍规律，用一般现在时 survive、pass on，不随主句改为过去时。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去分词短语作后置定语：better adapted to…",
+    "explain": "过去分词短语放在名词后作定语，表示被动或完成，相当于一个定语从句。本句 individuals better adapted to their surroundings 相当于 individuals that are better adapted to their surroundings（视频说明：过去分词短语作后置定语，修饰 individuals）。短语中的 better 是副词 well 的比较级，修饰 adapted，表示适应的程度，比较的对象是其他个体，没有写出。be adapted to 意为“适应……”（视频说明），表示“适应（某种环境）”时 to 是介词，后接名词、代词或动名词，如 adapted to living in the desert；另有 be adapted to do sth（具备做某事所需的特征），如 adapted to survive the cold，其中 to 是不定式符号，两种结构不要混淆。考研生物、环境类阅读中，well adapted to、poorly adapted to 很常见。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Animals well adapted to desert life can survive for long periods without water.",
+      "zh": "很好地适应了沙漠生活的动物可以长时间不喝水。"
+     },
+     {
+      "en": "Plants poorly adapted to the colder climate gradually disappeared from the region.",
+      "zh": "不能很好适应较冷气候的植物逐渐从这一地区消失了。"
+     }
+    ]
+   },
+   {
+    "title": "begin doing 与 begin to do",
+    "explain": "begin、start 后面接动名词或不定式作宾语，意思基本相同（视频说明：begin doing，开始做某事）。begin 本身用进行时（is/was beginning）时，后面通常接不定式，避免两个 -ing 形式连用，如 It was beginning to rain；后接 understand、realize 等表示认知状态的动词时，也一般用不定式，如 begin to understand。本句 began formulating 表示开始着手构想这一原理。要与 stop doing 和 stop to do、remember doing 和 remember to do 这类意思不同的结构区分，后者是考研完形的常见考点。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Researchers began collecting data on the island's bird population in 2015.",
+      "zh": "研究人员从2015年开始收集该岛鸟类种群的数据。"
+     }
+    ]
+   },
+   {
+    "title": "冒号引出解释说明",
+    "explain": "冒号用来引出对前文的解释、具体说明或列举，冒号后可以是名词、短语，也可以是完整的句子。本句冒号前提出 the principle of natural selection，冒号后用一个完整分句说明这一原理的具体内容，两部分意思相等。阅读时，冒号前常是概括，冒号后是具体内容，考研阅读的细节题常从冒号后面出题。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The plan has one obvious weakness: it depends entirely on volunteers.",
+      "zh": "这个计划有一个明显的弱点：它完全依赖志愿者。"
+     }
+    ]
+   },
+   {
+    "title": "一般现在时陈述普遍规律",
+    "explain": "叙述过去的事件用一般过去时，但其中涉及的客观规律、科学原理仍用一般现在时，不受主句时态影响。本句主句 began 是过去时，冒号后说明自然选择原理的 survive、pass on 用一般现在时，因为这一原理被当作普遍规律来陈述。宾语从句中也是如此，如 The teacher told us that light travels faster than sound。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Our physics teacher explained that water boils at a lower temperature at high altitudes.",
+      "zh": "物理老师解释说，在高海拔地区水的沸点更低。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "natural selection",
+    "explain": "自然选择，达尔文进化论的核心概念：对环境适应得更好的个体更容易存活并繁殖，从而把有利的遗传性状传给后代。本句冒号后就是对这一原理的简要说明。考研阅读中常与 evolution（进化）、species（物种）、adaptation（适应）等词一同出现。"
+   },
+   {
+    "term": "formulate",
+    "explain": "指经过思考，把想法、理论、计划系统地构想出来并明确表述，常见搭配有 formulate a theory、formulate a policy、formulate a plan。视频译为“构想并明确表述”，兼顾“想出”和“表述”两层意思。"
+   },
+   {
+    "term": "pass on sth (to sb)",
+    "explain": "把某物传给（他人或后代）。宾语是名词时可放在 on 前或后（pass the traits on 或 pass on the traits），宾语是代词时必须放在中间（pass them on）。本句没有写出 to their offspring，视频译文用括号补出“（给后代）”。pass on 还可表示“转告（消息）”；pass away 则是“去世”的委婉说法。"
+   },
+   {
+    "term": "hereditary traits",
+    "explain": "遗传性状，指由亲代传给子代的特征。hereditary 强调“世代相传”，也可指头衔、职位“世袭的”；trait 在生物学中译作“性状”，在日常语境中指人的“特点、品质”，如 personality traits。"
+   },
+   {
+    "term": "1838年与马尔萨斯",
+    "explain": "据达尔文的笔记和自传，他在1838年秋读了马尔萨斯（Thomas Malthus）的《人口论》，书中关于人口增长与生存资源之间矛盾的论述，促使他想到了自然选择的原理。"
+   }
+  ],
+  "translation_tip": "视频译文“1838年9月，他开始构想并明确表述自然选择的原理：对周围环境适应得更好的个体存活下来，并将传递他们自身遗传的性状（给后代）。”的处理：①时间状语 In September 1838 放在句首，与英文语序一致。②formulating 译成“构想并明确表述”，用两个动词完整表达 formulate 的含义。③the principle of natural selection 的 of 结构译成“自然选择的原理”，后置定语前移。④过去分词短语 better adapted to their surroundings 前置为“对周围环境适应得更好的”，修饰“个体”；介词 to 的宾语“周围环境”用“对”提到“适应”之前。⑤survive 译为“存活下来”，增补“下来”表示结果；pass on 译为“将传递”；their 译为“他们自身”，强调性状来自个体本身；句末用括号补出“（给后代）”，交代原文省略的传递对象。"
+ },
+ {
+  "n": 3,
+  "trunk": {
+   "subject": "he",
+   "predicate": "had composed；kept",
+   "object_or_complement": "a 230-page manuscript（had composed 的宾语）；it unpublished（kept 的宾语 it 与宾语补足语 unpublished）",
+   "explain": "主干是一个主语带两个由 yet 连接的并列谓语：he had composed a 230-page manuscript（主谓宾），yet kept it unpublished（主谓宾 + 宾语补足语）。had composed 是过去完成时，表示到1844年时已经完成；kept 是一般过去时，均为主动语态。"
+  },
+  "components": [
+   {
+    "text": "By 1844",
+    "zh": "到1844年",
+    "role": "时间状语（介词短语，by 表示“到……为止”）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语"
+   },
+   {
+    "text": "had composed",
+    "zh": "已撰写了",
+    "role": "谓语一（过去完成时）"
+   },
+   {
+    "text": "a 230-page manuscript,",
+    "zh": "一份230页的手稿",
+    "role": "宾语（230-page 是复合形容词作前置定语）"
+   },
+   {
+    "text": "yet",
+    "zh": "却",
+    "role": "并列连词（表示转折）"
+   },
+   {
+    "text": "kept",
+    "zh": "一直",
+    "role": "谓语二"
+   },
+   {
+    "text": "it",
+    "zh": "（代词，指 manuscript，与 kept 合译为“一直”，不单独译出）",
+    "role": "宾语"
+   },
+   {
+    "text": "unpublished,",
+    "zh": "未予发表",
+    "role": "宾语补足语（形容词）"
+   },
+   {
+    "text": "cautiously amassing evidence.",
+    "zh": "谨慎地积累着证据",
+    "role": "伴随状语（现在分词短语）"
+   }
+  ],
+  "structure": "①By 1844 是时间状语，by + 过去时间点 表示“到……为止”，常与过去完成时连用（视频说明：had composed：过去完成时，表示到那时已经完成）。主语 he 后的 had composed a 230-page manuscript 是第一个谓语部分；230-page 是数词与名词用连字符构成的复合形容词，作 manuscript 的前置定语，其中 page 用单数。\n②yet 是表示转折的并列连词，连接第二个谓语部分 kept it unpublished：kept 是谓语，it 指代 manuscript，作宾语，unpublished 是形容词作宾语补足语，说明手稿保持“未发表”的状态（视频说明：keep + 宾语 + 补语，使它保持未发表）。两个谓语共用主语 he，形成“写成了，却不发表”的转折。\n③句末 cautiously amassing evidence 是现在分词短语作伴随状语（视频说明），逻辑主语是 he，说明他不发表手稿期间在做什么；cautiously 修饰 amassing，evidence 是 amassing 的宾语。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "by + 过去时间 与过去完成时",
+    "explain": "by + 过去的时间点 表示“到那时为止”，主句通常用过去完成时，表示动作在那个时间点之前已经完成。本句 By 1844 与 had composed 连用，说明到1844年手稿已经写成。同理，by + 将来时间 常与将来完成时连用，如 By 2030 we will have finished the project；by the time 引导的从句用一般过去时时，主句一般用过去完成时。考研完形和翻译常据此判断动作的先后。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "By the end of the war, more than half of the city's buildings had been destroyed.",
+      "zh": "到战争结束时，这座城市一半以上的建筑已被摧毁。"
+     },
+     {
+      "en": "By 1900, the railway had reached almost every major town in the country.",
+      "zh": "到1900年，铁路已经通到了这个国家几乎所有的主要城镇。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末、用逗号与主句隔开时，常作伴随状语，表示与谓语动作同时发生或持续的情况，逻辑主语是句子的主语，二者是主动关系。本句 cautiously amassing evidence 的逻辑主语是 he，说明他把手稿搁置不发表期间一直在谨慎地积累证据。翻译时一般译成并列的短句，现在分词的持续意味可以用“着”表示，视频译为“谨慎地积累着证据”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The scientists spent years in the field, carefully recording every change in the glacier.",
+      "zh": "科学家们在野外工作了多年，仔细记录着冰川的每一处变化。"
+     },
+     {
+      "en": "She sat by the window, watching the rain fall on the empty street.",
+      "zh": "她坐在窗边，看着雨落在空荡荡的街道上。"
+     }
+    ]
+   },
+   {
+    "title": "keep + 宾语 + 宾语补足语",
+    "explain": "keep 可以接复合宾语，表示“使……保持某种状态”，宾语补足语可以是形容词（keep the door open）、过去分词（keep sth hidden）、现在分词（keep sb waiting）或介词短语（keep sth under control）。本句 kept it unpublished 中，unpublished 是由 un- 加过去分词构成的形容词，作宾语补足语，表示手稿一直处于未发表的状态。视频把 kept it 译为“一直”，突出状态的持续。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company kept the details of the deal confidential until the contract was signed.",
+      "zh": "合同签订之前，这家公司一直对交易细节保密。"
+     }
+    ]
+   },
+   {
+    "title": "数词 + 名词构成的复合形容词",
+    "explain": "数词与名词用连字符连接，放在名词前作定语时，其中的名词要用单数，如 a 230-page manuscript、a five-year plan、a ten-minute walk。不用连字符时名词要用复数，通常改成后置的介词短语或所有格：a manuscript of 230 pages、ten minutes' walk。写作中常错写成 a 230-pages manuscript。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The government has launched a ten-year programme to restore the country's wetlands.",
+      "zh": "政府启动了一项为期十年的计划，以恢复全国的湿地。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "yet",
+    "explain": "本句 yet 是并列连词，意为“但是、然而”，常带出出乎意料的情况：写成了手稿，却不发表。yet 作副词时意为“还、尚未”，多用于否定句和疑问句，两种用法要区分。视频译为“却”。"
+   },
+   {
+    "term": "1844年的手稿",
+    "explain": "达尔文1844年写成的这份手稿概述了他关于物种演变和自然选择的理论，当时没有发表。同年他给妻子写信，嘱咐自己万一去世，要设法出版这份手稿。"
+   },
+   {
+    "term": "amass evidence",
+    "explain": "积累证据。amass 指大量、逐渐地积累，宾语多为 wealth、fortune、data、evidence、collection 等；视频译为“积累着”。"
+   },
+   {
+    "term": "cautiously",
+    "explain": "副词，谨慎地，修饰 amassing，点出达尔文迟迟不发表的原因：他想先积累足够的证据。这一态度为第二段华莱士来信后达尔文担心失去优先权埋下伏笔。"
+   }
+  ],
+  "translation_tip": "视频译文“到1844年，他已撰写了一份230页的手稿，却一直未予发表，谨慎地积累着证据。”的处理：①By 1844 译为“到1844年”，过去完成时 had composed 用“已……了”译出，表示到那时已经完成。②a 230-page manuscript 译为“一份230页的手稿”，不定冠词 a 译成量词“一份”，复合形容词前置为“230页的”。③yet 译为“却”，kept 与宾语 it 合译为“一直”，宾语补足语 unpublished 译为“未予发表”；it 指代的手稿前文已经出现，不再重复译出。④伴随状语 cautiously amassing evidence 保持在句末，译成并列短句“谨慎地积累着证据”，用“着”表示持续。"
+ },
+ {
+  "n": 4,
+  "trunk": {
+   "subject": "Alfred Russel Wallace",
+   "predicate": "conceived",
+   "object_or_complement": "the same idea",
+   "explain": "主干是 Alfred Russel Wallace conceived the same idea，主谓宾结构。谓语 conceived 为一般过去时，主动语态；主语前有两个时间状语，主语后有同位语和过去分词短语，主干被拉得很长。"
+  },
+  "components": [
+   {
+    "text": "In February 1858,",
+    "zh": "1858年2月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "two decades after Darwin's first insight,",
+    "zh": "达尔文最初的洞察出现后的二十年",
+    "role": "插入的时间说明（名词短语 two decades 修饰介词短语 after…，补充说明 In February 1858）"
+   },
+   {
+    "text": "Alfred Russel Wallace,",
+    "zh": "阿尔弗雷德·拉塞尔·华莱士",
+    "role": "主语"
+   },
+   {
+    "text": "a naturalist",
+    "zh": "博物学家",
+    "role": "同位语，说明 Alfred Russel Wallace"
+   },
+   {
+    "text": "afflicted by fever in the Malay Archipelago,",
+    "zh": "在马来群岛饱受热病的折磨",
+    "role": "后置定语（过去分词短语），修饰 a naturalist"
+   },
+   {
+    "text": "independently",
+    "zh": "独自一人",
+    "role": "方式状语（副词），修饰 conceived"
+   },
+   {
+    "text": "conceived",
+    "zh": "构想出了",
+    "role": "谓语"
+   },
+   {
+    "text": "the same idea.",
+    "zh": "同一个想法",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①主句是 Alfred Russel Wallace … independently conceived the same idea：主语 Alfred Russel Wallace，谓语 conceived，宾语 the same idea；independently 是方式状语，修饰 conceived，强调华莱士是独立想出来的。the same idea 指第2句所说的自然选择原理。\n②句首 In February 1858 是时间状语；后面用逗号隔开的 two decades after Darwin's first insight 是插入的时间说明，补充这时离达尔文最初的洞察已有多久（视频说明）。two decades 是名词短语，修饰后面的介词短语 after Darwin's first insight，表示时间差：从1838年到1858年，正好二十年。\n③主语后的 a naturalist 是同位语，说明 Wallace 的身份（视频说明）；afflicted by fever in the Malay Archipelago 是过去分词短语作后置定语，修饰 a naturalist，be afflicted by 意为“饱受……的折磨”（视频说明）；in the Malay Archipelago 说明他患病时所在的地方。\n④阅读时要越过句首两个时间状语和主语后的同位语、分词短语，把主语 Wallace 和谓语 conceived 连起来，才能抓住句子主干。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "同位语与后置定语叠加",
+    "explain": "同位语是对前面名词的进一步说明，通常是名词短语，用逗号隔开。本句 a naturalist 是 Alfred Russel Wallace 的同位语，交代他的身份；过去分词短语 afflicted by fever in the Malay Archipelago 又修饰 a naturalist，说明他当时的处境。主语后连续出现同位语和分词短语，谓语被推到句子后部，这在考研长难句中很常见。分析时先把逗号之间的插入成分括起来，剩下的 Wallace … conceived the same idea 就是主干。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Marie Curie, a physicist born in Warsaw, was the first woman to win a Nobel Prize.",
+      "zh": "玛丽·居里是一位出生于华沙的物理学家，她是第一位获得诺贝尔奖的女性。"
+     },
+     {
+      "en": "The report, a document running to more than 400 pages, was finally released last week.",
+      "zh": "这份报告长达400多页，上周终于公布。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作后置定语：afflicted by…",
+    "explain": "afflict 是及物动词，意为“使痛苦、折磨”，常用被动结构 be afflicted by/with sth，主语是受苦的人或地区，by/with 后接疾病、灾害、问题。本句 afflicted by fever 是过去分词短语作后置定语，相当于 who was afflicted by fever，naturalist 是“被折磨”的一方，所以用过去分词。考研阅读中 a region afflicted by drought、countries afflicted by poverty 这类表达很常见。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Farmers in areas afflicted by repeated droughts are turning to drought-resistant crops.",
+      "zh": "在饱受反复干旱之苦的地区，农民们正在改种耐旱作物。"
+     }
+    ]
+   },
+   {
+    "title": "时间段 + after/before 表示时间差",
+    "explain": "表示“某事之后或之前多久”，把时间段放在 after/before 前面：two decades after Darwin's first insight（达尔文最初的洞察之后二十年）、three days before the election（选举前三天），时间段修饰整个介词短语，表示时间差。也可以用 later/earlier：two decades later。本句把这一短语用逗号插在 In February 1858 之后，换一种方式说明同一时间，强调两人相隔二十年得出同一想法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Only a few months after the factory opened, it was forced to cut half its workforce.",
+      "zh": "工厂开业仅几个月后，就被迫裁掉了一半的员工。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Alfred Russel Wallace",
+    "explain": "阿尔弗雷德·拉塞尔·华莱士（1823年至1913年），英国博物学家，在马来群岛进行过多年考察，后来著有《马来群岛》（The Malay Archipelago）。他独立提出了自然选择原理，与达尔文一起被视为这一理论的发现者。"
+   },
+   {
+    "term": "the Malay Archipelago",
+    "explain": "马来群岛，位于亚洲东南部大陆与澳大利亚之间，包括今天的印度尼西亚、菲律宾等地的众多岛屿。archipelago 意为“群岛”。华莱士1854年至1862年在这一带考察。"
+   },
+   {
+    "term": "fever",
+    "explain": "fever 本义是“发烧”，也指引起发烧的热病，视频译为“热病”。据华莱士后来的回忆，自然选择的想法正是他发热病倒期间想到的。"
+   },
+   {
+    "term": "first insight",
+    "explain": "insight 意为“洞察、深刻的认识”。Darwin's first insight 指第2句所说达尔文1838年对自然选择原理的最初构想，视频译为“达尔文最初的洞察”。"
+   },
+   {
+    "term": "independently",
+    "explain": "独立地、各自地，本句强调华莱士与达尔文彼此独立地得出同一原理，视频译为“独自一人”。科学史上把不同的人各自得出相同发现的情况称为独立发现（independent discovery）。"
+   }
+  ],
+  "translation_tip": "视频译文“1858年2月，达尔文最初的洞察出现后的二十年，博物学家阿尔弗雷德·拉塞尔·华莱士在马来群岛饱受热病的折磨，独自一人构想出了同一个想法。”的处理：①两个时间状语保持英文顺序放在句首，插入的 two decades after Darwin's first insight 译为“达尔文最初的洞察出现后的二十年”，增补“出现”，使“洞察”与“后”衔接自然。②同位语 a naturalist 前置，与人名合译为“博物学家阿尔弗雷德·拉塞尔·华莱士”。③过去分词短语 afflicted by fever in the Malay Archipelago 没有译成定语，而是拆成短句“在马来群岛饱受热病的折磨”，地点状语前移，避免主语前的定语过长。④independently 译为“独自一人”，conceived the same idea 译为“构想出了同一个想法”，the same 对应“同一个”。"
+ },
+ {
+  "n": 5,
+  "trunk": {
+   "subject": "His concise essay",
+   "predicate": "reached",
+   "object_or_complement": "Darwin",
+   "explain": "主干是 His concise essay reached Darwin，主谓宾结构，reach 是及物动词，直接接宾语 Darwin（视频说明：reach sb：送到某人手中）。谓语 reached 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "His",
+    "zh": "华莱士这篇",
+    "role": "定语（物主代词，指 Wallace），修饰 essay"
+   },
+   {
+    "text": "concise",
+    "zh": "简明的",
+    "role": "前置定语（形容词），修饰 essay"
+   },
+   {
+    "text": "essay",
+    "zh": "文章",
+    "role": "主语中心词"
+   },
+   {
+    "text": "reached",
+    "zh": "到达了",
+    "role": "谓语"
+   },
+   {
+    "text": "Darwin",
+    "zh": "达尔文的手里",
+    "role": "宾语（reach sb 意为送到某人手中）"
+   },
+   {
+    "text": "on 18 June 1858.",
+    "zh": "于1858年6月18日",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①本句是简单句：主语 His concise essay，谓语 reached，宾语 Darwin，on 18 June 1858 作时间状语。\n②His 指华莱士（视频说明），回指上句的 Alfred Russel Wallace；concise 是形容词作前置定语，修饰 essay。essay 指华莱士论述自然选择原理的那篇文章。\n③reach 原义是“到达”，主语是信件、消息、文章等时，表示“送到某人手中、为某人所收到”（视频说明）。华莱士在马来群岛写成文章，寄给远在英国的达尔文，本句交代达尔文收到文章的日期。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "reach 作及物动词",
+    "explain": "reach 表示“到达”时是及物动词，直接接地点或人作宾语：reach London、reach the summit，不说 reach to London；意思相近的 arrive 是不及物动词，要接 at 或 in：arrive in London。reach 以物为主语时，可表示消息、信件等传到某人那里，如 The news reached us late at night。reach 还可表示达到某个结果或水平：reach an agreement（达成协议）、reach a conclusion（得出结论）。考研完形常考 reach、arrive、get 的搭配区别。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The letter did not reach her until two weeks after it was posted.",
+      "zh": "这封信寄出两周后才送到她手里。"
+     },
+     {
+      "en": "News of the ceasefire reached the remote villages only days later.",
+      "zh": "停火的消息几天后才传到偏远的村庄。"
+     }
+    ]
+   },
+   {
+    "title": "日期的写法与介词 on",
+    "explain": "具体日期前用介词 on。英式写法通常是“日 + 月 + 年”，如 18 June 1858，读作 the eighteenth of June, eighteen fifty-eight；美式写法通常是“月 + 日 + 年”，如 June 18, 1858。本文的日期都采用“日 + 月 + 年”的写法。汉语按“年、月、日”的顺序排列，翻译时要调整。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new bridge was officially opened on 12 May 2019.",
+      "zh": "这座新桥于2019年5月12日正式通车。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "essay",
+    "explain": "本句 essay 指华莱士寄给达尔文的那篇论述性文章，视频译为“文章”；第8句把两人的文章都称为 papers（论文）。essay 也指学生写的“作文、短文”，考研英语写作中的大作文就是一篇 essay。"
+   },
+   {
+    "term": "concise",
+    "explain": "形容词，简明的、简洁的，指用较少的文字清楚地表达完整的意思，如 a concise summary、clear and concise。本句强调华莱士的文章篇幅短，与第3句达尔文230页的手稿形成对照。"
+   },
+   {
+    "term": "His 的指代",
+    "explain": "本句 His 指华莱士，第7句 His claim to priority 中的 His 则指达尔文。本文两人交替出现，代词所指要根据上下文判断；视频译文把本句的 His 直接译成“华莱士”，避免混淆。"
+   }
+  ],
+  "translation_tip": "视频译文“华莱士这篇简明的文章于1858年6月18日到达了达尔文的手里。”的处理：①代词 His 译为人名“华莱士”，并增补“这篇”，明确所指。②句末的时间状语 on 18 June 1858 前移到谓语前，译为“于1858年6月18日”，“于”字较书面，日期按汉语“年、月、日”的顺序排列。③reached Darwin 没有直译为“到达了达尔文”，而是增补“手里”，译为“到达了达尔文的手里”，符合汉语表达。"
+ },
+ {
+  "n": 6,
+  "trunk": {
+   "subject": "Its argument；he",
+   "predicate": "paralleled；told",
+   "object_or_complement": "Darwin's own（paralleled 的宾语）；Charles Lyell（told 的间接宾语）和 he had never seen a more remarkable coincidence（told 的直接宾语，宾语从句）",
+   "explain": "本句是由分号连接的两个并列分句。前一分句 Its argument paralleled Darwin's own 是主谓宾结构，parallel 作及物动词；后一分句 he told Charles Lyell + 宾语从句，是主谓 + 双宾语结构。两个谓语都是一般过去时，主动语态；宾语从句的谓语 had never seen 是过去完成时。"
+  },
+  "components": [
+   {
+    "text": "Its argument",
+    "zh": "文中的论证",
+    "role": "第一分句主语（Its 指华莱士的文章）"
+   },
+   {
+    "text": "paralleled",
+    "zh": "与……一样",
+    "role": "第一分句谓语"
+   },
+   {
+    "text": "Darwin's own",
+    "zh": "达尔文自己的",
+    "role": "宾语（own 后省略了 argument）"
+   },
+   {
+    "text": "almost precisely;",
+    "zh": "几乎完全",
+    "role": "程度状语（副词短语），修饰 paralleled"
+   },
+   {
+    "text": "he",
+    "zh": "达尔文",
+    "role": "第二分句主语（指达尔文）"
+   },
+   {
+    "text": "told",
+    "zh": "告诉",
+    "role": "第二分句谓语"
+   },
+   {
+    "text": "Charles Lyell",
+    "zh": "查尔斯·莱尔",
+    "role": "间接宾语"
+   },
+   {
+    "text": "he had never seen a more remarkable coincidence.",
+    "zh": "自己从未见过比这更惊人的巧合",
+    "role": "直接宾语（宾语从句，省略了 that）"
+   }
+  ],
+  "structure": "①分号前是第一个分句：Its 指华莱士的文章（视频说明），Its argument 作主语；paralleled 是谓语，意为“与……极其相似”（视频说明）；Darwin's own 是宾语，own 后面省略了 argument，即达尔文自己的论证（视频说明）；almost precisely 是程度状语，precisely 修饰 paralleled，almost 又修饰 precisely。\n②分号后是第二个分句：he 指达尔文，told 是谓语，Charles Lyell 是间接宾语，he had never seen a more remarkable coincidence 是直接宾语，即宾语从句，省略了引导词 that（视频说明）。\n③宾语从句中，he 仍指达尔文；had never seen 是过去完成时（视频说明），表示到告诉莱尔时为止从未见过；a more remarkable coincidence 是比较级，比较对象“这一次”没有写出，never 与比较级连用表达最高级的意思：这是他见过的最惊人的巧合。\n④两个分句用分号连接，表示关系紧密：前句交代巧合的事实，后句是达尔文对这一巧合的反应。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "宾语从句省略 that 与时态后移",
+    "explain": "say、tell、think、believe 等动词后面的宾语从句，引导词 that 常可省略，新闻和口语中尤其常见。本句 told Charles Lyell he had never seen… 中，he 前省略了 that（视频说明），在 tell sb (that)… 这一双宾语结构中，这个从句就是直接宾语。主句是过去时，转述时从句的时态要相应后移：直接引语若是 I have never seen…，转述后变为过去完成时 he had never seen…，人称也随之改变。阅读时遇到“动词 + 名词 + 主谓结构”连在一起，要能看出这是省略了 that 的宾语从句。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She told reporters she had not been informed of the decision.",
+      "zh": "她告诉记者，自己事先并未被告知这一决定。"
+     },
+     {
+      "en": "The manager admitted he had never expected the product to sell so well.",
+      "zh": "经理承认，他从没想到这款产品会卖得这么好。"
+     }
+    ]
+   },
+   {
+    "title": "否定词 + 比较级 表示最高级意义",
+    "explain": "否定词与比较级连用，常表示最高级的意思：had never seen a more remarkable coincidence（从未见过比这更惊人的巧合），等于说这是他见过的最惊人的巧合。类似的有 Nothing is more important than…（没有什么比……更重要）、I couldn't agree more（我非常同意）。这类结构字面上是否定，实际表达强烈的肯定，考研阅读的态度题和翻译题常考，不能读成“不惊人”。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "I have never tasted a better cup of coffee.",
+      "zh": "我从没喝过比这更好的咖啡。"
+     },
+     {
+      "en": "Nothing is more important to the company than the safety of its staff.",
+      "zh": "对这家公司来说，没有什么比员工的安全更重要。"
+     }
+    ]
+   },
+   {
+    "title": "名词所有格 + own 与名词的省略",
+    "explain": "own 用在物主代词或名词所有格后，表示“自己的”，起强调作用：my own car、Darwin's own work。own 后的名词如果与前文相同，可以省略，本句 Darwin's own 即 Darwin's own argument（视频说明）。名词所有格后也可以直接省略前文出现过的名词，如 My answer is different from Tom's。own 不能直接放在冠词后，不说 an own house，而说 a house of one's own。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her approach to the problem was quite different from her supervisor's own.",
+      "zh": "她解决这个问题的方法与她导师自己的方法很不一样。"
+     }
+    ]
+   },
+   {
+    "title": "分号连接并列分句",
+    "explain": "分号用来连接两个意思紧密相关的独立分句，停顿介于逗号和句号之间。两个独立分句不能只用逗号连接，否则构成写作中常见的逗号粘连错误（comma splice）；正确做法是用分号、用逗号加并列连词，或分成两句。本句分号前说华莱士的论证与达尔文的几乎一样，分号后说达尔文对此的反应，两句意思紧密衔接。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The first experiment failed; the second produced the results the team had hoped for.",
+      "zh": "第一次实验失败了；第二次得出了团队期望的结果。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "parallel",
+    "explain": "本句 parallel 作及物动词，意为“与……极其相似”（视频说明），视频译为“与……一样”。parallel 更常作形容词和名词：parallel lines（平行线）、draw a parallel between A and B（把 A 和 B 相比较）。"
+   },
+   {
+    "term": "Charles Lyell",
+    "explain": "查尔斯·莱尔（1797年至1875年），英国地质学家，著有《地质学原理》（Principles of Geology），是达尔文的好友，对达尔文的思想影响很大。第8句正是莱尔与胡克安排了两篇论文的宣读。"
+   },
+   {
+    "term": "原信措辞",
+    "explain": "达尔文写给莱尔的信中，原话是 I never saw a more striking coincidence。本句用间接引语转述，作者以 remarkable 替换了 striking，并把时态后移为过去完成时。"
+   },
+   {
+    "term": "coincidence",
+    "explain": "巧合，常见搭配有 by coincidence（碰巧）、a remarkable coincidence、It is no coincidence that…（……并非巧合）；动词 coincide（同时发生，相符）。"
+   }
+  ],
+  "translation_tip": "视频译文“文中的论证与达尔文自己的几乎完全一样；达尔文告诉查尔斯·莱尔，自己从未见过比这更惊人的巧合。”的处理：①Its argument 译为“文中的论证”，用“文中”交代 Its 指华莱士的文章。②动词 parallel 在汉语中没有对应的单个动词，译为“与……一样”的介词结构；almost precisely 译为“几乎完全”，修饰“一样”。③Darwin's own 译为“达尔文自己的”，与英文一样省略“论证”。④第二分句的 he 译为“达尔文”，避免与华莱士混淆；宾语从句前加逗号，从句主语 he 译为“自己”，表明是达尔文本人的感受。⑤a more remarkable coincidence 译为“比这更惊人的巧合”，补出比较对象“这”，保留比较级的形式。"
+ },
+ {
+  "n": 7,
+  "trunk": {
+   "subject": "His claim to priority",
+   "predicate": "seemed",
+   "object_or_complement": "threatened",
+   "explain": "主干是 His claim to priority seemed threatened，主系表结构，seem 是系动词，过去分词 threatened 作表语（视频说明：seem + 过去分词：似乎被……）。谓语 seemed 为一般过去时。"
+  },
+  "components": [
+   {
+    "text": "His claim",
+    "zh": "他……的主张",
+    "role": "主语（His 指达尔文）"
+   },
+   {
+    "text": "to priority",
+    "zh": "对优先权",
+    "role": "后置定语（介词短语），修饰 claim"
+   },
+   {
+    "text": "seemed",
+    "zh": "似乎",
+    "role": "系动词"
+   },
+   {
+    "text": "threatened.",
+    "zh": "受到了威胁",
+    "role": "表语（过去分词，表示被动）"
+   }
+  ],
+  "structure": "①本句是主系表结构。主语中心词是 claim，His 是物主代词，指达尔文；to priority 是介词短语作后置定语，修饰 claim（视频说明：claim to…：对……的主张、要求）。\n②seemed 是系动词，threatened 是过去分词作表语，表示被动，相当于 seemed to be threatened，即“似乎受到了威胁”（视频说明）。\n③本句是上一句的结果：华莱士的论证与达尔文的几乎一样，如果华莱士的文章先发表，首先提出这一原理的功劳就可能归于华莱士。seemed 表示这只是当时看来的情形，为下一段的折中办法作铺垫。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "seem + 表语",
+    "explain": "seem 作系动词，后接表语，表示“看起来、似乎”。表语可以是形容词（seem happy）、名词（seem a good idea）、过去分词（seem threatened）或不定式（seem to be…）。过去分词作表语时带被动意义，seemed threatened 相当于 seemed to be threatened。seem 还常用于 It seems that… 句型。seem 是系动词，一般不用于进行时，也没有被动语态。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The negotiations seemed doomed from the start.",
+      "zh": "谈判似乎从一开始就注定要失败。"
+     },
+     {
+      "en": "Several of the old houses seemed abandoned.",
+      "zh": "有几栋老房子似乎已被废弃。"
+     }
+    ]
+   },
+   {
+    "title": "claim to sth 中的介词 to",
+    "explain": "名词 claim 表示对某物的权利、所有权或资格的主张时，后接介词 to：a claim to the throne（对王位的继承权要求）、a claim to priority（对优先权的主张）、lay claim to sth（声称对某物拥有权利）。claim 表示“声称、说法”时，后接 that 从句：the claim that the drug is safe。考研阅读中 claim 多指“说法、主张”，常暗示作者不一定认同。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Both countries have long maintained a claim to the disputed islands.",
+      "zh": "两国长期以来都声称对这些有争议的岛屿拥有主权。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "priority",
+    "explain": "熟词僻义：priority 常见义是“优先考虑的事”，如 a top priority；在科学史语境中指某项发现或理论的“优先权、首创权”，即谁最先提出，视频译为“优先权”。科学界一般以发表的先后来认定这种优先权，所以达尔文担心华莱士的文章抢先发表。"
+   },
+   {
+    "term": "His 的指代",
+    "explain": "本句 His 指达尔文，与第5句指华莱士的 His 不同；从语义上看，受到威胁的是写好手稿却一直没有发表的达尔文。视频译为“他”，上一句后半句的主语已是达尔文，指代清楚。"
+   },
+   {
+    "term": "threaten",
+    "explain": "动词，威胁、危及，主语可以是人，也可以是事物，如 Climate change threatens many species；feel threatened 意为“感到受到威胁”。本句视频译为“受到了威胁”。"
+   }
+  ],
+  "translation_tip": "视频译文“他对优先权的主张似乎受到了威胁。”的处理：①介词短语 to priority 作后置定语，前移译为“对优先权的”，与 His 合成“他对优先权的主张”。②系表结构 seemed threatened 译为“似乎受到了威胁”，过去分词的被动意义用“受到”表达，没有用“被”字。③His 直接译为“他”，上句后半句的主语已是达尔文，指代清楚。"
+ },
+ {
+  "n": 8,
+  "trunk": {
+   "subject": "Lyell and the botanist Joseph Hooker",
+   "predicate": "arranged for",
+   "object_or_complement": "both papers to be read（for 后的复合结构，both papers 是不定式 to be read 的逻辑主语）",
+   "explain": "主干是 Lyell and the botanist Joseph Hooker arranged for both papers to be read，arrange for sth to be done 表示安排、促成某事被做（视频说明）。谓语 arranged 为一般过去时，主动语态；to be read 是不定式的被动式。"
+  },
+  "components": [
+   {
+    "text": "Lyell",
+    "zh": "莱尔",
+    "role": "并列主语一"
+   },
+   {
+    "text": "and the botanist Joseph Hooker",
+    "zh": "和植物学家约瑟夫·胡克",
+    "role": "并列连词 and + 并列主语二（the botanist 与 Joseph Hooker 是同位关系）"
+   },
+   {
+    "text": "arranged for",
+    "zh": "安排",
+    "role": "谓语"
+   },
+   {
+    "text": "both papers",
+    "zh": "这两篇论文",
+    "role": "介词 for 的宾语，也是不定式 to be read 的逻辑主语"
+   },
+   {
+    "text": "to be read",
+    "zh": "被……宣读",
+    "role": "不定式的被动式，与 both papers 构成 for sth to be done 复合结构"
+   },
+   {
+    "text": "simultaneously",
+    "zh": "同时",
+    "role": "方式状语（副词），修饰 to be read"
+   },
+   {
+    "text": "at the Linnean Society,",
+    "zh": "林奈学会上",
+    "role": "地点状语（介词短语）"
+   },
+   {
+    "text": "a scientific institution in London,",
+    "zh": "伦敦的科学机构",
+    "role": "同位语，说明 the Linnean Society"
+   },
+   {
+    "text": "on 1 July 1858.",
+    "zh": "于1858年7月1日",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①主语是 Lyell and the botanist Joseph Hooker，由 and 连接两个并列成分；the botanist 与 Joseph Hooker 是同位关系，交代胡克的身份。\n②谓语是 arranged for，后面的 both papers to be read 是“for + 名词 + 不定式”复合结构：both papers 是不定式的逻辑主语，to be read 是不定式的被动式（视频说明），论文是“被宣读”的一方。\n③不定式后有三个状语：simultaneously 是方式状语，修饰 to be read；at the Linnean Society 是地点状语，后面用逗号隔开的 a scientific institution in London 是同位语，说明林奈学会的性质（视频说明）；on 1 July 1858 是时间状语。\n④英语句末状语的顺序一般是方式、地点、时间；汉语则把状语放在动词前，按时间、地点、方式排列，所以视频译文调整为“于1858年7月1日在伦敦的科学机构林奈学会上被同时宣读”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "arrange for sb/sth to do",
+    "explain": "arrange for sb/sth to do sth 意为“安排某人做某事、安排某事被做”，for 后的名词是不定式的逻辑主语；名词与动词是被动关系时用不定式的被动式 to be done，本句 both papers to be read 即安排两篇论文被宣读（视频说明）。arrange 也可以直接接不定式，表示主语自己去做（arrange to meet sb），或接 that 从句。arrange for sth 还可以单独使用，表示“为……做好安排”，如 arrange for a taxi。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The school has arranged for all students to be vaccinated next week.",
+      "zh": "学校已安排所有学生下周接种疫苗。"
+     },
+     {
+      "en": "We arranged for the documents to be delivered to the embassy by courier.",
+      "zh": "我们安排了快递把文件送到大使馆。"
+     }
+    ]
+   },
+   {
+    "title": "不定式的被动式",
+    "explain": "不定式的逻辑主语是动作的承受者时，用被动式 to be done。本句 papers 是被宣读的对象，所以用 to be read。常见于 want/expect sth to be done、arrange for sth to be done、sth is to be done 等结构；考研写作中常用的 It remains to be seen whether…（……还有待观察）也是不定式的被动式。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The new rules are expected to be introduced early next year.",
+      "zh": "新规定预计将于明年初出台。"
+     }
+    ]
+   },
+   {
+    "title": "同位语说明机构名称",
+    "explain": "对读者不熟悉的专名，英语常在后面加一个用逗号隔开的名词短语作同位语，交代其性质，如 the Linnean Society, a scientific institution in London。同位语与前面的名词指同一事物。汉语习惯把这类说明放在专名前作定语，视频译为“伦敦的科学机构林奈学会”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The talks were held at Chatham House, a policy institute in London.",
+      "zh": "会谈在伦敦的政策研究机构查塔姆研究所举行。"
+     }
+    ]
+   },
+   {
+    "title": "多个状语的排列顺序",
+    "explain": "英语句末出现多个状语时，一般按“方式、地点、时间”排列；汉语的状语通常放在动词前，按“时间、地点、方式”排列。本句英文的顺序是 simultaneously、at the Linnean Society…、on 1 July 1858，视频译文改为“于1858年7月1日在……林奈学会上被同时宣读”。考研翻译中遇到句末状语堆叠，要先分清各状语的类别，再按汉语习惯重新排序。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The two leaders met privately in Geneva last week.",
+      "zh": "两国领导人上周在日内瓦私下会面。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Joseph Hooker",
+    "explain": "约瑟夫·道尔顿·胡克（Joseph Dalton Hooker，1817年至1911年），英国植物学家，达尔文的密友，后来担任英国皇家植物园邱园（Kew Gardens）的园长。"
+   },
+   {
+    "term": "the Linnean Society",
+    "explain": "林奈学会，全称 the Linnean Society of London，成立于1788年，以瑞典博物学家林奈（Carl Linnaeus）的名字命名，是研究博物学的学术团体。Linnean 是由 Linnaeus 派生的形容词。"
+   },
+   {
+    "term": "paper",
+    "explain": "本句 paper 指学术论文，可数名词，如 publish a paper、present a paper at a conference；作不可数名词时指“纸”。这里的 both papers 指达尔文和华莱士两人的论文。"
+   },
+   {
+    "term": "read a paper",
+    "explain": "宣读论文，指在学术会议上把论文内容读给与会者听。本句用被动的 to be read，没有说明由谁宣读；下一句交代两位作者都没有出席这场会议。"
+   }
+  ],
+  "translation_tip": "视频译文“莱尔和植物学家约瑟夫·胡克安排这两篇论文，于1858年7月1日在伦敦的科学机构林奈学会上被同时宣读。”的处理：①同位关系的 the botanist Joseph Hooker 译为“植物学家约瑟夫·胡克”，身份放在人名前。②arranged for both papers to be read 译为“安排这两篇论文……被……宣读”，用“被”字保留不定式的被动意义，并在“论文”后加逗号断开，避免句子过长。③三个状语按汉语习惯调整为时间、地点、方式的顺序，都放在“宣读”之前。④同位语 a scientific institution in London 前置为“伦敦的科学机构”，修饰“林奈学会”。⑤both 译为“这两篇”，增补量词“篇”。"
+ },
+ {
+  "n": 9,
+  "trunk": {
+   "subject": "Neither author",
+   "predicate": "attended",
+   "object_or_complement": "the proceedings",
+   "explain": "主干是 Neither author attended the proceedings，主谓宾结构。否定词 neither 在主语中，谓语 attended 用肯定形式，整句表示全部否定。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Neither author",
+    "zh": "两位作者都没有",
+    "role": "主语（neither 表示两者都不）"
+   },
+   {
+    "text": "attended",
+    "zh": "出席",
+    "role": "谓语"
+   },
+   {
+    "text": "the proceedings.",
+    "zh": "这场会议",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①本句是简单句。Neither author 作主语，neither 是限定词，表示“两者都不”（视频说明），后接单数名词 author；两位作者指达尔文和华莱士。\n②attended 是谓语，attend 意为“出席、参加”，是及物动词，直接接宾语 the proceedings。\n③the proceedings 在学术语境下特指学会的会议、活动议程（视频说明），这里指上句1858年7月1日林奈学会的那场会议，视频译为“这场会议”。下一句用两个分句分别交代两人没有出席的原因。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "neither 表示全部否定",
+    "explain": "neither 用于两者，表示“两者都不”，是全部否定；三者及以上用 none。neither + 单数名词 作主语时谓语用单数：Neither answer is correct；neither of + 复数名词 作主语时，正式文体中谓语用单数，口语中也可用复数。否定词已在主语中，谓语不再加 not。要与部分否定区分：both 与 not 连用多表示部分否定，如 I don't need both of these books（这两本书我并不是都需要）。考研阅读中 neither、none、no 等否定词常出现在主语位置，做题时要看清否定的范围。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "Neither candidate managed to win a majority of the votes.",
+      "zh": "两位候选人都没能获得过半数选票。"
+     },
+     {
+      "en": "Neither of the two drugs proved more effective than the placebo.",
+      "zh": "两种药物都没有被证明比安慰剂更有效。"
+     }
+    ]
+   },
+   {
+    "title": "attend 的用法",
+    "explain": "attend 表示“出席、参加”会议、课程、典礼等时是及物动词，直接接宾语：attend a meeting、attend a lecture、attend a funeral，不说 attend to a meeting。attend to 意为“处理、照料”，如 attend to an urgent matter；attend school 指“上学”。名词 attendance 意为“出席、出席人数”，attendant 意为“服务员、侍者”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "More than five hundred delegates attended the conference in Vienna.",
+      "zh": "五百多名代表出席了在维也纳举行的会议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "proceedings",
+    "explain": "熟词僻义：proceedings 常用复数形式，在学术语境下指学会的会议、活动议程，也指会议记录或学报，如 the Proceedings of the Royal Society；在法律语境下指诉讼，如 legal proceedings、start proceedings against sb（对某人提起诉讼）。本句指林奈学会的会议，视频译为“会议”。"
+   },
+   {
+    "term": "author",
+    "explain": "本句 author 指两篇论文的作者，即达尔文和华莱士；neither 后接单数 author，与上句 both 后接复数 papers 形成对照。"
+   }
+  ],
+  "translation_tip": "视频译文“两位作者都没有出席这场会议。”的处理：①Neither author 中的否定词 neither 译为“都没有”，并补出“两位”交代是两人，“都没有”放在动词“出席”之前，符合汉语否定词放在谓语前的习惯。②the proceedings 根据学术语境译为“这场会议”，the 译为“这场”，回指上句提到的林奈学会会议。"
+ },
+ {
+  "n": 10,
+  "trunk": {
+   "subject": "Wallace；Darwin；scarlet fever",
+   "predicate": "was；was grieving；had killed",
+   "object_or_complement": "abroad（第一分句的表语）；his infant son（had killed 的宾语）",
+   "explain": "冒号前是 and 连接的两个并列分句：Wallace was abroad（主系表，副词 abroad 作表语，一般过去时）和 Darwin was grieving（主谓，过去进行时）；冒号后是说明原因的分句 scarlet fever had killed his infant son（主谓宾，过去完成时，主动语态）。"
+  },
+  "components": [
+   {
+    "text": "Wallace",
+    "zh": "华莱士",
+    "role": "第一分句主语"
+   },
+   {
+    "text": "was",
+    "zh": "（系动词，与 abroad 合译为“身在海外”）",
+    "role": "系动词"
+   },
+   {
+    "text": "abroad,",
+    "zh": "身在海外",
+    "role": "表语（副词）"
+   },
+   {
+    "text": "and Darwin",
+    "zh": "达尔文则",
+    "role": "并列连词 and + 第二分句主语"
+   },
+   {
+    "text": "was grieving:",
+    "zh": "处于哀痛之中",
+    "role": "第二分句谓语（过去进行时）"
+   },
+   {
+    "text": "scarlet fever",
+    "zh": "猩红热",
+    "role": "冒号后分句的主语"
+   },
+   {
+    "text": "had killed",
+    "zh": "夺去了……的生命",
+    "role": "谓语（过去完成时）"
+   },
+   {
+    "text": "his infant son",
+    "zh": "他幼子",
+    "role": "宾语（infant 作定语，修饰 son）"
+   },
+   {
+    "text": "on 28 June.",
+    "zh": "在6月28日",
+    "role": "时间状语（介词短语）"
+   }
+  ],
+  "structure": "①冒号前两个并列分句由 and 连接，分别交代两位作者为什么没有出席：Wallace was abroad，系动词 was 加副词 abroad 作表语，表示“身在国外”；Darwin was grieving，was grieving 是过去进行时，表示当时正处于悲痛中（视频说明）。两个分句形成对照，视频用“则”译出 and 的对比意味。\n②冒号后的分句说明达尔文悲痛的原因：主语 scarlet fever（猩红热，视频说明），谓语 had killed，宾语 his infant son，on 28 June 作时间状语。had killed 是过去完成时，表示孩子去世发生在7月1日的会议之前（视频说明）。\n③his 指达尔文；infant 作前置定语，修饰 son，表示“年幼的”。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示“过去的过去”",
+    "explain": "叙述过去事件时，如果要提到更早发生的事，用过去完成时 had done。本句以7月1日的会议为参照点，孩子6月28日去世在此之前，所以用 had killed（视频说明：发生在会议之前）。这类过去完成时常出现在冒号、because 等引出的原因说明中，交代背景。考研阅读和翻译要据此理清时间线：6月18日收到文章，6月28日孩子去世，7月1日论文宣读。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The match was called off: heavy rain had flooded the pitch overnight.",
+      "zh": "比赛取消了：一夜大雨淹没了球场。"
+     },
+     {
+      "en": "She could not attend the ceremony because she had broken her leg the week before.",
+      "zh": "她没能出席典礼，因为前一周她摔断了腿。"
+     }
+    ]
+   },
+   {
+    "title": "过去进行时表示过去持续的状态",
+    "explain": "过去进行时 was/were doing 表示过去某一时刻或某一段时间正在进行的动作或持续的状态。本句 was grieving 表示会议前后达尔文正沉浸在丧子之痛中（视频说明：当时正处于悲痛中），强调状态的持续，比一般过去时 grieved 更有画面感。grieve 表示的是持续的哀悼过程，可以用进行时；know、believe 等纯粹表示状态的动词一般不用进行时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "When the news broke, the whole town was still mourning the victims of the flood.",
+      "zh": "消息传来时，全镇仍在哀悼洪水的遇难者。"
+     }
+    ]
+   },
+   {
+    "title": "副词作表语：be abroad",
+    "explain": "部分副词可以在系动词后作表语，表示位置或状态：be abroad（在国外）、be out（外出）、be over（结束）、be away（不在）。abroad 是副词，前面不加介词，说 go abroad、live abroad、study abroad，不说 go to abroad；from abroad（来自国外）是固定说法。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Her husband was abroad on business when the baby was born.",
+      "zh": "孩子出生时，她丈夫正在国外出差。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "scarlet fever",
+    "explain": "猩红热（视频说明），一种由链球菌引起的传染病，多见于儿童，因患者皮肤出现鲜红色皮疹而得名。scarlet 意为“猩红色的”。"
+   },
+   {
+    "term": "达尔文的幼子",
+    "explain": "1858年6月28日因猩红热去世的是达尔文最小的儿子查尔斯·韦林·达尔文（Charles Waring Darwin），他生于1856年12月，去世时只有一岁半左右。"
+   },
+   {
+    "term": "grieve",
+    "explain": "悲痛、哀悼，指因失去亲人等而极度悲伤（视频说明），常用 grieve for/over sb；名词 grief。视频译为“处于哀痛之中”。"
+   },
+   {
+    "term": "abroad",
+    "explain": "华莱士当时仍在马来群岛考察，1862年才回到英国，所以本句说他身在海外。"
+   }
+  ],
+  "translation_tip": "视频译文“华莱士身在海外，达尔文则处于哀痛之中：猩红热在6月28日夺去了他幼子的生命。”的处理：①Wallace was abroad 中系动词 was 与副词 abroad 合译为“身在海外”。②and 连接的两个分句意思上形成对照，视频用“则”译出 and，“达尔文则……”突出两人缺席的原因各不相同。③was grieving 译为“处于哀痛之中”，用“之中”表达过去进行时的持续意味。④had killed his infant son 没有直译为“杀死了”，而是译成“夺去了他幼子的生命”，符合汉语叙述疾病致死的习惯；时间状语 on 28 June 前移到谓语前，译为“在6月28日”。"
+ },
+ {
+  "n": 11,
+  "trunk": {
+   "subject": "The compromise",
+   "predicate": "may have kept",
+   "object_or_complement": "rivalry over precedence（宾语）；at bay（宾语补足语）",
+   "explain": "主干是 The compromise may have kept rivalry at bay，主谓宾 + 宾语补足语结构。may have kept 是“情态动词 + 完成式”，表示对过去情况的推测（视频说明），主动语态。"
+  },
+  "components": [
+   {
+    "text": "The compromise,",
+    "zh": "这一折中办法",
+    "role": "主语"
+   },
+   {
+    "text": "struck without Wallace,",
+    "zh": "在华莱士未参与的情况下达成",
+    "role": "后置定语（过去分词短语，非限制性），修饰 The compromise"
+   },
+   {
+    "text": "may have kept",
+    "zh": "或许避免了",
+    "role": "谓语（may have done 表示对过去的推测；kept 与句末 at bay 构成 keep sth at bay）"
+   },
+   {
+    "text": "rivalry",
+    "zh": "竞争",
+    "role": "宾语"
+   },
+   {
+    "text": "over precedence",
+    "zh": "围绕先后次序的",
+    "role": "后置定语（介词短语），修饰 rivalry"
+   },
+   {
+    "text": "at bay.",
+    "zh": "（介词短语，与 may have kept 合译为“避免了”）",
+    "role": "宾语补足语（介词短语）"
+   }
+  ],
+  "structure": "①主语 The compromise 指上文莱尔和胡克安排两篇论文同时宣读的办法；struck without Wallace 是过去分词短语作后置定语，用逗号隔开，修饰 compromise（视频说明）。struck 是 strike 的过去分词，strike a compromise 意为“达成折中办法”，折中办法是被达成的，所以用过去分词；without Wallace 说明达成时华莱士没有参与。\n②谓语 may have kept 表示对过去的推测（视频说明）：作者认为这一办法或许起到了作用，但并不肯定。\n③keep sth at bay 意为“使……无法逼近，避免……”（视频说明），本句宾语是 rivalry，at bay 是宾语补足语；over precedence 是介词短语作后置定语，修饰 rivalry，说明竞争围绕的内容（视频说明：rivalry over…：围绕……的竞争）。\n④本句是第三段的总结：两篇论文同场宣读，谁也不占先，从而可能避免了两人之间争夺首创权的竞争。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "情态动词 + have done 表示对过去的推测",
+    "explain": "may/might have done 表示“过去或许……”，把握不大；must have done 表示“过去一定……”，是有把握的肯定推测；can't/couldn't have done 表示“过去不可能……”；should have done 则表示“本应该……（实际没有）”，带有责备或遗憾。本句 may have kept 表示作者推测这一折中办法或许避免了竞争，视频译为“或许”。考研阅读中，作者用 may have、might have 表达的是推测，不是确定的事实，做推断题和态度题时要注意语气的强弱。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The fire may have been caused by a faulty electrical cable.",
+      "zh": "火灾或许是由一根有故障的电缆引起的。"
+     },
+     {
+      "en": "The ancient city must have been home to tens of thousands of people.",
+      "zh": "这座古城当年一定居住着数万人。"
+     }
+    ]
+   },
+   {
+    "title": "过去分词短语作非限制性后置定语",
+    "explain": "用逗号隔开、紧跟在名词后的过去分词短语，可以作非限制性后置定语，补充说明这个名词，相当于非限制性定语从句：The compromise, struck without Wallace, 相当于 The compromise, which was struck without Wallace,。去掉这一成分，主句意思仍然完整。strike 是不规则动词（strike, struck, struck），过去分词与过去式同形，容易被误认成谓语，本句真正的谓语是 may have kept。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The agreement, reached after months of talks, was welcomed by both sides.",
+      "zh": "这项协议经过数月谈判才达成，受到了双方的欢迎。"
+     }
+    ]
+   },
+   {
+    "title": "keep + 宾语 + 介词短语",
+    "explain": "keep sth at bay 是“keep + 宾语 + 宾语补足语”结构，介词短语 at bay 作宾语补足语，表示使某物处于被挡在远处的状态，引申为“抑制、防止、避免”，宾语多为疾病、敌人、风险、问题等。同类结构有 keep sth under control、keep sb in suspense。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Regular exercise can help keep stress and anxiety at bay.",
+      "zh": "经常锻炼有助于抑制压力和焦虑。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "strike a compromise",
+    "explain": "达成折中办法、达成妥协（视频说明）。strike 在这里意为“达成（协议、交易）”，同类搭配有 strike a deal、strike a bargain、strike a balance（取得平衡）。同义表达有 reach a compromise、arrive at a compromise。"
+   },
+   {
+    "term": "keep sth at bay",
+    "explain": "使……无法逼近，避免……（视频说明）。at bay 原是狩猎用语，指被猎犬围住的猎物无路可逃、转身对峙的状态；keep sb/sth at bay 意为把对方挡在一定距离之外，引申为抑制、防止。"
+   },
+   {
+    "term": "precedence 与 priority",
+    "explain": "precedence 意为（时间、次序或重要性上的）“在先、优先”，本句 rivalry over precedence 指围绕谁先提出这一理论的竞争，视频译为“先后次序”；它与第7句的 priority（优先权）意思相近，作者换词避免重复。常见搭配 take precedence over sth（比……优先）。"
+   },
+   {
+    "term": "rivalry",
+    "explain": "竞争、对立，指两方之间的较量，如 a fierce rivalry、sibling rivalry；rival 意为“竞争对手”。本句视频译为“竞争”。"
+   }
+  ],
+  "translation_tip": "视频译文“这一折中办法在华莱士未参与的情况下达成，或许避免了围绕先后次序的竞争。”的处理：①The compromise 译为“这一折中办法”，用“这一”回指上文的安排。②过去分词短语 struck without Wallace 没有前置成定语，而是译成短句“在华莱士未参与的情况下达成”，without Wallace 扩展为“在华莱士未参与的情况下”。③may have kept … at bay 合译为“或许避免了”，“或许”保留原文的推测语气，不译成确定的“避免了”。④rivalry over precedence 中的后置定语前移，译为“围绕先后次序的竞争”。"
+ },
+ {
+  "n": 12,
+  "trunk": {
+   "subject": "The papers' publication",
+   "predicate": "met",
+   "object_or_complement": "a muted reception",
+   "explain": "主干是 The papers' publication met a muted reception，主谓宾结构，主语是名词化结构，相当于 the papers were published（视频说明）。谓语 met 为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The papers'",
+    "zh": "这些论文",
+    "role": "定语（复数名词所有格），修饰 publication"
+   },
+   {
+    "text": "publication",
+    "zh": "发表",
+    "role": "主语中心词（名词化结构）"
+   },
+   {
+    "text": "on 20 August 1858",
+    "zh": "于1858年8月20日的",
+    "role": "后置定语（介词短语），修饰 publication"
+   },
+   {
+    "text": "met",
+    "zh": "遭遇了",
+    "role": "谓语"
+   },
+   {
+    "text": "a muted reception.",
+    "zh": "一个很不热烈的反响",
+    "role": "宾语"
+   }
+  ],
+  "structure": "①主语 The papers' publication on 20 August 1858 是名词化结构，相当于 the papers were published on 20 August 1858（视频说明）：复数名词所有格 The papers' 在意思上是 publish 的承受者；on 20 August 1858 是介词短语作后置定语，修饰 publication，对应原句的时间状语。\n②谓语 met 意为“遭遇、受到”，宾语 a muted reception 指反响冷淡（视频说明：meet a … reception：遭遇……的反响）。muted 原义是“（声音）减弱的”，形容反应时指不热烈、平淡。\n③本句承接第8句：7月1日宣读之后，两篇论文于8月20日正式发表，却没有引起多少关注，与第14句《物种起源》引起的轰动形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "名词化结构",
+    "explain": "英语常把动词或形容词转换成名词，用一个名词短语表达一个完整句子的意思，这叫名词化，在正式文体和考研阅读中很常见。本句 The papers' publication on 20 August 1858 相当于 the papers were published on 20 August 1858（视频说明），所有格 The papers' 对应原句的主语，介词短语对应原句的状语。阅读时要把名词化结构还原成句子；翻译时可以译成“……的……”，也常改译成主谓结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The government's refusal to negotiate prolonged the strike.",
+      "zh": "政府拒绝谈判，使罢工延长了。"
+     },
+     {
+      "en": "The rapid spread of the virus alarmed health officials.",
+      "zh": "病毒的迅速传播令卫生官员们感到震惊。"
+     }
+    ]
+   },
+   {
+    "title": "复数名词所有格",
+    "explain": "以 -s 结尾的复数名词构成所有格时，只在词尾加撇号：the papers'、the students'；不以 -s 结尾的复数名词加 's：children's、women's；单数名词加 's：the paper's。本句 The papers' 表示“这些论文的”，读音与 papers 相同，书面上要靠撇号的位置判断单复数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The researchers' findings were published in a leading medical journal.",
+      "zh": "研究人员的发现发表在一份顶尖的医学期刊上。"
+     }
+    ]
+   },
+   {
+    "title": "meet + 表示反应的名词",
+    "explain": "meet 除“遇见”外，还可表示“遭遇、受到（某种反应）”，常接 reception、response、opposition、resistance 等名词，也常说 meet with：meet with a cool reception、meet with fierce opposition。reception 前常用形容词说明反应的性质：a warm reception（热烈的反响）、a cool reception（冷淡的反应）、a hostile reception（敌对的反应）。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The proposal met with strong opposition from local residents.",
+      "zh": "这项提议遭到了当地居民的强烈反对。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "muted",
+    "explain": "形容词，原义指声音减弱的、压低的，引申为反应、情绪不热烈的，如 a muted response（不冷不热的反应）；形容颜色时指柔和的，如 muted colours。视频译为“很不热烈的”。"
+   },
+   {
+    "term": "reception",
+    "explain": "熟词僻义：reception 常见义是“接待、招待会、（酒店的）前台”，本句指人们对某事的反应和评价，视频译为“反响”。在广播电视领域还指信号的接收效果。"
+   },
+   {
+    "term": "publication",
+    "explain": "发表、出版，本句指两篇论文正式刊印发表，与第8句的宣读是两回事：7月1日宣读，8月20日发表。publication 还可指出版物，为可数名词。"
+   }
+  ],
+  "translation_tip": "视频译文“这些论文于1858年8月20日的发表，遭遇了一个很不热烈的反响。”的处理：①名词化结构 The papers' publication on 20 August 1858 保留名词形式，译为“这些论文于1858年8月20日的发表”，后置定语 on 20 August 1858 前移；主语较长，后面用逗号断开。②met 译为“遭遇了”，体现反应不如预期。③a muted reception 译为“一个很不热烈的反响”，不定冠词 a 译为“一个”，muted 译为“很不热烈的”，表达反应平淡。"
+ },
+ {
+  "n": 13,
+  "trunk": {
+   "subject": "the Society's president",
+   "predicate": "remarked",
+   "object_or_complement": "that the year had been barren of revolutionary discoveries（宾语从句）",
+   "explain": "主干是 the Society's president remarked that…，主谓宾结构，that 引导的宾语从句作 remarked 的宾语（视频说明）。谓语 remarked 为一般过去时，主动语态；从句谓语 had been 为过去完成时。"
+  },
+  "components": [
+   {
+    "text": "In May 1859",
+    "zh": "1859年5月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "the Society's",
+    "zh": "学会",
+    "role": "定语（名词所有格，the Society 指林奈学会），修饰 president"
+   },
+   {
+    "text": "president",
+    "zh": "会长",
+    "role": "主语中心词"
+   },
+   {
+    "text": "remarked",
+    "zh": "评论说",
+    "role": "谓语"
+   },
+   {
+    "text": "in his yearly address",
+    "zh": "在年度致辞中",
+    "role": "状语（介词短语，表示场合），插在谓语与宾语从句之间"
+   },
+   {
+    "text": "that the year had been barren of revolutionary discoveries.",
+    "zh": "这一年一直毫无革命性的发现",
+    "role": "宾语从句（that 引导），作 remarked 的宾语"
+   }
+  ],
+  "structure": "①主句：In May 1859 是时间状语；the Society's president 是主语，the Society 指林奈学会（视频说明）；remarked 是谓语，意为“说到、评论”（视频说明：remark that…）。\n②in his yearly address 是介词短语作状语，说明会长发表评论的场合，插在谓语 remarked 和宾语从句之间。\n③that 引导宾语从句，作 remarked 的宾语（视频说明），that 在从句中不充当成分。从句主语 the year 指会长致辞前的这一年；had been 是过去完成时，表示截至致辞时这一年里一直如此；barren of revolutionary discoveries 作表语，be barren of 意为“缺乏……，毫无……”（视频说明）。\n④本句与上下文形成对照：会长认为这一年毫无革命性的发现，而达尔文和华莱士的论文正是在这段时间里宣读和发表的；下一句又写到半年后《物种起源》引起轰动。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "状语插在谓语与宾语从句之间",
+    "explain": "宾语从句较长时，英语常把短的状语放在谓语与宾语从句之间，使句子保持平衡，如 remarked in his yearly address that…。阅读时不能把 that 误当成修饰 address 的定语从句引导词：that 后面的 the year had been barren… 是一个成分完整的句子，所以 that 引导的是名词性从句，作 remarked 的宾语；如果 that 引导定语从句，从句中会缺少主语或宾语。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The minister announced at a press conference that the tax would be abolished.",
+      "zh": "部长在新闻发布会上宣布，这项税将被废除。"
+     },
+     {
+      "en": "She explained to the committee that the delay had been unavoidable.",
+      "zh": "她向委员会解释说，这次延误是无法避免的。"
+     }
+    ]
+   },
+   {
+    "title": "宾语从句中的过去完成时",
+    "explain": "主句是过去时，宾语从句表示到主句动作发生时为止已经持续或完成的情况，用过去完成时。本句 remarked 发生在1859年5月，从句 the year had been barren… 表示截至那时，过去这一年一直缺乏重大发现，所以用 had been，视频译为“一直”。如果是会长的直接引语，用的是现在完成时 the year has been…，转述后变成过去完成时。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The report concluded that the policy had been a costly failure.",
+      "zh": "报告的结论是，这项政策是一次代价高昂的失败。"
+     }
+    ]
+   },
+   {
+    "title": "be barren of 表示“缺乏”",
+    "explain": "barren 本义是土地“贫瘠的”、植物“不结果的”，引申为“缺乏……的、毫无……的”，常用 be barren of sth，语体正式，意思相当于 be devoid of、be lacking in。本句 barren of revolutionary discoveries 即“毫无革命性的发现”。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The long speech was barren of any concrete proposals.",
+      "zh": "这篇冗长的演讲没有任何具体的建议。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the Society's president",
+    "explain": "当时林奈学会的会长是托马斯·贝尔（Thomas Bell）。他在1859年5月的年度致辞中说过去一年没有出现革命性的发现，这段话后来常被引用，因为达尔文和华莱士的论文恰恰是在这段时间里宣读和发表的。"
+   },
+   {
+    "term": "address",
+    "explain": "熟词僻义：address 常见义是“地址”，本句指正式的“致辞、演说”，如 a presidential address、deliver an address；作动词还可表示“处理、应对（问题）”，如 address the problem，是考研阅读的高频义。"
+   },
+   {
+    "term": "remark",
+    "explain": "说、评论，常用 remark that… 或 remark on/upon sth；名词 remark 意为“评论、话语”。第6句的 remarkable（惊人的）与它同根。"
+   },
+   {
+    "term": "revolutionary",
+    "explain": "本句 revolutionary 意为“革命性的、彻底变革的”，形容科学发现、技术等带来根本性的变化，如 a revolutionary idea；也可指政治上“革命的”。视频译为“革命性的”。"
+   }
+  ],
+  "translation_tip": "视频译文“1859年5月，学会会长在年度致辞中评论说，这一年一直毫无革命性的发现。”的处理：①时间状语 In May 1859 放在句首。②the Society's president 译为“学会会长”，the Society 根据上文指林奈学会，简称“学会”。③状语 in his yearly address 放在谓语前，译为“在年度致辞中”，his 不译出。④remarked 译为“评论说”，后加逗号引出宾语从句，从句按原顺序译出。⑤had been 译为“一直”，表达过去完成时所含的持续意味；barren of 译为“毫无”。"
+ },
+ {
+  "n": 14,
+  "trunk": {
+   "subject": "The sensation；booksellers",
+   "predicate": "came；had subscribed for",
+   "object_or_complement": "（came 为不及物动词，无宾语）；every copy of its first impression（had subscribed for 的宾语）",
+   "explain": "冒号前是主谓结构 The sensation came，come 为不及物动词，with 引出的介词短语说明轰动随什么而来，谓语为一般过去时；冒号后是主谓宾结构 booksellers had subscribed for every copy…，谓语为过去完成时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "The sensation",
+    "zh": "这场轰动",
+    "role": "主语"
+   },
+   {
+    "text": "came",
+    "zh": "到来",
+    "role": "谓语（不及物动词）"
+   },
+   {
+    "text": "on 24 November 1859",
+    "zh": "于1859年11月24日",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "with Darwin's treatise,",
+    "zh": "随着达尔文的专著",
+    "role": "伴随状语（介词短语，with 表示“随着”）"
+   },
+   {
+    "text": "On the Origin of Species:",
+    "zh": "《物种起源》",
+    "role": "同位语（书名），说明 treatise"
+   },
+   {
+    "text": "booksellers",
+    "zh": "书商们",
+    "role": "冒号后分句的主语"
+   },
+   {
+    "text": "had subscribed for",
+    "zh": "已订购了",
+    "role": "谓语（过去完成时）"
+   },
+   {
+    "text": "every copy",
+    "zh": "每一册",
+    "role": "宾语"
+   },
+   {
+    "text": "of its first impression,",
+    "zh": "该书首次印刷的",
+    "role": "后置定语（介词短语），修饰 every copy"
+   },
+   {
+    "text": "1,250 in all.",
+    "zh": "总计1,250册",
+    "role": "补充说明（数量），说明 every copy of its first impression 的总数"
+   }
+  ],
+  "structure": "①冒号前：主语 The sensation，谓语 came，on 24 November 1859 是时间状语；with Darwin's treatise 是介词短语作状语，with 表示伴随，意为“随着”（视频说明：The sensation came with…：轰动随着……到来）。On the Origin of Species 是同位语，说明 treatise，即书名《物种起源》（视频说明）。\n②冒号后的分句说明轰动的具体表现：主语 booksellers，谓语 had subscribed for（订购，视频说明），宾语 every copy，of its first impression 作 copy 的后置定语，its 指这本书（视频说明：该书的首次印刷）；1,250 in all 是对前面数量的补充说明，in all 意为“总计”（视频说明）。\n③had subscribed for 用过去完成时，表示到11月24日出版时，书商已经把首次印刷的书全部订完，说明这本书出版前就十分抢手。\n④The sensation 与上句会长所说的“毫无革命性的发现”形成对照：真正的轰动在半年后随着《物种起源》到来。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时表示在过去某时之前已完成",
+    "explain": "以过去某一事件为参照点，交代此前已经完成的动作，用过去完成时。本句以出版日11月24日为参照点，书商订购发生在出版之前，用 had subscribed for，说明到出版时首印已被订完。本文第3句的 By 1844 he had composed…、第10句的 had killed 也是这种用法。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "When the exhibition opened, all the tickets for the first week had already been sold.",
+      "zh": "展览开幕时，第一周的门票已全部售出。"
+     },
+     {
+      "en": "The police arrived quickly, but the thieves had already escaped through a back window.",
+      "zh": "警察很快赶到，但窃贼已经从后窗逃走了。"
+     }
+    ]
+   },
+   {
+    "title": "介词 with 表示“随着”",
+    "explain": "with 可以表示伴随，说明某事随着另一件事一起出现或发生，常译为“随着”，如 With the development of technology, …（随着技术的发展）。本句 The sensation came with Darwin's treatise 表示轰动随着这部专著的出版而到来。考研写作中 with 引出的伴随结构很常用，注意 with 后接名词短语，不接完整的句子。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "Rapid industrial growth came with a heavy environmental cost.",
+      "zh": "工业的快速增长伴随着沉重的环境代价。"
+     }
+    ]
+   },
+   {
+    "title": "书名作同位语",
+    "explain": "书名、文章名、电影名常作同位语，跟在 treatise、novel、book 等名词后，用逗号隔开，如 Darwin's treatise, On the Origin of Species。英文书名用斜体或引号，实词首字母大写；汉语书名要加书名号。书名作主语时，即使形式是复数，谓语也用单数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "George Orwell's last novel, Nineteen Eighty-Four, was published in 1949.",
+      "zh": "乔治·奥威尔的最后一部小说《一九八四》于1949年出版。"
+     }
+    ]
+   },
+   {
+    "title": "数字的写法与 in all",
+    "explain": "英语书写较大的数字时，从右往左每三位加一个逗号：1,250、25,000、1,000,000（四位数也可不加，年份一律不加）；小数点用句点。in all 意为“总共、总计”，相当于 altogether、in total，常放在数字后作补充，如 30 people in all。本句 1,250 in all 补充说明首印的总数。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The library lost 3,600 books in all during the flood.",
+      "zh": "这家图书馆在洪水中总共损失了3,600册图书。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "On the Origin of Species",
+    "explain": "达尔文的代表作，1859年11月24日出版，全名为 On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life，中文通称《物种起源》。书中系统阐述了通过自然选择实现物种进化的理论。"
+   },
+   {
+    "term": "subscribe for",
+    "explain": "订购、认购，本句指书商在新书出版前预订（视频说明：订购）。subscribe to 意为“订阅（报刊）”，还可表示“赞同（某种观点）”，如 subscribe to the view that…，后一用法是考研阅读的高频义。"
+   },
+   {
+    "term": "impression 与 edition",
+    "explain": "impression 在出版领域指“印次”，即同一版本的一次印刷；edition 指“版次”，内容有修订才算新的一版。its first impression 即该书的首次印刷（视频说明）。impression 常见义是“印象”，这里是熟词僻义。"
+   },
+   {
+    "term": "treatise",
+    "explain": "专著，指系统论述某一学科或问题的正式著作，比 book 正式，常接 on：a treatise on economics。视频译为“专著”。"
+   },
+   {
+    "term": "sensation",
+    "explain": "熟词僻义：sensation 常见义是“感觉”，本句指引起轰动的事件，cause/create a sensation 意为“引起轰动”；形容词 sensational（轰动的）。"
+   }
+  ],
+  "translation_tip": "视频译文“这场轰动于1859年11月24日随着达尔文的专著《物种起源》到来：书商们已订购了该书首次印刷的每一册，总计1,250册。”的处理：①The sensation 译为“这场轰动”，增补量词“场”。②英文谓语 came 在前、状语在后，视频把时间状语和 with 短语前移，谓语“到来”放到最后，形成“于……随着……到来”的汉语语序。③同位语 On the Origin of Species 与 treatise 合译为“专著《物种起源》”，加书名号。④冒号后的过去完成时 had subscribed for 译为“已订购了”；every copy of its first impression 中的后置定语前移，译为“该书首次印刷的每一册”，copy 用量词“册”译出。⑤1,250 in all 译为“总计1,250册”，补出量词“册”。"
+ },
+ {
+  "n": 15,
+  "trunk": {
+   "subject": "Wallace",
+   "predicate": "had readily signified",
+   "object_or_complement": "his acceptance",
+   "explain": "主干是 Wallace had signified his acceptance，主谓宾结构。had signified 是过去完成时，表示早在那之前（视频说明），副词 readily 插在助动词 had 和过去分词之间；句末的现在分词短语作伴随状语。谓语为主动语态。"
+  },
+  "components": [
+   {
+    "text": "Wallace",
+    "zh": "华莱士",
+    "role": "主语"
+   },
+   {
+    "text": "had readily signified",
+    "zh": "早已欣然表明了",
+    "role": "谓语（过去完成时，副词 readily 插在助动词 had 与过去分词 signified 之间作方式状语）"
+   },
+   {
+    "text": "his acceptance",
+    "zh": "接受的态度",
+    "role": "宾语"
+   },
+   {
+    "text": "in October 1858,",
+    "zh": "那是在1858年10月",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "assuring Hooker",
+    "zh": "向胡克保证",
+    "role": "伴随状语（现在分词短语）的开头，Hooker 是 assuring 的宾语"
+   },
+   {
+    "text": "in a cordial letter",
+    "zh": "在一封亲切的信中",
+    "role": "方式状语（介词短语），插在 assure sb 与 of sth 之间"
+   },
+   {
+    "text": "of his satisfaction",
+    "zh": "自己……感到满意",
+    "role": "介词短语，与 assuring 构成 assure sb of sth"
+   },
+   {
+    "text": "with the arrangement.",
+    "zh": "对这一安排",
+    "role": "后置定语（介词短语），修饰 satisfaction"
+   }
+  ],
+  "structure": "①主句：主语 Wallace，谓语 had signified，宾语 his acceptance，signify one's acceptance 意为“表示接受”（视频说明）；readily 修饰 signified，意为“欣然、乐意地”；in October 1858 是时间状语。\n②had signified 用过去完成时，表示早在那之前（视频说明）：第四段已经写到1859年的事，本句回溯到1858年10月，交代华莱士早就接受了这一安排。\n③assuring … 是现在分词短语作伴随状语（视频说明），逻辑主语是 Wallace，说明他表示接受的方式。assure sb of sth 意为“向某人保证某事”（视频说明），本句中 assuring 的宾语 Hooker 与 of his satisfaction 被插入的方式状语 in a cordial letter 隔开。\n④with the arrangement 是介词短语作后置定语，修饰 satisfaction，satisfaction with… 意为“对……满意”（视频说明）；the arrangement 指莱尔和胡克安排两篇论文同时宣读的办法，即第11句的 compromise。",
+  "long_difficult": true,
+  "grammar": [
+   {
+    "title": "过去完成时用于回溯",
+    "explain": "叙述中往回追溯、补充交代更早发生的事情时，常用过去完成时，提示时间线往前跳。本文第四段已经写到1859年，第五段开头用 had readily signified 回到1858年10月，交代华莱士早就欣然接受了这一安排（视频说明：表示早在那之前）。视频译文增补“早已”，并用“那是在1858年10月”单独交代时间。考研阅读中，过去完成时常常是时间线发生跳转的信号。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The museum finally opened in 2010; its founder had first proposed the idea thirty years earlier.",
+      "zh": "这座博物馆终于在2010年开放；它的创办人早在三十年前就提出了这个设想。"
+     },
+     {
+      "en": "The verdict surprised no one. The jury had heard overwhelming evidence against the defendant.",
+      "zh": "这一判决没有让任何人感到意外。陪审团此前已听取了大量对被告不利的证据。"
+     }
+    ]
+   },
+   {
+    "title": "assure sb of sth",
+    "explain": "assure 意为“向……保证，使……确信”，常见结构有 assure sb of sth（向某人保证某事）、assure sb (that)…（向某人保证……）、rest assured（放心）。表示“向……保证”时宾语是人，不能说 assure sth to sb。本句 assuring Hooker … of his satisfaction 中，方式状语 in a cordial letter 插在 Hooker 与 of 短语之间，阅读时要把 assure 和较远的 of 连起来看。要与 ensure（确保某事发生）、insure（为……投保）区分。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The manager assured customers of a full refund if the product proved faulty.",
+      "zh": "经理向顾客保证，如果产品有缺陷，将全额退款。"
+     },
+     {
+      "en": "Officials assured residents that the water was safe to drink.",
+      "zh": "官员们向居民保证，这些水可以安全饮用。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词短语作伴随状语",
+    "explain": "现在分词短语放在句末作伴随状语，补充说明与谓语相关的动作，逻辑主语是句子的主语。本句 assuring Hooker … 的逻辑主语是 Wallace，说明他表示接受的方式是给胡克写信保证。视频把分词短语译成独立分句，用“他”重新引出主语，并用分号与前文隔开。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The company apologized publicly, promising to compensate every affected customer.",
+      "zh": "该公司公开道歉，承诺赔偿每一位受影响的顾客。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "signify",
+    "explain": "正式用词，意为“表示、表明（态度、意愿）”，宾语常是 approval、consent、acceptance 等，如 signify one's agreement；还可表示“意味着”，如 What does this symbol signify?。视频译为“表明了”。"
+   },
+   {
+    "term": "readily",
+    "explain": "副词，常用义有二：一是“欣然、乐意地”，如 readily agree；二是“容易地、不费力地”，如 readily available（容易得到的）。本句是第一义，视频译为“欣然”。考研阅读中 readily available 很常见。"
+   },
+   {
+    "term": "cordial",
+    "explain": "形容词，热情友好的、亲切的，较正式，如 a cordial welcome、cordial relations。本句 a cordial letter 说明华莱士的态度友好，视频译为“亲切的”。"
+   },
+   {
+    "term": "satisfaction with",
+    "explain": "对……满意，satisfaction 后接 with 引出满意的对象，如 express satisfaction with the result；to one's satisfaction 意为“令某人满意地”。"
+   }
+  ],
+  "translation_tip": "视频译文“华莱士早已欣然表明了接受的态度，那是在1858年10月；他在一封亲切的信中向胡克保证，自己对这一安排感到满意。”的处理：①过去完成时 had signified 译为“早已……表明了”，readily 译为“欣然”。②his acceptance 增补“态度”，译为“接受的态度”。③时间状语 in October 1858 没有前置，而是单独译成“那是在1858年10月”，强调时间的回溯。④伴随状语 assuring … 拆成独立分句，用分号隔开，补出主语“他”；插入的 in a cordial letter 前移，译为“在一封亲切的信中”。⑤assure sb of sth 译为“向胡克保证”，of his satisfaction with the arrangement 译成小句“自己对这一安排感到满意”，his 译为“自己”。"
+ },
+ {
+  "n": 16,
+  "trunk": {
+   "subject": "he",
+   "predicate": "published；entitled",
+   "object_or_complement": "a lengthy exposition of the idea（published 的宾语）；it Darwinism（entitled 的宾语 it 与宾语补足语 Darwinism）",
+   "explain": "主干是一个主语带两个并列谓语：he published a lengthy exposition（主谓宾）and entitled it Darwinism（主谓 + 宾语 + 宾语补足语）。两个谓语都是一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "In 1889",
+    "zh": "1889年",
+    "role": "时间状语（介词短语）"
+   },
+   {
+    "text": "he",
+    "zh": "他",
+    "role": "主语（指华莱士）"
+   },
+   {
+    "text": "published",
+    "zh": "出版了",
+    "role": "谓语一"
+   },
+   {
+    "text": "a lengthy exposition",
+    "zh": "一部长篇的阐述",
+    "role": "宾语"
+   },
+   {
+    "text": "of the idea",
+    "zh": "解释这一思想",
+    "role": "后置定语（介词短语），修饰 exposition，the idea 是被阐述的对象"
+   },
+   {
+    "text": "and",
+    "zh": "并",
+    "role": "并列连词"
+   },
+   {
+    "text": "entitled",
+    "zh": "将……命名为",
+    "role": "谓语二"
+   },
+   {
+    "text": "it",
+    "zh": "其",
+    "role": "宾语（指代 exposition）"
+   },
+   {
+    "text": "Darwinism.",
+    "zh": "《达尔文主义》",
+    "role": "宾语补足语（书名）"
+   }
+  ],
+  "structure": "①In 1889 是时间状语，he 指华莱士。第一个谓语 published 的宾语是 a lengthy exposition，of the idea 作后置定语（视频说明：an exposition of…：对……的阐述），the idea 指自然选择原理。\n②exposition 与 the idea 之间是动宾关系：an exposition of the idea 相当于 expound the idea（阐述这一思想），视频据此把 of the idea 译成“解释这一思想”。\n③and 连接第二个谓语 entitled，it 指代前面的 exposition，作宾语，Darwinism 作宾语补足语（视频说明：entitle A B：将 A 命名为 B）。\n④本句与下句构成对照：华莱士独立提出了这一原理，却把阐述它的著作命名为《达尔文主义》。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "entitle + 宾语 + 宾语补足语",
+    "explain": "entitle 表示“给（书、文章等）题名”时，可以接 entitle A B 结构，B 作宾语补足语，说明 A 的名称，与 name、call、title 的用法相同（视频说明：entitle A B：将 A 命名为 B）；更常见的是被动形式或过去分词作定语：a book entitled…（一本名为……的书）。entitle 的另一个常用义是“使有权”：entitle sb to sth/to do sth，be entitled to…（有权……），在考研阅读中出现频率很高，要根据结构区分两个意思。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "She entitled her memoir A Life in Letters.",
+      "zh": "她将自己的回忆录命名为《书信人生》。"
+     },
+     {
+      "en": "Full-time employees are entitled to four weeks of paid leave a year.",
+      "zh": "全职员工每年有权享受四周带薪假期。"
+     }
+    ]
+   },
+   {
+    "title": "of 短语表示动宾关系",
+    "explain": "动作名词后接 of 短语时，of 的宾语可能是动作的承受者（动宾关系），也可能是动作的发出者（主谓关系）。本句 an exposition of the idea 中，the idea 是被阐述的对象，相当于 expound the idea。阅读时把这类结构还原成动宾或主谓关系，有助于理清句意；翻译时也常像视频译文那样，把 of 短语译成动宾短语。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The protection of endangered species requires international cooperation.",
+      "zh": "保护濒危物种需要国际合作。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "Darwinism",
+    "explain": "华莱士1889年出版的著作，全名为 Darwinism: An Exposition of the Theory of Natural Selection with Some of Its Applications，副标题中正好有 exposition 一词。-ism 表示学说、主义，Darwinism 即达尔文的进化学说。"
+   },
+   {
+    "term": "exposition",
+    "explain": "正式用词，指对理论、观点的详细阐述，如 a clear exposition of the theory；还可指“博览会”（简称 expo）。相关动词 expound（详细阐述）。视频译为“阐述”。"
+   },
+   {
+    "term": "lengthy",
+    "explain": "形容词，长的、冗长的，常含“过长”之意，如 a lengthy delay、lengthy negotiations。本句 a lengthy exposition 指篇幅很长的著作，视频译为“长篇的”。"
+   }
+  ],
+  "translation_tip": "视频译文“1889年，他出版了一部长篇的阐述解释这一思想，并将其命名为《达尔文主义》。”的处理：①不定冠词 a 译为量词“一部”，lengthy 译为“长篇的”。②of the idea 没有前置成“对这一思想的”，而是译成动宾短语“解释这一思想”，体现 exposition of 的动宾关系。③and 译为“并”，entitled it Darwinism 用“将其命名为”的句式译出，it 译为“其”，书名加书名号。"
+ },
+ {
+  "n": 17,
+  "trunk": {
+   "subject": "Wallace",
+   "predicate": "never named",
+   "object_or_complement": "the theory",
+   "explain": "主干是 Wallace never named the theory，主谓宾结构，否定副词 never 与谓语 named 一起构成否定；after himself 与 named 构成 name A after B（视频说明）。谓语为一般过去时，主动语态。"
+  },
+  "components": [
+   {
+    "text": "Wallace",
+    "zh": "华莱士",
+    "role": "主语"
+   },
+   {
+    "text": "never",
+    "zh": "从未",
+    "role": "频度状语（否定副词）"
+   },
+   {
+    "text": "named",
+    "zh": "命名",
+    "role": "谓语"
+   },
+   {
+    "text": "the theory",
+    "zh": "为这一理论",
+    "role": "宾语"
+   },
+   {
+    "text": "after himself.",
+    "zh": "用自己的名字",
+    "role": "介词短语，与 named 构成 name A after B，himself 作 after 的宾语"
+   }
+  ],
+  "structure": "①本句是简单句：主语 Wallace，谓语 named，宾语 the theory；never 是否定副词，表示“从来没有”。\n②after himself 与 named 构成 name A after B，意为“以 B 的名字给 A 命名”（视频说明）；himself 是反身代词，作 after 的宾语，与主语 Wallace 指同一人。\n③本句是全文的结尾：上一句说华莱士把阐述自然选择的著作命名为《达尔文主义》，本句进一步说明他从未用自己的名字为这一理论命名，与第7句达尔文担心失去优先权形成对照。",
+  "long_difficult": false,
+  "grammar": [
+   {
+    "title": "name A after B",
+    "explain": "name A after B 意为“以 B 的名字给 A 命名”（视频说明），被动形式 A be named after B 更常见，如 The street was named after a local hero；美式英语也说 name A for B。要与 name A B（给 A 取名为 B）区分：name the baby Emma 是直接起名，name the baby after her grandmother 是用祖母的名字给孩子起名。考研阅读中介绍地名、物种、奖项的来历时常用这一结构。",
+    "difficult": true,
+    "examples": [
+     {
+      "en": "The prize is named after the scientist who founded the institute.",
+      "zh": "这个奖项是以创办该研究所的那位科学家的名字命名的。"
+     },
+     {
+      "en": "Many plant species have been named after the botanists who first described them.",
+      "zh": "许多植物物种是以最先描述它们的植物学家的名字命名的。"
+     }
+    ]
+   },
+   {
+    "title": "反身代词作介词宾语",
+    "explain": "介词的宾语与句子主语指同一人或物时，一般要用反身代词：talk about himself、be proud of herself、name sth after himself。如果用 him，则指主语以外的另一个人，本句若写成 after him，就可能指达尔文。表示方位的介词短语中通常用普通人称代词，如 She looked around her。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "The young artist rarely talks about herself in interviews.",
+      "zh": "这位年轻的艺术家在采访中很少谈论自己。"
+     }
+    ]
+   },
+   {
+    "title": "never + 一般过去时",
+    "explain": "never 与一般过去时连用，表示在过去某一段已经结束的时间里从来没有做过某事；与现在完成时连用（have never done），表示到现在为止从未做过。本句概括华莱士一生的做法，这段时间已经结束，所以用一般过去时 never named。never 放在实义动词前、be 动词和助动词后。",
+    "difficult": false,
+    "examples": [
+     {
+      "en": "My grandfather never learned to drive.",
+      "zh": "我祖父从没学过开车。"
+     }
+    ]
+   }
+  ],
+  "knowledge": [
+   {
+    "term": "the theory",
+    "explain": "本句 the theory 指自然选择理论，与第2句的 the principle of natural selection、第4句和第16句的 the idea 指同一内容，作者变换说法避免重复，视频译为“这一理论”。"
+   },
+   {
+    "term": "name after",
+    "explain": "以……的名字命名，常用被动 be named after sb/sth；名词 namesake 指“同名的人或物”。本句的主动形式 named the theory after himself 意为“用自己的名字为这一理论命名”。"
+   }
+  ],
+  "translation_tip": "视频译文“华莱士从未用自己的名字为这一理论命名。”的处理：①never 译为“从未”，放在谓语前。②name A after B 不按英文语序直译，视频把 after himself 译为方式状语“用自己的名字”，把宾语 the theory 译为介词短语“为这一理论”，都放在动词“命名”之前，形成“用……为……命名”的汉语句式。③the theory 译为“这一理论”，用“这一”回指前文所说的自然选择原理。"
+ }
+]
