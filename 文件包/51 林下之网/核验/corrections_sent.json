@@ -1,0 +1,16 @@
+[
+  {
+    "key": "11",
+    "field": "grammar[1].examples[0]",
+    "before": "The jury judged him guilty on all charges. / 陪审团判定他所有罪名均成立。",
+    "after": "Most critics judged the sequel a disappointment. / 大多数评论家认为这部续集令人失望。",
+    "reason": "陪审团裁定有罪的地道说法是 find sb guilty，judge him guilty 不够地道；换成能示范 judge + 宾语 + 名词补足语的自然例句。"
+  },
+  {
+    "key": "14",
+    "field": "knowledge[positive results].explain",
+    "before": "与 negative results（阴性结果）相对",
+    "after": "与 negative results（负面结果，阴性结果）相对",
+    "reason": "positive results 译“正面结果”，与之相对的 negative results 在本文语境应首先对应“负面结果”，只写“阴性结果”前后不对应。"
+  }
+]
