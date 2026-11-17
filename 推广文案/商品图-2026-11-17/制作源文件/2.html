@@ -7,14 +7,21 @@ body { background: linear-gradient(180deg, #fbf5ea 0%, #f6ecd9 100%); }
 .h span { color: var(--red); }
 .s { position: absolute; left: 42px; top: 136px; font-size: 18px; color: var(--muted); letter-spacing: 1px; }
 .s b { color: var(--navy); font-weight: 700; }
-.grid { position: absolute; left: 32px; right: 32px; top: 182px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.grid { position: absolute; left: 32px; right: 32px; top: 176px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .card { background: #fff; border-radius: 14px; overflow: hidden; box-shadow: 0 6px 16px rgba(16,38,74,.12); }
-.card img { display: block; width: 100%; height: 120px; object-fit: cover; }
-.cap { height: 40px; display: flex; align-items: center; padding: 0 12px; font-weight: 700; font-size: 15.5px; color: var(--navy); white-space: nowrap; }
+.card img { display: block; width: 100%; height: 108px; object-fit: cover; }
+.cap { height: 38px; display: flex; align-items: center; padding: 0 12px; font-weight: 700; font-size: 15.5px; color: var(--navy); white-space: nowrap; }
 .cap i { font-style: normal; font-family: 'EN'; font-size: 13px; color: var(--gold-deep); margin-right: 8px; }
-.more { position: absolute; left: 0; right: 0; bottom: 34px; text-align: center; }
-.more .pill { background: var(--navy); color: #fff; font-size: 18px; padding: 10px 26px; }
-.more .pill span { color: var(--gold); }
+.bar { position: absolute; left: 32px; right: 32px; top: 648px; height: 128px; background: var(--navy); border-radius: 18px; display: flex; align-items: center; gap: 18px; padding: 0 22px; box-shadow: 0 10px 24px rgba(16,38,74,.25); }
+.bar .bk { flex: none; width: 76px; height: 108px; position: relative; transform: rotate(-4deg); isolation: isolate; }
+.bar .bk img { width: 100%; height: 100%; object-fit: cover; border-radius: 2px 4px 4px 2px; box-shadow: 6px 8px 16px rgba(0,0,0,.4); display: block; }
+.bar .bk2 { position: absolute; left: 30px; top: 6px; width: 76px; height: 108px; transform: rotate(5deg); background: #f3e6c8 url(../assets/parch_5.png) center/cover; border-radius: 2px 4px 4px 2px; box-shadow: 6px 8px 16px rgba(0,0,0,.4); z-index: -1; }
+.bar .tx { color: #fff; margin-left: 26px; }
+.bar .t1 { font-weight: 900; font-size: 23px; letter-spacing: .5px; }
+.bar .t1 span { color: var(--gold); }
+.bar .t2 { font-size: 15px; color: #c9d8f3; margin-top: 6px; letter-spacing: .5px; }
+.bar .t3 { font-size: 14px; color: var(--gold); margin-top: 4px; font-weight: 700; }
+.fmt { display: inline-block; font-weight: 900; font-size: 13px; color: #fff; background: var(--red); border-radius: 5px; padding: 1px 7px; margin-left: 6px; vertical-align: 3px; }
 </style></head>
 <body><div class="canvas">
   <div class="no">卖点 1</div>
@@ -31,5 +38,8 @@ body { background: linear-gradient(180deg, #fbf5ea 0%, #f6ecd9 100%); }
     <div class="card"><img src="../assets/ill52.jpg"><div class="cap"><i>52</i>向鸸鹋宣战</div></div>
     <div class="card"><img src="../assets/ill70.jpg"><div class="cap"><i>70</i>写给外星人的一张唱片</div></div>
   </div>
-  <div class="more"><div class="pill">还有 <span>61</span> 个故事，等你翻开</div></div>
+  <div class="bar"><div class="bk"><div class="bk2"></div><img src="../assets/cover.jpg"></div>
+    <div class="tx"><div class="t1">70个故事全部收进<span>《考研学人》</span>教材<span class="fmt">PDF</span></div>
+    <div class="t2">356页 · 中英对照 · 每篇配插图和文后词表 · 普通版＋羊皮纸版</div>
+    <div class="t3">上面只是 9 篇，还有 61 个故事等你翻开</div></div></div>
 </div></body></html>

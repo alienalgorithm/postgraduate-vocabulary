@@ -1,74 +1,102 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><link rel="stylesheet" href="style.css">
 <style>
-.top { position: absolute; left: 0; top: 0; width: 800px; height: 500px;
+.top { position: absolute; left: 0; top: 0; width: 800px; height: 506px;
   background: radial-gradient(120% 90% at 50% 0%, #2a5cb8 0%, #163a78 45%, #0d2247 100%); }
 .top::after { content: ''; position: absolute; inset: 0;
-  background: radial-gradient(60% 40% at 50% 62%, rgba(255,214,120,.22), rgba(255,214,120,0) 70%); }
-.tag { position: absolute; left: 50%; top: 26px; transform: translateX(-50%); background: var(--gold); color: var(--navy); white-space: nowrap; z-index: 3; }
-.h1 { position: absolute; left: 0; right: 0; top: 66px; text-align: center; color: #fff; font-weight: 900; z-index: 3; line-height: 1.12; letter-spacing: 1px; }
-.h1 .l1 { font-size: 60px; }
-.h1 .l2 { font-size: 60px; }
-.h1 .num { font-size: 74px; color: var(--gold); font-family: 'SC'; letter-spacing: 0; text-shadow: 0 4px 18px rgba(242,181,68,.35); }
-.sub { position: absolute; left: 0; right: 0; top: 222px; text-align: center; color: #d6e3fb; font-size: 17px; font-weight: 500; letter-spacing: 2px; z-index: 3; }
+  background: radial-gradient(60% 35% at 50% 70%, rgba(255,214,120,.20), rgba(255,214,120,0) 70%); }
+.tag { position: absolute; left: 50%; top: 22px; transform: translateX(-50%); background: var(--gold); color: var(--navy); white-space: nowrap; z-index: 3; font-size: 16px; }
+.h1 { position: absolute; left: 0; right: 0; top: 58px; text-align: center; color: #fff; font-weight: 900; z-index: 3; line-height: 1.1; letter-spacing: 1px; }
+.h1 .l1, .h1 .l2 { font-size: 54px; }
+.h1 .num { font-size: 66px; color: var(--gold); letter-spacing: 0; text-shadow: 0 4px 18px rgba(242,181,68,.35); }
+.sub { position: absolute; left: 0; right: 0; top: 190px; text-align: center; color: #d6e3fb; font-size: 16px; letter-spacing: 2px; z-index: 3; }
 .sub b { color: #fff; font-weight: 700; }
 
-/* hero */
-.laptop { position: absolute; left: 186px; top: 262px; width: 408px; z-index: 2; }
-.screen { background: #0b0f17; border-radius: 12px 12px 4px 4px; padding: 9px 9px 9px; }
-.screen img { display: block; width: 100%; border-radius: 3px; }
-.base { height: 13px; margin: 0 -26px; background: linear-gradient(#e9edf3, #b9c1cc); border-radius: 0 0 14px 14px; position: relative; }
-.base::before { content: ''; position: absolute; left: 50%; top: 0; width: 70px; height: 5px; transform: translateX(-50%); background: #a3acb8; border-radius: 0 0 6px 6px; }
-.badge4k { position: absolute; right: -14px; top: -14px; background: var(--red); color: #fff; font-weight: 900; font-size: 18px; padding: 5px 11px; border-radius: 10px; transform: rotate(6deg); box-shadow: 0 6px 14px rgba(0,0,0,.3); z-index: 4; }
-.book { position: absolute; left: 44px; top: 268px; width: 158px; height: 225px; z-index: 3; transform: perspective(900px) rotateY(16deg) rotateZ(-3deg); }
-.book img { width: 100%; height: 100%; object-fit: cover; border-radius: 2px 6px 6px 2px; display: block; }
-.book::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 10px; background: linear-gradient(90deg, rgba(0,0,0,.35), rgba(255,255,255,.15) 60%, rgba(0,0,0,0)); z-index: 2; border-radius: 2px 0 0 2px; }
-.book .shadow-el { position: absolute; inset: 0; box-shadow: 14px 22px 34px rgba(0,0,0,.45); border-radius: 2px 6px 6px 2px; z-index: -1; }
-.page { position: absolute; width: 118px; height: 167px; background: #fff; border-radius: 3px; overflow: hidden; box-shadow: 0 14px 28px rgba(0,0,0,.35); }
-.page img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
-.p1 { left: 600px; top: 312px; transform: rotate(-9deg); z-index: 3; }
-.p2 { left: 636px; top: 298px; transform: rotate(1deg); z-index: 4; }
-.p3 { left: 664px; top: 314px; transform: rotate(10deg); z-index: 5; }
+/* hero lineup */
+.obj { position: absolute; z-index: 3; }
+.lab { position: absolute; z-index: 4; text-align: center; color: #fff; font-weight: 900; font-size: 15px; line-height: 1.25; white-space: nowrap; transform: translateX(-50%); }
+.lab i { display: block; font-style: normal; font-weight: 500; font-size: 12px; color: #c9d8f3; }
+.fmt { display: inline-block; font-family: 'SC'; font-weight: 900; font-size: 11px; color: #fff; background: var(--red); border-radius: 4px; padding: 1px 5px; margin-left: 5px; vertical-align: 2px; letter-spacing: .5px; }
+.fmt.mp4 { background: #2f9e6d; }
+.badge { position: absolute; z-index: 5; font-weight: 900; font-size: 13px; color: #fff; background: var(--red); border-radius: 6px; padding: 2px 7px; box-shadow: 0 4px 10px rgba(0,0,0,.3); }
+.badge.mp4 { background: #2f9e6d; }
+
+.book { left: 26px; top: 252px; width: 132px; height: 188px; transform: perspective(800px) rotateY(14deg) rotateZ(-2deg); }
+.book img { width: 100%; height: 100%; object-fit: cover; display: block; border-radius: 2px 5px 5px 2px; box-shadow: 12px 18px 28px rgba(0,0,0,.45); }
+.book::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 8px; background: linear-gradient(90deg, rgba(0,0,0,.35), rgba(255,255,255,.15) 60%, rgba(0,0,0,0)); z-index: 2; }
+
+.laptop { left: 172px; top: 270px; width: 262px; }
+.screen { background: #0b0f17; border-radius: 9px 9px 3px 3px; padding: 6px; }
+.screen img { display: block; width: 100%; border-radius: 2px; }
+.base { height: 9px; margin: 0 -18px; background: linear-gradient(#e9edf3, #b9c1cc); border-radius: 0 0 10px 10px; }
+
+.eq { position: absolute; left: 440px; top: 316px; z-index: 4; color: var(--gold); font-weight: 900; font-size: 40px; line-height: 1; }
+.eq i { display: block; font-style: normal; font-size: 12px; color: var(--gold); text-align: center; margin-top: 2px; letter-spacing: 1px; }
+
+.pdfv { left: 484px; top: 276px; width: 176px; background: #fff; border-radius: 6px; padding: 5px; box-shadow: 0 14px 28px rgba(0,0,0,.4); transform: rotate(2deg); }
+.pdfv img { display: block; width: 100%; border-radius: 2px; }
+.pdfv .stack { position: absolute; inset: 0; background: #fff; border-radius: 6px; transform: translate(7px, 7px); z-index: -1; box-shadow: 0 8px 16px rgba(0,0,0,.3); }
+
+.pg { position: absolute; width: 88px; height: 125px; background: #fff; border-radius: 3px; overflow: hidden; box-shadow: 0 10px 22px rgba(0,0,0,.4); z-index: 3; }
+.pg img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.q1 { left: 670px; top: 268px; transform: rotate(-7deg); }
+.q2 { left: 690px; top: 284px; transform: rotate(3deg); z-index: 4; }
+.q3 { left: 702px; top: 304px; transform: rotate(11deg); z-index: 5; }
 
 /* contents */
-.panel { position: absolute; left: 0; top: 500px; width: 800px; height: 300px; background: var(--cream); }
-.ptitle { position: absolute; left: 0; right: 0; top: 512px; text-align: center; font-weight: 900; font-size: 24px; color: var(--navy); letter-spacing: 1px; z-index: 3; }
+.panel { position: absolute; left: 0; top: 506px; width: 800px; height: 294px; background: var(--cream); }
+.ptitle { position: absolute; left: 0; right: 0; top: 516px; text-align: center; font-weight: 900; font-size: 23px; color: var(--navy); letter-spacing: 1px; z-index: 3; }
 .ptitle span { color: var(--red); }
-.grid { position: absolute; left: 22px; right: 22px; top: 556px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; z-index: 3; }
-.chip { background: #fff; border-radius: 14px; height: 88px; display: flex; align-items: center; gap: 10px; padding: 0 10px; box-shadow: 0 4px 12px rgba(16,38,74,.10); border: 1px solid #efe5d2; }
-.thumb { width: 50px; height: 70px; flex: none; border-radius: 3px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,.18); background: #fff; }
+.grid { position: absolute; left: 20px; right: 20px; top: 556px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 9px; z-index: 3; }
+.chip { background: #fff; border-radius: 13px; height: 88px; display: flex; align-items: center; gap: 9px; padding: 0 9px; box-shadow: 0 4px 12px rgba(16,38,74,.10); border: 1px solid #efe5d2; position: relative; }
+.thumb { width: 48px; height: 68px; flex: none; border-radius: 3px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,.18); background: #fff; position: relative; }
 .thumb img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
-.thumb.wide { width: 54px; height: 31px; }
-.n { font-weight: 900; font-size: 25px; color: var(--navy); line-height: 1; }
-.n small { font-size: 15px; margin-left: 2px; }
-.lab { font-weight: 700; font-size: 15px; color: var(--ink); margin-top: 6px; line-height: 1.15; }
-.lab i { font-style: normal; font-weight: 500; font-size: 12px; color: var(--muted); display: block; margin-top: 2px; }
-.foot { position: absolute; left: 0; right: 0; bottom: 16px; text-align: center; font-size: 14px; color: var(--muted); letter-spacing: 1px; z-index: 3; }
+.thumb.wide { width: 56px; height: 32px; }
+.n { font-weight: 900; font-size: 24px; color: var(--navy); line-height: 1; white-space: nowrap; }
+.n small { font-size: 14px; margin-left: 2px; }
+.n .fmt { font-size: 10px; vertical-align: 5px; }
+.ll { font-weight: 700; font-size: 14.5px; color: var(--ink); margin-top: 5px; line-height: 1.15; white-space: nowrap; }
+.ll i { font-style: normal; font-weight: 500; font-size: 11.5px; color: var(--muted); display: block; margin-top: 2px; }
+.foot { position: absolute; left: 0; right: 0; bottom: 14px; text-align: center; font-size: 14px; color: var(--muted); letter-spacing: 1px; z-index: 3; }
 .foot b { color: var(--navy); font-weight: 700; }
 </style></head>
 <body><div class="canvas">
   <div class="top"></div>
   <div class="pill tag">考研英语一 · 英语二 · 四级 · 六级 都能用</div>
   <div class="h1"><div class="l1">70个好故事</div><div class="l2">记住约<span class="num">4300</span>个考研词</div></div>
-  <div class="sub"><b>英文朗读</b> · 中英对照 · <b>逐句精讲</b> · 单词精解 · <b>听写自测</b></div>
+  <div class="sub"><b>4K视频</b> ＋ <b>同版PDF</b> ＋ <b>PDF教材</b> ＋ 逐句精讲 ＋ 单词精解 ＋ 听写卡</div>
 
-  <div class="book"><div class="shadow-el"></div><img src="../assets/cover.jpg"></div>
-  <div class="laptop"><div class="badge4k">4K</div><div class="screen"><img src="../assets/scr01_1.png"></div><div class="base"></div></div>
-  <div class="page p1"><img src="../assets/jj01_p2.png"></div>
-  <div class="page p2"><img src="../assets/cd01_p2.png"></div>
-  <div class="page p3"><img src="../assets/card_zh2en.png"></div>
+  <div class="obj book"><img src="../assets/cover.jpg"></div>
+  <span class="badge" style="left:120px; top:240px;">PDF</span>
+  <div class="lab" style="left:94px; top:452px;">《考研学人》教材<span class="fmt">PDF</span><i>356页 · 普通版＋羊皮纸版</i></div>
+
+  <div class="obj laptop"><div class="screen"><img src="../assets/scr01_1.png"></div><div class="base"></div></div>
+  <span class="badge mp4" style="left:392px; top:260px;">4K</span>
+  <div class="lab" style="left:303px; top:452px;">精读视频<span class="fmt mp4">MP4</span><i>70集 · 4K高清</i></div>
+
+  <div class="eq">＝<i>同版</i></div>
+
+  <div class="obj pdfv"><div class="stack"></div><img src="../assets/scr01_1.png"></div>
+  <span class="badge" style="left:628px; top:266px;">PDF</span>
+  <div class="lab" style="left:574px; top:452px;">视频同屏版<span class="fmt">PDF</span><i>和视频画面一模一样</i></div>
+
+  <div class="pg q1"><img src="../assets/jj01_p2.png"></div>
+  <div class="pg q2"><img src="../assets/cd01_p2.png"></div>
+  <div class="pg q3"><img src="../assets/card_zh2en.png"></div>
+  <span class="badge" style="left:752px; top:262px; z-index:6;">PDF</span>
+  <div class="lab" style="left:732px; top:452px;">学习讲义<span class="fmt">PDF</span><i>精讲 · 单词 · 听写卡</i></div>
 
   <div class="panel"></div>
   <div class="ptitle">全套 <span>8 样</span>学习资料，一次配齐</div>
   <div class="grid">
-    <div class="chip"><div class="thumb wide"><img src="../assets/scr01_0.png"></div><div><div class="n">70<small>集</small></div><div class="lab">精读视频<i>4K 高清</i></div></div></div>
-    <div class="chip"><div class="thumb"><img src="../assets/cover.jpg"></div><div><div class="n">356<small>页</small></div><div class="lab">电子书<i>普通版＋羊皮纸版</i></div></div></div>
-    <div class="chip"><div class="thumb"><img src="../assets/jj01_p2.png"></div><div><div class="n">70<small>份</small></div><div class="lab">逐句精讲</div></div></div>
-    <div class="chip"><div class="thumb"><img src="../assets/cd01_p2.png"></div><div><div class="n">70<small>本</small></div><div class="lab">单词精解册</div></div></div>
-    <div class="chip"><div class="thumb"><img src="../assets/card_zh2en.png"></div><div><div class="n">70<small>份</small></div><div class="lab">汉译英听写卡<i>附答案</i></div></div></div>
-    <div class="chip"><div class="thumb"><img src="../assets/card_en2zh.png"></div><div><div class="n">70<small>份</small></div><div class="lab">英译汉听写卡<i>附答案</i></div></div></div>
-    <div class="chip"><div class="thumb wide"><img src="../assets/scr01_2.png"></div><div><div class="n">70<small>份</small></div><div class="lab">视频同屏版<i>画面整理成PDF</i></div></div></div>
-    <div class="chip"><div class="thumb"><img src="../assets/read01_p1.png"></div><div><div class="n">70<small>份</small></div><div class="lab">阅读版</div></div></div>
+    <div class="chip"><div class="thumb wide"><img src="../assets/scr01_0.png"></div><div><div class="n">70<small>集</small><span class="fmt mp4">MP4</span></div><div class="ll">4K精读视频<i>英文朗读 · 中英对照</i></div></div></div>
+    <div class="chip"><div class="thumb wide"><img src="../assets/scr01_2.png"></div><div><div class="n">70<small>份</small><span class="fmt">PDF</span></div><div class="ll">视频同屏版<i>与视频同版</i></div></div></div>
+    <div class="chip"><div class="thumb"><img src="../assets/cover.jpg"></div><div><div class="n">356<small>页</small><span class="fmt">PDF</span></div><div class="ll">《考研学人》教材<i>普通版＋羊皮纸版</i></div></div></div>
+    <div class="chip"><div class="thumb"><img src="../assets/read01_p1.png"></div><div><div class="n">70<small>份</small><span class="fmt">PDF</span></div><div class="ll">阅读版<i>单篇中英对照</i></div></div></div>
+    <div class="chip"><div class="thumb"><img src="../assets/jj01_p2.png"></div><div><div class="n">70<small>份</small><span class="fmt">PDF</span></div><div class="ll">逐句精讲<i>主干 · 语法 · 例句</i></div></div></div>
+    <div class="chip"><div class="thumb"><img src="../assets/cd01_p2.png"></div><div><div class="n">70<small>本</small><span class="fmt">PDF</span></div><div class="ll">单词精解册<i>音标 · 词源 · 搭配</i></div></div></div>
+    <div class="chip"><div class="thumb"><img src="../assets/card_zh2en.png"></div><div><div class="n">70<small>份</small><span class="fmt">PDF</span></div><div class="ll">汉译英听写卡<i>附答案</i></div></div></div>
+    <div class="chip"><div class="thumb"><img src="../assets/card_en2zh.png"></div><div><div class="n">70<small>份</small><span class="fmt">PDF</span></div><div class="ll">英译汉听写卡<i>附答案</i></div></div></div>
   </div>
   <div class="foot">电子版资料 · <b>PDF ＋ MP4</b> · 手机、平板、电脑都能看，PDF 可打印</div>
 </div></body></html>
