@@ -12,6 +12,7 @@
 #   4. 跑 engine_patches/apply.sh，重新套用工坊对引擎的小改动；再跑 clean_words.py，把内部规则文件和词表里的
 #      禁用字样改写掉（说明文字换成“清单见 BANNED”，程序里换成 \u 转义，行为不变）。
 #   5. 若有 tools/music/package_music.sh，就调用它处理配乐（加密进仓库）；没有就提示跳过。
+#      没有 MUSIC_KEY 时，若 A/music/score.wav 和 F 里加密那份的 sha256 一致（配乐没改），直接跳过，只同步程序。
 # 不碰 F 里的 film.json、music/、node_modules/。只用 tar、node、python3，不依赖 rsync。
 # 还在做的场景不进仓库（半成品不上线）：SKIP_SCENES=s08,s09 bash ... 同步时不带这些场景文件和 assets/<场景>/；做完再同步一次就带上。
 set -euo pipefail
@@ -104,7 +105,11 @@ fi
 bash "$K/tools/engine_patches/apply.sh" "$F"
 python3 "$K/tools/clean_words.py" "$F"
 
-if [ -f "$K/tools/music/package_music.sh" ]; then
+SUMS="$F/music/private/SHA256SUMS"
+if [ -z "${MUSIC_KEY:-}" ] && [ -f "$SUMS" ] && [ -f "$A/music/score.wav" ] \
+   && grep -q "^sha256 $(sha256sum "$A/music/score.wav" | cut -d' ' -f1) score.wav$" "$SUMS"; then
+  echo "  配乐：没有 MUSIC_KEY，但 score.wav 和仓库里加密的那份一致，不用重新打包，跳过"
+elif [ -f "$K/tools/music/package_music.sh" ]; then
   bash "$K/tools/music/package_music.sh" "$A" "$F"
 else
   echo "  配乐：没有 tools/music/package_music.sh，跳过"
