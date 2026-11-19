@@ -4,7 +4,7 @@
 用法：python3 plan.py --request 渲染请求.json [--out plan.json]
 请求格式（动画工坊/渲染请求.json，字段都可省，省了用作品清单里的值）：
   {"id":"唯一串","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,
-   "music":"main","shards":12,"release":false,"note":"说明"}
+   "music":"main","shards":20,"release":false,"note":"说明"}
 切法：f0=round(from*fps)，f1=round(to*fps)（和 render.js 一样的 Math.round），第 i 段是
 [f0+round(N*i/K), f0+round(N*(i+1)/K))，传给 render.js 的 --from/--to 是 帧号/fps，首尾相接，不重不漏。
 能明确改正的（段数超范围、段太短）自动改并提示；意思不明的（片名不存在、scale 不是 1 或 2）报错退出 1。
@@ -71,7 +71,7 @@ def make_plan(req, k_dir):
         raise ValueError(f'范围里没有帧：frames {f0}..{f1}')
 
     shards = req.get('shards')
-    k = 12 if shards in (None, '') else int(float(shards))
+    k = 20 if shards in (None, '') else int(float(shards))
     k0 = k
     k = max(1, min(k, MAX_SHARDS, max(1, n // MIN_SHARD_FRAMES)))
     if k != k0:

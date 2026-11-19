@@ -17,7 +17,7 @@ Actions 页面的 Run workflow 按钮只在工作流文件进了默认分支（m
 动画工坊/渲染请求.json：
 
     {"id":"唯一串","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,
-     "music":"main","shards":12,"release":false,"note":"说明"}
+     "music":"main","shards":20,"release":false,"note":"说明"}
 
 | 字段 | 意思 |
 |---|---|
@@ -38,7 +38,7 @@ Actions 页面的 Run workflow 按钮只在工作流文件进了默认分支（m
 3. assemble：concat 分离器 -c copy 无损拼接；decrypt_music.sh 准备配乐；混音参数和 render.js 一样（-ss from -t 帧数/fps，AAC 320k，48 kHz 立体声）；核对帧数 = 时长 x fps、帧率、尺寸、编码、音轨长度、真峰值不超过 0 dBTP；测积分响度；4K 时另出 1080p；写 SHA256SUMS.txt。
 4. 结果：Actions 运行页面的 artifact film-r编号（保存 30 天）；release 为 true 时发 Release，标签 anim-how-to-learn-english-r编号，附件 how-to-learn-english_4k.mp4、how-to-learn-english_1080p.mp4、SHA256SUMS.txt。配乐是备用或无时，Release 标题里写明。Release 不设为 Latest，不会把仓库首页的资料 Release 挤下去。
 
-速度参考：本机（4 核，同时还有别的渲染）1080p 约 3 帧/秒、4K 约 0.7 帧/秒（单进程）。全片 10161 帧 4K 分 12 段，每段约 850 帧，预计每段 10 到 20 分钟。
+速度参考：本机（4 核，同时还有别的渲染）1080p 约 3 帧/秒、4K 约 0.7 帧/秒（单进程）。GitHub 实测（2026-11-19，run 44578749587）：4K、--parallel 3，每段 0.37 到 1.50 帧/秒（画面越复杂越慢），准备运行器 28 秒到 15 分钟（apt 镜像快慢不定）。全片 10161 帧 4K 默认分 20 段，每段约 510 帧，预计每段 6 到 23 分钟。
 
 ## 配乐密钥
 

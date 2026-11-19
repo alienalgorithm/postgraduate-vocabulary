@@ -46,6 +46,6 @@
 - 用空字体配置后，万一以后的场景写了 fonts/ 里没有的字，运行器上会显示成方块，本机会显示成系统字体：两边都不对，属于文字质量问题，要在写场景时换字或补字体，不能靠系统字体兜底。
 - 新片（new_film.sh 建的）直接复制这套 fonts/，步骤相同。要加新字体：把可再分发的字体文件和许可证放进 A/fonts，在 index.html 和 design.css 里声明，engine.js 的字体检查名单（FAMILIES）也要加上。
 
-## 仍需在运行器上确认的一点（不是字体问题）
+## 运行器上的实测（2026-11-19）
 
-本机 CPU 是带 AVX-512 的 Intel Xeon，GitHub 的 ubuntu-24.04 运行器多半是只有 AVX2 的 AMD EPYC。WebGL 走 SwiftShader（CPU 模拟），Skia 也按 CPU 指令集选不同的代码路径，个别像素的最低位可能不同。建议 CI 第一次跑时在固定时刻出几张图，和本机同一时刻的图算 PSNR，确认肉眼无差别。
+本机 CPU 是带 AVX-512 的 Intel Xeon，GitHub 的 ubuntu-24.04 运行器可能是只有 AVX2 的 AMD EPYC；WebGL 走 SwiftShader（CPU 模拟），Skia 也按 CPU 指令集选代码路径，原本担心个别像素最低位不同。第一次在运行器上跑 anim-check（run 44578714363）：6 张参考静帧和本机出的逐字节相同（PSNR 99 dB），50 张静帧字体回落 0 个。所以本机出的参考图可以直接用；stills_qa.py 的 40/28 dB 阈值继续留着防万一。

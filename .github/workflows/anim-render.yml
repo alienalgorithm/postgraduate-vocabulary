@@ -42,7 +42,7 @@ on:
       shards:
         description: 分几段并行（1 到 20）
         type: string
-        default: '12'
+        default: '20'
       release:
         description: 出完发 Release
         type: boolean

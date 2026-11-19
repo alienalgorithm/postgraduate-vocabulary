@@ -32,20 +32,20 @@
 | fps | 帧率 | 60 |
 | from、to | 秒；null 或空表示片头、片尾；只出一段时用 | 整片 |
 | music | main 用加密主配乐（缺密钥自动退到备用，再没有就无声）；backup 直接用备用；none 无声 | main |
-| shards | 分几段并行，1 到 20；超出范围或每段不到 60 帧时自动改正并提示 | 12 |
+| shards | 分几段并行，1 到 20；超出范围或每段不到 60 帧时自动改正并提示 | 20 |
 | release | true 时出完发 Release | false |
 | note | 说明，写进 Release | 空 |
 
 常用请求：
 
     整片 4K 并发布：
-    {"id":"full-4k-1","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,"music":"main","shards":12,"release":true,"note":"整片 4K"}
+    {"id":"full-4k-1","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,"music":"main","shards":20,"release":true,"note":"整片 4K"}
 
     一段 1080p 预览（不发布）：
     {"id":"preview-s05","film":"如何真正学好英语","scale":1,"fps":60,"from":55.592,"to":74.342,"music":"main","shards":2,"release":false,"note":"看 s05"}
 
     备用配乐版（B站 因版权静音时换用）：
-    {"id":"full-4k-backup-1","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,"music":"backup","shards":12,"release":true,"note":"备用配乐版"}
+    {"id":"full-4k-backup-1","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,"music":"backup","shards":20,"release":true,"note":"备用配乐版"}
 
 ### 过程
 
@@ -59,7 +59,7 @@
 |---|---|---|
 | 成片 | 运行页面最下面的 artifact `film-r编号`：`how-to-learn-english_4k.mp4`、`how-to-learn-english_1080p.mp4`、`SHA256SUMS.txt`、`report.json`（scale=1 时只有 1080p） | 30 天 |
 | Release（release:true 时） | 仓库 Releases 页面，标签 `anim-how-to-learn-english-r编号`，附件同上（不含 report.json） | 永久 |
-| 每段的片子 | artifact `shard-000` 到 `shard-011` | 3 天 |
+| 每段的片子 | artifact `shard-000` 到 `shard-019` | 3 天 |
 
 Release 标题形如“如何真正学好英语 4K 动画 r编号”，只出一段时加“（片段 a 到 b 秒）”，没拿到主配乐时加“（备用配乐）”或“（无配乐）”。Release 不设为 Latest，不会把仓库首页的资料 Release 挤下去；附件文件名只用英文字母。下载后可以 `sha256sum -c SHA256SUMS.txt` 核对。
 
@@ -69,12 +69,13 @@ Release 标题形如“如何真正学好英语 4K 动画 r编号”，只出一
 
 | 步 | 预计 |
 |---|---|
-| plan | 1 分钟 |
-| render（4K 整片分 12 段，每段约 850 帧） | 每段 10 到 20 分钟，各段同时跑 |
-| assemble（拼接、混音、出 1080p） | 5 到 10 分钟 |
-| 合计 | 30 到 45 分钟 |
+| plan | 10 秒 |
+| 准备运行器（apt 装 ffmpeg 和浏览器依赖） | 半分钟到 15 分钟，看 apt 镜像快慢 |
+| render（4K 整片分 20 段，每段约 510 帧） | 每段 6 到 23 分钟，各段同时跑 |
+| assemble（拼接、出 1080p、核对） | 5 到 8 分钟 |
+| 合计 | 约 30 到 45 分钟 |
 
-这是按本机速度推算的（本机单进程 4K 约 0.7 帧/秒、1080p 约 3 帧/秒）；第一次在 GitHub 上跑完后，以运行摘要里的实测渲染速度为准。1080p 预览大约快 4 倍。
+实测（2026-11-19，run 44578749587）：s01 到 s05（0 到 74.342 秒，4461 帧 4K）分 6 段，每段 743 或 744 帧，`--parallel 3` 渲染速度每段 0.37 到 1.50 帧/秒（画面越复杂越慢，平均 0.66），渲染用时 8 到 33 分钟；准备运行器 28 秒到 15 分钟；assemble 5 分钟；从推送到出片共 43 分钟。各段帧数相同、难度不同，最慢的一段决定总时间，所以整片默认分 20 段（公开仓库同时最多 20 个作业）。1080p 预览大约快 4 倍。
 
 ## 二、检查（anim-check）
 

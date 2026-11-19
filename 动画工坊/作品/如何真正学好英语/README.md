@@ -44,7 +44,7 @@ B站UP主 朋克英语 的纯音乐动画短片：不说话，只用配乐、文
 
 在 GitHub 上（推荐）：改仓库里的 `动画工坊/渲染请求.json`，换新 id，推送到 `claude/article-packages-20261116` 或 `main`：
 
-    {"id":"full-4k-1","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,"music":"main","shards":12,"release":true,"note":"整片 4K"}
+    {"id":"full-4k-1","film":"如何真正学好英语","scale":2,"fps":60,"from":null,"to":null,"music":"main","shards":20,"release":true,"note":"整片 4K"}
 
 只出一段看效果：`"scale":1,"from":55.592,"to":74.342,"shards":2,"release":false`。参数和结果怎么看见 `动画工坊/GitHub自动化.md`。
 
@@ -87,6 +87,6 @@ B站UP主 朋克英语 的纯音乐动画短片：不说话，只用配乐、文
 
 ## 现在的状态（2026-11-19）
 
-- 仓库里的场景文件是 s01 到 s07；s08 到 s10 在本机动画工作目录里制作（还没做完的用 SKIP_SCENES 挡在外面），做完用 `bash 动画工坊/tools/sync_from_workspace.sh <工作目录> 动画工坊/作品/如何真正学好英语` 同步，再跑 `bash 动画工坊/tools/ci/update_refs.sh 动画工坊/作品/如何真正学好英语` 更新参考静帧。
-- 在那之前，整片出片会因为缺场景而停；0 到 111.842 秒以内的片段可以出。
+- 仓库里的场景文件是 s01 到 s08；s09、s10 在本机动画工作目录里制作（还没做完的用 SKIP_SCENES 挡在外面），做完用 `bash 动画工坊/tools/sync_from_workspace.sh <工作目录> 动画工坊/作品/如何真正学好英语` 同步，再跑 `bash 动画工坊/tools/ci/update_refs.sh 动画工坊/作品/如何真正学好英语` 更新参考静帧。
+- 在那之前，整片出片会因为缺场景而停；0 到 124.967 秒以内的片段可以出。
 - 备用配乐还没做；GitHub 上还没有 MUSIC_KEY 时，出片会无声并在 Release 标题注明。

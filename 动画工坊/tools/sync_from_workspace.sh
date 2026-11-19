@@ -13,7 +13,7 @@
 #      禁用字样改写掉（说明文字换成“清单见 BANNED”，程序里换成 \u 转义，行为不变）。
 #   5. 若有 tools/music/package_music.sh，就调用它处理配乐（加密进仓库）；没有就提示跳过。
 # 不碰 F 里的 film.json、music/、node_modules/。只用 tar、node、python3，不依赖 rsync。
-# 还在做的场景不进仓库（半成品不上线）：SKIP_SCENES=s08,s09 bash ... 同步时不带这些场景文件；做完再同步一次就带上。
+# 还在做的场景不进仓库（半成品不上线）：SKIP_SCENES=s08,s09 bash ... 同步时不带这些场景文件和 assets/<场景>/；做完再同步一次就带上。
 set -euo pipefail
 
 [ $# -eq 2 ] || { echo "用法：bash $0 <工作目录A> <作品目录F>" >&2; exit 2; }
@@ -46,7 +46,9 @@ echo "同步 $A -> $F"
 for d in engine scenes story assets scenes_v1; do mirror "$d"; done
 SKIP_SCENES=${SKIP_SCENES:-}
 for s in ${SKIP_SCENES//,/ }; do
-  [[ "$s" =~ ^[A-Za-z0-9_-]+$ ]] && [ -f "$F/scenes/$s.js" ] && rm -f "$F/scenes/$s.js" && echo "  scenes/$s.js 还在做，这次不同步（SKIP_SCENES）"
+  [[ "$s" =~ ^[A-Za-z0-9_-]+$ ]] || continue
+  [ -f "$F/scenes/$s.js" ] && rm -f "$F/scenes/$s.js" && echo "  scenes/$s.js 还在做，这次不同步（SKIP_SCENES）"
+  [ -d "$F/assets/$s" ] && rm -rf "${F:?}/assets/$s" && echo "  assets/$s/ 还在做，这次不同步（SKIP_SCENES）"
 done
 mirror fonts 'OFL-*.txt' 'LICENSE*'
 if [ -f "$A/BRIEF.md" ]; then cp -p "$A/BRIEF.md" "$F/BRIEF.md"; echo "  BRIEF.md"; fi

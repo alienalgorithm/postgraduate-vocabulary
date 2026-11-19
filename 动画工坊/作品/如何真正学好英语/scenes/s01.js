@@ -1,6 +1,7 @@
 /* s01  Cold open and hook (global 0 to 11.217 s, bars 1 to 6 of the Cornfield Chase edit, intro_a, F F F F G G).
  *
- * Near-black. During the silent fade-in (bars 1 and 2) only the motif light breathes, on the bar lines, among three
+ * Opens from true black (0 to 1.2 s, with the music's raised-cosine fade-in) into near-black. During the silent fade-in
+ * (bars 1 and 2) only the motif light breathes, on the bar lines, among three
  * depth layers of real 考研 word dust. On bar 2 (1.842) it launches along a MotionPath arc through the dust (the dust
  * it passes lights up and dims again); where it crosses the top edge of the card it tears a thread of light that
  * runs both ways round a frosted-glass word card and closes on bar 2 beat 3 (3.092). "evidence" types out from
@@ -30,7 +31,8 @@
  *     rgba(2,3,7,.82) 100%);
  *   - word dust: seed 's01-dust' (2100 far specks d 0.2, 760 mid specks d 0.5, generated exactly as below), drift
  *     from global time t, camera zoom 1.04 (+0.003 * (energy term - 0.5)), x 18, y -10, alpha factor 0.35;
- *     near blurred words and bokeh gone; card edge-on (invisible); captions gone.
+ *     near blurred words and bokeh gone; card exactly edge-on and hidden from 11.2087 (so the last frame, 11.2167,
+ *     shows no edge line); captions gone. Near words never touch the frame edge (they fade out 20 px before it).
  */
 (function () {
   'use strict';
@@ -58,18 +60,19 @@
     // ---------------- timing (local s = global s; beats of the edit: 0.592, 1.217, 1.842, 2.467 ...) ----------------
     var BARS = [0, 1.842, 3.717, 5.592, 7.467, 9.342, 11.217];
     var T_ANT = 1.45, T_LAUNCH = 1.842, T_HOVER = 2.95;          // anticipation, launch on bar 2, arrive above the ı
-    var T_TYPE = 2.467, T_STEP = 0.08;                           // evidence, bar 2 beat 2, one letter per 0.08 s
+    var T_TYPE = F(2.467), T_STEP = 0.08;                        // evidence, bar 2 beat 2 (frame 148), one letter per 0.08 s
     var T_CLOSE = 3.092;                                         // the torn outline closes on bar 2 beat 3
     var T_LAND = F(3.717);                                       // the light crosses the tittle on bar 3
     var DROP_DUR = 0.9, DROP_X0 = (function () {                 // where back.out(1.6) first reaches 1
       var lo = 0, hi = 0.7; for (var i = 0; i < 50; i++) { var m = (lo + hi) / 2; if (eBack(m) < 1) lo = m; else hi = m; } return (lo + hi) / 2;
     })();
     var T_DROP0 = T_LAND - DROP_X0 * DROP_DUR, T_GATHER = T_DROP0 - 0.24;
-    var T_MEAN = 4.342, T_LINE = 4.967, T_STEPUP = 5.592;
+    var T_MEAN = 4.342, T_LINE = F(4.967), T_STEPUP = 5.592;     // x.467 / x.967 beats sit 0.3 ms after a frame: F()
     var T_LINE_OUT = 7.33;                                       // 先记住这个词。 is gone before the G
     var T_HIT = F(7.467);                                        // first chord change (G)
     var T_HOLD = F(9.342), T_HOP_LAND = F(9.967);                // bar 6: brighter, one small hop, hold
     var T_EXIT = 10.592;                                         // bar 6 beat 3: flip out, light flies to s02
+    var T_FLIP_END = D - 1 / 120;                                // exactly edge-on (hidden) on the last frame (11.2167)
     var T_ARRIVE = 11.05, SETTLE = 7;                            // flight ends 7 px above the handoff, then sinks in
     var T_HEAD_OUT = 10.6, HEAD_OUT_D = 0.2;                     // 片尾，考你。 gone by 10.9
     var HANDOFF = { x: 1336, y: 262 };
@@ -119,7 +122,7 @@
     }
     function camMap(c, px, py, d) { var s = 1 + (c.zoom - 1) * d; return [OX + (px - OX) * s - c.x * d, OY + (py - OY) * s - c.y * d]; }
     function cardPoly(t, c) {
-      var th = -90 * eP3i(seg(t, T_EXIT, D)) * Math.PI / 180, cs = Math.cos(th), sn = Math.sin(th), P = 1600;
+      var th = -90 * eP3i(seg(t, T_EXIT, T_FLIP_END)) * Math.PI / 180, cs = Math.cos(th), sn = Math.sin(th), P = 1600;
       return CARD_OUT.map(function (q) { var x = q[0] * cs, z = -q[0] * sn, k = P / (P - z); return camMap(c, CCX + x * k, CCY + q[1] * k, 1); });
     }
     var CAM = camAt(0);
@@ -150,12 +153,13 @@
 
     // near layer: a few blurred real words (texture only), kept out of the card and the caption slot
     var dpr = window.devicePixelRatio || 1;
-    var near = [];
+    var near = [], NEAR_EDGE = 20;   // a near word fades out over its last 20 px before the frame edge
     (function () {
       var Rn = u.rand('s01-near'), tries = 0, words = Rn.shuffle(WORDS.slice());
-      function ok(x, y, w) {
+      function ok(x, y, w, fs) {
         if (x - w / 2 < 1500 && x + w / 2 > 420 && y > 110 && y < 1010) return false;   // card + caption + headroom
-        if (x < -40 || x > W + 40 || y < 30 || y > H - 20) return false;
+        // the whole blurred word starts inside the frame (no word is ever shown cut by the frame edge)
+        if (x - w / 2 - 15 < NEAR_EDGE + 4 || x + w / 2 + 15 > W - NEAR_EDGE - 4 || y - 0.62 * fs - 15 < NEAR_EDGE + 4 || y + 0.62 * fs + 15 > H - NEAR_EDGE - 4) return false;
         for (var k = 0; k < near.length; k++) { var o = near[k]; if (Math.abs(o.x - x) < (o.w + w) / 2 + 60 && Math.abs(o.y - y) < 110) return false; }
         return true;
       }
@@ -166,7 +170,7 @@
         var mc = document.createElement('canvas').getContext('2d'); mc.font = font;
         var tw = mc.measureText(word).width;
         var x = Rn.range(0, W), y = Rn.range(40, H - 30);
-        if (!ok(x, y, tw)) continue;
+        if (!ok(x, y, tw, fs)) continue;
         var blur = Rn.range(6, 10);
         near.push({ word: word, font: font, fs: fs, w: tw, x: x, y: y, blur: blur, a: Rn.range(0.2, 0.3),
           vx: Rn.range(-6, 6), vy: Rn.range(-5, -1), ph: Rn() * 6.283, soft: null, sharp: null });
@@ -275,6 +279,9 @@
     // hit flash (cool, local) and the extra heavy vignette of the cold open
     var flash = u.el('div', { cls: 'fill', parent: root, style: { background: 'radial-gradient(ellipse 52% 46% at 50% 62%, rgba(205,228,255,.26) 0%, rgba(205,228,255,.08) 40%, rgba(205,228,255,0) 72%)', opacity: 0, mixBlendMode: 'screen' } });
     u.el('div', { cls: 'fill', parent: root, style: { background: 'radial-gradient(ellipse 72% 66% at 50% 46%, rgba(0,0,0,0) 46%, rgba(2,3,7,.5) 82%, rgba(2,3,7,.82) 100%)' } });
+    // the film opens from true black, rising with the music's 1.2 s raised-cosine fade-in
+    var fromBlack = u.el('div', { cls: 'fill', parent: root, style: { background: '#000', opacity: 1 } });
+    tl.fromTo(fromBlack, { opacity: 1 }, { opacity: 0, duration: 1.2, ease: 'sine.inOut' }, 0);
 
     // ===== the motif light: a pure function of t =====
     var REST = { x: 960, y: 520 }, SINK = 18;
@@ -437,9 +444,13 @@
         var sn = camMap(c, nx0, ny0, 0.9);
         shock(sn[0], sn[1], 0.9, o3);
         var litn = lightAt(o3[0], o3[1]);
-        var an = (n.a * (0.85 + 0.3 * en) * (0.9 + 0.1 * step) + o3[2] * 0.25) * envNear * nearEnd;
-        if (an <= 0.004) continue;
         var sc = 1 + (c.zoom - 1) * 0.9;
+        // edge fade: drift, camera push and the shockwave can carry a word toward the frame edge; it fades out
+        // before any part of it (blur included) would be cut
+        var gw = n.w * sc / 2 + 1.5 * n.blur, gh = 0.62 * n.fs * sc + 1.5 * n.blur;   // ink box (ascent and descent <= 0.62 em) + blur
+        var mg = Math.min(o3[0] - gw, W - o3[0] - gw, o3[1] - gh, H - o3[1] - gh);
+        var an = (n.a * (0.85 + 0.3 * en) * (0.9 + 0.1 * step) + o3[2] * 0.25) * envNear * nearEnd * smooth(clamp(mg / NEAR_EDGE, 0, 1));
+        if (an <= 0.004) continue;
         var sw = n.soft.w * sc, sh = n.soft.h * sc;
         g.globalAlpha = clamp(an * (1 - 0.55 * litn), 0, 1);
         g.drawImage(n.soft.c, o3[0] - sw / 2, o3[1] - sh / 2, sw, sh);
@@ -637,9 +648,9 @@
     tl.set(caret, { x: evL - 6, opacity: 1 }, T_TYPE - 0.04);
     lts.forEach(function (s, i) {
       var ti = T_TYPE + i * T_STEP;
-      tl.to(s, { opacity: 1, '--g': 1, duration: 0.04, ease: 'none' }, ti);
+      tl.to(s, { opacity: 1, '--g': 1, duration: 0.001, ease: 'none' }, ti);   // a keystroke: fully there on its frame
       tl.to(s, { '--g': 0, duration: 0.65, ease: 'power2.out' }, ti + 0.04);
-      tl.set(caret, { x: letterRight[i] + 6 }, ti + 0.02);
+      tl.set(caret, { x: letterRight[i] + 6 }, ti);               // the caret steps with the letter (never over it)
       // the landing ripple runs through the word from the ı (and a smaller one when the hop lands)
       var dl = T_LAND + Math.abs(i - 2) * 0.035;
       tl.to(s, { '--r': 0.85, duration: 0.07, ease: 'power2.out' }, dl);
@@ -683,7 +694,10 @@
 
     // exit on bar 6 beat 3: the card flips away about Y (perspective 1600 px), its glass catching the light; the
     // headline dissolves from the centre out, gone by 10.9
-    tl.to(card, { rotationY: -90, duration: D - T_EXIT, ease: 'power3.in' }, T_EXIT);
+    tl.to(card, { rotationY: -90, duration: T_FLIP_END - T_EXIT, ease: 'power3.in' }, T_EXIT);
+    // no 1-frame edge line before the cut (opacity, not visibility: the engine primes the timeline while the scene
+    // wrapper is hidden, so a recorded "visibility" start value would be the inherited "hidden")
+    tl.to(card, { opacity: 0, duration: 0.001, ease: 'none' }, T_FLIP_END);
     tl.to(flipSheen, { opacity: 1, duration: D - T_EXIT, ease: 'power2.in' }, T_EXIT);
     var hcMid = (headCh.length - 1) / 2;
     tl.to(headCh, { opacity: 0, y: -26, filter: 'blur(10px)', duration: HEAD_OUT_D, ease: 'power2.in', stagger: function (i) { return Math.abs(i - hcMid) * 0.025; } }, T_HEAD_OUT);

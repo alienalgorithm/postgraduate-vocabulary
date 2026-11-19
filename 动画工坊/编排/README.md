@@ -113,7 +113,7 @@ args 要传真正的 JSON 对象，不要传 JSON 字符串。相对路径都相
 | evidence | 否 | 已有的 EVIDENCE.md，给了就不再查证据 |
 | angles | 否 | 内容草稿的角度 [{key, brief}]，默认三个（破除误区、情感旅程、数据可视化） |
 | skip | 否 | 跳过：drafts（不写多角度草稿）、polish（不做导演打磨）、backup（不做备用配乐）、preview（不做 GitHub 预览） |
-| shards | 否 | GitHub 分几段并行出 4K，默认 12 |
+| shards | 否 | GitHub 分几段并行出 4K，默认 20 |
 | release | 否 | 最后是否发 Release，默认 true |
 | audio | 否 | 本机检查片段用的配乐，默认 `<work>/music/score.wav` |
 | prompts | 否 | 提示词目录，默认 `动画工坊/编排/提示词` |
