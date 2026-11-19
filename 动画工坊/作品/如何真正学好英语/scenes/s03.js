@@ -374,7 +374,7 @@
 
     // fold phase: head part (static d) and tail part (d rebuilt every frame)
     var U_P = (1120 - PX0) / (PX1 - PX0), S_P = sAtU(U_P), PIV = atS(S_P, {});
-    var ZV = [[PIV.x, PIV.y]];
+    var ZV = [[1120, 687]];   // s04's exact integer vertices (the pivot itself is 0.3 px higher), so the cut is pixel-identical
     for (var zi = 0; zi < 4; zi++) { var lz = ZV[ZV.length - 1]; ZV.push([lz[0], lz[1] - 62]); lz = ZV[ZV.length - 1]; ZV.push([lz[0] + 61, lz[1] - 35]); }
     var NZ = 96, ZP = [], TP = [], TPol = [], ZPol = [];
     for (var j = 0; j <= NZ; j++) {
@@ -399,7 +399,7 @@
     function foldPts(t) {
       for (var i = 0; i <= NZ; i++) {
         var f = i / NZ, st = T_FOLD + FOLD_LAG * (1 - f);
-        if (i === 0 || t <= st) { FOLD_P[i][0] = TP[i][0]; FOLD_P[i][1] = TP[i][1]; continue; }
+        if (t <= st) { FOLD_P[i][0] = TP[i][0]; FOLD_P[i][1] = TP[i][1]; continue; }
         var e = eFold(seg(t, st, st + FOLD_DUR));   // back.inOut: dips a little first, overshoots a little, settles
         var a = lerp(TPol[i][0], ZPol[i][0], e), rr = lerp(TPol[i][1], ZPol[i][1], e);
         FOLD_P[i][0] = PIV.x + Math.cos(a) * rr; FOLD_P[i][1] = PIV.y + Math.sin(a) * rr;
@@ -418,8 +418,9 @@
     // axes: draw with the curve on bar 15, retract during the fold
     tl.to([yAxis, xAxis], { drawSVG: '0% 100%', duration: 1.0, ease: 'power3.inOut' }, T_DRAW);
     tl.to([yArrow, xArrow], { opacity: 0.75, duration: 0.3 }, T_DRAW + 0.85);
-    tl.to([yAxis, xAxis], { drawSVG: '100% 100%', duration: 0.9, ease: 'power2.in' }, T_FOLD + 0.25);
-    tl.to([yArrow, xArrow], { opacity: 0, duration: 0.3 }, T_FOLD + 0.25);
+    // they leave together with their labels (记得的 / 时间 hold to 12.9), so no label is ever left without its axis
+    tl.to([yAxis, xAxis], { drawSVG: '100% 100%', duration: 0.8, ease: 'power2.in' }, tx.yl.out - 0.85);
+    tl.to([yArrow, xArrow], { opacity: 0, duration: 0.3 }, tx.yl.out - 0.85);
     tl.to(curveP, { drawSVG: '0% 100%', duration: T_DRAW_D, ease: 'power4.inOut' }, T_DRAW);
 
     // the chart SVG gets its camera inside the SVG (repainted at full resolution every frame, no raster reuse)
@@ -438,12 +439,13 @@
     // ---------------- the learner: s02's figure exactly (feet at screen (502, 984), scale 0.958), then he walks on the
     // beats to stand under the cliff and looks up at the word. Drawn on the fx canvas, a pure function of t. ----------------
     var LS = 0.958, L_X0 = 502, L_X1 = 196, L_Y = 984, T_W0 = BEAT[1], T_W1 = BEAT[5];
+    var STRIDE = (L_X0 - L_X1) / Math.round((T_W1 - T_W0) / (BEAT[1] - BEAT[0]) * 2);   // 8 steps in 4 beats: 38.25 px
     function learnerFade(t) { return 1 - seg(t, T_FOLD + 0.2, T_FOLD + 1.2, eP2i); }
     function learnerX(t) { return lerp(L_X0, L_X1, seg(t, T_W0, T_W1)); }
     function drawLearner(g, t, c) {
       var kf = learnerFade(t); if (kf <= 0.002) return;
       var dp = darkProg(t), hb = (0.4 - 0.1 * dp) * (1 + 0.12 * eN(t));
-      var dist = L_X0 - learnerX(t), ph = Math.PI * dist / 43, walking = t > T_W0 && t < T_W1;
+      var dist = L_X0 - learnerX(t), ph = Math.PI * dist / STRIDE, walking = t > T_W0 && t < T_W1;   // a footfall on every beat and half beat
       var up = 0.5 * seg(t, T_DOCK - 0.6, T_DOCK + 0.5, eSine) + 0.5 * seg(t, T_DRAW - 0.4, T_DRAW + 0.8, eSine) + 0.6 * seg(t, T_FALL, T_FALL + 1.2, eSine);
       var br = Math.sin(t * 1.7) * 1.1 * (walking ? 0 : 1), bob = walking ? -2.5 * Math.abs(Math.sin(ph)) : 0;
       var hx = 8 - 4 * up, hy = -240 + br * 0.6 - 6 * up + bob;
@@ -649,9 +651,12 @@
     var headCh = u.splitChars(head), subCh = u.splitChars(sub);
 
     // kicker decodes on beat 2 of bar 15
+    // starts as 16 cipher letters (the right length, no blank frames) and decodes left to right in 0.7 s, so the
+    // words are fully readable from 5.08 to 8.5 (3.4 s, more than 0.6 + 16/6 = 3.27 s)
     gsap.set([kick, src], { opacity: 0 });
+    kick.textContent = 'qzvxkmjwtb hpyfo';
     tl.set(kick, { opacity: 1 }, tx.kick.in);
-    tl.to(kick, { duration: 1.0, scrambleText: { text: 'forgetting curve', chars: 'lowerCase', revealDelay: 0.3, speed: 0.6 }, ease: 'none' }, tx.kick.in);
+    tl.to(kick, { duration: 0.7, scrambleText: { text: 'forgetting curve', chars: 'lowerCase', revealDelay: 0.12, speed: 0.6 }, ease: 'none' }, tx.kick.in);
 
     gsap.set(headCh, { opacity: 0 });
     tl.fromTo(headCh, { opacity: 0, y: 46, filter: 'blur(10px)' }, { opacity: 1, y: 0, filter: 'blur(0px)', duration: 0.75, ease: 'power4.out', stagger: 0.04 }, tx.head.in);
@@ -665,7 +670,7 @@
 
     // title group leaves on 8.9: up, fade, 6 px blur
     var OUT_D = 0.4;
-    tl.to(kick, { opacity: 0, y: -22, filter: 'blur(6px)', duration: OUT_D, ease: 'power2.in' }, tx.kick.out - OUT_D - 0.1);
+    tl.to(kick, { opacity: 0, y: -22, filter: 'blur(6px)', duration: OUT_D, ease: 'power2.in' }, tx.kick.out - OUT_D);
     tl.to(headCh, { opacity: 0, y: -22, filter: 'blur(6px)', duration: OUT_D, ease: 'power2.in', stagger: 0.006 }, tx.head.out - OUT_D - 0.006 * (headCh.length - 1));
     tl.to(subCh, { opacity: 0, y: -22, filter: 'blur(6px)', duration: OUT_D, ease: 'power2.in', stagger: 0.006 }, tx.sub.out - OUT_D - 0.006 * (subCh.length - 1));
 
@@ -688,13 +693,16 @@
     tl.to(notGlow.state, { amount: 0, duration: 0.4 }, tx.not.out - 0.4);
 
     // ---------------- per-frame DOM state ----------------
-    var TPD0 = polyD(TP), lastTail = '';
+    var TPD0 = polyD(TP), ZFINAL = polyD(ZV), lastTail = '', lastTip = '';
     function tailPath(d) { if (d === lastTail) return; lastTail = d; tailP.forEach(function (p) { p.setAttribute('d', d); }); }
     var LP = LET.map(function () { return { x: 0, y: 0, a: 0, op: 0, sc: 1, clip: 0, blur: 0, vis: false }; });
     u.onFrame(function (t) {
       var c = camAt(t), m = 'matrix(' + c.z.toFixed(5) + ',0,0,' + c.z.toFixed(5) + ',' + c.tx.toFixed(3) + ',' + c.ty.toFixed(3) + ')';
       camG.setAttribute('transform', 'matrix(' + c.z.toFixed(5) + ' 0 0 ' + c.z.toFixed(5) + ' ' + c.tx.toFixed(3) + ' ' + c.ty.toFixed(3) + ')');
       planeO.style.transform = m;
+      // the chart SVG is repainted whole on every frame: a t-dependent, invisible opacity (0.9990 to 0.9999) invalidates
+      // all of it, so Chrome never mixes freshly rasterised and retained strips of the morphing tail (seek-order noise)
+      svgU.style.opacity = (0.999 + 0.0009 * (((t * 61.803) % 1 + 1) % 1)).toFixed(5);
       // sky: darker with every swath, a cold top haze once the chart is drawn, the abyss, navy at the end
       var dp = darkProg(t);
       cityGlow.style.opacity = (1 - 0.85 * dp).toFixed(4);
@@ -720,9 +728,13 @@
         e.style.filter = p.blur > 0.05 ? 'blur(' + p.blur.toFixed(2) + 'px)' : 'none';
         e.style.color = col; e.style.textShadow = shd;
       }
-      // tail morph
-      if (t >= T_FOLD - 0.01) tailPath(polyD(foldPts(t)));
+      // tail morph; the last marker (31 d) is the tip of the tail, so it rides the tip until it has faded
+      var tip = MK[3];
+      if (t >= T_FOLD_END) { tailPath(ZFINAL); tip = { x: ZV[8][0], y: ZV[8][1] }; }   // settled: s04's own 9-vertex path string
+      else if (t >= T_FOLD - 0.01) { var FPm = foldPts(t); tailPath(polyD(FPm)); tip = { x: FPm[NZ][0], y: FPm[NZ][1] }; }
       else tailPath(TPD0);
+      var tipK = tip.x.toFixed(2) + ',' + tip.y.toFixed(2);
+      if (tipK !== lastTip) { lastTip = tipK; [mkRing[3], mkFill[3]].forEach(function (c) { c.setAttribute('cx', tip.x.toFixed(2)); c.setAttribute('cy', tip.y.toFixed(2)); }); }
     });
 
     // ---------------- waterfall: particles ----------------
@@ -923,6 +935,19 @@
       gr.addColorStop(0, rgb + a.toFixed(4) + ')'); gr.addColorStop(0.35, rgb + (a * 0.42).toFixed(4) + ')'); gr.addColorStop(1, rgb + '0)');
       g.fillStyle = gr; g.fillRect(x - rad, y - rad, rad * 2, rad * 2);
     }
+    // s04's motif dot at its frame 0, weighted by w (s04: familiarity (2 x 0.18 - 0.3) / 0.6 = 0.1, energy over 0.18 .. 0.48)
+    function dotS04(g, x, y, w, t) {
+      var en4 = clamp((u.energy(t, 0.2) - 0.18) / 0.3, 0, 1), fam = 0.1, halo = fam * (0.75 + 0.35 * en4);
+      if (halo * w > 0.003) {
+        var hr = 26 + 64 * fam, hgr = g.createRadialGradient(x, y, 0, x, y, hr);
+        hgr.addColorStop(0, 'rgba(155,140,255,0)'); hgr.addColorStop(0.16, 'rgba(155,140,255,0)'); hgr.addColorStop(0.3, 'rgba(165,150,255,' + (0.5 * halo * w).toFixed(4) + ')');
+        hgr.addColorStop(0.6, 'rgba(155,140,255,' + (0.14 * halo * w).toFixed(4) + ')'); hgr.addColorStop(1, 'rgba(155,140,255,0)');
+        g.fillStyle = hgr; g.fillRect(x - hr, y - hr, hr * 2, hr * 2);
+      }
+      glowDisc(g, x, y, 120, 'rgba(58,74,107,', 0.05 * w);
+      glowDisc(g, x, y, 36, 'rgba(120,150,200,', 0.28 * w * (0.85 + 0.3 * en4));
+      glowDisc(g, x, y, 13, 'rgba(225,238,255,', 0.16 * w);
+    }
     function spark(g, x, y, a, s) { glowDisc(g, x, y, 30 * s, 'rgba(170,210,255,', 0.5 * a); glowDisc(g, x, y, 7 * s, 'rgba(244,249,255,', a); }
     function streak(g, x, y, len, a) {
       if (a <= 0.003) return;
@@ -1112,8 +1137,10 @@
       }
       g.globalAlpha = 1;
 
-      // the motif dot (tittle of the ı)
+      // the motif dot (tittle of the ı). Over the last half second it turns into exactly s04's frame-0 dot (same glows,
+      // radius, alpha and the faint lavender ring of familiarity), so nothing pops on the cut
       var dpos = dotPos(t), db = dotBright(t), dc = dotCool(t);
+      var w4 = eSine(seg(t, T_FOLD_END - 0.5, D - 0.1)), k3 = 1 - w4;
       var szk = lerp(0.75, 1, seg(t, T_EV_IN, T_EV_IN + 0.4, eSine)), dotR = lerp(3.4, DOT_R, seg(t, T_EV_IN, T_EV_IN + 0.4, eSine));
       var haloRGB = 'rgba(' + Math.round(lerp(58, 169, dc)) + ',' + Math.round(lerp(74, 200, dc)) + ',' + Math.round(lerp(107, 255, dc)) + ',';
       var prev = dotPos(t - 1 / 30), mv = Math.hypot(dpos[0] - prev[0], dpos[1] - prev[1]);
@@ -1121,21 +1148,22 @@
         var prevP = dpos; g.lineCap = 'butt';
         for (var ti = 1; ti <= 18; ti++) {
           var pp = dotPos(t - ti * 0.012), fr = 1 - ti / 19;
-          g.strokeStyle = haloRGB + (0.5 * Math.min(db, 1.3) * fr).toFixed(4) + ')'; g.lineWidth = dotR * 2.1 * fr + 0.4;
+          g.strokeStyle = haloRGB + (0.5 * Math.min(db, 1.3) * fr * k3).toFixed(4) + ')'; g.lineWidth = dotR * 2.1 * fr + 0.4;
           g.beginPath(); g.moveTo(prevP[0], prevP[1]); g.lineTo(pp[0], pp[1]); g.stroke(); prevP = pp;
         }
       }
-      glowDisc(g, dpos[0], dpos[1], 150 * (0.75 + 0.3 * db) * szk, haloRGB, 0.08 * Math.min(db, 1.6) * (0.85 + 0.3 * en));
-      glowDisc(g, dpos[0], dpos[1], 40 * (0.8 + 0.3 * db) * szk, haloRGB, 0.4 * Math.min(db, 1.6) + 0.1);
-      glowDisc(g, dpos[0], dpos[1], dotR * 3, 'rgba(225,238,255,', 0.75 * Math.min(db, 1.3) * (0.4 + 0.6 * dc));
+      glowDisc(g, dpos[0], dpos[1], 150 * (0.75 + 0.3 * db) * szk, haloRGB, 0.08 * Math.min(db, 1.6) * (0.85 + 0.3 * en) * k3);
+      glowDisc(g, dpos[0], dpos[1], 40 * (0.8 + 0.3 * db) * szk, haloRGB, (0.4 * Math.min(db, 1.6) + 0.1) * k3);
+      glowDisc(g, dpos[0], dpos[1], dotR * 3, 'rgba(225,238,255,', 0.75 * Math.min(db, 1.3) * (0.4 + 0.6 * dc) * k3);
+      if (w4 > 0) dotS04(g, dpos[0], dpos[1], w4, t);
       g.globalCompositeOperation = 'source-over';
-      g.globalAlpha = clamp(0.5 + 0.6 * db, 0, 1);
-      g.fillStyle = mixHex('#7d8fb3', '#f6faff', dc); g.beginPath(); g.arc(dpos[0], dpos[1], dotR, 0, 6.2832); g.fill();
+      g.globalAlpha = lerp(clamp(0.5 + 0.6 * db, 0, 1), 0.75, w4);
+      g.fillStyle = mixHex('#7d8fb3', '#f6faff', dc * k3); g.beginPath(); g.arc(dpos[0], dpos[1], lerp(dotR, 4.6, w4), 0, 6.2832); g.fill();
       g.globalAlpha = 1; g.globalCompositeOperation = 'lighter';
       var fl2 = 0.06 * dc;
       for (var mi2 = 0; mi2 < 4; mi2++) fl2 += 0.7 * pulse(t - T_M[mi2], 0.01, 0.3);
       fl2 += 0.6 * pulse(t - T_SLIDE, 0.01, 0.3) + 0.5 * pulse(t - T_EV_IN, 0.01, 0.35) + 0.45 * pulse(t - T_DOCK, 0.01, 0.3) + 0.5 * pulse(t - T_DRAW, 0.01, 0.3);
-      streak(g, dpos[0], dpos[1], 320 * (0.6 + 0.6 * Math.min(1, fl2)), fl2);
+      streak(g, dpos[0], dpos[1], 320 * (0.6 + 0.6 * Math.min(1, fl2)), fl2 * k3);
 
       // glint up the finished stair outline (hand-off to s04)
       var gp = seg(t, T_FOLD_END - 0.6, D - 0.12, eP2io);

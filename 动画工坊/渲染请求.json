@@ -1,1 +1,1 @@
-{"id":"gh-test-20261119-s01-s05","film":"如何真正学好英语","scale":2,"fps":60,"from":0,"to":74.342,"music":"main","shards":6,"release":false,"note":"GitHub 测试渲染：s01 到 s05（0 到 74.342 秒），4K，6 段；GitHub 上还没有 MUSIC_KEY 时应自动退到备用配乐或无声"}
+{"id": "gh-full-20261119-v1", "film": "如何真正学好英语", "scale": 2, "fps": 60, "from": 0, "to": 169.342, "music": "main", "shards": 20, "release": false, "note": "整片 4K，GitHub 20 段并行；和本机渲染逐帧对比（PSNR），证明 GitHub 能完全复刻。GitHub 上还没有 MUSIC_KEY 时自动退到备用配乐或无声"}

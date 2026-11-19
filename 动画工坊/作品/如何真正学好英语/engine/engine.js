@@ -164,7 +164,9 @@
     if (beats) {
       var k0 = 0, bd = Infinity;
       beats.forEach(function (b, i) { var d = Math.abs(b - offset); if (d < bd) { bd = d; k0 = i; } });
-      bars = beats.filter(function (b, i) { return mod(i - k0, bpb) === 0; });
+      // Real bar lines win: an edit can contain irregular bars (e.g. a 2-beat bar), so counting every bpb beats drifts.
+      var given = Array.isArray(m.bars) && m.bars.length ? m.bars.map(Number).filter(isFinite).sort(function (a, b) { return a - b; }) : null;
+      bars = given || beats.filter(function (b, i) { return mod(i - k0, bpb) === 0; });
       var lastB = beats[beats.length - 1];
       for (var x = lastB + beatLen; x < total + barLen; x += beatLen) beats.push(x);
       var lastBar = bars[bars.length - 1];

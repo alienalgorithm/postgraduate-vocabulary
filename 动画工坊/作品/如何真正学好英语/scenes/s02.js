@@ -20,7 +20,8 @@
  *
  * HANDOFF IN (cut from s01 at global 11.217): the motif dot is at SCREEN (1336, 262) on the first frame, already in
  *   the tittle of ı (camera at 2x); s01's night-blue radial background, heavy vignette and word dust (same seed and
- *   drift, at 35 %) are rebuilt and hand over to the city within 2.5 s.
+ *   drift, at 35 %) are rebuilt and hand over to the city within 2.5 s. s01's dot is at rest on its last frame, so the
+ *   camera leaves with zero velocity (a 0.05 s time-warp ease-in) before the expo.out release.
  *
  * HANDOFF OUT (cut to s03 at global 22.467): from local 10.625 s to the end the picture is still. Near layer (d = 1)
  *   maps world (x, y) to screen (960 + (x - 960) * 0.96, 540 + (y - 540) * 0.96). Street line (BASE) at world y 860.
@@ -208,8 +209,9 @@
     SW.forEach(function (s, k) {
       s.land = s.t + s.fl;
       s.word = CARDS[k % CARDS.length];
-      var w = k < 5 ? takeWin(function (w) { return w.b.di === k && !w.b.ev && w.y < w.b.top + 30 + FP * 2; })
-        : takeWin(function (w) { return true; });
+      var inside = function (w) { return !w.b.ev && w.x + WW / 2 < 1760; };   // hero words stay clear of "evidence" and of the frame edge
+      var w = k < 5 ? takeWin(function (w) { return w.b.di === k && inside(w) && w.y < w.b.top + 30 + FP * 2; })
+        : takeWin(function (w) { return s.ph >= 3 || inside(w); });
       if (!w) w = takeWin(function () { return true; });
       s.win = w; w.ton = s.land; w.flash = 1.7; w.kind = 1;
     });
@@ -222,7 +224,8 @@
     var DOT0 = { x: 1336, y: 262 };          // s01 hands the motif dot over here (screen px)
     var Q0 = { x: 1336, y: 336 };            // where the evidence window sits on screen at the cut (fixed below)
     var ePull = E('expo.out');
-    function pullS(t) { return ePull(seg(t, 0, PULL_T)); }
+    var TAU = 0.05;                          // velocity 0 at the cut (s01's dot is at rest), full release after ~0.15 s
+    function pullS(t) { var x = Math.max(t, 0), tw = x - TAU * (1 - Math.exp(-x / TAU)); return ePull(seg(tw, 0, PULL_T - TAU)); }
     function retreat(t) { return 1 - 0.04 * eSine(seg(t, PULL_T, T_FULL)); }
     var camN = u.makeNoise('s02cam');
     var camT = NaN, camC = {};
@@ -652,7 +655,7 @@
     var okRing = u.svgEl('circle', { cx: 236, cy: 60, r: 36, fill: 'rgba(127,166,224,.16)', stroke: 'rgba(190,215,255,.5)', 'stroke-width': 2 }, btnSvg);
     u.svgEl('path', { d: 'M221,61 L232,72 L253,48', stroke: '#dfeaff', 'stroke-width': 4.5, 'stroke-linecap': 'round', 'stroke-linejoin': 'round', fill: 'none' }, btnSvg);
     u.el('div', { cls: 'abs', parent: scr, style: { left: '106px', top: '676px', width: '120px', height: '6px', borderRadius: '3px', background: 'rgba(200,220,255,.35)' } });
-    var CARD_C = { x: 40 + 14 + 28 + 138, y: 316 + 14 + 122 + 146 };     // word centre on screen, phone at rest
+    var CARD_C = { x: 214, y: 600 };     // projected centre of the card word on screen (phone at rest, measured in the browser)
 
     function phonePose(t) {
       var a = seg(t, T_PHONE, T_PHONE + 0.6, eP3o), b = seg(t, T_PHONE_OUT, T_PHONE_OUT + 0.45, eP3i);
@@ -707,11 +710,21 @@
       gl.cv = cv; gl.pad = pad; gl.cw = cw; gl.chh = chh;
       var bx0 = gl.x - 4, by0 = gl.y + gl.h * 0.08, bx1 = gl.x + gl.w + 4, by1 = gl.y + gl.h * 0.95;
       var cx = lerp(bx0, bx1, Rs.range(0.38, 0.62)), cy = lerp(by0, by1, Rs.range(0.4, 0.6));
-      var ring = [[bx0, by0], [lerp(bx0, bx1, Rs.range(0.35, 0.65)), by0], [bx1, by0], [bx1, by1], [lerp(bx0, bx1, Rs.range(0.35, 0.65)), by1], [bx0, by1]];
-      var tris = Rs() < 0.5 ? [[0, 2], [2, 3], [3, 5], [5, 0]] : [[0, 1], [1, 2], [2, 3], [3, 5], [5, 0]];
-      tris.forEach(function (tr) {
-        var pts = [[cx, cy]], a = tr[0], b = tr[1];
-        for (var j = a; j !== (b + 1) % 6; j = (j + 1) % 6) pts.push(ring[j]);
+      // cracks run from an off-centre impact point to random points on the glyph's edges (never to the four corners,
+      // which would read as an "X" crossing the word out); every shard keeps the corners that fall between its cracks
+      var Pw = bx1 - bx0, Ph = by1 - by0, PER = 2 * (Pw + Ph), CRN = [0, Pw, Pw + Ph, 2 * Pw + Ph];
+      function perim(q) { q = ((q % PER) + PER) % PER; if (q < Pw) return [bx0 + q, by0]; q -= Pw; if (q < Ph) return [bx1, by0 + q]; q -= Ph; if (q < Pw) return [bx1 - q, by1]; q -= Pw; return [bx0, by1 - q]; }
+      var nC = Rs() < 0.5 ? 4 : 5, q0 = Rs() * PER, cuts = [];
+      for (var ci = 0; ci < nC; ci++) {
+        var q = q0 + (ci + Rs.range(-0.22, 0.22)) * PER / nC;
+        CRN.forEach(function (cq) { var dq = ((q - cq) % PER + PER) % PER; if (dq < 10) q += 10 - dq; else if (dq > PER - 10) q -= dq - (PER - 10); });
+        cuts.push(q);
+      }
+      cuts.forEach(function (qa, ci) {
+        var qb = ci + 1 < nC ? cuts[ci + 1] : cuts[0] + PER, pts = [[cx, cy], perim(qa)];
+        CRN.map(function (cq) { return ((cq - qa) % PER + PER) % PER; }).filter(function (dq) { return dq > 0 && dq < qb - qa; })
+          .sort(function (x, y) { return x - y; }).forEach(function (dq) { pts.push(perim(qa + dq)); });
+        pts.push(perim(qb));
         var mx = 0, my = 0; pts.forEach(function (p) { mx += p[0]; my += p[1]; }); mx /= pts.length; my /= pts.length;
         var dx = mx - cx, dy = my - cy, dl = Math.sqrt(dx * dx + dy * dy) || 1;
         SHARDS.push({ gl: gl, pts: pts, mx: mx, my: my, vx: dx / dl, vy: dy / dl, spin: Rs.range(-1, 1), kick: Rs.range(18, 46), up: Rs.range(90, 200), side: Rs.range(-90, 90) });
@@ -849,7 +862,7 @@
       // word motes: card -> window; the flight gets shorter as the cards get faster
       var po = phonePose(t);
       for (var k = 0; k < SW.length; k++) {
-        var sw = SW[k], t0 = sw.t + 0.02, t1 = sw.land;
+        var sw = SW[k], t0 = sw.t, t1 = sw.land;
         if (t < t0 || t > t1 + 0.05 || !sw.win) continue;
         var P0 = [CARD_C.x, CARD_C.y + po.y], P3 = winScreen(sw.win, t);
         var P1 = [P0[0] + 150, Math.max(P0[1] - 260, 400)];
@@ -870,7 +883,8 @@
             g.globalAlpha = wa; g.font = '400 ' + fs.toFixed(2) + 'px "Source Serif 4 Display"';
             g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillStyle = '#e8f1ff';
             g.shadowColor = 'rgba(150,190,255,.9)'; g.shadowBlur = 14;
-            g.fillText(sw.word, hp[0], hp[1] - fs * 0.05); g.shadowBlur = 0; g.globalAlpha = 1;
+            var hw = g.measureText(sw.word).width / 2 + 18;
+            g.fillText(sw.word, clamp(hp[0], hw, W - hw), clamp(hp[1] - fs * 0.05, fs * 0.7 + 12, H - fs * 0.7 - 12)); g.shadowBlur = 0; g.globalAlpha = 1;
           }
         }
         // the landing spark
@@ -896,7 +910,7 @@
           }
           if (!sh.win) continue;
           var Q3 = winScreen(sh.win, t), S0 = [sh.mx + sh.vx * sh.kick, sh.my + sh.vy * sh.kick - 26];
-          var S1 = [S0[0] + sh.side * 0.6 + sh.vx * 40, S0[1] - sh.up], S2 = [Q3[0] + sh.side * 0.4, Q3[1] - 300 - sh.up * 0.6];
+          var S1 = [S0[0] + sh.side * 0.6 + sh.vx * 40, Math.max(S0[1] - sh.up, 40)], S2 = [Q3[0] + sh.side * 0.4, Math.max(Q3[1] - 300 - sh.up * 0.6, 60)];
           var fat = (function (sh, gl, rel, S0, S1, S2, Q3) {
             var fdur = sh.arr - rel;
             return function (tt) {
@@ -996,7 +1010,7 @@
           wo = slot === 0 ? (last ? seg(pl, 0.4, 1) : 1) : 0;
         }
         sl.el.style.transform = tr; sl.el.style.opacity = o.toFixed(4); sl.el.style.zIndex = String(idx === k - 1 ? 9 : 5 - (idx - k));
-        sl.word.style.opacity = (wo * clamp((po.op - 0.4) / 0.6, 0, 1)).toFixed(4);
+        sl.word.style.opacity = (wo * clamp((po.op - 0.4) / 0.6, 0, 1) * (1 - seg(po.y, 280, 380))).toFixed(4);
       });
     });
 
