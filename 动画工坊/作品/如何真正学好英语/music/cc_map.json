@@ -1,0 +1,5362 @@
+{
+ "title": "Hans Zimmer - Cornfield Chase (Interstellar OST, deluxe edition track 2): source map",
+ "source": {
+  "file": "A/music/user/cornfield_chase.mp3",
+  "sha256": "d75138c2814f6733df32226366e4b70b84aff5d77a1706377cb66a10befc354c",
+  "format": "MP3 320 kbps, 44.1 kHz stereo",
+  "decode_command": "ffmpeg -i cornfield_chase.mp3 -ar 48000 -c:a pcm_f32le dec48.wav  (time 0 = first decoded sample; every time in this map uses this timeline)",
+  "decoded": "A/music/cw/dec48.wav",
+  "sr": 48000,
+  "duration": 126.96,
+  "integrated_lufs": -13.2,
+  "true_peak_dbfs": -0.2,
+  "loudness_range_lu": 24.4,
+  "license": "user statement 2026-11-19: licensed for this video (see A/music/LICENSES.md)"
+ },
+ "bpm": 96.0,
+ "beat": 0.625,
+ "tatum_16th": 0.15625,
+ "meter": "3/4",
+ "bar": 1.875,
+ "chord_unit_bars": 2,
+ "cycle_bars": 8,
+ "cycle_s": 15.0,
+ "beat_offset": -0.033,
+ "beat_offset_note": "beat k is at -0.033 + 0.625*k s (k = 0..191). Beat 0 = bar 1 downbeat sits 33 ms before the first sample (the file opens on the downbeat). Grid accuracy about +-10 ms; tempo is constant 96.000 BPM for the whole piece (no measurable drift over 88 s, < 5 ms). One beat = 30000 samples at 48 kHz, one bar = 90000, one cycle = 720000, so every loop or cut below is sample-exact on the click.",
+ "meter_note": "Triple meter: chords change every 6 beats (2 bars of 3/4) and onset accents repeat every 3 beats (z = +2.3 to +3.2 vs 2- and 4-beat folds at z <= 0). Bar 18 (31.842 s) has only 2 beats: bar lines before it fall on beats = 0 mod 3, after it on beats = 2 mod 3. Bars are numbered 1..64 for music, bar line 65 = the hard stop at 119.342 s.",
+ "key": {
+  "tonal_centre": "A minor (A Aeolian; same notes as C major)",
+  "pedal": "E (E4/E5 pedal with D# and F neighbour notes on top of every chord)",
+  "progression": "F - G - Am - G, 2 bars (6 beats, 3.75 s) per chord, 8-bar cycle = 15.000 s (VI - VII - i - VII in A minor)",
+  "key_profile_correlation": {
+   "E minor": 0.795,
+   "A minor": 0.697,
+   "C major": 0.673
+  },
+  "note": "Key-profile correlation picks E minor only because the E pedal is constant; the bass (F, G, A) and the chords say A minor / C major. The cycle never cadences, which is why the piece feels suspended and forward-moving."
+ },
+ "beats": [
+  -0.033,
+  0.592,
+  1.217,
+  1.842,
+  2.467,
+  3.092,
+  3.717,
+  4.342,
+  4.967,
+  5.592,
+  6.217,
+  6.842,
+  7.467,
+  8.092,
+  8.717,
+  9.342,
+  9.967,
+  10.592,
+  11.217,
+  11.842,
+  12.467,
+  13.092,
+  13.717,
+  14.342,
+  14.967,
+  15.592,
+  16.217,
+  16.842,
+  17.467,
+  18.092,
+  18.717,
+  19.342,
+  19.967,
+  20.592,
+  21.217,
+  21.842,
+  22.467,
+  23.092,
+  23.717,
+  24.342,
+  24.967,
+  25.592,
+  26.217,
+  26.842,
+  27.467,
+  28.092,
+  28.717,
+  29.342,
+  29.967,
+  30.592,
+  31.217,
+  31.842,
+  32.467,
+  33.092,
+  33.717,
+  34.342,
+  34.967,
+  35.592,
+  36.217,
+  36.842,
+  37.467,
+  38.092,
+  38.717,
+  39.342,
+  39.967,
+  40.592,
+  41.217,
+  41.842,
+  42.467,
+  43.092,
+  43.717,
+  44.342,
+  44.967,
+  45.592,
+  46.217,
+  46.842,
+  47.467,
+  48.092,
+  48.717,
+  49.342,
+  49.967,
+  50.592,
+  51.217,
+  51.842,
+  52.467,
+  53.092,
+  53.717,
+  54.342,
+  54.967,
+  55.592,
+  56.217,
+  56.842,
+  57.467,
+  58.092,
+  58.717,
+  59.342,
+  59.967,
+  60.592,
+  61.217,
+  61.842,
+  62.467,
+  63.092,
+  63.717,
+  64.342,
+  64.967,
+  65.592,
+  66.217,
+  66.842,
+  67.467,
+  68.092,
+  68.717,
+  69.342,
+  69.967,
+  70.592,
+  71.217,
+  71.842,
+  72.467,
+  73.092,
+  73.717,
+  74.342,
+  74.967,
+  75.592,
+  76.217,
+  76.842,
+  77.467,
+  78.092,
+  78.717,
+  79.342,
+  79.967,
+  80.592,
+  81.217,
+  81.842,
+  82.467,
+  83.092,
+  83.717,
+  84.342,
+  84.967,
+  85.592,
+  86.217,
+  86.842,
+  87.467,
+  88.092,
+  88.717,
+  89.342,
+  89.967,
+  90.592,
+  91.217,
+  91.842,
+  92.467,
+  93.092,
+  93.717,
+  94.342,
+  94.967,
+  95.592,
+  96.217,
+  96.842,
+  97.467,
+  98.092,
+  98.717,
+  99.342,
+  99.967,
+  100.592,
+  101.217,
+  101.842,
+  102.467,
+  103.092,
+  103.717,
+  104.342,
+  104.967,
+  105.592,
+  106.217,
+  106.842,
+  107.467,
+  108.092,
+  108.717,
+  109.342,
+  109.967,
+  110.592,
+  111.217,
+  111.842,
+  112.467,
+  113.092,
+  113.717,
+  114.342,
+  114.967,
+  115.592,
+  116.217,
+  116.842,
+  117.467,
+  118.092,
+  118.717,
+  119.342
+ ],
+ "bars": [
+  {
+   "n": 1,
+   "start": -0.033,
+   "beats": 3,
+   "end": 1.842,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "intro_a",
+   "rms_db": -59.8,
+   "band_db": {
+    "lt120": 0.0,
+    "120_300": -10.5,
+    "300_1k": -10.7,
+    "1k_3k": -13.2,
+    "3k_8k": -19.9,
+    "gt8k": -33.2
+   }
+  },
+  {
+   "n": 2,
+   "start": 1.842,
+   "beats": 3,
+   "end": 3.717,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "intro_a",
+   "rms_db": -51.2,
+   "band_db": {
+    "lt120": 7.8,
+    "120_300": 2.9,
+    "300_1k": -0.2,
+    "1k_3k": -8.1,
+    "3k_8k": -17.9,
+    "gt8k": -30.9
+   }
+  },
+  {
+   "n": 3,
+   "start": 3.717,
+   "beats": 3,
+   "end": 5.592,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "intro_a",
+   "rms_db": -45.5,
+   "band_db": {
+    "lt120": 12.6,
+    "120_300": 7.9,
+    "300_1k": 9.6,
+    "1k_3k": -4.8,
+    "3k_8k": -17.2,
+    "gt8k": -33.7
+   }
+  },
+  {
+   "n": 4,
+   "start": 5.592,
+   "beats": 3,
+   "end": 7.467,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "intro_a",
+   "rms_db": -38.1,
+   "band_db": {
+    "lt120": 22.0,
+    "120_300": 8.9,
+    "300_1k": 13.8,
+    "1k_3k": -1.6,
+    "3k_8k": -19.6,
+    "gt8k": -34.6
+   }
+  },
+  {
+   "n": 5,
+   "start": 7.467,
+   "beats": 3,
+   "end": 9.342,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "intro_a",
+   "rms_db": -38.8,
+   "band_db": {
+    "lt120": 19.7,
+    "120_300": 10.2,
+    "300_1k": 16.2,
+    "1k_3k": -1.4,
+    "3k_8k": -19.0,
+    "gt8k": -36.3
+   }
+  },
+  {
+   "n": 6,
+   "start": 9.342,
+   "beats": 3,
+   "end": 11.217,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 3,
+   "section": "intro_a",
+   "rms_db": -39.2,
+   "band_db": {
+    "lt120": 18.8,
+    "120_300": 11.4,
+    "300_1k": 16.3,
+    "1k_3k": -1.8,
+    "3k_8k": -19.9,
+    "gt8k": -37.3
+   }
+  },
+  {
+   "n": 7,
+   "start": 11.217,
+   "beats": 3,
+   "end": 13.092,
+   "chord": "Am",
+   "chord_bar": 1,
+   "cycle_pos": 4,
+   "section": "intro_a",
+   "rms_db": -39.0,
+   "band_db": {
+    "lt120": 19.3,
+    "120_300": 8.7,
+    "300_1k": 16.6,
+    "1k_3k": -0.7,
+    "3k_8k": -20.1,
+    "gt8k": -37.4
+   }
+  },
+  {
+   "n": 8,
+   "start": 13.092,
+   "beats": 3,
+   "end": 14.967,
+   "chord": "Am",
+   "chord_bar": 2,
+   "cycle_pos": 5,
+   "section": "intro_a",
+   "rms_db": -37.9,
+   "band_db": {
+    "lt120": 20.5,
+    "120_300": 11.7,
+    "300_1k": 16.9,
+    "1k_3k": 0.9,
+    "3k_8k": -19.0,
+    "gt8k": -37.2
+   }
+  },
+  {
+   "n": 9,
+   "start": 14.967,
+   "beats": 3,
+   "end": 16.842,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 6,
+   "section": "intro_a",
+   "rms_db": -39.4,
+   "band_db": {
+    "lt120": 17.8,
+    "120_300": 12.2,
+    "300_1k": 16.6,
+    "1k_3k": 1.6,
+    "3k_8k": -15.2,
+    "gt8k": -35.7
+   }
+  },
+  {
+   "n": 10,
+   "start": 16.842,
+   "beats": 3,
+   "end": 18.717,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 7,
+   "section": "intro_a",
+   "rms_db": -39.0,
+   "band_db": {
+    "lt120": 18.1,
+    "120_300": 12.7,
+    "300_1k": 17.5,
+    "1k_3k": 1.0,
+    "3k_8k": -15.2,
+    "gt8k": -36.4
+   }
+  },
+  {
+   "n": 11,
+   "start": 18.717,
+   "beats": 3,
+   "end": 20.592,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "intro_b",
+   "rms_db": -38.0,
+   "band_db": {
+    "lt120": 20.8,
+    "120_300": 10.2,
+    "300_1k": 17.0,
+    "1k_3k": 3.2,
+    "3k_8k": -13.1,
+    "gt8k": -34.3
+   }
+  },
+  {
+   "n": 12,
+   "start": 20.592,
+   "beats": 3,
+   "end": 22.467,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "intro_b",
+   "rms_db": -37.3,
+   "band_db": {
+    "lt120": 21.5,
+    "120_300": 9.5,
+    "300_1k": 16.7,
+    "1k_3k": 3.2,
+    "3k_8k": -11.1,
+    "gt8k": -33.0
+   }
+  },
+  {
+   "n": 13,
+   "start": 22.467,
+   "beats": 3,
+   "end": 24.342,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "intro_b",
+   "rms_db": -40.2,
+   "band_db": {
+    "lt120": 16.6,
+    "120_300": 8.2,
+    "300_1k": 17.0,
+    "1k_3k": 2.7,
+    "3k_8k": -12.7,
+    "gt8k": -34.3
+   }
+  },
+  {
+   "n": 14,
+   "start": 24.342,
+   "beats": 3,
+   "end": 26.217,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 3,
+   "section": "intro_b",
+   "rms_db": -40.2,
+   "band_db": {
+    "lt120": 15.4,
+    "120_300": 10.4,
+    "300_1k": 17.4,
+    "1k_3k": 2.4,
+    "3k_8k": -13.2,
+    "gt8k": -35.4
+   }
+  },
+  {
+   "n": 15,
+   "start": 26.217,
+   "beats": 3,
+   "end": 28.092,
+   "chord": "Am",
+   "chord_bar": 1,
+   "cycle_pos": 4,
+   "section": "intro_b",
+   "rms_db": -41.6,
+   "band_db": {
+    "lt120": 14.5,
+    "120_300": 6.4,
+    "300_1k": 16.0,
+    "1k_3k": 3.3,
+    "3k_8k": -12.6,
+    "gt8k": -34.3
+   }
+  },
+  {
+   "n": 16,
+   "start": 28.092,
+   "beats": 3,
+   "end": 29.967,
+   "chord": "Am",
+   "chord_bar": 2,
+   "cycle_pos": 5,
+   "section": "intro_b",
+   "rms_db": -39.5,
+   "band_db": {
+    "lt120": 18.0,
+    "120_300": 9.6,
+    "300_1k": 16.8,
+    "1k_3k": 3.9,
+    "3k_8k": -11.1,
+    "gt8k": -33.1
+   }
+  },
+  {
+   "n": 17,
+   "start": 29.967,
+   "beats": 3,
+   "end": 31.842,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 6,
+   "section": "intro_b",
+   "rms_db": -40.1,
+   "band_db": {
+    "lt120": 15.8,
+    "120_300": 11.5,
+    "300_1k": 17.0,
+    "1k_3k": 4.8,
+    "3k_8k": -9.1,
+    "gt8k": -31.4
+   }
+  },
+  {
+   "n": 18,
+   "start": 31.842,
+   "beats": 2,
+   "end": 33.092,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 7,
+   "section": "intro_b",
+   "rms_db": -39.0,
+   "band_db": {
+    "lt120": 17.5,
+    "120_300": 12.0,
+    "300_1k": 17.7,
+    "1k_3k": 5.7,
+    "3k_8k": -7.2,
+    "gt8k": -30.3
+   }
+  },
+  {
+   "n": 19,
+   "start": 33.092,
+   "beats": 3,
+   "end": 34.967,
+   "chord": "E-pedal",
+   "chord_bar": null,
+   "lift_bar": 1,
+   "cycle_pos": null,
+   "section": "lift",
+   "rms_db": -32.3,
+   "band_db": {
+    "lt120": 13.6,
+    "120_300": 8.7,
+    "300_1k": 27.9,
+    "1k_3k": 12.1,
+    "3k_8k": -18.0,
+    "gt8k": -35.9
+   }
+  },
+  {
+   "n": 20,
+   "start": 34.967,
+   "beats": 3,
+   "end": 36.842,
+   "chord": "E-pedal",
+   "chord_bar": null,
+   "lift_bar": 2,
+   "cycle_pos": null,
+   "section": "lift",
+   "rms_db": -32.5,
+   "band_db": {
+    "lt120": 9.6,
+    "120_300": 8.1,
+    "300_1k": 27.6,
+    "1k_3k": 14.0,
+    "3k_8k": -18.5,
+    "gt8k": -34.1
+   }
+  },
+  {
+   "n": 21,
+   "start": 36.842,
+   "beats": 3,
+   "end": 38.717,
+   "chord": "E-pedal",
+   "chord_bar": null,
+   "lift_bar": 3,
+   "cycle_pos": null,
+   "section": "lift",
+   "rms_db": -31.0,
+   "band_db": {
+    "lt120": 10.6,
+    "120_300": 8.1,
+    "300_1k": 29.3,
+    "1k_3k": 14.7,
+    "3k_8k": -17.1,
+    "gt8k": -34.1
+   }
+  },
+  {
+   "n": 22,
+   "start": 38.717,
+   "beats": 3,
+   "end": 40.592,
+   "chord": "E-pedal",
+   "chord_bar": null,
+   "lift_bar": 4,
+   "cycle_pos": null,
+   "section": "lift",
+   "rms_db": -31.7,
+   "band_db": {
+    "lt120": 11.8,
+    "120_300": 6.5,
+    "300_1k": 28.4,
+    "1k_3k": 15.0,
+    "3k_8k": -15.9,
+    "gt8k": -34.5
+   }
+  },
+  {
+   "n": 23,
+   "start": 40.592,
+   "beats": 3,
+   "end": 42.467,
+   "chord": "E-pedal",
+   "chord_bar": null,
+   "lift_bar": 5,
+   "cycle_pos": null,
+   "section": "lift",
+   "rms_db": -28.4,
+   "band_db": {
+    "lt120": 26.8,
+    "120_300": 19.7,
+    "300_1k": 30.2,
+    "1k_3k": 15.8,
+    "3k_8k": -1.4,
+    "gt8k": -24.8
+   }
+  },
+  {
+   "n": 24,
+   "start": 42.467,
+   "beats": 3,
+   "end": 44.342,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "arrival",
+   "rms_db": -17.2,
+   "band_db": {
+    "lt120": 43.0,
+    "120_300": 27.7,
+    "300_1k": 34.6,
+    "1k_3k": 18.5,
+    "3k_8k": 4.0,
+    "gt8k": -17.5
+   }
+  },
+  {
+   "n": 25,
+   "start": 44.342,
+   "beats": 3,
+   "end": 46.217,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "arrival",
+   "rms_db": -22.7,
+   "band_db": {
+    "lt120": 30.4,
+    "120_300": 30.7,
+    "300_1k": 35.3,
+    "1k_3k": 19.9,
+    "3k_8k": 4.2,
+    "gt8k": -16.8
+   }
+  },
+  {
+   "n": 26,
+   "start": 46.217,
+   "beats": 3,
+   "end": 48.092,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "arrival",
+   "rms_db": -23.0,
+   "band_db": {
+    "lt120": 21.8,
+    "120_300": 29.0,
+    "300_1k": 36.3,
+    "1k_3k": 20.2,
+    "3k_8k": 4.1,
+    "gt8k": -17.0
+   }
+  },
+  {
+   "n": 27,
+   "start": 48.092,
+   "beats": 3,
+   "end": 49.967,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 3,
+   "section": "arrival",
+   "rms_db": -23.3,
+   "band_db": {
+    "lt120": 25.0,
+    "120_300": 26.6,
+    "300_1k": 36.1,
+    "1k_3k": 20.2,
+    "3k_8k": 5.1,
+    "gt8k": -16.6
+   }
+  },
+  {
+   "n": 28,
+   "start": 49.967,
+   "beats": 3,
+   "end": 51.842,
+   "chord": "Am",
+   "chord_bar": 1,
+   "cycle_pos": 4,
+   "section": "arrival",
+   "rms_db": -23.9,
+   "band_db": {
+    "lt120": 23.9,
+    "120_300": 29.2,
+    "300_1k": 34.9,
+    "1k_3k": 25.0,
+    "3k_8k": 3.2,
+    "gt8k": -18.0
+   }
+  },
+  {
+   "n": 29,
+   "start": 51.842,
+   "beats": 3,
+   "end": 53.717,
+   "chord": "Am",
+   "chord_bar": 2,
+   "cycle_pos": 5,
+   "section": "arrival",
+   "rms_db": -23.5,
+   "band_db": {
+    "lt120": 26.9,
+    "120_300": 28.9,
+    "300_1k": 35.2,
+    "1k_3k": 23.8,
+    "3k_8k": 6.0,
+    "gt8k": -17.4
+   }
+  },
+  {
+   "n": 30,
+   "start": 53.717,
+   "beats": 3,
+   "end": 55.592,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "drive_1",
+   "rms_db": -22.6,
+   "band_db": {
+    "lt120": 22.6,
+    "120_300": 30.2,
+    "300_1k": 36.7,
+    "1k_3k": 22.2,
+    "3k_8k": 7.5,
+    "gt8k": -15.4
+   }
+  },
+  {
+   "n": 31,
+   "start": 55.592,
+   "beats": 3,
+   "end": 57.467,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "drive_1",
+   "rms_db": -21.1,
+   "band_db": {
+    "lt120": 29.1,
+    "120_300": 31.2,
+    "300_1k": 37.7,
+    "1k_3k": 24.2,
+    "3k_8k": 10.7,
+    "gt8k": -13.2
+   }
+  },
+  {
+   "n": 32,
+   "start": 57.467,
+   "beats": 3,
+   "end": 59.342,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "drive_1",
+   "rms_db": -21.4,
+   "band_db": {
+    "lt120": 20.8,
+    "120_300": 29.6,
+    "300_1k": 38.1,
+    "1k_3k": 23.9,
+    "3k_8k": 12.0,
+    "gt8k": -12.3
+   }
+  },
+  {
+   "n": 33,
+   "start": 59.342,
+   "beats": 3,
+   "end": 61.217,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 3,
+   "section": "drive_1",
+   "rms_db": -21.7,
+   "band_db": {
+    "lt120": 24.0,
+    "120_300": 28.7,
+    "300_1k": 37.8,
+    "1k_3k": 24.4,
+    "3k_8k": 12.0,
+    "gt8k": -13.9
+   }
+  },
+  {
+   "n": 34,
+   "start": 61.217,
+   "beats": 3,
+   "end": 63.092,
+   "chord": "Am",
+   "chord_bar": 1,
+   "cycle_pos": 4,
+   "section": "drive_1",
+   "rms_db": -22.9,
+   "band_db": {
+    "lt120": 18.9,
+    "120_300": 30.5,
+    "300_1k": 35.9,
+    "1k_3k": 26.8,
+    "3k_8k": 11.5,
+    "gt8k": -8.8
+   }
+  },
+  {
+   "n": 35,
+   "start": 63.092,
+   "beats": 3,
+   "end": 64.967,
+   "chord": "Am",
+   "chord_bar": 2,
+   "cycle_pos": 5,
+   "section": "drive_1",
+   "rms_db": -22.0,
+   "band_db": {
+    "lt120": 21.0,
+    "120_300": 30.3,
+    "300_1k": 37.0,
+    "1k_3k": 26.8,
+    "3k_8k": 11.8,
+    "gt8k": -8.3
+   }
+  },
+  {
+   "n": 36,
+   "start": 64.967,
+   "beats": 3,
+   "end": 66.842,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 6,
+   "section": "drive_1",
+   "rms_db": -22.2,
+   "band_db": {
+    "lt120": 21.2,
+    "120_300": 30.7,
+    "300_1k": 36.8,
+    "1k_3k": 26.5,
+    "3k_8k": 12.2,
+    "gt8k": -9.1
+   }
+  },
+  {
+   "n": 37,
+   "start": 66.842,
+   "beats": 3,
+   "end": 68.717,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 7,
+   "section": "drive_1",
+   "rms_db": -21.3,
+   "band_db": {
+    "lt120": 23.0,
+    "120_300": 31.0,
+    "300_1k": 37.8,
+    "1k_3k": 26.3,
+    "3k_8k": 12.6,
+    "gt8k": -10.0
+   }
+  },
+  {
+   "n": 38,
+   "start": 68.717,
+   "beats": 3,
+   "end": 70.592,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "drive_2",
+   "rms_db": -21.8,
+   "band_db": {
+    "lt120": 27.4,
+    "120_300": 31.2,
+    "300_1k": 36.8,
+    "1k_3k": 25.6,
+    "3k_8k": 14.8,
+    "gt8k": -9.0
+   }
+  },
+  {
+   "n": 39,
+   "start": 70.592,
+   "beats": 3,
+   "end": 72.467,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "drive_2",
+   "rms_db": -21.1,
+   "band_db": {
+    "lt120": 27.5,
+    "120_300": 32.4,
+    "300_1k": 37.4,
+    "1k_3k": 27.0,
+    "3k_8k": 16.9,
+    "gt8k": -9.0
+   }
+  },
+  {
+   "n": 40,
+   "start": 72.467,
+   "beats": 3,
+   "end": 74.342,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "drive_2",
+   "rms_db": -21.5,
+   "band_db": {
+    "lt120": 21.4,
+    "120_300": 30.0,
+    "300_1k": 37.7,
+    "1k_3k": 27.3,
+    "3k_8k": 18.3,
+    "gt8k": -7.0
+   }
+  },
+  {
+   "n": 41,
+   "start": 74.342,
+   "beats": 3,
+   "end": 76.217,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 3,
+   "section": "drive_2",
+   "rms_db": -21.6,
+   "band_db": {
+    "lt120": 19.0,
+    "120_300": 29.5,
+    "300_1k": 37.6,
+    "1k_3k": 27.8,
+    "3k_8k": 18.6,
+    "gt8k": -7.0
+   }
+  },
+  {
+   "n": 42,
+   "start": 76.217,
+   "beats": 3,
+   "end": 78.092,
+   "chord": "Am",
+   "chord_bar": 1,
+   "cycle_pos": 4,
+   "section": "drive_2",
+   "rms_db": -21.4,
+   "band_db": {
+    "lt120": 24.7,
+    "120_300": 33.5,
+    "300_1k": 36.1,
+    "1k_3k": 30.4,
+    "3k_8k": 19.2,
+    "gt8k": -4.0
+   }
+  },
+  {
+   "n": 43,
+   "start": 78.092,
+   "beats": 3,
+   "end": 79.967,
+   "chord": "Am",
+   "chord_bar": 2,
+   "cycle_pos": 5,
+   "section": "drive_2",
+   "rms_db": -21.4,
+   "band_db": {
+    "lt120": 22.9,
+    "120_300": 32.2,
+    "300_1k": 36.7,
+    "1k_3k": 30.4,
+    "3k_8k": 19.7,
+    "gt8k": -4.0
+   }
+  },
+  {
+   "n": 44,
+   "start": 79.967,
+   "beats": 3,
+   "end": 81.842,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 6,
+   "section": "drive_2",
+   "rms_db": -20.7,
+   "band_db": {
+    "lt120": 21.5,
+    "120_300": 31.1,
+    "300_1k": 38.4,
+    "1k_3k": 29.4,
+    "3k_8k": 19.7,
+    "gt8k": -4.4
+   }
+  },
+  {
+   "n": 45,
+   "start": 81.842,
+   "beats": 3,
+   "end": 83.717,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 7,
+   "section": "drive_2",
+   "rms_db": -20.4,
+   "band_db": {
+    "lt120": 18.8,
+    "120_300": 31.5,
+    "300_1k": 38.5,
+    "1k_3k": 30.0,
+    "3k_8k": 19.7,
+    "gt8k": -4.1
+   }
+  },
+  {
+   "n": 46,
+   "start": 83.717,
+   "beats": 3,
+   "end": 85.592,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "build_1",
+   "rms_db": -17.0,
+   "band_db": {
+    "lt120": 39.5,
+    "120_300": 34.0,
+    "300_1k": 39.4,
+    "1k_3k": 30.2,
+    "3k_8k": 20.0,
+    "gt8k": -3.1
+   }
+  },
+  {
+   "n": 47,
+   "start": 85.592,
+   "beats": 3,
+   "end": 87.467,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "build_1",
+   "rms_db": -17.7,
+   "band_db": {
+    "lt120": 36.8,
+    "120_300": 33.8,
+    "300_1k": 39.9,
+    "1k_3k": 30.3,
+    "3k_8k": 21.1,
+    "gt8k": -2.2
+   }
+  },
+  {
+   "n": 48,
+   "start": 87.467,
+   "beats": 3,
+   "end": 89.342,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "build_1",
+   "rms_db": -17.8,
+   "band_db": {
+    "lt120": 37.3,
+    "120_300": 32.4,
+    "300_1k": 40.0,
+    "1k_3k": 29.7,
+    "3k_8k": 21.3,
+    "gt8k": -4.0
+   }
+  },
+  {
+   "n": 49,
+   "start": 89.342,
+   "beats": 3,
+   "end": 91.217,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 3,
+   "section": "build_1",
+   "rms_db": -17.8,
+   "band_db": {
+    "lt120": 37.4,
+    "120_300": 32.2,
+    "300_1k": 39.8,
+    "1k_3k": 29.9,
+    "3k_8k": 21.0,
+    "gt8k": -6.5
+   }
+  },
+  {
+   "n": 50,
+   "start": 91.217,
+   "beats": 3,
+   "end": 93.092,
+   "chord": "Am",
+   "chord_bar": 1,
+   "cycle_pos": 4,
+   "section": "build_1",
+   "rms_db": -18.2,
+   "band_db": {
+    "lt120": 36.1,
+    "120_300": 33.6,
+    "300_1k": 39.2,
+    "1k_3k": 31.6,
+    "3k_8k": 20.4,
+    "gt8k": -3.6
+   }
+  },
+  {
+   "n": 51,
+   "start": 93.092,
+   "beats": 3,
+   "end": 94.967,
+   "chord": "Am",
+   "chord_bar": 2,
+   "cycle_pos": 5,
+   "section": "build_1",
+   "rms_db": -18.4,
+   "band_db": {
+    "lt120": 35.2,
+    "120_300": 33.1,
+    "300_1k": 39.2,
+    "1k_3k": 32.1,
+    "3k_8k": 20.3,
+    "gt8k": -4.1
+   }
+  },
+  {
+   "n": 52,
+   "start": 94.967,
+   "beats": 3,
+   "end": 96.842,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 6,
+   "section": "build_1",
+   "rms_db": -18.4,
+   "band_db": {
+    "lt120": 33.3,
+    "120_300": 33.0,
+    "300_1k": 39.8,
+    "1k_3k": 31.4,
+    "3k_8k": 20.5,
+    "gt8k": -5.6
+   }
+  },
+  {
+   "n": 53,
+   "start": 96.842,
+   "beats": 3,
+   "end": 98.717,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 7,
+   "section": "build_1",
+   "rms_db": -17.5,
+   "band_db": {
+    "lt120": 36.9,
+    "120_300": 32.2,
+    "300_1k": 40.4,
+    "1k_3k": 30.8,
+    "3k_8k": 20.0,
+    "gt8k": -5.6
+   }
+  },
+  {
+   "n": 54,
+   "start": 98.717,
+   "beats": 3,
+   "end": 100.592,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "build_2",
+   "rms_db": -18.1,
+   "band_db": {
+    "lt120": 34.9,
+    "120_300": 33.0,
+    "300_1k": 40.0,
+    "1k_3k": 31.3,
+    "3k_8k": 20.0,
+    "gt8k": -3.3
+   }
+  },
+  {
+   "n": 55,
+   "start": 100.592,
+   "beats": 3,
+   "end": 102.467,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "build_2",
+   "rms_db": -18.0,
+   "band_db": {
+    "lt120": 35.1,
+    "120_300": 33.7,
+    "300_1k": 40.0,
+    "1k_3k": 31.1,
+    "3k_8k": 20.4,
+    "gt8k": -4.6
+   }
+  },
+  {
+   "n": 56,
+   "start": 102.467,
+   "beats": 3,
+   "end": 104.342,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "build_2",
+   "rms_db": -17.9,
+   "band_db": {
+    "lt120": 35.0,
+    "120_300": 33.2,
+    "300_1k": 40.4,
+    "1k_3k": 30.9,
+    "3k_8k": 20.7,
+    "gt8k": -7.3
+   }
+  },
+  {
+   "n": 57,
+   "start": 104.342,
+   "beats": 3,
+   "end": 106.217,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 3,
+   "section": "build_2",
+   "rms_db": -17.4,
+   "band_db": {
+    "lt120": 37.2,
+    "120_300": 32.4,
+    "300_1k": 40.3,
+    "1k_3k": 31.6,
+    "3k_8k": 21.4,
+    "gt8k": -7.1
+   }
+  },
+  {
+   "n": 58,
+   "start": 106.217,
+   "beats": 3,
+   "end": 108.092,
+   "chord": "Am",
+   "chord_bar": 1,
+   "cycle_pos": 4,
+   "section": "build_2",
+   "rms_db": -17.4,
+   "band_db": {
+    "lt120": 35.4,
+    "120_300": 32.4,
+    "300_1k": 40.7,
+    "1k_3k": 33.7,
+    "3k_8k": 21.9,
+    "gt8k": -3.3
+   }
+  },
+  {
+   "n": 59,
+   "start": 108.092,
+   "beats": 3,
+   "end": 109.967,
+   "chord": "Am",
+   "chord_bar": 2,
+   "cycle_pos": 5,
+   "section": "build_2",
+   "rms_db": -16.7,
+   "band_db": {
+    "lt120": 36.9,
+    "120_300": 34.3,
+    "300_1k": 40.8,
+    "1k_3k": 34.7,
+    "3k_8k": 22.7,
+    "gt8k": -1.9
+   }
+  },
+  {
+   "n": 60,
+   "start": 109.967,
+   "beats": 3,
+   "end": 111.842,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 6,
+   "section": "build_2",
+   "rms_db": -16.1,
+   "band_db": {
+    "lt120": 37.3,
+    "120_300": 35.3,
+    "300_1k": 41.7,
+    "1k_3k": 34.0,
+    "3k_8k": 23.3,
+    "gt8k": -1.7
+   }
+  },
+  {
+   "n": 61,
+   "start": 111.842,
+   "beats": 3,
+   "end": 113.717,
+   "chord": "G",
+   "chord_bar": 2,
+   "cycle_pos": 7,
+   "section": "build_2",
+   "rms_db": -15.6,
+   "band_db": {
+    "lt120": 38.4,
+    "120_300": 34.5,
+    "300_1k": 42.3,
+    "1k_3k": 34.1,
+    "3k_8k": 23.4,
+    "gt8k": -1.6
+   }
+  },
+  {
+   "n": 62,
+   "start": 113.717,
+   "beats": 3,
+   "end": 115.592,
+   "chord": "F",
+   "chord_bar": 1,
+   "cycle_pos": 0,
+   "section": "peak",
+   "rms_db": -14.8,
+   "band_db": {
+    "lt120": 41.3,
+    "120_300": 36.4,
+    "300_1k": 41.6,
+    "1k_3k": 34.1,
+    "3k_8k": 23.1,
+    "gt8k": -1.7
+   }
+  },
+  {
+   "n": 63,
+   "start": 115.592,
+   "beats": 3,
+   "end": 117.467,
+   "chord": "F",
+   "chord_bar": 2,
+   "cycle_pos": 1,
+   "section": "peak",
+   "rms_db": -14.8,
+   "band_db": {
+    "lt120": 39.5,
+    "120_300": 36.4,
+    "300_1k": 42.7,
+    "1k_3k": 34.8,
+    "3k_8k": 25.1,
+    "gt8k": -0.8
+   }
+  },
+  {
+   "n": 64,
+   "start": 117.467,
+   "beats": 3,
+   "end": 119.342,
+   "chord": "G",
+   "chord_bar": 1,
+   "cycle_pos": 2,
+   "section": "peak",
+   "rms_db": -14.6,
+   "band_db": {
+    "lt120": 36.1,
+    "120_300": 36.5,
+    "300_1k": 43.8,
+    "1k_3k": 36.6,
+    "3k_8k": 26.5,
+    "gt8k": -3.4
+   }
+  },
+  {
+   "n": 65,
+   "start": 119.342,
+   "beats": 0,
+   "end": null,
+   "chord": null,
+   "section": "music_end",
+   "note": "hard stop of the music (bar line); reverb tail follows"
+  }
+ ],
+ "chord_changes": [
+  {
+   "t": 7.467,
+   "bar": 5,
+   "chord": "G"
+  },
+  {
+   "t": 11.217,
+   "bar": 7,
+   "chord": "Am"
+  },
+  {
+   "t": 14.967,
+   "bar": 9,
+   "chord": "G"
+  },
+  {
+   "t": 18.717,
+   "bar": 11,
+   "chord": "F"
+  },
+  {
+   "t": 22.467,
+   "bar": 13,
+   "chord": "G"
+  },
+  {
+   "t": 26.217,
+   "bar": 15,
+   "chord": "Am"
+  },
+  {
+   "t": 29.967,
+   "bar": 17,
+   "chord": "G"
+  },
+  {
+   "t": 33.092,
+   "bar": 19,
+   "chord": "E-pedal"
+  },
+  {
+   "t": 42.467,
+   "bar": 24,
+   "chord": "F"
+  },
+  {
+   "t": 46.217,
+   "bar": 26,
+   "chord": "G"
+  },
+  {
+   "t": 49.967,
+   "bar": 28,
+   "chord": "Am"
+  },
+  {
+   "t": 53.717,
+   "bar": 30,
+   "chord": "F"
+  },
+  {
+   "t": 57.467,
+   "bar": 32,
+   "chord": "G"
+  },
+  {
+   "t": 61.217,
+   "bar": 34,
+   "chord": "Am"
+  },
+  {
+   "t": 64.967,
+   "bar": 36,
+   "chord": "G"
+  },
+  {
+   "t": 68.717,
+   "bar": 38,
+   "chord": "F"
+  },
+  {
+   "t": 72.467,
+   "bar": 40,
+   "chord": "G"
+  },
+  {
+   "t": 76.217,
+   "bar": 42,
+   "chord": "Am"
+  },
+  {
+   "t": 79.967,
+   "bar": 44,
+   "chord": "G"
+  },
+  {
+   "t": 83.717,
+   "bar": 46,
+   "chord": "F"
+  },
+  {
+   "t": 87.467,
+   "bar": 48,
+   "chord": "G"
+  },
+  {
+   "t": 91.217,
+   "bar": 50,
+   "chord": "Am"
+  },
+  {
+   "t": 94.967,
+   "bar": 52,
+   "chord": "G"
+  },
+  {
+   "t": 98.717,
+   "bar": 54,
+   "chord": "F"
+  },
+  {
+   "t": 102.467,
+   "bar": 56,
+   "chord": "G"
+  },
+  {
+   "t": 106.217,
+   "bar": 58,
+   "chord": "Am"
+  },
+  {
+   "t": 109.967,
+   "bar": 60,
+   "chord": "G"
+  },
+  {
+   "t": 113.717,
+   "bar": 62,
+   "chord": "F"
+  },
+  {
+   "t": 117.467,
+   "bar": 64,
+   "chord": "G"
+  }
+ ],
+ "phrases": [
+  {
+   "name": "P1",
+   "bars": [
+    1,
+    10
+   ],
+   "start": 0.0,
+   "end": 18.717,
+   "length_s": 18.717,
+   "length_bars": 10,
+   "section": "intro_a",
+   "chords": "F(4 bars incl. swell) G Am G",
+   "complete": true
+  },
+  {
+   "name": "P2",
+   "bars": [
+    11,
+    18
+   ],
+   "start": 18.717,
+   "end": 33.092,
+   "length_s": 14.375,
+   "length_bars": 8,
+   "section": "intro_b",
+   "chords": "F G Am G (last G 5 beats: bar 18 has 2 beats)",
+   "complete": true
+  },
+  {
+   "name": "P3",
+   "bars": [
+    19,
+    23
+   ],
+   "start": 33.092,
+   "end": 42.467,
+   "length_s": 9.375,
+   "length_bars": 5,
+   "section": "lift",
+   "chords": "E pedal only (4 bars + riser bar)",
+   "complete": true
+  },
+  {
+   "name": "P4",
+   "bars": [
+    24,
+    29
+   ],
+   "start": 42.467,
+   "end": 53.717,
+   "length_s": 11.25,
+   "length_bars": 6,
+   "section": "arrival",
+   "chords": "F G Am (short cycle, 6 bars)",
+   "complete": true
+  },
+  {
+   "name": "P5",
+   "bars": [
+    30,
+    37
+   ],
+   "start": 53.717,
+   "end": 68.717,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "section": "drive_1",
+   "chords": "F G Am G",
+   "complete": true
+  },
+  {
+   "name": "P6",
+   "bars": [
+    38,
+    45
+   ],
+   "start": 68.717,
+   "end": 83.717,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "section": "drive_2",
+   "chords": "F G Am G",
+   "complete": true
+  },
+  {
+   "name": "P7",
+   "bars": [
+    46,
+    53
+   ],
+   "start": 83.717,
+   "end": 98.717,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "section": "build_1",
+   "chords": "F G Am G",
+   "complete": true
+  },
+  {
+   "name": "P8",
+   "bars": [
+    54,
+    61
+   ],
+   "start": 98.717,
+   "end": 113.717,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "section": "build_2",
+   "chords": "F G Am G",
+   "complete": true
+  },
+  {
+   "name": "P9",
+   "bars": [
+    62,
+    64
+   ],
+   "start": 113.717,
+   "end": 119.342,
+   "length_s": 5.625,
+   "length_bars": 3,
+   "section": "peak",
+   "chords": "F G, then hard stop at bar line 65",
+   "complete": false
+  }
+ ],
+ "sections": [
+  {
+   "name": "intro_a",
+   "start": 0.0,
+   "end": 18.717,
+   "bars": [
+    1,
+    10
+   ],
+   "mood": "cold, suspended, searching",
+   "description": "Opening swell from near-silence (bars 1-2, RMS -60 to -45 dB), then the first chord cycle: sustained organ-like chords F (4 bars incl. swell) - G - Am - G under a constant high E pedal with D#/F neighbour notes (the soft \"ticking\" ostinato). Quiet, dark."
+  },
+  {
+   "name": "intro_b",
+   "start": 18.717,
+   "end": 33.092,
+   "bars": [
+    11,
+    18
+   ],
+   "mood": "slowly warming, curiosity",
+   "description": "Second chord cycle F - G - Am - G, same texture but gradually brighter: 3-8 kHz band rises about +6 dB at bar 11 and keeps climbing to bar 18 (upper-register layer joins, slow crescendo). Bar 18 is a 2-beat bar, so the last G lasts 5 beats."
+  },
+  {
+   "name": "lift",
+   "start": 33.092,
+   "end": 42.467,
+   "bars": [
+    19,
+    23
+   ],
+   "mood": "held breath, anticipation",
+   "description": "Bass drops out; a close, bright mid-register 16th-note figure around E4-E5 takes over (300 Hz-1 kHz +10 dB), ticking pulse clearly audible, no chord change (E pedal). Bar 23 (40.592 s) is the riser: low end and 3-8 kHz swell into the hit."
+  },
+  {
+   "name": "arrival",
+   "start": 42.467,
+   "end": 53.717,
+   "bars": [
+    24,
+    29
+   ],
+   "mood": "impact, revelation",
+   "description": "THE BURST at 42.467 s: massive low-register entry (+16 dB below 120 Hz, sample peak -0.2 dBFS, strongest transient of the piece), full organ texture, driving 16ths. Short chord cycle F - G - Am (no closing G)."
+  },
+  {
+   "name": "drive_1",
+   "start": 53.717,
+   "end": 68.717,
+   "bars": [
+    30,
+    37
+   ],
+   "mood": "momentum",
+   "description": "First full main cycle F - G - Am - G (15.000 s). High register grows: 3-8 kHz +5 dB, >8 kHz +7 dB by bar 34 (61.2 s)."
+  },
+  {
+   "name": "drive_2",
+   "start": 68.717,
+   "end": 83.717,
+   "bars": [
+    38,
+    45
+   ],
+   "mood": "momentum, brighter",
+   "description": "Second main cycle, brighter (spectral centroid 1.05 -> 1.3 kHz; >8 kHz +3 dB from bar 42, 76.2 s); low end still thin."
+  },
+  {
+   "name": "build_1",
+   "start": 83.717,
+   "end": 98.717,
+   "bars": [
+    46,
+    53
+   ],
+   "mood": "second lift, power",
+   "description": "Deep low end returns at 83.717 s (+20 dB below 120 Hz): the second big lift, RMS steps up about 3.5 dB. Full, dense texture."
+  },
+  {
+   "name": "build_2",
+   "start": 98.717,
+   "end": 113.717,
+   "bars": [
+    54,
+    61
+   ],
+   "mood": "rising, inevitability",
+   "description": "Steady crescendo, every band +1 to +4 dB across the cycle; the most loop-friendly material in the piece."
+  },
+  {
+   "name": "peak",
+   "start": 113.717,
+   "end": 119.342,
+   "bars": [
+    62,
+    64
+   ],
+   "mood": "fullest, triumphant",
+   "description": "Fullest and loudest bars (RMS about 3 dB above build_1, all bands at maximum). The music stops dead at 119.342 s, on a bar line in the middle of the G chord."
+  },
+  {
+   "name": "tail",
+   "start": 119.342,
+   "end": 126.96,
+   "bars": null,
+   "mood": "stillness after the stop",
+   "description": "Reverb tail after the hard stop: -6 dB at 119.35 s, -40 dB at 124.2 s, about -60 dB at 126 s; file ends 126.960 s."
+  }
+ ],
+ "layers": [
+  {
+   "t": 0.0,
+   "bar": 1,
+   "layer": "Organ-like sustained chords + low pedal, fading in from near-silence (bars 1-4)",
+   "evidence": "RMS -60 dB (bar 1) -> -38 dB (bar 4); <120 Hz band +22 dB by bar 4"
+  },
+  {
+   "t": 0.0,
+   "bar": 1,
+   "layer": "High E pedal ostinato with D#/F neighbours (soft \"ticking\" figure), present in every section until the stop",
+   "evidence": "E4 (329.7 Hz) is the strongest spectral peak in every section; D# and F follow it in the mid chroma"
+  },
+  {
+   "t": 14.967,
+   "bar": 9,
+   "layer": "Upper-register layer / brightening (likely higher organ ranks or synth)",
+   "evidence": "3-8 kHz band +4 dB at bar 9, then +13 dB in total by bar 18"
+  },
+  {
+   "t": 33.092,
+   "bar": 19,
+   "layer": "Bass out; close bright 16th-note arpeggio around E4-E5 (piano or organ, inferred)",
+   "evidence": "<120 Hz -8 dB, 300 Hz-1 kHz +10 dB, onset strength x1.3, sharp attack at 33.098 s"
+  },
+  {
+   "t": 40.592,
+   "bar": 23,
+   "layer": "Riser into the burst",
+   "evidence": "<120 Hz +15 dB and 3-8 kHz +14 dB within the bar"
+  },
+  {
+   "t": 42.467,
+   "bar": 24,
+   "layer": "Full organ / massive low register entry (the burst)",
+   "evidence": "<120 Hz +16 dB vs bar 23, sample peak -0.2 dBFS; harmonic, not percussive (percussive/harmonic ratio -14 dB)"
+  },
+  {
+   "t": 53.717,
+   "bar": 30,
+   "layer": "High layer grows (strings or high organ, inferred)",
+   "evidence": "3-8 kHz +3 to +5 dB over bars 30-33"
+  },
+  {
+   "t": 61.217,
+   "bar": 34,
+   "layer": "Top shimmer (>8 kHz)",
+   "evidence": ">8 kHz +5 dB at bar 34"
+  },
+  {
+   "t": 76.217,
+   "bar": 42,
+   "layer": "Further brightening",
+   "evidence": ">8 kHz +3 dB, centroid 1.3 kHz"
+  },
+  {
+   "t": 83.717,
+   "bar": 46,
+   "layer": "Deep bass / organ pedal returns: final build starts",
+   "evidence": "<120 Hz +20 dB vs bar 45, RMS +3.4 dB"
+  },
+  {
+   "t": 113.717,
+   "bar": 62,
+   "layer": "Everything at maximum (peak)",
+   "evidence": "highest RMS and every band at its maximum"
+  }
+ ],
+ "percussion_note": "No drum kit or percussion layer was found: the percussive/harmonic energy ratio stays between -12 and -19 dB in every bar. The rhythmic drive comes from the 16th-note ostinato (tatum 0.156 s); the only hit-like event is the harmonic low-register entry at 42.467 s.",
+ "instrument_note": "Layer names are inferred from the spectrum (band energies, register, attack, harmonic/percussive split); they are not confirmed by ear.",
+ "climax": 113.717,
+ "climax_bar": 62,
+ "climax_window": [
+  113.717,
+  119.342
+ ],
+ "climax_note": "Fullest, loudest bars of the piece (bar 62 = F downbeat of the last cycle). Place the \"aha\" line on 113.717 (or on the equivalent bar after loops).",
+ "burst": 42.467,
+ "burst_bar": 24,
+ "burst_note": "Biggest single impact (low-register entry). Natural place for the first big reveal; 9.375 s of lift (bars 19-23) leads into it.",
+ "ending": {
+  "music_stop": 119.342,
+  "stop_bar_line": 65,
+  "tail_end": 126.96,
+  "minus40db": 124.19,
+  "minus60db": 126.0,
+  "options": [
+   "E1 (original): play through the peak, the music stops dead on the bar line 119.342 s, keep the reverb tail (fade the last 1 s after about 125.9 s). Dramatic stop, good for a final title card held in silence.",
+   "E2 (warm epilogue): after the peak, join to intro F (bar 11, 18.717 s, or bar 3, 3.717 s) at an F downbeat with a 0.625 s equal-power crossfade and let the quiet cycle fade out. Harmony continues (G -> F), the level drops about 20 dB on purpose (a breath, not a hidden seam).",
+   "E3: stop + tail as in E1, then bring back the opening swell (0 - 7.5 s, bars 1-4) under or after the tail and fade it out: the film ends where it began."
+  ]
+ },
+ "edit_rules": [
+  "Cut, loop and join only at bar lines (beat k = -0.033 + 0.625 k; bar lines listed in bars[]). Every loop length below is a whole number of bars, so the beat and bar grid after a loop continues exactly (the edited track keeps 96 BPM and the same grid).",
+  "For a seamless loop the chord context must match on both sides (same chord and same bar-of-chord before and after the bar line): main body loops of 8 bars (15.000 s) or 4 bars (7.5 s) inside the same G-G pair.",
+  "Use the crossfade stored with each candidate (length, placement, law). \"pre\" = the fade ends 10 ms before the bar line, so the new downbeat attack comes cleanly from the in-side; equal-gain only where the two signals are strongly correlated (phase_rho > 0.5).",
+  "Do not loop back from build_1/build_2/peak into drive or intro: the deep bass that enters at 83.717 s would vanish (level jump 2-4 dB).",
+  "Tool: A/music/cc/py/cc_edit.py plan.json out.wav out_map.json renders any bar-level plan and writes the edited timing map (beats, bars, sections, climax, junctions)."
+ ],
+ "loop_candidates": [
+  {
+   "out_bar": 22,
+   "in_bar": 21,
+   "out_t": 38.717,
+   "in_t": 36.842,
+   "length_s": 1.875,
+   "length_bars": 1,
+   "length_beats": 3,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 76.7,
+   "grade": "A",
+   "quality": 81.1,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 1.64,
+    "spec_post_short_db": 2.38,
+    "spec_pre_bar_db": 0.89,
+    "spec_post_bar_db": 1.74,
+    "chroma_pre": 0.998,
+    "chroma_post": 0.998,
+    "level_jump_db": 0.1,
+    "phase_rho": 0.663
+   },
+   "seam_test": {
+    "dip_db": 0.23,
+    "bump_db": 0.0,
+    "flux_ratio": 0.943,
+    "click_db": -1.08,
+    "spec_jump_excess_db": -0.5
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.78,
+    "novelty_bar_db": 0.03,
+    "pct_vs_natural_bar_lines_short": 55.6,
+    "pct_vs_natural_bar_lines_bar": 0.0
+   },
+   "note": "lengthens the lift by 1 bar"
+  },
+  {
+   "out_bar": 23,
+   "in_bar": 22,
+   "out_t": 40.592,
+   "in_t": 38.717,
+   "length_s": 1.875,
+   "length_bars": 1,
+   "length_beats": 3,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 73.4,
+   "grade": "A",
+   "quality": 64.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 1.82,
+    "spec_post_short_db": 2.61,
+    "spec_pre_bar_db": 1.74,
+    "spec_post_bar_db": 6.53,
+    "chroma_pre": 0.998,
+    "chroma_post": 0.864,
+    "level_jump_db": 0.25,
+    "phase_rho": 0.396
+   },
+   "seam_test": {
+    "dip_db": 0.08,
+    "bump_db": 0.14,
+    "flux_ratio": 0.776,
+    "click_db": 0.12,
+    "spec_jump_excess_db": -0.81
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.46,
+    "novelty_bar_db": 0.05,
+    "pct_vs_natural_bar_lines_short": 35.2,
+    "pct_vs_natural_bar_lines_bar": 0.0
+   },
+   "note": "lift texture loop: E pedal, no chord change"
+  },
+  {
+   "out_bar": 21,
+   "in_bar": 20,
+   "out_t": 36.842,
+   "in_t": 34.967,
+   "length_s": 1.875,
+   "length_bars": 1,
+   "length_beats": 3,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 73.3,
+   "grade": "A",
+   "quality": 74.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.36,
+    "spec_post_short_db": 2.27,
+    "spec_pre_bar_db": 1.85,
+    "spec_post_bar_db": 0.89,
+    "chroma_pre": 0.994,
+    "chroma_post": 0.998,
+    "level_jump_db": 0.92,
+    "phase_rho": 0.599
+   },
+   "seam_test": {
+    "dip_db": 0.27,
+    "bump_db": 0.0,
+    "flux_ratio": 0.906,
+    "click_db": -1.05,
+    "spec_jump_excess_db": -0.56
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.79,
+    "novelty_bar_db": 0.05,
+    "pct_vs_natural_bar_lines_short": 55.6,
+    "pct_vs_natural_bar_lines_bar": 0.0
+   },
+   "note": "lift texture loop: E pedal, no chord change"
+  },
+  {
+   "out_bar": 22,
+   "in_bar": 20,
+   "out_t": 38.717,
+   "in_t": 34.967,
+   "length_s": 3.75,
+   "length_bars": 2,
+   "length_beats": 6,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 70.6,
+   "grade": "A",
+   "quality": 70.8,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.42,
+    "spec_post_short_db": 2.44,
+    "spec_pre_bar_db": 2.14,
+    "spec_post_bar_db": 1.83,
+    "chroma_pre": 0.997,
+    "chroma_post": 0.994,
+    "level_jump_db": 1.02,
+    "phase_rho": 0.515
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.17,
+    "flux_ratio": 0.989,
+    "click_db": -0.07,
+    "spec_jump_excess_db": 0.16
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.79,
+    "novelty_bar_db": 0.97,
+    "pct_vs_natural_bar_lines_short": 55.6,
+    "pct_vs_natural_bar_lines_bar": 3.7
+   },
+   "note": "lengthens the held-breath lift before the burst by 2 bars"
+  },
+  {
+   "out_bar": 57,
+   "in_bar": 49,
+   "out_t": 104.342,
+   "in_t": 89.342,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 67.8,
+   "grade": "A",
+   "quality": 69.8,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.3125,
+    "placement": "center",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 1.98,
+    "spec_post_short_db": 1.99,
+    "spec_pre_bar_db": 1.54,
+    "spec_post_bar_db": 1.58,
+    "chroma_pre": 0.986,
+    "chroma_post": 0.851,
+    "level_jump_db": 0.59,
+    "phase_rho": 0.558
+   },
+   "seam_test": {
+    "dip_db": 0.93,
+    "bump_db": 0.0,
+    "flux_ratio": 0.948,
+    "click_db": -3.34,
+    "spec_jump_excess_db": 0.12
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.35,
+    "novelty_bar_db": 1.64,
+    "pct_vs_natural_bar_lines_short": 35.2,
+    "pct_vs_natural_bar_lines_bar": 33.3
+   },
+   "note": "best overall: one full build cycle, seam inside the sustained G chord; equal-gain (signals correlated, rho 0.56)"
+  },
+  {
+   "out_bar": 23,
+   "in_bar": 21,
+   "out_t": 40.592,
+   "in_t": 36.842,
+   "length_s": 3.75,
+   "length_bars": 2,
+   "length_beats": 6,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 64.8,
+   "grade": "B",
+   "quality": 65.8,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.21,
+    "spec_post_short_db": 1.83,
+    "spec_pre_bar_db": 1.83,
+    "spec_post_bar_db": 6.85,
+    "chroma_pre": 0.994,
+    "chroma_post": 0.862,
+    "level_jump_db": 0.35,
+    "phase_rho": 0.655
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.0,
+    "flux_ratio": 0.951,
+    "click_db": -1.08,
+    "spec_jump_excess_db": -0.66
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.45,
+    "novelty_bar_db": 1.73,
+    "pct_vs_natural_bar_lines_short": 35.2,
+    "pct_vs_natural_bar_lines_bar": 37.0
+   },
+   "note": "lengthens the lift by 2 bars (out before the riser bar)"
+  },
+  {
+   "out_bar": 55,
+   "in_bar": 47,
+   "out_t": 100.592,
+   "in_t": 85.592,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 58.0,
+   "grade": "B",
+   "quality": 64.2,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.3125,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.55,
+    "spec_post_short_db": 2.34,
+    "spec_pre_bar_db": 1.83,
+    "spec_post_bar_db": 1.74,
+    "chroma_pre": 0.915,
+    "chroma_post": 0.998,
+    "level_jump_db": 1.09,
+    "phase_rho": 0.029
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.17,
+    "flux_ratio": 0.945,
+    "click_db": -1.43,
+    "spec_jump_excess_db": 0.12
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.61,
+    "novelty_bar_db": 2.71,
+    "pct_vs_natural_bar_lines_short": 44.4,
+    "pct_vs_natural_bar_lines_bar": 51.9
+   },
+   "note": "one full build cycle, seam inside F"
+  },
+  {
+   "out_bar": 23,
+   "in_bar": 20,
+   "out_t": 40.592,
+   "in_t": 34.967,
+   "length_s": 5.625,
+   "length_bars": 3,
+   "length_beats": 9,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 57.8,
+   "grade": "B",
+   "quality": 58.1,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.09,
+    "spec_post_short_db": 3.03,
+    "spec_pre_bar_db": 1.62,
+    "spec_post_bar_db": 7.23,
+    "chroma_pre": 0.999,
+    "chroma_post": 0.864,
+    "level_jump_db": 1.27,
+    "phase_rho": 0.471
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.61,
+    "flux_ratio": 0.735,
+    "click_db": -0.26,
+    "spec_jump_excess_db": -0.45
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.46,
+    "novelty_bar_db": 2.1,
+    "pct_vs_natural_bar_lines_short": 35.2,
+    "pct_vs_natural_bar_lines_bar": 50.0
+   },
+   "note": "lift texture loop: E pedal, no chord change"
+  },
+  {
+   "out_bar": 14,
+   "in_bar": 10,
+   "out_t": 24.342,
+   "in_t": 16.842,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "intro_b",
+   "in_section": "intro_a",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 57.1,
+   "grade": "B",
+   "quality": 61.5,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.66,
+    "spec_post_short_db": 3.68,
+    "spec_pre_bar_db": 3.39,
+    "spec_post_bar_db": 3.11,
+    "chroma_pre": 0.962,
+    "chroma_post": 0.953,
+    "level_jump_db": 0.04,
+    "phase_rho": -0.133
+   },
+   "seam_test": {
+    "dip_db": 0.05,
+    "bump_db": 0.48,
+    "flux_ratio": 0.94,
+    "click_db": -0.0,
+    "spec_jump_excess_db": -0.11
+   },
+   "rendered_seam": {
+    "novelty_short_db": 1.92,
+    "novelty_bar_db": 3.62,
+    "pct_vs_natural_bar_lines_short": 16.7,
+    "pct_vs_natural_bar_lines_bar": 77.8
+   },
+   "note": "4-bar intro loop across intro_a/intro_b (timbre dips back for one bar)"
+  },
+  {
+   "out_bar": 59,
+   "in_bar": 51,
+   "out_t": 108.092,
+   "in_t": 93.092,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 54.7,
+   "grade": "B",
+   "quality": 66.8,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.66,
+    "spec_post_short_db": 2.79,
+    "spec_pre_bar_db": 1.96,
+    "spec_post_bar_db": 2.6,
+    "chroma_pre": 0.989,
+    "chroma_post": 0.988,
+    "level_jump_db": 1.09,
+    "phase_rho": 0.348
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.7,
+    "flux_ratio": 0.928,
+    "click_db": -1.21,
+    "spec_jump_excess_db": 0.05
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.03,
+    "novelty_bar_db": 2.24,
+    "pct_vs_natural_bar_lines_short": 64.8,
+    "pct_vs_natural_bar_lines_bar": 50.0
+   },
+   "note": "one full build cycle, seam inside Am"
+  },
+  {
+   "out_bar": 61,
+   "in_bar": 57,
+   "out_t": 111.842,
+   "in_t": 104.342,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "build_2",
+   "in_section": "build_2",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 53.3,
+   "grade": "B",
+   "quality": 57.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.11,
+    "spec_post_short_db": 3.31,
+    "spec_pre_bar_db": 3.56,
+    "spec_post_bar_db": 3.33,
+    "chroma_pre": 0.91,
+    "chroma_post": 0.964,
+    "level_jump_db": 0.72,
+    "phase_rho": 0.204
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.76,
+    "flux_ratio": 0.935,
+    "click_db": -0.22,
+    "spec_jump_excess_db": -0.45
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.46,
+    "novelty_bar_db": 3.07,
+    "pct_vs_natural_bar_lines_short": 35.2,
+    "pct_vs_natural_bar_lines_bar": 66.7
+   },
+   "note": "half-cycle (4 bars) loop right before the peak: keeps the intensity highest"
+  },
+  {
+   "out_bar": 10,
+   "in_bar": 6,
+   "out_t": 16.842,
+   "in_t": 9.342,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "intro_a",
+   "in_section": "intro_a",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 50.4,
+   "grade": "B",
+   "quality": 53.5,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.54,
+    "spec_post_short_db": 4.56,
+    "spec_pre_bar_db": 3.5,
+    "spec_post_bar_db": 3.03,
+    "chroma_pre": 0.936,
+    "chroma_post": 0.962,
+    "level_jump_db": 1.15,
+    "phase_rho": -0.009
+   },
+   "seam_test": {
+    "dip_db": 1.33,
+    "bump_db": 0.4,
+    "flux_ratio": 1.025,
+    "click_db": -3.47,
+    "spec_jump_excess_db": -1.15
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.38,
+    "novelty_bar_db": 3.34,
+    "pct_vs_natural_bar_lines_short": 35.2,
+    "pct_vs_natural_bar_lines_bar": 70.4
+   },
+   "note": "4-bar intro loop (G Am G G)"
+  },
+  {
+   "out_bar": 63,
+   "in_bar": 55,
+   "out_t": 115.592,
+   "in_t": 100.592,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "peak",
+   "in_section": "build_2",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 53.6,
+   "grade": "C",
+   "quality": 56.3,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.22,
+    "spec_post_short_db": 4.08,
+    "spec_pre_bar_db": 3.01,
+    "spec_post_bar_db": 3.35,
+    "chroma_pre": 0.996,
+    "chroma_post": 0.997,
+    "level_jump_db": 3.03,
+    "phase_rho": 0.229
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.43,
+    "flux_ratio": 0.949,
+    "click_db": -0.75,
+    "spec_jump_excess_db": -0.22
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.7,
+    "novelty_bar_db": 2.53,
+    "pct_vs_natural_bar_lines_short": 48.1,
+    "pct_vs_natural_bar_lines_bar": 50.0
+   },
+   "caution": "level changes 3.0 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 63,
+   "in_bar": 47,
+   "out_t": 115.592,
+   "in_t": 85.592,
+   "length_s": 30.0,
+   "length_bars": 16,
+   "length_beats": 48,
+   "out_section": "peak",
+   "in_section": "build_1",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 51.0,
+   "grade": "C",
+   "quality": 54.8,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.52,
+    "spec_post_short_db": 3.79,
+    "spec_pre_bar_db": 3.38,
+    "spec_post_bar_db": 3.39,
+    "chroma_pre": 0.921,
+    "chroma_post": 0.995,
+    "level_jump_db": 1.94,
+    "phase_rho": 0.19
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.87,
+    "flux_ratio": 0.801,
+    "click_db": 0.09,
+    "spec_jump_excess_db": -0.1
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.74,
+    "novelty_bar_db": 2.77,
+    "pct_vs_natural_bar_lines_short": 51.9,
+    "pct_vs_natural_bar_lines_bar": 53.7
+   },
+   "caution": "level changes 1.9 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 43,
+   "in_bar": 35,
+   "out_t": 78.092,
+   "in_t": 63.092,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "drive_2",
+   "in_section": "drive_1",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 49.5,
+   "grade": "C",
+   "quality": 60.1,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.0,
+    "spec_post_short_db": 4.49,
+    "spec_pre_bar_db": 4.95,
+    "spec_post_bar_db": 4.44,
+    "chroma_pre": 0.986,
+    "chroma_post": 0.978,
+    "level_jump_db": 0.46,
+    "phase_rho": 0.437
+   },
+   "seam_test": {
+    "dip_db": 1.07,
+    "bump_db": 0.0,
+    "flux_ratio": 0.998,
+    "click_db": -1.94,
+    "spec_jump_excess_db": 1.23
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.81,
+    "novelty_bar_db": 3.24,
+    "pct_vs_natural_bar_lines_short": 55.6,
+    "pct_vs_natural_bar_lines_bar": 66.7
+   },
+   "note": "one full drive cycle"
+  },
+  {
+   "out_bar": 51,
+   "in_bar": 43,
+   "out_t": 93.092,
+   "in_t": 78.092,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_1",
+   "in_section": "drive_2",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 48.3,
+   "grade": "C",
+   "quality": 60.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.49,
+    "spec_post_short_db": 3.02,
+    "spec_pre_bar_db": 2.92,
+    "spec_post_bar_db": 2.85,
+    "chroma_pre": 0.983,
+    "chroma_post": 0.998,
+    "level_jump_db": 3.22,
+    "phase_rho": 0.489
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.56,
+    "flux_ratio": 0.925,
+    "click_db": -0.69,
+    "spec_jump_excess_db": 0.15
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.26,
+    "novelty_bar_db": 2.84,
+    "pct_vs_natural_bar_lines_short": 68.5,
+    "pct_vs_natural_bar_lines_bar": 59.3
+   },
+   "caution": "level changes 3.2 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 57,
+   "in_bar": 53,
+   "out_t": 104.342,
+   "in_t": 96.842,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 47.8,
+   "grade": "C",
+   "quality": 51.2,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.75,
+    "spec_post_short_db": 2.68,
+    "spec_pre_bar_db": 2.71,
+    "spec_post_bar_db": 2.6,
+    "chroma_pre": 0.832,
+    "chroma_post": 0.853,
+    "level_jump_db": 1.36,
+    "phase_rho": 0.167
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.1,
+    "flux_ratio": 1.0,
+    "click_db": -0.0,
+    "spec_jump_excess_db": 0.33
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.93,
+    "novelty_bar_db": 2.66,
+    "pct_vs_natural_bar_lines_short": 61.1,
+    "pct_vs_natural_bar_lines_bar": 50.0
+   }
+  },
+  {
+   "out_bar": 56,
+   "in_bar": 48,
+   "out_t": 102.467,
+   "in_t": 87.467,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 47.2,
+   "grade": "C",
+   "quality": 71.2,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.23,
+    "spec_post_short_db": 1.81,
+    "spec_pre_bar_db": 1.74,
+    "spec_post_bar_db": 1.54,
+    "chroma_pre": 0.998,
+    "chroma_post": 0.986,
+    "level_jump_db": 0.74,
+    "phase_rho": 0.086
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.71,
+    "flux_ratio": 0.811,
+    "click_db": 0.02,
+    "spec_jump_excess_db": -0.4
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.4,
+    "novelty_bar_db": 4.02,
+    "pct_vs_natural_bar_lines_short": 68.5,
+    "pct_vs_natural_bar_lines_bar": 85.2
+   },
+   "note": "one full build cycle (seam on G downbeat)"
+  },
+  {
+   "out_bar": 39,
+   "in_bar": 31,
+   "out_t": 70.592,
+   "in_t": 55.592,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "drive_2",
+   "in_section": "drive_1",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 46.5,
+   "grade": "C",
+   "quality": 63.3,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.49,
+    "spec_post_short_db": 3.0,
+    "spec_pre_bar_db": 4.17,
+    "spec_post_bar_db": 3.35,
+    "chroma_pre": 0.976,
+    "chroma_post": 0.985,
+    "level_jump_db": 0.27,
+    "phase_rho": 0.237
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.57,
+    "flux_ratio": 0.904,
+    "click_db": -0.26,
+    "spec_jump_excess_db": 1.03
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.01,
+    "novelty_bar_db": 2.83,
+    "pct_vs_natural_bar_lines_short": 81.5,
+    "pct_vs_natural_bar_lines_bar": 59.3
+   }
+  },
+  {
+   "out_bar": 54,
+   "in_bar": 46,
+   "out_t": 98.717,
+   "in_t": 83.717,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_1",
+   "in_section": "build_1",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 45.0,
+   "grade": "C",
+   "quality": 59.5,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.156,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.67,
+    "spec_post_short_db": 2.08,
+    "spec_pre_bar_db": 4.02,
+    "spec_post_bar_db": 1.83,
+    "chroma_pre": 0.837,
+    "chroma_post": 0.915,
+    "level_jump_db": 0.13,
+    "phase_rho": 0.386
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.02,
+    "flux_ratio": 1.0,
+    "click_db": 0.0,
+    "spec_jump_excess_db": -0.95
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.91,
+    "novelty_bar_db": 3.69,
+    "pct_vs_natural_bar_lines_short": 61.1,
+    "pct_vs_natural_bar_lines_bar": 77.8,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 0.66,
+     "bar": 0.65
+    }
+   },
+   "note": "phrase-aligned: replays the whole build_1 cycle from its F downbeat (bass re-entry accent is replayed)"
+  },
+  {
+   "out_bar": 12,
+   "in_bar": 4,
+   "out_t": 20.592,
+   "in_t": 5.592,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "intro_b",
+   "in_section": "intro_a",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 43.2,
+   "grade": "C",
+   "quality": 48.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.67,
+    "spec_post_short_db": 5.43,
+    "spec_pre_bar_db": 5.5,
+    "spec_post_bar_db": 4.82,
+    "chroma_pre": 0.998,
+    "chroma_post": 0.998,
+    "level_jump_db": 1.86,
+    "phase_rho": -0.215
+   },
+   "seam_test": {
+    "dip_db": 0.62,
+    "bump_db": 0.0,
+    "flux_ratio": 0.942,
+    "click_db": -1.04,
+    "spec_jump_excess_db": 0.75
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.61,
+    "novelty_bar_db": 3.89,
+    "pct_vs_natural_bar_lines_short": 44.4,
+    "pct_vs_natural_bar_lines_bar": 79.6
+   },
+   "caution": "level changes 1.9 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 53,
+   "in_bar": 49,
+   "out_t": 96.842,
+   "in_t": 89.342,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "build_1",
+   "in_section": "build_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 43.0,
+   "grade": "C",
+   "quality": 52.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.156,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.0,
+    "spec_post_short_db": 2.77,
+    "spec_pre_bar_db": 2.92,
+    "spec_post_bar_db": 2.56,
+    "chroma_pre": 0.811,
+    "chroma_post": 0.847,
+    "level_jump_db": 0.76,
+    "phase_rho": 0.253
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.2,
+    "flux_ratio": 0.875,
+    "click_db": -1.09,
+    "spec_jump_excess_db": 0.9
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.41,
+    "novelty_bar_db": 2.94,
+    "pct_vs_natural_bar_lines_short": 68.5,
+    "pct_vs_natural_bar_lines_bar": 64.8
+   }
+  },
+  {
+   "out_bar": 61,
+   "in_bar": 49,
+   "out_t": 111.842,
+   "in_t": 89.342,
+   "length_s": 22.5,
+   "length_bars": 12,
+   "length_beats": 36,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 41.3,
+   "grade": "C",
+   "quality": 51.1,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.16,
+    "spec_post_short_db": 3.8,
+    "spec_pre_bar_db": 3.95,
+    "spec_post_bar_db": 4.1,
+    "chroma_pre": 0.892,
+    "chroma_post": 0.789,
+    "level_jump_db": 0.12,
+    "phase_rho": 0.172
+   },
+   "seam_test": {
+    "dip_db": 0.55,
+    "bump_db": 0.25,
+    "flux_ratio": 0.782,
+    "click_db": -0.07,
+    "spec_jump_excess_db": -0.02
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.94,
+    "novelty_bar_db": 3.57,
+    "pct_vs_natural_bar_lines_short": 61.1,
+    "pct_vs_natural_bar_lines_bar": 75.9
+   }
+  },
+  {
+   "out_bar": 45,
+   "in_bar": 41,
+   "out_t": 81.842,
+   "in_t": 74.342,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "drive_2",
+   "in_section": "drive_2",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 41.2,
+   "grade": "C",
+   "quality": 50.9,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.33,
+    "spec_post_short_db": 3.58,
+    "spec_pre_bar_db": 3.07,
+    "spec_post_bar_db": 3.06,
+    "chroma_pre": 0.943,
+    "chroma_post": 0.789,
+    "level_jump_db": 0.64,
+    "phase_rho": -0.16
+   },
+   "seam_test": {
+    "dip_db": 0.34,
+    "bump_db": 0.0,
+    "flux_ratio": 1.0,
+    "click_db": -0.0,
+    "spec_jump_excess_db": 0.77
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.8,
+    "novelty_bar_db": 2.94,
+    "pct_vs_natural_bar_lines_short": 72.2,
+    "pct_vs_natural_bar_lines_bar": 64.8
+   }
+  },
+  {
+   "out_bar": 61,
+   "in_bar": 53,
+   "out_t": 111.842,
+   "in_t": 96.842,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 41.0,
+   "grade": "C",
+   "quality": 57.9,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.156,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.56,
+    "spec_post_short_db": 3.58,
+    "spec_pre_bar_db": 3.43,
+    "spec_post_bar_db": 3.34,
+    "chroma_pre": 0.954,
+    "chroma_post": 0.928,
+    "level_jump_db": 0.64,
+    "phase_rho": 0.085
+   },
+   "seam_test": {
+    "dip_db": 0.01,
+    "bump_db": 0.32,
+    "flux_ratio": 0.912,
+    "click_db": -2.6,
+    "spec_jump_excess_db": 1.18
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.94,
+    "novelty_bar_db": 3.47,
+    "pct_vs_natural_bar_lines_short": 79.6,
+    "pct_vs_natural_bar_lines_bar": 72.2
+   }
+  },
+  {
+   "out_bar": 58,
+   "in_bar": 50,
+   "out_t": 106.217,
+   "in_t": 91.217,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 40.6,
+   "grade": "C",
+   "quality": 63.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 2.59,
+    "spec_post_short_db": 2.2,
+    "spec_pre_bar_db": 1.58,
+    "spec_post_bar_db": 1.96,
+    "chroma_pre": 0.851,
+    "chroma_post": 0.989,
+    "level_jump_db": 1.17,
+    "phase_rho": 0.38
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.88,
+    "flux_ratio": 0.959,
+    "click_db": -0.33,
+    "spec_jump_excess_db": 0.08
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.01,
+    "novelty_bar_db": 3.99,
+    "pct_vs_natural_bar_lines_short": 81.5,
+    "pct_vs_natural_bar_lines_bar": 83.3
+   }
+  },
+  {
+   "out_bar": 59,
+   "in_bar": 43,
+   "out_t": 108.092,
+   "in_t": 78.092,
+   "length_s": 30.0,
+   "length_bars": 16,
+   "length_beats": 48,
+   "out_section": "build_2",
+   "in_section": "drive_2",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 39.2,
+   "grade": "C",
+   "quality": 50.7,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.1,
+    "spec_post_short_db": 4.79,
+    "spec_pre_bar_db": 4.26,
+    "spec_post_bar_db": 4.61,
+    "chroma_pre": 0.986,
+    "chroma_post": 0.992,
+    "level_jump_db": 4.31,
+    "phase_rho": 0.338
+   },
+   "seam_test": {
+    "dip_db": 0.01,
+    "bump_db": 0.13,
+    "flux_ratio": 0.887,
+    "click_db": -0.33,
+    "spec_jump_excess_db": 0.32
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.13,
+    "novelty_bar_db": 3.85,
+    "pct_vs_natural_bar_lines_short": 66.7,
+    "pct_vs_natural_bar_lines_bar": 77.8
+   },
+   "caution": "level changes 4.3 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 37,
+   "in_bar": 33,
+   "out_t": 66.842,
+   "in_t": 59.342,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "drive_1",
+   "in_section": "drive_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 39.0,
+   "grade": "C",
+   "quality": 49.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.156,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.52,
+    "spec_post_short_db": 3.3,
+    "spec_pre_bar_db": 3.55,
+    "spec_post_bar_db": 3.06,
+    "chroma_pre": 0.856,
+    "chroma_post": 0.915,
+    "level_jump_db": 0.85,
+    "phase_rho": -0.206
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.09,
+    "flux_ratio": 1.0,
+    "click_db": -0.94,
+    "spec_jump_excess_db": 0.81
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.65,
+    "novelty_bar_db": 3.29,
+    "pct_vs_natural_bar_lines_short": 72.2,
+    "pct_vs_natural_bar_lines_bar": 70.4
+   }
+  },
+  {
+   "out_bar": 55,
+   "in_bar": 39,
+   "out_t": 100.592,
+   "in_t": 70.592,
+   "length_s": 30.0,
+   "length_bars": 16,
+   "length_beats": 48,
+   "out_section": "build_2",
+   "in_section": "drive_2",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 39.0,
+   "grade": "C",
+   "quality": 51.1,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.51,
+    "spec_post_short_db": 5.22,
+    "spec_pre_bar_db": 4.97,
+    "spec_post_bar_db": 4.58,
+    "chroma_pre": 0.992,
+    "chroma_post": 0.982,
+    "level_jump_db": 2.25,
+    "phase_rho": 0.302
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.09,
+    "flux_ratio": 1.053,
+    "click_db": 0.01,
+    "spec_jump_excess_db": 0.97
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.23,
+    "novelty_bar_db": 3.71,
+    "pct_vs_natural_bar_lines_short": 68.5,
+    "pct_vs_natural_bar_lines_bar": 77.8
+   },
+   "caution": "level changes 2.2 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 18,
+   "in_bar": 10,
+   "out_t": 31.842,
+   "in_t": 16.842,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "intro_b",
+   "in_section": "intro_a",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 38.7,
+   "grade": "C",
+   "quality": 57.0,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.34,
+    "spec_post_short_db": 3.86,
+    "spec_pre_bar_db": 4.21,
+    "spec_post_bar_db": 5.22,
+    "chroma_pre": 0.987,
+    "chroma_post": 0.965,
+    "level_jump_db": 0.15,
+    "phase_rho": -0.346
+   },
+   "seam_test": {
+    "dip_db": 2.19,
+    "bump_db": 0.23,
+    "flux_ratio": 0.869,
+    "click_db": -1.61,
+    "spec_jump_excess_db": -0.32
+   },
+   "rendered_seam": {
+    "novelty_short_db": 2.12,
+    "novelty_bar_db": 5.19,
+    "pct_vs_natural_bar_lines_short": 20.4,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   }
+  },
+  {
+   "out_bar": 20,
+   "in_bar": 19,
+   "out_t": 34.967,
+   "in_t": 33.092,
+   "length_s": 1.875,
+   "length_bars": 1,
+   "length_beats": 3,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 38.7,
+   "grade": "C",
+   "quality": 27.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 8.25,
+    "spec_post_short_db": 3.62,
+    "spec_pre_bar_db": 7.51,
+    "spec_post_bar_db": 1.85,
+    "chroma_pre": 0.349,
+    "chroma_post": 0.994,
+    "level_jump_db": 1.16,
+    "phase_rho": -0.049
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.0,
+    "flux_ratio": 1.105,
+    "click_db": -0.02,
+    "spec_jump_excess_db": -1.0
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.68,
+    "novelty_bar_db": 0.08,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 0.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.1,
+     "bar": 0.01
+    }
+   },
+   "note": "lift texture loop: E pedal, no chord change"
+  },
+  {
+   "out_bar": 45,
+   "in_bar": 37,
+   "out_t": 81.842,
+   "in_t": 66.842,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "drive_2",
+   "in_section": "drive_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 38.6,
+   "grade": "C",
+   "quality": 50.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.48,
+    "spec_post_short_db": 4.64,
+    "spec_pre_bar_db": 4.34,
+    "spec_post_bar_db": 4.24,
+    "chroma_pre": 0.92,
+    "chroma_post": 0.941,
+    "level_jump_db": 2.27,
+    "phase_rho": 0.542
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 1.27,
+    "flux_ratio": 1.006,
+    "click_db": -2.34,
+    "spec_jump_excess_db": 0.64
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.26,
+    "novelty_bar_db": 3.86,
+    "pct_vs_natural_bar_lines_short": 68.5,
+    "pct_vs_natural_bar_lines_bar": 77.8
+   },
+   "caution": "level changes 2.3 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 62,
+   "in_bar": 54,
+   "out_t": 113.717,
+   "in_t": 98.717,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_2",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 36.9,
+   "grade": "C",
+   "quality": 53.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.58,
+    "spec_post_short_db": 3.55,
+    "spec_pre_bar_db": 3.34,
+    "spec_post_bar_db": 3.01,
+    "chroma_pre": 0.928,
+    "chroma_post": 0.996,
+    "level_jump_db": 3.4,
+    "phase_rho": 0.278
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.72,
+    "flux_ratio": 0.834,
+    "click_db": 0.0,
+    "spec_jump_excess_db": 0.19
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.12,
+    "novelty_bar_db": 4.19,
+    "pct_vs_natural_bar_lines_short": 66.7,
+    "pct_vs_natural_bar_lines_bar": 92.6,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.12,
+     "bar": 1.29
+    }
+   },
+   "caution": "level changes 3.4 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 31,
+   "in_bar": 25,
+   "out_t": 55.592,
+   "in_t": 44.342,
+   "length_s": 11.25,
+   "length_bars": 6,
+   "length_beats": 18,
+   "out_section": "drive_1",
+   "in_section": "arrival",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 36.2,
+   "grade": "C",
+   "quality": 54.9,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.47,
+    "spec_post_short_db": 4.22,
+    "spec_pre_bar_db": 4.83,
+    "spec_post_bar_db": 5.23,
+    "chroma_pre": 0.86,
+    "chroma_post": 0.978,
+    "level_jump_db": 0.33,
+    "phase_rho": 0.299
+   },
+   "seam_test": {
+    "dip_db": 0.37,
+    "bump_db": 0.0,
+    "flux_ratio": 0.988,
+    "click_db": -0.59,
+    "spec_jump_excess_db": 0.93
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.17,
+    "novelty_bar_db": 3.79,
+    "pct_vs_natural_bar_lines_short": 87.0,
+    "pct_vs_natural_bar_lines_bar": 77.8
+   }
+  },
+  {
+   "out_bar": 41,
+   "in_bar": 33,
+   "out_t": 74.342,
+   "in_t": 59.342,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "drive_2",
+   "in_section": "drive_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 35.5,
+   "grade": "C",
+   "quality": 60.9,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.41,
+    "spec_post_short_db": 4.48,
+    "spec_pre_bar_db": 4.04,
+    "spec_post_bar_db": 4.22,
+    "chroma_pre": 0.998,
+    "chroma_post": 0.981,
+    "level_jump_db": 0.78,
+    "phase_rho": 0.501
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 1.61,
+    "flux_ratio": 0.917,
+    "click_db": -1.21,
+    "spec_jump_excess_db": 0.69
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.34,
+    "novelty_bar_db": 3.57,
+    "pct_vs_natural_bar_lines_short": 68.5,
+    "pct_vs_natural_bar_lines_bar": 75.9
+   }
+  },
+  {
+   "out_bar": 33,
+   "in_bar": 27,
+   "out_t": 59.342,
+   "in_t": 48.092,
+   "length_s": 11.25,
+   "length_bars": 6,
+   "length_beats": 18,
+   "out_section": "drive_1",
+   "in_section": "arrival",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 35.1,
+   "grade": "C",
+   "quality": 53.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.82,
+    "spec_post_short_db": 4.06,
+    "spec_pre_bar_db": 5.68,
+    "spec_post_bar_db": 5.21,
+    "chroma_pre": 0.985,
+    "chroma_post": 0.948,
+    "level_jump_db": 1.48,
+    "phase_rho": 0.45
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 1.21,
+    "flux_ratio": 0.902,
+    "click_db": -2.0,
+    "spec_jump_excess_db": 0.2
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.18,
+    "novelty_bar_db": 5.02,
+    "pct_vs_natural_bar_lines_short": 66.7,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   }
+  },
+  {
+   "out_bar": 40,
+   "in_bar": 32,
+   "out_t": 72.467,
+   "in_t": 57.467,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "drive_2",
+   "in_section": "drive_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 34.9,
+   "grade": "C",
+   "quality": 63.2,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.94,
+    "spec_post_short_db": 4.42,
+    "spec_pre_bar_db": 3.35,
+    "spec_post_bar_db": 4.04,
+    "chroma_pre": 0.985,
+    "chroma_post": 0.998,
+    "level_jump_db": 0.54,
+    "phase_rho": 0.434
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 1.1,
+    "flux_ratio": 0.997,
+    "click_db": -1.97,
+    "spec_jump_excess_db": -0.72
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.3,
+    "novelty_bar_db": 4.54,
+    "pct_vs_natural_bar_lines_short": 88.9,
+    "pct_vs_natural_bar_lines_bar": 98.1
+   }
+  },
+  {
+   "out_bar": 37,
+   "in_bar": 27,
+   "out_t": 66.842,
+   "in_t": 48.092,
+   "length_s": 18.75,
+   "length_bars": 10,
+   "length_beats": 30,
+   "out_section": "drive_1",
+   "in_section": "arrival",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 33.1,
+   "grade": "C",
+   "quality": 48.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.23,
+    "spec_post_short_db": 4.75,
+    "spec_pre_bar_db": 6.58,
+    "spec_post_bar_db": 6.02,
+    "chroma_pre": 0.923,
+    "chroma_post": 0.966,
+    "level_jump_db": 0.63,
+    "phase_rho": -0.202
+   },
+   "seam_test": {
+    "dip_db": 0.9,
+    "bump_db": 0.19,
+    "flux_ratio": 0.921,
+    "click_db": -0.1,
+    "spec_jump_excess_db": -0.07
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.09,
+    "novelty_bar_db": 5.63,
+    "pct_vs_natural_bar_lines_short": 64.8,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   }
+  },
+  {
+   "out_bar": 64,
+   "in_bar": 56,
+   "out_t": 117.467,
+   "in_t": 102.467,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "peak",
+   "in_section": "build_2",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 32.9,
+   "grade": "C",
+   "quality": 51.9,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.96,
+    "spec_post_short_db": 4.9,
+    "spec_pre_bar_db": 3.35,
+    "spec_post_bar_db": 5.24,
+    "chroma_pre": 0.997,
+    "chroma_post": 0.987,
+    "level_jump_db": 3.35,
+    "phase_rho": 0.289
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.98,
+    "flux_ratio": 0.94,
+    "click_db": -1.22,
+    "spec_jump_excess_db": 0.43
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.69,
+    "novelty_bar_db": 4.88,
+    "pct_vs_natural_bar_lines_short": 72.2,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 3.3 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 35,
+   "in_bar": 29,
+   "out_t": 63.092,
+   "in_t": 51.842,
+   "length_s": 11.25,
+   "length_bars": 6,
+   "length_beats": 18,
+   "out_section": "drive_1",
+   "in_section": "arrival",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 32.0,
+   "grade": "C",
+   "quality": 53.9,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.82,
+    "spec_post_short_db": 3.88,
+    "spec_pre_bar_db": 5.73,
+    "spec_post_bar_db": 5.07,
+    "chroma_pre": 0.997,
+    "chroma_post": 0.977,
+    "level_jump_db": 1.66,
+    "phase_rho": 0.306
+   },
+   "seam_test": {
+    "dip_db": 0.16,
+    "bump_db": 0.0,
+    "flux_ratio": 0.93,
+    "click_db": -4.0,
+    "spec_jump_excess_db": 0.18
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.96,
+    "novelty_bar_db": 5.09,
+    "pct_vs_natural_bar_lines_short": 79.6,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 1.7 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 50,
+   "in_bar": 42,
+   "out_t": 91.217,
+   "in_t": 76.217,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_1",
+   "in_section": "drive_2",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 30.9,
+   "grade": "C",
+   "quality": 56.2,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.42,
+    "spec_post_short_db": 3.47,
+    "spec_pre_bar_db": 3.95,
+    "spec_post_bar_db": 2.92,
+    "chroma_pre": 0.959,
+    "chroma_post": 0.983,
+    "level_jump_db": 2.06,
+    "phase_rho": 0.391
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.53,
+    "flux_ratio": 0.956,
+    "click_db": 0.09,
+    "spec_jump_excess_db": 0.15
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.35,
+    "novelty_bar_db": 5.28,
+    "pct_vs_natural_bar_lines_short": 88.9,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 2.1 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 23,
+   "in_bar": 19,
+   "out_t": 40.592,
+   "in_t": 33.092,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 30.1,
+   "grade": "C",
+   "quality": 22.3,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 8.05,
+    "spec_post_short_db": 2.88,
+    "spec_pre_bar_db": 7.73,
+    "spec_post_bar_db": 6.69,
+    "chroma_pre": 0.32,
+    "chroma_post": 0.878,
+    "level_jump_db": 2.43,
+    "phase_rho": 0.086
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.0,
+    "flux_ratio": 0.703,
+    "click_db": -0.0,
+    "spec_jump_excess_db": -1.45
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.99,
+    "novelty_bar_db": 1.82,
+    "pct_vs_natural_bar_lines_short": 81.5,
+    "pct_vs_natural_bar_lines_bar": 42.6,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 0.77,
+     "bar": 0.24
+    }
+   },
+   "note": "lift texture loop: E pedal, no chord change",
+   "caution": "level changes 2.4 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 16,
+   "in_bar": 8,
+   "out_t": 28.092,
+   "in_t": 13.092,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "intro_b",
+   "in_section": "intro_a",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 29.9,
+   "grade": "C",
+   "quality": 50.5,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.3125,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.0,
+    "spec_post_short_db": 4.66,
+    "spec_pre_bar_db": 4.48,
+    "spec_post_bar_db": 4.77,
+    "chroma_pre": 0.984,
+    "chroma_post": 0.971,
+    "level_jump_db": 0.87,
+    "phase_rho": -0.478
+   },
+   "seam_test": {
+    "dip_db": 1.48,
+    "bump_db": 0.0,
+    "flux_ratio": 0.885,
+    "click_db": -0.26,
+    "spec_jump_excess_db": 1.47
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.98,
+    "novelty_bar_db": 5.23,
+    "pct_vs_natural_bar_lines_short": 81.5,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   }
+  },
+  {
+   "out_bar": 48,
+   "in_bar": 40,
+   "out_t": 87.467,
+   "in_t": 72.467,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_1",
+   "in_section": "drive_2",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 29.6,
+   "grade": "C",
+   "quality": 53.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.18,
+    "spec_post_short_db": 3.37,
+    "spec_pre_bar_db": 4.68,
+    "spec_post_bar_db": 3.67,
+    "chroma_pre": 0.979,
+    "chroma_post": 0.943,
+    "level_jump_db": 1.83,
+    "phase_rho": 0.203
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.8,
+    "flux_ratio": 0.852,
+    "click_db": -1.84,
+    "spec_jump_excess_db": 1.04
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.44,
+    "novelty_bar_db": 5.7,
+    "pct_vs_natural_bar_lines_short": 88.9,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 1.8 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 22,
+   "in_bar": 19,
+   "out_t": 38.717,
+   "in_t": 33.092,
+   "length_s": 5.625,
+   "length_bars": 3,
+   "length_beats": 9,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 28.6,
+   "grade": "C",
+   "quality": 25.7,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 7.82,
+    "spec_post_short_db": 3.22,
+    "spec_pre_bar_db": 7.85,
+    "spec_post_bar_db": 1.62,
+    "chroma_pre": 0.319,
+    "chroma_post": 0.999,
+    "level_jump_db": 2.18,
+    "phase_rho": 0.095
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.04,
+    "flux_ratio": 0.92,
+    "click_db": -0.0,
+    "spec_jump_excess_db": -1.13
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.21,
+    "novelty_bar_db": 2.23,
+    "pct_vs_natural_bar_lines_short": 87.0,
+    "pct_vs_natural_bar_lines_bar": 50.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 0.82,
+     "bar": 0.3
+    }
+   },
+   "note": "lift texture loop: E pedal, no chord change",
+   "caution": "level changes 2.2 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 42,
+   "in_bar": 34,
+   "out_t": 76.217,
+   "in_t": 61.217,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "drive_2",
+   "in_section": "drive_1",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 28.5,
+   "grade": "C",
+   "quality": 52.3,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.68,
+    "spec_post_short_db": 5.48,
+    "spec_pre_bar_db": 4.22,
+    "spec_post_bar_db": 4.95,
+    "chroma_pre": 0.981,
+    "chroma_post": 0.986,
+    "level_jump_db": 2.05,
+    "phase_rho": 0.325
+   },
+   "seam_test": {
+    "dip_db": 0.2,
+    "bump_db": 1.42,
+    "flux_ratio": 0.952,
+    "click_db": 0.08,
+    "spec_jump_excess_db": 0.15
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.6,
+    "novelty_bar_db": 5.87,
+    "pct_vs_natural_bar_lines_short": 90.7,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 2.0 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 52,
+   "in_bar": 44,
+   "out_t": 94.967,
+   "in_t": 79.967,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_1",
+   "in_section": "drive_2",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 28.2,
+   "grade": "C",
+   "quality": 52.7,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-gain"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.41,
+    "spec_post_short_db": 3.72,
+    "spec_pre_bar_db": 2.85,
+    "spec_post_bar_db": 3.38,
+    "chroma_pre": 0.998,
+    "chroma_post": 0.837,
+    "level_jump_db": 1.61,
+    "phase_rho": 0.127
+   },
+   "seam_test": {
+    "dip_db": 0.69,
+    "bump_db": 0.0,
+    "flux_ratio": 0.996,
+    "click_db": -2.14,
+    "spec_jump_excess_db": 0.18
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.64,
+    "novelty_bar_db": 4.77,
+    "pct_vs_natural_bar_lines_short": 92.6,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 1.6 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 60,
+   "in_bar": 52,
+   "out_t": 109.967,
+   "in_t": 94.967,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "build_2",
+   "in_section": "build_1",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 28.2,
+   "grade": "C",
+   "quality": 56.4,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.3125,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.27,
+    "spec_post_short_db": 3.27,
+    "spec_pre_bar_db": 2.6,
+    "spec_post_bar_db": 3.43,
+    "chroma_pre": 0.988,
+    "chroma_post": 0.954,
+    "level_jump_db": 3.09,
+    "phase_rho": 0.365
+   },
+   "seam_test": {
+    "dip_db": 0.05,
+    "bump_db": 0.0,
+    "flux_ratio": 1.012,
+    "click_db": 0.09,
+    "spec_jump_excess_db": 0.79
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.72,
+    "novelty_bar_db": 4.88,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 3.1 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 18,
+   "in_bar": 14,
+   "out_t": 31.842,
+   "in_t": 24.342,
+   "length_s": 7.5,
+   "length_bars": 4,
+   "length_beats": 12,
+   "out_section": "intro_b",
+   "in_section": "intro_b",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 27.8,
+   "grade": "C",
+   "quality": 61.2,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 3.93,
+    "spec_post_short_db": 3.9,
+    "spec_pre_bar_db": 3.36,
+    "spec_post_bar_db": 5.17,
+    "chroma_pre": 0.989,
+    "chroma_post": 0.991,
+    "level_jump_db": 0.19,
+    "phase_rho": -0.056
+   },
+   "seam_test": {
+    "dip_db": 0.18,
+    "bump_db": 0.0,
+    "flux_ratio": 0.935,
+    "click_db": -0.9,
+    "spec_jump_excess_db": 1.84
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.21,
+    "novelty_bar_db": 4.33,
+    "pct_vs_natural_bar_lines_short": 87.0,
+    "pct_vs_natural_bar_lines_bar": 96.3
+   }
+  },
+  {
+   "out_bar": 17,
+   "in_bar": 9,
+   "out_t": 29.967,
+   "in_t": 14.967,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "intro_b",
+   "in_section": "intro_a",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 27.6,
+   "grade": "C",
+   "quality": 51.4,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.52,
+    "spec_post_short_db": 5.71,
+    "spec_pre_bar_db": 4.77,
+    "spec_post_bar_db": 4.21,
+    "chroma_pre": 0.971,
+    "chroma_post": 0.987,
+    "level_jump_db": 0.83,
+    "phase_rho": -0.252
+   },
+   "seam_test": {
+    "dip_db": 0.83,
+    "bump_db": 1.76,
+    "flux_ratio": 0.875,
+    "click_db": -1.09,
+    "spec_jump_excess_db": 0.93
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.42,
+    "novelty_bar_db": 4.31,
+    "pct_vs_natural_bar_lines_short": 68.5,
+    "pct_vs_natural_bar_lines_bar": 96.3
+   }
+  },
+  {
+   "out_bar": 56,
+   "in_bar": 40,
+   "out_t": 102.467,
+   "in_t": 72.467,
+   "length_s": 30.0,
+   "length_bars": 16,
+   "length_beats": 48,
+   "out_section": "build_2",
+   "in_section": "drive_2",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 27.6,
+   "grade": "C",
+   "quality": 48.8,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.67,
+    "spec_post_short_db": 3.97,
+    "spec_pre_bar_db": 4.58,
+    "spec_post_bar_db": 4.02,
+    "chroma_pre": 0.982,
+    "chroma_post": 0.903,
+    "level_jump_db": 2.57,
+    "phase_rho": 0.214
+   },
+   "seam_test": {
+    "dip_db": 0.25,
+    "bump_db": 0.22,
+    "flux_ratio": 0.9,
+    "click_db": -0.22,
+    "spec_jump_excess_db": 1.34
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.15,
+    "novelty_bar_db": 5.2,
+    "pct_vs_natural_bar_lines_short": 87.0,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 2.6 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 21,
+   "in_bar": 19,
+   "out_t": 36.842,
+   "in_t": 33.092,
+   "length_s": 3.75,
+   "length_bars": 2,
+   "length_beats": 6,
+   "out_section": "lift",
+   "in_section": "lift",
+   "out_chord": "E-pedal",
+   "in_chord": "E-pedal",
+   "harmonic_match": true,
+   "score": 27.1,
+   "grade": "C",
+   "quality": 24.5,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 7.9,
+    "spec_post_short_db": 2.92,
+    "spec_pre_bar_db": 7.99,
+    "spec_post_bar_db": 2.14,
+    "chroma_pre": 0.331,
+    "chroma_post": 0.997,
+    "level_jump_db": 2.08,
+    "phase_rho": -0.048
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.0,
+    "flux_ratio": 1.053,
+    "click_db": -0.7,
+    "spec_jump_excess_db": -1.51
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.16,
+    "novelty_bar_db": 1.89,
+    "pct_vs_natural_bar_lines_short": 98.1,
+    "pct_vs_natural_bar_lines_bar": 42.6,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.0,
+     "bar": 0.25
+    }
+   },
+   "note": "lift texture loop: E pedal, no chord change",
+   "caution": "level changes 2.1 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 13,
+   "in_bar": 5,
+   "out_t": 22.467,
+   "in_t": 7.467,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "intro_b",
+   "in_section": "intro_a",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 27.0,
+   "grade": "C",
+   "quality": 50.8,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.37,
+    "spec_post_short_db": 5.07,
+    "spec_pre_bar_db": 4.82,
+    "spec_post_bar_db": 4.18,
+    "chroma_pre": 0.998,
+    "chroma_post": 0.949,
+    "level_jump_db": 0.81,
+    "phase_rho": -0.373
+   },
+   "seam_test": {
+    "dip_db": 2.36,
+    "bump_db": 0.87,
+    "flux_ratio": 0.847,
+    "click_db": -0.07,
+    "spec_jump_excess_db": 0.12
+   },
+   "rendered_seam": {
+    "novelty_short_db": 3.18,
+    "novelty_bar_db": 5.74,
+    "pct_vs_natural_bar_lines_short": 66.7,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   }
+  },
+  {
+   "out_bar": 32,
+   "in_bar": 26,
+   "out_t": 57.467,
+   "in_t": 46.217,
+   "length_s": 11.25,
+   "length_bars": 6,
+   "length_beats": 18,
+   "out_section": "drive_1",
+   "in_section": "arrival",
+   "out_chord": "G",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 26.1,
+   "grade": "C",
+   "quality": 51.2,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 7.47,
+    "spec_post_short_db": 7.51,
+    "spec_pre_bar_db": 5.23,
+    "spec_post_bar_db": 5.68,
+    "chroma_pre": 0.978,
+    "chroma_post": 0.985,
+    "level_jump_db": 1.57,
+    "phase_rho": 0.595
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 1.24,
+    "flux_ratio": 0.963,
+    "click_db": -4.42,
+    "spec_jump_excess_db": 0.76
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.51,
+    "novelty_bar_db": 6.45,
+    "pct_vs_natural_bar_lines_short": 98.1,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 1.6 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 65,
+   "in_bar": 57,
+   "out_t": 119.342,
+   "in_t": 104.342,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "peak",
+   "in_section": "build_2",
+   "out_chord": "G (cut)",
+   "in_chord": "G",
+   "harmonic_match": true,
+   "score": 24.6,
+   "grade": "C",
+   "quality": 49.1,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.04,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 6.3,
+    "spec_post_short_db": null,
+    "spec_pre_bar_db": 5.24,
+    "spec_post_bar_db": null,
+    "chroma_pre": 0.987,
+    "chroma_post": null,
+    "level_jump_db": 2.33,
+    "phase_rho": 0.321
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.5,
+    "flux_ratio": 0.992,
+    "click_db": -1.5,
+    "spec_jump_excess_db": -0.51
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.92,
+    "novelty_bar_db": 4.77,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   },
+   "caution": "level changes 2.3 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 34,
+   "in_bar": 28,
+   "out_t": 61.217,
+   "in_t": 49.967,
+   "length_s": 11.25,
+   "length_bars": 6,
+   "length_beats": 18,
+   "out_section": "drive_1",
+   "in_section": "arrival",
+   "out_chord": "Am",
+   "in_chord": "Am",
+   "harmonic_match": true,
+   "score": 20.8,
+   "grade": "C",
+   "quality": 52.0,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 6.46,
+    "spec_post_short_db": 7.2,
+    "spec_pre_bar_db": 5.21,
+    "spec_post_bar_db": 5.73,
+    "chroma_pre": 0.948,
+    "chroma_post": 0.997,
+    "level_jump_db": 1.41,
+    "phase_rho": 0.634
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 1.57,
+    "flux_ratio": 0.919,
+    "click_db": -1.3,
+    "spec_jump_excess_db": 1.05
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.86,
+    "novelty_bar_db": 7.01,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0
+   }
+  }
+ ],
+ "skip_candidates": [
+  {
+   "out_bar": 38,
+   "in_bar": 46,
+   "out_t": 68.717,
+   "in_t": 83.717,
+   "length_s": -15.0,
+   "length_bars": -8,
+   "length_beats": -24,
+   "out_section": "drive_1",
+   "in_section": "build_1",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 85.1,
+   "grade": "A",
+   "quality": 43.9,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.156,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 4.81,
+    "spec_post_short_db": 4.81,
+    "spec_pre_bar_db": 4.24,
+    "spec_post_bar_db": 4.6,
+    "chroma_pre": 0.941,
+    "chroma_post": 0.891,
+    "level_jump_db": 2.93,
+    "phase_rho": 0.102
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.44,
+    "flux_ratio": 0.999,
+    "click_db": 0.07,
+    "spec_jump_excess_db": 0.69
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.73,
+    "novelty_bar_db": 6.27,
+    "pct_vs_natural_bar_lines_short": 92.6,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.07,
+     "bar": 1.1
+    }
+   }
+  },
+  {
+   "out_bar": 18,
+   "in_bar": 24,
+   "out_t": 31.842,
+   "in_t": 42.467,
+   "length_s": -10.625,
+   "length_bars": -6,
+   "length_beats": -17,
+   "out_section": "intro_b",
+   "in_section": "arrival",
+   "out_chord": "G",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 27.8,
+   "grade": "C",
+   "quality": 14.8,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 9.76,
+    "spec_post_short_db": 12.67,
+    "spec_pre_bar_db": 8.48,
+    "spec_post_bar_db": 11.89,
+    "chroma_pre": 0.875,
+    "chroma_post": 0.649,
+    "level_jump_db": 27.26,
+    "phase_rho": -0.12
+   },
+   "seam_test": {
+    "dip_db": 0.19,
+    "bump_db": 0.0,
+    "flux_ratio": 0.992,
+    "click_db": -1.2,
+    "spec_jump_excess_db": 3.03
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.59,
+    "novelty_bar_db": 11.64,
+    "pct_vs_natural_bar_lines_short": 98.1,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.07,
+     "bar": 1.63
+    }
+   }
+  },
+  {
+   "out_bar": 11,
+   "in_bar": 24,
+   "out_t": 18.717,
+   "in_t": 42.467,
+   "length_s": -23.75,
+   "length_bars": -13,
+   "length_beats": -38,
+   "out_section": "intro_a",
+   "in_section": "arrival",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 25.1,
+   "grade": "C",
+   "quality": 19.3,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 15.77,
+    "spec_post_short_db": 17.2,
+    "spec_pre_bar_db": 10.8,
+    "spec_post_bar_db": 15.35,
+    "chroma_pre": 0.814,
+    "chroma_post": 0.855,
+    "level_jump_db": 27.56,
+    "phase_rho": -0.074
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.05,
+    "flux_ratio": 1.011,
+    "click_db": -1.2,
+    "spec_jump_excess_db": 1.92
+   },
+   "rendered_seam": {
+    "novelty_short_db": 5.46,
+    "novelty_bar_db": 12.55,
+    "pct_vs_natural_bar_lines_short": 98.1,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.05,
+     "bar": 1.75
+    }
+   }
+  },
+  {
+   "out_bar": 38,
+   "in_bar": 54,
+   "out_t": 68.717,
+   "in_t": 98.717,
+   "length_s": -30.0,
+   "length_bars": -16,
+   "length_beats": -48,
+   "out_section": "drive_1",
+   "in_section": "build_2",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 24.0,
+   "grade": "C",
+   "quality": 43.7,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.66,
+    "spec_post_short_db": 5.5,
+    "spec_pre_bar_db": 5.39,
+    "spec_post_bar_db": 4.97,
+    "chroma_pre": 0.888,
+    "chroma_post": 0.992,
+    "level_jump_db": 3.06,
+    "phase_rho": 0.166
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.71,
+    "flux_ratio": 0.997,
+    "click_db": -2.13,
+    "spec_jump_excess_db": 0.43
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.4,
+    "novelty_bar_db": 5.99,
+    "pct_vs_natural_bar_lines_short": 88.9,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.58,
+     "bar": 1.84
+    }
+   }
+  },
+  {
+   "out_bar": 30,
+   "in_bar": 46,
+   "out_t": 53.717,
+   "in_t": 83.717,
+   "length_s": -30.0,
+   "length_bars": -16,
+   "length_beats": -48,
+   "out_section": "arrival",
+   "in_section": "build_1",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 19.8,
+   "grade": "C",
+   "quality": 12.5,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 12.99,
+    "spec_post_short_db": 9.69,
+    "spec_pre_bar_db": 10.45,
+    "spec_post_bar_db": 8.4,
+    "chroma_pre": 0.494,
+    "chroma_post": 0.779,
+    "level_jump_db": 4.48,
+    "phase_rho": 0.001
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.6,
+    "flux_ratio": 1.033,
+    "click_db": -1.56,
+    "spec_jump_excess_db": 0.82
+   },
+   "rendered_seam": {
+    "novelty_short_db": 6.65,
+    "novelty_bar_db": 10.09,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.5,
+     "bar": 1.76
+    }
+   }
+  },
+  {
+   "out_bar": 19,
+   "in_bar": 24,
+   "out_t": 33.092,
+   "in_t": 42.467,
+   "length_s": -9.375,
+   "length_bars": -5,
+   "length_beats": -15,
+   "out_section": "intro_b",
+   "in_section": "arrival",
+   "out_chord": "E-pedal",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 16.8,
+   "grade": "C",
+   "quality": 13.2,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 10.05,
+    "spec_post_short_db": 11.71,
+    "spec_pre_bar_db": 7.33,
+    "spec_post_bar_db": 12.89,
+    "chroma_pre": 0.752,
+    "chroma_post": 0.736,
+    "level_jump_db": 20.98,
+    "phase_rho": -0.158
+   },
+   "seam_test": {
+    "dip_db": 0.01,
+    "bump_db": 0.01,
+    "flux_ratio": 0.854,
+    "click_db": -0.03,
+    "spec_jump_excess_db": 1.58
+   },
+   "rendered_seam": {
+    "novelty_short_db": 8.14,
+    "novelty_bar_db": 11.76,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.56,
+     "bar": 1.64
+    }
+   }
+  },
+  {
+   "out_bar": 24,
+   "in_bar": 46,
+   "out_t": 42.467,
+   "in_t": 83.717,
+   "length_s": -41.25,
+   "length_bars": -22,
+   "length_beats": -66,
+   "out_section": "lift",
+   "in_section": "build_1",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 4.4,
+   "grade": "C",
+   "quality": 16.0,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 12.09,
+    "spec_post_short_db": 11.99,
+    "spec_pre_bar_db": 15.44,
+    "spec_post_bar_db": 11.03,
+    "chroma_pre": 0.685,
+    "chroma_post": 0.852,
+    "level_jump_db": 6.15,
+    "phase_rho": 0.025
+   },
+   "seam_test": {
+    "dip_db": 0.02,
+    "bump_db": 0.0,
+    "flux_ratio": 1.155,
+    "click_db": -1.5,
+    "spec_jump_excess_db": 1.77
+   },
+   "rendered_seam": {
+    "novelty_short_db": 7.36,
+    "novelty_bar_db": 16.5,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.66,
+     "bar": 2.88
+    }
+   }
+  },
+  {
+   "out_bar": 30,
+   "in_bar": 54,
+   "out_t": 53.717,
+   "in_t": 98.717,
+   "length_s": -45.0,
+   "length_bars": -24,
+   "length_beats": -72,
+   "out_section": "arrival",
+   "in_section": "build_2",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 1.9,
+   "grade": "C",
+   "quality": 12.6,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 13.58,
+    "spec_post_short_db": 10.04,
+    "spec_pre_bar_db": 11.12,
+    "spec_post_bar_db": 8.64,
+    "chroma_pre": 0.409,
+    "chroma_post": 0.96,
+    "level_jump_db": 4.61,
+    "phase_rho": 0.075
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.18,
+    "flux_ratio": 1.202,
+    "click_db": -1.92,
+    "spec_jump_excess_db": 0.53
+   },
+   "rendered_seam": {
+    "novelty_short_db": 6.28,
+    "novelty_bar_db": 10.13,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 2.26,
+     "bar": 3.12
+    }
+   }
+  }
+ ],
+ "dramatic_joins": [
+  {
+   "out_bar": 19,
+   "in_bar": 11,
+   "out_t": 33.092,
+   "in_t": 18.717,
+   "length_s": 14.375,
+   "length_bars": 8,
+   "length_beats": 23,
+   "out_section": "intro_b",
+   "in_section": "intro_b",
+   "out_chord": "E-pedal",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 12.3,
+   "grade": "C",
+   "quality": 24.6,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 7.13,
+    "spec_post_short_db": 8.1,
+    "spec_pre_bar_db": 5.09,
+    "spec_post_bar_db": 7.76,
+    "chroma_pre": 0.98,
+    "chroma_post": 0.591,
+    "level_jump_db": 6.59,
+    "phase_rho": 0.232
+   },
+   "seam_test": {
+    "dip_db": 1.1,
+    "bump_db": 0.34,
+    "flux_ratio": 0.729,
+    "click_db": -0.99,
+    "spec_jump_excess_db": -0.23
+   },
+   "rendered_seam": {
+    "novelty_short_db": 6.49,
+    "novelty_bar_db": 5.37,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 1.85,
+     "bar": 1.92
+    }
+   },
+   "caution": "level changes 6.6 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 11,
+   "in_bar": 3,
+   "out_t": 18.717,
+   "in_t": 3.717,
+   "length_s": 15.0,
+   "length_bars": 8,
+   "length_beats": 24,
+   "out_section": "intro_a",
+   "in_section": "intro_a",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 11.8,
+   "grade": "C",
+   "quality": 17.2,
+   "seam_pass": true,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 5.84,
+    "spec_post_short_db": 7.19,
+    "spec_pre_bar_db": 7.54,
+    "spec_post_bar_db": 5.5,
+    "chroma_pre": 0.247,
+    "chroma_post": 0.998,
+    "level_jump_db": 10.66,
+    "phase_rho": 0.105
+   },
+   "seam_test": {
+    "dip_db": 0.05,
+    "bump_db": 0.02,
+    "flux_ratio": 0.85,
+    "click_db": -0.34,
+    "spec_jump_excess_db": 0.5
+   },
+   "rendered_seam": {
+    "novelty_short_db": 4.37,
+    "novelty_bar_db": 4.36,
+    "pct_vs_natural_bar_lines_short": 88.9,
+    "pct_vs_natural_bar_lines_bar": 98.1,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 3.47,
+     "bar": 1.28
+    }
+   },
+   "caution": "level changes 10.7 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 62,
+   "in_bar": 11,
+   "out_t": 113.717,
+   "in_t": 18.717,
+   "length_s": 95.0,
+   "length_bars": 51,
+   "length_beats": 152,
+   "out_section": "build_2",
+   "in_section": "intro_b",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 11.0,
+   "grade": "C",
+   "quality": 27.6,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 30.6,
+    "spec_post_short_db": 30.19,
+    "spec_pre_bar_db": 28.67,
+    "spec_post_bar_db": 27.88,
+    "chroma_pre": 0.983,
+    "chroma_post": 0.89,
+    "level_jump_db": 24.94,
+    "phase_rho": 0.058
+   },
+   "seam_test": {
+    "dip_db": 0.01,
+    "bump_db": 0.0,
+    "flux_ratio": 0.863,
+    "click_db": 0.0,
+    "spec_jump_excess_db": 4.45
+   },
+   "rendered_seam": {
+    "novelty_short_db": 8.28,
+    "novelty_bar_db": 25.55,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 2.37,
+     "bar": 9.12
+    }
+   },
+   "caution": "level changes 24.9 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 65,
+   "in_bar": 11,
+   "out_t": 119.342,
+   "in_t": 18.717,
+   "length_s": 100.625,
+   "length_bars": 54,
+   "length_beats": 161,
+   "out_section": "peak",
+   "in_section": "intro_b",
+   "out_chord": "G (cut)",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 10.7,
+   "grade": "C",
+   "quality": 26.8,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "pre",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 33.05,
+    "spec_post_short_db": null,
+    "spec_pre_bar_db": 30.93,
+    "spec_post_bar_db": null,
+    "chroma_pre": 0.945,
+    "chroma_post": null,
+    "level_jump_db": 26.31,
+    "phase_rho": -0.142
+   },
+   "seam_test": {
+    "dip_db": 0.17,
+    "bump_db": 0.0,
+    "flux_ratio": 0.942,
+    "click_db": -1.67,
+    "spec_jump_excess_db": 4.8
+   },
+   "rendered_seam": {
+    "novelty_short_db": 24.4,
+    "novelty_bar_db": 29.87,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 6.97,
+     "bar": 10.67
+    }
+   },
+   "caution": "level changes 26.3 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 54,
+   "in_bar": 11,
+   "out_t": 98.717,
+   "in_t": 18.717,
+   "length_s": 80.0,
+   "length_bars": 43,
+   "length_beats": 128,
+   "out_section": "build_1",
+   "in_section": "intro_b",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 9.8,
+   "grade": "C",
+   "quality": 24.6,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 27.56,
+    "spec_post_short_db": 27.28,
+    "spec_pre_bar_db": 25.86,
+    "spec_post_bar_db": 25.56,
+    "chroma_pre": 0.94,
+    "chroma_post": 0.888,
+    "level_jump_db": 21.54,
+    "phase_rho": -0.106
+   },
+   "seam_test": {
+    "dip_db": 0.0,
+    "bump_db": 0.0,
+    "flux_ratio": 0.924,
+    "click_db": -0.0,
+    "spec_jump_excess_db": 4.43
+   },
+   "rendered_seam": {
+    "novelty_short_db": 8.27,
+    "novelty_bar_db": 23.45,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 2.36,
+     "bar": 8.38
+    }
+   },
+   "caution": "level changes 21.5 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 46,
+   "in_bar": 11,
+   "out_t": 83.717,
+   "in_t": 18.717,
+   "length_s": 65.0,
+   "length_bars": 35,
+   "length_beats": 104,
+   "out_section": "drive_2",
+   "in_section": "intro_b",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": true,
+   "score": 7.0,
+   "grade": "C",
+   "quality": 17.5,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 25.98,
+    "spec_post_short_db": 26.64,
+    "spec_pre_bar_db": 24.35,
+    "spec_post_bar_db": 24.93,
+    "chroma_pre": 0.632,
+    "chroma_post": 0.993,
+    "level_jump_db": 21.42,
+    "phase_rho": 0.068
+   },
+   "seam_test": {
+    "dip_db": 0.04,
+    "bump_db": 0.0,
+    "flux_ratio": 0.951,
+    "click_db": -2.27,
+    "spec_jump_excess_db": 3.87
+   },
+   "rendered_seam": {
+    "novelty_short_db": 7.73,
+    "novelty_bar_db": 21.93,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 2.21,
+     "bar": 7.83
+    }
+   },
+   "caution": "level changes 21.4 dB at the seam (crosses an intensity step); audible as a drop"
+  },
+  {
+   "out_bar": 62,
+   "in_bar": 3,
+   "out_t": 113.717,
+   "in_t": 3.717,
+   "length_s": 110.0,
+   "length_bars": 59,
+   "length_beats": 176,
+   "out_section": "build_2",
+   "in_section": "intro_a",
+   "out_chord": "F",
+   "in_chord": "F",
+   "harmonic_match": false,
+   "score": 2.8,
+   "grade": "C",
+   "quality": 7.0,
+   "seam_pass": false,
+   "xfade": {
+    "length_s": 0.625,
+    "placement": "center",
+    "law": "equal-power"
+   },
+   "similarity": {
+    "spec_pre_short_db": 33.26,
+    "spec_post_short_db": 33.78,
+    "spec_pre_bar_db": 34.0,
+    "spec_post_bar_db": 31.62,
+    "chroma_pre": 0.189,
+    "chroma_post": 0.872,
+    "level_jump_db": 35.6,
+    "phase_rho": -0.062
+   },
+   "seam_test": {
+    "dip_db": 0.07,
+    "bump_db": 0.0,
+    "flux_ratio": 0.874,
+    "click_db": 0.0,
+    "spec_jump_excess_db": 5.78
+   },
+   "rendered_seam": {
+    "novelty_short_db": 8.36,
+    "novelty_bar_db": 28.77,
+    "pct_vs_natural_bar_lines_short": 100.0,
+    "pct_vs_natural_bar_lines_bar": 100.0,
+    "vs_composer_boundary_at_in_bar": {
+     "short": 6.63,
+     "bar": 8.44
+    }
+   },
+   "caution": "level changes 35.6 dB at the seam (crosses an intensity step); audible as a drop"
+  }
+ ],
+ "scoring": {
+  "quality": "0-100 context similarity of the two sides of the jump: 25% log-mel spectrum 0.4 s around the bar line, 20% log-mel over one bar, 25% chroma (harmony), 15% level match, 15% waveform correlation at the splice (phase continuity)",
+  "seam_test": "test render with crossfades of 40, 156, 312 and 625 ms, centre or pre placement, equal-power or equal-gain; best one kept. Pass = level dip and bump <= 1.5 dB vs both original sides, spectral-flux ratio <= 1.15, no new click above 6 kHz (<= +1 dB), spectral jump across the seam no more than 1.5 dB above the natural change at that bar line",
+  "rendered_seam": "log-mel change across the seam in the rendered file (0.3 s and 1 bar each side), as a percentile of the same change at natural bar lines inside sections of the original. Below 75 means at least a quarter of the composer's own bar lines change the sound more than this seam; below 50 means the seam changes less than a typical bar line.",
+  "score": "0.5 x quality + 0.25 x (100 - pct short) + 0.25 x (100 - pct bar); x0.8 if the seam test fails. Grade A = score >= 65, seam pass and both percentiles <= 75; B = score >= 50 and seam pass; else C."
+ },
+ "natural_bar_line_novelty_db": {
+  "short_median": 2.7315852642059326,
+  "bar_median": 2.397422432899475,
+  "short_p90": 4.4649405002594005,
+  "bar_p90": 4.096513080596924
+ }
+}

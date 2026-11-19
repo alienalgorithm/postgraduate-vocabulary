@@ -1,0 +1,160 @@
+# 动画检查（执行主义加完美主义）：只查片子本身，声音、文字、画面。
+# rules：坏样本必抓、好样本必放（每道检查都真跑一遍），画面文字规矩，作品自己的分镜检查。
+# picture：引擎确定性测试，每个已写好场景的中点和每行字完整显示时出 1080p 静帧，收集引擎 QA，
+#          和 qa/ref/ 参考静帧比 PSNR，拼联系表。说明见 动画工坊/tools/ci/README.md。
+name: anim-check 动画检查
+
+on:
+  push:
+    branches: [claude/article-packages-20261116, main]
+    paths:
+      - '动画工坊/**'
+      - '!动画工坊/渲染请求.json'
+      - '.github/workflows/anim-*.yml'
+  workflow_dispatch:
+    inputs:
+      film:
+        description: 片名（空 = 全部作品）
+        type: string
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: anim-check-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  FILM: ${{ inputs.film }}
+
+jobs:
+  rules:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout: |
+            动画工坊
+            .github
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: 动画工坊/作品/*/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 缓存 playwright 浏览器
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-${{ runner.os }}-${{ hashFiles('动画工坊/作品/*/package-lock.json') }}-shell
+      - name: 选作品
+        run: |
+          if [ -n "$FILM" ]; then echo "FILMS=动画工坊/作品/$FILM" >> "$GITHUB_ENV"
+          else echo "FILMS=$(ls -d 动画工坊/作品/*/ | sed 's|/$||' | tr '\n' ' ')" >> "$GITHUB_ENV"; fi
+      - name: 准备运行器
+        run: |
+          set -e
+          T=动画工坊/tools/ci/setup_runner.sh
+          bash $T . ffmpeg pylibs
+          for F in $FILMS; do bash $T "$F" browser; done
+      - name: 坏样本必抓，好样本必放
+        run: |
+          rc=0
+          for F in $FILMS; do python3 动画工坊/tools/ci/run_samples.py --film "$F" || rc=1; done
+          exit $rc
+      - name: 画面文字规矩
+        if: success() || failure()
+        run: python3 动画工坊/tools/ci/text_rules.py $FILMS
+      - name: 文件里的禁用字样（整个 动画工坊/ 和工作流）
+        if: success() || failure()
+        run: python3 动画工坊/tools/clean_words.py --check 动画工坊 .github/workflows
+      - name: 分镜检查（作品自己的 check_storyboard.py）
+        if: success() || failure()
+        env:
+          MUSIC_KEY: ${{ secrets.MUSIC_KEY }}
+        run: |
+          rc=0
+          for F in $FILMS; do
+            m=$(bash 动画工坊/tools/music/decrypt_music.sh "$F" | tail -n1 | cut -d= -f2)
+            python3 动画工坊/tools/ci/check_story.py "$F" --music "${m:-none}" || rc=1
+            rm -f "$F"/music/score.wav
+          done
+          exit $rc
+
+  picture:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout: |
+            动画工坊
+            .github
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: 动画工坊/作品/*/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 缓存 playwright 浏览器
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-${{ runner.os }}-${{ hashFiles('动画工坊/作品/*/package-lock.json') }}-shell
+      - name: 选作品
+        run: |
+          if [ -n "$FILM" ]; then echo "FILMS=动画工坊/作品/$FILM" >> "$GITHUB_ENV"
+          else echo "FILMS=$(ls -d 动画工坊/作品/*/ | sed 's|/$||' | tr '\n' ' ')" >> "$GITHUB_ENV"; fi
+      - name: 准备运行器
+        run: |
+          set -e
+          bash 动画工坊/tools/ci/setup_runner.sh . pylibs
+          for F in $FILMS; do bash 动画工坊/tools/ci/setup_runner.sh "$F" browser; done
+      - name: 引擎确定性测试（engine/test.js）
+        run: |
+          set +e
+          rc=0
+          for F in $FILMS; do
+            (cd "$F" && node engine/test.js) | tee "$RUNNER_TEMP/test.txt"; r=${PIPESTATUS[0]}
+            grep 'instants x 3' "$RUNNER_TEMP/test.txt" | while read -r l; do echo "::notice title=确定性 $(basename "$F")::$l"; done
+            [ "$r" = 0 ] || { echo "::error title=确定性 $(basename "$F")::test.js 不通过，见日志"; rc=1; }
+          done
+          exit $rc
+      - name: 静帧、引擎 QA、参考图 PSNR、联系表
+        if: success() || failure()
+        run: |
+          rc=0
+          for F in $FILMS; do python3 动画工坊/tools/ci/stills_qa.py "$F" --out "$RUNNER_TEMP/stills/$(basename "$F")" || rc=1; done
+          exit $rc
+      - name: 上传联系表和 QA 结果
+        if: success() || failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: contact-sheet
+          path: |
+            ${{ runner.temp }}/stills/*/contact.jpg
+            ${{ runner.temp }}/stills/*/qa.json
+          retention-days: 14
+          if-no-files-found: ignore
+      - name: 不通过时上传全部静帧
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stills-all
+          path: |
+            ${{ runner.temp }}/stills
+            动画工坊/作品/*/stills/test
+          retention-days: 7
+          if-no-files-found: ignore

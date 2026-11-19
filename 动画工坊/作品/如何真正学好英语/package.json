@@ -1,0 +1,16 @@
+{
+  "name": "how-to-learn-english",
+  "version": "1.0.0",
+  "private": true,
+  "description": "动画工坊作品：引擎 engine/，场景 scenes/，分镜 story/storyboard.json",
+  "scripts": {
+    "still": "node engine/still.js",
+    "render": "node engine/render.js",
+    "test": "node engine/test.js"
+  },
+  "dependencies": {
+    "gsap": "3.13.0",
+    "playwright": "1.63.0",
+    "three": "0.169.0"
+  }
+}

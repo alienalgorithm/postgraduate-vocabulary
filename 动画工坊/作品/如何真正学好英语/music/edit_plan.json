@@ -1,0 +1,642 @@
+{
+ "title": "《如何真正学好英语》配乐剪辑方案：Hans Zimmer《Cornfield Chase》剪辑版",
+ "note": "rebuild_score.py 读这个文件，从原曲 mp3 逐样本重建 music/score.wav。grid 是原曲的小节表（时间以原曲解码到 48 kHz 后的第一个采样为 0），edit 是剪辑（每段原曲小节、每个接口的交叉淡化、段增益、淡入淡出、宏观增益），master 是母带参数，expected 是成品应有的结果。剪辑理由见 edit.md，原曲结构见 analysis.md 和 cc_map.json。",
+ "source": {
+  "name": "Hans Zimmer《Cornfield Chase》（《星际穿越》原声豪华版第 2 轨），用户提供，已获授权",
+  "file": "music/private/source_cornfield_chase.mp3.enc（加密；明文 sha256 见下）",
+  "sha256": "d75138c2814f6733df32226366e4b70b84aff5d77a1706377cb66a10befc354c",
+  "format": "MP3 320 kbps，44.1 kHz，立体声，126.960 秒",
+  "decode": "ffmpeg 在原采样率解码为 float32，soxr VHQ（float32）重采样到 48 kHz，再转 float64"
+ },
+ "grid": {
+  "bpm": 96.0,
+  "meter": "3/4",
+  "beat": 0.625,
+  "bar": 1.875,
+  "beat_offset": -0.033,
+  "note": "第 1 小节强拍在文件开头前 33 ms；第 18 小节只有 2 拍；第 65 小节线 119.342 是原曲的急停，之后是混响尾音。",
+  "tail_chord": "G (tail)",
+  "bars": [
+   {
+    "n": 1,
+    "start": -0.033,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 2,
+    "start": 1.842,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 3,
+    "start": 3.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 4,
+    "start": 5.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 5,
+    "start": 7.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 6,
+    "start": 9.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 7,
+    "start": 11.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 8,
+    "start": 13.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 9,
+    "start": 14.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 10,
+    "start": 16.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 11,
+    "start": 18.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 12,
+    "start": 20.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 13,
+    "start": 22.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 14,
+    "start": 24.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 15,
+    "start": 26.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_b"
+   },
+   {
+    "n": 16,
+    "start": 28.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_b"
+   },
+   {
+    "n": 17,
+    "start": 29.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 18,
+    "start": 31.842,
+    "beats": 2,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 19,
+    "start": 33.092,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 20,
+    "start": 34.967,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 21,
+    "start": 36.842,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 22,
+    "start": 38.717,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 23,
+    "start": 40.592,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 24,
+    "start": 42.467,
+    "beats": 3,
+    "chord": "F",
+    "section": "arrival"
+   },
+   {
+    "n": 25,
+    "start": 44.342,
+    "beats": 3,
+    "chord": "F",
+    "section": "arrival"
+   },
+   {
+    "n": 26,
+    "start": 46.217,
+    "beats": 3,
+    "chord": "G",
+    "section": "arrival"
+   },
+   {
+    "n": 27,
+    "start": 48.092,
+    "beats": 3,
+    "chord": "G",
+    "section": "arrival"
+   },
+   {
+    "n": 28,
+    "start": 49.967,
+    "beats": 3,
+    "chord": "Am",
+    "section": "arrival"
+   },
+   {
+    "n": 29,
+    "start": 51.842,
+    "beats": 3,
+    "chord": "Am",
+    "section": "arrival"
+   },
+   {
+    "n": 30,
+    "start": 53.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "drive_1"
+   },
+   {
+    "n": 31,
+    "start": 55.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "drive_1"
+   },
+   {
+    "n": 32,
+    "start": 57.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 33,
+    "start": 59.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 34,
+    "start": 61.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "drive_1"
+   },
+   {
+    "n": 35,
+    "start": 63.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "drive_1"
+   },
+   {
+    "n": 36,
+    "start": 64.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 37,
+    "start": 66.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 38,
+    "start": 68.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "drive_2"
+   },
+   {
+    "n": 39,
+    "start": 70.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "drive_2"
+   },
+   {
+    "n": 40,
+    "start": 72.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_2"
+   },
+   {
+    "n": 41,
+    "start": 74.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_2"
+   },
+   {
+    "n": 42,
+    "start": 76.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "drive_2"
+   },
+   {
+    "n": 43,
+    "start": 78.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "drive_2"
+   },
+   {
+    "n": 44,
+    "start": 79.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_2"
+   },
+   {
+    "n": 45,
+    "start": 81.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_2"
+   },
+   {
+    "n": 46,
+    "start": 83.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_1"
+   },
+   {
+    "n": 47,
+    "start": 85.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_1"
+   },
+   {
+    "n": 48,
+    "start": 87.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 49,
+    "start": 89.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 50,
+    "start": 91.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_1"
+   },
+   {
+    "n": 51,
+    "start": 93.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_1"
+   },
+   {
+    "n": 52,
+    "start": 94.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 53,
+    "start": 96.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 54,
+    "start": 98.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_2"
+   },
+   {
+    "n": 55,
+    "start": 100.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_2"
+   },
+   {
+    "n": 56,
+    "start": 102.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 57,
+    "start": 104.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 58,
+    "start": 106.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_2"
+   },
+   {
+    "n": 59,
+    "start": 108.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_2"
+   },
+   {
+    "n": 60,
+    "start": 109.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 61,
+    "start": 111.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 62,
+    "start": 113.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "peak"
+   },
+   {
+    "n": 63,
+    "start": 115.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "peak"
+   },
+   {
+    "n": 64,
+    "start": 117.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "peak"
+   },
+   {
+    "n": 65,
+    "start": 119.342,
+    "beats": 0,
+    "chord": null,
+    "section": "music_end"
+   }
+  ]
+ },
+ "edit": {
+  "segments": [
+   {
+    "bars": [
+     1,
+     9
+    ]
+   },
+   {
+    "bars": [
+     5,
+     22
+    ]
+   },
+   {
+    "bars": [
+     20,
+     22
+    ]
+   },
+   {
+    "bars": [
+     21,
+     38
+    ]
+   },
+   {
+    "bars": [
+     46,
+     65
+    ],
+    "tail_bars": 2
+   },
+   {
+    "bars": [
+     11,
+     15
+    ],
+    "gain_db": 7.0
+   },
+   {
+    "bars": [
+     11,
+     19
+    ],
+    "gain_db": 7.0,
+    "env": [
+     [
+      29.967,
+      0.0
+     ],
+     [
+      33.092,
+      -9.0
+     ]
+    ]
+   },
+   {
+    "bars": [
+     3,
+     9
+    ],
+    "gain_db": 7.0
+   },
+   {
+    "bars": [
+     5,
+     13
+    ],
+    "gain_db": 7.0
+   }
+  ],
+  "xf": {
+   "1": {
+    "len": 0.39,
+    "place": "pre",
+    "pre_ms": 10
+   },
+   "2": {
+    "len": 0.04,
+    "place": "pre",
+    "pre_ms": 10
+   },
+   "3": {
+    "len": 0.04,
+    "place": "pre",
+    "pre_ms": 10
+   },
+   "4": {
+    "len": 0.9375,
+    "place": "pre",
+    "pre_ms": 10
+   },
+   "5": {
+    "len": 1.25,
+    "place": "post"
+   },
+   "6": {
+    "len": 0.47,
+    "place": "pre",
+    "pre_ms": 10
+   },
+   "7": {
+    "len": 0.3125,
+    "place": "pre",
+    "pre_ms": 10
+   },
+   "8": {
+    "len": 0.39,
+    "place": "pre",
+    "pre_ms": 10
+   }
+  },
+  "fade_out": {
+   "start_bar": 90,
+   "delay_s": 0.625,
+   "db": -50,
+   "pow": 1.5
+  },
+  "fade_in_ms": 1200,
+  "macro_db": [
+   [
+    0.0,
+    7.0
+   ],
+   [
+    35.592,
+    7.0
+   ],
+   [
+    40.56,
+    4.5
+   ],
+   [
+    40.592,
+    4.5
+   ],
+   [
+    55.55,
+    0.0
+   ]
+  ]
+ },
+ "master": {
+  "target_lufs": -14.0,
+  "ceiling_dbtp": -1.2,
+  "lookahead_ms": 4.0,
+  "release_ms": 100.0,
+  "oversample": 4,
+  "max_iter": 6,
+  "dither": "TPDF",
+  "dither_seed": 20261119,
+  "bits": 24,
+  "sample_rate": 48000
+ },
+ "expected": {
+  "samples": 8128416,
+  "total_s": 169.342,
+  "norm_gain_db": 0.309,
+  "limiter_max_gr_db": -1.315,
+  "integrated_lufs": -14.0,
+  "true_peak_dbtp": -1.2,
+  "lra_lu": 18.4,
+  "score_wav_sha256": "c98a3e1de1d579e29d5891862106ce54b68c4e25820510935caf72d2e7f5c36a"
+ }
+}

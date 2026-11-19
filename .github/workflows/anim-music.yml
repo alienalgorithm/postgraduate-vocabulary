@@ -1,0 +1,68 @@
+# 配乐检查（虹吸：音乐的重活也放到 GitHub 上跑）。只查声音本身，产物只有报告，绝不上传音频。
+# 自测（坏样本必抓）-> 有 MUSIC_KEY 时从加密原曲重建 score.wav 并和加密成品逐样本对比、check_score、测响度
+# -> CC0 曲子 analyze_track 冒烟测试 -> 备用配乐 check_score。说明见 动画工坊/tools/ci/README.md。
+name: anim-music 配乐检查
+
+on:
+  push:
+    branches: [claude/article-packages-20261116, main]
+    paths:
+      - '动画工坊/tools/music/**'
+      - '动画工坊/作品/*/music/**'
+      - '.github/workflows/anim-music.yml'
+  workflow_dispatch:
+    inputs:
+      film:
+        description: 片名（动画工坊/作品/ 下的目录名）
+        type: string
+        default: 如何真正学好英语
+
+permissions:
+  contents: read
+
+concurrency:
+  group: anim-music-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  music:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    env:
+      F: 动画工坊/作品/${{ inputs.film || '如何真正学好英语' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout: |
+            动画工坊
+            .github
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: 动画工坊/tools/music/requirements.txt
+      - name: 准备 ffmpeg 和配乐工具依赖（版本固定在 requirements.txt）
+        run: |
+          bash 动画工坊/tools/ci/setup_runner.sh "$F" ffmpeg
+          python3 -m pip install -q --disable-pip-version-check -r 动画工坊/tools/music/requirements.txt
+      - name: 自测、重建对比、check_score、CC0 冒烟测试
+        env:
+          MUSIC_KEY: ${{ secrets.MUSIC_KEY }}
+        run: |
+          [ -n "$MUSIC_KEY" ] || unset MUSIC_KEY
+          bash 动画工坊/tools/ci/music_ci.sh "$F" "$RUNNER_TEMP/music"
+      - name: 上传报告（不含任何音频）
+        if: success() || failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: music-report
+          path: |
+            ${{ runner.temp }}/music
+            !${{ runner.temp }}/music/**/*.wav
+            !${{ runner.temp }}/music/**/*.mp3
+            !${{ runner.temp }}/music/**/*.flac
+          retention-days: 14
+          if-no-files-found: ignore

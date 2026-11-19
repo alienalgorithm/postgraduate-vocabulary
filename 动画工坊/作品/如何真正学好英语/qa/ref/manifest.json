@@ -1,0 +1,49 @@
+{
+ "note": "参考静帧，stills_qa.py 用；由 update_refs.sh 生成，不要手改",
+ "psnr_min": 40.0,
+ "tile_psnr_min": 28.0,
+ "refs": [
+  {
+   "file": "s01_t_5.609.png",
+   "scene": "s01",
+   "t": 5.609,
+   "scale": 1,
+   "fingerprint": "8a93f5e7686dd690"
+  },
+  {
+   "file": "s02_t_14.855.png",
+   "scene": "s02",
+   "t": 14.855,
+   "scale": 1,
+   "fingerprint": "0b113f6f0d7f830f"
+  },
+  {
+   "file": "s03_t_28.948.png",
+   "scene": "s03",
+   "t": 28.948,
+   "scale": 1,
+   "fingerprint": "1d69fd67fed34bd4"
+  },
+  {
+   "file": "s04_t_39.304.png",
+   "scene": "s04",
+   "t": 39.304,
+   "scale": 1,
+   "fingerprint": "4b2af21d570c9b1c"
+  },
+  {
+   "file": "s04_t_45.592.png",
+   "scene": "s04",
+   "t": 45.592,
+   "scale": 1,
+   "fingerprint": "4b2af21d570c9b1c"
+  },
+  {
+   "file": "s05_t_64.967.png",
+   "scene": "s05",
+   "t": 64.967,
+   "scale": 1,
+   "fingerprint": "5f627ffd83216f37"
+  }
+ ]
+}

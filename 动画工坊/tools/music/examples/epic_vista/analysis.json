@@ -1,0 +1,1180 @@
+{
+ "title": "Epic Vista（John Bartmann，CC0）",
+ "file": "John_Bartmann__Epic_Vista.mp3",
+ "sha256": "661660444ace059869b9c19f0fc466c92b3cebb18112506bf7a906f4f4dc957a",
+ "duration": 167.577,
+ "integrated_lufs": -12.4,
+ "bpm": 94.035,
+ "bpm_tracker": 93.96,
+ "tempo_candidates": [
+  {
+   "bpm": 94.035,
+   "onset_fit": 6.178,
+   "score": 6.022
+  },
+  {
+   "bpm": 62.637,
+   "onset_fit": 6.683,
+   "score": 4.805
+  },
+  {
+   "bpm": 123.789,
+   "onset_fit": 2.8,
+   "score": 2.76
+  },
+  {
+   "bpm": 186.384,
+   "onset_fit": 2.777,
+   "score": 2.079
+  },
+  {
+   "bpm": 208.751,
+   "onset_fit": 2.471,
+   "score": 1.612
+  }
+ ],
+ "steady_tempo": true,
+ "grid_residual_ms": 41.5,
+ "beat": 0.6381,
+ "meter": "4/4",
+ "meter_scores": {
+  "2": 1.59,
+  "3": 1.71,
+  "4": 1.93
+ },
+ "beats_per_bar": 4,
+ "beat_offset": 0.399,
+ "beats": [
+  0.399,
+  1.037,
+  1.675,
+  2.313,
+  2.951,
+  3.589,
+  4.227,
+  4.865,
+  5.503,
+  6.141,
+  6.779,
+  7.417,
+  8.055,
+  8.694,
+  9.332,
+  9.97,
+  10.608,
+  11.246,
+  11.884,
+  12.522,
+  13.16,
+  13.798,
+  14.436,
+  15.074,
+  15.712,
+  16.35,
+  16.988,
+  17.626,
+  18.264,
+  18.902,
+  19.541,
+  20.179,
+  20.817,
+  21.455,
+  22.093,
+  22.731,
+  23.369,
+  24.007,
+  24.645,
+  25.283,
+  25.921,
+  26.559,
+  27.197,
+  27.835,
+  28.473,
+  29.111,
+  29.749,
+  30.388,
+  31.026,
+  31.664,
+  32.302,
+  32.94,
+  33.578,
+  34.216,
+  34.854,
+  35.492,
+  36.13,
+  36.768,
+  37.406,
+  38.044,
+  38.682,
+  39.32,
+  39.958,
+  40.596,
+  41.235,
+  41.873,
+  42.511,
+  43.149,
+  43.787,
+  44.425,
+  45.063,
+  45.701,
+  46.339,
+  46.977,
+  47.615,
+  48.253,
+  48.891,
+  49.529,
+  50.167,
+  50.805,
+  51.443,
+  52.082,
+  52.72,
+  53.358,
+  53.996,
+  54.634,
+  55.272,
+  55.91,
+  56.548,
+  57.186,
+  57.824,
+  58.462,
+  59.1,
+  59.738,
+  60.376,
+  61.014,
+  61.652,
+  62.29,
+  62.929,
+  63.567,
+  64.205,
+  64.843,
+  65.481,
+  66.119,
+  66.757,
+  67.395,
+  68.033,
+  68.671,
+  69.309,
+  69.947,
+  70.585,
+  71.223,
+  71.861,
+  72.499,
+  73.137,
+  73.776,
+  74.414,
+  75.052,
+  75.69,
+  76.328,
+  76.966,
+  77.604,
+  78.242,
+  78.88,
+  79.518,
+  80.156,
+  80.794,
+  81.432,
+  82.07,
+  82.708,
+  83.346,
+  83.984,
+  84.623,
+  85.261,
+  85.899,
+  86.537,
+  87.175,
+  87.813,
+  88.451,
+  89.089,
+  89.727,
+  90.365,
+  91.003,
+  91.641,
+  92.279,
+  92.917,
+  93.555,
+  94.193,
+  94.831,
+  95.469,
+  96.108,
+  96.746,
+  97.384,
+  98.022,
+  98.66,
+  99.298,
+  99.936,
+  100.574,
+  101.212,
+  101.85,
+  102.488,
+  103.126,
+  103.764,
+  104.402,
+  105.04,
+  105.678,
+  106.316,
+  106.955,
+  107.593,
+  108.231,
+  108.869,
+  109.507,
+  110.145,
+  110.783,
+  111.421,
+  112.059,
+  112.697,
+  113.335,
+  113.973,
+  114.611,
+  115.249,
+  115.887,
+  116.525,
+  117.163,
+  117.802,
+  118.44,
+  119.078,
+  119.716,
+  120.354,
+  120.992,
+  121.63,
+  122.268,
+  122.906,
+  123.544,
+  124.182,
+  124.82,
+  125.458,
+  126.096,
+  126.734,
+  127.372,
+  128.01,
+  128.649,
+  129.287,
+  129.925,
+  130.563,
+  131.201,
+  131.839,
+  132.477,
+  133.115,
+  133.753,
+  134.391,
+  135.029,
+  135.667,
+  136.305,
+  136.943,
+  137.581,
+  138.219,
+  138.857,
+  139.496,
+  140.134,
+  140.772,
+  141.41,
+  142.048,
+  142.686,
+  143.324,
+  143.962,
+  144.6,
+  145.238,
+  145.876,
+  146.514,
+  147.152,
+  147.79,
+  148.428,
+  149.066,
+  149.704,
+  150.343,
+  150.981,
+  151.619,
+  152.257,
+  152.895,
+  153.533,
+  154.171,
+  154.809,
+  155.447,
+  156.085,
+  156.723,
+  157.361,
+  157.999,
+  158.637,
+  159.275,
+  159.913,
+  160.551,
+  161.19,
+  161.828,
+  162.466,
+  163.104,
+  163.742,
+  164.38,
+  165.018,
+  165.656,
+  166.294,
+  166.932,
+  167.57
+ ],
+ "bars": [
+  {
+   "n": 1,
+   "start": 0.399,
+   "beats": 4,
+   "lufs": -13.4,
+   "chord": "G#",
+   "novelty": 0.0
+  },
+  {
+   "n": 2,
+   "start": 2.951,
+   "beats": 4,
+   "lufs": -11.8,
+   "chord": "D#",
+   "novelty": 0.86
+  },
+  {
+   "n": 3,
+   "start": 5.503,
+   "beats": 4,
+   "lufs": -14.5,
+   "chord": "C",
+   "novelty": 0.96
+  },
+  {
+   "n": 4,
+   "start": 8.055,
+   "beats": 4,
+   "lufs": -14.5,
+   "chord": "C",
+   "novelty": 0.28
+  },
+  {
+   "n": 5,
+   "start": 10.608,
+   "beats": 4,
+   "lufs": -13.2,
+   "chord": "G#",
+   "novelty": 1.01
+  },
+  {
+   "n": 6,
+   "start": 13.16,
+   "beats": 4,
+   "lufs": -11.7,
+   "chord": "D#",
+   "novelty": 0.81
+  },
+  {
+   "n": 7,
+   "start": 15.712,
+   "beats": 4,
+   "lufs": -14.4,
+   "chord": "C",
+   "novelty": 0.92
+  },
+  {
+   "n": 8,
+   "start": 18.264,
+   "beats": 4,
+   "lufs": -13.5,
+   "chord": "C",
+   "novelty": 0.28
+  },
+  {
+   "n": 9,
+   "start": 20.817,
+   "beats": 4,
+   "lufs": -11.4,
+   "chord": "D#",
+   "novelty": 1.16
+  },
+  {
+   "n": 10,
+   "start": 23.369,
+   "beats": 4,
+   "lufs": -10.8,
+   "chord": "D#",
+   "novelty": 0.68
+  },
+  {
+   "n": 11,
+   "start": 25.921,
+   "beats": 4,
+   "lufs": -12.6,
+   "chord": "E",
+   "novelty": 0.8
+  },
+  {
+   "n": 12,
+   "start": 28.473,
+   "beats": 4,
+   "lufs": -13.1,
+   "chord": "C",
+   "novelty": 0.72
+  },
+  {
+   "n": 13,
+   "start": 31.026,
+   "beats": 4,
+   "lufs": -11.3,
+   "chord": "D#",
+   "novelty": 0.99
+  },
+  {
+   "n": 14,
+   "start": 33.578,
+   "beats": 4,
+   "lufs": -10.5,
+   "chord": "D#",
+   "novelty": 0.64
+  },
+  {
+   "n": 15,
+   "start": 36.13,
+   "beats": 4,
+   "lufs": -12.3,
+   "chord": "E",
+   "novelty": 0.81
+  },
+  {
+   "n": 16,
+   "start": 38.682,
+   "beats": 4,
+   "lufs": -12.8,
+   "chord": "C",
+   "novelty": 0.75
+  },
+  {
+   "n": 17,
+   "start": 41.235,
+   "beats": 4,
+   "lufs": -11.4,
+   "chord": "D#",
+   "novelty": 0.96
+  },
+  {
+   "n": 18,
+   "start": 43.787,
+   "beats": 4,
+   "lufs": -10.5,
+   "chord": "D#",
+   "novelty": 0.64
+  },
+  {
+   "n": 19,
+   "start": 46.339,
+   "beats": 4,
+   "lufs": -12.5,
+   "chord": "D#",
+   "novelty": 0.65
+  },
+  {
+   "n": 20,
+   "start": 48.891,
+   "beats": 4,
+   "lufs": -13.1,
+   "chord": "C",
+   "novelty": 0.78
+  },
+  {
+   "n": 21,
+   "start": 51.443,
+   "beats": 4,
+   "lufs": -11.4,
+   "chord": "D#",
+   "novelty": 1.01
+  },
+  {
+   "n": 22,
+   "start": 53.996,
+   "beats": 4,
+   "lufs": -10.6,
+   "chord": "D#",
+   "novelty": 0.67
+  },
+  {
+   "n": 23,
+   "start": 56.548,
+   "beats": 4,
+   "lufs": -15.8,
+   "chord": "G",
+   "novelty": 1.08
+  },
+  {
+   "n": 24,
+   "start": 59.1,
+   "beats": 4,
+   "lufs": -15.7,
+   "chord": "G",
+   "novelty": 0.72
+  },
+  {
+   "n": 25,
+   "start": 61.652,
+   "beats": 4,
+   "lufs": -18.9,
+   "chord": "G",
+   "novelty": 0.57
+  },
+  {
+   "n": 26,
+   "start": 64.205,
+   "beats": 4,
+   "lufs": -24.5,
+   "chord": "G",
+   "novelty": 0.6
+  },
+  {
+   "n": 27,
+   "start": 66.757,
+   "beats": 4,
+   "lufs": -26.4,
+   "chord": "C",
+   "novelty": 0.55
+  },
+  {
+   "n": 28,
+   "start": 69.309,
+   "beats": 4,
+   "lufs": -24.0,
+   "chord": "C",
+   "novelty": 0.86
+  },
+  {
+   "n": 29,
+   "start": 71.861,
+   "beats": 4,
+   "lufs": -12.5,
+   "chord": "F",
+   "novelty": 1.24
+  },
+  {
+   "n": 30,
+   "start": 74.414,
+   "beats": 4,
+   "lufs": -11.7,
+   "chord": "D#",
+   "novelty": 0.38
+  },
+  {
+   "n": 31,
+   "start": 76.966,
+   "beats": 4,
+   "lufs": -10.0,
+   "chord": "G#",
+   "novelty": 0.68
+  },
+  {
+   "n": 32,
+   "start": 79.518,
+   "beats": 4,
+   "lufs": -12.9,
+   "chord": "A#",
+   "novelty": 0.95
+  },
+  {
+   "n": 33,
+   "start": 82.07,
+   "beats": 4,
+   "lufs": -12.4,
+   "chord": "C#",
+   "novelty": 0.39
+  },
+  {
+   "n": 34,
+   "start": 84.623,
+   "beats": 4,
+   "lufs": -12.5,
+   "chord": "C#",
+   "novelty": 0.59
+  },
+  {
+   "n": 35,
+   "start": 87.175,
+   "beats": 4,
+   "lufs": -12.2,
+   "chord": "F",
+   "novelty": 0.91
+  },
+  {
+   "n": 36,
+   "start": 89.727,
+   "beats": 4,
+   "lufs": -11.8,
+   "chord": "D#",
+   "novelty": 0.36
+  },
+  {
+   "n": 37,
+   "start": 92.279,
+   "beats": 4,
+   "lufs": -13.1,
+   "chord": "G#",
+   "novelty": 0.64
+  },
+  {
+   "n": 38,
+   "start": 94.831,
+   "beats": 4,
+   "lufs": -12.2,
+   "chord": "A#",
+   "novelty": 0.92
+  },
+  {
+   "n": 39,
+   "start": 97.384,
+   "beats": 4,
+   "lufs": -10.2,
+   "chord": "C#",
+   "novelty": 0.39
+  },
+  {
+   "n": 40,
+   "start": 99.936,
+   "beats": 4,
+   "lufs": -12.7,
+   "chord": "C#",
+   "novelty": 0.57
+  },
+  {
+   "n": 41,
+   "start": 102.488,
+   "beats": 4,
+   "lufs": -11.5,
+   "chord": "F",
+   "novelty": 0.85
+  },
+  {
+   "n": 42,
+   "start": 105.04,
+   "beats": 4,
+   "lufs": -11.4,
+   "chord": "D#",
+   "novelty": 0.35
+  },
+  {
+   "n": 43,
+   "start": 107.593,
+   "beats": 4,
+   "lufs": -11.1,
+   "chord": "G#",
+   "novelty": 0.69
+  },
+  {
+   "n": 44,
+   "start": 110.145,
+   "beats": 4,
+   "lufs": -11.4,
+   "chord": "A#",
+   "novelty": 0.96
+  },
+  {
+   "n": 45,
+   "start": 112.697,
+   "beats": 4,
+   "lufs": -10.8,
+   "chord": "C#",
+   "novelty": 0.44
+  },
+  {
+   "n": 46,
+   "start": 115.249,
+   "beats": 4,
+   "lufs": -9.9,
+   "chord": "C#",
+   "novelty": 0.65
+  },
+  {
+   "n": 47,
+   "start": 117.802,
+   "beats": 4,
+   "lufs": -13.8,
+   "chord": "D#",
+   "novelty": 0.86
+  },
+  {
+   "n": 48,
+   "start": 120.354,
+   "beats": 4,
+   "lufs": -12.7,
+   "chord": "D#",
+   "novelty": 0.58
+  },
+  {
+   "n": 49,
+   "start": 122.906,
+   "beats": 4,
+   "lufs": -15.8,
+   "chord": "C#",
+   "novelty": 0.75
+  },
+  {
+   "n": 50,
+   "start": 125.458,
+   "beats": 4,
+   "lufs": -13.8,
+   "chord": "C#",
+   "novelty": 0.64
+  },
+  {
+   "n": 51,
+   "start": 128.01,
+   "beats": 4,
+   "lufs": -12.5,
+   "chord": "D#",
+   "novelty": 0.9
+  },
+  {
+   "n": 52,
+   "start": 130.563,
+   "beats": 4,
+   "lufs": -14.7,
+   "chord": "C",
+   "novelty": 0.78
+  },
+  {
+   "n": 53,
+   "start": 133.115,
+   "beats": 4,
+   "lufs": -13.8,
+   "chord": "C#",
+   "novelty": 1.07
+  },
+  {
+   "n": 54,
+   "start": 135.667,
+   "beats": 4,
+   "lufs": -12.7,
+   "chord": "D#",
+   "novelty": 0.76
+  },
+  {
+   "n": 55,
+   "start": 138.219,
+   "beats": 4,
+   "lufs": -15.8,
+   "chord": "C#",
+   "novelty": 0.75
+  },
+  {
+   "n": 56,
+   "start": 140.772,
+   "beats": 4,
+   "lufs": -13.8,
+   "chord": "C#",
+   "novelty": 0.65
+  },
+  {
+   "n": 57,
+   "start": 143.324,
+   "beats": 4,
+   "lufs": -13.5,
+   "chord": "D#",
+   "novelty": 0.85
+  },
+  {
+   "n": 58,
+   "start": 145.876,
+   "beats": 4,
+   "lufs": -34.3,
+   "chord": "C",
+   "novelty": 1.15
+  },
+  {
+   "n": 59,
+   "start": 148.428,
+   "beats": 4,
+   "lufs": -35.5,
+   "chord": "C",
+   "novelty": 0.15
+  },
+  {
+   "n": 60,
+   "start": 150.981,
+   "beats": 4,
+   "lufs": -37.3,
+   "chord": "F",
+   "novelty": 0.16
+  },
+  {
+   "n": 61,
+   "start": 153.533,
+   "beats": 4,
+   "lufs": -33.6,
+   "chord": "F",
+   "novelty": 0.09
+  },
+  {
+   "n": 62,
+   "start": 156.085,
+   "beats": 4,
+   "lufs": -40.8,
+   "chord": "G#",
+   "novelty": 0.48
+  },
+  {
+   "n": 63,
+   "start": 158.637,
+   "beats": 4,
+   "lufs": -63.2,
+   "chord": "G#",
+   "novelty": 0.65
+  },
+  {
+   "n": 64,
+   "start": 161.19,
+   "beats": 4,
+   "lufs": -68.5,
+   "chord": "G#",
+   "novelty": 0.38
+  },
+  {
+   "n": 65,
+   "start": 163.742,
+   "beats": 4,
+   "lufs": -87.0,
+   "chord": "C",
+   "novelty": 0.45
+  },
+  {
+   "n": 66,
+   "start": 166.294,
+   "beats": 3,
+   "lufs": -152.4,
+   "chord": "F",
+   "novelty": 0.71
+  }
+ ],
+ "irregular_bars": [],
+ "phase_hints": [
+  [
+   61.7,
+   69.3
+  ],
+  [
+   158.6,
+   163.7
+  ]
+ ],
+ "sections": [
+  {
+   "name": "S1",
+   "bars": [
+    1,
+    8
+   ],
+   "start": 0.0,
+   "end": 20.817,
+   "lufs": -13.3
+  },
+  {
+   "name": "S2",
+   "bars": [
+    9,
+    22
+   ],
+   "start": 20.817,
+   "end": 56.548,
+   "lufs": -11.6
+  },
+  {
+   "name": "S3",
+   "bars": [
+    23,
+    25
+   ],
+   "start": 56.548,
+   "end": 64.205,
+   "lufs": -16.6
+  },
+  {
+   "name": "S4",
+   "bars": [
+    26,
+    28
+   ],
+   "start": 64.205,
+   "end": 71.861,
+   "lufs": -24.8
+  },
+  {
+   "name": "S5",
+   "bars": [
+    29,
+    46
+   ],
+   "start": 71.861,
+   "end": 117.802,
+   "lufs": -11.6
+  },
+  {
+   "name": "S6",
+   "bars": [
+    47,
+    57
+   ],
+   "start": 117.802,
+   "end": 145.876,
+   "lufs": -13.8
+  },
+  {
+   "name": "S7",
+   "bars": [
+    58,
+    62
+   ],
+   "start": 145.876,
+   "end": 158.637,
+   "lufs": -35.7
+  },
+  {
+   "name": "S8",
+   "bars": [
+    63,
+    66
+   ],
+   "start": 158.637,
+   "end": 167.577,
+   "lufs": -67.5
+  }
+ ],
+ "climax": 115.249,
+ "climax_peak_3s": 116.22,
+ "burst": 71.861,
+ "burst_rise_db": 21.6,
+ "stops": [
+  144.7
+ ],
+ "key_candidates": [
+  {
+   "key": "G# 大调",
+   "corr": 0.82
+  },
+  {
+   "key": "F 小调",
+   "corr": 0.75
+  },
+  {
+   "key": "C 小调",
+   "corr": 0.68
+  }
+ ],
+ "loops": [
+  {
+   "out_line_bar": 56,
+   "in_line_bar": 50,
+   "out_t": 140.772,
+   "in_t": 125.458,
+   "length_bars": 6,
+   "length_s": 15.314,
+   "similarity": 0.999,
+   "level_diff_db": 0.0,
+   "score": 0.999
+  },
+  {
+   "out_line_bar": 21,
+   "in_line_bar": 13,
+   "out_t": 51.443,
+   "in_t": 31.026,
+   "length_bars": 8,
+   "length_s": 20.417,
+   "similarity": 0.993,
+   "level_diff_db": 0.1,
+   "score": 0.988
+  },
+  {
+   "out_line_bar": 7,
+   "in_line_bar": 3,
+   "out_t": 15.712,
+   "in_t": 5.503,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.988,
+   "level_diff_db": 0.2,
+   "score": 0.978
+  },
+  {
+   "out_line_bar": 6,
+   "in_line_bar": 2,
+   "out_t": 13.16,
+   "in_t": 2.951,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.982,
+   "level_diff_db": 0.3,
+   "score": 0.967
+  },
+  {
+   "out_line_bar": 20,
+   "in_line_bar": 12,
+   "out_t": 48.891,
+   "in_t": 28.473,
+   "length_bars": 8,
+   "length_s": 20.418,
+   "similarity": 0.966,
+   "level_diff_db": 0.1,
+   "score": 0.961
+  },
+  {
+   "out_line_bar": 36,
+   "in_line_bar": 30,
+   "out_t": 89.727,
+   "in_t": 74.414,
+   "length_bars": 6,
+   "length_s": 15.313,
+   "similarity": 0.97,
+   "level_diff_db": 0.4,
+   "score": 0.95
+  },
+  {
+   "out_line_bar": 13,
+   "in_line_bar": 9,
+   "out_t": 31.026,
+   "in_t": 20.817,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.974,
+   "level_diff_db": 0.5,
+   "score": 0.949
+  },
+  {
+   "out_line_bar": 21,
+   "in_line_bar": 9,
+   "out_t": 51.443,
+   "in_t": 20.817,
+   "length_bars": 12,
+   "length_s": 30.626,
+   "similarity": 0.966,
+   "level_diff_db": 0.4,
+   "score": 0.946
+  },
+  {
+   "out_line_bar": 18,
+   "in_line_bar": 10,
+   "out_t": 43.787,
+   "in_t": 23.369,
+   "length_bars": 8,
+   "length_s": 20.418,
+   "similarity": 0.958,
+   "level_diff_db": 0.3,
+   "score": 0.943
+  },
+  {
+   "out_line_bar": 17,
+   "in_line_bar": 13,
+   "out_t": 41.235,
+   "in_t": 31.026,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.963,
+   "level_diff_db": 0.4,
+   "score": 0.943
+  }
+ ],
+ "skips": [
+  {
+   "out_line_bar": 50,
+   "in_line_bar": 56,
+   "out_t": 125.458,
+   "in_t": 140.772,
+   "length_bars": 6,
+   "length_s": 15.314,
+   "similarity": 0.999,
+   "level_diff_db": 0.0,
+   "score": 0.999
+  },
+  {
+   "out_line_bar": 13,
+   "in_line_bar": 21,
+   "out_t": 31.026,
+   "in_t": 51.443,
+   "length_bars": 8,
+   "length_s": 20.417,
+   "similarity": 0.993,
+   "level_diff_db": 0.1,
+   "score": 0.988
+  },
+  {
+   "out_line_bar": 3,
+   "in_line_bar": 7,
+   "out_t": 5.503,
+   "in_t": 15.712,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.988,
+   "level_diff_db": 0.2,
+   "score": 0.978
+  },
+  {
+   "out_line_bar": 2,
+   "in_line_bar": 6,
+   "out_t": 2.951,
+   "in_t": 13.16,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.982,
+   "level_diff_db": 0.3,
+   "score": 0.967
+  },
+  {
+   "out_line_bar": 12,
+   "in_line_bar": 20,
+   "out_t": 28.473,
+   "in_t": 48.891,
+   "length_bars": 8,
+   "length_s": 20.418,
+   "similarity": 0.966,
+   "level_diff_db": 0.1,
+   "score": 0.961
+  },
+  {
+   "out_line_bar": 30,
+   "in_line_bar": 36,
+   "out_t": 74.414,
+   "in_t": 89.727,
+   "length_bars": 6,
+   "length_s": 15.313,
+   "similarity": 0.97,
+   "level_diff_db": 0.4,
+   "score": 0.95
+  },
+  {
+   "out_line_bar": 9,
+   "in_line_bar": 13,
+   "out_t": 20.817,
+   "in_t": 31.026,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.974,
+   "level_diff_db": 0.5,
+   "score": 0.949
+  },
+  {
+   "out_line_bar": 9,
+   "in_line_bar": 21,
+   "out_t": 20.817,
+   "in_t": 51.443,
+   "length_bars": 12,
+   "length_s": 30.626,
+   "similarity": 0.966,
+   "level_diff_db": 0.4,
+   "score": 0.946
+  },
+  {
+   "out_line_bar": 10,
+   "in_line_bar": 18,
+   "out_t": 23.369,
+   "in_t": 43.787,
+   "length_bars": 8,
+   "length_s": 20.418,
+   "similarity": 0.958,
+   "level_diff_db": 0.3,
+   "score": 0.943
+  },
+  {
+   "out_line_bar": 13,
+   "in_line_bar": 17,
+   "out_t": 31.026,
+   "in_t": 41.235,
+   "length_bars": 4,
+   "length_s": 10.209,
+   "similarity": 0.963,
+   "level_diff_db": 0.4,
+   "score": 0.943
+  }
+ ]
+}

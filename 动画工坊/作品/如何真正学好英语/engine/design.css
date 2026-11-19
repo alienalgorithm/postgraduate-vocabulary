@@ -1,0 +1,120 @@
+/* Design system for the music-only film. Layout in 1920x1080 CSS px; rendered at deviceScaleFactor 2 for 4K.
+ * Colours are CSS variables; index.html/engine.js override them from storyboard.palette (key -> --key). */
+:root {
+  --bg: #07080d;       /* deepest background */
+  --bg2: #131a2e;      /* glow of the background gradient */
+  --ink: #f5efe4;      /* main text */
+  --dim: #a4adc0;      /* secondary text, sources */
+  --accent: #ffb547;   /* warm key colour (gold) */
+  --accent2: #ff6a3d;  /* hot accent (orange-red) */
+  --cool: #5ec8ff;     /* cool accent (cyan) */
+  --hot: #ff3d6e;      /* alarm / contrast */
+  --line: rgba(245, 239, 228, .22);
+  --sans: 'Noto Sans SC', sans-serif;
+  --serif-cn: 'Noto Serif SC', 'Noto Sans SC', serif;
+  --serif-en: 'Source Serif 4 Display', 'Noto Serif SC', serif;
+}
+
+/* ---------- determinism: nothing may animate on its own ---------- */
+*, *::before, *::after { animation: none !important; transition: none !important; caret-color: transparent; box-sizing: border-box; }
+
+html, body { margin: 0; padding: 0; background: #000; overflow: hidden; }
+body { width: 1920px; height: 1080px; }
+#stage {
+  position: relative; width: 1920px; height: 1080px; overflow: hidden; background: var(--bg);
+  transform-origin: 0 0; color: var(--ink); font-family: var(--sans); font-weight: 500;
+  -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; font-kerning: normal;
+}
+
+/* div.scene = engine-owned opaque full-frame wrapper (transitions set its opacity/mask/filter/transform);
+   div.scene-root = the author's root inside it (free to transform for camera moves). */
+.scene {
+  position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; overflow: hidden; contain: strict;
+  background: radial-gradient(ellipse 70% 60% at 50% 42%, var(--bg2) 0%, var(--bg) 72%);
+}
+.scene-root { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; transform-origin: 960px 540px; }
+.scene.bare { background: var(--bg); }
+
+/* ---------- layout helpers ---------- */
+.abs { position: absolute; white-space: pre; }
+.fill { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; }
+.center-stage { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+.corner-br { position: absolute; right: 64px; bottom: 52px; text-align: right; }
+.corner-bl { position: absolute; left: 64px; bottom: 52px; }
+.corner-tl { position: absolute; left: 64px; top: 52px; }
+.corner-tr { position: absolute; right: 64px; top: 52px; text-align: right; }
+.fullsvg { position: absolute; left: 0; top: 0; overflow: visible; }
+.fullcanvas { position: absolute; left: 0; top: 0; }
+.layer { transform-origin: 960px 540px; }
+.layer-canvas, .layer-gl { pointer-events: none; }
+.img { display: block; }
+.rays { pointer-events: none; transform-origin: 50% 50%; }
+.tw-cursor { display: inline-block; margin-left: .08em; color: var(--accent); }
+
+/* ---------- typography (all sizes >= 40px; headlines >= 72px) ---------- */
+.t-mega     { font-family: var(--sans); font-weight: 900; font-size: 220px; line-height: 1.05; letter-spacing: .02em; }
+.t-headline { font-family: var(--sans); font-weight: 900; font-size: 120px; line-height: 1.16; letter-spacing: .03em; }
+.t-title    { font-family: var(--sans); font-weight: 900; font-size: 88px;  line-height: 1.2;  letter-spacing: .04em; }
+.t-line     { font-family: var(--sans); font-weight: 700; font-size: 60px;  line-height: 1.42; letter-spacing: .05em; }
+.t-body     { font-family: var(--sans); font-weight: 500; font-size: 48px;  line-height: 1.5;  letter-spacing: .04em; }
+.t-small    { font-family: var(--sans); font-weight: 500; font-size: 40px;  line-height: 1.4;  letter-spacing: .12em; color: var(--dim); }
+.t-label    { font-family: var(--sans); font-weight: 700; font-size: 40px;  line-height: 1.3;  letter-spacing: .32em; color: var(--accent); text-transform: uppercase; }
+.t-serif    { font-family: var(--serif-cn); font-weight: 900; font-size: 112px; line-height: 1.2; letter-spacing: .04em; }
+.t-serif-l  { font-family: var(--serif-cn); font-weight: 600; font-size: 60px;  line-height: 1.45; letter-spacing: .05em; }
+.t-en       { font-family: var(--serif-en); font-style: italic; font-weight: 400; font-size: 96px; line-height: 1.15; letter-spacing: .005em; }
+.t-en-roman { font-family: var(--serif-en); font-style: normal; font-weight: 400; font-size: 96px; line-height: 1.15; }
+.t-source   { font-family: var(--serif-en); font-style: italic; font-weight: 400; font-size: 40px; line-height: 1.3; color: var(--dim); letter-spacing: .02em; }
+.palt { font-feature-settings: "palt" 1; }
+.tnum { font-variant-numeric: tabular-nums; font-feature-settings: "tnum" 1; }
+
+/* colours */
+.ink { color: var(--ink); } .dim { color: var(--dim); } .accent { color: var(--accent); }
+.accent2 { color: var(--accent2); } .cool { color: var(--cool); } .hot { color: var(--hot); }
+
+/* ---------- glow and gradient text ---------- */
+.glow      { text-shadow: 0 0 22px color-mix(in srgb, var(--accent) 50%, transparent), 0 0 70px color-mix(in srgb, var(--accent) 28%, transparent); }
+.glow-ink  { text-shadow: 0 0 20px color-mix(in srgb, var(--ink) 35%, transparent), 0 0 60px color-mix(in srgb, var(--ink) 18%, transparent); }
+.glow-cool { text-shadow: 0 0 22px color-mix(in srgb, var(--cool) 50%, transparent), 0 0 70px color-mix(in srgb, var(--cool) 26%, transparent); }
+/* gradient fills: on split text apply the class to the element BEFORE splitChars; the engine copies it per char */
+.grad-text, .grad-gold, .grad-cool, .grad-fire {
+  -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: transparent;
+}
+.grad-text { background-image: linear-gradient(100deg, var(--ink) 0%, var(--accent) 60%, var(--accent2) 100%); }
+.grad-gold { background-image: linear-gradient(180deg, #fff6dc 0%, #ffd27a 42%, #ff9d3d 100%); }
+.grad-cool { background-image: linear-gradient(180deg, #f1fbff 0%, #8fdcff 50%, #3aa8ff 100%); }
+.grad-fire { background-image: linear-gradient(100deg, #ffd36b 0%, #ff8a3d 50%, #ff3d6e 100%); }
+.split .ch { display: inline-block; white-space: pre; }
+.split .w  { display: inline-block; white-space: nowrap; }
+/* gradient on split text: each char shows its slice of the parent's gradient (set by splitChars) */
+.split.grad-text, .split.grad-gold, .split.grad-cool, .split.grad-fire { background-image: none !important; -webkit-text-fill-color: currentColor; }
+
+/* ---------- shapes ---------- */
+.hairline { position: absolute; height: 2px; background: linear-gradient(90deg, transparent, var(--line) 15%, var(--line) 85%, transparent); }
+.dot { position: absolute; width: 18px; height: 18px; margin: -9px 0 0 -9px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 24px var(--accent); }
+.card {
+  position: absolute; border-radius: 28px; padding: 40px 56px;
+  background: linear-gradient(160deg, rgba(255,255,255,.08), rgba(255,255,255,.02));
+  border: 2px solid rgba(255,255,255,.10);
+  box-shadow: 0 30px 80px rgba(0,0,0,.45), inset 0 1px 0 rgba(255,255,255,.08);
+}
+.halo { position: absolute; border-radius: 50%; pointer-events: none;
+  background: radial-gradient(circle, color-mix(in srgb, var(--accent) 38%, transparent) 0%, transparent 65%); }
+
+/* ---------- global look (engine-level, above all scenes) ---------- */
+#flash { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; z-index: 40; pointer-events: none; }
+#look { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; z-index: 50; pointer-events: none; }
+.vignette { position: absolute; inset: 0; background: radial-gradient(ellipse 78% 72% at 50% 50%, transparent 52%, rgba(0,0,0,var(--vig, .5)) 100%); }
+.grain { position: absolute; left: 0; top: 0; mix-blend-mode: overlay; will-change: transform; }
+
+/* ---------- debug ---------- */
+#barcode { position: absolute; left: 0; bottom: 0; z-index: 100; display: flex; }
+#barcode .bit { width: 48px; height: 48px; }
+.placeholder { background: repeating-linear-gradient(45deg, #1a1020 0 40px, #22142a 40px 80px); }
+.ph-box { position: absolute; left: 160px; top: 300px; width: 1600px; font: 700 56px/1.5 var(--sans); color: #ffb3c8; white-space: pre-wrap; }
+.ph-why { font-size: 44px; color: #fff; }
+.ph-purpose { font-size: 40px; color: #c9b8d6; }
+
+/* ---------- preview UI ---------- */
+body.preview { width: auto; height: auto; }
+#pv { position: fixed; left: 0; right: 0; bottom: 0; height: 56px; display: flex; align-items: center; gap: 16px; padding: 0 16px; background: #111; color: #ddd; font: 16px sans-serif; z-index: 1000; }
+#pv input { flex: 1; } #pv button { width: 80px; height: 36px; }
