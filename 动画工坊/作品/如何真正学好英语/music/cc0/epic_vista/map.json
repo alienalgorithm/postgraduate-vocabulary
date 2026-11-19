@@ -1,0 +1,894 @@
+{
+ "file": "A/music/score.wav",
+ "sample_rate": 48000,
+ "channels": 2,
+ "bit_depth": 24,
+ "bpm": 94.0,
+ "bpm_measured": 94.0,
+ "beat_offset": 0.02,
+ "bar": 2.5531915,
+ "beat": 0.6382979,
+ "meter": "4/4",
+ "beats": [
+  0.02,
+  0.6583,
+  1.2966,
+  1.9349,
+  2.5732,
+  3.2115,
+  3.8498,
+  4.4881,
+  5.1264,
+  5.7647,
+  6.403,
+  7.0413,
+  7.6796,
+  8.3179,
+  8.9562,
+  9.5945,
+  10.2328,
+  10.8711,
+  11.5094,
+  12.1477,
+  12.786,
+  13.4243,
+  14.0626,
+  14.7009,
+  15.3391,
+  15.9774,
+  16.6157,
+  17.254,
+  17.8923,
+  18.5306,
+  19.1689,
+  19.8072,
+  20.4455,
+  21.0838,
+  21.7221,
+  22.3604,
+  22.9987,
+  23.637,
+  24.2753,
+  24.9136,
+  25.5519,
+  26.1902,
+  26.8285,
+  27.4668,
+  28.1051,
+  28.7434,
+  29.3817,
+  30.02,
+  30.6583,
+  31.2966,
+  31.9349,
+  32.5732,
+  33.2115,
+  33.8498,
+  34.4881,
+  35.1264,
+  35.7647,
+  36.403,
+  37.0413,
+  37.6796,
+  38.3179,
+  38.9562,
+  39.5945,
+  40.2328,
+  40.8711,
+  41.5094,
+  42.1477,
+  42.786,
+  43.4243,
+  44.0626,
+  44.7009,
+  45.3392,
+  45.9774,
+  46.6157,
+  47.254,
+  47.8923,
+  48.5306,
+  49.1689,
+  49.8072,
+  50.4455,
+  51.0838,
+  51.7221,
+  52.3604,
+  52.9987,
+  53.637,
+  54.2753,
+  54.9136,
+  55.5519,
+  56.1902,
+  56.8285,
+  57.4668,
+  58.1051,
+  58.7434,
+  59.3817,
+  60.02,
+  60.6583,
+  61.2966,
+  61.9349,
+  62.5732,
+  63.2115,
+  63.8498,
+  64.4881,
+  65.1264,
+  65.7647,
+  66.403,
+  67.0413,
+  67.6796,
+  68.3179,
+  68.9562,
+  69.5945,
+  70.2328,
+  70.8711,
+  71.5094,
+  72.1477,
+  72.786,
+  73.4243,
+  74.0626,
+  74.7009,
+  75.3392,
+  75.9775,
+  76.6157,
+  77.254,
+  77.8923,
+  78.5306,
+  79.1689,
+  79.8072,
+  80.4455,
+  81.0838,
+  81.7221,
+  82.3604,
+  82.9987,
+  83.637,
+  84.2753,
+  84.9136,
+  85.5519,
+  86.1902,
+  86.8285,
+  87.4668,
+  88.1051,
+  88.7434,
+  89.3817,
+  90.02,
+  90.6583,
+  91.2966,
+  91.9349,
+  92.5732,
+  93.2115,
+  93.8498,
+  94.4881,
+  95.1264,
+  95.7647,
+  96.403,
+  97.0413,
+  97.6796,
+  98.3179,
+  98.9562,
+  99.5945,
+  100.2328,
+  100.8711,
+  101.5094,
+  102.1477,
+  102.786,
+  103.4243,
+  104.0626,
+  104.7009,
+  105.3392,
+  105.9775,
+  106.6158,
+  107.254,
+  107.8923,
+  108.5306,
+  109.1689,
+  109.8072,
+  110.4455,
+  111.0838,
+  111.7221,
+  112.3604,
+  112.9987,
+  113.637,
+  114.2753,
+  114.9136,
+  115.5519,
+  116.1902,
+  116.8285,
+  117.4668,
+  118.1051,
+  118.7434,
+  119.3817,
+  120.02,
+  120.6583,
+  121.2966,
+  121.9349,
+  122.5732,
+  123.2115,
+  123.8498,
+  124.4881,
+  125.1264,
+  125.7647,
+  126.403,
+  127.0413,
+  127.6796,
+  128.3179,
+  128.9562,
+  129.5945,
+  130.2328,
+  130.8711,
+  131.5094,
+  132.1477,
+  132.786,
+  133.4243,
+  134.0626,
+  134.7009,
+  135.3391,
+  135.9774,
+  136.6157,
+  137.254,
+  137.8923,
+  138.5306,
+  139.1689,
+  139.8072,
+  140.4455,
+  141.0838,
+  141.7221,
+  142.3604,
+  142.9987,
+  143.637,
+  144.2753,
+  144.9136,
+  145.5519,
+  146.1902,
+  146.8285,
+  147.4668,
+  148.1051,
+  148.7434,
+  149.3817,
+  150.02,
+  150.6583,
+  151.2966,
+  151.9349,
+  152.5732,
+  153.2115,
+  153.8498,
+  154.4881,
+  155.1264,
+  155.7647,
+  156.403,
+  157.0413,
+  157.6796,
+  158.3179,
+  158.9562,
+  159.5945,
+  160.2328,
+  160.8711,
+  161.5094,
+  162.1477,
+  162.786,
+  163.4243,
+  164.0626,
+  164.7009,
+  165.3392,
+  165.9774,
+  166.6157,
+  167.254,
+  167.8923,
+  168.5306,
+  169.1689,
+  169.8072,
+  170.4455,
+  171.0838,
+  171.7221,
+  172.3604,
+  172.9987,
+  173.637,
+  174.2753,
+  174.9136,
+  175.5519,
+  176.1902,
+  176.8285,
+  177.4668,
+  178.1051,
+  178.7434,
+  179.3817,
+  180.02,
+  180.6583,
+  181.2966,
+  181.9349,
+  182.5732,
+  183.2115,
+  183.8498,
+  184.4881,
+  185.1264,
+  185.7647,
+  186.403,
+  187.0413,
+  187.6796,
+  188.3179,
+  188.9562,
+  189.5945,
+  190.2328,
+  190.8711,
+  191.5094,
+  192.1477,
+  192.786,
+  193.4243,
+  194.0626,
+  194.7009,
+  195.3392,
+  195.9775,
+  196.6157,
+  197.254,
+  197.8923,
+  198.5306,
+  199.1794,
+  199.8177,
+  200.456,
+  201.0943,
+  201.7326,
+  202.3709,
+  203.0092,
+  203.6475,
+  204.2858,
+  204.9241
+ ],
+ "bars": [
+  0.02,
+  2.5732,
+  5.1264,
+  7.6796,
+  10.2328,
+  12.786,
+  15.3391,
+  17.8923,
+  20.4455,
+  22.9987,
+  25.5519,
+  28.1051,
+  30.6583,
+  33.2115,
+  35.7647,
+  38.3179,
+  40.8711,
+  43.4243,
+  45.9774,
+  48.5306,
+  51.0838,
+  53.637,
+  56.1902,
+  58.7434,
+  61.2966,
+  63.8498,
+  66.403,
+  68.9562,
+  71.5094,
+  74.0626,
+  76.6157,
+  79.1689,
+  81.7221,
+  84.2753,
+  86.8285,
+  89.3817,
+  91.9349,
+  94.4881,
+  97.0413,
+  99.5945,
+  102.1477,
+  104.7009,
+  107.254,
+  109.8072,
+  112.3604,
+  114.9136,
+  117.4668,
+  120.02,
+  122.5732,
+  125.1264,
+  127.6796,
+  130.2328,
+  132.786,
+  135.3391,
+  137.8923,
+  140.4455,
+  142.9987,
+  145.5519,
+  148.1051,
+  150.6583,
+  153.2115,
+  155.7647,
+  158.3179,
+  160.8711,
+  163.4243,
+  165.9774,
+  168.5306,
+  171.0838,
+  173.637,
+  176.1902,
+  178.7434,
+  181.2966,
+  183.8498,
+  186.403,
+  188.9562,
+  191.5094,
+  194.0626,
+  196.6157,
+  199.1794,
+  201.7326,
+  204.2858
+ ],
+ "sections": [
+  {
+   "name": "intro",
+   "start": 0.0,
+   "end": 30.6583,
+   "note": "hushed sustained pad chords (4-bar loop, played 3 times); bar 11 is the lead-in glide"
+  },
+  {
+   "name": "tension",
+   "start": 30.6583,
+   "end": 66.403,
+   "note": "theme enters: bass pulse ostinato on every bar, circling 4-bar chord cycle"
+  },
+  {
+   "name": "breath",
+   "start": 66.403,
+   "end": 71.5094,
+   "note": "bass drops out, suspended pad (G-C-B) and clock-like ticks; harmony left hanging"
+  },
+  {
+   "name": "lift",
+   "start": 71.5094,
+   "end": 107.254,
+   "note": "theme returns on the downbeat, slowly louder to the end"
+  },
+  {
+   "name": "breakdown_riser",
+   "start": 107.254,
+   "end": 122.5732,
+   "note": "bass leaves, pad and ticks thin out bar by bar, then near-silence"
+  },
+  {
+   "name": "climax",
+   "start": 122.5732,
+   "end": 168.5306,
+   "note": "THE DROP at bar 48: full band, three 6-bar phrases (bars 48, 54, 60)"
+  },
+  {
+   "name": "afterglow",
+   "start": 168.5306,
+   "end": 196.6157,
+   "note": "warm, calmer: bass pulses and soft pads return, 6-bar phrases"
+  },
+  {
+   "name": "outro",
+   "start": 196.6157,
+   "end": 205.1684,
+   "note": "final chord with gentle ticking figure, natural release, fade to digital silence"
+  }
+ ],
+ "climax": 122.5735,
+ "total": 205.1684,
+ "silence_before_climax": [
+  121.649,
+  122.569
+ ],
+ "anchors": [
+  {
+   "t": 0.02,
+   "bar": 0,
+   "what": "first downbeat: soft pad chord, the music starts from silence"
+  },
+  {
+   "t": 10.233,
+   "bar": 4,
+   "what": "intro 4-bar loop starts again (pass 2)"
+  },
+  {
+   "t": 20.445,
+   "bar": 8,
+   "what": "intro 4-bar loop pass 3"
+  },
+  {
+   "t": 28.105,
+   "bar": 11,
+   "what": "lead-in bar: rising glide into the theme"
+  },
+  {
+   "t": 30.658,
+   "bar": 12,
+   "what": "theme entry: first deep bass hit (attack about 66 ms after the bar line)"
+  },
+  {
+   "t": 40.871,
+   "bar": 16,
+   "what": "theme 4-bar cycle restarts (also bars 20, 24)"
+  },
+  {
+   "t": 66.403,
+   "bar": 26,
+   "what": "breath: bass drops out, suspended harmony (G-C-B), clock-like ticks"
+  },
+  {
+   "t": 71.509,
+   "bar": 28,
+   "what": "theme re-enters on the downbeat: the warm return (cycle restarts at 32, 36, 40)"
+  },
+  {
+   "t": 107.254,
+   "bar": 42,
+   "what": "breakdown starts (thinning)"
+  },
+  {
+   "t": 112.36,
+   "bar": 44,
+   "what": "bass gone: only pad and ticks, fading bar by bar"
+  },
+  {
+   "t": 121.649,
+   "bar": null,
+   "what": "near-silence starts (below -50 dBFS) and lasts until the drop"
+  },
+  {
+   "t": 122.5735,
+   "bar": 48,
+   "what": "THE DROP: biggest lift of the piece, for the aha line"
+  },
+  {
+   "t": 137.892,
+   "bar": 54,
+   "what": "climax 6-bar phrase 2"
+  },
+  {
+   "t": 153.212,
+   "bar": 60,
+   "what": "climax 6-bar phrase 3"
+  },
+  {
+   "t": 168.531,
+   "bar": 66,
+   "what": "afterglow: the band thins to warm bass pulses and soft pads"
+  },
+  {
+   "t": 171.084,
+   "bar": 67,
+   "what": "afterglow 6-bar phrase 1"
+  },
+  {
+   "t": 186.403,
+   "bar": 73,
+   "what": "afterglow 6-bar phrase 2"
+  },
+  {
+   "t": 194.063,
+   "bar": 76,
+   "what": "last chord attack of the piece (last strong beat)"
+  },
+  {
+   "t": 196.616,
+   "bar": 77,
+   "what": "the music settles: bass releases, soft ticking coda on the final chord (recommended landing of the method card; 8.5 s of sustain and fade follow)"
+  },
+  {
+   "t": 201.733,
+   "bar": 79,
+   "what": "last bar of the coda figure, then the natural release and a fade to digital silence"
+  }
+ ],
+ "suggested_scenes": {
+  "note": "Option A keeps every scene at least as long as content.json asks (s01-s06 = 42 bars exactly); the theme entry then lands 2 bars into s03 and the warm return 2 bars into s05. Option B starts s03, s05 on those musical events and puts the breath at the end of s04, but s06 gets 7 bars (17.87 s) instead of 22 s. Both: s08 starts on the drop, the method card lands on bar 77 (the music settles); landing it on bar 76 (last chord attack) would need s10 one bar shorter. s10 = 7 bars is 17.87 s, 0.03 s under the 17.9 s of its last text in content.json.",
+  "option_A": [
+   {
+    "id": "s01",
+    "bar": 0,
+    "start": 0.0,
+    "duration": 10.2328
+   },
+   {
+    "id": "s02",
+    "bar": 4,
+    "start": 10.2328,
+    "duration": 15.3191
+   },
+   {
+    "id": "s03",
+    "bar": 10,
+    "start": 25.5519,
+    "duration": 17.8724
+   },
+   {
+    "id": "s04",
+    "bar": 17,
+    "start": 43.4243,
+    "duration": 22.9787
+   },
+   {
+    "id": "s05",
+    "bar": 26,
+    "start": 66.403,
+    "duration": 17.8723
+   },
+   {
+    "id": "s06",
+    "bar": 33,
+    "start": 84.2753,
+    "duration": 22.9787
+   },
+   {
+    "id": "s07",
+    "bar": 42,
+    "start": 107.254,
+    "duration": 15.3192
+   },
+   {
+    "id": "s08",
+    "bar": 48,
+    "start": 122.5732,
+    "duration": 22.9787
+   },
+   {
+    "id": "s09",
+    "bar": 57,
+    "start": 145.5519,
+    "duration": 15.3192
+   },
+   {
+    "id": "s10",
+    "bar": 63,
+    "start": 160.8711,
+    "duration": 17.8723
+   },
+   {
+    "id": "s11",
+    "bar": 70,
+    "start": 178.7434,
+    "duration": 26.425
+   }
+  ],
+  "option_B": [
+   {
+    "id": "s01",
+    "bar": 0,
+    "start": 0.0,
+    "duration": 10.2328
+   },
+   {
+    "id": "s02",
+    "bar": 4,
+    "start": 10.2328,
+    "duration": 20.4255
+   },
+   {
+    "id": "s03",
+    "bar": 12,
+    "start": 30.6583,
+    "duration": 17.8723
+   },
+   {
+    "id": "s04",
+    "bar": 19,
+    "start": 48.5306,
+    "duration": 22.9788
+   },
+   {
+    "id": "s05",
+    "bar": 28,
+    "start": 71.5094,
+    "duration": 17.8723
+   },
+   {
+    "id": "s06",
+    "bar": 35,
+    "start": 89.3817,
+    "duration": 17.8723
+   },
+   {
+    "id": "s07",
+    "bar": 42,
+    "start": 107.254,
+    "duration": 15.3192
+   },
+   {
+    "id": "s08",
+    "bar": 48,
+    "start": 122.5732,
+    "duration": 22.9787
+   },
+   {
+    "id": "s09",
+    "bar": 57,
+    "start": 145.5519,
+    "duration": 15.3192
+   },
+   {
+    "id": "s10",
+    "bar": 63,
+    "start": 160.8711,
+    "duration": 17.8723
+   },
+   {
+    "id": "s11",
+    "bar": 70,
+    "start": 178.7434,
+    "duration": 26.425
+   }
+  ]
+ },
+ "grid_check": {
+  "method": "bar period measured on score.wav by cross-correlating output bars that carry repeated material (lag 0 = exactly on the 94.000 BPM grid); the drop attack and the first attack are measured on the waveform",
+  "repeat_lags": [
+   {
+    "bars": [
+     48,
+     54
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.833
+   },
+   {
+    "bars": [
+     49,
+     55
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.853
+   },
+   {
+    "bars": [
+     50,
+     56
+    ],
+    "lag_ms": -0.02,
+    "corr": 0.78
+   },
+   {
+    "bars": [
+     51,
+     57
+    ],
+    "lag_ms": -0.02,
+    "corr": 0.896
+   },
+   {
+    "bars": [
+     52,
+     58
+    ],
+    "lag_ms": -0.02,
+    "corr": 0.901
+   },
+   {
+    "bars": [
+     67,
+     73
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.992
+   },
+   {
+    "bars": [
+     68,
+     74
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.986
+   },
+   {
+    "bars": [
+     69,
+     75
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.983
+   },
+   {
+    "bars": [
+     2,
+     6
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.972
+   },
+   {
+    "bars": [
+     0,
+     4
+    ],
+    "lag_ms": 0.02,
+    "corr": 0.889
+   },
+   {
+    "bars": [
+     13,
+     21
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.78
+   },
+   {
+    "bars": [
+     15,
+     23
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.906
+   },
+   {
+    "bars": [
+     29,
+     37
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.78
+   },
+   {
+    "bars": [
+     31,
+     39
+    ],
+    "lag_ms": 0.0,
+    "corr": 0.906
+   },
+   {
+    "bars": [
+     15,
+     31
+    ],
+    "lag_ms": 0.0,
+    "corr": 1.0
+   },
+   {
+    "bars": [
+     16,
+     32
+    ],
+    "lag_ms": 0.0,
+    "corr": 1.0
+   },
+   {
+    "bars": [
+     2,
+     14
+    ],
+    "lag_ms": 0.02,
+    "corr": 0.785
+   }
+  ],
+  "bar_measured": 2.553191,
+  "onset_flux_phase_by_section": {
+   "intro": {
+    "peak_phase_s": 0.074,
+    "offset_vs_grid_ms": 54.0,
+    "strength": 2.03
+   },
+   "tension": {
+    "peak_phase_s": 0.266,
+    "offset_vs_grid_ms": 246.0,
+    "strength": 1.47
+   },
+   "lift": {
+    "peak_phase_s": 0.268,
+    "offset_vs_grid_ms": 248.0,
+    "strength": 1.46
+   },
+   "breakdown": {
+    "peak_phase_s": 0.048,
+    "offset_vs_grid_ms": 28.0,
+    "strength": 4.44
+   },
+   "climax": {
+    "peak_phase_s": 0.048,
+    "offset_vs_grid_ms": 28.0,
+    "strength": 2.47
+   },
+   "afterglow": {
+    "peak_phase_s": 0.112,
+    "offset_vs_grid_ms": 92.0,
+    "strength": 3.24
+   }
+  },
+  "drop_attack_measured": 122.5735,
+  "drop_bar_line": 122.5732,
+  "first_attack_measured": 0.0253,
+  "note_after_bar_78": "bars 78-80 are shifted +10.5 ms by the ending joint (ticks aligned by onset correlation)"
+ }
+}

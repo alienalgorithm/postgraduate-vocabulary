@@ -1,0 +1,37 @@
+{
+ "title": "\u574f\u6837\u672c",
+ "fps": 60,
+ "total": 4,
+ "aha": {
+  "text": "\u8001\u5916\u90fd\u8fd9\u4e48\u5b66"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "start": 0,
+   "duration": 2,
+   "file": "s01.js",
+   "texts": [
+    {
+     "in": 0,
+     "out": 2,
+     "text": "\u5148\u8bb0\u4f4f\u8fd9\u4e2a\u8bcd\u2014\u2014\u518d\u8bf4"
+    }
+   ],
+   "rationale": "\u975e\u753b\u9762\u5b57\u6bb5\u91cc\u7684\u5b57\u4e0d\u7b97\uff1a\u5916\u56fd\u3001\u2014\u2014"
+  },
+  {
+   "id": "s02",
+   "start": 2,
+   "duration": 2,
+   "file": "s02.js",
+   "visual_text": [
+    {
+     "in": 0,
+     "out": 2,
+     "text": "\u50cf\u6bcd\u8bed\u8005\u4e00\u6837"
+    }
+   ]
+  }
+ ]
+}

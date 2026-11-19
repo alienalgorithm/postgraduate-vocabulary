@@ -1,0 +1,28 @@
+# 动画工坊：不进仓库的东西
+node_modules/
+stills/
+*.mp4
+.render-*
+__pycache__/
+.sync-tmp/
+# asset.js 的本机素材来源（插图、4K 原片），只在本机用
+作品/*/sources/
+
+# 明文音频一律不进仓库（配乐有版权，只提交加密的 *.enc）；
+# 只有 music/backup/ 和 music/cc0/ 下的（CC0 等可公开的）可以进
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.aac
+!**/music/backup/**/*.wav
+!**/music/backup/**/*.mp3
+!**/music/backup/**/*.flac
+!**/music/backup/**/*.m4a
+!**/music/backup/**/*.ogg
+!**/music/cc0/**/*.wav
+!**/music/cc0/**/*.mp3
+!**/music/cc0/**/*.flac
+!**/music/cc0/**/*.m4a
+!**/music/cc0/**/*.ogg

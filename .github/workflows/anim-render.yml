@@ -1,0 +1,183 @@
+# 动画出片（虫洞加虹吸）：改 动画工坊/渲染请求.json 推上来，或在 Actions 页面点 Run workflow，GitHub 自动出片。
+# plan 按帧号切段 -> render 多台机器并行渲染（失败自动重试一次） -> assemble 无损拼接、混配乐、核对、出 1080p、
+# 写 SHA256SUMS，上传 artifact；release 为 true 时发 Release。说明见 动画工坊/tools/ci/README.md。
+name: anim-render 动画出片
+
+on:
+  push:
+    branches: [claude/article-packages-20261116, main]
+    paths: ['动画工坊/渲染请求.json']
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 请求 id（随便写一个唯一的串）
+        type: string
+        default: manual
+      film:
+        description: 片名（动画工坊/作品/ 下的目录名）
+        type: string
+        default: 如何真正学好英语
+      scale:
+        description: 2 = 4K，1 = 1080p
+        type: choice
+        options: ['2', '1']
+        default: '2'
+      fps:
+        description: 帧率
+        type: string
+        default: '60'
+      from:
+        description: 从第几秒开始（空 = 片头）
+        type: string
+        default: ''
+      to:
+        description: 到第几秒（空 = 片尾）
+        type: string
+        default: ''
+      music:
+        description: 配乐（main 缺密钥时自动用备用）
+        type: choice
+        options: [main, backup, none]
+        default: main
+      shards:
+        description: 分几段并行（1 到 20）
+        type: string
+        default: '20'
+      release:
+        description: 出完发 Release
+        type: boolean
+        default: false
+      note:
+        description: 说明
+        type: string
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      plan: ${{ steps.plan.outputs.plan }}
+      film_dir: ${{ steps.plan.outputs.film_dir }}
+      playwright: ${{ steps.plan.outputs.playwright }}
+      release: ${{ steps.plan.outputs.release }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout: |
+            动画工坊
+            .github
+      - name: 读请求，按帧号切段
+        id: plan
+        env:
+          EVENT: ${{ github.event_name }}
+          INPUTS: ${{ toJSON(inputs) }}
+        run: |
+          if [ "$EVENT" = workflow_dispatch ]; then printf '%s' "$INPUTS" > "$RUNNER_TEMP/req.json"
+          else cp 动画工坊/渲染请求.json "$RUNNER_TEMP/req.json"; fi
+          python3 动画工坊/tools/ci/plan.py --request "$RUNNER_TEMP/req.json" --out "$RUNNER_TEMP/plan.json"
+
+  render:
+    needs: plan
+    name: render ${{ matrix.name }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    env:
+      F: ${{ needs.plan.outputs.film_dir }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout: |
+            动画工坊
+            .github
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: ${{ needs.plan.outputs.film_dir }}/package-lock.json
+      - name: 缓存 playwright 浏览器
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-${{ runner.os }}-${{ needs.plan.outputs.playwright }}-shell
+      - name: 准备运行器（ffmpeg、依赖、Chromium、空字体配置）
+        run: bash 动画工坊/tools/ci/setup_runner.sh "$F" ffmpeg browser
+      - name: 渲染这一段（失败自动重试一次）
+        env:
+          NAME: ${{ matrix.name }}
+          FROM: ${{ matrix.from }}
+          TO: ${{ matrix.to }}
+          SCALE: ${{ fromJSON(needs.plan.outputs.plan).scale }}
+          FPS: ${{ fromJSON(needs.plan.outputs.plan).fps }}
+        run: bash 动画工坊/tools/ci/render_shard.sh "$F" "$RUNNER_TEMP/shards/shard_$NAME.mp4" "$FROM" "$TO" "$SCALE" "$FPS" 3
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shard-${{ matrix.name }}
+          path: |
+            ${{ runner.temp }}/shards/shard_${{ matrix.name }}.mp4
+            ${{ runner.temp }}/shards/shard_${{ matrix.name }}.mp4.json
+          retention-days: 3
+          compression-level: 0
+          if-no-files-found: error
+
+  assemble:
+    needs: [plan, render]
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    permissions:
+      contents: write
+    env:
+      F: ${{ needs.plan.outputs.film_dir }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          persist-credentials: false
+          sparse-checkout: |
+            动画工坊
+            .github
+      - name: 准备 ffmpeg
+        run: bash 动画工坊/tools/ci/setup_runner.sh "$F" ffmpeg
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: shard-*
+          path: ${{ runner.temp }}/shards
+          merge-multiple: true
+      - name: 拼片、混配乐、核对、出 1080p、写 SHA256SUMS
+        env:
+          MUSIC_KEY: ${{ secrets.MUSIC_KEY }}
+          PLAN: ${{ needs.plan.outputs.plan }}
+        run: |
+          printf '%s' "$PLAN" > "$RUNNER_TEMP/plan.json"
+          python3 动画工坊/tools/ci/assemble.py --plan "$RUNNER_TEMP/plan.json" --shards "$RUNNER_TEMP/shards" --out "$RUNNER_TEMP/final"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: film-r${{ github.run_number }}
+          path: |
+            ${{ runner.temp }}/final/*.mp4
+            ${{ runner.temp }}/final/SHA256SUMS.txt
+            ${{ runner.temp }}/final/report.json
+          retention-days: 30
+          compression-level: 0
+          if-no-files-found: error
+      - name: 发 Release
+        if: needs.plan.outputs.release == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG_PREFIX: ${{ fromJSON(needs.plan.outputs.plan).tag_prefix }}
+        run: bash 动画工坊/tools/ci/release.sh "$RUNNER_TEMP/final" "$TAG_PREFIX"

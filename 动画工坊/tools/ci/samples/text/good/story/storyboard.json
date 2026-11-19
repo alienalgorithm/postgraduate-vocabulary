@@ -1,0 +1,37 @@
+{
+ "title": "\u597d\u6837\u672c",
+ "fps": 60,
+ "total": 4,
+ "aha": {
+  "text": "\u4e0d\u662f\u91cd\u590d\u770b\uff0c\u800c\u662f\u53cd\u590d\u60f3\u8d77\u3002"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "start": 0,
+   "duration": 2,
+   "file": "s01.js",
+   "texts": [
+    {
+     "in": 0,
+     "out": 2,
+     "text": "\u5148\u8bb0\u4f4f\u8fd9\u4e2a\u8bcd\u3002"
+    }
+   ],
+   "rationale": "\u975e\u753b\u9762\u5b57\u6bb5\u4e0d\u67e5\uff08\u8fd9\u91cc\u51fa\u73b0\u5916\u56fd\u3001\u2014\u2014\u90fd\u4e0d\u7b97\uff09"
+  },
+  {
+   "id": "s02",
+   "start": 2,
+   "duration": 2,
+   "file": "s02.js",
+   "visual_text": [
+    {
+     "in": 0,
+     "out": 2,
+     "text": "evidence n. \u8bc1\u636e"
+    }
+   ]
+  }
+ ]
+}

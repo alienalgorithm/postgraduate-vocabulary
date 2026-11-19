@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1920, height=1080">
+<title>Film Engine</title>
+<script>
+  // Deterministic Math.random BEFORE any library loads (ScrambleTextPlugin builds its glyph sets at load time).
+  // engine.js re-seeds it per scene build and per rendered frame, so every call is a pure function of (scene, time).
+  (function () {
+    var a = 0x9E3779B9 >>> 0;
+    window.__realRandom = Math.random;
+    Math.random = function () { a = (a + 0x6D2B79F5) >>> 0; var t = a; t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; };
+  })();
+</script>
+<style>
+  /* Fonts from A/fonts. font-display:block + explicit preloading in engine.js: no fallback glyph is ever rendered. */
+  @font-face { font-family: 'Noto Sans SC'; font-weight: 500; font-style: normal; font-display: block; src: url('../fonts/NotoSansSC-500.ttf') format('truetype'); }
+  @font-face { font-family: 'Noto Sans SC'; font-weight: 700; font-style: normal; font-display: block; src: url('../fonts/NotoSansSC-700.ttf') format('truetype'); }
+  @font-face { font-family: 'Noto Sans SC'; font-weight: 900; font-style: normal; font-display: block; src: url('../fonts/NotoSansSC-900.ttf') format('truetype'); }
+  @font-face { font-family: 'Noto Serif SC'; font-weight: 600; font-style: normal; font-display: block; src: url('../fonts/NotoSerifSC-600.ttf') format('truetype'); }
+  @font-face { font-family: 'Noto Serif SC'; font-weight: 900; font-style: normal; font-display: block; src: url('../fonts/NotoSerifSC-900.ttf') format('truetype'); }
+  @font-face { font-family: 'Source Serif 4 Display'; font-weight: 400; font-style: normal; font-display: block; src: url('../fonts/SourceSerif4Display-Regular.ttf') format('truetype'); }
+  @font-face { font-family: 'Source Serif 4 Display'; font-weight: 400; font-style: italic; font-display: block; src: url('../fonts/SourceSerif4Display-Italic.ttf') format('truetype'); }
+</style>
+<link rel="stylesheet" href="design.css">
+<script src="../node_modules/gsap/dist/gsap.min.js"></script>
+<script src="../node_modules/gsap/dist/CustomEase.min.js"></script>
+<script src="../node_modules/gsap/dist/SplitText.min.js"></script>
+<script src="../node_modules/gsap/dist/MorphSVGPlugin.min.js"></script>
+<script src="../node_modules/gsap/dist/DrawSVGPlugin.min.js"></script>
+<script src="../node_modules/gsap/dist/MotionPathPlugin.min.js"></script>
+<script src="../node_modules/gsap/dist/ScrambleTextPlugin.min.js"></script>
+<script src="../node_modules/gsap/dist/Physics2DPlugin.min.js"></script>
+<script src="util.js"></script>
+</head>
+<body>
+<div id="stage"></div>
+<!-- engine.js: registers the GSAP plugins, loads three.js, music/energy.json and the storyboard,
+     loads ../scenes/<id>.js, builds every scene on a paused GSAP timeline and exposes window.seek(t). -->
+<script src="engine.js"></script>
+</body>
+</html>

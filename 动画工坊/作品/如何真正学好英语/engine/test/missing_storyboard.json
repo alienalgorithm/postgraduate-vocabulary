@@ -1,0 +1,5 @@
+{"title":"missing-neighbour test","fps":60,"width":1920,"height":1080,
+ "music":{"file":null,"energy":"engine/test/energy_demo.json","bpm":120,"beat_offset":0,"bar":1.5},
+ "scenes":[{"id":"d1","build":"demo1","file":"demo.js","start":0,"duration":3},
+           {"id":"x2","file":"does_not_exist.js","start":3,"duration":3}],
+ "total":6}

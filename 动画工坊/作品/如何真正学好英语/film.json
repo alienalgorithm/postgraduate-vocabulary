@@ -1,0 +1,24 @@
+{
+  "title": "如何真正学好英语",
+  "fps": 60,
+  "scale": 2,
+  "storyboard": "story/storyboard.json",
+  "music": {
+    "main": {
+      "label": "Hans Zimmer《Cornfield Chase》剪辑版（已获授权）",
+      "encrypted": "music/private/score.flac.enc",
+      "secret": "MUSIC_KEY",
+      "decrypt_to": "music/score.wav"
+    },
+    "backup": {
+      "label": "备用配乐（CC0）",
+      "file": "music/backup/score.flac",
+      "decrypt_to": "music/score.wav"
+    }
+  },
+  "release": {
+    "tag_prefix": "anim-how-to-learn-english",
+    "asset_basename": "how-to-learn-english",
+    "display_name": "如何真正学好英语"
+  }
+}
