@@ -1,0 +1,7 @@
+# 加密文件里的明文校验（package_music.sh 生成，decrypt_music.sh 解密后核对）。格式：类型 值 文件名
+# audio_md5_s24 / audio_md5_f32 = ffmpeg 解码成 24 bit 整数 / 32 bit 浮点 PCM 后的 md5，逐样本
+sha256 29da3a45e49d994e7efd01423777470c57c3a338635191c1e49b26ebf20de9a4 score.flac
+audio_md5_s24 276b278ff2d70fac4fbcf2e8926bcb17 score.flac
+sha256 c98a3e1de1d579e29d5891862106ce54b68c4e25820510935caf72d2e7f5c36a score.wav
+sha256 d75138c2814f6733df32226366e4b70b84aff5d77a1706377cb66a10befc354c source_cornfield_chase.mp3
+audio_md5_f32 8a927285f8a57a9b59d86fb097bb2a37 source_cornfield_chase.mp3

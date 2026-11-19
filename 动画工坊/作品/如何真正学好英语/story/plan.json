@@ -1,0 +1,3190 @@
+{
+ "title": "如何真正学好英语",
+ "version": "v2 Cornfield Chase（用户 2026-11-19 更正：片长由内容决定）",
+ "total": 165.592,
+ "total_mmss": "2:45.6",
+ "scene_count": 10,
+ "thesis": "记住一个单词，不靠一遍遍重复看；靠在读得懂的句子里一次次遇见它，再一次次合上书把它想起来，隔几天再想一次。",
+ "aha": {
+  "scene": "s08",
+  "text": "不是重复看，而是反复想起。",
+  "line1": {
+   "text": "不是重复看，",
+   "in_scene": 0.0,
+   "global": 111.842,
+   "music": "原曲第 62 小节 F 强拍（全曲最满的一刻），剪辑后第 61 小节"
+  },
+  "line2": {
+   "text": "而是反复想起。",
+   "in_scene": 1.875,
+   "global": 113.717,
+   "music": "下一个强拍（原曲第 63 小节）"
+  },
+  "fraction_of_film": 0.675,
+  "note": "s07 最后半拍画面全黑；高潮在剪辑里只出现这一次（最后一次经过），之后是原曲自己的急停。"
+ },
+ "quote": {
+  "scene": "s10",
+  "text": "多看一遍，不如合上书想一遍。",
+  "note": "句号是母题光点，落在 G 强拍"
+ },
+ "music": {
+  "source": "A/music/user/cornfield_chase.mp3（96 BPM，3/4，一小节 1.875 秒，一拍 0.625 秒，十六分音符 0.15625 秒）",
+  "segments": [
+   {
+    "seg": "A",
+    "source_bars": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "note": "intro_a, bars 1-9"
+   },
+   {
+    "seg": "B",
+    "source_bars": [
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21
+    ],
+    "note": "10->6 loop (B 50.4): bars 6-21 = intro_a end, intro_b, lift 19-21"
+   },
+   {
+    "seg": "C",
+    "source_bars": [
+     20,
+     21
+    ],
+    "note": "22->20 loop (A 70.6): lift +2 bars"
+   },
+   {
+    "seg": "D",
+    "source_bars": [
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37
+    ],
+    "note": "22->21 loop (A 76.7): lift +1 bar, then 22-23, burst 24, arrival, drive_1"
+   },
+   {
+    "seg": "E",
+    "source_bars": [
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64
+    ],
+    "note": "38->46 skip (A, drive_2 left out): build_1, build_2, peak 62-64, hard stop on the bar-65 line"
+   },
+   {
+    "seg": "T",
+    "source_bars": [
+     "tail",
+     "tail"
+    ],
+    "note": "the stop: 2 bars (3.750 s) of the original reverb tail, source 119.342 to 123.092"
+   },
+   {
+    "seg": "F",
+    "source_bars": [
+     11,
+     12,
+     13
+    ],
+    "note": "intro_b F enters softly on the next bar line (625 ms equal-power under the tail)"
+   },
+   {
+    "seg": "G",
+    "source_bars": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ],
+    "note": "14->10 loop (B 57.1): bars 10-18"
+   },
+   {
+    "seg": "H",
+    "source_bars": [
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9
+    ],
+    "note": "bar-19 line -> bar 3 (G -> F, like the listed 11->3 and 19->11 joins): the opening swell returns"
+   },
+   {
+    "seg": "I",
+    "source_bars": [
+     6,
+     7,
+     8,
+     9,
+     10
+    ],
+    "note": "10->6 loop (B 50.4): bars 6-10, fade out over the last 2 bars (3.750 s)"
+   }
+  ],
+  "cc_edit_segments_until_stop": [
+   [
+    1,
+    10
+   ],
+   [
+    6,
+    22
+   ],
+   [
+    20,
+    22
+   ],
+   [
+    21,
+    38
+   ],
+   [
+    46,
+    65
+   ]
+  ],
+  "after_stop": "原曲急停（第 65 小节线）后保留 2 小节混响尾音，然后 [11,14]、[10,19]、[3,10]、[6,11]，最后 2 小节淡出（fade_out_s 3.75）",
+  "burst": 55.592,
+  "climax": 111.842,
+  "music_stop": 117.467,
+  "fade_out": [
+   161.842,
+   165.592
+  ],
+  "output_bars": [
+   {
+    "n": 1,
+    "src": 1,
+    "seg": "A",
+    "start": 0.0,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 2,
+    "src": 2,
+    "seg": "A",
+    "start": 1.842,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 3,
+    "src": 3,
+    "seg": "A",
+    "start": 3.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 4,
+    "src": 4,
+    "seg": "A",
+    "start": 5.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 5,
+    "src": 5,
+    "seg": "A",
+    "start": 7.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 6,
+    "src": 6,
+    "seg": "A",
+    "start": 9.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 7,
+    "src": 7,
+    "seg": "A",
+    "start": 11.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 8,
+    "src": 8,
+    "seg": "A",
+    "start": 13.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 9,
+    "src": 9,
+    "seg": "A",
+    "start": 14.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 10,
+    "src": 6,
+    "seg": "B",
+    "start": 16.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 11,
+    "src": 7,
+    "seg": "B",
+    "start": 18.717,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 12,
+    "src": 8,
+    "seg": "B",
+    "start": 20.592,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 13,
+    "src": 9,
+    "seg": "B",
+    "start": 22.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 14,
+    "src": 10,
+    "seg": "B",
+    "start": 24.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 15,
+    "src": 11,
+    "seg": "B",
+    "start": 26.217,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 16,
+    "src": 12,
+    "seg": "B",
+    "start": 28.092,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 17,
+    "src": 13,
+    "seg": "B",
+    "start": 29.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 18,
+    "src": 14,
+    "seg": "B",
+    "start": 31.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 19,
+    "src": 15,
+    "seg": "B",
+    "start": 33.717,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_b"
+   },
+   {
+    "n": 20,
+    "src": 16,
+    "seg": "B",
+    "start": 35.592,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_b"
+   },
+   {
+    "n": 21,
+    "src": 17,
+    "seg": "B",
+    "start": 37.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 22,
+    "src": 18,
+    "seg": "B",
+    "start": 39.342,
+    "beats": 2,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 23,
+    "src": 19,
+    "seg": "B",
+    "start": 40.592,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 24,
+    "src": 20,
+    "seg": "B",
+    "start": 42.467,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 25,
+    "src": 21,
+    "seg": "B",
+    "start": 44.342,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 26,
+    "src": 20,
+    "seg": "C",
+    "start": 46.217,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 27,
+    "src": 21,
+    "seg": "C",
+    "start": 48.092,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 28,
+    "src": 21,
+    "seg": "D",
+    "start": 49.967,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 29,
+    "src": 22,
+    "seg": "D",
+    "start": 51.842,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 30,
+    "src": 23,
+    "seg": "D",
+    "start": 53.717,
+    "beats": 3,
+    "chord": "E-pedal",
+    "section": "lift"
+   },
+   {
+    "n": 31,
+    "src": 24,
+    "seg": "D",
+    "start": 55.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "arrival"
+   },
+   {
+    "n": 32,
+    "src": 25,
+    "seg": "D",
+    "start": 57.467,
+    "beats": 3,
+    "chord": "F",
+    "section": "arrival"
+   },
+   {
+    "n": 33,
+    "src": 26,
+    "seg": "D",
+    "start": 59.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "arrival"
+   },
+   {
+    "n": 34,
+    "src": 27,
+    "seg": "D",
+    "start": 61.217,
+    "beats": 3,
+    "chord": "G",
+    "section": "arrival"
+   },
+   {
+    "n": 35,
+    "src": 28,
+    "seg": "D",
+    "start": 63.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "arrival"
+   },
+   {
+    "n": 36,
+    "src": 29,
+    "seg": "D",
+    "start": 64.967,
+    "beats": 3,
+    "chord": "Am",
+    "section": "arrival"
+   },
+   {
+    "n": 37,
+    "src": 30,
+    "seg": "D",
+    "start": 66.842,
+    "beats": 3,
+    "chord": "F",
+    "section": "drive_1"
+   },
+   {
+    "n": 38,
+    "src": 31,
+    "seg": "D",
+    "start": 68.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "drive_1"
+   },
+   {
+    "n": 39,
+    "src": 32,
+    "seg": "D",
+    "start": 70.592,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 40,
+    "src": 33,
+    "seg": "D",
+    "start": 72.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 41,
+    "src": 34,
+    "seg": "D",
+    "start": 74.342,
+    "beats": 3,
+    "chord": "Am",
+    "section": "drive_1"
+   },
+   {
+    "n": 42,
+    "src": 35,
+    "seg": "D",
+    "start": 76.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "drive_1"
+   },
+   {
+    "n": 43,
+    "src": 36,
+    "seg": "D",
+    "start": 78.092,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 44,
+    "src": 37,
+    "seg": "D",
+    "start": 79.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "drive_1"
+   },
+   {
+    "n": 45,
+    "src": 46,
+    "seg": "E",
+    "start": 81.842,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_1"
+   },
+   {
+    "n": 46,
+    "src": 47,
+    "seg": "E",
+    "start": 83.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_1"
+   },
+   {
+    "n": 47,
+    "src": 48,
+    "seg": "E",
+    "start": 85.592,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 48,
+    "src": 49,
+    "seg": "E",
+    "start": 87.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 49,
+    "src": 50,
+    "seg": "E",
+    "start": 89.342,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_1"
+   },
+   {
+    "n": 50,
+    "src": 51,
+    "seg": "E",
+    "start": 91.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_1"
+   },
+   {
+    "n": 51,
+    "src": 52,
+    "seg": "E",
+    "start": 93.092,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 52,
+    "src": 53,
+    "seg": "E",
+    "start": 94.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_1"
+   },
+   {
+    "n": 53,
+    "src": 54,
+    "seg": "E",
+    "start": 96.842,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_2"
+   },
+   {
+    "n": 54,
+    "src": 55,
+    "seg": "E",
+    "start": 98.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "build_2"
+   },
+   {
+    "n": 55,
+    "src": 56,
+    "seg": "E",
+    "start": 100.592,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 56,
+    "src": 57,
+    "seg": "E",
+    "start": 102.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 57,
+    "src": 58,
+    "seg": "E",
+    "start": 104.342,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_2"
+   },
+   {
+    "n": 58,
+    "src": 59,
+    "seg": "E",
+    "start": 106.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "build_2"
+   },
+   {
+    "n": 59,
+    "src": 60,
+    "seg": "E",
+    "start": 108.092,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 60,
+    "src": 61,
+    "seg": "E",
+    "start": 109.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "build_2"
+   },
+   {
+    "n": 61,
+    "src": 62,
+    "seg": "E",
+    "start": 111.842,
+    "beats": 3,
+    "chord": "F",
+    "section": "peak"
+   },
+   {
+    "n": 62,
+    "src": 63,
+    "seg": "E",
+    "start": 113.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "peak"
+   },
+   {
+    "n": 63,
+    "src": 64,
+    "seg": "E",
+    "start": 115.592,
+    "beats": 3,
+    "chord": "G",
+    "section": "peak"
+   },
+   {
+    "n": 64,
+    "src": "tail",
+    "seg": "T",
+    "start": 117.467,
+    "beats": 3,
+    "chord": "G (tail)",
+    "section": "stop_tail"
+   },
+   {
+    "n": 65,
+    "src": "tail",
+    "seg": "T",
+    "start": 119.342,
+    "beats": 3,
+    "chord": "G (tail)",
+    "section": "stop_tail"
+   },
+   {
+    "n": 66,
+    "src": 11,
+    "seg": "F",
+    "start": 121.217,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 67,
+    "src": 12,
+    "seg": "F",
+    "start": 123.092,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 68,
+    "src": 13,
+    "seg": "F",
+    "start": 124.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 69,
+    "src": 10,
+    "seg": "G",
+    "start": 126.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 70,
+    "src": 11,
+    "seg": "G",
+    "start": 128.717,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 71,
+    "src": 12,
+    "seg": "G",
+    "start": 130.592,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_b"
+   },
+   {
+    "n": 72,
+    "src": 13,
+    "seg": "G",
+    "start": 132.467,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 73,
+    "src": 14,
+    "seg": "G",
+    "start": 134.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 74,
+    "src": 15,
+    "seg": "G",
+    "start": 136.217,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_b"
+   },
+   {
+    "n": 75,
+    "src": 16,
+    "seg": "G",
+    "start": 138.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_b"
+   },
+   {
+    "n": 76,
+    "src": 17,
+    "seg": "G",
+    "start": 139.967,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 77,
+    "src": 18,
+    "seg": "G",
+    "start": 141.842,
+    "beats": 2,
+    "chord": "G",
+    "section": "intro_b"
+   },
+   {
+    "n": 78,
+    "src": 3,
+    "seg": "H",
+    "start": 143.092,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 79,
+    "src": 4,
+    "seg": "H",
+    "start": 144.967,
+    "beats": 3,
+    "chord": "F",
+    "section": "intro_a"
+   },
+   {
+    "n": 80,
+    "src": 5,
+    "seg": "H",
+    "start": 146.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 81,
+    "src": 6,
+    "seg": "H",
+    "start": 148.717,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 82,
+    "src": 7,
+    "seg": "H",
+    "start": 150.592,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 83,
+    "src": 8,
+    "seg": "H",
+    "start": 152.467,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 84,
+    "src": 9,
+    "seg": "H",
+    "start": 154.342,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 85,
+    "src": 6,
+    "seg": "I",
+    "start": 156.217,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 86,
+    "src": 7,
+    "seg": "I",
+    "start": 158.092,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 87,
+    "src": 8,
+    "seg": "I",
+    "start": 159.967,
+    "beats": 3,
+    "chord": "Am",
+    "section": "intro_a"
+   },
+   {
+    "n": 88,
+    "src": 9,
+    "seg": "I",
+    "start": 161.842,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   },
+   {
+    "n": 89,
+    "src": 10,
+    "seg": "I",
+    "start": 163.717,
+    "beats": 3,
+    "chord": "G",
+    "section": "intro_a"
+   }
+  ],
+  "rules_kept": [
+   "只在小节线剪接，循环都是整小节，拍网格连续",
+   "只用 A、B 级循环和 A 级跳转 38->46",
+   "高潮（第 62 到 64 小节）只经过一次，且是最后一次经过",
+   "不改音高，不改速度",
+   "跳回前奏只在急停之后（尾声，故意的一口气，不是藏起来的接缝）"
+  ],
+  "fallbacks": [
+   "若“尾音 2 小节后进第 11 小节”试听不自然：在第 65 小节线直接接第 11 小节（cc_map 的 E2，625 ms 等功率），或尾音后接第 3 小节，场景长度不变",
+   "若“第 18 小节后进第 3 小节”不自然：改进第 1 或第 2 小节（多 1 到 2 小节近乎无声的思考时间），s10 同步加长整小节",
+   "屏息段加长若觉得太久：改用 23->20（B 级，同样加 3 小节）或只加 2 小节（s04 少 1.875 秒，需重排 s04 文字）"
+  ]
+ },
+ "signature_shots": [
+  {
+   "scene": "s03",
+   "name": "熄灯之城，遗忘瀑布",
+   "music_moments": [
+    22.467,
+    29.967
+   ]
+  },
+  {
+   "scene": "s04",
+   "name": "abandon 无限楼梯",
+   "music_moments": [
+    35.592,
+    42.467,
+    53.717
+   ]
+  },
+  {
+   "scene": "s06",
+   "name": "第 50 个词，相遇星图",
+   "music_moments": [
+    74.342,
+    81.842,
+    85.592
+   ]
+  },
+  {
+   "scene": "s08",
+   "name": "合书点火，万家灯火",
+   "music_moments": [
+    111.842,
+    117.467,
+    121.217
+   ]
+  },
+  {
+   "scene": "s10",
+   "name": "光点归位，方法卡定格",
+   "music_moments": [
+    146.842,
+    158.092,
+    161.842
+   ]
+  }
+ ],
+ "must_keep_three": [
+  "s03 熄灯之城，遗忘瀑布",
+  "s06 第 50 个词，相遇星图",
+  "s08 合书点火，万家灯火"
+ ],
+ "motif": {
+  "name": "一粒光：evidence 里字母 i 上的那个点，也就是这个词的记忆（亮度 = 还记得多少，色温 = 全片温度计）",
+  "path": [
+   "s01 evidence 的 i 点（冷白蓝），离开单词飘走",
+   "s02 城里第一扇亮的窗",
+   "s03 带着 evidence 沿遗忘曲线滑落、变暗到 30%",
+   "s04 扣着的两张方法卡卡背中央的光点",
+   "s05 爆发时落进光河，化成河面暖色光点",
+   "s06 50 个词里唯一没亮的 i 点，每遇见一次亮一档",
+   "s07 被夹在合上的书脊里，越闪越快",
+   "s08 炸开飞进学习者的头，冲击波点亮全城",
+   "s09 金楼楼顶的星；翻开的两张卡",
+   "s10 落回 ı 上（暖金），成为金句句号和方法卡右上角的装饰"
+  ]
+ },
+ "evidence_count_before_s10": 14,
+ "rationale": [
+  "片长 165.6 秒（2 分 45.6 秒），按内容定，不按配乐长度定。一条完整的论证链（痛点、遗忘、错觉、输入、遇见、合上书想、证据、自己试一次、方法）加上每条中文都留足阅读时间，五个名场面都有呼吸，算下来就是 165 秒左右。再长只能靠 C 级循环或让字幕空等，就拖了；再短就得砍证据或压阅读时间。正好落在 B站 2 分半到 3 分钟的区间。",
+  "结构让《Cornfield Chase》本身的起伏去托内容。冷开头（s01 到 s03）用前奏：从接近无声渐入，冷、悬着；遗忘瀑布骑在 intro_b 新进来的高音层和渐强上。",
+  "s04 的“原地打转”用屏息段：低音撤掉，E 持续音上的十六分音符像钟表滴答，和声一直不动，正好配永远回到原点的楼梯，以及扣着不翻的两张卡；起势小节把人推向爆发。",
+  "全曲最强的一击（原曲 42.467 秒）给 s05，那是全片第一缕暖光：词沙冲成光河。s06 的星图骑在两次新声部进入上（光泽层进来、深低音回来）。",
+  "s07 的“合上书”放在 build_2 整轮渐强里：颜色退冷，张力往上顶；最后半拍画面全黑，音乐不停，这就是“高潮前留半拍空白”。",
+  "恍然大悟放在全曲最满的一刻：原曲第 62 小节 F 强拍，剪辑后 111.842 秒，在全片 67.5% 处。高潮在剪辑里只经过一次，就是最后一次。",
+  "高潮后用 Zimmer 自己写的急停：混响尾音里的寂静，留给“俯视整座城是一颗大脑”。然后前奏回来，作温暖的尾声。",
+  "s10 问“还记得开头那个词吗？”时，响的正是开头那段渐入；答案解码落在和 s01“片尾，考你。”同一个和弦（原曲第 5 小节 G）上，配乐自己也在“想起”。方法卡落在 Am（主和弦）强拍上，然后两小节淡出。第二遍看才会发现这个对位。",
+  "剪辑只在小节线上，只用 A 级、B 级循环和 A 级跳转 38->46，拍网格从头到尾连续。唯一两处听得出的变化都是作曲本身的动作：一处是原曲的急停和它自己的尾音，另一处是急停之后回到前奏。这是一口气，不是藏起来的接缝。"
+ ],
+ "changes_from_v1": [
+  "v1 共 11 场 205.2 秒，改为 10 场 165.6 秒。",
+  "v1 s10 的方法回路（读想隔用圆环、66 格打卡条）并进最后的方法卡：四行按拍落下，打卡条可作卡片底部彩蛋。",
+  "v1 s09 的两组实验只留一组，用和单词直接相关的 Karpicke & Roediger 2008（约 80% 对不到 40%）；2006 那组已经在 s04 用作“错觉”。",
+  "v1 s08 的间隔复习锯齿图挪到 s09，成为“分散复习”那张卡翻开后的卡面；s08 只留点火、冲击波、升空、大脑和主旨句。",
+  "压缩：s02 20.4 秒改 11.25 秒，s03 17.9 秒改 13.1 秒，s04 23.0 秒改 20.0 秒，s08 23.0 秒改 13.1 秒，s11（现 s10）26.4 秒改 22.5 秒。放宽：s07 10.2 秒改 15.0 秒（整轮 build_2）。",
+  "保留：五个名场面、母题光点的完整路线、城市即记忆的第二母题、无脸学习者、色彩剧本、evidence 可读出现 14 次（片尾说“十几次”）。所有屏幕句和数字都沿用 v1 已核对的 EVIDENCE 原句。"
+ ],
+ "downstream_notes": [
+  "配乐：按 music.segments 剪。急停之后的部分（2 小节尾音，然后 11-13、10-18、3-9、6-10，最后 2 小节淡出）cc_edit.py 不能直接表达，需要单独处理；两处故意的接口（尾音接第 11 小节、第 18 小节接第 3 小节）要试听并跑接缝、响度和咔哒检查，不行就按 music.fallbacks 换，场景长度不变。剪完重新生成 map.json 和 energy.json。",
+  "分镜检查：story/check_storyboard.py 第 10 条把 s11 写死为片尾考题场；v2 的片尾考题场是 s10，要改。",
+  "复用代码：scenes_v1 的 s01 到 s05 是按 Epic Vista（4/4，94 BPM，一小节 2.553 秒）卡的点，要改成 3/4、96 BPM（一小节 1.875 秒，一拍 0.625 秒，十六分音符 0.15625 秒），时长按本表改。",
+  "卡点：《Cornfield Chase》没有鼓，“鼓点处闪光”改为卡小节强拍、新声部进入点（见各场 bar_lines 和 cues）和十六分音符。",
+  "s06 的 visual_text（50 词段落、8 个含 evidence 的原文片段，同屏不超过 3 个）照 v1 分镜 s06 搬过来。",
+  "备用版（Epic Vista，CC0）：同一套画面剪到 165.592 秒，场景切换和 111.842 秒的恍然大悟尽量对齐它的小节线和爆发点；这是单独的一步。"
+ ],
+ "scenes": [
+  {
+   "id": "s01",
+   "start": 0.0,
+   "duration": 11.217,
+   "end": 11.217,
+   "bars": 6,
+   "energy": 2,
+   "music_role": "quiet ostinato",
+   "music_role_zh": "安静的固定音型",
+   "derived_from": [
+    "s01"
+   ],
+   "summary": "冷开场钩子：黑暗里一粒冷光点穿过词尘，画出单词卡，落在 evidence 的 ı 上当那个点；“片尾，考你。”砸在第一次换和弦上。",
+   "color_temp": 1,
+   "signature": null,
+   "music": "开头的渐入（第 1 到 4 小节 F，从接近无声起来，第 3 小节起听得见），第 5 小节第一次换和弦到 G。",
+   "source_bars": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 0.0,
+     "src_bar": 1,
+     "chord": "F",
+     "section": "intro_a"
+    },
+    {
+     "t": 1.842,
+     "global": 1.842,
+     "src_bar": 2,
+     "chord": "F",
+     "section": "intro_a"
+    },
+    {
+     "t": 3.717,
+     "global": 3.717,
+     "src_bar": 3,
+     "chord": "F",
+     "section": "intro_a"
+    },
+    {
+     "t": 5.592,
+     "global": 5.592,
+     "src_bar": 4,
+     "chord": "F",
+     "section": "intro_a"
+    },
+    {
+     "t": 7.467,
+     "global": 7.467,
+     "src_bar": 5,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 9.342,
+     "global": 9.342,
+     "src_bar": 6,
+     "chord": "G",
+     "section": "intro_a"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 0.0,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "光点在近黑里随渐入呼吸"
+    },
+    {
+     "t": 1.842,
+     "global": 1.842,
+     "bar_in_scene": 2,
+     "beat": 1,
+     "what": "光点沿弧线穿过三层词尘，拖线画出磨砂单词卡"
+    },
+    {
+     "t": 3.717,
+     "global": 3.717,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "光点落在 ı 上（渐入刚好听得见）"
+    },
+    {
+     "t": 7.467,
+     "global": 7.467,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "“片尾，考你。”砸下，冲击波推开词尘，倒计时细弧预告"
+    },
+    {
+     "t": 9.342,
+     "global": 9.342,
+     "bar_in_scene": 6,
+     "beat": 1,
+     "what": "单词卡 3D 翻走，光点飘向夜城"
+    }
+   ],
+   "texts": [
+    {
+     "in": 2.6,
+     "out": 10.6,
+     "role": "en",
+     "text": "evidence"
+    },
+    {
+     "in": 4.342,
+     "out": 10.6,
+     "role": "line",
+     "text": "n. 证据"
+    },
+    {
+     "in": 4.967,
+     "out": 7.35,
+     "role": "line",
+     "text": "先记住这个词。"
+    },
+    {
+     "in": 7.467,
+     "out": 10.9,
+     "role": "headline",
+     "text": "片尾，考你。"
+    }
+   ],
+   "reuse": "scenes_v1/s01.js：改按 3/4 拍网格重排时间（10.23 秒改 11.22 秒）"
+  },
+  {
+   "id": "s02",
+   "start": 11.217,
+   "duration": 11.25,
+   "end": 22.467,
+   "bars": 6,
+   "energy": 3,
+   "music_role": "quiet ostinato",
+   "music_role_zh": "安静的固定音型",
+   "derived_from": [
+    "s02"
+   ],
+   "summary": "扎心：夜城第一扇窗是 evidence；小学到考研五排楼一拍一排升起；“你背过的单词，后来都去哪了？”",
+   "color_temp": 1.5,
+   "signature": null,
+   "music": "前奏 G、Am 的长音和弦加顶上 E 持续音的“滴答”，冷、悬着（含一次 4 小节前奏循环）。问题第二行落在 Am（小调）上。",
+   "source_bars": [
+    7,
+    8,
+    9,
+    6,
+    7,
+    8
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 11.217,
+     "src_bar": 7,
+     "chord": "Am",
+     "section": "intro_a"
+    },
+    {
+     "t": 1.875,
+     "global": 13.092,
+     "src_bar": 8,
+     "chord": "Am",
+     "section": "intro_a"
+    },
+    {
+     "t": 3.75,
+     "global": 14.967,
+     "src_bar": 9,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 5.625,
+     "global": 16.842,
+     "src_bar": 6,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 7.5,
+     "global": 18.717,
+     "src_bar": 7,
+     "chord": "Am",
+     "section": "intro_a"
+    },
+    {
+     "t": 9.375,
+     "global": 20.592,
+     "src_bar": 8,
+     "chord": "Am",
+     "section": "intro_a"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 11.217,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "光点落进第一扇窗，窗像灯管一样闪亮"
+    },
+    {
+     "t": 0.625,
+     "global": 11.842,
+     "bar_in_scene": 1,
+     "beat": 2,
+     "what": "小学、初中、高中、大学、考研五排楼一拍一排升起"
+    },
+    {
+     "t": 3.75,
+     "global": 14.967,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "手机划词卡，每张卡亮一扇窗，越来越快"
+    },
+    {
+     "t": 5.625,
+     "global": 16.842,
+     "bar_in_scene": 4,
+     "beat": 1,
+     "what": "问题第一行"
+    },
+    {
+     "t": 7.5,
+     "global": 18.717,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "问题第二行落在 Am"
+    },
+    {
+     "t": 9.375,
+     "global": 20.592,
+     "bar_in_scene": 6,
+     "beat": 1,
+     "what": "标题碎成光块飞进最后几扇暗窗，全城冷白全亮，定住"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.3,
+     "out": 4.4,
+     "role": "en",
+     "text": "evidence"
+    },
+    {
+     "in": 0.625,
+     "out": 7.4,
+     "role": "small",
+     "text": "小学"
+    },
+    {
+     "in": 1.25,
+     "out": 7.4,
+     "role": "small",
+     "text": "初中"
+    },
+    {
+     "in": 1.875,
+     "out": 7.4,
+     "role": "small",
+     "text": "高中"
+    },
+    {
+     "in": 2.5,
+     "out": 7.4,
+     "role": "small",
+     "text": "大学"
+    },
+    {
+     "in": 3.125,
+     "out": 7.4,
+     "role": "small",
+     "text": "考研"
+    },
+    {
+     "in": 1.875,
+     "out": 5.4,
+     "role": "line",
+     "text": "从小学，背到考研。"
+    },
+    {
+     "in": 5.625,
+     "out": 11.0,
+     "role": "headline",
+     "text": "你背过的单词，"
+    },
+    {
+     "in": 7.5,
+     "out": 11.0,
+     "role": "headline",
+     "text": "后来都去哪了？"
+    }
+   ],
+   "reuse": "scenes_v1/s02.js：20.4 秒压到 11.25 秒（手机划卡段缩短）"
+  },
+  {
+   "id": "s03",
+   "start": 22.467,
+   "duration": 13.125,
+   "end": 35.592,
+   "bars": 7,
+   "energy": 4,
+   "music_role": "layer entry",
+   "music_role_zh": "新声部进入",
+   "derived_from": [
+    "s03"
+   ],
+   "summary": "原因一：不复习就会忘，一开始忘得最快。熄灯后剩下的亮窗就是遗忘曲线，几千个真实考研词从悬崖瀑布般坠落；“不是你笨。”",
+   "color_temp": 1,
+   "signature": "熄灯之城，遗忘瀑布",
+   "music": "第 3 小节起进入 intro_b：高音区一层加入、慢慢渐强。熄灯在 G 上，曲线在 F（新的一层进来）上画出，瀑布随渐强越涌越满。",
+   "source_bars": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 22.467,
+     "src_bar": 9,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 1.875,
+     "global": 24.342,
+     "src_bar": 10,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 3.75,
+     "global": 26.217,
+     "src_bar": 11,
+     "chord": "F",
+     "section": "intro_b"
+    },
+    {
+     "t": 5.625,
+     "global": 28.092,
+     "src_bar": 12,
+     "chord": "F",
+     "section": "intro_b"
+    },
+    {
+     "t": 7.5,
+     "global": 29.967,
+     "src_bar": 13,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 9.375,
+     "global": 31.842,
+     "src_bar": 14,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 11.25,
+     "global": 33.717,
+     "src_bar": 15,
+     "chord": "Am",
+     "section": "intro_b"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 22.467,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "全城从左到右一拍一大片熄灯"
+    },
+    {
+     "t": 1.875,
+     "global": 24.342,
+     "bar_in_scene": 2,
+     "beat": 1,
+     "what": "只剩零星几扇，一拍几扇闪灭"
+    },
+    {
+     "t": 3.75,
+     "global": 26.217,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "intro_b 新的一层进来：冰白曲线沿亮窗顶端描出，坐标轴画出，楼退到 15%"
+    },
+    {
+     "t": 4.375,
+     "global": 26.842,
+     "bar_in_scene": 3,
+     "beat": 2,
+     "what": "evıdence 沿曲线俯冲两拍，再在平尾爬行，每过一个标记掉一个字母"
+    },
+    {
+     "t": 7.5,
+     "global": 29.967,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "名场面：遗忘瀑布，几千个真实考研词贴曲线流下、从悬崖倾泻进深渊"
+    },
+    {
+     "t": 9.375,
+     "global": 31.842,
+     "bar_in_scene": 6,
+     "beat": 1,
+     "what": "“不是你笨。”（瀑布还在落）"
+    },
+    {
+     "t": 11.25,
+     "global": 33.717,
+     "bar_in_scene": 7,
+     "beat": 1,
+     "what": "曲线平尾折成之字线（匹配转场到楼梯）"
+    }
+   ],
+   "texts": [
+    {
+     "in": 3.9,
+     "out": 12.9,
+     "role": "small",
+     "text": "记得的"
+    },
+    {
+     "in": 3.9,
+     "out": 12.9,
+     "role": "small",
+     "text": "时间"
+    },
+    {
+     "in": 4.0,
+     "out": 8.9,
+     "role": "en",
+     "text": "forgetting curve"
+    },
+    {
+     "in": 4.0,
+     "out": 8.9,
+     "role": "en",
+     "text": "evidence"
+    },
+    {
+     "in": 3.9,
+     "out": 8.9,
+     "role": "headline",
+     "text": "不复习，新学的东西会很快忘掉，"
+    },
+    {
+     "in": 4.8,
+     "out": 8.9,
+     "role": "line",
+     "text": "而且一开始，忘得最快。"
+    },
+    {
+     "in": 3.9,
+     "out": 12.9,
+     "role": "source",
+     "text": "Ebbinghaus, 1885 · Murre & Dros, 2015"
+    },
+    {
+     "in": 9.375,
+     "out": 12.9,
+     "role": "headline",
+     "text": "不是你笨。"
+    }
+   ],
+   "reuse": "scenes_v1/s03.js：17.9 秒压到 13.1 秒"
+  },
+  {
+   "id": "s04",
+   "start": 35.592,
+   "duration": 20.0,
+   "end": 55.592,
+   "bars": 11,
+   "energy": 5,
+   "music_role": "build",
+   "music_role_zh": "推进",
+   "derived_from": [
+    "s04"
+   ],
+   "summary": "原因二：反复看在原地打转。单词书搭成的彭罗斯楼梯，每层都是 abandon；“反复看，当下觉得记住了；一周后，反而记得更少。”楼梯塌成 10 张方法卡，效果最高的 2 张扣着悬在光里。",
+   "color_temp": 2,
+   "signature": "abandon 无限楼梯",
+   "music": "intro_b 最后的 Am、G，然后第 4 小节起是“屏息段”（lift）：低音撤掉，E 持续音上紧密明亮的十六分音符像钟表滴答，不换和弦，原地打转；最后一小节起势涌向爆发。屏息段加长 3 小节（两个 A 级循环）。",
+   "source_bars": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    20,
+    21,
+    21,
+    22,
+    23
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 35.592,
+     "src_bar": 16,
+     "chord": "Am",
+     "section": "intro_b"
+    },
+    {
+     "t": 1.875,
+     "global": 37.467,
+     "src_bar": 17,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 3.75,
+     "global": 39.342,
+     "src_bar": 18,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 5.0,
+     "global": 40.592,
+     "src_bar": 19,
+     "chord": "E-pedal",
+     "section": "lift"
+    },
+    {
+     "t": 6.875,
+     "global": 42.467,
+     "src_bar": 20,
+     "chord": "E-pedal",
+     "section": "lift"
+    },
+    {
+     "t": 8.75,
+     "global": 44.342,
+     "src_bar": 21,
+     "chord": "E-pedal",
+     "section": "lift"
+    },
+    {
+     "t": 10.625,
+     "global": 46.217,
+     "src_bar": 20,
+     "chord": "E-pedal",
+     "section": "lift"
+    },
+    {
+     "t": 12.5,
+     "global": 48.092,
+     "src_bar": 21,
+     "chord": "E-pedal",
+     "section": "lift"
+    },
+    {
+     "t": 14.375,
+     "global": 49.967,
+     "src_bar": 21,
+     "chord": "E-pedal",
+     "section": "lift"
+    },
+    {
+     "t": 16.25,
+     "global": 51.842,
+     "src_bar": 22,
+     "chord": "E-pedal",
+     "section": "lift"
+    },
+    {
+     "t": 18.125,
+     "global": 53.717,
+     "src_bar": 23,
+     "chord": "E-pedal",
+     "section": "lift"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 35.592,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "之字线长成书脊台阶的彭罗斯楼梯，学习者一拍一级往上爬"
+    },
+    {
+     "t": 1.875,
+     "global": 37.467,
+     "bar_in_scene": 2,
+     "beat": 1,
+     "what": "每个平台一笔不发光的荧光笔；“熟悉感”仪表跳一格，“真的记得”不动"
+    },
+    {
+     "t": 3.75,
+     "global": 39.342,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "竖直光缝劈开画面：此刻 | 一周后，右边划线下的字母漏光"
+    },
+    {
+     "t": 5.0,
+     "global": 40.592,
+     "bar_in_scene": 4,
+     "beat": 1,
+     "what": "屏息段开始：低音撤掉，十六分音符滴答；进度条按十六分音符涨满、每两小节清零"
+    },
+    {
+     "t": 6.875,
+     "global": 42.467,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "楼梯塌落，书脊翻成 10 张方法卡，一拍一张落到三层架上"
+    },
+    {
+     "t": 12.5,
+     "global": 48.092,
+     "bar_in_scene": 8,
+     "beat": 1,
+     "what": "顶层两张扣着的卡挂在冷白体积光里，随滴答轻摆"
+    },
+    {
+     "t": 18.125,
+     "global": 53.717,
+     "bar_in_scene": 11,
+     "beat": 1,
+     "what": "起势小节：架子化成一细股词沙往下漏，扣着的卡背光点一跳一跳"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.6,
+     "out": 6.8,
+     "role": "en",
+     "text": "abandon"
+    },
+    {
+     "in": 0.9,
+     "out": 6.8,
+     "role": "small",
+     "text": "熟悉感"
+    },
+    {
+     "in": 0.9,
+     "out": 6.8,
+     "role": "small",
+     "text": "真的记得"
+    },
+    {
+     "in": 0.6,
+     "out": 3.65,
+     "role": "line",
+     "text": "反复看，当下觉得记住了；"
+    },
+    {
+     "in": 0.6,
+     "out": 6.8,
+     "role": "source",
+     "text": "Roediger & Karpicke, 2006"
+    },
+    {
+     "in": 3.75,
+     "out": 6.8,
+     "role": "small",
+     "text": "此刻"
+    },
+    {
+     "in": 3.75,
+     "out": 6.8,
+     "role": "small",
+     "text": "一周后"
+    },
+    {
+     "in": 3.75,
+     "out": 6.8,
+     "role": "headline",
+     "text": "一周后，反而记得更少。"
+    },
+    {
+     "in": 7.175,
+     "out": 18.0,
+     "role": "small",
+     "text": "效果高"
+    },
+    {
+     "in": 7.175,
+     "out": 18.0,
+     "role": "small",
+     "text": "中等"
+    },
+    {
+     "in": 7.175,
+     "out": 18.0,
+     "role": "small",
+     "text": "偏低"
+    },
+    {
+     "in": 7.5,
+     "out": 18.0,
+     "role": "small",
+     "text": "精细提问"
+    },
+    {
+     "in": 7.5,
+     "out": 18.0,
+     "role": "small",
+     "text": "自我解释"
+    },
+    {
+     "in": 7.5,
+     "out": 18.0,
+     "role": "small",
+     "text": "交错练习"
+    },
+    {
+     "in": 8.125,
+     "out": 18.0,
+     "role": "small",
+     "text": "总结"
+    },
+    {
+     "in": 8.125,
+     "out": 18.0,
+     "role": "small",
+     "text": "划线"
+    },
+    {
+     "in": 8.125,
+     "out": 18.0,
+     "role": "small",
+     "text": "关键词记忆法"
+    },
+    {
+     "in": 8.125,
+     "out": 18.0,
+     "role": "small",
+     "text": "文本意象法"
+    },
+    {
+     "in": 8.125,
+     "out": 18.0,
+     "role": "small",
+     "text": "重读"
+    },
+    {
+     "in": 6.875,
+     "out": 12.2,
+     "role": "line",
+     "text": "最常见的学习方法，反复读、划重点，研究评估效果偏低。"
+    },
+    {
+     "in": 6.875,
+     "out": 18.0,
+     "role": "source",
+     "text": "Dunlosky et al., 2013"
+    },
+    {
+     "in": 12.5,
+     "out": 18.0,
+     "role": "line",
+     "text": "10 种学习方法里，被评为效果最高的只有 2 种。"
+    }
+   ],
+   "reuse": "scenes_v1/s04.js：23.0 秒压到 20.0 秒；楼梯段放在 intro_b 尾巴，塌落和扣卡放在屏息段"
+  },
+  {
+   "id": "s05",
+   "start": 55.592,
+   "duration": 18.75,
+   "end": 74.342,
+   "bars": 10,
+   "energy": 7,
+   "music_role": "layer entry",
+   "music_role_zh": "新声部进入",
+   "derived_from": [
+    "s05"
+   ],
+   "summary": "转折，全片第一缕暖光：爆发那一拍，词沙冲成一条由真实英文句子流成的光河；“大量接触自己基本能听懂、读懂的内容，是学会一门语言的基础。”河上漂来用户水彩插图做的纸灯笼：“找到你真正想看、想读的英语。”",
+   "color_temp": 4,
+   "signature": "一河星光（次要名场面）",
+   "music": "第 0 秒是全曲最强的一击（原曲 42.467 秒）：巨大的低音区进入、满编，十六分音符推着走；第 7 小节起 drive_1，高音层增长。",
+   "source_bars": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 55.592,
+     "src_bar": 24,
+     "chord": "F",
+     "section": "arrival"
+    },
+    {
+     "t": 1.875,
+     "global": 57.467,
+     "src_bar": 25,
+     "chord": "F",
+     "section": "arrival"
+    },
+    {
+     "t": 3.75,
+     "global": 59.342,
+     "src_bar": 26,
+     "chord": "G",
+     "section": "arrival"
+    },
+    {
+     "t": 5.625,
+     "global": 61.217,
+     "src_bar": 27,
+     "chord": "G",
+     "section": "arrival"
+    },
+    {
+     "t": 7.5,
+     "global": 63.092,
+     "src_bar": 28,
+     "chord": "Am",
+     "section": "arrival"
+    },
+    {
+     "t": 9.375,
+     "global": 64.967,
+     "src_bar": 29,
+     "chord": "Am",
+     "section": "arrival"
+    },
+    {
+     "t": 11.25,
+     "global": 66.842,
+     "src_bar": 30,
+     "chord": "F",
+     "section": "drive_1"
+    },
+    {
+     "t": 13.125,
+     "global": 68.717,
+     "src_bar": 31,
+     "chord": "F",
+     "section": "drive_1"
+    },
+    {
+     "t": 15.0,
+     "global": 70.592,
+     "src_bar": 32,
+     "chord": "G",
+     "section": "drive_1"
+    },
+    {
+     "t": 16.875,
+     "global": 72.467,
+     "src_bar": 33,
+     "chord": "G",
+     "section": "drive_1"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 55.592,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "爆发：词沙在强拍上冲开河道，几千个光点成河（青到暖金），第一缕暖光；学习者头灯转淡金"
+    },
+    {
+     "t": 3.75,
+     "global": 59.342,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "镜头从俯视压到 35 度斜视，真实句子光带沿河流动"
+    },
+    {
+     "t": 7.5,
+     "global": 63.092,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "三只纸灯笼（用户水彩插图）在这小节的三拍上依次漂入"
+    },
+    {
+     "t": 11.25,
+     "global": 66.842,
+     "bar_in_scene": 7,
+     "beat": 1,
+     "what": "drive_1 高音层进来：河面变宽变亮"
+    },
+    {
+     "t": 15.0,
+     "global": 70.592,
+     "bar_in_scene": 9,
+     "beat": 1,
+     "what": "句子光带开始拉直（预告下一场的阅读页）"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.625,
+     "out": 7.0,
+     "role": "en",
+     "text": "comprehensible input"
+    },
+    {
+     "in": 0.625,
+     "out": 7.2,
+     "role": "headline",
+     "text": "大量接触自己基本能听懂、读懂的内容，"
+    },
+    {
+     "in": 1.875,
+     "out": 7.2,
+     "role": "line",
+     "text": "是学会一门语言的基础。"
+    },
+    {
+     "in": 0.625,
+     "out": 7.0,
+     "role": "source",
+     "text": "Krashen, 1982"
+    },
+    {
+     "in": 7.5,
+     "out": 11.1,
+     "role": "headline",
+     "text": "找到你真正想看、想读的英语。"
+    },
+    {
+     "in": 7.5,
+     "out": 11.1,
+     "role": "small",
+     "text": "越狱的章鱼"
+    },
+    {
+     "in": 8.125,
+     "out": 11.1,
+     "role": "small",
+     "text": "鲸歌易帜"
+    },
+    {
+     "in": 8.75,
+     "out": 11.1,
+     "role": "small",
+     "text": "写给外星人的一张唱片"
+    },
+    {
+     "in": 7.0,
+     "out": 11.2,
+     "role": "source",
+     "text": "Masgoret & Gardner, 2003"
+    },
+    {
+     "in": 11.25,
+     "out": 18.4,
+     "role": "line",
+     "text": "34 项研究的汇总：大量阅读能明显提高阅读能力。"
+    },
+    {
+     "in": 11.25,
+     "out": 18.4,
+     "role": "source",
+     "text": "Nakanishi, 2015"
+    }
+   ],
+   "reuse": "scenes_v1/s05.js：17.9 秒改 18.75 秒，0 秒对准爆发"
+  },
+  {
+   "id": "s06",
+   "start": 74.342,
+   "duration": 22.5,
+   "end": 96.842,
+   "bars": 12,
+   "energy": 7,
+   "music_role": "layer entry",
+   "music_role_zh": "新声部进入",
+   "derived_from": [
+    "s06"
+   ],
+   "summary": "单词怎么扎根：一页正好 50 个词，49 个逐个点亮，只剩 evidence（约 98%，留意生词）；它溶进用户自己的 4K 精读画面，再在 70 篇故事里真实遇见 8 次连成星图；“一个生词，在上下文里遇到约 10 次，才会有明显收获；想真正掌握，往往还要更多次。”",
+   "color_temp": 5,
+   "signature": "第 50 个词，相遇星图",
+   "music": "第 0 秒 8 kHz 以上的“光泽层”进来（原曲第 34 小节）；第 5 小节跳过 drive_2 直接进 build_1（A 级），深低音回来，第二次抬升：星图在这里开始加速。",
+   "source_bars": [
+    34,
+    35,
+    36,
+    37,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 74.342,
+     "src_bar": 34,
+     "chord": "Am",
+     "section": "drive_1"
+    },
+    {
+     "t": 1.875,
+     "global": 76.217,
+     "src_bar": 35,
+     "chord": "Am",
+     "section": "drive_1"
+    },
+    {
+     "t": 3.75,
+     "global": 78.092,
+     "src_bar": 36,
+     "chord": "G",
+     "section": "drive_1"
+    },
+    {
+     "t": 5.625,
+     "global": 79.967,
+     "src_bar": 37,
+     "chord": "G",
+     "section": "drive_1"
+    },
+    {
+     "t": 7.5,
+     "global": 81.842,
+     "src_bar": 46,
+     "chord": "F",
+     "section": "build_1"
+    },
+    {
+     "t": 9.375,
+     "global": 83.717,
+     "src_bar": 47,
+     "chord": "F",
+     "section": "build_1"
+    },
+    {
+     "t": 11.25,
+     "global": 85.592,
+     "src_bar": 48,
+     "chord": "G",
+     "section": "build_1"
+    },
+    {
+     "t": 13.125,
+     "global": 87.467,
+     "src_bar": 49,
+     "chord": "G",
+     "section": "build_1"
+    },
+    {
+     "t": 15.0,
+     "global": 89.342,
+     "src_bar": 50,
+     "chord": "Am",
+     "section": "build_1"
+    },
+    {
+     "t": 16.875,
+     "global": 91.217,
+     "src_bar": 51,
+     "chord": "Am",
+     "section": "build_1"
+    },
+    {
+     "t": 18.75,
+     "global": 93.092,
+     "src_bar": 52,
+     "chord": "G",
+     "section": "build_1"
+    },
+    {
+     "t": 20.625,
+     "global": 94.967,
+     "src_bar": 53,
+     "chord": "G",
+     "section": "build_1"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 74.342,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "光带拉直成一页 50 个词（第 51 篇第 9 到 12 句），光泽层一进来，词按十六分音符逐个点亮，每个飞一粒光进 98% 圆环"
+    },
+    {
+     "t": 3.75,
+     "global": 78.092,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "绿色圆环收紧圈住唯一没亮的 evidence：noticing"
+    },
+    {
+     "t": 7.5,
+     "global": 81.842,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "深低音回来：页面液体溶解成用户 4K 精读画面（51 篇 86.5 秒），一道扫光"
+    },
+    {
+     "t": 11.25,
+     "global": 85.592,
+     "bar_in_scene": 7,
+     "beat": 1,
+     "what": "星图：evidence 在 70 篇故事里另外 8 处真实出现，先每两拍一颗星"
+    },
+    {
+     "t": 15.0,
+     "global": 89.342,
+     "bar_in_scene": 9,
+     "beat": 1,
+     "what": "改为每拍一颗，光线连向中央的词，每连一次亮一档"
+    },
+    {
+     "t": 18.75,
+     "global": 93.092,
+     "bar_in_scene": 11,
+     "beat": 1,
+     "what": "星图完整，中央的词转暖金"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.3,
+     "out": 6.8,
+     "role": "headline",
+     "text": "每 50 个词，最多 1 个生词，"
+    },
+    {
+     "in": 1.25,
+     "out": 6.8,
+     "role": "line",
+     "text": "读起来才轻松。"
+    },
+    {
+     "in": 2.5,
+     "out": 6.8,
+     "role": "small",
+     "text": "约 98%"
+    },
+    {
+     "in": 0.3,
+     "out": 3.75,
+     "role": "source",
+     "text": "Hu & Nation, 2000"
+    },
+    {
+     "in": 3.9,
+     "out": 7.3,
+     "role": "en",
+     "text": "noticing"
+    },
+    {
+     "in": 3.9,
+     "out": 7.3,
+     "role": "source",
+     "text": "Schmidt, 1990"
+    },
+    {
+     "in": 7.8,
+     "out": 11.0,
+     "role": "small",
+     "text": "第 51 篇《林下之网》精读视频"
+    },
+    {
+     "in": 11.25,
+     "out": 22.3,
+     "role": "small",
+     "text": "遇见"
+    },
+    {
+     "in": 15.0,
+     "out": 22.3,
+     "role": "headline",
+     "text": "一个生词，在上下文里遇到约 10 次，"
+    },
+    {
+     "in": 15.625,
+     "out": 22.3,
+     "role": "headline",
+     "text": "才会有明显收获；"
+    },
+    {
+     "in": 16.875,
+     "out": 22.3,
+     "role": "line",
+     "text": "想真正掌握，往往还要更多次。"
+    },
+    {
+     "in": 15.0,
+     "out": 22.3,
+     "role": "source",
+     "text": "Webb, 2007"
+    }
+   ],
+   "reuse": "无现成代码，按 v1 分镜 s06 写（50 词段落与 8 个片段照 v1 的 visual_text）"
+  },
+  {
+   "id": "s07",
+   "start": 96.842,
+   "duration": 15.0,
+   "end": 111.842,
+   "bars": 8,
+   "energy": 8,
+   "music_role": "build",
+   "music_role_zh": "推进",
+   "derived_from": [
+    "s07"
+   ],
+   "summary": "低谷蓄力：“可是，遇见了，还会忘。光是读过，还不够。”几百条下垂的记忆线折成一本书，学习者在台灯下“合上书。”，光被夹在书脊里越闪越快，最后半拍全黑。",
+   "color_temp": 2.5,
+   "signature": null,
+   "music": "build_2：整轮稳定渐强，势不可挡，直推到高潮。画面反着走：颜色退回冷暗，张力跟着音乐往上顶；最后半拍画面全黑，音乐不停。",
+   "source_bars": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 96.842,
+     "src_bar": 54,
+     "chord": "F",
+     "section": "build_2"
+    },
+    {
+     "t": 1.875,
+     "global": 98.717,
+     "src_bar": 55,
+     "chord": "F",
+     "section": "build_2"
+    },
+    {
+     "t": 3.75,
+     "global": 100.592,
+     "src_bar": 56,
+     "chord": "G",
+     "section": "build_2"
+    },
+    {
+     "t": 5.625,
+     "global": 102.467,
+     "src_bar": 57,
+     "chord": "G",
+     "section": "build_2"
+    },
+    {
+     "t": 7.5,
+     "global": 104.342,
+     "src_bar": 58,
+     "chord": "Am",
+     "section": "build_2"
+    },
+    {
+     "t": 9.375,
+     "global": 106.217,
+     "src_bar": 59,
+     "chord": "Am",
+     "section": "build_2"
+    },
+    {
+     "t": 11.25,
+     "global": 108.092,
+     "src_bar": 60,
+     "chord": "G",
+     "section": "build_2"
+    },
+    {
+     "t": 13.125,
+     "global": 109.967,
+     "src_bar": 61,
+     "chord": "G",
+     "section": "build_2"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 96.842,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "颜色退回冷蓝黑：星图的线变成 evidence 的亮度时间线，每次遇见一个鼓包，鼓包之间一拍一段冷色阴影"
+    },
+    {
+     "t": 3.75,
+     "global": 100.592,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "镜头拉远：几百条同样下垂的线"
+    },
+    {
+     "t": 7.5,
+     "global": 104.342,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "线收拢折成书页，叠成一本打开的书；台灯、学习者背影"
+    },
+    {
+     "t": 11.25,
+     "global": 108.092,
+     "bar_in_scene": 7,
+     "beat": 1,
+     "what": "“砰”地合上书卡在强拍；台灯光被夹成竖缝，光点困在书脊"
+    },
+    {
+     "t": 13.125,
+     "global": 109.967,
+     "bar_in_scene": 8,
+     "beat": 1,
+     "what": "其余全熄，微光被吸进书脊，闪烁跟十六分音符越来越快"
+    },
+    {
+     "t": 14.688,
+     "global": 111.53,
+     "bar_in_scene": 8,
+     "beat": 3.5,
+     "what": "最后半拍：画面全黑（只有极淡颗粒），音乐继续冲向高潮"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.3,
+     "out": 4.4,
+     "role": "en",
+     "text": "evidence"
+    },
+    {
+     "in": 0.3,
+     "out": 4.4,
+     "role": "headline",
+     "text": "可是，遇见了，还会忘。"
+    },
+    {
+     "in": 0.3,
+     "out": 4.4,
+     "role": "source",
+     "text": "Ebbinghaus, 1885"
+    },
+    {
+     "in": 4.4,
+     "out": 8.4,
+     "role": "line",
+     "text": "光是读过，还不够。"
+    },
+    {
+     "in": 4.4,
+     "out": 8.4,
+     "role": "source",
+     "text": "Uchihara et al., 2019"
+    },
+    {
+     "in": 11.25,
+     "out": 14.3,
+     "role": "headline",
+     "text": "合上书。"
+    }
+   ],
+   "reuse": "无现成代码，按 v1 分镜 s07 写（10.2 秒放宽到 15 秒）"
+  },
+  {
+   "id": "s08",
+   "start": 111.842,
+   "duration": 13.125,
+   "end": 124.967,
+   "bars": 7,
+   "energy": 10,
+   "music_role": "climax",
+   "music_role_zh": "高潮",
+   "derived_from": [
+    "s08"
+   ],
+   "summary": "恍然大悟：书脊里的光炸开，“不是重复看，而是反复想起。”金色冲击波把整座城重新点亮、掉下去的词倒飞回窗里；音乐戛然而止，镜头在寂静里升空，上百行天际线被托成金色，俯视整座城是一颗发光的大脑。",
+   "color_temp": 10,
+   "signature": "合书点火，万家灯火",
+   "music": "0 秒是全曲最满的一刻（原曲第 62 小节 F 强拍，113.717 秒）；三小节全频段到顶后，在原曲自己的小节线上戛然而止，混响尾音响两小节（屏息的寂静）；第 6 小节 intro_b 的 F 轻轻回来。高潮只出现这一次。",
+   "source_bars": [
+    62,
+    63,
+    64,
+    "tail",
+    "tail",
+    11,
+    12
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 111.842,
+     "src_bar": 62,
+     "chord": "F",
+     "section": "peak"
+    },
+    {
+     "t": 1.875,
+     "global": 113.717,
+     "src_bar": 63,
+     "chord": "F",
+     "section": "peak"
+    },
+    {
+     "t": 3.75,
+     "global": 115.592,
+     "src_bar": 64,
+     "chord": "G",
+     "section": "peak"
+    },
+    {
+     "t": 5.625,
+     "global": 117.467,
+     "src_bar": "tail",
+     "chord": "G (tail)",
+     "section": "stop_tail"
+    },
+    {
+     "t": 7.5,
+     "global": 119.342,
+     "src_bar": "tail",
+     "chord": "G (tail)",
+     "section": "stop_tail"
+    },
+    {
+     "t": 9.375,
+     "global": 121.217,
+     "src_bar": 11,
+     "chord": "F",
+     "section": "intro_b"
+    },
+    {
+     "t": 11.25,
+     "global": 123.092,
+     "src_bar": 12,
+     "chord": "F",
+     "section": "intro_b"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 111.842,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "AHA 第一行：书脊光柱炸开、白金闪光、光点飞进学习者的头（100% 暖金）"
+    },
+    {
+     "t": 1.875,
+     "global": 113.717,
+     "bar_in_scene": 2,
+     "beat": 1,
+     "what": "AHA 第二行；金色球形冲击波点亮全城，s03 掉下去的词倒着飞回窗里（瀑布倒放）"
+    },
+    {
+     "t": 3.75,
+     "global": 115.592,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "摇臂开始升空：身后约 120 行天际线（每行一个词的记忆曲线）被金色“想起”波一行行托起"
+    },
+    {
+     "t": 5.625,
+     "global": 117.467,
+     "bar_in_scene": 4,
+     "beat": 1,
+     "what": "音乐戛然而止（原曲的急停，混响在响）：镜头在寂静里继续升"
+    },
+    {
+     "t": 7.5,
+     "global": 119.342,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "主旨句出现"
+    },
+    {
+     "t": 9.375,
+     "global": 121.217,
+     "bar_in_scene": 6,
+     "beat": 1,
+     "what": "intro_b 的 F 轻轻进来：垂直俯视，整座金色的城是一颗大脑，定住"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.0,
+     "out": 7.3,
+     "role": "headline",
+     "text": "不是重复看，",
+     "aha": true
+    },
+    {
+     "in": 1.875,
+     "out": 7.3,
+     "role": "headline",
+     "text": "而是反复想起。",
+     "aha": true
+    },
+    {
+     "in": 2.5,
+     "out": 7.3,
+     "role": "en",
+     "text": "retrieval"
+    },
+    {
+     "in": 1.875,
+     "out": 13.0,
+     "role": "source",
+     "text": "Roediger & Karpicke, 2006"
+    },
+    {
+     "in": 7.5,
+     "out": 13.0,
+     "role": "headline",
+     "text": "在读得懂的句子里，"
+    },
+    {
+     "in": 7.8,
+     "out": 13.0,
+     "role": "headline",
+     "text": "一次次遇见，一次次想起来。"
+    }
+   ],
+   "reuse": "无现成代码，按 v1 分镜 s08 写（23 秒压到 13.1 秒；间隔复习图移到 s09）"
+  },
+  {
+   "id": "s09",
+   "start": 124.967,
+   "duration": 18.125,
+   "end": 143.092,
+   "bars": 10,
+   "energy": 4,
+   "music_role": "resolution",
+   "music_role_zh": "收束",
+   "derived_from": [
+    "s09",
+    "s08"
+   ],
+   "summary": "钉牢：一周后，反复回想的单词约 80%，只看不想的不到 40%；s04 扣着的两张卡落下翻开：自测、分散复习；分散复习的卡面展开成间隔复习曲线：“合上书，把它想起来；隔几天，再想一次。”",
+   "color_temp": 8.5,
+   "signature": null,
+   "music": "intro_b 安静、慢慢变亮的 G、F、G、Am、G（含一次 4 小节循环），温暖笃定。翻牌在 G 的强拍上。",
+   "source_bars": [
+    13,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 124.967,
+     "src_bar": 13,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 1.875,
+     "global": 126.842,
+     "src_bar": 10,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 3.75,
+     "global": 128.717,
+     "src_bar": 11,
+     "chord": "F",
+     "section": "intro_b"
+    },
+    {
+     "t": 5.625,
+     "global": 130.592,
+     "src_bar": 12,
+     "chord": "F",
+     "section": "intro_b"
+    },
+    {
+     "t": 7.5,
+     "global": 132.467,
+     "src_bar": 13,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 9.375,
+     "global": 134.342,
+     "src_bar": 14,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 11.25,
+     "global": 136.217,
+     "src_bar": 15,
+     "chord": "Am",
+     "section": "intro_b"
+    },
+    {
+     "t": 13.125,
+     "global": 138.092,
+     "src_bar": 16,
+     "chord": "Am",
+     "section": "intro_b"
+    },
+    {
+     "t": 15.0,
+     "global": 139.967,
+     "src_bar": 17,
+     "chord": "G",
+     "section": "intro_b"
+    },
+    {
+     "t": 16.875,
+     "global": 141.842,
+     "src_bar": 18,
+     "chord": "G",
+     "section": "intro_b"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 124.967,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "大脑的街道网格压平成金色坐标纸，两栋楼从地平线升起（金楼窗全亮、楼顶站着光点；灰楼不发光）"
+    },
+    {
+     "t": 3.75,
+     "global": 128.717,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "数字滚动落定"
+    },
+    {
+     "t": 5.625,
+     "global": 130.592,
+     "bar_in_scene": 4,
+     "beat": 1,
+     "what": "s04 那两张扣着的卡从上方落下"
+    },
+    {
+     "t": 7.5,
+     "global": 132.467,
+     "bar_in_scene": 5,
+     "beat": 1,
+     "what": "强拍上 3D 翻牌：自测、分散复习"
+    },
+    {
+     "t": 11.25,
+     "global": 136.217,
+     "bar_in_scene": 7,
+     "beat": 1,
+     "what": "“分散复习”卡面展开成间隔复习图：每拍一道金色“想起”脉冲把曲线托起，下降一次比一次平、间隔一次比一次宽"
+    },
+    {
+     "t": 16.875,
+     "global": 141.842,
+     "bar_in_scene": 10,
+     "beat": 1,
+     "what": "金色曲线弯成一道圆弧（下一场的倒计时圈）"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.3,
+     "out": 7.3,
+     "role": "small",
+     "text": "一周后"
+    },
+    {
+     "in": 0.6,
+     "out": 7.3,
+     "role": "small",
+     "text": "反复回想的单词"
+    },
+    {
+     "in": 0.6,
+     "out": 7.3,
+     "role": "small",
+     "text": "只看不想的"
+    },
+    {
+     "in": 1.0,
+     "out": 7.3,
+     "role": "headline",
+     "text": "约 80%"
+    },
+    {
+     "in": 1.0,
+     "out": 7.3,
+     "role": "headline",
+     "text": "不到 40%"
+    },
+    {
+     "in": 0.3,
+     "out": 7.3,
+     "role": "source",
+     "text": "Karpicke & Roediger, 2008"
+    },
+    {
+     "in": 7.5,
+     "out": 11.7,
+     "role": "headline",
+     "text": "自测"
+    },
+    {
+     "in": 7.5,
+     "out": 11.7,
+     "role": "headline",
+     "text": "分散复习"
+    },
+    {
+     "in": 7.55,
+     "out": 11.7,
+     "role": "line",
+     "text": "自测和分散复习，被评为效果最好的两种方法。"
+    },
+    {
+     "in": 7.5,
+     "out": 11.7,
+     "role": "source",
+     "text": "Dunlosky et al., 2013"
+    },
+    {
+     "in": 11.75,
+     "out": 17.9,
+     "role": "line",
+     "text": "合上书，把它想起来；隔几天，再想一次。"
+    },
+    {
+     "in": 12.0,
+     "out": 17.9,
+     "role": "en",
+     "text": "spacing"
+    },
+    {
+     "in": 12.0,
+     "out": 17.9,
+     "role": "small",
+     "text": "示意"
+    },
+    {
+     "in": 11.75,
+     "out": 17.9,
+     "role": "source",
+     "text": "Cepeda et al., 2006"
+    }
+   ],
+   "reuse": "无现成代码，按 v1 分镜 s09（一组实验）加 s08 的间隔复习图写"
+  },
+  {
+   "id": "s10",
+   "start": 143.092,
+   "duration": 22.5,
+   "end": 165.592,
+   "bars": 12,
+   "energy": 3,
+   "music_role": "resolution",
+   "music_role_zh": "收束",
+   "derived_from": [
+    "s11",
+    "s10"
+   ],
+   "summary": "兑现承诺：“还记得开头那个词吗？”观众自己想，乱码解码出 evidence，光点落回 ı 上；“这个视频里，你已经遇见它十几次；刚才想起它的那一下，就是方法本身。”金句“多看一遍，不如合上书想一遍。”方法卡在主和弦上落定，署名，淡出。",
+   "color_temp": 9,
+   "signature": "光点归位，方法卡定格",
+   "music": "开头的渐入回来了（原曲第 3 小节 F 起）：音乐自己“想起”了开头。解码落在第 3 小节 G 上，正是 s01“片尾，考你。”落的那个和弦；方法卡落在 Am（主和弦）强拍上，之后在 G 上两小节淡出。",
+   "source_bars": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "bar_lines": [
+    {
+     "t": 0.0,
+     "global": 143.092,
+     "src_bar": 3,
+     "chord": "F",
+     "section": "intro_a"
+    },
+    {
+     "t": 1.875,
+     "global": 144.967,
+     "src_bar": 4,
+     "chord": "F",
+     "section": "intro_a"
+    },
+    {
+     "t": 3.75,
+     "global": 146.842,
+     "src_bar": 5,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 5.625,
+     "global": 148.717,
+     "src_bar": 6,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 7.5,
+     "global": 150.592,
+     "src_bar": 7,
+     "chord": "Am",
+     "section": "intro_a"
+    },
+    {
+     "t": 9.375,
+     "global": 152.467,
+     "src_bar": 8,
+     "chord": "Am",
+     "section": "intro_a"
+    },
+    {
+     "t": 11.25,
+     "global": 154.342,
+     "src_bar": 9,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 13.125,
+     "global": 156.217,
+     "src_bar": 6,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 15.0,
+     "global": 158.092,
+     "src_bar": 7,
+     "chord": "Am",
+     "section": "intro_a"
+    },
+    {
+     "t": 16.875,
+     "global": 159.967,
+     "src_bar": 8,
+     "chord": "Am",
+     "section": "intro_a"
+    },
+    {
+     "t": 18.75,
+     "global": 161.842,
+     "src_bar": 9,
+     "chord": "G",
+     "section": "intro_a"
+    },
+    {
+     "t": 20.625,
+     "global": 163.717,
+     "src_bar": 10,
+     "chord": "G",
+     "section": "intro_a"
+    }
+   ],
+   "cues": [
+    {
+     "t": 0.0,
+     "global": 143.092,
+     "bar_in_scene": 1,
+     "beat": 1,
+     "what": "暖奶油纸面上只剩光点，像光标一样闪；开头那段音乐回来"
+    },
+    {
+     "t": 1.875,
+     "global": 144.967,
+     "bar_in_scene": 2,
+     "beat": 1,
+     "what": "开头那张单词卡回来（暖白、金边），8 个空格，倒计时圈两拍画满"
+    },
+    {
+     "t": 3.75,
+     "global": 146.842,
+     "bar_in_scene": 3,
+     "beat": 1,
+     "what": "名场面：乱码解码出 evidence，光点落回 ı（与 s01 同一个和弦位置）"
+    },
+    {
+     "t": 4.375,
+     "global": 147.467,
+     "bar_in_scene": 3,
+     "beat": 2,
+     "what": "14 个缩略图按十六分音符沿金弧依次亮起，化成微粒吸进光点"
+    },
+    {
+     "t": 9.375,
+     "global": 152.467,
+     "bar_in_scene": 6,
+     "beat": 1,
+     "what": "金句第一行"
+    },
+    {
+     "t": 11.25,
+     "global": 154.342,
+     "bar_in_scene": 7,
+     "beat": 1,
+     "what": "金句句号就是光点，落在 G 强拍"
+    },
+    {
+     "t": 15.0,
+     "global": 158.092,
+     "bar_in_scene": 9,
+     "beat": 1,
+     "what": "方法卡在 Am 强拍落定，四行按拍依次落下（读、想、隔、用）"
+    },
+    {
+     "t": 18.75,
+     "global": 161.842,
+     "bar_in_scene": 11,
+     "beat": 1,
+     "what": "最后一个强拍：金光扫过卡面，光点停在卡片右上角；音乐两小节淡出，画面定格"
+    }
+   ],
+   "texts": [
+    {
+     "in": 0.3,
+     "out": 3.6,
+     "role": "line",
+     "text": "还记得开头那个词吗？"
+    },
+    {
+     "in": 1.875,
+     "out": 9.3,
+     "role": "line",
+     "text": "n. 证据"
+    },
+    {
+     "in": 3.75,
+     "out": 9.3,
+     "role": "en",
+     "text": "evidence"
+    },
+    {
+     "in": 4.4,
+     "out": 9.3,
+     "role": "line",
+     "text": "这个视频里，你已经遇见它十几次；"
+    },
+    {
+     "in": 5.625,
+     "out": 9.3,
+     "role": "line",
+     "text": "刚才想起它的那一下，就是方法本身。"
+    },
+    {
+     "in": 9.375,
+     "out": 14.8,
+     "role": "headline",
+     "text": "多看一遍，"
+    },
+    {
+     "in": 10.0,
+     "out": 14.8,
+     "role": "headline",
+     "text": "不如合上书想一遍。"
+    },
+    {
+     "in": 15.0,
+     "out": 22.5,
+     "role": "headline",
+     "text": "如何真正学好英语"
+    },
+    {
+     "in": 15.0,
+     "out": 22.5,
+     "role": "line",
+     "text": "读  爱读的、读得懂的，大量读，大量听。"
+    },
+    {
+     "in": 15.625,
+     "out": 22.5,
+     "role": "line",
+     "text": "想  合上书，把它想起来。"
+    },
+    {
+     "in": 16.25,
+     "out": 22.5,
+     "role": "line",
+     "text": "隔  隔几天，再想一次。"
+    },
+    {
+     "in": 16.875,
+     "out": 22.5,
+     "role": "line",
+     "text": "用  说出来，写出来，看看卡在哪。"
+    },
+    {
+     "in": 17.5,
+     "out": 22.5,
+     "role": "line",
+     "text": "每天定时做一点，慢慢成习惯；偶尔漏一天，影响不大。"
+    },
+    {
+     "in": 15.0,
+     "out": 22.5,
+     "role": "source",
+     "text": "Hu & Nation, 2000 · Nakanishi, 2015"
+    },
+    {
+     "in": 15.0,
+     "out": 22.5,
+     "role": "source",
+     "text": "Roediger & Karpicke, 2006 · Cepeda et al., 2006"
+    },
+    {
+     "in": 15.0,
+     "out": 22.5,
+     "role": "source",
+     "text": "Swain, 1985 · Lally et al., 2010"
+    },
+    {
+     "in": 15.0,
+     "out": 22.5,
+     "role": "line",
+     "text": "B站UP主 朋克英语"
+    }
+   ],
+   "reuse": "无现成代码，按 v1 分镜 s11 写；v1 s10 的回路并入方法卡（四行按拍落下，底部可放 66 格打卡条、空一格的彩蛋）"
+  }
+ ]
+}

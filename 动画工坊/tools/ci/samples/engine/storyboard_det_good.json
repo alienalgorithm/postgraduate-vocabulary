@@ -1,0 +1,24 @@
+{
+ "title": "样本 det_good",
+ "fps": 60,
+ "width": 1920,
+ "height": 1080,
+ "total": 2,
+ "music": {
+  "bpm": 96,
+  "bar": 1.875,
+  "beat_offset": 0
+ },
+ "scenes": [
+  {
+   "id": "x1",
+   "start": 0,
+   "duration": 2,
+   "file": "det_good.js",
+   "build": "det_good",
+   "transition": {
+    "type": "none"
+   }
+  }
+ ]
+}

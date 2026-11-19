@@ -1,0 +1,17 @@
+{
+  "film": "动画工坊/作品/单词是怎么记住的",
+  "work": "/tmp/anim-work/how-words-stick",
+  "title": "单词是怎么记住的",
+  "slug": "how-words-stick",
+  "topic": "单词不是背会的，是在有意思的文章里反复相遇、主动回想记住的",
+  "music": {
+    "mode": "licensed",
+    "file": "/tmp/anim-work/how-words-stick/原曲.mp3",
+    "note": "用户说明已获授权；B站 简介写：配乐 作者《曲名》，已获授权",
+    "backup": "John Bartmann《Epic Vista》（CC0，在 动画工坊/作品/如何真正学好英语/music/cc0/）",
+    "key_file": "/tmp/anim-secrets/music_key.txt"
+  },
+  "reuse": "动画工坊/作品/如何真正学好英语/scenes",
+  "skip": ["drafts"],
+  "branch": "claude/article-packages-20261116"
+}

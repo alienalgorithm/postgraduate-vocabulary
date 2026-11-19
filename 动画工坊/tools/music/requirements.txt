@@ -1,0 +1,35 @@
+# 配乐工具的 Python 依赖，固定为 2026-11-19 做《如何真正学好英语》配乐时本机的实际版本（Python 3.13）。
+# 逐样本重建 score.wav 只依赖前四个（numpy、scipy、soundfile、soxr）加 ffmpeg 6.1.1（ubuntu-24.04 apt 自带的版本）；
+# 版本一变，浮点结果可能差最后几位，rebuild_score.py --compare 会报出最大差值。
+numpy==2.5.3
+scipy==1.18.1
+soundfile==0.14.0
+soxr==1.1.0
+# analyze_track.py 用（跟拍、色度、段落）
+librosa==1.0.1
+numba==0.68.1
+llvmlite==0.50.0
+scikit-learn==1.9.1
+joblib==1.6.0
+threadpoolctl==3.8.0
+narwhals==2.29.0
+decorator==5.3.1
+lazy-loader==0.6
+msgpack==1.2.4
+pooch==1.9.0
+platformdirs==4.14.7
+requests==2.34.2
+packaging==26.3
+cffi==2.1.1
+pycparser==3.0
+typing_extensions==4.16.0
+# analyze_track.py --png 画图用
+matplotlib==3.11.2
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.68.0
+kiwisolver==1.5.1
+pillow==12.3.0
+pyparsing==3.1.1
+python-dateutil==2.9.0.post0
+six==1.17.0
