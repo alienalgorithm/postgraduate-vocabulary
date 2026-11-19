@@ -44,6 +44,8 @@ def prepare_music(plan, film_dir, film):
     secret = film.get('music', {}).get('main', {}).get('secret', 'MUSIC_KEY')
     if want == 'backup' or not env.get(secret):
         env.pop(secret, None)                                   # 空密钥等于没有
+    if want == 'backup':
+        env['MUSIC_WANT'] = 'backup'                            # 让解密脚本写明是请求如此，不报“没有密钥”
     got = 'none'
     if os.path.isfile(script):
         r = subprocess.run(['bash', script, film_dir], capture_output=True, text=True, env=env)

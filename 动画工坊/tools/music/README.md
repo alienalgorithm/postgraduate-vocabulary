@@ -87,7 +87,8 @@ bash $M/selftest.sh
 
 - 仓库是公开的。有授权限制的原曲和剪辑成品绝不明文进仓库（防止 DMCA 让整个仓库被下架），只提交加密文件；`.gitignore` 挡住明文音频，只放行 `music/backup/` 和 `music/cc0/`。
 - 统一命令：`openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -pass env:MUSIC_KEY`（解密加 `-d`）。密钥只放环境变量，不打印、不写进任何文件。
-- GitHub 上要由仓库主人手动加一次仓库密钥：Settings > Secrets and variables > Actions > New repository secret，名字 `MUSIC_KEY`，值是本机密钥文件的内容。
+- GitHub 上要由仓库主人手动加一次仓库密钥：Settings > Secrets and variables > Actions > New repository secret，名字 `MUSIC_KEY`，值是本机密钥文件的内容。（2026-11-19 已加好。）
+- 配乐没改时同步程序不需要密钥：sync_from_workspace.sh 发现 A/music/score.wav 和仓库里加密那份的 sha256 一致，就跳过配乐打包，只同步程序。
 - 没有密钥不卡流程：decrypt_music.sh 自动改用备用配乐（CC0），再没有就无声出片，并在 Actions 摘要里写明原因。
 - `private/SHA256SUMS` 记录加密前明文的 sha256 和音频逐样本 md5；解密后逐样本核对，不一致就当解密失败处理。
 - package_music.sh 是幂等的：已有的加密文件用当前密钥解出来和明文音频一致就不重新加密（加密带随机盐，每次结果都不同，会产生无意义的 git 改动）。
