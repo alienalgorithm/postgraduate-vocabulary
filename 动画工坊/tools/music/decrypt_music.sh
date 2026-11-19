@@ -46,7 +46,8 @@ to_wav() {
 # ---------------------------------------------------------------- 1. 主配乐
 why=""
 KEYVAL="${!SECRET:-}"
-if [ -z "$MAIN_ENC" ] || [ ! -f "$MAIN_ENC" ]; then why="没有加密的主配乐文件 ${MAIN_ENC:-（film.json 没写）}"
+if [ "${MUSIC_WANT:-}" = backup ]; then why="请求用备用配乐"
+elif [ -z "$MAIN_ENC" ] || [ ! -f "$MAIN_ENC" ]; then why="没有加密的主配乐文件 ${MAIN_ENC:-（film.json 没写）}"
 elif [ -z "$KEYVAL" ]; then why="没有 $SECRET 密钥（GitHub 仓库 Settings > Secrets and variables > Actions 里添加 $SECRET）"
 elif ! MUSIC_KEY="$KEYVAL" openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -salt -pass env:MUSIC_KEY -in "$MAIN_ENC" -out "$TMP/main" 2>/dev/null; then
   why="主配乐解密失败（密钥不对？）"
