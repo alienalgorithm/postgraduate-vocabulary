@@ -1,0 +1,24 @@
+@font-face{font-family:'CoverSerif';src:url('/tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSerifSC-900.ttf');font-weight:900}
+@font-face{font-family:'CoverSerif';src:url('/tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSerifSC-600.ttf');font-weight:600}
+@font-face{font-family:'CoverSans';src:url('/tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSansSC-500.ttf');font-weight:500}
+@font-face{font-family:'CoverSans';src:url('/tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSansSC-700.ttf');font-weight:700}
+@font-face{font-family:'CoverItalic';src:url('/tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/SourceSerif4Display-Italic.ttf');font-style:italic;font-weight:400}
+html,body{margin:0;padding:0;background:#000;overflow:hidden}
+#stage{position:relative;overflow:hidden;background:#05060c}
+#bg{position:absolute;top:0;display:block}
+.fx{position:absolute;pointer-events:none}
+.full{left:0;top:0;width:100%;height:100%}
+.t{position:absolute;white-space:nowrap;margin:0}
+body.notext .t{visibility:hidden}
+body.textonly #bg, body.textonly .fx{visibility:hidden}
+body.textonly #stage{background:#000}
+/* headline: elegant heavy serif, white-gold metal, the question line in gold */
+.headline{font-family:'CoverSerif';font-weight:900;color:#fff}
+.headline .ln{display:block;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+.headline .l1{background-image:linear-gradient(180deg,var(--l1a) 0%,var(--l1b) 100%)}
+.headline .l2{background-image:linear-gradient(180deg,var(--l2a) 0%,var(--l2b) 100%)}
+.tagline{font-family:'CoverSans';font-weight:500;color:var(--tag);text-spacing-trim:space-all}
+.tagline .dot{color:var(--tagdot);padding:0 .12em 0 .02em}
+.tagline .k4{letter-spacing:.04em;margin-right:.18em}
+.tagline .bk{margin-left:-.4em}
+.english{font-family:'CoverItalic';font-style:italic;font-weight:400;color:var(--en)}

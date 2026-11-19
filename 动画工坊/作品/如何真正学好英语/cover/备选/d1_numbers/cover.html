@@ -1,0 +1,345 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- B站 cover, direction 1 (number shock). Open as cover.html?a=16x9 or cover.html?a=4x3.
+     Background, towers and light are drawn on canvas at full resolution (port of the film's s09 towers);
+     the three text elements are real DOM text so their boxes can be measured. -->
+<style>
+@font-face { font-family: 'NS'; font-weight: 900; src: url('../../anim/fonts/NotoSansSC-900.ttf'); }
+@font-face { font-family: 'NS'; font-weight: 700; src: url('../../anim/fonts/NotoSansSC-700.ttf'); }
+html, body { margin: 0; padding: 0; background: #0a0704; overflow: hidden; }
+#stage { position: relative; overflow: hidden; background: #0a0704; }
+canvas { position: absolute; left: 0; top: 0; }
+.txt { position: absolute; white-space: nowrap; font-family: 'NS'; font-weight: 900; line-height: 1; }
+/* headline: cream, payoff phrase in gold */
+#t1 { color: #fff4dc; letter-spacing: 0.02em;
+      text-shadow: 0 0.03em 0.10em rgba(0,0,0,0.85), 0 0 0.02em rgba(0,0,0,0.6), 0 0 0.45em rgba(255,170,70,0.16); }
+#t1 .ln { display: block; }
+#t1 .gold { background-image: linear-gradient(180deg, #fff3cf 0%, #ffd27a 45%, #ffa646 100%);
+            -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: transparent;
+            text-shadow: none; filter: drop-shadow(0 0.03em 0.08em rgba(0,0,0,0.85)) drop-shadow(0 0 0.30em rgba(255,170,60,0.35)); }
+/* numbers */
+.num span { display: inline-block; }
+#t2 span { background-image: linear-gradient(180deg, #fff8e2 0%, #ffd986 40%, #ffbb60 100%);
+           -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; color: transparent; }
+#t2 { filter: drop-shadow(0 0 0.05em rgba(255,200,110,0.65)) drop-shadow(0 0 0.22em rgba(255,150,40,0.45)); }
+#t3 { color: #c3cadb; text-shadow: 0 0.03em 0.12em rgba(0,0,0,0.8); }
+#t3 .dig, #t3 .pct { color: #ced5e4; }
+</style></head>
+<body><div id="stage">
+<canvas id="bg"></canvas>
+<div id="t1" class="txt"><span class="ln"><span id="l1">同样背单词</span></span><span class="ln" id="l2"><span class="w">一周后</span><span class="gold">差一倍</span></span></div>
+<div id="t2" class="txt num"><span class="pre">约</span><span class="dig">80</span><span class="pct">%</span></div>
+<div id="t3" class="txt num"><span class="pre">不到</span><span class="dig">40</span><span class="pct">%</span></div>
+</div>
+<script>
+'use strict';
+// ------------------------------------------------------------------ layout per aspect (4K pixels)
+var CFG = {
+  '16x9': { W: 3840, H: 2160, GY: 1696,
+    gold: { cx: 3215, h: 980 }, slate: { cx: 2470 },
+    head: { x: 196, top: 300, size: 286, lead: 1.2 },
+    n80: { size: 452, pre: 0.46, pct: 0.62, gap: 96 }, n40: { size: 270, pre: 0.64, pct: 0.62, gap: 70 },
+    horizon: [260, 3840], rays: { x: 3330, y: -520 }, glow: { x: 3150, y: 600 } },
+  '4x3': { W: 2880, H: 2160, GY: 1696,
+    gold: { cx: 2300, h: 1000 }, slate: { cx: 1580 },
+    head: { x: 160, top: 270, size: 256, lead: 1.2 },
+    n80: { size: 410, pre: 0.46, pct: 0.62, gap: 92 }, n40: { size: 250, pre: 0.64, pct: 0.62, gap: 66 },
+    horizon: [200, 2880], rays: { x: 2430, y: -520 }, glow: { x: 2260, y: 600 } }
+};
+var A = (new URLSearchParams(location.search).get('a')) || '16x9';
+var C = CFG[A];
+var W = C.W, H = C.H, GY = C.GY;
+var stage = document.getElementById('stage');
+stage.style.width = W + 'px'; stage.style.height = H + 'px';
+var cv = document.getElementById('bg'); cv.width = W; cv.height = H;
+var g = cv.getContext('2d');
+
+// deterministic random
+function rng(seed) { var s = seed >>> 0; return function () { s = (s + 0x6D2B79F5) >>> 0; var t = s; t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+var PI = Math.PI, TAU = 2 * PI;
+function clamp(v, a, b) { return Math.max(a, Math.min(b, v)); }
+function rr(x, y, w, h, r) { g.beginPath(); g.moveTo(x + r, y); g.lineTo(x + w - r, y); g.quadraticCurveTo(x + w, y, x + w, y + r); g.lineTo(x + w, y + h - r); g.quadraticCurveTo(x + w, y + h, x + w - r, y + h); g.lineTo(x + r, y + h); g.quadraticCurveTo(x, y + h, x, y + h - r); g.lineTo(x, y + r); g.quadraticCurveTo(x, y, x + r, y); g.closePath(); }
+function body(x0, top, w, bottom, r) { g.beginPath(); g.moveTo(x0, bottom); g.lineTo(x0, top + r); g.quadraticCurveTo(x0, top, x0 + r, top); g.lineTo(x0 + w - r, top); g.quadraticCurveTo(x0 + w, top, x0 + w, top + r); g.lineTo(x0 + w, bottom); g.closePath(); }
+function disc(x, y, r, rgb, a) { var gr = g.createRadialGradient(x, y, 0, x, y, r); gr.addColorStop(0, 'rgba(' + rgb + ',' + a + ')'); gr.addColorStop(0.35, 'rgba(' + rgb + ',' + (a * 0.45) + ')'); gr.addColorStop(1, 'rgba(' + rgb + ',0)'); g.fillStyle = gr; g.beginPath(); g.arc(x, y, r, 0, TAU); g.fill(); }
+
+// towers, same proportions as the film (480 = about 80 %, 220 = under 40 %, width 240, windows 4 columns)
+var S = C.gold.h / 480;
+var BW = 240 * S, BRAD = 22 * S;
+var TW = [
+  { cx: C.gold.cx, h: C.gold.h, gold: true },
+  { cx: C.slate.cx, h: 220 * S, gold: false }
+];
+var WCOL = [24, 76, 128, 180].map(function (v) { return v * S; }), WW = 36 * S, WH = 22 * S, WTOP = 36 * S, WP = 40 * S;
+TW.forEach(function (b) { b.x0 = b.cx - BW / 2; b.top = GY - b.h; b.rows = Math.floor((b.h / S - 36 - 12) / 40) + 1; });
+var G0 = TW[0], G1 = TW[1];
+
+function drawBackground() {
+  // ground: the film's warm dark paper, a little deeper so text reads
+  g.fillStyle = '#0c0805'; g.fillRect(0, 0, W, H);
+  var rg = g.createRadialGradient(C.glow.x, C.glow.y, 0, C.glow.x, C.glow.y, W * 0.62);
+  rg.addColorStop(0, 'rgba(66,40,12,0.85)'); rg.addColorStop(0.35, 'rgba(40,24,8,0.6)'); rg.addColorStop(0.7, 'rgba(20,13,6,0.35)'); rg.addColorStop(1, 'rgba(10,7,4,0)');
+  g.fillStyle = rg; g.fillRect(0, 0, W, H);
+  var cg = g.createRadialGradient(W * 0.12, H * 0.25, 0, W * 0.12, H * 0.25, W * 0.55);
+  cg.addColorStop(0, 'rgba(26,36,70,0.55)'); cg.addColorStop(0.6, 'rgba(18,24,48,0.25)'); cg.addColorStop(1, 'rgba(10,14,30,0)');
+  g.fillStyle = cg; g.fillRect(0, 0, W, H);
+  // graph paper: 2 px gold lines every 120 px (the film's 1 px / 60 px at 1080), faded towards the edges
+  g.save();
+  var step = 120, ox = (W / 2) % step, oy = GY % step;
+  for (var x = ox; x < W; x += step) {
+    var major = Math.round((x - W / 2) / step) % 4 === 0;
+    g.fillStyle = 'rgba(255,196,110,' + (major ? 0.085 : 0.05) + ')'; g.fillRect(Math.round(x) - 1, 0, 2, GY);
+  }
+  for (var y = oy; y < GY; y += step) {
+    var majorY = Math.round((GY - y) / step) % 4 === 0;
+    g.fillStyle = 'rgba(255,196,110,' + (majorY ? 0.085 : 0.05) + ')'; g.fillRect(0, Math.round(y) - 1, W, 2);
+  }
+  g.restore();
+  // fade grid away from the chart (keeps the headline zone calm)
+  var fm = g.createRadialGradient(C.glow.x, C.glow.y + 200, W * 0.12, C.glow.x, C.glow.y + 200, W * 0.75);
+  fm.addColorStop(0, 'rgba(12,8,5,0)'); fm.addColorStop(1, 'rgba(12,8,5,0.82)');
+  g.fillStyle = fm; g.fillRect(0, 0, W, H);
+  // floor below the horizon: darker, with a soft perspective grid towards the chart
+  var fl = g.createLinearGradient(0, GY, 0, H);
+  fl.addColorStop(0, 'rgba(26,16,7,0.9)'); fl.addColorStop(1, 'rgba(6,4,2,1)');
+  g.fillStyle = fl; g.fillRect(0, GY, W, H - GY);
+  g.save(); g.beginPath(); g.rect(0, GY, W, H - GY); g.clip();
+  var vx = (G0.cx + G1.cx) / 2;
+  for (var i = -16; i <= 16; i++) {
+    var xb = vx + i * 300;
+    var lg = g.createLinearGradient(0, GY, 0, H); lg.addColorStop(0, 'rgba(255,190,100,0.10)'); lg.addColorStop(1, 'rgba(255,190,100,0)');
+    g.strokeStyle = lg; g.lineWidth = 2; g.beginPath(); g.moveTo(vx + i * 60, GY); g.lineTo(xb, H); g.stroke();
+  }
+  g.restore();
+}
+
+function drawRays() {
+  // light from above falls on the gold tower (the film's s09 rays: warm, soft, few)
+  var R = rng(9), ox = C.rays.x, oy = C.rays.y;
+  g.save(); g.globalCompositeOperation = 'lighter'; g.filter = 'blur(26px)';
+  var target = G0.cx, len = GY - oy + 200;
+  for (var i = 0; i < 9; i++) {
+    var ang = PI / 2 + (Math.atan2(0, 1)) + (i - 4) * 0.055 + (R() - 0.5) * 0.03 + Math.atan2(target - ox, len) * -1;
+    var wid = 60 + R() * 140, a = 0.03 + R() * 0.04;
+    g.save(); g.translate(ox, oy); g.rotate(ang - PI / 2);
+    var lg = g.createLinearGradient(0, 0, 0, len);
+    lg.addColorStop(0, 'rgba(255,214,140,' + (a * 1.4) + ')'); lg.addColorStop(0.55, 'rgba(255,190,100,' + a + ')'); lg.addColorStop(1, 'rgba(255,170,70,0)');
+    g.fillStyle = lg; g.beginPath(); g.moveTo(-wid * 0.15, 0); g.lineTo(wid * 0.15, 0); g.lineTo(wid, len); g.lineTo(-wid, len); g.closePath(); g.fill();
+    g.restore();
+  }
+  g.restore();
+}
+
+function drawBokeh() {
+  var R = rng(31), cols = ['255,207,112', '255,181,71', '255,138,74'];
+  g.save(); g.globalCompositeOperation = 'lighter';
+  for (var i = 0; i < 26; i++) {
+    var x = R() * W, y = R() * GY * 0.98, r = 18 + R() * 40, c = cols[i % 3];
+    var near = Math.hypot(x - C.glow.x, y - C.glow.y) / W;
+    var a = (0.10 + R() * 0.16) * clamp(1.25 - near, 0.25, 1);
+    // keep the headline zone clean
+    if (x < C.head.x + 1900 * (A === '16x9' ? 1 : 0.9) && y < C.head.top + 760) a *= 0.25;
+    disc(x, y, r * 2.2, c, a);
+    g.fillStyle = 'rgba(' + c + ',' + (a * 0.6) + ')'; g.beginPath(); g.arc(x, y, r * 0.8, 0, TAU); g.fill();
+  }
+  // a few big out-of-focus orbs at the frame edges for depth
+  [[0.04, 0.12, 300, 0.05], [0.97, 0.08, 360, 0.06], [0.99, 0.62, 260, 0.05]].forEach(function (o) { disc(o[0] * W, o[1] * H, o[2], '255,170,70', o[3]); });
+  // dust
+  for (i = 0; i < 260; i++) {
+    var dx = R() * W, dy = R() * GY, s = 1 + R() * 2.6, da = 0.15 + R() * 0.55;
+    if (dx < C.head.x + 1800 && dy < C.head.top + 760) da *= 0.3;
+    g.fillStyle = 'rgba(255,226,170,' + da + ')'; g.beginPath(); g.arc(dx, dy, s, 0, TAU); g.fill();
+  }
+  g.restore();
+}
+
+function drawHorizon() {
+  var x0 = C.horizon[0], x1 = C.horizon[1];
+  var hg = g.createLinearGradient(x0, 0, x1, 0);
+  var hx = function (x) { return clamp((x - x0) / (x1 - x0), 0, 1); };
+  hg.addColorStop(0, 'rgba(255,214,140,0)'); hg.addColorStop(hx(G1.x0 - 700), 'rgba(255,214,140,0.35)'); hg.addColorStop(hx(G1.x0 - 80), 'rgba(255,214,140,0.9)'); hg.addColorStop(hx(G0.x0 + BW + 120), 'rgba(255,214,140,0.95)'); hg.addColorStop(1, 'rgba(255,214,140,0.25)');
+  g.save(); g.globalCompositeOperation = 'lighter';
+  g.filter = 'blur(18px)'; g.fillStyle = hg; g.globalAlpha = 0.45; g.fillRect(x0, GY - 14, x1 - x0, 28);
+  g.filter = 'none'; g.globalAlpha = 1; g.fillRect(x0, GY - 2.5, x1 - x0, 5);
+  g.restore();
+}
+
+function drawReflection(b) {
+  g.save(); g.beginPath(); g.rect(b.x0 - 60, GY + 3, BW + 120, 300); g.clip();
+  for (var s = 0; s < 6; s++) {
+    var y0 = GY + 3 + s * 50;
+    g.save(); g.beginPath(); g.rect(b.x0 - 60, y0, BW + 120, 50); g.clip();
+    g.globalAlpha = (b.gold ? 0.22 : 0.12) * (1 - s / 6);
+    g.translate(0, 2 * GY); g.scale(1, -1);
+    body(b.x0, b.top, BW, GY, BRAD); g.fillStyle = b.gold ? '#c98a22' : '#5b6478'; g.fill();
+    g.restore();
+  }
+  g.restore();
+}
+
+function drawGold(b) {
+  var top = b.top, x0 = b.x0;
+  // big halo behind the tower
+  g.save(); g.globalCompositeOperation = 'lighter';
+  var hr = g.createRadialGradient(b.cx, top + b.h * 0.35, 0, b.cx, top + b.h * 0.35, b.h * 0.95);
+  hr.addColorStop(0, 'rgba(255,170,60,0.12)'); hr.addColorStop(0.5, 'rgba(255,150,40,0.04)'); hr.addColorStop(1, 'rgba(255,150,40,0)');
+  g.fillStyle = hr; g.fillRect(b.cx - b.h, top - b.h * 0.6, 2 * b.h, b.h * 2);
+  g.restore();
+  var bgr = g.createLinearGradient(0, top, 0, GY);
+  bgr.addColorStop(0, '#f2b656'); bgr.addColorStop(0.5, '#c17f2c'); bgr.addColorStop(1, '#7c4b16');
+  g.save(); g.shadowColor = 'rgba(255,170,60,0.8)'; g.shadowBlur = 80; body(x0, top, BW, GY, BRAD); g.fillStyle = bgr; g.fill(); g.restore();
+  // side shading for volume: light from the upper right
+  g.save(); body(x0, top, BW, GY, BRAD); g.clip();
+  var sd = g.createLinearGradient(x0, 0, x0 + BW, 0);
+  sd.addColorStop(0, 'rgba(60,30,5,0.35)'); sd.addColorStop(0.35, 'rgba(60,30,5,0)'); sd.addColorStop(0.75, 'rgba(255,230,170,0.06)'); sd.addColorStop(1, 'rgba(255,236,190,0.22)');
+  g.fillStyle = sd; g.fillRect(x0, top, BW, b.h);
+  g.restore();
+  // rim light
+  g.strokeStyle = 'rgba(255,230,170,0.9)'; g.lineWidth = 2.2 * S; body(x0 + 1.1 * S, top + 1.1 * S, BW - 2.2 * S, GY, BRAD - 1); g.stroke();
+  // windows: all lit
+  var R = rng(77);
+  for (var r = 0; r < b.rows; r++) for (var c = 0; c < 4; c++) {
+    var wy = top + WTOP + r * WP, wx = x0 + WCOL[c];
+    if (wy > GY - 6 * S) continue;
+    var lv = 0.84 + 0.16 * R();
+    g.fillStyle = 'rgba(255,214,140,' + (0.30 * lv) + ')'; rr(wx - 4 * S, wy - 4 * S, WW + 8 * S, WH + 8 * S, 6 * S); g.fill();
+    g.fillStyle = 'rgba(255,243,206,' + lv + ')'; rr(wx, wy, WW, WH, 3 * S); g.fill();
+  }
+  // a light sweep frozen on its way up (the film's G to F lift)
+  g.save(); body(x0, top, BW, GY, BRAD); g.clip(); g.globalCompositeOperation = 'lighter';
+  var ys = top + b.h * 0.30, sg = g.createLinearGradient(0, ys - 120 * S, 0, ys + 120 * S);
+  sg.addColorStop(0, 'rgba(255,246,220,0)'); sg.addColorStop(0.5, 'rgba(255,246,220,0.32)'); sg.addColorStop(1, 'rgba(255,246,220,0)');
+  g.fillStyle = sg; g.fillRect(x0, ys - 120 * S, BW, 240 * S);
+  g.restore();
+  // roof ring and the film's warm dot on the roof
+  g.save(); g.globalCompositeOperation = 'lighter';
+  g.strokeStyle = 'rgba(255,226,160,0.55)'; g.lineWidth = 2.4 * S;
+  g.beginPath(); g.ellipse(b.cx, top - 2 * S, BW * 0.47, 11 * S, 0, 0, TAU); g.stroke();
+  var bl = g.createRadialGradient(b.cx, top, 0, b.cx, top, 900); bl.addColorStop(0, 'rgba(255,170,70,0.20)'); bl.addColorStop(0.4, 'rgba(255,150,50,0.07)'); bl.addColorStop(1, 'rgba(255,150,50,0)');
+  g.fillStyle = bl; g.fillRect(b.cx - 900, top - 900, 1800, 1800);
+  var st = g.createLinearGradient(b.cx - 760, 0, b.cx + 760, 0); st.addColorStop(0, 'rgba(255,214,150,0)'); st.addColorStop(0.5, 'rgba(255,230,180,0.55)'); st.addColorStop(1, 'rgba(255,214,150,0)');
+  g.save(); g.filter = 'blur(3px)'; g.fillStyle = st; g.beginPath(); g.ellipse(b.cx, top - 8 * S, 760, 5, 0, 0, TAU); g.fill(); g.filter = 'blur(14px)'; g.globalAlpha = 0.6; g.beginPath(); g.ellipse(b.cx, top - 8 * S, 620, 16, 0, 0, TAU); g.fill(); g.restore();
+  disc(b.cx, top - 8 * S, 70 * S, '255,226,160', 0.55);
+  disc(b.cx, top - 8 * S, 22 * S, '255,246,220', 0.95);
+  g.restore();
+  // glitter rising out of the windows
+  var M = rng(5);
+  g.save(); g.globalCompositeOperation = 'lighter';
+  for (var i = 0; i < 70; i++) {
+    var mx = x0 + BW * (0.06 + 0.88 * M()), my = top + 20 * S + (b.h - 30 * S) * Math.pow(M(), 0.8), sz = (1.2 + 1.6 * M()) * S, a = 0.35 + 0.6 * M();
+    disc(mx, my, sz * 5, '255,236,190', 0.35 * a); g.fillStyle = 'rgba(255,252,240,' + a + ')'; g.beginPath(); g.arc(mx, my, sz, 0, TAU); g.fill();
+  }
+  // motes rising beside and above the roof
+  for (i = 0; i < 26; i++) {
+    var sx = b.cx + (M() - 0.5) * BW * 1.9, sy = top - 10 * S - M() * 70 * S, s2 = (1.0 + 1.4 * M()) * S, a2 = 0.3 + 0.5 * M();
+    if (Math.abs(sx - b.cx) < BW * 0.5 && sy < top - 40 * S) continue;
+    disc(sx, sy, s2 * 5, '255,226,160', 0.3 * a2); g.fillStyle = 'rgba(255,248,226,' + a2 + ')'; g.beginPath(); g.arc(sx, sy, s2, 0, TAU); g.fill();
+  }
+  g.restore();
+}
+
+function drawSlate(b) {
+  var top = b.top, x0 = b.x0;
+  var fg = g.createLinearGradient(0, top, 0, GY), f1 = clamp(46 * S / (GY - top), 0, 1);
+  fg.addColorStop(0, 'rgba(91,100,120,0)'); fg.addColorStop(f1, 'rgba(91,100,120,1)'); fg.addColorStop(1, 'rgba(62,69,86,1)');
+  body(x0, top, BW, GY, BRAD); g.fillStyle = fg; g.fill();
+  var rimg = g.createLinearGradient(0, top, 0, GY); rimg.addColorStop(0, 'rgba(176,186,206,0)'); rimg.addColorStop(f1 + 0.05, 'rgba(176,186,206,0.35)'); rimg.addColorStop(1, 'rgba(176,186,206,0.18)');
+  g.strokeStyle = rimg; g.lineWidth = 1.8 * S; body(x0 + 0.9 * S, top + 0.9 * S, BW - 1.8 * S, GY, BRAD - 1); g.stroke();
+  for (var r = 0; r < b.rows; r++) for (var c = 0; c < 4; c++) {
+    var wy = top + WTOP + r * WP, wx = x0 + WCOL[c];
+    if (wy > GY - 6 * S) continue;
+    var a = clamp((wy - top - 4 * S) / (46 * S), 0, 1);
+    g.fillStyle = 'rgba(62,69,86,' + a + ')'; rr(wx, wy, WW, WH, 3 * S); g.fill();
+    g.fillStyle = 'rgba(120,130,152,' + (0.35 * a) + ')'; g.fillRect(wx + 3 * S, wy, WW - 6 * S, 1.5 * S);
+  }
+  // its top crumbles away: grey specks drifting off
+  var M = rng(13);
+  for (var i = 0; i < 60; i++) {
+    var sx = x0 + M() * BW, sy = top + 50 * S - M() * 90 * S, s = (0.8 + 1.4 * M()) * S;
+    sx += (top + 50 * S - sy) * 0.6 * (M() - 0.2);
+    g.fillStyle = 'rgba(176,186,206,' + (0.18 + 0.4 * M()) + ')'; g.beginPath(); g.arc(sx, sy, s, 0, TAU); g.fill();
+  }
+  // dashed 40 % line just above its roof: it stops short of it
+  var y40 = GY - 240 * S;
+  g.setLineDash([10 * S, 9 * S]); g.lineWidth = 2 * S; g.strokeStyle = 'rgba(176,186,206,0.6)';
+  g.beginPath(); g.moveTo(b.cx - 150 * S, y40); g.lineTo(b.cx + 150 * S, y40); g.stroke();
+  var dg = g.createLinearGradient(b.cx + 150 * S, 0, G0.x0, 0); dg.addColorStop(0, 'rgba(176,186,206,0.6)'); dg.addColorStop(1, 'rgba(176,186,206,0.18)');
+  g.strokeStyle = dg; g.beginPath(); g.moveTo(b.cx + 150 * S + 10 * S, y40); g.lineTo(G0.x0 - 8 * S, y40); g.stroke(); g.setLineDash([]);
+}
+
+function drawVignette() {
+  var vg = g.createRadialGradient(W * 0.55, H * 0.42, H * 0.45, W * 0.55, H * 0.42, Math.hypot(W, H) * 0.62);
+  vg.addColorStop(0, 'rgba(0,0,0,0)'); vg.addColorStop(1, 'rgba(0,0,0,0.6)');
+  g.fillStyle = vg; g.fillRect(0, 0, W, H);
+}
+
+function draw() {
+  drawBackground();
+  drawRays();
+  drawBokeh();
+  drawReflection(G1); drawReflection(G0);
+  drawHorizon();
+  drawSlate(G1);
+  drawGold(G0);
+  drawVignette();
+  // a short gold rule over the headline (editorial accent)
+  var ry = C.head.top - 34, rx = C.head.x + 6, rl = 300;
+  var gr = g.createLinearGradient(rx, 0, rx + rl, 0); gr.addColorStop(0, 'rgba(255,226,160,1)'); gr.addColorStop(0.6, 'rgba(255,181,71,0.9)'); gr.addColorStop(1, 'rgba(255,181,71,0)');
+  g.save(); g.shadowColor = 'rgba(255,170,60,0.8)'; g.shadowBlur = 24; g.fillStyle = gr; rr(rx, ry - 5, rl, 10, 5); g.fill(); g.restore();
+}
+
+// ------------------------------------------------------------------ text placement
+function place() {
+  var t1 = document.getElementById('t1'), t2 = document.getElementById('t2'), t3 = document.getElementById('t3');
+  t1.style.fontSize = C.head.size + 'px'; t1.style.left = C.head.x + 'px'; t1.style.top = C.head.top + 'px';
+  t1.style.lineHeight = C.head.lead;
+  function num(el, cfg) {
+    el.style.fontSize = cfg.size + 'px';
+    el.querySelector('.pre').style.fontSize = (cfg.size * cfg.pre) + 'px';
+    el.querySelector('.pre').style.marginRight = (cfg.size * 0.06) + 'px';
+    el.querySelector('.pct').style.fontSize = (cfg.size * cfg.pct) + 'px';
+    el.querySelector('.pct').style.marginLeft = (cfg.size * 0.02) + 'px';
+    el.querySelector('.dig').style.letterSpacing = '-0.01em';
+  }
+  num(t2, C.n80); num(t3, C.n40);
+  // numbers ride the roofs (baseline of the digits = roof minus gap)
+  function ride(el, b, cfg) {
+    el.style.left = '0px'; el.style.top = '0px';
+    var r = el.getBoundingClientRect(), d = el.querySelector('.dig').getBoundingClientRect();
+    var ink = inkBox(el.querySelector('.dig'));
+    el.style.left = (b.cx - r.width / 2) + 'px';
+    el.style.top = (b.top - cfg.gap - ink.bottom) + 'px';
+  }
+  ride(t2, G0, C.n80); ride(t3, G1, C.n40);
+}
+// glyph ink box of an element's text, relative to the element's top-left (canvas measureText)
+function inkBox(el) {
+  var cs = getComputedStyle(el), c2 = document.createElement('canvas').getContext('2d');
+  c2.font = cs.fontWeight + ' ' + cs.fontSize + ' ' + cs.fontFamily;
+  var m = c2.measureText(el.textContent), r = el.getBoundingClientRect();
+  // baseline position inside the line box: half-leading + ascent
+  var fs = parseFloat(cs.fontSize), lh = r.height;
+  var asc = m.fontBoundingBoxAscent, desc = m.fontBoundingBoxDescent;
+  var base = (lh - (asc + desc)) / 2 + asc;
+  return { top: base - m.actualBoundingBoxAscent, bottom: base + m.actualBoundingBoxDescent, height: m.actualBoundingBoxAscent + m.actualBoundingBoxDescent, base: base, fs: fs };
+}
+window.layout = function () {
+  function box(el) { var r = el.getBoundingClientRect(); return [r.left, r.top, r.right, r.bottom]; }
+  function ink(el) { var r = el.getBoundingClientRect(), k = inkBox(el); return [r.left, r.top + k.top, r.right, r.top + k.bottom]; }
+  var out = { aspect: A, W: W, H: H, elements: [] };
+  [['t1', 'headline'], ['t2', 'number_80'], ['t3', 'number_40']].forEach(function (p) {
+    var el = document.getElementById(p[0]);
+    var e = { id: p[0], role: p[1], text: el.innerText.replace(/\n/g, ' / '), box: box(el), spans: [] };
+    var parts = p[0] === 't1' ? [['l1-all', document.getElementById('l1'), '#fff4dc', null], ['l2-cream', el.querySelector('.w'), '#fff4dc', null], ['l2-gold', el.querySelector('.gold'), null, ['#fff3cf', '#ffd27a', '#ffa646']]]
+      : p[0] === 't2' ? [['pre', el.querySelector('.pre'), null, ['#fff8e2', '#ffd986', '#ffbb60']], ['dig', el.querySelector('.dig'), null, ['#fff8e2', '#ffd986', '#ffbb60']], ['pct', el.querySelector('.pct'), null, ['#fff8e2', '#ffd986', '#ffbb60']]]
+      : [['pre', el.querySelector('.pre'), '#c3cadb', null], ['dig', el.querySelector('.dig'), '#ced5e4', null], ['pct', el.querySelector('.pct'), '#ced5e4', null]];
+    parts.forEach(function (q) { var k = inkBox(q[1]); e.spans.push({ name: q[0], text: q[1].textContent, box: box(q[1]), ink: ink(q[1]), inkHeight: k.height, fontSize: k.fs, fill: q[2], gradient: q[3] }); });
+    out.elements.push(e);
+  });
+  return out;
+};
+window.hideText = function (h) { ['t1', 't2', 't3'].forEach(function (id) { document.getElementById(id).style.visibility = h ? 'hidden' : 'visible'; }); };
+window.ready = document.fonts.ready.then(function () {
+  return Promise.all([document.fonts.load('900 100px NS', '同样背单词一周后差一倍约不到80%40'), document.fonts.load('700 100px NS', '约')]);
+}).then(function () { draw(); place(); return true; });
+</script>
+</body></html>

@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>Cover d4 question</title>
+<style>
+@font-face { font-family: 'SC900'; src: url('file:///tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSansSC-900.ttf'); }
+@font-face { font-family: 'SC500'; src: url('file:///tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSansSC-500.ttf'); }
+@font-face { font-family: 'SC700'; src: url('file:///tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSansSC-700.ttf'); }
+@font-face { font-family: 'Serif900'; src: url('file:///tmp/claude-0/-home-user-postgraduate-vocabulary/3d87cc6c-41dd-58c2-802f-d51dc0c78527/scratchpad/anim/fonts/NotoSerifSC-900.ttf'); }
+html, body { margin: 0; padding: 0; background: #04060f; }
+#stage { position: relative; overflow: hidden; background: #04060f; }
+.layer { position: absolute; left: 0; top: 0; width: 100%; height: 100%; pointer-events: none; }
+img.abs { position: absolute; left: 0; top: 0; transform-origin: 0 0; display: block; }
+.txt { position: absolute; white-space: nowrap; margin: 0; }
+#kicker { font-family: 'SC500'; color: #aebbd9; letter-spacing: 0.26em; }
+#kicker .dot { color: #e8b75c; }
+#head { font-family: 'SC900'; letter-spacing: 0.005em; }
+#head .ln { display: block; }
+#head .w { color: #f6f8ff; }
+#head .q { color: #ffc65f; }
+#sub { font-family: 'Serif900'; color: #ffd27a; letter-spacing: 0.14em; }
+body.notext .txt { visibility: hidden !important; }
+body.textonly .bgpart { visibility: hidden !important; }
+</style>
+</head>
+<body>
+<div id="stage"></div>
+<script>
+'use strict';
+// ---- the two layouts (each composed on its own; numbers in master pixels) ----
+const V = {
+  '16x9': { W: 3840, H: 2160,
+    kicker: { x: 206, y: 150, size: 60 },
+    head:   { x: 196, y: 236, size: 288, lh: 1.1 },
+    sub:    { x: 212, y: 922, size: 124 },
+    city:   { s: 0.9, x: -250, ground: 1722, fadeX0: 2280, fadeX1: 2500, darkX: 1700, dust: 420 },
+    fig:    { x: 380, feet: 1740, h: 470 },
+    brain:  { cx: 3040, top: 360, h: 1200 },
+    embers: { x0: 1500, x1: 2620, y0: 420, y1: 1650, n: 230 }
+  },
+  '4x3': { W: 2880, H: 2160,
+    kicker: { x: 166, y: 150, size: 56 },
+    head:   { x: 156, y: 236, size: 246, lh: 1.12 },
+    sub:    { x: 170, y: 842, size: 112 },
+    city:   { s: 0.72, x: -150, ground: 1722, fadeX0: 1960, fadeX1: 2090, darkX: 1250, dust: 320 },
+    fig:    { x: 270, feet: 1740, h: 420 },
+    brain:  { cx: 2290, top: 676, h: 1010 },
+    embers: { x0: 1180, x1: 2000, y0: 820, y1: 1720, n: 170 }
+  }
+};
+const TEXT = {
+  kicker: ['4K 动画', '无旁白', '《星际穿越》配乐'],
+  head: ['你背过的单词，', '后来都去哪了'],  // the question mark is added as its own golden glyph
+  q: '？',
+  sub: '合上书，把它想起来'
+};
+const q = new URLSearchParams(location.search);
+const ver = q.get('v') || '16x9';
+const mode = q.get('mode') || 'full';
+if (mode !== 'full') document.body.classList.add(mode);
+const C = V[ver];
+const W = C.W, H = C.H;
+const stage = document.getElementById('stage');
+stage.style.width = W + 'px'; stage.style.height = H + 'px';
+function el(tag, cls, parent, css) { const e = document.createElement(tag); if (cls) e.className = cls; Object.assign(e.style, css || {}); (parent || stage).appendChild(e); return e; }
+
+// brain geometry (core of brain.png: x 145..1334, y 138..1626 of 1500x1640)
+const BS = C.brain.h / 1488, BW = 1500 * BS, BH = 1640 * BS;
+const bLeft = C.brain.cx - (145 + 1189 / 2) * BS, bTop = C.brain.top - 138 * BS;
+const bcx = C.brain.cx, bcy = C.brain.top + C.brain.h * 0.5;
+
+// 1. night base: cold navy on the left, warm amber-black toward the light
+el('div', 'layer bgpart', stage, { background:
+  `radial-gradient(ellipse ${C.brain.h * 1.25}px ${C.brain.h * 1.0}px at ${bcx}px ${bcy}px, rgba(120,70,18,0.55), rgba(60,32,8,0.25) 45%, rgba(0,0,0,0) 75%),` +
+  `linear-gradient(90deg, #050915 0%, #070c1d 38%, #0b0d17 62%, #140d08 100%)` });
+
+// 2. the s02/s03 city of words (every window is a real exam word): lights out on the left, gold again toward the light
+//    city_<ver>.png is the 22.2 s still with its windows switched off / ghosted / re-lit gold by tools/prep_city.py
+const cityWrap = el('div', 'layer bgpart', stage, {
+  WebkitMaskImage: `linear-gradient(90deg, #000 0, #000 ${C.city.fadeX0}px, transparent ${C.city.fadeX1}px), linear-gradient(180deg, transparent ${C.city.ground - 1000 * C.city.s}px, #000 ${C.city.ground - 700 * C.city.s}px)`,
+  WebkitMaskComposite: 'source-in', maskComposite: 'intersect' });
+const city = el('img', 'abs', cityWrap, { transform: `translate(${C.city.x}px, ${C.city.ground - 1695 * C.city.s}px) scale(${C.city.s})`, filter: 'brightness(1.08) contrast(1.06)' });
+city.src = `assets/city_${ver}.png`;
+const cityBloom = el('img', 'abs', cityWrap, { transform: city.style.transform, filter: `blur(${Math.round(10 * C.city.s)}px) brightness(1.3)`, mixBlendMode: 'screen', opacity: 0.28 });
+cityBloom.src = `assets/city_${ver}.png`;
+// night falls from the left: deepen the dark half of the city
+el('div', 'layer bgpart', stage, { background: `linear-gradient(90deg, rgba(2,4,12,0.5) 0, rgba(2,4,12,0.32) ${C.city.darkX * 0.5}px, rgba(2,4,12,0) ${C.city.darkX}px)` });
+// rising dust: what is left of the words drifting up out of the dark windows
+const dust = el('canvas', 'layer bgpart', stage); dust.width = W; dust.height = H;
+(function drawDust() {
+  const g = dust.getContext('2d');
+  let seed = ver === '16x9' ? 3 : 5; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+  const top = C.city.ground - 760 * C.city.s;
+  for (let i = 0; i < C.city.dust; i++) {
+    const x = 80 + Math.pow(rnd(), 1.15) * (C.city.darkX - 80);
+    const rise = Math.pow(rnd(), 0.9);
+    const y = top + 260 * C.city.s - rise * (top - 120);
+    const r = (1.2 + rnd() * 3.2) * (1 - 0.45 * rise);
+    const a = (0.18 + 0.5 * rnd()) * (1 - 0.8 * rise);
+    const len = (8 + rnd() * 40) * (1 - 0.5 * rise);
+    const gr = g.createLinearGradient(x, y, x - len * 0.25, y + len);
+    gr.addColorStop(0, `rgba(205,222,255,${a})`); gr.addColorStop(1, 'rgba(205,222,255,0)');
+    g.strokeStyle = gr; g.lineWidth = r; g.lineCap = 'round';
+    g.beginPath(); g.moveTo(x, y); g.lineTo(x - len * 0.25, y + len); g.stroke();
+  }
+  for (let i = 0; i < 160; i++) {                                  // a few cold stars high up
+    const x = rnd() * W, y = rnd() * H * 0.45, r = 0.8 + rnd() * 2.0, a = 0.08 + rnd() * 0.32;
+    g.fillStyle = `rgba(215,228,255,${a})`; g.beginPath(); g.arc(x, y, r, 0, 7); g.fill();
+  }
+})();
+
+// 3. warm light spill + soft rays from the brain
+el('div', 'layer bgpart', stage, { background: `radial-gradient(circle ${C.brain.h * 1.2}px at ${bcx}px ${bcy}px, rgba(255,176,72,0.30), rgba(255,150,50,0.10) 40%, rgba(0,0,0,0) 70%)`, mixBlendMode: 'screen' });
+el('div', 'layer bgpart', stage, {
+  background: `repeating-conic-gradient(from 3deg at ${bcx}px ${bcy}px, rgba(255,196,110,0.07) 0deg 1.2deg, rgba(255,196,110,0) 1.2deg 7deg)`,
+  WebkitMaskImage: `radial-gradient(circle ${C.brain.h * 1.15}px at ${bcx}px ${bcy}px, rgba(0,0,0,0.9) 0, rgba(0,0,0,0.35) 45%, transparent 100%)`, mixBlendMode: 'screen', opacity: 0.8 });
+
+// 4. embers: words coming back, cold where they leave the dark, gold as they reach the light
+const cv = el('canvas', 'layer bgpart', stage); cv.width = W; cv.height = H;
+(function drawEmbers() {
+  const g = cv.getContext('2d');
+  let seed = ver === '16x9' ? 7 : 11; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+  const E = C.embers;
+  // fine cold dust over the dark half
+  for (let i = 0; i < 520; i++) {
+    const x = rnd() * E.x1, y = 80 + rnd() * (H * 0.86);
+    const r = 0.8 + rnd() * 2.2, a = 0.08 + rnd() * 0.28;
+    g.fillStyle = `rgba(190,210,255,${a})`; g.beginPath(); g.arc(x, y, r, 0, 7); g.fill();
+  }
+  for (let i = 0; i < E.n; i++) {
+    const u = Math.pow(rnd(), 0.75);                         // more of them near the light
+    const x = E.x0 + u * (E.x1 - E.x0);
+    const y = E.y0 + rnd() * (E.y1 - E.y0);
+    const dx = bcx - x, dy = bcy - y, d = Math.hypot(dx, dy), ux = dx / d, uy = dy / d;
+    const len = 10 + rnd() * 55 * (0.4 + u);
+    const r = 1.4 + rnd() * 3.6 * (0.5 + u);
+    const warm = Math.min(1, Math.max(0, (u - 0.15) / 0.7));
+    const col = [Math.round(200 + 55 * warm), Math.round(218 - 18 * warm), Math.round(255 - 150 * warm)];
+    const a = 0.25 + 0.6 * rnd() * (0.4 + 0.6 * u);
+    const tail = g.createLinearGradient(x, y, x - ux * len, y - uy * len);
+    tail.addColorStop(0, `rgba(${col},${a})`); tail.addColorStop(1, `rgba(${col},0)`);
+    g.strokeStyle = tail; g.lineWidth = r * 1.1; g.lineCap = 'round';
+    g.beginPath(); g.moveTo(x, y); g.lineTo(x - ux * len, y - uy * len); g.stroke();
+    const glow = g.createRadialGradient(x, y, 0, x, y, r * 5);
+    glow.addColorStop(0, `rgba(${col},${a * 0.55})`); glow.addColorStop(1, `rgba(${col},0)`);
+    g.fillStyle = glow; g.beginPath(); g.arc(x, y, r * 5, 0, 7); g.fill();
+    g.fillStyle = `rgba(255,${Math.round(250 - 20 * warm)},${Math.round(240 - 90 * warm)},${Math.min(1, a + 0.2)})`;
+    g.beginPath(); g.arc(x, y, r * 0.6, 0, 7); g.fill();
+  }
+})();
+
+// 5. the golden brain (s08 end), with bloom
+const bGlow = el('img', 'abs bgpart', stage, { width: BW + 'px', height: BH + 'px', transform: `translate(${bLeft}px, ${bTop}px)`, filter: `blur(${Math.round(C.brain.h * 0.06)}px) brightness(1.25)`, opacity: 0.85, mixBlendMode: 'screen' });
+bGlow.src = 'assets/brain_g.png';
+const brain = el('img', 'abs bgpart', stage, { width: BW + 'px', height: BH + 'px', transform: `translate(${bLeft}px, ${bTop}px)`, filter: 'brightness(1.06) saturate(1.08)' });
+brain.src = 'assets/brain_g.png';
+el('div', 'layer bgpart', stage, { background: `radial-gradient(ellipse ${C.brain.h * 0.42}px ${C.brain.h * 0.55}px at ${bcx}px ${bcy}px, rgba(255,236,180,0.20), rgba(255,236,180,0) 70%)`, mixBlendMode: 'screen' });
+
+// golden reflection of the brain on the dark ground (the film's city stands on a mirror-like floor), plus a horizon glow
+const G = C.city.ground;
+const reflWrap = el('div', 'layer bgpart', stage, { WebkitMaskImage: `linear-gradient(180deg, transparent ${G}px, rgba(0,0,0,0.9) ${G + 6}px, transparent ${G + 420}px)` });
+const refl = el('img', 'abs', reflWrap, { width: BW + 'px', height: BH + 'px', transform: `translate(${bLeft}px, ${2 * G - bTop}px) scale(1, -1)`, filter: 'blur(16px) brightness(1.1)', opacity: 0.42, mixBlendMode: 'screen' });
+refl.src = 'assets/brain_g.png';
+el('div', 'layer bgpart', stage, { background: `radial-gradient(ellipse ${C.brain.h * 1.0}px ${Math.round(C.brain.h * 0.05)}px at ${bcx}px ${G}px, rgba(255,190,90,0.45), rgba(255,170,70,0) 100%)`, mixBlendMode: 'screen' });
+
+// 6. the lonely learner (s02/s03), facing the falling words and the light
+const FS = C.fig.h / 558;                                  // figure.png mask height 558 (rows 31..589 of 610)
+const fig = el('img', 'abs bgpart', stage, { width: 194 * FS + 'px', height: 610 * FS + 'px', transform: `translate(${C.fig.x - 26 * FS}px, ${C.fig.feet - 589 * FS}px)`, filter: 'brightness(1.12)' });
+fig.src = 'assets/figure.png';
+// small pool of cold light at his feet so he stands on something
+el('div', 'layer bgpart', stage, { background: `radial-gradient(ellipse ${C.fig.h * 0.55}px ${C.fig.h * 0.07}px at ${C.fig.x + 68 * FS}px ${C.fig.feet + 4}px, rgba(150,180,255,0.22), rgba(150,180,255,0) 100%)`, mixBlendMode: 'screen' });
+
+// 7. cinematic grade: vignette, darker floor (B站 puts its stats strip there anyway), darker top-left for the title
+el('div', 'layer bgpart', stage, { background:
+  `linear-gradient(180deg, rgba(0,0,0,0) 74%, rgba(2,3,8,0.55) 92%, rgba(2,3,8,0.75) 100%),` +
+  `radial-gradient(ellipse ${W * 0.78}px ${H * 0.86}px at ${W * 0.52}px ${H * 0.48}px, rgba(0,0,0,0) 55%, rgba(0,0,6,0.62) 100%),` +
+  `radial-gradient(ellipse ${W * 0.42}px ${H * 0.36}px at ${C.head.x + 700}px ${C.head.y + 300}px, rgba(2,4,14,0.55), rgba(2,4,14,0) 100%)` });
+
+// 8. text (3 elements): kicker, headline (dominant), the answer line
+const kick = el('div', 'txt', stage, { left: C.kicker.x + 'px', top: C.kicker.y + 'px', fontSize: C.kicker.size + 'px', lineHeight: '1' });
+kick.id = 'kicker';
+kick.innerHTML = TEXT.kicker.map(s => `<span>${s}</span>`).join('<span class="dot"> · </span>');
+const head = el('div', 'txt', stage, { left: C.head.x + 'px', top: C.head.y + 'px', fontSize: C.head.size + 'px', lineHeight: C.head.lh,
+  filter: `drop-shadow(0 ${Math.round(C.head.size * 0.03)}px ${Math.round(C.head.size * 0.06)}px rgba(0,2,10,0.9)) drop-shadow(0 0 ${Math.round(C.head.size * 0.25)}px rgba(0,4,20,0.65))` });
+head.id = 'head';
+head.innerHTML = `<span class="ln"><span class="w">${TEXT.head[0]}</span></span><span class="ln"><span class="w">${TEXT.head[1]}</span><span class="q">${TEXT.q}</span></span>`;
+const qGlow = `0 0 ${Math.round(C.head.size * 0.12)}px rgba(255,170,60,0.75), 0 0 ${Math.round(C.head.size * 0.4)}px rgba(255,150,40,0.45)`;
+head.querySelector('.q').style.textShadow = qGlow;
+const sub = el('div', 'txt', stage, { left: C.sub.x + 'px', top: C.sub.y + 'px', fontSize: C.sub.size + 'px', lineHeight: '1',
+  textShadow: `0 0 ${Math.round(C.sub.size * 0.35)}px rgba(255,160,50,0.45), 0 ${Math.round(C.sub.size * 0.05)}px ${Math.round(C.sub.size * 0.12)}px rgba(10,5,0,0.9)` });
+sub.id = 'sub'; sub.textContent = TEXT.sub;
+
+window.COVER = { ver, W, H, TEXT, C };
+window.coverReady = Promise.all([document.fonts.ready, ...[...document.images].map(i => i.decode())]);
+</script>
+</body>
+</html>

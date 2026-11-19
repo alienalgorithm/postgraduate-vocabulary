@@ -1,0 +1,49 @@
+==== 16x9 ====
+PASS 16x9 fonts loaded in the page (SC900, Serif900, SC500)
+PASS 16x9 master size 3840x2160 (want 3840x2160), 7.38 MB
+PASS 16x9 upload 1920x1080 JPG q95 4:4:4, 603988 bytes (0.60 MB) < 2 MB
+PASS 16x9 headline lines = 2 (max 2)
+PASS 16x9 text elements = 3 (max 3), dominant = head 288px vs 124px
+16x9 headline font 288px, glyph ink height (font metrics) 279px, measured per line [280, 312] px
+PASS 16x9 headline cap/ink height at feed size 320x180 = 23.2 px (min 14)
+PASS 16x9 text "4K 动画 · 无旁白 · 《星际穿越》配乐" box [206,150,1591,210] bottom 210 <= 1771 (82% line), inside frame
+PASS 16x9 text "你背过的单词，后来都去哪了？" box [196,236,2222,870] bottom 870 <= 1771 (82% line), inside frame
+PASS 16x9 text "合上书，把它想起来" box [212,922,1484,1046] bottom 1046 <= 1771 (82% line), inside frame
+PASS 16x9 key subject brainCore bottom 1560 <= 1771
+PASS 16x9 key subject learner bottom 1740 <= 1771
+PASS 16x9 contrast kicker "4K 动画" fill rgb(174, 187, 217) vs mean bg rgb(2, 4, 14) = 10.59:1 (min 3.0); vs bright 90th pct bg = 10.56:1
+PASS 16x9 contrast kicker "·" fill rgb(232, 183, 92) vs mean bg rgb(2, 5, 15) = 10.99:1 (min 3.0); vs bright 90th pct bg = 11.00:1
+PASS 16x9 contrast kicker "无旁白" fill rgb(174, 187, 217) vs mean bg rgb(3, 6, 16) = 10.51:1 (min 3.0); vs bright 90th pct bg = 10.44:1
+PASS 16x9 contrast kicker "·" fill rgb(232, 183, 92) vs mean bg rgb(3, 6, 18) = 10.89:1 (min 3.0); vs bright 90th pct bg = 10.87:1
+PASS 16x9 contrast kicker "《星际穿越》配乐" fill rgb(174, 187, 217) vs mean bg rgb(4, 8, 22) = 10.35:1 (min 3.0); vs bright 90th pct bg = 10.25:1
+PASS 16x9 contrast head "你背过的单词，" fill rgb(246, 248, 255) vs mean bg rgb(5, 8, 20) = 18.81:1 (min 4.5); vs bright 90th pct bg = 18.46:1
+PASS 16x9 contrast head "后来都去哪了" fill rgb(246, 248, 255) vs mean bg rgb(4, 7, 20) = 18.84:1 (min 4.5); vs bright 90th pct bg = 18.51:1
+PASS 16x9 contrast head "？" fill rgb(255, 198, 95) vs mean bg rgb(16, 16, 25) = 12.11:1 (min 4.5); vs bright 90th pct bg = 11.42:1
+PASS 16x9 contrast sub "合上书，把它想起来" fill rgb(255, 210, 122) vs mean bg rgb(4, 8, 20) = 14.00:1 (min 3.0); vs bright 90th pct bg = 13.48:1
+==== 4x3 ====
+PASS 4x3 fonts loaded in the page (SC900, Serif900, SC500)
+PASS 4x3 master size 2880x2160 (want 2880x2160), 5.42 MB
+PASS 4x3 upload 1440x1080 JPG q95 4:4:4, 455026 bytes (0.46 MB) < 2 MB
+PASS 4x3 headline lines = 2 (max 2)
+PASS 4x3 text elements = 3 (max 3), dominant = head 246px vs 112px
+4x3 headline font 246px, glyph ink height (font metrics) 236px, measured per line [242, 269] px
+PASS 4x3 headline cap/ink height at feed size 240x180 = 19.7 px (min 14)
+PASS 4x3 text "4K 动画 · 无旁白 · 《星际穿越》配乐" box [166,150,1458,206] bottom 206 <= 1771 (82% line), inside frame
+PASS 4x3 text "你背过的单词，后来都去哪了？" box [156,236,1887,787] bottom 787 <= 1771 (82% line), inside frame
+PASS 4x3 text "合上书，把它想起来" box [170,842,1319,954] bottom 954 <= 1771 (82% line), inside frame
+PASS 4x3 key subject brainCore bottom 1686 <= 1771
+PASS 4x3 key subject learner bottom 1740 <= 1771
+PASS 4x3 contrast kicker "4K 动画" fill rgb(174, 187, 217) vs mean bg rgb(2, 5, 14) = 10.56:1 (min 3.0); vs bright 90th pct bg = 10.50:1
+PASS 4x3 contrast kicker "·" fill rgb(232, 183, 92) vs mean bg rgb(3, 5, 16) = 10.95:1 (min 3.0); vs bright 90th pct bg = 10.92:1
+PASS 4x3 contrast kicker "无旁白" fill rgb(174, 187, 217) vs mean bg rgb(3, 6, 18) = 10.45:1 (min 3.0); vs bright 90th pct bg = 10.38:1
+PASS 4x3 contrast kicker "·" fill rgb(232, 183, 92) vs mean bg rgb(4, 7, 20) = 10.83:1 (min 3.0); vs bright 90th pct bg = 10.85:1
+PASS 4x3 contrast kicker "《星际穿越》配乐" fill rgb(174, 187, 217) vs mean bg rgb(5, 9, 23) = 10.29:1 (min 3.0); vs bright 90th pct bg = 10.19:1
+PASS 4x3 contrast head "你背过的单词，" fill rgb(246, 248, 255) vs mean bg rgb(5, 8, 19) = 18.80:1 (min 4.5); vs bright 90th pct bg = 18.38:1
+PASS 4x3 contrast head "后来都去哪了" fill rgb(246, 248, 255) vs mean bg rgb(4, 7, 19) = 18.85:1 (min 4.5); vs bright 90th pct bg = 18.56:1
+PASS 4x3 contrast head "？" fill rgb(255, 198, 95) vs mean bg rgb(19, 17, 22) = 12.01:1 (min 4.5); vs bright 90th pct bg = 11.18:1
+PASS 4x3 contrast sub "合上书，把它想起来" fill rgb(255, 210, 122) vs mean bg rgb(4, 8, 20) = 14.02:1 (min 3.0); vs bright 90th pct bg = 13.89:1
+strings on the cover: 4K 动画 | 4K 动画 · 无旁白 · 《星际穿越》配乐 | 《星际穿越》配乐 | 你背过的单词， | 你背过的单词，后来都去哪了？ | 合上书，把它想起来 | 后来都去哪了 | 无旁白 | ？
+PASS forbidden-word scan over 9 strings: no hits
+PASS window words baked into the city image (248 words from s02 WIN list): forbidden or nationality hints = none
+side_by_side.jpg 1192x408
+RESULT: ALL PASS

@@ -1,0 +1,275 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>cover d2_contrarian</title>
+<style>
+@font-face { font-family: 'NSC'; font-weight: 700; src: url('../fonts/NotoSansSC-700.ttf'); }
+@font-face { font-family: 'NSC'; font-weight: 900; src: url('../fonts/NotoSansSC-900.ttf'); }
+@font-face { font-family: 'SS4D'; font-style: italic; font-weight: 400; src: url('../fonts/SourceSerif4Display-Italic.ttf'); }
+html, body { margin: 0; padding: 0; background: #05070d; }
+#stage { position: relative; overflow: hidden; background: #070a14; }
+canvas { position: absolute; left: 0; top: 0; }
+.txt { position: absolute; white-space: nowrap; }
+#headline { font-family: 'NSC'; font-weight: 900; letter-spacing: 0.02em; line-height: 1.1; color: #fff6ea;
+  filter: drop-shadow(0 0.035em 0.09em rgba(2, 4, 12, 0.85)); }
+#headline .w { color: #fff6ea; background: linear-gradient(180deg, #ffffff 0%, #fff4e4 55%, #ffe2bf 100%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+#headline .hot { color: #ff6442; background: linear-gradient(180deg, #ff9a5c 0%, #ff6a46 55%, #ff5c3c 100%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+#word { font-family: 'SS4D'; font-style: italic; font-weight: 400; line-height: 1; color: #0d1328; visibility: hidden; }
+#sub { font-family: 'NSC'; font-weight: 700; letter-spacing: 0.08em; line-height: 1.2; color: #e3eaf8;
+  filter: drop-shadow(0 4px 18px rgba(2, 4, 12, 0.9)); }
+#sub .hot { color: #ff6a45; }
+body.notext .txt { visibility: hidden !important; }
+</style></head>
+<body>
+<div id="stage">
+  <canvas id="bg"></canvas>
+  <canvas id="fx"></canvas>
+  <canvas id="grain" style="mix-blend-mode: soft-light"></canvas>
+  <div class="txt" id="headline" data-role="headline"><span class="w">别再</span><span class="hot">反复看</span><span class="w">单词了</span></div>
+  <div class="txt" id="word" data-role="word">abandon</div>
+  <div class="txt" id="sub" data-role="sub"><span class="w">一周后，反而记得</span><span class="hot">更少</span></div>
+</div>
+<script>
+'use strict';
+const LAYOUTS = {
+  '16x9': { W: 3840, H: 2160, head: { size: 350, cx: 1920, top: 160 }, word: { size: 570, cx: 1700, cy: 1090 },
+            sub: { size: 148, cx: 1920, top: 1528 }, sand: { from: 0.50, to: 1.06, len: 1900, ang: -7 }, seed: 7 },
+  '4x3':  { W: 2880, H: 2160, head: { size: 312, cx: 1440, top: 180 }, word: { size: 492, cx: 1290, cy: 1090 },
+            sub: { size: 140, cx: 1440, top: 1532 }, sand: { from: 0.50, to: 1.06, len: 1450, ang: -7 }, seed: 7 },
+};
+const P = new URLSearchParams(location.search);
+const LY = LAYOUTS[P.get('layout') || '16x9'];
+const W = LY.W, H = LY.H;
+
+// ---------- deterministic helpers ----------
+function rng(seed) { let a = seed >>> 0; return () => { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+const R = rng(LY.seed);
+const NG = 256, NT = new Float32Array(NG * NG); { const r = rng(99); for (let i = 0; i < NT.length; i++) NT[i] = r(); }
+function vnoise(x, y) { const xi = Math.floor(x), yi = Math.floor(y), xf = x - xi, yf = y - yi;
+  const g = (i, j) => NT[((j & 255) * NG) + (i & 255)];
+  const s = t => t * t * (3 - 2 * t), u = s(xf), v = s(yf);
+  return (g(xi, yi) * (1 - u) + g(xi + 1, yi) * u) * (1 - v) + (g(xi, yi + 1) * (1 - u) + g(xi + 1, yi + 1) * u) * v; }
+function fbm(x, y) { return 0.55 * vnoise(x, y) + 0.3 * vnoise(x * 2.1 + 17, y * 2.1 + 5) + 0.15 * vnoise(x * 4.3 + 41, y * 4.3 + 23); }
+const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+const sstep = (a, b, x) => { const t = clamp((x - a) / (b - a), 0, 1); return t * t * (3 - 2 * t); };
+
+// ---------- layout the DOM text ----------
+const stage = document.getElementById('stage');
+stage.style.width = W + 'px'; stage.style.height = H + 'px';
+const head = document.getElementById('headline'), word = document.getElementById('word'), sub = document.getElementById('sub');
+function place() {
+  head.style.fontSize = LY.head.size + 'px'; head.style.top = LY.head.top + 'px';
+  head.style.left = (LY.head.cx - head.offsetWidth / 2) + 'px';
+  word.style.fontSize = LY.word.size + 'px';
+  word.style.left = (LY.word.cx - word.offsetWidth / 2) + 'px';
+  word.style.top = (LY.word.cy - word.offsetHeight / 2) + 'px';
+  sub.style.fontSize = LY.sub.size + 'px'; sub.style.top = LY.sub.top + 'px';
+  sub.style.left = (LY.sub.cx - sub.offsetWidth / 2) + 'px';
+}
+
+// ---------- background ----------
+function drawBg() {
+  const c = document.getElementById('bg'); c.width = W; c.height = H; const g = c.getContext('2d');
+  g.fillStyle = '#070a14'; g.fillRect(0, 0, W, H);
+  let rg = g.createRadialGradient(W * 0.5, H * 0.5, 0, W * 0.5, H * 0.5, Math.max(W, H) * 0.75);
+  rg.addColorStop(0, '#18244a'); rg.addColorStop(0.42, '#0e1630'); rg.addColorStop(1, '#05070e');
+  g.fillStyle = rg; g.fillRect(0, 0, W, H);
+  // cold volumetric light from above (the film's top rays)
+  g.save(); g.filter = 'blur(' + Math.round(W * 0.012) + 'px)'; g.globalCompositeOperation = 'lighter';
+  const rr = rng(5);
+  for (let i = 0; i < 9; i++) {
+    const a = (-0.42 + i * 0.105 + (rr() - 0.5) * 0.04), len = H * (1.05 + rr() * 0.3), w = 0.03 + rr() * 0.03;
+    const ox = W * 0.5, oy = -H * 0.2;
+    const lg = g.createLinearGradient(ox, oy, ox + Math.sin(a) * len, oy + Math.cos(a) * len);
+    lg.addColorStop(0, 'rgba(170,200,255,0.075)'); lg.addColorStop(0.55, 'rgba(150,180,255,0.03)'); lg.addColorStop(1, 'rgba(150,180,255,0)');
+    g.fillStyle = lg; g.beginPath(); g.moveTo(ox, oy);
+    g.lineTo(ox + Math.sin(a - w) * len, oy + Math.cos(a - w) * len); g.lineTo(ox + Math.sin(a + w) * len, oy + Math.cos(a + w) * len); g.closePath(); g.fill();
+  }
+  g.restore();
+  // warm spill of the highlighter light
+  const wy = LY.word.cy, wx = LY.word.cx;
+  rg = g.createRadialGradient(wx, wy, 0, wx, wy, LY.word.size * 2.6);
+  rg.addColorStop(0, 'rgba(255,150,50,0.22)'); rg.addColorStop(0.45, 'rgba(255,110,40,0.07)'); rg.addColorStop(1, 'rgba(255,90,40,0)');
+  g.fillStyle = rg; g.fillRect(0, 0, W, H);
+  // isometric floor grid fading into the dark (the s04 floor)
+  const GL = document.createElement('canvas'); GL.width = W; GL.height = H; const gl = GL.getContext('2d');
+  gl.strokeStyle = 'rgba(140,170,230,1)'; gl.lineWidth = 2;
+  const gy0 = H * 0.62, step = 150;
+  for (let k = -40; k < 60; k++) for (const dir of [1, -1]) {
+    gl.beginPath(); const x0 = k * step * 1.732; gl.moveTo(x0, gy0); gl.lineTo(x0 + dir * (H - gy0) * 1.732, H); gl.stroke(); }
+  gl.globalCompositeOperation = 'destination-in';
+  const mg = gl.createLinearGradient(0, H * 0.62, 0, H); mg.addColorStop(0, 'rgba(0,0,0,0)'); mg.addColorStop(0.45, 'rgba(0,0,0,0.05)'); mg.addColorStop(1, 'rgba(0,0,0,0.035)');
+  gl.fillStyle = mg; gl.fillRect(0, 0, W, H);
+  g.drawImage(GL, 0, 0);
+  // dust and bokeh
+  const dr = rng(11);
+  for (let i = 0; i < 520; i++) { const x = dr() * W, y = dr() * H, s = 0.8 + dr() * 2.6;
+    g.fillStyle = 'rgba(' + (150 + dr() * 80 | 0) + ',' + (185 + dr() * 60 | 0) + ',255,' + (0.12 + dr() * 0.45) + ')';
+    g.beginPath(); g.arc(x, y, s, 0, 7); g.fill(); }
+  g.save(); g.filter = 'blur(' + Math.round(W * 0.004) + 'px)';
+  for (let i = 0; i < 26; i++) { const x = dr() * W, y = dr() * H * 0.9, s = W * (0.004 + dr() * 0.01);
+    g.fillStyle = 'rgba(127,166,224,' + (0.05 + dr() * 0.08) + ')'; g.beginPath(); g.arc(x, y, s, 0, 7); g.fill(); }
+  g.restore();
+  // soft scrim behind the headline
+  { const hy = LY.head.top + LY.head.size * 0.55, sg = g.createRadialGradient(LY.head.cx, hy, 0, LY.head.cx, hy, LY.head.size * 5.2);
+    sg.addColorStop(0, 'rgba(4,6,14,0.42)'); sg.addColorStop(0.6, 'rgba(4,6,14,0.22)'); sg.addColorStop(1, 'rgba(4,6,14,0)');
+    g.save(); g.translate(0, hy); g.scale(1, 0.32); g.translate(0, -hy); g.fillStyle = sg; g.fillRect(0, hy - LY.head.size * 17, W, LY.head.size * 34); g.restore(); }
+  // vignette
+  rg = g.createRadialGradient(W * 0.5, H * 0.48, Math.min(W, H) * 0.35, W * 0.5, H * 0.5, Math.max(W, H) * 0.78);
+  rg.addColorStop(0, 'rgba(0,0,0,0)'); rg.addColorStop(1, 'rgba(1,2,6,0.72)');
+  g.fillStyle = rg; g.fillRect(0, 0, W, H);
+  // bottom strip darker (B站 overlays play count and duration there)
+  const bg2 = g.createLinearGradient(0, H * 0.80, 0, H); bg2.addColorStop(0, 'rgba(3,5,12,0)'); bg2.addColorStop(1, 'rgba(3,5,12,0.55)');
+  g.fillStyle = bg2; g.fillRect(0, H * 0.8, W, H * 0.2);
+}
+
+// ---------- the highlighted word, dissolving ----------
+let EXT = null;   // extents of the visual (for the safe-zone check)
+function drawFx(withWord) {
+  const c = document.getElementById('fx'); c.width = W; c.height = H; const g = c.getContext('2d');
+  const fs = LY.word.size, wr = word.getBoundingClientRect();
+  const sr = stage.getBoundingClientRect();
+  const wl = wr.left - sr.left, wt = wr.top - sr.top, ww = wr.width;
+  // the source layer: three highlighter passes, then the ink
+  const pad = Math.round(fs * 0.6);
+  const sx0 = Math.round(wl - pad), sy0 = Math.round(LY.word.cy - fs * 0.9), sw = Math.round(ww + 2 * pad), sh = Math.round(fs * 1.8);
+  const S = document.createElement('canvas'); S.width = sw; S.height = sh; const s = S.getContext('2d');
+  const ctx = document.createElement('canvas').getContext('2d'); ctx.font = 'italic 400 ' + fs + 'px SS4D';
+  const m = ctx.measureText('abandon');
+  const inkTop = LY.word.cy - (m.actualBoundingBoxAscent - m.actualBoundingBoxDescent) / 2;   // visual centre on cy
+  const baseY = inkTop + m.actualBoundingBoxAscent;   // baseline (stage coords)
+  const xh = fs * 0.46;   // x-height region centre ~ baseline - 0.25em
+  const bandCy = baseY - fs * 0.27 - sy0;
+  const passes = [ // width extra, height (em), dy (em), rotation (deg), colour
+    { ex: 0.10, h: 0.66, dy: 0.05, r: -1.4, c: 'rgba(255,186,40,0.80)', l: -0.02 },
+    { ex: 0.20, h: 0.86, dy: -0.02, r: 0.8, c: 'rgba(255,200,52,0.62)', l: 0.03 },
+    { ex: 0.30, h: 1.06, dy: 0.02, r: -0.6, c: 'rgba(255,170,38,0.55)', l: -0.05 },
+  ];
+  const sr2 = rng(31);
+  for (const p of passes) {
+    s.save();
+    const bw = ww + fs * p.ex * 2, bh = fs * p.h, cx = sw / 2 + fs * p.l, cy = bandCy + fs * p.dy;
+    s.translate(cx, cy); s.rotate(p.r * Math.PI / 180);
+    // chisel-tip stroke with slightly ragged long edges
+    const x0 = -bw / 2, x1 = bw / 2, y0 = -bh / 2, y1 = bh / 2, sl = bh * 0.16;
+    s.beginPath(); s.moveTo(x0 + sl, y0);
+    const N = 60;
+    for (let i = 1; i <= N; i++) { const x = x0 + sl + (x1 - x0 - sl) * i / N; s.lineTo(x, y0 + (vnoise(i * 0.7, 3.1 + p.r) - 0.5) * fs * 0.018); }
+    s.quadraticCurveTo(x1 + sl * 0.3, (y0 + y1) / 2, x1 - sl * 0.2, y1);
+    for (let i = N; i >= 0; i--) { const x = x0 + (x1 - x0 - sl) * i / N; s.lineTo(x, y1 + (vnoise(i * 0.7, 9.7 + p.r) - 0.5) * fs * 0.018); }
+    s.quadraticCurveTo(x0 - sl * 0.4, (y0 + y1) / 2, x0 + sl, y0);
+    s.closePath(); s.fillStyle = p.c; s.fill();
+    // ink pooling at the ends and fine streaks along the stroke
+    s.clip();
+    const lg = s.createLinearGradient(x0, 0, x1, 0);
+    lg.addColorStop(0, 'rgba(230,120,20,0.35)'); lg.addColorStop(0.05, 'rgba(230,120,20,0)'); lg.addColorStop(0.95, 'rgba(230,120,20,0)'); lg.addColorStop(1, 'rgba(230,120,20,0.35)');
+    s.fillStyle = lg; s.fillRect(x0 - 20, y0 - 20, bw + 40, bh + 40);
+    for (let k = 0; k < 42; k++) { const y = y0 + sr2() * bh; s.fillStyle = sr2() < 0.5 ? 'rgba(255,236,170,0.10)' : 'rgba(200,110,20,0.10)';
+      s.fillRect(x0, y, bw, 1 + sr2() * fs * 0.012); }
+    s.restore();
+  }
+  if (withWord) { s.font = 'italic 400 ' + fs + 'px SS4D'; s.fillStyle = '#0d1328'; s.textBaseline = 'alphabetic';
+    s.fillText('abandon', wl - sx0, baseY - sy0); }
+  const src = s.getImageData(0, 0, sw, sh), d = src.data;
+  // dissolve: left part stays, the right part erodes into grains carried off to the right
+  const fx0 = wl + ww * LY.sand.from - sx0, fx1 = wl + ww * LY.sand.to - sx0;
+  const parts = []; const pr = rng(77); const L = LY.sand.len, ang = LY.sand.ang * Math.PI / 180;
+  for (let y = 0; y < sh; y++) for (let x = 0; x < sw; x++) {
+    const i = (y * sw + x) * 4; const a = d[i + 3]; if (!a) continue;
+    const u = (x - fx0) / (fx1 - fx0);
+    const n = fbm(x * 0.0045 * 560 / fs, y * 0.0045 * 560 / fs);
+    const dd = u + (n - 0.5) * 0.55;
+    const p = sstep(0.0, 0.62, dd);
+    if (pr() < p) {
+      if (pr() < 0.07 + 0.11 * p) {
+        const k = Math.pow(pr(), 1.25) * (0.15 + 0.85 * clamp(dd, 0, 1.2));
+        const dist = L * k;
+        const curl = (fbm(x * 0.0016 + 50, y * 0.0016 + 80) - 0.5) * 1.8;
+        const th = ang + curl * 0.45 - k * 0.22;
+        const spread = 1 + k * 2.2;
+        const px = x + sx0 + Math.cos(th) * dist + (pr() - 0.5) * 24 * spread, py = y + sy0 + Math.sin(th) * dist + (pr() - 0.5) * 60 * spread * k;
+        const ink = d[i] < 60;   // a grain of the letter itself
+        parts.push([px, py, k, ink ? 1 : 0, d[i], d[i + 1], d[i + 2], a]);
+      }
+      d[i + 3] = 0;
+    }
+  }
+  const O = document.createElement('canvas'); O.width = sw; O.height = sh; O.getContext('2d').putImageData(src, 0, 0);
+  // glow of the band
+  g.save(); g.globalCompositeOperation = 'lighter';
+  g.filter = 'blur(' + Math.round(fs * 0.22) + 'px)'; g.globalAlpha = 0.55; g.drawImage(O, sx0, sy0);
+  g.filter = 'blur(' + Math.round(fs * 0.05) + 'px)'; g.globalAlpha = 0.30; g.drawImage(O, sx0, sy0);
+  g.restore();
+  if (withWord) {
+    const GC = document.createElement('canvas'); GC.width = sw; GC.height = sh; const gh = GC.getContext('2d');
+    gh.font = 'italic 400 ' + fs + 'px SS4D'; gh.lineWidth = Math.max(2, fs * 0.008); gh.strokeStyle = 'rgba(255,200,130,0.75)';
+    gh.strokeText('abandon', wl - sx0, baseY - sy0);
+    gh.globalCompositeOperation = 'destination-in';
+    const mg = gh.createLinearGradient(fx0, 0, fx0 + (fx1 - fx0) * 0.75, 0); mg.addColorStop(0, 'rgba(0,0,0,0)'); mg.addColorStop(0.35, 'rgba(0,0,0,0.9)'); mg.addColorStop(1, 'rgba(0,0,0,0.6)');
+    gh.fillStyle = mg; gh.fillRect(0, 0, sw, sh);
+    g.save(); g.shadowColor = 'rgba(255,150,60,0.8)'; g.shadowBlur = fs * 0.03; g.drawImage(GC, sx0, sy0); g.restore();
+  }
+  g.drawImage(O, sx0, sy0);
+  // grains: amber from the band, hot red-orange embers near the front, cooling as they fly
+  const PC = document.createElement('canvas'); PC.width = W; PC.height = H; const q = PC.getContext('2d');
+  let maxY = 0, minY = H, maxX = 0;
+  const BC = document.createElement('canvas'); BC.width = W; BC.height = H; const bq = BC.getContext('2d');
+  for (const t of parts) {
+    const [px, py, k, ink] = t; if (px < 0 || px > W || py < 0 || py > H) continue;
+    const fade = Math.pow(1 - clamp(k, 0, 1), 1.9);
+    let r, gg, b;
+    if (k < 0.08) { r = 255; gg = 96 + 900 * k; b = 44; }                 // hot embers at the front
+    else { r = 255; gg = Math.min(214, 160 + 160 * k); b = 70 + 110 * k; }  // cooling to pale gold
+    if (ink && k < 0.25) { r = 255; gg = 84 + 300 * k; b = 50; }          // grains of the letters burn red, then cool
+    const al = (ink ? 0.95 : 0.8) * fade;
+    if (al < 0.025) continue;
+    const z = pr();
+    if (z < 0.012 && k > 0.08) {                                           // a few out of focus, near the lens
+      bq.fillStyle = 'rgba(' + r + ',' + (gg | 0) + ',' + (b | 0) + ',' + (0.22 * fade + 0.05).toFixed(3) + ')';
+      bq.beginPath(); bq.arc(px, py + (z - 0.006) * 9000, (5 + pr() * 14) * W / 3840, 0, 7); bq.fill(); continue;
+    }
+    const sz = (ink ? 2.4 : 1.7) * (W / 3840) * (1 + pr() * 1.3);
+    q.fillStyle = 'rgba(' + (r | 0) + ',' + (gg | 0) + ',' + (b | 0) + ',' + al.toFixed(3) + ')';
+    q.fillRect(px, py, sz, sz);
+    if (al > 0.15) { maxY = Math.max(maxY, py); minY = Math.min(minY, py); maxX = Math.max(maxX, px); }
+  }
+  g.save(); g.globalCompositeOperation = 'lighter'; g.filter = 'blur(' + Math.round(fs * 0.012) + 'px)'; g.drawImage(BC, 0, 0); g.restore();
+  g.save(); g.globalCompositeOperation = 'lighter';
+  g.filter = 'blur(' + Math.round(fs * 0.09) + 'px)'; g.globalAlpha = 0.55; g.drawImage(PC, 0, 0);
+  g.filter = 'blur(' + Math.round(fs * 0.03) + 'px)'; g.globalAlpha = 0.9; g.drawImage(PC, 0, 0);
+  g.filter = 'none'; g.globalAlpha = 1; g.drawImage(PC, 0, 0);
+  g.restore();
+  // fine film grain over the picture (not over the type): neutral grey +- noise, soft-light blend
+  const gc = document.getElementById('grain'); gc.width = W; gc.height = H; const gq = gc.getContext('2d');
+  const gr = rng(123), GD = gq.createImageData(W, H), gd = GD.data;
+  for (let i = 0; i < gd.length; i += 4) { const v = 128 + (gr() + gr() - 1) * 26; gd[i] = gd[i + 1] = gd[i + 2] = v; gd[i + 3] = 255; }
+  gq.putImageData(GD, 0, 0);
+  EXT = { band: [sx0, sy0, sx0 + sw, sy0 + sh], sand: [minY, maxY, maxX], parts: parts.length };
+}
+
+window.render = async function (withText) {
+  document.body.classList.toggle('notext', !withText);
+  drawFx(withText);
+  await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+  return true;
+};
+window.info = function () {
+  const sr = stage.getBoundingClientRect(); const out = [];
+  const box = e => { const r = e.getBoundingClientRect(); return [r.left - sr.left, r.top - sr.top, r.right - sr.left, r.bottom - sr.top]; };
+  for (const e of document.querySelectorAll('.txt')) {
+    const cs = getComputedStyle(e);
+    const spans = [...e.querySelectorAll('span')].map(sp => { const st = getComputedStyle(sp);
+      return { text: sp.textContent, color: st.color, fill: st.webkitTextFillColor, gradient: st.backgroundImage, box: box(sp) }; });
+    out.push({ role: e.dataset.role, text: e.textContent, color: cs.color, filter: cs.filter, font: cs.fontWeight + ' ' + cs.fontStyle + ' ' + cs.fontSize + ' ' + cs.fontFamily, size: parseFloat(cs.fontSize), box: box(e), spans });
+  }
+  // ink height of the headline glyphs at its font size (layout metric for the feed-size check)
+  const c = document.createElement('canvas').getContext('2d'); c.font = '900 ' + LY.head.size + 'px NSC';
+  const mm = c.measureText(head.textContent);
+  return { W, H, texts: out, ext: EXT, headInk: mm.actualBoundingBoxAscent + mm.actualBoundingBoxDescent, title: document.title };
+};
+(async () => {
+  await document.fonts.load('900 100px NSC'); await document.fonts.load('700 100px NSC'); await document.fonts.load('italic 400 100px SS4D');
+  await document.fonts.ready;
+  place(); drawBg(); await window.render(true);
+  window.__ready = true;
+})();
+</script>
+</body></html>

@@ -1,0 +1,35 @@
+<!doctype html><html><head><meta charset="utf-8"><title>cover 16x9</title>
+<link rel="stylesheet" href="cover.css">
+<style>
+:root{--l1a:#ffffff;--l1b:#f7e7c8;--l2a:#ffe6b0;--l2b:#f3bf6c;--tag:#ead2a2;--tagdot:#f0b55e;--en:#f2c983}
+#stage{width:3840px;height:2160px}
+#bg{left:0;width:3840px;height:2160px}
+/* sun (2460,1205), learner head (2460,1367), feet y 1706 */
+#shade{background:
+  linear-gradient(148deg, rgba(6,4,16,.50) 0%, rgba(6,4,16,.45) 44%, rgba(6,4,16,0) 58%),
+  radial-gradient(ellipse 1650px 1150px at 920px 640px, rgba(4,5,14,.86) 0%, rgba(4,5,14,.70) 42%, rgba(4,5,14,0) 100%),
+  linear-gradient(90deg, rgba(3,4,12,.50) 0%, rgba(3,4,12,0) 46%),
+  linear-gradient(180deg, rgba(0,0,0,.42) 0%, rgba(0,0,0,0) 16%, rgba(0,0,0,0) 72%, rgba(0,0,0,.78) 100%)}
+#flare{left:1160px;top:1199px;width:2600px;height:12px;mix-blend-mode:screen;filter:blur(1.5px);
+  background:radial-gradient(ellipse 50% 50% at 50% 50%, rgba(255,252,244,.95) 0%, rgba(255,214,160,.55) 22%, rgba(140,178,255,.28) 52%, rgba(140,178,255,0) 100%)}
+#flare2{left:1060px;top:1125px;width:2800px;height:160px;mix-blend-mode:screen;filter:blur(8px);
+  background:radial-gradient(ellipse 50% 50% at 50% 50%, rgba(255,226,180,.30) 0%, rgba(150,180,255,.10) 45%, rgba(150,180,255,0) 100%)}
+#head{left:2160px;top:1067px;width:600px;height:600px;mix-blend-mode:screen;
+  background:radial-gradient(circle at 50% 50%, rgba(255,232,170,.80) 0px, rgba(255,196,110,.38) 80px, rgba(255,160,70,.13) 180px, rgba(255,160,70,0) 300px)}
+#tag{left:304px;top:150px;font-size:84px;line-height:1;letter-spacing:.22em;filter:drop-shadow(0 4px 14px rgba(0,0,0,.7))}
+#hl{left:290px;top:270px;font-size:270px;line-height:1.1;letter-spacing:.03em;
+  filter:drop-shadow(0 10px 22px rgba(0,0,0,.65)) drop-shadow(0 0 70px rgba(255,170,80,.22))}
+#en{left:310px;top:904px;font-size:176px;line-height:1;letter-spacing:.01em;
+  filter:drop-shadow(0 6px 18px rgba(0,0,0,.7)) drop-shadow(0 0 40px rgba(255,170,80,.30))}
+</style></head><body>
+<div id="stage">
+  <img id="bg" src="bg_16x9_graded.png">
+  <div class="fx full" id="shade"></div>
+  <div class="fx" id="flare2"></div>
+  <div class="fx" id="flare"></div>
+  <div class="fx" id="head"></div>
+  <p class="t tagline" id="tag" data-role="tagline" data-fill="var(--tag)"><span class="k4">4K</span> 动画<span class="dot">·</span>无旁白<span class="dot">·</span><span class="bk">《星际穿越》</span>配乐</p>
+  <h1 class="t headline" id="hl" data-role="headline"><span class="ln l1" data-fill="var(--l1a),var(--l1b)">你背过的单词</span><span class="ln l2" data-fill="var(--l2a),var(--l2b)">后来都去哪了？</span></h1>
+  <p class="t english" id="en" data-role="english" data-fill="var(--en)">retrieval</p>
+</div>
+</body></html>
