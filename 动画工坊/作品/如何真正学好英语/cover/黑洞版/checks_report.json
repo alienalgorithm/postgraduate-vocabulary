@@ -1,0 +1,197 @@
+[
+ {
+  "check": "1 size master_16x9.png",
+  "pass": true,
+  "detail": "3840x2160 RGB 7470 KB"
+ },
+ {
+  "check": "1 size master_4x3.png",
+  "pass": true,
+  "detail": "2880x2160 RGB 6346 KB"
+ },
+ {
+  "check": "1 size upload_16x9.jpg",
+  "pass": true,
+  "detail": "1920x1080 RGB 783 KB q=97"
+ },
+ {
+  "check": "1 size upload_4x3.jpg",
+  "pass": true,
+  "detail": "1440x1080 RGB 650 KB q=97"
+ },
+ {
+  "check": "1 size feed_16x9.png",
+  "pass": true,
+  "detail": "320x180 RGB 77 KB"
+ },
+ {
+  "check": "1 size feed_4x3.png",
+  "pass": true,
+  "detail": "240x180 RGB 61 KB"
+ },
+ {
+  "check": "1 size pair.jpg",
+  "pass": true,
+  "detail": "3480x1560"
+ },
+ {
+  "check": "2 headline cap height 16x9 @ 320x180",
+  "pass": true,
+  "detail": "median glyph ink height line1 20 px, line2 20 px (need >= 18); per glyph {'l1': [20, 20, 20, 20, 19, 20, 21], 'l2': [20, 21, 21, 20, 20, 21, 20, 20]}"
+ },
+ {
+  "check": "2 sub line cap height 16x9 @ 320x180",
+  "pass": true,
+  "detail": "median glyph ink height 10 px (need >= 9); 50% of the headline; per glyph [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]"
+ },
+ {
+  "check": "3 no text in bottom 18% 16x9",
+  "pass": true,
+  "detail": "lowest text box bottom 483.0 css px, strip starts at 885.6"
+ },
+ {
+  "check": "3 shadow centre above strip 16x9",
+  "pass": true,
+  "detail": "shadow centre (2736,1129) px = (0.713,0.522) of frame, bbox (2470, 962, 3012, 1268)"
+ },
+ {
+  "check": "3 wormhole and ship above strip 16x9",
+  "pass": true,
+  "detail": "wormhole bottom at 0.710 H, ship at 0.655 H (strip from 0.82 H)"
+ },
+ {
+  "check": "3 wormhole clear of text 16x9",
+  "pass": true,
+  "detail": "smallest gap between wormhole glow and a text box 0.090 H"
+ },
+ {
+  "check": "3 black hole size and framing 16x9",
+  "pass": true,
+  "detail": "bright disk spans x 0.495..0.964 = 0.469 W, y 0.316..0.778; margins left 0.495 W, right 0.036 W, top 0.316 H"
+ },
+ {
+  "check": "3 black hole clear of text 16x9",
+  "pass": true,
+  "detail": "smallest gap between the bright disk and a text box 0.039 H"
+ },
+ {
+  "check": "3 wake words placed 16x9",
+  "pass": true,
+  "detail": "5 words ['recall', 'memory', 'retain', 'vocabulary', 'remember'], lowest word bottom 0.766 H, overlapping pairs 0, smallest gap to text 0.192 H, cap size 43 px at 1080p (box height)"
+ },
+ {
+  "check": "4 contrast 16x9 head1 '你的单词正在被'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 15.58 (need >= 4.5); worst case fill p10 vs bg p90 12.97"
+ },
+ {
+  "check": "4 contrast 16x9 head2 '记忆的黑洞所吞噬'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 14.80 (need >= 4.5); worst case fill p10 vs bg p90 11.46"
+ },
+ {
+  "check": "4 contrast 16x9 hot '记忆的黑洞'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 14.02 (need >= 4.5); worst case fill p10 vs bg p90 11.29"
+ },
+ {
+  "check": "4 contrast 16x9 sub '如何穿越虫洞，把单词抢回来？'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 17.15 (need >= 3.0); worst case fill p10 vs bg p90 16.34"
+ },
+ {
+  "check": "4 contrast 16x9 acc '虫洞'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 15.61 (need >= 3.0); worst case fill p10 vs bg p90 15.12"
+ },
+ {
+  "check": "4 contrast 16x9 gold '抢回来'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 13.63 (need >= 3.0); worst case fill p10 vs bg p90 13.39"
+ },
+ {
+  "check": "2 headline cap height 4x3 @ 240x180",
+  "pass": true,
+  "detail": "median glyph ink height line1 18 px, line2 18 px (need >= 16); per glyph {'l1': [18, 18, 18, 18, 16, 18, 18], 'l2': [17, 19, 19, 18, 18, 18, 18, 17]}"
+ },
+ {
+  "check": "2 sub line cap height 4x3 @ 240x180",
+  "pass": true,
+  "detail": "median glyph ink height 9 px (need >= 8); 50% of the headline; per glyph [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]"
+ },
+ {
+  "check": "3 no text in bottom 18% 4x3",
+  "pass": true,
+  "detail": "lowest text box bottom 428.0 css px, strip starts at 885.6"
+ },
+ {
+  "check": "3 shadow centre above strip 4x3",
+  "pass": true,
+  "detail": "shadow centre (2024,1282) px = (0.703,0.593) of frame, bbox (1840, 1152, 2235, 1393)"
+ },
+ {
+  "check": "3 wormhole and ship above strip 4x3",
+  "pass": true,
+  "detail": "wormhole bottom at 0.672 H, ship at 0.672 H (strip from 0.82 H)"
+ },
+ {
+  "check": "3 wormhole clear of text 4x3",
+  "pass": true,
+  "detail": "smallest gap between wormhole glow and a text box 0.134 H"
+ },
+ {
+  "check": "3 black hole size and framing 4x3",
+  "pass": true,
+  "detail": "bright disk spans x 0.478..0.965 = 0.487 W, y 0.432..0.794; margins left 0.478 W, right 0.035 W, top 0.432 H"
+ },
+ {
+  "check": "3 black hole clear of text 4x3",
+  "pass": true,
+  "detail": "smallest gap between the bright disk and a text box 0.056 H"
+ },
+ {
+  "check": "3 wake words placed 4x3",
+  "pass": true,
+  "detail": "5 words ['recall', 'memory', 'retain', 'vocabulary', 'remember'], lowest word bottom 0.798 H, overlapping pairs 0, smallest gap to text 0.258 H, cap size 47 px at 1080p (box height)"
+ },
+ {
+  "check": "4 contrast 4x3 head1 '你的单词正在被'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 15.44 (need >= 4.5); worst case fill p10 vs bg p90 12.91"
+ },
+ {
+  "check": "4 contrast 4x3 head2 '记忆的黑洞所吞噬'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 14.59 (need >= 4.5); worst case fill p10 vs bg p90 11.28"
+ },
+ {
+  "check": "4 contrast 4x3 hot '记忆的黑洞'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 13.88 (need >= 4.5); worst case fill p10 vs bg p90 11.10"
+ },
+ {
+  "check": "4 contrast 4x3 sub '如何穿越虫洞，把单词抢回来？'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 17.43 (need >= 3.0); worst case fill p10 vs bg p90 16.61"
+ },
+ {
+  "check": "4 contrast 4x3 acc '虫洞'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 15.95 (need >= 3.0); worst case fill p10 vs bg p90 15.83"
+ },
+ {
+  "check": "4 contrast 4x3 gold '抢回来'",
+  "pass": true,
+  "detail": "fill mean vs bg mean 13.84 (need >= 3.0); worst case fill p10 vs bg p90 13.73"
+ },
+ {
+  "check": "5 exact texts",
+  "pass": true,
+  "detail": "你的单词正在被 / 记忆的黑洞所吞噬 / 如何穿越虫洞，把单词抢回来？"
+ },
+ {
+  "check": "5 forbidden words",
+  "pass": true,
+  "detail": "scanned 1261 visible strings incl. 609 disk words, plus 14 HTML sources for emoji; hits: []"
+ }
+]
