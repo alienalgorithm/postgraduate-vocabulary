@@ -1,0 +1,972 @@
+{
+ "16x9": {
+  "render": {
+   "W": 3840,
+   "H": 2160,
+   "spp": 9,
+   "tile": 256,
+   "camDist": 30,
+   "elevDeg": 4.5,
+   "azimDeg": 0,
+   "rollDeg": -4.0,
+   "vfovDeg": 30.6,
+   "shift": [
+    0.7822,
+    -0.15
+   ],
+   "rin": 1.9,
+   "rout": 6.5,
+   "beam": 2.6,
+   "diskGain": 5.5,
+   "wordGain": 2.4,
+   "starGain": 1.0,
+   "nebGain": 0.7,
+   "smearR": 6.0,
+   "wordAspect": 1.0,
+   "seed": 7,
+   "foggy": 0.5,
+   "profExp": 2.3,
+   "gasOuter": 0.6,
+   "tempHot": 0.25,
+   "rpk": 2.9,
+   "whGlow": 1.0,
+   "whSky": 1.0,
+   "wh": {
+    "x": 0.165,
+    "y": 0.625,
+    "r": 0.085
+   },
+   "underOut": 3.6,
+   "neb2Gain": 2.6,
+   "neb2Y": -0.17,
+   "neb2W": 0.06
+  },
+  "post": {
+   "seed": 1119,
+   "exposure": 1.0,
+   "disk_thr": 0.35,
+   "sky_gain": 0.6,
+   "ridge_base": 0.82,
+   "ridge_amp": 0.17,
+   "ridge_rough": 0.016,
+   "astro_x": 0.7,
+   "astro_feet": 0.815,
+   "astro_h": 0.055,
+   "far_base": 0.8,
+   "far_peak_x": 0.25,
+   "far_peak_y": 0.8,
+   "far_amp": 0.05,
+   "far_rough": 0.008,
+   "glow_x": 0.71,
+   "glow_w": 0.42,
+   "glow_h": 0.065,
+   "glow_col": [
+    1.0,
+    0.6,
+    0.3
+   ],
+   "glow_gain": 0.45,
+   "far_col": [
+    0.05,
+    0.055,
+    0.08
+   ],
+   "rock_col": [
+    0.004,
+    0.005,
+    0.008
+   ],
+   "hole_xy": [
+    0.72,
+    0.575
+   ],
+   "rim_w": 2.0,
+   "rim_gain": 0.9,
+   "rim_col": [
+    1.0,
+    0.74,
+    0.45
+   ],
+   "rim_w_astro": 2.2,
+   "rim_gain_astro": 1.6,
+   "glint_gain": 1.0,
+   "n_spikes": 2,
+   "spike_len": 110,
+   "spike_gain": 0.45,
+   "spike_angle": 12,
+   "bloom_thr": 1.0,
+   "bloom_sigmas": [
+    4,
+    12,
+    32,
+    90,
+    220
+   ],
+   "bloom_weights": [
+    0.4,
+    0.28,
+    0.16,
+    0.1,
+    0.06
+   ],
+   "bloom_gain": 0.38,
+   "streak_thr": 7.0,
+   "streak_len": 900,
+   "streak_tint": [
+    0.35,
+    0.6,
+    1.0
+   ],
+   "streak_gain": 0.32,
+   "tm_exposure": 0.66,
+   "shadow_tint": [
+    0.0,
+    0.0012,
+    0.004
+   ],
+   "shadow_amt": 1.0,
+   "high_tint": [
+    1.06,
+    1.0,
+    0.9
+   ],
+   "high_amt": 0.6,
+   "sat": 1.15,
+   "vig_c": [
+    0.6,
+    0.45
+   ],
+   "vig_amt": 0.55,
+   "spike_boxes": [
+    [
+     0.6,
+     0.02,
+     0.98,
+     0.12
+    ],
+    [
+     0.02,
+     0.5,
+     0.12,
+     0.56
+    ]
+   ],
+   "shadow_r": 0.155,
+   "shadow_keep": 0.05,
+   "halo_sigma": 260,
+   "halo_col": [
+    1.0,
+    0.66,
+    0.32
+   ],
+   "halo_gain": 0.1,
+   "glint_size": 0.012,
+   "knee": 7.0,
+   "rim_fall": 0.035,
+   "astro_on": false,
+   "ship": {
+    "gain": 12.0,
+    "fade_pow": 1.5,
+    "core_w": 2.2,
+    "glow_w": 9.0,
+    "sheath_col": [
+     0.45,
+     0.72,
+     1.0
+    ],
+    "speed_lines": [
+     [
+      0.007,
+      0.3,
+      1.3,
+      1.5,
+      [
+       0.75,
+       0.92,
+       1.0
+      ]
+     ],
+     [
+      -0.007,
+      0.42,
+      1.2,
+      1.3,
+      [
+       0.62,
+       0.86,
+       1.0
+      ]
+     ],
+     [
+      0.013,
+      0.52,
+      1.1,
+      0.95,
+      [
+       0.55,
+       0.8,
+       1.0
+      ]
+     ],
+     [
+      -0.013,
+      0.26,
+      1.1,
+      0.85,
+      [
+       0.78,
+       0.62,
+       1.0
+      ]
+     ],
+     [
+      0.019,
+      0.66,
+      1.0,
+      0.6,
+      [
+       0.62,
+       0.86,
+       1.0
+      ]
+     ],
+     [
+      -0.019,
+      0.58,
+      1.0,
+      0.5,
+      [
+       0.52,
+       0.76,
+       1.0
+      ]
+     ]
+    ],
+    "shimmer": {
+     "wavelength": 70,
+     "amp": 5.0,
+     "width": 60
+    },
+    "fringe": {
+     "offset": 17,
+     "wobble": 3.0,
+     "wavelength": 55,
+     "gain": 0.45
+    },
+    "bubble": {
+     "rx": 0.95,
+     "ry": 0.55,
+     "gain": 0.35
+    },
+    "ship_len": 0.07,
+    "hull_col": [
+     0.42,
+     0.47,
+     0.56
+    ],
+    "edge_col": [
+     0.8,
+     0.9,
+     1.0
+    ],
+    "edge_gain": 2.0,
+    "rim_gain": 2.5,
+    "spine_gain": 1.2,
+    "cockpit_gain": 3.0,
+    "halo_gain": 1.2,
+    "engine_gain": 40.0,
+    "word_start": 150,
+    "word_stagger": 120,
+    "word_gap": 34,
+    "word_gap_s": 60,
+    "p0": [
+     0.62,
+     0.705
+    ],
+    "p1": [
+     0.46,
+     0.74
+    ],
+    "p2": [
+     0.3,
+     0.655
+    ],
+    "words": [
+     [
+      "recall",
+      86,
+      2.3,
+      1
+     ],
+     [
+      "memory",
+      80,
+      2.1,
+      -1
+     ],
+     [
+      "retain",
+      76,
+      1.9,
+      1
+     ],
+     [
+      "vocabulary",
+      72,
+      1.7,
+      -1
+     ],
+     [
+      "remember",
+      70,
+      1.6,
+      1
+     ]
+    ]
+   },
+   "glow2": {
+    "x": 0.18,
+    "w": 0.28,
+    "h": 0.06,
+    "col": [
+     0.35,
+     0.55,
+     1.0
+    ],
+    "gain": 0.22
+   }
+  },
+  "text": {
+   "cssW": 1920,
+   "cssH": 1080,
+   "head": {
+    "left": 88,
+    "top": 70,
+    "size1": 132,
+    "size2": 132,
+    "gap": 16,
+    "track": 0.01,
+    "font": "NotoSansSC-900.ttf"
+   },
+   "sub": {
+    "left": 94,
+    "top": 402,
+    "size": 66,
+    "track": 0.09,
+    "color": "#f3f6fb",
+    "font": "NotoSansSC-500.ttf",
+    "accColor": "#e2f2ff",
+    "goldColor": "#ffd27a"
+   },
+   "fx": {
+    "glow1": [
+     3,
+     0.3
+    ],
+    "glow2": [
+     16,
+     0.22
+    ],
+    "glow3": [
+     60,
+     0.12
+    ],
+    "glow_col": [
+     0.8,
+     0.88,
+     1.0
+    ],
+    "backing": [
+     28,
+     0.45
+    ],
+    "bevel_sigma": 2.0,
+    "bevel_hi": 0.35,
+    "bevel_lo": 0.28,
+    "rim_px": 2.4,
+    "rim_gain": 0.55,
+    "rim_col": [
+     1.0,
+     0.8,
+     0.5
+    ],
+    "grain": 0.016,
+    "grain_text": 0.35,
+    "acc_glow": [
+     [
+      3,
+      0.55
+     ],
+     [
+      12,
+      0.45
+     ],
+     [
+      34,
+      0.22
+     ]
+    ],
+    "acc_col": [
+     0.45,
+     0.72,
+     1.0
+    ],
+    "hot_glow": [
+     [
+      4,
+      0.35
+     ],
+     [
+      18,
+      0.28
+     ],
+     [
+      60,
+      0.14
+     ]
+    ],
+    "hot_col": [
+     1.0,
+     0.7,
+     0.32
+    ],
+    "sub_glow": [
+     [
+      3,
+      0.3
+     ],
+     [
+      14,
+      0.25
+     ],
+     [
+      44,
+      0.12
+     ]
+    ],
+    "sub_col": [
+     0.8,
+     0.88,
+     1.0
+    ],
+    "gold_glow": [
+     [
+      3,
+      0.45
+     ],
+     [
+      12,
+      0.35
+     ],
+     [
+      34,
+      0.16
+     ]
+    ],
+    "gold_col": [
+     1.0,
+     0.72,
+     0.35
+    ],
+    "bar": {
+     "y_off": 14,
+     "thick": 2.2,
+     "gain": 0.85,
+     "len_frac": 1.05,
+     "col": [
+      0.85,
+      0.92,
+      1.0
+     ],
+     "glow": 10,
+     "glow_gain": 0.35
+    }
+   }
+  }
+ },
+ "4x3": {
+  "render": {
+   "W": 2880,
+   "H": 2160,
+   "spp": 9,
+   "tile": 256,
+   "camDist": 30,
+   "elevDeg": 4.5,
+   "azimDeg": 0,
+   "rollDeg": -4.0,
+   "vfovDeg": 38.5,
+   "shift": [
+    0.56,
+    -0.27
+   ],
+   "rin": 1.9,
+   "rout": 6.5,
+   "beam": 2.6,
+   "diskGain": 5.5,
+   "wordGain": 2.4,
+   "starGain": 1.0,
+   "nebGain": 0.7,
+   "smearR": 6.0,
+   "wordAspect": 1.0,
+   "seed": 7,
+   "foggy": 0.5,
+   "profExp": 2.3,
+   "gasOuter": 0.6,
+   "rpk": 2.9,
+   "tempHot": 0.25,
+   "whGlow": 1.0,
+   "whSky": 1.0,
+   "wh": {
+    "x": 0.15,
+    "y": 0.6,
+    "r": 0.072
+   },
+   "underOut": 3.6,
+   "neb2Gain": 2.6,
+   "neb2Y": -0.14,
+   "neb2W": 0.06
+  },
+  "post": {
+   "seed": 1119,
+   "exposure": 1.0,
+   "disk_thr": 0.35,
+   "sky_gain": 0.6,
+   "ridge_base": 0.84,
+   "ridge_amp": 0.17,
+   "ridge_rough": 0.016,
+   "astro_x": 0.6,
+   "astro_feet": 0.84,
+   "astro_h": 0.055,
+   "far_base": 0.82,
+   "far_peak_x": 0.2,
+   "far_peak_y": 0.82,
+   "far_amp": 0.05,
+   "far_rough": 0.008,
+   "glow_x": 0.68,
+   "glow_w": 0.42,
+   "glow_h": 0.065,
+   "glow_col": [
+    1.0,
+    0.6,
+    0.3
+   ],
+   "glow_gain": 0.45,
+   "far_col": [
+    0.05,
+    0.055,
+    0.08
+   ],
+   "rock_col": [
+    0.004,
+    0.005,
+    0.008
+   ],
+   "hole_xy": [
+    0.71,
+    0.635
+   ],
+   "rim_w": 2.0,
+   "rim_gain": 0.9,
+   "rim_col": [
+    1.0,
+    0.74,
+    0.45
+   ],
+   "rim_w_astro": 2.2,
+   "rim_gain_astro": 1.6,
+   "glint_gain": 1.0,
+   "n_spikes": 2,
+   "spike_len": 110,
+   "spike_gain": 0.45,
+   "spike_angle": 12,
+   "bloom_thr": 1.0,
+   "bloom_sigmas": [
+    4,
+    12,
+    32,
+    90,
+    220
+   ],
+   "bloom_weights": [
+    0.4,
+    0.28,
+    0.16,
+    0.1,
+    0.06
+   ],
+   "bloom_gain": 0.38,
+   "streak_thr": 7.0,
+   "streak_len": 900,
+   "streak_tint": [
+    0.35,
+    0.6,
+    1.0
+   ],
+   "streak_gain": 0.32,
+   "tm_exposure": 0.66,
+   "shadow_tint": [
+    0.0,
+    0.0012,
+    0.004
+   ],
+   "shadow_amt": 1.0,
+   "high_tint": [
+    1.06,
+    1.0,
+    0.9
+   ],
+   "high_amt": 0.6,
+   "sat": 1.15,
+   "vig_c": [
+    0.55,
+    0.5
+   ],
+   "vig_amt": 0.55,
+   "spike_boxes": [
+    [
+     0.72,
+     0.02,
+     0.98,
+     0.3
+    ],
+    [
+     0.02,
+     0.4,
+     0.12,
+     0.46
+    ]
+   ],
+   "shadow_r": 0.122,
+   "shadow_keep": 0.05,
+   "halo_sigma": 260,
+   "halo_col": [
+    1.0,
+    0.66,
+    0.32
+   ],
+   "halo_gain": 0.1,
+   "glint_size": 0.012,
+   "knee": 7.0,
+   "rim_fall": 0.035,
+   "astro_on": false,
+   "ship": {
+    "gain": 12.0,
+    "fade_pow": 1.5,
+    "core_w": 2.2,
+    "glow_w": 9.0,
+    "sheath_col": [
+     0.45,
+     0.72,
+     1.0
+    ],
+    "speed_lines": [
+     [
+      0.007,
+      0.3,
+      1.3,
+      1.5,
+      [
+       0.75,
+       0.92,
+       1.0
+      ]
+     ],
+     [
+      -0.007,
+      0.42,
+      1.2,
+      1.3,
+      [
+       0.62,
+       0.86,
+       1.0
+      ]
+     ],
+     [
+      0.013,
+      0.52,
+      1.1,
+      0.95,
+      [
+       0.55,
+       0.8,
+       1.0
+      ]
+     ],
+     [
+      -0.013,
+      0.26,
+      1.1,
+      0.85,
+      [
+       0.78,
+       0.62,
+       1.0
+      ]
+     ],
+     [
+      0.019,
+      0.66,
+      1.0,
+      0.6,
+      [
+       0.62,
+       0.86,
+       1.0
+      ]
+     ],
+     [
+      -0.019,
+      0.58,
+      1.0,
+      0.5,
+      [
+       0.52,
+       0.76,
+       1.0
+      ]
+     ]
+    ],
+    "shimmer": {
+     "wavelength": 70,
+     "amp": 5.0,
+     "width": 60
+    },
+    "fringe": {
+     "offset": 17,
+     "wobble": 3.0,
+     "wavelength": 55,
+     "gain": 0.45
+    },
+    "bubble": {
+     "rx": 0.95,
+     "ry": 0.55,
+     "gain": 0.35
+    },
+    "ship_len": 0.064,
+    "hull_col": [
+     0.42,
+     0.47,
+     0.56
+    ],
+    "edge_col": [
+     0.8,
+     0.9,
+     1.0
+    ],
+    "edge_gain": 2.0,
+    "rim_gain": 2.5,
+    "spine_gain": 1.2,
+    "cockpit_gain": 3.0,
+    "halo_gain": 1.2,
+    "engine_gain": 40.0,
+    "word_start": 120,
+    "word_stagger": 100,
+    "word_gap": 34,
+    "word_gap_s": 45,
+    "p0": [
+     0.6,
+     0.752
+    ],
+    "p1": [
+     0.44,
+     0.765
+    ],
+    "p2": [
+     0.27,
+     0.672
+    ],
+    "words": [
+     [
+      "recall",
+      70,
+      2.3,
+      1
+     ],
+     [
+      "memory",
+      66,
+      2.1,
+      -1
+     ],
+     [
+      "retain",
+      62,
+      1.9,
+      1
+     ],
+     [
+      "vocabulary",
+      60,
+      1.7,
+      -1
+     ],
+     [
+      "remember",
+      58,
+      1.6,
+      1
+     ]
+    ]
+   },
+   "glow2": {
+    "x": 0.18,
+    "w": 0.28,
+    "h": 0.06,
+    "col": [
+     0.35,
+     0.55,
+     1.0
+    ],
+    "gain": 0.22
+   }
+  },
+  "text": {
+   "cssW": 1440,
+   "cssH": 1080,
+   "head": {
+    "left": 60,
+    "top": 60,
+    "size1": 116,
+    "size2": 116,
+    "gap": 14,
+    "track": 0.01,
+    "font": "NotoSansSC-900.ttf"
+   },
+   "sub": {
+    "left": 64,
+    "top": 352,
+    "size": 62,
+    "track": 0.06,
+    "color": "#f3f6fb",
+    "font": "NotoSansSC-500.ttf",
+    "accColor": "#e2f2ff",
+    "goldColor": "#ffd27a"
+   },
+   "fx": {
+    "glow1": [
+     3,
+     0.3
+    ],
+    "glow2": [
+     16,
+     0.22
+    ],
+    "glow3": [
+     60,
+     0.12
+    ],
+    "glow_col": [
+     0.8,
+     0.88,
+     1.0
+    ],
+    "backing": [
+     28,
+     0.45
+    ],
+    "bevel_sigma": 2.0,
+    "bevel_hi": 0.35,
+    "bevel_lo": 0.28,
+    "rim_px": 2.4,
+    "rim_gain": 0.55,
+    "rim_col": [
+     1.0,
+     0.8,
+     0.5
+    ],
+    "grain": 0.016,
+    "grain_text": 0.35,
+    "acc_glow": [
+     [
+      3,
+      0.55
+     ],
+     [
+      12,
+      0.45
+     ],
+     [
+      34,
+      0.22
+     ]
+    ],
+    "acc_col": [
+     0.45,
+     0.72,
+     1.0
+    ],
+    "hot_glow": [
+     [
+      4,
+      0.35
+     ],
+     [
+      18,
+      0.28
+     ],
+     [
+      60,
+      0.14
+     ]
+    ],
+    "hot_col": [
+     1.0,
+     0.7,
+     0.32
+    ],
+    "sub_glow": [
+     [
+      3,
+      0.3
+     ],
+     [
+      14,
+      0.25
+     ],
+     [
+      44,
+      0.12
+     ]
+    ],
+    "sub_col": [
+     0.8,
+     0.88,
+     1.0
+    ],
+    "gold_glow": [
+     [
+      3,
+      0.45
+     ],
+     [
+      12,
+      0.35
+     ],
+     [
+      34,
+      0.16
+     ]
+    ],
+    "gold_col": [
+     1.0,
+     0.72,
+     0.35
+    ],
+    "bar": {
+     "y_off": 14,
+     "thick": 2.2,
+     "gain": 0.85,
+     "len_frac": 1.05,
+     "col": [
+      0.85,
+      0.92,
+      1.0
+     ],
+     "glow": 10,
+     "glow_gain": 0.35
+    }
+   }
+  }
+ }
+}
